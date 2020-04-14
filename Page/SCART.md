@@ -119,9 +119,9 @@ RGB 제어 인/아웃<br />
 
 ## 외부 링크
 
-  - [SCART connector pinout and cables schemes](http://pinouts.ru/Home/Scart_pinout.shtml)
-  - [SCART at hardwarebook.info](http://www.hardwarebook.info/SCART)
-  - [RGB/VGA and SCART](http://www.epanorama.net/documents/vga2rgb/scart.html)
+  - [SCART connector pinout and cables schemes](https://web.archive.org/web/20141104225549/http://pinouts.ru/Home/Scart_pinout.shtml)
+  - [SCART at hardwarebook.info](https://web.archive.org/web/20141031050315/http://www.hardwarebook.info/SCART)
+  - [RGB/VGA and SCART](https://web.archive.org/web/20150924001345/http://www.epanorama.net/documents/vga2rgb/scart.html)
   - [EuroSCART versus JP21](https://www.retrogamingcables.co.uk/euroscart-versus-jp21)
 
 [분류:영상 기술](https://ko.wikipedia.org/wiki/분류:영상_기술 "wikilink")

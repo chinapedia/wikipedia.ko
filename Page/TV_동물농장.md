@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TV ](https://ko.wikipedia.org/wiki/TV_).
+> This article is converted from Wikipedia: [TV 동물농장](https://ko.wikipedia.org/wiki/TV_동물농장).
 
 
 《**TV 동물농장**》은 매주 [일요일](../Page/일요일.md "wikilink") 오전 9시 30분에 [SBS TV에서](../Page/SBS_TV.md "wikilink") 방송되는 텔레비전 프로그램이다.
@@ -116,28 +116,28 @@ TV 동물농장의 경우 [미국](../Page/미국.md "wikilink"), [일본](../Pa
 
 ## 모바일, PC 등으로 시청하는 방법
 
-현재 TV 동물농장을 모바일 기기, PC로 이용할 수 있는 방법은 [WAVVE](https://ko.wikipedia.org/wiki/WAVVE "wikilink"), [현대HCN 모바일TV](../Page/에브리온_TV.md "wikilink") 등으로만 이용 가능하다. 그러나 [시즌](https://ko.wikipedia.org/wiki/시즌_\(플랫폼\) "wikilink"), U+모바일 TV와 [TVING](../Page/티빙.md "wikilink")\[21\]에서는 시청할 수 없으며, 다만, PC나 모바일 기기를 활용한 시청 가능 채널의 경우 [SBS TV](../Page/SBS_TV.md "wikilink"), [SBS 플러스](../Page/SBS_플러스.md "wikilink"), [SBS funE](../Page/SBS_funE.md "wikilink"), [SBS CNBC](../Page/SBS_CNBC.md "wikilink"), [리얼TV](https://ko.wikipedia.org/wiki/리얼TV "wikilink") 등 5개의 채널만 가능하나 [SkyPetPark](https://ko.wikipedia.org/wiki/SkyPetPark "wikilink"), [채널J](../Page/채널J.md "wikilink"), AsiaN 등과 같은 일부 채널에서는 프로그램 제목이나 자리에 **방송사의 사정으로 제공할 수 없습니다**라는 이름 혹은 **방송 불가 안내** 등과 같은 안내 문구가 달게 된다. 이유는 [저작권](../Page/저작권.md "wikilink")이 아예 없기 때문이다.\[22\] 그 외에도 [WAVVE](https://ko.wikipedia.org/wiki/WAVVE "wikilink")에서는 동물농장 정주행 채널을 사용해야 24시간 내내 언제든지 사용할 수 있다.
+현재 TV 동물농장을 모바일 기기, PC로 이용할 수 있는 방법은 [WAVVE](https://ko.wikipedia.org/wiki/WAVVE "wikilink"), [현대HCN 모바일TV](../Page/에브리온_TV.md "wikilink") 등으로만 이용 가능하다. 그러나 [시즌](https://ko.wikipedia.org/wiki/시즌_\(플랫폼\) "wikilink"), U+모바일 TV와 [TVING](../Page/티빙.md "wikilink")\[21\]에서는 시청할 수 없으며, 다만, PC나 모바일 기기를 활용한 시청 가능 채널의 경우 [SBS TV](../Page/SBS_TV.md "wikilink"), [SBS 플러스](../Page/SBS_플러스.md "wikilink"), [SBS funE](../Page/SBS_funE.md "wikilink"), [SBS CNBC](../Page/SBS_CNBC.md "wikilink"), [리얼TV](https://ko.wikipedia.org/wiki/리얼TV "wikilink") 등 5개의 채널만 가능하나 [ONCE](https://ko.wikipedia.org/wiki/ONCE "wikilink"), [채널J](../Page/채널J.md "wikilink"), AsiaN 등과 같은 일부 채널에서는 프로그램 제목이나 자리에 **방송사의 사정으로 제공할 수 없습니다**라는 이름 혹은 **방송 불가 안내** 등과 같은 안내 문구가 달게 된다. 이유는 [저작권](../Page/저작권.md "wikilink")이 아예 없기 때문이다.\[22\] 그 외에도 [WAVVE](https://ko.wikipedia.org/wiki/WAVVE "wikilink")에서는 동물농장 정주행 채널을 사용해야 24시간 내내 언제든지 사용할 수 있다.
 
 ## 동시간대 경쟁 프로그램
 
-  - [신비한TV 서프라이즈](../Page/신비한TV_서프라이즈.md "wikilink") ([MBC TV](../Page/MBC_TV.md "wikilink"))
-  - [TV쇼 진품명품](../Page/TV쇼_진품명품.md "wikilink") ([KBS 1TV](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink"))
-  - [장학퀴즈](../Page/장학퀴즈.md "wikilink") ([EBS 1TV](../Page/EBS_1TV.md "wikilink"))
+  - [TV쇼 진품명품](../Page/TV쇼_진품명품.md "wikilink") (KBS 1TV)
+  - [장학퀴즈](../Page/장학퀴즈.md "wikilink") (EBS 1TV)
+  - [신비한TV 서프라이즈](../Page/신비한TV_서프라이즈.md "wikilink") (MBC TV)
 
 ## 같이 보기
 
-  - [와우\! 동물천하](https://ko.wikipedia.org/wiki/와우!_동물천하 "wikilink"), [애니멀즈](../Page/애니멀즈_\(텔레비전_프로그램\).md "wikilink"), [하하랜드](https://ko.wikipedia.org/wiki/하하랜드 "wikilink"), [오래봐도 예쁘다](https://ko.wikipedia.org/wiki/오래봐도_예쁘다 "wikilink") ([MBC TV](../Page/MBC_TV.md "wikilink"))
-  - [주주클럽](../Page/주주클럽_\(텔레비전_프로그램\).md "wikilink"), [단짝](https://ko.wikipedia.org/wiki/단짝 "wikilink"), [은밀하고 위대한 동물의 사생활](../Page/은밀하고_위대한_동물의_사생활.md "wikilink") ([KBS 2TV](../Page/KBS_2TV.md "wikilink"))
-  - [동물일기](https://ko.wikipedia.org/wiki/동물일기 "wikilink"), [야옹멍멍 귀여워](../Page/야옹멍멍_귀여워.md "wikilink"), [세상에 나쁜 개는 없다](../Page/세상에_나쁜_개는_없다.md "wikilink"), [고양이를 부탁해](../Page/고양이를_부탁해_\(텔레비전_프로그램\).md "wikilink"), [아기 동물 귀여워](https://ko.wikipedia.org/wiki/아기_동물_귀여워 "wikilink"), [펫하트](https://ko.wikipedia.org/wiki/펫하트 "wikilink") ([EBS 1TV](../Page/EBS_1TV.md "wikilink"))
-  - 동고동락, 개먼드라마 파트라슈 ([TV조선](../Page/TV조선.md "wikilink"))
-  - 기막힌 동물원, 우리집에 해피가 왔다 ([MBN](../Page/매일방송.md "wikilink"))
-  - [펫토리얼리스트](https://ko.wikipedia.org/wiki/펫토리얼리스트 "wikilink") ([온스타일](https://ko.wikipedia.org/wiki/온스타일 "wikilink"))
-  - [개밥 주는 남자](../Page/개밥_주는_남자.md "wikilink") ([채널A](../Page/채널A.md "wikilink"))
-  - [개별방송](../Page/개별방송.md "wikilink"), [식빵 굽는 고양이](../Page/식빵_굽는_고양이.md "wikilink"), [잘살아보시개](../Page/잘살아보시개.md "wikilink"), [오 마이 펫](https://ko.wikipedia.org/wiki/오_마이_펫 "wikilink"), [여자친구\! 강아지를 부탁해](../Page/여자친구!_강아지를_부탁해.md "wikilink"), [펫 닥터스](https://ko.wikipedia.org/wiki/펫_닥터스 "wikilink") ([SkyPetpark](../Page/SkyPetpark.md "wikilink"))
-  - [마리와 나](../Page/마리와_나.md "wikilink"), [그랜드 부다개스트](https://ko.wikipedia.org/wiki/그랜드_부다개스트 "wikilink")\[23\] ([JTBC](../Page/JTBC.md "wikilink"))
-  - [상상고양이](../Page/상상고양이.md "wikilink") ([MBC 에브리원](../Page/MBC_에브리원.md "wikilink")) - 드라마로 소개됨
-  - [대화가 필요한 개냥](https://ko.wikipedia.org/wiki/대화가_필요한_개냥 "wikilink"), [냐옹은 페이크다](https://ko.wikipedia.org/wiki/냐옹은_페이크다 "wikilink") ([tvN](https://ko.wikipedia.org/wiki/tvN "wikilink"))
-  - [똥강아지들](https://ko.wikipedia.org/wiki/똥강아지들 "wikilink"), 펫츠고\! 댕댕트립 ([SBS 플러스](../Page/SBS_플러스.md "wikilink"))
+  - [주주클럽](../Page/주주클럽_\(텔레비전_프로그램\).md "wikilink"), [단짝](https://ko.wikipedia.org/wiki/단짝 "wikilink"), [은밀하고 위대한 동물의 사생활](../Page/은밀하고_위대한_동물의_사생활.md "wikilink"), [개는 훌륭하다](https://ko.wikipedia.org/wiki/개는_훌륭하다 "wikilink") (KBS 2TV)
+  - [동물일기](https://ko.wikipedia.org/wiki/동물일기 "wikilink"), [야옹멍멍 귀여워](../Page/야옹멍멍_귀여워.md "wikilink"), [세상에 나쁜 개는 없다](../Page/세상에_나쁜_개는_없다.md "wikilink"), [고양이를 부탁해](../Page/고양이를_부탁해_\(텔레비전_프로그램\).md "wikilink"), [아기 동물 귀여워](https://ko.wikipedia.org/wiki/아기_동물_귀여워 "wikilink"), [펫하트](https://ko.wikipedia.org/wiki/펫하트 "wikilink") (EBS 1TV)
+  - [와우\! 동물천하](https://ko.wikipedia.org/wiki/와우!_동물천하 "wikilink"), [애니멀즈](../Page/애니멀즈_\(텔레비전_프로그램\).md "wikilink"), [하하랜드](https://ko.wikipedia.org/wiki/하하랜드 "wikilink"), [오래봐도 예쁘다](https://ko.wikipedia.org/wiki/오래봐도_예쁘다 "wikilink") (MBC TV)
+  - [마리와 나](../Page/마리와_나.md "wikilink"), [그랜드 부다개스트](https://ko.wikipedia.org/wiki/그랜드_부다개스트 "wikilink")\[23\] (JTBC)
+  - 기막힌 동물원, 우리집에 해피가 왔다 (MBN)
+  - 동고동락, 개먼드라마 파트라슈 (TV조선)
+  - [대화가 필요한 개냥](https://ko.wikipedia.org/wiki/대화가_필요한_개냥 "wikilink"), [냐옹은 페이크다](https://ko.wikipedia.org/wiki/냐옹은_페이크다 "wikilink"), 캣츠 앤 독스 (tvN)
+  - [펫토리얼리스트](https://ko.wikipedia.org/wiki/펫토리얼리스트 "wikilink") (온스타일)
+  - [개별방송](../Page/개별방송.md "wikilink"), [식빵 굽는 고양이](../Page/식빵_굽는_고양이.md "wikilink"), [잘살아보시개](../Page/잘살아보시개.md "wikilink"), [오 마이 펫](https://ko.wikipedia.org/wiki/오_마이_펫 "wikilink"), [여자친구\! 강아지를 부탁해](../Page/여자친구!_강아지를_부탁해.md "wikilink"), [펫 닥터스](https://ko.wikipedia.org/wiki/펫_닥터스 "wikilink") (skyPetpark)
+  - [상상고양이](../Page/상상고양이.md "wikilink") (MBC 에브리원) - 드라마로 소개됨
+  - [똥강아지들](https://ko.wikipedia.org/wiki/똥강아지들 "wikilink"), 펫츠고\! 댕댕트립 (SBS 플러스)
+  - [개밥 주는 남자](../Page/개밥_주는_남자.md "wikilink") (채널A)
 
 ## 각주
 
@@ -155,7 +155,7 @@ TV 동물농장의 경우 [미국](../Page/미국.md "wikilink"), [일본](../Pa
 4.  [김희애 모피의상논란..동물협 "항의"vs SBS"설정일뿐](http://news.nate.com/view/20110303n19286) 스타뉴스 2011년 3월 3일
 5.  [견공들의 문제를 뿌리 뽑기 위한 2013 동물농장 프로젝트\!](http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=106&oid=082&aid=0000379875) 부산일보 2013년 3월 8일
 6.  ['동물농장' 다나 깜짝 출연, 반려견 레이크의 문제는 무엇?](http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=106&oid=311&aid=0000198043) 엑스포츠뉴스 2013년 3월 10일
-7.  늑대, 하이에나, 스라소니, 여우 등이 나올 경우에도 이 캐릭터를 쓴다.
+7.  늑대, 하이에나, 스라소니, 여우, 라쿤 등이 나올 경우에도 이 캐릭터를 쓴다.
 8.  호랑이, 사자, 퓨마, 표범, 치타, 재규어 등이 나와도 이 캐릭터를 쓴다.
 9.  침팬지, 고릴라 등이 나와도 이 캐릭터를 쓴다.
 10. 코뿔소 등 여러 동물들이 나오면 이 캐릭터를 쓴다.
@@ -171,4 +171,4 @@ TV 동물농장의 경우 [미국](../Page/미국.md "wikilink"), [일본](../Pa
 20. 헝가리는 자몽이와 함께 풀러 대회에 출전시키기 위해 [쇼프론](../Page/쇼프론.md "wikilink")까지 나간 것으로 보인다.
 21. 티빙의 경우 동물농장을 방영하는 채널이 아예 없다.
 22. 단, [skyPetPark](https://ko.wikipedia.org/wiki/skyPetPark "wikilink") 같은 경우 **개과천선**이라는 프로그램이 올레tv 모바일에서도 기존에 지원이 가능하였으나, 최근에 그것 마저도 제공될 수 없다. 하지만 하루뉴스나 펫투게더 같은 경우는 올레tv 모바일에서는 당연히 제공할 수 없게 된다. 따라서 동물농장과 관계되어 있는 프로그램은 전부 이용할 수 없게 되며, 추후 저작권을 형식상 공식적으로 완전히 확보될 때까지는 당분간 방송 채널의 사정상 제공시키지 않는 것으로 봐야 한다.
-23. [그랜드 부다개스트는](https://ko.wikipedia.org/wiki/그랜드_부다개스트 "wikilink") [JTBC2](https://ko.wikipedia.org/wiki/JTBC2 "wikilink")에서 본방 편성되었던 것으로 보이게 되며, [JTBC](../Page/JTBC.md "wikilink") 소속은 맞지만 JTBC2의 오리지널 프로그램으로 취급한다.
+23. [그랜드 부다개스트는](https://ko.wikipedia.org/wiki/그랜드_부다개스트 "wikilink") JTBC2에서 본방 편성되었던 것으로 보이게 되며, JTBC 소속은 맞지만 JTBC2의 오리지널 프로그램으로 취급한다.

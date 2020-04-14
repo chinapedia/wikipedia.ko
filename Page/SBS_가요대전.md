@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [SBS ](https://ko.wikipedia.org/wiki/SBS_).
+> This article is converted from Wikipedia: [SBS 가요대전](https://ko.wikipedia.org/wiki/SBS_가요대전).
 
 
-《**SBS 가요대전**》은 [SBS](../Page/SBS_\(대한민국의_방송사\).md "wikilink")\[1\] 예능본부에서 주최하는 연말 특집 가요 프로그램이다. [1992년](../Page/1992년.md "wikilink")부터 [1995년](../Page/1995년.md "wikilink")까지는 **SBS 스타상**의 가수 부문으로 시상하였으며, [1996년](../Page/1996년.md "wikilink")부터 [2006년](../Page/2006년.md "wikilink")까지 가요 시상식 체제를 거쳐 [2007년](../Page/2007년.md "wikilink")부터 시상을 폐지한 뒤 축제 형식으로 진행되고 있다. SAF(SBS Awards Festival의 약칭)의 도입을 통해 [2014년](../Page/2014년.md "wikilink")에 시상식을 잠정적으로 도입한 바 있다.\[2\] 2020년부터 SBS의 연말시상식(연예대상, 연기대상, 가요대전)은 12월 말 월 \~ 목 21:40, 금 22:00, 토 21:00, 일 21:05에 방송됩니다.
+《**SBS 가요대전**》은 [SBS](../Page/SBS_\(대한민국의_방송사\).md "wikilink")\[1\] 예능본부에서 주최하는 연말 특집 가요 프로그램이다. [1992년](../Page/1992년.md "wikilink")부터 [1995년](../Page/1995년.md "wikilink")까지는 **SBS 스타상**의 가수 부문으로 시상하였으며, [1996년](../Page/1996년.md "wikilink")부터 [2006년](../Page/2006년.md "wikilink")까지 가요 시상식 체제를 거쳐 [2007년](../Page/2007년.md "wikilink")부터 시상을 폐지한 뒤 축제 형식으로 진행되고 있다. SAF(SBS Awards Festival의 약칭)의 도입을 통해 [2014년](../Page/2014년.md "wikilink")에 시상식을 잠정적으로 도입한 바 있다.\[2\]
 
 ## 역대 공식 MC
 

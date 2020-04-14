@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ XML  ](https://ko.wikipedia.org/wiki/_XML__).
+> This article is converted from Wikipedia: [오픈 XML 문서 규격](https://ko.wikipedia.org/wiki/오픈_XML_문서_규격).
 
 
 **오픈 XML 문서 규격**(Open XML Paper Specification, 줄여서 오픈XPS)은 [페이지 기술 언어를](https://ko.wikipedia.org/wiki/페이지_기술_언어 "wikilink") 위한 규격으로, [마이크로소프트](../Page/마이크로소프트.md "wikilink")사가 본래 XML 문서 규격(*XML Paper Specification*, 줄여서 XPS)으로 개발한 고정 문서 포맷이기도 하다. 나중에 [Ecma 인터내셔널은](../Page/Ecma_인터내셔널.md "wikilink") 이를 **ECMA-388**이라는 국제 표준으로 표준화하였다. [XML](../Page/XML.md "wikilink") 기반(더 정확히 말해 [XAML](../Page/XAML.md "wikilink") 기반)의 규격이며 [장치 독립과](https://ko.wikipedia.org/wiki/장치_독립 "wikilink") [해상도 독립을](https://ko.wikipedia.org/wiki/해상도_독립 "wikilink") 지원하는 [색 관리](../Page/색_관리.md "wikilink") [벡터 기반](../Page/벡터_그래픽스.md "wikilink") 문서 포맷에 기반을 두고 있다. 오픈XPS는 2009년 6월 19일에 [오픈 표준으로](https://ko.wikipedia.org/wiki/오픈_표준 "wikilink") 표준화되었다.\[1\]

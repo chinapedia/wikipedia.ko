@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ Z](https://ko.wikipedia.org/wiki/_Z).
+> This article is converted from Wikipedia: [가부키 Z](https://ko.wikipedia.org/wiki/가부키_Z).
 
 
 《**카부키 - Z**》는 [아케이드 게임이다](../Page/아케이드_게임.md "wikilink"). 1988년 타이토에서 만든 게임으로서 고어적인 부분이 매우 많아 논란이 되고 있다. 특히 오프닝 서부터가 할복으로 시작하여 문제가 제기되기도 했다. 주인공이 칼로 적들을 쓰러뜨리는 위주의 강제 횡스크롤 액션게임이다. 일반적들을 쓰러뜨리면 두 명의 보스(2스테이지의 경우 한 명의 보스와 두 번 겨루며 3스테이지의 경우 한 명을 쓰러뜨리면 2명과 동시에 겨루게 된다.)와 겨루는 방식의 시스템을 갖고 있다.

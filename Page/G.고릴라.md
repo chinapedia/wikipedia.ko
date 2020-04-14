@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [G.](https://ko.wikipedia.org/wiki/G.).
+> This article is converted from Wikipedia: [G.고릴라](https://ko.wikipedia.org/wiki/G.고릴라).
 
 
 **G.고릴라**((高玄錡), [1973년](../Page/1973년.md "wikilink") [2월 20일](../Page/2월_20일.md "wikilink") \~ )는 [대한민국](../Page/대한민국.md "wikilink")의 [가수](https://ko.wikipedia.org/wiki/가수 "wikilink"), [작사가](https://ko.wikipedia.org/wiki/작사가 "wikilink"), [작곡가](https://ko.wikipedia.org/wiki/작곡가 "wikilink"), [음반 프로듀서이다](https://ko.wikipedia.org/wiki/음반_프로듀서 "wikilink").

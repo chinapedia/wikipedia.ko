@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ GQ b](https://ko.wikipedia.org/wiki/_GQ_b).
+> This article is converted from Wikipedia: [이리자리 GQ b](https://ko.wikipedia.org/wiki/이리자리_GQ_b).
 
 
 **이리자리 GQ b**는 [K형 주계열성](../Page/K형_주계열성.md "wikilink") [이리자리 GQ를](https://ko.wikipedia.org/wiki/이리자리_GQ "wikilink") 도는 [외계 행성](../Page/외계_행성.md "wikilink") 후보이다. 2005년 4월 발견 사실이 공식 발표되었다. [2M1207b](../Page/2M1207b.md "wikilink")와 함께 이리자리 GQ b는 직접 사진을 찍어 존재를 증명한 외계 행성이다. 2004년 6월 25일 [칠레](../Page/칠레.md "wikilink") 소재 파라날 천문대 내 VLT 망원경을 이용하여 사진을 찍었다.\[1\]

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FIFA  ](https://ko.wikipedia.org/wiki/FIFA__).
+> This article is converted from Wikipedia: [FIFA 월드컵 수상](https://ko.wikipedia.org/wiki/FIFA_월드컵_수상).
 
 
 **FIFA 월드컵 수상**(受賞)은 [FIFA 월드컵](https://ko.wikipedia.org/wiki/FIFA_월드컵 "wikilink") 대회가 끝난 후 FIFA에서 결정한다. 상은 다섯 종류가 있는데 그 내용은 다음과 같다.

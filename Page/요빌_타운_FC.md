@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  FC](https://ko.wikipedia.org/wiki/__FC).
+> This article is converted from Wikipedia: [요빌 타운 FC](https://ko.wikipedia.org/wiki/요빌_타운_FC).
 
 
 **요빌 타운 FC**(Yeovil Town FC)는 [잉글랜드](../Page/잉글랜드.md "wikilink") [서머싯주](../Page/서머싯주.md "wikilink")에 있는 [요빌](../Page/요빌.md "wikilink")을 연고로 하는 축구 클럽이다. 2013-14 시즌에 [풋볼 리그 챔피언십에서](https://ko.wikipedia.org/wiki/풋볼_리그_챔피언십 "wikilink") 24위로 마친 후 강등, 현재는 [풋볼 리그 1에](https://ko.wikipedia.org/wiki/풋볼_리그_1 "wikilink") 소속되어 있다.

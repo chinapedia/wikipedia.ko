@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [NH](https://ko.wikipedia.org/wiki/NH).
+> This article is converted from Wikipedia: [NH농협금융지주](https://ko.wikipedia.org/wiki/NH농협금융지주).
 
 
 **NH농협금융지주**는 [농협중앙회의](../Page/농업협동조합_\(대한민국\).md "wikilink") 신용사업부문을 별개로 분리해 만들어진 지주회사이다.
@@ -27,11 +27,9 @@
   - [NH농협손해보험](https://ko.wikipedia.org/wiki/NH농협손해보험 "wikilink")
   - NH-Amundi자산운용 (구 NH-CA자산운용)
   - [NH투자증권](../Page/NH투자증권.md "wikilink") (구 세종증권 | 구 NH농협증권 | 구 우리투자증권)
-
-`*NH선물 (구 NH농협선물 | 구 우리선물)`
-`*NH헤지자산운용`
-
-  - [NH저축은행](https://ko.wikipedia.org/wiki/NH저축은행 "wikilink") (구 우리금융저축은행)
+  - NH선물 (구 NH농협선물 | 구 우리선물)
+  - NH헤지자산운용
+  - NH저축은행 (구 우리금융저축은행)
   - NH농협리츠운용
   - NH벤처투자
 

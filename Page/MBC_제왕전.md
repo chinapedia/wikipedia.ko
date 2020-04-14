@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [MBC ](https://ko.wikipedia.org/wiki/MBC_).
+> This article is converted from Wikipedia: [MBC 제왕전](https://ko.wikipedia.org/wiki/MBC_제왕전).
 
 
 **MBC 제왕전**은 [대한민국](../Page/대한민국.md "wikilink")에서 주최한 [바둑 기전이다](../Page/바둑_기전.md "wikilink"). [문화방송](../Page/문화방송.md "wikilink")의 후원으로 [1982년](../Page/1982년.md "wikilink")에 창설되었다. [1995년](../Page/1995년.md "wikilink")에 제13회 대회를 마지막으로 중단되었다.

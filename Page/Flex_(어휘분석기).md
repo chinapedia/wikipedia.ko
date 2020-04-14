@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Flex \(\)](https://ko.wikipedia.org/wiki/Flex_\(\)).
+> This article is converted from Wikipedia: [Flex \(어휘분석기\)](https://ko.wikipedia.org/wiki/Flex_\(어휘분석기\)).
 
 
 **flex**는 《fast lexical analyzer generator》의 줄임말로 [lex](https://ko.wikipedia.org/wiki/lex "wikilink")의 기능을 개선한 [자유 소프트웨어이다](../Page/자유_소프트웨어.md "wikilink"). 주로 [bison과](../Page/GNU_bison.md "wikilink") 쌍을 이루어 구문 분석기를 만드는 데 사용된다. flex를 이용하면 [C로](../Page/C_\(프로그래밍_언어\).md "wikilink") 구문 문석 코드를 만들 수 있다. 한편 [C++](https://ko.wikipedia.org/wiki/C++ "wikilink") 코드를 만들어 주는 비슷한 기능을 하는 프로그램으로 [flex++](https://ko.wikipedia.org/wiki/flex++ "wikilink")가 있으며 flex와 함께 배포된다. 작성자는 "Vern Paxson"씨로 1987년도에 처음 만들어졌다.

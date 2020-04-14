@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  DS 2](https://ko.wikipedia.org/wiki/__DS_2).
+> This article is converted from Wikipedia: [노부나가의 야망 DS 2](https://ko.wikipedia.org/wiki/노부나가의_야망_DS_2).
 
 
 《**노부나가의 야망 DS 2**》()는 [2008년](../Page/2008년.md "wikilink") [7월 31일에](../Page/7월_31일.md "wikilink") 발매되었다. 《[무장풍운록](../Page/노부나가의_야망_무장풍운록.md "wikilink")》이 베이스가 되었지만, [도호쿠 지방의](../Page/도호쿠_지방.md "wikilink") 지도가 세세해졌거나, 무장의 능력치가 변경되어 있거나 하는 것으로, 오리지널판보다 다양한 플레이를 할 수 있게 되었다.

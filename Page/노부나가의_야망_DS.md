@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  DS](https://ko.wikipedia.org/wiki/__DS).
+> This article is converted from Wikipedia: [노부나가의 야망 DS](https://ko.wikipedia.org/wiki/노부나가의_야망_DS).
 
 
 《**노부나가의 야망 DS**》()는 [코에이](../Page/코에이.md "wikilink")에서 [2006년](../Page/2006년.md "wikilink") [4월 27일에](../Page/4월_27일.md "wikilink") 발매 된 [닌텐도 DS용](../Page/닌텐도_DS.md "wikilink") [역사 시뮬레이션 게임이다](../Page/역사_시뮬레이션_게임.md "wikilink"). 《[열풍전withPK](../Page/노부나가의_야망_열풍전.md "wikilink")》를 베이스로 개발되어, 맵과 코멘트, '제왕의 전투(諸王の戦い)' 시나리오 등의 특징에서 [PS판을](https://ko.wikipedia.org/wiki/플레이스테이션 "wikilink") 베이스로 하고 있는 것을 알 수 있다. 단, 터치 패널의 [마우스](../Page/마우스.md "wikilink")와 유사한 조작성과 두 화면의 활용 등 [Windows](https://ko.wikipedia.org/wiki/Windows "wikilink")판에 가까운 부분도 가지고 있다.

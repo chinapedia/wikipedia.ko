@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Invincible \(  \)](https://ko.wikipedia.org/wiki/Invincible_\(__\)).
+> This article is converted from Wikipedia: [Invincible \(마이클 잭슨의 음반\)](https://ko.wikipedia.org/wiki/Invincible_\(마이클_잭슨의_음반\)).
 
 
 ***Invincible***은 2001년 10월 30일에 발매된 [마이클 잭슨의](https://ko.wikipedia.org/wiki/마이클_잭슨 "wikilink") 마지막 정규앨범이다. 발매 첫주 366,000장 판매로 빌보드 앨범차트 1위에 올랐다. 전 세계적으로 700만장이 판매되었다.

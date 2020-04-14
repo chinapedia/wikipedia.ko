@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [XD  ](https://ko.wikipedia.org/wiki/XD__).
+> This article is converted from Wikipedia: [XD 픽처 카드](https://ko.wikipedia.org/wiki/XD_픽처_카드).
 
 
 [right](https://ko.wikipedia.org/wiki/파일:XD_card_16M_Fujifilm_back.jpg "wikilink") **xD 픽처 카드**(xD-Picture Card)는 [디지털 카메라에](../Page/디지털_카메라.md "wikilink") 주로 쓰이는 [플래시](../Page/플래시_메모리.md "wikilink") [메모리 카드이다](../Page/메모리_카드.md "wikilink"). xD는 원래 익스트림 디지털(e**x**treme **D**igital)을 대표하는 말이다.\[1\] 이 카드들은 [올림푸스](../Page/올림푸스.md "wikilink")와 [후지필름](../Page/후지필름.md "wikilink")이 개발한 것으로, 2002년 7월에 시장에 첫 선을 보였다. [도시바](../Page/도시바.md "wikilink")와 [삼성 전자는](https://ko.wikipedia.org/wiki/삼성_전자 "wikilink") 올림푸스와 후지필름의 카드들을 제조하고 있다. xD 카드들은 이제 [코닥](../Page/코닥.md "wikilink"), [샌디스크](../Page/샌디스크.md "wikilink"), [PNY](https://ko.wikipedia.org/wiki/PNY_테크놀로지스 "wikilink"), [렉사](../Page/렉사.md "wikilink")를 비롯한 다른 [브랜드](../Page/브랜드.md "wikilink") 이름을 단 채 팔리고 있다. 2008년 기준으로 xD 카드는 16 [MiB부터](../Page/메비바이트.md "wikilink") 2 GiB에 이르는 용량으로 판매하였다.

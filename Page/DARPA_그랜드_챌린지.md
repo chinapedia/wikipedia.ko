@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [DARPA  ](https://ko.wikipedia.org/wiki/DARPA__).
+> This article is converted from Wikipedia: [DARPA 그랜드 챌린지](https://ko.wikipedia.org/wiki/DARPA_그랜드_챌린지).
 
 
 [thumb](https://ko.wikipedia.org/wiki/파일:desertToCity.jpg "wikilink") **다르파 그랜드 챌린지**()는 [미국 국방부](../Page/미국_국방부.md "wikilink") 최고위 연구기관인 [국방고등기획국](../Page/방위고등연구계획국.md "wikilink")(Defense Advanced Research Projects Agency, DARPA, 다르파)이 후원하는 [무인 자동차](../Page/무인_자동차.md "wikilink") 경주 대회다. [미 의회의](../Page/미국_의회.md "wikilink") 허가를 얻어 다르파는 임무를 진척시키기 위한 현상금 경주 대회를 개최하였다. 다르파의 임무는 기초적 발견을 국가 안위의 보장에 사용할 수 있는 수준으로 연결시키는 혁명적이고 지대한 효과가 기대되는 연구를 후원하는 것이다. 첫 번째 다르파 그랜드 챌린지는 최초로 실질적인 험로 구간을 제한된 시간 안에 주파할 수 있는 완전 자율 주행 지상 차량을 창조하기 위한 기술을 개발하도록 장려하기 위해 개최되었다. 그 세 번째 대회인 어번 챌린지(Urban Challange)는 첫 대회에서 그 범위를 모의 도시 환경까지 넓혔다. 가장 최근의 대회인 2012 다르파 로보틱스 챌린지는 자율 긴급 복구 로봇을 목표로 하였다.

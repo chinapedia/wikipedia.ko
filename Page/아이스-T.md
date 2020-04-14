@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [-T](https://ko.wikipedia.org/wiki/-T).
+> This article is converted from Wikipedia: [아이스-T](https://ko.wikipedia.org/wiki/아이스-T).
 
 
 **아이스-T**(Ice-T)(본명: Tracy Marrow, [1958년](../Page/1958년.md "wikilink") 2월 16일 \~ )은 미국의 래퍼이자 배우이다. 그는 [그래미 어워드](../Page/그래미_어워드.md "wikilink") 수상자이며, 현재 [NBC](../Page/NBC.md "wikilink")에서 하는 범죄드라마 [성범죄 전담반(원제:성범죄수사대:SVU)에](https://ko.wikipedia.org/wiki/성범죄_전담반\(원제:성범죄수사대:SVU\) "wikilink") 출연 중이다.

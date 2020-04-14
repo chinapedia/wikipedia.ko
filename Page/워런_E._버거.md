@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ E. ](https://ko.wikipedia.org/wiki/_E._).
+> This article is converted from Wikipedia: [워런 E. 버거](https://ko.wikipedia.org/wiki/워런_E._버거).
 
 
 **워런 얼 버거**(Warren Earl Burger, [1907년](../Page/1907년.md "wikilink") [9월 17일](../Page/9월_17일.md "wikilink") \~ [1995년](../Page/1995년.md "wikilink") [6월 25일](../Page/6월_25일.md "wikilink"))는 1969년에서 1986년까지 [미국](../Page/미국.md "wikilink")의 [연방대법원장이었다](../Page/미국_연방_대법원.md "wikilink"). 버거는 보수적이었고 완고한 해석자로 간주되었지만, 그의 임기 내에 [임신 중절과](https://ko.wikipedia.org/wiki/임신_중절 "wikilink") [사형](../Page/사형.md "wikilink"), 학교의 [인종 분리](https://ko.wikipedia.org/wiki/인종_분리 "wikilink") 등에 대하여 사회에 변화를 일으키는 여러 결정을 내렸다.

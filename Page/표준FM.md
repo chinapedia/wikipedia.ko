@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FM](https://ko.wikipedia.org/wiki/FM).
+> This article is converted from Wikipedia: [표준FM](https://ko.wikipedia.org/wiki/표준FM).
 
 
 **표준FM**(또는 **SFM**)은 기존의 [AM으로만](../Page/중파방송.md "wikilink") 방송되던 라디오 방송을 [FM으로](../Page/FM_방송.md "wikilink") 그대로 재송출하는 방송을 뜻한다. 도시화가 가속화되면서 기하급수적으로 늘어가는 건축물로 인해, 중파방송의 수신률이 도심 지역에서 크게 떨어지는 현상을 보완하기 위해 같은 중파 주파수 대역의 송신 내용을 초단파 이상의 주파수 대역에도 그대로 송신하는 것이 주 목적이다.

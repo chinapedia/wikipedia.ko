@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KT](https://ko.wikipedia.org/wiki/KT).
+> This article is converted from Wikipedia: [KT테크](https://ko.wikipedia.org/wiki/KT테크).
 
 
 **주식회사 케이티테크**(KT Tech)는 [대한민국](../Page/대한민국.md "wikilink")의 [휴대 전화기](../Page/휴대_전화.md "wikilink") 제조 업체였다. [2001년](../Page/2001년.md "wikilink") [10월 14일에](../Page/10월_14일.md "wikilink") [한국통신프리텔](https://ko.wikipedia.org/wiki/한국통신프리텔 "wikilink")의 단말기 부문이 분사하여 KTF 테크놀로지스(KTFT)로 설립되었으며\[1\], 최대 주주는 [KT](../Page/KT.md "wikilink")였다. [2008년](../Page/2008년.md "wikilink")에는 기업 슬로건을 'Need Something New EVER'에서 'Plus Holic(플러스 홀릭) EVER'로 바꾸었다. [2009년](../Page/2009년.md "wikilink") [7월 1일에](../Page/7월_1일.md "wikilink") 모기업인 KT의 CI가 변경되면서 KT테크로 사명을 변경하였다.

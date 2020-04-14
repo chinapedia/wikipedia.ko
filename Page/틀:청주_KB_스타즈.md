@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [: KB ](https://ko.wikipedia.org/wiki/:_KB_).
+> This article is converted from Wikipedia: [틀:청주 KB 스타즈](https://ko.wikipedia.org/wiki/틀:청주_KB_스타즈).
 
 
 <onlyinclude></onlyinclude>

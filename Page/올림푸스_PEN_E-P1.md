@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ PEN E-P1](https://ko.wikipedia.org/wiki/_PEN_E-P1).
+> This article is converted from Wikipedia: [올림푸스 PEN E-P1](https://ko.wikipedia.org/wiki/올림푸스_PEN_E-P1).
 
 
 **PEN E-P1**()은 [올림푸스](../Page/올림푸스.md "wikilink") 공학 90주년, [PEN](https://ko.wikipedia.org/wiki/PEN "wikilink") 시리즈 50주년을 기념하여 2009년 6월 16일에 발표된 [올림푸스](../Page/올림푸스.md "wikilink")사의 첫 [마이크로 포서즈 시스템](../Page/마이크로_포서즈_시스템.md "wikilink") 규격 카메라이다.

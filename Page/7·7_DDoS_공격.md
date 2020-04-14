@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [77 DDoS ](https://ko.wikipedia.org/wiki/77_DDoS_).
+> This article is converted from Wikipedia: [7·7 DDoS 공격](https://ko.wikipedia.org/wiki/7·7_DDoS_공격).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Stachledraht_DDos_Attack.svg "wikilink")

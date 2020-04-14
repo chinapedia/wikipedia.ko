@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [NH](https://ko.wikipedia.org/wiki/NH).
+> This article is converted from Wikipedia: [NH투자증권](https://ko.wikipedia.org/wiki/NH투자증권).
 
 
 **엔에이치투자증권(주)**()은 [농협중앙회](https://ko.wikipedia.org/wiki/농업협동조합 "wikilink") 산하 [NH농협금융지주](../Page/NH농협금융지주.md "wikilink")의 증권회사로 2017년 6월말 기준 자기자본은 4.7조이다. 주요 사업은 유가증권 매매, 유가증권 위탁매매, 유가증권 인수, 유가증권매매 중개, 증권저축 등이다.

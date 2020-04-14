@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KC ](https://ko.wikipedia.org/wiki/KC_).
+> This article is converted from Wikipedia: [KC 스타디움](https://ko.wikipedia.org/wiki/KC_스타디움).
 
 
 **킹스턴 커뮤니케이션 스타디움**(Kingston Communications Stadium), 줄여서 **KC 스타디움**(KC Stadium)은 [잉글랜드](../Page/잉글랜드.md "wikilink")에 있는 다목적 스포츠 경기장이다. 영국의 동북부 지역에 있는 도시 킹스턴어폰헐에 있으며 수용인원은 25,404명이다.

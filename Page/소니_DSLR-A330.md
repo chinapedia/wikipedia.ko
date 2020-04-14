@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ DSLR-A330](https://ko.wikipedia.org/wiki/_DSLR-A330).
+> This article is converted from Wikipedia: [소니 DSLR-A330](https://ko.wikipedia.org/wiki/소니_DSLR-A330).
 
 
 **소니 알파 DSLR-A330**()는 [2009년](../Page/2009년.md "wikilink") [5월 19일에](../Page/5월_19일.md "wikilink") 발표된 [소니](../Page/소니.md "wikilink")의 APS-C 타입 [디지털 SLR이다](https://ko.wikipedia.org/wiki/디지털_SLR "wikilink"). 센서를 움직이는 형태의 [손떨림 방지](https://ko.wikipedia.org/wiki/손떨림_방지 "wikilink") 기능(SteadyShot INSIDE)을 가지고 있다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  Ab](https://ko.wikipedia.org/wiki/__Ab).
+> This article is converted from Wikipedia: [세페우스자리 감마 Ab](https://ko.wikipedia.org/wiki/세페우스자리_감마_Ab).
 
 
 **세페우스자리 감마 Ab**는 [세페우스자리](../Page/세페우스자리.md "wikilink") 방향으로 지구로부터 약 45광년 떨어진 곳에 있는 [외계 행성이다](../Page/외계_행성.md "wikilink"). 이 행성의 어머니 항성은 외계 행성을 거느리고 있는 항성으로는 그리 흔치 않은, [바이어 명명법으로](../Page/바이어_명명법.md "wikilink") 불릴 정도로 밝은 [세페우스자리 감마이다](../Page/세페우스자리_감마.md "wikilink"). 존재를 처음으로 예측한 것은 1988년으로, 흔히 알려진 [페가수스자리 51 b보다](../Page/페가수스자리_51_b.md "wikilink") 7년이나 먼저 발견된 '최초의 태양계 바깥 행성'이다. 다만 그 존재가 검증된 것은 한참 뒤인 2002년이었다.

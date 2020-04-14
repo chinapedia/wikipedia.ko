@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [E \( \)](https://ko.wikipedia.org/wiki/E_\(_\)).
+> This article is converted from Wikipedia: [E \(에픽하이의 음반\)](https://ko.wikipedia.org/wiki/E_\(에픽하이의_음반\)).
 
 
 **\[e\]**는 에픽하이의 정규 6집 음반이다. 정규 4집인 *[Remapping the Human Soul](../Page/Remapping_the_Human_Soul.md "wikilink")*에 이어 두 번째 2CD 음반이며 15곡씩 \[e\]motion, \[e\]nergy로 나뉘어 총 30트랙과 미니북 구성으로 [2009년](../Page/2009년.md "wikilink") [9월 16일에](../Page/9월_16일.md "wikilink") 발매했다.\[1\] 음반 제목인 \[e\]의 의미는 “Everything, Everywhere, Everyone” (모든 것, 모든 곳, 모든 이)을 담고 있다.\[2\]

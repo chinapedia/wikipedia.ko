@@ -29,4 +29,4 @@
 
 [분류:대한민국의 음반](https://ko.wikipedia.org/wiki/분류:대한민국의_음반 "wikilink") [분류:차태현의 음반](https://ko.wikipedia.org/wiki/분류:차태현의_음반 "wikilink") [분류:2001년 음반](https://ko.wikipedia.org/wiki/분류:2001년_음반 "wikilink")
 
-1.  [차태현 2집 리뷰](http://izm.co.kr/contentRead.asp?idx=4689&bigcateidx=1)
+1.

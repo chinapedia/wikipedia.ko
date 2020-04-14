@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Girl \( \)](https://ko.wikipedia.org/wiki/Girl_\(_\)).
+> This article is converted from Wikipedia: [Girl \(윤하의 음반\)](https://ko.wikipedia.org/wiki/Girl_\(윤하의_음반\)).
 
 
 〈**Girl**〉은 2009년 7월 22일에 발매된 [윤하](../Page/윤하.md "wikilink")의 아홉 번째 일본어 싱글 앨범이다. 데뷔 이후 처음으로 한국과 일본에서 동시에 발매하는 음반이다.\[1\]

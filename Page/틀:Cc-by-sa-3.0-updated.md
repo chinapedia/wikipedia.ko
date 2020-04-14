@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Cc-by-sa-3.0-updated](https://ko.wikipedia.org/wiki/:Cc-by-sa-3.0-updated).
+> This article is converted from Wikipedia: [틀:Cc-by-sa-3.0-updated](https://ko.wikipedia.org/wiki/틀:Cc-by-sa-3.0-updated).
 
 
 <onlyinclude>

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Break the Ice \( \)](https://ko.wikipedia.org/wiki/Break_the_Ice_\(_\)).
+> This article is converted from Wikipedia: [Break the Ice \(스트라토바리우스의 노래\)](https://ko.wikipedia.org/wiki/Break_the_Ice_\(스트라토바리우스의_노래\)).
 
 
 **Break the Ice**는 [스트라토바리우스](../Page/스트라토바리우스.md "wikilink")의 세 번째 싱글 앨범으로 1992년 블루라이트 레코드(Bluelight Records)를 통해 발매되었다.

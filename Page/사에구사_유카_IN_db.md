@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  IN db](https://ko.wikipedia.org/wiki/__IN_db).
+> This article is converted from Wikipedia: [사에구사 유카 IN db](https://ko.wikipedia.org/wiki/사에구사_유카_IN_db).
 
 
 **사에구사 유카 인 데시벨**( IN db, 영문 공식표기: U-ka saegusa IN db)은 일본의 음악 그룹이다. 2002년 데뷔했다. 사에구사 유카는 [이와타 사유리](https://ko.wikipedia.org/wiki/이와타_사유리 "wikilink"), [쥬얼리](../Page/쥬얼리.md "wikilink")(일본 활동곡) 등 다른 가수들의 가사를 쓰기도 했다.

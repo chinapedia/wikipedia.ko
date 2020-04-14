@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [NHK ](https://ko.wikipedia.org/wiki/NHK_).
+> This article is converted from Wikipedia: [NHK 대하드라마](https://ko.wikipedia.org/wiki/NHK_대하드라마).
 
 
 **NHK 대하드라마**( )는 일요일 오후 8시에 방영하는 [NHK가](https://ko.wikipedia.org/wiki/일본_방송_협회 "wikilink") [1963년](../Page/1963년.md "wikilink")부터 매년 다른 주제로 제작·방송하는 시대극 드라마 시리즈이다.

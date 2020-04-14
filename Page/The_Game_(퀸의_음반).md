@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [The Game \( \)](https://ko.wikipedia.org/wiki/The_Game_\(_\)).
+> This article is converted from Wikipedia: [The Game \(퀸의 음반\)](https://ko.wikipedia.org/wiki/The_Game_\(퀸의_음반\)).
 
 
 《**The Game**》은 1980년 6월 30일 발매된 [영국](../Page/영국.md "wikilink") 록 밴드 [퀸의](../Page/퀸_\(밴드\).md "wikilink") 음반이며 [1978년](../Page/1978년.md "wikilink") 발매된 \<[Jazz](../Page/Jazz_\(음반\).md "wikilink")\>의 후속작 이기도하다. 이 음반은 퀸이 발매했던 앨범중 상업적으로 가장 성공한 앨범으로도 손꼽힌다. 가장 큰 시장이었던 [미국](../Page/미국.md "wikilink")에서도 엄청난 히트를 기록했으며 이 곡에 수록된 <Another One Bite the Dust> 와 <Crazy little Thing Called Love>가 빌보드 차트 1위를 기록하였다. 미국 외에도 영국과 [아르헨티나](../Page/아르헨티나.md "wikilink"), [오스트레일리아](../Page/오스트레일리아.md "wikilink"), [독일](../Page/독일.md "wikilink"), [네덜란드](../Page/네덜란드.md "wikilink"), [아일랜드](../Page/아일랜드.md "wikilink"), [포르투갈](../Page/포르투갈.md "wikilink")에서도 좋은 성적을 기록하였으나 이 앨범의 발표 이후 퀸은 사운드에 변화를 주기 시작해 1982년 <Hot Space> 앨범을 발표했으나 상업성 , 음악성 모두 실패하는 참사를 불러왔다.

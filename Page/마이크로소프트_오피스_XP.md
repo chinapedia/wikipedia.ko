@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  XP](https://ko.wikipedia.org/wiki/__XP).
+> This article is converted from Wikipedia: [마이크로소프트 오피스 XP](https://ko.wikipedia.org/wiki/마이크로소프트_오피스_XP).
 
 
 **마이크로소프트 오피스 XP**(Microsoft Office XP)는 마이크로소프트의 오피스 제품군으로, 오피스 2000의 다음 버전이고 오피스 2003의 이전 버전이다. 이 버전은 XP라고 이름 지었지만 출시 당시에는 윈도우 XP 이상의 OS를 요구하지 않았다. XP는 단지 마케팅용 이름이었으나, 이후 윈도우 XP도 지원을 하기 시작했고, 최종적으로는 윈도우 7까지 지원했으며, 설치/사용 자체는 윈도우 8.1까지는 가능했다. 개발 중에는 이 버전은 **오피스** 10이라는 이름으로도 알려졌다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ D. ](https://ko.wikipedia.org/wiki/_D._).
+> This article is converted from Wikipedia: [찰스 D. 스톡스](https://ko.wikipedia.org/wiki/찰스_D._스톡스).
 
 
 **찰스 D. 스톡스**(Dr. Charles D. Stokes), 한국명 **도익서**(都益瑞)는 [미국](../Page/미국.md "wikilink") [사우스캐롤라이나주](../Page/사우스캐롤라이나주.md "wikilink") 태생의 미국 [감리교회](https://ko.wikipedia.org/wiki/감리교회 "wikilink") [한국](../Page/한국.md "wikilink") 선교사이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  GT](https://ko.wikipedia.org/wiki/__GT).
+> This article is converted from Wikipedia: [벤틀리 컨티넨탈 GT](https://ko.wikipedia.org/wiki/벤틀리_컨티넨탈_GT).
 
 
 **벤틀리 컨티넨탈 GT**()는 자동차 제조회사인 [폭스바겐](../Page/폭스바겐.md "wikilink")의 자회사이자 [영국](../Page/영국.md "wikilink")의 수공 고급 자동차 회사인 [벤틀리](../Page/벤틀리.md "wikilink")에서 [2003년](../Page/2003년.md "wikilink")에 출시하여 판매하고 있는 [그랜드 투어러형](../Page/GT카.md "wikilink") [쿠페](../Page/쿠페.md "wikilink")이다. 컨티넨탈 GT의 세단형인 [플라잉 스퍼와](https://ko.wikipedia.org/wiki/벤틀리_플라잉_스퍼 "wikilink") 함께 [4륜구동](../Page/4륜구동.md "wikilink") 시스템이 장착되어 있다. 연기자 [송승헌](../Page/송승헌.md "wikilink")의 애마로 유명하다. [영국](../Page/영국.md "wikilink") 크루 공장에서 생산하고, [대한민국](../Page/대한민국.md "wikilink")에는 [2006년](../Page/2006년.md "wikilink")에 들어왔다. 일반 쿠페형이 GT이고, 컨버터블형이 GTC이다. [2013년](../Page/2013년.md "wikilink")에 출시된 2세대부터는 세단형인 컨티넨탈 플라잉 스퍼가 플라잉 스퍼로 차명이 변경되고, [아우디의](https://ko.wikipedia.org/wiki/아우디_AG "wikilink") 고성능 S6/S8에 달리는 500마력 V8 4.0리터 가솔린 트윈터보 엔진이 추가됨과 동시에 [자동변속기](../Page/자동변속기.md "wikilink")는 6단에서 8단으로 교체됐다.

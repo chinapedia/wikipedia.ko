@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FM \( \)](https://ko.wikipedia.org/wiki/FM_\(_\)).
+> This article is converted from Wikipedia: [파워FM \(라디오 프로그램\)](https://ko.wikipedia.org/wiki/파워FM_\(라디오_프로그램\)).
 
 
 《**김영철의 파워FM**》은 [SBS 파워FM에서](../Page/SBS_파워FM.md "wikilink") 매일 아침 7시부터 아침 9시까지 방송되는 아침정보 라디오 프로그램이다.
@@ -14,13 +14,13 @@
   - [호란](../Page/호란.md "wikilink") : [2014년](../Page/2014년.md "wikilink") [5월 19일](../Page/5월_19일.md "wikilink") \~ [2016년](../Page/2016년.md "wikilink") [9월 28일](../Page/9월_28일.md "wikilink")
       - **(임시진행)** [박은경](../Page/박은경_\(아나운서\).md "wikilink") : [2016년](../Page/2016년.md "wikilink") [9월 29일](../Page/9월_29일.md "wikilink") \~ [2016년](../Page/2016년.md "wikilink") [10월 23일](../Page/10월_23일.md "wikilink")
   - [김영철](../Page/김영철_\(희극인\).md "wikilink") : [2016년](../Page/2016년.md "wikilink") [10월 24일](../Page/10월_24일.md "wikilink") \~ 현재
+      - **(임시진행)** [2017년](../Page/2017년.md "wikilink") [3월 27일](../Page/3월_27일.md "wikilink"): [허경환](../Page/허경환.md "wikilink")
       - **(임시진행)** [2017년](../Page/2017년.md "wikilink") [9월 11일](../Page/9월_11일.md "wikilink"): [박지선](../Page/박지선.md "wikilink")
       - **(임시진행)** [2017년](../Page/2017년.md "wikilink") [9월 12일](../Page/9월_12일.md "wikilink"): [김환](../Page/김환_\(방송인\).md "wikilink")\[1\]
       - **(임시진행)** [2019년](../Page/2019년.md "wikilink") [8월 19일](../Page/8월_19일.md "wikilink"), [8월 21일](../Page/8월_21일.md "wikilink"), [8월 23일](../Page/8월_23일.md "wikilink"): [다비치](../Page/다비치.md "wikilink")
       - **(임시진행)** [2019년](../Page/2019년.md "wikilink") [8월 20일](../Page/8월_20일.md "wikilink"): [이수근](../Page/이수근_\(희극인\).md "wikilink")
       - **(임시진행)** [2019년](../Page/2019년.md "wikilink") [8월 23일](../Page/8월_23일.md "wikilink"): [서장훈](../Page/서장훈.md "wikilink")
-
-임시진행 허경환 2019년 어느날
+      - **(임시진행)** [2019년](../Page/2019년.md "wikilink") [11월 29일](../Page/11월_29일.md "wikilink"): [허경환](../Page/허경환.md "wikilink")
 
 ## 코너
 

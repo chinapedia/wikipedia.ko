@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ \(Whiteberry \)](https://ko.wikipedia.org/wiki/_\(Whiteberry_\)).
+> This article is converted from Wikipedia: [카쿠렌보 \(Whiteberry의 노래\)](https://ko.wikipedia.org/wiki/카쿠렌보_\(Whiteberry의_노래\)).
 
 
 〈**숨바꼭질**〉()는 [Whiteberry](../Page/Whiteberry.md "wikilink")의 2번째의 싱글이다.
@@ -9,9 +9,9 @@
 
 ## 수록곡
 
-1.  **숨바꼭질** ()
+1.  **숨바꼭질**()
       - 작사: 카와무라 에리카, 작곡 · 편곡: [타나카 히로카즈](https://ko.wikipedia.org/wiki/타나카_히로카즈 "wikilink")
-2.  **노려라 포켓몬 마스터** ()
+2.  **노려라 포켓몬 마스터**()
       - 작사: [토다 아키히토](https://ko.wikipedia.org/wiki/토다_아키히토 "wikilink"), 작곡: 타나카 히로카즈, 편곡: [사카이 노리오](https://ko.wikipedia.org/wiki/사카이_노리오 "wikilink")
 3.  **숨바꼭질 (inst.)**
 4.  **노려라 포켓몬 마스터 (inst.)**

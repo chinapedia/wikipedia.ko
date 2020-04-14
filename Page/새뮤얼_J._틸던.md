@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ J. ](https://ko.wikipedia.org/wiki/_J._).
+> This article is converted from Wikipedia: [새뮤얼 J. 틸던](https://ko.wikipedia.org/wiki/새뮤얼_J._틸던).
 
 
 **새뮤얼 J. 틸던**(Samuel Jones Tilden, [1814년](../Page/1814년.md "wikilink") [2월 9일](../Page/2월_9일.md "wikilink") [미국](../Page/미국.md "wikilink") [뉴욕주](../Page/뉴욕주.md "wikilink") [뉴레버넌](https://ko.wikipedia.org/wiki/뉴레버넌 "wikilink")\~[1886년](../Page/1886년.md "wikilink") [8월 4일](../Page/8월_4일.md "wikilink") [미국](../Page/미국.md "wikilink") [뉴욕주](../Page/뉴욕주.md "wikilink") [그레이스톤](https://ko.wikipedia.org/wiki/그레이스톤 "wikilink"))은 [미국](../Page/미국.md "wikilink")의 변호사, 정치가이다. [뉴욕주](../Page/뉴욕주.md "wikilink") 주지사가 된 후 [1876년 미국 대통령 선거에](../Page/1876년_미국_대통령_선거.md "wikilink") [민주당](../Page/민주당_\(미국\).md "wikilink") 후보로 출마했으나 19세기 미국에서 가장 많은 논란을 일으킨 선거의 선거인 투표에서 불과 1표차로 패했다. 미국 대통령 선거의 역사에서 1표 차이의 낙선은 존재하지 않는다. 틸던은 정치 개혁가로서 뉴욕 시 실업계와의 관계가 깊은 부르봉 민주당원이었고, [태머니 홀의](../Page/태머니_홀.md "wikilink") 부패와 싸웠으며, 또한 세금을 낮게 유지하기 위해 분투했다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  FC](https://ko.wikipedia.org/wiki/__FC).
+> This article is converted from Wikipedia: [골드코스트 유나이티드 FC](https://ko.wikipedia.org/wiki/골드코스트_유나이티드_FC).
 
 
 **골드코스트 유나이티드 FC**(Gold Coast United FC)는 [A리그](../Page/A리그.md "wikilink")에 소속되어 활약하였던 [오스트레일리아](../Page/오스트레일리아.md "wikilink")의 축구단이다. [퀸즐랜드주](../Page/퀸즐랜드주.md "wikilink")의 [골드코스트를](../Page/골드코스트_\(퀸즐랜드주\).md "wikilink") 본거지로 하였다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [- MiG-17](https://ko.wikipedia.org/wiki/-_MiG-17).
+> This article is converted from Wikipedia: [미코얀-구레비치 MiG-17](https://ko.wikipedia.org/wiki/미코얀-구레비치_MiG-17).
 
 
 **미코얀구레비치 MiG-17**()은 [소련](../Page/소련.md "wikilink")의 [제트 전투기이다](https://ko.wikipedia.org/wiki/전투기#제트_전투기 "wikilink"). [1952년](../Page/1952년.md "wikilink") [소련](../Page/소련.md "wikilink")을 비롯한 [동독](../Page/동독.md "wikilink"), [폴란드](../Page/폴란드.md "wikilink"), [중국](../Page/중국.md "wikilink") 등에 최초로 배치되었다. [NATO](https://ko.wikipedia.org/wiki/NATO "wikilink") 식별명은 **프레스코**(Fresco)이며\[1\] [미국 공군에서는](../Page/미국_공군.md "wikilink") **Type 38**이라 하였다.\[2\]

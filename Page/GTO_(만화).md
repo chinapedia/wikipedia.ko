@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [GTO \(\)](https://ko.wikipedia.org/wiki/GTO_\(\)).
+> This article is converted from Wikipedia: [GTO \(만화\)](https://ko.wikipedia.org/wiki/GTO_\(만화\)).
 
 
 **GTO**(부제: Great Teacher Onizuka / 대한민국명: **반항하지마\!**)는 [후지사와 토루의](https://ko.wikipedia.org/wiki/후지사와_토루 "wikilink") [일본](../Page/일본.md "wikilink") [만화](../Page/만화.md "wikilink")이다. 원작자의 전작품인 [상남 순애조](https://ko.wikipedia.org/wiki/상남_순애조 "wikilink")(국내명: 상남 2인조)의 속편격으로 폭주족 출신인 [오니즈카 에이키치](https://ko.wikipedia.org/wiki/오니즈카_에이키치 "wikilink")(국내명: 영길)가 대학졸업 후 사립 중학교 선생이 되었던 얘기를 다루었다. 장르상 학원물을 표방하고 있지만 다소 과도한 에피소드들도 있다. 1999년에는 애니로도 제작되었으며 대한민국에서는 [학산문화사](../Page/학산문화사.md "wikilink")의 만화잡지 [찬스](https://ko.wikipedia.org/wiki/찬스 "wikilink")를 통해 1998년 \~ 2003년까지 연재하였다.

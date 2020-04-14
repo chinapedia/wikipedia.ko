@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KAI ](https://ko.wikipedia.org/wiki/KAI_).
+> This article is converted from Wikipedia: [KAI 수리온](https://ko.wikipedia.org/wiki/KAI_수리온).
 
 
 **수리온**은 노후한 소형 공격 헬리콥터 500MD와 소형 기동 헬리콥터 UH-1H를 대체하기 위하여 유로콥터의 기술협력으로 대한민국이 한국형 헬리콥터 사업에 의해 개발된 첫 한국형 중형 기동헬리콥터이다. 수리온은 독수리의 '수리'와 100이란 뜻의 순 우리말 '온'의 합성어로 독수리의 용맹함과 국내 100% 제작을 뜻한다. 명칭은 2009년 4월 실시된 KUH 명칭 공모를 통해서 2009년 7월 최종 결정됐다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ RPG](https://ko.wikipedia.org/wiki/_RPG).
+> This article is converted from Wikipedia: [디지몬 RPG](https://ko.wikipedia.org/wiki/디지몬_RPG).
 
 
 《**디지몬 RPG**》(Digimon RPG, Digimon Battle Online)는 [2002년](../Page/2002년.md "wikilink")부터 [무브게임즈](http://movegames.co.kr/)(구.[디지탈릭](https://ko.wikipedia.org/wiki/디지탈릭 "wikilink"))이 서비스 중이다

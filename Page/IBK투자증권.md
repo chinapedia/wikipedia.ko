@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [IBK](https://ko.wikipedia.org/wiki/IBK).
+> This article is converted from Wikipedia: [IBK투자증권](https://ko.wikipedia.org/wiki/IBK투자증권).
 
 
 **IBK투자증권**은 IBK기업은행의 자회사이자 대한민국의 증권사이다. IBK투자증권은 중소•중견기업의 성장을 위한 최적화된 기업금융서비스를 지원함으로써 국가경쟁력 제고에 공헌하는 선도금융회사를 지향하고 있다. 또한 자산관리 부문에서는 고객의 투자 성향과 라이프 사이클에 적합한 차별화된 투자 조언과 상담 서비스를 제공하고 IBK금융그룹의 시너지를 활용한 복합 점포를 운영해 종합자산관리서비스 환경을 구축했다.

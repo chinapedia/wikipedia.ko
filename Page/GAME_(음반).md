@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [GAME \(\)](https://ko.wikipedia.org/wiki/GAME_\(\)).
+> This article is converted from Wikipedia: [GAME \(음반\)](https://ko.wikipedia.org/wiki/GAME_\(음반\)).
 
 
 《**GAME**》(게임)은 일본의 음악 그룹 [퍼퓸의](https://ko.wikipedia.org/wiki/퍼퓸_\(음악_그룹\) "wikilink") 두 번째\[1\] 음반이다. 2008년 4월 16일 도쿠마 재팬 커뮤니케이션즈에서 발매했다. 첫회 한정판에는 공연 영상과 〈마카로니〉의 멤버별 뮤직비디오가 들어있는 DVD가 추가로 붙어있다.

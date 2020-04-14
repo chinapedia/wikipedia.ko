@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Suspended Animation \(  \)](https://ko.wikipedia.org/wiki/Suspended_Animation_\(__\)).
+> This article is converted from Wikipedia: [Suspended Animation \(존 페트루치의 음반\)](https://ko.wikipedia.org/wiki/Suspended_Animation_\(존_페트루치의_음반\)).
 
 
 **Suspended Animation**은 [드림 시어터의](https://ko.wikipedia.org/wiki/드림_시어터 "wikilink") [기타리스트](https://ko.wikipedia.org/wiki/기타리스트 "wikilink") [존 페트루치가](../Page/존_페트루치.md "wikilink") 2005년 사운드 마인드 뮤직을 통해 발표한 첫 솔로 앨범이다.

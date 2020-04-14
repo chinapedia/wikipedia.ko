@@ -1,7 +1,14 @@
-> This article is converted from Wikipedia: [EBS  2](https://ko.wikipedia.org/wiki/EBS__2).
+> This article is converted from Wikipedia: [EBS 플러스 2](https://ko.wikipedia.org/wiki/EBS_플러스_2).
 
 
 **EBS 플러스 2**(EBS Plus 2)는 [과학기술정보통신부](https://ko.wikipedia.org/wiki/과학기술정보통신부 "wikilink")에서 허가된 [한국교육방송공사](../Page/한국교육방송공사.md "wikilink")의 중학, 직업 교육 전문 채널이다.
+
+## 채널 번호
+
+  - 스카이라이프(올레TV 스카이라이프) 채널 - 169번
+  - SK BTV 채널 - 204번
+  - 올레TV 채널 - 971번
+  - LG U+ TV 채널 - 231번
 
 ## 연혁
 

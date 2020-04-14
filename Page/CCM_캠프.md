@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [CCM ](https://ko.wikipedia.org/wiki/CCM_).
+> This article is converted from Wikipedia: [CCM 캠프](https://ko.wikipedia.org/wiki/CCM_캠프).
 
 
 **CCM 캠프**는 [CBS 표준FM에서](../Page/CBS_표준FM.md "wikilink") 매일 밤 12시부터 새벽 2시까지 방송되는 라디오 프로그램이다. 이 프로그램은 [CBS JOY4U와](../Page/CBS_JOY4U.md "wikilink") 동시방송된다. 국내외 현대 기독교 음악([CCM](../Page/현대_기독교_음악.md "wikilink"))을 들려주고 있다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Gee \( \)](https://ko.wikipedia.org/wiki/Gee_\(_\)).
+> This article is converted from Wikipedia: [Gee \(소녀시대의 노래\)](https://ko.wikipedia.org/wiki/Gee_\(소녀시대의_노래\)).
 
 
 〈**Gee**〉는 대한민국의 걸 그룹 [소녀시대](../Page/소녀시대.md "wikilink")의 노래이다. 한국에서는 첫 미니 앨범 *[Gee](../Page/Gee_\(EP\).md "wikilink")*의 타이틀곡으로 2009년 1월 5일 발매되었으며, 일본에서는 *[GIRLS' GENERATION](https://ko.wikipedia.org/wiki/GIRLS'_GENERATION_\(2011년_음반\) "wikilink")*의 두 번째 싱글로 2010년 10월 20일 발매되었다. [이트라이브](../Page/이트라이브.md "wikilink")가 작곡, 작사를 맡았으며 첫사랑에 빠진 소녀가 어쩔 줄 몰라하는 귀여운 상황을 담은 빠른 [댄스 팝](../Page/댄스_팝.md "wikilink") 노래이다.

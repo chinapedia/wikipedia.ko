@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  \(KBS\)](https://ko.wikipedia.org/wiki/__\(KBS\)).
+> This article is converted from Wikipedia: [행복한 아침 \(KBS\)](https://ko.wikipedia.org/wiki/행복한_아침_\(KBS\)).
 
 
 **행복한 아침**은 [대한민국](../Page/대한민국.md "wikilink")의 방송국인 [한국방송공사](../Page/한국방송공사.md "wikilink")의 라디오 채널 [KBS 해피FM](../Page/KBS_제2라디오.md "wikilink")(수도권 106.1MHz AM 603KHz)에서 매일 오전 9시 5분부터 11시까지 방송되었으며, 2013년 봄 개편으로 인해 2013년 4월 7일 방송을 마지막으로 종영되었다. 이 프로그램의 후속으로 [매일 그대와로](../Page/매일_그대와_\(라디오_프로그램\).md "wikilink") 대체되었다.

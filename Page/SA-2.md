@@ -64,7 +64,7 @@
 </tbody>
 </table>
 
-**SA-2**는, [미국](../Page/미국.md "wikilink")의 [아폴로 계획에](../Page/아폴로_계획.md "wikilink") 의해 2번째로 발사된 [새턴 I 로켓이다](https://ko.wikipedia.org/wiki/새턴_I_로켓 "wikilink"). 첫 번째의 [하이워터 계획](https://ko.wikipedia.org/wiki/하이워터_계획 "wikilink")(Project Highwater)이 실시되었다.
+**SA-2**는 [미국](../Page/미국.md "wikilink")의 [아폴로 계획에](../Page/아폴로_계획.md "wikilink") 의해 2번째로 발사된 [새턴 I 로켓이다](https://ko.wikipedia.org/wiki/새턴_I_로켓 "wikilink"). 첫 번째의 [하이워터 계획](https://ko.wikipedia.org/wiki/하이워터_계획 "wikilink")(Project Highwater)이 실시되었다.
 
 ## 목적
 

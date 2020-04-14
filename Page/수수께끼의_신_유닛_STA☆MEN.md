@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [   STAMEN](https://ko.wikipedia.org/wiki/___STAMEN).
+> This article is converted from Wikipedia: [수수께끼의 신 유닛 STA☆MEN](https://ko.wikipedia.org/wiki/수수께끼의_신_유닛_STA☆MEN).
 
 
 **수수께끼의 신 유닛 STA☆MEN**（謎の新ユニットSTA☆MEN）은, 7명의 인기 성우에 의해 [2002년](../Page/2002년.md "wikilink") [11월](../Page/11월.md "wikilink")에 결성된 자주제작 엔터테인먼트 유닛. 정식 표기는 〈謎の新ユニットSTA☆MEN〉(알파벳은 대문자). 정식 약칭 표기는 〈스타☆맨〉(スター☆メン). 정식 멤버는 아니지만 마스코트 보이겸 잡일 담당의 가면 남자・ZAI도 가끔씩 나타난다.

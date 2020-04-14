@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ AB](https://ko.wikipedia.org/wiki/_AB).
+> This article is converted from Wikipedia: [화가자리 AB](https://ko.wikipedia.org/wiki/화가자리_AB).
 
 
 **화가자리 AB** 또는 **HD 44627**은 [화가자리](../Page/화가자리.md "wikilink") 방향으로 지구로부터 약 148광년 떨어진 곳에 있는 [K형 주계열성이다](../Page/K형_주계열성.md "wikilink").\[1\] 화가자리 AB는 3천 만 년 정도 나이의 큰부리새자리/시계자리 [성협](../Page/성협.md "wikilink")의 일원이며\[2\] [용자리 BY형 변광성이기도](../Page/용자리_BY형_변광성.md "wikilink") 하다.\[3\] 2005년에 이 별 주위를 돌고 있는 천체의 사진을 2003년, 2004년에 촬영했다는 주장이 발표되었다. 당시 발표 자료에 따르면 이 천체는 [외계 행성으로](../Page/외계_행성.md "wikilink") 추측되었으나, 실제로는 [갈색 왜성일](https://ko.wikipedia.org/wiki/갈색_왜성 "wikilink") 가능성이 높아 보인다.\[4\]

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Episode \( \)](https://ko.wikipedia.org/wiki/Episode_\(_\)).
+> This article is converted from Wikipedia: [Episode \(스트라토바리우스의 음반\)](https://ko.wikipedia.org/wiki/Episode_\(스트라토바리우스의_음반\)).
 
 
 **Episode**는 [핀란드](../Page/핀란드.md "wikilink") [파워 메탈](../Page/파워_메탈.md "wikilink") 밴드 [스트라토바리우스](../Page/스트라토바리우스.md "wikilink")의 정규 5집 앨범이다. 키보디스트 [옌스 요한슨과](https://ko.wikipedia.org/wiki/옌스_요한슨 "wikilink") 드러머 [요르그 미하일이](https://ko.wikipedia.org/wiki/요르그_미하일 "wikilink") 함께 한 첫 앨범이다.

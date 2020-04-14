@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [White \( \)](https://ko.wikipedia.org/wiki/White_\(_\)).
+> This article is converted from Wikipedia: [White \(핑클의 음반\)](https://ko.wikipedia.org/wiki/White_\(핑클의_음반\)).
 
 
 《**white**》는 [대한민국](../Page/대한민국.md "wikilink")의 [여자](https://ko.wikipedia.org/wiki/여자 "wikilink") [그룹](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink") [핑클](../Page/핑클.md "wikilink")의 두 번째 정규 [앨범이다](../Page/음반.md "wikilink"). [1999년](../Page/1999년.md "wikilink") [5월 12일](../Page/5월_12일.md "wikilink") 발매되었으며 총 12곡의 트랙으로 구성되어 있고, 전체 러닝타임은 49분 48초다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Live at Budokan \(  \)](https://ko.wikipedia.org/wiki/Live_at_Budokan_\(__\)).
+> This article is converted from Wikipedia: [Live at Budokan \(드림 시어터의 음반\)](https://ko.wikipedia.org/wiki/Live_at_Budokan_\(드림_시어터의_음반\)).
 
 
 **Live at Budokan**은 [프로그레시브 메탈밴드](../Page/프로그레시브_메탈.md "wikilink") [드림 시어터의](https://ko.wikipedia.org/wiki/드림_시어터 "wikilink") 라이브 앨범으로 [2004년](../Page/2004년.md "wikilink") 10월 5일 발매되었다. 3[CD혹은](../Page/콤팩트_디스크.md "wikilink") 2[DVD](../Page/DVD.md "wikilink")의 형태로 발매된다. 2004년 4월 26일 [일본](../Page/일본.md "wikilink") [도쿄](../Page/도쿄.md "wikilink") [무도관에서](https://ko.wikipedia.org/wiki/일본_무도관 "wikilink") 열린 공연을 녹음한 것이다.

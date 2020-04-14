@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [1st Mini Album \( \)](https://ko.wikipedia.org/wiki/1st_Mini_Album_\(_\)).
+> This article is converted from Wikipedia: [1st Mini Album \(카라의 음반\)](https://ko.wikipedia.org/wiki/1st_Mini_Album_\(카라의_음반\)).
 
 
 《**1st Mini Album**》은 대한민국의 음악 그룹 [카라의](../Page/카라_\(음악_그룹\).md "wikilink") 첫 번째 미니 음반이다. 2008년 7월 31일 [CJ E\&M을](../Page/CJ_E&M.md "wikilink") 통해 발매되었다.

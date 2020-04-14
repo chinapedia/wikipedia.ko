@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  FC](https://ko.wikipedia.org/wiki/__FC).
+> This article is converted from Wikipedia: [마이애미 퓨전 FC](https://ko.wikipedia.org/wiki/마이애미_퓨전_FC).
 
 
 **마이애미 퓨전 FC**(Miami Fusion F.C.)는 [메이저 리그 사커](../Page/메이저_리그_사커.md "wikilink") 소속 프로축구단으로, [미국](../Page/미국.md "wikilink") [플로리다주](../Page/플로리다주.md "wikilink") [마이애미](../Page/마이애미.md "wikilink")를 연고지로 하였다.

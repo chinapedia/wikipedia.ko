@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ \(DC \)](https://ko.wikipedia.org/wiki/_\(DC_\)).
+> This article is converted from Wikipedia: [브이 \(DC 코믹스\)](https://ko.wikipedia.org/wiki/브이_\(DC_코믹스\)).
 
 
 **브이**(V)는 [앨런 무어와](../Page/앨런_무어.md "wikilink") [데이비드 로이드의](https://ko.wikipedia.org/wiki/데이비드_로이드 "wikilink") [만화](../Page/만화.md "wikilink")이자 [DC코믹스](https://ko.wikipedia.org/wiki/DC코믹스 "wikilink")에서 제작한《[브이 포 벤데타](../Page/브이_포_벤데타.md "wikilink")》에 등장하는 가공의 인물이다. 브이는 미스터리한 [아나키스트](https://ko.wikipedia.org/wiki/아나키스트 "wikilink")이자 [반체제 운동가로](https://ko.wikipedia.org/wiki/반체제_운동가 "wikilink"), [가이 포크스](../Page/가이_포크스.md "wikilink") 가면과 어두운 복장이 심볼이다. 무어에 따르면, 무어는 브이를 [주동 인물이면서](https://ko.wikipedia.org/wiki/주인공 "wikilink") 동시에 [반동 인물로](https://ko.wikipedia.org/wiki/반동_인물 "wikilink") 설정해 브이가 자유를 위해 싸우는 영웅인지, 단지 [미치광이](https://ko.wikipedia.org/wiki/정신병 "wikilink") 테러범인지 독자 스스로 결정할 여지를 남겨 두었다.\[1\]

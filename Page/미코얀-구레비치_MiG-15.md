@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [- MiG-15](https://ko.wikipedia.org/wiki/-_MiG-15).
+> This article is converted from Wikipedia: [미코얀-구레비치 MiG-15](https://ko.wikipedia.org/wiki/미코얀-구레비치_MiG-15).
 
 
 **미코얀구레비치 MiG-15**(, )는 [소련](../Page/소련.md "wikilink")의 [제트 전투기이다](https://ko.wikipedia.org/wiki/전투기#제트_전투기 "wikilink"). 흔히 **미그-15**라고 줄여 부른다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  FC](https://ko.wikipedia.org/wiki/__FC).
+> This article is converted from Wikipedia: [시애틀 사운더스 FC](https://ko.wikipedia.org/wiki/시애틀_사운더스_FC).
 
 
 **시애틀 사운더스 FC**(Seattle Sounders FC)는 [2009년](../Page/2009년.md "wikilink") [메이저 리그 사커에](../Page/메이저_리그_사커.md "wikilink") 참여한 미국의 프로 축구단이다. [워싱턴주](../Page/워싱턴주.md "wikilink") [시애틀](../Page/시애틀.md "wikilink")을 연고지로 하고 있으며 [센추리링크 필드를](../Page/센추리링크_필드.md "wikilink") 홈구장으로 사용하고 있다.

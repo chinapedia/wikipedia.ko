@@ -1,7 +1,14 @@
-> This article is converted from Wikipedia: [EBS  1](https://ko.wikipedia.org/wiki/EBS__1).
+> This article is converted from Wikipedia: [EBS 플러스 1](https://ko.wikipedia.org/wiki/EBS_플러스_1).
 
 
 **EBS 플러스 1**(EBS Plus 1)은 [한국교육방송공사](../Page/한국교육방송공사.md "wikilink")에서 방송하여, [과학기술정보통신부](https://ko.wikipedia.org/wiki/과학기술정보통신부 "wikilink")에서 허가된 수능 전문 채널이다. 주로 고교생을 대상으로 하는 강의 프로그램을 방송한다.
+
+## 채널 번호
+
+  - 스카이라이프(올레TV 스카이라이프) 채널 - 168번
+  - SK BTV 채널 - 203번
+  - 올레TV 채널 - 972번
+  - LG U+ TV 채널 - 230번
 
 ## 연혁
 

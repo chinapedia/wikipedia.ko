@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ II](https://ko.wikipedia.org/wiki/_II).
+> This article is converted from Wikipedia: [애슬론 II](https://ko.wikipedia.org/wiki/애슬론_II).
 
 
 **애슬론 II**(Athlon II)는 [AMD](https://ko.wikipedia.org/wiki/AMD "wikilink")의 45 nm 공정의 다중코어 [중앙처리장치](https://ko.wikipedia.org/wiki/중앙처리장치 "wikilink") 중 하나이다. 보급형 시장을 위해 출시하여 [페넘 II의](../Page/페넘_II.md "wikilink") 라인업을 보완한다

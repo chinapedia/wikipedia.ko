@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FC ](https://ko.wikipedia.org/wiki/FC_).
+> This article is converted from Wikipedia: [FC 댈러스](https://ko.wikipedia.org/wiki/FC_댈러스).
 
 
 **FC 댈러스**(FC Dallas)는 [메이저 리그 사커에](../Page/메이저_리그_사커.md "wikilink") 소속된 [미국](../Page/미국.md "wikilink")의 프로축구단으로 [텍사스주](../Page/텍사스주.md "wikilink") [댈러스](../Page/댈러스.md "wikilink")를 연고지로 하고 있다. 홈구장은 [축구전용구장](https://ko.wikipedia.org/wiki/축구전용구장 "wikilink")인 [도요타 스타디움이며](../Page/도요타_스타디움_\(텍사스주\).md "wikilink") [텍사스주](../Page/텍사스주.md "wikilink") [프리스코에](https://ko.wikipedia.org/wiki/프리스코_\(텍사스주\) "wikilink") 위치해 있다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  II](https://ko.wikipedia.org/wiki/__II).
+> This article is converted from Wikipedia: [삼성 옴니아 II](https://ko.wikipedia.org/wiki/삼성_옴니아_II).
 
 
 **삼성 옴니아 II**(, )는 [삼성전자](https://ko.wikipedia.org/wiki/삼성전자 "wikilink")가 출시한 [스마트폰](../Page/스마트폰.md "wikilink")이다. 언팩 홈페이지는 [2009년](../Page/2009년.md "wikilink") [6월 15일에](../Page/6월_15일.md "wikilink") 공개하였다.\[1\] 3.7" [AMOLED](https://ko.wikipedia.org/wiki/AMOLED "wikilink") 터치 스크린에 해상도 480 × 800 픽셀을 지원하며 최대 1,600만 컬러를 지원한다. OS 특성상 [윈도 모바일에서는](https://ko.wikipedia.org/wiki/윈도_모바일 "wikilink") 6만 5천 컬러를 지원한다.[윈도 모바일](https://ko.wikipedia.org/wiki/윈도_모바일 "wikilink") 6.1이 탑재되어 있으나,[윈도 모바일](https://ko.wikipedia.org/wiki/윈도_모바일 "wikilink") 6.5로 업그레이드되었다.

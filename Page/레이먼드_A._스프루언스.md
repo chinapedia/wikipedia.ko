@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ A. ](https://ko.wikipedia.org/wiki/_A._).
+> This article is converted from Wikipedia: [레이먼드 A. 스프루언스](https://ko.wikipedia.org/wiki/레이먼드_A._스프루언스).
 
 
 **레이먼드 스프루언스**(Raymond A Spruance, [1886년](../Page/1886년.md "wikilink") [7월 3일](../Page/7월_3일.md "wikilink") \~ [1969년](../Page/1969년.md "wikilink") [12월 13일](../Page/12월_13일.md "wikilink"))는 [미국](../Page/미국.md "wikilink")의 군인으로 [태평양 전쟁](../Page/태평양_전쟁.md "wikilink") 당시 많은 활약을 하였다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [III](https://ko.wikipedia.org/wiki/III).
+> This article is converted from Wikipedia: [태합입지전III](https://ko.wikipedia.org/wiki/태합입지전III).
 
 
 《**태합입지전III**》()는 [코에이](../Page/코에이.md "wikilink")에서 [1999년](../Page/1999년.md "wikilink") [3월 5일에는](../Page/3월_5일.md "wikilink") [Windows](https://ko.wikipedia.org/wiki/Windows "wikilink")용, 동년 [8월 19일에는](../Page/8월_19일.md "wikilink") [플레이스테이션](https://ko.wikipedia.org/wiki/플레이스테이션 "wikilink")용이 발매된 [PC 게임으로](../Page/PC_게임.md "wikilink"), [태합입지전 시리즈의](../Page/태합입지전_시리즈.md "wikilink") 세 번째 작품이다. 나아가 [2000년](../Page/2000년.md "wikilink")에는 Windows용 [DVD-ROM](https://ko.wikipedia.org/wiki/DVD-ROM "wikilink")판도 발매되었다. 모두 그 후 [코에이 정번 시리즈에서](https://ko.wikipedia.org/wiki/코에이_정번_시리즈 "wikilink") [염가판](https://ko.wikipedia.org/wiki/염가판 "wikilink")이 발매되었다. Win판에 대해서는 [2005년](../Page/2005년.md "wikilink") [9월 29일에](../Page/9월_29일.md "wikilink") 《[대항해시대 외전](../Page/대항해시대_외전.md "wikilink")》과의 트윈 캠페인판도 발매되었다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  Internet](https://ko.wikipedia.org/wiki/__Internet).
+> This article is converted from Wikipedia: [노부나가의 야망 Internet](https://ko.wikipedia.org/wiki/노부나가의_야망_Internet).
 
 
 《**노부나가의 야망 Internet**》()은 [1998년](../Page/1998년.md "wikilink") [10월 2일에](../Page/10월_2일.md "wikilink") [코에이](../Page/코에이.md "wikilink")에서 발매된 [Windows](https://ko.wikipedia.org/wiki/Windows "wikilink")용 [역사 시뮬레이션 게임으로](../Page/역사_시뮬레이션_게임.md "wikilink"), [노부나가의 야망 시리즈의](../Page/노부나가의_야망_시리즈.md "wikilink") 하나이다. [컴퓨터](../Page/컴퓨터.md "wikilink")를 상대하는 1인 플레이도 가능하기는 하지만, [인터넷](../Page/인터넷.md "wikilink")에 의한 통신 대전을 전제로 한 구조로 되어 있다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [DJ  ](https://ko.wikipedia.org/wiki/DJ__).
+> This article is converted from Wikipedia: [DJ처리와 함께 아자아자](https://ko.wikipedia.org/wiki/DJ처리와_함께_아자아자).
 
 
 **《DJ처리와 함께 아자아자》**는 [SBS러브FM](https://ko.wikipedia.org/wiki/SBS러브FM "wikilink")에서 생방송 되고 있었던 [라디오](../Page/라디오.md "wikilink") 프로그램이다. [신철](https://ko.wikipedia.org/wiki/신철 "wikilink")(DJ처리)이 매주 [토요일](../Page/토요일.md "wikilink"), [일요일](../Page/일요일.md "wikilink") 오후 6시 \~ 10시에 부조정실에서 직접 음향을 조절하며 가요, 팝, 트로트 등의 논스톱 리믹스를 방송하였다. 그러나 SBS의 2014년 가을 라디오 개편으로 인해 1시간 30분 단축 편성에 반발하며 2014년 9월 14일에 방송이 종료되었고, 그 해 11월 1일 경기방송 KFM에서**《DJ처리와 함께 아자아자 시즌2》로 다시 부활하였다. 그러나,** 약 3개월 만인 2015년 1월 31일에 경기방송 KFM의 개편으로 다시 종료되었다. 이후 SBS러브FM에서 [2017년](../Page/2017년.md "wikilink") [7월 29일과](../Page/7월_29일.md "wikilink") [30일](../Page/7월_30일.md "wikilink") 한시적으로 스페셜 방송으로 부활하여 《DJ처리, 휴가길을 부탁해》라는 이름으로 정오부터 오후 8시까지 방송하였다.

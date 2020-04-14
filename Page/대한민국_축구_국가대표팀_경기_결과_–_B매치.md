@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [      B](https://ko.wikipedia.org/wiki/______B).
+> This article is converted from Wikipedia: [대한민국 축구 국가대표팀 경기 결과 – B매치](https://ko.wikipedia.org/wiki/대한민국_축구_국가대표팀_경기_결과_–_B매치).
 
 
 대한민국 축구 국가대표팀의 **B매치**는 [대한민국 축구 국가대표팀](../Page/대한민국_축구_국가대표팀.md "wikilink") (A팀)이 타국가의 국가대표 B팀, 클럽, [대한민국 축구 국가대표 B팀](../Page/대한민국_축구_국가대표_B팀.md "wikilink") 등 각급 대표팀들간 가진 [A매치를](https://ko.wikipedia.org/wiki/국제_A매치 "wikilink") 제외한 모든 경기들을 의미한다.

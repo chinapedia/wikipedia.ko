@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [IV](https://ko.wikipedia.org/wiki/IV).
+> This article is converted from Wikipedia: [태합입지전IV](https://ko.wikipedia.org/wiki/태합입지전IV).
 
 
 《**태합입지전IV**》()는 [코에이](../Page/코에이.md "wikilink")에서 [2001년](../Page/2001년.md "wikilink") [6월 1일에](../Page/6월_1일.md "wikilink") [Windows](https://ko.wikipedia.org/wiki/Windows "wikilink")판이 발매된 [PC 게임으로](../Page/PC_게임.md "wikilink"), [태합입지전 시리즈의](../Page/태합입지전_시리즈.md "wikilink") 네 번째 작품이다. [중화민국](../Page/중화민국.md "wikilink")에서도 중문판이 발매되어 있다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  SC](https://ko.wikipedia.org/wiki/__SC).
+> This article is converted from Wikipedia: [콜럼버스 크루 SC](https://ko.wikipedia.org/wiki/콜럼버스_크루_SC).
 
 
 **콜럼버스 크루 SC**(Columbus Crew Soccer Club)는 [메이저 리그 사커에](../Page/메이저_리그_사커.md "wikilink") 소속된 [미국](../Page/미국.md "wikilink")의 프로축구단으로 [오하이오주](../Page/오하이오주.md "wikilink") [콜럼버스를](../Page/콜럼버스_\(오하이오주\).md "wikilink") 연고지로 하고 있으며 축구 전용구장인 [마프레 스타디움을](../Page/마프레_스타디움.md "wikilink") 홈구장으로 사용하고 있다.

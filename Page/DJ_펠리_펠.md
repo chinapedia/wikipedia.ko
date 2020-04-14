@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [DJ  ](https://ko.wikipedia.org/wiki/DJ__).
+> This article is converted from Wikipedia: [DJ 펠리 펠](https://ko.wikipedia.org/wiki/DJ_펠리_펠).
 
 
 [thumb](https://ko.wikipedia.org/wiki/파일:DJ_Felli_Fel_Beverly_Hills.jpg "wikilink")

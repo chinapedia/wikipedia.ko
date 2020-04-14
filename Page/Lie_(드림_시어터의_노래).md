@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Lie \(  \)](https://ko.wikipedia.org/wiki/Lie_\(__\)).
+> This article is converted from Wikipedia: [Lie \(드림 시어터의 노래\)](https://ko.wikipedia.org/wiki/Lie_\(드림_시어터의_노래\)).
 
 
 **Lie**는 [드림 시어터의](https://ko.wikipedia.org/wiki/드림_시어터 "wikilink") 정규 3집 '[Awake](https://ko.wikipedia.org/wiki/Awake "wikilink")' 앨범에서의 첫 번째 싱글 음반이다. 가사는 [케빈 무어가](https://ko.wikipedia.org/wiki/케빈_무어 "wikilink") 작성했지만, 뮤직비디오에는 등장하지 않는다. 그가 밴드를 탈퇴한 후 촬영이 이루어졌기 때문이다.

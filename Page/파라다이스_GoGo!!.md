@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ GoGo!!](https://ko.wikipedia.org/wiki/_GoGo!!).
+> This article is converted from Wikipedia: [파라다이스 GoGo!!](https://ko.wikipedia.org/wiki/파라다이스_GoGo!!).
 
 
 《**파라다이스 GoGo\!\!**》는, 후지텔레비에서 [1989년](../Page/1989년.md "wikilink") [4월 17일](../Page/4월_17일.md "wikilink") 부터 [1990년](../Page/1990년.md "wikilink") [3월 16일까지](../Page/3월_16일.md "wikilink") 방송하고 있었던 버라이어티 프로그램이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Blue Angel \( \)](https://ko.wikipedia.org/wiki/Blue_Angel_\(_\)).
+> This article is converted from Wikipedia: [Blue Angel \(박지윤의 음반\)](https://ko.wikipedia.org/wiki/Blue_Angel_\(박지윤의_음반\)).
 
 
 《**Blue Angel**》은 [1998년](../Page/1998년.md "wikilink")에 나온 [박지윤의](../Page/박지윤_\(가수\).md "wikilink") 2집 정규 앨범이다. 태원엔터테인먼트 기획이며, 가수 [박지윤의](../Page/박지윤_\(가수\).md "wikilink") 두 번째 앨범이다. 타이틀곡으로 **Steal Away**을 정해 활동했다. 이 음반의 제목으로 박지윤의 팬클럽 이름이 정해졌다.

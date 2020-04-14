@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [B \( \)](https://ko.wikipedia.org/wiki/B_\(_\)).
+> This article is converted from Wikipedia: [B \(프로그래밍 언어\)](https://ko.wikipedia.org/wiki/B_\(프로그래밍_언어\)).
 
 
 **B**는 [AT\&T](../Page/AT&T.md "wikilink") [벨 연구소의](../Page/벨_연구소.md "wikilink") [켄 톰슨이](https://ko.wikipedia.org/wiki/켄_톰슨 "wikilink") 개발한 [프로그래밍 언어이다](../Page/프로그래밍_언어.md "wikilink"). [C 언어로](../Page/C_\(프로그래밍_언어\).md "wikilink") 흡수되는 형태로 거의 멸종했다. 켄 톰슨이 [데니스 리치의](../Page/데니스_리치.md "wikilink") 감수를 받는 형태로 설계하였으며 [1969년](../Page/1969년.md "wikilink")에 등장했다.

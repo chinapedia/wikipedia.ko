@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [J. P. ](https://ko.wikipedia.org/wiki/J._P._).
+> This article is converted from Wikipedia: [J. P. 모건](https://ko.wikipedia.org/wiki/J._P._모건).
 
 
 **존 피어폰트 모건**(John Pierpont Morgan, [1837년](../Page/1837년.md "wikilink") [4월 17일](../Page/4월_17일.md "wikilink")\~[1913년](../Page/1913년.md "wikilink") [3월 31일](../Page/3월_31일.md "wikilink"))은 [미국](../Page/미국.md "wikilink")의 은행가로 [J.P. 모건 회사를](https://ko.wikipedia.org/wiki/JP모건_체이스 "wikilink") 설립했다. [미국](../Page/미국.md "wikilink") [코네티컷주](../Page/코네티컷주.md "wikilink") [하트퍼드](../Page/하트퍼드_\(코네티컷주\).md "wikilink") 출생으로 [독일](../Page/독일.md "wikilink") [괴팅겐 대학교를](../Page/괴팅겐_대학교.md "wikilink") 졸업했다.

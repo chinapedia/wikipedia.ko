@@ -1,10 +1,9 @@
-> This article is converted from Wikipedia: [ABC  ](https://ko.wikipedia.org/wiki/ABC__).
+> This article is converted from Wikipedia: [ABC 살인 사건](https://ko.wikipedia.org/wiki/ABC_살인_사건).
 
 
 《**ABC 살인 사건**》(원제：The A.B.C. Murders)은 [1936년](../Page/1936년.md "wikilink")에 발표된 [애거사 크리스티의](../Page/애거사_크리스티.md "wikilink") 추리 소설로서, 작가의 대표작 중 하나이다.
 
-
-\== 줄거리 소개 ==
+## 줄거리 소개
 
 이 소설은 푸와로의 오랜 친구인 아서 헤이스팅스가 봤던 이름 순서대로 일어나는 살인 사건과 수사팀 조사를 따라 전개된다.
 

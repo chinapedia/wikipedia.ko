@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  \(SBS\)](https://ko.wikipedia.org/wiki/__\(SBS\)).
+> This article is converted from Wikipedia: [행복한 아침 \(SBS\)](https://ko.wikipedia.org/wiki/행복한_아침_\(SBS\)).
 
 
 **《김민지의 행복한 아침》**은 [김민지](../Page/김민지_\(아나운서\).md "wikilink") 아나운서의 진행으로 [SBS 파워FM에서](../Page/SBS_파워FM.md "wikilink") 방송되었던 [라디오](../Page/라디오.md "wikilink") 프로그램이다. SBS 라디오 봄 개편으로 2013년 4월 14일 끝으로 이 방송은 폐지되었다.
@@ -42,6 +42,6 @@
 
 ## 외부 링크
 
-  - [SBS 파워FM 김민지의 행복한 아침 공식 홈페이지](http://radio.sbs.co.kr/happy/?log_sched=schedule/)
+  - [SBS 파워FM 김민지의 행복한 아침 공식 홈페이지](https://web.archive.org/web/20160304193903/http://radio.sbs.co.kr/happy/?log_sched=schedule%2F)
 
 [분류:SBS 파워FM의 라디오 프로그램](https://ko.wikipedia.org/wiki/분류:SBS_파워FM의_라디오_프로그램 "wikilink")

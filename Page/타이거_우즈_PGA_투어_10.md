@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  PGA  10](https://ko.wikipedia.org/wiki/__PGA__10).
+> This article is converted from Wikipedia: [타이거 우즈 PGA 투어 10](https://ko.wikipedia.org/wiki/타이거_우즈_PGA_투어_10).
 
 
 **타이거우즈 PGA 투어 2010**(Tiger Woods PGA Tour 10)은 [일렉트로닉 아츠가](../Page/일렉트로닉_아츠.md "wikilink") 개발한 [Wii](../Page/Wii.md "wikilink")용, PSP용 게임 소프트웨어이다.

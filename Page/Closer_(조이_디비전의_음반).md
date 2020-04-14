@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Closer \(  \)](https://ko.wikipedia.org/wiki/Closer_\(__\)).
+> This article is converted from Wikipedia: [Closer \(조이 디비전의 음반\)](https://ko.wikipedia.org/wiki/Closer_\(조이_디비전의_음반\)).
 
 
 《**Closer**》는 영국 록 밴드 [조이 디비전의](../Page/조이_디비전.md "wikilink") 두 번째이자 마지막 [정규 음반이다](../Page/정규_음반.md "wikilink"). 이언 커티스의 죽음 이후 2달 뒤 발매된 이 앨범은 영국 앨범 차트 탑10에 들었다. 앨범 하나하나가 고도의 구성미를 가지고 있으며, 후반부 트랙에 삽입된 신시사이저는 [뉴 오더의](../Page/뉴_오더.md "wikilink") 단초가 되었다.

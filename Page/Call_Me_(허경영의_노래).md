@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Call Me \( \)](https://ko.wikipedia.org/wiki/Call_Me_\(_\)).
+> This article is converted from Wikipedia: [Call Me \(허경영의 노래\)](https://ko.wikipedia.org/wiki/Call_Me_\(허경영의_노래\)).
 
 
 《**Call Me**》(콜 미)는 [대한민국](../Page/대한민국.md "wikilink")의 정치인이었던 [허경영](../Page/허경영.md "wikilink")의 디지털 [싱글이다](../Page/싱글_\(음악\).md "wikilink").

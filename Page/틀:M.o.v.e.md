@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:M.o.v.e](https://ko.wikipedia.org/wiki/:M.o.v.e).
+> This article is converted from Wikipedia: [틀:M.o.v.e](https://ko.wikipedia.org/wiki/틀:M.o.v.e).
 
 
 <onlyinclude></onlyinclude>

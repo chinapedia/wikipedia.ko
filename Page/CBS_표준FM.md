@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [CBS FM](https://ko.wikipedia.org/wiki/CBS_FM).
+> This article is converted from Wikipedia: [CBS 표준FM](https://ko.wikipedia.org/wiki/CBS_표준FM).
 
 
 **CBS 표준FM**은 [대한민국](../Page/대한민국.md "wikilink")의 방송국 [기독교방송의](../Page/CBS_\(대한민국의_방송사\).md "wikilink") 라디오 채널 중 하나이다. 수도권에서 FM 98.1㎒로 방송하고 있으며 24시간 방송되고 있다. [1954년](../Page/1954년.md "wikilink")에 AM 방송이 개국되었으며, [1998년](../Page/1998년.md "wikilink")에 표준FM 방송이 개국되었다. 해외에서는 [CBS의](../Page/CBS_\(대한민국의_방송사\).md "wikilink") 인터넷 라디오인 《RAINBOW》와 《만나》로 들을 수 있다. 각 프로그램 (뉴스 제외)에는 편지와 엽서뿐 아니라 휴대전화를 이용해서 짧은 문자메시지(\#1212-정보이용료 50원 별도), 긴 문자메시지, 사진(\#1212-정보이용료 100원 별도),인터넷 라디오《RAINBOW》, 카카오톡 플러스친구《CBS라디오》를 통해 방송에 참여할 수 있다.
@@ -46,7 +46,7 @@
 
 라디오 설교 프로그램의 경우, 지역의 FM 프로그램은 지역 교회의 설교로 대체하여 방송하고 있다. 평일에는 CBS 지역뉴스가 방송되며 주말은 CBS 지역뉴스 대신 CBS 본사 뉴스 수중계를 내보내고 있다.
 
-''' 2020년 1월 6일 기준 '''
+''' 2020년 3월 23일 기준 '''
 
 <table>
 <thead>
@@ -84,7 +84,7 @@ o</p></td>
 </tr>
 <tr class="odd">
 <td><p>월~토 06:05<br />
-일 06:05<br />
+일 06:00<br />
 일 06:30</p></td>
 <td><p><a href="../Page/굿모닝뉴스_이강민입니다.md" title="wikilink">굿모닝뉴스 이강민입니다</a><br />
 <a href="../Page/복음의_메아리.md" title="wikilink">복음의 메아리</a><br />
@@ -97,20 +97,18 @@ o</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>월~금 07:00<br />
-토~일 07:00</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/김덕기의_아침뉴스" title="wikilink">김덕기의 아침뉴스</a><br />
-<a href="../Page/CBS_뉴스_(라디오_프로그램).md" title="wikilink">CBS 뉴스</a></p></td>
+<td><p>월~금 07:00</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/김덕기의_아침뉴스" title="wikilink">김덕기의 아침뉴스</a></p></td>
 <td><p>o<br />
 x<br />
 o</p></td>
 </tr>
 <tr class="even">
-<td><p>월~금 07:30<br />
-토 07:05<br />
-일 07:05</br>일 07:30</p></td>
+<td><p>월~금 07:20<br />
+토 07:00<br />
+일 07:00</br>일 07:30</p></td>
 <td><p><a href="../Page/김현정의_뉴스쇼.md" title="wikilink">김현정의 뉴스쇼</a><br />
-<a href="https://ko.wikipedia.org/wiki/신지혜의_주말_뉴스쇼" title="wikilink">신지혜의 주말 뉴스쇼</a><br />
+<a href="https://ko.wikipedia.org/wiki/주말_뉴스쇼_(라디오_프로그램)" title="wikilink">주말 뉴스쇼</a><br />
 <a href="https://ko.wikipedia.org/wiki/영락의_강단" title="wikilink">영락의 강단</a></br><a href="../Page/진리의_말씀.md" title="wikilink">진리의 말씀</a></br></p></td>
 <td><p>o o<br />
 o</p></td>
@@ -127,9 +125,9 @@ o</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>매일 09:05</p></td>
-<td><p><a href="../Page/그대_창가에.md" title="wikilink">그대 창가에 이한철입니다</a><br />
-<a href="../Page/그대_창가에.md" title="wikilink">그대 창가에 채선아입니다</a></p></td>
+<td><p>매일 09:00</p></td>
+<td><p><a href="../Page/그대_창가에.md" title="wikilink">그대 창가에 김석훈입니다</a><br />
+<a href="../Page/그대_창가에.md" title="wikilink">그대 창가에 정민아입니다</a></p></td>
 <td><p>o</p></td>
 </tr>
 <tr class="even">
@@ -172,17 +170,17 @@ o</p></td>
 <td><p>o x</p></td>
 </tr>
 <tr class="even">
-<td><p>평일 18:15<br />
-주말 18:05</p></td>
+<td><p>평일 18:25<br />
+주말 18:00</p></td>
 <td><p><a href="../Page/시사자키.md" title="wikilink">시사자키 정관용입니다</a><br />
-<a href="https://ko.wikipedia.org/wiki/주말엔_서연미와" title="wikilink">주말엔 서연미와</a></p></td>
+<a href="https://ko.wikipedia.org/wiki/주말엔_CBS" title="wikilink">주말엔 CBS</a></p></td>
 <td><p>o<br />
 </p></td>
 </tr>
 <tr class="odd">
 <td><p>월~토 20:05<br />
-일 20:05<br />
-일 20:37</p></td>
+일 20:00<br />
+일 20:35</p></td>
 <td><p><a href="../Page/오늘_하루_장주희입니다.md" title="wikilink">오늘 하루 장주희입니다</a><br />
 <a href="../Page/새롭게_하소서.md" title="wikilink">새롭게 하소서</a><br />
 <a href="../Page/장병의_시간.md" title="wikilink">장병의 시간</a></p></td>
@@ -190,7 +188,7 @@ o</p></td>
 </tr>
 <tr class="even">
 <td><p>월~토 21:05<br />
-일 21:05</p></td>
+일 21:00</p></td>
 <td><p><a href="../Page/오늘_하루_장주희입니다.md" title="wikilink">오늘 하루 장주희입니다</a><br />
 <a href="https://ko.wikipedia.org/wiki/사랑의_동산" title="wikilink">사랑의 동산</a></p></td>
 <td><p>x<br />
@@ -202,13 +200,14 @@ o</p></td>
 <td><p>△</p></td>
 </tr>
 <tr class="even">
-<td><p>매일 21:37</p></td>
+<td><p>매일 21:35</p></td>
 <td><p><a href="../Page/라디오_강단.md" title="wikilink">라디오 강단</a></p></td>
 <td><p>△<br />
 o</p></td>
 </tr>
 <tr class="odd">
-<td><p>매일 22:05</p></td>
+<td><p>월~금 22:05<br />
+토~일 22:00</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/가스펠_아워" title="wikilink">가스펠 아워</a>(JOY4U 동시방송)</p></td>
 <td><p>o</p></td>
 </tr>

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ NT 3.51](https://ko.wikipedia.org/wiki/_NT_3.51).
+> This article is converted from Wikipedia: [윈도우 NT 3.51](https://ko.wikipedia.org/wiki/윈도우_NT_3.51).
 
 
 **윈도우 NT 3.51**(Windows NT 3.51)은 [마이크로소프트](../Page/마이크로소프트.md "wikilink")에서 [1995년](../Page/1995년.md "wikilink") [5월 30일에](../Page/5월_30일.md "wikilink") 출시한 [운영 체제이다](../Page/운영_체제.md "wikilink").

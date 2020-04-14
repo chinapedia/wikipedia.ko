@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [  DP:   ](https://ko.wikipedia.org/wiki/__DP:___).
+> This article is converted from Wikipedia: [극장판 포켓몬스터 DP: 아르세우스 초극의 시공으로](https://ko.wikipedia.org/wiki/극장판_포켓몬스터_DP:_아르세우스_초극의_시공으로).
 
 
-**아르세우스 초극의 시공으로** ()는 포켓몬스터 극장판의 12번째 작품이면서 다이아몬드&펄 극장판의 3번째 작품이다. 제62회 [로카르노 국제 영화제](https://ko.wikipedia.org/wiki/로카르노_국제_영화제 "wikilink")〈MANGA IMPACT〉특별 초대 작품이다.\[1\]
+**아르세우스 초극의 시공으로**()는 포켓몬스터 극장판의 12번째 작품이면서 다이아몬드&펄 극장판의 3번째 작품이다. 제62회 [로카르노 국제 영화제](https://ko.wikipedia.org/wiki/로카르노_국제_영화제 "wikilink")〈MANGA IMPACT〉특별 초대 작품이다.\[1\]
 
 ## 개요
 
@@ -11,7 +11,7 @@
 
 엔딩의 뒤에 2010년에 영화가 공개된다는 예고 영상이 나오는데 [루기아](../Page/루기아.md "wikilink")와 [칠색조](../Page/칠색조.md "wikilink")가 등장한다.
 
-또, 올해 가을에 〈금·은〉의 리메이크 작품 〈하트 골드·소울 실버〉의 발매를 앞에 두고 있기도 해, 일반 [피츄](https://ko.wikipedia.org/wiki/피츄 "wikilink")와는 귀의 형상이 다른 〈기자미미 피츄〉(삐죽귀피츄)(Spiky eared Pichu)나, 치코리타, 브케인, 리아코등 성도 지방을 대표하는 포켓몬도 많이 등장한다.
+또, 2011년 가을에 〈금·은〉의 리메이크 작품 〈하트 골드·소울 실버〉의 발매를 앞에 두고 있기도 해, 일반 [피츄](https://ko.wikipedia.org/wiki/피츄 "wikilink")와는 귀의 형상이 다른 〈기자미미 피츄〉(삐죽귀피츄)(Spiky eared Pichu)나, 치코리타, 브케인, 리아코등 성도 지방을 대표하는 포켓몬도 많이 등장한다.
 
 대한민국에서는 2009년 12월 24일에 전국 롯데시네마에서 개봉했다.
 
@@ -120,6 +120,6 @@
 
   - [한국어 공식 사이트](https://web.archive.org/web/20091108002949/http://movie.pokemonkorea.co.kr/)
 
-[분류:2009년 애니메이션 영화](https://ko.wikipedia.org/wiki/분류:2009년_애니메이션_영화 "wikilink") [분류:포켓몬스터 극장판](https://ko.wikipedia.org/wiki/분류:포켓몬스터_극장판 "wikilink") [분류:일본어 영화 작품](https://ko.wikipedia.org/wiki/분류:일본어_영화_작품 "wikilink") [분류:시간 여행 영화](https://ko.wikipedia.org/wiki/분류:시간_여행_영화 "wikilink") [분류:롯데 엔터테인먼트 애니메이션 영화](https://ko.wikipedia.org/wiki/분류:롯데_엔터테인먼트_애니메이션_영화 "wikilink")
+[분류:2009년 애니메이션 영화](https://ko.wikipedia.org/wiki/분류:2009년_애니메이션_영화 "wikilink") [분류:포켓몬스터 극장판](https://ko.wikipedia.org/wiki/분류:포켓몬스터_극장판 "wikilink") [분류:일본어 영화 작품](https://ko.wikipedia.org/wiki/분류:일본어_영화_작품 "wikilink") [분류:시간 여행 영화](https://ko.wikipedia.org/wiki/분류:시간_여행_영화 "wikilink") [분류:롯데 엔터테인먼트 애니메이션 영화](https://ko.wikipedia.org/wiki/분류:롯데_엔터테인먼트_애니메이션_영화 "wikilink") [분류:일본의 애니메이션 영화](https://ko.wikipedia.org/wiki/분류:일본의_애니메이션_영화 "wikilink")
 
 1.  개최지인 [로카르노](../Page/로카르노.md "wikilink")에서는 [8월 10일](../Page/8월_10일.md "wikilink")(현지시간 [8월 9일](../Page/8월_9일.md "wikilink"))에 상영되어 초대된 유야마 쿠니히코나 나카가와 쇼코등이 인사를 했다.[나카가와 쇼코：로카르노 영화제에서 출현. 극장판 〈포켓몬스터〉마이니치 신문](http://mainichi.jp/enta/mantan/graph/anime/20090815/)

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  FC](https://ko.wikipedia.org/wiki/__FC).
+> This article is converted from Wikipedia: [서울 양천 FC](https://ko.wikipedia.org/wiki/서울_양천_FC).
 
 
 **서울 양천 FC**(Seoul Yangcheon Football Club) [서울특별시](../Page/서울특별시.md "wikilink") [양천구](../Page/양천구.md "wikilink")를 연고로 하며 홈 구장은 [목동종합운동장이다](https://ko.wikipedia.org/wiki/목동_주경기장 "wikilink"). 2010년 [챌린저스리그](https://ko.wikipedia.org/wiki/챌린저스리그 "wikilink")에 참가할 예정이었으나 스폰서 문제로 2011년 참가를 목표로 연기되었으나 현재 홈페이지가 없어지고 해체된 것으로 보인다.

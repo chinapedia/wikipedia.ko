@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  FC](https://ko.wikipedia.org/wiki/__FC).
+> This article is converted from Wikipedia: [브리즈번 로어 FC](https://ko.wikipedia.org/wiki/브리즈번_로어_FC).
 
 
 '''브리즈번 로어 FC '''(Brisbane Roar FC)는 [A리그](../Page/A리그.md "wikilink")에 소속된 [오스트레일리아](../Page/오스트레일리아.md "wikilink")의 프로 축구단으로, [퀸즐랜드주](../Page/퀸즐랜드주.md "wikilink") [브리즈번](../Page/브리즈번.md "wikilink")을 연고지로 한다. A리그 초기 퀸즐랜드 로어 FC라는 이름으로 참여하였다가 2009년 브리즈번 로어 FC가 되었다.

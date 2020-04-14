@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TLC \( \)](https://ko.wikipedia.org/wiki/TLC_\(_\)).
+> This article is converted from Wikipedia: [TLC \(음악 그룹\)](https://ko.wikipedia.org/wiki/TLC_\(음악_그룹\)).
 
 
 **TLC**는 [미국](../Page/미국.md "wikilink")의 여자 [힙합](../Page/힙합.md "wikilink"), [R\&B](https://ko.wikipedia.org/wiki/R&B "wikilink"), [아이돌](https://ko.wikipedia.org/wiki/아이돌 "wikilink") 그룹이다. 이들은 **Queens of Pop**이라고도 불린다. 네 차례 [그래미상](https://ko.wikipedia.org/wiki/그래미상 "wikilink")을 수상했으며, 멤버는 [티보즈](https://ko.wikipedia.org/wiki/티보즈 "wikilink"), [레프트 아이](../Page/레프트_아이.md "wikilink"), 칠리이다. [빌보드](../Page/빌보드.md "wikilink")지에는 이들을 가장 성공한 트리오 그룹이라고 랭크했다. 이들은 "Creep", "No Scrubs", "Waterfall", "Unpretty" 등의 넘버원 히트를 기록한 싱글들을 가지고 있다. 2008년에는 빌보드 지에서 실시한 이 시대 가장 핫한 아티스트 100 리스트에서 56위를 기록했다.

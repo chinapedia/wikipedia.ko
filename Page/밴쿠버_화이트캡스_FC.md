@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  FC](https://ko.wikipedia.org/wiki/__FC).
+> This article is converted from Wikipedia: [밴쿠버 화이트캡스 FC](https://ko.wikipedia.org/wiki/밴쿠버_화이트캡스_FC).
 
 
 **밴쿠버 화이트캡스 FC**(Vancouver Whitecaps FC)는 [2009년](../Page/2009년.md "wikilink") [3월 18일에](../Page/3월_18일.md "wikilink") 창단되어 2011년부터 리그에 참가한 [캐나다](../Page/캐나다.md "wikilink")의 [메이저 리그 사커](../Page/메이저_리그_사커.md "wikilink") 소속 프로축구단이다. [브리티시컬럼비아주](../Page/브리티시컬럼비아주.md "wikilink") [밴쿠버](https://ko.wikipedia.org/wiki/밴쿠버 "wikilink")를 연고지로 하고 있으며 [BC 플레이스를](../Page/BC_플레이스.md "wikilink") 홈구장으로 사용하고 있다.

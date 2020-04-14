@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FC  B](https://ko.wikipedia.org/wiki/FC__B).
+> This article is converted from Wikipedia: [FC 바르셀로나 B](https://ko.wikipedia.org/wiki/FC_바르셀로나_B).
 
 
 **FC 바르셀로나 B**(Fútbol Club Barcelona B, 舊 FC 바르셀로나 아틀레틱)는 [스페인](../Page/스페인.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다. 이 팀은 [FC 바르셀로나의](../Page/FC_바르셀로나.md "wikilink") [리저브 팀](https://ko.wikipedia.org/wiki/리저브_팀 "wikilink") 즉 2군팀이다. 스페인 축구 리그 시스템에서는 리저브 팀은 별개의 리그가 아닌, 그들의 [시니어 팀의](https://ko.wikipedia.org/wiki/시니어_팀 "wikilink") 하부 계층에 속한다. 하지만 리저브 팀은 그들의 시니어 팀과 같은 디비시온에서는 뛸 수 없게 되어 있다. 즉 [프리메라 디비시온으로](https://ko.wikipedia.org/wiki/프리메라리가 "wikilink") 승격하는 것은 불가능하다. 또한 리저브 팀들은 과거와 달리 [코파 델 레이에](../Page/코파_델_레이.md "wikilink") 참여할 수 없다. 실제로 예전에는 FC 바르셀로나나 [레알 마드리드 CF와](../Page/레알_마드리드_CF.md "wikilink") 같은 강팀들이 리저브 팀과 독자적인 팀 사이의 경계를 상당히 애매하게 만들었다.

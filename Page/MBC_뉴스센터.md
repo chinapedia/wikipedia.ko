@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [MBC ](https://ko.wikipedia.org/wiki/MBC_).
+> This article is converted from Wikipedia: [MBC 뉴스센터](https://ko.wikipedia.org/wiki/MBC_뉴스센터).
 
 
 《**MBC 뉴스센터**》()는 [문화방송](../Page/문화방송.md "wikilink")(MBC)에서 일요일 밤 9시에 방송되었던 [MBC의](../Page/문화방송.md "wikilink") [일요일](../Page/일요일.md "wikilink") 심층 메인[뉴스](../Page/뉴스.md "wikilink") 프로그램이다.

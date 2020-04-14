@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [K ](https://ko.wikipedia.org/wiki/K_).
+> This article is converted from Wikipedia: [K리그 올스타전](https://ko.wikipedia.org/wiki/K리그_올스타전).
 
 
 **K리그 올스타전**( - 戰)은 [대한민국](../Page/대한민국.md "wikilink")의 [프로 축구](../Page/축구.md "wikilink") 리그인 [K리그의](https://ko.wikipedia.org/wiki/K리그_클래식 "wikilink") 올스타전이다. [1991년](../Page/1991년.md "wikilink")부터 [2007년](../Page/2007년.md "wikilink")까지 몇 번의 경우를 제외하고는 매년 열렸다.

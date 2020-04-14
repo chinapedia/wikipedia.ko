@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  FC](https://ko.wikipedia.org/wiki/__FC).
+> This article is converted from Wikipedia: [시카고 파이어 FC](https://ko.wikipedia.org/wiki/시카고_파이어_FC).
 
 
 **시카고 파이어 FC**(Chicago Fire FC)는 [메이저 리그 사커에](../Page/메이저_리그_사커.md "wikilink") 소속된 [미국](../Page/미국.md "wikilink")의 프로축구단으로 [일리노이주](../Page/일리노이주.md "wikilink") [시카고](../Page/시카고.md "wikilink")를 연고지로 하고 있다.

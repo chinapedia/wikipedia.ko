@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TV  6](https://ko.wikipedia.org/wiki/TV__6).
+> This article is converted from Wikipedia: [곰TV컵 카트라이더 6차리그](https://ko.wikipedia.org/wiki/곰TV컵_카트라이더_6차리그).
 
 
 **곰TV컵 카트라이더 6차리그**는 [곰TV](../Page/곰TV.md "wikilink")이 후원한 카트라이더 6번째 리그이다.

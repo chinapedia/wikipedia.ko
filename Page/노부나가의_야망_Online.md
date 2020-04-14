@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  Online](https://ko.wikipedia.org/wiki/__Online).
+> This article is converted from Wikipedia: [노부나가의 야망 Online](https://ko.wikipedia.org/wiki/노부나가의_야망_Online).
 
 
 《**노부나가의 야망 Online**》()은 [코에이](../Page/코에이.md "wikilink")가 자사의 [시뮬레이션 게임](https://ko.wikipedia.org/wiki/시뮬레이션_게임 "wikilink") [노부나가의 야망 시리즈의](../Page/노부나가의_야망_시리즈.md "wikilink") [세계관](../Page/세계관.md "wikilink")을 베이스로 발매한 [MMORPG](https://ko.wikipedia.org/wiki/MMORPG "wikilink")이다. 본작은 [플레이스테이션 2](../Page/플레이스테이션_2.md "wikilink")(PS2)용으로서는 《[파이널 판타지 XI](../Page/파이널_판타지_XI.md "wikilink")》에 이어 2번째로 나온 MMORPG이지만, 플레이어 캐릭터 간의 대전이나 세력 간의 전투가 가능한 것이 《파이널 판타지 XI》와 다른 점이다.

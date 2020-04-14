@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [D.C.  II](https://ko.wikipedia.org/wiki/D.C.__II).
+> This article is converted from Wikipedia: [D.C. 다카포 II](https://ko.wikipedia.org/wiki/D.C._다카포_II).
 
 
 **D.C. 다카포 II**()는 일본 서커스사의 18금 [연애 시뮬레이션 게임으로](https://ko.wikipedia.org/wiki/연애_시뮬레이션_게임 "wikilink") '[D.C. 다카포](../Page/D.C._다카포.md "wikilink")'의 후속작이다. 2007년과 2008년에는 D.C. 다카포 II, D.C. 다카포 II 세컨드시즌으로 애니화 되었다.

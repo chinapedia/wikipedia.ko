@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ K](https://ko.wikipedia.org/wiki/_K).
+> This article is converted from Wikipedia: [취재파일 K](https://ko.wikipedia.org/wiki/취재파일_K).
 
 
 《**취재파일 K**》은 [KBS 1TV에서](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink") 방영되었던 시사교양 프로그램이며 2013년 4월 12일부터 2017년 8월 27일까지 방영되었다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Revolution \( \)](https://ko.wikipedia.org/wiki/Revolution_\(_\)).
+> This article is converted from Wikipedia: [Revolution \(카라의 음반\)](https://ko.wikipedia.org/wiki/Revolution_\(카라의_음반\)).
 
 
 《**Revolution**》은 [2009년](../Page/2009년.md "wikilink") [7월 30일](../Page/7월_30일.md "wikilink") 발매된 [카라의](../Page/카라_\(음악_그룹\).md "wikilink") 두 번째 정규 음반이다.

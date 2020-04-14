@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  \(H2O\)](https://ko.wikipedia.org/wiki/__\(H2O\)).
+> This article is converted from Wikipedia: [오모이데가 잇파이 \(H2O\)](https://ko.wikipedia.org/wiki/오모이데가_잇파이_\(H2O\)).
 
 
 **오모이데가 잇파이**()는 [H2O의](https://ko.wikipedia.org/wiki/H2O_\(일본_가수\) "wikilink") 5번째 싱글로 [1983년](../Page/1983년.md "wikilink") [3월 25일](../Page/3월_25일.md "wikilink") 발매되었고, [1996년](../Page/1996년.md "wikilink") [1월 25일](../Page/1월_25일.md "wikilink") 재발매되었다.

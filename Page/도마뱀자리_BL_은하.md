@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ BL ](https://ko.wikipedia.org/wiki/_BL_).
+> This article is converted from Wikipedia: [도마뱀자리 BL 은하](https://ko.wikipedia.org/wiki/도마뱀자리_BL_은하).
 
 
 **도마뱀자리 BL 은하()**는 도마뱀자리에 있는 항성 형태를 띤 변광 [활동 은하이다](https://ko.wikipedia.org/wiki/활동_은하 "wikilink"). 1929년에 [쿠노 호프마이스터가](https://ko.wikipedia.org/wiki/쿠노_호프마이스터 "wikilink") 발견하였다.\[1\] 그러나 그는 발견 당시에 오늘날 잘 알려진 왜소 [불규칙 은하가](https://ko.wikipedia.org/wiki/불규칙_은하 "wikilink") 아닌 변광성으로 보았다. 1968년에 존 슈미트가 [데이비드 던랩 연구소에서](https://ko.wikipedia.org/wiki/데이비드_던랩_연구소 "wikilink") 변광을 일으키는 전파 천체를 발견하였다. 그것은 호스트 은하로 알려졌다.\[2\] 1974년 [제임스 에드워드 군](https://ko.wikipedia.org/wiki/제임스_에드워드_군 "wikilink") 이 적색 편이를 측정하여 Z = 0.07(V = 21000 km/s)의 결과를 얻었다. 이것은 곧 21,000km의 속도로 우리 은하에서 멀어져 가고 있다는 것이다.\[3\]

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [: MVP](https://ko.wikipedia.org/wiki/:_MVP).
+> This article is converted from Wikipedia: [틀:한국시리즈 MVP](https://ko.wikipedia.org/wiki/틀:한국시리즈_MVP).
 
 
 <onlyinclude></onlyinclude>

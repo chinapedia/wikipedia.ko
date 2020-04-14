@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FIFA  ](https://ko.wikipedia.org/wiki/FIFA__).
+> This article is converted from Wikipedia: [FIFA 월드컵 기록](https://ko.wikipedia.org/wiki/FIFA_월드컵_기록).
 
 
 다음은 **[FIFA 월드컵](https://ko.wikipedia.org/wiki/FIFA_월드컵 "wikilink")**에서 작성돈 **기록들**이다.

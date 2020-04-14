@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [V](https://ko.wikipedia.org/wiki/V).
+> This article is converted from Wikipedia: [태합입지전V](https://ko.wikipedia.org/wiki/태합입지전V).
 
 
 《**태합입지전V**》()는 [코에이](../Page/코에이.md "wikilink")에서 [2004년](../Page/2004년.md "wikilink") [3월 12일에](../Page/3월_12일.md "wikilink") [Windows](https://ko.wikipedia.org/wiki/Windows "wikilink")판, 2004년 [8월 26일에는](../Page/8월_26일.md "wikilink") [플레이스테이션 2판이](../Page/플레이스테이션_2.md "wikilink") 발매된 [PC 게임으로](../Page/PC_게임.md "wikilink"), [태합입지전 시리즈의](../Page/태합입지전_시리즈.md "wikilink") 다섯 번째 작품이다. 전작 《[태합입지전IV](../Page/태합입지전IV.md "wikilink")》에 이어 [중화민국](../Page/중화민국.md "wikilink")에서도 발매되어 있다.

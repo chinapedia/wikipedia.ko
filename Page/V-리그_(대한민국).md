@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [V- \(\)](https://ko.wikipedia.org/wiki/V-_\(\)).
+> This article is converted from Wikipedia: [V-리그 \(대한민국\)](https://ko.wikipedia.org/wiki/V-리그_\(대한민국\)).
 
 
 **V-리그**(V-League)는 [대한민국](../Page/대한민국.md "wikilink")의 [프로](https://ko.wikipedia.org/wiki/프로페셔널_스포츠 "wikilink") [배구](../Page/배구.md "wikilink") [리그이다](https://ko.wikipedia.org/wiki/리그_\(스포츠\) "wikilink"). [한국배구연맹](../Page/한국배구연맹.md "wikilink")에서 주관하며, [2005년](../Page/2005년.md "wikilink") 2월에 첫 시즌이 시작되었다. 2018–2019 시즌 기준으로 남자부 7팀, 여자부 6팀이 참가하고 있다. 대한민국 4대 프로 스포츠 리그 가운데 하나이다.
@@ -352,7 +352,7 @@ V-리그 여자부 신인선수상 수상자
 </tr>
 <tr class="even">
 <td><p>2011-12</p></td>
-<td><p>수상자 없음</p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -394,7 +394,7 @@ V-리그 여자부 기록상 수상자
 
 ## 관련 대회
 
-  - [KOVO컵](../Page/KOVO컵.md "wikilink"); 매년 개최되는 프로배구 컵대회.
+  - [KOVO컵](../Page/KOVO컵.md "wikilink"): 매년 개최되는 프로배구 컵대회.
   - [V-리그 탑매치](https://ko.wikipedia.org/wiki/V-리그_탑매치 "wikilink")
   - [여자배구 올스타 슈퍼매치](../Page/여자배구_올스타_슈퍼매치.md "wikilink")
 

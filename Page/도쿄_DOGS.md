@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ DOGS](https://ko.wikipedia.org/wiki/_DOGS).
+> This article is converted from Wikipedia: [도쿄 DOGS](https://ko.wikipedia.org/wiki/도쿄_DOGS).
 
 
 《**도쿄 DOGS**》() 는 [후지 TV에서](../Page/후지_TV.md "wikilink") [2009년](../Page/2009년.md "wikilink") [10월 19일부터](../Page/10월_19일.md "wikilink") 2009년 12월 21일까지 방송된 [드라마이다](../Page/텔레비전_드라마.md "wikilink").

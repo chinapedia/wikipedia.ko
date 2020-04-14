@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  \(KBS\)](https://ko.wikipedia.org/wiki/__\(KBS\)).
+> This article is converted from Wikipedia: [즐거운 저녁길 \(KBS\)](https://ko.wikipedia.org/wiki/즐거운_저녁길_\(KBS\)).
 
 
 **즐거운 저녁길**은 [대한민국](../Page/대한민국.md "wikilink")의 방송국인 [KBS전주방송총국](../Page/KBS전주방송총국.md "wikilink"), [KBS부산방송총국](../Page/KBS부산방송총국.md "wikilink"), [KBS창원방송총국](../Page/KBS창원방송총국.md "wikilink") 라디오 채널 [KBS전주 해피FM](../Page/KBS전주방송총국.md "wikilink"), [KBS부산 해피FM](../Page/KBS부산방송총국.md "wikilink"), [KBS창원 해피FM](../Page/KBS창원방송총국.md "wikilink")(전주 FM 92.9㎒, 부산, 양산 FM 97.1㎒, 기장, 정관, 녹산 FM 99.5㎒, 창원 FM 106.1㎒)에서 전주와 창원은 평일 저녁 6시부터 밤 8시까지, 부산은 평일 저녁 6시부터 저녁 7시까지 방송하는 퇴근길 저녁 라디오 프로그램이다.

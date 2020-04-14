@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [DJ ](https://ko.wikipedia.org/wiki/DJ_).
+> This article is converted from Wikipedia: [DJ 프리즈](https://ko.wikipedia.org/wiki/DJ_프리즈).
 
 
 **DJ Friz**(DJ 프리즈, , [1982년](../Page/1982년.md "wikilink") [2월 17일](../Page/2월_17일.md "wikilink") \~ )는 [unknownDJs](https://ko.wikipedia.org/wiki/unknownDJs "wikilink")의 멤버이며 [프로듀서](https://ko.wikipedia.org/wiki/프로듀서 "wikilink") 겸 [DJ](https://ko.wikipedia.org/wiki/DJ "wikilink")이다. 2002년 KHA DJ Battle 3위 수상 경력이 있고\[1\], 많은 힙합 음반에 참여한 실력파 턴테이블리스트이며, 2008년, DH Style, Philtre와 함께 일렉트로닉 계열의 팀 [Planet Shiver를](../Page/플래닛_쉬버.md "wikilink") 조직하였으며, 이 팀은 Epik High 5집에 *One* 리믹스로 이름을 드러냈다. 이후 Epik High 곡들을 리믹스하여 발표한 *Remixing the Human Soul*로 주목을 받았다.

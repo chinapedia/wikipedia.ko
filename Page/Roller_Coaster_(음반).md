@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Roller Coaster \(\)](https://ko.wikipedia.org/wiki/Roller_Coaster_\(\)).
+> This article is converted from Wikipedia: [Roller Coaster \(음반\)](https://ko.wikipedia.org/wiki/Roller_Coaster_\(음반\)).
 
 
 《**Roller Coaster**》\[1\] 는 [롤러코스터가](../Page/롤러코스터_\(음악_그룹\).md "wikilink") 1999년 7월 발매한 첫 앨범이다. 홈 레코딩으로 제작되었다. T-엔터테인먼트에서 발매했으며, 절판과 재발매를 거듭했다.

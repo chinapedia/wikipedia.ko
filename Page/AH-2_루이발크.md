@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [AH-2 ](https://ko.wikipedia.org/wiki/AH-2_).
+> This article is converted from Wikipedia: [AH-2 루이발크](https://ko.wikipedia.org/wiki/AH-2_루이발크).
 
 
 **데넬 AH-2 루이발크**(AH-2 Rooivalk)는 [남아프리카공화국](https://ko.wikipedia.org/wiki/남아프리카공화국 "wikilink") [데넬사](https://ko.wikipedia.org/wiki/데넬사 "wikilink")에서 만든 [공격 헬리콥터이다](../Page/공격_헬리콥터.md "wikilink"). 루이발크는 [아프리칸스어](../Page/아프리칸스어.md "wikilink")로 "붉은 황조롱이"(Red Kestrel)라는 뜻이다.

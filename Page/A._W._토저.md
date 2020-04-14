@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [A. W. ](https://ko.wikipedia.org/wiki/A._W._).
+> This article is converted from Wikipedia: [A. W. 토저](https://ko.wikipedia.org/wiki/A._W._토저).
 
 
 **에이든 윌슨 토저**(Aiden Wilson Tozer, 1897년 4월 21일 \~ 1963년 5월 12일)는 미국의 [개신교](../Page/개신교.md "wikilink") 목사이자 설교가, 저자이다. 미국의 대표적인 [복음주의](../Page/복음주의.md "wikilink") 목회자 중 한 명이었으며 교회의 부패한 현실을 비판하고 인기에 영합하지 않는 태도를 보여 이 시대의 [예언자](../Page/예언자.md "wikilink")라는 평을 받았다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [PB](https://ko.wikipedia.org/wiki/PB).
+> This article is converted from Wikipedia: [PB에어](https://ko.wikipedia.org/wiki/PB에어).
 
 
 **PB에어**()는 [태국](../Page/태국.md "wikilink")의 [저비용 항공사로](../Page/저비용_항공사.md "wikilink") 본사는 [방콕](../Page/방콕.md "wikilink") 왓타나에 위치해 있으며 [허브 공항은](../Page/허브_공항.md "wikilink") [수완나품 공항이](https://ko.wikipedia.org/wiki/수완나품_공항 "wikilink") 있다.

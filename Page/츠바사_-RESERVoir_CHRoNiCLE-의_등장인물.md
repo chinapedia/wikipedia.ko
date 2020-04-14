@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ -RESERVoir CHRoNiCLE- ](https://ko.wikipedia.org/wiki/_-RESERVoir_CHRoNiCLE-_).
+> This article is converted from Wikipedia: [츠바사 -RESERVoir CHRoNiCLE-의 등장인물](https://ko.wikipedia.org/wiki/츠바사_-RESERVoir_CHRoNiCLE-의_등장인물).
 
 
 이 문서에서는 **츠바사 -RESERVoir CHRoNiCLE-의 등장인물**, 및 애니메이션 《[츠바사 -RESERVoir CHRoNiCLE-](../Page/츠바사_-RESERVoir_CHRoNiCLE-.md "wikilink")》을 서술한다.

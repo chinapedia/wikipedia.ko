@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ NT 4.0](https://ko.wikipedia.org/wiki/_NT_4.0).
+> This article is converted from Wikipedia: [윈도우 NT 4.0](https://ko.wikipedia.org/wiki/윈도우_NT_4.0).
 
 
 **윈도우 NT 4.0**()은 [윈도우 NT의](../Page/윈도우_NT.md "wikilink") 기술을 가지고 있으면서 [윈도우 95의](../Page/윈도우_95.md "wikilink") [인터페이스](https://ko.wikipedia.org/wiki/인터페이스 "wikilink")를 가지고 있는 [마이크로소프트](../Page/마이크로소프트.md "wikilink")의 [운영 체제다](../Page/운영_체제.md "wikilink"). 코드네임은 “카이로”(Cairo)이다. 기업을 대상으로 한 제품으로, [1996년](../Page/1996년.md "wikilink") 8월 24일에 출시되었다. 그리고 NT라는 명칭을 가지고 있는 마지막 윈도우 NT 시리즈이기도 하다. 약간의 편법을 이용하면 [Windows Media Player 7.1과](https://ko.wikipedia.org/wiki/윈도우_미디어_플레이어 "wikilink") [DirectX](../Page/DirectX.md "wikilink") 5.0 beta도 설치할 수 있다.

@@ -27,7 +27,7 @@
 
 ### 2015-16: 설리 의 탈퇴 그리고 4인조체제, 4 Walls, Dimension 4-Docking Station
 
-지난 2014년 7월 'Red light' 활동 당시 다이나믹 듀오의 최자와의 열애설로 잠시 활동을 중단하고 연예계를 떠났던 설리는, 2015년 8월 7일 [SM엔터테인먼트](https://ko.wikipedia.org/wiki/SM엔터테인먼트 "wikilink")와의 협의 끝에 [f(x)](https://ko.wikipedia.org/wiki/f\(x\) "wikilink")를 탈퇴하고 연기자로 전향해 연기에 집중하겠다고 밝혔다. 이로써 [f(x)](https://ko.wikipedia.org/wiki/f\(x\) "wikilink") 는 데뷔 6년만에 5인조에서 1명이 축소되어 4인조로 바뀌게 되었다.
+지난 2014년 7월 'Red light' 활동 당시 다이나믹 듀오의 최자와의 열애설로 잠시 활동을 중단하고 연예계를 떠났던 설리는, 2015년 8월 7일 [SM엔터테인먼트](https://ko.wikipedia.org/wiki/SM엔터테인먼트 "wikilink")와의 협의 끝에 [f(x)](https://ko.wikipedia.org/wiki/f\(x\) "wikilink")를 탈퇴하고 연기자로 전향해 연기에 집중하겠다고 밝혔다. 이로써 [f(x)](https://ko.wikipedia.org/wiki/f\(x\) "wikilink")는 데뷔 6년만에 5인조에서 1명이 축소되어 4인조로 바뀌게 되었다.
 
 2015년 10월 27일 1년 3개월 만에 컴백을 알렸다. 빅토리아, 루나, 크리스탈, 엠버 순으로 4 Walls 티저 이미지를 공개하고 순차적으로 뮤직비디오 티저 영상을 공개하였다. 2015년 12월 15일에 디지털싱글 'Winter Garden\#1'을 발매했다.
 
@@ -43,49 +43,44 @@
 <thead>
 <tr class="header">
 <th><p>이름</p></th>
-<th><p>사진</p></th>
 <th><p>소개</p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td><p><strong><a href="../Page/빅토리아_(가수).md" title="wikilink">빅토리아</a></strong></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/파일:Victoria_Song_at_Seoul_Fashion_Week_2014_03.jpg" title="wikilink">100px</a></p></td>
 <td><ul>
 <li>본명 : 쑹첸 ()</li>
 <li>생년월일 : </li>
-<li>출생지 :  <a href="../Page/산둥성.md" title="wikilink">산둥 성</a></li>
-<li>활동기간 : <a href="../Page/2009년.md" title="wikilink">2009년</a> <a href="../Page/9월_5일.md" title="wikilink">9월 5일</a> ~ <strong>현재</strong></li>
+<li>출생지 : <a href="../Page/중화인민공화국.md" title="wikilink">중화인민공화국</a> <a href="../Page/산둥성.md" title="wikilink">산둥 성</a></li>
+<li>활동기간 : <a href="../Page/2009년.md" title="wikilink">2009년</a> <a href="../Page/9월_5일.md" title="wikilink">9월 5일</a> ~ 현재</li>
 </ul></td>
 </tr>
 <tr class="even">
 <td><p><strong><a href="../Page/엠버_(가수).md" title="wikilink">엠버</a></strong></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/파일:Amber_Liu,_2013_(cropped).jpg" title="wikilink">100px</a></p></td>
 <td><ul>
 <li>본명 : 류이윈 ()</li>
 <li>생년월일 : </li>
-<li>출생지 :  <a href="https://ko.wikipedia.org/wiki/로스앤젤레스" title="wikilink">로스앤젤레스</a></li>
-<li>활동기간 : <a href="../Page/2009년.md" title="wikilink">2009년</a> <a href="../Page/9월_5일.md" title="wikilink">9월 5일</a> ~ <strong>현재</strong></li>
+<li>출생지 : <a href="../Page/미국.md" title="wikilink">미국</a> <a href="https://ko.wikipedia.org/wiki/로스앤젤레스" title="wikilink">로스앤젤레스</a></li>
+<li>활동기간 : <a href="../Page/2009년.md" title="wikilink">2009년</a> <a href="../Page/9월_5일.md" title="wikilink">9월 5일</a> ~ 현재</li>
 </ul></td>
 </tr>
 <tr class="odd">
 <td><p><strong><a href="../Page/루나_(가수).md" title="wikilink">루나</a></strong></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/파일:Luna_going_to_a_Music_Bank_recording_on_January_10,_2019_(4).png" title="wikilink">100px</a></p></td>
 <td><ul>
 <li>본명 : 박선영 (朴善英)</li>
 <li>생년월일 : </li>
-<li>출생지 :  <a href="../Page/서울특별시.md" title="wikilink">서울특별시</a></li>
-<li>활동기간 : <a href="../Page/2009년.md" title="wikilink">2009년</a> <a href="../Page/9월_5일.md" title="wikilink">9월 5일</a> ~ <strong>현재</strong></li>
+<li>출생지 : <a href="../Page/대한민국.md" title="wikilink">대한민국</a> <a href="../Page/서울특별시.md" title="wikilink">서울특별시</a></li>
+<li>활동기간 : <a href="../Page/2009년.md" title="wikilink">2009년</a> <a href="../Page/9월_5일.md" title="wikilink">9월 5일</a> ~ 현재</li>
 </ul></td>
 </tr>
 <tr class="even">
 <td><p><strong><a href="../Page/크리스탈_(가수).md" title="wikilink">크리스탈</a></strong></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/파일:Krystal_Jung_at_Incheon_International_Airport_in_September_2018_01.png" title="wikilink">100px</a></p></td>
 <td><ul>
 <li>본명 : 정수정 (鄭秀晶)</li>
 <li>생년월일 : </li>
-<li>출생지 :  <a href="../Page/샌프란시스코.md" title="wikilink">샌프란시스코</a></li>
-<li>활동기간 : <a href="../Page/2009년.md" title="wikilink">2009년</a> <a href="../Page/9월_5일.md" title="wikilink">9월 5일</a> ~ <strong>현재</strong></li>
+<li>출생지 : <a href="https://ko.wikipedia.org/wiki/미" title="wikilink">미</a> <a href="../Page/샌프란시스코.md" title="wikilink">샌프란시스코</a></li>
+<li>활동기간 : <a href="../Page/2009년.md" title="wikilink">2009년</a> <a href="../Page/9월_5일.md" title="wikilink">9월 5일</a> ~ 현재</li>
 </ul></td>
 </tr>
 </tbody>
@@ -97,20 +92,18 @@
 <thead>
 <tr class="header">
 <th><p>이름</p></th>
-<th><p>사진</p></th>
 <th><p>소개</p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td><p><a href="../Page/설리_(배우).md" title="wikilink">설리</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/파일:Sulli_at_Gimpo_Airport_on_February_24,_2019.png" title="wikilink">100px</a></p></td>
 <td><ul>
 <li>본명 : 최진리 (崔眞理)</li>
 <li>생년월일 : </li>
-<li>출생지 :  <a href="https://ko.wikipedia.org/wiki/부산광역시" title="wikilink">부산광역시</a></li>
+<li>출생지 : <a href="../Page/대한민국.md" title="wikilink">대한민국</a> <a href="https://ko.wikipedia.org/wiki/부산광역시" title="wikilink">부산광역시</a></li>
 <li>사망일 : </li>
-<li>사망지 :  <a href="https://ko.wikipedia.org/wiki/경기도" title="wikilink">경기도</a> <a href="../Page/성남시.md" title="wikilink">성남시</a></li>
+<li>사망지 : <a href="../Page/대한민국.md" title="wikilink">대한민국</a> <a href="https://ko.wikipedia.org/wiki/경기도" title="wikilink">경기도</a> <a href="../Page/성남시.md" title="wikilink">성남시</a></li>
 <li>활동기간 : <a href="../Page/2009년.md" title="wikilink">2009년</a> <a href="../Page/9월_5일.md" title="wikilink">9월 5일</a> ~ <a href="../Page/2015년.md" title="wikilink">2015년</a> <a href="../Page/8월_7일.md" title="wikilink">8월 7일</a></li>
 </ul></td>
 </tr>

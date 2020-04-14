@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ VII ](https://ko.wikipedia.org/wiki/_VII_).
+> This article is converted from Wikipedia: [독일 VII형 잠수함](https://ko.wikipedia.org/wiki/독일_VII형_잠수함).
 
 
 **독일 유보트 7형**([독일어](../Page/독일어.md "wikilink"):U-Boot-Klasse VII)은 [제2차 세계 대전](../Page/제2차_세계_대전.md "wikilink") 중 사용된 [독일해군](https://ko.wikipedia.org/wiki/독일해군 "wikilink")의 주력잠수함이다.

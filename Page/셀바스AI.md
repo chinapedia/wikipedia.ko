@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [AI](https://ko.wikipedia.org/wiki/AI).
+> This article is converted from Wikipedia: [셀바스AI](https://ko.wikipedia.org/wiki/셀바스AI).
 
 
 **셀바스AI**(과거 명칭: **디오텍**)는 모바일 단말기용 필기인식과 전자사전 사업을 주로 영위하는 코스닥 상장 기업이다. 주요 제품으로는 필기로 쓴 내용을 인식하여 인식 기능을 함께 지원하는 다국어 컨텐츠의 모바일 전자 사전 소프트웨어인 파워딕(디오딕) 제품과, 필기 인식 전문 소프트웨어(디오펜), 광학문자인식기술 기반의 모바일 OCR 소프트웨어, 이미지 편집과 메모 작성을 위한 소프트웨어 제품 등이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ II](https://ko.wikipedia.org/wiki/_II).
+> This article is converted from Wikipedia: [문명 II](https://ko.wikipedia.org/wiki/문명_II).
 
 
 《**문명 II**》()는 1996년에 출시된 [턴제 전략 게임으로](../Page/턴제_전략_게임.md "wikilink") *[문명](../Page/문명_\(비디오_게임\).md "wikilink")*의 후속작이다. 그러나 원 제작자인 [시드 마이어는](../Page/시드_마이어.md "wikilink") 이 게임의 제작에 참여하지 않았으며 브라이언 래이놀즈(Brian Reynolds), 더글라스 캐스피언 카우프만 (Douglas Caspian-Kaufman), 제프 브릭스 (Jeff Briggs)가 디자인했다.

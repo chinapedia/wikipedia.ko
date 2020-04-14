@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Number Ones \(  \)](https://ko.wikipedia.org/wiki/Number_Ones_\(__\)).
+> This article is converted from Wikipedia: [Number Ones \(마이클 잭슨의 음반\)](https://ko.wikipedia.org/wiki/Number_Ones_\(마이클_잭슨의_음반\)).
 
 
 《**Number Ones**》는 빌보드차트 및 세계 각국 차트에서 1위를 한 곡들을 모은 베스트앨범이다. 신곡《[One More Chance](https://ko.wikipedia.org/wiki/One_More_Chance "wikilink")》가 수록되었는데 마이클 잭슨이 생전에 발표한 마지막 신곡이다.

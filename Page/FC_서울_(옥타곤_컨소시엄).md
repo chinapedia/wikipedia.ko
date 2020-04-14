@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FC  \( \)](https://ko.wikipedia.org/wiki/FC__\(_\)).
+> This article is converted from Wikipedia: [FC 서울 \(옥타곤 컨소시엄\)](https://ko.wikipedia.org/wiki/FC_서울_\(옥타곤_컨소시엄\)).
 
 
 **FC 서울**은 [서울](https://ko.wikipedia.org/wiki/서울 "wikilink")에 [K리그](../Page/K리그.md "wikilink") 클럽을 창단하여 흥행 사업을 영위하려는 목적으로 2001년 결성되어 단기간 존속했던 기업 [컨소시엄](https://ko.wikipedia.org/wiki/컨소시엄 "wikilink")이다. 세계 유수의 스포츠 마케팅 기업 [옥타곤 코리아를](https://ko.wikipedia.org/wiki/:en:Octagon_\(sports_agency\) "wikilink") 필두로 언론매체 및 복권 업체 등이 주주로 참여하였다. 그러나 창단 자금 조달 등의 문제로 목적을 달성하지 못한 채 2001년 중반 활동을 중단하였다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ HSC](https://ko.wikipedia.org/wiki/_HSC).
+> This article is converted from Wikipedia: [몽펠리에 HSC](https://ko.wikipedia.org/wiki/몽펠리에_HSC).
 
 
 **몽펠리에 에로 스포르 클뢰브**()는 [프랑스](../Page/프랑스.md "wikilink")의 [몽펠리에](../Page/몽펠리에.md "wikilink")를 연고로 하는 [리그 1의](https://ko.wikipedia.org/wiki/리그_1 "wikilink") 축구 클럽이다. 본래의 클럽은 1919년에 창단되었지만 현재의 모습은 1974년 합병을 통해 세워진 것이다. 구단주는 루이 니콜랭(Louis Nicollin)이며, [2009년](../Page/2009년.md "wikilink") [5월 29일](../Page/5월_29일.md "wikilink") 홈 경기장인 [스타드 드 라 모송](../Page/스타드_드_라_모송.md "wikilink")(Stade de la Mosson)에서 [RC 스트라스부르를](../Page/RC_스트라스부르.md "wikilink") 2-1로 꺾고 [리그 1](https://ko.wikipedia.org/wiki/리그_1 "wikilink") 승격을 확정지었다.

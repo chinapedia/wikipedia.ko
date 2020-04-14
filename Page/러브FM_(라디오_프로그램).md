@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [FM \( \)](https://ko.wikipedia.org/wiki/FM_\(_\)).
+> This article is converted from Wikipedia: [러브FM \(라디오 프로그램\)](https://ko.wikipedia.org/wiki/러브FM_\(라디오_프로그램\)).
 
 
-《**이숙영의 러브FM**》은 [SBS 러브FM에서](../Page/SBS_러브FM.md "wikilink") 매일 아침 7시부터 오전 10시까지 방송되는 아침정보 라디오 프로그램이다.
+《**이숙영의 러브FM**》은 [SBS 러브FM에서](../Page/SBS_러브FM.md "wikilink") 매일 아침 7시부터 아침 9시까지 방송되는 아침정보 라디오 프로그램이다.
 
 ## 개요
 
@@ -18,13 +18,13 @@
 
 ### 요일별 코너
 
-  - [월요일](../Page/월요일.md "wikilink") - 김현철의 어설픈 클래식/조영구의 영구상담소
-  - [화요일](https://ko.wikipedia.org/wiki/화요일 "wikilink") - 라이언킴의 서바이벌 영어/장익경의 건강 X-파일
-  - [수요일](../Page/수요일.md "wikilink") - 박재희의 고전의 대문/정명섭의 가로세로국세사
-  - [목요일](../Page/목요일.md "wikilink") - 곽영일의 이슈&팝스/태원준의 뚜벅뚜벅 여행
+  - [월요일](../Page/월요일.md "wikilink") - 김현철의 어설픈 클래식/조영구의 영구리서치
+  - [화요일](https://ko.wikipedia.org/wiki/화요일 "wikilink") - 카메론의 실전영어/썬킴은 알고있다
+  - [수요일](../Page/수요일.md "wikilink") - 박재희의 고전의 대문/오진승의 마음상담소
+  - [목요일](../Page/목요일.md "wikilink") - 재재의 신문물특급/차윤환의 먹는 게 메리트
   - [금요일](../Page/금요일.md "wikilink") - 이대화의 영화세상/불금노래방
-  - [토요일](../Page/토요일.md "wikilink") - 팝이 흐르는 아침/태원준의 뚜벅뚜벅여행
-  - [일요일](../Page/일요일.md "wikilink") - 박길호 팝의 향연/김아형의 뮤지컬 속으로/고·사·리(고맙고, 사랑하고, 이해해)
+  - [토요일](../Page/토요일.md "wikilink") - 김주우 김선재의 내그대, 당신의 선택은?/이민영의 세계미식여행
+  - [일요일](../Page/일요일.md "wikilink") - 추억의 흐르는 팝/고·사·리(고맙고, 사랑하고, 이해해)
 
 ## 외부 링크
 

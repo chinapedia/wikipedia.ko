@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ \(MBC\)](https://ko.wikipedia.org/wiki/_\(MBC\)).
+> This article is converted from Wikipedia: [영화음악 \(MBC\)](https://ko.wikipedia.org/wiki/영화음악_\(MBC\)).
 
 
 《**이주연의 영화음악**》은 [MBC FM4U의](../Page/MBC_FM4U.md "wikilink") 라디오 프로그램으로, 새벽 3시부터 4시까지 방송되었으며 마지막 진행자는 [이주연](../Page/이주연_\(아나운서\).md "wikilink") 아나운서이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Awake \(  \)](https://ko.wikipedia.org/wiki/Awake_\(__\)).
+> This article is converted from Wikipedia: [Awake \(드림 시어터의 음반\)](https://ko.wikipedia.org/wiki/Awake_\(드림_시어터의_음반\)).
 
 
 《**Awake**》는 [미국](../Page/미국.md "wikilink") [프로그레시브 메탈밴드](../Page/프로그레시브_메탈.md "wikilink") [드림 시어터의](https://ko.wikipedia.org/wiki/드림_시어터 "wikilink") 세 번째 정규앨범으로 [1994년](../Page/1994년.md "wikilink") 발매되었다. [케빈 무어와](https://ko.wikipedia.org/wiki/케빈_무어 "wikilink") 함께 작업한 마지막 앨범이며, [1992년](../Page/1992년.md "wikilink")의 [Images and Words에](../Page/Images_and_Words.md "wikilink") 이어 두 번째로 많이 팔린 앨범이기도 하다.

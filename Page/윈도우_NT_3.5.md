@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ NT 3.5](https://ko.wikipedia.org/wiki/_NT_3.5).
+> This article is converted from Wikipedia: [윈도우 NT 3.5](https://ko.wikipedia.org/wiki/윈도우_NT_3.5).
 
 
 **윈도우 NT 3.5**()는 [마이크로소프트](../Page/마이크로소프트.md "wikilink")에서 만든 [운영 체제이다](../Page/운영_체제.md "wikilink"). 그리고 [윈도우 NT 3.1의](../Page/윈도우_NT_3.1.md "wikilink") 뒤를 잇는 버전이다.

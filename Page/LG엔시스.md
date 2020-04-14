@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [LG](https://ko.wikipedia.org/wiki/LG).
+> This article is converted from Wikipedia: [LG엔시스](https://ko.wikipedia.org/wiki/LG엔시스).
 
 
 **LG엔시스**는 [1977년](../Page/1977년.md "wikilink") 국내 최초로 UNIX서버를 공급했던 LG전자의 DSS사업부가 분리하여 [2002년](../Page/2002년.md "wikilink") 1월 설립된 LG 그룹 계열의 국내최대 IT 인프라 전문기업이다. 다양한 글로벌기업 파트너십을 기반으로 서버, 스토리지, 네트워크 장비 등 컴퓨팅 하드웨어와 각종 소프트웨어 솔루션, 그리고 서비스까지 고객이 원하는 최적의 IT인프라를 제공한다. 본사는 [서울시](https://ko.wikipedia.org/wiki/서울시 "wikilink") [마포구](../Page/마포구.md "wikilink")에 위치한다. 2018년 4월 1일 자로 모기업인 LG CNS와 합병되었다.

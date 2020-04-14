@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ \(API\)](https://ko.wikipedia.org/wiki/_\(API\)).
+> This article is converted from Wikipedia: [코코아 \(API\)](https://ko.wikipedia.org/wiki/코코아_\(API\)).
 
 
 **코코아**는 [애플](https://ko.wikipedia.org/wiki/애플_\(기업\) "wikilink") 고유의 [객체 지향](https://ko.wikipedia.org/wiki/객체_지향 "wikilink") 응용 프로그램 환경으로 [맥 OS X의](https://ko.wikipedia.org/wiki/맥_OS_X "wikilink") [운영 체제를](../Page/운영_체제.md "wikilink") 위한 것이다. 맥 OS X에는 크게 [카본](../Page/카본_\(API\).md "wikilink"), [이식 가능 운영 체제 인터페이스](../Page/POSIX.md "wikilink") ([BSD](../Page/BSD.md "wikilink") 환경을 위함), [X11](../Page/X_윈도_시스템.md "wikilink"), [자바의](https://ko.wikipedia.org/wiki/자바_플랫폼 "wikilink") 다섯 가지 [API](../Page/API.md "wikilink")가 있다.

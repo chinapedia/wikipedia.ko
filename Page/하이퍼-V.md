@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [-V](https://ko.wikipedia.org/wiki/-V).
+> This article is converted from Wikipedia: [하이퍼-V](https://ko.wikipedia.org/wiki/하이퍼-V).
 
 
 마이크로소프트 **하이퍼 V**(Hyper-V, 코드이름 Viridian\[1\])는 [x64](https://ko.wikipedia.org/wiki/x64 "wikilink") 시스템을 위한 [하이퍼바이저](../Page/하이퍼바이저.md "wikilink") 기반의 [가상화](../Page/가상화.md "wikilink") 시스템이다.\[2\] **윈도우 서버 가상화**(Windows Server Virtualization)라는 이름으로도 알려져 있다. 하이퍼 V 베타 버전은 [윈도우 서버 2008](../Page/윈도우_서버_2008.md "wikilink") x64 에디션에도 추가되어 있으며 마지막 버전은(윈도우 업데이트를 통해 자동으로 업데이트됨) [2008년](../Page/2008년.md "wikilink") [6월 26일에](../Page/6월_26일.md "wikilink") 공개되었다.
@@ -36,13 +36,13 @@
 지원되는 게스트 운영체제는 다음을 포함한다:\[8\]
 
   - [윈도우 10](../Page/윈도우_10.md "wikilink")
-  - 윈도우 8
-  - 윈도우 서버 2008 x86/x64
+  - [윈도우 8](../Page/윈도우_8.md "wikilink")
+  - [윈도우 서버 2008](../Page/윈도우_서버_2008.md "wikilink") x86/x64
   - [윈도우 HPC 서버 2008](../Page/윈도우_HPC_서버_2008.md "wikilink")
-  - 윈도우 서버 2003
-  - 윈도우 2000 서버 SP4 및 어드밴스드 서버 SP4\[9\]
-  - 윈도우 비스타 SP1 (홈 에디션 제외)
-  - 윈도우 XP 프로페셔널 SP2/SP3/x64
+  - [윈도우 서버 2003](../Page/윈도우_서버_2003.md "wikilink")
+  - [윈도우 2000](../Page/윈도우_2000.md "wikilink") 서버 SP4 및 어드밴스드 서버 SP4\[9\]
+  - [윈도우 비스타](../Page/윈도우_비스타.md "wikilink") SP1 (홈 에디션 제외)
+  - [윈도우 XP](../Page/윈도우_XP.md "wikilink") 프로페셔널 SP2/SP3/x64
   - [수세 리눅스 엔터프라이즈 서버](https://ko.wikipedia.org/wiki/수세_리눅스_엔터프라이즈_서버 "wikilink") 10 SP1/SP2
 
 ### 리눅스 지원

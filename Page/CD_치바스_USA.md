@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [CD  USA](https://ko.wikipedia.org/wiki/CD__USA).
+> This article is converted from Wikipedia: [CD 치바스 USA](https://ko.wikipedia.org/wiki/CD_치바스_USA).
 
 
 **클럽 데포르티보 치바스 USA**(Club Deportivo Chivas USA)는 [캘리포니아주](../Page/캘리포니아주.md "wikilink") [로스앤젤레스](https://ko.wikipedia.org/wiki/로스앤젤레스 "wikilink")를 연고지로 하던 [미국](../Page/미국.md "wikilink")의 프로 축구 클럽이었다. 약칭 **치바스 USA**(Chivas USA)로 널리 통용되었다.

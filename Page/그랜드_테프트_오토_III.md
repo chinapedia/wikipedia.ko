@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [   III](https://ko.wikipedia.org/wiki/___III).
+> This article is converted from Wikipedia: [그랜드 테프트 오토 III](https://ko.wikipedia.org/wiki/그랜드_테프트_오토_III).
 
 
 《**그랜드 테프트 오토 3**》(, GTA III) 은 DMA디자인(현재의 [록스타 노스](../Page/록스타_노스.md "wikilink"))에서 개발하고, [록스타 게임스에서](../Page/록스타_게임스.md "wikilink") 배급한 샌드박스형 액션 어드벤처 게임이다. GTA3은 3D로 구현된 첫 번째 [그랜드 테프트 오토](../Page/그랜드_테프트_오토.md "wikilink") 시리즈이며, 세 번째로 출시된 콘솔 게임기용 게임이며, 다섯 번째로 출시된 GTA 시리즈 게임이다. GTA3는 원래 2001년 9월 출시 예정이었으나 미국의 911테러로 인해 출시일을 한달 늦추고 테러와 관련된것들을 삭제 및 축소 시킨후 2001년 10월 출시 하였다.[플레이스테이션 2용으로](../Page/플레이스테이션_2.md "wikilink") [2001년 10월](https://ko.wikipedia.org/wiki/2001년_10월 "wikilink") 출시되었으며, [마이크로소프트 윈도용으로는](https://ko.wikipedia.org/wiki/마이크로소프트_윈도 "wikilink") [2002년 5월](https://ko.wikipedia.org/wiki/2002년_5월 "wikilink"), [엑스박스](../Page/엑스박스.md "wikilink")용으로는 [2003년 11월](../Page/2003년_11월.md "wikilink") 출시되었다. 이 게임은 [그랜드 테프트 오토 2의](../Page/그랜드_테프트_오토_2.md "wikilink") 후속작이며, [그랜드 테프트 오토: 바이스 시티는](../Page/그랜드_테프트_오토:_바이스_시티.md "wikilink") 이 게임을 계승한 게임이다.

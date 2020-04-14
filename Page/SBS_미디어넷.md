@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SBS ](https://ko.wikipedia.org/wiki/SBS_).
+> This article is converted from Wikipedia: [SBS 미디어넷](https://ko.wikipedia.org/wiki/SBS_미디어넷).
 
 
 **SBS 미디어넷**(SBS Medianet)은 [SBS미디어홀딩스](../Page/SBS미디어홀딩스.md "wikilink")의 [계열사로](../Page/회사.md "wikilink") 스포츠, 골프, 경제정보, 라이프스타일, 음악, 어린이 등 다양한 쟝르의 프로그램을 제공하는 8개 채널을 통합 운영하는 회사이다

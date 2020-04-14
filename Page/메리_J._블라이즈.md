@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ J. ](https://ko.wikipedia.org/wiki/_J._).
+> This article is converted from Wikipedia: [메리 J. 블라이즈](https://ko.wikipedia.org/wiki/메리_J._블라이즈).
 
 
 **메리 J. 블라이지**(메리 J. 블라이즈, , [1971년](../Page/1971년.md "wikilink") [1월 11일](../Page/1월_11일.md "wikilink") \~ )는 [미국](../Page/미국.md "wikilink")의 [싱어송라이터](https://ko.wikipedia.org/wiki/싱어송라이터 "wikilink")이자 [배우](../Page/배우.md "wikilink")이다.

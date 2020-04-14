@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KB](https://ko.wikipedia.org/wiki/KB).
+> This article is converted from Wikipedia: [KB증권](https://ko.wikipedia.org/wiki/KB증권).
 
 
 **KB증권**(KB證券, KB Securities)은 [KB금융그룹](../Page/KB금융그룹.md "wikilink")의 증권회사이다. KB증권은 현대증권의 WM, S\&T 사업 역량과 KB투자증권의 IB, 홀세일 사업 역량이 합쳐져 전체 사업 부문에 있어 균형있는 사업 포트폴리오를 확보하게 되었다. KB증권은 자기자본 4조원이 넘는 초대형 증권사로서 더욱 전문화된 투자서비스를 통해 대한민국 대표 증권사가 되기 위해 최선을 다한다는 전략이다. KB증권은 '고객의 평생 투자파트너'로서 국내 최대 수준의 점포망과 온라인 서비스를 기반으로 고객의 다양한 금융 니즈에 대해 최상의 서비스와 투자솔루션을 제공할 방침이다.

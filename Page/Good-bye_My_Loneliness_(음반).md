@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Good-bye My Loneliness \(\)](https://ko.wikipedia.org/wiki/Good-bye_My_Loneliness_\(\)).
+> This article is converted from Wikipedia: [Good-bye My Loneliness \(음반\)](https://ko.wikipedia.org/wiki/Good-bye_My_Loneliness_\(음반\)).
 
 
 《**Good-bye My Loneliness**》는 일본의 밴드 [ZARD](../Page/ZARD.md "wikilink")의 첫 번째 정규 앨범이자 동시에 데뷔 앨범이며, 그들의 첫 데뷔곡 〈[Good-bye My Loneliness](../Page/Good-bye_My_Loneliness.md "wikilink")〉가 발매된 지 불과 2개월이 채 안되었던 1991년 3월 27일 발매되었다. 발매 레이블은 당시 [폴리도르 레코드의](../Page/폴리도르_레코드.md "wikilink") 신규 레이블 b.gram이었으며, 이때 두 가지 포맷으로 발매되었다. ([CD](../Page/콤팩트_디스크.md "wikilink"): POCH-1082, [Cassette](../Page/콤팩트_카세트.md "wikilink"): POTH-1082)

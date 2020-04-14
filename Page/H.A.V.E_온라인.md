@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [H.A.V.E ](https://ko.wikipedia.org/wiki/H.A.V.E_).
+> This article is converted from Wikipedia: [H.A.V.E 온라인](https://ko.wikipedia.org/wiki/H.A.V.E_온라인).
 
 
 《**H.A.V.E. 온라인**》은 NQ Games에서 개발한 온라인 3인칭 슈팅게임이다. 장난감을 소재로하여, [픽사](../Page/픽사.md "wikilink")의 [토이스토리](https://ko.wikipedia.org/wiki/토이스토리 "wikilink")와 비슷한 그래픽색감을 가지고 있으며, [퀘이크나](../Page/퀘이크_\(비디오_게임\).md "wikilink") [언리얼 토너먼트와](../Page/언리얼_토너먼트.md "wikilink") 유사한 멀티 웨폰 시스템으로 전투 상황별 7종의 무기를 적절히 교체하며 전투를 진행하는 하이퍼 슈팅으로, [대한민국](../Page/대한민국.md "wikilink")에서 유행하는 밀리터리 FPS류와는 플레이에 많은 차이가 있다.
