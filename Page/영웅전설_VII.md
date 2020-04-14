@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ VII](https://ko.wikipedia.org/wiki/_VII).
+> This article is converted from Wikipedia: [영웅전설 VII](https://ko.wikipedia.org/wiki/영웅전설_VII).
 
 
 《**영웅전설 VII**》([한자](../Page/한자.md "wikilink"): 英雄傳說 VII, , ) 및 《**영웅전설 - 제로의 궤적**》([한자](../Page/한자.md "wikilink"): 英雄傳說 - 제로의 軌跡, , ) 에 대한 《**영웅전설 - 벽의 궤적**》([한자](../Page/한자.md "wikilink"): 英雄傳說 - 碧의 軌跡, , ) 분할 될 수있다. 그들은 [팔콤](https://ko.wikipedia.org/wiki/팔콤 "wikilink")에서 만든 [롤플레잉 게임이다](https://ko.wikipedia.org/wiki/롤플레잉_게임 "wikilink").

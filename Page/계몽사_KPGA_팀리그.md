@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ KPGA ](https://ko.wikipedia.org/wiki/_KPGA_).
+> This article is converted from Wikipedia: [계몽사 KPGA 팀리그](https://ko.wikipedia.org/wiki/계몽사_KPGA_팀리그).
 
 
 |  |

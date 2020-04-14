@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [StarrySky](https://ko.wikipedia.org/wiki/StarrySky).
+> This article is converted from Wikipedia: [Starry☆Sky](https://ko.wikipedia.org/wiki/Starry☆Sky).
 
 
 **『Starry☆Sky』**는 HONEY BEE가 기획한 드라마CD, 게임 등 여성 취향의 [미디어 믹스](https://ko.wikipedia.org/wiki/미디어_믹스 "wikilink") 작품 시리즈이다.

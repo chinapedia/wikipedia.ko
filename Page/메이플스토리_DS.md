@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ DS](https://ko.wikipedia.org/wiki/_DS).
+> This article is converted from Wikipedia: [메이플스토리 DS](https://ko.wikipedia.org/wiki/메이플스토리_DS).
 
 
 **메이플스토리 DS**는 [넥슨](../Page/넥슨.md "wikilink")과 [닌텐도](../Page/닌텐도.md "wikilink")가 공동 개발한 [닌텐도 DS용](../Page/닌텐도_DS.md "wikilink") 게임 소프트웨어이다.

@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [:KBS 1TV](https://ko.wikipedia.org/wiki/:KBS_1TV).
+> This article is converted from Wikipedia: [틀:KBS 1TV](https://ko.wikipedia.org/wiki/틀:KBS_1TV).
 
 
-<onlyinclude> 영화{{·}}드라마 |내용1=
+<onlyinclude>드라마 |내용1=
 
   - 《[가요무대](../Page/가요무대.md "wikilink")》
   - 《[올댓뮤직](../Page/올댓뮤직.md "wikilink")》
@@ -87,6 +87,7 @@
   - 《[KBS 뉴스 (2430)](../Page/KBS_뉴스_\(2430\).md "wikilink")》&
   - 《[KBS 뉴스 (주말)](../Page/KBS_뉴스_\(주말\).md "wikilink")》&
   - 《[KBS 뉴스특보](../Page/KBS_뉴스특보.md "wikilink")》¹ &
+  - 《[KBS K 개표방송](https://ko.wikipedia.org/wiki/KBS_K_개표방송 "wikilink")》³ &
 
 |묶음4 = 스포츠 |내용4 =
 
@@ -98,7 +99,6 @@
   - 《[버추얼 가디언즈](https://ko.wikipedia.org/wiki/버추얼_가디언즈 "wikilink")》
   - 《[비밀의 바람숲](https://ko.wikipedia.org/wiki/비밀의_바람숲 "wikilink")》
   - 《[테테루](https://ko.wikipedia.org/wiki/테테루 "wikilink")》
-  - 《[출동\! 애니멀 레스큐](../Page/출동!_애니멀_레스큐.md "wikilink")》
   - 《[KBS 창작동요대회](../Page/KBS_창작동요대회.md "wikilink")》²
   - 《[국악동요제](../Page/국악동요제.md "wikilink")》²
 
@@ -114,7 +114,8 @@
 
 ¹ 유동적으로 편성되는 프로그램
 ² 연중 1회 방송되는 프로그램
-& [KBS 24시 뉴스와](https://ko.wikipedia.org/wiki/KBS_24시_뉴스 "wikilink") 동시중계되는 프로그램 }}</onlyinclude>
+³ 법정선거일
+& [KBS 24시 뉴스와](https://ko.wikipedia.org/wiki/KBS_24시_뉴스 "wikilink") 동시중계되는 프로그램 |아랫글모양 = background-color:\#9EC1ED; }}</onlyinclude>
 
 ## 설명
 

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [   Wii](https://ko.wikipedia.org/wiki/___Wii).
+> This article is converted from Wikipedia: [뉴 슈퍼 마리오브라더스 Wii](https://ko.wikipedia.org/wiki/뉴_슈퍼_마리오브라더스_Wii).
 
 
 《**뉴 슈퍼 마리오브라더스 Wii**》()는 [닌텐도](../Page/닌텐도.md "wikilink")가 개발한 [Wii](../Page/Wii.md "wikilink")용 액션 게임 소프트웨어이다. 대한민국에서는 [2010년](../Page/2010년.md "wikilink") [8월 7일에](../Page/8월_7일.md "wikilink") 블랙 [Wii](../Page/Wii.md "wikilink")와 함께 발매되었다.
@@ -43,9 +43,9 @@
 
 제한 시간동안 플레이어가 무적이 되어 만지는 적은 모두 죽일 수 있다. 그러나 용암에 빠지거나 낭떠러지에 떨어지거나 게임시간이 경과되면 죽는다.
 
-  - 연두색 수퍼 버섯
+  - 1UP 버섯
 
-목숨하나가 추가된다
+목숨 하나가 추가된다.
 
 ## 등장 인물
 

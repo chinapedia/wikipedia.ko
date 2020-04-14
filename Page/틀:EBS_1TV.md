@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:EBS 1TV](https://ko.wikipedia.org/wiki/:EBS_1TV).
+> This article is converted from Wikipedia: [틀:EBS 1TV](https://ko.wikipedia.org/wiki/틀:EBS_1TV).
 
 
 <noinclude>

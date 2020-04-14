@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Paparazzi \(  \)](https://ko.wikipedia.org/wiki/Paparazzi_\(__\)).
+> This article is converted from Wikipedia: [Paparazzi \(레이디 가가의 노래\)](https://ko.wikipedia.org/wiki/Paparazzi_\(레이디_가가의_노래\)).
 
 
 "**Paparazzi**"는 미국의 음악가 [레이디 가가의](../Page/레이디_가가.md "wikilink") 노래로, 가가의 첫 정규 음반 *[The Fame](../Page/The_Fame.md "wikilink")*에 수록되어 있다. 가가와 롭 푸사리가 함께 노래를 작곡했으며, 앨범의 마지막 싱글로 발매되었다. 영국, 이탈리아, 아일랜드, 미국, 캐나다, 오스트레일리아, 뉴질랜드, 프랑스 등지에서 10위권 진입을했다. 미국에서는 2009년 7월 6일에 발매되었으며, 한국에서는 31일날 발매되었다. 처음에 영국에서는 "LoveGame"이 세 번째 싱글로 발매될 예정이였지만, "LoveGame"의 선정적인 가사와 뮤직비디오로 논란이 돼 대체할 싱글로 "Paparazzi"가 결정되었다. 노래의 가사는 레이디 가가가 작사하였으며, 내용은 명성에 대한 모험과 갈등을 묘사한 내용이다.

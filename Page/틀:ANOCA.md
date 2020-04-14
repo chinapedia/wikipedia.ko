@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:ANOCA](https://ko.wikipedia.org/wiki/:ANOCA).
+> This article is converted from Wikipedia: [틀:ANOCA](https://ko.wikipedia.org/wiki/틀:ANOCA).
 
 
 <onlyinclude>{{둘러보기 상자 |이름 = ANOCA |제목 = \[\[아프리카_국가_올림픽_위원회_연합|</onlyinclude>

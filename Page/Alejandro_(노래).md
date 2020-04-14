@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Alejandro \(\)](https://ko.wikipedia.org/wiki/Alejandro_\(\)).
+> This article is converted from Wikipedia: [Alejandro \(노래\)](https://ko.wikipedia.org/wiki/Alejandro_\(노래\)).
 
 
 **"Alejandro"**는 미국의 음악가 [레이디 가가의](../Page/레이디_가가.md "wikilink") 싱글로 1집 리패키지 앨범 *[The Fame Monster](../Page/The_Fame_Monster.md "wikilink")*에 수록되어 있다.

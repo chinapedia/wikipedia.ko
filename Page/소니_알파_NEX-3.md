@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  NEX-3](https://ko.wikipedia.org/wiki/__NEX-3).
+> This article is converted from Wikipedia: [소니 알파 NEX-3](https://ko.wikipedia.org/wiki/소니_알파_NEX-3).
 
 
 **소니 NEX-3**은 [2010년 6월](../Page/2010년_6월.md "wikilink") 출시된 [소니 E마운트](https://ko.wikipedia.org/wiki/소니_E마운트 "wikilink") [미러리스 렌즈 교환식 카메라이다](../Page/미러리스_렌즈_교환식_카메라.md "wikilink"). 소니의 보급형 미러리스 카메라중에서는 가장 첫 선을 보인 기종이다. NEX-3은 [NEX-5에](https://ko.wikipedia.org/wiki/소니_NEX-5 "wikilink") 비해 Full-HD 동영상이 지원이 안되며, 바디재질과 색상이 다른 점을 제외하고는 거의 비슷한 사양을 가지고 있다.

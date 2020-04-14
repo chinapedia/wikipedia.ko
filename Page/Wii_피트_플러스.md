@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Wii  ](https://ko.wikipedia.org/wiki/Wii__).
+> This article is converted from Wikipedia: [Wii 피트 플러스](https://ko.wikipedia.org/wiki/Wii_피트_플러스).
 
 
 **Wii Fit Plus**는 [닌텐도](../Page/닌텐도.md "wikilink")가 개발한 [Wii Fit의](https://ko.wikipedia.org/wiki/Wii_Fit "wikilink") 후속작인 [Wii](../Page/Wii.md "wikilink")용 스포츠 게임 소프트웨어이다. 게임을 플레이하기 위해서는 [Wii 리모컨과](../Page/Wii_리모컨.md "wikilink") [눈차크](https://ko.wikipedia.org/wiki/Wii_눈차크 "wikilink"), [Wii 밸런스 보드가](../Page/Wii_밸런스_보드.md "wikilink") 필요하다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  FC](https://ko.wikipedia.org/wiki/__FC).
+> This article is converted from Wikipedia: [올랜도 파이리츠 FC](https://ko.wikipedia.org/wiki/올랜도_파이리츠_FC).
 
 
 **올랜도 파이리츠 FC**(Orlando Pirates Football Club)는 [남아프리카공화국](https://ko.wikipedia.org/wiki/남아프리카공화국 "wikilink")의 [요하네스버그](../Page/요하네스버그.md "wikilink")를 연고지로 하는 [축구](../Page/축구.md "wikilink") 클럽이다. [1937년](../Page/1937년.md "wikilink")에 설립되었으며 같은 지역에 연고를 두고 있는 [카이저 치프스 FC와](../Page/카이저_치프스_FC.md "wikilink") 라이벌 관계를 형성하고 있다. ([소웨토](https://ko.wikipedia.org/wiki/소웨토 "wikilink") 더비)

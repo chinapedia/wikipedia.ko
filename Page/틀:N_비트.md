@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:N ](https://ko.wikipedia.org/wiki/:N_).
+> This article is converted from Wikipedia: [틀:N 비트](https://ko.wikipedia.org/wiki/틀:N_비트).
 
 
 <onlyinclude> <small>

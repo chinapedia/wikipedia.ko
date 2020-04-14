@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Break the Ice \(  \)](https://ko.wikipedia.org/wiki/Break_the_Ice_\(__\)).
+> This article is converted from Wikipedia: [Break the Ice \(브리트니 스피어스의 노래\)](https://ko.wikipedia.org/wiki/Break_the_Ice_\(브리트니_스피어스의_노래\)).
 
 
 "**Break the Ice**"는 미국의 가수 [브리트니 스피어스의](../Page/브리트니_스피어스.md "wikilink") 5번째 음반 *[Blackout](https://ko.wikipedia.org/wiki/Blackout "wikilink")*에 수록된 노래이다. 미국의 [빌보드 핫 댄스 클럽 플레이 차트에서](https://ko.wikipedia.org/wiki/빌보드_차트 "wikilink") 1위를 하였다.

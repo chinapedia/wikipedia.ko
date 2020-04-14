@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [MTV    ](https://ko.wikipedia.org/wiki/MTV____).
+> This article is converted from Wikipedia: [MTV 비디오 뮤직 어워드 재팬](https://ko.wikipedia.org/wiki/MTV_비디오_뮤직_어워드_재팬).
 
 
 《**MTV 비디오 뮤직 어워드 재팬**》은 [MTV 비디오 뮤직 어워드의](../Page/MTV_비디오_뮤직_어워드.md "wikilink") 일본 버전이다.

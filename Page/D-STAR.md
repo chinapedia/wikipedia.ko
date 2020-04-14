@@ -28,7 +28,7 @@
 
 ## 더 보기
 
-  - [테트라](../Page/테트라.md "wikilink")
+  - [TETRA](https://ko.wikipedia.org/wiki/TETRA "wikilink")
   - [에코링크](https://ko.wikipedia.org/wiki/에코링크 "wikilink")
 
 ## 외부 링크

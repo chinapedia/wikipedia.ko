@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Circus \(\)](https://ko.wikipedia.org/wiki/Circus_\(\)).
+> This article is converted from Wikipedia: [Circus \(노래\)](https://ko.wikipedia.org/wiki/Circus_\(노래\)).
 
 
 "**Circus**"는 미국의 가수 브리트니 스피어스의 여섯번째 음반 *[Circus](../Page/Circus_\(브리트니_스피어스의_음반\).md "wikilink")*의 두 번째 싱글이다. 이 싱글은 [자이브 레코드를](../Page/자이브_레코드.md "wikilink") 통해 2008년 12월 2일 발매되었다. "Circus"는 닥터 루크가 작곡하였으며, 클로드 켈리와 베니 블랑코가 작곡했는데, 대중들이 브리트니에 삶에 대한 인식을 은유한 내용이다. 스피어스가 이 노래를 처음 들었을때, 바로 영감을 얻어 앨범 제목을 *Circus*라 정했고, 테마도 서커스로 정했다. 음악적으로, "Circus"는 일렉트로팝, 댄스 팝 그리고 알앤비의 영향을 받은 팝 노래이다. 비평가들로부터는 노래 대부분의 파트를 이루는 일렉트로닉 프로덕션에 대한 호평을 받았고, 대부분 긍정적인 평가를 받았다. "Circus"는 뿐만 아니라 대중적으로도 성공했는데, 많은 유럽국가에서 20위권 진입을 했고, 호주, 캐나다, 덴마크, 뉴질랜드, 스웨덴, 미국 등지에서는 10위권 진입을 했다. "Circus"는 세계적으로 550만 장을 팔아치워 베스트 셀러 싱글 중 하나이기도하다.\[1\] 이 노래의 첫 프로모션은 2008년 12월 2일 《굿 모닝 아메리카》에서 펼쳤다. 또한 브리트니의 월드 투어 [The Circus Starring Britney Spears](../Page/The_Circus_Starring_Britney_Spears.md "wikilink")(2009)에서는 제작된 의상을 입고 오프닝 노래로 선택되었다. 뮤직비디오는 프랜시스 로랜스 감독이 맡아 2008년 12월 4일 공개했다. 뮤직비디오 역시 대부분 긍정적인 평가를 받았다. 하지만, 동물들을 학대하는 내용이 나와 [PETA](../Page/PETA.md "wikilink")로부터 비판을 받았다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FX \(  \)](https://ko.wikipedia.org/wiki/FX_\(__\)).
+> This article is converted from Wikipedia: [FX \(대한민국의 텔레비전 채널\)](https://ko.wikipedia.org/wiki/FX_\(대한민국의_텔레비전_채널\)).
 
 
 **FX**는 [대한민국](../Page/대한민국.md "wikilink")의 [방송채널 사용사업자인](https://ko.wikipedia.org/wiki/대한민국_방송법 "wikilink") [티캐스트](../Page/티캐스트.md "wikilink")와 미국 FX네트워크가 운영하는 글로벌 [남성](https://ko.wikipedia.org/wiki/남성 "wikilink") 대상 [텔레비전 채널로](https://ko.wikipedia.org/wiki/텔레비전_채널 "wikilink") [2008년](../Page/2008년.md "wikilink") [3월](../Page/3월.md "wikilink")에 개국하였다.
@@ -70,6 +70,7 @@
   - 오늘의 빌어먹을 차트
   - 젠장뉴스
   - [아메리카 퍼니스트 홈비디오](https://ko.wikipedia.org/wiki/아메리카_퍼니스트_홈비디오 "wikilink")
+  - [코미디 빅리그](https://ko.wikipedia.org/wiki/코미디_빅리그 "wikilink")
 
 ### 스포츠
 

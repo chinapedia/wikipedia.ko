@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ EF 50mm ](https://ko.wikipedia.org/wiki/_EF_50mm_).
+> This article is converted from Wikipedia: [캐논 EF 50mm 렌즈](https://ko.wikipedia.org/wiki/캐논_EF_50mm_렌즈).
 
 
 **캐논 EF 50mm 렌즈**는 [캐논](../Page/캐논.md "wikilink")에서 생산한 초점거리 50mm의 [EF 마운트](../Page/캐논_EF_마운트.md "wikilink") 표준 [단렌즈](https://ko.wikipedia.org/wiki/단렌즈 "wikilink")를 말한다. 다음과 같은 종류가 있다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [LG IBM MBC ](https://ko.wikipedia.org/wiki/LG_IBM_MBC_).
+> This article is converted from Wikipedia: [LG IBM MBC게임 팀리그](https://ko.wikipedia.org/wiki/LG_IBM_MBC게임_팀리그).
 
 
 |  |

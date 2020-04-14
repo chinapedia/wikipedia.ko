@@ -1,11 +1,11 @@
-> This article is converted from Wikipedia: [LG](https://ko.wikipedia.org/wiki/LG).
+> This article is converted from Wikipedia: [LG트윈타워](https://ko.wikipedia.org/wiki/LG트윈타워).
 
 
 **LG트윈타워**()는 [대한민국](../Page/대한민국.md "wikilink") [서울특별시](../Page/서울특별시.md "wikilink") [영등포구](../Page/영등포구.md "wikilink") 여의대로 128([여의도동](https://ko.wikipedia.org/wiki/여의도동 "wikilink"))에 있으며, [LG그룹](../Page/LG그룹.md "wikilink")의 본사로 사용되는 건물이다. 지상 34층, 높이 143.87m의 쌍둥이 빌딩이다. 구분은 동관과 서관으로 나뉜다.
 
 ## 역사
 
-여의도에 신사옥 건립 추진이 있었다. [1978년](../Page/1978년.md "wikilink") [3월](../Page/3월.md "wikilink")에 지상 54층 규모의 싱글 타워의 개발 계획이 있었고 [1978년](../Page/1978년.md "wikilink") [6월](../Page/6월.md "wikilink")에 부지 매입이 완료되었다. 고도제한 및 국내외 정세 불안으로 인해 [1979년](../Page/1979년.md "wikilink") [4월](../Page/4월.md "wikilink") 규모 20층 트윈타워로 변경되고 [1981년](../Page/1981년.md "wikilink") [4월](../Page/4월.md "wikilink")에 지상 34층의 쌍둥이 빌딩 계획이 최종 확정이 되었다. [1983년](../Page/1983년.md "wikilink") [4월](../Page/4월.md "wikilink") 본공사에 착수함으로써 연인원 103만 명이 투입되어 [1983년](../Page/1983년.md "wikilink") [6월](../Page/6월.md "wikilink")에 착공하여 [1987년](../Page/1987년.md "wikilink") 준공 당시 명칭은 럭키금성트윈타워였다.
+여의도에 신사옥 건립 추진이 있었다. [1978년](../Page/1978년.md "wikilink") [3월](../Page/3월.md "wikilink")에 지상 54층 규모의 싱글 타워의 개발 계획이 있었고 [1978년](../Page/1978년.md "wikilink") [6월](../Page/6월.md "wikilink")에 부지 매입이 완료되었다. 고도제한 및 국내외 정세 불안으로 인해 [1979년](../Page/1979년.md "wikilink") [4월](../Page/4월.md "wikilink") 규모 20층 트윈타워로 변경되고 [1981년](../Page/1981년.md "wikilink") [4월](../Page/4월.md "wikilink")에 지상 34층의 쌍둥이 빌딩 계획이 최종 확정이 되었다. [1983년](../Page/1983년.md "wikilink") [4월](../Page/4월.md "wikilink") 본공사에 착수함으로써 연인원 103만 명이 투입되어 [1983년](../Page/1983년.md "wikilink") [6월](../Page/6월.md "wikilink")에 착공하여 [1987년](../Page/1987년.md "wikilink") 준공 당시 명칭은 **럭키금성트윈타워**였다.
 
 [1995년](../Page/1995년.md "wikilink") 럭키금성트윈타워에서 LG트윈타워로 명칭을 변경했고 14여년이 지난 트윈타워의 노후설비 교체와 업무환경 고도화를 위해 [2009년 9월부터](../Page/2009년_9월.md "wikilink") 리모델링 공사를 진행해왔다.\[1\] 리모델링은 [2010년 10월에서](../Page/2010년_10월.md "wikilink") [2011년 11월까지](../Page/2011년_11월.md "wikilink") 완료되었고 LG전자 서관은 [2011년 4월](../Page/2011년_4월.md "wikilink") 공사가 마무리되어 [LG전자](../Page/LG전자.md "wikilink")의 입주가 시작되었다.
 

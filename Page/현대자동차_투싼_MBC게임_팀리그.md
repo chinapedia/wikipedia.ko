@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  MBC ](https://ko.wikipedia.org/wiki/__MBC_).
+> This article is converted from Wikipedia: [현대자동차 투싼 MBC게임 팀리그](https://ko.wikipedia.org/wiki/현대자동차_투싼_MBC게임_팀리그).
 
 
 |  |

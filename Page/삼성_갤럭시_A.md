@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  A](https://ko.wikipedia.org/wiki/__A).
+> This article is converted from Wikipedia: [삼성 갤럭시 A](https://ko.wikipedia.org/wiki/삼성_갤럭시_A).
 
 
 **삼성 애니콜 갤럭시 A**()는 [삼성전자](https://ko.wikipedia.org/wiki/삼성전자 "wikilink")가 [2010년](../Page/2010년.md "wikilink") [4월 27일에](../Page/4월_27일.md "wikilink") 출시한 [안드로이드](../Page/안드로이드_\(운영_체제\).md "wikilink") 운영체제를 탑재한 [스마트폰](../Page/스마트폰.md "wikilink")이다.\[1\] [TI](../Page/텍사스_인스트루먼트.md "wikilink") [OMAP](../Page/OMAP.md "wikilink")3440 칩셋과 384 [MB](../Page/메가바이트.md "wikilink") [RAM](../Page/랜덤_액세스_메모리.md "wikilink"), 1 [GB의](https://ko.wikipedia.org/wiki/기가바이트 "wikilink") 내장메모리, 500만 화소의 카메라를 장착하고 8 GB의 [마이크로SDHC](https://ko.wikipedia.org/wiki/마이크로SDHC "wikilink") 카드를 기본 제공한다. [대한민국](../Page/대한민국.md "wikilink")에서 [SK텔레콤](../Page/SK텔레콤.md "wikilink")을 통하여 출시하였으며, 출시 당시에는 이클레어를 탑재하였으며, 이후 [프로요](https://ko.wikipedia.org/wiki/안드로이드_버전_역사#안드로이드_2.2_프로요 "wikilink"), [진저브레드](https://ko.wikipedia.org/wiki/안드로이드_진저브레드 "wikilink") 업그레이드를 포함하여 사용자들에게 2번의 펌웨어 업데이트를 제공하였다.

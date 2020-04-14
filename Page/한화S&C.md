@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [S\&C](https://ko.wikipedia.org/wiki/S\&C).
+> This article is converted from Wikipedia: [한화S\&C](https://ko.wikipedia.org/wiki/한화S\&C).
 
 
 **한화S\&C**(Hanwha S\&C)는 한화그룹 계열의 IT 서비스 전문기업이다. 2017년 10월 1일 [H솔루션](../Page/H솔루션.md "wikilink")으로부터 분사하였다. 이후 사업 확대를 추진하여 IT컨설팅, IT아웃소싱, SI(System Integration), NI(Network Integration)등 차별화된 서비스를 제공하고 있다.

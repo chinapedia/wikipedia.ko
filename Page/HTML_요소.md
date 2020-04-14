@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [HTML ](https://ko.wikipedia.org/wiki/HTML_).
+> This article is converted from Wikipedia: [HTML 요소](https://ko.wikipedia.org/wiki/HTML_요소).
 
 
 **HTML 요소**(HTML 엘리먼트, HTML element)는 [HTML](../Page/HTML.md "wikilink") 문서나 [웹 페이지를](../Page/웹_페이지.md "wikilink") 이루는 개별적인 요소를 의미하며, [문서 객체 모델](../Page/문서_객체_모델.md "wikilink")(DOM)으로 파싱된다. HTML은 [트리나](https://ko.wikipedia.org/wiki/트리_구조 "wikilink") HTML [노드](https://ko.wikipedia.org/wiki/노드 "wikilink")(텍스트 노드 등)로 구성된다. 각 노드는 [HTML 속성을](../Page/HTML_속성.md "wikilink") 지정할 수 있다. 노드들은 기타 노드와 텍스트를 포함한 콘텐츠도 소유할 수 있다. 수많은 HTML 노드들은 [시맨틱이나](../Page/의미론.md "wikilink") 의미를 표현한다. 이를테면 `title` 노드는 문서의 제목을 나타낸다.
