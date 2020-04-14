@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ \(Happiness\)](https://ko.wikipedia.org/wiki/_\(Happiness\)).
+> This article is converted from Wikipedia: [행복 \(Happiness\)](https://ko.wikipedia.org/wiki/행복_\(Happiness\)).
 
 
 〈**행복 (Happiness)**〉은 대한민국의 음악 그룹 [레드벨벳의](../Page/레드벨벳_\(음악_그룹\).md "wikilink") 노래이다. 레드벨벳의 데뷔 싱글이기도 하며, 2014년 8월 4일 [KT 뮤직을](https://ko.wikipedia.org/wiki/KT_뮤직 "wikilink") 통해 발매되었다.

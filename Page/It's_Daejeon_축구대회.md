@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [It\'s Daejeon ](https://ko.wikipedia.org/wiki/It\'s_Daejeon_).
+> This article is converted from Wikipedia: [It\'s Daejeon 축구대회](https://ko.wikipedia.org/wiki/It\'s_Daejeon_축구대회).
 
 
 [대전 시티즌은](https://ko.wikipedia.org/wiki/대전_시티즌 "wikilink") 2007년 [브라질 세리에 A의](https://ko.wikipedia.org/wiki/캄페오나투_브라질레이루_세리이_A "wikilink") [SC 인테르나시오나우를](../Page/SC_인테르나시오나우.md "wikilink") 초청하여 [대전월드컵경기장](../Page/대전월드컵경기장.md "wikilink")에서 친선경기를 개최한 것을 시작으로 매년 [중도일보](https://ko.wikipedia.org/wiki/중도일보 "wikilink") 주체 하에 외국의 축구팀과 [대전월드컵경기장](../Page/대전월드컵경기장.md "wikilink")에서 평가전을 가지고 있다. 이 문서는 그 동안 가진 친선경기에 관한 기록이다.

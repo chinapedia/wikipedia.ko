@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ Z  ](https://ko.wikipedia.org/wiki/_Z__).
+> This article is converted from Wikipedia: [바비 Z의 삶과 죽음](https://ko.wikipedia.org/wiki/바비_Z의_삶과_죽음).
 
 
 《**바비 Z의 삶과 죽음**》()은 [2007년](../Page/2007년.md "wikilink") 공개된 영화이다.

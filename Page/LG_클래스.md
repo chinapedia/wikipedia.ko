@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [LG ](https://ko.wikipedia.org/wiki/LG_).
+> This article is converted from Wikipedia: [LG 클래스](https://ko.wikipedia.org/wiki/LG_클래스).
 
 
 *' LG 클래스*'(LG CLASS)는 [LG전자](../Page/LG전자.md "wikilink")가 [2015년](../Page/2015년.md "wikilink") [9월 22일에](../Page/9월_22일.md "wikilink") 출시한 중저가 [스마트폰](../Page/스마트폰.md "wikilink")이다.\[1\] [LG전자](../Page/LG전자.md "wikilink") [스마트폰](../Page/스마트폰.md "wikilink") 최초로 풀메탈을 적용한 것이 특징이며, 전체적인 사양은 [LG 밴드플레이와](../Page/LG_밴드플레이.md "wikilink") 비슷하다. 보급형 치고 판매 실적이 꽤 좋았는데 출시 초기에는 주간 스마트폰 판매 순위 TOP 10 진입에 성공했다.\[2\] [대한민국](../Page/대한민국.md "wikilink")을 제외한 해외 출시 국가에는 제로라는 이름으로 출시되었다. 홍보는 [대한민국](../Page/대한민국.md "wikilink")의 걸그룹 [걸스데이](../Page/걸스데이.md "wikilink")가 맡았다.

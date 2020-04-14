@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KJ](https://ko.wikipedia.org/wiki/KJ).
+> This article is converted from Wikipedia: [KJ프리텍](https://ko.wikipedia.org/wiki/KJ프리텍).
 
 
 **KJ프리텍**은 [홍콩](../Page/홍콩.md "wikilink"), [옌타이](https://ko.wikipedia.org/wiki/옌타이 "wikilink"), [후이저우](https://ko.wikipedia.org/wiki/후이저우 "wikilink")의 생산공장을 이용한 중소형BLU 제조사업, 초정밀 플라스틱 성형제품을 생산하는 금형사업이다. KJ프리텍의 주력 제품은 소형 모바일용 TFT-LCD 패널의 광원인 백라이트유닛(BLU)으로 휴대폰과 태블릿 등에 사용된다.

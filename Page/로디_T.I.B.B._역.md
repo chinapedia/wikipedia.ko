@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ T.I.B.B. ](https://ko.wikipedia.org/wiki/_T.I.B.B._).
+> This article is converted from Wikipedia: [로디 T.I.B.B. 역](https://ko.wikipedia.org/wiki/로디_T.I.B.B._역).
 
 
 **로디 T.I.B.B. 역** (Lodi T.I.B.B., 또는 **로디 테이베베 역**)은 [밀라노 지하철](../Page/밀라노_지하철.md "wikilink") [3호선의](../Page/밀라노_지하철_3호선.md "wikilink") 역이다. [로디](https://ko.wikipedia.org/wiki/로디_\(롬바르디아주\) "wikilink") 광장에 위치해 있으며 그 이름은 로디 광장과 몇년간 지하철 열차를 제작한 회사인 [테크노마기아 이탈리아노 브라운 보베리](https://ko.wikipedia.org/wiki/테크노마시오 "wikilink") (줄여서 T.I.B.B.)에서 따왔다.\[1\] [1991년](../Page/1991년.md "wikilink") [5월 12일에](../Page/5월_12일.md "wikilink") 문을 열었다.

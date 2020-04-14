@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Chu!](https://ko.wikipedia.org/wiki/Chu!).
+> This article is converted from Wikipedia: [덴덴무Chu!](https://ko.wikipedia.org/wiki/덴덴무Chu!).
 
 
 **덴덴무Chu\!**()는 일본의 아이돌 그룹 [AKB48](../Page/AKB48.md "wikilink"), [HKT48](../Page/HKT48.md "wikilink") 그룹의 멤버가 결성한 6인조 [아이돌](https://ko.wikipedia.org/wiki/아이돌 "wikilink") 그룹이다.

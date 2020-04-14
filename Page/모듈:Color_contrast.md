@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Color contrast](https://ko.wikipedia.org/wiki/:Color_contrast).
+> This article is converted from Wikipedia: [모듈:Color contrast](https://ko.wikipedia.org/wiki/모듈:Color_contrast).
 
 
 \-- -- This module implements --  --  --  --  -- local p = {} local HTMLcolor = mw.loadData( 'Module:Color contrast/colors' )

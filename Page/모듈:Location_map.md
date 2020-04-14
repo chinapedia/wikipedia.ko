@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Location map](https://ko.wikipedia.org/wiki/:Location_map).
+> This article is converted from Wikipedia: [모듈:Location map](https://ko.wikipedia.org/wiki/모듈:Location_map).
 
 
 require('모듈:No globals')

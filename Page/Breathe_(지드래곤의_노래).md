@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Breathe \( \)](https://ko.wikipedia.org/wiki/Breathe_\(_\)).
+> This article is converted from Wikipedia: [Breathe \(지드래곤의 노래\)](https://ko.wikipedia.org/wiki/Breathe_\(지드래곤의_노래\)).
 
 
 ***Breathe***()은 대한민국의 음악 그룹 [빅뱅의](../Page/빅뱅_\(음악_그룹\).md "wikilink") [G-Dragon의](../Page/지드래곤.md "wikilink") 노래이다. 이 노래는 2009년 8월 18일에 발매 된 그의 데뷔 솔로 음반 *[Heartbreaker](https://ko.wikipedia.org/wiki/Heartbreaker_\(지드래곤의_음반\) "wikilink")*에 수록 되어 있다.

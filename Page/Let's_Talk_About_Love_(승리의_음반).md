@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Let\'s Talk About Love \( \)](https://ko.wikipedia.org/wiki/Let\'s_Talk_About_Love_\(_\)).
+> This article is converted from Wikipedia: [Let\'s Talk About Love \(승리의 음반\)](https://ko.wikipedia.org/wiki/Let\'s_Talk_About_Love_\(승리의_음반\)).
 
 
 ***Let's Talk About Love***는 [대한민국](../Page/대한민국.md "wikilink")의 음악 그룹 [빅뱅의](../Page/빅뱅_\(음악_그룹\).md "wikilink") [승리의](../Page/승리_\(가수\).md "wikilink") [일본](../Page/일본.md "wikilink")에서 발매 한 첫 번째 솔로 정규 음반이다. 이 음반은 2013년 10월 9일에 발매 되었으며, 이전의 한국에서 발매 된 동명의 음반 [Let's Talk about Love의](https://ko.wikipedia.org/wiki/Let's_Talk_about_Love_\(EP\) "wikilink") 곡들과 히트 곡 외에도 [V.V.I.P](../Page/V.V.I.P.md "wikilink")의 곡들이 [일본어](../Page/일본어.md "wikilink")로 수록 되었다.

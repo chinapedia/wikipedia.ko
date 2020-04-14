@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [LG   ](https://ko.wikipedia.org/wiki/LG___).
+> This article is converted from Wikipedia: [LG 와인 스마트 재즈](https://ko.wikipedia.org/wiki/LG_와인_스마트_재즈).
 
 
 **LG 와인 스마트 재즈**는 LG전자가 [2015년](../Page/2015년.md "wikilink") [9월 22일에](../Page/9월_22일.md "wikilink") 출시한 폴더형 [스마트폰](../Page/스마트폰.md "wikilink")이다.\[1\] 전체적인 사양과 디자인은 LG전자가 군사용 통신지원기기로 제작하였다가 LG U+ 전용모델로 출시했던 LG[젠틀과](../Page/LG_젠틀.md "wikilink") 모든 스펙이 동일하며, 색상만 변경하여 SKT와 KT공용모델로 출시한 모델이다. 전작인 LG [와인 스마트에](../Page/LG_와인스마트.md "wikilink") 비해 성능이 다운그레이드 되었다.

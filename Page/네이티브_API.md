@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ API](https://ko.wikipedia.org/wiki/_API).
+> This article is converted from Wikipedia: [네이티브 API](https://ko.wikipedia.org/wiki/네이티브_API).
 
 
 **네이티브 API**()는 [윈도우 NT와](../Page/윈도우_NT.md "wikilink") 사용자 모드의 응용 프로그램에서 사용되는 [API](../Page/API.md "wikilink")이다. 다른 윈도우 구성 요소들이 사용되기 힘들 때 사용되며, 주로 시스템 부팅 시나 kernel32.dll 같은 [윈도 API를](https://ko.wikipedia.org/wiki/윈도_API "wikilink") 구현하는 용도로 쓰인다. ntdll.dll의 [엔트리 포인트는](../Page/엔트리_포인트.md "wikilink") **LdrInitializeThunk**이다. 대부분의 네이티브 API의 호출은 [ntoskrnl.exe](https://ko.wikipedia.org/wiki/ntoskrnl.exe "wikilink")에서 구현되며, ntdll.dll에 의해서 [사용자 모드로](https://ko.wikipedia.org/wiki/사용자_모드 "wikilink") 노출된다. 어떤 경우에는 사용자 모드에서 ntdll.dll 내부의 네이티브 API가 직접 호출되기도 한다.

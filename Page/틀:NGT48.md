@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:NGT48](https://ko.wikipedia.org/wiki/:NGT48).
+> This article is converted from Wikipedia: [틀:NGT48](https://ko.wikipedia.org/wiki/틀:NGT48).
 
 
 <onlyinclude> }}</onlyinclude>

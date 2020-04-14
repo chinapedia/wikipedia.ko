@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:IKON](https://ko.wikipedia.org/wiki/:IKON).
+> This article is converted from Wikipedia: [틀:IKON](https://ko.wikipedia.org/wiki/틀:IKON).
 
 
 <onlyinclude> </onlyinclude>

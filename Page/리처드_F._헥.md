@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ F. ](https://ko.wikipedia.org/wiki/_F._).
+> This article is converted from Wikipedia: [리처드 F. 헥](https://ko.wikipedia.org/wiki/리처드_F._헥).
 
 
 **리처드 프레더릭 헥**(, [1931년](../Page/1931년.md "wikilink") [8월 15일](../Page/8월_15일.md "wikilink") \~ [2015년](../Page/2015년.md "wikilink") [10월 10일](../Page/10월_10일.md "wikilink"))은 [미국](../Page/미국.md "wikilink")의 [화학](../Page/화학.md "wikilink")자이다. 2010년에 [팔라듐](../Page/팔라듐.md "wikilink")의 [촉매](../Page/촉매.md "wikilink") 반응을 개발한 공로로 [네기시 에이이치](../Page/네기시_에이이치.md "wikilink"), [스즈키 아키라와](../Page/스즈키_아키라_\(화학자\).md "wikilink") 함께 [노벨 화학상을](https://ko.wikipedia.org/wiki/노벨_화학상 "wikilink") 수상했다.\[1\]

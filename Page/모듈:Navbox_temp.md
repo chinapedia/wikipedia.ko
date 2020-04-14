@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Navbox temp](https://ko.wikipedia.org/wiki/:Navbox_temp).
+> This article is converted from Wikipedia: [모듈:Navbox temp](https://ko.wikipedia.org/wiki/모듈:Navbox_temp).
 
 
 \-- --  구현을 위한 모듈입니다. --

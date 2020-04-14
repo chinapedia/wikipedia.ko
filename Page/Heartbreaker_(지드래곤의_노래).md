@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Heartbreaker \( \)](https://ko.wikipedia.org/wiki/Heartbreaker_\(_\)).
+> This article is converted from Wikipedia: [Heartbreaker \(지드래곤의 노래\)](https://ko.wikipedia.org/wiki/Heartbreaker_\(지드래곤의_노래\)).
 
 
 ***Heartbreaker***()은 대한민국의 음악 그룹 [빅뱅의](../Page/빅뱅_\(음악_그룹\).md "wikilink") [G-Dragon의](../Page/지드래곤.md "wikilink") 노래이다. 이 노래는 2009년 8월 18일에 발매 된 그의 데뷔 솔로 음반 *[Heartbreaker](https://ko.wikipedia.org/wiki/Heartbreaker_\(지드래곤의_음반\) "wikilink")*의 타이틀 곡이다. 이 노래는 발매와 동시에 한국의 각종 유명 음원 사이트의 1위를 차지했으며,\[1\] 2009년 한해 동안 디지털 다운로드 300만 이상의 메가 히트를 기록했다.\[2\]\[3\] 그의 데뷔 솔로 음반은 2009년 가장 많은 판매량을 기록했다. 미국의 래퍼 [플로 라이다가](../Page/플로_라이다.md "wikilink") 참여한 공싯 식 리믹스 버전은 2011년까지 무제한으로 공개되어, 4,407,355 다운로드를 기록했다.

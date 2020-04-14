@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [AKB   ](https://ko.wikipedia.org/wiki/AKB___).
+> This article is converted from Wikipedia: [AKB 호러나이트 아드레날린의 밤](https://ko.wikipedia.org/wiki/AKB_호러나이트_아드레날린의_밤).
 
 
 《**AKB 호러나이트 아드레날리의 밤**》()는 [2015년](../Page/2015년.md "wikilink") [10월 8일부터](../Page/10월_8일.md "wikilink")[2016년](../Page/2016년.md "wikilink") [3월 17일까지](../Page/3월_17일.md "wikilink") 매주 목요일 1시 41분에 1시 56분(수요일 심야)까지 [TV 아사히에서](../Page/TV_아사히.md "wikilink") 방송된 [드라마이다](https://ko.wikipedia.org/wiki/일본의_드라마 "wikilink").

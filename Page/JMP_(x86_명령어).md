@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [JMP \(x86 \)](https://ko.wikipedia.org/wiki/JMP_\(x86_\)).
+> This article is converted from Wikipedia: [JMP \(x86 명령어\)](https://ko.wikipedia.org/wiki/JMP_\(x86_명령어\)).
 
 
 x86 [어셈블리어](../Page/어셈블리어.md "wikilink")에서, **`JMP`** [명령어는](../Page/명령어_집합.md "wikilink") 무조건 점프를 수행한다. 예를 들면 [프로그램 카운터의](../Page/프로그램_카운터.md "wikilink") 변경을 통해 실행 흐름을 이동할 수 있다. 점프를 수행하는 여러 종류의 [명령 코드가](../Page/명령_코드.md "wikilink") 있는데, 중앙 처리 장치가 [리얼 모드인지](../Page/리얼_모드.md "wikilink") 또는 [보호 모드인지에](../Page/보호_모드.md "wikilink") 의존한다. 명령어들은 [16비트](../Page/16비트.md "wikilink"), [32비트](../Page/32비트.md "wikilink") 또는 세그먼트:오프셋 [포인터를](../Page/포인터_\(프로그래밍\).md "wikilink") 가진다.\[1\]

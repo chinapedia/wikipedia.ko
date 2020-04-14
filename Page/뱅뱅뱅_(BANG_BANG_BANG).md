@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ \(BANG BANG BANG\)](https://ko.wikipedia.org/wiki/_\(BANG_BANG_BANG\)).
+> This article is converted from Wikipedia: [뱅뱅뱅 \(BANG BANG BANG\)](https://ko.wikipedia.org/wiki/뱅뱅뱅_\(BANG_BANG_BANG\)).
 
 
 〈**뱅뱅뱅 (BANG BANG BANG)**〉은 [대한민국](../Page/대한민국.md "wikilink")의 음악 그룹 [빅뱅의](../Page/빅뱅_\(음악_그룹\).md "wikilink") 노래이다. 2015년 6월 1일 [YG 엔터테인먼트를](../Page/YG_엔터테인먼트.md "wikilink") 통해 [디지털 음원으로](https://ko.wikipedia.org/wiki/음악_다운로드 "wikilink") 발매 되었다. 《[MADE](../Page/MADE_\(빅뱅의_음반\).md "wikilink")》 시리즈의 [A의](https://ko.wikipedia.org/wiki/A_\(빅뱅의_싱글\) "wikilink") 첫 번째 노래이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [IDA ](https://ko.wikipedia.org/wiki/IDA_).
+> This article is converted from Wikipedia: [IDA 프로](https://ko.wikipedia.org/wiki/IDA_프로).
 
 
 **IDA**(Interactive DisAssembler)는 컴퓨터 소프트웨어 용 [디스어셈블러](https://ko.wikipedia.org/wiki/디스어셈블러 "wikilink")이다. 디스어셈블러는 기계어 코드로부터 [어셈블리어](../Page/어셈블리어.md "wikilink") [소스 코드를](../Page/소스_코드.md "wikilink") 생성한다. 이것은 다양한 [실행 파일과](../Page/실행_파일.md "wikilink") [중앙 처리 장치](../Page/중앙_처리_장치.md "wikilink") 그리고 [운영 체제를](../Page/운영_체제.md "wikilink") 지원한다. 또한 Windows PE, [Mac OS X](https://ko.wikipedia.org/wiki/OS_X "wikilink") Mach-O, 그리고 [리눅스](../Page/리눅스.md "wikilink") ELF 실행 파일에 대해서는 [디버거](../Page/디버거.md "wikilink")로 사용할 수 있다. [C](../Page/C_\(프로그래밍_언어\).md "wikilink")/<span class="nowrap">[C++](https://ko.wikipedia.org/wiki/C++ "wikilink")</span><span class="nowrap"></span> [컴파일러](../Page/컴파일러.md "wikilink")로 컴파일된 프로그램은 [디컴파일러](https://ko.wikipedia.org/wiki/디컴파일러 "wikilink") 플러그인은 추가 요금을 통해 사용할 수 있다. 최신 버전의 IDA Pro는 상업용이지만, 기능이 조금 부족한 옛날 버전은 무료로 다운로드할 수 있다(2015년 12월의 경우 버전 5.0).

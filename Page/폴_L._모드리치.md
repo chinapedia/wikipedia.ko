@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ L. ](https://ko.wikipedia.org/wiki/_L._).
+> This article is converted from Wikipedia: [폴 L. 모드리치](https://ko.wikipedia.org/wiki/폴_L._모드리치).
 
 
 **폴 로런스 모드리치**(, 1946년 6월 13일 \~ )는 미국의 생화학자이다. 2015년 [노벨 화학상을](https://ko.wikipedia.org/wiki/노벨_화학상 "wikilink") 수상하였다.

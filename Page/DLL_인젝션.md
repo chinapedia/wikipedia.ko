@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [DLL ](https://ko.wikipedia.org/wiki/DLL_).
+> This article is converted from Wikipedia: [DLL 인젝션](https://ko.wikipedia.org/wiki/DLL_인젝션).
 
 
 [컴퓨터 프로그래밍에서](../Page/컴퓨터_프로그래밍.md "wikilink"), **DLL 인젝션**(DLL injection)은 다른 프로세스의 주소 공간 내에서 DLL을 강제로 로드시킴으로써 코드를 실행시키는 기술이다.\[1\] DLL 인젝션은 외부 프로그램을 통해 다른 프로그램에 저작자가 의도하거나 예상하지 않은 영향을 미치기 위해 사용된다.\[2\]\[3\]\[4\] 예를 들면 삽입된 코드는 시스템 함수 호출을 [후킹](../Page/후킹.md "wikilink") 하거나\[5\]\[6\] 또는 보통 방식으로는 읽을 수 없는 [패스워드](https://ko.wikipedia.org/wiki/암호 "wikilink") 텍스트 박스의 내용을 읽을 수 있다.\[7\] 임의적인 코드를 삽입하는데 사용되는 프로그램을 **DLL injector**라고 부른다.

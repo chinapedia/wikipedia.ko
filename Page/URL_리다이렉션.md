@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [URL ](https://ko.wikipedia.org/wiki/URL_).
+> This article is converted from Wikipedia: [URL 리다이렉션](https://ko.wikipedia.org/wiki/URL_리다이렉션).
 
 
 **URL 리다이렉션**(← URL 넘겨주기)은 이용 가능한 [웹 페이지를](../Page/웹_페이지.md "wikilink") 하나 이상의 [URL](../Page/URL.md "wikilink") 주소로 만들어주는 [월드 와이드 웹](../Page/월드_와이드_웹.md "wikilink") 기법이다. **URL 포워딩**(URL forwarding)이라고도 한다. 넘겨받은 URL을 [웹 브라우저가](../Page/웹_브라우저.md "wikilink") 열려고 하면 다른 URL의 문서가 열리게 된다.

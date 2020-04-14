@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [2015 BTS LIVE:  ON STAGE](https://ko.wikipedia.org/wiki/2015_BTS_LIVE:__ON_STAGE).
+> This article is converted from Wikipedia: [2015 BTS LIVE: 화양연화 ON STAGE](https://ko.wikipedia.org/wiki/2015_BTS_LIVE:_화양연화_ON_STAGE).
 
 
 《**2015 BTS LIVE: 화양연화 ON STAGE**》는 한국의 음악 그룹 [방탄소년단](../Page/방탄소년단.md "wikilink")의 단독 [콘서트 투어로](https://ko.wikipedia.org/wiki/콘서트_투어 "wikilink"), 총 8회에 걸친 공연을 펼칠 예정이었으나, 멤버들의 건강 문제로 인해 일본 고베에서의 공연을 취소했다가 다음 해 3월에 재개해 총 8회에 걸친 공연을 펼치고 투어를 마무리하였다.

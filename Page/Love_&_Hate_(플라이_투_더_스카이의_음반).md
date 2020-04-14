@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Love \& Hate \(    \)](https://ko.wikipedia.org/wiki/Love_\&_Hate_\(____\)).
+> This article is converted from Wikipedia: [Love \& Hate \(플라이 투 더 스카이의 음반\)](https://ko.wikipedia.org/wiki/Love_\&_Hate_\(플라이_투_더_스카이의_음반\)).
 
 
 《**Love & Hate**》은 [플라이 투 더 스카이의](../Page/플라이_투_더_스카이.md "wikilink") [미니 음반](https://ko.wikipedia.org/wiki/미니_음반 "wikilink") 1집이다.

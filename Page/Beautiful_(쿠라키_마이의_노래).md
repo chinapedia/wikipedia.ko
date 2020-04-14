@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Beautiful \(  \)](https://ko.wikipedia.org/wiki/Beautiful_\(__\)).
+> This article is converted from Wikipedia: [Beautiful \(쿠라키 마이의 노래\)](https://ko.wikipedia.org/wiki/Beautiful_\(쿠라키_마이의_노래\)).
 
 
 {{싱글 정보 | 곡명 = Beautiful | 음악가 = [쿠라키 마이](../Page/쿠라키_마이.md "wikilink") | 음반 = [FUTURE KISS](../Page/FUTURE_KISS.md "wikilink") | A 사이드 = | B 사이드 = wana | 발매일 = [2009년](../Page/2009년.md "wikilink") [6월 10일](../Page/6월_10일.md "wikilink") | 포맷 = 맥시 싱글 | 녹음 = | 장르 = [J-POP](https://ko.wikipedia.org/wiki/J-POP "wikilink") | 길이 = 4분 31초 | 레이블 = [노던 뮤직](https://ko.wikipedia.org/wiki/노던_뮤직 "wikilink") | 프로듀서 = 쿠라키 마이

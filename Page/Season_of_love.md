@@ -15,7 +15,7 @@
       - 작사: 쿠라키 마이, 작곡: 오노 아이카, 편곡: Cybersound
 2.  **Season of love (Latin lover remix)** (5:20)
       - 리믹스: [페리 게이어](https://ko.wikipedia.org/wiki/페리_게이어 "wikilink"), [미구엘 사 페소아](https://ko.wikipedia.org/wiki/미구엘_사_페소아 "wikilink")
-3.  **[하얀 눈](https://ko.wikipedia.org/wiki/시로이유키 "wikilink") (오르골 버전)** () (5:27)
+3.  **[하얀 눈](https://ko.wikipedia.org/wiki/시로이유키 "wikilink") (오르골 버전)**() (5:27)
       - 편곡: 이케다 다이스케
     <!-- end list -->
       -

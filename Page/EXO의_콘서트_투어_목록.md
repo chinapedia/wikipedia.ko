@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [EXO   ](https://ko.wikipedia.org/wiki/EXO___).
+> This article is converted from Wikipedia: [EXO의 콘서트 투어 목록](https://ko.wikipedia.org/wiki/EXO의_콘서트_투어_목록).
 
 
 다음은 [대한민국](../Page/대한민국.md "wikilink") [남성](https://ko.wikipedia.org/wiki/남성 "wikilink") 아이돌 그룹 **[EXO](../Page/EXO.md "wikilink")의 콘서트 목록**이다.

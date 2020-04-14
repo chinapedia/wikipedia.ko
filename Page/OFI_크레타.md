@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [OFI ](https://ko.wikipedia.org/wiki/OFI_).
+> This article is converted from Wikipedia: [OFI 크레타](https://ko.wikipedia.org/wiki/OFI_크레타).
 
 
 **OFI**()는 [그리스](../Page/그리스.md "wikilink") [크레타](../Page/크레타.md "wikilink") 섬의 [이라클리오](../Page/이라클리오.md "wikilink")를 연고지로 한 축구 클럽이다.

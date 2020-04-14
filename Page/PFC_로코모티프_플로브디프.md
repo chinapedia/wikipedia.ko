@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [PFC  ](https://ko.wikipedia.org/wiki/PFC__).
+> This article is converted from Wikipedia: [PFC 로코모티프 플로브디프](https://ko.wikipedia.org/wiki/PFC_로코모티프_플로브디프).
 
 
 **PFC 로코모티프 플로브디프**()는 [불가리아](../Page/불가리아.md "wikilink") 제2의 도시 [플로브디프](../Page/플로브디프.md "wikilink")를 연고지로 한 축구 클럽이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Win32   ](https://ko.wikipedia.org/wiki/Win32___).
+> This article is converted from Wikipedia: [Win32 스레드 정보 블록](https://ko.wikipedia.org/wiki/Win32_스레드_정보_블록).
 
 
 **TIB ()** (TIB)은 Win32의 [자료 구조로서](../Page/자료_구조.md "wikilink") 현재 실행 중인 [스레드](https://ko.wikipedia.org/wiki/스레드 "wikilink")에 대한 정보를 저장하고 있다. 이 구조체는 또한 스레드 환경 블록 (TEB: Thread Environment Block)으로도 알려져 있다.\[1\]

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [CP ](https://ko.wikipedia.org/wiki/CP_).
+> This article is converted from Wikipedia: [CP 오스카](https://ko.wikipedia.org/wiki/CP_오스카).
 
 
 **CP 오스카**(), "작전지원소 및 후방 지휘소"()는 "오스카 벙커"로도 알려진 [대구광역시](../Page/대구광역시.md "wikilink") [남구](../Page/남구_\(대구광역시\).md "wikilink") 대명5동에 있는 [캠프 워커](../Page/캠프_워커.md "wikilink") 안에 설치된 [주한 미군의](../Page/주한_미군.md "wikilink") 지휘통제 [벙커](https://ko.wikipedia.org/wiki/벙커 "wikilink")이며, [제8군과](../Page/제8군_\(미국\).md "wikilink") 육군 근무 구성 사령부의 [전시](https://ko.wikipedia.org/wiki/전시 "wikilink") 본부이다.

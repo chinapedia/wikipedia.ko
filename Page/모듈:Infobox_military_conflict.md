@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Infobox military conflict](https://ko.wikipedia.org/wiki/:Infobox_military_conflict).
+> This article is converted from Wikipedia: [모듈:Infobox military conflict](https://ko.wikipedia.org/wiki/모듈:Infobox_military_conflict).
 
 
 require('Module:No globals')

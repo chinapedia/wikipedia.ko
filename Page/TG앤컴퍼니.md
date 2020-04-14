@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TG](https://ko.wikipedia.org/wiki/TG).
+> This article is converted from Wikipedia: [TG앤컴퍼니](https://ko.wikipedia.org/wiki/TG앤컴퍼니).
 
 
 **TG앤컴퍼니**는 대한민국의 기업으로 [삼보컴퓨터](../Page/삼보컴퓨터.md "wikilink") 계열의 휴대전화 및 스마트 디바이스, N 스크린 디바이스 기획, 디자인, 개발, 마케팅, 세일즈 전문 회사이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:FC  ](https://ko.wikipedia.org/wiki/:FC__).
+> This article is converted from Wikipedia: [틀:FC 서울 경기](https://ko.wikipedia.org/wiki/틀:FC_서울_경기).
 
 
 <onlyinclude></onlyinclude>

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [LG ](https://ko.wikipedia.org/wiki/LG_).
+> This article is converted from Wikipedia: [LG 볼트](https://ko.wikipedia.org/wiki/LG_볼트).
 
 
 *' LG 볼트*'(LG Volt)는 [LG전자](../Page/LG전자.md "wikilink")가 [2015년](../Page/2015년.md "wikilink") [4월 17일](../Page/4월_17일.md "wikilink") 출시한 보급형 스마트폰이다.\[1\] [2015년 2월](../Page/2015년_2월.md "wikilink"), [마그나](../Page/LG_마그나.md "wikilink"), [레온](https://ko.wikipedia.org/wiki/LG_레온 "wikilink"), [조이와](https://ko.wikipedia.org/wiki/LG_조이 "wikilink") 함께 공개된 것을 시작으로 [브라질](../Page/브라질.md "wikilink")과 [유럽](../Page/유럽.md "wikilink") 국가에서 먼저 출시되었다. G4와 디자인이 비슷하며 곡면 디스플레이가 특징이다. 해외에서는 스피릿이라는 이름으로 출시되었다.

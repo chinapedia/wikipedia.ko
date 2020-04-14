@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [XOXO \(KISSHUG\)](https://ko.wikipedia.org/wiki/XOXO_\(KISSHUG\)).
+> This article is converted from Wikipedia: [XOXO \(KISS＆HUG\)](https://ko.wikipedia.org/wiki/XOXO_\(KISS＆HUG\)).
 
 
 《**XOXO (KISS＆HUG)**》는 대한민국의 그룹 [EXO](../Page/EXO.md "wikilink")의 첫 번째 정규 앨범으로, [2013년](../Page/2013년.md "wikilink") [6월 3일](../Page/6월_3일.md "wikilink") 발매되었다. 이 앨범은 그룹의 데뷔 앨범인 [MAMA의](../Page/MAMA_\(EP\).md "wikilink") 후속 앨범이다. 앨범은 두 가지 버전으로 출시되었고, 한국의 "키스(Kiss)" 버전과 중국의 "포옹(Hug)" 버전으로 나뉘어 발매되었다.\[1\] 10번 트랙인 MY LADY는 한국어에서는 디오가 부르고 중국어에서는 첸이 부른다. 일반 앨범 2번 트랙과 리패키지 5번 트랙인 Baby, Don't Cry(인어의 눈물)는 한국어 버전에서는 찬열, 디오, 백현과 수호가 노래한다.

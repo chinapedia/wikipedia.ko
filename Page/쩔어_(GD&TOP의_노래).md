@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ \(GD\&TOP \)](https://ko.wikipedia.org/wiki/_\(GD\&TOP_\)).
+> This article is converted from Wikipedia: [쩔어 \(GD\&TOP의 노래\)](https://ko.wikipedia.org/wiki/쩔어_\(GD\&TOP의_노래\)).
 
 
 〈***쩔어***〉()는 [대한민국](../Page/대한민국.md "wikilink")의 음악 그룹 [빅뱅의](../Page/빅뱅_\(음악_그룹\).md "wikilink") 래퍼 [G-DRAGON과](../Page/지드래곤.md "wikilink") [T.O.P](../Page/T.O.P.md "wikilink")으로 구성된 유닛 그룹 [GD\&TOP](../Page/GD&TOP.md "wikilink")의 노래이다. 이 노래는 2015년 8월 5일, [YG 엔터테인먼트를](../Page/YG_엔터테인먼트.md "wikilink") 통해 [디지털 음원으로](https://ko.wikipedia.org/wiki/음악_다운로드 "wikilink") 발매 되었다. *[MADE](../Page/MADE_\(빅뱅의_음반\).md "wikilink")* 시리즈의 [E의](https://ko.wikipedia.org/wiki/E_\(빅뱅의_싱글\) "wikilink") 첫 번째 노래이다.

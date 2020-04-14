@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [F\(x\)    ](https://ko.wikipedia.org/wiki/F\(x\)____).
+> This article is converted from Wikipedia: [F\(x\)의 수상 및 후보 목록](https://ko.wikipedia.org/wiki/F\(x\)의_수상_및_후보_목록).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Group_f\(x\)_performs_to_celebrate_the_40th_anniversary_of_the_KOCIS_-_6557932377.jpg "wikilink")

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ Q ](https://ko.wikipedia.org/wiki/_Q_).
+> This article is converted from Wikipedia: [오바케의 Q 타로](https://ko.wikipedia.org/wiki/오바케의_Q_타로).
 
 
 **오바케의 Q 타로**(는 [후지코 후지오](../Page/후지코_후지오.md "wikilink")([후지코 후지오 A](https://ko.wikipedia.org/wiki/후지코_후지오_A "wikilink"), [후지코 F. 후지오](../Page/후지코_F._후지오.md "wikilink"))와 스튜디오 제로에 의한 [일본](../Page/일본.md "wikilink")의 개그 만화 작품 및 그것을 원작으로 하는 TV · 극장 애니메이션 작품이다.

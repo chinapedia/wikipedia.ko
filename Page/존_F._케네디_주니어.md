@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ F.  ](https://ko.wikipedia.org/wiki/_F.__).
+> This article is converted from Wikipedia: [존 F. 케네디 주니어](https://ko.wikipedia.org/wiki/존_F._케네디_주니어).
 
 
 **존 피츠제럴드 케네디 주니어**(John Fitzgerald Kennedy Jr., [1960년](../Page/1960년.md "wikilink") [11월 25일](../Page/11월_25일.md "wikilink") \~ [1999년](../Page/1999년.md "wikilink") [7월 16일](../Page/7월_16일.md "wikilink")) 또는 약어로 **JFK Jr.**는 [미국](../Page/미국.md "wikilink")의 [변호사](../Page/변호사.md "wikilink"), [저널리스트](https://ko.wikipedia.org/wiki/저널리스트 "wikilink")이다. [존 F. 케네디와](../Page/존_F._케네디.md "wikilink") [재클린 케네디 오나시스](../Page/재클린_케네디_오나시스.md "wikilink") 사이에서 태어났으며, [캐럴라인 케네디의](../Page/캐럴라인_케네디.md "wikilink") 동생이다.

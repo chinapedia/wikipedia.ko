@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ S](https://ko.wikipedia.org/wiki/_S).
+> This article is converted from Wikipedia: [아스트리드 S](https://ko.wikipedia.org/wiki/아스트리드_S).
 
 
 **아스트리드 S**(Astrid S, [1996년](../Page/1996년.md "wikilink") [10월 29일](../Page/10월_29일.md "wikilink") \~ )는 [노르웨이](../Page/노르웨이.md "wikilink")의 [싱어송라이터](https://ko.wikipedia.org/wiki/싱어송라이터 "wikilink")이다. 2013년 [팝 아이돌](https://ko.wikipedia.org/wiki/팝_아이돌 "wikilink") 노르웨이에 나와 5위를 했다.

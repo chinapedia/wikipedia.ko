@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [NO MORE ](https://ko.wikipedia.org/wiki/NO_MORE_).
+> This article is converted from Wikipedia: [NO MORE 영화도둑](https://ko.wikipedia.org/wiki/NO_MORE_영화도둑).
 
 
 **NO MORE 영화도둑**()은, 일본 전국의 [영화관](../Page/영화관.md "wikilink")에서 영화 본편 직전에 상영되는 [CM](../Page/텔레비전_광고.md "wikilink")(매너 무비)이다.

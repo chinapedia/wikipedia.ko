@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ Z:  F](https://ko.wikipedia.org/wiki/_Z:__F).
+> This article is converted from Wikipedia: [드래곤볼 Z: 부활의 F](https://ko.wikipedia.org/wiki/드래곤볼_Z:_부활의_F).
 
 
 《**드래곤볼 Z: 부활의 F**》()는 2015년에 공개된 《[드래곤볼](../Page/드래곤볼.md "wikilink")》 시리즈의 19번째 극장 개봉 애니메이션 영화이다. 《[드래곤볼 Z](../Page/드래곤볼_Z.md "wikilink")》로는 15번째 작품이다.
@@ -40,4 +40,4 @@
 ## 외부 링크
 
   -
-[분류:일본의 애니메이션 영화](https://ko.wikipedia.org/wiki/분류:일본의_애니메이션_영화 "wikilink") [분류:2015년 애니메이션 영화](https://ko.wikipedia.org/wiki/분류:2015년_애니메이션_영화 "wikilink") [분류:일본의 3D 영화](https://ko.wikipedia.org/wiki/분류:일본의_3D_영화 "wikilink") [분류:아이맥스 영화](https://ko.wikipedia.org/wiki/분류:아이맥스_영화 "wikilink") [분류:드래곤볼 영화](https://ko.wikipedia.org/wiki/분류:드래곤볼_영화 "wikilink") [분류:일본의 액션 영화](https://ko.wikipedia.org/wiki/분류:일본의_액션_영화 "wikilink") [분류:20세기 폭스 애니메이션 영화](https://ko.wikipedia.org/wiki/분류:20세기_폭스_애니메이션_영화 "wikilink")
+[분류:일본의 애니메이션 영화](https://ko.wikipedia.org/wiki/분류:일본의_애니메이션_영화 "wikilink") [분류:2015년 애니메이션 영화](https://ko.wikipedia.org/wiki/분류:2015년_애니메이션_영화 "wikilink") [분류:일본의 3D 영화](https://ko.wikipedia.org/wiki/분류:일본의_3D_영화 "wikilink") [분류:아이맥스 영화](https://ko.wikipedia.org/wiki/분류:아이맥스_영화 "wikilink") [분류:드래곤볼 영화](https://ko.wikipedia.org/wiki/분류:드래곤볼_영화 "wikilink") [분류:일본의 액션 영화](https://ko.wikipedia.org/wiki/분류:일본의_액션_영화 "wikilink") [분류:도에이 애니메이션 영화](https://ko.wikipedia.org/wiki/분류:도에이_애니메이션_영화 "wikilink") [분류:20세기 폭스 애니메이션 영화](https://ko.wikipedia.org/wiki/분류:20세기_폭스_애니메이션_영화 "wikilink")

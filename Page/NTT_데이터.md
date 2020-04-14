@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [NTT ](https://ko.wikipedia.org/wiki/NTT_).
+> This article is converted from Wikipedia: [NTT 데이터](https://ko.wikipedia.org/wiki/NTT_데이터).
 
 
 **주식회사 엔티티 데이터**(株式会社エヌ・ティ・ティ・データ)는 일본의 시스템 통합(SI) 기업이자 [일본전신전화](../Page/일본전신전화.md "wikilink")의 자회사이다.

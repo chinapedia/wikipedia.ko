@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Darling \( \)](https://ko.wikipedia.org/wiki/Darling_\(_\)).
+> This article is converted from Wikipedia: [Darling \(걸스데이의 노래\)](https://ko.wikipedia.org/wiki/Darling_\(걸스데이의_노래\)).
 
 
 〈**Darling**〉(달링)은 [걸스데이](../Page/걸스데이.md "wikilink")의 노래이다. [2014년](../Page/2014년.md "wikilink") [6월 14일에](../Page/6월_14일.md "wikilink") [로엔 엔터테인먼트에서](../Page/카카오엠.md "wikilink") 발매한 [Everyday IV의](../Page/Everyday_IV.md "wikilink") 타이틀곡이며, 일본에서 [키스 엔터테인먼트에서](https://ko.wikipedia.org/wiki/키스_엔터테인먼트 "wikilink") [2015년](../Page/2015년.md "wikilink") [9월 30일에](../Page/9월_30일.md "wikilink") 발매된 싱글이다.

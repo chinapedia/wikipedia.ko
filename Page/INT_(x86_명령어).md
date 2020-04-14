@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [INT \(x86 \)](https://ko.wikipedia.org/wiki/INT_\(x86_\)).
+> This article is converted from Wikipedia: [INT \(x86 명령어\)](https://ko.wikipedia.org/wiki/INT_\(x86_명령어\)).
 
 
 **INT**는 [x86](https://ko.wikipedia.org/wiki/x86 "wikilink") [중앙 처리 장치를](../Page/중앙_처리_장치.md "wikilink") 위한 [어셈블리어](../Page/어셈블리어.md "wikilink")로서, [인터럽트](../Page/인터럽트.md "wikilink")를 발생시키는 역할을 한다. 이것은 [바이트](../Page/바이트.md "wikilink") 값으로 구성된 인터럽트 번호를 가진다.\[1\]

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Butterfly \( \)](https://ko.wikipedia.org/wiki/Butterfly_\(_\)).
+> This article is converted from Wikipedia: [Butterfly \(지드래곤의 노래\)](https://ko.wikipedia.org/wiki/Butterfly_\(지드래곤의_노래\)).
 
 
 ***Butterfly***()은 대한민국의 음악 그룹 [빅뱅의](../Page/빅뱅_\(음악_그룹\).md "wikilink") [G-Dragon의](../Page/지드래곤.md "wikilink") 노래이다. 이 노래는 2009년 8월 18일에 발매 된 그의 데뷔 솔로 음반 *[Heartbreaker](https://ko.wikipedia.org/wiki/Heartbreaker_\(지드래곤의_음반\) "wikilink")*에 수록 되어 있다. 그의 이전 노래와는 대조적으로 [업 비트](../Page/전자_음악.md "wikilink"), 느린 템포의 곡으로 [G-Dragon는](../Page/지드래곤.md "wikilink") 자신의 곡을 차분하게 묘사하고 있다.\[1\] 이 노래는 "이국적인 낭만적인 랩 가사와 커플의 사랑을 위한 달콤한 하모니 보컬로 사랑에 빠진 남자의 마음을 솔직하게 담아낸 "로맨틱한" 고백을 말하고 있다.\[2\] 음원 발매와 동시에 각종 음원 차트의 TOP 10안에 진입했다.\[3\]

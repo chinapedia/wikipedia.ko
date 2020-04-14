@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:FA  ](https://ko.wikipedia.org/wiki/:FA__).
+> This article is converted from Wikipedia: [틀:FA 커뮤니티 실드](https://ko.wikipedia.org/wiki/틀:FA_커뮤니티_실드).
 
 
 <onlyinclude></onlyinclude>

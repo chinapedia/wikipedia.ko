@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SCUM ](https://ko.wikipedia.org/wiki/SCUM_).
+> This article is converted from Wikipedia: [SCUM 선언서](https://ko.wikipedia.org/wiki/SCUM_선언서).
 
 
 [thumb](https://ko.wikipedia.org/wiki/파일:SCUM.jpg "wikilink") 《**SCUM 선언서**》()는 [밸러리 솔라나스가](../Page/밸러리_솔라나스.md "wikilink") 1967년 발표한 [급진적 여성주의](../Page/급진적_여성주의.md "wikilink") [선언서이다](../Page/매니페스토.md "wikilink").\[1\]\[2\] 본 작품은 남성이 세상을 망치고 있으며, 그것을 바로잡을 수 있는 것은 여성이라고 주장한다. 그 목적을 달성하기 위하여 선언서는 사회를 전복하고 남성을 제거하는 모임인 SCUM 을 만들자고 제안한다.\[3\]\[4\] 영어로 최소 10번 이상 번각되었으며 13개 언어로 번역되었다. 일각에서는 《SCUM 선언서》가 가부장제에 대한 패러디와 풍자일 뿐이며 정말 남자를 공격하자는 선동은 아니라고 분석한다.\[5\] 그러나 솔라나스 본인은 이 작품이 “놀리는 것(a put on)”이 아니며,\[6\] 자신의 의도는 “정말 진지하다(dead serious)”고 주장했다.\[7\]

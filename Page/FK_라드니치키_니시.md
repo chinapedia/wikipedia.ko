@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FK  ](https://ko.wikipedia.org/wiki/FK__).
+> This article is converted from Wikipedia: [FK 라드니치키 니시](https://ko.wikipedia.org/wiki/FK_라드니치키_니시).
 
 
 **FK 라드니치키 니시**()는 [세르비아](../Page/세르비아.md "wikilink") 제3의 도시 [니시](../Page/니시.md "wikilink")를 연고지로 한 축구 클럽이다.

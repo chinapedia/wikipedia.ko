@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ B. ](https://ko.wikipedia.org/wiki/_B._).
+> This article is converted from Wikipedia: [아서 B. 맥도널드](https://ko.wikipedia.org/wiki/아서_B._맥도널드).
 
 
 **아서 브루스 맥도널드**(, [CC](../Page/캐나다_훈장.md "wikilink") [OOnt](https://ko.wikipedia.org/wiki/:en:Order_of_Ontario "wikilink") [ONS](https://ko.wikipedia.org/wiki/:en:Order_of_Nova_Scotia "wikilink") [FRS](https://ko.wikipedia.org/wiki/왕립학회_회원 "wikilink") [FRSC](https://ko.wikipedia.org/wiki/:en:Fellow_of_the_Royal_Society_of_Canada "wikilink"), [1943년](../Page/1943년.md "wikilink") [8월 29일](../Page/8월_29일.md "wikilink") \~ )는 [캐나다](../Page/캐나다.md "wikilink")의 물리학자이다. 2015년, [중성미자 진동](../Page/중성미자_진동.md "wikilink") 발견에 대한 공로로 [가지타 다카아키와](../Page/가지타_다카아키.md "wikilink") 함께 [노벨 물리학상을](../Page/노벨_물리학상.md "wikilink") 공동 수상했다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [BC ](https://ko.wikipedia.org/wiki/BC_).
+> This article is converted from Wikipedia: [BC급 전범](https://ko.wikipedia.org/wiki/BC급_전범).
 
 
 **BC급 전범**(BC級戦犯)은 [연합국에](https://ko.wikipedia.org/wiki/연합국_\(제2차_세계_대전\) "wikilink") 의해 선포된 국제 군사재판소 조례 및 극동 국제 군사재판 조례의 전쟁 범죄 유형B 항 ‘보통의 전쟁 범죄’ 또는 C항 ‘반인륜 범죄’에 해당하는 전쟁 범죄 또는 전쟁 범죄가 되는 죄목을 추궁 받은 개인의 총칭이다. 일본의 BC급 전범은 [연합군 최고사령부](../Page/연합군_최고사령부.md "wikilink")(GHQ)에 의해 [요코하마](https://ko.wikipedia.org/wiki/요코하마 "wikilink")와 [마닐라](../Page/마닐라.md "wikilink") 등 세계 49곳의 [군사 법정에서](https://ko.wikipedia.org/wiki/군사_법정 "wikilink") 심판을 받았다. 이후 감형된 사람도 포함하여 약 1,000명이 사형 판결을 받은 것으로 알려졌다. 또한 [극동 국제 군사 재판](https://ko.wikipedia.org/wiki/극동_국제_군사_재판 "wikilink")(도쿄 재판)에서도 A항목의 소추 사유로 무죄가 되었지만, [마쓰이 이와네와](../Page/마쓰이_이와네.md "wikilink") 같이 B항목, C항목의 기소 이유로 유죄가 된 사람도 있었다.\[1\] 또한 일본에 대해서는 대부분 B항에만 적용되지 않았다.\[2\]

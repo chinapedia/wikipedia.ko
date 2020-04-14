@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KBS  \(\)](https://ko.wikipedia.org/wiki/KBS__\(\)).
+> This article is converted from Wikipedia: [KBS 뉴스 \(주말\)](https://ko.wikipedia.org/wiki/KBS_뉴스_\(주말\)).
 
 
 《**KBS 뉴스 (주말)**》()는 [대한민국](../Page/대한민국.md "wikilink") [KBS 1TV에서](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink") [주말](https://ko.wikipedia.org/wiki/주말 "wikilink") 낮, 저녁, [일요일](../Page/일요일.md "wikilink") 아침에 방송되는 [한국방송공사의 뉴스 프로그램이다](../Page/한국방송공사의_뉴스_프로그램.md "wikilink").

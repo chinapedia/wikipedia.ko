@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ D.   T.  ](https://ko.wikipedia.org/wiki/_D.___T.__).
+> This article is converted from Wikipedia: [존 D. 와 캐서린 T. 맥아더 재단](https://ko.wikipedia.org/wiki/존_D._와_캐서린_T._맥아더_재단).
 
 
 **존 D. 와 캐서린 T. 맥아더 재단** (John D. and Catherine T. MacArthur Foundation) 는 [미국](../Page/미국.md "wikilink")에서 10번째로 큰 사설 재단이다.\[1\] [시카고](../Page/시카고.md "wikilink")를 기반으로 하며, 약 50여개 국가의 [비영리 단체를](../Page/비영리_단체.md "wikilink") 지원하고 있다.\[2\] 맥아서 재단은 1970년 설립된 이후 약 5천5백만 달러를 지원하였다. 매년 632만 달러를 기본으로 약 2억 2천5백달러를 지원하고 있다.\[3\]

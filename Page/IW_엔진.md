@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [IW ](https://ko.wikipedia.org/wiki/IW_).
+> This article is converted from Wikipedia: [IW 엔진](https://ko.wikipedia.org/wiki/IW_엔진).
 
 
 **IW 엔진**(IW engine)은 [인피니티 워드](../Page/인피니티_워드.md "wikilink") 사에서 개발한 [콜 오브 듀티 시리즈에](https://ko.wikipedia.org/wiki/콜_오브_듀티_시리즈 "wikilink") 사용되는 엔진이다.

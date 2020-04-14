@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  UBS  ](https://ko.wikipedia.org/wiki/__UBS__).
+> This article is converted from Wikipedia: [주불레이크 대 UBS 워버그 사건](https://ko.wikipedia.org/wiki/주불레이크_대_UBS_워버그_사건).
 
 
 **주불레이크 대 UBS 워버그 사건** 2003년부터 2005년간 미국연방지방법원에서 있었던 사건이다. [전자 디스커버리에](../Page/전자_디스커버리.md "wikilink") 관련하여 매우 중요한 판결을 내린 것으로 널리 알려져 있다.

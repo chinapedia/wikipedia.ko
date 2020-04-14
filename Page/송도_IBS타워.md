@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ IBS](https://ko.wikipedia.org/wiki/_IBS).
+> This article is converted from Wikipedia: [송도 IBS타워](https://ko.wikipedia.org/wiki/송도_IBS타워).
 
 
 **송도 IBS타워**()는 [대한민국](../Page/대한민국.md "wikilink") [인천광역시](https://ko.wikipedia.org/wiki/인천광역시 "wikilink") [연수구](../Page/연수구.md "wikilink") [송도국제도시](../Page/송도국제도시.md "wikilink")에 위치한 오피스 빌딩이다. 이 건물은 지상 35층, 155m의 높이는 판매동과 업무동으로 구성되어 있으며 [2008년](../Page/2008년.md "wikilink")에 착공하여 [2011년 8월](../Page/2011년_8월.md "wikilink") 완공 및 개장했다.

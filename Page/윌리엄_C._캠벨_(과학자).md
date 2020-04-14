@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ C.  \(\)](https://ko.wikipedia.org/wiki/_C.__\(\)).
+> This article is converted from Wikipedia: [윌리엄 C. 캠벨 \(과학자\)](https://ko.wikipedia.org/wiki/윌리엄_C._캠벨_\(과학자\)).
 
 
 **윌리엄 세실 캠벨**(, [1930년](../Page/1930년.md "wikilink") [6월 28일](../Page/6월_28일.md "wikilink") \~ )은 [아일랜드](../Page/아일랜드.md "wikilink")의 생화학자, 기생충학자이다. 2015년 [노벨 생리학·의학상](../Page/노벨_생리학·의학상.md "wikilink") 수상자이다.
