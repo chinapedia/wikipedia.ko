@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [R.I.P.D.: ....](https://ko.wikipedia.org/wiki/R.I.P.D.:_....).
+> This article is converted from Wikipedia: [R.I.P.D.: 알.아이.피.디.](https://ko.wikipedia.org/wiki/R.I.P.D.:_알.아이.피.디.).
 
 
 **R.I.P.D.: 알.아이.피.디.**(R.I.P.D.)는 [2013년](../Page/2013년.md "wikilink") 공개된 [미국의](https://ko.wikipedia.org/wiki/미국_영화 "wikilink") 영화이다.

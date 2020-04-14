@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  Z ](https://ko.wikipedia.org/wiki/__Z_).
+> This article is converted from Wikipedia: [소니 엑스페리아 Z 울트라](https://ko.wikipedia.org/wiki/소니_엑스페리아_Z_울트라).
 
 
 **소니 엑스페리아 Z 울트라**(Sony Xperia Z Ultra), 줄여서 **엑스페리아 ZU**(Xperia ZU)는 [소니 모바일 커뮤니케이션스에서](../Page/소니_모바일_커뮤니케이션스.md "wikilink") [2013년](../Page/2013년.md "wikilink") [6월 25일](../Page/6월_25일.md "wikilink") 중국에서 열린 **[모바일 아시아 엑스포](https://ko.wikipedia.org/wiki/모바일_아시아_엑스포 "wikilink") 2013** (Mobile Asia Expo 2013)에서 공개하여\[1\], [2013년](../Page/2013년.md "wikilink") [7월 3일에](../Page/7월_3일.md "wikilink") 출시한 [안드로이드](../Page/안드로이드_\(운영_체제\).md "wikilink") [패블릿](../Page/패블릿.md "wikilink") [스마트폰](../Page/스마트폰.md "wikilink")이다.

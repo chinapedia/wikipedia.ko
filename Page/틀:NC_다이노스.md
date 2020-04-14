@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:NC ](https://ko.wikipedia.org/wiki/:NC_).
+> This article is converted from Wikipedia: [틀:NC 다이노스](https://ko.wikipedia.org/wiki/틀:NC_다이노스).
 
 
 <onlyinclude> 연고: [<span style="color:#315288;">경상남도</span>](https://ko.wikipedia.org/wiki/경상남도 "wikilink") [<span style="color:#315288;">창원시</span>](../Page/창원시.md "wikilink")

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ TV](https://ko.wikipedia.org/wiki/_TV).
+> This article is converted from Wikipedia: [미디어협동조합 국민TV](https://ko.wikipedia.org/wiki/미디어협동조합_국민TV).
 
 
 **미디어협동조합 국민TV**, 약칭 **국민TV**는 2013년 설립된 [대한민국](../Page/대한민국.md "wikilink")의 언론사이다. 출자금을 낸 조합원 간의 [협동조합](../Page/협동조합.md "wikilink") 체제로 운영되며, '정치권력이나 자본권력이 아닌 국민이 주인이 되는 언론사'임을 표방한다.

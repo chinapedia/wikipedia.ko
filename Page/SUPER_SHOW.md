@@ -42,7 +42,7 @@
 <td><p><a href="../Page/방콕.md" title="wikilink">방콕</a></p></td>
 <td></td>
 <td><p>임펙트 아레나 무앙 통 타니</p></td>
-<td><p>15,254명</p></td>
+<td><p>15,594명</p></td>
 </tr>
 <tr class="odd">
 <td><p>2008년 11월 22일</p></td>
@@ -56,7 +56,7 @@
 <td><p>서울</p></td>
 <td></td>
 <td><p>올림픽펜싱경기장[4]<small>(앙코르)</small></p></td>
-<td><p>통산 13,257명</p></td>
+<td><p>통산 13,957명</p></td>
 </tr>
 <tr class="odd">
 <td><p>2009년 1월 4일</p></td>
@@ -70,7 +70,7 @@
 <td><p><a href="../Page/난징시.md" title="wikilink">난징</a></p></td>
 <td></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/난징_올림픽_스포츠_센터" title="wikilink">난징 올림픽 스포츠 센터</a></p></td>
-<td><p>통산 24,287명</p></td>
+<td><p>통산 25,287명</p></td>
 </tr>
 <tr class="odd">
 <td><p>2009년 1월 18일</p></td>
@@ -83,11 +83,11 @@
 <td><p>2009년 3월 7일</p></td>
 <td><p><a href="../Page/청두시.md" title="wikilink">청두</a></p></td>
 <td><p>용천 체육장[5]</p></td>
-<td><p>13,352명</p></td>
+<td><p>30,652명</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>총 누적 관객 98,593명</p></td>
+<td><p>총 누적 관객 117,933명</p></td>
 <td></td>
 <td></td>
 <td></td>

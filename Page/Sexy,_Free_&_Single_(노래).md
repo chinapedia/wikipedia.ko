@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Sexy, Free \& Single \(\)](https://ko.wikipedia.org/wiki/Sexy,_Free_\&_Single_\(\)).
+> This article is converted from Wikipedia: [Sexy, Free \& Single \(노래\)](https://ko.wikipedia.org/wiki/Sexy,_Free_\&_Single_\(노래\)).
 
 
 《**Sexy, Free & Single**》은 그룹 [슈퍼주니어](../Page/슈퍼주니어.md "wikilink")의 일본에서 발매된 4번째 싱글이다.

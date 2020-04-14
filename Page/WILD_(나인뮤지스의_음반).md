@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [WILD \( \)](https://ko.wikipedia.org/wiki/WILD_\(_\)).
+> This article is converted from Wikipedia: [WILD \(나인뮤지스의 음반\)](https://ko.wikipedia.org/wiki/WILD_\(나인뮤지스의_음반\)).
 
 
 《**WILD**》는 대한민국의 여성 음악 그룹 [나인뮤지스](../Page/나인뮤지스.md "wikilink")의 두 번째 EP이다. 2013년 5월 9일에 발매되었다.

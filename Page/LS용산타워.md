@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [LS](https://ko.wikipedia.org/wiki/LS).
+> This article is converted from Wikipedia: [LS용산타워](https://ko.wikipedia.org/wiki/LS용산타워).
 
 
 **LS용산타워**()는 [대한민국](../Page/대한민국.md "wikilink") [서울특별시](../Page/서울특별시.md "wikilink") [용산구](https://ko.wikipedia.org/wiki/용산구 "wikilink") [신용산역](https://ko.wikipedia.org/wiki/신용산역 "wikilink") 근처에 있는 건물이다.

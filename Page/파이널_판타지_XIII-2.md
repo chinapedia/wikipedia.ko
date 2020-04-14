@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  XIII-2](https://ko.wikipedia.org/wiki/__XIII-2).
+> This article is converted from Wikipedia: [파이널 판타지 XIII-2](https://ko.wikipedia.org/wiki/파이널_판타지_XIII-2).
 
 
 『**파이널 판타지 XIII-2**』(ファイナルファンタジーサーティーンツー, FINAL FANTASY XIII-2, 약칭：**FFXIII-2**, **FF13-2**)는 [스퀘어 에닉스에서](../Page/스퀘어_에닉스.md "wikilink") 2011년 12월 15일에 발매된 롤플레잉 [비디오 게임으로](../Page/비디오_게임.md "wikilink") 『**[파이널 판타지XIII](https://ko.wikipedia.org/wiki/파이널_판타지XIII "wikilink")**』의 속편이다.

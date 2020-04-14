@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [J](https://ko.wikipedia.org/wiki/J).
+> This article is converted from Wikipedia: [J리그](https://ko.wikipedia.org/wiki/J리그).
 
 
 **J리그**()는 [일본](../Page/일본.md "wikilink")의 최상위 프로 [축구](../Page/축구.md "wikilink") 리그이며, 정식 명칭은 **일본 프로 축구 리그**()이다. [일본 축구 협회와](https://ko.wikipedia.org/wiki/일본_축구_협회 "wikilink") 사단법인 일본 프로 축구 리그가 공동 주최하며 일본 프로 축구 리그에 가입한 각 클럽들이 주관하고 있다.
@@ -124,7 +124,7 @@ J리그는 [1993년](../Page/1993년.md "wikilink") [5월 15일](../Page/5월_15
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/블라우블리츠_아키타.md" title="wikilink">블라우블리츠 아키타</a></p></td>
-<td><p><a href="../Page/아키타현.md" title="wikilink">아키타현</a> / <a href="../Page/아키타시.md" title="wikilink">아키타시</a>, <a href="../Page/유리혼조시.md" title="wikilink">유리혼조시</a>, <a href="https://ko.wikipedia.org/wiki/니카호시" title="wikilink">니카호시</a>, <a href="https://ko.wikipedia.org/wiki/오가시" title="wikilink">오가시</a>를 포함한 전 현</p></td>
+<td><p><a href="../Page/아키타현.md" title="wikilink">아키타현</a> / <a href="../Page/아키타시.md" title="wikilink">아키타시</a>, <a href="../Page/유리혼조시.md" title="wikilink">유리혼조시</a>, <a href="../Page/니카호시.md" title="wikilink">니카호시</a>, <a href="../Page/오가시.md" title="wikilink">오가시</a>를 포함한 전 현</p></td>
 <td><p>2014</p></td>
 <td><p>2013</p></td>
 <td></td>
@@ -273,7 +273,7 @@ J리그는 [1993년](../Page/1993년.md "wikilink") [5월 15일](../Page/5월_15
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/호쿠신에쓰_지방" title="wikilink">호쿠신에쓰</a></p></td>
 <td></td>
-<td><p><a href="../Page/나가노현.md" title="wikilink">나가노현</a> / <a href="../Page/마쓰모토시.md" title="wikilink">마쓰모토시</a>, <a href="../Page/아즈미노시.md" title="wikilink">아즈미노시</a>, <a href="../Page/야마가타촌.md" title="wikilink">야마가타촌</a>, <a href="../Page/시오지리시.md" title="wikilink">시오지리시</a>, <a href="https://ko.wikipedia.org/wiki/오마치정" title="wikilink">오마치정</a>, <a href="https://ko.wikipedia.org/wiki/이케다정" title="wikilink">이케다정</a></p></td>
+<td><p><a href="../Page/나가노현.md" title="wikilink">나가노현</a> / <a href="../Page/마쓰모토시.md" title="wikilink">마쓰모토시</a>, <a href="../Page/아즈미노시.md" title="wikilink">아즈미노시</a>, <a href="../Page/야마가타촌.md" title="wikilink">야마가타촌</a>, <a href="../Page/시오지리시.md" title="wikilink">시오지리시</a>, <a href="../Page/오마치정.md" title="wikilink">오마치정</a>, <a href="https://ko.wikipedia.org/wiki/이케다정" title="wikilink">이케다정</a></p></td>
 <td><p>2012</p></td>
 <td><p>2010</p></td>
 </tr>
@@ -302,7 +302,7 @@ J리그는 [1993년](../Page/1993년.md "wikilink") [5월 15일](../Page/5월_15
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="../Page/이시카와현.md" title="wikilink">이시카와현</a> / <a href="../Page/가나자와시.md" title="wikilink">가나자와시</a>, <a href="https://ko.wikipedia.org/wiki/노노이치시" title="wikilink">노노이치시</a>, <a href="https://ko.wikipedia.org/wiki/가호쿠시" title="wikilink">가호쿠시</a>, <a href="../Page/쓰바타정.md" title="wikilink">쓰바타정</a>, <a href="../Page/우치나다정.md" title="wikilink">우치나다정</a>을 중심으로하는 전현</p></td>
+<td><p><a href="../Page/이시카와현.md" title="wikilink">이시카와현</a> / <a href="../Page/가나자와시.md" title="wikilink">가나자와시</a>, <a href="../Page/노노이치시.md" title="wikilink">노노이치시</a>, <a href="../Page/가호쿠시.md" title="wikilink">가호쿠시</a>, <a href="../Page/쓰바타정.md" title="wikilink">쓰바타정</a>, <a href="../Page/우치나다정.md" title="wikilink">우치나다정</a>을 중심으로하는 전현</p></td>
 <td><p>2014</p></td>
 <td><p>2013</p></td>
 <td></td>
@@ -408,8 +408,8 @@ J리그는 [1993년](../Page/1993년.md "wikilink") [5월 15일](../Page/5월_15
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/시코쿠_지방" title="wikilink">시코쿠</a></p></td>
 <td></td>
-<td><p><a href="../Page/도쿠시마현.md" title="wikilink">도쿠시마현</a> / <a href="../Page/도쿠시마시.md" title="wikilink">도쿠시마시</a>, <a href="../Page/나루토시.md" title="wikilink">나루토시</a>, <a href="../Page/미마시.md" title="wikilink">미마시</a>, <a href="https://ko.wikipedia.org/wiki/마쓰시게정" title="wikilink">마쓰시게정</a>, <a href="https://ko.wikipedia.org/wiki/이타노정" title="wikilink">이타노정</a>,<br />
-<a href="../Page/아이즈미정.md" title="wikilink">아이즈미정</a>, <a href="../Page/기타지마정.md" title="wikilink">기타지마정</a>, <a href="https://ko.wikipedia.org/wiki/요시노가와시" title="wikilink">요시노가와시</a>을 중심으로 하는 전현</p></td>
+<td><p><a href="../Page/도쿠시마현.md" title="wikilink">도쿠시마현</a> / <a href="../Page/도쿠시마시.md" title="wikilink">도쿠시마시</a>, <a href="../Page/나루토시.md" title="wikilink">나루토시</a>, <a href="../Page/미마시.md" title="wikilink">미마시</a>, <a href="../Page/마쓰시게정.md" title="wikilink">마쓰시게정</a>, <a href="../Page/이타노정.md" title="wikilink">이타노정</a>,<br />
+<a href="../Page/아이즈미정.md" title="wikilink">아이즈미정</a>, <a href="../Page/기타지마정.md" title="wikilink">기타지마정</a>, <a href="../Page/요시노가와시.md" title="wikilink">요시노가와시</a>을 중심으로 하는 전현</p></td>
 <td><p>2005</p></td>
 <td></td>
 </tr>

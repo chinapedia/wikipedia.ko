@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Girls\' Generation II \~GirlsPeace\~ Japan 2nd Tour](https://ko.wikipedia.org/wiki/Girls\'_Generation_II_\~GirlsPeace\~_Japan_2nd_Tour).
+> This article is converted from Wikipedia: [Girls\' Generation II \~Girls＆Peace\~ Japan 2nd Tour](https://ko.wikipedia.org/wiki/Girls\'_Generation_II_\~Girls＆Peace\~_Japan_2nd_Tour).
 
 
 《**Girls' Generation II \~Girls＆Peace\~ Japan 2nd Tour**》는 [Girls' Generation World Tour - Girls & Peace의](../Page/Girls'_Generation_World_Tour_-_Girls_&_Peace.md "wikilink") 일환으로 열린, 대한민국의 음악 그룹 [소녀시대](../Page/소녀시대.md "wikilink")의 두 번째 일본 [콘서트 투어이다](https://ko.wikipedia.org/wiki/콘서트_투어 "wikilink").

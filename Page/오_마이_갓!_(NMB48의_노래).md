@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  ! \(NMB48 \)](https://ko.wikipedia.org/wiki/__!_\(NMB48_\)).
+> This article is converted from Wikipedia: [오 마이 갓! \(NMB48의 노래\)](https://ko.wikipedia.org/wiki/오_마이_갓!_\(NMB48의_노래\)).
 
 
 〈**오 마이 갓\!**〉()은, [NMB48](../Page/NMB48.md "wikilink")의 2번째 [싱글이다](../Page/싱글_\(음악\).md "wikilink").

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  IV:  ](https://ko.wikipedia.org/wiki/__IV:__).
+> This article is converted from Wikipedia: [어쌔신 크리드 IV: 블랙 플래그](https://ko.wikipedia.org/wiki/어쌔신_크리드_IV:_블랙_플래그).
 
 
 《**어쌔신 크리드 IV**》(Assassin's Creed IV : Black Flag)는 어쌔신크리드 3의 후속작이며 [유비소프트 몬트리올이](../Page/유비소프트.md "wikilink") 개발하고 [유비소프트](../Page/유비소프트.md "wikilink")가 발행하는 [액션 어드벤처](https://ko.wikipedia.org/wiki/액션_어드벤처 "wikilink") [게임으로](../Page/비디오_게임.md "wikilink"), [2013년](../Page/2013년.md "wikilink") [11월 01일](https://ko.wikipedia.org/wiki/11월_01일 "wikilink") [플레이스테이션 3와](../Page/플레이스테이션_3.md "wikilink") [엑스박스 360](../Page/엑스박스_360.md "wikilink"), [플레이스테이션 4와](../Page/플레이스테이션_4.md "wikilink") [엑스박스 원](../Page/엑스박스_원.md "wikilink"), [PC](https://ko.wikipedia.org/wiki/PC "wikilink")로 발매되었다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Sidebar](https://ko.wikipedia.org/wiki/:Sidebar).
+> This article is converted from Wikipedia: [모듈:Sidebar](https://ko.wikipedia.org/wiki/모듈:Sidebar).
 
 
 \-- -- 이 모듈은 에 적용되는 모듈입니다. -- require('Module:No globals')

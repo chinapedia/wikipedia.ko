@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Blockedtext](https://ko.wikipedia.org/wiki/:Blockedtext).
+> This article is converted from Wikipedia: [틀:Blockedtext](https://ko.wikipedia.org/wiki/틀:Blockedtext).
 
 
 <onlyinclude>__NOEDITSECTION__

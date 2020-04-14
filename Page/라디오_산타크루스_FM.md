@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  FM](https://ko.wikipedia.org/wiki/__FM).
+> This article is converted from Wikipedia: [라디오 산타크루스 FM](https://ko.wikipedia.org/wiki/라디오_산타크루스_FM).
 
 
 | 방송국명                           |
@@ -12,9 +12,9 @@
 | 개국일                            |
 | 공식사이트                          |
 
-[thumb](https://ko.wikipedia.org/wiki/파일:Oficina_Central_de_Radio_Santa_Cruz_FM.JPG "wikilink")
+[섬네일](https://ko.wikipedia.org/wiki/파일:Oficina_Central_de_Radio_Santa_Cruz_FM.JPG "wikilink")
 
-**라디오 산타크루스 FM** ()은 [에콰도르](../Page/에콰도르.md "wikilink") [갈라파고스 제도의](../Page/갈라파고스_제도.md "wikilink") [라디오 방송국이다](https://ko.wikipedia.org/wiki/라디오_방송국 "wikilink"). [1974년](../Page/1974년.md "wikilink")에 몬스 빅토르 말도나도 (Mons Víctor Maldonado)에 의해 설립되었으며\[1\], [산타크루스 섬](https://ko.wikipedia.org/wiki/산타크루스_섬 "wikilink") 전역에 방송을 송출하고 있다.
+**라디오 산타크루스 FM**()은 [에콰도르](../Page/에콰도르.md "wikilink") [갈라파고스 제도의](../Page/갈라파고스_제도.md "wikilink") [라디오 방송국이다](https://ko.wikipedia.org/wiki/라디오_방송국 "wikilink"). [1974년](../Page/1974년.md "wikilink")에 몬스 빅토르 말도나도 (Mons Víctor Maldonado)에 의해 설립되었으며\[1\], [산타크루스 섬](https://ko.wikipedia.org/wiki/산타크루스_섬 "wikilink") 전역에 방송을 송출하고 있다.
 
 [성 프란시스코회](https://ko.wikipedia.org/wiki/성_프란시스코회 "wikilink") 소속이나, 갈라파고스 제도의 특성상 뉴스와 에콰도르 대중음악을 주로 내보낸다. 현지 시각으로 새벽 5시부터 6시까지\[2\], 그리고 일요일 말레콘 (Malecón)에서 열리는 오전 미사 때에만 종교 방송을 송출한다.
 

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [NK](https://ko.wikipedia.org/wiki/NK).
+> This article is converted from Wikipedia: [NK뉴스](https://ko.wikipedia.org/wiki/NK뉴스).
 
 
 **NK뉴스**(NK News)는 2010년에 개인이 설립한 독립언론사로 북한 전문 뉴스를 독자들에게 제공하고 있다. NK뉴스는 어떤 국가나 단체에 소속·지원을 받지 않으며 정치적 중립을 추구하는 언론사로 객관적이 사실 보도에 중점을 두고 있다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ KC-X ](https://ko.wikipedia.org/wiki/_KC-X_).
+> This article is converted from Wikipedia: [대한민국 KC-X 사업](https://ko.wikipedia.org/wiki/대한민국_KC-X_사업).
 
 
 **대한민국 KC-X**는 [대한민국 공군이](../Page/대한민국_공군.md "wikilink") 1994년 부터 검토중인 [공중급유기](https://ko.wikipedia.org/wiki/공중급유기 "wikilink") 도입 사업이다.

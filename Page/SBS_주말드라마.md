@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SBS ](https://ko.wikipedia.org/wiki/SBS_).
+> This article is converted from Wikipedia: [SBS 주말드라마](https://ko.wikipedia.org/wiki/SBS_주말드라마).
 
 
 **SBS 주말드라마**는 [SBS](../Page/SBS.md "wikilink")에서 [토요일](../Page/토요일.md "wikilink") 밤 8시 45분에 방영된 [텔레비전 드라마이다](../Page/텔레비전_드라마.md "wikilink").

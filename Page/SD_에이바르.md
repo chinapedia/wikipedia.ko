@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SD ](https://ko.wikipedia.org/wiki/SD_).
+> This article is converted from Wikipedia: [SD 에이바르](https://ko.wikipedia.org/wiki/SD_에이바르).
 
 
 **SD 에이바르**(Sociedad Deportiva Eibar, S.A.D.)는 [바스크 지방의](https://ko.wikipedia.org/wiki/바스크_지방 "wikilink") [에이바르](https://ko.wikipedia.org/wiki/에이바르 "wikilink")를 연고로 하는 [스페인](../Page/스페인.md "wikilink")의 축구 클럽이다. 2013-14 시즌에서 [세군다 디비시온에](../Page/세군다_디비시온.md "wikilink") 참가하고 있다. 세군다 디비시온에서 해당 시즌 1위를 기록하며 2014-15 시즌에는 [프리메라 리가로](https://ko.wikipedia.org/wiki/프리메라_리가 "wikilink") 승격하게 된다. 승격하게 되면 프리메라 리가에서 가장 작은 구장을 가진 구단이 된다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SK](https://ko.wikipedia.org/wiki/SK).
+> This article is converted from Wikipedia: [SK플래닛](https://ko.wikipedia.org/wiki/SK플래닛).
 
 
 **에스케이플래닛주식회사**()\[1\]는 대한민국의 O2O 커머스 플랫폼 및 디지털 콘텐츠 사업 업체이다. [2011년](../Page/2011년.md "wikilink") [10월 1일](../Page/10월_1일.md "wikilink") [SK텔레콤](../Page/SK텔레콤.md "wikilink")에서 분사하면서 만들어졌다. [2013년](../Page/2013년.md "wikilink") 2월 [SK마케팅앤컴퍼니](../Page/SK마케팅앤컴퍼니.md "wikilink")를 합병하였다.

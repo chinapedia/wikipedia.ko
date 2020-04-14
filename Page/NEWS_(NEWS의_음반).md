@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [NEWS \(NEWS \)](https://ko.wikipedia.org/wiki/NEWS_\(NEWS_\)).
+> This article is converted from Wikipedia: [NEWS \(NEWS의 음반\)](https://ko.wikipedia.org/wiki/NEWS_\(NEWS의_음반\)).
 
 
 《**NEWS**》(뉴스)는, [NEWS](https://ko.wikipedia.org/wiki/NEWS "wikilink")의 5번째 [정규 음반이다](../Page/정규_음반.md "wikilink").

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:KT ](https://ko.wikipedia.org/wiki/:KT_).
+> This article is converted from Wikipedia: [틀:KT 위즈](https://ko.wikipedia.org/wiki/틀:KT_위즈).
 
 
 <onlyinclude></onlyinclude>

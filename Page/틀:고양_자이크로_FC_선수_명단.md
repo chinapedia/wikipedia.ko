@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:  FC  ](https://ko.wikipedia.org/wiki/:__FC__).
+> This article is converted from Wikipedia: [틀:고양 자이크로 FC 선수 명단](https://ko.wikipedia.org/wiki/틀:고양_자이크로_FC_선수_명단).
 
 
 <onlyinclude></onlyinclude>

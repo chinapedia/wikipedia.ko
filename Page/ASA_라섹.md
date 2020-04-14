@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ASA ](https://ko.wikipedia.org/wiki/ASA_).
+> This article is converted from Wikipedia: [ASA 라섹](https://ko.wikipedia.org/wiki/ASA_라섹).
 
 
 [thumb](https://ko.wikipedia.org/wiki/파일:Eckhard_schroeder&sven_lee.jpg "wikilink") **ASA 라섹**()은 시력교정수술인 라섹의 일종으로 [독일](../Page/독일.md "wikilink") 의학 박사인 [스벤 리](../Page/스벤_리.md "wikilink")(독일어 : Sven Lee 1969년 2월 21일\~)와 [독일](../Page/독일.md "wikilink") 물리학 박사인 [에카르트 슈뢰더](../Page/에카르트_슈뢰더.md "wikilink")(독일어 : Eckhard Schroeder 1943년 4월 25일\~)에 의해 개발된 기술이다. 환자 개인의 특성에 맞는 알고리즘이 생성 가능한 [ASA80 소프트웨어에](https://ko.wikipedia.org/wiki/ASA80_소프트웨어 "wikilink") 의해 구동되는 [ASA라섹](https://ko.wikipedia.org/wiki/ASA라섹 "wikilink")은 [프리츠 제르니커의](../Page/프리츠_제르니커.md "wikilink") 제르니커 다항식 구조 Z(4.0) 값의 제어가 기술의 핵심 중 하나이다. 기존 레이저를 이용한 시력교정수술은 상대적으로 얇은 각막 중심부를 더 얇게 만드는 특성과 달리, 각막 중심부는 볼록하게 주변은 편평하고 완만한 구릉 모양을 만들어 주어 가깝고 먼 곳을 동시에 볼 수 있으며 초고도 근시까지 수술이 가능한 특징이 있다.

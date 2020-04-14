@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [DC  ](https://ko.wikipedia.org/wiki/DC__).
+> This article is converted from Wikipedia: [DC 유니버스 온라인](https://ko.wikipedia.org/wiki/DC_유니버스_온라인).
 
 
 《**DC 유니버스 온라인**》(DC Universe Online)은 [DC 코믹스](../Page/DC_코믹스.md "wikilink") 가상 세계를 기반으로 한 [대규모 다중 사용자 온라인 롤플레잉 게임이다](../Page/대규모_다중_사용자_온라인_롤플레잉_게임.md "wikilink"). [소니 온라인 엔터테인먼트의](https://ko.wikipedia.org/wiki/소니_온라인_엔터테인먼트 "wikilink") 오스틴 스튜디오에서 개발하고, [소니 컴퓨터 엔터테인먼트와](https://ko.wikipedia.org/wiki/소니_컴퓨터_엔터테인먼트 "wikilink") [워너 브라더스 게임스에서](https://ko.wikipedia.org/wiki/워너_브라더스_게임스 "wikilink") 공동 배급하여 [2011년 1월에](../Page/2011년_1월.md "wikilink") 공개하였다.

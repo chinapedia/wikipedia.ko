@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FC ](https://ko.wikipedia.org/wiki/FC_).
+> This article is converted from Wikipedia: [FC 시라크](https://ko.wikipedia.org/wiki/FC_시라크).
 
 
 **시라크 풋볼 클럽**(Shirak Football Club, )은 [시라크 주의](https://ko.wikipedia.org/wiki/시라크_주 "wikilink") [귬리](../Page/귬리.md "wikilink")를 연고로 하는 [아르메니아](../Page/아르메니아.md "wikilink")의 축구팀이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ \(II\)](https://ko.wikipedia.org/wiki/_\(II\)).
+> This article is converted from Wikipedia: [질산 구리\(II\)](https://ko.wikipedia.org/wiki/질산_구리\(II\)).
 
 
 **질산 구리(II)**는 [화학식](../Page/화학식.md "wikilink")이 Cu(NO<sub>3</sub>)<sub>2</sub>인 파란색의 고체[결정](../Page/결정.md "wikilink")으로 존재하는 [무기 화합물이다](https://ko.wikipedia.org/wiki/무기_화합물 "wikilink"). [무수](https://ko.wikipedia.org/wiki/무수 "wikilink")상태에서 파란색 고체 결정으로 존재하며, 진공상태에서 150-200℃에서는 [승화한다](https://ko.wikipedia.org/wiki/승화_\(화학\) "wikilink").

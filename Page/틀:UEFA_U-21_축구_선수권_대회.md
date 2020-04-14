@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:UEFA U-21   ](https://ko.wikipedia.org/wiki/:UEFA_U-21___).
+> This article is converted from Wikipedia: [틀:UEFA U-21 축구 선수권 대회](https://ko.wikipedia.org/wiki/틀:UEFA_U-21_축구_선수권_대회).
 
 
 <onlyinclude></onlyinclude>

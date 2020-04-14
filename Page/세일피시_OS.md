@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ OS](https://ko.wikipedia.org/wiki/_OS).
+> This article is converted from Wikipedia: [세일피시 OS](https://ko.wikipedia.org/wiki/세일피시_OS).
 
 
 **세일피시 OS**(Sailfish OS)는 [핀란드](../Page/핀란드.md "wikilink")의 욜라(Jolla)와 세일피시 얼라이언스(Sailfish Alliance)에 의해 개발중인 모바일 운영체제이다. 세일피시 OS는 [인텔](../Page/인텔.md "wikilink")과 [노키아](../Page/노키아.md "wikilink")가 만들던 [미고](https://ko.wikipedia.org/wiki/미고 "wikilink")(MeeGo) 운영 체제에 기반한 머(Mer) 코어, 커스텀 빌드 사용자 환경, [HTML5](../Page/HTML5.md "wikilink"), [QML](https://ko.wikipedia.org/wiki/QML "wikilink"), [Qt로](../Page/Qt_\(프레임워크\).md "wikilink") 구성된다. 세일피시 OS를 탑재한 첫 스마트폰인 jolla smartphone은 2013년 5월 20일에 발표되었으며, 가격은 399[유로](../Page/유로.md "wikilink")로 책정되었다.\[1\] 2015년 9월 24일 Sailfish 2.0 Eineheminlampi 업데이트가 있었다.\[2\]

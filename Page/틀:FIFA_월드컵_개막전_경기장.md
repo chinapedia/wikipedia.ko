@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:FIFA   ](https://ko.wikipedia.org/wiki/:FIFA___).
+> This article is converted from Wikipedia: [틀:FIFA 월드컵 개막전 경기장](https://ko.wikipedia.org/wiki/틀:FIFA_월드컵_개막전_경기장).
 
 
 [결승전](https://ko.wikipedia.org/wiki/:틀:FIFA_월드컵_결승전_경기장 "wikilink")

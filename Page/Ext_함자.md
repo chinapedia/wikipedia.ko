@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Ext ](https://ko.wikipedia.org/wiki/Ext_).
+> This article is converted from Wikipedia: [Ext 함자](https://ko.wikipedia.org/wiki/Ext_함자).
 
 
 [호몰로지 대수학에서](../Page/호몰로지_대수학.md "wikilink"), **Ext 함자**(Ext函子, )는 [아벨 범주의](../Page/아벨_범주.md "wikilink") 두 대상 사이를 잇는 [완전열](../Page/완전열.md "wikilink")들을 분류하는 [함자이다](../Page/함자_\(수학\).md "wikilink"). 사상군 함자의 [유도 함자와](../Page/유도_함자.md "wikilink") 같다.

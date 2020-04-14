@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Protectedpagetext](https://ko.wikipedia.org/wiki/:Protectedpagetext).
+> This article is converted from Wikipedia: [미디어위키:Protectedpagetext](https://ko.wikipedia.org/wiki/미디어위키:Protectedpagetext).
 
 
 {{\#ifexist: 틀:편집 안내/보호/ |  |

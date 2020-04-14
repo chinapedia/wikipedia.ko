@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
+> This article is converted from Wikipedia: [클리프턴빌 FC](https://ko.wikipedia.org/wiki/클리프턴빌_FC).
 
 
 **클리프턴빌 FC**()는 [벨파스트](../Page/벨파스트.md "wikilink")를 연고로 하는 [북아일랜드](../Page/북아일랜드.md "wikilink")의 축구 클럽이다. 현재는 [IFA 프리미어십에](https://ko.wikipedia.org/wiki/IFA_프리미어십 "wikilink") 참가하고 있다. 1879년 9월 20일에 창단되었으며 북아일랜드에서 오랜 역사를 자랑하는 축구 클럽 가운데 하나로 여겨진다.

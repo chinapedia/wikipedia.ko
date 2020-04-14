@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [PFC  ](https://ko.wikipedia.org/wiki/PFC__).
+> This article is converted from Wikipedia: [PFC 루도고레츠 라즈그라드](https://ko.wikipedia.org/wiki/PFC_루도고레츠_라즈그라드).
 
 
 **PFC 루도고레츠 라즈그라드**() 또는 줄여서 **루도고레츠**는 [라즈그라드](../Page/라즈그라드.md "wikilink")를 연고로 하는 [불가리아](../Page/불가리아.md "wikilink")의 축구팀이다. 현재는 [A PFG에](https://ko.wikipedia.org/wiki/A_PFG "wikilink") 참가하고 있다.

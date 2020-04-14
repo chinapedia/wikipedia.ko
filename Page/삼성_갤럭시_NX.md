@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  NX](https://ko.wikipedia.org/wiki/__NX).
+> This article is converted from Wikipedia: [삼성 갤럭시 NX](https://ko.wikipedia.org/wiki/삼성_갤럭시_NX).
 
 
 **삼성 갤럭시 NX**(Samsung Galaxy NX)는 [삼성전자](https://ko.wikipedia.org/wiki/삼성전자 "wikilink")에서 제조/판매하는 [안드로이드](../Page/안드로이드_\(운영_체제\).md "wikilink") [미러리스 렌즈 교환식 카메라다](../Page/미러리스_렌즈_교환식_카메라.md "wikilink").

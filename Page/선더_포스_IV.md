@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  IV](https://ko.wikipedia.org/wiki/__IV).
+> This article is converted from Wikipedia: [선더 포스 IV](https://ko.wikipedia.org/wiki/선더_포스_IV).
 
 
 《**선더 포스 IV**》(, )는 일본의 [테크노소프트](../Page/테크노소프트.md "wikilink")가 제작한 [메가 드라이브용](../Page/메가_드라이브.md "wikilink") [진행형 슈팅 게임이다](https://ko.wikipedia.org/wiki/진행형_슈팅_게임 "wikilink"). 《[선더 포스](../Page/선더_포스.md "wikilink")》 시리즈의 네번째 작품으로, 메가 드라이브로 제작된 시리즈 마지막 작품이다. 일본서 1992년 7월 24일 처음 출시됐다. 미국에서는 《**라이트닝 포스: 퀘스트 포 더 다크스타**》(Lightening Force: Quest for the Darkstar)라는 제목으로 발매됐다.

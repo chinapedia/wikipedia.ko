@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ H. ](https://ko.wikipedia.org/wiki/_H._).
+> This article is converted from Wikipedia: [윌리엄 H. 크로퍼드](https://ko.wikipedia.org/wiki/윌리엄_H._크로퍼드).
 
 
 **윌리엄 해리스 크로퍼드**(William Harris Crawford, [1772년](https://ko.wikipedia.org/wiki/1772년 "wikilink") [2월 24일](../Page/2월_24일.md "wikilink") - [1834년](../Page/1834년.md "wikilink") [9월 15일](../Page/9월_15일.md "wikilink"))는 미국의 정치인이다. [1815년](../Page/1815년.md "wikilink")에서 [1816년](../Page/1816년.md "wikilink")까지 미국 육군 장관을 역임했고, [1816년](../Page/1816년.md "wikilink")에서 [1825년](../Page/1825년.md "wikilink")까지 미국 재무장관을 맡았다. 또한 [1824년 미국 대통령 선거에서](../Page/1824년_미국_대통령_선거.md "wikilink") 민주공화당의 대통령 후보로 출마했다.

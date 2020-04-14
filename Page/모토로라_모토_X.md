@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  X](https://ko.wikipedia.org/wiki/__X).
+> This article is converted from Wikipedia: [모토로라 모토 X](https://ko.wikipedia.org/wiki/모토로라_모토_X).
 
 
 **모토로라 모토 X** (Motorola Moto X) [모토로라 모빌리티에서](../Page/모토로라_모빌리티.md "wikilink") 제조/판매하는 [안드로이드](../Page/안드로이드_\(운영_체제\).md "wikilink") [스마트폰](../Page/스마트폰.md "wikilink")이다.

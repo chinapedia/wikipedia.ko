@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [RSD-10 ](https://ko.wikipedia.org/wiki/RSD-10_).
+> This article is converted from Wikipedia: [RSD-10 파이오니어](https://ko.wikipedia.org/wiki/RSD-10_파이오니어).
 
 
 **RSD-10 파이오니어**는 [소련](../Page/소련.md "wikilink")의 트럭 이동식 중거리 탄도 핵미사일이다. [NATO](https://ko.wikipedia.org/wiki/NATO "wikilink")에서는 **SS-20 세이버**라고 부른다. 1979년에 개발된 최신형 파이오니어는 **SS-28 세이버2**라고 부른다.

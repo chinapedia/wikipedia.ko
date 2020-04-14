@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [ A   ](https://ko.wikipedia.org/wiki/_A___).
+> This article is converted from Wikipedia: [세리에 A 올해의 영플레이어 상](https://ko.wikipedia.org/wiki/세리에_A_올해의_영플레이어_상).
 
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:Antonio_Cassano_training.jpg "wikilink")\]\] **세리에 A 올해의 영플레이어상** ()은 매년 열리는 [축구](../Page/축구.md "wikilink") 시상식이다. 이 상은 지난 [세리에 A](../Page/세리에_A.md "wikilink") 시즌 중에서 24세 이하 선수들중 가장 좋은 활약을 한 사람에게 주어진다. [이탈리아 축구선수 협회에](https://ko.wikipedia.org/wiki/이탈리아_축구선수_협회 "wikilink") 의해서 제정되었으며 세리에 A 시상식인 "[오스카르 델 칼초](https://ko.wikipedia.org/wiki/오스카르_델_칼초 "wikilink")" 시상식의 일부이기도 하다..
+[섬네일](https://ko.wikipedia.org/wiki/파일:Antonio_Cassano_training.jpg "wikilink")\]\] **세리에 A 올해의 영플레이어상**()은 매년 열리는 [축구](../Page/축구.md "wikilink") 시상식이다. 이 상은 지난 [세리에 A](../Page/세리에_A.md "wikilink") 시즌 중에서 24세 이하 선수들중 가장 좋은 활약을 한 사람에게 주어진다. [이탈리아 축구선수 협회에](https://ko.wikipedia.org/wiki/이탈리아_축구선수_협회 "wikilink") 의해서 제정되었으며 세리에 A 시상식인 "[오스카르 델 칼초](https://ko.wikipedia.org/wiki/오스카르_델_칼초 "wikilink")" 시상식의 일부이기도 하다..
 
 [안토니오 카사노가](../Page/안토니오_카사노.md "wikilink") 2001년과 2003년에 수상하여 가장 많은 수상을 선수이다. 그는 두 번을 수상한 유일한 선수이다. [로마가](../Page/AS_로마.md "wikilink") 세번의 수상자를 배출시키며 가장 많은 세리에 A 올해의 영플레이어상 수상자를 배출했다. 첫 비이탈리아인 출신 수상자는 2008년에 수상한 슬로바키아 출신인 [마레크 함시크이다](../Page/마레크_함시크.md "wikilink"). 가장 최근 수상자는 [루이스 무리엘과](../Page/루이스_무리엘.md "wikilink") [스테판 엘 샤라위다](../Page/스테판_엘_샤라위.md "wikilink"). 이 수상은 처음으로 한 해에 두 선수를 동시에 함께 수상을 시킨 경우이다.
 

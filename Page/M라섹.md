@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [M](https://ko.wikipedia.org/wiki/M).
+> This article is converted from Wikipedia: [M라섹](https://ko.wikipedia.org/wiki/M라섹).
 
 
 **M라섹**()시력교정 수술 중 라섹의 한 종류이며, 일반 라섹과의 차이점은 [세포](../Page/세포.md "wikilink")의 재생을 막는 Mitomycin-C([미토마이신](../Page/미토마이신.md "wikilink")-C)를 사용한다는 점이다.

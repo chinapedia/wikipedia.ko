@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  SHL22](https://ko.wikipedia.org/wiki/__SHL22).
+> This article is converted from Wikipedia: [샤프 아쿠오스 SHL22](https://ko.wikipedia.org/wiki/샤프_아쿠오스_SHL22).
 
 
 **아쿠오스 폰 SHL22**()는 [2013년](../Page/2013년.md "wikilink") [7월](../Page/7월.md "wikilink") 하순, [샤프전자의](../Page/샤프_\(기업\).md "wikilink")[일본](../Page/일본.md "wikilink") 국내용으로 출시되는 스마트폰이다.

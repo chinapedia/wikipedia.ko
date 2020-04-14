@@ -5,19 +5,19 @@
 
 야마시타는 [2010년](../Page/2010년.md "wikilink") 《[코드 블루 - 닥터 헬기 긴급 구명 2nd season](https://ko.wikipedia.org/wiki/코드_블루 "wikilink")》이후, 약 3년만의 게츠쿠 주연이다.\[1\]
 
-## 스토리
+## 줄거리
 
-해변 마을 사진관에서 일하는 아사히(야마시타 토모히사)는 결혼을 앞둔 나츠키(카리나)의 웨딩 촬영을 담당하고 있었다. 그러나 결혼식 도중에 신랑 후루야마 코타가 도망가 버려, 신부의 나츠키는 충격을 받아 한 시기 집에 틀혀박혀 은둔형 생활을 한다.
+해변 마을 사진관에서 일하는 **아사히**([야마시타 토모히사](../Page/야마시타_토모히사.md "wikilink") 분)는 결혼을 앞둔 **나츠키**([카리나](https://ko.wikipedia.org/wiki/카리나 "wikilink") 분)의 웨딩 촬영을 담당하고 있었다. 그러나 결혼식 도중에 신랑 후루야마 코타가 도망가 버려, 신부의 나츠키는 충격을 받아 한 시기 집에 틀혀박혀 은둔형 생활을 한다.
 
 아침 해가 뜬 결혼식에서 촬영한 사진을 찾으러 온 나츠키는 기간 한정으로 바다의 집 "아오야마"의 점장으로 일해달라는 아사히의 의뢰를 받는다. 나츠키는 마지 못해 허락하고 일을 하게 된다. 과거에 나츠키와 비슷한 경험이 있는 아사히는 나츠키의 마음을 이해해 피로연에서 나올 예정이였던 결혼식 프로필 비디오를 나츠키의 응원 영상으로 재편집하여 그녀에게 건네 준다.
 
-한편, 10년째 아사히를 짝사랑하고 있지만 전혀 자신의 마음을 표현하지 못한 타니야마 하나에(토다 에리카). 아사히는 3년 전 갑자기 사라진 연인 카스미(나가사와 마사미)을 계속 계속 기다리고 있었다.
+한편, 10년째 아사히를 짝사랑하고 있지만 전혀 자신의 마음을 표현하지 못한 **타니야마 하나에**([토다 에리카](../Page/토다_에리카.md "wikilink") 분). 아사히는 3년 전 갑자기 사라진 연인 **카스미**([나가사와 마사미](../Page/나가사와_마사미.md "wikilink") 분)을 계속 계속 기다리고 있었다.
 
-## 등장인물
+## 등장 인물
 
 ### 주요 인물
 
-  - [야마시타 토모히사](../Page/야마시타_토모히사.md "wikilink") : **미쿠리야 아사히** 역 (28)
+  - **미쿠리야 아사히** (28) : [야마시타 토모히사](../Page/야마시타_토모히사.md "wikilink")
 
 <!-- end list -->
 
@@ -26,7 +26,7 @@
 
 <!-- end list -->
 
-  - [카리나](../Page/카리나_\(배우\).md "wikilink") : **치요하라 나츠키** 역 (29)
+  - **치요하라 나츠키** (29) : [카리나](../Page/카리나_\(배우\).md "wikilink")
 
 <!-- end list -->
 
@@ -35,7 +35,7 @@
 
 <!-- end list -->
 
-  - [토다 에리카](../Page/토다_에리카.md "wikilink") : **타니야마 하나에** 역 (25)
+  - **타니야마 하나에** (25) : [토다 에리카](../Page/토다_에리카.md "wikilink")
 
 <!-- end list -->
 
@@ -44,7 +44,7 @@
 
 <!-- end list -->
 
-  - [카츠지 료](https://ko.wikipedia.org/wiki/카츠지_료 "wikilink") : **야이노 타카시** 역 (28)
+  - **야이노 타카시** (28) : [카츠지 료](https://ko.wikipedia.org/wiki/카츠지_료 "wikilink")
 
 <!-- end list -->
 
@@ -53,7 +53,7 @@
 
 <!-- end list -->
 
-  - [쿠보타 마사타카](../Page/쿠보타_마사타카.md "wikilink") : **키리하타 히카루** 역 (25)
+  - **키리하타 히카루** (25) : [쿠보타 마사타카](../Page/쿠보타_마사타카.md "wikilink")
 
 <!-- end list -->
 
@@ -62,7 +62,7 @@
 
 <!-- end list -->
 
-  - [나가사와 마사미](../Page/나가사와_마사미.md "wikilink") (우정 출연) : **이치쿠라 카스미** 역 (26)
+  - **이치쿠라 카스미** (26) : [나가사와 마사미](../Page/나가사와_마사미.md "wikilink") (우정 출연)
 
 <!-- end list -->
 
@@ -71,7 +71,7 @@
 
 ### 카페 & 바 미나토 사람들
 
-  - [이타야 유카](https://ko.wikipedia.org/wiki/이타야_유카 "wikilink") : **하시마 세츠코** 역 (38)
+  - **하시마 세츠코** (38) : [이타야 유카](https://ko.wikipedia.org/wiki/이타야_유카 "wikilink")
 
 <!-- end list -->
 
@@ -80,7 +80,7 @@
 
 <!-- end list -->
 
-  - [타카하시 카츠노리](https://ko.wikipedia.org/wiki/타카하시_카츠노리 "wikilink") : **하시마 켄지** 역 (45)
+  - **하시마 켄지** (45) : [타카하시 카츠노리](https://ko.wikipedia.org/wiki/타카하시_카츠노리 "wikilink")
 
 <!-- end list -->
 
@@ -89,7 +89,7 @@
 
 ### 코미나미 사진관 사람들
 
-  - [사이키 시게루](https://ko.wikipedia.org/wiki/사이키_시게루 "wikilink") : **코미나미 분요** 역 (57)
+  - **코미나미 분요** (57) : [사이키 시게루](https://ko.wikipedia.org/wiki/사이키_시게루 "wikilink")
 
 <!-- end list -->
 
@@ -98,7 +98,7 @@
 
 <!-- end list -->
 
-  - [나카죠 아야미](https://ko.wikipedia.org/wiki/나카죠_아야미 "wikilink") : **이치노세 마미** 역 (18)
+  - **이치노세 마미** (18) : [나카죠 아야미](https://ko.wikipedia.org/wiki/나카죠_아야미 "wikilink")
 
 <!-- end list -->
 
@@ -107,7 +107,7 @@
 
 ### 그 외
 
-  - [사토 쇼리](../Page/사토_쇼리.md "wikilink") : **타니야마 하야오** 역 (16)
+  - **타니야마 하야오** (16) : [사토 쇼리](../Page/사토_쇼리.md "wikilink")
 
 <!-- end list -->
 
@@ -116,7 +116,7 @@
 
 <!-- end list -->
 
-  - [야마모토 미즈키](../Page/야마모토_미즈키.md "wikilink") : **호리키리 아오이** 역 (21)
+  - **호리키리 아오이** (21) : [야마모토 미즈키](../Page/야마모토_미즈키.md "wikilink")
 
 <!-- end list -->
 
@@ -125,7 +125,7 @@
 
 <!-- end list -->
 
-  - [와타나베 아키라](../Page/와타나베_아키라.md "wikilink") : **타니야마 이즈미** 역
+  - **타니야마 이즈미** : [와타나베 아키라](../Page/와타나베_아키라.md "wikilink")
 
 <!-- end list -->
 
@@ -134,7 +134,7 @@
 
 <!-- end list -->
 
-  - [이즈미 치에](https://ko.wikipedia.org/wiki/이즈미_치에 "wikilink") : **타니야마 아사코** 역
+  - **타니야마 아사코** : [이즈미 치에](https://ko.wikipedia.org/wiki/이즈미_치에 "wikilink")
 
 <!-- end list -->
 
@@ -143,7 +143,7 @@
 
 <!-- end list -->
 
-  - [스가타 슌](https://ko.wikipedia.org/wiki/스가타_슌 "wikilink") : **키리하타 쇼** 역
+  - **키리하타 쇼** : [스가타 슌](https://ko.wikipedia.org/wiki/스가타_슌 "wikilink")
 
 <!-- end list -->
 
@@ -152,7 +152,7 @@
 
 <!-- end list -->
 
-  - [킨토키 무스코](https://ko.wikipedia.org/wiki/킨토키_무스코 "wikilink") : **카네다카 무츠오** 역
+  - **카네다카 무츠오** : [킨토키 무스코](https://ko.wikipedia.org/wiki/킨토키_무스코 "wikilink")
 
 <!-- end list -->
 
@@ -161,8 +161,15 @@
 
 <!-- end list -->
 
-  - [치바 유다이](../Page/치바_유다이.md "wikilink") : **요네다 하루오** 역 (25)
-  - [하시모토 나나미](../Page/하시모토_나나미.md "wikilink") : **이시카키 요코** 역 (20)
+  - **요네다 하루오** (25) : [치바 유다이](../Page/치바_유다이.md "wikilink")
+
+<!-- end list -->
+
+  -
+
+<!-- end list -->
+
+  - **이시카키 요코** (20) : [하시모토 나나미](../Page/하시모토_나나미.md "wikilink")
 
 <!-- end list -->
 
@@ -171,7 +178,7 @@
 
 <!-- end list -->
 
-  - [오카모토 쇼](https://ko.wikipedia.org/wiki/오카모토_쇼 "wikilink") : **이시카 키요시** 역
+  - **이시카 키요시** : [오카모토 쇼](https://ko.wikipedia.org/wiki/오카모토_쇼 "wikilink")
 
 <!-- end list -->
 
@@ -210,7 +217,7 @@
 | 평균 시청률: **12.7%**                                       |        |                               |                                                 |       |
 | (시청률은 [간토 지방](../Page/간토_지방.md "wikilink")·비디오 리서치사 조사) |        |                               |                                                 |       |
 
-## 방송
+## 그 외
 
   - 제1회가 방송된 [7월 8일에는](../Page/7월_8일.md "wikilink") 이전 19:00 - 20:54에 주연의 [야마시타 토모히사가](../Page/야마시타_토모히사.md "wikilink") 진행을 맡고 있는 《[제너레이션 천국](../Page/제너레이션_천국.md "wikilink")》의 2시간 스페셜이 방송된 본작의 일부 출연자가 드라마의 선전을 겸해 출연했다.
 
@@ -222,6 +229,6 @@
 
   - [후지 TV 《SUMMER NUDE》 공식 홈페이지](https://web.archive.org/web/20130813213418/http://www.fujitv.co.jp/SUMMER-NUDE/index.html)
 
-[분류:게츠쿠](https://ko.wikipedia.org/wiki/분류:게츠쿠 "wikilink") [분류:2013년 드라마](https://ko.wikipedia.org/wiki/분류:2013년_드라마 "wikilink") [분류:일본의 로맨스 드라마](https://ko.wikipedia.org/wiki/분류:일본의_로맨스_드라마 "wikilink") [분류:카네코 시게키 각본 드라마](https://ko.wikipedia.org/wiki/분류:카네코_시게키_각본_드라마 "wikilink") [분류:야마시타 토모히사](https://ko.wikipedia.org/wiki/분류:야마시타_토모히사 "wikilink")
+[분류:게츠쿠](https://ko.wikipedia.org/wiki/분류:게츠쿠 "wikilink") [분류:2013년 드라마](https://ko.wikipedia.org/wiki/분류:2013년_드라마 "wikilink") [분류:일본의 로맨스 드라마](https://ko.wikipedia.org/wiki/분류:일본의_로맨스_드라마 "wikilink") [분류:카네코 시게키 각본 드라마](https://ko.wikipedia.org/wiki/분류:카네코_시게키_각본_드라마 "wikilink")
 
 1.  [야마시타 토모히사, 월 9 주연으로 3년 만에 돌아왔다\!\! "SUMMER NUDE"](http://www.fujitv.co.jp/fujitv/news/pub_2013/i/130527-i084.html)  [2013년](../Page/2013년.md "wikilink") [5월 27일](../Page/5월_27일.md "wikilink") 참조.

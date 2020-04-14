@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Give It To Me \(\)](https://ko.wikipedia.org/wiki/Give_It_To_Me_\(\)).
+> This article is converted from Wikipedia: [Give It To Me \(음반\)](https://ko.wikipedia.org/wiki/Give_It_To_Me_\(음반\)).
 
 
 《**Give It To Me**》은 [대한민국](../Page/대한민국.md "wikilink")의 음악 그룹 [씨스타](../Page/씨스타.md "wikilink")의 두 번째 정규 음반이다. 2013년 6월 11일 [로엔 엔터테인먼트를](https://ko.wikipedia.org/wiki/로엔_엔터테인먼트 "wikilink") 통해 발매되었다.

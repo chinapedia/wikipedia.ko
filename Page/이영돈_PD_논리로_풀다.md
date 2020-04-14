@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ PD  ](https://ko.wikipedia.org/wiki/_PD__).
+> This article is converted from Wikipedia: [이영돈 PD 논리로 풀다](https://ko.wikipedia.org/wiki/이영돈_PD_논리로_풀다).
 
 
 《**이영돈PD 논리로 풀다**》는 [대한민국](../Page/대한민국.md "wikilink")의 [채널A](../Page/채널A.md "wikilink")의 프로그램이다. [이영돈](../Page/이영돈.md "wikilink")PD가 직접 발로 뛰면서 궁금한 모든 것을 풀어보는 프로그램이다.\[1\]

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ VI](https://ko.wikipedia.org/wiki/_VI).
+> This article is converted from Wikipedia: [삼국지 VI](https://ko.wikipedia.org/wiki/삼국지_VI).
 
 
 《**삼국지 VI**》(Romance of the Three Kingdoms VI: Awakening of the Dragon)는 일본의 KOEI사가 만든 [삼국지 시리즈의](https://ko.wikipedia.org/wiki/삼국지_시리즈 "wikilink") 6번째 작품이다. RPG와 구별 되는 턴전략 시뮬레이션이라는 작품군의 6번째 작품이 된다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FIBA    ](https://ko.wikipedia.org/wiki/FIBA____).
+> This article is converted from Wikipedia: [FIBA 아시아 여자 선수권 대회](https://ko.wikipedia.org/wiki/FIBA_아시아_여자_선수권_대회).
 
 
 **FIBA 여자농구 아시아컵**은[FIBA](https://ko.wikipedia.org/wiki/FIBA "wikilink")에 가입된 아시아 지역 [여자 농구 대표팀들이](https://ko.wikipedia.org/wiki/여자_농구 "wikilink") 참여하는 여자 [농구](../Page/농구.md "wikilink") 분야의 국제 대회이다.

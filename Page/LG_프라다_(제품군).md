@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [LG  \(\)](https://ko.wikipedia.org/wiki/LG__\(\)).
+> This article is converted from Wikipedia: [LG 프라다 \(제품군\)](https://ko.wikipedia.org/wiki/LG_프라다_\(제품군\)).
 
 
 **프라다**(PRADA)는 [프라다](../Page/프라다.md "wikilink")가 설계하고 [LG 전자가](https://ko.wikipedia.org/wiki/LG_전자 "wikilink") 제조하고 출시하는 [휴대전화](https://ko.wikipedia.org/wiki/휴대전화 "wikilink") 시리즈이다.

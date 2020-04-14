@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [L.A. ](https://ko.wikipedia.org/wiki/L.A._).
+> This article is converted from Wikipedia: [L.A. 누아르](https://ko.wikipedia.org/wiki/L.A._누아르).
 
 
 《**L.A. 누아르**》(*L.A. Noire*)는 오스트레일리아의 개발사 [팀 본디가](https://ko.wikipedia.org/wiki/팀_본디 "wikilink") 개발, 미국의 [록스타 게임스에서](../Page/록스타_게임스.md "wikilink") 출시된 게임 소프트웨어이다.

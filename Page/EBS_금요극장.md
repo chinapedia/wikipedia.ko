@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [EBS ](https://ko.wikipedia.org/wiki/EBS_).
+> This article is converted from Wikipedia: [EBS 금요극장](https://ko.wikipedia.org/wiki/EBS_금요극장).
 
 
 **금요극장**은 [2011년](../Page/2011년.md "wikilink") [3월 4일부터](../Page/3월_4일.md "wikilink") [2013년](../Page/2013년.md "wikilink") [8월 23일까지](../Page/8월_23일.md "wikilink") 방영되었고 이후 [2017년](../Page/2017년.md "wikilink") [3월 3일부터](../Page/3월_3일.md "wikilink") 다시 재개하여 [2019년](../Page/2019년.md "wikilink") [8월 16일까지](../Page/8월_16일.md "wikilink") [EBS 1TV로](../Page/EBS_1TV.md "wikilink") 방송되었던 [한국교육방송공사](../Page/한국교육방송공사.md "wikilink")의 [시네마](https://ko.wikipedia.org/wiki/시네마 "wikilink") 전문 [텔레비전 프로그램이다](../Page/텔레비전_프로그램.md "wikilink").
@@ -135,7 +135,7 @@
 <tr class="even">
 <td><p>16회</p></td>
 <td><p><a href="../Page/6월_17일.md" title="wikilink">6월 17일</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/조다_악바르" title="wikilink">조다 악바르</a></p></td>
+<td><p><a href="../Page/조다_악바르.md" title="wikilink">조다 악바르</a></p></td>
 <td><p><a href="../Page/금요일.md" title="wikilink">금요일</a> 밤 12:05 ~ 1:50 (105분)</p></td>
 </tr>
 <tr class="odd">
@@ -595,7 +595,7 @@
 <tr class="odd">
 <td><p>90회</p></td>
 <td><p><a href="../Page/12월_7일.md" title="wikilink">12월 7일</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/카모메_식당" title="wikilink">카모메 식당</a></p></td>
+<td><p><a href="../Page/카모메_식당.md" title="wikilink">카모메 식당</a></p></td>
 <td><p><a href="../Page/금요일.md" title="wikilink">금요일</a> 밤 12:00 ~ 1:45 (105분)</p></td>
 </tr>
 <tr class="even">
@@ -761,7 +761,7 @@
 <tr class="even">
 <td><p>115회</p></td>
 <td><p><a href="../Page/6월_7일.md" title="wikilink">6월 7일</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/그르바비차" title="wikilink">그르바비차</a></p></td>
+<td><p><a href="../Page/그르바비차.md" title="wikilink">그르바비차</a></p></td>
 <td><p><a href="../Page/금요일.md" title="wikilink">금요일</a> 밤 11:15 ~ 12:50 (95분)</p></td>
 </tr>
 <tr class="odd">
@@ -897,13 +897,13 @@
 <tr class="odd">
 <td><p>9회</p></td>
 <td><p><a href="../Page/4월_28일.md" title="wikilink">4월 28일</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/아름다운_비행" title="wikilink">아름다운 비행</a></p></td>
+<td><p><a href="../Page/아름다운_비행.md" title="wikilink">아름다운 비행</a></p></td>
 <td><p><a href="../Page/금요일.md" title="wikilink">금요일</a> 밤 12:25 ~ 2:15 (110분)</p></td>
 </tr>
 <tr class="even">
 <td><p>10회</p></td>
 <td><p><a href="../Page/5월_5일.md" title="wikilink">5월 5일</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/열두살_샘" title="wikilink">열두살 샘</a></p></td>
+<td><p><a href="../Page/열두살_샘.md" title="wikilink">열두살 샘</a></p></td>
 <td><p><a href="../Page/금요일.md" title="wikilink">금요일</a> 밤 12:25 ~ 1:55 (90분)</p></td>
 </tr>
 <tr class="odd">
@@ -1053,7 +1053,7 @@
 <tr class="odd">
 <td><p>35회</p></td>
 <td><p><a href="../Page/11월_3일.md" title="wikilink">11월 3일</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/달콤한_인생_(1960년_영화)" title="wikilink">달콤한 인생</a></p></td>
+<td><p><a href="../Page/달콤한_인생_(1960년_영화).md" title="wikilink">달콤한 인생</a></p></td>
 <td><p><a href="../Page/금요일.md" title="wikilink">금요일</a> 밤 12:30 ~ 3:25 (175분)</p></td>
 </tr>
 <tr class="even">
@@ -1177,7 +1177,7 @@
 <tr class="odd">
 <td><p>53회</p></td>
 <td><p><a href="../Page/3월_16일.md" title="wikilink">3월 16일</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/특별한_날" title="wikilink">특별한 날</a></p></td>
+<td><p><a href="../Page/특별한_날.md" title="wikilink">특별한 날</a></p></td>
 <td><p><a href="../Page/금요일.md" title="wikilink">금요일</a> 새벽 1:15 ~ 3:00 (105분)</p></td>
 </tr>
 <tr class="even">
@@ -1297,7 +1297,7 @@
 <tr class="odd">
 <td><p>73회</p></td>
 <td><p><a href="../Page/8월_3일.md" title="wikilink">8월 3일</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/열두살_샘" title="wikilink">열두살 샘</a></p></td>
+<td><p><a href="../Page/열두살_샘.md" title="wikilink">열두살 샘</a></p></td>
 <td><p><a href="../Page/금요일.md" title="wikilink">금요일</a> 새벽 1:15 ~ 2:45 (90분)</p></td>
 </tr>
 <tr class="even">
@@ -1547,7 +1547,7 @@
 <tr class="odd">
 <td><p>112회</p></td>
 <td><p><a href="../Page/5월_17일.md" title="wikilink">5월 17일</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/카모메_식당" title="wikilink">카모메 식당</a></p></td>
+<td><p><a href="../Page/카모메_식당.md" title="wikilink">카모메 식당</a></p></td>
 <td><p><a href="../Page/금요일.md" title="wikilink">금요일</a> 밤 12:55</p></td>
 </tr>
 <tr class="even">
@@ -1589,7 +1589,7 @@
 <tr class="even">
 <td><p>119회</p></td>
 <td><p><a href="../Page/7월_5일.md" title="wikilink">7월 5일</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/노마_레이" title="wikilink">노마 레이</a></p></td>
+<td><p><a href="../Page/노마_레이.md" title="wikilink">노마 레이</a></p></td>
 <td><p><a href="../Page/금요일.md" title="wikilink">금요일</a> 밤 12:55</p></td>
 </tr>
 <tr class="odd">

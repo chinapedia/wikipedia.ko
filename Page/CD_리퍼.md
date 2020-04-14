@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [CD ](https://ko.wikipedia.org/wiki/CD_).
+> This article is converted from Wikipedia: [CD 리퍼](https://ko.wikipedia.org/wiki/CD_리퍼).
 
 
 [thumb](https://ko.wikipedia.org/wiki/파일:RipperX.png "wikilink")

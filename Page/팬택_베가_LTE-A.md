@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  LTE-A](https://ko.wikipedia.org/wiki/__LTE-A).
+> This article is converted from Wikipedia: [팬택 베가 LTE-A](https://ko.wikipedia.org/wiki/팬택_베가_LTE-A).
 
 
 **팬택 베가 LTE-A** (Pantech VEGA LTE-A)는 [팬택](../Page/팬택.md "wikilink")에서 2013년 8월 19일에 출시한 SK텔레콤 전용 모델 [구글 안드로이드](https://ko.wikipedia.org/wiki/구글_안드로이드 "wikilink") [패블릿](../Page/패블릿.md "wikilink") [스마트폰](../Page/스마트폰.md "wikilink")이다. 원래는 베가 시크릿 업의 원형 모델로 출시될 예정이었으나 SK텔레콤의 요청으로 SK텔레콤 전용 모델로 출시되었다. [팬택](../Page/팬택.md "wikilink") 최초로 [LTE-A](../Page/LTE_어드밴스트.md "wikilink") 통신을 지원하는 스마트폰으로써 출시 당시 [LTE-A를](../Page/LTE_어드밴스트.md "wikilink") 지원하는 스마트폰들 중 디스플레이 크기가 가장 큰 Full HD 화면을 가지고 있었으며, [세계](../Page/세계.md "wikilink") 최초로 후면의 **시크릿 키**를 통해 지문인식 기능이 적용되었다. 또한 2Ah 급속충전으로 1시간 34분 만에 완전히 충전할 수 있으며, 이후 지문인식과 시크릿박스 등 베가 LTE-A에서 한 층 더 업그레이드 된 스마트폰인 [베가 시크릿 업이](https://ko.wikipedia.org/wiki/베가_시크릿_업 "wikilink") 출시되었다.\[1\].

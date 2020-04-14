@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KC \(\)](https://ko.wikipedia.org/wiki/KC_\(\)).
+> This article is converted from Wikipedia: [KC \(기업\)](https://ko.wikipedia.org/wiki/KC_\(기업\)).
 
 
 **KC**는 대한민국 유일의 수산화 알루미늄 제조 전문 [주식회사](../Page/주식회사.md "wikilink")이다. 상하수 처리제와 제올라이트 등 범용 화학제품의 기초 원료와 인조 대리석, 세라믹, 내화물 등 첨단 신소재의 원료를 생산하고 있다.\[1\] 전신은 [한국종합화학공업](../Page/한국종합화학공업.md "wikilink")이라는 국영기업이었으며 IMF 이후인 2001년 민영화되었다.\[2\] 기업 명칭은 국문 명칭인 **한국화학**을 거쳐 영문 명칭인 **Korea Chemical**에서 유래하였다. 본사는 [전라남도](https://ko.wikipedia.org/wiki/전라남도 "wikilink") [영암군](../Page/영암군.md "wikilink") [삼호읍](../Page/삼호읍.md "wikilink") 산단서부로 85번지에 위치하고 있으며 서울지점은 [서울특별시](../Page/서울특별시.md "wikilink") [마포구](../Page/마포구.md "wikilink") 마포대로 19 신화빌딩 13층에 위치하고 있다.
@@ -24,7 +24,6 @@
   - [삼양산업](https://ko.wikipedia.org/wiki/삼양산업 "wikilink")
   - [한국알루미나](../Page/한국알루미나.md "wikilink")
   - [코레스](https://ko.wikipedia.org/wiki/코레스 "wikilink")
-  - [케이씨세라믹](https://ko.wikipedia.org/wiki/케이씨세라믹 "wikilink")
 
 ## 같이 보기
 
@@ -44,7 +43,7 @@
 
 ## 외부 링크
 
-  - [KC 홈페이지](http://www.kccorp.co.kr/)
+  - [KC 홈페이지](http://kc.daejookc.com/index.htm)
 
 [분류:영암군](https://ko.wikipedia.org/wiki/분류:영암군 "wikilink") [분류:전라남도의 기업](https://ko.wikipedia.org/wiki/분류:전라남도의_기업 "wikilink") [분류:2001년 설립](https://ko.wikipedia.org/wiki/분류:2001년_설립 "wikilink")
 

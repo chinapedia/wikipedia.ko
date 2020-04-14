@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ VS ](https://ko.wikipedia.org/wiki/_VS_).
+> This article is converted from Wikipedia: [여선생 VS 여제자](https://ko.wikipedia.org/wiki/여선생_VS_여제자).
 
 
 《**여선생 VS 여제자**》()는 2004년 개봉한 [대한민국](../Page/대한민국.md "wikilink")의 코미디 영화이다.
@@ -19,7 +19,7 @@
   - [김응수](../Page/김응수_\(배우\).md "wikilink") : 교감 역
   - [이재구](../Page/이재구_\(배우\).md "wikilink") : 김준성 역
   - [하덕성](../Page/하덕성.md "wikilink") : 반동만 역
-  - [최보광](https://ko.wikipedia.org/wiki/최정인_\(배우\) "wikilink") : 장수경 역
+  - [최보광](../Page/최정인_\(배우\).md "wikilink") : 장수경 역
   - [김정영](../Page/김정영.md "wikilink") : 양경미 역
   - 박길순 : 유부녀여선생 역
   - 이영미 : 유부녀여선생 역

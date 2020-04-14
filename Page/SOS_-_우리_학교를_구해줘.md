@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SOS -   ](https://ko.wikipedia.org/wiki/SOS_-___).
+> This article is converted from Wikipedia: [SOS - 우리 학교를 구해줘](https://ko.wikipedia.org/wiki/SOS_-_우리_학교를_구해줘).
 
 
 《**SOS**》는 [2012년](../Page/2012년.md "wikilink") [5월 20일부터](../Page/5월_20일.md "wikilink") [2012년](../Page/2012년.md "wikilink") [5월 27일까지](../Page/5월_27일.md "wikilink") 방영된 [KBS 드라마 스페셜 연작 시리즈](../Page/KBS_드라마_스페셜_연작_시리즈.md "wikilink") 시즌2의 마지막 여덟 번째 [작품이다](../Page/텔레비전_드라마.md "wikilink").

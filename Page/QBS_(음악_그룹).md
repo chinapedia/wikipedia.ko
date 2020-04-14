@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [QBS \( \)](https://ko.wikipedia.org/wiki/QBS_\(_\)).
+> This article is converted from Wikipedia: [QBS \(음악 그룹\)](https://ko.wikipedia.org/wiki/QBS_\(음악_그룹\)).
 
 
 **QBS**는 대한민국의 걸 그룹 [티아라의](../Page/티아라_\(음악_그룹\).md "wikilink") 두 번째 유닛 그룹이다. [큐리](../Page/큐리.md "wikilink"), [보람](../Page/보람.md "wikilink"), [소연으로](https://ko.wikipedia.org/wiki/소연_\(가수\) "wikilink") 구성되어 있으며, 일본에서 활동하고, 그룹명인 QBS는 큐리, 보람, 소연의 영어 이니셜에서 따왔다.

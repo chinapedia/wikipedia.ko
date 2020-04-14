@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TAP    ](https://ko.wikipedia.org/wiki/TAP____).
+> This article is converted from Wikipedia: [TAP 포르투갈 항공의 운항 노선](https://ko.wikipedia.org/wiki/TAP_포르투갈_항공의_운항_노선).
 
 
 [2019년](../Page/2019년.md "wikilink") [1월](../Page/1월.md "wikilink") 기준으로 **[TAP 포르투갈](https://ko.wikipedia.org/wiki/TAP_포르투갈 "wikilink")**은 다음과 같은 노선을 운항하고 있다. 단 [TAP 익스프레스의](../Page/TAP_익스프레스.md "wikilink") 운항 노선은 제외한다.

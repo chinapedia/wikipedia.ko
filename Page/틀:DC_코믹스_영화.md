@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:DC  ](https://ko.wikipedia.org/wiki/:DC__).
+> This article is converted from Wikipedia: [틀:DC 코믹스 영화](https://ko.wikipedia.org/wiki/틀:DC_코믹스_영화).
 
 
 [슈퍼맨 4: 최강의 적](../Page/슈퍼맨_4:_최강의_적.md "wikilink"){{·}} [슈퍼맨 리턴즈](https://ko.wikipedia.org/wiki/슈퍼맨_리턴즈 "wikilink")

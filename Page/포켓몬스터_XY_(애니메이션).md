@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ XY \(\)](https://ko.wikipedia.org/wiki/_XY_\(\)).
+> This article is converted from Wikipedia: [포켓몬스터 XY \(애니메이션\)](https://ko.wikipedia.org/wiki/포켓몬스터_XY_\(애니메이션\)).
 
 
 《**포켓몬스터 XY**》(, )는 애니메이션 [포켓몬스터](../Page/포켓몬스터.md "wikilink")의 다섯 번째 시리즈이며, 일본에서 [TV 도쿄를](../Page/TV_도쿄.md "wikilink") 통해 [2013년](../Page/2013년.md "wikilink") [10월 17일부터](../Page/10월_17일.md "wikilink") [2016년](../Page/2016년.md "wikilink") [11월 10일까지](../Page/11월_10일.md "wikilink") 방영되었다. 배경 지방은 [칼로스 지방이다](https://ko.wikipedia.org/wiki/칼로스_지방 "wikilink"). 대한민국에서는 [2014년](../Page/2014년.md "wikilink") [3월 10일부터](../Page/3월_10일.md "wikilink") [2016년](../Page/2016년.md "wikilink") [12월 13일까지](../Page/12월_13일.md "wikilink") 방영했다.

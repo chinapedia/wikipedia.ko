@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ 3 vs   THE MOVIE](https://ko.wikipedia.org/wiki/_3_vs___THE_MOVIE).
+> This article is converted from Wikipedia: [루팡 3세 vs 명탐정 코난 THE MOVIE](https://ko.wikipedia.org/wiki/루팡_3세_vs_명탐정_코난_THE_MOVIE).
 
 
 **루팡 3세 VS 명탐정 코난 THE MOVIE**()는 일본 [NTV](../Page/닛폰_TV_방송망.md "wikilink") 개국 60주년과 [요미우리 TV](../Page/요미우리_TV_방송.md "wikilink") 개국 55주년 기념 영화로 [2013년](../Page/2013년.md "wikilink") [12월 7일](../Page/12월_7일.md "wikilink") 개봉, 몽키 펀치의 원작 '[루팡 3세](https://ko.wikipedia.org/wiki/루팡_3세 "wikilink")'와 아오야마 고쇼의 원작 "[명탐정 코난](../Page/명탐정_코난.md "wikilink")"과 합작 작품이다. 대한민국은 [2014년](../Page/2014년.md "wikilink") [5월 29일](../Page/5월_29일.md "wikilink") 상영을 하였으며, 같은 해인 [8월 1일](../Page/8월_1일.md "wikilink") [투니버스](../Page/투니버스.md "wikilink")에서 방영을 하였으며 또한 이듬해인 [2015년](../Page/2015년.md "wikilink") [3월 7일에는](../Page/3월_7일.md "wikilink") 영화전문채널인 [OCN에서도](../Page/OCN_\(텔레비전_채널\).md "wikilink") 방영을 하였다.
@@ -90,7 +90,7 @@
 
 <references group="주" />
 
-[분류:명탐정 코난 영화](https://ko.wikipedia.org/wiki/분류:명탐정_코난_영화 "wikilink") [분류:2013년 애니메이션 영화](https://ko.wikipedia.org/wiki/분류:2013년_애니메이션_영화 "wikilink") [분류:일본의 영화 작품](https://ko.wikipedia.org/wiki/분류:일본의_영화_작품 "wikilink") [루팡_3세](https://ko.wikipedia.org/wiki/분류:루팡_3세 "wikilink") [분류:애니메이션의 크로스오버 작품](https://ko.wikipedia.org/wiki/분류:애니메이션의_크로스오버_작품 "wikilink") [분류:일본의 만화](https://ko.wikipedia.org/wiki/분류:일본의_만화 "wikilink") [분류:CJ 엔터테인먼트 애니메이션 영화](https://ko.wikipedia.org/wiki/분류:CJ_엔터테인먼트_애니메이션_영화 "wikilink")
+[분류:명탐정 코난 영화](https://ko.wikipedia.org/wiki/분류:명탐정_코난_영화 "wikilink") [분류:2013년 애니메이션 영화](https://ko.wikipedia.org/wiki/분류:2013년_애니메이션_영화 "wikilink") [분류:일본의 애니메이션 영화](https://ko.wikipedia.org/wiki/분류:일본의_애니메이션_영화 "wikilink") [루팡_3세](https://ko.wikipedia.org/wiki/분류:루팡_3세 "wikilink") [분류:애니메이션의 크로스오버 작품](https://ko.wikipedia.org/wiki/분류:애니메이션의_크로스오버_작품 "wikilink") [분류:일본의 만화](https://ko.wikipedia.org/wiki/분류:일본의_만화 "wikilink") [분류:CJ 엔터테인먼트 애니메이션 영화](https://ko.wikipedia.org/wiki/분류:CJ_엔터테인먼트_애니메이션_영화 "wikilink")
 
 1.  명탐정 코난에서 캐릭터 소개할 때에 메인 테마 이외의 BGM이 흐른 것은 처음이다.
 2.  또한, 시작 부분의 액션신에서도 이 테마가 사용되고 있는 것 외에 중반의 액션신은 코난 서스펜스1이라는 제목의 사운드트랙이 사용되고 있므며, 이 테마의 편곡이다.

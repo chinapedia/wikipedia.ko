@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [2013 CONCACAF ](https://ko.wikipedia.org/wiki/2013_CONCACAF_).
+> This article is converted from Wikipedia: [2013년 CONCACAF 골드컵](https://ko.wikipedia.org/wiki/2013년_CONCACAF_골드컵).
 
 
 **2013년 CONCACAF 골드컵**(2013 CONCACAF Gold Cup)은 [2013년](../Page/2013년.md "wikilink") [7월 7일부터](../Page/7월_7일.md "wikilink") [7월 28일까지](../Page/7월_28일.md "wikilink") [미국](../Page/미국.md "wikilink")에서 개최된 12번째 [CONCACAF 골드컵이다](../Page/CONCACAF_골드컵.md "wikilink").

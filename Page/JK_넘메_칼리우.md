@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [JK  ](https://ko.wikipedia.org/wiki/JK__).
+> This article is converted from Wikipedia: [JK 넘메 칼리우](https://ko.wikipedia.org/wiki/JK_넘메_칼리우).
 
 
 **JK 넘메 칼리우**()는 [에스토니아](../Page/에스토니아.md "wikilink")의 수도 [탈린](../Page/탈린.md "wikilink")의 교외 지역인 넘메(Nõmme)를 연고로 하는 축구 클럽이다. 현재는 [메이스트릴리가](../Page/메이스트릴리가.md "wikilink")에 참가하고 있다.

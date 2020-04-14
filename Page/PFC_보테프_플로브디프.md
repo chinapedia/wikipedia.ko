@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [PFC  ](https://ko.wikipedia.org/wiki/PFC__).
+> This article is converted from Wikipedia: [PFC 보테프 플로브디프](https://ko.wikipedia.org/wiki/PFC_보테프_플로브디프).
 
 
 **PFC 보테프 플로브디프**()는 [플로브디프](../Page/플로브디프.md "wikilink")를 연고로 하는 [불가리아](../Page/불가리아.md "wikilink")의 축구 클럽이다. 현재는 [A PFG에](https://ko.wikipedia.org/wiki/A_PFG "wikilink") 참가하고 있다. 클럽 이름에서 '보테프'는 불가리아의 시인이자 혁명가인 [흐리스토 보테프를](../Page/흐리스토_보테프.md "wikilink") 기념하기 위해 붙여진 이름이다.

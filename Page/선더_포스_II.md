@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  II](https://ko.wikipedia.org/wiki/__II).
+> This article is converted from Wikipedia: [선더 포스 II](https://ko.wikipedia.org/wiki/선더_포스_II).
 
 
 **선더 포스 II**(サンダーフォース II)는 [선더 포스 시리즈의](https://ko.wikipedia.org/wiki/선더_포스_시리즈 "wikilink") 두 번째 작품이다.

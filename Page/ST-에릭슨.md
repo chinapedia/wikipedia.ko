@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ST-](https://ko.wikipedia.org/wiki/ST-).
+> This article is converted from Wikipedia: [ST-에릭슨](https://ko.wikipedia.org/wiki/ST-에릭슨).
 
 
 **ST-에릭슨**은 무선 통신기기 제조업체에 무선 통신 제품과 반도체를 공급하는 스위스 제조업체이다.\[1\] ST-에릭슨은 [2009년](../Page/2009년.md "wikilink") [2월 3일](../Page/2월_3일.md "wikilink") [에릭슨](https://ko.wikipedia.org/wiki/에릭슨 "wikilink")과 [ST마이크로일렉트로닉스](../Page/ST마이크로일렉트로닉스.md "wikilink")가 50 대 50으로 투자한 조인트 벤처이다. [스위스](https://ko.wikipedia.org/wiki/스위스 "wikilink") [제네바](../Page/제네바.md "wikilink")에 본사를 두고 있으며, [파운드리](https://ko.wikipedia.org/wiki/파운드리 "wikilink") 회사에 반도체 제조를 외주 주는 [팹리스 반도체 기업이다](../Page/팹리스_반도체_기업.md "wikilink"). 에릭슨과 ST마이크로일렉트로닉스는 에릭슨의 사장이자 CEO인 한스 베스트버그 이사회 의장과 ST마이크로일렉트로닉스의 사장이자 CEO인 카를로 보조티 부의장과 함께 네명의 이사를 이사회로 임명한다.

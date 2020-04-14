@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TV ...](https://ko.wikipedia.org/wiki/TV_...).
+> This article is converted from Wikipedia: [TV를 껐네...](https://ko.wikipedia.org/wiki/TV를_껐네...).
 
 
 "**TV를 껐네...**"은 남성 힙합 듀오 [리쌍](../Page/리쌍.md "wikilink")의 노래이다. 정규 7집 음반 *[AsuRa BalBalTa](../Page/AsuRa_BalBalTa.md "wikilink")*의 수록곡으로, 2011년 8월 25일 음반 발매에 앞서 8월 16일에 미리 공개되었다. [개리가](https://ko.wikipedia.org/wiki/개리_\(가수\) "wikilink") 작사를 맡았고, [길이](../Page/길_\(가수\).md "wikilink") 작곡을 하였다. 프로듀싱은 [프라이머리가](../Page/프라이머리_\(음악가\).md "wikilink") 하였다. 연인들의 심리를 표현한 이 노래는 [윤미래](../Page/윤미래.md "wikilink")와 [10cm의](../Page/10cm_\(음악_그룹\).md "wikilink") 권정열이 피처링을 하였다.

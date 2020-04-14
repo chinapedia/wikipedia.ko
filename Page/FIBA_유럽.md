@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FIBA ](https://ko.wikipedia.org/wiki/FIBA_).
+> This article is converted from Wikipedia: [FIBA 유럽](https://ko.wikipedia.org/wiki/FIBA_유럽).
 
 
 **FIBA 유럽**(-Europe)은 [국제 농구 연맹](../Page/국제_농구_연맹.md "wikilink") (FIBA)의 산하에 있는 대륙 연맹으로, 유럽에서의 농구 운영 · 관리 · 보급 활동을 실시한다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ S](https://ko.wikipedia.org/wiki/_S).
+> This article is converted from Wikipedia: [씨네타운 S](https://ko.wikipedia.org/wiki/씨네타운_S).
 
 
 《**씨네타운 S**》는 인기 팟캐스트 **씨네타운 19**의 지상파 라디오 버전으로 2013년 [SBS 파워FM](../Page/SBS_파워FM.md "wikilink") 봄 개편으로 새로 신설된 라디오 프로그램이다. 매주 일요일 오전 11시 \~ 12시 까지 방송되며 현직 SBS 라디오 PD인 김훈종 PD와 이승훈 PD, [이재익](../Page/이재익_\(소설가\).md "wikilink") PD가 뭉쳐 전문 영화평론이 아닌 PD들의 눈으로 본 영화를 설명한다. 2019년 7월 7일 SBS 라디오 부분 개편으로 폐지되었다.

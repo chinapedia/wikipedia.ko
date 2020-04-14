@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  III](https://ko.wikipedia.org/wiki/__III).
+> This article is converted from Wikipedia: [선더 포스 III](https://ko.wikipedia.org/wiki/선더_포스_III).
 
 
 **선더 포스 III**(サンダーフォース III)은 [선더 포스 시리즈의](https://ko.wikipedia.org/wiki/선더_포스_시리즈 "wikilink") 세 번째 작품이다.

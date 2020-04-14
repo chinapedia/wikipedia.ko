@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [\& RPG  ](https://ko.wikipedia.org/wiki/\&_RPG__).
+> This article is converted from Wikipedia: [마리오\&루이지 RPG 시간의 파트너](https://ko.wikipedia.org/wiki/마리오\&루이지_RPG_시간의_파트너).
 
 
 **《마리오&루이지 RPG 시간의 파트너》**(Mario & Luigi: Partners In Time) 또는 **《마리오&루이지 RPG 2》**(<small>; 패키지명</small> )는 북미에서 닌텐도 DS 용으로 2005년 11월 28일 먼저 발매되었으며, 일본에서는 2005년 11월 29일 발매되었으며, 대한민국에서는 일본명과 외국 부제명과 합쳐 **마리오&루이지 RPG 시간의 파트너**라는 명으로 2010년 7월 08일에 발매되었다.

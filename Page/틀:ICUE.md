@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:ICUE](https://ko.wikipedia.org/wiki/:ICUE).
+> This article is converted from Wikipedia: [틀:ICUE](https://ko.wikipedia.org/wiki/틀:ICUE).
 
 
 <onlyinclude></onlyinclude>

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FK AS ](https://ko.wikipedia.org/wiki/FK_AS_).
+> This article is converted from Wikipedia: [FK AS 트렌친](https://ko.wikipedia.org/wiki/FK_AS_트렌친).
 
 
 **FK AS 트렌친**()은 [트렌친](../Page/트렌친.md "wikilink")을 연고로 하는 [슬로바키아](../Page/슬로바키아.md "wikilink")의 축구 클럽이다. 현재는 [슬로바키아 수페르리가에](../Page/슬로바키아_수페르리가.md "wikilink") 참가하고 있다.

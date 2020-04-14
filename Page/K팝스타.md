@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [K](https://ko.wikipedia.org/wiki/K).
+> This article is converted from Wikipedia: [K팝스타](https://ko.wikipedia.org/wiki/K팝스타).
 
 
 《**K팝스타**》(K-POP STAR)는 [SBS의](../Page/SBS_\(대한민국의_방송사\).md "wikilink") 오디션 프로그램이다.

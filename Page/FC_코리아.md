@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FC ](https://ko.wikipedia.org/wiki/FC_).
+> This article is converted from Wikipedia: [FC 코리아](https://ko.wikipedia.org/wiki/FC_코리아).
 
 
 **FC 코리아**(FC Korea)는 [재일본조선인총련합회](../Page/재일본조선인총련합회.md "wikilink")계 [재일 조선인을](../Page/재일_한국인.md "wikilink") 주축으로 하는 [일본](../Page/일본.md "wikilink")의 [축구](../Page/축구.md "wikilink")단으로 일본 간토 사커 리그 및 [독립 축구 협회 연맹에](../Page/독립_축구_협회_연맹.md "wikilink") 소속되어 있는 팀이며 홈 경기장은 [도쿄](../Page/도쿄.md "wikilink")에 위치한 아카바네 파크 스타디움이다.

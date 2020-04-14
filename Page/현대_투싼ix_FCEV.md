@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ ix FCEV](https://ko.wikipedia.org/wiki/_ix_FCEV).
+> This article is converted from Wikipedia: [현대 투싼ix FCEV](https://ko.wikipedia.org/wiki/현대_투싼ix_FCEV).
 
 
 **현대 투싼ix FCEV**는 [현대자동차](https://ko.wikipedia.org/wiki/현대자동차 "wikilink")가 세계 최초로 개발한 양산형 [수소차](https://ko.wikipedia.org/wiki/수소차 "wikilink") 모델이다. 세계적으로 [메르세데스 벤츠](https://ko.wikipedia.org/wiki/메르세데스_벤츠 "wikilink") F-Cell 등 다른 모델이 많이 개발되었으나, 대량생산은 세계 최초이다.

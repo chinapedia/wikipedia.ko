@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  \(Rum Pum Pum Pum\)](https://ko.wikipedia.org/wiki/__\(Rum_Pum_Pum_Pum\)).
+> This article is converted from Wikipedia: [첫 사랑니 \(Rum Pum Pum Pum\)](https://ko.wikipedia.org/wiki/첫_사랑니_\(Rum_Pum_Pum_Pum\)).
 
 
 《**첫 사랑니 (Rum Pum Pum Pum)**》는 [대한민국](../Page/대한민국.md "wikilink")의 음악 그룹 [f(x)](https://ko.wikipedia.org/wiki/f\(x\) "wikilink")의 노래이다. [2013년](../Page/2013년.md "wikilink") [7월 29일에](../Page/7월_29일.md "wikilink") [f(x)](https://ko.wikipedia.org/wiki/f\(x\) "wikilink")가 발매한《[Pink Tape](../Page/Pink_Tape.md "wikilink")》의 타이틀 곡이다.

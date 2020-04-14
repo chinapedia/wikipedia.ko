@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KBS  1](https://ko.wikipedia.org/wiki/KBS__1).
+> This article is converted from Wikipedia: [KBS 다큐 1](https://ko.wikipedia.org/wiki/KBS_다큐_1).
 
 
 《**KBS 다큐 1**》은 매주 [목요일](../Page/목요일.md "wikilink"), [금요일](../Page/금요일.md "wikilink") 밤 10시에 [KBS 1TV에서](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink") 방송한 [다큐멘터리 텔레비전 프로그램이다](../Page/다큐멘터리_텔레비전_프로그램.md "wikilink").

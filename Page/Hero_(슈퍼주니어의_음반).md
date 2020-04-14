@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Hero \( \)](https://ko.wikipedia.org/wiki/Hero_\(_\)).
+> This article is converted from Wikipedia: [Hero \(슈퍼주니어의 음반\)](https://ko.wikipedia.org/wiki/Hero_\(슈퍼주니어의_음반\)).
 
 
 | 이 앨범에 수록된 싱글                                                                |

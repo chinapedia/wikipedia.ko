@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [CIELAB  ](https://ko.wikipedia.org/wiki/CIELAB__).
+> This article is converted from Wikipedia: [CIELAB 색 공간](https://ko.wikipedia.org/wiki/CIELAB_색_공간).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Lab_color_space.png "wikilink") 에 해당하는 영역만을 보여주는 그림. 각 사각형은 -128에서 128까지의 영역을 나타낸다.\]\]

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Numis cite SCWC](https://ko.wikipedia.org/wiki/:Numis_cite_SCWC).
+> This article is converted from Wikipedia: [틀:Numis cite SCWC](https://ko.wikipedia.org/wiki/틀:Numis_cite_SCWC).
 
 
 <includeonly> |others={{\#switch:

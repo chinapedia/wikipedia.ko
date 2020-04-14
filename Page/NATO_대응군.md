@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [NATO ](https://ko.wikipedia.org/wiki/NATO_).
+> This article is converted from Wikipedia: [NATO 대응군](https://ko.wikipedia.org/wiki/NATO_대응군).
 
 
 **NATO 대응군**()은 [북대서양 조약 기구가](../Page/북대서양_조약_기구.md "wikilink") 2002년 창설한 다국적 군사 조직으로, NATO의 단일 작전권 아래에 두는 최초의 부대이다. 전 세계 어디든지 5일 안에 1차 선발부대를 투입할 수 있고, 나머지 병력은 약 1개월 이내에 배치할 수 있다.

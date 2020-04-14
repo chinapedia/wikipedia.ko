@@ -111,7 +111,7 @@
 9.
 10.
 11.
-12. [Ticketnet.gr](http://www.ticketnet.gr/blunt.html)
+12.
 13.
 14. [RIAJ Certification Awards May 2006](http://www.riaj.or.jp/data/others/gold/200605.html)
 15.

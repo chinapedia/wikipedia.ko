@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [GNC \(\)](https://ko.wikipedia.org/wiki/GNC_\(\)).
+> This article is converted from Wikipedia: [GNC \(기업\)](https://ko.wikipedia.org/wiki/GNC_\(기업\)).
 
 
 **제너럴 뉴트리션 센터** (General Nutrition Centers, **GNC**)는 [비타민](../Page/비타민.md "wikilink"), [미네랄](https://ko.wikipedia.org/wiki/미네랄 "wikilink"), [허브](https://ko.wikipedia.org/wiki/허브 "wikilink")류, 스포츠 영양 보충제, 에너지 상품 등 건강 관련 기능 식품을 생산, 판매하는 전문 기업이다. 본사는 [미국](../Page/미국.md "wikilink") [피츠버그](../Page/피츠버그.md "wikilink")에 위치해 있다.

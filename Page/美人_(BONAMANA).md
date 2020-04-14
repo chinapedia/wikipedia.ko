@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ \(BONAMANA\)](https://ko.wikipedia.org/wiki/_\(BONAMANA\)).
+> This article is converted from Wikipedia: [美人 \(BONAMANA\)](https://ko.wikipedia.org/wiki/美人_\(BONAMANA\)).
 
 
 《**美人 (BONAMANA)**》은 그룹 [슈퍼주니어](../Page/슈퍼주니어.md "wikilink")의 일본에서 발매된 첫 번째 싱글이다.

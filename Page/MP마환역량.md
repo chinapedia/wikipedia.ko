@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [MP](https://ko.wikipedia.org/wiki/MP).
+> This article is converted from Wikipedia: [MP마환역량](https://ko.wikipedia.org/wiki/MP마환역량).
 
 
 **MP마환역량**(Magic Power, MP魔幻力量)은 [상신음악](https://ko.wikipedia.org/wiki/상신음악 "wikilink") 소속의 [중화민국](../Page/중화민국.md "wikilink") 6인조 밴드이다.

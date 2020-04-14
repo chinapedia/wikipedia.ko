@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [H album -HAND-](https://ko.wikipedia.org/wiki/H_album_-HAND-).
+> This article is converted from Wikipedia: [H album -H・A・N・D-](https://ko.wikipedia.org/wiki/H_album_-H・A・N・D-).
 
 
 《**H album -H・A・N・D-**》은 [KinKi Kids의](https://ko.wikipedia.org/wiki/KinKi_Kids "wikilink") 8번째 앨범이다. [2005년](../Page/2005년.md "wikilink") [11월 16일](../Page/11월_16일.md "wikilink") 발매. 최고순위는 1위이다.

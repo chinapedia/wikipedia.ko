@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FC  ](https://ko.wikipedia.org/wiki/FC__).
+> This article is converted from Wikipedia: [FC 페트롤룰 플로이에슈티](https://ko.wikipedia.org/wiki/FC_페트롤룰_플로이에슈티).
 
 
 **FC 페트롤룰 플로이에슈티**()는 [플로이에슈티](../Page/플로이에슈티.md "wikilink")를 연고로 하는 [루마니아](../Page/루마니아.md "wikilink")의 축구 클럽이다. 현재는 [리가 I에](../Page/리가_I.md "wikilink") 참가하고 있다.

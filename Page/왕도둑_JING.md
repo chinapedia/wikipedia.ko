@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ JING](https://ko.wikipedia.org/wiki/_JING).
+> This article is converted from Wikipedia: [왕도둑 JING](https://ko.wikipedia.org/wiki/왕도둑_JING).
 
 
 《**왕도둑 JING**》()은 주인공 징과 그의 동료인 까마귀 키르의 여행을 [옴니버스](https://ko.wikipedia.org/wiki/옴니버스 "wikilink")식으로 구성한 [쿠마쿠라 유이치의](https://ko.wikipedia.org/wiki/쿠마쿠라_유이치 "wikilink") [만화](../Page/만화.md "wikilink")작품이다. 총 13편으로 애니메이션화되었다. 등장인물이나 장소의 이름을 [술](../Page/술.md "wikilink")의 이름이나 칵테일 용어{{.c}}도구에서 따왔다는 특징이 있다. 주인공의 이름인 '징'(Jing)도 [진에서](https://ko.wikipedia.org/wiki/진_\(술\) "wikilink") 유래되었다.{{\#tag:ref|술이름인 진의 철자는 Jin이 아니라 Gin이지만, 제목 로고 디자인 과정에서 Jing으로 변형되었다.|group=주해}}

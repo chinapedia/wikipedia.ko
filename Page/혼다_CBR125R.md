@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ CBR125R](https://ko.wikipedia.org/wiki/_CBR125R).
+> This article is converted from Wikipedia: [혼다 CBR125R](https://ko.wikipedia.org/wiki/혼다_CBR125R).
 
 
 **혼다 CBR125R**(Honda CBR125R)은 [혼다](https://ko.wikipedia.org/wiki/혼다 "wikilink")가 만든 125 cc [4행정 기관](../Page/4행정_기관.md "wikilink") [스포츠 바이크이다](https://ko.wikipedia.org/wiki/스포츠_바이크 "wikilink").

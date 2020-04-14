@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [2013 COSAFA](https://ko.wikipedia.org/wiki/2013_COSAFA).
+> This article is converted from Wikipedia: [2013년 COSAFA컵](https://ko.wikipedia.org/wiki/2013년_COSAFA컵).
 
 
 **2013년 COSAFA컵**은 [남아프리카 축구 협의회의](https://ko.wikipedia.org/wiki/남아프리카_축구_협의회 "wikilink") 팀들이 모여 참가한 열네 번째 [COSAFA컵](../Page/COSAFA컵.md "wikilink") 대회이다. 본래 [2010년](../Page/2010년.md "wikilink")에 [앙골라](../Page/앙골라.md "wikilink")에서 개최될 예정이었으나 취소된 뒤 [2013년](../Page/2013년.md "wikilink")으로 연기되어 [잠비아](../Page/잠비아.md "wikilink")가 개최하게 되었다.

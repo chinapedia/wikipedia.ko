@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [BUSAIKU!\?](https://ko.wikipedia.org/wiki/BUSAIKU!\?).
+> This article is converted from Wikipedia: [키스마이BUSAIKU!\?](https://ko.wikipedia.org/wiki/키스마이BUSAIKU!\?).
 
 
 《**키스마이BUSAIKU\!?**》()는, [2013년](../Page/2013년.md "wikilink") [4월 21일부터](../Page/4월_21일.md "wikilink") [후지 TV에서](../Page/후지_TV.md "wikilink") 방송 중인 [버라이어티 프로그램이다](../Page/버라이어티_쇼.md "wikilink").

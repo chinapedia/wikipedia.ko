@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [AK \( \)](https://ko.wikipedia.org/wiki/AK_\(_\)).
+> This article is converted from Wikipedia: [AK \(음악 그룹\)](https://ko.wikipedia.org/wiki/AK_\(음악_그룹\)).
 
 
 **AK**(에케이)는 [달등 엔터테인먼트](https://ko.wikipedia.org/wiki/달등_엔터테인먼트 "wikilink") 소속의 [중화민국](../Page/중화민국.md "wikilink") 2인조 남성 음악 그룹이다.

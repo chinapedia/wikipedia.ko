@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Wikibase](https://ko.wikipedia.org/wiki/:Wikibase).
+> This article is converted from Wikipedia: [모듈:Wikibase](https://ko.wikipedia.org/wiki/모듈:Wikibase).
 
 
 \-- Module:Wikibase local p = {}

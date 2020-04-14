@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  FC](https://ko.wikipedia.org/wiki/__FC).
+> This article is converted from Wikipedia: [슬라이고 로버스 FC](https://ko.wikipedia.org/wiki/슬라이고_로버스_FC).
 
 
 **슬라이고 로버스 FC**(, )는 [슬라이고](../Page/슬라이고.md "wikilink")를 연고로 하는 [아일랜드](../Page/아일랜드.md "wikilink")의 축구 클럽이다. 현재는 [리그 오브 아일랜드 프리미어 디비전에](../Page/리그_오브_아일랜드_프리미어_디비전.md "wikilink") 참가하고 있다. 1928년 9월 27일에 창단되었으며, 1934년 [리그 오브 아일랜드에](https://ko.wikipedia.org/wiki/리그_오브_아일랜드 "wikilink") 가입하여 오늘에 이른다.

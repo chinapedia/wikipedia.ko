@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  R\&D ](https://ko.wikipedia.org/wiki/__R\&D_).
+> This article is converted from Wikipedia: [현대 기아 R\&D 역사관](https://ko.wikipedia.org/wiki/현대_기아_R\&D_역사관).
 
 
 ''' 현대 기아 R & D 박물관 '''은 2007년에 화성 남양에 위치한 R\&D연구소에서 개장하였다. [현대자동차](https://ko.wikipedia.org/wiki/현대자동차 "wikilink")와 [기아자동차](../Page/기아자동차.md "wikilink")의 단종 모델들을 보존 및 수집하여 역사적 가치가 있는 차량 20대를 전시하고 나머지는 공간상의 이유로 인해 창고에 190대를 보유하고 있다. 현대자동차는 여전히 이전에 생산된 모델을 찾고 있으며 [포드 코티나](../Page/포드_코티나.md "wikilink"), 기아 T-600같은 역사적 가치가 있는 모델들을 수집하고 있다.

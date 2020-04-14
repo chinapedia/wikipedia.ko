@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [U-](https://ko.wikipedia.org/wiki/U-).
+> This article is converted from Wikipedia: [U-이중성](https://ko.wikipedia.org/wiki/U-이중성).
 
 
 [M이론](../Page/M이론.md "wikilink")에서, **U-이중성**(U-二重性, )은 [S-이중성](../Page/S-이중성.md "wikilink")과 [T-이중성](../Page/T-이중성.md "wikilink")에 의하여 생성되는, [M이론](../Page/M이론.md "wikilink")의 이산 대칭군이다.

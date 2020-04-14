@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Eagles \(\)](https://ko.wikipedia.org/wiki/Eagles_\(\)).
+> This article is converted from Wikipedia: [Eagles \(음반\)](https://ko.wikipedia.org/wiki/Eagles_\(음반\)).
 
 
 《**Eagles**》는 [미국](../Page/미국.md "wikilink")의 록 밴드 [이글스](../Page/이글스.md "wikilink")의 데뷔 스튜디오 음반이다. 이 음반은 프로듀서 [글린 존스와](https://ko.wikipedia.org/wiki/글린_존스 "wikilink") 함께 [런던](../Page/런던.md "wikilink")의 [올림픽 스튜디오에서](https://ko.wikipedia.org/wiki/올림픽_스튜디오 "wikilink") 녹음되어 1972년에 발매되었다. 이 음반은 이 젊은 밴드에게 즉각적인 성공을 거두어 차트에서 22위에 올랐고 플래티넘에 올랐다. 음반에서 3개의 싱글이 발매되었는데, 각각 〈[Take It Easy](../Page/Take_It_Easy.md "wikilink")〉(12위), 〈[Witchy Woman](https://ko.wikipedia.org/wiki/Witchy_Woman "wikilink")〉(9위), 〈[Peaceful Easy Feeling](https://ko.wikipedia.org/wiki/Peaceful_Easy_Feeling "wikilink")〉(22위) 등 상위 40위에 올랐다. 이 음반을 시작으로 이 밴드는 [컨트리 록](https://ko.wikipedia.org/wiki/컨트리_록 "wikilink") 사운드를 대중화하는 데 큰 역할을 했다.\[1\]

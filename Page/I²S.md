@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [IS](https://ko.wikipedia.org/wiki/IS).
+> This article is converted from Wikipedia: [I²S](https://ko.wikipedia.org/wiki/I²S).
 
 
 **집적회로간 사운드**(Integrated Interchip Sound, **IIS**) 또는 **Inter-IC Sound**로 잘 알려진 **I<sup>2</sup>S**는 필립스에서 제정한 집적회로간 사운드 버스이다. I2는 inter ic를, S는 sound에 대한 약자이다. I2S 버스는 오디오 데이터 전송만을 다루는 목적으로 제정이 되었고 연결을 단순화하기 위해서 3 Line을 사용한다.

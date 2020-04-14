@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:NSA ](https://ko.wikipedia.org/wiki/:NSA_).
+> This article is converted from Wikipedia: [틀:NSA 감시](https://ko.wikipedia.org/wiki/틀:NSA_감시).
 
 
 }

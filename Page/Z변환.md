@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Z](https://ko.wikipedia.org/wiki/Z).
+> This article is converted from Wikipedia: [Z변환](https://ko.wikipedia.org/wiki/Z변환).
 
 
 **Z 변환**(Z-transform)은 [수학](../Page/수학.md "wikilink")이나 [신호 처리에서](https://ko.wikipedia.org/wiki/신호_처리 "wikilink") [실 수열](../Page/수열.md "wikilink") 또는 [복소 수열로](https://ko.wikipedia.org/wiki/복소_수열 "wikilink") 나타나는 시간 영역의 신호를 복소 [주파수 영역의](../Page/주파수_영역.md "wikilink") 표현으로 변환한다.

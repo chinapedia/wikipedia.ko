@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ RPG](https://ko.wikipedia.org/wiki/_RPG).
+> This article is converted from Wikipedia: [스틱 RPG](https://ko.wikipedia.org/wiki/스틱_RPG).
 
 
 《**스틱 RPG**》(Stick RPG)는 [플래시 게임으로](https://ko.wikipedia.org/wiki/플래시_게임 "wikilink") [X겐 스튜디오스가](https://ko.wikipedia.org/wiki/Xgen_Studios "wikilink") 제작한 [RPG](https://ko.wikipedia.org/wiki/RPG "wikilink")형식의 게임이다. [대한민국](../Page/대한민국.md "wikilink")에서는 **졸라맨 키우기**나 **파란색 졸라맨 키우기**로 알려졌다.

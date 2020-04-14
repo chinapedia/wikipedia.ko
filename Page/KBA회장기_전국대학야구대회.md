@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KBA ](https://ko.wikipedia.org/wiki/KBA_).
+> This article is converted from Wikipedia: [KBA회장기 전국대학야구대회](https://ko.wikipedia.org/wiki/KBA회장기_전국대학야구대회).
 
 
 **KBA회장기 전국대학야구대회**(KBA會長旗 全國大學野球大會)는 [대한야구협회](https://ko.wikipedia.org/wiki/대한야구협회 "wikilink")에서 주최하는 전국 규모의 대학야구대회이다. 춘계리그와 하계리그로 나누어 진행한다.
@@ -559,7 +559,7 @@
 <tr class="even">
 <td><p>2003</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/건국대학교" title="wikilink">건국대학교</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/조영훈" title="wikilink">조영훈</a>(건국대)</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/조영훈_(야구_선수)" title="wikilink">조영훈</a>(건국대)</p></td>
 <td><p><a href="../Page/단국대학교.md" title="wikilink">단국대학교</a></p></td>
 </tr>
 <tr class="odd">

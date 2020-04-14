@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Opera \( \)](https://ko.wikipedia.org/wiki/Opera_\(_\)).
+> This article is converted from Wikipedia: [Opera \(슈퍼주니어의 노래\)](https://ko.wikipedia.org/wiki/Opera_\(슈퍼주니어의_노래\)).
 
 
 《**Opera**》는 그룹 [슈퍼주니어](../Page/슈퍼주니어.md "wikilink")가 일본에서 발매한 3번째 싱글이다.

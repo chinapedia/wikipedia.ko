@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  Z](https://ko.wikipedia.org/wiki/__Z).
+> This article is converted from Wikipedia: [원피스 극장판 Z](https://ko.wikipedia.org/wiki/원피스_극장판_Z).
 
 
 **원피스 - Z**(ONE PIECE FILM Z)은 [원피스의](https://ko.wikipedia.org/wiki/원피스_\(애니메이션\) "wikilink") 극장판 시리즈의 열두 번째 작품이다. [2012년](../Page/2012년.md "wikilink") [12월 15일에](../Page/12월_15일.md "wikilink") 개봉하였다.

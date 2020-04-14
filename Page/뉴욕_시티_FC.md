@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [  FC](https://ko.wikipedia.org/wiki/__FC).
+> This article is converted from Wikipedia: [뉴욕 시티 FC](https://ko.wikipedia.org/wiki/뉴욕_시티_FC).
 
 
-**뉴욕 시티 풋볼 클럽** ()은 [2013년 5월](../Page/2013년_5월.md "wikilink"), [맨체스터 시티와](../Page/맨체스터_시티_FC.md "wikilink") [양키 글로벌 엔터프라이즈가](../Page/뉴욕_양키스.md "wikilink") 공동으로 투자해서 창단한 [미국](../Page/미국.md "wikilink") 프로축구 [메이저 리그 사커의](../Page/메이저_리그_사커.md "wikilink") 20번째 신생 구단이다. [뉴욕](../Page/뉴욕.md "wikilink")의 [퀸스](../Page/퀸스.md "wikilink") 자치구를 연고지로 하여, [2015년](../Page/2015년.md "wikilink")부터 [메이저 리그 사커에](../Page/메이저_리그_사커.md "wikilink") 참가 중이다.\[1\]
+**뉴욕 시티 풋볼 클럽**()은 [2013년 5월](../Page/2013년_5월.md "wikilink"), [맨체스터 시티와](../Page/맨체스터_시티_FC.md "wikilink") [양키 글로벌 엔터프라이즈가](../Page/뉴욕_양키스.md "wikilink") 공동으로 투자해서 창단한 [미국](../Page/미국.md "wikilink") 프로축구 [메이저 리그 사커의](../Page/메이저_리그_사커.md "wikilink") 20번째 신생 구단이다. [뉴욕](../Page/뉴욕.md "wikilink")의 [퀸스](../Page/퀸스.md "wikilink") 자치구를 연고지로 하여, [2015년](../Page/2015년.md "wikilink")부터 [메이저 리그 사커에](../Page/메이저_리그_사커.md "wikilink") 참가 중이다.\[1\]
 
 ## 역사
 

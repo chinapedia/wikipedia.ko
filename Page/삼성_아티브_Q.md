@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  Q](https://ko.wikipedia.org/wiki/__Q).
+> This article is converted from Wikipedia: [삼성 아티브 Q](https://ko.wikipedia.org/wiki/삼성_아티브_Q).
 
 
 **삼성 아티브 Q**(Samsung ATIV Q)는 2013년 6월 20일 **삼성 프리미어**(Samsung Premiere) 이벤트에서 [삼성 전자가](https://ko.wikipedia.org/wiki/삼성_전자 "wikilink") 발표한 13.3인치 [태블릿 PC이다](../Page/태블릿_PC.md "wikilink")\[1\]\[2\]. 2013년 3분기인 미국 [노동절](../Page/노동절_\(미국\).md "wikilink") 즈음 *Back to school* 시즌(여름이 끝나고 학용품 등 쇼핑이 증가하는 시즌)에 출시 예정이였으나\[3\], 안드로이드가 다른 os와 섞이는 것을 꺼려한 구글의 압박때문에 출시가 전면 보류되었고, 2015년 8월 25일 현재까지도 출시되지 못했다.\[4\]\[5\]

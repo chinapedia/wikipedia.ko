@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Tor ](https://ko.wikipedia.org/wiki/Tor_).
+> This article is converted from Wikipedia: [Tor 함자](https://ko.wikipedia.org/wiki/Tor_함자).
 
 
 [호몰로지 대수학에서](../Page/호몰로지_대수학.md "wikilink"), **Tor 함자**(Tor函子, )는 [가군](../Page/가군.md "wikilink") [텐서곱](../Page/텐서곱.md "wikilink") [함자의](../Page/함자_\(수학\).md "wikilink") [유도 함자다](../Page/유도_함자.md "wikilink").

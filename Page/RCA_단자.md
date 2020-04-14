@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [RCA ](https://ko.wikipedia.org/wiki/RCA_).
+> This article is converted from Wikipedia: [RCA 단자](https://ko.wikipedia.org/wiki/RCA_단자).
 
 
 **RCA 단자**()는 소리와 영상 신호를 전달하는데 흔히 쓰이는 단자이다. RCA라는 이름은 [라디오 코퍼래이션 오브 아메리카](../Page/RCA_\(기업\).md "wikilink")(Radio Corporation of America)라는 기업 이름에서 나온 것으로, 1940년대 초에 가정용 라디오 축음기 내부에 연결할 목적으로 설계되었다.

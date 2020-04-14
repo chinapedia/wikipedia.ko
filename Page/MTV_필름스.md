@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [MTV ](https://ko.wikipedia.org/wiki/MTV_).
+> This article is converted from Wikipedia: [MTV 필름스](https://ko.wikipedia.org/wiki/MTV_필름스).
 
 
 **MTV 필름스**()는 [1996년](../Page/1996년.md "wikilink")에 미국 최대의 음악 전문 케이블 채널인 MTV의 극장용 영화 제작사로, 무비스에서 제작/배급한 영화들은 [바이어컴](https://ko.wikipedia.org/wiki/바이어컴 "wikilink")의 자회사의인 [파라마운트 픽쳐스에서](../Page/파라마운트_픽쳐스.md "wikilink") 담당하고 있으며, 자체 제작한 오리지널 프로젝트와 MTV에서 제작한 프로그램을 기반으로 영화를 제작하고 있다. [2006년](../Page/2006년.md "wikilink") [8월 21일](../Page/8월_21일.md "wikilink"), [니켈로디언 무비스와](../Page/니켈로디언_무비스.md "wikilink") 함께 파라마운트 모션 픽쳐스의 그룹의 일원이 되었다.

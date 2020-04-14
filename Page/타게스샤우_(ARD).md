@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ \(ARD\)](https://ko.wikipedia.org/wiki/_\(ARD\)).
+> This article is converted from Wikipedia: [타게스샤우 \(ARD\)](https://ko.wikipedia.org/wiki/타게스샤우_\(ARD\)).
 
 
 [300px](https://ko.wikipedia.org/wiki/파일:Tagesschau_kulissen.JPG "wikilink")

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [IBM ](https://ko.wikipedia.org/wiki/IBM_).
+> This article is converted from Wikipedia: [IBM 노트](https://ko.wikipedia.org/wiki/IBM_노트).
 
 
 **IBM 노트**(이전 이름: 로터스 노트/Lotus Notes)와 **IBM 도미노**(이전 이름: 로터스 도미노/Lotus Domino\[1\])는 IBM사에서 출시된 협동 클라이언트 서버 소프트웨어 플랫폼 역할을 하는 [클라이언트](https://ko.wikipedia.org/wiki/클라이언트 "wikilink")와 [서버](../Page/서버.md "wikilink")이다.

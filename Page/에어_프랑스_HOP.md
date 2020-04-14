@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  HOP](https://ko.wikipedia.org/wiki/__HOP).
+> This article is converted from Wikipedia: [에어 프랑스 HOP](https://ko.wikipedia.org/wiki/에어_프랑스_HOP).
 
 
 **에어 프랑스 HOP**()는 [프랑스](../Page/프랑스.md "wikilink")의 지역 항공사로 [2013년](../Page/2013년.md "wikilink") [3월 31일에](../Page/3월_31일.md "wikilink") [브릿 에어](https://ko.wikipedia.org/wiki/브릿_에어 "wikilink"), [레지오날](../Page/레지오날.md "wikilink"), [에어린에어](../Page/에어린에어.md "wikilink")가 합병되어 설립되었다.\[1\] [생텍쥐페리 국제공항](../Page/생텍쥐페리_국제공항.md "wikilink"), [파리 오를리 공항을](../Page/파리_오를리_공항.md "wikilink") [허브 공항으로](../Page/허브_공항.md "wikilink") 하여 프랑스 국내선과 국제선 노선이 운항하고 있다.

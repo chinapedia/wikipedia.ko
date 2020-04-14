@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Desperado \( \)](https://ko.wikipedia.org/wiki/Desperado_\(_\)).
+> This article is converted from Wikipedia: [Desperado \(이글스의 음반\)](https://ko.wikipedia.org/wiki/Desperado_\(이글스의_음반\)).
 
 
 ***Desperado***는 미국의 록 밴드 [이글스](../Page/이글스.md "wikilink")의 두 번째 정규음반이다. 영국의 아일랜드 스튜디오에서 녹음되었으며, 1973년 발매되었다. "[Tequila Sunrise](https://ko.wikipedia.org/wiki/Tequila_Sunrise_\(노래\) "wikilink")"와 "[Outlaw Man](../Page/Outlaw_Man.md "wikilink")"은 각각 차트 64위와 59위를 기록하였다. 앨범은 41위를 기록하였으며, 2백만 장이 팔렸다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ H. ](https://ko.wikipedia.org/wiki/_H._).
+> This article is converted from Wikipedia: [제임스 H. 윌킨슨](https://ko.wikipedia.org/wiki/제임스_H._윌킨슨).
 
 
 **제임스 하디 윌킨슨**(James Hardy Wilkinson) [FRS](https://ko.wikipedia.org/wiki/왕립_협회 "wikilink")\[1\] (1919년 9월 27일 \~ 1986년 10월 5일)은 특히 [물리학](../Page/물리학.md "wikilink")과 [공학](../Page/공학.md "wikilink")에 유용한 [응용수학](https://ko.wikipedia.org/wiki/응용수학 "wikilink")과 [컴퓨터 과학](../Page/컴퓨터_과학.md "wikilink")\[2\]의 경계에 위치한 [수치 해석](https://ko.wikipedia.org/wiki/수치_해석 "wikilink") 분야에서 저명한 인물이다.

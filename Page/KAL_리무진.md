@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KAL ](https://ko.wikipedia.org/wiki/KAL_).
+> This article is converted from Wikipedia: [KAL 리무진](https://ko.wikipedia.org/wiki/KAL_리무진).
 
 
 **주식회사 항공종합서비스**는 [대한항공](https://ko.wikipedia.org/wiki/대한항공 "wikilink")의 계열의 [공항버스](../Page/공항버스.md "wikilink") 회사로, 본사는 [서울특별시](../Page/서울특별시.md "wikilink") [강서구](https://ko.wikipedia.org/wiki/강서구_\(서울특별시\) "wikilink") 오정로 576 ([공항동](../Page/공항동.md "wikilink"))에 위치해 있다.

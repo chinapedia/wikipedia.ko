@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [NAACP  ](https://ko.wikipedia.org/wiki/NAACP__).
+> This article is converted from Wikipedia: [NAACP 이미지 어워드](https://ko.wikipedia.org/wiki/NAACP_이미지_어워드).
 
 
 **NAACP 이미지 어워드**(NAACP Image Awards)는 매년 봄에 [전미 흑인 지위 향상 협회](https://ko.wikipedia.org/wiki/전미_흑인_지위_향상_협회 "wikilink") (NAACP)가 개최하는 영화 · 텔레비전 · 음악 · 문학상이다.

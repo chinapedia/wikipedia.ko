@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  FC](https://ko.wikipedia.org/wiki/__FC).
+> This article is converted from Wikipedia: [맨스필드 타운 FC](https://ko.wikipedia.org/wiki/맨스필드_타운_FC).
 
 
 **맨스필드 타운 FC**(Mansfield Town Football Club)는 [잉글랜드](../Page/잉글랜드.md "wikilink") [노팅엄셔주](../Page/노팅엄셔주.md "wikilink") [맨스필드를](../Page/맨스필드_\(노팅엄셔주\).md "wikilink") 연고로 하는 축구 클럽이다. 1897년 **맨스필드 웨슬리언스**(Mansfield Wesleyans)라는 이름으로 창단되었으며 1906년 클럽 이름을 **맨스필드 웨슬리**(Mansfield Wesley)로 변경했다. 1910년에 현재와 같은 이름으로 변경되어 오늘에 이른다.

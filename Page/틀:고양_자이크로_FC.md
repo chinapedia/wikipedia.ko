@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:  FC](https://ko.wikipedia.org/wiki/:__FC).
+> This article is converted from Wikipedia: [틀:고양 자이크로 FC](https://ko.wikipedia.org/wiki/틀:고양_자이크로_FC).
 
 
 <noinclude>

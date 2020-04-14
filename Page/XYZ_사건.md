@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [XYZ ](https://ko.wikipedia.org/wiki/XYZ_).
+> This article is converted from Wikipedia: [XYZ 사건](https://ko.wikipedia.org/wiki/XYZ_사건).
 
 
 [오른쪽](https://ko.wikipedia.org/wiki/파일:Property_protected_à_la_françoise.jpg "wikilink")(영국)\]\] **XYZ 사건**(XYZ Affair)은 [1797년](../Page/1797년.md "wikilink")부터 [1798년](../Page/1798년.md "wikilink")에 걸쳐, [존 애덤스](../Page/존_애덤스.md "wikilink") 행정부 초기 [미국](../Page/미국.md "wikilink")과 [프랑스](../Page/프랑스.md "wikilink") 간에 벌어진 외교적 충돌 사건이다. 그 이름은 X, Y, Z라는 문자는 애덤스 정부에서 발간된 문서에서 프랑스 외교관 이름을 치환한데서 유래한다.

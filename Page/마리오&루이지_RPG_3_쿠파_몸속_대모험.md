@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [\& RPG 3   ](https://ko.wikipedia.org/wiki/\&_RPG_3___).
+> This article is converted from Wikipedia: [마리오\&루이지 RPG 3 쿠파 몸속 대모험](https://ko.wikipedia.org/wiki/마리오\&루이지_RPG_3_쿠파_몸속_대모험).
 
 
 **《마리오&루이지 RPG 3 쿠파 몸속 대모험》**(Mario & Luigi: Bowser Inside Story)는 닌텐도DS 용으로 일본에서 2009년 2월 11일 먼저 발매했으며, 한국에서는 2011년 7월 21일에 발매되었다.

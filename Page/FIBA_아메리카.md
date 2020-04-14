@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FIBA ](https://ko.wikipedia.org/wiki/FIBA_).
+> This article is converted from Wikipedia: [FIBA 아메리카](https://ko.wikipedia.org/wiki/FIBA_아메리카).
 
 
 **FIBA 아메리카**(-Americas)는 [국제 농구 연맹](../Page/국제_농구_연맹.md "wikilink") (FIBA)의 산하에 있는 대륙 연맹으로, 아메리카에서의 농구 운영 · 관리 · 보급 활동을 실시한다.

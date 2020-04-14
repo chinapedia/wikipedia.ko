@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [PF](https://ko.wikipedia.org/wiki/PF).
+> This article is converted from Wikipedia: [PF엔터테인먼트](https://ko.wikipedia.org/wiki/PF엔터테인먼트).
 
 
 [**PF컴퍼니**는](http://pfcompany.kr/) [대한민국](../Page/대한민국.md "wikilink")의 [연예 기획사다](https://ko.wikipedia.org/wiki/연예_기획사 "wikilink").

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:URL](https://ko.wikipedia.org/wiki/:URL).
+> This article is converted from Wikipedia: [모듈:URL](https://ko.wikipedia.org/wiki/모듈:URL).
 
 
 \-- -- This module implements  -- -- See unit tests at [Module:URL/tests](https://ko.wikipedia.org/wiki/Module:URL/tests "wikilink")

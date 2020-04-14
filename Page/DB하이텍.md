@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [DB](https://ko.wikipedia.org/wiki/DB).
+> This article is converted from Wikipedia: [DB하이텍](https://ko.wikipedia.org/wiki/DB하이텍).
 
 
 **DB하이텍**은 [DB그룹](../Page/DB그룹.md "wikilink")에 속한 기업으로 [반도체 파운드리](https://ko.wikipedia.org/wiki/파운드리 "wikilink") 사업을 주력으로 영위하는 회사이다. 파운드리란 생산 시설을 갖추고, 고객사가 설계한 반도체를 위탁 생산하여 공급하는 것을 의미한다. '수탁 반도체 제조 사업'이라고도 한다.
@@ -19,8 +19,8 @@
   - 1997년 3월 1일 동부화학(주) 합병
   - 1998년 11월 27일 LAFARGE PLATRES INTERNATIONAL S.A에 석고사업부문 양도(양도가액: 676억원)
   - 2007년 5월 [동부일렉트로닉스](../Page/동부일렉트로닉스.md "wikilink")㈜를 흡수합병하고 동부하이텍으로 사명 변경
-  - 2008년 2월 1일 금속재료(합금철) 사업부문을 ㈜ 동부메탈로 물적분할
-  - 2010년 6월 1일 농업사업부문을 ㈜동부한농으로 물적분할
+  - 2008년 2월 1일 금속재료(합금철) 사업부문을 ㈜ 동부메탈(현 DB메탈)로 물적분할
+  - 2010년 6월 1일 농업사업부문을 ㈜동부한농(현 팜한농)으로 물적분할
   - 2017년 11월 (주)동부하이텍에서 (주)DB하이텍으로 변경\[3\]
 
 ## 참조

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KF  ](https://ko.wikipedia.org/wiki/KF__).
+> This article is converted from Wikipedia: [KF 스컨데르베우 코르처](https://ko.wikipedia.org/wiki/KF_스컨데르베우_코르처).
 
 
 **KF 스컨데르베우 코르처**()는 [코르처](../Page/코르처.md "wikilink")를 연고로 하는 [알바니아](https://ko.wikipedia.org/wiki/알바니아 "wikilink")의 축구 클럽이다. 현재는 [알바니아 수페르리가에](../Page/알바니아_수페르리가.md "wikilink") 참가하고 있다. 클럽 이름은 알바니아의 민족 영웅인 [스칸데르베그](https://ko.wikipedia.org/wiki/스칸데르베그 "wikilink")에서 유래된 이름이다.

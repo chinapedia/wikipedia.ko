@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ \~ Double Dealing Character](https://ko.wikipedia.org/wiki/_\~_Double_Dealing_Character).
+> This article is converted from Wikipedia: [동방휘침성 \~ Double Dealing Character](https://ko.wikipedia.org/wiki/동방휘침성_\~_Double_Dealing_Character).
 
 
 《**동방휘침성 \~ Double Dealing Character**》()은 [동방 프로젝트의](../Page/동방_프로젝트.md "wikilink") 열네번째 시리즈 게임이다.

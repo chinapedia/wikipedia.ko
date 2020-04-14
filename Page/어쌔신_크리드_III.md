@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  III](https://ko.wikipedia.org/wiki/__III).
+> This article is converted from Wikipedia: [어쌔신 크리드 III](https://ko.wikipedia.org/wiki/어쌔신_크리드_III).
 
 
 《**어쌔신 크리드 III**》(Assassin's Creed III)는 어쌔신크리드 2의 후속작이며 [유비소프트 몬트리올이](../Page/유비소프트.md "wikilink") 개발하고 [유비소프트](../Page/유비소프트.md "wikilink")가 발행하는 [액션 어드벤처](https://ko.wikipedia.org/wiki/액션_어드벤처 "wikilink") [게임으로](../Page/비디오_게임.md "wikilink"), [2012년](../Page/2012년.md "wikilink") [10월 30일](../Page/10월_30일.md "wikilink") [플레이스테이션 3와](../Page/플레이스테이션_3.md "wikilink") [엑스박스 360으로](../Page/엑스박스_360.md "wikilink"), [2012년](../Page/2012년.md "wikilink") [11월 23일](../Page/11월_23일.md "wikilink") PC로 발매됐다.

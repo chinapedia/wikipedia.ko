@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [CS  ](https://ko.wikipedia.org/wiki/CS__).
+> This article is converted from Wikipedia: [CS 폴라 에슈](https://ko.wikipedia.org/wiki/CS_폴라_에슈).
 
 
 **CS 폴라 에슈**()는 [에슈쉬르알제트](../Page/에슈쉬르알제트.md "wikilink")를 연고로 하는 [룩셈부르크](../Page/룩셈부르크.md "wikilink")의 축구 클럽이다. 현재는 [룩셈부르크 내셔널디비전에](../Page/룩셈부르크_내셔널디비전.md "wikilink") 참가하고 있다.

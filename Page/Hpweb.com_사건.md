@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Hpweb.com ](https://ko.wikipedia.org/wiki/Hpweb.com_).
+> This article is converted from Wikipedia: [Hpweb.com 사건](https://ko.wikipedia.org/wiki/Hpweb.com_사건).
 
 
 **Hpweb.com 사건**은 [대한민국](../Page/대한민국.md "wikilink") 사업자가 등록한 인터넷 주소 \`hpweb.com\`을 미국 도메인 등록기관인 NSI에 등록해 사용했으나 HP사가 미국 국가중재위원회(NAF)에 도메인 이전을 요구하는 강제조정을 신청해 이전결정을 받아냄으로써 도메인을 넘겨주어 미국 [휴렛팩커드](https://ko.wikipedia.org/wiki/휴렛팩커드 "wikilink")(HP)사에 손해배상 청구를 한 사건이다. 소유자 김씨는 NAF의 결정이 부당하며 HP사가 해당 도메인을 사용함으로써 얻은 이익 등을 반환하라는 소송을 한국 법원에 냈으나 국내 재판관할권이 있는지 등에 대한 판단이 엇갈려 두 차례 대법원 파기환송 판결이 내려지기도 했고 최종적으로 대한민국 대법원은 주소의 소유자가 HP사를 상대로 낸 손해배상 청구소송에서 원고 패소로 판결한 원심을 확정했다.

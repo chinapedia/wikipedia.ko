@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ GT-R](https://ko.wikipedia.org/wiki/_GT-R).
+> This article is converted from Wikipedia: [닛산 GT-R](https://ko.wikipedia.org/wiki/닛산_GT-R).
 
 
 **닛산 GT-R**(Nissan GT-R)은 [닛산의](../Page/닛산_자동차.md "wikilink") [스포츠카](../Page/스포츠카.md "wikilink")이다.

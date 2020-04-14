@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  AFC](https://ko.wikipedia.org/wiki/__AFC).
+> This article is converted from Wikipedia: [뉴포트 카운티 AFC](https://ko.wikipedia.org/wiki/뉴포트_카운티_AFC).
 
 
 **뉴포트 카운티 AFC**(Newport County Association Football Club)는 [웨일스](../Page/웨일스.md "wikilink") [뉴포트를](../Page/뉴포트_\(웨일스\).md "wikilink") 연고로 하는 축구 클럽이다.

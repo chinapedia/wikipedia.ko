@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ing](https://ko.wikipedia.org/wiki/ing).
+> This article is converted from Wikipedia: […ing](https://ko.wikipedia.org/wiki/…ing).
 
 
 《**...ing**》는 [2003년](../Page/2003년.md "wikilink")에 개봉한 [대한민국](../Page/대한민국.md "wikilink")의 영화다. 불치병으로 시한부 인생이 된 민아([임수정](../Page/임수정_\(배우\).md "wikilink"))와 영재([김래원](../Page/김래원.md "wikilink"))의 사랑을 다루고 있다.

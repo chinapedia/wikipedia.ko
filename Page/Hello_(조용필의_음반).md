@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Hello \( \)](https://ko.wikipedia.org/wiki/Hello_\(_\)).
+> This article is converted from Wikipedia: [Hello \(조용필의 음반\)](https://ko.wikipedia.org/wiki/Hello_\(조용필의_음반\)).
 
 
 《**Hello**》는 대한민국의 가수 [조용필](../Page/조용필.md "wikilink")의 열 아홉 번째 정규 음반이다. 한국 발매반과 일본판이 존재한다.
