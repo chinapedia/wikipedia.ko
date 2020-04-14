@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [CP ](https://ko.wikipedia.org/wiki/CP_).
+> This article is converted from Wikipedia: [CP 탱고](https://ko.wikipedia.org/wiki/CP_탱고).
 
 
 **CP 탱고**(), **탱고 지휘소**는 1970년대에 건설된 [경기도](https://ko.wikipedia.org/wiki/경기도 "wikilink") [성남시](../Page/성남시.md "wikilink")의 캠프 탱고에 있는 [주한 미군과](../Page/주한_미군.md "wikilink") [대한민국 국군의](../Page/대한민국_국군.md "wikilink") 육해공 전구 작전() [지휘통제](../Page/지휘통제.md "wikilink")소이자 폴아웃 쉘터이다. 폴아웃 벙커인 만큼 [핵공격](https://ko.wikipedia.org/wiki/핵공격 "wikilink")에도 견디면서 외부의 지원없이 약 2개월간 생활할 수 있도록 설계되었다.

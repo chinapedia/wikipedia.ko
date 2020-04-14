@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ H.  ](https://ko.wikipedia.org/wiki/_H.__).
+> This article is converted from Wikipedia: [폴 H. 니츠 고등국제학대학](https://ko.wikipedia.org/wiki/폴_H._니츠_고등국제학대학).
 
 
 **폴 니체 고등국제학대학**(Paul H. Nitze School of Advanced International Studies, **SAIS**)은 [존스 홉킨스 대학교](../Page/존스_홉킨스_대학교.md "wikilink") 소속기관으로, 국제관계, 경제, 외교, 정책연구 및 교육분야에서 세계적으로 유명한 대학원이다.\[1\] 캠퍼스는 [워싱턴 D.C.에](../Page/워싱턴_D.C..md "wikilink") 위치하고 있는데, 외국 대사관이 59개나 위치한 메사추세츠 거리의 "대사관 길"에 자리 잡고 있다. 줄여서 **SAIS**라고 불리기도 한다. 전 세계에서 매우 우수한 많은 학생들이 지원을 하며, 입학은 매우 어렵다.\[2\]

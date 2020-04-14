@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ATS-28 ](https://ko.wikipedia.org/wiki/ATS-28_).
+> This article is converted from Wikipedia: [ATS-28 광양](https://ko.wikipedia.org/wiki/ATS-28_광양).
 
 
 **ATS-28 광양함**은 [대한민국 해군의](../Page/대한민국_해군.md "wikilink") [구난함](https://ko.wikipedia.org/wiki/구난함 "wikilink")이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [LCD ](https://ko.wikipedia.org/wiki/LCD_).
+> This article is converted from Wikipedia: [LCD 사운드시스템](https://ko.wikipedia.org/wiki/LCD_사운드시스템).
 
 
 **LCD 사운드시스템** (LCD Soundsystem)은 2002년 결성된 [DFA 레코드](https://ko.wikipedia.org/wiki/DFA_레코드 "wikilink") 설립자이자 프로듀서인 미국인 [제임스 머피의](https://ko.wikipedia.org/wiki/제임스_머피 "wikilink") 솔로 프로젝트다. 그들은 댄스 음악과 펑크 록, 디스코를 혼합한 음악을 하며 영국에서 특히 인기가 많다. 영국에서 그들이 발표한 두 앨범은 40위까지 올라갔다.

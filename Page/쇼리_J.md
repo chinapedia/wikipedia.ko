@@ -1,13 +1,7 @@
-> This article is converted from Wikipedia: [ J](https://ko.wikipedia.org/wiki/_J).
+> This article is converted from Wikipedia: [쇼리 J](https://ko.wikipedia.org/wiki/쇼리_J).
 
 
-**쇼리 J**(, [1982년](../Page/1982년.md "wikilink") [10월 4일](../Page/10월_4일.md "wikilink") \~ )는 [대한민국](../Page/대한민국.md "wikilink")의 힙합 그룹 [마이티 마우스의](../Page/마이티_마우스_\(음악_그룹\).md "wikilink") 래퍼를 말고 있다.
-
-## 학력
-
-  - [반포고등학교](../Page/반포고등학교.md "wikilink") (졸업)
-  - [계원조형예술대학](https://ko.wikipedia.org/wiki/계원조형예술대학 "wikilink") 제품디자인학과 (졸업)
-  - [고려대학교](https://ko.wikipedia.org/wiki/고려대학교 "wikilink") 언론대학원 방송영상학과 (졸업)
+**쇼리 J**(, [1982년](../Page/1982년.md "wikilink") [10월 4일](../Page/10월_4일.md "wikilink") \~ )는 [대한민국](../Page/대한민국.md "wikilink")의 힙합 그룹 [마이티 마우스에서](../Page/마이티_마우스_\(음악_그룹\).md "wikilink") 래퍼를 말고 있다.
 
 ## 음반 활동
 
@@ -61,6 +55,6 @@
 
   -
   -
-[분류:마이티 마우스](https://ko.wikipedia.org/wiki/분류:마이티_마우스 "wikilink") [분류:1982년 태어남](https://ko.wikipedia.org/wiki/분류:1982년_태어남 "wikilink") [분류:살아있는 사람](https://ko.wikipedia.org/wiki/분류:살아있는_사람 "wikilink") [분류:대한민국의 방송인](https://ko.wikipedia.org/wiki/분류:대한민국의_방송인 "wikilink") [분류:대한민국의 남자 래퍼](https://ko.wikipedia.org/wiki/분류:대한민국의_남자_래퍼 "wikilink") [분류:대한민국의 래퍼](https://ko.wikipedia.org/wiki/분류:대한민국의_래퍼 "wikilink") [분류:서울특별시 출신 래퍼](https://ko.wikipedia.org/wiki/분류:서울특별시_출신_래퍼 "wikilink") [분류:대한민국의 힙합 음악가](https://ko.wikipedia.org/wiki/분류:대한민국의_힙합_음악가 "wikilink") [분류:2008년 데뷔](https://ko.wikipedia.org/wiki/분류:2008년_데뷔 "wikilink") [분류:반포고등학교 동문](https://ko.wikipedia.org/wiki/분류:반포고등학교_동문 "wikilink") [분류:계원조형예술대학 동문](https://ko.wikipedia.org/wiki/분류:계원조형예술대학_동문 "wikilink") [분류:고려대학교 언론대학원 동문](https://ko.wikipedia.org/wiki/분류:고려대학교_언론대학원_동문 "wikilink") [분류:서울특별시 출신](https://ko.wikipedia.org/wiki/분류:서울특별시_출신 "wikilink") [분류:서울특별시 출신 음악가](https://ko.wikipedia.org/wiki/분류:서울특별시_출신_음악가 "wikilink")
+[분류:마이티 마우스](https://ko.wikipedia.org/wiki/분류:마이티_마우스 "wikilink") [분류:1982년 태어남](https://ko.wikipedia.org/wiki/분류:1982년_태어남 "wikilink") [분류:살아있는 사람](https://ko.wikipedia.org/wiki/분류:살아있는_사람 "wikilink") [분류:대한민국의 힙합 프로듀서](https://ko.wikipedia.org/wiki/분류:대한민국의_힙합_프로듀서 "wikilink") [분류:대한민국의 남자 래퍼](https://ko.wikipedia.org/wiki/분류:대한민국의_남자_래퍼 "wikilink") [분류:서울특별시 출신 래퍼](https://ko.wikipedia.org/wiki/분류:서울특별시_출신_래퍼 "wikilink") [분류:대한민국의 힙합 음악가](https://ko.wikipedia.org/wiki/분류:대한민국의_힙합_음악가 "wikilink") [분류:2008년 데뷔](https://ko.wikipedia.org/wiki/분류:2008년_데뷔 "wikilink") [분류:반포고등학교 동문](https://ko.wikipedia.org/wiki/분류:반포고등학교_동문 "wikilink") [분류:계원조형예술대학 동문](https://ko.wikipedia.org/wiki/분류:계원조형예술대학_동문 "wikilink") [분류:한국방송통신대학교 동문](https://ko.wikipedia.org/wiki/분류:한국방송통신대학교_동문 "wikilink") [분류:고려대학교 언론대학원 동문](https://ko.wikipedia.org/wiki/분류:고려대학교_언론대학원_동문 "wikilink") [분류:서울특별시 출신 음악가](https://ko.wikipedia.org/wiki/분류:서울특별시_출신_음악가 "wikilink") [분류:대한민국의 음악 프로듀서](https://ko.wikipedia.org/wiki/분류:대한민국의_음악_프로듀서 "wikilink")
 
 1.  [가수 '마이티마우스' 대구 오리온스 홍보대사 위촉](http://eto.freechal.com/news/view.asp?Code=20091018231159640) - 경제투데이

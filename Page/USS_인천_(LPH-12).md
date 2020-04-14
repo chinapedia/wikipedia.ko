@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [USS  \(LPH-12\)](https://ko.wikipedia.org/wiki/USS__\(LPH-12\)).
+> This article is converted from Wikipedia: [USS 인천 \(LPH-12\)](https://ko.wikipedia.org/wiki/USS_인천_\(LPH-12\)).
 
 
 **USS *인천* (LPH/MCS-12)**은 [이오지마급 강습상륙함의](https://ko.wikipedia.org/wiki/이오지마급_강습상륙함 "wikilink") 12번째 마지막함이다. [한국전쟁](https://ko.wikipedia.org/wiki/한국전쟁 "wikilink") 기간 중, 미국 해군의 [인천상륙작전](https://ko.wikipedia.org/wiki/인천상륙작전 "wikilink")을 기념하여 명명하였다.

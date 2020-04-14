@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [PC](https://ko.wikipedia.org/wiki/PC).
+> This article is converted from Wikipedia: [피어PC](https://ko.wikipedia.org/wiki/피어PC).
 
 
 **피어PC**()는 독립적인 아키텍처인 [파워피씨](https://ko.wikipedia.org/wiki/파워피씨 "wikilink") 에뮬레이터로, 파워피씨 아키텍처에서 가동되는 [OS X](https://ko.wikipedia.org/wiki/OS_X "wikilink"), [다윈](../Page/다윈_\(운영_체제\).md "wikilink"), 리눅스를 파워피씨가 아닌 CPU에서 가동시킬수 있다. 피어PC는 [GPL라이선스에](../Page/GNU_일반_공중_사용_허가서.md "wikilink") 의해 배포되고 있으며, [마이크로소프트 윈도](https://ko.wikipedia.org/wiki/마이크로소프트_윈도 "wikilink"), [FreeBSD](../Page/FreeBSD.md "wikilink"), [리눅스](../Page/리눅스.md "wikilink")와 [POSIX](../Page/POSIX.md "wikilink")-[X11기반의](../Page/X_윈도_시스템.md "wikilink") 운영체제에서 가동시킬수 있다. 피어PC의 공식 배포일자는 2004년 5월 10일이다.

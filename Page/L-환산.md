@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [L-](https://ko.wikipedia.org/wiki/L-).
+> This article is converted from Wikipedia: [L-환산](https://ko.wikipedia.org/wiki/L-환산).
 
 
 **L-환산**(, linear reduction)은 [최적화 문제](https://ko.wikipedia.org/wiki/최적화_문제 "wikilink") 간의 근사 비율을 선형 보존하는 [환산이다](../Page/환산_\(복잡도\).md "wikilink"). 여기에서 'L'의 의미는 선형(linear)을 가리킨다.

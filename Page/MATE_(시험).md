@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [MATE \(\)](https://ko.wikipedia.org/wiki/MATE_\(\)).
+> This article is converted from Wikipedia: [MATE \(시험\)](https://ko.wikipedia.org/wiki/MATE_\(시험\)).
 
 
 **MATE**(, )는 [숙명여자대학교](https://ko.wikipedia.org/wiki/숙명여자대학교 "wikilink")가 [1997년](../Page/1997년.md "wikilink") 개발한 [멀티미디어](../Page/멀티미디어.md "wikilink") 방식의 [영어](../Page/영어.md "wikilink") 말하기 및 쓰기 수행능력을 평가하는 시험이다.

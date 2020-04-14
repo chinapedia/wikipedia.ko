@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [DSiWare    ](https://ko.wikipedia.org/wiki/DSiWare____).
+> This article is converted from Wikipedia: [DSiWare 게임 및 소프트웨어 목록](https://ko.wikipedia.org/wiki/DSiWare_게임_및_소프트웨어_목록).
 
 
 이 목록은 [대한민국](../Page/대한민국.md "wikilink")에서 발매한 DSiWare 목록이다. 일부 소프트웨어를 제외하고 [닌텐도 3DS에서도](../Page/닌텐도_3DS.md "wikilink") 이용할 수 있다.

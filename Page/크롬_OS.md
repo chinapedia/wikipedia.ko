@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ OS](https://ko.wikipedia.org/wiki/_OS).
+> This article is converted from Wikipedia: [크롬 OS](https://ko.wikipedia.org/wiki/크롬_OS).
 
 
 **크롬 OS**()는 [구글](../Page/구글.md "wikilink")이 설계한 차기 [오픈 소스](../Page/오픈_소스.md "wikilink")\[1\] [운영 체제이며](../Page/운영_체제.md "wikilink") [웹 애플리케이션과만](../Page/웹_애플리케이션.md "wikilink") 동작한다.\[2\] 2009년 7월 7일, 크롬 OS는 2010년에 공식적으로 안정된 버전이 출시될 예정이라고 발표하였다.\[3\] 이 운영 체제는 [리눅스](../Page/리눅스.md "wikilink")에 기반을 두고 있으며 지정된 하드웨어에서만 동작할 것이다.\[4\] 사용자 인터페이스는 [크롬](https://ko.wikipedia.org/wiki/구글_크롬 "wikilink") [웹 브라우저의](../Page/웹_브라우저.md "wikilink") 것과 비슷하다. 브라우저가 미디어 플레이어를 포함하고 있고\[5\] 이 프로그램이 기기에 상주하는 유일한 응용 프로그램일 것이므로\[6\] 구글 크롬 OS는 대부분의 시간을 [인터넷](../Page/인터넷.md "wikilink")으로 보내는 사용자들을 겨냥한다.\[7\]\[8\]\[9\]

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ Q \(\)](https://ko.wikipedia.org/wiki/_Q_\(\)).
+> This article is converted from Wikipedia: [탐정학원 Q \(드라마\)](https://ko.wikipedia.org/wiki/탐정학원_Q_\(드라마\)).
 
 
 《**탐정학원 Q**》(探偵学園Q)는, 2007년에 방영되었던 [일본](../Page/일본.md "wikilink")의 추리 [드라마](https://ko.wikipedia.org/wiki/드라마 "wikilink")이다.

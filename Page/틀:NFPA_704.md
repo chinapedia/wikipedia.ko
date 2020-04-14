@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:NFPA 704](https://ko.wikipedia.org/wiki/:NFPA_704).
+> This article is converted from Wikipedia: [틀:NFPA 704](https://ko.wikipedia.org/wiki/틀:NFPA_704).
 
 
 <div style="position: relative; height: 85px; width: 75px;">

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ S.T.](https://ko.wikipedia.org/wiki/_S.T.).
+> This article is converted from Wikipedia: [스카이 S.T.듀퐁](https://ko.wikipedia.org/wiki/스카이_S.T.듀퐁).
 
 
 **팬택 스카이 S.T.듀퐁**()은 [팬택](../Page/팬택.md "wikilink")이 2009년 9월 26일에 출시한 [피처폰](https://ko.wikipedia.org/wiki/피처폰 "wikilink")이다.\[1\] [프랑스](../Page/프랑스.md "wikilink")의 [S.T. 듀퐁사와](../Page/S.T._듀퐁.md "wikilink") 제휴하여 출시했다.

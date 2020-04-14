@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ F](https://ko.wikipedia.org/wiki/_F).
+> This article is converted from Wikipedia: [애니콜 코비F](https://ko.wikipedia.org/wiki/애니콜_코비F).
 
 
 **애니콜 코비 F**(Anycall Corby F)는 [삼성](https://ko.wikipedia.org/wiki/삼성전자 "wikilink") [애니콜](https://ko.wikipedia.org/wiki/애니콜 "wikilink")의 [피처폰](https://ko.wikipedia.org/wiki/피처폰 "wikilink") 모델이다.

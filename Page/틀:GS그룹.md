@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:GS](https://ko.wikipedia.org/wiki/:GS).
+> This article is converted from Wikipedia: [틀:GS그룹](https://ko.wikipedia.org/wiki/틀:GS그룹).
 
 
 <onlyinclude></onlyinclude>

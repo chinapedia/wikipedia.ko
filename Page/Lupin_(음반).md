@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Lupin \(\)](https://ko.wikipedia.org/wiki/Lupin_\(\)).
+> This article is converted from Wikipedia: [Lupin \(음반\)](https://ko.wikipedia.org/wiki/Lupin_\(음반\)).
 
 
 《**Lupin**》은 [2010년](../Page/2010년.md "wikilink") [2월 17일](../Page/2월_17일.md "wikilink") 발매된 [카라의](../Page/카라_\(음악_그룹\).md "wikilink") 세 번째 [미니 앨범이다](../Page/익스텐디드_플레이.md "wikilink"). 콘셉트 모티브는 [괴도신사 아르센 뤼팽이다](../Page/괴도신사_아르센_뤼팽.md "wikilink").

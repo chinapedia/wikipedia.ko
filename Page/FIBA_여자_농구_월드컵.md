@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FIBA   ](https://ko.wikipedia.org/wiki/FIBA___).
+> This article is converted from Wikipedia: [FIBA 여자 농구 월드컵](https://ko.wikipedia.org/wiki/FIBA_여자_농구_월드컵).
 
 
 **FIBA 여자 농구 월드컵**은 [FIBA](https://ko.wikipedia.org/wiki/FIBA "wikilink")에 가입된 [여자 농구 대표팀들이](https://ko.wikipedia.org/wiki/여자_농구 "wikilink") 참여하는 여자 [농구](../Page/농구.md "wikilink") 분야의 국제 대회이다.
@@ -239,6 +239,8 @@
 </tr>
 </tbody>
 </table>
+
+### 메달 순위
 
 ## 각주
 

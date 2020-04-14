@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [K ](https://ko.wikipedia.org/wiki/K_).
+> This article is converted from Wikipedia: [K리그 주니어](https://ko.wikipedia.org/wiki/K리그_주니어).
 
 
 <table>

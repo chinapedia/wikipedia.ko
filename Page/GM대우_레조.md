@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [GM ](https://ko.wikipedia.org/wiki/GM_).
+> This article is converted from Wikipedia: [GM대우 레조](https://ko.wikipedia.org/wiki/GM대우_레조).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Daewoo_Rezzo_2.0_CDX_2003_\(11845548826\).jpg "wikilink")

@@ -27,7 +27,7 @@
 
 </div>
 
-**luser** (), **luzer**, **luzzer**, **local user**는 영어권 국가에서 주로 이용하는 [인터넷 신조어이다](https://ko.wikipedia.org/wiki/인터넷_신조어 "wikilink"). 심하게 짜증스럽거나, 멍청한 [누리꾼](../Page/누리꾼.md "wikilink")을 지칭한다.\[1\] 이 단어는 또한 *loser*와 *user*의 합성어로 주로 이용된다.\[2\]
+**luser**(), **luzer**, **luzzer**, **local user**는 영어권 국가에서 주로 이용하는 [인터넷 신조어이다](https://ko.wikipedia.org/wiki/인터넷_신조어 "wikilink"). 심하게 짜증스럽거나, 멍청한 [누리꾼](../Page/누리꾼.md "wikilink")을 지칭한다.\[1\] 이 단어는 또한 *loser*와 *user*의 합성어로 주로 이용된다.\[2\]
 
 ## [해커](../Page/해커.md "wikilink")들의 용어 사용
 

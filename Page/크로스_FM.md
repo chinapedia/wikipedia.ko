@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ FM](https://ko.wikipedia.org/wiki/_FM).
+> This article is converted from Wikipedia: [크로스 FM](https://ko.wikipedia.org/wiki/크로스_FM).
 
 
 **크로스 FM**(CROSS FM)은 [일본](../Page/일본.md "wikilink")의 FM 라디오 방송국으로 [후쿠오카현](../Page/후쿠오카현.md "wikilink")에서 [방송](../Page/방송.md "wikilink")을 실시하고 있다.

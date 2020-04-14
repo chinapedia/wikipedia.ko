@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:OHA](https://ko.wikipedia.org/wiki/:OHA).
+> This article is converted from Wikipedia: [틀:OHA](https://ko.wikipedia.org/wiki/틀:OHA).
 
 
 <onlyinclude></onlyinclude>

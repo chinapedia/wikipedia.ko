@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Bang! \( \)](https://ko.wikipedia.org/wiki/Bang!_\(_\)).
+> This article is converted from Wikipedia: [Bang! \(애프터스쿨의 노래\)](https://ko.wikipedia.org/wiki/Bang!_\(애프터스쿨의_노래\)).
 
 
 〈**Bang\!**〉은 대한민국의 [걸 그룹](../Page/걸_그룹.md "wikilink") [애프터스쿨](../Page/애프터스쿨.md "wikilink")의 노래이다. 한국에서 2010년 3월 25일 [로엔 엔터테인먼트를](https://ko.wikipedia.org/wiki/로엔_엔터테인먼트 "wikilink") 통해 두 번째 싱글로 발매되었고, 2011년 8월 17일에는 일본에서 데뷔 싱글이자 첫 싱글로 발매되었다. 이 시기 새 멤버 [리지를](../Page/박수아.md "wikilink") 영입했고, 리지가 영입된 후 첫 앨범이다. 애프터스쿨은 이 앨범에서 [가희](../Page/가희.md "wikilink")가 직접 구상한 고적대 컨셉으로 활동했고, B 사이드 "Let's Do It\!"에서는 드럼 퍼포먼스를 선보였다. 한편, 독일의 안무가가 자신의 유튜브 동영상을 참고해 애프터스쿨이 자신 안무의 일부를 훔쳤다며 표절 의혹을 받았다.\[1\]

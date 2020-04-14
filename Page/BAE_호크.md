@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [BAE ](https://ko.wikipedia.org/wiki/BAE_).
+> This article is converted from Wikipedia: [BAE 호크](https://ko.wikipedia.org/wiki/BAE_호크).
 
 
 **BAE 호크**(BAE System Hawk)는 영국의 단발 고등 제트 훈련기(Advanced Jet Trainer)기이다. 1974년에 **호커 시들리 호크**(Hawker Siddeley Hawk)로 첫 비행을 성공하였다. 호크기는 [영국 공군과](https://ko.wikipedia.org/wiki/영국_공군 "wikilink") 그 외의 여러 나라 공군에서 훈련이나 저가형 전투기의 용도로 운용되고 있으며, 그중에는 [대한민국 공군에서](../Page/대한민국_공군.md "wikilink") 운용중인 T-59도 포함된다. T-59는 오구기 즉 호크기를 음역하여 붙인 번호이다.

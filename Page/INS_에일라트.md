@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [INS ](https://ko.wikipedia.org/wiki/INS_).
+> This article is converted from Wikipedia: [INS 에일라트](https://ko.wikipedia.org/wiki/INS_에일라트).
 
 
 **INS 에일라트**는 [이스라엘 해군의](https://ko.wikipedia.org/wiki/이스라엘_해군 "wikilink") [사르5급 초계함의](../Page/사르5급_초계함.md "wikilink") 1번함이다. 미국 [미시시피주](../Page/미시시피주.md "wikilink")의 최대 민간기업인 [잉걸스 조선소에서](../Page/잉걸스_조선소.md "wikilink") 1993년 건조되었다. 사르5급은 모두 3척이 건조되어 사용중이다. 모항은 이스라엘 [하이파](../Page/하이파.md "wikilink")이다.\[1\] 1980년대 초반에 계약이 되었다.

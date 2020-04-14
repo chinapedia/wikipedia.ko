@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [NATO   ](https://ko.wikipedia.org/wiki/NATO___).
+> This article is converted from Wikipedia: [NATO 합동 군사 기호](https://ko.wikipedia.org/wiki/NATO_합동_군사_기호).
 
 
 **NATO 합동 군사 기호**(NATO Joint Military Symbology) 또는 **APP-6A**, **지상 체계용 군사 기호**(Military Symbols for Land Based Systems)은 군사 지도에서 사용되는 각종 기호의 [NATO](https://ko.wikipedia.org/wiki/NATO "wikilink") [표준](https://ko.wikipedia.org/wiki/표준 "wikilink")으로 [1999년](../Page/1999년.md "wikilink") 12월 공개되었다. APP-6A에 대한 NATO 표준 협약은 [2000년](../Page/2000년.md "wikilink") 12월 공개된 STANAG 2019 (4판)에 포함되어 있다. APP-6A 은 기존의 [APP-6](https://ko.wikipedia.org/wiki/APP-6 "wikilink")을 대체하였고 [2008년](../Page/2008년.md "wikilink")부터 [APP-6B](https://ko.wikipedia.org/wiki/APP-6B "wikilink")으로 대체되었다. [미국](../Page/미국.md "wikilink")에는 [APP-6A](https://ko.wikipedia.org/wiki/APP-6A "wikilink")의 자매 표준인 [MIL-STD-2525A](https://ko.wikipedia.org/wiki/MIL-STD-2525A "wikilink")이 있다. [APP-6A](https://ko.wikipedia.org/wiki/APP-6A "wikilink") 표준은 NATO 회원국들 간의 표준적인 기호들을 제공하여 호환성과 확장성, 그리고 지상 분야에서의 [C4I](https://ko.wikipedia.org/wiki/C4I "wikilink")와 군사 개발, 작전, 훈련에 있어서의 상호 이용성을 증가시킬 수 있다.
@@ -160,9 +160,9 @@
 
 [파일:APP-6a Example2.png](https://ko.wikipedia.org/wiki/파일:APP-6a_Example2.png "wikilink")
 
-또한 제 1 해병원정군의 APP-6에 따른 조직도는 다음과 같다.
+또한 [제1해병원정군](../Page/제1해병원정군.md "wikilink")의 APP-6에 따른 조직도는 다음과 같다.
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:1st_Marine_Expeditionary_Force.png "wikilink"){{-}}
+[섬네일의](https://ko.wikipedia.org/wiki/파일:1st_Marine_Expeditionary_Force.png "wikilink") 조직\]\]{{-}}
 
 ## 참고 문헌
 

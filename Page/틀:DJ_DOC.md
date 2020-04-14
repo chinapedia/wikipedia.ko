@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:DJ DOC](https://ko.wikipedia.org/wiki/:DJ_DOC).
+> This article is converted from Wikipedia: [틀:DJ DOC](https://ko.wikipedia.org/wiki/틀:DJ_DOC).
 
 
 <onlyinclude></onlyinclude>

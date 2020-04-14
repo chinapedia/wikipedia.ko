@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [USS   \(LHD-8\)](https://ko.wikipedia.org/wiki/USS___\(LHD-8\)).
+> This article is converted from Wikipedia: [USS 마킨 아일랜드 \(LHD-8\)](https://ko.wikipedia.org/wiki/USS_마킨_아일랜드_\(LHD-8\)).
 
 
 **USS *마킨 아일랜드* (LHD-8)**는 [와스프급 강습상륙함의](../Page/와스프급_강습상륙함.md "wikilink") 8번함이다. [마킨 아일랜드라는](https://ko.wikipedia.org/wiki/마킨_아일랜드 "wikilink") 이름을 사용한 2번째 미국 해군 군함이다. 2009년 12월 24일 실전배치되었다.

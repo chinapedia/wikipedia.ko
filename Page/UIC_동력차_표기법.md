@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [UIC  ](https://ko.wikipedia.org/wiki/UIC__).
+> This article is converted from Wikipedia: [UIC 동력차 표기법](https://ko.wikipedia.org/wiki/UIC_동력차_표기법).
 
 
 [thumb](https://ko.wikipedia.org/wiki/파일:UIC-Schema-D.png "wikilink")

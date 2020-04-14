@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ M. ](https://ko.wikipedia.org/wiki/_M._).
+> This article is converted from Wikipedia: [윌리엄 M. 베어드](https://ko.wikipedia.org/wiki/윌리엄_M._베어드).
 
 
 **윌리엄 M. 베어드**(William M. Baird, [1862년](../Page/1862년.md "wikilink") [6월 16일](../Page/6월_16일.md "wikilink") - [1931년](../Page/1931년.md "wikilink") [11월 29일](../Page/11월_29일.md "wikilink"))는 [숭실대학교](https://ko.wikipedia.org/wiki/숭실대학교 "wikilink")의 설립자이자 초대 학장이다.

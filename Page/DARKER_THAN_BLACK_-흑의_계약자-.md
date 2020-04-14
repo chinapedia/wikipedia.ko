@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [DARKER THAN BLACK - -](https://ko.wikipedia.org/wiki/DARKER_THAN_BLACK_-_-).
+> This article is converted from Wikipedia: [DARKER THAN BLACK -흑의 계약자-](https://ko.wikipedia.org/wiki/DARKER_THAN_BLACK_-흑의_계약자-).
 
 
 《**DARKER THAN BLACK -흑의 계약자-**》()는 [본즈가](https://ko.wikipedia.org/wiki/본즈_\(스튜디오\) "wikilink") 제작한 일본의 애니메이션 작품이다. 일본 MBS·TBS 계열의 10국의 방송국에서 [2007년](../Page/2007년.md "wikilink") [4월 5일부터](../Page/4월_5일.md "wikilink") 방영하여 같은해 [9월 27일에](../Page/9월_27일.md "wikilink") 종영되었다. 텔레비전 방송분 25화, 미방영분 1화(DVD수록)를 합쳐 26화의 애니메이션이다. 속편은 《[DARKER THAN BLACK -유성의 쌍둥이-](../Page/DARKER_THAN_BLACK_-유성의_쌍둥이-.md "wikilink")》이다.

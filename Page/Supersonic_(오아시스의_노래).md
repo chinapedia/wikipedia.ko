@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Supersonic \( \)](https://ko.wikipedia.org/wiki/Supersonic_\(_\)).
+> This article is converted from Wikipedia: [Supersonic \(오아시스의 노래\)](https://ko.wikipedia.org/wiki/Supersonic_\(오아시스의_노래\)).
 
 
 〈**Supersonic**〉은 [영국](../Page/영국.md "wikilink")의 록 밴드 [오아시스의](../Page/오아시스_\(밴드\).md "wikilink") 리드 기타리스트이자 작곡가인 [노엘 갤러거가](../Page/노엘_갤러거.md "wikilink") 쓴 오아시스의 데뷔 싱글이다. 1994년 8월에 발매된 데뷔 음반인 《[Definitely Maybe](../Page/Definitely_Maybe.md "wikilink")》에 수록되었다. 이 곡은 2009년 9월 1일, 락 밴드라는 게임에 라이브 버전으로 등장하였다.

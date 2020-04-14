@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ S. ](https://ko.wikipedia.org/wiki/_S._).
+> This article is converted from Wikipedia: [샘 S. 워커](https://ko.wikipedia.org/wiki/샘_S._워커).
 
 
 **샘 심즈 워커**(, [1925년](../Page/1925년.md "wikilink") [7월 31일](../Page/7월_31일.md "wikilink") \~ [2015년](../Page/2015년.md "wikilink") [8월 8일](../Page/8월_8일.md "wikilink"))는 [미국](../Page/미국.md "wikilink")의 [군인](https://ko.wikipedia.org/wiki/군인 "wikilink")이다.

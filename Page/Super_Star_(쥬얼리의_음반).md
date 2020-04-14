@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Super Star \( \)](https://ko.wikipedia.org/wiki/Super_Star_\(_\)).
+> This article is converted from Wikipedia: [Super Star \(쥬얼리의 음반\)](https://ko.wikipedia.org/wiki/Super_Star_\(쥬얼리의_음반\)).
 
 
 《**Super Star**》는 [대한민국](../Page/대한민국.md "wikilink")의 음악 그룹 [쥬얼리](../Page/쥬얼리.md "wikilink")의 4번째 정규 앨범이자 타이틀곡이다. [2005년](../Page/2005년.md "wikilink") [3월 15일](../Page/3월_15일.md "wikilink") 발매되었고, [쥬얼리](../Page/쥬얼리.md "wikilink")에게 첫 1위를 가져다준 앨범이다.

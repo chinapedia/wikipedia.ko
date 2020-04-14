@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [W \(\)](https://ko.wikipedia.org/wiki/W_\(\)).
+> This article is converted from Wikipedia: [W \(동음이의\)](https://ko.wikipedia.org/wiki/W_\(동음이의\)).
 
 
 **W** 또는 **w**는 다음과 같은 뜻이 있다.

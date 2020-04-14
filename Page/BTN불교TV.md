@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [BTNTV](https://ko.wikipedia.org/wiki/BTNTV).
+> This article is converted from Wikipedia: [BTN불교TV](https://ko.wikipedia.org/wiki/BTN불교TV).
 
 
 **BTN불교TV**는 [1995년](../Page/1995년.md "wikilink") [3월 1일에](../Page/3월_1일.md "wikilink") 개국한 [대한민국](../Page/대한민국.md "wikilink")의 TV 불교 방송국이다.

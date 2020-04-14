@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ \(w-inds. \)](https://ko.wikipedia.org/wiki/_\(w-inds._\)).
+> This article is converted from Wikipedia: [시키 \(w-inds.의 노래\)](https://ko.wikipedia.org/wiki/시키_\(w-inds.의_노래\)).
 
 
 《**사계**》()는 [w-inds.](https://ko.wikipedia.org/wiki/w-inds. "wikilink")의 13번째 싱글이다. [2004년](../Page/2004년.md "wikilink") [10월 6일](../Page/10월_6일.md "wikilink") FLIGHT MASTER([포니 캐년](../Page/포니_캐년.md "wikilink"))에서 발매하였다.

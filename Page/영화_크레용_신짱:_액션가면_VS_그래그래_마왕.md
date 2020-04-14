@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  :  VS  ](https://ko.wikipedia.org/wiki/__:__VS__).
+> This article is converted from Wikipedia: [영화 크레용 신짱: 액션가면 VS 그래그래 마왕](https://ko.wikipedia.org/wiki/영화_크레용_신짱:_액션가면_VS_그래그래_마왕).
 
 
 《**영화 크레용 신짱: 액션가면 VS 그래그래마왕**》(원제 : )은 [1993년](../Page/1993년.md "wikilink") 제작된 [일본](../Page/일본.md "wikilink")의 [애니메이션 영화이다](../Page/애니메이션_영화.md "wikilink").
@@ -52,12 +52,16 @@ PMP 엔터테인먼트에 의해 VCD를 통해 영어 제목으로는 Crayon Shi
   - [노하라 신노스케](../Page/노하라_신노스케.md "wikilink") (신짱구)
   - [노하라 히로시](../Page/노하라_히로시.md "wikilink") (신형만)
   - [노하라 미사에](../Page/노하라_미사에.md "wikilink") (봉미선)
-  - 시로 (흰둥이)
-  - 원장 선생님
-  - 부원장 선생님
-  - 요시나가 미도리 선생님 (채성아 선생님)
+  - [시로](../Page/시로_\(캐릭터\).md "wikilink") (흰둥이)
+  - [카자마 토루](../Page/카자마_토루.md "wikilink") (김철수)
+  - [사토 마사오](../Page/사토_마사오.md "wikilink") (이훈이)
+  - [보오](../Page/보오.md "wikilink") (이맹구)
+  - [사쿠라다 네네](../Page/사쿠라다_네네.md "wikilink") (한유리)
+  - [타카쿠라 분타](../Page/타카쿠라_분타.md "wikilink") (권지옹 선생님)
+  - 타카쿠라 부인 (강말자 선생님)
+  - [요시나가 미도리 선생님](https://ko.wikipedia.org/wiki/요시나가_미도리 "wikilink") (채성아 선생님)
   - 마츠자카 우메 선생님 (나미리 선생님)
-  - 액션 가면
+  - [액션가면](https://ko.wikipedia.org/wiki/액션가면 "wikilink")
   - 사쿠라 미미코 (미미)
   - 사쿠라 리리코 (리리)
   - 키타 가스카베 박사 (VHS - 김춘일 박사, TV - 고지식 박사)
@@ -179,7 +183,7 @@ PMP 엔터테인먼트에 의해 VCD를 통해 영어 제목으로는 Crayon Shi
 ## 외부 링크
 
   -
-[분류:1993년 애니메이션 영화](https://ko.wikipedia.org/wiki/분류:1993년_애니메이션_영화 "wikilink") [분류:짱구는 못말려 극장판](https://ko.wikipedia.org/wiki/분류:짱구는_못말려_극장판 "wikilink") [분류:평행 우주를 소재로 한 영화](https://ko.wikipedia.org/wiki/분류:평행_우주를_소재로_한_영화 "wikilink") [분류:도쿄도를 배경으로 한 영화](https://ko.wikipedia.org/wiki/분류:도쿄도를_배경으로_한_영화 "wikilink") [분류:사이타마현을 배경으로 한 영화](https://ko.wikipedia.org/wiki/분류:사이타마현을_배경으로_한_영화 "wikilink") [분류:외계생명을 소재로 한 애니메이션 영화](https://ko.wikipedia.org/wiki/분류:외계생명을_소재로_한_애니메이션_영화 "wikilink") [분류:혼고 미츠루 감독 영화](https://ko.wikipedia.org/wiki/분류:혼고_미츠루_감독_영화 "wikilink")
+[분류:1993년 애니메이션 영화](https://ko.wikipedia.org/wiki/분류:1993년_애니메이션_영화 "wikilink") [분류:짱구는 못말려 극장판](https://ko.wikipedia.org/wiki/분류:짱구는_못말려_극장판 "wikilink") [분류:평행 우주를 소재로 한 영화](https://ko.wikipedia.org/wiki/분류:평행_우주를_소재로_한_영화 "wikilink") [분류:도쿄도를 배경으로 한 영화](https://ko.wikipedia.org/wiki/분류:도쿄도를_배경으로_한_영화 "wikilink") [분류:사이타마현을 배경으로 한 영화](https://ko.wikipedia.org/wiki/분류:사이타마현을_배경으로_한_영화 "wikilink") [분류:외계생명을 소재로 한 애니메이션 영화](https://ko.wikipedia.org/wiki/분류:외계생명을_소재로_한_애니메이션_영화 "wikilink") [분류:혼고 미츠루 감독 영화](https://ko.wikipedia.org/wiki/분류:혼고_미츠루_감독_영화 "wikilink") [분류:일본의 애니메이션 영화](https://ko.wikipedia.org/wiki/분류:일본의_애니메이션_영화 "wikilink")
 
 1.
 2.  <http://www.nlcy.go.kr/data/search_simple.jsp?rec_key=37803482&mat_class=1>

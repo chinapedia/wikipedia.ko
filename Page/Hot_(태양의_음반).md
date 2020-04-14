@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Hot \( \)](https://ko.wikipedia.org/wiki/Hot_\(_\)).
+> This article is converted from Wikipedia: [Hot \(태양의 음반\)](https://ko.wikipedia.org/wiki/Hot_\(태양의_음반\)).
 
 
 ***Hot***()는 대한민국의 음악 그룹 [빅뱅의](../Page/빅뱅_\(음악_그룹\).md "wikilink") [태양의](../Page/태양_\(가수\).md "wikilink") 첫 번째 솔로 음반이자 첫 EP 음반이다. 이 음반은 대중들과 음악평론가들에 좋은 평가를 받아, 2009년 제6회 [한국대중음악상](../Page/한국대중음악상.md "wikilink") 최우수 알앤비&소울 앨범상(*Hot*)과 최우수 알앤비&소울 노래상(*나만 바라봐*)을 수상하였다.\[1\]\[2\] 태양은 "아이돌 그룹"의 멤버로서는 첫 수상을 하는 쾌거를 이뤘다. 이 음반의 타이틀 곡 〈나만 바라봐〉와 〈기도〉의 뮤직 비디오가 제작 되었다. 수록 곡 〈Make Love〉는 빅뱅의 일본 앨범 《[NUMBER 1](../Page/Number_1_\(빅뱅의_음반\).md "wikilink")》에 수록 되었다. 그룹의 멤버 [G-Dragon이](../Page/지드래곤.md "wikilink") 새롭게 부른 랩 버전의 〈나만 바라봐 Part 2 〉가 디지털 싱글로 발매 되기도 했다.\[3\] 이 음반은 [소리바다](../Page/소리바다.md "wikilink")와 대중음악 웹진 100비트를 비롯한 음악 전문가들이 함께 진행한 '2000년대 베스트 앨범 100' 국내 부문에서 79위로 이름을 올렸다.\[4\] 김학선 대중음악 평론가는 저서 *K-POP 세계를 홀리다*에서 2000년대 명반 20장을 소개하며 《Hot》을 17위로 꼽았다.

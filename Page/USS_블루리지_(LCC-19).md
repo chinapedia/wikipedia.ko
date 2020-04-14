@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [USS  \(LCC-19\)](https://ko.wikipedia.org/wiki/USS__\(LCC-19\)).
+> This article is converted from Wikipedia: [USS 블루리지 \(LCC-19\)](https://ko.wikipedia.org/wiki/USS_블루리지_\(LCC-19\)).
 
 
-**USS *블루리지* (LCC-19)**는 미국 해군의 블루리지급 [상륙지휘함](https://ko.wikipedia.org/wiki/상륙지휘함 "wikilink")의 [기함](https://ko.wikipedia.org/wiki/기함 "wikilink")이다. 2척 건조되었다. 미국 [블루리지 산맥의](https://ko.wikipedia.org/wiki/블루리지_산맥 "wikilink") 이름을 따왔다. 일본 [요코스카](https://ko.wikipedia.org/wiki/요코스카 "wikilink")에 영구전진배치된 [미국 제7함대의](https://ko.wikipedia.org/wiki/미국_제7함대 "wikilink") 기함이다. 함대 사령관은 해군 중장이다. 아시아 미군의 핵심전력인 [미국 제7함대의](https://ko.wikipedia.org/wiki/미국_제7함대 "wikilink") 영구전진배치 군함 18척 중 하나다.
+**USS 블루리지(LCC-19)**는 미국 해군의 블루리지급 [상륙지휘함](https://ko.wikipedia.org/wiki/상륙지휘함 "wikilink")의 [기함](https://ko.wikipedia.org/wiki/기함 "wikilink")이다. 2척 건조되었다. 미국 [블루리지 산맥의](https://ko.wikipedia.org/wiki/블루리지_산맥 "wikilink") 이름을 따왔다. 일본 [요코스카](https://ko.wikipedia.org/wiki/요코스카 "wikilink")에 영구전진배치된 [미국 제7함대의](https://ko.wikipedia.org/wiki/미국_제7함대 "wikilink") 기함이다. 함대 사령관은 해군 중장이다. 아시아 미군의 핵심전력인 [미국 제7함대의](https://ko.wikipedia.org/wiki/미국_제7함대 "wikilink") 영구전진배치 군함 18척 중 하나다.
 
 USS 블루리지 (LCC-19)는 1970년 11월 14일 [필라델피아 해군 조선소에서](https://ko.wikipedia.org/wiki/필라델피아_해군_조선소 "wikilink") 취역했다. 장교 200명과 1200명의 병사를 위한 편의제공을 하여, 작은 마을과 같은 역할을 한다.
 

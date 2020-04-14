@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Heartbreaker \(  \)](https://ko.wikipedia.org/wiki/Heartbreaker_\(__\)).
+> This article is converted from Wikipedia: [Heartbreaker \(레드 제플린의 노래\)](https://ko.wikipedia.org/wiki/Heartbreaker_\(레드_제플린의_노래\)).
 
 
 〈**Heartbreaker**〉는 영국의 록 밴드 [레드 제플린의](../Page/레드_제플린.md "wikilink") 1969년도 음반 《[Led Zeppelin II](../Page/Led_Zeppelin_II.md "wikilink")》의 수록곡이다. 밴드의 네 명의 멤버 모두가 크레디트에 올랐으며 뉴욕 시 A\&R 스튜디오에서 녹음되었다. 이때 밴드는 엔지니어 [에디 크래머와](https://ko.wikipedia.org/wiki/에디_크래머 "wikilink") 함께 두 번째 북미 투어를 진행하고 있었다. 〈Heartbreaker〉는 음반의 두 번째 면을 여는 곡으로 [지미 페이지의](../Page/지미_페이지.md "wikilink") 기타 리프를 특징으로 삼는다. 또한 증흑적이며 풀 오프 주법을 사용한 무반주의 솔로가 포함돼 있다. 《기타 월드》 지가 투표로 선정한 역대 가장 위대한 기타 솔로에서 16위로 올랐으며, 노래는 《롤링 스톤》 지가 선정한 역대 가장 위대한 500곡에서 328위에 올랐다.

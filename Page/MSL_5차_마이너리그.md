@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [MSL 5 ](https://ko.wikipedia.org/wiki/MSL_5_).
+> This article is converted from Wikipedia: [MSL 5차 마이너리그](https://ko.wikipedia.org/wiki/MSL_5차_마이너리그).
 
 
 **MSL 2차 마이너리그**는 [우주닷컴 MSL 2005의](../Page/우주닷컴_MSL_2005.md "wikilink") 진출자를 가리기 위한 대회이다.

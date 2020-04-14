@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ANSI  ](https://ko.wikipedia.org/wiki/ANSI__).
+> This article is converted from Wikipedia: [ANSI 기계기구 번호](https://ko.wikipedia.org/wiki/ANSI_기계기구_번호).
 
 
 전력 시스템 설계에 있어서, **ANSI 표준 기계기구 번호**(ANSI device numbers)는 보호계기(계전기나 차단기)가 어떤 기능을 지원하는지를 표시해 준다. 이러한 종류의 기계기구는 사고시 전력시스템과 그 구성요소를 손상으로부터 보호한다. 그리고 기계기구 번호는 설계도식(schematic diagram)에서 보이는 기계기구의 기능을 알려주는 데에 쓰인다. 대한민국 내선규정과 대체적으로 비슷하나 약간씩 다른 부분이 있다.

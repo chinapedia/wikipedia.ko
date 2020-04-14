@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KBO   ](https://ko.wikipedia.org/wiki/KBO___).
+> This article is converted from Wikipedia: [KBO 리그 연속 기록](https://ko.wikipedia.org/wiki/KBO_리그_연속_기록).
 
 
 ## 팀 기록

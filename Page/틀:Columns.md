@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Columns](https://ko.wikipedia.org/wiki/:Columns).
+> This article is converted from Wikipedia: [틀:Columns](https://ko.wikipedia.org/wiki/틀:Columns).
 
 
 <table class="multicol" style="{{#switch:{{{align|}}}

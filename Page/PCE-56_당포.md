@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [PCE-56 ](https://ko.wikipedia.org/wiki/PCE-56_).
+> This article is converted from Wikipedia: [PCE-56 당포](https://ko.wikipedia.org/wiki/PCE-56_당포).
 
 
 **당포함**(唐浦號) 또는 **PCE 56함**은 [대한민국 해군의](../Page/대한민국_해군.md "wikilink") 전투함이다.

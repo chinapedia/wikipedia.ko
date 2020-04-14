@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [PNC ](https://ko.wikipedia.org/wiki/PNC_).
+> This article is converted from Wikipedia: [PNC 파크](https://ko.wikipedia.org/wiki/PNC_파크).
 
 
 **PNC 파크**(PNC Park)는 [펜실베이니아주](../Page/펜실베이니아주.md "wikilink")의 [피츠버그](../Page/피츠버그.md "wikilink")에 위치한 야구장이다. 이 곳은 피츠버그를 연고지로 하는 [메이저 리그 베이스볼](../Page/메이저_리그_베이스볼.md "wikilink")(MLB)에 소속된 [피츠버그 파이리츠의](../Page/피츠버그_파이리츠.md "wikilink") 역대 다섯 번째 홈구장이다.\[1\]\[2\] 파이어리츠의 기존의 홈인 [스리 리버스 스타디움을](../Page/스리_리버스_스타디움.md "wikilink") 철거한 뒤에 2001년 메이저 리그 시즌이 시작되며 개장했다. PNC 파크는 피츠버그에 본사가 있는 [PNC 파이낸셜 서비시스와](https://ko.wikipedia.org/wiki/PNC_파이낸셜_서비시스 "wikilink") 명명권 계약을 하였다.\[3\] PNC 파크는 경기장 표면의 천연 잔디와 2008년에 메이저 리그에서 두 번째로 적은 수용 인원인 38,496명을 특징으로 한다.

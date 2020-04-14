@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [MS ](https://ko.wikipedia.org/wiki/MS_).
+> This article is converted from Wikipedia: [MS 유틀란디아](https://ko.wikipedia.org/wiki/MS_유틀란디아).
 
 
 **MS 유틀란디아**() 호는 [1934년](../Page/1934년.md "wikilink") 덴마크 동아시아 회사에서 건조한 화물/여객선이다. 현역으로 활동하는 기간 중에는 [한국 전쟁의](../Page/한국_전쟁.md "wikilink") 병원선 및 왕가의 배로 쓰였고, [1965년](../Page/1965년.md "wikilink")에 해체되었다.

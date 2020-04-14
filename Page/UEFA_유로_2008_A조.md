@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [UEFA  2008 A](https://ko.wikipedia.org/wiki/UEFA__2008_A).
+> This article is converted from Wikipedia: [UEFA 유로 2008 A조](https://ko.wikipedia.org/wiki/UEFA_유로_2008_A조).
 
 
 **[UEFA 유로 2008](https://ko.wikipedia.org/wiki/UEFA_유로_2008 "wikilink") A조**는 유로 2008의 4개의 조 중 하나이다. 경기는 [스위스](https://ko.wikipedia.org/wiki/스위스 "wikilink")의 [제네바](../Page/제네바.md "wikilink")와 [바젤](../Page/바젤.md "wikilink")에서 6월 7일에 시작해 6월 15일에 끝났다. A조에는 개최국인 [스위스와](../Page/스위스_축구_국가대표팀.md "wikilink") [전 대회](https://ko.wikipedia.org/wiki/UEFA_유로_2004 "wikilink") 준우승국인 포르투갈과 [체코와](../Page/체코_축구_국가대표팀.md "wikilink") [터키가](../Page/터키_축구_국가대표팀.md "wikilink") 포함되었다.

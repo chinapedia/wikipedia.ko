@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ OS](https://ko.wikipedia.org/wiki/_OS).
+> This article is converted from Wikipedia: [크로미엄 OS](https://ko.wikipedia.org/wiki/크로미엄_OS).
 
 
 **크로미엄 OS**(Chromium OS)는 [구글](../Page/구글.md "wikilink")사의 [구글 크롬 OS의](https://ko.wikipedia.org/wiki/구글_크롬_OS "wikilink") [오픈 소스](../Page/오픈_소스.md "wikilink") 개발 버전이다. 크롬 OS의 [소스 코드는](../Page/소스_코드.md "wikilink") 2009년 11월 19일에 [BSD 라이선스](https://ko.wikipedia.org/wiki/BSD_라이선스 "wikilink") 하에 크로미엄 OS로 공개되었다.\[1\]

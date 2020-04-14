@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ V](https://ko.wikipedia.org/wiki/_V).
+> This article is converted from Wikipedia: [스페셜 V](https://ko.wikipedia.org/wiki/스페셜_V).
 
 
 《**스페셜 V**》는 [KBS N 스포츠에서](../Page/KBS_N_스포츠.md "wikilink") 방송되는 [배구](../Page/배구.md "wikilink") 매거진 프로그램이다. 2007년 1월 12일에 첫 방송 되었으며, [V-리그](../Page/V-리그_\(대한민국\).md "wikilink") 시즌 기간(10월–3월)에 방송이 된다.
@@ -30,8 +30,19 @@
 | 2016-17 | [신승준](https://ko.wikipedia.org/wiki/신승준 "wikilink")\[1\], [이호근](https://ko.wikipedia.org/wiki/이호근_\(아나운서\) "wikilink")\[2\], [조은지](https://ko.wikipedia.org/wiki/조은지_\(아나운서\) "wikilink"), [홍진호](../Page/홍진호.md "wikilink")\[3\] |
 | 2017-18 | [조은지](https://ko.wikipedia.org/wiki/조은지_\(아나운서\) "wikilink"), [조진혁](https://ko.wikipedia.org/wiki/조진혁 "wikilink")                                                                                                                |
 | 2018-19 | [오효주](https://ko.wikipedia.org/wiki/오효주 "wikilink"), [이호근](https://ko.wikipedia.org/wiki/이호근_\(아나운서\) "wikilink")                                                                                                                |
+| 2019-20 | [이호근](https://ko.wikipedia.org/wiki/이호근_\(아나운서\) "wikilink"), [조은지](https://ko.wikipedia.org/wiki/조은지_\(아나운서\) "wikilink")                                                                                                       |
 
 ## 코너
+
+*2019-20 시즌 코너*
+
+  - 〈주간 리뷰〉
+  - 〈V-라이브〉
+  - 〈경기의 재구성〉
+  - 〈주간 프리뷰 : 이 경기를 주목하라〉
+  - 〈더플레이어〉
+
+### 이전 코너
 
 *2018-19 시즌 코너*
 
@@ -40,8 +51,6 @@
   - 〈V-라이브〉
   - 〈코트위의 띵작〉
   - 〈주간 프리뷰〉
-
-### 이전 코너
 
 *2017-18 시즌 코너*
 
@@ -116,7 +125,12 @@
 </tr>
 <tr class="even">
 <td><p>2018-19</p></td>
-<td><p>2018년 11월 2일–</p></td>
+<td><p>2018년 11월 2일–2019년 4월 5일</p></td>
+<td><p>23</p></td>
+</tr>
+<tr class="odd">
+<td><p>2019-20</p></td>
+<td><p>2019년 10월 28일–</p></td>
 <td><p>방송 중</p></td>
 </tr>
 </tbody>

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [T-ARS-52 USNS ](https://ko.wikipedia.org/wiki/T-ARS-52_USNS_).
+> This article is converted from Wikipedia: [T-ARS-52 USNS 살보](https://ko.wikipedia.org/wiki/T-ARS-52_USNS_살보).
 
 
 [thumb](https://ko.wikipedia.org/wiki/파일:USS_Salvor;ars52.jpg "wikilink") [thumb을](https://ko.wikipedia.org/wiki/파일:Usns-salvor-tows-uss-port-royal.jpg "wikilink") 바다로 끌어내고 있다.\]\]

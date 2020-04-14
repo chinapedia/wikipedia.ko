@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Black Night \(  \)](https://ko.wikipedia.org/wiki/Black_Night_\(__\)).
+> This article is converted from Wikipedia: [Black Night \(딥 퍼플의 노래\)](https://ko.wikipedia.org/wiki/Black_Night_\(딥_퍼플의_노래\)).
 
 
 〈**Black Night**〉는 영국 [하드 록](../Page/하드_록.md "wikilink") 밴드 [딥 퍼플의](../Page/딥_퍼플.md "wikilink") 곡이다. 이 싱글은 영국 차트 2위까지 올랐으며, 딥 퍼플의 첫 번째 오리지널 싱글이다.

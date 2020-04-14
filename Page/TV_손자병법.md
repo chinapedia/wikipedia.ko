@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TV ](https://ko.wikipedia.org/wiki/TV_).
+> This article is converted from Wikipedia: [TV 손자병법](https://ko.wikipedia.org/wiki/TV_손자병법).
 
 
 《**TV 손자병법**》은 [1987년](../Page/1987년.md "wikilink") [11월 18일부터](../Page/11월_18일.md "wikilink") [1993년](../Page/1993년.md "wikilink") [10월 14일까지](../Page/10월_14일.md "wikilink") [KBS에서](../Page/한국방송공사.md "wikilink") 방영된 코믹 시추에이션 [드라마이다](../Page/텔레비전_드라마.md "wikilink").
@@ -49,7 +49,8 @@
 
 ## 기타
 
-KBS 영상자료실에 일부만이 현존하고 다른 화수는 현존하고 있지 않는 것으로 알려져 있다.
+  - 당시 고가의 테잎가격과 열악한 보관환경으로 인하여 KBS 아카이브에는 80년대 회차중 일부만 보관되어 있으며, KBS 아카이브에서는 유실된 회차에 대하여 📼시청자소장영상공모📼를 통해 소장되지 못한 작품을 계속적으로 찾고 있다.
+  - 2020년 [KBS디지털미디어국](https://ko.wikipedia.org/wiki/KBS디지털미디어국 "wikilink")에서는 [유튜브](../Page/유튜브.md "wikilink") 채널 [옛날티비](https://ko.wikipedia.org/wiki/옛날티비 "wikilink")를 통해 풀영상을 순차적으로 공개하고있다.
 
 ## 각주
 

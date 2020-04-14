@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Britney \(\)](https://ko.wikipedia.org/wiki/Britney_\(\)).
+> This article is converted from Wikipedia: [Britney \(음반\)](https://ko.wikipedia.org/wiki/Britney_\(음반\)).
 
 
 ***Britney***은 [브리트니 스피어스의](../Page/브리트니_스피어스.md "wikilink") 세 번째 정규 앨범이다. 미국에서는 [2001년](../Page/2001년.md "wikilink") [11월 6일](../Page/11월_6일.md "wikilink") 발매되었다.

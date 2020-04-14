@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ \(GPU \)](https://ko.wikipedia.org/wiki/_\(GPU_\)).
+> This article is converted from Wikipedia: [에버그린 \(GPU 계열\)](https://ko.wikipedia.org/wiki/에버그린_\(GPU_계열\)).
 
 
 **에버그린**(Evergreen)은 [라데온](../Page/라데온.md "wikilink")의 [GPU](../Page/그래픽_처리_장치.md "wikilink") 패밀리이다. 코드명은 **RV870**이고, 상품명은 **라데온 HD 5800 시리즈**이다. 라데온 HD 5970은 코드명 **헴록(Hemrock)**이며 라데온 HD 5870 칩셋 두개로 이루어진 제품이므로 본 문서에 포함되었다.

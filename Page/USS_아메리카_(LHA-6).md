@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [USS  \(LHA-6\)](https://ko.wikipedia.org/wiki/USS__\(LHA-6\)).
+> This article is converted from Wikipedia: [USS 아메리카 \(LHA-6\)](https://ko.wikipedia.org/wiki/USS_아메리카_\(LHA-6\)).
 
 
 **USS 아메리카 (LHA-6)**는 [아메리카급 강습상륙함의](https://ko.wikipedia.org/wiki/아메리카급_강습상륙함 "wikilink") 1번함이다. 2014년 10월 취역했다. 아메리카라는 이름을 사용하는 미국 해군의 4번째 군함이다.

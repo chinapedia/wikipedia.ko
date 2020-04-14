@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Listen \(\)](https://ko.wikipedia.org/wiki/Listen_\(\)).
+> This article is converted from Wikipedia: [Listen \(노래\)](https://ko.wikipedia.org/wiki/Listen_\(노래\)).
 
 
 〈**Listen**〉(**리슨**)은 2007년, [비욘세 놀스](https://ko.wikipedia.org/wiki/비욘세_놀스 "wikilink") (Beyoncé Knowles)가 발표한 [싱글 음반으로서](../Page/싱글_\(음악\).md "wikilink"), 2006년 미국의 뮤지컬 영화《[드림걸즈](https://ko.wikipedia.org/wiki/드림걸즈_\(영화\) "wikilink")》(*Dreamgirls*)의 [사운드트랙](https://ko.wikipedia.org/wiki/사운드트랙 "wikilink")으로 잘 알려진 [R\&B](https://ko.wikipedia.org/wiki/리듬_앤_블루스 "wikilink") [발라드](https://ko.wikipedia.org/wiki/발라드_\(대중_음악\) "wikilink"), [소울](https://ko.wikipedia.org/wiki/솔_음악 "wikilink") 장르의 노래이다.\[1\]\[2\]\[3\]\[4\]\[5\]\[6\]
@@ -32,7 +32,7 @@
 
 ## 작업
 
-1981년, [미국](../Page/미국.md "wikilink")의 [뉴욕](../Page/뉴욕.md "wikilink") [브로드웨이](https://ko.wikipedia.org/wiki/브로드웨이 "wikilink") [뮤지컬](../Page/뮤지컬.md "wikilink")《[드림걸즈](https://ko.wikipedia.org/wiki/드림걸즈_\(뮤지컬\) "wikilink")》(*Dreamgirls*)가 [작곡가](https://ko.wikipedia.org/wiki/작곡가 "wikilink") [헨리 크리거](https://ko.wikipedia.org/wiki/헨리_크리거 "wikilink")(Henry Krieger)와 [극작가](https://ko.wikipedia.org/wiki/희곡 "wikilink") [톰 아이언](https://ko.wikipedia.org/wiki/톰_아이언 "wikilink")(Tom Eyen)에 의해 만들어졌고, 25년 후엔 그 뮤지컬을 원작으로 하여 헐리웃 뮤지컬 영화가 만들어졌다. 원곡을 만들었던 헨리 크리거는 이 영화에서도 음악을 담당하였고, 영화 제작에 맞추어 새로운 노래, 네 곡을 추가하였는데, 그 신곡 중 하나가 바로 "Listen"이다. [비욘세 놀스](https://ko.wikipedia.org/wiki/비욘세_놀스 "wikilink")(Beyoncé Knowles)가 연기한 디나 존스(Deena Jones)가 영화 속에서 이 노래를 불렀으며, 극 후반부인 2막 14번째 노래로 나온다.\[9\]\[10\]
+1981년, [미국](../Page/미국.md "wikilink")의 [뉴욕](../Page/뉴욕.md "wikilink") [브로드웨이](../Page/브로드웨이.md "wikilink") [뮤지컬](../Page/뮤지컬.md "wikilink")《[드림걸즈](https://ko.wikipedia.org/wiki/드림걸즈_\(뮤지컬\) "wikilink")》(*Dreamgirls*)가 [작곡가](https://ko.wikipedia.org/wiki/작곡가 "wikilink") [헨리 크리거](https://ko.wikipedia.org/wiki/헨리_크리거 "wikilink")(Henry Krieger)와 [극작가](https://ko.wikipedia.org/wiki/희곡 "wikilink") [톰 아이언](https://ko.wikipedia.org/wiki/톰_아이언 "wikilink")(Tom Eyen)에 의해 만들어졌고, 25년 후엔 그 뮤지컬을 원작으로 하여 헐리웃 뮤지컬 영화가 만들어졌다. 원곡을 만들었던 헨리 크리거는 이 영화에서도 음악을 담당하였고, 영화 제작에 맞추어 새로운 노래, 네 곡을 추가하였는데, 그 신곡 중 하나가 바로 "Listen"이다. [비욘세 놀스](https://ko.wikipedia.org/wiki/비욘세_놀스 "wikilink")(Beyoncé Knowles)가 연기한 디나 존스(Deena Jones)가 영화 속에서 이 노래를 불렀으며, 극 후반부인 2막 14번째 노래로 나온다.\[9\]\[10\]
 
 ## 음반 출시
 

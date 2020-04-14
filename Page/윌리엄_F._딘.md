@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ F. ](https://ko.wikipedia.org/wiki/_F._).
+> This article is converted from Wikipedia: [윌리엄 F. 딘](https://ko.wikipedia.org/wiki/윌리엄_F._딘).
 
 
 **윌리엄 프리시 딘**(William Frishe Dean, [1899년](../Page/1899년.md "wikilink") [8월 1일](../Page/8월_1일.md "wikilink") \~ [1981년](../Page/1981년.md "wikilink") [8월 24일](../Page/8월_24일.md "wikilink"))은 미국의 군인으로 [제2차 세계 대전과](../Page/제2차_세계_대전.md "wikilink") [한국 전쟁에](../Page/한국_전쟁.md "wikilink") 참전하였다. [한국의 군정기](../Page/한국의_군정기.md "wikilink") 당시 [재조선미육군사령부군정청](../Page/재조선미육군사령부군정청.md "wikilink")의 군정장관을 지내기도 했다. [한국 전쟁](../Page/한국_전쟁.md "wikilink") 참전 중에 [조선인민군](../Page/조선인민군.md "wikilink")에 납치되어 평양으로 끌려가기도 했으며 휴전 이후 미국 육군 소장으로 예편하였다.

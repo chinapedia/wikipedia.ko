@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Into The New World \(\)](https://ko.wikipedia.org/wiki/Into_The_New_World_\(\)).
+> This article is converted from Wikipedia: [Into The New World \(콘서트\)](https://ko.wikipedia.org/wiki/Into_The_New_World_\(콘서트\)).
 
 
 *' Into The New World*'는 [소녀시대](../Page/소녀시대.md "wikilink")의 첫 번째 단독 [콘서트](https://ko.wikipedia.org/wiki/콘서트 "wikilink")이자 [아시아](../Page/아시아.md "wikilink") 순회 투어이다. 이 콘서트는 [SM 엔터테인먼트가](../Page/SM_엔터테인먼트.md "wikilink") [2009년 11월에](../Page/2009년_11월.md "wikilink") 발표하였다. 티켓은 [11월 19일부터](../Page/11월_19일.md "wikilink") 판매하였고 3분 만에 매진되었다.

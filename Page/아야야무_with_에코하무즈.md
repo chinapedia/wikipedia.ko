@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ with ](https://ko.wikipedia.org/wiki/_with_).
+> This article is converted from Wikipedia: [아야야무 with 에코하무즈](https://ko.wikipedia.org/wiki/아야야무_with_에코하무즈).
 
 
 **아야야무 with 에코하무즈**()는 일본의 애니메이션 영화의 극중 캐릭터 유닛.

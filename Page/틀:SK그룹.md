@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:SK](https://ko.wikipedia.org/wiki/:SK).
+> This article is converted from Wikipedia: [틀:SK그룹](https://ko.wikipedia.org/wiki/틀:SK그룹).
 
 
 <onlyinclude></onlyinclude>

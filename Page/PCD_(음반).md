@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [PCD \(\)](https://ko.wikipedia.org/wiki/PCD_\(\)).
+> This article is converted from Wikipedia: [PCD \(음반\)](https://ko.wikipedia.org/wiki/PCD_\(음반\)).
 
 
 ***PCD***는 미국의 걸 그룹 [푸시캣 돌스의](../Page/푸시캣_돌스.md "wikilink") 첫 번째 정규 앨범이자 데뷔 앨범이며, 미국에서 2005년 9월 13일 발매되었다. 한국에서는 27일 발매되었다. [멜로디 숀튼과](https://ko.wikipedia.org/wiki/멜로디_숀튼 "wikilink") [니콜 셰르징거를](../Page/니콜_셰르징거.md "wikilink") 새로이 영입한 뒤, 두 개의 싱글을 발표해 이 정규 앨범을 발매하였다. 프로듀서로 참여한 사람으로는 [팀발랜드](../Page/팀발랜드.md "wikilink"), Rich Harrison, Cee-Lo Green, Polow da Don, Sean Garrett, [윌 아이 엠](https://ko.wikipedia.org/wiki/윌_아이_엠 "wikilink"), Ron Fair, Young Smoke, Siobhan Fahey, Kwamé, 로빈 안틴 등이 있다.

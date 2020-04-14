@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ \(Cooking\? Cooking!\)](https://ko.wikipedia.org/wiki/_\(Cooking\?_Cooking!\)).
+> This article is converted from Wikipedia: [요리왕 \(Cooking\? Cooking!\)](https://ko.wikipedia.org/wiki/요리왕_\(Cooking\?_Cooking!\)).
 
 
 **요리왕 (Cooking? Cooking\!)**는 [슈퍼주니어-Happy](../Page/슈퍼주니어-Happy.md "wikilink")의 미니 앨범이다. 파티를 테마로 하였으며, 명랑한 분위기를 띠고 있다.

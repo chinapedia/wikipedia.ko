@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ e ](https://ko.wikipedia.org/wiki/_e_).
+> This article is converted from Wikipedia: [독일 e스포츠 연맹](https://ko.wikipedia.org/wiki/독일_e스포츠_연맹).
 
 
 **독일e스포츠연맹**(eSport-Bund Deutschland, ESBD)는 2017년 11월 26일 [베를린](../Page/베를린.md "wikilink")에서 설립되어 독일의 [e스포츠](https://ko.wikipedia.org/wiki/e스포츠 "wikilink")종목을 총괄하는 기구이다.

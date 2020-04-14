@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [ M](https://ko.wikipedia.org/wiki/_M).
+> This article is converted from Wikipedia: [시리즈 M](https://ko.wikipedia.org/wiki/시리즈_M).
 
 
-《**시리즈 M**》은 [대한민국](../Page/대한민국.md "wikilink") [문화방송](../Page/문화방송.md "wikilink")에서 목요일 밤 11시 5분에 방송되는 [MBC의](../Page/문화방송.md "wikilink") [다큐멘터리 텔레비전 프로그램이다](../Page/다큐멘터리_텔레비전_프로그램.md "wikilink").
+《**시리즈 M**》은 [대한민국](../Page/대한민국.md "wikilink") [문화방송](../Page/문화방송.md "wikilink")에서 목요일 밤 10시 5분에 방송되는 [MBC의](../Page/문화방송.md "wikilink") [다큐멘터리 텔레비전 프로그램이다](../Page/다큐멘터리_텔레비전_프로그램.md "wikilink").
 
 ## 역사
 
@@ -69,19 +69,19 @@
 
 ## 수도권외 자체방송
 
-  - [대구MBC](https://ko.wikipedia.org/wiki/대구MBC "wikilink"), [대전MBC](https://ko.wikipedia.org/wiki/대전MBC "wikilink"), [부산MBC](https://ko.wikipedia.org/wiki/부산MBC "wikilink"), [MBC경남](../Page/MBC경남.md "wikilink"), [제주MBC](https://ko.wikipedia.org/wiki/제주MBC "wikilink") : 다큐에세이 그사람
+  - [대구MBC](https://ko.wikipedia.org/wiki/대구MBC "wikilink"), [대전MBC](https://ko.wikipedia.org/wiki/대전MBC "wikilink"), [부산MBC](https://ko.wikipedia.org/wiki/부산MBC "wikilink"),, [제주MBC](https://ko.wikipedia.org/wiki/제주MBC "wikilink"), [안동MBC](https://ko.wikipedia.org/wiki/안동MBC "wikilink") : 다큐에세이 그사람
+  - [MBC경남](../Page/MBC경남.md "wikilink") :시사라이브 불독
   - [전주MBC](https://ko.wikipedia.org/wiki/전주MBC "wikilink") : 이슈 옥타곤
   - [여수MBC](https://ko.wikipedia.org/wiki/여수MBC "wikilink") : 오마이 싱어
   - [울산MBC](https://ko.wikipedia.org/wiki/울산MBC "wikilink") : 돌직구 +
   - [MBC충북](../Page/MBC충북.md "wikilink") : 더트로트
   - [춘천MBC](https://ko.wikipedia.org/wiki/춘천MBC "wikilink"), [광주MBC](https://ko.wikipedia.org/wiki/광주MBC "wikilink"): 특집
   - [원주MBC](https://ko.wikipedia.org/wiki/원주MBC "wikilink") : 지도의 뒷면
-  - [MBC강원영동](../Page/MBC강원영동.md "wikilink") : 7번국도
-  - [안동MBC](https://ko.wikipedia.org/wiki/안동MBC "wikilink") : 깨소금
   - [포항MBC](https://ko.wikipedia.org/wiki/포항MBC "wikilink") : 시시콜콜택시
-  - 수도권,목포만 방송되며, DMB는 수도권 전용이다.
+  - 수도권, 목포,영동 만방송되며, DMB는 수도권 전용이다.
   - 강원, 제주, 대구, 울산, 경남, 여수 등은 다큐프라임이 나온다.
   - 충청, 광주, 전북, 경북, 부산 등은 모두불가
+  - 예외적으로 [배철수의 음악캠프](../Page/배철수의_음악캠프.md "wikilink") 특집편은 경남.제주를제외한나머지만 나왔었다.(2020년 3월26일 방송)
 
 ## 방송 회차
 

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ L. ](https://ko.wikipedia.org/wiki/_L._).
+> This article is converted from Wikipedia: [피터 L. 버거](https://ko.wikipedia.org/wiki/피터_L._버거).
 
 
 **피터 루트비히 버거**(Peter Ludwig Berger, 1929년 3월 17일 \~ 2017년 6월 27일)는 오스트리아에서 태어난 미국인 [종교사회학](https://ko.wikipedia.org/wiki/종교사회학 "wikilink")자이며, 지식 사회학, 종교 사회학, 현대화로 저명하며, 그리고 사회 이론에 이론적 공헌을 하였다. [루터파](https://ko.wikipedia.org/wiki/루터파 "wikilink") [신학자](https://ko.wikipedia.org/wiki/신학자 "wikilink")로 [토마스 루크만과](https://ko.wikipedia.org/wiki/토마스_루크만 "wikilink") 함께 쓴 《실재의 사회적 구성(Social Construction of Reality, 1966)》으로 유명하다. 이 책은 지식 사회학 안에서 가장 영향력있는 책가운데 하나로 인정받고 있으며 [사회 구성주의](../Page/사회_구성주의.md "wikilink")(socaial constructionism)의 발전 속에서 핵심적인 역할을 하였다. 사회 구성주의란 사회구성원들이 만든 실재가 어떻게 만들어지고 구성되며 반영되는지를 탐구하는 것이다.

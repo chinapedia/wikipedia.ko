@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [THANKS \(w-inds. \)](https://ko.wikipedia.org/wiki/THANKS_\(w-inds._\)).
+> This article is converted from Wikipedia: [THANKS \(w-inds.의 음반\)](https://ko.wikipedia.org/wiki/THANKS_\(w-inds.의_음반\)).
 
 
 《**THANKS**》는 [w-inds.](https://ko.wikipedia.org/wiki/w-inds. "wikilink")의 다섯 번째 앨범이다. [2006년](../Page/2006년.md "wikilink") [3월 15일](../Page/3월_15일.md "wikilink") FLIGHT MASTER에서 발매하였다.

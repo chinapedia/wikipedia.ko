@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ PC](https://ko.wikipedia.org/wiki/_PC).
+> This article is converted from Wikipedia: [태블릿 PC](https://ko.wikipedia.org/wiki/태블릿_PC).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:HP_Tablet_PC_running_Windows_XP_\(Tablet_PC_edition\)_\(2006\).jpg "wikilink")
@@ -28,7 +28,7 @@
 3.
 4.  [Free software and cellphones — Free Software Foundation — working together for free software](http://www.fsf.org/working-together/next-steps/free-software-phones)
 5.  <https://www.youtube.com/watch?v=KPDfHWAEV8A>
-6.  <http://www.techradar.com/news/phone-and-communications/mobile-phones/firefox-for-android-coming-late-this-year--670810>
+6.
 7.
 8.  www.fsf.org/news/ibad_launch iPad is iBad for freedom — Free Software Foundation — working together for free software \]
 9.  [아이패드는 컴퓨터가 아니다](http://spectrum.ieee.org/consumer-electronics/portable-devices/the-ipad-is-not-a-computer)

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FC   ](https://ko.wikipedia.org/wiki/FC___).
+> This article is converted from Wikipedia: [FC 서울 선수 명단](https://ko.wikipedia.org/wiki/FC_서울_선수_명단).
 
 
 [FC 서울에](https://ko.wikipedia.org/wiki/FC_서울 "wikilink") 입단한 역대 선수들에 관한 문서이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:2PM](https://ko.wikipedia.org/wiki/:2PM).
+> This article is converted from Wikipedia: [틀:2PM](https://ko.wikipedia.org/wiki/틀:2PM).
 
 
 "[2:00PM Time For Change](https://ko.wikipedia.org/wiki/2:00PM_Time_For_Change "wikilink")"{{·}} "[Don't Stop Can't Stop](https://ko.wikipedia.org/wiki/Don't_Stop_Can't_Stop "wikilink")"{{·}} "Thank You"

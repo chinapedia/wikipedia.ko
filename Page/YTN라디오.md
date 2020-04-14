@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [YTN](https://ko.wikipedia.org/wiki/YTN).
+> This article is converted from Wikipedia: [YTN라디오](https://ko.wikipedia.org/wiki/YTN라디오).
 
 
 **주식회사 YTN라디오**는 대한민국의 라디오 방송국이자 [YTN](../Page/YTN.md "wikilink")의 자회사로, 대한민국 유일의 보도 전문 라디오 채널이다. 별명으로는 **YTN News FM**이라는 명칭을 사용한다.

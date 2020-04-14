@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [MSL 4 ](https://ko.wikipedia.org/wiki/MSL_4_).
+> This article is converted from Wikipedia: [MSL 4차 마이너리그](https://ko.wikipedia.org/wiki/MSL_4차_마이너리그).
 
 
 **MSL 2차 마이너리그**는 [당신은 골프왕 MSL 2004의](../Page/당신은_골프왕_MSL_2004.md "wikilink") 진출자를 가리기 위한 대회이다.

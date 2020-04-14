@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [GM ](https://ko.wikipedia.org/wiki/GM_).
+> This article is converted from Wikipedia: [GM대우 라세티](https://ko.wikipedia.org/wiki/GM대우_라세티).
 
 
 **GM대우 라세티**(GM Daewoo Lacetti)는 [대한민국](../Page/대한민국.md "wikilink")의 자동차 회사인 [GM대우(한국GM의 전신)의](https://ko.wikipedia.org/wiki/한국GM "wikilink") 승용차이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Deep Purple \(\)](https://ko.wikipedia.org/wiki/Deep_Purple_\(\)).
+> This article is converted from Wikipedia: [Deep Purple \(음반\)](https://ko.wikipedia.org/wiki/Deep_Purple_\(음반\)).
 
 
 《***Deep Purple***》, 혹은 《***Deep Purple Ⅲ***》은 [영국](../Page/영국.md "wikilink") [하드 록](../Page/하드_록.md "wikilink") 밴드 [딥 퍼플의](../Page/딥_퍼플.md "wikilink") 앨범이다. 이 앨범은 영국에서는 [하비스트 레코드](https://ko.wikipedia.org/wiki/하비스트_레코드 "wikilink"), [테트라그래마톤](https://ko.wikipedia.org/wiki/테트라그래마톤 "wikilink")에 의해 미국에서 발매되었다. 이 앨범은 딥 퍼플 1기의 마지막 앨범이다.

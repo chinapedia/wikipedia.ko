@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [LIG](https://ko.wikipedia.org/wiki/LIG).
+> This article is converted from Wikipedia: [LIG넥스원](https://ko.wikipedia.org/wiki/LIG넥스원).
 
 
 **LIG넥스원**은 대한민국의 방위산업체로, [LIG그룹](../Page/LIG그룹.md "wikilink")의 계열사이다.

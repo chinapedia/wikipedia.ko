@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [USS ](https://ko.wikipedia.org/wiki/USS_).
+> This article is converted from Wikipedia: [USS 엔터프라이즈](https://ko.wikipedia.org/wiki/USS_엔터프라이즈).
 
 
 **USS 엔터프라이즈**()는 *엔터프라이즈*의 이름을 부여받은 미국, 혹은 가상의 함선을 가리킨다.

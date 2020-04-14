@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:TTC ](https://ko.wikipedia.org/wiki/:TTC_).
+> This article is converted from Wikipedia: [틀:TTC 노선색](https://ko.wikipedia.org/wiki/틀:TTC_노선색).
 
 
 {{\#switch:

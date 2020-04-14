@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [     III:  ](https://ko.wikipedia.org/wiki/_____III:__).
+> This article is converted from Wikipedia: [히어로즈 오브 마이트 앤 매직 III: 아마겟돈 블레이드](https://ko.wikipedia.org/wiki/히어로즈_오브_마이트_앤_매직_III:_아마겟돈_블레이드).
 
 
 **히어로즈 오브 마이트 앤 매직 III: 아마겟돈 블레이드**()는 [히어로즈 오브 마이트 앤 매직 III의](../Page/히어로즈_오브_마이트_앤_매직_III.md "wikilink") 첫 번째 확장팩이다.

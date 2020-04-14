@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ FB](https://ko.wikipedia.org/wiki/_FB).
+> This article is converted from Wikipedia: [현대 FB](https://ko.wikipedia.org/wiki/현대_FB).
 
 
 **현대 FB**는 [현대자동차](https://ko.wikipedia.org/wiki/현대자동차 "wikilink")의 준대형 전방엔진 상용 [버스](../Page/버스.md "wikilink") 차종이다. [1982년](../Page/1982년.md "wikilink") 1월 HD170 후속모델인 FB485가 처음 출시되었고 1986년 FB485의 후속인 FB500이 현대자동차 역사상 마지막 프론트 엔진 준대형 버스 차종이다.

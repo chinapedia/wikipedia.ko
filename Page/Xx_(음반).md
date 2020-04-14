@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Xx \(\)](https://ko.wikipedia.org/wiki/Xx_\(\)).
+> This article is converted from Wikipedia: [Xx \(음반\)](https://ko.wikipedia.org/wiki/Xx_\(음반\)).
 
 
 《**xx**》는 영국 인디 록 밴드 [The xx의](https://ko.wikipedia.org/wiki/The_xx "wikilink") 첫 앨범이다. [2009년](../Page/2009년.md "wikilink") [8월 17일](../Page/8월_17일.md "wikilink") 영국에서 먼저 발매되었다. [대한민국](../Page/대한민국.md "wikilink")에서는 [2010년](../Page/2010년.md "wikilink") [3월 11일](../Page/3월_11일.md "wikilink") 발매되었다.

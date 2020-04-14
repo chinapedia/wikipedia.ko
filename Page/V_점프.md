@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [V ](https://ko.wikipedia.org/wiki/V_).
+> This article is converted from Wikipedia: [V 점프](https://ko.wikipedia.org/wiki/V_점프).
 
 
 《**V 점프**》()는 [슈에이샤](../Page/슈에이샤.md "wikilink")가 발행하는 [일본](../Page/일본.md "wikilink")의 [소년 만화](../Page/소년_만화.md "wikilink") 잡지이다.

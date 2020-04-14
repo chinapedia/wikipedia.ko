@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ D  ](https://ko.wikipedia.org/wiki/_D__).
+> This article is converted from Wikipedia: [이니셜 D 익스트림 스테이지](https://ko.wikipedia.org/wiki/이니셜_D_익스트림_스테이지).
 
 
 《**이니셜D 익스트림 스테이지**》(頭文字D エクストリーム ステージ)는 [세가](https://ko.wikipedia.org/wiki/세가 "wikilink")에서 [플레이 스테이션3](https://ko.wikipedia.org/wiki/플레이_스테이션3 "wikilink") 전용으로 개발한 [레이싱 게임이다](https://ko.wikipedia.org/wiki/레이싱_게임 "wikilink").

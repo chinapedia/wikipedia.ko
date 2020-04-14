@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ 3DS](https://ko.wikipedia.org/wiki/_3DS).
+> This article is converted from Wikipedia: [닌텐도 3DS](https://ko.wikipedia.org/wiki/닌텐도_3DS).
 
 
 **닌텐도 3DS**(Nintendo 3DS)는 [닌텐도](../Page/닌텐도.md "wikilink")가 발매한 [휴대용 게임기이다](../Page/휴대용_게임기.md "wikilink"). 이 게임기는 [3D 안경](https://ko.wikipedia.org/wiki/3D_안경 "wikilink") 없이 [입체 영상으로](https://ko.wikipedia.org/wiki/입체_영상 "wikilink") 소프트웨어를 즐길 수 있으며, [닌텐도 DS](../Page/닌텐도_DS.md "wikilink") 계열의 게임기 소프트웨어와의 [하위 호환이](https://ko.wikipedia.org/wiki/하위_호환 "wikilink") 가능하다. 또한 닌텐도 3DS는 [닌텐도 DS의](../Page/닌텐도_DS.md "wikilink") 후속 게임기이자 [소니](../Page/소니.md "wikilink")의 [플레이스테이션 비타와](https://ko.wikipedia.org/wiki/플레이스테이션_비타 "wikilink") 경쟁을 벌였다.
