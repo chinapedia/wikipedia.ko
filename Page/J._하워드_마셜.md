@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [J.  ](https://ko.wikipedia.org/wiki/J.__).
+> This article is converted from Wikipedia: [J. 하워드 마셜](https://ko.wikipedia.org/wiki/J._하워드_마셜).
 
 
 **제임스 하워드 마셜**(James Howard Marshall II, 1905년 1월 24일 - 1995년 8월 4일)은 [미국](../Page/미국.md "wikilink")의 기업인, 대학 교수이자 변호사로 [미국](../Page/미국.md "wikilink")의 석유 재벌이자, 재계 거물의 한 사람이었다. 한때 [미국](../Page/미국.md "wikilink") [연방 정부의](https://ko.wikipedia.org/wiki/연방_정부 "wikilink") 공무원으로도 근무하였다. [유류 파동](../Page/유류_파동.md "wikilink") 이전까지는 미국 국내외의 9개 이상의 석유회사에도 관계하였다. 1994년 모델 [애나 니콜 스미스와](../Page/애나_니콜_스미스.md "wikilink") 결혼하였으나 1년 만에 사망하였다.

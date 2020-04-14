@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ X-E1](https://ko.wikipedia.org/wiki/_X-E1).
+> This article is converted from Wikipedia: [후지필름 X-E1](https://ko.wikipedia.org/wiki/후지필름_X-E1).
 
 
 **후지필름 X-E1**은 [2012년](../Page/2012년.md "wikilink") 9월 출시한 후지필름의 [미러리스 렌즈 교환식 카메라이다](../Page/미러리스_렌즈_교환식_카메라.md "wikilink"). [X-Pro1과](../Page/후지필름_X-Pro1.md "wikilink") 같은 센서 및 [자동 초점센서를](../Page/자동_초점.md "wikilink") 탑재했고 더욱 가벼워졌다. 하지만 LCD 성능이 하향됐으며 하이브리드 뷰파인더가 아닌 일반 OLED 전자식 뷰파인더만을 탑재했다는 차이점이 있다.

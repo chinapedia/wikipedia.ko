@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Good Time \(     \)](https://ko.wikipedia.org/wiki/Good_Time_\(_____\)).
+> This article is converted from Wikipedia: [Good Time \(아울 시티와 칼리 레이 젭슨의 노래\)](https://ko.wikipedia.org/wiki/Good_Time_\(아울_시티와_칼리_레이_젭슨의_노래\)).
 
 
 "**Good Time**"은 [아울 시티와](../Page/아울_시티.md "wikilink") [칼리 레이 젭슨의](../Page/칼리_레이_젭슨.md "wikilink") 노래이다.

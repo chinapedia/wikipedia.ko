@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ X-](https://ko.wikipedia.org/wiki/_X-).
+> This article is converted from Wikipedia: [후지필름 X-마운트](https://ko.wikipedia.org/wiki/후지필름_X-마운트).
 
 
 **후지필름 X-마운트**는 [후지필름](../Page/후지필름.md "wikilink")이 [렌즈 교환식 미러리스 카메라용으로](https://ko.wikipedia.org/wiki/렌즈_교환식_미러리스_카메라 "wikilink") 디자인한 새로운 후지논 렌즈 라인업이다. 현재 후지논 XF와 XC 렌즈들, 그리고 [칼자이스](../Page/칼자이스.md "wikilink")의 Touit 렌즈 라인업이 있다. 그러나 이 외에도 별도의 어댑터를 사용하여 [라이카 M 렌즈를](../Page/라이카_M_마운트_렌즈_목록.md "wikilink") 사용할 수 있다. 또한 추가적인 어댑터를 사용하여 [캐논](../Page/캐논.md "wikilink"), [니콘](../Page/니콘.md "wikilink"), [미놀타](https://ko.wikipedia.org/wiki/미놀타 "wikilink"), 콘탁스/야시카, [코니카](https://ko.wikipedia.org/wiki/코니카 "wikilink") SLR 렌즈들 역시 이용할 수 있다.

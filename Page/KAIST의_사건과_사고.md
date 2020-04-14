@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KAIST  ](https://ko.wikipedia.org/wiki/KAIST__).
+> This article is converted from Wikipedia: [KAIST의 사건과 사고](https://ko.wikipedia.org/wiki/KAIST의_사건과_사고).
 
 
 ## 2012년

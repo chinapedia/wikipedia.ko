@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [LG G ](https://ko.wikipedia.org/wiki/LG_G_).
+> This article is converted from Wikipedia: [LG G 시리즈](https://ko.wikipedia.org/wiki/LG_G_시리즈).
 
 
 [thumbnail](https://ko.wikipedia.org/wiki/파일:LG_G_로고_2014-02-17_14-57.jpg "wikilink")

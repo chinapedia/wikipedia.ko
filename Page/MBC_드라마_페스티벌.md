@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [MBC  ](https://ko.wikipedia.org/wiki/MBC__).
+> This article is converted from Wikipedia: [MBC 드라마 페스티벌](https://ko.wikipedia.org/wiki/MBC_드라마_페스티벌).
 
 
 《**드라마 페스티벌**》은 [2013년](../Page/2013년.md "wikilink") [10월 2일부터](../Page/10월_2일.md "wikilink") [2014년](../Page/2014년.md "wikilink") [12월 7일까지](../Page/12월_7일.md "wikilink") [MBC에서](../Page/MBC_TV.md "wikilink") 방영된 [단막극](https://ko.wikipedia.org/wiki/단막극 "wikilink")이다. 경쟁력 있는 젊은 연출과 신인·기성 작가들의 만남을 통해 기존에 볼 수 없었던 파격적이고 실험적인 텔레비전 드라마를 선보이고자 하였다.

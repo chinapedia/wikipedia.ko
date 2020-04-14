@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ PEN E-PL5](https://ko.wikipedia.org/wiki/_PEN_E-PL5).
+> This article is converted from Wikipedia: [올림푸스 PEN E-PL5](https://ko.wikipedia.org/wiki/올림푸스_PEN_E-PL5).
 
 
 **PEN E-PL5**()은 [2012년](../Page/2012년.md "wikilink") 10월 출시된 [올림푸스](../Page/올림푸스.md "wikilink")의 [미러리스 렌즈 교환식 카메라이다](../Page/미러리스_렌즈_교환식_카메라.md "wikilink"). [올림푸스 PEN E-PL3의](../Page/올림푸스_PEN_E-PL3.md "wikilink") 후계기이며, 원래 E-PL4라는 이름으로 출시돼야 했으나, 이미 E-PL4라는 이름의 기종이 일본 내수용으로 따로 출시된 바 있어 이를 구분하기 위해 E-PL5라는 이름으로 출시되었다. [올림푸스 OM-D E-M5의](https://ko.wikipedia.org/wiki/올림푸스_OM-D_E-M5 "wikilink") 출시에 맞추어 업그레이드된 새로운 1,605만 화소 CMOS를 탑재하였으며, 연사 성능의 개선, 알루미늄 재질 사용, 틸트 + 플립 터치 LCD를 탑재하였다.

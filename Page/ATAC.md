@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ATAC](https://ko.wikipedia.org/wiki/ATAC).
 
 
-**ATAC 주식회사** (, "로마 [코무네](https://ko.wikipedia.org/wiki/코무네 "wikilink") 전철 및 버스 주식회사")는 [이탈리아](../Page/이탈리아.md "wikilink") [로마](../Page/로마.md "wikilink") 및 주변 [코무네](https://ko.wikipedia.org/wiki/코무네 "wikilink")의 대중교통을 운영하는 기관이다. 1909년 창립되었다.
+**ATAC 주식회사**(, "로마 [코무네](https://ko.wikipedia.org/wiki/코무네 "wikilink") 전철 및 버스 주식회사")는 [이탈리아](../Page/이탈리아.md "wikilink") [로마](../Page/로마.md "wikilink") 및 주변 [코무네](https://ko.wikipedia.org/wiki/코무네 "wikilink")의 대중교통을 운영하는 기관이다. 1909년 창립되었다.
 
 ## 운영중인 교통 목록
 

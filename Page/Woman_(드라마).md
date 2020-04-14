@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Woman \(\)](https://ko.wikipedia.org/wiki/Woman_\(\)).
+> This article is converted from Wikipedia: [Woman \(드라마\)](https://ko.wikipedia.org/wiki/Woman_\(드라마\)).
 
 
 《**Woman**》(우먼)은, [2013년](../Page/2013년.md "wikilink") [7월 3일부터](../Page/7월_3일.md "wikilink") [9월 11일까지](../Page/9월_11일.md "wikilink") [닛폰 TV의](../Page/닛폰_TV_방송망.md "wikilink") 〈[수요 드라마](https://ko.wikipedia.org/wiki/수요드라마_\(닛폰_TV\) "wikilink")〉(매주 [수요일](../Page/수요일.md "wikilink") 22:00 \~ 22:54, [JST](../Page/일본_표준시.md "wikilink"))에서 방송된 [일본](../Page/일본.md "wikilink")의 [텔레비전 드라마이다](https://ko.wikipedia.org/wiki/일본_드라마 "wikilink"). 주연은 [미츠시마 히카리](../Page/미츠시마_히카리.md "wikilink").

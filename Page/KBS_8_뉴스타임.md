@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KBS 8 ](https://ko.wikipedia.org/wiki/KBS_8_).
+> This article is converted from Wikipedia: [KBS 8 뉴스타임](https://ko.wikipedia.org/wiki/KBS_8_뉴스타임).
 
 
 《**KBS 8 뉴스타임**》은 대한민국 [KBS 2TV에서](../Page/KBS_2TV.md "wikilink") 평일 저녁 8시에 방송되었던 [KBS 2TV의 메인뉴스 프로그램이다](../Page/한국방송공사의_뉴스_프로그램.md "wikilink").

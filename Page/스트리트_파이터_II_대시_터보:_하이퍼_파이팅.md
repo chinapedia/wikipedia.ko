@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  II  :  ](https://ko.wikipedia.org/wiki/__II__:__).
+> This article is converted from Wikipedia: [스트리트 파이터 II 대시 터보: 하이퍼 파이팅](https://ko.wikipedia.org/wiki/스트리트_파이터_II_대시_터보:_하이퍼_파이팅).
 
 
 《**스트리트 파이터 2 터보**》(Street Fighter II Turbo: Hyper Fighting)는 [스트리트 파이터 II: 더 월드 워리어의](../Page/스트리트_파이터_II:_더_월드_워리어.md "wikilink") 2번째 버전업 게임이다.

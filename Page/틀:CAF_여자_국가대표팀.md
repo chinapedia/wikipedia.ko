@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:CAF  ](https://ko.wikipedia.org/wiki/:CAF__).
+> This article is converted from Wikipedia: [틀:CAF 여자 국가대표팀](https://ko.wikipedia.org/wiki/틀:CAF_여자_국가대표팀).
 
 
 <onlyinclude></onlyinclude><noinclude> [분류:CAF에 관한 둘러보기 틀](https://ko.wikipedia.org/wiki/분류:CAF에_관한_둘러보기_틀 "wikilink") </noinclude>

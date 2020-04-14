@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  II:  ](https://ko.wikipedia.org/wiki/__II:__).
+> This article is converted from Wikipedia: [스트리트 파이터 II: 챔피언 에디션](https://ko.wikipedia.org/wiki/스트리트_파이터_II:_챔피언_에디션).
 
 
 《**스트리트 파이터 II: 챔피언 에디션**》은 1992년 [캡콤](../Page/캡콤.md "wikilink")의 아케이드용 출시된 대전 격투 게임이다. 오리지널에서 문제시 되었던 각종 버그를 수정. 그리고 오리지널에서 선택이 불가능하였던 사천왕을 플레이어 캐릭터로 추가하였다.

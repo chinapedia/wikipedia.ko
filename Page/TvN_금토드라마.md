@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TvN ](https://ko.wikipedia.org/wiki/TvN_).
+> This article is converted from Wikipedia: [TvN 금토드라마](https://ko.wikipedia.org/wiki/TvN_금토드라마).
 
 
 **tvN 금토드라마**는 [tvN](https://ko.wikipedia.org/wiki/tvN "wikilink")에서 매주 [금요일](../Page/금요일.md "wikilink")과 [토요일](../Page/토요일.md "wikilink") 밤 8시 30분에 방영되는 [텔레비전 드라마다](../Page/텔레비전_드라마.md "wikilink").

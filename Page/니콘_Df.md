@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ Df](https://ko.wikipedia.org/wiki/_Df).
+> This article is converted from Wikipedia: [니콘 Df](https://ko.wikipedia.org/wiki/니콘_Df).
 
 
 **니콘 Df**<small>()</small>는 [2013년](../Page/2013년.md "wikilink") [11월 5일](../Page/11월_5일.md "wikilink") 출시된 [니콘](../Page/니콘.md "wikilink")의 [디지털 SLR](../Page/디지털_일안_반사식_카메라.md "wikilink") [카메라이다](../Page/사진기.md "wikilink").\[1\] 바디 단품 기준 US $2,746.95, 50mm F1.8 한정판 렌즈킷은 US $2,996.95에 출시되었다.

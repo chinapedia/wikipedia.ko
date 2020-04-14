@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [JK  ](https://ko.wikipedia.org/wiki/JK__).
+> This article is converted from Wikipedia: [JK 탈린나 칼레브](https://ko.wikipedia.org/wiki/JK_탈린나_칼레브).
 
 
 **JK 탈린나 칼레브**()는 [탈린](../Page/탈린.md "wikilink")을 연고로 하는 [에스토니아](../Page/에스토니아.md "wikilink")의 축구 클럽이다. 현재는 [메이스트릴리가](../Page/메이스트릴리가.md "wikilink")에 참가하고 있다.

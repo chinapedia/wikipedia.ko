@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Mach \( \)](https://ko.wikipedia.org/wiki/Mach_\(_\)).
+> This article is converted from Wikipedia: [Mach \(레인보우의 노래\)](https://ko.wikipedia.org/wiki/Mach_\(레인보우의_노래\)).
 
 
 〈**Mach (마하)**〉는 [대한민국](../Page/대한민국.md "wikilink")의 [걸 그룹](../Page/걸_그룹.md "wikilink") [레인보우의](https://ko.wikipedia.org/wiki/레인보우_\(음악_그룹\) "wikilink") 두 번째 싱글 음반이다.

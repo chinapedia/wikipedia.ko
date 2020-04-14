@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Unbroken \(  \)](https://ko.wikipedia.org/wiki/Unbroken_\(__\)).
+> This article is converted from Wikipedia: [Unbroken \(데미 로바토의 음반\)](https://ko.wikipedia.org/wiki/Unbroken_\(데미_로바토의_음반\)).
 
 
 ***Unbroken***는 데미 로바토의 세번째 정규 음반으로, 2011년 9월 20일 발매되었다.

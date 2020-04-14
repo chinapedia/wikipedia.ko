@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TV ](https://ko.wikipedia.org/wiki/TV_).
+> This article is converted from Wikipedia: [TV툰 데칼코마니](https://ko.wikipedia.org/wiki/TV툰_데칼코마니).
 
 
 《**TV툰 데칼코마니**》는 [JTBC](../Page/JTBC.md "wikilink")의 교양 [애니메이션](https://ko.wikipedia.org/wiki/텔레비전_애니메이션 "wikilink") [프로그램이다](../Page/텔레비전_프로그램.md "wikilink"). 분할된 화면을 통해 일상 속 서로 다른 상황들을 보여주는 감성 애니메이션 프로그램이다.\[1\]

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FIDO ](https://ko.wikipedia.org/wiki/FIDO_).
+> This article is converted from Wikipedia: [FIDO 얼라이언스](https://ko.wikipedia.org/wiki/FIDO_얼라이언스).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:FIDO_Alliance_logo.png "wikilink") **FIDO**(Fast IDentity Online) **얼라이언스**(Alliance)는 온라인 환경에서 비밀번호를 대체하는 안정성이 있는 인증방식인 [FIDO](https://ko.wikipedia.org/wiki/FIDO "wikilink") 기술표준을 정하기 위해 2012년 7월 설립된 협의회이다.\[1\]\[2\] 회원사로 [삼성전자](https://ko.wikipedia.org/wiki/삼성전자 "wikilink"), [블랙베리](../Page/블랙베리_\(기업\).md "wikilink"), [크루셜텍](https://ko.wikipedia.org/wiki/크루셜텍 "wikilink"), [구글](../Page/구글.md "wikilink"), [레노보](https://ko.wikipedia.org/wiki/레노보 "wikilink"), [마스터카드](../Page/마스터카드.md "wikilink"), [마이크로소프트](../Page/마이크로소프트.md "wikilink"), [페이팔](../Page/페이팔.md "wikilink"), [LG전자](../Page/LG전자.md "wikilink"), [BC카드](https://ko.wikipedia.org/wiki/BC카드 "wikilink") 등 전세계 250여개 회사가 있다. 이곳에서 표준화하는 인증기술은 [생체인증](https://ko.wikipedia.org/wiki/생체인증 "wikilink")기술 등을 포함한다. 대한민국, 유럽, 인도, 일본, 중국에 워킹 그룹을 운영하고 있다.

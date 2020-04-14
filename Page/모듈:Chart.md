@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Chart](https://ko.wikipedia.org/wiki/:Chart).
+> This article is converted from Wikipedia: [모듈:Chart](https://ko.wikipedia.org/wiki/모듈:Chart).
 
 
 \--

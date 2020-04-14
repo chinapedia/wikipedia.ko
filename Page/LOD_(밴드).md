@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [LOD \(\)](https://ko.wikipedia.org/wiki/LOD_\(\)).
+> This article is converted from Wikipedia: [LOD \(밴드\)](https://ko.wikipedia.org/wiki/LOD_\(밴드\)).
 
 
 **에로디**(LOD = Legion Of Doom)는 [대한민국](../Page/대한민국.md "wikilink")의 밴드이다. [2011년](../Page/2011년.md "wikilink")부터 활동중인 프로젝트 밴드이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ HBase](https://ko.wikipedia.org/wiki/_HBase).
+> This article is converted from Wikipedia: [아파치 HBase](https://ko.wikipedia.org/wiki/아파치_HBase).
 
 
 **아파치 HBase**()는 [하둡](https://ko.wikipedia.org/wiki/하둡 "wikilink") 플랫폼을 위한 공개 [비관계형](../Page/NoSQL.md "wikilink") 분산 [데이터 베이스이다](https://ko.wikipedia.org/wiki/데이터_베이스 "wikilink"). [구글](../Page/구글.md "wikilink")의 [빅테이블](../Page/빅테이블.md "wikilink")(BigTable)을 본보기로 삼았으며 [자바로](../Page/자바_\(프로그래밍_언어\).md "wikilink") 쓰여졌다. [아파치 소프트웨어 재단의](../Page/아파치_소프트웨어_재단.md "wikilink") 아파치 하둡 프로젝트 일부로서 개발되었으며 하둡의 [분산 파일 시스템인](https://ko.wikipedia.org/wiki/분산_파일_시스템 "wikilink") [HDFS](https://ko.wikipedia.org/wiki/HDFS "wikilink")위에서 동작을 한다. 대량의 흩어져 있는 데이터 저장을 위한 [무정지](https://ko.wikipedia.org/wiki/무정지 "wikilink") 방법을 제공하는 구글의 빅테이블과 비슷한 기능을 한다.

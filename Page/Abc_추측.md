@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Abc ](https://ko.wikipedia.org/wiki/Abc_).
+> This article is converted from Wikipedia: [Abc 추측](https://ko.wikipedia.org/wiki/Abc_추측).
 
 
 [수론](https://ko.wikipedia.org/wiki/수론 "wikilink")에서, ***abc* 추측**()은 고차 거듭제곱을 인자로 갖는 두 수의 합은 보통 고차 거듭제곱 인자를 갖지 않는다는 추측이다. 이 추측을 엄밀히 표현할 때 등장하는 세 정수 *a*, *b*,*c*의 통상적인 기호 때문에 이 이름이 붙었다

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TV](https://ko.wikipedia.org/wiki/TV).
+> This article is converted from Wikipedia: [팩트TV](https://ko.wikipedia.org/wiki/팩트TV).
 
 
 **팩트TV**는 보도와 방송을 겸한 인터넷 방송으로 2007년 12월 22일 인터넷신문 커널뉴스로 설립했으며 2013년 지금의 명칭으로 바꾼 이후 운동권 인사 및 그 지지 세력들의 동정을 중심으로 정치/경제/사회/환경 및 다양한 시사정보를 제공하고 있다. 보도제작국내에 아나운서실, 개그맨실, 보도팀을 두고 있으며 운영지원실이 모든 업무를 지원하고 있다.

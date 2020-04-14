@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ OMD E-M5](https://ko.wikipedia.org/wiki/_OMD_E-M5).
+> This article is converted from Wikipedia: [올림푸스 OMD E-M5](https://ko.wikipedia.org/wiki/올림푸스_OMD_E-M5).
 
 
 **OM-D E-M5**()은 [2012년](../Page/2012년.md "wikilink") 5월 출시된 [올림푸스](../Page/올림푸스.md "wikilink")의 첫 고급형 [미러리스 렌즈 교환식 카메라이다](../Page/미러리스_렌즈_교환식_카메라.md "wikilink"). OM-D는 [올림푸스](../Page/올림푸스.md "wikilink")가 과거 판매하였던 [필름](https://ko.wikipedia.org/wiki/필름 "wikilink")[카메라](https://ko.wikipedia.org/wiki/카메라 "wikilink") OM 시리즈의 디지털 복각 버전이며, 거의 동일한 디자인을 가지고 있다. 기존 PEN 시리즈와의 차이점으로는 PEN 시리즈에서는 외장형으로만 사용할 수 있었던 전자식 뷰파인더를 바디에 내장하였고, 타사의 플래그십 기종에 맞먹는 방진 방적, 세계 최초의 5축 보정 장치 탑재 등으로 기존의 보급형이라고만 인식되던 [미러리스](https://ko.wikipedia.org/wiki/미러리스 "wikilink")를 전문가용으로 출시한 변환기적 기종이다.

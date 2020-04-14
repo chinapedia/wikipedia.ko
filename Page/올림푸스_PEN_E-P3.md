@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ PEN E-P3](https://ko.wikipedia.org/wiki/_PEN_E-P3).
+> This article is converted from Wikipedia: [올림푸스 PEN E-P3](https://ko.wikipedia.org/wiki/올림푸스_PEN_E-P3).
 
 
 **PEN E-P3**()은 [2011년](../Page/2011년.md "wikilink") 7월 출시된 [올림푸스](../Page/올림푸스.md "wikilink")의 [미러리스 렌즈 교환식 카메라이다](../Page/미러리스_렌즈_교환식_카메라.md "wikilink"). [Pen E-P2의](../Page/올림푸스_PEN_E-P2.md "wikilink") 후속이며, 많은 부분이 변경되어 출시되었다. E-P2에 비해 ISO 성능 개선, LCD창의 화소 개선 및 터치 기능 탑재, 초점 센서의 변경, 마그네슘 재질로의 회귀, 1080p 동영상 지원 등의 차이점이 있다.

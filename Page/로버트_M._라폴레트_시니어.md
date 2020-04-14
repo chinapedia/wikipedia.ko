@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ M.  ](https://ko.wikipedia.org/wiki/_M.__).
+> This article is converted from Wikipedia: [로버트 M. 라폴레트 시니어](https://ko.wikipedia.org/wiki/로버트_M._라폴레트_시니어).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Robert_M_La_Follette,_Sr.jpg "wikilink") **로버트 라플레트**(1855년 6월 14일 \~ 1925년 6월 18일)는 미국의 위스콘신 주지사와 미국 상원의원을 역임한 개혁주의 정치가이다. 그는 위스콘신 주지사를 세 차례를 지냈으며, 1906년부터 1925년까지 미국의 상원의원으로 재임하였다. 1924년 미국 대통령 선거에 자신이 만든 [진보당의](https://ko.wikipedia.org/wiki/진보당_\(미국,_1924년\) "wikilink") 후보로 출마하여 전국적으로 17%를 득표하였다. 그와 그의 아들은 40년 동안 위스콘신 주 정치를 지배했으며, 연방정부가 반대했던 수많은 개혁 입법을 통과시키는데 성공했다.\[1\]

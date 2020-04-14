@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [WEST](https://ko.wikipedia.org/wiki/WEST).
+> This article is converted from Wikipedia: [자니스WEST](https://ko.wikipedia.org/wiki/자니스WEST).
 
 
 **쟈니즈WEST**()는, [일본](../Page/일본.md "wikilink")의 [남성](https://ko.wikipedia.org/wiki/남성 "wikilink") [아이돌](https://ko.wikipedia.org/wiki/아이돌 "wikilink") 그룹이다. 소속 예능 사무소는 [쟈니즈 사무소](../Page/자니스_사무소.md "wikilink"). 소속 레코드 회사는 [쟈니즈 엔터테인먼트](../Page/자니스_엔터테인먼트.md "wikilink").

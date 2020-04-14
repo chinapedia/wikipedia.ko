@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [   C](https://ko.wikipedia.org/wiki/___C).
+> This article is converted from Wikipedia: [코파 이탈리아 세리에 C](https://ko.wikipedia.org/wiki/코파_이탈리아_세리에_C).
 
 
 **코파 이탈리아 세리에 C**(, 과거 **코파 이탈리아 레가 프로**)는 [이탈리아](../Page/이탈리아.md "wikilink") [축구](../Page/축구.md "wikilink") 컵 대회이다. [세리에 C의](../Page/세리에_C.md "wikilink") 팀들이 참여한 토너먼트이다. 결승전을 포함한 모든 경기는 홈, 어웨이 방식으로 치룬다.

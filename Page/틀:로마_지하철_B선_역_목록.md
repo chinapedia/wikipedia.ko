@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:  B  ](https://ko.wikipedia.org/wiki/:__B__).
+> This article is converted from Wikipedia: [틀:로마 지하철 B선 역 목록](https://ko.wikipedia.org/wiki/틀:로마_지하철_B선_역_목록).
 
 
 <onlyinclude><includeonly>[분류:로마 지하철 B선](https://ko.wikipedia.org/wiki/분류:로마_지하철_B선 "wikilink")</includeonly></onlyinclude><noinclude>

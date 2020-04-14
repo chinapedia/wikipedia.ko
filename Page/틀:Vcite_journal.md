@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Vcite journal](https://ko.wikipedia.org/wiki/:Vcite_journal).
+> This article is converted from Wikipedia: [틀:Vcite journal](https://ko.wikipedia.org/wiki/틀:Vcite_journal).
 
 
 \<span class="citation"{{

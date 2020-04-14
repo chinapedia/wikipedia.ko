@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ M](https://ko.wikipedia.org/wiki/_M).
+> This article is converted from Wikipedia: [라이카 M](https://ko.wikipedia.org/wiki/라이카_M).
 
 
 **라이카 M**()은 [2012년](../Page/2012년.md "wikilink") 10월에 공개된 [라이카](https://ko.wikipedia.org/wiki/라이카 "wikilink")의 [풀프레임](https://ko.wikipedia.org/wiki/풀프레임 "wikilink") [디지털 레인지 파인더 카메라이다](https://ko.wikipedia.org/wiki/거리계연동카메라 "wikilink").\[1\]라이카 M은 CMOSIS의 2,400만 화소 [CMOS](../Page/CMOS.md "wikilink") 센서를 탑재했으며, 기존 라이카 M9과는 다른 새로운 Type 240 의 바디를 사용하였다.

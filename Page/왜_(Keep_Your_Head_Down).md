@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ \(Keep Your Head Down\)](https://ko.wikipedia.org/wiki/_\(Keep_Your_Head_Down\)).
+> This article is converted from Wikipedia: [왜 \(Keep Your Head Down\)](https://ko.wikipedia.org/wiki/왜_\(Keep_Your_Head_Down\)).
 
 
 〈**왜 (Keep Your Head Down)**〉은 듀오로 재편된 [대한민국](../Page/대한민국.md "wikilink")의 음악 그룹 [동방신기](../Page/동방신기.md "wikilink")의 5집 음반이다.

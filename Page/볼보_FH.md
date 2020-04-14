@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ FH](https://ko.wikipedia.org/wiki/_FH).
+> This article is converted from Wikipedia: [볼보 FH](https://ko.wikipedia.org/wiki/볼보_FH).
 
 
 **볼보 FH**는 [볼보트럭](../Page/볼보트럭.md "wikilink")()에서 생산하는 대형 트럭 시리즈이다. 1993년 말에 볼보가 **F**로 이름 붙여진 [캡오버 엔진](https://ko.wikipedia.org/wiki/캡오버_엔진 "wikilink") 대형트럭 시리즈를 발표\[1\]하고, FH12와 FH16으로 첫 시판되었으며, 2세대부터 FH 라인업이 구축되어 현재까지 생산되고 있다. **FH**는 **F**oward control**H**igh entry 이라는 뜻이며, 엔진의 배기량(12L, 16L)에 따라 숫자가 붙여진다.\[2\]

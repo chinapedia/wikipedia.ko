@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ZTE  Z5](https://ko.wikipedia.org/wiki/ZTE__Z5).
+> This article is converted from Wikipedia: [ZTE 누비아 Z5](https://ko.wikipedia.org/wiki/ZTE_누비아_Z5).
 
 
 **ZTE 누비아 Z5**()는 [ZTE](../Page/ZTE.md "wikilink")에서 [2013년](../Page/2013년.md "wikilink")에 출시한 하이엔드 [안드로이드](../Page/안드로이드_\(운영_체제\).md "wikilink") [스마트폰](../Page/스마트폰.md "wikilink")이다.

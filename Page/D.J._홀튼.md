@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [D.J. ](https://ko.wikipedia.org/wiki/D.J._).
+> This article is converted from Wikipedia: [D.J. 홀튼](https://ko.wikipedia.org/wiki/D.J._홀튼).
 
 
 **데니스 숀 홀튼 주니어**(Dennis Sean "D. J." Houlton Jr, [1979년](../Page/1979년.md "wikilink") [8월 12일](../Page/8월_12일.md "wikilink") \~ )은 [미국](../Page/미국.md "wikilink")의 야구 선수이자, 전 [KBO 리그](https://ko.wikipedia.org/wiki/KBO_리그 "wikilink") [KIA 타이거즈의](https://ko.wikipedia.org/wiki/KIA_타이거즈 "wikilink") [투수](../Page/투수.md "wikilink")이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ CT](https://ko.wikipedia.org/wiki/_CT).
+> This article is converted from Wikipedia: [렉서스 CT](https://ko.wikipedia.org/wiki/렉서스_CT).
 
 
 **렉서스 CT**(Lexus CT)는 [토요타의](../Page/토요타_자동차.md "wikilink") 고급 브랜드인 [렉서스](../Page/렉서스.md "wikilink")의 [하이브리드](../Page/하이브리드_\(동력\).md "wikilink") 전용 [해치백](https://ko.wikipedia.org/wiki/해치백 "wikilink")이다. 차명인 CT는 'Creative Touring Vehicle'의 머릿글에서 따온 것이다. {{-}}

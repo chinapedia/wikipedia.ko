@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ E-](https://ko.wikipedia.org/wiki/_E-).
+> This article is converted from Wikipedia: [소니 E-마운트](https://ko.wikipedia.org/wiki/소니_E-마운트).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Sony_NEX-3_sensor.jpg "wikilink") NEX-C3\]\]

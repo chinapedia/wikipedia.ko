@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Infobox medical intervention](https://ko.wikipedia.org/wiki/:Infobox_medical_intervention).
+> This article is converted from Wikipedia: [틀:Infobox medical intervention](https://ko.wikipedia.org/wiki/틀:Infobox_medical_intervention).
 
 
 } | above =  | subheader =  | image = {{\#invoke:InfoboxImage|InfoboxImage|image=}}}|sizedefault=frameless|upright=1.25|size=}}}|alt=}}}}} | caption = }}}

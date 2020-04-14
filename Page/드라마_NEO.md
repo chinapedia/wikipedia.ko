@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ NEO](https://ko.wikipedia.org/wiki/_NEO).
+> This article is converted from Wikipedia: [드라마 NEO](https://ko.wikipedia.org/wiki/드라마_NEO).
 
 
 《**드라마 NEO**》는, [2012년](../Page/2012년.md "wikilink") [4월](../Page/4월.md "wikilink")부터 [2014년](../Page/2014년.md "wikilink") [3월](../Page/3월.md "wikilink")까지 [TBS에서](../Page/도쿄_방송_홀딩스.md "wikilink") [월요일](../Page/월요일.md "wikilink") 24:28 \~ 25:07에 방송된 [텔레비전 드라마의](https://ko.wikipedia.org/wiki/일본_드라마 "wikilink") 방송 시간대이다.

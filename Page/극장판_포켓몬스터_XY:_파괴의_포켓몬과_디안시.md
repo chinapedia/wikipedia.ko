@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  XY:   ](https://ko.wikipedia.org/wiki/__XY:___).
+> This article is converted from Wikipedia: [극장판 포켓몬스터 XY: 파괴의 포켓몬과 디안시](https://ko.wikipedia.org/wiki/극장판_포켓몬스터_XY:_파괴의_포켓몬과_디안시).
 
 
 《**극장판 포켓몬스터 XY : 파괴의 포켓몬과 디안시**》()는 [2014년](../Page/2014년.md "wikilink") [7월 19일에](../Page/7월_19일.md "wikilink") 개봉을 했다. [극장판 포켓몬스터의](https://ko.wikipedia.org/wiki/극장판_포켓몬스터 "wikilink") 제 17기 영화이다. 대한민국은 [2015년](../Page/2015년.md "wikilink") [1월 14일](../Page/1월_14일.md "wikilink") 상영을 했다.

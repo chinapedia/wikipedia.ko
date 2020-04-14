@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [2014 FIFA  A](https://ko.wikipedia.org/wiki/2014_FIFA__A).
+> This article is converted from Wikipedia: [2014년 FIFA 월드컵 A조](https://ko.wikipedia.org/wiki/2014년_FIFA_월드컵_A조).
 
 
 **[2014년 FIFA 월드컵](https://ko.wikipedia.org/wiki/2014년_FIFA_월드컵 "wikilink")** **A조**에는 [브라질과](../Page/브라질_축구_국가대표팀.md "wikilink") [크로아티아](../Page/크로아티아_축구_국가대표팀.md "wikilink"), [멕시코](../Page/멕시코_축구_국가대표팀.md "wikilink"), 그리고 [카메룬이](../Page/카메룬_축구_국가대표팀.md "wikilink") 편성되었다. 첫 경기는 2014년 6월 12일에 열렸고, 2014년 6월 23일에 모든 일정이 막을 내렸다.

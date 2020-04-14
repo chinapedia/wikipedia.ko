@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ABC \(\)](https://ko.wikipedia.org/wiki/ABC_\(\)).
+> This article is converted from Wikipedia: [ABC \(신문\)](https://ko.wikipedia.org/wiki/ABC_\(신문\)).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Diario_ABC_logo.svg "wikilink") **ABC**는 [스페인](../Page/스페인.md "wikilink")의 [신문](../Page/신문.md "wikilink")이다. 스페인에서 세번째로 가장 많이 판매되는 신문이자, 마드리드 발행 신문으로는 가장 오래된 신문이다. 《[엘 파이스](https://ko.wikipedia.org/wiki/엘_파이스 "wikilink")》, 《[엘 문도](https://ko.wikipedia.org/wiki/엘_문도_\(스페인\) "wikilink")》와 함께 스페인의 3대 신문으로 꼽힌다.

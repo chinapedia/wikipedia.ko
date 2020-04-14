@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ACM    ](https://ko.wikipedia.org/wiki/ACM____).
+> This article is converted from Wikipedia: [ACM 국제 대학생 프로그래밍 대회](https://ko.wikipedia.org/wiki/ACM_국제_대학생_프로그래밍_대회).
 
 
 **ACM 국제 대학생 프로그래밍 대회**(ACM International Collegiate Programming Contest, ACM-ICPC)는 매년 전세계 대학생들이 참가하여 실력을 겨루는 국제 [컴퓨터 프로그래밍](../Page/컴퓨터_프로그래밍.md "wikilink") 대회이다. [IBM](../Page/IBM.md "wikilink")이 후원하는 이 대회는 [베일러 대학교에](https://ko.wikipedia.org/wiki/베일러_대학교 "wikilink") 본부를 두고 있으며, 자체적으로 운영되는 6개 지역별 지부가 있다. 운영을 총괄하는 사무총장은 베일러 대학교의 윌리엄 푸처(William B. Poucher) 교수이고, [ACM](../Page/ACM.md "wikilink")의 후원 하에 대회가 진행된다.

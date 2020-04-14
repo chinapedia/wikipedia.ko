@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Japanese episode list multi-part](https://ko.wikipedia.org/wiki/:Japanese_episode_list_multi-part).
+> This article is converted from Wikipedia: [틀:Japanese episode list multi-part](https://ko.wikipedia.org/wiki/틀:Japanese_episode_list_multi-part).
 
 
 <includeonly>

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [AKB48 27th   ](https://ko.wikipedia.org/wiki/AKB48_27th___).
+> This article is converted from Wikipedia: [AKB48 27th 싱글 선발 총선거](https://ko.wikipedia.org/wiki/AKB48_27th_싱글_선발_총선거).
 
 
 {{역사적 사건 정보 | 이름 = AKB48 27th 선발 총선거

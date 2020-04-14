@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [   PC  ](https://ko.wikipedia.org/wiki/___PC__).
+> This article is converted from Wikipedia: [가장 많이 팔린 PC 게임 목록](https://ko.wikipedia.org/wiki/가장_많이_팔린_PC_게임_목록).
 
 
 이 **가장 많이 팔린 PC 게임 목록**은 [마이크로소프트 윈도우](../Page/마이크로소프트_윈도우.md "wikilink"), [OS X](https://ko.wikipedia.org/wiki/OS_X "wikilink"), [리눅스](../Page/리눅스.md "wikilink")를 포함한 운영체제에서 작동하는 [PC 게임](../Page/PC_게임.md "wikilink") 중 판매량 또는 출하량이 백만 장 이상 되는 게임들의 목록이다.

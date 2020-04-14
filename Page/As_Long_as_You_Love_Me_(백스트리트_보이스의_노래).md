@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [As Long as You Love Me \(  \)](https://ko.wikipedia.org/wiki/As_Long_as_You_Love_Me_\(__\)).
+> This article is converted from Wikipedia: [As Long as You Love Me \(백스트리트 보이스의 노래\)](https://ko.wikipedia.org/wiki/As_Long_as_You_Love_Me_\(백스트리트_보이스의_노래\)).
 
 
 "**As Long as You Love Me**"는 미국의 보이 밴드 [백스트리트 보이즈의](https://ko.wikipedia.org/wiki/백스트리트_보이즈 "wikilink") 노래로, *[Backstreet's Back](../Page/Backstreet's_Back.md "wikilink")*의 두번째 싱글이다.

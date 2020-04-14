@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Countdown](https://ko.wikipedia.org/wiki/:Countdown).
+> This article is converted from Wikipedia: [모듈:Countdown](https://ko.wikipedia.org/wiki/모듈:Countdown).
 
 
 \--\[=\[ Countdown functions 현재 시각에서 목표 시각까지 남은 시간을 표출합니다. 사용법: {{\#invoke:Countdown|countdown|목표 날짜(필수, ISO 형식 - YYYY-MM-DD)|목표 시각(필수, hh:mm 형식, 24시간제)|종료문자열=목표 시각 경과시 표출할 문자열(선택)}} 예시: {{\#invoke:Countdown|countdown|2013-12-25|14:00}} 유지 관리: [사용자:Kwj2772](https://ko.wikipedia.org/wiki/사용자:Kwj2772 "wikilink")

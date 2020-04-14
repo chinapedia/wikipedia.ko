@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [J.   3](https://ko.wikipedia.org/wiki/J.___3).
+> This article is converted from Wikipedia: [J. 하워드 마셜 3세](https://ko.wikipedia.org/wiki/J._하워드_마셜_3세).
 
 
 **제임스 하워드 마샬 3세**(James Howard Marshall III, [1936년](../Page/1936년.md "wikilink") [2월 6일](../Page/2월_6일.md "wikilink") \~ )은 [미국](../Page/미국.md "wikilink")의 기업인이다. [석유](https://ko.wikipedia.org/wiki/석유 "wikilink") 재벌 [제임스 하워드 마샬의](https://ko.wikipedia.org/wiki/제임스_하워드_마샬 "wikilink") 아들이다. [캘리포니아주](../Page/캘리포니아주.md "wikilink")에서 전자 회사와 에너지 회사의 오너로 활동하였다.

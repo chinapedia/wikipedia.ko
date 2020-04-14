@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FAR ](https://ko.wikipedia.org/wiki/FAR_).
+> This article is converted from Wikipedia: [FAR 라바트](https://ko.wikipedia.org/wiki/FAR_라바트).
 
 
 **FAR 라바트**()는 [모로코](../Page/모로코.md "wikilink")의 명문 축구단으로 수도 [라바트](../Page/라바트.md "wikilink")를 연고지로 하는 팀이다. 이 팀은 [1958년](../Page/1958년.md "wikilink")에 창단되었으며, 과거에는 **모로코 육군 축구단**으로 알려졌다. 현재는 [보톨라](../Page/보톨라.md "wikilink")에 참가하고 있다.

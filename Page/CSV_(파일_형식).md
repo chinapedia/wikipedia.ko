@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [CSV \( \)](https://ko.wikipedia.org/wiki/CSV_\(_\)).
+> This article is converted from Wikipedia: [CSV \(파일 형식\)](https://ko.wikipedia.org/wiki/CSV_\(파일_형식\)).
 
 
 **CSV**()는 몇 가지 필드를 [쉼표](../Page/쉼표_\(문장_부호\).md "wikilink")(,)로 구분한 [텍스트](https://ko.wikipedia.org/wiki/텍스트 "wikilink") 데이터 및 텍스트 파일이다. 확장자는 .csv이며 [MIME 형식은](../Page/MIME.md "wikilink") text/csv이다. **comma-separated variables**라고도 한다.

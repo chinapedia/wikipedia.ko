@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [M- ](https://ko.wikipedia.org/wiki/M-_).
+> This article is converted from Wikipedia: [M-시그마 관계](https://ko.wikipedia.org/wiki/M-시그마_관계).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:msigma.jpg "wikilink") 증가을 통해 명확하게 측정된 것이다. *M–σ* 관계는 청색으로 보인다.\]\]

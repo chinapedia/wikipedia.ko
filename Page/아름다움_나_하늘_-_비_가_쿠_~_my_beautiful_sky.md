@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [   -    \~ my beautiful sky](https://ko.wikipedia.org/wiki/___-____\~_my_beautiful_sky).
+> This article is converted from Wikipedia: [아름다움 나 하늘 - 비 가 쿠 \~ my beautiful sky](https://ko.wikipedia.org/wiki/아름다움_나_하늘_-_비_가_쿠_\~_my_beautiful_sky).
 
 
 《**아름다움 나 하늘 - 비 가 쿠 \~ my beautiful sky**》()는, [도모토 쯔요시가](../Page/도모토_츠요시.md "wikilink") [쯔요시](../Page/도모토_츠요시.md "wikilink")()로서 발매한 음반으로, 도모토 쯔요시 통상 6번째 [정규 음반이다](../Page/정규_음반.md "wikilink").

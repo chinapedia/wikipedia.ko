@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [NCIS \(\)  ](https://ko.wikipedia.org/wiki/NCIS_\(\)__).
+> This article is converted from Wikipedia: [NCIS \(드라마\)의 에피소드 목록](https://ko.wikipedia.org/wiki/NCIS_\(드라마\)의_에피소드_목록).
 
 
 다음 목록은 [NCIS (TV 시리즈)의](https://ko.wikipedia.org/wiki/NCIS_\(TV_시리즈\) "wikilink") 방영 목록이다.

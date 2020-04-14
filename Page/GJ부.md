@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [GJ](https://ko.wikipedia.org/wiki/GJ).
+> This article is converted from Wikipedia: [GJ부](https://ko.wikipedia.org/wiki/GJ부).
 
 
 **GJ부**(**GJ部**,**グッジョぶ**)는 일본의 작가 아라키 신(新木 伸)이 쓴 [라이트 노벨이다](../Page/라이트_노벨.md "wikilink"). 일러스트는 아루야가 담당했다. 2012년 3월부터 2013년 3월까지 본편 9권의 출간된 뒤 특별편 1권이 2013년 3월에 출간되었다. GJ부가 끝난 뒤 GJ부 중등부가 새로운 시리즈로 나온다.

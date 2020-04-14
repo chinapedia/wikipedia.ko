@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ HD   ](https://ko.wikipedia.org/wiki/_HD___).
+> This article is converted from Wikipedia: [인텔 HD 및 아이리스 그래픽스](https://ko.wikipedia.org/wiki/인텔_HD_및_아이리스_그래픽스).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Intel_core_i5-2500_top_IMGP9336_wp.jpg "wikilink") **인텔 HD 그래픽스**(Intel HD Graphics)는 [2010년](../Page/2010년.md "wikilink")에 발표된 [인텔](../Page/인텔.md "wikilink")의 내장 [GPU](../Page/그래픽_처리_장치.md "wikilink") 시리즈이다. [마더보드](https://ko.wikipedia.org/wiki/마더보드 "wikilink")에 그래픽 프로세서가 탑재된 종전의 [인텔 GMA와](../Page/인텔_GMA.md "wikilink") 달리, 인텔 HD 그래픽스는 [CPU와](../Page/중앙_처리_장치.md "wikilink") 같은 다이에 탑재되어 [APU를](https://ko.wikipedia.org/wiki/가속_처리_장치 "wikilink") 이룬다.

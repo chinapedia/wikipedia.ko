@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Oh! \( \)](https://ko.wikipedia.org/wiki/Oh!_\(_\)).
+> This article is converted from Wikipedia: [Oh! \(소녀시대의 노래\)](https://ko.wikipedia.org/wiki/Oh!_\(소녀시대의_노래\)).
 
 
 〈**Oh\!**〉는 대한민국의 음악 그룹 [소녀시대](../Page/소녀시대.md "wikilink")의 노래이다. 2010년 1월 28일 소녀시대의 두 번째 정규 앨범 《[Oh\!](../Page/Oh!_\(소녀시대의_음반\).md "wikilink")》의 타이틀곡으로써 [KMP 홀딩스를](https://ko.wikipedia.org/wiki/KMP_홀딩스 "wikilink") 통해 발매되었다. 2012년 9월 26일에는 다섯 번째 일본 싱글로써 [나유타웨이브를](https://ko.wikipedia.org/wiki/EMI_레코드_재팬 "wikilink") 통해 발매되었다.

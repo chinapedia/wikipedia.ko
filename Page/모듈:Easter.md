@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Easter](https://ko.wikipedia.org/wiki/:Easter).
+> This article is converted from Wikipedia: [모듈:Easter](https://ko.wikipedia.org/wiki/모듈:Easter).
 
 
 local m = {}

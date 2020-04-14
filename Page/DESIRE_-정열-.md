@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [DESIRE --](https://ko.wikipedia.org/wiki/DESIRE_--).
+> This article is converted from Wikipedia: [DESIRE -정열-](https://ko.wikipedia.org/wiki/DESIRE_-정열-).
 
 
 〈**DESIRE -정열-**〉()은 [1986년](../Page/1986년.md "wikilink") [2월 3일에](../Page/2월_3일.md "wikilink") 발표한 일본의 여가수 [나카모리 아키나의](../Page/나카모리_아키나.md "wikilink") 14번째 싱글이다. ([EP](../Page/익스텐디드_플레이.md "wikilink"): L-1750) 작사는 아키 요코()가, 작곡은 스즈키 키사부로()가, 편곡은 시이나 카즈오()가 담당하였다. 발매 직후 가수인 나카모리가 음악 방송에서 선보인 독특한 무대 의상과 안무 등이 화제가 되며 인기를 얻었다. 싱글의 A면인 동명의 곡의 히트로 나카모리는 1985년에 이어 2년 연속으로 [일본 레코드 대상을](../Page/일본_레코드_대상.md "wikilink") 수상하는 등 수많은 시상식에서 상을 받은 그녀의 대표곡 중 하나이다.\[1\]\[2\]

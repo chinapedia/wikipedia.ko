@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [X ](https://ko.wikipedia.org/wiki/X_).
+> This article is converted from Wikipedia: [X연관 어린선](https://ko.wikipedia.org/wiki/X연관_어린선).
 
 
 **X연관 어린선** 또는 스테로이드 설페이테이스 결핍증, X열성 비늘증\[1\]은 [스테로이드 설페이테이스](https://ko.wikipedia.org/wiki/스테로이드_설페이테이스 "wikilink") (steroid sulfatase, STS)의 [선천적 결핍으로](../Page/유전성_질환.md "wikilink") 생기는 [피부](../Page/피부.md "wikilink") 질환이며, 2000\~6000 명 중의 1 명꼴로 남성에게서 발병한다.\[2\] X연관 비늘증에서 나타나는, 마르고 비늘같은 피부\[3\]는 STS 유전자의 삭제\[4\]\[5\] 또는 돌연변이에 의한 것\[6\]이다. 이 질환은 [인접유전자증후군](https://ko.wikipedia.org/wiki/인접유전자증후군 "wikilink")으로 인해 많은 유전자가 삭제되는 과정에서 나타날 수도 있다.\[7\] 주요 치료 목표는 피부 증상을 완화시키는 것이다.\[8\]

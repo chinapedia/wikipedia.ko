@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  \(Genie\) \(\)](https://ko.wikipedia.org/wiki/__\(Genie\)_\(\)).
+> This article is converted from Wikipedia: [소원을 말해봐 \(Genie\) \(노래\)](https://ko.wikipedia.org/wiki/소원을_말해봐_\(Genie\)_\(노래\)).
 
 
 〈**소원을 말해봐 (Genie)**〉는 대한민국의 걸 그룹 [소녀시대](../Page/소녀시대.md "wikilink")의 노래이다. 스웨덴의 작곡가팀 디자인 뮤직과 [유영진](https://ko.wikipedia.org/wiki/유영진 "wikilink"), [유한진](../Page/유한진.md "wikilink")이 합작한 노래로, 2009년 6월 22일 발매되었다.

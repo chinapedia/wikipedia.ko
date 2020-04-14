@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ \(CPU\)](https://ko.wikipedia.org/wiki/_\(CPU\)).
+> This article is converted from Wikipedia: [크레이트 \(CPU\)](https://ko.wikipedia.org/wiki/크레이트_\(CPU\)).
 
 
 **크레이트 아키텍처**(Krait architecture)는 [퀄컴](../Page/퀄컴.md "wikilink") [스냅드래곤](../Page/스냅드래곤.md "wikilink") S4 및 스냅드래곤 400, 600, 800 SoC 중 일부 모델에 사용되는 ARM 기반 프로세서이다. 2012년에 [스콜피온](https://ko.wikipedia.org/wiki/스콜피온 "wikilink")의 후속작으로 공개되었으며, ARMv7 명령어 집합을 지원하며 ARM Cortex-A15와 비슷한 아키텍처를 갖는다.

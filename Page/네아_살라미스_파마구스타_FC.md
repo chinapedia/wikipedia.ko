@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [   FC](https://ko.wikipedia.org/wiki/___FC).
+> This article is converted from Wikipedia: [네아 살라미스 파마구스타 FC](https://ko.wikipedia.org/wiki/네아_살라미스_파마구스타_FC).
 
 
 **네아 살라미스\[살라미나\] 파마구스타 FC**()는 [키프로스](../Page/키프로스.md "wikilink")의 [파마구스타](../Page/파마구스타.md "wikilink")에 있는 프로축구팀이다. 이 축구팀은 1974년 [터키의 키프로스 침공](../Page/터키의_키프로스_침공.md "wikilink") 이후부터 [난민](https://ko.wikipedia.org/wiki/난민 "wikilink")축구팀이 되었다. 따라서, 이 축구팀은 임시로 [라르나카](../Page/라르나카.md "wikilink")로 연고지를 옮겼다. 이 축구팀의 이름은 현재 [파마구스타](../Page/파마구스타.md "wikilink")로 알려져 있는 고대 도시였던 살라미스\[살라미나\] ([그리스어](../Page/그리스어.md "wikilink"): Σαλαμίς) 에서 딴 것이다.

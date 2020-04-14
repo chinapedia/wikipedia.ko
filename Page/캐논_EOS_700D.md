@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ EOS 700D](https://ko.wikipedia.org/wiki/_EOS_700D).
+> This article is converted from Wikipedia: [캐논 EOS 700D](https://ko.wikipedia.org/wiki/캐논_EOS_700D).
 
 
 **캐논 EOS 700D**()는 [캐논](../Page/캐논.md "wikilink")이 [2013년](../Page/2013년.md "wikilink") 3월에 발표한 보급형 [디지털 일안 반사식 카메라이며](../Page/디지털_일안_반사식_카메라.md "wikilink"), [캐논 EOS 650D의](../Page/캐논_EOS_650D.md "wikilink") 후속모델이다. 기존 650D에 그립감을 개선하고, 동영상 부분의 AF를 개선해 출시됐다. 이미지 센서는 650D, 60D, 7D에 탑재되었던 1800만 화소 APS-C CMOS 센서와 같은 1,800만 화소지만 노이즈 및 화질면에서 진보된 새로운 센서를 탑재하였다. 북미 시장을 기준으로 바디 단품 US $750이며, EF-S 18-135mmF 3.5-5.6 IS STM 을 포함해 US $1,100에 출시됐다.\[1\]
@@ -13,7 +13,7 @@
 
 ## 100D 와의 유사점
 
-[EOS 700D](https://ko.wikipedia.org/wiki/EOS_700D "wikilink") 는 [EOS 100D와](https://ko.wikipedia.org/wiki/EOS_100D "wikilink") 함께 출시됐기 때문에 유사점이 많다.
+[EOS 700D는](https://ko.wikipedia.org/wiki/EOS_700D "wikilink") [EOS 100D와](https://ko.wikipedia.org/wiki/EOS_100D "wikilink") 함께 출시됐기 때문에 유사점이 많다.
 
   - 1,800만 화소 APS-C CMOS 센서
   - 14비트 DIGIC 5 이미지 프로세서

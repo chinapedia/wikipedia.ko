@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ MUST](https://ko.wikipedia.org/wiki/_MUST).
+> This article is converted from Wikipedia: [윤도현의 MUST](https://ko.wikipedia.org/wiki/윤도현의_MUST).
 
 
 《**윤도현의 MUST**》는 [2011년](../Page/2011년.md "wikilink") [7월 5일부터](../Page/7월_5일.md "wikilink") [2013년](../Page/2013년.md "wikilink") [5월 14일까지](../Page/5월_14일.md "wikilink") 방영한 [Mnet](https://ko.wikipedia.org/wiki/Mnet "wikilink")의 [음악](../Page/음악.md "wikilink") 전문 [텔레비전](../Page/텔레비전.md "wikilink") [프로그램이다](../Page/텔레비전_프로그램.md "wikilink").
@@ -77,7 +77,7 @@
 <tr class="even">
 <td><p>12회</p></td>
 <td><p><a href="../Page/9월_20일.md" title="wikilink">9월 20일</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/코요태" title="wikilink">코요태</a>, <a href="../Page/포미닛.md" title="wikilink">포미닛</a>, <a href="../Page/손호영.md" title="wikilink">손호영</a>, <a href="../Page/구준엽.md" title="wikilink">구준엽</a>, <a href="https://ko.wikipedia.org/wiki/박미경" title="wikilink">박미경</a><br />
+<td><p><a href="../Page/코요태.md" title="wikilink">코요태</a>, <a href="../Page/포미닛.md" title="wikilink">포미닛</a>, <a href="../Page/손호영.md" title="wikilink">손호영</a>, <a href="../Page/구준엽.md" title="wikilink">구준엽</a>, <a href="https://ko.wikipedia.org/wiki/박미경" title="wikilink">박미경</a><br />
 <a href="../Page/칵스.md" title="wikilink">칵스</a>, 린, 윤도현, 허준</p></td>
 </tr>
 <tr class="odd">
@@ -145,7 +145,7 @@ Super Junior K.R.Y., 소울스타, <a href="../Page/진주_(가수).md" title="w
 <td><p>25회</p></td>
 <td><p><a href="../Page/12월_27일.md" title="wikilink">12월 27일</a></p></td>
 <td><p>윤도현, <a href="../Page/10cm_(음악_그룹).md" title="wikilink">10cm</a>, <a href="https://ko.wikipedia.org/wiki/성시경" title="wikilink">성시경</a>, <a href="https://ko.wikipedia.org/wiki/하하" title="wikilink">하하</a>, <a href="../Page/김조한.md" title="wikilink">김조한</a><br />
-<a href="../Page/예성.md" title="wikilink">예성</a>, <a href="../Page/규현.md" title="wikilink">규현</a>, <a href="https://ko.wikipedia.org/wiki/코요태" title="wikilink">코요태</a>, <a href="../Page/김태원_(음악인).md" title="wikilink">김태원</a>, <a href="https://ko.wikipedia.org/wiki/부활_(음악_그룹)" title="wikilink">부활</a>, <a href="../Page/김건모.md" title="wikilink">김건모</a><br />
+<a href="../Page/예성.md" title="wikilink">예성</a>, <a href="../Page/규현.md" title="wikilink">규현</a>, <a href="../Page/코요태.md" title="wikilink">코요태</a>, <a href="../Page/김태원_(음악인).md" title="wikilink">김태원</a>, <a href="https://ko.wikipedia.org/wiki/부활_(음악_그룹)" title="wikilink">부활</a>, <a href="../Page/김건모.md" title="wikilink">김건모</a><br />
 <a href="https://ko.wikipedia.org/wiki/안영미" title="wikilink">안영미</a>, <a href="../Page/이소라_(가수).md" title="wikilink">이소라</a>, <a href="../Page/남경주.md" title="wikilink">남경주</a>, <a href="../Page/박칼린.md" title="wikilink">박칼린</a>, <a href="../Page/백지영.md" title="wikilink">백지영</a>, <a href="../Page/이문세.md" title="wikilink">이문세</a>, 허준, <a href="../Page/사이먼_도미닉.md" title="wikilink">Simon D.</a><br />
 <a href="../Page/임윤택.md" title="wikilink">임윤택</a>, 슈퍼스타K 3, <a href="../Page/정진운.md" title="wikilink">정진운</a>, <a href="../Page/린_(가수).md" title="wikilink">린</a>, <a href="../Page/손호영.md" title="wikilink">손호영</a></p></td>
 </tr>
@@ -518,6 +518,6 @@ DJ Pandol, 강드레아, <a href="../Page/칵스.md" title="wikilink">칵스</a>
 
   - [윤도현의 MUST 홈페이지](https://web.archive.org/web/20140402170140/http://mnet.interest.me/tv/program/471)
 
-[분류:엠넷에서 방영하는 프로그램](https://ko.wikipedia.org/wiki/분류:엠넷에서_방영하는_프로그램 "wikilink") [분류:대한민국의 음악 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:대한민국의_음악_텔레비전_프로그램 "wikilink")
+[분류:엠넷에서 방영된 프로그램](https://ko.wikipedia.org/wiki/분류:엠넷에서_방영된_프로그램 "wikilink") [분류:대한민국의 음악 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:대한민국의_음악_텔레비전_프로그램 "wikilink")
 
 1.  [슈퍼스타K 3 참가자 목록\#헤이즈](https://ko.wikipedia.org/wiki/슈퍼스타K_3_참가자_목록#헤이즈 "wikilink") 참조

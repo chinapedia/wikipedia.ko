@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
+> This article is converted from Wikipedia: [야다나본 FC](https://ko.wikipedia.org/wiki/야다나본_FC).
 
 
 **야다나본 FC**()는 [만달레이](../Page/만달레이.md "wikilink")를 연고로 하는 [미얀마](../Page/미얀마.md "wikilink")의 축구 클럽이다. 현재는 [미얀마 내셔널리그에](https://ko.wikipedia.org/wiki/미얀마_내셔널리그 "wikilink") 참가하고 있다.

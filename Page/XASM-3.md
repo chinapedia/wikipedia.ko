@@ -11,14 +11,14 @@
 
 ## 비교
 
-ASM-3은 최대사거리가 300 km라고도 한다. 프랑스 [ASMP](https://ko.wikipedia.org/wiki/ASMP "wikilink") 공대지 핵미사일과 외양이 비슷하다.
+ASM-3은 최대사거리가 300 km라고도 한다. 프랑스 [ASMP](../Page/ASMP.md "wikilink") 공대지 핵미사일과 외양이 비슷하다.
 
-  - [ASMP](https://ko.wikipedia.org/wiki/ASMP "wikilink"), , 무게 860 kg, 속도 마하 3, 사거리 300 km, 300 kt 수소폭탄, 탄두중량 200 kg
+  - [ASMP](../Page/ASMP.md "wikilink"), , 무게 860 kg, 속도 마하 3, 사거리 300 km, 300 kt 수소폭탄, 탄두중량 200 kg
   - ASM-3, , 무게 900 kg, 속도 마하 3, 사거리 300 km
 
 ASM-3의 사거리를 400 km 이상으로 늘린다고 하는데, 프랑스 ASMP-A와 비슷할 것으로 추측된다.
 
-  - [ASMP](https://ko.wikipedia.org/wiki/ASMP "wikilink")-A, , 무게 860 kg, 속도 마하 3, 사거리 500 km, 300 kt 수소폭탄, 탄두중량 200 kg
+  - [ASMP](../Page/ASMP.md "wikilink")-A, , 무게 860 kg, 속도 마하 3, 사거리 500 km, 300 kt 수소폭탄, 탄두중량 200 kg
   - ASM-3-ER, , 무게 900 kg, 속도 마하 3, 사거리 500 km
 
 ## 제원

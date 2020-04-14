@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [MBC  \(\)](https://ko.wikipedia.org/wiki/MBC__\(\)).
+> This article is converted from Wikipedia: [MBC 뉴스 \(주말\)](https://ko.wikipedia.org/wiki/MBC_뉴스_\(주말\)).
 
 
 《**MBC 뉴스 (주말)**》()는 매주 [주말](https://ko.wikipedia.org/wiki/주말 "wikilink") 오전, 오후에 방송되는 [문화방송 뉴스 프로그램이다](https://ko.wikipedia.org/wiki/문화방송_뉴스_프로그램 "wikilink").

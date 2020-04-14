@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [RPG \(SEKAI NO OWARI \)](https://ko.wikipedia.org/wiki/RPG_\(SEKAI_NO_OWARI_\)).
+> This article is converted from Wikipedia: [RPG \(SEKAI NO OWARI의 노래\)](https://ko.wikipedia.org/wiki/RPG_\(SEKAI_NO_OWARI의_노래\)).
 
 
 **RPG**(알피지)는 [SEKAI NO OWARI](../Page/SEKAI_NO_OWARI.md "wikilink")(세카이노 오와리)의 4번째 메이저 싱글 음반이다. [2013년](../Page/2013년.md "wikilink") [5월 1일에](../Page/5월_1일.md "wikilink") [토이스 팩토리에서](../Page/토이스_팩토리.md "wikilink") 발매되었다.

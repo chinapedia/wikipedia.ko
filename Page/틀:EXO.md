@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:EXO](https://ko.wikipedia.org/wiki/:EXO).
+> This article is converted from Wikipedia: [틀:EXO](https://ko.wikipedia.org/wiki/틀:EXO).
 
 
 <onlyinclude></onlyinclude>

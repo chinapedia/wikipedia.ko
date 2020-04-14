@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [: Part 01.Sunset](https://ko.wikipedia.org/wiki/:_Part_01.Sunset).
+> This article is converted from Wikipedia: [공존: Part 01.Sunset](https://ko.wikipedia.org/wiki/공존:_Part_01.Sunset).
 
 
 **《공존: Part 01.Sunset》**는 김경호의 10번째 정규음반의 첫 번째 부분으로, 타이틀은 **사랑이 들린다면**이다.

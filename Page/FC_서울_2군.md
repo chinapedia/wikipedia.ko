@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FC  2](https://ko.wikipedia.org/wiki/FC__2).
+> This article is converted from Wikipedia: [FC 서울 2군](https://ko.wikipedia.org/wiki/FC_서울_2군).
 
 
 [FC 서울의](https://ko.wikipedia.org/wiki/FC_서울 "wikilink") 예비 전력 육성 시스템에 따라 운영하는, 성인 선수단 중 즉시전력에서 제외된 선수들과 21세 이하 선수들로 구성된 [2군팀에](https://ko.wikipedia.org/wiki/2군_\(스포츠\) "wikilink") 관한 문서이다.

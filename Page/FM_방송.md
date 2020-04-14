@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FM ](https://ko.wikipedia.org/wiki/FM_).
+> This article is converted from Wikipedia: [FM 방송](https://ko.wikipedia.org/wiki/FM_방송).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:KWNR_Continental_816R-5B_SN_247.jpg "wikilink") [네바다주](../Page/네바다주.md "wikilink") [라스베가스](https://ko.wikipedia.org/wiki/라스베가스 "wikilink")에서 95.5MHz로 방송되는 [KWNR](https://ko.wikipedia.org/wiki/KWNR "wikilink") 방송국의 FM 라디오 송출 장치\]\]

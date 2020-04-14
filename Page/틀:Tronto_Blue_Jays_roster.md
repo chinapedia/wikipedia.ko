@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Tronto Blue Jays roster](https://ko.wikipedia.org/wiki/:Tronto_Blue_Jays_roster).
+> This article is converted from Wikipedia: [틀:Tronto Blue Jays roster](https://ko.wikipedia.org/wiki/틀:Tronto_Blue_Jays_roster).
 
 
   - 투수

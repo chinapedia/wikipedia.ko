@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Prism \(  \)](https://ko.wikipedia.org/wiki/Prism_\(__\)).
+> This article is converted from Wikipedia: [Prism \(케이티 페리의 음반\)](https://ko.wikipedia.org/wiki/Prism_\(케이티_페리의_음반\)).
 
 
 《**Prism**》은 미국의 싱어송라이터 [케이티 페리의](../Page/케이티_페리.md "wikilink") 세 번째 정규 앨범으로, 2013년 10월 18일 [캐피톨 레코드를](https://ko.wikipedia.org/wiki/캐피톨_레코드 "wikilink") 통해 발매되었다. 이번 앨범은 페리의 이전 작품들보다 "어둡다"고 알려왔지만, 최종적으로는 스웨덴 댄스 음악에서 많은 영향을 받았다. 작업은 이전에 같이 해왔던 사람들 뿐만 아니라 새로운 프로듀서, 게스트 보컬이 대거 투입되었다. 《Prism》의 주된 테마는 현재 삶, 관계, 자아인식이다.

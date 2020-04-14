@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [MUST \( \)](https://ko.wikipedia.org/wiki/MUST_\(_\)).
+> This article is converted from Wikipedia: [MUST \(텔레비전 프로그램\)](https://ko.wikipedia.org/wiki/MUST_\(텔레비전_프로그램\)).
 
 
 《**MUST**》(머스트)는 [2013년](../Page/2013년.md "wikilink") [10월 30일부터](../Page/10월_30일.md "wikilink") [2013년](../Page/2013년.md "wikilink") [12월 18일까지](../Page/12월_18일.md "wikilink") 방영되었던 [Mnet](https://ko.wikipedia.org/wiki/Mnet "wikilink")의 [음악](../Page/음악.md "wikilink") 전문 [텔레비전](../Page/텔레비전.md "wikilink") [프로그램이다](../Page/텔레비전_프로그램.md "wikilink").
@@ -24,4 +24,4 @@
   - [MUST 홈페이지](https://web.archive.org/web/20140402170140/http://mnet.interest.me/tv/program/471)
   - [공식트위터](https://twitter.com/Mnet_MUST)
 
-[분류:엠넷에서 방영하는 프로그램](https://ko.wikipedia.org/wiki/분류:엠넷에서_방영하는_프로그램 "wikilink") [분류:대한민국의 음악 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:대한민국의_음악_텔레비전_프로그램 "wikilink")
+[분류:엠넷에서 방영된 프로그램](https://ko.wikipedia.org/wiki/분류:엠넷에서_방영된_프로그램 "wikilink") [분류:대한민국의 음악 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:대한민국의_음악_텔레비전_프로그램 "wikilink")

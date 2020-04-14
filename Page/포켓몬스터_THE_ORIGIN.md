@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ THE ORIGIN](https://ko.wikipedia.org/wiki/_THE_ORIGIN).
+> This article is converted from Wikipedia: [포켓몬스터 THE ORIGIN](https://ko.wikipedia.org/wiki/포켓몬스터_THE_ORIGIN).
 
 
 《**포켓몬스터 THE ORIGIN**》(, **Pokemon THE ORIGIN**''') 는 일본에서 [TV 도쿄를](../Page/TV_도쿄.md "wikilink") 통해 [2013년](../Page/2013년.md "wikilink") [10월 2일에](../Page/10월_2일.md "wikilink") 방영하였다. 대한민국은 [2013년](../Page/2013년.md "wikilink")[12월 2일과](../Page/12월_2일.md "wikilink") 3일에 걸쳐 [투니버스](../Page/투니버스.md "wikilink")에서 방영하고 [2014년](../Page/2014년.md "wikilink") [1월 28일에](../Page/1월_28일.md "wikilink") [재능TV](../Page/재능TV.md "wikilink")에서 방영하였다. 배경은 [관동 지방이며](https://ko.wikipedia.org/wiki/관동_지방 "wikilink") 1세대 포켓몬들만 등장하는 것이 이 작품의 특징이다.

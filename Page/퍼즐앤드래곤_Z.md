@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ Z](https://ko.wikipedia.org/wiki/_Z).
+> This article is converted from Wikipedia: [퍼즐앤드래곤 Z](https://ko.wikipedia.org/wiki/퍼즐앤드래곤_Z).
 
 
 《**퍼즐앤드래곤 Z**》는 [일본](../Page/일본.md "wikilink")에서 [2013년](../Page/2013년.md "wikilink") [12월 12일에](../Page/12월_12일.md "wikilink") [닌텐도](../Page/닌텐도.md "wikilink"), [겅호](https://ko.wikipedia.org/wiki/겅호 "wikilink")가 공동 출시한 [닌텐도 3DS](../Page/닌텐도_3DS.md "wikilink") 소프트웨어이다.

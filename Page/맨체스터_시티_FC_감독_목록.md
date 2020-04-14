@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  FC  ](https://ko.wikipedia.org/wiki/__FC__).
+> This article is converted from Wikipedia: [맨체스터 시티 FC 감독 목록](https://ko.wikipedia.org/wiki/맨체스터_시티_FC_감독_목록).
 
 
 다음은 연대별 **맨체스터 시티의 감독 목록**이다.

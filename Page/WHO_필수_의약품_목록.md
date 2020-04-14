@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [WHO   ](https://ko.wikipedia.org/wiki/WHO___).
+> This article is converted from Wikipedia: [WHO 필수 의약품 목록](https://ko.wikipedia.org/wiki/WHO_필수_의약품_목록).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:V1_40_years_Model_List_of_Essential_Medicines.001.png "wikilink")
@@ -30,7 +30,7 @@
   - [리도카인](../Page/리도카인.md "wikilink") + [에피네프린](https://ko.wikipedia.org/wiki/에피네프린 "wikilink")
   - [에페드린](../Page/에페드린.md "wikilink")
 
-### 수술 전 치료 및 단기 술기를 위한 진정제
+### 수술 전 치료 및 단기 치료를 위한 진정제
 
   - [아트로핀](../Page/아트로핀.md "wikilink")
   - [미다졸람](../Page/미다졸람.md "wikilink")
@@ -71,7 +71,7 @@
   - [덱사메타존](../Page/덱사메타존.md "wikilink")
   - [에피네프린](https://ko.wikipedia.org/wiki/에피네프린 "wikilink") (아드레날린)
   - [히드로코르티손](https://ko.wikipedia.org/wiki/히드로코르티손 "wikilink")
-  - [로라타딘](https://ko.wikipedia.org/wiki/로라타딘 "wikilink")\[8\]
+  - [로라타딘](../Page/로라타딘.md "wikilink")\[8\]
   - [프레드니솔론](../Page/프레드니솔론.md "wikilink")
 
 ## 해독제 및 중독에 쓰이는 다른 물질
@@ -82,7 +82,7 @@
 
 ### 제제
 
-  - [아세틸시스테인](https://ko.wikipedia.org/wiki/아세틸시스테인 "wikilink")
+  - [아세틸시스테인](../Page/아세틸시스테인.md "wikilink")
   - [아트로핀](../Page/아트로핀.md "wikilink")
   - [글루콘산염](https://ko.wikipedia.org/wiki/글루콘산염 "wikilink")
   - [메틸렌 블루](../Page/메틸렌_블루.md "wikilink")
@@ -104,7 +104,7 @@
   - [로라제팜](../Page/로라제팜.md "wikilink")
   - [황산마그네슘](https://ko.wikipedia.org/wiki/황산마그네슘 "wikilink")\[9\]
   - [페노바르비탈](https://ko.wikipedia.org/wiki/페노바르비탈 "wikilink")
-  - [페니토인](https://ko.wikipedia.org/wiki/페니토인 "wikilink")
+  - [페니토인](../Page/페니토인.md "wikilink")
   - [발프로익산](https://ko.wikipedia.org/wiki/발프로익산 "wikilink")
   - [에토석시미드](https://ko.wikipedia.org/wiki/에토석시미드 "wikilink")
 
@@ -114,16 +114,16 @@
 
 #### 장 구충제
 
-  - [알벤다졸](https://ko.wikipedia.org/wiki/알벤다졸 "wikilink")
+  - [알벤다졸](../Page/알벤다졸.md "wikilink")
   - [레바미솔](https://ko.wikipedia.org/wiki/레바미솔 "wikilink")
-  - [메벤다졸](https://ko.wikipedia.org/wiki/메벤다졸 "wikilink")
+  - [메벤다졸](../Page/메벤다졸.md "wikilink")
   - [니클로사미드](https://ko.wikipedia.org/wiki/니클로사미드 "wikilink")
   - [프라지콴텔](../Page/프라지콴텔.md "wikilink")
   - [피란텔](https://ko.wikipedia.org/wiki/피란텔 "wikilink")
 
 #### 항필라리아제
 
-  - [알벤다졸](https://ko.wikipedia.org/wiki/알벤다졸 "wikilink")
+  - [알벤다졸](../Page/알벤다졸.md "wikilink")
   - [디에틸카르바마진](https://ko.wikipedia.org/wiki/디에틸카르바마진 "wikilink")
   - [이버멕틴](../Page/이버멕틴.md "wikilink")
 
@@ -139,10 +139,10 @@
 
   - [아목시실린](../Page/아목시실린.md "wikilink")
   - [아목시실린/클라블란산](https://ko.wikipedia.org/wiki/아목시실린/클라블란산 "wikilink") ([아목시실린](../Page/아목시실린.md "wikilink") + [클라블란산](https://ko.wikipedia.org/wiki/클라블란산 "wikilink"))
-  - [암피실린](https://ko.wikipedia.org/wiki/암피실린 "wikilink")
+  - [암피실린](../Page/암피실린.md "wikilink")
   - [벤자틴벤질페니실린](https://ko.wikipedia.org/wiki/벤자틴벤질페니실린 "wikilink")
-  - [벤질페니실린](https://ko.wikipedia.org/wiki/벤질페니실린 "wikilink")
-  - [세팔렉신](https://ko.wikipedia.org/wiki/세팔렉신 "wikilink")
+  - [벤질페니실린](../Page/벤질페니실린.md "wikilink")
+  - [세팔렉신](../Page/세팔렉신.md "wikilink")
   - [세파졸린](https://ko.wikipedia.org/wiki/세파졸린 "wikilink")\[10\]
   - [세픽심](https://ko.wikipedia.org/wiki/세픽심 "wikilink")\[11\]
   - [세프트리악손](https://ko.wikipedia.org/wiki/세프트리악손 "wikilink")\[12\]
@@ -156,18 +156,18 @@
 #### 기타 항균제
 
   - [아지스로마이신](https://ko.wikipedia.org/wiki/아지스로마이신 "wikilink")\[16\]
-  - [클로람페니콜](https://ko.wikipedia.org/wiki/클로람페니콜 "wikilink")
-  - [시프로플록사신](https://ko.wikipedia.org/wiki/시프로플록사신 "wikilink")
-  - [클래리스로마이신](https://ko.wikipedia.org/wiki/클래리스로마이신 "wikilink")\[17\]
-  - [독시사이클린](https://ko.wikipedia.org/wiki/독시사이클린 "wikilink")
-  - [에리트로마이신](https://ko.wikipedia.org/wiki/에리트로마이신 "wikilink")
-  - [젠타마이신](https://ko.wikipedia.org/wiki/젠타마이신 "wikilink")
-  - [메트로니다졸](https://ko.wikipedia.org/wiki/메트로니다졸 "wikilink")
+  - [클로람페니콜](../Page/클로람페니콜.md "wikilink")
+  - [시프로플록사신](../Page/시프로플록사신.md "wikilink")
+  - [클래리스로마이신](../Page/클래리스로마이신.md "wikilink")\[17\]
+  - [독시사이클린](../Page/독시사이클린.md "wikilink")
+  - [에리트로마이신](../Page/에리트로마이신.md "wikilink")
+  - [젠타마이신](../Page/젠타마이신.md "wikilink")
+  - [메트로니다졸](../Page/메트로니다졸.md "wikilink")
   - [니트로푸란토인](https://ko.wikipedia.org/wiki/니트로푸란토인 "wikilink")
   - [스펙티노마이신](https://ko.wikipedia.org/wiki/스펙티노마이신 "wikilink")
   - [술파메톡사졸 + 트리메토프림](https://ko.wikipedia.org/wiki/트리메토프림/술파메톡사졸 "wikilink")
   - [트리메토프림](https://ko.wikipedia.org/wiki/트리메토프림 "wikilink")
-  - [클린다마이신](https://ko.wikipedia.org/wiki/클린다마이신 "wikilink")
+  - [클린다마이신](../Page/클린다마이신.md "wikilink")
   - [반코마이신](../Page/반코마이신.md "wikilink")
 
 #### 항[나제](../Page/나병.md "wikilink")
@@ -189,19 +189,19 @@
   - [리파부틴](../Page/리파부틴.md "wikilink")
   - [리팜피신](../Page/리팜피신.md "wikilink")
   - [스트렙토마이신](../Page/스트렙토마이신.md "wikilink")
-  - [아미카신](https://ko.wikipedia.org/wiki/아미카신 "wikilink")
+  - [아미카신](../Page/아미카신.md "wikilink")
   - [카프레오마이신](https://ko.wikipedia.org/wiki/카프레오마이신 "wikilink")
   - [시클로세린](https://ko.wikipedia.org/wiki/시클로세린 "wikilink")
   - [에티온아미드](https://ko.wikipedia.org/wiki/에티온아미드 "wikilink") \[18\]
   - [카나마이신](https://ko.wikipedia.org/wiki/카나마이신 "wikilink")
-  - [레보플록사신](https://ko.wikipedia.org/wiki/레보플록사신 "wikilink")
+  - [레보플록사신](../Page/레보플록사신.md "wikilink")
   - [p-아미노살리실산](https://ko.wikipedia.org/wiki/p-아미노살리실산 "wikilink")
 
 ### 항진균제
 
   - [암포테리신B](https://ko.wikipedia.org/wiki/암포테리신B "wikilink")
-  - [클로트리마졸](https://ko.wikipedia.org/wiki/클로트리마졸 "wikilink")
-  - [플루코나졸](https://ko.wikipedia.org/wiki/플루코나졸 "wikilink")
+  - [클로트리마졸](../Page/클로트리마졸.md "wikilink")
+  - [플루코나졸](../Page/플루코나졸.md "wikilink")
   - [플루시토신](https://ko.wikipedia.org/wiki/플루시토신 "wikilink")
   - [그리세오풀빈](https://ko.wikipedia.org/wiki/그리세오풀빈 "wikilink")
   - [니스타틴](https://ko.wikipedia.org/wiki/니스타틴 "wikilink")
@@ -223,7 +223,7 @@
   - [라미부딘](https://ko.wikipedia.org/wiki/라미부딘 "wikilink") (3TC)
   - [스타부딘](https://ko.wikipedia.org/wiki/스타부딘 "wikilink") (d4T)
   - [테노포비어디소프록실푸마레이트](https://ko.wikipedia.org/wiki/테노포비어디소프록실푸마레이트 "wikilink") (TDF)
-  - [지도부딘](https://ko.wikipedia.org/wiki/지도부딘 "wikilink") (ZDV or AZT)
+  - [지도부딘](../Page/지도부딘.md "wikilink") (ZDV or AZT)
 
 ##### 비-뉴클레오시드 역전사 효소 억제제
 
@@ -243,8 +243,8 @@
   - [에파비렌즈](https://ko.wikipedia.org/wiki/에파비렌즈 "wikilink") + [엠트리시타빈](https://ko.wikipedia.org/wiki/엠트리시타빈 "wikilink")\[20\] + [테노포비어](https://ko.wikipedia.org/wiki/테노포비어 "wikilink")
   - [엠트리시타빈](https://ko.wikipedia.org/wiki/엠트리시타빈 "wikilink")\[21\] + [테노포비어](https://ko.wikipedia.org/wiki/테노포비어 "wikilink")
   - [라미부딘](https://ko.wikipedia.org/wiki/라미부딘 "wikilink") + [네비라핀](https://ko.wikipedia.org/wiki/네비라핀 "wikilink") + [스타부딘](https://ko.wikipedia.org/wiki/스타부딘 "wikilink")
-  - [라미부딘](https://ko.wikipedia.org/wiki/라미부딘 "wikilink") + [네비라핀](https://ko.wikipedia.org/wiki/네비라핀 "wikilink") + [지도부딘](https://ko.wikipedia.org/wiki/지도부딘 "wikilink")
-  - [라미부딘](https://ko.wikipedia.org/wiki/라미부딘 "wikilink") + [지도부딘](https://ko.wikipedia.org/wiki/지도부딘 "wikilink")
+  - [라미부딘](https://ko.wikipedia.org/wiki/라미부딘 "wikilink") + [네비라핀](https://ko.wikipedia.org/wiki/네비라핀 "wikilink") + [지도부딘](../Page/지도부딘.md "wikilink")
+  - [라미부딘](https://ko.wikipedia.org/wiki/라미부딘 "wikilink") + [지도부딘](../Page/지도부딘.md "wikilink")
 
 ##### 기타 항바이러스제
 
@@ -260,7 +260,7 @@
 #### 항아메바제 및 항편모충증 약물
 
   - [딜록사니드](https://ko.wikipedia.org/wiki/딜록사니드 "wikilink")
-  - [메트로니다졸](https://ko.wikipedia.org/wiki/메트로니다졸 "wikilink")
+  - [메트로니다졸](../Page/메트로니다졸.md "wikilink")
 
 #### 항-리슈마니아증 약물
 
@@ -279,8 +279,8 @@
   - [아르테수네이트](https://ko.wikipedia.org/wiki/아르테수네이트 "wikilink")\[27\]
   - [아르테수네이트](https://ko.wikipedia.org/wiki/아르테수네이트 "wikilink") + [아모디아퀸](https://ko.wikipedia.org/wiki/아모디아퀸 "wikilink")\[28\]
   - [아르테수네이트](https://ko.wikipedia.org/wiki/아르테수네이트 "wikilink") + [메플로퀸](https://ko.wikipedia.org/wiki/메플로퀸 "wikilink")
-  - [클로로퀸](https://ko.wikipedia.org/wiki/클로로퀸 "wikilink")\[29\]
-  - [독시사이클린](https://ko.wikipedia.org/wiki/독시사이클린 "wikilink")\[30\]
+  - [클로로퀸](../Page/클로로퀸.md "wikilink")\[29\]
+  - [독시사이클린](../Page/독시사이클린.md "wikilink")\[30\]
   - [메플로퀸](https://ko.wikipedia.org/wiki/메플로퀸 "wikilink")\[31\]
   - [프리마퀸](https://ko.wikipedia.org/wiki/프리마퀸 "wikilink")\[32\]
   - [퀴닌](../Page/퀴닌.md "wikilink")\[33\]
@@ -288,8 +288,8 @@
 
 ##### 예방 목적
 
-  - [클로로퀸](https://ko.wikipedia.org/wiki/클로로퀸 "wikilink")\[35\]
-  - [독시사이클린](https://ko.wikipedia.org/wiki/독시사이클린 "wikilink")
+  - [클로로퀸](../Page/클로로퀸.md "wikilink")\[35\]
+  - [독시사이클린](../Page/독시사이클린.md "wikilink")
   - [메플로퀸](https://ko.wikipedia.org/wiki/메플로퀸 "wikilink")
   - [프로구아닐](https://ko.wikipedia.org/wiki/프로구아닐 "wikilink")\[36\]
 
@@ -336,8 +336,8 @@
 
 ### 면역억제제
 
-  - [아자티오프린](https://ko.wikipedia.org/wiki/아자티오프린 "wikilink")
-  - [시클로스포린](https://ko.wikipedia.org/wiki/시클로스포린 "wikilink")
+  - [아자티오프린](../Page/아자티오프린.md "wikilink")
+  - [시클로스포린](../Page/시클로스포린.md "wikilink")
 
 ### 세포독성 및 보조제
 
@@ -347,25 +347,25 @@
   - [칼슘폴리네이트](https://ko.wikipedia.org/wiki/칼슘폴리네이트 "wikilink")
   - [카보플라틴](https://ko.wikipedia.org/wiki/카보플라틴 "wikilink")
   - [클로람부칠](https://ko.wikipedia.org/wiki/클로람부칠 "wikilink")
-  - [시클로포스파미드](https://ko.wikipedia.org/wiki/시클로포스파미드 "wikilink")
+  - [시클로포스파미드](../Page/시클로포스파미드.md "wikilink")
   - [시타라빈](https://ko.wikipedia.org/wiki/시타라빈 "wikilink")
   - [다카르바진](https://ko.wikipedia.org/wiki/다카르바진 "wikilink")
   - [닥티노마이신](https://ko.wikipedia.org/wiki/닥티노마이신 "wikilink")
   - [다우노루비신](../Page/다우노루비신.md "wikilink")
   - [도세탁셀](https://ko.wikipedia.org/wiki/도세탁셀 "wikilink")
-  - [독소루비신](https://ko.wikipedia.org/wiki/독소루비신 "wikilink")
+  - [독소루비신](../Page/독소루비신.md "wikilink")
   - [에토포시드](https://ko.wikipedia.org/wiki/에토포시드 "wikilink")
   - [플루오로우라실](https://ko.wikipedia.org/wiki/플루오로우라실 "wikilink")
   - [히드록시카바미드](https://ko.wikipedia.org/wiki/히드록시카바미드 "wikilink")
   - [이포스파마이드](https://ko.wikipedia.org/wiki/이포스파마이드 "wikilink")
   - [메르캅토푸린](https://ko.wikipedia.org/wiki/메르캅토푸린 "wikilink")
   - [메스나](https://ko.wikipedia.org/wiki/메스나 "wikilink")
-  - [메토트렉세이트](https://ko.wikipedia.org/wiki/메토트렉세이트 "wikilink")
+  - [메토트렉세이트](../Page/메토트렉세이트.md "wikilink")
   - [파클리탁셀](https://ko.wikipedia.org/wiki/파클리탁셀 "wikilink")
   - [프로카르바진](https://ko.wikipedia.org/wiki/프로카르바진 "wikilink")
   - [치오구아닌](https://ko.wikipedia.org/wiki/치오구아닌 "wikilink")
   - [빈블라스틴](https://ko.wikipedia.org/wiki/빈블라스틴 "wikilink")
-  - [빈크리스틴](https://ko.wikipedia.org/wiki/빈크리스틴 "wikilink")
+  - [빈크리스틴](../Page/빈크리스틴.md "wikilink")
 
 ### 호르몬 및 항호르몬
 
@@ -373,7 +373,7 @@
   - [히드로코르티손](https://ko.wikipedia.org/wiki/히드로코르티손 "wikilink")
   - [메틸프레드니솔론](https://ko.wikipedia.org/wiki/메틸프레드니솔론 "wikilink")
   - [프레드니솔론](../Page/프레드니솔론.md "wikilink")
-  - [타목시펜](https://ko.wikipedia.org/wiki/타목시펜 "wikilink")
+  - [타목시펜](../Page/타목시펜.md "wikilink")
 
 ## 항파킨슨제제
 
@@ -429,15 +429,15 @@
 
 ### 항협십증제
 
-  - [비소프롤롤](https://ko.wikipedia.org/wiki/비소프롤롤 "wikilink")\[43\]
+  - [비소프롤롤](../Page/비소프롤롤.md "wikilink")\[43\]
   - [삼질산글리세린](https://ko.wikipedia.org/wiki/삼질산글리세린 "wikilink")
   - [질산이소소르비드](https://ko.wikipedia.org/wiki/질산이소소르비드 "wikilink")
   - [베라파밀](https://ko.wikipedia.org/wiki/베라파밀 "wikilink")
 
 ### 항부정맥제
 
-  - [비소프롤롤](https://ko.wikipedia.org/wiki/비소프롤롤 "wikilink")\[44\]
-  - [디곡신](https://ko.wikipedia.org/wiki/디곡신 "wikilink")
+  - [비소프롤롤](../Page/비소프롤롤.md "wikilink")\[44\]
+  - [디곡신](../Page/디곡신.md "wikilink")
   - [에피네프린](https://ko.wikipedia.org/wiki/에피네프린 "wikilink") (아드레날린)
   - [리도카인](../Page/리도카인.md "wikilink")
   - [베라파밀](https://ko.wikipedia.org/wiki/베라파밀 "wikilink")
@@ -446,26 +446,26 @@
 ### 항고혈압제
 
   - [암로디핀](../Page/암로디핀.md "wikilink")
-  - [비소프롤롤](https://ko.wikipedia.org/wiki/비소프롤롤 "wikilink")\[45\]
-  - [에날라프릴](https://ko.wikipedia.org/wiki/에날라프릴 "wikilink")
+  - [비소프롤롤](../Page/비소프롤롤.md "wikilink")\[45\]
+  - [에날라프릴](../Page/에날라프릴.md "wikilink")
   - [히드랄라진](https://ko.wikipedia.org/wiki/히드랄라진 "wikilink")<ref group="주석">
 
 히드랄라진은 심각한 임신성 고혈압 치료 용도로만 등재되었다. 다른 제제가 더 효과적이고 안전하다는 증거가 있는 경우 본태성 고혈압에 이 약을 쓰는 것은 권장되지 않는다.</ref>
 
-  - [히드로클로로티아지드](https://ko.wikipedia.org/wiki/히드로클로로티아지드 "wikilink")
+  - [히드로클로로티아지드](../Page/히드로클로로티아지드.md "wikilink")
   - [메틸도파](https://ko.wikipedia.org/wiki/메틸도파 "wikilink")\[46\]
-  - [로자탄](https://ko.wikipedia.org/wiki/로자탄 "wikilink")
+  - [로자탄](../Page/로자탄.md "wikilink")
   - [니트로프루시드나트륨](https://ko.wikipedia.org/wiki/니트로프루시드나트륨 "wikilink")
 
 ### 심장마비에 쓰이는 제제
 
-  - [비소프롤롤](https://ko.wikipedia.org/wiki/비소프롤롤 "wikilink")\[47\]
-  - [디곡신](https://ko.wikipedia.org/wiki/디곡신 "wikilink")
-  - [에날라프릴](https://ko.wikipedia.org/wiki/에날라프릴 "wikilink")
+  - [비소프롤롤](../Page/비소프롤롤.md "wikilink")\[47\]
+  - [디곡신](../Page/디곡신.md "wikilink")
+  - [에날라프릴](../Page/에날라프릴.md "wikilink")
   - [프로세미드](https://ko.wikipedia.org/wiki/프로세미드 "wikilink")
-  - [히드로클로로티아지드](https://ko.wikipedia.org/wiki/히드로클로로티아지드 "wikilink")
+  - [히드로클로로티아지드](../Page/히드로클로로티아지드.md "wikilink")
   - [스피로놀락톤](../Page/스피로놀락톤.md "wikilink")
-  - [로자탄](https://ko.wikipedia.org/wiki/로자탄 "wikilink")
+  - [로자탄](../Page/로자탄.md "wikilink")
   - [도파민](../Page/도파민.md "wikilink")
 
 ### 항혈전증제
@@ -475,7 +475,7 @@
 
 ### 지질농도 저하제
 
-  - [심바스타틴](https://ko.wikipedia.org/wiki/심바스타틴 "wikilink")\[48\]
+  - [심바스타틴](../Page/심바스타틴.md "wikilink")\[48\]
 
 ## 피부과 약물 (국소)
 
@@ -544,8 +544,8 @@
 
   - [아미로라이드](https://ko.wikipedia.org/wiki/아미로라이드 "wikilink")
   - [프로세미드](https://ko.wikipedia.org/wiki/프로세미드 "wikilink")
-  - [히드로클로로티아지드](https://ko.wikipedia.org/wiki/히드로클로로티아지드 "wikilink")
-  - [만니톨](https://ko.wikipedia.org/wiki/만니톨 "wikilink")
+  - [히드로클로로티아지드](../Page/히드로클로로티아지드.md "wikilink")
+  - [만니톨](../Page/만니톨.md "wikilink")
   - [스피로놀락톤](../Page/스피로놀락톤.md "wikilink")
 
 ## 위장관계 약물
@@ -657,13 +657,13 @@
 
 ### 백신
 
-  - [BCG 백신](https://ko.wikipedia.org/wiki/BCG_백신 "wikilink")
-  - [콜레라 백신](https://ko.wikipedia.org/wiki/콜레라_백신 "wikilink")
+  - [BCG 백신](../Page/BCG_백신.md "wikilink")
+  - [콜레라 백신](../Page/콜레라_백신.md "wikilink")
   - [디프테리아 백신](https://ko.wikipedia.org/wiki/디프테리아_백신 "wikilink")
   - [B형 인플루엔자 백신](https://ko.wikipedia.org/wiki/B형_인플루엔자_백신 "wikilink")
   - [A형 간염 백신](https://ko.wikipedia.org/wiki/A형_간염_백신 "wikilink")
-  - [B형 간염 백신](https://ko.wikipedia.org/wiki/B형_간염_백신 "wikilink")
-  - [HPV 백신](https://ko.wikipedia.org/wiki/HPV_백신 "wikilink")
+  - [B형 간염 백신](../Page/B형_간염_백신.md "wikilink")
+  - [HPV 백신](../Page/HPV_백신.md "wikilink")
   - [인플루엔자 백신](https://ko.wikipedia.org/wiki/인플루엔자_백신 "wikilink")
   - [일본 뇌염 백신](https://ko.wikipedia.org/wiki/일본_뇌염_백신 "wikilink")
   - [홍역 백신](https://ko.wikipedia.org/wiki/홍역_백신 "wikilink")
@@ -722,7 +722,7 @@
 
 ### 항혈관내피세포성장인자 (VEGF)
 
-  - [베바시주맙](https://ko.wikipedia.org/wiki/베바시주맙 "wikilink")
+  - [베바시주맙](../Page/베바시주맙.md "wikilink")
 
 ## 자궁수축제 및 항자궁수축제
 
@@ -745,7 +745,7 @@
 
 ### 정신 장애에 쓰이는 제제
 
-  - [클로르프로마진](https://ko.wikipedia.org/wiki/클로르프로마진 "wikilink")
+  - [클로르프로마진](../Page/클로르프로마진.md "wikilink")
   - [플루페나진](https://ko.wikipedia.org/wiki/플루페나진 "wikilink")
   - [할로페리돌](../Page/할로페리돌.md "wikilink")
   - [리스페리돈](../Page/리스페리돈.md "wikilink")
@@ -770,7 +770,7 @@
 
 ### 강박장애에 쓰이는 제제
 
-  - [클로미프라민](https://ko.wikipedia.org/wiki/클로미프라민 "wikilink")
+  - [클로미프라민](../Page/클로미프라민.md "wikilink")
 
 ### 정신 활성 약물의 사용으로 인한 장애 치료제
 
@@ -826,7 +826,7 @@
 
   - [아세트산](../Page/아세트산.md "wikilink")
   - [부데소니드](https://ko.wikipedia.org/wiki/부데소니드 "wikilink")
-  - [시프로플록사신](https://ko.wikipedia.org/wiki/시프로플록사신 "wikilink")
+  - [시프로플록사신](../Page/시프로플록사신.md "wikilink")
   - [키실로메타졸린](https://ko.wikipedia.org/wiki/키실로메타졸린 "wikilink")
 
 ## 신생아 간호를 위한 특정 제제
@@ -851,10 +851,10 @@
 
 ### 항 류마티스계 약물 (DMARDs)
 
-  - [클로로퀸](https://ko.wikipedia.org/wiki/클로로퀸 "wikilink")
-  - [아자티오프린](https://ko.wikipedia.org/wiki/아자티오프린 "wikilink")
+  - [클로로퀸](../Page/클로로퀸.md "wikilink")
+  - [아자티오프린](../Page/아자티오프린.md "wikilink")
   - [히드록시클로로퀸](https://ko.wikipedia.org/wiki/히드록시클로로퀸 "wikilink")
-  - [메토트렉세이트](https://ko.wikipedia.org/wiki/메토트렉세이트 "wikilink")
+  - [메토트렉세이트](../Page/메토트렉세이트.md "wikilink")
   - [페니실라민](https://ko.wikipedia.org/wiki/페니실라민 "wikilink")
   - [설파살라진](https://ko.wikipedia.org/wiki/설파살라진 "wikilink")
 
@@ -880,7 +880,7 @@
 4.
 5.  지역적 가용성과 비용에 따라 [티오펜탈](https://ko.wikipedia.org/wiki/티오펜탈 "wikilink")을 쓸 수도 있다.
 6.  항염증에 효과가 있다는 증거가 부족하기 때문에 항염증제로는 추천되지 않는다.
-7.  대체제는 [히드로모르폰](https://ko.wikipedia.org/wiki/히드로모르폰 "wikilink")과 [옥시코돈](https://ko.wikipedia.org/wiki/옥시코돈 "wikilink")으로 제한된다..
+7.  대체제는 [히드로모르폰](https://ko.wikipedia.org/wiki/히드로모르폰 "wikilink")과 [옥시코돈](../Page/옥시코돈.md "wikilink")으로 제한된다..
 8.  한정된 지시 내에서 항히스타민제를 진정시키는 효과가 있기도 한다. (EMLc)
 9.  다른 항경련질환에 쓰이는 것이 아니라 [자간증](https://ko.wikipedia.org/wiki/자간증 "wikilink") 및 심각한 전자간증에 쓰인다.
 10. 외과적 예방 용도로만 쓰인다.

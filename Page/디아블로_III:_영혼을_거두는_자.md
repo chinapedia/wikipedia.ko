@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ III:   ](https://ko.wikipedia.org/wiki/_III:___).
+> This article is converted from Wikipedia: [디아블로 III: 영혼을 거두는 자](https://ko.wikipedia.org/wiki/디아블로_III:_영혼을_거두는_자).
 
 
 《**디아블로 III: 영혼을 거두는 자**》는 [2014년](../Page/2014년.md "wikilink") [3월 25일에](../Page/3월_25일.md "wikilink") 출시한 《[디아블로 III](../Page/디아블로_III.md "wikilink")》의 확장팩 버전이다. [2013년 8월 21일](https://ko.wikipedia.org/wiki/2013년_8월_21일 "wikilink") [게임스컴](../Page/게임스컴.md "wikilink") 행사에서 처음 공개되었다. 현재 디지털 일반판 및 디지털 딜럭스를 각각 37000원, 57000원에 예약 판매를 하였다.

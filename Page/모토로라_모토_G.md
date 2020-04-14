@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  G](https://ko.wikipedia.org/wiki/__G).
+> This article is converted from Wikipedia: [모토로라 모토 G](https://ko.wikipedia.org/wiki/모토로라_모토_G).
 
 
 **모토로라 모토 G** (Motorola Moto G)는 [모토로라 모빌리티에서](../Page/모토로라_모빌리티.md "wikilink") 제조/판매하는 [안드로이드](../Page/안드로이드_\(운영_체제\).md "wikilink") [스마트폰](../Page/스마트폰.md "wikilink")으로, [모토로라 모토 X의](../Page/모토로라_모토_X.md "wikilink") 보급형 기종이다.\[1\]

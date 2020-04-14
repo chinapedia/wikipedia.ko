@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [PEST ](https://ko.wikipedia.org/wiki/PEST_).
+> This article is converted from Wikipedia: [PEST 분석](https://ko.wikipedia.org/wiki/PEST_분석).
 
 
 **거시환경분석(PEST)** (**Political, Economic, Social and Technological analysis**)은 전략관리 구성 요소 중 환경 파악에 사용되는 거시적 환경 요소를 묘사한다. 일부 학자들은 이 내용에 법적(Legal) 특성을 추가하여 **SLEPT**로 부르기도 하며 환경(Environmental) 분야를 추가하여 **PESTEL** 혹은 **PESTLE**로 칭하는데 [영국](../Page/영국.md "wikilink")에서 통용된다.\[1\] 시장 조사나 전략 분석을 할 경우 특별히 거시경제 요소에서 기업이 의사결정을 내려야할 시 사용하는 기법이다. 시장 성장과 축소, 사업 포지셔닝, 사업 방향 등을 파악하는 데 효과적인 도구이다.

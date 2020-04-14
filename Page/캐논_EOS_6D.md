@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ EOS 6D](https://ko.wikipedia.org/wiki/_EOS_6D).
+> This article is converted from Wikipedia: [캐논 EOS 6D](https://ko.wikipedia.org/wiki/캐논_EOS_6D).
 
 
 **캐논 EOS 6D**()는 2,020만 [유효 화소를](https://ko.wikipedia.org/wiki/유효_화소 "wikilink") 가지는 [캐논의](https://ko.wikipedia.org/wiki/캐논_주식회사 "wikilink") [풀프레임](../Page/풀프레임_DSLR.md "wikilink") [디지털 SLR이다](../Page/디지털_일안_반사식_카메라.md "wikilink"). [포토키나](../Page/포토키나.md "wikilink")를 하루 앞둔 [2012년](../Page/2012년.md "wikilink") [9월 17일에](../Page/9월_17일.md "wikilink") 발표되었다.\[1\] 가격은 US $2,099 (바디 단품)이며, EF 24-105mm F4L IS USM 렌즈 킷은 US$ 2,899 이다.\[2\]

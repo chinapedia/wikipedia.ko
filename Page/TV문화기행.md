@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TV](https://ko.wikipedia.org/wiki/TV).
+> This article is converted from Wikipedia: [TV문화기행](https://ko.wikipedia.org/wiki/TV문화기행).
 
 
 **TV문화기행**은 [2005년](../Page/2005년.md "wikilink") [5월 3일부터](../Page/5월_3일.md "wikilink") [11월 22일까지](../Page/11월_22일.md "wikilink") 방송되었던 [KBS 2TV의](../Page/KBS_2TV.md "wikilink") [교양](../Page/교양.md "wikilink") 프로그램이다.

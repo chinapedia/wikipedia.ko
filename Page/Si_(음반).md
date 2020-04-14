@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Si \(\)](https://ko.wikipedia.org/wiki/Si_\(\)).
+> This article is converted from Wikipedia: [Si \(음반\)](https://ko.wikipedia.org/wiki/Si_\(음반\)).
 
 
 《**\[síː\]**》는, [도모토 쯔요시의](../Page/도모토_츠요시.md "wikilink") 2번째 [정규 음반이다](../Page/정규_음반.md "wikilink").

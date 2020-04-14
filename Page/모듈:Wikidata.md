@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Wikidata](https://ko.wikipedia.org/wiki/:Wikidata).
+> This article is converted from Wikipedia: [모듈:Wikidata](https://ko.wikipedia.org/wiki/모듈:Wikidata).
 
 
 \-- vim: set noexpandtab ft=lua ts=4 sw=4: require('Module:No globals')

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Authority control](https://ko.wikipedia.org/wiki/:Authority_control).
+> This article is converted from Wikipedia: [모듈:Authority control](https://ko.wikipedia.org/wiki/모듈:Authority_control).
 
 
 require('Module:No globals')

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Their Greatest Hits \(19711975\)](https://ko.wikipedia.org/wiki/Their_Greatest_Hits_\(19711975\)).
+> This article is converted from Wikipedia: [Their Greatest Hits \(1971–1975\)](https://ko.wikipedia.org/wiki/Their_Greatest_Hits_\(1971–1975\)).
 
 
 ***Their Greatest Hits (1971-1975)***는 미국의 록 밴드 [이글스](../Page/이글스.md "wikilink")의 첫 번째 [베스트 앨범이다](https://ko.wikipedia.org/wiki/베스트_앨범 "wikilink"). 1976년 발매되었다. 2012년 11월까지 미국 내에서만 2900만장, 국제적으로는 1300만장이 더 판매되어, 음악 역사상 2번째로 많이 팔린 음반이 되었다. 2007년까지는 미국에서 가장 많은 판매율을 지니고 있었으며, 20세기 앨범중에서 가장 많이 판매되었다. 1972년과 1975년 사이 가장 많이 판매된 싱글로 구성되어 있다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [MTV  ](https://ko.wikipedia.org/wiki/MTV__).
+> This article is converted from Wikipedia: [MTV 오스트레일리아 어워드](https://ko.wikipedia.org/wiki/MTV_오스트레일리아_어워드).
 
 
 **MTV 오스트레일리아 어워드**(MTV Australia Awards, MTV Australia Video Music Awards, AVMA's로도 알려짐)는 [MTV 오스트레일리아에서](https://ko.wikipedia.org/wiki/MTV_오스트레일리아 "wikilink") 주최하는 음악 시상식으로, 2005년 처음 열렸다.

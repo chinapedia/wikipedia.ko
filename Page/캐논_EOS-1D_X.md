@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ EOS-1D X](https://ko.wikipedia.org/wiki/_EOS-1D_X).
+> This article is converted from Wikipedia: [캐논 EOS-1D X](https://ko.wikipedia.org/wiki/캐논_EOS-1D_X).
 
 
 **캐논 EOS-1D X**()는 1,810만 [유효 화소를](https://ko.wikipedia.org/wiki/유효_화소 "wikilink") 가지는 [캐논의](https://ko.wikipedia.org/wiki/캐논_주식회사 "wikilink") [풀프레임](../Page/풀프레임_DSLR.md "wikilink") [디지털 SLR](../Page/디지털_일안_반사식_카메라.md "wikilink")\[1\]이다. [2012년](../Page/2012년.md "wikilink") [6월](../Page/6월.md "wikilink")에 발표되었으며, 출시 가격은 미국 기준으로 US$ 6,799.00 (바디 단품)이다. 1D X는 기존 APS-H 프레스십 기종인 [1D Mark IV와](https://ko.wikipedia.org/wiki/1D_Mark_IV "wikilink") 풀프레임 플래그십인 [1Ds Mark III의](https://ko.wikipedia.org/wiki/1Ds_Mark_III "wikilink") 통합기종으로 출시됐으며, 현재 캐논 DSLR 라인업에서 최상급 모델이다. 경쟁 모델로는 니콘의 [D4](https://ko.wikipedia.org/wiki/D4 "wikilink") 가 있다. 자동초점 포인트가 61개, 크로스 자동초점 포인트가 41개로 향상되었으며, 1D 시리즈의 연사력과 1Ds 시리즈의 화질을 모두 갖춘 기종이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Shamanippon - -](https://ko.wikipedia.org/wiki/Shamanippon_-_-).
+> This article is converted from Wikipedia: [Shamanippon -힘 의람사-](https://ko.wikipedia.org/wiki/Shamanippon_-힘_의람사-).
 
 
 《**shamanippon -힘 의람사-**》()는, [도모토 쯔요시의](../Page/도모토_츠요시.md "wikilink") 통상 7번째 [정규 음반이다](../Page/정규_음반.md "wikilink").

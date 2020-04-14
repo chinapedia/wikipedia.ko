@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [USS   \(DE-544\)](https://ko.wikipedia.org/wiki/USS___\(DE-544\)).
+> This article is converted from Wikipedia: [USS 알프레드 울프 \(DE-544\)](https://ko.wikipedia.org/wiki/USS_알프레드_울프_\(DE-544\)).
 
 
 **USS 알프레드 울프 (DE-544)**는 [제2차 세계 대전](../Page/제2차_세계_대전.md "wikilink") 시기 [미국 해군의](../Page/미국_해군.md "wikilink") 건설 중단된 [존 C. 벌터급](https://ko.wikipedia.org/wiki/존_C._벌터급_호위구축함 "wikilink") [호위구축함](https://ko.wikipedia.org/wiki/호위구축함 "wikilink")이다.

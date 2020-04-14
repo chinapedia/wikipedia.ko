@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [J. D. ](https://ko.wikipedia.org/wiki/J._D._).
+> This article is converted from Wikipedia: [J. D. 마틴](https://ko.wikipedia.org/wiki/J._D._마틴).
 
 
 **존 데일 마틴**(John Dale Martin, [1983년](../Page/1983년.md "wikilink") [1월 2일](../Page/1월_2일.md "wikilink") \~ )은 [내셔널 리그](../Page/내셔널_리그_\(야구\).md "wikilink") [로스앤젤레스 다저스의](../Page/로스앤젤레스_다저스.md "wikilink") [투수](../Page/투수.md "wikilink")이다.

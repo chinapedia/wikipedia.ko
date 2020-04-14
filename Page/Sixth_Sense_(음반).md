@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Sixth Sense \(\)](https://ko.wikipedia.org/wiki/Sixth_Sense_\(\)).
+> This article is converted from Wikipedia: [Sixth Sense \(음반\)](https://ko.wikipedia.org/wiki/Sixth_Sense_\(음반\)).
 
 
 《**Sixth Sense**》는 대한민국의 걸 그룹 [브라운 아이드 걸스의](../Page/브라운_아이드_걸스.md "wikilink") 네 번째 정규 음반이다. 2011년 9월 16일에 출시되었다.\[1\]

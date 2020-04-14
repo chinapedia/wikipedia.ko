@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [   \(WWE\)](https://ko.wikipedia.org/wiki/___\(WWE\)).
+> This article is converted from Wikipedia: [월드 헤비웨이트 챔피언십 \(WWE\)](https://ko.wikipedia.org/wiki/월드_헤비웨이트_챔피언십_\(WWE\)).
 
 
 **월드 헤비웨이트 챔피언십**(World Heavyweight Championship)은 [WWE](https://ko.wikipedia.org/wiki/WWE "wikilink")에서 월드 챔피언 중 하나였으며 [WWE 챔피언십과](https://ko.wikipedia.org/wiki/WWE_월드_헤비웨이트_챔피언십 "wikilink") 같은 급이 되었던 타이틀이다.

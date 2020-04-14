@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [    MVP](https://ko.wikipedia.org/wiki/____MVP).
+> This article is converted from Wikipedia: [일본 프로 야구 월간 MVP](https://ko.wikipedia.org/wiki/일본_프로_야구_월간_MVP).
 
 
 [일본 프로 야구에서](../Page/일본_프로_야구.md "wikilink") **월간 MVP**는 [일본 야구 기구가](../Page/일본_야구_기구.md "wikilink") 선수에게 주어지는 상의 하나이며 정규 시즌 중인 4월부터 9월에 걸쳐 매월 마다 가장 우수한 선수를 선정한다. [다이주 생명보험이](https://ko.wikipedia.org/wiki/다이주_생명보험 "wikilink") 주관 스폰서로 있으며 정식 명칭은 ‘**다이주 생명 월간 MVP**’()이다.

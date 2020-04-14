@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ PEN E-P2](https://ko.wikipedia.org/wiki/_PEN_E-P2).
+> This article is converted from Wikipedia: [올림푸스 PEN E-P2](https://ko.wikipedia.org/wiki/올림푸스_PEN_E-P2).
 
 
 **PEN E-P2**()은 [2009년](../Page/2009년.md "wikilink") 12월 출시된 [올림푸스](../Page/올림푸스.md "wikilink")의 두번째 [미러리스 렌즈 교환식 카메라이다](../Page/미러리스_렌즈_교환식_카메라.md "wikilink"). [Pen E-P1의](../Page/올림푸스_PEN_E-P1.md "wikilink") 후속이며, 아트필터(디아도라, 크로스 프로세스) 추가, AF 트래킹 기능이 추가되었으며 세부 스펙은 변경되지 않았다.

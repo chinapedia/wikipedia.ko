@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:BananaxArgs](https://ko.wikipedia.org/wiki/:BananaxArgs).
+> This article is converted from Wikipedia: [모듈:BananaxArgs](https://ko.wikipedia.org/wiki/모듈:BananaxArgs).
 
 
 \-- Sample Module demonstrating how to access arguments. -- For more about the Frame object, see <http://www.mediawiki.org/wiki/Extension:Scribunto/Lua_reference_manual#Frame_object> -- Unit tests at Module:BananasArgs/tests

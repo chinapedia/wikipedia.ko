@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  SC](https://ko.wikipedia.org/wiki/__SC).
+> This article is converted from Wikipedia: [올랜도 시티 SC](https://ko.wikipedia.org/wiki/올랜도_시티_SC).
 
 
 **올랜도 시티 SC**()는 [미국](../Page/미국.md "wikilink") 프로축구 [메이저 리그 사커의](../Page/메이저_리그_사커.md "wikilink") 21번째 신생 구단이다. [플로리다주](../Page/플로리다주.md "wikilink") [올랜도](../Page/올랜도.md "wikilink")를 연고지로 하고 있다.
@@ -14,6 +14,8 @@
 ### 현재 소속 선수 명단
 
 ### 유명 선수
+
+나니
 
 ## 홈경기장
 

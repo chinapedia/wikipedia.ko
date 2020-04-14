@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [MB ](https://ko.wikipedia.org/wiki/MB_).
+> This article is converted from Wikipedia: [MB의 추억](https://ko.wikipedia.org/wiki/MB의_추억).
 
 
 **MB의 추억**(Remembrance of MB, 2012)은 대한민국의 [코미디](https://ko.wikipedia.org/wiki/코미디 "wikilink") 영화이다.

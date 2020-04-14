@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  X](https://ko.wikipedia.org/wiki/__X).
+> This article is converted from Wikipedia: [토요타 마크 X](https://ko.wikipedia.org/wiki/토요타_마크_X).
 
 
 **토요타 마크 X**(Toyota Mark X)는 [토요타가](../Page/토요타_자동차.md "wikilink") [2004년](../Page/2004년.md "wikilink")에 출시한 고급 중형 [세단](https://ko.wikipedia.org/wiki/세단 "wikilink")으로, [마크 II와](../Page/토요타_마크_II.md "wikilink") [베로사의](https://ko.wikipedia.org/wiki/토요타_베로사 "wikilink") 통합 후속 차종으로 선보였다. [일본](../Page/일본.md "wikilink") 내수 전용 차종이나, [중국에서는](../Page/중화인민공화국.md "wikilink") 레이즈라는 차명으로 판매되었다.

@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [  B](https://ko.wikipedia.org/wiki/__B).
+> This article is converted from Wikipedia: [로마 지하철 B선](https://ko.wikipedia.org/wiki/로마_지하철_B선).
 
 
-**로마 지하철 B선** ()은 [이탈리아](../Page/이탈리아.md "wikilink") [로마](../Page/로마.md "wikilink")에서 운행되는 [로마 지하철의](../Page/로마_지하철.md "wikilink") 노선 중 하나이다. 이름과는 달리 B선은 도시에서 가장 먼저 개통한 지하철 노선이다. 북동부에 있는 [레비비아 역과](../Page/레비비아_역.md "wikilink") [콘카 도로 역에서](../Page/콘카_도로_역.md "wikilink") 시작해서 남부에 있는 [EUR](https://ko.wikipedia.org/wiki/EUR "wikilink") 지구 내의 [라우렌티나 역에서](../Page/라우렌티나_역.md "wikilink") 끝나며 로마 시를 대각선으로 가로지르며 [테르미니 역에서](../Page/테르미니_역_\(로마_지하철\).md "wikilink") [A선과](../Page/로마_지하철_A선.md "wikilink") 교차한다. 현재 B선은 시종착역을 포함하여 총 25개의 역이 있으며, 노선색은 <span style="color:{{로마 철도 노선색|B선}};">●</span>[파란색이다](../Page/파랑.md "wikilink").
+**로마 지하철 B선**()은 [이탈리아](../Page/이탈리아.md "wikilink") [로마](../Page/로마.md "wikilink")에서 운행되는 [로마 지하철의](../Page/로마_지하철.md "wikilink") 노선 중 하나이다. 이름과는 달리 B선은 도시에서 가장 먼저 개통한 지하철 노선이다. 북동부에 있는 [레비비아 역과](../Page/레비비아_역.md "wikilink") [콘카 도로 역에서](../Page/콘카_도로_역.md "wikilink") 시작해서 남부에 있는 [EUR](https://ko.wikipedia.org/wiki/EUR "wikilink") 지구 내의 [라우렌티나 역에서](../Page/라우렌티나_역.md "wikilink") 끝나며 로마 시를 대각선으로 가로지르며 [테르미니 역에서](../Page/테르미니_역_\(로마_지하철\).md "wikilink") [A선과](../Page/로마_지하철_A선.md "wikilink") 교차한다. 현재 B선은 시종착역을 포함하여 총 25개의 역이 있으며, 노선색은 <span style="color:{{로마 철도 노선색|B선}};">●</span>[파란색이다](../Page/파랑.md "wikilink").
 
 ## 개요
 

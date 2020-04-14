@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [A](https://ko.wikipedia.org/wiki/A).
+> This article is converted from Wikipedia: [소녀A](https://ko.wikipedia.org/wiki/소녀A).
 
 
 〈**소녀A**〉()은 일본의 여가수 [나카모리 아키나](../Page/나카모리_아키나.md "wikilink")()의 두 번째 싱글로 1982년 7월 28일에 발매되었다. ([EP](../Page/익스텐디드_플레이.md "wikilink"): L-1616) 작사는 우리노 마사오()가, 작곡은 세리자와 히로아키()가, 편곡은 하기타 미츠오()가 담당하였고 불량청소년 노선을 개척한 그녀의 대표곡 중 하나이다.\[1\]

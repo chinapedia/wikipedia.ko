@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  A](https://ko.wikipedia.org/wiki/__A).
+> This article is converted from Wikipedia: [뉴욕 지하철 A선](https://ko.wikipedia.org/wiki/뉴욕_지하철_A선).
 
 
 **뉴욕 지하철 A선**은 [뉴욕 지하철의](../Page/뉴욕_지하철.md "wikilink") 운행 계통이다. 색상은 선명한 [파랑](../Page/파랑.md "wikilink")이다.
@@ -478,7 +478,7 @@ A선은 인우드(Inwood)와 파 락어웨이(Far Rockaway) 사이에서 32 마�
 <td><p><a href="https://ko.wikipedia.org/wiki/:en:14th_Street_(IND_Eighth_Avenue_Line)" title="wikilink">14th Street</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Wheelchair_symbol.svg" title="wikilink">13px</a></p></td>
 <td><p><br />
- (<a href="https://ko.wikipedia.org/wiki/BMT_캐나시_선" title="wikilink">BMT 캐나시 선</a>)</p></td>
+ (<a href="../Page/BMT_캐나시_선.md" title="wikilink">BMT 캐나시 선</a>)</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -678,7 +678,7 @@ A선은 인우드(Inwood)와 파 락어웨이(Far Rockaway) 사이에서 32 마�
 <td></td>
 <td><p><br />
  (<a href="https://ko.wikipedia.org/wiki/BMT_자메이카_선" title="wikilink">BMT 자메이카 선</a>)<br />
- (<a href="https://ko.wikipedia.org/wiki/BMT_캐나시_선" title="wikilink">BMT 캐나시 선</a>)</p></td>
+ (<a href="../Page/BMT_캐나시_선.md" title="wikilink">BMT 캐나시 선</a>)</p></td>
 <td></td>
 </tr>
 <tr class="even">

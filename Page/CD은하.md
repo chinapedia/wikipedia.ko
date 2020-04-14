@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [CD](https://ko.wikipedia.org/wiki/CD).
+> This article is converted from Wikipedia: [CD은하](https://ko.wikipedia.org/wiki/CD은하).
 
 
 **cD은하**()는 D형 [거대타원은하의](../Page/타원은하.md "wikilink") 하위유형으로, 거대한 [별](https://ko.wikipedia.org/wiki/항성 "wikilink") [헤일로를](https://ko.wikipedia.org/wiki/은하헤일로 "wikilink") 가지는 [은하](../Page/은하.md "wikilink")의 한 형태분류이다.\[1\] 이들은 몇몇 부유[은하단](../Page/은하단.md "wikilink")의 중심 근처에서 발견된다.\[2\] 초거대타원은하(*supergiant elliptical*)\[3\] 나 중심지배은하(*central dominant*)\[4\] 로 알려져 있기도 하다.

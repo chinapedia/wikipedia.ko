@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ SQL](https://ko.wikipedia.org/wiki/_SQL).
+> This article is converted from Wikipedia: [트랜잭트 SQL](https://ko.wikipedia.org/wiki/트랜잭트_SQL).
 
 
 **트랜잭트 SQL**()은 [마이크로소프트](../Page/마이크로소프트.md "wikilink")와 [사이베이스](https://ko.wikipedia.org/wiki/사이베이스 "wikilink")가 [SQL](../Page/SQL.md "wikilink")(구조 질의어)에 기능을 확장한 것이다. T-SQL은 SQL 표준 상에서 확장하여 문자열 처리, 날짜 처리, 계산 등을 위한 다양한 지원 함수, [DELETE](https://ko.wikipedia.org/wiki/DELETE "wikilink") 및 [UPDATE](https://ko.wikipedia.org/wiki/UPDATE "wikilink") 문에 대한 변경, [절차적 프로그래밍](../Page/절차적_프로그래밍.md "wikilink"), [지역 변수를](../Page/지역_변수.md "wikilink") 포함한다. 이러한 부가 기능들은 트랜잭트 SQL을 [튜링 완전으로](https://ko.wikipedia.org/wiki/튜링_완전 "wikilink") 만든다.

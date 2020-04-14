@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [WIND \(\)](https://ko.wikipedia.org/wiki/WIND_\(\)).
+> This article is converted from Wikipedia: [WIND \(우주선\)](https://ko.wikipedia.org/wiki/WIND_\(우주선\)).
 
 
 **GGS WIND**는 [NASA](https://ko.wikipedia.org/wiki/NASA "wikilink")의 과학 [인공위성](../Page/인공위성.md "wikilink")으로, GGS는 세계 지구-우주 과학(Global Geospace Science)의 약자이다. WIND 탐사선은 [1994년](../Page/1994년.md "wikilink") [11월 1일](../Page/11월_1일.md "wikilink") 8시 31분([UTC](https://ko.wikipedia.org/wiki/UTC "wikilink"))에 [케이프커내버럴 공군 기지에서](https://ko.wikipedia.org/wiki/케이프커내버럴_공군_기지 "wikilink") [델타 II](../Page/델타_II.md "wikilink") 7925-10 발사체에 실려 발사되었다. 탐사선은 [GGS Polar와](https://ko.wikipedia.org/wiki/GGS_Polar "wikilink") 자매선이며, [회전 안정화](https://ko.wikipedia.org/wiki/회전_안정화 "wikilink") 방식을 사용하는 지름 2.4 m의 [원기둥](https://ko.wikipedia.org/wiki/원기둥 "wikilink") 모앙이다.\[1\]

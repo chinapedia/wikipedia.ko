@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Bittersweet \( \)](https://ko.wikipedia.org/wiki/Bittersweet_\(_\)).
+> This article is converted from Wikipedia: [Bittersweet \(아라시의 노래\)](https://ko.wikipedia.org/wiki/Bittersweet_\(아라시의_노래\)).
 
 
 〈**Bittersweet**〉(비터스위트)는 [아라시](../Page/아라시.md "wikilink")의 42번째 [싱글이다](../Page/싱글_\(음악\).md "wikilink").

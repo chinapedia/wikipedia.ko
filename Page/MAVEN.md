@@ -9,7 +9,7 @@ MAVEN은 [애틀러스 V](../Page/애틀러스_V.md "wikilink") 로켓에 탑재
 
 ## 임무
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:MAVEN_Launch2-full.jpg "wikilink") 로켓의 발사 장면 (2013년 11월 18일)\]\] MAVEN은 [피닉스 (우주선)](https://ko.wikipedia.org/wiki/피닉스 "wikilink") 외 많은 탐사선들과 더불어 2010년에 중단된 [NASA](https://ko.wikipedia.org/wiki/NASA "wikilink")의 마스 스카웃 프로그램의 일환이였다.\[10\] 마스 스카웃 프로그램은 약 1억 8천 7백만 달러의 발사 비용을 제외한 총 비용을 4억 8천 5백만 비용 이내로 제한하는 것이 목표로\[11\] 발사 비용을 포함한 총 임무 비용은 약 6억 7천 1백만 달러였다.\[12\]\[13\]\[14\]
+[섬네일](https://ko.wikipedia.org/wiki/파일:MAVEN_Launch2-full.jpg "wikilink") 로켓의 발사 장면 (2013년 11월 18일)\]\] MAVEN은 [피닉스 (우주선)](../Page/피닉스.md "wikilink") 외 많은 탐사선들과 더불어 2010년에 중단된 [NASA](https://ko.wikipedia.org/wiki/NASA "wikilink")의 마스 스카웃 프로그램의 일환이였다.\[10\] 마스 스카웃 프로그램은 약 1억 8천 7백만 달러의 발사 비용을 제외한 총 비용을 4억 8천 5백만 비용 이내로 제한하는 것이 목표로\[11\] 발사 비용을 포함한 총 임무 비용은 약 6억 7천 1백만 달러였다.\[12\]\[13\]\[14\]
 
 2008년 9월 15일에 [NASA](https://ko.wikipedia.org/wiki/NASA "wikilink")는 8가지 후보 중에서 마지막 2013 마스 스카웃 프로젝트로 MAVEN이 선정됐다고 발표했다.\[15\]\[16\] 이름의 의미는 "전문가" 란 뜻의 영단어 '[메이븐](https://ko.wikipedia.org/wiki/메이븐 "wikilink")'에서 따왔다.\[17\]\[18\]
 

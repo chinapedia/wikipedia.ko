@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [   \(KBO\)](https://ko.wikipedia.org/wiki/___\(KBO\)).
+> This article is converted from Wikipedia: [플레이어스 초이스 어워드 \(KBO\)](https://ko.wikipedia.org/wiki/플레이어스_초이스_어워드_\(KBO\)).
 
 
 **플레이어스 초이스 어워드**(Players Choice Award)는 [한국프로야구선수협회](../Page/한국프로야구선수협회.md "wikilink")에서 주관하는 시상식으로 [한국 야구 위원회](https://ko.wikipedia.org/wiki/한국_야구_위원회 "wikilink") 소속의 500여 명의 프로야구 선수들이 직접 그 해의 우수 선수, 신인 선수 등을 선정하는 시상식이다.

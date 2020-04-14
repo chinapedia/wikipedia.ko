@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  GO  ](https://ko.wikipedia.org/wiki/__GO__).
+> This article is converted from Wikipedia: [이나즈마 일레븐 GO의 에피소드 목록](https://ko.wikipedia.org/wiki/이나즈마_일레븐_GO의_에피소드_목록).
 
 
 다음은 **[애니메이션](../Page/일본의_애니메이션.md "wikilink") [이나즈마 일레븐 GO](../Page/썬더일레븐_GO.md "wikilink")**의 방영 목록이다. 각 에피소드의 방영된 제목은 일어 표기 제목(번역 자막 제목) / 한글 방영 제목 순으로 표기되었으며 나열식 비도표 문서로 이루어져 있다.

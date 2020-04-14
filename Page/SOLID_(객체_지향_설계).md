@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SOLID \(  \)](https://ko.wikipedia.org/wiki/SOLID_\(__\)).
+> This article is converted from Wikipedia: [SOLID \(객체 지향 설계\)](https://ko.wikipedia.org/wiki/SOLID_\(객체_지향_설계\)).
 
 
 [컴퓨터 프로그래밍에서](../Page/컴퓨터_프로그래밍.md "wikilink") **SOLID**란 [로버트 마틴](https://ko.wikipedia.org/wiki/로버트_마틴 "wikilink")\[1\]\[2\]이 2000년대 초반\[3\]에 명명한 [객체 지향 프로그래밍](../Page/객체_지향_프로그래밍.md "wikilink") 및 [설계의](https://ko.wikipedia.org/wiki/객체_지향_설계 "wikilink") 다섯 가지 기본 원칙을 마이클 페더스가 [두문자어](../Page/두문자어.md "wikilink") [기억술](../Page/기억술.md "wikilink")로 소개한 것이다. 프로그래머가 시간이 지나도 [유지 보수와](https://ko.wikipedia.org/wiki/소프트웨어_유지_보수 "wikilink") 확장이 쉬운 시스템을 만들고자 할 때 이 원칙들을 함께 적용할 수 있다.\[4\] SOLID 원칙들은 소프트웨어 작업에서 프로그래머가 [소스 코드가](../Page/소스_코드.md "wikilink") 읽기 쉽고 확장하기 쉽게 될 때까지 소프트웨어 소스 코드를 [리팩터링](../Page/리팩터링.md "wikilink")하여 [코드 냄새를](https://ko.wikipedia.org/wiki/코드_냄새 "wikilink") 제거하기 위해 적용할 수 있는 지침이다. 이 원칙들은 [애자일 소프트웨어 개발과](../Page/애자일_소프트웨어_개발.md "wikilink") [적응적 소프트웨어 개발의](https://ko.wikipedia.org/wiki/적응적_소프트웨어_개발 "wikilink") 전반적 전략의 일부다.\[5\]

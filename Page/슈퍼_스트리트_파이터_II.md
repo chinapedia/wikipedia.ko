@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [   II](https://ko.wikipedia.org/wiki/___II).
+> This article is converted from Wikipedia: [슈퍼 스트리트 파이터 II](https://ko.wikipedia.org/wiki/슈퍼_스트리트_파이터_II).
 
 
-《**슈퍼 스트리트 파이터 2**》는 [캡콤](../Page/캡콤.md "wikilink")이 1993년에 출시한 [아케이드](../Page/아케이드_게임.md "wikilink") [대전 격투 게임이다](https://ko.wikipedia.org/wiki/대전_격투_게임 "wikilink"). [스트리트 파이터 II: 더 월드 워리어의](../Page/스트리트_파이터_II:_더_월드_워리어.md "wikilink") 3번째 개선판이다.
+《**슈퍼 스트리트 파이터 2**》(Super Street Fighter II)는 [캡콤](../Page/캡콤.md "wikilink")이 1993년에 출시한 [아케이드](../Page/아케이드_게임.md "wikilink") [대전 격투 게임이다](https://ko.wikipedia.org/wiki/대전_격투_게임 "wikilink"). [스트리트 파이터 II: 더 월드 워리어의](../Page/스트리트_파이터_II:_더_월드_워리어.md "wikilink") 3번째 개선판이다.
 
 ## 게임플레이
 

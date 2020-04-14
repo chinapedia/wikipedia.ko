@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [PC ](https://ko.wikipedia.org/wiki/PC_).
+> This article is converted from Wikipedia: [PC 원시인](https://ko.wikipedia.org/wiki/PC_원시인).
 
 
 《**PC 원시인**》(ピーシーげんじん, Bonk's Adventure)은 1989 년 12 월 15 일에 [허드슨](https://ko.wikipedia.org/wiki/허드슨 "wikilink")에서 발매 된 [PC 엔진용](https://ko.wikipedia.org/wiki/PC_엔진 "wikilink") [액션 게임이다](https://ko.wikipedia.org/wiki/액션_게임 "wikilink"). 레드 컴퍼니 (현재 레드 엔터테인먼트)와 [아틀라스](https://ko.wikipedia.org/wiki/아틀라스 "wikilink")도 제작에 참여했다. PC 엔진의 게임에서 가장 큰 히트를 기록하여\[1\] 나중에 시리즈화되었다. 원래는 쇼가쿠칸의 월간 PC 엔진에 연재되고 있던 4 컷 만화를 게임화 한 것이다.

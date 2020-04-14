@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ADT ](https://ko.wikipedia.org/wiki/ADT_).
+> This article is converted from Wikipedia: [ADT 캡스플레이](https://ko.wikipedia.org/wiki/ADT_캡스플레이).
 
 
 **ADT캡스플레이**(ADT CAPS Play)는 ADT캡스에서 프로야구 선수들의 수비율을 바탕으로 독자적으로 개발한 선수 평가체계이다. 2013년에는 SBS ESPN과 함께 프로야구 호수비 응원 캠페인을 진행했으며, 2014 프로야구 시즌에는 한국야구위원회(KBO)의 공식 후원사로 활동한다. [2013년 한국프로야구부터](https://ko.wikipedia.org/wiki/2013년_한국프로야구 "wikilink") ADT캡스플레이 캠페인이 진행되었으며, 연말에는 이를 바탕으로 ADT캡스플레이 시상식을 개최하였다. 2013시즌 ADT캡스플레이어 시상식은 [2013년](../Page/2013년.md "wikilink") [11월 29일에](../Page/11월_29일.md "wikilink") 거행되었다. 2014년과 2015년에는 [KBO 골든글러브의](https://ko.wikipedia.org/wiki/KBO_골든글러브 "wikilink") 특별시상식 부분으로 편입되어 진행되었으며, 2016년부터는 KBO가 아닌 [다음](../Page/다음.md "wikilink") 스포츠와 공동 주간으로 진행되고 있다.

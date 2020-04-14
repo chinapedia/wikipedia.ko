@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  SHL23](https://ko.wikipedia.org/wiki/__SHL23).
+> This article is converted from Wikipedia: [샤프 아쿠오스 SHL23](https://ko.wikipedia.org/wiki/샤프_아쿠오스_SHL23).
 
 
 ### 개요

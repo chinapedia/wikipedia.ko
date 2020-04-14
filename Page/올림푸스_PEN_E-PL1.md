@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ PEN E-PL1](https://ko.wikipedia.org/wiki/_PEN_E-PL1).
+> This article is converted from Wikipedia: [올림푸스 PEN E-PL1](https://ko.wikipedia.org/wiki/올림푸스_PEN_E-PL1).
 
 
 **PEN E-PL1**()은 [2010년](../Page/2010년.md "wikilink") 3월 출시된 [올림푸스](../Page/올림푸스.md "wikilink")의 [미러리스 렌즈 교환식 카메라이다](../Page/미러리스_렌즈_교환식_카메라.md "wikilink"). [Pen E-P1의](../Page/올림푸스_PEN_E-P1.md "wikilink") 라이트 버전이며, 일부 재질의 플라스틱 변경, 액정 모니터의 크기 축소, 플래시 내장 및 동영상 녹화 버튼 추가, 손떨림 보정의 1스톱 감소 등의 차이점이 있다.

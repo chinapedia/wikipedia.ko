@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Gift \( \)](https://ko.wikipedia.org/wiki/Gift_\(_\)).
+> This article is converted from Wikipedia: [Gift \(박정현의 음반\)](https://ko.wikipedia.org/wiki/Gift_\(박정현의_음반\)).
 
 
 《***Gift***》는 [박정현](../Page/박정현.md "wikilink")의 두 번째 스페셜 음반이다. 또한 3개의 CD와 1개의 DVD 그리고 포토북으로 구성된 [박스 세트이다](https://ko.wikipedia.org/wiki/박스_세트 "wikilink"). 2012년 12월 11일 [티 엔터테인먼트에서](../Page/티_엔터테인먼트.md "wikilink") 발매하였다.
