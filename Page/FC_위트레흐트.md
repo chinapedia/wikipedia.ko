@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FC ](https://ko.wikipedia.org/wiki/FC_).
+> This article is converted from Wikipedia: [FC 위트레흐트](https://ko.wikipedia.org/wiki/FC_위트레흐트).
 
 
 **FC 위트레흐트**()는 [네덜란드](../Page/네덜란드.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽으로 [1970년](../Page/1970년.md "wikilink") [7월 1일에](../Page/7월_1일.md "wikilink") [위트레흐트](https://ko.wikipedia.org/wiki/위트레흐트 "wikilink")를 연고로 세 클럽의 통합으로 창단되었다. 창단에 참가한 세 클럽은 DOS, Elinkwijk, Velox 이다. 위트레흐트는 1980년대에 [UEFA컵](https://ko.wikipedia.org/wiki/UEFA컵 "wikilink")에 모습을 자주 보였으나 1991-92시즌을 끝으로 한동안 유럽무대에서 사라졌다가 10년 만인 2001-02시즌의 UEFA컵에 모습을 드러내었다.

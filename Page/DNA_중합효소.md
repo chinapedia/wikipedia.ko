@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [DNA ](https://ko.wikipedia.org/wiki/DNA_).
+> This article is converted from Wikipedia: [DNA 중합효소](https://ko.wikipedia.org/wiki/DNA_중합효소).
 
 
 **DNA 중합효소**는 [DNA 복제를](../Page/DNA_복제.md "wikilink") 돕는 효소이다. 이런 효소들은 주형으로 읽히는 DNA 가닥을 따라서 디옥시리보뉴클레오타이드의 합성을 촉매한다. 새로 합성된 분자는 주형에 상보적이며 주형의 짝이 되는 가닥과 동일하다.

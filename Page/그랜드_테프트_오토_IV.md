@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [   IV](https://ko.wikipedia.org/wiki/___IV).
+> This article is converted from Wikipedia: [그랜드 테프트 오토 IV](https://ko.wikipedia.org/wiki/그랜드_테프트_오토_IV).
 
 
 《**그랜드 테프트 오토 IV**》(, GTA IV, GTA 4)는 [미국](../Page/미국.md "wikilink")의 [록스타 노스가](../Page/록스타_노스.md "wikilink") 개발하고 [록스타 게임스가](../Page/록스타_게임스.md "wikilink") 발행하는 [GTA](../Page/그랜드_테프트_오토.md "wikilink") 시리즈 중 11번째 작품이다. [2008년](../Page/2008년.md "wikilink") [4월 29일에](../Page/4월_29일.md "wikilink") [플레이스테이션 3](../Page/플레이스테이션_3.md "wikilink"), [엑스박스 360용이](../Page/엑스박스_360.md "wikilink") 발매되었다. PC판은 북미 시각으로 [2008년](../Page/2008년.md "wikilink") [11월 18일에](../Page/11월_18일.md "wikilink") 발매가 예정되어 있었으나, 연기되어 12월 2일로 바뀌었다.\[1\] [대한민국](../Page/대한민국.md "wikilink")에서는 위즈핸즈가 [2008년](../Page/2008년.md "wikilink") [9월 23일에](../Page/9월_23일.md "wikilink") 정식으로 [플레이스테이션 3판을](../Page/플레이스테이션_3.md "wikilink") 배급하기 시작했다.\[2\]

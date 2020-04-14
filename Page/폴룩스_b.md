@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ b](https://ko.wikipedia.org/wiki/_b).
+> This article is converted from Wikipedia: [폴룩스 b](https://ko.wikipedia.org/wiki/폴룩스_b).
 
 
 **폴룩스 b** 또는 **쌍둥이자리 베타 b**, **HD 62509 b** 또는 애칭으로 **테스티아스**는 지구에서 [쌍둥이자리](../Page/쌍둥이자리.md "wikilink") 방향으로 약 34광년 떨어진 [폴룩스](../Page/폴룩스.md "wikilink") 주위를 돌고 있는 [외계 행성이다](../Page/외계_행성.md "wikilink"). 2006년 발견되었으며 질량으로 미루어 보아 태양계의 [목성형 행성과](../Page/목성형_행성.md "wikilink") 비슷한 가스 행성일 것으로 추측된다. 1.61년 주기로 어머니 항성을 공전하고 있으며 항성으로부터의 거리는 1.64 [천문단위](../Page/천문단위.md "wikilink")로, 궤도는 거의 원에 가깝다. 1993년에 이 행성의 존재가 예측되었으나, 2006년 6월 16일이 되어서야 공식적으로 존재를 인정받았다.

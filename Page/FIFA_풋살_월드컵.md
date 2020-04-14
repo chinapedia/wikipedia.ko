@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FIFA  ](https://ko.wikipedia.org/wiki/FIFA__).
+> This article is converted from Wikipedia: [FIFA 풋살 월드컵](https://ko.wikipedia.org/wiki/FIFA_풋살_월드컵).
 
 
 **FIFA 풋살 월드컵**(FIFA Futsal World Cup / FIFA Futsal World Championship)은 국제 기구인 [FIFA](https://ko.wikipedia.org/wiki/FIFA "wikilink")에 가맹된 남자 [풋살](../Page/풋살.md "wikilink") 국가대표팀끼리 승부를 겨루는 국제 풋살 대회이다. [2004년](../Page/2004년.md "wikilink")까지는 FIFA 풋살 세계 선수권 대회로 불리었다.

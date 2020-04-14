@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [MOTHER \(LUNA SEA \)](https://ko.wikipedia.org/wiki/MOTHER_\(LUNA_SEA_\)).
+> This article is converted from Wikipedia: [MOTHER \(LUNA SEA의 음반\)](https://ko.wikipedia.org/wiki/MOTHER_\(LUNA_SEA의_음반\)).
 
 
 《**MOTHER**》는 [LUNA SEA의](../Page/LUNA_SEA.md "wikilink") 4번째 정규 앨범이다. 초회 한정반에는 투명 픽쳐 라벨이 포함되어 있다.

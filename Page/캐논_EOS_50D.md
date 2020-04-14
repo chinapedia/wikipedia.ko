@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ EOS 50D](https://ko.wikipedia.org/wiki/_EOS_50D).
+> This article is converted from Wikipedia: [캐논 EOS 50D](https://ko.wikipedia.org/wiki/캐논_EOS_50D).
 
 
 **캐논 EOS 50D**()는 [캐논이](https://ko.wikipedia.org/wiki/캐논_\(기업\) "wikilink") [2008년](../Page/2008년.md "wikilink") [8월 26일](../Page/8월_26일.md "wikilink") 발표한 아마츄어용 [디지털 일안 반사식 카메라이다](../Page/디지털_일안_반사식_카메라.md "wikilink"). [캐논 EOS](../Page/캐논_EOS.md "wikilink") 제품군 중 하나이며 [캐논 EOS 40D의](../Page/캐논_EOS_40D.md "wikilink") 후속작이기도 하다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [-L-](https://ko.wikipedia.org/wiki/-L-).
+> This article is converted from Wikipedia: [아세틸-L-카르니틴](https://ko.wikipedia.org/wiki/아세틸-L-카르니틴).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:\(R\)-Acetylcarnitine_V.3.svg "wikilink") [IUPAC](https://ko.wikipedia.org/wiki/IUPAC "wikilink") 이름 : 3-acetyloxy-4-trimethylammonio-butanoate 아세틸-L-카르니틴,혹은**ALCAR**는 L-카르니틴의 아세틸화 된 분자이다. 건강보조제 판매사에서 일반 L-카르니틴 보다 [bioavailability](https://ko.wikipedia.org/wiki/bioavailability "wikilink") 가 좋다고 주장하며 홍보하고 있으나, 최소한 한 개 이상의 연구 자료가 아세틸-L-카르니틴 이 일반 L-카르니틴 보다 낮은 [bioavailability](https://ko.wikipedia.org/wiki/bioavailability "wikilink")를 가지고 있다고 밝혔다.\[1\]

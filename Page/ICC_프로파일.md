@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ICC ](https://ko.wikipedia.org/wiki/ICC_).
+> This article is converted from Wikipedia: [ICC 프로파일](https://ko.wikipedia.org/wiki/ICC_프로파일).
 
 
 [색 관리에서](../Page/색_관리.md "wikilink") **ICC 프로파일**(ICC profile)은 색 입력 장치나 색 출력 장치의 특성을 구현하는 데이터의 집합으로 [국제 컬러 협회](../Page/국제_컬러_협회.md "wikilink")(ICC)가 공표한 표준을 따른다. 프로파일들은 특정한 장치의 색 특성을 정의하거나 [색 공간](../Page/색_공간.md "wikilink"), PCS(프로파일 연결 공간)의 매핑 정의에 필요한 요구 사항을 보여 준다. 이 PCS는 [CIELAB](https://ko.wikipedia.org/wiki/랩_색_공간 "wikilink")(L\*a\*b\*) 또는 [CIEXYZ로](https://ko.wikipedia.org/wiki/CIE_1931_색공간 "wikilink") 되어 있다. 매핑은 [보간](https://ko.wikipedia.org/wiki/보간 "wikilink")이 적용된 테이블을 사용하거나 변환을 위한 일련의 변수를 통해 지정할 수 있다.

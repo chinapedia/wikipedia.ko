@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [LOT  ](https://ko.wikipedia.org/wiki/LOT__).
+> This article is converted from Wikipedia: [LOT 폴란드 항공](https://ko.wikipedia.org/wiki/LOT_폴란드_항공).
 
 
 **LOT 폴란드 항공**()은 [폴란드](../Page/폴란드.md "wikilink")의 [국영 항공사이자](https://ko.wikipedia.org/wiki/국영_항공사 "wikilink"), [국책항공사](https://ko.wikipedia.org/wiki/국책항공사 "wikilink")이며, [스타얼라이언스](../Page/스타얼라이언스.md "wikilink") 가맹사다. [허브 공항은](../Page/허브_공항.md "wikilink") [바르샤바 쇼팽 국제공항이](../Page/바르샤바_쇼팽_국제공항.md "wikilink") 있다.
@@ -282,6 +282,12 @@
 
 **LOT 폴란드 항공의 퇴역 기종**
 
+## 사건 및 사고
+
+  - [2011년](../Page/2011년.md "wikilink") [11월 1일](../Page/11월_1일.md "wikilink"), [뉴어크 리버티 국제공항에서](https://ko.wikipedia.org/wiki/뉴어크_리버티_국제공항 "wikilink") [쇼팽 국제공항으로](../Page/바르샤바_쇼팽_국제공항.md "wikilink") 오던 LOT 항공기가 바퀴가 내려오지 않아 동체착륙을 시도하였으나, 부상자은 없었다.\[8\]
+  - [2018년](../Page/2018년.md "wikilink") [1월 10일](../Page/1월_10일.md "wikilink"), LOT 항공의 자회사인 [유로 LOT의](https://ko.wikipedia.org/wiki/유로_LOT "wikilink") 항공기의 앞바퀴가 내려오지 않아 동체착륙을 하였지만, 부상자는 없었다.\[9\]
+  - [2020년](../Page/2020년.md "wikilink") [3월 13일](../Page/3월_13일.md "wikilink"), [인천국제공항](https://ko.wikipedia.org/wiki/인천국제공항 "wikilink")에서 [쇼팽 국제공항으로](../Page/바르샤바_쇼팽_국제공항.md "wikilink") 가던 LOT 항공기에 [코로나 19](https://ko.wikipedia.org/wiki/코로나_19 "wikilink") 확진자가 탑승해 승객들을 태우지 않고 이륙하였고, 대신에 대체 항공기를 띄웠다.\[10\]
+
 ## 각주
 
 <references/>
@@ -303,3 +309,6 @@
 5.
 6.
 7.
+8.
+9.
+10.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:SBS TV ](https://ko.wikipedia.org/wiki/:SBS_TV_).
+> This article is converted from Wikipedia: [틀:SBS TV의 드라마](https://ko.wikipedia.org/wiki/틀:SBS_TV의_드라마).
 
 
 <onlyinclude></onlyinclude>

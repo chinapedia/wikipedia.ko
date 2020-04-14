@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FC  ](https://ko.wikipedia.org/wiki/FC__).
+> This article is converted from Wikipedia: [FC 이르티시 파블로다르](https://ko.wikipedia.org/wiki/FC_이르티시_파블로다르).
 
 
 **FC 이르티시**는 [카자흐스탄](../Page/카자흐스탄.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽으로, [파블로다르 주의](https://ko.wikipedia.org/wiki/파블로다르_주 "wikilink") 주도인 [파블로다르](../Page/파블로다르.md "wikilink")를 연고로 하여, [1965년](../Page/1965년.md "wikilink")에 창단되었다. 현재 [카자흐스탄 프리미어리그에서](../Page/카자흐스탄_프리미어리그.md "wikilink") 활동하고 있다. 이르티시는 카자흐스탄이 독립한 이후로 만들어진 카자흐스탄 프리미어리그에서 한번도 강등된 적이 없으며, 리그 우승을 5회 기록하였다. 또한 [AFC 챔피언스리그에도](../Page/AFC_챔피언스리그.md "wikilink") 여러 번 참가하여 2001년에는 준결승까지 올랐었다. 2003년에는 [UEFA 챔피언스리그](../Page/UEFA_챔피언스리그.md "wikilink") 예선전에 참가했었다.
@@ -63,6 +63,6 @@
 
 ## 외부 링크
 
-  - [공식 웹사이트](http://www.fcirtysh.kz/)
+  - [공식 웹사이트](https://web.archive.org/web/20110722142308/http://www.fcirtysh.kz/)
 
 [FC_이르티시_파블로다르](https://ko.wikipedia.org/wiki/분류:FC_이르티시_파블로다르 "wikilink") [분류:1965년 설립된 축구단](https://ko.wikipedia.org/wiki/분류:1965년_설립된_축구단 "wikilink") [분류:카자흐스탄의 축구단](https://ko.wikipedia.org/wiki/분류:카자흐스탄의_축구단 "wikilink")

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:HR](https://ko.wikipedia.org/wiki/:HR).
+> This article is converted from Wikipedia: [틀:HR도표](https://ko.wikipedia.org/wiki/틀:HR도표).
 
 
 <onlyinclude>                </onlyinclude>

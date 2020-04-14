@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  FC](https://ko.wikipedia.org/wiki/__FC).
+> This article is converted from Wikipedia: [멜버른 빅토리 FC](https://ko.wikipedia.org/wiki/멜버른_빅토리_FC).
 
 
 **멜버른 빅토리 FC** (Melbourne Victory Football Club)은 [A리그](../Page/A리그.md "wikilink")에 소속된 [오스트레일리아](../Page/오스트레일리아.md "wikilink")의 프로축구단으로 [빅토리아주](../Page/빅토리아주.md "wikilink")의 [멜버른](../Page/멜버른.md "wikilink")을 연고로 [2004년](../Page/2004년.md "wikilink")에 창단되었다. 2008년 현재, 멜버른 빅토리는 2006-07시즌에 프리미어십과 챔피언십을 동시에 우승하면서 더블을 기록한 유일한 팀이다. 또한 [2008년](../Page/2008년.md "wikilink")의 프리시즌 챌린지컵을 우승하면서 세 가지 대회를 모두 우승한 유일한 팀이기도 하다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ H.  ](https://ko.wikipedia.org/wiki/_H.__).
+> This article is converted from Wikipedia: [휴버트 H. 험프리 메트로돔](https://ko.wikipedia.org/wiki/휴버트_H._험프리_메트로돔).
 
 
 **휴버트 H. 험프리 메트로돔**(Hubert H. Humphrey Metrodome)은 [1982년](../Page/1982년.md "wikilink")에 개장한 [미네소타 트윈스와](../Page/미네소타_트윈스.md "wikilink") 미식축구팀 미네소타 바이킹스의 홈구장이다. 1989년 [미네소타 팀버울브스가](../Page/미네소타_팀버울브스.md "wikilink") 창단했을 때 한 시즌 동안 사용하기도 하였다. 세계 최초로 공기 부양식 지붕을 사용한 돔이며, 1988년 개장한 [도쿄 돔의](../Page/도쿄_돔.md "wikilink") 모델이 되기도 하였다. 수용인원은 미식축구가 64,111명, 야구가 50,000명이다. 개장 초기에는 홈런이 자주 나왔으나 [1984년](../Page/1984년.md "wikilink") 공기 조절기를 설치하면서 홈런 개수가 줄어들기 시작했다. 메이저 리그에서 가장 생생한 인조잔디를 볼 수 있는데, [2004년](../Page/2004년.md "wikilink") 필드 터프로 개조되면서다. 오른쪽 펜스는 미식축구 경기를 위한 접었다 펼 수 있는 관중석이 있는데, 마치 청바지와 배색이 똑같다.

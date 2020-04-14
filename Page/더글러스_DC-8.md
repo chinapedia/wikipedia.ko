@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ DC-8](https://ko.wikipedia.org/wiki/_DC-8).
+> This article is converted from Wikipedia: [더글러스 DC-8](https://ko.wikipedia.org/wiki/더글러스_DC-8).
 
 
 **더글러스 DC-8**은 [더글러스 에어크래프트에서](https://ko.wikipedia.org/wiki/더글러스_에어크래프트 "wikilink") 개발한 4발 [협동체](../Page/협폭동체_항공기.md "wikilink") 제트 여객기이며, [1958년](../Page/1958년.md "wikilink")부터 [1972년](../Page/1972년.md "wikilink")까지 생산되었다.

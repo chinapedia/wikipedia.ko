@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [DJ ](https://ko.wikipedia.org/wiki/DJ_).
+> This article is converted from Wikipedia: [DJ 렉스](https://ko.wikipedia.org/wiki/DJ_렉스).
 
 
 **DJ 렉스**(DJ Wreckx, , [1974년](../Page/1974년.md "wikilink") [10월 18일](../Page/10월_18일.md "wikilink") \~ )는 [대한민국](../Page/대한민국.md "wikilink")의 [힙합](../Page/힙합.md "wikilink") [DJ이다](../Page/디스크_자키.md "wikilink"). 힙합 DJ로는 대한민국에서 거의 최초로 활동을 시작하였으며, 현재는 수많은 [비보이](../Page/비보이.md "wikilink")들의 서포트를 해주거나, **MIML** 등의 아티스트 집단을 만들어 활동하곤 하였다. 현재 레이블은 자신이 만든 레이블 베이직 엔터테인먼트 (BASIC Entertainment)이다. 2009년 [락 밴드](https://ko.wikipedia.org/wiki/락_밴드 "wikilink") [노바소닉](../Page/노바소닉.md "wikilink")에 DJ로서 공식 합류했다. [Rivers Crew에서는](../Page/리버스_크루.md "wikilink") 현재 탈퇴한 상태이다.

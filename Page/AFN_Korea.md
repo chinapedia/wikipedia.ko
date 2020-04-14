@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [AFN Korea](https://ko.wikipedia.org/wiki/AFN_Korea).
 
 
-(, 옛 **AFKN** ( ))는 **AFN**의 일부로, [미군](../Page/미군.md "wikilink")의 AFRTS에 소속되어 있는 [주한 미군의](../Page/주한_미군.md "wikilink") [방송국](https://ko.wikipedia.org/wiki/방송국 "wikilink")이다.
+(, 옛 **AFKN**( ))는 **AFN**의 일부로, [미군](../Page/미군.md "wikilink")의 AFRTS에 소속되어 있는 [주한 미군의](../Page/주한_미군.md "wikilink") [방송국](https://ko.wikipedia.org/wiki/방송국 "wikilink")이다.
 
 ## 역사 및 영향력
 

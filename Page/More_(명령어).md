@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [More \(\)](https://ko.wikipedia.org/wiki/More_\(\)).
+> This article is converted from Wikipedia: [More \(명령어\)](https://ko.wikipedia.org/wiki/More_\(명령어\)).
 
 
 [명령 프롬프트에서](https://ko.wikipedia.org/wiki/명령_프롬프트 "wikilink") **`more`**는 [텍스트 파일의](../Page/텍스트_파일.md "wikilink") 내용을 한 번에 한 화면씩 보여주기 위한 [명령어이다](https://ko.wikipedia.org/wiki/명령어\(전산\) "wikilink").([터미널 페이저](https://ko.wikipedia.org/wiki/터미널_페이저 "wikilink")). 이 명령어는 [유닉스](../Page/유닉스.md "wikilink")와 [유닉스 계통](https://ko.wikipedia.org/wiki/유닉스_계통 "wikilink") 시스템, [도스](../Page/도스.md "wikilink"), [OS/2](https://ko.wikipedia.org/wiki/OS/2 "wikilink"), 그리고 [윈도에서](https://ko.wikipedia.org/wiki/마이크로소프트_윈도 "wikilink") 사용된다. 이러한 종류의 프로그램은 [페이저](https://ko.wikipedia.org/wiki/터미널_페이저 "wikilink")\[1\]라고 불린다. `more`는 매우 기본적인 페이저로서, 원래는 파일의 앞방향으로 밖에 움직일 수 없지만, 새로운 구현체는 뒷방향으로 움직이는 기능을 제한적으로 제공하고 있다.

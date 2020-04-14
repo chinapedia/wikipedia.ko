@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [F\&B](https://ko.wikipedia.org/wiki/F\&B).
+> This article is converted from Wikipedia: [동원F\&B](https://ko.wikipedia.org/wiki/동원F\&B).
 
 
 **주식회사 동원F\&B**는 대한민국의 종합식품 회사이다. 주력 상품은 동원참치, 양반김 등이 있다.

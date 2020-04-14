@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [CS ](https://ko.wikipedia.org/wiki/CS_).
+> This article is converted from Wikipedia: [CS 마리티무](https://ko.wikipedia.org/wiki/CS_마리티무).
 
 
 **CS 마리티무** (Club Sport Marítimo)는 [포르투갈](../Page/포르투갈.md "wikilink")의 [스포츠](../Page/스포츠.md "wikilink") 클럽으로 [축구팀](https://ko.wikipedia.org/wiki/축구팀 "wikilink")이 가장 잘 알려져 있다. [축구](../Page/축구.md "wikilink") 외에도 [핸드볼](../Page/핸드볼.md "wikilink"), [배구](../Page/배구.md "wikilink")팀도 보유하고 있다. 홈구장은 [마데이라 제도의](../Page/마데이라_제도.md "wikilink") 주도인 [푼샬](../Page/푼샬.md "wikilink")에 있는 [이스타디우 두스 바헤이루스](https://ko.wikipedia.org/wiki/이스타디우_두스_바헤이루스 "wikilink")()이다. 이 클럽은 마데이라에서 가장 큰 클럽으로 라이벌팀으로는 [CD 나시오날이](../Page/CD_나시오날.md "wikilink") 있다.

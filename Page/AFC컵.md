@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [AFC](https://ko.wikipedia.org/wiki/AFC).
+> This article is converted from Wikipedia: [AFC컵](https://ko.wikipedia.org/wiki/AFC컵).
 
 
 **AFC컵**(AFC Cup)은 매년 개최되는 클럽 [축구](../Page/축구.md "wikilink") 대회로 [아시아 축구 연맹](../Page/아시아_축구_연맹.md "wikilink")(AFC)에 소속된 국가의 클럽들이 참가하는 대회이다. 이 대회에는 AFC에 가입한 국가들 가운데 [AFC 챔피언스리그](../Page/AFC_챔피언스리그.md "wikilink") 조별 리그 직행 출전권을 배정받지 못한 나머지 국가들의 클럽들이 참가한다. 유럽의 [UEFA 챔피언스리그와](../Page/UEFA_챔피언스리그.md "wikilink") [UEFA 유로파리그가](../Page/UEFA_유로파리그.md "wikilink") 서로 연결되어 있는 것과는 달리, [AFC 챔피언스리그에서](../Page/AFC_챔피언스리그.md "wikilink") 탈락한 팀들은 AFC컵에 참가하지 않는다. 단, [AFC 챔피언스리그](../Page/AFC_챔피언스리그.md "wikilink") 조별 리그 직행 출전권을 받지 않은 국가의 클럽이 [AFC 챔피언스리그](../Page/AFC_챔피언스리그.md "wikilink") 플레이오프에서 탈락할 경우 AFC컵에 참가하게 된다.

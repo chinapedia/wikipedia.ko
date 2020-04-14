@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ M. ](https://ko.wikipedia.org/wiki/_M._).
+> This article is converted from Wikipedia: [제임스 M. 케인](https://ko.wikipedia.org/wiki/제임스_M._케인).
 
 
 **제임스 맬러헌 케인**(, [1892년](../Page/1892년.md "wikilink") [7월 1일](../Page/7월_1일.md "wikilink") \~ [1977년](../Page/1977년.md "wikilink") [10월 27일](../Page/10월_27일.md "wikilink")) 은 미국의 [저널리스트](https://ko.wikipedia.org/wiki/저널리스트 "wikilink")이며 [소설가](https://ko.wikipedia.org/wiki/소설가 "wikilink")이다. 비록 본인은 그러한 분류를 싫어했지만, 대체로 미국 범죄소설의 [하드보일드](../Page/하드보일드.md "wikilink")파에 속하며, 로망 누아르의 창시자의 한 사람으로 간주되고 있다.

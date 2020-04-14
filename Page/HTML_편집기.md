@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [HTML ](https://ko.wikipedia.org/wiki/HTML_).
+> This article is converted from Wikipedia: [HTML 편집기](https://ko.wikipedia.org/wiki/HTML_편집기).
 
 
 **HTML 편집기**()는 인터넷 [웹페이지](https://ko.wikipedia.org/wiki/웹페이지 "wikilink")를 작성하기 위한 편집 도구이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Wii ](https://ko.wikipedia.org/wiki/Wii_).
+> This article is converted from Wikipedia: [Wii 피트](https://ko.wikipedia.org/wiki/Wii_피트).
 
 
 **Wii Fit**는 [닌텐도](../Page/닌텐도.md "wikilink")가 개발한 [Wii](../Page/Wii.md "wikilink")용 게임 소프트웨어이다. [일본](../Page/일본.md "wikilink")에서 [2007년](../Page/2007년.md "wikilink") [12월 1일](../Page/12월_1일.md "wikilink") 먼저 발매했으며, [대한민국](../Page/대한민국.md "wikilink")에서는 [2008년](../Page/2008년.md "wikilink") [12월 6일에](../Page/12월_6일.md "wikilink") 발매되었으며 [희망 소비자 가격은](https://ko.wikipedia.org/wiki/희망_소비자_가격 "wikilink") 98,000원이다.

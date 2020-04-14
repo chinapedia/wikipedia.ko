@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FC ](https://ko.wikipedia.org/wiki/FC_).
+> This article is converted from Wikipedia: [FC 라흐티](https://ko.wikipedia.org/wiki/FC_라흐티).
 
 
 **FC 라흐티**(FC Lahti)는 [라흐티](../Page/라흐티.md "wikilink")를 연고로 하는 [핀란드](../Page/핀란드.md "wikilink")의 축구 경기장이다. 이 클럽은 [1996년](../Page/1996년.md "wikilink")에 창단되었으며 현재는 [베이카우스리가](../Page/베이카우스리가.md "wikilink")에 참가하고 있다.

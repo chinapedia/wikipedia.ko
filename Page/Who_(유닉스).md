@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Who \(\)](https://ko.wikipedia.org/wiki/Who_\(\)).
+> This article is converted from Wikipedia: [Who \(유닉스\)](https://ko.wikipedia.org/wiki/Who_\(유닉스\)).
 
 
 표준 [유닉스](../Page/유닉스.md "wikilink") 명령어 **`who`**는 현재 컴퓨터에 로그인 한 사용자 목록을 보여준다.

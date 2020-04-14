@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [VALENTI \(\)](https://ko.wikipedia.org/wiki/VALENTI_\(\)).
+> This article is converted from Wikipedia: [VALENTI \(음반\)](https://ko.wikipedia.org/wiki/VALENTI_\(음반\)).
 
 
 《**VALENTI**》는 [보아](../Page/보아.md "wikilink")가 [일본](../Page/일본.md "wikilink")에서 발매한 2번째 정규 앨범이다. 첫 정규 앨범 《[LISTEN TO MY HEART](../Page/LISTEN_TO_MY_HEART_\(음반\).md "wikilink")》의 발매일과는 10개월 보름 정도의 짧은 텀을 가지고 발매되었다.

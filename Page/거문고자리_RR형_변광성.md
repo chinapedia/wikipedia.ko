@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ RR ](https://ko.wikipedia.org/wiki/_RR_).
+> This article is converted from Wikipedia: [거문고자리 RR형 변광성](https://ko.wikipedia.org/wiki/거문고자리_RR형_변광성).
 
 
 **거문고자리 RR형 변광성**은 [표준광원](https://ko.wikipedia.org/wiki/표준광원 "wikilink")으로 종종 사용되기도 하는, 변광성의 종류 중 하나이다.

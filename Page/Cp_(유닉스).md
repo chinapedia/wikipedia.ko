@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Cp \(\)](https://ko.wikipedia.org/wiki/Cp_\(\)).
+> This article is converted from Wikipedia: [Cp \(유닉스\)](https://ko.wikipedia.org/wiki/Cp_\(유닉스\)).
 
 
 `cp`는 [유닉스](../Page/유닉스.md "wikilink") [셸](../Page/셸.md "wikilink")에서 한 [파일을](../Page/컴퓨터_파일.md "wikilink") 어떤 장소에서 다른 장소로 또는 다른 파일 시스템으로 옮길 때 사용하는 명령어이다. 원본 파일은 그대로 남아있고 새로운 파일이 기존 파일과 같은 이름으로 혹은 다른 이름으로 새로 생기게 된다.

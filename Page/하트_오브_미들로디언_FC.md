@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [   FC](https://ko.wikipedia.org/wiki/___FC).
+> This article is converted from Wikipedia: [하트 오브 미들로디언 FC](https://ko.wikipedia.org/wiki/하트_오브_미들로디언_FC).
 
 
 **하트 오브 미들로디언 FC**(Heart of Midlothian FC)는 [스코틀랜드](../Page/스코틀랜드.md "wikilink") [에딘버러](https://ko.wikipedia.org/wiki/에딘버러 "wikilink")를 연고로 하는 축구 클럽으로, 대개 **하츠**(Hearts)라는 약칭으로 불린다. 이 팀은 [1874년](../Page/1874년.md "wikilink")에 설립되었으며 같은 지역을 연고로 하는 [하이버니언과](../Page/하이버니언_FC.md "wikilink") 라이벌 관계에 있다.

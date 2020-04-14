@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Ef - a fairy tale of the two.](https://ko.wikipedia.org/wiki/Ef_-_a_fairy_tale_of_the_two.).
 
 
-**ef - a fairy tale of the two.** ()는 [minori](https://ko.wikipedia.org/wiki/minori "wikilink")의 최신작이 되는 [미소녀 게임](../Page/미소녀_게임.md "wikilink"), 또는 이를 원작으로 한 관련상품을 통칭한다. 『fairy tale of the two』라는 문장은「두 사람의 동화」란 의미. 테마는「minori's 4th challenge about "Will"」. 전편의『the first tale.』이 2006년 12월 22일에, 후편의『the latter tale.』이 2008년 5월 30일에 각각 발매되었으며, 2010년 4월 29일에는 『the first tale.』과 『the latter tale.』이 모두 수록된 플레이스테이션 2 이식판이 발매되었다.
+**ef - a fairy tale of the two.**()는 [minori](https://ko.wikipedia.org/wiki/minori "wikilink")의 최신작이 되는 [미소녀 게임](../Page/미소녀_게임.md "wikilink"), 또는 이를 원작으로 한 관련상품을 통칭한다. 『fairy tale of the two』라는 문장은「두 사람의 동화」란 의미. 테마는「minori's 4th challenge about "Will"」. 전편의『the first tale.』이 2006년 12월 22일에, 후편의『the latter tale.』이 2008년 5월 30일에 각각 발매되었으며, 2010년 4월 29일에는 『the first tale.』과 『the latter tale.』이 모두 수록된 플레이스테이션 2 이식판이 발매되었다.
 
 ## 개요
 

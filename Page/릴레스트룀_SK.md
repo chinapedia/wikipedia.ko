@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ SK](https://ko.wikipedia.org/wiki/_SK).
+> This article is converted from Wikipedia: [릴레스트룀 SK](https://ko.wikipedia.org/wiki/릴레스트룀_SK).
 
 
 **릴레스트룀 SK** (Lillestrøm Sportsklubb)은 [노르웨이](../Page/노르웨이.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽으로 노르웨이 남부의 [릴레스트룀](https://ko.wikipedia.org/wiki/릴레스트룀 "wikilink")을 연고로 삼고 있다. 릴레스트룀은 [1917년](../Page/1917년.md "wikilink")에 지역 클럽 두 팀이 합병하여 창단되었다. 홈구장은 [오로센 스타디온이고](https://ko.wikipedia.org/wiki/오로센_스타디온 "wikilink"), 연습구장은 [릴레스트룀 스타디온이다](https://ko.wikipedia.org/wiki/릴레스트룀_스타디온 "wikilink").\[1\] 오로센 스타디온은 11,637명을 수용할 수 있으며, 평균 관중은 약 10,000명 안팎이다. 릴레스트룀은 노르웨이의 [축구팀](https://ko.wikipedia.org/wiki/축구팀 "wikilink") 가운데 1부리그에서 가장 오랫동안 연속으로 잔류했던 기록을 가지고 있다. 지난 수십 년간 약 40명의 [노르웨이 축구 국가대표팀](../Page/노르웨이_축구_국가대표팀.md "wikilink") 선수들을 배출하였다. 또한 스웨덴, 아이슬란드, 세네갈, 핀란드, 몰타, 오스트레일리아, 남아프리카공화국, 슬로베니아, 튀니지, 캐나다, 나이지리아 국가대표팀 선수들을 배출하였다.

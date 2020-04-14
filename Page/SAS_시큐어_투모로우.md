@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SAS  ](https://ko.wikipedia.org/wiki/SAS__).
+> This article is converted from Wikipedia: [SAS 시큐어 투모로우](https://ko.wikipedia.org/wiki/SAS_시큐어_투모로우).
 
 
 **SAS 시큐어 투모로우**()는 [시티 인터랙티브사가](https://ko.wikipedia.org/wiki/시티_인터랙티브 "wikilink") 개발한 [1인칭 슈팅 게임이다](https://ko.wikipedia.org/wiki/1인칭_슈팅_게임 "wikilink").

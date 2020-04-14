@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KBS ](https://ko.wikipedia.org/wiki/KBS_).
+> This article is converted from Wikipedia: [KBS 네트워크](https://ko.wikipedia.org/wiki/KBS_네트워크).
 
 
 **KBS 네트워크**는 [KBS 2TV에서](../Page/KBS_2TV.md "wikilink") 방송하는 전국 9개 지역방송총국 프로그램이다.

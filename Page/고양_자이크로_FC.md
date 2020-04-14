@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  FC](https://ko.wikipedia.org/wiki/__FC).
+> This article is converted from Wikipedia: [고양 자이크로 FC](https://ko.wikipedia.org/wiki/고양_자이크로_FC).
 
 
 **고양 자이크로 FC**()는 [경기도](https://ko.wikipedia.org/wiki/경기도 "wikilink") [고양시](https://ko.wikipedia.org/wiki/고양시 "wikilink")를 연고지로 하는 [대한민국](../Page/대한민국.md "wikilink")의 [축구](../Page/축구.md "wikilink")단이다. 고양 자이크로 FC는 [2012년 9월](../Page/2012년_9월.md "wikilink"), 고양시와 연고협약을 통한 프로출범화를 약속하고 [2013년](../Page/2013년.md "wikilink")부터 [2016년](../Page/2016년.md "wikilink")까지 K리그 챌린지에 참가했다. 2016 시즌 종료 후 K리그 탈퇴를 선언하였고, 2017년 1월 16일 최종 승인되었다.

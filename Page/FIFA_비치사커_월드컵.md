@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FIFA  ](https://ko.wikipedia.org/wiki/FIFA__).
+> This article is converted from Wikipedia: [FIFA 비치사커 월드컵](https://ko.wikipedia.org/wiki/FIFA_비치사커_월드컵).
 
 
 **FIFA 비치사커 월드컵**(FIFA Beach Soccer World Cup)은 국제기구인 [FIFA](https://ko.wikipedia.org/wiki/FIFA "wikilink")에 가맹된 남자 [비치사커](https://ko.wikipedia.org/wiki/비치사커 "wikilink") 대표팀끼리 승부를 겨루는 국제 비치사커 대회이다. [2004년](../Page/2004년.md "wikilink")까지는 **세계 비치사커 선수권 대회**로 진행되어 오다 [2005년](../Page/2005년.md "wikilink")부터 현재의 명칭으로 변경되었다.

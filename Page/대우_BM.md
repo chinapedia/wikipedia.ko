@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ BM](https://ko.wikipedia.org/wiki/_BM).
+> This article is converted from Wikipedia: [대우 BM](https://ko.wikipedia.org/wiki/대우_BM).
 
 
 **대우 BM**은 [자일대우상용차](../Page/자일대우상용차.md "wikilink")의 중형 상용 버스 차종으로, 종류는 "BM090" 모델 한가지만 존재한다. [1996년](../Page/1996년.md "wikilink") [5월](../Page/5월.md "wikilink")에 출시되었으며, 페이스 리프트된 후속 모델인 [BS090이](../Page/자일대우_BS.md "wikilink") 등장한 이후에도 병행 생산되었으나 [2004년](../Page/2004년.md "wikilink") [8월](../Page/8월.md "wikilink")에 [BS090에](../Page/자일대우_BS.md "wikilink") 통합되는 형태이자 중복을 막기 위해서 단종되었다.

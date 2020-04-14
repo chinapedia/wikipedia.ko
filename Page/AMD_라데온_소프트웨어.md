@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [AMD  ](https://ko.wikipedia.org/wiki/AMD__).
+> This article is converted from Wikipedia: [AMD 라데온 소프트웨어](https://ko.wikipedia.org/wiki/AMD_라데온_소프트웨어).
 
 
 **AMD 라데온 소프트웨어**(AMD Radeon Software, 이전 이름: AMD 카탈리스트/AMD Catalyst)은 운영 체제에 맞춰 일부 AMD 제품에 설치할 수 있게 한 [유틸리티](https://ko.wikipedia.org/wiki/유틸리티_소프트웨어 "wikilink") 드라이버 패키지이다. 카탈리스트 소프트웨어는 라데온 8500 출시 이후로 등장하였다. AMD의 이 드라이버 개발 패러다임은 성능 향상, 버그 수정, 새로운 기능 추가를 비롯한 월별 드라이버 업데이트를 보증한다. 2007년 기준으로 카탈리스트 드라이버 패키지는 일반적으로 AMD 카탈리스트 컨트롤 센터, 하드웨어 기능 대다수를 이용할 수 있는 인터페이스(3차원 설정, 모니터 제어, 비디오 옵션 등)를 포함한다. 또, 조그마한 3차원 미리보기를 제공하여 사용자가 그래픽 설정을 바꾼 뒤에 보이는 영상의 품질이 어떻게 영향을 받는지 알 수 있게 한다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [OB ](https://ko.wikipedia.org/wiki/OB_).
+> This article is converted from Wikipedia: [OB 맥주](https://ko.wikipedia.org/wiki/OB_맥주).
 
 
 **오비맥주주식회사**(Oriental Brewery Co.,Ltd.)는 [대한민국](../Page/대한민국.md "wikilink") [서울특별시](../Page/서울특별시.md "wikilink") [강남구](https://ko.wikipedia.org/wiki/강남구 "wikilink")에 본사를 둔 기업이다. 과거 동양맥주주식회사로 [두산](../Page/두산.md "wikilink")의 계열사였으나 현재는 세계 최대 맥주회사 [AB인베브의](../Page/앤하이저부시_인베브.md "wikilink") 자회사이다. 프리미엄OB, 카스, 카스라이트, 카프리 등의 [맥주](../Page/맥주.md "wikilink")를 생산하고 있다. [경기도](https://ko.wikipedia.org/wiki/경기도 "wikilink") [이천시](../Page/이천시.md "wikilink"), [광주광역시](https://ko.wikipedia.org/wiki/광주광역시 "wikilink"), [충청북도](https://ko.wikipedia.org/wiki/충청북도 "wikilink") [청주시](../Page/청주시.md "wikilink") 등 총 3개 생산공장이 있는데 [1993년](../Page/1993년.md "wikilink") 전국체전 야구경기\[1\]와 [2007년](../Page/2007년.md "wikilink") 전국체전 고등부 야구경기\[2\]를 광주공장 야구장에서 개최한 바 있었다.

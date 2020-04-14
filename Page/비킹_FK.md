@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ FK](https://ko.wikipedia.org/wiki/_FK).
+> This article is converted from Wikipedia: [비킹 FK](https://ko.wikipedia.org/wiki/비킹_FK).
 
 
 **비킹 FK**()는 [노르웨이](../Page/노르웨이.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽으로 [스타방에르](../Page/스타방에르.md "wikilink")를 연고지로 하여 [1899년](../Page/1899년.md "wikilink")에 설립되었다. 비킹은 노르웨이에서 성공적인 클럽 가운데 하나로 [노르웨이 프리미어리그](https://ko.wikipedia.org/wiki/노르웨이_프리미어리그 "wikilink") 8회 우승에 [노르웨이 컵](https://ko.wikipedia.org/wiki/노르웨이_컵 "wikilink") 5회 우승 기록을 가지고 있다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ TNT](https://ko.wikipedia.org/wiki/_TNT).
+> This article is converted from Wikipedia: [리바 TNT](https://ko.wikipedia.org/wiki/리바_TNT).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Graphicsblastertnt.jpg "wikilink") 그래픽스 블라스터 리바 TNT PCI\]\] **리바 TNT**(RIVA TNT, 코드이름 NV4)는 개인용 컴퓨터를 위한 [2차원](https://ko.wikipedia.org/wiki/2차원_컴퓨터_그래픽스 "wikilink"), [비디오](../Page/비디오.md "wikilink"), [3차원](../Page/3차원_컴퓨터_그래픽스.md "wikilink") 그래픽 가속 칩으로 [엔비디아](../Page/엔비디아.md "wikilink")가 제조하였다. 이 그래픽 카드는 [1998년](../Page/1998년.md "wikilink") 말에 출시되었으며 엔비디아가 본격적으로 소비자용 3차원 [그래픽 카드](../Page/그래픽_카드.md "wikilink") 산업 속에서 큰 명성을 차지하게 되는 계기가 된다. 리바(RIVA)라는 이름은 ***R**eal-time **I**nteractive **V**ideo and **A**nimation accelerator*의 준말이다.\[1\] TNT는 두 개의 텍셀을 한 번에 처리할 수 있음을 가리킨다. (트윈 텍셀, ***T**wi**N** **T**exel*)\[2\]

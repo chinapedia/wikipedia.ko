@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [NSI ](https://ko.wikipedia.org/wiki/NSI_).
+> This article is converted from Wikipedia: [NSI 루나비크](https://ko.wikipedia.org/wiki/NSI_루나비크).
 
 
 **NSI 루나비크**는 [페로 제도의](../Page/페로_제도.md "wikilink") [축구](../Page/축구.md "wikilink") 클럽으로 [루나비크](https://ko.wikipedia.org/wiki/루나비크 "wikilink")를 연고로 [1957년](../Page/1957년.md "wikilink") [3월 24일에](../Page/3월_24일.md "wikilink") 창단되었다. 루나비크는 [2003년](../Page/2003년.md "wikilink")에 처음으로 유럽 대회에 참가하였다.

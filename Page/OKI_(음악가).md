@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [OKI \(\)](https://ko.wikipedia.org/wiki/OKI_\(\)).
+> This article is converted from Wikipedia: [OKI \(음악가\)](https://ko.wikipedia.org/wiki/OKI_\(음악가\)).
 
 
 [Oki Ainu Dub Band, [루돌슈타트](https://ko.wikipedia.org/wiki/루돌슈타트 "wikilink")에서, 2007년 7월 6일|350px|thumb|right](https://ko.wikipedia.org/wiki/파일:Oki_Ainu_Dub_Band_at_tff.Rudolstadt_2007.jpg "wikilink") **OKI**(오키)는 [일본](../Page/일본.md "wikilink")의 [아이누족출신의](https://ko.wikipedia.org/wiki/아이누민족 "wikilink") 음악가, 예술가이다. 치카루 스튜디오(チカルスタジオ)소속이며, 본명은 칸노 오키(加納沖)이다.

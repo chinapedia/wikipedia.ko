@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Stand by Your Man](https://ko.wikipedia.org/wiki/Stand_by_Your_Man).
 
 
-***Stand by Your Man***(스탠 바이 유어 맨)은 1968년, [태미 와이넷](https://ko.wikipedia.org/wiki/태미_와이넷 "wikilink")(Tammy Wynette)과 [빌리 쉐릴](https://ko.wikipedia.org/wiki/빌리_쉐릴 "wikilink")(Billy Sherrill)이 공동으로 작사, 작곡을 하고, 태미 와이넷이 부른 노래이다.\[1\] 와이넷의 곡 중 가장 크게 히트를 했고, 컨트리 뮤직 사상 가장 많이 알려진 노래 중의 하나이다.
+**Stand by Your Man**(스탠 바이 유어 맨)은 1968년, [태미 와이넷](https://ko.wikipedia.org/wiki/태미_와이넷 "wikilink")(Tammy Wynette)과 [빌리 쉐릴](https://ko.wikipedia.org/wiki/빌리_쉐릴 "wikilink")(Billy Sherrill)이 공동으로 작사, 작곡을 하고, 태미 와이넷이 부른 노래이다.\[1\] 와이넷의 곡 중 가장 크게 히트를 했고, 컨트리 뮤직 사상 가장 많이 알려진 노래 중의 하나이다.
 
 ## 작곡
 
@@ -20,6 +20,10 @@
 ## 영화에 삽입
 
   - 《[시애틀의 잠 못 이루는 밤](../Page/시애틀의_잠_못_이루는_밤.md "wikilink")》(*Sleepless in Seattle*, 1993)에서 댄 아이크로이드(Dan Aykroyd)와 존 벨루시(John Belushi)가 불렀다.
+
+## 드라마
+
+  - JTBC 《[밥 잘 사주는 예쁜 누나](../Page/밥_잘_사주는_예쁜_누나.md "wikilink")》 [사운드트랙](https://ko.wikipedia.org/wiki/사운드트랙 "wikilink") 11번으로 수록되었다.
 
 ## 같이 보기
 

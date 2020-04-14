@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ A ](https://ko.wikipedia.org/wiki/_A_).
+> This article is converted from Wikipedia: [페르세우스자리 A 은하](https://ko.wikipedia.org/wiki/페르세우스자리_A_은하).
 
 
 **페르세우스자리 A**(또는 **NGC 1275**, **콜드웰 24**)는 [페르세우스자리](../Page/페르세우스자리.md "wikilink") 방향으로 약 2억 3,700만 [광년](../Page/광년.md "wikilink")\[1\] 떨어져 있는 [1.5형 세이퍼트 은하이다](https://ko.wikipedia.org/wiki/세이퍼트_은하#중간형_세이퍼트_은하 "wikilink").\[2\] NGC 1275는 전파원 페르세우스자리 A에 해당하며, [페르세우스자리 은하단의](https://ko.wikipedia.org/wiki/페르세우스자리_은하단 "wikilink") 중심부 근처에 위치해 있다.

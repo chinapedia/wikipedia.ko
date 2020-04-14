@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  DX](https://ko.wikipedia.org/wiki/__DX).
+> This article is converted from Wikipedia: [대난투 스매시브라더스 DX](https://ko.wikipedia.org/wiki/대난투_스매시브라더스_DX).
 
 
 《**대난투 스매시브라더스 DX**》(, )는 닌텐도의 캐릭터들이 나오는 액션게임으로, 대난투 스매시 브라더스 시리즈의 두 번째 작품이다.

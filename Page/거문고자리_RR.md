@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ RR](https://ko.wikipedia.org/wiki/_RR).
+> This article is converted from Wikipedia: [거문고자리 RR](https://ko.wikipedia.org/wiki/거문고자리_RR).
 
 
 **거문고자리 RR**은 [거문고자리](../Page/거문고자리.md "wikilink")에 있는 [변광성](../Page/변광성.md "wikilink")이며, [거문고자리 RR형 변광성의](../Page/거문고자리_RR형_변광성.md "wikilink") 원형 별이기도 하다. 광도변화 주기는 약 13시간이며 겉보기 등급은 7 \~ 8 사이에서 변한다. 1901년 하버드 천문대의 스코틀랜드계 천문학자 윌리아미나 플레밍은 이 별이 변광성 성질을 띠고 있다는 사실을 발견했다. 지구로부터 거문고자리 RR까지의 거리를 정확하게 계산하는 것은 중요한데, 그 이유는 이 별까지의 거리를 정확히 구할 경우 별의 밝기를 정확히 알 수 있으며, 이를 통해 다른 거문고자리 RR형 별들과 지구 사이의 거리를 구할 수 있기 때문이다.

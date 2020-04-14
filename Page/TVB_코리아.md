@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TVB ](https://ko.wikipedia.org/wiki/TVB_).
+> This article is converted from Wikipedia: [TVB 코리아](https://ko.wikipedia.org/wiki/TVB_코리아).
 
 
 **TVB 코리아**는 [중화인민공화국](../Page/중화인민공화국.md "wikilink") 및 [홍콩](../Page/홍콩.md "wikilink")의 최대 민영 방송사이자 모회사인 [TVB](../Page/TVB.md "wikilink")의 한국 현지법인 케이블 TV채널이자 [CMB](https://ko.wikipedia.org/wiki/CMB "wikilink")의 자회사이다. 주요 장르는 주로 중국 드라마와 [무협](../Page/무협.md "wikilink"), 느와르, 아시아의 연예 오락 및 연예뉴스 등 각종 연예정보를 주요 장르로 편성되어 있으며, 해당 채널은 [2016년](../Page/2016년.md "wikilink") [6월 30일자로](../Page/6월_30일.md "wikilink") 방영종료되었다.

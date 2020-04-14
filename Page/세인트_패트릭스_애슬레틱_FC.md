@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [   FC](https://ko.wikipedia.org/wiki/___FC).
+> This article is converted from Wikipedia: [세인트 패트릭스 애슬레틱 FC](https://ko.wikipedia.org/wiki/세인트_패트릭스_애슬레틱_FC).
 
 
-**세인트 패트릭스 애슬레틱 FC** (는 [아일랜드](../Page/아일랜드.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽으로 [1929년](../Page/1929년.md "wikilink")에 [더블린](../Page/더블린.md "wikilink")을 연고로 창단되었다. 현재는 [리그 오브 아일랜드 프리미어 디비전에서](../Page/리그_오브_아일랜드_프리미어_디비전.md "wikilink") 활동하고 있다. 클럽의 홈구장은 첫 시즌에는 [피닉스 파크를](https://ko.wikipedia.org/wiki/피닉스_파크 "wikilink") 홈구장으로 사용했으나 1930년부터 [리치먼드 파크로](https://ko.wikipedia.org/wiki/리치먼드_파크 "wikilink") 옮겼다. 세인트 패트릭스 애슬레틱은 현재까지 리그 7회 우승을 하였고, 컵 대회는 2회 우승하였다.
+**세인트 패트릭스 애슬레틱 FC**(는 [아일랜드](../Page/아일랜드.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽으로 [1929년](../Page/1929년.md "wikilink")에 [더블린](../Page/더블린.md "wikilink")을 연고로 창단되었다. 현재는 [리그 오브 아일랜드 프리미어 디비전에서](../Page/리그_오브_아일랜드_프리미어_디비전.md "wikilink") 활동하고 있다. 클럽의 홈구장은 첫 시즌에는 [피닉스 파크를](https://ko.wikipedia.org/wiki/피닉스_파크 "wikilink") 홈구장으로 사용했으나 1930년부터 [리치먼드 파크로](https://ko.wikipedia.org/wiki/리치먼드_파크 "wikilink") 옮겼다. 세인트 패트릭스 애슬레틱은 현재까지 리그 7회 우승을 하였고, 컵 대회는 2회 우승하였다.
 
 ## 역대 우승기록
 

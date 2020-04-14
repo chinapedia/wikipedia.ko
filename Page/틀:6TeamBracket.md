@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:6TeamBracket](https://ko.wikipedia.org/wiki/:6TeamBracket).
+> This article is converted from Wikipedia: [틀:6TeamBracket](https://ko.wikipedia.org/wiki/틀:6TeamBracket).
 
 
 <onlyinclude>{| border=0 cellpadding=0 cellspacing=0 style="font-size: 90%; margin:1em 2em 1em 1em;" |   | align="center" colspan="3" style="border:1px solid \#aaa;" bgcolor=\#f2f2f2| |   |   | align="center" colspan="3" style="border:1px solid \#aaa;" bgcolor=\#f2f2f2| |   |   | align="center" colspan="3" style="border:1px solid \#aaa;" bgcolor=\#f2f2f2|

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [YWCA  ](https://ko.wikipedia.org/wiki/YWCA__).
+> This article is converted from Wikipedia: [YWCA 위장결혼식 사건](https://ko.wikipedia.org/wiki/YWCA_위장결혼식_사건).
 
 
 **YWCA 위장결혼식 사건**은 [10.26 사건](../Page/10.26_사건.md "wikilink") 이후 [간접선거](https://ko.wikipedia.org/wiki/간접선거 "wikilink")로 대통령을 선출하려는 [통일주체국민회의](../Page/통일주체국민회의.md "wikilink")의 발표에 반발하여 [윤보선](https://ko.wikipedia.org/wiki/윤보선 "wikilink"), [함석헌](../Page/함석헌.md "wikilink") 등의 주도하에 [1979년](../Page/1979년.md "wikilink") [11월 24일에](../Page/11월_24일.md "wikilink") [서울](https://ko.wikipedia.org/wiki/서울 "wikilink") [YWCA](https://ko.wikipedia.org/wiki/YWCA "wikilink") 회관에서 개최되었던 대통령 직선제 요구 시위였다. 직접 시위는 계엄시의 군부와 경찰을 자극할 것으로 예상하여 결혼식을 가장한 시위였다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FC ](https://ko.wikipedia.org/wiki/FC_).
+> This article is converted from Wikipedia: [FC 홍카](https://ko.wikipedia.org/wiki/FC_홍카).
 
 
 **FC 홍카**는 [핀란드](../Page/핀란드.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽으로 핀란드 남부의 [에스포](../Page/에스포.md "wikilink")의 [타피올라](https://ko.wikipedia.org/wiki/타피올라 "wikilink")를 연고지로 삼고 있다. [2005년](../Page/2005년.md "wikilink") 시즌에 [위쾨넨](https://ko.wikipedia.org/wiki/위쾨넨 "wikilink")(핀란드의 2부 축구 리그) 우승을 차지하며 클럽 역사상 최초로 승격을 하여 [2006년](../Page/2006년.md "wikilink")부터 [베이카우스리가](../Page/베이카우스리가.md "wikilink")에서 활동하였으나 2015년 재정적인 어려움으로 인해 3부 리그로 강등되었으며, 2016년 3부 리그의 1위를 차지하며, 2017년부터 위쾨넨(핀란드의 2부 축구 리그), 2018년부터 베이카우스리가(Veikkausliiga)에서 활동하고 있다.

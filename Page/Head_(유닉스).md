@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Head \(\)](https://ko.wikipedia.org/wiki/Head_\(\)).
+> This article is converted from Wikipedia: [Head \(유닉스\)](https://ko.wikipedia.org/wiki/Head_\(유닉스\)).
 
 
 **head**는 유닉스 및 [유닉스 계열](../Page/유닉스_계열.md "wikilink") 운영 체제 하에서 사용되는 컴퓨터 프로그램으로 파일이나 데이터의 처음 몇 줄을 보여 주는 명령어이다. 기본적인 용례는 아래와 같다:

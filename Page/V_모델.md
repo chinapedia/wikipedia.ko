@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [V ](https://ko.wikipedia.org/wiki/V_).
+> This article is converted from Wikipedia: [V 모델](https://ko.wikipedia.org/wiki/V_모델).
 
 
 [350px](https://ko.wikipedia.org/wiki/파일:V-model.JPG "wikilink")

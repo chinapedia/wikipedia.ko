@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ AG](https://ko.wikipedia.org/wiki/_AG).
+> This article is converted from Wikipedia: [포켓몬스터 AG](https://ko.wikipedia.org/wiki/포켓몬스터_AG).
 
 
 《**포켓몬스터 AG**》는 일본 [TV 도쿄에서](../Page/TV_도쿄.md "wikilink") 방영된 《[포켓몬스터](../Page/포켓몬스터_\(1997~2002년_애니메이션\).md "wikilink")》의 후속 시리즈이다. 《포켓몬스터 AG》의 후속 시리즈는 《[포켓몬스터 DP](../Page/포켓몬스터_DP_\(애니메이션\).md "wikilink")》이며, 《[포켓몬스터 XY](../Page/포켓몬스터_XY_\(애니메이션\).md "wikilink")》가 이 시리즈의 구성을 차용했다.

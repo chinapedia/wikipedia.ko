@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [LL  J](https://ko.wikipedia.org/wiki/LL__J).
+> This article is converted from Wikipedia: [LL 쿨 J](https://ko.wikipedia.org/wiki/LL_쿨_J).
 
 
 **LL 쿨 J**(LL Cool J, <small>본명:</small> 제임스 토드 스미스, zJames Todd Smith, [1968년](../Page/1968년.md "wikilink") 1월 14일 \~ )\[1\] 은 미국의 랩퍼이다. 그의 이름 LL 쿨 J는 'Ladies Love Cool James'를 간추려서 말한 예명이라고 한다. 그도 90년대 성공한 힙합스타이며 주로 로맨틱힙합을 해왔었다. [2008](https://ko.wikipedia.org/wiki/2008 "wikilink")년에 13번째 앨범 'Exit 13'을 발매했으며 거의 20년이 다 되어가는 그의 전속 힙합레이블 [데프잼 레코드](https://ko.wikipedia.org/wiki/데프잼_레코드 "wikilink")'에서의 계약이 끝났다. 그는 지금 [뉴욕에서](https://ko.wikipedia.org/wiki/뉴욕_시 "wikilink") 가정을 꾸렸다.

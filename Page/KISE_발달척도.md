@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KISE ](https://ko.wikipedia.org/wiki/KISE_).
+> This article is converted from Wikipedia: [KISE 발달척도](https://ko.wikipedia.org/wiki/KISE_발달척도).
 
 
 **KISE 발달척도**는 [장 피아제의](../Page/장_피아제.md "wikilink") [인지발달이론](https://ko.wikipedia.org/wiki/인지발달이론 "wikilink")을 기초로 하여 [대한민국](../Page/대한민국.md "wikilink") 실정에 맞게 [국립특수교육원](../Page/국립특수교육원.md "wikilink") 개발한 정서장애학생을 선별하는 척도이다.\[1\]

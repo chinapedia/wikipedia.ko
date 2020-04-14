@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [AGV \(\)](https://ko.wikipedia.org/wiki/AGV_\(\)).
+> This article is converted from Wikipedia: [AGV \(열차\)](https://ko.wikipedia.org/wiki/AGV_\(열차\)).
 
 
 **AGV**(아제베, ) 또는 **FS ETR 575급**()은 [프랑스](../Page/프랑스.md "wikilink") [알스톰](../Page/알스톰.md "wikilink")의 [고속철도](../Page/고속철도.md "wikilink") 차량 혹은 그 개발 프로젝트를 의미한다. [2008년](../Page/2008년.md "wikilink")에 페가수스 프로토 타입으로 [2000년대](../Page/2000년대.md "wikilink") 초반에 개발에 착수했고 같은 해 [이탈리아](../Page/이탈리아.md "wikilink")의 철도 기업인 [NTV](https://ko.wikipedia.org/wiki/NTV "wikilink")에서 25편성을 발주했다. [2009년](../Page/2009년.md "wikilink")부터 [2010년](../Page/2010년.md "wikilink")까지 영업운전을 목표로 개발이 진행하였다. AGV는 [알스톰](../Page/알스톰.md "wikilink") 사의 등록상표로 [2012년](../Page/2012년.md "wikilink")에 [이탈리아](../Page/이탈리아.md "wikilink")에서 상용화 되었다.

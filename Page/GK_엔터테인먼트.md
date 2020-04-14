@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [GK ](https://ko.wikipedia.org/wiki/GK_).
+> This article is converted from Wikipedia: [GK 엔터테인먼트](https://ko.wikipedia.org/wiki/GK_엔터테인먼트).
 
 
 **GK 엔터테인먼트**()는 강태룡이 [2006년](../Page/2006년.md "wikilink") [2월 1일](../Page/2월_1일.md "wikilink") 설립한 [대한민국](../Page/대한민국.md "wikilink")의 [애니메이션](../Page/애니메이션.md "wikilink") 제작 기업이다. 본사는 [부천시](https://ko.wikipedia.org/wiki/부천시 "wikilink") 부천로198번길 18, 202동 1201호 (춘의동, 춘의테크노파크Ⅱ)에, 본점은 제주특별자치도 서귀포시 동홍로 41, 나동 2층 B204호 (동홍동, 아시아CGI애니메이션센터)에 위치해 있다.

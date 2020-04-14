@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SLR](https://ko.wikipedia.org/wiki/SLR).
+> This article is converted from Wikipedia: [SLR클럽](https://ko.wikipedia.org/wiki/SLR클럽).
 
 
 **SLR클럽**<small>()</small>은 [대한민국](../Page/대한민국.md "wikilink")의 [SLR](../Page/일안_반사식_카메라.md "wikilink") [카메라](../Page/사진기.md "wikilink") 관련 정보 공유 커뮤니티이다. 운영자 반대걸의 개인 홈페이지로 시작하여 SLR 관련 커뮤니티로 성장하였다. 현재 ㈜인비전커뮤니티에서 운영하고 있다

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Metallica \(\)](https://ko.wikipedia.org/wiki/Metallica_\(\)).
+> This article is converted from Wikipedia: [Metallica \(음반\)](https://ko.wikipedia.org/wiki/Metallica_\(음반\)).
 
 
 《**Metallica**》는 미국의 [헤비 메탈](../Page/헤비_메탈.md "wikilink") 밴드인 [메탈리카](../Page/메탈리카.md "wikilink")의 다섯 번째 정규앨범으로, 정해진 타이틀이 없고, 검은 바탕의 음반 커버에 밴드명과 뱀 그림만이 있으며, 〈**The Black Album**〉이라는 명칭으로도 잘 알려져 있다.

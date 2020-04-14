@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FC  ](https://ko.wikipedia.org/wiki/FC__).
+> This article is converted from Wikipedia: [FC 디나모 민스크](https://ko.wikipedia.org/wiki/FC_디나모_민스크).
 
 
 **FC 디나모 민스크**()는 [벨라루스](../Page/벨라루스.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽으로, [수도](../Page/수도.md "wikilink")인 [민스크](../Page/민스크.md "wikilink")를 연고로 하여 창단되었다. 디나모 민스크는 [벨로루시 소비에트 사회주의 공화국에서](../Page/벨로루시_소비에트_사회주의_공화국.md "wikilink") [소비에트 탑 리그에](https://ko.wikipedia.org/wiki/소비에트_탑_리그 "wikilink") 참가한 유일한 팀으로 54시즌 가운데 39시즌 동안 참가하였다. 1982년에는 소비에트 리그 우승을 하였다.

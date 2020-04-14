@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ PC](https://ko.wikipedia.org/wiki/_PC).
+> This article is converted from Wikipedia: [포켓 PC](https://ko.wikipedia.org/wiki/포켓_PC).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Pocket_pc_qtek_2006-08-26.jpg "wikilink") **포켓 PC**(, **PPC**)는 [마이크로소프트](../Page/마이크로소프트.md "wikilink") [윈도우 모바일](../Page/윈도우_모바일.md "wikilink") [운영 체제를](../Page/운영_체제.md "wikilink") 실행할 수 있는 [모바일](https://ko.wikipedia.org/wiki/모바일_장치 "wikilink") [컴퓨터](../Page/컴퓨터.md "wikilink")([PDA](https://ko.wikipedia.org/wiki/PDA "wikilink"))를 위한 하드웨어 [규격](https://ko.wikipedia.org/wiki/규격 "wikilink")이다. 줄여서 P/PC, PPC로 표기하기도 한다. [넷BSD](https://ko.wikipedia.org/wiki/넷BSD "wikilink"), [리눅스](../Page/리눅스.md "wikilink"), [안드로이드와](https://ko.wikipedia.org/wiki/안드로이드_\(모바일_플랫폼\) "wikilink") 같은 대체 [운영 체제를](../Page/운영_체제.md "wikilink") 실행할 수도 있다. 현대의 데스크톱 [개인용 컴퓨터의](../Page/개인용_컴퓨터.md "wikilink") 기능 대다수를 갖추고 있다.

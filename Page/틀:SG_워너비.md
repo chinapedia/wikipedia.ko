@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:SG ](https://ko.wikipedia.org/wiki/:SG_).
+> This article is converted from Wikipedia: [틀:SG 워너비](https://ko.wikipedia.org/wiki/틀:SG_워너비).
 
 
 <onlyinclude></onlyinclude>

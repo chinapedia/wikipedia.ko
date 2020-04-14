@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [AMD X](https://ko.wikipedia.org/wiki/AMD_X).
+> This article is converted from Wikipedia: [AMD 크로스파이어X](https://ko.wikipedia.org/wiki/AMD_크로스파이어X).
 
 
 **크로스파이어X**(CrossFireX\[1\], 이전 이름: **크로스파이어**, CrossFire)는 [ATI 테크놀로지스의](../Page/ATI_테크놀로지스.md "wikilink") 다중 [GPU](../Page/그래픽_처리_장치.md "wikilink") 솔루션의 브랜드 이름으로 [엔비디아](../Page/엔비디아.md "wikilink")의 [스케일러블 링크 인터페이스](../Page/스케일러블_링크_인터페이스.md "wikilink") (SLI)와 경쟁하는 기술이다. 이 기술은 하나의 컴퓨터에 최대 4개의 [그래픽 카드를](../Page/그래픽_카드.md "wikilink") 사용하여 그래픽 성능을 개선하고자 만든 것이다. 최근에 소비자 수준의 [하드웨어](https://ko.wikipedia.org/wiki/하드웨어 "wikilink")용으로만 발표되었지만 이와 비슷한 기술인 [AMD 멀티 렌더링](https://ko.wikipedia.org/wiki/AMD_멀티_렌더링 "wikilink")(AMR)이 비행 시뮬레이터 등에 필요한 전문가용 카드에 채용되고 있다. ATI는 또 이전에 [Fury MAXX라](../Page/ATI_레이지.md "wikilink") 불렸던 듀얼 레이지 128 소비자용 카드를 출시한 적이 있다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ADHD  ](https://ko.wikipedia.org/wiki/ADHD__).
+> This article is converted from Wikipedia: [ADHD 진단 시스템](https://ko.wikipedia.org/wiki/ADHD_진단_시스템).
 
 
 **ADHD 진단 시스템**(ADHD Diagnostic System, **ADS**)또는 '주의집중력검사'는 전산화된 주의력 검사로서, [주의력결핍 과다행동장애](../Page/주의력결핍_과다행동장애.md "wikilink")(ADHD)를 진단하기 위해 [대한민국](../Page/대한민국.md "wikilink")에서 개발된 시스템이다. 만 5세에서 만 15세 연령범위의 [아동](https://ko.wikipedia.org/wiki/아동 "wikilink")과 [청소년](../Page/청소년.md "wikilink")을 대상으로 하며, 각 연령별 기준을 바탕으로 검사를 실시한다. [CD롬](https://ko.wikipedia.org/wiki/CD롬 "wikilink")으로 개발되어 [개인용 컴퓨터에](../Page/개인용_컴퓨터.md "wikilink") 설치할 수 있다.

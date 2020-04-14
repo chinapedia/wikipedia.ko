@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ AB](https://ko.wikipedia.org/wiki/_AB).
+> This article is converted from Wikipedia: [황새치자리 AB](https://ko.wikipedia.org/wiki/황새치자리_AB).
 
 
 **황새치자리 AB**는 [전주계열성](../Page/전주계열성.md "wikilink") 단계에 있는 [삼중성계](https://ko.wikipedia.org/wiki/삼중성계 "wikilink")로, [황새치자리](../Page/황새치자리.md "wikilink")에 있다. [주성](https://ko.wikipedia.org/wiki/주성 "wikilink")은 주기적으로 활동량이 증가하는 [플레어 별이다](https://ko.wikipedia.org/wiki/플레어_별 "wikilink").

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [\' : Good \& Bye](https://ko.wikipedia.org/wiki/\'_:_Good_\&_Bye).
+> This article is converted from Wikipedia: [굿\' 바이: Good \& Bye](https://ko.wikipedia.org/wiki/굿\'_바이:_Good_\&_Bye).
 
 
 《**굿' 바이: Good & Bye**》(원제: , )는 [일본](../Page/일본.md "wikilink")의 [타키타 요지로](https://ko.wikipedia.org/wiki/타키타_요지로 "wikilink") 감독이 제작한 [2008년](../Page/2008년.md "wikilink") [일본](../Page/일본.md "wikilink") [영화](../Page/영화.md "wikilink")이다. 전직 [첼리스트의](../Page/첼로.md "wikilink") 이야기를 다루고 있다.
@@ -166,6 +166,6 @@
   - [무대 《굿바이》 공식 웹사이트](https://web.archive.org/web/20120320235508/http://www.tbs.co.jp/act/event/okuribito2010/)
 
   -
-[분류:2008년 영화](https://ko.wikipedia.org/wiki/분류:2008년_영화 "wikilink") [분류:다키타 요지로 감독 영화](https://ko.wikipedia.org/wiki/분류:다키타_요지로_감독_영화 "wikilink") [분류:야마가타현을 배경으로 한 작품](https://ko.wikipedia.org/wiki/분류:야마가타현을_배경으로_한_작품 "wikilink") [분류:아카데미 국제영화상 수상작](https://ko.wikipedia.org/wiki/분류:아카데미_국제영화상_수상작 "wikilink") [분류:소설을 바탕으로 한 영화](https://ko.wikipedia.org/wiki/분류:소설을_바탕으로_한_영화 "wikilink") [분류:일본의 드라마 영화](https://ko.wikipedia.org/wiki/분류:일본의_드라마_영화 "wikilink") [분류:TBS 제작 영화](https://ko.wikipedia.org/wiki/분류:TBS_제작_영화 "wikilink") [분류:쇼치쿠](https://ko.wikipedia.org/wiki/분류:쇼치쿠 "wikilink") [분류:기쿠치 간상 수상자](https://ko.wikipedia.org/wiki/분류:기쿠치_간상_수상자 "wikilink") [분류:일본을 배경으로 한 영화](https://ko.wikipedia.org/wiki/분류:일본을_배경으로_한_영화 "wikilink") [분류:일본에서 촬영한 영화](https://ko.wikipedia.org/wiki/분류:일본에서_촬영한_영화 "wikilink") [분류:야마가타현을 배경으로 한 영화](https://ko.wikipedia.org/wiki/분류:야마가타현을_배경으로_한_영화 "wikilink")
+[분류:2008년 영화](https://ko.wikipedia.org/wiki/분류:2008년_영화 "wikilink") [분류:다키타 요지로 감독 영화](https://ko.wikipedia.org/wiki/분류:다키타_요지로_감독_영화 "wikilink") [분류:야마가타현을 배경으로 한 작품](https://ko.wikipedia.org/wiki/분류:야마가타현을_배경으로_한_작품 "wikilink") [분류:아카데미 국제영화상 수상작](https://ko.wikipedia.org/wiki/분류:아카데미_국제영화상_수상작 "wikilink") [분류:소설을 바탕으로 한 영화](https://ko.wikipedia.org/wiki/분류:소설을_바탕으로_한_영화 "wikilink") [분류:일본의 드라마 영화](https://ko.wikipedia.org/wiki/분류:일본의_드라마_영화 "wikilink") [분류:TBS 제작 영화](https://ko.wikipedia.org/wiki/분류:TBS_제작_영화 "wikilink") [분류:쇼치쿠](https://ko.wikipedia.org/wiki/분류:쇼치쿠 "wikilink") [분류:기쿠치 간상 수상자](https://ko.wikipedia.org/wiki/분류:기쿠치_간상_수상자 "wikilink") [분류:일본을 배경으로 한 영화](https://ko.wikipedia.org/wiki/분류:일본을_배경으로_한_영화 "wikilink") [분류:일본에서 촬영한 영화](https://ko.wikipedia.org/wiki/분류:일본에서_촬영한_영화 "wikilink") [분류:야마가타현을 배경으로 한 영화](https://ko.wikipedia.org/wiki/분류:야마가타현을_배경으로_한_영화 "wikilink") [분류:일본 아카데미상 최우수 작품상 수상작](https://ko.wikipedia.org/wiki/분류:일본_아카데미상_최우수_작품상_수상작 "wikilink")
 
 1.  [日영화 '굿바이', 아카데미 외국어영화상 수상 (스타뉴스 2009.02.23)](http://star.moneytoday.co.kr/view/stview.php?no=2009022309425373590&type=1&outlink=1)

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KR ](https://ko.wikipedia.org/wiki/KR_).
+> This article is converted from Wikipedia: [KR 레이캬비크](https://ko.wikipedia.org/wiki/KR_레이캬비크).
 
 
 **KR 레이캬비크**(), 또는 간단히 **KR**이라고 불리는 이 클럽은 [아이슬란드](../Page/아이슬란드.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽으로 아이슬란드의 [수도](../Page/수도.md "wikilink")인 [레이캬비크](../Page/레이캬비크.md "wikilink")를 연고로 하여 창단되었다. KR은 아이슬란드에서 가장 오래된 클럽이며, 아이슬란드 리그 최다 우승기록 보유팀이기도 하다.

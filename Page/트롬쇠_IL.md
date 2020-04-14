@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [ IL](https://ko.wikipedia.org/wiki/_IL).
+> This article is converted from Wikipedia: [트롬쇠 IL](https://ko.wikipedia.org/wiki/트롬쇠_IL).
 
 
-**트롬쇠 IL** ()은 [노르웨이](../Page/노르웨이.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽으로 [1920년](../Page/1920년.md "wikilink")에 [트롬쇠](../Page/트롬쇠.md "wikilink")를 연고지로 하여 창단하였다. 트롬쇠 IL은 현재 [노르웨이 프리미어리그에서](https://ko.wikipedia.org/wiki/노르웨이_프리미어리그 "wikilink") 활동하고 있다. 트롬쇠 IL은 전 세계에서 가장 북쪽에 있는 축구 클럽이다.
+**트롬쇠 IL**()은 [노르웨이](../Page/노르웨이.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽으로 [1920년](../Page/1920년.md "wikilink")에 [트롬쇠](../Page/트롬쇠.md "wikilink")를 연고지로 하여 창단하였다. 트롬쇠 IL은 현재 [노르웨이 프리미어리그에서](https://ko.wikipedia.org/wiki/노르웨이_프리미어리그 "wikilink") 활동하고 있다. 트롬쇠 IL은 전 세계에서 가장 북쪽에 있는 축구 클럽이다.
 
 ## 역사
 

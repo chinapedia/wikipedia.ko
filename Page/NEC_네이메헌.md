@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [NEC ](https://ko.wikipedia.org/wiki/NEC_).
+> This article is converted from Wikipedia: [NEC 네이메헌](https://ko.wikipedia.org/wiki/NEC_네이메헌).
 
 
-[오른쪽](https://ko.wikipedia.org/wiki/파일:Goffertboven.jpg "wikilink") **NEC** () 또는 **NEC 네이메헌**이라 불리는 이 클럽은 [네덜란드](../Page/네덜란드.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽으로 [1900년](../Page/1900년.md "wikilink") [11월 15일에](../Page/11월_15일.md "wikilink") 창단된 유서깊은 클럽이다.
+[오른쪽](https://ko.wikipedia.org/wiki/파일:Goffertboven.jpg "wikilink") **NEC**() 또는 **NEC 네이메헌**이라 불리는 이 클럽은 [네덜란드](../Page/네덜란드.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽으로 [1900년](../Page/1900년.md "wikilink") [11월 15일에](../Page/11월_15일.md "wikilink") 창단된 유서깊은 클럽이다.
 
 클럽은 원래 "에인드라흐트" (, )라고 불렸다. [1903년](../Page/1903년.md "wikilink")에 네이메헌과 합병하여 현재의 NEC (Nijmegen Eendracht Combinatie)가 되었다. NEC의 홈구장은 12,500명 규모의 [호퍼르트 경기장이다](https://ko.wikipedia.org/wiki/호퍼르트_경기장 "wikilink").
 

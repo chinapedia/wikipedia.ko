@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ATi  R100 ](https://ko.wikipedia.org/wiki/ATi__R100_).
+> This article is converted from Wikipedia: [ATi 라데온 R100 시리즈](https://ko.wikipedia.org/wiki/ATi_라데온_R100_시리즈).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Radeon7500agp.jpg "wikilink") **라데온 R100**(코드이름: 레이지 6C)은 [ATI 테크놀로지스사에서](../Page/ATI_테크놀로지스.md "wikilink") 출시한 라데온 그래픽스 칩의 첫 모델이다. [다이렉트3D](https://ko.wikipedia.org/wiki/다이렉트3D "wikilink") 7.0, [오픈지엘](https://ko.wikipedia.org/wiki/오픈지엘 "wikilink") 1.3 기반의 [3차원 가속을](../Page/3차원_컴퓨터_그래픽스.md "wikilink") 지원하며 이전 [ATI 레이지](../Page/ATI_레이지.md "wikilink") 디자인에 비해 성능이 크게 개선되었다. 프로세서에는 [2차원 GUI 가속](https://ko.wikipedia.org/wiki/2차원_컴퓨터_그래픽스 "wikilink"), [비디오](../Page/비디오.md "wikilink") 가속, 다중 디스플레이 출력을 포함한다. R100은 GPU 세대의 개발 코드이름을 가리킨다.

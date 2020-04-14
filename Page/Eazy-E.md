@@ -9,11 +9,11 @@
 
 ## 여러 문제
 
-[N.W.A](../Page/N.W.A.md "wikilink") 를 이끌어 가던중 그는 여러 트러블에 휩싸이기 시작했다.특히 [닥터드레](https://ko.wikipedia.org/wiki/닥터드레 "wikilink") 와 [Ice Cube](https://ko.wikipedia.org/wiki/Ice_Cube "wikilink") 는 Eazy-E가 여러 랩퍼들을 지휘한다는 점에서 상당히 공격적이었고,음악적으로도 [닥터드레](https://ko.wikipedia.org/wiki/닥터드레 "wikilink") 와 Eazy-E 는 너무나다른 음악을 추구했었다.그렇게 팀의 트러블이 생기면서 [아이스 큐브](../Page/아이스_큐브.md "wikilink") 와 [닥터드레](https://ko.wikipedia.org/wiki/닥터드레 "wikilink") 는 Eazy-E 가 그들의 중요한 돈을 Eazy-E가 갖게 되는 것을 알게되자 결국 1991년 [N.W.A](../Page/N.W.A.md "wikilink") 를 탈퇴했다.정확히 [아이스 큐브](../Page/아이스_큐브.md "wikilink") 는 1990년 탈퇴했고 당시 "No Vaseline" 이라는 곡으로 Eazy-E의 문란한 성생활에 대해 'Diss'를함 으로써 멤버 서로간의 불화의 시작을 알린다.
+[N.W.A](../Page/N.W.A.md "wikilink") 를 이끌어 가던중 그는 여러 트러블에 휩싸이기 시작했다.특히 [닥터드레](https://ko.wikipedia.org/wiki/닥터드레 "wikilink") 와 [Ice Cube는](https://ko.wikipedia.org/wiki/Ice_Cube "wikilink") Eazy-E가 여러 랩퍼들을 지휘한다는 점에서 상당히 공격적이었고,음악적으로도 [닥터드레](https://ko.wikipedia.org/wiki/닥터드레 "wikilink") 와 Eazy-E 는 너무나다른 음악을 추구했었다.그렇게 팀의 트러블이 생기면서 [아이스 큐브](../Page/아이스_큐브.md "wikilink") 와 [닥터드레](https://ko.wikipedia.org/wiki/닥터드레 "wikilink")는 Eazy-E 가 그들의 중요한 돈을 Eazy-E가 갖게 되는 것을 알게되자 결국 1991년 [N.W.A](../Page/N.W.A.md "wikilink") 를 탈퇴했다.정확히 [아이스 큐브는](../Page/아이스_큐브.md "wikilink") 1990년 탈퇴했고 당시 "No Vaseline" 이라는 곡으로 Eazy-E의 문란한 성생활에 대해 'Diss'를함 으로써 멤버 서로간의 불화의 시작을 알린다.
 
 **Ruthless record VS Deathrow Record**
 
-두멤버가 탈퇴하자 Eazy-E 또한 [N.W.A](../Page/N.W.A.md "wikilink")을 해체 선언을 했다.[닥터드레](https://ko.wikipedia.org/wiki/닥터드레 "wikilink") 와 [아이스 큐브](../Page/아이스_큐브.md "wikilink") 는 Suge Knight가 운영하는 레코드 Death Row에 들어가고,Dre는 1992년에 출시된 그의 첫앨범: The Chronic에서 지속해서 Eazy-E 를 욕한다.또한 Eazy-E 는 Deathrow Record의 소송을 걸었으나 기각되었고,결국 1년후 "1993"년 Eazy-E 도 It's On (Dr. Dre) 187um Killa 라는 이름으로 내버린 것이다. 이 앨범이 몇백만 부가 팔리면서 싸움이 격해졌다.심지어 이 앨범의 타이틀곡 "Real Muthaphuckkin G's"뮤비는 현재 전세계 유튜브에서 1억6천이 넘는 엄청난 조회수를 기록하고있다.그러나 1996년 Ruthless사단의 [Bone Thugs n Harmony](https://ko.wikipedia.org/wiki/Bone_Thugs_n_Harmony "wikilink") 와 [2Pac](../Page/투팍_샤커.md "wikilink") 이 'Thug Luv'라는 싱글을 발표하면서 싸움은 끝나게 된다.
+두멤버가 탈퇴하자 Eazy-E 또한 [N.W.A](../Page/N.W.A.md "wikilink")을 해체 선언을 했다.[닥터드레](https://ko.wikipedia.org/wiki/닥터드레 "wikilink") 와 [아이스 큐브는](../Page/아이스_큐브.md "wikilink") Suge Knight가 운영하는 레코드 Death Row에 들어가고,Dre는 1992년에 출시된 그의 첫앨범: The Chronic에서 지속해서 Eazy-E 를 욕한다.또한 Eazy-E 는 Deathrow Record의 소송을 걸었으나 기각되었고,결국 1년후 "1993"년 Eazy-E 도 It's On (Dr. Dre) 187um Killa 라는 이름으로 내버린 것이다. 이 앨범이 몇백만 부가 팔리면서 싸움이 격해졌다.심지어 이 앨범의 타이틀곡 "Real Muthaphuckkin G's"뮤비는 현재 전세계 유튜브에서 1억6천이 넘는 엄청난 조회수를 기록하고있다.그러나 1996년 Ruthless사단의 [Bone Thugs n Harmony](https://ko.wikipedia.org/wiki/Bone_Thugs_n_Harmony "wikilink") 와 [2Pac](../Page/투팍_샤커.md "wikilink") 이 'Thug Luv'라는 싱글을 발표하면서 싸움은 끝나게 된다.
 
 ## 불건전한 생활과 사망
 

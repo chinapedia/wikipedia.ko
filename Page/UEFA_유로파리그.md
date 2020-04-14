@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [UEFA ](https://ko.wikipedia.org/wiki/UEFA_).
+> This article is converted from Wikipedia: [UEFA 유로파리그](https://ko.wikipedia.org/wiki/UEFA_유로파리그).
 
 
 **UEFA 유로파리그**(UEFA Europa League)는 [1971년](../Page/1971년.md "wikilink")부터 [UEFA](https://ko.wikipedia.org/wiki/UEFA "wikilink")가 주관하는 [유럽](../Page/유럽.md "wikilink") [축구](../Page/축구.md "wikilink") 클럽들을 위한 대회이다. [UEFA 챔피언스리그에](../Page/UEFA_챔피언스리그.md "wikilink") 이어 2번째로 큰 대회로서 각국의 리그와 컵 대회 성적으로 출전 팀이 결정된다.
@@ -277,8 +277,6 @@ UEFA 챔피언스리그 예선에 참가하는 각국 리그 우승팀들이 예
 </table>
 
 ## 역대 결승
-
-### 홈 앤 어웨이 승부
 
 <table style="width:125%;">
 <colgroup>
@@ -929,30 +927,7 @@ UEFA 챔피언스리그 예선에 참가하는 각국 리그 우승팀들이 예
 <td></td>
 <td></td>
 </tr>
-</tbody>
-</table>
-
-### 단판 승부
-
-<table style="width:143%;">
-<colgroup>
-<col style="width: 70%" />
-<col style="width: 20%" />
-<col style="width: 13%" />
-<col style="width: 20%" />
-<col style="width: 20%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th><p>시즌</p></th>
-<th><p>우승 팀</p></th>
-<th><p>득점</p></th>
-<th><p>준우승 팀</p></th>
-<th><p>경기장</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
+<tr class="even">
 <td><p>1997/98<br />
 <small><em><a href="../Page/1997-98년_UEFA컵.md" title="wikilink">세부 정보</a></em></small></p></td>
 <td><p><strong><a href="../Page/FC_인테르나치오날레_밀라노.md" title="wikilink">인테르나치오날레</a></strong></p></td>
@@ -961,7 +936,7 @@ UEFA 챔피언스리그 예선에 참가하는 각국 리그 우승팀들이 예
 <td><p><a href="../Page/파리_(프랑스).md" title="wikilink">파리</a><br />
 <a href="../Page/파르크_데_프랭스.md" title="wikilink">파르크 데 프랭스</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>1998/99<br />
 <small><em><a href="../Page/1998-99년_UEFA컵.md" title="wikilink">세부 정보</a></em></small></p></td>
 <td><p><strong><a href="https://ko.wikipedia.org/wiki/파르마_FC" title="wikilink">파르마</a></strong></p></td>
@@ -970,7 +945,7 @@ UEFA 챔피언스리그 예선에 참가하는 각국 리그 우승팀들이 예
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Flag_of_Russia.svg" title="wikilink">20px</a> <a href="../Page/모스크바.md" title="wikilink">모스크바</a><br />
 <a href="../Page/루즈니키_스타디움.md" title="wikilink">루즈니키 스타디움</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>1999/2000<br />
 <small><em><a href="../Page/1999-2000년_UEFA컵.md" title="wikilink">세부 정보</a></em></small></p></td>
 <td><p><strong><a href="https://ko.wikipedia.org/wiki/갈라타사라이_SK" title="wikilink">갈라타사라이</a></strong></p></td>
@@ -980,7 +955,7 @@ UEFA 챔피언스리그 예선에 참가하는 각국 리그 우승팀들이 예
 <td><p><a href="../Page/코펜하겐.md" title="wikilink">코펜하겐</a><br />
 <a href="../Page/파르켄.md" title="wikilink">파르켄</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2000/01<br />
 <small><em><a href="../Page/2000-01년_UEFA컵.md" title="wikilink">세부 정보</a></em></small></p></td>
 <td><p><strong><a href="../Page/리버풀_FC.md" title="wikilink">리버풀</a></strong></p></td>
@@ -989,7 +964,7 @@ UEFA 챔피언스리그 예선에 참가하는 각국 리그 우승팀들이 예
 <td><p><a href="../Page/도르트문트.md" title="wikilink">도르트문트</a><br />
 <a href="../Page/지그날_이두나_파르크.md" title="wikilink">베스트팔렌슈타디온</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2001/02<br />
 <small><em><a href="../Page/2001-02년_UEFA컵.md" title="wikilink">세부 정보</a></em></small></p></td>
 <td><p><strong><a href="https://ko.wikipedia.org/wiki/페예노르트_로테르담" title="wikilink">페예노르트</a></strong></p></td>
@@ -998,7 +973,7 @@ UEFA 챔피언스리그 예선에 참가하는 각국 리그 우승팀들이 예
 <td><p><a href="../Page/로테르담.md" title="wikilink">로테르담</a><br />
 <a href="../Page/스타디온_페예노르트.md" title="wikilink">스타디온 페예노르트</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2002/03<br />
 <small><em><a href="../Page/2002-03년_UEFA컵.md" title="wikilink">세부 정보</a></em></small></p></td>
 <td><p><strong><a href="../Page/FC_포르투.md" title="wikilink">포르투</a></strong></p></td>
@@ -1007,7 +982,7 @@ UEFA 챔피언스리그 예선에 참가하는 각국 리그 우승팀들이 예
 <td><p><a href="../Page/세비야.md" title="wikilink">세비야</a><br />
 <a href="../Page/에스타디오_올림피코_데_라_카르투하.md" title="wikilink">올림피코 데 세비야</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2003/04<br />
 <small><em><a href="../Page/2003-04년_UEFA컵.md" title="wikilink">세부 정보</a></em></small></p></td>
 <td><p><strong><a href="../Page/발렌시아_CF.md" title="wikilink">발렌시아</a></strong></p></td>
@@ -1016,7 +991,7 @@ UEFA 챔피언스리그 예선에 참가하는 각국 리그 우승팀들이 예
 <td><p><a href="../Page/예테보리.md" title="wikilink">예테보리</a><br />
 <a href="../Page/울레비.md" title="wikilink">울레비</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2004/05<br />
 <small><em><a href="../Page/2004-05년_UEFA컵.md" title="wikilink">세부 정보</a></em></small></p></td>
 <td><p><strong><a href="../Page/PFC_CSKA_모스크바.md" title="wikilink">CSKA 모스크바</a></strong></p></td>
@@ -1025,7 +1000,7 @@ UEFA 챔피언스리그 예선에 참가하는 각국 리그 우승팀들이 예
 <td><p><a href="../Page/리스본.md" title="wikilink">리스본</a><br />
 <a href="../Page/이스타디우_조제_알발라드.md" title="wikilink">조제 알발라드</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2005/06<br />
 <small><em><a href="../Page/2005-06년_UEFA컵.md" title="wikilink">세부 정보</a></em></small></p></td>
 <td><p><strong><a href="https://ko.wikipedia.org/wiki/세비야_FC" title="wikilink">세비야</a></strong></p></td>
@@ -1034,7 +1009,7 @@ UEFA 챔피언스리그 예선에 참가하는 각국 리그 우승팀들이 예
 <td><p><a href="../Page/에인트호번.md" title="wikilink">에인트호번</a><br />
 <a href="../Page/필립스_스타디온.md" title="wikilink">필립스 스타디온</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2006/07<br />
 <small><em><a href="../Page/2006-07년_UEFA컵.md" title="wikilink">세부 정보</a></em></small></p></td>
 <td><p><strong><a href="https://ko.wikipedia.org/wiki/세비야_FC" title="wikilink">세비야</a></strong></p></td>
@@ -1044,7 +1019,7 @@ UEFA 챔피언스리그 예선에 참가하는 각국 리그 우승팀들이 예
 <td><p><a href="../Page/글래스고.md" title="wikilink">글래스고</a><br />
 <a href="../Page/햄던_파크.md" title="wikilink">햄던 파크</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2007/08<br />
 <small><em><a href="../Page/2007-08년_UEFA컵.md" title="wikilink">세부 정보</a></em></small></p></td>
 <td><p><strong><a href="../Page/FC_제니트_상트페테르부르크.md" title="wikilink">제니트 상트페테르부르크</a></strong></p></td>
@@ -1053,7 +1028,7 @@ UEFA 챔피언스리그 예선에 참가하는 각국 리그 우승팀들이 예
 <td><p><a href="../Page/맨체스터.md" title="wikilink">맨체스터</a><br />
 <a href="../Page/시티_오브_맨체스터_스타디움.md" title="wikilink">이티하드 스타디움</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2008/09<br />
 <small><em><a href="../Page/2008-09년_UEFA컵.md" title="wikilink">세부 정보</a></em></small></p></td>
 <td><p><strong><a href="../Page/FC_샤흐타르_도네츠크.md" title="wikilink">샤흐타르 도네츠크</a></strong></p></td>
@@ -1062,7 +1037,7 @@ UEFA 챔피언스리그 예선에 참가하는 각국 리그 우승팀들이 예
 <td><p><a href="../Page/이스탄불.md" title="wikilink">이스탄불</a><br />
 <a href="../Page/쉬크뤼_사라졸루_스타디움.md" title="wikilink">쉬크뤼 사라졸루 스타디움</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2009/10<br />
 <small><em><a href="../Page/2009-10년_UEFA_유로파리그.md" title="wikilink">세부 정보</a></em></small></p></td>
 <td><p><strong><a href="https://ko.wikipedia.org/wiki/아틀레티코_마드리드" title="wikilink">아틀레티코 마드리드</a></strong></p></td>
@@ -1071,7 +1046,7 @@ UEFA 챔피언스리그 예선에 참가하는 각국 리그 우승팀들이 예
 <td><p><a href="../Page/함부르크.md" title="wikilink">함부르크</a><br />
 <a href="../Page/폴크스파르크슈타디온.md" title="wikilink">HSH 노르드방크 아레나</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2010/11<br />
 <small><em><a href="../Page/2010-11년_UEFA_유로파리그.md" title="wikilink">세부 정보</a></em></small></p></td>
 <td><p><strong><a href="../Page/FC_포르투.md" title="wikilink">포르투</a></strong></p></td>
@@ -1080,7 +1055,7 @@ UEFA 챔피언스리그 예선에 참가하는 각국 리그 우승팀들이 예
 <td><p><a href="../Page/더블린.md" title="wikilink">더블린</a><br />
 <a href="../Page/아비바_스타디움.md" title="wikilink">아비바 스타디움</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2011/12<br />
 <small><em><a href="../Page/2011-12년_UEFA_유로파리그.md" title="wikilink">세부 정보</a></em></small></p></td>
 <td><p><strong><a href="https://ko.wikipedia.org/wiki/아틀레티코_마드리드" title="wikilink">아틀레티코 마드리드</a></strong></p></td>
@@ -1089,7 +1064,7 @@ UEFA 챔피언스리그 예선에 참가하는 각국 리그 우승팀들이 예
 <td><p><a href="../Page/부쿠레슈티.md" title="wikilink">부쿠레슈티</a><br />
 <a href="https://ko.wikipedia.org/wiki/아레나_나치오날러" title="wikilink">아레나 나치오날러</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2012/13<br />
 <small><em><a href="../Page/2012-13년_UEFA_유로파리그.md" title="wikilink">세부 정보</a></em></small></p></td>
 <td><p><strong><a href="../Page/첼시_FC.md" title="wikilink">첼시</a></strong></p></td>
@@ -1098,7 +1073,7 @@ UEFA 챔피언스리그 예선에 참가하는 각국 리그 우승팀들이 예
 <td><p><a href="../Page/암스테르담.md" title="wikilink">암스테르담</a><br />
 <a href="../Page/요한_크라위프_아레나.md" title="wikilink">암스테르담 아레나</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2013/14<br />
 <small><em><a href="../Page/2013-14년_UEFA_유로파리그.md" title="wikilink">세부 정보</a></em></small></p></td>
 <td><p><strong><a href="https://ko.wikipedia.org/wiki/세비야_FC" title="wikilink">세비야</a></strong></p></td>
@@ -1108,7 +1083,7 @@ UEFA 챔피언스리그 예선에 참가하는 각국 리그 우승팀들이 예
 <td><p><a href="../Page/토리노.md" title="wikilink">토리노</a><br />
 <a href="../Page/유벤투스_스타디움.md" title="wikilink">유벤투스 스타디움</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2014/15<br />
 <small><em><a href="../Page/2014-15년_UEFA_유로파리그.md" title="wikilink">세부 정보</a></em></small></p></td>
 <td><p><strong><a href="https://ko.wikipedia.org/wiki/세비야_FC" title="wikilink">세비야</a></strong></p></td>
@@ -1117,7 +1092,7 @@ UEFA 챔피언스리그 예선에 참가하는 각국 리그 우승팀들이 예
 <td><p><a href="../Page/바르샤바.md" title="wikilink">바르샤바</a><br />
 <a href="../Page/바르샤바_국립_경기장.md" title="wikilink">바르샤바 국립 경기장</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2015/16<br />
 <small><em><a href="../Page/2015-16년_UEFA_유로파리그.md" title="wikilink">세부 정보</a></em></small></p></td>
 <td><p><strong><a href="https://ko.wikipedia.org/wiki/세비야_FC" title="wikilink">세비야</a></strong></p></td>
@@ -1126,7 +1101,7 @@ UEFA 챔피언스리그 예선에 참가하는 각국 리그 우승팀들이 예
 <td><p><a href="../Page/바젤.md" title="wikilink">바젤</a><br />
 <a href="../Page/장크트_야코프_파르크.md" title="wikilink">장크트 야콥 파크</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2016/17<br />
 <small><em><a href="https://ko.wikipedia.org/wiki/2016-17년_UEFA_유로파리그" title="wikilink">세부 정보</a></em></small></p></td>
 <td><p><strong><a href="../Page/맨체스터_유나이티드_FC.md" title="wikilink">맨체스터 유나이티드</a></strong></p></td>
@@ -1135,7 +1110,7 @@ UEFA 챔피언스리그 예선에 참가하는 각국 리그 우승팀들이 예
 <td><p><a href="../Page/솔나_시.md" title="wikilink">솔나</a><br />
 <a href="../Page/프렌즈_아레나.md" title="wikilink">프렌즈 아레나</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2017/18<br />
 <small><em><a href="../Page/2017-18년_UEFA_유로파리그.md" title="wikilink">세부 정보</a></em></small></p></td>
 <td><p><strong><a href="https://ko.wikipedia.org/wiki/아틀레티코_마드리드" title="wikilink">아틀레티코 마드리드</a></strong></p></td>
@@ -1144,7 +1119,7 @@ UEFA 챔피언스리그 예선에 참가하는 각국 리그 우승팀들이 예
 <td><p><a href="https://ko.wikipedia.org/wiki/데신샤르피외" title="wikilink">데신샤르피외</a><br />
 <a href="../Page/파르크_올랭피크_리오네.md" title="wikilink">파르크 올랭피크 리오네</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2018/19<br />
 <small><em><a href="../Page/2018-19년_UEFA_유로파리그.md" title="wikilink">세부 정보</a></em></small></p></td>
 <td><p><strong><a href="../Page/첼시_FC.md" title="wikilink">첼시</a></strong></p></td>
@@ -1153,7 +1128,7 @@ UEFA 챔피언스리그 예선에 참가하는 각국 리그 우승팀들이 예
 <td><p><a href="../Page/바쿠.md" title="wikilink">바쿠</a><br />
 <a href="../Page/바쿠_올림픽_경기장.md" title="wikilink">바쿠 올림픽 경기장</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2019/20<br />
 <small><em><a href="../Page/2019-20년_UEFA_유로파리그.md" title="wikilink">세부 정보</a></em></small></p></td>
 <td><p><strong><a href="https://ko.wikipedia.org/wiki/?" title="wikilink">?</a></strong></p></td>
@@ -1162,7 +1137,7 @@ UEFA 챔피언스리그 예선에 참가하는 각국 리그 우승팀들이 예
 <td><p><a href="../Page/그단스크.md" title="wikilink">그단스크</a><br />
 <a href="../Page/스타디온_에네르가_그단스크.md" title="wikilink">스타디온 에네르가 그단스크</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2020/21<br />
 <small><em><a href="https://ko.wikipedia.org/wiki/2020-21년_UEFA_유로파리그" title="wikilink">세부 정보</a></em></small></p></td>
 <td><p><strong><a href="https://ko.wikipedia.org/wiki/?" title="wikilink">?</a></strong></p></td>
@@ -1601,7 +1576,7 @@ UEFA 챔피언스리그 예선에 참가하는 각국 리그 우승팀들이 예
 <td><p><a href="../Page/2010-11년_UEFA_유로파리그.md" title="wikilink">2011</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/FC_드니프로_드니프로페트로우스크.md" title="wikilink">드니프로 드니프로페트로우스크</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/FC_드니프로" title="wikilink">드니프로</a></p></td>
 <td><p>0</p></td>
 <td><p>1</p></td>
 <td><p>—</p></td>

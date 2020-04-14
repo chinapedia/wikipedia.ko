@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [LG ](https://ko.wikipedia.org/wiki/LG_).
+> This article is converted from Wikipedia: [LG전자의 역사](https://ko.wikipedia.org/wiki/LG전자의_역사).
 
 
 다음은 **[LG전자](../Page/LG전자.md "wikilink")**의 역사에 관한 연대표이다.

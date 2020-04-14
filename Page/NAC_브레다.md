@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [NAC ](https://ko.wikipedia.org/wiki/NAC_).
+> This article is converted from Wikipedia: [NAC 브레다](https://ko.wikipedia.org/wiki/NAC_브레다).
 
 
 **NAC 브레다** (NOAD ADVENDO Combinatie Breda)는 [네덜란드](../Page/네덜란드.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다. 연고지는 [브레다](https://ko.wikipedia.org/wiki/브레다 "wikilink")이며, [1912년](../Page/1912년.md "wikilink") [9월 12일에](../Page/9월_12일.md "wikilink") NOAD와 ADVENDO 두 클럽의 통합으로 창단되었다. NAC의 클럽 공식 명칭은 Nooit opgeven altijd doorzetten Aangenaam door vermaak en nuttig door ontspanning Combinatie Breda으로 아마 세계에서 가장 긴 이름일 것이다.[1](http://www.guardian.co.uk/football/2005/dec/14/theknowledge.sport)

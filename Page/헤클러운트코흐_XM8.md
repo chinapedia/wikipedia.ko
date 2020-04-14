@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ XM8](https://ko.wikipedia.org/wiki/_XM8).
+> This article is converted from Wikipedia: [헤클러운트코흐 XM8](https://ko.wikipedia.org/wiki/헤클러운트코흐_XM8).
 
 
 **XM8**은 [미군](../Page/미군.md "wikilink")에서 사용되고 있는 [M16 소총을](../Page/M16_소총.md "wikilink") 대체하기 위해 개발된 [헤클러&코흐](https://ko.wikipedia.org/wiki/헤클러&코흐 "wikilink") 사의 [돌격소총](../Page/돌격소총.md "wikilink")이다.

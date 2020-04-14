@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ATi  R200 ](https://ko.wikipedia.org/wiki/ATi__R200_).
+> This article is converted from Wikipedia: [ATi 라데온 R200 시리즈](https://ko.wikipedia.org/wiki/ATi_라데온_R200_시리즈).
 
 
 **라데온 R200**(코드이름 Chaplin)은 [ATI 테크놀로지스사에서](../Page/ATI_테크놀로지스.md "wikilink") 출시한 라데온 그래픽스 칩의 2세대 모델이다. 이 모델은 [엔비디아](../Page/엔비디아.md "wikilink")와 본격적으로 경쟁에 돌입하게 되었다.

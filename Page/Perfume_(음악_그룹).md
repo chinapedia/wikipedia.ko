@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Perfume \( \)](https://ko.wikipedia.org/wiki/Perfume_\(_\)).
+> This article is converted from Wikipedia: [Perfume \(음악 그룹\)](https://ko.wikipedia.org/wiki/Perfume_\(음악_그룹\)).
 
 
 **Perfume**(퍼퓸, )은 [일본](../Page/일본.md "wikilink")의 [히로시마 시](https://ko.wikipedia.org/wiki/히로시마_시 "wikilink") 출신의 여성 3명으로 이루어진 [걸 그룹이다](../Page/걸_그룹.md "wikilink"). 니시와키 아야카, 카시노 유카, 오모토 아야노로 구성되어 있다. 2001년에 히로시마에서 데뷔했으며, [2005년](../Page/2005년.md "wikilink")부터는 메이저 레이블과 계약하며 [신스팝](https://ko.wikipedia.org/wiki/신스팝 "wikilink") 장르의 음악을 주로 발매했다.

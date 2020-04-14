@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TV  ](https://ko.wikipedia.org/wiki/TV__).
+> This article is converted from Wikipedia: [TV특종 놀라운 세상](https://ko.wikipedia.org/wiki/TV특종_놀라운_세상).
 
 
 《**TV특종 놀라운 세상**》은 [MBC TV에서](../Page/MBC_TV.md "wikilink") 방송되었던 [예능](https://ko.wikipedia.org/wiki/예능 "wikilink") 프로그램이다.
@@ -51,6 +51,7 @@
 
 ## 같이 보기
 
+  - [순간포착 세상에 이런일이](../Page/순간포착_세상에_이런일이.md "wikilink") (SBS TV)
   - [현장르포 특종세상](../Page/현장르포_특종세상.md "wikilink") (MBN)
 
 ## 각주

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [AFC ](https://ko.wikipedia.org/wiki/AFC_).
+> This article is converted from Wikipedia: [AFC 프레지던트컵](https://ko.wikipedia.org/wiki/AFC_프레지던트컵).
 
 
 **AFC 프레지던트컵**(AFC President's Cup)은 [아시아 축구 연맹의](../Page/아시아_축구_연맹.md "wikilink") 회원국의 클럽팀이 참가하던 [축구](../Page/축구.md "wikilink") 대회로 매년 열리는 대회였다. 2014년 시즌을 끝으로 폐지되었다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [   \(How Bad Do U Want It\?\)](https://ko.wikipedia.org/wiki/___\(How_Bad_Do_U_Want_It\?\)).
+> This article is converted from Wikipedia: [넌 얼마나 절실하니 \(How Bad Do U Want It\?\)](https://ko.wikipedia.org/wiki/넌_얼마나_절실하니_\(How_Bad_Do_U_Want_It\?\)).
 
 
 《**How Bad Do U Want It?**》는 [2007년](../Page/2007년.md "wikilink") 3월에 발매된 대한민국의 힙합 가수 [MC 스나이퍼의](../Page/MC_스나이퍼.md "wikilink") 4집으로, 6개의 곡에 선정적인 가사가 있어 19세 이상의 나이를 가진 사람만 앨범을 구입할 수 있다. 이 중 '안양1번가'는 [MC 스나이퍼](../Page/MC_스나이퍼.md "wikilink") 자신이 실제로 겪은 일을 바탕으로 만든 곡이다.\[1\]

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FC ](https://ko.wikipedia.org/wiki/FC_).
+> This article is converted from Wikipedia: [FC 파두츠](https://ko.wikipedia.org/wiki/FC_파두츠).
 
 
 **FC 파두츠**()는 [리히텐슈타인](../Page/리히텐슈타인.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽으로 2009-10 시즌부터 [스위스 챌린지리그에서](../Page/스위스_챌린지리그.md "wikilink") 활동하고 있다. 리히텐슈타인에는 고유의 축구 리그가 존재하지 않기 때문에 리히텐슈타인의 축구 클럽들은 모두 스위스의 축구 리그에 참가하고 있다. 연고지는 리히텐슈타인의 [수도](../Page/수도.md "wikilink")인 [파두츠](../Page/파두츠.md "wikilink")에 위치한 [라인파르크 슈타디온이다](../Page/라인파르크_슈타디온.md "wikilink"). 한때 FC 파두츠는 [오스트리아](../Page/오스트리아.md "wikilink")의 축구 리그에서 활동한 경험이 있다.

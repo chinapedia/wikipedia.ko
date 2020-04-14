@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [We Are the World \(\)](https://ko.wikipedia.org/wiki/We_Are_the_World_\(\)).
+> This article is converted from Wikipedia: [We Are the World \(음반\)](https://ko.wikipedia.org/wiki/We_Are_the_World_\(음반\)).
 
 
 《***We Are the World***》는 1985년, [에티오피아](../Page/에티오피아.md "wikilink") 빈민 구호 활동이란 취지로 미국에서 제작된 [USA for Africa의](https://ko.wikipedia.org/wiki/USA_for_Africa "wikilink") 앨범이다. USA for Africa는 미국의 가수이자 인권 운동가인 [해리 벨라폰테가](../Page/해리_벨라폰테.md "wikilink") 무보수로 자선 앨범 제작에 동참할 45명의 뮤지션을 모아서 만든 프로젝트 그룹이다. 1984년 밥 겔도프 등 영국 아티스트들이 만든 자선 앨범《*[Do They Know It’s Christmas](https://ko.wikipedia.org/wiki/Do_They_Know_It’s_Christmas "wikilink")*》에서 영감을 얻었다.

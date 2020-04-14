@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FC  ](https://ko.wikipedia.org/wiki/FC__).
+> This article is converted from Wikipedia: [FC 인테르 투르쿠](https://ko.wikipedia.org/wiki/FC_인테르_투르쿠).
 
 
 **FC 인테르나시오날 투르쿠**는 [핀란드](../Page/핀란드.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽으로, 보통 **FC 인테르**, 또는 **인테르 투르쿠**로 불린다. 인테르 투르쿠는 [1990년](../Page/1990년.md "wikilink")에 창단되어 [1996년](../Page/1996년.md "wikilink")부터 현재까지 핀란드의 프리미어리그인 [베이카우스리가](../Page/베이카우스리가.md "wikilink")에서 활동하고 있다. [TPS와](../Page/투룬_팔로세우라.md "wikilink") 함께 [투르쿠](../Page/투르쿠.md "wikilink") 연고로 베이카우스리가에서 활동하고 있다.

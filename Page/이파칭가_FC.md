@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
+> This article is converted from Wikipedia: [이파칭가 FC](https://ko.wikipedia.org/wiki/이파칭가_FC).
 
 
 **이파칭가 FC**(Ipatinga Futebol Clube)는 [브라질](../Page/브라질.md "wikilink")의 축구 클럽으로, [미나스제라이스주](../Page/미나스제라이스주.md "wikilink")의 [이파칭가](https://ko.wikipedia.org/wiki/이파칭가 "wikilink")를 본거지로 한다. [1998년](../Page/1998년.md "wikilink") [5월 21일에](../Page/5월_21일.md "wikilink") 설립되었다. 재정적인 문제로 [2013년](../Page/2013년.md "wikilink")부터 2년간 일시적으로 [베칭](https://ko.wikipedia.org/wiki/베칭 "wikilink")에서 활동하였으며, 구단명은 **베칭 FC**(Betim Futebol Clube)였다.

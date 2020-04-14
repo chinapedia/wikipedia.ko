@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
+> This article is converted from Wikipedia: [사이파 FC](https://ko.wikipedia.org/wiki/사이파_FC).
 
 
-**사이파 FC** (, )는 [이란](../Page/이란.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽으로 [테헤란 주의](https://ko.wikipedia.org/wiki/테헤란_주 "wikilink") [카라지](../Page/카라지.md "wikilink")를 연고로 [1989년](../Page/1989년.md "wikilink")에 창단되었다. 현재 [페르시안 걸프컵에서](https://ko.wikipedia.org/wiki/페르시안_걸프컵 "wikilink") 활동하고 있다.
+**사이파 FC**(, )는 [이란](../Page/이란.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽으로 [테헤란 주의](https://ko.wikipedia.org/wiki/테헤란_주 "wikilink") [카라지](../Page/카라지.md "wikilink")를 연고로 [1989년](../Page/1989년.md "wikilink")에 창단되었다. 현재 [페르시안 걸프컵에서](https://ko.wikipedia.org/wiki/페르시안_걸프컵 "wikilink") 활동하고 있다.
 
 사이파 FC의 소유주는 이란의 자동차 생산업체인 [사이파이다](https://ko.wikipedia.org/wiki/사이파_\(자동차\) "wikilink").
 

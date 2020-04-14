@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FC ](https://ko.wikipedia.org/wiki/FC_).
+> This article is converted from Wikipedia: [FC 산타콜로마](https://ko.wikipedia.org/wiki/FC_산타콜로마).
 
 
 **FC 산타콜로마**는 [안도라](../Page/안도라.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽으로 [안도라라베야](../Page/안도라라베야.md "wikilink")의 [산타콜로마](https://ko.wikipedia.org/wiki/산타콜로마 "wikilink")를 연고지로 삼고 있다.

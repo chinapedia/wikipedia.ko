@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ Z](https://ko.wikipedia.org/wiki/_Z).
+> This article is converted from Wikipedia: [드래곤볼 Z](https://ko.wikipedia.org/wiki/드래곤볼_Z).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:드래곤볼z.jpg "wikilink")

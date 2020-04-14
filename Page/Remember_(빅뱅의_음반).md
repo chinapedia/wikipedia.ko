@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Remember \( \)](https://ko.wikipedia.org/wiki/Remember_\(_\)).
+> This article is converted from Wikipedia: [Remember \(빅뱅의 음반\)](https://ko.wikipedia.org/wiki/Remember_\(빅뱅의_음반\)).
 
 
 《**REMEMBER**》는 [대한민국](../Page/대한민국.md "wikilink")의 음악 그룹 [빅뱅의](../Page/빅뱅_\(음악_그룹\).md "wikilink") 두 번째 정규 음반이다. 2008년 11월 5일에 YG 엔터테인먼트를 통해 발매되었다.\[1\] 발매 직전, 20만장의 선주문을 기록했다.\[2\] 타이틀 곡 "붉은 노을"은 [이문세](../Page/이문세.md "wikilink")의 동명의 곡을 리메이크했다.\[3\] 2008년에 《[KBS 가요대축제](../Page/KBS_가요대축제.md "wikilink")》에서 빅뱅과 이문세가 함께 합동 무대를 선보이기도 했다.\[4\] 수록곡 "Strong Baby"는 [승리의](../Page/승리_\(가수\).md "wikilink") 솔로 곡으로 2009년 1월 1일 뮤직 비디오가 공개되었다.\[5\]

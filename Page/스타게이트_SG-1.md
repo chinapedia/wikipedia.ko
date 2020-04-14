@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ SG-1](https://ko.wikipedia.org/wiki/_SG-1).
+> This article is converted from Wikipedia: [스타게이트 SG-1](https://ko.wikipedia.org/wiki/스타게이트_SG-1).
 
 
 **스타게이트 SG-1**(Stargate SG-1)은 [1994년](../Page/1994년.md "wikilink") SF 영화 [스타게이트](https://ko.wikipedia.org/wiki/스타게이트 "wikilink")의 스토리에 이어서 제작된 드라마로 [스타게이트라](../Page/스타게이트_\(장치\).md "wikilink") 불리는 문을 이용하여 행성간을 이동하며 모험을 하는 내용이다. SG-1은 스타게이트를 통해 탐사를 수행하는 팀들 중 첫 번째라는 뜻으로, 드라마의 주연들이 소속된 팀이다. [맥가이버](../Page/맥가이버.md "wikilink")의 주인공인 [리처드 딘 앤더슨이](../Page/리처드_딘_앤더슨.md "wikilink") 미국 공군의 *잭 오닐* 대령으로서, SG-1을 이끈다. 이후 *잭 오닐*은 시즌 8에서 [준장](https://ko.wikipedia.org/wiki/준장 "wikilink")으로 승진한다. 총 10개의 시즌으로 구성되며, 시즌당 20여편으로 구성된다.

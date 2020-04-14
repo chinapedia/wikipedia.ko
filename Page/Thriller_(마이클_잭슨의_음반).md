@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Thriller \(  \)](https://ko.wikipedia.org/wiki/Thriller_\(__\)).
+> This article is converted from Wikipedia: [Thriller \(마이클 잭슨의 음반\)](https://ko.wikipedia.org/wiki/Thriller_\(마이클_잭슨의_음반\)).
 
 
 《**Thriller**》는 미국의 가수 [마이클 잭슨의](https://ko.wikipedia.org/wiki/마이클_잭슨 "wikilink") 여섯 번째 스튜디오 음반이자 성인 시절 두 번째 음반이다. 1982년 11월 30일 [에픽 레코드를](../Page/에픽_레코드.md "wikilink") 통해 발매되었다. 《Thriller》는 이전 작인 《[Off the Wall](../Page/Off_the_Wall.md "wikilink")》과 비슷한 장르로 이루어져 있는데, [포스트 디스코](https://ko.wikipedia.org/wiki/포스트_디스코 "wikilink"), [팝](../Page/팝_음악.md "wikilink"), [알앤비](https://ko.wikipedia.org/wiki/컨템포러리_알앤비 "wikilink"), [록](../Page/록_음악.md "wikilink"), [펑크](../Page/펑크.md "wikilink"), [어덜트 컨템포러리 음악을](https://ko.wikipedia.org/wiki/어덜트_컨템포러리_음악 "wikilink") 실었다.\[1\]\[2\]\[3\] 녹음은 로스앤젤레스의 [웨스트레이크 레코딩 스튜디오에서](https://ko.wikipedia.org/wiki/웨스트레이크_레코딩_스튜디오 "wikilink") 1982년 4월부터 11월까지 프로듀서 [퀸시 존스의](../Page/퀸시_존스.md "wikilink") 지원하에 75만 달러 제작비로 진행했다.

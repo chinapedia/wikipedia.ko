@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [DJ ](https://ko.wikipedia.org/wiki/DJ_).
+> This article is converted from Wikipedia: [DJ 프리미어](https://ko.wikipedia.org/wiki/DJ_프리미어).
 
 
 **DJ 프리미어**(, , [1966년](../Page/1966년.md "wikilink") [3월 21일](../Page/3월_21일.md "wikilink") \~ )는 미국의 [힙합](../Page/힙합.md "wikilink") 그룹 [갱스타](https://ko.wikipedia.org/wiki/갱스타 "wikilink")의 [프로듀서](https://ko.wikipedia.org/wiki/음반_프로듀서 "wikilink") 겸 [DJ이다](https://ko.wikipedia.org/wiki/디스크자키 "wikilink"). 프리모 (Premo/Primo), 프림 (Preem)으로도 불린다. 그룹 [갱스타](https://ko.wikipedia.org/wiki/갱스타 "wikilink")의 나머지 멤버는 MC Guru이다. 원래 [휴스턴](../Page/휴스턴.md "wikilink") 출신인 프리미어는, 뉴욕 [브루클린](../Page/브루클린.md "wikilink")에서 그의 거의 대부분의 음악 인생을 보냈다. 현재 그는 "무거운 [드럼](https://ko.wikipedia.org/wiki/드럼셋 "wikilink") 사운드와 듬성듬성하게 순환되는 샘플로 알려진 [하드코어](../Page/하드코어_펑크.md "wikilink") [이스트코스트 힙합](../Page/이스트코스트_힙합.md "wikilink")"(hardcore East Coast hip-hop known by its heavy drums and sparse loops)의 창시자로 추앙받고 있다.\[1\].

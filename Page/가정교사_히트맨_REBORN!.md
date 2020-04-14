@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  REBORN!](https://ko.wikipedia.org/wiki/__REBORN!).
+> This article is converted from Wikipedia: [가정교사 히트맨 REBORN!](https://ko.wikipedia.org/wiki/가정교사_히트맨_REBORN!).
 
 
 《**가정교사 히트맨 REBORN\!**》()은 [아마노 아키라가](https://ko.wikipedia.org/wiki/아마노_아키라 "wikilink") [슈에이샤](../Page/슈에이샤.md "wikilink")의 [주간 소년 점프에서](../Page/주간_소년_점프.md "wikilink") [2004년](../Page/2004년.md "wikilink") 26호에서부터 연재하기 시작한 만화이며 [2013년](../Page/2013년.md "wikilink") [3월](../Page/3월.md "wikilink") 기준으로 단행본 42권까지 발매했다.

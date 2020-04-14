@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FC TVMK ](https://ko.wikipedia.org/wiki/FC_TVMK_).
+> This article is converted from Wikipedia: [FC TVMK 탈린](https://ko.wikipedia.org/wiki/FC_TVMK_탈린).
 
 
 **FC TVMK 탈린**은 [에스토니아](../Page/에스토니아.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽으로, 수도인 [탈린](../Page/탈린.md "wikilink")을 연고지로 삼고 있다. 2005년에는 최초로 [에스토니아 메이스트릴리가](https://ko.wikipedia.org/wiki/에스토니아_메이스트릴리가 "wikilink") 우승을 차지하였다. TVMK의 홈구장은 [카드리오루 경기장인데](https://ko.wikipedia.org/wiki/카드리오루_경기장 "wikilink"), [레바디아 탈린과](../Page/FC_레바디아_탈린.md "wikilink") 경기장을 함께 사용하였었다. 2008시즌이 끝나고 나서 클럽은 해산되었다.

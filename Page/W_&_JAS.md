@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [W \& JAS](https://ko.wikipedia.org/wiki/W_\&_JAS).
 
 
-**더블유 앤 자스** ()는 [전자 음악](../Page/전자_음악.md "wikilink") 장르 중 하나인 [일렉트로니카](https://ko.wikipedia.org/wiki/일렉트로니카 "wikilink")를 바탕으로 한 [대한민국](../Page/대한민국.md "wikilink")의 [전자 음악](../Page/전자_음악.md "wikilink") 그룹이다. 소속사는 [플럭서스 뮤직이다](../Page/플럭서스_뮤직.md "wikilink").\[1\]\[2\]\[3\]
+**더블유 앤 자스**()는 [전자 음악](../Page/전자_음악.md "wikilink") 장르 중 하나인 [일렉트로니카](https://ko.wikipedia.org/wiki/일렉트로니카 "wikilink")를 바탕으로 한 [대한민국](../Page/대한민국.md "wikilink")의 [전자 음악](../Page/전자_음악.md "wikilink") 그룹이다. 소속사는 [플럭서스 뮤직이다](../Page/플럭서스_뮤직.md "wikilink").\[1\]\[2\]\[3\]
 
 ## 발자취
 

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ B.I.G.](https://ko.wikipedia.org/wiki/_B.I.G.).
+> This article is converted from Wikipedia: [노토리어스 B.I.G.](https://ko.wikipedia.org/wiki/노토리어스_B.I.G.).
 
 
 **노토리어스 B.I.G.**(The Notorious B.I.G. 본명: Christopher George Letore Wallace)([1972년](../Page/1972년.md "wikilink") [5월 21일](../Page/5월_21일.md "wikilink") \~ [1997년](../Page/1997년.md "wikilink") [3월 9일](../Page/3월_9일.md "wikilink"))은 미국의 래퍼이다. 그는 [뉴욕](../Page/뉴욕.md "wikilink") 출신의 래퍼이며, 히트 앨범이자 데뷔 앨범인 'Ready To Die'로 데뷔했다. 이 앨범으로 그는 '[이스트 코스트](https://ko.wikipedia.org/wiki/이스트_코스트_힙합 "wikilink") 스타일'이라는 힙합장르를 창조했고, 결국에는 [투팍](https://ko.wikipedia.org/wiki/투팍 "wikilink")을 거점으로 하는 '[웨스트 코스트](https://ko.wikipedia.org/wiki/웨스트_코스트_힙합 "wikilink")'와 치열한 [디스](https://ko.wikipedia.org/wiki/디스 "wikilink")전이 있었다.

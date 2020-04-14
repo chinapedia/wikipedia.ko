@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FK  ](https://ko.wikipedia.org/wiki/FK__).
+> This article is converted from Wikipedia: [FK 부두치노스트 포드고리차](https://ko.wikipedia.org/wiki/FK_부두치노스트_포드고리차).
 
 
 **FK 부두치노스트 포드고리차**(FK Budućnost Podgorica)는 [몬테네그로](../Page/몬테네그로.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽으로 [수도](../Page/수도.md "wikilink")인 [포드고리차](../Page/포드고리차.md "wikilink")에 연고를 두고 있다. 현재 [몬테네그로 1부 리그에](../Page/몬테네그로_1부_리그.md "wikilink") 참가하고 있으며, 2007-08시즌에 우승을 하였다.

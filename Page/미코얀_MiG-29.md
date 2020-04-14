@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ MiG-29](https://ko.wikipedia.org/wiki/_MiG-29).
+> This article is converted from Wikipedia: [미코얀 MiG-29](https://ko.wikipedia.org/wiki/미코얀_MiG-29).
 
 
 **미코얀 MiG-29**는 [Su-27](https://ko.wikipedia.org/wiki/Su-27 "wikilink")과 함께 러시아를 대표하는 전투기로 [제4세대 전투기로서](../Page/4세대_전투기.md "wikilink") [1968년](../Page/1968년.md "wikilink")부터 배치한 [미그-23보다](../Page/미코얀-구레비치_MiG-23.md "wikilink") 우수하다. 보통은 [F-16](https://ko.wikipedia.org/wiki/F-16 "wikilink")(19톤)에 미그-29(21톤), [F-15](https://ko.wikipedia.org/wiki/F-15 "wikilink")(30톤)에 [Su-27](https://ko.wikipedia.org/wiki/Su-27 "wikilink")(30톤)을 비교하지만, 유럽에서 [Su-27](https://ko.wikipedia.org/wiki/Su-27 "wikilink")에 대응하기 위해 만든 [라팔](https://ko.wikipedia.org/wiki/라팔 "wikilink")(24톤), [타이푼](https://ko.wikipedia.org/wiki/타이푼 "wikilink")(24톤)은 미그-29(21톤)와 같은 추력 11000파운드 엔진 2개를 사용한다.

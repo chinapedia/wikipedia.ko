@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FIFA U-17  ](https://ko.wikipedia.org/wiki/FIFA_U-17__).
+> This article is converted from Wikipedia: [FIFA U-17 여자 월드컵](https://ko.wikipedia.org/wiki/FIFA_U-17_여자_월드컵).
 
 
 **FIFA U-17 여자 월드컵**()은 [FIFA](https://ko.wikipedia.org/wiki/FIFA "wikilink")에 가입된 17세 이하의 여자 축구 대표팀들이 참여하는 국제 대회이다. 대회는 짝수 해마다 열리는데, 첫 대회는 2008년에 열렸다.

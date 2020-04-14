@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ TNT2](https://ko.wikipedia.org/wiki/_TNT2).
+> This article is converted from Wikipedia: [리바 TNT2](https://ko.wikipedia.org/wiki/리바_TNT2).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:TNT2.jpg "wikilink") **리바 TNT2**(RIVA TNT2)는 [엔비디아](../Page/엔비디아.md "wikilink")가 1999년 초에 출시한 3차원 그래픽스 칩이다. 이 칩은 코드이름을 NV5라 불렀는데 엔비디아가 [리바 TNT](../Page/리바_TNT.md "wikilink")(NV4)에 이어 5번째 그래픽스 칩을 생산한 것이 그 까닭이다. 0.25um 제조공정을 통해 클럭을 125MHz로 높이고 일부 최적화를 단행하여 성능을 끌어올렸다. 리바(RIVA)라는 이름은 ***R**eal-time **I**nteractive **V**ideo and **A**nimation accelerator*의 준말이다.\[1\] TNT는 두 개의 텍셀을 한 번에 처리할 수 있음을 가리킨다. (트윈 텍셀, ***T**wi**N** **T**exel*)\[2\] 엔비디아는 이 제품 이후로 나오는 그래픽 카드부터는 "리바"라는 이름을 사용하지 않는다.\[3\]

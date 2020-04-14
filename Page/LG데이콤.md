@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [LG](https://ko.wikipedia.org/wiki/LG).
+> This article is converted from Wikipedia: [LG데이콤](https://ko.wikipedia.org/wiki/LG데이콤).
 
 
-**LG데이콤**은 정부의 [대한민국](../Page/대한민국.md "wikilink")의 기간통신 사업자였으며, [2010년](../Page/2010년.md "wikilink") [LG파워콤](../Page/LG파워콤.md "wikilink")과 함께 [통합LG텔레콤으로](../Page/LG유플러스.md "wikilink") 합병되었다. 그 뒤에 사명변경으로 통합 LG텔레콤은 LG유플러스로 변경되었다.
+**LG데이콤**은 정부의 [대한민국](../Page/대한민국.md "wikilink")의 기간통신 사업자였으며, [2010년](../Page/2010년.md "wikilink") [LG파워콤](../Page/LG파워콤.md "wikilink")과 함께 [통합LG텔레콤으로](../Page/LG유플러스.md "wikilink") 합병되었다. 그 뒤에 사명을 통합LG텔레콤에서 LG유플러스로 변경되었다.
 
 ## 역사
 
@@ -13,7 +13,7 @@
 
 ## MyLG070
 
-myLG070은 초고속 인터넷을 이용하는 [2007년](../Page/2007년.md "wikilink") [6월 20일에](../Page/6월_20일.md "wikilink") 시작한 LG데이콤의 인터넷전화 서비스이며, 전화통화뿐만 아니라 문자메시지까지 이용할 수 있는 서비스이다. 2009년 12월 31일 LG텔레콤, LG파워콤과 합병하여 통합LG텔레콤의 인터넷전화 서비스로서 제공중이며 2010년 7월 1일 사명변경(통합LG텔레콤 → LG U+)에 따라 myLG070 서비스명도 U+ 070으로 변경되었다.
+myLG070은 초고속 인터넷을 이용하는 [2007년](../Page/2007년.md "wikilink") [6월 20일에](../Page/6월_20일.md "wikilink") 시작한 LG데이콤의 인터넷전화 서비스며, 전화통화부터 문자메시지까지 이용할 수 있는 서비스다. 2009년 12월 31일 LG텔레콤, LG파워콤과 합병하여 통합LG텔레콤의 인터넷전화 서비스로서 제공중이며 2010년 7월 1일 사명변경(통합LG텔레콤 → LG U+)에 따라 myLG070 서비스명도 U+ 070으로 변경되었다.
 
 ### 특징
 

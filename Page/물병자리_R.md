@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ R](https://ko.wikipedia.org/wiki/_R).
+> This article is converted from Wikipedia: [물병자리 R](https://ko.wikipedia.org/wiki/물병자리_R).
 
 
 **물병자리 R**은 물병자리에 있는 [변광성](../Page/변광성.md "wikilink")이다.

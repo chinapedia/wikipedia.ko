@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [AMD   ](https://ko.wikipedia.org/wiki/AMD___).
+> This article is converted from Wikipedia: [AMD 가속 처리 장치](https://ko.wikipedia.org/wiki/AMD_가속_처리_장치).
 
 
-**AMD 가속 처리 장치**()는 [AMD](https://ko.wikipedia.org/wiki/AMD "wikilink")가 개발하고 판매중인 [마이크로프로세서](../Page/마이크로프로세서.md "wikilink") 브랜드이다. 범용 연산을 하는 [CPU와](../Page/중앙_처리_장치.md "wikilink") 3차원 기하학적 연산을 하는 [GPU를](../Page/그래픽_처리_장치.md "wikilink") 하나의 [다이](../Page/다이_\(집적_회로\).md "wikilink") 안에 접합시켜, 두 개의 다른 장치가 하나처럼 작동하는 것을 목표로 설계되었다. [2006년](../Page/2006년.md "wikilink")에 [AMD](https://ko.wikipedia.org/wiki/AMD "wikilink")가 [ATI를](../Page/ATI_테크놀로지스.md "wikilink") 인수한 이후 개발을 시작했으며, [2011년](../Page/2011년.md "wikilink") [1월](../Page/1월.md "wikilink") [CES](https://ko.wikipedia.org/wiki/CES "wikilink") 2011에서 첫 선을 보였다.\[1\] \[2\] 하지만 [2018년](../Page/2018년.md "wikilink"), [AMD](https://ko.wikipedia.org/wiki/AMD "wikilink")가 8세대 APU 레이븐 릿지를 [라이젠](https://ko.wikipedia.org/wiki/라이젠 "wikilink") 브랜드로 통합시킴에 따라 현재는 라이젠 브랜드 산하의 제품군으로 자리잡았다.
+**AMD 가속 처리 장치**()는 [AMD](https://ko.wikipedia.org/wiki/AMD "wikilink")가 개발하고 판매중인 [마이크로프로세서](../Page/마이크로프로세서.md "wikilink") 브랜드의 [마케팅](../Page/마케팅.md "wikilink") [용어](https://ko.wikipedia.org/wiki/용어 "wikilink")이다. 범용 연산을 하는 [CPU와](../Page/중앙_처리_장치.md "wikilink") 3차원 기하학적 연산을 하는 [GPU를](../Page/그래픽_처리_장치.md "wikilink") 하나의 [다이](../Page/다이_\(집적_회로\).md "wikilink") 안에 접합시켜, 두 개의 다른 장치가 하나처럼 작동하는 것을 목표로 설계되었다. [2006년](../Page/2006년.md "wikilink")에 [AMD](https://ko.wikipedia.org/wiki/AMD "wikilink")가 [ATI를](../Page/ATI_테크놀로지스.md "wikilink") 인수한 이후 개발을 시작했으며, [2011년](../Page/2011년.md "wikilink") [1월](../Page/1월.md "wikilink") [CES](https://ko.wikipedia.org/wiki/CES "wikilink") 2011에서 첫 선을 보였다.\[1\] \[2\] 하지만 [2018년](../Page/2018년.md "wikilink"), [AMD](https://ko.wikipedia.org/wiki/AMD "wikilink")가 8세대 APU 레이븐 릿지를 [라이젠](https://ko.wikipedia.org/wiki/라이젠 "wikilink") 브랜드로 통합시킴에 따라 현재는 라이젠 브랜드 산하의 제품군으로 자리잡았다.
 
 ## 역사
 

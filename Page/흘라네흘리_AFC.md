@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ AFC](https://ko.wikipedia.org/wiki/_AFC).
+> This article is converted from Wikipedia: [흘라네흘리 AFC](https://ko.wikipedia.org/wiki/흘라네흘리_AFC).
 
 
 **흘라네흘리 AFC**는 [웨일스](../Page/웨일스.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽으로 [웨일스 프리미어리그에](https://ko.wikipedia.org/wiki/웨일스_프리미어리그 "wikilink") 참가하고 있다. 클럽의 홈구장은 [스테본히스 파크로](https://ko.wikipedia.org/wiki/스테본히스_파크 "wikilink") 3,700명의 관중을 수용할 수 있다.

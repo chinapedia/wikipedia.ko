@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FC ](https://ko.wikipedia.org/wiki/FC_).
+> This article is converted from Wikipedia: [FC 다우가바](https://ko.wikipedia.org/wiki/FC_다우가바).
 
 
 **FC 다우가바 다우가프필스**는 [라트비아](../Page/라트비아.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽으로 [다우가프필스](../Page/다우가프필스.md "wikilink")를 연고지로 삼고 있던 팀이다.

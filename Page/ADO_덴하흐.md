@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ADO ](https://ko.wikipedia.org/wiki/ADO_).
+> This article is converted from Wikipedia: [ADO 덴하흐](https://ko.wikipedia.org/wiki/ADO_덴하흐).
 
 
 **ADO 덴하흐**는 [네덜란드](../Page/네덜란드.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다. 클럽명의 ADO는 , 이라는 의미를 가지고 있다. 클럽의 연고지는 [헤이그](../Page/헤이그.md "wikilink")(네덜란드어로 덴하흐)로 [1905년](../Page/1905년.md "wikilink") [2월 1일에](../Page/2월_1일.md "wikilink") 창단되었다. 홀란트 스포르트 (Holland Sport)와 ADO 덴하흐의 합병으로 **FC 덴하흐**로 불리기도 하다가 다시 현재의 명칭으로 변경하였다. ADO는 [네덜란드](../Page/네덜란드.md "wikilink")의 3대 도시 중의 하나인 헤이그에 연고지를 두고 있지만, 또다른 3대 도시에 자리잡고 있는 [아약스나](../Page/AFC_아약스.md "wikilink") [페예노르트](../Page/페예노르트.md "wikilink")의 성공에 비한다면 큰 성공을 이루지는 못하였다.

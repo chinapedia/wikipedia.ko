@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ SA](https://ko.wikipedia.org/wiki/_SA).
+> This article is converted from Wikipedia: [피아제 SA](https://ko.wikipedia.org/wiki/피아제_SA).
 
 
 **피아제 SA**()는 1874년 [조르주 피아제](https://ko.wikipedia.org/wiki/조르주_피아제 "wikilink")(Georges Piaget)가 스위스의 라코토페(La Côte aux Fées)에 설립한 시계, 보석 제조 회사이다. 이 회사는 명품 산업 전문인 스위스 [리치몬트 그룹](https://ko.wikipedia.org/wiki/리치몬트 "wikilink") 소속이다.

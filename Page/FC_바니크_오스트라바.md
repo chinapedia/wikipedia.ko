@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FC  ](https://ko.wikipedia.org/wiki/FC__).
+> This article is converted from Wikipedia: [FC 바니크 오스트라바](https://ko.wikipedia.org/wiki/FC_바니크_오스트라바).
 
 
 [right](https://ko.wikipedia.org/wiki/파일:Ostrava,_FC_Baník_2.jpg "wikilink")

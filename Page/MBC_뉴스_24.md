@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [MBC  24](https://ko.wikipedia.org/wiki/MBC__24).
+> This article is converted from Wikipedia: [MBC 뉴스 24](https://ko.wikipedia.org/wiki/MBC_뉴스_24).
 
 
 《**MBC 뉴스 24**》()는 매주 평일 밤 12시대에 방송되었던 [문화방송의 뉴스 프로그램이다](../Page/문화방송의_뉴스_프로그램.md "wikilink").
@@ -181,7 +181,7 @@
 | 5대  | [정동영](../Page/정동영.md "wikilink") 前 기자                        | 1988년 \~ 1989년                 |            |
 | 6대  | [이창섭](https://ko.wikipedia.org/wiki/이창섭 "wikilink") 前 아나운서   | 1989년 \~ 일자 미상                 |            |
 | 7대  | [성경환](../Page/성경환.md "wikilink") 前 아나운서                      | 1994년 10월 19일 \~ 1995년 9월 2일   |            |
-| 8대  | [신동호](../Page/신동호_\(아나운서\).md "wikilink") 아나운서               | 1995년 9월 5일 \~ 1996년 3월 2일     |            |
+| 8대  | [신동호](../Page/신동호_\(아나운서\).md "wikilink") 前 아나운서             | 1995년 9월 5일 \~ 1996년 3월 2일     |            |
 | 9대  | [김창옥](../Page/김창옥_\(언론인\).md "wikilink") 前 아나운서              | 1996년 3월 5일 \~ 1996년 10월 19일   |            |
 | 10대 | [성경환](../Page/성경환.md "wikilink") 前 아나운서                      | 1996년 10월 21일 \~ 1997년 10월 17일 | \[1\]      |
 | 11대 | [김창옥](../Page/김창옥_\(언론인\).md "wikilink") 前 아나운서              | 1997년 10월 20일 \~ 1998년 4월 17일  | \[2\]      |

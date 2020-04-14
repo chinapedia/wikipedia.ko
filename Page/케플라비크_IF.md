@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [ IF](https://ko.wikipedia.org/wiki/_IF).
+> This article is converted from Wikipedia: [케플라비크 IF](https://ko.wikipedia.org/wiki/케플라비크_IF).
 
 
-**케플라비크 IF** ()는 [아이슬란드](../Page/아이슬란드.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽으로 [1929년](../Page/1929년.md "wikilink")에 창단되었다.
+**케플라비크 IF**()는 [아이슬란드](../Page/아이슬란드.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽으로 [1929년](../Page/1929년.md "wikilink")에 창단되었다.
 
 ## 역대 우승기록
 

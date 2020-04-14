@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [RCA \(\)](https://ko.wikipedia.org/wiki/RCA_\(\)).
+> This article is converted from Wikipedia: [RCA \(기업\)](https://ko.wikipedia.org/wiki/RCA_\(기업\)).
 
 
 **RCA**()는 **라디오 코퍼래이션 오브 아메리카**(Radio Corporation of America)의 약자로 [1919년](../Page/1919년.md "wikilink")부터 [1986년](../Page/1986년.md "wikilink")까지 존재한 전자 회사이다.

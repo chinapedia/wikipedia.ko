@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ FK](https://ko.wikipedia.org/wiki/_FK).
+> This article is converted from Wikipedia: [프레드릭스타드 FK](https://ko.wikipedia.org/wiki/프레드릭스타드_FK).
 
 
 **프레드릭스타드 FK**, 또는 **프레드릭스타드**, **FFK**라고도 알려져 있는 이 클럽은 [노르웨이](../Page/노르웨이.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽으로 [1903년](../Page/1903년.md "wikilink")에 [프레드릭스타드](../Page/프레드릭스타드.md "wikilink")를 연고지로 하여 창단하였다. 프레드릭스타드 FK는 2004년 이후부터 [노르웨이 프리미어리그에서](https://ko.wikipedia.org/wiki/노르웨이_프리미어리그 "wikilink") 활동하고 있다. 아홉 번의 리그 우승과 열한 번의 컵 대회 우승 기록을 가지고 있는, 노르웨이에서 성공적인 팀 가운데 하나이다.

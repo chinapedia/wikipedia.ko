@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ DS ](https://ko.wikipedia.org/wiki/_DS_).
+> This article is converted from Wikipedia: [닌텐도 DS 브라우저](https://ko.wikipedia.org/wiki/닌텐도_DS_브라우저).
 
 
 [300픽셀](https://ko.wikipedia.org/wiki/파일:Nintendo_DS_Browser-cartridge_and_DS-Card.jpg "wikilink") **닌텐도 DS 브라우저**()는 오페라 소프트웨어와 [닌텐도](../Page/닌텐도.md "wikilink")에서 [오페라 웹 브라우저를](../Page/오페라_\(웹_브라우저\).md "wikilink") [닌텐도 DS용으로](../Page/닌텐도_DS.md "wikilink") 개발한 제품으로, 닌텐도 DS와 [닌텐도 DS 라이트에서](../Page/닌텐도_DS_라이트.md "wikilink") 사용이 가능하다. 2006년 [일본](../Page/일본.md "wikilink")에서 먼저 발매되었으며 DS용 카트리지 슬롯에 웹 브라우저 카트리지를, GBA용 카트리지 슬롯에 메모리 확장 카트리지를 장착하는 방식으로 사용한다. DS와 DS 라이트용 모두 10MB의 메모리 확장 카트리지를 모두 가지고 있는데, 브라우저를 사용하는 실제 메모리 용량 크기 차이 때문이다.

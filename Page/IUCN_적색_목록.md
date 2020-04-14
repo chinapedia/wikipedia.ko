@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [IUCN  ](https://ko.wikipedia.org/wiki/IUCN__).
+> This article is converted from Wikipedia: [IUCN 적색 목록](https://ko.wikipedia.org/wiki/IUCN_적색_목록).
 
 
 **IUCN 적색목록**(- 赤色目錄) 또는 **IUCN 레드 리스트**(- Red List, 줄여서 레드 리스트)는 세계에서 가장 포괄적인 지구 식물, 동물 [종의](../Page/종_\(생물학\).md "wikilink") [보전 상태의](../Page/보전_상태.md "wikilink") 목록이며, 1963년에 만들어졌다. [국제 자연 보전 연맹](../Page/국제_자연_보전_연맹.md "wikilink")(IUCN)은 종의 보전 상태를 기록하는 세계의 주요 기관이다.\[1\]

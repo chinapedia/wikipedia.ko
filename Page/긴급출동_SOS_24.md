@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ SOS 24](https://ko.wikipedia.org/wiki/_SOS_24).
+> This article is converted from Wikipedia: [긴급출동 SOS 24](https://ko.wikipedia.org/wiki/긴급출동_SOS_24).
 
 
 **긴급출동 SOS 24**는 [SBS](../Page/SBS.md "wikilink")에서 [2005년](../Page/2005년.md "wikilink") [11월 1일부터](../Page/11월_1일.md "wikilink") 방송된 시사/교양 프로그램이다.
@@ -86,7 +86,7 @@
 
 <references/>
 
-[분류:SBS의 시사교양 프로그램](https://ko.wikipedia.org/wiki/분류:SBS의_시사교양_프로그램 "wikilink") [분류:2005년에 시작한 대한민국 TV 프로그램](https://ko.wikipedia.org/wiki/분류:2005년에_시작한_대한민국_TV_프로그램 "wikilink") [분류:2011년에 종료한 대한민국 TV 프로그램](https://ko.wikipedia.org/wiki/분류:2011년에_종료한_대한민국_TV_프로그램 "wikilink") [분류:소재고갈로 인한 폐지된 프로그램](https://ko.wikipedia.org/wiki/분류:소재고갈로_인한_폐지된_프로그램 "wikilink")
+[분류:SBS의 시사교양 프로그램](https://ko.wikipedia.org/wiki/분류:SBS의_시사교양_프로그램 "wikilink") [분류:2005년에 시작한 대한민국 TV 프로그램](https://ko.wikipedia.org/wiki/분류:2005년에_시작한_대한민국_TV_프로그램 "wikilink") [분류:2011년에 종료한 대한민국 TV 프로그램](https://ko.wikipedia.org/wiki/분류:2011년에_종료한_대한민국_TV_프로그램 "wikilink")
 
 1.
 2.  [SBS '찐빵소녀', 거짓방송 논란 일파만파](http://www.newdaily.co.kr/news/article.html?no=50649) - [뉴데일리](../Page/뉴데일리.md "wikilink")

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SeoTaiji and Boys \'93  ](https://ko.wikipedia.org/wiki/SeoTaiji_and_Boys_\'93__).
+> This article is converted from Wikipedia: [SeoTaiji and Boys \'93 마지막 축제](https://ko.wikipedia.org/wiki/SeoTaiji_and_Boys_\'93_마지막_축제).
 
 
 《***Seotaiji and Boys* '93 마지막 축제**》는 [서태지와 아이들의](../Page/서태지와_아이들.md "wikilink") 두 번째 라이브 앨범이다.\[1\]\[2\]\[3\]\[4\] 1집과 2집에 수록되었던 노래들의 라이브 버전이 수록되었다. 《1993년 마지막 축제》라는 이름의 콘서트 현장을 녹음한 것이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Circus \(  \)](https://ko.wikipedia.org/wiki/Circus_\(__\)).
+> This article is converted from Wikipedia: [Circus \(브리트니 스피어스의 음반\)](https://ko.wikipedia.org/wiki/Circus_\(브리트니_스피어스의_음반\)).
 
 
 《**Circus**》는 미국의 가수 [브리트니 스피어스의](../Page/브리트니_스피어스.md "wikilink") 여섯 번째 정규 음반이다. 2008년 11월 28일 [자이브 레코드를](../Page/자이브_레코드.md "wikilink") 통해 발매되었다. 스피어스는 "어둡고 어반 느낌이 나는" 이전 앨범 《[Blackout](https://ko.wikipedia.org/wiki/Blackout "wikilink")》과는 다른 앨범을 만들고 싶어했는데, 일렉트로팝과 댄스 팝 스타일이 포함된 "전보다 조금 더 가벼운" 앨범을 되기를 원했다. 이 음반에선 맥스 마틴같이 기존의 많이 작업해왔던 프로듀서 뿐만 아니라 새로운 프로듀서들과의 작업을 시도했었다. 앨범은 평론가들로부터 대부분 좋은 평가를 받았다. 이 앨범을 발매 후, 브리트니는 한 기록을 세워 [기네스 세계 기록에](../Page/기네스_세계_기록.md "wikilink") 등재되기도 한다.\[1\]

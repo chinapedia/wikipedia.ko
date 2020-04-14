@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ \(BMW\)](https://ko.wikipedia.org/wiki/_\(BMW\)).
+> This article is converted from Wikipedia: [미니 \(BMW\)](https://ko.wikipedia.org/wiki/미니_\(BMW\)).
 
 
 **미니**()는 [독일](../Page/독일.md "wikilink")의 자동차 제조사인 [BMW](../Page/BMW.md "wikilink")의 [전륜구동](../Page/전륜구동.md "wikilink"), 상시 [4륜구동](../Page/4륜구동.md "wikilink") [해치백](https://ko.wikipedia.org/wiki/해치백 "wikilink")형 [쿠페](../Page/쿠페.md "wikilink")를 말한다. [영국](../Page/영국.md "wikilink")의 자동차 제조사 [브리티쉬 모터의](https://ko.wikipedia.org/wiki/브리티쉬_모터 "wikilink") [자동차](../Page/자동차.md "wikilink") 브랜드인 [미니](../Page/미니.md "wikilink")를 [BMW](../Page/BMW.md "wikilink")가 인수한 후 새롭게 설계하여 출시했다. [2001년](../Page/2001년.md "wikilink") [4월](../Page/4월.md "wikilink")부터 [영국](../Page/영국.md "wikilink") [옥스퍼드셔주](../Page/옥스퍼드셔주.md "wikilink") [옥스퍼드](../Page/옥스퍼드.md "wikilink") [공장](https://ko.wikipedia.org/wiki/공장 "wikilink")에서 생산하고 있으며, 2세대(R56)부터 모델 라인업이 증가했다.

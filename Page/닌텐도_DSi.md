@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ DSi](https://ko.wikipedia.org/wiki/_DSi).
+> This article is converted from Wikipedia: [닌텐도 DSi](https://ko.wikipedia.org/wiki/닌텐도_DSi).
 
 
 **닌텐도 DSi**()는 [닌텐도](../Page/닌텐도.md "wikilink")사에서 발매된 [휴대용 게임기로](../Page/휴대용_게임기.md "wikilink"), [닌텐도 DS의](../Page/닌텐도_DS.md "wikilink") 세 번째 시리즈이다. [2008년](../Page/2008년.md "wikilink") [11월 1일](../Page/11월_1일.md "wikilink"), [일본](../Page/일본.md "wikilink")에서 18,900엔에 판매를 시작했으며, [2009년](../Page/2009년.md "wikilink") [12월 15일](../Page/12월_15일.md "wikilink"), [중국](../Page/중국.md "wikilink")에서는 iQue DSi라는 이름으로 발매했고, [대한민국](../Page/대한민국.md "wikilink")에서는 [2010년](../Page/2010년.md "wikilink") [4월 15일에](../Page/4월_15일.md "wikilink") 198,000원으로 판매를 시작했다. 성능은 [닌텐도 DS 라이트와](../Page/닌텐도_DS_라이트.md "wikilink") 비슷하며, 디자인은 조금 변경되었다. White(화이트), Black(블랙), Blue(블루), Pink(핑크)의 4가지 색상으로 발매하였다.

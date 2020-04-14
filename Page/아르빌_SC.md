@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ SC](https://ko.wikipedia.org/wiki/_SC).
+> This article is converted from Wikipedia: [아르빌 SC](https://ko.wikipedia.org/wiki/아르빌_SC).
 
 
 **아르빌 SC**(, )는 [이라크](../Page/이라크.md "wikilink") [쿠르드 자치구의](../Page/쿠르드_자치구.md "wikilink") [축구](../Page/축구.md "wikilink") 클럽으로 [아르빌](../Page/아르빌.md "wikilink")을 연고로 하고 있다. 이 클럽은 [1958년](../Page/1958년.md "wikilink")에 브루스크(Brusk)라는 이름으로 창단되었다. 아르빌 SC는 클럽 역사상 처음으로 [2007년](../Page/2007년.md "wikilink") [7월 6일에](../Page/7월_6일.md "wikilink") [이라크 슈퍼리그](https://ko.wikipedia.org/wiki/이라크_슈퍼리그 "wikilink") 우승을 차지하였다. 2006-07시즌의 우승으로 아르빌은 [이라크 슈퍼리그를](https://ko.wikipedia.org/wiki/이라크_슈퍼리그 "wikilink") 우승한 아홉 번째 클럽이 되었다. 다음 시즌인 2007-08시즌 역시 우승을 차지하면서 2회 연속 이라크 챔피언을 하고 있다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Stories \(  \)](https://ko.wikipedia.org/wiki/Stories_\(__\)).
+> This article is converted from Wikipedia: [Stories \(이이즈카 마유미의 음반\)](https://ko.wikipedia.org/wiki/Stories_\(이이즈카_마유미의_음반\)).
 
 
 **Stories**는 [이이즈카 마유미의](../Page/이이즈카_마유미.md "wikilink") 12번째 앨범이다.

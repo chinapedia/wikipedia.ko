@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ A ](https://ko.wikipedia.org/wiki/_A_).
+> This article is converted from Wikipedia: [처녀자리 A 은하](https://ko.wikipedia.org/wiki/처녀자리_A_은하).
 
 
 [오른쪽](https://ko.wikipedia.org/wiki/파일:Virgo_constellation_map.png "wikilink") [160px](https://ko.wikipedia.org/wiki/파일:M87-jets.jpg "wikilink") [160px](https://ko.wikipedia.org/wiki/파일:M87_jet.jpg "wikilink") **처녀자리 A 은하**(, NGC4486)는 처녀자리에 있는 [타원은하](../Page/타원은하.md "wikilink")이다. [적색 편이가](https://ko.wikipedia.org/wiki/적색_편이 "wikilink") 매우 크다. [센타우루스자리 A](https://ko.wikipedia.org/wiki/센타우루스_A_은하 "wikilink") 은하처럼 [제트를](../Page/제트_\(천문학\).md "wikilink") 방출하는 은하이다. 이 은하는 처녀자리 은하단에서 가장 크고 밝은 은하이며, 거리는 5500만 광년이다.\[1\] 또한 이 은하는 센타우루스 A 은하처럼 500배 이상의 강력한 전파를 발산한다. 이 은하는 지구에 가까이 있는 가장 큰 타원 은하이며, 하늘에 있는 가장 밝은 방사선 천체 중 하나이다. 그래서 아마추어 천문학 관측과 천문학자들의 표적이 되는 은하이다. 여기서 은하핵에 있는 초대질량 블랙홀의 질량을 계산하면 3  이다.\[2\] 2009년 이 은하를 관측한 결과 분출된 가스 제트류가 폭죽이 터지는 것과 같이 밝아지는 현상이 관측되었다. 이 가스 제트류는 HST-1([허블 우주 망원경](https://ko.wikipedia.org/wiki/허블_우주_망원경 "wikilink") 1)이라는 이름이 붙어 있다. 은하를 구성하는 별들의 대부분이 금속성 원소를 포함하는 거성과 초거성들이며, 이 때문에 유난히 붉게 빛난다.

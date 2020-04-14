@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [D.C. \~\~   ](https://ko.wikipedia.org/wiki/D.C._\~\~___).
+> This article is converted from Wikipedia: [D.C. \~다카포\~ 시리즈의 등장인물 목록](https://ko.wikipedia.org/wiki/D.C._\~다카포\~_시리즈의_등장인물_목록).
 
 
 **D.C. \~다카포\~ 시리즈의 등장인물 목록**은 PC(및 그 외의 미디어 믹스) 작품 「D.C. \~다카포\~」·「D.C.II \~다카포 II\~」시리즈에 등장하는 가공 인물의 일람이다.

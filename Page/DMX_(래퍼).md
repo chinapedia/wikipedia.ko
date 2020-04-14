@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [DMX \(\)](https://ko.wikipedia.org/wiki/DMX_\(\)).
+> This article is converted from Wikipedia: [DMX \(래퍼\)](https://ko.wikipedia.org/wiki/DMX_\(래퍼\)).
 
 
 **DMX**(, <small>본명:</small>, [1970년](../Page/1970년.md "wikilink") [12월 18일](../Page/12월_18일.md "wikilink"))은 [미국](../Page/미국.md "wikilink")의 랩퍼겸 [영화 배우이다](https://ko.wikipedia.org/wiki/영화_배우 "wikilink").

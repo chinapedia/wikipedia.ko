@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FK  ](https://ko.wikipedia.org/wiki/FK__).
+> This article is converted from Wikipedia: [FK 디나모 티라나](https://ko.wikipedia.org/wiki/FK_디나모_티라나).
 
 
 **FK 디나모 티라나**는 [알바니아](https://ko.wikipedia.org/wiki/알바니아 "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽으로 [1950년](../Page/1950년.md "wikilink")에 [수도](../Page/수도.md "wikilink")인 [티라나](../Page/티라나.md "wikilink")를 연고로 창단되었다. 디나모 티라나의 주요 라이벌 클럽은 같은 티라나에 위치한 [SK 티라나이다](https://ko.wikipedia.org/wiki/SK_티라나 "wikilink").

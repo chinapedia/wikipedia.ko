@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [My Friend \(SG  \)](https://ko.wikipedia.org/wiki/My_Friend_\(SG__\)).
+> This article is converted from Wikipedia: [My Friend \(SG 워너비의 음반\)](https://ko.wikipedia.org/wiki/My_Friend_\(SG_워너비의_음반\)).
 
 
 《**My Friend**》는 [SG워너비](https://ko.wikipedia.org/wiki/SG워너비 "wikilink")의 5집 앨범이다. [2008년](../Page/2008년.md "wikilink") [4월 24일](../Page/4월_24일.md "wikilink") 발매 되었으며, [SG 워너비의](../Page/SG_워너비.md "wikilink") 전 멤버 [채동하](../Page/채동하.md "wikilink")의 마지막 음반이자 새로 영입한 [이석훈의](../Page/이석훈_\(가수\).md "wikilink") 첫 번째 음반이기도 하다. 맴버 교체되고 얼마 지나지 않아서 나왔음에도 불구하고 20만장 이상의 판매고를 올리며 크게 히트한 앨범이며 2008년 골든디스크 본상을 받은 음반이다.

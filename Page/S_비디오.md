@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [S ](https://ko.wikipedia.org/wiki/S_).
+> This article is converted from Wikipedia: [S 비디오](https://ko.wikipedia.org/wiki/S_비디오).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:SVideoConnector.jpg "wikilink") **S 비디오**(Separate Video), 줄여서 **S 비디오**는 Y/C\[1\]로도 알려져 있으며 영상 데이터를 두 개의 구분된 신호(빛의 밝기를 위한 "루마"(휘도 신호), 색을 위한 "크로마"(색차 신호))로 전달하는 [아날로그](https://ko.wikipedia.org/wiki/아날로그_신호 "wikilink") 영상 신호를 말한다. 이는 단일의 저화질 신호로 화상 정보를 전달하는 [컴포지트 비디오나](../Page/컴포지트_비디오.md "wikilink") 세 개의 구별된 고화질 신호로 화상 정보를 전달하는 [컴포넌트 비디오와는](../Page/컴포넌트_비디오.md "wikilink") 다른 것이다. 컴포지트보다는 화질이 우수하며 컴포넌트보다는 화질이 떨어진다. S 비디오는 [표준 화질의](../Page/디지털_표준_텔레비전.md "wikilink") 영상인 [480i](https://ko.wikipedia.org/wiki/480i "wikilink")나 [576i](https://ko.wikipedia.org/wiki/576i "wikilink")의 해상도를 전달하는 게 보통이다. 그러나 S 비디오 케이블을 통해 소리까지 전달하지는 않는다.

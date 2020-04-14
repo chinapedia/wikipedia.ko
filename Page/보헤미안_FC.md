@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
+> This article is converted from Wikipedia: [보헤미안 FC](https://ko.wikipedia.org/wiki/보헤미안_FC).
 
 
 **보헤미안 FC**는 [아일랜드](../Page/아일랜드.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽으로, [1890년](../Page/1890년.md "wikilink") [9월 6일에](../Page/9월_6일.md "wikilink") 아일랜드의 [더블린](../Page/더블린.md "wikilink")을 연고로 하여 창단되었다.

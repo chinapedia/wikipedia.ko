@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [My Style \(   EP\)](https://ko.wikipedia.org/wiki/My_Style_\(___EP\)).
+> This article is converted from Wikipedia: [My Style \(브라운 아이드 걸스의 EP\)](https://ko.wikipedia.org/wiki/My_Style_\(브라운_아이드_걸스의_EP\)).
 
 
 ***My Style***은 [2008년](../Page/2008년.md "wikilink") [9월 16일에](../Page/9월_16일.md "wikilink") 발매된 대한민국의 걸 그룹 [브라운 아이드 걸스의](../Page/브라운_아이드_걸스.md "wikilink") [EP이다](../Page/익스텐디드_플레이.md "wikilink").

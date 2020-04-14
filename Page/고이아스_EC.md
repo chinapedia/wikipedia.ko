@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ EC](https://ko.wikipedia.org/wiki/_EC).
+> This article is converted from Wikipedia: [고이아스 EC](https://ko.wikipedia.org/wiki/고이아스_EC).
 
 
 **고이이스 EC** (Goiás Esporte Clube) 는 **고이아스**라고도 알려져 있는 [브라질](../Page/브라질.md "wikilink")의 축구 클럽으로, [고이아스주](../Page/고이아스주.md "wikilink")의 [고이아니아](https://ko.wikipedia.org/wiki/고이아니아 "wikilink")를 연고로 한다. 홈 경기장은 [이스타지우 다 세히냐이지만](https://ko.wikipedia.org/wiki/이스타지우_다_세히냐 "wikilink"), 수용인원 10,000명의 작은 경기장이기에 중요한 경기시엔 최대 60,000명까지 수용할 수 있는 [이스타디우 세하 도라다를](https://ko.wikipedia.org/wiki/이스타디우_세하_도라다 "wikilink") 사용한다.

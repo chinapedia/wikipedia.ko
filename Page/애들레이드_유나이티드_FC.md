@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  FC](https://ko.wikipedia.org/wiki/__FC).
+> This article is converted from Wikipedia: [애들레이드 유나이티드 FC](https://ko.wikipedia.org/wiki/애들레이드_유나이티드_FC).
 
 
 **애들레이드 유나이티드 FC**(Adelaide United FC)는 [A리그](../Page/A리그.md "wikilink")에 소속된 [오스트레일리아](../Page/오스트레일리아.md "wikilink")의 프로축구단이다. 연고지는 남부에 위치한 [사우스오스트레일리아주](../Page/사우스오스트레일리아주.md "wikilink")의 [주도](https://ko.wikipedia.org/wiki/주도 "wikilink")인 [애들레이드](../Page/애들레이드.md "wikilink")이다. 애들레이드 유나이티드는 현재 [사우스오스트레일리아주](../Page/사우스오스트레일리아주.md "wikilink")에서 [A리그](../Page/A리그.md "wikilink")에 참가하고 있는 유일한 팀이다.

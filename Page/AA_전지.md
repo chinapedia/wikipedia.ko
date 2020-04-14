@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [AA ](https://ko.wikipedia.org/wiki/AA_).
+> This article is converted from Wikipedia: [AA 전지](https://ko.wikipedia.org/wiki/AA_전지).
 
 
 **AA 전지** 또는 **더블에이**(Double-A, ) **전지**는 휴대용 [전자기기에](../Page/전자공학.md "wikilink") 많이 쓰이는 고체 [전지](../Page/전지.md "wikilink")이다. 1947년 [ANSI](https://ko.wikipedia.org/wiki/ANSI "wikilink")가 AA 전지 형태를 표준화하였다. [미국](../Page/미국.md "wikilink") 외 지역에서는 국제적으로 LR6 (알칼리), FR6([리튬](../Page/리튬_전지.md "wikilink")), R6(탄소-아연), RX6(니켈-카드뮴) 혹은 Mignon 전지라고 알려져 있다. 역사적으로 영국의 공식 문서에서는 **SP7**(Standard Power 7) 또는 **HP7**(High Power 7)으로 알려져 있으나 구어적으로 "더블 A 배터리"로 알려져 있다.

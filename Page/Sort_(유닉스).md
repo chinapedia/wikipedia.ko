@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Sort \(\)](https://ko.wikipedia.org/wiki/Sort_\(\)).
+> This article is converted from Wikipedia: [Sort \(유닉스\)](https://ko.wikipedia.org/wiki/Sort_\(유닉스\)).
 
 
 **sort**는 표준 [유닉스](../Page/유닉스.md "wikilink") [명령어](https://ko.wikipedia.org/wiki/명령어 "wikilink") 프로그램으로서 입력어들이나 인수 목록들에 기입된 모든 파일들의 연속어들을 정렬된 순서로 출력한다. 정렬하기는 입력어 각각으로부터 도출된 하나 혹은 그 이상의 정렬 키들에 바탕을 두어 시행된다. 디폴트에 의해서 전체 입력어는 정렬 키로 처리된다. 빈 공백은 디폴트 필드 구분자로서 처리되어 사용된다. **-r** 플래그는 정렬 명령을 반대로 시행한다.

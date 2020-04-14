@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  C++](https://ko.wikipedia.org/wiki/__C++).
+> This article is converted from Wikipedia: [마이크로소프트 비주얼 C++](https://ko.wikipedia.org/wiki/마이크로소프트_비주얼_C++).
 
 
 **마이크로소프트 비주얼 C++**(Microsoft Visual C++, 줄여서 MSVC)은 [마이크로소프트](../Page/마이크로소프트.md "wikilink")사가 [C](../Page/C_\(프로그래밍_언어\).md "wikilink"), [C++](https://ko.wikipedia.org/wiki/C++ "wikilink"), [C++/CLI](https://ko.wikipedia.org/wiki/C++/CLI "wikilink") [프로그래밍 언어](../Page/프로그래밍_언어.md "wikilink") 도구로 계획한 [통합 개발 환경](../Page/통합_개발_환경.md "wikilink") (IDE) 제품이다. [개발](https://ko.wikipedia.org/wiki/소프트웨어_개발_프로세스 "wikilink") 및 C++ (특히 [마이크로소프트 윈도](https://ko.wikipedia.org/wiki/마이크로소프트_윈도 "wikilink") [API](../Page/API.md "wikilink"), [다이렉트X](https://ko.wikipedia.org/wiki/다이렉트X "wikilink") API, [닷넷 프레임워크로](../Page/닷넷_프레임워크.md "wikilink") 작성된 코드)의 [디버깅을](../Page/디버그.md "wikilink") 위한 도구를 가지고 있다.

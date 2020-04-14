@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [OB     ](https://ko.wikipedia.org/wiki/OB_____).
+> This article is converted from Wikipedia: [OB 베어스 선수단 집단 이탈 사건](https://ko.wikipedia.org/wiki/OB_베어스_선수단_집단_이탈_사건).
 
 
 **1994년 OB 베어스 선수단 집단 이탈 사건**은 [1994년](../Page/1994년.md "wikilink") [9월 4일](../Page/9월_4일.md "wikilink"), [KBO 리그의](https://ko.wikipedia.org/wiki/KBO_리그 "wikilink") [OB 베어스](../Page/두산_베어스.md "wikilink") 선수단이 17명이 집단 이탈한 사건이다. 이 사건은 **OB 베어스 항명 파동**으로도 불리기도 한다.
