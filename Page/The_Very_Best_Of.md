@@ -14,9 +14,9 @@
 5.  "[Tequila Sunrise](https://ko.wikipedia.org/wiki/Tequila_Sunrise_\(노래\) "wikilink")" - 2:52
 6.  "Doolin-Dalton" - 3:26
 7.  "[Already Gone](https://ko.wikipedia.org/wiki/Already_Gone "wikilink")" - 4:13
-8.  "[Best of My Love](https://ko.wikipedia.org/wiki/Best_of_My_Love "wikilink")" - 4:35
+8.  "[Best of My Love](../Page/Best_of_My_Love.md "wikilink")" - 4:35
 9.  "[James Dean](https://ko.wikipedia.org/wiki/James_Dean_\(노래\) "wikilink")" - 3:36
-10. "[Ol' '55](https://ko.wikipedia.org/wiki/Ol'_'55 "wikilink")" - 4:22
+10. "[Ol' '55](../Page/Ol'_'55.md "wikilink")" - 4:22
 11. "Midnight Flyer" - 3:58
 12. "On the Border" - 4:28
 13. "[Lyin' Eyes](https://ko.wikipedia.org/wiki/Lyin'_Eyes "wikilink")" - 6:21

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [JTBC ](https://ko.wikipedia.org/wiki/JTBC_).
+> This article is converted from Wikipedia: [JTBC 뉴스현장](https://ko.wikipedia.org/wiki/JTBC_뉴스현장).
 
 
 **《JTBC 뉴스현장》**은 대한민국에서 평일 오후에 텔레비전으로 방송하는 [JTBC](../Page/JTBC.md "wikilink")의 뉴스 프로그램이다.

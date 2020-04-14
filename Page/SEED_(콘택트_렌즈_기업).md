@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SEED \(  \)](https://ko.wikipedia.org/wiki/SEED_\(__\)).
+> This article is converted from Wikipedia: [SEED \(콘택트 렌즈 기업\)](https://ko.wikipedia.org/wiki/SEED_\(콘택트_렌즈_기업\)).
 
 
 **주식회사 시드**(, )는 [1957년](../Page/1957년.md "wikilink")에 설립된 [콘택트 렌즈](../Page/콘택트_렌즈.md "wikilink"), [안경](../Page/안경.md "wikilink")을 제조하여, 주력 제품으로 판매하는 [일본](../Page/일본.md "wikilink")의 [기업](https://ko.wikipedia.org/wiki/기업 "wikilink")이다. 소재지는 [도쿄도](../Page/도쿄도.md "wikilink") [분쿄 구](https://ko.wikipedia.org/wiki/분쿄_구 "wikilink") [혼고이다](https://ko.wikipedia.org/wiki/혼고_\(분쿄_구\) "wikilink").

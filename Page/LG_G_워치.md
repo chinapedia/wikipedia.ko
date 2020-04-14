@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [LG G ](https://ko.wikipedia.org/wiki/LG_G_).
+> This article is converted from Wikipedia: [LG G 워치](https://ko.wikipedia.org/wiki/LG_G_워치).
 
 
 **LG G 워치**(LG G Watch)는 [LG전자](../Page/LG전자.md "wikilink")에서 제조/판매하는 [안드로이드 웨어](https://ko.wikipedia.org/wiki/안드로이드_웨어 "wikilink") [스마트워치](../Page/스마트워치.md "wikilink")이다.

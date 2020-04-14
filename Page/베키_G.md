@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ G](https://ko.wikipedia.org/wiki/_G).
+> This article is converted from Wikipedia: [베키 G](https://ko.wikipedia.org/wiki/베키_G).
 
 
 **리베카 메리 고메즈**(, [1997년](../Page/1997년.md "wikilink") [3월 2일](../Page/3월_2일.md "wikilink") \~ )는 **베키 G**()라는 이름으로 잘 알려진 [미국](../Page/미국.md "wikilink")의 [가수](https://ko.wikipedia.org/wiki/가수 "wikilink"), 작곡가, 배우이다.
@@ -20,6 +20,7 @@
 
 ## 외부 링크
 
+  -
   -
 
   -

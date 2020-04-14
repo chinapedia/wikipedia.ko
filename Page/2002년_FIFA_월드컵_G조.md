@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [2002 FIFA  G](https://ko.wikipedia.org/wiki/2002_FIFA__G).
+> This article is converted from Wikipedia: [2002년 FIFA 월드컵 G조](https://ko.wikipedia.org/wiki/2002년_FIFA_월드컵_G조).
 
 
 [2002년 FIFA 월드컵은](https://ko.wikipedia.org/wiki/2002년_FIFA_월드컵 "wikilink") 32팀이 본선에 참가하였고 이들은 4팀씩 8개의 조로 나뉘었다. **[2002년 FIFA 월드컵](https://ko.wikipedia.org/wiki/2002년_FIFA_월드컵 "wikilink") G조**에는 [이탈리아](../Page/이탈리아_축구_국가대표팀.md "wikilink"), [에콰도르](../Page/에콰도르_축구_국가대표팀.md "wikilink"), [크로아티아](../Page/크로아티아_축구_국가대표팀.md "wikilink"), 그리고 [멕시코가](../Page/멕시코_축구_국가대표팀.md "wikilink") 들어갔다. G조의 경기는 2002년 6월 3일과 2002년 6월 13일 사이에 치러졌다. [멕시코가](../Page/멕시코_축구_국가대표팀.md "wikilink") 조 1위를 차지해 [이탈리아와](../Page/이탈리아_축구_국가대표팀.md "wikilink") 함께 다음 라운드에 진출하였다. [크로아티아와](../Page/크로아티아_축구_국가대표팀.md "wikilink") [에콰도르는](../Page/에콰도르_축구_국가대표팀.md "wikilink") 다음 라운드 진출에 실패하였다.

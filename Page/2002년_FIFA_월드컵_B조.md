@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [2002 FIFA  B](https://ko.wikipedia.org/wiki/2002_FIFA__B).
+> This article is converted from Wikipedia: [2002년 FIFA 월드컵 B조](https://ko.wikipedia.org/wiki/2002년_FIFA_월드컵_B조).
 
 
 [2002년 FIFA 월드컵은](https://ko.wikipedia.org/wiki/2002년_FIFA_월드컵 "wikilink") 32팀이 본선에 참가하였고 이들은 4팀씩 8개의 조로 나뉘었다. **[2002년 FIFA 월드컵](https://ko.wikipedia.org/wiki/2002년_FIFA_월드컵 "wikilink") B조**는 [스페인](../Page/스페인_축구_국가대표팀.md "wikilink"), [슬로베니아](../Page/슬로베니아_축구_국가대표팀.md "wikilink"), [파라과이](../Page/파라과이_축구_국가대표팀.md "wikilink"), 그리고 [남아프리카 공화국이](../Page/남아프리카_공화국_축구_국가대표팀.md "wikilink") 편성되었다. B조의 모든 일정은 2002년 6월 2일과 2002년 6월 12일사이에 치러졌다. [스페인은](../Page/스페인_축구_국가대표팀.md "wikilink") 이 조별 리그의 3경기에서 모두 승리하며 조 1위를 차지하였고, [파라과이와](../Page/파라과이_축구_국가대표팀.md "wikilink") 함께 16강에 진출하였다. [남아프리카 공화국은](../Page/남아프리카_공화국_축구_국가대표팀.md "wikilink") 파라과이와 승점과 골득실차에서 동률을 이루었으나, 다득점에서 1골차로 아깝게 탈락하였다. 이 대회에 첫 출전한 [슬로베니아는](../Page/슬로베니아_축구_국가대표팀.md "wikilink") 승점을 1점도 수확하지 못하고 탈락하였다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:  KV  ](https://ko.wikipedia.org/wiki/:__KV__).
+> This article is converted from Wikipedia: [틀:클뤼프 브뤼허 KV 선수 명단](https://ko.wikipedia.org/wiki/틀:클뤼프_브뤼허_KV_선수_명단).
 
 
 <onlyinclude></onlyinclude>

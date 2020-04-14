@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [W-](https://ko.wikipedia.org/wiki/W-).
+> This article is converted from Wikipedia: [W-대수](https://ko.wikipedia.org/wiki/W-대수).
 
 
 [수학](../Page/수학.md "wikilink")과 [등각 장론에서](../Page/등각_장론.md "wikilink"), **W-대수**(W-代數, )는 [2차원 등각 장론의](../Page/2차원_등각_장론.md "wikilink") 무질량 고차 스핀 정칙장에 의해 생성되는 대칭이다.\[1\]\[2\]\[3\] [비라소로 대수를](../Page/비라소로_대수.md "wikilink") 일반화한다.

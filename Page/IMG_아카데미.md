@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [IMG ](https://ko.wikipedia.org/wiki/IMG_).
+> This article is converted from Wikipedia: [IMG 아카데미](https://ko.wikipedia.org/wiki/IMG_아카데미).
 
 
 **IMG 아카데미**(IMG Academy)는 유소년, 고교생, 대학생 그리고 프로 선수들을 위한 사설 트레이닝 기관이다. [미국](../Page/미국.md "wikilink") [플로리다주](../Page/플로리다주.md "wikilink") 브레이든턴에 위치하고 있다. IMG 아카데미는 [테니스](../Page/테니스.md "wikilink"), [골프](../Page/골프.md "wikilink"), [야구](../Page/야구.md "wikilink"), [농구](../Page/농구.md "wikilink"), [라크로스](https://ko.wikipedia.org/wiki/라크로스 "wikilink"), [축구](../Page/축구.md "wikilink"), [미식축구](../Page/미식축구.md "wikilink"), [육상](https://ko.wikipedia.org/wiki/육상 "wikilink") 및 개인 단련을 위한 프로그램을 제공한다. 매년 80여개국에서 12,000명이 아카데미를 이용한다.

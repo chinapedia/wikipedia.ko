@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:FNC ](https://ko.wikipedia.org/wiki/:FNC_).
+> This article is converted from Wikipedia: [틀:FNC 엔터테인먼트](https://ko.wikipedia.org/wiki/틀:FNC_엔터테인먼트).
 
 
 <onlyinclude> [이재진](../Page/이재진_\(1991년\).md "wikilink") {{·}} [최민환](../Page/최민환.md "wikilink") {{·}} [송승현](../Page/송승현.md "wikilink"))
@@ -8,7 +8,7 @@
   - [엔플라잉](../Page/엔플라잉.md "wikilink") ([이승협](https://ko.wikipedia.org/wiki/이승협 "wikilink") {{·}} [권광진](https://ko.wikipedia.org/wiki/권광진 "wikilink") {{·}} [차훈](https://ko.wikipedia.org/wiki/차훈 "wikilink") {{·}} [김재현](https://ko.wikipedia.org/wiki/김재현_\(가수\) "wikilink") {{·}} [유회승](../Page/유회승.md "wikilink"))
   - [SF9](../Page/SF9.md "wikilink") ([영빈](https://ko.wikipedia.org/wiki/영빈 "wikilink") {{·}} [인성](https://ko.wikipedia.org/wiki/인성_\(가수\) "wikilink") {{·}} [재윤](https://ko.wikipedia.org/wiki/재윤 "wikilink") {{·}} [다원](https://ko.wikipedia.org/wiki/다원_\(남자_가수\) "wikilink") {{·}} [로운](../Page/로운.md "wikilink") {{·}} [주호](https://ko.wikipedia.org/wiki/주호_\(가수\) "wikilink") {{·}} [태양](https://ko.wikipedia.org/wiki/태양_\(1997년\) "wikilink") {{·}} [휘영](https://ko.wikipedia.org/wiki/휘영 "wikilink") {{·}} [찬희](../Page/찬희.md "wikilink"))
   - [허니스트](../Page/허니스트.md "wikilink") (김철민 {{·}} 김환 {{·}} 서동성 {{·}} 오승석)
-  - [체리블렛](https://ko.wikipedia.org/wiki/체리블렛 "wikilink") (해윤 {{·}} 유주 {{·}} 미래 {{·}} 보라 {{·}} 지원 {{·}} 코코로 {{·}} 레미 {{·}} 채린 {{·}} 린린 {{·}} 메이)
+  - [체리블렛](../Page/체리블렛.md "wikilink") (해윤 {{·}} 유주 {{·}} 미래 {{·}} 보라 {{·}} 지원 {{·}} 코코로 {{·}} 레미 {{·}} 채린 {{·}} 린린 {{·}} 메이)
 
 | 묶음2 = 현재 솔로 | 내용2 =
 

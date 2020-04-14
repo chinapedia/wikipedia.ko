@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  FC](https://ko.wikipedia.org/wiki/__FC).
+> This article is converted from Wikipedia: [아폴론 스미르니 FC](https://ko.wikipedia.org/wiki/아폴론_스미르니_FC).
 
 
 **아폴론 스미르니 FC**()는 [그리스](../Page/그리스.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽으로 [아테네](../Page/아테네.md "wikilink")에 연고를 두고 있는 축구 클럽이다. 이 팀은 2017-18 시즌 기준으로 [슈퍼리그 그리스에서](https://ko.wikipedia.org/wiki/슈퍼리그_그리스 "wikilink") 활동하고 있다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [2006 FIFA  C](https://ko.wikipedia.org/wiki/2006_FIFA__C).
+> This article is converted from Wikipedia: [2006년 FIFA 월드컵 C조](https://ko.wikipedia.org/wiki/2006년_FIFA_월드컵_C조).
 
 
 **2006년 FIFA 월드컵 C조**는 [독일](../Page/독일.md "wikilink")에서 열린 [2006년 FIFA 월드컵의](https://ko.wikipedia.org/wiki/2006년_FIFA_월드컵 "wikilink") 8개 조들 중 하나였다. C조 일정은 2006년 6월 10일에 시작하여 2006년 6월 21일에 완료되었다. [아르헨티나는](https://ko.wikipedia.org/wiki/아르헨티나_축구_국가대표팀 "wikilink") 이 조에서 1위를 차지해 [네덜란드과](../Page/네덜란드_축구_국가대표팀.md "wikilink") 함께 다음 라운드에 진출하였다. 조별 리그를 통과한 두 팀은 승접에서 동률을 이루었으나, 아르헨티나가 골득실차에 앞서면서 조 1위를 가져갔고, 네덜란드는 2위를 차지했다. 반면 [코트디부아르와](https://ko.wikipedia.org/wiki/코트디부아르_축구_국가대표팀 "wikilink") [세르비아 몬테네그로](../Page/세르비아_몬테네그로_축구_국가대표팀.md "wikilink") 축구 국가대표팀은 탈락하였다.

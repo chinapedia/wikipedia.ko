@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Su](https://ko.wikipedia.org/wiki/:Su).
+> This article is converted from Wikipedia: [모듈:Su](https://ko.wikipedia.org/wiki/모듈:Su).
 
 
 \-- This module implements .

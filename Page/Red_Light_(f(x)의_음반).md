@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Red Light \(f\(x\) \)](https://ko.wikipedia.org/wiki/Red_Light_\(f\(x\)_\)).
+> This article is converted from Wikipedia: [Red Light \(f\(x\)의 음반\)](https://ko.wikipedia.org/wiki/Red_Light_\(f\(x\)의_음반\)).
 
 
 《**Red Light**》는 [대한민국](../Page/대한민국.md "wikilink")의 [걸 그룹](../Page/걸_그룹.md "wikilink") [f(x)](https://ko.wikipedia.org/wiki/f\(x\) "wikilink")의 세 번째 정규 앨범으로, [2014년](../Page/2014년.md "wikilink") [7월 7일에](../Page/7월_7일.md "wikilink") 발매되었다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [JXTG ](https://ko.wikipedia.org/wiki/JXTG_).
+> This article is converted from Wikipedia: [JXTG 홀딩스](https://ko.wikipedia.org/wiki/JXTG_홀딩스).
 
 
 **JXTG 홀딩스**(, )는 2010년 4월 1일에 설립된 JX 그룹의 지주 회사이다. 사명인 JX는 재팬()의 'J'와 미지를 나타내는 'X'에서 따왔다.

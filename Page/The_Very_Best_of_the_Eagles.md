@@ -19,7 +19,7 @@
 4.  "Doolin-Dalton"([Desperado](../Page/Desperado_\(이글스의_음반\).md "wikilink")) - 3:30
 5.  "Desperado"([Desperado](../Page/Desperado_\(이글스의_음반\).md "wikilink")) - 3:35
 6.  "[Tequila Sunrise](https://ko.wikipedia.org/wiki/Tequila_Sunrise_\(노래\) "wikilink")"([Desperado](../Page/Desperado_\(이글스의_음반\).md "wikilink")) - 2:55
-7.  "[Best of My Love](https://ko.wikipedia.org/wiki/Best_of_My_Love "wikilink")"([On the Border](https://ko.wikipedia.org/wiki/On_the_Border "wikilink")) - 4:36
+7.  "[Best of My Love](../Page/Best_of_My_Love.md "wikilink")"([On the Border](https://ko.wikipedia.org/wiki/On_the_Border "wikilink")) - 4:36
 8.  "[James Dean](https://ko.wikipedia.org/wiki/James_Dean_\(노래\) "wikilink")"([On the Border](https://ko.wikipedia.org/wiki/On_the_Border "wikilink")) - 3:40
 9.  "[I Can't Tell You Why](https://ko.wikipedia.org/wiki/I_Can't_Tell_You_Why "wikilink")"([One of These Nights](../Page/One_of_These_Nights.md "wikilink")) - 4:56
 10. "[Lyin' Eyes](https://ko.wikipedia.org/wiki/Lyin'_Eyes "wikilink")"([One of These Nights](../Page/One_of_These_Nights.md "wikilink")) - 6:24

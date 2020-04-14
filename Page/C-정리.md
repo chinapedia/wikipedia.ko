@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [C-](https://ko.wikipedia.org/wiki/C-).
+> This article is converted from Wikipedia: [C-정리](https://ko.wikipedia.org/wiki/C-정리).
 
 
 [양자장론](../Page/양자장론.md "wikilink")에서, **c-정리**(c-定理, )는 2차원 [양자장론](../Page/양자장론.md "wikilink")들의 공간 위에서, 양자장론의 [자유도](https://ko.wikipedia.org/wiki/자유도 "wikilink")의 수를 나타내고, [재규격화군](../Page/재규격화군.md "wikilink") 흐름에 따라서 단조적으로 감소하는 함수 *c*가 존재한다는 정리다. 이는 재규격화군에 따라 높은 에너지의 물리가 잊혀지므로 그에 따라 자유도가 감소하는 것으로 해석할 수 있다. [재규격화군](../Page/재규격화군.md "wikilink")의 고정점에서, *c*는 [등각 장론의](../Page/등각_장론.md "wikilink") [비라소로 대수의](../Page/비라소로_대수.md "wikilink") 중심 전하가 된다.

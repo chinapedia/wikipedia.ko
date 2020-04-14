@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ \(Toughria\)](https://ko.wikipedia.org/wiki/_\(Toughria\)).
+> This article is converted from Wikipedia: [터프리아 \(Toughria\)](https://ko.wikipedia.org/wiki/터프리아_\(Toughria\)).
 
 
 《**터프리아 (Toughria)**》는 [헌터리아](../Page/헌터리아.md "wikilink")의 세 번째 디지털 싱글 앨범이다. 이 앨범에 수록된 곡인 《터프리아 (Toughria)》는 [헌터리아](../Page/헌터리아.md "wikilink")의 타이틀 곡이며, 특히 이 곡은 대한민국 제 18대 박근혜 대통령 공식 선거 로고송으로 쓰였다.\[1\]

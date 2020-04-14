@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [2006 FIFA  H](https://ko.wikipedia.org/wiki/2006_FIFA__H).
+> This article is converted from Wikipedia: [2006년 FIFA 월드컵 H조](https://ko.wikipedia.org/wiki/2006년_FIFA_월드컵_H조).
 
 
 **2006년 FIFA 월드컵 H조**는 [독일](../Page/독일.md "wikilink")에서 열린 [2006년 FIFA 월드컵의](https://ko.wikipedia.org/wiki/2006년_FIFA_월드컵 "wikilink") 8개 조들 중 하나였다. H조 일정은 2006년 6월 14일에 시작하여 2006년 6월 23일에 완료되었다. [스페인은](../Page/스페인_축구_국가대표팀.md "wikilink") 이 조에서 1위를 차지해 [우크라이나와](../Page/우크라이나_축구_국가대표팀.md "wikilink") 함께 다음 라운드에 진출하였다. 반면 [튀니지와](../Page/튀니지_축구_국가대표팀.md "wikilink") [사우디아라비아](../Page/사우디아라비아_축구_국가대표팀.md "wikilink") 축구 국가대표팀은 그리하지 못하였다.

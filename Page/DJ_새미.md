@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [DJ ](https://ko.wikipedia.org/wiki/DJ_).
+> This article is converted from Wikipedia: [DJ 새미](https://ko.wikipedia.org/wiki/DJ_새미).
 
 
 **사무엘 보우리아**(, [1973년](../Page/1973년.md "wikilink") [9월 3일](../Page/9월_3일.md "wikilink") \~ 현재 )는 **DJ 새미**(DJ Sammy)라는 이름으로 활동하는 [스페인](../Page/스페인.md "wikilink")의 [디스크자키](https://ko.wikipedia.org/wiki/디스크자키 "wikilink")와 [프로듀서](https://ko.wikipedia.org/wiki/프로듀서 "wikilink")이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
+> This article is converted from Wikipedia: [구아라니 FC](https://ko.wikipedia.org/wiki/구아라니_FC).
 
 
 **구아라니 푸치보우 클루비**()는 [1911년](../Page/1911년.md "wikilink") [4월 2일에](../Page/4월_2일.md "wikilink") 창단한 [브라질](../Page/브라질.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽으로, [상파울루주](../Page/상파울루주.md "wikilink") [캄피나스](../Page/캄피나스.md "wikilink")를 연고지로 한다. 홈 경기장으로 [이스타디우 브린쿠 지 오루를](https://ko.wikipedia.org/wiki/이스타디우_브린쿠_지_오루 "wikilink") 사용하며, [1953년](../Page/1953년.md "wikilink") [5월 31일에](../Page/5월_31일.md "wikilink") 지어졌으며, 수용인원은 30,988명이다. 구단의 별칭은 *부그리*()로, 브라질의 토착민을 표현하는 용어이다. 구단의 서포터들은 *부그리누스*()라 불린다.

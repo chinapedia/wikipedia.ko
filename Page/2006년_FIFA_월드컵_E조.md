@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [2006 FIFA  E](https://ko.wikipedia.org/wiki/2006_FIFA__E).
+> This article is converted from Wikipedia: [2006년 FIFA 월드컵 E조](https://ko.wikipedia.org/wiki/2006년_FIFA_월드컵_E조).
 
 
 **2006년 FIFA 월드컵 E조**는 [독일](../Page/독일.md "wikilink")에서 열린 [2006년 FIFA 월드컵의](https://ko.wikipedia.org/wiki/2006년_FIFA_월드컵 "wikilink") 8개 조들 중 하나였다. E조 일정은 2006년 6월 12일에 시작하여 2006년 6월 22일에 완료되었다. 조 추첨 후 "[죽음의 조](../Page/죽음의_조.md "wikilink")"로 평가된 조로,\[1\] 그 명성에 걸맞게 2차전 종료 후 16강 진출 확정국이나 조별 리그 탈락 확정국이 하나도 나오지 않았다.\[2\] E조의 최종 결과는 최종전 종료와 함께 나왔는데, 최종전에서 승리한 [이탈리아와](../Page/이탈리아_축구_국가대표팀.md "wikilink") [가나가](../Page/가나_축구_국가대표팀.md "wikilink") 나란히 16강에 진출하였다. 이탈리아가 승점 7점으로 조 1위를 차지하였고, 가나가 2위를 차지하였다. 반면 [체코와](../Page/체코_축구_국가대표팀.md "wikilink") [미국](../Page/미국_축구_국가대표팀.md "wikilink") 축구 국가대표팀은 다음 라운드에 진출하지 못하였다.

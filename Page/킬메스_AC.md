@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ AC](https://ko.wikipedia.org/wiki/_AC).
+> This article is converted from Wikipedia: [킬메스 AC](https://ko.wikipedia.org/wiki/킬메스_AC).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Escudo_de_Quilmes_Atlético_Club.svg "wikilink")

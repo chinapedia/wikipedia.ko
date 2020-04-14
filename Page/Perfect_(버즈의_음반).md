@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Perfect \( \)](https://ko.wikipedia.org/wiki/Perfect_\(_\)).
+> This article is converted from Wikipedia: [Perfect \(버즈의 음반\)](https://ko.wikipedia.org/wiki/Perfect_\(버즈의_음반\)).
 
 
 《**Perfect**》는 [버즈의](https://ko.wikipedia.org/wiki/버즈_\(대한민국의_밴드\) "wikilink") 정규 3집 앨범이다.

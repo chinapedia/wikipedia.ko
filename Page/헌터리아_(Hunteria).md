@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ \(Hunteria\)](https://ko.wikipedia.org/wiki/_\(Hunteria\)).
+> This article is converted from Wikipedia: [헌터리아 \(Hunteria\)](https://ko.wikipedia.org/wiki/헌터리아_\(Hunteria\)).
 
 
 《**헌터리아 (Hunteria)**》는 [헌터리아](../Page/헌터리아.md "wikilink")의 첫 번째 디지털 싱글 앨범이다.

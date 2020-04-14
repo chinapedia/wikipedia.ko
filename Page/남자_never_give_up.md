@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ never give up](https://ko.wikipedia.org/wiki/_never_give_up).
+> This article is converted from Wikipedia: [남자 never give up](https://ko.wikipedia.org/wiki/남자_never_give_up).
 
 
 〈**남자 never give up**〉()은, [Sexy Zone의](https://ko.wikipedia.org/wiki/Sexy_Zone "wikilink") 7번째 [싱글이다](../Page/싱글_\(음악\).md "wikilink").

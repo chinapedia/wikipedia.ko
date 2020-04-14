@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [EC ](https://ko.wikipedia.org/wiki/EC_).
+> This article is converted from Wikipedia: [EC 바이아](https://ko.wikipedia.org/wiki/EC_바이아).
 
 
 **이스포르치 클루비 바이아**(Esporte Clube Bahia, ), 짧게는 **바이아**라 불리는 이 팀은 [브라질](../Page/브라질.md "wikilink") [바이아주](https://ko.wikipedia.org/wiki/바이아주 "wikilink") [사우바도르](../Page/사우바도르.md "wikilink")를 연고지로 하는 축구 클럽이다. 과거에 홈 경기장으로 [이스타지우 폰치 노바를](https://ko.wikipedia.org/wiki/이스타지우_폰치_노바 "wikilink") 사용했으나, [2007년](../Page/2007년.md "wikilink") 경기장이 부분적으로 무너지면서 [이스타지우 지 피투아수에서](https://ko.wikipedia.org/wiki/이스타지우_지_피투아수 "wikilink") 일시적으로 홈 경기를 치렀다. [2014년 FIFA 월드컵을](https://ko.wikipedia.org/wiki/2014년_FIFA_월드컵 "wikilink") 위해 새로 지어진 [아레나 폰치 노바를](../Page/아레나_폰치_노바.md "wikilink") 현재 사용하고 있으며, 수용인원은 48,747명이다. 바이아의 유니폼은 흰색 셔츠와 파랑색 바지, 그리고 붉은색 양말로 구성되어 있다. [2018년](../Page/2018년.md "wikilink") 현재 [캄페오나투 브라질레이루 세리이 A와](https://ko.wikipedia.org/wiki/캄페오나투_브라질레이루_세리이_A "wikilink") 바이아 주리그 [캄페오나투 바이아누에서](https://ko.wikipedia.org/wiki/캄페오나투_바이아누 "wikilink") 활동하고 있다.

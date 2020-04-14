@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  Sometimes I Cry](https://ko.wikipedia.org/wiki/__Sometimes_I_Cry).
+> This article is converted from Wikipedia: [유메데 아에루 노니〜Sometimes I Cry〜](https://ko.wikipedia.org/wiki/유메데_아에루_노니〜Sometimes_I_Cry〜).
 
 
 〈**유메데 아에루 노니〜Sometimes I Cry〜**〉(꿈에서 만날수 있는데〜Sometimes I Cry〜)는 2014년 6월 11일에 발매 된 윈즈(w-inds.)의 33번째 싱글이다. [에릭 베네이](../Page/에릭_베네이.md "wikilink") 노래를 커버한 타이틀곡이다.
@@ -30,9 +30,11 @@
 
   - 오리콘 위클리 차트 7위를 기록하였다 (14/6/18)
   - CDTV 랭킹 8위를 기록하였다. (14/6/21)
+  - 뮤직스테이션 CD lank 7위를 기록하였다.
 
 ## 외부 링크
 
   - [w-inds.(윈즈) 싱글 디스코 그라피 꿈에서 만날수 있는데〜Sometimes I Cry〜 싱글 발매 (6월 11일)](http://www.w-inds.tv/discography/single/)
 
+  -
 [분류:w-inds.의 노래](https://ko.wikipedia.org/wiki/분류:w-inds.의_노래 "wikilink") [분류:2014년 싱글](https://ko.wikipedia.org/wiki/분류:2014년_싱글 "wikilink")

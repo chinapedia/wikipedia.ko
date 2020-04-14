@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  \(Lonely Days\)](https://ko.wikipedia.org/wiki/__\(Lonely_Days\)).
+> This article is converted from Wikipedia: [론리 데이즈 \(Lonely Days\)](https://ko.wikipedia.org/wiki/론리_데이즈_\(Lonely_Days\)).
 
 
 《**론리 데이즈 (Lonley Days)**》는 [론리 데이즈의](https://ko.wikipedia.org/wiki/론리_데이즈 "wikilink") 정규 앨범이다.

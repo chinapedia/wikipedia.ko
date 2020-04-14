@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [MBC](https://ko.wikipedia.org/wiki/MBC).
+> This article is converted from Wikipedia: [MBC강원영동](https://ko.wikipedia.org/wiki/MBC강원영동).
 
 
 **주식회사 MBC강원영동**(株式會社 MBC江原嶺東)은 [강원도](../Page/강원도.md "wikilink") 영동지역을 가시청권역으로 하는 대한민국의 지상파 TV, 라디오 방송국이다. [2015년](../Page/2015년.md "wikilink") [1월 1일에](../Page/1월_1일.md "wikilink") [강릉문화방송과](../Page/MBC강원영동_강릉방송국.md "wikilink") [삼척문화방송이](../Page/MBC강원영동_삼척방송국.md "wikilink") 통합되어 MBC 강원영동이라는 새로운 이름의 지상파방송국으로 출범했다. TV방송 2채널, AM라디오 2채널, FM라디오 8채널 등을 운영하고 있으며, 강릉방송국은 영동 북부, 삼척방송국은 영동 남부를 방송권역으로서 방송중이다. 그리고 [MBC경남](../Page/MBC경남.md "wikilink") ([창원](https://ko.wikipedia.org/wiki/창원MBC "wikilink"), [진주](https://ko.wikipedia.org/wiki/진주MBC "wikilink"))에 이어 MBC계열 지상파 방송사의 2번째 합병사례이다.

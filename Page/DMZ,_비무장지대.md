@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [DMZ, ](https://ko.wikipedia.org/wiki/DMZ,_).
+> This article is converted from Wikipedia: [DMZ, 비무장지대](https://ko.wikipedia.org/wiki/DMZ,_비무장지대).
 
 
 《**DMZ, 비무장지대**》는 [2004년](../Page/2004년.md "wikilink")에 개봉한 [대한민국의](https://ko.wikipedia.org/wiki/대한민국_영화 "wikilink") 영화이다. 한편, 그룹 [UN](https://ko.wikipedia.org/wiki/UN_\(음악_그룹\) "wikilink") 출신 [김정훈이](../Page/김정훈_\(1980년\).md "wikilink") 출연하여 화제가 되었으나 흥행에 실패했다.\[1\]

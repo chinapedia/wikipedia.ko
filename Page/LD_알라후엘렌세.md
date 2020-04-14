@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [LD ](https://ko.wikipedia.org/wiki/LD_).
+> This article is converted from Wikipedia: [LD 알라후엘렌세](https://ko.wikipedia.org/wiki/LD_알라후엘렌세).
 
 
 **리가 데포르티보 알라후엘렌세**()는 [코스타리카](../Page/코스타리카.md "wikilink") [알라후엘라](https://ko.wikipedia.org/wiki/알라후엘라 "wikilink")를 연고로 하는 프로 축구 팀이며, 보통 **라 리가**(La Liga)라고 알려져있다.

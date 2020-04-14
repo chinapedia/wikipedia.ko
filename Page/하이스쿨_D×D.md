@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ DD](https://ko.wikipedia.org/wiki/_DD).
+> This article is converted from Wikipedia: [하이스쿨 D×D](https://ko.wikipedia.org/wiki/하이스쿨_D×D).
 
 
 《**하이스쿨 D×D**》()는 [일본](../Page/일본.md "wikilink")의 [후지미 판타지아 문고에서](https://ko.wikipedia.org/wiki/후지미_판타지아_문고 "wikilink") 출판되고 있는 [라이트 노벨이다](../Page/라이트_노벨.md "wikilink"). 작가는 [이시부미 이치에이](https://ko.wikipedia.org/wiki/이시부미_이치에이 "wikilink"), 일러스트는 [미야마 제로가](https://ko.wikipedia.org/wiki/미야마_제로 "wikilink") 맡았다.

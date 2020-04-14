@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ST   ](https://ko.wikipedia.org/wiki/ST___).
+> This article is converted from Wikipedia: [ST 경시청 과학 특수반](https://ko.wikipedia.org/wiki/ST_경시청_과학_특수반).
 
 
 《**ST 경시청 과학 특수반**》()은, [1998년](../Page/1998년.md "wikilink")부터 간행되고 있는, [콘노 빈의](https://ko.wikipedia.org/wiki/콘노_빈 "wikilink") [경찰 소설](https://ko.wikipedia.org/wiki/경찰물 "wikilink") 시리즈이다.

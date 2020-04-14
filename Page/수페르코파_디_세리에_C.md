@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [   C](https://ko.wikipedia.org/wiki/___C).
+> This article is converted from Wikipedia: [수페르코파 디 세리에 C](https://ko.wikipedia.org/wiki/수페르코파_디_세리에_C).
 
 
 **수페르코파 디 세리에 C**(Supercoppa di Serie C, 과거 **수페르코파 디 레가 프로**)는 [세리에 C](../Page/세리에_C.md "wikilink") 세 조의 우승 팀이 치르는 [이탈리아](../Page/이탈리아.md "wikilink")의 [축구](../Page/축구.md "wikilink") 대회이다. 1999-2000 시즌부터 치러지고 있다.

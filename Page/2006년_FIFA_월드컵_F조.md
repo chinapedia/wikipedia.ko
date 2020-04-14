@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [2006 FIFA  F](https://ko.wikipedia.org/wiki/2006_FIFA__F).
+> This article is converted from Wikipedia: [2006년 FIFA 월드컵 F조](https://ko.wikipedia.org/wiki/2006년_FIFA_월드컵_F조).
 
 
 **2006년 FIFA 월드컵 F조**는 [독일](../Page/독일.md "wikilink")에서 열린 [2006년 FIFA 월드컵의](https://ko.wikipedia.org/wiki/2006년_FIFA_월드컵 "wikilink") 8개 조들 중 하나였다. F조 일정은 2006년 6월 12일에 시작하여 2006년 6월 22일에 완료되었다. [브라질은](../Page/브라질_축구_국가대표팀.md "wikilink") 이 조에서 1위를 차지해 [오스트레일리아과](../Page/오스트레일리아_축구_국가대표팀.md "wikilink") 함께 다음 라운드에 진출하였다. 반면 [크로아티아와](../Page/크로아티아_축구_국가대표팀.md "wikilink") [일본](https://ko.wikipedia.org/wiki/일본_축구_국가대표팀 "wikilink") 축구 국가대표팀은 그리하지 못하였다.

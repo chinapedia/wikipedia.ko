@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [RNA ](https://ko.wikipedia.org/wiki/RNA_).
+> This article is converted from Wikipedia: [RNA 중합효소](https://ko.wikipedia.org/wiki/RNA_중합효소).
 
 
 **RNA 중합효소**(RNAP 혹은 RNApol)는 **DNA 의존 RNA 중합효소**로도 불리며 [DNA](../Page/DNA.md "wikilink")로부터 [1차 전사물](https://ko.wikipedia.org/wiki/1차_전사물 "wikilink")([primary transcript](https://ko.wikipedia.org/wiki/:en:primary_transcript "wikilink")) [RNA](../Page/RNA.md "wikilink")를 합성하는 [효소](../Page/효소.md "wikilink")이다. RNA 중합효소는 DNA를 이용하여 RNA 사슬을 만드는 [전사과정에](../Page/전사_\(생물학\).md "wikilink") 필수적이므로 모든 생물과 많은 [바이러스](../Page/바이러스.md "wikilink")에 존재한다. 화학적으로 RNA 중합효소는 뉴클레오티딜 [전이효소](https://ko.wikipedia.org/wiki/전이효소 "wikilink")로 [뉴클레오타이드](../Page/뉴클레오타이드.md "wikilink")를 RNA 전사물의 3' 말단에 중합한다.
@@ -26,7 +26,7 @@ RNA 중합효소의 생산물들은 다음과 같다
       - [microRNA](https://ko.wikipedia.org/wiki/microRNA "wikilink")(miRNA): 유전자 발현을 조절
       - [리보자임](../Page/리보자임.md "wikilink"): [효소](../Page/효소.md "wikilink") 활성을 가진 RNA
 
-RNA 중합효소는 새로운(*de novo*) 합성을 한다. 이는 전사를 개시할 때 [뉴클레오타이드](../Page/뉴클레오타이드.md "wikilink")와 상호작용을 통해 RNA 중합효소가 제자리에 붙어 있을 수 있기 때문이다. 같은 이유로 RNA 중합효소는 전사물의 제일 처음에 오는 뉴클레오타이드로 [ATP](../Page/아데노신_삼인산.md "wikilink"), [GTP](https://ko.wikipedia.org/wiki/구아노신_삼인산 "wikilink"), [UTP](https://ko.wikipedia.org/wiki/유리딘_삼인산 "wikilink"), [CTP](https://ko.wikipedia.org/wiki/사이티딘_삼인산 "wikilink") 순으로 선호한다. [DNA 중합효소와는](../Page/DNA_중합효소.md "wikilink") 다르게, RNA 중합효소는 [헬리케이스](https://ko.wikipedia.org/wiki/헬리케이스 "wikilink")활성을 가진다.
+RNA 중합효소는 새로운(*de novo*) 합성을 한다. 이는 전사를 개시할 때 [뉴클레오타이드](../Page/뉴클레오타이드.md "wikilink")와 상호작용을 통해 RNA 중합효소가 제자리에 붙어 있을 수 있기 때문이다. 같은 이유로 RNA 중합효소는 전사물의 제일 처음에 오는 뉴클레오타이드로 [ATP](../Page/아데노신_삼인산.md "wikilink"), [GTP](../Page/구아노신_삼인산.md "wikilink"), [UTP](../Page/유리딘_삼인산.md "wikilink"), [CTP](../Page/사이티딘_삼인산.md "wikilink") 순으로 선호한다. [DNA 중합효소와는](../Page/DNA_중합효소.md "wikilink") 다르게, RNA 중합효소는 [헬리케이스](https://ko.wikipedia.org/wiki/헬리케이스 "wikilink")활성을 가진다.
 
 ## RNA 중합효소의 활성
 

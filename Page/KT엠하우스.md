@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KT](https://ko.wikipedia.org/wiki/KT).
+> This article is converted from Wikipedia: [KT엠하우스](https://ko.wikipedia.org/wiki/KT엠하우스).
 
 
 **KT 엠하우스**는 KT 그룹사로 2004년 KT, 덴츠, 휘닉스커뮤니케이션즈의 공동 출자로 법인을 설립하고 KT의 모바일 부가사업을 성공적으로 수행해 왔다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KBS ](https://ko.wikipedia.org/wiki/KBS_).
+> This article is converted from Wikipedia: [KBS 창작동요대회](https://ko.wikipedia.org/wiki/KBS_창작동요대회).
 
 
 《**KBS 창작동요대회**》는 [1989년](../Page/1989년.md "wikilink")에 시작되어 지금까지도 개최하고 있는 [대한민국](../Page/대한민국.md "wikilink")의 동요제이다. 현재 《KBS 창작동요대회》는 KBS가 주최하는 관계로 [MBC 창작동요제와는](../Page/MBC_창작동요제.md "wikilink") 다르게 먼저 노랫말 심사를 한 뒤 다음에 곡을 붙여 예선을 치뤄 본선 진출을 가려낸 뒤, 최종 결선은 원래 1924년에 반달이 탄생한 시기와 비슷한 날에 녹화, 방영되었으나, 2014년부터 2015년까지 새학기 봄에, 2016년부터 현재까지 어린이날에 맞춰 방영되고 있다.

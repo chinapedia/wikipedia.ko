@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Go WEST  !](https://ko.wikipedia.org/wiki/Go_WEST__!).
+> This article is converted from Wikipedia: [Go WEST 준비 땅!](https://ko.wikipedia.org/wiki/Go_WEST_준비_땅!).
 
 
 《**go WEST 준비 땅\!**》()은, [쟈니즈WEST의](../Page/자니스WEST.md "wikilink") 1번째 [정규 음반이다](../Page/정규_음반.md "wikilink").

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [2002 FIFA  F](https://ko.wikipedia.org/wiki/2002_FIFA__F).
+> This article is converted from Wikipedia: [2002년 FIFA 월드컵 F조](https://ko.wikipedia.org/wiki/2002년_FIFA_월드컵_F조).
 
 
 [2002년 FIFA 월드컵은](https://ko.wikipedia.org/wiki/2002년_FIFA_월드컵 "wikilink") 32팀이 본선에 참가하였고 이들은 4팀씩 8개의 조로 나뉘었다. **[2002년 FIFA 월드컵](https://ko.wikipedia.org/wiki/2002년_FIFA_월드컵 "wikilink") F조**는 [아르헨티나](https://ko.wikipedia.org/wiki/아르헨티나_축구_국가대표팀 "wikilink"), [나이지리아](../Page/나이지리아_축구_국가대표팀.md "wikilink"), [잉글랜드](../Page/잉글랜드_축구_국가대표팀.md "wikilink"), 그리고 [스웨덴이](../Page/스웨덴_축구_국가대표팀.md "wikilink") 편성된 조이다. F조의 일정은 2002년 6월 2일부터 2002년 6월 12일까지 지속되었다. [스웨덴과](../Page/스웨덴_축구_국가대표팀.md "wikilink") [잉글랜드가](../Page/잉글랜드_축구_국가대표팀.md "wikilink") 다음 라운드에 진출하였다. 스웨덴은 잉글랜드와 승점에서 동률을 이루었으나 다득점 원칙에 따라 1위를 차지하였고, 그에 따라 2위는 잉글랜드 것이 되었다. 반면 [아르헨티나와](https://ko.wikipedia.org/wiki/아르헨티나_축구_국가대표팀 "wikilink") [나이지리아는](../Page/나이지리아_축구_국가대표팀.md "wikilink") 다음 라운드 진출에 실패하였다. F조는 다수의 평론가들이 평균 FIFA 랭킹과 FIFA 월드컵에서의 전적에 따라 "[죽음의 조](../Page/죽음의_조.md "wikilink")"라는 꼬리표를 붙였다.

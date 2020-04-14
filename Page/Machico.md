@@ -350,6 +350,6 @@
 3.
 4.
 5.  전달 한정 악곡.
-6.  카스가 미라이 (야마사키 하루카), 이부키 츠바사 (Machico), 나나오 유리코 ([이토 미쿠](https://ko.wikipedia.org/wiki/이토_미쿠 "wikilink")), 마카베 미즈키 ([아베 리카](https://ko.wikipedia.org/wiki/아베_리카 "wikilink")), 모치즈키 안나 ([나츠카와 시이나](https://ko.wikipedia.org/wiki/나츠카와_시이나 "wikilink"))
+6.  카스가 미라이 (야마사키 하루카), 이부키 츠바사 (Machico), 나나오 유리코 ([이토 미쿠](https://ko.wikipedia.org/wiki/이토_미쿠 "wikilink")), 마카베 미즈키 ([아베 리카](https://ko.wikipedia.org/wiki/아베_리카 "wikilink")), 모치즈키 안나 ([나츠카와 시이나](../Page/나츠카와_시이나.md "wikilink"))
 7.
 8.

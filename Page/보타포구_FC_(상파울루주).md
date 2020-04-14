@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ FC \(\)](https://ko.wikipedia.org/wiki/_FC_\(\)).
+> This article is converted from Wikipedia: [보타포구 FC \(상파울루주\)](https://ko.wikipedia.org/wiki/보타포구_FC_\(상파울루주\)).
 
 
 **보타포구 FC**(Botafogo Futebol Clube)는 [브라질](../Page/브라질.md "wikilink") [상파울루주](../Page/상파울루주.md "wikilink") [히베이랑프레투](../Page/히베이랑프레투.md "wikilink")를 연고로 하는 축구 클럽으로, [1918년](../Page/1918년.md "wikilink") [10월 12일에](../Page/10월_12일.md "wikilink") 창단되었다. 연고지 상파울루 주의 약어를 따 **보타포구-SP**로도 표기된다. [2018년](../Page/2018년.md "wikilink") 현재 브라질 3부 리그인 [캄페오나투 브라질레이루 세리이 C와](../Page/캄페오나투_브라질레이루_세리이_C.md "wikilink") 상파울루 주리그인 [캄페오나투 파울리스타에](../Page/캄페오나투_파울리스타.md "wikilink") 참가하고 있다.

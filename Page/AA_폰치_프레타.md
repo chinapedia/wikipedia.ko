@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [AA  ](https://ko.wikipedia.org/wiki/AA__).
+> This article is converted from Wikipedia: [AA 폰치 프레타](https://ko.wikipedia.org/wiki/AA_폰치_프레타).
 
 
 **AA 폰치 프레타**()은 [상파울루주](../Page/상파울루주.md "wikilink") [캄피나스](../Page/캄피나스.md "wikilink")를 연고로 하는 축구 클럽이다. 폰치 프레타의 뜻은 [포르투갈어](../Page/포르투갈어.md "wikilink")로, "검은 다리"라는 뜻이다. 이 클럽은 *마카카*(Macaca, 암컷 원숭이)라는 별칭으로 불리기도 한다. 폰치 프레타는 [1900년](../Page/1900년.md "wikilink") [8월 11일에](../Page/8월_11일.md "wikilink") 창단되었으며, 이는 [브라질](../Page/브라질.md "wikilink")에서 두번째로 오래된 축구단이다. 가장 오래된 구단은 [스포르트 클루브 히우 그란지이다](https://ko.wikipedia.org/wiki/스포르트_클루브_히우_그란지 "wikilink").

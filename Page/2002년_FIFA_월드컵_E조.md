@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [2002 FIFA  E](https://ko.wikipedia.org/wiki/2002_FIFA__E).
+> This article is converted from Wikipedia: [2002년 FIFA 월드컵 E조](https://ko.wikipedia.org/wiki/2002년_FIFA_월드컵_E조).
 
 
 [2002년 FIFA 월드컵은](https://ko.wikipedia.org/wiki/2002년_FIFA_월드컵 "wikilink") 32팀이 본선에 참가하였고 이들은 4팀씩 8개의 조로 나뉘었다. **[2002년 FIFA 월드컵](https://ko.wikipedia.org/wiki/2002년_FIFA_월드컵 "wikilink") E조**는 [독일](../Page/독일_축구_국가대표팀.md "wikilink"), [사우디아라비아](../Page/사우디아라비아_축구_국가대표팀.md "wikilink"), [아일랜드](../Page/아일랜드_축구_국가대표팀.md "wikilink"), 그리고 [카메룬이](../Page/카메룬_축구_국가대표팀.md "wikilink") 들어갔다. E조의 일정은 2002년 6월 1일에 시작되어 2002년 6월 11일에 완료되었다. [독일이](../Page/독일_축구_국가대표팀.md "wikilink") 이 조에서 1위를 차지하여 [아일랜드와](../Page/아일랜드_축구_국가대표팀.md "wikilink") 함께 16강에 진출하였다. [카메룬과](../Page/카메룬_축구_국가대표팀.md "wikilink") [사우디아라비아는](../Page/사우디아라비아_축구_국가대표팀.md "wikilink") 다음 라운드 진출에 실패하였으며, 특히 [독일한테](../Page/독일_축구_국가대표팀.md "wikilink") 0-8로 대패를 당한 [사우디아라비아는](../Page/사우디아라비아_축구_국가대표팀.md "wikilink") 무득점에 12실점을 기록하여 조 꼴찌는 물론 32개국 참가팀 중에서도 최하위로 탈락하는 수모를 당했다.

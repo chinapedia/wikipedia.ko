@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FNC  ](https://ko.wikipedia.org/wiki/FNC__).
+> This article is converted from Wikipedia: [FNC 엔터테인먼트의 음반](https://ko.wikipedia.org/wiki/FNC_엔터테인먼트의_음반).
 
 
 이 문서는 [FNC 엔터테인먼트에서](../Page/FNC_엔터테인먼트.md "wikilink") 발표한 음반 목록이다.
@@ -249,7 +249,7 @@
   - 2018년 12월 10일 박광현 - **끝까지 사랑 OST**
   - 2018년 12월 17일 FNC 엔터 - **\[Digital Single\] It’s Christmas**
   - 2019년 1월 2일 엔플라잉 - **\[Digital Single\] 옥탑방**\[44\](엔플라잉의 첫번재 1위곡)
-  - 2019년 1월 21일 [체리블렛](https://ko.wikipedia.org/wiki/체리블렛 "wikilink") - **\[Digital Single\] Let's Play Cherry Bullet**
+  - 2019년 1월 21일 [체리블렛](../Page/체리블렛.md "wikilink") - **\[Digital Single\] Let's Play Cherry Bullet**
   - 2019년 2월 20일 SF9 - **NARCISSUS**
   - 2019년 3월 21일 [위자월](https://ko.wikipedia.org/wiki/PRODUCE_X_101 "wikilink"),[토니](https://ko.wikipedia.org/wiki/PRODUCE_X_101 "wikilink") - **\[Digital Single\] _지마 (X1-MA)**\[45\]
   - 2019년 4월 8일 정형돈 - **국민 여러분\! OST Part.1**\[46\]
@@ -277,6 +277,8 @@
   - 2020년 2월 8일 SF9 - **'\[Digital Single\] 투유 프로젝트 - 슈가맨3 Part.9**\[51\]
   - 2020년 2월 11일 체리블렛 - **\[Digital Single\] [무릎을 탁 치고 (Hands up)](https://ko.wikipedia.org/wiki/무릎을_탁_치고_\(Hands_up\) "wikilink")**
   - 2020년 2월 15일 엔플라잉 - **\[Digital Single\] 투유 프로젝트 - 슈가맨3 Part.10**\[52\]
+  - 2020년 3월 15일 유나 - **빅픽처 하우스 OST Part.1**
+  - 2020년 3월 28일 유재석 - **\[Digital Single\] 이별의 정류장**\[53\]
 
 ## 각주
 
@@ -334,3 +336,4 @@
 50. [퀸덤](https://ko.wikipedia.org/wiki/퀸덤 "wikilink") 파이널 경연 곡
 51. [몽니](../Page/몽니.md "wikilink")도 앨범 참여.
 52. [여자친구도](../Page/여자친구_\(음악_그룹\).md "wikilink") 앨범 참여.
+53. [송가인](../Page/송가인.md "wikilink")도 앨범에 참여.

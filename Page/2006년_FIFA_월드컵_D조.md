@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [2006 FIFA  D](https://ko.wikipedia.org/wiki/2006_FIFA__D).
+> This article is converted from Wikipedia: [2006년 FIFA 월드컵 D조](https://ko.wikipedia.org/wiki/2006년_FIFA_월드컵_D조).
 
 
 **2006년 FIFA 월드컵 D조**는 [독일](../Page/독일.md "wikilink")에서 열린 [2006년 FIFA 월드컵의](https://ko.wikipedia.org/wiki/2006년_FIFA_월드컵 "wikilink") 8개 조들 중 하나였다. D조 일정은 2006년 6월 11일에 시작하여 2006년 6월 21일에 완료되었다. [포르투갈은](../Page/포르투갈_축구_국가대표팀.md "wikilink") 이 조에서 1위를 차지해 [멕시코과](../Page/멕시코_축구_국가대표팀.md "wikilink") 함께 다음 라운드에 진출하였다. 반면 [앙골라와](../Page/앙골라_축구_국가대표팀.md "wikilink") [이란](../Page/이란_축구_국가대표팀.md "wikilink") 축구 국가대표팀은 그리하지 못하였다.

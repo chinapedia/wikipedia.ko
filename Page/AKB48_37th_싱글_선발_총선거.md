@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [AKB48 37th   ](https://ko.wikipedia.org/wiki/AKB48_37th___).
+> This article is converted from Wikipedia: [AKB48 37th 싱글 선발 총선거](https://ko.wikipedia.org/wiki/AKB48_37th_싱글_선발_총선거).
 
 
 **AKB48 37th 싱글 선발 총선거**()는 [AKB48](../Page/AKB48.md "wikilink")의 37번째 CD 싱글에 참여하는 선발 멤버를 팬들의 투표로 결정하는 이벤트이다. 이 선거의 상위 16위까지의 멤버가 [2014년](../Page/2014년.md "wikilink") [8월 27일부터](../Page/8월_27일.md "wikilink") 발매될 예정인 37번째 싱글 〈[마음의 플래카드](https://ko.wikipedia.org/wiki/고코로노플래카드 "wikilink")〉(心のプラカード)의 선발 멤버가 되었다.

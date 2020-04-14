@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TV](https://ko.wikipedia.org/wiki/TV).
+> This article is converted from Wikipedia: [플레이보이TV](https://ko.wikipedia.org/wiki/플레이보이TV).
 
 
 **플레이보이TV**(Playboy TV)는 대한민국의 (주)씨맥스커뮤니케이션즈에서 운영하는 유료 성인영화 채널이다.
@@ -57,8 +57,7 @@
 ## 외부 링크
 
   - [플레이보이TV 공식 홈페이지](http://www.playboytv.co.kr)
-  - [플레이보이TV 공식 페이스북](https://www.facebook.com/pbkorea)
-  - [플레이보이TV 공식 트위터](https://twitter.com/PLAYBOYTVKR)
+  - [플레이보이TV 유튜브](https://www.youtube.com/channel/UCWY8QAtVXZ-F6a2ptrReeCA)
 
 [분류:대한민국의 텔레비전 케이블 방송국](https://ko.wikipedia.org/wiki/분류:대한민국의_텔레비전_케이블_방송국 "wikilink") [분류:영화 텔레비전 네트워크](https://ko.wikipedia.org/wiki/분류:영화_텔레비전_네트워크 "wikilink") [분류:플레이보이](https://ko.wikipedia.org/wiki/분류:플레이보이 "wikilink")
 

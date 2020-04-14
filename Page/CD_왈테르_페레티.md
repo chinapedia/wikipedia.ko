@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [CD  ](https://ko.wikipedia.org/wiki/CD__).
+> This article is converted from Wikipedia: [CD 왈테르 페레티](https://ko.wikipedia.org/wiki/CD_왈테르_페레티).
 
 
 **클루브 데포르티보 왈테르 페레티**()는 [니카라과](../Page/니카라과.md "wikilink")의 수도 [마나과](../Page/마나과.md "wikilink")를 연고지로 하는 니카라과의 명문 [축구](../Page/축구.md "wikilink") 클럽이다. 1987년에 창단했으며 현재는 니카라과 프리메라 디비시온에 참가하고 있다.

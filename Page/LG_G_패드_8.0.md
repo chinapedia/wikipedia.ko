@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [LG G  8.0](https://ko.wikipedia.org/wiki/LG_G__8.0).
+> This article is converted from Wikipedia: [LG G 패드 8.0](https://ko.wikipedia.org/wiki/LG_G_패드_8.0).
 
 
 **LG G패드 8.0** (LG G pad 8.0)은 [LG전자](../Page/LG전자.md "wikilink")가 [2014년](../Page/2014년.md "wikilink") [5월 12일](../Page/5월_12일.md "wikilink") 공개된 [안드로이드](../Page/안드로이드_\(운영_체제\).md "wikilink") [태블릿으로](../Page/태블릿_컴퓨터.md "wikilink"), **[LG G 패드 8.3](../Page/LG_G_패드_8.3.md "wikilink")**의 후속 기종이다. 와이파이 전용 모델과 LTE 모델이 존재한다.

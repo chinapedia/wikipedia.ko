@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [9 MBC ](https://ko.wikipedia.org/wiki/9_MBC_).
+> This article is converted from Wikipedia: [제9회 MBC 강변가요제](https://ko.wikipedia.org/wiki/제9회_MBC_강변가요제).
 
 
 **《제9회 MBC 강변가요제》**는 1988년 8월 6일 [강원도](../Page/강원도.md "wikilink") [춘천](https://ko.wikipedia.org/wiki/춘천 "wikilink") [남이섬](../Page/남이섬.md "wikilink")에서 열린 제9회 [MBC 강변가요제](../Page/MBC_강변가요제.md "wikilink") 출전곡이 수록된 음반이다.

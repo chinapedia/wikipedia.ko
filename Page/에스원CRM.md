@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [CRM](https://ko.wikipedia.org/wiki/CRM).
+> This article is converted from Wikipedia: [에스원CRM](https://ko.wikipedia.org/wiki/에스원CRM).
 
 
 **에스원CRM**은 대한민국의 기업으로, 에스원의 자회사이다.

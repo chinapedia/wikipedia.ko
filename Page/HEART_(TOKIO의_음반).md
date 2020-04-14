@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [HEART \(TOKIO \)](https://ko.wikipedia.org/wiki/HEART_\(TOKIO_\)).
+> This article is converted from Wikipedia: [HEART \(TOKIO의 음반\)](https://ko.wikipedia.org/wiki/HEART_\(TOKIO의_음반\)).
 
 
 《**HEART**》(하트)는, [TOKIO](../Page/TOKIO.md "wikilink")의 3번째 [베스트 음반이다](https://ko.wikipedia.org/wiki/베스트_음반 "wikilink").

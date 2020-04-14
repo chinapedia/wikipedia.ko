@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ R](https://ko.wikipedia.org/wiki/_R).
+> This article is converted from Wikipedia: [소닉 R](https://ko.wikipedia.org/wiki/소닉_R).
 
 
 **소닉 R**(Sonic R)은 [세가 새턴을](../Page/세가_새턴.md "wikilink") 통해 1997년 12월 발매되고 [MS 윈도를](https://ko.wikipedia.org/wiki/MS_윈도 "wikilink") 통해 1998년 12월 출시된 [세가의](https://ko.wikipedia.org/wiki/세가_게임즈 "wikilink") 콘솔용 레이싱 게임이다. 이 게임은 북미에 1997년 11월 18일 출시 되었고 일본에는 12월 4일, 호주에는 12월 11일 출시되었다. [2005년](../Page/2005년.md "wikilink")에는 [소닉 젬즈 컬렉션이라는](../Page/소닉_젬즈_컬렉션.md "wikilink") 이름으로 [플레이스테이션 2와](../Page/플레이스테이션_2.md "wikilink") [게임큐브에](../Page/닌텐도_게임큐브.md "wikilink") 재출시되었다.

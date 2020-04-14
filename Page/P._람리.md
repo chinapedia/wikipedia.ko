@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [P. ](https://ko.wikipedia.org/wiki/P._).
+> This article is converted from Wikipedia: [P. 람리](https://ko.wikipedia.org/wiki/P._람리).
 
 
 **P. 람리**()는 [말레이시아](../Page/말레이시아.md "wikilink") 풀라우피낭 출신의 가수, 작곡가, 영화배우 겸 영화감독이다. 본명은 **탄 스리 다툭 아마르 닥터 P. 람리**()이며, **테우쿠 자카리아 빈 테우쿠 냑 푸테흐**()라는 이름으로 태어났다. 그는 특히 동남아 연예 산업에 큰 영향을 남겼으며, 이 때문에 "최고의 국민 가수"로도 불린다. 그는 도쿄에서 열린 제4회 아시아 영화제에서 Best Male Lead Role로, 제10회 아시아 영화제에서 Most Versatile Talent로 국제적인 명성을 얻었다. 그는 생전 401개의 노래를 작곡했고, 66개의 영화를 감독했다. 1973년 그가 죽자, 많은 사람들의 추모가 이어졌고, 후에 시티 누르할리자, 리자 하님 등 많은 가수들이 그를 기념하기도 했다. 그녀의 셋째 부인인 살로마도 그 못지 않은 영향력을 누렸다.

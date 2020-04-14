@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [LG G3 ](https://ko.wikipedia.org/wiki/LG_G3_).
+> This article is converted from Wikipedia: [LG G3 비트](https://ko.wikipedia.org/wiki/LG_G3_비트).
 
 
 **LG G3 비트**(LG G3 Beat)는 [LG전자](../Page/LG전자.md "wikilink")가 2014년 7월 19일에 출시\[1\]한 [LG G3의](../Page/LG_G3.md "wikilink") 보급형 [패블릿](../Page/패블릿.md "wikilink") [스마트폰](../Page/스마트폰.md "wikilink")이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KNN](https://ko.wikipedia.org/wiki/KNN).
+> This article is converted from Wikipedia: [KNN뉴스](https://ko.wikipedia.org/wiki/KNN뉴스).
 
 
 《**KNN뉴스**》는 매주 [토요일](../Page/토요일.md "wikilink")과 [일요일](../Page/일요일.md "wikilink") 오후에 방송되는 [KNN](../Page/KNN.md "wikilink") 뉴스 프로그램이다.

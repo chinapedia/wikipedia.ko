@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [2006 FIFA  B](https://ko.wikipedia.org/wiki/2006_FIFA__B).
+> This article is converted from Wikipedia: [2006년 FIFA 월드컵 B조](https://ko.wikipedia.org/wiki/2006년_FIFA_월드컵_B조).
 
 
 **2006년 FIFA 월드컵 B조**는 [독일](../Page/독일.md "wikilink")에서 열린 [2006년 FIFA 월드컵의](https://ko.wikipedia.org/wiki/2006년_FIFA_월드컵 "wikilink") 8개 조들 중 하나였다. B조 일정은 2006년 6월 10일에 시작하여 2006년 6월 20일에 완료되었다. [잉글랜드는](../Page/잉글랜드_축구_국가대표팀.md "wikilink") 이 조에서 1위를 차지해 [스웨덴과](../Page/스웨덴_축구_국가대표팀.md "wikilink") 함께 다음 라운드에 진출하였다. 반면 [파라과이와](../Page/파라과이_축구_국가대표팀.md "wikilink") [트리니다드 토바고](../Page/트리니다드_토바고_축구_국가대표팀.md "wikilink") 축구 국가대표팀은 그리하지 못하였다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [2006 FIFA  A](https://ko.wikipedia.org/wiki/2006_FIFA__A).
+> This article is converted from Wikipedia: [2006년 FIFA 월드컵 A조](https://ko.wikipedia.org/wiki/2006년_FIFA_월드컵_A조).
 
 
 **2006년 FIFA 월드컵 A조**는 [독일](../Page/독일.md "wikilink")에서 열린 [2006년 FIFA 월드컵의](https://ko.wikipedia.org/wiki/2006년_FIFA_월드컵 "wikilink") 8개 조들 중 하나였다. A조 일정은 2006년 6월 9일에 시작하여 2006년 6월 20일에 완료되었다. [독일은](../Page/독일_축구_국가대표팀.md "wikilink") 이 조에서 1위를 차지해 [에콰도르와](../Page/에콰도르_축구_국가대표팀.md "wikilink") 함께 다음 라운드에 진출하였다. 반면 [폴란드와](../Page/폴란드_축구_국가대표팀.md "wikilink") [코스타리카](../Page/코스타리카_축구_국가대표팀.md "wikilink") 축구 국가대표팀은 그리하지 못하였다.

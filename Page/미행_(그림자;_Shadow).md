@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ \(\; Shadow\)](https://ko.wikipedia.org/wiki/_\(\;_Shadow\)).
+> This article is converted from Wikipedia: [미행 \(그림자\; Shadow\)](https://ko.wikipedia.org/wiki/미행_\(그림자\;_Shadow\)).
 
 
 "**미행 (그림자; Shadow)**"은 대한민국의 음악 그룹 [f(x)](https://ko.wikipedia.org/wiki/f\(x\) "wikilink")가 부른 [얼터네이티브 팝](../Page/인디_팝.md "wikilink") 장르의 노래이다. 2013년 7월 29일 발매한 그룹의 두번째 정규 음반 *[Pink Tape](../Page/Pink_Tape.md "wikilink")*에 두번째 트랙으로 수록되었다.\[1\]

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [HK  ](https://ko.wikipedia.org/wiki/HK__).
+> This article is converted from Wikipedia: [HŠK 즈린스키 모스타르](https://ko.wikipedia.org/wiki/HŠK_즈린스키_모스타르).
 
 
 **HŠK 즈린스키 모스타르**(HŠK Zrinjski Mostar)는 [보스니아 헤르체고비나에](../Page/보스니아_헤르체고비나.md "wikilink") 있는 [모스타르](../Page/모스타르.md "wikilink")를 연고로 하는 [축구](../Page/축구.md "wikilink") 클럽이다. 이 팀은 [1905년](../Page/1905년.md "wikilink")에 창단되었으며, 현재 [보스니아 헤르체고비나 프리미어리그에](../Page/보스니아_헤르체고비나_프리미어리그.md "wikilink") 출전하고 있다.

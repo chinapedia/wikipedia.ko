@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ SC](https://ko.wikipedia.org/wiki/_SC).
+> This article is converted from Wikipedia: [바르셀로나 SC](https://ko.wikipedia.org/wiki/바르셀로나_SC).
 
 
 **바르셀로나 스포르팅 클루브**(Barcelona Sporting Club)는 [에콰도르](../Page/에콰도르.md "wikilink") [과야킬](../Page/과야킬.md "wikilink")의 축구 클럽으로, [1925년](../Page/1925년.md "wikilink")에 창단되었다. [2018년](../Page/2018년.md "wikilink") 현재 [에콰도르 세리에 A에](../Page/에콰도르_세리에_A.md "wikilink") 참여하고 있으며, 에콰도르에서 유일하게 단 한번도 강등된 적 없는 축구단이다. [2016년](../Page/2016년.md "wikilink") 우승이 최근이며, 총 15회의 우승으로 에콰도르 최다 우승팀이다. 또한 [코파 리베르타도레스](../Page/코파_리베르타도레스.md "wikilink") 결승전에 올라선 최초의 에콰도르 축구팀이며, 결승전에는 두 번 올라선 적이 있다. 구단의 최대 라이벌은 [CS 에멜레크로](../Page/CS_에멜레크.md "wikilink"), 두 구단 간의 더비는 [엘 클라시코 델 아스티예로라](https://ko.wikipedia.org/wiki/엘_클라시코_델_아스티예로 "wikilink") 불린다. 바르셀로나 SC의 홈 구장은 7만 2천석의 [에스타디오 모누멘탈 이시드로 로메로 카르보로](https://ko.wikipedia.org/wiki/에스타디오_모누멘탈_이시드로_로메로_카르보 "wikilink"), 에콰도르에서 가장 커다란 규모의 경기장이다.

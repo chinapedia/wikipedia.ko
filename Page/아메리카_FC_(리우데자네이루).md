@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ FC \(\)](https://ko.wikipedia.org/wiki/_FC_\(\)).
+> This article is converted from Wikipedia: [아메리카 FC \(리우데자네이루\)](https://ko.wikipedia.org/wiki/아메리카_FC_\(리우데자네이루\)).
 
 
 **아메리카 FC**(America Football Club)는 [브라질](../Page/브라질.md "wikilink")의 [리우데자네이루주](../Page/리우데자네이루주.md "wikilink") [리우데자네이루](../Page/리우데자네이루.md "wikilink")를 연고지로 하는 축구 클럽으로, [1904년](../Page/1904년.md "wikilink") [9월 18일에](../Page/9월_18일.md "wikilink") 창단되었다. 연고지 리우데자네이루 주의 약어를 따 **아메리카-RJ**라고도 표기된다. 홈 경기장으로 [이스타지우 지울리치 쿠치뉴를](https://ko.wikipedia.org/wiki/이스타지우_지울리치_쿠치뉴 "wikilink") 사용하며, 수용인원은 16,000명이다. 구단의 상징색은 빨강과 하양이다.

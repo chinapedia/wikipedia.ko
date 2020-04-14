@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [GSI   ](https://ko.wikipedia.org/wiki/GSI___).
+> This article is converted from Wikipedia: [GSI 헬름홀츠 중이온 연구소](https://ko.wikipedia.org/wiki/GSI_헬름홀츠_중이온_연구소).
 
 
 [thumb](https://ko.wikipedia.org/wiki/파일:GSI_Logo_rgb.png "wikilink") [thumb](https://ko.wikipedia.org/wiki/파일:GSI-Darmstadt-Südbau.jpg "wikilink") [thumb](https://ko.wikipedia.org/wiki/파일:ESR01.jpg "wikilink")

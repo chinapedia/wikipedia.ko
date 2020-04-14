@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Halftime \(\)](https://ko.wikipedia.org/wiki/Halftime_\(\)).
+> This article is converted from Wikipedia: [Halftime \(음반\)](https://ko.wikipedia.org/wiki/Halftime_\(음반\)).
 
 
 **Halftime**은 대한민국의 가수 [박진영](../Page/박진영.md "wikilink")의 [미니 앨범으로](../Page/익스텐디드_플레이.md "wikilink") [2013년](../Page/2013년.md "wikilink") [9월 9일](../Page/9월_9일.md "wikilink") 발매되었다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [2002 FIFA  C](https://ko.wikipedia.org/wiki/2002_FIFA__C).
+> This article is converted from Wikipedia: [2002년 FIFA 월드컵 C조](https://ko.wikipedia.org/wiki/2002년_FIFA_월드컵_C조).
 
 
 [2002년 FIFA 월드컵은](https://ko.wikipedia.org/wiki/2002년_FIFA_월드컵 "wikilink") 32팀이 본선에 참가하였고 이들은 4팀씩 8개의 조로 나뉘었다. **[2002년 FIFA 월드컵](https://ko.wikipedia.org/wiki/2002년_FIFA_월드컵 "wikilink") C조**는 [브라질](../Page/브라질_축구_국가대표팀.md "wikilink"), [터키](../Page/터키_축구_국가대표팀.md "wikilink"), [중국](https://ko.wikipedia.org/wiki/중국_축구_국가대표팀 "wikilink"), 그리고 [코스타리카가](../Page/코스타리카_축구_국가대표팀.md "wikilink") 속했던 조였다. C조의 모든 일정은 2002년 6월 3일과 2002년 6월 13일 사이에 치러졌다. [브라질이](../Page/브라질_축구_국가대표팀.md "wikilink") 조 1위를 차지하여 [터키와](../Page/터키_축구_국가대표팀.md "wikilink") 함께 다음 라운드에 진출하였다. [코스타리카는](../Page/코스타리카_축구_국가대표팀.md "wikilink") 터키와 승점 동률을 이루었으나, 골득실차에 밀려 조 2위를 내주어야 했다. [중국은](https://ko.wikipedia.org/wiki/중국_축구_국가대표팀 "wikilink") 승점 1점도 없는 상태로 탈락하였다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KBS ](https://ko.wikipedia.org/wiki/KBS_).
+> This article is converted from Wikipedia: [KBS 뉴스특보](https://ko.wikipedia.org/wiki/KBS_뉴스특보).
 
 
 《**KBS 뉴스특보**》()는 특집 뉴스로 [KBS 1TV에서](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink") 방송되는 [한국방송공사 뉴스 프로그램이다](https://ko.wikipedia.org/wiki/한국방송공사_뉴스_프로그램 "wikilink"). 특집 뉴스 특성에 따라 **KBS 뉴스속보**로 방송되기도 하며, 날씨 재난과 관련된 특집 뉴스는 **KBS 기상특보** 혹은 **KBS 지진속보**로 방송된다. 또한, 일부 특집 뉴스의 경우 부제가 따라붙는 경우도 있다.\[1\] \<2015년 KBS 대개편\> 시행으로 2015년 1월 1일부터 로고가 변경되었다.

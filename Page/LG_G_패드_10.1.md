@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [LG G  10.1](https://ko.wikipedia.org/wiki/LG_G__10.1).
+> This article is converted from Wikipedia: [LG G 패드 10.1](https://ko.wikipedia.org/wiki/LG_G_패드_10.1).
 
 
 **LG G 패드 10.1** (LG G pad 10.1)은 [LG전자](../Page/LG전자.md "wikilink")가 [2014년](../Page/2014년.md "wikilink") [5월 12일](../Page/5월_12일.md "wikilink") 공개된 [안드로이드](../Page/안드로이드_\(운영_체제\).md "wikilink") [태블릿으로](../Page/태블릿_컴퓨터.md "wikilink"), **[LG G 패드 8.3](../Page/LG_G_패드_8.3.md "wikilink")**의 후속 기종이다.

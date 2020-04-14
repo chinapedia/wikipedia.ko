@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Historical populations](https://ko.wikipedia.org/wiki/:Historical_populations).
+> This article is converted from Wikipedia: [모듈:Historical populations](https://ko.wikipedia.org/wiki/모듈:Historical_populations).
 
 
 \-- -- This template implements  -- local p = {} local lang = mw.getContentLanguage()

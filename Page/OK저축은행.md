@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [OK](https://ko.wikipedia.org/wiki/OK).
+> This article is converted from Wikipedia: [OK저축은행](https://ko.wikipedia.org/wiki/OK저축은행).
 
 
 **OK저축은행**(Original Korean Savings Bank of Korea)은 2014년 7월 [러시앤캐시](https://ko.wikipedia.org/wiki/러시앤캐시 "wikilink")가 가교저축은행이었던 예주저축은행과 예나래저축은행을 인수하여 출범시킨 저축은행이다.

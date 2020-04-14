@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [RTL ](https://ko.wikipedia.org/wiki/RTL_).
+> This article is converted from Wikipedia: [RTL 그룹](https://ko.wikipedia.org/wiki/RTL_그룹).
 
 
 [오른쪽](https://ko.wikipedia.org/wiki/파일:RTL_Group.svg "wikilink") **RTL 그룹**(RTL Group)은 [룩셈부르크](../Page/룩셈부르크.md "wikilink")에서 설립된 [유럽](../Page/유럽.md "wikilink")의 [방송](../Page/방송.md "wikilink") 미디어 기업이다. 모기업은 [독일](../Page/독일.md "wikilink")의 [베르텔스만](../Page/베르텔스만.md "wikilink")이며 2014년 1월 기준으로 75.1%의 지분을 소유하고 있다.

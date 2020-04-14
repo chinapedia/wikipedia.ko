@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [7 KBO  ](https://ko.wikipedia.org/wiki/7_KBO__).
+> This article is converted from Wikipedia: [제7회 KBO 총재기 전국대학야구대회](https://ko.wikipedia.org/wiki/제7회_KBO_총재기_전국대학야구대회).
 
 
 **제7회 KBO 총재기 전국대학야구대회**(第7回 KBO 總裁旗 全國大學野球大會)는 대한야구협회에서 주최하는 전국 규모의 대학야구대회이다. [2014년](../Page/2014년.md "wikilink") [7월 7일부터](../Page/7월_7일.md "wikilink") [7월 16일까지](../Page/7월_16일.md "wikilink")[서울특별시](../Page/서울특별시.md "wikilink") [목동야구장](../Page/목동야구장.md "wikilink")과 [신월야구장](https://ko.wikipedia.org/wiki/신월야구장 "wikilink")에서 개최되었다. [동국대학교](https://ko.wikipedia.org/wiki/동국대학교 "wikilink")가 [경성대학교](../Page/경성대학교.md "wikilink")를 8-3으로 이기고 우승하였으며, [윤영수가](https://ko.wikipedia.org/wiki/윤영수_\(야구_선수\) "wikilink") 최우수선수에 선정되었다.\[1\]

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [EBS  ](https://ko.wikipedia.org/wiki/EBS__).
+> This article is converted from Wikipedia: [EBS 고운노래 발표회](https://ko.wikipedia.org/wiki/EBS_고운노래_발표회).
 
 
 **EBS 고운노래 발표회**는 [1998년](../Page/1998년.md "wikilink")에 시작되어 [2010년](../Page/2010년.md "wikilink")에 폐지된 [대한민국](../Page/대한민국.md "wikilink")의 동요제이다. EBS 고운노래 발표회는 [한국교육방송공사](../Page/한국교육방송공사.md "wikilink")가 새로운 동요의 발굴과 보급을 위하여 기획된 동요제였으며, 해마다 12곡가량의 창작동요를 발표하는데 기여되었다. 한국교육방송공사로서의 유일한 동요대회로, [MBC 창작동요제와](../Page/MBC_창작동요제.md "wikilink") [KBS 창작동요대회를](../Page/KBS_창작동요대회.md "wikilink") 견줄만한 메이저 동요대회로써 자리를 잡았다.
