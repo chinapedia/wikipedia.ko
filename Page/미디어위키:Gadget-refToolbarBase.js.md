@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Gadget-refToolbarBase.js](https://ko.wikipedia.org/wiki/:Gadget-refToolbarBase.js).
+> This article is converted from Wikipedia: [미디어위키:Gadget-refToolbarBase.js](https://ko.wikipedia.org/wiki/미디어위키:Gadget-refToolbarBase.js).
 
 
 /\* jshint asi: true \*/ /\* global mw, $, CiteTB, citeTemplate, citeErrorCheck \*/

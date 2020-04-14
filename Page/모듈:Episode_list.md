@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Episode list](https://ko.wikipedia.org/wiki/:Episode_list).
+> This article is converted from Wikipedia: [모듈:Episode list](https://ko.wikipedia.org/wiki/모듈:Episode_list).
 
 
 local p = {}

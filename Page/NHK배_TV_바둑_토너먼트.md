@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [NHK TV  ](https://ko.wikipedia.org/wiki/NHK_TV__).
+> This article is converted from Wikipedia: [NHK배 TV 바둑 토너먼트](https://ko.wikipedia.org/wiki/NHK배_TV_바둑_토너먼트).
 
 
 **NHK배**(일본어 : NHK杯テレビ囲碁トーナメント)는 [일본방송협회](../Page/일본방송협회.md "wikilink")와 [일본기원](https://ko.wikipedia.org/wiki/일본기원 "wikilink")이 주관하고 [관서기원](https://ko.wikipedia.org/wiki/관서기원 "wikilink")이 협력하는 [일본](../Page/일본.md "wikilink")의 [바둑 기전이다](../Page/바둑_기전.md "wikilink"). 우승자와 준우승자는 1989년부터 매년 한국 KBS, 일본 NHK, 중국 CCTV가 한국,일본,중국을 3국이 번갈아가며 교대로 개최하는 [TV 바둑 아시아 선수권대회에](../Page/TV_바둑_아시아_선수권대회.md "wikilink") 출전한다.
@@ -91,8 +91,9 @@
 | 62 | 2015 | [이다 아쓰시](https://ko.wikipedia.org/wiki/이다_아쓰시 "wikilink")       | 1-0                                                           | [이치리키 료](../Page/이치리키_료.md "wikilink")                        |
 | 63 | 2016 | [장쉬](../Page/장쉬.md "wikilink")                                  | 1-0                                                           | [데라야마 레이](https://ko.wikipedia.org/wiki/데라야마_레이 "wikilink")   |
 | 64 | 2017 | [이야마 유타](../Page/이야마_유타.md "wikilink")                          | 1-0                                                           | [이치리키 료](../Page/이치리키_료.md "wikilink")                        |
-| 65 | 2018 | [이야마 유타](../Page/이야마_유타.md "wikilink")                          | 1-0                                                           | [시다 다쓰야](https://ko.wikipedia.org/wiki/시다_다쓰야 "wikilink")     |
+| 65 | 2018 | 1-0                                                             | [시다 다쓰야](https://ko.wikipedia.org/wiki/시다_다쓰야 "wikilink")     |                                                               |
 | 66 | 2019 | [이치리키 료](../Page/이치리키_료.md "wikilink")                          | 1-0                                                           | [이야마 유타](../Page/이야마_유타.md "wikilink")                        |
+| 67 | 2020 | [이야마 유타](../Page/이야마_유타.md "wikilink")                          | 1-0                                                           | [이치리키 료](../Page/이치리키_료.md "wikilink")                        |
 |    |      |                                                                 |                                                               |                                                               |
 
 ## 외부 링크

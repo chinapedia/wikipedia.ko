@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Mr. ](https://ko.wikipedia.org/wiki/Mr._).
+> This article is converted from Wikipedia: [Mr. 아이돌](https://ko.wikipedia.org/wiki/Mr._아이돌).
 
 
 《**Mr. 아이돌**》은 [2011년](../Page/2011년.md "wikilink")에 개봉한 [대한민국의](https://ko.wikipedia.org/wiki/대한민국_영화 "wikilink") 영화이다.

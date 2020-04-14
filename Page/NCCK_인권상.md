@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [NCCK ](https://ko.wikipedia.org/wiki/NCCK_).
+> This article is converted from Wikipedia: [NCCK 인권상](https://ko.wikipedia.org/wiki/NCCK_인권상).
 
 
 **NCCK 인권상**은 1987년부터 세계인권선언일(12월 10일)에 즈음해 인권주간 공동예배를 하고 인권에 기여한 개인이나 단체에 대하여 [한국기독교교회협의회](../Page/한국기독교교회협의회.md "wikilink")가 시상하는 상이다. 한국기독교교회협의회가 공식 약칭을 바꾸기 전에는 **KNCC 인권상**으로도 불렸다\[1\].

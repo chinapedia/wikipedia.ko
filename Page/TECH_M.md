@@ -74,13 +74,13 @@
   - [MTN](http://www.mtn.co.kr/MTN)
   - [머니위크](http://www.moneyweek.co.kr/)
   - [더벨](https://web.archive.org/web/20141029201658/http://www.thebell.co.kr/front/free/index.asp)
-  - [뉴스1](http://www.news1.kr/)
+  - [뉴스1](https://web.archive.org/web/20140827070140/http://www.news1.kr/)
 
 ## 참조
 
 ## 외부 링크
 
-  - [TECH M 홈페이지](http://www.techm.kr/) - 공식 웹사이트
+  - [TECH M 홈페이지](https://web.archive.org/web/20191216022707/http://techm.kr/) - 공식 웹사이트
   - [TECH M 페이스북](https://www.facebook.com/TECHMmagazine)
   - [TECH\&beyond 위키백과](https://ko.wikipedia.org/wiki/%EC%82%AC%EC%9A%A9%EC%9E%90:%ED%85%8C%ED%81%AC%EC%95%A4%EB%B9%84%EC%9A%98%EB%93%9C)
 

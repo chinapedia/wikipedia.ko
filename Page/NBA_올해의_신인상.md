@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [NBA  ](https://ko.wikipedia.org/wiki/NBA__).
+> This article is converted from Wikipedia: [NBA 올해의 신인상](https://ko.wikipedia.org/wiki/NBA_올해의_신인상).
 
 
 <onlyinclude></onlyinclude>

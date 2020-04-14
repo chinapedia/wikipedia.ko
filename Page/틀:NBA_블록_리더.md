@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:NBA  ](https://ko.wikipedia.org/wiki/:NBA__).
+> This article is converted from Wikipedia: [틀:NBA 블록 리더](https://ko.wikipedia.org/wiki/틀:NBA_블록_리더).
 
 
 <onlyinclude></onlyinclude>

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Userbox-ww](https://ko.wikipedia.org/wiki/:Userbox-ww).
+> This article is converted from Wikipedia: [틀:Userbox-ww](https://ko.wikipedia.org/wiki/틀:Userbox-ww).
 
 
 <div style="float:{{{float|left}}}; border:{{{border-width|{{{border-s|1}}}}}}px solid {{{border-color|{{{1|{{{border-c|{{{id-c|#999}}}}}}}}}}}}; margin:1px;" class="wikipediauserbox">

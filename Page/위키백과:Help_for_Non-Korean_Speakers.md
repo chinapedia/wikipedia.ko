@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Help for Non-Korean Speakers](https://ko.wikipedia.org/wiki/:Help_for_Non-Korean_Speakers).
+> This article is converted from Wikipedia: [위키백과:Help for Non-Korean Speakers](https://ko.wikipedia.org/wiki/위키백과:Help_for_Non-Korean_Speakers).
 
 
 [Human-emblem-web-red-128.png](https://ko.wikipedia.org/wiki/File:Human-emblem-web-red-128.png "fig:Human-emblem-web-red-128.png")
@@ -43,12 +43,14 @@ The following lists users who are able to help you:
 16. [Mintz0223](https://ko.wikipedia.org/wiki/사:Mintz0223 "wikilink") ([Talk](https://ko.wikipedia.org/wiki/사토:Mintz0223 "wikilink")) **
 17. [Nari0115](https://ko.wikipedia.org/wiki/사:Nari0115 "wikilink") ([Talk](https://ko.wikipedia.org/wiki/사토:Nari0115 "wikilink")) **
 18. [Ndrewwha](https://ko.wikipedia.org/wiki/사:Ndrewwha "wikilink") ([Talk](https://ko.wikipedia.org/wiki/사토:Ndrewwha "wikilink")) **
-19. [Nizgoon](https://ko.wikipedia.org/wiki/사:이동아 "wikilink") ([Talk](https://ko.wikipedia.org/wiki/사토:이동아 "wikilink")) **
-20. [PuzzletChung](https://ko.wikipedia.org/wiki/사:PuzzletChung "wikilink") ([Talk](https://ko.wikipedia.org/wiki/사토:PuzzletChung "wikilink")) **
+19. [Nizgoon](https://ko.wikipedia.org/wiki/사:이동아 "wikilink") ([Talk](https://ko.wikipedia.org/wiki/사토:이동아 "wikilink"))
+20. [PuzzletChung](https://ko.wikipedia.org/wiki/사:PuzzletChung "wikilink") ([Talk](https://ko.wikipedia.org/wiki/사토:PuzzletChung "wikilink"))
 21. [Realidad y Illusion](https://ko.wikipedia.org/wiki/사:Realidad_y_Illusion "wikilink") ([Talk](https://ko.wikipedia.org/wiki/사토:Realidad_y_Illusion "wikilink")) **
 22. [Triple.Rhu](https://ko.wikipedia.org/wiki/사:트리플루 "wikilink") ([Talk](https://ko.wikipedia.org/wiki/사토:트리플루 "wikilink")) **
 23. [Ykhwong](https://ko.wikipedia.org/wiki/사:Ykhwong "wikilink") ([Talk](https://ko.wikipedia.org/wiki/사토:Ykhwong "wikilink"))
 24. [Propheceer](https://ko.wikipedia.org/wiki/사:Propheceer "wikilink") ([Talk](https://ko.wikipedia.org/wiki/사토:Propheceer "wikilink"))
+25. [대기만성](https://ko.wikipedia.org/wiki/사:대기만성 "wikilink") ([Talk](https://ko.wikipedia.org/wiki/사토:대기만성 "wikilink"))
+26. [강남 학생](https://ko.wikipedia.org/wiki/사:강남_학생 "wikilink") ([토론](https://ko.wikipedia.org/wiki/사토:강남_학생 "wikilink"))
 
 ### **Comment Section**
 

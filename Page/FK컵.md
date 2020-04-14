@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FK](https://ko.wikipedia.org/wiki/FK).
+> This article is converted from Wikipedia: [FK컵](https://ko.wikipedia.org/wiki/FK컵).
 
 
 **FK컵**은 한국풋살연맹에서 주관하는 전국 [풋살](../Page/풋살.md "wikilink") 클럽 대항전이다.

@@ -167,7 +167,7 @@
       -
         40번째 싱글 〈무적의 하트/STAND BY YOU〉의 1번째곡. 요미우리 TV계 애니메이션 《명탐정 코난》 엔딩 테마. 앨범 첫 수록.
 15. **DYNAMITE** \[3:21\]
-      - 작사: 쿠라키 마이, 작곡: 김태성, [Coach & Sendo](https://ko.wikipedia.org/wiki/Coach_&_Sendo "wikilink"), Katerina Bramley, 편곡: Coach & Sendo
+      - 작사: 쿠라키 마이, 작곡: 김태성, [Coach & Sendo](../Page/Coach_&_Sendo.md "wikilink"), Katerina Bramley, 편곡: Coach & Sendo
     <!-- end list -->
       -
         미발표 신곡. 《[명탐정 코난: 코난 실종 사건 - 사상 최악의 이틀](https://ko.wikipedia.org/wiki/명탐정_코난:_코난_실종_사건_-_사상_최악의_이틀 "wikilink")》 주제가.

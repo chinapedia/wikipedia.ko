@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SMS -](https://ko.wikipedia.org/wiki/SMS_-).
+> This article is converted from Wikipedia: [SMS 슐레스비히-홀슈타인](https://ko.wikipedia.org/wiki/SMS_슐레스비히-홀슈타인).
 
 
 [300px](https://ko.wikipedia.org/wiki/파일:Bundesarchiv_DVM_10_Bild-23-63-47,_Linienschiff_"Schleswig-Holstein".jpg "wikilink") **SMS 슐레스비히-홀슈타인**(SMS Schleswig-Holstein)은 [독일 제국 해군의](https://ko.wikipedia.org/wiki/독일_제국_해군 "wikilink") [도이칠란트급](https://ko.wikipedia.org/wiki/도이칠란트급_전함 "wikilink") [전함](../Page/전함.md "wikilink") 5척 중 가장 마지막에 건조된 선박이다. 이 전함의 이름은 [슐레스비히-홀슈타인 주를](https://ko.wikipedia.org/wiki/슐레스비히-홀슈타인_주 "wikilink") 따서 지어졌다.

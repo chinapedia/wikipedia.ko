@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  X](https://ko.wikipedia.org/wiki/__X).
+> This article is converted from Wikipedia: [인도네시아 에어아시아 X](https://ko.wikipedia.org/wiki/인도네시아_에어아시아_X).
 
 
 **인도네시아 에어아시아 X**()는 [인도네시아](../Page/인도네시아.md "wikilink")의 [저가 항공사로](https://ko.wikipedia.org/wiki/저가_항공사 "wikilink") [말레이시아](../Page/말레이시아.md "wikilink")의 [에어아시아](../Page/에어아시아.md "wikilink")의 자회사에 해당된다. 본사는 [인도네시아](../Page/인도네시아.md "wikilink") [발리에](../Page/발리섬.md "wikilink") 위치해 있으며 [2014년](../Page/2014년.md "wikilink")에 설립했다. 또한 사용하고 있는 [허브 공항으로](../Page/허브_공항.md "wikilink") [응우라라이 공항이](https://ko.wikipedia.org/wiki/응우라라이_공항 "wikilink") 있다.\[1\]\[2\]\[3\] [2015년](../Page/2015년.md "wikilink")에 [타이페이](https://ko.wikipedia.org/wiki/타이페이 "wikilink")에 취항할 계획이다.\[4\]

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [NH  ](https://ko.wikipedia.org/wiki/NH__).
+> This article is converted from Wikipedia: [NH 미디어의 음반](https://ko.wikipedia.org/wiki/NH_미디어의_음반).
 
 
 이 문서는 [NH 미디어에서](../Page/NH_미디어.md "wikilink") 발매한 음반 목록이다.전신인 라플 엔터테인먼트하고 같이 넣을 수도 있다.

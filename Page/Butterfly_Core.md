@@ -14,7 +14,7 @@
 **DISC1**
 
 1.  **Butterfly Core** (4:20)
-2.  **붉은 가시** () (4:52)
+2.  **붉은 가시**() (4:52)
 3.  **STAR GATE** (3:38)
 4.  **Butterfly Core (Instrumental)** (4:20)
 5.  **붉은 가시 (Instrumental)** (4:52)
@@ -22,9 +22,9 @@
 
 **DISC2(초회한정반B)**
 
-1.  **VALSHE RADIO \~스마트 폰 커서 엄지 손가락이 닿지 않아\~ (전편)** ()
+1.  **VALSHE RADIO \~스마트 폰 커서 엄지 손가락이 닿지 않아\~ (전편)**()
 2.  **[Growing of my heart](../Page/Growing_of_my_heart.md "wikilink")**
-3.  **VALSHE RADIO \~스마트 폰 커서 엄지 손가락이 닿지 않아\~ (후편)** ()
+3.  **VALSHE RADIO \~스마트 폰 커서 엄지 손가락이 닿지 않아\~ (후편)**()
 
 ### DVD
 

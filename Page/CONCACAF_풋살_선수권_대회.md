@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [CONCACAF   ](https://ko.wikipedia.org/wiki/CONCACAF___).
+> This article is converted from Wikipedia: [CONCACAF 풋살 선수권 대회](https://ko.wikipedia.org/wiki/CONCACAF_풋살_선수권_대회).
 
 
 **CONCACAF 풋살 선수권 대회**(CONCACAF Futsal Championship)는 [북중미카리브 축구 연맹](../Page/북중미카리브_축구_연맹.md "wikilink")(CONCACAF)이 주관하는 국가 대항 [풋살](../Page/풋살.md "wikilink") 대회이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [F.](https://ko.wikipedia.org/wiki/F.).
+> This article is converted from Wikipedia: [F.리그](https://ko.wikipedia.org/wiki/F.리그).
 
 
 **F.리그**는 일본의 [풋살](../Page/풋살.md "wikilink") 리그이다.

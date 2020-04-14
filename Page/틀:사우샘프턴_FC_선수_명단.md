@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [: FC  ](https://ko.wikipedia.org/wiki/:_FC__).
+> This article is converted from Wikipedia: [틀:사우샘프턴 FC 선수 명단](https://ko.wikipedia.org/wiki/틀:사우샘프턴_FC_선수_명단).
 
 
 <onlyinclude></onlyinclude>

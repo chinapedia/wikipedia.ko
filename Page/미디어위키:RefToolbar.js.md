@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:RefToolbar.js](https://ko.wikipedia.org/wiki/:RefToolbar.js).
+> This article is converted from Wikipedia: [미디어위키:RefToolbar.js](https://ko.wikipedia.org/wiki/미디어위키:RefToolbar.js).
 
 
 /\*jshint smarttabs:true, loopfunc:true,forin:false\*/ /\*global mw, $, importScript \*/ // TODO: make autodate an option in the CiteTemplate object, not a preference

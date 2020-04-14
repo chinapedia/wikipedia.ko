@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ A \(\)](https://ko.wikipedia.org/wiki/_A_\(\)).
+> This article is converted from Wikipedia: [세리에 A \(풋살\)](https://ko.wikipedia.org/wiki/세리에_A_\(풋살\)).
 
 
 **세리에 A**()는 이탈리아의 [풋살](../Page/풋살.md "wikilink") 리그이다.

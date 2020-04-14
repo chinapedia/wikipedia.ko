@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:RefToolbarConfig.js](https://ko.wikipedia.org/wiki/:RefToolbarConfig.js).
+> This article is converted from Wikipedia: [미디어위키:RefToolbarConfig.js](https://ko.wikipedia.org/wiki/미디어위키:RefToolbarConfig.js).
 
 
 /\* Sitewide options for the the Cite toolbar button:

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:NBA  ](https://ko.wikipedia.org/wiki/:NBA__).
+> This article is converted from Wikipedia: [틀:NBA 미니트 리더](https://ko.wikipedia.org/wiki/틀:NBA_미니트_리더).
 
 
 <onlyinclude></onlyinclude>

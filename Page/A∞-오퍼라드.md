@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [A-](https://ko.wikipedia.org/wiki/A-).
+> This article is converted from Wikipedia: [A∞-오퍼라드](https://ko.wikipedia.org/wiki/A∞-오퍼라드).
 
 
 [오퍼라드 이론에서](https://ko.wikipedia.org/wiki/오퍼라드_이론 "wikilink"), **A<sub>∞</sub>-오퍼라드**()는 [호모토피](../Page/호모토피.md "wikilink")를 무시한다면 [결합 법칙이](https://ko.wikipedia.org/wiki/결합_법칙 "wikilink") 성립하는 대수들을 나타내는 [오퍼라드](../Page/오퍼라드.md "wikilink")이다.

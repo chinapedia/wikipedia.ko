@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  FSC](https://ko.wikipedia.org/wiki/__FSC).
+> This article is converted from Wikipedia: [샤히드 만수리 FSC](https://ko.wikipedia.org/wiki/샤히드_만수리_FSC).
 
 
 **샤히드 만수리 FSC**는 이란의 [풋살](../Page/풋살.md "wikilink") 선수단이다.

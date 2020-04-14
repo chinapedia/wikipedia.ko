@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [AMF   ](https://ko.wikipedia.org/wiki/AMF___).
+> This article is converted from Wikipedia: [AMF 여자 풋살 월드컵](https://ko.wikipedia.org/wiki/AMF_여자_풋살_월드컵).
 
 
 **AMF 여자 풋살 월드컵**은 [AMF에서](../Page/세계_풋살_협회.md "wikilink") 주최하는 국제 여자 풋살 대회로 2008년 [카탈루냐](https://ko.wikipedia.org/wiki/카탈루냐 "wikilink")에서 첫 대회가 열렸다.

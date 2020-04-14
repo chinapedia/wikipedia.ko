@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [AFC   ](https://ko.wikipedia.org/wiki/AFC___).
+> This article is converted from Wikipedia: [AFC 풋살 선수권 대회](https://ko.wikipedia.org/wiki/AFC_풋살_선수권_대회).
 
 
 **AFC 풋살 선수권 대회**(AFC Futsal Championship)은 [아시아 축구 연맹](../Page/아시아_축구_연맹.md "wikilink")(AFC)이 주관하는 국가 대항 [풋살](../Page/풋살.md "wikilink") 대회이다.

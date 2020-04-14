@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [-D\&E](https://ko.wikipedia.org/wiki/-D\&E).
+> This article is converted from Wikipedia: [슈퍼주니어-D\&E](https://ko.wikipedia.org/wiki/슈퍼주니어-D\&E).
 
 
 **슈퍼주니어-D\&E**는 [슈퍼주니어](../Page/슈퍼주니어.md "wikilink")의 멤버 [동해와](../Page/동해_\(가수\).md "wikilink") [은혁](../Page/은혁.md "wikilink")으로 구성된 5번째 유닛이다.
@@ -83,7 +83,7 @@
 
 ### SUPER JUNIOR D\&E CONCERT "THE D\&E"
 
-## 쇼케이스·팬미팅
+## 쇼케이스 · 팬미팅
 
 ### SUPER JUNIOR D\&E SHOWCASE "The Beat Goes On"
 

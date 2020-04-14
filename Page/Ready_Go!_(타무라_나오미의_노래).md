@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Ready Go! \(  \)](https://ko.wikipedia.org/wiki/Ready_Go!_\(__\)).
+> This article is converted from Wikipedia: [Ready Go! \(타무라 나오미의 노래\)](https://ko.wikipedia.org/wiki/Ready_Go!_\(타무라_나오미의_노래\)).
 
 
 {{싱글 정보 | 곡명 = Ready Go\! | 음악가 = [타무라 나오미](https://ko.wikipedia.org/wiki/타무라_나오미 "wikilink") | 음반 = | A 사이드 = | B 사이드 = 포켓타리 몬스타리
@@ -21,13 +21,13 @@
 1.  '''Ready Go\! \[4:53\]
       - 노래: [타무라 나오미](https://ko.wikipedia.org/wiki/타무라_나오미 "wikilink")
       - 작사: 타무라 나오미, 카와무라 쿠니미, 작곡 · 편곡: [타나카 히로카즈](https://ko.wikipedia.org/wiki/타나카_히로카즈 "wikilink")
-2.  **포켓타리 몬스타리** () \[3:26\]
+2.  **포켓타리 몬스타리**() \[3:26\]
       - 노래: [카나](https://ko.wikipedia.org/wiki/오타_에미 "wikilink")
       - 작사: [토다 아키히토](https://ko.wikipedia.org/wiki/토다_아키히토 "wikilink"), 작곡 · 편곡: 타나카 히로카즈
     <!-- end list -->
       -
         안무 담당은 츠타 미요코
-3.  **새로운 맹세 (acoustic ver.)** () \[1:39\]
+3.  **새로운 맹세 (acoustic ver.)**() \[1:39\]
       - 노래: 타무라 나오미)
       - 작사: 토다 아키히토, 작곡 · 편곡: 타나카 히로카즈
 4.  **새로운 맹세** \[3:10\]

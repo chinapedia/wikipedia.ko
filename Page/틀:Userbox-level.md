@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Userbox-level](https://ko.wikipedia.org/wiki/:Userbox-level).
+> This article is converted from Wikipedia: [틀:Userbox-level](https://ko.wikipedia.org/wiki/틀:Userbox-level).
 
 
 | id = {{\#if:|{{\#if:|

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Ziana Zain \(1993 \)](https://ko.wikipedia.org/wiki/Ziana_Zain_\(1993_\)).
+> This article is converted from Wikipedia: [Ziana Zain \(1993년 음반\)](https://ko.wikipedia.org/wiki/Ziana_Zain_\(1993년_음반\)).
 
 
 **Ziana Zain**은 [말레이시아](../Page/말레이시아.md "wikilink")의 팝 가수 지아나 제인의 두 번째 정규 앨범이다. 1993년 베르텔스만 뮤직 그룹을 통해 발매되었으며 8만 5천장의 판매량을 기록했다.\[1\]

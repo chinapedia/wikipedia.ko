@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [   V](https://ko.wikipedia.org/wiki/___V).
+> This article is converted from Wikipedia: [플로렌시아 데 라 V](https://ko.wikipedia.org/wiki/플로렌시아_데_라_V).
 
 
 **플로렌시아 데 라 V**(Florencia De La V, [1975년](../Page/1975년.md "wikilink") [3월 2일](../Page/3월_2일.md "wikilink") \~ )는 [아르헨티나](../Page/아르헨티나.md "wikilink")의 [모델](https://ko.wikipedia.org/wiki/모델 "wikilink"), [배우](../Page/배우.md "wikilink")이다. 2010년 법적으로 [여성](../Page/여성.md "wikilink") 자격을 인정받았으며 **플로렌시아 트리니다드**(Florencia Trinidad)로 개명하였다.\[1\] 예명에서 "V"는 베가(Vega)의 약칭이다.

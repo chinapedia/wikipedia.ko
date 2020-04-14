@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Fb rbr header](https://ko.wikipedia.org/wiki/:Fb_rbr_header).
+> This article is converted from Wikipedia: [틀:Fb rbr header](https://ko.wikipedia.org/wiki/틀:Fb_rbr_header).
 
 
 <includeonly>{| class="wikitable" style="{{\#ifexpr:\>38|font-size: 80%;|font-size: 95%;}} text-align:center;"

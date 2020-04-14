@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  FC](https://ko.wikipedia.org/wiki/__FC).
+> This article is converted from Wikipedia: [애틀랜타 유나이티드 FC](https://ko.wikipedia.org/wiki/애틀랜타_유나이티드_FC).
 
 
 **애틀랜타 유나이티드 FC**(Atlanta United FC)는 [메이저 리그 사커에](../Page/메이저_리그_사커.md "wikilink") 참가하는 [미국](../Page/미국.md "wikilink")의 프로축구단으로 [조지아주](../Page/조지아주.md "wikilink") [애틀랜타](../Page/애틀랜타.md "wikilink")를 연고지로 한다.

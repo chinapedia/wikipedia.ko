@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [VOODOO \( \)](https://ko.wikipedia.org/wiki/VOODOO_\(_\)).
+> This article is converted from Wikipedia: [VOODOO \(빅스의 음반\)](https://ko.wikipedia.org/wiki/VOODOO_\(빅스의_음반\)).
 
 
 ***VOODOO***는 대한민국의 남성 그룹 [빅스의](../Page/빅스_\(음악_그룹\).md "wikilink") 첫 번째 한국 정규 음반이다.\[1\] 2013년 11월 25일 CJ E\&M을 통해 발매되었다. 음반 발매에 앞서 2013년 11월 08일 싱글 "[대답은 너니까](https://ko.wikipedia.org/wiki/대답은_너니까 "wikilink")" 를 발표하였으며 타이틀곡 "[저주인형](https://ko.wikipedia.org/wiki/저주인형_\(노래\) "wikilink")" 은 2013년 11월 25일에 발표되었다.

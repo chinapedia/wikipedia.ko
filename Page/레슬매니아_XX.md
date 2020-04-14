@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ XX](https://ko.wikipedia.org/wiki/_XX).
+> This article is converted from Wikipedia: [레슬매니아 XX](https://ko.wikipedia.org/wiki/레슬매니아_XX).
 
 
 **레슬매니아 XX**(WrestleMania XX)은 WWE가 개최한 20번째로 열린 [레슬매니아](../Page/레슬매니아.md "wikilink")이다. [2004년](../Page/2004년.md "wikilink") [3월 14일](../Page/3월_14일.md "wikilink") [뉴욕](../Page/뉴욕.md "wikilink") [메디슨 스퀘어 가든에서](https://ko.wikipedia.org/wiki/메디슨_스퀘어_가든 "wikilink") 열렸다.\[1\]

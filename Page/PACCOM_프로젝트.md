@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [PACCOM ](https://ko.wikipedia.org/wiki/PACCOM_).
+> This article is converted from Wikipedia: [PACCOM 프로젝트](https://ko.wikipedia.org/wiki/PACCOM_프로젝트).
 
 
 PACCOM(PACific COMMunications network) 프로젝트는 아시아 태평양 지역의 새로운 국제 네트워크 구축을 위해 수행된 프로젝트다. 1989년, 미국의 [NASA](https://ko.wikipedia.org/wiki/NASA "wikilink")와 호주, 홍콩, 일본, 뉴질랜드, 한국 등의 국가 연구개발망이 협력해 시작되었으며, 최초 예산은 [NASA](https://ko.wikipedia.org/wiki/NASA "wikilink")가 지원하였다. 1991년부터는 미국 [국가과학재단(NSF)](https://en.wikipedia.org/wiki/National_Science_Foundation)과 [미국 에너지국(Department of Energy; DoE)](https://en.wikipedia.org/wiki/United_States_Department_of_Energy)이 예산 지원에 참여했다. PACCOM 프로젝트를 기반으로 1990년, 한국과 미국 사이의 전용선을 이용한 인터넷이 구축되었다.

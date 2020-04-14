@@ -14,7 +14,7 @@
       - 작사 · 작곡: [다이고](https://ko.wikipedia.org/wiki/다이고 "wikilink"), 편곡: 브레이커즈
 2.  **Mr. Yes man**
       - 작사: 다이고, 작곡: [신페이](https://ko.wikipedia.org/wiki/신페이 "wikilink"), 편곡: 브레이커즈
-3.  **세계는 춤춘다 (Acoustic Version)** (
+3.  **세계는 춤춘다 (Acoustic Version)**(
       - 작사 · 작곡: [아키히데](https://ko.wikipedia.org/wiki/아키히데 "wikilink"), 편곡: 브레이커즈
     <!-- end list -->
       -

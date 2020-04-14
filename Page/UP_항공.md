@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [UP ](https://ko.wikipedia.org/wiki/UP_).
+> This article is converted from Wikipedia: [UP 항공](https://ko.wikipedia.org/wiki/UP_항공).
 
 
 **UP 항공**()은 [이스라엘](../Page/이스라엘.md "wikilink")의 [저가 항공사로](https://ko.wikipedia.org/wiki/저가_항공사 "wikilink") [이스라엘](../Page/이스라엘.md "wikilink")의 [엘알 이스라엘 항공의](../Page/엘알_이스라엘_항공.md "wikilink") 자회사에 해당된다. 본사는 [이스라엘](../Page/이스라엘.md "wikilink") [벤구리온](https://ko.wikipedia.org/wiki/벤구리온 "wikilink")에 위치해 있으며 [2013년](../Page/2013년.md "wikilink")에 설립했다.\[1\] 또한 사용하고 있는 [허브 공항으로](../Page/허브_공항.md "wikilink") [벤구리온 국제공항이](../Page/벤구리온_국제공항.md "wikilink") 있다. 또한 이 항공사의 경우 모든 항공편이 [엘알 이스라엘 항공](../Page/엘알_이스라엘_항공.md "wikilink") 호출 부호와 코드를 사용하고 있으며 [엘알 이스라엘 항공이](../Page/엘알_이스라엘_항공.md "wikilink") 운용하고 있다.\[2\] 2시간 이상 넘어가는 항공 노선에 한해서 **주문형 기내식**()이 운용되고 있다.\[3\]

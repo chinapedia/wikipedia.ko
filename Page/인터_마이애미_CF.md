@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  CF](https://ko.wikipedia.org/wiki/__CF).
+> This article is converted from Wikipedia: [인터 마이애미 CF](https://ko.wikipedia.org/wiki/인터_마이애미_CF).
 
 
 **클럽 인터나시오날 데 풋볼 마이애미**(Club Internaćional De Fútbol Miami)는 [메이저 리그 사커에](../Page/메이저_리그_사커.md "wikilink") 참가할 예정인 [미국](../Page/미국.md "wikilink")의 프로축구단으로 [플로리다주](../Page/플로리다주.md "wikilink") [마이애미](../Page/마이애미.md "wikilink")를 연고지로 한다.

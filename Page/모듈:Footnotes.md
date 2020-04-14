@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Footnotes](https://ko.wikipedia.org/wiki/:Footnotes).
+> This article is converted from Wikipedia: [모듈:Footnotes](https://ko.wikipedia.org/wiki/모듈:Footnotes).
 
 
 f = {

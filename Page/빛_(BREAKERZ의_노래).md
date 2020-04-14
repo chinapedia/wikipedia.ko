@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ \(BREAKERZ \)](https://ko.wikipedia.org/wiki/_\(BREAKERZ_\)).
+> This article is converted from Wikipedia: [빛 \(BREAKERZ의 노래\)](https://ko.wikipedia.org/wiki/빛_\(BREAKERZ의_노래\)).
 
 
 {{싱글 정보 | 곡명 = 빛 | 음악가 = [브레이커즈](https://ko.wikipedia.org/wiki/브레이커즈 "wikilink") | 음반 = [FIGHTERZ](https://ko.wikipedia.org/wiki/FIGHTERZ "wikilink") | A 사이드 = | B 사이드 = | 발매일 =  | 포맷 = [맥시 싱글](../Page/싱글_\(음악\).md "wikilink") | 녹음 = | 장르 = [J-POP](https://ko.wikipedia.org/wiki/J-POP "wikilink")
@@ -19,7 +19,7 @@
 
 #### CD
 
-1.  **빛** ()
+1.  **빛**()
       - 작사 · 작곡: [다이고](https://ko.wikipedia.org/wiki/다이고 "wikilink"), 편곡: 브레이커즈
 2.  **Faraway So Close.**
       - 작사 · 작곡: [아키히데](https://ko.wikipedia.org/wiki/아키히데 "wikilink"), 편곡: 브레이커즈
@@ -37,7 +37,7 @@
 
 #### CD
 
-1.  **빛** ()
+1.  **빛**()
 2.  **Faraway So Close.**
 3.  **[BAMBINO\~밤비노\~](https://ko.wikipedia.org/wiki/Everlasting_Luv/BAMBINO_~밤비노~ "wikilink") \[2009.4.30 Live at 시부야 C.C.Lemon 홀\]**
       - 작사: 다이고, 작곡: 신페이, 편곡: 브레이커즈
@@ -51,9 +51,9 @@
 
 ### 통상반
 
-1.  **빛** ()
+1.  **빛**()
 2.  **Faraway So Close.**
-3.  **B.R.Z \~내일로의 다리\~ (Acoustic Version)** ()
+3.  **B.R.Z \~내일로의 다리\~ (Acoustic Version)**()
       - 작사 · 작곡: 다이고, 편곡: [DJ ME-YA](https://ko.wikipedia.org/wiki/DJ_ME-YA "wikilink"), 브레이커즈
     <!-- end list -->
       -
@@ -61,7 +61,7 @@
 
 ### Musing반
 
-1.  **빛** ()
+1.  **빛**()
 2.  **Faraway So Close.**
 
 ## 타이업

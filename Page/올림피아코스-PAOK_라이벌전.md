@@ -1,9 +1,9 @@
-> This article is converted from Wikipedia: [-PAOK ](https://ko.wikipedia.org/wiki/-PAOK_).
+> This article is converted from Wikipedia: [올림피아코스-PAOK 라이벌전](https://ko.wikipedia.org/wiki/올림피아코스-PAOK_라이벌전).
 
 
 [섬네일에서의](https://ko.wikipedia.org/wiki/파일:PAOK_-_Olympiakos_1-0_\(1\).jpg "wikilink") PAOK와 올림피아코스간 [그리스 컵](../Page/그리스_컵.md "wikilink") 경기 (1-0)\]\]
 
-**올림피아코스와 PAOK간의 라이벌전** () 은 [그리스](../Page/그리스.md "wikilink") [축구](../Page/축구.md "wikilink")에서 가장 거친 두 도시간의 라이벌전으로 손꼽히며, 두 구단간의 경기는 대개 흉악한 사건이 수반되기도 했다.
+**올림피아코스와 PAOK간의 라이벌전**() 은 [그리스](../Page/그리스.md "wikilink") [축구](../Page/축구.md "wikilink")에서 가장 거친 두 도시간의 라이벌전으로 손꼽히며, 두 구단간의 경기는 대개 흉악한 사건이 수반되기도 했다.
 
 ## 역사
 

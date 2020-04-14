@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Happy Birthday \( \)](https://ko.wikipedia.org/wiki/Happy_Birthday_\(_\)).
+> This article is converted from Wikipedia: [Happy Birthday \(쿄코의 노래\)](https://ko.wikipedia.org/wiki/Happy_Birthday_\(쿄코의_노래\)).
 
 
 〈**Happy Birthday**〉는 [쿄코의](https://ko.wikipedia.org/wiki/쿄코_\(가수\) "wikilink") 싱글이다.

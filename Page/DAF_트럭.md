@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [DAF ](https://ko.wikipedia.org/wiki/DAF_).
+> This article is converted from Wikipedia: [DAF 트럭](https://ko.wikipedia.org/wiki/DAF_트럭).
 
 
 **DAF 트럭**(, )은 [네덜란드](../Page/네덜란드.md "wikilink")의 자동차 메이커이다.

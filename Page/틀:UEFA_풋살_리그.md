@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:UEFA  ](https://ko.wikipedia.org/wiki/:UEFA__).
+> This article is converted from Wikipedia: [틀:UEFA 풋살 리그](https://ko.wikipedia.org/wiki/틀:UEFA_풋살_리그).
 
 
 <onlyinclude> [북중미](https://ko.wikipedia.org/wiki/:틀:CONCACAF_풋살_리그 "wikilink") {{\!}} [아시아](https://ko.wikipedia.org/wiki/:틀:AFC_풋살_리그 "wikilink") {{\!}} [아프리카](https://ko.wikipedia.org/wiki/:틀:CAF_풋살_리그 "wikilink") {{\!}} [오세아니아](https://ko.wikipedia.org/wiki/:틀:OFC_풋살_리그 "wikilink") {{\!}} [유럽](https://ko.wikipedia.org/wiki/:틀:UEFA_풋살_리그 "wikilink") }} </onlyinclude> <noinclude> [](https://ko.wikipedia.org/wiki/분류:UEFA에_관한_둘러보기_틀 "wikilink") [분류:국제 풋살 틀](https://ko.wikipedia.org/wiki/분류:국제_풋살_틀 "wikilink") [\*](https://ko.wikipedia.org/wiki/분류:풋살_리그 "wikilink") </noinclude>

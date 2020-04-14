@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ L. ](https://ko.wikipedia.org/wiki/_L._).
+> This article is converted from Wikipedia: [조지프 L. 맹키위츠](https://ko.wikipedia.org/wiki/조지프_L._맹키위츠).
 
 
 **조지프 리오 맹키위츠**(, [1909년](../Page/1909년.md "wikilink") [2월 11일](../Page/2월_11일.md "wikilink") \~ [1993년](../Page/1993년.md "wikilink") [2월 5일](../Page/2월_5일.md "wikilink"))는 [미국](../Page/미국.md "wikilink")의 [영화 감독](../Page/영화_감독.md "wikilink"), [영화 제작자](https://ko.wikipedia.org/wiki/영화_제작자 "wikilink"), [각본가](https://ko.wikipedia.org/wiki/각본가 "wikilink")이다. 20년 이상의 [할리우드](../Page/할리우드.md "wikilink") 활동 경력을 지닌 그는 《[세 부인](https://ko.wikipedia.org/wiki/세_부인 "wikilink")》(1949)과 《[이브의 모든 것](../Page/이브의_모든_것_\(영화\).md "wikilink")》(1950) 두 작품을 통해 [아카데미 감독상과](../Page/아카데미_감독상.md "wikilink") [각색상을](../Page/아카데미_각색상.md "wikilink") 각각 두 번씩 수상했다. 이외에 《[아가씨와 건달들](https://ko.wikipedia.org/wiki/아가씨와_건달들 "wikilink")》, 《[클레오파트라](https://ko.wikipedia.org/wiki/클레오파트라 "wikilink")》도 알려져 있다.

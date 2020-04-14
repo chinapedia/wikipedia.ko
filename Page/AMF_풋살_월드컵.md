@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [AMF  ](https://ko.wikipedia.org/wiki/AMF__).
+> This article is converted from Wikipedia: [AMF 풋살 월드컵](https://ko.wikipedia.org/wiki/AMF_풋살_월드컵).
 
 
 **AMF 풋살 월드컵**은 [AMF에서](../Page/세계_풋살_협회.md "wikilink") 주최하는 국제 풋살 대회로 1984년 [브라질](../Page/브라질.md "wikilink")에서 첫 대회가 열렸다.

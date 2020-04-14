@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:2TeamBracket-Tennis3-v2](https://ko.wikipedia.org/wiki/:2TeamBracket-Tennis3-v2).
+> This article is converted from Wikipedia: [틀:2TeamBracket-Tennis3-v2](https://ko.wikipedia.org/wiki/틀:2TeamBracket-Tennis3-v2).
 
 
 |  |  |

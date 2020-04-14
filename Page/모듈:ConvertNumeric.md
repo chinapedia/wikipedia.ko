@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:ConvertNumeric](https://ko.wikipedia.org/wiki/:ConvertNumeric).
+> This article is converted from Wikipedia: [모듈:ConvertNumeric](https://ko.wikipedia.org/wiki/모듈:ConvertNumeric).
 
 
 \-- Module for converting between different representations of numbers. See talk page for user documentation. -- For unit tests see: [Module:ConvertNumeric/testcases](https://ko.wikipedia.org/wiki/Module:ConvertNumeric/testcases "wikilink") -- When editing, preview with: Module_talk:ConvertNumeric/testcases -- First edit [Module:ConvertNumeric/sandbox](https://ko.wikipedia.org/wiki/Module:ConvertNumeric/sandbox "wikilink") and preview with Module_talk:ConvertNumeric/sandbox/testcases

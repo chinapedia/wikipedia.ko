@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [M](https://ko.wikipedia.org/wiki/M).
+> This article is converted from Wikipedia: [M월드](https://ko.wikipedia.org/wiki/M월드).
 
 
 **M월드**(엠월드)는 [대구광역시](../Page/대구광역시.md "wikilink") [서구](../Page/서구_\(대구광역시\).md "wikilink") 문화로 37 (이현동)에 위치한 자동차 백화점이다. 2011년 6월 30일에 개업했으며 연면적 10만4천849m<sup>2</sup>, 지하 2층 지상 6층의 규모로 지어져 2011년 개장 당시 서울 오토갤러리보다 5배 이상 큰 규모로 대한민국 최대 규모의 자동차 백화점으로 불리며 화제가 되었다.\[1\] M월드 전용 스마트폰 애플리케이션 또한 존재한다.

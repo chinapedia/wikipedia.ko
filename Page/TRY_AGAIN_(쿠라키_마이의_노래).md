@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TRY AGAIN \(  \)](https://ko.wikipedia.org/wiki/TRY_AGAIN_\(__\)).
+> This article is converted from Wikipedia: [TRY AGAIN \(쿠라키 마이의 노래\)](https://ko.wikipedia.org/wiki/TRY_AGAIN_\(쿠라키_마이의_노래\)).
 
 
 {{싱글 정보 | 곡명 = TRY AGAIN | 음악가 = [쿠라키 마이](../Page/쿠라키_마이.md "wikilink") | 음반 = [MAI KURAKI BEST 151A -LOVE & HOPE-](../Page/MAI_KURAKI_BEST_151A_-LOVE_&_HOPE-.md "wikilink") | A 사이드 = | B 사이드 = 사쿠라 사쿠라… | 발매일 =  | 포맷 = [맥시 싱글](../Page/싱글_\(음악\).md "wikilink") | 녹음 = | 장르 = [J-POP](https://ko.wikipedia.org/wiki/J-POP "wikilink"), [애니메이션 음악](https://ko.wikipedia.org/wiki/애니메이션_음악 "wikilink") | 길이 = 4분 29초 | 레이블 = [노던 뮤직](https://ko.wikipedia.org/wiki/노던_뮤직 "wikilink") | 작사·작곡 = 쿠라키 마이, [토쿠나가 아키히토](../Page/토쿠나가_아키히토.md "wikilink") | 프로듀서 = 쿠라키 마이, 나가토 다이코 | 이전싱글 = \[\[사랑에_사랑해서/Special_morning_day_to_you| 〈**TRY AGAIN**〉은 일본 가수 [쿠라키 마이의](../Page/쿠라키_마이.md "wikilink") 39번째 [CD 싱글이다](https://ko.wikipedia.org/wiki/싱글_\(음악\)#CD_싱글 "wikilink"). [2013년](../Page/2013년.md "wikilink") [2월 6일에](../Page/2월_6일.md "wikilink") [노던 뮤직에서](https://ko.wikipedia.org/wiki/노던_뮤직 "wikilink") 발매했다.
@@ -11,7 +11,7 @@
 
 1.  **TRY AGAIN** (4:29)
       - 작사: 쿠라키 마이, 작곡: [토쿠나가 아키히토](../Page/토쿠나가_아키히토.md "wikilink"), 편곡: Cybersound
-2.  **사쿠라 사쿠라...** () (4:46)
+2.  **사쿠라 사쿠라...**() (4:46)
       - 작사: 쿠라키 마이, 작곡: [오노 아이카](https://ko.wikipedia.org/wiki/오노_아이카 "wikilink"), 편곡: 하야시 료
 3.  **TRY AGAIN (Instrumental)**
 4.  **사쿠라 사쿠라… (Instrumental)**

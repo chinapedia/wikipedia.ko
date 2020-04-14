@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [O.T. ](https://ko.wikipedia.org/wiki/O.T._).
+> This article is converted from Wikipedia: [O.T. 제나시스](https://ko.wikipedia.org/wiki/O.T._제나시스).
 
 
 **오디스 플로레스** (Odis Flores, [1987년](../Page/1987년.md "wikilink") [6월 18일](../Page/6월_18일.md "wikilink"), [캘리포니아주](../Page/캘리포니아주.md "wikilink") [롱비치](../Page/롱비치_\(캘리포니아주\).md "wikilink") \~ )는 흔히 **O.T. 제나시스**(O.T. Genasis)로 잘 알려진 미국의 힙합 가수이다. [2014년](../Page/2014년.md "wikilink") [10월 27일](../Page/10월_27일.md "wikilink") 발매되었던 그의 싱글 **CoCo**는 선풍적인 인기를 끌며 [빌보드 핫 100에서도](../Page/빌보드_핫_100.md "wikilink") 20위에 오르며 좋은 성적을 보여주었으며,\[1\] [믹 밀](https://ko.wikipedia.org/wiki/믹_밀 "wikilink"), [영 지지](https://ko.wikipedia.org/wiki/영_지지 "wikilink"), [크리스 브라운](https://ko.wikipedia.org/wiki/크리스_브라운 "wikilink") 등이 참여한 리믹스 버전도 발매가 되었다.

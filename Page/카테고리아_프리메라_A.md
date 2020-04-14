@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  A](https://ko.wikipedia.org/wiki/__A).
+> This article is converted from Wikipedia: [카테고리아 프리메라 A](https://ko.wikipedia.org/wiki/카테고리아_프리메라_A).
 
 
 **카테고리아 프리메라 A**()는 [콜롬비아](../Page/콜롬비아.md "wikilink")의 최상위 프로 [축구](../Page/축구.md "wikilink") 리그이다. 현재 20개 팀이 참여하고 있다.

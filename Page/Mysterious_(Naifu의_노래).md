@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Mysterious \(Naifu \)](https://ko.wikipedia.org/wiki/Mysterious_\(Naifu_\)).
+> This article is converted from Wikipedia: [Mysterious \(Naifu의 노래\)](https://ko.wikipedia.org/wiki/Mysterious_\(Naifu의_노래\)).
 
 
 〈**Mysterious**〉는 [Naifu](https://ko.wikipedia.org/wiki/Naifu "wikilink")의 2번째 싱글이다.

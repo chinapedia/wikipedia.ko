@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Mr.  ](https://ko.wikipedia.org/wiki/Mr.__).
+> This article is converted from Wikipedia: [Mr. 로빈 꼬시기](https://ko.wikipedia.org/wiki/Mr._로빈_꼬시기).
 
 
 《**Mr. 로빈 꼬시기**》는 [2006년](../Page/2006년.md "wikilink")에 개봉한 [대한민국의](https://ko.wikipedia.org/wiki/대한민국_영화 "wikilink") 영화이다.

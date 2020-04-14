@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ EOS 7D Mark II](https://ko.wikipedia.org/wiki/_EOS_7D_Mark_II).
+> This article is converted from Wikipedia: [캐논 EOS 7D Mark II](https://ko.wikipedia.org/wiki/캐논_EOS_7D_Mark_II).
 
 
 **캐논 EOS 7D Mark II**()는 2014년 11월에 출시한 2,020만 [유효 화소를](https://ko.wikipedia.org/wiki/유효_화소 "wikilink") 가지는 [캐논의](https://ko.wikipedia.org/wiki/캐논_주식회사 "wikilink") [DSLR](https://ko.wikipedia.org/wiki/DSLR "wikilink")이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [IR  ](https://ko.wikipedia.org/wiki/IR__).
+> This article is converted from Wikipedia: [IR 이시카와 철도선](https://ko.wikipedia.org/wiki/IR_이시카와_철도선).
 
 
 **IR 이시카와 철도선**()은 [IR 이시카와 철도의](../Page/IR_이시카와_철도.md "wikilink") 철도 노선으로, 일본 [이시카와현](../Page/이시카와현.md "wikilink") [가나자와 시에](https://ko.wikipedia.org/wiki/가나자와_시 "wikilink") 위치한 [가나자와 역과](../Page/가나자와_역.md "wikilink") [가호쿠 군](https://ko.wikipedia.org/wiki/가호쿠_군 "wikilink") [쓰바타 정에](https://ko.wikipedia.org/wiki/쓰바타_정 "wikilink") 위치한 [구리카라 역을](../Page/구리카라_역.md "wikilink") 잇는다.

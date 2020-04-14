@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SK](https://ko.wikipedia.org/wiki/SK).
+> This article is converted from Wikipedia: [SK매직](https://ko.wikipedia.org/wiki/SK매직).
 
 
 **SK매직주식회사**는 [대한민국](../Page/대한민국.md "wikilink")의 제조업, 렌탈업 기업이다.

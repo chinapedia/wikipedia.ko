@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:NBA  MVP](https://ko.wikipedia.org/wiki/:NBA__MVP).
+> This article is converted from Wikipedia: [틀:NBA 올스타전 MVP](https://ko.wikipedia.org/wiki/틀:NBA_올스타전_MVP).
 
 
 <onlyinclude></onlyinclude>

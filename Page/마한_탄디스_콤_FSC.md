@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [   FSC](https://ko.wikipedia.org/wiki/___FSC).
+> This article is converted from Wikipedia: [마한 탄디스 콤 FSC](https://ko.wikipedia.org/wiki/마한_탄디스_콤_FSC).
 
 
 **마한 탄디스 콤 FSC**는 이란의 [풋살](../Page/풋살.md "wikilink") 선수단이다.

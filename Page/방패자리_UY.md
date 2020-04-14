@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ UY](https://ko.wikipedia.org/wiki/_UY).
+> This article is converted from Wikipedia: [방패자리 UY](https://ko.wikipedia.org/wiki/방패자리_UY).
 
 
 **방패자리 UY**(UY Scuti) 또는 **BD-12 5055**는 [방패자리](../Page/방패자리.md "wikilink") 방향으로 [지구](../Page/지구.md "wikilink")로부터 약 9500 광년 떨어져 있는 [적색초거성](../Page/적색초거성.md "wikilink")이자 맥동 [변광성](../Page/변광성.md "wikilink")이다. 이 별은 지금까지 알려진 [항성](https://ko.wikipedia.org/wiki/항성 "wikilink") 중 그 반지름이 가장 큰 것으로 알려져 있으며 구체적인 크기는 [태양](../Page/태양.md "wikilink") 반지름의 1708 배(약 8 [천문단위](../Page/천문단위.md "wikilink"), 12억 킬로미터) 정도이다. 발견된 [극대거성](../Page/극대거성.md "wikilink") 중에서는 지구에서 가까운 편이다. 이 별을 [태양계](../Page/태양계.md "wikilink") 중심에 태양 대신 놓으면 [토성](../Page/토성.md "wikilink") 근처까지 도달한다.

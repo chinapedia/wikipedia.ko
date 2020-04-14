@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  FSC](https://ko.wikipedia.org/wiki/__FSC).
+> This article is converted from Wikipedia: [풀라드 마한 FSC](https://ko.wikipedia.org/wiki/풀라드_마한_FSC).
 
 
 **풀라드 마한 FSC**는 2012년 해체된 이란의 [풋살](../Page/풋살.md "wikilink") 선수단이다.

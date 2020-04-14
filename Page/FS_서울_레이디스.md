@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FS  ](https://ko.wikipedia.org/wiki/FS__).
+> This article is converted from Wikipedia: [FS 서울 레이디스](https://ko.wikipedia.org/wiki/FS_서울_레이디스).
 
 
 **FS 서울 레이디스**()은 [서울특별시](../Page/서울특별시.md "wikilink")를 연고로 하는 [대한민국](../Page/대한민국.md "wikilink")의 [풋살](../Page/풋살.md "wikilink") 선수단이다.

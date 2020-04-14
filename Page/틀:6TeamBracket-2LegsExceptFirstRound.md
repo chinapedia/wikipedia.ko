@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:6TeamBracket-2LegsExceptFirstRound](https://ko.wikipedia.org/wiki/:6TeamBracket-2LegsExceptFirstRound).
+> This article is converted from Wikipedia: [틀:6TeamBracket-2LegsExceptFirstRound](https://ko.wikipedia.org/wiki/틀:6TeamBracket-2LegsExceptFirstRound).
 
 
 |  |                         |                          |                         |                        |  |                         |                          |

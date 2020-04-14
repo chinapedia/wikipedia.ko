@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [STP ](https://ko.wikipedia.org/wiki/STP_).
+> This article is converted from Wikipedia: [STP 항공](https://ko.wikipedia.org/wiki/STP_항공).
 
 
 **STP 항공**(, )은 [상투메프린시페](https://ko.wikipedia.org/wiki/상투메프린시페 "wikilink")의 [국영 항공사로](https://ko.wikipedia.org/wiki/국영_항공사 "wikilink") 주로 [아프리카](../Page/아프리카.md "wikilink"), [유럽](../Page/유럽.md "wikilink")에 취항하고 있다. [상투메 국제공항이](https://ko.wikipedia.org/wiki/상투메_국제공항 "wikilink") [허브 공항으로](../Page/허브_공항.md "wikilink") [2008년](../Page/2008년.md "wikilink")에 설립되어 주로 [보잉](../Page/보잉.md "wikilink") 기종을 사용하고 있다.\[1\]

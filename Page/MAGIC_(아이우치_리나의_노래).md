@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [MAGIC \(  \)](https://ko.wikipedia.org/wiki/MAGIC_\(__\)).
+> This article is converted from Wikipedia: [MAGIC \(아이우치 리나의 노래\)](https://ko.wikipedia.org/wiki/MAGIC_\(아이우치_리나의_노래\)).
 
 
 〈**MAGIC**〉은 [2009년](../Page/2009년.md "wikilink") [10월 21일에](../Page/10월_21일.md "wikilink") 발매된 [아이우치 리나의](../Page/아이우치_리나.md "wikilink") 31번째 [싱글이다](../Page/싱글_\(음악\).md "wikilink").

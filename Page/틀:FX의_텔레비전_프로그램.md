@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:FX  ](https://ko.wikipedia.org/wiki/:FX__).
+> This article is converted from Wikipedia: [틀:FX의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/틀:FX의_텔레비전_프로그램).
 
 
 <noinclude>   [분류:FX의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:FX의_텔레비전_프로그램 "wikilink") [분류:미국의 텔레비전 프로그램 틀](https://ko.wikipedia.org/wiki/분류:미국의_텔레비전_프로그램_틀 "wikilink") </noinclude>

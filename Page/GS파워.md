@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [GS](https://ko.wikipedia.org/wiki/GS).
+> This article is converted from Wikipedia: [GS파워](https://ko.wikipedia.org/wiki/GS파워).
 
 
 **GS파워(주)**는 전력생산 및 24시간 연속 지역 난방을 공급하기 위해 2000년 설립된 집단에너지사업체이다.

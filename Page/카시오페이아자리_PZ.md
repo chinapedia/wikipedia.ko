@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ PZ](https://ko.wikipedia.org/wiki/_PZ).
+> This article is converted from Wikipedia: [카시오페이아자리 PZ](https://ko.wikipedia.org/wiki/카시오페이아자리_PZ).
 
 
 **카시오페이아자리 PZ**는 [카시오페이아자리](../Page/카시오페이아자리.md "wikilink") 방향으로 지구로부터 약 7800 광년 떨어져 있는 [적색 초거성이자](https://ko.wikipedia.org/wiki/적색_초거성 "wikilink") [반규칙 변광성이다](https://ko.wikipedia.org/wiki/반규칙_변광성 "wikilink").

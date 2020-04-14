@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Dr.](https://ko.wikipedia.org/wiki/Dr.).
+> This article is converted from Wikipedia: [Dr.린타로](https://ko.wikipedia.org/wiki/Dr.린타로).
 
 
 《**Dr.린타로**》()는, [2015년](../Page/2015년.md "wikilink") [4월 15일부터](../Page/4월_15일.md "wikilink") [6월 17일까지](../Page/6월_17일.md "wikilink") [닛폰 TV](../Page/닛폰_TV_방송망.md "wikilink") [계열에서](https://ko.wikipedia.org/wiki/닛폰TV_네트워크_협의회 "wikilink") 매주 [수요일](../Page/수요일.md "wikilink") 22:00 \~ 23:00(〈[수요 드라마](https://ko.wikipedia.org/wiki/수요드라마_\(닛폰_TV\) "wikilink")〉 시간대)에 방송된 [텔레비전 드라마이다](https://ko.wikipedia.org/wiki/일본_드라마 "wikilink"). 주연은 [사카이 마사토](../Page/사카이_마사토.md "wikilink").

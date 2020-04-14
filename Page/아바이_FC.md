@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
+> This article is converted from Wikipedia: [아바이 FC](https://ko.wikipedia.org/wiki/아바이_FC).
 
 
 **아바이 푸치보우 클루비**()은 [브라질](../Page/브라질.md "wikilink")의 [산타카타리나주](https://ko.wikipedia.org/wiki/산타카타리나주 "wikilink") [플로리아노폴리스](../Page/플로리아노폴리스.md "wikilink")를 연고지로 하는 [축구](../Page/축구.md "wikilink") 클럽이다. 구단은 [1923년](../Page/1923년.md "wikilink") [9월 1일에](../Page/9월_1일.md "wikilink") 창단되었으며, 홈 구장은 [이스타지우 다 헤사카다이다](https://ko.wikipedia.org/wiki/이스타지우_다_헤사카다 "wikilink"). 팀의 상징 색은 파랑과 하양이며, 이는 구단의 유니폼에 잘 나타나 있다. 구단의 가장 큰 라이벌은 [피게이렌시 FC이다](../Page/피게이렌시_FC.md "wikilink"). 유명 테니스 선수 [구스타보 쿠에르텐은](https://ko.wikipedia.org/wiki/구스타보_쿠에르텐 "wikilink") 이 팀의 팬으로 알려져 있다.\[1\]

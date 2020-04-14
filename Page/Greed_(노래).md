@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Greed \(\)](https://ko.wikipedia.org/wiki/Greed_\(\)).
+> This article is converted from Wikipedia: [Greed \(노래\)](https://ko.wikipedia.org/wiki/Greed_\(노래\)).
 
 
 〈**Greed**〉는 [KNOCK OUT MONKEY의](https://ko.wikipedia.org/wiki/KNOCK_OUT_MONKEY "wikilink") 네 번째 [싱글이다](../Page/싱글_\(음악\).md "wikilink"). [2014년](../Page/2014년.md "wikilink") [8월 20일에](../Page/8월_20일.md "wikilink") [빙에서](../Page/빙_\(기업\).md "wikilink") 발매됐다.

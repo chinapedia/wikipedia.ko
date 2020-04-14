@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [AFC   ](https://ko.wikipedia.org/wiki/AFC___).
+> This article is converted from Wikipedia: [AFC 풋살 클럽 챔피언십](https://ko.wikipedia.org/wiki/AFC_풋살_클럽_챔피언십).
 
 
 **AFC 풋살 클럽 챔피언십**은 [아시아 축구 연맹이](../Page/아시아_축구_연맹.md "wikilink") 주관하는 국제 풋살 클럽 대회로 해마다 아시아 최고의 클럽을 뽑는 대회이다.

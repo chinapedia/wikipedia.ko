@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
+> This article is converted from Wikipedia: [산프란시스코 FC](https://ko.wikipedia.org/wiki/산프란시스코_FC).
 
 
 **산프란시스코 풋볼 클럽 데 라 초레라**()는 [라초레라](https://ko.wikipedia.org/wiki/라초레라 "wikilink")를 연고지로 하는 [파나마](../Page/파나마.md "wikilink")의 [축구](../Page/축구.md "wikilink") 구단이다. [1971년](../Page/1971년.md "wikilink") 9월에 **데포르티보 라프레비소라**(Deportivo La Previsora)라는 이름으로 창단되었으며 클럽 이름은 [서파나마 주](https://ko.wikipedia.org/wiki/서파나마_주 "wikilink") 라초레라 구의 수호성인인 파올라의 프란치스코에서 유래된 이름이다.

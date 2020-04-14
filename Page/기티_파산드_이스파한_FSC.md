@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [   FSC](https://ko.wikipedia.org/wiki/___FSC).
+> This article is converted from Wikipedia: [기티 파산드 이스파한 FSC](https://ko.wikipedia.org/wiki/기티_파산드_이스파한_FSC).
 
 
 **기티 파산드 이스파한 FSC**는 이란의 [풋살](../Page/풋살.md "wikilink") 선수단이다.

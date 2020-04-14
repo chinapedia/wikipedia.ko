@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [PAX ](https://ko.wikipedia.org/wiki/PAX_).
+> This article is converted from Wikipedia: [PAX 랩스](https://ko.wikipedia.org/wiki/PAX_랩스).
 
 
 **PAX 랩스**(이전 명칭: 플룸, Ploom\[1\])는 PAX 기화기를 마케팅하는, 2007년 설립된 미국의 [전자담배](https://ko.wikipedia.org/wiki/전자담배 "wikilink") 회사이다.\[2\] 이 기업은 [JUUL](https://ko.wikipedia.org/wiki/JUUL "wikilink")(주얼로 발음)\[3\])이라는 전자담배를 개발했다. JUUL은 2017년 별도 회사로 독립되었다.\[4\]

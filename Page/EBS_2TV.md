@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [EBS 2TV](https://ko.wikipedia.org/wiki/EBS_2TV).
 
 
-**EBS 2TV**는 [2015년](../Page/2015년.md "wikilink") [2월 11일에](../Page/2월_11일.md "wikilink") 개국한 [한국교육방송공사](../Page/한국교육방송공사.md "wikilink")의 지상파 텔레비전 채널이다. [KBS의](../Page/한국방송공사.md "wikilink") 지상파 송출망을 공유하고 있다.
+**EBS 2TV**는 [2015년](../Page/2015년.md "wikilink") [2월 11일에](../Page/2월_11일.md "wikilink") 시작한 [한국교육방송공사](../Page/한국교육방송공사.md "wikilink")의 지상파 텔레비전 채널이다. [KBS의](../Page/한국방송공사.md "wikilink") 지상파 송출망을 공유하고 있다.
 
 ## 개요
 
@@ -13,7 +13,7 @@
 
   - [2015년](../Page/2015년.md "wikilink") [2월 5일](../Page/2월_5일.md "wikilink") : 시험방송 시작.
   - 2015년 [2월 11일](../Page/2월_11일.md "wikilink") : 서울특별시 강남구 도곡동 본사에서 신용섭 EBS 사장, 최성준 방송통신위원장 등 12명이서 송출버튼을 누른 것으로 개국했다.
-  - 2015년 [2월 13일](../Page/2월_13일.md "wikilink") : [CJ 헬로비전과](https://ko.wikipedia.org/wiki/CJ_헬로비전 "wikilink") [티브로드](../Page/티브로드.md "wikilink"), [C\&M](https://ko.wikipedia.org/wiki/C&M "wikilink"), [HCN](https://ko.wikipedia.org/wiki/HCN_\(방송\) "wikilink"), [CMB](../Page/CMB_\(방송사\).md "wikilink") 등을 포함한 케이블TV 사업자들이 재송신하기로 합의를 하였다.\[1\]
+  - 2015년 [2월 13일](../Page/2월_13일.md "wikilink") :구 [CJ 헬로비전과](https://ko.wikipedia.org/wiki/CJ_헬로비전 "wikilink") [티브로드](../Page/티브로드.md "wikilink"), [C\&M](https://ko.wikipedia.org/wiki/C&M "wikilink"), [HCN](https://ko.wikipedia.org/wiki/HCN_\(방송\) "wikilink"), [CMB](../Page/CMB_\(방송사\).md "wikilink") 등을 포함한 케이블TV 사업자들이 재송신하기로 합의를 하였다.\[1\]
   - 2015년 [4월 1일](../Page/4월_1일.md "wikilink") : 케이블TV 재송신 개시.\[2\]
   - 2015년 11월 21일 : KT 올레TV 라이브(KT IPTV)에서 EBS 2TV 재송신 개시
   - 2015년 12월 10일 : SK Btv(SKB IPTV)에서 EBS 2TV 재송신 개시
@@ -51,35 +51,21 @@
 
 #### 교양 · 교육 · 영화 · 다문화 · 통일 · 드라마
 
-  - [고양이를 부탁해](../Page/고양이를_부탁해_\(텔레비전_프로그램\).md "wikilink")
-  - [경이로운 자연의 세계](https://ko.wikipedia.org/wiki/경이로운_자연의_세계 "wikilink")
-  - [미래강연Q](../Page/미래강연Q.md "wikilink")
-  - [TV로 다시 보는 대학강의 K-MOOC](https://ko.wikipedia.org/wiki/TV로_다시_보는_대학강의_K-MOOC "wikilink")
-  - [마이크로 비트와 언플러그드](https://ko.wikipedia.org/wiki/마이크로_비트와_언플러그드 "wikilink")
-  - [무한상상\! 생활 속 소프트웨어](https://ko.wikipedia.org/wiki/무한상상!_생활_속_소프트웨어 "wikilink")
+  - [똑똑친구, 에디슨](https://ko.wikipedia.org/wiki/똑똑친구,_에디슨 "wikilink")
+  - [명령이다, 비트](https://ko.wikipedia.org/wiki/명령이다,_비트 "wikilink")
+  - [아하, 그렇구나](https://ko.wikipedia.org/wiki/아하,_그렇구나 "wikilink")
+  - [CLASS-e](https://ko.wikipedia.org/wiki/CLASS-e "wikilink") (2020년 4월 27일 첫방예정)
+  - [EBS 클래식](https://ko.wikipedia.org/wiki/EBS_클래식 "wikilink") (2020년 4월 27일 첫방예정)
+  - [EBS 명강](https://ko.wikipedia.org/wiki/EBS_명강 "wikilink") (2020년 4월 27일 첫방예정)
+  - [바닷가 사람들](https://ko.wikipedia.org/wiki/바닷가_사람들 "wikilink") (2020년 5월 25일 첫방예정)
   - [와글와글 미술관](https://ko.wikipedia.org/wiki/와글와글_미술관 "wikilink")
-  - [건축탐구 - 집](https://ko.wikipedia.org/wiki/건축탐구_-_집 "wikilink")
   - [야옹 클래식](https://ko.wikipedia.org/wiki/야옹_클래식 "wikilink")
-  - [장하석의 과학, 철학을 만나다](https://ko.wikipedia.org/wiki/장하석의_과학,_철학을_만나다 "wikilink")
-  - [자연이 과학이다](https://ko.wikipedia.org/wiki/자연이_과학이다 "wikilink")
-  - [내 마음의 안전기지](https://ko.wikipedia.org/wiki/내_마음의_안전기지 "wikilink")
-  - [레전드히어로 삼국전](../Page/레전드히어로_삼국전.md "wikilink")》
-  - [최고의 수학교실](https://ko.wikipedia.org/wiki/최고의_수학교실 "wikilink")
-  - [사물의 역사](https://ko.wikipedia.org/wiki/사물의_역사 "wikilink")
-  - [석학에게 던지는 5\!대질문](https://ko.wikipedia.org/wiki/석학에게_던지는_5!대질문 "wikilink")
-  - [말을 걸어볼까? 동남아 살아보기](https://ko.wikipedia.org/wiki/말을_걸어볼까?_동남아_살아보기 "wikilink")
-  - [세상에 나쁜 개는 없다](../Page/세상에_나쁜_개는_없다.md "wikilink")
-  - [수학의 원리 마테마티카](https://ko.wikipedia.org/wiki/수학의_원리_마테마티카 "wikilink")
-  - [질문 있는 특강쇼 - 빅뱅](../Page/질문_있는_특강쇼_-_빅뱅.md "wikilink")
-  - [석학에게 던지는 5\!질문](https://ko.wikipedia.org/wiki/석학에게_던지는_5!질문 "wikilink")
   - [과학할 고양](https://ko.wikipedia.org/wiki/과학할_고양 "wikilink")
+  - [비버와 함께하는 컴퓨터 과학](https://ko.wikipedia.org/wiki/비버와_함께하는_컴퓨터_과학 "wikilink")
   - [헬로\! EBS 소프트웨어](https://ko.wikipedia.org/wiki/헬로!_EBS_소프트웨어 "wikilink")
   - [엉뚱남매 요리조리쇼](https://ko.wikipedia.org/wiki/엉뚱남매_요리조리쇼 "wikilink")
   - [삐뽀삐뽀 우리몸 X파일](https://ko.wikipedia.org/wiki/삐뽀삐뽀_우리몸_X파일 "wikilink")
-  - [우주 탐사 이야기](https://ko.wikipedia.org/wiki/우주_탐사_이야기 "wikilink")
   - [와글와글 미술관](https://ko.wikipedia.org/wiki/와글와글_미술관 "wikilink")
-  - [아이오프너](https://ko.wikipedia.org/wiki/아이오프너 "wikilink")
-  - [이야기 과학사](https://ko.wikipedia.org/wiki/이야기_과학사 "wikilink")
   - [아기 동물 귀여워](https://ko.wikipedia.org/wiki/아기_동물_귀여워 "wikilink")
   - [과학할 고양](https://ko.wikipedia.org/wiki/과학할_고양 "wikilink")
   - [즐거운 수학 EBSMath](https://ko.wikipedia.org/wiki/즐거운_수학_EBSMath "wikilink")
@@ -88,12 +74,16 @@
 
 ### 유아 · 어린이 · 애니메이션
 
-  - [뭐든지 뮤직박스](https://ko.wikipedia.org/wiki/뭐든지_뮤직박스 "wikilink")
   - [뚝딱남매 비츠와 밥](https://ko.wikipedia.org/wiki/뚝딱남매_비츠와_밥 "wikilink")
+  - [방귀대장 뿡뿡이](../Page/방귀대장_뿡뿡이.md "wikilink")
+  - [애코와 친구들](https://ko.wikipedia.org/wiki/애코와_친구들 "wikilink")
+  - [두근두근 방방](../Page/두근두근_방방.md "wikilink")
+  - [미스테리야](https://ko.wikipedia.org/wiki/미스테리야 "wikilink")
   - [예술아 놀자](https://ko.wikipedia.org/wiki/예술아_놀자 "wikilink")
   - [미술탐험대](https://ko.wikipedia.org/wiki/미술탐험대 "wikilink")
   - [허풍선이 과학쇼](https://ko.wikipedia.org/wiki/허풍선이_과학쇼 "wikilink")
   - [세미와 매직큐브](../Page/세미와_매직큐브.md "wikilink")
+  - [픽시](https://ko.wikipedia.org/wiki/픽시 "wikilink")
 
 ### 종영 프로그램
 

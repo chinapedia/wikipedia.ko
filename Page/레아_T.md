@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ T](https://ko.wikipedia.org/wiki/_T).
+> This article is converted from Wikipedia: [레아 T](https://ko.wikipedia.org/wiki/레아_T).
 
 
 **레아 T**(Lea T, [1981년](../Page/1981년.md "wikilink") [4월 17일](../Page/4월_17일.md "wikilink") \~ )는 [브라질](../Page/브라질.md "wikilink")에서 태어나 [이탈리아](../Page/이탈리아.md "wikilink")에서 자란 [성전환](https://ko.wikipedia.org/wiki/성전환 "wikilink") [모델](https://ko.wikipedia.org/wiki/모델 "wikilink")이다.\[1\] [프랑스](../Page/프랑스.md "wikilink")의 명품 브랜드 [지방시의](https://ko.wikipedia.org/wiki/지방시_\(브랜드\) "wikilink") 수석 디자이너인 [리카르도 티시](https://ko.wikipedia.org/wiki/리카르도_티시 "wikilink")(Riccardo Tisci)의 뮤즈다. "T"는 리카르토 티시의 "티시"를 뜻한다.\[2\]

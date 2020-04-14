@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [: dog eat dog](https://ko.wikipedia.org/wiki/:_dog_eat_dog).
+> This article is converted from Wikipedia: [개: dog eat dog](https://ko.wikipedia.org/wiki/개:_dog_eat_dog).
 
 
 《**개**》는 [2015년](../Page/2015년.md "wikilink")에 개봉한 [대한민국의](https://ko.wikipedia.org/wiki/대한민국_영화 "wikilink") 영화이다.

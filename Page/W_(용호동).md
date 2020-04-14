@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [W \(\)](https://ko.wikipedia.org/wiki/W_\(\)).
+> This article is converted from Wikipedia: [W \(용호동\)](https://ko.wikipedia.org/wiki/W_\(용호동\)).
 
 
 **더블유**() 혹은 **더 더블유**()는 [대한민국](../Page/대한민국.md "wikilink") [부산광역시](https://ko.wikipedia.org/wiki/부산광역시 "wikilink") [남구](../Page/남구_\(부산광역시\).md "wikilink") [용호동에](../Page/용호동_\(부산\).md "wikilink") 위치한 초고층 고급 주상복합 [아파트](../Page/아파트.md "wikilink") 단지이자 부산광역시에서 4번째로 높은 [마천루](../Page/마천루.md "wikilink")이다. 1488세대의 최고 69층, 247m 높이의 아파트 총 4개동과 W스퀘어로 구성되며 [아이에스동서](../Page/아이에스동서.md "wikilink")가 건축가, 소유주를 맡았다. [2013년](../Page/2013년.md "wikilink")에 착공하여 [2018년 3월에](https://ko.wikipedia.org/wiki/2018년_3월 "wikilink") 완공되었고 [2018년](../Page/2018년.md "wikilink") [4월 10일에](../Page/4월_10일.md "wikilink") 입주를 시작했다.\[1\]

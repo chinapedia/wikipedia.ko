@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [MCPHS ](https://ko.wikipedia.org/wiki/MCPHS_).
+> This article is converted from Wikipedia: [MCPHS 대학교](https://ko.wikipedia.org/wiki/MCPHS_대학교).
 
 
 **MCPHS 대학교**는 미국 메사추세츠 주에 있는 보스턴 시에 위치하고 있는 사립대학이다. 이 대학은 오래된 전통을 바탕으로 학생들에게 약학과 다른 보건건강과 관련된 학과들에 대한 속성 프로그램을 제공한다. 또한, 학교가 위치한 롱우드 메디칼 구역은 유명한 병원들과 리서치 시설들이 있어 학생들이 다양한 실습기회를 가질 수 있다. 2000년도부터 MCPHS는 캠퍼스를 신설하여 현재 보스턴,우스터 그리고 멘체스터시에 3개 캠퍼스가 있다.

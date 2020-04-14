@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SDN \(\)](https://ko.wikipedia.org/wiki/SDN_\(\)).
+> This article is converted from Wikipedia: [SDN \(네트워크\)](https://ko.wikipedia.org/wiki/SDN_\(네트워크\)).
 
 
 **SDN**(System Development Network)은 대한민국 최초의 원거리 컴퓨터 네트워크로서 [TCP/IP](https://ko.wikipedia.org/wiki/TCP/IP "wikilink") 프로토콜을 사용하였다. 대한민국 최초의 원거리 데이터 전송은 1982년 5월, 구미 소재의 한국 전자기술연구소(KIET)와 서울대학교 사이에서 이루어졌다. 두 기관에 설치된 UNIX 머신이 현재 [인터넷 프로토콜인](../Page/인터넷_프로토콜.md "wikilink") TCP/IP 프로토콜로 연결되고, 파일교환과 이메일 등 현재에도 널리 사용되는 인터넷 응용 프로그램을 통해 교신했기 때문에 이 교신을 대한민국 인터넷의 효시로 볼 수 있다. 동시에 이는 TCP/IP 프로토콜을 이용한 아시아 최초의 원거리 교신이었다.

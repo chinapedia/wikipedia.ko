@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:NBA  ](https://ko.wikipedia.org/wiki/:NBA__).
+> This article is converted from Wikipedia: [틀:NBA 올해의 감독상](https://ko.wikipedia.org/wiki/틀:NBA_올해의_감독상).
 
 
 <onlyinclude></onlyinclude>
