@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [A  ](https://ko.wikipedia.org/wiki/A__).
+> This article is converted from Wikipedia: [채널A 뉴스 스테이션](https://ko.wikipedia.org/wiki/채널A_뉴스_스테이션).
 
 
 《**채널A 뉴스 스테이션**》은 [대한민국](../Page/대한민국.md "wikilink")에서 토요일 오후 4시 20분에 [텔레비전](../Page/텔레비전.md "wikilink")으로 방송했던 [채널A](../Page/채널A.md "wikilink")의 토요일 오후[뉴스](../Page/뉴스.md "wikilink") 프로그램이다.

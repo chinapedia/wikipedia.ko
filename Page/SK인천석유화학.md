@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SK](https://ko.wikipedia.org/wiki/SK).
+> This article is converted from Wikipedia: [SK인천석유화학](https://ko.wikipedia.org/wiki/SK인천석유화학).
 
 
 **SK인천석유화학**(, )은 [SK이노베이션](../Page/SK이노베이션.md "wikilink")의 정유사업을 담당하는 자회사로서 [대한민국](../Page/대한민국.md "wikilink") 최초의 [정유](../Page/방향유.md "wikilink") 회사이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ K](https://ko.wikipedia.org/wiki/_K).
+> This article is converted from Wikipedia: [대수적 K이론](https://ko.wikipedia.org/wiki/대수적_K이론).
 
 
 [수학](../Page/수학.md "wikilink")에서, **대수적 K이론**(代數的K理論, )은 [환의](../Page/환_\(수학\).md "wikilink") [가군](../Page/가군.md "wikilink")들을 다루는 [K이론](../Page/K이론.md "wikilink")의 한 종류다.

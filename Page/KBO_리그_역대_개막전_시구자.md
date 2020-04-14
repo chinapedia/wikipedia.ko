@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KBO    ](https://ko.wikipedia.org/wiki/KBO____).
+> This article is converted from Wikipedia: [KBO 리그 역대 개막전 시구자](https://ko.wikipedia.org/wiki/KBO_리그_역대_개막전_시구자).
 
 
 다음은 **KBO 리그 역대 개막전의 시구자 목록**이다. 한국프로야구 출범 첫 경기의 시구자는 당시 대통령이었던 [전두환](../Page/전두환.md "wikilink")이었다.
@@ -255,7 +255,7 @@ OB vs 쌍방울<br />
 <td><p><a href="../Page/채시라.md" title="wikilink">채시라</a><br />
 <a href="../Page/문정수.md" title="wikilink">문정수</a><br />
 이내흔 외 3명<br />
-<a href="https://ko.wikipedia.org/wiki/송언종" title="wikilink">송언종</a></p></td>
+<a href="../Page/송언종.md" title="wikilink">송언종</a></p></td>
 <td><p>탤런트<br />
 부산시장<br />
 현대구단주<br />

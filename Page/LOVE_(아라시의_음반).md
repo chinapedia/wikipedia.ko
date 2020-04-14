@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [LOVE \( \)](https://ko.wikipedia.org/wiki/LOVE_\(_\)).
+> This article is converted from Wikipedia: [LOVE \(아라시의 음반\)](https://ko.wikipedia.org/wiki/LOVE_\(아라시의_음반\)).
 
 
 《**LOVE**》(러브)는, [아라시](../Page/아라시.md "wikilink")의 12번째 [정규 음반이다](../Page/정규_음반.md "wikilink").

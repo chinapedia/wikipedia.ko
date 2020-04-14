@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SBA ](https://ko.wikipedia.org/wiki/SBA_).
+> This article is converted from Wikipedia: [SBA 항공](https://ko.wikipedia.org/wiki/SBA_항공).
 
 
 **SBA 항공**()는 [베네수엘라](../Page/베네수엘라.md "wikilink")의 [항공사](https://ko.wikipedia.org/wiki/항공사 "wikilink")로 [2008년](../Page/2008년.md "wikilink") 설립되어\[1\] [카라카스](../Page/카라카스.md "wikilink")에 본사를 두고 있으며 [시몬 볼리바르 국제공항](https://ko.wikipedia.org/wiki/시몬_볼리바르_국제공항 "wikilink"), [라치나타 국제공항을](https://ko.wikipedia.org/wiki/라치나타_국제공항 "wikilink") 거점으로 운항하고 있다. 이전 명칭은 **산타바바라 항공**()이다.\[2\]

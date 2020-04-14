@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [WA ](https://ko.wikipedia.org/wiki/WA_).
+> This article is converted from Wikipedia: [WA 엔터테인먼트](https://ko.wikipedia.org/wiki/WA_엔터테인먼트).
 
 
 **WA 엔터테인먼트**([WA Entertainment](https://ko.wikipedia.org/wiki/:en:WA_Entertainment "wikilink"))는 [2012년](../Page/2012년.md "wikilink")에 설립한 [대한민국](../Page/대한민국.md "wikilink")의 연예기획사로 [레인보우브릿지에이전시](https://ko.wikipedia.org/wiki/레인보우브릿지에이전시 "wikilink") 이사인 [김도훈](../Page/김도훈_\(작곡가\).md "wikilink"),(주)[레인보우브릿지에이전시](https://ko.wikipedia.org/wiki/레인보우브릿지에이전시 "wikilink") 대표 [김진우](../Page/김진우_\(음악_프로듀서\).md "wikilink"), 모던케이 대표 김형규 에 의해 설립되었다.

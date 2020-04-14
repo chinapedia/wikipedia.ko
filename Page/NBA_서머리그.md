@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [NBA ](https://ko.wikipedia.org/wiki/NBA_).
+> This article is converted from Wikipedia: [NBA 서머리그](https://ko.wikipedia.org/wiki/NBA_서머리그).
 
 
 **NBA 서머리그** (NBA Summer League)는 매년 여름 네바다 주 라스베이거스 (**라스베이거스 서머리그**)와 플로리다 주 올랜도 (**올랜도 서머리그**, 2018년 폐지됨) 그리고 유타 주 솔트 레이크 시티 (**유타 서머리그**) 그리고 [캘리포니아주](../Page/캘리포니아주.md "wikilink") [새크라멘토](../Page/새크라멘토.md "wikilink") (**캘리포니아 클래식**)에 개최가 된다. 주로 신인선수나 젊은 선수들로 팀이 이루어진다.

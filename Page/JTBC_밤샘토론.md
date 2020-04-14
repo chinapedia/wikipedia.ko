@@ -1,7 +1,5 @@
-> This article is converted from Wikipedia: [JTBC ](https://ko.wikipedia.org/wiki/JTBC_).
+> This article is converted from Wikipedia: [JTBC 밤샘토론](https://ko.wikipedia.org/wiki/JTBC_밤샘토론).
 
-
-기준)</small> |방송 국가 =  |방송 채널 = [JTBC](../Page/JTBC.md "wikilink") |기획 = |제작 = |총감독 = |책임프로듀서 = |감독 = |프로듀서 = |연출 = |원작 = |조연출 = |구성 = |출연자 =[신예리](../Page/신예리.md "wikilink"), 김진일 (기자) |음성 = 2채널 [돌비 디지털](../Page/돌비_디지털.md "wikilink") |자막 = |데이터 방송 = |고화질 방송여부 = [HD](../Page/고선명_텔레비전.md "wikilink") 제작 · 방송 |외부 링크 = <http://culture.jtbc.co.kr/nightdebate/> |외부 링크 이름 = 공식 홈페이지 }}
 
 《**JTBC 밤샘토론**》는 [JTBC](../Page/JTBC.md "wikilink")의 주간 토론 프로그램이다. 손석희 보도담당 사장 취임 이후 보도 프로그램 강화 일환으로 2013년 9월 처음으로 방송됐다. 종편 중 유일한 시사 토론 프로그램이기도 하다.
 

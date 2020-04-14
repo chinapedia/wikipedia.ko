@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KBS  ](https://ko.wikipedia.org/wiki/KBS__).
+> This article is converted from Wikipedia: [KBS 교향악단 연주회](https://ko.wikipedia.org/wiki/KBS_교향악단_연주회).
 
 
 **KBS 교향악단 연주회**는 매주 [금요일](../Page/금요일.md "wikilink") 오후 2시 30분에 [KBS 1TV로](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink") 방송된 [음악 프로그램이다](https://ko.wikipedia.org/wiki/음악_프로그램 "wikilink").

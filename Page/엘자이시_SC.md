@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ SC](https://ko.wikipedia.org/wiki/_SC).
+> This article is converted from Wikipedia: [엘자이시 SC](https://ko.wikipedia.org/wiki/엘자이시_SC).
 
 
 **엘자이시 스포츠 클럽**()은 [도하](../Page/도하.md "wikilink")를 연고로 했던 [카타르](../Page/카타르.md "wikilink")의 축구 클럽이다.

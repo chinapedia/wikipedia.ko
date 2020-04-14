@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [HTC ](https://ko.wikipedia.org/wiki/HTC_).
+> This article is converted from Wikipedia: [HTC 퍼스트](https://ko.wikipedia.org/wiki/HTC_퍼스트).
 
 
 **HTC 퍼스트**(HTC First)는 [HTC 코퍼레이션에서](https://ko.wikipedia.org/wiki/HTC_코퍼레이션 "wikilink") 제조/판매하는 [안드로이드](../Page/안드로이드_\(운영_체제\).md "wikilink") [스마트폰](../Page/스마트폰.md "wikilink")이다.

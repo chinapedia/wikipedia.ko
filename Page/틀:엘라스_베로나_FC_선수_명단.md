@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:  FC  ](https://ko.wikipedia.org/wiki/:__FC__).
+> This article is converted from Wikipedia: [틀:엘라스 베로나 FC 선수 명단](https://ko.wikipedia.org/wiki/틀:엘라스_베로나_FC_선수_명단).
 
 
 <onlyinclude></onlyinclude>

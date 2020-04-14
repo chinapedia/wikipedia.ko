@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  E](https://ko.wikipedia.org/wiki/__E).
+> This article is converted from Wikipedia: [소니 엑스페리아 E](https://ko.wikipedia.org/wiki/소니_엑스페리아_E).
 
 
 **소니 엑스페리아 E**(Sony Xperia E)은 [소니 모바일 커뮤니케이션스에서](../Page/소니_모바일_커뮤니케이션스.md "wikilink") 출시한 [안드로이드](../Page/안드로이드_\(운영_체제\).md "wikilink") [스마트폰](../Page/스마트폰.md "wikilink")이다.

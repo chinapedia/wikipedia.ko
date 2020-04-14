@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ 2km](https://ko.wikipedia.org/wiki/_2km).
+> This article is converted from Wikipedia: [시실리 2km](https://ko.wikipedia.org/wiki/시실리_2km).
 
 
 《**시실리 2km**》(To Catch A Virgin Ghost)는 2004년 개봉한 [대한민국](../Page/대한민국.md "wikilink")의 영화이다.

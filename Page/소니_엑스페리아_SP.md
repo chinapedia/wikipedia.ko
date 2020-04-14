@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  SP](https://ko.wikipedia.org/wiki/__SP).
+> This article is converted from Wikipedia: [소니 엑스페리아 SP](https://ko.wikipedia.org/wiki/소니_엑스페리아_SP).
 
 
 **소니 엑스페리아 SP**(Sony Xperia SP)은 [소니 모바일 커뮤니케이션스에서](../Page/소니_모바일_커뮤니케이션스.md "wikilink") 출시한 [안드로이드](../Page/안드로이드_\(운영_체제\).md "wikilink") [스마트폰](../Page/스마트폰.md "wikilink")이다.

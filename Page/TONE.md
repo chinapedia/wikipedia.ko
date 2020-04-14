@@ -81,4 +81,15 @@
 | **차트 진입 기간 - 45주** |       |          |
 |                    |       |          |
 
+## 릴리즈기념 구입자 한정 이벤트
+
+| <font size=2>|개최일                  | <font size=2>|도시                                                | <font size=2>|개최지          |
+| ---------------------------------- | --------------------------------------------------------------- | -------------------------- |
+| <font size=2>|2011년 11월 1일 (1일 2회) | <font size=2>|[대판](https://ko.wikipedia.org/wiki/대판 "wikilink") | <font size=2>|오릭스 극장       |
+| <font size=2>|2011년 11월 3일 (1일 2회) | <font size=2>|[동경](https://ko.wikipedia.org/wiki/동경 "wikilink") | <font size=2>|도쿄 국제 포럼 홀 A |
+
+## 외부 링크
+
+  - [동방신기 TONE 스페셜 사이트](http://sp.toho-jp.net)
+
 [분류:2011년 음반](https://ko.wikipedia.org/wiki/분류:2011년_음반 "wikilink") [분류:동방신기의 음반](https://ko.wikipedia.org/wiki/분류:동방신기의_음반 "wikilink") [분류:SM 엔터테인먼트 음반](https://ko.wikipedia.org/wiki/분류:SM_엔터테인먼트_음반 "wikilink") [분류:2011년 오리콘 앨범 차트 1위 작품](https://ko.wikipedia.org/wiki/분류:2011년_오리콘_앨범_차트_1위_작품 "wikilink") [분류:일본어 음반](https://ko.wikipedia.org/wiki/분류:일본어_음반 "wikilink")

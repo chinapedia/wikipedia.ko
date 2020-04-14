@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [\~A.I.Knows LOVE\?\~](https://ko.wikipedia.org/wiki/\~A.I.Knows_LOVE\?\~).
+> This article is converted from Wikipedia: [안도로이도\~A.I.Knows LOVE\?\~](https://ko.wikipedia.org/wiki/안도로이도\~A.I.Knows_LOVE\?\~).
 
 
 《**안도로이도\~A.I.Knows LOVE?\~**》()는 [TBS](../Page/도쿄_방송_홀딩스.md "wikilink") 계열의 〈[일요극장](../Page/일요극장.md "wikilink")〉 시간대(매주 [일요일](../Page/일요일.md "wikilink") 21:00 \~ 21:54〈[JST](https://ko.wikipedia.org/wiki/일본표준시 "wikilink")〉에 [2013년](../Page/2013년.md "wikilink") [10월 13일부터](../Page/10월_13일.md "wikilink") [12월 15일까지](../Page/12월_15일.md "wikilink") 방송된 [텔레비전 드라마이다](https://ko.wikipedia.org/wiki/일본_드라마 "wikilink"). 주연은 [키무라 타쿠야](../Page/기무라_타쿠야.md "wikilink").

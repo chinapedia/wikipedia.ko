@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Hay \( \)](https://ko.wikipedia.org/wiki/Hay_\(_\)).
+> This article is converted from Wikipedia: [Hay \(인스턴트 메신저\)](https://ko.wikipedia.org/wiki/Hay_\(인스턴트_메신저\)).
 
 
 **Hay**(헤이)는 [네오위즈인터넷](https://ko.wikipedia.org/wiki/네오위즈인터넷 "wikilink")에서 개발한 무료 음성 [인스턴트 메신저](../Page/인스턴트_메신저.md "wikilink") 서비스이다. 텍스트 기반의 메신저보다 생생하고, 영상 기반 메신저보다 신속하게 의사를 전달할 수 있는 ‘음성 커뮤니케이션’이 특징이다. \[1\]

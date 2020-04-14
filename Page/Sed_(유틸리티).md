@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Sed \(\)](https://ko.wikipedia.org/wiki/Sed_\(\)).
+> This article is converted from Wikipedia: [Sed \(유틸리티\)](https://ko.wikipedia.org/wiki/Sed_\(유틸리티\)).
 
 
 **sed**(*stream editor*)는 [유닉스](../Page/유닉스.md "wikilink")에서 텍스트를 분해하거나 변환하기 위한 프로그램이다. sed는 [벨 연구소의](../Page/벨_연구소.md "wikilink") [리 E. 맥마흔이](https://ko.wikipedia.org/wiki/리_E._맥마흔 "wikilink") 1973년부터 1974년까지 개발하였고, 현재 유닉스 등의 여러가지 운영 체제에서 사용 가능하다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ B \(\)](https://ko.wikipedia.org/wiki/_B_\(\)).
+> This article is converted from Wikipedia: [플랜 B \(영화\)](https://ko.wikipedia.org/wiki/플랜_B_\(영화\)).
 
 
 **플랜 B**(The Back-up Plan)는 [2010년](../Page/2010년.md "wikilink") 공개된 [미국의](https://ko.wikipedia.org/wiki/미국_영화 "wikilink") 로맨틱 코미디 영화이다.

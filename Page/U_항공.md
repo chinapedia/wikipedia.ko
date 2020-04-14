@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [U ](https://ko.wikipedia.org/wiki/U_).
+> This article is converted from Wikipedia: [U 항공](https://ko.wikipedia.org/wiki/U_항공).
 
 
 **U 항공**(, )은 [태국](../Page/태국.md "wikilink")의 [항공사](https://ko.wikipedia.org/wiki/항공사 "wikilink")로 [방콕](../Page/방콕.md "wikilink")에 본사를 두고 있으며 [수완나품 공항을](https://ko.wikipedia.org/wiki/수완나품_공항 "wikilink") 거점으로 운항하고 있다. 현재 이 항공사는 [대한민국](../Page/대한민국.md "wikilink"), [인도네시아](../Page/인도네시아.md "wikilink"), [중화인민공화국](../Page/중화인민공화국.md "wikilink")을 중심으로 정기 노선을 취항하고 있다.

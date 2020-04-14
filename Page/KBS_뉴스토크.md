@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KBS ](https://ko.wikipedia.org/wiki/KBS_).
+> This article is converted from Wikipedia: [KBS 뉴스토크](https://ko.wikipedia.org/wiki/KBS_뉴스토크).
 
 
 《**KBS 뉴스토크**》(KBS NEWS TALK)는 [대한민국](../Page/대한민국.md "wikilink") [KBS 1TV에서](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink") 매주 [평일](https://ko.wikipedia.org/wiki/평일 "wikilink") 오후 3시에 방송되었던 [한국방송공사의 낮 뉴스쇼 프로그램이다](../Page/한국방송공사의_뉴스_프로그램.md "wikilink").

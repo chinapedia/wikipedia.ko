@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ BE STUPID](https://ko.wikipedia.org/wiki/_BE_STUPID).
+> This article is converted from Wikipedia: [정준영의 BE STUPID](https://ko.wikipedia.org/wiki/정준영의_BE_STUPID).
 
 
 《**정준영의 BE STUPID**》는 온스타일에서 방송된 [정준영](../Page/정준영.md "wikilink")의 데뷔 전 첫 번째 리얼리티 프로그램이다. 정준영이 첫 데뷔 앨범 준비에 구슬땀을 흘리고 있는 모습과 음악, 일상생활 등을 가감 없이 담아냈다. 프로그램 제목의 'BE STUPID'는 [정준영](../Page/정준영.md "wikilink")이 자신만의 음악을 선보이기 위해 바보스럽게 느껴질 만큼의 열정과 소신을 보여 '바보가 되라' 라는 문구를 메인 키워드로 설정한 것이다. 부제 4차원 정준영의 진짜 뮤지션 되기.

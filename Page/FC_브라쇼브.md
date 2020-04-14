@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FC ](https://ko.wikipedia.org/wiki/FC_).
+> This article is converted from Wikipedia: [FC 브라쇼브](https://ko.wikipedia.org/wiki/FC_브라쇼브).
 
 
 **FC 브라쇼브**()는 [브라쇼브](../Page/브라쇼브.md "wikilink")를 연고로 하는 [루마니아](../Page/루마니아.md "wikilink")의 축구 클럽이다. 현재는 [리가 I에](../Page/리가_I.md "wikilink") 참가하고 있다.

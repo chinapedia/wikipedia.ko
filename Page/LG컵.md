@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [LG](https://ko.wikipedia.org/wiki/LG).
+> This article is converted from Wikipedia: [LG컵](https://ko.wikipedia.org/wiki/LG컵).
 
 
 [right](https://ko.wikipedia.org/wiki/파일:LG_Cup_2011.jpg "wikilink") **LG컵**(LG Cup)은 [대한민국](../Page/대한민국.md "wikilink")의 기업 [LG전자](../Page/LG전자.md "wikilink")가 후원하는 국제 [축구](../Page/축구.md "wikilink")대회이며 [아프리카](../Page/아프리카.md "wikilink")와 [중동](../Page/중동.md "wikilink")에서 개최된다.

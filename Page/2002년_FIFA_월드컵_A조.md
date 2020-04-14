@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [2002 FIFA  A](https://ko.wikipedia.org/wiki/2002_FIFA__A).
+> This article is converted from Wikipedia: [2002년 FIFA 월드컵 A조](https://ko.wikipedia.org/wiki/2002년_FIFA_월드컵_A조).
 
 
 [2002년 FIFA 월드컵은](https://ko.wikipedia.org/wiki/2002년_FIFA_월드컵 "wikilink") 32팀이 본선에 참가하였고 이들은 4팀씩 8개의 조로 나뉘었다. **[2002년 FIFA 월드컵](https://ko.wikipedia.org/wiki/2002년_FIFA_월드컵 "wikilink") A조**는 [1998년 FIFA 월드컵](https://ko.wikipedia.org/wiki/1998년_FIFA_월드컵 "wikilink") 우승국 [프랑스](https://ko.wikipedia.org/wiki/프랑스_축구_국가대표팀 "wikilink"), 2회 우승국 [우루과이](../Page/우루과이_축구_국가대표팀.md "wikilink"), [덴마크](../Page/덴마크_축구_국가대표팀.md "wikilink"), 그리고 [FIFA 월드컵](https://ko.wikipedia.org/wiki/FIFA_월드컵 "wikilink") 처녀 출전국 [세네갈이](../Page/세네갈_축구_국가대표팀.md "wikilink") 편성되었다. A조의 첫 경기는 2002년 5월 31일에 치러졌고, 최종전은 2002년 6월 11일에 거행되었다.

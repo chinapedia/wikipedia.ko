@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [J-](https://ko.wikipedia.org/wiki/J-).
+> This article is converted from Wikipedia: [J-불변량](https://ko.wikipedia.org/wiki/J-불변량).
 
 
 [right](https://ko.wikipedia.org/wiki/파일:KleinInvariantJ.jpg "wikilink") [수학](../Page/수학.md "wikilink")에서, **\(j\)-불변량**(j-不變量, )은 [모듈러 함수의](https://ko.wikipedia.org/wiki/모듈러_함수 "wikilink") 하나다. \(j\)-불변량의 모든 [유리 함수](../Page/유리_함수.md "wikilink") 또한 [모듈러 함수이며](https://ko.wikipedia.org/wiki/모듈러_함수 "wikilink"), 모든 모듈러 함수는 \(j\)-불변량의 유리 함수로 나타낼 수 있다.

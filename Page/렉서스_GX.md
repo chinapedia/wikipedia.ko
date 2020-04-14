@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ GX](https://ko.wikipedia.org/wiki/_GX).
+> This article is converted from Wikipedia: [렉서스 GX](https://ko.wikipedia.org/wiki/렉서스_GX).
 
 
 **렉서스 GX**(Lexus GX)는 [토요타 자동차의](../Page/토요타_자동차.md "wikilink") 고급 브랜드인 [렉서스](../Page/렉서스.md "wikilink")의 준대형 [SUV이다](../Page/스포츠_유틸리티_자동차.md "wikilink"). 생산은 [일본](../Page/일본.md "wikilink") [아이치현](../Page/아이치현.md "wikilink")에 있는 [토요타 자동차](../Page/토요타_자동차.md "wikilink") 타하라 공장에서 이뤄진다. [토요타 랜드크루저 프라도의](https://ko.wikipedia.org/wiki/토요타_랜드크루저_프라도 "wikilink") 형제 차량이다.

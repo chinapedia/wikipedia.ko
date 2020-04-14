@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [DB](https://ko.wikipedia.org/wiki/DB).
+> This article is converted from Wikipedia: [몽고DB](https://ko.wikipedia.org/wiki/몽고DB).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Robomongo_0.8.5_-_insertion.png "wikilink") **몽고DB**(MongoDB<small>←HUMONGOUS</small>)는 크로스 플랫폼 [도큐먼트 지향 데이터베이스](https://ko.wikipedia.org/wiki/도큐먼트_지향_데이터베이스 "wikilink") 시스템이다. [NoSQL](../Page/NoSQL.md "wikilink") 데이터베이스로 분류되는 몽고DB는 [JSON](../Page/JSON.md "wikilink")과 같은 동적 스키마형 도큐먼트들(몽고DB는 이러한 포맷을 [BSON](https://ko.wikipedia.org/wiki/BSON "wikilink")이라 부름)을 선호함에 따라 전통적인 테이블 기반 [관계형 데이터베이스](https://ko.wikipedia.org/wiki/관계형_데이터베이스 "wikilink") 구조의 사용을 삼간다. 이로써 특정한 종류의 애플리케이션을 더 쉽고 더 빠르게 데이터 통합을 가능케 한다. [아페로 GPL과](https://ko.wikipedia.org/wiki/아페로_GPL "wikilink") [아파치 라이선스를](../Page/아파치_라이선스.md "wikilink") 결합하여 공개된 몽고DB는 [자유-오픈 소스 소프트웨어이다](../Page/자유-오픈_소스_소프트웨어.md "wikilink").

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [BMW 6 ](https://ko.wikipedia.org/wiki/BMW_6_).
+> This article is converted from Wikipedia: [BMW 6 시리즈](https://ko.wikipedia.org/wiki/BMW_6_시리즈).
 
 
 **BMW 6 시리즈**(BMW 6 series)는 [독일](../Page/독일.md "wikilink")의 자동차 회사인 [BMW](../Page/BMW.md "wikilink")의 승용차이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [: FC  ](https://ko.wikipedia.org/wiki/:_FC__).
+> This article is converted from Wikipedia: [틀:리버풀 FC 감독 기록](https://ko.wikipedia.org/wiki/틀:리버풀_FC_감독_기록).
 
 
 아래의 내용은 사커베이스, 리버풀tv, 공식 홈페이지 등을 토대로 작성되었습니다. 리그 경기만이아니라 감독이 참여한 모든 공식 경기의 기록입니다. 친선전, 프리시즌 등의 경기는 제외합니다. 본문에 사용될 때는 \<references/\> 태그를 함께 넣어야 합니다. <onlyinclude>

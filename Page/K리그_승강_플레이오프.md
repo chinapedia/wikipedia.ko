@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [K  ](https://ko.wikipedia.org/wiki/K__).
+> This article is converted from Wikipedia: [K리그 승강 플레이오프](https://ko.wikipedia.org/wiki/K리그_승강_플레이오프).
 
 
 **K리그 승강 플레이오프**는 [2013년](../Page/2013년.md "wikilink") K리그에 승강제가 도입됨에 따라 생겼다.

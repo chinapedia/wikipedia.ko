@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Metallica: Through the Never \(\)](https://ko.wikipedia.org/wiki/Metallica:_Through_the_Never_\(\)).
+> This article is converted from Wikipedia: [Metallica: Through the Never \(음반\)](https://ko.wikipedia.org/wiki/Metallica:_Through_the_Never_\(음반\)).
 
 
 《**메탈리카 스루 더 네버**(Metallica Through the Never)》는 [미국](../Page/미국.md "wikilink")의 [헤비 메탈밴드](../Page/헤비_메탈.md "wikilink") [메탈리카](../Page/메탈리카.md "wikilink")의 [콘서트 영화](../Page/메탈리카_스루_더_네버.md "wikilink") [사운드트랙](https://ko.wikipedia.org/wiki/사운드트랙 "wikilink")이다. 2012년 [캐나다](../Page/캐나다.md "wikilink")의 [에드먼턴](../Page/에드먼턴.md "wikilink")과 [밴쿠버](https://ko.wikipedia.org/wiki/밴쿠버 "wikilink")에서 열렸던 영화 촬영 겸 라이브의 실황을 수록했다.\[1\]\[2\]\[3\]

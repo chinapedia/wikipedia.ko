@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [V \( \)](https://ko.wikipedia.org/wiki/V_\(_\)).
+> This article is converted from Wikipedia: [V \(이승열의 음반\)](https://ko.wikipedia.org/wiki/V_\(이승열의_음반\)).
 
 
 《**V**》는 [대한민국](../Page/대한민국.md "wikilink")의 음악인 [이승열](../Page/이승열.md "wikilink")의 네 번째 정규 솔로음반이다.

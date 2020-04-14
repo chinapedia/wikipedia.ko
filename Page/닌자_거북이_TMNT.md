@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  TMNT](https://ko.wikipedia.org/wiki/__TMNT).
+> This article is converted from Wikipedia: [닌자 거북이 TMNT](https://ko.wikipedia.org/wiki/닌자_거북이_TMNT).
 
 
 《**닌자 거북이 TMNT**》(TMNT)는 [2007년](../Page/2007년.md "wikilink") 공개된 [미국의](https://ko.wikipedia.org/wiki/미국_영화 "wikilink") 영화이다.

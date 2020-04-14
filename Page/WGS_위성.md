@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [WGS ](https://ko.wikipedia.org/wiki/WGS_).
+> This article is converted from Wikipedia: [WGS 위성](https://ko.wikipedia.org/wiki/WGS_위성).
 
 
 [thumb](https://ko.wikipedia.org/wiki/파일:Wideband_Global_SATCOM.jpg "wikilink")

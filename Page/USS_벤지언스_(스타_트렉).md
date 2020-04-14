@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [USS  \( \)](https://ko.wikipedia.org/wiki/USS__\(_\)).
+> This article is converted from Wikipedia: [USS 벤지언스 \(스타 트렉\)](https://ko.wikipedia.org/wiki/USS_벤지언스_\(스타_트렉\)).
 
 
 **USS 벤지언스**(USS Vengeance) 호는 2259년 [목성](../Page/목성.md "wikilink")의 위성 [이오](https://ko.wikipedia.org/wiki/이오 "wikilink")의 궤도에 위치한 이오 조선소에서 진수된 드레드노트급 프로토타입 함선이다. [스타 트렉 다크니스(2013)에](https://ko.wikipedia.org/wiki/스타_트렉_다크니스\(2013\) "wikilink") 최초로 등장하는 이 함선은 제식번호가 없는 유일한 함선이며, 벌컨 행성이 파괴당한 이후 진수된 최초의 함선이기도 하다.

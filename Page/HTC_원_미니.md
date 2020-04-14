@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [HTC  ](https://ko.wikipedia.org/wiki/HTC__).
+> This article is converted from Wikipedia: [HTC 원 미니](https://ko.wikipedia.org/wiki/HTC_원_미니).
 
 
 **HTC 원 미니**(HTC One Mini)는 [HTC 코퍼레이션에서](https://ko.wikipedia.org/wiki/HTC_코퍼레이션 "wikilink") 제조/판매하는 [안드로이드](../Page/안드로이드_\(운영_체제\).md "wikilink") [스마트폰](../Page/스마트폰.md "wikilink")으로, [원의](../Page/HTC_원.md "wikilink") 후속제품이다.

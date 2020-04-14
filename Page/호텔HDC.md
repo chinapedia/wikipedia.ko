@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [HDC](https://ko.wikipedia.org/wiki/HDC).
+> This article is converted from Wikipedia: [호텔HDC](https://ko.wikipedia.org/wiki/호텔HDC).
 
 
 **호텔HDC**()은 [호텔](https://ko.wikipedia.org/wiki/호텔 "wikilink")을 운영 및 개발하는 [HDC그룹](../Page/HDC그룹.md "wikilink")의 계열사로 대표이사는 김대중이다. [2005년](../Page/2005년.md "wikilink") [2월](../Page/2월.md "wikilink") 호텔아이파크주식회사를 창립하여 하얏트 체인인 [파크 하얏트 서울과](https://ko.wikipedia.org/wiki/파크_하얏트_서울 "wikilink") [파크 하얏트 부산의](../Page/파크_하얏트_부산.md "wikilink") 특1급 호텔과 안다즈 서울 강남, 정선 파크로쉬 리조트, 속초 아이파크콘도를 운영하고 있다.

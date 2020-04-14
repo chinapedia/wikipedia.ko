@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [CS  ](https://ko.wikipedia.org/wiki/CS__).
+> This article is converted from Wikipedia: [CS 판두리 트르구지우](https://ko.wikipedia.org/wiki/CS_판두리_트르구지우).
 
 
 **CS 판두리 트르구지우**()는 [트르구지우](https://ko.wikipedia.org/wiki/트르구지우 "wikilink")를 연고로 하는 [루마니아](../Page/루마니아.md "wikilink")의 축구 클럽이다. 현재는 [리가 I에](../Page/리가_I.md "wikilink") 참가하고 있다.

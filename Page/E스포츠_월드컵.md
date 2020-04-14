@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [E ](https://ko.wikipedia.org/wiki/E_).
+> This article is converted from Wikipedia: [E스포츠 월드컵](https://ko.wikipedia.org/wiki/E스포츠_월드컵).
 
 
 **E스포츠 월드컵** (Electronic Sports World Cup) 은 국제적인 프로 게임 대회이다. 매년 각 국가에서 예선을 거쳐 통과된 선수들은 해당 국가를 대표해 ESWC 최종 결승전에 진출에 경쟁을 치루게 된다.

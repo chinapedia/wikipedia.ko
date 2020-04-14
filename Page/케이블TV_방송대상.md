@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TV ](https://ko.wikipedia.org/wiki/TV_).
+> This article is converted from Wikipedia: [케이블TV 방송대상](https://ko.wikipedia.org/wiki/케이블TV_방송대상).
 
 
 《**케이블TV 방송대상**》은 [한국케이블TV방송협회가](../Page/대한민국의_케이블TV_방송.md "wikilink") 주최하는 시상식이다. 케이블TV 프로그램을 대상으로 하며 [2007년](../Page/2007년.md "wikilink")부터 시작되었다.
@@ -32,7 +32,7 @@
 <tbody>
 <tr class="odd">
 <td><p>대상</p></td>
-<td><p>에일리언 샘 (온미디어(현 <a href="https://ko.wikipedia.org/wiki/CJ_ENM" title="wikilink">CJ ENM</a>) / 드라마)</p></td>
+<td><p>에일리언 샘 (온미디어(현 <a href="../Page/CJ_ENM.md" title="wikilink">CJ ENM</a>) / 드라마)</p></td>
 </tr>
 <tr class="even">
 <td><p>금상</p></td>
@@ -48,7 +48,7 @@
 <tr class="even">
 <td><p>동상</p></td>
 <td><p>김훈의 로드다큐 '선조의 땅, 이순신의 바다' (중앙방송주식회사 / 다큐멘터리)<br />
-GO! 슈퍼코리안2 (CJ미디어(현 <a href="https://ko.wikipedia.org/wiki/CJ_ENM" title="wikilink">CJ ENM</a>) / 오락)<br />
+GO! 슈퍼코리안2 (CJ미디어(현 <a href="../Page/CJ_ENM.md" title="wikilink">CJ ENM</a>) / 오락)<br />
 2006 서울리그 사회인야구대회 (씨앤앰커뮤니케이션(주) / 교양)<br />
 다시보는 의성 허준 ((주)티브로드 강서방송 / 다큐멘터리)<br />
 타향에 뜬 별 그 오해와 편견을 넘어(2부작) ((주)이텐티브이 / 다큐멘터리)</p></td>
@@ -129,7 +129,7 @@ GO! 슈퍼코리안2 (CJ미디어(현 <a href="https://ko.wikipedia.org/wiki/CJ_
 </tr>
 <tr class="even">
 <td><p>드라마부문</p></td>
-<td><p>KSPI 시즌 2 (온미디어(현 <a href="https://ko.wikipedia.org/wiki/CJ_ENM" title="wikilink">CJ ENM</a>) <a href="https://ko.wikipedia.org/wiki/수퍼_액션" title="wikilink">수퍼 액션</a>)</p></td>
+<td><p>KSPI 시즌 2 (온미디어(현 <a href="../Page/CJ_ENM.md" title="wikilink">CJ ENM</a>) <a href="https://ko.wikipedia.org/wiki/수퍼_액션" title="wikilink">수퍼 액션</a>)</p></td>
 </tr>
 <tr class="odd">
 <td><p>어린이부문</p></td>

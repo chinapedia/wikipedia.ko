@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Show](https://ko.wikipedia.org/wiki/Show).
+> This article is converted from Wikipedia: [최면Show](https://ko.wikipedia.org/wiki/최면Show).
 
 
 《**최면Show**》는 [중화민국](../Page/중화민국.md "wikilink")의 가수 [뤄즈샹](../Page/뤄즈샹.md "wikilink")의 세 번째 정규 앨범이다.

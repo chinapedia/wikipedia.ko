@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:S-reg](https://ko.wikipedia.org/wiki/:S-reg).
+> This article is converted from Wikipedia: [틀:S-reg](https://ko.wikipedia.org/wiki/틀:S-reg).
 
 
 |- \! colspan="3" style="border-top: 5px solid \#ACE777;" | {{\#switch:

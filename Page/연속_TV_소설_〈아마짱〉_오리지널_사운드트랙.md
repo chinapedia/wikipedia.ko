@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ TV    ](https://ko.wikipedia.org/wiki/_TV____).
+> This article is converted from Wikipedia: [연속 TV 소설 〈아마짱〉 오리지널 사운드트랙](https://ko.wikipedia.org/wiki/연속_TV_소설_〈아마짱〉_오리지널_사운드트랙).
 
 
 〈**연속 TV 소설 〈아마짱〉 오리지널 사운드트랙**〉()은, [일본](../Page/일본.md "wikilink")에서 [2013년](../Page/2013년.md "wikilink") [6월 19일에](../Page/6월_19일.md "wikilink") 발매된, 오오토모 요시히데에 의한 [텔레비전 드라마](https://ko.wikipedia.org/wiki/일본_드라마 "wikilink") 《[아마짱](../Page/아마짱.md "wikilink")》([NHK](../Page/일본방송협회.md "wikilink") 제작·[연속 TV 소설](../Page/연속_TV_소설.md "wikilink"))의 [사운드트랙](https://ko.wikipedia.org/wiki/사운드트랙 "wikilink") [음반](../Page/음반.md "wikilink")이다.

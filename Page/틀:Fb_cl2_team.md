@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Fb cl2 team](https://ko.wikipedia.org/wiki/:Fb_cl2_team).
+> This article is converted from Wikipedia: [틀:Fb cl2 team](https://ko.wikipedia.org/wiki/틀:Fb_cl2_team).
 
 
 |- style="{{\#if:|background-color:;}} {{\#if:|border-bottom:3px solid ;}}" {{\#if:|{{\!}}{{\#if:|rowspan=}}{{\!}}}} {{\#if:|\!|{{\#if:|\![](https://ko.wikipedia.org/wiki/#Group_{{{group}}} "wikilink")}}}} | style="text-align: left" | {{\#if:|}} {{\#if:|}}{{\#if:| **(R)**}}{{\#if:| **(C)**}}{{\#if:| **(O)**}}{{\#if:| **(P)**}}{{\#if:| **(Q)**}}{{\#if:| **(TQ)**}}{{\#if:| **(A)**}}{{\#if:| **(DQ)**}}{{\#if:| **(E)**}} | {{\#if:|{{\#expr:++}}}} |  |  |  |  |  | {{\#if:|{{\#ifexpr:\>|+{{\#expr:-}}|{{\#ifexpr:=|0|−{{\#expr:-}} }} }} }} {{\#if:|{{\!}}}} | {{\#if:|<span style="visibility:hidden;color:transparent">0</span>}}{{\#if:|**{{\#expr:{{\#if:||3}}\*+{{\#if:|−}}{{\#if:|+}}}}**}}{{\#if:|<sup>****</sup> }}<noinclude> [분류:Fb templates](https://ko.wikipedia.org/wiki/분류:Fb_templates "wikilink") </noinclude>

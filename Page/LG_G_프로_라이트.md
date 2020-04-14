@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [LG G  ](https://ko.wikipedia.org/wiki/LG_G__).
+> This article is converted from Wikipedia: [LG G 프로 라이트](https://ko.wikipedia.org/wiki/LG_G_프로_라이트).
 
 
 **LG G 프로 라이트**는 [LG전자](../Page/LG전자.md "wikilink")가 [2013년](../Page/2013년.md "wikilink") [10월 10일에](../Page/10월_10일.md "wikilink") 출시한 보급형 [안드로이드](../Page/안드로이드_\(운영_체제\).md "wikilink") [패블릿](../Page/패블릿.md "wikilink") [스마트폰](../Page/스마트폰.md "wikilink")이다. 뷰 시리즈처럼 스타일러스 펜이 적용되었다.

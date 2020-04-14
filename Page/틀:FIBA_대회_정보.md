@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:FIBA  ](https://ko.wikipedia.org/wiki/:FIBA__).
+> This article is converted from Wikipedia: [틀:FIBA 대회 정보](https://ko.wikipedia.org/wiki/틀:FIBA_대회_정보).
 
 
 }

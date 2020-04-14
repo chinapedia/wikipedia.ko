@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [A. J. ](https://ko.wikipedia.org/wiki/A._J._).
+> This article is converted from Wikipedia: [A. J. 엘리스](https://ko.wikipedia.org/wiki/A._J._엘리스).
 
 
 **앤드루 제임스 엘리스**(, [1981년](../Page/1981년.md "wikilink") [4월 9일](../Page/4월_9일.md "wikilink") \~ )는 [미국](../Page/미국.md "wikilink")출신의 전 [내셔널 리그](../Page/내셔널_리그_\(야구\).md "wikilink") [샌디에이고 파드리스의](../Page/샌디에이고_파드리스.md "wikilink") 선수이자, 현재 [내셔널 리그](../Page/내셔널_리그_\(야구\).md "wikilink") [샌디에이고 파드리스의](../Page/샌디에이고_파드리스.md "wikilink") 특별 고문이다.

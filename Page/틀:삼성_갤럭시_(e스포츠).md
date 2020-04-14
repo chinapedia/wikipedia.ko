@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:  \(e\)](https://ko.wikipedia.org/wiki/:__\(e\)).
+> This article is converted from Wikipedia: [틀:삼성 갤럭시 \(e스포츠\)](https://ko.wikipedia.org/wiki/틀:삼성_갤럭시_\(e스포츠\)).
 
 
 <onlyinclude></onlyinclude>

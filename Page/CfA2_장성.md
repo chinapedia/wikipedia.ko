@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [CfA2 ](https://ko.wikipedia.org/wiki/CfA2_).
+> This article is converted from Wikipedia: [CfA2 장성](https://ko.wikipedia.org/wiki/CfA2_장성).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Nearsc.gif "wikilink")

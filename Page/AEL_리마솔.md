@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [AEL ](https://ko.wikipedia.org/wiki/AEL_).
+> This article is converted from Wikipedia: [AEL 리마솔](https://ko.wikipedia.org/wiki/AEL_리마솔).
 
 
 **AEL 리마솔**()은 [리마솔](../Page/리마솔.md "wikilink")을 연고로 하는 [키프로스](../Page/키프로스.md "wikilink")의 축구 클럽이다. 현재는 [키프로스 1부 리그에](../Page/키프로스_1부_리그.md "wikilink") 참가하고 있다. [축구](../Page/축구.md "wikilink") 외에 [농구](../Page/농구.md "wikilink")(남자 농구, 여자 농구), [볼링](../Page/볼링.md "wikilink"), [사이클](https://ko.wikipedia.org/wiki/사이클 "wikilink"), [배구](../Page/배구.md "wikilink")(여자 배구) 클럽도 운영한다.

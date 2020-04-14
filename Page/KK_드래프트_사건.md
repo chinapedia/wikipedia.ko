@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KK  ](https://ko.wikipedia.org/wiki/KK__).
+> This article is converted from Wikipedia: [KK 드래프트 사건](https://ko.wikipedia.org/wiki/KK_드래프트_사건).
 
 
 **KK 드래프트 사건**()은 [1985년](../Page/1985년.md "wikilink")의 프로 야구 드래프트 회의에서 발생한 일본 프로 야구의 사건이다.

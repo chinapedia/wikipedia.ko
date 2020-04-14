@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Popcorn \(\)](https://ko.wikipedia.org/wiki/Popcorn_\(\)).
+> This article is converted from Wikipedia: [Popcorn \(음반\)](https://ko.wikipedia.org/wiki/Popcorn_\(음반\)).
 
 
 《**Popcorn**》(팝콘)은, [아라시](../Page/아라시.md "wikilink")의 11번째 정규 음반이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [6 KBO  ](https://ko.wikipedia.org/wiki/6_KBO__).
+> This article is converted from Wikipedia: [제6회 KBO 총재기 전국대학야구대회](https://ko.wikipedia.org/wiki/제6회_KBO_총재기_전국대학야구대회).
 
 
 **제6회 KBO 총재기 전국대학야구대회**(第6回 KBO 總裁旗 全國大學野球大會)는 대한야구협회에서 주최하는 전국 규모의 대학야구대회이다. [2013년](../Page/2013년.md "wikilink") [8월 28일부터](../Page/8월_28일.md "wikilink") [9월 9일까지](../Page/9월_9일.md "wikilink")[서울특별시](../Page/서울특별시.md "wikilink") [목동야구장](../Page/목동야구장.md "wikilink")과 [신월야구장](https://ko.wikipedia.org/wiki/신월야구장 "wikilink")에서 개최되었다. [인하대학교](../Page/인하대학교.md "wikilink")가 우승하였으며 [인하대학교](../Page/인하대학교.md "wikilink") 좌완 투수 [정정환](https://ko.wikipedia.org/wiki/정정환 "wikilink")이 최우수선수에 선정되었다.\[1\]

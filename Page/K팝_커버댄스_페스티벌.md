@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [K  ](https://ko.wikipedia.org/wiki/K__).
+> This article is converted from Wikipedia: [K팝 커버댄스 페스티벌](https://ko.wikipedia.org/wiki/K팝_커버댄스_페스티벌).
 
 
 **K팝 커버댄스 페스티벌**은 2011년도부터 세계 최초이자 최대 규모로 시작된 국제 K-POP 댄스 페스티벌이다. K-POP 아이돌 가수들의 춤, 표정, 의상 등을 따라 표현하는 축제다.\[1\]\[2\]\[3\]\[4\]\[5\]

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [USS ](https://ko.wikipedia.org/wiki/USS_).
+> This article is converted from Wikipedia: [USS 컨스티튜션](https://ko.wikipedia.org/wiki/USS_컨스티튜션).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:USS_Constitution_underway,_August_19,_2012_by_Castle_Island_cropped.jpg "wikilink") **미 해군 군함 컨스티튜션**(*USS Constitution*)은 3개의 돛을 단 목조 선체의 배로 [미국 해군의](../Page/미국_해군.md "wikilink") 중무장 [프리깃](../Page/프리깃.md "wikilink")이다. "[헌법](../Page/헌법.md "wikilink")"을 의미하는 배의 이름은 [조지 워싱턴](../Page/조지_워싱턴.md "wikilink") 대통령이 [미국의 헌법](../Page/미국의_헌법.md "wikilink") 제정 이후에 지었다. 이 배는 세계에 남아있는 해군함들 중 취역한 지 가장 오래된 배이다. 컨스티튜션은 1794년 해군법에 의해 건조 승인을 받아 건조된 6개의 프리깃 중의 하나였으며, 그 중 세 번째로 건조되어 1797년에 취항하였다. [조슈아 험프리는](https://ko.wikipedia.org/wiki/조슈아_험프리 "wikilink") 그 프리깃들을 새로운 해군의 [주력함](https://ko.wikipedia.org/wiki/주력함 "wikilink")으로서 설계했으며, 그런고로 컨스티튜션과 그 자매함들은 동시대의 다른 프리깃들보다 더 컸으며 무장도 강화하였다. 매사추세츠 주 보스턴의 어드먼드 하츠 건조장에서 건조되었으며, 새로이 창설된 미국 해군에 배속된 컨스티튜션의 최초의 임무는 프랑스와의 [유사전쟁](../Page/유사전쟁.md "wikilink") 동안 미국 선적의 상선을 보호하는 것이었다. 또한 [제1차 바르바리 전쟁에서](../Page/제1차_바르바리_전쟁.md "wikilink") [바르바리 해적들을](../Page/바르바리_해적.md "wikilink") 상대하였다.

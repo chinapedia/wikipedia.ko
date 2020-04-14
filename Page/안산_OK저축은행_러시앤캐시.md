@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ OK ](https://ko.wikipedia.org/wiki/_OK_).
+> This article is converted from Wikipedia: [안산 OK저축은행 러시앤캐시](https://ko.wikipedia.org/wiki/안산_OK저축은행_러시앤캐시).
 
 
 **안산 OK저축은행 러시앤캐시 프로배구단**(Ansan OK Savings Bank Rush & Cash)는 [한국배구연맹](../Page/한국배구연맹.md "wikilink")에 속한 [대한민국](../Page/대한민국.md "wikilink")의 프로 배구단이다. 연고지는 [경기도](https://ko.wikipedia.org/wiki/경기도 "wikilink") [안산시](https://ko.wikipedia.org/wiki/안산시 "wikilink")이고 [상록수체육관](../Page/상록수체육관.md "wikilink")을 홈 구장으로 쓰고 있다.

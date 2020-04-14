@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [APEC](https://ko.wikipedia.org/wiki/APEC).
+> This article is converted from Wikipedia: [APEC기후센터](https://ko.wikipedia.org/wiki/APEC기후센터).
 
 
 **APEC기후센터**(APEC氣候센터, )는 아시아 · 태평양 지역의 이상기후 감시 및 예측의 중추적 역할을 수행하기 위해 설립된 기관이다. [2005년](../Page/2005년.md "wikilink") [APEC](../Page/아시아_태평양_경제협력체.md "wikilink") 회원국의 합의에 의해 설립되었다.\[1\]\[2\]\[3\] [부산광역시](https://ko.wikipedia.org/wiki/부산광역시 "wikilink") [해운대구](../Page/해운대구.md "wikilink") 센텀7로 12에 위치하고 있다.

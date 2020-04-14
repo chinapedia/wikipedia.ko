@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ J. ](https://ko.wikipedia.org/wiki/_J._).
+> This article is converted from Wikipedia: [로버트 J. 실러](https://ko.wikipedia.org/wiki/로버트_J._실러).
 
 
 **로버트 제임스 실러**(, 1946년 3월 29일 \~ )는 [미국](../Page/미국.md "wikilink")의 [경제학자](https://ko.wikipedia.org/wiki/경제학자 "wikilink")로, [예일 대학교의](../Page/예일_대학교.md "wikilink") 교수이다. 2013년 [노벨 경제학상을](../Page/노벨_경제학상.md "wikilink") 수상했다.

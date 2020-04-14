@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  \(WNBA\)](https://ko.wikipedia.org/wiki/__\(WNBA\)).
+> This article is converted from Wikipedia: [동부 콘퍼런스 \(WNBA\)](https://ko.wikipedia.org/wiki/동부_콘퍼런스_\(WNBA\)).
 
 
 **동부 콘퍼런스**(Eastern Conference)는 [애틀랜타 드림](../Page/애틀랜타_드림.md "wikilink"), [시카고 스카이](../Page/시카고_스카이.md "wikilink"), [코네티컷 선](../Page/코네티컷_선.md "wikilink"), [인디애나 피버](../Page/인디애나_피버.md "wikilink"), [뉴욕 리버티](../Page/뉴욕_리버티.md "wikilink"),[워싱턴 미스틱스로](../Page/워싱턴_미스틱스.md "wikilink") 구성되어 있다.

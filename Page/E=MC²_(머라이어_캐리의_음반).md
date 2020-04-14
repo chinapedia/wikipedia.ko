@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [E=MC \(  \)](https://ko.wikipedia.org/wiki/E=MC_\(__\)).
+> This article is converted from Wikipedia: [E=MC² \(머라이어 캐리의 음반\)](https://ko.wikipedia.org/wiki/E=MC²_\(머라이어_캐리의_음반\)).
 
 
 《**E=MC²**》는 2008년 4월 15일에 발매한 [머라이어 캐리의](../Page/머라이어_캐리.md "wikilink") 아홉 번째 정규 음반이다.

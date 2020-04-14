@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [The Best! \~Updated \~](https://ko.wikipedia.org/wiki/The_Best!_\~Updated_\~).
+> This article is converted from Wikipedia: [The Best! \~Updated 모닝구무스메\~](https://ko.wikipedia.org/wiki/The_Best!_\~Updated_모닝구무스메\~).
 
 
 **The Best\! \~Updated [모닝구무스메](../Page/모닝구무스메.md "wikilink")\~**()는 [2013년](../Page/2013년.md "wikilink") [9월 25일에](../Page/9월_25일.md "wikilink") 발매되는 [모닝구무스메](../Page/모닝구무스메.md "wikilink")의 다섯 번째 베스트 앨범이다.

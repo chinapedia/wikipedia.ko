@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Fb cl2 header navbar](https://ko.wikipedia.org/wiki/:Fb_cl2_header_navbar).
+> This article is converted from Wikipedia: [틀:Fb cl2 header navbar](https://ko.wikipedia.org/wiki/틀:Fb_cl2_header_navbar).
 
 
 %" {{\!}}+{{\#if:|}} {{\#if:|\!

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:NeoBar](https://ko.wikipedia.org/wiki/:NeoBar).
+> This article is converted from Wikipedia: [모듈:NeoBar](https://ko.wikipedia.org/wiki/모듈:NeoBar).
 
 
 \-- 틀을 개선하는  틀을 만들기 위한 모듈입니다 --사용가능한 함수는 bar입니다. local function drawBar (color, length, round) --막대를 그리는 함수 (막대의 색, 길이, 올림/내림/반올림)

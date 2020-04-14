@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [   All Star Battle](https://ko.wikipedia.org/wiki/___All_Star_Battle).
+> This article is converted from Wikipedia: [죠죠의 기묘한 모험 All Star Battle](https://ko.wikipedia.org/wiki/죠죠의_기묘한_모험_All_Star_Battle).
 
 
 **죠죠의 기묘한 모험 All Star Battle**(ジョジョの奇妙な冒険 オールスターバトル)은 [2013년](../Page/2013년.md "wikilink") [8월 29일에](../Page/8월_29일.md "wikilink") [반다이 남코 게임스에서](https://ko.wikipedia.org/wiki/반다이_남코_게임스 "wikilink") 발매한 게임으로 만화 '[죠죠의 기묘한 모험](../Page/죠죠의_기묘한_모험.md "wikilink")'을 원작으로 한 [플레이스테이션 3](../Page/플레이스테이션_3.md "wikilink") 용 게임 소프트이다. 약칭은 "**죠죠 ASB**".
@@ -179,7 +179,7 @@
   - 키시베 로한 & 헤븐즈 도어
     성우 - [카미야 히로시](../Page/카미야_히로시.md "wikilink")
     배틀 스타일 - 스탠드
-  - 카와지리 코우사쿠 & 킬러 퀸 & 바이쳐 더스트 + 고양이풀 & 스트레이 캣
+  - 카와지리 코우사쿠 & 킬러 퀸 & 바이트 더 더스트 + 고양이풀 & 스트레이 캣
     성우 - [코야마 리키야](../Page/코야마_리키야.md "wikilink")
     배틀 스타일 - 스탠드
   - 키라 요시카게 & 킬러 퀸 & 시어 하트 어택(성우 - [카시와쿠라 츠토무](https://ko.wikipedia.org/wiki/카시와쿠라_츠토무 "wikilink"))(DLC)
@@ -293,7 +293,7 @@
 
 #### 참전 캐릭터
 
-  - [히가시카타 죠스케](../Page/히가시카타_죠스케.md "wikilink") & 소프트&웨트
+  - 히가시카타 죠스케 & 소프트&웨트
     성우 - [마도노 미츠아키](../Page/마도노_미츠아키.md "wikilink")
     배틀 스타일 - 스탠드
 

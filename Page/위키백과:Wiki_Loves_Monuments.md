@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Wiki Loves Monuments](https://ko.wikipedia.org/wiki/:Wiki_Loves_Monuments).
+> This article is converted from Wikipedia: [위키백과:Wiki Loves Monuments](https://ko.wikipedia.org/wiki/위키백과:Wiki_Loves_Monuments).
 
 
 [LUSITANA_WLM_2011_d.svg](https://ko.wikipedia.org/wiki/File:LUSITANA_WLM_2011_d.svg "fig:LUSITANA_WLM_2011_d.svg")  **위키는 문화유산을 사랑합니다**(**[Wiki Loves Monuments](../Page/Wiki_Loves_Monuments.md "wikilink")**) 행사는 위키백과 공용에 인류의 문화유산에 대한 저작물을 풍성하게 할 목적으로 위키미디어 재단과 지역 협회에서 주관하는 국제 사진전으로 2013년에는 50개 이상의 나라에서 동시에 개최되는 세계 최대의 사진 경연 대회입니다.

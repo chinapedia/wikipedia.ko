@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [2008 Mnet KM  ](https://ko.wikipedia.org/wiki/2008_Mnet_KM__).
+> This article is converted from Wikipedia: [2008 Mnet KM 뮤직 페스티벌](https://ko.wikipedia.org/wiki/2008_Mnet_KM_뮤직_페스티벌).
 
 
 **2008 Mnet KM 뮤직 페스티벌**은 2008년 한 해 동안 최고의 가수, 노래, 앨범에 상을 수여하는 시상식으로, 2008년 11월 15일 [서울](https://ko.wikipedia.org/wiki/서울 "wikilink") [잠실 실내 체육관에서](https://ko.wikipedia.org/wiki/잠실_종합_운동장 "wikilink") 열렸다. 시상식 진행은 가수 [비가](../Page/비_\(가수\).md "wikilink") 맡았다.
@@ -199,7 +199,7 @@
 
   - [동방신기](../Page/동방신기.md "wikilink") – 〈주문 (MIROTIC)〉
   - [빅뱅](../Page/빅뱅_\(음악_그룹\).md "wikilink") – 〈하루하루〉
-  - [서태지](../Page/서태지.md "wikilink") – 〈Moai〉
+  - [에픽하이](https://ko.wikipedia.org/wiki/에픽하이 "wikilink") – 〈One〉
   - [이효리](../Page/이효리.md "wikilink") – 〈U-Go-Girl (With. [낯선](../Page/낯선.md "wikilink"))〉
 
 ### 올해의 가수

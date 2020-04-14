@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  DSLR       ](https://ko.wikipedia.org/wiki/__DSLR_______).
+> This article is converted from Wikipedia: [니콘 보급형 DSLR 셔터막 손상 및 먼지 축적 현상 논란](https://ko.wikipedia.org/wiki/니콘_보급형_DSLR_셔터막_손상_및_먼지_축적_현상_논란).
 
 
 **니콘 보급형 DSLR 셔터막 손상 및 먼지 축적 현상 논란**은 니콘의 일부 보급형 DSLR에서 촬영 중 셔터 구동부(기어) 간의 마찰로 인해 긁힘이 발생하며, 여기서 나온 가루가 센서에 흡착되는 현상이다.\[1\]\[2\]

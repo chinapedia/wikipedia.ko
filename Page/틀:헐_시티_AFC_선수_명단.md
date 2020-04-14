@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:  AFC  ](https://ko.wikipedia.org/wiki/:__AFC__).
+> This article is converted from Wikipedia: [틀:헐 시티 AFC 선수 명단](https://ko.wikipedia.org/wiki/틀:헐_시티_AFC_선수_명단).
 
 
 <onlyinclude></onlyinclude>

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [HDCEP](https://ko.wikipedia.org/wiki/HDCEP).
+> This article is converted from Wikipedia: [HDC현대EP](https://ko.wikipedia.org/wiki/HDC현대EP).
 
 
 **HDC현대EP**(주)는 첨단 엔지니어링 플라스틱 재료를 제조하는 [HDC그룹](../Page/HDC그룹.md "wikilink")의 계열사로, 대표이사는 강창균이다. 1988년 [현대산업개발](https://ko.wikipedia.org/wiki/현대산업개발 "wikilink")의 유화사업부로 시작한 현대EP는 2000년 ‘현대엔지니어링 플라스틱㈜’로 분사했으며, 2006년 코스피에 상장하며 지금의 사명인 현대EP(주)로 사명을 변경했다. 2000년 분사 당시 386억이었던 매출은 지난 10여 년간 20배가 넘게 성장해 2013년에는 7,933억을 기록했다.
@@ -30,6 +30,14 @@ HDC현대EP의 주요사업은 원유를 정제한 [나프타](../Page/나프타
   - [2016년 9월](https://ko.wikipedia.org/wiki/2016년_9월 "wikilink") 현대(충칭)공정소료유한공사 설립
   - [2018년 2월](https://ko.wikipedia.org/wiki/2018년_2월 "wikilink") 중앙연구소 설립 (단국대학교)
   - [2018년 3월](https://ko.wikipedia.org/wiki/2018년_3월 "wikilink") 사명 변경 (현대EP→HDC현대EP)
+
+## 본점 및 지점 현황
+
+  - 본점: 충청남도 당진시 석문면 대호만로 1221-32
+  - 진천공장: 충청북도 진천군 광혜원면 광혜원산단길 66
+  - 울산공장: 울산광역시 남구 사평로 108-256 (부곡동)
+  - 세종공장: 세종특별자치시 연기면 공단로 130
+  - 김천지점: 경상북도 김천시 공단로 152-31 (대광동)
 
 ## 외부 링크
 

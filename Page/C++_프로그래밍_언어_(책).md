@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [C++   \(\)](https://ko.wikipedia.org/wiki/C++___\(\)).
+> This article is converted from Wikipedia: [C++ 프로그래밍 언어 \(책\)](https://ko.wikipedia.org/wiki/C++_프로그래밍_언어_\(책\)).
 
 
 《**C++ 프로그래밍 언어**》(*The C++ Programming Language*)는 [C++](https://ko.wikipedia.org/wiki/C++ "wikilink") 프로그래밍 언어를 처음으로 설명한 책으로써, 언어의 창시자인 [비야네 스트롭스트룹이](../Page/비야네_스트롭스트룹.md "wikilink") 저술하였고 1985년 10월에 처음으로 출간되었다. 공식 표준이 없던 시절 이 책은 몇년동안 *사실상의* 표준문서로써 발전하는 C++ 언어를 뒷받침하였다. C++의 공식 표준은 1998년 9월 1일 *ISO/IEC 14882:1998: Programming Language C++*로 발표되었다. 언어와 라이브러리 확장의 표준화와 기술적 오류의 수정 출간과 함께 표준이 더욱 발전함에 따라, 이후의 출간본은 새로운 변경에 대한 업데이트가 이루어졌다.

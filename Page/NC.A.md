@@ -166,7 +166,7 @@
 <tr class="even">
 <td style="text-align: center;"><p><strong>12</strong></p></td>
 <td style="text-align: center;"><p><strong>《읽어주세요》</strong><br />
-<small>(with.<a href="../Page/안성선.md" title="wikilink">슈가볼</a>)</small></p>
+<small>(with.<a href="https://ko.wikipedia.org/wiki/슈가볼" title="wikilink">슈가볼</a>)</small></p>
 <ul>
 <li>발매일: 2017년 6월 30일</li>
 </ul></td>

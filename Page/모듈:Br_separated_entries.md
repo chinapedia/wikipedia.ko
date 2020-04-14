@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Br separated entries](https://ko.wikipedia.org/wiki/:Br_separated_entries).
+> This article is converted from Wikipedia: [모듈:Br separated entries](https://ko.wikipedia.org/wiki/모듈:Br_separated_entries).
 
 
 local p = {}

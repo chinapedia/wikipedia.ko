@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [A Little Bit \(w-inds. \)](https://ko.wikipedia.org/wiki/A_Little_Bit_\(w-inds._\)).
+> This article is converted from Wikipedia: [A Little Bit \(w-inds.의 노래\)](https://ko.wikipedia.org/wiki/A_Little_Bit_\(w-inds.의_노래\)).
 
 
 **A Little Bit**은 2013년 10월 30일에 발매 된 윈즈(w-inds.)의 32번째 싱글이다.
@@ -26,8 +26,14 @@
 3.  A Little Bit (Instrumental)
 4.  We'll Be Alright (Instrumental)
 
+## 차트
+
+  - 오리콘 위클리차트 4위를 기록하였다. (13/11/11)
+  - 뮤직스테이션 CD lank 5위를 기록하였다.
+
 ## 외부 링크
 
   - [w-inds.(윈즈) 싱글 디스코 그라피 A little bit 싱글 발매 (10월30일)](http://www.w-inds.tv/discography/single/)
 
+  -
 [분류:w-inds.의 노래](https://ko.wikipedia.org/wiki/분류:w-inds.의_노래 "wikilink") [분류:2013년 싱글](https://ko.wikipedia.org/wiki/분류:2013년_싱글 "wikilink")

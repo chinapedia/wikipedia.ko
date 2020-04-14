@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ XF](https://ko.wikipedia.org/wiki/_XF).
+> This article is converted from Wikipedia: [재규어 XF](https://ko.wikipedia.org/wiki/재규어_XF).
 
 
 **재규어 XF**(Jaguar XF)는 [재규어의](../Page/재규어_자동차.md "wikilink") 준대형 [세단](https://ko.wikipedia.org/wiki/세단 "wikilink")이다.

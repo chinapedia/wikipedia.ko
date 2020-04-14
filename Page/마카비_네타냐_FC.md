@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  FC](https://ko.wikipedia.org/wiki/__FC).
+> This article is converted from Wikipedia: [마카비 네타냐 FC](https://ko.wikipedia.org/wiki/마카비_네타냐_FC).
 
 
 **마카비 네타냐 FC**()는 [네타냐](https://ko.wikipedia.org/wiki/네타냐 "wikilink")를 연고로 하는 [이스라엘](../Page/이스라엘.md "wikilink")의 축구 클럽이다. 현재는 이스라엘의 2부 축구 리그인 [리가 레우밋에](https://ko.wikipedia.org/wiki/리가_레우밋 "wikilink") 참가하고 있다.

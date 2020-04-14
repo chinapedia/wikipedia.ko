@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [WWE ](https://ko.wikipedia.org/wiki/WWE_).
+> This article is converted from Wikipedia: [WWE 배틀그라운드](https://ko.wikipedia.org/wiki/WWE_배틀그라운드).
 
 
 **WWE 배틀 그라운드**(Battleground)은 [WWE](https://ko.wikipedia.org/wiki/WWE "wikilink")가 주관하는 페이 퍼 뷰이다. 2013년 신설된 페이 퍼 뷰이며, 2014년 부터는 7월로 개최시기를 변경하여 진행한다.

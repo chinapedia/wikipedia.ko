@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ USA 2](https://ko.wikipedia.org/wiki/_USA_2).
+> This article is converted from Wikipedia: [데이토나 USA 2](https://ko.wikipedia.org/wiki/데이토나_USA_2).
 
 
 《**데이토나 USA 2**》(Daytona USA 2)는 [세가](https://ko.wikipedia.org/wiki/세가 "wikilink")의 자회사인 [세가 AM2가](https://ko.wikipedia.org/wiki/세가_AM2 "wikilink") 개발한 [데이토나 USA의](../Page/데이토나_USA.md "wikilink") 후속작이며, [1998년](../Page/1998년.md "wikilink")에 출시된 [오락실](../Page/아케이드_게임.md "wikilink") 전용 [레이싱 게임이다](https://ko.wikipedia.org/wiki/경주_게임 "wikilink"). 전작과 달리, MODEL3 기판을 사용하여 그래픽이 더욱 강화되었다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  TEN](https://ko.wikipedia.org/wiki/__TEN).
+> This article is converted from Wikipedia: [특수사건 전담반 TEN](https://ko.wikipedia.org/wiki/특수사건_전담반_TEN).
 
 
 《**특수사건 전담반 TEN**》은 [OCN에서](https://ko.wikipedia.org/wiki/OCN_\(방송\) "wikilink") [2011년](../Page/2011년.md "wikilink") [11월 18일부터](../Page/11월_18일.md "wikilink") [2012년](../Page/2012년.md "wikilink") [1월 13일까지](../Page/1월_13일.md "wikilink") 방영된 [드라마이다](../Page/텔레비전_드라마.md "wikilink").

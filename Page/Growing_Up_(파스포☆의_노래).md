@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Growing Up \( \)](https://ko.wikipedia.org/wiki/Growing_Up_\(_\)).
+> This article is converted from Wikipedia: [Growing Up \(파스포☆의 노래\)](https://ko.wikipedia.org/wiki/Growing_Up_\(파스포☆의_노래\)).
 
 
 **Growing Up**은 [2013년](../Page/2013년.md "wikilink") [10월 16일에](../Page/10월_16일.md "wikilink") 발매된 파스포☆(Passpo☆)의 11번째 싱글이다.

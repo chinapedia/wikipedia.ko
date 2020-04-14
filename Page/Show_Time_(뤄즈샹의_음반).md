@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Show Time \( \)](https://ko.wikipedia.org/wiki/Show_Time_\(_\)).
+> This article is converted from Wikipedia: [Show Time \(뤄즈샹의 음반\)](https://ko.wikipedia.org/wiki/Show_Time_\(뤄즈샹의_음반\)).
 
 
 《**Show Time**》은 [중화민국](../Page/중화민국.md "wikilink")의 가수 [뤄즈샹](../Page/뤄즈샹.md "wikilink")의 첫 번째 정규 앨범이다.

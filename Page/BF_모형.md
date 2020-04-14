@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [BF ](https://ko.wikipedia.org/wiki/BF_).
+> This article is converted from Wikipedia: [BF 모형](https://ko.wikipedia.org/wiki/BF_모형).
 
 
 [이론물리학](https://ko.wikipedia.org/wiki/이론물리학 "wikilink")에서, **BF 모형**(BF模型, )은 [시바르츠형 위상 양자장론의](https://ko.wikipedia.org/wiki/시바르츠형_위상_양자장론 "wikilink") 간단한 예이다.\[1\]\[2\] [게이지 이론의](../Page/게이지_이론.md "wikilink") 매우 간단한 형태이다.

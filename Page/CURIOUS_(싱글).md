@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [CURIOUS \(\)](https://ko.wikipedia.org/wiki/CURIOUS_\(\)).
+> This article is converted from Wikipedia: [CURIOUS \(싱글\)](https://ko.wikipedia.org/wiki/CURIOUS_\(싱글\)).
 
 
 《**CURIOUS**》는 [대한민국](../Page/대한민국.md "wikilink")의 [걸 그룹](../Page/걸_그룹.md "wikilink") [피에스타의](../Page/피에스타_\(음악_그룹\).md "wikilink") 네 번째 싱글 앨범이다. 타이틀 곡은 〈**아무것도 몰라요**〉이며, [2013년](../Page/2013년.md "wikilink") [11월 1일](../Page/11월_1일.md "wikilink") [로엔 엔터테인먼트와](../Page/카카오엠.md "wikilink") 콜라보따리에 의해 발매되었다.

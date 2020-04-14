@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [D](https://ko.wikipedia.org/wiki/D).
+> This article is converted from Wikipedia: [D가군](https://ko.wikipedia.org/wiki/D가군).
 
 
 [수학](../Page/수학.md "wikilink")에서, **D가군**()은 [미분 연산자들의](../Page/미분_연산자.md "wikilink") 환에 대한 [가군층](../Page/가군층.md "wikilink")이다. 선형 [편미분 방정식의](https://ko.wikipedia.org/wiki/편미분_방정식 "wikilink") 추상화이며, 또한 평탄한 [코쥘 접속을](../Page/코쥘_접속.md "wikilink") 갖춘 [벡터 다발의](../Page/벡터_다발.md "wikilink") 일반화이다.

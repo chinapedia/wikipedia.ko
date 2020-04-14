@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [RTL ](https://ko.wikipedia.org/wiki/RTL_).
+> This article is converted from Wikipedia: [RTL 텔레비전](https://ko.wikipedia.org/wiki/RTL_텔레비전).
 
 
 **RTL 텔레비전**은 [독일](../Page/독일.md "wikilink")의 [민영 방송이자](../Page/민영_방송.md "wikilink") [룩셈부르크](../Page/룩셈부르크.md "wikilink")에 본사를 둔 [RTL 그룹의](../Page/RTL_그룹.md "wikilink") 계열의 독일 미디어 그룹 Mediengruppe RTL Deutschland 산하의 채널이다. [SAT.1](https://ko.wikipedia.org/wiki/SAT.1 "wikilink")와 함께 독일에서 최초로 개국한 민영 방송국이기도 하다.

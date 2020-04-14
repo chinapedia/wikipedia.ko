@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ORF \(\)](https://ko.wikipedia.org/wiki/ORF_\(\)).
+> This article is converted from Wikipedia: [ORF \(방송사\)](https://ko.wikipedia.org/wiki/ORF_\(방송사\)).
 
 
 **ORF**(오스트리아 방송, )는 [오스트리아](../Page/오스트리아.md "wikilink")의 [공영 방송이다](../Page/공영_방송.md "wikilink").

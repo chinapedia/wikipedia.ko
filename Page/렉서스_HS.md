@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ HS](https://ko.wikipedia.org/wiki/_HS).
+> This article is converted from Wikipedia: [렉서스 HS](https://ko.wikipedia.org/wiki/렉서스_HS).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Lexus_HS250h_in_display.jpg "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:Lexus_HS250h_on_display.jpg "wikilink")

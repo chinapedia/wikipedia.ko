@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  FC](https://ko.wikipedia.org/wiki/__FC).
+> This article is converted from Wikipedia: [하포엘 하이파 FC](https://ko.wikipedia.org/wiki/하포엘_하이파_FC).
 
 
 **하포엘 하이파 FC**()는 [하이파](../Page/하이파.md "wikilink")를 연고로 하는 [이스라엘](../Page/이스라엘.md "wikilink")의 축구 클럽이다. 현재는 [리갓 하알에](../Page/리갓_하알.md "wikilink") 참가하고 있다.

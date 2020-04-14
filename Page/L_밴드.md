@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [L ](https://ko.wikipedia.org/wiki/L_).
+> This article is converted from Wikipedia: [L 밴드](https://ko.wikipedia.org/wiki/L_밴드).
 
 
 **L 밴드**는 1-2GHz의 주파수 대역을 말한다.

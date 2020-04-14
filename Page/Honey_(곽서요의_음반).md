@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Honey \( \)](https://ko.wikipedia.org/wiki/Honey_\(_\)).
+> This article is converted from Wikipedia: [Honey \(곽서요의 음반\)](https://ko.wikipedia.org/wiki/Honey_\(곽서요의_음반\)).
 
 
 《**Honey**》는 [중화민국](../Page/중화민국.md "wikilink")의 가수 [곽서요](https://ko.wikipedia.org/wiki/곽서요 "wikilink")의 첫 번째 정규 앨범이다.

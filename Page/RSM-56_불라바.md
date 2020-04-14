@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [RSM-56 ](https://ko.wikipedia.org/wiki/RSM-56_).
+> This article is converted from Wikipedia: [RSM-56 불라바](https://ko.wikipedia.org/wiki/RSM-56_불라바).
 
 
 **RSM-56 불라바**는 2013년 1월 10일 실전배치된 [러시아](../Page/러시아.md "wikilink")의 최신형 [SLBM](https://ko.wikipedia.org/wiki/SLBM "wikilink")이다. 불라바는 [철퇴](https://ko.wikipedia.org/wiki/철퇴 "wikilink")라는 의미이다.

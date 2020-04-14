@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [AKB48 34th    ](https://ko.wikipedia.org/wiki/AKB48_34th____).
+> This article is converted from Wikipedia: [AKB48 34th 싱글 선발 가위바위보 대회](https://ko.wikipedia.org/wiki/AKB48_34th_싱글_선발_가위바위보_대회).
 
 
 **AKB48 34th 싱글 선발 가위바위보 대회**()는 [AKB48](../Page/AKB48.md "wikilink")의 34th 싱글의 선발 멤버를 결정하는 이벤트이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:BananasArgs](https://ko.wikipedia.org/wiki/:BananasArgs).
+> This article is converted from Wikipedia: [모듈:BananasArgs](https://ko.wikipedia.org/wiki/모듈:BananasArgs).
 
 
 \-- 매개변수에 어떻게 접근하는지 보여주는 예제 모듈 -- Frame 객체에 대해 더 자세히 알고 싶으시면, <http://www.mediawiki.org/wiki/Extension:Scribunto/Lua_reference_manual#Frame_object를> 참고하세요. -- 유닛 테스트는 [모듈:BananasArgs/시험장](https://ko.wikipedia.org/wiki/모듈:BananasArgs/시험장 "wikilink")에 있습니다.

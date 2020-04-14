@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [2002 FIFA  H](https://ko.wikipedia.org/wiki/2002_FIFA__H).
+> This article is converted from Wikipedia: [2002년 FIFA 월드컵 H조](https://ko.wikipedia.org/wiki/2002년_FIFA_월드컵_H조).
 
 
 [2002년 FIFA 월드컵은](https://ko.wikipedia.org/wiki/2002년_FIFA_월드컵 "wikilink") 32팀이 본선에 참가하였고 이들은 4팀씩 8개의 조로 나뉘었다. **[2002년 FIFA 월드컵](https://ko.wikipedia.org/wiki/2002년_FIFA_월드컵 "wikilink") H조**에는 [일본](https://ko.wikipedia.org/wiki/일본_축구_국가대표팀 "wikilink"), [벨기에](https://ko.wikipedia.org/wiki/벨기에_축구_국가대표팀 "wikilink"), [러시아](../Page/러시아_축구_국가대표팀.md "wikilink"), 그리고 [튀니지가](../Page/튀니지_축구_국가대표팀.md "wikilink") 편성되었다. H조의 경기는 2002년 6월 4일부터 2002년 6월 14일까지 치러졌다. [일본은](https://ko.wikipedia.org/wiki/일본_축구_국가대표팀 "wikilink") 조 1위를 차지하여 [벨기에와](https://ko.wikipedia.org/wiki/벨기에_축구_국가대표팀 "wikilink") 함께 다음 라운드에 진출하였다. 그러나, [러시아와](../Page/러시아_축구_국가대표팀.md "wikilink") [튀니지는](../Page/튀니지_축구_국가대표팀.md "wikilink") 그리하지 못하였다.

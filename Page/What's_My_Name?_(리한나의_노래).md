@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [What\'s My Name\? \( \)](https://ko.wikipedia.org/wiki/What\'s_My_Name\?_\(_\)).
+> This article is converted from Wikipedia: [What\'s My Name\? \(리한나의 노래\)](https://ko.wikipedia.org/wiki/What\'s_My_Name\?_\(리한나의_노래\)).
 
 
 《**What's My Name?**》은 [바베이도스](../Page/바베이도스.md "wikilink")의 가수 [리한나](../Page/리한나.md "wikilink")의 노래이다. 앨범 [Loud](../Page/Loud.md "wikilink")에 수록되어 있다. 이 노래는 [2010년](../Page/2010년.md "wikilink") [10월 26일에](../Page/10월_26일.md "wikilink") 발매되었으며, [캐나다](../Page/캐나다.md "wikilink")의 래퍼 [드레이크가](https://ko.wikipedia.org/wiki/드레이크_\(가수\) "wikilink") 피처링에 참여했다.

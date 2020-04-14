@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TV 2 \(\)](https://ko.wikipedia.org/wiki/TV_2_\(\)).
+> This article is converted from Wikipedia: [TV 2 \(덴마크\)](https://ko.wikipedia.org/wiki/TV_2_\(덴마크\)).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:TV_2_Kvægtorvet.JPG "wikilink") **TV2**는 [1986년](../Page/1986년.md "wikilink")에 덴마크 정부에 의해 설립된 [덴마크](../Page/덴마크.md "wikilink")의 [공영 방송국이다](../Page/공영_방송.md "wikilink").

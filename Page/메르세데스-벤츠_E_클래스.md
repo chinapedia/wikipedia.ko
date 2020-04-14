@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [- E ](https://ko.wikipedia.org/wiki/-_E_).
+> This article is converted from Wikipedia: [메르세데스-벤츠 E 클래스](https://ko.wikipedia.org/wiki/메르세데스-벤츠_E_클래스).
 
 
 **메르세데스-벤츠 E 클래스**(Mercedes-Benz E-Class)는 [다임러 AG가](../Page/다임러_AG.md "wikilink") 제조하여 독일의 고급 자동차 회사인 [메르세데스-벤츠](../Page/메르세데스-벤츠.md "wikilink") 브랜드로 판매하는 준대형 승용차이다.
@@ -55,7 +55,7 @@
 
 ### 1세대(W124/S124/C124/A124)
 
-[250px](https://ko.wikipedia.org/wiki/파일:Mercedes_W124_front_20080520.jpg "wikilink") [250px](https://ko.wikipedia.org/wiki/파일:Mercedes_W124_rear_20080520.jpg "wikilink")
+[메르세데스-벤츠 W124](https://ko.wikipedia.org/wiki/메르세데스-벤츠_W124 "wikilink") 문서 참고. [250px](https://ko.wikipedia.org/wiki/파일:Mercedes_W124_front_20080520.jpg "wikilink") [250px](https://ko.wikipedia.org/wiki/파일:Mercedes_W124_rear_20080520.jpg "wikilink")
 
 [1984년](../Page/1984년.md "wikilink")에 출시되었다. 리어 서스펜션은 오랫동안 이어진 세미 트레일링 암에서 멀티 링크로 변경되었다. 공기 저항 계수(Cd)는 [메르세데스-벤츠](../Page/메르세데스-벤츠.md "wikilink") 차량 중 최초로 0.29를 기록했다. 8기통 4.2ℓ 가솔린 엔진이 장착된 400E와 8기통 5.0ℓ 가솔린 엔진이 장착된 500E는 역대 E 클래스 중 8기통 엔진이 처음 쓰였다. 그 중 [1991년](../Page/1991년.md "wikilink")부터 [1995년](../Page/1995년.md "wikilink")까지 10,479대가 생산된 500E는 [포르쉐](../Page/포르쉐.md "wikilink")와의 합작품이며, [포르쉐](../Page/포르쉐.md "wikilink")가 만든 [메르세데스-벤츠](../Page/메르세데스-벤츠.md "wikilink")로 불렸다. 500E는 [포르쉐](../Page/포르쉐.md "wikilink") 공장에서 수제작으로 [OEM](https://ko.wikipedia.org/wiki/주문자_상표_부착_생산 "wikilink") 생산되어 [메르세데스-벤츠](../Page/메르세데스-벤츠.md "wikilink")에 납품되었다. [500SL에](https://ko.wikipedia.org/wiki/메르세데스-벤츠_SL_클래스#4세대\(R129\) "wikilink") 달렸던 326마력 V8 5.0ℓ 가솔린 엔진과 4단 [자동변속기](../Page/자동변속기.md "wikilink")가 장착되어 최고 시속 249km/h를 기록했다. 그래서 500E는 양의 탈을 쓴 늑대라는 별명을 얻었다. [1993년](../Page/1993년.md "wikilink")에 페이스 리프트를 거쳐 비로소 E 클래스라는 차명을 갖게 되었고, 트림명도 3자리 수+명칭에서 명칭+3자리 수로 바뀌었다. W124의 [후륜구동](../Page/후륜구동.md "wikilink") 플랫폼은 [쌍용 체어맨(1세대)에](https://ko.wikipedia.org/wiki/쌍용_체어맨#1세대\(W100\) "wikilink") 적용된 플랫폼의 모태로 알려져 있다.
 

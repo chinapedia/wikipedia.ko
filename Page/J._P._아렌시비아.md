@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [J. P. ](https://ko.wikipedia.org/wiki/J._P._).
+> This article is converted from Wikipedia: [J. P. 아렌시비아](https://ko.wikipedia.org/wiki/J._P._아렌시비아).
 
 
 **조너선 폴 "J. P." 아렌시비아**(, [1986년](../Page/1986년.md "wikilink") [1월 5일](../Page/1월_5일.md "wikilink") \~ )는 [미국](../Page/미국.md "wikilink")출신의 [메이저 리그](../Page/메이저_리그_베이스볼.md "wikilink") 전 [탬파베이 레이스의](https://ko.wikipedia.org/wiki/탬파베이_레이스 "wikilink") 선수이자, 포지션은 [포수](../Page/포수.md "wikilink")이다.

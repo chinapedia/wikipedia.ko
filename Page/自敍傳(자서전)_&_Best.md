@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [\(\) \& Best](https://ko.wikipedia.org/wiki/\(\)_\&_Best).
+> This article is converted from Wikipedia: [自敍傳\(자서전\) \& Best](https://ko.wikipedia.org/wiki/自敍傳\(자서전\)_\&_Best).
 
 
 **自敍傳(자서전) & Best**는 김건모 데뷔 20주년 기념앨범이다. 정규 13집과 데뷔 후에 발매했던 노래들을 모아 CD 3장 일반판, 5장으로 나온 한정판이 있다. 1\~12집 사이에 있는 노래들을 베스트앨범에 수록하였으나 11집은 저작권 문제 때문에 베스트앨범에 수록하지 못하였다. 타이틀곡은 *어제보다 슬픈 오늘*,*자서전* 두 곡이다.

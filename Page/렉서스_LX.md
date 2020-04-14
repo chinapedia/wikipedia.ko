@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ LX](https://ko.wikipedia.org/wiki/_LX).
+> This article is converted from Wikipedia: [렉서스 LX](https://ko.wikipedia.org/wiki/렉서스_LX).
 
 
 **렉서스 LX**(Lexus LX)는 [토요타 자동차의](../Page/토요타_자동차.md "wikilink") 고급 브랜드인 [렉서스](../Page/렉서스.md "wikilink")의 대형 [SUV이다](../Page/스포츠_유틸리티_자동차.md "wikilink"). 고급 [SUV](../Page/스포츠_유틸리티_자동차.md "wikilink") 중에서는 얼마 안 되는 고도의 오프 로드 주행 성능을 갖춘 차종으로, 2세대부터는 V형 8기통 가솔린 엔진에 풀 타임 [4륜구동](../Page/4륜구동.md "wikilink")이 장착됐다. [2006년](../Page/2006년.md "wikilink")에 [4세대 LS가](https://ko.wikipedia.org/wiki/렉서스_LS#4세대 "wikilink") 출시되기 전까지 [렉서스](../Page/렉서스.md "wikilink") 전 차종 중에서도 가장 비싼 차종이었다. [토요타 랜드크루저의](../Page/토요타_랜드크루저.md "wikilink") 형제 차량이다.

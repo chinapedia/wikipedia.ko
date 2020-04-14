@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FC  ](https://ko.wikipedia.org/wiki/FC__).
+> This article is converted from Wikipedia: [FC 샤흐툐르 살리호르스크](https://ko.wikipedia.org/wiki/FC_샤흐툐르_살리호르스크).
 
 
 **FC 샤흐툐르 살리호르스크**()는 [살리호르스크](https://ko.wikipedia.org/wiki/살리호르스크 "wikilink")를 연고로 하는 [벨라루스](../Page/벨라루스.md "wikilink")의 축구 클럽이다. 현재는 [벨라루스 프리미어리그에](../Page/벨라루스_프리미어리그.md "wikilink") 참가하고 있다.

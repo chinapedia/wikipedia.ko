@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [2015 CONCACAF ](https://ko.wikipedia.org/wiki/2015_CONCACAF_).
+> This article is converted from Wikipedia: [2015년 CONCACAF 골드컵](https://ko.wikipedia.org/wiki/2015년_CONCACAF_골드컵).
 
 
 **2015년 CONCACAF 골드컵**(2015 CONCACAF Gold Cup)은 [2015년](../Page/2015년.md "wikilink") [7월 7일부터](../Page/7월_7일.md "wikilink") [7월 26일까지](../Page/7월_26일.md "wikilink") [미국](../Page/미국.md "wikilink")과 [캐나다](../Page/캐나다.md "wikilink")에서 개최된 13번째 [CONCACAF 골드컵](../Page/CONCACAF_골드컵.md "wikilink") 대회이다.

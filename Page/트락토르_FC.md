@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
+> This article is converted from Wikipedia: [트락토르 FC](https://ko.wikipedia.org/wiki/트락토르_FC).
 
 
-**트락토르 SC** ()는 [아자르바이잔에샤르키 주](https://ko.wikipedia.org/wiki/아자르바이잔에샤르키_주 "wikilink") [타브리즈](../Page/타브리즈.md "wikilink")를 연고로 하는 [이란](../Page/이란.md "wikilink")의 축구 클럽이다. 이 팀은 [1970년](../Page/1970년.md "wikilink")에 창단되었으며, 현재는 [이란 프로리그에서](https://ko.wikipedia.org/wiki/이란_프로리그 "wikilink") 참가하고 있다.
+**트락토르 SC**()는 [아자르바이잔에샤르키 주](https://ko.wikipedia.org/wiki/아자르바이잔에샤르키_주 "wikilink") [타브리즈](../Page/타브리즈.md "wikilink")를 연고로 하는 [이란](../Page/이란.md "wikilink")의 축구 클럽이다. 이 팀은 [1970년](../Page/1970년.md "wikilink")에 창단되었으며, 현재는 [이란 프로리그에서](https://ko.wikipedia.org/wiki/이란_프로리그 "wikilink") 참가하고 있다.
 
 ## 역사
 

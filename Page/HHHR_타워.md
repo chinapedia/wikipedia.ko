@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [HHHR ](https://ko.wikipedia.org/wiki/HHHR_).
+> This article is converted from Wikipedia: [HHHR 타워](https://ko.wikipedia.org/wiki/HHHR_타워).
 
 
 **HHHR 타워**(HHHR Tower) 또는 **블루 타워**(Blue Tower)는 [아랍에미리트](../Page/아랍에미리트.md "wikilink") [두바이](../Page/두바이.md "wikilink")에 위치한 초고층 주거용 건물이다. 두바이에서 2번째, 세계에서 4번째로 높은 주거용 건물이다.

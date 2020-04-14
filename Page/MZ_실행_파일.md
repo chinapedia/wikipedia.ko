@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [MZ  ](https://ko.wikipedia.org/wiki/MZ__).
+> This article is converted from Wikipedia: [MZ 실행 파일](https://ko.wikipedia.org/wiki/MZ_실행_파일).
 
 
 **MZ 실행 파일** 형식은 [DOS](https://ko.wikipedia.org/wiki/DOS "wikilink")에서 [.EXE](../Page/EXE.md "wikilink") [실행 파일에](../Page/실행_파일.md "wikilink") 사용되는 [파일 형식이다](https://ko.wikipedia.org/wiki/파일_형식 "wikilink").

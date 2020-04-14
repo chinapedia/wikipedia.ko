@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [  A](https://ko.wikipedia.org/wiki/__A).
+> This article is converted from Wikipedia: [로마 지하철 A선](https://ko.wikipedia.org/wiki/로마_지하철_A선).
 
 
-**로마 지하철 A선** ()은 [로마 지하철의](../Page/로마_지하철.md "wikilink") 노선 중 하나이다. [로마](../Page/로마.md "wikilink") 북서부에 있는 종점 [바티스티니 역에서](../Page/바티스티니_역.md "wikilink") 남서부에 있는 종점 [아나니나 역까지](../Page/아나니나_역.md "wikilink") 이어지면서 시내를 가로지른다. 중간에 유일한 환승역인 [테르미니 역에서는](../Page/테르미니_역_\(로마_지하철\).md "wikilink") [B선과](../Page/로마_지하철_B선.md "wikilink") 만난다. 노선 색깔은 <span style="color:{{로마 철도 노선색|A선}};">●</span>[주황](../Page/주황.md "wikilink")색이다.
+**로마 지하철 A선**()은 [로마 지하철의](../Page/로마_지하철.md "wikilink") 노선 중 하나이다. [로마](../Page/로마.md "wikilink") 북서부에 있는 종점 [바티스티니 역에서](../Page/바티스티니_역.md "wikilink") 남서부에 있는 종점 [아나니나 역까지](../Page/아나니나_역.md "wikilink") 이어지면서 시내를 가로지른다. 중간에 유일한 환승역인 [테르미니 역에서는](../Page/테르미니_역_\(로마_지하철\).md "wikilink") [B선과](../Page/로마_지하철_B선.md "wikilink") 만난다. 노선 색깔은 <span style="color:{{로마 철도 노선색|A선}};">●</span>[주황](../Page/주황.md "wikilink")색이다.
 
 A선의 이용 규모는 매우 혼잡할때 보통 하루에 50만명에 달한다.
 

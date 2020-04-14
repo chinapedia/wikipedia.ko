@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [GD  ](https://ko.wikipedia.org/wiki/GD__).
+> This article is converted from Wikipedia: [GD 이스토릴 프라이아](https://ko.wikipedia.org/wiki/GD_이스토릴_프라이아).
 
 
 흔히 **이스토릴**(Estoril)로 알려진 **그루푸 데스포르티부 이스토릴 프라이아** (Grupo Desportivo Estoril Praia)는 [포르투갈](../Page/포르투갈.md "wikilink") [리스보아현](https://ko.wikipedia.org/wiki/리스보아현 "wikilink") [카스카이스](https://ko.wikipedia.org/wiki/카스카이스 "wikilink")의 [이스토릴](https://ko.wikipedia.org/wiki/이스토릴 "wikilink")을 연고로 하는 [스포츠 클럽이다](https://ko.wikipedia.org/wiki/스포츠_클럽 "wikilink"). 클럽은 1939년 5월 17일에 설립되었으며 8,000명을 수용할 수 있는 이스타디우 안토니우 코임브라 다 모타 경기장을 사용하고 있다. 클럽은 [축구](../Page/축구.md "wikilink")와 [풋살](../Page/풋살.md "wikilink"), [농구](../Page/농구.md "wikilink") 부서를 갖고 있다.

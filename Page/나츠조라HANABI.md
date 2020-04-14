@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [HANABI](https://ko.wikipedia.org/wiki/HANABI).
+> This article is converted from Wikipedia: [나츠조라HANABI](https://ko.wikipedia.org/wiki/나츠조라HANABI).
 
 
 〈**나츠조라HANABI**〉(夏空HANABI, 여름 하늘 HANABI)는 2012년 8월 15일에 발매된 [파스포☆](https://ko.wikipedia.org/wiki/파스포☆ "wikilink")의 메이저 데뷔 5번째 싱글이다.

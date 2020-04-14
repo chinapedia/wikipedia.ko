@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Lulu \(   \)](https://ko.wikipedia.org/wiki/Lulu_\(___\)).
+> This article is converted from Wikipedia: [Lulu \(루 리드와 메탈리카의 음반\)](https://ko.wikipedia.org/wiki/Lulu_\(루_리드와_메탈리카의_음반\)).
 
 
 《**Lulu**》는 [싱어송라이터](https://ko.wikipedia.org/wiki/싱어송라이터 "wikilink") [루 리드와](../Page/루_리드.md "wikilink") [헤비메탈](https://ko.wikipedia.org/wiki/헤비메탈 "wikilink") 밴드 [메탈리카](../Page/메탈리카.md "wikilink")의 [콜라보레이션](https://ko.wikipedia.org/wiki/협업 "wikilink") 음반이다. 이 프로젝트의 컨셉은 루 리드와 메탈리카가 2009년 [로큰롤 명예의 전당 25주년 기념](../Page/로큰롤_명예의_전당.md "wikilink") 콘서트에서 같이 연주하게 될 당시에 시작되었다.

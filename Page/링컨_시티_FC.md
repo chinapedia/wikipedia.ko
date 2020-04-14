@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  FC](https://ko.wikipedia.org/wiki/__FC).
+> This article is converted from Wikipedia: [링컨 시티 FC](https://ko.wikipedia.org/wiki/링컨_시티_FC).
 
 
 **링컨 시티 FC**(Lincoln City F.C.)는 [잉글랜드](../Page/잉글랜드.md "wikilink")의 축구 클럽으로, [링컨셔주](../Page/링컨셔주.md "wikilink") [링컨을](https://ko.wikipedia.org/wiki/링컨_\(링컨셔주\) "wikilink") 연고지로 한다.

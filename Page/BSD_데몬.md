@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [BSD ](https://ko.wikipedia.org/wiki/BSD_).
+> This article is converted from Wikipedia: [BSD 데몬](https://ko.wikipedia.org/wiki/BSD_데몬).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:BSD_데몬.jpg "wikilink") **BSD 데몬**(BSD Daemon, 별칭: Beastie)은 [BSD](../Page/BSD.md "wikilink") 운영 체제의 [마스코트](https://ko.wikipedia.org/wiki/마스코트 "wikilink")이다. BSD 데몬은 1976년 만화가 [필 포글리오가](https://ko.wikipedia.org/wiki/필_포글리오 "wikilink") 처음 그렸다. BSD 데몬 그림의 공식 저작권은 [마셜 커크 맥쿠식](https://ko.wikipedia.org/wiki/마셜_커크_맥쿠식 "wikilink")([빌 조이와](../Page/빌_조이.md "wikilink") 함께 일했던 초창기의 BSD 개발자)이 소유하고 있다.

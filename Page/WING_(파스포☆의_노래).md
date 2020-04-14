@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [WING \( \)](https://ko.wikipedia.org/wiki/WING_\(_\)).
+> This article is converted from Wikipedia: [WING \(파스포☆의 노래\)](https://ko.wikipedia.org/wiki/WING_\(파스포☆의_노래\)).
 
 
 **WING**은 2012년 10월 3일에 발매된 [파스포☆](https://ko.wikipedia.org/wiki/파스포☆ "wikilink")의 메이저 데뷔 6번째 싱글이다.

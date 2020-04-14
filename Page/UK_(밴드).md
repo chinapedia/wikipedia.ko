@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [UK \(\)](https://ko.wikipedia.org/wiki/UK_\(\)).
+> This article is converted from Wikipedia: [UK \(밴드\)](https://ko.wikipedia.org/wiki/UK_\(밴드\)).
 
 
 **U.K.**는 영국의 [프로그레시브 록](../Page/프로그레시브_록.md "wikilink") [슈퍼그룹](https://ko.wikipedia.org/wiki/슈퍼그룹 "wikilink")으로 77-80년 사이에 활동했다. [존 웨튼](../Page/존_웨튼.md "wikilink") ([킹 크림슨](../Page/킹_크림슨.md "wikilink"), [록시 뮤직](../Page/록시_뮤직.md "wikilink"), [브라이언 페리](../Page/브라이언_페리.md "wikilink") 밴드 및 [유라이어 힙](../Page/유라이어_힙.md "wikilink")), [에디 잡슨](https://ko.wikipedia.org/wiki/에디_잡슨 "wikilink") (커브드 에어, [록시 뮤직](../Page/록시_뮤직.md "wikilink"), [프랭크 자파](../Page/프랭크_자파.md "wikilink") 밴드), [앨런 홀즈워스](../Page/앨런_홀즈워스.md "wikilink") (템페스트, [소프트 머신](../Page/소프트_머신.md "wikilink"), [공 (밴드)](../Page/공_\(밴드\).md "wikilink")), [빌 브루포드](https://ko.wikipedia.org/wiki/빌_브루포드 "wikilink") ([예스](https://ko.wikipedia.org/wiki/예스_\(밴드\) "wikilink"), [킹 크림슨](../Page/킹_크림슨.md "wikilink"), [제네시스](../Page/제네시스_\(밴드\).md "wikilink"))로 구성되었다.

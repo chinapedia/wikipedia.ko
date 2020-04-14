@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [SCP - Containment Breach](https://ko.wikipedia.org/wiki/SCP_-_Containment_Breach).
 
 
-《**SCP - Containment Breach**》는 핀란드의 [게임 개발자](https://ko.wikipedia.org/wiki/게임_개발자 "wikilink") 요나스 리코넨(Joonas Rikkonen; "Regalis")이 [SCP 재단웹사이트의](../Page/SCP_재단.md "wikilink") 이야기를 기반으로 개발한 [공포](../Page/공포물.md "wikilink") [비디오 게임이다](../Page/비디오_게임.md "wikilink").
+《**SCP - Containment Breach**》는 핀란드의 [게임 개발자](https://ko.wikipedia.org/wiki/게임_개발자 "wikilink") 요나스 리코넨(Joonas Rikkonen; "Regalis")이 [SCP 재단](../Page/SCP_재단.md "wikilink") 위키의 이야기를 기반으로 개발한 [공포](../Page/공포물.md "wikilink") [비디오 게임이다](../Page/비디오_게임.md "wikilink").
 
 ## 게임 플레이
 
@@ -11,7 +11,7 @@
 
 플레이어인 피실험체 D-9341은 재단에 문제가 발생하면서 여러 유클리드 및 케테르급 SCP 들이 탈주하는 상태를 겪는다. 재단 내에 기동특무부대 엡실론-11 구미호 부대가 투입되었으나 사태를 수습하긴 역부족이었고, D-9341은 여러 SCP 들과 마주하고 도망쳐 다니면서 탈출을 시도한다.\[2\]
 
-## 참조
+## 각주
 
 ## 외부 링크
 

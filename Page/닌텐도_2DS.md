@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ 2DS](https://ko.wikipedia.org/wiki/_2DS).
+> This article is converted from Wikipedia: [닌텐도 2DS](https://ko.wikipedia.org/wiki/닌텐도_2DS).
 
 
 **닌텐도 2DS**(Nintendo 2DS)는 [닌텐도](../Page/닌텐도.md "wikilink")가 발매한 [휴대용 게임기이며](../Page/휴대용_게임기.md "wikilink"), [닌텐도 3DS XL의](../Page/닌텐도_3DS_XL.md "wikilink") 하위기종이다. 기존 3DS, 3DS XL의 3D 기능을 뺀 저가형 모델이다.

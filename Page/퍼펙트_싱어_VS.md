@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  VS](https://ko.wikipedia.org/wiki/__VS).
+> This article is converted from Wikipedia: [퍼펙트 싱어 VS](https://ko.wikipedia.org/wiki/퍼펙트_싱어_VS).
 
 
 《**퍼펙트 싱어 VS**》는 tvN에서 방송된 리얼리티 텔레비전 프로그램이다.

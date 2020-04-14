@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ViVi](https://ko.wikipedia.org/wiki/ViVi).
+> This article is converted from Wikipedia: [ViVi나츠](https://ko.wikipedia.org/wiki/ViVi나츠).
 
 
 〈**ViVi夏**〉(비비나츠)은 2011년 8월 24일에 발매된 [파스포☆](https://ko.wikipedia.org/wiki/파스포☆ "wikilink")의 메이저 데뷔 2번째 싱글이다.

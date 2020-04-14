@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [NBA G  ](https://ko.wikipedia.org/wiki/NBA_G__).
+> This article is converted from Wikipedia: [NBA G 리그 쇼케이스](https://ko.wikipedia.org/wiki/NBA_G_리그_쇼케이스).
 
 
 **NBA G 리그 쇼케이스**(NBA G League Showcase)는 2005년부터 현재까지 스카우팅 이벤트로 4일동안 한곳(하루에 2경기씩)에서 모든 경기가 열린다. [NBA](../Page/전미_농구_협회.md "wikilink") 구단 단장과 스카우트들이 G 리그 선수들을 볼 수 있는 기회있다.

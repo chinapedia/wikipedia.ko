@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Modern Times \( \)](https://ko.wikipedia.org/wiki/Modern_Times_\(_\)).
+> This article is converted from Wikipedia: [Modern Times \(아이유의 음반\)](https://ko.wikipedia.org/wiki/Modern_Times_\(아이유의_음반\)).
 
 
 《**Modern Times**》는 [대한민국](../Page/대한민국.md "wikilink")의 가수 [아이유](https://ko.wikipedia.org/wiki/아이유 "wikilink")의 세 번째 정규 음반이다. 타이틀 곡은 〈**분홍신**〉이며 2013년 10월 8일에 [로엔 엔터테인먼트 (LOEN TREE 레이블)에](https://ko.wikipedia.org/wiki/로엔_엔터테인먼트 "wikilink") 의하여 발매되었다.

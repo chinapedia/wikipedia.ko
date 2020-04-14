@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Sfnm](https://ko.wikipedia.org/wiki/:Sfnm).
+> This article is converted from Wikipedia: [틀:Sfnm](https://ko.wikipedia.org/wiki/틀:Sfnm).
 
 
 <includeonly>{{\#tag:ref| }|a2=|a3=|a4=|y=}}}|loc=|p=|pp=|ps=}} {{\#if:| ; }|a2=|a3=|a4=|y=}}}|loc=|p=|pp=|ps=}} }} {{\#if:| ; }|a2=|a3=|a4=|y=}}}|loc=|p=|pp=|ps=}} }} {{\#if:| ; }|a2=|a3=|a4=|y=}}}|loc=|p=|pp=|ps=}} }} {{\#if:| ; }|a2=|a3=|a4=|y=}}}|loc=|p=|pp=|ps=}} }} {{\#if:| ; }|a2=|a3=|a4=|y=}}}|loc=|p=|pp=|ps=}} }} {{\#if:| ; }|a2=|a3=|a4=|y=}}}|loc=|p=|pp=|ps=}} }} {{\#if:| ; }|a2=|a3=|a4=|y=}}}|loc=|p=|pp=|ps=}} }} {{\#if:| ; }|a2=|a3=|a4=|y=}}}|loc=|p=|pp=|ps=}} }} {{\#if:| ; }|a2=|a3=|a4=|y=}}}|loc=|p=|pp=|ps=}} }} |{{\#if:||.}}| {{\#if:|{{\#if:||.}}| {{\#if:|{{\#if:||.}}| {{\#if:|{{\#if:||.}}| {{\#if:|{{\#if:||.}}| {{\#if:|{{\#if:||.}}| {{\#if:|{{\#if:||.}}| {{\#if:|{{\#if:||.}}| {{\#if:|{{\#if:||.}}| {{\#if:|{{\#if:||.}}|}}}}}}}}}}}}}}}}}}}} }}}}}} |name=FOOTNOTE}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}} }} </includeonly><noinclude>  </noinclude>

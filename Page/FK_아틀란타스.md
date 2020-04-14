@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FK ](https://ko.wikipedia.org/wiki/FK_).
+> This article is converted from Wikipedia: [FK 아틀란타스](https://ko.wikipedia.org/wiki/FK_아틀란타스).
 
 
 **FK 아틀란타스**()는 [클라이페다](../Page/클라이페다.md "wikilink")를 연고로 하는 [리투아니아](../Page/리투아니아.md "wikilink")의 축구 클럽이다. 현재는 [A 리가에](../Page/A_리가.md "wikilink") 참가하고 있다.

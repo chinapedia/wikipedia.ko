@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  WCN36xx](https://ko.wikipedia.org/wiki/__WCN36xx).
+> This article is converted from Wikipedia: [퀄컴 애서로스 WCN36xx](https://ko.wikipedia.org/wiki/퀄컴_애서로스_WCN36xx).
 
 
 ## 개요

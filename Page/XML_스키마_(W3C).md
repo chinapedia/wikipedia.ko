@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [XML  \(W3C\)](https://ko.wikipedia.org/wiki/XML__\(W3C\)).
+> This article is converted from Wikipedia: [XML 스키마 \(W3C\)](https://ko.wikipedia.org/wiki/XML_스키마_\(W3C\)).
 
 
 **XML 스키마**는 2001년 5월에 [W3C 표준으로](https://ko.wikipedia.org/wiki/W3C#W3C_표준 "wikilink") 발표된\[1\] 여러 [XML 스키마 언어](../Page/XML_스키마.md "wikilink") 중 하나이다. 이는 W3C 권고를 만족하는 첫 번째 [XML](../Page/XML.md "wikilink") 스키마 전용 언어이다. XML 스키마와 W3C에서 구체적으로 지정한 것과 명칭이 같아 혼동이 되기 때문에, 사용자 커뮤니티 일부에서는 이 언어를 **WXS**라 칭하는데, 이는 W3C XML Schema의 앞 글자를 딴 것이다. 다른 이들은 XML Schema Definition의 약자인 **XSD**를 쓰기도 한다.\[2\]\[3\] 버전 1.1에서 W3C는 XSD를 선호하는 이름으로 정했으며, 이 문서에서도 XSD라 부른다.

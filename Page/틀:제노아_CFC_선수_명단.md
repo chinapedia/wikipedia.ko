@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [: CFC  ](https://ko.wikipedia.org/wiki/:_CFC__).
+> This article is converted from Wikipedia: [틀:제노아 CFC 선수 명단](https://ko.wikipedia.org/wiki/틀:제노아_CFC_선수_명단).
 
 
 <onlyinclude></onlyinclude>

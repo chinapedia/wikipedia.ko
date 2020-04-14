@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  \(WNBA\)](https://ko.wikipedia.org/wiki/__\(WNBA\)).
+> This article is converted from Wikipedia: [서부 콘퍼런스 \(WNBA\)](https://ko.wikipedia.org/wiki/서부_콘퍼런스_\(WNBA\)).
 
 
 **서부 콘퍼런스**(Western Conference)는 [댈러스 윙스](../Page/댈러스_윙스.md "wikilink"), [라스베이거스 에이시즈](../Page/라스베이거스_에이시즈.md "wikilink"), [로스앤젤레스 스파크스](../Page/로스앤젤레스_스파크스.md "wikilink"), [미네소타 링크스](../Page/미네소타_링크스.md "wikilink"), [피닉스 머큐리](../Page/피닉스_머큐리.md "wikilink"), [시애틀 스톰으로](../Page/시애틀_스톰.md "wikilink") 구성되어 있다.
@@ -29,7 +29,7 @@
 <td><p><a href="../Page/애리조나_베터런스_메모리얼_콜리시엄.md" title="wikilink">애리조나 베터런스 메모리얼 콜리시엄</a><br />
 (<a href="../Page/애리조나주.md" title="wikilink">애리조나주</a> <a href="../Page/피닉스_(애리조나주).md" title="wikilink">피닉스</a>)</p></td>
 <td><p><a href="../Page/알래스카_에어라인스_아레나_앳_핵_에드먼드선_파빌리온.md" title="wikilink">알래스카 에어라인스 아레나 앳 핵 에드먼드선 파빌리온</a><br />
-<a href="https://ko.wikipedia.org/wiki/엔젤_오브_더_윈즈_아레나" title="wikilink">엔젤 오브 더 윈즈 아레나</a><br />
+<a href="../Page/엔젤_오브_더_윈즈_아레나.md" title="wikilink">엔젤 오브 더 윈즈 아레나</a><br />
 (<a href="../Page/워싱턴주.md" title="wikilink">워싱턴주</a> <a href="../Page/시애틀.md" title="wikilink">시애틀</a>)<br />
 (<a href="../Page/워싱턴주.md" title="wikilink">워싱턴주</a> <a href="../Page/에버렛_(워싱턴주).md" title="wikilink">에버렛</a>)</p></td>
 </tr>
@@ -127,7 +127,7 @@
 <td><p><a href="../Page/워싱턴주.md" title="wikilink">워싱턴주</a> <a href="../Page/시애틀.md" title="wikilink">시애틀</a><br />
 <a href="../Page/워싱턴주.md" title="wikilink">워싱턴주</a> <a href="../Page/에버렛_(워싱턴주).md" title="wikilink">에버렛</a></p></td>
 <td><p><a href="../Page/알래스카_에어라인스_아레나_앳_핵_에드먼드선_파빌리온.md" title="wikilink">알래스카 에어라인스 아레나 앳 핵 에드먼드선 파빌리온</a><br />
-<a href="https://ko.wikipedia.org/wiki/엔젤_오브_더_윈즈_아레나" title="wikilink">엔젤 오브 더 윈즈 아레나</a>[2]</p></td>
+<a href="../Page/엔젤_오브_더_윈즈_아레나.md" title="wikilink">엔젤 오브 더 윈즈 아레나</a>[2]</p></td>
 <td><p>10,000명<br />
 8,149명</p></td>
 <td><p>2000년</p></td>

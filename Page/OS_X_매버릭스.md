@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [OS X ](https://ko.wikipedia.org/wiki/OS_X_).
+> This article is converted from Wikipedia: [OS X 매버릭스](https://ko.wikipedia.org/wiki/OS_X_매버릭스).
 
 
 **OS X 매버릭스**(OS X Mavericks, 버전 10.9)는 [애플의](https://ko.wikipedia.org/wiki/애플_\(기업\) "wikilink") 10번 째 주요 [OS X](https://ko.wikipedia.org/wiki/OS_X "wikilink") [운영 체제이다](../Page/운영_체제.md "wikilink"). [2013년](../Page/2013년.md "wikilink") [6월 10일](../Page/6월_10일.md "wikilink") [WWDC 2013에서](https://ko.wikipedia.org/wiki/애플_세계_개발자_회의 "wikilink") 발표되었다. [2013년](../Page/2013년.md "wikilink") [10월 22일](../Page/10월_22일.md "wikilink") 애플은 OS X 매버릭스를 무료로 배포하겠다고 밝혔으며 같은 달 23일부터 정식 버전의 배포가 시작되었다.\[1\]\[2\]

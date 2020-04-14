@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ \(EACH OTHER\)](https://ko.wikipedia.org/wiki/_\(EACH_OTHER\)).
+> This article is converted from Wikipedia: [서로 \(EACH OTHER\)](https://ko.wikipedia.org/wiki/서로_\(EACH_OTHER\)).
 
 
 《**서로 (EACH OTHER)**》는 [대한민국](../Page/대한민국.md "wikilink")의 [음악 그룹](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink") [옥상달빛](../Page/옥상달빛.md "wikilink")의 두 번째 [EP이다](../Page/익스텐디드_플레이.md "wikilink").

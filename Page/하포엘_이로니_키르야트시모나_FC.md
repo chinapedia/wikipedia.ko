@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [   FC](https://ko.wikipedia.org/wiki/___FC).
+> This article is converted from Wikipedia: [하포엘 이로니 키르야트시모나 FC](https://ko.wikipedia.org/wiki/하포엘_이로니_키르야트시모나_FC).
 
 
 **하포엘 이로니 키르야트시모나 FC**()는 [키르야트시모나](https://ko.wikipedia.org/wiki/키르야트시모나 "wikilink")를 연고로 하는 [이스라엘](../Page/이스라엘.md "wikilink")의 축구 클럽이다. 현재는 [리갓 하알에](../Page/리갓_하알.md "wikilink") 참가하고 있다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [BMW ](https://ko.wikipedia.org/wiki/BMW_).
+> This article is converted from Wikipedia: [BMW 모토라드](https://ko.wikipedia.org/wiki/BMW_모토라드).
 
 
 **BMW 모토라드**(BMW Motorrad)는 [독일](../Page/독일.md "wikilink") [BMW](../Page/BMW.md "wikilink")의 이륜차 생산 부문이이며, BMW 모토라드는 1923년부터 모터사이클을 생산하기 시작하였다. 2009년에는 87,306대를 판매하여 총 매출은 10억 6900만 유로이다.\[1\]

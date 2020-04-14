@@ -115,7 +115,7 @@
   - [C-ROCK](https://ko.wikipedia.org/wiki/C-ROCK "wikilink")
   - [한국음악](../Page/한국음악.md "wikilink")
   - [대한민국의 음악](https://ko.wikipedia.org/wiki/대한민국의_음악 "wikilink")
-  - [대한민국의 음악가 목록](https://ko.wikipedia.org/wiki/대한민국의_음악가_목록 "wikilink")
+  - [대한민국의 음악가 목록](../Page/대한민국의_음악가_목록.md "wikilink")
 
 ## 각주
 

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [\~Friend to Lover\~](https://ko.wikipedia.org/wiki/\~Friend_to_Lover\~).
+> This article is converted from Wikipedia: [후레라바\~Friend to Lover\~](https://ko.wikipedia.org/wiki/후레라바\~Friend_to_Lover\~).
 
 
 **후레라바\~Friend to Lover\~**(フレラバ\~Friend to Lover\~)는 [일본](../Page/일본.md "wikilink")의 [SMEE](https://ko.wikipedia.org/wiki/SMEE "wikilink")에서 개발한 [어덜트 게임이다](https://ko.wikipedia.org/wiki/어덜트_게임 "wikilink").

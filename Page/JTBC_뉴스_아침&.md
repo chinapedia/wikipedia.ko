@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [JTBC  \&](https://ko.wikipedia.org/wiki/JTBC__\&).
+> This article is converted from Wikipedia: [JTBC 뉴스 아침\&](https://ko.wikipedia.org/wiki/JTBC_뉴스_아침\&).
 
 
 **《JTBC 뉴스 아침&》**은 [대한민국](../Page/대한민국.md "wikilink")에서 평일 오전 7시 정각에 [텔레비전](../Page/텔레비전.md "wikilink")으로 방송하는 [JTBC](../Page/JTBC.md "wikilink")의 주중 아침 [뉴스](../Page/뉴스.md "wikilink") 프로그램이다.
@@ -75,7 +75,7 @@
 ## 결방 사유
 
   - 매년 [US여자오픈](https://ko.wikipedia.org/wiki/US여자오픈 "wikilink")와 [US 오픈](../Page/US_오픈_\(골프\).md "wikilink") 3R · FR 중계 관계로 결방되었다.
-  - [2020년](../Page/2020년.md "wikilink") [2월 24일](../Page/2월_24일.md "wikilink"), 김민아 기상캐스터의 발열 증세로 일부 편성 결방되었다.
+  - [2020년](../Page/2020년.md "wikilink") [2월 24일](../Page/2월_24일.md "wikilink"), [김민아](https://ko.wikipedia.org/wiki/김민아_\(방송인\) "wikilink") [기상캐스터](https://ko.wikipedia.org/wiki/기상캐스터 "wikilink")의 발열 증세로 일부 편성 결방되었다.
 
 ## 관련 자료
 

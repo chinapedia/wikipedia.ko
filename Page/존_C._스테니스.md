@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ C. ](https://ko.wikipedia.org/wiki/_C._).
+> This article is converted from Wikipedia: [존 C. 스테니스](https://ko.wikipedia.org/wiki/존_C._스테니스).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Stennis3rd.jpg "wikilink") **존 코르넬리우스 스테니스**(, [1901년](../Page/1901년.md "wikilink") [8월 3일](../Page/8월_3일.md "wikilink") \~ [1995년](../Page/1995년.md "wikilink") [4월 23일](../Page/4월_23일.md "wikilink"))는 [미시시피주](../Page/미시시피주.md "wikilink") 출신 [미국의 상원 의원이었다](https://ko.wikipedia.org/wiki/미국_상원 "wikilink").

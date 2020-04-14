@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [J. A. ](https://ko.wikipedia.org/wiki/J._A._).
+> This article is converted from Wikipedia: [J. A. 햅](https://ko.wikipedia.org/wiki/J._A._햅).
 
 
 **제임스 앤서니 햅**(James Anthony Happ, [1982년](../Page/1982년.md "wikilink") [10월 19일](../Page/10월_19일.md "wikilink") \~ )은 [미국](../Page/미국.md "wikilink") 출신의 [아메리칸 리그](../Page/아메리칸_리그.md "wikilink") [뉴욕 양키스의](../Page/뉴욕_양키스.md "wikilink") 선수이자, 포지션은 [투수](../Page/투수.md "wikilink")이다.

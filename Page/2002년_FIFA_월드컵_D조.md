@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [2002 FIFA  D](https://ko.wikipedia.org/wiki/2002_FIFA__D).
+> This article is converted from Wikipedia: [2002년 FIFA 월드컵 D조](https://ko.wikipedia.org/wiki/2002년_FIFA_월드컵_D조).
 
 
 [2002년 FIFA 월드컵은](https://ko.wikipedia.org/wiki/2002년_FIFA_월드컵 "wikilink") 32팀이 본선에 참가하였고 이들은 4팀씩 8개의 조로 나뉘었다. **[2002년 FIFA 월드컵](https://ko.wikipedia.org/wiki/2002년_FIFA_월드컵 "wikilink") D조**는 공동개최국 [대한민국과](../Page/대한민국_축구_국가대표팀.md "wikilink") 유럽 대표 [폴란드](../Page/폴란드_축구_국가대표팀.md "wikilink"), [포르투갈](../Page/포르투갈_축구_국가대표팀.md "wikilink"), 그리고 북중미카리브 대표 [미국이](../Page/미국_축구_국가대표팀.md "wikilink") 들어간 조였다. D조의 일정은 2002년 6월 4일에 시작되어 2002년 6월 14일에 종료되었다. [대한민국이](../Page/대한민국_축구_국가대표팀.md "wikilink") D조 선두로 조별 리그를 마무리하여 다음 라운드에 진출하였고, [미국](../Page/미국_축구_국가대표팀.md "wikilink") 또한 그 대열에 합류했다. 반면 [폴란드와](../Page/폴란드_축구_국가대표팀.md "wikilink") [포르투갈은](../Page/포르투갈_축구_국가대표팀.md "wikilink") 탈락하였다.

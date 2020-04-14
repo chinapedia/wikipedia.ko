@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:IPAddress](https://ko.wikipedia.org/wiki/:IPAddress).
+> This article is converted from Wikipedia: [모듈:IPAddress](https://ko.wikipedia.org/wiki/모듈:IPAddress).
 
 
 \--\[=\[ From [:en:Module:IPAddress](https://ko.wikipedia.org/wiki/:en:Module:IPAddress "wikilink") Functions are not "local", so other modules can require this module and call them directly. We return an object with 3 small stub functions to call the real ones so that the functions can be called from templates also.

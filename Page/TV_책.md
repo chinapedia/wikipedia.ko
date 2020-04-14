@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TV ](https://ko.wikipedia.org/wiki/TV_).
+> This article is converted from Wikipedia: [TV 책](https://ko.wikipedia.org/wiki/TV_책).
 
 
 《**TV 책**》은 매주 [화요일](https://ko.wikipedia.org/wiki/화요일 "wikilink") 밤 11시 40분에 [KBS 1TV에서](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink") 방송된 [책](../Page/책.md "wikilink") 전문 [텔레비전 프로그램이다](../Page/텔레비전_프로그램.md "wikilink").

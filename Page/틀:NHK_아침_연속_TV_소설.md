@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:NHK   TV ](https://ko.wikipedia.org/wiki/:NHK___TV_).
+> This article is converted from Wikipedia: [틀:NHK 아침 연속 TV 소설](https://ko.wikipedia.org/wiki/틀:NHK_아침_연속_TV_소설).
 
 
 <noinclude>
