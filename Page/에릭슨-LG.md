@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [-LG](https://ko.wikipedia.org/wiki/-LG).
+> This article is converted from Wikipedia: [에릭슨-LG](https://ko.wikipedia.org/wiki/에릭슨-LG).
 
 
-**에릭슨-LG** ()는 [대한민국](../Page/대한민국.md "wikilink")의 통신장비 제조 회사다.
+**에릭슨-LG**()는 [대한민국](../Page/대한민국.md "wikilink")의 통신장비 제조 회사다.
 
 [2010년](../Page/2010년.md "wikilink") [7월 1일](../Page/7월_1일.md "wikilink") [스웨덴](../Page/스웨덴.md "wikilink")의 통신 장비 제조업체인 [에릭슨](https://ko.wikipedia.org/wiki/에릭슨 "wikilink")이 LG에릭슨의 전신인 LG노텔의 노텔 측 지분을 인수하여 설립되었다. LG노텔은 [LG전자](../Page/LG전자.md "wikilink") 시스템 사업부문과 [캐나다](../Page/캐나다.md "wikilink") 통신장비 제조업체인 [노텔](../Page/노텔.md "wikilink")(Nortel)의 조인트 벤처(Joint venture) 형태로 [2005년](../Page/2005년.md "wikilink") [11월 3일에](../Page/11월_3일.md "wikilink") 출범했으며, 합작법인의 근간이 된 시스템 사업부문은 단말 사업부문과 함께 [LG전자](../Page/LG전자.md "wikilink") MC(Mobile Communication) 사업본부에 속해 있었다.\[1\] MC 사업본부는 [LG전자](../Page/LG전자.md "wikilink")에 합병되기 전에 [LG정보통신](https://ko.wikipedia.org/wiki/LG정보통신 "wikilink")이라는 법인으로 존재했었고, LG정보통신은 [금성반도체](https://ko.wikipedia.org/wiki/금성반도체 "wikilink") 및 [금성통신](https://ko.wikipedia.org/wiki/금성통신 "wikilink")을 전신으로 하고 있다.\[2\]
 
@@ -49,7 +49,7 @@
 
   - [Ericsson-LG 홈페이지](http://www.ericssonlg.co.kr/)
 
-[분류:대한민국의 IT 기업](https://ko.wikipedia.org/wiki/분류:대한민국의_IT_기업 "wikilink") [분류:2005년 설립](https://ko.wikipedia.org/wiki/분류:2005년_설립 "wikilink") [분류:대한민국의 합작법인](https://ko.wikipedia.org/wiki/분류:대한민국의_합작법인 "wikilink")
+[분류:대한민국의 IT 기업](https://ko.wikipedia.org/wiki/분류:대한민국의_IT_기업 "wikilink") [분류:2005년 설립](https://ko.wikipedia.org/wiki/분류:2005년_설립 "wikilink") [분류:대한민국의 합작법인](https://ko.wikipedia.org/wiki/분류:대한민국의_합작법인 "wikilink") [분류:원격 회의](https://ko.wikipedia.org/wiki/분류:원격_회의 "wikilink") [분류:화상 통화](https://ko.wikipedia.org/wiki/분류:화상_통화 "wikilink")
 
 1.  [LG전자-노텔 합작사 설립 본격화](http://www.dt.co.kr/contents.htm?article_no=2005032902010731693002), 《디지털 타임즈》, 2005-03-29 작성.
 2.  [엔사이버 백과 LG정보통신(情報通信)](http://www.encyber.com/search_w/ctdetail.php?masterno=733371&contentno=733371)

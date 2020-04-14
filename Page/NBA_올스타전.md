@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [NBA ](https://ko.wikipedia.org/wiki/NBA_).
+> This article is converted from Wikipedia: [NBA 올스타전](https://ko.wikipedia.org/wiki/NBA_올스타전).
 
 
 ## 역대 올스타전

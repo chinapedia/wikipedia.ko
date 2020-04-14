@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:SV    ](https://ko.wikipedia.org/wiki/:SV____).
+> This article is converted from Wikipedia: [틀:SV 베르더 브레멘 선수 명단](https://ko.wikipedia.org/wiki/틀:SV_베르더_브레멘_선수_명단).
 
 
 <onlyinclude></onlyinclude>

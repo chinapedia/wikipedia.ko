@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SNCF TGV ](https://ko.wikipedia.org/wiki/SNCF_TGV_).
+> This article is converted from Wikipedia: [SNCF TGV 레조](https://ko.wikipedia.org/wiki/SNCF_TGV_레조).
 
 
 **SNCF TGV 레조**() 열차는 1992년부터 1994년(탈리스 PBA 포함 시 1996년)까지 [알스톰](../Page/알스톰.md "wikilink")에서 생산된 고속 열차이다. [TGV 아틀랑티크에](../Page/SNCF_TGV_아틀랑티크.md "wikilink") 기반을 두고 있으며, [LGV 노르](https://ko.wikipedia.org/wiki/LGV_노르 "wikilink") 개업과 함께 영업 운행을 시작하였다.

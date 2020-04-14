@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FA  \(\)](https://ko.wikipedia.org/wiki/FA__\(\)).
+> This article is converted from Wikipedia: [FA컵 득점상 \(대한민국\)](https://ko.wikipedia.org/wiki/FA컵_득점상_\(대한민국\)).
 
 
 이 문서는 [대한민국의 FA컵 대회에서](https://ko.wikipedia.org/wiki/FA컵_\(대한민국\) "wikilink") 득점상을 수상한 선수들의 목록이다.

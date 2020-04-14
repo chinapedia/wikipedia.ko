@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Innocent Eyes \(S.I.D-Sound \)](https://ko.wikipedia.org/wiki/Innocent_Eyes_\(S.I.D-Sound_\)).
+> This article is converted from Wikipedia: [Innocent Eyes \(S.I.D-Sound의 음반\)](https://ko.wikipedia.org/wiki/Innocent_Eyes_\(S.I.D-Sound의_음반\)).
 
 
 **Innocent Eyes**는 한국의 [인디 밴드](https://ko.wikipedia.org/wiki/인디_밴드 "wikilink") [시드사운드](https://ko.wikipedia.org/wiki/시드사운드 "wikilink")가 [2007년](../Page/2007년.md "wikilink")에 발매한 정규 음반이다.

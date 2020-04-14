@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:KOTOKO](https://ko.wikipedia.org/wiki/:KOTOKO).
+> This article is converted from Wikipedia: [틀:KOTOKO](https://ko.wikipedia.org/wiki/틀:KOTOKO).
 
 
 <onlyinclude></onlyinclude>

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  DS](https://ko.wikipedia.org/wiki/__DS).
+> This article is converted from Wikipedia: [요시 아일랜드 DS](https://ko.wikipedia.org/wiki/요시_아일랜드_DS).
 
 
 《**요시 아일랜드 DS**》는 [닌텐도](../Page/닌텐도.md "wikilink")의 휴대용 게임기 [닌텐도 DS를](../Page/닌텐도_DS.md "wikilink") 대상으로 만들어진 액션 게임으로, [대한민국](../Page/대한민국.md "wikilink")에는 2007년 11월 8일에 정식 발매되었다. 1995년에 발매된 [슈퍼 마리오 월드 2: 요시 아일랜드의](https://ko.wikipedia.org/wiki/슈퍼_마리오_월드_2:_요시_아일랜드 "wikilink") 속편이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [J. R. ](https://ko.wikipedia.org/wiki/J._R._).
+> This article is converted from Wikipedia: [J. R. 셀스키](https://ko.wikipedia.org/wiki/J._R._셀스키).
 
 
 **존 로버트 "J. R." 셀스키**(, [1990년](../Page/1990년.md "wikilink") [7월 17일](../Page/7월_17일.md "wikilink") - )는 [미국](../Page/미국.md "wikilink")의 [쇼트트랙](../Page/쇼트트랙.md "wikilink") 선수이다. 흔히 이니셜을 사용하여 **J. R. 셀스키**로 부른다.

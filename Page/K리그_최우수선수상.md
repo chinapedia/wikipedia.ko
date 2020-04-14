@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [K ](https://ko.wikipedia.org/wiki/K_).
+> This article is converted from Wikipedia: [K리그 최우수선수상](https://ko.wikipedia.org/wiki/K리그_최우수선수상).
 
 
 역대 [K리그](../Page/K리그.md "wikilink")와 [R리그](../Page/R리그.md "wikilink")에서 최우수선수상을 받은 선수들의 명단이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ BMG  ](https://ko.wikipedia.org/wiki/_BMG__).
+> This article is converted from Wikipedia: [소니 BMG 루트킷 사건](https://ko.wikipedia.org/wiki/소니_BMG_루트킷_사건).
 
 
 **소니 BMG 루트킷 사건**은 복사 방지 기술이 채용된 소니 BMG(현재의 [소니 뮤직 엔터테인먼트](../Page/소니_뮤직_엔터테인먼트.md "wikilink"))의 [CD를](../Page/콤팩트_디스크.md "wikilink") 통해 사용자의 컴퓨터에 [루트킷](../Page/루트킷.md "wikilink")이 설치되었던 문제를 가리킨다. 사용자의 [컴퓨터 보안을](../Page/컴퓨터_보안.md "wikilink") 취약하게 만드는 소프트웨어가 사용자의 동의 없이 설치된 점이 문제가 되었다.

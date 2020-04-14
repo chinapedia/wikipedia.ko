@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TBS  ](https://ko.wikipedia.org/wiki/TBS__).
+> This article is converted from Wikipedia: [TBS 비디오 사건](https://ko.wikipedia.org/wiki/TBS_비디오_사건).
 
 
 **TBS 비디오 사건**(, TBS 비디오 문제)은 [1989년](../Page/1989년.md "wikilink") [10월 26일에](../Page/10월_26일.md "wikilink") [TBS의](https://ko.wikipedia.org/wiki/도쿄_방송 "wikilink") [와이드 쇼인](https://ko.wikipedia.org/wiki/와이드_쇼 "wikilink") 『[3시에 만납시다](https://ko.wikipedia.org/wiki/3시에_만납시다 "wikilink")』의 스태프가 [변호사](../Page/변호사.md "wikilink")인 [사카모토 쓰쓰미가](https://ko.wikipedia.org/wiki/사카모토_쓰쓰미 "wikilink") [옴진리교](../Page/옴진리교.md "wikilink")를 비판한 인터뷰 영상을 방송 직전에 옴진리교 간부에게 보여준 것이 9일 후인 [11월 4일에](../Page/11월_4일.md "wikilink") 일어난 [사카모토 쓰쓰미 변호사 일가족 살해 사건의](../Page/사카모토_쓰쓰미_변호사_일가족_살해_사건.md "wikilink") 발단이 된 사건이다. [일본](../Page/일본.md "wikilink")에서는 **옴(진리교) 비디오 사건**, **옴(진리교) 비디오 문제**, 단순하게 **TBS 옴(진리교) 사건**, **TBS 문제**, **TBS 사건**, **TBS 비디오 사건** 이라고도 부른다.\[1\]

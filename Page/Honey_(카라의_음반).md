@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Honey \( \)](https://ko.wikipedia.org/wiki/Honey_\(_\)).
+> This article is converted from Wikipedia: [Honey \(카라의 음반\)](https://ko.wikipedia.org/wiki/Honey_\(카라의_음반\)).
 
 
 ***Honey***는 [2009년](../Page/2009년.md "wikilink") [2월 18일](../Page/2월_18일.md "wikilink") 발매된 [카라의](../Page/카라_\(음악_그룹\).md "wikilink") *[Pretty Girl](https://ko.wikipedia.org/wiki/Pretty_Girl_\(2nd_Mini_Album\) "wikilink")*의 리패키지 앨범으로, 〈하니〉라는 곡을 새롭게 편곡한 "Honey"가 타이틀곡으로 선정되었다.

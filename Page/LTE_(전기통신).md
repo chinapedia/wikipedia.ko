@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [LTE \(\)](https://ko.wikipedia.org/wiki/LTE_\(\)).
+> This article is converted from Wikipedia: [LTE \(전기통신\)](https://ko.wikipedia.org/wiki/LTE_\(전기통신\)).
 
 
 [섬네일|300px|alt=Shows the countries where 3GPP Long Term Evolution is available| 2014년 5월 21일 기준, 전 세계 LTE 서비스중인 나라   ](https://ko.wikipedia.org/wiki/파일:3GPP_Long_Term_Evolution_Country_Map.svg "wikilink")
@@ -605,7 +605,7 @@ UE 수신 (MHz)</p></th>
   - [NGMN 홈페이지](http://www.ngmn.org)
   - [ETSI 홈페이지](http://www.etsi.org)
   - [LSTI 홈페이지](http://www.lstiforum.org)
-  - [LTE 관련 장비사 로데슈바르즈](http://www2.rohde-schwarz.com/en/technologies/cellular_standards/LTE/highlights)
+  - LTE 관련 장비사 키사이트
 
 [분류:이동 통신 표준](https://ko.wikipedia.org/wiki/분류:이동_통신_표준 "wikilink")
 

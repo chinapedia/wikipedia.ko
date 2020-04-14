@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  FC](https://ko.wikipedia.org/wiki/__FC).
+> This article is converted from Wikipedia: [메이든헤드 유나이티드 FC](https://ko.wikipedia.org/wiki/메이든헤드_유나이티드_FC).
 
 
 **메이든헤드 유나이티드 축구 클럽** (Maidenhead united Football Club) 은 [잉글랜드](../Page/잉글랜드.md "wikilink") [윈저 메이든헤드 왕립구의](https://ko.wikipedia.org/wiki/윈저_메이든헤드_왕립구 "wikilink") [메이든헤드](https://ko.wikipedia.org/wiki/메이든헤드 "wikilink")에 위치한 프로 [축구](../Page/축구.md "wikilink") 클럽이다. 별칭은 **Magpies**이고 이는 까치를 의미한다. 현재는 잉글랜드 6부리그인 [콘퍼런스 사우스에서](https://ko.wikipedia.org/wiki/콘퍼런스_사우스 "wikilink") 활동하고 있다. 메이든헤드 유나이티드는 세계에서 가장 오래된 축구 경기장인 [요크 로드를](../Page/요크_로드.md "wikilink") 가진 축구 클럽이다. 현재 남성, 여성팀과 유소년팀으로 구성되어 있으며, 각각 2군팀이 존재한다. 공식서포터즈는 MUSA라 칭한다.

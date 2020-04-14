@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [K  ](https://ko.wikipedia.org/wiki/K__).
+> This article is converted from Wikipedia: [K리그 통산 기록](https://ko.wikipedia.org/wiki/K리그_통산_기록).
 
 
 **대한민국 K리그**는 1983년 출범한 이후로 많은 기록을 남겼다. 본 문서는 그러한 기록과 통계에 관한 문서이다.

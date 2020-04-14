@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [R](https://ko.wikipedia.org/wiki/R).
+> This article is converted from Wikipedia: [R리그](https://ko.wikipedia.org/wiki/R리그).
 
 
 **R리그**(리저브리그, R League)는 [K리그](../Page/K리그.md "wikilink")의 2군 리그이다.

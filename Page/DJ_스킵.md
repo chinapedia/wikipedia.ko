@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [DJ ](https://ko.wikipedia.org/wiki/DJ_).
+> This article is converted from Wikipedia: [DJ 스킵](https://ko.wikipedia.org/wiki/DJ_스킵).
 
 
 **DJ 스킵**(DJ Skip, , [1975년](../Page/1975년.md "wikilink") \~\[1\])은 [대한민국](../Page/대한민국.md "wikilink")의 [힙합](../Page/힙합.md "wikilink") [DJ이다](../Page/디스크_자키.md "wikilink"). 2000년 데뷔, [쟈니로얄](../Page/쟈니로얄.md "wikilink")이나 Lecher 같은 락 밴드의 DJ로도 활동하였으나 주로 파티나 클럽에서 스핀 (분위기 흐름이 끊기지 않게 곡을 틀어주는 것)을 하였으며, 2003년에는 [한량사](../Page/한량사.md "wikilink"), 2009년에는 [킹더형 레코드의](../Page/킹더형_레코드.md "wikilink") CEO로 레이블 운영을 하다가 소속사를 J2 Entertainment로 옮겨갔다. 2010년 4월에는 블로그를 통해 은퇴 선언을 하였으나, 2010년 9월에 컴백하여 [가리온](../Page/가리온.md "wikilink")의 백업 DJ로 활동하고 있다. 소속 크루는 불한당이며, 킵루츠, Fascinating(MC 성천)과 공동으로 설립한 레이블 LK2Muzic 소속이기도 하다.

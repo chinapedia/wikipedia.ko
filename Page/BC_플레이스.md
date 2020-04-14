@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [BC ](https://ko.wikipedia.org/wiki/BC_).
+> This article is converted from Wikipedia: [BC 플레이스](https://ko.wikipedia.org/wiki/BC_플레이스).
 
 
 **BC 플레이스**()는 [밴쿠버](https://ko.wikipedia.org/wiki/밴쿠버 "wikilink") 폴스 크릭(False Creek) 북쪽에 있는 [다목적 경기장으로](https://ko.wikipedia.org/wiki/다목적_경기장 "wikilink"), [캐나다](../Page/캐나다.md "wikilink") 최초의 [돔](https://ko.wikipedia.org/wiki/돔 "wikilink") [아레나](https://ko.wikipedia.org/wiki/아레나 "wikilink")이자 세계 최대의 공기지지식 경기장이다.\[1\] 외관은 [메트로돔](../Page/휴버트_H._험프리_메트로돔.md "wikilink"), [도쿄 돔과](../Page/도쿄_돔.md "wikilink") 비슷하다.[브리티시컬럼비아주](../Page/브리티시컬럼비아주.md "wikilink") 산하의 PavCo가 소유·운영하고 있다.

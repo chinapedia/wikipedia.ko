@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [WWE NXT \( \)](https://ko.wikipedia.org/wiki/WWE_NXT_\(_\)).
+> This article is converted from Wikipedia: [WWE NXT \(텔레비전 프로그램\)](https://ko.wikipedia.org/wiki/WWE_NXT_\(텔레비전_프로그램\)).
 
 
 **NXT**는 현지시각 2월 16일을 끝으로 [ECW](../Page/익스트림_챔피언십_레슬링.md "wikilink") 방영을 종료하고 1주일 뒤인 2월 23일에 출범 및 방영을 시작했다. 미국 현지에서는 nxt.wwe.com에서 중부시각 화요일 밤 9시에 방영 중이다. 이 쇼는 기존의 ECW와는 다른 리얼리티 쇼를 표방하는 것으로 알려지고 있다. 시즌 1 우승자부터 시즌 3우승자까지는 챔피언 타이틀에 도전할 수 있는 기회를 주었다. 하지만 시즌 4우승자에게는 프로와 함께 태그팀 챔피언 타이틀에 도전할 수 있는 기회로 변경되었다. 시즌 5는 리뎀션이라는 이름의 패자부활전 형태로 진행되며 시즌 1 \~ 시즌 2, 시즌4에서 탈락했던 루키들에게 다시 기회를 주게 되었다. 시즌6는 산하단체 [FCW와](../Page/플로리다_챔피언십_레슬링.md "wikilink") 합동 녹화를 실시하며 프로(메토)가 없이 루키 (신인)들만으로 쇼가 진행되고, 러와 스맥다운과 같이 GM이 존재하게 되었다. 2012년 8월 기존의 산하단체 [FCW과](../Page/플로리다_챔피언십_레슬링.md "wikilink") 통합되면서 [NXT 레슬링이](https://ko.wikipedia.org/wiki/NXT_레슬링 "wikilink") 출범하였다.

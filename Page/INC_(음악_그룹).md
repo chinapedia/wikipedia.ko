@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [INC \( \)](https://ko.wikipedia.org/wiki/INC_\(_\)).
+> This article is converted from Wikipedia: [INC \(음악 그룹\)](https://ko.wikipedia.org/wiki/INC_\(음악_그룹\)).
 
 
 **INC**는 [Elcue](../Page/엘큐.md "wikilink"), [R-est](https://ko.wikipedia.org/wiki/R-est "wikilink")로 이루어진 [대한민국](../Page/대한민국.md "wikilink")의 [힙합](../Page/힙합.md "wikilink") 듀오이다. 2007년 결성되었으며 [킹더형 레코드가](../Page/킹더형_레코드.md "wikilink") 해체되기 전까지 킹더형 레코드 소속이었다.

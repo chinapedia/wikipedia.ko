@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [E](https://ko.wikipedia.org/wiki/E).
+> This article is converted from Wikipedia: [E채널](https://ko.wikipedia.org/wiki/E채널).
 
 
 **E채널**()은 [대한민국](../Page/대한민국.md "wikilink")의 [방송채널 사용사업자인](https://ko.wikipedia.org/wiki/대한민국_방송법 "wikilink") [티캐스트](../Page/티캐스트.md "wikilink")가 운영하는 [케이블 텔레비전](../Page/대한민국의_케이블TV_방송.md "wikilink") [채널이다](https://ko.wikipedia.org/wiki/채널_\(통신\) "wikilink").

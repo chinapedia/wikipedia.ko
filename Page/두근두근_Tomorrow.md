@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ Tomorrow](https://ko.wikipedia.org/wiki/_Tomorrow).
+> This article is converted from Wikipedia: [두근두근 Tomorrow](https://ko.wikipedia.org/wiki/두근두근_Tomorrow).
 
 
 **《두근두근 Tomorrow》**는 [삼성](https://ko.wikipedia.org/wiki/삼성 "wikilink")의 공익 광고 캠페인(현재는 종료 된 캠페인)이면서 [4 Tomorrow의](../Page/4_Tomorrow.md "wikilink") 싱글 이기도 하다.

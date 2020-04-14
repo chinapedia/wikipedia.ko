@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ \(TTC\)](https://ko.wikipedia.org/wiki/_\(TTC\)).
+> This article is converted from Wikipedia: [케네디역 \(TTC\)](https://ko.wikipedia.org/wiki/케네디역_\(TTC\)).
 
 
 **케네디역**(Kennedy Station)은 [캐나다](../Page/캐나다.md "wikilink") [온타리오주](https://ko.wikipedia.org/wiki/온타리오주 "wikilink") [토론토](../Page/토론토.md "wikilink")의 지하철인 [블루어-댄포스 선의](https://ko.wikipedia.org/wiki/블루어-댄포스_선 "wikilink") 동부 종착역이자 [스카버러 RT의](../Page/스카버러_RT.md "wikilink") 서부 종착역이다. 이 역에는 두 개의 도시 철도 노선과 14개 버스 노선 뿐만 아니라 [GO 트랜싯의](../Page/GO_트랜싯.md "wikilink") 스토우빌 선 열차도 같은 이름의 통근 열차 역에서 정차한다. 이에 따라 케네디역은 TTC에서 다섯 번째로 가장 바쁜 역이며, 하루 평균 10만 5880명을 수송한다.\[1\]

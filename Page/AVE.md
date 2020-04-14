@@ -46,7 +46,7 @@
 
 ## 외부 링크
 
-  - [RENFE-AVE](http://www.renfe.es/ave/)
+  - [RENFE-AVE](https://web.archive.org/web/20071207194121/http://www.renfe.es/ave/)
 
   - [Trenes de Alta Velocidad en España](https://web.archive.org/web/20060117040553/http://www.altavelocidad.org/)
 

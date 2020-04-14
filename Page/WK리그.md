@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [WK](https://ko.wikipedia.org/wiki/WK).
+> This article is converted from Wikipedia: [WK리그](https://ko.wikipedia.org/wiki/WK리그).
 
 
 **WK리그**()는 [2009년](../Page/2009년.md "wikilink")부터 시작된 [세미 프로페셔널](https://ko.wikipedia.org/wiki/세미_프로페셔널_스포츠 "wikilink") [여자 축구](../Page/여자_축구.md "wikilink") [리그이다](https://ko.wikipedia.org/wiki/리그_\(스포츠\) "wikilink"). [대한축구협회](../Page/대한축구협회.md "wikilink")와 [한국여자축구연맹](https://ko.wikipedia.org/wiki/한국여자축구연맹 "wikilink")에서 주관하는 [대한민국](../Page/대한민국.md "wikilink")의 가장 높은 [여자 축구](../Page/여자_축구.md "wikilink") 리그 대회이다. 각 클럽마다 연고지는 협약이 되어 있으나 실제 연고지에서 홈 앤드 어웨이 경기를 펼치는 대신 전국 3개 경기장을 순회하며 중립 경기를 치러 오다가, 2014년 시범운영을 거쳐 2015년부터 본격적인 홈 앤드 어웨이 운영을 실시한다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [\(AMOLED\)](https://ko.wikipedia.org/wiki/\(AMOLED\)).
+> This article is converted from Wikipedia: [아몰레드\(AMOLED\)](https://ko.wikipedia.org/wiki/아몰레드\(AMOLED\)).
 
 
 〈**아몰레드(AMOLED)**〉는 2009년 7월 23일 발매된 [손담비](../Page/손담비.md "wikilink")와 [애프터스쿨](../Page/애프터스쿨.md "wikilink")의 싱글이다. 애니모션, 애니클럽, 애니스타, 그리고 애니밴드의 계보를 잇는 [삼성전자](https://ko.wikipedia.org/wiki/삼성전자 "wikilink") [애니콜](https://ko.wikipedia.org/wiki/애니콜 "wikilink")의 다섯 번째 음악 프로젝트로, 휴대전화 [햅틱 아몰레드의](https://ko.wikipedia.org/wiki/햅틱_아몰레드 "wikilink") 광고를 위해 녹음되었다. 아몰레드와 반주곡까지 두 곡이 포함되어 있다.

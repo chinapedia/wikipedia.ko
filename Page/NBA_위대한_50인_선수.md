@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [NBA  50 ](https://ko.wikipedia.org/wiki/NBA__50_).
+> This article is converted from Wikipedia: [NBA 위대한 50인 선수](https://ko.wikipedia.org/wiki/NBA_위대한_50인_선수).
 
 
 **NBA 위대한 50인 선수**(The 50 Greatest Players in National Basketball Association History)는 1996년 [NBA](../Page/전미_농구_협회.md "wikilink") 설립 50주년을 기념하여 선정되었다.

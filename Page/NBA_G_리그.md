@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [NBA G ](https://ko.wikipedia.org/wiki/NBA_G_).
+> This article is converted from Wikipedia: [NBA G 리그](https://ko.wikipedia.org/wiki/NBA_G_리그).
 
 
 **NBA G 리그**(**N**ational **B**asketball **A**ssociation **G**atorade **L**eague, **NBA G League**)는 미국의 프로 농구 연맹의 마이너 리그이다.

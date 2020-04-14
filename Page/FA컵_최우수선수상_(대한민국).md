@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FA  \(\)](https://ko.wikipedia.org/wiki/FA__\(\)).
+> This article is converted from Wikipedia: [FA컵 최우수선수상 \(대한민국\)](https://ko.wikipedia.org/wiki/FA컵_최우수선수상_\(대한민국\)).
 
 
 이 문서는 [대한민국의 FA컵에서](https://ko.wikipedia.org/wiki/FA컵_\(대한민국\) "wikilink") 최우수선수상을 받은 선수들의 목록이다.

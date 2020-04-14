@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  \(NBA\)](https://ko.wikipedia.org/wiki/__\(NBA\)).
+> This article is converted from Wikipedia: [애틀랜틱 디비전 \(NBA\)](https://ko.wikipedia.org/wiki/애틀랜틱_디비전_\(NBA\)).
 
 
 **애틀랜틱 디비전**(Atlantic Division)은 [보스턴 셀틱스](../Page/보스턴_셀틱스.md "wikilink"), [브루클린 네츠](../Page/브루클린_네츠.md "wikilink"), [뉴욕 닉스](../Page/뉴욕_닉스.md "wikilink"), [필라델피아 세븐티식서스](../Page/필라델피아_세븐티식서스.md "wikilink"), [토론토 랩터스로](../Page/토론토_랩터스.md "wikilink") 이루어진 디비전이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Search \(\)](https://ko.wikipedia.org/wiki/Search_\(\)).
+> This article is converted from Wikipedia: [Search \(노래\)](https://ko.wikipedia.org/wiki/Search_\(노래\)).
 
 
 《**Search**》는 [에픽하이](https://ko.wikipedia.org/wiki/에픽하이 "wikilink")가 [2009년](../Page/2009년.md "wikilink") [11월 2일에](../Page/11월_2일.md "wikilink") 발매한 디지털 싱글이다. [네이트](../Page/네이트.md "wikilink") 시맨틱 광고 음악으로 쓰였으며 이벤트 기간인 [11월 30일까지](../Page/11월_30일.md "wikilink") [싸이월드](../Page/싸이월드.md "wikilink")의 BGM으로 무료배포 되었다.

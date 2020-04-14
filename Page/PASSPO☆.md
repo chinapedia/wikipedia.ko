@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [PASSPO](https://ko.wikipedia.org/wiki/PASSPO).
+> This article is converted from Wikipedia: [PASSPO☆](https://ko.wikipedia.org/wiki/PASSPO☆).
 
 
 **PASSPO☆**(파스포☆)는 일본의 연예기획사인 [플래티넘 패스포트](https://ko.wikipedia.org/wiki/플래티넘_패스포트 "wikilink") 소속의 [여성](../Page/여성.md "wikilink") [아이돌 그룹이다](https://ko.wikipedia.org/wiki/아이돌_그룹 "wikilink"). 2009년부터 활동을 시작했으며, 멤버는 10명으로 시작하여 현재 7명이 활동중이다. 그룹 이름인 파스포는 소속사 이름인 패스포트(Passport;여권)에서 비롯되었으며 블로그 토론으로 결정되었다고 한다.

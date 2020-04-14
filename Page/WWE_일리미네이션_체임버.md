@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [WWE  ](https://ko.wikipedia.org/wiki/WWE__).
+> This article is converted from Wikipedia: [WWE 일리미네이션 체임버](https://ko.wikipedia.org/wiki/WWE_일리미네이션_체임버).
 
 
 ## 일리미네이션 체임버 개최한 곳
@@ -82,7 +82,7 @@
 <td><p><a href="../Page/필라델피아.md" title="wikilink">필라델피아</a></p></td>
 <td><p><a href="../Page/웰스_파고_센터.md" title="wikilink">웰스 파고 센터</a></p></td>
 <td></td>
-<td></td>
+<td><p><a href="../Page/나탈리아_나이드하트.md" title="wikilink">나탈리아</a> vs. <a href="../Page/리브_모건.md" title="wikilink">리브 모건</a> vs. 셰이나 배즐러 vs. <a href="../Page/아스카_(프로레슬링_선수).md" title="wikilink">아스카</a> vs. <a href="../Page/루비_라이엇.md" title="wikilink">루비 라이엇</a> vs. <a href="../Page/크레이지_메리_돕슨.md" title="wikilink">사라 로건</a> (WWE 러 위민스 챔피언십 도전자 결정전 (레슬마니아 36에서 타이틀전 치름), 일리미네이션 체임버 매치)</p></td>
 </tr>
 </tbody>
 </table>

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [   \~Prelude\~](https://ko.wikipedia.org/wiki/___\~Prelude\~).
+> This article is converted from Wikipedia: [우리들에게 날개는 없다 \~Prelude\~](https://ko.wikipedia.org/wiki/우리들에게_날개는_없다_\~Prelude\~).
 
 
 **우리들에게 날개는 없다 \~Prelude\~**()는 [2008년](../Page/2008년.md "wikilink") [6월 28일에](../Page/6월_28일.md "wikilink") 발매된 [일본](../Page/일본.md "wikilink")의 게임회사 [Navel의](../Page/네이블.md "wikilink") 작품이다. 당시 제작중이던 「[우리들에게 날개는 없다](../Page/우리들에게_날개는_없다.md "wikilink")」의 세계관을 보기 위한 전주곡으로 볼 수 있다.

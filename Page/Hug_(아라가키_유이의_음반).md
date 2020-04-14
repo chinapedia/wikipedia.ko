@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Hug \(  \)](https://ko.wikipedia.org/wiki/Hug_\(__\)).
+> This article is converted from Wikipedia: [Hug \(아라가키 유이의 음반\)](https://ko.wikipedia.org/wiki/Hug_\(아라가키_유이의_음반\)).
 
 
 《**hug**》는 [아라가키 유이의](../Page/아라가키_유이.md "wikilink") 두 번째 정규 앨범이다.

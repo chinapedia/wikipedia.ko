@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ JNN](https://ko.wikipedia.org/wiki/_JNN).
+> This article is converted from Wikipedia: [네트워크 JNN](https://ko.wikipedia.org/wiki/네트워크_JNN).
 
 
 **네트워크 JNN**은 일본의 민영방송국 도쿄 방송에서 1986년 9월 29일부터 1987년 10월 2일까지 방송한 뉴스 프로그램이다.

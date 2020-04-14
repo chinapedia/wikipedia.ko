@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  \(NBA\)](https://ko.wikipedia.org/wiki/__\(NBA\)).
+> This article is converted from Wikipedia: [사우스웨스트 디비전 \(NBA\)](https://ko.wikipedia.org/wiki/사우스웨스트_디비전_\(NBA\)).
 
 
 **사우스웨스트 디비전**(Southwest Division)은 [댈러스 매버릭스](../Page/댈러스_매버릭스.md "wikilink"), [휴스턴 로키츠](../Page/휴스턴_로키츠.md "wikilink"), [멤피스 그리즐리스](../Page/멤피스_그리즐리스.md "wikilink"), [뉴올리언스 펠리컨스](../Page/뉴올리언스_펠리컨스.md "wikilink"), [샌안토니오 스퍼스로](../Page/샌안토니오_스퍼스.md "wikilink") 이루어진 디비전이다.

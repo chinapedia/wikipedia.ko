@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [HDC \(\)](https://ko.wikipedia.org/wiki/HDC_\(\)).
+> This article is converted from Wikipedia: [HDC \(기업\)](https://ko.wikipedia.org/wiki/HDC_\(기업\)).
 
 
 **HDC**()는 [HDC그룹](../Page/HDC그룹.md "wikilink")의 지주회사이다. 2018년 5월 투자부문을 담당하는 지주사로 전환되었다.

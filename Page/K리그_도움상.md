@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [K ](https://ko.wikipedia.org/wiki/K_).
+> This article is converted from Wikipedia: [K리그 도움상](https://ko.wikipedia.org/wiki/K리그_도움상).
 
 
 역대 [K리그](../Page/K리그.md "wikilink")와 [리그컵](../Page/리그컵_\(대한민국\).md "wikilink"), [R리그](../Page/R리그.md "wikilink")에서 도움상을 수상한 선수들의 명단이다.

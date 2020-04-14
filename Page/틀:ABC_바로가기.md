@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:ABC ](https://ko.wikipedia.org/wiki/:ABC_).
+> This article is converted from Wikipedia: [틀:ABC 바로가기](https://ko.wikipedia.org/wiki/틀:ABC_바로가기).
 
 
 <onlyinclude>

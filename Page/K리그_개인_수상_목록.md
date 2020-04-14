@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [K   ](https://ko.wikipedia.org/wiki/K___).
+> This article is converted from Wikipedia: [K리그 개인 수상 목록](https://ko.wikipedia.org/wiki/K리그_개인_수상_목록).
 
 
 **[K리그](../Page/K리그.md "wikilink")**는 [1983년](../Page/1983년.md "wikilink") 출범한 이후로 많은 수상 기록을 남겼다. 본 문서는 개인의 수상 기록에 관한 문서이다.

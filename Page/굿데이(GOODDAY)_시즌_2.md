@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [\(GOODDAY\)  2](https://ko.wikipedia.org/wiki/\(GOODDAY\)__2).
+> This article is converted from Wikipedia: [굿데이\(GOODDAY\) 시즌 2](https://ko.wikipedia.org/wiki/굿데이\(GOODDAY\)_시즌_2).
 
 
 〈**굿데이(GOODDAY) 시즌 2**〉는 [카라의](../Page/카라_\(음악_그룹\).md "wikilink") 첫 번째 디지털 싱글이자 노래이다. 《[Rock U (1st Mini Album)](https://ko.wikipedia.org/wiki/Rock_U_\(1st_Mini_Album\) "wikilink")》의 수록곡 〈Good day〉를 재편집한 곡으로서 더욱 경쾌한 느낌을 준다.

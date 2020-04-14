@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [BYU ](https://ko.wikipedia.org/wiki/BYU_).
+> This article is converted from Wikipedia: [BYU 법학대학원](https://ko.wikipedia.org/wiki/BYU_법학대학원).
 
 
 **브리검영 대학교 로스쿨**(BYU Law School 혹은 **J. Reuben Clark Law School**)은 [미국](../Page/미국.md "wikilink") [유타주](../Page/유타주.md "wikilink") [프로보](../Page/프로보.md "wikilink")에 위치한 [브리검영 대학교](../Page/브리검영_대학교.md "wikilink")([BYU](https://ko.wikipedia.org/wiki/BYU "wikilink"))의 [법학전문대학원](../Page/법학전문대학원.md "wikilink")이다. 짧게 **JRCLS**라고 불리기도 한다. [1973년](../Page/1973년.md "wikilink")에 설립된 이 로스쿨은 전 미국 [외교관](https://ko.wikipedia.org/wiki/외교관 "wikilink") 및 [국무부](../Page/미국_국무부.md "wikilink") 차관을 지낸 [후기성도교회](https://ko.wikipedia.org/wiki/후기성도교회 "wikilink")의 관리역원인 J. Reuben Clark 주니어의 이름을 따서 만들어졌다. BYU 로스쿨은 전통적인 [J.D.(법무박사)](https://ko.wikipedia.org/wiki/미국의_로스쿨#J.D._\(Juris_Doctor\) "wikilink") 학위와 [LL.M.](https://ko.wikipedia.org/wiki/미국의_로스쿨#LL.M.\(Master_of_Laws\) "wikilink")(법학석사) 학위 프로그램을 제공하며, 4개의 공동학위(Joint Degree) 프로그램도 제공한다. 미국로스쿨협회의 회원이자 [미국 변호사 협회의](https://ko.wikipedia.org/wiki/미국_변호사_협회 "wikilink") 정식인가 대학원이다.\[1\]

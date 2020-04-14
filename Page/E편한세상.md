@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [E](https://ko.wikipedia.org/wiki/E).
+> This article is converted from Wikipedia: [E편한세상](https://ko.wikipedia.org/wiki/E편한세상).
 
 
 **e편한세상**은 [대림산업](../Page/대림산업.md "wikilink")에서 만든 아파트 전문 브랜드이다. 계열사인 삼호와 [고려개발](../Page/고려개발.md "wikilink")도 지난 2001년 11월 대림과 브랜드 사용 계약을 맺은 뒤 같은 브랜드로 주택사업을 하고 있다.\[1\]
@@ -71,7 +71,8 @@ BI에서 주황색 땅콩모양은 구름을 형상화 한다. e편한세상이 
 
   - [대림산업](../Page/대림산업.md "wikilink")
   - [고려개발](../Page/고려개발.md "wikilink")
-  - [삼호](https://ko.wikipedia.org/wiki/삼호 "wikilink")
+  - [삼호개발](https://ko.wikipedia.org/wiki/삼호개발 "wikilink")
+  - [대림건설](https://ko.wikipedia.org/wiki/대림건설 "wikilink") ()
 
 ## 각주
 

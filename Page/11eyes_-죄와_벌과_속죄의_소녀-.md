@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [11eyes -   -](https://ko.wikipedia.org/wiki/11eyes_-___-).
+> This article is converted from Wikipedia: [11eyes -죄와 벌과 속죄의 소녀-](https://ko.wikipedia.org/wiki/11eyes_-죄와_벌과_속죄의_소녀-).
 
 
 《**11eyes -죄와 벌과 속죄의 소녀-**》()는 [2008년](../Page/2008년.md "wikilink") [4월 25일](../Page/4월_25일.md "wikilink") [LASS](https://ko.wikipedia.org/wiki/LASS "wikilink")가 발매한 [비주얼 노벨이다](../Page/비주얼_노벨.md "wikilink"). 이를 원작으로 하는 애니메이션으로 부제를 제거한 **11eyes**라는 제목으로 [2009년](../Page/2009년.md "wikilink") 10월부터 12월까지 방영되었다. 애니메이션의 제작은 [도가코보](../Page/도가코보.md "wikilink")이 담당하였고, 감독은 [시모다 마사미가](https://ko.wikipedia.org/wiki/시모다_마사미 "wikilink") 맡았다.

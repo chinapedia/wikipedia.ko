@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ C. ](https://ko.wikipedia.org/wiki/_C._).
+> This article is converted from Wikipedia: [존 C. 칼훈](https://ko.wikipedia.org/wiki/존_C._칼훈).
 
 
 **존 콜드웰 칼훈**(John Caldwell Calhoun, [1782년](https://ko.wikipedia.org/wiki/1782년 "wikilink") [3월 18일](../Page/3월_18일.md "wikilink") \~ [1850년](../Page/1850년.md "wikilink") [3월 31일](../Page/3월_31일.md "wikilink"))은 [미국](../Page/미국.md "wikilink")의 7번째(10·11대) [부통령](../Page/미국의_부통령.md "wikilink")(1825\~32)이었다. 그는 재위기간 동안 [노예](https://ko.wikipedia.org/wiki/노예 "wikilink")문제, 주의 연방법 효력실시의 거부, 제한된 정부 등에 대해 주장했다. 그는 두 행정부에서 선출된 두 번째 연방 부통령이었으며, 칼훈 부통령은 [사우스캐롤라이나](https://ko.wikipedia.org/wiki/사우스캐롤라이나 "wikilink")의 잠시 [입법부](../Page/입법부.md "wikilink")를 설치한적도 있다.그러한 이유는 이 첫 주에서 백인들을 위한 [보통 선거를](https://ko.wikipedia.org/wiki/보통_선거 "wikilink") 실시하기 위해서기 때문이었다. 또한 미국 남부정치계에서도 많은 영향을 끼치고, 대변인으로서 이끌었었다.

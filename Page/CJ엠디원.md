@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [CJ](https://ko.wikipedia.org/wiki/CJ).
+> This article is converted from Wikipedia: [CJ엠디원](https://ko.wikipedia.org/wiki/CJ엠디원).
 
 
 **씨제이엠디원 주식회사**()은 [CJ제일제당](../Page/CJ제일제당.md "wikilink") 식품사업의 매장내 영업활동을 수행하고 있는 머천다이징(Merchandising)회사이며, [CJ그룹](../Page/CJ그룹.md "wikilink") 계열사이다.

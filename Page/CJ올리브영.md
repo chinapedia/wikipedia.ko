@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [CJ](https://ko.wikipedia.org/wiki/CJ).
+> This article is converted from Wikipedia: [CJ올리브영](https://ko.wikipedia.org/wiki/CJ올리브영).
 
 
 **씨제이올리브영주식회사**()는 [2002년](../Page/2002년.md "wikilink")에 설립된 [대한민국](../Page/대한민국.md "wikilink")의 유통 전문 기업이다. 헬스 & 뷰티 [드러그스토어](https://ko.wikipedia.org/wiki/드러그스토어 "wikilink")로 의사의 처방 없이 살 수 있는 의약품을 비롯한 건강용품, 화장품, 식품, 잡화 등을 판매한다. [1999년](../Page/1999년.md "wikilink") [신사역](../Page/신사역.md "wikilink") 앞에 개점한 신사점이 시초이며, 현재는 [명동](../Page/명동.md "wikilink")점이 본점이다. [대한민국](../Page/대한민국.md "wikilink")의 [드러그스토어](https://ko.wikipedia.org/wiki/드러그스토어 "wikilink") 중 대부분을 차지한다.

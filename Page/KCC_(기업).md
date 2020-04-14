@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KCC \(\)](https://ko.wikipedia.org/wiki/KCC_\(\)).
+> This article is converted from Wikipedia: [KCC \(기업\)](https://ko.wikipedia.org/wiki/KCC_\(기업\)).
 
 
 **KCC**()는 건축자재와 인테리어 소재를 생산하는 [대한민국](../Page/대한민국.md "wikilink")의 기업이자, [KCC그룹](../Page/KCC그룹.md "wikilink")의 주력 회사이다. 본사는 [서울특별시](../Page/서울특별시.md "wikilink") [서초구](../Page/서초구.md "wikilink") [사평대로](https://ko.wikipedia.org/wiki/사평대로 "wikilink") 344 (서초동)에 위치에 있다.

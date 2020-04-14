@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
+> This article is converted from Wikipedia: [영광 FC](https://ko.wikipedia.org/wiki/영광_FC).
 
 
 **영광 FC**()는 [2010년](../Page/2010년.md "wikilink")부터 [2016년](../Page/2016년.md "wikilink")까지 [K3리그에](../Page/K3리그_\(아마추어\).md "wikilink") 참가한 축구단으로, [전라남도](https://ko.wikipedia.org/wiki/전라남도 "wikilink") [영광군을](../Page/영광군_\(전라남도\).md "wikilink") 연고로 한다.\[1\] 홈 구장은 [영광스포티움](../Page/영광스포티움.md "wikilink")이고, 초대 감독으로 [정평열](https://ko.wikipedia.org/wiki/정평열 "wikilink") 감독이 선임되었다. 현재는 [K5리그](../Page/K5리그.md "wikilink")의 광주/전남리그에 참가하고 있다.

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [The Great 2008 Seotaiji Symphony](https://ko.wikipedia.org/wiki/The_Great_2008_Seotaiji_Symphony).
 
 
-《'''The Great 2008 Seotaiji Symphony '''》는 2008년 9월 27일 상암 경기장에서 개최되었던 [서태지](../Page/서태지.md "wikilink")와 로열 필하모닉의 《The Great 2008 Seotaiji Symphony》\[1\] 협연 실황 음반이다.
+《**The Great 2008 Seotaiji Symphony**》는 2008년 9월 27일 상암 경기장에서 개최되었던 [서태지](../Page/서태지.md "wikilink")와 로열 필하모닉의 《The Great 2008 Seotaiji Symphony》\[1\] 협연 실황 음반이다.
 
 ## 공연
 

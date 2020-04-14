@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [JAPAN](https://ko.wikipedia.org/wiki/JAPAN).
+> This article is converted from Wikipedia: [뉴스JAPAN](https://ko.wikipedia.org/wiki/뉴스JAPAN).
 
 
 《**뉴스JAPAN**》(, )은 [일본](../Page/일본.md "wikilink")의 [후지 TV](../Page/후지_TV.md "wikilink")(CX·FNN) 계열이 제작·방영한 [뉴스](../Page/뉴스.md "wikilink") 정보 프로그램이다.

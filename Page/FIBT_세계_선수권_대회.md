@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FIBT   ](https://ko.wikipedia.org/wiki/FIBT___).
+> This article is converted from Wikipedia: [FIBT 세계 선수권 대회](https://ko.wikipedia.org/wiki/FIBT_세계_선수권_대회).
 
 
 **FIBT 세계 챔피언십**(FIBT World Championships)은 [국제 봅슬레이 터보거닝 연맹](https://ko.wikipedia.org/wiki/국제_봅슬레이_터보거닝_연맹 "wikilink")(FIBT)이 주관하는 세계 [봅슬레이](../Page/봅슬레이.md "wikilink") 및 [스켈레톤](../Page/스켈레톤.md "wikilink") 대회이다. [동계 올림픽](../Page/동계_올림픽.md "wikilink") 개최 연도를 제외한 매년 열리며, 첫 대회는 [1930년에](https://ko.wikipedia.org/wiki/:en:FIBT_World_Championships_1930 "wikilink") 개최되었다. 최초에 남자 4인 봅슬레이 경기만으로 시작되었던 것이 [1931년에는](https://ko.wikipedia.org/wiki/:en:FIBT_World_Championships_1931 "wikilink") 남자 2인 봅슬레이 경기가 추가되었으며, [1982년에는](https://ko.wikipedia.org/wiki/:en:FIBT_World_Championships_1982 "wikilink") 남자 스켈레톤 챔피언십이 봅슬레이 챔피언십과 개별적으로 시작되었다. 여자 봅슬레이 및 스켈레톤 대회는 [2000년부터](https://ko.wikipedia.org/wiki/:en:FIBT_World_Championships_2000 "wikilink") 신설되었으며, 이후 [2004년부터는](https://ko.wikipedia.org/wiki/:en:FIBT_World_Championships_2004 "wikilink") 남자 봅슬레이 대회와 통합되었다. [2007년](https://ko.wikipedia.org/wiki/:en:FIBT_World_Championships_2007 "wikilink") 대회부터는 혼성 봅슬레이 및 스켈레톤 경기가 추가되었다.

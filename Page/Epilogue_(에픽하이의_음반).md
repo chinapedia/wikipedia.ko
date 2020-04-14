@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Epilogue \( \)](https://ko.wikipedia.org/wiki/Epilogue_\(_\)).
+> This article is converted from Wikipedia: [Epilogue \(에픽하이의 음반\)](https://ko.wikipedia.org/wiki/Epilogue_\(에픽하이의_음반\)).
 
 
 **Epilogue**는 [2010년](../Page/2010년.md "wikilink") [3월 9일](../Page/3월_9일.md "wikilink") 발매된 [에픽하이](https://ko.wikipedia.org/wiki/에픽하이 "wikilink")의 스페셜 음반이다. 전 소속사 [울림 엔터테인먼트와](https://ko.wikipedia.org/wiki/울림_엔터테인먼트 "wikilink") 현 소속사 [맵더소울](../Page/맵더소울.md "wikilink")이 합병하여 발매하고, [DJ 투컷이](../Page/DJ_투컷.md "wikilink") 군복무로 빠져 2인조로 활동한 첫 음반이다. [DJ 투컷의](../Page/DJ_투컷.md "wikilink") 군 복무에 따라 [타블로](../Page/타블로.md "wikilink")가 작곡한 신곡과 함께 기존에 만들었던 미공개곡을 수록하였다. 이 음반 이후로 에픽하이로서의 활동은 [2012년](../Page/2012년.md "wikilink")까지 중단하고, [2013년](../Page/2013년.md "wikilink")에 컴백 할 예정이라고 밝혔다.\[1\] 하지만 에픽하이는 2012년 10월에 정규 7집으로 컴백했다.
@@ -25,7 +25,7 @@
 
 [3월 3일](../Page/3월_3일.md "wikilink") 새벽에 타블로가 타이틀 곡은 "Run"이라고 밝혔다.\[27\] 또한 [엠군](https://ko.wikipedia.org/wiki/엠군 "wikilink"), [유튜브](../Page/유튜브.md "wikilink"), [아프리카](../Page/아프리카TV.md "wikilink") 이 세 동영상 사이트에 [인피니트](../Page/인피니트.md "wikilink")의 한 멤버인 엘(L)을 주인공으로 하고 다른 멤버들이 출연한 타이틀 곡의 뮤직비디오 티져 영상을 동시에 공개하였다. 뮤직비디오의 티져 영상은 세 편으로 나뉘어 공개될 예정이며 음반 발매 당일 날 《[유희열의 스케치북](../Page/유희열의_스케치북.md "wikilink")》 녹화를 시작으로 활동을 시작한다고 밝혔다.\[28\] 당일 오전부터 트위터를 통해 음반이 마스터링 작업에 돌입했음을 알렸고 음반 발매 후부터 송 노트를 게시하겠다고 밝혔다.\[29\] 오후에는 티저 첫 번째 편인 [타블로](../Page/타블로.md "wikilink") 편을 공개하였다.\[30\] 다음 날, 두 번째 "미쓰라 진 편"이 나왔다.\[31\] 마지막 3월 5일에 세 번째 티저인 "Run" 뮤직비디오 티저와 함께 노래의 일부분을 공개했다.\[32\]
 
-[네이버](../Page/네이버.md "wikilink") 웹툰 《싸우자 귀신아》의 작가인 임인스는 "R U N"이라는 제목의 글에 에픽하이 새 음반 소개 만화를 그렸다.\[33\] 또한 [맵더소울](../Page/맵더소울.md "wikilink")에는 이 만화를 [영어](../Page/영어.md "wikilink")로 번역한 티저 만화가 올라왔다.\[34\]\[35\] 또한 절친한 사이로 알려진 [코요태](https://ko.wikipedia.org/wiki/코요태 "wikilink")의 [빽가](https://ko.wikipedia.org/wiki/빽가 "wikilink")는 에픽하이의 포스터 촬영을 맡았다.\[36\]
+[네이버](../Page/네이버.md "wikilink") 웹툰 《싸우자 귀신아》의 작가인 임인스는 "R U N"이라는 제목의 글에 에픽하이 새 음반 소개 만화를 그렸다.\[33\] 또한 [맵더소울](../Page/맵더소울.md "wikilink")에는 이 만화를 [영어](../Page/영어.md "wikilink")로 번역한 티저 만화가 올라왔다.\[34\]\[35\] 또한 절친한 사이로 알려진 [코요태](https://ko.wikipedia.org/wiki/코요태 "wikilink")의 [빽가](../Page/빽가.md "wikilink")는 에픽하이의 포스터 촬영을 맡았다.\[36\]
 
 [3월 9일](../Page/3월_9일.md "wikilink") 발매 당일 새벽에 타이틀곡 "Run"의 싱크가 어긋난 불법 뮤직비디오가 유출되어 파장을 일으켰다.\[37\] 그 영향으로 에픽하이는 공식 뮤직비디오를 다소 일찍 공개했고\[38\], 타블로와 미쓰라 진은 뮤직비디오가 유출된데에 격앙된 표현으로 실망감을 감추지 않았다.\[39\]\[40\]
 

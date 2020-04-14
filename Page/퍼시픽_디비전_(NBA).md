@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  \(NBA\)](https://ko.wikipedia.org/wiki/__\(NBA\)).
+> This article is converted from Wikipedia: [퍼시픽 디비전 \(NBA\)](https://ko.wikipedia.org/wiki/퍼시픽_디비전_\(NBA\)).
 
 
 **퍼시픽 디비전**(Pacific Division)은 [골든스테이트 워리어스](../Page/골든스테이트_워리어스.md "wikilink"), [로스앤젤레스 클리퍼스](../Page/로스앤젤레스_클리퍼스.md "wikilink"), [로스앤젤레스 레이커스](../Page/로스앤젤레스_레이커스.md "wikilink"), [피닉스 선스](../Page/피닉스_선스.md "wikilink"), [새크라멘토 킹스로](../Page/새크라멘토_킹스.md "wikilink") 이루어진 디비전이다.

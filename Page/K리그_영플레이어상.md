@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [K ](https://ko.wikipedia.org/wiki/K_).
+> This article is converted from Wikipedia: [K리그 영플레이어상](https://ko.wikipedia.org/wiki/K리그_영플레이어상).
 
 
 **K리그 영플레이어상**은 [K리그](../Page/K리그.md "wikilink")에서 활약하는 선수 중 국내외 프로 리그에서 출전한 햇수가 3년 이내인 만 23세 이하의 북한국적, 해외동포를 포함한 대한민국 국적 선수를 대상으로 수여한다. 단, 해당 시즌 리그 경기 가운데 절반 이상을 출전한 선수만이 수상할 수 있다.

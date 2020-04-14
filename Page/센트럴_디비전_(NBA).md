@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  \(NBA\)](https://ko.wikipedia.org/wiki/__\(NBA\)).
+> This article is converted from Wikipedia: [센트럴 디비전 \(NBA\)](https://ko.wikipedia.org/wiki/센트럴_디비전_\(NBA\)).
 
 
 **센트럴 디비전**(Central Division)은 [시카고 불스](../Page/시카고_불스.md "wikilink"), [클리블랜드 캐벌리어스](../Page/클리블랜드_캐벌리어스.md "wikilink"), [디트로이트 피스턴스](../Page/디트로이트_피스턴스.md "wikilink"), [인디애나 페이서스](../Page/인디애나_페이서스.md "wikilink"), [밀워키 벅스로](../Page/밀워키_벅스.md "wikilink") 이루어진 디비전이다.

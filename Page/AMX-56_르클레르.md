@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [AMX-56 ](https://ko.wikipedia.org/wiki/AMX-56_).
+> This article is converted from Wikipedia: [AMX-56 르클레르](https://ko.wikipedia.org/wiki/AMX-56_르클레르).
 
 
 **AMX-56 르클레르**(AMX-56 Leclerc)전차는 세계 최초의 3.5세대 전차이며 현재 [프랑스 육군의](https://ko.wikipedia.org/wiki/프랑스_육군 "wikilink") [주력 전차이다](https://ko.wikipedia.org/wiki/주력_전차 "wikilink"). 제2차 세계대전 당시 [파리를 독일군으로부터 해방시킨](../Page/파리_해방.md "wikilink") [필리프 르클레르](https://ko.wikipedia.org/wiki/필리프_르클레르 "wikilink") 장군의 이름을 따서 이름이 지어졌다.

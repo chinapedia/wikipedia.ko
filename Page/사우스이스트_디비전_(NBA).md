@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  \(NBA\)](https://ko.wikipedia.org/wiki/__\(NBA\)).
+> This article is converted from Wikipedia: [사우스이스트 디비전 \(NBA\)](https://ko.wikipedia.org/wiki/사우스이스트_디비전_\(NBA\)).
 
 
 **사우스이스트 디비전**(Southeast Division)은 [애틀랜타 호크스](../Page/애틀랜타_호크스.md "wikilink"), [샬럿 호니츠](../Page/샬럿_호니츠.md "wikilink"), [마이애미 히트](../Page/마이애미_히트.md "wikilink"), [올랜도 매직](../Page/올랜도_매직.md "wikilink"), [워싱턴 위저즈로](../Page/워싱턴_위저즈.md "wikilink") 이루어진 디비전이다.

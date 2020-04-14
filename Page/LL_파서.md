@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [LL ](https://ko.wikipedia.org/wiki/LL_).
+> This article is converted from Wikipedia: [LL 파서](https://ko.wikipedia.org/wiki/LL_파서).
 
 
 **LL 파서**(LL parser)는 [문맥 자유 문법의](https://ko.wikipedia.org/wiki/문맥_자유_문법 "wikilink") 일부를 [파싱](https://ko.wikipedia.org/wiki/파싱 "wikilink")할 수 있는 [하향식 파서이다](https://ko.wikipedia.org/wiki/하향식_파싱 "wikilink"). LL 파서는 입력 문자열의 왼쪽(Left)에서부터 파싱을 시작하여, 좌측유도(Leftmost derivation) 방식으로 동작한다. LL 파서로 파싱이 가능한 문법은 LL 문법이라고 부른다.

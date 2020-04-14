@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [ J. ](https://ko.wikipedia.org/wiki/_J._).
+> This article is converted from Wikipedia: [토머스 J. 힉스](https://ko.wikipedia.org/wiki/토머스_J._힉스).
 
 
-**토마스 J. 힉스** ( [1875년](../Page/1875년.md "wikilink") [7월 7일](../Page/7월_7일.md "wikilink") \~ [1963년](../Page/1963년.md "wikilink") [12월 2일](../Page/12월_2일.md "wikilink"))은 [미국](../Page/미국.md "wikilink")의 [육상](https://ko.wikipedia.org/wiki/육상 "wikilink") 선수였으며 1904년에 [올림픽](https://ko.wikipedia.org/wiki/올림픽 "wikilink") [마라톤](../Page/마라톤.md "wikilink") 종목에서 금메달을 따냈다.
+**토마스 J. 힉스**( [1875년](../Page/1875년.md "wikilink") [7월 7일](../Page/7월_7일.md "wikilink") \~ [1963년](../Page/1963년.md "wikilink") [12월 2일](../Page/12월_2일.md "wikilink"))은 [미국](../Page/미국.md "wikilink")의 [육상](https://ko.wikipedia.org/wiki/육상 "wikilink") 선수였으며 1904년에 [올림픽](https://ko.wikipedia.org/wiki/올림픽 "wikilink") [마라톤](../Page/마라톤.md "wikilink") 종목에서 금메달을 따냈다.
 
 힉스는 [잉글랜드](../Page/잉글랜드.md "wikilink")에서 태어나서 [매사추세츠주](../Page/매사추세츠주.md "wikilink")의 [케임브리지에서](../Page/케임브리지_\(매사추세츠주\).md "wikilink") 살았으며 1904년에 열린 [보스턴 마라톤에서](../Page/보스턴_마라톤.md "wikilink") 2위를 차지했으며 [미주리주](../Page/미주리주.md "wikilink")의 [세인트 루이스에서](https://ko.wikipedia.org/wiki/세인트_루이스 "wikilink") 열린 EXPO의 한 부분으로 열린 [1904년 하계 올림픽에서](../Page/1904년_하계_올림픽.md "wikilink") 주목할 만한 경주를 펼치며 우승했다.
 

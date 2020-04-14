@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SAR ](https://ko.wikipedia.org/wiki/SAR_).
+> This article is converted from Wikipedia: [SAR 상군](https://ko.wikipedia.org/wiki/SAR_상군).
 
 
 **SAR 상군**은 [부등편모조류](../Page/부등편모조류.md "wikilink")(Stramenopiles)와 [피하낭류](../Page/피하낭류.md "wikilink")(Alveolates) 그리고 [리자리아](../Page/리자리아.md "wikilink")(Rhizaria)를 포함하고 있는 생물군이다.\[1\]\[2\]\[3\]\[4\]

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  \(NBA\)](https://ko.wikipedia.org/wiki/__\(NBA\)).
+> This article is converted from Wikipedia: [노스웨스트 디비전 \(NBA\)](https://ko.wikipedia.org/wiki/노스웨스트_디비전_\(NBA\)).
 
 
 **노스웨스트 디비전**(Northwest Division)은 [덴버 너기츠](../Page/덴버_너기츠.md "wikilink"), [미네소타 팀버울브스](../Page/미네소타_팀버울브스.md "wikilink"), [포틀랜드 트레일블레이저스](../Page/포틀랜드_트레일블레이저스.md "wikilink"), [오클라호마시티 선더](../Page/오클라호마시티_선더.md "wikilink"), [유타 재즈로](../Page/유타_재즈.md "wikilink") 이루어진 디비전이다.

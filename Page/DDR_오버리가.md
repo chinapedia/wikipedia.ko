@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [DDR ](https://ko.wikipedia.org/wiki/DDR_).
+> This article is converted from Wikipedia: [DDR 오버리가](https://ko.wikipedia.org/wiki/DDR_오버리가).
 
 
 <table>

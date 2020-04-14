@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [K ](https://ko.wikipedia.org/wiki/K_).
+> This article is converted from Wikipedia: [K리그 감독상](https://ko.wikipedia.org/wiki/K리그_감독상).
 
 
 **K리그 감독상**은 역대 [K리그](../Page/K리그.md "wikilink")에서 올해의 감독상을 받은 프로축구단 감독들의 명단이다.

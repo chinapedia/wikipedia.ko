@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ XNA](https://ko.wikipedia.org/wiki/_XNA).
+> This article is converted from Wikipedia: [마이크로소프트 XNA](https://ko.wikipedia.org/wiki/마이크로소프트_XNA).
 
 
 **마이크로소프트 XNA**(Microsoft XNA)는 [멀티플랫폼](https://ko.wikipedia.org/wiki/멀티플랫폼 "wikilink") 환경에서 손쉬운 게임 개발할 수 있는 개발도구이다. 개발환경으로 닷넷환경에서 [C\#언어를](../Page/C_샤프.md "wikilink") 주로 사용한다. 2004년 GDC(Game Developers Conference)를 통하여 발표되었으며, 현재 4.0 버전까지 개발되었다. XNA의 주요 지향점은 크로스 플랫폼과 멀티 플랫폼환경이며, 이는 XNA를 이용하여 개발된 게임 소스를 여러 플랫폼에서 이용할 수 있다는 의미이다. 현재 XNA 개발 환경은 PC와 [엑스박스 360](../Page/엑스박스_360.md "wikilink"), [Zune](https://ko.wikipedia.org/wiki/Zune "wikilink"), [윈도우 폰까지](../Page/윈도우_폰.md "wikilink") 지원한다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  \(NBA\)](https://ko.wikipedia.org/wiki/__\(NBA\)).
+> This article is converted from Wikipedia: [미드웨스트 디비전 \(NBA\)](https://ko.wikipedia.org/wiki/미드웨스트_디비전_\(NBA\)).
 
 
 **미드웨스트 디비전**(Midwest Division)은 [샬럿 밥캐츠가](../Page/샬럿_호니츠.md "wikilink") 창단되기 전 29개팀으로 리그를 진행할 때 [NBA](../Page/전미_농구_협회.md "wikilink") 서부 컨퍼런스에 존재했던 디비전이다.

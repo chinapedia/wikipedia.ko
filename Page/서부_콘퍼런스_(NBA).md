@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  \(NBA\)](https://ko.wikipedia.org/wiki/__\(NBA\)).
+> This article is converted from Wikipedia: [서부 콘퍼런스 \(NBA\)](https://ko.wikipedia.org/wiki/서부_콘퍼런스_\(NBA\)).
 
 
 **서부 콘퍼런스**(Western Conference)에는 총 15개 팀으로 3개 디비전에 5팀으로 나뉘어 있다. 1947년부터 1970년까지는 **서부 디비전**(Western Division)였다.

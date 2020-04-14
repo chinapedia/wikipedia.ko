@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ EOS-1D Mark IV](https://ko.wikipedia.org/wiki/_EOS-1D_Mark_IV).
+> This article is converted from Wikipedia: [캐논 EOS-1D Mark IV](https://ko.wikipedia.org/wiki/캐논_EOS-1D_Mark_IV).
 
 
 **캐논 EOS-1D 마크 IV**()는 1,610만 [유효 화소를](https://ko.wikipedia.org/wiki/유효_화소 "wikilink") 가지는 전문가용 [디지털 SLR](https://ko.wikipedia.org/wiki/디지털_SLR "wikilink") [카메라](https://ko.wikipedia.org/wiki/카메라 "wikilink")이다. [캐논 EOS-1D Mark III의](../Page/캐논_EOS-1D_Mark_III.md "wikilink") 후속 모델이다. [2009년](../Page/2009년.md "wikilink") 10월에 출시되었다. 27.9 × 18.6 mm 크기의 [CMOS 이미지 센서를](https://ko.wikipedia.org/wiki/CMOS_이미지_센서 "wikilink") 가지고 있으며, 초당 10 프레임을 촬영할 수 있다. 캐논의 DSLR에서 플래그십으로는 처음으로 동영상 기능을 탑재하였고, 확장 감도 102,400을 지원하는 것이 특징이다.

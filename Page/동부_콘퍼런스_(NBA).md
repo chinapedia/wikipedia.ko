@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  \(NBA\)](https://ko.wikipedia.org/wiki/__\(NBA\)).
+> This article is converted from Wikipedia: [동부 콘퍼런스 \(NBA\)](https://ko.wikipedia.org/wiki/동부_콘퍼런스_\(NBA\)).
 
 
 **동부 콘퍼런스**(Eastern Conference)에는 총 15개 팀으로 3개 디비전에 5팀으로 나뉘어 있다. 1947년부터 1970년까지는 **동부 디비전**(Eastern Division)이었다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [WWE ](https://ko.wikipedia.org/wiki/WWE_).
+> This article is converted from Wikipedia: [WWE 스맥다운](https://ko.wikipedia.org/wiki/WWE_스맥다운).
 
 
 **프라이데이 나이트 스맥다운** 또는 **WWE 스맥다운**(WWE SmackDown)은 WWE의 3대 브랜드중의 하나이자, 매주 화요일 혹은 금요일에 방송하고 있는 프로그램이다. 2016년에는 그 동안 생방송 했던 채널인 사이파이에서 NBC유니버셜 케이블의 같은 계열사 USA네트워크로 이적하였다. 2018년 6월 [WWE](https://ko.wikipedia.org/wiki/WWE "wikilink")측은 [21세기 폭스와의](../Page/21세기_폭스.md "wikilink") 계약으로 2019년 10월부터 [폭스 스포츠에서](https://ko.wikipedia.org/wiki/폭스_스포츠 "wikilink") 이적할 예정이다. 대한민국에서는 [iTV 경인방송에서](https://ko.wikipedia.org/wiki/iTV_경인방송 "wikilink") 방영하다가 [SBS 스포츠와](../Page/SBS_스포츠.md "wikilink") [Xports](../Page/Xports.md "wikilink")로 옮겨 편성하였고 [KBS N 스포츠까지](../Page/KBS_N_스포츠.md "wikilink") 동시편성하다가 결국 폐지되었다. 그 다음해 [티캐스트](../Page/티캐스트.md "wikilink")의 계열채널인 [FX](https://ko.wikipedia.org/wiki/FX "wikilink")에서 편성하여 방송하다가 [IB 스포츠로](../Page/IB_스포츠_\(텔레비전_채널\).md "wikilink") 방영권을 옮겨 현재까지 방송하고 있다. 또한 국내 전용 슬로건은 **푸른 정글** 미국 현지에서 2016년 7월 19일부터 완전히 생방송으로 전환되었다. 한국 현지에서는 [WWE](https://ko.wikipedia.org/wiki/WWE "wikilink")와 [IB 스포츠와의](../Page/IB_스포츠_\(텔레비전_채널\).md "wikilink") 파트너십 연장 체결로 2018년 1월 3일부터 한국어 생중계로 전환하여 방송되었다.
@@ -399,7 +399,7 @@
 | 타이틀                                                         | 챔피언                                                                       | 획득한 날짜        | 획득한 장소                                                              | 전 챔피언                                                     |
 | ----------------------------------------------------------- | ------------------------------------------------------------------------- | ------------- | ------------------------------------------------------------------- | --------------------------------------------------------- |
 | [WWE 유니버셜 챔피언](../Page/WWE_유니버셜_챔피언십.md "wikilink")         | [골드버그](../Page/빌_골드버그.md "wikilink")                                      | 2020년 2월 27일  | [WWE 슈퍼 쇼-다운](https://ko.wikipedia.org/wiki/WWE_슈퍼_쇼-다운 "wikilink") | [브레이 와이어트](../Page/윈덤_로턴다.md "wikilink")                  |
-| [WWE 인터콘티넨털 챔피언](../Page/WWE_인터콘티넨털_챔피언십.md "wikilink")     | [브라운 스트로우먼](../Page/브라운_스트로우먼.md "wikilink")                              | 2020년 1월 31일  | [WWE 스맥다운](../Page/WWE_스맥다운.md "wikilink")                          | [나카무라 신스케](../Page/나카무라_신스케.md "wikilink")                |
+| [WWE 인터콘티넨털 챔피언](../Page/WWE_인터콘티넨털_챔피언십.md "wikilink")     | [새미 제인](../Page/엘_제네리코.md "wikilink")                                     | 2020년 3월 8일   | [WWE 일리미네이션 체임버](../Page/WWE_일리미네이션_체임버.md "wikilink")              | [브라운 스트로우먼](../Page/브라운_스트로우먼.md "wikilink")              |
 | [WWE 스맥다운 위민스 챔피언](../Page/WWE_스맥다운_위민스_챔피언십.md "wikilink") | [베일리](../Page/베일리_\(프로레슬링_선수\).md "wikilink")                             | 2019년 10월 11일 | [WWE 스맥다운](../Page/WWE_스맥다운.md "wikilink")                          | [샬럿 플레어](https://ko.wikipedia.org/wiki/샬럿_플레어 "wikilink") |
 | [WWE 스맥다운 태그팀 챔피언](../Page/WWE_스맥다운_태그팀_챔피언십.md "wikilink") | [더 미즈](../Page/더_미즈.md "wikilink") & [존 모리슨](../Page/존_모리슨.md "wikilink") | 2020년 2월 27일  | [WWE 슈퍼 쇼-다운](https://ko.wikipedia.org/wiki/WWE_슈퍼_쇼-다운 "wikilink") | [뉴 데이](../Page/더_뉴데이.md "wikilink")                       |
 
@@ -429,7 +429,7 @@
   - [보 댈러스](../Page/보_댈러스.md "wikilink")
   - [브라운 스트로우먼](../Page/브라운_스트로우먼.md "wikilink")
   - [브레이 와이어트](../Page/윈덤_로턴다.md "wikilink")
-  - [새미 재인](../Page/엘_제네리코.md "wikilink")
+  - [새미 제인](../Page/엘_제네리코.md "wikilink")
   - [세자로](../Page/클라우디오_카스타뇰리.md "wikilink")
   - [쇼티 G](../Page/채드_게이블.md "wikilink")
   - [쉐이머스](../Page/쉐이머스_\(프로레슬링_선수\).md "wikilink")

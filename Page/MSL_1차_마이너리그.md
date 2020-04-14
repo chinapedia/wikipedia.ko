@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [MSL 1 ](https://ko.wikipedia.org/wiki/MSL_1_).
+> This article is converted from Wikipedia: [MSL 1차 마이너리그](https://ko.wikipedia.org/wiki/MSL_1차_마이너리그).
 
 
 **MSL 1차 마이너리그**(MSL 1st Minorleague)는 TG삼보 MSL - 메이저진출전으로 개최되었고, [MSL](../Page/MBC게임_스타리그.md "wikilink") 예선전 폐지로, 메이저 리그인 [MBC게임 스타리그로](../Page/MBC게임_스타리그.md "wikilink") 진출하기 위한 리그였다. 이후, [MSL 마이너리그로](../Page/MSL_마이너리그.md "wikilink") 변경되면서, 마이너결정전으로 바뀌었다.

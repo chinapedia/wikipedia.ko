@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [2 BC   ](https://ko.wikipedia.org/wiki/2_BC___).
+> This article is converted from Wikipedia: [2회 BC카드배 월드 바둑 챔피언십](https://ko.wikipedia.org/wiki/2회_BC카드배_월드_바둑_챔피언십).
 
 
 **2회 비씨카드배 월드바둑챔피언십**은 전 세계의 프로/아마 바둑 기사들이 참가하는 바둑기전이다.

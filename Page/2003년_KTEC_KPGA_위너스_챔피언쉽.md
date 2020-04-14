@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [2003 KTEC KPGA  ](https://ko.wikipedia.org/wiki/2003_KTEC_KPGA__).
+> This article is converted from Wikipedia: [2003년 KTEC KPGA 위너스 챔피언쉽](https://ko.wikipedia.org/wiki/2003년_KTEC_KPGA_위너스_챔피언쉽).
 
 
 **2003년 KTEC KPGA 위너스 챔피언쉽**(2003 KTEC KPGA Winners Championship)은 2003년 [MBC 게임의](../Page/MBC_게임.md "wikilink") 이벤트 형식의 대회이다.

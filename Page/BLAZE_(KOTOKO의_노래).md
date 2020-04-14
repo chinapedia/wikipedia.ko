@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [BLAZE \(KOTOKO \)](https://ko.wikipedia.org/wiki/BLAZE_\(KOTOKO_\)).
+> This article is converted from Wikipedia: [BLAZE \(KOTOKO의 노래\)](https://ko.wikipedia.org/wiki/BLAZE_\(KOTOKO의_노래\)).
 
 
 《**BLAZE**》는 [KOTOKO](../Page/KOTOKO.md "wikilink")의 메이져 11번째 싱글이다

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:JR ](https://ko.wikipedia.org/wiki/:JR_).
+> This article is converted from Wikipedia: [틀:JR 노선색](https://ko.wikipedia.org/wiki/틀:JR_노선색).
 
 
 <onlyinclude>\#{{\#switch: |E = 0a8c0d |JT|JU|E-TOKA = FFA500 |JO|E-YOKO = 0070B9 |JK|E-KETO = 00BFFF |JH|JY|E-YAMA = 9ACD32 |JC|JM|E-CHUO = FF4500 |JN|JI|JB|E-SOBU = FFD700 |JA|E-SAIK = 2E8B57 |JJ|E-JOBA = 3CB371 |JL = 808080 |JE|E-KEYO = DC143C |JS|E-SHON = FF0000 |E-HACH = a8a39d |E-NARI = 00b261 |E-SAGA = 009793 |E-MITO = 0072bc |E-SOTO = db4028 |E-UCHI = 00b9f1 |E-KURU = 00b5ad |E-BOSO = ffc20d |E-KASH = c56e2e |E-AGAT = 0f5474 |E-TADA = 008dd1 |E-IYAM = 7bc24b |E-UETS = 16c0e9 |E-BANW = cb7b35 |E-YAHI = 922790 |E-OU = f68b1e |E-BANE = c71585 |TM = AE0378

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ PBKA](https://ko.wikipedia.org/wiki/_PBKA).
+> This article is converted from Wikipedia: [탈리스 PBKA](https://ko.wikipedia.org/wiki/탈리스_PBKA).
 
 
 **탈리스 PBKA**는 [탈리스](../Page/탈리스.md "wikilink") 서비스에 사용되는 [파리](https://ko.wikipedia.org/wiki/파리_\(도시\) "wikilink")(**P**aris), [브뤼셀](../Page/브뤼셀.md "wikilink")(**B**ruxelles/**B**russel), [쾰른](../Page/쾰른.md "wikilink")(**K**öln), [암스테르담](../Page/암스테르담.md "wikilink")(**A**msterdam)을 운행할 수 있는 고속열차이다. PBKA는 이 네 도시 이름의 머리글자에서 따왔다. 총 4종류의 전기 방식을 지원하며, 4개 국가의 신호 시스템을 모두 지원한다.

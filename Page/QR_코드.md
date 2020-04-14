@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [QR ](https://ko.wikipedia.org/wiki/QR_).
+> This article is converted from Wikipedia: [QR 코드](https://ko.wikipedia.org/wiki/QR_코드).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:QR_code_for_mobile_English_Wikipedia.svg "wikilink")

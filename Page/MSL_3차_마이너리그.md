@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [MSL 3 ](https://ko.wikipedia.org/wiki/MSL_3_).
+> This article is converted from Wikipedia: [MSL 3차 마이너리그](https://ko.wikipedia.org/wiki/MSL_3차_마이너리그).
 
 
 **MSL 2차 마이너리그**는 [Spris MSL 2004의](../Page/Spris_MSL_2004.md "wikilink") 진출자를 가리기 위한 대회이다.

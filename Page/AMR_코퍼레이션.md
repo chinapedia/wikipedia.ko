@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [AMR ](https://ko.wikipedia.org/wiki/AMR_).
+> This article is converted from Wikipedia: [AMR 코퍼레이션](https://ko.wikipedia.org/wiki/AMR_코퍼레이션).
 
 
 **AMR 코퍼레이션**()은 [미국](../Page/미국.md "wikilink") [텍사스주](../Page/텍사스주.md "wikilink")의 [포트워스](../Page/포트워스.md "wikilink")에 본사를 둔 민간 항공 운송업체로 [아메리칸 항공과](../Page/아메리칸_항공.md "wikilink") [아메리칸 이글 항공의](https://ko.wikipedia.org/wiki/아메리칸_이글_항공 "wikilink") 모기업에 속한다.

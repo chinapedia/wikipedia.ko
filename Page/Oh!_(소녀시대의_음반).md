@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Oh! \( \)](https://ko.wikipedia.org/wiki/Oh!_\(_\)).
+> This article is converted from Wikipedia: [Oh! \(소녀시대의 음반\)](https://ko.wikipedia.org/wiki/Oh!_\(소녀시대의_음반\)).
 
 
 《**Oh\!**》는 [대한민국](../Page/대한민국.md "wikilink")의 여자 그룹 [소녀시대](../Page/소녀시대.md "wikilink")의 두 번째 정규 음반이다.\[1\]\[2\] 2010년 1월 28일 [SM 엔터테인먼트를](../Page/SM_엔터테인먼트.md "wikilink") 통해 발매되었다. [2010년](../Page/2010년.md "wikilink") [1월 28일에](../Page/1월_28일.md "wikilink") 발매한 앨범과 동일한 제목의 노래가 타이틀 곡이며, 후속곡으로 "Run Devil Run"을 내놓으면서 리패키지 앨범으로 재발매하였다.

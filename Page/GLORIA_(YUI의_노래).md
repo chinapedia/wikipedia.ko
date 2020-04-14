@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [GLORIA \(YUI \)](https://ko.wikipedia.org/wiki/GLORIA_\(YUI_\)).
+> This article is converted from Wikipedia: [GLORIA \(YUI의 노래\)](https://ko.wikipedia.org/wiki/GLORIA_\(YUI의_노래\)).
 
 
 〈**GLORIA**〉(글로리아)는 [일본](../Page/일본.md "wikilink") [싱어송라이터](https://ko.wikipedia.org/wiki/싱어송라이터 "wikilink") [YUI](https://ko.wikipedia.org/wiki/YUI "wikilink")의 열 다섯 번째 싱글이다. 이 싱글은 2010년 1월 20일에 발매되었다. 이 싱글이 오리콘 주간 차트 1위를 기록하여, YUI가 [우타다 히카루](../Page/우타다_히카루.md "wikilink") 이래로 일본 [싱어송라이터](https://ko.wikipedia.org/wiki/싱어송라이터 "wikilink") 사상 2번째로 싱글 4작 연속 오리콘 주간 차트 1위를 차지하였다. 이 싱글의 타이틀 곡 GLORIA는 [베네세](https://ko.wikipedia.org/wiki/베네세 "wikilink")의 [진연세미나 고교강좌의](https://ko.wikipedia.org/wiki/진연세미나_고교강좌 "wikilink") CM송으로 타이업되었다.

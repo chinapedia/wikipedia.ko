@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [HSL ](https://ko.wikipedia.org/wiki/HSL_).
+> This article is converted from Wikipedia: [HSL 자위트](https://ko.wikipedia.org/wiki/HSL_자위트).
 
 
-**HSL 자위트** ()는 [네덜란드](../Page/네덜란드.md "wikilink")와 [벨기에](../Page/벨기에.md "wikilink")를 잇는 [고속선이다](../Page/고속철도.md "wikilink"). 벨기에의 [HSL 4와](../Page/HSL_4.md "wikilink") 함께 [스히폴-안트베르펀 고속선을](https://ko.wikipedia.org/wiki/스히폴-안트베르펀_고속선 "wikilink") 구성한다. 2007년에 영업을 시작할 예정이었으나, 2009년 9월 6일 개통식 이후 9월 7일에 영업을 시작하였다.\[1\]
+**HSL 자위트**()는 [네덜란드](../Page/네덜란드.md "wikilink")와 [벨기에](../Page/벨기에.md "wikilink")를 잇는 [고속선이다](../Page/고속철도.md "wikilink"). 벨기에의 [HSL 4와](../Page/HSL_4.md "wikilink") 함께 [스히폴-안트베르펀 고속선을](https://ko.wikipedia.org/wiki/스히폴-안트베르펀_고속선 "wikilink") 구성한다. 2007년에 영업을 시작할 예정이었으나, 2009년 9월 6일 개통식 이후 9월 7일에 영업을 시작하였다.\[1\]
 
 민관 협력으로 진행되었으며 2030년까지 인프라스피드에서 관리 및 유지보수를 맡게 된다. 지멘스에서 ETCS 레벨 2 신호를 설치하였고, 비상시에는 ETCS 레벨 1로 작동할 수 있다.
 

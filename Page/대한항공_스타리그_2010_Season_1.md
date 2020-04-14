@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  2010 Season 1](https://ko.wikipedia.org/wiki/__2010_Season_1).
+> This article is converted from Wikipedia: [대한항공 스타리그 2010 Season 1](https://ko.wikipedia.org/wiki/대한항공_스타리그_2010_Season_1).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:KOREAN_AIR_STARLEAGUE.png "wikilink") **대한항공 스타리그 2010 시즌 1**(Korean Air Starleague 2010 Season 1)은 온게임넷과 스포츠조선의 공동 주최로 이루어지는 이스포츠에서 권위 있는 스타크래프트 개인전인 스타리그의 29번째 대회이며 2010년에 열린 첫 번째 스타리그이다.
@@ -149,7 +149,7 @@
 | 조  | 매치 1                                                          | 매치 2  |
 | A조 | **[김구현](../Page/김구현_\(프로게이머\).md "wikilink")**                | **2** |
 | B조 | **[김상욱](https://ko.wikipedia.org/wiki/김상욱 "wikilink")**       | **2** |
-| C조 | [박상우](https://ko.wikipedia.org/wiki/박상우_\(1989년\) "wikilink") | 0     |
+| C조 | [박상우](../Page/박상우_\(프로게이머\).md "wikilink")                    | 0     |
 | D조 | [김승현](../Page/김승현_\(프로게이머\).md "wikilink")                    | 1     |
 | E조 | **[박지수](https://ko.wikipedia.org/wiki/박지수 "wikilink")**       | **2** |
 | F조 | [고석현](../Page/고석현.md "wikilink")                              | 0     |

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  starring   \(\)](https://ko.wikipedia.org/wiki/__starring___\(\)).
+> This article is converted from Wikipedia: [츠키시마 키라리 starring 쿠스미 코하루 \(모닝구무스메\)](https://ko.wikipedia.org/wiki/츠키시마_키라리_starring_쿠스미_코하루_\(모닝구무스메\)).
 
 
 **츠키시마 키라리 starring 쿠스미 코하루 (모닝구무스메。)**()는 [쿠스미 코하루가](../Page/쿠스미_코하루.md "wikilink") 맡은 애니메이션《[키라링☆레볼루션](../Page/키라링☆레볼루션.md "wikilink")》의 주인공 츠키시마 키라리로 활동한 솔로 유닛이다.

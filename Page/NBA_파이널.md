@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [NBA ](https://ko.wikipedia.org/wiki/NBA_).
+> This article is converted from Wikipedia: [NBA 파이널](https://ko.wikipedia.org/wiki/NBA_파이널).
 
 
 **NBA 파이널(NBA Finals)**는 **[전미 농구 협회](../Page/전미_농구_협회.md "wikilink")(NBA)**의 챔피언십 시리즈로 [1986년](../Page/1986년.md "wikilink")까지는 **NBA 월드 챔피언십 시리즈**라고 불렀다.

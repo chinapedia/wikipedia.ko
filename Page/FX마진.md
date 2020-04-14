@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FX](https://ko.wikipedia.org/wiki/FX).
+> This article is converted from Wikipedia: [FX마진](https://ko.wikipedia.org/wiki/FX마진).
 
 
 **FX 마진거래**(Foreign Exchange Margin Contract)는 [외환](https://ko.wikipedia.org/wiki/외환 "wikilink")의 일종이다. [증거금](https://ko.wikipedia.org/wiki/증거금 "wikilink")을 이용해서 [선물회사](https://ko.wikipedia.org/wiki/선물회사 "wikilink")와 계약당 10만 [달러](../Page/달러.md "wikilink") 등으로 [표준](https://ko.wikipedia.org/wiki/표준 "wikilink")화된 [통화](https://ko.wikipedia.org/wiki/통화 "wikilink")쌍을 거래하는 것이다. [미국](../Page/미국.md "wikilink")에서는 소매외환거래(retail forex)라고 한다.
@@ -6,12 +6,6 @@
 ## 현황
 
 [한국](../Page/한국.md "wikilink")에서는 [2005년](../Page/2005년.md "wikilink") [1월](../Page/1월.md "wikilink") [선물거래법](https://ko.wikipedia.org/wiki/선물거래법 "wikilink")에 **해외유사통화선물거래**가 도입되면서 선물회사에서 거래가 시작되었다.
-
-대표적인 합법적인 마진거래 사이트의 대표번호
-
-Tel. 1661-3803
-
-
 
 ## 최소변동폭
 

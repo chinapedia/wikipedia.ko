@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ TV](https://ko.wikipedia.org/wiki/_TV).
+> This article is converted from Wikipedia: [한밤의 TV연예](https://ko.wikipedia.org/wiki/한밤의_TV연예).
 
 
 《**한밤의 TV연예**》는 [SBS TV에서](../Page/SBS_TV.md "wikilink") [1995년](../Page/1995년.md "wikilink") [2월 9일부터](../Page/2월_9일.md "wikilink") [2016년](../Page/2016년.md "wikilink") [3월 23일까지](../Page/3월_23일.md "wikilink") 방송되었던 [연예](https://ko.wikipedia.org/wiki/연예 "wikilink") 정보 프로그램이다.
@@ -135,7 +135,7 @@
 
   - [SBS 한밤의 TV 연예 홈페이지](http://tv.sbs.co.kr/et/)
 
-[분류:SBS의 예능 프로그램](https://ko.wikipedia.org/wiki/분류:SBS의_예능_프로그램 "wikilink") [분류:2010년대 대한민국의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:2010년대_대한민국의_텔레비전_프로그램 "wikilink") [분류:1995년에 시작한 대한민국 TV 프로그램](https://ko.wikipedia.org/wiki/분류:1995년에_시작한_대한민국_TV_프로그램 "wikilink") [분류:2016년에 종료한 대한민국 TV 프로그램](https://ko.wikipedia.org/wiki/분류:2016년에_종료한_대한민국_TV_프로그램 "wikilink") [분류:소재고갈로 인한 폐지된 프로그램](https://ko.wikipedia.org/wiki/분류:소재고갈로_인한_폐지된_프로그램 "wikilink")
+[분류:SBS의 예능 프로그램](https://ko.wikipedia.org/wiki/분류:SBS의_예능_프로그램 "wikilink") [분류:2010년대 대한민국의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:2010년대_대한민국의_텔레비전_프로그램 "wikilink") [분류:1995년에 시작한 대한민국 TV 프로그램](https://ko.wikipedia.org/wiki/분류:1995년에_시작한_대한민국_TV_프로그램 "wikilink") [분류:2016년에 종료한 대한민국 TV 프로그램](https://ko.wikipedia.org/wiki/분류:2016년에_종료한_대한민국_TV_프로그램 "wikilink")
 
 1.
 2.  [SBS, 예능 편성 강화 가을 개편](http://www.dipts.com/news/index.html?mode=view&cate1_id=6&cate2_id=32&number=11316) (DIP 뉴스)

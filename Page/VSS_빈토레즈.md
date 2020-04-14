@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [VSS ](https://ko.wikipedia.org/wiki/VSS_).
+> This article is converted from Wikipedia: [VSS 빈토레즈](https://ko.wikipedia.org/wiki/VSS_빈토레즈).
 
 
-**VSS** (, Vintovka Snajperskaya Spetsial'naya)는 **빈토레즈**("수명 절단기"\[1\])로 불리는 저격총으로, 소련의 정밀기계제작중심산업체(TsNIITochMash)에서 개발하였으며, Tula Arms Plant에서 생산하였다. VSS는 [스페츠나츠](../Page/스페츠나츠.md "wikilink")에서 비밀작전에 주로 사용되었으며, 이 점은 기본적인 것만 남겨둔 특별한 수송용 케이스에서 찾아볼 수 있다.
+**VSS**(, Vintovka Snajperskaya Spetsial'naya)는 **빈토레즈**("수명 절단기"\[1\])로 불리는 저격총으로, 소련의 정밀기계제작중심산업체(TsNIITochMash)에서 개발하였으며, Tula Arms Plant에서 생산하였다. VSS는 [스페츠나츠](../Page/스페츠나츠.md "wikilink")에서 비밀작전에 주로 사용되었으며, 이 점은 기본적인 것만 남겨둔 특별한 수송용 케이스에서 찾아볼 수 있다.
 
 ## 디자인 세부사항
 
@@ -25,8 +25,8 @@
 
 ## 등장하는 게임
 
-  - 게임 [배틀그라운드 (비디오 게임)에서](../Page/배틀그라운드_\(비디오_게임\).md "wikilink") 등장한다. [망원 조준경](https://ko.wikipedia.org/wiki/망원_조준경 "wikilink")(4배율)과 [소음기](../Page/소음기.md "wikilink")가 일체형으로 되어 있다.
-  - 게임 Free Fire에도 등장한다 위의 배틀그라운드에서의 VSS빈토레즈와 같은 능력치로 되어 있다.
+  - 게임 [배틀그라운드 (비디오 게임)에서](../Page/배틀그라운드_\(비디오_게임\).md "wikilink") 등장한다. [망원 조준경](https://ko.wikipedia.org/wiki/망원_조준경 "wikilink")(3.5배율)과 [소음기](../Page/소음기.md "wikilink")가 일체형으로 되어 있다.
+  - 게임 Free Fire에도 등장한다. 위의 배틀그라운드에서의 VSS빈토레즈와 같은 능력치로 되어 있다.
   - 게임 Roblox의 [Phantom Forces에서도](https://ko.wikipedia.org/wiki/Phantom_Forces "wikilink") 등장한다. 여기에서는 조준경이 탈부착이 된다.
   - 모바일 게임 last day on earth survival 에서도 등장한다. 고정데미지 50에 사거리도 꽤 크기때문에 가장 쓸만한 총이다.
   - FPS사격게임 모던 스트라이크에서도 등장한다 여기에서도 조준경이 탈부착 된다.이 게임 에서는 현질러들만 쓸 수 있는 총이다.타격감은 보통이다.

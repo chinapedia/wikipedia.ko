@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ ICT](https://ko.wikipedia.org/wiki/_ICT).
+> This article is converted from Wikipedia: [포스코 ICT](https://ko.wikipedia.org/wiki/포스코_ICT).
 
 
 **주식회사 포스코 ICT**는 1989년 11월에 설립된 [포스코](../Page/포스코.md "wikilink") 계열의 IT & 엔지니어링 전문기업이다. 엔지니어링, 프로세스 오토메이션, IT 서비스, [스마트 그리드](../Page/스마트_그리드.md "wikilink") 등을 주요 사업으로 하고 있다.

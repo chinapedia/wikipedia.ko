@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Songbird \( \)](https://ko.wikipedia.org/wiki/Songbird_\(_\)).
+> This article is converted from Wikipedia: [Songbird \(오아시스의 노래\)](https://ko.wikipedia.org/wiki/Songbird_\(오아시스의_노래\)).
 
 
 〈**Songbird**〉는 영국 락 밴드 [오아시스](../Page/오아시스.md "wikilink")의 곡으로, 그들의 5번째 정규앨범인 《[Heathen Chemistry](../Page/Heathen_Chemistry.md "wikilink")》에 수록된 곡이다. 이 곡은 2006년 발매된 오아시스의 베스트 앨범인 《[Stop the Clocks](../Page/Stop_the_Clocks.md "wikilink")》에도 수록되어 있다. 이 곡은 2003년 2월 3일에 5집의 4번째 싱글로 발매되었으며 UK차트 3위를 하였다. 리드 싱어인 [리암 갤러거가](../Page/리암_갤러거.md "wikilink") 쓴 이 곡은 오아시스 역사상 처음으로 싱글로 발매된 곡들 중 그의 형인 [노엘 갤러거가](../Page/노엘_갤러거.md "wikilink") 쓰지 않은 곡이다. 이 곡은 2분 7초라는, 오아시스 싱글들 중 가장 짧은 길이를 갖고 있다.

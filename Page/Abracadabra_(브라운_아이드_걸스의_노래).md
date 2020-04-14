@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Abracadabra \(   \)](https://ko.wikipedia.org/wiki/Abracadabra_\(___\)).
+> This article is converted from Wikipedia: [Abracadabra \(브라운 아이드 걸스의 노래\)](https://ko.wikipedia.org/wiki/Abracadabra_\(브라운_아이드_걸스의_노래\)).
 
 
 **아브라카다브라**()는 [대한민국](../Page/대한민국.md "wikilink")의 여성 음악 그룹인 [브라운 아이드 걸스의](../Page/브라운_아이드_걸스.md "wikilink") 노래로, 2009년 [Sound G.에서](../Page/Sound_G..md "wikilink") 첫 번째 [싱글로서](../Page/싱글_\(음악\).md "wikilink") 발표되었다. 이 노래는 이 그룹의 이미지와 스타일의 변화를 분명히 드러낸다. 아브라카다브라는 음악 포털인 [엠넷](../Page/엠넷.md "wikilink")에서 3주간 정상을 지킨 것을 비롯하여, 다양한 온라인과 오프라인 차트에서 1위를 기록하였다.\[1\]

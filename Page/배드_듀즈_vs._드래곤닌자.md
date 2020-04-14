@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  vs. ](https://ko.wikipedia.org/wiki/__vs._).
+> This article is converted from Wikipedia: [배드 듀즈 vs. 드래곤닌자](https://ko.wikipedia.org/wiki/배드_듀즈_vs._드래곤닌자).
 
 
 《**배드 듀즈 vs. 드래곤닌자**》(Bad Dudes vs. Dragonninja)는 [데이터 이스트에서](../Page/데이터_이스트.md "wikilink") 1988년도에 제작한 액션 게임이다. 처음엔 [아케이드 게임으로](../Page/아케이드_게임.md "wikilink") 개발되었으나 이후 여러 플랫폼으로 개발되었다.

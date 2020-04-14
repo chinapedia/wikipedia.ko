@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [+HC+SAR ](https://ko.wikipedia.org/wiki/+HC+SAR_).
+> This article is converted from Wikipedia: [식물+HC+SAR 대형군](https://ko.wikipedia.org/wiki/식물+HC+SAR_대형군).
 
 
 **식물+HC+SAR 대형군**은 [진핵생물](../Page/진핵생물.md "wikilink") 생물군의 하나이다.\[1\]

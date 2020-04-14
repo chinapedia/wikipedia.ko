@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [+HC ](https://ko.wikipedia.org/wiki/+HC_).
+> This article is converted from Wikipedia: [식물+HC 분류군](https://ko.wikipedia.org/wiki/식물+HC_분류군).
 
 
 **식물+HC 분류군**(Plants+HC clade)은 2008년 버키(Burki) 등이 제안한 [진핵생물](../Page/진핵생물.md "wikilink") 대형 분류군 중의 하나이다.\[1\]

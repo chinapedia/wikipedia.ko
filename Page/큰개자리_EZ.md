@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ EZ](https://ko.wikipedia.org/wiki/_EZ).
+> This article is converted from Wikipedia: [큰개자리 EZ](https://ko.wikipedia.org/wiki/큰개자리_EZ).
 
 
 **큰개자리 EZ**(**EZ CMa** 또는 **WR 6**으로도 표기)는 [큰개자리](../Page/큰개자리.md "wikilink") 방향에 있는 [울프-레이에별](https://ko.wikipedia.org/wiki/울프-레이에별 "wikilink")이다. 이 별은 울프-레이에별들 중 밝기가 10위 이내에 들어간다.\[1\]
