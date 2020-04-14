@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FIFA  ](https://ko.wikipedia.org/wiki/FIFA__).
+> This article is converted from Wikipedia: [FIFA 올해의 선수](https://ko.wikipedia.org/wiki/FIFA_올해의_선수).
 
 
 **FIFA 올해의 선수**는 1년마다 [FIFA](https://ko.wikipedia.org/wiki/FIFA "wikilink")에서 세계에서 가장 뛰어난 남녀 [축구](../Page/축구.md "wikilink") 선수를 선정하여 수여하는 상이다. 각국 감독과 주장이 투표하고 이것을 집계하여 선정한다. 남자 선수는 [1991년](../Page/1991년.md "wikilink")부터 수여하기 시작했고, 여자 선수는 [2001년](../Page/2001년.md "wikilink")부터 수여하기 시작했다.
@@ -543,7 +543,7 @@
 </tr>
 <tr class="even">
 <td><p>3위</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/레나테_링고르" title="wikilink">레나테 링고르</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/레나테_링고어" title="wikilink">레나테 링고어</a></p></td>
 <td></td>
 <td><p><a href="../Page/미드필더.md" title="wikilink">미드필더</a></p></td>
 <td></td>
@@ -565,7 +565,7 @@
 </tr>
 <tr class="odd">
 <td><p>3위</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/셰넌_박스" title="wikilink">셰넌 박스</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/섀넌_복스" title="wikilink">섀넌 복스</a></p></td>
 <td></td>
 <td><p><a href="../Page/미드필더.md" title="wikilink">미드필더</a></p></td>
 <td></td>
@@ -646,7 +646,7 @@
 </tr>
 <tr class="even">
 <td><p>2위</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/티페니_밀브레트" title="wikilink">티페니 밀브레트</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/티퍼니_밀브렛" title="wikilink">티퍼니 밀브렛</a></p></td>
 <td></td>
 <td><p><a href="../Page/공격수.md" title="wikilink">공격수</a></p></td>
 <td></td>

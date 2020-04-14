@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  II](https://ko.wikipedia.org/wiki/__II).
+> This article is converted from Wikipedia: [짐 스나이퍼 II](https://ko.wikipedia.org/wiki/짐_스나이퍼_II).
 
 
 **짐 스나이퍼Ⅱ**(GM SniperⅡ)는 [OVA](https://ko.wikipedia.org/wiki/OVA "wikilink")《[기동전사 건담 0080 주머니 속의 전쟁](https://ko.wikipedia.org/wiki/기동전사_건담_0080_주머니_속의_전쟁 "wikilink")》에 등장하는 가공의 병기. 지구연방군 양산형 모빌슈트이다(형식번호: RGM-79SP).

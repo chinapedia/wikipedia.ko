@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ABBA](https://ko.wikipedia.org/wiki/ABBA).
 
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:ABBA_-_TopPop_1974_5.png "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:Abba_gold_dwarves.jpg "wikilink") **ABBA**(아바)는 1972년부터 활동한[스웨덴](../Page/스웨덴.md "wikilink")의 남녀 혼성 4인조 팝/댄스 그룹이다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:ABBA_-_TopPop_1974_5.png "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:Abba_gold_dwarves.jpg "wikilink") **ABBA**(아바)는 1972년부터 활동한 [스웨덴](../Page/스웨덴.md "wikilink")의 남녀 혼성 4인조 팝/댄스 그룹이다.
 
 ABBA는 [스웨덴](../Page/스웨덴.md "wikilink") 출신 중에 역대 가장 유명하고 성공적인 활동을 했던 4인조 팝그룹이며, 보니엠과 함께 1970년대 중반부터 1980년대 초반까지 세계적으로 상위차트에 올랐다. 'ABBA'라는 이름은 네 구성원(**A**gnetha Fältskog, **B**jörn Ulvaeus, **B**enny Andersson, **A**nni-Frid Lyngstad)의 머릿글자를 딴 것이다. 그들의 팝음악은 라디오에서 고정적으로 방송되고 있으며, ABBA의 [앨범](https://ko.wikipedia.org/wiki/앨범 "wikilink")은 지금까지 3억7천만 장 이상이 팔렸다.
 

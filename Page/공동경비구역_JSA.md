@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ JSA](https://ko.wikipedia.org/wiki/_JSA).
+> This article is converted from Wikipedia: [공동경비구역 JSA](https://ko.wikipedia.org/wiki/공동경비구역_JSA).
 
 
 《**공동경비구역 JSA**》(共同警備區域 JSA)는 [박상연](../Page/박상연.md "wikilink")의 소설 《[DMZ](https://ko.wikipedia.org/wiki/DMZ_\(소설\) "wikilink")》을 각색하여 [2000년](../Page/2000년.md "wikilink")에 만들어진 [대한민국](../Page/대한민국.md "wikilink") 영화로, [박찬욱](../Page/박찬욱.md "wikilink")이 감독을 맡았다.
@@ -29,6 +29,8 @@
 
   -
   -
-[분류:박찬욱 감독 영화](https://ko.wikipedia.org/wiki/분류:박찬욱_감독_영화 "wikilink") [분류:대한민국의 미스터리 영화](https://ko.wikipedia.org/wiki/분류:대한민국의_미스터리_영화 "wikilink") [분류:한국어 영화 작품](https://ko.wikipedia.org/wiki/분류:한국어_영화_작품 "wikilink") [분류:2000년 영화](https://ko.wikipedia.org/wiki/분류:2000년_영화 "wikilink") [분류:춘사영화상 수상작](https://ko.wikipedia.org/wiki/분류:춘사영화상_수상작 "wikilink") [분류:대한민국을 배경으로 한 영화](https://ko.wikipedia.org/wiki/분류:대한민국을_배경으로_한_영화 "wikilink") [분류:조선민주주의인민공화국을 배경으로 한 영화](https://ko.wikipedia.org/wiki/분류:조선민주주의인민공화국을_배경으로_한_영화 "wikilink") [분류:대한민국에서 촬영한 영화](https://ko.wikipedia.org/wiki/분류:대한민국에서_촬영한_영화 "wikilink") [분류:소설을 바탕으로 한 영화](https://ko.wikipedia.org/wiki/분류:소설을_바탕으로_한_영화 "wikilink") [분류:박상연 시나리오 작품](https://ko.wikipedia.org/wiki/분류:박상연_시나리오_작품 "wikilink") [분류:남북 관계를 소재로 한 영화](https://ko.wikipedia.org/wiki/분류:남북_관계를_소재로_한_영화 "wikilink") [분류:대한민국의 스릴러 영화](https://ko.wikipedia.org/wiki/분류:대한민국의_스릴러_영화 "wikilink") [분류:판문점](https://ko.wikipedia.org/wiki/분류:판문점 "wikilink") [분류:명필름 영화](https://ko.wikipedia.org/wiki/분류:명필름_영화 "wikilink")
+  -
 
-1.  이후 《[친구](../Page/친구_\(영화\).md "wikilink")》, 《[실미도](../Page/실미도_\(영화\).md "wikilink")》, 《[태극기 휘날리며](../Page/태극기_휘날리며.md "wikilink")》, 《[왕의 남자](../Page/왕의_남자.md "wikilink")》등이 추월하였다
+[분류:2000년 영화](https://ko.wikipedia.org/wiki/분류:2000년_영화 "wikilink") [분류:한국어 영화 작품](https://ko.wikipedia.org/wiki/분류:한국어_영화_작품 "wikilink") [분류:박찬욱 감독 영화](https://ko.wikipedia.org/wiki/분류:박찬욱_감독_영화 "wikilink") [분류:대한민국의 스릴러 영화](https://ko.wikipedia.org/wiki/분류:대한민국의_스릴러_영화 "wikilink") [분류:대한민국의 미스터리 영화](https://ko.wikipedia.org/wiki/분류:대한민국의_미스터리_영화 "wikilink") [분류:남북 관계를 소재로 한 영화](https://ko.wikipedia.org/wiki/분류:남북_관계를_소재로_한_영화 "wikilink") [분류:소설을 바탕으로 한 영화](https://ko.wikipedia.org/wiki/분류:소설을_바탕으로_한_영화 "wikilink") [분류:박상연 시나리오 작품](https://ko.wikipedia.org/wiki/분류:박상연_시나리오_작품 "wikilink") [분류:대한민국을 배경으로 한 영화](https://ko.wikipedia.org/wiki/분류:대한민국을_배경으로_한_영화 "wikilink") [분류:조선민주주의인민공화국을 배경으로 한 영화](https://ko.wikipedia.org/wiki/분류:조선민주주의인민공화국을_배경으로_한_영화 "wikilink") [분류:대한민국에서 촬영한 영화](https://ko.wikipedia.org/wiki/분류:대한민국에서_촬영한_영화 "wikilink") [분류:판문점](https://ko.wikipedia.org/wiki/분류:판문점 "wikilink") [분류:명필름 영화](https://ko.wikipedia.org/wiki/분류:명필름_영화 "wikilink") [분류:대종상 수상작](https://ko.wikipedia.org/wiki/분류:대종상_수상작 "wikilink") [분류:청룡영화상 수상작](https://ko.wikipedia.org/wiki/분류:청룡영화상_수상작 "wikilink") [분류:춘사영화상 수상작](https://ko.wikipedia.org/wiki/분류:춘사영화상_수상작 "wikilink")
+
+1.  이후 《[친구](../Page/친구_\(2001년_영화\).md "wikilink")》, 《[실미도](../Page/실미도_\(영화\).md "wikilink")》, 《[태극기 휘날리며](../Page/태극기_휘날리며.md "wikilink")》, 《[왕의 남자](../Page/왕의_남자.md "wikilink")》등이 추월하였다

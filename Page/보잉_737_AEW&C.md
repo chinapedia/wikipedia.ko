@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ 737 AEW\&C](https://ko.wikipedia.org/wiki/_737_AEW\&C).
+> This article is converted from Wikipedia: [보잉 737 AEW\&C](https://ko.wikipedia.org/wiki/보잉_737_AEW\&C).
 
 
 **보잉 737 AEW\&C**()는 [왕립 오스트레일리아 공군의](https://ko.wikipedia.org/wiki/왕립_오스트레일리아_공군 "wikilink") ‘웨지테일 프로젝트’에 따라 [보잉](../Page/보잉.md "wikilink") 사가 [보잉 737에](../Page/보잉_737.md "wikilink") 기반하여 개발한 [공중조기경보통제기](../Page/공중조기경보통제기.md "wikilink")이다. [오스트레일리아](../Page/오스트레일리아.md "wikilink"), [터키](../Page/터키.md "wikilink"), [대한민국](../Page/대한민국.md "wikilink")에서 운용하고 있으며, [이탈리아](../Page/이탈리아.md "wikilink")와 [아랍에미리트](../Page/아랍에미리트.md "wikilink")에서도 도입을 검토하고 있다.

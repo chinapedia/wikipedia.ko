@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:CONCACAF ](https://ko.wikipedia.org/wiki/:CONCACAF_).
+> This article is converted from Wikipedia: [틀:CONCACAF 국가대표팀](https://ko.wikipedia.org/wiki/틀:CONCACAF_국가대표팀).
 
 
 <onlyinclude></onlyinclude>

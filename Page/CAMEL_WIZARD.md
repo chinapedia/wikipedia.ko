@@ -9,9 +9,9 @@
 
 ## 멤버
 
-  - **고조노 준노스케** (, [1982년](../Page/1982년.md "wikilink") [7월 31일](../Page/7월_31일.md "wikilink") - ) : [보컬](https://ko.wikipedia.org/wiki/가수 "wikilink"), [기타](../Page/기타.md "wikilink")
-  - **오가와우치 신고** (, [1983년](../Page/1983년.md "wikilink") [5월 28일](../Page/5월_28일.md "wikilink") - ) : [베이스 기타](../Page/베이스_기타.md "wikilink"), [코러스](https://ko.wikipedia.org/wiki/코러스 "wikilink")
-  - **에마** (, [1983년](../Page/1983년.md "wikilink") [10월 9일](../Page/10월_9일.md "wikilink") - ) : [드럼](https://ko.wikipedia.org/wiki/드럼셋 "wikilink"), [코러스](https://ko.wikipedia.org/wiki/코러스 "wikilink")
+  - **고조노 준노스케**(, [1982년](../Page/1982년.md "wikilink") [7월 31일](../Page/7월_31일.md "wikilink") - ) : [보컬](https://ko.wikipedia.org/wiki/가수 "wikilink"), [기타](../Page/기타.md "wikilink")
+  - **오가와우치 신고**(, [1983년](../Page/1983년.md "wikilink") [5월 28일](../Page/5월_28일.md "wikilink") - ) : [베이스 기타](../Page/베이스_기타.md "wikilink"), [코러스](https://ko.wikipedia.org/wiki/코러스 "wikilink")
+  - **에마**(, [1983년](../Page/1983년.md "wikilink") [10월 9일](../Page/10월_9일.md "wikilink") - ) : [드럼](https://ko.wikipedia.org/wiki/드럼셋 "wikilink"), [코러스](https://ko.wikipedia.org/wiki/코러스 "wikilink")
 
 ## 디스코그라피
 

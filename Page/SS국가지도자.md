@@ -1,13 +1,13 @@
-> This article is converted from Wikipedia: [SS](https://ko.wikipedia.org/wiki/SS).
+> This article is converted from Wikipedia: [SS국가지도자](https://ko.wikipedia.org/wiki/SS국가지도자).
 
 
 [200px](https://ko.wikipedia.org/wiki/파일:Reichsführer_SS.svg "wikilink") **SS국가지도자**()는 [1925년](../Page/1925년.md "wikilink")부터 [1945년](../Page/1945년.md "wikilink") 사이에 존재했던 특별한 [SS계급이다](https://ko.wikipedia.org/wiki/나치_친위대_계급 "wikilink"). **SS장관**이라고도 한다. SS국가지도자는 1925년부터 1933년까지는 직책을 나타내는 칭호였으며, 1934년 후부터는 [친위대의](../Page/친위대_\(나치\).md "wikilink") 최상위 계급이 되었다. 1933년 [하인리히 힘러의](../Page/하인리히_힘러.md "wikilink") 정식 계급은 SS-Obergruppenführer, 즉 [상급집단지도자](../Page/상급집단지도자.md "wikilink")였고, 직함이 SS국가지도자였다. [룀 숙청 사건](https://ko.wikipedia.org/wiki/룀_숙청_사건 "wikilink") 이후 국가지도자로 불리길 좋아하던 힘러가 아예 직함의 명칭에서 최상위 계급으로 바꾼 것이다.
 
 ## 정의
 
-SS국가지도자는 칭호인 동시에 계급이었다. 국가지도자라는 칭호는 요제프 베르크톨트에 의해 1926년에 제정되었다. 베르크톨트의 전임자였던 [율리우스 슈렉은](https://ko.wikipedia.org/wiki/율리우스_슈렉 "wikilink") 국가지도자라는 칭호를 결코 사용하지 않았으나 후에 소급 적용되었다. 1929년 [하인리히 히믈러가](https://ko.wikipedia.org/wiki/하인리히_히믈러 "wikilink") 국가지도자가 되었고, 그는 정규 SS계급보다 이 칭호를 사용하길 더 좋아했다. 이 전례 때문에 SS의 총지휘관은 국가지도자라 불리게 되었다. 1934년 히믈러의 칭호는 "[긴 칼의 밤 사건](https://ko.wikipedia.org/wiki/긴_칼의_밤_사건 "wikilink")" 이후 실제 계급으로 변화되었다.
+SS국가지도자는 칭호인 동시에 계급이었다. 국가지도자라는 칭호는 요제프 베르크톨트에 의해 1926년에 제정되었다. 베르크톨트의 전임자였던 [율리우스 슈렉은](https://ko.wikipedia.org/wiki/율리우스_슈렉 "wikilink") 국가지도자라는 칭호를 결코 사용하지 않았으나 후에 소급 적용되었다. 1929년 [하인리히 히믈러가](https://ko.wikipedia.org/wiki/하인리히_히믈러 "wikilink") 국가지도자가 되었고, 그는 정규 SS계급보다 이 칭호를 사용하길 더 좋아했다. 이 전례 때문에 SS의 총지휘관은 국가지도자라 불리게 되었다. 1934년 히믈러의 칭호는 "[장검의 밤 사건](https://ko.wikipedia.org/wiki/장검의_밤 "wikilink")" 이후 실제 계급으로 변화되었다.
 
-그 이후부터 SS국가지도자는 SS 최고 계급이 되었으며, [국방군 원수와](https://ko.wikipedia.org/wiki/국방군_원수 "wikilink") 동등한 위치로 자리매김하게 되었다.
+그 이후부터 SS국가지도자는 SS 최고 계급이 되었으며, 국방군 원수와 동등한 위치로 자리매김하게 되었다.
 
 1934부터 1945년까지 히믈러가 자신의 개인 칭호를 계급으로 계속해서 사용하고 있는 동안 SS에는 SS국가지도자가 그 이외에는 존재하지 않았다.
 

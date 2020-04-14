@@ -61,7 +61,7 @@
 ## 외부 링크
 
   -
-[분류:2006년 음반](https://ko.wikipedia.org/wiki/분류:2006년_음반 "wikilink") [분류:N.EX.T의 음반](https://ko.wikipedia.org/wiki/분류:N.EX.T의_음반 "wikilink") [분류:대한민국의 음반](https://ko.wikipedia.org/wiki/분류:대한민국의_음반 "wikilink") [분류:한국어 음반](https://ko.wikipedia.org/wiki/분류:한국어_음반 "wikilink")
+[분류:2006년 음반](https://ko.wikipedia.org/wiki/분류:2006년_음반 "wikilink") [분류:N.EX.T의 음반](https://ko.wikipedia.org/wiki/분류:N.EX.T의_음반 "wikilink") [분류:대한민국의 음반](https://ko.wikipedia.org/wiki/분류:대한민국의_음반 "wikilink") [분류:한국어 음반](https://ko.wikipedia.org/wiki/분류:한국어_음반 "wikilink") [분류:컴필레이션 음반](https://ko.wikipedia.org/wiki/분류:컴필레이션_음반 "wikilink")
 
 1.
 2.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [GNU  ](https://ko.wikipedia.org/wiki/GNU__).
+> This article is converted from Wikipedia: [GNU 바이너리 유틸리티](https://ko.wikipedia.org/wiki/GNU_바이너리_유틸리티).
 
 
 **GNU 바이너리 유틸리티**(GNU Binary Utilities) 또는 **GNU Binutils**는 여러 종류의 오브젝트 파일 형식들을 조작하기 위한 프로그래밍 도구 모음이다. 현재 버전은 [시그너스 솔루션즈의](https://ko.wikipedia.org/wiki/시그너스_솔루션즈 "wikilink") 프로그래머들이 [BFD](https://ko.wikipedia.org/wiki/BFD "wikilink") 라이브러리를 이용해 처음부터 만든 것이다. 이는 일반적으로 [GCC](../Page/GNU_컴파일러_모음.md "wikilink"), [make](https://ko.wikipedia.org/wiki/make "wikilink"), [GDB](https://ko.wikipedia.org/wiki/GDB "wikilink")와 함께 사용된다.

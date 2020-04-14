@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ GO!](https://ko.wikipedia.org/wiki/_GO!).
+> This article is converted from Wikipedia: [전차로 GO!](https://ko.wikipedia.org/wiki/전차로_GO!).
 
 
 《**전차로 GO\!**》()는 [일본](../Page/일본.md "wikilink")의 [타이토사가](../Page/타이토_\(기업\).md "wikilink") 개발한 철도 시뮬레이터 게임이다. [1996년](../Page/1996년.md "wikilink"), [아케이드](../Page/아케이드_게임.md "wikilink") 버전으로 첫 선을 보인 이후 [플레이스테이션](https://ko.wikipedia.org/wiki/플레이스테이션 "wikilink"), [플레이스테이션 2](../Page/플레이스테이션_2.md "wikilink"), [GBA](../Page/게임보이_어드밴스.md "wikilink"), [닌텐도DS](https://ko.wikipedia.org/wiki/닌텐도DS "wikilink"), [Wii](../Page/Wii.md "wikilink"), [PC](../Page/개인용_컴퓨터.md "wikilink") 등 다양한 기종에서 발매를 했다.

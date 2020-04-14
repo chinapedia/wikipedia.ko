@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SS](https://ko.wikipedia.org/wiki/SS).
+> This article is converted from Wikipedia: [SS특무부대](https://ko.wikipedia.org/wiki/SS특무부대).
 
 
 **SS특무부대**()는 [나치 친위대의](https://ko.wikipedia.org/wiki/나치_친위대 "wikilink") 한 분과로 [무장친위대](../Page/무장친위대.md "wikilink")의 전신이다. 여러 나치 조직과 우익 [준군사](https://ko.wikipedia.org/wiki/준군사 "wikilink") 조직이 통합되어 [1934년](../Page/1934년.md "wikilink")에 창설되었다. 북부 독일에서 "게르마니아" SS연대가, 남부 독일에서 "도이칠란트" SS연대 등 2개 연대가 편성되었다. [베를린](../Page/베를린.md "wikilink")-[브란데부르크에서](https://ko.wikipedia.org/wiki/브란덴부르크_주 "wikilink") [라이프슈탄다르테 아돌프 히틀러가](https://ko.wikipedia.org/wiki/1_SS기갑사단_LSSAH "wikilink") 합류했다. SS특무부대는 국방군이 아닌 친위대의 독자적인 무장 조직으로 그리고 [나치당](https://ko.wikipedia.org/wiki/나치당 "wikilink")의 일부로 인식되었다.

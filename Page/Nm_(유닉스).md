@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Nm \(\)](https://ko.wikipedia.org/wiki/Nm_\(\)).
+> This article is converted from Wikipedia: [Nm \(유닉스\)](https://ko.wikipedia.org/wiki/Nm_\(유닉스\)).
 
 
 **nm**은 다수의 최신 [유닉스](../Page/유닉스.md "wikilink")와 [유닉스 계열](../Page/유닉스_계열.md "wikilink") [운영 체제에](../Page/운영_체제.md "wikilink") 포함되어 있는 명령어이다. nm은 라이브러리, 컴파일된 오브젝트 모듈, 공유 오브젝트 파일, 독립 실행파일등의 바이너리 파일을 검사해서 그 파일 들에 저장된 내용 또는 메타 정보를 표시한다. nm은 [디버깅](https://ko.wikipedia.org/wiki/디버깅 "wikilink") 과정에서 이름 겹침과 [C++](https://ko.wikipedia.org/wiki/C++ "wikilink") 이름 맹글링 문제를 해결하거나 툴체인의 다른 부분을 확인하는 데 사용된다.

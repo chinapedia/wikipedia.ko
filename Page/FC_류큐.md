@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FC ](https://ko.wikipedia.org/wiki/FC_).
+> This article is converted from Wikipedia: [FC 류큐](https://ko.wikipedia.org/wiki/FC_류큐).
 
 
 **FC 류큐**()는 [오키나와현](../Page/오키나와현.md "wikilink")을 본거지로 삼은 [일본](../Page/일본.md "wikilink")의 축구클럽으로 [J2리그](../Page/J2리그.md "wikilink")에서 활동한다. [대한민국](../Page/대한민국.md "wikilink") [K3리그](https://ko.wikipedia.org/wiki/K3리그 "wikilink") 소속 [서울 유나이티드와](https://ko.wikipedia.org/wiki/서울_유나이티드 "wikilink") 자매결연 관계다.

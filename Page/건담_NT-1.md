@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ NT-1](https://ko.wikipedia.org/wiki/_NT-1).
+> This article is converted from Wikipedia: [건담 NT-1](https://ko.wikipedia.org/wiki/건담_NT-1).
 
 
 **건담 NT-1**(GUNDAM NT-1)은 [OVA](https://ko.wikipedia.org/wiki/OVA "wikilink") 《[기동전사 건담 0080 주머니 속의 전쟁](https://ko.wikipedia.org/wiki/기동전사_건담_0080_주머니_속의_전쟁 "wikilink")》에 등장하는 가공의 병기이며, [지구연방군](https://ko.wikipedia.org/wiki/지구연방군 "wikilink")의 [뉴타입 전용 병기로](https://ko.wikipedia.org/wiki/뉴타입_전용기 "wikilink") 제작된 시작 [모빌슈트](../Page/모빌슈트.md "wikilink")이다. 작중에서의 애칭은 “알렉스”(ALEX)로, 팬 사이에서는 알기 쉽게 “건담 알렉스”(GUNDAM ALEX) 혹은 단순히 “NT-1”으로 불린다. (형식번호: RX-78NT-1)

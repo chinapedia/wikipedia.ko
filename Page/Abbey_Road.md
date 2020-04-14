@@ -43,7 +43,7 @@
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Street_sign_for_Abbey_Road,_in_Westminster,_London,_England_IMG_1461.JPG "wikilink")
 
-  - 부커 T 엔 M.G.'s의 *Abbey Road* 커버 앨범인 《McLemore Avenue''(1969년)에서, 그들은 자신들이 작업했던 스택스 레코즈 스튜디오가 위치한 거리 이름을 땄다.
+  - [부커 T. & 더 M.G.'s의](https://ko.wikipedia.org/wiki/부커_T._&_더_M.G.'s "wikilink") *Abbey Road* 커버 앨범인 《McLemore Avenue''(1969년)에서, 그들은 자신들이 작업했던 스택스 레코즈 스튜디오가 위치한 거리 이름을 땄다.
   - [레드 핫 칠리 페퍼스는](../Page/레드_핫_칠리_페퍼스.md "wikilink") 《The Abbey Road E.P.》라는 앨범에서 앨범을 따라했다.
   - 폴 매카트니는 《[Paul Is Live](https://ko.wikipedia.org/wiki/Paul_Is_Live "wikilink")》라는 앨범에서 스스로 이 앨범 사진을 따라했다. 이는 폴 매카트니 사망설과도 관련되어 있다. 이 앨범 커버 사진에서 비틀의 번호판은 51IS(당시 그의 나이)로 바뀌었고 《The Beatles》앨범의 〈[Martha My Dear](https://ko.wikipedia.org/wiki/Martha_My_Dear "wikilink")〉란 곡에 등장하는 자신의 애완견 Martha의 새끼 중 한 마리와 함께 등장한다.
   - 미국의 TV만화 [심슨 가족에서](../Page/심슨_가족.md "wikilink") 호머 심슨의 남성 4중창 그룹 *The Be Sharps*의 두 번째 앨범 "Bigger Than Jesus"의 앨범 커버는 4명의 멤버들이 《Abbey Road》의 커버 사진 모습으로 물 위를 걷는 모습이다.

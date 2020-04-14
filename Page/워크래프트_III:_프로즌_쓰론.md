@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ III:  ](https://ko.wikipedia.org/wiki/_III:__).
+> This article is converted from Wikipedia: [워크래프트 III: 프로즌 쓰론](https://ko.wikipedia.org/wiki/워크래프트_III:_프로즌_쓰론).
 
 
 《**워크래프트 III: 프로즌 쓰론**》()는 [블리자드 엔터테인먼트가](../Page/블리자드_엔터테인먼트.md "wikilink") 개발한 [실시간 전략 게임](../Page/실시간_전략_게임.md "wikilink") 게임이다. [2003년](../Page/2003년.md "wikilink") [7월 1일에](../Page/7월_1일.md "wikilink") 전 세계에서 동시 발매하였다. 종족마다 새로운 영웅들과 2\~3 명의 새로운 유닛이 추가되었고, 4개의 캠페인과 8명의 중립 영웅들이 추가되었다. 이와 더불어 상점 시스템이 추가등의 여러가지 큰 발전이 있었다. 블리자드는 여러가지 버그들을 수정하고 멀티플레이의 균형을 맞추기 위해 정기적으로 새로운 버전을 온라인으로 공개하고 있다.

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [EZ2AC](https://ko.wikipedia.org/wiki/EZ2AC).
 
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:EZ2AC.jpg "wikilink") **이지투 아케이드**(EZ2AC)(이전 이름: EZ2DJ)는 [대한민국](../Page/대한민국.md "wikilink")의 게임 개발 단체 EZ2AC Team에서 개발하는\[1\] 아케이드 [리듬 게임이다](../Page/리듬_게임.md "wikilink"). 현재 **EZ2AC : FINAL**이 가동 중이다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:EZ2AC.jpg "wikilink") 《**이지투 아케이드**》(EZ2AC)(이전 이름: EZ2DJ)는 [대한민국](../Page/대한민국.md "wikilink")의 게임 개발 단체 EZ2AC Team에서 개발하는\[1\] 아케이드 [리듬 게임이다](../Page/리듬_게임.md "wikilink"). 현재 **EZ2AC : FINAL**이 가동 중이다.
 
 ## 게임 방법
 

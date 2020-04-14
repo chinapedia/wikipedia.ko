@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [As Time Goes By \( \)](https://ko.wikipedia.org/wiki/As_Time_Goes_By_\(_\)).
+> This article is converted from Wikipedia: [As Time Goes By \(이수영의 음반\)](https://ko.wikipedia.org/wiki/As_Time_Goes_By_\(이수영의_음반\)).
 
 
 《**As Time Goes By**》는 가수 [이수영](../Page/이수영.md "wikilink")의 베스트 음반이다. 이 앨범은 6집 《[The Colors of My Life](../Page/The_Colors_of_My_Life.md "wikilink")》에 수록될 예정이었으나 빠진 곡들과 각종 사운드트랙 참여곡들 그리고 기존 곡들을 수록했다. 이수영과 [이가 엔터테인먼트의](https://ko.wikipedia.org/wiki/이가_엔터테인먼트 "wikilink") 계약만료 직전에 발매된 음반으로서 매우 상업적인 음반으로 평가되었다. 그뿐만 아니라 이가 엔터테인먼트 측이 이수영과 계약한 음반 발매수를 채우기 위해 이수영 본인의 의사와는 관계없이 발매하였고 [한국음반산업협회](https://ko.wikipedia.org/wiki/한국음반산업협회 "wikilink")에 판매량을 제출하지도 않았다. 또한 음반 홍보당시 이수영이 향후 몇 년간 가수 활동을 중단한다는 식의 내용으로 홍보를 하여 팬들에게 많은 비난을 받았다.

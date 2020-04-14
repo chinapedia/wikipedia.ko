@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ G. ](https://ko.wikipedia.org/wiki/_G._).
+> This article is converted from Wikipedia: [워런 G. 하딩](https://ko.wikipedia.org/wiki/워런_G._하딩).
 
 
 **워런 개멀리얼 하딩** (Warren Gamaliel Harding, [1865년](../Page/1865년.md "wikilink") [11월 2일](../Page/11월_2일.md "wikilink") \~ [1923년](../Page/1923년.md "wikilink") [8월 2일](../Page/8월_2일.md "wikilink"))은 [미국](../Page/미국.md "wikilink")의 29번째(제34대) [대통령](../Page/미국의_대통령.md "wikilink")(1921\~23)이다. 그리고 임기 중 사망한 여섯번째 대통령이다.

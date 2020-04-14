@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [I Believe \( \)](https://ko.wikipedia.org/wiki/I_Believe_\(_\)).
+> This article is converted from Wikipedia: [I Believe \(이수영의 음반\)](https://ko.wikipedia.org/wiki/I_Believe_\(이수영의_음반\)).
 
 
 《**I Believe**》는 가수 [이수영](../Page/이수영.md "wikilink")의 데뷔 음반이다. 발매 당시 대형 빌딩의 전광판 등을 이용한 대대적인 홍보를 하였다. 음반명이자 타이틀 곡명인 "I Believe"는 동양적 분위기의 발라드 곡이다. 후속곡 "Good Bye My Love"의 오케스트라 버전이 나오면서 오케스트라 버전과 뮤직비디오 영상을 추가하여 앨범이 재발매되었다.

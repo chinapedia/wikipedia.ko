@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [PC  GT](https://ko.wikipedia.org/wiki/PC__GT).
+> This article is converted from Wikipedia: [PC 엔진 GT](https://ko.wikipedia.org/wiki/PC_엔진_GT).
 
 
 **PC 엔진 GT**(PC Engine GT, )는 [NEC 홈 일렉트로닉스에서](https://ko.wikipedia.org/wiki/NEC_홈_일렉트로닉스 "wikilink") 발매된 휴대용 [PC 엔진이다](https://ko.wikipedia.org/wiki/PC_엔진 "wikilink"). 일본에서 [1990년](../Page/1990년.md "wikilink") [12월 1일](../Page/12월_1일.md "wikilink") 발매되었다.

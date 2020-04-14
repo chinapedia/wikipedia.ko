@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [ SK \(\)](https://ko.wikipedia.org/wiki/_SK_\(\)).
+> This article is converted from Wikipedia: [갈라타사라이 SK \(축구\)](https://ko.wikipedia.org/wiki/갈라타사라이_SK_\(축구\)).
 
 
-**갈라타사라이 스포르 쿨뤼뷔** () 는 흔히 **갈라타사라이** (Galatasaray) 로 알려진 [터키](../Page/터키.md "wikilink")의 [이스탄불](../Page/이스탄불.md "wikilink")을 연고로 하는 터키의 프로 [축구](../Page/축구.md "wikilink") 클럽이다. [갈라타사라이 SK에](https://ko.wikipedia.org/wiki/갈라타사라이_SK "wikilink") 소속되어 있는 축구부이며, 이 스포츠 클럽은 [갈라타사라이 대학교와](https://ko.wikipedia.org/wiki/갈라타사라이_대학교 "wikilink") [갈라타사라이 고등학교와](https://ko.wikipedia.org/wiki/갈라타사라이_고등학교 "wikilink") 더불어 [갈라타사라이 공동체에](https://ko.wikipedia.org/wiki/갈라타사라이_공동체 "wikilink") 소속되어 있다.
+**갈라타사라이 스포르 쿨뤼뷔**()는 흔히 **갈라타사라이**(Galatasaray) 로 알려진 [터키](../Page/터키.md "wikilink")의 [이스탄불](../Page/이스탄불.md "wikilink")을 연고로 하는 터키의 프로 [축구](../Page/축구.md "wikilink") 클럽이다. [갈라타사라이 SK에](https://ko.wikipedia.org/wiki/갈라타사라이_SK "wikilink") 소속되어 있는 축구부이며, 이 스포츠 클럽은 [갈라타사라이 대학교와](https://ko.wikipedia.org/wiki/갈라타사라이_대학교 "wikilink") [갈라타사라이 고등학교와](https://ko.wikipedia.org/wiki/갈라타사라이_고등학교 "wikilink") 더불어 [갈라타사라이 공동체에](https://ko.wikipedia.org/wiki/갈라타사라이_공동체 "wikilink") 소속되어 있다.
 
 갈라타사라이는 46개의 국내대회 우승 타이틀을 보유하고 있는데, [쉬페르리그](../Page/쉬페르리그.md "wikilink")를 역대 최다인 19회, [튀르키예 쿠파스도](../Page/튀르키예_쿠파스.md "wikilink") 14회로 역대 최다, [쉬페르쿠파](https://ko.wikipedia.org/wiki/쉬페르쿠파 "wikilink")도 13회로 최다 우승팀이다. [이스탄불 축구 리그가](https://ko.wikipedia.org/wiki/이스탄불_축구_리그 "wikilink") 해체되면서 1959년에 새로 출범한 [쉬페르리그](../Page/쉬페르리그.md "wikilink")에서 [모든 시즌에 개근한](https://ko.wikipedia.org/wiki/강등_경험이_없는_클럽_목록 "wikilink") 세 개의 클럽들 중 하나이며, 쉬페르리그 4연패 경험이 있는 유일한 클럽이다.
 
@@ -47,7 +47,7 @@
 
 갈라타사라이라는 이름은 1481년에 창립된 [갈라타사라이 고등학교에서](https://ko.wikipedia.org/wiki/갈라타사라이_고등학교 "wikilink") 유래하였으며, 이 학교의 이름은 갈라타 사라유 엔데룬-우 휘마윤 (Galata Sarayı Enderûn-u Hümâyûn, 갈라타 궁전 제국 학교) 에서 나왔고, 이 학교 이름은 또다시 인근의 이스탄불 [베욜루](https://ko.wikipedia.org/wiki/베욜루 "wikilink") (페라) 구에 위치한 중세 [제노바 공화국의](../Page/제노바_공화국.md "wikilink") [성채](https://ko.wikipedia.org/wiki/성채 "wikilink")인 [갈라타](https://ko.wikipedia.org/wiki/갈라타 "wikilink") (현재의 [카라쾨이](https://ko.wikipedia.org/wiki/카라쾨이 "wikilink")) 에서 유래하였다. 갈라타사라이는 글자 그대로 "갈라타 궁전"을 뜻한다.
 
-갈라타사라이와 동일한 형태의 지소사는 존재하지 않는다. 팬들은 클럽을 정식 명칭이나 별칭인 "짐 봄 봄" (Cim Bom Bom) 이나 약칭인 '짐 봄' (Cim Bom) 으로 불린다. 정식 명칭의 약칭인 '갈라' (Gala) 는 유럽이나 아메리카 등의 해외에서 간혹 쓰이기도 한다.
+갈라타사라이와 동일한 형태의 지소사는 존재하지 않는다. 팬들은 클럽을 정식 명칭이나 별칭인 "짐 봄 봄" (Cim Bom Bom) 이나 약칭인 '짐 봄' (Cim Bom) 으로 불린다. 정식 명칭의 약칭인 '갈라' (Gala)는 유럽이나 아메리카 등의 해외에서 간혹 쓰이기도 한다.
 
 갈라타사라이는 합성 단어이며 발음도 그렇게 된다. 많은 비터키어권 사람들이 하는 발음 실수는 갈라-타사라이 (Gala-tasaray) 로 음절을 나누는 것이다. 이 단어를 음절에 따라 맞게 나누면 갈라타-사라이 (Galata-Saray) 로 두 음절 사이에 잠깐 멈추어 발음을 하도록 한다.\[24\]
 

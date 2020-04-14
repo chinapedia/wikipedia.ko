@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  SP](https://ko.wikipedia.org/wiki/__SP).
+> This article is converted from Wikipedia: [게임보이 어드밴스 SP](https://ko.wikipedia.org/wiki/게임보이_어드밴스_SP).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Game_Boy_Advance_SP.jpg "wikilink")

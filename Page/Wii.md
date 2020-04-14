@@ -116,7 +116,19 @@ CD 또는 DVD의 재생 기능은 없으나, [Wii 공식 사이트 Q\&A](http://
 
 ### WiiWare
 
-## 소프트웨어
+## 대표 소프트웨어
+
+[Wii 스포츠](../Page/Wii_스포츠.md "wikilink")
+
+[마리오 파티 9](../Page/마리오_파티_9.md "wikilink")
+
+[Wii 스포츠 리조트](../Page/Wii_스포츠_리조트.md "wikilink")
+
+[마리오 파티 8](../Page/마리오_파티_8.md "wikilink")
+
+[마리오 카트 Wii](../Page/마리오_카트_Wii.md "wikilink")
+
+[뉴 슈퍼 마리오 브라더스 Wii](https://ko.wikipedia.org/wiki/뉴_슈퍼_마리오_브라더스_Wii "wikilink")
 
 ## 색상
 

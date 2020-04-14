@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [MIME](https://ko.wikipedia.org/wiki/MIME).
 
 
-**MIME** ()는 [전자 우편을](https://ko.wikipedia.org/wiki/전자_우편 "wikilink") 위한 인터넷 표준 포맷이다. 전자우편은 7비트 [ASCII](https://ko.wikipedia.org/wiki/ASCII "wikilink") 문자를 사용하여 전송되기 때문에, 8비트 이상의 코드를 사용하는 문자나 [이진 파일들은](../Page/이진_파일.md "wikilink") MIME 포맷으로 변환되어 [SMTP](https://ko.wikipedia.org/wiki/SMTP "wikilink")로 전송된다. 실질적으로 [SMTP](https://ko.wikipedia.org/wiki/SMTP "wikilink")로 전송되는 대부분의 [전자 우편은](https://ko.wikipedia.org/wiki/전자_우편 "wikilink") MIME 형식이다. MIME 표준에 정의된 content types은 [HTTP](../Page/HTTP.md "wikilink")와 같은 통신 프로토콜에서 사용되며, 점차 그 중요성이 커지고 있다.
+**MIME**()는 [전자 우편을](https://ko.wikipedia.org/wiki/전자_우편 "wikilink") 위한 인터넷 표준 포맷이다. 전자우편은 7비트 [ASCII](https://ko.wikipedia.org/wiki/ASCII "wikilink") 문자를 사용하여 전송되기 때문에, 8비트 이상의 코드를 사용하는 문자나 [이진 파일들은](../Page/이진_파일.md "wikilink") MIME 포맷으로 변환되어 [SMTP](https://ko.wikipedia.org/wiki/SMTP "wikilink")로 전송된다. 실질적으로 [SMTP](https://ko.wikipedia.org/wiki/SMTP "wikilink")로 전송되는 대부분의 [전자 우편은](https://ko.wikipedia.org/wiki/전자_우편 "wikilink") MIME 형식이다. MIME 표준에 정의된 content types은 [HTTP](../Page/HTTP.md "wikilink")와 같은 통신 프로토콜에서 사용되며, 점차 그 중요성이 커지고 있다.
 
 ## 개요
 

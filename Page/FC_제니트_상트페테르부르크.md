@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FC  ](https://ko.wikipedia.org/wiki/FC__).
+> This article is converted from Wikipedia: [FC 제니트 상트페테르부르크](https://ko.wikipedia.org/wiki/FC_제니트_상트페테르부르크).
 
 
 **FC 제니트 상트페테르부르크**()는 [상트페테르부르크](../Page/상트페테르부르크.md "wikilink")를 연고로 하는 [러시아](../Page/러시아.md "wikilink")의 프로 [축구](../Page/축구.md "wikilink") 클럽으로 [1925년](../Page/1925년.md "wikilink")에 창단되었다. 제니트는 [러시아어](../Page/러시아어.md "wikilink")로 "천정, 정점, 절정"을 뜻한다.

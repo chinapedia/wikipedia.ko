@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ACT \(\)](https://ko.wikipedia.org/wiki/ACT_\(\)).
+> This article is converted from Wikipedia: [ACT \(시험\)](https://ko.wikipedia.org/wiki/ACT_\(시험\)).
 
 
 **ACT**(American College Testing)는 [SAT](../Page/SAT.md "wikilink")처럼 미국대학입학시험이다. SAT와 같이 매년 세계적으로 150만 명 이상의 학생들이 ACT시험을 치른다. SAT는 동부, 서부 학생들이 선호하는데 비해 ACT는 중부쪽에서 주로 선호해 왔다. 그러나 이제는 모든 대학들이 둘 중 어느 성적이건 인정하고 있는 실정이다. ACT는 영어, 수학, 독해, 그리고 과학 시험으로 이루어져있으며, SAT와 달리 한꺼번에 한 가지 시험을 치른다.

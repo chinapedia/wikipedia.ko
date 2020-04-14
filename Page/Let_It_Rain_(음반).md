@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Let It Rain \(\)](https://ko.wikipedia.org/wiki/Let_It_Rain_\(\)).
+> This article is converted from Wikipedia: [Let It Rain \(음반\)](https://ko.wikipedia.org/wiki/Let_It_Rain_\(음반\)).
 
 
 《**Let It Rain**》은 [2003년](../Page/2003년.md "wikilink") [6월 12일에](../Page/6월_12일.md "wikilink") 발매된 [넬의](https://ko.wikipedia.org/wiki/넬_\(음악_그룹\) "wikilink") 통산 3집 앨범이자 정규 1집 앨범이다. 서태지가 운영하는 레이블인 [괴수 인디진](https://ko.wikipedia.org/wiki/괴수_인디진 "wikilink") 밑으로 들어간 뒤 발표한 첫 음반이며 프로듀서는 서태지가 맡았다. 언더그라운드 음반들의 음악들보다 좀 더 대중적인 곡을 수록하였으며 대다수의 곡은 언더그라운드 시절 이미 작곡되었던 곡들이었다. 〈어차피 그런거〉,〈믿어선 안될 말〉,〈낙엽의 비〉,〈Eden〉은 언더그라운드 음반에 수록된 곡을 편곡한 것이다. 〈**Stay**〉가 타이틀곡, 〈**고양이**〉가 후속곡이다.

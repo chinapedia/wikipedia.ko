@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FIFA ](https://ko.wikipedia.org/wiki/FIFA_).
+> This article is converted from Wikipedia: [FIFA 컨페더레이션스컵](https://ko.wikipedia.org/wiki/FIFA_컨페더레이션스컵).
 
 
 **FIFA 컨페더레이션스컵**()은 [국제 축구 연맹](../Page/국제_축구_연맹.md "wikilink")(FIFA)가 주관했던 대회 가운데 하나이다. **대륙간컵**, 혹은 줄여서 **컨페드컵**이라고 부르기도 했다. 참가 팀은 개최국 팀과 [FIFA 월드컵](https://ko.wikipedia.org/wiki/FIFA_월드컵 "wikilink") 우승 팀, 그리고 6개 대륙별 축구 선수권 대회인 [코파 아메리카](../Page/코파_아메리카.md "wikilink")(남아메리카)·[AFC 아시안컵](../Page/AFC_아시안컵.md "wikilink")(아시아)·[아프리카 네이션스컵](../Page/아프리카_네이션스컵.md "wikilink")(아프리카)·[UEFA 유럽 축구 선수권 대회](https://ko.wikipedia.org/wiki/UEFA_유럽_축구_선수권_대회 "wikilink")(유럽)·[CONCACAF 골드컵](../Page/CONCACAF_골드컵.md "wikilink")(북아메리카)·[OFC 네이션스컵](../Page/OFC_네이션스컵.md "wikilink")(오세아니아)의 우승국 6개 팀까지 총 8개 팀이 경기에 참여했다.

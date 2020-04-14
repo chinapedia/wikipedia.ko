@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TGA \(\)](https://ko.wikipedia.org/wiki/TGA_\(\)).
+> This article is converted from Wikipedia: [TGA \(소프트웨어\)](https://ko.wikipedia.org/wiki/TGA_\(소프트웨어\)).
 
 
 **TGA**는 트루비전사의 [타가보드](https://ko.wikipedia.org/wiki/타가보드 "wikilink")를 위하여 개발된 [래스터 그래픽](../Page/래스터_그래픽스.md "wikilink") 파일 포맷이다. 정식 명칭은 **트루비전 TGA**(Truevision TGA)이며, 단순히 "TGA 파일 포맷", "타가 파일 포맷"으로 부르기도 한다. TGA 파일의 확장자는 PC [도스](../Page/도스.md "wikilink")/[윈도](https://ko.wikipedia.org/wiki/마이크로소프트_윈도 "wikilink") 계열과 [OS X](https://ko.wikipedia.org/wiki/OS_X "wikilink") (확장자를 사용하지 않는, 오래된 [매킨토시](../Page/매킨토시.md "wikilink") 시스템에는 "TPIC" 타입 코드를 사용했다)에서 ".tga"라는 확장자를 사용한다. 1\~32비트 컬러까지 저장할 수 있으며, 손실없는 RLE 압축방식을 지원한다. [1989년](../Page/1989년.md "wikilink"), 업데이트 이후로 변화가 없지만 [3D 그래픽](https://ko.wikipedia.org/wiki/3D_그래픽 "wikilink") 분야에서는 여전히 사용된다.

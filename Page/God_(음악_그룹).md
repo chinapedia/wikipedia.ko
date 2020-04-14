@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [God \( \)](https://ko.wikipedia.org/wiki/God_\(_\)).
+> This article is converted from Wikipedia: [God \(음악 그룹\)](https://ko.wikipedia.org/wiki/God_\(음악_그룹\)).
 
 
-**god**(지오디, **g**roove **o**ver **d**ose)는 [대한민국](../Page/대한민국.md "wikilink")의 남성 그룹이다.\[1\]\[2\] 2000년 3집 음반 184만장,\[3\] 2001년 4집 음반 171만장 이상을 판매하고, 방송 3사 가요대상을 수상하는 등 국민그룹으로 불리며 최고의 전성기를 구가했다. '100일간의 휴먼 콘서트'라는 타이틀에 매일 다른 주제로 구성된 콘서트 100회를 전회 매진시키며 성공적으로 끝마쳐, 공연계의 한 획을 긋기도 했다. 2004년 [윤계상](../Page/윤계상.md "wikilink")의 탈퇴 이후 4인조로 활동하다 2005년 7집 ‘하늘 속으로’ 를 끝으로 활동을 잠정 중단하고 각자 개인활동을 시작했다. 2012년 윤계상의 원테이블이라는 방송을 통하여 윤계상의 탈퇴 이후 첫 다섯명이 방송을 하게되었으며 2014년 데뷔 15주년이 되는 해에 5인조로 8집을 발매하여 다시 그룹 활동을 재기하였다.2019년 데뷔20주년기념으로 THEN\&NOW 앨범을 발매하였다.
+**god**(지오디, **g**roove **o**ver **d**ose)는 [대한민국](../Page/대한민국.md "wikilink")의 남성 그룹이다.\[1\]\[2\] 2000년 3집 음반 184만장,\[3\] 2001년 4집 음반 171만장 이상을 판매하고, 방송 3사 가요대상을 수상하는 등 국민그룹으로 불리며 최고의 전성기를 구가했다. '100일간의 휴먼 콘서트'라는 타이틀에 매일 다른 주제로 구성된 콘서트 100회를 전회 매진시키며 성공적으로 끝마쳐, 공연계의 한 획을 긋기도 했다. 2004년 [윤계상](../Page/윤계상.md "wikilink")의 탈퇴 이후 4인조로 활동하다 2005년 7집 '하늘 속으로' 를 끝으로 활동을 잠정 중단하고 각자 개인활동을 시작했다. 2012년 윤계상의 원테이블이라는 방송을 통하여 윤계상의 탈퇴 이후 첫 다섯명이 방송을 하게되었으며 2014년 데뷔 15주년이 되는 해에 5인조로 8집을 발매하여 다시 그룹 활동을 재기하였다. 2019년 데뷔 20주년 기념으로 THEN\&NOW 앨범을 발매하였다.
 
 ## 구성원
 
@@ -267,17 +267,17 @@
   - 2000년 오디션닷컴
   - 2000년 [SK네트웍스](../Page/SK네트웍스.md "wikilink") 스마트
   - 2000년 [롯데칠성](https://ko.wikipedia.org/wiki/롯데칠성 "wikilink") [펩시콜라](https://ko.wikipedia.org/wiki/펩시콜라 "wikilink")
-  - 2001년 [해태제과식품](../Page/해태제과식품.md "wikilink") 하몬스
+  - 2001년 [해태제과](https://ko.wikipedia.org/wiki/해태제과 "wikilink") 하몬스
   - 2001년 센추리에어컨 (GOD의 육아일기 팀으로 출연)
-  - 2001년 [해태제과식품](../Page/해태제과식품.md "wikilink") 2&4바
-  - 2001년 [해태제과식품](../Page/해태제과식품.md "wikilink") [부라보콘](https://ko.wikipedia.org/wiki/부라보콘 "wikilink")
+  - 2001년 [해태제과](https://ko.wikipedia.org/wiki/해태제과 "wikilink") 2&4바
+  - 2001년 [해태제과](https://ko.wikipedia.org/wiki/해태제과 "wikilink") [부라보콘](https://ko.wikipedia.org/wiki/부라보콘 "wikilink")
   - 2001년 [KT](../Page/KT.md "wikilink") 한미르
-  - 2001년 [해태제과식품](../Page/해태제과식품.md "wikilink") 자유시간
+  - 2001년 [해태제과](https://ko.wikipedia.org/wiki/해태제과 "wikilink") 자유시간
   - 2002년 [KT](../Page/KT.md "wikilink") 메가패스
   - 2002년 [현대자동차](https://ko.wikipedia.org/wiki/현대자동차 "wikilink") CLICK
   - 2002년 [서울우유](https://ko.wikipedia.org/wiki/서울우유 "wikilink") 기업PR
   - 2002년 알유진
-  - 2003년 [동부대우전자](https://ko.wikipedia.org/wiki/동부대우전자 "wikilink") 써머스
+  - 2003년 [위니아대우](../Page/위니아대우.md "wikilink") 써머스
   - 2004년 [LG전자](../Page/LG전자.md "wikilink") 싸이언 뮤직폰
   - 2005년 [피자헛](../Page/피자헛.md "wikilink") 메가핫치킨피자
   - 2005년 [롯데리아](../Page/롯데리아.md "wikilink") 환경부

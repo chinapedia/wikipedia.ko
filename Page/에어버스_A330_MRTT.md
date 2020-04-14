@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ A330 MRTT](https://ko.wikipedia.org/wiki/_A330_MRTT).
+> This article is converted from Wikipedia: [에어버스 A330 MRTT](https://ko.wikipedia.org/wiki/에어버스_A330_MRTT).
 
 
 **에어버스 A330 다목적 공중급유기**(MRTT)는 일명 [KC-30A](https://ko.wikipedia.org/wiki/KC-30A "wikilink")로도 일컬어 지며,[에어버스 A330-200을](../Page/에어버스_A330.md "wikilink") 개량한 차세대 [공중급유기](https://ko.wikipedia.org/wiki/공중급유기 "wikilink")이다. [미국 공군을](../Page/미국_공군.md "wikilink") 위한 [KC-46가](../Page/보잉_KC-46_페가수스.md "wikilink") 있다.

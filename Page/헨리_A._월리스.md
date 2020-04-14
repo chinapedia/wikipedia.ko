@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ A. ](https://ko.wikipedia.org/wiki/_A._).
+> This article is converted from Wikipedia: [헨리 A. 월리스](https://ko.wikipedia.org/wiki/헨리_A._월리스).
 
 
 **헨리 어거드 월리스**(Henry Agard Wallace, [1888년](../Page/1888년.md "wikilink") [10월 7일](../Page/10월_7일.md "wikilink") \~ [1965년](../Page/1965년.md "wikilink") [11월 18일](../Page/11월_18일.md "wikilink"))는 [미국](../Page/미국.md "wikilink")의 제33대 [부통령](../Page/미국의_부통령.md "wikilink") (1941년\~ 45년), 11대 농무 장관 (1933년 \~ 40년)과 10대 상무 장관 (1945년 \~ 46년)이다. [1948년 미국 대통령 선거에서](https://ko.wikipedia.org/wiki/1948년_미국_대통령_선거 "wikilink") 월리스는 좌익 진보당의 후보 지명자로 그가 후에 허락한 태도가 실수였던 [소련](../Page/소련.md "wikilink")의 확장론에 [해리 S. 트루먼의](../Page/해리_S._트루먼.md "wikilink") 반대 정책의 비판으로 캠페인을 벌였다.

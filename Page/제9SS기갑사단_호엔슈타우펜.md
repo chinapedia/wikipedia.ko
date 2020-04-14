@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [9SS ](https://ko.wikipedia.org/wiki/9SS_).
+> This article is converted from Wikipedia: [제9SS기갑사단 호엔슈타우펜](https://ko.wikipedia.org/wiki/제9SS기갑사단_호엔슈타우펜).
 
 
 **제9SS기갑사단 호엔슈타우펜**은 [제2차 세계 대전](../Page/제2차_세계_대전.md "wikilink") 당시 [동부 전선과](https://ko.wikipedia.org/wiki/동부_유럽_전선_\(제2차_세계_대전\) "wikilink") [서부 전선](https://ko.wikipedia.org/wiki/서부_유럽_전선_\(제2차_세계_대전\) "wikilink"), 양 전선에서 활약한 [독일](../Page/독일.md "wikilink") [무장 친위대](https://ko.wikipedia.org/wiki/무장_친위대 "wikilink") 기갑 사단이다.
@@ -58,10 +58,10 @@
 
 ### 사단명의 변천
 
-  - **9 SS 기갑척탄병 사단** (SS-Panzergrenadier-Division Hohenstaufen) 1943년 2월 - 1943년 3월
-  - **9 SS 기갑척탄병 호엔슈타우펜** (SS-Panzergrenadier-Division Hohenstaufen) 1943년 3월 - 1943년 10월
-  - **SS 기갑 사단 호엔슈타우펜** (SS-Panzer-Division Hohenstaufen) 1943년 10월
-  - **9 SS 기갑 사단 호엔슈타우펜** ( 9. SS-Panzer-Division Hohenstaufen) 1943년 10월 - 1945년 5월
+  - **9 SS 기갑척탄병 사단**(SS-Panzergrenadier-Division Hohenstaufen) 1943년 2월 - 1943년 3월
+  - **9 SS 기갑척탄병 호엔슈타우펜**(SS-Panzergrenadier-Division Hohenstaufen) 1943년 3월 - 1943년 10월
+  - **SS 기갑 사단 호엔슈타우펜**(SS-Panzer-Division Hohenstaufen) 1943년 10월
+  - **9 SS 기갑 사단 호엔슈타우펜**( 9. SS-Panzer-Division Hohenstaufen) 1943년 10월 - 1945년 5월
 
 ### 역대 지휘관
 
@@ -95,7 +95,7 @@
 
 ### 전투서열
 
-**9 SS 기갑 사단 호엔슈타우펜** (1943년 10월 - 1945년 5월)
+**9 SS 기갑 사단 호엔슈타우펜**(1943년 10월 - 1945년 5월)
 
   - 9 SS 기갑 연대
   - 19 SS 기갑척탄병 연대

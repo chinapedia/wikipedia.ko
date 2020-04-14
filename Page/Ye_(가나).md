@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Ye \(\)](https://ko.wikipedia.org/wiki/Ye_\(\)).
+> This article is converted from Wikipedia: [Ye \(가나\)](https://ko.wikipedia.org/wiki/Ye_\(가나\)).
 
 
 [섬네일의](https://ko.wikipedia.org/wiki/파일:Hiragana_E_01.png "wikilink") 시대에는 구별이 있었던 [히라가나](../Page/히라가나.md "wikilink") Ye의 문자. 현재는 에 대응되는 [헨타이가나](../Page/헨타이가나.md "wikilink")로 분류된다.\]\]

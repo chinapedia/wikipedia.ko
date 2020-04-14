@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [IAI ](https://ko.wikipedia.org/wiki/IAI_).
+> This article is converted from Wikipedia: [IAI 헤론](https://ko.wikipedia.org/wiki/IAI_헤론).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:IAI_Heron_1_in_flight_2.JPEG "wikilink") [섬네일에서](https://ko.wikipedia.org/wiki/파일:Heron_UAV_2009.jpg "wikilink") 이륙중인 헤론\]\] [섬네일의](https://ko.wikipedia.org/wiki/파일:A45-253_IAI_Heron_MALE_\(Medium_Altitude_Long_Endurance\)_UAV_\(11560409375\).jpg "wikilink") 헤론\]\]

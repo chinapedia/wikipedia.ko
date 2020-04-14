@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [UP \( \)](https://ko.wikipedia.org/wiki/UP_\(_\)).
+> This article is converted from Wikipedia: [UP \(음악 그룹\)](https://ko.wikipedia.org/wiki/UP_\(음악_그룹\)).
 
 
 **UP**(유피)는 [1996년](../Page/1996년.md "wikilink")부터 [1999년](../Page/1999년.md "wikilink")까지 활동한 [대한민국](../Page/대한민국.md "wikilink")의 4인조 혼성그룹이다.

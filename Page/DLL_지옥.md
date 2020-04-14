@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [DLL ](https://ko.wikipedia.org/wiki/DLL_).
+> This article is converted from Wikipedia: [DLL 지옥](https://ko.wikipedia.org/wiki/DLL_지옥).
 
 
 **DLL 지옥**()은 [마이크로소프트 윈도](https://ko.wikipedia.org/wiki/마이크로소프트_윈도 "wikilink") 기반의 프로그램에서 [DLL을](../Page/동적_링크_라이브러리.md "wikilink") 사용할 경우 발생할 수 있는 복잡성을 뜻하는 말이다. 이 용어는 릭 엔더슨(Rick Anderson)이 [2000년](../Page/2000년.md "wikilink") [1월](../Page/1월.md "wikilink")에 발표한 〈DLL 지옥의 종말(The End of DLL Hell)〉 이라는 문서를 통해 대중에 소개되었다. 그 전에는 잠시 동안 [마이크로소프트](../Page/마이크로소프트.md "wikilink") 내부에서 사용되었다.

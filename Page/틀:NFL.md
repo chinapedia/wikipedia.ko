@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:NFL](https://ko.wikipedia.org/wiki/:NFL).
+> This article is converted from Wikipedia: [틀:NFL](https://ko.wikipedia.org/wiki/틀:NFL).
 
 
 <table>

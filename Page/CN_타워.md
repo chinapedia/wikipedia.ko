@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [CN ](https://ko.wikipedia.org/wiki/CN_).
+> This article is converted from Wikipedia: [CN 타워](https://ko.wikipedia.org/wiki/CN_타워).
 
 
 **CN 타워**()는 [1976년](../Page/1976년.md "wikilink")에 [캐나다](../Page/캐나다.md "wikilink") [토론토](../Page/토론토.md "wikilink")에 세워진 높이 553.33m의 탑이다.

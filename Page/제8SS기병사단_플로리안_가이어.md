@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [8SS  ](https://ko.wikipedia.org/wiki/8SS__).
+> This article is converted from Wikipedia: [제8SS기병사단 플로리안 가이어](https://ko.wikipedia.org/wiki/제8SS기병사단_플로리안_가이어).
 
 
 **제8SS기병사단 플로리안 가이어**는 [제2차 세계 대전](../Page/제2차_세계_대전.md "wikilink") 당시 [동부 전선에서](https://ko.wikipedia.org/wiki/동부_유럽_전선_\(제2차_세계_대전\) "wikilink") 활동한 독일 [무장친위대](../Page/무장친위대.md "wikilink") [기병](../Page/기병.md "wikilink") 사단이다. 주로 [대분란전](../Page/대분란전.md "wikilink") 임무를 수행한 제8SS기병사단은 민간인 학살 행위로 악명을 떨쳤다.

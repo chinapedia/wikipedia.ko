@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ IIDX](https://ko.wikipedia.org/wiki/_IIDX).
+> This article is converted from Wikipedia: [비트매니아 IIDX](https://ko.wikipedia.org/wiki/비트매니아_IIDX).
 
 
 **비트매니아 IIDX**(, )는 [1999년](../Page/1999년.md "wikilink") 일본의 [코나미](../Page/코나미.md "wikilink")에서 발매한 [음악 게임이다](https://ko.wikipedia.org/wiki/음악_게임 "wikilink"). [비마니 시리즈](../Page/비마니_시리즈.md "wikilink") 중 하나로, [비트매니아](../Page/비트매니아.md "wikilink")의 후계 기종이다. 기존 [비트매니아](../Page/비트매니아.md "wikilink")와는 달리 시스템, 그래픽적으로 많은 변화를 시도한 기종이다. 대한민국의 플레이어들은 대체로 투디엑스(IIDX)를 줄여 **투덱**이라 부른다.

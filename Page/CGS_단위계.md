@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [CGS ](https://ko.wikipedia.org/wiki/CGS_).
+> This article is converted from Wikipedia: [CGS 단위계](https://ko.wikipedia.org/wiki/CGS_단위계).
 
 
 **CGS 단위계**는 센티미터(cm), 그램(g), 초(s)를 기본 단위로 삼는 단위계로, [1832년](../Page/1832년.md "wikilink") [독일](../Page/독일.md "wikilink")의 수학자 [카를 프리드리히 가우스가](../Page/카를_프리드리히_가우스.md "wikilink") 제안하였고, [1874년](../Page/1874년.md "wikilink") [제임스 클러크 맥스웰이](../Page/제임스_클러크_맥스웰.md "wikilink") 확장하였다. [SI 단위계의](https://ko.wikipedia.org/wiki/SI_단위계 "wikilink") 영향으로 일반적으로는 잘 쓰이지는 않지만, [전자기학](../Page/전자기학.md "wikilink")이나 [천문학](https://ko.wikipedia.org/wiki/천문학 "wikilink")에서는 아직도 널리 쓰이고 있다.

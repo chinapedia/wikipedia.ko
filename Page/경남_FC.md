@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
+> This article is converted from Wikipedia: [경남 FC](https://ko.wikipedia.org/wiki/경남_FC).
 
 
 **경남 FC**()는 [K리그2](../Page/K리그2.md "wikilink")에 소속된 [대한민국](../Page/대한민국.md "wikilink")의 프로 [축구](../Page/축구.md "wikilink")단으로, [경상남도](https://ko.wikipedia.org/wiki/경상남도 "wikilink")를 연고로 [2006년](../Page/2006년.md "wikilink") [1월 17일에](../Page/1월_17일.md "wikilink") 창단하였다. [창원시](../Page/창원시.md "wikilink")에 위치한 [창원축구센터](../Page/창원축구센터.md "wikilink")를 홈 경기장으로 사용하며, 클럽하우스는 [함안군](../Page/함안군.md "wikilink")에 위치하고 있다.
@@ -63,7 +63,7 @@
 
 ### 현재 선수 명단
 
-[2020년](../Page/2020년.md "wikilink") [1월 31일](../Page/1월_31일.md "wikilink") 기준                [16px](https://ko.wikipedia.org/wiki/파일:Captain_sports.svg "wikilink")
+[2020년](../Page/2020년.md "wikilink") [3월 3일](../Page/3월_3일.md "wikilink") 기준                [16px](https://ko.wikipedia.org/wiki/파일:Captain_sports.svg "wikilink")
 
 ### 임대 및 군 복무 중인 선수
 
@@ -170,40 +170,14 @@
 
 ### 코칭 스태프
 
-<table>
-<thead>
-<tr class="header">
-<th><p>직위</p></th>
-<th><p>이름</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>감독</p></td>
-<td><p><a href="../Page/설기현.md" title="wikilink">설기현</a></p></td>
-</tr>
-<tr class="even">
-<td><p>수석 코치</p></td>
-<td><p>김종영</p></td>
-</tr>
-<tr class="odd">
-<td><p>골키퍼 코치</p></td>
-<td><p>양지원</p></td>
-</tr>
-<tr class="even">
-<td><p>코치</p></td>
-<td><p>홍준형</p></td>
-</tr>
-<tr class="odd">
-<td><p>코치</p></td>
-<td><p><a href="../Page/배효성.md" title="wikilink">배효성</a></p></td>
-</tr>
-<tr class="even">
-<td><p>피지컬 코치</p></td>
-<td><p>하파엘</p></td>
-</tr>
-</tbody>
-</table>
+| 직위     | 이름                                                  |
+| ------ | --------------------------------------------------- |
+| 감독     | [설기현](../Page/설기현.md "wikilink")                    |
+| 수석 코치  | 김종영                                                 |
+| 골키퍼 코치 | 양지원                                                 |
+| 코치     | [홍준형](https://ko.wikipedia.org/wiki/홍준형 "wikilink") |
+| 코치     | [배효성](../Page/배효성.md "wikilink")                    |
+| 피지컬 코치 | 하파엘                                                 |
 
 ### 감독 연혁
 
@@ -402,7 +376,9 @@
 | 2012년\~2013년                                  | [험멜](https://ko.wikipedia.org/wiki/험멜 "wikilink")        |                                                       |
 | 2013년\~2015년                                  | [대우조선해양](../Page/대우조선해양.md "wikilink")                   |                                                       |
 | 2016년                                         | [아스토레](https://ko.wikipedia.org/wiki/아스토레 "wikilink")    | [경상남도](https://ko.wikipedia.org/wiki/경상남도 "wikilink") |
-| 2017년\~현재                                     | [험멜](https://ko.wikipedia.org/wiki/험멜 "wikilink")        |                                                       |
+| 2017년\~2018년                                  | [험멜](https://ko.wikipedia.org/wiki/험멜 "wikilink")        |                                                       |
+| 2019년                                         | 경상남도(리그)/ 농협(ACL)                                        |                                                       |
+| 2020년                                         | 농협(홈)/ 경남은행(어웨이)                                         |                                                       |
 
 ## 각주
 

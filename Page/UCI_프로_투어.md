@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [UCI  ](https://ko.wikipedia.org/wiki/UCI__).
+> This article is converted from Wikipedia: [UCI 프로 투어](https://ko.wikipedia.org/wiki/UCI_프로_투어).
 
 
 **UCI 프로투어** (UCI ProTour)는 [국제 사이클 연맹](../Page/국제_사이클_연맹.md "wikilink")(UCI) 감독 하에서 벌어지는 경기이다. UCI이 전임 회장인 하인 베르브루겐(Hein Verbruggen)이 만들었다. 프로투어는 일련의 [도로 자전거 경기와](../Page/도로_자전거_경기.md "wikilink") 많은 'ProTour' [사이클 팀으로](https://ko.wikipedia.org/wiki/사이클_팀 "wikilink") 구성된다. 각 팀은 모든 경기에 참가해야 한다. 이런 체계는 2005년에 새로 만들어졌으며, 대체로 2004년을 끝으로 없어진 [UCI 월드컵을](https://ko.wikipedia.org/wiki/UCI_월드컵 "wikilink") 대신한다.

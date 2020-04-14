@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ Mk V](https://ko.wikipedia.org/wiki/_Mk_V).
+> This article is converted from Wikipedia: [건담 Mk V](https://ko.wikipedia.org/wiki/건담_Mk_V).
 
 
 **건담 Mk V**는 (건담 마크 파이브, **GUNDAM Mk V**)는 [소설](../Page/소설.md "wikilink")과 [모형에](https://ko.wikipedia.org/wiki/모델 "wikilink") 의한 포토 스토리 작품『[건담 센티넬](https://ko.wikipedia.org/wiki/건담_센티넬 "wikilink")』에 등장하는 [가공의 병기](https://ko.wikipedia.org/wiki/가공의_병기 "wikilink"). [지구연방군](https://ko.wikipedia.org/wiki/지구연방군 "wikilink")의 시작형 [모빌슈트](../Page/모빌슈트.md "wikilink")이다. (형식번호: ORX-013)

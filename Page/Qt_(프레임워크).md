@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Qt \(\)](https://ko.wikipedia.org/wiki/Qt_\(\)).
+> This article is converted from Wikipedia: [Qt \(프레임워크\)](https://ko.wikipedia.org/wiki/Qt_\(프레임워크\)).
 
 
 **Qt**는 컴퓨터 프로그래밍에서 [GUI](../Page/그래픽_사용자_인터페이스.md "wikilink") 프로그램 개발에 널리 쓰이는 크로스 플랫폼 프레임워크이다. 서버용 콘솔과 명령 줄 도구와 같은 비GUI 프로그램 개발에도 사용된다. 그래픽 사용자 인터페이스를 사용하는 경우에는 Qt를 [위젯 툴킷으로](https://ko.wikipedia.org/wiki/위젯_툴킷 "wikilink") 분류한다. 회사 내부에서는 Qt를 "cute"로 발음하고 있으며 비공식적으로는 "큐티"로 발음한다. Qt는 [KDE](../Page/KDE.md "wikilink"), [Qtopia](https://ko.wikipedia.org/wiki/Qtopia "wikilink"), [OPIE](https://ko.wikipedia.org/wiki/OPIE "wikilink")에 이용되고 있다,

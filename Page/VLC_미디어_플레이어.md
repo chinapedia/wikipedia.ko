@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [VLC  ](https://ko.wikipedia.org/wiki/VLC__).
+> This article is converted from Wikipedia: [VLC 미디어 플레이어](https://ko.wikipedia.org/wiki/VLC_미디어_플레이어).
 
 
 **VLC 미디어 플레이어**()는 VideoLAN에서 개발한 [미디어 플레이어이다](../Page/미디어_플레이어.md "wikilink"). 원래는 [프랑스](../Page/프랑스.md "wikilink")의 공과대학 [에콜 센트랄 파리에서](https://ko.wikipedia.org/wiki/에콜_센트랄_파리 "wikilink") 학생 프로젝트로 시작하여 개발되었고, 대표적으로 널리 알려진 [자유 소프트웨어](../Page/자유_소프트웨어.md "wikilink") 프로그램이며 아이콘은 러버콘이다.

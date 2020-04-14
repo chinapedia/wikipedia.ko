@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Ls \(\)](https://ko.wikipedia.org/wiki/Ls_\(\)).
+> This article is converted from Wikipedia: [Ls \(유닉스\)](https://ko.wikipedia.org/wiki/Ls_\(유닉스\)).
 
 
 **`ls`**는 [POSIX](../Page/POSIX.md "wikilink") 및 [단일 유닉스 규격에](../Page/단일_유닉스_규격.md "wikilink") 규정되어 있는 [유닉스 계열](../Page/유닉스_계열.md "wikilink") [운영 체제의](../Page/운영_체제.md "wikilink") [명령어](https://ko.wikipedia.org/wiki/명령어_\(컴퓨팅\) "wikilink") 가운데 하나로, ‘list segments’의 약자이며, [파일의](../Page/컴퓨터_파일.md "wikilink") 목록을 표시하는 기능을 수행하는 명령어이다. [도스](../Page/도스.md "wikilink")에서의 [`dir`](https://ko.wikipedia.org/wiki/dir "wikilink")과 유사한 명령어이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FN ](https://ko.wikipedia.org/wiki/FN_).
+> This article is converted from Wikipedia: [FN 미니미](https://ko.wikipedia.org/wiki/FN_미니미).
 
 
 **FN 미니미**(, 소형 [기관총](../Page/기관총.md "wikilink"))는 [파브리크 나시오날 드 에르스탈](https://ko.wikipedia.org/wiki/파브리크_나시오날_드_에르스탈 "wikilink")(Fabrique Nationale de Herstal)사가 생산하는 [5.56 × 45 mm NATO](../Page/5.56_×_45_mm_NATO.md "wikilink") 탄 사용 [경기관총](https://ko.wikipedia.org/wiki/경기관총 "wikilink")이다. [미군](../Page/미군.md "wikilink") 제식명은 [M249 분대지원화기](https://ko.wikipedia.org/wiki/M249_분대지원화기 "wikilink")(M249 Squad Automatic Weapon, M249 SAW)이며, FN 미니미와 약간의 차이가 있다. [대한민국의](https://ko.wikipedia.org/wiki/대한민국의_군사 "wikilink") [K3 기관총](../Page/K3_기관총.md "wikilink") 같은 경우, FN 미니미와 디자인이 비슷하다.

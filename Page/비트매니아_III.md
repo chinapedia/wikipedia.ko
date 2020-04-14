@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ III](https://ko.wikipedia.org/wiki/_III).
+> This article is converted from Wikipedia: [비트매니아 III](https://ko.wikipedia.org/wiki/비트매니아_III).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:ビートマニア３.JPG "wikilink") 《**비트매니아 III**》(beatmania III)는 [2000년](../Page/2000년.md "wikilink") [코나미](../Page/코나미.md "wikilink")사에서 개발한 [음악 게임으로서](https://ko.wikipedia.org/wiki/음악_게임 "wikilink") [비트매니아](../Page/비트매니아.md "wikilink")의 후계 기종이다. 음악이나 게임성등 여러면에서 변화를 시도한 [비트매니아 IIDX와는](../Page/비트매니아_IIDX.md "wikilink") 달리, 기존 [비트매니아](../Page/비트매니아.md "wikilink")의 게임 방법과 수록곡을 유지하면서 다양한 이펙트 기능이나 그래픽, 사운드 시스템 등 기기의 성능을 업그레이드한 성격의 게임이다. 2002년 7월 [비트매니아](../Page/비트매니아.md "wikilink") 시리즈가 최종작을 발매함에 따라 비트매니아 III도 beatmania III THE FINAL로 시리즈를 끝마쳤다. 이 시리즈는 [일본](../Page/일본.md "wikilink")에서도 100대의 기기만이 생산되었고, 새로운 버전이 발매되어도 추가적인 기기 생산은 없었다.

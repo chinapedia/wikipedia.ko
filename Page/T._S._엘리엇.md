@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [T. S. ](https://ko.wikipedia.org/wiki/T._S._).
+> This article is converted from Wikipedia: [T. S. 엘리엇](https://ko.wikipedia.org/wiki/T._S._엘리엇).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:T_S_Eliot_Simon_Fieldhouse.jpg "wikilink") **토머스 스턴스 엘리엇**(, [OM](https://ko.wikipedia.org/wiki/:en:Order_of_Merit "wikilink"), [1888년](../Page/1888년.md "wikilink") [9월 26일](../Page/9월_26일.md "wikilink") \~ [1965년](../Page/1965년.md "wikilink") [1월 4일](../Page/1월_4일.md "wikilink"))은 미국계 영국 [시인](https://ko.wikipedia.org/wiki/시인 "wikilink"), [극작가](../Page/극작가.md "wikilink") 그리고 [문학 비평가였다](https://ko.wikipedia.org/wiki/평론가 "wikilink"). [미국](../Page/미국.md "wikilink")에서 태어났으나 후에 [영국](../Page/영국.md "wikilink")에 귀화했다.
@@ -49,7 +49,7 @@
 
 ### 기타
 
-[1939년](../Page/1939년.md "wikilink") 어린이를 위한 시 《[지혜로운 고양이가 되기 위한 지침서](../Page/지혜로운_고양이가_되기_위한_지침서.md "wikilink")》(*Old Possum's Book of Practical Cat*)을 발표했다. 게다가, 포섬 아저씨는 [에즈라 파운드가](../Page/에즈라_파운드.md "wikilink") 그에게 붙인 별명이다. 엘리엇의 사후, 이 작품은 웨스트 엔드와 [브로드웨이](https://ko.wikipedia.org/wiki/브로드웨이 "wikilink")의 [앤드류 로이드 웨버의](https://ko.wikipedia.org/wiki/앤드류_로이드_웨버 "wikilink") 히트 뮤지컬 《[캐츠(CATS)](../Page/캣츠_\(뮤지컬\).md "wikilink")》의 원작이 된다.
+[1939년](../Page/1939년.md "wikilink") 어린이를 위한 시 《[지혜로운 고양이가 되기 위한 지침서](../Page/지혜로운_고양이가_되기_위한_지침서.md "wikilink")》(*Old Possum's Book of Practical Cat*)을 발표했다. 게다가, 포섬 아저씨는 [에즈라 파운드가](../Page/에즈라_파운드.md "wikilink") 그에게 붙인 별명이다. 엘리엇의 사후, 이 작품은 웨스트 엔드와 [브로드웨이](../Page/브로드웨이.md "wikilink")의 [앤드류 로이드 웨버의](https://ko.wikipedia.org/wiki/앤드류_로이드_웨버 "wikilink") 히트 뮤지컬 《[캐츠(CATS)](../Page/캣츠_\(뮤지컬\).md "wikilink")》의 원작이 된다.
 
 ## 서훈
 

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ CJK IME](https://ko.wikipedia.org/wiki/_CJK_IME).
+> This article is converted from Wikipedia: [유니코드 CJK IME](https://ko.wikipedia.org/wiki/유니코드_CJK_IME).
 
 
 **유니코드 CJK IME**는 한중일 문자 처리에 모두 똑같이 쓰이는 기술(특히 한자)을 하나로 묶은 솔루션으로, [한국과학기술정보연구원](../Page/한국과학기술정보연구원.md "wikilink")과 [조선민주주의인민공화국](../Page/조선민주주의인민공화국.md "wikilink")의 [평양정보센터](https://ko.wikipedia.org/wiki/평양정보센터 "wikilink")가 남북 정보 기술 협력 사업의 일환으로 같이 개발했다.

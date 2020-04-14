@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KVM ](https://ko.wikipedia.org/wiki/KVM_).
+> This article is converted from Wikipedia: [KVM 스위치](https://ko.wikipedia.org/wiki/KVM_스위치).
 
 
 [thumb](https://ko.wikipedia.org/wiki/파일:Kvm-switch-diagram.svg "wikilink")

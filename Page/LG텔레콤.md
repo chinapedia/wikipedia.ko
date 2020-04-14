@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [LG](https://ko.wikipedia.org/wiki/LG).
+> This article is converted from Wikipedia: [LG텔레콤](https://ko.wikipedia.org/wiki/LG텔레콤).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:LG_Telecom_Daerijeom.jpg "wikilink") **LG텔레콤**(LG Telecom)은 대한민국의 [이동통신](https://ko.wikipedia.org/wiki/이동통신 "wikilink") 사업자였으며 [LG 그룹](https://ko.wikipedia.org/wiki/LG_그룹 "wikilink") 계열사이다. 유무선통합 3위 사업자이며, 이동 통신 3위 사업자이다. [2010년](../Page/2010년.md "wikilink") [1월 1일부터](../Page/1월_1일.md "wikilink") [LG데이콤](../Page/LG데이콤.md "wikilink"), [LG파워콤](../Page/LG파워콤.md "wikilink")과 합병하였다. [2010년](../Page/2010년.md "wikilink") [7월 1일부터](../Page/7월_1일.md "wikilink") 사명을 [LG유플러스](../Page/LG유플러스.md "wikilink")(LG U+)로 변경하였다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [3SS ](https://ko.wikipedia.org/wiki/3SS_).
+> This article is converted from Wikipedia: [제3SS기갑사단 토텐코프](https://ko.wikipedia.org/wiki/제3SS기갑사단_토텐코프).
 
 
 **제3SS기갑사단 토텐코프**()는 [제2차 세계 대전](../Page/제2차_세계_대전.md "wikilink") 당시 [무장 친위대에](https://ko.wikipedia.org/wiki/무장_친위대 "wikilink") 의해 편성된 38개 [사단](../Page/사단_\(군사\).md "wikilink") 중 하나이다. 토텐코프의 전적은 수많은 전쟁범죄로 퇴색되었으며, 그 전쟁범죄 대부분은 [SS해골단](https://ko.wikipedia.org/wiki/SS해골단 "wikilink")(SS-Totenkopfvervände)와 [일반 친위대](https://ko.wikipedia.org/wiki/일반_친위대 "wikilink")(Allgemeine-SS) 그리고 [질서경찰](../Page/질서경찰.md "wikilink")(Ordnungspolizei)에서 차출된 병사들에 의해서 자행되었다.

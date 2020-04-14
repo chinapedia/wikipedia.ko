@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [GT](https://ko.wikipedia.org/wiki/GT).
+> This article is converted from Wikipedia: [GT카](https://ko.wikipedia.org/wiki/GT카).
 
 
 [right](https://ko.wikipedia.org/wiki/파일:Aston_Martin_DB9_-_Birmingham_-_2005-10-14_\(2\).jpg "wikilink")\]\] **GT카**(, , GT)는 장거리 운전을 목적으로 설계된 고성능의 [자동차](../Page/자동차.md "wikilink")를 가리킨다. 따라서 성능이 뛰어난 어떠한 종류의 자동차도 GT카라고 부를 수 있으나 관례상 대부분 운전석과 조수석 외에 성인이 앉기엔 좁은 플러스 시트([2+2 시트](https://ko.wikipedia.org/wiki/2+2_시트 "wikilink"))를 가진 차를 GT카라고 부른다. 2도어 차체를 구분하는 [쿠페](../Page/쿠페.md "wikilink")가 아닌 [4도어](https://ko.wikipedia.org/wiki/4도어 "wikilink") 자동차 중에서도 GT카가 존재한다.

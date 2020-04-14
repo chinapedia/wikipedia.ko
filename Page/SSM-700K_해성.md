@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [SSM-700K ](https://ko.wikipedia.org/wiki/SSM-700K_).
+> This article is converted from Wikipedia: [SSM-700K 해성](https://ko.wikipedia.org/wiki/SSM-700K_해성).
 
 
-**SSM-700K해성**은 [대한민국](../Page/대한민국.md "wikilink")이 국내 기술로 독자 개발에 성공한 [함대함 순항 미사일이다](https://ko.wikipedia.org/wiki/함대함_순항_미사일 "wikilink"). [국방과학연구소](../Page/국방과학연구소.md "wikilink")(ADD)가 개발을 총주관하고 [LIG넥스원](../Page/LIG넥스원.md "wikilink")이 시제종합 업체로 참여했다. \[PCC\] 이상급 해군 함정에 장착, 운용되고 있다. 사거리 1,000km에 이르는 순항미사일인 함대지형([해성-2](https://ko.wikipedia.org/wiki/해성-2 "wikilink")), 잠대지형([해성-3](https://ko.wikipedia.org/wiki/해성-3 "wikilink")) 이 있으며, 적 종심을 원거리에서 정확하게 타격할 수 있다. 잠대지형은 건조가 시작되어 2020년대에 모두 9척이 운용될 3,000톤급 [장보고 3급 잠수함의](https://ko.wikipedia.org/wiki/장보고_3급_잠수함 "wikilink") 수직발사대에서 발사 운용이 가능하다.
+**SSM-700K해성**은 [대한민국](../Page/대한민국.md "wikilink")이 국내 기술로 독자 개발에 성공한 [함대함 순항 미사일이다](https://ko.wikipedia.org/wiki/함대함_순항_미사일 "wikilink"). [국방과학연구소](../Page/국방과학연구소.md "wikilink")(ADD)가 개발을 총주관하고 [LIG넥스원](../Page/LIG넥스원.md "wikilink")이 시제종합 업체로 참여했다. \[PKG\] 이상급 해군 함정에 장착, 운용되고 있다. 사거리 1,000km에 이르는 순항미사일인 함대지형([해성-2](https://ko.wikipedia.org/wiki/해성-2 "wikilink")), 잠대지형([해성-3](https://ko.wikipedia.org/wiki/해성-3 "wikilink")) 이 있으며, 적 종심을 원거리에서 정확하게 타격할 수 있다. 잠대지형은 건조가 시작되어 2020년대에 모두 9척이 운용될 3,000톤급 [장보고 3급 잠수함의](https://ko.wikipedia.org/wiki/장보고_3급_잠수함 "wikilink") 수직발사대에서 발사 운용이 가능하다.
 
 ## 연혁
 

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [R ](https://ko.wikipedia.org/wiki/R_).
+> This article is converted from Wikipedia: [R 트리](https://ko.wikipedia.org/wiki/R_트리).
 
 
 **R 트리**는 [B 트리와](../Page/B_트리.md "wikilink") 비슷한데 다차원의 공간 데이터를 저장하는 [색인이다](https://ko.wikipedia.org/wiki/트리_구조 "wikilink"). 이를테면, 지리학에서 R 트리는 "현재 위치에서 200km 이내의 모든 도시를 찾아라"와 같은 [질의](https://ko.wikipedia.org/wiki/질의 "wikilink")에 대해 빠르게 답을 줄 수 있다.

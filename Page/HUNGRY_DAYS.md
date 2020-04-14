@@ -9,10 +9,10 @@
 
 ## 멤버
 
-  - **이치미치 노부요시** (, [1987년](../Page/1987년.md "wikilink") [2월 14일](../Page/2월_14일.md "wikilink") - ) : [보컬](https://ko.wikipedia.org/wiki/가수 "wikilink"), [기타](../Page/기타.md "wikilink")
-  - **다나카 고헤이** (, [1986년](../Page/1986년.md "wikilink") [12월 26일](../Page/12월_26일.md "wikilink") - ) : [기타](../Page/기타.md "wikilink")
-  - **후루카와 히로키** (, [1986년](../Page/1986년.md "wikilink") [10월 7일](../Page/10월_7일.md "wikilink") - ) : [베이스 기타](../Page/베이스_기타.md "wikilink")
-  - **모리구치 다카히로** (, [1986년](../Page/1986년.md "wikilink") [8월 14일](../Page/8월_14일.md "wikilink") - ) : [드럼](https://ko.wikipedia.org/wiki/드럼셋 "wikilink")
+  - **이치미치 노부요시**(, [1987년](../Page/1987년.md "wikilink") [2월 14일](../Page/2월_14일.md "wikilink") - ) : [보컬](https://ko.wikipedia.org/wiki/가수 "wikilink"), [기타](../Page/기타.md "wikilink")
+  - **다나카 고헤이**(, [1986년](../Page/1986년.md "wikilink") [12월 26일](../Page/12월_26일.md "wikilink") - ) : [기타](../Page/기타.md "wikilink")
+  - **후루카와 히로키**(, [1986년](../Page/1986년.md "wikilink") [10월 7일](../Page/10월_7일.md "wikilink") - ) : [베이스 기타](../Page/베이스_기타.md "wikilink")
+  - **모리구치 다카히로**(, [1986년](../Page/1986년.md "wikilink") [8월 14일](../Page/8월_14일.md "wikilink") - ) : [드럼](https://ko.wikipedia.org/wiki/드럼셋 "wikilink")
 
 ## 디스코그라피
 

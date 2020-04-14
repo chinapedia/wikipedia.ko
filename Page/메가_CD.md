@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ CD](https://ko.wikipedia.org/wiki/_CD).
+> This article is converted from Wikipedia: [메가 CD](https://ko.wikipedia.org/wiki/메가_CD).
 
 
 [오른쪽](https://ko.wikipedia.org/wiki/파일:Sega_CD_Logo.jpg "wikilink") [오른쪽](https://ko.wikipedia.org/wiki/파일:Sega_CD_Logo_\(colored\).jpg "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:Sega-Mega-CD-with-Mega-Drive_on_top.jpg "wikilink") **메가 CD**(, )는 [세가](https://ko.wikipedia.org/wiki/세가 "wikilink")에서 발매된 4세대 [가정용 게임기](../Page/가정용_게임기.md "wikilink") [메가 드라이브의](../Page/메가_드라이브.md "wikilink") 주변 기기이다. [1991년](../Page/1991년.md "wikilink") [12월 12일에](../Page/12월_12일.md "wikilink") 일본에서 발매되었으며, 발매 당시 정가는 49,800엔이었다.

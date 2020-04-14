@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [2SS  ](https://ko.wikipedia.org/wiki/2SS__).
+> This article is converted from Wikipedia: [제2SS기갑사단 다스 라이히](https://ko.wikipedia.org/wiki/제2SS기갑사단_다스_라이히).
 
 
 **제2SS기갑사단 다스 라이히**()는 [제2차 세계 대전](../Page/제2차_세계_대전.md "wikilink") 당시 [무장 친위대에](https://ko.wikipedia.org/wiki/무장_친위대 "wikilink") 의해 편성된 38개 [사단](../Page/사단_\(군사\).md "wikilink") 중 하나이다. 가장 유명한 사단이자 모든 [SS사단](../Page/친위대_\(나치\).md "wikilink") 중 가장 많은 연구가 진행된 사단이다. 유능한 인재들로 구성되어 있던 가장 숙련된 부대이자 가장 강력한 전투력을 가진 부대였다.

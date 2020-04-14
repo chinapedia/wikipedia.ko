@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [K \(\)](https://ko.wikipedia.org/wiki/K_\(\)).
+> This article is converted from Wikipedia: [K \(가수\)](https://ko.wikipedia.org/wiki/K_\(가수\)).
 
 
 **K**(케이, 본명: 강윤성, [1983년](../Page/1983년.md "wikilink") [11월 16일](../Page/11월_16일.md "wikilink") \~ )는 [일본](../Page/일본.md "wikilink")에서 활동 중인 [가수](https://ko.wikipedia.org/wiki/가수 "wikilink")이다. [서울특별시](../Page/서울특별시.md "wikilink") 출신이며, 소속사는 [스타더스트 프로모션이다](../Page/스타더스트_프로모션.md "wikilink").

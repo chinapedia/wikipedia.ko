@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [RQ-2 ](https://ko.wikipedia.org/wiki/RQ-2_).
+> This article is converted from Wikipedia: [RQ-2 파이오니어](https://ko.wikipedia.org/wiki/RQ-2_파이오니어).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:RQ-2_Pioneer_is_catapulted_from_a_launching_rail_1.JPEG "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:RQ-2B_Pioneer_\(drawing\).png "wikilink") **RQ-2 파이오니어**(RQ-2 Pioneer)는 [이스라엘](../Page/이스라엘.md "wikilink") [IAI](https://ko.wikipedia.org/wiki/IAI "wikilink")와 [미국](../Page/미국.md "wikilink") [AAI 사가](https://ko.wikipedia.org/wiki/AAI_사 "wikilink") 합작개발한 무인 정찰기이다. 미국 해군, 해병대, 육군에서 사용된다.

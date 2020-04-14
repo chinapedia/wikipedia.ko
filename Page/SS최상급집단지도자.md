@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SS](https://ko.wikipedia.org/wiki/SS).
+> This article is converted from Wikipedia: [SS최상급집단지도자](https://ko.wikipedia.org/wiki/SS최상급집단지도자).
 
 
 | 최상급집단지도자 계급장                                                                             |

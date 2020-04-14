@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [3ds ](https://ko.wikipedia.org/wiki/3ds_).
+> This article is converted from Wikipedia: [3ds 맥스](https://ko.wikipedia.org/wiki/3ds_맥스).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Apples_made_with_3ds_max.jpeg "wikilink") **오토데스크 3ds 맥스**(Autodesk 3ds Max, 이전 이름: 3D 스튜디오 맥스/ )는 [오토데스크 미디어 및 엔터테인먼트에서](../Page/오토데스크.md "wikilink") 개발된 [3차원 컴퓨터 그래픽스를](../Page/3차원_컴퓨터_그래픽스.md "wikilink") 위한 [디자인 소프트웨어이다](https://ko.wikipedia.org/wiki/디자인_소프트웨어 "wikilink"). [도스](../Page/도스.md "wikilink")용으로 개발된 [3D 스튜디오의](https://ko.wikipedia.org/wiki/3D_스튜디오 "wikilink") 후속 버전으로 [마이크로소프트 윈도](https://ko.wikipedia.org/wiki/마이크로소프트_윈도 "wikilink") 플랫폼에서 작동한다.

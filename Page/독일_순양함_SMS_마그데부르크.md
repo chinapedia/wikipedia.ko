@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  SMS ](https://ko.wikipedia.org/wiki/__SMS_).
+> This article is converted from Wikipedia: [독일 순양함 SMS 마그데부르크](https://ko.wikipedia.org/wiki/독일_순양함_SMS_마그데부르크).
 
 
 [thumb](https://ko.wikipedia.org/wiki/파일:Bundesarchiv_Bild_146-2007-0221,_Kleiner_Kreuzer_Magdeburg.jpg "wikilink") **독일 순양함 SMS 마그데부르크**는 1910년에 진수하고, [1912년](../Page/1912년.md "wikilink") [12월 10일에](../Page/12월_10일.md "wikilink") 취역한 [제1차 세계 대전](../Page/제1차_세계_대전.md "wikilink") 당시 [독일](../Page/독일.md "wikilink") [마그데부르크급](https://ko.wikipedia.org/wiki/독일_마그데부르크급_경순양함 "wikilink") [경순양함](https://ko.wikipedia.org/wiki/경순양함 "wikilink")의 네임쉽이다. [1914년](../Page/1914년.md "wikilink") [8월 25일](../Page/8월_25일.md "wikilink") [러시아군](https://ko.wikipedia.org/wiki/러시아군 "wikilink")의 [발트해](../Page/발트해.md "wikilink") 진입을 저지할 목적으로 출동한 마그데부르크 호는 실수로 [오덴스홀름 섬에](https://ko.wikipedia.org/wiki/오덴스홀름_섬 "wikilink") 좌초했다. 이 단순해보이는 좌초 사건이 [제1차 세계 대전](../Page/제1차_세계_대전.md "wikilink") 당시 영국과 독일 간 암호 해독을 둘러싼 첩보전에서 가장 중요한 사건이 되었다.

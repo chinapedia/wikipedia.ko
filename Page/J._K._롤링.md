@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [J. K. ](https://ko.wikipedia.org/wiki/J._K._).
+> This article is converted from Wikipedia: [J. K. 롤링](https://ko.wikipedia.org/wiki/J._K._롤링).
 
 
 **J. K. 롤링**(\[1\], [OBE](../Page/대영_제국_훈장.md "wikilink")\[2\], [1965년](../Page/1965년.md "wikilink") [7월 31일](../Page/7월_31일.md "wikilink") \~ )은 [영국](../Page/영국.md "wikilink")의 [아동문학](../Page/아동_문학.md "wikilink") [작가](https://ko.wikipedia.org/wiki/작가 "wikilink")이다. 본명은 **조앤 롤링**()으로, 서명 이름으로는 'J. K. 롤링(Joanne Kathleen Rowling)'과 **로버트 갤브레이스**(Robert Galbraith)를 사용한다.\[3\]
@@ -133,7 +133,7 @@
   - 《[신비한 동물 사전](../Page/신비한_동물_사전.md "wikilink")》 (Fantastic Beasts and Where to Find Them) (2001년)
   - 《[퀴디치의 역사](https://ko.wikipedia.org/wiki/퀴디치의_역사 "wikilink")》 (Quidditch Through the Ages) (2001년)
   - 《[음유시인 비들 이야기](../Page/음유시인_비들_이야기.md "wikilink")》 (The Tales of Beedle the Bard) (2008년)
-  - 《해리 포터 프리퀄》 (Harry Potter prequel) (2008년, 단편)
+  - 《[해리 포터 프리퀄](https://ko.wikipedia.org/wiki/해리_포터_프리퀄 "wikilink")》 (Harry Potter prequel) (2008년, 단편)
 
 ### 성인 소설
 

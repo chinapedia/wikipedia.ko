@@ -15,7 +15,7 @@
 
   - **메이너드 플랜트 (Maynard Plant)** : [보컬](https://ko.wikipedia.org/wiki/가수 "wikilink"), [기타](../Page/기타.md "wikilink") ([캐나다](../Page/캐나다.md "wikilink") 출신)
   - **블레이즈 플랜트 (Blaise Plant)** : 기타, 보컬 (캐나다 출신)
-  - **기쿠치 다쿠야** () : [드럼](https://ko.wikipedia.org/wiki/드럼셋 "wikilink") ([미야기현](../Page/미야기현.md "wikilink") [센다이 시](https://ko.wikipedia.org/wiki/센다이_시 "wikilink") 출신)
+  - **기쿠치 다쿠야**() : [드럼](https://ko.wikipedia.org/wiki/드럼셋 "wikilink") ([미야기현](../Page/미야기현.md "wikilink") [센다이 시](https://ko.wikipedia.org/wiki/센다이_시 "wikilink") 출신)
   - **DICK** : [베이스 기타](../Page/베이스_기타.md "wikilink") ([홋카이도](../Page/홋카이도.md "wikilink") [삿포로 시](https://ko.wikipedia.org/wiki/삿포로_시 "wikilink") 출신)
 
 ## 작품 목록

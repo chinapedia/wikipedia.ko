@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [MBC ](https://ko.wikipedia.org/wiki/MBC_).
+> This article is converted from Wikipedia: [MBC 대학가요제](https://ko.wikipedia.org/wiki/MBC_대학가요제).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:University_Song_Festival_2008.jpg "wikilink") **MBC 대학가요제**(MBC 大學歌謠祭)는 [문화방송](../Page/문화방송.md "wikilink")이 주최했으며 현재는 [MBC플러스](https://ko.wikipedia.org/wiki/MBC플러스 "wikilink")에서 주최하고 있는 대학생 대상의 가요제이다. 명랑한 대학풍토 조성과 건전가요 발굴을 목적으로 시작하였으며, 참가한 대학생들은 창작곡으로 노래 실력을 겨룬다. 이전까지 본선은 문화방송을 통해 [생방송](../Page/생방송.md "wikilink") 혹은 [딜레이](https://ko.wikipedia.org/wiki/딜레이 "wikilink") 녹화방송으로 진행되었다. [1976년](../Page/1976년.md "wikilink") [9월 11일](../Page/9월_11일.md "wikilink") 열린 제1회 대학가요제 이후로 매년 개최되었고, [2012년](../Page/2012년.md "wikilink")을 끝으로 잠시 폐지된 바 있다.\[1\]
@@ -338,7 +338,7 @@
 <td><p>29<br />
 (2005)</p></td>
 <td><p><a href="../Page/10월_15일.md" title="wikilink">10월 15일</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/KAIS1T_한국과학기술원" title="wikilink">KAIS1T 한국과학기술원</a></p></td>
+<td><p><a href="../Page/한국과학기술원.md" title="wikilink">KAIST 한국과학기술원</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/익스" title="wikilink">Ex</a><br />
 (이상미<sup>1</sup>, 박광래<sup>1</sup>, 박동휘<sup>1</sup>, 방지연<sup>2</sup>,<br />
 공연준<sup>3</sup>)</p></td>

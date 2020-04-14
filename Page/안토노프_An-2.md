@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ An-2](https://ko.wikipedia.org/wiki/_An-2).
+> This article is converted from Wikipedia: [안토노프 An-2](https://ko.wikipedia.org/wiki/안토노프_An-2).
 
 
 **안토노프 An-2**는 단발엔진을 갖춘 구소련제 복엽 수송기로서, 시속 160km의 저속·저공비행과 레이다 회피가 가능한 경수송기다. [실속](https://ko.wikipedia.org/wiki/실속 "wikilink")으로 추락한 경우가 한 번도 없어 정확한 실속값은 잘 모른다.(시속 50km정도로 추정)

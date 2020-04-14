@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [AIM-7 ](https://ko.wikipedia.org/wiki/AIM-7_).
+> This article is converted from Wikipedia: [AIM-7 스패로](https://ko.wikipedia.org/wiki/AIM-7_스패로).
 
 
 **AIM-7 스패로**(AIM-7 Sparrow)는 미공군, 미해군, 미해병대와 여러 동맹국 공군에서 운용중인 중거리 세미 액티브 레이다 호밍 공대공 미사일이다. 스패로와 그 개량형은 [1950년대](../Page/1950년대.md "wikilink") 후반부터 [1990년대](../Page/1990년대.md "wikilink")까지 서방의 주요한 비가시거리(BVR: beyond visual range) [공대공 미사일이었다](https://ko.wikipedia.org/wiki/공대공_미사일 "wikilink").

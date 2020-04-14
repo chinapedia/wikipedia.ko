@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ARM ](https://ko.wikipedia.org/wiki/ARM_).
+> This article is converted from Wikipedia: [ARM 아키텍처](https://ko.wikipedia.org/wiki/ARM_아키텍처).
 
 
 **ARM 아키텍처**(ARM architecture, 과거 명칭: Advanced RISC Machine, 최초 명칭: Acorn RISC Machine)는 임베디드 기기에 많이 사용되는 [RISC](https://ko.wikipedia.org/wiki/RISC "wikilink") 프로세서이다. 저전력을 사용하도록 설계하여 ARM CPU는 모바일 시장 및 [싱글 보드 컴퓨터로](https://ko.wikipedia.org/wiki/싱글_보드_컴퓨터 "wikilink") 불리는 [개인용 컴퓨터에서](../Page/개인용_컴퓨터.md "wikilink") 뚜렷한 강세를 보인다.

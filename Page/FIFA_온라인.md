@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FIFA ](https://ko.wikipedia.org/wiki/FIFA_).
+> This article is converted from Wikipedia: [FIFA 온라인](https://ko.wikipedia.org/wiki/FIFA_온라인).
 
 
 《**피파 온라인**》()은 [2006년](../Page/2006년.md "wikilink") [5월](../Page/5월.md "wikilink"), 전 세계 최초로 [대한민국](../Page/대한민국.md "wikilink")에서 처음 출시한 [피파 시리즈의](https://ko.wikipedia.org/wiki/피파_시리즈 "wikilink") 온라인판으로, 여러 스포츠 게임으로 유명한 [EA사와](../Page/일렉트로닉_아츠.md "wikilink") [대한민국](../Page/대한민국.md "wikilink")의 [네오위즈](../Page/네오위즈.md "wikilink")가 제휴하여 공동 제작한 게임이다.

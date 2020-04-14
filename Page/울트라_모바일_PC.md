@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  PC](https://ko.wikipedia.org/wiki/__PC).
+> This article is converted from Wikipedia: [울트라 모바일 PC](https://ko.wikipedia.org/wiki/울트라_모바일_PC).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:UMPC_Samsung-Q1-Ultra.JPG "wikilink") 울트라 UMPC\]\] [섬네일](https://ko.wikipedia.org/wiki/파일:Wibrain_B1_UMPC.jpg "wikilink")\]\] **울트라 모바일 PC**(ultra-mobile PC, UMPC) 또는 **오리가미 프로젝트**는 [폼 팩터](https://ko.wikipedia.org/wiki/폼_팩터 "wikilink") [태블릿 PC를](../Page/태블릿_PC.md "wikilink") 위한 규격이다. "오리가미"는 종이접기를 뜻하는 일본어 낱말이며 [마이크로소프트](../Page/마이크로소프트.md "wikilink"), [인텔](../Page/인텔.md "wikilink") 그리고 [삼성](https://ko.wikipedia.org/wiki/삼성 "wikilink")과 같은 제품 제조사들이 합동하여 개발하였다. 인텔은 또한 UMPC의 개념의 일종인 [모바일 인터넷 장치를](https://ko.wikipedia.org/wiki/모바일_인터넷_장치 "wikilink") 관리할 책임을 진다. 실제 제품은 AMtek의 제품을 시작으로 하여 삼성, TabletKiosk, [OQO](../Page/OQO.md "wikilink"), Raon Digital, Wibrain, ASUS 등의 제조사가 만들었다.

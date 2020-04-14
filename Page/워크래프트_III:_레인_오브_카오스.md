@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ III:   ](https://ko.wikipedia.org/wiki/_III:___).
+> This article is converted from Wikipedia: [워크래프트 III: 레인 오브 카오스](https://ko.wikipedia.org/wiki/워크래프트_III:_레인_오브_카오스).
 
 
 《**워크래프트 III: 레인 오브 카오스**》()는 [블리자드 엔터테인먼트가](../Page/블리자드_엔터테인먼트.md "wikilink") [2002년](../Page/2002년.md "wikilink")에 발표한 [전략 게임](https://ko.wikipedia.org/wiki/전략_게임 "wikilink")(RTS)이다.
@@ -210,7 +210,7 @@
 
 블리자드 엔터테인먼트는 [스타크래프트](../Page/스타크래프트.md "wikilink") 다음으로 개발한 RTS 게임인 워크래프트 III가 발매되기 전 공개한 FAQ 자료에서 스타에디트의 큰 성공으로 인해 사용자 정의 맵의 가능성에 주목하게 되었다고 밝히기도 하였다. 실제로 블리자드 엔터테인먼트는 워크래프트 III에서 기본 개념은 스타에디트와 같지만 더 강력한 확장성과 세부적인 설정이 가능한 '워크래프트3 캠페인 에디터'를 선보였다. 특히 스킨, 모델의 사용으로 완전히 다른 게임을 만들어 낼 수도 있었다. 이로 인해 워크래프트 III 또한 많은 시나리오 맵이 등장하였는데 그 중 AOS(공성) 계열맵인 오리지널 DOTA를 수정한 맵인 '카오스'가 대한민국에서 큰 인기를 끌고 있다. 그 밖의 인기있는 시나리오 맵으로는 '파이트 오브 캐릭터즈', '페이트 어나더', '문명대전', '동물랜덤블러드' 등이 있다.
 
-워크래프트 III는 카오스나 파오캐(파이트 오브 캐릭터즈)같은 유즈멥 이외에도 아라티 켐페인, 포세이큰 켐페인, 스컬지의 부활, 나가 켐페인 신규 켐페인과 모드 등 다수의 유저제작 컨텐츠들이 있다.http://www.hiveworkshop.com/forums/maps.php, <http://www.epicwar.com/maps/> \[6\]
+워크래프트 III는 카오스나 파오캐(파이트 오브 캐릭터즈)같은 유즈멥 이외에도 아라티 켐페인, 포세이큰 켐페인, 스컬지의 부활, 나가 켐페인 신규 켐페인과 모드 등 다수의 유저제작 컨텐츠들이 있다.http://www.hiveworkshop.com/forums/maps.php, <http://www.epicwar.com/maps/> \[6\], <https://maps.w3reforged.com/>
 
 ## 같이 보기
 

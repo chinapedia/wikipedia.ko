@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  FC](https://ko.wikipedia.org/wiki/__FC).
+> This article is converted from Wikipedia: [밀턴킨스 던스 FC](https://ko.wikipedia.org/wiki/밀턴킨스_던스_FC).
 
 
 **밀턴킨스 던스 FC**()는 2004년 창단된 [잉글랜드](../Page/잉글랜드.md "wikilink")의 축구팀이다. [버킹엄셔주](https://ko.wikipedia.org/wiki/버킹엄셔주 "wikilink") [밀턴킨스](../Page/밀턴킨스.md "wikilink")에 연고지를 두고 있다. 홈 경기장은 [스타디움:mk](https://ko.wikipedia.org/wiki/스타디움:mk "wikilink")이다.
