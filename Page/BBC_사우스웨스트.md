@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [BBC ](https://ko.wikipedia.org/wiki/BBC_).
+> This article is converted from Wikipedia: [BBC 사우스웨스트](https://ko.wikipedia.org/wiki/BBC_사우스웨스트).
 
 
 **BBC 사우스웨스트** (BBC South West)는 [콘월 주](https://ko.wikipedia.org/wiki/콘월_주 "wikilink"), [데번 주](https://ko.wikipedia.org/wiki/데번_주 "wikilink"), [실리 제도](https://ko.wikipedia.org/wiki/실리_제도 "wikilink"), [서머싯 주](https://ko.wikipedia.org/wiki/서머싯_주 "wikilink") (남부와 서부), [채널 제도를](../Page/채널_제도.md "wikilink") 대상으로 한 [BBC 잉글랜드 지방](../Page/BBC_잉글리시_리전스.md "wikilink") 방송이다.

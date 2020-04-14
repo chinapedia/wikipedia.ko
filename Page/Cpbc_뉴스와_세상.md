@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Cpbc  ](https://ko.wikipedia.org/wiki/Cpbc__).
+> This article is converted from Wikipedia: [Cpbc 뉴스와 세상](https://ko.wikipedia.org/wiki/Cpbc_뉴스와_세상).
 
 
 《**cpbc 뉴스와 세상**》은 [cpbc](../Page/가톨릭평화방송.md "wikilink") FM에서 평일 오후 5시 30분부터 저녁 6시까지 방송됐던 라디오 뉴스 프로그램이다.

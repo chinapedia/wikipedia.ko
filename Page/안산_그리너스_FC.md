@@ -1,11 +1,11 @@
-> This article is converted from Wikipedia: [  FC](https://ko.wikipedia.org/wiki/__FC).
+> This article is converted from Wikipedia: [안산 그리너스 FC](https://ko.wikipedia.org/wiki/안산_그리너스_FC).
 
 
 **안산 그리너스 FC**(, 안산 그리너스 축구단)는 [대한민국](../Page/대한민국.md "wikilink")의 [안산시](https://ko.wikipedia.org/wiki/안산시 "wikilink")를 연고지로 하며 현재 대한민국 프로축구 2부 리그인 [K리그2](../Page/K리그2.md "wikilink")에 참가중인 축구단이다.
 
 ## 역사
 
-### 이흥실 체제 (2017\~ 2018)
+### 이흥실 체제 (2017 \~ 2018)
 
 [안산시](https://ko.wikipedia.org/wiki/안산시 "wikilink") 연고 시민구단 창단은 [2014년](../Page/2014년.md "wikilink") [제6회 지방 선거를](https://ko.wikipedia.org/wiki/대한민국_제6회_지방_선거 "wikilink") 통해 당선된 [제종길](../Page/제종길.md "wikilink") 시장의 [공약](../Page/매니페스토.md "wikilink")\[1\]과 [안산시](https://ko.wikipedia.org/wiki/안산시 "wikilink") 연고인 [무궁화 축구단이](../Page/안산_무궁화_축구단.md "wikilink") [2016년](../Page/2016년.md "wikilink")을 마지막으로 연고 계약이 만료되고, [아산시](../Page/아산시.md "wikilink")로의 연고 이전이 추진되면서 이와 맞물려 탄력을 받았다. 그 후, [무궁화 축구단의](../Page/안산_무궁화_축구단.md "wikilink") [아산시](../Page/아산시.md "wikilink") 이전과 동시에 안산 시민구단을 창단한다는 기사가 보도되어 창단이 공식화되었다.\[2\] [2016년](../Page/2016년.md "wikilink") [7월 20일](../Page/7월_20일.md "wikilink") [안산 무궁화 FC의](https://ko.wikipedia.org/wiki/안산_무궁화_FC "wikilink") [아산시](../Page/아산시.md "wikilink") 이전과 동시에 안산 시민구단을 창단한다는 소식이 전해졌고 22일 제종길 안산시장과 [복기왕](../Page/복기왕.md "wikilink") 아산시장이 한국프로축구연맹에 창단 의향서 제출함으로써 구단 창단이 공식화되었다.
 
@@ -17,11 +17,15 @@
 
 [9월 23일](../Page/9월_23일.md "wikilink") [FC 안양전에서](../Page/FC_안양.md "wikilink") 패배하면서 승강 플레이오프 진입의 마지노선인 4위권 진입이 좌절되면서 승격은 다음해를 기약해야만 했으며, 리그에서 최종 9위를 거두며 창단 첫시즌을 마무리졌으며, [장혁진](https://ko.wikipedia.org/wiki/장혁진 "wikilink")이 리그 도움 1위에 오르는 쾌거를 이루었다.
 
-[2018년](../Page/2018년.md "wikilink") [8월 21일](../Page/8월_21일.md "wikilink") 성적부진으로 인하여 자진 사퇴 하였고 [이영민](https://ko.wikipedia.org/wiki/이영민 "wikilink") 수석코치가 감독대행을 맡게 되었다
+[2018년](../Page/2018년.md "wikilink") [8월 21일](../Page/8월_21일.md "wikilink") 성적부진으로 인하여 자진 사퇴 하였고 [이영민](https://ko.wikipedia.org/wiki/이영민 "wikilink") 수석코치가 감독대행을 맡게 되었다.
 
-### 이영민 체제 (2018\~)
+### 임완섭 체제 (2018 \~ 2019)
 
-이흥실 감독이 성적부진으로 사퇴하자 올 시즌 까지 감독대행을 맡게 되었다.
+2018년 8월 30일, [경남 FC의](../Page/경남_FC.md "wikilink") 수석코치를 맡았던 [임완섭](../Page/임완섭.md "wikilink")을 구단의 새로운 감독으로 선임했다.\[5\] 2019시즌 안산은 플레이오프 진출권 경쟁을 하는 예상 밖의 모습을 보여주었다. 하지만 시즌 막판 뒷심 부족으로 인해 5위에 그치며 창단 첫 플레이오프 진출은 실패로 돌아갔다. 2019시즌 종료 후 임완섭 감독은 자진 사퇴했다.
+
+### 김길식 체제 (2020 \~ )
+
+2020시즌을 앞두고 [김길식](../Page/김길식.md "wikilink")을 새 감독으로 선임했다.\[6\]
 
 ## 시즌 결과
 
@@ -36,9 +40,9 @@
 
 ### 현재 선수단
 
-[2020년](../Page/2020년.md "wikilink") [2월 28일](../Page/2월_28일.md "wikilink") 기준
+[2020년](../Page/2020년.md "wikilink") [3월 27일](../Page/3월_27일.md "wikilink") 기준
 
-### 임대 및 군 복무 중인 선수
+### 임대 및 군 복무 중인 선수 명단
 
 ## 스태프
 
@@ -267,3 +271,5 @@
 2.  [경찰축구단 아산 이전+안산시민축구단 창단 확정…22일 기자회견](http://www.sportsseoul.com/news/read/416073)
 3.  [안산, 초대 감독 이흥실 선임... "깜짝 놀랄팀 만들겠다"](http://news.chosun.com/site/data/html_dir/2016/11/17/2016111701630.html?rsMobile=false/)
 4.  [안산그리너스FC, 창단 첫 경기 이겼다](http://www.mediaus.co.kr/news/articleView.html?idxno=82798)
+5.  [안산 그리너스 FC, 임완섭 감독 선임](https://www.newscj.com/news/articleView.html?idxno=558797)
+6.  [안산, 새로운 사령탑에 김길식 감독 선임](https://www.sports-g.com/2019/12/31/%EA%B3%B5%EC%8B%9D-%EC%95%88%EC%82%B0-%EC%83%88%EB%A1%9C%EC%9A%B4-%EC%82%AC%EB%A0%B9%ED%83%91%EC%97%90-%EA%B9%80%EA%B8%B8%EC%8B%9D-%EA%B0%90%EB%8F%85-%EC%84%A0%EC%9E%84)

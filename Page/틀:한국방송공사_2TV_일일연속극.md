@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [: 2TV ](https://ko.wikipedia.org/wiki/:_2TV_).
+> This article is converted from Wikipedia: [틀:한국방송공사 2TV 일일연속극](https://ko.wikipedia.org/wiki/틀:한국방송공사_2TV_일일연속극).
 
 
 <onlyinclude> [2TV 아침](../Page/틀:한국방송공사_2TV_아침드라마.md "wikilink") {{\!}} [1TV 일일](../Page/틀:한국방송공사_1TV_일일연속극.md "wikilink") {{\!}} [2TV 일일](../Page/틀:한국방송공사_2TV_일일연속극.md "wikilink") {{\!}} [월화](../Page/틀:한국방송공사_월화드라마.md "wikilink") {{\!}} [수목](../Page/틀:한국방송공사_수목드라마.md "wikilink") {{\!}} [금요](https://ko.wikipedia.org/wiki/틀:한국방송공사_금요드라마 "wikilink") {{\!}} [금토](https://ko.wikipedia.org/wiki/틀:한국방송공사_금토드라마 "wikilink") {{\!}} 주말 ([연속극](../Page/틀:한국방송공사_주말연속극.md "wikilink") {{·}} [특별기획](https://ko.wikipedia.org/wiki/틀:한국방송공사_주말_특별기획_드라마 "wikilink")) {{\!}} [대하](../Page/틀:한국방송공사_대하드라마.md "wikilink") |아랫글모양 = background-color:\#9ED1ED; }}</onlyinclude>

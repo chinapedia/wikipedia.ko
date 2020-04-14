@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  FC](https://ko.wikipedia.org/wiki/__FC).
+> This article is converted from Wikipedia: [솔리헐 무어스 FC](https://ko.wikipedia.org/wiki/솔리헐_무어스_FC).
 
 
 **솔리헐 무어스 풋볼 클럽**()은 [잉글랜드](../Page/잉글랜드.md "wikilink") [솔리헐](https://ko.wikipedia.org/wiki/솔리헐 "wikilink")을 연고지로 하는 축구 구단이다. [2007년](../Page/2007년.md "wikilink") [무어 그린 FC와](https://ko.wikipedia.org/wiki/무어_그린_FC "wikilink") [솔리헐 보로 FC가](https://ko.wikipedia.org/wiki/솔리헐_보로_FC "wikilink") 합병되면서 창단되었고, 창단 이후 9시즌 동안 [내셔널리그 노스에](../Page/내셔널리그_노스.md "wikilink") 소속되어 있다가 2015–16 시즌 우승하여 현재 [내셔널리그 (디비전)에](../Page/내셔널리그_\(디비전\).md "wikilink") 소속되어 있다.

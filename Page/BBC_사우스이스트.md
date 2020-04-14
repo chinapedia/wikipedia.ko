@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [BBC ](https://ko.wikipedia.org/wiki/BBC_).
+> This article is converted from Wikipedia: [BBC 사우스이스트](https://ko.wikipedia.org/wiki/BBC_사우스이스트).
 
 
 **BBC 사우스이스트** (BBC South East)는 [켄트 주와](https://ko.wikipedia.org/wiki/켄트_주 "wikilink") [서식스](https://ko.wikipedia.org/wiki/서식스 "wikilink")를 대상으로 한 [BBC 잉글랜드 지방](../Page/BBC_잉글리시_리전스.md "wikilink") 방송이다.

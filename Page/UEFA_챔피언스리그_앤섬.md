@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [UEFA  ](https://ko.wikipedia.org/wiki/UEFA__).
+> This article is converted from Wikipedia: [UEFA 챔피언스리그 앤섬](https://ko.wikipedia.org/wiki/UEFA_챔피언스리그_앤섬).
 
 
 [thumb의](https://ko.wikipedia.org/wiki/파일:2010_Champions_League_Final_opening_ceremony.jpg "wikilink") 개막식과 폐막식, 또한 시합이 시작하기 전에 연주되는 대표곡이다.\]\] **UEFA 챔피언스리그 앤섬** (영어: UEFA 챔피언스리그 Anthem, 프랑스어: Ligue Des Champions)은 [UEFA 챔피언스리그의](../Page/UEFA_챔피언스리그.md "wikilink") 대표곡이다. 주로 경기가 시작하기 전과 개막식, 폐막식 때 연주하는 곡이다.\[1\]

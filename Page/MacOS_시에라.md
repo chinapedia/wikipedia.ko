@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [MacOS ](https://ko.wikipedia.org/wiki/MacOS_).
+> This article is converted from Wikipedia: [MacOS 시에라](https://ko.wikipedia.org/wiki/MacOS_시에라).
 
 
 **macOS 시에라**(macOS Sierra, 버전 10.12)은 [애플의](https://ko.wikipedia.org/wiki/애플_\(기업\) "wikilink") 13번째 [macOS](https://ko.wikipedia.org/wiki/macOS "wikilink") 운영체제이다. 이전 버전은 [OS X 엘카피탠이다](../Page/OS_X_엘카피탠.md "wikilink").

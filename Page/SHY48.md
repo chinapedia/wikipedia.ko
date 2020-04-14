@@ -481,7 +481,7 @@
 <td><p>11월 24일</p></td>
 <td><p>3기</p></td>
 <td><p>HIII</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/IDOLS_Ft" title="wikilink">IDOLS Ft</a> 이적</p></td>
+<td><p><a href="../Page/IDOLS_Ft.md" title="wikilink">IDOLS Ft</a> 이적</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -491,7 +491,7 @@
 <td></td>
 <td><p>1기</p></td>
 <td><p>SIII</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/IDOLS_Ft" title="wikilink">IDOLS Ft</a> 이적</p></td>
+<td><p><a href="../Page/IDOLS_Ft.md" title="wikilink">IDOLS Ft</a> 이적</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -501,7 +501,7 @@
 <td></td>
 <td><p>1기</p></td>
 <td><p>SIII</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/IDOLS_Ft" title="wikilink">IDOLS Ft</a> 이적</p></td>
+<td><p><a href="../Page/IDOLS_Ft.md" title="wikilink">IDOLS Ft</a> 이적</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -511,7 +511,7 @@
 <td></td>
 <td><p>1기</p></td>
 <td><p>HIII</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/IDOLS_Ft" title="wikilink">IDOLS Ft</a> 이적</p></td>
+<td><p><a href="../Page/IDOLS_Ft.md" title="wikilink">IDOLS Ft</a> 이적</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -521,7 +521,7 @@
 <td><p>4월 5일</p></td>
 <td><p>3기</p></td>
 <td><p>HIII</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/IDOLS_Ft" title="wikilink">IDOLS Ft</a> 이적</p></td>
+<td><p><a href="../Page/IDOLS_Ft.md" title="wikilink">IDOLS Ft</a> 이적</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -531,7 +531,7 @@
 <td></td>
 <td><p>1기</p></td>
 <td><p>SIII</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/IDOLS_Ft" title="wikilink">IDOLS Ft</a> 이적</p></td>
+<td><p><a href="../Page/IDOLS_Ft.md" title="wikilink">IDOLS Ft</a> 이적</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -541,7 +541,7 @@
 <td></td>
 <td><p>1기</p></td>
 <td><p>HIII</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/IDOLS_Ft" title="wikilink">IDOLS Ft</a> 이적</p></td>
+<td><p><a href="../Page/IDOLS_Ft.md" title="wikilink">IDOLS Ft</a> 이적</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -551,7 +551,7 @@
 <td><p>6월 20일</p></td>
 <td><p>3기</p></td>
 <td><p>HIII</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/IDOLS_Ft" title="wikilink">IDOLS Ft</a> 이적</p></td>
+<td><p><a href="../Page/IDOLS_Ft.md" title="wikilink">IDOLS Ft</a> 이적</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -562,7 +562,7 @@
 <td><p>1기</p></td>
 <td><p>HIII</p></td>
 <td><p>전 팀HⅢ 캡틴<br />
-<a href="https://ko.wikipedia.org/wiki/IDOLS_Ft" title="wikilink">IDOLS Ft</a> 이적</p></td>
+<a href="../Page/IDOLS_Ft.md" title="wikilink">IDOLS Ft</a> 이적</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -572,7 +572,7 @@
 <td><p>10월 18일</p></td>
 <td><p>3기</p></td>
 <td><p>SIII</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/IDOLS_Ft" title="wikilink">IDOLS Ft</a> 이적</p></td>
+<td><p><a href="../Page/IDOLS_Ft.md" title="wikilink">IDOLS Ft</a> 이적</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -582,7 +582,7 @@
 <td><p>2월 25일</p></td>
 <td><p>1기</p></td>
 <td><p>SIII</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/IDOLS_Ft" title="wikilink">IDOLS Ft</a> 이적</p></td>
+<td><p><a href="../Page/IDOLS_Ft.md" title="wikilink">IDOLS Ft</a> 이적</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -592,7 +592,7 @@
 <td></td>
 <td><p>3기</p></td>
 <td><p>HIII</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/IDOLS_Ft" title="wikilink">IDOLS Ft</a> 이적</p></td>
+<td><p><a href="../Page/IDOLS_Ft.md" title="wikilink">IDOLS Ft</a> 이적</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -602,7 +602,7 @@
 <td><p>3월 4일</p></td>
 <td><p>1기</p></td>
 <td><p>HIII</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/IDOLS_Ft" title="wikilink">IDOLS Ft</a> 이적</p></td>
+<td><p><a href="../Page/IDOLS_Ft.md" title="wikilink">IDOLS Ft</a> 이적</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -612,7 +612,7 @@
 <td><p>3월 17일</p></td>
 <td><p>1기</p></td>
 <td><p>SIII</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/IDOLS_Ft" title="wikilink">IDOLS Ft</a> 이적</p></td>
+<td><p><a href="../Page/IDOLS_Ft.md" title="wikilink">IDOLS Ft</a> 이적</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -622,7 +622,7 @@
 <td><p>7월 5일</p></td>
 <td><p>2기</p></td>
 <td><p>SIII</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/IDOLS_Ft" title="wikilink">IDOLS Ft</a> 이적</p></td>
+<td><p><a href="../Page/IDOLS_Ft.md" title="wikilink">IDOLS Ft</a> 이적</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -632,7 +632,7 @@
 <td><p>6월 1일</p></td>
 <td><p>3기</p></td>
 <td><p>HIII</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/IDOLS_Ft" title="wikilink">IDOLS Ft</a> 이적</p></td>
+<td><p><a href="../Page/IDOLS_Ft.md" title="wikilink">IDOLS Ft</a> 이적</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -642,7 +642,7 @@
 <td><p>8월 12일</p></td>
 <td><p>3기</p></td>
 <td><p>SIII</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/IDOLS_Ft" title="wikilink">IDOLS Ft</a> 이적</p></td>
+<td><p><a href="../Page/IDOLS_Ft.md" title="wikilink">IDOLS Ft</a> 이적</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -689,7 +689,7 @@
 <td><p>Biàn Jiāníng</p></td>
 <td></td>
 <td><p>4기</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/IDOLS_Ft" title="wikilink">IDOLS Ft</a> 이적</p></td>
+<td><p><a href="../Page/IDOLS_Ft.md" title="wikilink">IDOLS Ft</a> 이적</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -698,7 +698,7 @@
 <td><p>Chéng Yī</p></td>
 <td><p>12월 9일</p></td>
 <td><p>4기</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/IDOLS_Ft" title="wikilink">IDOLS Ft</a> 이적</p></td>
+<td><p><a href="../Page/IDOLS_Ft.md" title="wikilink">IDOLS Ft</a> 이적</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -707,7 +707,7 @@
 <td><p>Féng Jiābǎo</p></td>
 <td><p>8월 20일</p></td>
 <td><p>4기</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/IDOLS_Ft" title="wikilink">IDOLS Ft</a> 이적</p></td>
+<td><p><a href="../Page/IDOLS_Ft.md" title="wikilink">IDOLS Ft</a> 이적</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -716,7 +716,7 @@
 <td><p>Liú Yǔqíng</p></td>
 <td><p>3월 29일</p></td>
 <td><p>4기</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/IDOLS_Ft" title="wikilink">IDOLS Ft</a> 이적</p></td>
+<td><p><a href="../Page/IDOLS_Ft.md" title="wikilink">IDOLS Ft</a> 이적</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -725,7 +725,7 @@
 <td><p>Shàng Guān</p></td>
 <td><p>4월 15일</p></td>
 <td><p>4기</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/IDOLS_Ft" title="wikilink">IDOLS Ft</a> 이적</p></td>
+<td><p><a href="../Page/IDOLS_Ft.md" title="wikilink">IDOLS Ft</a> 이적</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -734,7 +734,7 @@
 <td><p>Wu Xiǎodí</p></td>
 <td><p>9월 6일</p></td>
 <td><p>4기</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/IDOLS_Ft" title="wikilink">IDOLS Ft</a> 이적</p></td>
+<td><p><a href="../Page/IDOLS_Ft.md" title="wikilink">IDOLS Ft</a> 이적</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -743,7 +743,7 @@
 <td><p>Wáng Yǒngqí</p></td>
 <td><p>7월 5일</p></td>
 <td><p>4기</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/IDOLS_Ft" title="wikilink">IDOLS Ft</a> 이적</p></td>
+<td><p><a href="../Page/IDOLS_Ft.md" title="wikilink">IDOLS Ft</a> 이적</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -752,7 +752,7 @@
 <td><p>Wáng Zǐ</p></td>
 <td><p>12월 23일</p></td>
 <td><p>4기</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/IDOLS_Ft" title="wikilink">IDOLS Ft</a> 이적</p></td>
+<td><p><a href="../Page/IDOLS_Ft.md" title="wikilink">IDOLS Ft</a> 이적</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -761,7 +761,7 @@
 <td><p>Zhāng Jǐnyú</p></td>
 <td><p>7월 10일</p></td>
 <td><p>4기</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/IDOLS_Ft" title="wikilink">IDOLS Ft</a> 이적</p></td>
+<td><p><a href="../Page/IDOLS_Ft.md" title="wikilink">IDOLS Ft</a> 이적</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -848,7 +848,7 @@ SHY77100319</p></td>
   - [GNZ48](../Page/GNZ48.md "wikilink")
   - [CKG48](../Page/CKG48.md "wikilink")
   - [CGT48](https://ko.wikipedia.org/wiki/CGT48 "wikilink")
-  - [IDOLS Ft](https://ko.wikipedia.org/wiki/IDOLS_Ft "wikilink")
+  - [IDOLS Ft](../Page/IDOLS_Ft.md "wikilink")
 
 ## 각주
 

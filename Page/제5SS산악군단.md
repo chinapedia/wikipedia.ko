@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [5SS](https://ko.wikipedia.org/wiki/5SS).
+> This article is converted from Wikipedia: [제5SS산악군단](https://ko.wikipedia.org/wiki/제5SS산악군단).
 
 
 **제5SS산악군단**()은 [무장친위대](../Page/무장친위대.md "wikilink")의 [군단](https://ko.wikipedia.org/wiki/군단 "wikilink") 중 하나이다. 1943년 10월부터 1944년 12월까지 [제2기갑군](https://ko.wikipedia.org/wiki/제2기갑군 "wikilink")의 일부로서 [유고슬라비아 파르티잔들과](../Page/유고슬라비아_파르티잔.md "wikilink") 싸웠다. 1945년 [제9군의](https://ko.wikipedia.org/wiki/제9군_\(독일_국방군\) "wikilink") 일부로서 [오데르](https://ko.wikipedia.org/wiki/오데르 "wikilink") 선을 방어했고 그 이후 [베를린 공방전에도](../Page/베를린_공방전.md "wikilink") 참전했다.\[1\]\[2\]

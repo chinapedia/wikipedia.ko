@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [2SS](https://ko.wikipedia.org/wiki/2SS).
+> This article is converted from Wikipedia: [제2SS기갑군단](https://ko.wikipedia.org/wiki/제2SS기갑군단).
 
 
 **제2SS기갑군단**()은 [무장친위대](../Page/무장친위대.md "wikilink")의 기갑[군단](https://ko.wikipedia.org/wiki/군단 "wikilink") 중 하나이다. [제2차 세계 대전](../Page/제2차_세계_대전.md "wikilink") 당시 서부전선 및 동부전선에서 종군했다. [제3차 하리코프 공방전](../Page/제3차_하리코프_공방전.md "wikilink") 및 [쿠르스크 전투에서](../Page/쿠르스크_전투.md "wikilink") [파울 하우서가](../Page/파울_하우서.md "wikilink") 군단장을 맡았고 1944년 서부전선에서는 [빌헬름 비트리히가](https://ko.wikipedia.org/wiki/빌헬름_비트리히 "wikilink") 군단장을 맡았다.

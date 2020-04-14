@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [: FF  ](https://ko.wikipedia.org/wiki/:_FF__).
+> This article is converted from Wikipedia: [틀:말뫼 FF 선수 명단](https://ko.wikipedia.org/wiki/틀:말뫼_FF_선수_명단).
 
 
 <onlyinclude></onlyinclude>

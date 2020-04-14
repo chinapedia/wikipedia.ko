@@ -3,9 +3,9 @@
 
 [right](https://ko.wikipedia.org/wiki/파일:EPANET.gif "wikilink")
 
-**EPANET**은 [미국 환경보호국](https://ko.wikipedia.org/wiki/미국_환경보호국 "wikilink")(EPA)의 물 공급과 수자원 부문에서 개발된 관망해석용 [공개 소프트웨이다](../Page/퍼블릭_도메인.md "wikilink"). 압력 관망내에서의 수리, 수질 거동의 시간적인 모의하고 상수도의 공급과 물 성분의 움직임의 이해를 개선할 수 있도록 설계 되었다. EPANET은 1993년에 처음으로 만들어 졌다.
+**EPANET**은 [미국 환경보호국](https://ko.wikipedia.org/wiki/미국_환경보호국 "wikilink")(EPA)의 물 공급과 수자원 부문에서 개발된 관망해석용 [공개 소프트웨이다](../Page/퍼블릭_도메인.md "wikilink"). 압력 관망내에서의 수리, 수질 거동의 시간적인 모의하고 상수도의 공급과 물 성분의 움직임의 이해를 개선할 수 있도록 설계 되었다. EPANET은 1993년에 처음으로 만들어졌다.
 
-**EPANET2**는 오픈 소스 툴킷([C](../Page/C_\(프로그래밍_언어\).md "wikilink") [응용 프로그램 프로그래밍 인터페이스로](../Page/API.md "wikilink") 만들어 졌다. 이 엔진은 많은 소프트웨어 회사에서 [GIS와](https://ko.wikipedia.org/wiki/지리_정보_체계 "wikilink") 결합되 더 강력한 패키지 프로그램으로 만들어져 사용되고 있다. ".inp"는 EPANET 입력파일 포맷이다.
+**EPANET2**는 오픈 소스 툴킷([C](../Page/C_\(프로그래밍_언어\).md "wikilink") [응용 프로그램 프로그래밍 인터페이스로](../Page/API.md "wikilink") 만들어졌다. 이 엔진은 많은 소프트웨어 회사에서 [GIS와](https://ko.wikipedia.org/wiki/지리_정보_체계 "wikilink") 결합되 더 강력한 패키지 프로그램으로 만들어져 사용되고 있다. ".inp"는 EPANET 입력파일 포맷이다.
 
 ## 같이 보기
 

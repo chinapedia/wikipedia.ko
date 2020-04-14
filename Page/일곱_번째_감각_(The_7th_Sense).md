@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [   \(The 7th Sense\)](https://ko.wikipedia.org/wiki/___\(The_7th_Sense\)).
+> This article is converted from Wikipedia: [일곱 번째 감각 \(The 7th Sense\)](https://ko.wikipedia.org/wiki/일곱_번째_감각_\(The_7th_Sense\)).
 
 
 《**일곱 번째 감각 (The 7th Sense)**》는 [NCT U의](https://ko.wikipedia.org/wiki/NCT_U "wikilink") 데뷔 싱글이다. [2016년](../Page/2016년.md "wikilink") [4월 9일에](../Page/4월_9일.md "wikilink") KT 뮤직을 통해 발매하였다.

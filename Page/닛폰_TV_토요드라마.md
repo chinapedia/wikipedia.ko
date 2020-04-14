@@ -1,9 +1,59 @@
-> This article is converted from Wikipedia: [ TV ](https://ko.wikipedia.org/wiki/_TV_).
+> This article is converted from Wikipedia: [닛폰 TV 토요드라마](https://ko.wikipedia.org/wiki/닛폰_TV_토요드라마).
 
 
 **닛폰TV 토요드라마**는 [닛폰 TV](../Page/닛폰_TV_방송망.md "wikilink") [계열에서](https://ko.wikipedia.org/wiki/닛폰TV_네트워크_협의회 "wikilink") 매주 [토요일](../Page/토요일.md "wikilink") 21:00 - 21:54 ([JST](../Page/일본_표준시.md "wikilink"))에 방송되는 [드라마](https://ko.wikipedia.org/wiki/드라마 "wikilink") 시간대이다.
 
 [1998년](../Page/1998년.md "wikilink") 3월까지는 **토요일 그랜드 극장** (土曜グランド劇場) 또는 **그랜드 극장** (グランド劇場), [2004년](../Page/2004년.md "wikilink") 경은 **Surprise Saturday**라는 부제가 붙어 있었다. **돗큐** (土9)라는 것이있다(2017년부터 **도쥬** (土10)로 변경된다).
+
+## 내력
+
+### 시작부터 1999년까지
+
+타이틀은 1984년 드라마 "바람 속의 녀석"이라는 방송에서 "토요일 그랜드 극장" 명의로 돌아왔고 메인 프로그램 전에 오프닝 타이틀 비디오 (25 초)가 재생되었다. 제목 비디오의 이미지는 "유원지에서 롤러 코스터의 궤도와 공기 튜브를 통과 한 후 태양의 빛에서 태어난 하나의 구체가 우주 공간으로 도약한다. 구체는 토성이지만 실제로는 토성은 배경일 뿐, 한쪽 끝에서 두 조각으로 나뉘면 많은 종이 테이프 (메탈릭)와 색종이가 우주 공간으로 보내진다. 제목 문자가 색종이 이미지 위로 역동적으로 움직이며 상승했다. "이 타이틀은 다음 부분에서 설명하는 토요일 드라마 슬롯이 일시 중단될 때까지 사용되었다.
+
+비디오 연구에 따르면 간토 지역, 가정 및 실시간은 매우 인기가 있다. 비디오 연구에 따르면, "집 없는"(이듬해 4 월부터 방송 된 2 부, 평균 시청률 24.7 %, 최대 시청률 37.2 %)가 방송되었습니다. 이 작품은 시청 연령 층의 기반을 넓히는 데 성공했으며 그 이후로 10 대 (어린이 드라마 중심)를 위한 작품도 방송되었다. 또한 다음 해인 1995년에는 "김전일 소년의 사건부"(도모토 츠요시 주연, 평균 시청률 23.9 %, 최대 시청률 29.9 %. 비디오 연구, 관동 지역, 가정, 실시간)도 조회가 되었다. 이후 시리즈화 되었다.
+
+### 2000년대 이후의 경향
+
+21시 범위로 방송되고 있던 2000년대 무렵은 청소년과 가족들을 대상 코미디 드라마 내지는 인기 만화를 원작으로 한 드라마가 적지 않은 빈도로 편성되어 있었다. 하지만 2017년 4월 개편에서 22시 범위로 변경된 이후에는 종전의 청소년 코미디 작품 · 만화 원작의 작품도 방송되는데, 사회 파 드라마 나 서스펜스 드라마 등 성인을 의식한 작품이 증가 추세에 있다. (먼저 태어난 단지 나, 순결 원죄 변호사, 보이스 110 긴급 지령실 최고 나이프 \~ 천재 외과 의사의 조건 \~ 등)
+
+보통 토요일 22시 범위 프로그램과의 연결은 21 : 54의 각국 별 미니 프로그램 (칸토 지구 현재는 "Stories\~ 당신의 생명을 찾는 여행」)을 사이에 두고 정션 스테부레 들어가지만 토요일 22 때 프로그램이 「아라시 니시야가레」가 되어 이후 본 프레임 드라마의 첫회 확대 SP 때에는 「아라시 니시야가레 "와 연결을 스테부레레스 변경 21 시대 미니 프로그램은"아라시 니시아가레」종료 후 방송 시간을 3 분"축소하고 뒤로 돌리는 프레임 교체의 일이 종종 있었다.
+
+## 역대 평균 시청률 순위 10선
+
+  - 숫자는 비디오 리서치 조사, 관동 지역 · 세대 · 실시간.
+
+| 순위 | 작품명                                                                                              | 주연                                                                                                       | 방송년도  | 시청률       |
+| -- | ------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------- | ----- | --------- |
+| 1  | [고쿠센](https://ko.wikipedia.org/wiki/고쿠센#고쿠센_2 "wikilink")（제2기）                                   | [나카마 유키에](../Page/나카마_유키에.md "wikilink")                                                                 | 2005년 | **28.0%** |
+| 2  | [집 없는 아이](../Page/집_없는_아이_\(드라마\).md "wikilink")                                                 | [아다치 유미](https://ko.wikipedia.org/wiki/아다치_유미 "wikilink")                                                | 1994년 | 24.7%     |
+| 3  | [김전일 소년의 사건부](https://ko.wikipedia.org/wiki/소년탐정_김전일_\(드라마\)#연속_드라마_\(제1시리즈\) "wikilink")（제1기）   | [도모토 츠요시](../Page/도모토_츠요시.md "wikilink")・[토모사카 리에](../Page/토모사카_리에.md "wikilink")                        | 1995년 | 23.9%     |
+| 4  | [고쿠센](https://ko.wikipedia.org/wiki/고쿠센#고쿠센_3 "wikilink")（제3기）                                   | [나카마 유키에](../Page/나카마_유키에.md "wikilink")                                                                 | 2008년 | 22.8%     |
+| 5  | [집 없는 아이 2](../Page/집_없는_아이_\(드라마\).md "wikilink")                                               | [아다치 유미](https://ko.wikipedia.org/wiki/아다치_유미 "wikilink")                                                | 1995년 | 22.5%     |
+| 6  | [김전일 소년의 사건부 2](https://ko.wikipedia.org/wiki/소년탐정_김전일_\(드라마\)#연속_드라마_\(제2시리즈\) "wikilink")（제2기） | [도모토 츠요시](../Page/도모토_츠요시.md "wikilink")・[토모사카 리에](../Page/토모사카_리에.md "wikilink")                        | 1996년 | 22.4%     |
+| 7  | [깅로 괴기 파일](https://ko.wikipedia.org/wiki/:ja:銀狼怪奇ファイル "wikilink")                                | [도모토 코이치](../Page/도모토_코이치.md "wikilink")                                                                 | 1996년 | 20.8%     |
+| 8  | [내일이 있잖아\!](https://ko.wikipedia.org/wiki/:ja:明日があるさ_\(テレビドラマ\) "wikilink")                      | [하마다 마사토시](../Page/하마다_마사토시.md "wikilink")                                                               | 2001년 | 19.3%     |
+| 9  | [마이보스 마이히어로](../Page/마이보스_마이히어로.md "wikilink")                                                   | [나가세 토모야](../Page/나가세_토모야.md "wikilink")                                                                 | 2006년 | 19.1%     |
+| 10 | [전설의 교사](https://ko.wikipedia.org/wiki/:ja:伝説の教師 "wikilink")                                     | [마츠모토 히토시](https://ko.wikipedia.org/wiki/마츠모토_히토시 "wikilink")・[나카이 마사히로](../Page/나카이_마사히로.md "wikilink") | 2000년 | 19.0%     |
+|    |                                                                                                  |                                                                                                          |       |           |
+
+## 역대 회당 최고 시청률 순위 10선
+
+  - 숫자는 비디오 리서치 조사, 관동 지역 · 세대 · 실시간.
+
+| 순위 | 작품명                                                                                              | 방송연도  | 시청률            |
+| -- | ------------------------------------------------------------------------------------------------ | ----- | -------------- |
+| 1  | [집 없는 아이](../Page/집_없는_아이_\(드라마\).md "wikilink")                                                 | 1994년 | **37.2%**（최종회） |
+| 2  | [고쿠센](https://ko.wikipedia.org/wiki/고쿠센#고쿠센_2 "wikilink")（제2기）                                   | 2005년 | 32.5%（최종회）     |
+| 3  | [집 없는 아이 2](../Page/집_없는_아이_\(드라마\).md "wikilink")                                               | 1995년 | 31.5%（최종회）     |
+| 4  | [김전일 소년의 사건부](https://ko.wikipedia.org/wiki/소년탐정_김전일_\(드라마\)#연속_드라마_\(제1시리즈\) "wikilink")（제1기）   | 1995년 | 29.9%（최종회）     |
+| 5  | [내일이 있잖아\!](https://ko.wikipedia.org/wiki/:ja:明日があるさ_\(テレビドラマ\) "wikilink")                      | 2001년 | 29.0%（제1회）     |
+| 6  | [김전일 소년의 사건부 2](https://ko.wikipedia.org/wiki/소년탐정_김전일_\(드라마\)#연속_드라마_\(제2시리즈\) "wikilink")（제2기） | 1996년 | 27.8%（최종회）     |
+| 7  | [고쿠센](https://ko.wikipedia.org/wiki/고쿠센#고쿠센_3 "wikilink")（제3기）                                   | 2008년 | 26.4%（제1회）     |
+| 8  | [전설의 교사](https://ko.wikipedia.org/wiki/:ja:伝説の教師 "wikilink")                                     | 2000년 | 26.1%（제1회）     |
+| 9  | [여왕의 교실](../Page/여왕의_교실_\(2005년_드라마\).md "wikilink")                                             | 2005년 | 25.3%（최종회）     |
+| 10 | [깅로 괴기 파일](https://ko.wikipedia.org/wiki/:ja:銀狼怪奇ファイル "wikilink")                                | 1996년 | 23.7%（최종회）     |
+|    |                                                                                                  |       |                |
 
 ## 작품 목록
 
@@ -274,8 +324,223 @@
   -
     {| class="wikitable" width="100%" style="font-size: 0.85em;"
 
-\!width="35%"|제목\!\!width="17%"|방송 기간\!\!width ="12%"|주연\!\!width="12%"|원작\!\!width="24%"|제작 회사\[23\] |- |[톱 나이프-천재 뇌외과의의 조건-](https://ko.wikipedia.org/wiki/톱_나이프-천재_뇌외과의의_조건- "wikilink")||1월 - ||아마미 유키||[하야시 코지](https://ko.wikipedia.org/wiki/하야시_코지 "wikilink") ||닛테레 악스온 |- |[미만경찰 미드나잇 러너](https://ko.wikipedia.org/wiki/미만경찰_미드나잇_러너 "wikilink")||4월 - ||[나카지마 켄토](../Page/나카지마_켄토.md "wikilink")
-[히라노 쇼](../Page/히라노_쇼.md "wikilink") || ||AXON |- |[2월의 승자-절대합격의 교실-](https://ko.wikipedia.org/wiki/2월의_승자-절대합격의_교실- "wikilink")||7월 - ||[야기라 유야](../Page/야기라_유야.md "wikilink")||[타카세 시호](https://ko.wikipedia.org/wiki/타카세_시호 "wikilink") ||K Factory |- |}
+\!width="35%"|제목\!\!width="17%"|방송 기간\!\!width ="12%"|주연\!\!width="12%"|원작\!\!width="24%"|제작 회사\[23\] |- |[톱 나이프-천재 뇌외과의의 조건-](https://ko.wikipedia.org/wiki/톱_나이프-천재_뇌외과의의_조건- "wikilink")||1월 - 3월||아마미 유키||[하야시 코지](https://ko.wikipedia.org/wiki/하야시_코지 "wikilink") ||닛테레 악스온 |- |[미만경찰 미드나잇 러너](https://ko.wikipedia.org/wiki/미만경찰_미드나잇_러너 "wikilink")||4월 - ||[나카지마 켄토](../Page/나카지마_켄토.md "wikilink")
+[히라노 쇼](../Page/히라노_쇼.md "wikilink") || [청년경찰](../Page/청년경찰.md "wikilink")||AXON |- |[2월의 승자-절대합격의 교실-](https://ko.wikipedia.org/wiki/2월의_승자-절대합격의_교실- "wikilink")||7월 - ||[야기라 유야](../Page/야기라_유야.md "wikilink")||[타카세 시호](https://ko.wikipedia.org/wiki/타카세_시호 "wikilink") ||K Factory |- |}
+
+## 편성국 정보
+
+<table>
+<thead>
+<tr class="header">
+<th><p>방송 대상 지역</p></th>
+<th><p>방송국</p></th>
+<th><p>계열</p></th>
+<th><p>방송 요일·방송 시간</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><a href="../Page/간토_지방.md" title="wikilink">간토 광역권</a></p></td>
+<td><p><a href="../Page/닛폰_TV_방송망.md" title="wikilink">NTV</a><br />
+<strong>《토요드라마 》 제작국</strong></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/닛폰TV_네트워크_협의회" title="wikilink">NTV 계열</a></p></td>
+<td><p>토요일<br />
+22:00 ~ 22:54</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/홋카이도.md" title="wikilink">홋카이도</a></p></td>
+<td><p><a href="../Page/삿포로_TV_방송.md" title="wikilink">삿포로 TV</a>(STV)</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/아오모리현.md" title="wikilink">아오모리현</a></p></td>
+<td><p><a href="../Page/아오모리_방송.md" title="wikilink">아오모리 방송</a>(RAB)</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/이와테현.md" title="wikilink">이와테현</a></p></td>
+<td><p><a href="../Page/TV_이와테.md" title="wikilink">TV 이와테</a>(TVI)</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/미야기현.md" title="wikilink">미야기현</a></p></td>
+<td><p><a href="../Page/미야기_TV_방송.md" title="wikilink">미야기 TV</a>(MMT)</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/아키타현.md" title="wikilink">아키타현</a></p></td>
+<td><p><a href="../Page/아키타_방송.md" title="wikilink">아키타 방송</a>(ABS)</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/야마가타현.md" title="wikilink">야마가타현</a></p></td>
+<td><p><a href="../Page/야마가타_방송.md" title="wikilink">야마가타 방송</a>(YBC)</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/후쿠시마현.md" title="wikilink">후쿠시마현</a></p></td>
+<td><p><a href="../Page/후쿠시마_중앙_TV.md" title="wikilink">후쿠시마 중앙 TV</a>(FCT)</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/야마나시현.md" title="wikilink">야마나시현</a></p></td>
+<td><p><a href="../Page/야마나시_방송.md" title="wikilink">야마나시 방송</a>(YBS)</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/니가타현.md" title="wikilink">니가타현</a></p></td>
+<td><p><a href="../Page/TV_니가타_방송망.md" title="wikilink">TV 니가타</a>(TeNY)</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/나가노현.md" title="wikilink">나가노현</a></p></td>
+<td><p><a href="../Page/TV_신슈.md" title="wikilink">TV 신슈</a>(TSB)</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/시즈오카현.md" title="wikilink">시즈오카현</a></p></td>
+<td><p><a href="../Page/시즈오카_제일_TV.md" title="wikilink">시즈오카 제일 TV</a>(SDT)</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/도야마현.md" title="wikilink">도야마현</a></p></td>
+<td><p><a href="../Page/기타니혼_방송.md" title="wikilink">기타니혼 방송</a>(KNB)</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/이시카와현.md" title="wikilink">이시카와현</a></p></td>
+<td><p><a href="../Page/TV_가나자와.md" title="wikilink">TV 가나자와</a>(KTK)</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/주쿄권.md" title="wikilink">주쿄 광역권</a></p></td>
+<td><p><a href="../Page/주쿄_TV_방송.md" title="wikilink">주쿄 TV 방송</a>(CTV)</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/긴키_지방.md" title="wikilink">긴키 광역권</a></p></td>
+<td><p><a href="../Page/요미우리_TV_방송.md" title="wikilink">요미우리 TV</a>(ytv)</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/돗토리현.md" title="wikilink">돗토리현</a><br />
+<a href="../Page/시마네현.md" title="wikilink">시마네현</a></p></td>
+<td><p><a href="../Page/니혼카이_TV.md" title="wikilink">니혼카이 TV</a>(NKT)</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/히로시마현.md" title="wikilink">히로시마현</a></p></td>
+<td><p><a href="../Page/히로시마_TV_방송.md" title="wikilink">히로시마 TV</a>(HTV)</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/야마구치현.md" title="wikilink">야마구치현</a></p></td>
+<td><p><a href="../Page/야마구치_방송.md" title="wikilink">야마구치 방송</a>(KRY)</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/도쿠시마현.md" title="wikilink">도쿠시마현</a></p></td>
+<td><p><a href="../Page/시코쿠_방송.md" title="wikilink">시코쿠 방송</a>(JRT)</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/가가와현.md" title="wikilink">가가와현</a><br />
+<a href="../Page/오카야마현.md" title="wikilink">오카야마현</a></p></td>
+<td><p><a href="../Page/니시닛폰_방송.md" title="wikilink">니시닛폰 방송</a>(RNC)</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/아이치현.md" title="wikilink">아이치현</a></p></td>
+<td><p><a href="../Page/난카이_방송.md" title="wikilink">난카이 방송</a>(RNB)</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/고치현.md" title="wikilink">고치현</a></p></td>
+<td><p><a href="../Page/고치_방송.md" title="wikilink">고치 방송</a>(RKC)</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/후쿠오카현.md" title="wikilink">후쿠오카현</a></p></td>
+<td><p><a href="../Page/후쿠오카_방송.md" title="wikilink">후쿠오카 방송</a>(FBS)</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/나가사키현.md" title="wikilink">나가사키현</a></p></td>
+<td><p><a href="../Page/나가사키_국제_TV.md" title="wikilink">나가사키 국제 TV</a>(NIB)</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/구마모토현.md" title="wikilink">구마모토현</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/구마모토_현민_TV" title="wikilink">구마모토 현민 TV</a>(KKT)</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/오이타현.md" title="wikilink">오이타현</a></p></td>
+<td><p><a href="../Page/TV_오이타.md" title="wikilink">TV 오이타</a>(TOS)</p></td>
+<td><p><a href="../Page/후지_네트워크.md" title="wikilink">후지 네트워크</a> 계열 / NTV 계열</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/가고시마현.md" title="wikilink">가고시마현</a></p></td>
+<td><p><a href="../Page/가고시마_요미우리_TV.md" title="wikilink">가고시마 요미우리 TV</a>(KYT)</p></td>
+<td><p>NTV 계열</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/후쿠이현.md" title="wikilink">후쿠이현</a></p></td>
+<td><p><a href="../Page/후쿠이_방송.md" title="wikilink">후쿠이 방송</a>(FBC)</p></td>
+<td><p>NTV 계열 / <a href="../Page/올_닛폰_뉴스_네트워크.md" title="wikilink">TV아사히 계열</a></p></td>
+<td><p>토요일<br />
+16:00 ~ 16:54</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/오키나와현.md" title="wikilink">오키나와현</a></p></td>
+<td><p><a href="../Page/오키나와_TV_방송.md" title="wikilink">오키나와 TV 방송</a>(OTV)</p></td>
+<td><p>후지 네트워크 계열</p></td>
+<td><p>토요일<br />
+12:00 ~ 12:54</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+## 함께 보기
+
+  - [닛폰 TV 방송망 수요일 밤 10시 드라마](../Page/닛폰_TV_방송망_수요일_밤_10시_드라마.md "wikilink")
+  - [후지 TV 목요극장](../Page/후지_TV_목요극장.md "wikilink")
+  - [TBS 금요드라마](../Page/TBS_금요드라마.md "wikilink")
+  - [TBS 일요극장](https://ko.wikipedia.org/wiki/TBS_일요극장 "wikilink")
+  - [후지 TV 월요일 밤 9시 드라마](../Page/후지_TV_월요일_밤_9시_드라마.md "wikilink")
 
 ## 각주
 

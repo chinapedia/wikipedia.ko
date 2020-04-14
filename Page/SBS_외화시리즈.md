@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SBS ](https://ko.wikipedia.org/wiki/SBS_).
+> This article is converted from Wikipedia: [SBS 외화시리즈](https://ko.wikipedia.org/wiki/SBS_외화시리즈).
 
 
 **SBS 외화시리즈**는 [SBS](../Page/SBS.md "wikilink")에서 방송되었던 프로그램이다.

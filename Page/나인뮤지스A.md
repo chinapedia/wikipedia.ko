@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [A](https://ko.wikipedia.org/wiki/A).
+> This article is converted from Wikipedia: [나인뮤지스A](https://ko.wikipedia.org/wiki/나인뮤지스A).
 
 
 **나인뮤지스A**(9MUSES A)는 [스타제국](../Page/스타제국.md "wikilink") 소속의 [대한민국](../Page/대한민국.md "wikilink") 음악 그룹 [나인뮤지스](../Page/나인뮤지스.md "wikilink")의 4인조 유닛 그룹이다. 나인뮤지스A는 나인뮤지스와 어뮤즈(AMUSE)의 합성어를 의미한다. 나인뮤지스A는 멤버 [경리](../Page/경리_\(가수\).md "wikilink"), [혜미](../Page/혜미_\(1991년\).md "wikilink"), [소진](https://ko.wikipedia.org/wiki/소진_\(1991년\) "wikilink"), [금조로](../Page/금조_\(가수\).md "wikilink") 구성되었다. [2016년](../Page/2016년.md "wikilink") [8월 4일](../Page/8월_4일.md "wikilink") 데뷔 싱글 《[MUSES DIARY](../Page/MUSES_DIARY.md "wikilink")》를 발매하였다.

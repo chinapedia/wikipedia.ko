@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ B8R](https://ko.wikipedia.org/wiki/_B8R).
+> This article is converted from Wikipedia: [볼보 B8R](https://ko.wikipedia.org/wiki/볼보_B8R).
 
 
 **볼보 B8R**은 [볼보버스](../Page/볼보버스.md "wikilink")가 [2013년](../Page/2013년.md "wikilink")부터 생산하고 있는 7.7리터급 중·대형 버스용 [섀시](https://ko.wikipedia.org/wiki/섀시 "wikilink")이다. [B7R과](https://ko.wikipedia.org/wiki/볼보_B7R "wikilink") [B9R의](https://ko.wikipedia.org/wiki/볼보_B9R "wikilink") 후속 모델로 개발되었다.\[1\]

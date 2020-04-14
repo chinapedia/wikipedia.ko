@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KBS 6 ](https://ko.wikipedia.org/wiki/KBS_6_).
+> This article is converted from Wikipedia: [KBS 6시 뉴스타임](https://ko.wikipedia.org/wiki/KBS_6시_뉴스타임).
 
 
 《**KBS 6시 뉴스타임**》()은 [대한민국](../Page/대한민국.md "wikilink") [KBS 2TV에서](../Page/KBS_2TV.md "wikilink") [월요일](../Page/월요일.md "wikilink") \~ [목요일](../Page/목요일.md "wikilink") 저녁 6시에 방송되었던 [한국방송공사의 저녁뉴스 프로그램이다](../Page/한국방송공사의_뉴스_프로그램.md "wikilink").

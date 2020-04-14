@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SNL  \( 8\)](https://ko.wikipedia.org/wiki/SNL__\(_8\)).
+> This article is converted from Wikipedia: [SNL 코리아 \(시즌 8\)](https://ko.wikipedia.org/wiki/SNL_코리아_\(시즌_8\)).
 
 
 《**[SNL 코리아](../Page/SNL_코리아.md "wikilink")**》의 여덟 번째 시즌은 [2016년](../Page/2016년.md "wikilink") [9월 3일부터](../Page/9월_3일.md "wikilink") [2016년](../Page/2016년.md "wikilink") [12월 24일까지](../Page/12월_24일.md "wikilink") [tvN](https://ko.wikipedia.org/wiki/tvN "wikilink")에서 방송되었다.

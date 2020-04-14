@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ SRM](https://ko.wikipedia.org/wiki/_SRM).
+> This article is converted from Wikipedia: [라이트 SRM](https://ko.wikipedia.org/wiki/라이트_SRM).
 
 
 **라이트 SRM**(**S**on of **R**oute**m**aster)은 [라이트버스](https://ko.wikipedia.org/wiki/라이트버스 "wikilink")에서 제작하는 [2층 버스](../Page/2층_버스.md "wikilink") 차체이다. [볼보 B5LH](https://ko.wikipedia.org/wiki/볼보_B5LH "wikilink") 섀시에 탑재되며, [뉴 루트마스터와](https://ko.wikipedia.org/wiki/뉴_루트마스터 "wikilink") 거의 같은 형상을 가지고 있지만 후면 계단이 없으며, 후면부 디자인에서 차이가 있다.\[1\]\[2\]\[3\]

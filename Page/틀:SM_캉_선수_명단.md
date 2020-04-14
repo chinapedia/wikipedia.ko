@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:SM   ](https://ko.wikipedia.org/wiki/:SM___).
+> This article is converted from Wikipedia: [틀:SM 캉 선수 명단](https://ko.wikipedia.org/wiki/틀:SM_캉_선수_명단).
 
 
 <onlyinclude></onlyinclude>

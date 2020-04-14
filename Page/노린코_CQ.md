@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ CQ](https://ko.wikipedia.org/wiki/_CQ).
+> This article is converted from Wikipedia: [노린코 CQ](https://ko.wikipedia.org/wiki/노린코_CQ).
 
 
 **노린코 CQ**는 중국 [노린코](https://ko.wikipedia.org/wiki/노린코 "wikilink")에서 생산하는 [M16 소총](../Page/M16_소총.md "wikilink") 카피버전이다. 북한에서도 수입해 사용중이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [   \(NAVILLERA\)](https://ko.wikipedia.org/wiki/___\(NAVILLERA\)).
+> This article is converted from Wikipedia: [너 그리고 나 \(NAVILLERA\)](https://ko.wikipedia.org/wiki/너_그리고_나_\(NAVILLERA\)).
 
 
 〈**너 그리고 나 (NAVILLERA)**〉(너 그리고 나 (나빌레라))는 [대한민국](../Page/대한민국.md "wikilink") 걸그룹 [여자친구의](../Page/여자친구_\(음악_그룹\).md "wikilink") 노래이다. ‘NAVILLERA’는 [조지훈](../Page/조지훈.md "wikilink")의 시 ‘승무’의 한 구절인 ‘나빌레라’를 인용하였으며, ‘좋아하는 사람에게 나비처럼 날아가고 싶다’라는 의미가 있다\[1\]. 뮤직비디오 촬영 이후에 안무의 동선과 일부 안무가 추가되었다\[2\].

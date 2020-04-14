@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [WWE  ](https://ko.wikipedia.org/wiki/WWE__).
+> This article is converted from Wikipedia: [WWE 유니버셜 챔피언십](https://ko.wikipedia.org/wiki/WWE_유니버셜_챔피언십).
 
 
 **WWE 유니버셜 챔피언십**(WWE Universal Championship)은 [WWE](https://ko.wikipedia.org/wiki/WWE "wikilink")에 속한 타이틀 중 하나이다.

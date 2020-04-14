@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KDE  4](https://ko.wikipedia.org/wiki/KDE__4).
+> This article is converted from Wikipedia: [KDE 플랫폼 4](https://ko.wikipedia.org/wiki/KDE_플랫폼_4).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:KDE_brand_map.svg "wikilink") **KDE 플랫폼 4**(KDE Platform 4)는 [KDE](../Page/KDE.md "wikilink")의 라이브러리와 [소프트웨어 프레임워크의](../Page/소프트웨어_프레임워크.md "wikilink") 모음으로, [GNU LGPL](https://ko.wikipedia.org/wiki/GNU_LGPL "wikilink") 하에서 배포되는 [KDE 소프트웨어 컴파일레이션 4의](https://ko.wikipedia.org/wiki/KDE_소프트웨어_컴파일레이션_4 "wikilink") 기술 토대를 제공한다.

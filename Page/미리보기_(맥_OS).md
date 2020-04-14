@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ \( OS\)](https://ko.wikipedia.org/wiki/_\(_OS\)).
+> This article is converted from Wikipedia: [미리보기 \(맥 OS\)](https://ko.wikipedia.org/wiki/미리보기_\(맥_OS\)).
 
 
 **미리보기**는 [macOS](https://ko.wikipedia.org/wiki/macOS "wikilink")의 내장 뷰어 프로그램으로, [PDF](../Page/PDF.md "wikilink")와 이미지, 그리고 몇몇 문서 파일을 읽어 올수 있다. macOS 처럼 미리보기도 [NeXT](../Page/NeXT.md "wikilink")의 [NeXTSTEP](../Page/NeXTSTEP.md "wikilink")에서 유래된 것이다.\[1\]

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [MBC ](https://ko.wikipedia.org/wiki/MBC_).
+> This article is converted from Wikipedia: [MBC 외화시리즈](https://ko.wikipedia.org/wiki/MBC_외화시리즈).
 
 
 **MBC 외화시리즈**는 [MBC](https://ko.wikipedia.org/wiki/MBC "wikilink")에서 방송되었던 해외 [텔레비전 드라마다](../Page/텔레비전_드라마.md "wikilink").

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Rock \'n\' Roll \(  \)](https://ko.wikipedia.org/wiki/Rock_\'n\'_Roll_\(__\)).
+> This article is converted from Wikipedia: [Rock \'n\' Roll \(존 레논의 음반\)](https://ko.wikipedia.org/wiki/Rock_\'n\'_Roll_\(존_레논의_음반\)).
 
 
 《**Rock 'n' Roll**》는 1975년 발표된 [존 레논의](../Page/존_레논.md "wikilink") 여섯번째 정규 음반이다. 영국과 미국, 모두에서 차트 6위를 기록했다. 1950년대와 1960년대의 록 스탠다드 넘버들을 커버, 수록하고 있으며 [벤 E. 킹의](../Page/벤_E._킹.md "wikilink") 〈[Stand by Me](../Page/Stand_by_Me_\(벤_E._킹의_노래\).md "wikilink")〉 커버가 특히 유명하다. 2004년 리믹스 & 디지털 리마스터링 판으로 재출시, 보너스 트랙 4곡이 추가 수록됐다.

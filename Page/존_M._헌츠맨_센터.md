@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ M.  ](https://ko.wikipedia.org/wiki/_M.__).
+> This article is converted from Wikipedia: [존 M. 헌츠맨 센터](https://ko.wikipedia.org/wiki/존_M._헌츠맨_센터).
 
 
 **존 M. 헌츠맨 센터**(Jon M. Huntsman Center)는 [미국](../Page/미국.md "wikilink") [유타주](../Page/유타주.md "wikilink") [솔트레이크시티](../Page/솔트레이크시티.md "wikilink")에 위치한 실내 경기장이다. 현재 [NBA 서머리그](../Page/NBA_서머리그.md "wikilink") 경기장으로 사용하고 있으면, [유타 대학교](../Page/유타_대학교.md "wikilink") 남자,여자 농구팀이 사용하고 있다.

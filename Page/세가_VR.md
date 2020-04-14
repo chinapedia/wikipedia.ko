@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ VR](https://ko.wikipedia.org/wiki/_VR).
+> This article is converted from Wikipedia: [세가 VR](https://ko.wikipedia.org/wiki/세가_VR).
 
 
 **세가 VR**은[세가](https://ko.wikipedia.org/wiki/세가 "wikilink")가 만든 [가상현실](../Page/가상현실.md "wikilink") [헤드셋](https://ko.wikipedia.org/wiki/헤드셋 "wikilink")이다. 세가가 초기 기획한 것은 [아케이드와](../Page/아케이드_게임.md "wikilink") [콘솔용](../Page/비디오_게임_콘솔.md "wikilink")([메가드라이브](https://ko.wikipedia.org/wiki/메가드라이브 "wikilink") 및 [세가 새턴](../Page/세가_새턴.md "wikilink"))이었지만, 아케이드 버전을 출시되었으나 [가정용 콘솔](../Page/가정용_게임기.md "wikilink") 버전은 취소되었다.

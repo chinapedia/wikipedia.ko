@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [2015 CONCACAF](https://ko.wikipedia.org/wiki/2015_CONCACAF).
+> This article is converted from Wikipedia: [2015년 CONCACAF컵](https://ko.wikipedia.org/wiki/2015년_CONCACAF컵).
 
 
 **2015년 CONCACAF컵**은 [러시아](../Page/러시아.md "wikilink")에서 개최된 [2017년 FIFA 컨페더레이션스컵에](../Page/2017년_FIFA_컨페더레이션스컵.md "wikilink") 출전할 [북중미카리브 축구 연맹](../Page/북중미카리브_축구_연맹.md "wikilink")(CONCACAF) 대표를 결정하기 위해 열린 플레이오프 경기이다.

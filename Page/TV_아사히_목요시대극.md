@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TV  ](https://ko.wikipedia.org/wiki/TV__).
+> This article is converted from Wikipedia: [TV 아사히 목요시대극](https://ko.wikipedia.org/wiki/TV_아사히_목요시대극).
 
 
 **TV 아사히 목요일 시대극**은 1971년부터 2001년까지 [TV 아사히로](../Page/TV_아사히.md "wikilink") 존재하는 [시대극](https://ko.wikipedia.org/wiki/시대극 "wikilink") 전문 방송 시간대. 19시 시간대와 20시 시간대 및 22시 시간대의 3종류 존재했다.

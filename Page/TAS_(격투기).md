@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TAS \(\)](https://ko.wikipedia.org/wiki/TAS_\(\)).
+> This article is converted from Wikipedia: [TAS \(격투기\)](https://ko.wikipedia.org/wiki/TAS_\(격투기\)).
 
 
 **TAS**(Top Attack Series)는 [대한민국](../Page/대한민국.md "wikilink") [부산광역시](https://ko.wikipedia.org/wiki/부산광역시 "wikilink") 및 [경상남도](https://ko.wikipedia.org/wiki/경상남도 "wikilink") 기반의 입식격투기 프로덕션이다. 2016년 TAS10은 [SPOTV+](../Page/SPOTV+.md "wikilink")와 [네이버](../Page/네이버.md "wikilink")를 통해 중계방송 되었으며 2019년 TAS11은 [STN스포츠](https://ko.wikipedia.org/wiki/STN스포츠 "wikilink")와 [네이버](../Page/네이버.md "wikilink")[유투브 격투기TAS를](https://ko.wikipedia.org/wiki/유투브_격투기TAS "wikilink") 통해 중계방송 된다.\[1\]

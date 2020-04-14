@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KT](https://ko.wikipedia.org/wiki/KT).
+> This article is converted from Wikipedia: [KT파워텔](https://ko.wikipedia.org/wiki/KT파워텔).
 
 
 **케이티파워텔 주식회사**(kt powertel Co., Ltd.)는 [KT](../Page/KT.md "wikilink") 그룹의 무전 통신 사업자이다. 전국 무전통화 서비스와 이동전화 및 부가서비스 제공이 주요 업무이다. 1985년 설립된 한국항만전화에 뿌리를 두고 있으며, 2002년 3월 케이티파워텔(주)로 상호를 변경하였다.\[1\]
@@ -51,7 +51,7 @@
   - [공식 블로그](http://blog.ktp.co.kr/)
   - [공식 페이스북](https://www.facebook.com/ktpowertel/)
 
-[분류:통신 기업](https://ko.wikipedia.org/wiki/분류:통신_기업 "wikilink") [분류:대한민국의 통신 기업](https://ko.wikipedia.org/wiki/분류:대한민국의_통신_기업 "wikilink") [분류:KT](https://ko.wikipedia.org/wiki/분류:KT "wikilink")
+[분류:통신 기업](https://ko.wikipedia.org/wiki/분류:통신_기업 "wikilink") [분류:대한민국의 통신 기업](https://ko.wikipedia.org/wiki/분류:대한민국의_통신_기업 "wikilink") [분류:KT](https://ko.wikipedia.org/wiki/분류:KT "wikilink") [분류:1985년 설립된 기업](https://ko.wikipedia.org/wiki/분류:1985년_설립된_기업 "wikilink")
 
 1.  <https://terms.naver.com/entry.nhn?docId=651312&cid=43167&categoryId=43167>
 2.  <http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=105&oid=421&aid=0001038803>

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:  JG 3](https://ko.wikipedia.org/wiki/:__JG_3).
+> This article is converted from Wikipedia: [틀:기사십자 철십자장 JG 3](https://ko.wikipedia.org/wiki/틀:기사십자_철십자장_JG_3).
 
 
 <noinclude> [분류:기사십자 철십자장 틀](https://ko.wikipedia.org/wiki/분류:기사십자_철십자장_틀 "wikilink") </noinclude>

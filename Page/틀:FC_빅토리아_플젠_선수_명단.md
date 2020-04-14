@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:FC    ](https://ko.wikipedia.org/wiki/:FC____).
+> This article is converted from Wikipedia: [틀:FC 빅토리아 플젠 선수 명단](https://ko.wikipedia.org/wiki/틀:FC_빅토리아_플젠_선수_명단).
 
 
 <onlyinclude></onlyinclude>

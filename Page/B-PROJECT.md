@@ -61,7 +61,7 @@
 ### 스태프
 
   - 스미소라 츠바사 ()
-    성우 : [카네모토 히사코](../Page/카네모토_히사코.md "wikilink") → [세토 아사미](https://ko.wikipedia.org/wiki/세토_아사미 "wikilink")<sup>(2기)</sup>
+    성우 : [카네모토 히사코](../Page/카네모토_히사코.md "wikilink") → [세토 아사미](../Page/세토_아사미.md "wikilink")<sup>(2기)</sup>
 
 <!-- end list -->
 

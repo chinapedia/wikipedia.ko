@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [3\(\)SS](https://ko.wikipedia.org/wiki/3\(\)SS).
+> This article is converted from Wikipedia: [제3\(게르만\)SS기갑군단](https://ko.wikipedia.org/wiki/제3\(게르만\)SS기갑군단).
 
 
 **제3(게르만)SS기갑군단**()은 [무장친위대](../Page/무장친위대.md "wikilink")의 기갑[군단](https://ko.wikipedia.org/wiki/군단 "wikilink") 중 하나이다. [제2차 세계 대전](../Page/제2차_세계_대전.md "wikilink") 당시 동부전선에서 종군했다. 주로 외인의용부대들로 구성되었다.

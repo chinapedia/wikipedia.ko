@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [T. B. ](https://ko.wikipedia.org/wiki/T._B._).
+> This article is converted from Wikipedia: [T. B. 조슈아](https://ko.wikipedia.org/wiki/T._B._조슈아).
 
 
 [260px](https://ko.wikipedia.org/wiki/파일:تى_بى_جوشوا.jpg "wikilink")

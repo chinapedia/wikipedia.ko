@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:NCT](https://ko.wikipedia.org/wiki/:NCT).
+> This article is converted from Wikipedia: [틀:NCT](https://ko.wikipedia.org/wiki/틀:NCT).
 
 
 <onlyinclude></onlyinclude>

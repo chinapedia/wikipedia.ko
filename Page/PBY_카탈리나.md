@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [PBY ](https://ko.wikipedia.org/wiki/PBY_).
+> This article is converted from Wikipedia: [PBY 카탈리나](https://ko.wikipedia.org/wiki/PBY_카탈리나).
 
 
 **PBY 카탈리나**(Consolidated PBY Catalina)는 [미국](../Page/미국.md "wikilink")의 [비행정](https://ko.wikipedia.org/wiki/비행정 "wikilink")이다. 캐나다에서는 **칸소**(Canso)로 불린다. '컨솔리데이티드 에어크래프트'에서 제작한 1930년대와 1940년대에는 [수륙양용기](https://ko.wikipedia.org/wiki/수륙양용기 "wikilink")로 운용되었다.

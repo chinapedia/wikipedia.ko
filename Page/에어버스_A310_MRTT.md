@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ A310 MRTT](https://ko.wikipedia.org/wiki/_A310_MRTT).
+> This article is converted from Wikipedia: [에어버스 A310 MRTT](https://ko.wikipedia.org/wiki/에어버스_A310_MRTT).
 
 
 **에어버스 A310 MRTT**는 에어버스사의 [A300](https://ko.wikipedia.org/wiki/A300 "wikilink")의 기체길이를 단축한 [A310](https://ko.wikipedia.org/wiki/A310 "wikilink")을, [수송기](https://ko.wikipedia.org/wiki/수송기 "wikilink") 겸 [공중급유기](https://ko.wikipedia.org/wiki/공중급유기 "wikilink")로 개조한 버전이며, 급유방식은 붐, 프로브/드로그 방식으로 동시에 3대의 기체에 급유 가능하다. 보잉사의 [KC-135](https://ko.wikipedia.org/wiki/KC-135 "wikilink")와 수송 적재능력이 비슷하다.

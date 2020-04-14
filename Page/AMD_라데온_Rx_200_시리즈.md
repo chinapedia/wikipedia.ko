@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [AMD  Rx 200 ](https://ko.wikipedia.org/wiki/AMD__Rx_200_).
+> This article is converted from Wikipedia: [AMD 라데온 Rx 200 시리즈](https://ko.wikipedia.org/wiki/AMD_라데온_Rx_200_시리즈).
 
 
 **라데온 Rx 200 시리즈**는 [AMD](https://ko.wikipedia.org/wiki/AMD "wikilink")가 2013년 9월 26일 GPU 14 테크 데이에서 공개하고 2013년 10월에 출시한 [라데온](../Page/라데온.md "wikilink") [그래픽 카드](../Page/그래픽_카드.md "wikilink") 제품군이다.\[1\] 플래그십 포함 상위 기종은 새로운 칩인 하와이를 기반으로 했으며, 그 외의 메인스트림과 엔트리 기종은 전세대인 HD 5000, HD 6000, HD 7000 시리즈를 리프레시하여 출시되었다. 이 때부터 기존의 HD XXXX 네이밍에서 R 뒤에 숫자가 붙은 네이밍으로 변경되었다. 엔트리는 5, 메인스트림은 7, 하이엔드는 9가 뒤에 붙는다.\[2\]

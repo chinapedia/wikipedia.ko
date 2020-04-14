@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FIVB     ](https://ko.wikipedia.org/wiki/FIVB_____).
+> This article is converted from Wikipedia: [FIVB 세계 남자 배구 선수권 대회](https://ko.wikipedia.org/wiki/FIVB_세계_남자_배구_선수권_대회).
 
 
 **FIVB 세계 남자배구 선수권대회**()는 [배구](../Page/배구.md "wikilink") 종목을 총괄하는 국제기구인 [국제 배구 연맹](../Page/국제_배구_연맹.md "wikilink")(FIVB)이 주관하는 국제 배구 대회이다. 대회는 [1949년](../Page/1949년.md "wikilink")에 창설되었으며, [FIVB](../Page/국제_배구_연맹.md "wikilink") 가맹국의 성인 남자 국가대표팀이 참여한다. 대회 초창기에는 변동 사항이 있었지만, [1962년](../Page/1962년.md "wikilink") 이래 4년을 주기로 열리고 있다. 현재 우승국은 자국에서 개최된 [2014년 선수권대회에서](https://ko.wikipedia.org/wiki/2014년_FIVB_세계_남자배구_선수권대회 "wikilink") 우승한 [폴란드이다](https://ko.wikipedia.org/wiki/폴란드_배구_국가대표팀 "wikilink").

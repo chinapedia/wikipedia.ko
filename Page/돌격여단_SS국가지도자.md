@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ SS](https://ko.wikipedia.org/wiki/_SS).
+> This article is converted from Wikipedia: [돌격여단 SS국가지도자](https://ko.wikipedia.org/wiki/돌격여단_SS국가지도자).
 
 
 **돌격여단 SS국가지도자**()는 [제2차 세계 대전](../Page/제2차_세계_대전.md "wikilink") 당시 [나치 독일의](../Page/나치_독일.md "wikilink") 부대 중 하나이다. 1943년 2월 [아돌프 히틀러가](../Page/아돌프_히틀러.md "wikilink") [SS국가지도자 호위대대](https://ko.wikipedia.org/wiki/SS국가지도자_호위대대 "wikilink")([하인리히 히믈러의](https://ko.wikipedia.org/wiki/하인리히_히믈러 "wikilink") 개인 경호대대)를 여단으로 승격하여 만들었다.

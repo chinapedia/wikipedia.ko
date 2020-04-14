@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ R. ](https://ko.wikipedia.org/wiki/_R._).
+> This article is converted from Wikipedia: [앨버트 R. 브로콜리](https://ko.wikipedia.org/wiki/앨버트_R._브로콜리).
 
 
 **앨버트 로몰로 브로콜리**(, [1909년](../Page/1909년.md "wikilink") [4월 5일](../Page/4월_5일.md "wikilink") \~ [1996년](../Page/1996년.md "wikilink") [6월 27일](../Page/6월_27일.md "wikilink"))는 20세기 [미국](../Page/미국.md "wikilink")의 [영화 프로듀서이다](https://ko.wikipedia.org/wiki/영화_프로듀서 "wikilink"). [칼라브리아주](../Page/칼라브리아주.md "wikilink") 출신의 [이탈리아계 미국인](../Page/이탈리아계_미국인.md "wikilink") 가정에서 태어났다. [이언 프로덕션의](https://ko.wikipedia.org/wiki/이언_프로덕션 "wikilink") 공동창립자로 수십 편의 [제임스 본드](../Page/제임스_본드.md "wikilink") 영화를 프로듀싱하였다. 그의 사후 시리즈 프로듀싱은 딸 [바버라 브로콜리가](../Page/바버라_브로콜리.md "wikilink") 이어가고 있다.

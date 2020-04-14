@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [ QM6](https://ko.wikipedia.org/wiki/_QM6).
+> This article is converted from Wikipedia: [르노삼성 QM6](https://ko.wikipedia.org/wiki/르노삼성_QM6).
 
 
-**르노삼성 QM6**(Renault Samsung QM6)는 [대한민국](../Page/대한민국.md "wikilink")의 자동차 업체인 [르노삼성자동차](../Page/르노삼성자동차.md "wikilink")의 [전륜구동](../Page/전륜구동.md "wikilink") 기반 [SUV이다](../Page/스포츠_유틸리티_자동차.md "wikilink"). 차명인 QM6에서 QM은 'Quest Motoring'을 의미이며, 6은 중형급을 나타내는 숫자이다.
+**르노삼성 QM6**(Renault Samsung QM6)는 [대한민국](../Page/대한민국.md "wikilink")의 자동차 업체인 [르노삼성자동차](../Page/르노삼성자동차.md "wikilink")의 [전륜구동](../Page/전륜구동.md "wikilink") 기반 [스포츠 유틸리티 자동차이다](../Page/스포츠_유틸리티_자동차.md "wikilink"). 차명인 QM6에서 QM은 'Quest Motoring'을 의미이며, 6은 중형급을 나타내는 숫자이다.
 
 {{-}}
 
@@ -388,4 +388,4 @@
 
   - [르노삼성자동차](http://www.renaultsamsungm.com/main.jsp)
 
-[QM6](https://ko.wikipedia.org/wiki/분류:르노의_차종 "wikilink") [QM6](https://ko.wikipedia.org/wiki/분류:르노삼성자동차의_차종 "wikilink") [QM6](https://ko.wikipedia.org/wiki/분류:전륜구동 "wikilink") [QM6](https://ko.wikipedia.org/wiki/분류:4륜구동 "wikilink") [QM6](https://ko.wikipedia.org/wiki/분류:스포츠_유틸리티_자동차 "wikilink") [QM6](https://ko.wikipedia.org/wiki/분류:중형_승용차 "wikilink") [QM6](https://ko.wikipedia.org/wiki/분류:2010년대_자동차 "wikilink") [QM6](https://ko.wikipedia.org/wiki/분류:2016년_도입된_자동차 "wikilink") [분류:브랜드의 효자차종](https://ko.wikipedia.org/wiki/분류:브랜드의_효자차종 "wikilink")
+[QM6](https://ko.wikipedia.org/wiki/분류:르노의_차종 "wikilink") [QM6](https://ko.wikipedia.org/wiki/분류:르노삼성자동차의_차종 "wikilink") [QM6](https://ko.wikipedia.org/wiki/분류:전륜구동 "wikilink") [QM6](https://ko.wikipedia.org/wiki/분류:4륜구동 "wikilink") [QM6](https://ko.wikipedia.org/wiki/분류:스포츠_유틸리티_자동차 "wikilink") [QM6](https://ko.wikipedia.org/wiki/분류:중형_승용차 "wikilink") [QM6](https://ko.wikipedia.org/wiki/분류:2010년대_자동차 "wikilink") [QM6](https://ko.wikipedia.org/wiki/분류:2016년_도입된_자동차 "wikilink")

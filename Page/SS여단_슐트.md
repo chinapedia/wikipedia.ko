@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SS ](https://ko.wikipedia.org/wiki/SS_).
+> This article is converted from Wikipedia: [SS여단 슐트](https://ko.wikipedia.org/wiki/SS여단_슐트).
 
 
 **SS여단 슐트**()는 [제2차 세계 대전](../Page/제2차_세계_대전.md "wikilink") 당시 [나치 독일의](../Page/나치_독일.md "wikilink") [무장친위대](../Page/무장친위대.md "wikilink") 부대 중 하나이다. 그 이름은 여단장 [힌리히 슐트](https://ko.wikipedia.org/wiki/힌리히_슐트 "wikilink") [여단지도자](../Page/여단지도자.md "wikilink")의 이름에서 유래했다. [독소전쟁](https://ko.wikipedia.org/wiki/독소전쟁 "wikilink")에 종군하였다.
