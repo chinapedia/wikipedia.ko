@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Transl](https://ko.wikipedia.org/wiki/:Transl).
+> This article is converted from Wikipedia: [틀:Transl](https://ko.wikipedia.org/wiki/틀:Transl).
 
 
 \<span lang="-Latn" xml:lang="-Latn" title={{ \#if:  | {{\#switch:  |ISO = {{\#switch:

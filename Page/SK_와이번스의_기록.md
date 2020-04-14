@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SK  ](https://ko.wikipedia.org/wiki/SK__).
+> This article is converted from Wikipedia: [SK 와이번스의 기록](https://ko.wikipedia.org/wiki/SK_와이번스의_기록).
 
 
 이 문서는 **[SK 와이번스의](../Page/SK_와이번스.md "wikilink") 여러가지 기록**들을 수록한 문서이다.

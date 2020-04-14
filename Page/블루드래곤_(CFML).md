@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ \(CFML\)](https://ko.wikipedia.org/wiki/_\(CFML\)).
+> This article is converted from Wikipedia: [블루드래곤 \(CFML\)](https://ko.wikipedia.org/wiki/블루드래곤_\(CFML\)).
 
 
 **블루드래곤(BlueDragon)**은 어도비 콜드퓨전과 비슷한 CFML 엔진이다. 뉴 아틀란타(New Atlanta)사의 제품으로 개발/배포되고 있다.

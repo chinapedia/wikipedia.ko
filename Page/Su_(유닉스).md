@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Su \(\)](https://ko.wikipedia.org/wiki/Su_\(\)).
+> This article is converted from Wikipedia: [Su \(유닉스\)](https://ko.wikipedia.org/wiki/Su_\(유닉스\)).
 
 
 **su**(*substitute user*\[1\] 의 줄임말)는 [유닉스](../Page/유닉스.md "wikilink") 명령을 로그아웃하지 않고 다른 사용자의 권한으로 [셸](../Page/셸.md "wikilink")을 실행하는 데 사용된다.일반적으로 관리 작업을 위해 다시 로그오프하지 않고 [사용자의](../Page/사용자_\(컴퓨팅\).md "wikilink") 권한을 [루트로](https://ko.wikipedia.org/wiki/슈퍼_사용자 "wikilink") 변경하는 데 사용된다. 같은 방법으로 다른 사용자로 전환하는 데 사용된다. [KDE](../Page/KDE.md "wikilink")와 [그놈](../Page/그놈.md "wikilink")과 같은 [데스크톱 환경은](../Page/데스크톱_환경.md "wikilink") 사용자가 이러한 액세스를 필요로 하는 명령들을 실행할 수 있도록 하기 위하여 비밀 번호를 입력할 수 있는 상자를 보여주는 프로그램들이 있다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [USS  \(CV-5\)](https://ko.wikipedia.org/wiki/USS__\(CV-5\)).
+> This article is converted from Wikipedia: [USS 요크타운 \(CV-5\)](https://ko.wikipedia.org/wiki/USS_요크타운_\(CV-5\)).
 
 
 ## 개요

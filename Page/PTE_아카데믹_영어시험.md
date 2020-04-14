@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [PTE  ](https://ko.wikipedia.org/wiki/PTE__).
+> This article is converted from Wikipedia: [PTE 아카데믹 영어시험](https://ko.wikipedia.org/wiki/PTE_아카데믹_영어시험).
 
 
 **PTE 아카데믹 영어시험**(Pearson Test of English Academic)은, 컴퓨터 응시를 기반으로 하는 국제 영어능력 평가 시험이다. 이 테스트는 대학교, 고등교육기관, 정부기관, 그리고 대학 수준의 영어를 요구하는 기타 기관 등 다양한 실제 생활에서 필요한 컨텐츠를 반영하여 구성한 시험이다.\[1\]
@@ -11,7 +11,7 @@ PTE 아카데믹 영어시험은 PLT (Pearson Language Tests)가 [GMAT](https://
 
 ## 제이슨 PTE 시험
 
-최초의 한국인 PTE 시험 커뮤니티가 [제이슨](https://ko.wikipedia.org/wiki/제이슨_\(유튜버\) "wikilink") ([한국어](../Page/한국어.md "wikilink"): 김우탁) 에 의해서 만들어 졌다.
+최초의 한국인 PTE 시험 커뮤니티가 [제이슨](https://ko.wikipedia.org/wiki/제이슨_\(유튜버\) "wikilink") ([한국어](../Page/한국어.md "wikilink"): 김우탁) 에 의해서 만들어졌다.
 
 2016년 7월에 블로그에 [시험 후기](https://dojason.com/28)가 작성 된 이후 2017년 1월에 [PTE-A.com](http://pte-a.com/)이 생성 되었고, 현재는 2018년 1월에 생긴 네이버 카페 [제이슨의 PTE 시험](https://cafe.naver.com/jasonpte)이 있다.
 

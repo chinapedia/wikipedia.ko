@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ \(Aqua Timez \)](https://ko.wikipedia.org/wiki/_\(Aqua_Timez_\)).
+> This article is converted from Wikipedia: [책갈피 \(Aqua Timez의 노래\)](https://ko.wikipedia.org/wiki/책갈피_\(Aqua_Timez의_노래\)).
 
 
 〈**책갈피**〉()는 [Aqua Timez가](../Page/Aqua_Timez.md "wikilink") [2007년](../Page/2007년.md "wikilink") [5월 9일에](../Page/5월_9일.md "wikilink") 발매한 세 번째 싱글이다.

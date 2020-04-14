@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [NOW,](https://ko.wikipedia.org/wiki/NOW,).
+> This article is converted from Wikipedia: [NOW,바람](https://ko.wikipedia.org/wiki/NOW,바람).
 
 
 《**신중현작품집: 김정미 - NOW**》(바람 Now, KIMJUNGMI-NOW,바람)는 록 보컬리스트 김정미의 사이키델릭 록 앨범이다. 《김정미 NOW,바람》앨범은 대한민국 최초의 사이키델릭 명반이다.

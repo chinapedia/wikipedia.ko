@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TV MSL Season 4](https://ko.wikipedia.org/wiki/TV_MSL_Season_4).
+> This article is converted from Wikipedia: [곰TV MSL Season 4](https://ko.wikipedia.org/wiki/곰TV_MSL_Season_4).
 
 
 **곰TV MSL Season 4**(GOM TV MSL 2008 Season 4)는 13차 MSL이며 KPGA투어까지 포함하면 21번째 MSL이다.

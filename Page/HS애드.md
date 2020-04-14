@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [HS](https://ko.wikipedia.org/wiki/HS).
+> This article is converted from Wikipedia: [HS애드](https://ko.wikipedia.org/wiki/HS애드).
 
 
 **HS 애드**는 1962년 발족한 락희화학 선전실을 모태인 [1984년](../Page/1984년.md "wikilink") 설립된 [LG그룹](../Page/LG그룹.md "wikilink")의 계열 광고회사이며 [대한민국](../Page/대한민국.md "wikilink")의 [기업](https://ko.wikipedia.org/wiki/기업 "wikilink")이다.

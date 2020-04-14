@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TV MSL Season 2](https://ko.wikipedia.org/wiki/TV_MSL_Season_2).
+> This article is converted from Wikipedia: [곰TV MSL Season 2](https://ko.wikipedia.org/wiki/곰TV_MSL_Season_2).
 
 
 **곰TV MSL Season 2**(Gom TV MSL 2007 Season 2)는 11차 MSL이며 KPGA투어까지 포함하면 19번째 MSL이다. 32강체제로 개편한 첫 시즌이며, [일간스포츠](../Page/일간스포츠.md "wikilink")가 주최사로 참여하는 첫 MSL이다.

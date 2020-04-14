@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Vector.css](https://ko.wikipedia.org/wiki/:Vector.css).
+> This article is converted from Wikipedia: [미디어위키:Vector.css](https://ko.wikipedia.org/wiki/미디어위키:Vector.css).
 
 
 /\* 대문에서 특정 요소를 숨김 \*/ .page-위키백과_대문 \#deleteconfirm, .page-위키백과_대문 \#t-cite, .page-위키백과_대문 \#footer-info-lastmod, .action-view.page-위키백과_대문 \#siteSub, .action-view.page-위키백과_대문 \#contentSub, .action-view.page-위키백과_대문 .firstHeading {

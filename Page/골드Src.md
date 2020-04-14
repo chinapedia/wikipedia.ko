@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Src](https://ko.wikipedia.org/wiki/Src).
+> This article is converted from Wikipedia: [골드Src](https://ko.wikipedia.org/wiki/골드Src).
 
 
 **골드Src**()는 [밸브 코퍼레이션에서](../Page/밸브_코퍼레이션.md "wikilink") [퀘이크 엔진 2을](https://ko.wikipedia.org/wiki/Id_테크_2 "wikilink") 수정, 개조한 게임 엔진이다. 1998년 [공상 과학](https://ko.wikipedia.org/wiki/공상_과학 "wikilink") [1인칭 슈팅 게임인](https://ko.wikipedia.org/wiki/1인칭_슈팅_게임 "wikilink") 하프라이프에 최초 사용되었다. GoldSrc엔진은 OpenGL과 Direct3D를 렌더링 할 수 있다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [NHN](https://ko.wikipedia.org/wiki/NHN).
+> This article is converted from Wikipedia: [NHN다이퀘스트](https://ko.wikipedia.org/wiki/NHN다이퀘스트).
 
 
 **NHN다이퀘스트**는 2000년 3월 3일 서강대와 포항공대 자연어처리연구실 인원이 주축이 되어 설립된 자연어 처리(Natural Language Processing) 및 검색 솔루션 연구 기업으로 범람하는 정보들을 정교하고 강력한 검색기술을 사용하여 정제함으로써 사용자가 원하는 정보를 손쉽게 획득할 수 있는 새로운 검색환경을 제공한다.\[1\]

@@ -59,7 +59,7 @@ HARD MODE와 같이 9노트가 나오지만 HARD MODE보다 훨씬 어려운 모
 
   - [MAMBO A GO GO 공식 사이트](https://web.archive.org/web/20060109155627/http://www.konami.co.jp/am/AM/mamboagogo/)
 
-  - [비마니 포켓 시리즈 소개](http://www.asahi-net.or.jp/~ua4s-njm/bemani/bm_poke.html)
+  - [비마니 포켓 시리즈 소개](https://web.archive.org/web/20110607103759/http://www.asahi-net.or.jp/~UA4S-NJM/bemani/bm_poke.html)
 
   - [비마니 포켓 공식 사이트](https://web.archive.org/web/20071001023831/http://www.konami.jp/th/bmpocket/bmp.html)
 

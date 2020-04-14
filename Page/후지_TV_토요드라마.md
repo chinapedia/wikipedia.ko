@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ TV ](https://ko.wikipedia.org/wiki/_TV_).
+> This article is converted from Wikipedia: [후지 TV 토요드라마](https://ko.wikipedia.org/wiki/후지_TV_토요드라마).
 
 
 **후지 TV 토요드라마**()는 [2007년](../Page/2007년.md "wikilink") [4월 14일부터](../Page/4월_14일.md "wikilink") [2010년](../Page/2010년.md "wikilink") [5월 8일까지](../Page/5월_8일.md "wikilink") [일본](../Page/일본.md "wikilink")의 [후지TV](https://ko.wikipedia.org/wiki/후지TV "wikilink") 계열\[1\]로 매주 [토요일](../Page/토요일.md "wikilink")에 방송되었던 [텔레비전 드라마](https://ko.wikipedia.org/wiki/드라마 "wikilink") 시간대이다.

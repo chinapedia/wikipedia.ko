@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Adultgame-YearCat](https://ko.wikipedia.org/wiki/:Adultgame-YearCat).
+> This article is converted from Wikipedia: [틀:Adultgame-YearCat](https://ko.wikipedia.org/wiki/틀:Adultgame-YearCat).
 
 
 |                                                                                 |

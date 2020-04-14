@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:KBO  3](https://ko.wikipedia.org/wiki/:KBO__3).
+> This article is converted from Wikipedia: [틀:KBO 골든글러브 3루수](https://ko.wikipedia.org/wiki/틀:KBO_골든글러브_3루수).
 
 
 <onlyinclude></onlyinclude>

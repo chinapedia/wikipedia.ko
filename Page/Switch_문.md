@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Switch ](https://ko.wikipedia.org/wiki/Switch_).
+> This article is converted from Wikipedia: [Switch 문](https://ko.wikipedia.org/wiki/Switch_문).
 
 
 **`switch` 문**은 [C 언어에서](../Page/C_\(프로그래밍_언어\).md "wikilink") 사용하는 [제어문](https://ko.wikipedia.org/wiki/제어문 "wikilink") 중에 하나인 [분기 명령이다](https://ko.wikipedia.org/wiki/분기_명령 "wikilink"). 이와 비슷한 기능을 하는 [if문이](https://ko.wikipedia.org/wiki/if-else_구조 "wikilink") 있지만 같은 변수를 비교함에 있어서 `switch`문이 `if`보다 가독성이 더 좋다. 또, [컴파일러 최적화를](https://ko.wikipedia.org/wiki/컴파일러_최적화 "wikilink") 쉽게 할 수 있어서 속도도 더 빠른 편이다.

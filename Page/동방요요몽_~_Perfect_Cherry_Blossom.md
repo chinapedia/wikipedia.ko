@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ \~ Perfect Cherry Blossom](https://ko.wikipedia.org/wiki/_\~_Perfect_Cherry_Blossom).
+> This article is converted from Wikipedia: [동방요요몽 \~ Perfect Cherry Blossom](https://ko.wikipedia.org/wiki/동방요요몽_\~_Perfect_Cherry_Blossom).
 
 
 《**동방요요몽 \~ Perfect Cherry Blossom**》()은 [동방 프로젝트의](../Page/동방_프로젝트.md "wikilink") 일곱번째 시리즈 게임이다.

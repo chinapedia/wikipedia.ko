@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [GM ](https://ko.wikipedia.org/wiki/GM_).
+> This article is converted from Wikipedia: [GM대우 베리타스](https://ko.wikipedia.org/wiki/GM대우_베리타스).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:20110727_daewoo_veritas_1.jpg "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:20110727_daewoo_veritas_2.jpg "wikilink")

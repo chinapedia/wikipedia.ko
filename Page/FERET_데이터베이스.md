@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FERET ](https://ko.wikipedia.org/wiki/FERET_).
+> This article is converted from Wikipedia: [FERET 데이터베이스](https://ko.wikipedia.org/wiki/FERET_데이터베이스).
 
 
 **FERET 데이터베이스**는 [안면 인식 시스템](https://ko.wikipedia.org/wiki/안면_인식_시스템 "wikilink") 평가의 사실상 표준이다. 안면 인식 기술(FERET) 프로그램은 미국 [방위고등연구계획국](../Page/방위고등연구계획국.md "wikilink")(DARPA)과 [국립표준기술연구소](https://ko.wikipedia.org/wiki/국립표준기술연구소 "wikilink")(NIST)가 관리하고 있다. 안면상의 데이터베이스는 1993년 12월부터 1996년 8월 사이에 수집되었다. 2003년 DARPA에서 이들 안면상의 고해상도, 24비트 컬러 버전을 내놓았다. 시험된 데이터세트는 856명의 개인을 대표하는 2,413의 정지 안면상을 포함한다.

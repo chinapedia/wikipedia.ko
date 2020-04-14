@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:8TeamBracket-Tennis5-with third](https://ko.wikipedia.org/wiki/:8TeamBracket-Tennis5-with_third).
+> This article is converted from Wikipedia: [틀:8TeamBracket-Tennis5-with third](https://ko.wikipedia.org/wiki/틀:8TeamBracket-Tennis5-with_third).
 
 
 |  |  |         |        |        |        |

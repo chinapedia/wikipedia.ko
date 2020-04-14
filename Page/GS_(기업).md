@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [GS \(\)](https://ko.wikipedia.org/wiki/GS_\(\)).
+> This article is converted from Wikipedia: [GS \(기업\)](https://ko.wikipedia.org/wiki/GS_\(기업\)).
 
 
-**주식회사 GS**(GS Corp.)는 [대한민국](../Page/대한민국.md "wikilink")의 에너지·유통 중심의 서비스 부문 지주회사이다. [2004년](../Page/2004년.md "wikilink") [7월 1일](../Page/7월_1일.md "wikilink") (주)LG에서 분할·독립하였다. 본사는 [서울특별시](../Page/서울특별시.md "wikilink") [강남구](https://ko.wikipedia.org/wiki/강남구 "wikilink") [논현로](https://ko.wikipedia.org/wiki/논현로 "wikilink") 508 ([역삼동](../Page/역삼동_\(서울\).md "wikilink"))에 위치에 있다.
+**주식회사 GS**(GS Corp.)는 [대한민국](../Page/대한민국.md "wikilink")의 에너지·유통 중심의 서비스 부문 지주회사이다. [2004년](../Page/2004년.md "wikilink") [7월 1일](../Page/7월_1일.md "wikilink") (주)LG에서 분리 독립하였다. 본사는 [서울특별시](../Page/서울특별시.md "wikilink") [강남구](https://ko.wikipedia.org/wiki/강남구 "wikilink") [논현로](https://ko.wikipedia.org/wiki/논현로 "wikilink") 508 ([역삼동](../Page/역삼동_\(서울\).md "wikilink"))에 위치에 있다.
 
 ## 역사
 

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [AT](https://ko.wikipedia.org/wiki/AT).
+> This article is converted from Wikipedia: [AT센터](https://ko.wikipedia.org/wiki/AT센터).
 
 
 **aT센터**는 [서울](https://ko.wikipedia.org/wiki/서울 "wikilink") [서초구](../Page/서초구.md "wikilink") [양재동](../Page/양재동.md "wikilink")에 위치한 준정부기관 [한국농수산식품유통공사](../Page/한국농수산식품유통공사.md "wikilink") 부속의 종합 전시 컨벤션센터이다. 'aT' 는 '농업(agro)'과 '무역(trade)' 의 머릿글자를 본땄으며 [한국농수산식품유통공사](../Page/한국농수산식품유통공사.md "wikilink")에서도 같은 로고를 사용하고 있다.

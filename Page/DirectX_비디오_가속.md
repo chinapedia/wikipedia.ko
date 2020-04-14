@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [DirectX  ](https://ko.wikipedia.org/wiki/DirectX__).
+> This article is converted from Wikipedia: [DirectX 비디오 가속](https://ko.wikipedia.org/wiki/DirectX_비디오_가속).
 
 
 **DirectX 비디오 가속**(DirectX Video Acceleration, 줄여서 DXVA)는 [비디오](https://ko.wikipedia.org/wiki/디지털_비디오 "wikilink") [디코딩의](../Page/코덱.md "wikilink") 하드웨어 가속을 지원하는 [마이크로소프트 윈도우](../Page/마이크로소프트_윈도우.md "wikilink"), [엑스박스 360](../Page/엑스박스_360.md "wikilink") 플랫폼용 [마이크로소프트](../Page/마이크로소프트.md "wikilink")사의 [API](https://ko.wikipedia.org/wiki/응용_프로그램_프로그래밍_인터페이스 "wikilink") 규격이다. [파이프라인은](https://ko.wikipedia.org/wiki/파이프라인_\(소프트웨어\) "wikilink") 특정 [CPU](../Page/중앙_처리_장치.md "wikilink") 집중 명령, 이를테면 [iDCT](../Page/이산_코사인_변환.md "wikilink"), [모션 보상](https://ko.wikipedia.org/wiki/모션_보상 "wikilink")(motion compensation), [디인터레이스](https://ko.wikipedia.org/wiki/디인터레이스 "wikilink"), [색 보정과](https://ko.wikipedia.org/wiki/색_보정 "wikilink") 같은 명령들을 [GPU로](../Page/그래픽_처리_장치.md "wikilink") 옮겨 준다. DXVA 2.0은 비디오 캡처 및 처리 기능을 비롯하여 더 많은 기능이 하드웨어 가속을 지원할 수 있게 도와준다.

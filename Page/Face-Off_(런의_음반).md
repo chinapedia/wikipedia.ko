@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Face-Off \( \)](https://ko.wikipedia.org/wiki/Face-Off_\(_\)).
+> This article is converted from Wikipedia: [Face-Off \(런의 음반\)](https://ko.wikipedia.org/wiki/Face-Off_\(런의_음반\)).
 
 
 《**Face-Off**》는 대한민국의 가수 [런의](https://ko.wikipedia.org/wiki/런_\(가수\) "wikilink") 두 번째 [EP이다](../Page/익스텐디드_플레이.md "wikilink"). [2009년](../Page/2009년.md "wikilink") [10월 12일](../Page/10월_12일.md "wikilink") 티저 영상을 공개하였으며,\[1\] 음반은 같은 해 [10월 16일에](../Page/10월_16일.md "wikilink") 발매되었다.

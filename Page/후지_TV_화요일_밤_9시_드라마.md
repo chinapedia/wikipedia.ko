@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [ TV   9 ](https://ko.wikipedia.org/wiki/_TV___9_).
+> This article is converted from Wikipedia: [후지 TV 화요일 밤 9시 드라마](https://ko.wikipedia.org/wiki/후지_TV_화요일_밤_9시_드라마).
 
 
-《**후지 TV 화요일 밤 9시 드라마**》()는, [1996년](../Page/1996년.md "wikilink")부터 [일본](../Page/일본.md "wikilink")의 [후지 TV에서](../Page/후지_TV.md "wikilink") [매주 화요일 (21:00 - 21:54)에](../Page/후지_TV_화요일_밤_9시_드라마.md "wikilink") 방송되었던 [텔레비전 드라마이다](../Page/텔레비전_드라마.md "wikilink"). 통칭 **캇쿠** ().
+《**후지 TV 화요일 밤 9시 드라마**》()는, [1996년](../Page/1996년.md "wikilink")부터 [일본](../Page/일본.md "wikilink")의 [후지 TV에서](../Page/후지_TV.md "wikilink") [매주 화요일 (21:00 - 21:54)에](../Page/후지_TV_화요일_밤_9시_드라마.md "wikilink") 방송되었던 [텔레비전 드라마이다](../Page/텔레비전_드라마.md "wikilink"). 통칭 **캇쿠**().
 
 ## 개요
 

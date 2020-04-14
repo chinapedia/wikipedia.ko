@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  \&   \(-ute\)](https://ko.wikipedia.org/wiki/__\&___\(-ute\)).
+> This article is converted from Wikipedia: [아베 나쓰미 \& 야지마 마이미 \(℃-ute\)](https://ko.wikipedia.org/wiki/아베_나쓰미_\&_야지마_마이미_\(℃-ute\)).
 
 
 **아베 나츠미 & 야지마 마이미 (℃-ute)**()는 [헬로\! 프로젝트의](../Page/헬로!_프로젝트.md "wikilink") [아베 나츠미와](../Page/아베_나츠미.md "wikilink") [야지마 마이미로](../Page/야지마_마이미.md "wikilink") 구성된 [여성](../Page/여성.md "wikilink") [듀엣](https://ko.wikipedia.org/wiki/듀엣 "wikilink") 유닛이다.

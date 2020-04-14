@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:8TeamBracket-Tennis3](https://ko.wikipedia.org/wiki/:8TeamBracket-Tennis3).
+> This article is converted from Wikipedia: [틀:8TeamBracket-Tennis3](https://ko.wikipedia.org/wiki/틀:8TeamBracket-Tennis3).
 
 
 <table>

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ OS](https://ko.wikipedia.org/wiki/_OS).
+> This article is converted from Wikipedia: [심비안 OS](https://ko.wikipedia.org/wiki/심비안_OS).
 
 
 **심비안 OS**(Symbian OS)는 [심비안](https://ko.wikipedia.org/wiki/심비안 "wikilink")에서 개발한 [모바일 기기용](https://ko.wikipedia.org/wiki/모바일_기기 "wikilink") [운영 체제로](../Page/운영_체제.md "wikilink"), [라이브러리](https://ko.wikipedia.org/wiki/라이브러리 "wikilink"), [사용자 인터페이스](../Page/사용자_인터페이스.md "wikilink"), [프레임워크](https://ko.wikipedia.org/wiki/프레임워크 "wikilink"), 다양한 도구를 포함한다. [2009년](../Page/2009년.md "wikilink") 2월 [노키아](../Page/노키아.md "wikilink")에 인수되었다.

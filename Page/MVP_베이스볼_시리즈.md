@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [MVP  ](https://ko.wikipedia.org/wiki/MVP__).
+> This article is converted from Wikipedia: [MVP 베이스볼 시리즈](https://ko.wikipedia.org/wiki/MVP_베이스볼_시리즈).
 
 
-**MVP 베이스볼 시리즈**(MVP Baseball series)는 [EA 스포츠에서](https://ko.wikipedia.org/wiki/EA_스포츠 "wikilink") 출시한 야구 게임 시리즈이다. 2003년, EA에서 출시했던 [트리플 플레이 베이스볼의](https://ko.wikipedia.org/wiki/트리플_플레이_베이스볼 "wikilink") 후속작으로 출시되었다. 그러나 2005년에 MVP 2005를 출시한 뒤에는 MLB 라이센스를 획득하지 못하면서 2006년부터는 [NCAA 베이스볼이](https://ko.wikipedia.org/wiki/NCAA_베이스볼 "wikilink") 출시되었다.
+《**MVP 베이스볼 시리즈**》(MVP Baseball series)는 [EA 스포츠에서](https://ko.wikipedia.org/wiki/EA_스포츠 "wikilink") 출시한 야구 게임 시리즈이다. 2003년, EA에서 출시했던 [트리플 플레이 베이스볼의](https://ko.wikipedia.org/wiki/트리플_플레이_베이스볼 "wikilink") 후속작으로 출시되었다. 그러나 2005년에 MVP 2005를 출시한 뒤에는 MLB 라이센스를 획득하지 못하면서 2006년부터는 [NCAA 베이스볼이](https://ko.wikipedia.org/wiki/NCAA_베이스볼 "wikilink") 출시되었다.
 
 ## 게임 특징
 

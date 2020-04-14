@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [LATAM ](https://ko.wikipedia.org/wiki/LATAM_).
+> This article is converted from Wikipedia: [LATAM 칠레](https://ko.wikipedia.org/wiki/LATAM_칠레).
 
 
 **LATAM 칠레**(, 과거 명칭: LAN Airlines S.A. 및 Lan Chile)는 [칠레](../Page/칠레.md "wikilink")의 [산티아고](../Page/산티아고.md "wikilink")에 거점을 둔, [칠레](../Page/칠레.md "wikilink")의 [국책항공사](https://ko.wikipedia.org/wiki/국책항공사 "wikilink")다. [칠레](../Page/칠레.md "wikilink")의 대표적인 항공사로 [라틴 아메리카의](../Page/라틴_아메리카.md "wikilink") 대형 항공사들 중 하나이며, [남아메리카](../Page/남아메리카.md "wikilink"), [북아메리카](../Page/북아메리카.md "wikilink"), [서인도 제도](../Page/서인도_제도.md "wikilink"), [오세아니아](../Page/오세아니아.md "wikilink"), [유럽](../Page/유럽.md "wikilink")을 오가는 항공편을 운영하고 있다. [원월드](../Page/원월드.md "wikilink") [항공 동맹의](https://ko.wikipedia.org/wiki/항공_동맹 "wikilink") 일원에 속하기도 한다.

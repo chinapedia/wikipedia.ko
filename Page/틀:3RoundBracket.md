@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:3RoundBracket](https://ko.wikipedia.org/wiki/:3RoundBracket).
+> This article is converted from Wikipedia: [틀:3RoundBracket](https://ko.wikipedia.org/wiki/틀:3RoundBracket).
 
 
 |  |  |  |  |  |

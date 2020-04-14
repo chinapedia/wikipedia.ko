@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [F](https://ko.wikipedia.org/wiki/F).
+> This article is converted from Wikipedia: [F이론](https://ko.wikipedia.org/wiki/F이론).
 
 
 [끈 이론에서](../Page/끈_이론.md "wikilink"), **F이론**(F理論, )은 ⅡB종 [초끈 이론의](../Page/초끈_이론.md "wikilink") [축소화](../Page/축소화.md "wikilink")를 나타내는 이론이다.\[1\] 형식적으로는 12차원 이론이나, 이는 [축소화](../Page/축소화.md "wikilink")를 하지 않고는 일관적이지 않다. F이론을 사용하여 ⅡB종 초끈 이론의 수많은 [축소화](../Page/축소화.md "wikilink")를 계산할 수 있고, 이들 가운데 상당수는 현상론적으로 중요하다.\[2\]\[3\]\[4\]\[5\]\[6\]\[7\]\[8\]\[9\]

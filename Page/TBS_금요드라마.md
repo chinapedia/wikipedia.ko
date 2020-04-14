@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TBS ](https://ko.wikipedia.org/wiki/TBS_).
+> This article is converted from Wikipedia: [TBS 금요드라마](https://ko.wikipedia.org/wiki/TBS_금요드라마).
 
 
 《**TBS 금요드라마**》 ()는 [1972년](../Page/1972년.md "wikilink")부터 [일본](../Page/일본.md "wikilink") [TBS에서](https://ko.wikipedia.org/wiki/도쿄_방송 "wikilink") 매주 금요일에 방송하고 있는 [텔레비전 드라마](../Page/텔레비전_드라마.md "wikilink") 범위이다. 통칭 **금요드라마 ()** 라고도 한다. 방송 시간은 매주 금요일 밤 10시 부터 10시 54분까지이다. 스테레오 방송, 자막 방송, HD 제작, 연동 데이터 방송을 실시하고 있다.
@@ -9,7 +9,7 @@
 
 현재 존재하고 있는 [TBS의](https://ko.wikipedia.org/wiki/도쿄_방송 "wikilink") 드라마 시간대에서는 《[일요극장](../Page/일요극장.md "wikilink")》에 이어 방송 기간이 길다.
 
-개시 초기 - [1987년](../Page/1987년.md "wikilink"), [1989년](../Page/1989년.md "wikilink") - [2000년](../Page/2000년.md "wikilink") 초반까지는 성인층을 타겟으로 한 작품을 중심이였지만, [2001년](../Page/2001년.md "wikilink")에 "금요일 9시 드라마" 범위의 폐지 이후로는 연령층이 낮춰져 청소년을 겨냥하는 작품이 많아졌다. [2011년](../Page/2011년.md "wikilink") 10월기 이후 청소년 작품은 "목요일 9시 드라마"로 이동하게 되어, 드라마 범위는 이전의 성인층 작품으로 돌아왔다.
+개시 초기 - [1987년](../Page/1987년.md "wikilink"), [1989년](../Page/1989년.md "wikilink") - [2000년](../Page/2000년.md "wikilink") 초반까지는 성인층을 타겟으로 한 작품을 중심이였지만, [2001년](../Page/2001년.md "wikilink")에 "금요일 9시 드라마" 범위의 폐지 이후로는 연령층이 낮춰져 청소년을 겨냥하는 작품이 많아졌다. [2011년](../Page/2011년.md "wikilink") 10월기 이후 청소년 작품은 "목요일 9시 드라마"로 이동하게 되어, 드라마 범위는 이전의 성인층 작품으로 돌아왔다. 이후 [TBS 목요일 밤 9시 드라마가](../Page/TBS_목요일_밤_9시_드라마.md "wikilink") 종영되면서 청소년 겨냥 작품은 후에 [TBS 화요드라마](../Page/TBS_화요드라마.md "wikilink") 시간대에서 방영되는 편이다.
 
 ## 1989년부터 현재까지 평균 시청률 TOP 10
 
@@ -275,6 +275,40 @@
   - 《[병실에서 염불을 외지 마세요](https://ko.wikipedia.org/wiki/병실에서_염불을_외지_마세요 "wikilink")》 (주연: [이토 히데아키](../Page/이토_히데아키.md "wikilink"))
   - 《[MIU404](https://ko.wikipedia.org/wiki/MIU404 "wikilink")》 (주연: [아야노 고](../Page/아야노_고.md "wikilink"), [호시노 겐](../Page/호시노_겐.md "wikilink"))
 
+## 편성국 정보
+
+| 방송 대상 지방                                                                                   | 방송국                                                          | 계열국                                       | 방송 시간             | 비고      |
+| ------------------------------------------------------------------------------------------ | ------------------------------------------------------------ | ----------------------------------------- | ----------------- | ------- |
+| [간토 광역권](https://ko.wikipedia.org/wiki/간토_광역권 "wikilink")                                  | [TBS 텔레비전](../Page/TBS_텔레비전.md "wikilink")（TBS）\[1\]         | [TBS계열](../Page/재팬_뉴스_네트워크.md "wikilink") | 금요일 22:00 - 22:54 | **제작국** |
+| [홋카이도](../Page/홋카이도.md "wikilink")                                                         | [홋카이도 방송](../Page/홋카이도_방송.md "wikilink")（HBC）                | 동시 편성                                     |                   |         |
+| [아오모리현](../Page/아오모리현.md "wikilink")                                                       | [아오모리 TV](../Page/아오모리_TV.md "wikilink")（ATV）                |                                           |                   |         |
+| [이와테현](../Page/이와테현.md "wikilink")                                                         | [IBC 이와테 방송](../Page/IBC_이와테_방송.md "wikilink")（IBC）          |                                           |                   |         |
+| [미야기현](../Page/미야기현.md "wikilink")                                                         | [도호쿠 방송](../Page/도호쿠_방송.md "wikilink")（TBC）                  |                                           |                   |         |
+| [야마가타현](../Page/야마가타현.md "wikilink")                                                       | [TV-U 야마가타](../Page/TV-U_야마가타.md "wikilink")（TUY）            |                                           |                   |         |
+| [후쿠시마현](../Page/후쿠시마현.md "wikilink")                                                       | [TV-U 후쿠시마](../Page/TV-U_후쿠시마.md "wikilink")（TUF）            |                                           |                   |         |
+| [야마나시현](../Page/야마나시현.md "wikilink")                                                       | [TV 야마나시](../Page/TV_야마나시.md "wikilink")（UTY）                |                                           |                   |         |
+| [나가노현](../Page/나가노현.md "wikilink")                                                         | [신에쓰 방송](../Page/신에쓰_방송.md "wikilink")（SBC）                  |                                           |                   |         |
+| [니가타현](../Page/니가타현.md "wikilink")                                                         | [니가타 방송](../Page/니가타_방송.md "wikilink")（BSN）                  |                                           |                   |         |
+| [시즈오카현](../Page/시즈오카현.md "wikilink")                                                       | [시즈오카 방송](../Page/시즈오카_방송.md "wikilink")（SBS）                |                                           |                   |         |
+| [도야마현](../Page/도야마현.md "wikilink")                                                         | [튤립 TV](https://ko.wikipedia.org/wiki/튤립_TV "wikilink")（TUT） |                                           |                   |         |
+| [이시카와현](../Page/이시카와현.md "wikilink")                                                       | [호쿠리쿠 방송](../Page/호쿠리쿠_방송.md "wikilink")（MRO）                |                                           |                   |         |
+| [주쿄 광역권](../Page/주쿄권.md "wikilink")                                                        | [주부닛폰 방송](../Page/주부닛폰_방송.md "wikilink")（CBC）\[2\]           |                                           |                   |         |
+| [긴키 광역권](../Page/긴키_지방.md "wikilink")                                                      | [마이니치 방송](../Page/마이니치_방송.md "wikilink")（MBS）\[3\]           |                                           |                   |         |
+| [돗토리현](../Page/돗토리현.md "wikilink")・[시마네현](../Page/시마네현.md "wikilink")                      | [산인 방송](../Page/산인_방송.md "wikilink")（BSS）                    |                                           |                   |         |
+| [오카야마현](../Page/오카야마현.md "wikilink")・[카가와현](https://ko.wikipedia.org/wiki/카가와현 "wikilink") | [RSK산요방송](../Page/산요_방송.md "wikilink")（RSK）\[4\]             |                                           |                   |         |
+| [히로시마현](../Page/히로시마현.md "wikilink")                                                       | [주고쿠 방송](../Page/주고쿠_방송.md "wikilink")（RCC）                  |                                           |                   |         |
+| [야마구치현](../Page/야마구치현.md "wikilink")                                                       | [TV 야마구치](../Page/TV_야마구치.md "wikilink")（tys）                |                                           |                   |         |
+| [에히메현](../Page/에히메현.md "wikilink")                                                         | [아이 TV](../Page/아이_TV.md "wikilink")（itv）                    |                                           |                   |         |
+| [고치현](../Page/고치현.md "wikilink")                                                           | [TV 고치](../Page/TV_고치.md "wikilink")（KUTV）                   |                                           |                   |         |
+| [후쿠오카현](../Page/후쿠오카현.md "wikilink")                                                       | [RKB 마이니치 방송](../Page/RKB_마이니치_방송.md "wikilink")（RKB）        |                                           |                   |         |
+| [나가사키현](../Page/나가사키현.md "wikilink")                                                       | [나가사키 방송](../Page/나가사키_방송.md "wikilink")（NBC）                |                                           |                   |         |
+| [구마모토현](../Page/구마모토현.md "wikilink")                                                       | [구마모토 방송](../Page/구마모토_방송.md "wikilink")（RKK）                |                                           |                   |         |
+| [오이타현](../Page/오이타현.md "wikilink")                                                         | [오이타 방송](../Page/오이타_방송.md "wikilink")（OBS）                  |                                           |                   |         |
+| [미야자키현](../Page/미야자키현.md "wikilink")                                                       | [미야자키 방송](../Page/미야자키_방송.md "wikilink")（mrt）                |                                           |                   |         |
+| [가고시마현](../Page/가고시마현.md "wikilink")                                                       | [미나미니혼 방송](../Page/미나미니혼_방송.md "wikilink")（MBC）              |                                           |                   |         |
+| [오키나와현](../Page/오키나와현.md "wikilink")                                                       | [류큐 방송](../Page/류큐_방송.md "wikilink")（RBC）                    |                                           |                   |         |
+|                                                                                            |                                                              |                                           |                   |         |
+
 ## 함께 보기
 
   - [TBS 파나소닉 드라마 시어터](https://ko.wikipedia.org/wiki/TBS_파나소닉_드라마_시어터 "wikilink")
@@ -285,4 +319,15 @@
   - [TBS 토요일 밤 8시 드라마](../Page/TBS_토요일_밤_8시_드라마.md "wikilink")
   - [TBS 일요극장](../Page/일요극장.md "wikilink")
 
+## 참고 사항
+
+### 주해
+
+### 출전
+
 [\*](https://ko.wikipedia.org/wiki/분류:TBS_금요일_10시_드라마 "wikilink") [\*](https://ko.wikipedia.org/wiki/분류:TBS의_텔레비전_드라마 "wikilink")
+
+1.  [2009년](../Page/2009년.md "wikilink") [4월 1일](../Page/4월_1일.md "wikilink"), [도쿄 방송 홀딩스에서](../Page/도쿄_방송_홀딩스.md "wikilink") 분사.
+2.  [2014년](../Page/2014년.md "wikilink") [4월 1일](../Page/4월_1일.md "wikilink"), 영상 부문을 CBC 텔레비전으로 분사.
+3.  [2011년](../Page/2011년.md "wikilink") [7월 24일](../Page/7월_24일.md "wikilink"), 영상 부문을 MBS 텔레비전으로 완전 이관.
+4.  [2019년](../Page/2019년.md "wikilink") [4월 1일](../Page/4월_1일.md "wikilink"), RSK Holdings와 영상 부문인 RSK 텔레비전으로 분할.

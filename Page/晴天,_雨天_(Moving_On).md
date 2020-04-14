@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [,  \(Moving On\)](https://ko.wikipedia.org/wiki/,__\(Moving_On\)).
+> This article is converted from Wikipedia: [晴天, 雨天 \(Moving On\)](https://ko.wikipedia.org/wiki/晴天,_雨天_\(Moving_On\)).
 
 
 "**晴天, 雨天 (Moving On)**"(<small>[한국어](../Page/한국어.md "wikilink") 번역:</small> 맑은 날, 흐린 날)은 [중국](../Page/중국.md "wikilink")의 여가수 [장리인](../Page/장리인.md "wikilink")의 [팝](../Page/팝_음악.md "wikilink") [발라드이자](https://ko.wikipedia.org/wiki/발라드_\(대중_음악\) "wikilink") [중화인민공화국](../Page/중화인민공화국.md "wikilink")에서 발매한 그녀의 두 번째 [싱글이다](../Page/싱글_\(음악\).md "wikilink"). 이 노래는 사랑하는 사람과의 이별을 "맑은 날, 비 오는 날의 경계에 서 있다"라고 비유하였으며, [SM 엔터테인먼트의](../Page/SM_엔터테인먼트.md "wikilink") 작곡가 [켄지](../Page/켄지.md "wikilink")가 프로듀싱을 맡았다. [뮤직 비디오에서](../Page/뮤직_비디오.md "wikilink") [슈퍼주니어](../Page/슈퍼주니어.md "wikilink")의 멤버 [동해가](../Page/동해_\(가수\).md "wikilink") 출연하였다.

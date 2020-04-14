@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [APG III  ](https://ko.wikipedia.org/wiki/APG_III__).
+> This article is converted from Wikipedia: [APG III 분류 체계](https://ko.wikipedia.org/wiki/APG_III_분류_체계).
 
 
 **APG III 분류 체계**는 [속씨식물](../Page/속씨식물.md "wikilink")을 분류하는 현대 [식물 분류 체계이다](https://ko.wikipedia.org/wiki/식물_분류_체계_목록 "wikilink"). 2009년에 [속씨식물 계통연구 그룹](https://ko.wikipedia.org/wiki/속씨식물_계통연구_그룹 "wikilink")(APG, Angiosperm Phylogeny Group)이 출판했다.\[1\]\[2\]\[3\] 2009년 10월, 린네 학회의 회원들이 APG III 분류 체계와 호환되고 부합하는, 모든 육상식물들의 공식적인 계통학적 분류를 제안했다.\[4\] 2016년 발표된 [APG IV 분류 체계로](https://ko.wikipedia.org/wiki/APG_IV_분류_체계 "wikilink") 대체하였다.

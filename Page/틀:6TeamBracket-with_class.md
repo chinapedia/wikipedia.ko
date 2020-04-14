@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:6TeamBracket-with class](https://ko.wikipedia.org/wiki/:6TeamBracket-with_class).
+> This article is converted from Wikipedia: [틀:6TeamBracket-with class](https://ko.wikipedia.org/wiki/틀:6TeamBracket-with_class).
 
 
 |  |  |  |              |              |  |

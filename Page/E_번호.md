@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [E ](https://ko.wikipedia.org/wiki/E_).
+> This article is converted from Wikipedia: [E 번호](https://ko.wikipedia.org/wiki/E_번호).
 
 
 **E 번호**()는 [식품 첨가제에](https://ko.wikipedia.org/wiki/식품_첨가제 "wikilink") 쓰이는 번호이며, 원래는 [유럽 연합에서](../Page/유럽_연합.md "wikilink") 쓰였기 때문에 E라는 기호를 쓴다.\[1\] 이는 유럽 연합의 식품 라벨에서 쉽게 찾아볼 수 있다.\[2\] Safety assessment and approval are the responsibility of the [European Food Safety Authority](https://ko.wikipedia.org/wiki/European_Food_Safety_Authority "wikilink").\[3\] 번호를 붙이는 방법은 국제 번호 시스템(International Numbering System, INS)를 사용하며 이는 [Codex Alimentarius](https://ko.wikipedia.org/wiki/Codex_Alimentarius "wikilink") 위원회에서\[4\] 결정하나, 이들 일부만 유럽 연합에서 사용이 허용되었다. E 번호는 다른 나라의 규정에도 등장하는데, [GCC](https://ko.wikipedia.org/wiki/Cooperation_Council_for_the_Arab_States_of_the_Gulf "wikilink"), [오스트레일리아](../Page/오스트레일리아.md "wikilink"), [뉴질랜드](../Page/뉴질랜드.md "wikilink"), [이스라엘](../Page/이스라엘.md "wikilink")등이다. 오스트레일리아와 뉴질랜드에서는 "E"를 생략하여 쓴다. 북아메리카의 나라들 특히 [캐나다](../Page/캐나다.md "wikilink")에서도 이 체계를 점점 더 사용하고 있다.

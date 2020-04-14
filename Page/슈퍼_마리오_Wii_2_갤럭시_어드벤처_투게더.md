@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  Wii 2   ](https://ko.wikipedia.org/wiki/__Wii_2___).
+> This article is converted from Wikipedia: [슈퍼 마리오 Wii 2 갤럭시 어드벤처 투게더](https://ko.wikipedia.org/wiki/슈퍼_마리오_Wii_2_갤럭시_어드벤처_투게더).
 
 
 《**슈퍼 마리오 Wii 2 갤럭시 어드벤처 투게더**》(, )는 [닌텐도](../Page/닌텐도.md "wikilink")가 발매한 [마리오](../Page/마리오.md "wikilink") 액션 어드벤처 게임 소프트웨어이다. 대한민국에서는 [2011년](../Page/2011년.md "wikilink") [1월 20일](../Page/1월_20일.md "wikilink") 발매되었다.

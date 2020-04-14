@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ \~ Imperishable Night](https://ko.wikipedia.org/wiki/_\~_Imperishable_Night).
+> This article is converted from Wikipedia: [동방영야초 \~ Imperishable Night](https://ko.wikipedia.org/wiki/동방영야초_\~_Imperishable_Night).
 
 
 《**동방영야초 \~ Imperishable Night**》()은 [동방 프로젝트의](../Page/동방_프로젝트.md "wikilink") 여덟번째 시리즈 게임이다.

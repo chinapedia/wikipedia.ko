@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TAK](https://ko.wikipedia.org/wiki/TAK).
+> This article is converted from Wikipedia: [TAK정보시스템](https://ko.wikipedia.org/wiki/TAK정보시스템).
 
 
 티에이케이정보시스템 주식회사(TAK INFORMATION SYSTEMS INC., 구)새한정보시스템 주식회사)는 옛 [새한](https://ko.wikipedia.org/wiki/새한 "wikilink")그룹 계열의 컴퓨터시스템통합업체로 [새한그룹](../Page/새한그룹.md "wikilink")이 [삼성그룹](../Page/삼성그룹.md "wikilink")에서 분리될 때 [삼성SDS](../Page/삼성SDS.md "wikilink")로부터 분사한 회사이다. 한때 세계최초로 MP3P를 개발하기도 하였다. [웅진그룹](../Page/웅진그룹.md "wikilink") 계열, [GS그룹](../Page/GS그룹.md "wikilink") 계열회사로 편입되기도 하였으나 지금은 [도레이첨단소재](https://ko.wikipedia.org/wiki/도레이첨단소재 "wikilink")에 인수되었다. [도레이첨단소재](https://ko.wikipedia.org/wiki/도레이첨단소재 "wikilink"), [도레이케미칼](../Page/도레이케미칼.md "wikilink"), [코스모신소재](../Page/코스모신소재.md "wikilink"), [에리트베이직](https://ko.wikipedia.org/wiki/에리트베이직 "wikilink"), [윤선생새한음반](https://ko.wikipedia.org/wiki/윤선생새한음반 "wikilink"), [이녹스](https://ko.wikipedia.org/wiki/이녹스 "wikilink") 등에 IT서비스를 제공하며 도레이첨단소재 IT계열사로써 SM, SI, ERP, IPT/IPCC, NI, 인프라, 그룹웨어, UC사업 등을 추진하고 있다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KeSPA ](https://ko.wikipedia.org/wiki/KeSPA_).
+> This article is converted from Wikipedia: [KeSPA 드림리그](https://ko.wikipedia.org/wiki/KeSPA_드림리그).
 
 
 **KeSPA 드림리그**(KeSPA DreamLeague)는 공군 ACE를 제외한 11팀의 프로게임단이 참가해 팀간 대결하는 [KeSPA](https://ko.wikipedia.org/wiki/KeSPA "wikilink")주관의 스타크래프트 프로리그 2군 리그이다.

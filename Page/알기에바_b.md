@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ b](https://ko.wikipedia.org/wiki/_b).
+> This article is converted from Wikipedia: [알기에바 b](https://ko.wikipedia.org/wiki/알기에바_b).
 
 
 **알기에바 b** 또는 **사자자리 감마 b**는 [사자자리](../Page/사자자리.md "wikilink") 방향으로 지구로부터 약 125.5 광년 떨어진 곳에 있는 [쌍성](../Page/쌍성.md "wikilink") [알기에바](../Page/알기에바.md "wikilink") A 주위를 돌고 있는 [외계 행성이다](../Page/외계_행성.md "wikilink").\[1\]

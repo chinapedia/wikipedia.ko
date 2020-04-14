@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ \(I Will\)](https://ko.wikipedia.org/wiki/_\(I_Will\)).
+> This article is converted from Wikipedia: [星愿 \(I Will\)](https://ko.wikipedia.org/wiki/星愿_\(I_Will\)).
 
 
 《**星愿 (I Will)**》은 중국의 여가수 [장리인](../Page/장리인.md "wikilink")이 중국에서 발매한 정규 1집이다. 한국에서 발표했던 "Timeless (Duet. [동방신기](../Page/동방신기.md "wikilink") [시아준수](https://ko.wikipedia.org/wiki/시아준수 "wikilink"))"와 "Y(Why)...", 드라마 연인이여 OST "연인이여"가 중국어 버전으로 실려있다. 타이틀곡 "I Will"은 [S.E.S](https://ko.wikipedia.org/wiki/S.E.S "wikilink")의 노래를 리메이크했으며 [유영진](https://ko.wikipedia.org/wiki/유영진 "wikilink")의 곡이다. 한국 발매반에는 Bonus Track인 "연인이여"와 "I Will"이 한국어 버전으로 수록되었다.

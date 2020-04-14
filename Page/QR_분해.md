@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [QR ](https://ko.wikipedia.org/wiki/QR_).
+> This article is converted from Wikipedia: [QR 분해](https://ko.wikipedia.org/wiki/QR_분해).
 
 
 [선형대수학](../Page/선형대수학.md "wikilink")에서, **QR 분해**()는 [실수](https://ko.wikipedia.org/wiki/실수 "wikilink") [행렬](../Page/행렬.md "wikilink")을 [직교 행렬과](https://ko.wikipedia.org/wiki/직교_행렬 "wikilink") [상삼각 행렬의](https://ko.wikipedia.org/wiki/상삼각_행렬 "wikilink") 곱으로 나타내는 [행렬 분해이다](../Page/행렬_분해.md "wikilink").\[1\] [그람-슈미트 과정이나](../Page/그람-슈미트_과정.md "wikilink") [하우스홀더 행렬이나](https://ko.wikipedia.org/wiki/하우스홀더_행렬 "wikilink") [기븐스 회전을](../Page/기븐스_회전.md "wikilink") 통해 얻을 수 있으며, [선형 최소 제곱법이나](https://ko.wikipedia.org/wiki/선형_최소_제곱법 "wikilink") [QR 알고리즘에서](https://ko.wikipedia.org/wiki/QR_알고리즘 "wikilink") 쓰인다.

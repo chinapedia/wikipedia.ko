@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [GWAVE SuperFeature\'s ](https://ko.wikipedia.org/wiki/GWAVE_SuperFeature\'s_).
+> This article is converted from Wikipedia: [GWAVE SuperFeature\'s 시리즈](https://ko.wikipedia.org/wiki/GWAVE_SuperFeature\'s_시리즈).
 
 
 **GWAVE SuperFeature's 시리즈**는 [GWAVE](../Page/GWAVE.md "wikilink")란 브랜드로 발매되는 [게임 음악](https://ko.wikipedia.org/wiki/게임_음악 "wikilink") [컴필레이션 앨범의](https://ko.wikipedia.org/wiki/컴필레이션_앨범 "wikilink") 시리즈를 말한다. 게임 음악의 주제가를 선별해 베스트 앨범 형식으로 상반기, 하반기로 나누어 발매하는 [GWAVE 시리즈와](https://ko.wikipedia.org/wiki/GWAVE_시리즈 "wikilink") 달리, GWAVE SuperFeature's 시리즈는 게임의 주제가를 부른 가수의 앨범적 성격이 짙기 때문에 게임 주제가 이외의 곡도 수록돼 있는 것이 특징이다.

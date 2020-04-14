@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ \(Aqua Timez \)](https://ko.wikipedia.org/wiki/_\(Aqua_Timez_\)).
+> This article is converted from Wikipedia: [무지개 \(Aqua Timez의 노래\)](https://ko.wikipedia.org/wiki/무지개_\(Aqua_Timez의_노래\)).
 
 
 〈**무지개**〉()는 [Aqua Timez가](../Page/Aqua_Timez.md "wikilink") [2008년](../Page/2008년.md "wikilink") [5월 8일에](../Page/5월_8일.md "wikilink") 발매한 여섯 번째 싱글이다.

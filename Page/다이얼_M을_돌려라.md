@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ M ](https://ko.wikipedia.org/wiki/_M_).
+> This article is converted from Wikipedia: [다이얼 M을 돌려라](https://ko.wikipedia.org/wiki/다이얼_M을_돌려라).
 
 
 《**다이얼 M을 돌려라**》(Dial M for Murder)은 [1954년](../Page/1954년.md "wikilink") 미국에서 만들어진 [앨프리드 히치콕](https://ko.wikipedia.org/wiki/앨프리드_히치콕 "wikilink") 감독의 범죄 스릴러 영화이다.\[1\] [뉴욕영화비평가상](https://ko.wikipedia.org/wiki/뉴욕영화비평가상 "wikilink") 여우주연상을 수상하였다. [1998년](../Page/1998년.md "wikilink")에는 [마이클 더글러스](../Page/마이클_더글러스.md "wikilink"), [귀네스 팰트로](../Page/귀네스_팰트로.md "wikilink") 주연의 리메이크 작품 《퍼펙트 머더》(감독: [앤드루 데이비스](https://ko.wikipedia.org/wiki/앤드루_데이비스 "wikilink"))가 발표되었다.

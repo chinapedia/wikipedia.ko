@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Vb cl2 team](https://ko.wikipedia.org/wiki/:Vb_cl2_team).
+> This article is converted from Wikipedia: [틀:Vb cl2 team](https://ko.wikipedia.org/wiki/틀:Vb_cl2_team).
 
 
 |-{{\#if:|bgcolor=|bgcolor=\#F9F9F9}} {{\#if:|{{\!}}{{\#if:|rowspan={{\!}}}}{{\#if:||}}}} |align=left| {{\#if:|}} {{\#if:|}} |{{\#if:|****|**{{\#expr:\*2+\*1}}**}} |{{\#if:|}} |{{\#if:|}} |{{\#if:|}} |{{\#if:|}} |{{\#if:||{{ \#ifexpr: =0 | MAX | {{\#if:|{{ \#ifexpr: {{\#expr:/ round 3}}={{\#expr:/ round 2}} | {{ \#ifexpr: {{\#expr:/ round 3}}={{\#expr:/ round 1}} | {{ \#ifexpr: {{\#expr:/ round 3}}={{\#expr:/ round 0}} | {{\#expr:/ round 3}}.000 | {{\#expr:/ round 3}}00 }} | {{\#expr:/ round 3}}0 }} | {{\#expr:/ round 3}} }}}} }} }} |{{\#if:|}} |{{\#if:|}} |{{\#ifexpr: =0 | MAX | {{\#if:|{{\#ifexpr: {{\#expr:/ round 3}}={{\#expr:/ round 2}} | {{\#ifexpr: {{\#expr:/ round 3}}={{\#expr:/ round 1}} | {{\#ifexpr: {{\#expr:/ round 3}}={{\#expr:/ round 0}} | {{\#expr:/ round 3}}.000 | {{\#expr:/ round 3}}00 }} | {{\#expr:/ round 3}}0 }} | {{\#expr:/ round 3}} }}}} }}<noinclude> [](https://ko.wikipedia.org/wiki/분류:배구에_관한_틀 "wikilink") </noinclude>

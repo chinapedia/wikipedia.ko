@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:16TeamBracket-Compact-Wrestling](https://ko.wikipedia.org/wiki/:16TeamBracket-Compact-Wrestling).
+> This article is converted from Wikipedia: [틀:16TeamBracket-Compact-Wrestling](https://ko.wikipedia.org/wiki/틀:16TeamBracket-Compact-Wrestling).
 
 
 <table>

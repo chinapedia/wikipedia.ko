@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ F4F ](https://ko.wikipedia.org/wiki/_F4F_).
+> This article is converted from Wikipedia: [그러먼 F4F 와일드캣](https://ko.wikipedia.org/wiki/그러먼_F4F_와일드캣).
 
 
 **그루먼 F4F 와일드캣**(Grumman F4F Wildcat)은 [미국 해군과](../Page/미국_해군.md "wikilink") [미국 해병대가](../Page/미국_해병대.md "wikilink") [제2차세계대전](https://ko.wikipedia.org/wiki/제2차세계대전 "wikilink")중에 사용하던 함상 전투기이다. 과거 한동안은, 제로센이라고 불린 일본 함상전투기인 [미쓰비시 A6M 제로보다는](https://ko.wikipedia.org/wiki/미쓰비시_A6M_제로 "wikilink") 열세였다고 알려져 있었지만, 실제로는 미 해군의 주력 함상전투기로 활약한 태평양 전쟁 초반 동안, 제로센을 상대로 대등 이상의 전투를 치렀다. 와일드캣은 기동성에서는 제로센에 열세였으나, 견고한 기체구조와 방탄 캐노피, 좌석후방장갑 등 제로센보다 뛰어난 내구력과 화력의 우세 등을 바탕으로, 공중전에서 제로센에 비교적 효과적으로 맞설 수 있었다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [NHK  ](https://ko.wikipedia.org/wiki/NHK__).
+> This article is converted from Wikipedia: [NHK의 애니메이션 목록](https://ko.wikipedia.org/wiki/NHK의_애니메이션_목록).
 
 
 《**NHK의 애니메이션 작품 목록**》은 [NHK](https://ko.wikipedia.org/wiki/NHK "wikilink")의 [종합 텔레비전](../Page/NHK_종합_텔레비전.md "wikilink") (NHK G)과 [교육 텔레비전](../Page/NHK_교육_텔레비전.md "wikilink") (NHK E)의 방송되는 [텔레비전](../Page/텔레비전.md "wikilink") [애니메이션](../Page/애니메이션.md "wikilink")이다.

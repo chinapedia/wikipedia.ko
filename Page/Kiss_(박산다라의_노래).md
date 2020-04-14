@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Kiss \( \)](https://ko.wikipedia.org/wiki/Kiss_\(_\)).
+> This article is converted from Wikipedia: [Kiss \(박산다라의 노래\)](https://ko.wikipedia.org/wiki/Kiss_\(박산다라의_노래\)).
 
 
 〈**Kiss**〉()는 대한민국의 음악 그룹 [2NE1](../Page/2NE1.md "wikilink")의 멤버 [박산다라](../Page/박산다라.md "wikilink")가 [2009년](../Page/2009년.md "wikilink") [9월 7일](../Page/9월_7일.md "wikilink") 솔로로 발매한 첫 디지털 싱글이다. 이 노래는 [2NE1](../Page/2NE1.md "wikilink")의 리더 [CL이](https://ko.wikipedia.org/wiki/씨엘 "wikilink") 랩 피쳐링에 참여했다. [YG 엔터테인먼트의](../Page/YG_엔터테인먼트.md "wikilink") 프로듀서 [Teddy가](https://ko.wikipedia.org/wiki/테디_\(가수\) "wikilink") 작사, 작곡에 참여했다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Rh ](https://ko.wikipedia.org/wiki/Rh_).
+> This article is converted from Wikipedia: [Rh식 혈액형](https://ko.wikipedia.org/wiki/Rh식_혈액형).
 
 
 **Rh식 혈액형**은 사람의 [혈액형](../Page/혈액형.md "wikilink") 중 하나이다. [ABO식 혈액형](../Page/ABO식_혈액형.md "wikilink") 다음으로 임상적으로 중요한 혈액형으로 취급하고 있다. D, C, c, E, e 5가지 항원의 조합으로 이루어지며 이 중에서 Rh+ 혈액형과 Rh- 혈액형 구분은 D항원 유무로 구분한다.

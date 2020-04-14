@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KBS ](https://ko.wikipedia.org/wiki/KBS_).
+> This article is converted from Wikipedia: [KBS 가요대상](https://ko.wikipedia.org/wiki/KBS_가요대상).
 
 
 《**KBS 가요대상**》은 [대한민국](../Page/대한민국.md "wikilink")의 [KBS](https://ko.wikipedia.org/wiki/KBS "wikilink") 예능본부에서 개최한 연말 특집 가요 프로그램이다. 본래 시상식명은 TBC 방송가요대상이었으나 1980년 언론통폐합으로 [TBC](https://ko.wikipedia.org/wiki/TBC "wikilink")가 KBS 2TV로 변경됨에 따라 이듬해인 1981년에는 KBS 방송음악대상이었다가 1982년부터 2005년까지 이와 같은 명으로 변경하여 개최되었다. [1981년](../Page/1981년.md "wikilink")부터 [1983년](../Page/1983년.md "wikilink")까지는 [장충체육관](../Page/장충체육관.md "wikilink")(1981년)과 [잠실실내체육관](../Page/잠실실내체육관.md "wikilink")에서 진행하고, [1984년](../Page/1984년.md "wikilink")부터 [1990년](../Page/1990년.md "wikilink")까지는 여의도 KBS 별관 공개홀에서 진행했으며, [1991년](../Page/1991년.md "wikilink")부터 현재의 [KBS 가요대축제에](../Page/KBS_가요대축제.md "wikilink") 이르기까지 여의도 [KBS홀](https://ko.wikipedia.org/wiki/KBS홀 "wikilink")에서 방송해 오다가 방송사 안팎에서 가요 시상식이 많아져 가수들 사이에 인맥이 흔들리는 데다, 수상자의 공정성과 형평성 희비가 엇갈리는 바람에 시상식으로써의 권위가 실추되어 [2005년](../Page/2005년.md "wikilink") 시상식을 마지막으로 폐지되어 결국 역사의 뒤안길로 사라지게 되었다.

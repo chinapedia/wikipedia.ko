@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:PagePlayoffBracket](https://ko.wikipedia.org/wiki/:PagePlayoffBracket).
+> This article is converted from Wikipedia: [틀:PagePlayoffBracket](https://ko.wikipedia.org/wiki/틀:PagePlayoffBracket).
 
 
 |  |  |  |  |  |  |

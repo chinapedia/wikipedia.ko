@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TV MSL Season 3](https://ko.wikipedia.org/wiki/TV_MSL_Season_3).
+> This article is converted from Wikipedia: [곰TV MSL Season 3](https://ko.wikipedia.org/wiki/곰TV_MSL_Season_3).
 
 
 **곰TV MSL Season 3**(GOM TV MSL 2007 Season 3)는 12차 MSL이며 KPGA투어까지 포함하면 20번째 MSL이다.

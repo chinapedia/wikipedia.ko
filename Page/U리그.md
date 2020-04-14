@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [U](https://ko.wikipedia.org/wiki/U).
+> This article is converted from Wikipedia: [U리그](https://ko.wikipedia.org/wiki/U리그).
 
 
 **U리그**(U-League)는 [대한축구협회](../Page/대한축구협회.md "wikilink")가 학교축구 정상화를 목적으로 설립한 대학축구리그로 [2008년](../Page/2008년.md "wikilink")부터 시행 중이다.
@@ -110,7 +110,7 @@
 <li><a href="../Page/경주대학교.md" title="wikilink">경주대학교</a></li>
 <li><a href="../Page/김천대학교.md" title="wikilink">김천대학교</a></li>
 <li><a href="https://ko.wikipedia.org/wiki/대구대학교" title="wikilink">대구대학교</a></li>
-<li><a href="https://ko.wikipedia.org/wiki/대구예술대학교" title="wikilink">대구예술대학교</a></li>
+<li><a href="../Page/대구예술대학교.md" title="wikilink">대구예술대학교</a></li>
 <li><a href="../Page/문경대학교.md" title="wikilink">문경대학교</a></li>
 <li><a href="../Page/안동과학대학교.md" title="wikilink">안동과학대학교</a></li>
 <li><a href="../Page/영남대학교.md" title="wikilink">영남대학교</a></li>

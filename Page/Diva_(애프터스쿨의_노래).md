@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Diva \( \)](https://ko.wikipedia.org/wiki/Diva_\(_\)).
+> This article is converted from Wikipedia: [Diva \(애프터스쿨의 노래\)](https://ko.wikipedia.org/wiki/Diva_\(애프터스쿨의_노래\)).
 
 
 **"Diva"**는 [대한민국](../Page/대한민국.md "wikilink")의 [음악 그룹](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink") [애프터스쿨](../Page/애프터스쿨.md "wikilink")이 2009년 4월 9일에 발표한 [디지털 싱글 앨범이다](../Page/싱글_\(음악\).md "wikilink"). 프로듀서로는 [용감한 형제가](../Page/용감한_형제.md "wikilink") 참여 하였으며, 작곡과 작사 모두 용감한 형제가 맡았다. 2011년 11월 23일에는 일본에서 애프터스쿨의 두 번째 싱글로 발매되었다.

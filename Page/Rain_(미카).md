@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Rain \(\)](https://ko.wikipedia.org/wiki/Rain_\(\)).
+> This article is converted from Wikipedia: [Rain \(미카\)](https://ko.wikipedia.org/wiki/Rain_\(미카\)).
 
 
 "Rain"은 미카의 두 번째 앨범 [The Boy Who Knew Too Much의](https://ko.wikipedia.org/wiki/The_Boy_Who_Knew_Too_Much "wikilink") 두 번째 싱글이고 영국에서 발매되었다.\[1\]\[2\] 이 곡은 그렉 웰스에 의해 믹스, 프로듀스되었고 바이올리니스트 오웬 팔렛이 피쳐링 했다.

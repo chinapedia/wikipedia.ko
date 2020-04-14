@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [! K](https://ko.wikipedia.org/wiki/!_K).
+> This article is converted from Wikipedia: [비바! K리그](https://ko.wikipedia.org/wiki/비바!_K리그).
 
 
 《**비바\! K리그**》는 [2005년](../Page/2005년.md "wikilink") [5월 4일부터](../Page/5월_4일.md "wikilink") 방송중인 [KBS 2TV](../Page/KBS_2TV.md "wikilink") [스포츠](../Page/스포츠.md "wikilink") [프로그램](https://ko.wikipedia.org/wiki/프로그램 "wikilink")이다.

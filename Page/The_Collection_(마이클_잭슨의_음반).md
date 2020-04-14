@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [The Collection \(  \)](https://ko.wikipedia.org/wiki/The_Collection_\(__\)).
+> This article is converted from Wikipedia: [The Collection \(마이클 잭슨의 음반\)](https://ko.wikipedia.org/wiki/The_Collection_\(마이클_잭슨의_음반\)).
 
 
 《**The Collection**》은 [마이클 잭슨의](https://ko.wikipedia.org/wiki/마이클_잭슨 "wikilink") 정규앨범 박스세트로 《**Off The Wall**》, 《**Thriller**》, 《**Bad**》, 《**Dangerous**》, 《**Invincible**》앨범으로 구성되어있다. 원래 《**This Is It**》투어 기념음반으로 기획되었으나 [마이클 잭슨의](https://ko.wikipedia.org/wiki/마이클_잭슨 "wikilink") 갑작스런 사망으로 추모특별판으로 발매되었다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [CFP ](https://ko.wikipedia.org/wiki/CFP_).
+> This article is converted from Wikipedia: [CFP 프랑](https://ko.wikipedia.org/wiki/CFP_프랑).
 
 
 **CFP 프랑**(일상 생활에서는 보통 **프랑**이라고도 부른다.)은 [프랑스](../Page/프랑스.md "wikilink")의 해외 공동체인 [누벨칼레도니](../Page/누벨칼레도니.md "wikilink")와 [프랑스령 폴리네시아](../Page/프랑스령_폴리네시아.md "wikilink"), [왈리스 푸투나의](../Page/왈리스_푸투나.md "wikilink") [통화](https://ko.wikipedia.org/wiki/통화 "wikilink")이다. CFP 프랑의 약자인 *CFP*는 원래 **(“프랑스령 태평양 식민지”)의 약자였다. 이것은 나중에 ** (“태평양 금융 커뮤니티”)로 바뀌었고 현재 공식 용어는 ** (“프랑스령 태평양 금융 계약”)이다. [ISO 4217](../Page/ISO_4217.md "wikilink") 부호는 **XPF**이다.

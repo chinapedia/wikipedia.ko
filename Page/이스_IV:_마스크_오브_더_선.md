@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ IV:    ](https://ko.wikipedia.org/wiki/_IV:____).
+> This article is converted from Wikipedia: [이스 IV: 마스크 오브 더 선](https://ko.wikipedia.org/wiki/이스_IV:_마스크_오브_더_선).
 
 
 《**이스 IV: 마스크 오브 더 선**》(, )는 [니혼 팔콤의](../Page/니혼_팔콤.md "wikilink") [액션 롤플레잉 게임이다](https://ko.wikipedia.org/wiki/액션_롤플레잉_게임 "wikilink"). [이스](../Page/이스_\(시리즈\).md "wikilink") 시리즈의 네번째 작품이나, 개발인원 부족에 시달리던 니혼 팔콤이 개발사 [톤킨 하우스에](https://ko.wikipedia.org/wiki/톤킨_하우스 "wikilink") 원안을 제공해 공동개발했다.\[1\] 《[이스 II](https://ko.wikipedia.org/wiki/이스_II "wikilink")》로부터 2년 후, 아돌의 3대 모험 중 두 번째 이야기인 '셀세타의 수해' 편을 다뤘다.

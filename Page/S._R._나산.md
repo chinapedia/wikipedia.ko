@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [S. R. ](https://ko.wikipedia.org/wiki/S._R._).
+> This article is converted from Wikipedia: [S. R. 나산](https://ko.wikipedia.org/wiki/S._R._나산).
 
 
 **셀라판 라마나산**(, , , [1924년](../Page/1924년.md "wikilink") [7월 3일](../Page/7월_3일.md "wikilink") \~ [2016년](../Page/2016년.md "wikilink") [8월 22일](../Page/8월_22일.md "wikilink"))은 [싱가포르](../Page/싱가포르.md "wikilink")의 [정치가](https://ko.wikipedia.org/wiki/정치가 "wikilink")이다. 보통 **S. R. 나산**(S. R. Nathan)으로 불린다. [타밀족](../Page/타밀족.md "wikilink") 출신으로, [1999년](../Page/1999년.md "wikilink") [9월 1일](../Page/9월_1일.md "wikilink") 대통령 선거에서 [싱가포르](../Page/싱가포르.md "wikilink")의 6번째 [대통령으로](../Page/싱가포르의_대통령.md "wikilink") 선출되었다. [2005년](../Page/2005년.md "wikilink") 재선에 성공하여 [2011년](../Page/2011년.md "wikilink")까지 재임하였다.

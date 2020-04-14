@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [IDENTITY \( \)](https://ko.wikipedia.org/wiki/IDENTITY_\(_\)).
+> This article is converted from Wikipedia: [IDENTITY \(보아의 음반\)](https://ko.wikipedia.org/wiki/IDENTITY_\(보아의_음반\)).
 
 
 《**IDENTITY**》(아이덴티티)는 가수 [보아](../Page/보아.md "wikilink")가 2010년 2월 10일 일본에서 발매한 일곱 번째 정규 음반이다.

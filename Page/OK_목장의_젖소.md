@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [OK  ](https://ko.wikipedia.org/wiki/OK__).
+> This article is converted from Wikipedia: [OK 목장의 젖소](https://ko.wikipedia.org/wiki/OK_목장의_젖소).
 
 
 《**OK 목장의 젖소**》는 한국의 록 밴드 [크라잉넛](../Page/크라잉넛.md "wikilink")이 2006년에 발매한 정규 음반이다.\[1\]\[2\]

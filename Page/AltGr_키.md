@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [AltGr ](https://ko.wikipedia.org/wiki/AltGr_).
+> This article is converted from Wikipedia: [AltGr 키](https://ko.wikipedia.org/wiki/AltGr_키).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:AltGr_Win_Menu_Ctrl_key.jpg "wikilink")

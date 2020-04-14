@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TV ](https://ko.wikipedia.org/wiki/TV_).
+> This article is converted from Wikipedia: [섹션TV 연예통신](https://ko.wikipedia.org/wiki/섹션TV_연예통신).
 
 
 《**섹션TV 연예통신**》은 [1999년](../Page/1999년.md "wikilink") [5월 9일부터](../Page/5월_9일.md "wikilink") [2020년](../Page/2020년.md "wikilink") [1월 23일까지](../Page/1월_23일.md "wikilink") [MBC TV에서](../Page/MBC_TV.md "wikilink") 방영된 [텔레비전 프로그램이다](../Page/텔레비전_프로그램.md "wikilink").
@@ -8,6 +8,7 @@
   - [1999년](../Page/1999년.md "wikilink") [5월 9일](../Page/5월_9일.md "wikilink") : '섹션TV 파워통신' 이라는 제목으로 첫방송을 했다.
   - [1999년](../Page/1999년.md "wikilink") [10월 20일](../Page/10월_20일.md "wikilink") : 프로그램명이 섹션TV 파워통신에서 섹션TV 연예통신으로 변경되었다.
   - [2020년](../Page/2020년.md "wikilink") [1월 23일](../Page/1월_23일.md "wikilink") : 마지막 방송으로서, 21년간 방송된 프로그램의 막을 내렸다.
+  - [2020년](../Page/2020년.md "wikilink") [4월 23일](../Page/4월_25일.md "wikilink") : 후속작으로 섹션TV 연예정보통신이 계속 방영될 예정이다.
 
 ## 방송 시간
 
@@ -125,34 +126,35 @@
 
 ### 남성
 
-| 역대 | 진행자                                      | 직업                                                    | 진행 기간                                                                                                                                                      | 비고    |
-| -- | ---------------------------------------- | ----------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- |
-| 1대 | [서경석](../Page/서경석_\(희극인\).md "wikilink") | 개그맨, 방송인                                              | [1999년](../Page/1999년.md "wikilink") [5월 9일](../Page/5월_9일.md "wikilink") \~ [2001년](../Page/2001년.md "wikilink") [3월 14일](../Page/3월_14일.md "wikilink")   |       |
-| 2대 | [김용만](../Page/김용만_\(희극인\).md "wikilink") | 개그맨, 방송인                                              | [2001년](../Page/2001년.md "wikilink") [3월 21일](../Page/3월_21일.md "wikilink") \~ [2013년](../Page/2013년.md "wikilink") [3월 17일](../Page/3월_17일.md "wikilink") | \[1\] |
-| 3대 | [김국진](../Page/김국진.md "wikilink")         | 개그맨, 방송인                                              | [2013년](../Page/2013년.md "wikilink") [3월 24일](../Page/3월_24일.md "wikilink") \~ [2017년](../Page/2017년.md "wikilink") [5월 14일](../Page/5월_14일.md "wikilink") |       |
-| 4대 | [이상민](../Page/이상민_\(가수\).md "wikilink")  | 전 그룹 [룰라](../Page/룰라_\(음악_그룹\).md "wikilink") 멤버, 방송인 | [2017년](../Page/2017년.md "wikilink") [5월 21일](../Page/5월_21일.md "wikilink") \~ [2020년](../Page/2020년.md "wikilink") [1월 23일](../Page/1월_23일.md "wikilink") |       |
+| 역대 | 진행자                                      | 직업                                                                                                                                                         | 진행 기간                                                                                                                                                      | 비고 |
+| -- | ---------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | -- |
+| 1대 | [서경석](../Page/서경석_\(희극인\).md "wikilink") | 개그맨, 방송인                                                                                                                                                   | [1999년](../Page/1999년.md "wikilink") [5월 9일](../Page/5월_9일.md "wikilink") \~ [2001년](../Page/2001년.md "wikilink") [3월 14일](../Page/3월_14일.md "wikilink")   |    |
+| 2대 | [김용만](../Page/김용만_\(희극인\).md "wikilink") | [2001년](../Page/2001년.md "wikilink") [3월 21일](../Page/3월_21일.md "wikilink") \~ [2013년](../Page/2013년.md "wikilink") [3월 17일](../Page/3월_17일.md "wikilink") | \[1\]                                                                                                                                                      |    |
+| 3대 | [김국진](../Page/김국진.md "wikilink")         | [2013년](../Page/2013년.md "wikilink") [3월 24일](../Page/3월_24일.md "wikilink") \~ [2017년](../Page/2017년.md "wikilink") [5월 14일](../Page/5월_14일.md "wikilink") |                                                                                                                                                            |    |
+| 4대 | [이상민](../Page/이상민_\(가수\).md "wikilink")  | 전 그룹 [룰라](../Page/룰라_\(음악_그룹\).md "wikilink") 멤버, 방송인                                                                                                      | [2017년](../Page/2017년.md "wikilink") [5월 21일](../Page/5월_21일.md "wikilink") \~ [2020년](../Page/2020년.md "wikilink") [1월 23일](../Page/1월_23일.md "wikilink") |    |
+|    |                                          |                                                                                                                                                            |                                                                                                                                                            |    |
 
 ### 여성
 
-| 역대  | 진행자                                                                                             | 직업                                            | 진행 기간                                                                                                                                                        | 비고    |
-| --- | ----------------------------------------------------------------------------------------------- | --------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----- |
-| 1대  | [황수정](../Page/황수정_\(배우\).md "wikilink")                                                         | 배우                                            | [1999년](../Page/1999년.md "wikilink") [5월 9일](../Page/5월_9일.md "wikilink") \~ [1999년](../Page/1999년.md "wikilink") [7월 28일](../Page/7월_28일.md "wikilink")     |       |
-| 2대  | [한고은](../Page/한고은.md "wikilink")                                                                | 배우                                            | [1999년](../Page/1999년.md "wikilink") [8월 4일](../Page/8월_4일.md "wikilink") \~ [1999년](../Page/1999년.md "wikilink") [10월 13일](../Page/10월_13일.md "wikilink")   |       |
-| 3대  | [김현주](../Page/김현주_\(1977년\).md "wikilink")                                                      | 배우                                            | [1999년](../Page/1999년.md "wikilink") [10월 20일](../Page/10월_20일.md "wikilink") \~ [2001년](../Page/2001년.md "wikilink") [4월 25일](../Page/4월_25일.md "wikilink") |       |
-| 4대  | [손태영](../Page/손태영.md "wikilink")                                                                | 미스코리아 출신 배우                                   | [2001년](../Page/2001년.md "wikilink") [5월 2일](../Page/5월_2일.md "wikilink") \~ [2001년](../Page/2001년.md "wikilink") [7월 4일](../Page/7월_4일.md "wikilink")       | \[2\] |
-| 5대  | [소유진](../Page/소유진.md "wikilink")                                                                | 배우                                            | [2001년](../Page/2001년.md "wikilink") [8월 29일](../Page/8월_29일.md "wikilink") \~ [2002년](../Page/2002년.md "wikilink") [10월 9일](../Page/10월_9일.md "wikilink")   |       |
-| 6대  | [성유리](../Page/성유리.md "wikilink")                                                                | 배우 (전 그룹 [핑클](../Page/핑클.md "wikilink") 멤버)   | [2002년](../Page/2002년.md "wikilink") [10월 23일](../Page/10월_23일.md "wikilink") \~ [2004년](../Page/2004년.md "wikilink") [3월 3일](../Page/3월_3일.md "wikilink")   |       |
-| 7대  | [한예슬](../Page/한예슬.md "wikilink")                                                                | 배우                                            | [2004년](../Page/2004년.md "wikilink") [3월 10일](../Page/3월_10일.md "wikilink") \~ [2005년](../Page/2005년.md "wikilink") [9월 14일](../Page/9월_14일.md "wikilink")   |       |
-| 8대  | [정려원](../Page/정려원.md "wikilink")                                                                | 배우 (전 그룹 [샤크라](../Page/샤크라.md "wikilink") 멤버) | [2005년](../Page/2005년.md "wikilink") [9월 21일](../Page/9월_21일.md "wikilink") \~ [2006년](../Page/2006년.md "wikilink") [2월 8일](../Page/2월_8일.md "wikilink")     |       |
-| 9대  | [현영](../Page/현영.md "wikilink")                                                                  | 방송인                                           | [2006년](../Page/2006년.md "wikilink") [2월 15일](../Page/2월_15일.md "wikilink") \~ [2010년](../Page/2010년.md "wikilink") [10월 29일](../Page/10월_29일.md "wikilink") |       |
-| 10대 | [구은영](../Page/구은영.md "wikilink")                                                                | [MBC](../Page/문화방송.md "wikilink") 아나운서        | [2010년](../Page/2010년.md "wikilink") [11월 7일](../Page/11월_7일.md "wikilink") \~ [2013년](../Page/2013년.md "wikilink") [3월 17일](../Page/3월_17일.md "wikilink")   | \[3\] |
-| 11대 | [소이현](../Page/소이현.md "wikilink")                                                                | 배우                                            | [2013년](../Page/2013년.md "wikilink") [3월 24일](../Page/3월_24일.md "wikilink") \~ [2015년](../Page/2015년.md "wikilink") [7월 26일](../Page/7월_26일.md "wikilink")   |       |
-| 12대 | [임지연](../Page/임지연.md "wikilink")                                                                | 배우                                            | [2015년](../Page/2015년.md "wikilink") [8월 2일](../Page/8월_2일.md "wikilink") \~ [2017년](../Page/2017년.md "wikilink") [5월 14일](../Page/5월_14일.md "wikilink")     |       |
-| 13대 | [이재은](../Page/이재은_\(아나운서\).md "wikilink"), [설인아](../Page/설인아.md "wikilink")                     | [MBC](../Page/문화방송.md "wikilink") 아나운서, 배우    | [2017년](../Page/2017년.md "wikilink") [5월 21일](../Page/5월_21일.md "wikilink") \~ [2018년](../Page/2018년.md "wikilink") [7월 9일](../Page/7월_9일.md "wikilink")     |       |
-| 14대 | [설인아](../Page/설인아.md "wikilink"), [이영은](https://ko.wikipedia.org/wiki/이영은_\(1993년\) "wikilink") | 배우, [MBC](../Page/문화방송.md "wikilink") 아나운서    | [2018년](../Page/2018년.md "wikilink") [7월 16일](../Page/7월_16일.md "wikilink") \~ [2018년](../Page/2018년.md "wikilink") [10월 8일](../Page/10월_8일.md "wikilink")   |       |
-| 15대 | [설인아](../Page/설인아.md "wikilink"), [경리](../Page/경리_\(가수\).md "wikilink")                         | 배우, 가수                                        | [2018년](../Page/2018년.md "wikilink") [10월 15일](../Page/10월_15일.md "wikilink") \~ [2019년](../Page/2019년.md "wikilink") [1월 7일](../Page/1월_7일.md "wikilink")   |       |
-| 16대 | [경리](../Page/경리_\(가수\).md "wikilink")                                                           | 가수                                            | [2019년](../Page/2019년.md "wikilink") [1월 14일](../Page/1월_14일.md "wikilink") \~ [2020년](../Page/2020년.md "wikilink") [1월 23일](../Page/1월_23일.md "wikilink")   |       |
-|     |                                                                                                 |                                               |                                                                                                                                                              |       |
+| 역대  | 진행자                                                                                             | 직업                                                                                                                                                           | 진행 기간                                                                                                                                                        | 비고    |
+| --- | ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----- |
+| 1대  | [황수정](../Page/황수정_\(배우\).md "wikilink")                                                         | 배우                                                                                                                                                           | [1999년](../Page/1999년.md "wikilink") [5월 9일](../Page/5월_9일.md "wikilink") \~ [1999년](../Page/1999년.md "wikilink") [7월 28일](../Page/7월_28일.md "wikilink")     |       |
+| 2대  | [한고은](../Page/한고은.md "wikilink")                                                                | [1999년](../Page/1999년.md "wikilink") [8월 4일](../Page/8월_4일.md "wikilink") \~ [1999년](../Page/1999년.md "wikilink") [10월 13일](../Page/10월_13일.md "wikilink")   |                                                                                                                                                              |       |
+| 3대  | [김현주](../Page/김현주_\(1977년\).md "wikilink")                                                      | [1999년](../Page/1999년.md "wikilink") [10월 20일](../Page/10월_20일.md "wikilink") \~ [2001년](../Page/2001년.md "wikilink") [4월 25일](../Page/4월_25일.md "wikilink") |                                                                                                                                                              |       |
+| 4대  | [손태영](../Page/손태영.md "wikilink")                                                                | 미스코리아 출신 배우                                                                                                                                                  | [2001년](../Page/2001년.md "wikilink") [5월 2일](../Page/5월_2일.md "wikilink") \~ [2001년](../Page/2001년.md "wikilink") [7월 4일](../Page/7월_4일.md "wikilink")       | \[2\] |
+| 5대  | [소유진](../Page/소유진.md "wikilink")                                                                | 배우                                                                                                                                                           | [2001년](../Page/2001년.md "wikilink") [8월 29일](../Page/8월_29일.md "wikilink") \~ [2002년](../Page/2002년.md "wikilink") [10월 9일](../Page/10월_9일.md "wikilink")   |       |
+| 6대  | [성유리](../Page/성유리.md "wikilink")                                                                | 배우 (전 그룹 [핑클](../Page/핑클.md "wikilink") 멤버)                                                                                                                  | [2002년](../Page/2002년.md "wikilink") [10월 23일](../Page/10월_23일.md "wikilink") \~ [2004년](../Page/2004년.md "wikilink") [3월 3일](../Page/3월_3일.md "wikilink")   |       |
+| 7대  | [한예슬](../Page/한예슬.md "wikilink")                                                                | 배우                                                                                                                                                           | [2004년](../Page/2004년.md "wikilink") [3월 10일](../Page/3월_10일.md "wikilink") \~ [2005년](../Page/2005년.md "wikilink") [9월 14일](../Page/9월_14일.md "wikilink")   |       |
+| 8대  | [정려원](../Page/정려원.md "wikilink")                                                                | 배우 (전 그룹 [샤크라](../Page/샤크라.md "wikilink") 멤버)                                                                                                                | [2005년](../Page/2005년.md "wikilink") [9월 21일](../Page/9월_21일.md "wikilink") \~ [2006년](../Page/2006년.md "wikilink") [2월 8일](../Page/2월_8일.md "wikilink")     |       |
+| 9대  | [현영](../Page/현영.md "wikilink")                                                                  | 방송인                                                                                                                                                          | [2006년](../Page/2006년.md "wikilink") [2월 15일](../Page/2월_15일.md "wikilink") \~ [2010년](../Page/2010년.md "wikilink") [10월 29일](../Page/10월_29일.md "wikilink") |       |
+| 10대 | [구은영](../Page/구은영.md "wikilink")                                                                | [MBC](https://ko.wikipedia.org/wiki/MBC "wikilink") 아나운서                                                                                                     | [2010년](../Page/2010년.md "wikilink") [11월 7일](../Page/11월_7일.md "wikilink") \~ [2013년](../Page/2013년.md "wikilink") [3월 17일](../Page/3월_17일.md "wikilink")   | \[3\] |
+| 11대 | [소이현](../Page/소이현.md "wikilink")                                                                | 배우                                                                                                                                                           | [2013년](../Page/2013년.md "wikilink") [3월 24일](../Page/3월_24일.md "wikilink") \~ [2015년](../Page/2015년.md "wikilink") [7월 26일](../Page/7월_26일.md "wikilink")   |       |
+| 12대 | [임지연](../Page/임지연.md "wikilink")                                                                | [2015년](../Page/2015년.md "wikilink") [8월 2일](../Page/8월_2일.md "wikilink") \~ [2017년](../Page/2017년.md "wikilink") [5월 14일](../Page/5월_14일.md "wikilink")     |                                                                                                                                                              |       |
+| 13대 | [이재은](../Page/이재은_\(아나운서\).md "wikilink"), [설인아](../Page/설인아.md "wikilink")                     | [MBC](https://ko.wikipedia.org/wiki/MBC "wikilink") 아나운서, 배우                                                                                                 | [2017년](../Page/2017년.md "wikilink") [5월 21일](../Page/5월_21일.md "wikilink") \~ [2018년](../Page/2018년.md "wikilink") [7월 9일](../Page/7월_9일.md "wikilink")     | \[4\] |
+| 14대 | [설인아](../Page/설인아.md "wikilink"), [이영은](https://ko.wikipedia.org/wiki/이영은_\(1993년\) "wikilink") | 배우, [MBC](https://ko.wikipedia.org/wiki/MBC "wikilink") 아나운서                                                                                                 | [2018년](../Page/2018년.md "wikilink") [7월 16일](../Page/7월_16일.md "wikilink") \~ [2018년](../Page/2018년.md "wikilink") [10월 8일](../Page/10월_8일.md "wikilink")   |       |
+| 15대 | [설인아](../Page/설인아.md "wikilink"), [경리](../Page/경리_\(가수\).md "wikilink")                         | 배우, 가수                                                                                                                                                       | [2018년](../Page/2018년.md "wikilink") [10월 15일](../Page/10월_15일.md "wikilink") \~ [2019년](../Page/2019년.md "wikilink") [1월 7일](../Page/1월_7일.md "wikilink")   |       |
+| 16대 | [경리](../Page/경리_\(가수\).md "wikilink")                                                           | 가수                                                                                                                                                           | [2019년](../Page/2019년.md "wikilink") [1월 14일](../Page/1월_14일.md "wikilink") \~ [2020년](../Page/2020년.md "wikilink") [1월 23일](../Page/1월_23일.md "wikilink")   |       |
+|     |                                                                                                 |                                                                                                                                                              |                                                                                                                                                              |       |
 
 ## 역대 리포터
 
@@ -187,7 +189,7 @@
   - [오윤아](https://ko.wikipedia.org/wiki/오윤아 "wikilink")
   - [이승윤](https://ko.wikipedia.org/wiki/이승윤 "wikilink")
   - [이요원](../Page/이요원.md "wikilink")
-  - [이윤석](../Page/이윤석_\(희극인\).md "wikilink")\[4\]
+  - [이윤석](../Page/이윤석_\(희극인\).md "wikilink")\[5\]
   - [이지희](../Page/이지희.md "wikilink")
   - [조정린](../Page/조정린.md "wikilink")
   - [차예린](../Page/차예린.md "wikilink")
@@ -226,7 +228,7 @@
 
 <!-- end list -->
 
-  - [2002년](../Page/2002년.md "wikilink") [3월 20일](../Page/3월_20일.md "wikilink") :[2002 한일 월드컵](https://ko.wikipedia.org/wiki/2002_한일_월드컵 "wikilink") 축구 평가전 [한국](../Page/한국.md "wikilink") vs [핀란드](../Page/핀란드.md "wikilink") 중계 편성
+  - [2002년](../Page/2002년.md "wikilink") [3월 20일](../Page/3월_20일.md "wikilink") :[2002 한일 월드컵](https://ko.wikipedia.org/wiki/2002_한일_월드컵 "wikilink") 축구 평가전 [한국](../Page/대한민국.md "wikilink") vs [핀란드](../Page/핀란드.md "wikilink") 중계 편성
   - [2002년](../Page/2002년.md "wikilink") [6월 5일](../Page/6월_5일.md "wikilink") \~ [6월 12일](../Page/6월_12일.md "wikilink") : [2002 한일 월드컵](https://ko.wikipedia.org/wiki/2002_한일_월드컵 "wikilink") 중계 편성
   - [2002년](../Page/2002년.md "wikilink") [10월 16일](../Page/10월_16일.md "wikilink") : 특집 다큐멘터리 <만경봉호가 남긴 것> 방송
   - [2002년](../Page/2002년.md "wikilink") [12월 11일](../Page/12월_11일.md "wikilink") : 창사41주년 특별기획 \<2002 MBC 명예의 전당\> 방송
@@ -297,7 +299,7 @@
   - [2008년](../Page/2008년.md "wikilink") [2월 8일](../Page/2월_8일.md "wikilink") : [설날](../Page/설날.md "wikilink")특집 방송
   - [2008년](../Page/2008년.md "wikilink") [8월 8일](../Page/8월_8일.md "wikilink") :[2008 베이징 올림픽개회식](https://ko.wikipedia.org/wiki/2008_베이징_올림픽 "wikilink") 편성
   - [2008년](../Page/2008년.md "wikilink") [8월 22일](../Page/8월_22일.md "wikilink") :[2008 베이징 올림픽](https://ko.wikipedia.org/wiki/2008_베이징_올림픽 "wikilink") 중계 편성
-  - [2008년](../Page/2008년.md "wikilink") [10월 17일](../Page/10월_17일.md "wikilink") : [비](https://ko.wikipedia.org/wiki/비 "wikilink") 컴백 특집쇼 \<나,비,춤\> 방송
+  - [2008년](../Page/2008년.md "wikilink") [10월 17일](../Page/10월_17일.md "wikilink") : [비](../Page/비_\(가수\).md "wikilink") 컴백 특집쇼 \<나,비,춤\> 방송
 
 <!-- end list -->
 
@@ -305,7 +307,7 @@
 
 <!-- end list -->
 
-  - [2009년](../Page/2009년.md "wikilink") [5월 29일](../Page/5월_29일.md "wikilink") : [노무현](https://ko.wikipedia.org/wiki/노무현 "wikilink")前대통령 서거 애도로 인한 결방
+  - [2009년](../Page/2009년.md "wikilink") [5월 29일](../Page/5월_29일.md "wikilink") : [노무현](https://ko.wikipedia.org/wiki/노무현 "wikilink") 前대통령 서거 애도로 인한 결방
   - [2009년](../Page/2009년.md "wikilink") [9월 25일](../Page/9월_25일.md "wikilink") : [MBC 대학가요제](../Page/MBC_대학가요제.md "wikilink") 방송
   - [2009년](../Page/2009년.md "wikilink") [10월 2일](../Page/10월_2일.md "wikilink") : 추석특집 tv무비 [선덕여왕](../Page/선덕여왕.md "wikilink") 방송 (10월 3일 추석특집 <대한민국 연예계 별별랭킹>으로 대체)
   - [2009년](../Page/2009년.md "wikilink") [11월 27일](../Page/11월_27일.md "wikilink") : 대통령과의 대화 방송으로 결방.
@@ -326,7 +328,7 @@
 
 <!-- end list -->
 
-  - [2011년](../Page/2011년.md "wikilink") [2월 6일](../Page/2월_6일.md "wikilink") : [설](https://ko.wikipedia.org/wiki/설 "wikilink")특집 방송 관계로 결방
+  - [2011년](../Page/2011년.md "wikilink") [2월 6일](../Page/2월_6일.md "wikilink") : [설특집](../Page/설날.md "wikilink") 방송 관계로 결방
   - [2011년](../Page/2011년.md "wikilink") [10월 16일](../Page/10월_16일.md "wikilink") : F1 코리아 그랑프리 중계 방송
   - [2011년](../Page/2011년.md "wikilink") [10월 23일](../Page/10월_23일.md "wikilink") : MBC 스포츠 [프로야구](../Page/2011년_한국프로야구.md "wikilink") 플레이오프 5차전 [SK 와이번스](../Page/SK_와이번스.md "wikilink") VS [롯데 자이언츠](../Page/롯데_자이언츠.md "wikilink") 경기 관계로 오후 1시에 방송
 
@@ -350,7 +352,7 @@
 <!-- end list -->
 
   - [2014년](../Page/2014년.md "wikilink") [4월 20일](../Page/4월_20일.md "wikilink") \~ [4월 27일](../Page/4월_27일.md "wikilink") : 진도 여객선[세월호](../Page/세월호.md "wikilink") 침몰 사고의 여파로 결방
-  - [2014년](../Page/2014년.md "wikilink") [9월 28일](../Page/9월_28일.md "wikilink") : [인천 아시안게임](https://ko.wikipedia.org/wiki/인천_아시안게임 "wikilink") 야구 결승전 [대한민국](../Page/대한민국.md "wikilink") VS [대만](https://ko.wikipedia.org/wiki/대만 "wikilink") 중계방송 관계로 결방
+  - [2014년](../Page/2014년.md "wikilink") [9월 28일](../Page/9월_28일.md "wikilink") : [인천 아시안게임](https://ko.wikipedia.org/wiki/인천_아시안게임 "wikilink") 야구 결승전 [대한민국](../Page/대한민국.md "wikilink") VS [대만](../Page/중화민국.md "wikilink") 중계방송 관계로 결방
 
 <!-- end list -->
 
@@ -388,7 +390,7 @@
 
 <!-- end list -->
 
-  - [2월 4일](../Page/2월_4일.md "wikilink") : [설](https://ko.wikipedia.org/wiki/설 "wikilink")특집 방송으로 인한 결방
+  - [2월 4일](../Page/2월_4일.md "wikilink") : [설특집](../Page/설날.md "wikilink") 방송으로 인한 결방
   - [4월 1일](../Page/4월_1일.md "wikilink") \~ [4월 8일](../Page/4월_8일.md "wikilink") : 봄 개편으로 인한 결방
   - [7월 18일](../Page/7월_18일.md "wikilink") : [세빌리아의 이발사](https://ko.wikipedia.org/wiki/세빌리아의_이발사 "wikilink") 방송 관계로 결방
 
@@ -415,5 +417,6 @@
 
 1.  2001년 7월 11일부터 2001년 8월 8일, 2012년 2월 5일부터 2012년 7월 15일까지는 여자 MC 없이 단독으로 진행을 맡았다.
 2.  본인(손태영)이 속한 [한국연예제작자협회](https://ko.wikipedia.org/wiki/한국연예제작자협회 "wikilink") 소속 연예인의 MBC 출연 거부 때문에 손태영 하차 후 한동안 [김용만](../Page/김용만_\(희극인\).md "wikilink") 단독 진행으로 꾸며갔으며 [한국연예제작자협회](https://ko.wikipedia.org/wiki/한국연예제작자협회 "wikilink")의 MBC 출연 거부에 따라 [2001년](../Page/2001년.md "wikilink") [8월 15일부터](../Page/8월_15일.md "wikilink") 2주 동안 방영이 중지됐다.
-3.  [2012년](../Page/2012년.md "wikilink") [1월 29일](../Page/1월_29일.md "wikilink") 방송분 이후 [MBC](../Page/문화방송.md "wikilink") 파업 때문에 잠정 하차했고 [2월 5일부터](../Page/2월_5일.md "wikilink") [7월 15일까지](../Page/7월_15일.md "wikilink") [김용만](../Page/김용만_\(희극인\).md "wikilink") 단독 진행
-4.  2회부터 431회까지 활약한 최장수 리포터이다.
+3.  [2012년](../Page/2012년.md "wikilink") [1월 29일](../Page/1월_29일.md "wikilink") 방송분 이후부터는 [MBC](https://ko.wikipedia.org/wiki/MBC "wikilink")의 파업 때문에 잠정 하차했고, 그로 인해 [2월 5일부터](../Page/2월_5일.md "wikilink") [7월 15일까지](../Page/7월_15일.md "wikilink") [김용만이](../Page/김용만_\(희극인\).md "wikilink") 단독으로 진행하였다.
+4.  [2017년](../Page/2017년.md "wikilink") [8월 27일부터](../Page/8월_27일.md "wikilink") [11월 19일까지](../Page/11월_19일.md "wikilink") 강행된 [MBC](https://ko.wikipedia.org/wiki/MBC "wikilink") 파업기간동안은 [이재은](../Page/이재은_\(아나운서\).md "wikilink") 아나운서가 진행에서 잠시 물러난 관계로 [이상민이](../Page/이상민_\(가수\).md "wikilink") [설인아](../Page/설인아.md "wikilink")와 2MC 체제로서 진행을 하게 되었다.
+5.  2회부터 431회까지 활약한 최장수 리포터이다.

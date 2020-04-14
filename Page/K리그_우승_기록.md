@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [K  ](https://ko.wikipedia.org/wiki/K__).
+> This article is converted from Wikipedia: [K리그 우승 기록](https://ko.wikipedia.org/wiki/K리그_우승_기록).
 
 
 이 문서에서는 [한국프로축구연맹](../Page/한국프로축구연맹.md "wikilink")에서 주관하는 [K리그](../Page/K리그.md "wikilink") 주요 대회 우승 기록을 기재한다.
@@ -49,7 +49,7 @@
 | 34회     | [2016](https://ko.wikipedia.org/wiki/K리그_클래식_2016 "wikilink") | 현대오일뱅크 K리그 클래식 2016                           | [FC 서울](https://ko.wikipedia.org/wiki/FC_서울 "wikilink")     | [전북 현대 모터스](../Page/전북_현대_모터스.md "wikilink")                    |                                                             |                                                           |
 | 35회     | [2017](https://ko.wikipedia.org/wiki/K리그_클래식_2017 "wikilink") | KEB하나은행 K리그 클래식 2017                          | [전북 현대 모터스](../Page/전북_현대_모터스.md "wikilink")                | [제주 유나이티드](https://ko.wikipedia.org/wiki/제주_유나이티드 "wikilink")   |                                                             |                                                           |
 | 36회     | [2018](https://ko.wikipedia.org/wiki/K리그1_2018 "wikilink")    | KEB하나은행 K리그1 2018<small><sup>14</sup></small> | [전북 현대 모터스](../Page/전북_현대_모터스.md "wikilink")                | [경남 FC](../Page/경남_FC.md "wikilink")                            |                                                             |                                                           |
-| 37회     | [2019](https://ko.wikipedia.org/wiki/K리그1_2019 "wikilink")    | 하나원큐 K리그1 2019<small><sup>14</sup></small>    | [전북 현대 모터스](../Page/전북_현대_모터스.md "wikilink")                | [울산 현대 호랑이](https://ko.wikipedia.org/wiki/울산_현대_호랑이 "wikilink") |                                                             |                                                           |
+| 37회     | [2019](https://ko.wikipedia.org/wiki/K리그1_2019 "wikilink")    | 하나원큐 K리그1 2019                                | [전북 현대 모터스](../Page/전북_현대_모터스.md "wikilink")                | [울산 현대 호랑이](https://ko.wikipedia.org/wiki/울산_현대_호랑이 "wikilink") |                                                             |                                                           |
 
 <div style="font-size:85%">
 

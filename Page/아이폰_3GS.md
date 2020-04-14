@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ 3GS](https://ko.wikipedia.org/wiki/_3GS).
+> This article is converted from Wikipedia: [아이폰 3GS](https://ko.wikipedia.org/wiki/아이폰_3GS).
 
 
 **아이폰 3GS**(iPhone 3GS)는 [애플에서](https://ko.wikipedia.org/wiki/애플_\(기업\) "wikilink") [2009년](../Page/2009년.md "wikilink") [6월 9일에](../Page/6월_9일.md "wikilink") 출시한 [iOS](https://ko.wikipedia.org/wiki/iOS "wikilink") [스마트폰](../Page/스마트폰.md "wikilink")으로, [아이폰 3G의](../Page/아이폰_3G.md "wikilink") 후속 제품이다.

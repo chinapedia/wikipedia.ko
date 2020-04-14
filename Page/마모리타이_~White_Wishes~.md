@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ \~White Wishes\~](https://ko.wikipedia.org/wiki/_\~White_Wishes\~).
+> This article is converted from Wikipedia: [마모리타이 \~White Wishes\~](https://ko.wikipedia.org/wiki/마모리타이_\~White_Wishes\~).
 
 
 《まもりたい ～White Wishes～》는 대한민국 여자 가수 보아가 일본 29번째 싱글이다. 이번 싱글은 메리크리, Winter Love 이후 오랜만의 윈터 발라드이다. CD, CD+DVD, Tales of Graces반 3가지 버전으로 발매된다. 대한민국에서는 라이센스반으로 12월 16일 발매한다.

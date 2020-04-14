@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Magic \(B\'z \)](https://ko.wikipedia.org/wiki/Magic_\(B\'z_\)).
+> This article is converted from Wikipedia: [Magic \(B\'z의 음반\)](https://ko.wikipedia.org/wiki/Magic_\(B\'z의_음반\)).
 
 
 《**Magic**》은 [일본](../Page/일본.md "wikilink")의 [밴드](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink") [비즈의](../Page/B'z.md "wikilink") 17번째 정규 음반이다. 2009년 11월 18일 한국과 일본에 동시 발매됐다\[1\]. 첫회 한정판에는 다큐멘터리 영상인 〈Magical Backstage Tour 2009〉와 [서머 소닉](../Page/서머_소닉.md "wikilink") 2009의 공연 영상이 수록된 DVD가 포함돼 있다.

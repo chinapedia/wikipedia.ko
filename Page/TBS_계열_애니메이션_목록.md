@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TBS   ](https://ko.wikipedia.org/wiki/TBS___).
+> This article is converted from Wikipedia: [TBS 계열 애니메이션 목록](https://ko.wikipedia.org/wiki/TBS_계열_애니메이션_목록).
 
 
 __NOTOC__

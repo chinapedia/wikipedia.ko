@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [2009 CONCACAF ](https://ko.wikipedia.org/wiki/2009_CONCACAF_).
+> This article is converted from Wikipedia: [2009년 CONCACAF 골드컵](https://ko.wikipedia.org/wiki/2009년_CONCACAF_골드컵).
 
 
 **2009년 CONCACAF 골드컵**()은 [2009년](../Page/2009년.md "wikilink") [7월 3일부터](../Page/7월_3일.md "wikilink") [7월 26일까지](../Page/7월_26일.md "wikilink") [미국](../Page/미국.md "wikilink")에서 개최된 10번째 [골드컵으로](../Page/CONCACAF_골드컵.md "wikilink"), [북중미카리브 축구 연맹](../Page/북중미카리브_축구_연맹.md "wikilink") 소속의 북아메리카와 중앙 아메리카 그리고 [카리브 해의](https://ko.wikipedia.org/wiki/카리브_해 "wikilink") 회원국들이 서로의 실력을 겨루는 축구 대회이다.

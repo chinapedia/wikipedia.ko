@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [ e ](https://ko.wikipedia.org/wiki/_e_).
+> This article is converted from Wikipedia: [국제 e스포츠 연맹](https://ko.wikipedia.org/wiki/국제_e스포츠_연맹).
 
 
-**국제e스포츠연맹**(International e-Sports Federation, 이하 IeSF)은 [대한민국](../Page/대한민국.md "wikilink")의 주도로 8개국과 함께 2008년 8월 11일 [부산](https://ko.wikipedia.org/wiki/부산 "wikilink")에서 설립한 비영리 국제 [e스포츠](https://ko.wikipedia.org/wiki/e스포츠 "wikilink") 단체이다. 그 설립 목적은 국제적인 e스포츠 인프라 구축과 공인 종목의 선정 기준, 국제 선수와 심판 기준 제정등을 통하여 국제 e스포츠를 표준화하며 국제적인 e스포츠 대회를 개최하는 데 있다. 2013년 현재 국제e-스포츠연맹의 회장은 [전병헌](../Page/전병헌.md "wikilink")이며 사무총장은 [임철웅이다](https://ko.wikipedia.org/wiki/오원석 "wikilink").
+**국제e스포츠연맹**(International e-Sports Federation, 이하 IeSF)은 [대한민국](../Page/대한민국.md "wikilink")의 주도로 8개국과 함께 2008년 8월 11일 [부산](https://ko.wikipedia.org/wiki/부산 "wikilink")에서 설립한 비영리 국제 [e스포츠](https://ko.wikipedia.org/wiki/e스포츠 "wikilink") 단체이다. 그 설립 목적은 국제적인 e스포츠 인프라 구축과 공인 종목의 선정 기준, 국제 선수와 심판 기준 제정등을 통하여 국제 e스포츠를 표준화하며 국제적인 e스포츠 대회를 개최하는 데 있다. 2019년 현재 국제e스포츠연맹의 회장은 [남아프리카공화국](https://ko.wikipedia.org/wiki/남아프리카공화국 "wikilink")의 콜린 웹스터이다.
 
 ## 역사
 

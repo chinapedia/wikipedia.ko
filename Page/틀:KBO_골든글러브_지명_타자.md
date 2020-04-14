@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:KBO   ](https://ko.wikipedia.org/wiki/:KBO___).
+> This article is converted from Wikipedia: [틀:KBO 골든글러브 지명 타자](https://ko.wikipedia.org/wiki/틀:KBO_골든글러브_지명_타자).
 
 
 <onlyinclude></onlyinclude>

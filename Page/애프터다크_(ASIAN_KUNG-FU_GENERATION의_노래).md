@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ \(ASIAN KUNG-FU GENERATION \)](https://ko.wikipedia.org/wiki/_\(ASIAN_KUNG-FU_GENERATION_\)).
+> This article is converted from Wikipedia: [애프터다크 \(ASIAN KUNG-FU GENERATION의 노래\)](https://ko.wikipedia.org/wiki/애프터다크_\(ASIAN_KUNG-FU_GENERATION의_노래\)).
 
 
 〈**애프터 다크**〉(, After Dark)는 일본의 록 밴드 [아시안 쿵후 제너레이션의](https://ko.wikipedia.org/wiki/아시안_쿵후_제너레이션 "wikilink") 10번째 싱글이다. 2007년 11월 7일에 발매됐으며, 다섯 번째 정규 음반 《[월드 월드 월드](https://ko.wikipedia.org/wiki/월드_월드_월드 "wikilink")》에 수록된 두 번째 싱글이기도 하다. 또, 〈애프터 다크〉는 [TV 도쿄의](../Page/TV_도쿄.md "wikilink") 애니메이션 《[블리치](../Page/블리치.md "wikilink")》의 여는 곡으로도 사용됐다\[1\].

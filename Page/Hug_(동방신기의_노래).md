@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Hug \( \)](https://ko.wikipedia.org/wiki/Hug_\(_\)).
+> This article is converted from Wikipedia: [Hug \(동방신기의 노래\)](https://ko.wikipedia.org/wiki/Hug_\(동방신기의_노래\)).
 
 
 '' **Hug** ''(허그)는 [대한민국](../Page/대한민국.md "wikilink")의 음악 그룹 [동방신기](../Page/동방신기.md "wikilink")의 데뷔 싱글 앨범이다.

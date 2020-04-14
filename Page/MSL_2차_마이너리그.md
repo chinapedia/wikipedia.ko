@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [MSL 2 ](https://ko.wikipedia.org/wiki/MSL_2_).
+> This article is converted from Wikipedia: [MSL 2차 마이너리그](https://ko.wikipedia.org/wiki/MSL_2차_마이너리그).
 
 
 **MSL 2차 마이너리그**는 [하나포스 센게임 MSL 2004의](../Page/하나포스_센게임_MSL_2004.md "wikilink") 진출자를 가리기 위한 대회이다.

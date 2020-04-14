@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [USS  \(CV-6\)](https://ko.wikipedia.org/wiki/USS__\(CV-6\)).
+> This article is converted from Wikipedia: [USS 엔터프라이즈 \(CV-6\)](https://ko.wikipedia.org/wiki/USS_엔터프라이즈_\(CV-6\)).
 
 
 **USS 엔터프라이즈 (CV-6)**() 또는 **빅 E**는 [제2차세계대전](https://ko.wikipedia.org/wiki/제2차세계대전 "wikilink") 중 [미국 해군의](../Page/미국_해군.md "wikilink") 항공모함으로 [1937년](../Page/1937년.md "wikilink") [9월 20일](../Page/9월_20일.md "wikilink") 진수되었다. 요크타운급 항공모함이며 자매함으로는 [요크타운과](../Page/USS_요크타운_\(CV-5\).md "wikilink") [호넷이](../Page/USS_호넷_\(CV-8\).md "wikilink") 있다.

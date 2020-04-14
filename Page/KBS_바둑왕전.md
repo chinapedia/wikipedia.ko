@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KBS ](https://ko.wikipedia.org/wiki/KBS_).
+> This article is converted from Wikipedia: [KBS 바둑왕전](https://ko.wikipedia.org/wiki/KBS_바둑왕전).
 
 
 《**KBS 바둑왕전**》(KBS 바둑王戰)은 [1980년](../Page/1980년.md "wikilink") [1월 6일부터](../Page/1월_6일.md "wikilink") [2019년](../Page/2019년.md "wikilink") [12월 29일까지](../Page/12월_29일.md "wikilink") 방송되었던 [KBS 1TV](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink") [바둑](../Page/바둑.md "wikilink") 프로그램이다.

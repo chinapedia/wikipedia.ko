@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ P.  ](https://ko.wikipedia.org/wiki/_P.__).
+> This article is converted from Wikipedia: [윌리엄 P. 호비 공항](https://ko.wikipedia.org/wiki/윌리엄_P._호비_공항).
 
 
 **윌리엄 P. 호비 공항**(, )은 [미국](../Page/미국.md "wikilink") [텍사스주](../Page/텍사스주.md "wikilink") [휴스턴](../Page/휴스턴.md "wikilink")에 있는 [공항](../Page/공항.md "wikilink")이다. 휴스턴 도심에서 8km 떨어져 있다. 휴스턴 시 소유이며, [조지 부시 인터콘티넨털 공항과](https://ko.wikipedia.org/wiki/조지_부시_인터콘티넨털_공항 "wikilink") 함께 휴스턴 공항 운영단체에서 운영을 맡고 있다.
