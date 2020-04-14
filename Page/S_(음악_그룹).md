@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [S \( \)](https://ko.wikipedia.org/wiki/S_\(_\)).
+> This article is converted from Wikipedia: [S \(음악 그룹\)](https://ko.wikipedia.org/wiki/S_\(음악_그룹\)).
 
 
 **S (에스)**는 [대한민국](../Page/대한민국.md "wikilink")의 3인조 [SM 엔터테인먼트의](../Page/SM_엔터테인먼트.md "wikilink") 3인조 보컬 프로젝트 그룹이다. 2003년에 세사람이 절친으로 솔로가수 [강타](../Page/강타.md "wikilink")와 [신화의](https://ko.wikipedia.org/wiki/신화_\(음악_그룹\) "wikilink") 메인 보컬 [신혜성](../Page/신혜성.md "wikilink"), 그리고 솔로 가수인 [이지훈과](https://ko.wikipedia.org/wiki/이지훈_\(1979년\) "wikilink") 함께 결성을 하고 정규 앨범 《Fr.in.Cl》을 발매하고 데뷔를 했고 2014년에는 재결성을 하고 미니앨범 《Autumn Breeze》를 발매하고 컴백을 했다.

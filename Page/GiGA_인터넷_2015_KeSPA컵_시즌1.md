@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [GiGA  2015 KeSPA 1](https://ko.wikipedia.org/wiki/GiGA__2015_KeSPA_1).
+> This article is converted from Wikipedia: [GiGA 인터넷 2015 KeSPA컵 시즌1](https://ko.wikipedia.org/wiki/GiGA_인터넷_2015_KeSPA컵_시즌1).
 
 
 **GiGA 인터넷 2015 KeSPA컵 시즌1** (GiGA internet 2015 KeSPA Cup Season 1) 은 [한국e스포츠협회](../Page/한국e스포츠협회.md "wikilink")가 주최하는 e스포츠 종목 활성화 및 아마추어 저변 확대를 위한 대한민국 프로와 아마추어의 통합 e스포츠 대회이다. 본선 장소는 [넥슨 아레나에서](../Page/넥슨_아레나.md "wikilink") 진행된다. 주관 방송은 [SPOTV GAMES가](https://ko.wikipedia.org/wiki/SPOTV_GAMES "wikilink") 담당한다.

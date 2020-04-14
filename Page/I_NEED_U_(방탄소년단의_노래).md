@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [I NEED U \( \)](https://ko.wikipedia.org/wiki/I_NEED_U_\(_\)).
+> This article is converted from Wikipedia: [I NEED U \(방탄소년단의 노래\)](https://ko.wikipedia.org/wiki/I_NEED_U_\(방탄소년단의_노래\)).
 
 
 《**I NEED U**》는 [방탄소년단](../Page/방탄소년단.md "wikilink")의 세 번째 미니 음반의 타이틀 곡이다. 2015년 4월 29일에 발표하였다.

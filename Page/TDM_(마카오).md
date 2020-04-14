@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TDM \(\)](https://ko.wikipedia.org/wiki/TDM_\(\)).
+> This article is converted from Wikipedia: [TDM \(마카오\)](https://ko.wikipedia.org/wiki/TDM_\(마카오\)).
 
 
 **TDM**(, 약칭 , )은 [마카오](../Page/마카오.md "wikilink")의 [공영 방송국이다](../Page/공영_방송.md "wikilink"). [1982년](../Page/1982년.md "wikilink") [1월 1일에](../Page/1월_1일.md "wikilink") 포르투갈의 행정부에 의해 설립되었다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ATV 6 ](https://ko.wikipedia.org/wiki/ATV_6_).
+> This article is converted from Wikipedia: [ATV 6시 뉴스](https://ko.wikipedia.org/wiki/ATV_6시_뉴스).
 
 
 **aTV 6시 뉴스**(, )는 [홍콩](../Page/홍콩.md "wikilink") [aTV의](../Page/아시아_텔레비전.md "wikilink") 방송 채널 [aTV Home](https://ko.wikipedia.org/wiki/aTV_Home "wikilink")(本港台)과 [aTV Asia](https://ko.wikipedia.org/wiki/aTV_Asia "wikilink")(亞洲台)에서 매일 저녁 6시에 방송되는 [광둥어](../Page/광둥어.md "wikilink") 뉴스 프로그램이다.

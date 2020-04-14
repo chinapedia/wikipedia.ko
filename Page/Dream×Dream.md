@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [DreamDream](https://ko.wikipedia.org/wiki/DreamDream).
+> This article is converted from Wikipedia: [Dream×Dream](https://ko.wikipedia.org/wiki/Dream×Dream).
 
 
 〈**Dream×Dream**〉는 여성가수 [아이우치 리나의](../Page/아이우치_리나.md "wikilink") 16번째 [싱글](../Page/싱글_\(음악\).md "wikilink").

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ 4th   ](https://ko.wikipedia.org/wiki/_4th___).
+> This article is converted from Wikipedia: [테고마스 4th 라이브 테고마스의 청춘](https://ko.wikipedia.org/wiki/테고마스_4th_라이브_테고마스의_청춘).
 
 
 《**테고마스 4th 라이브 테고마스의 청춘**》()은, [테고마스](../Page/테고마스.md "wikilink")의 4번째 라이브 비디오 음반이다.

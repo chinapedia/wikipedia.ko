@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ G](https://ko.wikipedia.org/wiki/_G).
+> This article is converted from Wikipedia: [인피니티 G](https://ko.wikipedia.org/wiki/인피니티_G).
 
 
 **인피니티 G**(Infiniti G)는 [닛산 자동차의](../Page/닛산_자동차.md "wikilink") 고급 브랜드인 [인피니티](https://ko.wikipedia.org/wiki/인피니티 "wikilink")에서 판매된 중형 승용차이다. [2014년](../Page/2014년.md "wikilink")부터 [인피니티](https://ko.wikipedia.org/wiki/인피니티 "wikilink")의 새 작명법에 따라 차명이 Q40([세단](https://ko.wikipedia.org/wiki/세단 "wikilink"))와 Q60([쿠페](../Page/쿠페.md "wikilink"), [컨버터블](../Page/컨버터블.md "wikilink"))로 변경되었다.

@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [YMC](https://ko.wikipedia.org/wiki/YMC).
+> This article is converted from Wikipedia: [YMC엔터테인먼트](https://ko.wikipedia.org/wiki/YMC엔터테인먼트).
 
 
-**YMC엔터테인먼트**는 [대한민국](../Page/대한민국.md "wikilink")의 [연예기획사](https://ko.wikipedia.org/wiki/연예기획사 "wikilink")다. [2016년](../Page/2016년.md "wikilink") [10월](../Page/10월.md "wikilink") [드림티엔터테인먼트](https://ko.wikipedia.org/wiki/드림티엔터테인먼트 "wikilink")가 회사 지분 80%와 경영권을 매입하여 드림티 엔터의 자회사가 되었다.
+**YMC엔터테인먼트**는 [대한민국](../Page/대한민국.md "wikilink")의 [연예기획사](https://ko.wikipedia.org/wiki/연예기획사 "wikilink")다. [2016년](../Page/2016년.md "wikilink") [10월](../Page/10월.md "wikilink") [드림티엔터테인먼트](../Page/드림티엔터테인먼트.md "wikilink")가 회사 지분 80%와 경영권을 매입하여 드림티 엔터의 자회사가 되었다.
 
 ## 현재 소속 연예인
 
@@ -33,7 +33,7 @@
 ## 관련 소속사
 
   - [이매진아시아](../Page/이매진아시아.md "wikilink")
-  - [드림티엔터테인먼트](https://ko.wikipedia.org/wiki/드림티엔터테인먼트 "wikilink")
+  - [드림티엔터테인먼트](../Page/드림티엔터테인먼트.md "wikilink")
 
 ## 외부 링크
 

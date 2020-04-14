@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [YNB  ](https://ko.wikipedia.org/wiki/YNB__).
+> This article is converted from Wikipedia: [YNB 엔터테인먼트의 음반](https://ko.wikipedia.org/wiki/YNB_엔터테인먼트의_음반).
 
 
 이 문서는 [YNB 엔터테인먼트에서](../Page/YNB_엔터테인먼트.md "wikilink") 발매한 음반 목록이다.
@@ -88,7 +88,7 @@
 6.  [카라의](../Page/카라_\(음악_그룹\).md "wikilink") 멤버 [한승연](../Page/한승연.md "wikilink")도 앨범 참여.
 7.  [YB의](../Page/YB_\(밴드\).md "wikilink") 멤버 [윤도현](../Page/윤도현.md "wikilink"),[김장훈](../Page/김장훈.md "wikilink"),[대한민국스포츠합창단](https://ko.wikipedia.org/wiki/대한민국스포츠합창단 "wikilink")도 앨범 참여.
 8.  [린도](../Page/린_\(가수\).md "wikilink") 앨범 참여.
-9.  [술제이](https://ko.wikipedia.org/wiki/술제이 "wikilink"),[울티마](https://ko.wikipedia.org/wiki/울티마_\(가수\) "wikilink"),[조성범](https://ko.wikipedia.org/wiki/조성범 "wikilink")도 앨범 참여.
+9.  [술제이](../Page/술제이.md "wikilink"),[울티마](https://ko.wikipedia.org/wiki/울티마_\(가수\) "wikilink"),[조성범](https://ko.wikipedia.org/wiki/조성범 "wikilink")도 앨범 참여.
 10. 크나큰 미니 1집의 선공개곡.
 11. [옴므도](https://ko.wikipedia.org/wiki/옴므_\(음악_그룹\) "wikilink") 앨범 참여.
 12. [브라운 아이드 걸스의](../Page/브라운_아이드_걸스.md "wikilink") 멤버 [미료](../Page/미료.md "wikilink"),[허니패밀리](https://ko.wikipedia.org/wiki/허니패밀리 "wikilink")의 멤버 [주라](https://ko.wikipedia.org/wiki/주라 "wikilink"),[11호](https://ko.wikipedia.org/wiki/11호 "wikilink")도 앨범 참여.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FC    ](https://ko.wikipedia.org/wiki/FC____).
+> This article is converted from Wikipedia: [FC 인테르나치오날레 밀라노 선수 명단](https://ko.wikipedia.org/wiki/FC_인테르나치오날레_밀라노_선수_명단).
 
 
 이 목록은 **[FC 인테르나치오날레 밀라노](../Page/FC_인테르나치오날레_밀라노.md "wikilink")**에서 뛴 유명한 선수들을 적은 것이다. 대부분 공식 경기에 100경기 이상 출전한 선수들을 적었으나, 그에 약간 못 미치더라도 인테르의 역사에 큰 기여를 한 선수들을 적었다.

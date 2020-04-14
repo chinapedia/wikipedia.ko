@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [GAME](https://ko.wikipedia.org/wiki/GAME).
+> This article is converted from Wikipedia: [키스마이GAME](https://ko.wikipedia.org/wiki/키스마이GAME).
 
 
 《*' 키스마이GAME*'》()은, [2015년](../Page/2015년.md "wikilink") [3월 31일부터](../Page/3월_31일.md "wikilink") [TV 아사히](../Page/TV_아사히.md "wikilink") 계열에서 방송 될 예정인 [버라이어티 프로그램이다](../Page/버라이어티_쇼.md "wikilink").

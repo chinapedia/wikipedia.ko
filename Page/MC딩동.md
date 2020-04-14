@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [MC](https://ko.wikipedia.org/wiki/MC).
+> This article is converted from Wikipedia: [MC딩동](https://ko.wikipedia.org/wiki/MC딩동).
 
 
 **MC딩동**(본명 : **허용운**, [1979년](../Page/1979년.md "wikilink") [5월 5일](../Page/5월_5일.md "wikilink") \~ )은 [대한민국](../Page/대한민국.md "wikilink")의 [희극 배우이자](https://ko.wikipedia.org/wiki/희극_배우 "wikilink") [방송MC이다](https://ko.wikipedia.org/wiki/사회자 "wikilink"). 각종 쇼케이스와 행사에서 MC로 활약하며, 사전 MC계의 유재석으로 유명하다.\[1\]\[2\]

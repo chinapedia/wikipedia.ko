@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [AI-](https://ko.wikipedia.org/wiki/AI-).
+> This article is converted from Wikipedia: [AI-완전](https://ko.wikipedia.org/wiki/AI-완전).
 
 
 **AI-완전** ([영](../Page/영어.md "wikilink"): **AI-complete**)은 [인공지능](../Page/인공지능.md "wikilink")의 테마 중에서도 가장 곤란한 것을 가리키는 학술적이지 않은 용어이다. AI-완전으로 여겨지는 계산 문제를 푸는 것은 인공지능의 중심적 과제를 해결하는 것과 동의이며, 인간과 동일한 정도로 지적인 컴퓨터를 낳게 된다. 이 용어는 [계산 복잡도 이론의](../Page/계산_복잡도_이론.md "wikilink") [NP-완전](../Page/NP-완전.md "wikilink") 등의 유추이며, 계산 complex system 이론에서의 '완전성'이란, 그 [복잡도 종류에서](../Page/복잡도_종류.md "wikilink") 가장 어려운 문제를 가리킨다. 1988년, John Mallery는 이 용어를 낳은 것이 Fanya S. Montalvo이라 말했다. 초기의 용례로서는 1987년에 Erik Mueller의 학위 논문으로 사용되어 1991년에는 [에릭 레이몬드의](https://ko.wikipedia.org/wiki/에릭_레이몬드 "wikilink") [특수 용어 파일에](https://ko.wikipedia.org/wiki/특수_용어_파일 "wikilink") 수록되고 있다.

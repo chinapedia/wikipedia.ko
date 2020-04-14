@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ SE](https://ko.wikipedia.org/wiki/_SE).
+> This article is converted from Wikipedia: [매킨토시 SE](https://ko.wikipedia.org/wiki/매킨토시_SE).
 
 
 **매킨토시 SE**(Macintosh SE)는 [1987년](../Page/1987년.md "wikilink") [3월 2일](../Page/3월_2일.md "wikilink")\[1\]\[2\]에 [매킨토시 II와](../Page/매킨토시_II.md "wikilink") 함께 출시된 [매킨토시](../Page/매킨토시.md "wikilink") 컴퓨터이다. 매킨토시 SE 시리즈의 첫 모델이며 [매킨토시 II의](../Page/매킨토시_II.md "wikilink") 출시 이후로 발매된 첫 [컴팩트 매킨토시이기도](https://ko.wikipedia.org/wiki/컴팩트_매킨토시 "wikilink") 하다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Pip \( \)](https://ko.wikipedia.org/wiki/Pip_\(_\)).
+> This article is converted from Wikipedia: [Pip \(패키지 관리자\)](https://ko.wikipedia.org/wiki/Pip_\(패키지_관리자\)).
 
 
 **pip**는 [파이썬](../Page/파이썬.md "wikilink")으로 작성된 패키지 소프트웨어를 설치 · 관리하는 패키지 관리 시스템이다. Python Package Index (PyPI)에서 많은 [파이썬](../Page/파이썬.md "wikilink") 패키지를 볼 수 있다. [파이썬](../Page/파이썬.md "wikilink") 2.7.9 이후 버전과 [파이썬](../Page/파이썬.md "wikilink") 3.4 이후 버전은 pip를 기본적으로 포함한다.

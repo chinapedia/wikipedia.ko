@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ SK  ](https://ko.wikipedia.org/wiki/_SK__).
+> This article is converted from Wikipedia: [수성 SK 리더스 뷰](https://ko.wikipedia.org/wiki/수성_SK_리더스_뷰).
 
 
 **수성 SK 리더스 뷰**()는 [대한민국](../Page/대한민국.md "wikilink") [대구광역시](../Page/대구광역시.md "wikilink") [수성구](../Page/수성구.md "wikilink") [두산동](https://ko.wikipedia.org/wiki/두산동 "wikilink")에 위치한 초고층 주상복합 [아파트](../Page/아파트.md "wikilink") 단지이다. 7개의 동과 788세대로 이루어져 있으며 높이는 103동, 105동이 186m로 현재 대구광역시에서 가장 높은 건물이다. 난방 방식은 개별난방이자 도시가스로 되어 있다. [2010년](../Page/2010년.md "wikilink")에 완공 당시 대구에서 가장 높은 건물이 되었다.\[1\]

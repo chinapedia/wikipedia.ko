@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TV](https://ko.wikipedia.org/wiki/TV).
+> This article is converted from Wikipedia: [봉황TV](https://ko.wikipedia.org/wiki/봉황TV).
 
 
 **봉황TV**(, 凤凰卫视 , )는 [홍콩](../Page/홍콩.md "wikilink")의 위성 텔레비전 방송국이다. 정식 명칭은 **봉황위시공고유한공사**(, )이다.
@@ -7,7 +7,7 @@
 
 봉황TV의 전신은 [1991년](../Page/1991년.md "wikilink") [10월 21일에](../Page/10월_21일.md "wikilink") 개국하였던 [STAR TV의](../Page/STAR_TV.md "wikilink") 香港衛星電視中文台(衛視中文台)\[1\] 였다. 이 채널을 토대로 [1996년](../Page/1996년.md "wikilink") [3월 31일에](../Page/3월_31일.md "wikilink") 鳳凰衛視中文台란 이름으로 독립하였다.
 
-미국 [폭스 코퍼레이션과](https://ko.wikipedia.org/wiki/폭스_코퍼레이션 "wikilink") [인민해방군](https://ko.wikipedia.org/wiki/인민해방군 "wikilink")의 매체 관계자인 [류청러](https://ko.wikipedia.org/wiki/류청러 "wikilink")(劉長樂)에 의해 설립되었으며, [폭스 코퍼레이션이](https://ko.wikipedia.org/wiki/폭스_코퍼레이션 "wikilink") 17.6%, [중국중앙전시대](https://ko.wikipedia.org/wiki/중국중앙전시대 "wikilink")이 10%의 지분을 가지고 있어서\[2\] 보도 면에서 보수 및 친중 성향을 띄고 있다. 현재 [STAR TV와](../Page/STAR_TV.md "wikilink") [월트 디즈니 컴퍼니에](../Page/월트_디즈니_컴퍼니.md "wikilink") 대주주
+미국 [폭스 코퍼레이션과](../Page/폭스_코퍼레이션.md "wikilink") [인민해방군](https://ko.wikipedia.org/wiki/인민해방군 "wikilink")의 매체 관계자인 [류청러](https://ko.wikipedia.org/wiki/류청러 "wikilink")(劉長樂)에 의해 설립되었으며, [폭스 코퍼레이션이](../Page/폭스_코퍼레이션.md "wikilink") 17.6%, [중국중앙전시대](https://ko.wikipedia.org/wiki/중국중앙전시대 "wikilink")이 10%의 지분을 가지고 있어서\[2\] 보도 면에서 보수 및 친중 성향을 띄고 있다. 현재 [STAR TV와](../Page/STAR_TV.md "wikilink") [월트 디즈니 컴퍼니에](../Page/월트_디즈니_컴퍼니.md "wikilink") 대주주
 
 본사는 [홍콩](../Page/홍콩.md "wikilink") [신제](../Page/신제.md "wikilink") [다푸 구에](https://ko.wikipedia.org/wiki/다푸_구 "wikilink") 위치해 있으며 중국의 [베이징](https://ko.wikipedia.org/wiki/베이징 "wikilink"), [선전](https://ko.wikipedia.org/wiki/선전_시 "wikilink"), [상하이](https://ko.wikipedia.org/wiki/상하이 "wikilink")를 비롯하여 [일본](../Page/일본.md "wikilink"), [미국](../Page/미국.md "wikilink"), [영국](../Page/영국.md "wikilink"), [프랑스](../Page/프랑스.md "wikilink"), [러시아](../Page/러시아.md "wikilink"), [이란](../Page/이란.md "wikilink"), [오스트레일리아](../Page/오스트레일리아.md "wikilink")에 지국을 설치하였다.
 

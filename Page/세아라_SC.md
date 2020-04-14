@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ SC](https://ko.wikipedia.org/wiki/_SC).
+> This article is converted from Wikipedia: [세아라 SC](https://ko.wikipedia.org/wiki/세아라_SC).
 
 
 **세아라 스포르팅 클루브**()는 [브라질](../Page/브라질.md "wikilink")의 [세아라주](../Page/세아라주.md "wikilink") [포르탈레자](../Page/포르탈레자.md "wikilink")를 연고지로 하는 [축구](../Page/축구.md "wikilink") 클럽으로, [1914년](../Page/1914년.md "wikilink") [6월 2일에](../Page/6월_2일.md "wikilink") 창단하였다. 세아라는 브라질 북동부 지역을 대표하는 클럽 중 하나이며, 구단의 최대 라이벌은 같은 연고지를 공유하는 [포르탈레자 EC이다](https://ko.wikipedia.org/wiki/포르탈레자_EC "wikilink"). [2018년](../Page/2018년.md "wikilink") 현재 브라질 전국 리그 최상위 [캄페오나투 브라질레이루 세리이 A와](https://ko.wikipedia.org/wiki/캄페오나투_브라질레이루_세리이_A "wikilink") 세아라 [주 리그](../Page/브라질의_주별_리그.md "wikilink") [캄페오나투 세아렌시에](https://ko.wikipedia.org/wiki/캄페오나투_세아렌시 "wikilink") 참여하고 있다.

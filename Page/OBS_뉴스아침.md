@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [OBS ](https://ko.wikipedia.org/wiki/OBS_).
+> This article is converted from Wikipedia: [OBS 뉴스아침](https://ko.wikipedia.org/wiki/OBS_뉴스아침).
 
 
 《**OBS 뉴스아침**》은 매주 [평일](https://ko.wikipedia.org/wiki/평일 "wikilink") 오전 7시 30분에 방송되는 [OBS경인TV](../Page/OBS경인TV.md "wikilink")의 뉴스 프로그램이다.

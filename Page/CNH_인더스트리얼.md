@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [CNH ](https://ko.wikipedia.org/wiki/CNH_).
+> This article is converted from Wikipedia: [CNH 인더스트리얼](https://ko.wikipedia.org/wiki/CNH_인더스트리얼).
 
 
 **CNH 인더스트리얼**(, )은 [유럽](../Page/유럽.md "wikilink")의 다국적 기업이다. 2012년 11월 [피아트 인더스트리얼과](https://ko.wikipedia.org/wiki/피아트_인더스트리얼 "wikilink") [CNH 글로벌이](https://ko.wikipedia.org/wiki/CNH_글로벌 "wikilink") 합병하여 탄생했다.\[1\]

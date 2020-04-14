@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [GOODGOODHAN KOYOTE](https://ko.wikipedia.org/wiki/GOODGOODHAN_KOYOTE).
 
 
-《**GOODGOODHAN KOYOTE**》는 [대한민국](../Page/대한민국.md "wikilink")의 혼성 음악 그룹 [코요태](https://ko.wikipedia.org/wiki/코요태 "wikilink")의 [EP 음반으로](../Page/익스텐디드_플레이.md "wikilink"), 2007년 《[Koyote Dance Best and 9.5](../Page/Koyote_Dance_Best_and_9.5.md "wikilink")》 이후 처음으로 모든 멤버가 참여한 음반이다. 앨범 타이틀은 '꿋꿋한 코요태'를 음차한 것으로, 《Koyote Dance Best and 9.5》 이후 멤버 [김종민](https://ko.wikipedia.org/wiki/김종민 "wikilink")의 군입대 · [빽가](https://ko.wikipedia.org/wiki/빽가 "wikilink")의 병치레 등으로 인한 공백기를 해체 없이 이겨낸 것을 나타낸 말이다.
+《**GOODGOODHAN KOYOTE**》는 [대한민국](../Page/대한민국.md "wikilink")의 혼성 음악 그룹 [코요태](../Page/코요태.md "wikilink")의 [EP 음반으로](../Page/익스텐디드_플레이.md "wikilink"), 2007년 《[Koyote Dance Best and 9.5](../Page/Koyote_Dance_Best_and_9.5.md "wikilink")》 이후 처음으로 모든 멤버가 참여한 음반이다. 앨범 타이틀은 '꿋꿋한 코요태'를 음차한 것으로, 《Koyote Dance Best and 9.5》 이후 멤버 [김종민](../Page/김종민.md "wikilink")의 군입대 · [빽가](../Page/빽가.md "wikilink")의 병치레 등으로 인한 공백기를 해체 없이 이겨낸 것을 나타낸 말이다.
 
 ## 개요
 

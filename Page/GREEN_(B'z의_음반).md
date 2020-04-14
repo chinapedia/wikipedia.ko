@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [GREEN \(B\'z \)](https://ko.wikipedia.org/wiki/GREEN_\(B\'z_\)).
+> This article is converted from Wikipedia: [GREEN \(B\'z의 음반\)](https://ko.wikipedia.org/wiki/GREEN_\(B\'z의_음반\)).
 
 
 《**GREEN**》은 [일본](../Page/일본.md "wikilink")의 [음악 유닛](https://ko.wikipedia.org/wiki/음악_유닛 "wikilink") [B'z](../Page/B'z.md "wikilink")가 [2002년](../Page/2002년.md "wikilink") [7월 3일에](../Page/7월_3일.md "wikilink") [버밀리온 레코드에서](https://ko.wikipedia.org/wiki/버밀리온_레코드 "wikilink") 발매한 12번째 [정규 음반이다](../Page/정규_음반.md "wikilink").
@@ -19,10 +19,10 @@ B'z의 정규 음반에서는 처음으로 [디지팩](https://ko.wikipedia.org/
 
 ## 수록곡
 
-1.  **STAY GREEN \~미성숙한 여행은 멈추지 않아\~** ()
+1.  **STAY GREEN \~미성숙한 여행은 멈추지 않아\~**()
       -
         [PV에서는](https://ko.wikipedia.org/wiki/프로모션_비디오 "wikilink") [리무진](../Page/리무진.md "wikilink")의 보넷에 앉은 [이나바 코시가](https://ko.wikipedia.org/wiki/이나바_코시 "wikilink") 부르고 있다.
-2.  **[뜨거운 고동의 끝](https://ko.wikipedia.org/wiki/뜨거운_고동의_끝 "wikilink")** ()
+2.  **[뜨거운 고동의 끝](https://ko.wikipedia.org/wiki/뜨거운_고동의_끝 "wikilink")**()
       -
         33번째 싱글
         전 곡의 종료에서 사이를 두지 않고 곡이 시작된다.
@@ -41,7 +41,7 @@ B'z의 정규 음반에서는 처음으로 [디지팩](https://ko.wikipedia.org/
       -
         31번째 싱글의 앨범 버전
         CD 케이스의 표지에는 “ultra soul”라고만 표기되지 않았지만, 가사 카드의 곡명 표기는 “(Alternative Guitar Solo ver.)”로 기재되어 있다.
-8.  **아름다운 사랑** ()
+8.  **아름다운 사랑**()
       -
         원형은 전 앨범 《ELEVEN》 때에 존재했고, 〈ultra soul〉와 같은 시기에 완성되어 있었다.
 9.  **Everlasting**

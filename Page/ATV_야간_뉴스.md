@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ATV  ](https://ko.wikipedia.org/wiki/ATV__).
+> This article is converted from Wikipedia: [ATV 야간 뉴스](https://ko.wikipedia.org/wiki/ATV_야간_뉴스).
 
 
 **aTV 야간 뉴스**(, )는 [aTV에서](../Page/아시아_텔레비전.md "wikilink") 방송되는 마감 뉴스 프로그램이다. 광둥어판과 영어판으로 나뉘어 방송한다.

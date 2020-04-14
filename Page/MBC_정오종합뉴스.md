@@ -1,18 +1,12 @@
-> This article is converted from Wikipedia: [MBC ](https://ko.wikipedia.org/wiki/MBC_).
+> This article is converted from Wikipedia: [MBC 정오종합뉴스](https://ko.wikipedia.org/wiki/MBC_정오종합뉴스).
 
 
-**MBC 정오종합뉴스**는 [MBC 표준FM에서](../Page/MBC_표준FM.md "wikilink") 매일 낮 12시에 방송되는 낮 뉴스 프로그램이다. [1991년](../Page/1991년.md "wikilink") [10월 1일부터](../Page/10월_1일.md "wikilink") 매일 낮 12시에 **MBC 정오뉴스**로 신설되었다. 이후 [2018년](../Page/2018년.md "wikilink") [1월 29일부터](../Page/1월_29일.md "wikilink") 새해 개편으로 현재의 명칭으로 변경되었다가 [2018년](../Page/2018년.md "wikilink") [8월 31일부터](../Page/8월_31일.md "wikilink") **MBC 정오뉴스**로 명칭이 환원되었고, [2018년](../Page/2018년.md "wikilink") [10월 8일부터](../Page/10월_8일.md "wikilink") 현재의 명칭으로 다시 환원되었다.
+**MBC 정오종합뉴스**는 [MBC 표준FM에서](../Page/MBC_표준FM.md "wikilink") 매일 낮 12시에 방송되는 [MBC 표준FM의](../Page/MBC_표준FM.md "wikilink") 낮 뉴스 프로그램이다.
 
-## 진행자
+## 기획 의도 / 개요
 
-### 평일
-
-  - [김상호](../Page/김상호_\(1969년\).md "wikilink") 아나운서 (남)
-  - [류수민](../Page/류수민.md "wikilink") 아나운서 (여)
-
-### 주말
-
-  - 무작위
+  - [1991년](../Page/1991년.md "wikilink") [10월 1일부터](../Page/10월_1일.md "wikilink") 매일 낮 12시에 **MBC 정오뉴스**로 신설되었다. 이후 [2018년](../Page/2018년.md "wikilink") [1월 29일부터](../Page/1월_29일.md "wikilink") 새해 개편으로 현재의 명칭으로 변경되었다가 [2018년](../Page/2018년.md "wikilink") [8월 31일부터](../Page/8월_31일.md "wikilink") **MBC 정오뉴스**로 명칭이 환원되었고, [2018년](../Page/2018년.md "wikilink") [10월 8일부터](../Page/10월_8일.md "wikilink") 현재의 명칭으로 다시 환원되었다.
+  - 편성표에는 예전처럼 **MBC 정오뉴스**로 표현된다.
 
 ## 방송 시간
 
@@ -52,6 +46,17 @@
 </tbody>
 </table>
 
+## 앵커
+
+### 평일
+
+  - [유재용](https://ko.wikipedia.org/wiki/유재용 "wikilink") 논설위원 (남)
+  - 무작위 (여)
+
+### 주말
+
+  - 무작위
+
 ## 지역 방송국 프로그램
 
 | 방송국                                               | 프로그램 타이틀            | 주중 진행자                                              |
@@ -82,8 +87,7 @@
   - [cpbc 정오종합뉴스](https://ko.wikipedia.org/wiki/cpbc_정오종합뉴스 "wikilink") (평일) ([cpbc 가톨릭평화방송](../Page/가톨릭평화방송.md "wikilink"))
   - [BBS 정오종합뉴스](https://ko.wikipedia.org/wiki/BBS_정오종합뉴스 "wikilink") (평일) ([BBS 불교방송](../Page/불교방송.md "wikilink"))
   - 경인방송 정오뉴스 (평일) ([경인방송](../Page/경인방송.md "wikilink"))
-  - [TBS 정오종합뉴스](https://ko.wikipedia.org/wiki/TBS_정오종합뉴스 "wikilink") ([TBS 교통방송](../Page/교통방송.md "wikilink"))
-  - [경기방송 정오종합뉴스](https://ko.wikipedia.org/wiki/경기방송_정오종합뉴스 "wikilink") (주말) ([KFM 경기방송](../Page/경기방송.md "wikilink"))
+  - [TBS 정오종합뉴스](https://ko.wikipedia.org/wiki/TBS_정오종합뉴스 "wikilink") ([TBS 교통방송](https://ko.wikipedia.org/wiki/TBS_\(대한민국의_방송사\) "wikilink"))
 
 ## 외부 링크
 

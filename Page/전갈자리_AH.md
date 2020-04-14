@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ AH](https://ko.wikipedia.org/wiki/_AH).
+> This article is converted from Wikipedia: [전갈자리 AH](https://ko.wikipedia.org/wiki/전갈자리_AH).
 
 
 **전갈자리 AH**는 [전갈자리](../Page/전갈자리.md "wikilink") 방향으로 지구로부터 약 1만 2천 광년 떨어진 곳에 있는 [적색 초거성이다](https://ko.wikipedia.org/wiki/적색_초거성 "wikilink"). 이 별은 발견된 항성 중 [그 크기가 매우 거대한](https://ko.wikipedia.org/wiki/반지름순_별_목록 "wikilink") 반열에 들어가는데 구체적 크기는 태양의 1287\~1535배에 이른다.\[1\]

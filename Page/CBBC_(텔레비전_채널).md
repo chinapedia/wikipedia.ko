@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [CBBC \( \)](https://ko.wikipedia.org/wiki/CBBC_\(_\)).
+> This article is converted from Wikipedia: [CBBC \(텔레비전 채널\)](https://ko.wikipedia.org/wiki/CBBC_\(텔레비전_채널\)).
 
 
 그레이터맨체스터 주 솔퍼드)

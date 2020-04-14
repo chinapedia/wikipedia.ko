@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [ pt.1](https://ko.wikipedia.org/wiki/_pt.1).
+> This article is converted from Wikipedia: [화양연화 pt.1](https://ko.wikipedia.org/wiki/화양연화_pt.1).
 
 
-'''''화양연화 pt.1 '''''는 대한민국의 남성 그룹 [방탄소년단](../Page/방탄소년단.md "wikilink")의 세 번째 한국 미니 음반이다.\[1\] 2015년 4월 29일에 빅히트 엔터테인먼트를 통해 발매되었다.
+《'''''화양연화 pt.1 '''''》는 대한민국의 남성 그룹 [방탄소년단](../Page/방탄소년단.md "wikilink")의 세 번째 한국 미니 음반이다.\[1\] 2015년 4월 29일에 빅히트 엔터테인먼트를 통해 발매되었다.
 
 ## 수록곡
 

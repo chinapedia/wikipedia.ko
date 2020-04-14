@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [BNK](https://ko.wikipedia.org/wiki/BNK).
+> This article is converted from Wikipedia: [BNK금융그룹](https://ko.wikipedia.org/wiki/BNK금융그룹).
 
 
 **BNK금융그룹**은 2011년 3월 15일에 설립된 대한민국 최초의 [지방은행](../Page/지방은행.md "wikilink") 금융지주회사다.

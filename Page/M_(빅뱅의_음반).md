@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [M \( \)](https://ko.wikipedia.org/wiki/M_\(_\)).
+> This article is converted from Wikipedia: [M \(빅뱅의 음반\)](https://ko.wikipedia.org/wiki/M_\(빅뱅의_음반\)).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:M_cover_Bigbang.jpg "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:BigBang_-_M_\(White_Version\).jpg "wikilink") 〈**M**〉은 대한민국의 음악 그룹 [빅뱅의](../Page/빅뱅_\(음악_그룹\).md "wikilink") 네 번째 싱글 음반으로 "[MADE](../Page/MADE_\(빅뱅의_음반\).md "wikilink") 시리즈"의 첫 싱글 음반이다. 또한 3년 동안의 공백 후 발매 되는 컴백 앨범이자 그들에게는 9년만의 한국에서 발매되는 싱글 음반이기도 하다.

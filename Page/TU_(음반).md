@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TU \(\)](https://ko.wikipedia.org/wiki/TU_\(\)).
+> This article is converted from Wikipedia: [TU \(음반\)](https://ko.wikipedia.org/wiki/TU_\(음반\)).
 
 
 《**TU**》(투)는, [도모토 쯔요시의](../Page/도모토_츠요시.md "wikilink") 통상 9번째 [정규 음반이다](../Page/정규_음반.md "wikilink").

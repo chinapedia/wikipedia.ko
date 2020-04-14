@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TFC \( \)](https://ko.wikipedia.org/wiki/TFC_\(_\)).
+> This article is converted from Wikipedia: [TFC \(종합격투기 단체\)](https://ko.wikipedia.org/wiki/TFC_\(종합격투기_단체\)).
 
 
 **TFC**(Top Fighting Championship)는 [대한민국](../Page/대한민국.md "wikilink")을 기반으로 하는 [종합격투기](../Page/종합격투기.md "wikilink") 대회 단체이다. [SPOTV+를](https://ko.wikipedia.org/wiki/SPO_TV+ "wikilink") 통해 생중계된다.

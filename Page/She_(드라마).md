@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [She \(\)](https://ko.wikipedia.org/wiki/She_\(\)).
+> This article is converted from Wikipedia: [She \(드라마\)](https://ko.wikipedia.org/wiki/She_\(드라마\)).
 
 
 《**She**》는, [2015년](../Page/2015년.md "wikilink") [4월 18일부터](../Page/4월_18일.md "wikilink") [5월 16일까지](../Page/5월_16일.md "wikilink") [매주 토요일 23:40 \~ 24:05에](../Page/후지_TV_토드라.md "wikilink") [후지 TV](../Page/후지_TV.md "wikilink") [계열에서](../Page/후지_네트워크.md "wikilink") 방송된 [텔레비전 드라마이다](https://ko.wikipedia.org/wiki/일본_드라마 "wikilink"). 주연은 [마츠오카 마유](../Page/마츠오카_마유.md "wikilink").

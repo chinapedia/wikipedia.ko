@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
+> This article is converted from Wikipedia: [맥스 FC](https://ko.wikipedia.org/wiki/맥스_FC).
 
 
 **맥스 FC** (**MAX FC**; MAX Fighting Championship)는 [대한민국](../Page/대한민국.md "wikilink")의 최대 입식 격투기 단체이다. [IB 스포츠](https://ko.wikipedia.org/wiki/IB_스포츠 "wikilink"), [네이버 TV](https://ko.wikipedia.org/wiki/네이버_TV "wikilink"), [아프리카TV](../Page/아프리카TV.md "wikilink")를 통해 생중계되고 있으며, [JTBC3 폭스 스포츠에서](../Page/JTBC3_폭스_스포츠.md "wikilink") 지난 대회를 녹화방송한다. 다양한 기획으로 대중에게 어필하고 있다.\[1\]\[2\]\[3\]대한민국 격투기 단체 처음으로 [랭킹시스템](https://sports.news.naver.com/general/news/read.nhn?oid=468&aid=0000426047) 도입하였다.

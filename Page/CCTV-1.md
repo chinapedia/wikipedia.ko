@@ -49,7 +49,7 @@
 
   -
 
-[분류:중국중앙방송](https://ko.wikipedia.org/wiki/분류:중국중앙방송 "wikilink") [분류:1958년 설립된 텔레비전 방송국과 채널](https://ko.wikipedia.org/wiki/분류:1958년_설립된_텔레비전_방송국과_채널 "wikilink")
+[분류:중국중앙방송](https://ko.wikipedia.org/wiki/분류:중국중앙방송 "wikilink") [분류:국제방송](https://ko.wikipedia.org/wiki/분류:국제방송 "wikilink") [분류:1958년 설립된 텔레비전 방송국과 채널](https://ko.wikipedia.org/wiki/분류:1958년_설립된_텔레비전_방송국과_채널 "wikilink")
 
 1.
 2.

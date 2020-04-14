@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  X](https://ko.wikipedia.org/wiki/__X).
+> This article is converted from Wikipedia: [모탈 컴뱃 X](https://ko.wikipedia.org/wiki/모탈_컴뱃_X).
 
 
 《**모탈 컴뱃 X**》(X를 "엑스'라고 발음함"\[1\])은 네더렐름 스튜디오에 의해 개발중인 [격투](https://ko.wikipedia.org/wiki/격투_게임 "wikilink") [비디오 게임이다](../Page/비디오_게임.md "wikilink"). 이 게임은 *[모탈 컴뱃](../Page/모탈_컴뱃.md "wikilink")* 시리즈의 열번째 메인 타이틀("X"는 [로마 숫자에서](../Page/로마_숫자.md "wikilink") 10를 의미하는 것을 영어 철자로 옮겨적은 것)이다. 이 게임의 출시는 2015년 4월 14일에 [플레이스테이션 4](../Page/플레이스테이션_4.md "wikilink"), [엑스박스 원과](../Page/엑스박스_원.md "wikilink") [마이크로소프트 윈도로](https://ko.wikipedia.org/wiki/마이크로소프트_윈도 "wikilink") 출시되었다. 이후 하이 볼티지 스튜디오에 의해 [플레이스테이션 3와](../Page/플레이스테이션_3.md "wikilink") [엑스박스 360로](../Page/엑스박스_360.md "wikilink") 포팅될 예정이었으나 취소되었다. 모바일 버전은 [iOS](https://ko.wikipedia.org/wiki/iOS "wikilink")와 [안드로이드로](../Page/안드로이드_\(운영_체제\).md "wikilink") 네더렐름 스튜디오의 모바일 팀에 의해 출시되었다.

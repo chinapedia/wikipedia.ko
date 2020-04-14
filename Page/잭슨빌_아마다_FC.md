@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  FC](https://ko.wikipedia.org/wiki/__FC).
+> This article is converted from Wikipedia: [잭슨빌 아마다 FC](https://ko.wikipedia.org/wiki/잭슨빌_아마다_FC).
 
 
 **잭슨빌 아마다 FC**(Jacksonville Armada FC)는 [2013년](../Page/2013년.md "wikilink")에 창단된 [미국](../Page/미국.md "wikilink")의 프로 축구팀으로 [플로리다주](../Page/플로리다주.md "wikilink") [잭슨빌](../Page/잭슨빌.md "wikilink")을 연고지로 하고 있다.

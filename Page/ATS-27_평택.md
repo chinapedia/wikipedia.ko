@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ATS-27 ](https://ko.wikipedia.org/wiki/ATS-27_).
+> This article is converted from Wikipedia: [ATS-27 평택](https://ko.wikipedia.org/wiki/ATS-27_평택).
 
 
 **ATS-27 평택함**은 [대한민국 해군의](../Page/대한민국_해군.md "wikilink") [구난함](https://ko.wikipedia.org/wiki/구난함 "wikilink")이다. [미 해군이](https://ko.wikipedia.org/wiki/미_해군 "wikilink") 쓰던 중고 구난함을 도입한 것이다. [1968년](../Page/1968년.md "wikilink")에 건조되어 [1972년](../Page/1972년.md "wikilink") 미 해군에 취역, 1996년 퇴역과 동시에 대한민국 해군에 재취역했다가 [2016년](../Page/2016년.md "wikilink")에 최종적으로 퇴역했다.

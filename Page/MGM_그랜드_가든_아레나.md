@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [MGM   ](https://ko.wikipedia.org/wiki/MGM___).
+> This article is converted from Wikipedia: [MGM 그랜드 가든 아레나](https://ko.wikipedia.org/wiki/MGM_그랜드_가든_아레나).
 
 
 **MGM 그랜드 가든 아레나**()는 [미국](../Page/미국.md "wikilink") [네바다주](../Page/네바다주.md "wikilink") [라스베이거스](../Page/라스베이거스.md "wikilink") [MGM 그랜드 라스베이거스의](https://ko.wikipedia.org/wiki/MGM_그랜드_라스베이거스 "wikilink") 경기 시설이다. 경기장의 수용 인원은 17,157명이다.

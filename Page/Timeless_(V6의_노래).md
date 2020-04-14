@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Timeless \(V6 \)](https://ko.wikipedia.org/wiki/Timeless_\(V6_\)).
+> This article is converted from Wikipedia: [Timeless \(V6의 노래\)](https://ko.wikipedia.org/wiki/Timeless_\(V6의_노래\)).
 
 
 〈**Timeless**〉는, [V6의](../Page/V6_\(음악_그룹\).md "wikilink") 45번째 [싱글이다](../Page/싱글_\(음악\).md "wikilink").

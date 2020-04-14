@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ E\&C ](https://ko.wikipedia.org/wiki/_E\&C_).
+> This article is converted from Wikipedia: [포스코 E\&C 타워](https://ko.wikipedia.org/wiki/포스코_E\&C_타워).
 
 
 **포스코 E\&C타워**()는 [대한민국](../Page/대한민국.md "wikilink") [인천광역시](https://ko.wikipedia.org/wiki/인천광역시 "wikilink") [연수구](../Page/연수구.md "wikilink") [송도국제도시](../Page/송도국제도시.md "wikilink")에 위치한 오피스 빌딩이다.

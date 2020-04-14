@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [YB  ](https://ko.wikipedia.org/wiki/YB__).
+> This article is converted from Wikipedia: [YB의 음반 목록](https://ko.wikipedia.org/wiki/YB의_음반_목록).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:YB_\(band\).JPG "wikilink") \]\]

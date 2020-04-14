@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ OB2](https://ko.wikipedia.org/wiki/_OB2).
+> This article is converted from Wikipedia: [백조자리 OB2](https://ko.wikipedia.org/wiki/백조자리_OB2).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:X-ray_Satellites_Monitor_the_Clashing_Winds_of_a_Colossal_Binary.ogv "wikilink")

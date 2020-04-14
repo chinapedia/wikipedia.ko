@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  OST Part 1](https://ko.wikipedia.org/wiki/__OST_Part_1).
+> This article is converted from Wikipedia: [부탁해요 캡틴 OST Part 1](https://ko.wikipedia.org/wiki/부탁해요_캡틴_OST_Part_1).
 
 
 《**부탁해요 캡틴 OST Part 1**》는 [SBS](../Page/SBS.md "wikilink") 드라마 스페셜 [부탁해요 캡틴의](../Page/부탁해요_캡틴.md "wikilink") 사운드트랙 음반이며, B1A4가 발매한 첫 사운드트랙 음반이다.\[1\]

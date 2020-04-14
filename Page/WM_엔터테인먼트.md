@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [WM ](https://ko.wikipedia.org/wiki/WM_).
+> This article is converted from Wikipedia: [WM 엔터테인먼트](https://ko.wikipedia.org/wiki/WM_엔터테인먼트).
 
 
 **WM 엔터테인먼트**는 [대한민국](../Page/대한민국.md "wikilink")의 [연예기획사](https://ko.wikipedia.org/wiki/연예기획사 "wikilink")이다. 2011년 4월 23일에 데뷔한 5인조 보이 그룹 [B1A4](../Page/B1A4.md "wikilink")를 비롯하여, 2015년 4월 21일 데뷔한 7인조 걸 그룹 [오마이걸](../Page/오마이걸.md "wikilink"), 2017년 8월 3일 데뷔한 6인조 보이 그룹 [온앤오프](../Page/온앤오프.md "wikilink"), 2018년 5월 10일 데뷔한 [이채연이](../Page/이채연_\(가수\).md "wikilink") 소속되어 있다.
@@ -34,7 +34,7 @@
 | 2015년                                   | [오마이걸](../Page/오마이걸.md "wikilink")                    | 효정, 미미, 유아, 승희, 지호, 비니, 아린 | 2015년              | 효정       |    |
 | 2017년                                   | [아이](../Page/아이_\(가수\).md "wikilink")                 | 솔로                         | 아이                 | 2017년    | 없음 |
 | [온앤오프](../Page/온앤오프.md "wikilink")      | 그룹                                                    | 효진, 이션, 제이어스, 와이엇, 유, MK   | 2017년              | 효진, 제이어스 |    |
-| 2018년                                   | [이채연](../Page/이채연_\(가수\).md "wikilink")               | 솔로                         | 이채연                | 2018년    | 없음 |
+| 2018년                                   | [이채연](../Page/이채연_\(가수\).md "wikilink")               | 아이즈원                       | 이채연                | 2018년    | 없음 |
 
 ## 디스코그래피
 

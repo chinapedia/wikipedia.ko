@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [SKOOL LUV AFFAIR SPECIAL ADDITION](https://ko.wikipedia.org/wiki/SKOOL_LUV_AFFAIR_SPECIAL_ADDITION).
 
 
-***SKOOL LUV AFFAIR SPECIAL ADDITION***는 대한민국의 남성 그룹 [방탄소년단](../Page/방탄소년단.md "wikilink")의 첫 번째 한국 리패키지 음반이다.\[1\] 2014년 5월 14일 로엔 엔터테인먼트를 통해 발매되었다.
+《***SKOOL LUV AFFAIR SPECIAL ADDITION***》는 대한민국의 남성 그룹 [방탄소년단](../Page/방탄소년단.md "wikilink")의 첫 번째 한국 리패키지 음반이다.\[1\] 2014년 5월 14일 로엔 엔터테인먼트를 통해 발매되었다.
 
 ## 트랙 리스트
 

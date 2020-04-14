@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:RefToolbarNoDialogs.js](https://ko.wikipedia.org/wiki/:RefToolbarNoDialogs.js).
+> This article is converted from Wikipedia: [미디어위키:RefToolbarNoDialogs.js](https://ko.wikipedia.org/wiki/미디어위키:RefToolbarNoDialogs.js).
 
 
 var numforms = 0; var wikEdAutoUpdateUrl; function refbuttons() {

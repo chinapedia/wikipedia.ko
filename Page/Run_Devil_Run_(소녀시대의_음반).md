@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Run Devil Run \( \)](https://ko.wikipedia.org/wiki/Run_Devil_Run_\(_\)).
+> This article is converted from Wikipedia: [Run Devil Run \(소녀시대의 음반\)](https://ko.wikipedia.org/wiki/Run_Devil_Run_\(소녀시대의_음반\)).
 
 
 《**Run Devil Run**》은 대한민국 걸 그룹 소녀시대의 두 번째 정규 음반 《[Oh\!](../Page/Oh!_\(소녀시대의_음반\).md "wikilink")》의 리패키지 음반이다. 2010년 3월 22일 발매되었다.

@@ -1,11 +1,11 @@
-> This article is converted from Wikipedia: [T. E. ](https://ko.wikipedia.org/wiki/T._E._).
+> This article is converted from Wikipedia: [T. E. 흄](https://ko.wikipedia.org/wiki/T._E._흄).
 
 
 **토머스 어니스트 흄**(Thomas Ernest Hulme, [1883년](../Page/1883년.md "wikilink") [9월 16일](../Page/9월_16일.md "wikilink") – [1917년](../Page/1917년.md "wikilink") 9월 28일)은 [영국](../Page/영국.md "wikilink")의 저술가이며 철학자이다.
 
 ## 생애
 
-[노스 스탓포드샤의](https://ko.wikipedia.org/wiki/노스_스탓포드샤 "wikilink") 엔돈에 있는 그랏톤 홀에서 태어난다. 뉴캐슬 언더 라임의 고등학교와 케임브리지의 센트 젼즈 컬리지에서 배우지만, 싸움에 연루되어 [1904년](../Page/1904년.md "wikilink") 3월에 퇴교 처분됐다. 2년 간을 런던에서 지냈고, [1906년](../Page/1906년.md "wikilink") 7월에는 캐나다에 가 3개월 체류했으며, [1907년](../Page/1907년.md "wikilink") 초에는 [브뤼셀](../Page/브뤼셀.md "wikilink")로 가서 수개월 간 영어를 가르치면서 프랑스어와 독일어를 공부했다. 1911년에는 볼로냐 철학 대회에 출석해, 1912년 초에 베르그송의 소개로 케임브리지에 재입학을 용인받지만, 곧 거기를 떠나, [베를린](../Page/베를린.md "wikilink")에 9개월 체류해 독일 철학과 심리학의 연구를 진행시켜 예술 역사가 빌헬름 보링거 (Wilhelm Worringer)의 저서 '추상과 감정 이입(Abstraktion und Einfühlung)'에 영향을 받았다. [1914년](../Page/1914년.md "wikilink")에 [제1차 세계 대전이](../Page/제1차_세계_대전.md "wikilink") 발발하면, 명예 포병 중대에 입대해, 그 해의 12월에 프랑스에 건넌다. [1915년](../Page/1915년.md "wikilink")의 봄에 받은 부상으로 회복하면, 영국 해군 포병대 첨부를 배명해, 그 연말에 전선에 돌아가, [1917년](../Page/1917년.md "wikilink") [9월 28일](../Page/9월_28일.md "wikilink") 뉴 폴 부근에서 [전사](https://ko.wikipedia.org/wiki/전사 "wikilink")했다.
+[노스 스탓포드샤의](https://ko.wikipedia.org/wiki/노스_스탓포드샤 "wikilink") 엔돈에 있는 그랏톤 홀에서 태어난다. 뉴캐슬 언더 라임의 고등학교와 케임브리지의 센트 젼즈 컬리지에서 배우지만, 싸움에 연루되어 [1904년](../Page/1904년.md "wikilink") 3월에 퇴교 처분됐다. 2년 간을 런던에서 지냈고, [1906년](../Page/1906년.md "wikilink") 7월에는 캐나다에 가 3개월 체류했으며, [1907년](../Page/1907년.md "wikilink") 초에는 [브뤼셀](../Page/브뤼셀.md "wikilink")로 가서 수개월 간 영어를 가르치면서 프랑스어와 독일어를 공부했다. 1911년에는 볼로냐 철학 대회에 출석해, 1912년 초에 베르그송의 소개로 케임브리지에 재입학을 용인받지만, 곧 거기를 떠나, [베를린](../Page/베를린.md "wikilink")에 9개월 체류해 독일 철학과 심리학의 연구를 진행시켜 예술 역사가 빌헬름 보링거 (Wilhelm Worringer)의 저서 '추상과 감정 이입(Abstraktion und Einfühlung)'에 영향을 받았다. [1914년](../Page/1914년.md "wikilink")에 [제1차 세계 대전이](../Page/제1차_세계_대전.md "wikilink") 발발하면, 명예 포병 중대에 입대해, 그 해의 12월에 프랑스에 건넌다. [1915년](../Page/1915년.md "wikilink")의 봄에 받은 부상으로 회복하면, 영국 해군 포병대 첨부를 배명해, 그 연말에 전선에 돌아가, [1917년](../Page/1917년.md "wikilink") [9월 28일](../Page/9월_28일.md "wikilink") 뉴 폴 부근에서 [전사](../Page/전사.md "wikilink")했다.
 
 ## 사상과 영향
 

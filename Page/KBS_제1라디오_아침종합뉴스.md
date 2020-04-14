@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KBS 1 ](https://ko.wikipedia.org/wiki/KBS_1_).
+> This article is converted from Wikipedia: [KBS 제1라디오 아침종합뉴스](https://ko.wikipedia.org/wiki/KBS_제1라디오_아침종합뉴스).
 
 
 **KBS 제1라디오 아침종합뉴스**는 [KBS 제1라디오에서](../Page/KBS_제1라디오.md "wikilink") 월요일 \~ 토요일 아침 7시에 방송되었던 라디오 뉴스 프로그램이다. [2018년](../Page/2018년.md "wikilink") [5월 26일에](../Page/5월_26일.md "wikilink") 종영되었다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [BBC ](https://ko.wikipedia.org/wiki/BBC_).
+> This article is converted from Wikipedia: [BBC 스코틀랜드](https://ko.wikipedia.org/wiki/BBC_스코틀랜드).
 
 
 **BBC 스코틀랜드**(, )는 [영국](../Page/영국.md "wikilink") [BBC](https://ko.wikipedia.org/wiki/BBC "wikilink")의 [스코틀랜드](../Page/스코틀랜드.md "wikilink") 지역 방송사이다.

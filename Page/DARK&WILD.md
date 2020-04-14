@@ -37,8 +37,6 @@
 
 ## 각주
 
-## 외부 링크
-
 [분류:2014년 음반](https://ko.wikipedia.org/wiki/분류:2014년_음반 "wikilink") [분류:방탄소년단의 음반](https://ko.wikipedia.org/wiki/분류:방탄소년단의_음반 "wikilink") [분류:K-pop 음반](https://ko.wikipedia.org/wiki/분류:K-pop_음반 "wikilink") [분류:대한민국의 팝 음반](https://ko.wikipedia.org/wiki/분류:대한민국의_팝_음반 "wikilink") [분류:대한민국의 음반](https://ko.wikipedia.org/wiki/분류:대한민국의_음반 "wikilink") [분류:한국어 음반](https://ko.wikipedia.org/wiki/분류:한국어_음반 "wikilink") [분류:빅히트 엔터테인먼트 음반](https://ko.wikipedia.org/wiki/분류:빅히트_엔터테인먼트_음반 "wikilink")
 
 1.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ITV   ](https://ko.wikipedia.org/wiki/ITV___).
+> This article is converted from Wikipedia: [ITV 뉴스 앳 텐](https://ko.wikipedia.org/wiki/ITV_뉴스_앳_텐).
 
 
 **ITV 뉴스 앳 텐**()은 [영국](../Page/영국.md "wikilink")의 [ITV](../Page/ITV_\(영국\).md "wikilink") 네트워크에서 제작하는 [뉴스](../Page/뉴스.md "wikilink") 프로그램이다. ITV 뉴스 앳 텐은 1967년 [ITN](../Page/ITN.md "wikilink") 뉴스 편집자인 [제프리 콕스](https://ko.wikipedia.org/wiki/제프리_콕스 "wikilink")(Geoffrey Cox)에 의해 시작되면서 현재까지 방송되고 있다.\[1\]

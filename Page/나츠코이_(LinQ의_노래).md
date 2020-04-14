@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ \(LinQ \)](https://ko.wikipedia.org/wiki/_\(LinQ_\)).
+> This article is converted from Wikipedia: [나츠코이 \(LinQ의 노래\)](https://ko.wikipedia.org/wiki/나츠코이_\(LinQ의_노래\)).
 
 
 〈**여름 사랑**〉(<span style="font-size:smaller;">,  </span>)은 2014년 7월 30일에 워너 뮤직 재팬에서 발매가 예정된 [LinQ](../Page/LinQ.md "wikilink")의 9번째이자, [메이저](https://ko.wikipedia.org/wiki/메이저 "wikilink") 4번째 [싱글이다](../Page/싱글_\(음악\).md "wikilink").
@@ -20,7 +20,7 @@
 1.  **여름 사랑**
       -
         작사: 야스다 타카유키, 작곡: YUMA, 편곡: 와타나베 야스시
-2.  **슈와슈와슈와리** ()
+2.  **슈와슈와슈와리**()
       -
         작사: 유키 레이카, 작곡: 키노시타 요스케, 편곡: Tak Miyazawa
 3.  **Sweet My Song**

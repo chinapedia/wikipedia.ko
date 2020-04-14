@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [UP](https://ko.wikipedia.org/wiki/UP).
+> This article is converted from Wikipedia: [必UP](https://ko.wikipedia.org/wiki/必UP).
 
 
-《**必UP**》은 [대한민국](../Page/대한민국.md "wikilink")의 혼성 음악 그룹 [코요태](https://ko.wikipedia.org/wiki/코요태 "wikilink")의 여덟 번째 [정규 음반이다](../Page/정규_음반.md "wikilink").
+《**必UP**》은 [대한민국](../Page/대한민국.md "wikilink")의 혼성 음악 그룹 [코요태](../Page/코요태.md "wikilink")의 여덟 번째 [정규 음반이다](../Page/정규_음반.md "wikilink").
 
 ## 개요
 

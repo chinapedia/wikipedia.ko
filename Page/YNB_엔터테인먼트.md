@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [YNB ](https://ko.wikipedia.org/wiki/YNB_).
+> This article is converted from Wikipedia: [YNB 엔터테인먼트](https://ko.wikipedia.org/wiki/YNB_엔터테인먼트).
 
 
 **YNB 엔터테인먼트**(YNB Entertainment)는 [대한민국](../Page/대한민국.md "wikilink")의 연예기획사다. 공동대표이사는 양승원과 방윤태 사장이었다. 2011년에 설립되어 2018년에 폐업하였다.

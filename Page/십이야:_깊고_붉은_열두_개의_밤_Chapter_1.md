@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:      Chapter 1](https://ko.wikipedia.org/wiki/:______Chapter_1).
+> This article is converted from Wikipedia: [십이야: 깊고 붉은 열두 개의 밤 Chapter 1](https://ko.wikipedia.org/wiki/십이야:_깊고_붉은_열두_개의_밤_Chapter_1).
 
 
 《**십이야: 깊고 붉은 열두 개의 밤 Chapter 1**》은 [2015년](../Page/2015년.md "wikilink")에 개봉한 [대한민국의](https://ko.wikipedia.org/wiki/대한민국_영화 "wikilink") 영화이다.

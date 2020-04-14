@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Time after time\~  \~](https://ko.wikipedia.org/wiki/Time_after_time\~__\~).
+> This article is converted from Wikipedia: [Time after time\~꽃잎 흩날리는 거리에서\~](https://ko.wikipedia.org/wiki/Time_after_time\~꽃잎_흩날리는_거리에서\~).
 
 
 〈**Time after time\~꽃잎 흩날리는 거리에서\~**〉()는 [일본](../Page/일본.md "wikilink") [가수](https://ko.wikipedia.org/wiki/가수 "wikilink") [쿠라키 마이의](../Page/쿠라키_마이.md "wikilink") 15번째 [CD 싱글로](https://ko.wikipedia.org/wiki/싱글_\(음악\)#CD_싱글 "wikilink") [2003년](../Page/2003년.md "wikilink") [3월 5일에](../Page/3월_5일.md "wikilink") [기자 스튜디오에서](https://ko.wikipedia.org/wiki/기자_스튜디오 "wikilink") 발매됐다.
@@ -7,7 +7,7 @@
 
 ## 수록곡
 
-1.  **Time after time\~꽃잎 흩날리는 거리에서\~** () (4:04)
+1.  **Time after time\~꽃잎 흩날리는 거리에서\~**() (4:04)
       - 작사: 쿠라키 마이, 작곡: [오노 아이카](https://ko.wikipedia.org/wiki/오노_아이카 "wikilink"), 편곡: Cybersound
 2.  **Natural** (4:30)
       - 작사: 쿠라키 마이, 작곡: 오노 아이카, 편곡: Cybersound

@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [KOYOTE.6](https://ko.wikipedia.org/wiki/KOYOTE.6).
 
 
-《**KOYOTE.6**》는 [대한민국](../Page/대한민국.md "wikilink")의 혼성 음악 그룹 [코요태](https://ko.wikipedia.org/wiki/코요태 "wikilink")의 여섯 번째 [정규 음반이다](../Page/정규_음반.md "wikilink"). 'KOYOTE.6'는 단순히 여섯 번째 정규 음반임을 나타내는 표식으로, 별도의 앨범 타이틀은 없다.
+《**KOYOTE.6**》는 [대한민국](../Page/대한민국.md "wikilink")의 혼성 음악 그룹 [코요태](../Page/코요태.md "wikilink")의 여섯 번째 [정규 음반이다](../Page/정규_음반.md "wikilink"). 'KOYOTE.6'는 단순히 여섯 번째 정규 음반임을 나타내는 표식으로, 별도의 앨범 타이틀은 없다.
 
-[빽가](https://ko.wikipedia.org/wiki/빽가 "wikilink")를 객원 멤버로 영입하여 활동하였다.
+[빽가](../Page/빽가.md "wikilink")를 객원 멤버로 영입하여 활동하였다.
 
 ## 개요
 
@@ -31,7 +31,7 @@
 
 ### 〈놀자〉
 
-본래 6집에 수록되어 멤버 [김종민](https://ko.wikipedia.org/wiki/김종민 "wikilink")이 해당 곡의 타악기 반주를 선보이기로 예정된 곡이었으나, 계획이 변경되어 5집 《[非常](../Page/비상_\(음반\).md "wikilink")》에 수록되었다.
+본래 6집에 수록되어 멤버 [김종민](../Page/김종민.md "wikilink")이 해당 곡의 타악기 반주를 선보이기로 예정된 곡이었으나, 계획이 변경되어 5집 《[非常](../Page/비상_\(음반\).md "wikilink")》에 수록되었다.
 
 ### 〈비밀〉
 

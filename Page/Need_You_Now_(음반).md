@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Need You Now \(\)](https://ko.wikipedia.org/wiki/Need_You_Now_\(\)).
+> This article is converted from Wikipedia: [Need You Now \(음반\)](https://ko.wikipedia.org/wiki/Need_You_Now_\(음반\)).
 
 
 《**Need You Now**》(니드 유 나우)는 2010년 1월 26일에 [캐피톨 내슈빌을](https://ko.wikipedia.org/wiki/:en:Capitol_Nashville "wikilink") 통해 발매된 미국 컨트리 가수 [레이디 앤터벨룸의](../Page/레이디_앤터벨룸.md "wikilink") 두번째 정규앨범이다. 발매된 첫 주에만 481,000장을 팔며 [빌보드 200의](../Page/빌보드_200.md "wikilink") 1위를 기록했다.
