@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [B ](https://ko.wikipedia.org/wiki/B_).
+> This article is converted from Wikipedia: [B형 간염](https://ko.wikipedia.org/wiki/B형_간염).
 
 
 **B형 간염**(Hepatitis B, HB)은 B형 간염 바이러스(HBV)에 의한 [전염성 질병이다](https://ko.wikipedia.org/wiki/전염성_질병 "wikilink").\[1\] 대부분의 사람들이 초기 감염동안에는 증상이 없다.\[2\] 일부의 사람들은 [구토](../Page/구토.md "wikilink"), [피로](../Page/피로.md "wikilink"), [복통](../Page/복통.md "wikilink") 등과 같은 증상으로 인한 급격한 발병을 겪기도 한다.\[3\] 흔히 이러한 증상들은 몇 주간 이어지며, 드물게 초기 감염으로 사망한다.\[4\]\[5\] 증상이 나타날 때까지 약 30\~180일이 걸린다.\[6\] 만성 질환을 앓고 있는 대부분의 사람들은 증상이 없으나 [간경화](https://ko.wikipedia.org/wiki/간경화 "wikilink") 및 [간암](../Page/간암.md "wikilink")이 발병할 수 있다.\[7\] 이러한 [합병증](https://ko.wikipedia.org/wiki/합병증 "wikilink")으로 인해 만성 질환 환자의 15\~25%가 사망한다.\[8\]

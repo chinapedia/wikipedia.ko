@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [GNU    ](https://ko.wikipedia.org/wiki/GNU____).
+> This article is converted from Wikipedia: [GNU 자유 문서 사용 허가서](https://ko.wikipedia.org/wiki/GNU_자유_문서_사용_허가서).
 
 
 **GNU 자유 문서 사용 허가서**(-自由文書使用許可書, GNU Free Documentation License, GNU FDL, **GFDL**, **GNU FDL**)는 일종의 [자유문서를](https://ko.wikipedia.org/wiki/자유_콘텐츠 "wikilink") 위한 [저작권](../Page/저작권.md "wikilink") 라이선스의 한 형태로서 [자유 소프트웨어 재단](../Page/자유_소프트웨어_재단.md "wikilink")(FSF, *Free Software Foundation*)에서 [GNU](../Page/GNU.md "wikilink")의 프로젝트를 위해서 착안되었다. GFDL에 따라 만든 문서는 자유롭게 복사, 수정, 재배포가 가능하며, 2차 저작물 역시 GFDL을 따라야 한다. GFDL을 따르는 문서는 기본적으로 무료로 배포되지만, 대량으로 제작된 경우 유료로 판매될 수도 있다. 현재 ‘GNU 자유 문서 사용 허가서’에 따라 추진 중인 프로젝트들 가운데 가장 큰 프로젝트로 손꼽히고 있는 것이 바로 [위키백과](../Page/위키백과.md "wikilink")다. 위키백과는 [크리에이티브 커먼즈](../Page/크리에이티브_커먼즈.md "wikilink")(CCL)와 GNU 자유 문서(GFDL)의 2중 라이선스를 따른다.

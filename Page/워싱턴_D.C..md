@@ -1,9 +1,9 @@
-> This article is converted from Wikipedia: [ D.C.](https://ko.wikipedia.org/wiki/_D.C.).
+> This article is converted from Wikipedia: [워싱턴 D.C.](https://ko.wikipedia.org/wiki/워싱턴_D.C.).
 
 
-**워싱턴 D.C.**((District of Columbia), )는 [미국](../Page/미국.md "wikilink")의 [수도](../Page/수도.md "wikilink")이다. 정식 명칭은 **컬럼비아 특별구**(, )이다. [조지 워싱턴과](../Page/조지_워싱턴.md "wikilink") [크리스토퍼 콜럼버스로부터](../Page/크리스토퍼_콜럼버스.md "wikilink") 이름을 지었다. 미국의 어느 [50개 주에도](../Page/미국의_주.md "wikilink") 속하지 않는 독립된 행정 구역이다. 좁지만, 국제적으로 막강한 정치적 영향력이 있는 세계 도시이며 금융 센터로서도 높은 중요성을 가진다. 수도로서의 기능을 완수할 수 있도록 디자인된 계획도시이다.
+**워싱턴 D.C.**((District of Columbia), )는 [미국](../Page/미국.md "wikilink")의 [수도](../Page/수도.md "wikilink")다. 정식 명칭은 **컬럼비아 특별구**(, )이다. [조지 워싱턴과](../Page/조지_워싱턴.md "wikilink") [크리스토퍼 콜럼버스에서](../Page/크리스토퍼_콜럼버스.md "wikilink") 이름을 가져왔다. 미국 어느 [50개 주에도](../Page/미국의_주.md "wikilink") 속하지 않는 독립 행정 구역이다. 좁지만, 국제적으로 막강한 정치적 영향력 있는 세계 도시이며, 금융 센터로서도 중요성 높다. 수도로서 기능하도록 디자인한 계획도시다.
 
-워싱턴 D.C.는 [포토맥 강](https://ko.wikipedia.org/wiki/포토맥_강 "wikilink") 북쪽 유역에 자리 잡고 있으며, 남서쪽으로 [버지니아주](../Page/버지니아주.md "wikilink")와 다른 쪽으로는 [메릴랜드주](../Page/메릴랜드주.md "wikilink")와 경계를 맞대고 있다. [1790년](../Page/1790년.md "wikilink")에 [조지 워싱턴](../Page/조지_워싱턴.md "wikilink") 대통령이 이곳을 수도로 정하고, 프랑스의 피에르 샤를 랑팡을 초청하여 새 수도의 설계를 의뢰하였다. 현재의 도로는 잘 정비되어 시원한 거리는 피에르 랑팡의 설계를 골격으로 하여 이어받은 것이다.\[1\] 이 구역의 인구는 693,972명인데, 주변 교외 지역에서 드나드는 통근자를 고려하면 주중 인구는 백만이 넘는다. 컬럼비아 구역을 포괄하는 [워싱턴 대도시권의](https://ko.wikipedia.org/wiki/워싱턴_대도시권 "wikilink") 인구는 613만 명으로, 미국의 대도시권 가운데 6번째로 큰 규모이다.
+워싱턴 D.C.는 [포토맥 강](https://ko.wikipedia.org/wiki/포토맥_강 "wikilink") 북쪽 유역에 자리 잡고 있으며, 남서쪽으로 [버지니아주](../Page/버지니아주.md "wikilink")와 다른 쪽으로는 [메릴랜드주](../Page/메릴랜드주.md "wikilink")와 경계를 맞대고 있다. [1790년](../Page/1790년.md "wikilink") [조지 워싱턴](../Page/조지_워싱턴.md "wikilink") 대통령이 이곳을 수도로 정하고, 프랑스의 피에르 샤를 랑팡을 초청하여 새 수도 설계를 의뢰하였다. 현재 잘 정비한 시원한 거리는 피에르 랑팡의 설계를 골격으로 하여 이어받은 것이다.\[1\] 이 구역의 인구는 693,972명인데, 주변 교외 지역에서 드나드는 통근자를 고려하면 주중 인구는 백만이 넘는다. 컬럼비아 구역을 포괄하는 [워싱턴 대도시권의](https://ko.wikipedia.org/wiki/워싱턴_대도시권 "wikilink") 인구는 613만 명으로, 미국의 대도시권 가운데 6번째로 큰 규모이다.
 
 [미합중국 헌법](https://ko.wikipedia.org/wiki/미합중국_헌법 "wikilink") 제1조에서 주와 다른 [연방 구역을](https://ko.wikipedia.org/wiki/연방_구역 "wikilink") 규정하여 이곳을 영속적인 국가 수도로 삼고 있다. 수많은 국가 기념물과 박물관과 더불어 [미국 연방 정부의](../Page/미국_연방_정부.md "wikilink") 3부의 중심 관청이 모두 이 곳에 있다. 워싱턴 D.C에는 174개 대사관이 자리 잡고 있으며, [세계은행](../Page/세계은행.md "wikilink"), [국제 통화 기금](../Page/국제_통화_기금.md "wikilink"), [미주 기구](../Page/미주_기구.md "wikilink"), [아메리카간 개발 은행](https://ko.wikipedia.org/wiki/아메리카간_개발_은행 "wikilink"), [범아메리카 의료 기구의](https://ko.wikipedia.org/wiki/범아메리카_의료_기구 "wikilink") 본부가 있다. 무역 협회, [로비](../Page/로비.md "wikilink") 단체, 직능 단체 등 여러 기관의 본부도 이곳에 있다.
 
@@ -47,7 +47,7 @@
 
 [스미스소니언 인스티튜션](https://ko.wikipedia.org/wiki/스미스소니언_협회 "wikilink")(Smithsonian Institution)은 1846 년 미 연방정부가 설립한 교육 재단으로 워싱턴 DC에있는 여러 박물관 및 미술관을 관리하고 있다. 스미스 소니언은 미국 정부의 자금 지원을 받고 운영되고 있으며 스미스 소니언에 속한 박물관은 입장료가 무료이며 주요 박물관은 아래와 같다.
 
-  - [국립 자연사 박물관](https://ko.wikipedia.org/wiki/국립_자연사_박물관_\(워싱턴_D.C.\) "wikilink") (National Museum of Natural History
+  - [국립 자연사 박물관](https://ko.wikipedia.org/wiki/국립_자연사_박물관_\(워싱턴_D.C.\) "wikilink") (National Museum of Natural History)
 
 내셔널몰(National Mall)의 북쪽에 있다. 지구를 주제로하는 모든것을 보여주는 박물관이다.
 

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Recentchangestext](https://ko.wikipedia.org/wiki/:Recentchangestext).
+> This article is converted from Wikipedia: [미디어위키:Recentchangestext](https://ko.wikipedia.org/wiki/미디어위키:Recentchangestext).
 
 
 | 최근 바뀜:                                       | [기록](https://ko.wikipedia.org/wiki/특수:기록 "wikilink") · [새 문서](https://ko.wikipedia.org/wiki/특수:새문서 "wikilink") · \[ IP 사용자 기여\] · [편집 필터](https://ko.wikipedia.org/wiki/특수:편집필터기록 "wikilink") · [알찬 글](https://ko.wikipedia.org/wiki/특수:링크최근바뀜/위키백과:알찬_글/목록 "wikilink") · [좋은 글](https://ko.wikipedia.org/wiki/특수기능:링크최근바뀜/위키백과:좋은_글/목록 "wikilink") · [알찬 목록](https://ko.wikipedia.org/wiki/특수:링크최근바뀜/위키백과:알찬_목록/목록 "wikilink")                                                                                                                                                                                                                                                                                                                                |

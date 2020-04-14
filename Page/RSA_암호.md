@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [RSA ](https://ko.wikipedia.org/wiki/RSA_).
+> This article is converted from Wikipedia: [RSA 암호](https://ko.wikipedia.org/wiki/RSA_암호).
 
 
 **RSA 암호**는 [공개키 암호시스템의](../Page/공개_키_암호_방식.md "wikilink") 하나로, 암호화뿐만 아니라 [전자서명](../Page/전자서명.md "wikilink")이 가능한 최초의 [알고리즘](../Page/알고리즘.md "wikilink")으로 알려져 있다. RSA가 갖는 [전자서명](../Page/전자서명.md "wikilink") 기능은 인증을 요구하는 [전자 상거래](../Page/전자_상거래.md "wikilink") 등에 RSA의 광범위한 활용을 가능하게 하였다.

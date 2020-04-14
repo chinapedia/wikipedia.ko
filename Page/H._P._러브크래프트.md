@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [H. P. ](https://ko.wikipedia.org/wiki/H._P._).
+> This article is converted from Wikipedia: [H. P. 러브크래프트](https://ko.wikipedia.org/wiki/H._P._러브크래프트).
 
 
 **하워드 필립스 러브크래프트**(, [1890년](../Page/1890년.md "wikilink") [8월 20일](../Page/8월_20일.md "wikilink") \~ [1937년](../Page/1937년.md "wikilink") [3월 15일](../Page/3월_15일.md "wikilink"))는 [미국](../Page/미국.md "wikilink")의 [호러](https://ko.wikipedia.org/wiki/호러 "wikilink"), [판타지](../Page/판타지.md "wikilink"), [공상과학](https://ko.wikipedia.org/wiki/공상과학 "wikilink") [소설가](https://ko.wikipedia.org/wiki/소설가 "wikilink")이다.

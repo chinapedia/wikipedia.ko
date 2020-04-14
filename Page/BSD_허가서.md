@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [BSD ](https://ko.wikipedia.org/wiki/BSD_).
+> This article is converted from Wikipedia: [BSD 허가서](https://ko.wikipedia.org/wiki/BSD_허가서).
 
 
 **BSD 허가서**는 [자유 소프트웨어](../Page/자유_소프트웨어.md "wikilink") [저작권](../Page/저작권.md "wikilink")의 한 가지이다. [BSD](../Page/BSD.md "wikilink") 계열 [소프트웨어](../Page/소프트웨어.md "wikilink")를 포함한 많은 프로그램에서 사용한다.

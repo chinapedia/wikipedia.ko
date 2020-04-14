@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ C](https://ko.wikipedia.org/wiki/_C).
+> This article is converted from Wikipedia: [비타민 C](https://ko.wikipedia.org/wiki/비타민_C).
 
 
 **비타민 C**()는 [비타민](../Page/비타민.md "wikilink")의 한 종류이다. 거의 모든 음식물에 들어있을 정도로, 가장 쉽게 접할 수 있는 비타민의 하나이다. 인체에서 이 비타민이 결핍되면 [괴혈병](../Page/괴혈병.md "wikilink")이 발생\[1\]한다. 강한 환원제로서 [콜라겐](../Page/콜라겐.md "wikilink")의 합성 효소 활성화등 인체에 있어 필수적인 성분중 하나이다.

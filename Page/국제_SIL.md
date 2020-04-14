@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ SIL](https://ko.wikipedia.org/wiki/_SIL).
+> This article is converted from Wikipedia: [국제 SIL](https://ko.wikipedia.org/wiki/국제_SIL).
 
 
 **국제 SIL** (國際 -; SIL International)은 [세계 성경번역 선교회](../Page/세계_성경번역_선교회.md "wikilink")(WBT)의 자매기관으로서, 원이름은 **하계 언어학 연구소**(Summer Institute of Linguistics)이다. 잘 알려지지 않은 [언어](../Page/언어.md "wikilink")를 연구하고 발전시키며 기록하여 [언어학](../Page/언어학.md "wikilink") 발전과 [문맹](https://ko.wikipedia.org/wiki/문맹 "wikilink") 퇴치, 소수 언어 발전 및 [성서](https://ko.wikipedia.org/wiki/성서 "wikilink") 번역을 통한 선교를 돕는 것을 주된 목적으로 하는 비영리 단체이다. 국제 SIL가 출판하는 [에스놀로그](https://ko.wikipedia.org/wiki/에스놀로그 "wikilink")(Ethnologue)는 전 세계의 알려진 [언어](../Page/언어.md "wikilink")에 대한 각종 통계치를 집대성한 것으로 [언어학](../Page/언어학.md "wikilink") 연구에 소중한 자료이다. 단행본 형태와 홈페이지([Ethnologue.com](http://www.ethnologue.com/))를 통해 출판된다.

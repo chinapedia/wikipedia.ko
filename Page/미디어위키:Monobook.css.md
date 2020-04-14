@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Monobook.css](https://ko.wikipedia.org/wiki/:Monobook.css).
+> This article is converted from Wikipedia: [미디어위키:Monobook.css](https://ko.wikipedia.org/wiki/미디어위키:Monobook.css).
 
 
 /\*

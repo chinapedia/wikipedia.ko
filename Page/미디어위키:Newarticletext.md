@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Newarticletext](https://ko.wikipedia.org/wiki/:Newarticletext).
+> This article is converted from Wikipedia: [미디어위키:Newarticletext](https://ko.wikipedia.org/wiki/미디어위키:Newarticletext).
 
 
 -----

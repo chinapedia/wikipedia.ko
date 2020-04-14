@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Googlesearch](https://ko.wikipedia.org/wiki/:Googlesearch).
+> This article is converted from Wikipedia: [미디어위키:Googlesearch](https://ko.wikipedia.org/wiki/미디어위키:Googlesearch).
 
 
 <div class="plainlinks" style="margin-left: 2em">

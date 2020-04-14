@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SF \(\)](https://ko.wikipedia.org/wiki/SF_\(\)).
+> This article is converted from Wikipedia: [SF \(장르\)](https://ko.wikipedia.org/wiki/SF_\(장르\)).
 
 
 **사이언스픽션**() 또는 줄여서 **SF**는 [미래](https://ko.wikipedia.org/wiki/미래 "wikilink")의 배경, 미래의 [과학](../Page/과학.md "wikilink")과 [기술](../Page/기술.md "wikilink"), [우주여행](https://ko.wikipedia.org/wiki/우주비행 "wikilink"), [시간여행](https://ko.wikipedia.org/wiki/시간여행 "wikilink"), [초광속여행](https://ko.wikipedia.org/wiki/초광속여행 "wikilink"), [평행우주](https://ko.wikipedia.org/wiki/다중우주론 "wikilink"), [외계생명체](https://ko.wikipedia.org/wiki/외계생명체 "wikilink") 등을 소재로 하는 [장르](https://ko.wikipedia.org/wiki/장르 "wikilink")이다. 소설인 경우, **과학소설**(科學小說)이라고 한다. SF는 종종 과학적인것을 포함한 다른 [혁신](https://ko.wikipedia.org/wiki/혁신 "wikilink")스런 잠재적인 결과를 탐구하여 "아이디어문학"이라 불리곤 했다.\[1\]
@@ -159,7 +159,7 @@ SF를 다양한 [하위장르](https://ko.wikipedia.org/wiki/하위장르 "wikil
 
 ## 팬덤과 커뮤니티
 
-[S](https://ko.wikipedia.org/wiki/SF_팬덤 "wikilink") ;[F](https://ko.wikipedia.org/wiki/SF_팬덤 "wikilink")'''' [팬덤은](https://ko.wikipedia.org/wiki/SF_팬덤 "wikilink") "아이디어 문학의 ㅠ커 ;;; 뮤니티 …새로운 아이디어가 사회에 출시되기 전에 나타나 길러지는 문화이다."\[88\] 이 커뮤니티의 구성원인 "[팬](https://ko.wikipedia.org/wiki/팬 "wikilink")"들은 [컨벤션이나](https://ko.wikipedia.org/wiki/SF_컨벤션 "wikilink") 클럽, 종이나 온라인 [팬진](https://ko.wikipedia.org/wiki/SF_팬진 "wikilink"), 웹사이트, [메일링 리스트를](../Page/메일링_리스트.md "wikilink") 비롯한 여러 통로를 통해 서로 접촉한다.
+[S](https://ko.wikipedia.org/wiki/SF_팬덤 "wikilink")[F](https://ko.wikipedia.org/wiki/SF_팬덤 "wikilink") [팬덤은](https://ko.wikipedia.org/wiki/SF_팬덤 "wikilink") "아이디어 문학의 커뮤니티에서 새로운 아이디어가 사회에 출시되기 전에 나타나 길러지는 문화이다."\[88\] 이 커뮤니티의 구성원인 "[팬](https://ko.wikipedia.org/wiki/팬 "wikilink")"들은 [컨벤션이나](https://ko.wikipedia.org/wiki/SF_컨벤션 "wikilink") 클럽, 종이나 온라인 [팬진](https://ko.wikipedia.org/wiki/SF_팬진 "wikilink"), 웹사이트, [메일링 리스트를](../Page/메일링_리스트.md "wikilink") 비롯한 여러 통로를 통해 서로 접촉한다.
 
 미국의 SF 팬덤은 《어메이징 스토리즈》의 서한 칼럼을 통해 등장했다. 곧 팬들은 서로에게 편지를 쓰기 시작했고, 후에 팬진으로 알려질 비공식 출판물을 통해 자신들의 논평을 모았다.\[89\] 정기적인 연락이 이어지자 팬들은 서로를 만나고 싶어했고, 지역 클럽을 조직했다. 1930년대, 최초의 [SF 컨벤션은](https://ko.wikipedia.org/wiki/SF_컨벤션 "wikilink") 팬들을 더 넓은 공간에서 만나게 했다.\[90\] 컨벤션, 클럽, 팬진은 인터넷이 더 많은 사람들 간의 통신을 용이하게 만들기 전까지 수십년간 팬 활동의 지배적인 양식이었다.
 

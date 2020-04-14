@@ -32,7 +32,7 @@ ISDN에 들어가는 수준의 인터페이스는 기본 속도 인터페이스(
 
   - .
 
-[분류:ITU-T 권고](https://ko.wikipedia.org/wiki/분류:ITU-T_권고 "wikilink") [분류:네트워크 접속](https://ko.wikipedia.org/wiki/분류:네트워크_접속 "wikilink") [분류:전화](https://ko.wikipedia.org/wiki/분류:전화 "wikilink") [분류:통신](https://ko.wikipedia.org/wiki/분류:통신 "wikilink")
+[분류:ITU-T 권고](https://ko.wikipedia.org/wiki/분류:ITU-T_권고 "wikilink") [분류:네트워크 접속](https://ko.wikipedia.org/wiki/분류:네트워크_접속 "wikilink") [분류:전화](https://ko.wikipedia.org/wiki/분류:전화 "wikilink") [분류:통신](https://ko.wikipedia.org/wiki/분류:통신 "wikilink") [분류:화상 통화](https://ko.wikipedia.org/wiki/분류:화상_통화 "wikilink")
 
 1.
 2.

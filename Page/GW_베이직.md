@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [GW ](https://ko.wikipedia.org/wiki/GW_).
+> This article is converted from Wikipedia: [GW 베이직](https://ko.wikipedia.org/wiki/GW_베이직).
 
 
 **GW 베이직**(GW-BASIC)은 원래 [마이크로소프트](../Page/마이크로소프트.md "wikilink")가 [컴팩](../Page/컴팩.md "wikilink")을 위해 개발한 [베이직](../Page/베이직.md "wikilink")의 일종이다. 이름의 GW는 초기 마이크로소프트의 직원이었던 [그렉 위튼](https://ko.wikipedia.org/wiki/그렉_위튼 "wikilink")(Greg Whitten, 별명은 'gee-whiz')의 이름 첫글자를 딴 것이다.

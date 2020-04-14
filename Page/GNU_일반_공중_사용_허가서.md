@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [GNU    ](https://ko.wikipedia.org/wiki/GNU____).
+> This article is converted from Wikipedia: [GNU 일반 공중 사용 허가서](https://ko.wikipedia.org/wiki/GNU_일반_공중_사용_허가서).
 
 
 **GNU 일반 공중 사용 허가서**([GNU](../Page/GNU.md "wikilink") General Public License, **GNU GPL** 또는 **GPL**)는 [자유 소프트웨어 재단에서](../Page/자유_소프트웨어_재단.md "wikilink") 만든 [자유 소프트웨어](../Page/자유_소프트웨어.md "wikilink") [라이선스](https://ko.wikipedia.org/wiki/라이선스 "wikilink")로, 소프트웨어의 실행, 연구, 공유, 수정의 자유를 최종 사용자에게 보장한다.\[1\] 대표적으로 [리눅스 커널이](../Page/리눅스_커널.md "wikilink") 이용하는 사용 허가이다. GPL은 가장 널리 알려진 강한 카피레프트 사용 허가이며, 이 허가를 가진 프로그램을 사용하여 새로운 프로그램을 만들게 되면 파생된 프로그램 역시 같은 카피레프트를 가져야 한다. 이러한 철학에서 GPL은 컴퓨터 프로그램을 이용하는 사람에게 자유 소프트웨어의 권한을 누리며 카피레프트를 사용함으로써 그러한 자유가 보전되고, 이전 작업 내용을 수정하거나 다른 내용을 추가하는 것도 허용됐다. 이는 허용적인 자유 소프트웨어 사용 허가로서, BSD 사용 허가가 대표적인 예이다.
@@ -51,6 +51,8 @@ GPL 버전 3은 [2007년](../Page/2007년.md "wikilink") [6월 29일에](../Page
     바뀐 점 중에서 가장 중요한 4가지를 말하자면, 소프트웨어 특허에 대처하는 것, 다른 라이선스와의 호환성, 어떤 부분의 원시 코드와 무엇이 GPL이 포함되어야 하는 원시 코드를 구성하는지와 [디지털 제한 관리](https://ko.wikipedia.org/wiki/디지털_제한_관리 "wikilink")(Digital Restrictions Management)에 신경을 썼다.
 
 [2006년](../Page/2006년.md "wikilink"), [자유 소프트웨어 재단은](../Page/자유_소프트웨어_재단.md "wikilink") GPL의 바뀔 수 있는 부분에 대해서 열두달간의 공공자문회를 가졌다. 이 과정에서 자유 소프트웨어 재단, 소프트웨어 자유 법률 센터, [유럽 자유 소프트웨어 재단이](https://ko.wikipedia.org/wiki/유럽_자유_소프트웨어_재단 "wikilink") 의견을 조정했다.
+
+111
 
 ## 비판
 

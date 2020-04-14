@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ E. ](https://ko.wikipedia.org/wiki/_E._).
+> This article is converted from Wikipedia: [로버트 E. 하워드](https://ko.wikipedia.org/wiki/로버트_E._하워드).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Robert_E_Howard_suit.jpg "wikilink")

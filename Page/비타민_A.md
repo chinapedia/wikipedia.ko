@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ A](https://ko.wikipedia.org/wiki/_A).
+> This article is converted from Wikipedia: [비타민 A](https://ko.wikipedia.org/wiki/비타민_A).
 
 
 [right](https://ko.wikipedia.org/wiki/파일:Vitamin_A.jpg "wikilink").\]\] **비타민 A**는 시각 기능에 관여하고, 성장 인자로 작용하는 비타민이다. **비타민 A**는 눈의 [망막](../Page/망막.md "wikilink")에서 대사 산물인, 흡광 분자 [레티날](../Page/레티날.md "wikilink")의 형태로 작용하는데, 레티날은 박명시(어두운 환경에서 물체를 보는 능력)와 색조감각에 절대적으로 필요하다. **비타민 A**는 또한 레티놀이 비가역적으로 산화된 형태인 [레티노 산의](https://ko.wikipedia.org/wiki/레티노_산 "wikilink") 형태로 상피 세포 등에서 호르몬과 같이 중요한 성장 인자로서 기능을 한다.

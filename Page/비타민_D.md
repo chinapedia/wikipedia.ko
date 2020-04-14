@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ D](https://ko.wikipedia.org/wiki/_D).
+> This article is converted from Wikipedia: [비타민 D](https://ko.wikipedia.org/wiki/비타민_D).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:VITAMIN_D.png "wikilink")
