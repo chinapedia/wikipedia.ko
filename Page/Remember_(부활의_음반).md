@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Remember \( \)](https://ko.wikipedia.org/wiki/Remember_\(_\)).
+> This article is converted from Wikipedia: [Remember \(부활의 음반\)](https://ko.wikipedia.org/wiki/Remember_\(부활의_음반\)).
 
 
 《**Remember**》는 [부활의](../Page/부활_\(밴드\).md "wikilink") 2집 앨범이다. [1987년](../Page/1987년.md "wikilink") [YBM 서울음반에서](https://ko.wikipedia.org/wiki/서울음반 "wikilink") 출시했다. 상업적으로 성공했으나, 대마초 사건으로 활동은 실패했다. [김태원은](../Page/김태원_\(음악인\).md "wikilink") "많은 인기를 얻어 자만심 때문에 대마초에 더 빠져들었다"라 고백했다.\[1\] 그리고 밴드도 해체해 [이승철](../Page/이승철.md "wikilink")도 솔로로 활동하게 됐다.

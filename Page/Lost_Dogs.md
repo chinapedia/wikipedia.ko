@@ -8,7 +8,7 @@
 ### 1번 [시디](https://ko.wikipedia.org/wiki/시디 "wikilink")
 
 1.  "All Night" – 3:22
-      - 《[No Code](https://ko.wikipedia.org/wiki/No_Code "wikilink")》 녹음에서 남은 노래이다.
+      - 《[No Code](../Page/No_Code.md "wikilink")》 녹음에서 남은 노래이다.
 2.  "Sad" (베더) – 3:39
       - 《[Binaural](https://ko.wikipedia.org/wiki/Binaural "wikilink")》 녹음에서 남은 노래를 다시 녹음한 것이다.
 3.  "Down" (고사드·매크리디·베더) – 3:15
@@ -16,11 +16,11 @@
 4.  "Hitchhiker" (베더) – 3:17
       - 《[Binaural](https://ko.wikipedia.org/wiki/Binaural "wikilink")》 녹음에서 남은 노래이다.
 5.  "Don't Gimme No Lip" (고사드) – 2:35
-      - 《[No Code](https://ko.wikipedia.org/wiki/No_Code "wikilink")》 녹음에서 남은 노래이다.
+      - 《[No Code](../Page/No_Code.md "wikilink")》 녹음에서 남은 노래이다.
 6.  "Alone" (애브루지스·아멘트·고사드·매크리디·베더) – 3:11
       - 《Ten》 녹음에서 남은 노래를 다시 녹음한 것이다.
 7.  "In the Moonlight" (캐머런) – 3:07
-      - 《[No Code](https://ko.wikipedia.org/wiki/No_Code "wikilink")》 녹음에서 남은 노래이다.
+      - 《[No Code](../Page/No_Code.md "wikilink")》 녹음에서 남은 노래이다.
 8.  "Education" (베더) – 2:46
       - 《[Binaural](https://ko.wikipedia.org/wiki/Binaural "wikilink")》 녹음에서 남은 노래를 다시 녹음한 것이다.
 9.  "Black, Red, Yellow" (베더) – 3:26

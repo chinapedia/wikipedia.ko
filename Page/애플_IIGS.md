@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ IIGS](https://ko.wikipedia.org/wiki/_IIGS).
+> This article is converted from Wikipedia: [애플 IIGS](https://ko.wikipedia.org/wiki/애플_IIGS).
 
 
 **애플 IIGS**(Apple IIGS)는 [애플 컴퓨터가](https://ko.wikipedia.org/wiki/애플_\(기업\) "wikilink") 만든 개인용 컴퓨터인 [애플 II 시리즈의](https://ko.wikipedia.org/wiki/애플_II_시리즈 "wikilink") 다섯 번째 모델이다. GS라는 명칭은 'Graphic([그래픽](https://ko.wikipedia.org/wiki/그래픽 "wikilink"))'과 'Sound([사운드](https://ko.wikipedia.org/wiki/사운드 "wikilink"))'의 약자이다. 기존 애플 II에 멀티미디어 기능을 확장하여, 특히 고성능의 사운드 부분은 당시 출시되었던 PC중에서도 높은 성능을 자랑하였다.

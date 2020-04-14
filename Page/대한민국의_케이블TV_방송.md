@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ TV ](https://ko.wikipedia.org/wiki/_TV_).
+> This article is converted from Wikipedia: [대한민국의 케이블TV 방송](https://ko.wikipedia.org/wiki/대한민국의_케이블TV_방송).
 
 
 **대한민국의 케이블TV 방송**은 1995년 종합유선방송을 시작으로 도입된 방송으로서, 채널 선택의 다양성으로 시청자의 만족도를 높이고자 시작한 새로운 형태의 방송 시장이다.\[1\]
@@ -188,7 +188,7 @@
   - [마운틴TV](../Page/마운틴TV.md "wikilink")
   - [부메랑](https://ko.wikipedia.org/wiki/부메랑_\(TV_채널\) "wikilink")
   - [WBS 원음방송](../Page/원음방송.md "wikilink")
-  - [EBS english](https://ko.wikipedia.org/wiki/EBS_english "wikilink")
+  - [EBS english](../Page/EBS_english.md "wikilink")
   - [SPO TV](https://ko.wikipedia.org/wiki/SPO_TV "wikilink")
   - [JTBC3 Fox Sports](https://ko.wikipedia.org/wiki/JTBC3_Fox_Sports "wikilink")
   - [SPO TV 2](https://ko.wikipedia.org/wiki/SPO_TV "wikilink")
@@ -229,7 +229,7 @@
 
   - [iTV 비즈니스정보채널](../Page/경인방송.md "wikilink")
   - [Sky KBS Green](../Page/KBS_N_라이프.md "wikilink")
-  - [EBS 플러스3](https://ko.wikipedia.org/wiki/EBS_english "wikilink")
+  - [EBS 플러스3](../Page/EBS_english.md "wikilink")
   - [SBS 위성스포츠](../Page/SBS_스포츠.md "wikilink")
   - [포유스포츠(4USports)](../Page/SBS_스포츠.md "wikilink")
   - [SBS 위성골프](https://ko.wikipedia.org/wiki/SBS_골프 "wikilink")

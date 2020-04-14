@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [HLB](https://ko.wikipedia.org/wiki/HLB).
+> This article is converted from Wikipedia: [HLB값](https://ko.wikipedia.org/wiki/HLB값).
 
 
 [350px](https://ko.wikipedia.org/wiki/파일:HLB_scale.svg "wikilink") **HLB값**(Hydrophile-Lipophile Balance, 친수성-친유성 밸런스)이란 1949년\[1\]과 1954년 윌리엄 그리핀\[2\]이 처음 만든 값으로 [계면활성제](../Page/계면활성제.md "wikilink")의 [친수성](https://ko.wikipedia.org/wiki/친수성 "wikilink") 및 [친유성](https://ko.wikipedia.org/wiki/친유성 "wikilink") 정도를 나타내는 척도이다. 보통 **친수성 밸런스**라고 부른다. 1957년 대이비스도 다른 방법을 통해 HLB 값을 구하는 법을 만들었다.\[3\]

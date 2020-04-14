@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  PC  ](https://ko.wikipedia.org/wiki/__PC__).
+> This article is converted from Wikipedia: [윈도우 구형 PC를 위한 펀더멘털](https://ko.wikipedia.org/wiki/윈도우_구형_PC를_위한_펀더멘털).
 
 
 **윈도우 구형 PC를 위한 펀더멘털**(Windows Fundamentals for Legacy PCs)은 [마이크로소프트](../Page/마이크로소프트.md "wikilink")에서 [2006년](../Page/2006년.md "wikilink") [7월 8일에](../Page/7월_8일.md "wikilink") 출시한 [윈도우 XP](../Page/윈도우_XP.md "wikilink") 서비스 팩 2 기반의 [운영 체제이다](../Page/운영_체제.md "wikilink"). 원래의 [윈도우 XP와](../Page/윈도우_XP.md "wikilink") 거의 비슷한 기능을 제공하지만 오래된 개인용 컴퓨터에 알맞게 최적화된 것이 특징이다.
@@ -33,7 +33,7 @@
   - 세로 쓰기 글꼴이 포함되어 있지 않다.
   - 설치시 시스템 언어(로캘)를 [한국어](../Page/한국어.md "wikilink")로 설정하면 [역슬래시](../Page/역슬래시.md "wikilink") 기호가 [일본](../Page/일본.md "wikilink")의 [엔](https://ko.wikipedia.org/wiki/엔 "wikilink")화로 표기된다. 그러나 [영어](../Page/영어.md "wikilink")로 설치한 뒤 언어 옵션을 [한국어](../Page/한국어.md "wikilink")로 변경하면 [대한민국](../Page/대한민국.md "wikilink")의 [원화로](../Page/대한민국_원.md "wikilink") 올바르게 표기된다.
   - [인터넷 익스플로러 7](../Page/인터넷_익스플로러_7.md "wikilink") 이상으로 IE를 업그레이드 시에, MUI가 적용되지 않고, 영어로 표기된다.
-  - [윈도우 미디어 플레이어](https://ko.wikipedia.org/wiki/윈도우_미디어_플레이어 "wikilink") 는 MUI가 적용되지 않고, 영어로 표기된다.
+  - [윈도우 미디어 플레이어는](https://ko.wikipedia.org/wiki/윈도우_미디어_플레이어 "wikilink") MUI가 적용되지 않고, 영어로 표기된다.
   - 실행 파일의 속성에 호환성 탭이 존재하지 않는다.
 
 [분류:마이크로소프트 윈도우](https://ko.wikipedia.org/wiki/분류:마이크로소프트_윈도우 "wikilink") [분류:마이크로소프트의 운영 체제](https://ko.wikipedia.org/wiki/분류:마이크로소프트의_운영_체제 "wikilink") [분류:윈도우 NT](https://ko.wikipedia.org/wiki/분류:윈도우_NT "wikilink") [분류:사유 소프트웨어](https://ko.wikipedia.org/wiki/분류:사유_소프트웨어 "wikilink") [분류:2006년 소프트웨어](https://ko.wikipedia.org/wiki/분류:2006년_소프트웨어 "wikilink") [분류:IA-32 운영 체제](https://ko.wikipedia.org/wiki/분류:IA-32_운영_체제 "wikilink")

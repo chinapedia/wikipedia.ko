@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [L \(\)](https://ko.wikipedia.org/wiki/L_\(\)).
+> This article is converted from Wikipedia: [L \(데스노트\)](https://ko.wikipedia.org/wiki/L_\(데스노트\)).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:L_Old_London.svg "wikilink") **L**은 만화 《[데스노트](../Page/데스노트.md "wikilink")》의 탐정이다. 수사 본부에서는 **류자키**라고 칭하며, 본명은 **L. 로우라이트**(L. Lawliet)이다. 야가미 라이토와 대적할 만큼 엄청난 지식과 추리력을 지니고 있다. 항상 의자에 쭈그려 앉아있으며, [설탕](../Page/설탕.md "wikilink")이나 [초콜릿](../Page/초콜릿.md "wikilink"), [바나나](../Page/바나나.md "wikilink") 같은 단 음식을 자주 먹는다.

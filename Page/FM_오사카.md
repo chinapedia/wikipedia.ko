@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FM ](https://ko.wikipedia.org/wiki/FM_).
+> This article is converted from Wikipedia: [FM 오사카](https://ko.wikipedia.org/wiki/FM_오사카).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Minatomachi-River1.jpg "wikilink") **FM 오사카**는 일본의 FM라디오 방송국으로 [1970년](../Page/1970년.md "wikilink") [4월 1일](../Page/4월_1일.md "wikilink") 개국했으며 [오사카부](../Page/오사카부.md "wikilink")에서 방송을 실시하고 있다.

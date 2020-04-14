@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [While ](https://ko.wikipedia.org/wiki/While_).
+> This article is converted from Wikipedia: [While 루프](https://ko.wikipedia.org/wiki/While_루프).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:While-loop-diagram.svg "wikilink") 대부분의 컴퓨터 [프로그래밍](https://ko.wikipedia.org/wiki/프로그래밍 "wikilink") 언어에서 **while 루프**는 [반복문](https://ko.wikipedia.org/wiki/반복문 "wikilink")의 일종으로, 주어진 [불린 자료형](https://ko.wikipedia.org/wiki/불린_자료형 "wikilink") 조건을 기반으로 코드가 반복적으로 수행할 수 있게 도와준다. 이 while 루프는 [if 문의](../Page/조건문.md "wikilink") 반복으로 생각할 수도 있다.

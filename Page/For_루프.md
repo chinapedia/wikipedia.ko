@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [For ](https://ko.wikipedia.org/wiki/For_).
+> This article is converted from Wikipedia: [For 루프](https://ko.wikipedia.org/wiki/For_루프).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:For-loop-diagram.png "wikilink") [컴퓨터 프로그래밍에서](../Page/컴퓨터_프로그래밍.md "wikilink") **for 루프**는 [반복문](https://ko.wikipedia.org/wiki/반복문 "wikilink")의 일종으로, 특정한 부분의 코드가 반복적으로 수행될 수 있도록 한다. for 루프는 [while 루프와](https://ko.wikipedia.org/wiki/while_루프 "wikilink") 같은 다른 반복문과는 달리 일반적으로 해당 루프에 연계된 [루프 변수가](https://ko.wikipedia.org/wiki/루프_변수 "wikilink") 존재하며, 그 변수의 비교 및 증감을 위해서 별도의 문법을 할애한 점이 구분된다.

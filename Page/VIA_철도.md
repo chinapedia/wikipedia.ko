@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [VIA ](https://ko.wikipedia.org/wiki/VIA_).
+> This article is converted from Wikipedia: [VIA 철도](https://ko.wikipedia.org/wiki/VIA_철도).
 
 
 **VIA 철도**()는 캐나다 전역에 여객운송업을 하는 국영기업이다.

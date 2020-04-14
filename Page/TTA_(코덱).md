@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TTA \(\)](https://ko.wikipedia.org/wiki/TTA_\(\)).
+> This article is converted from Wikipedia: [TTA \(코덱\)](https://ko.wikipedia.org/wiki/TTA_\(코덱\)).
 
 
 **TTA**(The True Audio, 티티에이, 더 트루 오디오)는 무손실 가역압축 오디오 [포맷이다](https://ko.wikipedia.org/wiki/파일_형식 "wikilink"). 알렉산더 쥬릭(Alexander Djourik)이 개발했다. 오늘날의 일반적인 아날로그 오디오 샘플에 대하여 비교적 좋은 성능을 보여주는 적응형 예측 필터(adaptive prognostic filters)들에 기반하고 있다.

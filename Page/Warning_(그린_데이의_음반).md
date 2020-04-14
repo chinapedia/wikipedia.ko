@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Warning \(  \)](https://ko.wikipedia.org/wiki/Warning_\(__\)).
+> This article is converted from Wikipedia: [Warning \(그린 데이의 음반\)](https://ko.wikipedia.org/wiki/Warning_\(그린_데이의_음반\)).
 
 
 《**Warning**》은 [그린 데이의](../Page/그린_데이.md "wikilink") 여섯 번째 정규 음반으로, [2000년](../Page/2000년.md "wikilink")에 발매되었다. 《[Kerplunk\!](https://ko.wikipedia.org/wiki/Kerplunk! "wikilink")》부터 《[nimrod.](https://ko.wikipedia.org/wiki/nimrod. "wikilink")》까지 그린 데이의 음반을 프로듀싱 해왔던 [롭 카발로](https://ko.wikipedia.org/wiki/롭_카발로 "wikilink") 대신 그린 데이가 직접 프로듀싱을 하였다.

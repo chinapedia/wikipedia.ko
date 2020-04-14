@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FK ](https://ko.wikipedia.org/wiki/FK_).
+> This article is converted from Wikipedia: [FK 라보트니치키](https://ko.wikipedia.org/wiki/FK_라보트니치키).
 
 
 **FK 라보트니치키 코메탈**()은 [북마케도니아](../Page/북마케도니아.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽으로, 수도인 [스코페](../Page/스코페.md "wikilink")에 연고를 두고 있다.

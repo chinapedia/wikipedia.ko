@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KBS](https://ko.wikipedia.org/wiki/KBS).
+> This article is converted from Wikipedia: [KBS부산방송총국](https://ko.wikipedia.org/wiki/KBS부산방송총국).
 
 
 **KBS부산방송총국**(KBS釜山放送總局)은 [부산광역시](https://ko.wikipedia.org/wiki/부산광역시 "wikilink")와 경남 양산 일부 지역을 대상으로 하는 [한국방송공사](../Page/한국방송공사.md "wikilink")의 지역방송총국이다. 지역총국 중 하나로, [KBS울산방송국](../Page/KBS울산방송국.md "wikilink")을 하부에 두고 있다.
@@ -111,28 +111,22 @@
       - 호출부호 : HLKB-DTV
       - 가상채널 9-1
 
-<!-- end list -->
-
-  - 2TV
-      - 호출부호 : HLKE-DTV\[1\]
-      - 가상채널 7-1
-
-| 송신소     | UHD   | HD    | 송신소 위치 | 비고                         |
-| ------- | ----- | ----- | ------ | -------------------------- |
-| 물리채널    | 출력    | 물리채널  | 출력     |                            |
-| 1TV     | 2TV   | 1TV   | 2TV    |                            |
-| 황령산 송신소 | CH 52 | CH 56 | 5㎾     | CH 14                      |
-| 정관 중계소  |       | CH 21 | CH 23  | 50W                        |
-| 기장 중계소  | CH 32 | CH 34 | 90W    | 부산 기장군 일광면 횡계리 산28-1 (일광산) |
-| 대변 소출력  | CH 32 | CH 34 | 0.05W  | 부산 기장군 기장읍 대변리 304-20      |
-| 장산 중계소  | CH 27 | CH 29 | 20W    | 부산 해운대구 우2동 산149-50        |
-| 만덕 중계소  | CH 23 | CH 37 | 20W    | 부산 동래구 온천3동 산193 달북마을      |
-| 동삼 소출력  | CH 14 | CH 16 | 0.05W  | 부산 영도구 동삼1동                |
-| 천마산 중계소 | CH 43 | CH 44 | 20W    | 부산 사하구 감천2동 산99-1          |
-| 동매산 중계소 | CH 20 | CH 23 | 5W     | 부산 사하구 괴정4동 산109           |
-| 녹산 중계소  | CH 38 | CH 42 | 90W    | 부산 강서구 생곡동 산10-3 (봉화산)     |
-| 양산 중계소  | CH 20 | CH 21 | 90W    | 경남 양산시 북정동 산39-2           |
-| 하북 중계소  | CH 35 | CH 23 | 10W    | 경남 양산시 하북면 초산리 산7-6        |
+| 송신소     | UHD   | HD    | 송신소 위치 |
+| ------- | ----- | ----- | ------ |
+| 물리채널    | 출력    | 물리채널  | 출력     |
+| 1TV     | 2TV   | 1TV   | 2TV    |
+| 황령산 송신소 | CH 52 | CH 56 | 5㎾     |
+| 정관 중계소  |       | CH 21 | CH 23  |
+| 기장 중계소  | CH 32 | CH 34 | 90W    |
+| 대변 소출력  | CH 32 | CH 34 | 0.05W  |
+| 장산 중계소  | CH 27 | CH 29 | 20W    |
+| 만덕 중계소  | CH 23 | CH 37 | 20W    |
+| 동삼 소출력  | CH 14 | CH 16 | 0.05W  |
+| 천마산 중계소 | CH 43 | CH 44 | 20W    |
+| 동매산 중계소 | CH 20 | CH 23 | 5W     |
+| 녹산 중계소  | CH 38 | CH 42 | 90W    |
+| 양산 중계소  | CH 20 | CH 21 | 90W    |
+| 하북 중계소  | CH 35 | CH 23 | 10W    |
 
   - 아날로그TV
 
@@ -214,16 +208,16 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/KBS_뉴스_7.md" title="wikilink">KBS 뉴스 7 부산</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/KBS_뉴스_7_부산" title="wikilink">KBS 뉴스 7 부산</a></p></td>
 <td><p>월 ~ 목 40분</p></td>
-<td><p>목 저녁 7시 ~ 7시 40분</p></td>
+<td><p>월~목 저녁 7시 ~ 7시 40분</p></td>
 <td><p>월~목 : <a href="https://ko.wikipedia.org/wiki/차재환" title="wikilink">차재환</a></p></td>
 </tr>
 <tr class="even">
+<td><p><a href="../Page/KBS_뉴스_7.md" title="wikilink">KBS 뉴스 7 부산</a></p></td>
 <td><p>금 5분</p></td>
 <td><p>금 저녁 7시 20분 ~ 7시 25분</p></td>
-<td><p>금 : <a href="https://ko.wikipedia.org/wiki/이지현" title="wikilink">이지현</a></p></td>
-<td></td>
+<td><p>금 : <a href="../Page/이지현_(아나운서).md" title="wikilink">이지현</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/KBS_뉴스_9.md" title="wikilink">KBS 뉴스 9 부산</a></p></td>
@@ -231,7 +225,7 @@
 주말 10분</p></td>
 <td><p>평일 밤 9시 30분 ~ 9시 45분<br />
 주말 밤 9시 20분 ~ 9시 30분</p></td>
-<td><p><a href="../Page/김평래.md" title="wikilink">김평래</a>, <a href="https://ko.wikipedia.org/wiki/이지현" title="wikilink">이지현</a> 주말 무작위</p></td>
+<td><p><a href="../Page/김평래.md" title="wikilink">김평래</a> 주말 무작위</p></td>
 </tr>
 </tbody>
 </table>
@@ -247,9 +241,9 @@
 | 17:40 (평일) | [생생투데이 사람과 세상](../Page/생생투데이_사람과_세상.md "wikilink") |                |
 | 08:25 (금)  | 아침마당부산                                             | 생생토크 자체 방송     |
 | 14:00 (금)  | [열린채널](../Page/열린채널.md "wikilink") 부산              | 마지막주 방송        |
-| 19:40 (금)  | K-토크                                               |                |
 | 19:40 (수)  | 시사반점                                               |                |
-| 20:00 (수)  | PD실험실                                              |                |
+| 22:00 (수)  | PD실험실                                              |                |
+| 19:40 (금)  | K-토크                                               |                |
 
 ### 라디오 방송
 
@@ -300,6 +294,7 @@
 | [1995년](../Page/1995년.md "wikilink")                                                            |
 | [2010년](../Page/2010년.md "wikilink")                                                            |
 | [2014년](../Page/2014년.md "wikilink")                                                            |
+| [2020년](../Page/2020년.md "wikilink")                                                            |
 
 ## 전직 아나운서
 
@@ -380,6 +375,7 @@
   - [박효인](https://ko.wikipedia.org/wiki/박효인 "wikilink") 취재부장
   - [이준석](https://ko.wikipedia.org/wiki/이준석 "wikilink") 부산부장
   - [장성길](https://ko.wikipedia.org/wiki/장성길 "wikilink") 기장팀장
+  - [김영록](../Page/김영록.md "wikilink")
 
 <!-- end list -->
 
@@ -394,13 +390,21 @@
   - [김지원](https://ko.wikipedia.org/wiki/김지원 "wikilink") 취재부장
   - [강예슬](https://ko.wikipedia.org/wiki/강예슬 "wikilink") 양산팀장
   - [최위지](https://ko.wikipedia.org/wiki/최위지 "wikilink") 김해팀장
+  - [이도은](../Page/이도은.md "wikilink")
+
+## 같이 보기
+
+  - 노다지 English
 
 ## 각주
+
+## 참고 문헌
+
+  - [KBS 부산방송총국의 어제와 오늘 (1)](http://blog.daum.net/jc21th/17780085)
+  - [KBS 부산방송총국의 어제와 오늘 (2)](http://blog.daum.net/jc21th/17780086)
 
 ## 외부 링크
 
   - [KBS부산방송총국 공식 홈페이지](http://busan.kbs.co.kr/)
 
 [분류:1935년 설립된 라디오 방송국](https://ko.wikipedia.org/wiki/분류:1935년_설립된_라디오_방송국 "wikilink") [분류:1968년 설립된 텔레비전 방송국과 채널](https://ko.wikipedia.org/wiki/분류:1968년_설립된_텔레비전_방송국과_채널 "wikilink") [부산](https://ko.wikipedia.org/wiki/분류:한국방송공사의_지역방송국 "wikilink") [분류:대한민국의 부산광역시 지상파 방송국](https://ko.wikipedia.org/wiki/분류:대한민국의_부산광역시_지상파_방송국 "wikilink") [분류:부산광역시의 대중 매체](../Page/분류:부산광역시의_대중_매체.md "wikilink")
-
-1.  기존 [동양방송](../Page/동양방송.md "wikilink") 부산지국의 호출부호를 재활용하고 있다.

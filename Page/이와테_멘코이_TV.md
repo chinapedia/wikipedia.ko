@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  TV](https://ko.wikipedia.org/wiki/__TV).
+> This article is converted from Wikipedia: [이와테 멘코이 TV](https://ko.wikipedia.org/wiki/이와테_멘코이_TV).
 
 
 **이와테 멘코이 TV**는 [1991년](../Page/1991년.md "wikilink") [10월 1일](../Page/10월_1일.md "wikilink") [이와테현](../Page/이와테현.md "wikilink")의 3번째 민영방송국으로 개국했다.

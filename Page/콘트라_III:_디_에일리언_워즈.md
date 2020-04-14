@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ III:   ](https://ko.wikipedia.org/wiki/_III:___).
+> This article is converted from Wikipedia: [콘트라 III: 디 에일리언 워즈](https://ko.wikipedia.org/wiki/콘트라_III:_디_에일리언_워즈).
 
 
 《**콘트라 III: 디 에일리언 워즈**》(, 는 [코나미](../Page/코나미.md "wikilink")의 게임으로, [1992년](../Page/1992년.md "wikilink") 일본에서 발매되었다.

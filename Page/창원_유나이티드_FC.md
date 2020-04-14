@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  FC](https://ko.wikipedia.org/wiki/__FC).
+> This article is converted from Wikipedia: [창원 유나이티드 FC](https://ko.wikipedia.org/wiki/창원_유나이티드_FC).
 
 
 **창원 유나이티드**()는 [대한민국](../Page/대한민국.md "wikilink") [경상남도](https://ko.wikipedia.org/wiki/경상남도 "wikilink") [창원시](../Page/창원시.md "wikilink")를 연고지로 하는 축구팀이다. [K3리그](https://ko.wikipedia.org/wiki/챌린저스리그 "wikilink") 소속으로 팔용 어울림 인조구장을 홈구장으로 쓰고 있다. 이 팀이 생김으로써 창원은 [K리그](../Page/K리그.md "wikilink")의 [경남 FC](../Page/경남_FC.md "wikilink"), [한국 내셔널 리그의](https://ko.wikipedia.org/wiki/한국_내셔널_리그 "wikilink") [창원시청 축구단을](../Page/창원시청_축구단.md "wikilink") 포함해 3팀이 생겨 축구도시로 거듭났다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [WKB ](https://ko.wikipedia.org/wiki/WKB_).
+> This article is converted from Wikipedia: [WKB 근사](https://ko.wikipedia.org/wiki/WKB_근사).
 
 
 [양자역학](../Page/양자역학.md "wikilink")에서, **WKB 근사**(WKB近似, )는 [슈뢰딩거 방정식을](../Page/슈뢰딩거_방정식.md "wikilink") 풀 때, 순수하게 양자역학적인 효과가 작아 [파동 함수의](../Page/파동_함수.md "wikilink") 진폭 또는 위상이 거의 일정하다는 가정 아래 푸는 근사법이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TP](https://ko.wikipedia.org/wiki/TP).
+> This article is converted from Wikipedia: [TP모니터](https://ko.wikipedia.org/wiki/TP모니터).
 
 
 **TP모니터**(TP-monitor, Transaction Processing Monitor, Teleprocessing monitor)는 트랜잭션이 온전하게 처리되고 있는지, 오류가 발생하면 적절한 조치를 취하는지에 대해 여러 개의 로컬, 원격 [터미널](https://ko.wikipedia.org/wiki/텍스트_터미널 "wikilink") 간의 데이터 전송을 감시하는 통제 프로그램이다.\[1\] 각종 프로토콜에서 동작하는 세션과 시스템과 [데이터베이스](../Page/데이터베이스.md "wikilink") 사이의 최소 처리단위인 [트랜잭션](https://ko.wikipedia.org/wiki/트랜잭션 "wikilink")을 감시하여 일관성있게 보관 유지하는 역할을 하는 트랜잭션 관리 [미들웨어](../Page/미들웨어.md "wikilink")이다. 시장분석 기관인 [가트너](../Page/가트너.md "wikilink")(Gartner)에서는 TPM으로 표시하고 있고, 또 다른 시장분석 기관인 [IDC](https://ko.wikipedia.org/wiki/IDC "wikilink")에서는 ASSP의 일부로 분류하고 있다.

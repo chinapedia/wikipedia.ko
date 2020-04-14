@@ -41,11 +41,11 @@
 
 <!-- end list -->
 
-  - Mick Glossop(Landmark Studio) - 믹싱, 현악, 추가녹음
-      - Hiroaki Sato(Landmark), Tomoyoki Morikawa (Humble Heart) - 보조
+  - Mick Glossop(BIGBANG, 영국) - Mixing Engineer, 현악, 추가녹음
+  - Hiroaki Sato(Landmark Studio), Tomoyoki Morikawa (Humble Heart Music) - 보조
   - 이유억, 김은석(Universal studio) - 녹음
-  - Maeda Nobuo(Humble Heard Music, [일본](../Page/일본.md "wikilink")), 김훈기(BIGBANG, 한국) - 코디네이션
-  - Bobby Hata - [마스터링](https://ko.wikipedia.org/wiki/마스터링 "wikilink"){Disc Lab (On Air Ajabu) studio, [도쿄](../Page/도쿄.md "wikilink")}
+  - Maeda Nobuo(Humble Heard Music, [일본](../Page/일본.md "wikilink")), 김헌기(BIGBANG, 한국) - Recording Coordination
+  - Bobby Hata - [마스터링](https://ko.wikipedia.org/wiki/마스터링 "wikilink"){Disc Labo (On Air Ajabu studio) Tokyo}
   - 전상일 - [아트 디렉터](https://ko.wikipedia.org/wiki/아트_디렉터 "wikilink"), 디자인
   - 김서경 - [일러스트](https://ko.wikipedia.org/wiki/일러스트레이터 "wikilink")
   - 신해철 - [이그제큐티브 프로듀서](https://ko.wikipedia.org/wiki/이그제큐티브_프로듀서 "wikilink")

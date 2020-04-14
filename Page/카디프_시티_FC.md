@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  FC](https://ko.wikipedia.org/wiki/__FC).
+> This article is converted from Wikipedia: [카디프 시티 FC](https://ko.wikipedia.org/wiki/카디프_시티_FC).
 
 
 **카디프 시티 FC**(, )는 [웨일스](../Page/웨일스.md "wikilink")의 [카디프](../Page/카디프.md "wikilink")를 연고로 하는 축구 클럽이다.

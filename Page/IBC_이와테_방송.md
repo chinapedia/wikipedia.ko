@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [IBC  ](https://ko.wikipedia.org/wiki/IBC__).
+> This article is converted from Wikipedia: [IBC 이와테 방송](https://ko.wikipedia.org/wiki/IBC_이와테_방송).
 
 
 [오른쪽](https://ko.wikipedia.org/wiki/파일:Iwate_Ibc_logo.svg "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:Iwate_Broadcasting_Company.JPG "wikilink") **IBC 이와테 방송**은 [이와테현](../Page/이와테현.md "wikilink")의 첫 번째 민영방송국으로 라디오 방송국은 [1953년](../Page/1953년.md "wikilink") [12월 25일에](../Page/12월_25일.md "wikilink"), 텔레비전 방송국은 [1959년](../Page/1959년.md "wikilink") [9월 1일에](../Page/9월_1일.md "wikilink") 개국했다.

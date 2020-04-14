@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ABC \( \)](https://ko.wikipedia.org/wiki/ABC_\(_\)).
+> This article is converted from Wikipedia: [ABC \(프로그래밍 언어\)](https://ko.wikipedia.org/wiki/ABC_\(프로그래밍_언어\)).
 
 
 **ABC**는 범용의 [명령형](../Page/명령형_프로그래밍.md "wikilink") 컴퓨터 [프로그래밍 언어이면서](../Page/프로그래밍_언어.md "wikilink") 프로그래밍 환경이다. ABC는 [네덜란드](../Page/네덜란드.md "wikilink") [CWI](https://ko.wikipedia.org/wiki/CWI "wikilink")(Centrum voor Wiskunde en Informatica)의 [레오 회르츠](https://ko.wikipedia.org/wiki/레오_회르츠 "wikilink"), [람베르트 메르텐스](https://ko.wikipedia.org/wiki/람베르트_메르텐스 "wikilink"), [스티븐 펨버턴이](https://ko.wikipedia.org/wiki/스티븐_펨버턴 "wikilink") 개발하였다. ABC는 상호작용적이고 [구조적](https://ko.wikipedia.org/wiki/구조적 "wikilink")인 [고수준 언어로](https://ko.wikipedia.org/wiki/고수준_언어 "wikilink"), 배우고 쓰기 쉽고, [베이직](../Page/베이직.md "wikilink"), [파스칼](../Page/파스칼_\(프로그래밍_언어\).md "wikilink") 등을 대체할 목적으로 만들어졌다.

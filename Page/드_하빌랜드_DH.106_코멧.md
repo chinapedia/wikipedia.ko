@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  DH.106 ](https://ko.wikipedia.org/wiki/__DH.106_).
+> This article is converted from Wikipedia: [드 하빌랜드 DH.106 코멧](https://ko.wikipedia.org/wiki/드_하빌랜드_DH.106_코멧).
 
 
 **드 하빌랜드 DH.106 코멧**은 세계 최초의 상업용 제트 여객기로, 길이 28.35 m, 너비 35 m 크기의 [터보제트](https://ko.wikipedia.org/wiki/터보제트 "wikilink") [엔진](https://ko.wikipedia.org/wiki/엔진 "wikilink") 4기를 탑재하고 후퇴날개와 여압객실(與壓客室)을 갖추고 있으며, 승객 정원은 36명이다(1형).

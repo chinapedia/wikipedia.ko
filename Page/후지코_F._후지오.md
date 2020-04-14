@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ F. ](https://ko.wikipedia.org/wiki/_F._).
+> This article is converted from Wikipedia: [후지코 F. 후지오](https://ko.wikipedia.org/wiki/후지코_F._후지오).
 
 
 **후지코 F. 후지오**(藤子・F・不二雄(ふじこ・エフ・ふじお) [1933년](../Page/1933년.md "wikilink") [12월 1일](../Page/12월_1일.md "wikilink") \~ [1996년](../Page/1996년.md "wikilink") [9월 23일](../Page/9월_23일.md "wikilink"))는 [일본](../Page/일본.md "wikilink")의 [만화가](https://ko.wikipedia.org/wiki/만화가 "wikilink")이다. 본명은 **후지모토 히로시**(藤本 弘)(ふじもと ひろし)이다. 선배인 [테즈카 오사무의](https://ko.wikipedia.org/wiki/테즈카_오사무 "wikilink") 영향을 받았다.

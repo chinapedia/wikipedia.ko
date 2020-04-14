@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  USA](https://ko.wikipedia.org/wiki/__USA).
+> This article is converted from Wikipedia: [슈퍼 마리오 USA](https://ko.wikipedia.org/wiki/슈퍼_마리오_USA).
 
 
 《**슈퍼 마리오 USA**》() 또는 《**슈퍼 마리오브라더스 2**》()는 [닌텐도](../Page/닌텐도.md "wikilink") 초기의 [패밀리 컴퓨터용](../Page/패밀리_컴퓨터.md "wikilink") [아케이드 게임으로](../Page/아케이드_게임.md "wikilink"), [1988년](../Page/1988년.md "wikilink") [9월 9일](../Page/9월_9일.md "wikilink") 미국에서, [1992년](../Page/1992년.md "wikilink") [9월 24일](../Page/9월_24일.md "wikilink") 일본에서 발매되었다.

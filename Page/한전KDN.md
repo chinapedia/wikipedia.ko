@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KDN](https://ko.wikipedia.org/wiki/KDN).
+> This article is converted from Wikipedia: [한전KDN](https://ko.wikipedia.org/wiki/한전KDN).
 
 
 **한전KDN**(韓電-)은 발전, 송변전, 배전, 판매에 이르는 전력계통 부분의 IT 서비스를 담당, [한국전력공사](https://ko.wikipedia.org/wiki/한국전력공사 "wikilink")의 자회사이다. [전라남도](https://ko.wikipedia.org/wiki/전라남도 "wikilink") [나주시](https://ko.wikipedia.org/wiki/나주시 "wikilink") 빛가람로 661 (빛가람동)에 위치하고 있다.

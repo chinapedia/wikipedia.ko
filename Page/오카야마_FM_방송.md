@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ FM ](https://ko.wikipedia.org/wiki/_FM_).
+> This article is converted from Wikipedia: [오카야마 FM 방송](https://ko.wikipedia.org/wiki/오카야마_FM_방송).
 
 
 **오카야마 FM방송**은 일본의 FM라디오 방송국으로 [1999년](../Page/1999년.md "wikilink") [4월 1일](../Page/4월_1일.md "wikilink") 개국했으며 [오카야마현](../Page/오카야마현.md "wikilink")에서 방송을 실시하고 있다.

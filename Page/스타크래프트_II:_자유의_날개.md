@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ II:  ](https://ko.wikipedia.org/wiki/_II:__).
+> This article is converted from Wikipedia: [스타크래프트 II: 자유의 날개](https://ko.wikipedia.org/wiki/스타크래프트_II:_자유의_날개).
 
 
 《**스타크래프트 II: 자유의 날개**》 ()는 [블리자드 엔터테인먼트가](../Page/블리자드_엔터테인먼트.md "wikilink") [스타크래프트: 브루드 워의](../Page/스타크래프트:_브루드_워.md "wikilink") 후속작으로 출시한 전략 게임이다. [2010년](../Page/2010년.md "wikilink") [2월 18일](../Page/2월_18일.md "wikilink") 클로즈 베타 테스트를 시작했고, [2010년](../Page/2010년.md "wikilink") [7월 27일](../Page/7월_27일.md "wikilink") 오픈 베타 테스트를 시작함과 동시에 정식 발매되었다. 미래의 우주를 배경으로 한 [스타크래프트: 브루드 워](../Page/스타크래프트:_브루드_워.md "wikilink") 후 4년 뒤를 게임의 배경으로 하고 있으며 지구로부터 쫓겨난 범죄자들을 집단으로한 [테란](https://ko.wikipedia.org/wiki/테란 "wikilink")()과 집단 의식을 가진 절지동물 [저그](https://ko.wikipedia.org/wiki/저그 "wikilink")(), 고도로 발달한 외계 종족인 [프로토스](https://ko.wikipedia.org/wiki/프로토스 "wikilink")() 사이의 전쟁을 다루고 있다. [2010년](../Page/2010년.md "wikilink") [7월 20일](../Page/7월_20일.md "wikilink"), 최종 클로즈 베타 테스트를 끝마쳤으며, [2010년](../Page/2010년.md "wikilink") [7월 27일](../Page/7월_27일.md "wikilink") 오전 2시에 오픈 베타 테스트를 시작함과 동시에 정식 발매되었다.
@@ -110,7 +110,7 @@
 
 <!-- end list -->
 
-  - **[저그](https://ko.wikipedia.org/wiki/저그 "wikilink")(Zerg)**: 젤나가인[아몬](https://ko.wikipedia.org/wiki/아몬 "wikilink") 에게 진화된 종족으로써 제러스 행성에서 시작하여 코프룰루 구역까지 오게 된 [저그](https://ko.wikipedia.org/wiki/저그 "wikilink")는 [프로토스](https://ko.wikipedia.org/wiki/프로토스 "wikilink")의 테사다르에 의해 자신들의 주인 초월체(Overmind)가 죽자, 주도권을 '칼날 여왕' 케리건에게 넘겨준다. 이후 [저그](https://ko.wikipedia.org/wiki/저그 "wikilink")는 케리건을 중심으로 화산 행성 차에서 군단을 번식시키기 시작했으며 종족 전쟁 이후 4년 간 잠적해있는다. 케리건은 과거에 뉴게티스버그에서 자신을 내팽개치고 도주한 멩스크에 대한 증오와 분노가 극에 달해 있었다. 이후 레이너가 자치령의 황태자이자 친서민적이고 사회의 안녕과 질서를 생각하는 진보파인 발레리안 멩스크와 손을 잡아 차 행성에서 케리건을 프로토스 유물로 정화시킨다.\[9\]
+  - **[저그](https://ko.wikipedia.org/wiki/저그 "wikilink")(Zerg)**: 젤나가인[아몬](https://ko.wikipedia.org/wiki/아몬 "wikilink")에게 진화된 종족으로써 제러스 행성에서 시작하여 코프룰루 구역까지 오게 된 [저그](https://ko.wikipedia.org/wiki/저그 "wikilink")는 [프로토스](https://ko.wikipedia.org/wiki/프로토스 "wikilink")의 테사다르에 의해 자신들의 주인 초월체(Overmind)가 죽자, 주도권을 '칼날 여왕' 케리건에게 넘겨준다. 이후 [저그](https://ko.wikipedia.org/wiki/저그 "wikilink")는 케리건을 중심으로 화산 행성 차에서 군단을 번식시키기 시작했으며 종족 전쟁 이후 4년 간 잠적해있는다. 케리건은 과거에 뉴게티스버그에서 자신을 내팽개치고 도주한 멩스크에 대한 증오와 분노가 극에 달해 있었다. 이후 레이너가 자치령의 황태자이자 친서민적이고 사회의 안녕과 질서를 생각하는 진보파인 발레리안 멩스크와 손을 잡아 차 행성에서 케리건을 프로토스 유물로 정화시킨다.\[9\]
 
 ## 게임 플레이
 

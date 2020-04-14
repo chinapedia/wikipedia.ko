@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ DeNA ](https://ko.wikipedia.org/wiki/_DeNA_).
+> This article is converted from Wikipedia: [요코하마 DeNA 베이스타스](https://ko.wikipedia.org/wiki/요코하마_DeNA_베이스타스).
 
 
 1998 | 플레이오프 = | 시리즈 = 일본 시리즈 | 시리즈 우승 횟수= 2 | 시리즈 우승 = [1960](../Page/1960년_일본_시리즈.md "wikilink"){{•개행}}[1998](../Page/1998년_일본_시리즈.md "wikilink") | 이전 구단명 =

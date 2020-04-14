@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FC ](https://ko.wikipedia.org/wiki/FC_).
+> This article is converted from Wikipedia: [FC 퓨니크](https://ko.wikipedia.org/wiki/FC_퓨니크).
 
 
 **FC 퓨니크**()은 [아르메니아](../Page/아르메니아.md "wikilink")에서 인기있는 [축구](../Page/축구.md "wikilink") 클럽 가운데 하나이다. 퓨니크의 이전이름은 **아르메니쿰 예레반**(Armenikum Yerevan)이다. [2001년](../Page/2001년.md "wikilink")에 승격하게 되면서 현재의 FC 퓨니크란 이름으로 변경하였다. 퓨니크는 아르메니아의 수도인 [예레반](../Page/예레반.md "wikilink")에 있는 [나이리 경기장을](https://ko.wikipedia.org/wiki/나이리_경기장 "wikilink") 홈구장으로 사용하고 있다.

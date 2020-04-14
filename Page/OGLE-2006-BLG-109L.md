@@ -17,7 +17,7 @@ OGLE-2006-BLG-109L은 적어도 두 개의 행성([b](../Page/OGLE-2006-BLG-109L
 <th><p>질량<br />
 <span style="font-size:small;">(<a href="../Page/목성질량.md" title="wikilink">M<sub>J</sub></a>)</span></p></th>
 <th><p>공전주기<br />
-<span style="font-size:small;">(<a href="https://ko.wikipedia.org/wiki/날" title="wikilink">일</a>)</span></p></th>
+<span style="font-size:small;">(<a href="../Page/날.md" title="wikilink">일</a>)</span></p></th>
 <th><p>공전궤도 반지름<br />
 <span style="font-size:small;">(<a href="../Page/천문단위.md" title="wikilink">AU</a>)</span></p></th>
 <th><p>이심률</p></th>

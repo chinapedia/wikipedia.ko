@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TV ](https://ko.wikipedia.org/wiki/TV_).
+> This article is converted from Wikipedia: [TV 니시닛폰](https://ko.wikipedia.org/wiki/TV_니시닛폰).
 
 
 **TV 니시닛폰**()은 [1958년](../Page/1958년.md "wikilink") [8월 28일](../Page/8월_28일.md "wikilink") [후쿠오카현](../Page/후쿠오카현.md "wikilink")의 2번째 민영 텔레비전 방송국으로 개국했다.

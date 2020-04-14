@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ am BEST](https://ko.wikipedia.org/wiki/_am_BEST).
+> This article is converted from Wikipedia: [아이 am BEST](https://ko.wikipedia.org/wiki/아이_am_BEST).
 
 
 《**아이 am BEST**》()는 [일본](../Page/일본.md "wikilink")의 가수 [오쓰카 아이가](https://ko.wikipedia.org/wiki/오쓰카_아이 "wikilink") 발매한 베스트 앨범이다. [2007년](../Page/2007년.md "wikilink") [3월 28일에](../Page/3월_28일.md "wikilink") 발매되었는데, 이때 발매된 것은 CD에 DVD를 더한 CD+DVD반 뿐이고, 같은 해 4번째 정규 앨범 《[LOVE PiECE](../Page/LOVE_PiECE.md "wikilink")》가 발매되던 [9월 26일에](../Page/9월_26일.md "wikilink") 베스트 앨범의 히트를 기념하여 CD반도 발매되었다.

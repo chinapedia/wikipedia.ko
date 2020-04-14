@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  CEO](https://ko.wikipedia.org/wiki/__CEO).
+> This article is converted from Wikipedia: [박명수가 만난 CEO](https://ko.wikipedia.org/wiki/박명수가_만난_CEO).
 
 
 5人5色SHOW 《**박명수가 만난 CEO**》는 [대한민국](../Page/대한민국.md "wikilink")의 [OBS에서](https://ko.wikipedia.org/wiki/경인TV "wikilink") 방송하였던 예능 프로그램이다. '국내 최초 CEO 토크 버라이어티'를 표방한 이 프로그램은 사업적, 사회적으로 성공을 거둔 유명 [CEO](https://ko.wikipedia.org/wiki/CEO "wikilink")를 초청해 3인의 MC와 함께 CEO가 걸어온 길, 경영마인드, 성공에 대한 이야기를 나누는 프로그램이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [NEWS \( \)](https://ko.wikipedia.org/wiki/NEWS_\(_\)).
+> This article is converted from Wikipedia: [NEWS \(음악 그룹\)](https://ko.wikipedia.org/wiki/NEWS_\(음악_그룹\)).
 
 
 **NEWS**(뉴스)는 [일본](../Page/일본.md "wikilink")의 남성 아이돌 그룹이다. 소속 예능 사무소는 [쟈니즈 사무소](https://ko.wikipedia.org/wiki/자니즈_사무소 "wikilink"). 소속 레코드 회사는 [쟈니즈 엔터테인먼트](https://ko.wikipedia.org/wiki/자니즈_엔터테인먼트 "wikilink"). [2003년](../Page/2003년.md "wikilink") [9월 15일](../Page/9월_15일.md "wikilink") 결성.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FM](https://ko.wikipedia.org/wiki/FM).
+> This article is converted from Wikipedia: [굿모닝FM](https://ko.wikipedia.org/wiki/굿모닝FM).
 
 
 **굿모닝FM 장성규입니다**는 [문화방송](../Page/문화방송.md "wikilink")의 라디오 채널인 [MBC FM4U에서](../Page/MBC_FM4U.md "wikilink") 아침 7시부터 아침 9시까지 방송되는 아침정보 라디오 프로그램이다. 일부 지역에는 1, 2부만 또는 지역국에서 자체제작하여 방송하며, 화\~금요일에는 생방송, 월요일, 주말 및 공휴일에는 녹음방송으로 진행된다. 그리고 매주 화\~금요일에는 MBC 라디오 미니와 유튜브 "굿모닝FM 장성규입니다" 공식 채널에서 보이는 라디오로 방송된다.
@@ -28,7 +28,7 @@
 
 ## 코너
 
-### 평일 매일 코너
+### 평일 코너
 
   - 길바닥 토크
   - 뉴스 찬찬찬(이데일리 안승찬 기자)
@@ -39,7 +39,7 @@
   - 톡톡 오늘의 이슈 (김가영 기상캐스터)
   - 어쨌든 굿모닝
 
-### 평일 요일별 코너
+### 요일별 평일 코너
 
   - 월요일 : 현장취재, 로드맨이 간다 / 월 메이드, 3분 즉석 랩 With [배치기](../Page/배치기.md "wikilink")
   - 수요일 : 단어의 쓰임
@@ -54,6 +54,10 @@
 ### 일요일 코너
 
   - 일요뮤직드라-마
+
+### 비정규 코너
+
+  - 선넘는 초대석 (※ 이 코너가 있을경우 "톡톡 오늘의 이슈"와 "어쨌든 굿모닝" 코너는 휴방된다.)
 
 ## 지역 프로그램
 
@@ -70,7 +74,7 @@
 | [이은하의 FM모닝쇼](https://ko.wikipedia.org/wiki/이은하의_FM모닝쇼 "wikilink") (월\~토요일) | [대전광역시](https://ko.wikipedia.org/wiki/대전광역시 "wikilink"), [세종특별자치시](../Page/세종특별자치시.md "wikilink"), [충청남도](https://ko.wikipedia.org/wiki/충청남도 "wikilink") | [대전문화방송](../Page/대전문화방송.md "wikilink")         | 이은하 | FM 97.5㎒                                            |
 | [이영주의 일요음악여행](../Page/일요음악여행.md "wikilink") (일요일)                          | 이영주                                                                                                                                                      |                                                |     |                                                     |
 |                                                                            |                                                                                                                                                          |                                                |     |                                                     |
-| [김차동 FM모닝쇼](https://ko.wikipedia.org/wiki/김차동_FM모닝쇼 "wikilink")            | [전라북도](https://ko.wikipedia.org/wiki/전라북도 "wikilink")                                                                                                    | [전주문화방송](../Page/전주문화방송.md "wikilink")         | 김차동 | FM 99.1㎒                                            |
+| FM모닝쇼 조충훈입니다                                                               | [전라북도](https://ko.wikipedia.org/wiki/전라북도 "wikilink")                                                                                                    | [전주문화방송](../Page/전주문화방송.md "wikilink")         | 조충훈 | FM 99.1㎒                                            |
 | [김묘선의 FM모닝쇼](../Page/김묘선의_FM모닝쇼.md "wikilink")                             | [대구광역시](../Page/대구광역시.md "wikilink"), [경상북도](https://ko.wikipedia.org/wiki/경상북도 "wikilink") 중서남부                                                         | [대구문화방송](../Page/대구문화방송.md "wikilink")         | 김묘선 | FM 95.3㎒                                            |
 | 정세원의 FM모닝쇼                                                                 | [포항시](https://ko.wikipedia.org/wiki/포항시 "wikilink"), [경상북도](https://ko.wikipedia.org/wiki/경상북도 "wikilink") 동해안                                           | [포항문화방송](../Page/포항문화방송.md "wikilink")         | 정세원 | FM 97.9㎒ (포항, 경주), FM 94.9㎒ (영덕, 울진), FM 90.9㎒ (울릉) |
 | 굿모닝FM 조문주입니다 (평일)                                                          | [울산광역시](https://ko.wikipedia.org/wiki/울산광역시 "wikilink")                                                                                                  | [울산문화방송](../Page/울산문화방송.md "wikilink")         | 조문주 | FM 98.7㎒                                            |

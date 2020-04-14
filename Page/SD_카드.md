@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SD ](https://ko.wikipedia.org/wiki/SD_).
+> This article is converted from Wikipedia: [SD 카드](https://ko.wikipedia.org/wiki/SD_카드).
 
 
 **시큐어 디지털**(Secure Digital), 줄여서 **SD 카드**는 [마쓰시타와](https://ko.wikipedia.org/wiki/마쓰시타_전기산업 "wikilink") [샌디스크](../Page/샌디스크.md "wikilink"), [도시바](../Page/도시바.md "wikilink")가 [디지털 카메라](../Page/디지털_카메라.md "wikilink"), [핸드헬드 컴퓨터](https://ko.wikipedia.org/wiki/모바일_장치 "wikilink"), [PDA](https://ko.wikipedia.org/wiki/PDA "wikilink"), [GPS](../Page/GPS.md "wikilink") 장치와 같은 휴대용 장치에 사용하기 위해 개발한 [플래시](../Page/플래시_메모리.md "wikilink") ([비휘발성](../Page/비휘발성_메모리.md "wikilink")) [메모리 카드](../Page/메모리_카드.md "wikilink") 포맷이다. [2011년](../Page/2011년.md "wikilink") 기준으로, SD 카드의 용량은 8 [메가바이트](../Page/메가바이트.md "wikilink")에서 2 [테라바이트](https://ko.wikipedia.org/wiki/테라바이트 "wikilink")까지 사용할 수 있다. 4\~32 기가바이트를 갖춘 카드들은 높은 용량을 지원하는 것을 구분하기 위해서 SDHC로 구분하며, 64 기가바이트 제품부터는 SDXC라는 별도의 기준을 적용하고 있다.
@@ -241,4 +241,4 @@ SD 카드에 내장된 디지털 권리 관리 규격은 [4C 엔티티에](https
 5.  [Kingmax FAQ](http://www.kingmaxdigi.com/support/faq.htm), www.kingmaxdigi.com, 2006
 6.
 7.  <http://www.theregister.co.uk/2005/07/25/review_sandisk_ultra_ii_sd_plus/>
-8.  [A DATA Announces SD Card w/ Bi-stable Capacity Display](http://www.i4u.com/article7106.html)
+8.

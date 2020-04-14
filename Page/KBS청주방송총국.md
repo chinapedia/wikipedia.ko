@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KBS](https://ko.wikipedia.org/wiki/KBS).
+> This article is converted from Wikipedia: [KBS청주방송총국](https://ko.wikipedia.org/wiki/KBS청주방송총국).
 
 
 **KBS청주방송총국**(KBS淸州放送總局)은 [충청북도](https://ko.wikipedia.org/wiki/충청북도 "wikilink") 중남부 지역과 [세종특별자치시](../Page/세종특별자치시.md "wikilink") 일부 지역을 방송권역으로 하는 [한국방송공사](../Page/한국방송공사.md "wikilink")의 지역방송총국이다. 지역총국 중 하나로, [KBS충주방송국](../Page/KBS충주방송국.md "wikilink")을 하부에 두고 있다.
@@ -114,28 +114,28 @@
       - 호출부호 : HLKQ-DTV
       - 가상채널 : 9-1
 
-| 송신소     | UHD   | HD    | 송신소 위치 | 비고                       |
-| ------- | ----- | ----- | ------ | ------------------------ |
-| 물리채널    | 출력    | 물리채널  | 출력     |                          |
-| 1TV     | 2TV   | 1TV   | 2TV    |                          |
-| 우암산 송신소 |       | CH 23 | CH 34  | 2㎾                       |
-| 백곡 소출력  | CH 23 | CH 34 | 0.05W  | 충북 진천군 백곡면 석현리           |
-| 두태산 중계소 | CH 28 | CH 29 | 90W    | 충북 진천군 초평면 용정리 산30-26    |
-| 청천 중계소  | CH 20 | CH 23 | 5W     | 충북 괴산군 청천면 덕평리 산38-14    |
-| 미원 중계소  | CH 44 | CH 46 | 20W    | 충북 청주시 상당구 미원면 미원리 산27-1 |
-| 식장산 중계소 | CH 33 | ×     | 20W    | 대전 동구 세천동 산39            |
-| 회북 중계소  | CH ?? | CH ?? | 20W    | 충북 보은군 회인면 부수리 1-1 부수봉   |
-| 금적산 중계소 | CH 40 | CH 31 | 90W    | 충북 옥천군 안내면 오덕리 산1-1      |
-| 보은 중계소  | CH ?? | CH ?? | 20W    | 충북 보은군 보은읍 풍취리 산11-4     |
-| 산외 중계소  | CH ?? | CH ?? | 5W     | 충북 보은군 산외면 탁주리 산12       |
-| 속리 중계소  | CH ?? | CH ?? | 20W    | 충북 보은군 속리산면 사내리 산14-1    |
-| 도덕봉 중계소 | CH ?? | CH ?? | 20W    | 충북 옥천군 동이면 세산리 산23       |
-| 청산 중계소  | CH ?? | CH ?? | 20W    | 충북 옥천군 청산면 판수리 산15       |
-| 영동 중계소  | CH ?? | CH ?? | 90W    | 충북 영동군 영동읍 회동리 산10       |
-| 학산 중계소  | CH ?? | CH ?? | 20W    | 충북 영동군 학산면 박계리 472-2     |
-| 황간 중계소  | CH ?? | CH ?? | 20W    | 충북 영동군 매곡면 노천리 산3-17     |
-| 추풍령 중계소 | CH ?? | CH ?? | 5W     | 충북 영동군 추풍령면 지봉리 산31      |
-| 상촌 중계소  | CH ?? | CH ?? | 10W    | 충북 영동군 상촌면 돈대리 산105      |
+| 송신소     | UHD   | HD    | 송신소 위치 |
+| ------- | ----- | ----- | ------ |
+| 물리채널    | 출력    | 물리채널  | 출력     |
+| 1TV     | 2TV   | 1TV   | 2TV    |
+| 우암산 송신소 |       | CH 23 | CH 34  |
+| 백곡 소출력  | CH 23 | CH 34 | 0.05W  |
+| 두태산 중계소 | CH 28 | CH 29 | 90W    |
+| 청천 중계소  | CH 20 | CH 23 | 5W     |
+| 미원 중계소  | CH 44 | CH 46 | 20W    |
+| 식장산 중계소 | CH 33 | ×     | 20W    |
+| 회북 중계소  | CH ?? | CH ?? | 20W    |
+| 금적산 중계소 | CH 40 | CH 31 | 90W    |
+| 보은 중계소  | CH ?? | CH ?? | 20W    |
+| 산외 중계소  | CH ?? | CH ?? | 5W     |
+| 속리 중계소  | CH ?? | CH ?? | 20W    |
+| 도덕봉 중계소 | CH ?? | CH ?? | 20W    |
+| 청산 중계소  | CH ?? | CH ?? | 20W    |
+| 영동 중계소  | CH ?? | CH ?? | 90W    |
+| 학산 중계소  | CH ?? | CH ?? | 20W    |
+| 황간 중계소  | CH ?? | CH ?? | 20W    |
+| 추풍령 중계소 | CH ?? | CH ?? | 5W     |
+| 상촌 중계소  | CH ?? | CH ?? | 10W    |
 
   - 아날로그TV
 
@@ -165,7 +165,7 @@
 
 ### 라디오
 
-충청북도 중·남부 지역과 세종시 일부, 대전시 일부 등을 가청권으로 하고 있다. 2라디오의 경우 우암산송신소만 있기 때문에 남부3군 지역에서는 청주 2라디오의 수신이 곤란하며, 대신 대전국 식장산송신소의 전파를 수신할 수 있다.
+충청북도 중·남부 지역과 세종시 일부, 대전시 일부 등을 가청권으로 하고 있다. 2라디오의 경우 우암산송신소만 있기 때문에 남부 3군 지역에서는 청주 2라디오의 수신이 곤란하며, 대신 대전국 식장산송신소의 전파를 수신할 수 있다.
 
 | KBS청주 제1라디오        |
 | ------------------ |
@@ -186,7 +186,7 @@
 
 ## 제작 프로그램
 
-### [<span style="color:black">KBS TV</span>](https://ko.wikipedia.org/wiki/KBS_TV "wikilink")
+### [<span style="color:black">KBS TV</span>](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink")
 
 #### 뉴스
 
@@ -236,9 +236,9 @@
 </tbody>
 </table>
 
-#### TV
+#### 1TV
 
-  - 모든방송은 HD기준인 동시에 지역총국은 DMB방송을 하지않으며 [6시 내고향은](../Page/6시_내고향.md "wikilink") 월\~목요일사이에 네트워크 제작을 한다.
+  - 모든 방송은 HD 제작인 동시에 지역총국은 DMB 자체방송을 하지않으며 [6시 내고향은](../Page/6시_내고향.md "wikilink") 월\~목요일 사이에 네트워크 제작을 한다.
 
 | 방송 시간        | 프로그램                                           | 출연자     |
 | ------------ | ---------------------------------------------- | ------- |
@@ -255,20 +255,20 @@
 
   - 뉴스
 
-| 프로그램명                                                      | 방송시간                 | 편성시간                                       | 진행            |
-| ---------------------------------------------------------- | -------------------- | ------------------------------------------ | ------------- |
-| KBS 제1라디오 9시 뉴스                                            | 월요일 \~ 금요일           | 오전 9시 \~ 9시 5분                             | 김윤혜(TV:동시 송출) |
-| [KBS 제1라디오 정오종합뉴스](../Page/KBS_제1라디오_정오종합뉴스.md "wikilink") | 낮 12시 10분 \~ 12시 15분 | [최인희](../Page/최인희.md "wikilink")(TV:동시 송출) |               |
-| KBS 제1라디오 오후 5시 뉴스                                         | 오후 5시 \~ 5시 5분       | [박종화](../Page/박종화.md "wikilink")(TV:동시 송출) |               |
-|                                                            |                      |                                            |               |
+| 프로그램명                                                      | 방송시간                 | 편성시간                             | 진행  |
+| ---------------------------------------------------------- | -------------------- | -------------------------------- | --- |
+| KBS 제1라디오 9시 뉴스                                            | 월요일 \~ 금요일           | 오전 9시 \~ 9시 5분                   | 김윤혜 |
+| [KBS 제1라디오 정오종합뉴스](../Page/KBS_제1라디오_정오종합뉴스.md "wikilink") | 낮 12시 10분 \~ 12시 15분 | [최인희](../Page/최인희.md "wikilink") |     |
+| KBS 제1라디오 오후 5시 뉴스                                         | 오후 5시 \~ 5시 5분       | [박종화](../Page/박종화.md "wikilink") |     |
+|                                                            |                      |                                  |     |
 
   - 교양·시사
 
 <!-- end list -->
 
-  - [시사투데이](http://program.kbs.co.kr/1radio/local/sisatodaycj/pc/) (시사교양 월\~금 8:00\~8:58) (MC : [이해수](../Page/이해수_\(아나운서\).md "wikilink"))(TV:동시 송출)
-  - [생생충북](http://program.kbs.co.kr/1radio/local/sschb/pc/) (시사교양 월\~금 11:05\~11:40) (MC : 박종화)(TV:동시 송출)
-  - 여기는 KBS 청주 제1라디오 (매일 04:54\~05:00)(TV:동시 송출)
+  - [시사투데이](http://program.kbs.co.kr/1radio/local/sisatodaycj/pc/) (시사교양 월\~금 8:00\~8:58) (MC : [이해수](../Page/이해수_\(아나운서\).md "wikilink"))
+  - [생생충북](http://program.kbs.co.kr/1radio/local/sschb/pc/) (시사교양 월\~금 11:05\~11:40) (MC : 박종화)
+  - 여기는 KBS 청주 제1라디오 (매일 04:54\~05:00)
 
 종영방송
 
@@ -283,12 +283,12 @@
 
 ### 해피
 
-  - [양문석의 라디오 스타](http://program.kbs.co.kr/2radio/local/radiostar/pc/) (평일 19:00\~20:00) (MC : [양문석](../Page/양문석_\(1981년\).md "wikilink"))(TV:동시 송출)
-  - [프로야구 중계](https://ko.wikipedia.org/wiki/프로야구_중계 "wikilink") (진행 [이해수](../Page/이해수_\(아나운서\).md "wikilink"))(TV:동시 송출)
+  - [양문석의 라디오 스타](http://program.kbs.co.kr/2radio/local/radiostar/pc/) (평일 19:00\~20:00) (MC : [양문석](../Page/양문석_\(1981년\).md "wikilink"))
+  - [프로야구 중계](https://ko.wikipedia.org/wiki/프로야구_중계 "wikilink") (진행 [이해수](../Page/이해수_\(아나운서\).md "wikilink"))
 
 ### FM
 
-  - FM :[음악이 있는 곳에](http://program.kbs.co.kr/1fm/local/musicis/pc/) (평일 16:00\~17:00) (MC:김윤혜)(TV:동시 송출)
+  - FM :[음악이 있는 곳에](http://program.kbs.co.kr/1fm/local/musicis/pc/) (평일 16:00\~17:00) (MC:김윤혜)
 
 ## 관련 인물
 
@@ -346,7 +346,7 @@
   - [임지수](https://ko.wikipedia.org/wiki/임지수 "wikilink")(2016\~2017, 현 퇴사)
   - [백선일](../Page/백선일.md "wikilink")(2014\~2019, 현 휴직중)
   - [이승휘](https://ko.wikipedia.org/wiki/이승휘 "wikilink")(2018\~2019, 현 퇴사)
-  - [배소빈](https://ko.wikipedia.org/wiki/배소빈 "wikilink")(2019, 현 퇴사)
+  - [배소빈](https://ko.wikipedia.org/wiki/배소빈 "wikilink")(2019, 현 KBS 부산총국)
 
 ## 기자
 
@@ -359,13 +359,14 @@
   - [이규명](https://ko.wikipedia.org/wiki/이규명_\(기자\) "wikilink")
   - [구병회](https://ko.wikipedia.org/wiki/구병회 "wikilink")
   - [김영중](https://ko.wikipedia.org/wiki/김영중_\(기자\) "wikilink")
-  - [박희봉](https://ko.wikipedia.org/wiki/박희봉 "wikilink")
   - [이만영](../Page/이만영.md "wikilink")
   - [최일지](https://ko.wikipedia.org/wiki/최일지 "wikilink")(전 [KBS강릉방송국](../Page/KBS강릉방송국.md "wikilink") 아나운서로 이직)
   - [천춘환](https://ko.wikipedia.org/wiki/천춘환 "wikilink")
   - [함영구](https://ko.wikipedia.org/wiki/함영구 "wikilink")
-  - [황상길](https://ko.wikipedia.org/wiki/황상길 "wikilink")
   - [조진영](https://ko.wikipedia.org/wiki/조진영 "wikilink")
+  - [송근섭](https://ko.wikipedia.org/wiki/송근섭 "wikilink")
+  - [정진규](https://ko.wikipedia.org/wiki/정진규 "wikilink")
+  - [송국회](https://ko.wikipedia.org/wiki/송국회 "wikilink")
 
 <!-- end list -->
 
@@ -406,6 +407,6 @@
 
 ## 외부 링크
 
-  - [KBS청주방송총국 공식 홈페이지](http://cheongju.kbs.co.kr)
+  - [KBS청주방송총국 홈페이지](http://cheongju.kbs.co.kr)
 
 [청주](https://ko.wikipedia.org/wiki/분류:한국방송공사의_지역방송국 "wikilink") [분류:1945년 설립](https://ko.wikipedia.org/wiki/분류:1945년_설립 "wikilink") [분류:대한민국의 충청북도 지상파 방송국](https://ko.wikipedia.org/wiki/분류:대한민국의_충청북도_지상파_방송국 "wikilink") [분류:충청북도의 대중 매체](../Page/분류:충청북도의_대중_매체.md "wikilink") [분류:청주시](https://ko.wikipedia.org/wiki/분류:청주시 "wikilink") [분류:서원구](https://ko.wikipedia.org/wiki/분류:서원구 "wikilink")

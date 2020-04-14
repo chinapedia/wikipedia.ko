@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FM ](https://ko.wikipedia.org/wiki/FM_).
+> This article is converted from Wikipedia: [FM 후쿠오카](https://ko.wikipedia.org/wiki/FM_후쿠오카).
 
 
 [썸네일](https://ko.wikipedia.org/wiki/파일:Fmfukuoka_openstudio.jpg "wikilink") **FM후쿠오카**는 일본의 FM라디오 방송국으로 [후쿠오카현](../Page/후쿠오카현.md "wikilink")에서 방송을 실시하고 있다.

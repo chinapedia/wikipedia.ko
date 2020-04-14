@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
+> This article is converted from Wikipedia: [툴루즈 FC](https://ko.wikipedia.org/wiki/툴루즈_FC).
 
 
 **툴루즈 풋볼 클뢰브**(Toulouse Football Club)는 [툴루즈](../Page/툴루즈.md "wikilink")를 연고로 하는 [프랑스](../Page/프랑스.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다. 1970년에 창단되어 현재 프랑스내 가장 높은 리그인 [리그 1에](https://ko.wikipedia.org/wiki/리그_1 "wikilink") 참가 중이다. 툴루즈내에 위치한 [스타디움 뮈니시팔을](../Page/스타디움_뮈니시팔.md "wikilink") 홈구장으로 사용하고 있다.

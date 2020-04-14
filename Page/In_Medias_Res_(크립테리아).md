@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [In Medias Res \(\)](https://ko.wikipedia.org/wiki/In_Medias_Res_\(\)).
+> This article is converted from Wikipedia: [In Medias Res \(크립테리아\)](https://ko.wikipedia.org/wiki/In_Medias_Res_\(크립테리아\)).
 
 
 《**In Medias Res**》는 [크립테리아](../Page/크립테리아.md "wikilink")의 1번째 정규 음반\[[http://www.krypteria.de/?i=4\]으로](http://www.krypteria.de/?i=4%5D으로), 제목의 뜻은 “사건의 중심으로”이다.

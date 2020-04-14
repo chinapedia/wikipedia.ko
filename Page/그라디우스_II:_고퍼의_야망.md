@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ II:  ](https://ko.wikipedia.org/wiki/_II:__).
+> This article is converted from Wikipedia: [그라디우스 II: 고퍼의 야망](https://ko.wikipedia.org/wiki/그라디우스_II:_고퍼의_야망).
 
 
 《**그라디우스 II: 고퍼의 야망**》(, )는 일본 [코나미](../Page/코나미.md "wikilink")사의 [횡스크롤 슈팅 게임으로](https://ko.wikipedia.org/wiki/횡스크롤_슈팅_게임 "wikilink"), [1988년](../Page/1988년.md "wikilink")에 [그라디우스](https://ko.wikipedia.org/wiki/그라디우스 "wikilink")의 후속작으로 제작되었다. 부제는 ‘고파의 야망’이고, [유럽](../Page/유럽.md "wikilink") 및 [북아메리카](../Page/북아메리카.md "wikilink")판 제목은 ‘발칸 벤처(Vulcan Venture)’이다. 게임 형식의 대부분을 전작 그대로 답습하였다.

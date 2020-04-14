@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:EAFF E-1  ](https://ko.wikipedia.org/wiki/:EAFF_E-1__).
+> This article is converted from Wikipedia: [틀:EAFF E-1 풋볼 챔피언십](https://ko.wikipedia.org/wiki/틀:EAFF_E-1_풋볼_챔피언십).
 
 
 <onlyinclude></onlyinclude>

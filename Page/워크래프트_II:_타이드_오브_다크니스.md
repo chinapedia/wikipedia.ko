@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ II:   ](https://ko.wikipedia.org/wiki/_II:___).
+> This article is converted from Wikipedia: [워크래프트 II: 타이드 오브 다크니스](https://ko.wikipedia.org/wiki/워크래프트_II:_타이드_오브_다크니스).
 
 
 《**워크래프트 II: 타이드 오브 다크니스**》()는 [블리자드 엔터테인먼트가](../Page/블리자드_엔터테인먼트.md "wikilink") [워크래프트: 오크 앤드 휴먼의](https://ko.wikipedia.org/wiki/워크래프트:_오크_앤드_휴먼 "wikilink") 후속편으로 개발한 게임이다. 전작에 비해 시스템과 그래픽이 매우 발전하였고, 상당한 인기를 끌었다.

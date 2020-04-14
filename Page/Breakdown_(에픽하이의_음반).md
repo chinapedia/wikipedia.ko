@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Breakdown \( \)](https://ko.wikipedia.org/wiki/Breakdown_\(_\)).
+> This article is converted from Wikipedia: [Breakdown \(에픽하이의 음반\)](https://ko.wikipedia.org/wiki/Breakdown_\(에픽하이의_음반\)).
 
 
 **Breakdown**은 에픽하이 정규 5집의 노래이기도 하며 리패키지 음반이기도 하다. 후속 활동을 하기 위하여 온라인 음반으로 발매되었으며 에픽하이 정규 5집 한정판 [Broken Pieces에](https://ko.wikipedia.org/wiki/Pieces,_Part_One#Broken_Pieces "wikilink") 있는 보너스 곡 "Love Love Love (Astronica Remix)"가 수록되었다. 소품집인 [Lovescream](../Page/Lovescream.md "wikilink") 발매 전까지 "Breakdown"과 〈우산〉을 중심으로 활동하였다.

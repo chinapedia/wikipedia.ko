@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [RQ-7 ](https://ko.wikipedia.org/wiki/RQ-7_).
+> This article is converted from Wikipedia: [RQ-7 섀도](https://ko.wikipedia.org/wiki/RQ-7_섀도).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Shadow_200_UAV.jpg "wikilink") **RQ-7 섀도**()는 [AAI 코퍼레이션에서](https://ko.wikipedia.org/wiki/AAI_코퍼레이션 "wikilink") 개발한 [무인 항공기기이다](../Page/무인_항공기.md "wikilink").

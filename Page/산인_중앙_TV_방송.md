@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  TV ](https://ko.wikipedia.org/wiki/__TV_).
+> This article is converted from Wikipedia: [산인 중앙 TV 방송](https://ko.wikipedia.org/wiki/산인_중앙_TV_방송).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Tsk_logo.svg "wikilink")

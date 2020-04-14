@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Wii  ](https://ko.wikipedia.org/wiki/Wii__).
+> This article is converted from Wikipedia: [Wii 게임 목록](https://ko.wikipedia.org/wiki/Wii_게임_목록).
 
 
 이 문서는 [대한민국](../Page/대한민국.md "wikilink")에 정식 발매된 [Wii](../Page/Wii.md "wikilink") [소프트웨어](../Page/소프트웨어.md "wikilink") 목록을 나열한 것이다.

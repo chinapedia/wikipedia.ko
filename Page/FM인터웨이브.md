@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FM](https://ko.wikipedia.org/wiki/FM).
+> This article is converted from Wikipedia: [FM인터웨이브](https://ko.wikipedia.org/wiki/FM인터웨이브).
 
 
 **FM인터웨이브**는 일본의 FM라디오 방송국으로 간토광역권의 외국어 방송구역인 도쿄 23구·사이타마 시·지바 시·요코하마 시·가와사키 시·나리타 국제공항 에서 방송을 실시하고 있다.

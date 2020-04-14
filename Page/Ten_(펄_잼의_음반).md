@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Ten \(  \)](https://ko.wikipedia.org/wiki/Ten_\(__\)).
+> This article is converted from Wikipedia: [Ten \(펄 잼의 음반\)](https://ko.wikipedia.org/wiki/Ten_\(펄_잼의_음반\)).
 
 
 《**Ten**》은 [1991년](../Page/1991년.md "wikilink") 발매 된 [펄 잼의](../Page/펄_잼.md "wikilink") 첫 번째 음반이다. [너바나](../Page/너바나.md "wikilink")의 《[Nevermind](../Page/Nevermind.md "wikilink")》와 함께 [90년대](../Page/1990년대.md "wikilink") [미국](../Page/미국.md "wikilink") [록](https://ko.wikipedia.org/wiki/록 "wikilink")에서 가장 중요한 음반으로 꼽힌다. [미국](../Page/미국.md "wikilink")보다 [영국](../Page/영국.md "wikilink")에서 먼저 공개되었다.

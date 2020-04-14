@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [CAS ](https://ko.wikipedia.org/wiki/CAS_).
+> This article is converted from Wikipedia: [CAS 등록번호](https://ko.wikipedia.org/wiki/CAS_등록번호).
 
 
 **CAS 등록 번호**(CAS Registry Number\[1\], **CASRN** 또는 **CAS 번호**)는 이제까지 알려진 모든 화합물, 중합체 등을 기록하는 번호이다. 미국 화학회 [American Chemical Society](http://www.acs.org)에서 운영하는 서비스이며, 모든 [화학 물질을](../Page/화학_물질.md "wikilink") 중복 없이 찾을 수 있도록 한다.
@@ -21,7 +21,7 @@
   - [화학 합성 데이터베이스](http://www.chemsynthesis.com/)
   - [CAS 쿼리 검색 도구](http://www.cas-no.org/kr.html)
 
-[분류:미국 화학회](https://ko.wikipedia.org/wiki/분류:미국_화학회 "wikilink")
+[분류:화학 데이터베이스](https://ko.wikipedia.org/wiki/분류:화학_데이터베이스 "wikilink") [분류:화학 명명법](https://ko.wikipedia.org/wiki/분류:화학_명명법 "wikilink")
 
 1.  [CAS registry description](http://www.cas.org/expertise/cascontent/registry/regsys.html) , by Chemical Abstracts Service
 2.  [Chemical Substances - CAS REGISTRY](https://www.cas.org/content/chemical-substances)

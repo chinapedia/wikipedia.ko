@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ SSD](https://ko.wikipedia.org/wiki/_SSD).
+> This article is converted from Wikipedia: [팔레르모 SSD](https://ko.wikipedia.org/wiki/팔레르모_SSD).
 
 
 **팔레르모 소치에타 스포르티바 딜레탄티스티카**()는 시칠리아 섬의 [팔레르모](../Page/팔레르모.md "wikilink")를 연고로 하는 [이탈리아](../Page/이탈리아.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다. 1900년에 *Anglo Panormitan Athletic and Football Club*라는 이름으로 세워졌고, 그 이후로 여러 차례 이름이 바뀌다 1987년의 현재의 최종 명칭으로 정해졌으며, 시칠리아 섬 내에 있는 축구 클럽중에서 가장 높은 순위에 올랐었다. 역사적으로, 팔레르모는 모두 프로 리그에 참가했었고, 특히 1960년대와 1970년대 동안에는 세리에 A에 참가했었고, 그 기간 동안에 세 차례의 [코파 이탈리아](../Page/코파_이탈리아.md "wikilink") 준우승을 했었다.

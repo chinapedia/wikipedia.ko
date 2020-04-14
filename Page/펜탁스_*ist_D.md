@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ \*ist D](https://ko.wikipedia.org/wiki/_\*ist_D).
+> This article is converted from Wikipedia: [펜탁스 \*ist D](https://ko.wikipedia.org/wiki/펜탁스_\*ist_D).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Pentax_istD_K7NS1900.jpg "wikilink") **펜탁스 \*istD**()는 23.7 x 16.6 mm 크기의 631만 (610만 [유효 화소](https://ko.wikipedia.org/wiki/유효_화소 "wikilink"))[CCD](https://ko.wikipedia.org/wiki/CCD "wikilink")를 가지는 [펜탁스](../Page/펜탁스.md "wikilink") 최초의 [디지털 SLR카메라이자](https://ko.wikipedia.org/wiki/디지털_SLR "wikilink"), 중급기종이다. 이 카메라는 [2003년](../Page/2003년.md "wikilink") 가을에 시판되었으며, [대한민국](../Page/대한민국.md "wikilink")에서는 상표권 문제로 **PENTAX zxD**라는 상품명으로 발매되었다.

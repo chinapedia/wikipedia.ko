@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FC ](https://ko.wikipedia.org/wiki/FC_).
+> This article is converted from Wikipedia: [FC 흐로닝언](https://ko.wikipedia.org/wiki/FC_흐로닝언).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Fcgroningen72-11.png "wikilink")

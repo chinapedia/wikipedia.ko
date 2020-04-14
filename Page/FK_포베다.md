@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FK ](https://ko.wikipedia.org/wiki/FK_).
+> This article is converted from Wikipedia: [FK 포베다](https://ko.wikipedia.org/wiki/FK_포베다).
 
 
 **FK 포베다**()는 [북마케도니아](../Page/북마케도니아.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다. 현재 [북마케도니아 1부 리그에서](../Page/북마케도니아_1부_리그.md "wikilink") 활동하고 있으며 연고지는 [프릴레프](../Page/프릴레프.md "wikilink")이다. 포베다는 [1941년](../Page/1941년.md "wikilink")에 **고체 델체프**로 창단되었고, [1950년](../Page/1950년.md "wikilink")에 현재의 이름인 FK 포베다로 변경하였다.

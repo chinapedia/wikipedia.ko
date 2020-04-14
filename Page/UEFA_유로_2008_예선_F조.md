@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [UEFA  2008  F](https://ko.wikipedia.org/wiki/UEFA__2008__F).
+> This article is converted from Wikipedia: [UEFA 유로 2008 예선 F조](https://ko.wikipedia.org/wiki/UEFA_유로_2008_예선_F조).
 
 
 다음은 **[UEFA 유로 2008 예선](../Page/UEFA_유로_2008_예선.md "wikilink") F조**의 순위와 경기 결과이다.

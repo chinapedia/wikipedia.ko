@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [MQ-1 ](https://ko.wikipedia.org/wiki/MQ-1_).
+> This article is converted from Wikipedia: [MQ-1 프레데터](https://ko.wikipedia.org/wiki/MQ-1_프레데터).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:MQ-1_Predator.jpg "wikilink") 미사일을 장착한 프레데터\]\] **MQ-1 프레데터**()는 [미국](../Page/미국.md "wikilink")의 MALE(중고도 장시간 체공:medium-altitude, long-endurance) [UAV](https://ko.wikipedia.org/wiki/UAV "wikilink") 시스템이다. 이것은 정찰 뿐 아니라, [AGM-114 헬파이어 미사일과](../Page/AGM-114_헬파이어.md "wikilink") 같은 무기도 장착할 수 있다. [1995년](../Page/1995년.md "wikilink")부터 [아프가니스탄](https://ko.wikipedia.org/wiki/아프가니스탄 "wikilink"), [보스니아](../Page/보스니아.md "wikilink"), [코소보](../Page/코소보.md "wikilink"), [이라크](../Page/이라크.md "wikilink"), [예멘](../Page/예멘.md "wikilink") 등에서 실전에 사용되었다.

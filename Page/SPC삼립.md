@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SPC](https://ko.wikipedia.org/wiki/SPC).
+> This article is converted from Wikipedia: [SPC삼립](https://ko.wikipedia.org/wiki/SPC삼립).
 
 
 **SPC삼립**(SPC三立(食品),SPC Samlip Corporation)은 [대한민국](../Page/대한민국.md "wikilink")의 [제빵](https://ko.wikipedia.org/wiki/제빵 "wikilink") 전문 식품회사다. SPC삼립은 [SPC그룹](../Page/SPC그룹.md "wikilink")에 편입되고서 [샤니](https://ko.wikipedia.org/wiki/샤니 "wikilink") 브랜드 제품도 생산하며, 본사는 [경기도](https://ko.wikipedia.org/wiki/경기도 "wikilink") [시흥시](../Page/시흥시.md "wikilink") 공단1대로 101(정왕동)에 있다.

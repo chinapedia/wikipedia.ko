@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KBS  ](https://ko.wikipedia.org/wiki/KBS__).
+> This article is converted from Wikipedia: [KBS 오늘의 경제](https://ko.wikipedia.org/wiki/KBS_오늘의_경제).
 
 
 **KBS 오늘의 경제**는 [대한민국](../Page/대한민국.md "wikilink") [KBS 1TV에서](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink") 평일 오후 4시에 방송되었던 [한국방송공사의 낮 경제뉴스 프로그램이다](../Page/한국방송공사의_뉴스_프로그램.md "wikilink").

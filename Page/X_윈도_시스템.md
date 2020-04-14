@@ -1,9 +1,9 @@
-> This article is converted from Wikipedia: [X  ](https://ko.wikipedia.org/wiki/X__).
+> This article is converted from Wikipedia: [X 윈도 시스템](https://ko.wikipedia.org/wiki/X_윈도_시스템).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:X-Window-System.png "wikilink")[창 관리자가](https://ko.wikipedia.org/wiki/창_관리자 "wikilink") 실행되어 있는 X 서버의 모습\]\] [섬네일](https://ko.wikipedia.org/wiki/파일:Screenshot_of_KDE..png "wikilink") 창 관리자를 이용한 현대적인 그래픽 [유저 인터페이스](https://ko.wikipedia.org/wiki/유저_인터페이스 "wikilink")([GUI](https://ko.wikipedia.org/wiki/GUI "wikilink"))의 예시.\]\]
 
-**X 윈도 시스템** (X Window System, 흔히 X11, X라고 알려져 있음. )은 주로 [유닉스 계열](../Page/유닉스_계열.md "wikilink") [운영체제](https://ko.wikipedia.org/wiki/운영체제 "wikilink")에서 사용되는 [윈도 시스템이다](https://ko.wikipedia.org/wiki/윈도_시스템 "wikilink").
+**X 윈도 시스템**(X Window System, 흔히 X11, X라고 알려져 있음. )은 주로 [유닉스 계열](../Page/유닉스_계열.md "wikilink") [운영체제](https://ko.wikipedia.org/wiki/운영체제 "wikilink")에서 사용되는 [윈도 시스템이다](https://ko.wikipedia.org/wiki/윈도_시스템 "wikilink").
 
 X 윈도 시스템은 [디스플레이 장치에](https://ko.wikipedia.org/wiki/디스플레이_장치 "wikilink") [창을](../Page/창_\(컴퓨팅\).md "wikilink") 표시하며 [마우스](../Page/마우스.md "wikilink")와 [키보드](https://ko.wikipedia.org/wiki/키보드 "wikilink") 등의 [입력 장치의](../Page/컴퓨터_입력_장치.md "wikilink") 상호작용 등을 관리해 [GUI](https://ko.wikipedia.org/wiki/GUI "wikilink") 환경의 구현을 위한 기본적인 [프레임워크를](../Page/소프트웨어_프레임워크.md "wikilink") 제공한다.
 

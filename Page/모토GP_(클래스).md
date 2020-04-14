@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [GP \(\)](https://ko.wikipedia.org/wiki/GP_\(\)).
+> This article is converted from Wikipedia: [모토GP \(클래스\)](https://ko.wikipedia.org/wiki/모토GP_\(클래스\)).
 
 
 [thumb](https://ko.wikipedia.org/wiki/파일:Capirossi_Hayden_Rossi_2005.jpg "wikilink") **모토GP**는 [모터사이클 그랑프리의](https://ko.wikipedia.org/wiki/모터사이클_그랑프리 "wikilink") 경기 중 하나로 모토GP, 모토2, 모토3으로 나뉜 카테고리에서 최상위 클래스의 모터사이클 레이스이다. 공식으로는 1949년 [국제 모터사이클 연맹에](https://ko.wikipedia.org/wiki/국제_모터사이클_연맹 "wikilink") 의해 첫 개최되었다. 현재는 [:en:Dorna Sports가](https://ko.wikipedia.org/wiki/:en:Dorna_Sports "wikilink") TV중계권 외 상업권을 획득하고 있다.

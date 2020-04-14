@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FC  ](https://ko.wikipedia.org/wiki/FC__).
+> This article is converted from Wikipedia: [FC 레바디아 탈린](https://ko.wikipedia.org/wiki/FC_레바디아_탈린).
 
 
 **FC 레바디아 탈린**(Football Club Levadia Tallinn)은 [에스토니아](../Page/에스토니아.md "wikilink")의 축구 클럽으로 수도인 [탈린](../Page/탈린.md "wikilink")을 연고지로 삼고 있다.

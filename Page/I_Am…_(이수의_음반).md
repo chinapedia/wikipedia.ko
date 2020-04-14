@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [I Am \( \)](https://ko.wikipedia.org/wiki/I_Am_\(_\)).
+> This article is converted from Wikipedia: [I Am… \(이수의 음반\)](https://ko.wikipedia.org/wiki/I_Am…_\(이수의_음반\)).
 
 
 ***I Am…***은 [엠씨 더 맥스의](https://ko.wikipedia.org/wiki/엠씨_더_맥스 "wikilink") 보컬 [이수의](../Page/이수_\(가수\).md "wikilink") 솔로 1집 앨범이다.

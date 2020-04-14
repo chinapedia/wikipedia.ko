@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ CF](https://ko.wikipedia.org/wiki/_CF).
+> This article is converted from Wikipedia: [말라가 CF](https://ko.wikipedia.org/wiki/말라가_CF).
 
 
 **말라가 클루브 데 푸트볼**(Málaga Club de Fútbol)은 [안달루시아 지방의](https://ko.wikipedia.org/wiki/안달루시아_지방 "wikilink") [말라가](../Page/말라가.md "wikilink")를 연고로 하는 [스페인](../Page/스페인.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다.

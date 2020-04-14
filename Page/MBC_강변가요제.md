@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [MBC ](https://ko.wikipedia.org/wiki/MBC_).
+> This article is converted from Wikipedia: [MBC 강변가요제](https://ko.wikipedia.org/wiki/MBC_강변가요제).
 
 
 **MBC 강변가요제**(MBC 江邊歌謠祭)는 [문화방송](../Page/문화방송.md "wikilink")의 주최로 매년 7월과 8월 사이에 [청평유원지](https://ko.wikipedia.org/wiki/청평유원지 "wikilink"), [남이섬](../Page/남이섬.md "wikilink"), [춘천시](https://ko.wikipedia.org/wiki/춘천시 "wikilink") 등지에서 개최된 대학생 중심의 가요 경연 대회이다. [1979년](../Page/1979년.md "wikilink")부터 [2001년](../Page/2001년.md "wikilink")까지 개최되었다.

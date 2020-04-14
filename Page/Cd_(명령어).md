@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Cd \(\)](https://ko.wikipedia.org/wiki/Cd_\(\)).
+> This article is converted from Wikipedia: [Cd \(명령어\)](https://ko.wikipedia.org/wiki/Cd_\(명령어\)).
 
 
 **`cd`** 또는 **`chdir`**은 디렉터리 변경(**ch**ange **dir**ectory)의 준말이며, [유닉스](../Page/유닉스.md "wikilink"), [윈도](https://ko.wikipedia.org/wiki/마이크로소프트_윈도 "wikilink"), [도스](../Page/도스.md "wikilink")와 같은 운영체제에서 현재의 [작업 디렉터리의](https://ko.wikipedia.org/wiki/작업_디렉터리 "wikilink") 위치를 바꾸는 [명령 줄이다](../Page/명령_줄_인터페이스.md "wikilink"). 유닉스 [셸 스크립트와](../Page/셸_스크립트.md "wikilink") 윈도, 도스의 [배치 파일에서](../Page/배치_파일.md "wikilink") 모두 사용할 수 있다.

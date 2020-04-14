@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FK  ](https://ko.wikipedia.org/wiki/FK__).
+> This article is converted from Wikipedia: [FK 하자르 렌케란](https://ko.wikipedia.org/wiki/FK_하자르_렌케란).
 
 
 **FK 하자르 렌케란**(은 [아제르바이잔](../Page/아제르바이잔.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽으로, 아제르바이잔의 최상위 축구 리그인 [아제르바이잔 프리미어리그에서](../Page/아제르바이잔_프리미어리그.md "wikilink") 활동하고 있다.

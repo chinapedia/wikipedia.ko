@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [DTS-HD  ](https://ko.wikipedia.org/wiki/DTS-HD__).
+> This article is converted from Wikipedia: [DTS-HD 마스터 오디오](https://ko.wikipedia.org/wiki/DTS-HD_마스터_오디오).
 
 
 **DTS-HD 마스터 오디오**(, 줄여서 DTS-HD MA)는 [무손실](https://ko.wikipedia.org/wiki/무손실_압축 "wikilink") 오디오 [코덱](../Page/코덱.md "wikilink")이다. [디지털 시어터 시스템](https://ko.wikipedia.org/wiki/디지털_시어터_시스템 "wikilink")(DTS)이 만들었다. 예전 이름은 DTS++, DTS-HD였다. [DTS 코히어런트 어쿠스틱스](https://ko.wikipedia.org/wiki/DTS_코히어런트_어쿠스틱스 "wikilink")(흔히 줄여서 DTS)의 확장판이다. DTS-HD 마스터 오디오를 지원하지 못하는 기기에서는 DTS-HD 마스터 오디오는 보통의 [손실 압축](../Page/손실_압축.md "wikilink") 1.5Mbit/s "코어" 트랙으로 재생된다. DTS-HD 마스터 오디오는 [블루레이 디스크](https://ko.wikipedia.org/wiki/블루레이_디스크 "wikilink"), [HD-DVD](../Page/HD-DVD.md "wikilink")의 선택가능한(optional) 오디오 포맷이다.

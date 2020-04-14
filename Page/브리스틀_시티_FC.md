@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  FC](https://ko.wikipedia.org/wiki/__FC).
+> This article is converted from Wikipedia: [브리스틀 시티 FC](https://ko.wikipedia.org/wiki/브리스틀_시티_FC).
 
 
 **브리스틀 시티 FC**(Bristol City Football Club)는 [잉글랜드](../Page/잉글랜드.md "wikilink") [브리스틀](../Page/브리스틀.md "wikilink")을 연고로 하는 잉글랜드의 축구 클럽이다.

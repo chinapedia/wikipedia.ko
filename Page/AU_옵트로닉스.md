@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [AU ](https://ko.wikipedia.org/wiki/AU_).
+> This article is converted from Wikipedia: [AU 옵트로닉스](https://ko.wikipedia.org/wiki/AU_옵트로닉스).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Acer_Extensa_5220_-_AU_Optronics_B154EW02-4911.jpg "wikilink") **AU 옵트로닉스 주식회사**(는 **AUO**라고도 불리며, [박막 트랜지스터 액정 디스플레이](../Page/박막_트랜지스터_액정_디스플레이.md "wikilink") [패널을](https://ko.wikipedia.org/wiki/평판_패널 "wikilink") 제조하는 기업중 [세계](../Page/세계.md "wikilink")에서 3번째로 큰 기업이고, [중화민국](../Page/중화민국.md "wikilink")에서 가장 큰 기업이다. AU 옵트로닉스는 ([1996년](../Page/1996년.md "wikilink")에 설립된 AUO가) [2001년 9월에](https://ko.wikipedia.org/wiki/2001년_9월 "wikilink") 에이서 디스플레이 테크놀로지 주식회사와 합병하면서 설립되었다. [2006년 10월에](../Page/2006년_10월.md "wikilink"), AUO는 [콴타 디스플레이와](https://ko.wikipedia.org/wiki/콴타_디스플레이 "wikilink") [합병](https://ko.wikipedia.org/wiki/합병 "wikilink")하여 오늘날 대형 박막 트랜지스터 액정 디스플레이 시장의 20%를 점유하는 거대 TFT-LCD 제조사가 되었다.

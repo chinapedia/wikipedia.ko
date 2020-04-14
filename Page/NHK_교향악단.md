@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [NHK ](https://ko.wikipedia.org/wiki/NHK_).
+> This article is converted from Wikipedia: [NHK 교향악단](https://ko.wikipedia.org/wiki/NHK_교향악단).
 
 
 **NHK 교향악단**(, )은 [일본](../Page/일본.md "wikilink")의 대표적인 [관현악단](../Page/관현악단.md "wikilink")으로, 흔히 일본에서는 'N향(N響)' 이라고 줄여서 부르고 있다. 1926년 10월에 '신교향악단' 이라는 명칭으로 창단되었고, 첫 정기 연주회는 이듬해 2월 20일에 초대 상임 지휘자인 [고노에 히데마로의](https://ko.wikipedia.org/wiki/고노에_히데마로 "wikilink") 지휘로 개최되었다. 고노에는 1935년까지 직책을 유지했으며, 재임 중인 1930년에는 [구스타프 말러의](../Page/구스타프_말러.md "wikilink") 교향곡 제4번을 레코드로 취입하기도 했다. 이 레코드는 전기 녹음 시대에 만들어진 첫 말러 교향곡 음반이었다.

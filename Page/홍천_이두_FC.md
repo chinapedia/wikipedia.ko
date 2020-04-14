@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  FC](https://ko.wikipedia.org/wiki/__FC).
+> This article is converted from Wikipedia: [홍천 이두 FC](https://ko.wikipedia.org/wiki/홍천_이두_FC).
 
 
 **홍천 이두 FC**()는 [강원도](../Page/강원도.md "wikilink") [홍천군](../Page/홍천군.md "wikilink")을 연고로 했던 축구단이었다. [2004년](../Page/2004년.md "wikilink") 4월 창단한 이래, 지금까지 스폰서와 연고지 변경으로 인하여 구단 명칭이 2번 변경되었으며, [2009년](../Page/2009년.md "wikilink") 재정난으로 해체되었다.

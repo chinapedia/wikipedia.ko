@@ -1,9 +1,9 @@
-> This article is converted from Wikipedia: [VfL ](https://ko.wikipedia.org/wiki/VfL_).
+> This article is converted from Wikipedia: [VfL 보훔](https://ko.wikipedia.org/wiki/VfL_보훔).
 
 
 **VfL 보훔**(VfL Bochum 1848 e.V.)는 [보훔](../Page/보훔.md "wikilink")에 위치한 [루르슈타디온](https://ko.wikipedia.org/wiki/루르슈타디온 "wikilink")을 근거로 하는 [독일](../Page/독일.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다. 현재 감독은 [토마스 라이스이다](https://ko.wikipedia.org/wiki/토마스_라이스 "wikilink").
 
-이 축구단은 [1848년](../Page/1848년.md "wikilink") 창단되었다. 현재 [2 분데스리가에](../Page/2._분데스리가.md "wikilink") 속해 있으며 08-09시즌은 14위로 마감하였다. 대한민국의 전 축구 선수인 [김주성이](../Page/김주성_\(축구인\).md "wikilink") 뛰었던 구단이다. [정대세](../Page/정대세.md "wikilink") 선수가 [2010년](../Page/2010년.md "wikilink")부터 3년간 이 팀 소속이었다.[이청용](https://ko.wikipedia.org/wiki/이청용 "wikilink")이 1년 자유계약을 맺고 입단했다.
+이 축구단은 [1848년](../Page/1848년.md "wikilink") 창단되었다. 현재 [2 분데스리가에](../Page/2._분데스리가.md "wikilink") 속해 있다.
 
 ## 역대 성적
 

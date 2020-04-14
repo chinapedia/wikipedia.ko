@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:BOINC](https://ko.wikipedia.org/wiki/:BOINC).
+> This article is converted from Wikipedia: [틀:BOINC](https://ko.wikipedia.org/wiki/틀:BOINC).
 
 
 [UC 버클리](../Page/캘리포니아_대학교_버클리.md "wikilink")

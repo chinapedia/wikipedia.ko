@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [NCC](https://ko.wikipedia.org/wiki/NCC).
+> This article is converted from Wikipedia: [여천NCC](https://ko.wikipedia.org/wiki/여천NCC).
 
 
 **여천NCC**는 [대한민국](../Page/대한민국.md "wikilink")의 석유화학산업 기초 원료 제조 및 판매 회사이다.

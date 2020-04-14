@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
+> This article is converted from Wikipedia: [요코하마 FC](https://ko.wikipedia.org/wiki/요코하마_FC).
 
 
 **요코하마 FC**()는 [일본](../Page/일본.md "wikilink") [J2리그](../Page/J2리그.md "wikilink")에 소속된 축구팀이다. 모기업 [ANA](https://ko.wikipedia.org/wiki/ANA "wikilink")의 경영난으로 [요코하마 마리노스에](../Page/요코하마_F._마리노스.md "wikilink") 합병된 [요코하마 플뤼겔스](../Page/요코하마_플뤼겔스.md "wikilink") 서포터즈들이 합병에 반발해 독자적으로 창단한 구단이다.

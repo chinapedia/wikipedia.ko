@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [VX \(\)](https://ko.wikipedia.org/wiki/VX_\(\)).
+> This article is converted from Wikipedia: [VX \(신경독\)](https://ko.wikipedia.org/wiki/VX_\(신경독\)).
 
 
 **VX**(O-ethyl-S-\[2(diisopropylamino)ethyl\] methylphosphonothiolate)는 매우 독성이 강한 [신경독](../Page/신경독.md "wikilink")의 일종이다. 실온에서 호박색의 유성 액체로 존재하고, 비휘발성이며 특별한 맛이나 냄새는 없다. 치사량은 흡입시 50mg, 피부 접촉시 10mg(1m<sup>2</sup> 기준)이다. 현재 대량살상무기로 분류되고 있는 [화학무기](https://ko.wikipedia.org/wiki/화학무기 "wikilink")이며 생산이 금지되어 있다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FC ](https://ko.wikipedia.org/wiki/FC_).
+> This article is converted from Wikipedia: [FC 코펜하겐](https://ko.wikipedia.org/wiki/FC_코펜하겐).
 
 
 **FC 코펜하겐**() 또는 **FC 쾨벤하운**()은 [코펜하겐](../Page/코펜하겐.md "wikilink")을 연고지로 하는 [덴마크](../Page/덴마크.md "wikilink") 축구 클럽이다.

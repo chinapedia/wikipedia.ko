@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KBS](https://ko.wikipedia.org/wiki/KBS).
+> This article is converted from Wikipedia: [KBS영월방송국](https://ko.wikipedia.org/wiki/KBS영월방송국).
 
 
 **KBS영월방송국**(-寧越放送局)은 [한국방송공사](../Page/한국방송공사.md "wikilink")의 지역 방송국이다. [1976년](../Page/1976년.md "wikilink") 개국하였으며, [2004년](../Page/2004년.md "wikilink") [10월 31일에](../Page/10월_31일.md "wikilink") 지역방송국 기능조정 통폐합 정책에 따라 폐지되었다.

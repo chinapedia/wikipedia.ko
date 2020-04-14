@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FC  ](https://ko.wikipedia.org/wiki/FC__).
+> This article is converted from Wikipedia: [FC 레드불 잘츠부르크](https://ko.wikipedia.org/wiki/FC_레드불_잘츠부르크).
 
 
 **FC 레드불 잘츠부르크**(Fußball Club Red Bull Salzburg)는 [잘츠부르크](../Page/잘츠부르크.md "wikilink")를 연고로 하는 [오스트리아](../Page/오스트리아.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다. 홈 구장은 [레드불 아레나이다](../Page/레드불_아레나_\(잘츠부르크\).md "wikilink"). 스폰서 제한으로 **FC 잘츠부르크**라는 이름으로도 알려져있으며 UEFA 주관 대회에서는 수정된 문양이 새겨진 유니폼을 입는다\[1\].

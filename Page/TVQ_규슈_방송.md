@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TVQ  ](https://ko.wikipedia.org/wiki/TVQ__).
+> This article is converted from Wikipedia: [TVQ 규슈 방송](https://ko.wikipedia.org/wiki/TVQ_규슈_방송).
 
 
 **TVQ규슈방송**()은 [1991년](../Page/1991년.md "wikilink") [4월 1일](../Page/4월_1일.md "wikilink") 설립된 방송국으로 [후쿠오카의](../Page/후쿠오카현.md "wikilink") 5번째 민영방송국이므로, [TXN](../Page/TX네트워크.md "wikilink") 지역 민방 네트워크 가맹국이다.

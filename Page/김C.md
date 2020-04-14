@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [C](https://ko.wikipedia.org/wiki/C).
+> This article is converted from Wikipedia: [김C](https://ko.wikipedia.org/wiki/김C).
 
 
 **김C**(, 金大元,\[1\] [1971년](../Page/1971년.md "wikilink") [11월 15일](../Page/11월_15일.md "wikilink") \~ )는 [대한민국](../Page/대한민국.md "wikilink")의 [싱어송라이터](https://ko.wikipedia.org/wiki/싱어송라이터 "wikilink")이다. [뜨거운 감자에서](../Page/뜨거운_감자.md "wikilink") 보컬을 맡고 있다.

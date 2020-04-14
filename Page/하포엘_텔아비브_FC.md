@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  FC](https://ko.wikipedia.org/wiki/__FC).
+> This article is converted from Wikipedia: [하포엘 텔아비브 FC](https://ko.wikipedia.org/wiki/하포엘_텔아비브_FC).
 
 
 **하포엘 텔아비브 FC**(, )는 [이스라엘](../Page/이스라엘.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽으로 현재 [이스라엘 슈퍼리그에](https://ko.wikipedia.org/wiki/이스라엘_슈퍼리그 "wikilink") 참여하고 있다. 하포엘 텔아비브는 현재까지 13번의 리그 우승과 11번의 [스테이트컵](https://ko.wikipedia.org/wiki/이스라엘_스테이트컵 "wikilink") 우승 기록을 가지고 있다. 1957년 한국을 방문하여 총 3차례의 친선경기를 가졌는데 이는 외국 프로축구 클럽으로서는 첫번째 방한이었다.

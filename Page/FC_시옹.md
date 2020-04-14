@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FC ](https://ko.wikipedia.org/wiki/FC_).
+> This article is converted from Wikipedia: [FC 시옹](https://ko.wikipedia.org/wiki/FC_시옹).
 
 
 **FC 시옹**은 [1909년](../Page/1909년.md "wikilink")에 창단된 [스위스](https://ko.wikipedia.org/wiki/스위스 "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽으로 스위스 남서부에 위치한 [시옹](../Page/시옹.md "wikilink")을 연고로 하는 팀이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [XIII \( \)](https://ko.wikipedia.org/wiki/XIII_\(_\)).
+> This article is converted from Wikipedia: [XIII \(비디오 게임\)](https://ko.wikipedia.org/wiki/XIII_\(비디오_게임\)).
 
 
 《**XIII**》(Thirteen, 써틴)은 동명의 벨기에 [만화](../Page/만화.md "wikilink") 《[XIII](https://ko.wikipedia.org/wiki/XIII_\(만화\) "wikilink")》을 원작으로 한 [일인칭 슈팅 게임이다](https://ko.wikipedia.org/wiki/일인칭_슈팅_게임 "wikilink"). [유비소프트](../Page/유비소프트.md "wikilink")가 개발하고 [2003년](../Page/2003년.md "wikilink") [11월 25일](../Page/11월_25일.md "wikilink") 발매되었다. [페럴 인터랙티브가](https://ko.wikipedia.org/wiki/페럴_인터랙티브 "wikilink") [맥 OS X판을](https://ko.wikipedia.org/wiki/맥_OS_X "wikilink") 발매했고, [한국](../Page/한국.md "wikilink")에서는 각각 [위자드소프트](https://ko.wikipedia.org/wiki/위자드소프트 "wikilink")와 [세중게임박스](https://ko.wikipedia.org/wiki/세중게임박스 "wikilink")가 [플레이스테이션 2](../Page/플레이스테이션_2.md "wikilink")/[마이크로소프트 윈도와](https://ko.wikipedia.org/wiki/마이크로소프트_윈도 "wikilink") [엑스박스](../Page/엑스박스.md "wikilink")판을 발매했다.

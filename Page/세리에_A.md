@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ A](https://ko.wikipedia.org/wiki/_A).
+> This article is converted from Wikipedia: [세리에 A](https://ko.wikipedia.org/wiki/세리에_A).
 
 
 **세리에 A**()는 [이탈리아](../Page/이탈리아.md "wikilink")의 프로[축구](../Page/축구.md "wikilink") 최상위 리그이며, 스폰서십으로 **세리에 A TIM**이 공식 명칭이다. [레가 나치오날레 프로페시오니스티 세리에 A에서](https://ko.wikipedia.org/wiki/레가_나치오날레_프로페시오니스티_세리에_A "wikilink") 주관한다.\[1\]

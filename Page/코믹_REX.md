@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ REX](https://ko.wikipedia.org/wiki/_REX).
+> This article is converted from Wikipedia: [코믹 REX](https://ko.wikipedia.org/wiki/코믹_REX).
 
 
 《**코믹 REX**》(, )는 [이치진샤](../Page/이치진샤.md "wikilink")(구 스튜디오 DNA)에서 발행하는 월간 발행의 [만화 잡지이다](https://ko.wikipedia.org/wiki/만화_잡지 "wikilink").

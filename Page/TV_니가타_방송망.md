@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TV  ](https://ko.wikipedia.org/wiki/TV__).
+> This article is converted from Wikipedia: [TV 니가타 방송망](https://ko.wikipedia.org/wiki/TV_니가타_방송망).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:JOPI-TV.JPG "wikilink") **TV 니가타 방송망**은 [1981년](../Page/1981년.md "wikilink") [4월 1일](../Page/4월_1일.md "wikilink") [니가타현](../Page/니가타현.md "wikilink")의 3번째 민영방송국으로 개국했다.

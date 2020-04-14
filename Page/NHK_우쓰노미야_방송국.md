@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [NHK  ](https://ko.wikipedia.org/wiki/NHK__).
+> This article is converted from Wikipedia: [NHK 우쓰노미야 방송국](https://ko.wikipedia.org/wiki/NHK_우쓰노미야_방송국).
 
 
 **NHK 우쓰노미야 방송국**(宇都宮 放送局)은 [도치기현](../Page/도치기현.md "wikilink")을 방송구역으로 하는 NHK의 지역방송국이며 FM라디오 방송을 담당하고 있다.

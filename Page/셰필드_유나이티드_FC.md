@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  FC](https://ko.wikipedia.org/wiki/__FC).
+> This article is converted from Wikipedia: [셰필드 유나이티드 FC](https://ko.wikipedia.org/wiki/셰필드_유나이티드_FC).
 
 
 **셰필드 유나이티드 FC** (Sheffield United Football Club)는 [잉글랜드](../Page/잉글랜드.md "wikilink")의 축구 클럽으로, [사우스요크셔주](https://ko.wikipedia.org/wiki/사우스요크셔주 "wikilink")의 [셰필드](../Page/셰필드.md "wikilink")를 연고지로 한다. 애칭은 '' Blades''로, 현재 [프리미어리그](https://ko.wikipedia.org/wiki/프리미어리그 "wikilink") 소속 팀이다.
@@ -29,6 +29,6 @@
 
   - [공식 홈페이지](http://www.sufc.co.uk/)
 
-[셰필드_유나이티드_FC](https://ko.wikipedia.org/wiki/분류:셰필드_유나이티드_FC "wikilink") [분류:EFL 챔피언십 구단](https://ko.wikipedia.org/wiki/분류:EFL_챔피언십_구단 "wikilink") [분류:잉글랜드의 축구단](https://ko.wikipedia.org/wiki/분류:잉글랜드의_축구단 "wikilink") [분류:1889년 설립된 축구단](https://ko.wikipedia.org/wiki/분류:1889년_설립된_축구단 "wikilink") [분류:1889년 설립된 스포츠 클럽](https://ko.wikipedia.org/wiki/분류:1889년_설립된_스포츠_클럽 "wikilink") [분류:사우스요크셔주의 축구단](https://ko.wikipedia.org/wiki/분류:사우스요크셔주의_축구단 "wikilink")
+[셰필드_유나이티드_FC](https://ko.wikipedia.org/wiki/분류:셰필드_유나이티드_FC "wikilink") [분류:프리미어리그 구단](https://ko.wikipedia.org/wiki/분류:프리미어리그_구단 "wikilink") [분류:잉글랜드의 축구단](https://ko.wikipedia.org/wiki/분류:잉글랜드의_축구단 "wikilink") [분류:1889년 설립된 축구단](https://ko.wikipedia.org/wiki/분류:1889년_설립된_축구단 "wikilink") [분류:1889년 설립된 스포츠 클럽](https://ko.wikipedia.org/wiki/분류:1889년_설립된_스포츠_클럽 "wikilink") [분류:사우스요크셔주의 축구단](https://ko.wikipedia.org/wiki/분류:사우스요크셔주의_축구단 "wikilink")
 
 1.

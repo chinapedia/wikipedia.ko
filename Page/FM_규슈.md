@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FM ](https://ko.wikipedia.org/wiki/FM_).
+> This article is converted from Wikipedia: [FM 규슈](https://ko.wikipedia.org/wiki/FM_규슈).
 
 
 [썸네일](https://ko.wikipedia.org/wiki/파일:JORV-FM_Kirameki_Street_Studio.jpg "wikilink") **FM규슈**는 [후쿠오카현](../Page/후쿠오카현.md "wikilink")에서 방송을 실시한 [일본](../Page/일본.md "wikilink")의 FM 방송국이다.

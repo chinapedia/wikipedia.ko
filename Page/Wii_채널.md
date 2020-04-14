@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Wii ](https://ko.wikipedia.org/wiki/Wii_).
+> This article is converted from Wikipedia: [Wii 채널](https://ko.wikipedia.org/wiki/Wii_채널).
 
 
 **Wii 채널**(, , )은 [Wii](../Page/Wii.md "wikilink") 게임기의 최상위 메뉴 인터페이스이다. 4x3 격자로 네 장의 페이지를 이루고 있다.

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ATR 72](https://ko.wikipedia.org/wiki/ATR_72).
 
 
-[섬네일의](https://ko.wikipedia.org/wiki/파일:Aurigny.atr72-200.g-bwda.arp.jpg "wikilink") ATR 72-200\]\] **ATR 72**는 [프랑스](../Page/프랑스.md "wikilink")의 항공기 제조회사인 [ATR](https://ko.wikipedia.org/wiki/ATR "wikilink")에서 제작한 단거리용 쌍발 [터보프롭](../Page/터보프롭.md "wikilink") 항공기이다. 약 72인승의 이 항공기는 [미국](../Page/미국.md "wikilink")의 [아메리칸 항공의](../Page/아메리칸_항공.md "wikilink") 자회사인 [아메리칸 이글 항공에서](https://ko.wikipedia.org/wiki/아메리칸_이글_항공 "wikilink") [미국](../Page/미국.md "wikilink") 국내선에 주로 사용하고 있는 기종이다
+[섬네일의](https://ko.wikipedia.org/wiki/파일:Aurigny.atr72-200.g-bwda.arp.jpg "wikilink") ATR 72-200\]\] **ATR 72**는 [프랑스](../Page/프랑스.md "wikilink")의 항공기 제조회사인 [ATR에서](https://ko.wikipedia.org/wiki/ATR_\(항공기_제조업체\) "wikilink") 제작한 단거리용 쌍발 [터보프롭](../Page/터보프롭.md "wikilink") 항공기이다. 약 72인승의 이 항공기는 [미국](../Page/미국.md "wikilink")의 [아메리칸 항공의](../Page/아메리칸_항공.md "wikilink") 자회사인 [아메리칸 이글 항공에서](https://ko.wikipedia.org/wiki/아메리칸_이글_항공 "wikilink") [미국](../Page/미국.md "wikilink") 국내선에 주로 사용하고 있는 기종이다
 
 ## 역사
 

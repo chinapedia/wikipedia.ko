@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ EOS-1D Mark II](https://ko.wikipedia.org/wiki/_EOS-1D_Mark_II).
+> This article is converted from Wikipedia: [캐논 EOS-1D Mark II](https://ko.wikipedia.org/wiki/캐논_EOS-1D_Mark_II).
 
 
 [right](https://ko.wikipedia.org/wiki/파일:Canon_1D_II_img_0496.jpg "wikilink") **캐논 EOS-1D 마크 II**()는 820만 [유효 화소를](https://ko.wikipedia.org/wiki/유효_화소 "wikilink") 가지는 전문가용 [디지털 SLR](https://ko.wikipedia.org/wiki/디지털_SLR "wikilink") [카메라](https://ko.wikipedia.org/wiki/카메라 "wikilink")이다. [캐논 EOS-1D의](../Page/캐논_EOS-1D.md "wikilink") 후속 모델이다. 28.7 × 19.1 mm 크기의 [CMOS 이미지 센서를](https://ko.wikipedia.org/wiki/CMOS_이미지_센서 "wikilink") 가지고 있다. [2004년](../Page/2004년.md "wikilink") [1월](../Page/1월.md "wikilink")에 발표한 뒤 [4월](../Page/4월.md "wikilink")에 시판되었다. 초당 8.5 프레임을 촬영할 수 있어 스포츠 사진 등에 많이 사용된다.

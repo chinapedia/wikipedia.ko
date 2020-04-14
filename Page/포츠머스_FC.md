@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
+> This article is converted from Wikipedia: [포츠머스 FC](https://ko.wikipedia.org/wiki/포츠머스_FC).
 
 
 **포츠머스 FC**(Portsmouth Football Club)는 [포츠머스](../Page/포츠머스.md "wikilink")에 위치한 [프래턴 파크](../Page/프래턴_파크.md "wikilink") 경기장을 근거로 하는 [잉글랜드](../Page/잉글랜드.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다.

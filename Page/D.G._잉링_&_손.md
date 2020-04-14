@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [D.G.  \& ](https://ko.wikipedia.org/wiki/D.G.__\&_).
+> This article is converted from Wikipedia: [D.G. 잉링 \& 손](https://ko.wikipedia.org/wiki/D.G._잉링_\&_손).
 
 
 **D.G. 잉링 & 손**(D.G. Yuengling & Son)은 [미국](../Page/미국.md "wikilink") [펜실베이니아주](../Page/펜실베이니아주.md "wikilink") 포츠빌(Pottsville)에 위치한 [미국](../Page/미국.md "wikilink")에서 가장 오래된 맥주 회사로, [1829년](../Page/1829년.md "wikilink") 창립했다. 생산량으로 볼 때 미국 내에서 가장 큰 맥주 회사들 중 하나로 꼽힌다. 잉링이 상표로 등록해놓은 캐치프레이즈 "아메리카에서 가장 오래된 맥주 회사"(America's Oldest Brewery)는 [미국](../Page/미국.md "wikilink") 내에서만 한정된다. [북아메리카](../Page/북아메리카.md "wikilink")에서 가장 오래된 맥주 회사는 [1786년](../Page/1786년.md "wikilink") 캐나다 브랜드인 몰슨(Molson)이기 때문이다.\[1\]

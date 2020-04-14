@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:KBS](https://ko.wikipedia.org/wiki/:KBS).
+> This article is converted from Wikipedia: [틀:KBS](https://ko.wikipedia.org/wiki/틀:KBS).
 
 
 <onlyinclude> [순천방송국](../Page/KBS순천방송국.md "wikilink"))
@@ -39,7 +39,7 @@
   - [EBS 2TV](../Page/EBS_2TV.md "wikilink")
   - [EBS FM](../Page/EBS_FM.md "wikilink") (책 읽어주는 라디오)
   - EBS i-Radio (인터넷 라디오)
-  - [EBS english](https://ko.wikipedia.org/wiki/EBS_english "wikilink")
+  - [EBS english](../Page/EBS_english.md "wikilink")
   - [EBS 플러스 1](../Page/EBS_플러스_1.md "wikilink")
   - [EBS 플러스 2](../Page/EBS_플러스_2.md "wikilink")
   - [EBS KIDS](../Page/EBS_KIDS.md "wikilink")

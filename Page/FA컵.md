@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FA](https://ko.wikipedia.org/wiki/FA).
+> This article is converted from Wikipedia: [FA컵](https://ko.wikipedia.org/wiki/FA컵).
 
 
 **FA컵**()은 어떤 나라의 축구 협회에서 주관하여 프로와 아마추어 클럽들을 대상으로 하는 [토너먼트](https://ko.wikipedia.org/wiki/토너먼트 "wikilink") 방식의 [축구](../Page/축구.md "wikilink") 대회이다. 좁은 의미로 쓰일 경우 [잉글랜드 축구 협회에서](https://ko.wikipedia.org/wiki/잉글랜드_축구_협회 "wikilink") 주관하는 세계에서 가장 오래된 축구 대회인 **[FA컵](https://ko.wikipedia.org/wiki/FA컵_\(잉글랜드\) "wikilink")**(The Football Association Challenge Cup)을 가리킨다. 각국 축구 협회에서 주관하는 비슷한 형태의 대회는 별도의 명칭을 갖는 경우도 있지만, 잉글랜드의 예를 따라 다음과 같이 FA컵이라는 용어를 사용하는 나라들이 있다.

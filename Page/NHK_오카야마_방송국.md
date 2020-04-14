@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [NHK  ](https://ko.wikipedia.org/wiki/NHK__).
+> This article is converted from Wikipedia: [NHK 오카야마 방송국](https://ko.wikipedia.org/wiki/NHK_오카야마_방송국).
 
 
 **NHK 오카야마 방송국**(岡山 放送局)은 [오카야마현](../Page/오카야마현.md "wikilink")을 방송구역으로 하는 NHK의 지역방송국이며 중파·FM라디오·텔레비전 방송을 담당하고 있다.

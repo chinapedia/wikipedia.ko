@@ -15,6 +15,6 @@
 
 ## 외부 링크
 
-  - [*lernu\!*](https://web.archive.org/web/20070220162520/http://ko.lernu.net/)
+  - *[lernu\!](https://lernu.net/ko)*
 
 [분류:2002년 설립](https://ko.wikipedia.org/wiki/분류:2002년_설립 "wikilink") [분류:에스페란토 교육](https://ko.wikipedia.org/wiki/분류:에스페란토_교육 "wikilink") [분류:교육 웹사이트](https://ko.wikipedia.org/wiki/분류:교육_웹사이트 "wikilink") [분류:다언어 웹사이트](https://ko.wikipedia.org/wiki/분류:다언어_웹사이트 "wikilink")

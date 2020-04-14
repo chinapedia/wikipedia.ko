@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KBS](https://ko.wikipedia.org/wiki/KBS).
+> This article is converted from Wikipedia: [KBS광주방송총국](https://ko.wikipedia.org/wiki/KBS광주방송총국).
 
 
 **KBS광주방송총국**(KBS光州放送總局)은 [광주광역시](https://ko.wikipedia.org/wiki/광주광역시 "wikilink")와 [전라남도](https://ko.wikipedia.org/wiki/전라남도 "wikilink") 중북부지역을 대상으로 하는 [KBS](https://ko.wikipedia.org/wiki/KBS "wikilink")의 지역방송총국이다. 지역총국 중 하나로, 하부에 [KBS목포방송국](../Page/KBS목포방송국.md "wikilink")과 [KBS순천방송국](../Page/KBS순천방송국.md "wikilink")을 두고 있다.
@@ -41,7 +41,7 @@
       - 호출부호 : HLKH-DTV
       - 가상채널 : 9-1
 
-| 송신소     | UHD   | HD    | 송신소 위치 | 비고                         |
+| 송신소     | UHD   | HD    | 송신소 위치 | KBS 수신 안내                  |
 | ------- | ----- | ----- | ------ | -------------------------- |
 | 물리채널    | 출력    | 물리채널  | 출력     |                            |
 | 1TV     | 2TV   | 1TV   | 2TV    |                            |
@@ -156,7 +156,8 @@ PC,모바일 MY K로 실시간 시청 가능
 <td><p><a href="../Page/KBS_뉴스광장.md" title="wikilink">KBS 뉴스광장 광주·전남</a></p></td>
 <td><p>15분</p></td>
 <td><p>월요일 ~ 금요일 오전 7시 35분 ~ 7시 45분</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/김한별_(아나운서)" title="wikilink">김한별</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/김한별_(아나운서)" title="wikilink">김한별</a><br />
+<a href="https://ko.wikipedia.org/wiki/임진숙" title="wikilink">임진숙</a>(주말)</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/KBS_뉴스_(930)" title="wikilink">KBS 뉴스 (930) 광주·전남</a></p></td>
@@ -174,7 +175,7 @@ PC,모바일 MY K로 실시간 시청 가능
 <td><p><a href="../Page/KBS_뉴스_7.md" title="wikilink">KBS 뉴스 7 광주·전남</a></p></td>
 <td><p>5분</p></td>
 <td><p>금 저녁 7시 20분 ~ 7시 25분</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/임진숙" title="wikilink">임진숙</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/서상기" title="wikilink">서상기</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/KBS_뉴스_9.md" title="wikilink">KBS 뉴스 9 광주·전남</a></p></td>
@@ -182,8 +183,8 @@ PC,모바일 MY K로 실시간 시청 가능
 주말 10분</p></td>
 <td><p>평일 밤 9시 30분 ~ 9시 45분<br />
 주말 밤 9시 20분 ~ 9시 30분</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/임정섭" title="wikilink">임정섭</a>, <a href="https://ko.wikipedia.org/wiki/유도희" title="wikilink">유도희</a>(평일)<br />
-무직위(주말)</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/김한별" title="wikilink">김한별</a>, <a href="https://ko.wikipedia.org/wiki/유도희" title="wikilink">유도희</a>(평일)<br />
+<a href="https://ko.wikipedia.org/wiki/위영미" title="wikilink">위영미</a>(주말)</p></td>
 </tr>
 </tbody>
 </table>
@@ -318,7 +319,7 @@ PC,모바일 MY K로 실시간 시청 가능
 
 ## 직원
 
-| [KBS광주방송총국 아나운서](http://gwangju.kbs.co.kr/about/announcer/index.html) |
+| [KBS광주방송총국 아나운서](http://gwangju.kbs.co.kr/index.html?sname=localmain) |
 | --------------------------------------------------------------------- |
 | 입사연도                                                                  |
 | [1980년](../Page/1980년.md "wikilink")                                  |
@@ -346,7 +347,7 @@ PC,모바일 MY K로 실시간 시청 가능
 
   - [양율희](https://ko.wikipedia.org/wiki/양율희 "wikilink") (퇴사)
   - [홍소연](../Page/홍소연.md "wikilink") (현 KBS 서울본국)
-  - [임지현](https://ko.wikipedia.org/wiki/임지현 "wikilink") ([2006년](../Page/2006년.md "wikilink") 전 KNN 아나운서, 전 청주MBC 아나운서, 현 MBC 라디오 뉴스캐스터)
+  - [임지현](https://ko.wikipedia.org/wiki/임지현 "wikilink") ([2006년](../Page/2006년.md "wikilink") 전 KNN 아나운서, 전 청주MBC 아나운서, 전 MBC 라디오 뉴스캐스터)
   - [이혜성](../Page/이혜성.md "wikilink") (2016\~2018, 현 KBS 서울본국)
   - [채윤아](https://ko.wikipedia.org/wiki/채윤아 "wikilink") (현 KBS순천방송국)
 
@@ -373,7 +374,7 @@ PC,모바일 MY K로 실시간 시청 가능
   - [지종익](https://ko.wikipedia.org/wiki/지종익 "wikilink")
   - [지창환](https://ko.wikipedia.org/wiki/지창환 "wikilink")
   - [최정민](https://ko.wikipedia.org/wiki/최정민 "wikilink")
-  - [김혜정](https://ko.wikipedia.org/wiki/김혜정 "wikilink")
+  - [김해정](https://ko.wikipedia.org/wiki/김해정 "wikilink")
   - [이성각](https://ko.wikipedia.org/wiki/이성각 "wikilink")
   - [박익원](https://ko.wikipedia.org/wiki/박익원 "wikilink")
   - [박찬기](../Page/박찬기.md "wikilink")
@@ -394,6 +395,7 @@ PC,모바일 MY K로 실시간 시청 가능
   - [김호](https://ko.wikipedia.org/wiki/김호 "wikilink")
   - [김서정](https://ko.wikipedia.org/wiki/김서정 "wikilink")
   - [하선아](https://ko.wikipedia.org/wiki/하선아 "wikilink")
+  - [김정대](https://ko.wikipedia.org/wiki/김정대 "wikilink")
 
 ## 각주
 

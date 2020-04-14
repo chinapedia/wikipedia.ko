@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ TV](https://ko.wikipedia.org/wiki/_TV).
+> This article is converted from Wikipedia: [사가 TV](https://ko.wikipedia.org/wiki/사가_TV).
 
 
 **사가 TV**는 [1969년](../Page/1969년.md "wikilink") [4월 1일](../Page/4월_1일.md "wikilink") 사가현의 유일한 민영방송국으로 개국했다.

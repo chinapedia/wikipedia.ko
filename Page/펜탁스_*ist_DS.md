@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ \*ist DS](https://ko.wikipedia.org/wiki/_\*ist_DS).
+> This article is converted from Wikipedia: [펜탁스 \*ist DS](https://ko.wikipedia.org/wiki/펜탁스_\*ist_DS).
 
 
 **펜탁스 \*ist DS**는 [펜탁스](../Page/펜탁스.md "wikilink")에서 [2004년](../Page/2004년.md "wikilink") 10월 출시한 보급형 [디지털 SLR기종이다](https://ko.wikipedia.org/wiki/디지털_SLR "wikilink"). [펜탁스 \*ist D의](../Page/펜탁스_*ist_D.md "wikilink") 마이너 버전으로 저렴하게 출시된 기종이다.

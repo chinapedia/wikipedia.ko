@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FC  ](https://ko.wikipedia.org/wiki/FC__).
+> This article is converted from Wikipedia: [FC 디나모 트빌리시](https://ko.wikipedia.org/wiki/FC_디나모_트빌리시).
 
 
 **FC 디나모 트빌리시**()는 [조지아의](../Page/조지아_\(국가\).md "wikilink") [축구](../Page/축구.md "wikilink") 클럽으로 수도인 [트빌리시](../Page/트빌리시.md "wikilink")에 연고를 두고 있다. 디나모 트빌리시는 [1981년](../Page/1981년.md "wikilink")에 [UEFA 컵 위너스컵을](https://ko.wikipedia.org/wiki/UEFA_컵_위너스컵 "wikilink") 우승하면서 [소비에트 연방](https://ko.wikipedia.org/wiki/소비에트_연방 "wikilink") 시절에 강력한 팀 중 하나로 손꼽혔었다.

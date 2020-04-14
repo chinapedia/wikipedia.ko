@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  3bis 7bis ](https://ko.wikipedia.org/wiki/__3bis_7bis_).
+> This article is converted from Wikipedia: [파리 메트로 3bis호선과 7bis호선의 합병](https://ko.wikipedia.org/wiki/파리_메트로_3bis호선과_7bis호선의_합병).
 
 
 **파리 메트로의 3bis호선과 7bis호선의 합병**()은 단거리를 운행하는 독립된 노선들인 [3bis호선과](https://ko.wikipedia.org/wiki/파리_메트로_3bis호선 "wikilink") [7bis호선을](https://ko.wikipedia.org/wiki/파리_메트로_7bis호선 "wikilink") 이어 하나의 노선으로 통합하는 계획이다.

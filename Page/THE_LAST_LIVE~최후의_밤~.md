@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [THE LAST LIVE\~ \~](https://ko.wikipedia.org/wiki/THE_LAST_LIVE\~_\~).
+> This article is converted from Wikipedia: [THE LAST LIVE\~최후의 밤\~](https://ko.wikipedia.org/wiki/THE_LAST_LIVE\~최후의_밤\~).
 
 
 《**THE LAST LIVE \~최후의 밤\~**》 ()은 일본의 록 밴드 [엑스 재팬이](https://ko.wikipedia.org/wiki/엑스_재팬 "wikilink") [1997년](../Page/1997년.md "wikilink") [12월 31일](../Page/12월_31일.md "wikilink") [도쿄 돔에서](../Page/도쿄_돔.md "wikilink") 개최한 해체 콘서트이다.

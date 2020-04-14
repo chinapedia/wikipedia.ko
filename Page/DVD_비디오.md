@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [DVD ](https://ko.wikipedia.org/wiki/DVD_).
+> This article is converted from Wikipedia: [DVD 비디오](https://ko.wikipedia.org/wiki/DVD_비디오).
 
 
 **DVD 비디오**(DVD-Video)는 [DVD](../Page/DVD.md "wikilink") (DVD-ROM) 디스크에 디지털 영상을 담는 데 사용하는 일반 소비자들을 위한 비디오 포맷이며 현재 [미국](../Page/미국.md "wikilink"), [캐나다](../Page/캐나다.md "wikilink"), [유럽](../Page/유럽.md "wikilink"), [오스트레일리아](../Page/오스트레일리아.md "wikilink")의 소비자 비디오 포맷을 지배하고 있다.\[1\] DVD 비디오 규격을 사용하는 디스크들은 DVD 드라이브와 [MPEG-2](../Page/MPEG-2.md "wikilink") 디코더(이를테면 DVD 플레이어라든지 DVD 재생 소프트웨어를 갖춘 DVD 컴퓨터 드라이브)를 요구한다. 상용 DVD 영화들은 MPEG-2 압축 영상과 여러 포맷의 소리를 합쳐 인코딩한다. DVD 영화를 위한 일반적인 데이터 속도는 3-10 [MBit](https://ko.wikipedia.org/wiki/메가비트 "wikilink")/초이다.

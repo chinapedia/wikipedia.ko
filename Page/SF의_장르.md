@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SF ](https://ko.wikipedia.org/wiki/SF_).
+> This article is converted from Wikipedia: [SF의 장르](https://ko.wikipedia.org/wiki/SF의_장르).
 
 
 [과학 소설](https://ko.wikipedia.org/wiki/과학_소설 "wikilink")(SF)의 하위 장르 및 그에 해당하는 작품들에 대한 목록.

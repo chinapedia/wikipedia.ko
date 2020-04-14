@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [DOUBLE \( \)](https://ko.wikipedia.org/wiki/DOUBLE_\(_\)).
+> This article is converted from Wikipedia: [DOUBLE \(보아의 노래\)](https://ko.wikipedia.org/wiki/DOUBLE_\(보아의_노래\)).
 
 
 〈**DOUBLE**〉은 가수 [보아](../Page/보아.md "wikilink")의 싱글이다. [일본](../Page/일본.md "wikilink")에서 10번째로 발매된 싱글이며, [대한민국](../Page/대한민국.md "wikilink")에서 처음으로 발매한 싱글이다. 일본에서 발매된 싱글의 경우 수록된 3곡이 모두 타이틀 곡인 3A 싱글이다.

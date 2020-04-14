@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  TV](https://ko.wikipedia.org/wiki/__TV).
+> This article is converted from Wikipedia: [나가사키 국제 TV](https://ko.wikipedia.org/wiki/나가사키_국제_TV).
 
 
 [150px](https://ko.wikipedia.org/wiki/파일:Nib_logo.svg "wikilink") **나가사키 국제 TV**()는 [나가사키현](../Page/나가사키현.md "wikilink")의 4번째 민영 방송국으로, [1991년](../Page/1991년.md "wikilink") [4월 1일](../Page/4월_1일.md "wikilink") 개국했다. 약칭은 NIB, 콜사인은 JOXH-DTV이다. [섬네일](https://ko.wikipedia.org/wiki/파일:NIB_TV.JPG "wikilink")

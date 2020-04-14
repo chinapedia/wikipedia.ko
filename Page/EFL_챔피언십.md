@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [EFL ](https://ko.wikipedia.org/wiki/EFL_).
+> This article is converted from Wikipedia: [EFL 챔피언십](https://ko.wikipedia.org/wiki/EFL_챔피언십).
 
 
 **EFL 챔피언십**(EFL Championship)은 [잉글랜드 축구 리그 시스템에서](https://ko.wikipedia.org/wiki/잉글랜드_축구_리그_시스템 "wikilink") [프리미어리그](https://ko.wikipedia.org/wiki/프리미어리그 "wikilink")에 이어 두 번째로 높은 순위를 차지하고 있는 2부 리그이다. 매년 상위 3팀은 프리미어리그로 승격되며 하위 3팀은 리그 원으로 강등된다. 줄여서 **챔피언십**, 또는 후원사의 이름을 따서 **스카이벳 챔피언십**이라고도 부른다.

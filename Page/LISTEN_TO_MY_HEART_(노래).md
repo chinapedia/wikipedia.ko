@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [LISTEN TO MY HEART \(\)](https://ko.wikipedia.org/wiki/LISTEN_TO_MY_HEART_\(\)).
+> This article is converted from Wikipedia: [LISTEN TO MY HEART \(노래\)](https://ko.wikipedia.org/wiki/LISTEN_TO_MY_HEART_\(노래\)).
 
 
 〈**LISTEN TO MY HEART**〉는 [대한민국](../Page/대한민국.md "wikilink")의 가수 [보아](../Page/보아.md "wikilink")가 [일본](../Page/일본.md "wikilink")에서 발매한 4번째 싱글이다.

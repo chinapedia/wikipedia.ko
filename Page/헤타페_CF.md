@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ CF](https://ko.wikipedia.org/wiki/_CF).
+> This article is converted from Wikipedia: [헤타페 CF](https://ko.wikipedia.org/wiki/헤타페_CF).
 
 
 **헤타페 CF**(Getafe Club De Fútbol)는 [프리메라리가](https://ko.wikipedia.org/wiki/프리메라리가 "wikilink")에 참여하고 있는 [스페인](../Page/스페인.md "wikilink")의 축구 클럽이다. 이 팀은 [1983년](../Page/1983년.md "wikilink")에 창단되었으며, [마드리드 지방의](https://ko.wikipedia.org/wiki/마드리드_지방 "wikilink") 도시 [헤타페](../Page/헤타페.md "wikilink")에 연고지를 두고 있다. 홈 경기장은 [콜리세움 알폰소 페레스이다](https://ko.wikipedia.org/wiki/콜리세움_알폰소_페레스 "wikilink"). 2010-11시즌 최종라운드에서 [레알 소시에다드와](https://ko.wikipedia.org/wiki/레알_소시에다드 "wikilink") 1-1로 비겨 자력으로 1부리그 잔류에 실패하였지만, [발렌시아 CF가](../Page/발렌시아_CF.md "wikilink") [데포르티보 라 코루냐에](https://ko.wikipedia.org/wiki/데포르티보_라_코루냐 "wikilink") 2-0 완승을 거둠에 따라 어부지리로 1부리그에 잔류하였다. 팀의 최종 순위는 16위이다.

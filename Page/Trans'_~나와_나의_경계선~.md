@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Trans\' \~  \~](https://ko.wikipedia.org/wiki/Trans\'_\~__\~).
+> This article is converted from Wikipedia: [Trans\' \~나와 나의 경계선\~](https://ko.wikipedia.org/wiki/Trans\'_\~나와_나의_경계선\~).
 
 
 [맥 OS](../Page/맥_OS.md "wikilink") |미디어 = |요구사양 = 500MHz 이상의 [CPU](../Page/중앙_처리_장치.md "wikilink"), 128MB 이상의 [메모리](https://ko.wikipedia.org/wiki/메모리 "wikilink"), 800×600픽셀 16비트 컬러 이상의 해상도, 약 300MB 이상의 [HDD](https://ko.wikipedia.org/wiki/하드_디스크 "wikilink") 용량을 권장. |입력장치 = [마우스](../Page/마우스.md "wikilink") |원작 = |이전작 = |후속작 = [Trans'2 \~나와 나와 연인과\~](https://ko.wikipedia.org/wiki/Trans'2_~나와_나와_연인과~ "wikilink") }}

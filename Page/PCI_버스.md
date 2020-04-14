@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [PCI ](https://ko.wikipedia.org/wiki/PCI_).
+> This article is converted from Wikipedia: [PCI 버스](https://ko.wikipedia.org/wiki/PCI_버스).
 
 
 **PCI 버스**()는 컴퓨터 [메인보드](../Page/메인보드.md "wikilink")에 [주변 장치를](https://ko.wikipedia.org/wiki/주변_장치 "wikilink") 장착하는 데 쓰이는 컴퓨터 버스의 일종이다. 이 장치는 다음과 같이 두 가지 형태로 나뉜다.
@@ -52,7 +52,7 @@ PIC-SIG는 시리얼 [PCI 익스프레스를](../Page/PCI_익스프레스.md "wi
 
   - [PCI Special Interest Group (PCI-SIG)](http://www.pcisig.com/home)
 
-  - [Introduction to PCI protocol](http://electrofriends.com/articles/computer-science/protocol/introduction-to-pci-protocol/), electrofriends.com
+  - [Introduction to PCI protocol](https://web.archive.org/web/20130119181041/http://electrofriends.com/articles/computer-science/protocol/introduction-to-pci-protocol/), electrofriends.com
 
   - [PCI bus pin-out and signals](http://pinouts.ru/Slots/PCI_pinout.shtml), pinouts.ru
 

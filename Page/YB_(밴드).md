@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [YB \(\)](https://ko.wikipedia.org/wiki/YB_\(\)).
+> This article is converted from Wikipedia: [YB \(밴드\)](https://ko.wikipedia.org/wiki/YB_\(밴드\)).
 
 
 **YB(윤도현밴드)**는 [대한민국](../Page/대한민국.md "wikilink")의 [락밴드](https://ko.wikipedia.org/wiki/락밴드 "wikilink")이다.

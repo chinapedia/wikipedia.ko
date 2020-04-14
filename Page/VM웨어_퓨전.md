@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [VM ](https://ko.wikipedia.org/wiki/VM_).
+> This article is converted from Wikipedia: [VM웨어 퓨전](https://ko.wikipedia.org/wiki/VM웨어_퓨전).
 
 
 **VM웨어 퓨전**(VMware Fusion)은 [VM웨어](../Page/VM웨어.md "wikilink")사가 [인텔](../Page/인텔.md "wikilink") 프로세서를 갖춘 [매킨토시](../Page/매킨토시.md "wikilink") 컴퓨터를 위해 제공하는 [가상 머신](../Page/가상_머신.md "wikilink") 소프트웨어이다. VM웨어 퓨전은 인텔 기반의 맥 컴퓨터가 [x86](https://ko.wikipedia.org/wiki/x86 "wikilink")/[x86-64](https://ko.wikipedia.org/wiki/x86-64 "wikilink") 게스트 [운영 체제를](../Page/운영_체제.md "wikilink") 인텔 기반의 맥에서 실행할 수 있게 도와준다. 호스트 운영체제 자격의 [맥 오에스 텐과](https://ko.wikipedia.org/wiki/맥_오에스_텐 "wikilink") 동시에 돌릴 수 있는 가상 머신에서 지원하는 운영 체제는 이를테면 [윈도](https://ko.wikipedia.org/wiki/마이크로소프트_윈도 "wikilink"), [리눅스](../Page/리눅스.md "wikilink"), [넷웨어](../Page/넷웨어.md "wikilink"), [솔라리스를](../Page/솔라리스_\(운영_체제\).md "wikilink") 들 수 있다. [가상화](../Page/가상화.md "wikilink"), [에뮬레이션](../Page/에뮬레이터.md "wikilink"), [동적 리컴파일](https://ko.wikipedia.org/wiki/동적_리컴파일 "wikilink") 기술을 함께 사용한다.

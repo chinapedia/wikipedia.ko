@@ -1,9 +1,9 @@
-> This article is converted from Wikipedia: [UEFA ](https://ko.wikipedia.org/wiki/UEFA_).
+> This article is converted from Wikipedia: [UEFA 인터토토컵](https://ko.wikipedia.org/wiki/UEFA_인터토토컵).
 
 
 **UEFA 인터토토컵**(UEFA Intertoto Cup)은 [UEFA 챔피언스리그와](../Page/UEFA_챔피언스리그.md "wikilink") UEFA컵(현재의 [UEFA 유로파리그](../Page/UEFA_유로파리그.md "wikilink"))의 참가 자격을 얻지 못한 클럽들을 위해 열렸던 여름 [축구](../Page/축구.md "wikilink") 대회이다. 참가를 원하는 팀은 신청을 해야 했으며 신청한 팀 중 국내 리그 순위가 가장 높은 팀들이 참가했다. 굳이 UEFA컵에 참가하는 팀의 바로 아래 순위의 팀일 필요는 없었고, 이 팀이 신청을 하지 않았다면 신청을 한 팀 중에서 가장 순위가 높은 팀에게 참가 자격이 주어졌다.
 
-[1961년](../Page/1961년.md "wikilink")에 신설된 이 대회는 유럽 대회에 참가하지 못한 팀들에게 UEFA컵에 참가를 가능케 하는 기능도 하지만, 축구 도박회사들이 여름에도 쉬지 않게 하는 기능도 가지고 있다. 원래 이 대회는 축구 [도박](../Page/도박.md "wikilink")만을 위한 대회였다. [1995년](../Page/1995년.md "wikilink")부터 [UEFA](https://ko.wikipedia.org/wiki/UEFA "wikilink")에서 주관하는 대회가 되었다. 처음에는 세 자리만 주어졌으나 2006년부터 11자리로 늘렸다. 이 대회는 [2008년](../Page/2008년.md "wikilink") 대회를 끝으로 사라졌다.
+[1961년](../Page/1961년.md "wikilink")에 신설된 이 대회는 유럽 대회에 참가하지 못한 팀들에게 UEFA컵에 참가를 가능케 하는 기능도 했지만, 축구 도박회사들이 여름에도 쉬지 않게 하는 기능도 가지고 있었다. 원래 이 대회는 [도박](../Page/도박.md "wikilink")만을 위한 대회였다. [1995년](../Page/1995년.md "wikilink")부터는 [UEFA](https://ko.wikipedia.org/wiki/UEFA "wikilink")에서 주관하는 대회가 되었다. 처음에는 세 자리만 주어졌으나 2006년부터 11자리로 늘렸다. 이 대회는 [2008년](../Page/2008년.md "wikilink") 대회를 끝으로 폐지되었다.
 
 ## 역대 우승 팀
 

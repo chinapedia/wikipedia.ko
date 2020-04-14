@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [STX](https://ko.wikipedia.org/wiki/STX).
+> This article is converted from Wikipedia: [STX그룹](https://ko.wikipedia.org/wiki/STX그룹).
 
 
 **STX그룹**은 (주)[STX를](../Page/STX_\(기업\).md "wikilink") [지주회사](https://ko.wikipedia.org/wiki/지주회사 "wikilink")(모기업)으로 하는 [대한민국](../Page/대한민국.md "wikilink")의 기업 집단이었다. [STX조선해양](../Page/STX조선해양.md "wikilink"), [STX엔진](https://ko.wikipedia.org/wiki/STX엔진 "wikilink"), [STX팬오션](https://ko.wikipedia.org/wiki/STX팬오션 "wikilink") 등을 계열사로 두고 있었다.

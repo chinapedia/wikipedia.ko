@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [MBC ](https://ko.wikipedia.org/wiki/MBC_).
+> This article is converted from Wikipedia: [MBC게임 히어로](https://ko.wikipedia.org/wiki/MBC게임_히어로).
 
 
 **MBC게임 히어로**(MBC GAME HERO)는 [대한민국](../Page/대한민국.md "wikilink")의 前 프로게임단이다. 현존 당시 [스타크래프트](../Page/스타크래프트.md "wikilink"), [스페셜포스](../Page/스페셜포스_\(온라인_게임\).md "wikilink") 종목을 운영하였다.

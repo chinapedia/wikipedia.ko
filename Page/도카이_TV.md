@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ TV](https://ko.wikipedia.org/wiki/_TV).
+> This article is converted from Wikipedia: [도카이 TV](https://ko.wikipedia.org/wiki/도카이_TV).
 
 
 **도카이 TV**(東海テレビ放送)는 [1958년](../Page/1958년.md "wikilink") [12월 25일](../Page/12월_25일.md "wikilink") 주쿄광역권의 2번째 민영 텔레비전 방송국으로 개국했다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  USB ](https://ko.wikipedia.org/wiki/__USB_).
+> This article is converted from Wikipedia: [닌텐도 와이파이 USB 단자](https://ko.wikipedia.org/wiki/닌텐도_와이파이_USB_단자).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Nintendo_Wi-Fi_USB_Connector.jpg "wikilink") **닌텐도 와이파이 USB 단자**(Nintendo Wi-Fi USB Connector)는 [닌텐도](../Page/닌텐도.md "wikilink")와 [버팔로 테크놀로지가](https://ko.wikipedia.org/wiki/버팔로_테크놀로지 "wikilink") 개발한 [닌텐도 DS](../Page/닌텐도_DS.md "wikilink"), [닌텐도 3DS](../Page/닌텐도_3DS.md "wikilink") 및 [Wii](../Page/Wii.md "wikilink")의 주변기기로, 와이파이 또는 와이파이 호환 네트워크가 없는 닌텐도 DS와 Wii 사용자들에게 [광대역 인터넷에](https://ko.wikipedia.org/wiki/광대역_인터넷 "wikilink") 접속된 [PC의](../Page/개인용_컴퓨터.md "wikilink") [USB](../Page/USB.md "wikilink") 포트에 연결하기만 하면 커넥터가 와이파이 네트워크를 만들어주며, 이를 통해 [닌텐도 와이파이 커넥션을](../Page/닌텐도_와이파이_커넥션.md "wikilink") 지원하는 게임을 인터넷상의 다른 사용자와 같이 플레이할 수 있다. 닌텐도 와이파이 USB 커넥터로 생성된 와이파이 네트워크는 독자적인 인증 체계를 사용하기 때문에 닌텐도 DS와 위에서만 사용할 수 있으며, 제품은 USB 확장 케이블, 사용설명서, 소프트웨어 CD를 같이 포함해 제공한다.

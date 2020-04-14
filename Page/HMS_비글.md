@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [HMS ](https://ko.wikipedia.org/wiki/HMS_).
+> This article is converted from Wikipedia: [HMS 비글](https://ko.wikipedia.org/wiki/HMS_비글).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:HMS_Beagle_model_in_Museum_of_Zoology_\(Saint_Petersburg\).jpg "wikilink") **[왕립해군](https://ko.wikipedia.org/wiki/왕립해군 "wikilink") 군함 비글**(*HMS Beagle*)은 [영국](../Page/영국.md "wikilink") 해군의 10문포를 탑재한 체로키급 [브리그(brig)](https://ko.wikipedia.org/wiki/브리그\(brig\) "wikilink")선[(쌍돛대범선)](https://ko.wikipedia.org/wiki/\(쌍돛대범선\) "wikilink")이다. 이름은 사냥개 [비글](../Page/비글.md "wikilink")에서 유래했다. [1820년](../Page/1820년.md "wikilink") [5월 11일](../Page/5월_11일.md "wikilink") [템즈강](https://ko.wikipedia.org/wiki/템즈강 "wikilink")의 울위치 조선소에서 진수되었다. 건조 비용은 7803 파운드였다. 그해 7월, 비글호는 [조지 4세의](../Page/조지_4세.md "wikilink") 대관식을 경축하는 진수식에 참가하여 새로 만든 [런던 브리지](https://ko.wikipedia.org/wiki/런던_브리지 "wikilink") 아래를 최초로 통과한 선박이 되었다. 그 후 5년간 예비함이 되었고, 그 때 탐사용 함선으로 개조된 비글호는 이후 세 번의 탐험에 참가했다. 두 번째 항해에서는 찰스 다윈이 승선했다. [1831년](../Page/1831년.md "wikilink") [12월 27일](../Page/12월_27일.md "wikilink") [갈라파고스 제도로](../Page/갈라파고스_제도.md "wikilink") 떠났다.

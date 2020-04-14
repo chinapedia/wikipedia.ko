@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ KB ](https://ko.wikipedia.org/wiki/_KB_).
+> This article is converted from Wikipedia: [고양 KB국민은행 축구단](https://ko.wikipedia.org/wiki/고양_KB국민은행_축구단).
 
 
 **고양 KB국민은행 FC**()는 [경기도](https://ko.wikipedia.org/wiki/경기도 "wikilink") [고양시](https://ko.wikipedia.org/wiki/고양시 "wikilink")를 연고지로 하던 [대한민국](../Page/대한민국.md "wikilink")의 실업 [축구단](https://ko.wikipedia.org/wiki/축구단 "wikilink")이였다. [1969년](../Page/1969년.md "wikilink") 대한민국의 아홉 번째 금융 구단으로 창단하였으며, [1983년](../Page/1983년.md "wikilink") [프로 리그에](https://ko.wikipedia.org/wiki/K리그_1983 "wikilink") 참가하여 두 시즌 동안 프로 리그에서 뛰었다. 이 기간을 제외한 대부분의 시절은 실업 리그에서 보냈으며, [2003년](../Page/2003년.md "wikilink") 실업 리그가 [내셔널리그로](../Page/내셔널리그_\(대한민국\).md "wikilink") 재출범한 이후 2003, 2004, 2006 시즌 우승을 차지하며 전성기를 보냈다.

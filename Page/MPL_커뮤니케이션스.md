@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [MPL ](https://ko.wikipedia.org/wiki/MPL_).
+> This article is converted from Wikipedia: [MPL 커뮤니케이션스](https://ko.wikipedia.org/wiki/MPL_커뮤니케이션스).
 
 
 **MPL 커뮤니케이션스**(MPL Communications)는 [폴 매카트니의](../Page/폴_매카트니.md "wikilink") [우산 기업이다](https://ko.wikipedia.org/wiki/우산_기업 "wikilink"). MPL에서는 매카트니의 [비틀즈](../Page/비틀즈.md "wikilink") 및 솔로 작품들을 관할한다. MPL은 또한 세계에서 가장 거대한 개인 소유의 [음악 출판사이기도](https://ko.wikipedia.org/wiki/음악_출판사 "wikilink") 한데, 이는 여러 기업을 [인수합병](https://ko.wikipedia.org/wiki/인수합병 "wikilink")한 결과이다.\[1\]

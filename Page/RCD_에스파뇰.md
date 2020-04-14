@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [RCD ](https://ko.wikipedia.org/wiki/RCD_).
+> This article is converted from Wikipedia: [RCD 에스파뇰](https://ko.wikipedia.org/wiki/RCD_에스파뇰).
 
 
 **레이알 클루브 데포르티우 에스파뇰 데 바르셀로나**()는 [바르셀로나](https://ko.wikipedia.org/wiki/바르셀로나 "wikilink")를 연고지로 하는 [스페인](../Page/스페인.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SS ](https://ko.wikipedia.org/wiki/SS_).
+> This article is converted from Wikipedia: [SS 무라타](https://ko.wikipedia.org/wiki/SS_무라타).
 
 
 **SS 무라타**(Società Sportiva Murata)는 [산마리노](../Page/산마리노.md "wikilink")의 [산마리노 시를](https://ko.wikipedia.org/wiki/산마리노_\(도시\) "wikilink") 연고로 하는 [축구](../Page/축구.md "wikilink") 클럽팀이다. 무라타는 [1966년](../Page/1966년.md "wikilink")에 창단되었고, 현재 [산마리노 풋볼챔피언십의](https://ko.wikipedia.org/wiki/산마리노_풋볼챔피언십 "wikilink") B조에 참가하고 있다.

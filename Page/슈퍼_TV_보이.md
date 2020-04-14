@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ TV ](https://ko.wikipedia.org/wiki/_TV_).
+> This article is converted from Wikipedia: [슈퍼 TV 보이](https://ko.wikipedia.org/wiki/슈퍼_TV_보이).
 
 
 **슈퍼 TV 보이**(Super TV Boy)는 [1995년](../Page/1995년.md "wikilink")에 Akor, NICS, SystemA 등에서 판매한 [아타리 2600](../Page/아타리_2600.md "wikilink") 호환 게임기이다.

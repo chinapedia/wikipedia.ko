@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  TV](https://ko.wikipedia.org/wiki/__TV).
+> This article is converted from Wikipedia: [시즈오카 아사히 TV](https://ko.wikipedia.org/wiki/시즈오카_아사히_TV).
 
 
 [250px](https://ko.wikipedia.org/wiki/파일:Satv_logo.svg "wikilink") **시즈오카 아사히 TV(Shizuoka Asahi TV)**는 [1978년](../Page/1978년.md "wikilink") [7월 1일](../Page/7월_1일.md "wikilink") [시즈오카현](../Page/시즈오카현.md "wikilink")의 3번째 민영방송국으로 개국했으며 약칭은 SATV, 콜사인은 JOSI-DTV이다.

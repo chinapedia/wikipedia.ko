@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ AG](https://ko.wikipedia.org/wiki/_AG).
+> This article is converted from Wikipedia: [용골자리 AG](https://ko.wikipedia.org/wiki/용골자리_AG).
 
 
 **용골자리 AG**(AG Car)는 [용골자리](../Page/용골자리.md "wikilink") 방향으로 지구로부터 약 20,000 [광년](../Page/광년.md "wikilink") 떨어져 있는 [항성](https://ko.wikipedia.org/wiki/항성 "wikilink")이다. 이 별은 [밝은 청색변광성](../Page/밝은_청색변광성.md "wikilink")(이하 LBV)으로 분류되며 우리 은하에서 가장 밝은 별들의 반열에 들어간다. 지구에서 매우 멀리 떨어져 있는데다 이 별과 지구 사이에 있는 [성간 먼지](https://ko.wikipedia.org/wiki/성간_먼지 "wikilink") 때문에 맨눈으로는 볼 수 없으며 [겉보기등급](../Page/겉보기등급.md "wikilink")은 5.7 \~ 9.0 사이에서 형성된다.

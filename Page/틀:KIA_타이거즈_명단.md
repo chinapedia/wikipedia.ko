@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:KIA  ](https://ko.wikipedia.org/wiki/:KIA__).
+> This article is converted from Wikipedia: [틀:KIA 타이거즈 명단](https://ko.wikipedia.org/wiki/틀:KIA_타이거즈_명단).
 
 
 <onlyinclude> </onlyinclude>

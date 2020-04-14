@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Delete \(\)](https://ko.wikipedia.org/wiki/Delete_\(\)).
+> This article is converted from Wikipedia: [Delete \(문차일드\)](https://ko.wikipedia.org/wiki/Delete_\(문차일드\)).
 
 
 《**Delete**》는 [문차일드](https://ko.wikipedia.org/wiki/문차일드 "wikilink")의 데뷔 음반이다.

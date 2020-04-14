@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [DMB](https://ko.wikipedia.org/wiki/DMB).
+> This article is converted from Wikipedia: [한국DMB](https://ko.wikipedia.org/wiki/한국DMB).
 
 
 **한국DMB 주식회사**는 수도권과 강원 영서 일부, 충남 북부지역을 가시청권으로 하는 대한민국의 [지상파DMB](https://ko.wikipedia.org/wiki/지상파DMB "wikilink") 방송사이다.
@@ -84,7 +84,7 @@
 <!-- end list -->
 
   -
-    [QBS YonhapTV 편성표](https://web.archive.org/web/20110518045442/http://www.qbsi.co.kr/schedule/metro/page.html)
+    [QBS YonhapTV 편성표](http://www.qbsi.co.kr/schedule/metro/page.html)
 
 <!-- end list -->
 
@@ -122,7 +122,8 @@
 
 ## 외부 링크
 
-  - [QBS 홈페이지](https://web.archive.org/web/20190814093832/http://www.qbsi.co.kr/)
+  - [한국DMB 공식 홈페이지](http://www.kdmb.co.kr/)
+  - [QBS 홈페이지](http://www.qbsi.co.kr/)
   - [@QBSi 트위터](https://twitter.com/QBSi)
 
-[분류:2004년 설립](https://ko.wikipedia.org/wiki/분류:2004년_설립 "wikilink") [분류:대한민국의 디지털 멀티미디어 방송국](https://ko.wikipedia.org/wiki/분류:대한민국의_디지털_멀티미디어_방송국 "wikilink")
+[분류:2004년 설립](https://ko.wikipedia.org/wiki/분류:2004년_설립 "wikilink") [분류:2006년 개국](https://ko.wikipedia.org/wiki/분류:2006년_개국 "wikilink") [분류:대한민국의 디지털 멀티미디어 방송국](https://ko.wikipedia.org/wiki/분류:대한민국의_디지털_멀티미디어_방송국 "wikilink")

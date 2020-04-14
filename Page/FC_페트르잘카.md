@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FC ](https://ko.wikipedia.org/wiki/FC_).
+> This article is converted from Wikipedia: [FC 페트르잘카](https://ko.wikipedia.org/wiki/FC_페트르잘카).
 
 
 **FC 페트르잘카 아카데미아**(FC Petržalka akadémia)는 [슬로바키아](../Page/슬로바키아.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽으로 수도인 [브라티슬라바](../Page/브라티슬라바.md "wikilink")의 행정구의 하나인 페트르잘카를 연고지로 하고 있다.

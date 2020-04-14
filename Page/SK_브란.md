@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SK ](https://ko.wikipedia.org/wiki/SK_).
+> This article is converted from Wikipedia: [SK 브란](https://ko.wikipedia.org/wiki/SK_브란).
 
 
 **SK 브란**(Sportsklubben Brann)은 [노르웨이](../Page/노르웨이.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽으로 노르웨이의 두 번째로 큰 도시 [베르겐](../Page/베르겐.md "wikilink")을 연고로 [1908년](../Page/1908년.md "wikilink") [9월 26일에](../Page/9월_26일.md "wikilink") 창단되었다. 2007시즌에 우승을 차지했는데 이는 1963시즌 이후 처음으로 한 우승이었다.

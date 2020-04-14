@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ IV:   ](https://ko.wikipedia.org/wiki/_IV:___).
+> This article is converted from Wikipedia: [문명 IV: 비욘드 더 소드](https://ko.wikipedia.org/wiki/문명_IV:_비욘드_더_소드).
 
 
 《**문명 IV: 비욘드 더 소드**》(Civilization IV: Beyond the Sword)는 파이락시스 게임즈에서 2007년 발매한 《[문명 IV](../Page/문명_IV.md "wikilink")》의 두 번째 확장팩이다.

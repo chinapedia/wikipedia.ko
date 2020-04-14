@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ TR-1 ](https://ko.wikipedia.org/wiki/_TR-1_).
+> This article is converted from Wikipedia: [건담 TR-1 헤이즐](https://ko.wikipedia.org/wiki/건담_TR-1_헤이즐).
 
 
 **건담 TR-1 헤이즐**(GUNDAM TR-1 HAZEL)은 짐 쿠엘의 변형기로 잡지 기획 《[ADVANCE OF Z 티탄즈의 깃발 아래](https://ko.wikipedia.org/wiki/ADVANCE_OF_Z_티탄즈의_깃발_아래 "wikilink")》에 등장하는 MS이다. (형식번호 RX-121)

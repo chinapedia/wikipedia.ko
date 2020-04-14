@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [U \( \)](https://ko.wikipedia.org/wiki/U_\(_\)).
+> This article is converted from Wikipedia: [U \(슈퍼주니어의 노래\)](https://ko.wikipedia.org/wiki/U_\(슈퍼주니어의_노래\)).
 
 
 《**U**》는 [슈퍼주니어](../Page/슈퍼주니어.md "wikilink")의 첫 싱글이다. 프로젝트 그룹으로 시작한 슈퍼주니어가 [2006년](../Page/2006년.md "wikilink") [5월 27일](../Page/5월_27일.md "wikilink") [규현](../Page/규현.md "wikilink")의 영입과 함께 정식 그룹으로 전환되어 발매된 첫 앨범이다. 합법 다운로드 유도를 위해 소속사 [SM엔터테인먼트](https://ko.wikipedia.org/wiki/SM엔터테인먼트 "wikilink") 홈페이지를 통한 무료 다운로드 서비스를 실시했으며,\[1\] 12일만에 170만 건의 다운로드를 기록했다.\[2\]

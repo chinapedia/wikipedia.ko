@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FC  ](https://ko.wikipedia.org/wiki/FC__).
+> This article is converted from Wikipedia: [FC 바테 보리소프](https://ko.wikipedia.org/wiki/FC_바테_보리소프).
 
 
 **FC 바테 보리소프**() 또는 **FC 바테 바리사우**()는 [벨라루스](../Page/벨라루스.md "wikilink")의 축구팀으로 [바리사우](../Page/바리사우.md "wikilink")를 연고지로 하고 있다. 현재는 [벨라루스 프리미어리그에](../Page/벨라루스_프리미어리그.md "wikilink") 참가하고 있다.

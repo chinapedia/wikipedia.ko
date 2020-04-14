@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [   DEATH \& REBIRTH ](https://ko.wikipedia.org/wiki/___DEATH_\&_REBIRTH_).
+> This article is converted from Wikipedia: [신세기 에반게리온 극장판 DEATH \& REBIRTH 사도신생](https://ko.wikipedia.org/wiki/신세기_에반게리온_극장판_DEATH_\&_REBIRTH_사도신생).
 
 
 《**신세기 에반게리온 극장판 DEATH & REBIRTH 사도신생**》()은, TV [애니메이션](../Page/애니메이션.md "wikilink") 《[신세기 에반게리온](../Page/신세기_에반게리온.md "wikilink")》의 첫 번째 극장판 작품으로, [1997년](../Page/1997년.md "wikilink") [3월 15일](../Page/3월_15일.md "wikilink") [일본](../Page/일본.md "wikilink")에서 개봉된 애니메이션 작품이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ EOS 400D](https://ko.wikipedia.org/wiki/_EOS_400D).
+> This article is converted from Wikipedia: [캐논 EOS 400D](https://ko.wikipedia.org/wiki/캐논_EOS_400D).
 
 
 **캐논 EOS 400D**()는 [2006년](../Page/2006년.md "wikilink") 8월 24일에 발표된 [캐논의](https://ko.wikipedia.org/wiki/캐논_주식회사 "wikilink") 컨슈머 [디지털 SLR이다](https://ko.wikipedia.org/wiki/디지털_SLR "wikilink"). 22.2 × 14.8 mm 크기의 1010만 [유효 화소](https://ko.wikipedia.org/wiki/유효_화소 "wikilink") [CMOS 이미지 센서를](https://ko.wikipedia.org/wiki/CMOS_이미지_센서 "wikilink") 가지고 있으며, 2006년 9월에 시판되었다. 북미에는 Digital Rebel XTi, [일본](../Page/일본.md "wikilink")에는 EOS Kiss Digital X란 상품명으로 출시되었다. 400D는 [캐논 EOS 350D의](../Page/캐논_EOS_350D.md "wikilink") 후속 모델이다.

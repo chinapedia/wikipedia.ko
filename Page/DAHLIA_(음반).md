@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [DAHLIA \(\)](https://ko.wikipedia.org/wiki/DAHLIA_\(\)).
+> This article is converted from Wikipedia: [DAHLIA \(음반\)](https://ko.wikipedia.org/wiki/DAHLIA_\(음반\)).
 
 
 《**DAHLIA**》는 X JAPAN([엑스 재팬](https://ko.wikipedia.org/wiki/엑스_재팬 "wikilink"))의 다섯 번째이자 마지막 정규 앨범이다. 1996년 11월 4일에 발매되었다.

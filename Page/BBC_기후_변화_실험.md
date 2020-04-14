@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [BBC   ](https://ko.wikipedia.org/wiki/BBC___).
+> This article is converted from Wikipedia: [BBC 기후 변화 실험](https://ko.wikipedia.org/wiki/BBC_기후_변화_실험).
 
 
 [thumb](https://ko.wikipedia.org/wiki/파일:CPDN-Client.png "wikilink")

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [CA ](https://ko.wikipedia.org/wiki/CA_).
+> This article is converted from Wikipedia: [CA 콜론](https://ko.wikipedia.org/wiki/CA_콜론).
 
 
 **클루브 아틀레티코 콜론**(, **CA 콜론**)은 [아르헨티나](../Page/아르헨티나.md "wikilink") [산타페를](../Page/산타페_\(아르헨티나\).md "wikilink") 연고로 하는 [축구](../Page/축구.md "wikilink") [클럽](https://ko.wikipedia.org/wiki/클럽 "wikilink")으로, [1905년](../Page/1905년.md "wikilink") [5월 5일](../Page/5월_5일.md "wikilink") 창단되었다.

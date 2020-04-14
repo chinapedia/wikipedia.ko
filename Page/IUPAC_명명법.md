@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [IUPAC ](https://ko.wikipedia.org/wiki/IUPAC_).
+> This article is converted from Wikipedia: [IUPAC 명명법](https://ko.wikipedia.org/wiki/IUPAC_명명법).
 
 
 **IUPAC 명명법**이란, [국제 순수·응용화학 연합](https://ko.wikipedia.org/wiki/국제_순수·응용화학_연합 "wikilink")(IUPAC)이 정한 화합물 명명법이다. 일단 영어 명명법을 정하면, 각국의 화학회는 그 명명법을 자기 나라 언어 체계에 맞게 재규정하고 있다. 가령 영어로 methane인 것을 독일어에서는 Methan, 프랑스어에서는 méthane, 인도네시아어로는 metan이라 하는 식이다.
@@ -13,7 +13,7 @@
 
 단원소 물질은 원소명 앞에 그리스어 수사를 붙여 명명한다.
 
-예)O<sub>3</sub>〔관용명 : [오존](https://ko.wikipedia.org/wiki/:ja:オゾン "wikilink")〕 trioxygen
+예)O<sub>3</sub>〔관용명 : [오존](../Page/오존.md "wikilink")〕 trioxygen
 
 ### 무기 이온화합물(염)
 
@@ -51,11 +51,11 @@
 
 주요 작용기는 모체의 접미어가 되고 그 이외의 치환기는 머릿글자의 ABC순에 따라 접두어로서 모체명과 연결된다.
 
-관용명은 모체명과 치환기명으로서 사용이 가능하지만 관용명을 사용한 치환기의 일부 (예를 들면 isopropyl과 같은) 는 단순히 유도체화된 명명이 금지된 경우도 있다(×1-chloroisopropyl- → ○1-chloroprop-2-yl-).
+관용명은 모체명과 치환기명으로서 사용이 가능하지만 관용명을 사용한 치환기의 일부 (예를 들면 isopropyl과 같은)는 단순히 유도체화된 명명이 금지된 경우도 있다(×1-chloroisopropyl- → ○1-chloroprop-2-yl-).
 
 #### 치환명명법
 
-**치환명명법** (substitutive nomenclature)은 모체의 수소를 특성기로 치환한 명명법이다.
+**치환명명법**(substitutive nomenclature)은 모체의 수소를 특성기로 치환한 명명법이다.
 
 특성기(characteristic group)란 작용기를 특징짓는 [원자단](https://ko.wikipedia.org/wiki/원자단 "wikilink")(C=O 등)으로 작용기의 부분을 그렇게 부른다.
 
@@ -64,7 +64,7 @@
 
 #### 작용기명명법
 
-**작용기명명법** (radicofunctional nomenclature)은 치환기의 명칭과 작용기 종류의 명칭을 연결짓는 명명법이다.
+**작용기명명법**(radicofunctional nomenclature)은 치환기의 명칭과 작용기 종류의 명칭을 연결짓는 명명법이다.
 
   -
     예) methyl(기)+ alcohol(종류명) = methyl alcohol

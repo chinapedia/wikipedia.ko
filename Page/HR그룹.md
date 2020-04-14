@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [HR](https://ko.wikipedia.org/wiki/HR).
+> This article is converted from Wikipedia: [HR그룹](https://ko.wikipedia.org/wiki/HR그룹).
 
 
 **HRKorea**는 [대한민국](../Page/대한민국.md "wikilink") 대표 HR브랜드로 헤드헌팅 인재관리 전문기업(Executive Search Firm)이며 [대한민국](../Page/대한민국.md "wikilink") 인재의 중심이라는 모토 아래, 인재와 관련된 제반 사업추진 및 R\&D를 추진하고 있다.
@@ -21,7 +21,7 @@
   - 4월 성공을 꿈꾸는 여성 사이트 www.iwillb.com 오픈
   - 4월 구인기업을 위한 화상상담 서비스 도입
   - 5월 [야후코리아](https://ko.wikipedia.org/wiki/야후코리아 "wikilink"), [하이텔](../Page/하이텔.md "wikilink"), [전자신문](https://ko.wikipedia.org/wiki/전자신문 "wikilink")과 헤드헌팅 콘텐츠 독점 제휴 체결
-  - 7월 제1회 Best Web Site Award 선정 ([코리아타임스](https://ko.wikipedia.org/wiki/코리아타임스 "wikilink") 주최, 아이비즈넷 주관)
+  - 7월 제1회 Best Web Site Award 선정 ([코리아타임스](../Page/코리아타임스.md "wikilink") 주최, 아이비즈넷 주관)
   - 7월 아웃플레이스먼트(전직지원 서비스) 서비스 개시
   - 8월 컴덱스코리아 2001 IT Job Market 참가
   - 8월 IT 전문 인재 Recruiting Site www.ITHR.co.kr 오픈

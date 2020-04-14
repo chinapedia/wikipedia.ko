@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FH ](https://ko.wikipedia.org/wiki/FH_).
+> This article is converted from Wikipedia: [FH 하프나르피외르뒤르](https://ko.wikipedia.org/wiki/FH_하프나르피외르뒤르).
 
 
 **FH 하프나르피외르뒤르**([아이슬란드어](../Page/아이슬란드어.md "wikilink"): Fimleikafélag Hafnarfjarðar)는 [아이슬란드](../Page/아이슬란드.md "wikilink")의 축구 클럽이다. 연고지인 [하프나르피외르뒤르](../Page/하프나르피외르뒤르.md "wikilink")는 섬의 남동쪽에 위치해 있으며 수도인 [레이캬비크](../Page/레이캬비크.md "wikilink")에서 10km 정도 떨어져 있다.

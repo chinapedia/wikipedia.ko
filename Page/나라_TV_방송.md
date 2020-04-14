@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ TV ](https://ko.wikipedia.org/wiki/_TV_).
+> This article is converted from Wikipedia: [나라 TV 방송](https://ko.wikipedia.org/wiki/나라_TV_방송).
 
 
 **나라 TV 방송**은 [1973년](../Page/1973년.md "wikilink") [4월 1일](../Page/4월_1일.md "wikilink") [나라현](../Page/나라현.md "wikilink")의 독립 UHF방송국으로 개국했다.

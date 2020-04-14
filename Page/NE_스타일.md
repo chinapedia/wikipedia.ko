@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [NE ](https://ko.wikipedia.org/wiki/NE_).
+> This article is converted from Wikipedia: [NE 스타일](https://ko.wikipedia.org/wiki/NE_스타일).
 
 
 **NE Style**(엔이 스타일)은 [대한민국](../Page/대한민국.md "wikilink")의 힙합 그룹이다. [신건과](../Page/신건_\(가수\).md "wikilink") [Zagun으로](https://ko.wikipedia.org/wiki/자건 "wikilink") 이루어져 있으며 [Dokkebeez](https://ko.wikipedia.org/wiki/도깨비즈 "wikilink") 크루 소속으로 활동하였다.

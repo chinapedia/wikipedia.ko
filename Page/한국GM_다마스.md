@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [GM ](https://ko.wikipedia.org/wiki/GM_).
+> This article is converted from Wikipedia: [한국GM 다마스](https://ko.wikipedia.org/wiki/한국GM_다마스).
 
 
 **한국GM 다마스**(GM Korea Damas)는 [한국GM](https://ko.wikipedia.org/wiki/한국GM "wikilink")의 경상용차이다.

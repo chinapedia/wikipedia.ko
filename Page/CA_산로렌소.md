@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [CA ](https://ko.wikipedia.org/wiki/CA_).
+> This article is converted from Wikipedia: [CA 산로렌소](https://ko.wikipedia.org/wiki/CA_산로렌소).
 
 
 **클루브 아틀레티코 산로렌소 데 알마그로**(, **CASLA**)는 [아르헨티나](../Page/아르헨티나.md "wikilink") [부에노스 아이레스의](https://ko.wikipedia.org/wiki/부에노스_아이레스 "wikilink") [보에도](https://ko.wikipedia.org/wiki/보에도 "wikilink")(Boedo) 지구를 근거지로 하는 [축구](../Page/축구.md "wikilink") [클럽](https://ko.wikipedia.org/wiki/클럽 "wikilink")이다. 1부 리그 우승 14회 등 화려한 역사를 지니고 있으며, [보카 주니어스](https://ko.wikipedia.org/wiki/보카_주니어스 "wikilink"), [리버 플레이트](https://ko.wikipedia.org/wiki/리버_플레이트 "wikilink"), [인데펜디엔테](../Page/CA_인데펜디엔테.md "wikilink"), [라싱 클루브와](../Page/라싱_클루브.md "wikilink") 함께 아르헨티나의 **빅 파이브**() 중 하나로 꼽힌다.

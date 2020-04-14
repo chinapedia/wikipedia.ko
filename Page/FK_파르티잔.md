@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FK ](https://ko.wikipedia.org/wiki/FK_).
+> This article is converted from Wikipedia: [FK 파르티잔](https://ko.wikipedia.org/wiki/FK_파르티잔).
 
 
 **FK 파르티잔**(, )은 [베오그라드](../Page/베오그라드.md "wikilink")를 연고로 하는 [세르비아](../Page/세르비아.md "wikilink")의 축구 클럽으로, 2013-14 시즌은 2위로 마감했다. 과거 국방부 소속이었던 이 팀과 내무부 소속이었던 [츠르베나 즈베즈다와의](https://ko.wikipedia.org/wiki/츠르베나_즈베즈다 "wikilink") 베오그라드 더비는 세계적으로 유명한 더비 중 하나이다.

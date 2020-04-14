@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  b](https://ko.wikipedia.org/wiki/__b).
+> This article is converted from Wikipedia: [에리다누스자리 엡실론 b](https://ko.wikipedia.org/wiki/에리다누스자리_엡실론_b).
 
 
 **에리다누스자리 엡실론 b** 또는 **HD 22049 b**는 에리다누스자리에 있는, 지구에서 10.5광년 거리에 있는 [외계 행성이다](../Page/외계_행성.md "wikilink"). 이 행성이 속한 [에리다누스자리 엡실론](../Page/에리다누스자리_엡실론.md "wikilink") 항성계는 확인된 바로는 태양계에서 가장 가까운 외계 행성계이다.

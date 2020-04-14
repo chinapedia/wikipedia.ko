@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
+> This article is converted from Wikipedia: [반즐리 FC](https://ko.wikipedia.org/wiki/반즐리_FC).
 
 
 **반즐리 FC**(Barnsley Football Club)는 [잉글랜드](../Page/잉글랜드.md "wikilink") [반즐리](../Page/반즐리.md "wikilink")를 연고로 하는 축구 클럽이다.

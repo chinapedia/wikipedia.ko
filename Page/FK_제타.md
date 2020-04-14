@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FK ](https://ko.wikipedia.org/wiki/FK_).
+> This article is converted from Wikipedia: [FK 제타](https://ko.wikipedia.org/wiki/FK_제타).
 
 
 **FK 제타**(, )는 [몬테네그로](../Page/몬테네그로.md "wikilink")의 축구 클럽이다. 연고지는 [골루보브치](https://ko.wikipedia.org/wiki/골루보브치 "wikilink")로, 수도인 [포드고리차](../Page/포드고리차.md "wikilink") 근교에 있다.

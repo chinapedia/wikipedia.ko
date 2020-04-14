@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [NHK  ](https://ko.wikipedia.org/wiki/NHK__).
+> This article is converted from Wikipedia: [NHK 기타큐슈 방송국](https://ko.wikipedia.org/wiki/NHK_기타큐슈_방송국).
 
 
 **NHK 기타큐슈 방송국**(北九州 放送局)은 [후쿠오카현](../Page/후쿠오카현.md "wikilink") 기타큐슈·온가·게이치쿠 및 지쿠호지구를 방송구역으로 하는 NHK의 지역방송국이며 중파·FM라디오·텔레비전 방송을 담당하고 있다.

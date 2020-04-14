@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ EF ](https://ko.wikipedia.org/wiki/_EF_).
+> This article is converted from Wikipedia: [캐논 EF 마운트](https://ko.wikipedia.org/wiki/캐논_EF_마운트).
 
 
 [right](https://ko.wikipedia.org/wiki/파일:Canon_EF_lens_mount.jpg "wikilink") **캐논 EF 마운트**()는 [캐논 주식회사의](https://ko.wikipedia.org/wiki/캐논_주식회사 "wikilink") 베요닛(bayonet) 스타일 [렌즈 마운트이다](../Page/렌즈_마운트.md "wikilink"). [캐논 EOS](../Page/캐논_EOS.md "wikilink") [카메라](https://ko.wikipedia.org/wiki/카메라 "wikilink")들은 EF 마운트를 가지고 있다. EF는 "Electro-Focus"를 뜻한다. EF [렌즈](../Page/렌즈.md "wikilink")에서의 [자동 초점은](../Page/자동_초점.md "wikilink") 렌즈 내장 [모터](https://ko.wikipedia.org/wiki/모터 "wikilink")에 의해 수행된다. [카메라](https://ko.wikipedia.org/wiki/카메라 "wikilink")와 [렌즈와의](https://ko.wikipedia.org/wiki/사진_렌즈 "wikilink") 모든 통신은 전기 접점들(electrical contacts)을 통해 수행되며, 기계적 방법은 사용되지 않는다.

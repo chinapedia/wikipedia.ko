@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FK ](https://ko.wikipedia.org/wiki/FK_).
+> This article is converted from Wikipedia: [FK 벤츠필스](https://ko.wikipedia.org/wiki/FK_벤츠필스).
 
 
 **FK 벤츠필스**(FK Ventspils)는 [라트비아](../Page/라트비아.md "wikilink")의 축구 클럽으로 현재 [라트비아 비르스리가에서](https://ko.wikipedia.org/wiki/라트비아_비르스리가 "wikilink") 활동중인 팀이다. 벤츠필스는 현재 리그 우승 2번, 컵 대회 우승 4번의 기록을 가지고 있다. 2006시즌과 2007시즌 연속 2회 우승을 기록하고 있다.

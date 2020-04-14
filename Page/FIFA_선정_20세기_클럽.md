@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FIFA  20 ](https://ko.wikipedia.org/wiki/FIFA__20_).
+> This article is converted from Wikipedia: [FIFA 선정 20세기 클럽](https://ko.wikipedia.org/wiki/FIFA_선정_20세기_클럽).
 
 
 **FIFA 선정 20세기 클럽**은 [FIFA](https://ko.wikipedia.org/wiki/FIFA "wikilink")에서 선정한 [20세기](../Page/20세기.md "wikilink")를 대표하는 최고의 클럽팀에서 주어지는 상이다. [2000년](../Page/2000년.md "wikilink") [12월 11일](../Page/12월_11일.md "wikilink") [로마](../Page/로마.md "wikilink")에서 열렸다.

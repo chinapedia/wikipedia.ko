@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [DIVE \(  \)](https://ko.wikipedia.org/wiki/DIVE_\(__\)).
+> This article is converted from Wikipedia: [DIVE \(사카모토 마아야의 음반\)](https://ko.wikipedia.org/wiki/DIVE_\(사카모토_마아야의_음반\)).
 
 
 《**DIVE**》(다이브)는 사카모토 마아야의 두 번째 오리지널 앨범이다.

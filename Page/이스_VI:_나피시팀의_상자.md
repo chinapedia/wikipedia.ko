@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ VI:  ](https://ko.wikipedia.org/wiki/_VI:__).
+> This article is converted from Wikipedia: [이스 VI: 나피시팀의 상자](https://ko.wikipedia.org/wiki/이스_VI:_나피시팀의_상자).
 
 
 《**이스 VI: 나피시팀의 상자**》([영어](../Page/영어.md "wikilink"): Ys: The Ark of Napishtim, [일본어](../Page/일본어.md "wikilink"): イースVI - ナピシュテムの匣)는 [팔콤](https://ko.wikipedia.org/wiki/팔콤 "wikilink")이 [2003년](../Page/2003년.md "wikilink") 출시한 [액션 롤플레잉 게임이다](https://ko.wikipedia.org/wiki/액션_롤플레잉_게임 "wikilink").

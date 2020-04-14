@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FM ](https://ko.wikipedia.org/wiki/FM_).
+> This article is converted from Wikipedia: [FM 구마모토](https://ko.wikipedia.org/wiki/FM_구마모토).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:FM_Kumamoto_2011.JPG "wikilink") **FM구마모토**는 일본의 FM라디오 방송국으로 [구마모토현](../Page/구마모토현.md "wikilink")에서 방송을 실시하고 있다.

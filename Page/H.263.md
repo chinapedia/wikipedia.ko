@@ -55,6 +55,6 @@ H.263 원본 규격은 다음과 같이 규정되어 있다.
 
   - [H.263 규격 (ITU)](http://www.itu.int/rec/T-REC-H.263/)
 
-[분류:영상 코덱](https://ko.wikipedia.org/wiki/분류:영상_코덱 "wikilink")
+[분류:영상 코덱](https://ko.wikipedia.org/wiki/분류:영상_코덱 "wikilink") [분류:화상 통화](https://ko.wikipedia.org/wiki/분류:화상_통화 "wikilink")
 
 1.

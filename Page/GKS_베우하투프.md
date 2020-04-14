@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [GKS ](https://ko.wikipedia.org/wiki/GKS_).
+> This article is converted from Wikipedia: [GKS 베우하투프](https://ko.wikipedia.org/wiki/GKS_베우하투프).
 
 
 **GKS 베우하투프**([pronounced](https://ko.wikipedia.org/wiki/위키백과:IPA "wikilink") )는 [폴란드](../Page/폴란드.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽으로 폴란드 최상위 리그인 [엑스트라클라사](../Page/엑스트라클라사.md "wikilink")에 참가하고 있다.

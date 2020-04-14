@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [J ](https://ko.wikipedia.org/wiki/J_).
+> This article is converted from Wikipedia: [J리그 승강결정전](https://ko.wikipedia.org/wiki/J리그_승강결정전).
 
 
 **J리그 승강결정전**()는 [2004년](../Page/2004년.md "wikilink") 시즌부터 [J리그](../Page/J리그.md "wikilink")에 도입된 제도로 다음 해 J리그 승격 및 강등을 가리는 경기다. [2009년](../Page/2009년.md "wikilink") 시즌부터 J2리그가 18개 팀이 됨에 따라 폐지되었으나 [2012년](../Page/2012년.md "wikilink")부터 [잉글랜드](../Page/잉글랜드.md "wikilink") [챔피언십리그](https://ko.wikipedia.org/wiki/챔피언십리그 "wikilink")의 플레이오프 방식으로 재도입되었다.

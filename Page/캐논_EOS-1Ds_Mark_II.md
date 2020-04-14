@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ EOS-1Ds Mark II](https://ko.wikipedia.org/wiki/_EOS-1Ds_Mark_II).
+> This article is converted from Wikipedia: [캐논 EOS-1Ds Mark II](https://ko.wikipedia.org/wiki/캐논_EOS-1Ds_Mark_II).
 
 
 **캐논 EOS-1Ds 마크 II**()는 [캐논의](https://ko.wikipedia.org/wiki/캐논_주식회사 "wikilink") [풀 프레임](https://ko.wikipedia.org/wiki/풀_프레임_디지털_일안_반사식_카메라 "wikilink") [디지털 SLR](https://ko.wikipedia.org/wiki/디지털_SLR "wikilink") [카메라](https://ko.wikipedia.org/wiki/카메라 "wikilink")이다. [캐논 EOS](../Page/캐논_EOS.md "wikilink") 시리즈의 최상위 모델로, 1,670만 [유효 화소](https://ko.wikipedia.org/wiki/유효_화소 "wikilink") 풀 프레임 (36 × 24 mm) [CMOS 이미지 센서를](https://ko.wikipedia.org/wiki/CMOS_이미지_센서 "wikilink") 가지고 있다. 전문가용 카메라로서, 1Ds Mark II는 크고 튼튼하며 방진, 방습 기능을 가지고 있다.

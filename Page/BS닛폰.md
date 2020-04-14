@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [BS](https://ko.wikipedia.org/wiki/BS).
+> This article is converted from Wikipedia: [BS닛폰](https://ko.wikipedia.org/wiki/BS닛폰).
 
 
-**주식회사 BS닛폰**은, [니혼TV](https://ko.wikipedia.org/wiki/니혼TV "wikilink")·[NNN](https://ko.wikipedia.org/wiki/NNN "wikilink")계열 BS위탁방송 사업자이다.채널 명칭은 「BS닛테레」.
+**주식회사 BS닛폰**은 [니혼TV](https://ko.wikipedia.org/wiki/니혼TV "wikilink")·[NNN](https://ko.wikipedia.org/wiki/NNN "wikilink")계열 BS위탁방송 사업자이다.채널 명칭은 「BS닛테레」.
 
 ## 연혁
 

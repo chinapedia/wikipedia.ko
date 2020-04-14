@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ TV ](https://ko.wikipedia.org/wiki/_TV_).
+> This article is converted from Wikipedia: [오키나와 TV 방송](https://ko.wikipedia.org/wiki/오키나와_TV_방송).
 
 
 [오른쪽](https://ko.wikipedia.org/wiki/파일:Otv_logo.svg "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:Okinawa_Television_Broadcasting_Head_Office.jpg "wikilink") **오키나와 TV 방송**()은 [오키나와](../Page/오키나와현.md "wikilink") 최초의 민간 텔레비전 방송국이다.

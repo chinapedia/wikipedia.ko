@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [MBC ](https://ko.wikipedia.org/wiki/MBC_).
+> This article is converted from Wikipedia: [MBC강원영동 삼척방송국](https://ko.wikipedia.org/wiki/MBC강원영동_삼척방송국).
 
 
 *' MBC강원영동 삼척방송국*'(MBC江原嶺東 三陟放送局)은 영동 남부지역을 가시청권으로 하는 대한민국의 지상파 TV·라디오 방송국으로, [1970년](../Page/1970년.md "wikilink") [7월 20일](../Page/7월_20일.md "wikilink") 동해방송주식회사로 출범하여 오늘날에 이르고 있다. 본사는 강원도 삼척시 갈천동에 위치한다. [2014년](../Page/2014년.md "wikilink") [2월 19일](../Page/2월_19일.md "wikilink") 강릉문화방송과의 통합이 확정되어, 2015년 1월 1일부터 MBC 강원영동 삼척방송국이 되었다.
@@ -133,7 +133,6 @@
 
 ### UHD 시대
 
-  - [2017년](../Page/2017년.md "wikilink") [12월 29일](../Page/12월_29일.md "wikilink") : MBC강원영동 삼척방송국 UHD 방송개시.
   - [2018년](../Page/2018년.md "wikilink") [2월 26일](https://ko.wikipedia.org/wiki/2월_26일 "wikilink") : 제18대 대표이사 사장 최중억 취임
 
 ## TV방송
@@ -242,22 +241,92 @@
 
 #### MBC강원영동 삼척 라디오
 
-| 프로그램                                                                                                         | 요일    | 시간   | 진행자                      |
-| ------------------------------------------------------------------------------------------------------------ | ----- | ---- | ------------------------ |
-| [MBC 정오종합뉴스](../Page/MBC_정오종합뉴스.md "wikilink")                                                               | 월\~금  | 5분   | 성스리                      |
-| MBC 15시 뉴스                                                                                                   | 월\~금  | 5분   | 성스리                      |
-| MBC 17시 뉴스                                                                                                   | 월\~금  | 5분   | 김효주                      |
-| [라디오 가든 (MBC강원영동 강릉방송국)](https://web.archive.org/web/20160630025747/http://www.mbceg.co.kr/program/radio_02) | 월\~금  | 100분 | 김현수 (MBC강원영동 강릉방송국 아나운서) |
-| [라디오 동서남북](https://web.archive.org/web/20160630023840/http://www.mbceg.co.kr/program/radio_03)               | 월 \~금 | 40분  | 민기원                      |
-|                                                                                                              |       |      |                          |
+<table>
+<thead>
+<tr class="header">
+<th><p>프로그램</p></th>
+<th><p>요일</p></th>
+<th><p>시간</p></th>
+<th><p>진행자</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><a href="../Page/MBC_정오종합뉴스.md" title="wikilink">MBC 정오종합뉴스</a></p></td>
+<td><p>평일</p></td>
+<td><p>5분</p></td>
+<td><p>성스리</p></td>
+</tr>
+<tr class="even">
+<td><p>MBC 15시 뉴스</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>MBC 17시 뉴스</p></td>
+<td><p>김효주</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="http://www.mbceg.co.kr/program/radio_02">라디오 가든<br />
+(MBC강원영동 강릉방송국)</a></p></td>
+<td><p>1시간 40분</p></td>
+<td><p>김현수<br />
+(MBC강원영동 강릉방송국 아나운서)</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="http://www.mbceg.co.kr/program/radio_03">라디오 동서남북</a></p></td>
+<td><p>40분</p></td>
+<td><p>민기원</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 #### MBC강원영동 삼척 FM4U
 
-| 프로그램                                                                                                                              | 요일   | 시간   | 진행자                      |
-| --------------------------------------------------------------------------------------------------------------------------------- | ---- | ---- | ------------------------ |
-| [노기환의 FM 골든디스크](https://web.archive.org/web/20151123230825/http://www.wjmbc.co.kr/radio/prog_intro.html?pgcode=goldendisc&pview=) | 월\~일 | 60분  | 노기환                      |
-| [정오의 희망곡](https://chmbc.co.kr/programme/A5V919bMKJYp7Cw)                                                                          | 월\~일 | 120분 | 이호석(춘천 수중계)              |
-| [오후의 발견 (MBC강원영동 강릉방송국)](http://www.mbceg.co.kr/program/radio_06)                                                                 | 월\~일 | 120분 | 성스리 (MBC강원영동 강릉방송국 아나운서) |
+<table>
+<thead>
+<tr class="header">
+<th><p>프로그램</p></th>
+<th><p>요일</p></th>
+<th><p>시간</p></th>
+<th><p>진행자</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><a href="http://www.wjmbc.co.kr/radio/prog_intro.html?pgcode=goldendisc&amp;pview=">노기환의 FM 골든디스크</a></p></td>
+<td><p>매일</p></td>
+<td><p>1시간</p></td>
+<td><p>노기환</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://chmbc.co.kr/programme/A5V919bMKJYp7Cw">정오의 희망곡</a></p></td>
+<td><p>2시간</p></td>
+<td><p>이호석<br />
+(춘천 수중계)</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="http://www.mbceg.co.kr/program/radio_06">오후의 발견<br />
+(MBC강원영동 강릉방송국)</a></p></td>
+<td><p>성스리<br />
+(MBC강원영동 강릉방송국 아나운서)</p></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 ### 방송 송출 시설망
 
@@ -312,7 +381,7 @@
 
 ## 외부 링크
 
-  - [MBC강원영동 삼척방송국 웹사이트](https://web.archive.org/web/20150625184155/http://www.mbceg.co.kr/)
+  - [MBC강원영동 홈페이지](http://www.mbceg.co.kr/)
 
 [분류:문화방송계열 방송국](https://ko.wikipedia.org/wiki/분류:문화방송계열_방송국 "wikilink") [분류:대한민국의 강원도 지상파 방송국](https://ko.wikipedia.org/wiki/분류:대한민국의_강원도_지상파_방송국 "wikilink") [분류:삼척시](https://ko.wikipedia.org/wiki/분류:삼척시 "wikilink") [분류:1970년 설립](https://ko.wikipedia.org/wiki/분류:1970년_설립 "wikilink")
 

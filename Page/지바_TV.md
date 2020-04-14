@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ TV](https://ko.wikipedia.org/wiki/_TV).
+> This article is converted from Wikipedia: [지바 TV](https://ko.wikipedia.org/wiki/지바_TV).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Chiba_Television,_headoffice.jpg "wikilink") **지바 TV**는 [1971년](../Page/1971년.md "wikilink") [5월 1일](../Page/5월_1일.md "wikilink") [지바현](../Page/지바현.md "wikilink")의 독립 [UHF 방송국으로](https://ko.wikipedia.org/wiki/UHF_방송국 "wikilink") 개국했다. 약칭은 CTC, 콜사인은 JOCL-DTV이다.

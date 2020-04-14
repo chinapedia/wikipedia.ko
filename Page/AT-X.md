@@ -45,6 +45,6 @@
 
 ## 외부 링크
 
-  - [AT-X 홈페이지](http://www.at-x.com/)
+  - [AT-X 홈페이지](https://web.archive.org/web/20180814142855/https://www.at-x.com/)
 
 [AT-X](https://ko.wikipedia.org/wiki/분류:AT-X "wikilink") [분류:일본의 위성방송국](https://ko.wikipedia.org/wiki/분류:일본의_위성방송국 "wikilink") [분류:1997년 설립된 텔레비전 방송국과 채널](https://ko.wikipedia.org/wiki/분류:1997년_설립된_텔레비전_방송국과_채널 "wikilink")

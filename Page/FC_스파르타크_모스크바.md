@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FC  ](https://ko.wikipedia.org/wiki/FC__).
+> This article is converted from Wikipedia: [FC 스파르타크 모스크바](https://ko.wikipedia.org/wiki/FC_스파르타크_모스크바).
 
 
 **FC 스파르타크 모스크바**()는 [모스크바](../Page/모스크바.md "wikilink")를 근거지로 하는 [러시아](../Page/러시아.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다. [1922년](../Page/1922년.md "wikilink")에 창단되었으며, 현재 [러시아 프리미어리그에](../Page/러시아_프리미어리그.md "wikilink") 소속되어 있다. 홈 구장은 2014년에 완공된 [옷크리티예 아레나이며](../Page/옷크리티예_아레나.md "wikilink") 총 45360명을 수용할 수 있다. 구단주는 러시아의 기업인인 [레오니트 페둔](https://ko.wikipedia.org/wiki/레오니트_페둔 "wikilink"), 감독은 [이탈리아](../Page/이탈리아.md "wikilink") 국적의 [마시모 카레라이다](https://ko.wikipedia.org/wiki/마시모_카레라 "wikilink").

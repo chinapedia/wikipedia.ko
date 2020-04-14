@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
+> This article is converted from Wikipedia: [풀럼 FC](https://ko.wikipedia.org/wiki/풀럼_FC).
 
 
 **풀럼 축구 클럽**()은 [잉글랜드](../Page/잉글랜드.md "wikilink") [그레이터런던](https://ko.wikipedia.org/wiki/그레이터런던 "wikilink") [풀럼](../Page/풀럼.md "wikilink")을 연고로 하고 있는 프로 축구 클럽이다.

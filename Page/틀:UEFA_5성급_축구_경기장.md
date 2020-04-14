@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:UEFA 5  ](https://ko.wikipedia.org/wiki/:UEFA_5__).
+> This article is converted from Wikipedia: [틀:UEFA 5성급 축구 경기장](https://ko.wikipedia.org/wiki/틀:UEFA_5성급_축구_경기장).
 
 
 <onlyinclude></onlyinclude>

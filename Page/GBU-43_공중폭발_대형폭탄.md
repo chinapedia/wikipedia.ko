@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [GBU-43  ](https://ko.wikipedia.org/wiki/GBU-43__).
+> This article is converted from Wikipedia: [GBU-43 공중폭발 대형폭탄](https://ko.wikipedia.org/wiki/GBU-43_공중폭발_대형폭탄).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:MOAB_bomb.jpg "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:MOABAFAM.JPG "wikilink")

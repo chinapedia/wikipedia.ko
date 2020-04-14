@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ III:   ](https://ko.wikipedia.org/wiki/_III:___).
+> This article is converted from Wikipedia: [이스 III: 원더러스 프롬 이스](https://ko.wikipedia.org/wiki/이스_III:_원더러스_프롬_이스).
 
 
 《**이스 III: 원더러스 프롬 이스**》(, )는 [니혼 팔콤이](../Page/니혼_팔콤.md "wikilink") 출시한 [액션 롤플레잉 게임이다](https://ko.wikipedia.org/wiki/액션_롤플레잉_게임 "wikilink"). 《[이스](../Page/이스_\(시리즈\).md "wikilink")》 시리즈의 세번째 게임으로, [PC-8801](https://ko.wikipedia.org/wiki/PC-8801 "wikilink") 및 [PC-9801](https://ko.wikipedia.org/wiki/PC-9801 "wikilink") 기종으로 처음 출시됐다. 지난 작품 《[이스 I & II](../Page/이스_I_&_II.md "wikilink")》에서 이스 왕국의 사건 후 3년 뒤, 아돌 크리스틴과 도기의 계속되는 모험기를 그렸다. 최초 발매 당시에는 '이스 왕국에서 온 방랑자'라는 의미로 《**원더러스 프롬 이스**》()라는 제목이었으나, 이후 이식판에서 발매숫자를 나타내는 '이스 III'가 추가로 붙었다.

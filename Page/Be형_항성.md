@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Be ](https://ko.wikipedia.org/wiki/Be_).
+> This article is converted from Wikipedia: [Be형 항성](https://ko.wikipedia.org/wiki/Be형_항성).
 
 
 [섬네일는](https://ko.wikipedia.org/wiki/파일:Achernar.jpg "wikilink") 매우 빠른 자전 속도 때문에 적도가 크게 부풀어 있다.\]\] **Be형 항성**(Be star), **껍질별**(shell star)\[1\] 은 [분광형](https://ko.wikipedia.org/wiki/분광형 "wikilink") B의 항성 중 [스펙트럼](../Page/스펙트럼.md "wikilink")에 [수소](../Page/수소.md "wikilink")[방출선](https://ko.wikipedia.org/wiki/방출선 "wikilink")이 나타나는 것을 말한다. 대문자 B 옆에 작은 e(스펙트럼상의 방출선을 의미)를 붙여서 **Be**로 표시한다. 비이형 별의 스펙트럼에는 다른 원자 [이온](../Page/이온.md "wikilink")들도 존재하기는 하나, 그 강도는 수소보다 훨씬 약하다. 비이형 별의 스펙트럼은 보통의 B형 항성보다 선형 [편광](../Page/편광.md "wikilink") 및 '[적외선 초과](https://ko.wikipedia.org/wiki/적외선_초과 "wikilink")'로 불리는 적외선 복사 현상이 뚜렷하게 발견된다. 비이형 별은 항성의 진화 과정 중 찰나에 해당하는 순간이므로, 현재 비이형 별의 특징을 보이는 천체들이 다시 평범한 B형 별로 돌아갈 수 있고, 그 반대의 현상도 일어날 수 있다.

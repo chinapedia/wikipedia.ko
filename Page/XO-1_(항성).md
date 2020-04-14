@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [XO-1 \(\)](https://ko.wikipedia.org/wiki/XO-1_\(\)).
+> This article is converted from Wikipedia: [XO-1 \(항성\)](https://ko.wikipedia.org/wiki/XO-1_\(항성\)).
 
 
 **XO-1** 또는 **GSC 02041-01657**은 [북쪽왕관자리](../Page/북쪽왕관자리.md "wikilink")에 있는, 지구에서 약 600광년 떨어진 곳에 있는 [황색 왜성이다](https://ko.wikipedia.org/wiki/황색_왜성 "wikilink"). XO-1의 질량과 반지름은 [태양](../Page/태양.md "wikilink")과 비슷하다. 2006년 이 항성 주위를 도는 [외계 행성](../Page/외계_행성.md "wikilink") [XO-1b](../Page/XO-1b.md "wikilink")가 발견되었다. 발견 기구로는 [XO 망원경이](https://ko.wikipedia.org/wiki/XO_망원경 "wikilink") 사용되었다.

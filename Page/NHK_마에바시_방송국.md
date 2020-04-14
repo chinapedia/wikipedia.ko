@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [NHK  ](https://ko.wikipedia.org/wiki/NHK__).
+> This article is converted from Wikipedia: [NHK 마에바시 방송국](https://ko.wikipedia.org/wiki/NHK_마에바시_방송국).
 
 
 [썸네일](https://ko.wikipedia.org/wiki/파일:NHK前橋放送局.JPG "wikilink") **NHK 마에바시 방송국**(前橋 放送局)은 [군마현](../Page/군마현.md "wikilink")을 방송구역으로 하는 NHK의 지역방송국이며 FM라디오 방송을 담당하고 있다.

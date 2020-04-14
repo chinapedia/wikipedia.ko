@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ H. ](https://ko.wikipedia.org/wiki/_H._).
+> This article is converted from Wikipedia: [윌리엄 H. 카니](https://ko.wikipedia.org/wiki/윌리엄_H._카니).
 
 
 **윌리엄 H. 카니**([1842년](../Page/1842년.md "wikilink") [3월 28일](../Page/3월_28일.md "wikilink") \~ [1908년](../Page/1908년.md "wikilink") [3월 20일](../Page/3월_20일.md "wikilink"))은 [미국](../Page/미국.md "wikilink")의 [군인](https://ko.wikipedia.org/wiki/군인 "wikilink")으로 [남북전쟁](https://ko.wikipedia.org/wiki/남북전쟁 "wikilink") 중에 [매사추세츠 54 연대에서](https://ko.wikipedia.org/wiki/매사추세츠_54_연대 "wikilink") 복무했으며, 유색인 최초로 [미국 의회 명예 훈장을](../Page/명예_훈장.md "wikilink") 수여받았다.

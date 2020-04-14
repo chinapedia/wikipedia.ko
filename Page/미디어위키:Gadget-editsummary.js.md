@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Gadget-editsummary.js](https://ko.wikipedia.org/wiki/:Gadget-editsummary.js).
+> This article is converted from Wikipedia: [미디어위키:Gadget-editsummary.js](https://ko.wikipedia.org/wiki/미디어위키:Gadget-editsummary.js).
 
 
 /\*\*\*

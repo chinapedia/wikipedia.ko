@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TTD](https://ko.wikipedia.org/wiki/TTD).
+> This article is converted from Wikipedia: [오픈TTD](https://ko.wikipedia.org/wiki/오픈TTD).
 
 
 **오픈 TTD**(OpenTTD) 또는 **오픈 트랜스포트 타이쿤 디럭스**는 [크리스 소여가](../Page/크리스_소여.md "wikilink") 개발한 [트랜스포트 타이쿤을](../Page/트랜스포트_타이쿤.md "wikilink") 분석하여 [오픈 소스로](../Page/오픈_소스.md "wikilink") 새로 만든 경영 시뮬레이션 게임이다. 원래 트랜스포트 타이쿤은 비공개 소스였지만, 트랜스포트 타이쿤을 디스어셈블러의 도움을 받아 [C로](../Page/C_\(프로그래밍_언어\).md "wikilink") 변환하였다. 변환한 OpenTTD는 [GPL](https://ko.wikipedia.org/wiki/GPL "wikilink")을 라이선스로 채택하고 있다. 0.6 버전은 C++를 최초로 사용한 버전이다.

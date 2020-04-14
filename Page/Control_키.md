@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Control ](https://ko.wikipedia.org/wiki/Control_).
+> This article is converted from Wikipedia: [Control 키](https://ko.wikipedia.org/wiki/Control_키).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Ctl_wndws_alt.jpg "wikilink") **Ctrl 키**는 [컴퓨터 자판에서](../Page/컴퓨터_자판.md "wikilink") 다른 키와 조합하여 누르는 [수정 키이며](https://ko.wikipedia.org/wiki/수정_키 "wikilink") 특수한 기능을 수행하는 [글쇠](https://ko.wikipedia.org/wiki/글쇠 "wikilink")이다. (이를테면 [Ctrl-Alt-Del](https://ko.wikipedia.org/wiki/Ctrl-Alt-Del "wikilink")) [Shift 키와](https://ko.wikipedia.org/wiki/Shift_키 "wikilink") 비슷하게 Ctrl 키만 가지고 스스로 특정한 기능을 수행하는 일은 드물다. Ctrl 키는 대부분 키보드의 왼쪽 아래 가까이에 위치해 있다. *Ctrl*이라는 이름뿐 아니라 *Control*, *Ctl*이라는 낱말도 사용하며, 위쪽 방향(U+2303, ⌃)의 그림이나 [탈자 기호](https://ko.wikipedia.org/wiki/캐럿_\(기호\) "wikilink")(^)를 사용한다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  FC](https://ko.wikipedia.org/wiki/__FC).
+> This article is converted from Wikipedia: [버밍엄 시티 FC](https://ko.wikipedia.org/wiki/버밍엄_시티_FC).
 
 
 **버밍엄 시티 FC**(Birmingham City Football Club)는 [잉글랜드](../Page/잉글랜드.md "wikilink") [버밍엄](../Page/버밍엄.md "wikilink")을 연고로 하는 [축구](../Page/축구.md "wikilink") 클럽이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Longing \~ melody\~](https://ko.wikipedia.org/wiki/Longing_\~_melody\~).
+> This article is converted from Wikipedia: [Longing \~중단된 melody\~](https://ko.wikipedia.org/wiki/Longing_\~중단된_melody\~).
 
 
 《**Longing 〜중단된 melody〜**》()는 [엑스 재팬의](https://ko.wikipedia.org/wiki/엑스_재팬 "wikilink") 11번째 싱글이다.

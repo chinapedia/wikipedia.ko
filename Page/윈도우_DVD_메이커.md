@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ DVD ](https://ko.wikipedia.org/wiki/_DVD_).
+> This article is converted from Wikipedia: [윈도우 DVD 메이커](https://ko.wikipedia.org/wiki/윈도우_DVD_메이커).
 
 
 **윈도우 DVD 메이커**(Windows DVD Maker)는 [윈도우 비스타](../Page/윈도우_비스타.md "wikilink") 상위 에디션, 곧 홈 프리미엄과 얼티밋 에디션에, 또 [윈도우 7의](https://ko.wikipedia.org/wiki/윈도우_7 "wikilink") 홈 프리미엄 이상의 에디션에 포함되어 있는 응용 프로그램이며, [윈도우에서](../Page/마이크로소프트_윈도우.md "wikilink") DVD 재생 소프트웨어나 독립형 DVD 플레이어를 사용하여 재생할 수 있는 [DVD](../Page/DVD.md "wikilink") 영상물을 제작하는 데 도움을 준다. 이 프로그램은 [윈도우 무비 메이커와](../Page/윈도우_무비_메이커.md "wikilink") 비유된다.

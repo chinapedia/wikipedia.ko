@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [UEFA  2008  B](https://ko.wikipedia.org/wiki/UEFA__2008__B).
+> This article is converted from Wikipedia: [UEFA 유로 2008 예선 B조](https://ko.wikipedia.org/wiki/UEFA_유로_2008_예선_B조).
 
 
 다음은 **[UEFA 유로 2008 예선](../Page/UEFA_유로_2008_예선.md "wikilink") B조**의 순위와 경기 결과이다.

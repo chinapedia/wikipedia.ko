@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [NHK  ](https://ko.wikipedia.org/wiki/NHK__).
+> This article is converted from Wikipedia: [NHK 삿포로 방송국](https://ko.wikipedia.org/wiki/NHK_삿포로_방송국).
 
 
 **NHK 삿포로 방송국**(札幌 放送局)은 [이시카리 지청](../Page/이시카리_지청.md "wikilink"), [시리베시 지청](../Page/시리베시_지청.md "wikilink"), [소라치 지청](../Page/소라치_지청.md "wikilink") 중남부(아사히카와 방송국의 관할구역을 제외한 지역)을 방송구역으로 하는 NHK의 지역방송국이며 중파·FM라디오·텔레비전 방송을 담당하고 있다.

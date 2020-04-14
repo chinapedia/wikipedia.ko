@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [XOR  ](https://ko.wikipedia.org/wiki/XOR__).
+> This article is converted from Wikipedia: [XOR 교체 알고리즘](https://ko.wikipedia.org/wiki/XOR_교체_알고리즘).
 
 
 **XOR 교체 알고리즘**은 임시 [변수](https://ko.wikipedia.org/wiki/변수 "wikilink")를 두지 않고, 두 개의 변수를 [배타적 논리합](../Page/배타적_논리합.md "wikilink")(XOR) [비트 연산을](https://ko.wikipedia.org/wiki/비트_연산 "wikilink") 이용하여 [교체하는](../Page/교체_연산.md "wikilink") 알고리즘이다. 이 알고리즘은 [컴퓨터 프로그래밍](../Page/컴퓨터_프로그래밍.md "wikilink") 분야에서 [프로세서의](../Page/중앙_처리_장치.md "wikilink") 최적화 능력이 부족했을 때 대안으로 자주 사용되었다.

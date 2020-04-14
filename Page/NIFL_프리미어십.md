@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [NIFL ](https://ko.wikipedia.org/wiki/NIFL_).
+> This article is converted from Wikipedia: [NIFL 프리미어십](https://ko.wikipedia.org/wiki/NIFL_프리미어십).
 
 
 **NIFL 프리미어십**(Northern Ireland Football League Premiership)은 이전의 [북아일랜드](../Page/북아일랜드.md "wikilink")의 최상위 [축구](../Page/축구.md "wikilink") 리그이다. 간단히 **아일랜드 풋볼 리그**(Irish Football League)라고 불리기도 한다. 이 명칭은 [아일랜드](../Page/아일랜드.md "wikilink")의 [리그 오브 아일랜드와](https://ko.wikipedia.org/wiki/리그_오브_아일랜드 "wikilink") 착각의 여지가 생길 수 있는데, 북아일랜드의 축구 리그가 전통적으로 아일랜드 리그로 인식되어 왔다. 현재의 아일랜드 리그는 [1921년](../Page/1921년.md "wikilink")에 북아일랜드리그에서 갈라져 생겨났기 때문이다.

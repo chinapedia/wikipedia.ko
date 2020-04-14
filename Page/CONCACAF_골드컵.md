@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [CONCACAF ](https://ko.wikipedia.org/wiki/CONCACAF_).
+> This article is converted from Wikipedia: [CONCACAF 골드컵](https://ko.wikipedia.org/wiki/CONCACAF_골드컵).
 
 
 **CONCACAF 골드컵**(CONCACAF Gold Cup)은 [북중미카리브 축구 연맹](../Page/북중미카리브_축구_연맹.md "wikilink")(CONCACAF)이 주관하는 국가 대항 [축구](../Page/축구.md "wikilink") 대회이다. [1963년](../Page/1963년.md "wikilink")부터 [1989년](../Page/1989년.md "wikilink")까지 열린 [CONCACAF 선수권 대회를](../Page/CONCACAF_선수권_대회.md "wikilink") 계승한 대회로서 홀수 해마다 열린다.

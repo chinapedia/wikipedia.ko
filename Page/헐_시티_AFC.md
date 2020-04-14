@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  AFC](https://ko.wikipedia.org/wiki/__AFC).
+> This article is converted from Wikipedia: [헐 시티 AFC](https://ko.wikipedia.org/wiki/헐_시티_AFC).
 
 
 **헐 시티 AFC**(Hull City AFC)는 [잉글랜드](../Page/잉글랜드.md "wikilink")의 축구 클럽으로, [요크셔 주의](https://ko.wikipedia.org/wiki/요크셔_주 "wikilink") 이스트 라이딩에 있는 [킹스턴어폰헐](../Page/킹스턴어폰헐.md "wikilink")을 연고로 한다. 헐 시티는 [1904년](../Page/1904년.md "wikilink")에 창단되었으며 팀의 닉네임은 *The Tiger*이다.

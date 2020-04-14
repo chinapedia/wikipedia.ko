@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [US ](https://ko.wikipedia.org/wiki/US_).
+> This article is converted from Wikipedia: [US 에어웨이스](https://ko.wikipedia.org/wiki/US_에어웨이스).
 
 
 **US 에어웨이스**()는 [미국](../Page/미국.md "wikilink")의 항공사로, 현재는 [아메리칸 항공과](../Page/아메리칸_항공.md "wikilink") 통합됐다. 본사는 [미국](../Page/미국.md "wikilink") [애리조나주](../Page/애리조나주.md "wikilink") [템피](https://ko.wikipedia.org/wiki/템피 "wikilink")에 있다. 계열사로 [피드몬트 항공](https://ko.wikipedia.org/wiki/피드몬트_항공 "wikilink"), [사우스 웨스트 항공이](https://ko.wikipedia.org/wiki/사우스_웨스트_항공 "wikilink") 있으며 이 외에도 10개의 지역 항공사가 있다.

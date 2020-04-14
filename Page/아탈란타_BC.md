@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ BC](https://ko.wikipedia.org/wiki/_BC).
+> This article is converted from Wikipedia: [아탈란타 BC](https://ko.wikipedia.org/wiki/아탈란타_BC).
 
 
 **아탈란타 베르가마스카 칼초**(Atalanta Bergamasca Calcio S.p.A.), 일반적으로 **아탈란타**, **아탈란타 베르가모**, 축약형으로는 **아탈란타 BC**는 롬바르디아주 [베르가모](../Page/베르가모.md "wikilink")에 위치한 [이탈리아](../Page/이탈리아.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다.

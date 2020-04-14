@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Egg \( \)](https://ko.wikipedia.org/wiki/Egg_\(_\)).
+> This article is converted from Wikipedia: [Egg \(이승환의 음반\)](https://ko.wikipedia.org/wiki/Egg_\(이승환의_음반\)).
 
 
 《**Egg**》는 [대한민국](../Page/대한민국.md "wikilink")의 싱어송라이터 [이승환의](../Page/이승환_\(가수\).md "wikilink") 7번째 정규 [앨범이다](../Page/음반.md "wikilink").

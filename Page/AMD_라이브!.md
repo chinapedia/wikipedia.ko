@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [AMD !](https://ko.wikipedia.org/wiki/AMD_!).
+> This article is converted from Wikipedia: [AMD 라이브!](https://ko.wikipedia.org/wiki/AMD_라이브!).
 
 
 **AMD 라이브\!**(AMD Live\!)는 [2005년](../Page/2005년.md "wikilink")에 [AMD](https://ko.wikipedia.org/wiki/AMD "wikilink")사가 발행한 이름으로 자사 하드웨어 제품을 사용하는 전문 음악가와 다른 미디어 생산자들의 지원을 모으는 데 주력한다. 주로 [옵테론](../Page/옵테론.md "wikilink") [서버](../Page/서버.md "wikilink")와 [워크스테이션](../Page/워크스테이션.md "wikilink") 계열의 [중앙 처리 장치에](../Page/중앙_처리_장치.md "wikilink") 초점을 맞추고 있다.

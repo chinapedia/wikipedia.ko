@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
+> This article is converted from Wikipedia: [마르사실로크 FC](https://ko.wikipedia.org/wiki/마르사실로크_FC).
 
 
 **마르사실로크 FC**(Marsaxlokk Football Club)는 [몰타](../Page/몰타.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽으로, [마르사실로크](https://ko.wikipedia.org/wiki/마르사실로크 "wikilink")에 연고를 두고 있다.

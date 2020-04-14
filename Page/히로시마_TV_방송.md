@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ TV ](https://ko.wikipedia.org/wiki/_TV_).
+> This article is converted from Wikipedia: [히로시마 TV 방송](https://ko.wikipedia.org/wiki/히로시마_TV_방송).
 
 
 **히로시마 TV 방송**은 [1962년](../Page/1962년.md "wikilink") [9월 1일](../Page/9월_1일.md "wikilink") [히로시마현](../Page/히로시마현.md "wikilink")의 2번째 [일본](../Page/일본.md "wikilink") 민영방송국으로 개국했으며, 약칭은 HTV, 콜사인은 JONX-DTV이다.

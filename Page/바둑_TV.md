@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ TV](https://ko.wikipedia.org/wiki/_TV).
+> This article is converted from Wikipedia: [바둑 TV](https://ko.wikipedia.org/wiki/바둑_TV).
 
 
 **바둑 TV** (Baduk TV)는 재단법인 [한국기원](../Page/한국기원.md "wikilink")이 운영하고 있는 바둑전문 채널이다. [1994년](../Page/1994년.md "wikilink") [2월 1일](../Page/2월_1일.md "wikilink") 설립, [1999년](../Page/1999년.md "wikilink") [8월](../Page/8월.md "wikilink") (구) [온미디어](../Page/온미디어.md "wikilink")에 인수되었고 [2011년](../Page/2011년.md "wikilink") [3월](../Page/3월.md "wikilink")에 (구) [CJ E\&M에](../Page/CJ_E&M.md "wikilink") 인수되었다가 [한국기원](../Page/한국기원.md "wikilink")이 (구) [CJ E\&M 방송사업부문으로](https://ko.wikipedia.org/wiki/CJ_E&M_방송사업부문 "wikilink") 부터 채널을 인수하며 [2016년](../Page/2016년.md "wikilink") [1월 1일부터](../Page/1월_1일.md "wikilink") 한국기원 산하의 바둑 전문 채널로 운영하게 되었다.

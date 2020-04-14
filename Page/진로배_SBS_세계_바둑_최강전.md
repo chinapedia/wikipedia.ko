@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ SBS   ](https://ko.wikipedia.org/wiki/_SBS___).
+> This article is converted from Wikipedia: [진로배 SBS 세계 바둑 최강전](https://ko.wikipedia.org/wiki/진로배_SBS_세계_바둑_최강전).
 
 
 **진로배 SBS 세계 바둑 최강전**은 1992년\~1997년 [대한민국](../Page/대한민국.md "wikilink")에서 열린 국제 [바둑 기전이다](../Page/바둑_기전.md "wikilink"). 1991년 [SBS의](../Page/SBS_\(대한민국의_방송사\).md "wikilink") 개국을 기념하여 이벤트 기전으로 열린 **SBS배 세계 바둑 최강전**의 후속 기전으로, 주식회사 [진로](https://ko.wikipedia.org/wiki/진로 "wikilink")의 후원을 받아 1992년에 창설되었다. 1997년 12월의 [외환 위기로](https://ko.wikipedia.org/wiki/외환_위기 "wikilink") 인한 후원사의 부도로 1997년 2월 제5회 대회를 끝으로 중지되었다.
@@ -87,5 +87,3 @@
   - [농심 신라면배 세계바둑 최강전](../Page/농심_신라면배_세계바둑_최강전.md "wikilink")
 
 [분류:1992년 설립](https://ko.wikipedia.org/wiki/분류:1992년_설립 "wikilink") [분류:1997년 폐지](https://ko.wikipedia.org/wiki/분류:1997년_폐지 "wikilink") [분류:바둑 국제 기전](https://ko.wikipedia.org/wiki/분류:바둑_국제_기전 "wikilink") [진로배_SBS_세계바둑최강전](https://ko.wikipedia.org/wiki/분류:진로배_SBS_세계바둑최강전 "wikilink") [분류:중단된 기전](https://ko.wikipedia.org/wiki/분류:중단된_기전 "wikilink")
-
-[zh:SBS杯和真露杯三國圍棋擂臺賽](https://ko.wikipedia.org/wiki/zh:SBS杯和真露杯三國圍棋擂臺賽 "wikilink")

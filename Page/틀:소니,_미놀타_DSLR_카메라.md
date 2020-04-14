@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:,  DSLR ](https://ko.wikipedia.org/wiki/:,__DSLR_).
+> This article is converted from Wikipedia: [틀:소니, 미놀타 DSLR 카메라](https://ko.wikipedia.org/wiki/틀:소니,_미놀타_DSLR_카메라).
 
 
 <onlyinclude>{| class="toccolours" style="margin: 0.5em auto; clear: both;" width=75% |- align="center" | **[소니 α(알파)](../Page/소니.md "wikilink"), [미놀타 Dynax](https://ko.wikipedia.org/wiki/미놀타 "wikilink") [디지털 SLR](../Page/디지털_일안_반사식_카메라.md "wikilink") 발매 연보**

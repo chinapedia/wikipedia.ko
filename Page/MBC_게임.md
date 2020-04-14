@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [MBC ](https://ko.wikipedia.org/wiki/MBC_).
+> This article is converted from Wikipedia: [MBC 게임](https://ko.wikipedia.org/wiki/MBC_게임).
 
 
 **MBC 게임**(MBC Game)은 [대한민국](../Page/대한민국.md "wikilink")의 [게임](../Page/게임.md "wikilink") 전문, 텔레비전 방송 채널로서 [MBC 플러스 미디어가](https://ko.wikipedia.org/wiki/엠비씨플러스 "wikilink") 운영하는 케이블 TV 네트워크였다. [MBC 뮤직의](../Page/MBC_뮤직.md "wikilink") 전신에 해당된다.

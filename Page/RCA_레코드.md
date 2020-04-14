@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [RCA ](https://ko.wikipedia.org/wiki/RCA_).
+> This article is converted from Wikipedia: [RCA 레코드](https://ko.wikipedia.org/wiki/RCA_레코드).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:RCA_Records_\(logo\).svg "wikilink") **RCA 레코드**(RCA Records)는 [소니 뮤직](https://ko.wikipedia.org/wiki/소니_뮤직 "wikilink") 산하의 미국 음반사이다. [컬럼비아 레코드](../Page/컬럼비아_레코드.md "wikilink"), [에픽 레코드와](../Page/에픽_레코드.md "wikilink") 아울러 [소니 뮤직 엔터테인먼트의](../Page/소니_뮤직_엔터테인먼트.md "wikilink") 주력 음반사이다. 팝, 록, 힙합, 일렉트로닉, R\&B, 블루스, 재즈, 컨트리 장르의 음악을 발매한다. 사명은 현재 사라진 모회사 [라디오 코퍼레이션 오브 아메리카의](https://ko.wikipedia.org/wiki/라디오_코퍼레이션_오브_아메리카 "wikilink") 약자이다.\[1\] 컬럼비아 레코드 레이블 다음가는 미국사에서 두 번째로 유구한 음반사다. RCA의 캐나다 지부는 소니의 캐나다 국내에서 소니의 가장 오래된 회사로서, [대공황](../Page/대공황.md "wikilink")을 거치면서도 존속한 캐나다 음반사 중 하나다.\[2\]

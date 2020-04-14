@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TV ](https://ko.wikipedia.org/wiki/TV_).
+> This article is converted from Wikipedia: [TV 신히로시마](https://ko.wikipedia.org/wiki/TV_신히로시마).
 
 
 **TV 신히로시마**는 [1975년](../Page/1975년.md "wikilink") [10월 1일](../Page/10월_1일.md "wikilink") 히로시마현의 4번째 민영방송국으로 개국했다.

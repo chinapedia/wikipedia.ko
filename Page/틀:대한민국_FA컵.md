@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [: FA](https://ko.wikipedia.org/wiki/:_FA).
+> This article is converted from Wikipedia: [틀:대한민국 FA컵](https://ko.wikipedia.org/wiki/틀:대한민국_FA컵).
 
 
 <onlyinclude></onlyinclude>

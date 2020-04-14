@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [BSC  ](https://ko.wikipedia.org/wiki/BSC__).
+> This article is converted from Wikipedia: [BSC 영 보이스](https://ko.wikipedia.org/wiki/BSC_영_보이스).
 
 
 **BSC 영 보이스**(BSC Young Boys)는 [스위스](https://ko.wikipedia.org/wiki/스위스 "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽으로 [1898년](../Page/1898년.md "wikilink")에 창단되어 수도인 [베른](../Page/베른.md "wikilink")을 연고지로 삼고 있는 클럽이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [MC ](https://ko.wikipedia.org/wiki/MC_).
+> This article is converted from Wikipedia: [MC 한새](https://ko.wikipedia.org/wiki/MC_한새).
 
 
 **MC 한새**(**MC haNsAi**, , [1976년](../Page/1976년.md "wikilink") [11월 25일](../Page/11월_25일.md "wikilink") \~ )는 [대한민국](../Page/대한민국.md "wikilink")의 [힙합](../Page/힙합.md "wikilink") 래퍼이다. 크루 겸 레이블 [BCR의](../Page/BCR_\(레이블\).md "wikilink") 리더로 잘 알려져 있으며, 자신의 앨범 외에 BCR 소속 가수들의 다수의 앨범을 프로듀싱했다.

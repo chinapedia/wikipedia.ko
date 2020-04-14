@@ -15,4 +15,4 @@
   - [VH1 라틴 아메리카](http://www.vh1la.com/)
   - [VHUno US 라틴 채널](http://www.vhuno.com/)
 
-[분류:바이어컴 미디어 네트웍스](https://ko.wikipedia.org/wiki/분류:바이어컴_미디어_네트웍스 "wikilink") [분류:음악 텔레비전 네트워크](https://ko.wikipedia.org/wiki/분류:음악_텔레비전_네트워크 "wikilink") [분류:미국의 텔레비전 네트워크](https://ko.wikipedia.org/wiki/분류:미국의_텔레비전_네트워크 "wikilink") [분류:1985년 설립된 텔레비전 방송국과 채널](https://ko.wikipedia.org/wiki/분류:1985년_설립된_텔레비전_방송국과_채널 "wikilink")
+[분류:바이어컴CBS 도메스틱 미디어 네트웍스](https://ko.wikipedia.org/wiki/분류:바이어컴CBS_도메스틱_미디어_네트웍스 "wikilink") [분류:음악 텔레비전 네트워크](https://ko.wikipedia.org/wiki/분류:음악_텔레비전_네트워크 "wikilink") [분류:미국의 텔레비전 네트워크](https://ko.wikipedia.org/wiki/분류:미국의_텔레비전_네트워크 "wikilink") [분류:1985년 설립된 텔레비전 방송국과 채널](https://ko.wikipedia.org/wiki/분류:1985년_설립된_텔레비전_방송국과_채널 "wikilink")

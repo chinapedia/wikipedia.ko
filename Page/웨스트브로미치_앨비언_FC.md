@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  FC](https://ko.wikipedia.org/wiki/__FC).
+> This article is converted from Wikipedia: [웨스트브로미치 앨비언 FC](https://ko.wikipedia.org/wiki/웨스트브로미치_앨비언_FC).
 
 
 **웨스트브로미치 앨비언 축구 클럽**(West Bromwich Albion Football Club 또는 West Brom, The Baggies, Albion, The Albion, The Throstles or W.B.A.)은 [잉글랜드](../Page/잉글랜드.md "wikilink")의 축구 클럽으로, [웨스트브로미치](../Page/웨스트브로미치.md "wikilink")를 연고로 한다.

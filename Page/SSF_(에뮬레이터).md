@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SSF \(\)](https://ko.wikipedia.org/wiki/SSF_\(\)).
+> This article is converted from Wikipedia: [SSF \(에뮬레이터\)](https://ko.wikipedia.org/wiki/SSF_\(에뮬레이터\)).
 
 
 **SSF**는 [DirectX](../Page/DirectX.md "wikilink") 9.0c를 사용하는 [윈도용](https://ko.wikipedia.org/wiki/마이크로소프트_윈도 "wikilink") [세가 새턴](../Page/세가_새턴.md "wikilink") [에뮬레이터](../Page/에뮬레이터.md "wikilink")이다. 이 프로그램의 최신 버전은 세가 새턴 하드웨어를 거의 완벽히 구현했다고 알려져 있으며 새턴 기반의 [세가 타이탄 비디오](../Page/ST-V.md "wikilink") 업소용 게임기 또한 에뮬레이션할 수 있다. 대부분의 에뮬레이터처럼 게임 CD나 [디스크 이미지는](../Page/디스크_이미지.md "wikilink") 포함되어 있지 않으며, 별도로 보유하고 있어야 한다. [바이오스](../Page/바이오스.md "wikilink")도 포함되어 있지 않다. 그러나 0.07 Beta R3 버전부터는 바이오스 없이도 게임을 구동할 수 있다. 바이오스 파일의 사용은 선택 사항이지만 호환성을 높여주기 때문에 사용을 권장하며, 세가 새턴의 내장 메모리의 내용 관리나 시스템 시간 설정 같은 작업을 위해서 필요하다.

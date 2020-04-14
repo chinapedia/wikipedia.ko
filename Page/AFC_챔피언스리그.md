@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [AFC ](https://ko.wikipedia.org/wiki/AFC_).
+> This article is converted from Wikipedia: [AFC 챔피언스리그](https://ko.wikipedia.org/wiki/AFC_챔피언스리그).
 
 
 **AFC 챔피언스리그**(AFC Champions League)는 아시아 축구 연맹이 주관하는, 아시아에서 가장 우수한 축구 클럽들을 대상으로 매년 열리는 클럽 축구 대회이다.
@@ -19,21 +19,17 @@
 
 ### 1985-86\~2001-02
 
-1985년, 아시안 챔피언 클럽 토너먼트가 **아시안 클럽 챔피언십**(아시안 클럽 선수권대회)으로 부활하였다. 각국 국내 리그 우승 클럽이 참가하였다. 이후 AFC는 많은 시도를 한다. 처음으로 결승을 4팀이서 로빈라운드형식으로 치뤄 보기도 하고, 홈 앤 어웨이로도 치뤄본다. 하지만 두 번 다 다음해에 다시 단판전으로 회귀한다. 또한 [이스라엘](../Page/이스라엘.md "wikilink")은 [아시아 축구 연맹에서](../Page/아시아_축구_연맹.md "wikilink") 제명되어 이 때부터 [이스라엘 프리미어리그](https://ko.wikipedia.org/wiki/이스라엘_프리미어리그 "wikilink") 팀들이 불참하게 되었다.\[6\] 얼마뒤, 각국 [FA컵](../Page/FA컵.md "wikilink") 우승 클럽은 아시안 컵 위너스컵에 참가한다. AFC는 이 두 대회의 우승 클럽을 아시안 슈퍼컵에서 대결하게 하였다.
+1985년, 아시안 챔피언 클럽 토너먼트가 **아시안 클럽 챔피언십**으로 부활하였다. 각국 국내 리그 우승 클럽이 참가하였다. 이후 AFC는 많은 시도를 한다. 처음으로 결승을 4팀이서 로빈라운드형식으로 치뤄 보기도 하고, 홈 앤 어웨이로도 치뤄본다. 하지만 두 번 다 다음해에 다시 단판전으로 회귀한다. 또한 [이스라엘](../Page/이스라엘.md "wikilink")은 [아시아 축구 연맹에서](../Page/아시아_축구_연맹.md "wikilink") 제명되어 이 때부터 [이스라엘 프리미어리그](https://ko.wikipedia.org/wiki/이스라엘_프리미어리그 "wikilink") 팀들이 불참하게 되었다.\[6\] 얼마뒤, 각국 [FA컵](../Page/FA컵.md "wikilink") 우승 클럽은 아시안 컵 위너스컵에 참가한다. AFC는 이 두 대회의 우승 클럽을 아시안 슈퍼컵에서 대결하게 하였다.
 
 ### 2002-03\~2008
 
-아시안 슈퍼컵이 생긴지 10년도 안 돼서 아시안 클럽 챔피언십과 아시안 컵 위너스컵 대회가 **AFC 챔피언스리그**로 통합되었다. 자연스레 아시안 슈퍼컵도 폐지된다. 이후 [오스트레일리아](../Page/오스트레일리아.md "wikilink")가 [아시아 축구 연맹에](../Page/아시아_축구_연맹.md "wikilink") 새로 가입함에 따라 [오스트레일리아 A-리그의](https://ko.wikipedia.org/wiki/오스트레일리아_A-리그 "wikilink") 클럽들이 AFC 챔피언스리그에 참여하기 시작하였다.
+아시안 클럽 챔피언십과 아시안 컵 위너스컵 대회가 **AFC 챔피언스리그**로 통합되었다. 이후 [오스트레일리아](../Page/오스트레일리아.md "wikilink")가 [아시아 축구 연맹에](../Page/아시아_축구_연맹.md "wikilink") 새로 가입함에 따라 [오스트레일리아 A-리그의](https://ko.wikipedia.org/wiki/오스트레일리아_A-리그 "wikilink") 클럽들이 AFC 챔피언스리그에 참여하기 시작하였다.
 
 ### 2009\~현재
 
 2009년 AFC는 대회를 확대 개편하여 조별리그 참가팀 수가 28개팀에서 32개팀으로 확대되었고 디펜딩 챔피언에 대한 자동 출전권이 폐지되었다. 상금 규모 또한 기존보다 더 커졌다. 2015년 AFC는 문호를 개방하기 위해 플레이오프를 확대하면서 더 많은 국가의 클럽들이 AFC 챔피언스리그에 참가하게 되었다.
 
 ## 대회 규정
-
-#### 2005년부터
-
-AFC 챔피언스리그에서 우승한 클럽은 [FIFA 클럽 월드컵에](../Page/FIFA_클럽_월드컵.md "wikilink") 참가하게 되었다.
 
 #### 2008년까지
 
@@ -51,11 +47,11 @@ AFC 챔피언스리그에서 우승한 클럽은 [FIFA 클럽 월드컵에](../P
 
 #### 2014년부터
 
-AFC는 2014년부터 챔피언스리그 참가국을 19개국으로 확대하는 동시에 조별 예선 이전에 치러지는 플레이오프를 확대 개편하였다.\[9\] 2013년까지는 참가하지 않았던 [베트남](../Page/베트남.md "wikilink"), [인도](../Page/인도.md "wikilink"), [요르단](../Page/요르단.md "wikilink"), [쿠웨이트](../Page/쿠웨이트.md "wikilink"), [오만](../Page/오만.md "wikilink"), [바레인](../Page/바레인.md "wikilink"), [싱가포르](../Page/싱가포르.md "wikilink"), [홍콩](../Page/홍콩.md "wikilink"), [이라크](../Page/이라크.md "wikilink")가 참가하게 되었으며 3라운드에 걸친 플레이오프를 통해 조별 예선 서아시아 지역과 동아시아 지역에 각각 2팀이 올라오게 된다. 한편 대회 방식에도 변화가 이루어졌는데, 16강까지만 서아시아와 동아시아로 나누어 진행되던 기존 대회 방식을 4강전까지 서아시아와 동아시아를 나누어 진행하고 결승전에서 서아시아 1팀과 동아시아 1팀이 격돌하는 방식으로 개편하였다.\[10\]
+AFC는 2014년부터 챔피언스리그 참가국을 19개국으로 확대하는 동시에 조별리그 이전에 치러지는 예선을 확대 개편하였다.\[9\] 3라운드에 걸친 예선을 통해 조별리그 서아시아 지역과 동아시아 지역에 각각 2팀이 올라오게 된다. 한편 대회 방식에도 변화가 이루어졌는데, 16강까지만 서아시아와 동아시아로 나누어 진행되던 기존 대회 방식을 4강전까지 서아시아와 동아시아를 나누어 진행하고 결승전에서 서아시아 1팀과 동아시아 1팀이 격돌하는 방식으로 개편하였다.\[10\]
 
 #### 2015년부터
 
-2015년 ACL 국가별 본선 최대 직행 팀 수가 4개 팀에서 3.5개 팀으로 줄어들고, 이에따라 AFC 평가 순위 동·서아시아 각 상위 2개 국가엔 세 장의 본선 직행 티켓과 함께 한 장의 플레이오프 진출권이 부여된다.\[11\]
+2015년 ACL 국가별 본선 최대 직행 팀 수가 4개 팀에서 3.5개 팀으로 줄어들고, 이에 따라 AFC 평가 순위 동·서아시아 각 상위 2개 국가엔 세 장의 본선 직행 티켓과 함께 한 장의 플레이오프 진출권이 부여된다.\[11\]
 
 #### 2017년부터
 
@@ -216,7 +212,7 @@ AFC는 2014년부터 챔피언스리그 참가국을 19개국으로 확대하는
 <td><p><small></small> <a href="../Page/알사드_SC.md" title="wikilink">알사드 SC</a></p></td>
 <td><p><strong>2 - 3<br />
 1 - 0</strong></p></td>
-<td><p><small></small> <a href="https://ko.wikipedia.org/wiki/알카르크흐_SC" title="wikilink">알라시드 클럽</a></p></td>
+<td><p><small></small> <a href="../Page/알카르흐_SC.md" title="wikilink">알라시드 클럽</a></p></td>
 <td><p><small> <a href="../Page/바그다드.md" title="wikilink">바그다드</a> </br>  <a href="../Page/도하.md" title="wikilink">도하</a>, 셰이크 알사니 경기장</small></p></td>
 </tr>
 <tr class="odd">
@@ -491,272 +487,227 @@ AFC는 2014년부터 챔피언스리그 참가국을 19개국으로 확대하는
 <thead>
 <tr class="header">
 <th><p>구단</p></th>
-<th><p>국가</p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/파일:Gold_medal_blank.svg" title="wikilink">10픽셀</a> 우승</p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/파일:Silver_medal_blank.svg" title="wikilink">10픽셀</a> 준우승</p></th>
+<th><p>우승</p></th>
+<th><p>준우승</p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="../Page/알힐랄_FC.md" title="wikilink">알힐랄 FC</a></p></td>
-<td></td>
+<td><p><a href="../Page/알힐랄_FC.md" title="wikilink">알힐랄</a></p></td>
 <td><p>3회 (<a href="../Page/1991년_아시안_클럽_챔피언십.md" title="wikilink">1991</a>, <a href="../Page/1999-2000년_아시안_클럽_챔피언십.md" title="wikilink">1999-2000</a>, <a href="https://ko.wikipedia.org/wiki/2019년_AFC_챔피언스리그" title="wikilink">2019</a>)</p></td>
 <td><p>4회 (<a href="../Page/1986년_아시안_클럽_챔피언십.md" title="wikilink">1986</a>, <a href="../Page/1987년_아시안_클럽_챔피언십.md" title="wikilink">1987</a>, <a href="https://ko.wikipedia.org/wiki/2014년_AFC_챔피언스리그" title="wikilink">2014</a>, <a href="https://ko.wikipedia.org/wiki/2017년_AFC_챔피언스리그" title="wikilink">2017</a>)</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/포항_스틸러스.md" title="wikilink">포항 스틸러스</a></p></td>
-<td></td>
 <td><p>3회 (<a href="../Page/1996-97년_아시안_클럽_챔피언십.md" title="wikilink">1996-97</a>, <a href="../Page/1997-98년_아시안_클럽_챔피언십.md" title="wikilink">1997-98</a>, <a href="../Page/2009년_AFC_챔피언스리그.md" title="wikilink">2009</a>)</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/에스테글랄_테헤란_FC" title="wikilink">에스테글랄 테헤란</a></p></td>
-<td></td>
+<td><p><a href="../Page/에스테글랄_FC.md" title="wikilink">에스테글랄</a></p></td>
 <td><p>2회 (<a href="../Page/1970년_아시안_챔피언_클럽_토너먼트.md" title="wikilink">1970</a>, <a href="../Page/1990-91년_아시안_클럽_챔피언십.md" title="wikilink">1990-91</a>)</p></td>
 <td><p>2회 (<a href="../Page/1991년_아시안_클럽_챔피언십.md" title="wikilink">1991</a>, <a href="../Page/1998-99년_아시안_클럽_챔피언십.md" title="wikilink">1998-99</a>)</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/성남_FC" title="wikilink">성남 FC</a></p></td>
-<td></td>
 <td><p>2회 (<a href="../Page/1995년_아시안_클럽_챔피언십.md" title="wikilink">1995</a>, <a href="../Page/2010년_AFC_챔피언스리그.md" title="wikilink">2010</a>)</p></td>
 <td><p>2회 (<a href="../Page/1996-97년_아시안_클럽_챔피언십.md" title="wikilink">1996-97</a>, <a href="../Page/2004년_AFC_챔피언스리그.md" title="wikilink">2004</a>)</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/알이티하드_(지다)" title="wikilink">알이티하드 클럽</a></p></td>
-<td></td>
+<td><p><a href="../Page/알이티하드_클럽.md" title="wikilink">알이티하드</a></p></td>
 <td><p>2회 (<a href="../Page/2004년_AFC_챔피언스리그.md" title="wikilink">2004</a>, <a href="../Page/2005년_AFC_챔피언스리그.md" title="wikilink">2005</a>)</p></td>
 <td><p>1회 (<a href="../Page/2009년_AFC_챔피언스리그.md" title="wikilink">2009</a>)</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/전북_현대_모터스.md" title="wikilink">전북 현대 모터스</a></p></td>
-<td></td>
 <td><p>2회 (<a href="../Page/2006년_AFC_챔피언스리그.md" title="wikilink">2006</a>, <a href="https://ko.wikipedia.org/wiki/2016년_AFC_챔피언스리그" title="wikilink">2016</a>)</p></td>
 <td><p>1회 (<a href="https://ko.wikipedia.org/wiki/2011년_AFC_챔피언스리그" title="wikilink">2011</a>)</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/우라와_레드_다이아몬즈.md" title="wikilink">우라와 레드 다이아몬즈</a></p></td>
-<td></td>
 <td><p>2회 (<a href="../Page/2007년_AFC_챔피언스리그.md" title="wikilink">2007</a>, <a href="https://ko.wikipedia.org/wiki/2017년_AFC_챔피언스리그" title="wikilink">2017</a>)</p></td>
 <td><p>1회 (<a href="https://ko.wikipedia.org/wiki/2019년_AFC_챔피언스리그" title="wikilink">2019</a>)</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/마카비_텔아비브_FC.md" title="wikilink">마카비 텔아비브</a><sup><small>2</small></sup></p></td>
-<td></td>
 <td><p>2회 (<a href="https://ko.wikipedia.org/wiki/1969년_아시안_챔피언_클럽_토너먼트" title="wikilink">1969</a>, <a href="../Page/1971년_아시안_챔피언_클럽_토너먼트.md" title="wikilink">1971</a>)</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/태국_농민은행_FC.md" title="wikilink">태국 농민은행</a><sup><small>1</small></sup></p></td>
-<td></td>
 <td><p>2회 (<a href="../Page/1993-94년_아시안_클럽_챔피언십.md" title="wikilink">1993-94</a>, <a href="../Page/1994-95년_아시안_클럽_챔피언십.md" title="wikilink">1994-95</a>)</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/수원_삼성_블루윙즈.md" title="wikilink">수원 삼성 블루윙즈</a></p></td>
-<td></td>
 <td><p>2회 (<a href="../Page/2000-01년_아시안_클럽_챔피언십.md" title="wikilink">2000-01</a>, <a href="../Page/2001-02년_아시안_클럽_챔피언십.md" title="wikilink">2001-02</a>)</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/알사드_SC.md" title="wikilink">알사드 SC</a></p></td>
-<td></td>
+<td><p><a href="../Page/알사드_SC.md" title="wikilink">알사드</a></p></td>
 <td><p>2회 (<a href="../Page/1988-89년_아시안_클럽_챔피언십.md" title="wikilink">1988-89</a>, <a href="https://ko.wikipedia.org/wiki/2011년_AFC_챔피언스리그" title="wikilink">2011</a>)</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/광저우_헝다_타오바오.md" title="wikilink">광저우 헝다 타오바오</a></p></td>
-<td></td>
+<td><p><a href="../Page/광저우_헝다_타오바오.md" title="wikilink">광저우 헝다</a></p></td>
 <td><p>2회 (<a href="https://ko.wikipedia.org/wiki/2013년_AFC_챔피언스리그" title="wikilink">2013</a>, <a href="https://ko.wikipedia.org/wiki/2015년_AFC_챔피언스리그" title="wikilink">2015</a>)</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/주빌로_이와타.md" title="wikilink">주빌로 이와타</a></p></td>
-<td></td>
 <td><p>1회 (<a href="../Page/1998-99년_아시안_클럽_챔피언십.md" title="wikilink">1998-99</a>)</p></td>
 <td><p>2회 (<a href="../Page/1999-2000년_아시안_클럽_챔피언십.md" title="wikilink">1999-2000</a>, <a href="../Page/2000-01년_아시안_클럽_챔피언십.md" title="wikilink">2000-01</a>)</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/알아인_FC.md" title="wikilink">알아인 FC</a></p></td>
-<td></td>
+<td><p><a href="../Page/알아인_FC.md" title="wikilink">알아인</a></p></td>
 <td><p>1회 (<a href="../Page/2002-03년_AFC_챔피언스리그.md" title="wikilink">2002-03</a>)</p></td>
 <td><p>2회 (<a href="../Page/2005년_AFC_챔피언스리그.md" title="wikilink">2005</a>, <a href="https://ko.wikipedia.org/wiki/2016년_AFC_챔피언스리그" title="wikilink">2016</a>)</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/하포엘_텔아비브_FC.md" title="wikilink">하포엘 텔아비브</a><sup><small>2</small></sup></p></td>
-<td></td>
 <td><p>1회 (<a href="https://ko.wikipedia.org/wiki/1967년_아시안_챔피언_클럽_토너먼트" title="wikilink">1967</a>)</p></td>
 <td><p>1회 (<a href="../Page/1970년_아시안_챔피언_클럽_토너먼트.md" title="wikilink">1970</a>)</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/랴오닝_훙윈.md" title="wikilink">랴오닝 훙윈</a></p></td>
-<td></td>
 <td><p>1회 (<a href="../Page/1989-90년_아시안_클럽_챔피언십.md" title="wikilink">1989-90</a>)</p></td>
 <td><p>1회 (<a href="../Page/1990-91년_아시안_클럽_챔피언십.md" title="wikilink">1990-91</a>)</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/부산_아이파크.md" title="wikilink">부산 아이파크</a></p></td>
-<td></td>
 <td><p>1회 (<a href="../Page/1985-86년_아시안_클럽_챔피언십.md" title="wikilink">1985-86</a>)</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/제프_유나이티드_이치하라_지바.md" title="wikilink">제프 유나이티드 지바</a></p></td>
-<td></td>
 <td><p>1회 (<a href="../Page/1986년_아시안_클럽_챔피언십.md" title="wikilink">1986</a>)</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/도쿄_베르디_1969" title="wikilink">도쿄 베르디 1969</a></p></td>
-<td></td>
+<td><p><a href="../Page/도쿄_베르디.md" title="wikilink">도쿄 베르디</a></p></td>
 <td><p>1회 (<a href="../Page/1987년_아시안_클럽_챔피언십.md" title="wikilink">1987</a>)</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/파스_테헤란_FC.md" title="wikilink">파스 테헤란</a><sup><small>1</small></sup></p></td>
-<td></td>
 <td><p>1회 (<a href="../Page/1992-93년_아시안_클럽_챔피언십.md" title="wikilink">1992-93</a>)</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/감바_오사카.md" title="wikilink">감바 오사카</a></p></td>
-<td></td>
 <td><p>1회 (<a href="../Page/2008년_AFC_챔피언스리그.md" title="wikilink">2008</a>)</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/울산_현대" title="wikilink">울산 현대</a></p></td>
-<td></td>
+<td><p><a href="../Page/울산_현대_축구단.md" title="wikilink">울산 현대</a></p></td>
 <td><p>1회 (<a href="https://ko.wikipedia.org/wiki/2012년_AFC_챔피언스리그" title="wikilink">2012</a>)</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/웨스턴_시드니_원더러스_FC.md" title="wikilink">웨스턴 시드니 원더러스</a></p></td>
-<td></td>
 <td><p>1회 (<a href="https://ko.wikipedia.org/wiki/2014년_AFC_챔피언스리그" title="wikilink">2014</a>)</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/가시마_앤틀러스.md" title="wikilink">가시마 앤틀러스</a></p></td>
-<td></td>
 <td><p>1회 (<a href="https://ko.wikipedia.org/wiki/2018년_AFC_챔피언스리그" title="wikilink">2018</a>)</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/알아흘리_사우디_FC.md" title="wikilink">알아흘리</a></p></td>
 <td></td>
-<td></td>
 <td><p>2회 (<a href="../Page/1985-86년_아시안_클럽_챔피언십.md" title="wikilink">1985-86</a>, <a href="https://ko.wikipedia.org/wiki/2012년_AFC_챔피언스리그" title="wikilink">2012</a>)</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/FC_서울" title="wikilink">FC 서울</a></p></td>
 <td></td>
-<td></td>
 <td><p>2회 (<a href="../Page/2001-02년_아시안_클럽_챔피언십.md" title="wikilink">2001-02</a>, <a href="https://ko.wikipedia.org/wiki/2013년_AFC_챔피언스리그" title="wikilink">2013</a>)</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/슬랑오르_FA.md" title="wikilink">슬랑오르 FA</a></p></td>
-<td></td>
+<td><p><a href="../Page/슬랑오르_FA.md" title="wikilink">슬랑오르</a></p></td>
 <td></td>
 <td><p>1회 (<a href="https://ko.wikipedia.org/wiki/1967년_아시안_챔피언_클럽_토너먼트" title="wikilink">1967</a>)</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/양지_축구단.md" title="wikilink">양지 축구단</a><sup><small>1</small></sup></p></td>
-<td></td>
+<td><p><a href="../Page/양지_축구단.md" title="wikilink">양지</a><sup><small>1</small></sup></p></td>
 <td></td>
 <td><p>1회 (<a href="https://ko.wikipedia.org/wiki/1969년_아시안_챔피언_클럽_토너먼트" title="wikilink">1969</a>)</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/알쇼르타_(바그다드)" title="wikilink">알쇼르타 SC</a></p></td>
-<td></td>
+<td><p><a href="../Page/알쇼르타_SC.md" title="wikilink">알쇼르타</a></p></td>
 <td></td>
 <td><p>1회 (<a href="../Page/1971년_아시안_챔피언_클럽_토너먼트.md" title="wikilink">1971</a>)</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/알카르크흐_SC" title="wikilink">알카르크흐 SC</a><sup><small>1</small></sup></p></td>
-<td></td>
+<td><p><a href="../Page/알카르흐_SC.md" title="wikilink">알카르흐</a><sup><small>1</small></sup></p></td>
 <td></td>
 <td><p>1회 (<a href="../Page/1988-89년_아시안_클럽_챔피언십.md" title="wikilink">1988-89</a>)</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/요코하마_F._마리노스.md" title="wikilink">요코하마 F. 마리노스</a></p></td>
 <td></td>
-<td></td>
 <td><p>1회 (<a href="../Page/1989-90년_아시안_클럽_챔피언십.md" title="wikilink">1989-90</a>)</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/알샤바브_(리야드)" title="wikilink">알샤바브 FC</a></p></td>
-<td></td>
+<td><p><a href="../Page/알샤바브_FC_(리야드).md" title="wikilink">알샤바브</a></p></td>
 <td></td>
 <td><p>1회 (<a href="../Page/1992-93년_아시안_클럽_챔피언십.md" title="wikilink">1992-93</a>)</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/오만_클럽.md" title="wikilink">오만 클럽</a></p></td>
 <td></td>
-<td></td>
 <td><p>1회 (<a href="../Page/1993-94년_아시안_클럽_챔피언십.md" title="wikilink">1993-94</a>)</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/알아라비_SC" title="wikilink">알아라비 SC</a></p></td>
-<td></td>
+<td><p><a href="../Page/알아라비_SC_(카타르).md" title="wikilink">알아르비</a></p></td>
 <td></td>
 <td><p>1회 (<a href="../Page/1994-95년_아시안_클럽_챔피언십.md" title="wikilink">1994-95</a>)</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/알나스르_(리야드)" title="wikilink">알나스르 FC</a></p></td>
-<td></td>
+<td><p><a href="../Page/알나스르_FC.md" title="wikilink">알나스르</a></p></td>
 <td></td>
 <td><p>1회 (<a href="../Page/1995년_아시안_클럽_챔피언십.md" title="wikilink">1995</a>)</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/다롄_스더.md" title="wikilink">다롄 스더</a><sup><small>1</small></sup></p></td>
 <td></td>
-<td></td>
 <td><p>1회 (<a href="../Page/1997-98년_아시안_클럽_챔피언십.md" title="wikilink">1997-98</a>)</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/폴리스_테로_FC.md" title="wikilink">폴리스 테로</a></p></td>
 <td></td>
-<td></td>
 <td><p>1회 (<a href="../Page/2002-03년_AFC_챔피언스리그.md" title="wikilink">2002-2003</a>)</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/알카라마_SC.md" title="wikilink">알카라마 SC</a></p></td>
-<td></td>
+<td><p><a href="../Page/알카라마_SC.md" title="wikilink">알카라마</a></p></td>
 <td></td>
 <td><p>1회 (<a href="../Page/2006년_AFC_챔피언스리그.md" title="wikilink">2006</a>)</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/세파한_FC" title="wikilink">세파한 FC</a></p></td>
-<td></td>
+<td><p><a href="../Page/세파한_SC.md" title="wikilink">세파한</a></p></td>
 <td></td>
 <td><p>1회 (<a href="../Page/2007년_AFC_챔피언스리그.md" title="wikilink">2007</a>)</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/애들레이드_유나이티드_FC.md" title="wikilink">애들레이드 유나이티드</a></p></td>
 <td></td>
-<td></td>
 <td><p>1회 (<a href="../Page/2008년_AFC_챔피언스리그.md" title="wikilink">2008</a>)</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/조브_아한_FC.md" title="wikilink">조브 아한</a></p></td>
 <td></td>
-<td></td>
 <td><p>1회 (<a href="../Page/2010년_AFC_챔피언스리그.md" title="wikilink">2010</a>)</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/알아흘리_(두바이)" title="wikilink">알아흘리 두바이</a></p></td>
-<td></td>
+<td><p><a href="../Page/샤바브_알아흘리_두바이_FC.md" title="wikilink">샤바브 알아흘리</a></p></td>
 <td></td>
 <td><p>1회 (<a href="https://ko.wikipedia.org/wiki/2015년_AFC_챔피언스리그" title="wikilink">2015</a>)</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/페르세폴리스_FC.md" title="wikilink">페르세폴리스 FC</a></p></td>
-<td></td>
+<td><p><a href="../Page/페르세폴리스_FC.md" title="wikilink">페르세폴리스</a></p></td>
 <td></td>
 <td><p>1회 (<a href="https://ko.wikipedia.org/wiki/2018년_AFC_챔피언스리그" title="wikilink">2018</a>)</p></td>
 </tr>
 <tr class="even">
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -772,80 +723,80 @@ AFC는 2014년부터 챔피언스리그 참가국을 19개국으로 확대하는
 <thead>
 <tr class="header">
 <th><p>국가</p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/파일:Gold_medal_blank.svg" title="wikilink">10픽셀</a> 우승</p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/파일:Silver_medal_blank.svg" title="wikilink">10픽셀</a> 준우승</p></th>
+<th><p>우승</p></th>
+<th><p>준우승</p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td><p><a href="../Page/대한민국.md" title="wikilink">대한민국</a></p></td>
-<td><p>11회 <small>(6구단)</small></p></td>
-<td><p>6회 <small>(4구단)</small></p></td>
+<td><p>11회</p></td>
+<td><p>6회</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/일본.md" title="wikilink">일본</a></p></td>
-<td><p>7회 <small>(6구단)</small></p></td>
-<td><p>3회 <small>(2구단)</small></p></td>
+<td><p>7회</p></td>
+<td><p>3회</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/사우디아라비아.md" title="wikilink">사우디아라비아</a></p></td>
-<td><p>5회 <small>(2구단)</small></p></td>
-<td><p>9회 <small>(5구단)</small></p></td>
+<td><p>5회</p></td>
+<td><p>9회</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/이란.md" title="wikilink">이란</a></p></td>
-<td><p>3회 <small>(2구단)</small></p></td>
-<td><p>5회 <small>(4구단)</small></p></td>
+<td><p>3회</p></td>
+<td><p>5회</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/중국.md" title="wikilink">중국</a></p></td>
-<td><p>3회 <small>(2구단)</small></p></td>
-<td><p>2회 <small>(2구단)</small></p></td>
+<td><p>3회</p></td>
+<td><p>2회</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/이스라엘.md" title="wikilink">이스라엘</a></p></td>
-<td><p>3회 <small>(2구단)</small></p></td>
-<td><p>1회 <small>(1구단)</small></p></td>
+<td><p>3회</p></td>
+<td><p>1회</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/카타르.md" title="wikilink">카타르</a></p></td>
-<td><p>2회 <small>(1구단)</small></p></td>
-<td><p>1회 <small>(1구단)</small></p></td>
+<td><p>2회</p></td>
+<td><p>1회</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/태국.md" title="wikilink">태국</a></p></td>
-<td><p>2회 <small>(1구단)</small></p></td>
-<td><p>1회 <small>(1구단)</small></p></td>
+<td><p>2회</p></td>
+<td><p>1회</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/아랍에미리트.md" title="wikilink">아랍에미리트</a></p></td>
-<td><p>1회 <small>(1구단)</small></p></td>
-<td><p>3회 <small>(2구단)</small></p></td>
+<td><p>1회</p></td>
+<td><p>3회</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/오스트레일리아.md" title="wikilink">오스트레일리아</a></p></td>
-<td><p>1회 <small>(1구단)</small></p></td>
-<td><p>1회 <small>(1구단)</small></p></td>
+<td><p>1회</p></td>
+<td><p>1회</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/이라크.md" title="wikilink">이라크</a></p></td>
 <td></td>
-<td><p>2회 <small>(2구단)</small></p></td>
+<td><p>2회</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/말레이시아.md" title="wikilink">말레이시아</a></p></td>
 <td></td>
-<td><p>1회 <small>(1구단)</small></p></td>
+<td><p>1회</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/오만.md" title="wikilink">오만</a></p></td>
 <td></td>
-<td><p>1회 <small>(1구단)</small></p></td>
+<td><p>1회</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/시리아.md" title="wikilink">시리아</a></p></td>
 <td></td>
-<td><p>1회 <small>(1구단)</small></p></td>
+<td><p>1회</p></td>
 </tr>
 <tr class="odd">
 <td></td>

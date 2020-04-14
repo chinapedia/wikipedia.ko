@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ R.   ](https://ko.wikipedia.org/wiki/_R.___).
+> This article is converted from Wikipedia: [찰스 R. 드루 의과학 대학교](https://ko.wikipedia.org/wiki/찰스_R._드루_의과학_대학교).
 
 
 **찰스 R. 드루 의과학 대학교** (Charles R. Drew University of Medicine and Science)는 1966년에 로스 앤젤레스 와츠 구역의 부족한 의료 시설을 보충하기 위하여 세워졌다. 이후 의학 교육을 목표로 삼아 대학교를 설립하게 되었다. 학교명은 찰스 R. 드루 에 경의를 표하며 명명되었다. 전 [마틴 루서 킹 Jr.-하버 병원](https://ko.wikipedia.org/wiki/마틴_루서_킹_Jr.-하버_병원 "wikilink") (현 MLK-하버 병원)과 1972부터 2006까지 제휴를 맷었다. 이 때문에 아직도 킹-드루 대학교라 불린다.

@@ -5,6 +5,8 @@
 
 "경찰특공대"(警察特攻隊) 또는 "SWAT"은 국제적으로 사용되는 용어이며, 특정 국가의 조직을 한정하지 않는다.
 
+존재 가치가 의문시되어 존립에 위기 상황이었던 SWAT 조직은 [LA폭동](https://ko.wikipedia.org/wiki/LA폭동 "wikilink")으로 인하여 존립에 필요성을 인정받는다. 그래서 LA폭동을 겪은 전직 LA 경찰서장 [대릴 게이츠가](https://ko.wikipedia.org/wiki/:en:Daryl_Gates "wikilink") 창설에 관여하게 된다.
+
 ## 장비품
 
 ### 액세서리

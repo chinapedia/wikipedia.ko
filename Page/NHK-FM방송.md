@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [NHK-FM](https://ko.wikipedia.org/wiki/NHK-FM).
+> This article is converted from Wikipedia: [NHK-FM방송](https://ko.wikipedia.org/wiki/NHK-FM방송).
 
 
 **NHK-FM방송**은 [일본 방송 협회에서](https://ko.wikipedia.org/wiki/일본_방송_협회 "wikilink") 운영하는 [라디오 방송국중](https://ko.wikipedia.org/wiki/라디오_방송 "wikilink") 하나이다.

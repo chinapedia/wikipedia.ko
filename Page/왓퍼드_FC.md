@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
+> This article is converted from Wikipedia: [왓퍼드 FC](https://ko.wikipedia.org/wiki/왓퍼드_FC).
 
 
 **왓퍼드 축구 클럽**()은 [하트퍼드셔주](https://ko.wikipedia.org/wiki/하트퍼드셔주 "wikilink") [왓퍼드](https://ko.wikipedia.org/wiki/왓퍼드 "wikilink")를 연고로 하는 [잉글랜드](../Page/잉글랜드.md "wikilink") [프리미어리그](https://ko.wikipedia.org/wiki/프리미어리그 "wikilink")의 [축구단](https://ko.wikipedia.org/wiki/축구단 "wikilink")이다.

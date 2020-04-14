@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [RNP \(\)](https://ko.wikipedia.org/wiki/RNP_\(\)).
+> This article is converted from Wikipedia: [RNP \(가수\)](https://ko.wikipedia.org/wiki/RNP_\(가수\)).
 
 
 **RNP**(알앤피, [1977년](../Page/1977년.md "wikilink") [6월 7일](../Page/6월_7일.md "wikilink") \~ )는 [대한민국](../Page/대한민국.md "wikilink")의 가수이다. 본명은 김정주이다.

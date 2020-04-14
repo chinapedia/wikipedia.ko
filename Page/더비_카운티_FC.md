@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  FC](https://ko.wikipedia.org/wiki/__FC).
+> This article is converted from Wikipedia: [더비 카운티 FC](https://ko.wikipedia.org/wiki/더비_카운티_FC).
 
 
 **더비 카운티 축구 클럽**(Derby County Football Club)는 [잉글랜드](../Page/잉글랜드.md "wikilink")의 [더비](https://ko.wikipedia.org/wiki/더비 "wikilink")에 연고지를 둔 축구 클럽으로 1884년 더비셔 카운티 크리켓 클럽의 분파로 창단을 하였다. 2015-16시즌 현재 [풋볼 리그 챔피언십에](https://ko.wikipedia.org/wiki/풋볼_리그_챔피언십 "wikilink") 소속된 팀이다. 보통 '양들(Rams)'라는 애칭으로도 불린다. 2006-07시즌 2부리그인 풋볼 리그 챔피언십에서 3위를 기록하고 이어진 플레이오프에서 승리하여 2007-08시즌 [프리미어리그](https://ko.wikipedia.org/wiki/프리미어리그 "wikilink")로 승격하였으나, 단 한 시즌만에 다시 풋볼 리그 챔피언십으로 강등되었다. 더비 카운티의 라이벌 팀은 [노팅엄 포레스트](https://ko.wikipedia.org/wiki/노팅엄_포레스트 "wikilink"),[리즈 유나이티드이다](https://ko.wikipedia.org/wiki/리즈_유나이티드 "wikilink"). 노팅엄과의 [더비 매치는](https://ko.wikipedia.org/wiki/더비_매치 "wikilink") 이스트 미들랜즈 더비(East Midlands Derby)로 부르고 있으며, 이 경기에서 승리한 팀에게는 브라이언 클러프 트로피(Brian Clough Tropy)가 주어진다.
@@ -18,18 +18,18 @@
 ## 역대 성적
 
   - **[프리미어리그](https://ko.wikipedia.org/wiki/프리미어리그 "wikilink")(구(舊) 1부 리그) 우승 2회**
-      - 우승: 1972, 1975
+      - 우승: 1972, 19750
       - 준우승: 1896, 1930, 1936, 1996
-  - **[잉글랜드 챔피언십](https://ko.wikipedia.org/wiki/잉글랜드_챔피언쉽 "wikilink")(구(舊) 2부 리그) 우승 4회**
-      - 우승: 1912, 1915, 1969, 1987
+  - **[잉글랜드 챔피언십](https://ko.wikipedia.org/wiki/잉글랜드_챔피언쉽 "wikilink")(구(舊) 2부 리그) 우승 40회**
+      - 우승: 19012, 1915, 1969, 1987
       - 준우승: 1926
       - 플레이오프 우승: 2007
-  - **[풋볼 리그 1](https://ko.wikipedia.org/wiki/풋볼_리그_1 "wikilink") (구(舊) 3부 리그) 우승 1회**
+  - **[풋볼 리그 1](https://ko.wikipedia.org/wiki/풋볼_리그_1 "wikilink") (구(舊) 3부 리그) 우승 10회**
       - 우승: 1957
       - 준우승: 1956
   - **[FA컵](../Page/FA컵.md "wikilink") 우승 1회**
       - 우승: 1946
-      - 준우승: 1898, 1899, 1903
+      - 준우승: 18908, 1899, 1903
   - **[FA 채러티 쉴드](https://ko.wikipedia.org/wiki/FA_채러티_쉴드 "wikilink")/[커뮤니티 쉴드](https://ko.wikipedia.org/wiki/커뮤니티_쉴드 "wikilink"): 1회**
       - 우승: 1976
   - **[텍사코 컵](https://ko.wikipedia.org/wiki/텍사코_컵 "wikilink") 우승 1회**
@@ -39,7 +39,7 @@
   - **[앵글로-이탈리안컵](https://ko.wikipedia.org/wiki/앵글로-이탈리안컵 "wikilink") 우승 1회**
       - 우승: 1993
   - **[브라이언 클러프 컵](https://ko.wikipedia.org/wiki/브라이언_클러프_컵 "wikilink") 우승 1회**
-      - 우승: 2007
+      - 우승: 20007
 
 ## 선수
 

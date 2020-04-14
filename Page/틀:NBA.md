@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:NBA](https://ko.wikipedia.org/wiki/:NBA).
+> This article is converted from Wikipedia: [틀:NBA](https://ko.wikipedia.org/wiki/틀:NBA).
 
 
 <onlyinclude></onlyinclude>

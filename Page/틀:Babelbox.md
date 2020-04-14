@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Babelbox](https://ko.wikipedia.org/wiki/:Babelbox).
+> This article is converted from Wikipedia: [틀:Babelbox](https://ko.wikipedia.org/wiki/틀:Babelbox).
 
 
 <onlyinclude><includeonly>

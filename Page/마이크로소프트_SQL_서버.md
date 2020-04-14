@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ SQL ](https://ko.wikipedia.org/wiki/_SQL_).
+> This article is converted from Wikipedia: [마이크로소프트 SQL 서버](https://ko.wikipedia.org/wiki/마이크로소프트_SQL_서버).
 
 
 **마이크로소프트 SQL 서버**()는 [마이크로소프트](../Page/마이크로소프트.md "wikilink")가 [1989년](../Page/1989년.md "wikilink") 사이베이스(Sybase)를 기반으로 개발한 [관계형 데이터베이스이다](https://ko.wikipedia.org/wiki/관계형_데이터베이스 "wikilink").

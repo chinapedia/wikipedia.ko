@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ OS X ](https://ko.wikipedia.org/wiki/_OS_X_).
+> This article is converted from Wikipedia: [맥 OS X 레퍼드](https://ko.wikipedia.org/wiki/맥_OS_X_레퍼드).
 
 
 **맥 OS X 레퍼드**(Mac OS X Leopard)는 [애플이](https://ko.wikipedia.org/wiki/애플_\(기업\) "wikilink") 개발한 [매킨토시](../Page/매킨토시.md "wikilink")용 운영 체제인 [맥 OS X의](https://ko.wikipedia.org/wiki/맥_OS_X "wikilink") 여섯 번째 주요 버전이며, [2007년](../Page/2007년.md "wikilink") 10월 26일 [맥 OS X 타이거의](../Page/맥_OS_X_타이거.md "wikilink") 이후 버전으로 출시되었다. 이 버전은 개인용 컴퓨터에 맞는 데스크톱 버전과 [서버](../Page/서버.md "wikilink")에 맞는 버전인 [맥 OS X 레퍼드 서버로](https://ko.wikipedia.org/wiki/맥_OS_X_레퍼드_서버 "wikilink") 출시되었다. 스티브 잡스는 [2008년](../Page/2008년.md "wikilink") 맥월드에서 20%의 [매킨토시](../Page/매킨토시.md "wikilink")가 맥 OS X 레퍼드를 사용하고 있다고 밝혔다.\[1\] 레퍼드는 [맥 OS X 스노 레퍼드로](../Page/맥_OS_X_스노_레퍼드.md "wikilink") 대체되었다. 레퍼드는 [파워PC](../Page/파워PC.md "wikilink") 아키텍처를 지원하는 마지막 [맥 OS X](https://ko.wikipedia.org/wiki/맥_OS_X "wikilink") 버전이다. 이후 나온 [맥 OS X 스노 레퍼드는](../Page/맥_OS_X_스노_레퍼드.md "wikilink") [인텔](../Page/인텔.md "wikilink") 프로세서 기반 맥에서만 작동한다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [CFA ](https://ko.wikipedia.org/wiki/CFA_).
+> This article is converted from Wikipedia: [CFA 프랑](https://ko.wikipedia.org/wiki/CFA_프랑).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:CFA_Franc_map.svg "wikilink")

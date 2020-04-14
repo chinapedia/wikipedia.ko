@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [GM ](https://ko.wikipedia.org/wiki/GM_).
+> This article is converted from Wikipedia: [GM대우 매그너스](https://ko.wikipedia.org/wiki/GM대우_매그너스).
 
 
 **GM대우 매그너스**(GM Daewoo Magnus)는 [대우자동차(한국GM의 전신)의](https://ko.wikipedia.org/wiki/한국GM "wikilink") 중형차이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [AS ](https://ko.wikipedia.org/wiki/AS_).
+> This article is converted from Wikipedia: [AS 낭시](https://ko.wikipedia.org/wiki/AS_낭시).
 
 
 **AS 낭시-로렌**(Association Sportive Nancy-Lorraine)은 [프랑스](../Page/프랑스.md "wikilink") [로렌](../Page/로렌.md "wikilink") 지방 [낭시](../Page/낭시.md "wikilink")에 위치한 [스타드 마르셀 피코](https://ko.wikipedia.org/wiki/스타드_마르셀_피코 "wikilink") 경기장을 근거로 하는 [축구](../Page/축구.md "wikilink") 클럽이다. [1967년](../Page/1967년.md "wikilink") 창단되었다.

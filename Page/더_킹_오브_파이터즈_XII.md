@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [    XII](https://ko.wikipedia.org/wiki/____XII).
+> This article is converted from Wikipedia: [더 킹 오브 파이터즈 XII](https://ko.wikipedia.org/wiki/더_킹_오브_파이터즈_XII).
 
 
 《**더 킹 오브 파이터즈 XII**》()은 [SNK 플레이모어가](https://ko.wikipedia.org/wiki/SNK_플레이모어 "wikilink") 제작한 [아케이드](../Page/아케이드_게임.md "wikilink") [대전 격투 게임이다](https://ko.wikipedia.org/wiki/대전_격투_게임 "wikilink"). 《[더 킹 오브 파이터즈](../Page/더_킹_오브_파이터즈.md "wikilink")》 시리즈 열두번째 작품으로, 2008년 5월에 처음 발표되고 이후 [타이토 타입 X2](https://ko.wikipedia.org/wiki/타이토_타입_X2 "wikilink") 기판으로 2009년 4월 10일 발매됐다. 그 후 [플레이스테이션 3와](../Page/플레이스테이션_3.md "wikilink") [엑스박스 360](../Page/엑스박스_360.md "wikilink") 이식판이 2009년 7월 출시됐다.

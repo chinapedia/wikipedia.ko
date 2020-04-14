@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  H.P.](https://ko.wikipedia.org/wiki/__H.P.).
+> This article is converted from Wikipedia: [갓타스 브릴리언티스 H.P.](https://ko.wikipedia.org/wiki/갓타스_브릴리언티스_H.P.).
 
 
 **갓타스 브릴리언티스 H.P.**(Gatas Brilhantes H.P.)는 [헬로\! 프로젝트의](../Page/헬로!_프로젝트.md "wikilink") 멤버들로 구성된 [일본](../Page/일본.md "wikilink")의 [풋살](../Page/풋살.md "wikilink") 팀이다. 갓타스 브릴리언티스(Gatas Brilhantes)는 [포르투갈어](../Page/포르투갈어.md "wikilink")로 직역하면 **빛나는 고양이들**, 의역하면 **멋진 여성들**이라는 뜻이며 H.P.는 Hello\! Project의 약자이다. 약칭은 **갓타스**이다. [2015년](../Page/2015년.md "wikilink") [3월](../Page/3월.md "wikilink")에 활동을 휴지했다.

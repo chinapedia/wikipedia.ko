@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:ZWD ](https://ko.wikipedia.org/wiki/:ZWD_).
+> This article is converted from Wikipedia: [틀:ZWD 인플레이션](https://ko.wikipedia.org/wiki/틀:ZWD_인플레이션).
 
 
 <table>

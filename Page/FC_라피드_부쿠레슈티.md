@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FC  ](https://ko.wikipedia.org/wiki/FC__).
+> This article is converted from Wikipedia: [FC 라피드 부쿠레슈티](https://ko.wikipedia.org/wiki/FC_라피드_부쿠레슈티).
 
 
 **FC 라피드 부쿠레슈티**(AFC Rapid Bucureşti) 는 [부쿠레슈티](../Page/부쿠레슈티.md "wikilink")를 연고로 하는 [루마니아](../Page/루마니아.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다. 이 축구단은 [1923년](../Page/1923년.md "wikilink") 창단되었다. 현재 [리가 I에](../Page/리가_I.md "wikilink") 속해 있으며 2007-08시즌은 3위로 마감하였다.

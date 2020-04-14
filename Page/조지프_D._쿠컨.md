@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ D. ](https://ko.wikipedia.org/wiki/_D._).
+> This article is converted from Wikipedia: [조지프 D. 쿠컨](https://ko.wikipedia.org/wiki/조지프_D._쿠컨).
 
 
 **조지프 D. 쿠컨**(Joseph D. Kucan, (Kučan - Srb-Croat "Kutchan") [1965년](../Page/1965년.md "wikilink") [3월 19일](../Page/3월_19일.md "wikilink") \~ )은 여러 게임과 영화의 [작가](https://ko.wikipedia.org/wiki/작가 "wikilink"), [감독](https://ko.wikipedia.org/wiki/영화감독 "wikilink"), 캐스팅 감독, [배우](../Page/배우.md "wikilink")이다.

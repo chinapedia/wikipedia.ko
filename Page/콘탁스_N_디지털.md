@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ N ](https://ko.wikipedia.org/wiki/_N_).
+> This article is converted from Wikipedia: [콘탁스 N 디지털](https://ko.wikipedia.org/wiki/콘탁스_N_디지털).
 
 
 **콘탁스 N 디지털**(콘탁스 ND, )은 일본 [콘탁스](https://ko.wikipedia.org/wiki/콘탁스 "wikilink")에 의해 생산된 6백만 화소의 [풀프레임 DSLR](../Page/풀프레임_DSLR.md "wikilink") 카메라이다. 2000년 7월 18일에 발표되었으나 몇 번의 출시 연기를 끝으로 2002년 봄부터 판매가 되었다. 출시 당시 많은 호평과 혹평을 동시에 받게 되었는데 결국 시장에 출시된 지 일 년이 채 되지 않고 철수되었다.

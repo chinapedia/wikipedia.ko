@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [MBC ](https://ko.wikipedia.org/wiki/MBC_).
+> This article is converted from Wikipedia: [MBC충북 충주방송국](https://ko.wikipedia.org/wiki/MBC충북_충주방송국).
 
 
 **MBC충북 충주방송국**(MBC忠北 忠州放送局)은 [충북](https://ko.wikipedia.org/wiki/충청북도 "wikilink") 북부, [강원](../Page/강원도.md "wikilink") 남부, [경북](https://ko.wikipedia.org/wiki/경상북도 "wikilink"), [경기](https://ko.wikipedia.org/wiki/경기도 "wikilink") 남동부 일부지역을 가시청권역으로 하는 TV·라디오방송국으로 [1970년](../Page/1970년.md "wikilink") [11월 12일](../Page/11월_12일.md "wikilink") 개국하였다. 본사는 [충청북도](https://ko.wikipedia.org/wiki/충청북도 "wikilink") [충주시](https://ko.wikipedia.org/wiki/충주시 "wikilink") 호암동에 위치해있다.

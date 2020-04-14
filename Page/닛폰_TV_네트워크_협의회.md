@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ TV  ](https://ko.wikipedia.org/wiki/_TV__).
+> This article is converted from Wikipedia: [닛폰 TV 네트워크 협의회](https://ko.wikipedia.org/wiki/닛폰_TV_네트워크_협의회).
 
 
 **닛폰 TV 네트워크 협의회**(Nippon Television Network System, 약칭：NNS)는 [닛폰 TV](https://ko.wikipedia.org/wiki/닛폰_TV "wikilink")(NTV)를 중심방송국으로, [요미우리 TV 방송](../Page/요미우리_TV_방송.md "wikilink")(ytv)를 준중심방송국으로 하는 일본의 지역 민방 TV 네트워크이다.

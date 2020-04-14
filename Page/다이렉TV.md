@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TV](https://ko.wikipedia.org/wiki/TV).
+> This article is converted from Wikipedia: [다이렉TV](https://ko.wikipedia.org/wiki/다이렉TV).
 
 
 **DirecTV**(디렉TV, )는 디지털 위성방송 서비스다. 1994년 [미국](../Page/미국.md "wikilink") [캘리포니아](https://ko.wikipedia.org/wiki/캘리포니아 "wikilink") [엘세건도](https://ko.wikipedia.org/wiki/엘세건도 "wikilink")에 본사(本社)가 만들어졌으며 이제는 미국 본토, [카리브제도](../Page/카리브_제도.md "wikilink"), [라틴아메리카](../Page/라틴_아메리카.md "wikilink")([멕시코](../Page/멕시코.md "wikilink") 제외)에 제공하고 있다.

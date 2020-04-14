@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [A ](https://ko.wikipedia.org/wiki/A_).
+> This article is converted from Wikipedia: [A형 주계열성](https://ko.wikipedia.org/wiki/A형_주계열성).
 
 
 [240px는](https://ko.wikipedia.org/wiki/파일:Sirius_A_and_B_Hubble_photo.jpg "wikilink") 전형적인 A형 주계열성이다.\]\]

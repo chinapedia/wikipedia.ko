@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [NHK  2](https://ko.wikipedia.org/wiki/NHK__2).
+> This article is converted from Wikipedia: [NHK 위성 제2텔레비전](https://ko.wikipedia.org/wiki/NHK_위성_제2텔레비전).
 
 
 **NHK 위성 제2텔레비전**은 [NHK](https://ko.wikipedia.org/wiki/NHK "wikilink")의 위성방송국 중 하나이며 약칭은 **BS2**이다.

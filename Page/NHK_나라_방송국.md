@@ -1,9 +1,9 @@
-> This article is converted from Wikipedia: [NHK  ](https://ko.wikipedia.org/wiki/NHK__).
+> This article is converted from Wikipedia: [NHK 나라 방송국](https://ko.wikipedia.org/wiki/NHK_나라_방송국).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:NHK_Nara_Broadcasting_Station_Bldg_20080322-001.jpg "wikilink")
 
-**NHK 나라 방송국** () 은 [나라현](../Page/나라현.md "wikilink")을 방송 구역으로 하는 NHK의 지역 방송국이며 FM라디오·텔레비전 방송을 담당하고 있다.
+**NHK 나라 방송국**() 은 [나라현](../Page/나라현.md "wikilink")을 방송 구역으로 하는 NHK의 지역 방송국이며 FM라디오·텔레비전 방송을 담당하고 있다.
 
 ## 연혁
 

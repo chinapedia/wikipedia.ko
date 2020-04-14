@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TV ](https://ko.wikipedia.org/wiki/TV_).
+> This article is converted from Wikipedia: [TV 와카야마](https://ko.wikipedia.org/wiki/TV_와카야마).
 
 
 **TV 와카야마**는 [1974년](../Page/1974년.md "wikilink") [4월 1일](../Page/4월_1일.md "wikilink") [와카야마현](../Page/와카야마현.md "wikilink")의 독립 UHF방송국으로 개국했다.

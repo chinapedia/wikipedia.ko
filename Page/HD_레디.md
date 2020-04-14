@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [HD ](https://ko.wikipedia.org/wiki/HD_).
+> This article is converted from Wikipedia: [HD 레디](https://ko.wikipedia.org/wiki/HD_레디).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Not_HD_ready.jpg "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:HD-TV_Logo.svg "wikilink") 지원 텔레비전 및 셋톱박스에 쓰인다.\]\] **HD 레디**(HD Ready)는 [고선명](../Page/고선명_비디오.md "wikilink") 영상을 보여 주는 [텔레비전](../Page/텔레비전.md "wikilink") 수상기의 기능과 관련되어 있다. 이 용어는 [유럽](../Page/유럽.md "wikilink")에서 [EICTA](https://ko.wikipedia.org/wiki/EICTA "wikilink")가 레이블에 대한 요구를 선언한 [2005년](../Page/2005년.md "wikilink") 1월 뒤로 공식적으로 쓰이던 용어였다.

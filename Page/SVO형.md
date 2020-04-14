@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SVO](https://ko.wikipedia.org/wiki/SVO).
+> This article is converted from Wikipedia: [SVO형](https://ko.wikipedia.org/wiki/SVO형).
 
 
 **SVO**()구조란 [주어](https://ko.wikipedia.org/wiki/주어 "wikilink")-[동사](../Page/동사_\(품사\).md "wikilink")-[목적어](../Page/목적어.md "wikilink")의 구조로 되어있는 언어를 뜻하며, [영어](../Page/영어.md "wikilink")나 [중국어](../Page/중국어.md "wikilink") 등(고립어)이 이 어순을 따른다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ Vs. ](https://ko.wikipedia.org/wiki/_Vs._).
+> This article is converted from Wikipedia: [닌텐도 Vs. 시스템](https://ko.wikipedia.org/wiki/닌텐도_Vs._시스템).
 
 
 **닌텐도 Vs. 시스템**은 1984년 [닌텐도](../Page/닌텐도.md "wikilink")에서 개발한 아케이드 게임 기판으로 **VS. 유니시스템**(UniSystem) 또는 **VS. 듀얼시스템**(DualSystem)이라고도 불린다.

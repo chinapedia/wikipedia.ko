@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ EOS 20D](https://ko.wikipedia.org/wiki/_EOS_20D).
+> This article is converted from Wikipedia: [캐논 EOS 20D](https://ko.wikipedia.org/wiki/캐논_EOS_20D).
 
 
 **캐논 EOS 20D**()는 820만 [유효 화소를](https://ko.wikipedia.org/wiki/유효_화소 "wikilink") 가지는 준전문가용 [디지털 SLR](https://ko.wikipedia.org/wiki/디지털_SLR "wikilink") [카메라](https://ko.wikipedia.org/wiki/카메라 "wikilink")이다. [2004년](../Page/2004년.md "wikilink") [8월 19일에](../Page/8월_19일.md "wikilink") 발표되었으며 [9월](../Page/9월.md "wikilink")에 시판되었다. [캐논 EOS 10D의](../Page/캐논_EOS_10D.md "wikilink") 후속 모델이다. 22.5 × 15.0 mm 크기의 [CMOS 이미지 센서를](https://ko.wikipedia.org/wiki/CMOS_이미지_센서 "wikilink") 가지고 있으며 [캐논 EF-S 렌즈 마운트](https://ko.wikipedia.org/wiki/캐논_EF-S_렌즈_마운트 "wikilink") 및 [캐논 EF 렌즈 마운트를](https://ko.wikipedia.org/wiki/캐논_EF_렌즈_마운트 "wikilink") 지원한다.

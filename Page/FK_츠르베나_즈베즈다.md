@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FK  ](https://ko.wikipedia.org/wiki/FK__).
+> This article is converted from Wikipedia: [FK 츠르베나 즈베즈다](https://ko.wikipedia.org/wiki/FK_츠르베나_즈베즈다).
 
 
 **FK 츠르베나 즈베즈다**()는 [베오그라드](../Page/베오그라드.md "wikilink")를 연고로 하는 [세르비아](../Page/세르비아.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다. 클럽 이름의 **츠르베나 즈베즈다**는 [세르비아어](../Page/세르비아어.md "wikilink")로 "[붉은 별](https://ko.wikipedia.org/wiki/붉은_별 "wikilink")"을 뜻한다. [영어](../Page/영어.md "wikilink") 이름인 **레드 스타 베오그라드**(Red Star Belgrade)라는 이름으로 불리기도 한다.

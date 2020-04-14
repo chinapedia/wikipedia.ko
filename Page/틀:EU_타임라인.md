@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:EU ](https://ko.wikipedia.org/wiki/:EU_).
+> This article is converted from Wikipedia: [틀:EU 타임라인](https://ko.wikipedia.org/wiki/틀:EU_타임라인).
 
 
 <table style="width:100%;">

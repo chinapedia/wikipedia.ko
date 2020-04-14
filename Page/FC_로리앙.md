@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FC ](https://ko.wikipedia.org/wiki/FC_).
+> This article is converted from Wikipedia: [FC 로리앙](https://ko.wikipedia.org/wiki/FC_로리앙).
 
 
 **FC 로리앙**(Football Club Lorient)은 브르타뉴 [로리앙](../Page/로리앙.md "wikilink")을 연고로 하는 [프랑스](../Page/프랑스.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다.

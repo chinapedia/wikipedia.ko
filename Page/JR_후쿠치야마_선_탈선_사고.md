@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [JR    ](https://ko.wikipedia.org/wiki/JR____).
+> This article is converted from Wikipedia: [JR 후쿠치야마 선 탈선 사고](https://ko.wikipedia.org/wiki/JR_후쿠치야마_선_탈선_사고).
 
 
 **JR 후쿠치야마 선 탈선 사고**()는 [2005년](../Page/2005년.md "wikilink") [4월 25일](../Page/4월_25일.md "wikilink") 오전 9시 18분경([일본 표준시](../Page/일본_표준시.md "wikilink")) [서일본 여객철도](https://ko.wikipedia.org/wiki/서일본_여객철도 "wikilink") [후쿠치야마 선](https://ko.wikipedia.org/wiki/후쿠치야마_선 "wikilink") [쓰카구치 역](../Page/쓰카구치_역_\(서일본_여객철도\).md "wikilink")\~[아마가사키 역](../Page/아마가사키_역_\(서일본_여객철도\).md "wikilink") 사이 구간에서 발생한 차량이 [맨션](https://ko.wikipedia.org/wiki/맨션 "wikilink")(아파트)에 충돌하여 승객 106명과 기관사 1명을 포함해 총 107명이 사망한 [열차 탈선 사고이다](https://ko.wikipedia.org/wiki/탈선 "wikilink").

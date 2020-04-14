@@ -26,6 +26,7 @@ J-pop은 다음과 같은 부분을 포함한다고 볼 수 있다.
 
 ## 같이 보기
 
+  - [팝 음악](../Page/팝_음악.md "wikilink")
   - [K-pop](../Page/K-pop.md "wikilink")
   - [C-pop](https://ko.wikipedia.org/wiki/C-pop "wikilink")
 

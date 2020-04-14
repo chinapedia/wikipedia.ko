@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Returns Part ](https://ko.wikipedia.org/wiki/Returns_Part_).
+> This article is converted from Wikipedia: [Returns Part Ⅱ](https://ko.wikipedia.org/wiki/Returns_Part_Ⅱ).
 
 
 《**Returns Part Ⅱ**》는 [엠씨 더 맥스의](https://ko.wikipedia.org/wiki/엠씨_더_맥스 "wikilink") 다섯 번째 정규 음반인 《[Returns](https://ko.wikipedia.org/wiki/Returns "wikilink")》의 리패키지 앨범이다.

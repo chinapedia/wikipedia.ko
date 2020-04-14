@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ OZ](https://ko.wikipedia.org/wiki/_OZ).
+> This article is converted from Wikipedia: [화승 OZ](https://ko.wikipedia.org/wiki/화승_OZ).
 
 
 **화승 OZ** (Hwaseung OZ, 화승 오즈)는 [대한민국](../Page/대한민국.md "wikilink")의 前 프로게임단이다. 현존 당시 [스타크래프트](../Page/스타크래프트.md "wikilink")와 [워크래프트 3](https://ko.wikipedia.org/wiki/워크래프트_3 "wikilink") 종목을 운영하였다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ AE](https://ko.wikipedia.org/wiki/_AE).
+> This article is converted from Wikipedia: [마차부자리 AE](https://ko.wikipedia.org/wiki/마차부자리_AE).
 
 
 **마차부자리 AE**(AE Aurigae)는 [마차부자리](../Page/마차부자리.md "wikilink")에 있는 항성이다.

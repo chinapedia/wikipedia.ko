@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [NHK  ](https://ko.wikipedia.org/wiki/NHK__).
+> This article is converted from Wikipedia: [NHK 아사히카와 방송국](https://ko.wikipedia.org/wiki/NHK_아사히카와_방송국).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:NHK_Asahikawa_Station.jpg "wikilink") **NHK 아사히카와 방송국**(旭川 放送局)은 [가미카와 지청](../Page/가미카와_지청.md "wikilink"),[루모이 지청](../Page/루모이_지청.md "wikilink"),[소야 지청](https://ko.wikipedia.org/wiki/소야_지청 "wikilink"),[소라치 지청](../Page/소라치_지청.md "wikilink") 북부를 방송구역으로 하는 NHK의 지역방송국이며 중파·FM라디오·텔레비전 방송을 담당하고 있다.

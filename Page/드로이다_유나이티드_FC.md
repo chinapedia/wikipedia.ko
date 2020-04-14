@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [  FC](https://ko.wikipedia.org/wiki/__FC).
+> This article is converted from Wikipedia: [드로이다 유나이티드 FC](https://ko.wikipedia.org/wiki/드로이다_유나이티드_FC).
 
 
-**드로이다 유나이티드 FC** ()는 [아일랜드](../Page/아일랜드.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽으로 [FAI 프리미어디비전에서](https://ko.wikipedia.org/wiki/FAI_프리미어디비전 "wikilink") 활동하고 있다. 아일랜드 동부 해안에 있는 [드로이다](https://ko.wikipedia.org/wiki/드로이다 "wikilink")에 연고지를 두고 있다. [1976년](../Page/1976년.md "wikilink")부터 [유나이티드 파크를](https://ko.wikipedia.org/wiki/유나이티드_파크 "wikilink") 홈구장으로 사용하고 있는데, 이전에는 [로데스 경기장을](https://ko.wikipedia.org/wiki/로데스_경기장 "wikilink") 사용했었다. 클럽은 2010년까지 10,000명 수용 규모의 전좌석 경기장으로 이전할 계획이다.
+**드로이다 유나이티드 FC**()는 [아일랜드](../Page/아일랜드.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽으로 [FAI 프리미어디비전에서](https://ko.wikipedia.org/wiki/FAI_프리미어디비전 "wikilink") 활동하고 있다. 아일랜드 동부 해안에 있는 [드로이다](https://ko.wikipedia.org/wiki/드로이다 "wikilink")에 연고지를 두고 있다. [1976년](../Page/1976년.md "wikilink")부터 [유나이티드 파크를](https://ko.wikipedia.org/wiki/유나이티드_파크 "wikilink") 홈구장으로 사용하고 있는데, 이전에는 [로데스 경기장을](https://ko.wikipedia.org/wiki/로데스_경기장 "wikilink") 사용했었다. 클럽은 2010년까지 10,000명 수용 규모의 전좌석 경기장으로 이전할 계획이다.
 
 [1919년](../Page/1919년.md "wikilink")에 창단한 드로이다 유나이티드와 [1962년](../Page/1962년.md "wikilink")에 창단된 드로이다 FC가 [1975년](../Page/1975년.md "wikilink")에 합병하여 현재의 드로이다 유나이티드가 되었다.
 

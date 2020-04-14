@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FM ](https://ko.wikipedia.org/wiki/FM_).
+> This article is converted from Wikipedia: [FM 골든디스크](https://ko.wikipedia.org/wiki/FM_골든디스크).
 
 
 **FM 골든디스크**는 [MBC FM4U에서](../Page/MBC_FM4U.md "wikilink") 매일 오전 11시부터 방송되는 [팝 음악](../Page/팝_음악.md "wikilink") 전문 라디오 프로그램이다. 과거 [박원웅](https://ko.wikipedia.org/wiki/박원웅 "wikilink"), [김기덕](../Page/김기덕_\(1948년\).md "wikilink") PD 등이 프로그램을 거쳐갔으며 현재는 가수 [김현철이](../Page/김현철_\(가수\).md "wikilink") 진행한다.

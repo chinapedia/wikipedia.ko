@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [POSIX ](https://ko.wikipedia.org/wiki/POSIX_).
+> This article is converted from Wikipedia: [POSIX 스레드](https://ko.wikipedia.org/wiki/POSIX_스레드).
 
 
 **POSIX 스레드**(POSIX Threads, 약어: **PThread**)는 병렬적으로 작동하는 소프트웨어의 작성을 위해서 제공되는 표준 API다.

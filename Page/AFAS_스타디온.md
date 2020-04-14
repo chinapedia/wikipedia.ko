@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [AFAS ](https://ko.wikipedia.org/wiki/AFAS_).
+> This article is converted from Wikipedia: [AFAS 스타디온](https://ko.wikipedia.org/wiki/AFAS_스타디온).
 
 
 **AFAS 스타디온**(AFAS Stadion), 옛 이름 **DSB 스타디온**(DSB Stadion)은 다목적 경기장으로 [네덜란드](../Page/네덜란드.md "wikilink")의 [알크마르](../Page/알크마르.md "wikilink")에 위치해 있다. 대부분 축구 경기에 사용되며 현재 [AZ 알크마르의](../Page/AZ_알크마르.md "wikilink") 홈구장으로 사용된다. 경기장은 17,023명을 수용할 수 있으며, [2006년](../Page/2006년.md "wikilink") [8월 4일에](../Page/8월_4일.md "wikilink") [아스널 FC와의](../Page/아스널_FC.md "wikilink") 친선경기로 공식적으로 개장하였다. AZ는 이 경기에서 3-0으로 패하였으며 [지우베르투 실바가](https://ko.wikipedia.org/wiki/지우베르투_실바 "wikilink") 경기장 첫골의 주인공이 되었다. 첫 번째 [에레디비시](../Page/에레디비시.md "wikilink") 경기는 [NAC 브레다와의](../Page/NAC_브레다.md "wikilink") 경기로 AZ가 8-1로 승리하였다. 이 경기에서 독일 미드필더인 시몬 치오머가 [해트트릭](../Page/해트트릭.md "wikilink")을 기록하였다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  FC](https://ko.wikipedia.org/wiki/__FC).
+> This article is converted from Wikipedia: [아스테라스 트리폴리스 FC](https://ko.wikipedia.org/wiki/아스테라스_트리폴리스_FC).
 
 
 **아스테라스 트리폴리스 FC**는 [그리스](../Page/그리스.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽으로 [그리스](../Page/그리스.md "wikilink")의 [펠로폰네소스 반도](https://ko.wikipedia.org/wiki/펠로폰네소스_반도 "wikilink") 중부에 위치한 [트리폴리에](../Page/트리폴리_\(그리스\).md "wikilink") 연고를 두고 있다. 아스테라스는 [그리스어](../Page/그리스어.md "wikilink")로 "별"을 뜻한다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  FC](https://ko.wikipedia.org/wiki/__FC).
+> This article is converted from Wikipedia: [맨체스터 시티 FC](https://ko.wikipedia.org/wiki/맨체스터_시티_FC).
 
 
 [오른쪽](https://ko.wikipedia.org/wiki/파일:City_of_Manchester_Stadium_2.jpg "wikilink")

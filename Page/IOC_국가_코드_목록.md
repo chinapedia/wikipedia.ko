@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [IOC   ](https://ko.wikipedia.org/wiki/IOC___).
+> This article is converted from Wikipedia: [IOC 국가 코드 목록](https://ko.wikipedia.org/wiki/IOC_국가_코드_목록).
 
 
 [올림픽](https://ko.wikipedia.org/wiki/올림픽 "wikilink")에서는 [국제올림픽위원회](https://ko.wikipedia.org/wiki/국제올림픽위원회 "wikilink")(IOC)에서 각 [국가 올림픽 위원회](../Page/국가_올림픽_위원회.md "wikilink")(NOC)에 부여한 세 자리의 **국가 코드**가 사용된다.

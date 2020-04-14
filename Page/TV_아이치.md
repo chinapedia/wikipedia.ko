@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TV ](https://ko.wikipedia.org/wiki/TV_).
+> This article is converted from Wikipedia: [TV 아이치](https://ko.wikipedia.org/wiki/TV_아이치).
 
 
 **TV 아이치**(テレビ愛知)는 1983년 9월 1일 주쿄광역권의 [TV 도쿄계열](../Page/TV_도쿄.md "wikilink") 3번째 지역 민방 네트워크 가맹국으로 개국했다.

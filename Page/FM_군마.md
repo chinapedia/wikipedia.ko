@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FM ](https://ko.wikipedia.org/wiki/FM_).
+> This article is converted from Wikipedia: [FM 군마](https://ko.wikipedia.org/wiki/FM_군마).
 
 
 **FM군마**는 일본의 FM라디오 방송국으로 [1985년](../Page/1985년.md "wikilink") [10월 1일](../Page/10월_1일.md "wikilink") 개국했으며 [군마현](../Page/군마현.md "wikilink")에서 방송을 실시하고 있다.

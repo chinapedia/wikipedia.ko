@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [U.S.  \&  ](https://ko.wikipedia.org/wiki/U.S.__\&__).
+> This article is converted from Wikipedia: [U.S. 뉴스 \& 월드 리포트](https://ko.wikipedia.org/wiki/U.S._뉴스_\&_월드_리포트).
 
 
 [섬네일에](https://ko.wikipedia.org/wiki/파일:USNEWS_headquarters.jpg "wikilink") 위치한 본사\]\] 《**U.S. 뉴스 & 월드 리포트**》(U.S. News & World Report)는 주간 [미국](../Page/미국.md "wikilink") [뉴스매거진](https://ko.wikipedia.org/wiki/뉴스매거진 "wikilink")이다. 원래 이름은 **United States News**였으나, 월드 리포트(World Report)와 병합하면서 이름이 바뀌었다.

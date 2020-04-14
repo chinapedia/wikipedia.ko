@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [OK ](https://ko.wikipedia.org/wiki/OK_).
+> This article is converted from Wikipedia: [OK 본](https://ko.wikipedia.org/wiki/OK_본).
 
 
 **오케이 본**(케본)은 [대한민국](../Page/대한민국.md "wikilink")의 랩퍼다. [서울](https://ko.wikipedia.org/wiki/서울 "wikilink") [목동에](../Page/목동_\(서울\).md "wikilink") 거주하며, 친구 [O.D](https://ko.wikipedia.org/wiki/O.D "wikilink")와 함께 힙합 팀 '[구단지 독서실](https://ko.wikipedia.org/wiki/구단지_독서실 "wikilink")'의 멤버이다. 음악적으론 [라임을](https://ko.wikipedia.org/wiki/압운 "wikilink") 중시한 [랩](https://ko.wikipedia.org/wiki/랩 "wikilink") 스타일이 특이하다. 그리고 이센스와의 디스전이 있었고, 이센스가 랩 정상으로 갈 수 있는데 든든한 발 받침대가 되주었다.현재는 모 대기업에서 근무 중인 것으로 알려져 있다.

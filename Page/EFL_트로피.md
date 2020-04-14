@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [EFL ](https://ko.wikipedia.org/wiki/EFL_).
+> This article is converted from Wikipedia: [EFL 트로피](https://ko.wikipedia.org/wiki/EFL_트로피).
 
 
 **EFL 트로피**(EFL Trophy)는 [잉글랜드](../Page/잉글랜드.md "wikilink")의 축구 대회로 [EFL 리그 1](https://ko.wikipedia.org/wiki/EFL_리그_1 "wikilink")(3부 리그)과 [EFL 리그 2](https://ko.wikipedia.org/wiki/EFL_리그_2 "wikilink")(4부 리그)의 팀이 참가하는 컵 대회이다. 몇몇 시즌에는 [내셔널리그의](../Page/내셔널리그_\(잉글랜드\).md "wikilink") 상위권팀이 참가하기도 했다. 2016년부터의 명칭은 **체커트레이드 트로피**(Checkatrade Trophy)이다. 1992년까지 리그 트로피의 공식 명칭은 **어소시에이트 멤버스 컵**(Associate Members' Cup)이었다.

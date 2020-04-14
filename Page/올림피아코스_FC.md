@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
+> This article is converted from Wikipedia: [올림피아코스 FC](https://ko.wikipedia.org/wiki/올림피아코스_FC).
 
 
-**PAE 올림피아코스** () 는 흔히 줄여서 **올림피아코스**, (Ολυμπιακός) **올림피아코스 피레아스** (Ολυμπιακός Πειραιάς) 로 알려져 있으며, 공식명칭이 **올림피아코스 신데스모스 필라틀로스 피레아스** (, "피레아스 팬들의 올림피아코스 클럽") 인 그리스의 프로 [축구](../Page/축구.md "wikilink") 클럽이자, [아테네](../Page/아테네.md "wikilink") [도시권](https://ko.wikipedia.org/wiki/도시권 "wikilink")인 [피레아스](../Page/피레아스.md "wikilink")를 연고로 하는 종합 스포츠 클럽 [올림피아코스 CFP의](https://ko.wikipedia.org/wiki/올림피아코스_CFP "wikilink") 축구부이다.
+**PAE 올림피아코스**()는 흔히 줄여서 **올림피아코스**, (Ολυμπιακός) **올림피아코스 피레아스**(Ολυμπιακός Πειραιάς) 로 알려져 있으며, 공식명칭이 **올림피아코스 신데스모스 필라틀로스 피레아스**(, "피레아스 팬들의 올림피아코스 클럽") 인 그리스의 프로 [축구](../Page/축구.md "wikilink") 클럽이자, [아테네](../Page/아테네.md "wikilink") [도시권](https://ko.wikipedia.org/wiki/도시권 "wikilink")인 [피레아스](../Page/피레아스.md "wikilink")를 연고로 하는 종합 스포츠 클럽 [올림피아코스 CFP의](https://ko.wikipedia.org/wiki/올림피아코스_CFP "wikilink") 축구부이다.
 
 올림피아코스는 [그리스 축구 역사상](https://ko.wikipedia.org/wiki/그리스의_축구 "wikilink") [가장 성공적인](https://ko.wikipedia.org/wiki/우승_횟수에_따른_그리스_축구_클럽_목록 "wikilink") 클럽으로,\[1\] [그리스 리그를](../Page/수페르리가_엘라다.md "wikilink") 41번,\[2\] [그리스 컵을](../Page/그리스_컵.md "wikilink") 26번\[3\] 우승해 [더블을](../Page/더블_\(축구\).md "wikilink") 16번 달성했고,\[4\] [그리스 슈퍼컵도](https://ko.wikipedia.org/wiki/그리스_슈퍼컵 "wikilink") 4번 우승해 국내대회에서 총 71회의 우승을 거두었고, 모든 부문에서 최다 기록을 내고 있다. 올림피아코스의 압도적인 성공은 다른 그리스 클럽들의 리그 우승 횟수를 합치면 총 37회밖에 되지 못한다는 것으로 증명될 수 있다.\[5\] 올림피아코스는 그리스 리그 최다 연속 우승 기록을 지니고 있는데, [리그 7연패](../Page/수페르리가_엘라다.md "wikilink") ([알파 에트니키 1996-97 시즌부터](https://ko.wikipedia.org/wiki/알파_에트니키_1996-97_시즌 "wikilink") [2002-03 시즌](https://ko.wikipedia.org/wiki/알파_에트니키_2002-03 "wikilink")) 로 종전의 6연패 ([1953-54 시즌부터](https://ko.wikipedia.org/wiki/범그리스_리그_1953-54 "wikilink") [1958-59 시즌](https://ko.wikipedia.org/wiki/범그리스_리그_1958-59 "wikilink")) 기록을 경신했다.\[6\] 더 나아가서 [파나티나이코스](https://ko.wikipedia.org/wiki/파나티나이코스_FC "wikilink"), [PAOK와](../Page/PAOK_FC.md "wikilink") 더불어 그리스 축구 1부리그에서 [강등 경험이 없는](https://ko.wikipedia.org/wiki/강등된_적이_없는_축구단_목록 "wikilink") 세 구단들 중 하나이다. 유럽대항전에서 올림피아코스는 [UEFA 챔피언스리그 1998-99](https://ko.wikipedia.org/wiki/UEFA_챔피언스리그_1998-99 "wikilink")\[7\] 와 [유러피언 컵위너스컵 1992-93](https://ko.wikipedia.org/wiki/유러피언_컵위너스컵_1992-93 "wikilink")\[8\] 에서 8강에 진출했었다. 또한, 올림피아코스는 [유럽 클럽 협회의](../Page/유럽_클럽_협회.md "wikilink") 창립 멤버이다.\[9\]
 
@@ -306,28 +306,28 @@ Olympiakára mou.
 <tbody>
 <tr class="odd">
 <td><p>최다 점수차 승리</p></td>
-<td><p><strong>11–0</strong> (<a href="https://ko.wikipedia.org/wiki/포스티라스_FC" title="wikilink">포스티라스전</a>, <a href="https://ko.wikipedia.org/wiki/알파_에트니키_1973-74" title="wikilink">1973–74 시즌</a>)</p></td>
+<td><p><strong>11–0</strong>(<a href="https://ko.wikipedia.org/wiki/포스티라스_FC" title="wikilink">포스티라스전</a>, <a href="https://ko.wikipedia.org/wiki/알파_에트니키_1973-74" title="wikilink">1973–74 시즌</a>)</p></td>
 </tr>
 <tr class="even">
 <td><p>한 시즌 최다승</p></td>
-<td><p><strong>30승</strong> (<a href="https://ko.wikipedia.org/wiki/알파_에트니키_1999-2000" title="wikilink">1999–2000 시즌</a>)</p></td>
+<td><p><strong>30승</strong>(<a href="https://ko.wikipedia.org/wiki/알파_에트니키_1999-2000" title="wikilink">1999–2000 시즌</a>)</p></td>
 </tr>
 <tr class="odd">
 <td><p>한 시즌 최다골</p></td>
-<td><p><strong>102골</strong> (<a href="https://ko.wikipedia.org/wiki/알파_에트니키_1973-74" title="wikilink">1973–74 시즌</a>)</p></td>
+<td><p><strong>102골</strong>(<a href="https://ko.wikipedia.org/wiki/알파_에트니키_1973-74" title="wikilink">1973–74 시즌</a>)</p></td>
 </tr>
 <tr class="even">
 <td><p>한 시즌 최소실점</p></td>
-<td><p><strong>13실점</strong> (<a href="https://ko.wikipedia.org/wiki/알파_에트니키_1972-73" title="wikilink">1972–73 시즌</a>)</p></td>
+<td><p><strong>13실점</strong>(<a href="https://ko.wikipedia.org/wiki/알파_에트니키_1972-73" title="wikilink">1972–73 시즌</a>)</p></td>
 </tr>
 <tr class="odd">
 <td><p>최다 연승 기록</p></td>
-<td><p><strong>16연승</strong> (<a href="https://ko.wikipedia.org/wiki/알파_에트니키_2005-06" title="wikilink">2005–06 시즌</a> 8라운드<br />
+<td><p><strong>16연승</strong>(<a href="https://ko.wikipedia.org/wiki/알파_에트니키_2005-06" title="wikilink">2005–06 시즌</a> 8라운드<br />
 – <a href="https://ko.wikipedia.org/wiki/알파_에트니키_2005-06" title="wikilink">2005–06 시즌</a> 23라운드)</p></td>
 </tr>
 <tr class="even">
 <td><p>최다 경기 무패 기록</p></td>
-<td><p><strong>58경기</strong> (<a href="https://ko.wikipedia.org/wiki/알파_에트니키_1972-73" title="wikilink">1972–73 시즌</a> 3라운드<br />
+<td><p><strong>58경기</strong>(<a href="https://ko.wikipedia.org/wiki/알파_에트니키_1972-73" title="wikilink">1972–73 시즌</a> 3라운드<br />
 – <a href="https://ko.wikipedia.org/wiki/알파_에트니키_1973-74" title="wikilink">1973–74 시즌</a> 27라운드)</p></td>
 </tr>
 </tbody>

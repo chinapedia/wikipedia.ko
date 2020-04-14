@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  Z](https://ko.wikipedia.org/wiki/__Z).
+> This article is converted from Wikipedia: [거북이 특공대 Z](https://ko.wikipedia.org/wiki/거북이_특공대_Z).
 
 
 《**거북이 특공대 Z**》()는 [미국](../Page/미국.md "wikilink")의 미라지 스튜디오와 [대한민국](../Page/대한민국.md "wikilink")의 동우 애니메이션이 협력제작을 하여 탄생하게 된 [닌자 거북이의](../Page/닌자_거북이.md "wikilink") 새로운 애니메이션 시리즈이다. 캐릭터 디자인이 1987년 시리즈보다 상당히 날카로워졌고, 분위기도 훨씬 어둡게 재현이 되었다. 미국에서는 2003년 2월 8일에 시즌1을 방영하기 시작해서, 2009년 11월 21일에 Turtles Forever를 끝으로 종영하였다.

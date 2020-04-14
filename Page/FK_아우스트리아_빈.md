@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FK  ](https://ko.wikipedia.org/wiki/FK__).
+> This article is converted from Wikipedia: [FK 아우스트리아 빈](https://ko.wikipedia.org/wiki/FK_아우스트리아_빈).
 
 
 **FK 아우스트리아 빈**(FK Austria Wien)은 [오스트리아](../Page/오스트리아.md "wikilink")의 수도 [빈](../Page/빈.md "wikilink")을 연고로 하는 오스트리아 [축구](../Page/축구.md "wikilink") 클럽이다. 오스트리아 리그 1911–12 시즌에 참가한 이래로 총 24번으로, [오스트리아 분데스리가를](../Page/푸스발-분데스리가_\(오스트리아\).md "wikilink") 두번째로 많이 우승했다. 같은 도시를 연고로 하는 경쟁팀 [라피트 빈과](../Page/SK_라피트_빈.md "wikilink") 함께 오스트리아 1부 리그에서 단 한번도 강등되지 않은 유일한 팀이기도 하다. [오스트리아 컵](https://ko.wikipedia.org/wiki/오스트리아_컵 "wikilink") 27회, [오스트리아 슈퍼컵](https://ko.wikipedia.org/wiki/오스트리아_슈퍼컵 "wikilink") 6회 우승 기록을 가진 아우스트리아 빈은 앞에 언급한 대회들에서 가장 많은 우승을 했고, 오스트리아 클럽들 중 자국 리그 우승을 가장 많이 했다. [UEFA 컵위너스컵](../Page/UEFA_컵위너스컵.md "wikilink") [1977-78](https://ko.wikipedia.org/wiki/UEFA_컵위너스컵_1977-78 "wikilink") 시즌에는 결승전, 그 다음 시즌 [유러피언 컵](https://ko.wikipedia.org/wiki/유러피언_컵 "wikilink") 8강까지 올랐다. 홈구장은 [프란츠 호어 슈타디온이며](https://ko.wikipedia.org/wiki/프란츠_호어_슈타디온 "wikilink"), 2010년에 이탈리아 보험사와의 명칭 사용권 계약으로 [제네랄리](https://ko.wikipedia.org/wiki/제네랄리_그룹 "wikilink") 아레나라고도 알려져 있다.

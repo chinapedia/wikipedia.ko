@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ B ](https://ko.wikipedia.org/wiki/_B_).
+> This article is converted from Wikipedia: [프리메라 B 나시오날](https://ko.wikipedia.org/wiki/프리메라_B_나시오날).
 
 
 <table>
@@ -60,7 +60,7 @@
 </tbody>
 </table>
 
-**프리메라 B 나시오날** ()은 [아르헨티나](../Page/아르헨티나.md "wikilink") [축구](../Page/축구.md "wikilink")의 2부 [리그이다](https://ko.wikipedia.org/wiki/리그_\(스포츠\) "wikilink"). [아르헨티나 축구 협회](../Page/아르헨티나_축구_협회.md "wikilink")()에서 주관하며 20개의 팀으로 구성되어 있다.
+**프리메라 B 나시오날**()은 [아르헨티나](../Page/아르헨티나.md "wikilink") [축구](../Page/축구.md "wikilink")의 2부 [리그이다](https://ko.wikipedia.org/wiki/리그_\(스포츠\) "wikilink"). [아르헨티나 축구 협회](../Page/아르헨티나_축구_협회.md "wikilink")()에서 주관하며 20개의 팀으로 구성되어 있다.
 
 [부에노스아이레스](../Page/부에노스아이레스.md "wikilink")와 주변의 [수도권](https://ko.wikipedia.org/wiki/그란_부에노스아이레스 "wikilink") 클럽들이 참가하는 [프리메라 B 메트로폴리타나](../Page/프리메라_B_메트로폴리타나.md "wikilink")()와 그 밖의 다른 지역 팀들이 참가하는 [토르네오 아르헨티노 A](https://ko.wikipedia.org/wiki/토르네오_아르헨티노_A "wikilink")()가 하부리그로 존재한다.
 

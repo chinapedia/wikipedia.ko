@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [A\* ](https://ko.wikipedia.org/wiki/A\*_).
+> This article is converted from Wikipedia: [A\* 알고리즘](https://ko.wikipedia.org/wiki/A\*_알고리즘).
 
 
 [전산학](../Page/컴퓨터_과학.md "wikilink") 분야에 있어서, **A\* 알고리즘**()은 주어진 출발 꼭짓점에서부터 목표 꼭짓점까지 가는 최단 [경로를](../Page/경로_\(그래프_이론\).md "wikilink") 찾아내는(다시 말해 주어진 목표 꼭짓점까지 가는 최단 경로임을 판단할 수 있는 테스트를 통과하는) [그래프/트리 탐색 알고리즘](https://ko.wikipedia.org/wiki/트리_탐색_알고리즘 "wikilink") 중 하나이다. 이 알고리즘은 각 꼭짓점 \(x\)에 대해 그 꼭짓점을 통과하는 최상의 경로를 추정하는 순위값인 "휴리스틱 추정값 " \(h(x)\) 을 매기는 방법을 쓴다. 이 알고리즘은 이 휴리스틱 추정값의 순서로 꼭짓점을 방문한다. 그러므로 A\* 알고리즘을 [너비 우선 탐색의](../Page/너비_우선_탐색.md "wikilink") 한 예로 분류할 수 있다.

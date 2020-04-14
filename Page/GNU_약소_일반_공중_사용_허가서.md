@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [GNU     ](https://ko.wikipedia.org/wiki/GNU_____).
+> This article is converted from Wikipedia: [GNU 약소 일반 공중 사용 허가서](https://ko.wikipedia.org/wiki/GNU_약소_일반_공중_사용_허가서).
 
 
 **GNU 약소 일반 공중 사용 허가서**([GNU](../Page/GNU.md "wikilink") Lesser General Public License, 예전 이름은 **GNU 라이브러리 일반 공중 사용 허가서**(GNU Library General Public License), **LGPL**)는 [자유 소프트웨어 재단의](../Page/자유_소프트웨어_재단.md "wikilink") [자유 소프트웨어](../Page/자유_소프트웨어.md "wikilink") 라이선스이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [O ](https://ko.wikipedia.org/wiki/O_).
+> This article is converted from Wikipedia: [O형 주계열성](https://ko.wikipedia.org/wiki/O형_주계열성).
 
 
 [섬네일의](https://ko.wikipedia.org/wiki/파일:10_Lacertae_Celestia.jpg "wikilink") [셀레스티아](../Page/셀레스티아.md "wikilink") 시뮬레이션.\]\] **O형 주계열성**은 분광형은 O에 광도분류로는 V에 해당하는 [주계열](../Page/주계열.md "wikilink")성이다. 주계열 단계이므로 중심핵에서 [수소](../Page/수소.md "wikilink")를 태우는 단계에 있다. 질량은 태양의 15 \~ 90배 정도 되고, [표면온도는](../Page/유효온도.md "wikilink") 30,000 \~ 52,000 켈빈 정도이다. 밝기는 태양의 30,000 \~ 1,000,000 배에 이른다.\[1\]\[2\] O형 주계열성은 흔치 않아 [우리 은하에](https://ko.wikipedia.org/wiki/우리_은하 "wikilink") 2만 개 남짓 정도 있을 것으로 추정된다.\[3\] 대표적으로는 [오리온자리 시그마](../Page/오리온자리_시그마.md "wikilink") A, [도마뱀자리 10](../Page/도마뱀자리_10.md "wikilink"), [나오스](../Page/나오스.md "wikilink")가 있다.\[4\]\[5\]

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [BNP ](https://ko.wikipedia.org/wiki/BNP_).
+> This article is converted from Wikipedia: [BNP 파리바](https://ko.wikipedia.org/wiki/BNP_파리바).
 
 
 **BNP 파리바 S.A.**(, )는 [프랑스](../Page/프랑스.md "wikilink") [파리에](../Page/파리_\(프랑스\).md "wikilink") 본점을 둔 프랑스 최대 은행 그룹이다. [2000년](../Page/2000년.md "wikilink") 파리 국립은행(Banque Nationale de Paris, BNP)와 파리바(Paribas)가 합병하여 탄생해 [유로](../Page/유로.md "wikilink")통화권에서는 최대 규모의 금융 그룹이 되었다.

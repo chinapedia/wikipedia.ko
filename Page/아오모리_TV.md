@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ TV](https://ko.wikipedia.org/wiki/_TV).
+> This article is converted from Wikipedia: [아오모리 TV](https://ko.wikipedia.org/wiki/아오모리_TV).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:ATV-Aomori.JPG "wikilink") **아오모리 TV**는 [1969년](../Page/1969년.md "wikilink") [12월 1일](../Page/12월_1일.md "wikilink") [아오모리현](../Page/아오모리현.md "wikilink")의 2번째 민영방송국으로 개국했다.

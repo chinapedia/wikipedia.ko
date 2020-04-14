@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [RC ](https://ko.wikipedia.org/wiki/RC_).
+> This article is converted from Wikipedia: [RC 스트라스부르](https://ko.wikipedia.org/wiki/RC_스트라스부르).
 
 
 **라싱 클뢰브 드 스트라스부르**(Racing Club de Strasbourg)는 1906년에 창설된 프랑스의 축구 클럽으로, 알자스의 [스트라스부르](../Page/스트라스부르.md "wikilink")를 연고로 하고 있다. 1933년에 이래로 프로 축구단의 지위를 보유하고 있으며, [리그 2](../Page/리그_2.md "wikilink") 2016-17 시즌을 우승하며, 프랑스의 최상위 리그 [리그 1의](https://ko.wikipedia.org/wiki/리그_1 "wikilink") 2017-18 시즌을 참가중이다. 재정 문제로 파산을 한 후, 5부 리그에 해당하는 2010-11 시즌 [샹피오나 나시오날로](../Page/샹피오나_나시오날.md "wikilink") 강등당한 것을 올라온 것이다. RC 스트라스부르 알자스 (RC Strasbourg Alsace)로 개명을 한 뒤, 2012-13 시즌에 CFA 대회를 우승했고, 마침내 2015–16년에는 샹피오나 나시오날을 우승했다.

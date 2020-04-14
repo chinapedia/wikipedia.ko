@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [USS  \(CVN-65\)](https://ko.wikipedia.org/wiki/USS__\(CVN-65\)).
+> This article is converted from Wikipedia: [USS 엔터프라이즈 \(CVN-65\)](https://ko.wikipedia.org/wiki/USS_엔터프라이즈_\(CVN-65\)).
 
 
 [right](https://ko.wikipedia.org/wiki/파일:USS_Enterprise_\(CVN-65\)_coat_of_arms.png "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:USS_Enterprise_FS_Charles_de_Gaulle.jpg "wikilink") [섬네일이](https://ko.wikipedia.org/wiki/파일:USS_Enterprise_\(CVN-65\)_burning,_stern_view.jpg "wikilink") 폭발했다. 500파운드 폭탄이 18번 연쇄폭발했다. 비행갑판에 20피트 구멍이 났으며, 28명이 사망하고 343명이 부상했고, 15대의 전투기가 파손되었다.\]\] [섬네일](https://ko.wikipedia.org/wiki/파일:Aircraft_burning_on_USS_Enterprise_\(CVN-65\).jpg "wikilink") **엔터프라이즈급 항공모함**은 원래 6척이 계획되었으나 1번함인 CVN-65 엔터프라이즈만 건조된, 미국 해군의 항공모함이다. 세계 최초의 원자력 항공모함이다. [제2차 세계 대전](../Page/제2차_세계_대전.md "wikilink") 중의 재래식 동력 항공모함이었던 [CV-6 엔터프라이즈의](https://ko.wikipedia.org/wiki/CV-6_엔터프라이즈 "wikilink") 함명을 계승했다.

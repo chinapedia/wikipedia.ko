@@ -1,13 +1,13 @@
-> This article is converted from Wikipedia: [e](https://ko.wikipedia.org/wiki/e).
+> This article is converted from Wikipedia: [지식채널e](https://ko.wikipedia.org/wiki/지식채널e).
 
 
 **지식채널e**는 [한국교육방송공사](../Page/한국교육방송공사.md "wikilink")(EBS)에서 방송하는 5분 정도 길이의 단편 시사·교양 프로그램이다. 방송명의 e는 education people science 등 여러 주제어를 함축하고 있으며, 각 에피소드의 처음에는 '지식채널e'라는 프로그램명과 연이어 이 주제어 중 하나가 보이게 된다.
 
-주제의 출처는 그림동화에서부터, 논문까지 다양하며 시청자의 의견을 반영하여 주제를 선택하기도 한다.
+주제의 출처는 그림동화에서부터, 논문까지 다양하며 시청자의 의견을 반영하여 주제를 선택하기도 한다. 때로는 논란이 되는 사회 문제를 깊이 있는 시각과 감각적인 표현을 통하여 어느 한 쪽에 치우치지 않고 객관성을 유지하여 제기하기도 한다.
 
 지식채널e는 일반 다큐멘터리와 다르게 나레이션이 삽입되지 않고 대신 배경음악이 삽입되는데, 이 배경음악은 주제와 일치하여 전달하고자 하는 메시지를 직접적으로 드러내기도 하고 때론 반대의 방법으로 주제를 강조하기도 한다.
 
-방송 프로그램으로서는 이례적으로 각 에피소드 끝에 자료의 출처를 명시하며, 논술·구술 수업에 대한 안내도 하고 있다. 일정 기간 동안 방영한 에피소드의 내용을 모아 ‘지식 e’라는 이름의 책도 내는데, 2014년 11월 현재까지 어린이들을 위한 서적 다섯 권과 일반인들을 대상으로 한 서적 아홉 권이 출간되었다. 이외에도 현재까지 방영했던 경제 시리즈를 모아 ‘경제 e’라는 이름의 책도 2015년 11월 16일 출간되었다. 또 방영되었던 프로그램의 배경 음악을 간추려 음반을 출시하기도 하였다.
+방송 프로그램으로서는 이례적으로 각 에피소드 끝에 자료의 출처를 명시하며, 논술·구술 수업에 대한 안내도 하고 있다. 일정 기간 동안 방영한 에피소드의 내용을 모아 ‘지식 e’라는 이름의 책도 내는데, 2014년 11월 현재까지 어린이들을 위한 서적 다섯 권과 일반인들을 대상으로 한 서적 아홉 권이 출간되었다. 이외에도 현재까지 방영했던 경제 시리즈를 모아 ‘경제 e’라는 이름의 책도 2015년 11월 16일 출간되었다. 또 방영되었던 프로그램의 배경 음악을 간추려 음반을 출시하기도 하였다. 홈페이지에 가면 그 동안의 방송을 주제별, 연도별로 검색하여 다시보기 할 수 있다.
 
 ## 방송 시간
 
@@ -107,7 +107,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/2007년.md" title="wikilink">2007년</a> <a href="https://ko.wikipedia.org/wiki/2월_26일" title="wikilink">2월 26일</a> ~ <a href="../Page/2007년.md" title="wikilink">2007년</a> <a href="../Page/8월_24일.md" title="wikilink">8월 24일</a></p></td>
+<td><p>rowspan="3"" |<a href="../Page/2007년.md" title="wikilink">2007년</a> <a href="https://ko.wikipedia.org/wiki/2월_26일" title="wikilink">2월 26일</a> ~ <a href="../Page/2007년.md" title="wikilink">2007년</a> <a href="../Page/8월_24일.md" title="wikilink">8월 24일</a></p></td>
 <td><p>매주 <a href="https://ko.wikipedia.org/wiki/평일" title="wikilink">평일</a> 밤 9:20 ~ 9:30 (10분)</p></td>
 <td></td>
 </tr>
@@ -291,7 +291,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/2019년.md" title="wikilink">2019년</a> <a href="../Page/8월_26일.md" title="wikilink">8월 26일</a> ~ <strong>현재</strong></p></td>
+<td><p><a href="../Page/2019년.md" title="wikilink">2019년</a> <a href="../Page/8월_26일.md" title="wikilink">8월 26일</a> ~ <a href="../Page/2020년.md" title="wikilink">2020년</a> <a href="../Page/3월_26일.md" title="wikilink">3월 26일</a></p></td>
 <td><p>매주 <a href="../Page/월요일.md" title="wikilink">월요일</a> ~ <a href="../Page/목요일.md" title="wikilink">목요일</a> 새벽 1:00 ~ 1:05 (5분)</p></td>
 <td></td>
 </tr>
@@ -356,4 +356,4 @@
 
   - [지식채널e - 한국교육방송공사](http://home.ebs.co.kr/jisike)
 
-[분류:한국교육방송공사의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:한국교육방송공사의_텔레비전_프로그램 "wikilink") [분류:2005년에 시작한 대한민국 TV 프로그램](https://ko.wikipedia.org/wiki/분류:2005년에_시작한_대한민국_TV_프로그램 "wikilink")
+[분류:한국교육방송공사의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:한국교육방송공사의_텔레비전_프로그램 "wikilink")

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ VSC](https://ko.wikipedia.org/wiki/_VSC).
+> This article is converted from Wikipedia: [데브레첸 VSC](https://ko.wikipedia.org/wiki/데브레첸_VSC).
 
 
 **데브레첸 VSC**()는 [헝가리](../Page/헝가리.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽으로, 헝가리 동쪽에 위치한 헝가리 제2의 도시 [데브레첸](../Page/데브레첸.md "wikilink")에 연고를 삼고 있다.

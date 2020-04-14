@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Everlasting \(\)](https://ko.wikipedia.org/wiki/Everlasting_\(\)).
+> This article is converted from Wikipedia: [Everlasting \(노래\)](https://ko.wikipedia.org/wiki/Everlasting_\(노래\)).
 
 
 〈**Everlasting**〉은 가수 [보아](../Page/보아.md "wikilink")의 싱글이다. 이 싱글은 [한국](../Page/한국.md "wikilink")에서는 4번째 싱글, [일본](../Page/일본.md "wikilink")에서는 18번째 싱글로 동시발매되었다.

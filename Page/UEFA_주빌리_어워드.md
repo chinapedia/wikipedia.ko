@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [UEFA  ](https://ko.wikipedia.org/wiki/UEFA__).
+> This article is converted from Wikipedia: [UEFA 주빌리 어워드](https://ko.wikipedia.org/wiki/UEFA_주빌리_어워드).
 
 
 **UEFA 주빌리 어워드**()는 [유럽 축구 연맹](../Page/유럽_축구_연맹.md "wikilink")(UEFA) 창립 50주년을 기념하기 위해 수여된 특별상이다.

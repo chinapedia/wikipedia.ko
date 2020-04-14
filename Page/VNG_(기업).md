@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [VNG \(\)](https://ko.wikipedia.org/wiki/VNG_\(\)).
+> This article is converted from Wikipedia: [VNG \(기업\)](https://ko.wikipedia.org/wiki/VNG_\(기업\)).
 
 
 **VNG** (구 비나게임)은 2004년 9월에 설립된 인터넷과 온라인 경영 회사이다. VNG는 Zalo, Zing MP3, 123Pay, CSM등 인기를 끈 제품들의 소유자이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [UIC ](https://ko.wikipedia.org/wiki/UIC_).
+> This article is converted from Wikipedia: [UIC 분류](https://ko.wikipedia.org/wiki/UIC_분류).
 
 
 **[UIC](https://ko.wikipedia.org/wiki/국제_철도_연맹 "wikilink") 분류**는 [기관차](../Page/기관차.md "wikilink"), [동차](../Page/동차.md "wikilink") 및 [노면전차](../Page/노면전차.md "wikilink")의 [차륜 배치를](../Page/차륜_배치.md "wikilink") 표기하기 위한 포괄적인 체계이다.

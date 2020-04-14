@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [-ute](https://ko.wikipedia.org/wiki/-ute).
+> This article is converted from Wikipedia: [℃-ute](https://ko.wikipedia.org/wiki/℃-ute).
 
 
 **℃-ute**(, )는 [헬로\! 프로젝트에](../Page/헬로!_프로젝트.md "wikilink") 소속된 [일본](../Page/일본.md "wikilink")의 5인조 [여성](../Page/여성.md "wikilink") [아이돌](https://ko.wikipedia.org/wiki/아이돌_가수 "wikilink") [그룹이다](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink"). [2017년](../Page/2017년.md "wikilink") [6월 12일을](../Page/6월_12일.md "wikilink") 기해 그룹을 해산했다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ ATA](https://ko.wikipedia.org/wiki/_ATA).
+> This article is converted from Wikipedia: [병렬 ATA](https://ko.wikipedia.org/wiki/병렬_ATA).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:ATA_cables.jpg "wikilink") **병렬 ATA**(Parallel ATA, , 이전 이름: 고급 기술 결합/Advanced Technology Attachment, ATA\[1\])은 [개인용 컴퓨터](../Page/개인용_컴퓨터.md "wikilink") 안에서 [하드 디스크](https://ko.wikipedia.org/wiki/하드_디스크 "wikilink"), [CD-ROM](../Page/CD-ROM.md "wikilink") 드라이브와 같은 [기억 장치를](../Page/기억_장치.md "wikilink") 연결하는 [표준](https://ko.wikipedia.org/wiki/표준 "wikilink") [인터페이스이다](https://ko.wikipedia.org/wiki/물리_인터페이스 "wikilink").

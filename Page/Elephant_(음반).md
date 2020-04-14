@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Elephant \(\)](https://ko.wikipedia.org/wiki/Elephant_\(\)).
+> This article is converted from Wikipedia: [Elephant \(음반\)](https://ko.wikipedia.org/wiki/Elephant_\(음반\)).
 
 
 《**Elephant**》는 [미국](../Page/미국.md "wikilink")의 [록](https://ko.wikipedia.org/wiki/록 "wikilink") 밴드 [화이트 스트라입스의](https://ko.wikipedia.org/wiki/화이트_스트라입스 "wikilink") 네 번째 정규 앨범이다. 화이트 스트라입스 앨범 중 평단과 대중의 찬사를 동시에 받으며 특히 많은 사랑을 받은 작품이다. 제46회 [그래미상](https://ko.wikipedia.org/wiki/그래미상 "wikilink") 최고의 얼터너티브 앨범 부분에 선정되었고 수록곡 "Seven Nation Army"는 최고의 록 음악 부분에 선정되었다.

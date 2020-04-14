@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Returns \(   \)](https://ko.wikipedia.org/wiki/Returns_\(___\)).
+> This article is converted from Wikipedia: [Returns \(엠씨 더 맥스의 음반\)](https://ko.wikipedia.org/wiki/Returns_\(엠씨_더_맥스의_음반\)).
 
 
 《***Returns***》는 [엠씨 더 맥스의](https://ko.wikipedia.org/wiki/엠씨_더_맥스 "wikilink") 다섯 번째 정규 음반이다.

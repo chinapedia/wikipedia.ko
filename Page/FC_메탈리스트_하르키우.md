@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FC  ](https://ko.wikipedia.org/wiki/FC__).
+> This article is converted from Wikipedia: [FC 메탈리스트 하르키우](https://ko.wikipedia.org/wiki/FC_메탈리스트_하르키우).
 
 
 **FC 메탈리스트 하르키우**(, )는 [우크라이나](../Page/우크라이나.md "wikilink") 북동부의 [하르키우](../Page/하르키우.md "wikilink")를 연고지로 삼은 옛 [축구](../Page/축구.md "wikilink") 클럽으로 [1925년](../Page/1925년.md "wikilink") 창단되었다. [2016년](../Page/2016년.md "wikilink") 재정 악화로 인해 해체되었다.

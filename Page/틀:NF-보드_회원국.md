@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:NF- ](https://ko.wikipedia.org/wiki/:NF-_).
+> This article is converted from Wikipedia: [틀:NF-보드 회원국](https://ko.wikipedia.org/wiki/틀:NF-보드_회원국).
 
 
 <onlyinclude></onlyinclude>

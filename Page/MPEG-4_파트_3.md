@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [MPEG-4  3](https://ko.wikipedia.org/wiki/MPEG-4__3).
+> This article is converted from Wikipedia: [MPEG-4 파트 3](https://ko.wikipedia.org/wiki/MPEG-4_파트_3).
 
 
 **MPEG-4 파트 3** 또는 **MPEG-4 오디오**(과거 ISO/IEC 14496-3)는 [MPEG](../Page/MPEG.md "wikilink")가 개발한 ISO/IEC MPEG-4 국제 표준의 세 번째 부분이다.\[1\] [오디오 부호화](https://ko.wikipedia.org/wiki/오디오_부호화 "wikilink") 방식을 규정한다. ISO/IEC 14496-3의 최초 버전은 1999년에 게시되었다.\[2\]

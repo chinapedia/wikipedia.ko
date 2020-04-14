@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [NHK  ](https://ko.wikipedia.org/wiki/NHK__).
+> This article is converted from Wikipedia: [NHK 오쓰 방송국](https://ko.wikipedia.org/wiki/NHK_오쓰_방송국).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:NHK_Otsu_Broadcasting_Station_Bldg_20090509-001.jpg "wikilink") **NHK 오쓰 방송국**(大津 放送局)은 [시가현](../Page/시가현.md "wikilink")을 방송구역으로 하는 [NHK](https://ko.wikipedia.org/wiki/NHK "wikilink")의 지역방송국이며 중파·FM라디오·텔레비전 방송을 담당하고 있다.

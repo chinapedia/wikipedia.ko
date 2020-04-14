@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [CB ](https://ko.wikipedia.org/wiki/CB_).
+> This article is converted from Wikipedia: [CB 매스](https://ko.wikipedia.org/wiki/CB_매스).
 
 
 **CB 매스**(CB Mass, Critical Brain Mass)는 [커빈](https://ko.wikipedia.org/wiki/커빈 "wikilink"), [최자](../Page/최자.md "wikilink"), [개코](../Page/개코.md "wikilink")로 이루어진 [대한민국](../Page/대한민국.md "wikilink")의 3인조 남성 힙합 그룹이다. 2000년에 데뷔하였고, 힙합 크루 [무브먼트의](../Page/무브먼트_\(힙합_크루\).md "wikilink") 멤버로도 활동하였다. 2003년 5월 6일 내부 분열로 해체하였으나,\[1\] 멤버 중 [최자](../Page/최자.md "wikilink")와 [개코](../Page/개코.md "wikilink")는 2004년 2인조 힙합 그룹 [다이나믹 듀오를](../Page/다이나믹_듀오.md "wikilink") 결성하여 활동하게 되었다.

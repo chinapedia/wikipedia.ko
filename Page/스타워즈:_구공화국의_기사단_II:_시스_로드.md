@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:   II:  ](https://ko.wikipedia.org/wiki/:___II:__).
+> This article is converted from Wikipedia: [스타워즈: 구공화국의 기사단 II: 시스 로드](https://ko.wikipedia.org/wiki/스타워즈:_구공화국의_기사단_II:_시스_로드).
 
 
 《**스타워즈: 구공화국의 기사단 II: 시스 로드**》(**)는 《[스타워즈: 구공화국의 기사단](../Page/스타워즈:_구공화국의_기사단.md "wikilink")》(**)의 후속작으로, [옵시디언 엔터테인먼트가](../Page/옵시디언_엔터테인먼트.md "wikilink") 개발하고 [루커스아츠](https://ko.wikipedia.org/wiki/루커스아츠 "wikilink")가 발행한 [롤플레잉 게임이다](https://ko.wikipedia.org/wiki/롤플레잉_게임 "wikilink"). [2004년](../Page/2004년.md "wikilink") [12월 6일](../Page/12월_6일.md "wikilink") [마이크로소프트](../Page/마이크로소프트.md "wikilink") [엑스박스](../Page/엑스박스.md "wikilink") 버전으로 처음 발매되었으며, [2005년](../Page/2005년.md "wikilink") [2월 8일에](../Page/2월_8일.md "wikilink") [PC](../Page/개인용_컴퓨터.md "wikilink") 버전이 출시되었다. 전작에 비해 플레이어 캐릭터의 레벨 상한선이 50 레벨으로 높아졌다.

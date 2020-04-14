@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [MBC ](https://ko.wikipedia.org/wiki/MBC_).
+> This article is converted from Wikipedia: [MBC게임 스타리그](https://ko.wikipedia.org/wiki/MBC게임_스타리그).
 
 
 **MBC게임 스타리그**(MBC Game Star League)는 [MBC 플러스 미디어와](https://ko.wikipedia.org/wiki/MBC_플러스_미디어 "wikilink") [일간스포츠](../Page/일간스포츠.md "wikilink")가 주최하는 [KeSPA](https://ko.wikipedia.org/wiki/KeSPA "wikilink")공인 스타크래프트 개인리그였다.

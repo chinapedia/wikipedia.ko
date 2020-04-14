@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FIFA U-20 ](https://ko.wikipedia.org/wiki/FIFA_U-20_).
+> This article is converted from Wikipedia: [FIFA U-20 월드컵](https://ko.wikipedia.org/wiki/FIFA_U-20_월드컵).
 
 
 **FIFA U-20 월드컵**(FIFA U-20 World Cup)은 [국제 축구 연맹](../Page/국제_축구_연맹.md "wikilink")(FIFA) 주관으로 2년마다 열리는 청소년 [축구](../Page/축구.md "wikilink") 대회이다. 각국의 20세 이하 남자 축구 대표팀이 참가한다. 이 대회는 [2005년](../Page/2005년.md "wikilink")까지 **FIFA 세계 청소년 축구 선수권 대회**(FIFA World Youth Championship)라는 명칭으로 불리기도 했다.

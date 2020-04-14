@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [OECD IT ](https://ko.wikipedia.org/wiki/OECD_IT_).
+> This article is converted from Wikipedia: [OECD IT 장관회의](https://ko.wikipedia.org/wiki/OECD_IT_장관회의).
 
 
 **OECD IT 장관회의**(인터넷 경제의 미래에 관한 OECD 장관회의, OECD Ministerial Meeting on the Future of the Internet Economy)는 [OECD](https://ko.wikipedia.org/wiki/OECD "wikilink")가 주관하는 장관급 국제회의로 [2008년](../Page/2008년.md "wikilink") [6월 17일부터](../Page/6월_17일.md "wikilink") [6월 18일까지](../Page/6월_18일.md "wikilink") [대한민국](../Page/대한민국.md "wikilink") [서울](https://ko.wikipedia.org/wiki/서울 "wikilink")에서 개최됐다.

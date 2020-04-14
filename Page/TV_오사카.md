@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TV ](https://ko.wikipedia.org/wiki/TV_).
+> This article is converted from Wikipedia: [TV 오사카](https://ko.wikipedia.org/wiki/TV_오사카).
 
 
 **주식회사 TV오사카**<small>(, Television Osaka Inc.)</small>는 1981년 설립된 [간사이](../Page/긴키_지방.md "wikilink") 광역권의 5번째 민영 방송사이다. 약칭은 TVO, 콜사인은 **JOBH-DTV**이며, [TXN방송국이다](../Page/TX네트워크.md "wikilink").

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SK  ](https://ko.wikipedia.org/wiki/SK__).
+> This article is converted from Wikipedia: [SK 슬라비아 프라하](https://ko.wikipedia.org/wiki/SK_슬라비아_프라하).
 
 
 **SK 슬라비아 프라하**(SK Slavia Praha)는 [프라하](https://ko.wikipedia.org/wiki/프라하 "wikilink")를 연고로 하는 [체코](../Page/체코.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다. 1993년에 분리 독립한 이후로, 두 번째로 가장 좋은 성적을 내고 있는 체코내 축구팀이다.

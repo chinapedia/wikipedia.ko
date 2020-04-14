@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [S-](https://ko.wikipedia.org/wiki/S-).
+> This article is converted from Wikipedia: [S-구역](https://ko.wikipedia.org/wiki/S-구역).
 
 
 <table>

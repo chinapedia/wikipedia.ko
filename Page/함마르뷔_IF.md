@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ IF](https://ko.wikipedia.org/wiki/_IF).
+> This article is converted from Wikipedia: [함마르뷔 IF](https://ko.wikipedia.org/wiki/함마르뷔_IF).
 
 
 **함마르뷔 IF**는 [스웨덴](../Page/스웨덴.md "wikilink")의 수도인 [스톡홀름](../Page/스톡홀름.md "wikilink")을 연고지로 하는 [축구](../Page/축구.md "wikilink") 클럽이다.

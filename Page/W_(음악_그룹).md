@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [W \( \)](https://ko.wikipedia.org/wiki/W_\(_\)).
+> This article is converted from Wikipedia: [W \(음악 그룹\)](https://ko.wikipedia.org/wiki/W_\(음악_그룹\)).
 
 
 **W**(, 더블유)는 [헬로\! 프로젝트에서](../Page/헬로!_프로젝트.md "wikilink") 활동했던, [쯔지 노조미와](https://ko.wikipedia.org/wiki/쯔지_노조미 "wikilink") [카고 아이로](../Page/카고_아이.md "wikilink") 구성된 [여성](../Page/여성.md "wikilink") [아이돌](https://ko.wikipedia.org/wiki/아이돌_가수 "wikilink") [듀엣](https://ko.wikipedia.org/wiki/듀엣 "wikilink")이다.

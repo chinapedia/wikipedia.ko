@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:  SSR](https://ko.wikipedia.org/wiki/:__SSR).
+> This article is converted from Wikipedia: [틀:나라자료 몰도바 SSR](https://ko.wikipedia.org/wiki/틀:나라자료_몰도바_SSR).
 
 
 <onlyinclude>{{  | 나라이름 = 몰도바 소비에트 사회주의 공화국 | 짧은이름 = 몰도바 SSR | 틀이름 = 몰도바 소비에트 사회주의 공화국 | 국기그림 = Flag of Moldavian SSR.svg | 국기그림-1925 = Flag of Moldavian Autonomous Soviet Socialist Republic (1925-1932).svg | 국기그림-1937 = Flag of Moldavian Autonomous Soviet Socialist Republic (1937-1938).svg | 국기그림-1938 = Flag of Moldavian Autonomous Soviet Socialist Republic.svg | 국기그림-1941 = Flag of the Moldavian Soviet Socialist Republic (1941-1952).svg | 국기그림-1990 = Flag of the Moldavian Soviet Socialist Republic (1990).svg | 국기그림-1990-비공식 = Flag of the Moldavian Soviet Socialist Republic (proposed).svg | 크기 =  | 이름 =  | 대체링크 =  | 변수 =  | 변수1 = 1925 | 변수2 = 1937 | 변수3 = 1938 | 변수4 = 1941 | 변수5 = 1990 | 변수6 = 1990-비공식 | 넘겨주기1 = | 관련문서1 = 소비에트 연방 | 관련문서2 = 몰도바 }}</onlyinclude>

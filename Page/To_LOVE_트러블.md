@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [To LOVE ](https://ko.wikipedia.org/wiki/To_LOVE_).
+> This article is converted from Wikipedia: [To LOVE 트러블](https://ko.wikipedia.org/wiki/To_LOVE_트러블).
 
 
 《**To LOVE 트러블**》()은 《[주간 소년 점프](../Page/주간_소년_점프.md "wikilink")》 [2006년](../Page/2006년.md "wikilink") 21·22호부터 [2009년](../Page/2009년.md "wikilink") 40호까지 연재된 [하세미 사키가](https://ko.wikipedia.org/wiki/하세미_사키 "wikilink") 쓰고 [야부키 켄타로가](https://ko.wikipedia.org/wiki/야부키_켄타로 "wikilink") 그린 [만화](../Page/만화.md "wikilink") 작품이다. 『To LOVE 트러블』의 완결 이후에는 [2010년](../Page/2010년.md "wikilink") [11월](../Page/11월.md "wikilink")부터 외전 시리즈인 『To LOVE 트러블 다크니스』()가 《[ジャンプSQ.](https://ko.wikipedia.org/wiki/ジャンプSQ. "wikilink")》에서 연재되기 시작하였다.

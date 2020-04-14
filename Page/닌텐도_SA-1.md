@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ SA-1](https://ko.wikipedia.org/wiki/_SA-1).
+> This article is converted from Wikipedia: [닌텐도 SA-1](https://ko.wikipedia.org/wiki/닌텐도_SA-1).
 
 
 [thumb](https://ko.wikipedia.org/wiki/파일:SA1_01.jpg "wikilink") **닌텐도 SA-1**(Super Accelerator 1)은 [슈퍼 패미컴의](../Page/슈퍼_패미컴.md "wikilink") 고사양 게임 구동을 위해 [닌텐도](../Page/닌텐도.md "wikilink")에서 개발한 [CPU다](../Page/중앙_처리_장치.md "wikilink").

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ FM ](https://ko.wikipedia.org/wiki/_FM_).
+> This article is converted from Wikipedia: [시즈오카 FM 방송](https://ko.wikipedia.org/wiki/시즈오카_FM_방송).
 
 
 **시즈오카 FM방송**은 일본의 FM라디오 방송국으로 [1983년](../Page/1983년.md "wikilink") [4월 1일](../Page/4월_1일.md "wikilink") 개국했으며 [시즈오카현](../Page/시즈오카현.md "wikilink")에서 방송을 실시하고 있다.

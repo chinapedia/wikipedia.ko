@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TV ](https://ko.wikipedia.org/wiki/TV_).
+> This article is converted from Wikipedia: [TV 시즈오카](https://ko.wikipedia.org/wiki/TV_시즈오카).
 
 
 [200px](https://ko.wikipedia.org/wiki/파일:Sut_logo.svg "wikilink") **TV 시즈오카**는 [1968년](../Page/1968년.md "wikilink") [12월 24일](../Page/12월_24일.md "wikilink") [시즈오카현](../Page/시즈오카현.md "wikilink")의 2번째 민영방송국으로 개국했다.

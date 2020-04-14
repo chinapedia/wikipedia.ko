@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [NHK  ](https://ko.wikipedia.org/wiki/NHK__).
+> This article is converted from Wikipedia: [NHK 하코다테 방송국](https://ko.wikipedia.org/wiki/NHK_하코다테_방송국).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:NHK-Hakodate-01.jpg "wikilink") **NHK 하코다테 방송국**(函館 放送局)은 [오시마 지청](../Page/오시마_지청_\(홋카이도\).md "wikilink"), [히야마 지청을](https://ko.wikipedia.org/wiki/히야마_지청 "wikilink") 방송구역으로 하는 NHK의 지역방송국이며 중파·FM라디오·텔레비전 방송을 담당하고 있다. 라디오 방송은 1932년 2월 6일에 시작되었으며 텔레비전 방송은 1957년 3월 22일에 시작되었다.

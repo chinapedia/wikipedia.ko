@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [MC ](https://ko.wikipedia.org/wiki/MC_).
+> This article is converted from Wikipedia: [MC 메타](https://ko.wikipedia.org/wiki/MC_메타).
 
 
 **MC 메타**(MC Meta, Tronical, 每他, , [1971년](../Page/1971년.md "wikilink") [12월 16일](../Page/12월_16일.md "wikilink") \~ )는 [대한민국](../Page/대한민국.md "wikilink")의 [힙합 음악가이다](../Page/힙합_음악.md "wikilink"). [나찰](https://ko.wikipedia.org/wiki/나찰 "wikilink")과 함께 [가리온](../Page/가리온.md "wikilink")을 이뤄 2장의 정규 음반과 2장의 싱글을 냈다. 정규 음반 2장 모두 명반이라는 평을 받았다. [DJ 렉스와](../Page/DJ_렉스.md "wikilink") 함께 [MC 메타 & DJ 렉스](https://ko.wikipedia.org/wiki/MC_메타_&_DJ_렉스 "wikilink") (MC Meta & DJ Wreckx)를 만들어 음반을 냈고, 역시 좋은 평가를 받았다.

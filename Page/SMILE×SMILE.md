@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SMILESMILE](https://ko.wikipedia.org/wiki/SMILESMILE).
+> This article is converted from Wikipedia: [SMILE×SMILE](https://ko.wikipedia.org/wiki/SMILE×SMILE).
 
 
 **SMILE×SMILE**은 [이이즈카 마유미의](../Page/이이즈카_마유미.md "wikilink") 7번째 [음반](../Page/음반.md "wikilink")이다. [2003년](../Page/2003년.md "wikilink") [7월 24일](../Page/7월_24일.md "wikilink")、[도쿠마 저팬 커뮤니케이션즈에서](https://ko.wikipedia.org/wiki/도쿠마_저팬_커뮤니케이션즈 "wikilink") 발매.

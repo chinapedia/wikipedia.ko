@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [NT](https://ko.wikipedia.org/wiki/NT).
+> This article is converted from Wikipedia: [NT백업](https://ko.wikipedia.org/wiki/NT백업).
 
 
 **NT백업**(NTBackup)은 [마이크로소프트 윈도우에](../Page/마이크로소프트_윈도우.md "wikilink") 내장된 백업 유틸리티로 1997년에 [윈도우 NT에](../Page/윈도우_NT.md "wikilink") 처음 도입되었으며, 그 뒤에 [윈도우 서버 2003](../Page/윈도우_서버_2003.md "wikilink"), [윈도우 2000](../Page/윈도우_2000.md "wikilink"), [윈도우 XP에도](../Page/윈도우_XP.md "wikilink") 포함되었다. BKF라는 사유 파일 형식을 사용하여 파일을 백업한다.

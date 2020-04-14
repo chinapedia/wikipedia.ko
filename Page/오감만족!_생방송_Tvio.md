@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [!  Tvio](https://ko.wikipedia.org/wiki/!__Tvio).
+> This article is converted from Wikipedia: [오감만족! 생방송 Tvio](https://ko.wikipedia.org/wiki/오감만족!_생방송_Tvio).
 
 
 **오감만족\! 생방송 Tvio**는 [OBS 경인TV에서](https://ko.wikipedia.org/wiki/OBS_경인TV "wikilink") [2007년](../Page/2007년.md "wikilink") [12월 31일부터](../Page/12월_31일.md "wikilink") [2008년](../Page/2008년.md "wikilink") [6월 20일까지](../Page/6월_20일.md "wikilink") 평일 오후 5:00 \~ 7:00에 방송했던 정보 쇼 프로그램이다. 현재는 종영됐고, 후속으로는 [생방송 투유가](https://ko.wikipedia.org/wiki/생방송_투유 "wikilink") 방송된다.

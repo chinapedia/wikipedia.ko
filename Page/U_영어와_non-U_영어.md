@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [U  non-U ](https://ko.wikipedia.org/wiki/U__non-U_).
+> This article is converted from Wikipedia: [U 영어와 non-U 영어](https://ko.wikipedia.org/wiki/U_영어와_non-U_영어).
 
 
 | U                          | Non-U                                                          |

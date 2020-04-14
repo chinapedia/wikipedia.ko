@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
+> This article is converted from Wikipedia: [토리노 FC](https://ko.wikipedia.org/wiki/토리노_FC).
 
 
 **토리노 FC**()는 [토리노](../Page/토리노.md "wikilink")를 연고로 하는 [이탈리아](../Page/이탈리아.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다. 1906년 창단되었고, 현재의 이름으로 재창단한 것은 [2005년](../Page/2005년.md "wikilink")이다.

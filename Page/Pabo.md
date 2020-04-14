@@ -7,9 +7,9 @@
 
 ## 구성원
 
-  - **[사토다 마이](../Page/사토다_마이.md "wikilink")** ()
-  - **[스잔느](https://ko.wikipedia.org/wiki/스잔느 "wikilink")** (, Suzanne) (본명 : 야마모토 사에())
-  - **[키노시타 유키나](https://ko.wikipedia.org/wiki/키노시타_유키나 "wikilink")** ()
+  - **[사토다 마이](../Page/사토다_마이.md "wikilink")**()
+  - **[스잔느](https://ko.wikipedia.org/wiki/스잔느 "wikilink")**(, Suzanne) (본명 : 야마모토 사에())
+  - **[키노시타 유키나](https://ko.wikipedia.org/wiki/키노시타_유키나 "wikilink")**()
 
 ## 음악
 

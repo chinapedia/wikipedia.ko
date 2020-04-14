@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ EOS 5D](https://ko.wikipedia.org/wiki/_EOS_5D).
+> This article is converted from Wikipedia: [캐논 EOS 5D](https://ko.wikipedia.org/wiki/캐논_EOS_5D).
 
 
 **캐논 EOS 5D**()는 1280만 [유효 화소를](https://ko.wikipedia.org/wiki/유효_화소 "wikilink") 가지는 [캐논의](https://ko.wikipedia.org/wiki/캐논_주식회사 "wikilink") [디지털 SLR이다](https://ko.wikipedia.org/wiki/디지털_SLR "wikilink"). [2005년](../Page/2005년.md "wikilink") [8월 22일에](../Page/8월_22일.md "wikilink") 발표되었으며 캐논 DSLR 라인업에서 [캐논 EOS 30D보다](../Page/캐논_EOS_30D.md "wikilink") 상위 기종이면서 [캐논 EOS-1D Mark II N보다](https://ko.wikipedia.org/wiki/캐논_EOS-1D_Mark_II_N "wikilink") 하위 기종에 해당된다.

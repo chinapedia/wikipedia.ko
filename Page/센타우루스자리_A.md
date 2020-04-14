@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ A](https://ko.wikipedia.org/wiki/_A).
+> This article is converted from Wikipedia: [센타우루스자리 A](https://ko.wikipedia.org/wiki/센타우루스자리_A).
 
 
 [230px](https://ko.wikipedia.org/wiki/파일:CentaurusA3.jpg "wikilink") [230px](https://ko.wikipedia.org/wiki/파일:NGC_5128.jpg "wikilink") [230px](https://ko.wikipedia.org/wiki/파일:CentaurusA2.jpg "wikilink") 사진.\]\]

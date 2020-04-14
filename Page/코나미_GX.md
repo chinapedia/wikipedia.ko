@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [ GX](https://ko.wikipedia.org/wiki/_GX).
+> This article is converted from Wikipedia: [코나미 GX](https://ko.wikipedia.org/wiki/코나미_GX).
 
 
-**코나미 GX**는 [코나미](../Page/코나미.md "wikilink")가 1994년 개발한 아케이드 게임 기판이다.
+**코나미 GX**는 [코나미](../Page/코나미.md "wikilink")가 1994년 개발한 [아케이드 게임](../Page/아케이드_게임.md "wikilink") 기판이다.
 
 ## 사양
 

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [CF ](https://ko.wikipedia.org/wiki/CF_).
+> This article is converted from Wikipedia: [CF 파추카](https://ko.wikipedia.org/wiki/CF_파추카).
 
 
 **CF 파추카**()는 [파추카](../Page/파추카.md "wikilink")를 연고로 하는 [멕시코](../Page/멕시코.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다. 현재는 [멕시코 프리메라 디비시온](https://ko.wikipedia.org/wiki/멕시코_프리메라_디비시온 "wikilink")()에 참가하고 있다.

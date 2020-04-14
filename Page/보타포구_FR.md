@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ FR](https://ko.wikipedia.org/wiki/_FR).
+> This article is converted from Wikipedia: [보타포구 FR](https://ko.wikipedia.org/wiki/보타포구_FR).
 
 
 **보타포구 지 푸치보우 이 헤가타스**(Botafogo de Futebol e Regatas; ) 또는 **보타포구**는 [리우데자네이루](../Page/리우데자네이루.md "wikilink") [보타포구를](https://ko.wikipedia.org/wiki/보타포구_\(리우데자네이루\) "wikilink") 연고로 하는 축구 클럽으로, [1894년](../Page/1894년.md "wikilink") [7월 1일에](../Page/7월_1일.md "wikilink") [조정](../Page/조정_\(스포츠\).md "wikilink") 클럽으로 먼저 창단하였고, [1904년](../Page/1904년.md "wikilink") [8월 12일](../Page/8월_12일.md "wikilink") 축구단을 창단하였다. [1942년](../Page/1942년.md "wikilink") [12월 8일](../Page/12월_8일.md "wikilink") 조정 클럽과 축구 클럽이 병합하여 현재의 구단으로 이어져 오고 있다. [FIFA가 선정한 20세기 클럽에서](../Page/FIFA_선정_20세기_클럽.md "wikilink") 12위에 올랐으며, 클럽의 상징은 기장에 나타나 있는 한 별이다. 보타포구는 "불을 붙이는 것"을 의미하며, 또한 클럽의 이름은 클럽의 기원이 되는 곳의 인근인 보타포구 해변에서 따온 것이다.

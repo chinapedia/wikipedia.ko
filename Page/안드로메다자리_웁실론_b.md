@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  b](https://ko.wikipedia.org/wiki/__b).
+> This article is converted from Wikipedia: [안드로메다자리 웁실론 b](https://ko.wikipedia.org/wiki/안드로메다자리_웁실론_b).
 
 
 **안드로메다자리 웁실론 b**([안드로메다자리 웁실론 B는](../Page/안드로메다자리_웁실론.md "wikilink") [적색 왜성이기](https://ko.wikipedia.org/wiki/적색_왜성 "wikilink") 때문에, **안드로메다자리 웁실론 Ab**로 불릴 때도 있다)는 [지구](../Page/지구.md "wikilink")에서 44광년 떨어져 있는 [외계 행성으로](../Page/외계_행성.md "wikilink"), [안드로메다자리](../Page/안드로메다자리.md "wikilink")에 있다. 이 행성의 어머니 항성인 [안드로메다자리 웁실론 A는](../Page/안드로메다자리_웁실론.md "wikilink") [태양](../Page/태양.md "wikilink")과 거의 비슷한 [항성](https://ko.wikipedia.org/wiki/항성 "wikilink")으로, [공전주기](https://ko.wikipedia.org/wiki/공전주기 "wikilink")는 약 5일이다. 발견자는 제오프리 마시와 R. 폴 버틀러이며, 발견년도는 [1996년](../Page/1996년.md "wikilink")이다. 이 행성은 외계 행성들이 발견되기 시작했던 초기 시기의 '[뜨거운 목성](../Page/뜨거운_목성.md "wikilink")' 중 하나이다. 안드로메다자리 웁실론 b는 이 행성계의 구성원들 중 어머니 항성에 가장 가까이 붙어 있다.

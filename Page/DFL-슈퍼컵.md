@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [DFL-](https://ko.wikipedia.org/wiki/DFL-).
+> This article is converted from Wikipedia: [DFL-슈퍼컵](https://ko.wikipedia.org/wiki/DFL-슈퍼컵).
 
 
 **독일 슈퍼컵**은 [분데스리가](../Page/분데스리가.md "wikilink") 우승 팀과 [DFB-포칼](../Page/DFB-포칼.md "wikilink") 우승 팀간의 경기였다. 1997년에 [DFB-리가포칼](https://ko.wikipedia.org/wiki/DFB-리가포칼 "wikilink")이 생기면서 흡수되었다가 2008년에 리가포칼이 폐지되고 다시 독일 슈퍼컵이 부활하였다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  TV](https://ko.wikipedia.org/wiki/__TV).
+> This article is converted from Wikipedia: [에히메 아사히 TV](https://ko.wikipedia.org/wiki/에히메_아사히_TV).
 
 
 [150px](https://ko.wikipedia.org/wiki/파일:Eat_logo.svg "wikilink") **에히메 아사히 TV**는 [1995년](../Page/1995년.md "wikilink") [4월 1일](../Page/4월_1일.md "wikilink") 개국한 [에히메현](../Page/에히메현.md "wikilink")의 4번째 민영 텔레비전 방송국이다. TV 아사히 계열.

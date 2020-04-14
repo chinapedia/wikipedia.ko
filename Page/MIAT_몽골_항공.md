@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [MIAT  ](https://ko.wikipedia.org/wiki/MIAT__).
+> This article is converted from Wikipedia: [MIAT 몽골 항공](https://ko.wikipedia.org/wiki/MIAT_몽골_항공).
 
 
 **MIAT 몽골 항공**(, )은 [울란바토르](../Page/울란바토르.md "wikilink") [칭기즈 칸 국제공항을](https://ko.wikipedia.org/wiki/칭기즈_칸_국제공항 "wikilink") [허브 공항으로](../Page/허브_공항.md "wikilink") 삼는 [몽골](../Page/몽골.md "wikilink")의 항공사이다.

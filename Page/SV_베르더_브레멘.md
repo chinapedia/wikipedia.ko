@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [SV  ](https://ko.wikipedia.org/wiki/SV__).
+> This article is converted from Wikipedia: [SV 베르더 브레멘](https://ko.wikipedia.org/wiki/SV_베르더_브레멘).
 
 
-**슈포르트페어라인 베르더 브레멘 폰 1899 e. V.** (Sportverein Werder Bremen von 1899 e. V.) 은 북서부 [독일](../Page/독일.md "wikilink")의 [브레멘](../Page/브레멘.md "wikilink")에 위치한 축구 클럽이다.\[1\] 클럽은 [1899년](../Page/1899년.md "wikilink") [2월 4일에](../Page/2월_4일.md "wikilink") 창단되었고,\[2\] 창단 당시 이름은 **푸스발페어라인 베르더** (Fußballverein Werder)였고,\[3\] 당시 16명의 실업고 학생들이 스포츠 대회 수상 후 창단하였다.\[4\] 그들은 그 지역 방언으로 하중도(河中島)를 뜻하는 단어를 도입, 연고지가 강가에 위치한다는 점을 강조하였다. 베르더는 39,100명의 회원으로 증가하였다.\[5\]
+**슈포르트페어라인 베르더 브레멘 폰 1899 e. V.**(Sportverein Werder Bremen von 1899 e. V.) 은 북서부 [독일](../Page/독일.md "wikilink")의 [브레멘](../Page/브레멘.md "wikilink")에 위치한 축구 클럽이다.\[1\] 클럽은 [1899년](../Page/1899년.md "wikilink") [2월 4일에](../Page/2월_4일.md "wikilink") 창단되었고,\[2\] 창단 당시 이름은 **푸스발페어라인 베르더**(Fußballverein Werder)였고,\[3\] 당시 16명의 실업고 학생들이 스포츠 대회 수상 후 창단하였다.\[4\] 그들은 그 지역 방언으로 하중도(河中島)를 뜻하는 단어를 도입, 연고지가 강가에 위치한다는 점을 강조하였다. 베르더는 39,100명의 회원으로 증가하였다.\[5\]
 
 베르더는 독일의 1부리그인 [푸스볼-분데스리가](https://ko.wikipedia.org/wiki/푸스볼-분데스리가 "wikilink")의 주요 클럽중에 하나로 이름을 지켜왔다. 베르더는 현재까지 네번의 리그 우승을 경험하였고, [DFB-포칼](../Page/DFB-포칼.md "wikilink")을 6번 우승하였다. 그들이 최근에 들어 가장 성공한 시기는 2004년이었다. 그들은 이 시기에 더블을 이룩하였다.\[6\] 베르더는 또한 유럽대항전 타이틀도 보유하고 있는데, [1992년](../Page/1992년.md "wikilink"), [AS 모나코 FC를](../Page/AS_모나코_FC.md "wikilink") [UEFA 컵위너스컵](../Page/UEFA_컵위너스컵.md "wikilink") 결승에서 2-0으로 격파하였다.\[7\]\[8\] 베르더는 [2009년](../Page/2009년.md "wikilink")에 [UEFA 유로파리그로](../Page/UEFA_유로파리그.md "wikilink") 개칭되기 전의\[9\] [UEFA컵](https://ko.wikipedia.org/wiki/UEFA컵 "wikilink")의 마지막 결승전에 진출하였으나,\[10\] [우크라이나](../Page/우크라이나.md "wikilink")의 [FC 샤흐타르 도네츠크에](../Page/FC_샤흐타르_도네츠크.md "wikilink") 연장전 끝에 2-1로 석패하였다.\[11\]
 

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [A](https://ko.wikipedia.org/wiki/A).
+> This article is converted from Wikipedia: [A리그](https://ko.wikipedia.org/wiki/A리그).
 
 
 **A리그**(A-League)는 [오스트레일리아](../Page/오스트레일리아.md "wikilink")의 최상위 프로[축구](../Page/축구.md "wikilink") 리그이다. [현대자동차](https://ko.wikipedia.org/wiki/현대자동차 "wikilink")의 후원을 받아 **현대 A리그**(Hyundai A-League)로 불린다. 2004년에 설립되어서 [2005-06시즌에](https://ko.wikipedia.org/wiki/A리그_2005-06 "wikilink") 첫 시즌을 시작하였다. 참가 구단은 총 10개 구단으로 오스트레일리아의 주요 도시 및 지역에서 9개 구단이 참가하고 [뉴질랜드](../Page/뉴질랜드.md "wikilink")에서 1개 구단이 참가하였다. 총 27라운드의 정규 시즌(regular season)을 마치고 난 뒤의 리그 1위는 "프리미어(Premier)"라는 타이틀을 수여받게 된다. 아직 승강제는 없으며, 리그 순위에 따라 상위 4개 팀은 정규 시즌 이후에 열리는 결승 시리즈(Finals Series)에 진출하게 되어 최후 2개 팀이 **그랜드 파이널**(Grand Final)에서 격돌하여 승리하는 팀이 "챔피언(Champion)"의 칭호를 얻게 된다.

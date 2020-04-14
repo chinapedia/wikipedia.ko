@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Gadgets-definition](https://ko.wikipedia.org/wiki/:Gadgets-definition).
+> This article is converted from Wikipedia: [미디어위키:Gadgets-definition](https://ko.wikipedia.org/wiki/미디어위키:Gadgets-definition).
 
 
 <noinclude>[소도구의](https://ko.wikipedia.org/wiki/위키백과:소도구 "wikilink") 설명은 [특수:소도구](https://ko.wikipedia.org/wiki/특수:소도구 "wikilink")에서 보고 고칠 수 있습니다. </noinclude>

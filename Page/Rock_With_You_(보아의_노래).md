@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Rock With You \( \)](https://ko.wikipedia.org/wiki/Rock_With_You_\(_\)).
+> This article is converted from Wikipedia: [Rock With You \(보아의 노래\)](https://ko.wikipedia.org/wiki/Rock_With_You_\(보아의_노래\)).
 
 
 〈**Rock With You**〉는 가수 [보아](../Page/보아.md "wikilink")의 싱글이다. [일본](../Page/일본.md "wikilink")에서 11번째로 발매된 싱글이며, 전작 〈[DOUBLE](https://ko.wikipedia.org/wiki/DOUBLE "wikilink")〉에 이어 한국어판으로도 발매되었다. [한국](../Page/한국.md "wikilink")에서는 2번째로 발매된 싱글이다.

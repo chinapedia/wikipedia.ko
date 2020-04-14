@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FM ](https://ko.wikipedia.org/wiki/FM_).
+> This article is converted from Wikipedia: [FM 야마가타](https://ko.wikipedia.org/wiki/FM_야마가타).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:FM-Yamagata.jpg "wikilink") **FM야마가타**는 일본의 FM라디오 방송국으로 [1989년](../Page/1989년.md "wikilink") [4월 1일](../Page/4월_1일.md "wikilink") 개국했으며 [야마가타현](../Page/야마가타현.md "wikilink")에서 방송을 실시하고 있다.

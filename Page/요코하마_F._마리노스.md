@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ F. ](https://ko.wikipedia.org/wiki/_F._).
+> This article is converted from Wikipedia: [요코하마 F. 마리노스](https://ko.wikipedia.org/wiki/요코하마_F._마리노스).
 
 
 **요코하마 F. 마리노스**(, Yokohama F·Marinos)는 [J리그 디비전 1에](https://ko.wikipedia.org/wiki/J리그_디비전_1 "wikilink") 속한 [일본](../Page/일본.md "wikilink")의 프로 축구팀이다. 3번의 리그 우승이 있고 J리그에서 성공한 구단으로 손꼽힌다. [닛산 자동차](../Page/닛산_자동차.md "wikilink") 축구 클럽이 전신이다. J리그 출범 당시 클럽 명칭은 **요코하마 마리노스**였으나 1998년 [요코하마 플뤼겔스의](../Page/요코하마_플뤼겔스.md "wikilink") 스폰서였던 [ANA와](../Page/전일본공수.md "wikilink") 사토공업이 경영난으로 구단 후원을 포기하자 이 구단을 흡수합병하여 지금의 이름으로 바꿨다. 구단명칭에서 추가된 이니셜 F는 플뤼겔스를 뜻한다. 마리노스는 '선원'이라는 뜻의 [스페인어](../Page/스페인어.md "wikilink")이며 국제항구도시인 [요코하마](https://ko.wikipedia.org/wiki/요코하마 "wikilink")를 상징한다.

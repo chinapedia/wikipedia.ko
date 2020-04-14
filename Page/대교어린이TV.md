@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TV](https://ko.wikipedia.org/wiki/TV).
+> This article is converted from Wikipedia: [대교어린이TV](https://ko.wikipedia.org/wiki/대교어린이TV).
 
 
 **대교어린이TV 또는 (주)대교영상사업본부**는 [㈜대교에서](../Page/대교_\(기업\).md "wikilink") 운영하는 [대한민국](../Page/대한민국.md "wikilink")의 어린이 프로그램 편성 [케이블 TV 방송국이다](../Page/대한민국의_케이블TV_방송.md "wikilink").

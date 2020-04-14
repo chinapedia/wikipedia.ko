@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [MIT ](https://ko.wikipedia.org/wiki/MIT_).
+> This article is converted from Wikipedia: [MIT 허가서](https://ko.wikipedia.org/wiki/MIT_허가서).
 
 
 **MIT 허가서**(, MIT 라이선스)는 [매사추세츠 공과대학교](../Page/매사추세츠_공과대학교.md "wikilink")(MIT)를 기원으로 하는 [소프트웨어](../Page/소프트웨어.md "wikilink") [라이선스](https://ko.wikipedia.org/wiki/라이선스 "wikilink") 중 가장 대표적인 것이다. **X11 License** 또는 **X License**로 표기되기도 한다.

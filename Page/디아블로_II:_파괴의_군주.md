@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ II:  ](https://ko.wikipedia.org/wiki/_II:__).
+> This article is converted from Wikipedia: [디아블로 II: 파괴의 군주](https://ko.wikipedia.org/wiki/디아블로_II:_파괴의_군주).
 
 
 **《디아블로II: 파괴의 군주》**(Diablo II: Lord of Destruction)는 블리자드 노스에서 개발한 《[디아블로 II](../Page/디아블로_II.md "wikilink")》의 확장팩으로, [2001년](../Page/2001년.md "wikilink")에 [블리자드 엔터테인먼트가](../Page/블리자드_엔터테인먼트.md "wikilink") 발표했다.

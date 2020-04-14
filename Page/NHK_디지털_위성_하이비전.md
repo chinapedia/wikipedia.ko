@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [NHK   ](https://ko.wikipedia.org/wiki/NHK___).
+> This article is converted from Wikipedia: [NHK 디지털 위성 하이비전](https://ko.wikipedia.org/wiki/NHK_디지털_위성_하이비전).
 
 
 **NHK 위성 하이비전**은 NHK의 위성방송국 중 하나이며 약칭은 BS hi이다.

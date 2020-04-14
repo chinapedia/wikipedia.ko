@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [: DSLR ](https://ko.wikipedia.org/wiki/:_DSLR_).
+> This article is converted from Wikipedia: [틀:니콘 DSLR 카메라](https://ko.wikipedia.org/wiki/틀:니콘_DSLR_카메라).
 
 
 <table>

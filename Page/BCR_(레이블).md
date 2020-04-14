@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [BCR \(\)](https://ko.wikipedia.org/wiki/BCR_\(\)).
+> This article is converted from Wikipedia: [BCR \(레이블\)](https://ko.wikipedia.org/wiki/BCR_\(레이블\)).
 
 
 **BCR**은 2011년까지 존재했던 [MC 한새가](../Page/MC_한새.md "wikilink") 주축이 되어 만들어진 [대한민국](../Page/대한민국.md "wikilink")의 흑인 음악 레이블이다. BCR은 **Bird Clan Records**의 약자이다.

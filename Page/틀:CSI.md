@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:CSI](https://ko.wikipedia.org/wiki/:CSI).
+> This article is converted from Wikipedia: [틀:CSI](https://ko.wikipedia.org/wiki/틀:CSI).
 
 
 <onlyinclude>{| align=right style="text-align: center; border:1px solid \#aaaaaa; background-color:\#ffffff; padding:5px; font-size: 95%;" class=box |- |style="background:\#ed0"| <big>''' CSI 시리즈 '''</big>

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FC ](https://ko.wikipedia.org/wiki/FC_).
+> This article is converted from Wikipedia: [FC 포르투](https://ko.wikipedia.org/wiki/FC_포르투).
 
 
 **푸트볼 클루브 두 포르투**(Futebol Clube do Porto, ) 또는 흔히 알려진 FC 포르투, 포르투, 혹은 FCP는 북부 [포르투갈](../Page/포르투갈.md "wikilink")의 [포르투](../Page/포르투.md "wikilink")를 연고로 한 종합 스포츠 클럽이다. 다른 스포츠 영역에서도 성공적인 모습을 보이는 포르투이지만, 포르투는 [축구](../Page/축구.md "wikilink") 팀으로 더 유명하다. [1893년](../Page/1893년.md "wikilink") [9월 28일](../Page/9월_28일.md "wikilink") 창단되어, 현재 [SL 벤피카](../Page/SL_벤피카.md "wikilink"), [스포르팅 CP와](../Page/스포르팅_CP.md "wikilink") 더불어 "트레스 그랑드스" (Três Grandes, 빅3)중 하나로, 이 두 클럽과 라이벌 관계를 가진다. 포르투의 서포터들은 "포르티스타" (Portistas) 혹은 "용" (Dragões)으로 불린다.

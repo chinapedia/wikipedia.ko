@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [OLIVE \( \)](https://ko.wikipedia.org/wiki/OLIVE_\(_\)).
+> This article is converted from Wikipedia: [OLIVE \(방송 채널\)](https://ko.wikipedia.org/wiki/OLIVE_\(방송_채널\)).
 
 
 **Olive**는 [CJ ENM 미디어콘텐츠부문에서](https://ko.wikipedia.org/wiki/CJ_ENM_미디어콘텐츠부문 "wikilink") 운영하는 케이블 TV 채널 중 하나이다. 주 시청 연령대는 25세에서 44세까지의 여성에게 특화된 라이프 채널이다.

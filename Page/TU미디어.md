@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TU](https://ko.wikipedia.org/wiki/TU).
+> This article is converted from Wikipedia: [TU미디어](https://ko.wikipedia.org/wiki/TU미디어).
 
 
 **TU미디어**(**TU Media Corp**)는 [SK텔레콤](../Page/SK텔레콤.md "wikilink")의 자회사로 [대한민국](../Page/대한민국.md "wikilink") 위성 [DMB의](../Page/디지털_멀티미디어_방송.md "wikilink") 사업자이다. [2003년](../Page/2003년.md "wikilink") [12월](../Page/12월.md "wikilink")에 설립되었으며, [2005년](../Page/2005년.md "wikilink") [5월](../Page/5월.md "wikilink")에 DMB 본 방송을 개시하였다. 그러나 스마트폰 보급 등으로 적자가 심화되어 [2012년](../Page/2012년.md "wikilink") [7월](../Page/7월.md "wikilink")부터 사업을 접게 되었다.

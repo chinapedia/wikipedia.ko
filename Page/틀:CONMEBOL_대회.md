@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:CONMEBOL ](https://ko.wikipedia.org/wiki/:CONMEBOL_).
+> This article is converted from Wikipedia: [틀:CONMEBOL 대회](https://ko.wikipedia.org/wiki/틀:CONMEBOL_대회).
 
 
 <onlyinclude></onlyinclude>

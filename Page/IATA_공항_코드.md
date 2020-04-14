@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [IATA  ](https://ko.wikipedia.org/wiki/IATA__).
+> This article is converted from Wikipedia: [IATA 공항 코드](https://ko.wikipedia.org/wiki/IATA_공항_코드).
 
 
 **IATA 공항 코드**는 [IATA](https://ko.wikipedia.org/wiki/IATA "wikilink") 위치 판별자(location identifier)라고도 알려져 있으며, IATA 역 코드 또는 단순히 위치판별자라고도 한다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ SC](https://ko.wikipedia.org/wiki/_SC).
+> This article is converted from Wikipedia: [카를스루에 SC](https://ko.wikipedia.org/wiki/카를스루에_SC).
 
 
 **카를스루에 SC**(Karlsruher Sport-Club Mühlburg-Phönix e.V.)는 [카를스루에](../Page/카를스루에.md "wikilink")에 위치한 [빌트파르크슈타디온](https://ko.wikipedia.org/wiki/빌트파르크슈타디온 "wikilink")을 근거로 하는 [독일](../Page/독일.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다. 현재 감독은 [에드문트 베커이다](https://ko.wikipedia.org/wiki/에드문트_베커 "wikilink").

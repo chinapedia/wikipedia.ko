@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ISO](https://ko.wikipedia.org/wiki/ISO).
+> This article is converted from Wikipedia: [울트라ISO](https://ko.wikipedia.org/wiki/울트라ISO).
 
 
 **울트라ISO**(UltraISO)는 [CD 및 DVD 저작에](https://ko.wikipedia.org/wiki/광학_디스크_저작 "wikilink") 쓰이는 [ISO](https://ko.wikipedia.org/wiki/ISO "wikilink") 파일을 만들고, 변환하고, 수정하는 데 쓰이는 [마이크로소프트 윈도용](https://ko.wikipedia.org/wiki/마이크로소프트_윈도 "wikilink") 응용 프로그램이다.

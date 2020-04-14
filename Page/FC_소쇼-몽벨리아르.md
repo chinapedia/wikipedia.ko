@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FC -](https://ko.wikipedia.org/wiki/FC_-).
+> This article is converted from Wikipedia: [FC 소쇼-몽벨리아르](https://ko.wikipedia.org/wiki/FC_소쇼-몽벨리아르).
 
 
 **FC 소쇼-몽벨리아르**(Football Club Sochaux-Montbéliard)는 [몽벨리아르](https://ko.wikipedia.org/wiki/몽벨리아르 "wikilink")에 위치한 [스타드 오귀스트 보날](https://ko.wikipedia.org/wiki/스타드_오귀스트_보날 "wikilink") 경기장을 근거로 하는 [프랑스](../Page/프랑스.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다. 1928년에 창단되었다.

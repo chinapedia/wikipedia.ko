@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [S1 MP3 ](https://ko.wikipedia.org/wiki/S1_MP3_).
+> This article is converted from Wikipedia: [S1 MP3 플레이어](https://ko.wikipedia.org/wiki/S1_MP3_플레이어).
 
 
 [thumb](https://ko.wikipedia.org/wiki/파일:S1_mp3_player_example.jpg "wikilink") **S1 MP3 플레이어**는 [액션](http://www.actions.com.cn/) 칩셋 기반의 [MP3 플레이어의](https://ko.wikipedia.org/wiki/MP3_플레이어 "wikilink") 한 종류이다. 이들은 다수의 다른 브랜드 이름과 디자인으로 팔려나가고 있다. 이와 같은 타입의 제품은 '저가형(싸구려) MP3 플레이어'의 대명사로 알려져 있다.

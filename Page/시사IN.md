@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [IN](https://ko.wikipedia.org/wiki/IN).
+> This article is converted from Wikipedia: [시사IN](https://ko.wikipedia.org/wiki/시사IN).
 
 
 《**시사IN**》은 [대한민국](../Page/대한민국.md "wikilink")의 [잡지](../Page/잡지.md "wikilink")이다. 주로 정치와 사회 분야를 다루는 시사주간지이다.

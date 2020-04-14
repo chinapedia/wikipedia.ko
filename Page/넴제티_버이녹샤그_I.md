@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  I](https://ko.wikipedia.org/wiki/__I).
+> This article is converted from Wikipedia: [넴제티 버이녹샤그 I](https://ko.wikipedia.org/wiki/넴제티_버이녹샤그_I).
 
 
 **넴제티 버이녹샤그 I**(, 전국 선수권 1부)는 [헝가리](../Page/헝가리.md "wikilink")의 최상위 축구 리그이다. [1901년](../Page/1901년.md "wikilink")에 **넴제티 버이녹샤그**(Nemzeti Bajnokság)라는 이름으로 시작하였다. 그러다가 [2001년](../Page/2001년.md "wikilink")부터 후원사의 명칭에 따라 다양한 이름으로 불리고 있다.

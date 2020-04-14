@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KTV ](https://ko.wikipedia.org/wiki/KTV_).
+> This article is converted from Wikipedia: [KTV 국민방송](https://ko.wikipedia.org/wiki/KTV_국민방송).
 
 
 **KTV 국민방송**(國民放送, )은 [정부와](../Page/대한민국_정부.md "wikilink") [산하기관에서](https://ko.wikipedia.org/wiki/공공기관 "wikilink") 만든 정책을 국민들이 알기 쉽도록 국정 관련 프로그램을 제작·방송하는 공공 방송국이다. 상업 광고는 일체 하지 않는 것이 특징이다.
@@ -10,7 +10,7 @@
   - [2005년](../Page/2005년.md "wikilink") [2월](../Page/2월.md "wikilink") 채널명을 **한국정책방송 KTV**로 변경.
   - [2009년](../Page/2009년.md "wikilink") [6월](../Page/6월.md "wikilink") 24시간 방송 개시.
   - [2010년](../Page/2010년.md "wikilink") [12월](../Page/12월.md "wikilink") [HD](../Page/고선명_텔레비전.md "wikilink") 방송 개시.
-  - [2014년](../Page/2014년.md "wikilink") [1월 1일](../Page/1월_1일.md "wikilink") 채널명을 **국민방송**으로 변경.
+  - [2014년](../Page/2014년.md "wikilink") [1월 1일](../Page/1월_1일.md "wikilink") 채널명을 **KTV 국민방송**으로 변경.
   - [2014년](../Page/2014년.md "wikilink") [12월 15일](../Page/12월_15일.md "wikilink") [세종특별자치시](../Page/세종특별자치시.md "wikilink")로 신사옥 이전.
   - [2019년](../Page/2019년.md "wikilink") 1월 YouTube 'KTV국민방송' 채널 실버버튼 수여 (온라인콘텐츠부)
   - [2019년](../Page/2019년.md "wikilink") 1월 YouTube 'KTV스콘' 채널 실버버튼 수여 (온라인콘텐츠부)
@@ -20,6 +20,7 @@
   - [2019년 제12회 대한민국 인터넷소통대상](http://kicoa.or.kr/) - 중앙행정기관 부문 '대상' 수상 (온라인콘텐츠부)
   - [2019년 제12회 대한민국 공감콘텐츠대상](http://kicoa.or.kr/) - 중앙행정기관 부문 '대상' 수상 (온라인콘텐츠부)
   - [2019년 제5회 올해의 SNS](http://yearsns.com/) - 공기업/비영리 YouTube 부문 '대상' 수상 (온라인콘텐츠부)
+  - [2020년](../Page/2020년.md "wikilink") [4월 6일](../Page/4월_6일.md "wikilink") [삼양식품](../Page/삼양식품.md "wikilink") 퀴즈 개시
 
 ### 로고송
 

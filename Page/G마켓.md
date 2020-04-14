@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [G](https://ko.wikipedia.org/wiki/G).
+> This article is converted from Wikipedia: [G마켓](https://ko.wikipedia.org/wiki/G마켓).
 
 
 **G마켓**()은 [대한민국](../Page/대한민국.md "wikilink")의 [온라인 쇼핑몰](https://ko.wikipedia.org/wiki/온라인_쇼핑몰 "wikilink"), [오픈 마켓](https://ko.wikipedia.org/wiki/오픈_마켓 "wikilink") 사이트이다. 1999년 [인터파크](../Page/인터파크.md "wikilink")의 자회사로 설립되었고, 2009년 미국 [이베이](../Page/이베이.md "wikilink")에 인수되었으며 2011년 [옥션과](../Page/옥션_\(웹사이트\).md "wikilink") 합병한 후, [㈜이베이코리아가](https://ko.wikipedia.org/wiki/이베이#이베이코리아 "wikilink") 운영하고 있다. 본사는 서울특별시 용산구에 있다.

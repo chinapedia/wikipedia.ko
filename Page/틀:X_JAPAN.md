@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:X JAPAN](https://ko.wikipedia.org/wiki/:X_JAPAN).
+> This article is converted from Wikipedia: [틀:X JAPAN](https://ko.wikipedia.org/wiki/틀:X_JAPAN).
 
 
 <onlyinclude></onlyinclude>

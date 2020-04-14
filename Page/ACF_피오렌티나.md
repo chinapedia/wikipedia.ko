@@ -1,9 +1,9 @@
-> This article is converted from Wikipedia: [ACF ](https://ko.wikipedia.org/wiki/ACF_).
+> This article is converted from Wikipedia: [ACF 피오렌티나](https://ko.wikipedia.org/wiki/ACF_피오렌티나).
 
 
 **ACF 피오렌티나**()\[1\]는 [이탈리아](../Page/이탈리아.md "wikilink")의 [토스카나주](https://ko.wikipedia.org/wiki/토스카나주 "wikilink") [피렌체](../Page/피렌체.md "wikilink")의 [스타디오 아르테미오 프란키](../Page/스타디오_아르테미오_프란키.md "wikilink") 를 홈으로 하는 [축구](../Page/축구.md "wikilink") 클럽이며, 마르키스 루이지 리돌피 바이 다 베라차노()가 설립했으며, [2019년](../Page/2019년.md "wikilink") 이탈리아계 미국인 사업가인 [로코 코미소가](https://ko.wikipedia.org/wiki/로코_코미소 "wikilink") 구단을 인수했다.
 
-이 축구클럽은 [1926년](../Page/1926년.md "wikilink") 창단되었고, 현재 [세리에 A에](../Page/세리에_A.md "wikilink") 속해 있으며 2012-13시즌은 4위로 마감하였다.
+이 축구클럽은 [1926년](../Page/1926년.md "wikilink") 창단되었고, 현재 [세리에 A에](../Page/세리에_A.md "wikilink") 속해 있으며 2018-19시즌은 16위로 마감하였다.
 
 클럽의 색인 보라색에서 딴 비올라라는 애칭으로 불린다. 또, 피렌체 시의 상징인 백합 문장에서 비롯된 질리아티라는 별명으로도 불리고 있다. 클럽의 전성기를 구가하던 시기에는 세리에 A, 코파 이탈리아, UEFA 컵위너스컵 등에서 우승을 경험하는 등 인테르, 밀란, 유벤투스, AS 로마 등 빅 클럽에 이어 강호 클럽으로서 확고한 지위를 쌓았다.
 

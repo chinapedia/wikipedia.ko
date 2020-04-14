@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [OS](https://ko.wikipedia.org/wiki/OS).
+> This article is converted from Wikipedia: [미뉴엣OS](https://ko.wikipedia.org/wiki/미뉴엣OS).
 
 
 **미뉴엣OS**(MenuetOS, MeOS)는 Ville Mikael Turjanmaa가 개발한 [운영 체제이다](../Page/운영_체제.md "wikilink"). 빠르고 간단함에 중점을 두고 개발되었으며, 1.44메가 [플로피 디스켓](https://ko.wikipedia.org/wiki/플로피_디스켓 "wikilink") 한 장에 들어가는 저용량으로 알려진 바 있다. 32비트 x86 버전은 [오픈 소스](../Page/오픈_소스.md "wikilink") [자유 소프트웨어이고](../Page/자유_소프트웨어.md "wikilink"), 64비트 버전은 소스 코드를 공개하지 않은 [무료 소프트웨어이다](https://ko.wikipedia.org/wiki/무료_소프트웨어 "wikilink").

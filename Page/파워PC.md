@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [PC](https://ko.wikipedia.org/wiki/PC).
+> This article is converted from Wikipedia: [파워PC](https://ko.wikipedia.org/wiki/파워PC).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:IBM_PowerPC601_PPC601FD-080-2_top.jpg "wikilink")

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [   FC](https://ko.wikipedia.org/wiki/___FC).
+> This article is converted from Wikipedia: [더 뉴 세인츠 FC](https://ko.wikipedia.org/wiki/더_뉴_세인츠_FC).
 
 
 **더 뉴 세인츠 축구 클럽**(The New Saints, TNS)는 [웨일스](../Page/웨일스.md "wikilink")의 랜샌트프레이드임메체인(Llansantffraid-ym-Mechain)과 [잉글랜드](../Page/잉글랜드.md "wikilink")의 오즈웨스트리를 대표하는 팀이다.(두 지역은 13km밖에 떨어져 있지 않다.) 이 클럽은 현재 [웨일스 프리미어리그에](https://ko.wikipedia.org/wiki/웨일스_프리미어리그 "wikilink") 참여하고 있다.

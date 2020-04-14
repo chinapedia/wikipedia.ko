@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ USA](https://ko.wikipedia.org/wiki/_USA).
+> This article is converted from Wikipedia: [데이토나 USA](https://ko.wikipedia.org/wiki/데이토나_USA).
 
 
 《**데이토나 USA**》(Daytona USA)는 [세가](https://ko.wikipedia.org/wiki/세가 "wikilink")가 개발한 [아케이드용](../Page/아케이드_게임.md "wikilink") [레이싱 게임이다](https://ko.wikipedia.org/wiki/레이싱_게임 "wikilink"). MODEL2 기판을 사용하여 최초 발매는 1993년, 개정판은 1994년 출시되었다. 이 게임은 1992년작 [버추어 레이싱에](../Page/버추어_레이싱.md "wikilink") 기반하여 만들어졌다. 출시 당시 데이토나 USA는 시장에 선보이고 있던 레이싱 게임들 중 가장 정교한 [3차원 컴퓨터 그래픽을](../Page/3차원_컴퓨터_그래픽스.md "wikilink") 보여주었다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ TV ](https://ko.wikipedia.org/wiki/_TV_).
+> This article is converted from Wikipedia: [컬러 TV 게임](https://ko.wikipedia.org/wiki/컬러_TV_게임).
 
 
 **컬러 TV 게임 시리즈**는 [닌텐도](../Page/닌텐도.md "wikilink")와 [미쓰비시](https://ko.wikipedia.org/wiki/미쓰비시 "wikilink")가 공동 개발한 [가정용 게임기이다](../Page/가정용_게임기.md "wikilink"). 1977년에 가장 먼저 선보인 컬러 TV 게임 6을 시작으로 5개의 기종을 내놓았다.

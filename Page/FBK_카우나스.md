@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FBK ](https://ko.wikipedia.org/wiki/FBK_).
+> This article is converted from Wikipedia: [FBK 카우나스](https://ko.wikipedia.org/wiki/FBK_카우나스).
 
 
 **FBK 카우나스**()는 [리투아니아](../Page/리투아니아.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽팀으로, 리투아니아 제2의 도시인 [카우나스](../Page/카우나스.md "wikilink")를 연고지로 하고 있다. 현재는 리투아니아 최상위리그인 [A 리가에서](https://ko.wikipedia.org/wiki/리투아니아_A_리가 "wikilink") 활동 중이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [B ](https://ko.wikipedia.org/wiki/B_).
+> This article is converted from Wikipedia: [B형 주계열성](https://ko.wikipedia.org/wiki/B형_주계열성).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Achernar.jpg "wikilink"). 보통 B형 주계열성들은 자전속도가 매우 빠르며 극단적인 경우 이 별처럼 회전 타원체의 모습을 하고 있다.\]\] **B형 주계열성**(**B V**)은 [분광형](https://ko.wikipedia.org/wiki/분광형 "wikilink")은 B에 [광도분류](https://ko.wikipedia.org/wiki/광도분류 "wikilink")는 V에 속하는 [주계열](../Page/주계열.md "wikilink")성이다. 이 분류에 속하는 항성의 질량은 [태양](../Page/태양.md "wikilink")의 최소 2배부터 최대 16배 사이이며 [표면온도는](../Page/유효온도.md "wikilink") 10000 \~ 30000 [켈빈](../Page/켈빈.md "wikilink") 사이에서 형성된다.\[1\] 분광형 B 항성은 매우 밝고, 푸른 빛을 띠며, [스펙트럼](../Page/스펙트럼.md "wikilink")에는 중성헬륨(B2 분광형에서 가장 뚜렷함)과 완만한 [수소선](https://ko.wikipedia.org/wiki/수소선 "wikilink")이 나타난다. [태양](../Page/태양.md "wikilink")과 같은 [G V형 항성에](https://ko.wikipedia.org/wiki/G_V형_항성 "wikilink") 비하여 이들은 훨씬 격렬하면서 빠른 속도로 자신의 [수소](../Page/수소.md "wikilink")를 태우기 때문에 주계열에 머무는 기간은 수천만\~수억 년에 불과하다. 밤하늘의 별 중 대표적인 B형 주계열성으로는 [레굴루스](../Page/레굴루스.md "wikilink")와 [알골 A가](../Page/알골.md "wikilink") 있다.\[2\]

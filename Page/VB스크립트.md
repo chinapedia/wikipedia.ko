@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [VB](https://ko.wikipedia.org/wiki/VB).
+> This article is converted from Wikipedia: [VB스크립트](https://ko.wikipedia.org/wiki/VB스크립트).
 
 
 **VB스크립트**(VBScript)는 [마이크로소프트](../Page/마이크로소프트.md "wikilink")가 개발한 [액티브 스크립트](https://ko.wikipedia.org/wiki/액티브_스크립트 "wikilink") 언어이다. 이 언어의 구문은 마이크로소프트의 [비주얼 베이직](../Page/비주얼_베이직.md "wikilink") 프로그래밍 언어 계통의 일부를 반영한다.

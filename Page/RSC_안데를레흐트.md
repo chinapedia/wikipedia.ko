@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [RSC ](https://ko.wikipedia.org/wiki/RSC_).
+> This article is converted from Wikipedia: [RSC 안데를레흐트](https://ko.wikipedia.org/wiki/RSC_안데를레흐트).
 
 
-보통 **안데를레흐트**라고 불리는 **로열 스포팅 클럽 안데를레흐트** (Royal Sporting Club Anderlecht)는 [벨기에](../Page/벨기에.md "wikilink")의 축구 클럽으로, 수도인 [브뤼셀](../Page/브뤼셀.md "wikilink")의 [안데를레흐트](https://ko.wikipedia.org/wiki/안데를레흐트 "wikilink")를 연고로 한다. 이 클럽은 벨기에에서 가장 성공한 클럽으로 손꼽히는데, 유럽 대회에서 5번, 프로리그에서 33번 우승했다.
+보통 **안데를레흐트**라고 불리는 **로열 스포팅 클럽 안데를레흐트**(Royal Sporting Club Anderlecht)는 [벨기에](../Page/벨기에.md "wikilink")의 축구 클럽으로, 수도인 [브뤼셀](../Page/브뤼셀.md "wikilink")의 [안데를레흐트](https://ko.wikipedia.org/wiki/안데를레흐트 "wikilink")를 연고로 한다. 이 클럽은 벨기에에서 가장 성공한 클럽으로 손꼽히는데, 유럽 대회에서 5번, 프로리그에서 33번 우승했다.
 
 ## 역대 성적
 

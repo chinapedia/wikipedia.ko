@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [MBC ](https://ko.wikipedia.org/wiki/MBC_).
+> This article is converted from Wikipedia: [MBC 연기대상](https://ko.wikipedia.org/wiki/MBC_연기대상).
 
 
 **MBC 연기대상**()은 한 해 동안 [MBC 드라마에서](../Page/대한민국의_텔레비전_드라마.md "wikilink") 연기를 한 연기자들에게 상을 수여하는 시상식으로, 1974년부터 매년 [12월 30일에](../Page/12월_30일.md "wikilink") 개최된다. 1974년에는 MBC 전속 탤런트들에게만 시상을 했지만, 1975년부터 MBC 소속 탤런트뿐만 아니라, 코미디언, 성우까지 시상 범위를 넓혔다. 초기의 명칭은 **MBC 탤런트연기상**(74), **MBC배 유공연기자 시상식**(75), **MBC 연기상**(76), **MBC 최우수연기자 시상식**(77), **MBC 연예대상**(77), **MBC 방송연기상**(78\~82)이었다. 1974년부터 1976년, 1978년까지는 문화방송 경향신문 통합창사기념식에서 시상을 했지만(1977년에는 연예대상 수상자들이 수상 및 기념공연), 1979년부터 1980년까지는 자체로 시상식을 열고 수상자들이 MBC 송년특집쇼에 출연했다. 1981년, 1982년에는 송년특집쇼에서 시상식과 공연, 장기자랑을 병행했다.
@@ -3858,7 +3858,7 @@ SMI 엔터테인먼트 이사</p></td>
 <a href="https://ko.wikipedia.org/wiki/이아미" title="wikilink">이아미</a><br />
 <a href="https://ko.wikipedia.org/wiki/김준아" title="wikilink">김준아</a><br />
 <a href="https://ko.wikipedia.org/wiki/이상은" title="wikilink">이상은</a><br />
-<a href="https://ko.wikipedia.org/wiki/문혜정" title="wikilink">문혜정</a><br />
+<a href="../Page/문혜정.md" title="wikilink">문혜정</a><br />
 <a href="https://ko.wikipedia.org/wiki/이종혁" title="wikilink">이종혁</a><br />
 <a href="https://ko.wikipedia.org/wiki/최성우" title="wikilink">최성우</a></p></td>
 <td><p><a href="../Page/굳세어라_금순아.md" title="wikilink">굳세어라 금순아</a> 작가<br />
@@ -5379,7 +5379,7 @@ MBC 야구해설위원</p></td>
 <tr class="odd">
 <td><p>아역상</p></td>
 <td><p><a href="../Page/윤찬영.md" title="wikilink">윤찬영</a><br />
-<a href="https://ko.wikipedia.org/wiki/김지영_(2005년)" title="wikilink">김지영</a></p></td>
+<a href="../Page/김지영_(2005년).md" title="wikilink">김지영</a></p></td>
 <td><p><a href="../Page/마마_(드라마).md" title="wikilink">마마</a><br />
 <a href="../Page/왔다!_장보리.md" title="wikilink">왔다! 장보리</a></p></td>
 </tr>

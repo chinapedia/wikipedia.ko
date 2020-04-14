@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [CPU ](https://ko.wikipedia.org/wiki/CPU_).
+> This article is converted from Wikipedia: [CPU 소켓](https://ko.wikipedia.org/wiki/CPU_소켓).
 
 
 [섬네일로도](https://ko.wikipedia.org/wiki/파일:SocketA.jpg "wikilink") 알려져 있는 [소켓 A](../Page/소켓_A.md "wikilink")\]\] **CPU 소켓**(CPU socket) 또는 **CPU 슬롯**(CPU Slot)은 [CPU를](../Page/중앙_처리_장치.md "wikilink") 받아들이는 컴퓨터의 [메인보드](../Page/메인보드.md "wikilink")의 접촉부이며, 전기적인 인터페이스를 만들어 낸다. [2010년](../Page/2010년.md "wikilink")에, 대부분의 [데스크톱](../Page/데스크톱_컴퓨터.md "wikilink"), [서버](../Page/서버.md "wikilink") 컴퓨터는 [인텔](../Page/인텔.md "wikilink") [x86 아키텍처에](https://ko.wikipedia.org/wiki/x86 "wikilink") 기반을 두고 있다.

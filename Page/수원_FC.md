@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
+> This article is converted from Wikipedia: [수원 FC](https://ko.wikipedia.org/wiki/수원_FC).
 
 
 **수원 FC**(, 수원 시민프로축구단)는 [경기도](https://ko.wikipedia.org/wiki/경기도 "wikilink") [수원시](https://ko.wikipedia.org/wiki/수원시 "wikilink")를 연고지로 하는 [대한민국](../Page/대한민국.md "wikilink")의 프로[축구](../Page/축구.md "wikilink")단이다. [2003년](../Page/2003년.md "wikilink") [3월 15일](../Page/3월_15일.md "wikilink") **수원시청 축구단**이라는 이름으로 창단하였고,\[1\] 실업 리그인 [내셔널리그에](../Page/내셔널리그_\(대한민국\).md "wikilink") 참여하였다. 내셔널리그에서 줄곧 강팀으로 군림하였으며, 2005, 2007, 2008 시즌에 준우승을 차지하였고, 창단 8년 만인 2010 시즌에 첫 리그 우승을 차지하였다. [2012년](../Page/2012년.md "wikilink") 프로로 전환하여, [2013년](../Page/2013년.md "wikilink")부터 [2015년](../Page/2015년.md "wikilink")까지 [K리그 챌린지에](../Page/K리그2.md "wikilink") 참가했으며 2015 시즌 승격하여 [2016년](../Page/2016년.md "wikilink") [K리그 클래식에](https://ko.wikipedia.org/wiki/K리그1 "wikilink") 참가했으나, 불과 1시즌만에 다시 강등되었다. 홈 구장은 11,808명을 수용함과 동시에 1,014석의 가변석을 갖춘 [수원종합운동장](../Page/수원종합운동장.md "wikilink")이다.
@@ -60,12 +60,12 @@
 </tr>
 <tr class="odd">
 <td><p>수석코치</p></td>
-<td><p><a href="../Page/백민철.md" title="wikilink">백민철</a></p></td>
+<td><p><a href="../Page/김영삼_(축구인).md" title="wikilink">김영삼</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>코치</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/한상구" title="wikilink">한상구</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/기현서" title="wikilink">기현서</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -75,7 +75,7 @@
 </tr>
 <tr class="even">
 <td><p>피지컬 코치</p></td>
-<td><p><a href="../Page/데니스_이와무라.md" title="wikilink">데니스 이와무라</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/티아고" title="wikilink">티아고</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">

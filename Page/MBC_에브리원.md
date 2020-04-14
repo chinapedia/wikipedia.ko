@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [MBC ](https://ko.wikipedia.org/wiki/MBC_).
+> This article is converted from Wikipedia: [MBC 에브리원](https://ko.wikipedia.org/wiki/MBC_에브리원).
 
 
-**MBC 에브리원** (MBC Every 1)은 온 [가족](../Page/가족.md "wikilink")이 볼 수 있는 버라이어티 전문 채널을 표방하기 위해 [2007년](../Page/2007년.md "wikilink") [10월 15일에](../Page/10월_15일.md "wikilink") 전신이었던 MBC 무비스를 계승하는 [MBC 플러스의](https://ko.wikipedia.org/wiki/엠비씨플러스 "wikilink") 오락 전문 채널인데 당초 'MBC 무비스'로 2003년 1월 1일 개국하였지만 [OCN](../Page/OCN_\(텔레비전_채널\).md "wikilink"), [채널CGV](https://ko.wikipedia.org/wiki/채널CGV "wikilink")와의 경쟁에서 밀리자 장르를 버라이어티 전문 채널로 전환하는 한편 채널명도 변경하였다. 다른 버라이어티 오락 채널들과 달리 모기업인 MBC의 방송 프로그램 재방송 비율이 높지 않고 자체 프로그램 제작 비율을 높인 것이 특징이다. [MBC 드라마넷과](../Page/MBC_드라마넷.md "wikilink") 중복되는 자체 제작 프로그램을 몇 개 볼 수 있다.
+**MBC 에브리원**(MBC Every 1)은 온 [가족](../Page/가족.md "wikilink")이 볼 수 있는 버라이어티 전문 채널을 표방하기 위해 [2007년](../Page/2007년.md "wikilink") [10월 15일에](../Page/10월_15일.md "wikilink") 전신이었던 MBC 무비스를 계승하는 [MBC 플러스의](https://ko.wikipedia.org/wiki/엠비씨플러스 "wikilink") 오락 전문 채널인데 당초 'MBC 무비스'로 2003년 1월 1일 개국하였지만 [OCN](../Page/OCN_\(텔레비전_채널\).md "wikilink"), [채널CGV](https://ko.wikipedia.org/wiki/채널CGV "wikilink")와의 경쟁에서 밀리자 장르를 버라이어티 전문 채널로 전환하는 한편 채널명도 변경하였다. 다른 버라이어티 오락 채널들과 달리 모기업인 MBC의 방송 프로그램 재방송 비율이 높지 않고 자체 프로그램 제작 비율을 높인 것이 특징이다. [MBC 드라마넷과](../Page/MBC_드라마넷.md "wikilink") 중복되는 자체 제작 프로그램을 몇 개 볼 수 있다.
 
 전국의 모든 케이블TV와 위성 스카이라이프, 위성 [DMB](../Page/디지털_멀티미디어_방송.md "wikilink") TU, [IPTV](../Page/IPTV.md "wikilink")에서 시청가능하며 [2009년](../Page/2009년.md "wikilink") [10월 14일부터](../Page/10월_14일.md "wikilink") 미주지역의 시청자들도 MBC 에브리원을 시청할 수 있게 되었다. 미국의 최대 위성방송 플랫폼 [다이렉 TV를](https://ko.wikipedia.org/wiki/DirecTV "wikilink") 통해 미주지역에 채널 론칭을 해서 송출을 시작했다. MBC 플러스 미디어 관계자는 "디렉TV 진출로 한인 교포를 포함한 미국 전 지역에 MBC 에브리원을 공급할 수 있게 됐다"며 "MBC 플러스 미디어의 100% 자체 제작 프로그램으로 편성할 예정"이라고 말했다. MBC every1 미주채널은 여의도 MBC 플러스 미디어 주조정실에서 KT망을 통해 해저로 미국 LA KT팝까지 전송되고 LA KT팝에서 MBC 아메리카로 MBC 아메리카에서 AT\&T망을 통해 디렉TV로 전송되어 위성으로 시청자들에게 전달된다.\[1\]
 
@@ -14,7 +14,7 @@
 ### 예능
 
   - [주간 아이돌](../Page/주간_아이돌.md "wikilink") (진행 : [황광희](../Page/황광희.md "wikilink"), [스페셜](https://ko.wikipedia.org/wiki/스페셜 "wikilink"))
-  - [비디오스타](../Page/비디오스타.md "wikilink") (진행 : [박소현](../Page/박소현_\(배우\).md "wikilink"), [김숙](../Page/김숙.md "wikilink"), [박나래](../Page/박나래.md "wikilink"))
+  - [비디오스타](../Page/비디오스타.md "wikilink") (진행 : [박소현](../Page/박소현_\(배우\).md "wikilink"), [김숙](../Page/김숙.md "wikilink"), [박나래](../Page/박나래.md "wikilink"),[박산다라](../Page/박산다라.md "wikilink"))
   - [대한외국인](../Page/대한외국인.md "wikilink") (진행 : [김용만](https://ko.wikipedia.org/wiki/김용만 "wikilink"), [박명수](../Page/박명수.md "wikilink"))
   - [맛있을 지도](https://ko.wikipedia.org/wiki/맛있을_지도 "wikilink") 시즌 3 (진행 : [김경식](../Page/김경식_\(희극인\).md "wikilink"), [양세찬](../Page/양세찬.md "wikilink"), [이진호](../Page/이진호_\(희극인\).md "wikilink"), [서효명](https://ko.wikipedia.org/wiki/서효명 "wikilink"), [김정진](../Page/김정진_\(미스코리아\).md "wikilink"))
   - [달라서 간다](https://ko.wikipedia.org/wiki/달라서_간다 "wikilink") (진행 : [김대희](../Page/김대희_\(희극인\).md "wikilink"), [유민상](../Page/유민상_\(희극인\).md "wikilink"), [솔비](../Page/솔비.md "wikilink"), [유승우](../Page/유승우_\(가수\).md "wikilink"))
@@ -113,7 +113,7 @@
   - [씨스타의 쇼타임](https://ko.wikipedia.org/wiki/씨스타의_쇼타임 "wikilink")
   - [형돈이와 대준이의 히트제조기 빅병](../Page/히트제조기.md "wikilink") (진행 : [데프콘](../Page/데프콘_\(가수\).md "wikilink"), [정형돈](../Page/정형돈.md "wikilink"))
   - 인간실험극장
-  - [신동엽과 총각파티](https://ko.wikipedia.org/wiki/신동엽과_총각파티 "wikilink") (진행 : [신동엽](../Page/신동엽_\(희극인\).md "wikilink"), 패널 : [김종민](https://ko.wikipedia.org/wiki/김종민 "wikilink"), [조세호](../Page/조세호.md "wikilink"), [강인](../Page/강인_\(가수\).md "wikilink"), [은혁](../Page/은혁.md "wikilink"), [엔](../Page/엔_\(가수\).md "wikilink"))
+  - [신동엽과 총각파티](https://ko.wikipedia.org/wiki/신동엽과_총각파티 "wikilink") (진행 : [신동엽](../Page/신동엽_\(희극인\).md "wikilink"), 패널 : [김종민](../Page/김종민.md "wikilink"), [조세호](../Page/조세호.md "wikilink"), [강인](../Page/강인_\(가수\).md "wikilink"), [은혁](../Page/은혁.md "wikilink"), [엔](../Page/엔_\(가수\).md "wikilink"))
   - [천생연분 리턴즈](../Page/천생연분_리턴즈.md "wikilink") (진행 : [이휘재](../Page/이휘재.md "wikilink"), [이특](https://ko.wikipedia.org/wiki/이특_\(가수\) "wikilink"), [붐](../Page/붐_\(방송인\).md "wikilink"))
   - [결혼 터는 남자들](../Page/결혼_터는_남자들.md "wikilink") (진행 : [김구라](../Page/김구라.md "wikilink"), [김성주](../Page/김성주_\(방송인\).md "wikilink"), [손준호](https://ko.wikipedia.org/wiki/손준호 "wikilink"), [장동민](../Page/장동민.md "wikilink"), [오창석](../Page/오창석.md "wikilink"))
   - [쇼타임 EXID](https://ko.wikipedia.org/wiki/쇼타임_EXID "wikilink")
@@ -176,7 +176,7 @@
   - [SBS funE](../Page/SBS_funE.md "wikilink")
   - [JTBC2](https://ko.wikipedia.org/wiki/JTBC2 "wikilink")
   - [TV조선2](https://ko.wikipedia.org/wiki/TV조선2 "wikilink")
-  - [스카이 엔터](../Page/스카이_엔터.md "wikilink")
+  - [NQQ](../Page/스카이_엔터.md "wikilink")
   - [tvN](https://ko.wikipedia.org/wiki/tvN "wikilink")
   - [코미디TV](https://ko.wikipedia.org/wiki/코미디TV "wikilink")
   - [K-STAR](../Page/K-STAR_\(텔레비전_채널\).md "wikilink")

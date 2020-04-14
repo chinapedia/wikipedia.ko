@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ CD](https://ko.wikipedia.org/wiki/_CD).
+> This article is converted from Wikipedia: [비디오 CD](https://ko.wikipedia.org/wiki/비디오_CD).
 
 
 **비디오 CD**(Video CD, View CD, **VCD**)는 **콤팩트 디스크 디지털 비디오**라고도 하며, [콤팩트 디스크에](../Page/콤팩트_디스크.md "wikilink") [영상](../Page/영상.md "wikilink")을 저장하는 표준 [디지털](https://ko.wikipedia.org/wiki/디지털 "wikilink") 영상 포맷이다. VCD는 VCD 플레이어, 현대의 [DVD 비디오 플레이어](../Page/DVD_플레이어.md "wikilink"), 일부 [비디오 게임기를](https://ko.wikipedia.org/wiki/비디오_게임기 "wikilink") 통해서 재생할 수 있다. VCD 표준은 1993년 [소니](../Page/소니.md "wikilink"), [필립스](../Page/필립스.md "wikilink"), [마쯔시타](../Page/파나소닉.md "wikilink"), [JVC](../Page/JVC.md "wikilink"), 네 개의 회사가 공동으로 만들었으며, [백서](https://ko.wikipedia.org/wiki/백서 "wikilink") 표준에 자세하게 명시되어 있다.

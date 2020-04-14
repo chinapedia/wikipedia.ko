@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ AM2+](https://ko.wikipedia.org/wiki/_AM2+).
+> This article is converted from Wikipedia: [소켓 AM2+](https://ko.wikipedia.org/wiki/소켓_AM2+).
 
 
 {{ CPU 소켓 정보 | 장치명칭 = 소켓 AM2 + | 그림 = [300px](https://ko.wikipedia.org/wiki/파일:Socket_am2_retention_module.jpg "wikilink") | 그림_크기 = | 설명문 = | 종류 = [PGA](https://ko.wikipedia.org/wiki/PGA "wikilink") - [ZIF](https://ko.wikipedia.org/wiki/ZIF "wikilink") | 폼팩터 =[세라믹 핀 그리드 배열](https://ko.wikipedia.org/wiki/세라믹_핀_그리드_배열 "wikilink")(CPGA)

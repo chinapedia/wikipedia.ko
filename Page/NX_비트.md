@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [NX ](https://ko.wikipedia.org/wiki/NX_).
+> This article is converted from Wikipedia: [NX 비트](https://ko.wikipedia.org/wiki/NX_비트).
 
 
 **NX 비트**(, 실행 방지 비트)는 프로세서 명령어나 코드 또는 데이터 저장을 위한 메모리 영역을 따로 분리하는 [CPU의](../Page/중앙_처리_장치.md "wikilink") 기술이다. 이 기능은 [하버드 아키텍처](../Page/하버드_아키텍처.md "wikilink") 프로세서에서 보통 쓰인다. 그러나 NX 비트는 기본적인 [폰 노이만 구조](../Page/폰_노이만_구조.md "wikilink") 프로세서에서 보안을 목적으로 많이 쓰인다.

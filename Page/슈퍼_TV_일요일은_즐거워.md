@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ TV  ](https://ko.wikipedia.org/wiki/_TV__).
+> This article is converted from Wikipedia: [슈퍼 TV 일요일은 즐거워](https://ko.wikipedia.org/wiki/슈퍼_TV_일요일은_즐거워).
 
 
 《**슈퍼 TV 일요일은 즐거워**》(약칭 : **슈퍼TV**)는 [KBS](https://ko.wikipedia.org/wiki/KBS "wikilink")의 오락 프로그램 중 하나이다.
@@ -149,7 +149,7 @@
 
 과거 [KBS 2TV에서](../Page/KBS_2TV.md "wikilink") [유재석](https://ko.wikipedia.org/wiki/유재석 "wikilink")이 진행하던 《한국이 보인다》에서 했던 '인정사정 볼것 없다'와 유사한 프로그램으로 그 계통을 이어받았으며 그 뒤로 《**슈퍼 TV 일요일은 즐거워**》가 공영성을 이유로 폐지된 후에 [SBS로](../Page/SBS_TV.md "wikilink") 자리를 옮겨 "**[일요일이 좋다](../Page/일요일이_좋다.md "wikilink")**"의 《유재석과 감개무량》으로 이어지다\[11\] 그 프로그램마저 폐지된 후 [MBC](https://ko.wikipedia.org/wiki/MBC "wikilink")로 다시금 자리를 옮겨 **"[무한도전](../Page/무한도전.md "wikilink")"** 1기로 이어져가기도 한다.\[12\]
 
-출연자 : [유재석](https://ko.wikipedia.org/wiki/유재석 "wikilink"), [남창희](https://ko.wikipedia.org/wiki/남창희 "wikilink"), [이혁재](../Page/이혁재.md "wikilink"), [김종석](../Page/김종석_\(배우\).md "wikilink"), [지상렬](../Page/지상렬.md "wikilink"), [김종민](https://ko.wikipedia.org/wiki/김종민 "wikilink"), 게스트
+출연자 : [유재석](https://ko.wikipedia.org/wiki/유재석 "wikilink"), [남창희](https://ko.wikipedia.org/wiki/남창희 "wikilink"), [이혁재](../Page/이혁재.md "wikilink"), [김종석](../Page/김종석_\(배우\).md "wikilink"), [지상렬](../Page/지상렬.md "wikilink"), [김종민](../Page/김종민.md "wikilink"), 게스트
 
 ### 캠퍼스 영상가요
 
@@ -219,7 +219,7 @@
 
 국내 최초 본격 대한민국 불멸의 스포츠 버라이어티를 표방한 프로그램.
 
-출연자: [이창명](../Page/이창명.md "wikilink")
+출연자: [이창명](../Page/이창명.md "wikilink") \[13\]
 
 [1999년](../Page/1999년.md "wikilink") [1월 17일](../Page/1월_17일.md "wikilink") 방송을 시작하여 [2003년](../Page/2003년.md "wikilink") [6월 8일](../Page/6월_8일.md "wikilink") 종영되었다가, [2009년](../Page/2009년.md "wikilink") [10월 25일부터](../Page/10월_25일.md "wikilink") [2016년](../Page/2016년.md "wikilink") [5월 29일까지](../Page/5월_29일.md "wikilink") [출발드림팀 시즌2가](../Page/출발드림팀_시즌_2.md "wikilink") 방영되었다.
 
@@ -296,7 +296,7 @@ TV해결사 MC들이 쌀을 팔고 성금을 기부하는 형식이다.
 | 2기 | [슈퍼선데이](../Page/슈퍼선데이.md "wikilink")                            | 1995년 2월 26일 \~ 1998년 2월 15일  |
 | 3기 | **슈퍼 TV 일요일은 즐거워**                                              | 1998년 2월 22일 \~ 2003년 11월 2일  |
 | 4기 | [일요일은 101%](https://ko.wikipedia.org/wiki/일요일은_101% "wikilink") | 2003년 11월 9일 \~ 2004년 10월 31일 |
-| 5기 | [해피선데이](https://ko.wikipedia.org/wiki/해피선데이 "wikilink")         | 2004년 11월 7일 \~ 2019년 4월 21일  |
+| 5기 | [해피선데이](../Page/해피선데이.md "wikilink")                            | 2004년 11월 7일 \~ 2019년 4월 21일  |
 
 ## 각주
 
@@ -314,3 +314,4 @@ TV해결사 MC들이 쌀을 팔고 성금을 기부하는 형식이다.
 10. [｛TV 홀릭｝ "모방"이라고 다 같은 건 아니다](http://cafe.daum.net/backstory9/7fRl/18725?docid=8Gzt%7C7fRl%7C18725%7C20040527045328&q=%C0%CF%BF%E4%C0%CF%C0%BA%20%C1%F1%B0%C5%BF%F6%20%B0%A8%B0%B3%B9%AB%B7%AE)
 11. [［강명석의 TV 홀릭］ '모방'이라고 다 같은 건 아니다](http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=038&aid=0000235000)
 12. [〔방송〕또… 그 나물에… 그밥… 새단장 MBC 시청자 외면](http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=106&oid=020&aid=0000295925)
+13. 한국토지공사 흙기사(현. 한국토지주택공사 흙기사)팀과의 대결은 이창명의 무리한 목 사용으로 탈이 나서 염경환이 대신 진행했다.

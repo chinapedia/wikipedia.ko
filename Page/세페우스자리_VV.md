@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ VV](https://ko.wikipedia.org/wiki/_VV).
+> This article is converted from Wikipedia: [세페우스자리 VV](https://ko.wikipedia.org/wiki/세페우스자리_VV).
 
 
 **세페우스자리 VV**(VV Cephei)는 [지구](../Page/지구.md "wikilink")에서 약 4,900[광년](../Page/광년.md "wikilink") 떨어진 [세페우스자리](../Page/세페우스자리.md "wikilink")에 있는 [식쌍성](https://ko.wikipedia.org/wiki/식쌍성 "wikilink")(蝕雙星)(식변광성)이자 [알골형 변광성이며](../Page/알골형_변광성.md "wikilink"), [극대거성](../Page/극대거성.md "wikilink") A와 [청색 거성으로](https://ko.wikipedia.org/wiki/청색_거성 "wikilink") 추측되는 B로 구성된다.\[1\]\[2\]

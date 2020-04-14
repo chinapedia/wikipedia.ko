@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [PFC  ](https://ko.wikipedia.org/wiki/PFC__).
+> This article is converted from Wikipedia: [PFC 리텍스 로베치](https://ko.wikipedia.org/wiki/PFC_리텍스_로베치).
 
 
 **PFC 리텍스 로베치**()는 [불가리아](../Page/불가리아.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽으로 불가리아 북중부에 위치한 [로베치](../Page/로베치.md "wikilink")를 연고로 하고 있는 클럽이다.

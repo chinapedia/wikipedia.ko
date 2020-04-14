@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  BOY\'S LOVE SCRAMBLE!](https://ko.wikipedia.org/wiki/__BOY\'S_LOVE_SCRAMBLE!).
+> This article is converted from Wikipedia: [학원 헤븐 BOY\'S LOVE SCRAMBLE!](https://ko.wikipedia.org/wiki/학원_헤븐_BOY\'S_LOVE_SCRAMBLE!).
 
 
 《**학원 헤븐 BOY'S LOVE SCRAMBLE\!**》()은 [2002년](../Page/2002년.md "wikilink") [8월 2일에](../Page/8월_2일.md "wikilink") [스프레이에서](https://ko.wikipedia.org/wiki/스프레이_\(게임_업체\) "wikilink") 발매된 [보이즈 러브 게임이다](../Page/보이즈_러브_게임.md "wikilink"). [PC판과](https://ko.wikipedia.org/wiki/퍼스널_컴퓨터 "wikilink") [PS2판이](../Page/플레이스테이션_2.md "wikilink") 있는데, PC판에서 캐릭터 보이스는 없다. [2006년](../Page/2006년.md "wikilink")에 [애니메이션](../Page/애니메이션.md "wikilink")화되었다.
@@ -28,7 +28,7 @@
     문무 두 개의 길의 학생 회장(PS2판에서는 생도회장. 이하 동). 리더쉽은 있지만 학생회의 일을 게으름 피우는 것이 상.
     게으름 피우고 있을 때는 대체로 해변에서 낚시나 낮잠을 자고 있는지, 운동부에 난입해 날뛰고 있는 것이 많아, 부회장 나카지마의 골머리를 썩고 있다. 나카지마와는 입학 직후에 전설이 되어 버린 정도의 큰 싸움을 했지만 당시의 학생회가 학원의 이사회와의 유착이 생겨 괴뢰 상태가 되어 있는 것을 알면 나카지마에 협력을 신청해 손을 잡고 부정을 폭로해 스스로 회장으로 취임한 무용전이 있다. 그 이후로, 학생회와 이사회는 대립관계가 남은 채로 있다.
     약점은 고양이. 우미노의 집고양이인 토노사마는 천적이라고 불러야 할 존재이며, 그(?)를 무서워한 나머지 주인까지 피해서 다니고 있었기 때문에, 우미노에게는 오랫동안 미움받고 있다고 생각되고 있었다(시나리오내에서 오해는 풀 수 있다)
-    혼명은 임금님. 3학년. 부친은 [경시청](https://ko.wikipedia.org/wiki/경시청 "wikilink")의 공안과의 형사로 고양이 싫은 것 원인이다.
+    혼명은 임금님. 3학년. 부친은 [경시청](../Page/경시청.md "wikilink")의 공안과의 형사로 고양이 싫은 것 원인이다.
     신장 187cm, 8월 15일 태생의 사자좌. 혈액형은 B형.
   - 사이온지 카오루()
     성우：[카미야 히로시](../Page/카미야_히로시.md "wikilink")

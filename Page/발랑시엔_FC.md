@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
+> This article is converted from Wikipedia: [발랑시엔 FC](https://ko.wikipedia.org/wiki/발랑시엔_FC).
 
 
 **발랑시엔 FC**(Valenciennes Football Club)는 [발랑시엔](../Page/발랑시엔.md "wikilink")에 위치한 [스타드 뒤 에노](https://ko.wikipedia.org/wiki/스타드_뒤_에노 "wikilink") 경기장을 근거로 하는 [프랑스](../Page/프랑스.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다. 1913년에 창단되어 현재 [프랑스 프로 축구](https://ko.wikipedia.org/wiki/프랑스의_축구 "wikilink") 2부 리그에 속하는 [리그 2에](../Page/리그_2.md "wikilink") 참가중이다.

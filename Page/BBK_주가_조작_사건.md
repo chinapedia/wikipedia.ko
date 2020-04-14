@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [BBK   ](https://ko.wikipedia.org/wiki/BBK___).
+> This article is converted from Wikipedia: [BBK 주가 조작 사건](https://ko.wikipedia.org/wiki/BBK_주가_조작_사건).
 
 
 **BBK 주가 조작 사건**은 [1999년](../Page/1999년.md "wikilink")에 설립된 투자자문회사 [BBK](https://ko.wikipedia.org/wiki/BBK "wikilink")가 옵셔널벤처스 사의 주가를 조작한 사건이다. 주가조작 사건 자체보다도, 주가조작 사건에 [한나라당](https://ko.wikipedia.org/wiki/한나라당 "wikilink") [제17대 대선 후보](../Page/대한민국_제17대_대통령_선거.md "wikilink") [이명박](https://ko.wikipedia.org/wiki/이명박 "wikilink")이 개입되었는지 여부가 더 큰 논란이 되었다. [김경준](https://ko.wikipedia.org/wiki/김경준 "wikilink")은 [이명박](https://ko.wikipedia.org/wiki/이명박 "wikilink")이 BBK의 실제 소유주이며 자신도 주가조작의 피해자라고 주장했고, 이명박은 자신도 김경준에게 사기를 당했다고 주장했다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KBS ](https://ko.wikipedia.org/wiki/KBS_).
+> This article is converted from Wikipedia: [KBS 조이](https://ko.wikipedia.org/wiki/KBS_조이).
 
 
 **KBS 조이**()는 [대한민국](../Page/대한민국.md "wikilink")의 [방송채널 사용사업자](https://ko.wikipedia.org/wiki/대한민국_방송법 "wikilink") [KBS N에서](https://ko.wikipedia.org/wiki/KBS_N "wikilink") 운영하는 [텔레비전](../Page/텔레비전.md "wikilink") [채널로](https://ko.wikipedia.org/wiki/채널_\(통신\) "wikilink"), [쇼 · 오락 · 퀴즈 · 버라이어티](../Page/버라이어티_쇼.md "wikilink") [프로그램을](../Page/텔레비전_프로그램.md "wikilink") 주로 편성하는 채널으로 [2006년](../Page/2006년.md "wikilink") [11월 1일](../Page/11월_1일.md "wikilink") 개국하였다.
@@ -12,6 +12,8 @@
 
 ## 슬로건
 
+  - 대한민국 연예오락 전문채널
+  - 엔터테인먼트 채널
   - 상상 그 이상의 즐거움
 
 ## 역사
@@ -74,6 +76,6 @@
 
 ## 외부 링크
 
-  - [KBS joy 홈페이지](http://www.kbsn.co.kr/joy/index.do)
+  - [홈페이지](http://www.kbsn.co.kr/)
 
 [분류:한국방송공사의 텔레비전 네트워크](https://ko.wikipedia.org/wiki/분류:한국방송공사의_텔레비전_네트워크 "wikilink") [분류:대한민국의 텔레비전 케이블 방송국](https://ko.wikipedia.org/wiki/분류:대한민국의_텔레비전_케이블_방송국 "wikilink") [분류:오락 텔레비전 네트워크](https://ko.wikipedia.org/wiki/분류:오락_텔레비전_네트워크 "wikilink")

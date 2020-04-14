@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [MQ-1C  ](https://ko.wikipedia.org/wiki/MQ-1C__).
+> This article is converted from Wikipedia: [MQ-1C 그레이 이글](https://ko.wikipedia.org/wiki/MQ-1C_그레이_이글).
 
 
 **MQ-1C 그레이 이글**(General Atomics MQ-1C Grey eagle)는 [미국 육군이](../Page/미국_육군.md "wikilink") [MQ-5 헌터](../Page/MQ-5_헌터.md "wikilink") 무인기를 대체하기 위해서 도입하게 된 [MQ-1 프레데터](../Page/MQ-1_프레데터.md "wikilink") 무인기의 개량형 무인기이며, Extended-Range Multi-Purpose (ERMP) 계획으로 미육군의 지원 하에 제네럴 아토믹스가 개발하였다.

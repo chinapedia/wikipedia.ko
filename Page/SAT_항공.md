@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SAT ](https://ko.wikipedia.org/wiki/SAT_).
+> This article is converted from Wikipedia: [SAT 항공](https://ko.wikipedia.org/wiki/SAT_항공).
 
 
 **SAT 항공**()은 [러시아](../Page/러시아.md "wikilink") [사할린주](../Page/사할린주.md "wikilink")를 기반으로 하는 항공사이자 [1992년](../Page/1992년.md "wikilink")부터 [2013년](../Page/2013년.md "wikilink")까지 존재한 항공사로 주요 취항도시는 [대한민국](../Page/대한민국.md "wikilink"), [일본](../Page/일본.md "wikilink"), [중화인민공화국](../Page/중화인민공화국.md "wikilink"), [러시아](../Page/러시아.md "wikilink") 4개국 14개 도시를 취항하고 있다. [허브 공항은](../Page/허브_공항.md "wikilink") [유즈노사할린스크](../Page/유즈노사할린스크.md "wikilink")의 [유즈노사할린스크 공항을](../Page/유즈노사할린스크_공항.md "wikilink") 사용한다.

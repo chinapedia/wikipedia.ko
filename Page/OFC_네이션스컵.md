@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [OFC ](https://ko.wikipedia.org/wiki/OFC_).
+> This article is converted from Wikipedia: [OFC 네이션스컵](https://ko.wikipedia.org/wiki/OFC_네이션스컵).
 
 
 **OFC 네이션스컵**(OFC Nations Cup)은 [오세아니아 축구 연맹이](../Page/오세아니아_축구_연맹.md "wikilink") 주관하는 국가 대항 [축구](../Page/축구.md "wikilink") 대회이다.

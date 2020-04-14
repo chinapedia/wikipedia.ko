@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Someday \( \)](https://ko.wikipedia.org/wiki/Someday_\(_\)).
+> This article is converted from Wikipedia: [Someday \(윤하의 음반\)](https://ko.wikipedia.org/wiki/Someday_\(윤하의_음반\)).
 
 
 《**Someday**》는 [2008년](../Page/2008년.md "wikilink") [8월 28일](../Page/8월_28일.md "wikilink") 발매된 가수 [윤하](../Page/윤하.md "wikilink")의 정규 2집 음반이다.

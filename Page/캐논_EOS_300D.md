@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ EOS 300D](https://ko.wikipedia.org/wiki/_EOS_300D).
+> This article is converted from Wikipedia: [캐논 EOS 300D](https://ko.wikipedia.org/wiki/캐논_EOS_300D).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Eos_300d_v_sst.jpg "wikilink") **[캐논](../Page/캐논.md "wikilink") EOS 300D**()는 630만 [유효 화소를](https://ko.wikipedia.org/wiki/유효_화소 "wikilink") 가진 보급형 [디지털 SLR](https://ko.wikipedia.org/wiki/디지털_SLR "wikilink") [카메라](https://ko.wikipedia.org/wiki/카메라 "wikilink")이다. 북미에는 EOS Digital Rebel, [일본](../Page/일본.md "wikilink")에는 EOS Kiss Digital이란 상품명으로 출시되었다. [2003년](../Page/2003년.md "wikilink") [8월](../Page/8월.md "wikilink") 20일에 발표되었으며 [9월](../Page/9월.md "wikilink")에 시판되었다. [카메라](https://ko.wikipedia.org/wiki/카메라 "wikilink")만 $899, 번들 렌즈 포함시 $999에 출시되었다.

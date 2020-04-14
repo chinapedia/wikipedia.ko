@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [AI \(\)](https://ko.wikipedia.org/wiki/AI_\(\)).
+> This article is converted from Wikipedia: [AI \(가수\)](https://ko.wikipedia.org/wiki/AI_\(가수\)).
 
 
 **AI** (아이, , [1981년](../Page/1981년.md "wikilink") [11월 2일](../Page/11월_2일.md "wikilink") \~ )는 [일본](../Page/일본.md "wikilink")의 여성 가수로, 본명은 **우에무라 아이 카리나**(植村 愛 Carina)이다. [미국](../Page/미국.md "wikilink") [로스앤젤레스](https://ko.wikipedia.org/wiki/로스앤젤레스 "wikilink")에서 [일본인](../Page/일본인.md "wikilink") 아버지와 일본-[이탈리아](../Page/이탈리아.md "wikilink") 혼혈인 어머니 사이에서 태어났다. [2000년](../Page/2000년.md "wikilink") [11월 22일](../Page/11월_22일.md "wikilink") 첫 싱글 〈Cry, just Cry〉로 데뷔했다.

@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [First soundscope \~\~](https://ko.wikipedia.org/wiki/First_soundscope_\~\~).
+> This article is converted from Wikipedia: [First soundscope \~미즈노나이하레타우미에\~](https://ko.wikipedia.org/wiki/First_soundscope_\~미즈노나이하레타우미에\~).
 
 
-**first soundscope \~물이 없는 맑게 개인 바다에\~** () 는 [GARNET CROW의](../Page/GARNET_CROW.md "wikilink") 첫 번째 앨범이다. [2001년](../Page/2001년.md "wikilink") [1월 31일](../Page/1월_31일.md "wikilink") [GIZA studio에서](../Page/GIZA_studio.md "wikilink") 발매되었다.
+**first soundscope \~물이 없는 맑게 개인 바다에\~**() 는 [GARNET CROW의](../Page/GARNET_CROW.md "wikilink") 첫 번째 앨범이다. [2001년](../Page/2001년.md "wikilink") [1월 31일](../Page/1월_31일.md "wikilink") [GIZA studio에서](../Page/GIZA_studio.md "wikilink") 발매되었다.
 
 전곡의 작곡은 [나카무라 유리](https://ko.wikipedia.org/wiki/나카무라_유리 "wikilink"), 작사는 [아즈키 나나](../Page/아즈키_나나.md "wikilink"), 편곡은 [후루이 히로히토](../Page/후루이_히로히토.md "wikilink") (1번 트랙인〈물이 없는 맑게 개인 바다에〉는 Miguel sa Pessoa, 2번 트랙인〈[너의 집에 도착할 때까지 계속 달려가](https://ko.wikipedia.org/wiki/너의_집에_도착할_때까지_계속_달려가 "wikilink")〉는 Miguel sa Pessoa·후루이 히로히토 편곡) 가 맡았다.
 

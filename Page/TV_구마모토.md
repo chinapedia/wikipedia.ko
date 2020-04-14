@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TV ](https://ko.wikipedia.org/wiki/TV_).
+> This article is converted from Wikipedia: [TV 구마모토](https://ko.wikipedia.org/wiki/TV_구마모토).
 
 
 [200px](https://ko.wikipedia.org/wiki/파일:Tku_logo.svg "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:JOZH-TV_Kumamoto_2011.JPG "wikilink") **TV 구마모토**는 [1969년](../Page/1969년.md "wikilink") [4월 1일](../Page/4월_1일.md "wikilink") [구마모토현](../Page/구마모토현.md "wikilink")의 2번째 민영방송국으로 개국했다.

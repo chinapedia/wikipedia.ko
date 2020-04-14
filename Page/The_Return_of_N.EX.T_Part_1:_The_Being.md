@@ -30,7 +30,7 @@
 </dl>
 <ul>
 <li><a href="../Page/신해철.md" title="wikilink">신해철</a> - <a href="../Page/음악_프로듀서.md" title="wikilink">프로듀서</a>, <a href="https://ko.wikipedia.org/wiki/리드_보컬" title="wikilink">보컬</a>, <a href="../Page/피아노.md" title="wikilink">피아노</a>, <a href="https://ko.wikipedia.org/wiki/키보드_(악기)" title="wikilink">키보드</a>, <a href="https://ko.wikipedia.org/wiki/리듬_기타" title="wikilink">리듬 기타</a>(2~4, 6), <a href="../Page/베이스_기타.md" title="wikilink">베이스 기타</a>, 무그, <a href="https://ko.wikipedia.org/wiki/코러스_(대중음악)" title="wikilink">코러스</a>, 백 보컬</li>
-<li><a href="../Page/이동규_(1968년).md" title="wikilink">이동규</a> - 전자드럼 (1), 베이스 기타, <a href="https://ko.wikipedia.org/wiki/보컬" title="wikilink">보컬</a>(5), 백 보컬</li>
+<li><a href="../Page/이동규_(1968년).md" title="wikilink">이동규</a> - 전자드럼(1), 베이스 기타, <a href="https://ko.wikipedia.org/wiki/보컬" title="wikilink">보컬</a>(5), 백 보컬</li>
 <li><a href="https://ko.wikipedia.org/wiki/임창수_(음악인)" title="wikilink">임창수</a> - 리드 기타(<a href="../Page/전기_기타.md" title="wikilink">전기 기타</a>), 백 보컬</li>
 <li><a href="../Page/이수용_(드러머).md" title="wikilink">이수용</a> - <a href="https://ko.wikipedia.org/wiki/드럼" title="wikilink">드럼</a>(2, 5), 백 보컬</li>
 </ul>

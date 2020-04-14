@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [UEFA  2008  G](https://ko.wikipedia.org/wiki/UEFA__2008__G).
+> This article is converted from Wikipedia: [UEFA 유로 2008 예선 G조](https://ko.wikipedia.org/wiki/UEFA_유로_2008_예선_G조).
 
 
 다음은 **[UEFA 유로 2008 예선](../Page/UEFA_유로_2008_예선.md "wikilink") G조**의 순위와 경기 결과이다.

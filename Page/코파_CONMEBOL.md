@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ CONMEBOL](https://ko.wikipedia.org/wiki/_CONMEBOL).
+> This article is converted from Wikipedia: [코파 CONMEBOL](https://ko.wikipedia.org/wiki/코파_CONMEBOL).
 
 
 **코파 CONMEBOL**(, )은 [1992년](../Page/1992년.md "wikilink")부터 [1999년](../Page/1999년.md "wikilink")까지 [남미 축구 연맹](../Page/남미_축구_연맹.md "wikilink")(CONMEBOL)이 주관했던 클럽 축구 대회이다. [유럽 축구 연맹](../Page/유럽_축구_연맹.md "wikilink")(UEFA)의 UEFA컵(현재의 [UEFA 유로파리그](../Page/UEFA_유로파리그.md "wikilink"))과 비슷한 성격의 대회였다.

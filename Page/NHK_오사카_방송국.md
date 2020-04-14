@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [NHK  ](https://ko.wikipedia.org/wiki/NHK__).
+> This article is converted from Wikipedia: [NHK 오사카 방송국](https://ko.wikipedia.org/wiki/NHK_오사카_방송국).
 
 
 **NHK 오사카 방송국**은 [오사카부](../Page/오사카부.md "wikilink")를 포함한 [간사이 지방을](https://ko.wikipedia.org/wiki/간사이_지방 "wikilink") 총괄하는 NHK의 방송총국급 지역방송국이며 중파·FM라디오·텔레비전 방송을 담당하고 있다.

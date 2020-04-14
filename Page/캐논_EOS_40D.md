@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ EOS 40D](https://ko.wikipedia.org/wiki/_EOS_40D).
+> This article is converted from Wikipedia: [캐논 EOS 40D](https://ko.wikipedia.org/wiki/캐논_EOS_40D).
 
 
 **캐논 EOS 40D**()는 [2007년](../Page/2007년.md "wikilink") [8월](../Page/8월.md "wikilink")에 발표된 준전문가용 [디지털 SLR 카메라이다](https://ko.wikipedia.org/wiki/디지털_SLR_카메라 "wikilink"). 22.2 × 14.8 mm 크기의 1010만 [유효 화소](https://ko.wikipedia.org/wiki/유효_화소 "wikilink") [CMOS 이미지 센서를](https://ko.wikipedia.org/wiki/CMOS_이미지_센서 "wikilink") 가지고 있다. [캐논 EOS 30D의](../Page/캐논_EOS_30D.md "wikilink") 후속 기종이며, [캐논 EF-S 렌즈 마운트](https://ko.wikipedia.org/wiki/캐논_EF-S_렌즈_마운트 "wikilink") 및 [캐논 EF 렌즈 마운트를](https://ko.wikipedia.org/wiki/캐논_EF_렌즈_마운트 "wikilink") 지원한다.

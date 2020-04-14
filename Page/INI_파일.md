@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [INI ](https://ko.wikipedia.org/wiki/INI_).
+> This article is converted from Wikipedia: [INI 파일](https://ko.wikipedia.org/wiki/INI_파일).
 
 
 **INI(Initialization) 파일** [포맷은](https://ko.wikipedia.org/wiki/파일_형식 "wikilink") [설정 파일에](https://ko.wikipedia.org/wiki/설정_파일 "wikilink") 대한 [de facto](https://ko.wikipedia.org/wiki/de_facto "wikilink") 표준이다. INI 파일은 단순 구조의 [텍스트 파일로](../Page/텍스트_파일.md "wikilink") 이루어져 있다. 보통 [마이크로소프트 윈도와](https://ko.wikipedia.org/wiki/마이크로소프트_윈도 "wikilink") 연결되어 있지만 다른 [운영 체제에서도](../Page/운영_체제.md "wikilink") 사용할 수 있다. "INI 파일"이라는 이름은 ".INI"라는 [파일 확장자가](../Page/파일_확장자.md "wikilink") 따라오지만, ".CFG", ".conf"\[1\]\[2\], ".TXT"\[3\] 등의 다른 확장자를 사용하기도 한다.

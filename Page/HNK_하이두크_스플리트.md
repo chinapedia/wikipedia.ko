@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [HNK  ](https://ko.wikipedia.org/wiki/HNK__).
+> This article is converted from Wikipedia: [HNK 하이두크 스플리트](https://ko.wikipedia.org/wiki/HNK_하이두크_스플리트).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Hajduk_Split_and_Dinamo_Zagreb_derby.jpg "wikilink")

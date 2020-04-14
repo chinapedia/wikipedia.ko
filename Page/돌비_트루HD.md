@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ HD](https://ko.wikipedia.org/wiki/_HD).
+> This article is converted from Wikipedia: [돌비 트루HD](https://ko.wikipedia.org/wiki/돌비_트루HD).
 
 
 [180px](https://ko.wikipedia.org/wiki/파일:Dolby_TrueHD.svg "wikilink") **돌비 트루HD**(, 줄임말로 트루HD)는 [돌비 연구소가](../Page/돌비_연구소.md "wikilink") 개발한 오디오 코덱이다. [무손실 압축](https://ko.wikipedia.org/wiki/무손실_압축 "wikilink") 코덱이자, 다채널 오디오 코덱이다. [HD-DVD](../Page/HD-DVD.md "wikilink"), [BD](https://ko.wikipedia.org/wiki/블루레이_디스크 "wikilink") 등의 [고선명](../Page/고선명_텔레비전.md "wikilink") 홈 엔터테인먼트 장비에 쓰일 목적으로 개발되었다. 돌비 트루HD는 [디지털 시어터 시스템](https://ko.wikipedia.org/wiki/디지털_시어터_시스템 "wikilink")()이 개발한 무손실 오디오 압축 코덱인 [DTS-HD 마스터 오디오와는](../Page/DTS-HD_마스터_오디오.md "wikilink") 경쟁 관계에 있다.

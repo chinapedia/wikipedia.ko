@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [CHEMISTRY \( \)](https://ko.wikipedia.org/wiki/CHEMISTRY_\(_\)).
+> This article is converted from Wikipedia: [CHEMISTRY \(음악 그룹\)](https://ko.wikipedia.org/wiki/CHEMISTRY_\(음악_그룹\)).
 
 
 **케미스트리** (CHEMISTRY)는 도친 요시쿠니와 가와바타 가나메로 구성된 [일본](../Page/일본.md "wikilink")의 [팝](../Page/팝_음악.md "wikilink")/[R\&B](https://ko.wikipedia.org/wiki/리듬_앤_블루스 "wikilink") 음악 그룹이다.

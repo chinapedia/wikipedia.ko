@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FTSE 100 ](https://ko.wikipedia.org/wiki/FTSE_100_).
+> This article is converted from Wikipedia: [FTSE 100 지수](https://ko.wikipedia.org/wiki/FTSE_100_지수).
 
 
 **FTSE 100 지수**(, , "풋시ː 원 헌드레드 인덱스", 보통 줄여서 **FTSE 100**)는 [런던 증권거래소에](https://ko.wikipedia.org/wiki/런던_증권거래소 "wikilink") 상장되어 있는 주식 중, [시가총액](https://ko.wikipedia.org/wiki/시가총액 "wikilink") 순서대로 100개 기업의 주가를 지수화한 [종합 주가 지수이다](https://ko.wikipedia.org/wiki/주가_지수 "wikilink"). 영국 주식 시장의 대표 지수이다.

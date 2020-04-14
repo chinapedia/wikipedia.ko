@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  PC](https://ko.wikipedia.org/wiki/__PC).
+> This article is converted from Wikipedia: [윈도우 가상 PC](https://ko.wikipedia.org/wiki/윈도우_가상_PC).
 
 
 **윈도우 가상 PC**(Windows Virtual PC)는 [마이크로소프트](../Page/마이크로소프트.md "wikilink") [윈도우](../Page/마이크로소프트_윈도우.md "wikilink") [운영 체제용](../Page/운영_체제.md "wikilink") [가상화](../Page/가상화.md "wikilink") 제품군이며, [파워피씨](https://ko.wikipedia.org/wiki/파워피씨 "wikilink") 기반 시스템의 [맥 오에스 텐용](https://ko.wikipedia.org/wiki/맥_오에스_텐 "wikilink") [에뮬레이션](https://ko.wikipedia.org/wiki/에뮬레이션 "wikilink") 제품군이다. 이 소프트웨어는 원래 [Connectix](https://ko.wikipedia.org/wiki/Connectix "wikilink")사가 만들었으며, 나중에 마이크로소프트에 인수되었다. 2006년 7월에, 마이크로소프트는 윈도우 호스트 버전의 제품을 무료로 배포하였다. 2006년 8월에, 마이크로소프트는 매킨토시 호스트 버전의 제품은 인텔 기반의 매킨토시로 포팅되지 않을 것이며, 결과적으로 파워피씨 기반의 매킨토시 제품은 더 이상 제조를 하지 않을 것이라고 언급하였다.

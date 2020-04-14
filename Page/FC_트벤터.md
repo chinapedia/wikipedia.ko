@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FC ](https://ko.wikipedia.org/wiki/FC_).
+> This article is converted from Wikipedia: [FC 트벤터](https://ko.wikipedia.org/wiki/FC_트벤터).
 
 
 **FC 트벤터**()는 [네덜란드](../Page/네덜란드.md "wikilink") [엔스헤데](../Page/엔스헤데.md "wikilink")를 연고지로 하는 프로 [축구](../Page/축구.md "wikilink") 클럽이다. 2부 리그인 [에이르스터 디비시](../Page/에이르스터_디비시.md "wikilink") 소속이다. 트벤터는 [1965년](../Page/1965년.md "wikilink") [7월 1일에](../Page/7월_1일.md "wikilink") SC 엔스헤데(Sportclub Enschede)와 엔스헤데서 보이스 (Enschedese Boys)의 통합으로 만들어졌다. 전신인 SC 엔스헤데는 [1926년](../Page/1926년.md "wikilink")에 1회의 우승 기록이 있으며 2009-10 시즌 우승을 차지하였다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Gadget-navpop.css](https://ko.wikipedia.org/wiki/:Gadget-navpop.css).
+> This article is converted from Wikipedia: [미디어위키:Gadget-navpop.css](https://ko.wikipedia.org/wiki/미디어위키:Gadget-navpop.css).
 
 
 .popupMoreLink {

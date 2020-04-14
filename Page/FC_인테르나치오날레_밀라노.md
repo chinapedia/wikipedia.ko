@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FC  ](https://ko.wikipedia.org/wiki/FC__).
+> This article is converted from Wikipedia: [FC 인테르나치오날레 밀라노](https://ko.wikipedia.org/wiki/FC_인테르나치오날레_밀라노).
 
 
 **FC 인테르나치오날레 밀라노**(, 통상 **인테르**로 불리며, 영어권에서는 **인터 밀란**\[1\]\[2\])는 [이탈리아](../Page/이탈리아.md "wikilink") [프로축구](../Page/축구.md "wikilink") 1부 리그인 [세리에 A에](../Page/세리에_A.md "wikilink") 소속되어 있는 축구 클럽이다. 별칭으로 유니폼이 검정색/파랑색 줄무늬의 이탈리아어인 **네라추리**(Nerazzurri)라고 불린다. 명칭 중의 연고지 표기인 "밀라노"는 생략하는 경우가 있으나, 수식어인 "인테르나치오날레"는 경쟁팀인 [AC 밀란과](../Page/AC_밀란.md "wikilink") 구별하기 위해서 줄여서라도 반드시 언급한다 (예: 영어로 Inter Milan).

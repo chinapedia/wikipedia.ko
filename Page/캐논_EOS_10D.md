@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ EOS 10D](https://ko.wikipedia.org/wiki/_EOS_10D).
+> This article is converted from Wikipedia: [캐논 EOS 10D](https://ko.wikipedia.org/wiki/캐논_EOS_10D).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Canon_EOS_10D.jpg "wikilink") **캐논 EOS 10D**()는 630만 [유효 화소를](https://ko.wikipedia.org/wiki/유효_화소 "wikilink") 가지는 준전문가용 [디지털 SLR](https://ko.wikipedia.org/wiki/디지털_SLR "wikilink") [카메라](https://ko.wikipedia.org/wiki/카메라 "wikilink")이다. [2003년](../Page/2003년.md "wikilink") [2월 27일에](../Page/2월_27일.md "wikilink") 발표되었다. [캐논 EOS D60의](https://ko.wikipedia.org/wiki/캐논_EOS_D60 "wikilink") 후속 모델이다. 22.7 × 15.1 mm 크기의 [CMOS 이미지 센서를](https://ko.wikipedia.org/wiki/CMOS_이미지_센서 "wikilink") 가지고 있으며 [캐논 EF 마운트를](../Page/캐논_EF_마운트.md "wikilink") 지원한다. [EF-S 렌즈는](../Page/캐논_EF-S_마운트.md "wikilink") 지원하지 않는다.

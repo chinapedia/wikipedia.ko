@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ FM](https://ko.wikipedia.org/wiki/_FM).
+> This article is converted from Wikipedia: [라스트 FM](https://ko.wikipedia.org/wiki/라스트_FM).
 
 
 **라스트 FM**(Last.fm)은 [영국](../Page/영국.md "wikilink")에 기반을 둔 인터넷 라디오 방송과 [2005년](../Page/2005년.md "wikilink") [8월](../Page/8월.md "wikilink") 자매 사이트인 음악 추천 시스템 **오디오스크로블러**(Audioscrobbler)를 병합한 [웹사이트](../Page/웹사이트.md "wikilink")이다. 이 시스템은 각 사용자의 음악 취향을 저장해둔 구체적인 프로필을 바탕으로 사용자에게 사용자의 취향에 맞는 곡들을 추천하고, 비슷한 취향의 이용자들을 서로 연결시켜 주고, 개개인에게 맞춤 라디오 스테이션을 제공한다.

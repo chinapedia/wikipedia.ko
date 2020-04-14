@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ KY](https://ko.wikipedia.org/wiki/_KY).
+> This article is converted from Wikipedia: [백조자리 KY](https://ko.wikipedia.org/wiki/백조자리_KY).
 
 
 **백조자리 KY**는 [백조자리](../Page/백조자리.md "wikilink") 방향으로 지구로부터 약 5000 [광년](../Page/광년.md "wikilink")\[1\] 떨어진 곳에 있는 M3.5Ia 분광형의 [적색초거성](../Page/적색초거성.md "wikilink")이다. 이 별은 지금까지 관측된 [항성](https://ko.wikipedia.org/wiki/항성 "wikilink")들 중 부피 면에서 순위권에 들어가는 천체로 반지름은 태양의 약 1420 배로 추정된다. K-대역의 특이한 측정결과로부터 태양 반지름의 2850 배로 크기를 추정한 연구결과도 있다. 만약 이 항성을 [태양계](../Page/태양계.md "wikilink") 중심에 놓는다면 별의 표면은 [목성](../Page/목성.md "wikilink")(또는 [토성](../Page/토성.md "wikilink")) 궤도를 넘어갈 것이다. 백조자리 KY는 광도 또한 태양의 약 30만 배 또는 그 몇 배로 추정되며, [아주 밝은 별들의](../Page/절대등급_순_항성_목록.md "wikilink") 반열에 들어간다.

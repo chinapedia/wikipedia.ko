@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [NHK  2](https://ko.wikipedia.org/wiki/NHK__2).
+> This article is converted from Wikipedia: [NHK 라디오 제2방송](https://ko.wikipedia.org/wiki/NHK_라디오_제2방송).
 
 
 **NHK 라디오 제2방송**은 [일본 방송 협회에서](../Page/일본방송협회.md "wikilink") 운영하는 [라디오](../Page/라디오.md "wikilink") 방송국 중의 하나이다.

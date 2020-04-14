@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  KV](https://ko.wikipedia.org/wiki/__KV).
+> This article is converted from Wikipedia: [클뤼프 브뤼허 KV](https://ko.wikipedia.org/wiki/클뤼프_브뤼허_KV).
 
 
 **클뤼프 브뤼허 KV**()는 [벨기에](../Page/벨기에.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽으로 [브뤼허](../Page/브뤼허.md "wikilink")에 연고를 두고 있다. 이 팀은 [1891년](../Page/1891년.md "wikilink")에 창단되었고, 홈 경기장은 [얀 브레이델 경기장으로](https://ko.wikipedia.org/wiki/얀_브레이델_경기장 "wikilink") 약 3만명을 수용할 수 있다.

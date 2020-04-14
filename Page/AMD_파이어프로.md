@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [AMD ](https://ko.wikipedia.org/wiki/AMD_).
+> This article is converted from Wikipedia: [AMD 파이어프로](https://ko.wikipedia.org/wiki/AMD_파이어프로).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:AMD_DirectGMA.svg "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:FireGL4.jpg "wikilink") **파이어프로**(FirePro)는 IBM 지오메트리와 레스터라이저 칩 기반의 워크스테이션 계열의 그래픽 가속기를 제조했던 영국 회사였다. [ATI](https://ko.wikipedia.org/wiki/ATI "wikilink")가 나중에 이 회사를 사들여서 파이어프로 [그래픽 카드를](../Page/그래픽_카드.md "wikilink") 워크스테이션 계열의 컴퓨팅을 위해 개발해 나가기 시작하였다.

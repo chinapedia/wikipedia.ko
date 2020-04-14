@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TV       ](https://ko.wikipedia.org/wiki/TV_______).
+> This article is converted from Wikipedia: [TV애니메이션 러키☆스타 후반 엔딩테마집 시라이시 미노루의 남자의 자장가](https://ko.wikipedia.org/wiki/TV애니메이션_러키☆스타_후반_엔딩테마집_시라이시_미노루의_남자의_자장가).
 
 
 《**TV애니메이션 《러키☆스타》 후반 엔딩테마집 시라이시 미노루의 남자의 자장가**》()는 텔레비전 애니메이션 《[러키☆스타](../Page/러키☆스타_\(애니메이션\).md "wikilink")》의 엔딩 테마집. [2007년](../Page/2007년.md "wikilink") [10월 10일](../Page/10월_10일.md "wikilink") 발매되었다.

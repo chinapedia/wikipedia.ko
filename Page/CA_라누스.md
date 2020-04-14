@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [CA ](https://ko.wikipedia.org/wiki/CA_).
+> This article is converted from Wikipedia: [CA 라누스](https://ko.wikipedia.org/wiki/CA_라누스).
 
 
-**라누스** ()는 [아르헨티나](../Page/아르헨티나.md "wikilink") [부에노스아이레스](../Page/부에노스아이레스.md "wikilink")의 [라누스](https://ko.wikipedia.org/wiki/라누스 "wikilink") 지역을 근거로 하는 [축구](../Page/축구.md "wikilink")[클럽](https://ko.wikipedia.org/wiki/클럽 "wikilink")이다. [1915년](../Page/1915년.md "wikilink") [1월 3일](../Page/1월_3일.md "wikilink") 설립되었다.
+**라누스**()는 [아르헨티나](../Page/아르헨티나.md "wikilink") [부에노스아이레스](../Page/부에노스아이레스.md "wikilink")의 [라누스](https://ko.wikipedia.org/wiki/라누스 "wikilink") 지역을 근거로 하는 [축구](../Page/축구.md "wikilink")[클럽](https://ko.wikipedia.org/wiki/클럽 "wikilink")이다. [1915년](../Page/1915년.md "wikilink") [1월 3일](../Page/1월_3일.md "wikilink") 설립되었다.
 
 수차례 [1부 리그와](../Page/아르헨티나_프리메라_디비시온.md "wikilink") [2부 리그를](../Page/프리메라_B_나시오날.md "wikilink") 전전하던 팀이었으나, [1996년](../Page/1996년.md "wikilink") [코파 CONMEBOL을](../Page/코파_CONMEBOL.md "wikilink") 우승하고, [2007년](../Page/2007년.md "wikilink")에는 클럽 역사상 가장 화려한 성과를 거두면서 창단 92년 만에 프리메라 디비시온([아페르투라](https://ko.wikipedia.org/wiki/아페르투라 "wikilink")) 우승을 차지했다. 아페르투라 기간 중에 [호세 산드](https://ko.wikipedia.org/wiki/호세_산드 "wikilink")(José Sand)는 15경기에서 15골을 넣으면서 팀의 영웅이 되었다.
 

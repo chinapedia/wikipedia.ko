@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ EC](https://ko.wikipedia.org/wiki/_EC).
+> This article is converted from Wikipedia: [크루제이루 EC](https://ko.wikipedia.org/wiki/크루제이루_EC).
 
 
 **크루제이루 이스포르치 클루비**(Cruzeiro Esporte Clube)는 브라질의 축구 클럽으로, [미나스제라이스주](../Page/미나스제라이스주.md "wikilink")의 도시인 [벨루오리존치](../Page/벨루오리존치.md "wikilink")를 연고로 한다. [2018년](../Page/2018년.md "wikilink") 현재 브라질 전국 리그인 [캄페오나투 브라질레이루 세리이 A와](https://ko.wikipedia.org/wiki/캄페오나투_브라질레이루_세리이_A "wikilink") 미나스제라이스 주의 주별 리그 [캄페오나투 미네이루에](https://ko.wikipedia.org/wiki/캄페오나투_미네이루 "wikilink") 참여하고 있다. 2018년 기준으로 브라질 전국 리그 1부에서 단 한번도 강등된 적 없는 네 개 클럽 중 하나였으나 2019시즌 강등되었다.

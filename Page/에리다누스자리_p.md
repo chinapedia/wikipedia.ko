@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ p](https://ko.wikipedia.org/wiki/_p).
+> This article is converted from Wikipedia: [에리다누스자리 p](https://ko.wikipedia.org/wiki/에리다누스자리_p).
 
 
 **에리다누스자리 p**는 [지구](../Page/지구.md "wikilink")에서 약 26광년 떨어진, [에리다누스자리](../Page/에리다누스자리.md "wikilink") 방향에 있는 [쌍성계](https://ko.wikipedia.org/wiki/쌍성계 "wikilink")이다. [오스트레일리아](../Page/오스트레일리아.md "wikilink") [천문학자](../Page/천문학자.md "wikilink") 제임스 던롭이 [1825년](../Page/1825년.md "wikilink") 12월 이 별을 최초로 발견했다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ISSF ](https://ko.wikipedia.org/wiki/ISSF_).
+> This article is converted from Wikipedia: [ISSF 월드컵](https://ko.wikipedia.org/wiki/ISSF_월드컵).
 
 
 **ISSF 월드컵**(ISSF World Cup)은 [국제사격연맹](https://ko.wikipedia.org/wiki/국제사격연맹 "wikilink")이 주관하는 국제 [사격](../Page/사격.md "wikilink") 경기 대회의 하나이다. 이 대회는 선수들에게 [올림픽](https://ko.wikipedia.org/wiki/올림픽 "wikilink") 참가 자격을 부여하기 위해 1986년에 창설되었다. 올림픽 정식 종목으로만 치러지며, 1년에 네 번 열린다. 1988년부터는 그 해의 가장 우수한 선수들만을 초청하여 다른 4회와는 별도로 ‘ISSF 월드컵 파이널’(ISSF World Cup Final)대회를 개최하고 있다.

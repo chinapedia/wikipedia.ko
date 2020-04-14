@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ TV ](https://ko.wikipedia.org/wiki/_TV_).
+> This article is converted from Wikipedia: [홋카이도 TV 방송](https://ko.wikipedia.org/wiki/홋카이도_TV_방송).
 
 
 **홋카이도 TV 방송**은 [1968년](../Page/1968년.md "wikilink") [11월 3일](../Page/11월_3일.md "wikilink") [홋카이도](../Page/홋카이도.md "wikilink")의 3번째 민영방송으로 개국했다.
@@ -68,7 +68,7 @@ HTB가 개국할 때까지 홋카이도에서 일본 교육 TV(NET, 현재의 [T
 
 ## 외부 링크
 
-  - [공식 사이트](http://www.htb.co.jp)
+  - [공식 사이트](https://web.archive.org/web/20081108030607/http://www.htb.co.jp/)
 
 [분류:올 닛폰 뉴스 네트워크](https://ko.wikipedia.org/wiki/분류:올_닛폰_뉴스_네트워크 "wikilink") [분류:일본의 텔레비전 방송사](https://ko.wikipedia.org/wiki/분류:일본의_텔레비전_방송사 "wikilink") [분류:1967년 설립](https://ko.wikipedia.org/wiki/분류:1967년_설립 "wikilink") [분류:1968년 설립된 텔레비전 방송국과 채널](https://ko.wikipedia.org/wiki/분류:1968년_설립된_텔레비전_방송국과_채널 "wikilink")
 

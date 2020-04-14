@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [UC  ](https://ko.wikipedia.org/wiki/UC__).
+> This article is converted from Wikipedia: [UC 버클리 법학대학원](https://ko.wikipedia.org/wiki/UC_버클리_법학대학원).
 
 
 **캘리포니아 대학교 버클리 로스쿨**()은 [미국 서부](https://ko.wikipedia.org/wiki/미국_서부 "wikilink") [UC 버클리의](https://ko.wikipedia.org/wiki/UC_버클리 "wikilink") [법학전문대학원(law school)이다](../Page/미국의_로스쿨.md "wikilink"). 미국의 최상위 명문 로스쿨 중 하나이다. 2008년에 오랫동안 사용하던 보울트홀(Boalt Hall)이라는 이름 사용을 중단하고 버클리로(Berkeley Law)로 명칭을 변경하였다. 3년 J.D.(법무박사), 1년 LL.M.(법학석사), S.J.D.(법률과학박사) 및 Jurisprudence and Social Policy Ph.D.(법학과 사회정책학 박사) 학위과정을 제공한다. 지적재산법 분야에서는 [스탠포드 로스쿨과](../Page/스탠퍼드_법학대학원.md "wikilink") 함께 최고로 인정받는다.\[1\]\[2\]

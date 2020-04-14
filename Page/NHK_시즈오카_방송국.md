@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [NHK  ](https://ko.wikipedia.org/wiki/NHK__).
+> This article is converted from Wikipedia: [NHK 시즈오카 방송국](https://ko.wikipedia.org/wiki/NHK_시즈오카_방송국).
 
 
 **NHK 시즈오카 방송국**(靜岡 放送局)은 [시즈오카현](../Page/시즈오카현.md "wikilink")을 방송구역으로 하는 NHK의 지역방송국이며 중파·FM라디오·텔레비전 방송을 담당하고 있다.

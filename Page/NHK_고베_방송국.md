@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [NHK  ](https://ko.wikipedia.org/wiki/NHK__).
+> This article is converted from Wikipedia: [NHK 고베 방송국](https://ko.wikipedia.org/wiki/NHK_고베_방송국).
 
 
 **NHK 고베 방송국**(NHK神戸放送局)은 [효고현](../Page/효고현.md "wikilink")을 방송구역으로 하는 NHK의 지역방송국이며 FM라디오·텔레비전 방송을 담당하고 있다. [섬네일](https://ko.wikipedia.org/wiki/파일:NHK_Kobe_Station_Bldg_20090906-001.jpg "wikilink")

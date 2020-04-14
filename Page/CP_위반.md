@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [CP ](https://ko.wikipedia.org/wiki/CP_).
+> This article is converted from Wikipedia: [CP 위반](https://ko.wikipedia.org/wiki/CP_위반).
 
 
 [물리학](../Page/물리학.md "wikilink")에서 **CP 대칭성 깨짐**(CP violation)은 물리적 현상이 [패리티 대칭](https://ko.wikipedia.org/wiki/패리티_대칭 "wikilink")(P)과 [전하 켤레 대칭](../Page/전하_켤레_대칭.md "wikilink")(C)을 조합한 **CP 대칭**을 깨는 것이다. 깨진 양은 아주 작지만, 우주에서 물질과 반물질의 양이 같지 않다는 사실을 설명한다. 이론적으로, 중력과 전자기력은 CP 대칭을 보존하지만, 약력과 강력은 CP 대칭을 깨뜨릴 수 있다. 약력의 CP 위반은 관측되었지만, 강력의 CP 위반은 실험적으로 관측할 수 없을 정도로 작다.

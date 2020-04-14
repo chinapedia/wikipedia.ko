@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [: A](https://ko.wikipedia.org/wiki/:_A).
+> This article is converted from Wikipedia: [틀:세리에 A](https://ko.wikipedia.org/wiki/틀:세리에_A).
 
 
 } |내용속성 = hlist |제목모양 = background:\#BFD7FF; |묶음모양 = background:\#BFD7FF; |묶음1 = [2019-20시즌](https://ko.wikipedia.org/wiki/세리에_A_2019-20 "wikilink") |내용1 =

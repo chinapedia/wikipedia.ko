@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ FM ](https://ko.wikipedia.org/wiki/_FM_).
+> This article is converted from Wikipedia: [요코하마 FM 방송](https://ko.wikipedia.org/wiki/요코하마_FM_방송).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Yokohama_Landmark_Tower_02.JPG "wikilink")\]\] **요코하마 FM방송**은 일본의 FM라디오 방송국으로 [가나가와현](../Page/가나가와현.md "wikilink")에서 방송을 실시하고 있다.

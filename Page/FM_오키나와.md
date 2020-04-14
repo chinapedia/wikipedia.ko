@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FM ](https://ko.wikipedia.org/wiki/FM_).
+> This article is converted from Wikipedia: [FM 오키나와](https://ko.wikipedia.org/wiki/FM_오키나와).
 
 
 **FM오키나와**()는 [일본](../Page/일본.md "wikilink")의 [FM](https://ko.wikipedia.org/wiki/FM "wikilink") [라디오](../Page/라디오.md "wikilink") [방송국](https://ko.wikipedia.org/wiki/방송국 "wikilink")이다.

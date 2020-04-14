@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ \(LGBT\)](https://ko.wikipedia.org/wiki/_\(LGBT\)).
+> This article is converted from Wikipedia: [게이머 \(LGBT\)](https://ko.wikipedia.org/wiki/게이머_\(LGBT\)).
 
 
 **게이머**(gaymer)는 자신이 [게이](https://ko.wikipedia.org/wiki/게이 "wikilink"), [양성애자](https://ko.wikipedia.org/wiki/양성애자 "wikilink"), [레즈비언](../Page/레즈비언.md "wikilink"), 혹은 [성전환자](https://ko.wikipedia.org/wiki/성전환자 "wikilink")임을 밝히고 [비디오 게임](../Page/비디오_게임.md "wikilink") 커뮤니티에서 활동하는 사람들을 지칭하는 용어이다. 게이(gay)와 일반적으로 게임을 하는 사람을 나타내는 [게이머](https://ko.wikipedia.org/wiki/게이머 "wikilink")(gamer)의 [혼성어](https://ko.wikipedia.org/wiki/혼성어 "wikilink")이다.

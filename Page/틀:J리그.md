@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:J](https://ko.wikipedia.org/wiki/:J).
+> This article is converted from Wikipedia: [틀:J리그](https://ko.wikipedia.org/wiki/틀:J리그).
 
 
 <onlyinclude></onlyinclude>

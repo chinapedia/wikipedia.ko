@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [NC \(\)](https://ko.wikipedia.org/wiki/NC_\(\)).
+> This article is converted from Wikipedia: [NC \(복잡도\)](https://ko.wikipedia.org/wiki/NC_\(복잡도\)).
 
 
 [계산 복잡도 이론에서](../Page/계산_복잡도_이론.md "wikilink") **NC**(Nick's Class)는 프로세서가 다항 개인 [병렬 컴퓨터가](https://ko.wikipedia.org/wiki/병렬_컴퓨터 "wikilink") 다항로그 시간에 판정할 수 있는 [판정 문제의](https://ko.wikipedia.org/wiki/판정_문제 "wikilink") 집합이다. 다시 말해서, 어떤 문제가 **NC**라는 것은, 이 문제를 상수 \(c\)와 \(k\)에 대해서 병렬 프로세서 \(O(n^k)\)개를 써서 \(O(\log^c n)\)시간에 풀 수 있다는 뜻이다. [스티븐 쿡은](../Page/스티븐_쿡.md "wikilink") 회로를 다항로그 깊이와 다항 크기에 대해서 연구를 많이 한 [닉 피펜저의](https://ko.wikipedia.org/wiki/닉_피펜저 "wikilink") 이름을 따서 라는 이름을 지었다.

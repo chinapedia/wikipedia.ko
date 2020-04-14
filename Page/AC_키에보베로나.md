@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [AC ](https://ko.wikipedia.org/wiki/AC_).
+> This article is converted from Wikipedia: [AC 키에보베로나](https://ko.wikipedia.org/wiki/AC_키에보베로나).
 
 
 **아소차치오네 칼초 키에보베로나**()는 보통 **키에보베로나**(ChievoVerona) 또는 **키에보**(Chievo)라고 불리는 [이탈리아](../Page/이탈리아.md "wikilink")의 축구 클럽으로, [베네토주](../Page/베네토주.md "wikilink") [베로나](../Page/베로나.md "wikilink")의 [키에보를](https://ko.wikipedia.org/wiki/:it:Chievo_\(Verona\) "wikilink") 연고로 한다. 이 클럽은 [1929년](../Page/1929년.md "wikilink"), 팔루아니가 소유하고 있는 케이크 가게의 후원을 받아 **팔루아니 키에보**(Paluani Chievo)라는 이름으로 창단되었으며, 클럽의 애칭은 ***Clivensi***와 ***Squadra della diga*** 또는 ***Mussi volanti***다. 이들은 지역 더비를 이루는 팀인 [엘라스 베로나와](https://ko.wikipedia.org/wiki/엘라스_베로나 "wikilink") 39,211 좌석을 보유하고 있는 [스타디오 마르칸토니오 벤테고디를](https://ko.wikipedia.org/wiki/스타디오_마르칸토니오_벤테고디 "wikilink") 공유한다.

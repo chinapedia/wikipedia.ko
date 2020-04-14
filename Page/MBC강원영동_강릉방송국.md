@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [MBC ](https://ko.wikipedia.org/wiki/MBC_).
+> This article is converted from Wikipedia: [MBC강원영동 강릉방송국](https://ko.wikipedia.org/wiki/MBC강원영동_강릉방송국).
 
 
 **MBC강원영동 강릉방송국**(MBC江原嶺東江陵放送局)은 영동 중북부지역을 가시청권으로 하는 TV·라디오 방송국으로, [1968년](../Page/1968년.md "wikilink") [6월 22일에](../Page/6월_22일.md "wikilink") 개국하였다. 본사는 [강원도](https://ko.wikipedia.org/wiki/강원도_\(남\) "wikilink") [강릉시](https://ko.wikipedia.org/wiki/강릉시 "wikilink") 포남동에 위치해 있으며, 1988년 포남동 신사옥으로 이전했다. [2014년](../Page/2014년.md "wikilink") [2월 19일](../Page/2월_19일.md "wikilink") [삼척문화방송](https://ko.wikipedia.org/wiki/삼척문화방송 "wikilink")과의 통합이 확정되어, 2015년 1월 1일부터 MBC 강원영동으로 출범함에 따라 MBC강원영동 강릉방송국이 되었다.
@@ -126,15 +126,15 @@
   - 호출부호 : HLAF-DTV
   - 가상채널 : 11-1
 
-| 송신소     | UHD   | HD    | 송신소 위치                  | KBS 수신 안내            |
-| ------- | ----- | ----- | ----------------------- | -------------------- |
-| 물리채널    | 출력    | 물리채널  | 출력                      |                      |
-| 괘방산 송신소 | CH 53 | 4kW   | CH 14                   | 2kW                  |
-| 고성 중계소  |       | CH 34 | 90W                     | 강원 고성군 죽왕면 오봉리 산56-1 |
-| 속초 중계소  | CH 23 | 50W   | 강원 속초시 도문동 산321 목우재     | 본사 my MBC HD         |
-| 양양 중계소  | CH 28 | 90W   | 강원 양양군 손양면 상왕도리 산158-4  | 경북권 my MBC           |
-| 대관령 중계소 | CH 25 | 90W   | 강원 평창군 대관령면 횡계리 산1      | 본사 my MBC HD         |
-| 옥계 중계소  | CH 23 | 20W   | 강원 강릉시 옥계면 주수리 산25-4 밥봉 | 경북권 my MBC           |
+| 송신소     | UHD   | HD    | 송신소 위치                  |
+| ------- | ----- | ----- | ----------------------- |
+| 물리채널    | 출력    | 물리채널  | 출력                      |
+| 괘방산 송신소 | CH 53 | 4kW   | CH 14                   |
+| 고성 중계소  |       | CH 34 | 90W                     |
+| 속초 중계소  | CH 23 | 50W   | 강원 속초시 도문동 산321 목우재     |
+| 양양 중계소  | CH 28 | 90W   | 강원 양양군 손양면 상왕도리 산158-4  |
+| 대관령 중계소 | CH 25 | 90W   | 강원 평창군 대관령면 횡계리 산1      |
+| 옥계 중계소  | CH 23 | 20W   | 강원 강릉시 옥계면 주수리 산25-4 밥봉 |
 
   - 아날로그TV
 
@@ -159,22 +159,92 @@
 
 #### MBC강원영동 강릉 라디오
 
-| 프로그램명                                                                                                          | 요일   | 시간   | 진행자 |
-| -------------------------------------------------------------------------------------------------------------- | ---- | ---- | --- |
-| [MBC 정오종합뉴스](../Page/MBC_정오종합뉴스.md "wikilink")                                                                 | 월\~금 | 5분   |     |
-| MBC 15시 뉴스                                                                                                     | 월\~금 | 5분   | 김현수 |
-| MBC 17시 뉴스                                                                                                     | 월\~금 | 5분   | 김서영 |
-| [라디오 가든](https://web.archive.org/web/20160630025747/http://www.mbceg.co.kr/program/radio_02)                   | 월\~금 | 100분 | 김현수 |
-| [라디오 동서남북 (MBC강원영동 삼척방송국)](https://web.archive.org/web/20160630023840/http://www.mbceg.co.kr/program/radio_03) | 월\~금 | 30분  | 민기원 |
-|                                                                                                                |      |      |     |
+<table>
+<thead>
+<tr class="header">
+<th><p>프로그램명</p></th>
+<th><p>요일</p></th>
+<th><p>시간</p></th>
+<th><p>진행자</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><a href="../Page/MBC_정오종합뉴스.md" title="wikilink">MBC 정오종합뉴스</a></p></td>
+<td><p>평일</p></td>
+<td><p>5분</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>MBC 15시 뉴스</p></td>
+<td><p>김현수</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>MBC 17시 뉴스</p></td>
+<td><p>김서영</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="http://www.mbceg.co.kr/program/radio_02">라디오 가든</a></p></td>
+<td><p>1시간 40분</p></td>
+<td><p>김현수</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="http://www.mbceg.co.kr/program/radio_03">라디오 동서남북<br />
+(MBC강원영동 삼척방송국)</a></p></td>
+<td><p>30분</p></td>
+<td><p>민기원</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 #### MBC강원영동 강릉 FM4U
 
-| 프로그램명                                                                                                                             | 요일   | 시간   | 진행자         |
-| --------------------------------------------------------------------------------------------------------------------------------- | ---- | ---- | ----------- |
-| [노기환의 FM 골든디스크](https://web.archive.org/web/20151123230825/http://www.wjmbc.co.kr/radio/prog_intro.html?pgcode=goldendisc&pview=) | 월\~일 | 60분  | 노기환 (원주MBC) |
-| [정오의 희망곡 이호석입니다](https://chmbc.co.kr/programme/A5V919bMKJYp7Cw)                                                                   | 월\~일 | 120분 | 이호석 (춘천MBC) |
-| [오후의 발견](http://www.mbceg.co.kr/program/radio_06)                                                                                 | 월\~일 | 120분 | 성스리         |
+<table>
+<thead>
+<tr class="header">
+<th><p>프로그램명</p></th>
+<th><p>요일</p></th>
+<th><p>시간</p></th>
+<th><p>진행자</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><a href="http://www.wjmbc.co.kr/radio/prog_intro.html?pgcode=goldendisc&amp;pview=">노기환의 FM<br />
+골든디스크</a></p></td>
+<td><p>매일</p></td>
+<td><p>1시간</p></td>
+<td><p>노기환<br />
+(원주MBC)</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://chmbc.co.kr/programme/A5V919bMKJYp7Cw">정오의 희망곡<br />
+이호석입니다</a></p></td>
+<td><p>2시간</p></td>
+<td><p>이호석<br />
+(춘천MBC)</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="http://www.mbceg.co.kr/program/radio_06">오후의 발견</a></p></td>
+<td><p>성스리</p></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 ### 방송 송출 시설망
 
@@ -200,9 +270,9 @@
 ### 아나운서
 
   - 김현수 국장
-  - 민기원
-  - 성스리
-  -
+  - 민기원 부장
+  - 성스리 실장
+
 ### 강릉 보도국
 
   - 보도국장 : 황병춘
@@ -228,6 +298,6 @@
 
 ## 외부 링크
 
-  - [MBC강원영동 강릉방송국 홈페이지](https://web.archive.org/web/20150625184155/http://www.mbceg.co.kr/)
+  - [MBC강원영동 강릉방송국 홈페이지](http://www.mbceg.co.kr/)
 
 [분류:문화방송계열 방송국](https://ko.wikipedia.org/wiki/분류:문화방송계열_방송국 "wikilink") [분류:대한민국의 강원도 지상파 방송국](https://ko.wikipedia.org/wiki/분류:대한민국의_강원도_지상파_방송국 "wikilink") [분류:강릉시](https://ko.wikipedia.org/wiki/분류:강릉시 "wikilink") [분류:1968년 설립](https://ko.wikipedia.org/wiki/분류:1968년_설립 "wikilink")

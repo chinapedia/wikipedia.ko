@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KBO    ](https://ko.wikipedia.org/wiki/KBO____).
+> This article is converted from Wikipedia: [KBO 리그 연도별 팀 순위](https://ko.wikipedia.org/wiki/KBO_리그_연도별_팀_순위).
 
 
 다음은 [한국 프로 야구](https://ko.wikipedia.org/wiki/KBO_리그 "wikilink") 연도별 팀 순위이다.

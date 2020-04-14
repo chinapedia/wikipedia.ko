@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ IF](https://ko.wikipedia.org/wiki/_IF).
+> This article is converted from Wikipedia: [헬싱보리 IF](https://ko.wikipedia.org/wiki/헬싱보리_IF).
 
 
 **헬싱보리 IF**(Helsingborgs IF)는 [헬싱보리](../Page/헬싱보리.md "wikilink")의 [올륌피아를](../Page/올륌피아_\(경기장\).md "wikilink") 홈구장으로 하는 [스웨덴](../Page/스웨덴.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다. [1907년](../Page/1907년.md "wikilink") 창단되었다.

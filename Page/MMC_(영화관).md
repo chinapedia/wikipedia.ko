@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [MMC \(\)](https://ko.wikipedia.org/wiki/MMC_\(\)).
+> This article is converted from Wikipedia: [MMC \(영화관\)](https://ko.wikipedia.org/wiki/MMC_\(영화관\)).
 
 
 **MMC**(My Megaplex Cinemas)는 (유)만경관에서 운영하였던 [멀티플렉스 영화관](../Page/복합_상영관.md "wikilink") 프랜차이즈 브랜드였다.

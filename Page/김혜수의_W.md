@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ W](https://ko.wikipedia.org/wiki/_W).
+> This article is converted from Wikipedia: [김혜수의 W](https://ko.wikipedia.org/wiki/김혜수의_W).
 
 
 **김혜수의 W**(**W**orld **W**ide **W**eekly)는 [MBC의](../Page/문화방송.md "wikilink") 방송 프로그램으로, 국제관련 소식을 전하는 시사프로그램이다. [2010년](../Page/2010년.md "wikilink") [7월 16일부터](../Page/7월_16일.md "wikilink") 폐지할 때까지 [김혜수](../Page/김혜수.md "wikilink")가 진행을 맡았다. 초기에는 W라는 이름이, 2010년에 들어서 세계와 나 W라는 이름이 사용되었으며 [2010년](../Page/2010년.md "wikilink") [7월 16일](../Page/7월_16일.md "wikilink") 부터 김혜수의 W 라는 이름으로 방송되었다가 [스타 오디션 위대한 탄생이라는](https://ko.wikipedia.org/wiki/스타_오디션_위대한_탄생 "wikilink") 프로그램이 이 프로그램을 대신해 방송되고 있다.

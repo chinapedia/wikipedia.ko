@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Ecma ](https://ko.wikipedia.org/wiki/Ecma_).
+> This article is converted from Wikipedia: [Ecma 인터내셔널](https://ko.wikipedia.org/wiki/Ecma_인터내셔널).
 
 
 **Ecma 인터내셔널**()은 정보와 통신 시스템을 위한 국제적 [표준화 기구이다](../Page/표준화_기구.md "wikilink").\[1\] 원래 이름은 European Computer Manufacturers Association (ECMA)이었으나, 기구의 국제적 확장을 반영하여 현재의 이름으로 바뀌었다. 따라서 지금의 Ecma는 [두문자어](../Page/두문자어.md "wikilink")가 아니며 대문자만 사용하지 않는다.

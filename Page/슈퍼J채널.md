@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [J](https://ko.wikipedia.org/wiki/J).
+> This article is converted from Wikipedia: [슈퍼J채널](https://ko.wikipedia.org/wiki/슈퍼J채널).
 
 
 **슈퍼J채널**(일어:**スーパーJチャンネル**, 영어:**Super J Channel**, 통칭:J채널, J챤)은 [테레비 아사히](https://ko.wikipedia.org/wiki/테레비_아사히 "wikilink")([ANN](../Page/올_닛폰_뉴스_네트워크.md "wikilink"))계열을 통해 [1997년](../Page/1997년.md "wikilink") [3월 31일부터](../Page/3월_31일.md "wikilink") 방송하고 있는 저녁 뉴스프로그램이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [NHK  ](https://ko.wikipedia.org/wiki/NHK__).
+> This article is converted from Wikipedia: [NHK 히메지 지국](https://ko.wikipedia.org/wiki/NHK_히메지_지국).
 
 
 **NHK 히메지 지국**(姫路 支局)은 [NHK 고베 방송국의](../Page/NHK_고베_방송국.md "wikilink") 지국으로 주로 효고현 하리마·타지마 지역을 대상으로 뉴스 취재, 수신료 징수, 기술 상담등을 서비스하고 있다.

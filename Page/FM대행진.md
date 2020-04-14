@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FM](https://ko.wikipedia.org/wiki/FM).
+> This article is converted from Wikipedia: [FM대행진](https://ko.wikipedia.org/wiki/FM대행진).
 
 
 《**조우종의 FM대행진**》은 [대한민국](../Page/대한민국.md "wikilink")의 방송국인 [한국방송공사](../Page/한국방송공사.md "wikilink")의 라디오 채널 [KBS 쿨FM](../Page/KBS_제2FM.md "wikilink")(수도권 FM 89.1㎒)에서 매일 아침 7시부터 오전 9시까지 방송하는 아침정보 라디오 프로그램이며, [대한민국](../Page/대한민국.md "wikilink")의 아침방송 중 최장수 프로그램이다. FM방송인 [KBS 쿨FM으로는](../Page/KBS_제2FM.md "wikilink") [수도권](../Page/수도권.md "wikilink")에서만 들을 수 있으며 DMB채널인 [U-KBS MUSIC으로는](https://ko.wikipedia.org/wiki/U-KBS_MUSIC "wikilink") 전국에서 모두 들을 수 있다. 평일에는 생방송, 주말에는 녹음방송이다.

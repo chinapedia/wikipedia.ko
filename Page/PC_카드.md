@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [PC ](https://ko.wikipedia.org/wiki/PC_).
+> This article is converted from Wikipedia: [PC 카드](https://ko.wikipedia.org/wiki/PC_카드).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Pcmcia-type-ii-and-iii.jpg "wikilink") [컴퓨팅](../Page/컴퓨팅.md "wikilink") 환경에서 **PC 카드** (PCMCIA 카드)는 [노트북 컴퓨터를](https://ko.wikipedia.org/wiki/노트북_컴퓨터 "wikilink") 위해 설계된 주변 기기 인터페이스의 [폼 팩터이다](https://ko.wikipedia.org/wiki/폼_팩터 "wikilink").

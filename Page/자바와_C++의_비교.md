@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ C++ ](https://ko.wikipedia.org/wiki/_C++_).
+> This article is converted from Wikipedia: [자바와 C++의 비교](https://ko.wikipedia.org/wiki/자바와_C++의_비교).
 
 
 이 글은 **[자바와](../Page/자바_\(프로그래밍_언어\).md "wikilink") [C++ 프로그래밍 언어의](https://ko.wikipedia.org/wiki/C++ "wikilink") 비교**에 대한 글이다.

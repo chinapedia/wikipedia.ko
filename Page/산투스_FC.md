@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
+> This article is converted from Wikipedia: [산투스 FC](https://ko.wikipedia.org/wiki/산투스_FC).
 
 
 **산투스 FC**()는 보통 **산투스**라고 알려져 있으며, [상파울루주](../Page/상파울루주.md "wikilink")의 [산투스](../Page/산투스.md "wikilink")를 연고로 하는 [브라질](../Page/브라질.md "wikilink")의 축구 클럽이다. 산투스 FC는 [2018년](../Page/2018년.md "wikilink") 현재 [브라질](../Page/브라질.md "wikilink")의 최상위 전국 리그인 [캄페오나투 브라질레이루 세리이 A와](https://ko.wikipedia.org/wiki/캄페오나투_브라질레이루_세리이_A "wikilink") 상파울루 [주 리그](../Page/브라질의_주별_리그.md "wikilink") [캄페오나투 파울리스타에](../Page/캄페오나투_파울리스타.md "wikilink") 참가하고 있다.
@@ -9,7 +9,7 @@
 
 홈 유니폼은 모두 하얀색이고, 어웨이 유니폼은 검은색 및 흰색 수직 줄무늬 또는 검은색 반바지로 이루어져있다. 하지만 클럽의 클럽의 규칙에 의하면 팀이 처음으로 선택한 유니폼은 줄무늬가 든 셔츠와 흰색 반바지 및 흰색 양말이다.
 
-[펠레](../Page/펠레.md "wikilink") (1999년, [IOC에](../Page/국제_올림픽_위원회.md "wikilink") 의해 "세기의 운동 선수"로 뽑힘.) 는 1956년에 이 팀에서 선수 생활을 시작했으며, 15살의 나이에 데뷔해, 17년간 산투스에서 선수 생활을 했다. 펠레는 이와 더불어 1962년과 1963년에 열린 [인터콘티넨털컵에서](../Page/인터콘티넨털컵_\(축구\).md "wikilink") 산투스의 우승을 견인했다.
+[펠레](../Page/펠레.md "wikilink") (1999년, [IOC에](../Page/국제_올림픽_위원회.md "wikilink") 의해 "세기의 운동 선수"로 뽑힘.)는 1956년에 이 팀에서 선수 생활을 시작했으며, 15살의 나이에 데뷔해, 17년간 산투스에서 선수 생활을 했다. 펠레는 이와 더불어 1962년과 1963년에 열린 [인터콘티넨털컵에서](../Page/인터콘티넨털컵_\(축구\).md "wikilink") 산투스의 우승을 견인했다.
 
 [1998년](../Page/1998년.md "wikilink") [1월 20일](../Page/1월_20일.md "wikilink"), 산투스는 축구 역사상 처음으로 10,000골을 돌파한 팀이 되었다. 최근에는, [2005년](../Page/2005년.md "wikilink") [10월 26일](../Page/10월_26일.md "wikilink"), [상 자누아리누에서](https://ko.wikipedia.org/wiki/상_자누아리우_경기장 "wikilink") 펼쳐진 [바스쿠 다 가마와의](../Page/CR_바스쿠_다_가마.md "wikilink") 원정 경기에서 제일송이 팀의 11,000번째 골이자, 경기 첫 골을 성공시켰고, 산투스는 이 골에 힘입어 경기에서 3-1로 이겼다.
 

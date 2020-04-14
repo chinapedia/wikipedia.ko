@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [VALENTI \(\)](https://ko.wikipedia.org/wiki/VALENTI_\(\)).
+> This article is converted from Wikipedia: [VALENTI \(노래\)](https://ko.wikipedia.org/wiki/VALENTI_\(노래\)).
 
 
 〈**VALENTI**〉는 가수 [보아](../Page/보아.md "wikilink")가 [일본](../Page/일본.md "wikilink")에서 발매한 6번째 싱글이다.

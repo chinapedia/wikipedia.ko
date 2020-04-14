@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [US ](https://ko.wikipedia.org/wiki/US_).
+> This article is converted from Wikipedia: [US 레체](https://ko.wikipedia.org/wiki/US_레체).
 
 
 **우니오네 스포르티바 레체**()는 [이탈리아](../Page/이탈리아.md "wikilink")의 축구 클럽으로, [풀리아주](../Page/풀리아주.md "wikilink")의 [레체](../Page/레체.md "wikilink")를 연고로 한다. 이 클럽은 [1905년](../Page/1905년.md "wikilink")에 창단, 시즌의 상당 부분을 [세리에 A와](../Page/세리에_A.md "wikilink") [세리에 B에서](../Page/세리에_B.md "wikilink") 보냈고, 최초로 [세리에 A에](../Page/세리에_A.md "wikilink") 승격된 것은 [1985년](../Page/1985년.md "wikilink")이다.

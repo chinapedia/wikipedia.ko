@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [MBC ](https://ko.wikipedia.org/wiki/MBC_).
+> This article is converted from Wikipedia: [MBC충북 청주방송국](https://ko.wikipedia.org/wiki/MBC충북_청주방송국).
 
 
 **MBC충북 청주방송국**(MBC忠北 淸州放送局)은 [충청북도](https://ko.wikipedia.org/wiki/충청북도 "wikilink") 중남부와 [충청남도](https://ko.wikipedia.org/wiki/충청남도 "wikilink"), [세종특별자치시](../Page/세종특별자치시.md "wikilink"), [대전광역시](https://ko.wikipedia.org/wiki/대전광역시 "wikilink") 일부를 가시청권으로 하는 방송사로, [1970년](../Page/1970년.md "wikilink") [10월 23일에](../Page/10월_23일.md "wikilink") 개국하였다. 본사는 [충청북도](https://ko.wikipedia.org/wiki/충청북도 "wikilink") [청주시](../Page/청주시.md "wikilink") [흥덕구](../Page/흥덕구.md "wikilink") [가경동](../Page/가경동.md "wikilink")에 위치한다.
@@ -300,7 +300,7 @@ MBC충북 청주방송국의 보도 프로그램은 아래와 같다.
   - 이영락
   - 구본상
   - 조혜선
-  - 오명신
+  - 정미정
 
 ### MC,DJ,리포터
 

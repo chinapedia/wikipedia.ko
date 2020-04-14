@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ SV](https://ko.wikipedia.org/wiki/_SV).
+> This article is converted from Wikipedia: [함부르크 SV](https://ko.wikipedia.org/wiki/함부르크_SV).
 
 
 **함부르거 슈포르트-페어라인 e. V.** (Hamburger Sport-Verein e. V.)는 [독일](../Page/독일.md "wikilink") [함부르크](../Page/함부르크.md "wikilink")에 위치한 스포츠 클럽이며, 가장 큰 부서는 [축구](../Page/축구.md "wikilink")이다. 이 팀은 [독일](../Page/독일.md "wikilink") 내에서 가장 오래되고, 가장 잘 알려져 있고, 가장 좋은 역량을 가지고 있었다. 1차 세계대전 이후 줄곧 1부리그에만 속해 있었으며, 1963년 [분데스리가](../Page/분데스리가.md "wikilink")가 출범한 이래 2018년 구단 사상 최초로 [2. 분데스리가로](../Page/2._분데스리가.md "wikilink") 강등될 때 까지 [1. 분데스리가에만](https://ko.wikipedia.org/wiki/1._분데스리가 "wikilink") 머물러 있었던 유일한 클럽이기도 하였다.

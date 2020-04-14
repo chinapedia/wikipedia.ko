@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ AFC](https://ko.wikipedia.org/wiki/_AFC).
+> This article is converted from Wikipedia: [선덜랜드 AFC](https://ko.wikipedia.org/wiki/선덜랜드_AFC).
 
 
 **선덜랜드 어소시에이션 풋볼 클럽**()은 [잉글랜드](../Page/잉글랜드.md "wikilink") [타인 위어 주를](https://ko.wikipedia.org/wiki/타인_위어_주 "wikilink") 연고로 하는 축구 클럽이다. 1879년에 창단된 이후, 6번의 1부 리그 우승을 차지하였다. 1937년와 1973년에는 [FA컵에서](https://ko.wikipedia.org/wiki/FA컵_\(잉글랜드\) "wikilink") 우승을 차지하였다.

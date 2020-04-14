@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:FT](https://ko.wikipedia.org/wiki/:FT).
+> This article is converted from Wikipedia: [틀:FT아일랜드](https://ko.wikipedia.org/wiki/틀:FT아일랜드).
 
 
 <onlyinclude></onlyinclude>

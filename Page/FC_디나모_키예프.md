@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FC  ](https://ko.wikipedia.org/wiki/FC__).
+> This article is converted from Wikipedia: [FC 디나모 키예프](https://ko.wikipedia.org/wiki/FC_디나모_키예프).
 
 
 **FK 디나모 키예프**(, )는 [키예프](../Page/키예프.md "wikilink")를 연고로 하는 [우크라이나](../Page/우크라이나.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽으로 [1927년](../Page/1927년.md "wikilink") 창단되었다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KBS ](https://ko.wikipedia.org/wiki/KBS_).
+> This article is converted from Wikipedia: [KBS 드라마시티](https://ko.wikipedia.org/wiki/KBS_드라마시티).
 
 
 《**KBS 드라마시티**》는 [KBS 2TV에서](../Page/KBS_2TV.md "wikilink") [2000년](../Page/2000년.md "wikilink") [5월 3일부터](../Page/5월_3일.md "wikilink") [2008년](../Page/2008년.md "wikilink") [3월 29일까지](../Page/3월_29일.md "wikilink") 방송된 단막극 형식의 드라마 시리즈다.
@@ -1745,7 +1745,7 @@
 <tr class="even">
 <td><p>190</p></td>
 <td><p>5월 23일</p></td>
-<td><p>봉메골 산삼소동</p></td>
+<td><p>봉메골 산삼소동 </p></td>
 <td><p><a href="../Page/변희봉.md" title="wikilink">변희봉</a>, <a href="../Page/남능미.md" title="wikilink">남능미</a>, <a href="../Page/김하균.md" title="wikilink">김하균</a>, <a href="../Page/노현희.md" title="wikilink">노현희</a>,<br />
 <a href="https://ko.wikipedia.org/wiki/정상" title="wikilink">정상</a>, <a href="../Page/김미라.md" title="wikilink">김미라</a>, <a href="https://ko.wikipedia.org/wiki/차주원" title="wikilink">차주원</a>, <a href="https://ko.wikipedia.org/wiki/이원종" title="wikilink">이원종</a></p></td>
 <td><p>남미자</p></td>
@@ -1762,7 +1762,7 @@
 <tr class="even">
 <td><p>192</p></td>
 <td><p>6월 6일</p></td>
-<td><p>언젠가는</p></td>
+<td><p>언젠가는 </p></td>
 <td><p><a href="../Page/옥소리.md" title="wikilink">옥소리</a>, <a href="../Page/김홍표.md" title="wikilink">김홍표</a>, <a href="../Page/정영숙.md" title="wikilink">정영숙</a>, <a href="https://ko.wikipedia.org/wiki/김수현" title="wikilink">김수현</a>,<br />
 <a href="../Page/김승욱.md" title="wikilink">김승욱</a>, <a href="https://ko.wikipedia.org/wiki/허충호" title="wikilink">허충호</a>, <a href="https://ko.wikipedia.org/wiki/이광훈" title="wikilink">이광훈</a>, <a href="https://ko.wikipedia.org/wiki/박정우" title="wikilink">박정우</a>,<br />
 <a href="https://ko.wikipedia.org/wiki/이경은" title="wikilink">이경은</a></p></td>
@@ -1808,7 +1808,7 @@
 <tr class="odd">
 <td><p>197</p></td>
 <td><p>7월 11일</p></td>
-<td><p>우아하게 거절하는 법</p></td>
+<td><p>우아하게 거절하는 법 </p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/최유정" title="wikilink">최유정</a>, <a href="../Page/고정민.md" title="wikilink">고정민</a>, <a href="https://ko.wikipedia.org/wiki/박형재" title="wikilink">박형재</a></p></td>
 <td><p>이용연</p></td>
 <td><p>김명욱</p></td>
@@ -1816,7 +1816,7 @@
 <tr class="even">
 <td><p>198</p></td>
 <td><p>7월 18일</p></td>
-<td><p>칼끝에 핀 꽃</p></td>
+<td><p>칼끝에 핀 꽃 </p></td>
 <td><p><a href="../Page/장현성.md" title="wikilink">장현성</a>, <a href="../Page/임성언.md" title="wikilink">임성언</a>, <a href="https://ko.wikipedia.org/wiki/이동규" title="wikilink">이동규</a></p></td>
 <td><p>김진희</p></td>
 <td><p>배경수</p></td>
@@ -2046,7 +2046,7 @@
 <tr class="even">
 <td><p>222</p></td>
 <td><p>1월 23일</p></td>
-<td><p>아빠 돈 내세요</p></td>
+<td><p>아빠 돈 내세요 </p></td>
 <td><p><a href="../Page/권해효.md" title="wikilink">권해효</a>, <a href="../Page/문천식.md" title="wikilink">문천식</a>, <a href="https://ko.wikipedia.org/wiki/문정희" title="wikilink">문정희</a>, <a href="https://ko.wikipedia.org/wiki/박인환" title="wikilink">박인환</a>,<br />
 <a href="../Page/윤용현.md" title="wikilink">윤용현</a>, <a href="https://ko.wikipedia.org/wiki/김경식" title="wikilink">김경식</a></p></td>
 <td><p>김균태</p></td>
@@ -2055,7 +2055,7 @@
 <tr class="odd">
 <td><p>223</p></td>
 <td><p>1월 30일</p></td>
-<td><p>황금숲, 토끼</p></td>
+<td><p>황금숲, 토끼 </p></td>
 <td><p><a href="../Page/이얼.md" title="wikilink">이얼</a>, <a href="../Page/최수린.md" title="wikilink">최수린</a>, <a href="https://ko.wikipedia.org/wiki/이효정" title="wikilink">이효정</a>, <a href="https://ko.wikipedia.org/wiki/김영기" title="wikilink">김영기</a></p></td>
 <td><p>고은선</p></td>
 <td><p>김용수</p></td>
@@ -2122,7 +2122,7 @@
 <tr class="odd">
 <td><p>231</p></td>
 <td><p>4월 10일</p></td>
-<td><p>바람난 아빠</p></td>
+<td><p>바람난 아빠 </p></td>
 <td><p><a href="../Page/류덕환.md" title="wikilink">류덕환</a>, <a href="../Page/정동환.md" title="wikilink">정동환</a>, <a href="https://ko.wikipedia.org/wiki/장서린" title="wikilink">장서린</a></p></td>
 <td><p>최영인</p></td>
 <td><p>문영진</p></td>
@@ -2157,7 +2157,7 @@
 <tr class="odd">
 <td><p>235</p></td>
 <td><p>5월 7일</p></td>
-<td><p>낙타씨의 행방불명</p></td>
+<td><p>낙타씨의 행방불명 </p></td>
 <td><p><a href="../Page/문지윤.md" title="wikilink">문지윤</a>, <a href="../Page/기주봉.md" title="wikilink">기주봉</a>, <a href="../Page/김선화_(배우).md" title="wikilink">김선화</a>, <a href="../Page/박승태.md" title="wikilink">박승태</a>,<br />
 <a href="../Page/송지영.md" title="wikilink">송지영</a>, <a href="../Page/이한위.md" title="wikilink">이한위</a>, <a href="https://ko.wikipedia.org/wiki/정구연" title="wikilink">정구연</a>, <a href="https://ko.wikipedia.org/wiki/서동원" title="wikilink">서동원</a>,<br />
 <a href="../Page/이지희.md" title="wikilink">이지희</a></p></td>
@@ -2167,7 +2167,7 @@
 <tr class="even">
 <td><p>236</p></td>
 <td><p>5월 14일</p></td>
-<td><p>산사의 아침</p></td>
+<td><p>산사의 아침 </p></td>
 <td><p><a href="../Page/이대로.md" title="wikilink">이대로</a>, <a href="../Page/윤주상.md" title="wikilink">윤주상</a>, <a href="https://ko.wikipedia.org/wiki/김학철" title="wikilink">김학철</a>, <a href="https://ko.wikipedia.org/wiki/이병욱" title="wikilink">이병욱</a>,<br />
 <a href="https://ko.wikipedia.org/wiki/이봉규" title="wikilink">이봉규</a></p></td>
 <td><p>김필진</p></td>
@@ -2351,8 +2351,8 @@
 <td><p>257</p></td>
 <td><p>10월 22일</p></td>
 <td><p>블랙메일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/이현경" title="wikilink">이현경</a>, <a href="../Page/이두일.md" title="wikilink">이두일</a>, <a href="../Page/양은용.md" title="wikilink">양은용</a>, <a href="../Page/최용민.md" title="wikilink">최용민</a>,<br />
-<a href="../Page/윤지숙.md" title="wikilink">윤지숙</a></p></td>
+<td><p><a href="../Page/이현경_(배우).md" title="wikilink">이현경</a>, <a href="../Page/이두일.md" title="wikilink">이두일</a>, <a href="../Page/양은용.md" title="wikilink">양은용</a>, <a href="../Page/최용민.md" title="wikilink">최용민</a>,<br />
+<a href="../Page/윤지숙.md" title="wikilink">윤지숙</a>, <a href="../Page/김하은.md" title="wikilink">김현진</a>, <a href="../Page/고규필.md" title="wikilink">고규필</a></p></td>
 <td><p>김혜정</p></td>
 <td><p>홍석구</p></td>
 </tr>
@@ -2458,7 +2458,7 @@
 <tr class="odd">
 <td><p>267</p></td>
 <td><p>1월 21일</p></td>
-<td><p>내일 또 내 일</p></td>
+<td><p>내일 또 내 일 </p></td>
 <td><p><a href="../Page/안내상.md" title="wikilink">안내상</a>, <a href="../Page/황미선.md" title="wikilink">황미선</a>, <a href="https://ko.wikipedia.org/wiki/김지영" title="wikilink">김지영</a>, <a href="https://ko.wikipedia.org/wiki/박건태" title="wikilink">박건태</a>,<br />
 <a href="https://ko.wikipedia.org/wiki/이병준" title="wikilink">이병준</a></p></td>
 <td><p>최민기</p></td>
@@ -2565,7 +2565,7 @@
 <tr class="odd">
 <td><p>279</p></td>
 <td><p>4월 22일</p></td>
-<td><p>내 인생의 일춘기</p></td>
+<td><p>내 인생의 일춘기 </p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/이석민" title="wikilink">이석민</a>, <a href="../Page/임승대.md" title="wikilink">임승대</a>, <a href="../Page/최지연.md" title="wikilink">최지연</a>, <a href="../Page/추귀정.md" title="wikilink">추귀정</a></p></td>
 <td><p>신지원</p></td>
 <td><p>김형석</p></td>
@@ -3222,7 +3222,7 @@
 <tr class="odd">
 <td><p>350</p></td>
 <td><p>11월 17일</p></td>
-<td><p>수맥을 잡아라</p></td>
+<td><p>수맥을 잡아라 </p></td>
 <td><p>김성은, <a href="../Page/최주봉.md" title="wikilink">최주봉</a>, <a href="../Page/장효진.md" title="wikilink">장효진</a>, <a href="../Page/이경진.md" title="wikilink">이경진</a>,<br />
 <a href="../Page/김승욱.md" title="wikilink">김승욱</a>, <a href="../Page/이성민_(배우).md" title="wikilink">이성민</a>, 최윤미, 한춘일,<br />
 김두용</p></td>
@@ -3241,7 +3241,7 @@
 <tr class="odd">
 <td><p>352</p></td>
 <td><p>12월 1일</p></td>
-<td><p>아귀</p></td>
+<td><p>아귀 </p></td>
 <td><p>윤지후, <a href="https://ko.wikipedia.org/wiki/이현경" title="wikilink">이현경</a>, 윤영삼, 박정우,<br />
 이일재, 김병찬, <a href="../Page/윤순홍.md" title="wikilink">윤순홍</a>, 송승용</p></td>
 <td><p>최경미</p></td>
@@ -3293,7 +3293,7 @@
 <tr class="odd">
 <td><p>355</p></td>
 <td><p>1월 5일</p></td>
-<td><p>비밀, 당신만 모르는</p></td>
+<td><p>비밀, 당신만 모르는 </p></td>
 <td><p><a href="../Page/서유정.md" title="wikilink">서유정</a>, <a href="https://ko.wikipedia.org/wiki/이동규" title="wikilink">이동규</a>, 김진수, 정재순,<br />
 엄기준, <a href="https://ko.wikipedia.org/wiki/김도연" title="wikilink">김도연</a>, 최용민</p></td>
 <td><p>김계원</p></td>
@@ -3328,7 +3328,7 @@
 <tr class="odd">
 <td><p>359</p></td>
 <td><p>2월 2일</p></td>
-<td><p>Call</p></td>
+<td><p>Call </p></td>
 <td><p><a href="../Page/서태화.md" title="wikilink">서태화</a>, <a href="../Page/박다안.md" title="wikilink">박다안</a></p></td>
 <td><p>배창직</p></td>
 <td><p>신현수</p></td>

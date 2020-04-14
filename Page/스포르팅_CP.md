@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ CP](https://ko.wikipedia.org/wiki/_CP).
+> This article is converted from Wikipedia: [스포르팅 CP](https://ko.wikipedia.org/wiki/스포르팅_CP).
 
 
 **스포르팅 클루브 드 포르투갈**(Sporting Clube de Portugal)은 [포르투갈](../Page/포르투갈.md "wikilink")의 [리스본](../Page/리스본.md "wikilink")을 연고로 하는 [축구](../Page/축구.md "wikilink") 클럽으로, [1906년](../Page/1906년.md "wikilink") 7월 1일에 창단되었다. 이 팀은 현재 포르투갈 1부 축구 리그인 [포르투갈 리가에서](https://ko.wikipedia.org/wiki/포르투갈_리가 "wikilink") SL 벤피카, FC 포르투와 더불어 1934년 이래로 한번도 강등된적이 없으며 빅3(Três Grandes)라고 불리는 포르투갈의 가장 강력한 클럽 중 하나이다. 주로 사자들(Leões)이나 녹색과 흰색(Verde e Branco)로 불린다. 응원가는 1955년 작곡된 스포르팅의 행진(A Marcha do Sporting)이다. 2019년 3월 스포르팅은 회원비를 다 내지 않은 회원 98,400명과 다 낸 80,500명 이상의 정회원을 보유하고 있다고 보고했다.

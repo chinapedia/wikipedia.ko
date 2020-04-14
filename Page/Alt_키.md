@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Alt ](https://ko.wikipedia.org/wiki/Alt_).
+> This article is converted from Wikipedia: [Alt 키](https://ko.wikipedia.org/wiki/Alt_키).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Ctl_wndws_alt.jpg "wikilink") [컴퓨터 자판에서](../Page/컴퓨터_자판.md "wikilink") **Alt 키**는 "alternative key"의 준말로 다른 누른 키의 기능을 대체하는 기능의 [글쇠](https://ko.wikipedia.org/wiki/글쇠 "wikilink")이다. 그러므로 Alt 키는 [수정 키이며](https://ko.wikipedia.org/wiki/수정_키 "wikilink") [Shift 키와](https://ko.wikipedia.org/wiki/Shift_키 "wikilink") 비슷하게 동작한다. 이를테면 단순히 A를 누르면 a라는 문자를 입력하지만 Alt 키와 A를 함께 누르면 [컴퓨터](../Page/컴퓨터.md "wikilink")가 Alt-A 기능을 수행하여 [컴퓨터 프로그램이](../Page/컴퓨터_프로그램.md "wikilink") 이를 받아들인다. 또 이 기능은 프로그램마다 다르게 동작한다. 미국 자판이 아닌 레이아웃을 사용할 경우 이와 비슷한 [Alt Gr](https://ko.wikipedia.org/wiki/Alt_Gr "wikilink")(오른쪽 Alt) 키가 스페이스 바 오른쪽에 위치해 있는 것을 볼 수 있다. 이 키는 [스페이스 바의](https://ko.wikipedia.org/wiki/스페이스_바 "wikilink") 측면에 위치해 있다.

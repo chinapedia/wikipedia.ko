@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FC ](https://ko.wikipedia.org/wiki/FC_).
+> This article is converted from Wikipedia: [FC 도쿄](https://ko.wikipedia.org/wiki/FC_도쿄).
 
 
 **FC 도쿄**()는 [일본](../Page/일본.md "wikilink") [도쿄도](../Page/도쿄도.md "wikilink")를 연고로 하는 축구팀이다. [도쿄 베르디와의](https://ko.wikipedia.org/wiki/도쿄_베르디_1969 "wikilink") "[도쿄 더비](https://ko.wikipedia.org/wiki/도쿄_더비 "wikilink")", [가와사키 프론탈레와의](../Page/가와사키_프론탈레.md "wikilink") "타마가와 더비"로 유명한 클럽이다.

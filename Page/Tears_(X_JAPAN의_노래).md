@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Tears \(X JAPAN \)](https://ko.wikipedia.org/wiki/Tears_\(X_JAPAN_\)).
+> This article is converted from Wikipedia: [Tears \(X JAPAN의 노래\)](https://ko.wikipedia.org/wiki/Tears_\(X_JAPAN의_노래\)).
 
 
 〈**Tears**〉는 [엑스 재팬의](https://ko.wikipedia.org/wiki/엑스_재팬 "wikilink") 9번째 싱글이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Z](https://ko.wikipedia.org/wiki/Z).
+> This article is converted from Wikipedia: [파워퍼프걸Z](https://ko.wikipedia.org/wiki/파워퍼프걸Z).
 
 
 《**파워퍼프걸 Z**》(, )는 미국의 텔레비전 애니메이션 《[파워퍼프 걸](https://ko.wikipedia.org/wiki/파워퍼프_걸 "wikilink")》을 원작으로 한 일본의 텔레비전 애니메이션이다. 카툰 네트워크의 일본지사와 애니플렉스가 공동제작을, 도에이 애니메이션이 작화 및 프로그램 공급을 하였다. [대한민국](../Page/대한민국.md "wikilink")에서는 2000년대 후반 [카툰 네트워크와](../Page/카툰_네트워크_\(대한민국\).md "wikilink") [OBS 경인TV에서](https://ko.wikipedia.org/wiki/경인TV "wikilink") 방송되었다.

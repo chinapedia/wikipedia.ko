@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
+> This article is converted from Wikipedia: [파니오니오스 FC](https://ko.wikipedia.org/wiki/파니오니오스_FC).
 
 
 **파니오니오스 FC**(Panionios FC)는 [아테네](../Page/아테네.md "wikilink") 근교에 위치한 도시인 [네아스미르니](../Page/네아스미르니.md "wikilink")에 연고를 두고 있는 [그리스](../Page/그리스.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽으로 파니오니오스 GSS(, Panionios Gymnastikos Syllogos Smyrnis) 산하의 축구 클럽이다. 현재는 [슈퍼리그 그리스에](https://ko.wikipedia.org/wiki/슈퍼리그_그리스 "wikilink") 참가하고 있다. 파니오니오스는 "스미르나 범(汎)이오니아 체육회"의 [그리스어](../Page/그리스어.md "wikilink") 약칭이다.

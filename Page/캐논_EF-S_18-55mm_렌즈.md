@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ EF-S 18-55mm ](https://ko.wikipedia.org/wiki/_EF-S_18-55mm_).
+> This article is converted from Wikipedia: [캐논 EF-S 18-55mm 렌즈](https://ko.wikipedia.org/wiki/캐논_EF-S_18-55mm_렌즈).
 
 
 [right](https://ko.wikipedia.org/wiki/파일:Canon_EF-S18-55mm_F3.5-5.6_II_USM.jpg "wikilink") [right](https://ko.wikipedia.org/wiki/파일:Canon_EF-S_18-55mm_F3.5-5.6_IS_lens.JPG "wikilink") **캐논 EF-S 18-55mm 렌즈**는 [캐논 EF-S 마운트를](../Page/캐논_EF-S_마운트.md "wikilink") 가지고 있는 캐논의 표준 줌 렌즈이다.

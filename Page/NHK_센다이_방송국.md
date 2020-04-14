@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [NHK  ](https://ko.wikipedia.org/wiki/NHK__).
+> This article is converted from Wikipedia: [NHK 센다이 방송국](https://ko.wikipedia.org/wiki/NHK_센다이_방송국).
 
 
 **NHK 센다이 방송국**(仙臺 放送局)은 [미야기현](../Page/미야기현.md "wikilink")을 방송구역으로 하는 NHK의 지역방송국이며 중파·FM라디오·텔레비전 방송을 담당하고 있다. [도호쿠 지방을](../Page/도호쿠_지방.md "wikilink") 총괄하는 방송총국급 지역방송국이다.

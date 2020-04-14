@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [AC ](https://ko.wikipedia.org/wiki/AC_).
+> This article is converted from Wikipedia: [AC 밀란](https://ko.wikipedia.org/wiki/AC_밀란).
 
 
 **아소차치오네 칼초 밀란**()은 [밀라노](../Page/밀라노.md "wikilink")를 연고지로 하는 [이탈리아](../Page/이탈리아.md "wikilink")의 프로 [축구](../Page/축구.md "wikilink") 클럽이다. 흔히 **AC 밀란** 또는 **밀란**으로 불린다. 밀란은 [1899년](../Page/1899년.md "wikilink") 영국인 허버트 킬핀과 사업가 알프레드 에드워즈를 포함한 몇몇의 사람들이 창단하였다. 클럽은 대부분의 역사를 [이탈리아](../Page/이탈리아.md "wikilink")의 최상위 축구 리그인 [세리에 A와](../Page/세리에_A.md "wikilink") 함께 하였으며 하부 리그로서는 1980년대에 2시즌 동안 [세리에 B에서](../Page/세리에_B.md "wikilink") 뛴 것이 전부이다.

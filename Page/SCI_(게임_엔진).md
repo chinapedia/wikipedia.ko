@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SCI \( \)](https://ko.wikipedia.org/wiki/SCI_\(_\)).
+> This article is converted from Wikipedia: [SCI \(게임 엔진\)](https://ko.wikipedia.org/wiki/SCI_\(게임_엔진\)).
 
 
 **SCI**(**S**ierra's **C**reative **I**nterpreter)는 [시에라 온라인의](../Page/시에라_엔터테인먼트.md "wikilink") 프로그래머 [제프 스티븐슨](https://ko.wikipedia.org/wiki/제프_스티븐슨 "wikilink")(Jeff Stephenson)에 의해 개발된 [인터프리터](../Page/인터프리터.md "wikilink")로서 [AGI를](../Page/어드벤처_게임_인터프리터.md "wikilink") 대체하여 만든 [스크립트 언어이다](../Page/스크립트_언어.md "wikilink"). AGI가 순차적인 데 반해 SCI는 완전히 객체지향적이다. [IBM PC가](../Page/IBM_PC.md "wikilink") 첫 목표이기도 했으나, [아미가](../Page/아미가.md "wikilink"), [아타리 ST와](../Page/아타리_ST.md "wikilink") [매킨토시](../Page/매킨토시.md "wikilink")용으로도 개발되기도 했다. 개발 기간은 [1988년](../Page/1988년.md "wikilink")\~[1996년](../Page/1996년.md "wikilink") 사이이고, 그동안 5개의 버전이 개발되었다.

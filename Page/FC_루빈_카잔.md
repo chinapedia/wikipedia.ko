@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FC  ](https://ko.wikipedia.org/wiki/FC__).
+> This article is converted from Wikipedia: [FC 루빈 카잔](https://ko.wikipedia.org/wiki/FC_루빈_카잔).
 
 
 **FC 루빈 카잔**()은 [타타르 공화국](../Page/타타르_공화국.md "wikilink") [카잔](../Page/카잔.md "wikilink")에 위치한 [카잔 아레나를](../Page/카잔_아레나.md "wikilink") 연고로 하는 [러시아](../Page/러시아.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다.

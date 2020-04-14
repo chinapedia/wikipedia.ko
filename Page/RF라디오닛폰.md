@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [RF](https://ko.wikipedia.org/wiki/RF).
+> This article is converted from Wikipedia: [RF라디오닛폰](https://ko.wikipedia.org/wiki/RF라디오닛폰).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:JORF-yokohama.JPG "wikilink") 본사\]\] **RF라디오닛폰**은 [가나가와현](../Page/가나가와현.md "wikilink")에 본사를 두고 있는 중파 라디오 방송국이다.

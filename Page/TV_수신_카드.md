@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TV  ](https://ko.wikipedia.org/wiki/TV__).
+> This article is converted from Wikipedia: [TV 수신 카드](https://ko.wikipedia.org/wiki/TV_수신_카드).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Hauppauge_Win-TV-Karte.jpg "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:KNCone_TV_Station_DVBS2_PLUS_pci_card_front_0595_by_HDTVTotalDOTcom.jpg "wikilink") 수신 카드 가운데 하나\]\] [섬네일](https://ko.wikipedia.org/wiki/파일:D-Link_DUB-T210_20070429.jpg "wikilink") 외장 TV 수신 장치\]\] **TV 수신 카드**는 TV 튜너 카드라고도 하며, [컴퓨터](../Page/컴퓨터.md "wikilink")가 수신할 수 있도록 [텔레비전](../Page/텔레비전.md "wikilink") 신호를 받아들이는 컴퓨터 [부품이다](https://ko.wikipedia.org/wiki/구성_요소 "wikilink"). 대부분의 TV 튜너는 [비디오 캡처 카드로](https://ko.wikipedia.org/wiki/비디오_처리_확장_카드 "wikilink") 기능할 수 있으며, [하드 디스크에](https://ko.wikipedia.org/wiki/하드_디스크 "wikilink") 텔레비전 프로그램을 녹화하도록 도와준다.

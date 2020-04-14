@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KBO ](https://ko.wikipedia.org/wiki/KBO_).
+> This article is converted from Wikipedia: [KBO 한국시리즈](https://ko.wikipedia.org/wiki/KBO_한국시리즈).
 
 
 **KBO 한국시리즈**()는 매년 [KBO 리그의](https://ko.wikipedia.org/wiki/KBO_리그 "wikilink") 최종 우승 구단을 결정하기 위해 동일한 두 팀이 치르는 일련의 야구 경기이다. 즉, 최종 우승을 하려면 한국시리즈에 진출을 일단 해야 하며, 이렇게 진출한 두 구단\[1\]이 서로 상대하여 최종 승부를 겨루는 체계이다. 본 명칭은 **한국시리즈**였으나 한국야구위원회의 브랜드 아이덴디티 통합 작업에 따라 2015시즌부터 "KBO 한국시리즈"라는 새로운 명칭을 사용하게 되었다.
@@ -212,7 +212,7 @@
 | 9                                            | [키움 히어로즈](../Page/키움_히어로즈.md "wikilink")                      | 0     | 2      |            | [넥센 히어로즈](https://ko.wikipedia.org/wiki/넥센_히어로즈 "wikilink") 포함  |
 | [NC 다이노스](../Page/NC_다이노스.md "wikilink")     | 0                                                             | 1     |        |            |                                                                 |
 
-**<big>구단별 승패 및 승률 통계</big>**
+### 구단별 승패 및 승률 통계
 
 |          |                |        |  |
 | -------- | -------------- | ------ |  |

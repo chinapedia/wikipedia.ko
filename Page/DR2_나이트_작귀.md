@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [DR2  ](https://ko.wikipedia.org/wiki/DR2__).
+> This article is converted from Wikipedia: [DR2 나이트 작귀](https://ko.wikipedia.org/wiki/DR2_나이트_작귀).
 
 
 **DR<sup>2</sup> 나이트 작귀**()는 [리프](https://ko.wikipedia.org/wiki/리프 "wikilink")가 기획, 제작하고 1995년 2월 24일에 발매한 [NEC](https://ko.wikipedia.org/wiki/NEC "wikilink") [PC-98 시리즈](https://ko.wikipedia.org/wiki/PC9801 "wikilink") 대응의 탈의 마작 형식의 [AVG](https://ko.wikipedia.org/wiki/AVG_\(게임\) "wikilink") 풍의 게임이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:CPU ](https://ko.wikipedia.org/wiki/:CPU_).
+> This article is converted from Wikipedia: [틀:CPU 정보](https://ko.wikipedia.org/wiki/틀:CPU_정보).
 
 
 | caption = }}}

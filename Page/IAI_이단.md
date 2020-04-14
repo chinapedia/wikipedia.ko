@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [IAI ](https://ko.wikipedia.org/wiki/IAI_).
+> This article is converted from Wikipedia: [IAI 이단](https://ko.wikipedia.org/wiki/IAI_이단).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:IAI_Eitan_cropped.jpg "wikilink") **IAI 이단**(Eithan)은 이스라엘의 HALE(고고도 장거리 체공) UAV이다. [헤론](../Page/IAI_헤론.md "wikilink") UAV를 개량한 것이다.

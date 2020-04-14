@@ -20,7 +20,7 @@
   - [FX](https://ko.wikipedia.org/wiki/FX_\(텔레비전_채널\) "wikilink"):남성시청자를 대상으로 코미디나 격렬한 스포츠를 방송하고 있으며 아직 [싱가포르](../Page/싱가포르.md "wikilink"), [홍콩](../Page/홍콩.md "wikilink"), [대한민국](../Page/대한민국.md "wikilink") 등 일부국가에만 방송되고 있다. 현재 디즈니에 인수
   - 폭스스포츠(Fox Sports):서남아시아 지역을 대상으로 방송하고 있으며 위성 아시안셋3를 통해 다른 아시아 국가에도 방송을 추진하고 있다. 한국에는 방송하지 않아 폭스 스포츠네트워크가 되었지만, 종료하였다. 2015년에는 [중앙일보](../Page/중앙일보.md "wikilink") 계열의 [JTBC](../Page/JTBC.md "wikilink")와 업무 체결로 [JTBC3 Fox Sports를](https://ko.wikipedia.org/wiki/JTBC3_Fox_Sports "wikilink") 개국한다.
   - 베이비TV(BabyTV):[2003년](../Page/2003년.md "wikilink") 이스라엘에서 처음 방송되었으며 한국에 3세이하 아이들을 대상으로 방송을 실시한다.
-  - ITV초이스(ITV Choice):영국의 프로그램을 방송하고 있으며 서남아시아 지역에서 시청이 가능하다. 한국에는 2012년 11월 론칭하였다. 그리고 [만나다](https://ko.wikipedia.org/wiki/만나다 "wikilink")를 슬로건으로 만들어 지면서 1일 0시 본방송 실시한다.
+  - ITV초이스(ITV Choice):영국의 프로그램을 방송하고 있으며 서남아시아 지역에서 시청이 가능하다. 한국에는 2012년 11월 론칭하였다. 그리고 [만나다](https://ko.wikipedia.org/wiki/만나다 "wikilink")를 슬로건으로 만들어지면서 1일 0시 본방송 실시한다.
   - 안TV(antv):원래 [1993년](../Page/1993년.md "wikilink") 인도네시아 람풍 주에 세워진 인도네시아 방송국으로 21개의 산하방송국을 가지고 있으며 [2005년](../Page/2005년.md "wikilink") 루퍼드 머독이 지분의 20%를 소유하면서 STAR TV의 산하로 들어가게 되었다. 한국에 Rang티브이가 되었다. 10월 1일 0시에 론칭할 예정이다.
 
 ### 교양채널
@@ -36,9 +36,9 @@
 
 ### 만화채널
 
-  - 디즈니채널(Disney Channel): 가족 대상 애니메이션 채널
-  - 디즈니 XD(Disney XD): 아동,청소년,성인 대상 애니메이션 채널
-  - 디즈니 주니어(Disney Junior): 유아,어린이 대상 애니메이션 채널
+  - 디즈니채널(Disney Channel Asia): 가족 대상 애니메이션 채널
+  - 디즈니 XD(Disney XD Asia): 아동,청소년,성인 대상 애니메이션 채널
+  - 디즈니 주니어(Disney Junior Asia): 유아,어린이 대상 애니메이션 채널
 
 ### 중화권 채널
 

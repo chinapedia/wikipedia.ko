@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [    XI](https://ko.wikipedia.org/wiki/____XI).
+> This article is converted from Wikipedia: [더 킹 오브 파이터즈 XI](https://ko.wikipedia.org/wiki/더_킹_오브_파이터즈_XI).
 
 
 《**더 킹 오브 파이터즈 XI**》(, 약칭 **KOF XI**)은 [SNK 플레이모어가](https://ko.wikipedia.org/wiki/SNK_플레이모어 "wikilink") 제작한 2005년 [아케이드](../Page/아케이드_게임.md "wikilink") [대전 격투 게임이다](https://ko.wikipedia.org/wiki/대전_격투_게임 "wikilink"). 《[더 킹 오브 파이터즈](../Page/더_킹_오브_파이터즈.md "wikilink")》 시리즈 열한 번째 작품으로, 매년마다 발매하는 것을 중지하면서 제목에 연도 대신 숫자를 붙였다. 또한 시리즈 최초로 SNK 자사 [네오지오](https://ko.wikipedia.org/wiki/네오지오_\(콘솔\) "wikilink") 기판에서 벗어나. [세가](https://ko.wikipedia.org/wiki/세가 "wikilink")의 [아토믹웨이브](https://ko.wikipedia.org/wiki/아토믹웨이브 "wikilink") 기판으로 개발됐다.

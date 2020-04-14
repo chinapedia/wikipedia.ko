@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [NHK  ](https://ko.wikipedia.org/wiki/NHK__).
+> This article is converted from Wikipedia: [NHK 미토 방송국](https://ko.wikipedia.org/wiki/NHK_미토_방송국).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:NHK_Mito_Broadcasting_Station,_JOEP,_July_2012.jpg "wikilink") **NHK 미토 방송국**(水戸 放送局)은 [이바라키현](../Page/이바라키현.md "wikilink")을 방송구역으로 하는 NHK의 지역방송국이며 FM라디오·디지털 종합텔레비전 방송을 담당하고 있다.

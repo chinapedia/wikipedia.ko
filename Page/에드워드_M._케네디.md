@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ M. ](https://ko.wikipedia.org/wiki/_M._).
+> This article is converted from Wikipedia: [에드워드 M. 케네디](https://ko.wikipedia.org/wiki/에드워드_M._케네디).
 
 
 **에드워드 무어 "테드" 케네디**(Edward Moore "Ted" Kennedy , [1932년](../Page/1932년.md "wikilink") [2월 22일](../Page/2월_22일.md "wikilink") \~ [2009년](../Page/2009년.md "wikilink") [8월 25일](../Page/8월_25일.md "wikilink")) 는 [미국](../Page/미국.md "wikilink")의 정치인이다. [제35대 대통령](../Page/미국의_대통령.md "wikilink") [존 F. 케네디의](../Page/존_F._케네디.md "wikilink") 막내동생이며, [1962년](../Page/1962년.md "wikilink")부터 [2009년](../Page/2009년.md "wikilink") 세상을 떠날 때까지 [연방 상원의원을](https://ko.wikipedia.org/wiki/미국_상원 "wikilink") 지냈다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ OSC](https://ko.wikipedia.org/wiki/_OSC).
+> This article is converted from Wikipedia: [릴 OSC](https://ko.wikipedia.org/wiki/릴_OSC).
 
 
 **릴 올랭피크 스포르팅 클뤼브**(Lille Olympique Sporting Club)는 [릴](../Page/릴.md "wikilink")의 위성도시 [빌뇌브-다스크에](https://ko.wikipedia.org/wiki/빌뇌브다스크 "wikilink") 위치한 [스타드 피에르 모루아](../Page/스타드_피에르_모루아.md "wikilink") 경기장을 근거로 하는 [프랑스](../Page/프랑스.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다. 흔히 **릴 OSC**라고도 불린다. 현재 감독은 [크리스토프 갈티에이다](https://ko.wikipedia.org/wiki/크리스토프_갈티에 "wikilink").

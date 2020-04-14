@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ T ](https://ko.wikipedia.org/wiki/_T_).
+> This article is converted from Wikipedia: [황소자리 T형 항성](https://ko.wikipedia.org/wiki/황소자리_T형_항성).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:TTauriStarDrawing.jpg "wikilink") **황소자리 T형 항성**은 원형 별 [황소자리 T의](../Page/황소자리_T.md "wikilink") 이름을 지닌, [변광성](../Page/변광성.md "wikilink")의 일종이다. 이들은 주로 [분자 구름](https://ko.wikipedia.org/wiki/분자_구름 "wikilink") 근처에 있으며, 광학적인 밝기 변화 및 강한 [채층](../Page/채층.md "wikilink")의 [분광선](https://ko.wikipedia.org/wiki/분광선 "wikilink")을 통해 발견되었다.

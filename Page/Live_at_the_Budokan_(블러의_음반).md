@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Live at the Budokan \( \)](https://ko.wikipedia.org/wiki/Live_at_the_Budokan_\(_\)).
+> This article is converted from Wikipedia: [Live at the Budokan \(블러의 음반\)](https://ko.wikipedia.org/wiki/Live_at_the_Budokan_\(블러의_음반\)).
 
 
 **Live at the Budokan**은 영국 밴드 [블러](https://ko.wikipedia.org/wiki/블러 "wikilink")의 1995년 *[The Great Escape](../Page/The_Great_Escape_\(블러의_음반\).md "wikilink")*앨범 투어 중 일본 부도칸에서 공연한 이틀 동안의 라이브 실황을 담은 앨범이다. 이 앨범은 2장의 CD를 이루고 있으며 [일본](../Page/일본.md "wikilink")에서만 발매하였다.

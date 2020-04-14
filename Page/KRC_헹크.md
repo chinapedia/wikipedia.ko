@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KRC ](https://ko.wikipedia.org/wiki/KRC_).
+> This article is converted from Wikipedia: [KRC 헹크](https://ko.wikipedia.org/wiki/KRC_헹크).
 
 
 **KRC 헹크**(KRC Genk) 혹은 보통 **레싱 헹크**(Racing Genk)라 불리는 이 클럽은 [벨기에](../Page/벨기에.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽으로 현재 [주필러 리그에서](https://ko.wikipedia.org/wiki/주필러_리그 "wikilink") 활동하고 있다. 헹크는 [1988년](../Page/1988년.md "wikilink")에 [워터슈이 토르와](https://ko.wikipedia.org/wiki/K_워터슈이_SV_토르_헹크 "wikilink") **KFC 윈터슬라그**가 통합하면서 만들어졌다. 헹크는 벨기에 내에서 매우 성공적인 팀 가운데 하나로 유럽클럽대항전에 자주 진출하고 있다.

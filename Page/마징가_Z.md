@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ Z](https://ko.wikipedia.org/wiki/_Z).
+> This article is converted from Wikipedia: [마징가 Z](https://ko.wikipedia.org/wiki/마징가_Z).
 
 
 **마징가 Z**(, , 미국에서는 Tranzor Z로 간단히 알려짐)는 [일본](../Page/일본.md "wikilink")의 [만화가](https://ko.wikipedia.org/wiki/만화가 "wikilink") [나가이 고](../Page/나가이_고.md "wikilink")(永井豪)의 장편 [만화](../Page/만화.md "wikilink") 또는, 이를 원작으로 [1972년](../Page/1972년.md "wikilink")에 제작한 장편 TV [애니메이션](../Page/애니메이션.md "wikilink")이다.\[1\] 애니메이션은 인기리에 방영되어 [토에이 애니메이션에서](https://ko.wikipedia.org/wiki/토에이_애니메이션 "wikilink") 총 92화로 제작되었으며, 주제가는 응원가로 사용되기도 하였다. 원작에서 이 "마징가 Z"는 주인공이 조종하는 거대한 [로봇](../Page/로봇.md "wikilink")에 붙여진 이름으로, 광자력 연구소내 폐수 처리장 밑에 숨겨져 보관되는데, 이 마징가 Z의 격납고를 실제로 건축하기 위한 예산을 책정하는 과정을 설명하는 책이 출간되어 화제가 되기도 했다.

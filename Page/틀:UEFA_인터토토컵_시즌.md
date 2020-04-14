@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:UEFA  ](https://ko.wikipedia.org/wiki/:UEFA__).
+> This article is converted from Wikipedia: [틀:UEFA 인터토토컵 시즌](https://ko.wikipedia.org/wiki/틀:UEFA_인터토토컵_시즌).
 
 
 <onlyinclude></onlyinclude>

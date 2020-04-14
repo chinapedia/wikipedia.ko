@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [WWE 2K](https://ko.wikipedia.org/wiki/WWE_2K).
 
 
-**WWE 2K**는 THQ사 발매 YUKES 사 개발의 [프로레슬링](../Page/프로레슬링.md "wikilink") 게임 시리즈이다.
+《**WWE 2K**》는 THQ사 발매 YUKES 사 개발의 [프로레슬링](../Page/프로레슬링.md "wikilink") 게임 시리즈이다.
 
 ## 게임모드
 

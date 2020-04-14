@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Forever Love \(X JAPAN \)](https://ko.wikipedia.org/wiki/Forever_Love_\(X_JAPAN_\)).
+> This article is converted from Wikipedia: [Forever Love \(X JAPAN의 노래\)](https://ko.wikipedia.org/wiki/Forever_Love_\(X_JAPAN의_노래\)).
 
 
 〈**Forever Love**〉(포레버 러브)는 [일본](../Page/일본.md "wikilink")의 [록 밴드](https://ko.wikipedia.org/wiki/록_밴드 "wikilink") [엑스 재팬의](https://ko.wikipedia.org/wiki/엑스_재팬 "wikilink") 14번째 싱글로서, 1996년 7월 8일 처음 발매되었다. ([8cm CD](../Page/콤팩트_디스크.md "wikilink"): AMDM-6170)

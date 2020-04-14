@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [SPARKLE \~\~](https://ko.wikipedia.org/wiki/SPARKLE_\~\~).
+> This article is converted from Wikipedia: [SPARKLE \~스지가키도오리노스카이블루\~](https://ko.wikipedia.org/wiki/SPARKLE_\~스지가키도오리노스카이블루\~).
 
 
-**SPARKLE \~줄거리 그대로의 스카이 블루\~** () 는 [GARNET CROW의](../Page/GARNET_CROW.md "wikilink") 두 번째 앨범이다. [2002년](../Page/2002년.md "wikilink") [4월 24일](../Page/4월_24일.md "wikilink") [GIZA studio에서](../Page/GIZA_studio.md "wikilink") 발매되었다.
+**SPARKLE \~줄거리 그대로의 스카이 블루\~**() 는 [GARNET CROW의](../Page/GARNET_CROW.md "wikilink") 두 번째 앨범이다. [2002년](../Page/2002년.md "wikilink") [4월 24일](../Page/4월_24일.md "wikilink") [GIZA studio에서](../Page/GIZA_studio.md "wikilink") 발매되었다.
 
 전곡의 작곡은 [나카무라 유리](https://ko.wikipedia.org/wiki/나카무라_유리 "wikilink"), 작사는 [아즈키 나나](../Page/아즈키_나나.md "wikilink"), 편곡은 [후루이 히로히토](../Page/후루이_히로히토.md "wikilink") (〈[Mysterious Eyes](../Page/Mysterious_Eyes.md "wikilink") \~dry flavor of “G” mix\~〉는 Miguel sa Pessoa·후루이 히로히토,〈[Timeless Sleep](https://ko.wikipedia.org/wiki/Timeless_Sleep "wikilink") \~Flow-ing surround mix\~〉는 Miguel sa Pessoa 편곡) 가 맡았다.
 

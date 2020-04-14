@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  Flash Back 2012](https://ko.wikipedia.org/wiki/__Flash_Back_2012).
+> This article is converted from Wikipedia: [초시공요새 마크로스 Flash Back 2012](https://ko.wikipedia.org/wiki/초시공요새_마크로스_Flash_Back_2012).
 
 
 《**초시공요새 마크로스 Flash Back 2012**》(超時空要塞マクロス Flash Back 2012)는 [1987년](../Page/1987년.md "wikilink") [6월 21일에](../Page/6월_21일.md "wikilink") 발매된 [OVA](https://ko.wikipedia.org/wiki/OVA "wikilink")(수록시간 30분). [2008년](../Page/2008년.md "wikilink") [2월 22일에](../Page/2월_22일.md "wikilink") [DVD](../Page/DVD.md "wikilink")로 재판예정으로 [TV](https://ko.wikipedia.org/wiki/TV "wikilink")[애니메이션](../Page/애니메이션.md "wikilink") 《[초시공요새 마크로스](../Page/초시공요새_마크로스.md "wikilink")》(超時空要塞マクロス) 및 [애니메이션](../Page/애니메이션.md "wikilink")[영화](../Page/영화.md "wikilink") 《[초시공요새 마크로스 사랑.기억하나요](https://ko.wikipedia.org/wiki/초시공요새_마크로스_사랑.기억하나요 "wikilink")》(超時空要塞マクロス 愛・おぼえていますか)의 등장인물 [링 밍메이](../Page/링_밍메이.md "wikilink")(リン・ミンメイ)의 극 중 가창곡을 모은 [뮤직 비디오](../Page/뮤직_비디오.md "wikilink") 작품이다.

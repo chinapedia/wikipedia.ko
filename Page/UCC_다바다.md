@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [UCC ](https://ko.wikipedia.org/wiki/UCC_).
+> This article is converted from Wikipedia: [UCC 다바다](https://ko.wikipedia.org/wiki/UCC_다바다).
 
 
 **UCC 다바다**는 '고독한 프로그래머'라는 [네티즌](https://ko.wikipedia.org/wiki/네티즌 "wikilink")이 제작한 동영상 다운로드 프로그램으로 [FLV](https://ko.wikipedia.org/wiki/FLV "wikilink") 형식인 [동영상](https://ko.wikipedia.org/wiki/동영상 "wikilink") 파일을 업로드된 [웹사이트](../Page/웹사이트.md "wikilink")에서 다운로드할 수 있도록 도와주고, 원할 경우 FLV 파일을 [AVI](https://ko.wikipedia.org/wiki/AVI "wikilink")로 컨버팅까지 도와주는 [소프트웨어](../Page/소프트웨어.md "wikilink")다.

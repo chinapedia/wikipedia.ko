@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [RMS ](https://ko.wikipedia.org/wiki/RMS_).
+> This article is converted from Wikipedia: [RMS 루시타니아](https://ko.wikipedia.org/wiki/RMS_루시타니아).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:RMS_Luisitania.jpg "wikilink") **루시타니아호**()는 [제1차 세계 대전](../Page/제1차_세계_대전.md "wikilink") 중 [대서양](../Page/대서양.md "wikilink")에서 [독일 해군](../Page/독일_해군.md "wikilink") [잠수함](../Page/잠수함.md "wikilink") [U-20에](https://ko.wikipedia.org/wiki/U-20_\(1912년\) "wikilink") 의해서 침몰된 배(민간 여객선)이다. 이름은 [이베리아 반도에](https://ko.wikipedia.org/wiki/이베리아_반도 "wikilink") 존재한 [고대 로마의](../Page/고대_로마.md "wikilink") [속주](https://ko.wikipedia.org/wiki/속주 "wikilink") [루시타니아](https://ko.wikipedia.org/wiki/루시타니아 "wikilink")(오늘날 [포르투갈](../Page/포르투갈.md "wikilink") 남부 및 [스페인](../Page/스페인.md "wikilink") 서부 [에스트레마두라](https://ko.wikipedia.org/wiki/에스트레마두라_지방 "wikilink"))에서 유래하였다.

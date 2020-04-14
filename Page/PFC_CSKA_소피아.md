@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [PFC CSKA ](https://ko.wikipedia.org/wiki/PFC_CSKA_).
+> This article is converted from Wikipedia: [PFC CSKA 소피아](https://ko.wikipedia.org/wiki/PFC_CSKA_소피아).
 
 
-**PFC CSKA 소피아** ()는 [불가리아](../Page/불가리아.md "wikilink")의 축구 클럽으로, 수도인 [소피아](../Page/소피아.md "wikilink")를 연고지로 삼고 있다. 이 클럽은 [1948년](../Page/1948년.md "wikilink")에 창단되었고, [불가리아](../Page/불가리아.md "wikilink")에서 가장 성공적인 클럽으로 뽑힌다.
+**PFC CSKA 소피아**()는 [불가리아](../Page/불가리아.md "wikilink")의 축구 클럽으로, 수도인 [소피아](../Page/소피아.md "wikilink")를 연고지로 삼고 있다. 이 클럽은 [1948년](../Page/1948년.md "wikilink")에 창단되었고, [불가리아](../Page/불가리아.md "wikilink")에서 가장 성공적인 클럽으로 뽑힌다.
 
 CSKA 소피아는 31회의 리그 우승과 23회 (4번은 비공식 우승 기록)의 컵 대회 우승 기록을 가지고 있다.
 

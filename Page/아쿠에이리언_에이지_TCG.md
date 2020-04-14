@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  TCG](https://ko.wikipedia.org/wiki/__TCG).
+> This article is converted from Wikipedia: [아쿠에이리언 에이지 TCG](https://ko.wikipedia.org/wiki/아쿠에이리언_에이지_TCG).
 
 
 **아쿠에이리언 에이지 TCG**는 [아쿠에이리언 에이지](../Page/아쿠에이리언_에이지.md "wikilink") 시리즈의 원작인 [트레이딩 카드 게임이다](../Page/트레이딩_카드_게임.md "wikilink").

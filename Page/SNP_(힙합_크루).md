@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SNP \( \)](https://ko.wikipedia.org/wiki/SNP_\(_\)).
+> This article is converted from Wikipedia: [SNP \(힙합 크루\)](https://ko.wikipedia.org/wiki/SNP_\(힙합_크루\)).
 
 
 **SNP**는 [나우누리](https://ko.wikipedia.org/wiki/나우누리 "wikilink")에 존재했던 [대한민국](../Page/대한민국.md "wikilink")의 [힙합](../Page/힙합.md "wikilink") 크루이다. 나우누리의 흑인 음악 소모임에서 1999년 정식 발기를 했으며, 시간이 지나면서 PC 통신의 쇠퇴와 함께 자연스레 해체되었다.

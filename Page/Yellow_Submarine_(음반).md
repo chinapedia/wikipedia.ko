@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Yellow Submarine \(\)](https://ko.wikipedia.org/wiki/Yellow_Submarine_\(\)).
+> This article is converted from Wikipedia: [Yellow Submarine \(음반\)](https://ko.wikipedia.org/wiki/Yellow_Submarine_\(음반\)).
 
 
 《**Yellow Submarine**》은 [비틀즈](../Page/비틀즈.md "wikilink")의 10번째 공식 음반이다. 이는 동명의 [애니메이션](../Page/애니메이션.md "wikilink")의 사운드트랙이다.

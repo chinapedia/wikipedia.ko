@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [BVE ](https://ko.wikipedia.org/wiki/BVE_).
+> This article is converted from Wikipedia: [BVE 트레인심](https://ko.wikipedia.org/wiki/BVE_트레인심).
 
 
 **BVE 트레인심**(, , )은 [프리웨어](../Page/프리웨어.md "wikilink") [철도](../Page/철도.md "wikilink")운전 [시뮬레이션 게임으로](https://ko.wikipedia.org/wiki/시뮬레이션_게임 "wikilink") Mackoy란 별명을 쓰고 있는 대학원생 고지마 다카시\[1\]가 제작한 [철도](../Page/철도.md "wikilink") 운전 [시뮬레이션 게임으로](https://ko.wikipedia.org/wiki/시뮬레이션_게임 "wikilink"), 윈도 98이상 운영 체제에서 실행 가능하다. 또한 버추얼 PC나 와인 같은 윈도 에뮬레이터를 통해서 다른 운영 체제에서도 실행가능하다. '.csv'이나 '.rw' (쉼표로 표시한 변수표시값)로 선로, 사물, 차량, 그리고 소리를 직접 배치해 자신만의 루트를 제작할 수 있다.

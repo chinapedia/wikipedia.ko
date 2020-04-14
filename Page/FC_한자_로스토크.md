@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FC  ](https://ko.wikipedia.org/wiki/FC__).
+> This article is converted from Wikipedia: [FC 한자 로스토크](https://ko.wikipedia.org/wiki/FC_한자_로스토크).
 
 
 **FC 한자 로스토크**(F.C. Hansa Rostock e.V.)는 [로스토크](../Page/로스토크.md "wikilink")에 위치한 [오스트제슈타디온](https://ko.wikipedia.org/wiki/오스트제슈타디온 "wikilink")을 근거로 하는 [독일](../Page/독일.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다.

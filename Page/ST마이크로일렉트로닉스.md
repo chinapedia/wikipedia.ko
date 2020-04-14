@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [ST](https://ko.wikipedia.org/wiki/ST).
+> This article is converted from Wikipedia: [ST마이크로일렉트로닉스](https://ko.wikipedia.org/wiki/ST마이크로일렉트로닉스).
 
 
-**ST마이크로일렉트로닉스** ()는 [스위스](https://ko.wikipedia.org/wiki/스위스 "wikilink") [제네바](../Page/제네바.md "wikilink")에 본사를 둔 [전자 제품과](../Page/전자공학.md "wikilink") [반도체](../Page/반도체.md "wikilink")를 생산하는 기업이다. ST마이크로일렉트로닉스의 공장과 사무실은 [이탈리아](../Page/이탈리아.md "wikilink")와 [프랑스](../Page/프랑스.md "wikilink")에 많이 있으며, 사원 대부분은 이탈리아와 프랑스에서 채용한다.
+**ST마이크로일렉트로닉스**()는 [스위스](https://ko.wikipedia.org/wiki/스위스 "wikilink") [제네바](../Page/제네바.md "wikilink")에 본사를 둔 [전자 제품과](../Page/전자공학.md "wikilink") [반도체](../Page/반도체.md "wikilink")를 생산하는 기업이다. ST마이크로일렉트로닉스의 공장과 사무실은 [이탈리아](../Page/이탈리아.md "wikilink")와 [프랑스](../Page/프랑스.md "wikilink")에 많이 있으며, 사원 대부분은 이탈리아와 프랑스에서 채용한다.
 
 ST마이크로일렉트로닉스 사의 본사, [유럽](../Page/유럽.md "wikilink")의 본사는 최근에 시장이 형성된 제네바에 있으며, 모회사인 ST마이크로일렉트로닉스 N.V.의 본사는 [네덜란드](../Page/네덜란드.md "wikilink") [암스테르담](../Page/암스테르담.md "wikilink")에 있다.
 

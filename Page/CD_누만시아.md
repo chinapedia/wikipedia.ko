@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [CD ](https://ko.wikipedia.org/wiki/CD_).
+> This article is converted from Wikipedia: [CD 누만시아](https://ko.wikipedia.org/wiki/CD_누만시아).
 
 
 **CD 누만시아**(Club Deportivo Numancia de Soria)는 [소리아](../Page/소리아.md "wikilink")를 연고로 하는 [스페인](../Page/스페인.md "wikilink")의 스포츠 클럽이다. 이 클럽은 오늘날 [소리아](../Page/소리아.md "wikilink")에 근접한 고대에 존재했던 켈티베리안의 도시인 [누만티아](../Page/누만티아.md "wikilink")를 따서 창단되었다. 이 클럽은 지난 [1945년](../Page/1945년.md "wikilink") [4월 9일에](../Page/4월_9일.md "wikilink") 창단, [세군다 디비시온에서](../Page/세군다_디비시온.md "wikilink") 참가하고 있으며, [프리메라리가](https://ko.wikipedia.org/wiki/프리메라리가 "wikilink") 2004-05 시즌에는 하위권에 머물러 강등되고 말았다. 그 밖에 이 클럽은 [축구](../Page/축구.md "wikilink") 뿐만 아니라, [배구](../Page/배구.md "wikilink"), 여자 핸드볼, 리듬 체조 팀과 같은 타 종목 팀도 운영하고 있다.

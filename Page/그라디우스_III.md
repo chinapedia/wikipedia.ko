@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ III](https://ko.wikipedia.org/wiki/_III).
+> This article is converted from Wikipedia: [그라디우스 III](https://ko.wikipedia.org/wiki/그라디우스_III).
 
 
 **그라디우스3: 전설에서 신화로**(, )는 [코나미](../Page/코나미.md "wikilink") 초기의 [아케이드 게임으로](../Page/아케이드_게임.md "wikilink"), [1990년](../Page/1990년.md "wikilink") 일본에서 발매되었다.
@@ -40,4 +40,8 @@
 | GRADIUS II <small>(Maximum Speed)</small>             |                                                                                                                              |
 | Ending <small>(Ranking)</small>                       |                                                                                                                              |
 
+## 외부 링크
+
+  -
+  -
 [분류:1989년 비디오 게임](https://ko.wikipedia.org/wiki/분류:1989년_비디오_게임 "wikilink") [분류:그라디우스](https://ko.wikipedia.org/wiki/분류:그라디우스 "wikilink") [분류:아케이드 게임](https://ko.wikipedia.org/wiki/분류:아케이드_게임 "wikilink") [분류:슈퍼 패미컴 게임](https://ko.wikipedia.org/wiki/분류:슈퍼_패미컴_게임 "wikilink") [분류:플레이스테이션 2 게임](https://ko.wikipedia.org/wiki/분류:플레이스테이션_2_게임 "wikilink") [분류:코나미의 게임](https://ko.wikipedia.org/wiki/분류:코나미의_게임 "wikilink") [분류:버추얼 콘솔 게임](https://ko.wikipedia.org/wiki/분류:버추얼_콘솔_게임 "wikilink")

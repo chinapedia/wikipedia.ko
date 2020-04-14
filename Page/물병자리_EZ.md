@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ EZ](https://ko.wikipedia.org/wiki/_EZ).
+> This article is converted from Wikipedia: [물병자리 EZ](https://ko.wikipedia.org/wiki/물병자리_EZ).
 
 
 **물병자리 EZ**(EZ Aquarii) 또는 **루이텐 789-6**, **글리제 866**은 [물병자리](../Page/물병자리.md "wikilink") 방향으로 [태양](../Page/태양.md "wikilink")으로부터 약 11.3 [광년](../Page/광년.md "wikilink")(3.5 [파섹](https://ko.wikipedia.org/wiki/파섹 "wikilink")) 떨어져 있는 [삼중성계](https://ko.wikipedia.org/wiki/삼중성계 "wikilink")이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ e ](https://ko.wikipedia.org/wiki/_e_).
+> This article is converted from Wikipedia: [용산 e스포츠 스타디움](https://ko.wikipedia.org/wiki/용산_e스포츠_스타디움).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Yongsan_e-sports_stadium.jpg "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:Yongsan_esports_stadium.jpg "wikilink") **용산 e스포츠 스타디움**은 [한국e스포츠협회](../Page/한국e스포츠협회.md "wikilink")에서 운영중인 게임 리그 방송을 위한 e스포츠 경기장이다. 'e-스포츠 상설 경기장'이라는 명칭을 사용하기도 한다. 2016년 4월까지 [OGN](../Page/OGN.md "wikilink")에서 임차 형식으로 사용했다.
@@ -17,7 +17,7 @@ OGN이 [2016년](../Page/2016년.md "wikilink") [4월 30일](../Page/4월_30일.
 
 [2013년](../Page/2013년.md "wikilink") [4월 3일](../Page/4월_3일.md "wikilink") OLYMPUS LOL Champions Spring 12강 개막전을 통해 공식 개관하였다. 리모델링을 통해 옵저버실을 통제실로 이전시킴에 따라 기존의 관중석이 200\~250석 규모로 늘어났다.
 
-[2016년](../Page/2016년.md "wikilink") [4월 16일](../Page/4월_16일.md "wikilink") [롯데 꼬깔콘 리그 오브 레전드 챔피언스 코리아 스프링 2016](../Page/롯데_꼬깔콘_리그_오브_레전드_챔피언스_코리아_스프링_2016.md "wikilink") [KT 롤스터와](https://ko.wikipedia.org/wiki/KT_롤스터 "wikilink") [SK텔레콤 T1의](https://ko.wikipedia.org/wiki/SK텔레콤_T1 "wikilink") 플레이오프 경기를 마지막으로 용산 e스포츠 스타디움의 시대가 막을 내렸다.
+[2016년](../Page/2016년.md "wikilink") [4월 16일](../Page/4월_16일.md "wikilink") [롯데 꼬깔콘 리그 오브 레전드 챔피언스 코리아 스프링 2016](../Page/롯데_꼬깔콘_리그_오브_레전드_챔피언스_코리아_스프링_2016.md "wikilink") [KT 롤스터와](../Page/KT_롤스터.md "wikilink") [SK텔레콤 T1의](https://ko.wikipedia.org/wiki/SK텔레콤_T1 "wikilink") 플레이오프 경기를 마지막으로 용산 e스포츠 스타디움의 시대가 막을 내렸다.
 
 ## 스타리그 명예의 전당
 

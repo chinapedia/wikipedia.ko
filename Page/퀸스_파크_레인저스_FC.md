@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [   FC](https://ko.wikipedia.org/wiki/___FC).
+> This article is converted from Wikipedia: [퀸스 파크 레인저스 FC](https://ko.wikipedia.org/wiki/퀸스_파크_레인저스_FC).
 
 
 **퀸즈 파크 레인저스 축구 클럽**(, )은 [런던](../Page/런던.md "wikilink")에 위치한 [잉글랜드](../Page/잉글랜드.md "wikilink")의 프로 축구 클럽이다. 줄여서 **QPR**이라고도 부른다. 2010-11 [풋볼 리그 챔피언십에서](https://ko.wikipedia.org/wiki/풋볼_리그_챔피언십 "wikilink") 우승을 차지한 후 15년 만에 [프리미어리그](https://ko.wikipedia.org/wiki/프리미어리그 "wikilink")로 승격되었다. 1967년에는 [리그 컵](https://ko.wikipedia.org/wiki/풋볼_리그_컵 "wikilink") 우승을 차지하였으며, 1975-76 시즌엔 1부 리그 준우승을, 1982년엔 [FA컵](https://ko.wikipedia.org/wiki/FA컵_\(잉글랜드\) "wikilink") 준우승을 차지하였다.

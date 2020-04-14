@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ X](https://ko.wikipedia.org/wiki/_X).
+> This article is converted from Wikipedia: [록맨 X](https://ko.wikipedia.org/wiki/록맨_X).
 
 
 《**록맨 X**》는 오리지널 록맨으로부터 100년 뒤를 다룬 [록맨](../Page/록맨.md "wikilink")의 세부 시리즈이다. 영어판 제목은 **메가맨 X**(Mega Man X)이다.

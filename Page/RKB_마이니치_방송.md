@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [RKB  ](https://ko.wikipedia.org/wiki/RKB__).
+> This article is converted from Wikipedia: [RKB 마이니치 방송](https://ko.wikipedia.org/wiki/RKB_마이니치_방송).
 
 
 [230px](https://ko.wikipedia.org/wiki/파일:RKB毎日放送のFPU機器.JPG "wikilink")

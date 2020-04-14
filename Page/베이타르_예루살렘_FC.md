@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  FC](https://ko.wikipedia.org/wiki/__FC).
+> This article is converted from Wikipedia: [베이타르 예루살렘 FC](https://ko.wikipedia.org/wiki/베이타르_예루살렘_FC).
 
 
 **베이타르 예루살렘 FC**(, )은 [이스라엘](../Page/이스라엘.md "wikilink")의 [축구팀으로](https://ko.wikipedia.org/wiki/축구단 "wikilink"), [예루살렘](../Page/예루살렘.md "wikilink")을 연고로 하고 있다.

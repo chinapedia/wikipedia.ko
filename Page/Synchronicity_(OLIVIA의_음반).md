@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Synchronicity \(OLIVIA \)](https://ko.wikipedia.org/wiki/Synchronicity_\(OLIVIA_\)).
+> This article is converted from Wikipedia: [Synchronicity \(OLIVIA의 음반\)](https://ko.wikipedia.org/wiki/Synchronicity_\(OLIVIA의_음반\)).
 
 
 **Synchronicity**는 [2000년](../Page/2000년.md "wikilink") [12월 6일에](../Page/12월_6일.md "wikilink") 발매된 [OLIVIA](../Page/OLIVIA.md "wikilink")의 1번째 [앨범이다](../Page/음반.md "wikilink").

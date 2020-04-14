@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [PCI ](https://ko.wikipedia.org/wiki/PCI_).
+> This article is converted from Wikipedia: [PCI 익스프레스](https://ko.wikipedia.org/wiki/PCI_익스프레스).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:PCI-Express-Bus-1-lane.jpg "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:PCI-Express-Bus.jpg "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:Gigabyte_GV-NX62TC256D8_Rev_1.0.jpg "wikilink")
@@ -162,7 +162,7 @@ PCI 익스프레스 미니 카드 모서리 단자는 여러 개의 연결과 �
 
   - [PCI-SIG: | PCI-Express Specification Info](http://www.pcisig.com/specifications/pciexpress/)
 
-  - [Introduction to PCI Protocol](http://electrofriends.com/articles/computer-science/protocol/introduction-to-pci-protocol/)
+  - [Introduction to PCI Protocol](https://web.archive.org/web/20130119181041/http://electrofriends.com/articles/computer-science/protocol/introduction-to-pci-protocol/)
 
   -
 

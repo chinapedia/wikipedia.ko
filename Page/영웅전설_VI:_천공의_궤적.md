@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ VI:  ](https://ko.wikipedia.org/wiki/_VI:__).
+> This article is converted from Wikipedia: [영웅전설 VI: 천공의 궤적](https://ko.wikipedia.org/wiki/영웅전설_VI:_천공의_궤적).
 
 
 《**영웅전설 VI - 천공의 궤적**》([한자](../Page/한자.md "wikilink"): 英雄傳說 VI - 天空의 軌跡, , )은 [팔콤](https://ko.wikipedia.org/wiki/팔콤 "wikilink")에서 만든 [롤플레잉 게임이다](https://ko.wikipedia.org/wiki/롤플레잉_게임 "wikilink"). 이 게임은 FC (First Chapter)와 SC (Second Chapter)로 나누어 발매되었고, 세 번째 타이틀(the 3rd - Third Chapter)은 [2007년](../Page/2007년.md "wikilink") [6월 28일에](../Page/6월_28일.md "wikilink") 발매되었다.

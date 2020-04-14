@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [S](https://ko.wikipedia.org/wiki/S).
+> This article is converted from Wikipedia: [궁S](https://ko.wikipedia.org/wiki/궁S).
 
 
 《**궁S**》는 [2007년](../Page/2007년.md "wikilink") [1월 10일부터](../Page/1월_10일.md "wikilink") [2007년](../Page/2007년.md "wikilink") [3월 15일까지](../Page/3월_15일.md "wikilink") 방영된 [문화방송 수목 미니시리즈이다](../Page/문화방송_수목_미니시리즈.md "wikilink"). [2006년](../Page/2006년.md "wikilink") 초에 방영된 드라마 《[궁](../Page/궁_\(드라마\).md "wikilink")》의 속편 드라마이다.

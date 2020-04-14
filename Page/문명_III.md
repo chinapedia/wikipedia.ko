@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ III](https://ko.wikipedia.org/wiki/_III).
+> This article is converted from Wikipedia: [문명 III](https://ko.wikipedia.org/wiki/문명_III).
 
 
 **문명 III**(Sid Meier's Civilization III)은 [시드 마이어가](../Page/시드_마이어.md "wikilink") 개발한 《[문명](../Page/문명_\(비디오_게임\).md "wikilink")》시리즈의 세 번째 작품이다. [2001년](../Page/2001년.md "wikilink") [10월 30일에](../Page/10월_30일.md "wikilink") 발매되었다. 이전 작품인 [문명 II에](../Page/문명_II.md "wikilink") 비해 새로운 게임 개념을 많이 채택했다.

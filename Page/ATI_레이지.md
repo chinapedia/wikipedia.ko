@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ATI ](https://ko.wikipedia.org/wiki/ATI_).
+> This article is converted from Wikipedia: [ATI 레이지](https://ko.wikipedia.org/wiki/ATI_레이지).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Grafikkarte-ATI-Rage-16-MB_1-1600x1200.jpg "wikilink") 인터페이스를 갖춘 ATI Rage 128 그래픽 카드\]\] **[ATI](https://ko.wikipedia.org/wiki/ATI "wikilink") 레이지**(ATI Rage)는 [GUI](../Page/그래픽_사용자_인터페이스.md "wikilink") [2차원 가속](https://ko.wikipedia.org/wiki/2차원_컴퓨터_그래픽스 "wikilink"), [3차원 가속](../Page/3차원_컴퓨터_그래픽스.md "wikilink") [그래픽 칩셋의](../Page/그래픽_처리_장치.md "wikilink") 시리즈이다. 2D 가속기의 [ATI 마하](../Page/ATI_마하.md "wikilink") 시리즈의 뒤를 잇는다.

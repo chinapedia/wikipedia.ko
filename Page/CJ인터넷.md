@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [CJ](https://ko.wikipedia.org/wiki/CJ).
+> This article is converted from Wikipedia: [CJ인터넷](https://ko.wikipedia.org/wiki/CJ인터넷).
 
 
 **씨제이인터넷(주)**()는 [온라인 게임](../Page/온라인_게임.md "wikilink") 및 캐릭터를 주요 사업으로 한 [대한민국](../Page/대한민국.md "wikilink")의 게임 개발 기업이다.

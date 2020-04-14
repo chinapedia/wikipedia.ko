@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ALBUM \(\)](https://ko.wikipedia.org/wiki/ALBUM_\(\)).
+> This article is converted from Wikipedia: [ALBUM \(음반\)](https://ko.wikipedia.org/wiki/ALBUM_\(음반\)).
 
 
 《**ALBUM**》(, 앨범)은 [마쓰토야 유미의](https://ko.wikipedia.org/wiki/마쓰토야_유미 "wikilink") 베스트 앨범이다. [1977년](../Page/1977년.md "wikilink") [12월 25일에](../Page/12월_25일.md "wikilink") [도시바 EMI에서](https://ko.wikipedia.org/wiki/도시바_EMI "wikilink") 발매되었다. [1981년](../Page/1981년.md "wikilink") [5월 5일에](../Page/5월_5일.md "wikilink") 재발매되었지만, 모두 LP판일뿐 [CD판으로는](../Page/콤팩트_디스크.md "wikilink") 나오지 않았다.

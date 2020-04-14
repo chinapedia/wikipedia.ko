@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  FC](https://ko.wikipedia.org/wiki/__FC).
+> This article is converted from Wikipedia: [아산 유나이티드 FC](https://ko.wikipedia.org/wiki/아산_유나이티드_FC).
 
 
 **아산 유나이티드**()는 [대한민국](../Page/대한민국.md "wikilink") [충청남도](https://ko.wikipedia.org/wiki/충청남도 "wikilink") [아산시](../Page/아산시.md "wikilink")를 연고지로 하는 [K3리그](https://ko.wikipedia.org/wiki/K3리그 "wikilink") 소속 축구단이였다. [당진종합운동장](../Page/당진종합운동장.md "wikilink") 보조경기장을 홈구장으로 쓰고 있다가 [2009년](../Page/2009년.md "wikilink")부터 [이순신종합운동장](../Page/이순신종합운동장.md "wikilink")으로 홈구장을 변경하였다. [2007년 12월](../Page/2007년_12월.md "wikilink") 팀명을 기존의 아산 시민축구단에서 아산 유나이티드로 변경하였다. [2009년 3월](../Page/2009년_3월.md "wikilink") 팀명을 아산 유나이티드에서 아산 시민축구단으로 다시 변경하였다.

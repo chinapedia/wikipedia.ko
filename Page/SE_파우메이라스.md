@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SE ](https://ko.wikipedia.org/wiki/SE_).
+> This article is converted from Wikipedia: [SE 파우메이라스](https://ko.wikipedia.org/wiki/SE_파우메이라스).
 
 
 **소시에다지 이스포르치바 파우메이라스**(Sociedade Esportiva Palmeiras)는 [상파울루](../Page/상파울루.md "wikilink")를 연고로 하는 [브라질](../Page/브라질.md "wikilink")의 축구 클럽으로, [1914년](../Page/1914년.md "wikilink") [8월 26일](../Page/8월_26일.md "wikilink") **소시에타 스포르티바 팔레스트라 이탈리아**(Società Sportiva Palestra Italia)라는 이름으로 창단되었다. 현재의 이름으로 변경된 것은 [1942년](../Page/1942년.md "wikilink") [9월 14일의](../Page/9월_14일.md "wikilink") 일이다.
@@ -48,7 +48,7 @@
 
 ### 역사상 첫 세계 챔피언 : 1950년대
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:Taça_Rio.jpg "wikilink") [1951년](../Page/1951년.md "wikilink") 1월 브라질의 신문사 *오 글로부 스포르치부*는 [쥘 리메](../Page/쥘_리메.md "wikilink") [FIFA](https://ko.wikipedia.org/wiki/국제_축구_협회 "wikilink") 회장이 [리우데자네이루](../Page/리우데자네이루.md "wikilink")에서 세계 클럽 대항전을 개최하기로 결정했음을 보도하였다. 이 대회에는 [CR 바스쿠 다 가마](../Page/CR_바스쿠_다_가마.md "wikilink")(브라질), [FK 아우스트리아 빈](../Page/FK_아우스트리아_빈.md "wikilink")([오스트리아](../Page/오스트리아.md "wikilink")), [클루브 나시오날 데 풋볼](../Page/클루브_나시오날_데_풋볼.md "wikilink")([우루과이](../Page/우루과이.md "wikilink")), [스포르팅 CP](../Page/스포르팅_CP.md "wikilink")([포르투갈](../Page/포르투갈.md "wikilink"))가 리우데자네이루에서, [유벤투스 FC](../Page/유벤투스_FC.md "wikilink")([이탈리아](../Page/이탈리아.md "wikilink")), [FK 츠르베나 즈베즈다](../Page/FK_츠르베나_즈베즈다.md "wikilink")([유고슬라비아](../Page/유고슬라비아.md "wikilink")), [올랭피크 드 마르세유](../Page/올랭피크_드_마르세유.md "wikilink")([프랑스](../Page/프랑스.md "wikilink"))가 상파울루에서 대회를 치르게 되었으며, 총 8개 팀이 브라질을 방문하게 되었다. [말뫼 FF](../Page/말뫼_FF.md "wikilink"), [FK 라피드 빈](https://ko.wikipedia.org/wiki/FK_라피드_빈 "wikilink"), [토트넘 홋스퍼 FC도](../Page/토트넘_홋스퍼_FC.md "wikilink") 초청을 받았으나 거절하였다. 사상 첫 세계 클럽 대항전의 결승전은 유벤투스와 파우메이라스의 경기로 치러졌고, 파우메이라스가 최종 우승을 차지했다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:Taça_Rio.jpg "wikilink") [1951년](../Page/1951년.md "wikilink") 1월 브라질의 신문사 *오 글로부 스포르치부*는 [쥘 리메](../Page/쥘_리메.md "wikilink") [FIFA](https://ko.wikipedia.org/wiki/국제_축구_협회 "wikilink") 회장이 [리우데자네이루](../Page/리우데자네이루.md "wikilink")에서 세계 클럽 대항전을 개최하기로 결정했음을 보도하였다. 이 대회에는 [CR 바스쿠 다 가마](../Page/CR_바스쿠_다_가마.md "wikilink")(브라질), [FK 아우스트리아 빈](../Page/FK_아우스트리아_빈.md "wikilink")([오스트리아](../Page/오스트리아.md "wikilink")), [클루브 나시오날 데 풋볼](../Page/클루브_나시오날_데_풋볼.md "wikilink")([우루과이](../Page/우루과이.md "wikilink")), [스포르팅 CP](../Page/스포르팅_CP.md "wikilink")([포르투갈](../Page/포르투갈.md "wikilink"))가 리우데자네이루에서, [유벤투스 FC](../Page/유벤투스_FC.md "wikilink")([이탈리아](../Page/이탈리아.md "wikilink")), [FK 츠르베나 즈베즈다](../Page/FK_츠르베나_즈베즈다.md "wikilink")([유고슬라비아](../Page/유고슬라비아.md "wikilink")), [올랭피크 드 마르세유](../Page/올랭피크_드_마르세유.md "wikilink")([프랑스](../Page/프랑스.md "wikilink"))가 상파울루에서 대회를 치르게 되었으며, 총 8개 팀이 브라질을 방문하게 되었다. [말뫼 FF](../Page/말뫼_FF.md "wikilink"), [FK 라피드 빈](https://ko.wikipedia.org/wiki/FK_라피드_빈 "wikilink"), [토트넘 홋스퍼 FC도](../Page/토트넘_홋스퍼_FC.md "wikilink") 초청을 받았으나 거절하였다. 사상 첫 세계 클럽 대항전의 결승전은 유벤투스와 파우메이라스의 경기로 치러졌고, 파우메이라스가 최종 우승을 차지했다. 이 사실에 대해서는 FIFA가 [2000년](../Page/2000년.md "wikilink")에 확인하였고, [2007년](../Page/2007년.md "wikilink")에 공식 기록으로 인정하였다.
 
 ### 브라질의 거인 : 1960-70년대
 
@@ -302,7 +302,7 @@
 
 #### 국제 대회
 
-  - **[코파 리우](https://ko.wikipedia.org/wiki/코파_리우 "wikilink")** (비공식 월드컵)
+  - **[코파 리우](https://ko.wikipedia.org/wiki/코파_리우 "wikilink")** *(클럽 월드컵 전신)*
       - 우승 1회: [1951](https://ko.wikipedia.org/wiki/코파_리우_1951 "wikilink")
 
 #### 대륙 대회

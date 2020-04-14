@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FC ](https://ko.wikipedia.org/wiki/FC_).
+> This article is converted from Wikipedia: [FC 바젤](https://ko.wikipedia.org/wiki/FC_바젤).
 
 
 **FC 바젤**()은 [스위스](https://ko.wikipedia.org/wiki/스위스 "wikilink")의 [바젤](../Page/바젤.md "wikilink")을 연고지로 하고 있는 [축구](../Page/축구.md "wikilink") 클럽이며 [FC 취리히와](../Page/FC_취리히.md "wikilink") [FC 바르셀로나의](../Page/FC_바르셀로나.md "wikilink") 창단을 주도한 [호안 감페르가](https://ko.wikipedia.org/wiki/호안_감페르 "wikilink") 창단에 기여하였다.

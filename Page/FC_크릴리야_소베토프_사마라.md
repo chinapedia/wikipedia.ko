@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FC   ](https://ko.wikipedia.org/wiki/FC___).
+> This article is converted from Wikipedia: [FC 크릴리야 소베토프 사마라](https://ko.wikipedia.org/wiki/FC_크릴리야_소베토프_사마라).
 
 
 **크릴리야 소베토프**()는 [러시아](../Page/러시아.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽으로 [1942년](../Page/1942년.md "wikilink")에 창단되었다. 연고지는 [유럽 러시아의](https://ko.wikipedia.org/wiki/유럽_러시아 "wikilink") 남부에 위치한 [사마라이다](../Page/사마라_\(러시아\).md "wikilink"). 최고성적은 2004 시즌의 [러시아 프리미어리그](../Page/러시아_프리미어리그.md "wikilink") 3위이다.

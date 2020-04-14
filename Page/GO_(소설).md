@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [GO \(\)](https://ko.wikipedia.org/wiki/GO_\(\)).
+> This article is converted from Wikipedia: [GO \(소설\)](https://ko.wikipedia.org/wiki/GO_\(소설\)).
 
 
 **GO**(고)는 재일한국인 [가네시로 가즈키의](../Page/가네시로_가즈키.md "wikilink") 소설이다. 2000년에 [고단샤](../Page/고단샤.md "wikilink")를 통해 발매되었고, 같은 해에 열린 제123회 [나오키 산주고 상에서](https://ko.wikipedia.org/wiki/나오키_산주고_상 "wikilink") 최연소로 수상하였다. 2001년 10월 20일에 대한민국의 [스타맥스](https://ko.wikipedia.org/wiki/스타맥스 "wikilink")와 일본 [도에이](../Page/도에이.md "wikilink") 영화사의 합작으로 영화화되었으며, [아키타 쇼텐을](../Page/아키타_쇼텐.md "wikilink") 통해 만화책이 총 5권이 발매되었다.

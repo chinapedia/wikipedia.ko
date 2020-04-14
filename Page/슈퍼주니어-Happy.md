@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [-Happy](https://ko.wikipedia.org/wiki/-Happy).
+> This article is converted from Wikipedia: [슈퍼주니어-Happy](https://ko.wikipedia.org/wiki/슈퍼주니어-Happy).
 
 
 **슈퍼주니어-Happy**()는 대한민국의 아이돌 그룹 [슈퍼주니어](../Page/슈퍼주니어.md "wikilink")의 유닛 그룹이다.

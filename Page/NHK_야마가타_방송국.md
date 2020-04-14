@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [NHK  ](https://ko.wikipedia.org/wiki/NHK__).
+> This article is converted from Wikipedia: [NHK 야마가타 방송국](https://ko.wikipedia.org/wiki/NHK_야마가타_방송국).
 
 
 **NHK 야마가타 방송국**(山形 放送局)은 [야마가타현](../Page/야마가타현.md "wikilink")을 방송구역으로 하는 NHK의 지역방송국이며 중파·FM라디오·텔레비전 방송을 담당하고 있다. [섬네일](https://ko.wikipedia.org/wiki/파일:JOJG.JPG "wikilink")

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [THE LAST SONG \(X JAPAN \)](https://ko.wikipedia.org/wiki/THE_LAST_SONG_\(X_JAPAN_\)).
+> This article is converted from Wikipedia: [THE LAST SONG \(X JAPAN의 노래\)](https://ko.wikipedia.org/wiki/THE_LAST_SONG_\(X_JAPAN의_노래\)).
 
 
 〈**THE LAST SONG**〉은 [엑스 재팬의](https://ko.wikipedia.org/wiki/엑스_재팬 "wikilink") 17번째의 싱글이다. [1998년](../Page/1998년.md "wikilink") [3월 18일](../Page/3월_18일.md "wikilink") 발매되었다.

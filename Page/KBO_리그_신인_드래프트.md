@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KBO   ](https://ko.wikipedia.org/wiki/KBO___).
+> This article is converted from Wikipedia: [KBO 리그 신인 드래프트](https://ko.wikipedia.org/wiki/KBO_리그_신인_드래프트).
 
 
 **프로야구 신인선수 지명회의**는 [KBO에서](https://ko.wikipedia.org/wiki/KBO_\(야구\) "wikilink") 주최하는 연례행사로 프로 야구 선수가 될 수 있는 방법 중 하나이다. 1차 드래프트라고도 불린다.

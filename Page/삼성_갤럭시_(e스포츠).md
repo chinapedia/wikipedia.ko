@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  \(e\)](https://ko.wikipedia.org/wiki/__\(e\)).
+> This article is converted from Wikipedia: [삼성 갤럭시 \(e스포츠\)](https://ko.wikipedia.org/wiki/삼성_갤럭시_\(e스포츠\)).
 
 
 **삼성 갤럭시**(Samsung Galaxy)는 [대한민국](../Page/대한민국.md "wikilink")의 [프로게임단](https://ko.wikipedia.org/wiki/프로게임단 "wikilink")이었다. 과거 [워크래프트 3](https://ko.wikipedia.org/wiki/워크래프트_3 "wikilink"), [피파](https://ko.wikipedia.org/wiki/FIFA_시리즈 "wikilink"), [스타크래프트](../Page/스타크래프트.md "wikilink"), [스타크래프트 II](https://ko.wikipedia.org/wiki/스타크래프트_II "wikilink"), [리그 오브 레전드](../Page/리그_오브_레전드.md "wikilink") 종목을 운영하였었다.

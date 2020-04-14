@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FIFA  2](https://ko.wikipedia.org/wiki/FIFA__2).
+> This article is converted from Wikipedia: [FIFA 온라인 2](https://ko.wikipedia.org/wiki/FIFA_온라인_2).
 
 
 《**피파 온라인 2**》()는 [피파 온라인의](https://ko.wikipedia.org/wiki/피파_온라인 "wikilink") 후속작이다. 피파 07을 기본 엔진으로 하여 [피파 08의](https://ko.wikipedia.org/wiki/피파_08 "wikilink") 로스터를 차용한 온라인 [축구](../Page/축구.md "wikilink") 게임이다. 이 게임 역시 피파 온라인처럼 [EA와](../Page/일렉트로닉_아츠.md "wikilink") [네오위즈](../Page/네오위즈.md "wikilink")가 공동으로 개발한 게임이다. 피파 시리즈의 로스터를 기본으로 하였기 때문에 FIFA 라이선스를 획득하여 선수의 실제 모습을 그대로 나타낸 것은 피파 온라인과의 공통점이나, 기존의 피파 온라인과 상당한 차이점을 보인다고 한다. 게임 출시 발표는 [2007년](../Page/2007년.md "wikilink") [9월 28일에](../Page/9월_28일.md "wikilink") 이루어졌으며\[1\], [2007년](../Page/2007년.md "wikilink") [10월 4일](../Page/10월_4일.md "wikilink") 시범 오픈을 하였고 [10월 10일까지](../Page/10월_10일.md "wikilink") 시범적으로 운영되었다.\[2\]\[3\] 그리고 [2007년](../Page/2007년.md "wikilink") [10월 18일](../Page/10월_18일.md "wikilink") 부분 유료화를 포함하여 정식 오픈을 하였다.\[4\]

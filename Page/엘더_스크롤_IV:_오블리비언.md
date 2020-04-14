@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  IV: ](https://ko.wikipedia.org/wiki/__IV:_).
+> This article is converted from Wikipedia: [엘더 스크롤 IV: 오블리비언](https://ko.wikipedia.org/wiki/엘더_스크롤_IV:_오블리비언).
 
 
 《**엘더 스크롤 4: 오블리비언**》()는 베데스다 소프트웍스()가 제작한 [싱글 플레이](https://ko.wikipedia.org/wiki/싱글_플레이 "wikilink") [롤플레잉](https://ko.wikipedia.org/wiki/컴퓨터_롤플레잉_게임 "wikilink") [비디오 게임이다](../Page/비디오_게임.md "wikilink"). 액션 판타지 비디오 게임 시리즈인 엘더 스크롤의 네 번째 작품이다. 2006년 3월 21일 [윈도](https://ko.wikipedia.org/wiki/마이크로소프트_윈도 "wikilink") [PC와](../Page/개인용_컴퓨터.md "wikilink") [엑스박스 360으로](../Page/엑스박스_360.md "wikilink") 처음 출시되었다. 2007년 3월 20일에는 북미 지역에서 [플레이스테이션 3로](../Page/플레이스테이션_3.md "wikilink") 출시되었으며,\[1\] 같은 해 4월 27일 유럽에서도 동일한 플랫폼으로 출시되었다.\[2\] 확장팩으로는 쉬버링 아일즈(Shivering Isles)와 나이트 오브 나인(Knight Of The Nine)이 있으며 많은 양의 요소들이 게임에 추가되었다. 이전 엘더 스크롤 시리즈처럼 플레이어는 주된 줄거리의 진행을 늦추거나 무시하면서 게임 세계의 어느 곳이든지 아무 때나 갈 수 있다. 개발자들은 과거 시리즈보다 더욱 정확한 짜임새에 심혈을 기울였고, 이러한 설계는 게임 저널들로부터 좋은 평가를 받았다.\[3\] 2011년 11월 11일 후속작 "[엘더스크롤 5: 스카이림](https://ko.wikipedia.org/wiki/엘더스크롤_5:_스카이림 "wikilink")"이 전 세계 동시 발매되었다.

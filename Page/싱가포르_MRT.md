@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ MRT](https://ko.wikipedia.org/wiki/_MRT).
+> This article is converted from Wikipedia: [싱가포르 MRT](https://ko.wikipedia.org/wiki/싱가포르_MRT).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:SMRTJE-Front.JPG "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:SGMRT-LRT_map.svg "wikilink") **싱가포르 도시철도**(,  또는 일반적으로 , , )는 [싱가포르](../Page/싱가포르.md "wikilink") 도시 전체를 아우르는, 싱가포르 공공 교통 체계에서 중요한 역할을 하는 철도이다. 첫 노선은 [1987년](../Page/1987년.md "wikilink") 개통했으며 [동남아시아](../Page/동남아시아.md "wikilink")에서 [마닐라 LRT](https://ko.wikipedia.org/wiki/마닐라_LRT "wikilink") 다음으로 두 번째로 오래 된 지하철이며, 싱가포르의 적극적인 정책 추진으로 급속히 성장했다. 2014년에는 하루에 평균 2백76만 명 정도가 이용하며, 이는 버스 승객수 다음으로 많은 숫자다.\[1\]
@@ -101,7 +101,8 @@
 <td><p>-</p></td>
 <td><p>우드렌즈 노스 (Woodlands North)</p></td>
 <td><p>우드렌즈 사우스 (Woodlands South)</p></td>
-<td><p>만다이 (Mandai) 이스트 코스트 (East Coast)- 미완공</p></td>
+<td><p>만다이 (Mandai)<br />
+</p></td>
 </tr>
 <tr class="odd">
 <td></td>

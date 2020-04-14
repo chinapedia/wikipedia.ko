@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TCN \(\)](https://ko.wikipedia.org/wiki/TCN_\(\)).
+> This article is converted from Wikipedia: [TCN \(방송국\)](https://ko.wikipedia.org/wiki/TCN_\(방송국\)).
 
 
 [썸네일](https://ko.wikipedia.org/wiki/파일:TCN_Daegu_catv.jpg "wikilink") **TCN**는 대한민국의 [부산광역시](https://ko.wikipedia.org/wiki/부산광역시 "wikilink") 지역 일부를 맡아 운영하고 있는 종합 유선 방송국이다. 현재 TCN 방송이 운영하는 지역은 부산광역시 [창원시](../Page/창원시.md "wikilink"), [창원시](../Page/창원시.md "wikilink") 지역을 맡고 있다.
@@ -30,253 +30,25 @@ TCN은 busan Cable Networks의 약자이며 1992년 설립되었다. CATV 관련
 
   - [딜라이브](../Page/딜라이브.md "wikilink")
 
-## 디지털케이블 채널편성표
+## 디지털케이블 HD채널안내
 
-  - 000 MBC Every1
-  - 001 지역채널
-  - 003 KBS드라마
-  - 004 NS홈쇼핑
-  - 005 KNN
-  - 006 CJ오쇼핑
-  - 007 KBS2
-  - 008 롯데홈쇼핑
-  - 009 KBS1
-  - 010 GS홈쇼핑
-  - 011 MBC
-  - 012 현대홈쇼핑
-  - 013 EBS
-  - 014 홈&쇼핑
-  - 015 JTBC
-  - 016 tvN
-  - 017 채널A
-  - 018 MBN
-  - 019 TV조선
-  - 020 공영쇼핑
-  - 021 드라맥스
-  - 022 쇼핑엔티
-  - 023 연합뉴스TV
-  - 024 YTN
-  - 025 신세계쇼핑
-  - 026 SBS플러스
-  - 027 W쇼핑
-  - 028 코미디TV
-  - 029 SK stoa
-  - 030 KBSJOY
-  - 031 K쇼핑
-  - 032 OCN
-  - 033 롯데 One TV
-  - 034 M-NET
-  - 035 K star
-  - 036 SBS funE
-  - 037 현대홈쇼핑플러스샵
-  - 038 E채널
-  - 039 GS MY SHOP
-  - 040 XtvN
-  - 041 CJ오쇼핑플러스
-  - 042 MBC드라마넷
-  - 043 NS샵+
-  - 044 AXN
-  - 045 스크린
-  - 046 Lifetime
-  - 047 TVCHOSUN2
-  - 048 JTBC2
-  - 049 SBS F\!L
-  - 050 CNTV
-  - 051 드라마H
-  - 052 드라마큐브
-  - 053 MBC ON
-  - 054 올리브
-  - 055 EDGE TV
-  - 056 KBS W
-  - 057 디원
-  - 058 SkyDrama
-  - 059 하이라이트TV
-  - 060 SmileTV Plus
-  - 061 GTV
-  - 062 히스토리
-  - 063 채널칭
-  - 064 채널차이나
-  - 065 중화TV
-  - 066 TVasia Plus
-  - 067 FOX채널
-  - 068 텔레노벨라
-  - 069 채널J
-  - 070 채널A플러스
-  - 071 MBN PLUS
-  - 072 HQ+
-  - 073 FUN TV
-  - 074 EXF Plus
-  - 075 인디필름
-  - 076 채널CGV
-  - 077 캐치온1
-  - 078 Super액션
-  - 079 씨네프
-  - 080 DIA TV
-  - 081 O tvN
-  - 082 채널이엠
-  - 083 SkyEnt
-  - 084 JTBC4
-  - 085 CMC TV
-  - 086 FX
-  - 087 리얼TV
-  - 088 아이넷
-  - 089 온스타일
-  - 090 TRENDY
-  - 091 패션앤
-  - 092 동아TV
-  - 093 FOXLIFE
-  - 094 Cook TV
-  - 095 사이언스TV
-  - 096 Mplex
-  - 097 위라이크
-  - 098 더무비
-  - 099 캐치온2
-  - 100 디자이어TV
-  - 101 VIKI
-  - 102 플레이보이TV
-  - 103 미드나잇
-  - 104 허니TV
-  - 105 핑크하우스
-  - 108 청춘시대TV
-  - 109 SPOTV ON 1
-  - 110 SPOTV ON 2
-  - 111 SBS골프
-  - 112 JTBC골프
-  - 113 JTBC3
-  - 114 SkySports
-  - 115 빌리어즈TV
-  - 116 MBC스포츠+
-  - 117 SBS Sports
-  - 118 KBSN스포츠
-  - 119 SPOTV
-  - 120 SPOTV2
-  - 121 SPOTV+
-  - 122 IB스포츠
-  - 123 Koreasports
-  - 124 생활체육TV
-  - 125 SkyPetPark
-  - 126 채널해피독
-  - 127 ONT
-  - 128 마운틴TV
-  - 129 FTV
-  - 130 FISHING TV
-  - 131 OGN
-  - 132 SPOTV Games
-  - 133 바둑TV
-  - 134 브레인TV
-  - 135 한국바둑방송
-  - 136 SkyTravel
-  - 137 Ch view
-  - 138 YTN Life
-  - 139 헬스메디TV
-  - 140 하비라이프
-  - 141 LifeU
-  - 142 GMTV
-  - 143 이벤트TV
-  - 144 실버아이TV
-  - 145 EtN연예TV
-  - 146 폴라리스TV
-  - 147 아시아N
-  - 148 채널W
-  - 149 다큐원
-  - 150 MBC뮤직
-  - 151 CUBE TV
-  - 152 SBS MTV
-  - 153 tbsTV
-  - 154 SBS아프리카TV
-  - 155 아이넷라이프
-  - 156 뉴트로TV
-  - 157 Golf Channel Korea
-  - 160 아르떼TV
-  - 162 Mezzo Live HD
-  - 163 Umax
-  - 164 LifeU UHD
-  - 165 UXN
-  - 166 SBS F\!L UHD
-  - 167 월드클래식무비
-  - 168 씨네플러스
-  - 169 AsiaM
-  - 170 내셔널지오그래픽
-  - 171 Discovery
-  - 172 BBC Earth
-  - 173 한국농업방송
-  - 174 쿠키건강TV
-  - 175 채널i
-  - 176 MBC-NET
-  - 177 리빙TV
-  - 180 한국경제TV
-  - 181 머니투데이방송
-  - 182 SBS CNBC
-  - 183 토마토TV
-  - 184 매일경제TV
-  - 185 이데일리TV
-  - 186 서울경제TV
-  - 187 팍스경제TV
-  - 188 R토마토
-  - 189 아리랑TV
-  - 190 CNN
-  - 191 BBC World News
-  - 192 CNBC
-  - 193 Bloomberg
-  - 194 NHK-W
-  - 195 CGTN
-  - 196 CCTV-4
-  - 197 TV5MONDE
-  - 199 English Gem
-  - 200 챔프
-  - 201 투니버스
-  - 202 ANIMAX
-  - 203 Nickelodeon
-  - 204 디즈니
-  - 205 카툰네트워크
-  - 206 JEI재능TV
-  - 207 KBS키즈
-  - 208 대교어린이TV
-  - 209 신기한나라TV
-  - 210 애니박스
-  - 211 부메랑
-  - 212 애니플러스
-  - 213 키즈톡톡플러스
-  - 214 JEI잉글리쉬TV
-  - 215 플레이런TV
-  - 216 디즈니주니어
-  - 217 대교베이비TV
-  - 219 EBS키즈
-  - 220 EBS플러스1
-  - 221 EBS플러스2
-  - 222 EBS English
-  - 223 WeeTV
-  - 224 육아방송
-  - 230 Nat Geo Wild
-  - 231 CNN US
-  - 232 Ciassica
-  - 233 시니어TV
-  - 234 다문화TV
-  - 235 StarSports
-  - 236 STN Sports
-  - 238 브릿지TV
-  - 239 WBS원음방송
-  - 240 OBS W
-  - 241 CMTV
-  - 250 KTV
-  - 251 OUN
-  - 252 국회방송
-  - 253 시민방송
-  - 254 소비자TV
-  - 255 복지TV
-  - 256 한국직업방송
-  - 257 소상공인방송
-  - 258 국방TV
-  - 259 SAFE TV
-  - 300 상생방송
-  - 301 CTS기독교TV
-  - 302 CBS TV
-  - 303 GoodTV
-  - 304 CGNTV
-  - 305 C채널
-  - 306 BTN불교TV
-  - 307 BBS불교방송
-  - 308 가톨릭평화방송
-  - 999 케이블TV VOD
+  - 3-1번 [EBS플러스1](https://ko.wikipedia.org/wiki/EBS플러스1 "wikilink")
+  - 4-1번 [MBCevery1](../Page/MBC_에브리원.md "wikilink")
+  - 5-1번 [KCTV/EBS](../Page/광주방송_\(KCTV\).md "wikilink")
+  - 6-1번 [홈&쇼핑](../Page/홈&쇼핑.md "wikilink")
+  - 7-1번 [롯데홈쇼핑](https://ko.wikipedia.org/wiki/롯데홈쇼핑 "wikilink")
+  - 8-1번 [KBS2](../Page/KBS_2TV.md "wikilink")
+  - 9-1번 [현대홈쇼핑](../Page/현대홈쇼핑.md "wikilink")
+  - 10-1번 [KBS1](https://ko.wikipedia.org/wiki/KBS_제1TV "wikilink")
+  - 11-1번 [GS SHOP](../Page/GS_SHOP.md "wikilink")
+  - 12-1번 [진주 MBC](https://ko.wikipedia.org/wiki/MBC경남_진주본부 "wikilink")
+  - 13-1번 [KNN](../Page/KNN.md "wikilink")/SBS
+  - 14-1번 [CJ오쇼핑](../Page/CJ오쇼핑.md "wikilink")
+  - 15-1번 [JTBC](../Page/JTBC.md "wikilink")
+  - 16-1번 [NS홈쇼핑](../Page/NS홈쇼핑.md "wikilink")
+  - 17-1번 [tvN](https://ko.wikipedia.org/wiki/tvN "wikilink")
+  - 18-1번 [MBN](https://ko.wikipedia.org/wiki/MBN "wikilink")
+  - 19-1번 [TV조선](../Page/TV조선.md "wikilink")
+  - 20-1번 [채널A](../Page/채널A.md "wikilink")
 
 [분류:대한민국의 종합유선방송사업자](https://ko.wikipedia.org/wiki/분류:대한민국의_종합유선방송사업자 "wikilink") [분류:부산광역시의 대중 매체](../Page/분류:부산광역시의_대중_매체.md "wikilink") [분류:1992년 설립](https://ko.wikipedia.org/wiki/분류:1992년_설립 "wikilink")

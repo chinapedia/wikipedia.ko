@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [G. E. ](https://ko.wikipedia.org/wiki/G._E._).
+> This article is converted from Wikipedia: [G. E. 무어](https://ko.wikipedia.org/wiki/G._E._무어).
 
 
 **조지 에드워드 무어**(, [1873년](../Page/1873년.md "wikilink") [11월 4일](../Page/11월_4일.md "wikilink") \~ [1958년](../Page/1958년.md "wikilink") [10월 24일](../Page/10월_24일.md "wikilink"))는 [영국](../Page/영국.md "wikilink")의 [철학자](https://ko.wikipedia.org/wiki/철학자 "wikilink")로, [버트런드 러셀](../Page/버트런드_러셀.md "wikilink"), [루트비히 비트겐슈타인](../Page/루트비히_비트겐슈타인.md "wikilink"), [고틀로프 프레게](../Page/고틀로프_프레게.md "wikilink") 등과 함께 현대 [분석 철학의](https://ko.wikipedia.org/wiki/분석_철학 "wikilink") 기초를 닦은 사람이다. 그는 [윤리학](../Page/윤리학.md "wikilink")에서 [비자연주의](https://ko.wikipedia.org/wiki/비자연주의 "wikilink")를 주장했고, 철학적 방법론의 하나로 [상식](https://ko.wikipedia.org/wiki/상식 "wikilink")을 강조했다. 그의 이름을 딴 [무어의 역설은](https://ko.wikipedia.org/wiki/무어의_역설 "wikilink") 비트겐슈타인에 의해 널리 알려졌다.

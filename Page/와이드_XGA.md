@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ XGA](https://ko.wikipedia.org/wiki/_XGA).
+> This article is converted from Wikipedia: [와이드 XGA](https://ko.wikipedia.org/wiki/와이드_XGA).
 
 
 | 해상도      | 쓰이는 곳    | 가로세로비        |

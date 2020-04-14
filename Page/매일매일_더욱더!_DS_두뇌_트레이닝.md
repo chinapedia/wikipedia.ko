@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ ! DS  ](https://ko.wikipedia.org/wiki/_!_DS__).
+> This article is converted from Wikipedia: [매일매일 더욱더! DS 두뇌 트레이닝](https://ko.wikipedia.org/wiki/매일매일_더욱더!_DS_두뇌_트레이닝).
 
 
 《**매일매일 더욱더\! DS 두뇌 트레이닝**》(, )은 [닌텐도 DS를](../Page/닌텐도_DS.md "wikilink") 위해 [닌텐도](../Page/닌텐도.md "wikilink")에서 개발, 배포한 두뇌 게임으로 [매일매일 DS 두뇌 트레이닝](../Page/매일매일_DS_두뇌_트레이닝.md "wikilink") 후속 소프트웨어이다. [일본](../Page/일본.md "wikilink")에서 가장 먼저 발매되었고, 그 뒤 [유럽](../Page/유럽.md "wikilink"), [오스트레일리아](../Page/오스트레일리아.md "wikilink"), [북미에](../Page/북아메리카.md "wikilink") 발매 된 후 [대한민국](../Page/대한민국.md "wikilink")에서 2008년 8월 2일에 발매되었으며, 가격은 28,000원이다.\[1\]

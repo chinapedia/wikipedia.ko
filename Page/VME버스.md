@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [VME](https://ko.wikipedia.org/wiki/VME).
+> This article is converted from Wikipedia: [VME버스](https://ko.wikipedia.org/wiki/VME버스).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:VMEbus.jpg "wikilink")

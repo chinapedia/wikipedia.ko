@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [AS ](https://ko.wikipedia.org/wiki/AS_).
+> This article is converted from Wikipedia: [AS 생테티엔](https://ko.wikipedia.org/wiki/AS_생테티엔).
 
 
 **AS 생테티엔**(Association Sportive Saint-Étienne Loire)은 [생테티엔](../Page/생테티엔.md "wikilink")을 연고로 하는 [프랑스](../Page/프랑스.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다. [1919년](../Page/1919년.md "wikilink")에 창단되었으며, 프랑스 프로 축구 최상위 리그, [리그 1에](https://ko.wikipedia.org/wiki/리그_1 "wikilink") 참가중이다.

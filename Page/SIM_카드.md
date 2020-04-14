@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SIM ](https://ko.wikipedia.org/wiki/SIM_).
+> This article is converted from Wikipedia: [SIM 카드](https://ko.wikipedia.org/wiki/SIM_카드).
 
 
 [섬네일의](https://ko.wikipedia.org/wiki/파일:Sim_card.png "wikilink") SIM 카드\]\] **유심칩**이라고도 부르는 **SIM 카드**()는 가입자 식별 모듈(Subscriber Identification Module)을 구현한 IC 카드로, [GSM](../Page/GSM.md "wikilink") 단말기의 필수 요소이다. 보통 단말기 뒤에 들어가는 슬롯이 있고, 이에 끼워넣는 작은 카드를 부르는 말이다. 최초의 SIM 카드는 [1991년](../Page/1991년.md "wikilink")에 [뮌헨](../Page/뮌헨.md "wikilink")의 스마트 카드 제조사 Giesecke & Devrient가 만들었고 첫 300 개의 SIM 카드를 무선 네트워크 통신사 Elisa Oyj (Radiolinja)에 판매하였다.

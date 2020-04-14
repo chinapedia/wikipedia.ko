@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:LG](https://ko.wikipedia.org/wiki/:LG).
+> This article is converted from Wikipedia: [틀:LG전자](https://ko.wikipedia.org/wiki/틀:LG전자).
 
 
 <onlyinclude></onlyinclude>

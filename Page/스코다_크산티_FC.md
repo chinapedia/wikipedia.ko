@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  FC](https://ko.wikipedia.org/wiki/__FC).
+> This article is converted from Wikipedia: [스코다 크산티 FC](https://ko.wikipedia.org/wiki/스코다_크산티_FC).
 
 
 **스코다 크산티 FC**()는 [그리스](../Page/그리스.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽으로 그리스 북부의 [트라키](https://ko.wikipedia.org/wiki/트라키 "wikilink") 지방의 [크산티](../Page/크산티.md "wikilink")에 연고를 두고 있다. 현재 [수페르 리가 엘라다에](https://ko.wikipedia.org/wiki/수페르_리가_엘라다 "wikilink") 참가하고 있다.

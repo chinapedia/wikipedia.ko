@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [CON-CAN    ](https://ko.wikipedia.org/wiki/CON-CAN____).
+> This article is converted from Wikipedia: [CON-CAN 온라인 국제 단편 영화제](https://ko.wikipedia.org/wiki/CON-CAN_온라인_국제_단편_영화제).
 
 
 **CON-CAN 온라인 국제 단편 영화제** ([영어](../Page/영어.md "wikilink")：CON-CAN Movie Festival [한자](../Page/한자.md "wikilink")：魂観Online国際短編映画祭)는 매년 [인터넷](../Page/인터넷.md "wikilink")에서 개최하는 [국제](https://ko.wikipedia.org/wiki/국제 "wikilink") 단편 [영화제](../Page/영화제.md "wikilink")이며, CON-CAN을 운영하는 주식회사 미디어 종합 연구소의 CEO 요시노마사히로가 실행위원장을 맡고 있다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FK ](https://ko.wikipedia.org/wiki/FK_).
+> This article is converted from Wikipedia: [FK 모드리차](https://ko.wikipedia.org/wiki/FK_모드리차).
 
 
 **FK 모드리차** (FK Modriča Maxima)는 [보스니아 헤르체고비나의](../Page/보스니아_헤르체고비나.md "wikilink") [축구](../Page/축구.md "wikilink") 클럽으로 보스니아의 [스르프스카 공화국의](https://ko.wikipedia.org/wiki/스르프스카_공화국 "wikilink") [모드리차](https://ko.wikipedia.org/wiki/모드리차 "wikilink")에 연고를 두고 있다. 클럽은 [1922년](../Page/1922년.md "wikilink")에 창단되었으며 현재 [보스니아 헤르체고비나 프리미어리그에](../Page/보스니아_헤르체고비나_프리미어리그.md "wikilink") 참가하고 있다. 2002-03시즌에 [스르프스카 공화국 1부 리그](https://ko.wikipedia.org/wiki/스르프스카_공화국_1부_리그 "wikilink") 우승을 하면서 프리미어리그로 승격하였다.

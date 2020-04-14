@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SC ](https://ko.wikipedia.org/wiki/SC_).
+> This article is converted from Wikipedia: [SC 인테르나시오나우](https://ko.wikipedia.org/wiki/SC_인테르나시오나우).
 
 
 **스포르트 클루브 인테르나시오나우**()는 [브라질](../Page/브라질.md "wikilink")의 축구 클럽으로, [히우그란지두술주](../Page/히우그란지두술주.md "wikilink")의 [포르투알레그리](../Page/포르투알레그리.md "wikilink")를 연고로 한다. [2018년](../Page/2018년.md "wikilink") 현재 브라질 전국리그 최상위인 [캄페오나투 브라질레이루 세리이 A와](https://ko.wikipedia.org/wiki/캄페오나투_브라질레이루_세리이_A "wikilink") 히우그란지두술 주의 주리그인 [캄페오나투 가우슈에](../Page/캄페오나투_가우슈.md "wikilink") 참가하고 있다. 이 팀은 [1909년](../Page/1909년.md "wikilink")에 창단되었다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [IF ](https://ko.wikipedia.org/wiki/IF_).
+> This article is converted from Wikipedia: [IF 엘프스보리](https://ko.wikipedia.org/wiki/IF_엘프스보리).
 
 
 **IF 엘프스보리**는 [스웨덴](../Page/스웨덴.md "wikilink")의 축구 클럽팀으로 [보로스](../Page/보로스.md "wikilink")에 연고지를 두고 있다. [1904년](../Page/1904년.md "wikilink") [6월 26일에](../Page/6월_26일.md "wikilink") Borås Fotbollslag로 창단하였다. 엘프스보리는 다섯 번의 리그 우승과 두 번의 컵 우승 기록을 가지고 있다. 현재는 스웨덴 최상위 리그인 [알스벤스칸](../Page/알스벤스칸.md "wikilink")에서 플레이하고 있다.

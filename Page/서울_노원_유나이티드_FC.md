@@ -1,9 +1,9 @@
-> This article is converted from Wikipedia: [   FC](https://ko.wikipedia.org/wiki/___FC).
+> This article is converted from Wikipedia: [서울 노원 유나이티드 FC](https://ko.wikipedia.org/wiki/서울_노원_유나이티드_FC).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:sufc02.jpg "wikilink")
 
-**서울 노원 유나이티드 FC**(Seoul Nowon United Football Club)은 [K3리그](https://ko.wikipedia.org/wiki/K3리그 "wikilink")에 속해있는 [대한민국](../Page/대한민국.md "wikilink")의 협동조합 [축구단](https://ko.wikipedia.org/wiki/축구단 "wikilink")이다. 2018년까지 서울 유나이티드 FC가 공식명칭이었으며 줄여서 **서유**라고도 호칭된다.
+**서울 노원 유나이티드 FC**(Seoul Nowon United Football Club)은 [K4리그](https://ko.wikipedia.org/wiki/K4리그 "wikilink")에 속해있는 [대한민국](../Page/대한민국.md "wikilink")의 협동조합 [축구단](https://ko.wikipedia.org/wiki/축구단 "wikilink")이다. 2018년까지 서울 유나이티드 FC가 공식명칭이었으며 줄여서 **서유**라고도 호칭된다.
 
 2007년 [서울특별시](../Page/서울특별시.md "wikilink")를 연고지로 창설하여 [송파구](https://ko.wikipedia.org/wiki/송파구 "wikilink")의 [서울올림픽주경기장](../Page/서울올림픽주경기장.md "wikilink")을 홈 구장으로 사용했으며, [2011년](../Page/2011년.md "wikilink")부터 [노원구](../Page/노원구.md "wikilink")의 [마들스타디움](https://ko.wikipedia.org/wiki/마들스타디움 "wikilink")을 홈 구장으로 사용하다가 [2019년](../Page/2019년.md "wikilink")에는 연고지를 서울 노원구로 한정하여 정착했다.
 
@@ -69,7 +69,7 @@
 
 2012 시즌부터 [배형렬](https://ko.wikipedia.org/wiki/배형렬 "wikilink") 수석코치가 감독으로 선임되었다. [챌린저스리그 2012는](../Page/챌린저스리그_2012.md "wikilink") 지난 두 시즌과 마찬가지로 양대리그제를 채택하였고, 서울은 추첨 결과 B조에 배정되었다. 서울은 2011년과 마찬가지로 2012년에도 FA컵 진출권을 확보하지 못했으나 전년도 리그 9위팀인 전주 EM이 출전을 포기하면서 FA컵 1라운드 출전권을 얻게 되었다. FA컵 1라운드에서 2011시즌 U리그 중부리그 무패우승 팀인 [한남대학교](https://ko.wikipedia.org/wiki/한남대학교 "wikilink")와 대결한 끝에 2-4로 패하며 2라운드 진출이 좌절되었다. 서울은 2011년도 서울특별시장기 우승 팀으로서 시드 배정을 받아 서울특별시장기 축구대회 결승으로 직행하였으며, 예선을 거쳐 올라온 [중랑 코러스 무스탕과](https://ko.wikipedia.org/wiki/중랑_코러스_무스탕 "wikilink") 대전해 6-3으로 승리하여 2년 연속 서울특별시장기 우승을 차지하게 되었다. 한편, 2012시즌 중반부터 서울 유나이티드와 서울특별시간 협력관계가 강화됨에 따라 서울특별시의 공식 슬로건인 '희망서울'이 중앙에 부착된 유니폼을 사용하고 있다. 2012 시즌의 일부 경기는 다시 [서울올림픽주경기장](../Page/서울올림픽주경기장.md "wikilink")에서 개최되었다.
 
-### 본격적인 프로화 움직임 (2013년\~현재)
+### 본격적인 프로화 움직임 (2013년\~2017년)
 
 **서울 유나이티드 2013 시즌**
 
@@ -87,13 +87,13 @@
 
 프리시즌 동안 [최상국](../Page/최상국.md "wikilink") 감독과의 계약을 1년 더 연장하고, [오성진](../Page/오성진.md "wikilink"), 최예찬 등의 핵심 선수를 복귀시킨데 이어 [청춘FC](https://ko.wikipedia.org/wiki/청춘FC "wikilink")에서 활약한 길정현, [임근영](../Page/임근영.md "wikilink"), 명승호, 최원태 선수를 영입하며 팬들의 기대감을 높였다. FA컵은 1라운드에서 SMC엔지니어링에 패해 탈락했다. 6월 10일, [조동현](../Page/조동현_\(축구인\).md "wikilink") 감독을 10대 감독으로 선임하였다. 같은 달 27일, 곽선우 전 [성남 FC](https://ko.wikipedia.org/wiki/성남_FC "wikilink") 대표이사를 신임 사장으로 임명했다. 리그 최종 순위 17위를 기록하여 2017시즌 K3 베이직리그로의 강등이 확정되었다.
 
-## 선수 명단
+### 주춤기 (2017년 \~ )
 
-### 현재 선수 명단
+2017년 서울 유나이티드는 K3리그 베이직에서 첫 시즌을 치뤘다. 하지만 시즌동안 단 1승도 거두지 못한채 0승 2무 14패라는 처참한 성적을 남기며 베이직리그 꼴지에 그쳤다.
 
-2016년 8월 기준      [16px](https://ko.wikipedia.org/wiki/파일:Captain_sports.svg "wikilink")
+2019년 구단명을 **서울 노원 유나이티드**로 변경했다.
 
-  - **영구 결번** : 12번은 12번째 선수인 서포터즈를 위한 번호로 영구 결번이다.
+2020시즌을 앞두고 [K4리그](https://ko.wikipedia.org/wiki/K4리그 "wikilink")에 참여하기로 결정했다.
 
 ## 코칭스태프 및 운영진
 

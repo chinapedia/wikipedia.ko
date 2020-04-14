@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [DFL-](https://ko.wikipedia.org/wiki/DFL-).
+> This article is converted from Wikipedia: [DFL-리가포칼](https://ko.wikipedia.org/wiki/DFL-리가포칼).
 
 
 **DFB-리가포칼**(DFB-Ligapokal) 혹은 **독일 리그컵**은 [분데스리가](../Page/분데스리가.md "wikilink") 시즌이 시작하기 전에 열리는 [독일](../Page/독일.md "wikilink") [축구](../Page/축구.md "wikilink") 대회이다. 지난 시즌의 분데스리가 상위권 팀들과 [DFB-포칼](../Page/DFB-포칼.md "wikilink") 우승 팀이 출전한다. 2005년부터 2007년까지 독일 방송사인 [프리미에르](https://ko.wikipedia.org/wiki/프리미에르 "wikilink")가 후원을 하였다.

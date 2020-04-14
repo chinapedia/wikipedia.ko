@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FC  ](https://ko.wikipedia.org/wiki/FC__).
+> This article is converted from Wikipedia: [FC 디나모 모스크바](https://ko.wikipedia.org/wiki/FC_디나모_모스크바).
 
 
 **FC 디나모 모스크바**(, )는 [1923년](../Page/1923년.md "wikilink")에 창단된 [러시아](../Page/러시아.md "wikilink") [모스크바](../Page/모스크바.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다. 오랫동안 강등된 적이 없었다가 [러시아 프리미어리그](../Page/러시아_프리미어리그.md "wikilink") 2015 시즌에 15위로 마감하여 강등되어 현재는 [러시아 내셔널 풋볼 리그에](../Page/러시아_내셔널_풋볼_리그.md "wikilink") 속해 있다. 이 클럽은 과거 [소련의](https://ko.wikipedia.org/wiki/소련_축구_국가대표팀 "wikilink") 전설적인 골키퍼인 [레프 야신이](../Page/레프_야신.md "wikilink") 활약했던 클럽이다.

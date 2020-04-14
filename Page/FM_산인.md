@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FM ](https://ko.wikipedia.org/wiki/FM_).
+> This article is converted from Wikipedia: [FM 산인](https://ko.wikipedia.org/wiki/FM_산인).
 
 
 **FM산인**은 일본의 FM라디오 방송국으로 [1986년](../Page/1986년.md "wikilink") [10월 1일](../Page/10월_1일.md "wikilink") 개국했으며 [돗토리현](../Page/돗토리현.md "wikilink")과 [시마네현](../Page/시마네현.md "wikilink")에서 방송을 실시하고 있다. [JFN](../Page/JFN.md "wikilink")에 가맹했으며 애칭은 V-air, 콜사인은 JOVU-FM이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KBS](https://ko.wikipedia.org/wiki/KBS).
+> This article is converted from Wikipedia: [KBS목포방송국](https://ko.wikipedia.org/wiki/KBS목포방송국).
 
 
 **KBS목포방송국**(KBS木浦放送局)은 전남 서남부 지역을 가시청권으로 하는 [KBS 광주방송총국](https://ko.wikipedia.org/wiki/KBS_광주방송총국 "wikilink") 소속의 지역국이다.

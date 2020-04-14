@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [X](https://ko.wikipedia.org/wiki/X).
+> This article is converted from Wikipedia: [액티브X](https://ko.wikipedia.org/wiki/액티브X).
 
 
 **액티브X**()는 [마이크로소프트](../Page/마이크로소프트.md "wikilink")사가 개발한 재사용 가능한 [객체지향적인](../Page/객체_지향_프로그래밍.md "wikilink") [소프트웨어](../Page/소프트웨어.md "wikilink") 구성 요소 개발에 사용되는 기술이다. 액티브X는 [컴포넌트 오브젝트 모델과](../Page/컴포넌트_오브젝트_모델.md "wikilink") [객체 연결 삽입 (OLE)을](../Page/객체_연결_삽입.md "wikilink") 적용해 [WWW](https://ko.wikipedia.org/wiki/WWW "wikilink")으로부터 다운로드받은 컨텐츠들을 이용하는 데 이용된다. 액티브X는 전반적인 기술 혹은 기술을 구현하는데 필요한 구성요소를 가리키며, 액티브X컨트롤은 액티브X를 이용해 만든 작은 프로그램을 말한다. 대부분 액티브X는 [인터넷 익스플로러의](../Page/인터넷_익스플로러.md "wikilink") [플러그인](../Page/플러그인.md "wikilink")을 만드는 데 사용된다.\[1\]
@@ -36,7 +36,7 @@
 굳이 인터넷 익스플로러를 사용하지 않고서라도 액티브X 콘텐츠를 실행할 수 있다. (이를테면 [와인을](../Page/와인_\(소프트웨어\).md "wikilink") 설치하는 등) 그 밖의 다른 방법은 다음과 같다:
 
   - [FX ActiveX 호스트](http://code.google.com/p/ff-activex-host/) 는 윈도용 [모질라 파이어폭스에서](../Page/모질라_파이어폭스.md "wikilink") 액티브X 컨트롤을 실행할 수 있다.
-  - [모질라 ActiveX 컨트롤](http://www.iol.ie/~locka/mozilla/mozilla.htm) 은 2005년 말에 최신으로 업데이트되었으며 파이어폭스 1.5에서 실행한다.
+  - [모질라 ActiveX 컨트롤](https://web.archive.org/web/20060721123224/http://www.iol.ie/%7Elocka/mozilla/mozilla.htm) 은 2005년 말에 최신으로 업데이트되었으며 파이어폭스 1.5에서 실행한다.
 
 ## 다른 액티브X 기술
 

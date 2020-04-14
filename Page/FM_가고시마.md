@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FM ](https://ko.wikipedia.org/wiki/FM_).
+> This article is converted from Wikipedia: [FM 가고시마](https://ko.wikipedia.org/wiki/FM_가고시마).
 
 
 **FM가고시마**는 일본의 FM라디오 방송국으로 [1992년](../Page/1992년.md "wikilink") [10월 1일](../Page/10월_1일.md "wikilink") 개국했으며 [가고시마현](../Page/가고시마현.md "wikilink")에서 방송을 실시하고 있다.

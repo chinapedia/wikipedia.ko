@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:MBC](https://ko.wikipedia.org/wiki/:MBC).
+> This article is converted from Wikipedia: [틀:MBC](https://ko.wikipedia.org/wiki/틀:MBC).
 
 
 <onlyinclude></onlyinclude>

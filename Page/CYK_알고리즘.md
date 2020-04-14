@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [CYK ](https://ko.wikipedia.org/wiki/CYK_).
+> This article is converted from Wikipedia: [CYK 알고리즘](https://ko.wikipedia.org/wiki/CYK_알고리즘).
 
 
 **CYK 알고리즘**(Cocke-Younger-Kasami 알고리즘, CYK Algorithm)은 특정한 [문자열](https://ko.wikipedia.org/wiki/문자열 "wikilink")에 대해, 그 문자열이 특정한 [문맥 자유 문법에](https://ko.wikipedia.org/wiki/문맥_자유_문법 "wikilink") 속하는지를 판단하고, 또한 어떠한 방식으로 생성되는지를 판단하는 [파싱](https://ko.wikipedia.org/wiki/파싱 "wikilink") 알고리즘이다. 이 알고리즘은 [동적 계획법을](../Page/동적_계획법.md "wikilink") 사용하며, [상향식 파싱](https://ko.wikipedia.org/wiki/상향식_파싱 "wikilink") 구조를 가지고 있다.

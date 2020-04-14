@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ \&   JT15D](https://ko.wikipedia.org/wiki/_\&___JT15D).
+> This article is converted from Wikipedia: [프랫 \& 휘트니 캐나다 JT15D](https://ko.wikipedia.org/wiki/프랫_\&_휘트니_캐나다_JT15D).
 
 
 [right](https://ko.wikipedia.org/wiki/파일:CASM_-_JT15D_-_030906.jpg "wikilink") **[프랫 앤 휘트니](https://ko.wikipedia.org/wiki/프랫_앤_휘트니 "wikilink") 캐나다 JT15D**는 비즈니스 제트용으로 만들어진 **소형 [터보팬](../Page/터보팬.md "wikilink") 엔진**이다. 1971년에 도입이 되었으며, 그 당시에는 추력 2,200 lbf (9.8 kN)이었다. 이후 여러 차례의 업그레이드를 거쳤으며, 가장 최근 버전은 3,000 lbf (13 kN)가 넘는다. 다양한 종류의 소형 제트기, 특히 비즈니스 제트기에서 주 추진기관으로 사용되고 있다. 1970년대 이래로 6,000대 이상의 JT15D가 납품되었으며, 총 3천만 시간 이상의 운용 시간을 자랑하고 있다.

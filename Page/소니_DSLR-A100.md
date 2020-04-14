@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ DSLR-A100](https://ko.wikipedia.org/wiki/_DSLR-A100).
+> This article is converted from Wikipedia: [소니 DSLR-A100](https://ko.wikipedia.org/wiki/소니_DSLR-A100).
 
 
 **소니 알파 DSLR-A100**()는 [2006년](../Page/2006년.md "wikilink") [6월 5일에](../Page/6월_5일.md "wikilink") 발표된 [소니](../Page/소니.md "wikilink")의 최초 [디지털 SLR이다](https://ko.wikipedia.org/wiki/디지털_SLR "wikilink"). 센서를 움직이는 형태의 [손떨림 방지](https://ko.wikipedia.org/wiki/손떨림_방지 "wikilink") 기능을 가지고 있다. [소니 DSLR-A200이](../Page/소니_DSLR-A200.md "wikilink") 후속 기종이다.

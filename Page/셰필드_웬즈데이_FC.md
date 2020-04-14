@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  FC](https://ko.wikipedia.org/wiki/__FC).
+> This article is converted from Wikipedia: [셰필드 웬즈데이 FC](https://ko.wikipedia.org/wiki/셰필드_웬즈데이_FC).
 
 
 **셰필드 웬즈데이 축구 클럽**은 [잉글랜드](../Page/잉글랜드.md "wikilink") [사우스요크셔주](https://ko.wikipedia.org/wiki/사우스요크셔주 "wikilink")의 [셰필드](../Page/셰필드.md "wikilink")에 있는 프로 [축구](../Page/축구.md "wikilink") 클럽이다. 현재는 [잉글랜드](../Page/잉글랜드.md "wikilink") 2부리그인 [EFL 챔피언십에서](../Page/EFL_챔피언십.md "wikilink") 시즌을 보내고 있다. 셰필드 웬즈데이는 전 세계에서 가장 오래된 축구 팀 가운데 하나로 1892년에 [풋볼 리그에](https://ko.wikipedia.org/wiki/풋볼_리그 "wikilink") 참가하였다. 이들의 주요 라이벌팀은 [셰필드 유나이티드 FC로](../Page/셰필드_유나이티드_FC.md "wikilink") 두 팀은 거의 100여년 간 "[강철 도시 더비](https://ko.wikipedia.org/wiki/강철_도시_더비 "wikilink")"라고 불리는 라이벌전을 계속해 왔다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ QQ](https://ko.wikipedia.org/wiki/_QQ).
+> This article is converted from Wikipedia: [텐센트 QQ](https://ko.wikipedia.org/wiki/텐센트_QQ).
 
 
 **텐센트 QQ**(), 줄여서 **QQ**는 중국에서 가장 인기 있는 무료 [인스턴트 메시징](https://ko.wikipedia.org/wiki/인스턴트_메시징 "wikilink") [컴퓨터 프로그램이며](../Page/컴퓨터_프로그램.md "wikilink") 세계에서 세 번째로 가장 인기 있는 IM 서비스이다.\[1\] 이 프로그램은 [네스퍼스](https://ko.wikipedia.org/wiki/네스퍼스 "wikilink") 소속의 [텐센트 홀딩스 리미티드](https://ko.wikipedia.org/wiki/텐센트_홀딩스_리미티드 "wikilink")(Tencent Holdings Limited)가 관리하고 있다.\[2\] QQ는 대화 프로그램뿐 아니라 게임, 애완 동물 키우기, 벨소리 내려받기 등의 부가 서비스도 개발해 놓았다.

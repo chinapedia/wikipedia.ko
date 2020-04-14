@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [P](https://ko.wikipedia.org/wiki/P).
+> This article is converted from Wikipedia: [P진수](https://ko.wikipedia.org/wiki/P진수).
 
 
 [수론](https://ko.wikipedia.org/wiki/수론 "wikilink")에서, **<i>p</i>진수**(p進數, *p*-adic number)는 [유리수](../Page/유리수.md "wikilink")의 체를 마치 어떤 [소수](../Page/소수_\(수론\).md "wikilink") *p*에 대한 [로랑 급수처럼](../Page/로랑_급수.md "wikilink") 해석하여 [완비시켜](../Page/완비_거리_공간.md "wikilink") 얻는 [체이다](../Page/체_\(수학\).md "wikilink"). 보다 구체적으로 설명하면, 임의의 소수 p에 대해, p진수들을 전부 모은 *p*진체는 유리수체의 [완비화이다](../Page/완비_거리_공간.md "wikilink"). 또한 *p*진수에는 *p*진 [값매김](https://ko.wikipedia.org/wiki/값매김 "wikilink")이 주어져 있기에 [거리 공간이](../Page/거리_공간.md "wikilink") 되며 따라서 [위상 공간이기도](https://ko.wikipedia.org/wiki/위상_공간_\(수학\) "wikilink") 하다. 이 거리 공간은 [완비 거리 공간](../Page/완비_거리_공간.md "wikilink")(즉, 모든 [코시 수열이](https://ko.wikipedia.org/wiki/코시_수열 "wikilink") 수렴한다)이며, 그렇기에 p진체 상에서 마치 실수체 상에서와 같은 [해석학을](../Page/해석학_\(수학\).md "wikilink") 전개할 수 있는 것이다. p진법 체계의 유용성은 상당 부분 이와 같은 [대수적](../Page/대수학.md "wikilink") 구조와 해석적 구조 사이의 상호 연관성에서 나온다.

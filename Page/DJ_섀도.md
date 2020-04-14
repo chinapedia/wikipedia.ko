@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [DJ ](https://ko.wikipedia.org/wiki/DJ_).
+> This article is converted from Wikipedia: [DJ 섀도](https://ko.wikipedia.org/wiki/DJ_섀도).
 
 
 **DJ 섀도**(, **조시 데이비스**, Joshua Paul "Josh" Davis, [1972년](../Page/1972년.md "wikilink") [6월 29일](../Page/6월_29일.md "wikilink")\~ )\[1\] 는 [미국](../Page/미국.md "wikilink")의 [디스크자키](https://ko.wikipedia.org/wiki/디스크자키 "wikilink")이자, 턴테이블리스트, 음악 제작자 겸 작곡가이다. 그는 [인스트루멘탈](https://ko.wikipedia.org/wiki/인스트루멘탈 "wikilink") 힙합의 성장에 있어 중요한 인물로 고려된다 . 첫 앨범 *Endtroducing.....* 발매로 처음 주목 받았다. 여러 앨범의 샘플을 믹스하여 완전히 다른 음악으로 만들어낸 획기적인 앨범으로 대단한 평가를 받았다.\[2\]"Let it be a soundtrack to your life for a while, you'll look back on it with warmth one day in the future, trust me. Y.Misdaq aka Yoshi, 22 Nov 2003".</ref>

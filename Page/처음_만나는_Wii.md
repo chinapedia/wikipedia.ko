@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  Wii](https://ko.wikipedia.org/wiki/__Wii).
+> This article is converted from Wikipedia: [처음 만나는 Wii](https://ko.wikipedia.org/wiki/처음_만나는_Wii).
 
 
 **처음 만나는 Wii**(Wii Play)는 [닌텐도](../Page/닌텐도.md "wikilink")가 개발한 [Wii](../Page/Wii.md "wikilink")용 가이드형식의 소프트웨어이다.

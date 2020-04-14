@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [MBC ](https://ko.wikipedia.org/wiki/MBC_).
+> This article is converted from Wikipedia: [MBC 스포츠플러스](https://ko.wikipedia.org/wiki/MBC_스포츠플러스).
 
 
-**MBC 스포츠플러스**(엠비씨 스포츠플러스, )는 [스포츠](../Page/스포츠.md "wikilink"), [예능](https://ko.wikipedia.org/wiki/예능 "wikilink") 프로그램 등을 주로 편성하는 [MBC 플러스](../Page/MBC_플러스.md "wikilink") 계열사의 텔레비전 채널이다. [2001년](../Page/2001년.md "wikilink") [미국](../Page/미국.md "wikilink")의 [ESPN](../Page/ESPN.md "wikilink") STAR SPORTS사와 공동 설립하면서 "MBC ESPN"란 이름을 사용하였다가, 합작 계약을 끝낸 후 [2010년](../Page/2010년.md "wikilink") [8월 1일부터](../Page/8월_1일.md "wikilink") 현재의 이름으로 변경되었다\[1\].
+**MBC 스포츠플러스**(엠비씨 스포츠플러스, )는 [스포츠](../Page/스포츠.md "wikilink"), [예능](https://ko.wikipedia.org/wiki/예능 "wikilink") 프로그램 등을 주로 편성하는 [MBC 플러스](../Page/MBC_플러스.md "wikilink") 계열사의 텔레비전 채널이다. [2001년](../Page/2001년.md "wikilink") [미국](../Page/미국.md "wikilink")의 [ESPN](../Page/ESPN.md "wikilink") STAR SPORTS사와 공동 설립하면서 "(구) MBC ESPN"란 이름을 사용하였다가, 합작 계약을 끝낸 후 [2010년](../Page/2010년.md "wikilink") [8월 1일부터](../Page/8월_1일.md "wikilink") 현재의 이름으로 변경되었다\[1\].
 
 2007년 1월 15일부터 [HD 방송을](../Page/고선명_텔레비전.md "wikilink") 시작하였다.\[2\]
 

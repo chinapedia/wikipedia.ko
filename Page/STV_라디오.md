@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [STV ](https://ko.wikipedia.org/wiki/STV_).
+> This article is converted from Wikipedia: [STV 라디오](https://ko.wikipedia.org/wiki/STV_라디오).
 
 
 **STV라디오**는 [1962년](../Page/1962년.md "wikilink") [12월 15일](../Page/12월_15일.md "wikilink") [삿포로TV방송](https://ko.wikipedia.org/wiki/삿포로TV방송 "wikilink")의 중파라디오 방송국으로서 개국했다.

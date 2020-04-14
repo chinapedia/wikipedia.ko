@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Lucid Fall \(\)](https://ko.wikipedia.org/wiki/Lucid_Fall_\(\)).
+> This article is converted from Wikipedia: [Lucid Fall \(음반\)](https://ko.wikipedia.org/wiki/Lucid_Fall_\(음반\)).
 
 
 《**Lucid Fall**》은 [루시드 폴의](https://ko.wikipedia.org/wiki/루시드_폴 "wikilink") 셀프 타이틀 1집 정규 앨범이다. [2001년](../Page/2001년.md "wikilink") [2월 5일](../Page/2월_5일.md "wikilink") 발매된 이 앨범은 라디오 뮤직이 제작하고 수도음반에서 배급했다.
@@ -27,7 +27,7 @@
 
 ## 외부 링크
 
-  - [루시드 폴 공식 홈페이지](http://www.mulgogi.net/)
+  - [루시드 폴 공식 홈페이지](https://web.archive.org/web/20080108072848/http://www.mulgogi.net/)
   - [49위 루시드 폴《Lucid Fall 1집》](http://news.khan.co.kr/section/khan_art_view.html?mode=view&artid=200802211737255&code=900307) [경향신문](../Page/경향신문.md "wikilink")
   - [마음의 저변을 건드리는 노래](http://music.naver.com/todayMusic/index.nhn?startDate=20080412) [네이버](../Page/네이버.md "wikilink")
 

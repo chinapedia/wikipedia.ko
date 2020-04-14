@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ SIMD ](https://ko.wikipedia.org/wiki/_SIMD_).
+> This article is converted from Wikipedia: [스트리밍 SIMD 확장](https://ko.wikipedia.org/wiki/스트리밍_SIMD_확장).
 
 
 **스트리밍 SIMD 확장**(Streaming SIMD Extensions, SSE)은 [x86](https://ko.wikipedia.org/wiki/x86 "wikilink") 아키텍처에 대한 [SIMD](https://ko.wikipedia.org/wiki/SIMD "wikilink")(단일 명령 다중 데이터) [명령어 집합](../Page/명령어_집합.md "wikilink") 확장이며, [인텔](../Page/인텔.md "wikilink")이 1999년에 [펜티엄 III](../Page/펜티엄_III.md "wikilink") 시리즈 프로세서에 도입하였다. 이 기능은 1998년 등장한 [AMD](https://ko.wikipedia.org/wiki/AMD "wikilink")사의 [3D나우\!](../Page/3D나우!.md "wikilink") 기술에 대응한다. SSE는 70가지의 새로운 명령어와 추가적인 레지스터로 구성되며, 명령어의 대부분은 [부동 소수점에](https://ko.wikipedia.org/wiki/부동_소수점 "wikilink") 대한 연산이다.

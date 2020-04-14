@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [CPU ](https://ko.wikipedia.org/wiki/CPU_).
+> This article is converted from Wikipedia: [CPU 타임](https://ko.wikipedia.org/wiki/CPU_타임).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:CpuTimeonSingleCpuMultiTaskingSystem.svg "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:CPU_Time.png "wikilink") 시스템([GNU](../Page/GNU.md "wikilink")/[리눅스](../Page/리눅스.md "wikilink"))에서 [top](https://ko.wikipedia.org/wiki/top_\(소프트웨어\) "wikilink") 프로그램을 이용하여 CPU 타임을 보고 있다. (TIME+ 컬럼.) \]\]

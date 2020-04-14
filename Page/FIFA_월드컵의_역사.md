@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FIFA  ](https://ko.wikipedia.org/wiki/FIFA__).
+> This article is converted from Wikipedia: [FIFA 월드컵의 역사](https://ko.wikipedia.org/wiki/FIFA_월드컵의_역사).
 
 
 **FIFA 월드컵의 역사**는 [1928년](../Page/1928년.md "wikilink"), 당시 [FIFA](https://ko.wikipedia.org/wiki/국제축구연맹 "wikilink") 회장이었던 [쥘 리메가](../Page/쥘_리메.md "wikilink") 국제적인 축구 대회를 개최하기로 한 데에서 시작된다. [1930년](../Page/1930년.md "wikilink"), 우루과이에서 첫 번째 [FIFA 월드컵이](https://ko.wikipedia.org/wiki/FIFA_월드컵 "wikilink") 개최되었을 때 초청받았던 팀은 단 13개국뿐이었다. 이후 계속된 확장과 형식의 변화를 경험하고 있는 FIFA 월드컵은 현재 전 세계 200여 개가 넘는 국가들이 2년 동안 열리는 [월드컵 예선을](../Page/FIFA_월드컵_예선.md "wikilink") 통해 본선에 출전하는 32개국을 결정한다.

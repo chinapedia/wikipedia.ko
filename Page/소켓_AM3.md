@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ AM3](https://ko.wikipedia.org/wiki/_AM3).
+> This article is converted from Wikipedia: [소켓 AM3](https://ko.wikipedia.org/wiki/소켓_AM3).
 
 
 **소켓 AM3**()는 [AMD](https://ko.wikipedia.org/wiki/AMD "wikilink")의 [소켓 AM2+를](../Page/소켓_AM2+.md "wikilink") 잇는 [마이크로프로세서](../Page/마이크로프로세서.md "wikilink") 소켓으로 AM2+에서 [DDR3 SDRAM을](../Page/DDR3_SDRAM.md "wikilink") 지원하도록 강화된 소켓이다.

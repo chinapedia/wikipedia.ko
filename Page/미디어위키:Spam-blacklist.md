@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Spam-blacklist](https://ko.wikipedia.org/wiki/:Spam-blacklist).
+> This article is converted from Wikipedia: [미디어위키:Spam-blacklist](https://ko.wikipedia.org/wiki/미디어위키:Spam-blacklist).
 
 
 `# 이 필터에 해당하는 URL을 문서에 넣을 경우 해당 편집의 저장을 자동으로 막습니다.`

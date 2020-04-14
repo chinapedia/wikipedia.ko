@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [HSV  ](https://ko.wikipedia.org/wiki/HSV__).
+> This article is converted from Wikipedia: [HSV 색 공간](https://ko.wikipedia.org/wiki/HSV_색_공간).
 
 
 **HSV 색 공간** 또는 **HSV 모델**은 색을 표현하는 하나의 방법이자, 그 방법에 따라 색을 배치하는 방식이다. [색상](https://ko.wikipedia.org/wiki/색상 "wikilink")(**H**ue), [채도](../Page/채도.md "wikilink")(**S**aturation), [명도](../Page/명도.md "wikilink")(**V**alue)의 [좌표](https://ko.wikipedia.org/wiki/좌표 "wikilink")를 써서 특정한 [색](../Page/색.md "wikilink")을 지정한다. 비슷한 것으로 **HSL**(Lightness), **HSI**(Intensity) 등이 있다.

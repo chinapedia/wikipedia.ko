@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ TV](https://ko.wikipedia.org/wiki/_TV).
+> This article is converted from Wikipedia: [후쿠시마 TV](https://ko.wikipedia.org/wiki/후쿠시마_TV).
 
 
 [오른쪽](https://ko.wikipedia.org/wiki/파일:Fukushima_Ftv_logo.svg "wikilink") **후쿠시마 TV**는 [1963년](../Page/1963년.md "wikilink") [4월 1일](../Page/4월_1일.md "wikilink") [후쿠시마현](../Page/후쿠시마현.md "wikilink")의 첫 번째 민영방송국으로 개국했으며 약칭은 FTV, 콜사인은 JOPX-DTV이다.

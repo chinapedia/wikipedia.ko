@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
+> This article is converted from Wikipedia: [라리사 FC](https://ko.wikipedia.org/wiki/라리사_FC).
 
 
 **라리사 FC** 또는 **AEL FC**, **AEL 라리사**라고도 불리는 이 클럽은 [그리스](../Page/그리스.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽으로 [그리스](../Page/그리스.md "wikilink") [테살리아](../Page/테살리아.md "wikilink")의 주도인 [라리사](../Page/라리사.md "wikilink")를 연고로 하고 있다. AEL 1964는 Athlitiki Enosi Larisas 1964 의 약자이며, 이는 *Athletic Union of Larissa 1964*라는 의미를 가지고 있다.

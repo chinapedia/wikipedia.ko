@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SM ](https://ko.wikipedia.org/wiki/SM_).
+> This article is converted from Wikipedia: [SM 메가몰](https://ko.wikipedia.org/wiki/SM_메가몰).
 
 
 **에스엠 메가몰**()은 [필리핀](../Page/필리핀.md "wikilink") [메트로 마닐라의](../Page/메트로_마닐라.md "wikilink") 업무 구역인 [올티가스](https://ko.wikipedia.org/wiki/올티가스 "wikilink")에 위치한 쇼핑 몰이다.

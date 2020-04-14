@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ TV](https://ko.wikipedia.org/wiki/_TV).
+> This article is converted from Wikipedia: [아이 TV](https://ko.wikipedia.org/wiki/아이_TV).
 
 
 [200px](https://ko.wikipedia.org/wiki/파일:Itv_logo.svg "wikilink") **아이 TV**는 [일본](../Page/일본.md "wikilink") [에히메현](../Page/에히메현.md "wikilink")의 민영 텔레비전 방송국이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [NHK  ](https://ko.wikipedia.org/wiki/NHK__).
+> This article is converted from Wikipedia: [NHK 후쿠야마 지국](https://ko.wikipedia.org/wiki/NHK_후쿠야마_지국).
 
 
 **NHK 후쿠야마 지국**(福山 支局)은 [히로시마현](../Page/히로시마현.md "wikilink") 동부 지역 수신료 수납 업무나 보도 업무를 중심으로 한 영업 거점으로서의 역할을 맡는 [NHK 히로시마 방송국의](../Page/NHK_히로시마_방송국.md "wikilink") 지국이다.

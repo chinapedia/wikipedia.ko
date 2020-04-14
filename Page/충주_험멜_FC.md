@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  FC](https://ko.wikipedia.org/wiki/__FC).
+> This article is converted from Wikipedia: [충주 험멜 FC](https://ko.wikipedia.org/wiki/충주_험멜_FC).
 
 
 **충주 험멜 FC**(, *충주 험멜 프로축구단*)는 [충청북도](https://ko.wikipedia.org/wiki/충청북도 "wikilink") [충주시](https://ko.wikipedia.org/wiki/충주시 "wikilink")를 연고로 하고 있는 [대한민국](../Page/대한민국.md "wikilink")의 프로 [축구](../Page/축구.md "wikilink")단이었다. [1999년](../Page/1999년.md "wikilink") 창단 이래 [2000년](../Page/2000년.md "wikilink") 서울시장기배 우승, [2002년](../Page/2002년.md "wikilink") [덴마크](../Page/덴마크.md "wikilink") [험멜](https://ko.wikipedia.org/wiki/험멜 "wikilink")컵 준우승, [2003년](../Page/2003년.md "wikilink") [전국체육대회](../Page/전국체육대회.md "wikilink") 3위 등의 성적을 냈으며, [2013년](../Page/2013년.md "wikilink")부터 [2016년](../Page/2016년.md "wikilink")까지 [K리그 챌린지에](https://ko.wikipedia.org/wiki/K리그_챌린지 "wikilink") 소속되어 있었으나 재정적인 어려움 등으로 인하여 2016 시즌을 끝으로 해체하였다.

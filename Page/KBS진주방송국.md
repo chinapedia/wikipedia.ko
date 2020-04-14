@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KBS](https://ko.wikipedia.org/wiki/KBS).
+> This article is converted from Wikipedia: [KBS진주방송국](https://ko.wikipedia.org/wiki/KBS진주방송국).
 
 
 **KBS진주방송국**(KBS晋州放送局)은 경남 서부지역을 방송권역으로 하는 [KBS 창원방송총국](https://ko.wikipedia.org/wiki/KBS_창원방송총국 "wikilink") 소속 산하의 지역방송국이며, [1976년](../Page/1976년.md "wikilink") [4월 1일](../Page/4월_1일.md "wikilink") 개국하였다.
@@ -166,6 +166,7 @@ KBS 본사의 프로그램 및 KBS창원 보도 프로그램과 KBS진주의 자
 
   - [MBC경남 진주본부](https://ko.wikipedia.org/wiki/MBC경남_진주본부 "wikilink")
   - [KNN](../Page/KNN.md "wikilink")
+  - [터닝메카드 W](../Page/터닝메카드_W.md "wikilink")
 
 ## 각주
 

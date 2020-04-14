@@ -1,9 +1,9 @@
-> This article is converted from Wikipedia: [USB  ](https://ko.wikipedia.org/wiki/USB__).
+> This article is converted from Wikipedia: [USB 플래시 드라이브](https://ko.wikipedia.org/wiki/USB_플래시_드라이브).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:SanDisk_USB.jpg "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:USB_flash_drive.JPG "wikilink")
 
-**USB 플래시 드라이브**()는 [USB](../Page/USB.md "wikilink") 포트에 꽂아 쓰는 [플래시 메모리를](../Page/플래시_메모리.md "wikilink") 이용한 이동형 저장 장치를 말한다. 2014년 기준으로 1[TB까지](https://ko.wikipedia.org/wiki/테라바이트 "wikilink") 다양한 용량의 제품이 판매 중으로, 그 중에서 4\~32[기가바이트](https://ko.wikipedia.org/wiki/기가바이트 "wikilink") 용량의 제품이 일반적이다. **USB 메모리**()나 **USB 스틱**(), **USB 키**() 등으로 불리기도 한다. 간단히 USB라고 부르는 경우도 있는데 USB는 [컴퓨터](../Page/컴퓨터.md "wikilink")와 주변기기를 연결하는 [인터페이스](https://ko.wikipedia.org/wiki/인터페이스 "wikilink")의 한 종류이지 이동형 저장장치의 종류가 아니므로, 엄밀히 말해 틀린 표현이다.
+**USB 플래시 드라이브**()는 [USB](../Page/USB.md "wikilink") 포트에 꽂아 쓰는 [플래시 메모리를](../Page/플래시_메모리.md "wikilink") 이용한 이동형 저장 장치를 말한다. 일반적으로 [광학 디스크 드라이브에](../Page/광학_디스크_드라이브.md "wikilink") 비해 크기가 훨씬 작지만, 쉽게 제거할 수(removable) 있고 [데이터](https://ko.wikipedia.org/wiki/데이터 "wikilink")를 다시 기록할 수(rewritable) 있다. 2014년 기준으로 1[TB까지](https://ko.wikipedia.org/wiki/테라바이트 "wikilink") 다양한 용량의 제품이 판매 중으로, 그 중에서 4\~32[기가바이트](https://ko.wikipedia.org/wiki/기가바이트 "wikilink") 용량의 제품이 일반적이다. **USB 메모리**(USB memory)나 **USB 스틱**(USB stick), **USB 키**(USB key) 등으로도 불린다. 간단히 USB라고 부르는 경우도 있는데 USB는 [컴퓨터](../Page/컴퓨터.md "wikilink")와 주변기기를 연결하는 [인터페이스](https://ko.wikipedia.org/wiki/인터페이스 "wikilink")의 한 종류이지 이동형 저장장치의 종류가 아니므로, 엄밀히 말해 틀린 표현이다.
 
 크기가 일회용 라이터 정도에 불과해 휴대하기도 매우 간편하다. 또한 큰 용량의 파일을 가지고 다닐 때나 파일을 옮길 때 편리하며 보안용 암호장치도 있어 자료를 안전하게 보관할 수 있다. 특히 대한민국 환경에서는 [인터넷 뱅킹](https://ko.wikipedia.org/wiki/인터넷_뱅킹 "wikilink") 사용자가 회사나 PC방에서 거래할 때 필요한 [공인인증서](../Page/공인인증서.md "wikilink")를 안전하게 쓸 수 있어 정보의 외부유출 위험을 줄일 수 있다. 다만 공인인증서는 한 폴더만 복사하면 바로 인증서를 사용할 수 있기 때문에 각별한 주의가 요구된다.
 

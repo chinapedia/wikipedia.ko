@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  TV](https://ko.wikipedia.org/wiki/__TV).
+> This article is converted from Wikipedia: [시즈오카 제일 TV](https://ko.wikipedia.org/wiki/시즈오카_제일_TV).
 
 
 [200px](https://ko.wikipedia.org/wiki/파일:Daiichi_tv_logo.svg "wikilink") **시즈오카 제일 TV**는 [1979년](../Page/1979년.md "wikilink") [7월 1일](../Page/7월_1일.md "wikilink") [시즈오카현](../Page/시즈오카현.md "wikilink")의 4번째 민영방송국으로 개국했으며 약칭은 SDT, 콜사인은 JOSX-DTV이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ TV](https://ko.wikipedia.org/wiki/_TV).
+> This article is converted from Wikipedia: [선 TV](https://ko.wikipedia.org/wiki/선_TV).
 
 
 **선 텔레비전**은 [1969년](../Page/1969년.md "wikilink") [5월 1일에](../Page/5월_1일.md "wikilink") 개국한 [효고현](../Page/효고현.md "wikilink")의 독립 UHF방송국이다. 약칭은 **SUN**, 콜사인은 JOUH-DTV이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [GNU ](https://ko.wikipedia.org/wiki/GNU_).
+> This article is converted from Wikipedia: [GNU 프로젝트](https://ko.wikipedia.org/wiki/GNU_프로젝트).
 
 
 [오른쪽](https://ko.wikipedia.org/wiki/파일:Heckert_GNU_white.svg "wikilink") **GNU 프로젝트**(GNU project)는 [1983년](../Page/1983년.md "wikilink") [9월 27일](../Page/9월_27일.md "wikilink") [유즈넷](../Page/유즈넷.md "wikilink") net.unix-wizard 그룹을 통해 일반에 알려졌다. 스톨만은 첫 선언문에 이은 "GNU 선언문"을 비롯한 여러 글들을 통해서, "초기 전산 공동체에 지배적이었던, 협동 정신을 되돌리자"라고 주장했다. GNU 프로젝트는 누구나 자유롭게 "실행, 복사, 수정, 배포"할 수 있고, 누구도 그런 권리를 제한하면 안 된다는 사용 허가권(License) 아래 [소프트웨어](../Page/소프트웨어.md "wikilink")를 배포한다. [카피레프트](../Page/카피레프트.md "wikilink")로 불리는 이런 생각은 [GPL](https://ko.wikipedia.org/wiki/GPL "wikilink")(GNU 일반 공중 사용 허가서)에 나타나 있다.\[1\]

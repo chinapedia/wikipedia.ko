@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ ARJ21](https://ko.wikipedia.org/wiki/_ARJ21).
+> This article is converted from Wikipedia: [코맥 ARJ21](https://ko.wikipedia.org/wiki/코맥_ARJ21).
 
 
 [200px](https://ko.wikipedia.org/wiki/파일:COMAC_ARJ21_Gu.jpg "wikilink") **코멕 ARJ21**은 78\~95명의 정원을 탑승할 수 있는 [중국](../Page/중화인민공화국.md "wikilink") 최초의 제트 [여객기](../Page/여객기.md "wikilink")이다. 주요 고객은 대부분의 중국 항공사이며, [상하이 항공과](https://ko.wikipedia.org/wiki/상하이_항공 "wikilink") [심천 항공](https://ko.wikipedia.org/wiki/심천_항공 "wikilink"), [샤먼 항공](https://ko.wikipedia.org/wiki/샤먼_항공 "wikilink"), [곤붕 항공에](https://ko.wikipedia.org/wiki/곤붕_항공 "wikilink") 1차로 인도되었으며 2008년 11월 28일 첫 비행을 하였다.

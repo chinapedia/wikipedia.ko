@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [R. ](https://ko.wikipedia.org/wiki/R._).
+> This article is converted from Wikipedia: [R. 켈리](https://ko.wikipedia.org/wiki/R._켈리).
 
 
 **R. 켈리**(R. Kelly, 본명:Robert Sylvester Kelly, [1967년](../Page/1967년.md "wikilink") [1월 8일](../Page/1월_8일.md "wikilink") \~ )는 [미국](../Page/미국.md "wikilink")의 [싱어송라이터](https://ko.wikipedia.org/wiki/싱어송라이터 "wikilink")이자 [음악 프로듀서이다](../Page/음악_프로듀서.md "wikilink"). [리듬 앤 블루스를](https://ko.wikipedia.org/wiki/리듬_앤_블루스 "wikilink") 주 장르로 하고 있다. 또한 [힙합](../Page/힙합.md "wikilink"), [레게](../Page/레게.md "wikilink"), [소울을](https://ko.wikipedia.org/wiki/솔_음악 "wikilink") 기반으로 하고 있다. 대표곡으로는 〈I Believe I Can Fly〉, 〈[Bump 'N Grind](https://ko.wikipedia.org/wiki/12_Play#Bump_n.27_Grind "wikilink")〉, 〈I'm A Flirt〉,〈Been Around the World〉 등이 있다. [2008년](../Page/2008년.md "wikilink") '미국 빌보드 차트에서 가장 성공한 가수 50인'중 한명으로 뽑혔다.

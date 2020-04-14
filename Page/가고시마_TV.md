@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ TV](https://ko.wikipedia.org/wiki/_TV).
+> This article is converted from Wikipedia: [가고시마 TV](https://ko.wikipedia.org/wiki/가고시마_TV).
 
 
 **가고시마 TV**는 [1969년](../Page/1969년.md "wikilink") [4월 1일](../Page/4월_1일.md "wikilink") [가고시마현](../Page/가고시마현.md "wikilink")의 2번째 민영방송국으로 개국했다.

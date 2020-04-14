@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [ MOSFET](https://ko.wikipedia.org/wiki/_MOSFET).
+> This article is converted from Wikipedia: [전력 MOSFET](https://ko.wikipedia.org/wiki/전력_MOSFET).
 
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:D2PAK.JPG "wikilink") 패키지 D2PAK2의 두개의 전력 모스펫. 각각의 이 요소는 30 [볼트의](../Page/볼트_\(단위\).md "wikilink") 차단전압과 120 [암페어](../Page/암페어.md "wikilink")의 지속전류를 유지할 수 있다.\]\] **전력 모스펫** ()은 큰 전력을 처리하기위해 설계된 [금속 산화막 반도체 전계효과 트랜지스터](https://ko.wikipedia.org/wiki/금속_산화막_반도체_전계효과_트랜지스터 "wikilink") (MOSFET)의 특정 종류이다. 다른 [전력 반도체 소자](https://ko.wikipedia.org/wiki/전력_반도체_소자 "wikilink") ([절연 게이트 양극성 트랜지스터](../Page/절연_게이트_양극성_트랜지스터.md "wikilink") (IGBT), [사이리스터](../Page/사이리스터.md "wikilink")...)들에 비해 주요한 장점은 낮은 전압에서 통신 속도가 빠르고 효율이 좋다는 것이다. 이것은 절연 게이트 양극성 트랜지스터(IGBT)의 격리된 게이트와 공유되어 신호인가를 쉽게 한다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:D2PAK.JPG "wikilink") 패키지 D2PAK2의 두개의 전력 모스펫. 각각의 이 요소는 30 [볼트의](../Page/볼트_\(단위\).md "wikilink") 차단전압과 120 [암페어](../Page/암페어.md "wikilink")의 지속전류를 유지할 수 있다.\]\] **전력 모스펫**()은 큰 전력을 처리하기위해 설계된 [금속 산화막 반도체 전계효과 트랜지스터](https://ko.wikipedia.org/wiki/금속_산화막_반도체_전계효과_트랜지스터 "wikilink") (MOSFET)의 특정 종류이다. 다른 [전력 반도체 소자](https://ko.wikipedia.org/wiki/전력_반도체_소자 "wikilink") ([절연 게이트 양극성 트랜지스터](../Page/절연_게이트_양극성_트랜지스터.md "wikilink") (IGBT), [사이리스터](../Page/사이리스터.md "wikilink")...)들에 비해 주요한 장점은 낮은 전압에서 통신 속도가 빠르고 효율이 좋다는 것이다. 이것은 절연 게이트 양극성 트랜지스터(IGBT)의 격리된 게이트와 공유되어 신호인가를 쉽게 한다.
 
 이것은 [시모스](https://ko.wikipedia.org/wiki/시모스 "wikilink") 기술이 발전함에 따라 제조가 가능했으며 1970년대 후반에 [집적회로](https://ko.wikipedia.org/wiki/집적회로 "wikilink") 제조가 개발되었다. 전력 모스펫은 저전력 중 하나인 [측면 모스펫의](https://ko.wikipedia.org/wiki/금속_산화막_반도체_전계효과_트랜지스터 "wikilink") 동작법칙을 공유한다.
 
@@ -38,7 +38,7 @@
 
 ### 항복전압/온상태 저항간의 상보관계 (trade-off)
 
-[right](https://ko.wikipedia.org/wiki/파일:Bv_rdson.png "wikilink")
+[오른쪽](https://ko.wikipedia.org/wiki/파일:Bv_rdson.png "wikilink")
 
 차단상태일 때 전력 모스펫은 핀(PIN) 다이오드 (P <sup>+</sup> 확산층, N<sup>-</sup> [에피택시](https://ko.wikipedia.org/wiki/에피택시 "wikilink")층, N<sup>+</sup> 기판으로 구성됨)와 동등하다. 이런 비대칭형태의 구조에서 역바이어스가 인가될 때, 공간전하 영역은 약하게(lightly) 도핑된 면, 즉 N<sup>-</sup> 층에 더 길게 형성된다. 이것은 N<sup>-</sup> 층이 대부분의 모스펫의 차단상태 드레인-소스 전압을 견디는 것을 뜻한다.
 
@@ -145,7 +145,7 @@ C<sub>GDj</sub> (과 그러므로 C<sub>GD</sub>)처럼 보일 수 있는 이것
 
 #### 셀 구조
 
-[right](https://ko.wikipedia.org/wiki/파일:Power_mos_cell_layout.svg "wikilink") [right](https://ko.wikipedia.org/wiki/파일:Power_mos_strip_layout.svg "wikilink")
+[오른쪽](https://ko.wikipedia.org/wiki/파일:Power_mos_cell_layout.svg "wikilink") [오른쪽](https://ko.wikipedia.org/wiki/파일:Power_mos_strip_layout.svg "wikilink")
 
 위에서 말한 것처럼 전력 모스펫의 전류 전기용량은 채널폭에 의하여 제거된다. 채널폭은 아래에 보이는 교차영역의 세 번째 면적과 일치된다.
 
@@ -192,7 +192,7 @@ P기판 모스펫 (종종 피모스를 가리킴)은 반대로 도핑된 형태 
 
   - "전력 반도체 소자", B. 자욘트 발리거 (), PWS 출판사, [보스턴](../Page/보스턴.md "wikilink").
 
-[분류:트랜지스터](https://ko.wikipedia.org/wiki/분류:트랜지스터 "wikilink") [분류:고체 소자 스위치](https://ko.wikipedia.org/wiki/분류:고체_소자_스위치 "wikilink") [분류:전력 전자공학](https://ko.wikipedia.org/wiki/분류:전력_전자공학 "wikilink")
+[분류:트랜지스터](https://ko.wikipedia.org/wiki/분류:트랜지스터 "wikilink") [분류:고체 소자 스위치](https://ko.wikipedia.org/wiki/분류:고체_소자_스위치 "wikilink") [분류:전력 전자공학](https://ko.wikipedia.org/wiki/분류:전력_전자공학 "wikilink") [분류:MOSFET](https://ko.wikipedia.org/wiki/분류:MOSFET "wikilink")
 
 1.  S. M. Sze “현대 반도체 소자 물리학”, () 1998
 2.  피에르 알로이시 (), '' Interrupteurs électroniques de puissance, traite EGEM''에서 *Les transistors MOS de puissance*, 로버트 페리트 ()의 지도에서, 라브아지에 (, 파리, [프랑스](../Page/프랑스.md "wikilink") 2003년

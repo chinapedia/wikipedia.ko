@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KBS](https://ko.wikipedia.org/wiki/KBS).
+> This article is converted from Wikipedia: [KBS전주방송총국](https://ko.wikipedia.org/wiki/KBS전주방송총국).
 
 
 **KBS 전주방송총국**(KBS 全州放送總局)은 [전라북도](https://ko.wikipedia.org/wiki/전라북도 "wikilink") 지역을 대상으로 하는 [한국방송공사](../Page/한국방송공사.md "wikilink")의 지역 방송 총국이다. 사옥은 [전주시](https://ko.wikipedia.org/wiki/전주시 "wikilink") [완산구](../Page/완산구.md "wikilink") 효자동 서부 신 시가지에 위치하고 있다. 모악산 송신소를 주 송신소로 하여 여러 중계소를 통해 [지상파](https://ko.wikipedia.org/wiki/지상파 "wikilink") 신호를 송출하고 있다.
@@ -15,54 +15,54 @@
       - 호출부호 : HLKF-DTV
       - 가상채널 : 9-1
 
-| 송신소      | UHD   | HD    | 송신소 위치 |
-| -------- | ----- | ----- | ------ |
-| 물리채널     | 출력    | 물리채널  | 출력     |
-| 1TV      | 2TV   | 1TV   | 2TV    |
-| 모악산 송신소  | 준비중   | CH 27 | CH 44  |
-| 군산 중계소   | CH 14 | CH 16 | 10W    |
-| 미룡 소출력   | CH 27 | CH 44 | 0.05W  |
-| 미륵산 중계소  | CH 19 | CH 50 | 20W    |
-| 완주화산 소출력 | CH 27 | CH 44 | 0.05W  |
-| 경천 중계소   | CH 21 | CH 42 | 5W     |
-| 동상 중계소   | CH 29 | CH 30 | 10W    |
-| 소양 중계소   | CH 19 | CH 22 | 5W     |
-| 전주 중계소   | CH 29 | CH 30 | 20W    |
-| 변산 중계소   | CH 36 | CH 48 | 20W    |
-| 도청 중계소   | CH 29 | CH 30 | 20W    |
-| 정읍 중계소   | CH 23 | CH 25 | 20W    |
-| 내장 중계소   | CH 37 | CH 38 | 5W     |
-| 고부 소출력   | CH 27 | CH 44 | 0.05W  |
-| 고창신림 소출력 | CH 27 | CH 44 | 0.05W  |
-| 고창 중계소   | CH 37 | CH 38 | 20W    |
-| 무장 중계소   | CH 31 | CH 36 | 20W    |
-| 적상산 중계소  | CH 36 | CH 51 | 90W    |
-| 무주 중계소   | CH 23 | CH 34 | 20W    |
-| 삼공 중계소   | CH 23 | CH 25 | 10W    |
-| 설천 중계소   | CH 22 | CH 30 | 5W     |
-| 심곡 중계소   | CH 19 | CH 22 | 10W    |
-| 무풍 중계소   | CH 19 | CH 23 | 20W    |
-| 부남 중계소   | CH 31 | CH 28 | 5W     |
-| 용담 중계소   | CH 23 | CH 25 | 5W     |
-| 주천 중계소   | CH 19 | CH 20 | 5W     |
-| 안천 중계소   | CH 38 | CH 37 | 5W     |
-| 동향 중계소   | CH 14 | CH 15 | 5W     |
-| 진안 중계소   | CH 19 | CH 22 | 20W    |
-| 좌포 중계소   | CH 45 | CH 30 | 5W     |
-| 장수 중계소   | CH 26 | CH 34 | 20W    |
-| 계남 중계소   | CH 29 | CH 35 | 20W    |
-| 궁양 중계소   | CH 20 | CH 21 | 5W     |
-| 명덕 중계소   | CH 24 | CH 25 | 5W     |
-| 번암 중계소   | CH 37 | CH 32 | 5W     |
-| 임실 중계소   | CH 16 | CH 22 | 20W    |
-| 강진 중계소   | CH 29 | CH 35 | 5W     |
-| 노고단 중계소  | CH 31 | CH 36 | 1㎾     |
-| 교룡산 중계소  | CH 25 | CH 29 | 90W    |
-| 백일 중계소   | CH 27 | CH 33 | 5W     |
-| 인월 중계소   | CH 30 | CH 38 | 20W    |
-| 대강 중계소   | CH 24 | CH 30 | 5W     |
-| 순창 중계소   | CH 34 | CH 40 | 20W    |
-| 복흥 중계소   | CH 16 | CH 20 | 20W    |
+| 송신소      | UHD   | HD    | 송신소 위치 | KBS 수신 안내                   |
+| -------- | ----- | ----- | ------ | --------------------------- |
+| 물리채널     | 출력    | 물리채널  | 출력     |                             |
+| 1TV      | 2TV   | 1TV   | 2TV    |                             |
+| 모악산 송신소  | 준비중   | CH 27 | CH 44  | 2.5㎾                        |
+| 군산 중계소   | CH 14 | CH 16 | 10W    | 전북 군산시 해망동 산998-9           |
+| 미룡 소출력   | CH 27 | CH 44 | 0.05W  | 전북 군산시 미룡동 897-2            |
+| 미륵산 중계소  | CH 19 | CH 50 | 20W    | 전북 익산시 금마면 산북리 산69-1        |
+| 완주화산 소출력 | CH 27 | CH 44 | 0.05W  | 전북 완주군 화산면 화평리              |
+| 경천 중계소   | CH 21 | CH 42 | 5W     | 전북 완주군 경천면 경천리 217-2        |
+| 동상 중계소   | CH 29 | CH 30 | 10W    | 전북 완주군 동상면 사봉리 산58          |
+| 소양 중계소   | CH 19 | CH 22 | 5W     | 전북 완주군 소양면 대흥리 산10          |
+| 전주 중계소   | CH 29 | CH 30 | 20W    | 전북 전주시 덕진구 우아동1가 산299       |
+| 변산 중계소   | CH 36 | CH 48 | 20W    | 전북 부안군 변산면 운산리 산48          |
+| 도청 중계소   | CH 29 | CH 30 | 20W    | 전북 부안군 변산면 도청리 산115         |
+| 정읍 중계소   | CH 23 | CH 25 | 20W    | 전북 정읍시 교암동 산58-1            |
+| 내장 중계소   | CH 37 | CH 38 | 5W     | 전북 정읍시 내장동 산231             |
+| 고부 소출력   | CH 27 | CH 44 | 0.05W  | 전북 정읍시 고부면 고부리              |
+| 고창신림 소출력 | CH 27 | CH 44 | 0.05W  | 전북 고창군 신림면 무림리              |
+| 고창 중계소   | CH 37 | CH 38 | 20W    | 전북 고창군 고창읍 교촌리 산5           |
+| 무장 중계소   | CH 31 | CH 36 | 20W    | 전북 고창군 공음면 두암리 산120-2 (송림산) |
+| 적상산 중계소  | CH 36 | CH 51 | 90W    | 전북 무주군 적상면 괴목리 산184         |
+| 무주 중계소   | CH 23 | CH 34 | 20W    | 전북 무주군 무주읍 가옥리 산21          |
+| 삼공 중계소   | CH 23 | CH 25 | 10W    | 전북 무주군 설천면 삼공리 산78-9        |
+| 설천 중계소   | CH 22 | CH 30 | 5W     | 전북 무주군 설천면 소천리 680-1        |
+| 심곡 중계소   | CH 19 | CH 22 | 10W    | 전북 무주군 설천면 심곡리 575-1        |
+| 무풍 중계소   | CH 19 | CH 23 | 20W    | 전북 무주군 무풍면 현내리 산26          |
+| 부남 중계소   | CH 31 | CH 28 | 5W     | 전북 무주군 부남면 대소리 601-1        |
+| 용담 중계소   | CH 23 | CH 25 | 5W     | 전북 진안군 용담면 송풍리 1058-3       |
+| 주천 중계소   | CH 19 | CH 20 | 5W     | 전북 진안군 주천면 신양리 산67          |
+| 안천 중계소   | CH 38 | CH 37 | 5W     | 전북 진안군 안천면 노성리 산133         |
+| 동향 중계소   | CH 14 | CH 15 | 5W     | 전북 진안군 동향면 대량리 산33-2        |
+| 진안 중계소   | CH 19 | CH 22 | 20W    | 전북 진안군 진안읍 군하리 산44-1        |
+| 좌포 중계소   | CH 45 | CH 30 | 5W     | 전북 진안군 성수면 좌포리 산163-1       |
+| 장수 중계소   | CH 26 | CH 34 | 20W    | 전북 장수군 장수읍 대성리 산258-4 (팔공산) |
+| 계남 중계소   | CH 29 | CH 35 | 20W    | 전북 장수군 계남면 신전리 산83          |
+| 궁양 중계소   | CH 20 | CH 21 | 5W     | 전북 장수군 계남면 가곡리 산59          |
+| 명덕 중계소   | CH 24 | CH 25 | 5W     | 전북 장수군 장계면 명덕리 산179-1       |
+| 번암 중계소   | CH 37 | CH 32 | 5W     | 전북 장수군 번암면 노단리 1093-3       |
+| 임실 중계소   | CH 16 | CH 22 | 20W    | 전북 임실군 임실읍 갈마리 산8-2         |
+| 강진 중계소   | CH 29 | CH 35 | 5W     | 전북 임실군 강진면 갈담리 산42-2        |
+| 노고단 중계소  | CH 31 | CH 36 | 1㎾     | 전남 구례군 산동면 좌사리 산110-2       |
+| 교룡산 중계소  | CH 25 | CH 29 | 90W    | 전북 남원시 산곡동 산25-9            |
+| 백일 중계소   | CH 27 | CH 33 | 5W     | 전북 남원시 산내면 대정리 산107         |
+| 인월 중계소   | CH 30 | CH 38 | 20W    | 전북 남원시 인월면 취암리 34-2         |
+| 대강 중계소   | CH 24 | CH 30 | 5W     | 전북 남원시 대강면 평교리 116          |
+| 순창 중계소   | CH 34 | CH 40 | 20W    | 전북 순창군 순창읍 가남리 산9           |
+| 복흥 중계소   | CH 16 | CH 20 | 20W    | 전북 순창군 복흥면 정산리 648-2        |
 
   - 아날로그TV
 
@@ -164,7 +164,7 @@ PC,모바일 MY K로 실시간 시청 가능
 <td><p><a href="../Page/KBS_뉴스광장.md" title="wikilink">KBS 뉴스광장 전북</a></p></td>
 <td><p>15분</p></td>
 <td><p>월요일 ~ 금요일 오전 7시 35분 ~ 7시 45분</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/함윤호" title="wikilink">함윤호</a>,<a href="https://ko.wikipedia.org/wiki/김태은" title="wikilink">김태은</a>(평일)</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/함윤호" title="wikilink">함윤호</a>,<a href="https://ko.wikipedia.org/wiki/봉효정" title="wikilink">봉효정</a>(평일)</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/KBS_뉴스_(930)" title="wikilink">KBS 뉴스 (930) 전북</a></p></td>
@@ -173,16 +173,16 @@ PC,모바일 MY K로 실시간 시청 가능
 <td><p><a href="https://ko.wikipedia.org/wiki/김형철" title="wikilink">김형철</a></p></td>
 </tr>
 <tr class="odd">
+<td><p><a href="https://ko.wikipedia.org/wiki/KBS_뉴스_7_전북" title="wikilink">KBS 뉴스 7 전북</a></p></td>
+<td><p>40분</p></td>
+<td><p>월~금 저녁 7시 ~ 7시 40분</p></td>
+<td><p>봉효정, 이광엽</p></td>
+</tr>
+<tr class="even">
 <td><p><a href="../Page/KBS_뉴스_7.md" title="wikilink">KBS 뉴스 7 전북</a></p></td>
 <td><p>5분</p></td>
 <td><p>금 저녁 7시 20분 ~ 7시 25분</p></td>
 <td><p>봉효정</p></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/KBS_뉴스_7_전북" title="wikilink">KBS 뉴스 7 전북</a></p></td>
-<td><p>40분</p></td>
-<td><p>월~목 저녁 7시 ~ 7시 40분</p></td>
-<td><p>봉효정, 이광엽</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/KBS_뉴스_9.md" title="wikilink">KBS 뉴스 9 전북권</a></p></td>
@@ -190,7 +190,7 @@ PC,모바일 MY K로 실시간 시청 가능
 주말 10분</p></td>
 <td><p>평일 밤 9시 30분 ~ 9시 45분<br />
 주말 밤 9시 20분 ~ 9시 30분</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/이지현" title="wikilink">이지현</a>, <a href="https://ko.wikipedia.org/wiki/봉효정" title="wikilink">봉효정</a>(평일)<br />
+<td><p><a href="../Page/조경모.md" title="wikilink">조경모</a>, <a href="https://ko.wikipedia.org/wiki/봉효정" title="wikilink">봉효정</a>(평일)<br />
 무작위(주말)</p></td>
 </tr>
 </tbody>
@@ -306,6 +306,8 @@ PC,모바일 MY K로 실시간 시청 가능
   - [박웅](../Page/박웅.md "wikilink")
   - [진유민](https://ko.wikipedia.org/wiki/진유민 "wikilink")
   - [안승길](https://ko.wikipedia.org/wiki/안승길 "wikilink")
+  - [서윤덕](https://ko.wikipedia.org/wiki/서윤덕 "wikilink")
+  - [오정현](../Page/오정현.md "wikilink")
 
 <!-- end list -->
 

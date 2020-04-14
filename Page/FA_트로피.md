@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FA ](https://ko.wikipedia.org/wiki/FA_).
+> This article is converted from Wikipedia: [FA 트로피](https://ko.wikipedia.org/wiki/FA_트로피).
 
 
 **FA 트로피**(Football Association Challenge Trophy)는 [잉글랜드](../Page/잉글랜드.md "wikilink")의 축구 대회로 5부\~8부의 클럽들이 참가하는 컵대회이다. 5\~8부 리그는 [내셔널리그와](../Page/내셔널리그_\(잉글랜드\).md "wikilink") 그 하부리그인 [노던 프리미어리그](../Page/노던_프리미어리그.md "wikilink"), [서던 풋볼리그](https://ko.wikipedia.org/wiki/서던_풋볼리그 "wikilink"), [이스미언 리그이다](../Page/이스미언_리그.md "wikilink"). 이보다 더 하부리그 팀들은 [FA 베이스에](https://ko.wikipedia.org/wiki/FA_베이스 "wikilink") 참가한다.

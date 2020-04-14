@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [BS](https://ko.wikipedia.org/wiki/BS).
+> This article is converted from Wikipedia: [닛폰BS방송](https://ko.wikipedia.org/wiki/닛폰BS방송).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:BS11_logo.svg "wikilink") **닛폰BS방송 주식회사**()는 일본의 위탁 방송사업자이며 주식회사 빅 카메라의 연결 자회사이다.

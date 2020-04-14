@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [-E](https://ko.wikipedia.org/wiki/-E).
+> This article is converted from Wikipedia: [월-E](https://ko.wikipedia.org/wiki/월-E).
 
 
 《**월-E**》()는 [2008년](../Page/2008년.md "wikilink") [픽사](../Page/픽사.md "wikilink")가 제작한 컴퓨터 그래픽 SF [애니메이션](../Page/애니메이션.md "wikilink") 영화이다. 이 애니메이션은 미래의 두 [로봇](../Page/로봇.md "wikilink")의 로맨스를 다루고 있으며, 제일 먼저 [미국](../Page/미국.md "wikilink")과 [캐나다](../Page/캐나다.md "wikilink")에서 [2008년](../Page/2008년.md "wikilink") [6월 27일에](../Page/6월_27일.md "wikilink") 개봉되었다. [대한민국](../Page/대한민국.md "wikilink")에서는 [2008년](../Page/2008년.md "wikilink") [7월 31일에](../Page/7월_31일.md "wikilink") 개봉될 예정이었다가 《[미이라 3](https://ko.wikipedia.org/wiki/미이라_3 "wikilink")》가 [7월 24일에서](../Page/7월_24일.md "wikilink") [7월 31일로](../Page/7월_31일.md "wikilink") 개봉이 연기되면서 [8월 6일로](../Page/8월_6일.md "wikilink") 연기되어 개봉했다. 필름자막, 필름더빙, 디지털자막, 디지털더빙 총 네 종류로 상영되었다.

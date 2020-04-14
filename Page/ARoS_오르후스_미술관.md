@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ARoS  ](https://ko.wikipedia.org/wiki/ARoS__).
+> This article is converted from Wikipedia: [ARoS 오르후스 미술관](https://ko.wikipedia.org/wiki/ARoS_오르후스_미술관).
 
 
 [thumb](https://ko.wikipedia.org/wiki/파일:Aros.jpg "wikilink")

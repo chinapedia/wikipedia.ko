@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [NTT ](https://ko.wikipedia.org/wiki/NTT_).
+> This article is converted from Wikipedia: [NTT 그룹](https://ko.wikipedia.org/wiki/NTT_그룹).
 
 
 **NTT 그룹**()은 지주회사인 [일본전신전화](../Page/일본전신전화.md "wikilink") 주식회사를 중심으로 하는 [일본](../Page/일본.md "wikilink")의 기업 집단 또는 그 전화 사업체 그룹을 가리킨다.

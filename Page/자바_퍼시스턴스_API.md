@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  API](https://ko.wikipedia.org/wiki/__API).
+> This article is converted from Wikipedia: [자바 퍼시스턴스 API](https://ko.wikipedia.org/wiki/자바_퍼시스턴스_API).
 
 
 **자바 퍼시스턴스 API**또는 **자바 [지속성](../Page/지속성.md "wikilink") API**(Java Persistence API, **JPA**) 는 [자바 플랫폼 SE와](../Page/자바_플랫폼,_스탠더드_에디션.md "wikilink") [자바 플랫폼 EE를](../Page/자바_플랫폼,_엔터프라이즈_에디션.md "wikilink") 사용하는 응용프로그램에서 관계형 [데이터베이스](../Page/데이터베이스.md "wikilink")의 관리를 표현하는 자바 [API](../Page/API.md "wikilink")이다.

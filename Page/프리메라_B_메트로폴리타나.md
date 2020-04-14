@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [ B ](https://ko.wikipedia.org/wiki/_B_).
+> This article is converted from Wikipedia: [프리메라 B 메트로폴리타나](https://ko.wikipedia.org/wiki/프리메라_B_메트로폴리타나).
 
 
-**프리메라 B 메트로폴리타나** (, 또는 **프리메라 B** )는 [아르헨티나](../Page/아르헨티나.md "wikilink") [축구](../Page/축구.md "wikilink")의 3부 [리그이다](https://ko.wikipedia.org/wiki/리그_\(스포츠\) "wikilink"). [아르헨티나 축구협회](https://ko.wikipedia.org/wiki/아르헨티나_축구협회 "wikilink")(AFA)에 직접 가맹된 [수도권의](https://ko.wikipedia.org/wiki/그란_부에노스아이레스 "wikilink") 21개의 팀이 참여하고 있다.
+**프리메라 B 메트로폴리타나**(, 또는 **프리메라 B** )는 [아르헨티나](../Page/아르헨티나.md "wikilink") [축구](../Page/축구.md "wikilink")의 3부 [리그이다](https://ko.wikipedia.org/wiki/리그_\(스포츠\) "wikilink"). [아르헨티나 축구협회](https://ko.wikipedia.org/wiki/아르헨티나_축구협회 "wikilink")(AFA)에 직접 가맹된 [수도권의](https://ko.wikipedia.org/wiki/그란_부에노스아이레스 "wikilink") 21개의 팀이 참여하고 있다.
 
 ## 역사
 

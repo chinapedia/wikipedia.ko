@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [G ](https://ko.wikipedia.org/wiki/G_).
+> This article is converted from Wikipedia: [G형 주계열성](https://ko.wikipedia.org/wiki/G형_주계열성).
 
 
 [천문학](https://ko.wikipedia.org/wiki/천문학 "wikilink")에서 G V는 [항성](https://ko.wikipedia.org/wiki/항성 "wikilink")이 [분광형](https://ko.wikipedia.org/wiki/분광형 "wikilink")상 G임과 함께, [주계열](../Page/주계열.md "wikilink") 상태라는 뜻의 V 상태에 있음을 의미하는 용어이다. 다른 말로 **황색왜성**(黃色矮星, yellow dwarf)이라고 부르기도 한다. [질량](https://ko.wikipedia.org/wiki/질량 "wikilink")은 [태양](../Page/태양.md "wikilink")의 0.8\~1.03배, [표면 온도는](https://ko.wikipedia.org/wiki/표면_온도 "wikilink") 5,300\~6,000[K에](../Page/켈빈.md "wikilink") 이른다\[1\].

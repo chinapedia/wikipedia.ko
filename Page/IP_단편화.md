@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [IP ](https://ko.wikipedia.org/wiki/IP_).
+> This article is converted from Wikipedia: [IP 단편화](https://ko.wikipedia.org/wiki/IP_단편화).
 
 
 [IP는](../Page/인터넷_프로토콜.md "wikilink") **IP 단편화**를 통해 데이터그램의 크기를 MTU이하로 작게 만들어 전송할 수 있도록 한다. RFC 791은 IP 단편화, 데이터그램의 전송, 재조립을 위한 프로시져를 기술한다. RFC 815는 호스트에서 쉽게 구현할 수 있는 간단한 재조립 알고리즘을 기술한다. Identification 필드와 Fragment offset 필드는 Don't Fragment 플래그, More Fragment 플래그와 함께 IP 데이터그램의 단편화와 재조립을 위해 사용된다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ CF](https://ko.wikipedia.org/wiki/_CF).
+> This article is converted from Wikipedia: [비야레알 CF](https://ko.wikipedia.org/wiki/비야레알_CF).
 
 
 **비야레알 클루브 데 푸트볼, S.A.D.**(), 보통 줄여서 **비야레알 CF** 또는 **비야레알**은 [발렌시아 지방](https://ko.wikipedia.org/wiki/발렌시아_지방 "wikilink") [카스테욘 주](https://ko.wikipedia.org/wiki/카스테욘_주 "wikilink") [비야레알](https://ko.wikipedia.org/wiki/비야레알 "wikilink")을 연고로 하는 스페인의 축구팀이다. 1923년에 설립되었으며 현재 [프리메라리가](https://ko.wikipedia.org/wiki/프리메라리가 "wikilink")에 참가하고 있다. 홈 구장은 24,890명을 수용할 수 있는 [에스타디오 데 라 세라미카이다](https://ko.wikipedia.org/wiki/에스타디오_데_라_세라미카 "wikilink").

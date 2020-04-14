@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [GM G2X](https://ko.wikipedia.org/wiki/GM_G2X).
+> This article is converted from Wikipedia: [GM대우 G2X](https://ko.wikipedia.org/wiki/GM대우_G2X).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:20110528_daewoo_g2x_01.jpg "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:20110528_daewoo_g2x_02.jpg "wikilink")

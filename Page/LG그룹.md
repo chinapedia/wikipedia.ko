@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [LG](https://ko.wikipedia.org/wiki/LG).
+> This article is converted from Wikipedia: [LG그룹](https://ko.wikipedia.org/wiki/LG그룹).
 
 
 **LG그룹**은 대한민국의 [대규모 기업집단이다](https://ko.wikipedia.org/wiki/대규모_기업집단 "wikilink").
@@ -56,7 +56,7 @@
   - [1981년](../Page/1981년.md "wikilink") 호남정유(현 [GS칼텍스](../Page/GS칼텍스.md "wikilink")), 제1원유부두를 준공.
   - [1981년](../Page/1981년.md "wikilink") 서울 여의도 신사옥 <트윈타워> 기공식
   - [1982년](../Page/1982년.md "wikilink") 금성사(현 LG전자), 국내 최초로 8시간용 VCR 개발.
-  - [1982년](../Page/1982년.md "wikilink") 금성투자금융(현 [KEB하나은행](https://ko.wikipedia.org/wiki/KEB하나은행 "wikilink")) 설립.
+  - [1982년](../Page/1982년.md "wikilink") 금성투자금융(현 [하나은행](../Page/하나은행.md "wikilink")) 설립.
   - [1983년](../Page/1983년.md "wikilink") 그룹 명칭을 럭키금성그룹으로 변경.
   - [1983년](../Page/1983년.md "wikilink") 럭키(현 [LG화학](../Page/LG화학.md "wikilink")), 대한민국 최초로 엔지니어링 플라스틱 개발.
   - [1983년](../Page/1983년.md "wikilink") [금성사](../Page/금성사.md "wikilink")(현 LG전자), 메트릭스 프린터를 개발.
@@ -268,19 +268,19 @@ LG그룹은 1997년 계열사 간 상호의존적 결합 방식을 버리고 법
 
 ## 과거 계열사
 
-  - [GS홀딩스](../Page/GS그룹.md "wikilink")
-  - [LG칼텍스정유](../Page/GS칼텍스.md "wikilink") (현 GS칼텍스)
-  - [LG건설](../Page/GS건설.md "wikilink")
-  - [LG홈쇼핑](../Page/GS_SHOP.md "wikilink")
-  - [LG파워](../Page/GS파워.md "wikilink")
-  - [LG에너지](https://ko.wikipedia.org/wiki/GS_EPS "wikilink") (현 GS EPS)
+  - [GS홀딩스](https://ko.wikipedia.org/wiki/GS홀딩스 "wikilink")
+  - LG칼텍스정유 (현 [GS칼텍스](../Page/GS칼텍스.md "wikilink"))
+  - LG건설 (현 [GS건설](../Page/GS건설.md "wikilink"))
+  - LG홈쇼핑 (현 [GS SHOP](../Page/GS_SHOP.md "wikilink"))
+  - LG파워 (현 [GS파워](../Page/GS파워.md "wikilink"))
+  - LG에너지 (현 [GS EPS](https://ko.wikipedia.org/wiki/GS_EPS "wikilink"))
   - [아워홈](../Page/아워홈.md "wikilink")
   - [LG패션](https://ko.wikipedia.org/wiki/LG패션 "wikilink")
   - LG반도체 (현 [SK하이닉스](../Page/SK하이닉스.md "wikilink"))
   - [LG카드](https://ko.wikipedia.org/wiki/LG카드 "wikilink") (현 [신한카드](../Page/신한카드.md "wikilink"))
   - [서브원](https://ko.wikipedia.org/wiki/서브원 "wikilink")
-  - [LG투자증권](../Page/NH투자증권.md "wikilink") (현 NH투자증권)
-  - [LG화재](../Page/KB손해보험.md "wikilink")
+  - LG투자증권 (현 [NH투자증권](../Page/NH투자증권.md "wikilink"))
+  - LG화재 (현 [KB손해보험](../Page/KB손해보험.md "wikilink"))
   - LG실트론 (현 [SK실트론](../Page/SK실트론.md "wikilink"))
 
 ## CI

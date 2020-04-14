@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [   B](https://ko.wikipedia.org/wiki/___B).
+> This article is converted from Wikipedia: [캄페오나투 브라질레이루 세리이 B](https://ko.wikipedia.org/wiki/캄페오나투_브라질레이루_세리이_B).
 
 
-**캄페오나투 브라질레이루 세리이 B** ()는 [브라질](../Page/브라질.md "wikilink") [축구](../Page/축구.md "wikilink")의 전국 2부 리그이다. [브라질 축구협회에서](https://ko.wikipedia.org/wiki/브라질_축구협회 "wikilink") 주관하며 [2006년](../Page/2006년.md "wikilink") 현재 20개의 팀으로 구성되어 있다. 하지만, 경기 방식과 팀 수는 [1971년](../Page/1971년.md "wikilink") 리그가 시작된 후 매년 바뀌어왔다.
+**캄페오나투 브라질레이루 세리이 B**()는 [브라질](../Page/브라질.md "wikilink") [축구](../Page/축구.md "wikilink")의 전국 2부 리그이다. [브라질 축구협회에서](https://ko.wikipedia.org/wiki/브라질_축구협회 "wikilink") 주관하며 [2006년](../Page/2006년.md "wikilink") 현재 20개의 팀으로 구성되어 있다. 하지만, 경기 방식과 팀 수는 [1971년](../Page/1971년.md "wikilink") 리그가 시작된 후 매년 바뀌어왔다.
 
 출범 당시에는 1부 리그와 2부 리그 팀의 구분이 제대로 이루어지지 않았고, 승강제 역시 시도할 수 없었다. 게다가 [1973년](../Page/1973년.md "wikilink")부터 [1979년](../Page/1979년.md "wikilink")까지는 실질적인 세리이 B 경기가 열리지 않았다. 대부분의 팀이 1부 리그에 초청되어 경기를 치렀고, [1979년](../Page/1979년.md "wikilink")엔 무려 94개 팀이 1부 리그 대회에 참가했다. [1980년](../Page/1980년.md "wikilink") 세리이 A 팀의 수를 40개로 줄이면서 나머지 팀들은 세리이 B 경기에 참가하게 되었지만, 세리이 A부터 세리이 C까지 승강제가 제대로 이루어지기 시작한 것은 [1985년](../Page/1985년.md "wikilink") 시즌 이후부터이다.
 

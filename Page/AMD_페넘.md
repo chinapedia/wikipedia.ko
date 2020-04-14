@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [AMD ](https://ko.wikipedia.org/wiki/AMD_).
+> This article is converted from Wikipedia: [AMD 페넘](https://ko.wikipedia.org/wiki/AMD_페넘).
 
 
 **페넘**()은 [미국](../Page/미국.md "wikilink") [AMD](https://ko.wikipedia.org/wiki/AMD "wikilink")사가 제조한 쿼드 코어/트리플 코어 데스크톱 중앙처리장치이다. 기존과 달리 [K10 마이크로아키텍처로](../Page/AMD_K10.md "wikilink") 설계되었다.

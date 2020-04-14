@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [MP4 ](https://ko.wikipedia.org/wiki/MP4_).
+> This article is converted from Wikipedia: [MP4 플레이어](https://ko.wikipedia.org/wiki/MP4_플레이어).
 
 
 [thumb](https://ko.wikipedia.org/wiki/파일:Jukeboxrecorder2b.jpg "wikilink") **MP4 플레이어**로 알려진 대부분의 [포터블 미디어 플레이어는](../Page/포터블_미디어_플레이어.md "wikilink"), [MP4](https://ko.wikipedia.org/wiki/MP4 "wikilink") 비디오 포맷을 지원하는 것처럼 가장한 제품이다. 그러나 실제로 이들은 MP4 포맷을 재생할 수 없으며, AMV, ATV ([홍콩](../Page/홍콩.md "wikilink")의 [텔레비전 네트워크와](https://ko.wikipedia.org/wiki/텔레비전_네트워크 "wikilink") 관계 없음), SMV (시그마텔 비디오, 시그마텔 기술 기반의 플레이어에 사용됨)처럼 저등급 특정 포맷만 재생이 가능하다. 참고로 일부 업체에 의해 MP3 플레이어(오디오) + 비디오 = MP4 플레이어 라는 식의 개념처럼 특정 기능이 추가되면 MP5, MP6와 같은 이른바 MPx (x는 자연수) 광고를 하고 있다.\[1\]

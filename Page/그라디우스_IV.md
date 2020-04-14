@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ IV](https://ko.wikipedia.org/wiki/_IV).
+> This article is converted from Wikipedia: [그라디우스 IV](https://ko.wikipedia.org/wiki/그라디우스_IV).
 
 
 《**그라디우스 IV**》(Gradius IV)는 일본 [코나미](../Page/코나미.md "wikilink")사의 [횡스크롤 슈팅 게임으로](https://ko.wikipedia.org/wiki/횡스크롤_슈팅_게임 "wikilink"), [1999년](../Page/1999년.md "wikilink")에 [그라디우스 II의](https://ko.wikipedia.org/wiki/그라디우스_II "wikilink") 외전 형식으로 제작되었다. 부제는 ‘부활’이다.

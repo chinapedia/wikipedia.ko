@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [D.C. ](https://ko.wikipedia.org/wiki/D.C._).
+> This article is converted from Wikipedia: [D.C. 다카포](https://ko.wikipedia.org/wiki/D.C._다카포).
 
 
 **D.C. 다카포**()는 [서커스사의](../Page/서커스_\(기업\).md "wikilink") [미소녀 게임](../Page/미소녀_게임.md "wikilink") 및 이를 기반으로 제작된 [애니메이션](../Page/애니메이션.md "wikilink")이다.

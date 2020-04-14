@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FC  ](https://ko.wikipedia.org/wiki/FC__).
+> This article is converted from Wikipedia: [FC 셰리프 티라스폴](https://ko.wikipedia.org/wiki/FC_셰리프_티라스폴).
 
 
 **FC 셰리프 티라스폴**()은 [몰도바](../Page/몰도바.md "wikilink")의 [축구팀](https://ko.wikipedia.org/wiki/축구팀 "wikilink")으로, 몰도바 동부의 [트란스니스트리아](../Page/트란스니스트리아.md "wikilink") [티라스폴](../Page/티라스폴.md "wikilink")을 연고로 하고 있다. 이 팀은 종종 **FC 셰리프**로 간단히 줄여 부르기도 하는데 [FC 티라스폴과는](../Page/FC_티라스폴.md "wikilink") 다른 팀이다.

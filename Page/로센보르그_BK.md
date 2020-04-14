@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ BK](https://ko.wikipedia.org/wiki/_BK).
+> This article is converted from Wikipedia: [로센보르그 BK](https://ko.wikipedia.org/wiki/로센보르그_BK).
 
 
 **로센보르그 BK**(Rosenborg Ballklub)는 [트론헤임](../Page/트론헤임.md "wikilink")을 연고로 하는 [노르웨이](../Page/노르웨이.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다. 이 축구단은 [1917년](../Page/1917년.md "wikilink") 창단되었다. 현재 [티펠리겐](https://ko.wikipedia.org/wiki/티펠리겐 "wikilink")에 속해 있으며 2006-07 시즌은 1위로 마감하였다.

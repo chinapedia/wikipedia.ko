@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [JYP ](https://ko.wikipedia.org/wiki/JYP_).
+> This article is converted from Wikipedia: [JYP 엔터테인먼트](https://ko.wikipedia.org/wiki/JYP_엔터테인먼트).
 
 
 **JYP 엔터테인먼트**()는 [대한민국](../Page/대한민국.md "wikilink")의 종합 엔터테인먼트 회사이다.\[1\] 회사 이름은 창립자인 [박진영](../Page/박진영.md "wikilink")의 영문 이름 이니셜을 따 지어졌다. 본사는 [서울특별시](../Page/서울특별시.md "wikilink") [강동구](../Page/강동구.md "wikilink") 강동대로 205 (성내동) 에 있으며 대표적인 출신 [연예인](https://ko.wikipedia.org/wiki/연예인 "wikilink")으로 [2PM](https://ko.wikipedia.org/wiki/2PM "wikilink"), [페이](../Page/페이_\(가수\).md "wikilink"), [GOT7](https://ko.wikipedia.org/wiki/GOT7 "wikilink"), [낙준](../Page/낙준.md "wikilink"), [데이식스](https://ko.wikipedia.org/wiki/데이식스 "wikilink"), [트와이스](https://ko.wikipedia.org/wiki/트와이스 "wikilink"), [스트레이 키즈](../Page/스트레이_키즈.md "wikilink"), [ITZY](../Page/ITZY.md "wikilink") 등이 있다. 연예인 신인 발굴, 연예인 매니지먼트, 음반 기획 및 제작 분야에 진출해 있다.
@@ -38,7 +38,7 @@ JYP Publishing문서에 대한 출처:<http://www.jyppub.com/about>
 | [박진영](../Page/박진영.md "wikilink")                        | 가수, 프로듀서                                                                                                                                                                                                                                                                                                                                                                     | \-                                                                                                                                                                                                            | \-                                                                            | [1994년](../Page/1994년.md "wikilink") [11월](https://ko.wikipedia.org/wiki/1994년_11월 "wikilink") | \-                               | \- |
 | [2PM](https://ko.wikipedia.org/wiki/2PM "wikilink")     | 가수                                                                                                                                                                                                                                                                                                                                                                           | [Jun. K](../Page/Jun._K.md "wikilink"), [닉쿤](../Page/닉쿤.md "wikilink"), [택연](../Page/택연.md "wikilink"), [우영](../Page/우영.md "wikilink"), [준호](../Page/준호.md "wikilink"), [찬성](../Page/찬성_\(가수\).md "wikilink") | \-                                                                            | [2008년](../Page/2008년.md "wikilink") [9월 4일](../Page/9월_4일.md "wikilink")                      | [박재범](../Page/박재범.md "wikilink") | \- |
 | [페이](../Page/페이_\(가수\).md "wikilink")                   | \-                                                                                                                                                                                                                                                                                                                                                                           |                                                                                                                                                                                                               | [2010년](../Page/2010년.md "wikilink") [7월 1일](../Page/7월_1일.md "wikilink")     | \-                                                                                             | \-                               |    |
-| [GOT7](https://ko.wikipedia.org/wiki/GOT7 "wikilink")   | [마크](../Page/마크_\(1993년\).md "wikilink")&[유겸](../Page/유겸.md "wikilink")&[JB](../Page/JB_\(가수\).md "wikilink"), [영재](../Page/영재_\(1996년\).md "wikilink")&[진영](../Page/진영_\(1994년\).md "wikilink")&[잭슨](../Page/잭슨_\(가수\).md "wikilink")&[뱀뱀](../Page/뱀뱀.md "wikilink")                                                                                                        | [JB](../Page/JB_\(가수\).md "wikilink")                                                                                                                                                                         | [2014년](../Page/2014년.md "wikilink") [1월 16일](../Page/1월_16일.md "wikilink")   | \-                                                                                             | \-                               |    |
+| [GOT7](https://ko.wikipedia.org/wiki/GOT7 "wikilink")   | [영재](../Page/영재_\(1996년\).md "wikilink")&[잭슨](../Page/잭슨_\(가수\).md "wikilink")&[뱀뱀](../Page/뱀뱀.md "wikilink")&[JB](../Page/JB_\(가수\).md "wikilink")&[유겸](../Page/유겸.md "wikilink")&[마크](../Page/마크_\(1993년\).md "wikilink")&[진영](../Page/진영_\(1994년\).md "wikilink")                                                                                                         | [JB](../Page/JB_\(가수\).md "wikilink")                                                                                                                                                                         | [2014년](../Page/2014년.md "wikilink") [1월 16일](../Page/1월_16일.md "wikilink")   | \-                                                                                             | \-                               |    |
 | [낙준](../Page/낙준.md "wikilink")                          | \-                                                                                                                                                                                                                                                                                                                                                                           |                                                                                                                                                                                                               | [2014년](../Page/2014년.md "wikilink") 10월 13일                                  | \-                                                                                             | \-                               |    |
 | [릴리 M.](https://ko.wikipedia.org/wiki/릴리_M. "wikilink") | \-                                                                                                                                                                                                                                                                                                                                                                           |                                                                                                                                                                                                               | \-                                                                            | \-                                                                                             | \-                               |    |
 | [DAY6](../Page/DAY6.md "wikilink")                      | [성진](../Page/성진_\(가수\).md "wikilink"), [Jae](../Page/Jae.md "wikilink"), [Young K](../Page/Young_K.md "wikilink"), [원필](../Page/원필.md "wikilink"), [도운](https://ko.wikipedia.org/wiki/도운_\(가수\) "wikilink")                                                                                                                                                                  | [성진](../Page/성진_\(가수\).md "wikilink")                                                                                                                                                                         | [2015년](../Page/2015년.md "wikilink") [9월 7일](../Page/9월_7일.md "wikilink")     | [준혁](https://ko.wikipedia.org/wiki/준혁 "wikilink")                                              | \-                               |    |
@@ -58,7 +58,7 @@ JYP Publishing문서에 대한 출처:<http://www.jyppub.com/about>
 
 <!-- end list -->
 
-  - [진주](../Page/진주_\(가수\).md "wikilink"): 박진영이 최초로 발굴한 JYP 1호 가수
+  - [진주](../Page/진주.md "wikilink") : 박진영이 최초로 발굴한 JYP 1호 가수
   - [god](https://ko.wikipedia.org/wiki/god_\(음악_그룹\) "wikilink")
       - [김태우](https://ko.wikipedia.org/wiki/김태우_\(가수\) "wikilink"), [데니 안](../Page/데니_안.md "wikilink"), [박준형](../Page/박준형_\(가수\).md "wikilink"), [손호영](../Page/손호영.md "wikilink"), [윤계상](../Page/윤계상.md "wikilink")
   - [리우신](https://ko.wikipedia.org/wiki/리우신 "wikilink")
@@ -94,25 +94,25 @@ JYP Publishing문서에 대한 출처:<http://www.jyppub.com/about>
       - [강균성](../Page/강균성.md "wikilink"), [전우성](https://ko.wikipedia.org/wiki/전우성 "wikilink"), [이상곤](https://ko.wikipedia.org/wiki/이상곤 "wikilink"), [나성호](https://ko.wikipedia.org/wiki/나성호 "wikilink")
   - [원투](https://ko.wikipedia.org/wiki/원투 "wikilink")
       - [송호범](https://ko.wikipedia.org/wiki/송호범 "wikilink"), 오창훈
-  - [아이비](https://ko.wikipedia.org/wiki/아이비_\(가수\) "wikilink"): 2집까지 [팬텀](https://ko.wikipedia.org/wiki/팬텀_엔터테인먼트_그룹 "wikilink") & JYP 동시 (공동) 소속
+  - [아이비](https://ko.wikipedia.org/wiki/아이비_\(가수\) "wikilink") : 2집까지 [팬텀](https://ko.wikipedia.org/wiki/팬텀_엔터테인먼트_그룹 "wikilink") & JYP 동시 (공동) 소속
   - [임정희](https://ko.wikipedia.org/wiki/임정희 "wikilink")
   - [한나](../Page/한지서.md "wikilink") ([2014년](../Page/2014년.md "wikilink") [1월 13일](../Page/1월_13일.md "wikilink") 사망)
   - [마리오](https://ko.wikipedia.org/wiki/마리오_\(가수\) "wikilink")
   - [San E](https://ko.wikipedia.org/wiki/San_E "wikilink")
-  - [현아](../Page/현아.md "wikilink"): 전 [원더걸스](../Page/원더걸스.md "wikilink") 멤버이자 전 [포미닛](../Page/포미닛.md "wikilink") 멤버
-  - [선예](../Page/선예.md "wikilink"): 전 [원더걸스](../Page/원더걸스.md "wikilink") 멤버
-  - [안소희](../Page/안소희.md "wikilink"): 전 [원더걸스](../Page/원더걸스.md "wikilink") 멤버\[4\]
+  - [현아](../Page/현아.md "wikilink") : 전 [원더걸스](../Page/원더걸스.md "wikilink") 멤버이자 전 [포미닛](../Page/포미닛.md "wikilink") 멤버
+  - [선예](../Page/선예.md "wikilink") : 전 [원더걸스](../Page/원더걸스.md "wikilink") 멤버
+  - [안소희](../Page/안소희.md "wikilink") : 전 [원더걸스](../Page/원더걸스.md "wikilink") 멤버\[4\]
   - [JOO](../Page/JOO.md "wikilink")
-  - [재범](https://ko.wikipedia.org/wiki/재범 "wikilink"): 전 [2PM](https://ko.wikipedia.org/wiki/2PM "wikilink") 멤버\[5\]
-  - [민](../Page/민_\(가수\).md "wikilink"): 전 [미쓰에이](../Page/미쓰에이.md "wikilink") 멤버
-  - [지아](../Page/지아_\(1990년\).md "wikilink"): 전 [미쓰에이](../Page/미쓰에이.md "wikilink") 멤버
+  - [재범](https://ko.wikipedia.org/wiki/재범 "wikilink") : 전 [2PM](https://ko.wikipedia.org/wiki/2PM "wikilink") 멤버\[5\]
+  - [민](../Page/민_\(가수\).md "wikilink") : 전 [미쓰에이](../Page/미쓰에이.md "wikilink") 멤버
+  - [지아](../Page/지아_\(1990년\).md "wikilink") : 전 [미쓰에이](../Page/미쓰에이.md "wikilink") 멤버
   - [미쓰에이](../Page/미쓰에이.md "wikilink")
       - [수지](../Page/수지_\(대한민국의_가수\).md "wikilink")
   - [G.Soul](../Page/G.Soul.md "wikilink")
-  - [준혁](https://ko.wikipedia.org/wiki/준혁 "wikilink"): 전 [DAY6](../Page/DAY6.md "wikilink") 멤버
-  - [연정훈](../Page/연정훈.md "wikilink"): 제이튠엔터테인먼트 소속
-  - [이다해](../Page/이다해.md "wikilink"): 제이튠엔터테인먼트 소속
-  - [엠블랙](../Page/엠블랙.md "wikilink"): 제이튠엔터테인먼트 소속
+  - [준혁](https://ko.wikipedia.org/wiki/준혁 "wikilink") : 전 [DAY6](../Page/DAY6.md "wikilink") 멤버
+  - [연정훈](../Page/연정훈.md "wikilink") : 제이튠엔터테인먼트 소속
+  - [이다해](../Page/이다해.md "wikilink") : 제이튠엔터테인먼트 소속
+  - [엠블랙](../Page/엠블랙.md "wikilink") : 제이튠엔터테인먼트 소속
   - [김지민](../Page/김지민_\(배우\).md "wikilink")
   - [박주형](https://ko.wikipedia.org/wiki/박주형_\(1982년\) "wikilink")
   - [박시은](../Page/박시은_\(2001년\).md "wikilink")
@@ -142,77 +142,77 @@ JYP Publishing문서에 대한 출처:<http://www.jyppub.com/about>
   - [메이다니](https://ko.wikipedia.org/wiki/메이다니 "wikilink")
   - [문지은](https://ko.wikipedia.org/wiki/문지은 "wikilink")
   - [이현지](../Page/이현지.md "wikilink")
-  - [문용석](https://ko.wikipedia.org/wiki/문용석 "wikilink"): 현 배우
-  - [안효섭](../Page/안효섭.md "wikilink"): 현 배우
-  - [나종찬](../Page/나종찬.md "wikilink"): 현 배우
+  - [문용석](https://ko.wikipedia.org/wiki/문용석 "wikilink") : 현 배우
+  - [안효섭](../Page/안효섭.md "wikilink") : 현 배우
+  - [나종찬](../Page/나종찬.md "wikilink") : 현 배우
   - [지수](../Page/지수_\(배우\).md "wikilink"): 현 배우
   - [CL](../Page/CL_\(가수\).md "wikilink"): 전 [2NE1](../Page/2NE1.md "wikilink")
-  - [재효](https://ko.wikipedia.org/wiki/재효 "wikilink"): 현 [블락비](../Page/블락비.md "wikilink")
-  - [제이홉](../Page/제이홉.md "wikilink"): 현 [방탄소년단](../Page/방탄소년단.md "wikilink")
-  - [김동혁](../Page/김동혁_\(가수\).md "wikilink"): 현 [IKON](../Page/IKON.md "wikilink")
-  - [프니엘](../Page/프니엘.md "wikilink"): 현 [비투비](../Page/비투비.md "wikilink")
-  - [김재경](https://ko.wikipedia.org/wiki/김재경_\(가수\) "wikilink"): 전 [레인보우](../Page/레인보우.md "wikilink")
-  - [장동우](../Page/장동우.md "wikilink"): 현 [인피니트](../Page/인피니트.md "wikilink")
-  - [이호원](https://ko.wikipedia.org/wiki/이호원_\(배우\) "wikilink"): 전 [인피니트](../Page/인피니트.md "wikilink")
-  - [남지현](https://ko.wikipedia.org/wiki/남지현_\(1990년\) "wikilink"): 전 [포미닛](../Page/포미닛.md "wikilink")
-  - [전지윤](../Page/전지윤.md "wikilink"): 전 [포미닛](../Page/포미닛.md "wikilink")
-  - [레이나](https://ko.wikipedia.org/wiki/레이나 "wikilink"): 현 [애프터스쿨](../Page/애프터스쿨.md "wikilink"), [오렌지캬라멜](../Page/오렌지캬라멜.md "wikilink")
-  - [송지은](../Page/송지은_\(가수\).md "wikilink"): 전 [시크릿](https://ko.wikipedia.org/wiki/시크릿 "wikilink")
-  - [한선화](../Page/한선화.md "wikilink"): 전 [시크릿](https://ko.wikipedia.org/wiki/시크릿 "wikilink")
-  - [효민](../Page/효민.md "wikilink"): 현 [티아라](../Page/티아라_\(음악_그룹\).md "wikilink")
-  - [손동운](../Page/손동운.md "wikilink"): 전 [비스트](https://ko.wikipedia.org/wiki/비스트 "wikilink"), 현 [하이라이트](../Page/하이라이트_\(음악_그룹\).md "wikilink")
-  - [양요섭](../Page/양요섭.md "wikilink"): 전 [비스트](https://ko.wikipedia.org/wiki/비스트 "wikilink"), 현 [하이라이트](../Page/하이라이트_\(음악_그룹\).md "wikilink")
-  - [윤두준](../Page/윤두준.md "wikilink"): 전 [비스트](https://ko.wikipedia.org/wiki/비스트 "wikilink"), 현 [하이라이트](../Page/하이라이트_\(음악_그룹\).md "wikilink")
-  - [이기광](https://ko.wikipedia.org/wiki/이기광 "wikilink"): 전 [비스트](https://ko.wikipedia.org/wiki/비스트 "wikilink"), 현 [하이라이트](../Page/하이라이트_\(음악_그룹\).md "wikilink")
-  - [박초롱](../Page/박초롱.md "wikilink"): 현 [에이핑크](../Page/에이핑크.md "wikilink")
-  - [윤보미](../Page/윤보미.md "wikilink"): 현 [에이핑크](../Page/에이핑크.md "wikilink")
-  - [손나은](../Page/손나은.md "wikilink"): 현 [에이핑크](../Page/에이핑크.md "wikilink")
-  - [홍유경](../Page/홍유경.md "wikilink"): 전 [에이핑크](../Page/에이핑크.md "wikilink")
-  - [효린](../Page/효린.md "wikilink"): 전 [씨스타](../Page/씨스타.md "wikilink")
-  - [김다솜](../Page/김다솜_\(배우\).md "wikilink"): 전 [씨스타](../Page/씨스타.md "wikilink")
-  - [윤보라](../Page/윤보라_\(배우\).md "wikilink"): 전 [씨스타](../Page/씨스타.md "wikilink")
-  - [하니](../Page/하니_\(가수\).md "wikilink"): 현 [EXID](../Page/EXID.md "wikilink")
-  - [정화](https://ko.wikipedia.org/wiki/정화 "wikilink"): 현 [EXID](../Page/EXID.md "wikilink")
-  - [최문희](https://ko.wikipedia.org/wiki/최문희 "wikilink"): 전 [보너스베이비](../Page/보너스베이비.md "wikilink")
-  - [영재](https://ko.wikipedia.org/wiki/영재_\(가수\) "wikilink"): 전 [B.A.P](../Page/B.A.P.md "wikilink")
-  - [이대휘](https://ko.wikipedia.org/wiki/이대휘 "wikilink"): 전 [워너원](../Page/워너원.md "wikilink"), 현 [AB6IX](../Page/AB6IX.md "wikilink")
-  - [박우진](../Page/박우진.md "wikilink"): 전 [워너원](../Page/워너원.md "wikilink"), 현 [AB6IX](../Page/AB6IX.md "wikilink")
-  - [김동현](../Page/김동현_\(1998년\).md "wikilink"): 전 [MXM](../Page/MXM_\(음악_그룹\).md "wikilink"), 현 [AB6IX](../Page/AB6IX.md "wikilink")
-  - [전웅](../Page/전웅.md "wikilink"): 현 [AB6IX](../Page/AB6IX.md "wikilink")
-  - [임영민](../Page/임영민.md "wikilink"): 전 [MXM](../Page/MXM_\(음악_그룹\).md "wikilink"), 현 [AB6IX](../Page/AB6IX.md "wikilink")
+  - [재효](https://ko.wikipedia.org/wiki/재효 "wikilink") : 현 [블락비](../Page/블락비.md "wikilink")
+  - [제이홉](../Page/제이홉.md "wikilink") : 현 [방탄소년단](../Page/방탄소년단.md "wikilink")
+  - [김동혁](../Page/김동혁_\(가수\).md "wikilink") : 현 [IKON](../Page/IKON.md "wikilink")
+  - [프니엘](../Page/프니엘.md "wikilink") : 현 [비투비](../Page/비투비.md "wikilink")
+  - [김재경](https://ko.wikipedia.org/wiki/김재경_\(가수\) "wikilink") : 전 [레인보우](../Page/레인보우.md "wikilink")
+  - [장동우](../Page/장동우.md "wikilink") : 현 [인피니트](../Page/인피니트.md "wikilink")
+  - [이호원](https://ko.wikipedia.org/wiki/이호원_\(배우\) "wikilink") : 전 [인피니트](../Page/인피니트.md "wikilink")
+  - [남지현](https://ko.wikipedia.org/wiki/남지현_\(1990년\) "wikilink") : 전 [포미닛](../Page/포미닛.md "wikilink")
+  - [전지윤](../Page/전지윤.md "wikilink") : 전 [포미닛](../Page/포미닛.md "wikilink")
+  - [레이나](https://ko.wikipedia.org/wiki/레이나 "wikilink") : 현 [애프터스쿨](../Page/애프터스쿨.md "wikilink"), [오렌지캬라멜](../Page/오렌지캬라멜.md "wikilink")
+  - [송지은](../Page/송지은_\(가수\).md "wikilink") : 전 [시크릿](https://ko.wikipedia.org/wiki/시크릿 "wikilink")
+  - [한선화](../Page/한선화.md "wikilink") : 전 [시크릿](https://ko.wikipedia.org/wiki/시크릿 "wikilink")
+  - [효민](../Page/효민.md "wikilink") : 현 [티아라](../Page/티아라_\(음악_그룹\).md "wikilink")
+  - [손동운](../Page/손동운.md "wikilink") : 전 [비스트](https://ko.wikipedia.org/wiki/비스트 "wikilink"), 현 [하이라이트](../Page/하이라이트_\(음악_그룹\).md "wikilink")
+  - [양요섭](../Page/양요섭.md "wikilink") : 전 [비스트](https://ko.wikipedia.org/wiki/비스트 "wikilink"), 현 [하이라이트](../Page/하이라이트_\(음악_그룹\).md "wikilink")
+  - [윤두준](../Page/윤두준.md "wikilink") : 전 [비스트](https://ko.wikipedia.org/wiki/비스트 "wikilink"), 현 [하이라이트](../Page/하이라이트_\(음악_그룹\).md "wikilink")
+  - [이기광](https://ko.wikipedia.org/wiki/이기광 "wikilink") : 전 [비스트](https://ko.wikipedia.org/wiki/비스트 "wikilink"), 현 [하이라이트](../Page/하이라이트_\(음악_그룹\).md "wikilink")
+  - [박초롱](../Page/박초롱.md "wikilink") : 현 [에이핑크](../Page/에이핑크.md "wikilink")
+  - [윤보미](../Page/윤보미.md "wikilink") : 현 [에이핑크](../Page/에이핑크.md "wikilink")
+  - [손나은](../Page/손나은.md "wikilink") : 현 [에이핑크](../Page/에이핑크.md "wikilink")
+  - [홍유경](../Page/홍유경.md "wikilink") : 전 [에이핑크](../Page/에이핑크.md "wikilink")
+  - [효린](../Page/효린.md "wikilink") : 전 [씨스타](../Page/씨스타.md "wikilink")
+  - [김다솜](../Page/김다솜_\(배우\).md "wikilink") : 전 [씨스타](../Page/씨스타.md "wikilink")
+  - [윤보라](../Page/윤보라_\(배우\).md "wikilink") : 전 [씨스타](../Page/씨스타.md "wikilink")
+  - [하니](../Page/하니_\(가수\).md "wikilink") : 현 [EXID](../Page/EXID.md "wikilink")
+  - [정화](https://ko.wikipedia.org/wiki/정화 "wikilink") : 현 [EXID](../Page/EXID.md "wikilink")
+  - [최문희](https://ko.wikipedia.org/wiki/최문희 "wikilink") : 전 [보너스베이비](../Page/보너스베이비.md "wikilink")
+  - [영재](https://ko.wikipedia.org/wiki/영재_\(가수\) "wikilink") : 전 [B.A.P](../Page/B.A.P.md "wikilink")
+  - [이대휘](https://ko.wikipedia.org/wiki/이대휘 "wikilink") : 전 [워너원](../Page/워너원.md "wikilink"), 현 [AB6IX](../Page/AB6IX.md "wikilink")
+  - [박우진](../Page/박우진.md "wikilink") : 전 [워너원](../Page/워너원.md "wikilink"), 현 [AB6IX](../Page/AB6IX.md "wikilink")
+  - [김동현](../Page/김동현_\(1998년\).md "wikilink") : 전 [MXM](../Page/MXM_\(음악_그룹\).md "wikilink"), 현 [AB6IX](../Page/AB6IX.md "wikilink")
+  - [전웅](../Page/전웅.md "wikilink") : 현 [AB6IX](../Page/AB6IX.md "wikilink")
+  - [임영민](../Page/임영민.md "wikilink") : 전 [MXM](../Page/MXM_\(음악_그룹\).md "wikilink"), 현 [AB6IX](../Page/AB6IX.md "wikilink")
   - [G.NA](../Page/G.NA.md "wikilink")
-  - [청하](../Page/청하_\(가수\).md "wikilink"): 전 [아이오아이](../Page/아이오아이.md "wikilink")
+  - [청하](../Page/청하_\(가수\).md "wikilink") : 전 [아이오아이](../Page/아이오아이.md "wikilink")
   - [케이윌](https://ko.wikipedia.org/wiki/케이윌 "wikilink")
   - [홍진영](../Page/홍진영.md "wikilink")
-  - [필독](../Page/필독_\(가수\).md "wikilink"): 전 [빅스타](../Page/빅스타_\(대한민국의_음악_그룹\).md "wikilink")
-  - [바람](https://ko.wikipedia.org/wiki/바람_\(가수\) "wikilink"): 전 [빅스타](../Page/빅스타_\(대한민국의_음악_그룹\).md "wikilink")
+  - [필독](../Page/필독_\(가수\).md "wikilink") : 전 [빅스타](../Page/빅스타_\(대한민국의_음악_그룹\).md "wikilink")
+  - [바람](https://ko.wikipedia.org/wiki/바람_\(가수\) "wikilink") : 전 [빅스타](../Page/빅스타_\(대한민국의_음악_그룹\).md "wikilink")
   - [성준](https://ko.wikipedia.org/wiki/성준 "wikilink") :현 [소년공화국](../Page/소년공화국.md "wikilink")
-  - [셔누](../Page/셔누.md "wikilink"): 현 [몬스타엑스](../Page/몬스타엑스.md "wikilink")
-  - [신수현](https://ko.wikipedia.org/wiki/신수현 "wikilink"): 현 [유키스](../Page/유키스.md "wikilink")
-  - [광민](../Page/광민.md "wikilink"): 전 [보이프렌드](../Page/보이프렌드_\(음악_그룹\).md "wikilink")
-  - [영민](../Page/영민.md "wikilink"): 전 [보이프렌드](../Page/보이프렌드_\(음악_그룹\).md "wikilink")
-  - [박서함](../Page/박서함.md "wikilink"): 현 [크나큰](https://ko.wikipedia.org/wiki/크나큰 "wikilink")
-  - [소룡](https://ko.wikipedia.org/wiki/소룡 "wikilink"): 전 [테이스티](../Page/테이스티.md "wikilink")
-  - [대룡](https://ko.wikipedia.org/wiki/대룡 "wikilink"): 전 [테이스티](../Page/테이스티.md "wikilink")
-  - [해령](https://ko.wikipedia.org/wiki/해령 "wikilink"): 전 [EXID](../Page/EXID.md "wikilink"), 전 [베스티](../Page/베스티.md "wikilink")
-  - [유지](../Page/유지_\(가수\).md "wikilink"): 전 [EXID](../Page/EXID.md "wikilink"), 전 [베스티](../Page/베스티.md "wikilink")
-  - [의진](https://ko.wikipedia.org/wiki/의진 "wikilink"): 현 [소나무](../Page/소나무_\(음악_그룹\).md "wikilink")
-  - [은교](https://ko.wikipedia.org/wiki/은교_\(가수\) "wikilink"): 전 [파이브돌스](../Page/파이브돌스.md "wikilink")
-  - [나은](../Page/이나은_\(가수\).md "wikilink"): 현 [에이프릴](../Page/에이프릴_\(음악_그룹\).md "wikilink")
-  - 황우림: 현 [플레이백](../Page/플레이백_\(음악_그룹\).md "wikilink")
-  - [레이븐](https://ko.wikipedia.org/wiki/레이븐 "wikilink"): 현 [원어스](https://ko.wikipedia.org/wiki/원어스 "wikilink")
-  - [유](https://ko.wikipedia.org/wiki/유 "wikilink"): 현 [온앤오프](../Page/온앤오프.md "wikilink")
-  - [유토](../Page/유토.md "wikilink"): 현 [펜타곤](../Page/펜타곤_\(음악_그룹\).md "wikilink")
-  - [이민](https://ko.wikipedia.org/wiki/이민 "wikilink"): 현 영건
-  - [제이슨](../Page/제이슨.md "wikilink"): 현 [A.C.E](https://ko.wikipedia.org/wiki/A.C.E "wikilink")
-  - [지엔](https://ko.wikipedia.org/wiki/지엔 "wikilink"): 현 [라붐](https://ko.wikipedia.org/wiki/라붐_\(음악그룹\) "wikilink")
-  - [호](https://ko.wikipedia.org/wiki/호_\(가수\) "wikilink"): 전 [매드타운](../Page/매드타운.md "wikilink")
-  - [MJ](https://ko.wikipedia.org/wiki/MJ_\(가수\) "wikilink"): 현 [아스트로](../Page/아스트로_\(음악_그룹\).md "wikilink")
-  - [후이](../Page/후이.md "wikilink"): 현 [펜타곤](../Page/펜타곤_\(음악_그룹\).md "wikilink")
+  - [셔누](../Page/셔누.md "wikilink") : 현 [몬스타엑스](../Page/몬스타엑스.md "wikilink")
+  - [신수현](https://ko.wikipedia.org/wiki/신수현 "wikilink") : 현 [유키스](../Page/유키스.md "wikilink")
+  - [광민](../Page/광민.md "wikilink") : 전 [보이프렌드](../Page/보이프렌드_\(음악_그룹\).md "wikilink")
+  - [영민](../Page/영민.md "wikilink") : 전 [보이프렌드](../Page/보이프렌드_\(음악_그룹\).md "wikilink")
+  - [박서함](../Page/박서함.md "wikilink") : 현 [크나큰](https://ko.wikipedia.org/wiki/크나큰 "wikilink")
+  - [소룡](https://ko.wikipedia.org/wiki/소룡 "wikilink") : 전 [테이스티](../Page/테이스티.md "wikilink")
+  - [대룡](https://ko.wikipedia.org/wiki/대룡 "wikilink") : 전 [테이스티](../Page/테이스티.md "wikilink")
+  - [해령](https://ko.wikipedia.org/wiki/해령 "wikilink") : 전 [EXID](../Page/EXID.md "wikilink"), 전 [베스티](../Page/베스티.md "wikilink")
+  - [유지](../Page/유지_\(가수\).md "wikilink") : 전 [EXID](../Page/EXID.md "wikilink"), 전 [베스티](../Page/베스티.md "wikilink")
+  - [의진](https://ko.wikipedia.org/wiki/의진 "wikilink") : 현 [소나무](../Page/소나무_\(음악_그룹\).md "wikilink")
+  - [은교](https://ko.wikipedia.org/wiki/은교_\(가수\) "wikilink") : 전 [파이브돌스](../Page/파이브돌스.md "wikilink")
+  - [나은](../Page/이나은_\(가수\).md "wikilink") : 현 [에이프릴](../Page/에이프릴_\(음악_그룹\).md "wikilink")
+  - 황우림 : 현 [플레이백](../Page/플레이백_\(음악_그룹\).md "wikilink")
+  - [레이븐](https://ko.wikipedia.org/wiki/레이븐 "wikilink") : 현 [원어스](https://ko.wikipedia.org/wiki/원어스 "wikilink")
+  - [유](https://ko.wikipedia.org/wiki/유 "wikilink") : 현 [온앤오프](../Page/온앤오프.md "wikilink")
+  - [유토](../Page/유토.md "wikilink") : 현 [펜타곤](../Page/펜타곤_\(음악_그룹\).md "wikilink")
+  - [이민](https://ko.wikipedia.org/wiki/이민 "wikilink") : 현 영건
+  - [제이슨](../Page/제이슨.md "wikilink") : 현 [A.C.E](https://ko.wikipedia.org/wiki/A.C.E "wikilink")
+  - [지엔](https://ko.wikipedia.org/wiki/지엔 "wikilink") : 현 [라붐](https://ko.wikipedia.org/wiki/라붐_\(음악그룹\) "wikilink")
+  - [호](https://ko.wikipedia.org/wiki/호_\(가수\) "wikilink") : 전 [매드타운](../Page/매드타운.md "wikilink")
+  - [MJ](https://ko.wikipedia.org/wiki/MJ_\(가수\) "wikilink") : 현 [아스트로](../Page/아스트로_\(음악_그룹\).md "wikilink")
+  - [후이](../Page/후이.md "wikilink") : 현 [펜타곤](../Page/펜타곤_\(음악_그룹\).md "wikilink")
   - [키노](../Page/키노_\(가수\).md "wikilink") 현 [펜타곤](../Page/펜타곤_\(음악_그룹\).md "wikilink")
   - [윤서빈](https://ko.wikipedia.org/wiki/윤서빈 "wikilink")
-  - 보라: 현 [체리블렛](../Page/체리블렛.md "wikilink")
-  - 이채연: 현 [아이즈원](../Page/아이즈원.md "wikilink")
+  - 보라 : 현 [체리블렛](../Page/체리블렛.md "wikilink")
+  - 이채연 : 현 [아이즈원](../Page/아이즈원.md "wikilink")
 
 ## 연도별 배출 아티스트
 
@@ -242,7 +242,7 @@ JYP Publishing문서에 대한 출처:<http://www.jyppub.com/about>
 | 2012                                                       | [JJ Project](https://ko.wikipedia.org/wiki/JJ_Project "wikilink")                                                                                                                                                                                                                                                                     | 듀오                                                                                                                                                                                                                                                                                     | [JB](../Page/JB_\(가수\).md "wikilink"), [진영](../Page/진영_\(1994년\).md "wikilink")                                                                                                                                                                                                                                                                                              | 2012                                              | 스타                                                | Joyous    | JB  |
 | [백아연](../Page/백아연.md "wikilink")                           | 솔로                                                                                                                                                                                                                                                                                                                                    | \-                                                                                                                                                                                                                                                                                     | 없음                                                                                                                                                                                                                                                                                                                                                                           | 수련                                                | 없음                                                |           |     |
 | [15&](../Page/15&.md "wikilink")                           | 듀오                                                                                                                                                                                                                                                                                                                                    | [백예린](../Page/백예린.md "wikilink"), [박지민](https://ko.wikipedia.org/wiki/박지민 "wikilink")                                                                                                                                                                                                  | Dreamers                                                                                                                                                                                                                                                                                                                                                                     | 없음                                                |                                                   |           |     |
-| 2014                                                       | [GOT7](https://ko.wikipedia.org/wiki/GOT7 "wikilink")                                                                                                                                                                                                                                                                                 | 그룹                                                                                                                                                                                                                                                                                     | [마크](../Page/마크_\(1993년\).md "wikilink")&[유겸](../Page/유겸.md "wikilink")&[JB](../Page/JB_\(가수\).md "wikilink"), [영재](../Page/영재_\(1996년\).md "wikilink")&[진영](../Page/진영_\(1994년\).md "wikilink")&[잭슨](../Page/잭슨_\(가수\).md "wikilink")&[뱀뱀](../Page/뱀뱀.md "wikilink")                                                                                                        | 2014                                              | 러브버드                                              | I GOT7    | JB  |
+| 2014                                                       | [GOT7](https://ko.wikipedia.org/wiki/GOT7 "wikilink")                                                                                                                                                                                                                                                                                 | 그룹                                                                                                                                                                                                                                                                                     | [영재](../Page/영재_\(1996년\).md "wikilink")&[잭슨](../Page/잭슨_\(가수\).md "wikilink")&[뱀뱀](../Page/뱀뱀.md "wikilink")&[JB](../Page/JB_\(가수\).md "wikilink")&[유겸](../Page/유겸.md "wikilink")&[마크](../Page/마크_\(1993년\).md "wikilink")&[진영](../Page/진영_\(1994년\).md "wikilink")                                                                                                         | 2014                                              | 러브버드                                              | I GOT7    | JB  |
 | [낙준](../Page/낙준.md "wikilink")                             | 솔로                                                                                                                                                                                                                                                                                                                                    | \-                                                                                                                                                                                                                                                                                     | 없음                                                                                                                                                                                                                                                                                                                                                                           | Bernarddream                                      | 없음                                                |           |     |
 | 2015                                                       | [DAY6](../Page/DAY6.md "wikilink")                                                                                                                                                                                                                                                                                                    | 그룹                                                                                                                                                                                                                                                                                     | [성진](../Page/성진_\(가수\).md "wikilink"), [Jae](../Page/Jae.md "wikilink"), [Young K](../Page/Young_K.md "wikilink"), [원필](../Page/원필.md "wikilink"), [도운](https://ko.wikipedia.org/wiki/도운_\(가수\) "wikilink")                                                                                                                                                                  | 2015                                              | 미정                                                | My Day    | 성진  |
 | [트와이스](https://ko.wikipedia.org/wiki/트와이스 "wikilink")      | [지효](../Page/지효.md "wikilink"), [나연](../Page/나연.md "wikilink"), [정연](../Page/정연_\(가수\).md "wikilink"), [모모](../Page/모모_\(가수\).md "wikilink"), [사나](../Page/사나_\(가수\).md "wikilink"), [미나](../Page/미나_\(일본의_가수\).md "wikilink"), [다현](../Page/다현.md "wikilink"), [채영](../Page/채영_\(가수\).md "wikilink"), [쯔위](../Page/쯔위.md "wikilink") | [살구색](https://ko.wikipedia.org/wiki/살구색 "wikilink"),[네온 마젠타](../Page/마젠타.md "wikilink")                                                                                                                                                                                                | ONCE                                                                                                                                                                                                                                                                                                                                                                         | 지효                                                |                                                   |           |     |
@@ -272,14 +272,14 @@ JYP Publishing문서에 대한 출처:<http://www.jyppub.com/about>
 
 ## 관련 소속사
 
-  - [큐브 엔터테인먼트](../Page/큐브_엔터테인먼트.md "wikilink"): \[JYP 공동 창립자이자 전 대표인 홍승성이 세운 소속사\]
-  - [에이큐브 엔터테인먼트](../Page/플랜에이_엔터테인먼트.md "wikilink"): \[큐브 음반 레이블\]
-  - [뮤직큐브](../Page/큐브_엔터테인먼트.md "wikilink"): \[큐브 음악담당 레이블\]
-  - [빅히트 엔터테인먼트](../Page/빅히트_엔터테인먼트.md "wikilink"): \[전 JYP 수석 작곡가 방시혁이 세운 소속사\]
-  - [스타쉽 엔터테인먼트](../Page/스타쉽_엔터테인먼트.md "wikilink"): \[빅히트 엔터테인먼트 계열 분리 소속사\]
-  - [제이튠 캠프](https://ko.wikipedia.org/wiki/제이튠_캠프 "wikilink"): \[JYP 엔터테인먼트가 인수합병한 제이튠 엔터테인먼트의 독립 레이블 회사\]
-  - [Studio J](https://ko.wikipedia.org/wiki/Studio_J "wikilink"): \[JYP 엔터테인먼트 산하 레이블\]
-  - [JYP Publishing](https://ko.wikipedia.org/wiki/JYP_Publishing "wikilink"):\[가수 겸 프로듀서 박진영이 이끄는 JYP엔터테인먼트가 작품자(작사ㆍ작곡ㆍ편곡자)들의 저작권 관리를 전담하는 자회사\]
+  - [큐브 엔터테인먼트](../Page/큐브_엔터테인먼트.md "wikilink") : \[JYP 공동 창립자이자 전 대표인 홍승성이 세운 소속사\]
+  - [에이큐브 엔터테인먼트](../Page/플랜에이_엔터테인먼트.md "wikilink") : \[큐브 음반 레이블\]
+  - [뮤직큐브](../Page/큐브_엔터테인먼트.md "wikilink") : \[큐브 음악담당 레이블\]
+  - [빅히트 엔터테인먼트](../Page/빅히트_엔터테인먼트.md "wikilink") : \[전 JYP 수석 작곡가 방시혁이 세운 소속사\]
+  - [스타쉽 엔터테인먼트](../Page/스타쉽_엔터테인먼트.md "wikilink") : \[빅히트 엔터테인먼트 계열 분리 소속사\]
+  - [제이튠 캠프](https://ko.wikipedia.org/wiki/제이튠_캠프 "wikilink") : \[JYP 엔터테인먼트가 인수합병한 제이튠 엔터테인먼트의 독립 레이블 회사\]
+  - [Studio J](https://ko.wikipedia.org/wiki/Studio_J "wikilink") : \[JYP 엔터테인먼트 산하 레이블\]
+  - [JYP Publishing](https://ko.wikipedia.org/wiki/JYP_Publishing "wikilink") : \[가수 겸 프로듀서 박진영이 이끄는 JYP엔터테인먼트가 작품자(작사ㆍ작곡ㆍ편곡자)들의 저작권 관리를 전담하는 자회사\]
 
 ## 같이 보기
 

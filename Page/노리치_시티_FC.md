@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  FC](https://ko.wikipedia.org/wiki/__FC).
+> This article is converted from Wikipedia: [노리치 시티 FC](https://ko.wikipedia.org/wiki/노리치_시티_FC).
 
 
 **노리치 시티 풋볼 클럽**()은 [잉글랜드](../Page/잉글랜드.md "wikilink")의 축구 클럽으로, [노리치](../Page/노리치.md "wikilink")를 연고로 하고 있다.

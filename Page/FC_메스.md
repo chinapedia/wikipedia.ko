@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FC ](https://ko.wikipedia.org/wiki/FC_).
+> This article is converted from Wikipedia: [FC 메스](https://ko.wikipedia.org/wiki/FC_메스).
 
 
 **풋볼 클뢰브 드 메스**(Football Club de Metz)는 [메스에](../Page/메스_\(프랑스\).md "wikilink") 위치한 [스타드 생생포리앵](https://ko.wikipedia.org/wiki/스타드_생생포리앵 "wikilink") 경기장을 홈 구장으로 하는 [프랑스](../Page/프랑스.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다.

@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [SBS 8 ](https://ko.wikipedia.org/wiki/SBS_8_).
+> This article is converted from Wikipedia: [SBS 8 뉴스](https://ko.wikipedia.org/wiki/SBS_8_뉴스).
 
 
-《**SBS 8 뉴스**》**()**는 [대한민국](../Page/대한민국.md "wikilink") [SBS에서](../Page/SBS_\(대한민국의_방송사\).md "wikilink") 매일 밤 8시에 방송되는 [SBS의 뉴스 프로그램이다](../Page/SBS의_뉴스_프로그램.md "wikilink").
+《**SBS 8 뉴스**》**()**는 매일 저녁 7시 50분에 방송되는 [SBS의 메인뉴스 프로그램이다](../Page/SBS의_뉴스_프로그램.md "wikilink").
 
 ## 프로그램 역사
 
@@ -14,6 +14,7 @@
   - [2019년](../Page/2019년.md "wikilink") [3월 23일](../Page/3월_23일.md "wikilink") : 봄 개편 시작과 함께 **헤드라인 뉴스** 자막과 **날씨** 자막 및 디자인이 변경되었다.
   - [2019년](../Page/2019년.md "wikilink") [7월 15일](../Page/7월_15일.md "wikilink") : 평일 클로징에서 앵커가 그 날의 주요뉴스 관련 사진을 보여주며 설명하는 방식으로 변경되었다.
   - [2019년](../Page/2019년.md "wikilink") [8월 6일](../Page/8월_6일.md "wikilink") : 제 8호 태풍 **프란시스코**로 인하여 잠시 태풍관련 하단 뉴스티커를 추가하였다.
+  - [2020년](../Page/2020년.md "wikilink") [3월 30일](../Page/3월_30일.md "wikilink") : **스포츠 뉴스** 클로징 시 [이승기](../Page/이승기.md "wikilink")가 **일일 아나운서**로 출연하였다.
 
 ## 방송 시간
 
@@ -329,7 +330,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/2013년.md" title="wikilink">2013년</a> <a href="../Page/7월_1일.md" title="wikilink">7월 1일</a> ~ <a href="../Page/2019년.md" title="wikilink">2019년</a> <a href="../Page/4월_14일.md" title="wikilink">4월 14일</a><br />
-<a href="../Page/2019년.md" title="wikilink">2019년</a> <a href="../Page/5월_13일.md" title="wikilink">5월 13일</a> ~</p></td>
+<a href="../Page/2019년.md" title="wikilink">2019년</a> <a href="../Page/5월_13일.md" title="wikilink">5월 13일</a> ~ <a href="../Page/2020년.md" title="wikilink">2020년</a> <a href="../Page/3월_29일.md" title="wikilink">3월 29일</a></p></td>
 <td><p>매주 평일 밤 8:00 ~ 8:50</p></td>
 <td><p>50분</p></td>
 <td></td>
@@ -344,6 +345,18 @@
 <td><p><a href="../Page/2019년.md" title="wikilink">2019년</a> <a href="../Page/4월_15일.md" title="wikilink">4월 15일</a> ~ <a href="../Page/2019년.md" title="wikilink">2019년</a> <a href="../Page/5월_12일.md" title="wikilink">5월 12일</a></p></td>
 <td><p>매주 평일 저녁 7:55 ~ 8:55</p></td>
 <td><p>60분</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>매주 주말 밤 8:00 ~ 8:45</p></td>
+<td><p>45분</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/2020년.md" title="wikilink">2020년</a> <a href="../Page/3월_30일.md" title="wikilink">3월 30일</a> ~ <a href="../Page/2019년.md" title="wikilink">2019년</a> <a href="../Page/5월_12일.md" title="wikilink">5월 12일</a></p></td>
+<td><p>매주 평일 저녁 7:50 ~ 8:55</p></td>
+<td><p>65분</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -375,8 +388,8 @@
 | 사실은?                                         | 이경원 기자                                                                                                                                                                                                                               |                 |
 | 문화 로 (금)                                     |                                                                                                                                                                                                                                      |                 |
 | 제보가 왔습니다                                     |                                                                                                                                                                                                                                      | 2019년 3월 23일 신설 |
-| 이슈리포트 깊이있게 본다                                |                                                                                                                                                                                                                                      | 2019년 3월 23일 신설 |
-| 현장리포트 거침없이 간다                                |                                                                                                                                                                                                                                      | 2019년 3월 23일 신설 |
+| 이슈리포트 깊이있게 본다                                |                                                                                                                                                                                                                                      |                 |
+| 현장리포트 거침없이 간다                                |                                                                                                                                                                                                                                      |                 |
 | [SBS 스포츠뉴스](../Page/SBS_스포츠뉴스.md "wikilink") | 평일 : [김윤상](../Page/김윤상.md "wikilink") 아나운서</br>주말 : [주시은](../Page/주시은.md "wikilink") 아나운서                                                                                                                                            |                 |
 | SBS 날씨                                       | 평일, 토요일 : [이여진](https://ko.wikipedia.org/wiki/이여진_\(방송인\) "wikilink")</br>일요일 : [정주희](https://ko.wikipedia.org/wiki/정주희 "wikilink")                                                                                                  | \[4\]           |
 | 클로징                                          | 월, 수, 금 : [김현우](../Page/김현우_\(기자\).md "wikilink") 정치부 기자</br>화, 목 : [최혜림](../Page/최혜림.md "wikilink") 아나운서</br>주말 : [김범주](https://ko.wikipedia.org/wiki/김범주_\(기자\) "wikilink") 경제부 기자, [김민형](../Page/김민형_\(아나운서\).md "wikilink") 아나운서 | \[5\]\[6\]      |
@@ -843,12 +856,12 @@ SBS 뉴스 2000 (주말)</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/1992년.md" title="wikilink">1992년</a> <a href="../Page/5월_1일.md" title="wikilink">5월 1일</a> ~ <a href="../Page/1993년.md" title="wikilink">1993년</a> <a href="../Page/6월_30일.md" title="wikilink">6월 30일</a></p></td>
-<td><p><a href="../Page/KT.md" title="wikilink">한국통신</a> 국제전화 001</p></td>
+<td><p><a href="../Page/KT.md" title="wikilink">KT</a> 국제전화 001</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/1993년.md" title="wikilink">1993년</a> <a href="../Page/7월_1일.md" title="wikilink">7월 1일</a> ~ <a href="../Page/1998년.md" title="wikilink">1998년</a> <a href="../Page/1월_16일.md" title="wikilink">1월 16일</a><br />
 (1997년 9월 1일 ~ 1998년 1월 16일: 평일 시보)</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/대우전자" title="wikilink">대우전자</a><br />
+<td><p><a href="../Page/위니아대우.md" title="wikilink">위니아대우</a><br />
 대우전자 탱크 (TANK, 기업 이미지, 1993)<br />
 대우 입체냉장고 탱크 (1994)<br />
 대우 초간편 VTR 딱한번 (1994 ~ 1995)<br />
@@ -902,9 +915,7 @@ SBS 뉴스 2000 (주말)</p></td>
 
 ## 지역민방 프로그램
 
-  - 다음 지역민방 프로그램은 오후 8시 30분 경 부터 방송되며, 방송 직전의 화면 오른쪽 위에 지역민방 프로그램명이 뜬다. 스포츠 뉴스 종료 후 본사의 날씨 소식 및 클로징을 직접 내보내던 지역 [KBS](../Page/한국방송공사.md "wikilink") 및 [MBC와는](../Page/문화방송.md "wikilink") 달리 지역민방들은 평일 SBS 스포츠 뉴스 수중계 종료 시 자체적으로 날씨와 클로징을 내보내며 마친다. (단, [TJB](../Page/대전방송.md "wikilink"), [kbc](../Page/광주방송.md "wikilink"), [JTV](../Page/전주방송.md "wikilink"), [CJB](../Page/청주방송.md "wikilink"), [G1](../Page/G1.md "wikilink"), [JIBS는](../Page/제주국제자유도시방송.md "wikilink") 평일 SBS 날씨, [TBC는](../Page/TBC_\(대한민국의_방송사\).md "wikilink") 주말 SBS 날씨를 수중계한다.)
-
-지역 민방 뉴스 예고 자막은 평일 기준으로 자체 방송중에 내보낸다.
+  - 다음 지역민방 프로그램은 오후 8시 30분 경 부터 방송되며, 방송 직전의 화면 오른쪽 위에 지역민방 프로그램명이 뜬다. 스포츠 뉴스 종료 후 본사의 날씨 소식 및 클로징을 직접 내보내던 지역 [KBS](../Page/한국방송공사.md "wikilink") 및 [MBC와는](../Page/문화방송.md "wikilink") 달리 지역민방들은 평일 SBS 스포츠 뉴스 수중계 종료 시 자체적으로 날씨와 클로징을 내보내며 마친다. (단, [TJB](../Page/대전방송.md "wikilink"), [kbc](../Page/광주방송.md "wikilink"), [JTV](../Page/전주방송.md "wikilink"), [CJB](../Page/청주방송.md "wikilink"), [G1](../Page/G1.md "wikilink"), [JIBS](../Page/제주국제자유도시방송.md "wikilink") 등은 평일 SBS 날씨, [TBC는](../Page/TBC_\(대한민국의_방송사\).md "wikilink") 주말 SBS 날씨를 수중계한다.) 지역 민방 뉴스 예고 자막은 평일 TV 채널과 G1 프레시 FM TV. UBC 그린 FM TV 서만 박소현의 러브 게임 4부와 나머지는 자체 도중에 지역 민방 뉴스 헤드 라인 바 예고 자막 이다. SBS 8시 뉴스 예고 자막의 경우 G1 프레시 FM TV.UBC 그린 FM TV 서도 본사 뉴스 헤드라인 바로 내보낸다.주말.휴일은 나머지 지역 서도 자체때 내 보낸다.G1 프레시 FM TV.UBC 그린 FM TV 서도 박소현의 러브 게임 4부서 내 보내고 있다.
 
 <table>
 <thead>
@@ -919,7 +930,7 @@ SBS 뉴스 2000 (주말)</p></td>
 <tbody>
 <tr class="odd">
 <td><p><a href="../Page/G1.md" title="wikilink">G1</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/강원도_(남)" title="wikilink">강원</a>,<a href="../Page/수도권.md" title="wikilink">수도권</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/강원도_(남)" title="wikilink">강원</a></p></td>
 <td><p><a href="../Page/G1_8_뉴스.md" title="wikilink">G1 8 뉴스</a></p></td>
 <td><p>김우진, 박선영</p></td>
 <td><p>무작위</p></td>

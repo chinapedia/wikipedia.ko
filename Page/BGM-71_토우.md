@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [BGM-71 ](https://ko.wikipedia.org/wiki/BGM-71_).
+> This article is converted from Wikipedia: [BGM-71 토우](https://ko.wikipedia.org/wiki/BGM-71_토우).
 
 
 BGM-71 TOW(Tube launched-Optically tracked-Wire/Wireless guided, 광학추적형 유선 및 무선 유도식 발사관 미사일)는 미국의 [대전차 미사일이다](https://ko.wikipedia.org/wiki/대전차_미사일 "wikilink"). 미군의 MGM-21과 MGM-32를 대체하기 위해 개발된 대전차 미사일이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [AC  ](https://ko.wikipedia.org/wiki/AC__).
+> This article is converted from Wikipedia: [AC 스파르타 프라하](https://ko.wikipedia.org/wiki/AC_스파르타_프라하).
 
 
 **AC 스파르타 프라하**(AC Sparta Praha)는 1893년에 창단된 [체코](../Page/체코.md "wikilink")의 수도 [프라하](https://ko.wikipedia.org/wiki/프라하 "wikilink")의 축구 클럽으로, AXA 아레나를 홈구장으로 한다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [B](https://ko.wikipedia.org/wiki/B).
+> This article is converted from Wikipedia: [B엔](https://ko.wikipedia.org/wiki/B엔).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Various_types_of_B_Notes_1945_1958.jpg "wikilink") **B형 군표**(, ) 또는 **B엔**(, )은 [1945년](../Page/1945년.md "wikilink")부터 [1958년](../Page/1958년.md "wikilink") [9월](../Page/9월.md "wikilink")까지 미군 점령 하의 [오키나와에서](../Page/오키나와현.md "wikilink") [통화](https://ko.wikipedia.org/wiki/통화 "wikilink")로서 유통된 미군 발행의 [군표](../Page/군표.md "wikilink")이다. [1948년](../Page/1948년.md "wikilink")부터 1958년까지는 오키나와에서 유일한 정식 통화이었다.

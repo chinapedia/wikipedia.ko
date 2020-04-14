@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  AWE64](https://ko.wikipedia.org/wiki/__AWE64).
+> This article is converted from Wikipedia: [사운드 블라스터 AWE64](https://ko.wikipedia.org/wiki/사운드_블라스터_AWE64).
 
 
 **사운드 블라스터 AWE64**는 [크리에이티브 테크놀로지가](../Page/크리에이티브_테크놀로지.md "wikilink") 개발한 [ISA](../Page/ISA_버스.md "wikilink") [사운드 카드이다](../Page/사운드_카드.md "wikilink"). [PC의](../Page/개인용_컴퓨터.md "wikilink") 확장 카드이다. 이 카드는 [1996년 11월에](../Page/1996년.md "wikilink") 첫 선을 보였다.

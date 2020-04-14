@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [   DS  ](https://ko.wikipedia.org/wiki/___DS__).
+> This article is converted from Wikipedia: [듣고 쓰고 친해지는 DS 영어 삼매경](https://ko.wikipedia.org/wiki/듣고_쓰고_친해지는_DS_영어_삼매경).
 
 
 [230px](https://ko.wikipedia.org/wiki/파일:NDSL-English_Training-Korean_Version.png "wikilink")  **듣고 쓰고 친해지는 DS 영어 삼매경**()은 [닌텐도 DS용으로](../Page/닌텐도_DS.md "wikilink") 개발된 사용자의 [영어](../Page/영어.md "wikilink") 학습을 목적으로 한 교육용 [게임](../Page/게임.md "wikilink")이다. [일본](../Page/일본.md "wikilink")에서는 [2006년](../Page/2006년.md "wikilink") [1월 26일](../Page/1월_26일.md "wikilink"), [유럽](../Page/유럽.md "wikilink")에서는 [2006년](../Page/2006년.md "wikilink") [10월 27일에](../Page/10월_27일.md "wikilink") 발매되었다. [대한민국](../Page/대한민국.md "wikilink")에서는 [2007년](../Page/2007년.md "wikilink") [1월 18일](../Page/1월_18일.md "wikilink") 발매되었으며, 판매되는 가격은 33,000원이다.

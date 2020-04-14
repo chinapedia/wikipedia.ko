@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [D. H. ](https://ko.wikipedia.org/wiki/D._H._).
+> This article is converted from Wikipedia: [D. H. 로런스](https://ko.wikipedia.org/wiki/D._H._로런스).
 
 
 **데이비드 허버트 로렌스**(, [1885년](../Page/1885년.md "wikilink") [9월 11일](../Page/9월_11일.md "wikilink") \~ [1930년](../Page/1930년.md "wikilink") [3월 2일](../Page/3월_2일.md "wikilink"))는 [영국](../Page/영국.md "wikilink")의 [소설가](https://ko.wikipedia.org/wiki/소설가 "wikilink"), [시인](https://ko.wikipedia.org/wiki/시인 "wikilink"), 문학평론가이다.

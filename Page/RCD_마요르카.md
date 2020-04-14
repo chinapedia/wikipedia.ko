@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [RCD ](https://ko.wikipedia.org/wiki/RCD_).
+> This article is converted from Wikipedia: [RCD 마요르카](https://ko.wikipedia.org/wiki/RCD_마요르카).
 
 
 **RCD 마요르카**()는 [마요르카 섬에](https://ko.wikipedia.org/wiki/마요르카_섬 "wikilink") 있는 [손 모시](../Page/에스타디_데_손_모시.md "wikilink") 경기장을 홈 구장으로 하는 [스페인](../Page/스페인.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다. 현재 감독은 [빈센테 모레노이다](https://ko.wikipedia.org/wiki/빈센테_모레노 "wikilink").

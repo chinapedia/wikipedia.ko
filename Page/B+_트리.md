@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [B+ ](https://ko.wikipedia.org/wiki/B+_).
+> This article is converted from Wikipedia: [B+ 트리](https://ko.wikipedia.org/wiki/B+_트리).
 
 
 [thumb](https://ko.wikipedia.org/wiki/파일:Bplustree.png "wikilink") **B+ 트리**(Quaternary Tree라고도 알려져 있음)는 [컴퓨터 과학용어로](../Page/컴퓨터_과학.md "wikilink"), 키에 의해서 각각 식별되는 레코드의 효율적인 삽입, 검색과 삭제를 통해 정렬된 데이터를 표현하기 위한 [트리자료구조](https://ko.wikipedia.org/wiki/트리자료구조 "wikilink")의 일종이다.

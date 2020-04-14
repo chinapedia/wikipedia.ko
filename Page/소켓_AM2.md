@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ AM2](https://ko.wikipedia.org/wiki/_AM2).
+> This article is converted from Wikipedia: [소켓 AM2](https://ko.wikipedia.org/wiki/소켓_AM2).
 
 
 **소켓 AM2**는 [AMD](https://ko.wikipedia.org/wiki/AMD "wikilink")가 데스크톱 [프로세서를](../Page/중앙_처리_장치.md "wikilink") 위해 개발한 [CPU 소켓이다](../Page/CPU_소켓.md "wikilink"). [2006년](../Page/2006년.md "wikilink") [5월 23일에](../Page/5월_23일.md "wikilink") 공개되었으며 이전 소켓이었던 [소켓 939와](../Page/소켓_939.md "wikilink") [소켓 754를](../Page/소켓_754.md "wikilink") 대체한다. 소켓 AM2의 원래 이름은 소켓 M2였는데 [사이릭스](../Page/사이릭스.md "wikilink") MII 프로세서와의 이름과 동일하여 충돌을 피하기 위해 소켓 AM2로 이름이 변경된 바 있다.

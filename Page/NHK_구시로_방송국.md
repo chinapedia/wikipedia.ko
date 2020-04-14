@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [NHK  ](https://ko.wikipedia.org/wiki/NHK__).
+> This article is converted from Wikipedia: [NHK 구시로 방송국](https://ko.wikipedia.org/wiki/NHK_구시로_방송국).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:NHK_Kushiro_broadcasting_station.JPG "wikilink") **NHK 구시로 방송국**(釧路 放送局)은 [구시로 지청](../Page/구시로_지청.md "wikilink"),[네무로 지청을](../Page/네무로_지청.md "wikilink") 방송구역으로 하는 NHK의 지역방송국이며 중파·FM라디오·텔레비전 방송을 담당하고 있다.

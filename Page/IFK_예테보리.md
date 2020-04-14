@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [IFK ](https://ko.wikipedia.org/wiki/IFK_).
+> This article is converted from Wikipedia: [IFK 예테보리](https://ko.wikipedia.org/wiki/IFK_예테보리).
 
 
-**IFK 예테보리** ()는 [스웨덴](../Page/스웨덴.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽으로 [예테보리](../Page/예테보리.md "wikilink")를 연고지로 하고 있다. 클럽은 때때로 간단히 **IFK**로 불리기도 한다. IFK 예테보리는 [1904년](../Page/1904년.md "wikilink") [10월 4일에](../Page/10월_4일.md "wikilink") 창단되어, 18번의 리그 우승, 4번의 컵 대회 우승, 2번의 [UEFA컵](https://ko.wikipedia.org/wiki/UEFA컵 "wikilink") 우승을 기록하였다.
+**IFK 예테보리**()는 [스웨덴](../Page/스웨덴.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽으로 [예테보리](../Page/예테보리.md "wikilink")를 연고지로 하고 있다. 클럽은 때때로 간단히 **IFK**로 불리기도 한다. IFK 예테보리는 [1904년](../Page/1904년.md "wikilink") [10월 4일에](../Page/10월_4일.md "wikilink") 창단되어, 18번의 리그 우승, 4번의 컵 대회 우승, 2번의 [UEFA컵](https://ko.wikipedia.org/wiki/UEFA컵 "wikilink") 우승을 기록하였다.
 
 [말뫼 FF와](../Page/말뫼_FF.md "wikilink") [AIK 솔나와](https://ko.wikipedia.org/wiki/AIK_솔나 "wikilink") 함께 IFK 예테보리는 스웨덴 축구 클럽 가운데 "빅3"로 여겨진다. 이 세팀이 총 43회 리그 우승을 하였다. 이 클럽은 [스칸디나비아 반도의](https://ko.wikipedia.org/wiki/스칸디나비아_반도 "wikilink") 축구 클럽 가운데 유럽 대회를 우승한 유일한 팀이다. IFK는 [1982년](../Page/1982년.md "wikilink")과 [1987년](../Page/1987년.md "wikilink")에 [UEFA컵](https://ko.wikipedia.org/wiki/UEFA컵 "wikilink")을 우승하였다.
 

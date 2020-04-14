@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  FC](https://ko.wikipedia.org/wiki/__FC).
+> This article is converted from Wikipedia: [스토크 시티 FC](https://ko.wikipedia.org/wiki/스토크_시티_FC).
 
 
 **스토크 시티 풋볼 클럽**()은 [스토크온트렌트](../Page/스토크온트렌트.md "wikilink")에 위치한 [잉글랜드](../Page/잉글랜드.md "wikilink")의 프로 [축구](../Page/축구.md "wikilink") 클럽이다. 현재 [EFL](../Page/EFL_챔피언십.md "wikilink") 프리미어 리그 소속이다. 이 팀은 [1863년](../Page/1863년.md "wikilink")에 창단되었다. [노츠 카운티에](../Page/노츠_카운티_FC.md "wikilink") 이어 세계에서 두 번째로 오래된 프로 축구 클럽이다.

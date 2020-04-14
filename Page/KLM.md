@@ -36,7 +36,6 @@
 <li><a href="../Page/시티제트.md" title="wikilink">시티제트</a></li>
 </ul></td>
 <td><ul>
-<li><a href="../Page/아드리아_항공.md" title="wikilink">아드리아 항공</a> <small>(<a href="https://ko.wikipedia.org/wiki/스타_얼라이언스" title="wikilink">스타 얼라이언스</a>)</small></li>
 <li><a href="../Page/아르헨티나_항공.md" title="wikilink">아르헨티나 항공</a> <small>(<a href="../Page/스카이팀.md" title="wikilink">스카이팀</a>)</small></li>
 <li><a href="../Page/아에로멕시코.md" title="wikilink">아에로멕시코</a> <small>(<a href="../Page/스카이팀.md" title="wikilink">스카이팀</a>)</small></li>
 <li><a href="../Page/아에로플로트.md" title="wikilink">아에로플로트</a> <small>(<a href="../Page/스카이팀.md" title="wikilink">스카이팀</a>)</small></li>
@@ -51,9 +50,9 @@
 <li><a href="../Page/에어_프랑스.md" title="wikilink">에어 프랑스</a> <small>(<a href="../Page/스카이팀.md" title="wikilink">스카이팀</a>)</small></li>
 <li><a href="../Page/에티하드_항공.md" title="wikilink">에티하드 항공</a></li>
 <li><a href="../Page/오만_항공.md" title="wikilink">오만 항공</a></li>
+<li><a href="../Page/우크라이나_국제항공.md" title="wikilink">우크라이나 국제항공</a></li>
 </ul></td>
 <td><ul>
-<li><a href="../Page/우크라이나_국제항공.md" title="wikilink">우크라이나 국제항공</a></li>
 <li><a href="https://ko.wikipedia.org/wiki/웨스트_제트" title="wikilink">웨스트 제트</a></li>
 <li><a href="https://ko.wikipedia.org/wiki/인셀_에어" title="wikilink">인셀 에어</a></li>
 <li><a href="../Page/전일본공수.md" title="wikilink">전일본공수</a> <small> (<a href="https://ko.wikipedia.org/wiki/스타_얼라이언스" title="wikilink">스타 얼라이언스</a>) </small></li>
@@ -76,7 +75,7 @@
 
 ## 보유 기종
 
-  - [2020년](../Page/2020년.md "wikilink") [1월](../Page/1월.md "wikilink") KLM은 다음과 같은 기종을 보유하고 있으며 평균 기령은 9.6년이다.\[3\]\[4\] [보잉](../Page/보잉.md "wikilink")이 대부분을 차지하고 있다.
+  - [2020년](../Page/2020년.md "wikilink") [3월](../Page/3월.md "wikilink") KLM은 다음과 같은 기종을 보유하고 있으며 평균 기령은 약 9.6년으로 [보잉](../Page/보잉.md "wikilink")이 대부분을 차지하고 있다.\[3\]\[4\]
 
 ### 현재 사용하는 기종
 
@@ -89,8 +88,6 @@
 | [보잉 737-700](../Page/보잉_737.md "wikilink")                       |
 | [보잉 737-800](../Page/보잉_737.md "wikilink")                       |
 | [보잉 737-900](../Page/보잉_737.md "wikilink")                       |
-| [보잉 747-400](../Page/보잉_747-400.md "wikilink")                   |
-| [보잉 747-400M](../Page/보잉_747-400.md "wikilink")                  |
 | [보잉 777-200ER](../Page/보잉_777.md "wikilink")                     |
 | [보잉 777-300ER](../Page/보잉_777.md "wikilink")                     |
 | [보잉 787-9](../Page/보잉_787_드림라이너.md "wikilink")                   |
@@ -100,6 +97,8 @@
 | 합계                                                               |
 
 ### 퇴역 기종
+
+  - KLM은 다음의 항공기를 보유, 운용하였거나 일부는 도입을 취소하였다.\[5\]\[6\]
 
 | <span style="color:white;">기종                                                         | <span style="color:white;">댓수 | <span style="color:white;">도입 년도 | <span style="color:white;">퇴역 년도                   | <span style="color:white;">대체 기종                                                                 | <span style="color:white;">비고                                   |
 | ------------------------------------------------------------------------------------- | ----------------------------- | -------------------------------- | -------------------------------------------------- | ------------------------------------------------------------------------------------------------ | --------------------------------------------------------------- |
@@ -114,15 +113,15 @@
 | [보잉 737-800](../Page/보잉_737.md "wikilink")                                            | 2                             | 2005년                            | 2007년                                              | 대체 기종 없음                                                                                         |                                                                 |
 | [보잉 747-200B](../Page/보잉_747.md "wikilink")                                           | 6                             | 1971년                            | 2003년                                              | [보잉 747-400](../Page/보잉_747-400.md "wikilink")                                                   |                                                                 |
 | 5                                                                                     | 상층부 연장화 후 재 운항                |                                  |                                                    |                                                                                                  |                                                                 |
-| 1                                                                                     | 1971년                         | 1997년                            | 대체 기종 없음                                           | [테네리페 참사로](https://ko.wikipedia.org/wiki/테네리페_참사 "wikilink") 파괴                                  |                                                                 |
+| 1                                                                                     | 1971년                         | 1977년                            | 대체 기종 없음                                           | [테네리페 참사로](https://ko.wikipedia.org/wiki/테네리페_참사 "wikilink") 파괴                                  |                                                                 |
 | [보잉 747-200B/SUD](../Page/보잉_747.md "wikilink")                                       | 3                             | 1985년                            | 2003년                                              | [보잉 747-400](../Page/보잉_747-400.md "wikilink")                                                   |                                                                 |
 | 2                                                                                     | 퇴역 후, 화물기로 개조 후 KLM 카고로 편입    |                                  |                                                    |                                                                                                  |                                                                 |
 | [보잉 747-200B/SUD/SF](../Page/보잉_747.md "wikilink")                                    | 2                             | 1998년                            | 2003년                                              | [보잉 747-400ERF](../Page/보잉_747-400.md "wikilink")                                                |                                                                 |
 | [보잉 747-200M](../Page/보잉_747.md "wikilink")                                           | 5                             | 1978년                            | 1980년                                              | [보잉 747-400M](../Page/보잉_747-400.md "wikilink")                                                  | 상층부 연장화 후 재 운항                                                  |
 | [보잉 747-200M/SUD](../Page/보잉_747.md "wikilink")                                       | 5                             | 1981년                            | 2004년                                              | [보잉 747-400](../Page/보잉_747-400.md "wikilink")                                                   |                                                                 |
 | [보잉 747-300M](../Page/보잉_747.md "wikilink")                                           | 3                             | 1983년                            | 2004년                                              | [보잉 747-400M](../Page/보잉_747-400.md "wikilink")                                                  |                                                                 |
-| [보잉 747-400](../Page/보잉_747-400.md "wikilink")                                        | 3                             | 1989년                            | 2020년                                              | [보잉 787 드림라이너](../Page/보잉_787_드림라이너.md "wikilink")                                               |                                                                 |
-| [보잉 747-400M](../Page/보잉_747-400.md "wikilink")                                       | 11                            | 1989년                            | 2020년                                              | [보잉 787 드림라이너](../Page/보잉_787_드림라이너.md "wikilink")                                               | 4대는 현재 예비용으로 저장                                                 |
+| [보잉 747-400](../Page/보잉_747-400.md "wikilink")                                        | 5                             | 1989년                            | 2020년                                              | [보잉 787 드림라이너](../Page/보잉_787_드림라이너.md "wikilink")                                               |                                                                 |
+| [보잉 747-400M](../Page/보잉_747-400.md "wikilink")                                       | 17                            | 1989년                            | 2020년                                              | [보잉 787 드림라이너](../Page/보잉_787_드림라이너.md "wikilink")                                               | 4대는 현재 예비용으로 저장                                                 |
 | [보잉 767-300ER](../Page/보잉_767.md "wikilink")                                          | 12                            | 1995년                            | 2007년                                              | [에어버스 A330](../Page/에어버스_A330.md "wikilink")                                                     |                                                                 |
 | [맥도넬더글러스 DC-9-10](https://ko.wikipedia.org/wiki/맥도넬더글러스_DC-9 "wikilink")              | 6                             | 1966년                            | 1989년                                              | [보잉 737 Classic](../Page/보잉_737.md "wikilink")                                                   |                                                                 |
 | [맥도넬더글러스 DC-9-30](https://ko.wikipedia.org/wiki/맥도넬더글러스_DC-9 "wikilink")              | 19                            | 1967년                            | 1989년                                              | [보잉 737 Classic](../Page/보잉_737.md "wikilink")                                                   |                                                                 |
@@ -158,15 +157,15 @@
 | [콘베어 340](https://ko.wikipedia.org/wiki/콘베어_340 "wikilink")                           | 불명                            | 1953년                            | 1964년                                              | [더글러스 DC-8](../Page/더글러스_DC-8.md "wikilink")                                                     |                                                                 |
 |                                                                                       |                               |                                  |                                                    |                                                                                                  |                                                                 |
 
-**KLM의 퇴역 기종\[5\]\[6\]**
+**KLM의 퇴역 기종**
 
 ## 자회사
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:KLM_hoofdkantoor_Amstelveen.jpg "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:KLM_Boeing_747_PH-BFH_at_LAX_2011.jpg "wikilink")\]\]
+[섬네일](https://ko.wikipedia.org/wiki/파일:KLM_hoofdkantoor_Amstelveen.jpg "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:KLM_Boeing_747_PH-BFH_at_LAX_2011.jpg "wikilink")\]\] (퇴역)
 
 ### KLM 아시아
 
-  - **KLM 아시아**()는 KLM의 지분에 등록된 자회사이자 [중화민국](../Page/중화민국.md "wikilink")의 항공사로 항공기를 운항하기 위해 [1995년](../Page/1995년.md "wikilink")에 설립되어 [타이완 타오위안 국제공항에서](https://ko.wikipedia.org/wiki/타이완_타오위안_국제공항 "wikilink") KLM의 보유하고 있는 목적지까지 권한을 손상시키지 않았다. KLM 아시아 운영이 없으나 항공기는 여전히 KLM의 제복을 적용했다. KLM 아시아는 [중화민국](../Page/중화민국.md "wikilink") 동일한 목적으로 취항하는 KLM의 자회사로 또한 이와 별도로 운영하는 회사는 [일본 아시아 항공](../Page/일본_아시아_항공.md "wikilink") ([일본항공](../Page/일본항공.md "wikilink")에 합병), [에어프랑스 아시아](https://ko.wikipedia.org/wiki/에어프랑스 "wikilink"), [영국 아시아 항공](../Page/영국_아시아_항공.md "wikilink"), [스위스 아시아 항공이](../Page/스위스_국제항공.md "wikilink") 있다. KLM 아시아의 제복은 기존 KLM 도색을 사용하고 있으며 네덜란드 크라운 대신 이와는 별도로 KLM 아시아 로고를 갖추고 있다. KLM 아시아는 총 대수는 14대로 당시 보유 기종은 [보잉 747-400M](../Page/보잉_747.md "wikilink"), [보잉 777-200ER](../Page/보잉_777.md "wikilink"), [보잉 777-300ER이](../Page/보잉_777.md "wikilink") 있다.
+  - **KLM 아시아**()는 KLM의 지분에 등록된 자회사이자 [중화민국](../Page/중화민국.md "wikilink")의 항공사로 항공기를 운항하기 위해 [1995년](../Page/1995년.md "wikilink")에 설립되어 [타이완 타오위안 국제공항에서](https://ko.wikipedia.org/wiki/타이완_타오위안_국제공항 "wikilink") KLM의 보유하고 있는 목적지까지 권한을 손상시키지 않았다. KLM 아시아 운영이 없으나 항공기는 여전히 KLM의 제복을 적용했다. KLM 아시아는 [중화민국](../Page/중화민국.md "wikilink") 동일한 목적으로 취항하는 KLM의 자회사로 또한 이와 별도로 운영하는 회사는 [일본 아시아 항공](../Page/일본_아시아_항공.md "wikilink") ([일본항공](../Page/일본항공.md "wikilink")에 합병), [에어프랑스 아시아](https://ko.wikipedia.org/wiki/에어프랑스 "wikilink"), [영국 아시아 항공](../Page/영국_아시아_항공.md "wikilink"), [스위스 아시아 항공이](../Page/스위스_국제항공.md "wikilink") 있다. KLM 아시아의 제복은 기존 KLM 도색을 사용하고 있으며 네덜란드 크라운 대신 이와는 별도로 KLM 아시아 로고를 갖추고 있다. KLM 아시아는 총 대수는 14대로 당시 보유 기종은 [보잉 777-200ER](../Page/보잉_777.md "wikilink"), [보잉 777-300ER이](../Page/보잉_777.md "wikilink") 있다.
 
 ### KLM 카고
 
@@ -180,11 +179,11 @@
 
   - [1977년](../Page/1977년.md "wikilink") [3월 27일에](../Page/3월_27일.md "wikilink") [스페인](../Page/스페인.md "wikilink")령 [카나리아 제도의](../Page/카나리아_제도.md "wikilink") [테네리페 섬에서](https://ko.wikipedia.org/wiki/테네리페_섬 "wikilink") 일어난 [팬암-KLM 충돌사고로](https://ko.wikipedia.org/wiki/테네리페_참사 "wikilink") 583명이 사망했고 61명이 부상당하는 등 항공 역사상 가장 참혹한 사고로 기록되었다. 이 사고로 KLM에 타고 있던 승객과 승무원 전원 사망했다.
   - [세계 제2차 대전중에](https://ko.wikipedia.org/wiki/세계_제2차_대전 "wikilink") 벌어진 [KLM 777편 격추 사고로](https://ko.wikipedia.org/wiki/KLM_777편_격추_사고 "wikilink") 이로 인해 [DC-3](https://ko.wikipedia.org/wiki/DC-3 "wikilink")기의 탑승객, 승무원 전원 사망하였다.
-  - [2020년](../Page/2020년.md "wikilink") [2월 12일](../Page/2월_12일.md "wikilink") [암스테르담에서](https://ko.wikipedia.org/wiki/스히폴_국제공항 "wikilink") [인천으로](https://ko.wikipedia.org/wiki/인천_국제공항 "wikilink") 오는 기내에서(KL855편) [코로나19로](https://ko.wikipedia.org/wiki/코로나바이러스감염증-19 "wikilink") 인해 승객용 화장실에 **'승무원 전용 화장실**'이라고 써 논란이 있었다.
+  - [2020년](../Page/2020년.md "wikilink") [2월 12일](../Page/2월_12일.md "wikilink") [암스테르담에서](https://ko.wikipedia.org/wiki/스히폴_국제공항 "wikilink") [인천으로](https://ko.wikipedia.org/wiki/인천국제공항 "wikilink") 오는 기내에서(KL855편) [코로나19로](https://ko.wikipedia.org/wiki/코로나바이러스감염증-19 "wikilink") 인해 승객용 화장실에 **'승무원 전용 화장실**'이라고 써 논란이 됐었다.
 
 ## 사진
 
-파일:KLM A330-200 PH-AOD @ Amsterdam Airport Schiphol.jpg|KLM의 [에어버스 A330-200](../Page/에어버스_A330.md "wikilink") 파일:KLM A330-203 (PH-AOK) landing at Amsterdam Airport Schiphol.jpg|KLM의 [에어버스 A330-200](../Page/에어버스_A330.md "wikilink") 파일:KLM Boeing 737-800 PH-BXL LHR 2011-10-2.png|KLM의 [보잉 737-800](../Page/보잉_737.md "wikilink") 파일:KLM Boeing 737-800 PH-BXH 1324037.jpg|KLM의 [보잉 737-800](../Page/보잉_737.md "wikilink") 파일:747landedschipholok.jpg|KLM의 [보잉 747-400](../Page/보잉_747.md "wikilink") 파일:KLM Boeing 747-400 SXM Bidini.jpg|KLM의 [보잉 747-400](../Page/보잉_747.md "wikilink") 파일:KLM Boeing 747-400 PH-BFC departing KUL.jpg|KLM 아시아 소속 [보잉 747-400M](../Page/보잉_747.md "wikilink") 파일:KLM Cargo Boeing 747-400ERF-SCD, PH-CKC, SIN.jpg|KLM 카고 소속 [보잉 747-400ERF](../Page/보잉_747.md "wikilink") 파일:KLM Boeing 777-200ER Closeup PH-BQO YUL.jpg|KLM의 [보잉 777-200ER](../Page/보잉_777.md "wikilink") 파일:KLM Boeing 777-300ER Meulemans.jpg|KLM의 [보잉 777-300ER](../Page/보잉_777.md "wikilink") 파일:KLM Boeing 777-300ER PH-BVA SIN 2012-1-2.png|KLM의 [보잉 777-300ER](../Page/보잉_777.md "wikilink") 파일:KLM Boeing777-306ER-skyteam PH-BVD.JPG|[스카이팀](../Page/스카이팀.md "wikilink") 도색을 적용한 KLM의 [보잉 777-300ER](../Page/보잉_777.md "wikilink") 파일:Air France & KLM vertical stabilizers.jpg|[에어프랑스-KLM](https://ko.wikipedia.org/wiki/에어프랑스-KLM "wikilink")과 합병 후 [에어프랑스](https://ko.wikipedia.org/wiki/에어프랑스 "wikilink") 마크와 KLM 마크
+파일:KLM A330-200 PH-AOD @ Amsterdam Airport Schiphol.jpg|KLM의 [에어버스 A330-200](../Page/에어버스_A330.md "wikilink") 파일:KLM A330-203 (PH-AOK) landing at Amsterdam Airport Schiphol.jpg|KLM의 [에어버스 A330-200](../Page/에어버스_A330.md "wikilink") 파일:KLM Boeing 737-800 PH-BXL LHR 2011-10-2.png|KLM의 [보잉 737-800](../Page/보잉_737.md "wikilink") 파일:KLM Boeing 737-800 PH-BXH 1324037.jpg|KLM의 [보잉 737-800](../Page/보잉_737.md "wikilink") 파일:KLM Cargo Boeing 747-400ERF-SCD, PH-CKC, SIN.jpg|KLM 카고 소속 [보잉 747-400ERF](../Page/보잉_747.md "wikilink") 파일:KLM Boeing 777-200ER Closeup PH-BQO YUL.jpg|KLM의 [보잉 777-200ER](../Page/보잉_777.md "wikilink") 파일:KLM Boeing 777-300ER Meulemans.jpg|KLM의 [보잉 777-300ER](../Page/보잉_777.md "wikilink") 파일:KLM Boeing 777-300ER PH-BVA SIN 2012-1-2.png|KLM의 [보잉 777-300ER](../Page/보잉_777.md "wikilink") 파일:KLM Boeing777-306ER-skyteam PH-BVD.JPG|[스카이팀](../Page/스카이팀.md "wikilink") 도색을 적용한 KLM의 [보잉 777-300ER](../Page/보잉_777.md "wikilink") 파일:Air France & KLM vertical stabilizers.jpg|[에어프랑스-KLM](https://ko.wikipedia.org/wiki/에어프랑스-KLM "wikilink")과 합병 후 [에어프랑스](https://ko.wikipedia.org/wiki/에어프랑스 "wikilink") 마크와 KLM 마크
 
 ## 각주
 

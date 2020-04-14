@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KBS N ](https://ko.wikipedia.org/wiki/KBS_N_).
+> This article is converted from Wikipedia: [KBS N 라이프](https://ko.wikipedia.org/wiki/KBS_N_라이프).
 
 
 **KBS N 라이프**()는 [KBS N의](https://ko.wikipedia.org/wiki/KBS_N "wikilink") 한 채널로서 [인물](../Page/사람.md "wikilink"), [역사](../Page/역사.md "wikilink")와 [다큐멘터리](../Page/다큐멘터리_텔레비전_프로그램.md "wikilink") [프로그램을](../Page/텔레비전_프로그램.md "wikilink") 주로 편성하는 [텔레비전](../Page/텔레비전.md "wikilink") [채널이다](https://ko.wikipedia.org/wiki/텔레비전_채널 "wikilink").
@@ -12,8 +12,10 @@
 
 ## 슬로건
 
+  - 대한민국 시사·교양 ·다큐멘터리 전문채널 KBS 위성
   - 한민족 네트워크/한국문화 전문채널
   - 한국인의 문화채널
+  - 교양정보 채널
   - Leader's Choice
   - Happy Together
   - 언제나 당신 곁에
@@ -24,6 +26,7 @@
   - 1998년 1월 5일 (구) KBS 위성 2TV로 변경
   - [2002년](../Page/2002년.md "wikilink") [2월 27일](../Page/2월_27일.md "wikilink") (구) **KBS 코리아**로 폐국
   - [2006년](../Page/2006년.md "wikilink") [11월 1일](../Page/11월_1일.md "wikilink") (구) **KBS 프라임**으로 폐국 (구) KBS SKY.명칭로변경.KBSN.합니다
+  - [2013년](../Page/2013년.md "wikilink") [1월 1일](../Page/1월_1일.md "wikilink") (구) **KBS 프라임**으로 채널 전환 / **KBS W**으로 개국
   - [2015년](../Page/2015년.md "wikilink") [3월 8일](../Page/3월_8일.md "wikilink") **KBS N 라이프**로 채널 변경 개국
 
 ## 개요
@@ -38,6 +41,7 @@
   - [2015년](../Page/2015년.md "wikilink") [11월 21일](../Page/11월_21일.md "wikilink") olleh tv 채널281번으로 SD방송이 재개되었으며, 이듬해 [2016년](../Page/2016년.md "wikilink") [3월 23일에](../Page/3월_23일.md "wikilink") 기존 SD방송이 HD방송으로 전환되었다.
   - [2018년](../Page/2018년.md "wikilink") [12월 28일](../Page/12월_28일.md "wikilink") LG U Plus TV 채널147번으로 방송이 재개되었다.
   - [2019년](../Page/2019년.md "wikilink") [7월 1일](../Page/7월_1일.md "wikilink") SK BTV 채널229번으로 방송이 재개되었다.
+  - [2020년](../Page/2020년.md "wikilink") [3월 2일](../Page/3월_2일.md "wikilink") 케이블TV방송 채널번호으로 방송이 재개되었다.
 
 ## 프로그램
 
@@ -71,14 +75,15 @@
   - [징비록](https://ko.wikipedia.org/wiki/징비록_\(드라마\) "wikilink")
   - 장희빈
   - [용의 눈물](../Page/용의_눈물.md "wikilink")
+  - 대왕의 꿈
 
-## 참조
+참조
 
 ## 외부 링크
 
   - [KBS N LIFE 홈페이지](http://www.kbsn.co.kr/life/index.do)
 
-[분류:한국방송공사의 텔레비전 네트워크](https://ko.wikipedia.org/wiki/분류:한국방송공사의_텔레비전_네트워크 "wikilink")
+[분류:한국방송공사의 텔레비전 네트워크](https://ko.wikipedia.org/wiki/분류:한국방송공사의_텔레비전_네트워크 "wikilink") [분류:대한민국의 텔레비전 케이블 방송국](https://ko.wikipedia.org/wiki/분류:대한민국의_텔레비전_케이블_방송국 "wikilink")
 
 1.
 2.

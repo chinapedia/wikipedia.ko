@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TV ](https://ko.wikipedia.org/wiki/TV_).
+> This article is converted from Wikipedia: [TV 가나자와](https://ko.wikipedia.org/wiki/TV_가나자와).
 
 
 [150px](https://ko.wikipedia.org/wiki/파일:Ktk_logo.svg "wikilink") **TV 가나자와**는 [1990년](../Page/1990년.md "wikilink") [4월 1일](../Page/4월_1일.md "wikilink") [이시카와현](../Page/이시카와현.md "wikilink")의 3번째 민영방송국으로 개국했다.

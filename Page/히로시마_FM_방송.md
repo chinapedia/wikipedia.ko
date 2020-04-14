@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ FM ](https://ko.wikipedia.org/wiki/_FM_).
+> This article is converted from Wikipedia: [히로시마 FM 방송](https://ko.wikipedia.org/wiki/히로시마_FM_방송).
 
 
 **히로시마 FM방송**은 일본의 FM라디오 방송국으로 [1982년](../Page/1982년.md "wikilink") [12월 5일](../Page/12월_5일.md "wikilink") 개국했으며 [히로시마현](../Page/히로시마현.md "wikilink")에서 방송을 실시하고 있다.

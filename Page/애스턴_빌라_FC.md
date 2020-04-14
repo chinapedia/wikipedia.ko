@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  FC](https://ko.wikipedia.org/wiki/__FC).
+> This article is converted from Wikipedia: [애스턴 빌라 FC](https://ko.wikipedia.org/wiki/애스턴_빌라_FC).
 
 
 **애스턴 빌라 풋볼 클럽**()은 [버밍엄](../Page/버밍엄.md "wikilink") [애스턴을](https://ko.wikipedia.org/wiki/애스턴_\(버밍엄\) "wikilink") 연고지로 하는 [잉글랜드](../Page/잉글랜드.md "wikilink")의 프로 [축구](../Page/축구.md "wikilink") 클럽이다. 이 팀은 [1874년](../Page/1874년.md "wikilink")에 창단되었고, 홈구장인 [빌라 파크는](../Page/빌라_파크.md "wikilink") [1897년](../Page/1897년.md "wikilink")부터 쓰고 있다.

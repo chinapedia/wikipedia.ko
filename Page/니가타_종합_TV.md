@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  TV](https://ko.wikipedia.org/wiki/__TV).
+> This article is converted from Wikipedia: [니가타 종합 TV](https://ko.wikipedia.org/wiki/니가타_종합_TV).
 
 
 [200px](https://ko.wikipedia.org/wiki/파일:Niigata_Nst_logo.svg "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:JONH-TV.JPG "wikilink") **니가타 종합 TV**는 [1968년](../Page/1968년.md "wikilink") [12월 16일](../Page/12월_16일.md "wikilink") [니가타현](../Page/니가타현.md "wikilink")의 2번째 민영방송국으로 개국했다.

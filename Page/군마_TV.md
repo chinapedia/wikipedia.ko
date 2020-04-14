@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ TV](https://ko.wikipedia.org/wiki/_TV).
+> This article is converted from Wikipedia: [군마 TV](https://ko.wikipedia.org/wiki/군마_TV).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Gunma_Television.jpg "wikilink") **군마 TV**는 [1971년](../Page/1971년.md "wikilink") [4월 16일](../Page/4월_16일.md "wikilink") 간토지방의 첫 번째 독립 UHF방송국으로 개국했다. 약칭은 GTV, 콜사인은 JOML-DTV이다.

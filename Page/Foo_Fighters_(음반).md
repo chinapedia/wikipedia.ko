@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Foo Fighters \(\)](https://ko.wikipedia.org/wiki/Foo_Fighters_\(\)).
+> This article is converted from Wikipedia: [Foo Fighters \(음반\)](https://ko.wikipedia.org/wiki/Foo_Fighters_\(음반\)).
 
 
 《**Foo Fighters**》는 1995년에 발매된 [푸 파이터스의](../Page/푸_파이터스.md "wikilink") 데뷔 음반이다.

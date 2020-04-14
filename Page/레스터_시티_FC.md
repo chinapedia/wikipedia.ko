@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  FC](https://ko.wikipedia.org/wiki/__FC).
+> This article is converted from Wikipedia: [레스터 시티 FC](https://ko.wikipedia.org/wiki/레스터_시티_FC).
 
 
 **레스터 시티 풋볼 클럽**(, *레스터 시티 축구단*)은 [레스터](../Page/레스터.md "wikilink")를 연고지로 하는 [잉글랜드](../Page/잉글랜드.md "wikilink")의 프로 [축구](../Page/축구.md "wikilink") 클럽이다. 현재 잉글랜드 축구의 최상위 리그인 [잉글랜드 프리미어리그에](https://ko.wikipedia.org/wiki/잉글랜드_프리미어리그 "wikilink") 참가하고 있다. 2015-16 시즌 프리미어리그 우승을 차지하였다. [FA컵에서는](https://ko.wikipedia.org/wiki/FA컵_\(잉글랜드\) "wikilink") 결승에 4번이나 올라갔지만 한 번도 우승하지 못하였다. [풋볼 리그 컵에서는](https://ko.wikipedia.org/wiki/풋볼_리그_컵 "wikilink") 세 번 우승하였고, [풋볼 리그 챔피언십으로](https://ko.wikipedia.org/wiki/풋볼_리그_챔피언십 "wikilink") 개편되기 전의 2부 리그에서는 6회의 우승 기록을 가지고 있다.
@@ -81,7 +81,7 @@
 
 ## 클럽 상징
 
-[thumb에](https://ko.wikipedia.org/wiki/파일:LCFC_125_Years.png "wikilink") 사용되던 레스터 시티의 125주년 로고|150px\]\] [1948년 입었던 홈 유니폼 상의](https://ko.wikipedia.org/wiki/파일:LCFC1948shirt.jpg "wikilink") 레스터의 홈 유니폼은 [로얄 블루색을](https://ko.wikipedia.org/wiki/로얄_블루 "wikilink") 바탕으로 한다. 1983년 레스터 시티는 후원사 'Ind Coope'의 로고를 유니폼에 달고 뛰었다. 또 [영국](../Page/영국.md "wikilink")의 제과업체인 [워커스 크리스프는](https://ko.wikipedia.org/wiki/워커스_크리스프 "wikilink") 1987년부터 2001년까지 후원하며 오랜 인연을 맺었다. 문양에 [양지꽃](../Page/양지꽃.md "wikilink") 문양 도안에 여우의 머리가 그려져있는 모습은 1992년부터 꾸준히 사용됐다. 양지꽃은 [레스터](../Page/레스터.md "wikilink")의 [문장이기도](../Page/문장_\(상징\).md "wikilink") 하다. [2009-10 시즌에](https://ko.wikipedia.org/wiki/레스터_시티_FC_2009-10_시즌 "wikilink") 레스터 시티의 125주년을 기념하는 문양을 유니폼에 달고 뛰기도 했다. 홈 유니폼에 모든 스폰서 로고를 빼고 중앙에 125주년 문양만 달았다.\[41\]
+[1948년 입었던 홈 유니폼 상의](https://ko.wikipedia.org/wiki/파일:LCFC1948shirt.jpg "wikilink") 레스터의 홈 유니폼은 [로얄 블루색을](https://ko.wikipedia.org/wiki/로얄_블루 "wikilink") 바탕으로 한다. 1983년 레스터 시티는 후원사 'Ind Coope'의 로고를 유니폼에 달고 뛰었다. 또 [영국](../Page/영국.md "wikilink")의 제과업체인 [워커스 크리스프는](https://ko.wikipedia.org/wiki/워커스_크리스프 "wikilink") 1987년부터 2001년까지 후원하며 오랜 인연을 맺었다. 문양에 [양지꽃](../Page/양지꽃.md "wikilink") 문양 도안에 여우의 머리가 그려져있는 모습은 1992년부터 꾸준히 사용됐다. 양지꽃은 [레스터](../Page/레스터.md "wikilink")의 [문장이기도](../Page/문장_\(상징\).md "wikilink") 하다. [2009-10 시즌에](https://ko.wikipedia.org/wiki/레스터_시티_FC_2009-10_시즌 "wikilink") 레스터 시티의 125주년을 기념하는 문양을 유니폼에 달고 뛰기도 했다. 홈 유니폼에 모든 스폰서 로고를 빼고 중앙에 125주년 문양만 달았다.\[41\]
 
 ### 별명
 
@@ -725,7 +725,7 @@
 <td><p><a href="../Page/브렌던_로저스.md" title="wikilink">브렌던 로저스</a></p></td>
 </tr>
 <tr class="even">
-<td><p>수석코치</p></td>
+<td><p>수석 코치</p></td>
 <td><p> 크리스 데이비스</p></td>
 </tr>
 <tr class="odd">

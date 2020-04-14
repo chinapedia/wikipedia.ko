@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  FC](https://ko.wikipedia.org/wiki/__FC).
+> This article is converted from Wikipedia: [입스위치 타운 FC](https://ko.wikipedia.org/wiki/입스위치_타운_FC).
 
 
 **입스위치 타운 축구 클럽**(Ipswich Town Football Club)은 [잉글랜드](../Page/잉글랜드.md "wikilink") [서퍽주](https://ko.wikipedia.org/wiki/서퍽주 "wikilink")의 [입스위치](https://ko.wikipedia.org/wiki/입스위치 "wikilink")에 위치한 프로 [축구](../Page/축구.md "wikilink") 클럽이다. 2008년부터 입스위치는 [EFL 챔피언십에서](../Page/EFL_챔피언십.md "wikilink") 플레이하고 있는데, 2001-02 시즌이 [프리미어리그](https://ko.wikipedia.org/wiki/프리미어리그 "wikilink")에 참가했던 마지막 시즌이었다.

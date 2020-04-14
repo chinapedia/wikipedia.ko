@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [   A](https://ko.wikipedia.org/wiki/___A).
+> This article is converted from Wikipedia: [벨기에 퍼스트 디비전 A](https://ko.wikipedia.org/wiki/벨기에_퍼스트_디비전_A).
 
 
 **벨기에 프로 리그**는 [벨기에](../Page/벨기에.md "wikilink")의 최상위 축구 대회이다. 이 리그는 1895년에 설립되었고 [안더레흐트](https://ko.wikipedia.org/wiki/안더레흐트 "wikilink")가 34회 우승으로 가장 많이 우승한 팀이다.

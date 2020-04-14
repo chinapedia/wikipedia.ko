@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:AFC ](https://ko.wikipedia.org/wiki/:AFC_).
+> This article is converted from Wikipedia: [틀:AFC 아시안컵](https://ko.wikipedia.org/wiki/틀:AFC_아시안컵).
 
 
 <onlyinclude></onlyinclude>

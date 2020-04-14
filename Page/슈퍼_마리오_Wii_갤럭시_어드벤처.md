@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  Wii  ](https://ko.wikipedia.org/wiki/__Wii__).
+> This article is converted from Wikipedia: [슈퍼 마리오 Wii 갤럭시 어드벤처](https://ko.wikipedia.org/wiki/슈퍼_마리오_Wii_갤럭시_어드벤처).
 
 
 《**슈퍼 마리오 갤럭시**》(, )는 [닌텐도](../Page/닌텐도.md "wikilink")가 개발한 [Wii](../Page/Wii.md "wikilink")용 게임 소프트웨어로, [슈퍼 마리오 64와](../Page/슈퍼_마리오_64.md "wikilink") [슈퍼 마리오 선샤인의](../Page/슈퍼_마리오_선샤인.md "wikilink") 후속작이다. [일본](../Page/일본.md "wikilink")에서 [2007년](../Page/2007년.md "wikilink") [11월 1일](../Page/11월_1일.md "wikilink") 먼저 발매했으며, [대한민국](../Page/대한민국.md "wikilink")에서는 [2008년](../Page/2008년.md "wikilink") [9월 4일에](../Page/9월_4일.md "wikilink") 발매되었는데 [삼성 갤럭시와](../Page/삼성_갤럭시.md "wikilink") 유사한 [상표권](https://ko.wikipedia.org/wiki/상표권 "wikilink") 충돌([표절](../Page/표절.md "wikilink")) 문제가 있어 《**슈퍼 마리오 Wii 갤럭시 어드벤처**》로 바뀌어 발매되었다.

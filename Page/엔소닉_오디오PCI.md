@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ PCI](https://ko.wikipedia.org/wiki/_PCI).
+> This article is converted from Wikipedia: [엔소닉 오디오PCI](https://ko.wikipedia.org/wiki/엔소닉_오디오PCI).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Audiopci.jpg "wikilink") **[엔소닉](../Page/엔소닉.md "wikilink") 오디오PCI**(Ensoniq AudioPCI)는 1997년에 공개된 [PCI](../Page/PCI_버스.md "wikilink") 기반 [사운드 카드이다](../Page/사운드_카드.md "wikilink"). [크리에이티브 테크놀로지에](../Page/크리에이티브_테크놀로지.md "wikilink") 인수되기 전, 엔소닉의 마지막 사운드 카드 제품이다. 엔소닉 사운드스케이프가 완전한 기능의 고성능 제품을 제공한 반면, 오디오PCI는 매우 단순한, 낮은 가격의 제품으로 시스템 [OEM을](https://ko.wikipedia.org/wiki/OEM_생산 "wikilink") 매료시켰으며 엄청난 양이 팔려나갔다.

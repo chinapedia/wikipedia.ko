@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TX](https://ko.wikipedia.org/wiki/TX).
+> This article is converted from Wikipedia: [TX네트워크](https://ko.wikipedia.org/wiki/TX네트워크).
 
 
 [오른쪽](https://ko.wikipedia.org/wiki/파일:Txn_logo.svg "wikilink") **TXN**(TX Network, TX네트워크)은 [TV 도쿄를](../Page/TV_도쿄.md "wikilink") 중심 방송국(키 스테이션)으로 하는 텔레비전 방송국의 지역 민방 네트워크 가맹국이다.

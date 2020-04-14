@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [R12 HMS ](https://ko.wikipedia.org/wiki/R12_HMS_).
+> This article is converted from Wikipedia: [R12 HMS 허미즈](https://ko.wikipedia.org/wiki/R12_HMS_허미즈).
 
 
 <table>

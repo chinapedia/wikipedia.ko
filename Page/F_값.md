@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [F ](https://ko.wikipedia.org/wiki/F_).
+> This article is converted from Wikipedia: [F 값](https://ko.wikipedia.org/wiki/F_값).
 
 
 [right를](https://ko.wikipedia.org/wiki/파일:Aperture_diagram.svg "wikilink") 줄이면 f값이 늘어난다. 각 조리개는 이전의 광집량의 절반이다. 조리개의 실제 크기는 렌즈의 [초점거리](https://ko.wikipedia.org/wiki/초점거리 "wikilink")에 따라 달라질 수 있다.\]\] [광학](../Page/광학.md "wikilink")에서 **f값**은 기본적으로 (렌즈의 초점거리)/(입사동공의 직경)으로 계산된다. [입사동공](../Page/입사동공.md "wikilink")은 렌즈의 앞에서 본 [조리개](https://ko.wikipedia.org/wiki/조리개 "wikilink")의 상을 말한다. [조리개](https://ko.wikipedia.org/wiki/조리개 "wikilink")의 지름이 커지면 f값은 작아지고, 빛이 모이는 양은 많아진다(즉 밝아진다). [초점거리](https://ko.wikipedia.org/wiki/초점거리 "wikilink")가 길어질수록 같은 f값을 유지하기 위한 렌즈의 지름이 커져서 f값을 작게 제조하기 힘들어진다.

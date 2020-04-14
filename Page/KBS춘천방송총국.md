@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KBS](https://ko.wikipedia.org/wiki/KBS).
+> This article is converted from Wikipedia: [KBS춘천방송총국](https://ko.wikipedia.org/wiki/KBS춘천방송총국).
 
 
 **KBS춘천방송총국**(KBS春川放送總局)은 강원도 영서 북부지역을 방송권역으로 하는 한국방송공사의 지역방송총국이다. 지역총국 중 하나로, [KBS원주방송국](../Page/KBS원주방송국.md "wikilink"), [KBS강릉방송국](../Page/KBS강릉방송국.md "wikilink")을 하부에 두고 있다.
@@ -139,7 +139,7 @@
 <tr class="odd">
 <td><p><a href="../Page/KBS_뉴스광장.md" title="wikilink">KBS 뉴스광장 강원</a></p></td>
 <td><p>평일 15분</p></td>
-<td><p>월요일~금요일 오전 7시 35분 ~ 7시 45분</p></td>
+<td><p>월요일~금요일 아침 7시 35분 ~ 7시 45분</p></td>
 <td><p>송준규</p></td>
 </tr>
 <tr class="even">
@@ -149,16 +149,16 @@
 <td><p>정은숙</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/KBS_뉴스_7.md" title="wikilink">KBS 뉴스 7</a> <a href="https://ko.wikipedia.org/wiki/7시_오늘_강원" title="wikilink">강원</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/KBS_뉴스_7_강원" title="wikilink">KBS 뉴스 7 강원</a></p></td>
 <td><p>월~목 40분</p></td>
 <td><p>월~목 저녁 7시 ~ 7시 40분</p></td>
 <td><p>윤석황, 김수연</p></td>
 </tr>
 <tr class="even">
+<td><p><a href="../Page/KBS_뉴스_7.md" title="wikilink">KBS 뉴스 7 강원</a></p></td>
 <td><p>금요일 5분</p></td>
 <td><p>금요일 저녁 7시 20분 ~ 7시 25분</p></td>
 <td><p>김수연</p></td>
-<td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/KBS_뉴스_9.md" title="wikilink">KBS 뉴스 9 강원</a></p></td>
@@ -300,6 +300,7 @@
   - [송승룡](https://ko.wikipedia.org/wiki/송승룡 "wikilink") 취재부장
   - [조병관](https://ko.wikipedia.org/wiki/조병관 "wikilink") 화천팀장
   - [조휴연](https://ko.wikipedia.org/wiki/조휴연 "wikilink") 홍천팀장
+  - [이청초](https://ko.wikipedia.org/wiki/이청초 "wikilink")
 
 ## 각주
 
@@ -314,5 +315,5 @@
 
 [분류:1944년 설립](https://ko.wikipedia.org/wiki/분류:1944년_설립 "wikilink") [춘천](https://ko.wikipedia.org/wiki/분류:한국방송공사의_지역방송국 "wikilink") [분류:대한민국의 강원도 지상파 방송국](https://ko.wikipedia.org/wiki/분류:대한민국의_강원도_지상파_방송국 "wikilink") [분류:춘천시](https://ko.wikipedia.org/wiki/분류:춘천시 "wikilink")
 
-1.  [KBS 춘천총국, 30일부터 HD서비스..퇴계동 이전 (연합뉴스 2009년11월27일자)](http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=001&aid=0002996395)
-2.  [KBS춘천방송총국 오늘 풀 HD 방송 서비스 시작 (강원일보 2009년11월30일자)](http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=087&aid=0000235300)
+1.  [KBS 춘천총국, 30일부터 HD서비스..퇴계동 이전 (연합뉴스 2009년 11월 27일자)](http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=001&aid=0002996395)
+2.  [KBS춘천방송총국 오늘 풀 HD 방송 서비스 시작 (강원일보 2009년 11월 30일자)](http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=087&aid=0000235300)

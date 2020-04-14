@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [LS](https://ko.wikipedia.org/wiki/LS).
+> This article is converted from Wikipedia: [LS전선](https://ko.wikipedia.org/wiki/LS전선).
 
 
 **LS전선**(LS Cable & System)은 2008년 엘에스전선주식회사로 설립되어 LS그룹의 지주회사 전환 과정에서 LS엠트론과 분리되었다. LS전선은 에너지 전송을 위한 초고압 및 중·저압 전력케이블과 유·무선 정보통신을 위한 통신케이블에 이르기까지 국가의 기간산업인 전력망, 통신망 구축에 중추적인 역할을 담당해 오고 있다.

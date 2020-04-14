@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [: DSLR ](https://ko.wikipedia.org/wiki/:_DSLR_).
+> This article is converted from Wikipedia: [틀:삼성 DSLR 카메라](https://ko.wikipedia.org/wiki/틀:삼성_DSLR_카메라).
 
 
 <onlyinclude>{| class="toccolours" style="margin: 0.5em auto; clear: both;" |- align="center" | **[삼성](../Page/삼성디지털이미징.md "wikilink") [디지털 SLR 카메라](../Page/디지털_일안_반사식_카메라.md "wikilink") 발매 연보**

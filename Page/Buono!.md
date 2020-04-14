@@ -391,7 +391,7 @@
   - [Buono\! 포니캐년 공식 사이트 아티스트 페이지](https://web.archive.org/web/20101128173304/http://hp.ponycanyon.co.jp/pchp/cgi-bin/PCHPM.pl?TRGID=PCHP_ART_1010&CMD=DSP&DSP_ATSCOD=30631700)
   - [Buono\! 공식 유튜브 채널](https://www.youtube.com/user/buonochannel)
 
-[Buono\!](https://ko.wikipedia.org/wiki/분류:Buono! "wikilink") [분류:헬로\! 프로젝트](https://ko.wikipedia.org/wiki/분류:헬로!_프로젝트 "wikilink") [분류:포니캐년 음악가](https://ko.wikipedia.org/wiki/분류:포니캐년_음악가 "wikilink") [분류:일본의 팝 음악 그룹](https://ko.wikipedia.org/wiki/분류:일본의_팝_음악_그룹 "wikilink") [분류:일본의 걸 그룹](https://ko.wikipedia.org/wiki/분류:일본의_걸_그룹 "wikilink") [분류:유닛 음악 그룹](https://ko.wikipedia.org/wiki/분류:유닛_음악_그룹 "wikilink") [분류:2007년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2007년_결성된_음악_그룹 "wikilink") [분류:3인조 음악 그룹](https://ko.wikipedia.org/wiki/분류:3인조_음악_그룹 "wikilink")
+[Buono\!](https://ko.wikipedia.org/wiki/분류:Buono! "wikilink") [분류:헬로\! 프로젝트](https://ko.wikipedia.org/wiki/분류:헬로!_프로젝트 "wikilink") [분류:포니 캐년 음악가](https://ko.wikipedia.org/wiki/분류:포니_캐년_음악가 "wikilink") [분류:일본의 팝 음악 그룹](https://ko.wikipedia.org/wiki/분류:일본의_팝_음악_그룹 "wikilink") [분류:일본의 걸 그룹](https://ko.wikipedia.org/wiki/분류:일본의_걸_그룹 "wikilink") [분류:유닛 음악 그룹](https://ko.wikipedia.org/wiki/분류:유닛_음악_그룹 "wikilink") [분류:2007년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2007년_결성된_음악_그룹 "wikilink") [분류:3인조 음악 그룹](https://ko.wikipedia.org/wiki/분류:3인조_음악_그룹 "wikilink")
 
 1.  본래 이탈리아어로 buono는 남성 명사의 단수로 사용되는 형용사로 있다. 따라서 이 유닛과 같은 복수의 여성을 형용하기 위해서는 buono는 사용되지 않는다. 복수의 여성을 "맛있다"라고 형용하는 경우, 본래 이탈리아어로 사용되는 것은 buone이다.
 2.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ TV ](https://ko.wikipedia.org/wiki/_TV_).
+> This article is converted from Wikipedia: [삿포로 TV 방송](https://ko.wikipedia.org/wiki/삿포로_TV_방송).
 
 
 **삿포로TV방송**은 [1959년](../Page/1959년.md "wikilink") [4월 1일](../Page/4월_1일.md "wikilink") [홋카이도](../Page/홋카이도.md "wikilink")의 2번째 민영 텔레비전 방송국으로 개국했다.

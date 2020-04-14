@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ABC \( \)](https://ko.wikipedia.org/wiki/ABC_\(_\)).
+> This article is converted from Wikipedia: [ABC \(미국의 방송사\)](https://ko.wikipedia.org/wiki/ABC_\(미국의_방송사\)).
 
 
 **미국방송회사**(美國放送協會)()는 [미국](../Page/미국.md "wikilink")의 [텔레비전](../Page/텔레비전.md "wikilink"), [라디오](../Page/라디오.md "wikilink") 방송을 운영하는 방송사이다. [1948년](../Page/1948년.md "wikilink") [4월 19일에](../Page/4월_19일.md "wikilink") 텔레비전 방송을 시작하였다. 현재 [월트 디즈니 컴퍼니가](../Page/월트_디즈니_컴퍼니.md "wikilink") 소유하고 있으며, 월트 디즈니 텔레비전에 속해있다.

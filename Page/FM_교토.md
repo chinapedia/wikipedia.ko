@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FM ](https://ko.wikipedia.org/wiki/FM_).
+> This article is converted from Wikipedia: [FM 교토](https://ko.wikipedia.org/wiki/FM_교토).
 
 
 **FM교토**는 일본의 FM라디오 방송국으로 [교토부](../Page/교토부.md "wikilink")에서 방송을 실시하고 있다.

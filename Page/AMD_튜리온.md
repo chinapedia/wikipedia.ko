@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [AMD ](https://ko.wikipedia.org/wiki/AMD_).
+> This article is converted from Wikipedia: [AMD 튜리온](https://ko.wikipedia.org/wiki/AMD_튜리온).
 
 
 **AMD 튜리온**(AMD Turion)은 [AMD](https://ko.wikipedia.org/wiki/AMD "wikilink")가 자사의 [x86-64](https://ko.wikipedia.org/wiki/x86-64 "wikilink") 저전력 모바일 [프로세서](https://ko.wikipedia.org/wiki/프로세서 "wikilink")(코드명 K8L)에 적용하는 브랜드이다.\[1\] 튜리온 64와 튜리온 64 X2/울트라 프로세서들은 [인텔](../Page/인텔.md "wikilink")의 모바일 프로세서들([펜티엄 M](../Page/펜티엄_M.md "wikilink"), [인텔 코어](../Page/인텔_코어.md "wikilink"), [인텔 코어 2](../Page/인텔_코어_2.md "wikilink") 프로세서)과 경쟁한다.

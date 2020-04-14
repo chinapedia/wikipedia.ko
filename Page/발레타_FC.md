@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
+> This article is converted from Wikipedia: [발레타 FC](https://ko.wikipedia.org/wiki/발레타_FC).
 
 
 **발레타 FC**는 [발레타](../Page/발레타.md "wikilink")를 연고로 하는 [몰타](../Page/몰타.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽으로 [타알리 국립경기장을](../Page/타알리_국립경기장.md "wikilink") 연고지로 하고 있다.

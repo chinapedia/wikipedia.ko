@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [LISTEN TO MY HEART \(\)](https://ko.wikipedia.org/wiki/LISTEN_TO_MY_HEART_\(\)).
+> This article is converted from Wikipedia: [LISTEN TO MY HEART \(음반\)](https://ko.wikipedia.org/wiki/LISTEN_TO_MY_HEART_\(음반\)).
 
 
 《**LISTEN TO MY HEART**》는 [보아](../Page/보아.md "wikilink")가 [일본](../Page/일본.md "wikilink")에서 발매한 첫 번째 앨범이다. [2001년](../Page/2001년.md "wikilink") [5월](../Page/5월.md "wikilink") 일본에서 〈[ID; Peace B](../Page/ID;_Peace_B_\(노래\).md "wikilink")〉로 데뷔한 이후 8개월 여 만에 발매되는데, [2002년](../Page/2002년.md "wikilink") [1월 17일](../Page/1월_17일.md "wikilink") 발매된 4번째 싱글 〈[LISTEN TO MY HEART](../Page/LISTEN_TO_MY_HEART_\(노래\).md "wikilink")〉와, 앨범과 동시발매되었던 5번째 싱글 〈[Every Heart-ミンナノキモチ-](https://ko.wikipedia.org/wiki/Every_Heart-민나노_기모치- "wikilink")〉를 포함하여 총 14곡이 수록되어 있다.

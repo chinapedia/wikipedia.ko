@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Vivid \( \)](https://ko.wikipedia.org/wiki/Vivid_\(_\)).
+> This article is converted from Wikipedia: [Vivid \(보아의 노래\)](https://ko.wikipedia.org/wiki/Vivid_\(보아의_노래\)).
 
 
 〈**Vivid**〉는 가수 [보아](../Page/보아.md "wikilink")가 [일본](../Page/일본.md "wikilink")에서 발매한 26번째 싱글이다. 수록된 3곡이 모두 타이틀 곡인 3A 싱글이고, 이러한 3A 싱글은 [2003년](../Page/2003년.md "wikilink") 10월 발매된 〈[DOUBLE](https://ko.wikipedia.org/wiki/DOUBLE "wikilink")〉 이후 4년 7개월 만이다.

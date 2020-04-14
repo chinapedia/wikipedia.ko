@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [ISS  ](https://ko.wikipedia.org/wiki/ISS__).
+> This article is converted from Wikipedia: [ISS 추진 모듈](https://ko.wikipedia.org/wiki/ISS_추진_모듈).
 
 
-[thumb](https://ko.wikipedia.org/wiki/파일:ISS_Propulsion_module.jpg "wikilink") **ISS 추진 모듈**(ISS Propulsion Module)은 즈베즈다 서비스 모듈과 프로그레스 우주선의 백업용으로 고안되었다가 취소되었다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:ISS_Propulsion_module.jpg "wikilink") **ISS 추진 모듈**(ISS Propulsion Module)은 즈베즈다 서비스 모듈과 프로그레스 우주선의 백업용으로 고안되었다가 취소되었다.
 
 현재 유도, 항법, 조종, 추진을 담당하는 핵심적인 ISS 모듈은 [러시아](../Page/러시아.md "wikilink")의 즈베즈다 서비스 모듈과 프로그레스 우주선이다. 미래에는 유럽우주국(ESA)의 무인 운송선(ATV; Automated Transfer Vehicle)도 이 역할을 함께 할 것이다. [ATV](https://ko.wikipedia.org/wiki/ATV "wikilink")는 개발이 완료되었으며, [2008년](../Page/2008년.md "wikilink") 1월 [아리안 5호](https://ko.wikipedia.org/wiki/아리안_5호 "wikilink") 로켓에 의해 최초로 발사될 예정이다.
 

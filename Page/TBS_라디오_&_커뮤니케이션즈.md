@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TBS  \& ](https://ko.wikipedia.org/wiki/TBS__\&_).
+> This article is converted from Wikipedia: [TBS 라디오 \& 커뮤니케이션즈](https://ko.wikipedia.org/wiki/TBS_라디오_\&_커뮤니케이션즈).
 
 
 **주식회사 TBS 라디오 & 커뮤니케이션즈**(, )는 [1951년](../Page/1951년.md "wikilink")에 설립된 [간토 광역권을](../Page/간토_지방.md "wikilink") 대상으로 방송하는 [일본](../Page/일본.md "wikilink")의 라디오방송사이다.

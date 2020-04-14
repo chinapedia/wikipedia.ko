@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ TV](https://ko.wikipedia.org/wiki/_TV).
+> This article is converted from Wikipedia: [구마모토현민 TV](https://ko.wikipedia.org/wiki/구마모토현민_TV).
 
 
 [150px](https://ko.wikipedia.org/wiki/파일:Kkt_logo.svg "wikilink") **구마모토현민 TV**(熊本県民テレビ)는 [1982년](../Page/1982년.md "wikilink") [4월 1일](../Page/4월_1일.md "wikilink") [구마모토현](../Page/구마모토현.md "wikilink")의 3번째 민영방송국으로 개국했으며 약칭은 KKT, 콜사인은 JOQI-DTV이다.

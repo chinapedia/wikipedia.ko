@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SM ](https://ko.wikipedia.org/wiki/SM_).
+> This article is converted from Wikipedia: [SM 캉](https://ko.wikipedia.org/wiki/SM_캉).
 
 
 **스타드 말레르브 캉**(Stade Malherbe Caen)은 [프랑스](../Page/프랑스.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽으로, [캉](../Page/캉.md "wikilink")에 위치한 [스타드 미셸 도르나노](https://ko.wikipedia.org/wiki/스타드_미셸_도르나노 "wikilink") 경기장을 근거지로 한다. [1913년](../Page/1913년.md "wikilink") 창단되었다.

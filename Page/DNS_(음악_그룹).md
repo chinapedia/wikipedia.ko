@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [DNS \( \)](https://ko.wikipedia.org/wiki/DNS_\(_\)).
+> This article is converted from Wikipedia: [DNS \(음악 그룹\)](https://ko.wikipedia.org/wiki/DNS_\(음악_그룹\)).
 
 
 **DNS**는 [Digital Masta와](https://ko.wikipedia.org/wiki/디지털_마스터 "wikilink") 실력이 결성한 듀오이다. 2002년 [Future Flow를](../Page/퓨처_플로우.md "wikilink") 통해서 데뷔하였으나 그다지 성공적이지 못하였고, Future Flow의 와해와 함께 해체하였다. DNS란 이름은 둘의 이름의 첫 알파벳과 and를 따서 만든 것이다.

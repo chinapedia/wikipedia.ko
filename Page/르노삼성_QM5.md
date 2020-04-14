@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ QM5](https://ko.wikipedia.org/wiki/_QM5).
+> This article is converted from Wikipedia: [르노삼성 QM5](https://ko.wikipedia.org/wiki/르노삼성_QM5).
 
 
 **르노삼성 QM5**(Renault Samsung QM5)는 [대한민국](../Page/대한민국.md "wikilink")의 자동차 업체인 [르노삼성자동차](../Page/르노삼성자동차.md "wikilink")의 첫 [SUV로](../Page/스포츠_유틸리티_자동차.md "wikilink"), [닛산 캐시카이와](../Page/닛산_캐시카이.md "wikilink") [닛산 로그](../Page/닛산_로그.md "wikilink") 그리고 [닛산 X-트레일의](../Page/닛산_X-트레일.md "wikilink") 플랫폼을 공유하여 개발됐다. 차명인 QM5에서 QM은 'Quest Motoring'을 의미이며, 5는 중형급을 나타내는 숫자이다. 해외에서는 [르노](../Page/르노.md "wikilink")의 영업망을 통해 [콜레오스로](../Page/르노_콜레오스.md "wikilink") 팔렸으며, [르노삼성자동차](../Page/르노삼성자동차.md "wikilink")의 [부산](https://ko.wikipedia.org/wiki/부산광역시 "wikilink") 공장에서 생산되었다.

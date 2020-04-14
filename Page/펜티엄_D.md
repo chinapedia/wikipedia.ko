@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ D](https://ko.wikipedia.org/wiki/_D).
+> This article is converted from Wikipedia: [펜티엄 D](https://ko.wikipedia.org/wiki/펜티엄_D).
 
 
 **펜티엄 D**(Pentium D)\[1\]는 [넷버스트](https://ko.wikipedia.org/wiki/넷버스트 "wikilink") [마이크로아키텍처](../Page/마이크로아키텍처.md "wikilink")를 장착한 [듀얼 코어](https://ko.wikipedia.org/wiki/듀얼_코어 "wikilink") [64비트](../Page/64비트.md "wikilink") [x86](https://ko.wikipedia.org/wiki/x86 "wikilink") [프로세서이자](../Page/중앙_처리_장치.md "wikilink") 펜티엄4와 더불어 펜티엄 시리즈가 인텔의 주력 브랜드가 되었던 마지막 CPU이다. 각 [CPU는](../Page/중앙_처리_장치.md "wikilink") 두 개의 싱글 코어 [다이로](../Page/다이_\(집적_회로\).md "wikilink") 이루어져 있다. 이 브랜드의 첫 프로세서의 코드 이름은 **스미스필드**(Smithfiled)였으며 [2005년](../Page/2005년.md "wikilink") [5월 25일에](../Page/5월_25일.md "wikilink") [인텔](../Page/인텔.md "wikilink")에 의해 공개되었다. 9개월 뒤 설계상 큰 차이는 없었으나 **프레슬러**(Presler)가 그 뒤를 이었다.

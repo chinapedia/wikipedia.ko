@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [GAM \( \)](https://ko.wikipedia.org/wiki/GAM_\(_\)).
+> This article is converted from Wikipedia: [GAM \(음악 그룹\)](https://ko.wikipedia.org/wiki/GAM_\(음악_그룹\)).
 
 
 **GAM**(갸무)는 [헬로\! 프로젝트의](../Page/헬로!_프로젝트.md "wikilink") [마츠우라 아야와](../Page/마츠우라_아야.md "wikilink") [후지모토 미키로](../Page/후지모토_미키.md "wikilink") 구성된 [일본](../Page/일본.md "wikilink")의 [여성](../Page/여성.md "wikilink") [듀엣](https://ko.wikipedia.org/wiki/듀엣 "wikilink") [유닛](https://ko.wikipedia.org/wiki/유닛 "wikilink")이다.

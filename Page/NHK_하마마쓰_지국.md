@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [NHK  ](https://ko.wikipedia.org/wiki/NHK__).
+> This article is converted from Wikipedia: [NHK 하마마쓰 지국](https://ko.wikipedia.org/wiki/NHK_하마마쓰_지국).
 
 
 **NHK 하마마쓰 지국**(濱松 支局)은 [NHK 시즈오카 방송국의](../Page/NHK_시즈오카_방송국.md "wikilink") 지국이다. [1933년](../Page/1933년.md "wikilink") 하마마쓰 방송국으로 개국했지만 [1999년](../Page/1999년.md "wikilink") 조직개편에 의해 지국으로 격하되었다.

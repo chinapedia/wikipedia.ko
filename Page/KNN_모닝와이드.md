@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KNN ](https://ko.wikipedia.org/wiki/KNN_).
+> This article is converted from Wikipedia: [KNN 모닝와이드](https://ko.wikipedia.org/wiki/KNN_모닝와이드).
 
 
 **KNN 모닝와이드**는 [KNN](../Page/KNN.md "wikilink") 부산경남방송의 대표적인 아침 뉴스 프로그램으로, 1998년 3월 5일부터 방송을 개시하여 현재까지 방송 중인 프로그램이다.

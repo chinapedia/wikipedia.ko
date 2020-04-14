@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [UC ](https://ko.wikipedia.org/wiki/UC_).
+> This article is converted from Wikipedia: [UC 삼프도리아](https://ko.wikipedia.org/wiki/UC_삼프도리아).
 
 
 **UC 삼프도리아**()는 [제노바](../Page/제노바.md "wikilink")에 있는 [루이지 페라리스 경기장을](https://ko.wikipedia.org/wiki/루이지_페라리스_경기장 "wikilink") 근거로 하는 [이탈리아](../Page/이탈리아.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다.

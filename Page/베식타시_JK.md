@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ JK](https://ko.wikipedia.org/wiki/_JK).
+> This article is converted from Wikipedia: [베식타시 JK](https://ko.wikipedia.org/wiki/베식타시_JK).
 
 
 **베식타시 JK**(, 베식타시 체육 클럽)는 [터키](../Page/터키.md "wikilink") [이스탄불](../Page/이스탄불.md "wikilink")에 있는 [스포츠](../Page/스포츠.md "wikilink") 클럽이다. 이 클럽은 [축구](../Page/축구.md "wikilink"), [농구](../Page/농구.md "wikilink"), [배구](../Page/배구.md "wikilink"), [핸드볼](../Page/핸드볼.md "wikilink"), [체스](https://ko.wikipedia.org/wiki/체스 "wikilink")를 포함해 많은 분야에 참여하고 있다. 이 클럽의 축구팀은 [보스포루스](https://ko.wikipedia.org/wiki/보스포루스 "wikilink")에 있는 [돌마바흐체 궁전에](../Page/돌마바흐체_궁전.md "wikilink") 가까운 [보다폰 아레나에서](../Page/보다폰_아레나.md "wikilink") 경기를 치른다.

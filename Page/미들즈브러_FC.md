@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
+> This article is converted from Wikipedia: [미들즈브러 FC](https://ko.wikipedia.org/wiki/미들즈브러_FC).
 
 
 **미들즈브러 축구 클럽**()은 [잉글랜드](../Page/잉글랜드.md "wikilink")의 [축구](../Page/축구.md "wikilink") 팀으로, 보로(Boro)라는 애칭으로 널리 불린다. [미들즈브러](../Page/미들즈브러.md "wikilink")의 [리버사이드 스타디움을](../Page/리버사이드_스타디움.md "wikilink") 홈 경기장으로 사용한다.

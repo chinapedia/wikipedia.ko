@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ EMC](https://ko.wikipedia.org/wiki/_EMC).
+> This article is converted from Wikipedia: [델 EMC](https://ko.wikipedia.org/wiki/델_EMC).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Dell_EMC_logo.svg "wikilink") **델 EMC**(, , )는 [포춘 지](../Page/포춘_\(잡지\).md "wikilink") 선정 500대 기업, [S\&P 500](../Page/S&P_500.md "wikilink") 기업 중 하나이며, 정보관리/저장 소프트웨어 및 시스템 생산업체이다. 본사는 [미국](../Page/미국.md "wikilink") [매사추세츠](https://ko.wikipedia.org/wiki/매사추세츠 "wikilink")주의 [홉킨톤](https://ko.wikipedia.org/wiki/홉킨톤 "wikilink")에 있다. EMC는 하드웨어 디스크 어레이, 스토리지 관리 소프트웨어 등 다양한 기업용 저장기기들을 생산한다. 주력 제품인 Symmetrix는 많은 대형 [데이터 센터의](../Page/데이터_센터.md "wikilink") 스토리지 체계의 초석이다. CLARiiON 제품군은 EMC가 1999년 [데이터 제너럴사를](https://ko.wikipedia.org/wiki/데이터_제너럴 "wikilink") 인수했을 때 넘겨받았다. 가상화 소프트웨어 개발사인 [VMware를](https://ko.wikipedia.org/wiki/VMWare "wikilink") 2003년 12월 인수하였다.

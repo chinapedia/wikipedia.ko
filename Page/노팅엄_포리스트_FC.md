@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  FC](https://ko.wikipedia.org/wiki/__FC).
+> This article is converted from Wikipedia: [노팅엄 포리스트 FC](https://ko.wikipedia.org/wiki/노팅엄_포리스트_FC).
 
 
 **노팅엄 포리스트 FC**(Nottingham Forest FC)는 [잉글랜드](../Page/잉글랜드.md "wikilink")의 프로 [축구](../Page/축구.md "wikilink") 클럽팀으로 [노팅엄](../Page/노팅엄.md "wikilink")을 연고로 삼고, [시티 그라운드를](../Page/시티_그라운드.md "wikilink") 홈 구장으로 이용하고 있다. 현재 클럽은 [EFL 챔피언십에](../Page/EFL_챔피언십.md "wikilink") 참가하고 있으며, [유러피언컵의](../Page/UEFA_챔피언스리그.md "wikilink") 2회 연속 우승을 비롯하여 [FA컵](../Page/FA컵.md "wikilink"), [리그 컵](https://ko.wikipedia.org/wiki/풋볼_리그_컵 "wikilink") 우승 등의 역사를 가지고 있다. 2004-05 [챔피언십](../Page/EFL_챔피언십.md "wikilink") 시즌에서 [리그 1로](https://ko.wikipedia.org/wiki/EFL_리그_1 "wikilink") 강등되었는데, 이는 UEFA 챔피언스리그 우승 경력이 있는 팀 가운데 최초로 3부 리그로 강등된 것이다. 2007-08 시즌 [리그 1](https://ko.wikipedia.org/wiki/EFL_리그_1 "wikilink") 에서 2위를 차지하여 다시 [챔피언십으로](../Page/EFL_챔피언십.md "wikilink") 승격하였다. 2009-10 시즌에서는 3위를 기록했으나 플레이오프에서 패배하여 승격에 실패하였다.

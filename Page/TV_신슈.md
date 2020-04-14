@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TV ](https://ko.wikipedia.org/wiki/TV_).
+> This article is converted from Wikipedia: [TV 신슈](https://ko.wikipedia.org/wiki/TV_신슈).
 
 
 [200px](https://ko.wikipedia.org/wiki/파일:Tsb_logo.svg "wikilink") **TV 신슈**(テレビ信州, TSB, 콜사인: JONI-DTV)는 1980년 10월 1일 [일본](../Page/일본.md "wikilink")의 [나가노현](../Page/나가노현.md "wikilink")에서 3번째로 개국한 민영방송국이다.

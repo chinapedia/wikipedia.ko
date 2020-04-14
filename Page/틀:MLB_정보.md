@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:MLB ](https://ko.wikipedia.org/wiki/:MLB_).
+> This article is converted from Wikipedia: [틀:MLB 정보](https://ko.wikipedia.org/wiki/틀:MLB_정보).
 
 
 <onlyinclude>{| class="infobox" cellpadding="4" width="300px" style="font-size: 85%;" |- | style="margin-left: inherit; font-size: larger; text-align: center; background:lightyellow;" colspan="2"| **** </br> [](https://ko.wikipedia.org/wiki/{{{창단}}} "wikilink") 창단 </br> {{\#if:| }} |- | style="text-align: left; vertical-align: middle; background:lightyellow;" colspan="2" | 메이저 리그 참여 |- | style="text-align:left;" colspan="2" |

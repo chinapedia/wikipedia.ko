@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [PID ](https://ko.wikipedia.org/wiki/PID_).
+> This article is converted from Wikipedia: [PID 제어기](https://ko.wikipedia.org/wiki/PID_제어기).
 
 
 [오른쪽](https://ko.wikipedia.org/wiki/파일:Pid-feedback-nct-int-correct.png "wikilink") \[\[파일:PID Compensation Animated.gif|오른쪽|섬네일|400px|다양한 PID 파라미터 (Kp, Ki, Kd)가 시스템의 응답에 미치는 영향<ref>(카네기 멜런 대학교

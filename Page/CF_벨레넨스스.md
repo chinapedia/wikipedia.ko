@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [CF ](https://ko.wikipedia.org/wiki/CF_).
+> This article is converted from Wikipedia: [CF 벨레넨스스](https://ko.wikipedia.org/wiki/CF_벨레넨스스).
 
 
 **클르부 드 푸트볼 우스 벨레넨스스**(Clube de Futebol Os "Belenenses") 또는 간단히 **벨레넨스스**(Belenenses, )는 [포르투갈](../Page/포르투갈.md "wikilink")의 수도 [리스본](../Page/리스본.md "wikilink")의 [벨렝을](https://ko.wikipedia.org/wiki/산타마리아드벨렝 "wikilink") 연고지로 하는 [축구](../Page/축구.md "wikilink") 클럽이다.

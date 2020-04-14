@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [AFC  ](https://ko.wikipedia.org/wiki/AFC__).
+> This article is converted from Wikipedia: [AFC 여자 아시안컵](https://ko.wikipedia.org/wiki/AFC_여자_아시안컵).
 
 
 **AFC 여자 아시안컵**()은 [아시아 축구 연맹이](../Page/아시아_축구_연맹.md "wikilink") 주관하는 국가 대항 여자 축구 대회로 아시아 지역에서 열리는 여자 축구 국가 대항전 가운데 최고의 권위를 자랑한다.

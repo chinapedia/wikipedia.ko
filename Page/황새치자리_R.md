@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ R](https://ko.wikipedia.org/wiki/_R).
+> This article is converted from Wikipedia: [황새치자리 R](https://ko.wikipedia.org/wiki/황새치자리_R).
 
 
 **황새치자리 R**(**HD 29792**)은 천구 남쪽 근처의 [황새치자리](../Page/황새치자리.md "wikilink")에 있는 별로, [적색 초거성인](https://ko.wikipedia.org/wiki/적색_초거성 "wikilink") 동시에 [미라형 변광성이다](../Page/미라형_변광성.md "wikilink"). 황새치자리 R은 눈으로 볼 때 황새치자리보다는 [그물자리](../Page/그물자리.md "wikilink")의 별로 보이기도 한다. 지구에서의 거리는 175\~225[광년](../Page/광년.md "wikilink")이다.

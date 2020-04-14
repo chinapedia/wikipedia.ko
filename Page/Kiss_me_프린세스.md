@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Kiss me ](https://ko.wikipedia.org/wiki/Kiss_me_).
+> This article is converted from Wikipedia: [Kiss me 프린세스](https://ko.wikipedia.org/wiki/Kiss_me_프린세스).
 
 
 <table>

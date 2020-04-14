@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ C ](https://ko.wikipedia.org/wiki/_C_).
+> This article is converted from Wikipedia: [소형소자 C 컴파일러](https://ko.wikipedia.org/wiki/소형소자_C_컴파일러).
 
 
 **소형소자 C 컴파일러** (**SDCC**)는 [오픈 소스이고](../Page/오픈_소스.md "wikilink"), 부분적으로 [재사용되는](https://ko.wikipedia.org/wiki/재사용되는_컴파일러 "wikilink")\[1\] [마이크로컨트롤러](../Page/마이크로컨트롤러.md "wikilink")용 [C](../Page/C_\(프로그래밍_언어\).md "wikilink") [컴파일러](../Page/컴파일러.md "wikilink")이다. 그것은 [GNU 일반 공중 사용 허가서로](../Page/GNU_일반_공중_사용_허가서.md "wikilink") 배포된다. 또한 패키지는 링커, 어셈블러, 시뮬레이터, 디버거를 포함하고 있다. [2006년](../Page/2006년.md "wikilink") [2월](../Page/2월.md "wikilink")에, 소형소자 C 컴파일러는 오직 [인텔 8051](../Page/인텔_8051.md "wikilink")-호환되는 마이크로컨트롤러용 C 컴파일러만 오픈 소스였다.\[2\]

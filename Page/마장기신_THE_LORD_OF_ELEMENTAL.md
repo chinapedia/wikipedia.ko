@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ THE LORD OF ELEMENTAL](https://ko.wikipedia.org/wiki/_THE_LORD_OF_ELEMENTAL).
+> This article is converted from Wikipedia: [마장기신 THE LORD OF ELEMENTAL](https://ko.wikipedia.org/wiki/마장기신_THE_LORD_OF_ELEMENTAL).
 
 
 《**마장기신 THE LORD OF ELEMENTAL**》(Super Robot Wars Gaiden: Masoukishin – The Lord Of Elemental)은 [슈퍼로봇대전 시리즈에](https://ko.wikipedia.org/wiki/슈퍼로봇대전_시리즈 "wikilink") 등장하는 [반프레스토 오리지널의](https://ko.wikipedia.org/wiki/반프레스토_오리지널 "wikilink") 가공 로봇 애니메이션이다. 일반적으로 작품명으로 '마장기신'이라고 하는 경우는 본작을 가리키는 경우이고, 로봇 종류나 다른 마장기신과 구별하는 경우에는 '마장기신LOE' 또는 'LOE'라고 부른다.

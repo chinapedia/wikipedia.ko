@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SVG  ](https://ko.wikipedia.org/wiki/SVG__).
+> This article is converted from Wikipedia: [SVG 워킹 그룹](https://ko.wikipedia.org/wiki/SVG_워킹_그룹).
 
 
 **SVG 워킹 그룹**()은 [W3C](../Page/W3C.md "wikilink")가 결성한 [워킹 그룹이다](https://ko.wikipedia.org/wiki/워킹_그룹 "wikilink"). SVG 워킹 그룹은 [포스트스크립트](../Page/포스트스크립트.md "wikilink") 문서 형식에 대한 대안의 필요성이 대두되자 이 필요를 충족시킬 대안을 마련하기 위해 결성되었다. 포스트스크립트 문서 형식을 가지고 문서를 작성했을 경우, 크기가 가변적인 폰트 혹은 오브젝트가 들어간 문서가 고정인 폰트 혹은 오브젝트로만 생성한 문서보다 파일 크기가 훨씬 커지는 문제가 있었다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [NBC  ](https://ko.wikipedia.org/wiki/NBC__).
+> This article is converted from Wikipedia: [NBC 라디오 사가](https://ko.wikipedia.org/wiki/NBC_라디오_사가).
 
 
 **NBC 라디오 사가**()는 [나가사키현](../Page/나가사키현.md "wikilink")에 있는 라디오 방송국 [나가사키 방송의](../Page/나가사키_방송.md "wikilink") 중파방송 중계국인 사가방송국의 일반적인 통칭이자 나가사키 방송의 하청을 받는 자회사의 회사명이다.

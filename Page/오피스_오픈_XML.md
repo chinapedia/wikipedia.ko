@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  XML](https://ko.wikipedia.org/wiki/__XML).
+> This article is converted from Wikipedia: [오피스 오픈 XML](https://ko.wikipedia.org/wiki/오피스_오픈_XML).
 
 
 **오피스 오픈 XML**(Office Open XML, OOXML, 오픈XML)은 [XML](../Page/XML.md "wikilink")을 기반으로 한 [파일 포맷이다](https://ko.wikipedia.org/wiki/파일_포맷 "wikilink"). [마이크로소프트](../Page/마이크로소프트.md "wikilink")가 추진하였으며 2006년과 2008년 두 차례에 걸쳐 [Ecma 인터내셔널에](../Page/Ecma_인터내셔널.md "wikilink") 유럽 표준([ECMA-376](http://www.ecma-international.org/publications/standards/Ecma-376.htm))으로, 2008년에 [ISO](https://ko.wikipedia.org/wiki/ISO "wikilink")/[IEC에](https://ko.wikipedia.org/wiki/국제_전기_표준_회의 "wikilink") 국제 표준([ISO/IEC 29500](http://www.iso.org/iso/iso_catalogue/catalogue_tc/catalogue_detail.htm?csnumber=51463))으로 승인되었다. 이 문서 규격은 문서, [프레젠테이션](../Page/프레젠테이션.md "wikilink"), [스프레드시트](../Page/스프레드시트.md "wikilink")를 포함한다. 확장자는 .docx 또는 .docx(문서), .pptx(프레젠테이션), .xlsx(스프레드시트)로 통일되어 있다.

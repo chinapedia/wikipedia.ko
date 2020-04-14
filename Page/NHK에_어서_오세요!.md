@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [NHK  !](https://ko.wikipedia.org/wiki/NHK__!).
+> This article is converted from Wikipedia: [NHK에 어서 오세요!](https://ko.wikipedia.org/wiki/NHK에_어서_오세요!).
 
 
 《**NHK에 어서 오세요\!**》()는 [다키모토 다쓰히코의](../Page/다키모토_다쓰히코.md "wikilink") 장편 [소설](../Page/소설.md "wikilink")로, [2001년](../Page/2001년.md "wikilink") [1월 29일부터](../Page/1월_29일.md "wikilink") 같은 해 [4월 29일까지](../Page/4월_29일.md "wikilink") 인터넷 사이트 [Boiled Eggs Online](http://www.boiledeggs.com/)에 연재되었다가 [2002년](../Page/2002년.md "wikilink") [1월](../Page/1월.md "wikilink") [가도카와 서점에서](../Page/가도카와_쇼텐.md "wikilink") 단행본으로 출간되었고, [2005년](../Page/2005년.md "wikilink") 6월에는 [가도카와 문고에서](https://ko.wikipedia.org/wiki/가도카와_문고 "wikilink") 문고본으로도 출간되었다. [아베 요시토시의](../Page/아베_요시토시.md "wikilink") 표지 일러스트가 수록되어 있고, 책 내부에는 삽화가 없다.

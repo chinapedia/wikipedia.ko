@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ MC](https://ko.wikipedia.org/wiki/_MC).
+> This article is converted from Wikipedia: [스피릿 MC](https://ko.wikipedia.org/wiki/스피릿_MC).
 
 
 **스피릿 MC**(**Spirit MC**; Spirit Martial Challenge)는 엔트리안 주식회사가 주최했던 [대한민국](../Page/대한민국.md "wikilink")의 [종합격투기](../Page/종합격투기.md "wikilink") 대회이다. 한국 최초의 종합격투기 단체로 인식되고 있다.

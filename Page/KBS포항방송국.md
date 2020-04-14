@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KBS](https://ko.wikipedia.org/wiki/KBS).
+> This article is converted from Wikipedia: [KBS포항방송국](https://ko.wikipedia.org/wiki/KBS포항방송국).
 
 
 **KBS포항방송국**(KBS浦項放送局)은 [경상북도](https://ko.wikipedia.org/wiki/경상북도 "wikilink") 동해안지역을 방송권역으로 하는 [KBS대구방송총국](../Page/KBS대구방송총국.md "wikilink") 산하의 지역방송국이다.
@@ -107,23 +107,22 @@
 | 프로그램명                                                      | 방송시간                | 편성시간                             | 진행  |
 | ---------------------------------------------------------- | ------------------- | -------------------------------- | --- |
 |                                                            |                     |                                  |     |
-| KBS 제1라디오 오전 9시 뉴스                                         | 월요일 \~ 금요일 5분       | 오전 9시 \~ 9시 5분                   | 김세희 |
+| KBS 제1라디오 오전 9시 뉴스                                         | 월요일 \~ 금요일 5분       | 오전 9시 \~ 9시 5분                   | 김애진 |
 | [KBS 제1라디오 정오종합뉴스](../Page/KBS_제1라디오_정오종합뉴스.md "wikilink") | 낮 12시 15분\~ 12시 20분 | 최용수                              |     |
-| KBS 제1라디오 오후 5시 뉴스                                         | 저녁 5시 \~ 5시 5분      | [김세희](../Page/김세희.md "wikilink") |     |
+| KBS 제1라디오 오후 5시 뉴스                                         | 저녁 5시 \~ 5시 5분      | [정수현](../Page/정수현.md "wikilink") |     |
 
   - 프로그램
 
 <!-- end list -->
 
-  - 활기찬아침 포항입니다: 월\~금 08:30\~58,28분 (진행 김세희)
+  - 활기찬아침 포항입니다: 월\~금 08:30\~58,28분 (진행 정수현)
   - 생생매거진 동해안오늘: 월\~금 16:05\~55,50분 (진행 최용수)
   - 생생매거진 오늘: 월\~금 11:05\~40,35분 (진행 김애진)(울릉수중계)
 
 ## 아나운서
 
-  - [2016년](../Page/2016년.md "wikilink") (프리랜서) 입사 : [김애진](https://ko.wikipedia.org/wiki/김애진 "wikilink")
-  - [2019년](../Page/2019년.md "wikilink") (프리랜서) 입사 : 김세희
-  - [2019.5](https://ko.wikipedia.org/wiki/2019.5 "wikilink") (프리랜서) 입사 : 최용수
+  - [2019년](../Page/2019년.md "wikilink") (프리랜서) 입사 : 최용수
+  - [2019년](../Page/2019년.md "wikilink") (프리랜서) 입사 : 하승현
   - [2020년](../Page/2020년.md "wikilink") (프리랜서) 입사 : 정수현
 
 ## 전직 아나운서
@@ -144,6 +143,8 @@
   - [손지민](https://ko.wikipedia.org/wiki/손지민 "wikilink") (현 [KBS대구방송총국](../Page/KBS대구방송총국.md "wikilink") 아나운서)
   - [유슬혜](https://ko.wikipedia.org/wiki/유슬혜 "wikilink") (2016\~2018년 현 퇴사)
   - [송지원](../Page/송지원.md "wikilink") (2018\~2019.5) (현 KBS 46기 창원방송총국 아나운서)
+  - 김세희 (2019\~2020) (현 [CJB](https://ko.wikipedia.org/wiki/CJB "wikilink") 아나운서)
+  - 김애진 (2016\~2020)
 
 ## 기자
 

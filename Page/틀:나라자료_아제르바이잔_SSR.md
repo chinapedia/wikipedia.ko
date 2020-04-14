@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:  SSR](https://ko.wikipedia.org/wiki/:__SSR).
+> This article is converted from Wikipedia: [틀:나라자료 아제르바이잔 SSR](https://ko.wikipedia.org/wiki/틀:나라자료_아제르바이잔_SSR).
 
 
 <onlyinclude>{{  | 나라이름 = 아제르바이잔 소비에트 사회주의 공화국 | 짧은이름 = 아제르바이잔 SSR | 틀이름 = 아제르바이잔 SSR | 국기그림 = Flag of the Azerbaijan Soviet Socialist Republic.svg | 국기그림-1920a = Flag_of_Azerbaijan_1920.gif | 국기그림-1920 = Flag of Azerbaijan SSR (1920-1921).svg | 국기그림-1921 = Flag_of_Azerbaijan_SSR_(1921-1922).svg | 국기그림-1922a = Flag_of_Azerbaijan_1922.gif | 국기그림-1922 = Flag of Transcaucasian SFSR.svg | 국기그림-1924 = Flag_of_Azerbaijan_1924.gif | 국기그림-1929 = Flag_of_Azerbaijan_1929.gif | 국기그림-1937 = Flag of Azerbaijan SSR (1937-1940).svg | 국기그림-1940 = Flag of Azerbaijan SSR (1940-1952).svg | 국기그림-1952 = Flag of the Azerbaijan Soviet Socialist Republic (1952–1956).svg | 크기 =  | 이름 =  | 대체링크 =  | 변수 =  | 변수1 = 1920a | 변수2 = 1920 | 변수3 = 1921 | 변수4 = 1922a | 변수5 = 1922 | 변수6 = 1924 | 변수7 = 1929 | 변수8 = 1937 | 변수9 = 1940 | 변수10 = 1952 | 관련문서1 = 소비에트 연방 | 관련문서2 = 아제르바이잔 }}</onlyinclude>

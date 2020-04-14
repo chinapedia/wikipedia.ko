@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ IKKI](https://ko.wikipedia.org/wiki/_IKKI).
+> This article is converted from Wikipedia: [월간 IKKI](https://ko.wikipedia.org/wiki/월간_IKKI).
 
 
 《**월간 IKKI**》()는 [쇼가쿠칸](../Page/쇼가쿠칸.md "wikilink")에서 발행하는 [청년 만화](../Page/청년_만화.md "wikilink")([성인 만화](https://ko.wikipedia.org/wiki/성인_만화 "wikilink"))잡지이다. 매월 25일 발매.

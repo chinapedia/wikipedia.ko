@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Z](https://ko.wikipedia.org/wiki/Z).
+> This article is converted from Wikipedia: [제이Z](https://ko.wikipedia.org/wiki/제이Z).
 
 
 **숀 코리 카터**(, [1969년](../Page/1969년.md "wikilink") [12월 4일](../Page/12월_4일.md "wikilink") \~ )는 **제이Z**()라는 예명으로 활동하고 있는 [미국](../Page/미국.md "wikilink")의 [래퍼](https://ko.wikipedia.org/wiki/래퍼 "wikilink")이자 [사업가](../Page/사업가.md "wikilink")이다. 2008년까지 [데프잼 레코드의](https://ko.wikipedia.org/wiki/데프잼_레코드 "wikilink") 사장이었으며, 힙합레이블 [락커펠라 레코드의](https://ko.wikipedia.org/wiki/락커펠라_레코드 "wikilink") 사장이기도 하다. 또한 클럽인 '40/40 Club'의 주인이다.

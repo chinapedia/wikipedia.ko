@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  FC](https://ko.wikipedia.org/wiki/__FC).
+> This article is converted from Wikipedia: [토트넘 홋스퍼 FC](https://ko.wikipedia.org/wiki/토트넘_홋스퍼_FC).
 
 
 **토트넘 홋스퍼 FC**()는 [잉글랜드](../Page/잉글랜드.md "wikilink") [북런던](../Page/런던.md "wikilink") [토트넘](https://ko.wikipedia.org/wiki/토트넘 "wikilink")을 연고지로 하는 프로 [축구](../Page/축구.md "wikilink") 구단이다. 현재 [프리미어리그](https://ko.wikipedia.org/wiki/프리미어리그 "wikilink")에 속해있으며, 간단히 줄여서 **토트넘** 또는 **스퍼스**라고 부르기도 한다. 현재 홈 경기장은 [토트넘 홋스퍼 스타디움으로](../Page/토트넘_홋스퍼_스타디움.md "wikilink"), 이전의 홈 경기장인 [화이트 하트 레인을](../Page/화이트_하트_레인.md "wikilink") 철거한 자리에 62,062석 규모로 건립되었으며 2019년 4월 개장하였다.
@@ -7,7 +7,7 @@
 
 구단의 [상징](https://ko.wikipedia.org/wiki/상징 "wikilink")은 [축구공](../Page/축구공.md "wikilink") 위에 서있는 수평아리(싸움닭)이고, [모토는](../Page/좌우명.md "wikilink") [라틴어](../Page/라틴어.md "wikilink")인"*Audere est Facere*"로 실천이 곧 도전이다라는 의미를 가지고 있다. 같은 [런던](../Page/런던.md "wikilink") 연고의 팀들과 오랜 기간 라이벌 관계를 맺고 있는데, 가장 잘 알려진 라이벌으로는 [북런던 더비에서](../Page/북런던_더비.md "wikilink") 맞대결을 펼치는 [아스널이다](../Page/아스널_FC.md "wikilink").
 
-현재 감독은 [조세 무리뉴이며](https://ko.wikipedia.org/wiki/조세_무리뉴 "wikilink"), 주장은 [위고 요리스](../Page/위고_요리스.md "wikilink"), 부주장은 [해리 케인이며](../Page/해리_케인.md "wikilink"), 3주장은 [얀 베르통언이다](https://ko.wikipedia.org/wiki/얀_베르통언 "wikilink"). 현재 손흥민과 해리 케인의 부상으로 많은 혼란을 격고있다.
+현재 감독은 [조세 무리뉴이며](https://ko.wikipedia.org/wiki/조세_무리뉴 "wikilink"), 주장은 [위고 요리스](../Page/위고_요리스.md "wikilink"), 부주장은 [해리 케인이며](../Page/해리_케인.md "wikilink"), 3주장은 [얀 베르통언이다](https://ko.wikipedia.org/wiki/얀_베르통언 "wikilink").
 
 ## 엠블럼
 
@@ -15,7 +15,7 @@
 
 ## 타팀과의 관계
 
-지역 라이벌 [첼시 FC](../Page/첼시_FC.md "wikilink"), [웨스트햄 유나이티드 FC](../Page/웨스트햄_유나이티드_FC.md "wikilink"), [아스널](https://ko.wikipedia.org/wiki/아스널 "wikilink"), 기존의강호인 [맨체스터 유나이티드](https://ko.wikipedia.org/wiki/맨체스터_유나이티드 "wikilink"), [리버풀 FC](../Page/리버풀_FC.md "wikilink"), [뉴캐슬 유나이티드와는](https://ko.wikipedia.org/wiki/뉴캐슬_유나이티드 "wikilink") 사이가 매우 험악한 반면, [에버턴 FC와](https://ko.wikipedia.org/wiki/에버턴_FC "wikilink") 신흥 강호인 [맨체스터 시티와는](https://ko.wikipedia.org/wiki/맨체스터_시티 "wikilink") 그래도 사이가 좋은 편에 속한다.(이었으나 챔피언스리그에서 VAR의 도움으로 토트넘이 올라가고 EPL 19 20시즌 두번째 경기경기에 또 다시 VAR로 무승부가 나오자 맨시티와 토트넘 팬 사이에 난투극이 벌어지는등 심상치가 않다) 또한, 영입정책과의 관계에 인하여 [사우샘프턴 FC](../Page/사우샘프턴_FC.md "wikilink"), [웨스트브로미치 앨비언과의](https://ko.wikipedia.org/wiki/웨스트브로미치_앨비언 "wikilink") 사이도 매우 좋지 않다.
+지역 라이벌 [첼시 FC](../Page/첼시_FC.md "wikilink"), [웨스트햄 유나이티드 FC](../Page/웨스트햄_유나이티드_FC.md "wikilink"), [아스날 FC](https://ko.wikipedia.org/wiki/아스날_FC "wikilink"), 기존의 강호인 [맨체스터 유나이티드](https://ko.wikipedia.org/wiki/맨체스터_유나이티드 "wikilink"), [리버풀 FC](../Page/리버풀_FC.md "wikilink"), [뉴캐슬 유나이티드와는](https://ko.wikipedia.org/wiki/뉴캐슬_유나이티드 "wikilink") 사이가 매우 험악한 반면, [에버턴 FC와](https://ko.wikipedia.org/wiki/에버턴_FC "wikilink") 신흥 강호인 [맨체스터 시티와는](https://ko.wikipedia.org/wiki/맨체스터_시티 "wikilink") 그래도 사이가 좋은 편에 속한다. 또한, 영입정책과의 관계에 인하여 [사우스햄튼 FC](https://ko.wikipedia.org/wiki/사우스햄튼_FC "wikilink"), [웨스트브로미치 앨비언과의](https://ko.wikipedia.org/wiki/웨스트브로미치_앨비언 "wikilink") 사이도 매우 좋지 않다.
 
 ## 응원가
 
@@ -132,7 +132,7 @@ Glory Glory Tottenham Hotspur 잉글랜드의 록밴드 Chas & Dave가 연주하
   - 2012  [안드레 빌라스-보아스](https://ko.wikipedia.org/wiki/안드레_빌라스-보아스 "wikilink")
   - 2013  [팀 셔우드](../Page/팀_셔우드.md "wikilink")
   - 2014  [마우리시오 포체티노](../Page/마우리시오_포체티노.md "wikilink")
-  - 2019  [조제 모리뉴](../Page/조제_모리뉴.md "wikilink")
+  - 2019  [조세 무리뉴](https://ko.wikipedia.org/wiki/조세_무리뉴 "wikilink")
 
 [섬네일로](https://ko.wikipedia.org/wiki/파일:Harry_Redknapp_2011_\(cropped\).jpg "wikilink") 진출시켰던 [해리 레드냅](../Page/해리_레드냅.md "wikilink") 전 감독.\]\]
 

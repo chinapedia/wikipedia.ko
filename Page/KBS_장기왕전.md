@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KBS ](https://ko.wikipedia.org/wiki/KBS_).
+> This article is converted from Wikipedia: [KBS 장기왕전](https://ko.wikipedia.org/wiki/KBS_장기왕전).
 
 
 **KBS 장기왕전**( - 將棋王戰)은 [2000년](../Page/2000년.md "wikilink")에 [공영방송](https://ko.wikipedia.org/wiki/공영방송 "wikilink")국인 [KBS](https://ko.wikipedia.org/wiki/KBS "wikilink")에서 주최한 [대한민국](../Page/대한민국.md "wikilink")의 [장기 기전](../Page/장기_기전.md "wikilink") 및 [방송](../Page/방송.md "wikilink") 프로그램이다. 6회 장기왕전을 끝으로 4년간 종영되었다. 그 후 [2010년](../Page/2010년.md "wikilink")부터 한국의 [명절](https://ko.wikipedia.org/wiki/명절 "wikilink")인 [설날](../Page/설날.md "wikilink")과 [추석](../Page/추석.md "wikilink")에 특집으로만 장기왕전을 방송 하고 있었으나, 현재 폐지되었다.

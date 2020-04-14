@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SDI](https://ko.wikipedia.org/wiki/SDI).
+> This article is converted from Wikipedia: [삼성SDI](https://ko.wikipedia.org/wiki/삼성SDI).
 
 
 **삼성SDI**(, 三星SDI)는 [대한민국](../Page/대한민국.md "wikilink")의 IT 기업으로, [삼성그룹](../Page/삼성그룹.md "wikilink")의 전자 계열사이다. 삼성SDI는 브라운관, PDP, AMOLED 등의 디스플레이 제품 생산을 주력 사업으로 하였으나, [2000년](../Page/2000년.md "wikilink") 리튬이온 2차전지 사업에도 진출하여 사업을 다각화하였다.

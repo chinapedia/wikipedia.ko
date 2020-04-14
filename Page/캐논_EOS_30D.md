@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ EOS 30D](https://ko.wikipedia.org/wiki/_EOS_30D).
+> This article is converted from Wikipedia: [캐논 EOS 30D](https://ko.wikipedia.org/wiki/캐논_EOS_30D).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Canon_EOS_30D_-_50mm_-_front.jpg "wikilink") **캐논 EOS 30D**()는 820만 [유효 화소를](https://ko.wikipedia.org/wiki/유효_화소 "wikilink") 가지는 준전문가용 [디지털 SLR](https://ko.wikipedia.org/wiki/디지털_SLR "wikilink") [카메라](https://ko.wikipedia.org/wiki/카메라 "wikilink")이다. [2006년](../Page/2006년.md "wikilink") [2월](../Page/2월.md "wikilink")에 발표되었으며 [3월](../Page/3월.md "wikilink")에 시판되었다. [캐논 EOS 20D의](../Page/캐논_EOS_20D.md "wikilink") 후속 모델이다. 22.5 × 15.0 mm 크기의 [CMOS 이미지 센서를](https://ko.wikipedia.org/wiki/CMOS_이미지_센서 "wikilink") 가지고 있으며 [캐논 EF-S 렌즈 마운트](https://ko.wikipedia.org/wiki/캐논_EF-S_렌즈_마운트 "wikilink") 및 [캐논 EF 렌즈 마운트를](https://ko.wikipedia.org/wiki/캐논_EF_렌즈_마운트 "wikilink") 지원한다.

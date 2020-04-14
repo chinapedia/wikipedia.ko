@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [VJ](https://ko.wikipedia.org/wiki/VJ).
+> This article is converted from Wikipedia: [VJ특공대](https://ko.wikipedia.org/wiki/VJ특공대).
 
 
-《**VJ특공대**》는 [KBS 2TV에서](../Page/KBS_2TV.md "wikilink") [2000년](../Page/2000년.md "wikilink") [5월 5일부터](../Page/5월_5일.md "wikilink") [2018년](../Page/2018년.md "wikilink") [9월 7일까지](../Page/9월_7일.md "wikilink") 방영된 [시사교양 프로그램이다](https://ko.wikipedia.org/wiki/한국방송공사의_텔레비전_프로그램 "wikilink").
+《**VJ특공대**》는 [KBS 2TV에서](../Page/KBS_2TV.md "wikilink") [2000년](../Page/2000년.md "wikilink") [5월 5일부터](../Page/5월_5일.md "wikilink") [2018년](../Page/2018년.md "wikilink") [9월 7일까지](../Page/9월_7일.md "wikilink") 방송되었던 시사교양 프로그램이다.
 
 ## 개요
 
@@ -11,7 +11,7 @@
 
 ### 역사
 
-  - 2000년 5월 5일부터 당초 1TV에서 방영되었지만 줄곧 MBC에서 활동해 온 [이경규](../Page/이경규.md "wikilink")와 96년 SBS 5기 공채 개그맨으로 데뷔했으나, IMF 이후 SBS가 코미디 프로그램을 폐지하면서 설 자리를 잃게 되자 KBS로 자리를 옮긴 후,\[1\] 자사 \<[개그콘서트](https://ko.wikipedia.org/wiki/개그콘서트 "wikilink")\>로 스타가 된 [심현섭](../Page/심현섭.md "wikilink")과 공동 MC로 내세운 <행복남녀>가 일본 프로그램 표절 시비에 휘말려,\[2\] 1년을 넘기지 못한 채 조기 종영되면서 [2000년](../Page/2000년.md "wikilink") 가을 개편부터 2TV에서 방송되었다.
+  - 2000년 5월 5일부터 당초 1TV에서 방송되었지만 줄곧 MBC에서 활동해 온 [이경규](../Page/이경규.md "wikilink")와 1996년 SBS 5기 공채 개그맨으로 데뷔했으나, IMF 이후 SBS가 코미디 프로그램을 폐지하면서 설 자리를 잃게 되자 KBS로 자리를 옮긴 후,\[1\] 자사 \<[개그콘서트](https://ko.wikipedia.org/wiki/개그콘서트 "wikilink")\>로 스타가 된 [심현섭](../Page/심현섭.md "wikilink")과 공동 MC로 내세운 <행복남녀>가 일본 프로그램 표절 시비에 휘말려,\[2\] 1년을 넘기지 못한 채 조기 종영되면서 [2000년](../Page/2000년.md "wikilink") 가을 개편부터 2TV에서 방송되었다.
 
 <!-- end list -->
 
@@ -140,8 +140,8 @@
 
 ## 같이 보기
 
-  - [생방송 아침이 좋다](../Page/생방송_아침이_좋다.md "wikilink")
-  - [2TV 생생정보](../Page/2TV_생생정보.md "wikilink")
+  - [극한 직업](../Page/극한_직업_\(텔레비전_프로그램\).md "wikilink") (EBS 1TV)
+  - [생활의 달인](../Page/생활의_달인.md "wikilink") (SBS TV)
 
 ## 각주
 

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [: L  ](https://ko.wikipedia.org/wiki/:_L__).
+> This article is converted from Wikipedia: [데스노트: L 새로운 시작](https://ko.wikipedia.org/wiki/데스노트:_L_새로운_시작).
 
 
 《**데스노트: L 새로운 시작**》()은 [일본](../Page/일본.md "wikilink")의 [만화](../Page/만화.md "wikilink") 《[데스노트](../Page/데스노트.md "wikilink")》를 원작으로 재구성한 작품으로, 기존의 "데스노트"라는 소재만 같을 뿐 원작과 애니메이션 그리고 전 극장판 《[데스노트](../Page/데스노트_\(2006년_영화\).md "wikilink")》, 《[데스노트: 라스트 네임](https://ko.wikipedia.org/wiki/데스노트_\(2006년_영화\)#데스노트:_라스트_네임 "wikilink")》과는 완전히 다른 영화이다. 내용은 [L이](../Page/L_\(데스노트\).md "wikilink") 데스노트에 자신의 이름을 쓰는 시점과 원작의 니아와 어떻게 만나고 해어졌는지를 다루었다. [일본](../Page/일본.md "wikilink")에서는 [2008년](../Page/2008년.md "wikilink") [2월 8일에](../Page/2월_8일.md "wikilink"), [대한민국](../Page/대한민국.md "wikilink")에서는 같은 해 [2월 21일에](../Page/2월_21일.md "wikilink") 개봉하였다.

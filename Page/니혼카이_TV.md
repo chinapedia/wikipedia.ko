@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ TV](https://ko.wikipedia.org/wiki/_TV).
+> This article is converted from Wikipedia: [니혼카이 TV](https://ko.wikipedia.org/wiki/니혼카이_TV).
 
 
 [오른쪽](https://ko.wikipedia.org/wiki/파일:NKT_logo_2018.png "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:Nihonkai_Telecasting.JPG "wikilink") **니혼카이 TV**()는 [1959년](../Page/1959년.md "wikilink") [3월 3일](../Page/3월_3일.md "wikilink") 돗토리현 최초의 민영방송국으로 개국한 방송국이며 1972년 방송구역광역화에 의해 시마네현에서도 방송을 시작하게 되었다.

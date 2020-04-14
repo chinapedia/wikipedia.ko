@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [CA ](https://ko.wikipedia.org/wiki/CA_).
+> This article is converted from Wikipedia: [CA 인데펜디엔테](https://ko.wikipedia.org/wiki/CA_인데펜디엔테).
 
 
 [섬네일의](https://ko.wikipedia.org/wiki/파일:Estádio_Libertadores_da_América_2.png "wikilink") 인데펜디엔테 팬들\]\]

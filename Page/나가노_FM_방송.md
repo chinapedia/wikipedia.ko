@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ FM ](https://ko.wikipedia.org/wiki/_FM_).
+> This article is converted from Wikipedia: [나가노 FM 방송](https://ko.wikipedia.org/wiki/나가노_FM_방송).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:FM_Nagano_Main_office.jpg "wikilink") **나가노 FM방송**은 일본의 FM라디오 방송국으로 [1988년](../Page/1988년.md "wikilink") [10월 1일](../Page/10월_1일.md "wikilink") 개국했으며 [나가노현](../Page/나가노현.md "wikilink")에서 방송을 실시하고 있다.

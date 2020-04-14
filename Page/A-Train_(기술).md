@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [A-Train \(\)](https://ko.wikipedia.org/wiki/A-Train_\(\)).
+> This article is converted from Wikipedia: [A-Train \(기술\)](https://ko.wikipedia.org/wiki/A-Train_\(기술\)).
 
 
 **A-Train**은 [일본](../Page/일본.md "wikilink")의 [히타치 제작소에서](../Page/히타치_제작소.md "wikilink") [알루미늄](../Page/알루미늄.md "wikilink") 합금 [더블스킨 구조를](https://ko.wikipedia.org/wiki/더블스킨_구조 "wikilink") 사용한 [철도차량](https://ko.wikipedia.org/wiki/철도차량 "wikilink")의 제작 및 설계기술을 가리킨다. A의 의미는 Advanced・Amenity・Ability・Aluminum의 네 가지 의미를 가지고 있다.

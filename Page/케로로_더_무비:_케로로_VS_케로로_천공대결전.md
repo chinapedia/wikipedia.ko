@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [  :  VS  ](https://ko.wikipedia.org/wiki/__:__VS__).
+> This article is converted from Wikipedia: [케로로 더 무비: 케로로 VS 케로로 천공대결전](https://ko.wikipedia.org/wiki/케로로_더_무비:_케로로_VS_케로로_천공대결전).
 
 
-**케로로 더 무비: 케로로 vs 케로로 천공대결전** (, ) 은 [요시자키 미네의](https://ko.wikipedia.org/wiki/요시자키_미네 "wikilink") 동명만화 원작 [케로로 중사의](https://ko.wikipedia.org/wiki/케로로_중사 "wikilink") 세 번째 극장판 애니메이션이다. [2008년](../Page/2008년.md "wikilink") [3월 1일](../Page/3월_1일.md "wikilink") 개봉되었으며, 케로로 대 케로로라는 묘한 타이틀을 걸고 있다. 한편 [대한민국](../Page/대한민국.md "wikilink")에서는 3기가 아닌 2기로 [2008년](../Page/2008년.md "wikilink") [8월 7일](../Page/8월_7일.md "wikilink") 극장 개봉을 했다. 또 [대한민국](../Page/대한민국.md "wikilink")에서는 이번 극장판부터 ‘케로로 극장판’을 ‘케로로 더 무비’라는 표현으로 바꾸어 사용하였다. 동시 상영 작품은 《[무사 케로 전국란성 대 배틀](https://ko.wikipedia.org/wiki/케로로_중사_극장판_3기_동시상영_-_무사_케로_전국란성_대_배틀 "wikilink")》이다.
+**케로로 더 무비: 케로로 vs 케로로 천공대결전**(, ) 은 [요시자키 미네의](https://ko.wikipedia.org/wiki/요시자키_미네 "wikilink") 동명만화 원작 [케로로 중사의](https://ko.wikipedia.org/wiki/케로로_중사 "wikilink") 세 번째 극장판 애니메이션이다. [2008년](../Page/2008년.md "wikilink") [3월 1일](../Page/3월_1일.md "wikilink") 개봉되었으며, 케로로 대 케로로라는 묘한 타이틀을 걸고 있다. 한편 [대한민국](../Page/대한민국.md "wikilink")에서는 3기가 아닌 2기로 [2008년](../Page/2008년.md "wikilink") [8월 7일](../Page/8월_7일.md "wikilink") 극장 개봉을 했다. 또 [대한민국](../Page/대한민국.md "wikilink")에서는 이번 극장판부터 ‘케로로 극장판’을 ‘케로로 더 무비’라는 표현으로 바꾸어 사용하였다. 동시 상영 작품은 《[무사 케로 전국란성 대 배틀](https://ko.wikipedia.org/wiki/케로로_중사_극장판_3기_동시상영_-_무사_케로_전국란성_대_배틀 "wikilink")》이다.
 
 이번 극장판 메인 주인공 '다크 케로로'는 원판과 더빙판 모두 별도의 게스트 성우를 쓰지 않고 기존 케로로 성우(와타나베 쿠미코, 양정화)가 맡았다. 더빙판 성우 양정화는 깜찍하고 발랄한 케로로와 차분하면서도 냉소적인 다크 케로로 목소리를 자유롭게 소화해내 호평을 받았다.
 

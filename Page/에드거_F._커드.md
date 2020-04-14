@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ F. ](https://ko.wikipedia.org/wiki/_F._).
+> This article is converted from Wikipedia: [에드거 F. 커드](https://ko.wikipedia.org/wiki/에드거_F._커드).
 
 
 **에드거 프랭크 "테드" 커드**(, [1923년](../Page/1923년.md "wikilink") [8월 23일](../Page/8월_23일.md "wikilink") \~ [2003년](../Page/2003년.md "wikilink") [4월 18일](../Page/4월_18일.md "wikilink"))는 [관계형 데이터베이스](https://ko.wikipedia.org/wiki/관계형_데이터베이스 "wikilink") 이론에 중요한 공헌을 한 [영국](../Page/영국.md "wikilink")의 [컴퓨터 과학자이다](../Page/컴퓨터_과학.md "wikilink"). 그는 [IBM](../Page/IBM.md "wikilink")에서 일하는 동안 [데이터베이스](../Page/데이터베이스.md "wikilink") 관리를 위한 [관계형 모델을](../Page/관계형_모델.md "wikilink") 만들었다. 관계형 모델은 데이터 관리에서 매우 중요한 일반적 [이론](https://ko.wikipedia.org/wiki/이론 "wikilink")으로, 그가 컴퓨터 과학 분야에서 이룬 공헌들 중 가장 주목할 만한 업적이다.

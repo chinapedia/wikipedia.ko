@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  feat.Nico Nico Artists](https://ko.wikipedia.org/wiki/__feat.Nico_Nico_Artists).
+> This article is converted from Wikipedia: [란티스 조곡 feat.Nico Nico Artists](https://ko.wikipedia.org/wiki/란티스_조곡_feat.Nico_Nico_Artists).
 
 
 《**란티스 조곡**》()은 [란티스](../Page/란티스.md "wikilink")의 앨범으로 2008년 3월 5일 발매되었다.
@@ -11,8 +11,8 @@
 
 ## 수록곡
 
-1.  **란티스 조곡** () (20:12)
-2.  **란티스 조곡 (off Vocal)** () (20:12)
+1.  **란티스 조곡**() (20:12)
+2.  **란티스 조곡 (off Vocal)**() (20:12)
 
 ## 참가자
 

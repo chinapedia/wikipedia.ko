@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KBS](https://ko.wikipedia.org/wiki/KBS).
+> This article is converted from Wikipedia: [KBS충주방송국](https://ko.wikipedia.org/wiki/KBS충주방송국).
 
 
 **KBS충주방송국**(KBS忠州放送局)은 [충청북도](https://ko.wikipedia.org/wiki/충청북도 "wikilink") 북부 지역을 방송 권역으로 하는 [KBS 청주방송총국](https://ko.wikipedia.org/wiki/KBS_청주방송총국 "wikilink") 소속 산하의 지역방송국이다. KBS 지역국 중 유일하게 AM 방송을 하지 않는다.
@@ -69,7 +69,7 @@
       - 호출부호 : HLCH-DTV
       - 가상채널 : 9-1
 
-| 송신소     | UHD   | HD    | 송신소 위치 | 비고                      |
+| 송신소     | UHD   | HD    | 송신소 위치 | KBS 수신 안내               |
 | ------- | ----- | ----- | ------ | ----------------------- |
 | 물리채널    | 출력    | 물리채널  | 출력     |                         |
 | 1TV     | 2TV   | 1TV   | 2TV    |                         |
@@ -140,6 +140,16 @@
 
 ### 지상파 DMB
 
+## 방송 송신 시설
+
+※ KBS청주방송총국 사옥에서 전파를 송출하는 방송을 나타낸다.
+
+|           |
+| --------- |
+| **FM라디오** |
+| 채널        |
+| 105.1㎒    |
+
 ## 제작 프로그램
 
 ### TV 프로그램
@@ -161,7 +171,7 @@
 | KBS 제1라디오 오전 9시 뉴스                                         | 월요일 \~ 금요일 5분       | 오전 9시 \~ 9시 5분                                                | [박찬송](https://ko.wikipedia.org/wiki/박찬송 "wikilink")(TV:동시 송출) |
 | [KBS 제1라디오 정오종합뉴스](../Page/KBS_제1라디오_정오종합뉴스.md "wikilink") | 낮 12시 15분\~ 12시 20분 | [진두연](https://ko.wikipedia.org/wiki/진두연 "wikilink")(TV:동시 송출) |                                                               |
 | KBS 제1라디오 오후 5시 뉴스                                         | 오후 5시 \~ 5시 5분      | [정지성](../Page/정지성.md "wikilink")(TV:동시 송출)                    |                                                               |
-| KBS 제1라디오 오후 6시 뉴스                                         | 토요일 \~ 일요일 5분       | 저녁 6시 \~ 6시 5분                                                | 청주 수중계(TV:동시 수중계)                                             |
+| KBS 제1라디오 오후 6시 뉴스                                         | 토요일 \~ 일요일 5분       | 저녁 6시 \~ 6시 5분                                                | 청주 수중계(TV:동시 송출)                                              |
 
   - 프로그램
 
@@ -210,6 +220,10 @@
 
   - [MBC충북 충주방송국](../Page/MBC충북_충주방송국.md "wikilink")
   - [CJB](../Page/청주방송.md "wikilink")
+
+## 같이 보기
+
+  - [리빙쇼 당신의 여섯시](../Page/리빙쇼_당신의_여섯시.md "wikilink") (수요일)
 
 ## 외부 링크
 

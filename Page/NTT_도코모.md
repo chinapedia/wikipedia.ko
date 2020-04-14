@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [NTT ](https://ko.wikipedia.org/wiki/NTT_).
+> This article is converted from Wikipedia: [NTT 도코모](https://ko.wikipedia.org/wiki/NTT_도코모).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Sanno-Park-Tower-03.jpg "wikilink") 본사 (산노 파크 타워)\]\] [200px](https://ko.wikipedia.org/wiki/파일:NTT_DoCoMo_Yoyogi_Building.jpg "wikilink")

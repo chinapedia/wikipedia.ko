@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ CFA ](https://ko.wikipedia.org/wiki/_CFA_).
+> This article is converted from Wikipedia: [중앙아프리카 CFA 프랑](https://ko.wikipedia.org/wiki/중앙아프리카_CFA_프랑).
 
 
 **중앙아프리카 CFA 프랑** ([프랑스어](../Page/프랑스어.md "wikilink"): *franc CFA* 또는 간단히 *franc*, [ISO 4217](../Page/ISO_4217.md "wikilink") 코드: *XAF*) 은 중앙아프리카의 6개국([가봉](../Page/가봉.md "wikilink"), [적도 기니](../Page/적도_기니.md "wikilink"), [중앙아프리카 공화국](../Page/중앙아프리카_공화국.md "wikilink"), [차드](../Page/차드.md "wikilink"), [카메룬](../Page/카메룬.md "wikilink"), [콩고 공화국](../Page/콩고_공화국.md "wikilink"))이 사용하는 통화이다. CFA는 중앙아프리카의 경제 공동체(***C**oopération **F**inancière en **A**frique centrale*)을 의미한다. 중앙아프리카 CFA 프랑은 [카메룬](../Page/카메룬.md "wikilink")의 [야운데](../Page/야운데.md "wikilink")에 위치한 [중앙아프리카 은행](https://ko.wikipedia.org/wiki/중앙아프리카_은행 "wikilink") (BEAC)에 의해 발행되고, [중앙아프리카 경제통화공동체](https://ko.wikipedia.org/wiki/중앙아프리카_경제통화공동체 "wikilink") (CEMAC)의 6개국에서 사용된다. 1 프랑은 명목상 100 *[상팀](https://ko.wikipedia.org/wiki/상팀 "wikilink")*으로 나뉘게 되지만, 중앙아프리카에서 상팀은 발행되지 않는다.

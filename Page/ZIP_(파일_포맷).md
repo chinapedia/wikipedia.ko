@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ZIP \( \)](https://ko.wikipedia.org/wiki/ZIP_\(_\)).
+> This article is converted from Wikipedia: [ZIP \(파일 포맷\)](https://ko.wikipedia.org/wiki/ZIP_\(파일_포맷\)).
 
 
 **ZIP 파일 형식**이란 데이터를 압축, 보관하기 위한 파일형식이다. ZIP 파일은 하나 혹은 여러 개의 파일들을 그 크기를 줄여 압축하고 하나로 묶어 저장한다. ZIP 파일 형식에서는 다양한 종류의 압축 알고리즘의 사용이 가능하나, 2009년 현재 Deflate 알고리즘만이 가장 많이 사용되고 지원되는 압축 알고리즘이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [NHK  1](https://ko.wikipedia.org/wiki/NHK__1).
+> This article is converted from Wikipedia: [NHK 위성 제1텔레비전](https://ko.wikipedia.org/wiki/NHK_위성_제1텔레비전).
 
 
 **NHK 위성 제1텔레비전**은 [NHK](https://ko.wikipedia.org/wiki/NHK "wikilink")의 위성방송국 중 하나이며 약칭은 **BS1**이다.

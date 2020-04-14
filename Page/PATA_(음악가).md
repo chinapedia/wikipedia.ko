@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [PATA \(\)](https://ko.wikipedia.org/wiki/PATA_\(\)).
+> This article is converted from Wikipedia: [PATA \(음악가\)](https://ko.wikipedia.org/wiki/PATA_\(음악가\)).
 
 
 **파타**(PATA, [1965년](../Page/1965년.md "wikilink") [11월 4일](../Page/11월_4일.md "wikilink") \~ )는 [일본](../Page/일본.md "wikilink")의 [음악가](https://ko.wikipedia.org/wiki/음악가 "wikilink")이다. 그는 [록 밴드](https://ko.wikipedia.org/wiki/록_밴드 "wikilink") [엑스 재팬의](https://ko.wikipedia.org/wiki/엑스_재팬 "wikilink") 기타리스트로, 본명은 **이시즈카 토모아키**(石塚智昭).

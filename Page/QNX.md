@@ -7,7 +7,9 @@
 
 1980년에 [워털루 대학교에](../Page/워털루_대학교.md "wikilink") 재학 중이었던 고든 벨(Gordon Bell)과 댄 닷지(Dan Doge)는 운영 체제 설계를 다루는 표준 [컴퓨터 과학](../Page/컴퓨터_과학.md "wikilink") 수업을 들었고, 여기서 이 학생들은 기본적인 실시간 커널을 구성하였다.
 
-이 시스템은 크기가 매우 작고, 초기 버전들은 하나의 [플로피 디스크에](https://ko.wikipedia.org/wiki/플로피_디스크 "wikilink") 딱 들어간다.\[1\]
+이 시스템은 크기가 매우 작고, 초기 버전들은 하나의 1.44MB [플로피 디스크에](https://ko.wikipedia.org/wiki/플로피_디스크 "wikilink") 담길 수 있을 정도의 극도의 경량성을 자랑하였다.
+
+2010년에 휴대폰 제조사인 리서치 인 모션(지금의 블랙베리)이 QNX의 개발사인 QNX 소프트웨어 시스템스를 인수했다.
 
 ## 각주
 
@@ -20,5 +22,3 @@
   - [알티솔루션 (Distributor)](http://www.rtsolutions.co.kr)
 
 [분류:컴퓨팅 플랫폼](https://ko.wikipedia.org/wiki/분류:컴퓨팅_플랫폼 "wikilink") [분류:임베디드 운영 체제](https://ko.wikipedia.org/wiki/분류:임베디드_운영_체제 "wikilink") [분류:실시간 운영 체제](https://ko.wikipedia.org/wiki/분류:실시간_운영_체제 "wikilink") [분류:모바일 운영 체제](https://ko.wikipedia.org/wiki/분류:모바일_운영_체제 "wikilink") [분류:유닉스 계열](https://ko.wikipedia.org/wiki/분류:유닉스_계열 "wikilink") [분류:마이크로커널](https://ko.wikipedia.org/wiki/분류:마이크로커널 "wikilink") [분류:ARM 운영 체제](https://ko.wikipedia.org/wiki/분류:ARM_운영_체제 "wikilink")
-
-1.

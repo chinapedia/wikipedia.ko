@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
+> This article is converted from Wikipedia: [알힐랄 FC](https://ko.wikipedia.org/wiki/알힐랄_FC).
 
 
 **알힐랄 SFC**(, )는 [1957년](../Page/1957년.md "wikilink")에 창단된 [사우디아라비아](../Page/사우디아라비아.md "wikilink")의 축구 클럽이다. 수도인 [리야드](../Page/리야드.md "wikilink")를 연고로 하며, 홈구장은 [킹 파드 국제경기장이다](https://ko.wikipedia.org/wiki/킹_파드_국제경기장 "wikilink"). 사우디아라비아에서 축구 팬이 많은 구단으로 유명하다. 구단명 알힐랄은 "[초승달](https://ko.wikipedia.org/wiki/초승달 "wikilink")"이라는 뜻이다.

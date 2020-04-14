@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
+> This article is converted from Wikipedia: [예산 FC](https://ko.wikipedia.org/wiki/예산_FC).
 
 
 **예산 FC**()는 [충청남도](https://ko.wikipedia.org/wiki/충청남도 "wikilink") [예산군](../Page/예산군.md "wikilink")을 연고지로 했던 [한국 내셔널리그](https://ko.wikipedia.org/wiki/한국_내셔널리그 "wikilink") 소속의 축구팀이었다. 본래 [서산시](../Page/서산시.md "wikilink")를 연고지로 ‘서산 오메가 FC’란 이름을 사용했으나, 서산시의 미비한 지원으로 [최종덕](../Page/최종덕.md "wikilink") 감독의 사비를 털어 운영하던 중, [2008년](../Page/2008년.md "wikilink") 인근 지역인 [예산군](../Page/예산군.md "wikilink")으로 연고를 이전하면서 구단 명칭을 ‘예산 FC’로 바꾸었다.

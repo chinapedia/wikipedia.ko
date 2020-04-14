@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FM ](https://ko.wikipedia.org/wiki/FM_).
+> This article is converted from Wikipedia: [FM 아이치](https://ko.wikipedia.org/wiki/FM_아이치).
 
 
 **FM아이치**는 일본의 FM라디오 방송국으로 [1969년](../Page/1969년.md "wikilink") [12월 24일](../Page/12월_24일.md "wikilink") 개국했으며 [아이치현](../Page/아이치현.md "wikilink")에서 방송을 실시하고 있다.

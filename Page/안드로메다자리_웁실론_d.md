@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  d](https://ko.wikipedia.org/wiki/__d).
+> This article is converted from Wikipedia: [안드로메다자리 웁실론 d](https://ko.wikipedia.org/wiki/안드로메다자리_웁실론_d).
 
 
 **안드로메다자리 웁실론 d**는 [태양](../Page/태양.md "wikilink")과 비슷한 [안드로메다자리 웁실론](../Page/안드로메다자리_웁실론.md "wikilink") 주위를 공전하는 [외계 행성이다](../Page/외계_행성.md "wikilink"). 1999년 4월 제오프리 마시와 폴 버틀러가 발견했다. [펄서](https://ko.wikipedia.org/wiki/펄서 "wikilink") [PSR 1257+12을](https://ko.wikipedia.org/wiki/PSR_1257+12 "wikilink") 제외하고, 이 행성의 발견으로 안드로메다자리 웁실론별은 평범한 항성들 중 다수의 행성을 거느리고 있는 첫 번째 사례가 되었다. 웁실론 d는 어머니 항성에서 세 번째로 가까운 존재이며, 현재까지 발견된 이 행성계의 구성원들 중 가장 바깥쪽을 돌고 있다.

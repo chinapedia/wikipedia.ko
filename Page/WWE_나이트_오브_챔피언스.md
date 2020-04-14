@@ -1,11 +1,11 @@
-> This article is converted from Wikipedia: [WWE   ](https://ko.wikipedia.org/wiki/WWE___).
+> This article is converted from Wikipedia: [WWE 나이트 오브 챔피언스](https://ko.wikipedia.org/wiki/WWE_나이트_오브_챔피언스).
 
 
 **WWE 벤전스**(Vengeance) 또는 **WWE 나이트 오브 챔피언스**(Night of Champions)는 [WWE](https://ko.wikipedia.org/wiki/WWE "wikilink")가 주관하는 페이 퍼 뷰이다.
 
 이 행사는 1999년 **아마겟돈**(Armageddon)란 이름을 걸고 시작하였으며, 본래 12월에 개최될 예정이었던 페이 퍼 뷰 아마겟돈이 2001년 당시 [9·11 테러로](https://ko.wikipedia.org/wiki/9·11_테러 "wikilink") 인해 대회명이 문제가 되어, **벤젼스**(Vengeance)로 대체가 되어 지금까지 계속되고 있다. 아마겟돈은 2002년에 부활했으며, 벤젼스는 개최 시기를 7월로 변경한 이후 계속되고 있다. 이 행사는 2003년까지만 해도 스맥다운의 행사였으나 2004에서 2006년까진 러의 행사로 진행되었다. 2005년 〈더 그레이트 아메리칸 배쉬〉와 페이 퍼 뷰 진행시기를 교체하여 6월로 변경되어 되었다.
 
-2007년엔 **벤젼스: 나이트 오브 챔피언스** (Vengeance: Night of Champions)란 이름을 걸고 9개의 챔피언쉽이 모두 진행되었다. 2008년부터는 **나이트 오브 챔피언스** (Night of Champions)란 이름으로 바뀌어 진행하게 되었고, 2010년 부터는 9월로 개최시기를 변경하여 6년간 진행했으며, 2016년 7월 [RAW](https://ko.wikipedia.org/wiki/RAW "wikilink")와 [스맥다운](https://ko.wikipedia.org/wiki/스맥다운 "wikilink")이 다시 분리되는 시점부터는 과거 [WCW](https://ko.wikipedia.org/wiki/WCW "wikilink")의 월간 TV 스페셜의 명칭이기도 했던 [클래쉬 오브 챔피언스라는](https://ko.wikipedia.org/wiki/클래쉬_오브_챔피언스 "wikilink") 새로운 명칭의 [RAW](https://ko.wikipedia.org/wiki/RAW "wikilink") 독점 PPV가 대신 개최될 예정이다.
+2007년엔 **벤젼스: 나이트 오브 챔피언스**(Vengeance: Night of Champions)란 이름을 걸고 9개의 챔피언쉽이 모두 진행되었다. 2008년부터는 **나이트 오브 챔피언스**(Night of Champions)란 이름으로 바뀌어 진행하게 되었고, 2010년 부터는 9월로 개최시기를 변경하여 6년간 진행했으며, 2016년 7월 [RAW](https://ko.wikipedia.org/wiki/RAW "wikilink")와 [스맥다운](https://ko.wikipedia.org/wiki/스맥다운 "wikilink")이 다시 분리되는 시점부터는 과거 [WCW](https://ko.wikipedia.org/wiki/WCW "wikilink")의 월간 TV 스페셜의 명칭이기도 했던 [클래쉬 오브 챔피언스라는](https://ko.wikipedia.org/wiki/클래쉬_오브_챔피언스 "wikilink") 새로운 명칭의 [RAW](https://ko.wikipedia.org/wiki/RAW "wikilink") 독점 PPV가 대신 개최될 예정이다.
 
 ## 개최한 곳
 

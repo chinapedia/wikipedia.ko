@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KBS  5](https://ko.wikipedia.org/wiki/KBS__5).
+> This article is converted from Wikipedia: [KBS 뉴스 5](https://ko.wikipedia.org/wiki/KBS_뉴스_5).
 
 
 《**KBS 뉴스 5**》()는 매주 [평일](https://ko.wikipedia.org/wiki/평일 "wikilink") 오후 5시에 [KBS 1TV로](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink") 방송되는 [한국방송공사의 뉴스 프로그램이다](../Page/한국방송공사의_뉴스_프로그램.md "wikilink").

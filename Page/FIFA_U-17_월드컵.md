@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FIFA U-17 ](https://ko.wikipedia.org/wiki/FIFA_U-17_).
+> This article is converted from Wikipedia: [FIFA U-17 월드컵](https://ko.wikipedia.org/wiki/FIFA_U-17_월드컵).
 
 
 **FIFA U-17 월드컵**(FIFA U-17 World Cup)은 [국제 축구 연맹](../Page/국제_축구_연맹.md "wikilink")(FIFA) 주관으로 2년마다 열리는 청소년 [축구](../Page/축구.md "wikilink") 대회이다. 각국의 17세 이하 남자 축구 대표팀이 참가한다. [1985년](../Page/1985년.md "wikilink") 대회부터 [1989년](../Page/1989년.md "wikilink") 대회까지는 16세 이하의 선수들만 출전할 수 있었지만, [1991년](../Page/1991년.md "wikilink") 대회부터 17세 이하의 선수들만 출전할 수 있도록 연령 제한을 높였다.

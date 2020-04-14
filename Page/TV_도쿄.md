@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TV ](https://ko.wikipedia.org/wiki/TV_).
+> This article is converted from Wikipedia: [TV 도쿄](https://ko.wikipedia.org/wiki/TV_도쿄).
 
 
 **주식회사 테레비도쿄**(, )는 [일본](../Page/일본.md "wikilink")의 [광역 간토권을](../Page/간토_지방.md "wikilink") 방송 대상 지역으로 하는 텔레비전 방송국이다. 콜사인은 **JOTX-DTV**이며, **TX**로 약칭하기도 한다.

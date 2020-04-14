@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FM ](https://ko.wikipedia.org/wiki/FM_).
+> This article is converted from Wikipedia: [FM 음원](https://ko.wikipedia.org/wiki/FM_음원).
 
 
 **FM 음원**은 [주파수 변조](../Page/주파수_변조.md "wikilink")(Frequency Modulation)를 이용하는 소리를 합성하는 방식을 말한다.

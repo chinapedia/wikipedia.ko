@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FM ](https://ko.wikipedia.org/wiki/FM_).
+> This article is converted from Wikipedia: [FM 야마구치](https://ko.wikipedia.org/wiki/FM_야마구치).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:FM_Yamaguchi.JPG "wikilink") **FM야마구치**는 일본의 FM라디오 방송국으로 [1985년](../Page/1985년.md "wikilink") [12월 1일](../Page/12월_1일.md "wikilink") 개국했으며 [야마구치현](../Page/야마구치현.md "wikilink")에서 방송을 실시하고 있다.

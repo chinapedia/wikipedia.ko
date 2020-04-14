@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  DC-9](https://ko.wikipedia.org/wiki/__DC-9).
+> This article is converted from Wikipedia: [맥도널 더글러스 DC-9](https://ko.wikipedia.org/wiki/맥도널_더글러스_DC-9).
 
 
 **맥도널 더글러스 DC-9**는 [1965년](../Page/1965년.md "wikilink") [맥도넬 더글러스사](https://ko.wikipedia.org/wiki/맥도넬_더글러스 "wikilink")(당시 더글라스사)에서 개발한 쌍발 협동체기이다. [DC-8이](../Page/더글러스_DC-8.md "wikilink") 장거리용으로 개발된 것과 맞추어 중단거리용으로 제작되었다. DC-9를 바탕으로 [MD-80](https://ko.wikipedia.org/wiki/MD-80 "wikilink"), [MD-90](https://ko.wikipedia.org/wiki/MD-90 "wikilink"), [보잉 717등의](../Page/보잉_717.md "wikilink") 기종들이 개발되었다.

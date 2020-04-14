@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [PMT ](https://ko.wikipedia.org/wiki/PMT_).
+> This article is converted from Wikipedia: [PMT 항공](https://ko.wikipedia.org/wiki/PMT_항공).
 
 
 **PMT 항공**()은 [캄보디아](../Page/캄보디아.md "wikilink")의 항공사로 [프놈펜 국제공항을](https://ko.wikipedia.org/wiki/프놈펜_국제공항 "wikilink") 중심으로 국내선과 국제선 여객기와 화물기를 운영하고 있다. 회사 사명의 유래는 [국제민간항공기구](https://ko.wikipedia.org/wiki/국제민간항공기구 "wikilink")에서 부여한 세 글자 코드 PMT를 따서 사람들이 부르기 쉽게하기 위해서 **PMT 항공**이라 이름을 지었다. 또한 프로그레스 멀티트레이드 회사()가 소유하고 있으며 [2003년](../Page/2003년.md "wikilink") [1월 14일](../Page/1월_14일.md "wikilink") [캄보디아](../Page/캄보디아.md "wikilink") 상무부에 항공사로 등록했다. 하지만 [2007년 캄보디아 항공기 추락 사고](https://ko.wikipedia.org/wiki/2007년_캄보디아_항공기_추락_사고 "wikilink") 사건 이후 면허가 취소되었고 현재 면허를 재취득하기 위해 [캄보디아](../Page/캄보디아.md "wikilink") 당국과 협상하고 있는 것으로 알려져 있다.\[1\]\[2\]

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  CD](https://ko.wikipedia.org/wiki/__CD).
+> This article is converted from Wikipedia: [슈퍼 비디오 CD](https://ko.wikipedia.org/wiki/슈퍼_비디오_CD).
 
 
 **슈퍼 비디오 CD**(Super Video CD, SVCD)는 표준 [콤팩트 디스크에](../Page/콤팩트_디스크.md "wikilink") [비디오](../Page/비디오.md "wikilink")를 저장하는 데에 쓰이는 포맷이다. SVCD는 [비디오 CD의](../Page/비디오_CD.md "wikilink") 뒤를 이으며 [DVD 비디오의](../Page/DVD_비디오.md "wikilink") 대안이다. 지금은 그 둘 사이에서 기술, 화질에 밀려나고 있다.

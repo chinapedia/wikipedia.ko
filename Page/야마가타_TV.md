@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ TV](https://ko.wikipedia.org/wiki/_TV).
+> This article is converted from Wikipedia: [야마가타 TV](https://ko.wikipedia.org/wiki/야마가타_TV).
 
 
 [오른쪽](https://ko.wikipedia.org/wiki/파일:Yts_logo.svg "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:Yamagata_Television_System.jpg "wikilink") **야마가타 TV**는 [1970년](../Page/1970년.md "wikilink") [4월 1일](../Page/4월_1일.md "wikilink") 야마가타현의 2번째 민영방송국으로서 개국했다.

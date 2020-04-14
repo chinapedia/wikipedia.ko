@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  DS](https://ko.wikipedia.org/wiki/__DS).
+> This article is converted from Wikipedia: [마리오 파티 DS](https://ko.wikipedia.org/wiki/마리오_파티_DS).
 
 
 |제목 = 마리오 파티 DS |원제목 = Mario Party DS |개발사 = [닌텐도](../Page/닌텐도.md "wikilink") |배급사 = [닌텐도](../Page/닌텐도.md "wikilink") |출시 =  : [2007년](../Page/2007년.md "wikilink") [11월 19일](../Page/11월_19일.md "wikilink")

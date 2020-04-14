@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ BABYLON](https://ko.wikipedia.org/wiki/_BABYLON).
+> This article is converted from Wikipedia: [동경 BABYLON](https://ko.wikipedia.org/wiki/동경_BABYLON).
 
 
 《**동경 BABYLON**》()은 [일본](../Page/일본.md "wikilink")의 만화작가 집단 [클램프](../Page/클램프.md "wikilink")(CLAMP)가 그린 만화 작품 및 그 만화를 원작으로 하는 애니메이션이다.

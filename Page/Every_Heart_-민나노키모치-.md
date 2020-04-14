@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Every Heart --](https://ko.wikipedia.org/wiki/Every_Heart_--).
+> This article is converted from Wikipedia: [Every Heart -민나노키모치-](https://ko.wikipedia.org/wiki/Every_Heart_-민나노키모치-).
 
 
 〈**Every Heart-민나노 기모치-**〉()는 [대한민국](../Page/대한민국.md "wikilink")의 가수 [보아](../Page/보아.md "wikilink")가 [일본](../Page/일본.md "wikilink")에서 발매한 5번째 싱글이다. 보아의 일본 싱글들 중 발라드 곡이 타이틀 곡인 싱글은 이 싱글이 처음이다.

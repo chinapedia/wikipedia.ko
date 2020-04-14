@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FIVB  ](https://ko.wikipedia.org/wiki/FIVB__).
+> This article is converted from Wikipedia: [FIVB 배구 월드그랑프리](https://ko.wikipedia.org/wiki/FIVB_배구_월드그랑프리).
 
 
 **FIVB 배구 월드그랑프리**()는 [배구](../Page/배구.md "wikilink") 종목을 총괄하는 국제기구인 [국제 배구 연맹](../Page/국제_배구_연맹.md "wikilink")(FIVB)이 주관하는 국제 배구 대회이다. 대회는 [1993년](../Page/1993년.md "wikilink")에 창설되었으며, [FIVB](../Page/국제_배구_연맹.md "wikilink") 가맹국의 성인 여자 국가대표팀이 참여한다. 보통 4년 주기의 토너먼트로 열리는 여타의 주요 국가대항전 대회와는 달리, 매년 여름에 리그 형식으로 개최된다. 대회는 통상적으로 **배구 그랑프리**나 **월드그랑프리**라고 줄여서 부른다. 동일한 성격의 남자부 대회로는 [FIVB 배구 월드리그가](../Page/FIVB_배구_월드리그.md "wikilink") 있다.

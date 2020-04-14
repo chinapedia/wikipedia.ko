@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [K-](https://ko.wikipedia.org/wiki/K-).
+> This article is converted from Wikipedia: [K-바둑](https://ko.wikipedia.org/wiki/K-바둑).
 
 
 **K바둑**(KBaduk)은 대한민국의 바둑 채널이다. 과거 **SKY 바둑채널**이라는 채널명을 썼었으나 [2011년 3월부로](../Page/2011년_3월.md "wikilink") 'K바둑(한국바둑방송)'으로 채널명을 변경하였다.

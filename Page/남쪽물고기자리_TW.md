@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ TW](https://ko.wikipedia.org/wiki/_TW).
+> This article is converted from Wikipedia: [남쪽물고기자리 TW](https://ko.wikipedia.org/wiki/남쪽물고기자리_TW).
 
 
 **남쪽물고기자리 TW**는 [남쪽물고기자리](../Page/남쪽물고기자리.md "wikilink")에 있는 [오렌지색 주계열성으로](https://ko.wikipedia.org/wiki/오렌지색_왜성 "wikilink"), 지구에서 24.9광년 떨어져 있다. 이름에 붙어 있는 TW 기호는 [변광성](../Page/변광성.md "wikilink")을 의미하는 학술 용어이다. 이 별은 [플레어 별로](https://ko.wikipedia.org/wiki/플레어_별 "wikilink"), [용자리 BY](https://ko.wikipedia.org/wiki/용자리_BY "wikilink") 변광성이기도 하다. [밝기는](https://ko.wikipedia.org/wiki/겉보기_등급 "wikilink") 6.44에서 6.49등급 사이에서 변한다. [태양](../Page/태양.md "wikilink")보다 [광도](https://ko.wikipedia.org/wiki/광도 "wikilink")와 [질량](https://ko.wikipedia.org/wiki/질량 "wikilink") 모두 좀 더 작음에도 불구하고, 플레어 별 중에서는 매우 밝고 큰 편에 속한다. 보통 대부분의 플레어 별은 M형의 [적색 왜성들이기](https://ko.wikipedia.org/wiki/적색_왜성 "wikilink") 때문이다.

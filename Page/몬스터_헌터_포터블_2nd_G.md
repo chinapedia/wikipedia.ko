@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [   2nd G](https://ko.wikipedia.org/wiki/___2nd_G).
+> This article is converted from Wikipedia: [몬스터 헌터 포터블 2nd G](https://ko.wikipedia.org/wiki/몬스터_헌터_포터블_2nd_G).
 
 
 《**몬스터 헌터 포터블 2nd G**》는 [몬스터 헌터 포터블 2nd의](https://ko.wikipedia.org/wiki/몬스터_헌터_포터블_2nd "wikilink") 확장판 형식으로 기본적으로 [몬스터 헌터 포터블 2nd와](https://ko.wikipedia.org/wiki/몬스터_헌터_포터블_2nd "wikilink") 같다.

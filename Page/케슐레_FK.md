@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ FK](https://ko.wikipedia.org/wiki/_FK).
+> This article is converted from Wikipedia: [케슐레 FK](https://ko.wikipedia.org/wiki/케슐레_FK).
 
 
 **케슐레 FK**(, 옛 명칭 **인테르 바쿠**(Inter Baku))는 [케슐레](https://ko.wikipedia.org/wiki/케슐레 "wikilink")를 연고로 하는 아제르바이잔의 축구 클럽으로, 현재 [아제르바이잔 프리미어리그에](../Page/아제르바이잔_프리미어리그.md "wikilink") 참가하고 있다. 두 차례 리그 우승을 경험한 바가 있다.
@@ -27,4 +27,4 @@
 
   - [공식 웹사이트](https://web.archive.org/web/20150924035422/http://www.inter.az/index.php?lang=en)
 
-[인테르_바쿠](https://ko.wikipedia.org/wiki/분류:인테르_바쿠 "wikilink") [분류:2004년 설립된 축구단](https://ko.wikipedia.org/wiki/분류:2004년_설립된_축구단 "wikilink") [분류:아제르바이잔의 축구단](https://ko.wikipedia.org/wiki/분류:아제르바이잔의_축구단 "wikilink")
+[케슐레_FK](https://ko.wikipedia.org/wiki/분류:케슐레_FK "wikilink") [분류:2004년 설립된 축구단](https://ko.wikipedia.org/wiki/분류:2004년_설립된_축구단 "wikilink") [분류:아제르바이잔의 축구단](https://ko.wikipedia.org/wiki/분류:아제르바이잔의_축구단 "wikilink")

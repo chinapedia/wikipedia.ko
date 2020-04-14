@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [PE ](https://ko.wikipedia.org/wiki/PE_).
+> This article is converted from Wikipedia: [PE 포맷](https://ko.wikipedia.org/wiki/PE_포맷).
 
 
 **PE 포맷**()은 [윈도우](https://ko.wikipedia.org/wiki/윈도우 "wikilink") 운영 체제에서 사용되는 [실행 파일](../Page/실행_파일.md "wikilink"), [DLL](../Page/동적_링크_라이브러리.md "wikilink"), object 코드, FON 폰트 파일\[1\] 등을 위한 파일 형식이다. PE 포맷은 윈도우 로더가 실행 가능한 코드를 관리하는데 필요한 정보를 캡슐화한 데이터 구조체이다. 이것은 [링킹을 위한 동적 라이브러리 참조](../Page/라이브러리_\(컴퓨팅\).md "wikilink"), [API](../Page/API.md "wikilink") 익스포트와 임포트 테이블, 자원 관리 데이터 그리고 [TLS](https://ko.wikipedia.org/wiki/스레드_로컬_저장소 "wikilink") 데이터를 포함한다. [윈도우 NT](../Page/윈도우_NT.md "wikilink") 운영체제에서, PE 포맷은 [EXE](../Page/EXE.md "wikilink"), [DLL](https://ko.wikipedia.org/wiki/DLL "wikilink"), [SYS](https://ko.wikipedia.org/wiki/SYS "wikilink") ([디바이스 드라이버](https://ko.wikipedia.org/wiki/디바이스_드라이버 "wikilink")), 그리고 다른 파일 종류들에서 쓰인다. [통일 확장 펌웨어 인터페이스](../Page/통일_확장_펌웨어_인터페이스.md "wikilink") (EFI) 설명서는 PE가 EFI 환경에서 표준 실행 파일 형식이라고 언급한다.\[2\]

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [NHK  ](https://ko.wikipedia.org/wiki/NHK__).
+> This article is converted from Wikipedia: [NHK 쓰루오카 지국](https://ko.wikipedia.org/wiki/NHK_쓰루오카_지국).
 
 
 **NHK 쓰루오카 지국**(鶴岡 支局)은 [NHK 야마가타 방송국의](../Page/NHK_야마가타_방송국.md "wikilink") 지사이다.

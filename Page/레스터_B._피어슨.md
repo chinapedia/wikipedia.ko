@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ B. ](https://ko.wikipedia.org/wiki/_B._).
+> This article is converted from Wikipedia: [레스터 B. 피어슨](https://ko.wikipedia.org/wiki/레스터_B._피어슨).
 
 
 **레스터 볼스 "마이크" 피어슨**(, [OM](https://ko.wikipedia.org/wiki/:en:Order_of_Merit "wikilink"), [CC](../Page/캐나다_훈장.md "wikilink"), [OBE](../Page/대영_제국_훈장.md "wikilink"), [1897년](../Page/1897년.md "wikilink") [4월 27일](../Page/4월_27일.md "wikilink") \~ [1972년](../Page/1972년.md "wikilink") [12월 27일](../Page/12월_27일.md "wikilink"))은 [캐나다](../Page/캐나다.md "wikilink")의 [정치인](../Page/정치인.md "wikilink")이다.

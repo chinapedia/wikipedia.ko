@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [NHK  ](https://ko.wikipedia.org/wiki/NHK__).
+> This article is converted from Wikipedia: [NHK 무로란 방송국](https://ko.wikipedia.org/wiki/NHK_무로란_방송국).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:NHK_Muroran_Station.jpg "wikilink") **NHK 무로란 방송국**)은 [홋카이도](../Page/홋카이도.md "wikilink") [이부리 지청과](../Page/이부리_지청.md "wikilink") [히다카 지청을](../Page/히다카_지청.md "wikilink") 방송구역으로 하는 NHK의 지역방송국이며 중파·FM라디오·텔레비전 방송을 담당하고 있다.

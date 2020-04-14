@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [-T](https://ko.wikipedia.org/wiki/-T).
+> This article is converted from Wikipedia: [슈퍼주니어-T](https://ko.wikipedia.org/wiki/슈퍼주니어-T).
 
 
-**슈퍼주니어-T**()는 대한민국의 아이돌 그룹 [JHS컴퍼니에서](../Page/슈퍼주니어.md "wikilink") 만든 유닛그룹이다.
+**슈퍼주니어-T**()는 대한민국의 아이돌 그룹 [슈퍼주니어](../Page/슈퍼주니어.md "wikilink")의 유닛 그룹으로 [SM 엔터테인먼트](../Page/SM_엔터테인먼트.md "wikilink") 소속이다.
 
 ## 구성원
 
@@ -32,7 +32,7 @@
 <li>본명 : 김희철 (金希澈)</li>
 <li>생년월일 : </li>
 <li>출생지 :  <a href="../Page/강원도.md" title="wikilink">강원도</a> <a href="../Page/횡성군.md" title="wikilink">횡성군</a></li>
-<li>유닛그룹 : 김희철&amp;김정모, <a href="../Page/나비잠_(Sweet_Dream).md" title="wikilink">우주겁쟁이</a>, <a href="../Page/슈퍼주니어-T.md" title="wikilink">슈퍼주니어-T</a></li>
+<li>유닛그룹 : <a href="../Page/슈퍼주니어-T.md" title="wikilink">슈퍼주니어-T</a></li>
 <li>활동기간 : <a href="../Page/2005년.md" title="wikilink">2005년</a> <a href="../Page/11월_6일.md" title="wikilink">11월 6일</a> ~ <strong>현재</strong></li>
 </ul></td>
 </tr>
@@ -65,7 +65,7 @@
 <li>본명 : 이혁재 (李赫宰)</li>
 <li>생년월일 : </li>
 <li>출생지 :  <a href="https://ko.wikipedia.org/wiki/경기도" title="wikilink">경기도</a> <a href="https://ko.wikipedia.org/wiki/고양시" title="wikilink">고양시</a></li>
-<li>유닛그룹 : <a href="../Page/슈퍼주니어-D&amp;E.md" title="wikilink">슈퍼주니어-D&amp;E</a>, <a href="../Page/슈퍼주니어-T.md" title="wikilink">슈퍼주니어-T</a>, <a href="../Page/슈퍼주니어-M.md" title="wikilink">슈퍼주니어-M</a>, <a href="../Page/슈퍼주니어-Happy.md" title="wikilink">슈퍼주니어-Happy</a></li>
+<li>유닛그룹 : <a href="../Page/슈퍼주니어-D&amp;E.md" title="wikilink">슈퍼주니어-D&amp;E</a>, <a href="../Page/슈퍼주니어-T.md" title="wikilink">슈퍼주니어-T</a>, <a href="../Page/슈퍼주니어-M.md" title="wikilink">슈퍼주니어-M</a>, <a href="../Page/슈퍼주니어-Happy.md" title="wikilink">슈퍼주니어-Happy</a>, <a href="../Page/슈퍼주니어-D&amp;E.md" title="wikilink">슈퍼주니어-D&amp;E</a></li>
 <li>활동기간 : <a href="../Page/2005년.md" title="wikilink">2005년</a> <a href="../Page/11월_6일.md" title="wikilink">11월 6일</a> ~ <strong>현재</strong></li>
 </ul></td>
 </tr>

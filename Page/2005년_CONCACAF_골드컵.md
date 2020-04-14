@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [2005 CONCACAF ](https://ko.wikipedia.org/wiki/2005_CONCACAF_).
+> This article is converted from Wikipedia: [2005년 CONCACAF 골드컵](https://ko.wikipedia.org/wiki/2005년_CONCACAF_골드컵).
 
 
 **2005년 CONCACAF 골드컵**()은 [CONCACAF가](../Page/북중미카리브_축구_연맹.md "wikilink") 개최한 8번째 [CONCACAF 골드컵이다](../Page/CONCACAF_골드컵.md "wikilink"). 이 대회는 [미국](../Page/미국.md "wikilink")에서 [7월 6일부터](../Page/7월_6일.md "wikilink") [7월 24일까지](../Page/7월_24일.md "wikilink") 개최되었다. [미국은](../Page/미국_축구_국가대표팀.md "wikilink") [파나마와의](../Page/파나마_축구_국가대표팀.md "wikilink") 경기에서 승부차기에서 3 – 1로 승리함으로써 3번째 우승컵을 들어올렸다.

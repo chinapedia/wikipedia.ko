@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Home \(N.EX.T \)](https://ko.wikipedia.org/wiki/Home_\(N.EX.T_\)).
+> This article is converted from Wikipedia: [Home \(N.EX.T의 음반\)](https://ko.wikipedia.org/wiki/Home_\(N.EX.T의_음반\)).
 
 
 《**Home**》은 [대한민국](../Page/대한민국.md "wikilink")의 록 밴드 [N.EX.T](../Page/N.EX.T.md "wikilink")의 데뷔 음반이다. 1991년까지 솔로 앨범을 두 장 발표했던 [신해철](../Page/신해철.md "wikilink")과 그의 라이브에서 세션으로 연주를 하기도 했던 [기타리스트](https://ko.wikipedia.org/wiki/기타리스트 "wikilink") 정기송, [무한궤도](../Page/무한궤도_\(밴드\).md "wikilink") 시절 같이 잠시 활동한 [이동규가](../Page/이동규_\(1968년\).md "wikilink") 모여 넥스트를 결성했고, 전자 [드럼과](https://ko.wikipedia.org/wiki/드럼셋 "wikilink") [신시사이저](../Page/신시사이저.md "wikilink")를 적극 활용한 팝 장르 형태의 곡 들을 선보였다. 이는 후에 팀이 전형적인 록 밴드로 멤버를 갖춰 체질을 바꾼 후 발표하는 작품들과는 음악적으로 차이가 있다.

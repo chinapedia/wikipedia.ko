@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  TV](https://ko.wikipedia.org/wiki/__TV).
+> This article is converted from Wikipedia: [히로시마 홈 TV](https://ko.wikipedia.org/wiki/히로시마_홈_TV).
 
 
 **히로시마 홈TV**는 [1970년](../Page/1970년.md "wikilink") [12월 1일](../Page/12월_1일.md "wikilink") 히로시마현의 3번째 민영방송국으로 개국했다.

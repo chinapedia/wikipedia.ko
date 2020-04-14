@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ IV: ](https://ko.wikipedia.org/wiki/_IV:_).
+> This article is converted from Wikipedia: [문명 IV: 워로드](https://ko.wikipedia.org/wiki/문명_IV:_워로드).
 
 
 《**문명 IV: 워로드**》(Civilization IV:Warlords)는 2006년 파이락시스 게임즈가 출시한 [문명 IV의](../Page/문명_IV.md "wikilink") 첫 번째 확장팩이다.

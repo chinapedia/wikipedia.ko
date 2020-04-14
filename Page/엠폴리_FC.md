@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
+> This article is converted from Wikipedia: [엠폴리 FC](https://ko.wikipedia.org/wiki/엠폴리_FC).
 
 
 **엠폴리 FC**(Empoli Football Club S.p.A.)는 [토스카나주](https://ko.wikipedia.org/wiki/토스카나주 "wikilink") [엠폴리](../Page/엠폴리.md "wikilink")에 위치한 [스타디오 카를로 카스텔라니](../Page/스타디오_카를로_카스텔라니.md "wikilink") 경기장을 근거로 하는 [이탈리아](../Page/이탈리아.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이고 1920년에 창단되었며, 1921년에 첫 경기를 치뤘다.

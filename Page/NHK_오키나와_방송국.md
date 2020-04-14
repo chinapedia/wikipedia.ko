@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [NHK  ](https://ko.wikipedia.org/wiki/NHK__).
+> This article is converted from Wikipedia: [NHK 오키나와 방송국](https://ko.wikipedia.org/wiki/NHK_오키나와_방송국).
 
 
 [썸네일](https://ko.wikipedia.org/wiki/파일:NHK_Okinawa_Broadcasting_Station.JPG "wikilink") **NHK 오키나와 방송국**(沖繩 放送局)은 [오키나와현](../Page/오키나와현.md "wikilink")을 방송국역으로 하는 NHK의 지역방송국이며 중파·FM라디오·텔레비전 방송을 담당하고 있다.

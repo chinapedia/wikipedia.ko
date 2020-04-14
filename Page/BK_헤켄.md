@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [BK ](https://ko.wikipedia.org/wiki/BK_).
+> This article is converted from Wikipedia: [BK 헤켄](https://ko.wikipedia.org/wiki/BK_헤켄).
 
 
 **BK 헤켄**(BK Häcken)은 [스웨덴](../Page/스웨덴.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽으로 [예테보리](../Page/예테보리.md "wikilink")에 연고를 두고 있는 클럽이다. 하켄은 [1940년](../Page/1940년.md "wikilink") [8월 2일에](../Page/8월_2일.md "wikilink") 창단되었으며, [2006년](../Page/2006년.md "wikilink")의 시즌 때에 스웨덴 리그의 2부로 강등된 이후로 현재까지 [수페레탄](https://ko.wikipedia.org/wiki/수페레탄 "wikilink")에서 플레이하고 있다.

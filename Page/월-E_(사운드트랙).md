@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [-E \(\)](https://ko.wikipedia.org/wiki/-E_\(\)).
+> This article is converted from Wikipedia: [월-E \(사운드트랙\)](https://ko.wikipedia.org/wiki/월-E_\(사운드트랙\)).
 
 
 《**월-E**》(WALL•E: The Soundtrack)는 [같은 이름의](../Page/월-E.md "wikilink") 영화에 사용된 [사운드트랙](https://ko.wikipedia.org/wiki/사운드트랙 "wikilink")으로, [2008년](../Page/2008년.md "wikilink") [6월 24일에](../Page/6월_24일.md "wikilink") 발매되었다. [토머스 뉴맨이](https://ko.wikipedia.org/wiki/토머스_뉴맨 "wikilink") 주로 작곡했다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [EFL  ](https://ko.wikipedia.org/wiki/EFL__).
+> This article is converted from Wikipedia: [EFL 리그 원](https://ko.wikipedia.org/wiki/EFL_리그_원).
 
 
 **EFL 리그 원**(EFL League One)은 [잉글랜드 축구 리그 시스템에서](https://ko.wikipedia.org/wiki/잉글랜드_축구_리그_시스템 "wikilink") 세 번째에 위치하고 있는 리그이다. EFL 리그 원은 간단하게 **리그 원**, 또는 후원사의 명칭에 따라 **스카이벳 리그 원**이라고 부르기도 한다.

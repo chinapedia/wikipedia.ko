@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ YAL-1](https://ko.wikipedia.org/wiki/_YAL-1).
+> This article is converted from Wikipedia: [보잉 YAL-1](https://ko.wikipedia.org/wiki/보잉_YAL-1).
 
 
 **보잉 YAL-1**은 [미국](../Page/미국.md "wikilink")의 ABL (Airbone Laser, 항공기 레이저) 무기체계이다. 고에너지인 COIL(chemical oxygen iodine laser) 레이저를 보잉 747-400F 화물기 기수에 장착하여, 적의 [탄도 미사일을](https://ko.wikipedia.org/wiki/탄도_미사일 "wikilink") 발사단계에서 요격하는 무기체계다. [미사일 방어](https://ko.wikipedia.org/wiki/미사일_방어 "wikilink")(MD: Missile Defence)의 일환이다. 이 항공기에 대해, 미국 국방부는 최근에 **YAL-1A**이라고 제식명칭을 부여했다. 2011년 12월 계획이 취소되었다.

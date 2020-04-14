@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FK ](https://ko.wikipedia.org/wiki/FK_).
+> This article is converted from Wikipedia: [FK 믈라다볼레슬라프](https://ko.wikipedia.org/wiki/FK_믈라다볼레슬라프).
 
 
 **FK 믈라다볼레슬라프**는 [체코](../Page/체코.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽으로 센트럴 보헤미안 지방의 [믈라다볼레슬라프](../Page/믈라다볼레슬라프.md "wikilink")를 연고로 하고 있다.

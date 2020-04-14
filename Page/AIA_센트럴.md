@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [AIA ](https://ko.wikipedia.org/wiki/AIA_).
+> This article is converted from Wikipedia: [AIA 센트럴](https://ko.wikipedia.org/wiki/AIA_센트럴).
 
 
-**AIA 센트럴**(, )은 [홍콩](../Page/홍콩.md "wikilink")에 있는 높이 185 미터짜리 건물이다. 이전 이름은 **AIG 타워** ()이다. 40층 건물이며, [2005년](../Page/2005년.md "wikilink") 완공되었다. [홍콩 센트럴](https://ko.wikipedia.org/wiki/홍콩_센트럴 "wikilink") 중심가에 위치한다. 유명한 [중국은행 타워와](../Page/중국은행_타워.md "wikilink") 가까운 거리에 있다. 2001년 12월까지는 같은 위치에 33층짜리 [푸라마 켐핀스키 호텔이](https://ko.wikipedia.org/wiki/푸라마_켐핀스키_호텔 "wikilink") 있었지만, 2002년에 허물리고 AIG 타워가 들어섰다.
+**AIA 센트럴**(, )은 [홍콩](../Page/홍콩.md "wikilink")에 있는 높이 185 미터짜리 건물이다. 이전 이름은 **AIG 타워**()이다. 40층 건물이며, [2005년](../Page/2005년.md "wikilink") 완공되었다. [홍콩 센트럴](https://ko.wikipedia.org/wiki/홍콩_센트럴 "wikilink") 중심가에 위치한다. 유명한 [중국은행 타워와](../Page/중국은행_타워.md "wikilink") 가까운 거리에 있다. 2001년 12월까지는 같은 위치에 33층짜리 [푸라마 켐핀스키 호텔이](https://ko.wikipedia.org/wiki/푸라마_켐핀스키_호텔 "wikilink") 있었지만, 2002년에 허물리고 AIG 타워가 들어섰다.
 
 이 건물은 라이 선 개발(Lai Sun Development), 캐피타랜드(CapitaLand), AIG 등이 공동 개발하였는데, 이름에서 알 수 있듯이, 건물의 대부분을 [AIG](https://ko.wikipedia.org/wiki/AIG "wikilink")가 쓰고 있다. 건축회사인 [스키드모어, 오윙스, 메릴이](https://ko.wikipedia.org/wiki/스키드모어,_오윙스,_메릴 "wikilink") 디자인하였다. 중국범선() 의 모양을 본 따 디자인하였다.
 

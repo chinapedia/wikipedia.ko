@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TV   \~   \~](https://ko.wikipedia.org/wiki/TV___\~___\~).
+> This article is converted from Wikipedia: [TV애니메이션 러키☆스타 엔딩테마집 \~어느 날의 가라오케 박스\~](https://ko.wikipedia.org/wiki/TV애니메이션_러키☆스타_엔딩테마집_\~어느_날의_가라오케_박스\~).
 
 
 《**TV애니메이션 《러키☆스타》 엔딩테마집 \~어느 날의 가라오케 박스\~**》()는 [2007년](../Page/2007년.md "wikilink") [7월 11일에](../Page/7월_11일.md "wikilink") [란티스](../Page/란티스.md "wikilink")에서 발매된, [텔레비전 애니메이션](https://ko.wikipedia.org/wiki/텔레비전_애니메이션 "wikilink") 《[러키☆스타](../Page/러키☆스타_\(애니메이션\).md "wikilink")》 제1\~12화의 엔딩 테마를 수록한 [앨범 CD다](https://ko.wikipedia.org/wiki/앨범_CD "wikilink").

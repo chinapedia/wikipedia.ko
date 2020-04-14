@@ -19,7 +19,7 @@
   - [이시카와 리카](../Page/이시카와_리카.md "wikilink") (모닝구무스메。) - 2009년 3월 31일, 하로프로 졸업.
   - [아야카](../Page/나가테_아야카.md "wikilink") ([코코넛무스메](https://ko.wikipedia.org/wiki/코코넛무스메 "wikilink")。) - 2008년 [4월 30일](../Page/4월_30일.md "wikilink"), 하로프로 졸업.
   - [사토다 마이](../Page/사토다_마이.md "wikilink") ([컨트리무스메](https://ko.wikipedia.org/wiki/컨트리무스메 "wikilink")。) - 2009년 3월 31일, 하로프로 졸업.
-  - [사이토 히토미](../Page/사이토_히토미.md "wikilink") ([메론키넨비](../Page/메론키넨비.md "wikilink")) - 2009년 3월 31일, 하로프로 졸업.
+  - [사이토 히토미](../Page/사이토_히토미.md "wikilink") ([메론키넨비](../Page/메론키넨비.md "wikilink")) - 2009년 3월 31일, 하로프로 졸업.KONICIWA
 
 ## 음악
 

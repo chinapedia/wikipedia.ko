@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ II:    ](https://ko.wikipedia.org/wiki/_II:____).
+> This article is converted from Wikipedia: [워크래프트 II: 비욘드 더 다크 포탈](https://ko.wikipedia.org/wiki/워크래프트_II:_비욘드_더_다크_포탈).
 
 
 **워크래프트 II: 비욘드 더 다크 포탈**()은 [워크래프트 II: 타이드 오브 다크니스의](../Page/워크래프트_II:_타이드_오브_다크니스.md "wikilink") 확장팩으로, 새로운 영웅들과 맵 지형과 캠페인 등이 추가되었다.

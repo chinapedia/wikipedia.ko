@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [USS ](https://ko.wikipedia.org/wiki/USS_).
+> This article is converted from Wikipedia: [USS 모니터](https://ko.wikipedia.org/wiki/USS_모니터).
 
 
 **모니터호**()는 [미국](../Page/미국.md "wikilink")의 군함으로 [남북전쟁](https://ko.wikipedia.org/wiki/남북전쟁 "wikilink") 당시에 남군의 [버지니아호와](https://ko.wikipedia.org/wiki/메리맥호 "wikilink") 대전후로 유명해진 북군의 장갑포함이다.

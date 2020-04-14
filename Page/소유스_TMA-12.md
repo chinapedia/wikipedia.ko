@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ TMA-12](https://ko.wikipedia.org/wiki/_TMA-12).
+> This article is converted from Wikipedia: [소유스 TMA-12](https://ko.wikipedia.org/wiki/소유스_TMA-12).
 
 
 **소유스 TMA-12**(, )는 [국제 우주 정거장](https://ko.wikipedia.org/wiki/국제_우주_정거장 "wikilink")(ISS)에 우주인을 수송하는 [소유스-TMA](https://ko.wikipedia.org/wiki/소유스-TMA "wikilink") 우주선으로서, [소유스-FG](../Page/소유스-FG.md "wikilink") 로켓에 실려 발사되었다.

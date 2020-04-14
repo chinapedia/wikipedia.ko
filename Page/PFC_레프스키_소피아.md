@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [PFC  ](https://ko.wikipedia.org/wiki/PFC__).
+> This article is converted from Wikipedia: [PFC 레프스키 소피아](https://ko.wikipedia.org/wiki/PFC_레프스키_소피아).
 
 
 **PFC 레프스키 소피아**()는 [불가리아](../Page/불가리아.md "wikilink")의 축구 클럽이다. 연고지는 수도인 [소피아](../Page/소피아.md "wikilink")이며, 현재 불가리아 1부 리그인 [파르바리가](../Page/파르바리가.md "wikilink")에 참가하고 있다. 클럽 이름은 불가리아의 혁명가 [바실 레프스키에서](../Page/바실_레프스키.md "wikilink") 유래된 이름이다.

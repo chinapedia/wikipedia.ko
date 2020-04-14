@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
+> This article is converted from Wikipedia: [애버딘 FC](https://ko.wikipedia.org/wiki/애버딘_FC).
 
 
 **애버딘 FC**는 [스코틀랜드](../Page/스코틀랜드.md "wikilink")의 [애버딘](../Page/애버딘.md "wikilink")을 연고로 하는 축구 클럽으로, 1903년에 창단되었다. 현재 [스코틀랜드 프리미어리그에](https://ko.wikipedia.org/wiki/스코틀랜드_프리미어리그 "wikilink") 속해 있다.

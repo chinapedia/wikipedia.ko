@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [EPR ](https://ko.wikipedia.org/wiki/EPR_).
+> This article is converted from Wikipedia: [EPR 역설](https://ko.wikipedia.org/wiki/EPR_역설).
 
 
 [물리학](../Page/물리학.md "wikilink")의 [양자역학](../Page/양자역학.md "wikilink")에서 **EPR 역설**(EPR Paradox)은 물리량의 측정 문제를 제기한 정교한 [사고실험](../Page/사고실험.md "wikilink")이다. [1935년](../Page/1935년.md "wikilink") [아인슈타인](../Page/알베르트_아인슈타인.md "wikilink")(Einstein)과 [포돌스키](https://ko.wikipedia.org/wiki/보리스_포돌스키 "wikilink")(Podolsky) 및 [로젠](https://ko.wikipedia.org/wiki/네이선_로젠 "wikilink")(Rogen)은 양자역학이 완전한 물리 이론이 아님을 보이기 위해 이 역설을 발표했으며, "EPR"은 그들 이름의 머릿글자를 딴 것이다. "Can Quantum-Mechanical Description of Physical Reality Be Considered Complete?"이라는 제목의 논문을 통해 나왔다.\[1\]

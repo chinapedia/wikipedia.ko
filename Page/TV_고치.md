@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TV ](https://ko.wikipedia.org/wiki/TV_).
+> This article is converted from Wikipedia: [TV 고치](https://ko.wikipedia.org/wiki/TV_고치).
 
 
 [200px](https://ko.wikipedia.org/wiki/파일:Kutv_logo.svg "wikilink") **TV 고치**는 [1970년](../Page/1970년.md "wikilink") [4월 1일](../Page/4월_1일.md "wikilink") [고치현](../Page/고치현.md "wikilink")의 2번째 민영방송국으로 개국했다.

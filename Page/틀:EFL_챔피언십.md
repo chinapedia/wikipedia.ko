@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:EFL ](https://ko.wikipedia.org/wiki/:EFL_).
+> This article is converted from Wikipedia: [틀:EFL 챔피언십](https://ko.wikipedia.org/wiki/틀:EFL_챔피언십).
 
 
 <onlyinclude> </onlyinclude>

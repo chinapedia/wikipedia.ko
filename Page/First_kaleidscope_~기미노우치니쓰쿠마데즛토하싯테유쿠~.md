@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [First kaleidscope \~\~](https://ko.wikipedia.org/wiki/First_kaleidscope_\~\~).
+> This article is converted from Wikipedia: [First kaleidscope \~기미노우치니쓰쿠마데즛토하싯테유쿠\~](https://ko.wikipedia.org/wiki/First_kaleidscope_\~기미노우치니쓰쿠마데즛토하싯테유쿠\~).
 
 
 **first kaleidscope \~너의 집에 도착할 때까지 계속 달려가\~**()는 [GARNET CROW의](../Page/GARNET_CROW.md "wikilink") 첫 번째 인디즈 미니 앨범이다. [1999년](../Page/1999년.md "wikilink") [12월 4일](../Page/12월_4일.md "wikilink") [TENT HOUSE에서](https://ko.wikipedia.org/wiki/TENT_HOUSE "wikilink") 발매되었다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [XP](https://ko.wikipedia.org/wiki/XP).
+> This article is converted from Wikipedia: [스타일XP](https://ko.wikipedia.org/wiki/스타일XP).
 
 
 **스타일XP**(StyleXP)는 [윈도 XP의](https://ko.wikipedia.org/wiki/윈도_XP "wikilink") 그래픽 사용자 인터페이스를 수정하도록 고안된 [컴퓨터 프로그램이다](../Page/컴퓨터_프로그램.md "wikilink"). 3.19 버전부터 테마, 탐색기 표시줄, 배경, 로그온 화면, 아이콘, 시동 화면, 투명도, 커서, 화면 보호기를 수정할 수 있다.

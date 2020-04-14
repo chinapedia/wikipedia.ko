@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [A  ](https://ko.wikipedia.org/wiki/A__).
+> This article is converted from Wikipedia: [A 열차로 가자](https://ko.wikipedia.org/wiki/A_열차로_가자).
 
 
 《**A 열차로 가자**》()는 [일본](../Page/일본.md "wikilink")의 게임 개발사 [아트딩크](https://ko.wikipedia.org/wiki/아트딩크 "wikilink")에서 [1985년](../Page/1985년.md "wikilink")부터 개발한 철도[경영 시뮬레이션 게임이다](https://ko.wikipedia.org/wiki/경영_시뮬레이션_게임 "wikilink"). 이후 [미국](../Page/미국.md "wikilink")에서도 [맥시스](../Page/맥시스.md "wikilink")를 통해 3편이 **A-Train**이라는 이름으로 발매되었다. A 열차로 가자 6까지는 게임 시리즈마다 A1, A2 식으로 숫자를 붙이다가 A 열차로 가자 HX 부터는 A-Train HX, A-Train 8 식으로 "A-Train 숫자" 방식으로 붙인다. 가장 최근에 나온 작품은 A 열차로 가자 9 (A-Train 9) 다.

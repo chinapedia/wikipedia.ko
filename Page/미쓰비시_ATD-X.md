@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ ATD-X](https://ko.wikipedia.org/wiki/_ATD-X).
+> This article is converted from Wikipedia: [미쓰비시 ATD-X](https://ko.wikipedia.org/wiki/미쓰비시_ATD-X).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Mitsubishi_Advanced_Technological_Demonstrator_X-2\(51-0001\)_cockpit_right_side_view_at_JASDF_Gifu_Air_Base_October_30,_2016.jpg "wikilink") **미쓰비시 ATD-X 신신**(, )은 일본 [미쓰비시 중공업](../Page/미쓰비시_중공업.md "wikilink")(三菱重工業)이 개발 중인 F-3 스텔스 전투기의 기술 실증기이다. 요즘엔 **미쓰비시 X-2**라고 부른다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
+> This article is converted from Wikipedia: [상파울루 FC](https://ko.wikipedia.org/wiki/상파울루_FC).
 
 
 **상파울루 푸테보우 클루비**()는 보통 **상파울루 FC** 또는 **상파울루**라고 불리는 [브라질](../Page/브라질.md "wikilink")의 축구 클럽으로, [상파울루](../Page/상파울루.md "wikilink")를 연고로 한다. 구단은 브라질 전국리그인 [브라질레이랑과](https://ko.wikipedia.org/wiki/캄페오나투_브라질레이루_세리이_A "wikilink") 상파울루의 주리그인 [파울리스탕에](../Page/캄페오나투_파울리스타.md "wikilink") 참여하고 있다. 처음 설립된 것은 [1930년](../Page/1930년.md "wikilink") [1월 25일이나](../Page/1월_25일.md "wikilink"), [1935년](../Page/1935년.md "wikilink") [12월 16일에](../Page/12월_16일.md "wikilink") 재설립되었다.

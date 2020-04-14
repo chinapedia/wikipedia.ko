@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [INS ](https://ko.wikipedia.org/wiki/INS_).
+> This article is converted from Wikipedia: [INS 비라트](https://ko.wikipedia.org/wiki/INS_비라트).
 
 
 [섬네일의](https://ko.wikipedia.org/wiki/파일:Harrier_IN_Malabar_07.jpg "wikilink") 비라트 항공모함에서 이륙중인 해리어 전투기\]\] **비라트**(Viraat)는 인도해군의 항공모함으로 원래는 [영국 해군의](https://ko.wikipedia.org/wiki/영국_해군 "wikilink") 항공모함 [허미즈였다](../Page/R12_HMS_허미즈.md "wikilink").

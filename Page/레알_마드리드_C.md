@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  C](https://ko.wikipedia.org/wiki/__C).
+> This article is converted from Wikipedia: [레알 마드리드 C](https://ko.wikipedia.org/wiki/레알_마드리드_C).
 
 
 **레알 마드리드 클럽 데 풋볼 C (Real Madrid Club de Fútbol C)**는 **레알 마드리드 C**로 알려진 [테르세라 디비시온](https://ko.wikipedia.org/wiki/테르세라_디비시온 "wikilink") 소속의 [스페인](../Page/스페인.md "wikilink") 축구 구단이었다. 원래 [레알 마드리드의](../Page/레알_마드리드_CF.md "wikilink") 두 번째 리저브 팀이었다. [마드리드](../Page/마드리드.md "wikilink") 시 외곽의 발데베바스 내 라 시우다드 델 레알 마드리드가 홈구장이며, 2014-15 테르세라 디비시온 일정이 끝난 후, 해체하였다.\[1\]

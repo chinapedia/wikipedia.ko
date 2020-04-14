@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [UEFA  ](https://ko.wikipedia.org/wiki/UEFA__).
+> This article is converted from Wikipedia: [UEFA 경기장 분류](https://ko.wikipedia.org/wiki/UEFA_경기장_분류).
 
 
 **UEFA 경기장 분류**는 [UEFA](https://ko.wikipedia.org/wiki/UEFA "wikilink")의 기준에 의해 분류된 축구 경기장 분류를 말한다.\[1\] 이 분류법으로 경기장은 분류 1, 2, 3, 4로 나뉜다. [2006년](../Page/2006년.md "wikilink") 이 방법은 기존의 별점 방식을 대체한다. 경기장은 주요 경기의 경기들이나 [UEFA 챔피언스리그](../Page/UEFA_챔피언스리그.md "wikilink") 예선전의 플레이오프전을 열기위해 반드시 분류4에 들어야한다. 분류4에 포함되는 경기장은 [UEFA 유로파리그나](../Page/UEFA_유로파리그.md "wikilink") [UEFA 유럽 축구 선수권 대회의](https://ko.wikipedia.org/wiki/UEFA_유럽_축구_선수권_대회 "wikilink") 주요 경기를 개최할 자격이 주어진다. [섬네일](https://ko.wikipedia.org/wiki/파일:Camp_Nou_estadi_5_estrelles.JPG "wikilink")

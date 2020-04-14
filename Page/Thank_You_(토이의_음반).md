@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Thank You \( \)](https://ko.wikipedia.org/wiki/Thank_You_\(_\)).
+> This article is converted from Wikipedia: [Thank You \(토이의 음반\)](https://ko.wikipedia.org/wiki/Thank_You_\(토이의_음반\)).
 
 
 《**Thank You**》는 [대한민국](../Page/대한민국.md "wikilink")의 [음악인](https://ko.wikipedia.org/wiki/음악인 "wikilink") [유희열](https://ko.wikipedia.org/wiki/유희열 "wikilink")의 1인 프로젝트 그룹 [토이의](https://ko.wikipedia.org/wiki/토이_\(대한민국의_음악_그룹\) "wikilink") 여섯 번째 정규앨범이다. 전작과는 무려 6년 6개월이라는 시간차를 갖는다.

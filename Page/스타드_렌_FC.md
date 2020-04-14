@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  FC](https://ko.wikipedia.org/wiki/__FC).
+> This article is converted from Wikipedia: [스타드 렌 FC](https://ko.wikipedia.org/wiki/스타드_렌_FC).
 
 
 **스타드 레네 FC**()는 [프랑스](../Page/프랑스.md "wikilink") [렌을](https://ko.wikipedia.org/wiki/렌_\(도시\) "wikilink") 연고로 하는 [축구](../Page/축구.md "wikilink") 클럽이며, 짧게 줄여 **렌**(Rennes)이라고도 한다. 현재 프랑스 최상위 리그인 [리그 1에](https://ko.wikipedia.org/wiki/리그_1 "wikilink") 참가중이며, 홈 경기는 렌 도심에 위치한 [로아존 파르크에서](../Page/로아존_파르크.md "wikilink") 치른다. 구단주는 사업가 [프랑수아 피놀의](https://ko.wikipedia.org/wiki/프랑수아_피놀 "wikilink") 지주 회사 아르테미스이다.

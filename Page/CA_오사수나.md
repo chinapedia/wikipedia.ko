@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [CA ](https://ko.wikipedia.org/wiki/CA_).
+> This article is converted from Wikipedia: [CA 오사수나](https://ko.wikipedia.org/wiki/CA_오사수나).
 
 
 **CA 오사수나**(Club Atlético Osasuna)는 [팜플로나](https://ko.wikipedia.org/wiki/팜플로나 "wikilink")에 위치한 [에스타디오 엘 사다르](https://ko.wikipedia.org/wiki/에스타디오_엘_사다르 "wikilink") 경기장을 근거로 하는 [스페인](../Page/스페인.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다.

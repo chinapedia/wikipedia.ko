@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [OGC ](https://ko.wikipedia.org/wiki/OGC_).
+> This article is converted from Wikipedia: [OGC 니스](https://ko.wikipedia.org/wiki/OGC_니스).
 
 
 **올랭피크 짐나스트 클뢰브 드 니스 코트다쥐르**(Olympique Gymnaste Club Nice Côte d'Azur)는 [니스를](../Page/니스_\(프랑스\).md "wikilink") 연고로 하는 [프랑스](../Page/프랑스.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다. 1904년에 창단되었으며, 현재 프랑스 최상위 리그인 [리그 1에](https://ko.wikipedia.org/wiki/리그_1 "wikilink") 참가중이다. 니스의 홈 경기는 [알리안츠 리비에라에서](../Page/알리안츠_리비에라.md "wikilink") 치르고 있다.

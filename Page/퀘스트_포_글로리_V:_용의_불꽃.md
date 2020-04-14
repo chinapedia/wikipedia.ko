@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [   V:  ](https://ko.wikipedia.org/wiki/___V:__).
+> This article is converted from Wikipedia: [퀘스트 포 글로리 V: 용의 불꽃](https://ko.wikipedia.org/wiki/퀘스트_포_글로리_V:_용의_불꽃).
 
 
 《**퀘스트 포 글로리 V: 용의 불꽃**》(Quest for Glory V: Dragon Fire)은 [시에라 엔터테인먼트의](../Page/시에라_엔터테인먼트.md "wikilink") [퀘스트 포 글로리](../Page/퀘스트_포_글로리.md "wikilink") 시리즈 중 5번째 시리즈이다.

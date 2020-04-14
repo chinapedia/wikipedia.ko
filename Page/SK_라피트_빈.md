@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SK  ](https://ko.wikipedia.org/wiki/SK__).
+> This article is converted from Wikipedia: [SK 라피트 빈](https://ko.wikipedia.org/wiki/SK_라피트_빈).
 
 
 **SK 라피트 빈**(SK Rapid Wien)은 [오스트리아](../Page/오스트리아.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽으로 수도인 [빈](../Page/빈.md "wikilink")을 연고로 하고 있다. 이 클럽은 [아우스트리아 빈과](../Page/FK_아우스트리아_빈.md "wikilink") 함께 빈의 유명한 두 팀 가운데 하나이다. 라피트 빈은 영어로 **래피드 비엔나**(Rapid Vienna)라고 불리기도 한다.

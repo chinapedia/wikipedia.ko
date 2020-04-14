@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ MIDI](https://ko.wikipedia.org/wiki/_MIDI).
+> This article is converted from Wikipedia: [일반 MIDI](https://ko.wikipedia.org/wiki/일반_MIDI).
 
 
 **일반 MIDI**(General MIDI, **제너럴 미디** 또는 **일반 미디**, 줄여서 **GM**)는 추상적인 [MIDI](../Page/MIDI.md "wikilink") 표준에다 몇 가지 요구 사항을 포함한 [신시사이저](../Page/신시사이저.md "wikilink") 규격이다. 미디 자체가 다른 악기가 필수적인 수준에서 작동을 보증하는 [프로토콜을](../Page/통신_프로토콜.md "wikilink") 제공하는 반면, GM은 다음의 두 가지 방식으로 동작한다.

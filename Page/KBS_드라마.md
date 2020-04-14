@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KBS ](https://ko.wikipedia.org/wiki/KBS_).
+> This article is converted from Wikipedia: [KBS 드라마](https://ko.wikipedia.org/wiki/KBS_드라마).
 
 
 **KBS 드라마**()는 [TV 드라마](../Page/텔레비전_드라마.md "wikilink") [프로그램을](https://ko.wikipedia.org/wiki/TV_프로그램 "wikilink") 주로 편성하는 [KBS N](https://ko.wikipedia.org/wiki/KBS_N "wikilink") 계열의 방송 채널이다.
@@ -12,6 +12,8 @@
 
 ## 슬로건
 
+  - 대한민국 드라마채널
+  - 드라마 전문채널
   - 당신을 사랑합니다
   - 내 인생의 드라마
 

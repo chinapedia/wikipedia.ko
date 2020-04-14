@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ EOS-1D](https://ko.wikipedia.org/wiki/_EOS-1D).
+> This article is converted from Wikipedia: [캐논 EOS-1D](https://ko.wikipedia.org/wiki/캐논_EOS-1D).
 
 
 [right](https://ko.wikipedia.org/wiki/파일:Canon_EOS-1D.jpg "wikilink") **캐논 EOS-1D**()는 [캐논이](https://ko.wikipedia.org/wiki/캐논_주식회사 "wikilink") 최초로 독자 개발한 전문가용 [디지털 SLR이다](https://ko.wikipedia.org/wiki/디지털_SLR "wikilink"). [2001년](../Page/2001년.md "wikilink") [9월](../Page/9월.md "wikilink")에 발표되었으며, 2001년 [12월](../Page/12월.md "wikilink")에 시판되었다. 초당 8 프레임을 촬영할 수 있어 스포츠 촬영용으로 많이 사용된다.

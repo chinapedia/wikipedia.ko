@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ TV](https://ko.wikipedia.org/wiki/_TV).
+> This article is converted from Wikipedia: [고치산산 TV](https://ko.wikipedia.org/wiki/고치산산_TV).
 
 
 **고치 산산 TV**()는 [1997년](../Page/1997년.md "wikilink") [4월 1일](../Page/4월_1일.md "wikilink") [고치현](../Page/고치현.md "wikilink")에서 3번째이자 마지막으로 개국한 민영방송국이다.

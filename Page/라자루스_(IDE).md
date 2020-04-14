@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ \(IDE\)](https://ko.wikipedia.org/wiki/_\(IDE\)).
+> This article is converted from Wikipedia: [라자루스 \(IDE\)](https://ko.wikipedia.org/wiki/라자루스_\(IDE\)).
 
 
 **라자루스**(Lazarus)는 [크로스 플랫폼](https://ko.wikipedia.org/wiki/크로스_플랫폼 "wikilink") [시각적 프로그래밍](https://ko.wikipedia.org/wiki/시각적_프로그래밍 "wikilink") [통합 개발 환경이다](../Page/통합_개발_환경.md "wikilink"). [오픈 소스](../Page/오픈_소스.md "wikilink") [프리 파스칼](../Page/프리_파스칼.md "wikilink") [컴파일러](../Page/컴파일러.md "wikilink")를 기반으로 개발되었다. [고속 개발 도구를](https://ko.wikipedia.org/wiki/고속_개발_도구 "wikilink") 지원하는 것이 목적이며 [파스칼과](../Page/파스칼_\(프로그래밍_언어\).md "wikilink") [오브젝트 파스칼](../Page/오브젝트_파스칼.md "wikilink") 사용자를 위해 [델파이](../Page/델파이.md "wikilink")를 흉내내었다.

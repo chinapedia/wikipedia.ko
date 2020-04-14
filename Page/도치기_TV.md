@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ TV](https://ko.wikipedia.org/wiki/_TV).
+> This article is converted from Wikipedia: [도치기 TV](https://ko.wikipedia.org/wiki/도치기_TV).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Tochigi_Television_2013-02-09.JPG "wikilink") **도치기 TV**는 [1999년](../Page/1999년.md "wikilink") [4월 1일](../Page/4월_1일.md "wikilink") 개국했으며 독립 UHF방송국중 현재로선 마지막으로 개국한 방송국이다.

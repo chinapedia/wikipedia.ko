@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FC ](https://ko.wikipedia.org/wiki/FC_).
+> This article is converted from Wikipedia: [FC 레인저스](https://ko.wikipedia.org/wiki/FC_레인저스).
 
 
 **FC 레인저스**(FC Rànger's)는 [안도라](../Page/안도라.md "wikilink")의 2부 리그인 [안도라 세군다디비지오에](https://ko.wikipedia.org/wiki/안도라_세군다디비지오 "wikilink") 참가하는 [축구](../Page/축구.md "wikilink") 클럽이다.

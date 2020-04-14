@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TV ](https://ko.wikipedia.org/wiki/TV_).
+> This article is converted from Wikipedia: [TV 아사히](https://ko.wikipedia.org/wiki/TV_아사히).
 
 
 **주식회사 텔레비전 아사히**(, )는 [1957년](../Page/1957년.md "wikilink")에 설립된 [간토 광역권을](../Page/간토_지방.md "wikilink") 대상으로 방송하는 [일본](../Page/일본.md "wikilink")의 [민영방송](https://ko.wikipedia.org/wiki/민영방송 "wikilink")사이다.
@@ -20,9 +20,9 @@
 [섬네일](https://ko.wikipedia.org/wiki/파일:Asahi_National_Broadcasting_logo.png "wikilink")
 
   - [1957년](../Page/1957년.md "wikilink") [11월 1일](../Page/11월_1일.md "wikilink") 주식회사 일본 교육 텔레비전 설립.
-  - [1958년](../Page/1958년.md "wikilink") [12월 24일](../Page/12월_24일.md "wikilink") [도쿄 타워](../Page/도쿄_타워.md "wikilink") 에서 시험 전파 발사.
+  - [1958년](../Page/1958년.md "wikilink") [12월 24일](../Page/12월_24일.md "wikilink") [도쿄 타워에서](../Page/도쿄_타워.md "wikilink") 시험 전파 발사.
   - [1959년](../Page/1959년.md "wikilink") [2월 1일](../Page/2월_1일.md "wikilink") 교육방송국으로서 정식방송 개시.
-  - [1959년](../Page/1959년.md "wikilink") [3월 1일](../Page/3월_1일.md "wikilink") 이 날 텔레비전 방송을 시작한 [마이니치 방송](../Page/마이니치_방송.md "wikilink")(MBS),[규슈 아사히 방송](../Page/규슈_아사히_방송.md "wikilink")(KBC)과 지역 민방 네트워크 관계를 맺는다.
+  - [1959년](../Page/1959년.md "wikilink") [3월 1일](../Page/3월_1일.md "wikilink") 이 날 텔레비전 방송을 시작한 [마이니치 방송](../Page/마이니치_방송.md "wikilink")(MBS), [규슈 아사히 방송](../Page/규슈_아사히_방송.md "wikilink")(KBC)과 지역 민방 네트워크 관계를 맺는다.
   - [1960년](../Page/1960년.md "wikilink") [1월 17일](../Page/1월_17일.md "wikilink") 출력을 영상 50 kW, 음성 12.5kW로 증력.
   - [1960년](../Page/1960년.md "wikilink") [12월 10일](../Page/12월_10일.md "wikilink") 회사명과 호칭을 **NET-TV**로 통일
   - [1964년](../Page/1964년.md "wikilink") [4월 1일](../Page/4월_1일.md "wikilink") 일본 최초의 아침 와이드 프로그램 모닝 쇼 방송 시작.
@@ -47,7 +47,7 @@
   - [2000년](../Page/2000년.md "wikilink") [12월 1일](../Page/12월_1일.md "wikilink") 오전 11시, BS디지털 방송 **[BS아사히](../Page/BS아사히.md "wikilink")** (디지털 BS5Ch) 개국.
   - [2003년](../Page/2003년.md "wikilink") [10월 1일](../Page/10월_1일.md "wikilink") 상호를 주식회사 TV아사히, 약칭을 콜사인에서 따온 **EX**(단, EX라는 약칭은 이전부터 업계에서 사용되고 있었다)로 변경.동시에 롯폰기 힐즈안에 신사옥이 완성되면서 본사 기능을 아크 힐즈에서 롯폰기 힐즈 신사옥으로 이전.
   - [2003년](../Page/2003년.md "wikilink") [12월 1일](../Page/12월_1일.md "wikilink") 오전 11시, 지상 디지털 텔레비전 개국.
-  - [2004년](../Page/2004년.md "wikilink") [4월 5일](../Page/4월_5일.md "wikilink") 18년반 동안 방송된 "[뉴스 스테이션](../Page/뉴스_스테이션.md "wikilink")"이 종료하고, 새 앵커 [후루타치 이치로진행의](https://ko.wikipedia.org/wiki/후루타치_이치로 "wikilink") 보도 프로그램 "[보도 스테이션](../Page/보도_스테이션.md "wikilink")"이 방송시작.
+  - [2004년](../Page/2004년.md "wikilink") [4월 5일](../Page/4월_5일.md "wikilink") 18년반 동안 방송된 "[뉴스 스테이션](../Page/뉴스_스테이션.md "wikilink")"이 종료하고, 새 앵커 [후루타치 이치로](https://ko.wikipedia.org/wiki/후루타치_이치로 "wikilink") 진행의 보도 프로그램 "[보도 스테이션](../Page/보도_스테이션.md "wikilink")"이 방송시작.
   - [2005년](../Page/2005년.md "wikilink") [5월 21일](../Page/5월_21일.md "wikilink") 요미우리 자이언츠 주최 프로야구 시합을 처음으로 중계.
   - [2006년](../Page/2006년.md "wikilink") [4월 1일](../Page/4월_1일.md "wikilink") [원세그](../Page/원세그.md "wikilink") 본방송 개시.
   - [2007년](../Page/2007년.md "wikilink") [11월 1일](../Page/11월_1일.md "wikilink") 창립 50주년 기념일. 같은 날, 디지털 채널 '5ch' 홍보를 위해 고객문의 전화번호 변경.
@@ -117,6 +117,7 @@
       - Yes\! 프리큐어5 Go\!Go\! (Yes\! プリキュア5 Go\!Go\!) (ABC제작)
       - [프레시 프리큐어\!](../Page/프레시_프리큐어!.md "wikilink") (フレッシュプリキュア\!) (ABC제작)
       - [하트캐치 프리큐어\!](../Page/하트캐치_프리큐어!.md "wikilink") (ハートキャッチプリキュア\!) (ABC제작)
+      - 마법사 프리큐어\! (魔法つかいプリキュア\!) (ABC제작)
   - [매지컬 타루루토군](../Page/매지컬_타루루토군.md "wikilink") (まじかる★タルるートくん) (ABC제작)
   - [메이플 타운 이야기](https://ko.wikipedia.org/wiki/메이플_타운_이야기 "wikilink") (メイプルタウン物語) (ABC제작)
       - [신 메이플 타운 이야기](https://ko.wikipedia.org/wiki/신_메이플_타운_이야기 "wikilink") (新メイプルタウン物語) (ABC제작)
@@ -148,7 +149,7 @@
   - [흑신](../Page/흑신.md "wikilink") (黑神)
   - [H2](../Page/H2_\(만화\).md "wikilink")
 
-## TV아사히에서 일어난 각종 사건들
+## TV 아사히에서 일어난 각종 사건들
 
   - [1985년](../Page/1985년.md "wikilink") [10월 8일](../Page/10월_8일.md "wikilink"), 오후 와이드쇼 프로그램인 '애프터눈 쇼'에서 PD가 알고 지내는 [폭주족](../Page/폭주족.md "wikilink")에게 여중생을 폭행하듯이 연기하라고 의뢰한 다음 폭행 영상을 촬영한 사실이 발각되어 애프터눈 쇼 프로그램은 폐지되었다.
   - [1988년](../Page/1988년.md "wikilink") [10월 19일](../Page/10월_19일.md "wikilink"), 관서지역 아사히방송에서 방송되던 프로야구 경기(긴데쓰 vs 롯데)에 대한 방송요청이 쇄도하자 오후 9시에 정규편성 되어있던 드라마를 결방하고 야구중계를 임시편성했다. 당일 오후 10시에 시작한 '뉴스 스테이션'에서도 중간 중간 상황이 발생하면 뉴스를 진행하다가 야구중계를 틀어주기도 했다. 참고로 이 날 야구중계 시청률은 30.1%(관동지역). 참고로 10월 19일에 펼쳐진 긴데쓰 vs 롯데 전은 1988년 퍼시픽리그 우승결정전이었다.

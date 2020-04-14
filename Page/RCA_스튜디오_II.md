@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [RCA  II](https://ko.wikipedia.org/wiki/RCA__II).
+> This article is converted from Wikipedia: [RCA 스튜디오 II](https://ko.wikipedia.org/wiki/RCA_스튜디오_II).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:RCA_Studio_II_game_console.jpg "wikilink") **RCA 스튜디오 II**는 [RCA에서](../Page/RCA_\(기업\).md "wikilink") 1977년 1월 발매한 [가정용 게임기](../Page/가정용_게임기.md "wikilink")

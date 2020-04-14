@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [AJ ](https://ko.wikipedia.org/wiki/AJ_).
+> This article is converted from Wikipedia: [AJ 오세르](https://ko.wikipedia.org/wiki/AJ_오세르).
 
 
 **AJ 오세르**(Association de la Jeunesse Auxerroise)는 [부르고뉴](https://ko.wikipedia.org/wiki/부르고뉴 "wikilink") [오세르](../Page/오세르.md "wikilink")에 위치한 [스타드 드 라베 데샹](https://ko.wikipedia.org/wiki/스타드_드_라베_데샹 "wikilink") 경기장을 근거로 하는 [프랑스](../Page/프랑스.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다.

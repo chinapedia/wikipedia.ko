@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  PC](https://ko.wikipedia.org/wiki/__PC).
+> This article is converted from Wikipedia: [홈 시어터 PC](https://ko.wikipedia.org/wiki/홈_시어터_PC).
 
 
 **홈 시어터 PC**() 또는 **미디어 PC**()는 [개인용 컴퓨터와](../Page/개인용_컴퓨터.md "wikilink") [디지털 비디오 레코더의](../Page/디지털_비디오_레코더.md "wikilink") 기능을 합친 기기이다. [텔레비전](../Page/텔레비전.md "wikilink")이나 텔레비전 크기의 [컴퓨터 디스플레이에](https://ko.wikipedia.org/wiki/컴퓨터_디스플레이 "wikilink") 연결할 수 있으며 디지털 사진, 음악, 비디오 재생기, TV 수상기, 디지털 비디오 레코더로 사용하기도 한다. 홈 시어터 PC는 또한 [미디어 센터](../Page/미디어_센터.md "wikilink") 시스템이나 [미디어 서버로](https://ko.wikipedia.org/wiki/미디어_서버 "wikilink") 불리기도 한다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SSC ](https://ko.wikipedia.org/wiki/SSC_).
+> This article is converted from Wikipedia: [SSC 나폴리](https://ko.wikipedia.org/wiki/SSC_나폴리).
 
 
 **소치에타 스포르티바 칼초 나폴리**(), 보통 간단히 **나폴리**라고 부르는 이 클럽은 [나폴리](../Page/나폴리.md "wikilink")에 있는 [산 파올로 경기장을](../Page/스타디오_산_파올로.md "wikilink") 근거로 하는 [이탈리아](../Page/이탈리아.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다. 현재 감독은 [젠나로 가투소이다](../Page/젠나로_가투소.md "wikilink").

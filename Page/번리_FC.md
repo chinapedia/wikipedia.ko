@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
+> This article is converted from Wikipedia: [번리 FC](https://ko.wikipedia.org/wiki/번리_FC).
 
 
 **번리 FC**(Burnley FC)는 [잉글랜드](../Page/잉글랜드.md "wikilink") [번리](https://ko.wikipedia.org/wiki/번리 "wikilink")에 연고로 하는 프로 [축구](../Page/축구.md "wikilink") 클럽으로, 1882년에 창단하여 1888년에 설립된 [풋볼 리그에](https://ko.wikipedia.org/wiki/풋볼_리그 "wikilink") 가입하였다.

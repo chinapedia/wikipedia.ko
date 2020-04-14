@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ FM ](https://ko.wikipedia.org/wiki/_FM_).
+> This article is converted from Wikipedia: [도야마 FM 방송](https://ko.wikipedia.org/wiki/도야마_FM_방송).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Toyama_FM_Broadcasting.jpg "wikilink") **도야마 FM방송**은 일본의 FM라디오 방송국으로 [1985년](../Page/1985년.md "wikilink") [4월 1일](../Page/4월_1일.md "wikilink") 개국했으며 [도야마현](../Page/도야마현.md "wikilink")에서 방송을 실시하고 있다.

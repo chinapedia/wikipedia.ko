@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [DB](https://ko.wikipedia.org/wiki/DB).
+> This article is converted from Wikipedia: [DB그룹](https://ko.wikipedia.org/wiki/DB그룹).
 
 
 **DB그룹**(DB Group)은 대한민국 서울을 본사로 하는 [기업집단](https://ko.wikipedia.org/wiki/기업집단 "wikilink")이다.
@@ -200,7 +200,7 @@
 | 동부팜청과<small>(현 동화청과)</small>                                    | 농산물 유통업                            | 지분매각\[4\]               |
 | [동부건설](../Page/동부건설.md "wikilink")                              | 토목시설물 건설업                          | 계열분리                    |
 | 동부LED                                                           | 발광다이오드 제조업                         | 지분매각\[5\]               |
-| [동부익스프레스](https://ko.wikipedia.org/wiki/동부익스프레스 "wikilink")     | 육상운송 지원 서비스업                       | 지분매각\[6\]               |
+| 동부익스프레스 (현 [동원로엑스](../Page/동원로엑스.md "wikilink"))                | 육상운송 지원 서비스업                       | 지분매각\[6\]               |
 | 동부택배<small>(현 KG로지스)</small>                                    | 소화물 전문 운송업                         | 지분매각\[7\]               |
 | [동부제철](https://ko.wikipedia.org/wiki/동부제철 "wikilink")           | 철강재 제조업                            | 계열분리                    |
 | 동부로봇<small>(현 디에스티로봇)</small>                                   | 로봇 제조업                             | 지분매각                    |

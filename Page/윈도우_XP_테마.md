@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ XP ](https://ko.wikipedia.org/wiki/_XP_).
+> This article is converted from Wikipedia: [윈도우 XP 테마](https://ko.wikipedia.org/wiki/윈도우_XP_테마).
 
 
 [윈도우 XP](../Page/윈도우_XP.md "wikilink") 에디션에는 루나, Royale, 준, 임베디드라는 공식 테마가 있으며 저마다 각기 다른 시각 스타일을 제공한다.

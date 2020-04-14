@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ -KLM](https://ko.wikipedia.org/wiki/_-KLM).
+> This article is converted from Wikipedia: [에어 프랑스-KLM](https://ko.wikipedia.org/wiki/에어_프랑스-KLM).
 
 
 **에어 프랑스-KLM**()은 [프랑스](../Page/프랑스.md "wikilink") [파리](../Page/파리_\(프랑스\).md "wikilink") [파리 샤를 드 골 공항에](https://ko.wikipedia.org/wiki/파리_샤를_드_골_공항 "wikilink") 본부를 두고 있는 항공 [지주회사](https://ko.wikipedia.org/wiki/지주회사 "wikilink")로 [스카이팀](../Page/스카이팀.md "wikilink") [항공 동맹에](https://ko.wikipedia.org/wiki/항공_동맹 "wikilink") 속해 있다.

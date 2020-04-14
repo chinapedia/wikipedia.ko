@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  TV](https://ko.wikipedia.org/wiki/__TV).
+> This article is converted from Wikipedia: [후쿠시마 중앙 TV](https://ko.wikipedia.org/wiki/후쿠시마_중앙_TV).
 
 
 [200px](https://ko.wikipedia.org/wiki/파일:Fct_logo.svg "wikilink") **후쿠시마 중앙 TV**는 [1970년](../Page/1970년.md "wikilink") [4월 1일](../Page/4월_1일.md "wikilink") [후쿠시마현](../Page/후쿠시마현.md "wikilink")의 2번째 민영방송국으로 개국하였으며

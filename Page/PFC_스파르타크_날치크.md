@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [PFC  ](https://ko.wikipedia.org/wiki/PFC__).
+> This article is converted from Wikipedia: [PFC 스파르타크 날치크](https://ko.wikipedia.org/wiki/PFC_스파르타크_날치크).
 
 
-**PFC 스파르타크 날치크** (는 [러시아](../Page/러시아.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽으로 [캅카스 산맥에](https://ko.wikipedia.org/wiki/캅카스_산맥 "wikilink") 위치한 [카바르디노발카르 공화국의](../Page/카바르디노발카르_공화국.md "wikilink") [수도](../Page/수도.md "wikilink")인 [날치크](../Page/날치크.md "wikilink")를 연고로 삼고 있다. 스파르타크 날치크는 [2006년](../Page/2006년.md "wikilink")부터 [러시아 프리미어리그에](../Page/러시아_프리미어리그.md "wikilink") 참여하고 있다.
+**PFC 스파르타크 날치크**(는 [러시아](../Page/러시아.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽으로 [캅카스 산맥에](https://ko.wikipedia.org/wiki/캅카스_산맥 "wikilink") 위치한 [카바르디노발카르 공화국의](../Page/카바르디노발카르_공화국.md "wikilink") [수도](../Page/수도.md "wikilink")인 [날치크](../Page/날치크.md "wikilink")를 연고로 삼고 있다. 스파르타크 날치크는 [2006년](../Page/2006년.md "wikilink")부터 [러시아 프리미어리그에](../Page/러시아_프리미어리그.md "wikilink") 참여하고 있다.
 
 ## 역사
 

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [MBC ](https://ko.wikipedia.org/wiki/MBC_).
+> This article is converted from Wikipedia: [MBC 스포츠뉴스](https://ko.wikipedia.org/wiki/MBC_스포츠뉴스).
 
 
 《**MBC 스포츠뉴스**》()는 [MBC에서](../Page/문화방송.md "wikilink") 평일 저녁 8시 45분, 주말 저녁 8시 35분에 방송되는 문화방송의 스포츠뉴스 프로그램이자 [MBC 뉴스데스크의](../Page/MBC_뉴스데스크.md "wikilink") 스포츠뉴스 코너이다. [2010년](../Page/2010년.md "wikilink") [11월 1일부터](../Page/11월_1일.md "wikilink") 편성이 평일로 축소된 이후 [2010년](../Page/2010년.md "wikilink") [12월 24일에](../Page/12월_24일.md "wikilink") 종영되었다가 [2012년](../Page/2012년.md "wikilink") [5월 14일부터](../Page/5월_14일.md "wikilink") 재신설되었고, [2012년](../Page/2012년.md "wikilink") [7월 16일부터](../Page/7월_16일.md "wikilink") 2012년 8월 17일까지 런던 올림픽 관계로 결방되었다가 [2012년](../Page/2012년.md "wikilink") [8월 20일부터](../Page/8월_20일.md "wikilink") [MBC 뉴스데스크의](../Page/MBC_뉴스데스크.md "wikilink") 스포츠뉴스 코너로 통합되었으며, 2012년 8월 27일부터 편성이 다시 주말까지 확대되었다.

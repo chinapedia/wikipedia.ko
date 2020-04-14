@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [VfL ](https://ko.wikipedia.org/wiki/VfL_).
+> This article is converted from Wikipedia: [VfL 볼프스부르크](https://ko.wikipedia.org/wiki/VfL_볼프스부르크).
 
 
 **페어라인 퓌어 라이베스위붕엔 볼프스부르크**(Verein für Leibesübungen Wolfsburg)는 흔히 **VfL 볼프스부르크**(VfL Wolfsburg)로 알려진 [독일](../Page/독일.md "wikilink")의 축구 클럽으로 [니더작센주](../Page/니더작센주.md "wikilink") [볼프스부르크](../Page/볼프스부르크.md "wikilink")를 연고로 한다. 이 팀은 현재 [분데스리가 1에](https://ko.wikipedia.org/wiki/푸스볼-분데스리가 "wikilink") 속해 있으며, 2008-09 시즌에 한 차례 분데스리가 우승을 거두었다. 그 외에도 볼프스부르크는 [1995년](../Page/1995년.md "wikilink")에 [DFB-포칼](../Page/DFB-포칼.md "wikilink") 준우승을 거두기도 하였다. 현재 감독은 [올리퍼 글라스너이다](https://ko.wikipedia.org/wiki/올리퍼_글라스너 "wikilink"). 이 클럽은 [볼프스부르크](../Page/볼프스부르크.md "wikilink")의 [폭스바겐](../Page/폭스바겐.md "wikilink") 노동자들에 의해 종합 스포츠 클럽으로 성장하였고, 현재 폭스바겐 그룹의 자회사이다.\[1\]\[2\]

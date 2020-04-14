@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [AS ](https://ko.wikipedia.org/wiki/AS_).
+> This article is converted from Wikipedia: [AS 로마](https://ko.wikipedia.org/wiki/AS_로마).
 
 
 **아소차치오네 스포르티바 로마**()는 [이탈리아](../Page/이탈리아.md "wikilink")의 수도 [로마](../Page/로마.md "wikilink")를 연고지로 하는 [축구](../Page/축구.md "wikilink") 클럽이다. 보통 **로마**로 줄여서 부르며 유니폼 색깔을 딴 **잘로로시**라는 별칭으로도 부른다. 주장은 [다니엘레 데 로시이다](../Page/다니엘레_데_로시.md "wikilink").

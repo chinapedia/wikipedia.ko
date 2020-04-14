@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FC   ](https://ko.wikipedia.org/wiki/FC___).
+> This article is converted from Wikipedia: [FC 지롱댕 드 보르도](https://ko.wikipedia.org/wiki/FC_지롱댕_드_보르도).
 
 
 **FC 지롱댕 드 보르도**(Football Club des Girondins de Bordeaux)는 [프랑스](../Page/프랑스.md "wikilink")의 [보르도](../Page/보르도.md "wikilink")를 연고로 하는 [축구](../Page/축구.md "wikilink") 클럽이다. 현재 프랑스 1부 리그인 [리그 1에](https://ko.wikipedia.org/wiki/리그_1 "wikilink") 참가중이다. 현재 [대한민국 축구 국가대표팀](../Page/대한민국_축구_국가대표팀.md "wikilink") [황의조](../Page/황의조.md "wikilink")의 소속팀이다.

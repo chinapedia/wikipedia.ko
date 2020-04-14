@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [OTR-21 ](https://ko.wikipedia.org/wiki/OTR-21_).
+> This article is converted from Wikipedia: [OTR-21 토치카](https://ko.wikipedia.org/wiki/OTR-21_토치카).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:SS-21parade.jpg "wikilink")

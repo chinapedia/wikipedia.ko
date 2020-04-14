@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KBS N ](https://ko.wikipedia.org/wiki/KBS_N_).
+> This article is converted from Wikipedia: [KBS N 스포츠](https://ko.wikipedia.org/wiki/KBS_N_스포츠).
 
 
 **KBS N 스포츠**()는 [스포츠](../Page/스포츠.md "wikilink") 프로그램을 주로 편성하는 [KBS N의](https://ko.wikipedia.org/wiki/KBS_N "wikilink") 방송 채널이다.
@@ -20,7 +20,8 @@
 
 ## 역사
 
-  - [2002년](../Page/2002년.md "wikilink") [2월 2일](../Page/2월_2일.md "wikilink") (구) **KBS SKY 스포츠**로 개국
+  - 1996년 (구) **SKY KBS 스포츠 개국**
+  - [2002년](../Page/2002년.md "wikilink") [2월 2일](../Page/2월_2일.md "wikilink") (구) **KBS SKY 스포츠** 개국
   - [2006년](../Page/2006년.md "wikilink") [11월 1일](../Page/11월_1일.md "wikilink") **KBS N 스포츠**로 변경 개국
 
 ## 현재 소속 아나운서/해설위원/캐스터
@@ -59,12 +60,13 @@
   - 유도 : 김병주
   - 마라톤 : 이의수
   - 육상 : [김건우](../Page/김건우_\(육상_선수\).md "wikilink")
+  - 피겨 : [곽민정](../Page/곽민정.md "wikilink")
 
 ## 같이 보기
 
   - [SBS 스포츠](../Page/SBS_스포츠.md "wikilink")
   - [MBC 스포츠플러스](../Page/MBC_스포츠플러스.md "wikilink")
-  - [JTBC3 Fox Sports](https://ko.wikipedia.org/wiki/JTBC3_Fox_Sports "wikilink")
+  - [JTBC GOLF\&Sports](https://ko.wikipedia.org/wiki/JTBC3_Fox_Sports "wikilink")
   - [SPO TV](https://ko.wikipedia.org/wiki/SPO_TV "wikilink")
   - [SPO TV2](https://ko.wikipedia.org/wiki/SPO_TV2 "wikilink")
   - [IB 스포츠](../Page/IB_스포츠_\(텔레비전_채널\).md "wikilink")

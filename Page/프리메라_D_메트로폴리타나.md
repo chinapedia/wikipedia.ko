@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [ D ](https://ko.wikipedia.org/wiki/_D_).
+> This article is converted from Wikipedia: [프리메라 D 메트로폴리타나](https://ko.wikipedia.org/wiki/프리메라_D_메트로폴리타나).
 
 
-**프리메라 D 메트로폴리타나** (, 또는 **프리메라 D** )는 [아르헨티나](../Page/아르헨티나.md "wikilink") [축구](../Page/축구.md "wikilink")의 5부 [리그이다](https://ko.wikipedia.org/wiki/리그_\(스포츠\) "wikilink"). [아르헨티나 축구협회](https://ko.wikipedia.org/wiki/아르헨티나_축구협회 "wikilink")(AFA)에 직접 가맹된 [수도권의](https://ko.wikipedia.org/wiki/그란_부에노스아이레스 "wikilink") 18개의 팀이 참여하는 최하위 리그이다.
+**프리메라 D 메트로폴리타나**(, 또는 **프리메라 D** )는 [아르헨티나](../Page/아르헨티나.md "wikilink") [축구](../Page/축구.md "wikilink")의 5부 [리그이다](https://ko.wikipedia.org/wiki/리그_\(스포츠\) "wikilink"). [아르헨티나 축구협회](https://ko.wikipedia.org/wiki/아르헨티나_축구협회 "wikilink")(AFA)에 직접 가맹된 [수도권의](https://ko.wikipedia.org/wiki/그란_부에노스아이레스 "wikilink") 18개의 팀이 참여하는 최하위 리그이다.
 
 ## 역사
 

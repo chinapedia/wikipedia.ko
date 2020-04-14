@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ EF-S 17-55mm ](https://ko.wikipedia.org/wiki/_EF-S_17-55mm_).
+> This article is converted from Wikipedia: [캐논 EF-S 17-55mm 렌즈](https://ko.wikipedia.org/wiki/캐논_EF-S_17-55mm_렌즈).
 
 
 [right](https://ko.wikipedia.org/wiki/파일:Canon_EF-S_17-55mm.jpg "wikilink") **캐논 EF-S 17-55mm 2.8 [IS](../Page/영상_흔들림_방지.md "wikilink") [USM](https://ko.wikipedia.org/wiki/캐논_EF_마운트#초음파_자동_초점_모터 "wikilink") 렌즈**는 [캐논 EF-S 마운트를](../Page/캐논_EF-S_마운트.md "wikilink") 가지고 있는 캐논의 고성능 표준 [줌 렌즈이다](https://ko.wikipedia.org/wiki/줌_렌즈 "wikilink"). [35mm 환산 초점거리는](https://ko.wikipedia.org/wiki/35mm_환산_초점거리 "wikilink") 27-88mm이다.

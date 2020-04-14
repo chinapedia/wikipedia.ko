@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ SCC](https://ko.wikipedia.org/wiki/_SCC).
+> This article is converted from Wikipedia: [코나미 SCC](https://ko.wikipedia.org/wiki/코나미_SCC).
 
 
 **코나미 SCC**(**Sound Custom Chip**, **Sound Creative Chip**)는 [코나미](../Page/코나미.md "wikilink")와 [야마하](../Page/야마하.md "wikilink")가 개발한 [사운드 칩으로](https://ko.wikipedia.org/wiki/사운드_칩 "wikilink") 주로 [MSX](../Page/MSX.md "wikilink")의 빈약한 [PSG](https://ko.wikipedia.org/wiki/PSG "wikilink")사운드를 보강하기 위해 사용되었으며 정식이름은 **K051649**다.

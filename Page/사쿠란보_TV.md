@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ TV](https://ko.wikipedia.org/wiki/_TV).
+> This article is converted from Wikipedia: [사쿠란보 TV](https://ko.wikipedia.org/wiki/사쿠란보_TV).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Sakuranbo-TV_2011-08.jpg "wikilink") **사쿠란보 TV**는 [1997년](../Page/1997년.md "wikilink") [4월 1일](../Page/4월_1일.md "wikilink") [야마가타현](../Page/야마가타현.md "wikilink")의 4번째 민영방송국으로 개국했다.

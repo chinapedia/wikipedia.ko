@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ OS X  ](https://ko.wikipedia.org/wiki/_OS_X__).
+> This article is converted from Wikipedia: [맥 OS X 스노 레퍼드](https://ko.wikipedia.org/wiki/맥_OS_X_스노_레퍼드).
 
 
 **맥 OS X 스노 레퍼드**(Mac OS X Snow Leopard, 버전 10.6)는 [애플의](https://ko.wikipedia.org/wiki/애플_\(기업\) "wikilink") [운영 체제인](../Page/운영_체제.md "wikilink") [맥 OS X의](https://ko.wikipedia.org/wiki/맥_OS_X "wikilink") 일곱번째 주요 버전이다.\[1\] 맥 OS X 스노 레퍼드는 [애플사의](https://ko.wikipedia.org/wiki/애플_\(기업\) "wikilink") [최고 경영자인](https://ko.wikipedia.org/wiki/최고_경영자 "wikilink") [스티브 잡스가](../Page/스티브_잡스.md "wikilink") [2008년](../Page/2008년.md "wikilink") [6월 9일에](../Page/6월_9일.md "wikilink") [WWDC 08에서](https://ko.wikipedia.org/wiki/WWDC "wikilink") 발표하였다. 그리고 2009년 8월 28일 정식으로 출시되었다. 가격이 1달러로 상당히 저렴해서 업그레이드 율이 아주 높았다. 맥 OS X 스노 레퍼드는 [맥 OS X 레퍼드가](../Page/맥_OS_X_레퍼드.md "wikilink") 나온지 2년 만에 나온 릴리즈이다.

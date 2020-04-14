@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [   II:  ](https://ko.wikipedia.org/wiki/___II:__).
+> This article is converted from Wikipedia: [솔저 오브 포춘 II: 더블 헬릭스](https://ko.wikipedia.org/wiki/솔저_오브_포춘_II:_더블_헬릭스).
 
 
 《**솔저 오브 포춘 II: 더블 헬릭스**》()는 [레이븐 소프트웨어에서](../Page/레이븐_소프트웨어.md "wikilink") 개발한 용병을 주제로 한 [1인칭 슈팅 게임](https://ko.wikipedia.org/wiki/1인칭_슈팅_게임 "wikilink") [솔져 오브 포춘의](https://ko.wikipedia.org/wiki/솔져_오브_포춘 "wikilink") 후속작이다. 플레이어는 전작과 마찬가지로 존 멀린스()의 역할을 맡게 된다. [대한민국](../Page/대한민국.md "wikilink")에는 [메가 엔터프라이즈가](../Page/메가_엔터프라이즈.md "wikilink") PC판을 무삭제로 한글화하였고, [엑스박스](../Page/엑스박스.md "wikilink")판은 세중게임박스가 배급하였다.

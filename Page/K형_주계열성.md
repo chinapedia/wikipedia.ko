@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [K ](https://ko.wikipedia.org/wiki/K_).
+> This article is converted from Wikipedia: [K형 주계열성](https://ko.wikipedia.org/wiki/K형_주계열성).
 
 
 [right가](https://ko.wikipedia.org/wiki/파일:Alpha_Cen_B.jpg "wikilink") 있다. [셀레스티아](../Page/셀레스티아.md "wikilink")에서 작성\]\] **K형 주계열성**(**K V**) 또는 **K형 왜성**(矮星)은 [분광형](../Page/항성분류.md "wikilink") K에 광도분류는 V에 속하는 [주계열](../Page/주계열.md "wikilink")성이다. K형 주계열성은 M형 주계열성([적색 왜성](../Page/적색왜성.md "wikilink"))과 [G형 주계열성의](../Page/G형_주계열성.md "wikilink") 중간에 속하는 무리로 질량은 대략 태양의 최소 0.5배 \~ 최대 0.8배,\[1\] [표면 온도는](../Page/유효온도.md "wikilink") 3900 \~ 5200 [K](../Page/켈빈.md "wikilink") 정도이다.\[2\]<sup>Tables VII, VIII.</sup> 유명한 K형 주계열성으로는 [센타우루스자리 알파](../Page/센타우루스자리_알파.md "wikilink") B(K1 V), [에리다누스자리 엡실론](../Page/에리다누스자리_엡실론.md "wikilink") 등이 있다.\[3\]

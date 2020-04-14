@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [H. G. ](https://ko.wikipedia.org/wiki/H._G._).
+> This article is converted from Wikipedia: [H. G. 웰스](https://ko.wikipedia.org/wiki/H._G._웰스).
 
 
 **허버트 조지 웰스**(Herbert George Wells, [1866년](../Page/1866년.md "wikilink") [9월 21일](../Page/9월_21일.md "wikilink") \~ [1946년](../Page/1946년.md "wikilink") [8월 13일](../Page/8월_13일.md "wikilink"))는 [과학 소설로](https://ko.wikipedia.org/wiki/과학_소설 "wikilink") 유명한 [영국](../Page/영국.md "wikilink")의 소설가이자 문명 비평가이다. 또한 역사, 정치, 사회에 대한 여러 장르에도 다양한 작품을 남겼다. [쥘 베른](../Page/쥘_베른.md "wikilink"), [휴고 건스백과](../Page/휴고_건스백.md "wikilink") 함께 '과학 소설의 아버지'로 불린다. 《[타임머신](https://ko.wikipedia.org/wiki/타임머신_\(소설\) "wikilink")》, 《투명인간》 등 과학 소설 100여 편을 썼다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [CONMEBOL U-20   ](https://ko.wikipedia.org/wiki/CONMEBOL_U-20___).
+> This article is converted from Wikipedia: [CONMEBOL U-20 축구 선수권 대회](https://ko.wikipedia.org/wiki/CONMEBOL_U-20_축구_선수권_대회).
 
 
 **CONMEBOL U-20 축구 선수권 대회**는 [남미 축구 연맹](../Page/남미_축구_연맹.md "wikilink")(CONMEBOL)에서 주최하는 20세 미만 [축구](../Page/축구.md "wikilink") 선수권 대회이다. 1954년에 시작한 이 대회는 창설 당시에 참가 대상을 [만 18세](https://ko.wikipedia.org/wiki/만_18세 "wikilink") 미만으로 제한했으나 1977년 [FIFA U-20 월드컵의](../Page/FIFA_U-20_월드컵.md "wikilink") 시작으로 [만 19세로](https://ko.wikipedia.org/wiki/만_19세 "wikilink") 제한한다.

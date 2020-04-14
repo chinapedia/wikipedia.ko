@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
+> This article is converted from Wikipedia: [아리스 FC](https://ko.wikipedia.org/wiki/아리스_FC).
 
 
 **아리스 FC**()는 [그리스](../Page/그리스.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽으로 [테살로니키](../Page/테살로니키.md "wikilink")에 연고를 두고 있다. 아리스는 연고지의 명칭을 넣어 **아리스 테살로니키 FC**라고도 불린다. 아리스라는 이름은 [그리스 신화에](../Page/그리스_신화.md "wikilink") 등장하는 전쟁의 신인 [아레스](../Page/아레스.md "wikilink")에서 유래된 이름이다.

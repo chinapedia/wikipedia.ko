@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ BK](https://ko.wikipedia.org/wiki/_BK).
+> This article is converted from Wikipedia: [올보르 BK](https://ko.wikipedia.org/wiki/올보르_BK).
 
 
 **올보르 BK**(Aalborg Boldspilklub)는 [덴마크](../Page/덴마크.md "wikilink")의 프로 [축구](../Page/축구.md "wikilink") 클럽으로 현재 덴마크 북부에 위치한 [올보르](../Page/올보르.md "wikilink")를 연고지로 삼고 있는 축구 클럽이다. 올보르는 약자를 따서 간단하게 **AaB**로 불리기도 한다. 올보르 BK는 [크리켓](../Page/크리켓.md "wikilink")과 [테니스](../Page/테니스.md "wikilink") 팀도 있었지만, 현재는 [축구](../Page/축구.md "wikilink"), [아이스 하키](https://ko.wikipedia.org/wiki/아이스_하키 "wikilink"), [핸드볼](../Page/핸드볼.md "wikilink") 팀만 관리하고 있다. 각각의 팀들은 모두 각 종목의 덴마크 최상위 리그에서 플레이하고 있다. 그리고 2007-08시즌 현재 리그 챔피언을 차지하였다.

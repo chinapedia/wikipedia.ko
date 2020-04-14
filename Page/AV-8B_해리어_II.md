@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [AV-8B  II](https://ko.wikipedia.org/wiki/AV-8B__II).
+> This article is converted from Wikipedia: [AV-8B 해리어 II](https://ko.wikipedia.org/wiki/AV-8B_해리어_II).
 
 
 [섬네일에](https://ko.wikipedia.org/wiki/파일:AV-8B_Harrier_II_lands_on_USS_Essex_\(LHD_2\).jpg "wikilink") 참가중인 [USS Essex (LHD 2)에](../Page/와스프급_강습상륙함.md "wikilink") 착륙하고 있는 AV-8B 해리어 II\]\] **맥도널 더글러스 AV-8B 해리어 II**()는 20세기 후반에 제작된 2세대 V/STOL(수직 또는 단거리 이착륙) 제트 전투기이다. [브리티시 에어로스페이스는](https://ko.wikipedia.org/wiki/브리티시_에어로스페이스 "wikilink") 1980년대 초반에 이 프로젝트에 참여했고, 1990년대부터는 Boeing/[BAE 시스템스에서](https://ko.wikipedia.org/wiki/BAE_시스템스 "wikilink") 이 사업을 담당하고 있다. 초기의 [호커 시들리 해리어에서](../Page/호커_시들리_해리어.md "wikilink") 발전한 모델로서, 경량의 공격 또는 다목적 임무를 위해 개발되었다. 경공격기 또는 다목적 경전투기이다. [영국](../Page/영국.md "wikilink"), [스페인](../Page/스페인.md "wikilink"), [이탈리아](../Page/이탈리아.md "wikilink"), [미국](../Page/미국.md "wikilink")을 포함해서 여러 [나토](https://ko.wikipedia.org/wiki/나토 "wikilink") 국가들이 사용하고 있다.

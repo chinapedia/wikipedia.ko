@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KT ](https://ko.wikipedia.org/wiki/KT_).
+> This article is converted from Wikipedia: [KT 턴스톨](https://ko.wikipedia.org/wiki/KT_턴스톨).
 
 
 [right](https://ko.wikipedia.org/wiki/파일:KT_Tunstall_Seattle_2010.jpg "wikilink") **케이트 "케이티" 턴스톨**\[\](, [1975년](../Page/1975년.md "wikilink") [6월 23일](../Page/6월_23일.md "wikilink") \~, [스코틀랜드](../Page/스코틀랜드.md "wikilink") [에딘버러](https://ko.wikipedia.org/wiki/에딘버러 "wikilink"))는 [스코틀랜드](../Page/스코틀랜드.md "wikilink") 출신의 [싱어송라이터](https://ko.wikipedia.org/wiki/싱어송라이터 "wikilink")이다. [레이터 위드 줄스 홀랜드에서](https://ko.wikipedia.org/wiki/레이터_위드_줄스_홀랜드 "wikilink") 그녀의 곡 〈블랙 호스 앤 더 체리 트리〉를 불러 대중에게 알려지기 시작했다. 이후로 4백만 장 이상의 음반 판매고를 올리며 상업적으로 크게 성공하였다.\[1\] 세 건의 [BRIT 상을](https://ko.wikipedia.org/wiki/BRIT_상 "wikilink") 수상하였으며 [그래미](https://ko.wikipedia.org/wiki/그래미 "wikilink") 상 수상 후보에 오르기도 하였다.

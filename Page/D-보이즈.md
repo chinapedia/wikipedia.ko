@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [D-](https://ko.wikipedia.org/wiki/D-).
+> This article is converted from Wikipedia: [D-보이즈](https://ko.wikipedia.org/wiki/D-보이즈).
 
 
 **D-보이즈**(D-BOYS)는 [일본](../Page/일본.md "wikilink")의 [와타나베 엔터테인먼트](https://ko.wikipedia.org/wiki/와타나베_엔터테인먼트 "wikilink") 소속의 남성 배우 집단이다.

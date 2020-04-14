@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ EOS 350D](https://ko.wikipedia.org/wiki/_EOS_350D).
+> This article is converted from Wikipedia: [캐논 EOS 350D](https://ko.wikipedia.org/wiki/캐논_EOS_350D).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Canon_EOS_350D_front_\(aka\).jpg "wikilink")

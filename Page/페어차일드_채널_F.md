@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  F](https://ko.wikipedia.org/wiki/__F).
+> This article is converted from Wikipedia: [페어차일드 채널 F](https://ko.wikipedia.org/wiki/페어차일드_채널_F).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Channelf.png "wikilink") **페어차일드 채널 F**(Fairchild Channel F)는 [페어차일드 세미컨덕터](https://ko.wikipedia.org/wiki/페어차일드_세미컨덕터 "wikilink")(Fairchild Semiconductor)에서 1976년 8월 발매한 가정용 게임기로 [마그나복스 오디세이에](../Page/마그나복스_오디세이.md "wikilink") 이어 두 번째 카트리지 방식의 게임기이다. 오디세이의 카트리지가 단순한 [점퍼](https://ko.wikipedia.org/wiki/점퍼 "wikilink") 조합이었던 것에 비해 채널 F는 [롬 카트리지로서](../Page/롬_카트리지.md "wikilink") 2세대 가정용 게임기의 시초라 볼 수 있다. 발매 당시 가격은 169.95$였다.

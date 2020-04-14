@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [MS-DOS ](https://ko.wikipedia.org/wiki/MS-DOS_).
+> This article is converted from Wikipedia: [MS-DOS 편집기](https://ko.wikipedia.org/wiki/MS-DOS_편집기).
 
 
 **MS-DOS 편집기**(MS-DOS Editor)는 [MS-DOS](../Page/MS-DOS.md "wikilink") 버전 5 이상과 [마이크로소프트 윈도에서](https://ko.wikipedia.org/wiki/마이크로소프트_윈도 "wikilink") 제공되는 [문서 편집기이다](../Page/문서_편집기.md "wikilink"). 원래는 (MS-DOS 6.22까지는) 편집기 모드에서 [큐베이직](https://ko.wikipedia.org/wiki/큐베이직 "wikilink")을 시작했던 것에서 비롯된 것이다. 도스 7([윈도 95](https://ko.wikipedia.org/wiki/윈도_95 "wikilink"))부터 QBasic는 제거되었으며, MS-DOS 편집기가 독립 프로그램이 되었다. 이 편집기 프로그램은 [COM 파일](../Page/COM_파일.md "wikilink") 확장자 호환성을 유지하였음에도 실제로는 [EXE](../Page/EXE.md "wikilink")를 사용하고 있다.

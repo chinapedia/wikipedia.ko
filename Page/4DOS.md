@@ -47,4 +47,4 @@
   - [4DOS.INFO](http://www.4dos.info/)
   - [수정된 4DOS](https://web.archive.org/web/20091226144809/http://4dos.hit.bg/) - 오픈 소스 형태의 4DOS
 
-[분류:도스용 소프트웨어](https://ko.wikipedia.org/wiki/분류:도스용_소프트웨어 "wikilink") [분류:셸](https://ko.wikipedia.org/wiki/분류:셸 "wikilink")
+[분류:도스 소프트웨어](https://ko.wikipedia.org/wiki/분류:도스_소프트웨어 "wikilink") [분류:셸](https://ko.wikipedia.org/wiki/분류:셸 "wikilink")

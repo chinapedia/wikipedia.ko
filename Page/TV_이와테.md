@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TV ](https://ko.wikipedia.org/wiki/TV_).
+> This article is converted from Wikipedia: [TV 이와테](https://ko.wikipedia.org/wiki/TV_이와테).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:TelevisionIwate-FMIwate.jpg "wikilink") **TV 이와테**는 [1969년](../Page/1969년.md "wikilink") [12월 1일](../Page/12월_1일.md "wikilink") [이와테현](../Page/이와테현.md "wikilink")의 2번째 민영방송국으로 개국했으며 약칭은 TVI, 콜사인은 JOII-DTV이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ J. ](https://ko.wikipedia.org/wiki/_J._).
+> This article is converted from Wikipedia: [조지 J. 미첼](https://ko.wikipedia.org/wiki/조지_J._미첼).
 
 
 **조지 존 미첼 주니어**(George John Mitchell, Jr., 1933년 8월 20일 \~ )은 [미국](../Page/미국.md "wikilink") [메인주](../Page/메인주.md "wikilink") 상원 의원을 역임한 [정치가](https://ko.wikipedia.org/wiki/정치가 "wikilink")이자 [기업가](https://ko.wikipedia.org/wiki/기업가 "wikilink")이다. 1954년 [보든 대학교를](https://ko.wikipedia.org/wiki/보든_대학교 "wikilink") 졸업하고 1954년부터 1956년까지 군 복무를 마친 후 1961년 [조지타운 대학교 법학센터를](../Page/조지타운_대학교_법학센터.md "wikilink") 졸업했다. 1989년에서 1995년까지 미국 [민주당](../Page/민주당_\(미국\).md "wikilink") 상원 원내총무를 역임했으며, 2004년 3월부터 2007년 1월까지 [월트 디즈니 사의](https://ko.wikipedia.org/wiki/월트_디즈니_사 "wikilink") 회장을 지냈다. [로펌](../Page/로펌.md "wikilink") DLA 파이퍼(DLA Piper)의 회장과 [북아일랜드](../Page/북아일랜드.md "wikilink") [퀸즈 대학교 벨파스트](https://ko.wikipedia.org/wiki/퀸즈_대학교_벨파스트 "wikilink") 총장을 지내기도 했다.

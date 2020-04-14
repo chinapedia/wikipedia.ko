@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [- CTLS](https://ko.wikipedia.org/wiki/-_CTLS).
+> This article is converted from Wikipedia: [마먼-헤링턴 CTLS](https://ko.wikipedia.org/wiki/마먼-헤링턴_CTLS).
 
 
 [250px](https://ko.wikipedia.org/wiki/파일:IWM-SE-5742-tank-Surabaya-194511.jpg "wikilink") [수라바야](../Page/수라바야.md "wikilink")에서 찍힌 사진\]\]

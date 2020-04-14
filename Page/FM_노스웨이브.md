@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FM ](https://ko.wikipedia.org/wiki/FM_).
+> This article is converted from Wikipedia: [FM 노스웨이브](https://ko.wikipedia.org/wiki/FM_노스웨이브).
 
 
 [썸네일](https://ko.wikipedia.org/wiki/파일:Shin-Hokkaido_Bldg_20070603-001.jpg "wikilink") **FM노스웨이브**는 일본의 FM방송국으로 [홋카이도](../Page/홋카이도.md "wikilink") 일부지역에서 방송을 실시하고 있다.

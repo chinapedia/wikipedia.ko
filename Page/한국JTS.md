@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [JTS](https://ko.wikipedia.org/wiki/JTS).
+> This article is converted from Wikipedia: [한국JTS](https://ko.wikipedia.org/wiki/한국JTS).
 
 
 **한국JTS**(Join Together Society)는 [정토회](https://ko.wikipedia.org/wiki/정토회 "wikilink")의 [승려](../Page/승려.md "wikilink") [법륜](../Page/법륜_\(승려\).md "wikilink")(현재 JTS 이사장)이 [기아](../Page/굶주림.md "wikilink"), [질병](../Page/질병.md "wikilink"), [문맹](https://ko.wikipedia.org/wiki/문맹 "wikilink") 퇴치를 목적으로 설립한 국제구호 [비정부 기구이다](../Page/비정부_기구.md "wikilink").

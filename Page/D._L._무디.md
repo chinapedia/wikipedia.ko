@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [D. L. ](https://ko.wikipedia.org/wiki/D._L._).
+> This article is converted from Wikipedia: [D. L. 무디](https://ko.wikipedia.org/wiki/D._L._무디).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Dwight_Lyman_Moody_c.1900.jpg "wikilink") **드와이트 라이먼 무디**(Dwight Lyman Moody, 드와이트 라이먼 무디,[1837년](../Page/1837년.md "wikilink") [2월 5일](../Page/2월_5일.md "wikilink") \~ [1899년](../Page/1899년.md "wikilink")[12월 22일](../Page/12월_22일.md "wikilink"))은 [미국](../Page/미국.md "wikilink")의 [침례교](../Page/침례교.md "wikilink") 평신도 설교자이다. [아더 태팬 피어선](https://ko.wikipedia.org/wiki/피어슨 "wikilink"), [존 와너메이커](../Page/존_와너메이커.md "wikilink"), 그리고 [아도니람 저드슨 고든이](https://ko.wikipedia.org/wiki/아도니람_저드슨_고든 "wikilink") 모두 친구로서 미국 복음주의 운동의 선두 역할을 하였다.

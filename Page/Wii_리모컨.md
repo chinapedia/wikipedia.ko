@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Wii ](https://ko.wikipedia.org/wiki/Wii_).
+> This article is converted from Wikipedia: [Wii 리모컨](https://ko.wikipedia.org/wiki/Wii_리모컨).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Wii_Remote_Image.jpg "wikilink") **Wii 리모컨**()은 [닌텐도](../Page/닌텐도.md "wikilink")의 [Wii](../Page/Wii.md "wikilink") 게임기를 위한 [게임 컨트롤러이다](../Page/게임_컨트롤러.md "wikilink"). Wii 리모컨의 주된 기능은 [모션 감지](https://ko.wikipedia.org/wiki/모션_감지 "wikilink") 기능으로 사용자가 화면 위의 물건과 상호 작용하며 물건을 이용할 수 있게 하며 [광학 센서와](https://ko.wikipedia.org/wiki/고체_촬상_소자 "wikilink") [가속도계](https://ko.wikipedia.org/wiki/가속도계 "wikilink")를 사용하여 포인트할 수 있게 되어 있다. 다른 기능으로는 주변기기 접속을 통한 확장 이용이다. 확장 컨트롤러로는 눈차크나 클래식 컨트롤러 같은 것들이 있다.

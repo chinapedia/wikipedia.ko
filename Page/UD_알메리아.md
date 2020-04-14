@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [UD ](https://ko.wikipedia.org/wiki/UD_).
+> This article is converted from Wikipedia: [UD 알메리아](https://ko.wikipedia.org/wiki/UD_알메리아).
 
 
 **UD 알메리아**(Unión Deportiva Almería)는 [스페인](../Page/스페인.md "wikilink") 남부 [안달루시아](https://ko.wikipedia.org/wiki/안달루시아 "wikilink") 지방에 [지중해](../Page/지중해.md "wikilink")를 낀 항구도시 [알메리아](../Page/알메리아.md "wikilink")를 연고한 축구클럽이다. [후에고스 메디테라네오스](https://ko.wikipedia.org/wiki/후에고스_메디테라네오스 "wikilink") 경기장을 근거로 하고 있다. 현재 주장은 [호세 오르티스이다](https://ko.wikipedia.org/wiki/호세_오르티스 "wikilink").

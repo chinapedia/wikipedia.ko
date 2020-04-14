@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ TV](https://ko.wikipedia.org/wiki/_TV).
+> This article is converted from Wikipedia: [이시카와 TV](https://ko.wikipedia.org/wiki/이시카와_TV).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Ishikawa_Television_broadcasting.JPG "wikilink") **이시카와 TV**는 [1969년](../Page/1969년.md "wikilink") [4월 1일](../Page/4월_1일.md "wikilink") [이시카와현](../Page/이시카와현.md "wikilink")의 2번째 민영방송국으로 개국했다.

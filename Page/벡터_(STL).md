@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ \(STL\)](https://ko.wikipedia.org/wiki/_\(STL\)).
+> This article is converted from Wikipedia: [벡터 \(STL\)](https://ko.wikipedia.org/wiki/벡터_\(STL\)).
 
 
 **벡터**(`std::vector`)는 동적 배열 구조를 [C++](https://ko.wikipedia.org/wiki/C++ "wikilink")로 구현한 것이다. 이것은 C의 배열(빠른 랜덤 접근이 가능한)처럼 행동하지만 자동으로 배열의 크기 조절과 객체의 추가와 삭제가 가능하다.

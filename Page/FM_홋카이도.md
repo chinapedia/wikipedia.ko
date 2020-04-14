@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FM ](https://ko.wikipedia.org/wiki/FM_).
+> This article is converted from Wikipedia: [FM 홋카이도](https://ko.wikipedia.org/wiki/FM_홋카이도).
 
 
 **FM홋카이도**는 일본의 FM라디오 방송국으로 [1982년](../Page/1982년.md "wikilink") [9월 15일](../Page/9월_15일.md "wikilink") 개국했으며 [홋카이도](../Page/홋카이도.md "wikilink")에서 방송을 실시하고 있다.

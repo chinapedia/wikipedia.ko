@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [BBC ](https://ko.wikipedia.org/wiki/BBC_).
+> This article is converted from Wikipedia: [BBC 교향악단](https://ko.wikipedia.org/wiki/BBC_교향악단).
 
 
 **BBC 심포니 오케스트라**(BBC Symphony Orchestra)은 [영국방송협회가](https://ko.wikipedia.org/wiki/BBC "wikilink") 운영하는 [관현악단](../Page/관현악단.md "wikilink")의 하나이며, [런던](../Page/런던.md "wikilink")을 본거지로 하고 있다.

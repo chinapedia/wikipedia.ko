@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ DMC-12](https://ko.wikipedia.org/wiki/_DMC-12).
+> This article is converted from Wikipedia: [들로리언 DMC-12](https://ko.wikipedia.org/wiki/들로리언_DMC-12).
 
 
 [thumb](https://ko.wikipedia.org/wiki/파일:Delorean_DMC-12_side.jpg "wikilink") [thumb](https://ko.wikipedia.org/wiki/파일:Back_left.JPG "wikilink") **들로리언 DMC-12**(DeLorean DMC-12)는 [들로리언 자동차](https://ko.wikipedia.org/wiki/들로리언_자동차 "wikilink")(DeLorean Motor Company)에서 [1981년](../Page/1981년.md "wikilink")부터 [1983년](../Page/1983년.md "wikilink")까지 제작한 [북아일랜드](../Page/북아일랜드.md "wikilink")의 [패스트백](../Page/패스트백.md "wikilink") [스포츠카](../Page/스포츠카.md "wikilink")이다. [들로리언 자동차는](https://ko.wikipedia.org/wiki/들로리언_자동차 "wikilink") 이 모델이 유일한 상용 모델이어서 들로리언 DMC-12를 간단히 **들로리언**이라고도 부른다. DMC-12는 차문이 열렸을 때 갈매기 날개 모양을 하고 있고 차체는 무광처리된 [스테인리스강](../Page/스테인리스강.md "wikilink")으로 제작되어 있어, 전체적으로 독특한 디자인을 가지고 있다. DMC-12의 독특한 디자인 때문에 영화 [백 투 더 퓨처](../Page/백_투_더_퓨처.md "wikilink") 시리즈에 등장하기도 했다.

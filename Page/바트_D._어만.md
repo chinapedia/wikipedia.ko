@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ D. ](https://ko.wikipedia.org/wiki/_D._).
+> This article is converted from Wikipedia: [바트 D. 어만](https://ko.wikipedia.org/wiki/바트_D._어만).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Bart_Ehrman.jpg "wikilink") **바트 D. 어만** (Bart D. Ehrman, [1955년](../Page/1955년.md "wikilink")-)은 [미국](../Page/미국.md "wikilink")의 [성서학](../Page/성서학.md "wikilink")자이다.

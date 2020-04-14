@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SS ](https://ko.wikipedia.org/wiki/SS_).
+> This article is converted from Wikipedia: [SS 라치오](https://ko.wikipedia.org/wiki/SS_라치오).
 
 
 **소치에타 스포르티바 라치오**(Società Sportiva Lazio S.p.A.)는 줄여서 **라치오**라고도 불리며 [로마](../Page/로마.md "wikilink")를 연고로 하는 잘 알려진 [이탈리아](../Page/이탈리아.md "wikilink")의 축구클럽이다. [1900년](../Page/1900년.md "wikilink")에 설립됐으며 클럽 역사 대부분을 이탈리아 1부리그와 [세리에 A에서](../Page/세리에_A.md "wikilink") 보냈다. 라치오는 [이탈리아 챔피언](../Page/스쿠데토.md "wikilink") 두 차례, [코파 이탈리아](../Page/코파_이탈리아.md "wikilink") 여섯 차례, [수페르코파 이탈리아나](../Page/수페르코파_이탈리아나.md "wikilink") 다섯 차례 그리고 [UEFA 컵위너스컵과](../Page/UEFA_컵위너스컵.md "wikilink") [UEFA 슈퍼컵을](../Page/UEFA_슈퍼컵.md "wikilink") 한 차례 우승했다.

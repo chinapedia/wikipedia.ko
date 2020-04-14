@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [E](https://ko.wikipedia.org/wiki/E).
+> This article is converted from Wikipedia: [E스포츠](https://ko.wikipedia.org/wiki/E스포츠).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:World_Cyber_Games_2004_Auditorium.jpg "wikilink") **일렉트로닉 스포츠**(), 또는 간단히 줄여서 **e스포츠**()는 컴퓨터 통신이나 인터넷 따위를 통해서 온라인상으로 이루어지는 [게임](../Page/게임.md "wikilink")을 통틀어 이르는 말이다.유사스포츠의 한 종류이기도 하다.\[1\] 대한민국 이스포츠(전자스포츠) 진흥에 관한 법률에 따르면, “이스포츠”란 「게임산업진흥에 관한 법률」 제2조제1호"게임물"에 따른 게임물을 매개(媒介)로 하여 사람과 사람 간에 기록 또는 승부를 겨루는 경기 및 부대활동을 말한다. 넓은 의미로는 실제 세계와 유사하게 구현된 가상의 전자 환경에서 정신적, 신체적인 능력을 활용하여 승부를 겨루는 여가활동, 그리고 대회 또는 리그의 현장으로의 참여를 비롯해 전파를 통해 전달되는 중계의 관전을 포함하며, 이와 관계되는 커뮤니티 활동 등의 사이버 문화 전반 또한 e스포츠의 정의에 포함된다.\[2\]

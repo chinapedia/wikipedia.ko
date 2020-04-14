@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ H.P.](https://ko.wikipedia.org/wiki/_H.P.).
+> This article is converted from Wikipedia: [메트로래비츠 H.P.](https://ko.wikipedia.org/wiki/메트로래비츠_H.P.).
 
 
 **메트로래비츠 H.P.**(メトロラビッツH.P.)는 [헬로\! 프로젝트의](../Page/헬로!_프로젝트.md "wikilink") 멤버들로 구성된 [킥 베이스볼](https://ko.wikipedia.org/wiki/킥_베이스볼 "wikilink") 팀이다.

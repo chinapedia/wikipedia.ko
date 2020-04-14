@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KBS](https://ko.wikipedia.org/wiki/KBS).
+> This article is converted from Wikipedia: [KBS대구방송총국](https://ko.wikipedia.org/wiki/KBS대구방송총국).
 
 
 **KBS대구방송총국**(KBS大邱放送總局)은 [대구광역시](../Page/대구광역시.md "wikilink")·[경상북도](https://ko.wikipedia.org/wiki/경상북도 "wikilink") 중서남부지역을 대상으로 하는 [한국방송공사](../Page/한국방송공사.md "wikilink")의 지역방송총국이다. [KBS안동방송국](../Page/KBS안동방송국.md "wikilink")과 [KBS포항방송국](../Page/KBS포항방송국.md "wikilink")을 하부에 두고 있다.
@@ -272,7 +272,7 @@
 
 <!-- end list -->
 
-  - [음악과 음악사이](../Page/음악과_음악사이.md "wikilink") (연예오락, 월\~일,11:00\~11:57)(진행 [손지민](https://ko.wikipedia.org/wiki/손지민 "wikilink"))(TV:평일)
+  - [음악과 음악사이](../Page/음악과_음악사이.md "wikilink") (연예오락, 월\~일,11:00\~11:57)(진행 [이윤정](https://ko.wikipedia.org/wiki/이윤정 "wikilink"))(TV:평일)
 
 <!-- end list -->
 
@@ -356,6 +356,8 @@
   - [박진영](../Page/박진영.md "wikilink")
   - [이지은](https://ko.wikipedia.org/wiki/이지은 "wikilink")
   - [김지홍](https://ko.wikipedia.org/wiki/김지홍 "wikilink")
+  - [윤희정](https://ko.wikipedia.org/wiki/윤희정 "wikilink")
+  - [최보규](https://ko.wikipedia.org/wiki/최보규 "wikilink")
 
 ## 수어통역사
 
@@ -394,6 +396,7 @@
 
   - [KBS 대구방송총국의 어제와 오늘 (1)](http://blog.daum.net/jc21th/17780127)
   - [KBS 대구방송총국의 어제와 오늘 (2)](http://blog.daum.net/jc21th/17780128)
+  - [사진으로 본 KBS 대구방송총국의 역사](http://blog.daum.net/jc21th/17780129)
 
 ## 외부 링크
 

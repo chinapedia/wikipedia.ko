@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [PC ](https://ko.wikipedia.org/wiki/PC_).
+> This article is converted from Wikipedia: [PC 게임](https://ko.wikipedia.org/wiki/PC_게임).
 
 
 **PC 게임**()은 [아케이드 기판이나](../Page/아케이드_기판.md "wikilink") [비디오 게임기가](https://ko.wikipedia.org/wiki/비디오_게임기 "wikilink") 아닌 [개인용 컴퓨터에서](../Page/개인용_컴퓨터.md "wikilink") 즐길 수 있는 [비디오 게임을](../Page/비디오_게임.md "wikilink") 말한다. 컴퓨터 게임들은 초창기 간단한 그래픽과 게임플레이를 갖춘 게임에서 다양하고 보다 시각적으로 진보한 게임으로 점차 발전되어 왔다.

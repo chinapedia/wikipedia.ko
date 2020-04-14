@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FIFA  ](https://ko.wikipedia.org/wiki/FIFA__).
+> This article is converted from Wikipedia: [FIFA 여자 월드컵](https://ko.wikipedia.org/wiki/FIFA_여자_월드컵).
 
 
 **FIFA 여자 월드컵**은 [FIFA](https://ko.wikipedia.org/wiki/FIFA "wikilink")에 가입된 [여자 축구 국가대표팀들이](../Page/여자_축구_국가대표팀_목록.md "wikilink") 참여하는 여자 [축구](../Page/축구.md "wikilink") 분야의 국제 대회이다. 남성 대회가 [1930년](../Page/1930년.md "wikilink")에 처음 개최된 것에 비해 여자 대회는 61년이 지난 뒤인 [1991년](../Page/1991년.md "wikilink")에 첫 대회가 개최되었다. 현재의 대회는 본선 32개 팀이 참가하는 방식으로 우승 팀을 가리게 된다.

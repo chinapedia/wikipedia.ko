@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KBS](https://ko.wikipedia.org/wiki/KBS).
+> This article is converted from Wikipedia: [KBS강릉방송국](https://ko.wikipedia.org/wiki/KBS강릉방송국).
 
 
 **KBS 강릉 방송국**(KBS 江陵 放送局)은 강원도 영동 지역을 방송 대상 권역으로 하는 [KBS 춘천방송총국](https://ko.wikipedia.org/wiki/KBS_춘천방송총국 "wikilink") 산하의 지역 방송국이다.
@@ -49,7 +49,7 @@
       - 호출부호 : HLKR-DTV
       - 가상채널 : 9-1
 
-| 송신소     | UHD   | HD    | 출력    | 송신소 위치                      |
+| 송신소     | UHD   | HD    | 출력    | KBS 수신 안내                   |
 | ------- | ----- | ----- | ----- | --------------------------- |
 | 물리채널    | 출력    | 물리채널  |       |                             |
 | 1TV     | 2TV   | 1TV   | 2TV   |                             |

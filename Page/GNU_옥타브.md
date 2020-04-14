@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [GNU ](https://ko.wikipedia.org/wiki/GNU_).
+> This article is converted from Wikipedia: [GNU 옥타브](https://ko.wikipedia.org/wiki/GNU_옥타브).
 
 
 **옥타브**(Octave)는 [수치해석](https://ko.wikipedia.org/wiki/수치해석 "wikilink")용 자유 컴퓨터 소프트웨어로서, [MATLAB](../Page/MATLAB.md "wikilink")과 호환성이 높다. 옥타브는 GNU 프로젝트의 하나이다. 옥타브는 [매스매티카](../Page/매스매티카.md "wikilink")같은 컴퓨터 대수 체계가 아니라 과학적 계산을 위한 도구이다.

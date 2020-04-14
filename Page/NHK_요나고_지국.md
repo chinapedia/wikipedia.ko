@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [NHK  ](https://ko.wikipedia.org/wiki/NHK__).
+> This article is converted from Wikipedia: [NHK 요나고 지국](https://ko.wikipedia.org/wiki/NHK_요나고_지국).
 
 
 **NHK 요나고 지국**(米子 支局)은 [돗토리현](../Page/돗토리현.md "wikilink") [요나고 시에](https://ko.wikipedia.org/wiki/요나고_시 "wikilink") 있는 [NHK 돗토리 방송국](../Page/NHK_돗토리_방송국.md "wikilink") 지국으로 돗토리현의 서부 지역을 대상으로 뉴스 취재, 수신료 징수 업무 등을 실시하고 있다.

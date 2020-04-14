@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [UEFA ](https://ko.wikipedia.org/wiki/UEFA_).
+> This article is converted from Wikipedia: [UEFA 컵위너스컵](https://ko.wikipedia.org/wiki/UEFA_컵위너스컵).
 
 
 **UEFA 컵위너스컵**(UEFA Cup Winners' Cup)은 [유럽](../Page/유럽.md "wikilink")의 국내 컵 대회 우승 팀 간의 [축구](../Page/축구.md "wikilink") 대회였다. 이 대회는 [UEFA](https://ko.wikipedia.org/wiki/UEFA "wikilink")가 주관한 많은 유럽 대회 가운데 하나이다. [1960-61 시즌](https://ko.wikipedia.org/wiki/UEFA_컵위너스컵_1960-61 "wikilink") **유러피언 컵위너스컵**(European Cup Winners' Cup)이라는 이름으로 처음 시작되었고 [1998-99 시즌을](https://ko.wikipedia.org/wiki/UEFA_컵위너스컵_1998-99 "wikilink") 마지막으로 폐지되었다.

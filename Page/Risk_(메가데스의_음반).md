@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Risk \( \)](https://ko.wikipedia.org/wiki/Risk_\(_\)).
+> This article is converted from Wikipedia: [Risk \(메가데스의 음반\)](https://ko.wikipedia.org/wiki/Risk_\(메가데스의_음반\)).
 
 
 ***Risk***는 1999년 발매된 스래시 메탈 밴드인 [메가데스](https://ko.wikipedia.org/wiki/메가데스 "wikilink")의 앨범이다. 이 앨범은 Rust In Peace 이후로 계속해서 기타를 맡았던 마티 프리드먼의 마지막 참여작이다. 또한 이 앨범은 드러머 지미 드그라소가 참여한 첫 번째 앨범이기도 하다.

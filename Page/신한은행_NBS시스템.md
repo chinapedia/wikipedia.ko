@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ NBS](https://ko.wikipedia.org/wiki/_NBS).
+> This article is converted from Wikipedia: [신한은행 NBS시스템](https://ko.wikipedia.org/wiki/신한은행_NBS시스템).
 
 
 **신한은행 NBS시스템**은 [2006년](../Page/2006년.md "wikilink") [10월](../Page/10월.md "wikilink")부터 통합신한은행에서 사용하는 계산계 시스템이다.

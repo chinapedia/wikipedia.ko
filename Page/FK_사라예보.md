@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FK ](https://ko.wikipedia.org/wiki/FK_).
+> This article is converted from Wikipedia: [FK 사라예보](https://ko.wikipedia.org/wiki/FK_사라예보).
 
 
 **FK 사라예보**([보스니아어](../Page/보스니아어.md "wikilink"): Fudbalski klub Sarajevo)는 [보스니아 헤르체고비나의](../Page/보스니아_헤르체고비나.md "wikilink") 축구 클럽이다. 이 클럽은 [1946년](../Page/1946년.md "wikilink") [10월 24일](../Page/10월_24일.md "wikilink") 수도 [사라예보](../Page/사라예보.md "wikilink")를 연고지로 하여 만들어졌다. 이 클럽은 유고슬라비아 1부리그를 두번 우승한 가장 성공적인 보스니아계 클럽이다. 현재에는 두번의 리그 우승과 네번의 컵대회 우승 기록을 가지고 있다.

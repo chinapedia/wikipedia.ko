@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [A ](https://ko.wikipedia.org/wiki/A_).
+> This article is converted from Wikipedia: [A 리가](https://ko.wikipedia.org/wiki/A_리가).
 
 
 **A 리가**()는 [리투아니아](../Page/리투아니아.md "wikilink")의 최상위 [축구](../Page/축구.md "wikilink") [리그이다](https://ko.wikipedia.org/wiki/리그_\(스포츠\) "wikilink"). 이 리그는 [1991년](../Page/1991년.md "wikilink") 독립과 함께 시작되었으며, 현재 최다 우승 팀은 [FBK 카우나스이다](../Page/FBK_카우나스.md "wikilink"). 매 시즌은 [3월](../Page/3월.md "wikilink") 말이나 [4월](../Page/4월.md "wikilink") 초에 시작하게 된다. 러시아와 마찬가지로 추운 지역에 있기 때문에 겨울을 피하여 리그를 진행한다. 이전에도 [1927년](../Page/1927년.md "wikilink")부터 시작된 [구 소련 축구 리그의](https://ko.wikipedia.org/wiki/소비에트_탑_리그 "wikilink") 하부리그로서 리투아니아 리그는 계속 존재했었다.

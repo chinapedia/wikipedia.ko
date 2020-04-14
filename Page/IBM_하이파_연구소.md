@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [IBM  ](https://ko.wikipedia.org/wiki/IBM__).
+> This article is converted from Wikipedia: [IBM 하이파 연구소](https://ko.wikipedia.org/wiki/IBM_하이파_연구소).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:IBM_Haifa_Labs.JPG "wikilink") **IBM 하이파 연구소**() [이스라엘](../Page/이스라엘.md "wikilink") [하이파](../Page/하이파.md "wikilink")에 소재한 [IBM](../Page/IBM.md "wikilink")의 연구소이다. 하이파 리서치 랩(Haifa Research Lab, HRL), 하이파 디벨롭먼트 랩(Haifa Development Lab, HDL) 및 하이파 소프트웨어 랩(Haifa Software Lab, HSL)을 두고 있다.

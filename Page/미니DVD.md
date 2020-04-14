@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [DVD](https://ko.wikipedia.org/wiki/DVD).
+> This article is converted from Wikipedia: [미니DVD](https://ko.wikipedia.org/wiki/미니DVD).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Mini_dvd_rw.jpg "wikilink") **미니DVD**(MiniDVD)는 다음과 같은 종류를 갖는다.

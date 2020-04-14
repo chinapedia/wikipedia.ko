@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [COM ](https://ko.wikipedia.org/wiki/COM_).
+> This article is converted from Wikipedia: [COM 파일](https://ko.wikipedia.org/wiki/COM_파일).
 
 
 [파일 확장자](../Page/파일_확장자.md "wikilink") **.com**은 다양한 컴퓨터 시스템에서 다른 목적으로 사용되어 왔다. 초기에, 이 용어는 "명령 파일"을 대표하는 말이었으며 운영 체제에 내보낼 명령어를 포함하는 텍스트 파일이었다. 1970년대로 거슬러 올라가서, [디지털 이큅먼트 코퍼레이션](../Page/디지털_이큅먼트_코퍼레이션.md "wikilink") [미니컴퓨터](../Page/미니컴퓨터.md "wikilink") 및 [메인프레임](../Page/메인프레임.md "wikilink") 컴퓨터 시스템에 실용적으로 쓰이게 되었다.

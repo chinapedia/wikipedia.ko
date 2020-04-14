@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TV-U ](https://ko.wikipedia.org/wiki/TV-U_).
+> This article is converted from Wikipedia: [TV-U 후쿠시마](https://ko.wikipedia.org/wiki/TV-U_후쿠시마).
 
 
 [오른쪽](https://ko.wikipedia.org/wiki/파일:Tuf_logo.svg "wikilink") **TV-U 후쿠시마**는 [1983년](../Page/1983년.md "wikilink") [12월 4일](../Page/12월_4일.md "wikilink") [후쿠시마현](../Page/후쿠시마현.md "wikilink")의 4번째 민영방송국으로 개국했다.

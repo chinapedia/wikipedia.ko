@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [AP \(\)](https://ko.wikipedia.org/wiki/AP_\(\)).
+> This article is converted from Wikipedia: [AP \(통신사\)](https://ko.wikipedia.org/wiki/AP_\(통신사\)).
 
 
 **미국연합통신**(美國聯合通信, )은 [미국](../Page/미국.md "wikilink") 뉴욕에 위치한 다국적 [비영리](../Page/비영리_단체.md "wikilink") [통신사](../Page/통신사.md "wikilink")로, 미국에서 가장 오래된 유서깊은 최대의 통신사다. [1846년](../Page/1846년.md "wikilink") [5월](../Page/5월.md "wikilink")에 신문사와 방송국의 협동조합의 형태로 설립되었다.

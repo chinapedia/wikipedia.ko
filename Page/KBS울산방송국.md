@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KBS](https://ko.wikipedia.org/wiki/KBS).
+> This article is converted from Wikipedia: [KBS울산방송국](https://ko.wikipedia.org/wiki/KBS울산방송국).
 
 
 **KBS울산방송국**(KBS蔚山放送局)은 [울산광역시](https://ko.wikipedia.org/wiki/울산광역시 "wikilink") 지역을 대상으로 하는 [KBS부산방송총국](../Page/KBS부산방송총국.md "wikilink") 소속 산하의 지역방송국이다.
@@ -197,9 +197,8 @@
   - [주아랑](https://ko.wikipedia.org/wiki/주아랑 "wikilink")
   - [최지영](../Page/최지영.md "wikilink") 보도국장
   - [김홍희](https://ko.wikipedia.org/wiki/김홍희 "wikilink")
-  - [남미경](https://ko.wikipedia.org/wiki/남미경 "wikilink")(취재보도지원)
+  - [이정](../Page/이정.md "wikilink")
   - [김아르내](https://ko.wikipedia.org/wiki/김아르내 "wikilink")
-  - [지종익](https://ko.wikipedia.org/wiki/지종익 "wikilink") 보도국장
 
 ## 기상캐스터
 

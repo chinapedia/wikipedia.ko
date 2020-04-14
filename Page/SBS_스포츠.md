@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SBS ](https://ko.wikipedia.org/wiki/SBS_).
+> This article is converted from Wikipedia: [SBS 스포츠](https://ko.wikipedia.org/wiki/SBS_스포츠).
 
 
 **SBS 스포츠**(SBS Sports)는 스포츠 채널로 올림픽, 월드컵 등 빅이벤트 및 프로야구, 프로배구 등 대한민국의 프로스포츠를 주로 중계하는 방송국이다. 권투(메이웨더 vs 파퀴아오), ISU 빙상패키지 등도 중계한다.

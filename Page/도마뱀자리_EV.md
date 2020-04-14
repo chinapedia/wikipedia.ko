@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ EV](https://ko.wikipedia.org/wiki/_EV).
+> This article is converted from Wikipedia: [도마뱀자리 EV](https://ko.wikipedia.org/wiki/도마뱀자리_EV).
 
 
 **도마뱀자리 EV**(EV Lacertae)는 [도마뱀자리](../Page/도마뱀자리.md "wikilink")에 있는 [적색 왜성으로](https://ko.wikipedia.org/wiki/적색_왜성 "wikilink"), [지구](../Page/지구.md "wikilink")에서 16.5광년 떨어져 있다. 이 별은 도마뱀자리에 있는 별들 중 지구에서 가장 가까운 별이다. 그러나 이 별의 [겉보기 등급은](https://ko.wikipedia.org/wiki/겉보기_등급 "wikilink") +10으로 [쌍안경](../Page/쌍안경.md "wikilink")으로도 겨우 보일 수준이다.

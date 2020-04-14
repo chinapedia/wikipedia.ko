@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Girls On Top \(\)](https://ko.wikipedia.org/wiki/Girls_On_Top_\(\)).
+> This article is converted from Wikipedia: [Girls On Top \(음반\)](https://ko.wikipedia.org/wiki/Girls_On_Top_\(음반\)).
 
 
 《***Girls On Top***》은 [보아](../Page/보아.md "wikilink")가 [한국](../Page/한국.md "wikilink")에서 발매한 5번째 정규 앨범이다. 한국에서 4집《*My Name*》 이후 1년 만에 발매된 이 앨범에는 타이틀 곡인 "Girls On Top"과 후속곡 "MOTO", 보아가 직접 출연한 [서울우유](https://ko.wikipedia.org/wiki/서울우유_협동조합 "wikilink") CF에 쓰인 발라드 "오늘 그댈 본다면 (If You Were Here)" 등 총 13곡이 수록되어 있다.

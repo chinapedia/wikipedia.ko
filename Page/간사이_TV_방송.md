@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ TV ](https://ko.wikipedia.org/wiki/_TV_).
+> This article is converted from Wikipedia: [간사이 TV 방송](https://ko.wikipedia.org/wiki/간사이_TV_방송).
 
 
 **간사이 TV 방송**(関西テレビ放送, Kansai Telecasting Corporation)는 [간사이](../Page/긴키_지방.md "wikilink") 광역권 3번째 민영방송사로 간사이 광역권에서 방송을 하고 있다.

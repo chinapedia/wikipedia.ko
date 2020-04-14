@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ KB ](https://ko.wikipedia.org/wiki/_KB_).
+> This article is converted from Wikipedia: [의정부 KB손해보험 스타즈](https://ko.wikipedia.org/wiki/의정부_KB손해보험_스타즈).
 
 
 **의정부 KB손해보험 스타즈 배구단**(Uijeongbu KB Insurance Stars Volleyball Club)은 [한국배구연맹](../Page/한국배구연맹.md "wikilink")에 속한 [대한민국](../Page/대한민국.md "wikilink")의 프로배구단으로 [1976년](../Page/1976년.md "wikilink")에 창단한 **금성통신 배구단**이 모체다. 연고지는 [경기도](https://ko.wikipedia.org/wiki/경기도 "wikilink") [의정부시](../Page/의정부시.md "wikilink")이며 [경기도](https://ko.wikipedia.org/wiki/경기도 "wikilink") [의정부시](../Page/의정부시.md "wikilink") [녹양동](../Page/녹양동.md "wikilink")에 위치하는 [의정부체육관](https://ko.wikipedia.org/wiki/의정부체육관 "wikilink")을 홈 구장으로 2017-2018시즌 부터 사용하고 있다.

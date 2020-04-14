@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Best \(  \)](https://ko.wikipedia.org/wiki/Best_\(__\)).
+> This article is converted from Wikipedia: [Best \(가넷 크로우의 음반\)](https://ko.wikipedia.org/wiki/Best_\(가넷_크로우의_음반\)).
 
 
 **Best**는 [GARNET CROW의](../Page/GARNET_CROW.md "wikilink") 베스트 앨범이다. [2005년](../Page/2005년.md "wikilink") [10월 26일](../Page/10월_26일.md "wikilink") [GIZA studio에서](../Page/GIZA_studio.md "wikilink") 발매되었다.

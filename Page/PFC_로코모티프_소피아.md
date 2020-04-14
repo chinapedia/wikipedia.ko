@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [PFC  ](https://ko.wikipedia.org/wiki/PFC__).
+> This article is converted from Wikipedia: [PFC 로코모티프 소피아](https://ko.wikipedia.org/wiki/PFC_로코모티프_소피아).
 
 
 **PFC 로코모티프 소피아**는 [불가리아](../Page/불가리아.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽으로 [1929년](../Page/1929년.md "wikilink") 수도인 [소피아](../Page/소피아.md "wikilink")를 연고로 **ZHSK**라는 이름으로 창단되었다.

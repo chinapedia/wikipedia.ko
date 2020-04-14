@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:KOVO](https://ko.wikipedia.org/wiki/:KOVO).
+> This article is converted from Wikipedia: [틀:KOVO](https://ko.wikipedia.org/wiki/틀:KOVO).
 
 
 <onlyinclude></onlyinclude>

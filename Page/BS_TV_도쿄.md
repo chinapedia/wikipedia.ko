@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [BS TV ](https://ko.wikipedia.org/wiki/BS_TV_).
+> This article is converted from Wikipedia: [BS TV 도쿄](https://ko.wikipedia.org/wiki/BS_TV_도쿄).
 
 
 **BS TV 도쿄**(BSテレビ東京)는 [TV 도쿄](../Page/TV_도쿄.md "wikilink")·[TXN계열](https://ko.wikipedia.org/wiki/TV_도쿄_네트워크 "wikilink") BS위탁방송 사업자이다. 원래 방송사명은 **BS JAPAN**.

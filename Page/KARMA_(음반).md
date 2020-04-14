@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KARMA \(\)](https://ko.wikipedia.org/wiki/KARMA_\(\)).
+> This article is converted from Wikipedia: [KARMA \(음반\)](https://ko.wikipedia.org/wiki/KARMA_\(음반\)).
 
 
 《**Karma**》는 [대한민국](../Page/대한민국.md "wikilink")의 싱어송라이터 [이승환의](../Page/이승환_\(가수\).md "wikilink") 8번째 정규 [앨범이다](../Page/음반.md "wikilink").

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Adrenaline \(\)](https://ko.wikipedia.org/wiki/Adrenaline_\(\)).
+> This article is converted from Wikipedia: [Adrenaline \(음반\)](https://ko.wikipedia.org/wiki/Adrenaline_\(음반\)).
 
 
 **아드레날린**(Adrenaline)은 1995년 메이브릭 레코드(Maverick Records)를 통해 발매된 [데프톤즈](https://ko.wikipedia.org/wiki/데프톤즈 "wikilink")(Deftones)의 메이저 레이블 데뷔 음반이다. CD에는 "Fist"란 숨겨진 곡이 있는 데, 로스 로빈슨(Ross Robinson)이 제작을 맡았다. "Bored"와 "7 Words"는 싱글로 발매됐었다. 이 음반의 표지 사진은 "낙태 기구[(Baby aspirator)](https://en.wikipedia.org/wiki/Aspirator#Medical_aspirators)"를 그린 것이다.

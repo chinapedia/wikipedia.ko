@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [e](https://ko.wikipedia.org/wiki/e).
+> This article is converted from Wikipedia: [한국e스포츠협회](https://ko.wikipedia.org/wiki/한국e스포츠협회).
 
 
 **한국 e스포츠 협회**(韓國eSports協會, Korea e-Sports Association)는 [대한민국](../Page/대한민국.md "wikilink")의 [e스포츠](https://ko.wikipedia.org/wiki/e스포츠 "wikilink")를 관리하고 육성하기 위해 [1999년](../Page/1999년.md "wikilink") [7월 1일](../Page/7월_1일.md "wikilink") 발족된 비공식 [사단법인](../Page/사단법인.md "wikilink")이다. 처음에는 한국프로게임협회(***K**orea **P**ro **G**ame **A**ssociation*,''' *KPGA* ''')라는 이름으로 발족되었으며, '21세기프로게임협회'라는 이름도 가지고 있다가 [2003년](../Page/2003년.md "wikilink") 지금의 이름으로 통일되었다.

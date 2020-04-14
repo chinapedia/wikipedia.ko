@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ D2H](https://ko.wikipedia.org/wiki/_D2H).
+> This article is converted from Wikipedia: [니콘 D2H](https://ko.wikipedia.org/wiki/니콘_D2H).
 
 
 [right](https://ko.wikipedia.org/wiki/파일:Nikon_D2H_Front_quarter.jpg "wikilink") **니콘 D2H**()는 [니콘](../Page/니콘.md "wikilink")의 전문가용 [디지털 SLR이다](https://ko.wikipedia.org/wiki/디지털_SLR "wikilink"). [2003년](../Page/2003년.md "wikilink") [7월 22일에](../Page/7월_22일.md "wikilink") 발표하였으며, 니콘에서 개발한 410만 [유효 화소](https://ko.wikipedia.org/wiki/유효_화소 "wikilink") [JFET](https://ko.wikipedia.org/wiki/JFET "wikilink")-[LBCAST](https://ko.wikipedia.org/wiki/LBCAST "wikilink") 이미지 센서를 사용한다. 약 410만 화소로 초당 8 프레임을 촬영할 수 있다.

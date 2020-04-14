@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TV](https://ko.wikipedia.org/wiki/TV).
+> This article is converted from Wikipedia: [판도라TV](https://ko.wikipedia.org/wiki/판도라TV).
 
 
 **판도라TV**는 2004년 10월에 서비스를 시작한 [대한민국](../Page/대한민국.md "wikilink") UCC(User Created Contents)를 다루는 미디어 회사이다. 유튜브 보다 먼저 동영상 공유 사이트를 시작한 세계 최초의 무료 동영상 포털을 시작한 회사이기도 하다.

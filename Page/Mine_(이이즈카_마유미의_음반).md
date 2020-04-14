@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Mine \(  \)](https://ko.wikipedia.org/wiki/Mine_\(__\)).
+> This article is converted from Wikipedia: [Mine \(이이즈카 마유미의 음반\)](https://ko.wikipedia.org/wiki/Mine_\(이이즈카_마유미의_음반\)).
 
 
 『**mine**』은 [이이즈카 마유미의](../Page/이이즈카_마유미.md "wikilink") 9번째 [음반](../Page/음반.md "wikilink").

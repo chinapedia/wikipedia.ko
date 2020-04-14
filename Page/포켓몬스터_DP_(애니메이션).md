@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ DP \(\)](https://ko.wikipedia.org/wiki/_DP_\(\)).
+> This article is converted from Wikipedia: [포켓몬스터 DP \(애니메이션\)](https://ko.wikipedia.org/wiki/포켓몬스터_DP_\(애니메이션\)).
 
 
 《**포켓몬스터 다이아몬드&펄**》(, , 약칭 포켓몬스터 DP)는 [일본](../Page/일본.md "wikilink")에서 [2006년](../Page/2006년.md "wikilink") 9월 부터 방영되어 2010년 9월 9일 종영된 [포켓몬스터](../Page/포켓몬스터.md "wikilink")의 세 번째 작품이다. 대한민국에서는 2007년 9월 [SBS](../Page/SBS.md "wikilink")를 통해 1\~53화까지 방영되었고 이후 분량은 54\~105화가 시즌 2, 106\~132화가 시즌 3로 편성되고, 133\~162화가 시즌 4, 163\~191화가 시즌 5로 편성되었다. [재능TV](../Page/재능TV.md "wikilink")/[투니버스](../Page/투니버스.md "wikilink")/[카툰네트워크를](https://ko.wikipedia.org/wiki/카툰네트워크_코리아 "wikilink") 통해서 수시 편성되고 있다.

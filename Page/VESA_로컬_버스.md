@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [VESA  ](https://ko.wikipedia.org/wiki/VESA__).
+> This article is converted from Wikipedia: [VESA 로컬 버스](https://ko.wikipedia.org/wiki/VESA_로컬_버스).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Vlb_svga.jpg "wikilink") VLB 카드\]\] [섬네일](https://ko.wikipedia.org/wiki/파일:Vlb.jpg "wikilink") 위의 VLB 및 [ISA](../Page/ISA_버스.md "wikilink") 슬롯\]\] **VESA 로컬 버스**(**VLB**, **VL버스**)는 1992년 8월 [비디오 일렉트로닉스 표준 협회](../Page/비디오_전자공학_표준위원회.md "wikilink")(VESA)에서 책정한 로컬 버스 규격이다.

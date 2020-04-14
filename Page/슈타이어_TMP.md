@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ TMP](https://ko.wikipedia.org/wiki/_TMP).
+> This article is converted from Wikipedia: [슈타이어 TMP](https://ko.wikipedia.org/wiki/슈타이어_TMP).
 
 
 **슈타이어 TMP**(, **T**actical **M**achine **P**istol; 전술 기관권총)는 [9 mm 루거 패러벨럼](https://ko.wikipedia.org/wiki/9_mm_루거_패러벨럼 "wikilink") 탄을 사용하는 [기관권총](https://ko.wikipedia.org/wiki/기관권총 "wikilink")이다. 슈타이어(Steyr Mannlicher) 사에서 생산하였다. 총열 회전식 [쇼트 리코일](https://ko.wikipedia.org/wiki/쇼트_리코일 "wikilink") 방식으로 동작한다. 슈타이어 SPP는 반자동 사격만 가능한 민간용 변형으로, 전면 손잡이가 없다.

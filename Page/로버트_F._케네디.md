@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ F. ](https://ko.wikipedia.org/wiki/_F._).
+> This article is converted from Wikipedia: [로버트 F. 케네디](https://ko.wikipedia.org/wiki/로버트_F._케네디).
 
 
 **로버트 프랜시스 "바비" 케네디**(, [1925년](../Page/1925년.md "wikilink") [11월 20일](../Page/11월_20일.md "wikilink")\~[1968년](../Page/1968년.md "wikilink") [6월 6일](../Page/6월_6일.md "wikilink"), 약칭 **RFK**)는 [미국](../Page/미국.md "wikilink")의 [정치인](../Page/정치인.md "wikilink")이자 [법조인](https://ko.wikipedia.org/wiki/법조인 "wikilink")으로, 35대 대통령을 지낸 [존 F. 케네디의](../Page/존_F._케네디.md "wikilink") 동생이다. [상원에서](https://ko.wikipedia.org/wiki/미국_상원 "wikilink") 법률고문으로 활동하다가 형이 대통령에 취임하자 법무장관에 기용되었다. 장관으로 있는 동안 흑인 인권 개선이나 조직범죄 진압에 적극적으로 개입하였다. 형이 암살된 후에도 장관직을 유지하다가 상원의원 선거에 출마해 현역 [공화당](https://ko.wikipedia.org/wiki/공화당_\(미국\) "wikilink") 의원을 꺾고 승리하였다. 이후 [베트남 전쟁](../Page/베트남_전쟁.md "wikilink") 반대 운동에 가담해 진보층의 지지를 얻자 [1968년 대선](https://ko.wikipedia.org/wiki/1968년_미국_대통령_선거 "wikilink") 출마를 선언하였다. 차기 유력 주자로 평가받았지만, 경선 도중 [요르단](../Page/요르단.md "wikilink")계 청년에게 암살당했다.

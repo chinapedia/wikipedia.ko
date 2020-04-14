@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ III](https://ko.wikipedia.org/wiki/_III).
+> This article is converted from Wikipedia: [삼국지 III](https://ko.wikipedia.org/wiki/삼국지_III).
 
 
 《**삼국지 III**》(Romance of the Three Kingdoms III: Dragon of Destiny)은 [코에이](../Page/코에이.md "wikilink")에서 출시한 [삼국지 시리즈의](https://ko.wikipedia.org/wiki/삼국지_시리즈 "wikilink") 세 번째 게임이다. 한국에서는 비스코가 배급을 맡았다. [MS-DOS](../Page/MS-DOS.md "wikilink")/[PC98](https://ko.wikipedia.org/wiki/PC98 "wikilink") 및 [SFC](../Page/슈퍼_패미컴.md "wikilink")/\[\[GBA\]_등_다양한_플랫폼으로_출시되었다._삼국지_시리즈_가운데_최고_성공작으로_꼽히는_작품들_중_하나이며<ref>{{뉴스_인용|제목=삼국지 인터넷’ 내년 1월 출시\]\] 기반 모바일 버전\[1\]이 출시된 바 있다. 또한 코에이가 [윈도 95용으로](https://ko.wikipedia.org/wiki/윈도_95 "wikilink") 만들어진 리메이크 버전을 [2001년](../Page/2001년.md "wikilink")에 출시하기도 했다. 리메이크 버전은 한국어로는 출시되지 않았지만 팬들에 의해 한글 패치가 제작되었다. 또한 [2007년](../Page/2007년.md "wikilink") [닌텐도 DS로](../Page/닌텐도_DS.md "wikilink") 출시된 [삼국지 DS](https://ko.wikipedia.org/wiki/삼국지_DS "wikilink") 또한 삼국지 III을 기반으로 제작되었다.\[2\]

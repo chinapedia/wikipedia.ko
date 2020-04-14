@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [CMG  ](https://ko.wikipedia.org/wiki/CMG__).
+> This article is converted from Wikipedia: [CMG 본사 빌딩](https://ko.wikipedia.org/wiki/CMG_본사_빌딩).
 
 
 **CMG 본사 빌딩**(, , 메인 빌딩)은 [CMG의](https://ko.wikipedia.org/wiki/중국중앙방송하다텔레비전방송국 "wikilink") 신사옥으로 건설된 [마천루](../Page/마천루.md "wikilink")이다. 기공식은 [2004년](../Page/2004년.md "wikilink") [9월 22일에](../Page/9월_22일.md "wikilink") 있었으며, [2008년 하계 올림픽에](https://ko.wikipedia.org/wiki/2008년_하계_올림픽 "wikilink") 맞추어 완공됐다. 건축거장 [렘 콜하스](../Page/렘_콜하스.md "wikilink") 및 건축가 [올레 스히렌이](https://ko.wikipedia.org/wiki/올레_스히렌 "wikilink") 이 건물을 설계했다. 234m 높이로 지어졌다.

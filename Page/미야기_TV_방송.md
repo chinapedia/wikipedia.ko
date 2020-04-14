@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ TV ](https://ko.wikipedia.org/wiki/_TV_).
+> This article is converted from Wikipedia: [미야기 TV 방송](https://ko.wikipedia.org/wiki/미야기_TV_방송).
 
 
 **미야기TV방송**(宮城テレビ放送)(ミヤギテレビ)은 [1970년](../Page/1970년.md "wikilink") [10월 1일](../Page/10월_1일.md "wikilink") [미야기현](../Page/미야기현.md "wikilink")의 3번째 민영방송국으로 개국했다. 약칭은 MMT, 콜사인은 JOMM-DTV이다.

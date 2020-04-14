@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:FIFA  ](https://ko.wikipedia.org/wiki/:FIFA__).
+> This article is converted from Wikipedia: [틀:FIFA 여자 월드컵](https://ko.wikipedia.org/wiki/틀:FIFA_여자_월드컵).
 
 
 <onlyinclude></onlyinclude>

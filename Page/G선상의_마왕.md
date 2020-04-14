@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [G ](https://ko.wikipedia.org/wiki/G_).
+> This article is converted from Wikipedia: [G선상의 마왕](https://ko.wikipedia.org/wiki/G선상의_마왕).
 
 
 《**G선상의 마왕**》()은 2008년 5월 29일 [아카베소프트2](https://ko.wikipedia.org/wiki/아카베소프트2 "wikilink")(AKABEiSOFT2)에서 제작한 성인용 어드벤처 게임이다.

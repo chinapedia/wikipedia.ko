@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [GNK  ](https://ko.wikipedia.org/wiki/GNK__).
+> This article is converted from Wikipedia: [GNK 디나모 자그레브](https://ko.wikipedia.org/wiki/GNK_디나모_자그레브).
 
 
 **GNK 디나모 자그레브**(Građanski nogometni klub Dinamo Zagreb)는 [자그레브](../Page/자그레브.md "wikilink")를 연고로 하는 [크로아티아](../Page/크로아티아.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다. 현재는 [프르바 HNL에](../Page/프르바_HNL.md "wikilink") 참가하고 있다.

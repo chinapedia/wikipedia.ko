@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TV-U ](https://ko.wikipedia.org/wiki/TV-U_).
+> This article is converted from Wikipedia: [TV-U 야마가타](https://ko.wikipedia.org/wiki/TV-U_야마가타).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:TV-U_Yamagata,_Yamagata-Station.jpg "wikilink") **TV-U 야마가타**는 [1989년](../Page/1989년.md "wikilink") [10월 1일](../Page/10월_1일.md "wikilink") [야마가타현](../Page/야마가타현.md "wikilink")의 3번째 민영방송국으로 개국했다.

@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [HSBC   ](https://ko.wikipedia.org/wiki/HSBC___).
+> This article is converted from Wikipedia: [HSBC 홍콩 본점 빌딩](https://ko.wikipedia.org/wiki/HSBC_홍콩_본점_빌딩).
 
 
-**HSBC 홍콩 본점 빌딩** ()은 [홍콩](../Page/홍콩.md "wikilink") [중완](../Page/중완.md "wikilink")에 소재한 [HSBC](../Page/HSBC.md "wikilink")의 홍콩 본점 건물이다. [스태추 스퀘어](https://ko.wikipedia.org/wiki/스태추_스퀘어 "wikilink")(Statue Square)의 남쪽면, 구 시청 청사 건물(1869-1933)이 있던 자리에 있다. 예전의 HSBC 빌딩(1935년 완공)은 현재의 건물에게 자리를 내주기 위해 허물어진 바 있다. [센트럴 MTR 역의](https://ko.wikipedia.org/wiki/센트럴_MTR_역 "wikilink") K출구로 나와서 걸어서 5분 거리에 있다.
+**HSBC 홍콩 본점 빌딩**()은 [홍콩](../Page/홍콩.md "wikilink") [중완](../Page/중완.md "wikilink")에 소재한 [HSBC](../Page/HSBC.md "wikilink")의 홍콩 본점 건물이다. [스태추 스퀘어](https://ko.wikipedia.org/wiki/스태추_스퀘어 "wikilink")(Statue Square)의 남쪽면, 구 시청 청사 건물(1869-1933)이 있던 자리에 있다. 예전의 HSBC 빌딩(1935년 완공)은 현재의 건물에게 자리를 내주기 위해 허물어진 바 있다. [센트럴 MTR 역의](https://ko.wikipedia.org/wiki/센트럴_MTR_역 "wikilink") K출구로 나와서 걸어서 5분 거리에 있다.
 
 <div style="font-size: 85%">
 

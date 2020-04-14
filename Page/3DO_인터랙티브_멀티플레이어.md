@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [3DO  ](https://ko.wikipedia.org/wiki/3DO__).
+> This article is converted from Wikipedia: [3DO 인터랙티브 멀티플레이어](https://ko.wikipedia.org/wiki/3DO_인터랙티브_멀티플레이어).
 
 
 **3DO 인터렉티브 멀티플레이어**()는 [일렉트로닉 아츠에서](../Page/일렉트로닉_아츠.md "wikilink") 출자하여 1991년 [3DO라는](https://ko.wikipedia.org/wiki/3DO_\(기업\) "wikilink") 기업을 만들어서 1993년에 발매했던 32비트 게임기 규격이다.

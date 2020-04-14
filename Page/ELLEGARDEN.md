@@ -190,7 +190,7 @@
 
 ## 외부 링크
 
-  - [엘르가든 공식 웹사이트](http://www.ellegarden.jp/)
+  - [엘르가든 공식 웹사이트](https://web.archive.org/web/20080423004322/http://www.ellegarden.jp/)
 
   -
   - [니마 엔터테인먼트](https://web.archive.org/web/20110128175915/http://e-neema.com/default/)

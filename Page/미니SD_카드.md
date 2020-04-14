@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SD ](https://ko.wikipedia.org/wiki/SD_).
+> This article is converted from Wikipedia: [미니SD 카드](https://ko.wikipedia.org/wiki/미니SD_카드).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:MiniSD_memory_card_including_adapter.jpg "wikilink") **미니SD 카드**는 [휴대 전화](../Page/휴대_전화.md "wikilink"), [디지털 카메라](../Page/디지털_카메라.md "wikilink"), [MP3 플레이어와](https://ko.wikipedia.org/wiki/MP3_플레이어 "wikilink") 다른 대상의 제품에 사용되도록 고안된 이동식, 휴대용 메모리 장치이다.

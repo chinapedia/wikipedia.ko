@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Jealousy \(X JAPAN \)](https://ko.wikipedia.org/wiki/Jealousy_\(X_JAPAN_\)).
+> This article is converted from Wikipedia: [Jealousy \(X JAPAN의 음반\)](https://ko.wikipedia.org/wiki/Jealousy_\(X_JAPAN의_음반\)).
 
 
 ***Jealousy***는 X([엑스 재팬](https://ko.wikipedia.org/wiki/엑스_재팬 "wikilink"))의 두 번째 메이저 앨범이다.

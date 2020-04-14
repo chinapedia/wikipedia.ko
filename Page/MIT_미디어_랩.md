@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [MIT  ](https://ko.wikipedia.org/wiki/MIT__).
+> This article is converted from Wikipedia: [MIT 미디어 랩](https://ko.wikipedia.org/wiki/MIT_미디어_랩).
 
 
 **MIT 미디어 랩**(MIT Media Lab)은 [매사추세츠 공과대학교의](../Page/매사추세츠_공과대학교.md "wikilink") 연구소이다. 주요 연구 분야는 디지털 테크놀러지를 이용한 표현과 커뮤니케이션의 교육과 미래를 연구하고 있다. [1985년](../Page/1985년.md "wikilink")에 [니콜라스 네그로폰테](../Page/니콜라스_네그로폰테.md "wikilink") 교수와 전 MIT 학장인 고 제롬 위즈너교수에 의해 설립되었다. 최근에 [니콜라스 네그로폰테교수가](../Page/니콜라스_네그로폰테.md "wikilink") 소장을 사임하고 제3세계 어린이들을 위한 [100달러 노트북에](https://ko.wikipedia.org/wiki/100달러_노트북 "wikilink") 전념하게 되어 미디어랩 소장에서 물러난다. 그 뒤 [월터 밴더](https://ko.wikipedia.org/wiki/월터_밴더 "wikilink") (2001-2006년) 와 [프랭크 모스](https://ko.wikipedia.org/wiki/프랭크_모스 "wikilink") (2006-2011년)가 뒤를 이어 소장으로 임명되었으며, 현재는 [조이 이토가](https://ko.wikipedia.org/wiki/조이_이토 "wikilink") 2011년 4월에 소장으로 임명되어 향후 5년동안 미디어랩 소장직을 맡게 된다.
@@ -30,7 +30,7 @@ MIT 미디어 랩에는 각기 주제를 가진 연구 그룹이 많이 있다.
   - 엠비언트 지능: 담당교수 패티 매스(Pattie Maes)
   - 응답적 환경: 담당교수 조셉 파라디소(Joseph Paradiso)
   - 인간 역학: 담당교수 알렉스 펜트랜드 (Alex (Sandy) Pentland)
-  - 감정의 컴퓨터: 담당교수 로사린드 피카드 (Rosalind Picard) - 멋쟁이 교수
+  - 감정의 컴퓨터: 담당교수 로사린드 피카드 (Rosalind Picard)
   - 평생의 유치원: 담당교수 미첼 레스닉 (Mitchel Resnick)
   - 인지 기계: 담당교수 뎁 로이 (Deb Roy)
   - 음성 인터페이스: 담당교수 크리스 슈만트(Chris Schmandt)

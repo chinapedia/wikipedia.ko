@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ KGC ](https://ko.wikipedia.org/wiki/_KGC_).
+> This article is converted from Wikipedia: [대전 KGC인삼공사 배구단](https://ko.wikipedia.org/wiki/대전_KGC인삼공사_배구단).
 
 
 **대전 KGC인삼공사 프로배구단**(Daejeon KGC Pro Volleyball Club)은 [한국배구연맹](../Page/한국배구연맹.md "wikilink")에 속한 [대한민국](../Page/대한민국.md "wikilink")의 여자 프로 배구단으로, [1988년](../Page/1988년.md "wikilink")에 창단한 **한국전매공사 배구단**(현 [KT\&G](../Page/KT&G.md "wikilink"))이 모체다. 연고지는 [대전광역시](https://ko.wikipedia.org/wiki/대전광역시 "wikilink")이며, [충무체육관을](https://ko.wikipedia.org/wiki/한밭종합운동장_충무체육관 "wikilink") 홈구장으로 사용하고 있다. [2010년](../Page/2010년.md "wikilink") [9월 29일](../Page/9월_29일.md "wikilink") 이사회 의결을 통해 스포츠단 관할 모기업이 [KT\&G](../Page/KT&G.md "wikilink")에서 계열사인 [한국인삼공사](../Page/한국인삼공사.md "wikilink")로 변경되었다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  FC](https://ko.wikipedia.org/wiki/__FC).
+> This article is converted from Wikipedia: [웨스트햄 유나이티드 FC](https://ko.wikipedia.org/wiki/웨스트햄_유나이티드_FC).
 
 
 **웨스트햄 유나이티드 축구 클럽**(West Ham United Football Club)은 [동런던에](../Page/런던.md "wikilink") 위치한 [런던 스타디움을](../Page/올림픽_스타디움_\(런던\).md "wikilink") 근거로 하는 [잉글랜드](../Page/잉글랜드.md "wikilink")의 축구 구단이다.

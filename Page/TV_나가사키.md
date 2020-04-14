@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TV ](https://ko.wikipedia.org/wiki/TV_).
+> This article is converted from Wikipedia: [TV 나가사키](https://ko.wikipedia.org/wiki/TV_나가사키).
 
 
 [200px](https://ko.wikipedia.org/wiki/파일:Ktn_logo.svg "wikilink") **TV 나가사키**는 [1969년](../Page/1969년.md "wikilink") [4월 1일](../Page/4월_1일.md "wikilink") [나가사키현](../Page/나가사키현.md "wikilink")의 2번째 민영방송국으로 개국했다.

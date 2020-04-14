@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:K-pop](https://ko.wikipedia.org/wiki/:K-pop).
+> This article is converted from Wikipedia: [포털:K-pop](https://ko.wikipedia.org/wiki/포털:K-pop).
 
 
 __NOTOC__ __NOEDITSECTION__

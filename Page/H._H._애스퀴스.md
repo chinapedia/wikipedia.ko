@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [H. H. ](https://ko.wikipedia.org/wiki/H._H._).
+> This article is converted from Wikipedia: [H. H. 애스퀴스](https://ko.wikipedia.org/wiki/H._H._애스퀴스).
 
 
 **제1대 옥스퍼드와 애스퀴스 백작 허버트 헨리 애스퀴스**(Herbert Henry Asquith, 1st Earl of Oxford and Asquith, [KG](https://ko.wikipedia.org/wiki/가터_훈장 "wikilink"), [1852년](../Page/1852년.md "wikilink") [9월 12일](../Page/9월_12일.md "wikilink") \~ [1928년](../Page/1928년.md "wikilink") [2월 15일](../Page/2월_15일.md "wikilink"))은 제33대 [영국의 총리를](../Page/영국의_총리.md "wikilink") 지낸 [정치인](../Page/정치인.md "wikilink")이다. 본명보다 **H. H. 애스퀴스**(H. H. Asquith)로 알려져있다.

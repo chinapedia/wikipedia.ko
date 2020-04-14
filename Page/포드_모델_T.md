@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  T](https://ko.wikipedia.org/wiki/__T).
+> This article is converted from Wikipedia: [포드 모델 T](https://ko.wikipedia.org/wiki/포드_모델_T).
 
 
 [right](https://ko.wikipedia.org/wiki/파일:Ford_Model_T_\(537880855\).jpg "wikilink") **포드 모델 T**(Ford Model T)는 [1908년](../Page/1908년.md "wikilink")부터 [1927년](../Page/1927년.md "wikilink")까지 [포드 자동차 회사에서](../Page/포드_모터_컴퍼니.md "wikilink") 제조/판매한 [자동차](../Page/자동차.md "wikilink")로, "미국의 자동차 시대를 열다"(put America on wheels)라는 말이 있을 정도로 자동차의 대중화를 이끈 역사적인 자동차 모델이다. 모델 T가 이런 평가를 받을 수 있었던 데에는 혁신적인 조립라인에 의한 원가절감뿐만이 아니라, 자동차 가격은 일반 노동자나 서민들이 구매할 수 있을 정도로 낮아야 한다는 [포드 자동차 회사의](../Page/포드_모터_컴퍼니.md "wikilink") 판매 정책때문이었다. 당시 [미국](../Page/미국.md "wikilink")의 고급 자동차는 2,000달러에서 3,000달러 정도에 판매되고 있었는데, 모델 T의 가격은 850달러에 불과했고 이어 [1920년대](https://ko.wikipedia.org/wiki/1920년대 "wikilink")에는 300달러까지 떨어졌다(인플레이션을 감안해 2005년 기준으로 약 3,300달러).

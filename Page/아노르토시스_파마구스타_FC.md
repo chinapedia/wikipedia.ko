@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  FC](https://ko.wikipedia.org/wiki/__FC).
+> This article is converted from Wikipedia: [아노르토시스 파마구스타 FC](https://ko.wikipedia.org/wiki/아노르토시스_파마구스타_FC).
 
 
 **아노르토시스 파마구스타 FC**()는 [키프로스](../Page/키프로스.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽으로 [1911년](../Page/1911년.md "wikilink")에 창단되었다. 연고지는 [파마구스타](../Page/파마구스타.md "wikilink")이지만, 현재는 [라르나카](../Page/라르나카.md "wikilink")에 임시 연고를 두고 있다. 아노르토시스는 축구팀 외에도 배구팀과 핸드볼팀을 보유하고 있다.

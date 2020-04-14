@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [S-](https://ko.wikipedia.org/wiki/S-).
+> This article is converted from Wikipedia: [S-표현식](https://ko.wikipedia.org/wiki/S-표현식).
 
 
 **S-표현식**, **S-expression** 또는 **sexp**라는 용어는 (S는 Symbolic을 의미) 구조적인 데이터를 사람이 읽을 수 있는 텍스트 형태로 나타내는 방법을 가리킨다. S-표현식은 대체로 [리스프](../Page/리스프.md "wikilink") 어족의 프로그래밍 언어에서 사용되는 것으로 잘 알려져 있다. 또한 리스프에서 파생된 언어인 [DSSSL](https://ko.wikipedia.org/wiki/Document_Style_Semantics_and_Specification_Language "wikilink"), [IMAP](https://ko.wikipedia.org/wiki/IMAP "wikilink")와 같은 통신 프로토콜에서의 마크업, 그리고 [존 매카시의](../Page/존_매카시_\(컴퓨터_과학자\).md "wikilink") [CBCL에서도](https://ko.wikipedia.org/wiki/Common_Business_Communication_Language "wikilink") S-표현식이 사용되고 있다. 상세한 문법과 제공되는 자료형은 언어들에 따라서 다르지만 가장 일반적인 특징은 괄호로 둘러싸인 prefix 표기법이다 ([폴란드 표기법이라고도](../Page/폴란드_표기법.md "wikilink") 부름).

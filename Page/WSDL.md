@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [WSDL](https://ko.wikipedia.org/wiki/WSDL).
 
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:WSDL.svg "wikilink") **WSDL**(Web Services Description Language의 약자)은 [웹 서비스](../Page/웹_서비스.md "wikilink") 기술언어 또는 기술된 정의 파일의 총칭으로 XML로 기술된다. 웹 서비스의 구체적 내용이 기술되어 있어 서비스 제공 장소, 서비스 메시지 포맷, 프로토콜 등이 기술된다.
+**WSDL**(Web Services Description Language의 약자)은 [웹 서비스](../Page/웹_서비스.md "wikilink") 기술언어 또는 기술된 정의 파일의 총칭으로 XML로 기술된다. 웹 서비스의 구체적 내용이 기술되어 있어 서비스 제공 장소, 서비스 메시지 포맷, 프로토콜 등이 기술된다.
 
 ## 개요
 

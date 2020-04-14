@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [NHK  ](https://ko.wikipedia.org/wiki/NHK__).
+> This article is converted from Wikipedia: [NHK 교토 방송국](https://ko.wikipedia.org/wiki/NHK_교토_방송국).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:NHK京都烏丸御池局舎.JPG "wikilink") **NHK 교토 방송국**(京都 放送局)은 [교토부](../Page/교토부.md "wikilink")를 방송구역으로 하는 NHK의 지역방송국이며 FM라디오·텔레비전 방송을 담당하고 있다.

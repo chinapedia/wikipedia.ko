@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [UEFA ](https://ko.wikipedia.org/wiki/UEFA_).
+> This article is converted from Wikipedia: [UEFA 슈퍼컵](https://ko.wikipedia.org/wiki/UEFA_슈퍼컵).
 
 
 **UEFA 슈퍼컵**(UEFA Super Cup)은 매년 [UEFA 챔피언스리그](../Page/UEFA_챔피언스리그.md "wikilink") 우승 팀과 [UEFA 유로파리그의](../Page/UEFA_유로파리그.md "wikilink") 우승 팀끼리 겨루는 대회이다.

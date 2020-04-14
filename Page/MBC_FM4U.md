@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [MBC FM4U](https://ko.wikipedia.org/wiki/MBC_FM4U).
 
 
-**MBC FM4U**는 [대한민국](../Page/대한민국.md "wikilink")의 방송국 [문화방송](../Page/문화방송.md "wikilink")의 [연예오락](https://ko.wikipedia.org/wiki/오락 "wikilink"), [대중음악](../Page/대중음악.md "wikilink") 전문 [라디오](../Page/라디오.md "wikilink") 채널이다. [1970년](../Page/1970년.md "wikilink") [4월 15일에](../Page/4월_15일.md "wikilink") [부산문화방송](../Page/부산문화방송.md "wikilink")에서, [1971년](../Page/1971년.md "wikilink") [9월 19일에](../Page/9월_19일.md "wikilink") [문화방송](../Page/문화방송.md "wikilink")에서 개국하였다. 여기에서 유래하여 **MBC FM4U**의 수도권 주파수는 91.9㎒이다.
+**MBC FM4U**는 [대한민국](../Page/대한민국.md "wikilink")의 방송국 [문화방송](../Page/문화방송.md "wikilink")의 [연예오락](https://ko.wikipedia.org/wiki/오락 "wikilink"), [대중음악](../Page/대중음악.md "wikilink") 전문 [라디오](../Page/라디오.md "wikilink") 편성책임 광고책임 채널이다. [1970년](../Page/1970년.md "wikilink") [4월 15일에](../Page/4월_15일.md "wikilink") [부산문화방송](../Page/부산문화방송.md "wikilink")에서, [1971년](../Page/1971년.md "wikilink") [9월 19일에](../Page/9월_19일.md "wikilink") [문화방송](../Page/문화방송.md "wikilink")에서 개국하였다. 여기에서 유래하여 **MBC FM4U**의 수도권 주파수는 *91.9㎒*이다.
 
 ## 개요
 
@@ -477,7 +477,8 @@
 
 ## 제공 시보
 
-  - [르노삼성자동차](../Page/르노삼성자동차.md "wikilink")
+  - 르노삼성자동차
+  - 에듀윌
   - 광고가 없는 시보
 
 ## 역대 시보 멘트
@@ -499,11 +500,11 @@
 
 첫째 날 [8월](../Page/2010년_8월.md "wikilink") [6일에는](../Page/8월_6일.md "wikilink") '하하夏'라는 이름의 컨셉으로 [노홍철](../Page/노홍철.md "wikilink")의 진행하에 [이승환](../Page/이승환_\(가수\).md "wikilink"), [싸이](../Page/싸이.md "wikilink"), [뜨거운 감자](../Page/뜨거운_감자.md "wikilink"), [부가킹즈](https://ko.wikipedia.org/wiki/부가킹즈 "wikilink"), [하하](https://ko.wikipedia.org/wiki/하하 "wikilink"), [다비치](../Page/다비치.md "wikilink")가 출연하였으며, 둘째 날 [8월 7일에는](../Page/8월_7일.md "wikilink") '호호好'라는 이름의 컨셉으로 [박명수](../Page/박명수.md "wikilink")의 진행하에 [윤종신](../Page/윤종신.md "wikilink"), [이소라](../Page/이소라_\(가수\).md "wikilink"), [정엽](../Page/정엽_\(가수\).md "wikilink"), [페퍼톤스](https://ko.wikipedia.org/wiki/페퍼톤스 "wikilink"), [2AM](https://ko.wikipedia.org/wiki/2AM "wikilink"), [정인](../Page/정인_\(가수\).md "wikilink"), [리쌍](../Page/리쌍.md "wikilink"), [아이유](https://ko.wikipedia.org/wiki/아이유 "wikilink")가 출연하였다.
 
-실황은 [8월 12일](../Page/8월_12일.md "wikilink") 오후 8시와 [8월 13일](../Page/8월_13일.md "wikilink") 오후 10시에 MBC FM4U를 통해 전국에 녹음중계되었다. [2011년](../Page/2011년.md "wikilink") MBC FM4U 여름 음악 페스티벌은 [2011년 8월](../Page/2011년_8월.md "wikilink") [18일부터](../Page/8월_18일.md "wikilink") 동년 [8월 20일까지](../Page/8월_20일.md "wikilink") 3일간 진행되었다. 각 공연일자마다 관람객을 따로 뽑았다.
+실황은 [8월 12일](../Page/8월_12일.md "wikilink") 오후 8시와 [8월 13일](../Page/8월_13일.md "wikilink") 오후 10시에 KBS 1TV랑 MBC FM4U를 통해 전국에 녹음중계되었다. [2011년](../Page/2011년.md "wikilink") MBC FM4U 여름 음악 페스티벌은 [2011년 8월](../Page/2011년_8월.md "wikilink") [18일부터](../Page/8월_18일.md "wikilink") 동년 [8월 20일까지](../Page/8월_20일.md "wikilink") 3일간 진행되었다. 각 공연일자마다 관람객을 따로 뽑았다.
 
-[8월 18일](../Page/8월_18일.md "wikilink") 첫째 날은 "끌림"이라는 주제로 가수 [성시경](https://ko.wikipedia.org/wiki/성시경 "wikilink")이 진행하였으며, [이승환](../Page/이승환_\(가수\).md "wikilink"), [장혜진](../Page/장혜진_\(가수\).md "wikilink"), [김현철](../Page/김현철_\(가수\).md "wikilink"), [스윗 소로우](../Page/스윗_소로우.md "wikilink"), [버블시스터즈](../Page/버블시스터즈.md "wikilink"), [심현보](../Page/심현보.md "wikilink"), [이한철](https://ko.wikipedia.org/wiki/이한철_\(1972년\) "wikilink"), [정지찬](../Page/정지찬.md "wikilink")이 출연하였다. 이날 공연은 [8월 25일](../Page/8월_25일.md "wikilink") 오후 10시 MBC FM4U 채널을 통해 전국에 방송되었다.
+[8월 18일](../Page/8월_18일.md "wikilink") 첫째 날은 "끌림"이라는 주제로 가수 [성시경](https://ko.wikipedia.org/wiki/성시경 "wikilink")이 진행하였으며, [이승환](../Page/이승환_\(가수\).md "wikilink"), [장혜진](../Page/장혜진_\(가수\).md "wikilink"), [김현철](../Page/김현철_\(가수\).md "wikilink"), [스윗 소로우](../Page/스윗_소로우.md "wikilink"), [버블시스터즈](../Page/버블시스터즈.md "wikilink"), [심현보](../Page/심현보.md "wikilink"), [이한철](https://ko.wikipedia.org/wiki/이한철_\(1972년\) "wikilink"), [정지찬](../Page/정지찬.md "wikilink")이 출연하였다. 이날 공연은 [8월 25일](../Page/8월_25일.md "wikilink") 오후 10시 KBS 1TV와 MBC FM4U 채널을 통해 전국에 방송되었다.
 
-[8월 19일](../Page/8월_19일.md "wikilink") 둘째 날은 "떨림"이라는 주제로 가수 [정엽이](../Page/정엽_\(가수\).md "wikilink") 진행하였으며, [휘성](https://ko.wikipedia.org/wiki/휘성 "wikilink"), [김태우](https://ko.wikipedia.org/wiki/김태우_\(가수\) "wikilink"), [마이티마우스](https://ko.wikipedia.org/wiki/마이티마우스 "wikilink"), [크라잉넛](../Page/크라잉넛.md "wikilink"), [알렉스](../Page/알렉스_\(가수\).md "wikilink"), [W & Whale](https://ko.wikipedia.org/wiki/W_&_Whale "wikilink"), [브로콜리 너마저](../Page/브로콜리_너마저.md "wikilink"), [포맨](../Page/포맨.md "wikilink"), [이영현이](../Page/이영현_\(가수\).md "wikilink") 출연했다. 이날 공연은 [8월 26일](../Page/8월_26일.md "wikilink") 오후 8시 MBC FM4U 채널을 통해 전국에 방송되었다.
+[8월 19일](../Page/8월_19일.md "wikilink") 둘째 날은 "떨림"이라는 주제로 가수 [정엽이](../Page/정엽_\(가수\).md "wikilink") 진행하였으며, [휘성](https://ko.wikipedia.org/wiki/휘성 "wikilink"), [김태우](https://ko.wikipedia.org/wiki/김태우_\(가수\) "wikilink"), [마이티마우스](https://ko.wikipedia.org/wiki/마이티마우스 "wikilink"), [크라잉넛](../Page/크라잉넛.md "wikilink"), [알렉스](../Page/알렉스_\(가수\).md "wikilink"), [W & Whale](https://ko.wikipedia.org/wiki/W_&_Whale "wikilink"), [브로콜리 너마저](../Page/브로콜리_너마저.md "wikilink"), [포맨](../Page/포맨.md "wikilink"), [이영현이](../Page/이영현_\(가수\).md "wikilink") 출연했다. 이날 공연은 [8월 26일](../Page/8월_26일.md "wikilink") 오후 8시 KBS 1TV와 MBC FM4U 채널을 통해 전국에 방송되었다.
 
 [8월](../Page/2011년_8월.md "wikilink") [20일](../Page/8월_20일.md "wikilink") 셋째 날은 "울림"이라는 주제로 가수 [윤도현](../Page/윤도현.md "wikilink")이 진행하였으며, [YB](../Page/YB_\(밴드\).md "wikilink"), [장기하와 얼굴들](../Page/장기하와_얼굴들.md "wikilink"), [노브레인](../Page/노브레인.md "wikilink"), [킹스턴 루디스카](../Page/킹스턴_루디스카.md "wikilink"), [리쌍](../Page/리쌍.md "wikilink"), [정인](../Page/정인_\(가수\).md "wikilink"), [김조한](../Page/김조한.md "wikilink"), [체리필터](../Page/체리필터.md "wikilink")가 출연하였다. 이 날 공연은 [8월 27일](../Page/8월_27일.md "wikilink") 오후 2시에 MBC FM4U 채널을 통해 전국에 방송되었다.
 
@@ -515,7 +516,7 @@ MBC 창사기념일([12월 2일](../Page/12월_2일.md "wikilink"))을 즈음하
 
 [2015년](../Page/2015년.md "wikilink")에는 [12월 1일에](../Page/12월_1일.md "wikilink") 오전 7시 프로그램인 [굿모닝FM](../Page/굿모닝FM.md "wikilink")부터 오후 10시 프로그램인 [꿈꾸는 라디오까지만](https://ko.wikipedia.org/wiki/테이의_꿈꾸는_라디오 "wikilink") 한해 패밀리 데이를 시행하였으며, 보이는 라디오 및 생방송으로 진행되었다.\[7\]
 
-[2016년](../Page/2016년.md "wikilink")에도 [2015년](../Page/2015년.md "wikilink")과 마찬가지로 [12월 1일에](../Page/12월_1일.md "wikilink") 오전 7시 프로그램인 [굿모닝FM](../Page/굿모닝FM.md "wikilink")부터 오후 10시 프로그램인 [꿈꾸는 라디오까지만](https://ko.wikipedia.org/wiki/테이의_꿈꾸는_라디오 "wikilink") 한해 패밀리 데이를 시행하였으며, 보이는 라디오 및 생방송으로 진행되었다.
+[2016년](../Page/2016년.md "wikilink")에도 [2015년](../Page/2015년.md "wikilink")과 마찬가지로 [12월 1일에](../Page/12월_1일.md "wikilink") 오전 7시 프로그램인 [굿모닝FM](../Page/굿모닝FM.md "wikilink")부터 오후 10시 프로그램인 [꿈꾸는 라디오까지만](https://ko.wikipedia.org/wiki/테이의_꿈꾸는_라디오 "wikilink") 한해 패밀리 데이를 시행하였으며, KBS1 로고와 함께 보이는 라디오 및 생방송으로 진행되었다.
 
 [2017년](../Page/2017년.md "wikilink")에는 MBC 파업의 후처리 문제 등으로 인해 진행되지 않았으나, [2018년](../Page/2018년.md "wikilink") [12월 3일에는](../Page/12월_3일.md "wikilink") 정상적으로 진행되었다.
 
@@ -526,7 +527,7 @@ MBC 창사기념일([12월 2일](../Page/12월_2일.md "wikilink"))을 즈음하
   - [EBS FM](../Page/EBS_FM.md "wikilink")
   - [SBS 파워FM](../Page/SBS_파워FM.md "wikilink")
   - [CBS 음악FM](../Page/CBS_음악FM.md "wikilink")
-  - [교통방송](../Page/교통방송.md "wikilink")
+  - [TBS FM](../Page/TBS_\(대한민국의_방송사\).md "wikilink")
   - [EBS 1TV](../Page/EBS_1TV.md "wikilink")
   - [극동방송](../Page/극동방송.md "wikilink")
 

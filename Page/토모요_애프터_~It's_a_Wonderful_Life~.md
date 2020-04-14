@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  \~It\'s a Wonderful Life\~](https://ko.wikipedia.org/wiki/__\~It\'s_a_Wonderful_Life\~).
+> This article is converted from Wikipedia: [토모요 애프터 \~It\'s a Wonderful Life\~](https://ko.wikipedia.org/wiki/토모요_애프터_\~It\'s_a_Wonderful_Life\~).
 
 
 《**토모요 애프터 \~It's a Wonderful Life\~**》()는 [Key](https://ko.wikipedia.org/wiki/Key "wikilink")사에서 제작한 [연애 어드벤처](https://ko.wikipedia.org/wiki/연애_어드벤처 "wikilink") 게임이다.

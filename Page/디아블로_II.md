@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ II](https://ko.wikipedia.org/wiki/_II).
+> This article is converted from Wikipedia: [디아블로 II](https://ko.wikipedia.org/wiki/디아블로_II).
 
 
 **디아블로 II**(*Diablo II*)는 [블리자드 노스에](https://ko.wikipedia.org/wiki/블리자드_노스 "wikilink") 개발되어 [블리자드 엔터테인먼트가](../Page/블리자드_엔터테인먼트.md "wikilink") [마이크로소프트 윈도와](https://ko.wikipedia.org/wiki/마이크로소프트_윈도 "wikilink") [맥 OS로](../Page/맥_OS.md "wikilink") 2000년 발매한 [액션 롤플레잉](https://ko.wikipedia.org/wiki/액션_롤플레잉_게임 "wikilink") [핵 앤 슬래시](https://ko.wikipedia.org/wiki/핵_앤_슬래시 "wikilink") [비디오 게임이다](../Page/비디오_게임.md "wikilink"). 게임은 [다크 판타지와](https://ko.wikipedia.org/wiki/다크_판타지 "wikilink") [공포](../Page/공포.md "wikilink")를 주제로 하며, 데이비드 브레비크, 에리히 셰퍼, 그리고 막스 셰퍼의 감독 하에 개념이 잡히고 디자인되었다. 이 게임의 프로듀서는 매튜 하우스홀더와 [빌 로퍼였다](https://ko.wikipedia.org/wiki/빌_로퍼 "wikilink").

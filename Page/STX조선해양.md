@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [STX](https://ko.wikipedia.org/wiki/STX).
+> This article is converted from Wikipedia: [STX조선해양](https://ko.wikipedia.org/wiki/STX조선해양).
 
 
 **STX조선해양**은 [경상남도](https://ko.wikipedia.org/wiki/경상남도 "wikilink") [창원시](../Page/창원시.md "wikilink") [진해구](https://ko.wikipedia.org/wiki/진해구 "wikilink")에 위치한 [대한민국](../Page/대한민국.md "wikilink")의 조선업체이다.

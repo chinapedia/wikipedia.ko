@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [CTV  ](https://ko.wikipedia.org/wiki/CTV__).
+> This article is converted from Wikipedia: [CTV 텔레비전 네트워크](https://ko.wikipedia.org/wiki/CTV_텔레비전_네트워크).
 
 
 **CTV 텔레비전 네트워크**는 [캐나다](../Page/캐나다.md "wikilink")에서 가장 큰 민영 방송국이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  c](https://ko.wikipedia.org/wiki/__c).
+> This article is converted from Wikipedia: [안드로메다자리 웁실론 c](https://ko.wikipedia.org/wiki/안드로메다자리_웁실론_c).
 
 
 **안드로메다자리 웁실론 c**는 [태양](../Page/태양.md "wikilink")과 비슷한 항성 [안드로메다자리 웁실론](../Page/안드로메다자리_웁실론.md "wikilink") 주위를 돌고 있는 외계 행성이다. 이 행성의 [공전 주기는](../Page/공전_주기.md "wikilink") 241.2일이다. [1999년](../Page/1999년.md "wikilink") 4월 제오프리 마시와 폴 버틀러 연구진이 발견했으며, 안드로메다자리 웁실론은 두 개 이상의 행성을 거느린 첫 번째 평범한 항성으로 기록되었다.(‘평범한 항성’의 경우에 국한한 것이다. 모든 항성으로 대상을 확장하면, 여러 개의 행성을 거느린 최초의 항성은 [펄서](https://ko.wikipedia.org/wiki/펄서 "wikilink") [PSR 1257+12이다](https://ko.wikipedia.org/wiki/PSR_1257+12 "wikilink")) 안드로메다자리 웁실론 항성계 내에서 c는 어머니 항성으로부터 두 번째로 가깝다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FM](https://ko.wikipedia.org/wiki/FM).
+> This article is converted from Wikipedia: [성남FM](https://ko.wikipedia.org/wiki/성남FM).
 
 
 **성남FM**은 대한민국의 소출력 FM [라디오](../Page/라디오.md "wikilink") 방송국으로 [경기도](https://ko.wikipedia.org/wiki/경기도 "wikilink") [성남시](../Page/성남시.md "wikilink") [분당구](../Page/분당구.md "wikilink") 황새울로360번길 21에 있는 방송사이다. [경기도](https://ko.wikipedia.org/wiki/경기도 "wikilink") [분당신도시](../Page/분당신도시.md "wikilink")를 중심으로 인접 경기도 지역에 방송을 송출하고 있다. 주파수는 FM 90.7㎒의 FM 방송 대역이며 방송 내용은 분당 지역의 복지와 발전을 제공하고자 하는 목적으로 생방송이 80%이며 분당 지역의 지역 주민이 참여하는 지역정보제공을 하고 있다. 1W의 소출력으로 분당구청에서 반경 약 5km 이내에 거주하고 있는 주민 혹은 상주인구가 대상이며 약 43만 명으로 추산된다. 방송시간은 아침 6시부터 새벽 2시까지 20시간을 방송한다. 본사는 성남시 분당구 서현동 신영 팰리스 타워이다. [2012년](../Page/2012년.md "wikilink") [5월 1일](../Page/5월_1일.md "wikilink") FM분당에서 성남FM으로 명칭을 변경하였다.

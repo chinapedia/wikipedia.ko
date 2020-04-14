@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FC  ](https://ko.wikipedia.org/wiki/FC__).
+> This article is converted from Wikipedia: [FC 안양 시티즌](https://ko.wikipedia.org/wiki/FC_안양_시티즌).
 
 
 **FC 안양 시티즌**은 안양시의 축구단으로, [2004년](../Page/2004년.md "wikilink") [2월 29일](../Page/2월_29일.md "wikilink") 발족하였다. 2005년 코니그린컵 참가와 IS배 써부웨이컵 우승 팀이기도 하다.

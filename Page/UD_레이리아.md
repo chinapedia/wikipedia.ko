@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [UD ](https://ko.wikipedia.org/wiki/UD_).
+> This article is converted from Wikipedia: [UD 레이리아](https://ko.wikipedia.org/wiki/UD_레이리아).
 
 
 **우니앙 데스포르티바 드 레이리아**(União Desportiva de Leiria), 또는 간단히 **우니앙 드 레이리아**(União de Leiria, [발음](https://ko.wikipedia.org/wiki/발음 "wikilink") ))는 [포르투갈](../Page/포르투갈.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽으로 [1966년](../Page/1966년.md "wikilink")에 창단되었다. 이는 [포르투갈 리가](https://ko.wikipedia.org/wiki/포르투갈_리가 "wikilink") 팀 가운데 가장 짧은 역사를 가진 팀이기도 하다. 이 클럽은 포르투갈 중부에 있는 [레이리아](https://ko.wikipedia.org/wiki/레이리아 "wikilink")를 연고로 하고 있다.

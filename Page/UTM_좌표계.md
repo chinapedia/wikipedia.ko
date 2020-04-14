@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [UTM ](https://ko.wikipedia.org/wiki/UTM_).
+> This article is converted from Wikipedia: [UTM 좌표계](https://ko.wikipedia.org/wiki/UTM_좌표계).
 
 
 [thumb](https://ko.wikipedia.org/wiki/파일:Utm-zones.jpg "wikilink") **UTM 좌표계**()는 전 지구상 점들의 위치를 통일된 체계로 나타내기 위한 격자 좌표 체계의 하나로 [1947년](../Page/1947년.md "wikilink")에 개발되었다. UTM 좌표계에서는 지구를 [경도](https://ko.wikipedia.org/wiki/경도 "wikilink") 6° 간격의 세로 띠로 나누어 [횡축 메르카토르 도법으로](https://ko.wikipedia.org/wiki/횡축_메르카토르_도법 "wikilink") 그린 뒤, [위도](../Page/위도.md "wikilink") 8° 간격으로 총 60×20 개의 격자로 나누어 각 세로 구역마다 설정된 원점에 대한 종·횡 좌표로 위치를 나타낸다. [지리 좌표계가](../Page/지리_좌표계.md "wikilink") 극지방으로 갈수록 직사각형이 크게 감소하는 반면 UTM 좌표계는 직사각형 모양을 유지하므로 거리, 면적, 방향 등을 나타내는 데 매우 편리하다는 장점이 있다.

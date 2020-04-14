@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [NF-](https://ko.wikipedia.org/wiki/NF-).
+> This article is converted from Wikipedia: [NF-보드](https://ko.wikipedia.org/wiki/NF-보드).
 
 
 **NF-보드**(*New Federation-Board*), 비공식적으로는 *Non-FIFA-Board*는 [2003년](../Page/2003년.md "wikilink") [12월 12일에](../Page/12월_12일.md "wikilink") 설립된 [축구](../Page/축구.md "wikilink") 협회이다. 여기에는 [FIFA](https://ko.wikipedia.org/wiki/FIFA "wikilink")의 비회원국 가운데, 주권국으로서 인정되지 않고 있는 국가들로 구성되어 있다. NF-보드는 [FIFA](https://ko.wikipedia.org/wiki/FIFA "wikilink") 비회원국이 FIFA 회원 자격을 얻을 때까지 거쳐가는 임시기구로서의 역할을 하고 있다. NF-보드는 [보스만 판결](../Page/보스만_판결.md "wikilink") 사건의 당사자였던 벨기에의 축구 선수인 [장마르크 보스만의](https://ko.wikipedia.org/wiki/장마르크_보스만 "wikilink") 담당 변호사였던 루크 미손이 유럽의 프로 축구 선수들의 이적의 자유를 위해 설립하여 현재는 사무총장을 맡고 있다.
@@ -19,7 +19,7 @@ NF-보드는 회원국간의 체계화된 경기를 목표로 하여, "경쟁적
 
 ### 정회원국
 
-  - [22px](https://ko.wikipedia.org/wiki/파일:Flag_of_Gozo.png "wikilink") [고조](../Page/고조_축구_국가대표팀.md "wikilink") (유럽)
+  - [22px](https://ko.wikipedia.org/wiki/파일:Flag_of_Gozo.svg "wikilink") [고조](../Page/고조_축구_국가대표팀.md "wikilink") (유럽)
 
   - (북아메리카)
 

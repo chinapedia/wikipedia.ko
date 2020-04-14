@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ DNA](https://ko.wikipedia.org/wiki/_DNA).
+> This article is converted from Wikipedia: [비부호화 DNA](https://ko.wikipedia.org/wiki/비부호화_DNA).
 
 
 [유전체학](../Page/유전체학.md "wikilink")에서 **비부호화 DNA**(Noncoding DNA)는 [코돈](https://ko.wikipedia.org/wiki/코돈 "wikilink") [단백질](../Page/단백질.md "wikilink")이 일정한 순서 없이 무작위로 구성되어 있는 상태의 [DNA](../Page/DNA.md "wikilink")를 일컫는 용어이며, 주로 [비부호화 RNA에](https://ko.wikipedia.org/wiki/비부호화_RNA "wikilink") 유전정보를 [전사하거나](../Page/전사_\(생물학\).md "wikilink") [조절염기순서](https://ko.wikipedia.org/wiki/조절염기순서 "wikilink")에 따라 단백질의 부호 순서 및 [스캐폴드부착부위](https://ko.wikipedia.org/wiki/스캐폴드부착부위 "wikilink"), [동원체](https://ko.wikipedia.org/wiki/동원체 "wikilink"), [말단소체](https://ko.wikipedia.org/wiki/말단소체 "wikilink")를 [번역하는](https://ko.wikipedia.org/wiki/번역_\(생물학\) "wikilink") 역할을 담당한다.

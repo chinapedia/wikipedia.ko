@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [CR   ](https://ko.wikipedia.org/wiki/CR___).
+> This article is converted from Wikipedia: [CR 바스쿠 다 가마](https://ko.wikipedia.org/wiki/CR_바스쿠_다_가마).
 
 
 **클루브 지 헤가타스 바스쿠 다 가마**(Club de Regatas Vasco da Gama)는 보통 **바스쿠 다 가마** 또는 간단하게 **바스쿠**(포르투갈의 탐험가인 [바스쿠 다 가마와](../Page/바스쿠_다_가마.md "wikilink") 같은 이름)라고 알려져 있는 [브라질](../Page/브라질.md "wikilink")의 축구 클럽으로 [브라질](../Page/브라질.md "wikilink")의 [리우데자네이루](../Page/리우데자네이루.md "wikilink")를 연고로 하며, [1898년](../Page/1898년.md "wikilink") [8월 21일에](../Page/8월_21일.md "wikilink") 설립되었다.

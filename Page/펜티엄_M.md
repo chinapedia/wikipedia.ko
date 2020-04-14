@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ M](https://ko.wikipedia.org/wiki/_M).
+> This article is converted from Wikipedia: [펜티엄 M](https://ko.wikipedia.org/wiki/펜티엄_M).
 
 
 **펜티엄 M**(Pentium M)은 두 개의 싱글 코어 [32비트](../Page/32비트.md "wikilink") [x86](https://ko.wikipedia.org/wiki/x86 "wikilink") [마이크로프로세서](../Page/마이크로프로세서.md "wikilink")들 (인텔 [P6](../Page/P6_\(마이크로아키텍처\).md "wikilink") [마이크로아키텍처](../Page/마이크로아키텍처.md "wikilink") 포함)을 일컫는 브랜드 이름으로 2003년 3월([펜티엄 4](../Page/펜티엄_4.md "wikilink") 데스크톱 [CPU의](../Page/중앙_처리_장치.md "wikilink") 전성기이자 [인텔](../Page/인텔.md "wikilink") [센트리노](../Page/센트리노.md "wikilink") 플랫폼의 일부를 형성하고 있는 동안)에 소개되었다.

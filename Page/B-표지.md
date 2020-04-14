@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [B-](https://ko.wikipedia.org/wiki/B-).
+> This article is converted from Wikipedia: [B-표지](https://ko.wikipedia.org/wiki/B-표지).
 
 
 [입자 물리학에서](https://ko.wikipedia.org/wiki/입자_물리학 "wikilink") **b-표지**(b-tagging)는 특정한 [맛깔](https://ko.wikipedia.org/wiki/맛깔 "wikilink")(flavor)을 지닌 입자의 [젯](https://ko.wikipedia.org/wiki/젯 "wikilink")(jet)을 찾아내는 방법이다. [바닥 쿼크](https://ko.wikipedia.org/wiki/바닥_쿼크 "wikilink")(b-quark)를 찾아내는 방법이다.

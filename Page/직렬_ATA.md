@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ ATA](https://ko.wikipedia.org/wiki/_ATA).
+> This article is converted from Wikipedia: [직렬 ATA](https://ko.wikipedia.org/wiki/직렬_ATA).
 
 
 **직렬 ATA**(, **SATA**)는 [하드 디스크](https://ko.wikipedia.org/wiki/하드_디스크 "wikilink") 혹은 [광학 드라이브와](https://ko.wikipedia.org/wiki/광학_드라이브 "wikilink") 데이터 전송을 주요 목적으로 만든 [컴퓨터 버스의](https://ko.wikipedia.org/wiki/컴퓨터_버스 "wikilink") 한 가지이다. 약자를 철자대로 읽어서 **사타**(영어식으로는 **새터**, **세이터**)라고도 한다. 직렬 ATA는 예전의 [ATA](../Page/병렬_ATA.md "wikilink") 표준을 계승하여, ‘[병렬 ATA](../Page/병렬_ATA.md "wikilink")(, 기존의 ATA)’를 대체하기 위해 고안되었다. 직렬 ATA 어댑터와 장치들은 비교적 속도가 빠른 [직렬 연결을](../Page/직렬_통신.md "wikilink") 이용하여 연결된다.

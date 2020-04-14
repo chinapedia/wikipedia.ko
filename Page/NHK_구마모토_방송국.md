@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [NHK  ](https://ko.wikipedia.org/wiki/NHK__).
+> This article is converted from Wikipedia: [NHK 구마모토 방송국](https://ko.wikipedia.org/wiki/NHK_구마모토_방송국).
 
 
 **NHK 구마모토 방송국**(熊本 放送局)은 [일본](../Page/일본.md "wikilink") [구마모토현](../Page/구마모토현.md "wikilink")을 방송 구역으로 하는 NHK의 지역방송국이며 중파·FM라디오·텔레비전 방송을 담당하고 있다.

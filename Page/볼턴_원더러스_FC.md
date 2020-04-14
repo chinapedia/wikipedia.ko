@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  FC](https://ko.wikipedia.org/wiki/__FC).
+> This article is converted from Wikipedia: [볼턴 원더러스 FC](https://ko.wikipedia.org/wiki/볼턴_원더러스_FC).
 
 
 **볼턴 원더러스 축구 클럽**()는 [영국](../Page/영국.md "wikilink") [그레이터맨체스터주](../Page/그레이터맨체스터주.md "wikilink") 북서부에있는 [볼턴](../Page/볼턴.md "wikilink") 행정구를 연고로 하는 [잉글랜드](../Page/잉글랜드.md "wikilink")의 프로축구단이다. 이 팀은 [1874년](../Page/1874년.md "wikilink")에 창단되었으며, 현재 볼턴에서도 북서부 외곽 [호리치](https://ko.wikipedia.org/wiki/호리치 "wikilink")란 작은 동네에 있는 [마크론 스타디움을](../Page/마크론_스타디움.md "wikilink") 홈 구장으로 쓰고 있다. 현재 감독은 필 파킨슨이고, 주장은 [제이 스피어링이다](../Page/제이_스피어링.md "wikilink"). 2001 시즌부터 [프리미어리그](https://ko.wikipedia.org/wiki/프리미어리그 "wikilink")에 소속되어 있다가 [2011-12 시즌에](../Page/프리미어리그_2011-12.md "wikilink") 18위를 기록해 [풋볼 리그 챔피언십으로](https://ko.wikipedia.org/wiki/풋볼_리그_챔피언십 "wikilink") 강등된 클럽이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ TW](https://ko.wikipedia.org/wiki/_TW).
+> This article is converted from Wikipedia: [바다뱀자리 TW](https://ko.wikipedia.org/wiki/바다뱀자리_TW).
 
 
 **바다뱀자리 TW**는 [바다뱀자리](../Page/바다뱀자리.md "wikilink")에 있는, 지구에서 176광년 떨어진 [오렌지색 왜성이다](https://ko.wikipedia.org/wiki/오렌지색_왜성 "wikilink"). 이 별은 [태양계](../Page/태양계.md "wikilink")에서 가장 가까운 [황소자리 T 항성이기도](https://ko.wikipedia.org/wiki/황소자리_T_항성 "wikilink") 하다. 바다뱀자리 TW는 태양과 질량이 비슷하지만 나이는 500만 \~ 1천만 년으로 매우 젊다. 이 별의 주위에는 [원시 행성계 원반이](../Page/원시_행성계_원반.md "wikilink") 형성되어 물질을 끌어모으고 있는 중으로 보이며, 이는 [허블 우주 망원경의](https://ko.wikipedia.org/wiki/허블_우주_망원경 "wikilink") 관측을 통해 분석되었다. 바다뱀자리 TW 주위에는 20개 정도의 작은 질량의 별들이 함께 몰려 있으며, 이들은 비슷한 고유 운동을 보여주고 있는데(이들을 [바다뱀자리 TW 성협으로](https://ko.wikipedia.org/wiki/바다뱀자리_TW_성협 "wikilink") 부른다), 태양계에서 가장 가까운, ‘별의 탄생 과정’을 보여주는 지역이다.

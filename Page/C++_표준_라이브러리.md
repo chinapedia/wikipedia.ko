@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [C++  ](https://ko.wikipedia.org/wiki/C++__).
+> This article is converted from Wikipedia: [C++ 표준 라이브러리](https://ko.wikipedia.org/wiki/C++_표준_라이브러리).
 
 
 [C++](https://ko.wikipedia.org/wiki/C++ "wikilink") 프로그래밍 언어에서, **C++ 표준 라이브러리** (C++ Standard Library)는 C++과 C++ ISO 표준 자체로 쓰여진 [클래스들과](https://ko.wikipedia.org/wiki/클래스_\(컴퓨터_과학\) "wikilink") [함수들의](../Page/함수_\(프로그래밍\).md "wikilink") 집합이다.\[1\] C++ 표준 라이브러리는 여러 제네릭 컨테이너들, 그리고 이러한 컨테이너들과 함수 객체, 제네릭 문자열, 스트림(인터렉티브와 파일 입출력을 포함하는), 몇몇 언어 특징 그리고 숫자의 제곱근을 찾는 것 같은 작업을 위한 모든 함수들을 활용하기 위한 함수들을 제공한다. C++ 표준 라이브러리는 또한 ".h"로 끝나는 ISO C90 C 표준 라이브러리의 18 헤더들을 포함하지만 이것들의 사용은 추천되지 않는다.\[2\] ".h"로 끝나지 않는 헤더는 C++ 표준 라이브러리에는 존재하지 않는다. C++ 표준 라이브러리의 특징은 `std` [이름공간](../Page/이름공간.md "wikilink") 내에 선언된다는 것이다.

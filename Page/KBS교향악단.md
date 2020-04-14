@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KBS](https://ko.wikipedia.org/wiki/KBS).
+> This article is converted from Wikipedia: [KBS교향악단](https://ko.wikipedia.org/wiki/KBS교향악단).
 
 
 **KBS교향악단**(KBS交響樂團, KBS Symphony Orchestra)은 [대한민국](../Page/대한민국.md "wikilink")의 대표적인 [관현악단](../Page/관현악단.md "wikilink")이다.

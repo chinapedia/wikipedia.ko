@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [HCN](https://ko.wikipedia.org/wiki/HCN).
+> This article is converted from Wikipedia: [현대HCN](https://ko.wikipedia.org/wiki/현대HCN).
 
 
 **현대HCN**은 대한민국의 MSP(종합유선방송 및 채널 제공 사업자)이다. 현대백화점 그룹에 속해 있으며, 그룹 內 미디어 부문 사업체이다.
@@ -59,7 +59,7 @@
   - [드라마 H](../Page/드라마_H.md "wikilink") (Drama H) - 드라마 전문 채널
   - [트렌디](https://ko.wikipedia.org/wiki/트렌디_\(방송사\) "wikilink") (Trend E) - 여성중심의 정보,오락 전문 채널
   - [ONT](https://ko.wikipedia.org/wiki/ONT_채널 "wikilink") (아웃도어) - 아웃도어 전문 채널
-  - [헬스메디TV](../Page/디스코_\(텔레비전_채널\).md "wikilink") (Health Medi TV) - 의학, 건강 전문 채널
+  - [헬스메디TV](https://ko.wikipedia.org/wiki/헬스메디TV "wikilink") (Health Medi TV) - 의학, 건강 전문 채널
 
 ## 본점 및 지점 현황
 

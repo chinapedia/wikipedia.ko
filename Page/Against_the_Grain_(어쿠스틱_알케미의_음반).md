@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Against the Grain \(  \)](https://ko.wikipedia.org/wiki/Against_the_Grain_\(__\)).
+> This article is converted from Wikipedia: [Against the Grain \(어쿠스틱 알케미의 음반\)](https://ko.wikipedia.org/wiki/Against_the_Grain_\(어쿠스틱_알케미의_음반\)).
 
 
 《**Against the Grain**》은 [어쿠스틱 알케미의](../Page/어쿠스틱_알케미.md "wikilink") 일곱 번째 앨범이며, [1994년](../Page/1994년.md "wikilink")에 [GRP](https://ko.wikipedia.org/wiki/GRP "wikilink")에서 발매된 앨범이다.

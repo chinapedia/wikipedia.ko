@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ B](https://ko.wikipedia.org/wiki/_B).
+> This article is converted from Wikipedia: [미라 B](https://ko.wikipedia.org/wiki/미라_B).
 
 
 **미라 B**(**고래자리 VZ**)는 [변광성](../Page/변광성.md "wikilink") [미라의](../Page/미라_\(항성\).md "wikilink") 동반성이다. [1918년](../Page/1918년.md "wikilink") 그 존재가 예측되었으며, [1923년](../Page/1923년.md "wikilink") 미국 천문학자 [로버트 그랜트 에이트켄이](https://ko.wikipedia.org/wiki/로버트_그랜트_에이트켄 "wikilink") 시각적인 관찰로 그 존재를 입증했다. 이 항성은 최근 [찬드라 엑스선 관측선에](../Page/찬드라_엑스선_관측선.md "wikilink") 의해 다시 조사가 이루어졌다.\[1\] 단, 이 동반성의 궤도는 정확히 밝혀지지 않았는데, 최근 안시쌍성궤도목록 6판에 수록된 자료에 따르면 공전주기는 약 500년이며 서기 [2285년](https://ko.wikipedia.org/wiki/2285년 "wikilink") 경 [근성점을](../Page/장축단.md "wikilink") 통과한다고 밝히고 있다. [히파르코스 위성의](https://ko.wikipedia.org/wiki/히파르코스_위성 "wikilink") [시차](https://ko.wikipedia.org/wiki/시차 "wikilink") 관측에 의거하면 미라 A와 미라 B는 평균 100 [천문단위](../Page/천문단위.md "wikilink") 떨어져 있다.

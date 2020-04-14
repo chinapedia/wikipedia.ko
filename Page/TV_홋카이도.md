@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TV ](https://ko.wikipedia.org/wiki/TV_).
+> This article is converted from Wikipedia: [TV 홋카이도](https://ko.wikipedia.org/wiki/TV_홋카이도).
 
 
 **TV 홋카이도**는 1989년 10월 1일 홋카이도에서 5번째로 개국한 민영방송국이자 5번째로 개국한 [TV 도쿄계열](../Page/TV_도쿄.md "wikilink") 방송국이다. 약칭은 TVh, 콜사인은 JOHI-DTV이다.

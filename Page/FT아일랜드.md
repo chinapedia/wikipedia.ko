@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FT](https://ko.wikipedia.org/wiki/FT).
+> This article is converted from Wikipedia: [FT아일랜드](https://ko.wikipedia.org/wiki/FT아일랜드).
 
 
 **FT아일랜드**(FTISLAND)는 [FNC 엔터테인먼트](../Page/FNC_엔터테인먼트.md "wikilink") 소속의 3인조 팝 락 밴드이다. 밴드명은 Five Treasure Island의 약칭으로, 다섯개의 보물섬이다.\[1\] [2007년](../Page/2007년.md "wikilink") [6월 7일](../Page/6월_7일.md "wikilink") 1집 《Cheerful Sensibility》의 타이틀곡 〈사랑앓이〉로 데뷔하였다. 사랑앓이는 음악프로그램에서 7주 연속 1위를 하였고 음반판매는 12만장을 돌파하였다.\[2\]\[3\] 2007년 신인상, 2010년 골든디스크 록상 등을 수상하였다.\[4\] 현재 모든 멤버는 병역을 이행 중에 있다. ([2020년](../Page/2020년.md "wikilink") [2월 24일](../Page/2월_24일.md "wikilink") 기준)

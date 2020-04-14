@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ CFA ](https://ko.wikipedia.org/wiki/_CFA_).
+> This article is converted from Wikipedia: [서아프리카 CFA 프랑](https://ko.wikipedia.org/wiki/서아프리카_CFA_프랑).
 
 
 **서아프리카 CFA 프랑** ([프랑스어](../Page/프랑스어.md "wikilink"): *franc CFA* 또는 간단히 *franc*, [ISO 4217](../Page/ISO_4217.md "wikilink") 코드: *XOF*)은 서아프리카의 8개 독립국가인 [베냉](../Page/베냉.md "wikilink"), [부르키나파소](../Page/부르키나파소.md "wikilink"), [코트디부아르](../Page/코트디부아르.md "wikilink"), [기니비사우](../Page/기니비사우.md "wikilink"), [말리](../Page/말리.md "wikilink"), [니제르](../Page/니제르.md "wikilink"), [세네갈](../Page/세네갈.md "wikilink") 그리고 [토고](../Page/토고.md "wikilink")의 통화이다. CFA는 아프리카의 경제 공동체 ()를 의미한다. 서아프리카 CFA 프랑은 [세네갈](../Page/세네갈.md "wikilink")의 수도인 [다카르](../Page/다카르.md "wikilink")에 위치한 [서아프리카 중앙은행](https://ko.wikipedia.org/wiki/서아프리카_중앙은행 "wikilink") (BCEAO, )에서 발행되고, [서아프리카 경제통화공동체](https://ko.wikipedia.org/wiki/서아프리카_경제통화공동체 "wikilink") (UEMOA, )에서 사용된다. 1 프랑은 명목상 100 *[상팀](https://ko.wikipedia.org/wiki/상팀 "wikilink")*으로 나뉘게 되지만, 서아프리카에서 상팀은 발행되지 않는다.

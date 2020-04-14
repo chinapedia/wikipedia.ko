@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ EF-S ](https://ko.wikipedia.org/wiki/_EF-S_).
+> This article is converted from Wikipedia: [캐논 EF-S 마운트](https://ko.wikipedia.org/wiki/캐논_EF-S_마운트).
 
 
 [섬네일의](https://ko.wikipedia.org/wiki/파일:Canon_EF-S_lens_mount.jpg "wikilink") 플라스틱 EF-S 렌즈 마운트. 대부분의 렌즈는 금속 마운트를 사용한다.\]\] [섬네일의](https://ko.wikipedia.org/wiki/파일:Canon_EF-S_camera_mount.jpg "wikilink") 마운트\]\] **캐논 EF-S 마운트**()는 [캐논 EF 마운트으로부터](../Page/캐논_EF_마운트.md "wikilink") 파생된 [렌즈 마운트로](../Page/렌즈_마운트.md "wikilink"), [APS-C](https://ko.wikipedia.org/wiki/APS-C "wikilink") 크기의 이미지 센서를 가지는 캐논 [DSLR](https://ko.wikipedia.org/wiki/DSLR "wikilink")들을 위해 제작되었다. EF-S 마운트를 가지고 있는 카메라는 모든 EF 렌즈를 사용할 수 있다. 하지만, EF 마운트만 지원되는 카메라에는 EF-S 렌즈를 사용할 수 없다.
@@ -248,8 +248,6 @@ EF-S의 S는 "short back focus"를 뜻한다.
 <references/>
 
 [분류:렌즈 마운트](https://ko.wikipedia.org/wiki/분류:렌즈_마운트 "wikilink") [분류:사진기](https://ko.wikipedia.org/wiki/분류:사진기 "wikilink") [분류:캐논 EF-S 렌즈](https://ko.wikipedia.org/wiki/분류:캐논_EF-S_렌즈 "wikilink")
-
-[de:EF-Bajonett\#EF-S-Bajonett](https://ko.wikipedia.org/wiki/de:EF-Bajonett#EF-S-Bajonett "wikilink")
 
 1.  [dpreview.com의 17-85 리뷰](http://www.dpreview.com/lensreviews/canon_17-85_4-5p6_is_usm_c16/)
 2.  [dpreview.com의 18-55 IS 리뷰](http://www.dpreview.com/lensreviews/canon_18-55_3p5-5p6_is_c16/)

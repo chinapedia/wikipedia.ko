@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [CFR ](https://ko.wikipedia.org/wiki/CFR_).
+> This article is converted from Wikipedia: [CFR 클루지](https://ko.wikipedia.org/wiki/CFR_클루지).
 
 
 **CFR 클루지**는 [루마니아](../Page/루마니아.md "wikilink")의 [축구팀](https://ko.wikipedia.org/wiki/축구팀 "wikilink")으로 루마니아에서 세 번째로 큰 도시인 [클루지나포카](../Page/클루지나포카.md "wikilink")에 연고를 두고 있다. 클루지는 2007-08시즌의 [리가 I을](../Page/리가_I.md "wikilink") 우승하면서, 팀 역사상 최초의 우승컵이자 부쿠레슈티 연고 팀이 아닌 팀이 17년 만에 우승컵을 들어올린 일이 되었다. 2000년도 초반만 하여도 이 클럽은 루마니아 3부리그에서 활동하고 있었던 팀이었다.

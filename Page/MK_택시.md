@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [MK ](https://ko.wikipedia.org/wiki/MK_).
+> This article is converted from Wikipedia: [MK 택시](https://ko.wikipedia.org/wiki/MK_택시).
 
 
-**엠케이 주식회사** ()는 [교토시](../Page/교토시.md "wikilink") [미나미구](../Page/미나미구_\(교토시\).md "wikilink") 니시쿠죠 히가시시마마치 63-1에 본사가 있는 [택시](../Page/택시.md "wikilink") 회사이다. 옛 본사는 교토 시 [기타구](../Page/기타구_\(교토시\).md "wikilink") 카미가모니시가와라쵸 1-1 이었다. 1960년에 [유봉식](https://ko.wikipedia.org/wiki/유봉식 "wikilink")에 의해서 창업했다. "MK" 의 약칭의 뜻은 창업 당시의 명칭인 "미나미택시"와 후에 합병한 "桂택시 (가쓰라 택시,KEI)"의 머리 글자를 취한 것이다.
+**엠케이 주식회사**()는 [교토시](../Page/교토시.md "wikilink") [미나미구](../Page/미나미구_\(교토시\).md "wikilink") 니시쿠죠 히가시시마마치 63-1에 본사가 있는 [택시](../Page/택시.md "wikilink") 회사이다. 옛 본사는 교토 시 [기타구](../Page/기타구_\(교토시\).md "wikilink") 카미가모니시가와라쵸 1-1 이었다. 1960년에 [유봉식](https://ko.wikipedia.org/wiki/유봉식 "wikilink")에 의해서 창업했다. "MK" 의 약칭의 뜻은 창업 당시의 명칭인 "미나미택시"와 후에 합병한 "桂택시 (가쓰라 택시,KEI)"의 머리 글자를 취한 것이다.
 
 ## 회사 개요
 

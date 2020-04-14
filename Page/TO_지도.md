@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TO ](https://ko.wikipedia.org/wiki/TO_).
+> This article is converted from Wikipedia: [TO 지도](https://ko.wikipedia.org/wiki/TO_지도).
 
 
 [thumb의](https://ko.wikipedia.org/wiki/파일:T_and_O_map_Guntherus_Ziner_1472.jpg "wikilink") 세 아들이 씌여 있다. [아시아](../Page/아시아.md "wikilink"): [셈](https://ko.wikipedia.org/wiki/셈_\(성경\) "wikilink")(Sem), [유럽](../Page/유럽.md "wikilink"): 야벳(Iafeth), [아프리카](../Page/아프리카.md "wikilink"): 함(Cham)\]\] [thumb](https://ko.wikipedia.org/wiki/파일:Radkarte_MKL1888.png "wikilink"), 북쪽에 [타나이스 강](https://ko.wikipedia.org/wiki/돈_강 "wikilink")(또는 흑해), 남쪽에 [나일 강](https://ko.wikipedia.org/wiki/나일_강 "wikilink")(또는 [홍해](../Page/홍해.md "wikilink"))을 표시한다.\]\]  **TO 지도**는 중세 서유럽에서 사용하던 [지도](../Page/지도.md "wikilink")로, 중세 서유럽인들의 세계관을 나타낸다. 그들은 세상이 둥글고, 그 주위에 바다가 있고 둥근 땅에 T형으로 바다가 있으며, 중앙에는 영원의 도시 [예루살렘](../Page/예루살렘.md "wikilink")이 있다는 원리다. TO지도에서는 동쪽이 위로 온다. 따라서 가장 큰 구획이 [아시아](../Page/아시아.md "wikilink"), 왼쪽 아래가 [유럽](../Page/유럽.md "wikilink"), 오른쪽 아래는 [아프리카](../Page/아프리카.md "wikilink")가 된다.

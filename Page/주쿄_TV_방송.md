@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ TV ](https://ko.wikipedia.org/wiki/_TV_).
+> This article is converted from Wikipedia: [주쿄 TV 방송](https://ko.wikipedia.org/wiki/주쿄_TV_방송).
 
 
 **주쿄 텔레비전 방송**()은 [1969년](../Page/1969년.md "wikilink") 4월 1일 [일본](../Page/일본.md "wikilink") [아이치현](../Page/아이치현.md "wikilink")에서 4번째로 개국한 민영방송국으로 아이치 현과 [기후현](../Page/기후현.md "wikilink") 및 [미에현](../Page/미에현.md "wikilink") 지역을 가시청권으로 하고 있다.

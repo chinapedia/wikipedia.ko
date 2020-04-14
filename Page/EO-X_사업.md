@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [EO-X ](https://ko.wikipedia.org/wiki/EO-X_).
+> This article is converted from Wikipedia: [EO-X 사업](https://ko.wikipedia.org/wiki/EO-X_사업).
 
 
 **EO-X 사업**은 한국이 대북 감시능력을 향상시키기 위해 정찰거리 100 km 정도인 [KF-16](../Page/KF-16.md "wikilink")용 정찰 포드 구매사업이다. 2006년 2월, 이스라엘 [IAI](https://ko.wikipedia.org/wiki/IAI "wikilink")의 [엘롭](https://ko.wikipedia.org/wiki/엘롭 "wikilink")사가 선정되었다.

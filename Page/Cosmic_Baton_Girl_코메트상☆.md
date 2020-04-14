@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Cosmic Baton Girl ](https://ko.wikipedia.org/wiki/Cosmic_Baton_Girl_).
+> This article is converted from Wikipedia: [Cosmic Baton Girl 코메트상☆](https://ko.wikipedia.org/wiki/Cosmic_Baton_Girl_코메트상☆).
 
 
 《**Cosmic Baton Girl 코메트상☆**》 () 또는 《**별나라 요정 코미**》(줄여서 **별코미**)는 [일본](../Page/일본.md "wikilink")의 텔레비전 [애니메이션](../Page/애니메이션.md "wikilink")으로, [요코야마 미츠테루의](https://ko.wikipedia.org/wiki/요코야마_미츠테루 "wikilink") 만화 《코메트상》를 원작으로 한 작품이다. [2001년](../Page/2001년.md "wikilink") [4월 1일부터](../Page/4월_1일.md "wikilink") [2002년](../Page/2002년.md "wikilink") [1월 27일까지](../Page/1월_27일.md "wikilink") [TV 오사카를](../Page/TV_오사카.md "wikilink") 중심으로 [TV 도쿄](../Page/TV_도쿄.md "wikilink") 계열국에서 방영되었다. 한국어 더빙판은 [KBS 2TV를](../Page/KBS_2TV.md "wikilink") 통해 《**별나라 요정 코미**》라는 제목으로 [2002년](../Page/2002년.md "wikilink") 2월 17일부터 7월 14일까지 매주 일요일 오전 7시 50분부터 2편이 연속으로 방영되었고, 이후 [투니버스](../Page/투니버스.md "wikilink")를 통해서도 수시 편성된 바 있었는데 이들 중 마지막회는 [데블파이터](../Page/데블파이터.md "wikilink") 최종회와 함께 <만화동산>이란 이름으로 방송됐다.

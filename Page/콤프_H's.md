@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ H\'s](https://ko.wikipedia.org/wiki/_H\'s).
+> This article is converted from Wikipedia: [콤프 H\'s](https://ko.wikipedia.org/wiki/콤프_H\'s).
 
 
 **콤프 H's**()는 [카도카와 쇼텐](https://ko.wikipedia.org/wiki/카도카와_쇼텐 "wikilink") 발행의 애니메이션을 중심으로 한 [미소녀](https://ko.wikipedia.org/wiki/미소녀 "wikilink")[캐릭터](https://ko.wikipedia.org/wiki/캐릭터 "wikilink") [잡지](../Page/잡지.md "wikilink")다. [2006년](../Page/2006년.md "wikilink") [6월 30일](../Page/6월_30일.md "wikilink") 발간. [2007년](../Page/2007년.md "wikilink") 3월 발매한 Vol.3 이후 대체로 격월간 간행되고 있다.

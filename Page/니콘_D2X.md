@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ D2X](https://ko.wikipedia.org/wiki/_D2X).
+> This article is converted from Wikipedia: [니콘 D2X](https://ko.wikipedia.org/wiki/니콘_D2X).
 
 
 [right](https://ko.wikipedia.org/wiki/파일:Nikon_D2x_0601.jpg "wikilink") **니콘 D2X**()는 [니콘](../Page/니콘.md "wikilink")의 1,240만 [유효 화소를](https://ko.wikipedia.org/wiki/유효_화소 "wikilink") 가진 전문가용 [디지털 SLR](https://ko.wikipedia.org/wiki/디지털_SLR "wikilink") [카메라](https://ko.wikipedia.org/wiki/카메라 "wikilink")로, [2004년](../Page/2004년.md "wikilink") 9월 14일에 발표되었다. [니콘 D1X의](https://ko.wikipedia.org/wiki/니콘_D1X "wikilink") 후속인 D2X는 [2006년](../Page/2006년.md "wikilink") 6월 D2Xs가 발표되기 전까지 니콘의 최상위 기종이었다.

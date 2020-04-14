@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ UD](https://ko.wikipedia.org/wiki/_UD).
+> This article is converted from Wikipedia: [레반테 UD](https://ko.wikipedia.org/wiki/레반테_UD).
 
 
 **레반테 UD**(Levante Unión Deportiva)는 [발렌시아](../Page/발렌시아.md "wikilink")에 위치한 [발렌시아 시립 경기장](https://ko.wikipedia.org/wiki/발렌시아_시립_경기장 "wikilink") 경기장을 근거로 하는 [스페인](../Page/스페인.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다.

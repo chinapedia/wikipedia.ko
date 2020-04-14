@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ LG ](https://ko.wikipedia.org/wiki/_LG_).
+> This article is converted from Wikipedia: [창원 LG 세이커스](https://ko.wikipedia.org/wiki/창원_LG_세이커스).
 
 
 **창원 LG 세이커스**(Changwon LG Sakers)는 [경상남도](https://ko.wikipedia.org/wiki/경상남도 "wikilink") [창원시](../Page/창원시.md "wikilink")를 연고로 하는 [대한민국](../Page/대한민국.md "wikilink")의 프로 [농구](../Page/농구.md "wikilink")단이다. 법적으로는 [주식회사](../Page/주식회사.md "wikilink")이며, [LG그룹](../Page/LG그룹.md "wikilink")의 계열사이다. [원주 DB 프로미](https://ko.wikipedia.org/wiki/원주_DB_프로미 "wikilink"), [인천 전자랜드 엘리펀츠](https://ko.wikipedia.org/wiki/인천_전자랜드_엘리펀츠 "wikilink"), [안양 KGC인삼공사와](https://ko.wikipedia.org/wiki/안양_KGC인삼공사 "wikilink") 함께 연고지 이전이 없는 구단이다.

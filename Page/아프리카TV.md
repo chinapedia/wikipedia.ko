@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TV](https://ko.wikipedia.org/wiki/TV).
+> This article is converted from Wikipedia: [아프리카TV](https://ko.wikipedia.org/wiki/아프리카TV).
 
 
 **아프리카TV**(, )는 [대한민국](../Page/대한민국.md "wikilink")의 [SNS](../Page/소셜_네트워크_서비스.md "wikilink") 미디어 플랫폼이다. [(주)아프리카TV에서](../Page/아프리카TV_\(기업\).md "wikilink") 운영하는 인터넷 개인 방송 서비스로서, 특별한 기술·장비·비용 없이도 누구나 쉽게 [PC나](../Page/개인용_컴퓨터.md "wikilink") 모바일 기기([스마트폰](../Page/스마트폰.md "wikilink"), [태블릿 컴퓨터](../Page/태블릿_컴퓨터.md "wikilink") 등)로 언제 어디서나 실시간 생방송을 할 수 있는 개인 1인 미디어이다. [웹캠](https://ko.wikipedia.org/wiki/웹캠 "wikilink") 방송은 물론 PC 모니터상의 화면을 방송할 수 있는 데스크탑 방송이 가능해 누구라도 다양한 소재로 방송할 수 있는 시스템이다. [채팅](https://ko.wikipedia.org/wiki/채팅 "wikilink") 화면이 있어 방송인과 시청자 사이에 실시간 소통이 가능하다. 시청자는 사이버 머니인 '별풍선'을 통해 인터넷 방송인에게 자발적으로 시청료를 낼 수도 있다. 또한 다양한 방송자들로 다양한 재미를 느낄수 있다\[1\]\[2\]\[3\] 2015년 12월 프로게임단 [아프리카 프릭스도](../Page/아프리카_프릭스.md "wikilink") 창단하였다.\[4\]\[5\]
@@ -107,7 +107,7 @@
 
 두 살 짜리 어린아이와 술을 마시고 춤을 추게 해서 별풍선을 받아내는 등 문제가 KBS를 통해 지적 보도된 바 있다.
 
-[2008년](../Page/2008년.md "wikilink") 한 여성 [BJ의](https://ko.wikipedia.org/wiki/인터넷_방송인 "wikilink") 알몸이 그대로 방송돼 물의를 빚었다. [2011년](../Page/2011년.md "wikilink") [3월](../Page/3월.md "wikilink") 리니지 관련 방송으로 인기를 모으던 남성 [BJ가](https://ko.wikipedia.org/wiki/인터넷_방송인 "wikilink") 불특정 다수와 연락을 취할 수 있는 랜덤채팅을 중계하다 상대방이 성기를 노출한 사고가 발생했다. 이에 아프리카TV는 해당 [BJ를](https://ko.wikipedia.org/wiki/인터넷_방송인 "wikilink") 영구 정지시켰지만, 곧 사면시켜줘 다시 방송에 복귀하면서 논란이 되었다. 이에 2011년 5월 선정성 문제가 공식 제기 되었고 [방송통신심의위원회](https://ko.wikipedia.org/wiki/방송통신심의위원회 "wikilink")가 실시간 인터넷 방송의 유해정보에 대한 집중 모니터링을 실시하였다. 한편 돈으로 환전 가능해 돈벌이 수단으로 악용되는 '별풍선'이 선정적 방송을 부추긴다는 비판도 나오고있다.\[17\]
+[2008년](../Page/2008년.md "wikilink") 한 여성 [BJ의](https://ko.wikipedia.org/wiki/인터넷_방송인 "wikilink") [알몸](https://ko.wikipedia.org/wiki/알몸 "wikilink")이 그대로 방송돼 물의를 빚었다. [2011년](../Page/2011년.md "wikilink") [3월](../Page/3월.md "wikilink") 리니지 관련 방송으로 인기를 모으던 남성 [BJ가](https://ko.wikipedia.org/wiki/인터넷_방송인 "wikilink") 불특정 다수와 연락을 취할 수 있는 [랜덤채팅](https://ko.wikipedia.org/wiki/랜덤채팅 "wikilink")을 중계하다 상대방이 [성기](../Page/성기.md "wikilink")를 [노출](https://ko.wikipedia.org/wiki/노출 "wikilink")한 사고가 발생했다. 이에 아프리카TV는 해당 [BJ를](https://ko.wikipedia.org/wiki/인터넷_방송인 "wikilink") 영구 정지시켰지만, 곧 사면시켜줘 다시 방송에 복귀하면서 논란이 되었다. 이에 2011년 5월 선정성 문제가 공식 제기 되었고 [방송통신심의위원회](https://ko.wikipedia.org/wiki/방송통신심의위원회 "wikilink")가 실시간 인터넷 방송의 유해정보에 대한 집중 모니터링을 실시하였다. 한편 돈으로 환전 가능해 돈벌이 수단으로 악용되는 '별풍선'이 선정적 방송을 부추긴다는 비판도 나오고있다.\[17\]
 
 ### 시청자 성폭행 사건
 
@@ -131,9 +131,7 @@
 
 ### 아프리카TV 갑질 논란
 
-  -
-    활동당시 엄청난 인기가 있던 대도서관은 아내 윰댕과 함께 게임 아케론의 광고모델로 시노자키 아이를 특별게스트로 초대해 실시간 방송을 하였다. 그런데 갑자기 아프리카TV 측에서 호스팅비용을 내지 않았으니 7일정지를 주겠다고 했었다. 최근에는 CJ측에서 아프리카로 비용을 줘야하는데 비용을 준 줄 알고 방송을 하였다고 대도서관측은 주장한다. 대도서관측은 당시 다시 아프리카TV 측에 연락을 해서 비용을 줄테니 방송 정지만은 하지말라고 하였으나 아프리카TV 측은 비용을 내지 않았으니 상업방송 정책 위반으로 7일정지를 주겠다고 하였다. 대도서관측은 유튜브 라이브로 억울함을 주장하는 방송을 송출 했다.
-    비난이 일자 아프리카TV 측은 다시 정책을 수정했지만 이미 수많은 유명 BJ들(양띵, 머독, 풍월량 등)은 오랫동안 몸담았던 아프리카의 갑질에 실망하며 다른 플랫폼(유튜브, 카카오TV, 트위치 등)으로 이적한 후였고 이 일로 아프리카는 주가가 떨어지게 된다.
+활동 당시 엄청난 인기가 있던 [대도서관은](../Page/대도서관_\(방송인\).md "wikilink") 아내 [윰댕](../Page/윰댕.md "wikilink")과 함께 게임 아케론의 광고모델로 [시노자키 아이를](../Page/시노자키_아이.md "wikilink") 특별게스트로 초대해 실시간 방송을 하였다. 그런데 갑자기 아프리카TV 측에서 호스팅비용을 내지 않았으니 7일정지를 주겠다고 했었다. 최근에는 CJ측에서 아프리카로 비용을 줘야하는데 비용을 준 줄 알고 방송을 하였다고 대도서관측은 주장한다. 대도서관측은 당시 다시 아프리카TV 측에 연락을 해서 비용을 줄테니 방송 정지만은 하지말라고 하였으나 아프리카TV 측은 비용을 내지 않았으니 상업방송 정책 위반으로 7일정지를 주겠다고 하였다. 대도서관측은 유튜브 라이브로 억울함을 주장하는 방송을 송출 했다. 비난이 일자 아프리카TV 측은 다시 정책을 수정했지만 이미 수많은 유명 BJ들([양띵](https://ko.wikipedia.org/wiki/양띵 "wikilink"), [머독](../Page/머독_\(인터넷_방송인\).md "wikilink"), 풍월량 등)은 오랫동안 몸담았던 아프리카의 갑질에 실망하며 다른 플랫폼([유튜브](../Page/유튜브.md "wikilink"), [카카오TV](../Page/카카오TV.md "wikilink"), [트위치](../Page/트위치.md "wikilink") 등)으로 이적한 후였고\[21\] 이 일로 아프리카는 주가가 떨어지게 된다.
 
 ## 같이 보기
 
@@ -180,3 +178,4 @@
 18. [별풍으로는 부족했나, 마재윤 ‘스타1’ 유료강습 논란](http://www.gamemeca.com/news/news_view.html?seq=3&ymd=20120330&page=1&point_ck=&search_ym=&sort_type=&search_text=&send=&mission_num=&mission_seq=) 김미희《게임메카》12-03-30
 19. [아프리카 TV 승부조작 관련 공식 입장 발표, "불법 행위 근절에 나서겠다"](http://game.xportsnews.com/?ac=article_view&entry_id=649561)  박상진《엑스포츠뉴스》15-10-23
 20. [아프리카TV 대표, 비판 보도에 대놓고 '욕설'](http://imnews.imbc.com/replay/2016/nwdesk/article/3958818_19842.html) - MBC 뉴스, 2016년 5월 1일
+21.

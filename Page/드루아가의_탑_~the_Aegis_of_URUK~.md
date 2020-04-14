@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  \~the Aegis of URUK\~](https://ko.wikipedia.org/wiki/__\~the_Aegis_of_URUK\~).
+> This article is converted from Wikipedia: [드루아가의 탑 \~the Aegis of URUK\~](https://ko.wikipedia.org/wiki/드루아가의_탑_\~the_Aegis_of_URUK\~).
 
 
 《**드루아가의 탑 \~The Aegis of URUK\~**》는 [1984년](../Page/1984년.md "wikilink") [일본](../Page/일본.md "wikilink")의 [남코](../Page/남코.md "wikilink")에서 개발한 [액션 롤플레잉 게임](https://ko.wikipedia.org/wiki/액션_롤플레잉_게임 "wikilink") [드루아가의 탑을](../Page/드루아가의_탑.md "wikilink") 원작으로 하여 2008년에 일본의 애니메이션 제작사 [곤조](../Page/곤조.md "wikilink")가 제작한 TV애니메이션이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [2007 CONCACAF ](https://ko.wikipedia.org/wiki/2007_CONCACAF_).
+> This article is converted from Wikipedia: [2007년 CONCACAF 골드컵](https://ko.wikipedia.org/wiki/2007년_CONCACAF_골드컵).
 
 
 **2007년 CONCACAF 골드컵**(2007 CONCACAF Gold Cup)은 9번째로 개최된 [CONCACAF 골드컵으로](../Page/CONCACAF_골드컵.md "wikilink"), [북중미카리브 축구 연맹에](../Page/북중미카리브_축구_연맹.md "wikilink") 소속되어 있는 회원국들이 서로의 실력을 겨루는 축구 대회이다. 결승전에선 [미국이](../Page/미국_축구_국가대표팀.md "wikilink") [멕시코를](../Page/멕시코_축구_국가대표팀.md "wikilink") 누르고 우승하였으며, 이 대회는 [미국](../Page/미국.md "wikilink")에서 [2007년](../Page/2007년.md "wikilink") [6월 6일부터](../Page/6월_6일.md "wikilink") [6월 24일까지](../Page/6월_24일.md "wikilink") 개최되었다.

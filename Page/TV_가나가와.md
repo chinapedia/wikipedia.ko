@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TV ](https://ko.wikipedia.org/wiki/TV_).
+> This article is converted from Wikipedia: [TV 가나가와](https://ko.wikipedia.org/wiki/TV_가나가와).
 
 
 [오른쪽](https://ko.wikipedia.org/wiki/파일:Tvk_logo.jpg "wikilink") **TV 가나가와**(, )는 [1972년](../Page/1972년.md "wikilink") [4월 1일](../Page/4월_1일.md "wikilink") [가나가와현](../Page/가나가와현.md "wikilink")의 독립 UHF방송국으로 개국했다.

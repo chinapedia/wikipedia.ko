@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ S. ](https://ko.wikipedia.org/wiki/_S._).
+> This article is converted from Wikipedia: [조지 S. 패튼](https://ko.wikipedia.org/wiki/조지_S._패튼).
 
 
 **조지 스미스 패튼**(, [1885년](../Page/1885년.md "wikilink") [11월 11일](../Page/11월_11일.md "wikilink") \~ [1945년](../Page/1945년.md "wikilink") [12월 21일](../Page/12월_21일.md "wikilink"))은 [제2차 세계 대전](../Page/제2차_세계_대전.md "wikilink") 중인 1943년 \~ 1945년, 북아프리카, 시실리, 프랑스, 독일에서의 전투를 지휘한 [미국](../Page/미국.md "wikilink")의 육군 장군이다. [노르망디 상륙 작전에서](https://ko.wikipedia.org/wiki/노르망디_상륙_작전 "wikilink") 큰 활약을 하였다. 북프랑스에서 하루에 110km를 진격하기도 하였다. [프랑스](../Page/프랑스.md "wikilink")와 [나치 독일에](../Page/나치_독일.md "wikilink") 걸친 [제7군을](../Page/제7군_\(미국\).md "wikilink") 지휘하였다. [1945년](../Page/1945년.md "wikilink") [12월 9일](../Page/12월_9일.md "wikilink") 자동차 사고로 독일 [하이델베르크](../Page/하이델베르크.md "wikilink") 병원에서 사망하였다. 본래 [드와이트 아이젠하워보다](https://ko.wikipedia.org/wiki/드와이트_아이젠하워 "wikilink") 일찍 부임하였으나 진급심사에서 그에게 밀렸고 또한 유럽 전선에서는 아이젠하워의 지휘를 받게 되었다. 저돌적인 작전과 욕설을 잘 쓰는 것으로 유명하였다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
+> This article is converted from Wikipedia: [시드니 FC](https://ko.wikipedia.org/wiki/시드니_FC).
 
 
 **시드니 FC**(Sydney FC)는 [2004년](../Page/2004년.md "wikilink"), [오스트레일리아](../Page/오스트레일리아.md "wikilink")의 [A리그](../Page/A리그.md "wikilink") 소속 프로축구단으로 [오스트레일리아](../Page/오스트레일리아.md "wikilink") [뉴사우스웨일스주](../Page/뉴사우스웨일스주.md "wikilink")의 [시드니](../Page/시드니.md "wikilink")를 연고로 하며, 현재 [A리그](../Page/A리그.md "wikilink") 소속이다.

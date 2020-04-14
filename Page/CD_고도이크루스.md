@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [CD ](https://ko.wikipedia.org/wiki/CD_).
+> This article is converted from Wikipedia: [CD 고도이크루스](https://ko.wikipedia.org/wiki/CD_고도이크루스).
 
 
 **고도이크루스 안토니오 톰바**()는 [아르헨티나](../Page/아르헨티나.md "wikilink") [멘도사주](https://ko.wikipedia.org/wiki/멘도사주 "wikilink") [고도이크루스](https://ko.wikipedia.org/wiki/고도이크루스 "wikilink")를 연고로 하는 [스포츠](../Page/스포츠.md "wikilink") 클럽이다. 특히 [축구](../Page/축구.md "wikilink")로 유명하며, 최근에 [아르헨티나 프리메라 디비시온에](../Page/아르헨티나_프리메라_디비시온.md "wikilink") 승격했다.

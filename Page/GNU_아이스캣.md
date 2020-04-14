@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [GNU ](https://ko.wikipedia.org/wiki/GNU_).
+> This article is converted from Wikipedia: [GNU 아이스캣](https://ko.wikipedia.org/wiki/GNU_아이스캣).
 
 
 **GNU 아이스캣**은 이전에 **GNU 아이스위즐**로 알려져 있던,\[1\] [GNU 프로젝트에](../Page/GNU_프로젝트.md "wikilink") 의해 배포되는 [웹 브라우저이다](../Page/웹_브라우저.md "wikilink"). 아이스캣은 완전한 [자유 소프트웨어로](../Page/자유_소프트웨어.md "wikilink") 만들어졌으며, [모질라 파이어폭스의](../Page/모질라_파이어폭스.md "wikilink") 포크이다.

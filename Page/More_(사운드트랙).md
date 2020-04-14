@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [More \(\)](https://ko.wikipedia.org/wiki/More_\(\)).
+> This article is converted from Wikipedia: [More \(사운드트랙\)](https://ko.wikipedia.org/wiki/More_\(사운드트랙\)).
 
 
 《**Music from the Film More**》는 [영화](../Page/영화.md "wikilink") 《[모어](https://ko.wikipedia.org/wiki/모어_\(영화\) "wikilink")》의 [오리지널 사운드 트랙이자](https://ko.wikipedia.org/wiki/오리지널_사운드_트랙 "wikilink") [핑크 플로이드의](../Page/핑크_플로이드.md "wikilink") 세 번째 공식 음반이다. [1969년](../Page/1969년.md "wikilink") 7월 발매되었다. 13개의 비교적 짧은 곡들로 이루어져 있다.

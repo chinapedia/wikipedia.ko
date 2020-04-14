@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  b](https://ko.wikipedia.org/wiki/__b).
+> This article is converted from Wikipedia: [목동자리 타우 b](https://ko.wikipedia.org/wiki/목동자리_타우_b).
 
 
 **목동자리 타우 b** 또는 **목동자리 타우 Ab**는 지구에서 [목동자리](../Page/목동자리.md "wikilink") 방향으로 50광년 떨어진 곳에 있는 [외계 행성이다](../Page/외계_행성.md "wikilink"). [1996년](../Page/1996년.md "wikilink") 제오프리 마시와 폴 버틀러 팀은 목동자리 타우별 근처에 행성이 있음을 공표했다. 1999년 이 행성에는 ‘밀레니엄 행성’ 이라는 이름이 붙었는데, 이는 타우 b가 시각적으로 발견된 최초의 외계 행성이라는 의미였다.\[1\] 그러나 이후 타우 b를 시각적으로 관측했다는 것은 증거의 신빙성이 떨어져서 철회되었다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [VIVA ](https://ko.wikipedia.org/wiki/VIVA_).
+> This article is converted from Wikipedia: [VIVA 월드컵](https://ko.wikipedia.org/wiki/VIVA_월드컵).
 
 
 **VIVA 월드컵**은 [FIFA](https://ko.wikipedia.org/wiki/FIFA "wikilink")에 가입하지 않은 나라들의 국제적인 축구대회이다. [2006년](../Page/2006년.md "wikilink") [오시타니아](https://ko.wikipedia.org/wiki/오시타니아 "wikilink")에서 제 1회 대회가 열렸으며, 네 팀이 참가하였다. 이 중 [남카메룬은](../Page/남카메룬_축구_국가대표팀.md "wikilink") 비자 문제로 인하여 대회에 참가하지 못하였다. 이 대회는 첫 우승국은 [22px](https://ko.wikipedia.org/wiki/파일:Sami_flag.svg "wikilink") [사미이다](../Page/사미_축구_국가대표팀.md "wikilink"). 2년마다 열리는 대회이며, 우승 팀에게는 [남아프리카 공화국](../Page/남아프리카_공화국.md "wikilink") 대통령의 이름을 딴 [넬슨 만델라](../Page/넬슨_만델라.md "wikilink") 트로피가 수여된다.

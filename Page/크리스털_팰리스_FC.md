@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  FC](https://ko.wikipedia.org/wiki/__FC).
+> This article is converted from Wikipedia: [크리스털 팰리스 FC](https://ko.wikipedia.org/wiki/크리스털_팰리스_FC).
 
 
 **크리스탈 팰리스 풋볼 클럽**(Crystal Palace Football Club)는 [잉글랜드](../Page/잉글랜드.md "wikilink")의 축구 클럽으로 [런던](../Page/런던.md "wikilink")에 소재한 자치구인 크로이던 구를 연고로 한다. 이 클럽은 현재 [프리미어리그](https://ko.wikipedia.org/wiki/프리미어리그 "wikilink")에 속해 있으며 [1905년](../Page/1905년.md "wikilink")에 창립되었다. [2013년](../Page/2013년.md "wikilink") [카디프 시티](../Page/카디프_시티_FC.md "wikilink"), [헐 시티와](../Page/헐_시티_AFC.md "wikilink") 함께 프리미어리그로 승격되었다.

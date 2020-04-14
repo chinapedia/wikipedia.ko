@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FA  ](https://ko.wikipedia.org/wiki/FA__).
+> This article is converted from Wikipedia: [FA 커뮤니티 실드](https://ko.wikipedia.org/wiki/FA_커뮤니티_실드).
 
 
 **FA 커뮤니티 실드**(The Football Association Community Shield)는 [잉글랜드](../Page/잉글랜드.md "wikilink")의 축구 대회로 매년 한 경기씩 펼쳐지는 대회이다. 이 대회는 이전에 **채리티 실드**(Charity Shield)라고 불리기도 하였다. 이 대회는 [프리미어리그](https://ko.wikipedia.org/wiki/프리미어리그 "wikilink")의 우승 팀과 [FA컵](../Page/FA컵.md "wikilink")의 우승 팀끼리 단판으로 벌이는 일종의 [슈퍼컵](../Page/슈퍼컵.md "wikilink")이다. 만약 한팀이 프리미어리그와 FA컵을 모두 우승할 경우에는 프리미어리그 2위팀과 경기를 벌인다. 경기는 다음 시즌 시작 전에 펼쳐지는데, 전통적으로 [웸블리 경기장에서](https://ko.wikipedia.org/wiki/웸블리_경기장 "wikilink") 열렸고, 웸블리가 개축중일 때에는 [카디프](../Page/카디프.md "wikilink")의 [밀레니엄 경기장에서](https://ko.wikipedia.org/wiki/밀레니엄_경기장 "wikilink") 경기를 하였다. 그러나 2007년에 웸블리가 새로 만들어지면서 2000년 이후로 처음으로 커뮤니티 실드가 웸블리에서 열렸다.

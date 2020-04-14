@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [X JAPAN](https://ko.wikipedia.org/wiki/X_JAPAN).
 
 
-**X JAPAN**(엑스 재팬)은 1982년 치바현에서 드러머 겸 피아니스트 [요시키와](https://ko.wikipedia.org/wiki/요시키_\(음악가\) "wikilink") 보컬 [토시를](https://ko.wikipedia.org/wiki/토시_\(가수\) "wikilink") 중심으로 결성된 [일본](../Page/일본.md "wikilink")의 록 밴드이다.
+**X JAPAN**(엑스 재팬)은 1982년 치바현에서 드러머 겸 피아니스트 [요시키와](../Page/YOSHIKI.md "wikilink") 보컬 [토시를](../Page/PATA_\(음악가\).md "wikilink") 중심으로 결성된 [일본](../Page/일본.md "wikilink")의 록 밴드이다.
 
 엑스 재팬의 결성 당시 밴드명은 **X**였다. 그러나 미국 밴드 X와 밴드명이 동일하여 1992년에 엑스 재팬으로 밴드 명을 바꾸었다. 엑스 재팬은 [하드 록과](../Page/하드_록.md "wikilink") [파워 메탈](../Page/파워_메탈.md "wikilink")([스피드 메탈](https://ko.wikipedia.org/wiki/스피드_메탈 "wikilink")), [프로그레시브 메탈](../Page/프로그레시브_메탈.md "wikilink") 음악과 동양의 서정적 요소가 가미된 [발라드](https://ko.wikipedia.org/wiki/발라드_\(대중_음악\) "wikilink") 형식의 록 음악 등을 추구했다. 활발한 활동으로 많은 인기를 끌었으나 [1997년](../Page/1997년.md "wikilink") 해체를 맞게 되었다. 10년이 지난 [2007년](../Page/2007년.md "wikilink")에 [영화](../Page/영화.md "wikilink") [쏘우 4의](../Page/쏘우_4.md "wikilink") 엔딩테마인 신곡 〈[I.V.](../Page/I.V..md "wikilink")〉를 발표하며 재결성하였다.
 
@@ -9,7 +9,7 @@
 
 ### 결성 이전
 
-[요시키와](https://ko.wikipedia.org/wiki/요시키_\(음악가\) "wikilink") [토시는](https://ko.wikipedia.org/wiki/토시_\(가수\) "wikilink"), 4살때 부터 [록](https://ko.wikipedia.org/wiki/록 "wikilink")에 관심을 갖게 되어 [키스의](../Page/키스_\(밴드\).md "wikilink") 이야기를 하며 친분을 쌓으며 [초등학교](../Page/초등학교.md "wikilink") 6학년 때에 함께 밴드를 결성 하기로 약속한다.
+[요시키와](../Page/YOSHIKI.md "wikilink") [토시는](../Page/Toshl.md "wikilink"), 4살때 부터 [록](https://ko.wikipedia.org/wiki/록 "wikilink")에 관심을 갖게 되어 [키스의](../Page/키스_\(밴드\).md "wikilink") 이야기를 하며 친분을 쌓으며 [초등학교](../Page/초등학교.md "wikilink") 6학년 때에 함께 밴드를 결성 하기로 약속한다.
 
 중학생 시절 밴드“다이너마이트(DYNAMITE)”([1978년](../Page/1978년.md "wikilink") \~ [1980년](../Page/1980년.md "wikilink")), “노이즈(NOISE)”([1980년](../Page/1980년.md "wikilink") 여름 \~ [1982년](../Page/1982년.md "wikilink")) 등을 결성, [중학교](../Page/중학교.md "wikilink")의 [여행](../Page/여행.md "wikilink")이나 [졸업식](https://ko.wikipedia.org/wiki/졸업식 "wikilink")에 하는 [송별회](https://ko.wikipedia.org/wiki/송별회 "wikilink") 때 라이브를 했었다.
 
@@ -19,19 +19,19 @@
 
 엑스 재팬으로 이름을 바꾸기 전의 엑스는 [요시키와](https://ko.wikipedia.org/wiki/요시키_\(음악가\) "wikilink") [토시가](https://ko.wikipedia.org/wiki/토시_\(가수\) "wikilink") 1982년 [고등학교](https://ko.wikipedia.org/wiki/고등학교 "wikilink") 시절에 결성한 밴드 Noise에서 시작된다. [1984년](../Page/1984년.md "wikilink")에 [요시키와](https://ko.wikipedia.org/wiki/요시키_\(음악가\) "wikilink") [토시는](https://ko.wikipedia.org/wiki/토시_\(가수\) "wikilink") 음악 경험과 공부를 위해 [도쿄](../Page/도쿄.md "wikilink")로 떠났다. 엑스는 도쿄의 한 라이브 하우스에서 공연을 시작했고, 이때 몇 명의 멤버가 들어오면서 엑스의 첫 번째 라인업(밴드 구성원)이 결성되었다.
 
-[1985년](../Page/1985년.md "wikilink") [6월](../Page/6월.md "wikilink")에 엑스는 첫 번째 싱글 《[I'LL KILL YOU](https://ko.wikipedia.org/wiki/I'LL_KILL_YOU "wikilink")》를 발매하였는데, 예상외로 판매량이 좋아 엑스의 인지도가 높아지기 시작했다. 또한 그 해 [11월](../Page/11월.md "wikilink")에 [컴필레이션 앨범인](https://ko.wikipedia.org/wiki/컴필레이션_앨범 "wikilink") 《[Heavy Metal Force 3](https://ko.wikipedia.org/wiki/Heavy_Metal_Force_3 "wikilink")》 에 참여하면서 [요코스카 샤벨 타이거의](https://ko.wikipedia.org/wiki/요코스카_샤벨_타이거 "wikilink") 멤버인 [히데](../Page/히데.md "wikilink")를 만나게 된다. 같은 달에는 [베이시스트](https://ko.wikipedia.org/wiki/베이시스트 "wikilink")인 [타이지가](../Page/사와다_타이지.md "wikilink") 엑스에 들어왔으나 곧 [요시키와의](https://ko.wikipedia.org/wiki/요시키_\(음악가\) "wikilink") 음악적 견해 차이로 밴드를 떠나게 된다. 이 동안에 라인업은 계속 교체되었다.
+[1985년](../Page/1985년.md "wikilink") [6월](../Page/6월.md "wikilink")에 엑스는 첫 번째 싱글 《[I'LL KILL YOU](https://ko.wikipedia.org/wiki/I'LL_KILL_YOU "wikilink")》를 발매하였는데, 예상외로 판매량이 좋아 엑스의 인지도가 높아지기 시작했다. 또한 그 해 [11월](../Page/11월.md "wikilink")에 [컴필레이션 앨범인](https://ko.wikipedia.org/wiki/컴필레이션_앨범 "wikilink") 《[Heavy Metal Force 3](https://ko.wikipedia.org/wiki/Heavy_Metal_Force_3 "wikilink")》 에 참여하면서 [요코스카 샤벨 타이거의](https://ko.wikipedia.org/wiki/요코스카_샤벨_타이거 "wikilink") 멤버인 [히데](../Page/히데.md "wikilink")를 만나게 된다. 같은 달에는 [베이시스트](https://ko.wikipedia.org/wiki/베이시스트 "wikilink")인 [타이지가](../Page/사와다_타이지.md "wikilink") 엑스에 들어왔으나 곧 [요시키와의](../Page/YOSHIKI.md "wikilink") 음악적 견해 차이로 밴드를 떠나게 된다. 이 동안에 라인업은 계속 교체되었다.
 
 엑스가 계속 음반을 확실히 발매할 수 있도록, [요시키는](https://ko.wikipedia.org/wiki/요시키_\(음악가\) "wikilink") 같은 해인 1985년에 인디 레이블 업체인 [엑스타시 레코드를](https://ko.wikipedia.org/wiki/엑스타시_레코드 "wikilink") 창업하고, 이듬 해엔 더 큰 레이블 업체의 도움을 받아 싱글인 《[Orgasm](https://ko.wikipedia.org/wiki/Orgasm "wikilink")》을 발매했다.
 
-[1986년](../Page/1986년.md "wikilink") 말, [요시키와](https://ko.wikipedia.org/wiki/요시키_\(음악가\) "wikilink") [타이지는](../Page/사와다_타이지.md "wikilink") 음악적 견해를 공유하기 시작했고, 곧 [타이지는](../Page/사와다_타이지.md "wikilink") 엑스에 다시 들어오게 되었다. [1987년](../Page/1987년.md "wikilink") [1월](../Page/1월.md "wikilink")에 요시키는 주디라는 밴드의 리더인 [파타를](https://ko.wikipedia.org/wiki/파타_\(일본_음악가\) "wikilink") 접하게 되었고, 그에게 헤비 메틀 샘플 앨범인 《[Skull Thrash Zone Volume Ⅰ](https://ko.wikipedia.org/wiki/Skull_Thrash_Zone_Volume_Ⅰ "wikilink")》에 참여할 것을 청했다. 마침 엑스에 기타리스트가 부족했기 때문에 [파타는](https://ko.wikipedia.org/wiki/파타_\(일본_음악가\) "wikilink") 앨범 참여에 동의하였다. 이 때의 엑스와의 음악 활동이 바탕이 되어 [파타는](https://ko.wikipedia.org/wiki/파타_\(일본_음악가\) "wikilink") 엑스에 참여하게 된다.
+[1986년](../Page/1986년.md "wikilink") 말, [요시키와](https://ko.wikipedia.org/wiki/요시키_\(음악가\) "wikilink") [타이지는](../Page/사와다_타이지.md "wikilink") 음악적 견해를 공유하기 시작했고, 곧 [타이지는](../Page/사와다_타이지.md "wikilink") 엑스에 다시 들어오게 되었다. [1987년](../Page/1987년.md "wikilink") [1월](../Page/1월.md "wikilink")에 요시키는 주디라는 밴드의 리더인 [파타를](https://ko.wikipedia.org/wiki/파타_\(일본_음악가\) "wikilink") 접하게 되었고, 그에게 헤비 메틀 샘플 앨범인 《[Skull Thrash Zone Volume Ⅰ](https://ko.wikipedia.org/wiki/Skull_Thrash_Zone_Volume_Ⅰ "wikilink")》에 참여할 것을 청했다. 마침 엑스에 기타리스트가 부족했기 때문에 [파타는](../Page/PATA_\(음악가\).md "wikilink") 앨범 참여에 동의하였다. 이 때의 엑스와의 음악 활동이 바탕이 되어 [파타는](https://ko.wikipedia.org/wiki/파타_\(일본_음악가\) "wikilink") 엑스에 참여하게 된다.
 
-그해 [1월 28일](../Page/1월_28일.md "wikilink"), 히데가 있던 밴드 요코스카 샤벨 타이거가 해체되었다. 이 소식을 들은 [요시키는](https://ko.wikipedia.org/wiki/요시키_\(음악가\) "wikilink") 그 밴드의 기타리스트였던 히데에게 엑스의 기타리스트로 들어올 것을 청했고, [히데](../Page/히데.md "wikilink")는 엑스에 들어왔다. [히데](../Page/히데.md "wikilink")가 엑스에 들어온 직후 [파타도](https://ko.wikipedia.org/wiki/파타_\(일본_음악가\) "wikilink") 엑스에 참여하게 되어, 이 때에 엑스의 라인업은 엑스의 전성기라 할 수 있을 만큼의 최고의 멤버들로 이루어지게 되었다.
+그해 [1월 28일](../Page/1월_28일.md "wikilink"), 히데가 있던 밴드 요코스카 샤벨 타이거가 해체되었다. 이 소식을 들은 [요시키는](../Page/YOSHIKI.md "wikilink") 그 밴드의 기타리스트였던 히데에게 엑스의 기타리스트로 들어올 것을 청했고, [히데](../Page/히데.md "wikilink")는 엑스에 들어왔다. [히데](../Page/히데.md "wikilink")가 엑스에 들어온 직후 [파타도](../Page/PATA_\(음악가\).md "wikilink") 엑스에 참여하게 되어, 이 때에 엑스의 라인업은 엑스의 전성기라 할 수 있을 만큼의 최고의 멤버들로 이루어지게 되었다.
 
 ### 전성기 (1988년 \~ 1992년)
 
 [1988년](../Page/1988년.md "wikilink") [4월 14일](../Page/4월_14일.md "wikilink"), 엑스의 데뷔 앨범인 《[VANISHING VISION](../Page/VANISHING_VISION.md "wikilink")》이 엑스타시 레코드에서 발매되었고, 300시간 만에 전량 매진되었다.
 
-[6월](../Page/6월.md "wikilink")엔 “Vanishing Tour”라는 전국 투어 콘서트를 시작했고, [10월](../Page/10월.md "wikilink")엔 “Burn Out Tour”를 일본 주요 [도시](../Page/도시.md "wikilink")에서 개최하였다. 또한 엑스는 1988년에 코미디극인 “[도쿄 팝](https://ko.wikipedia.org/wiki/도쿄_팝 "wikilink")”에 참여하였다.
+[6월](../Page/6월.md "wikilink")엔 “Vanishing Tour”라는 전국 투어 콘서트를 시작했고, [10월](../Page/10월.md "wikilink")엔 “Burn Out Tour”를 일본 주요 도시에서 개최하였다. 또한 엑스는 1988년에 코미디극인 “[도쿄 팝](https://ko.wikipedia.org/wiki/도쿄_팝 "wikilink")”에 참여하였다.
 
 인디 밴드 대회에서 우승한 후, 엑스는 [소니 레코드와](https://ko.wikipedia.org/wiki/소니_레코드 "wikilink") 계약을 맺었고, [1989년](../Page/1989년.md "wikilink") [4월 21일에](../Page/4월_21일.md "wikilink") 메이저 데뷔 앨범인 《[BLUE BLOOD](../Page/BLUE_BLOOD.md "wikilink")》를 발매했다. 3월엔 “Blue Blood Tour”를 시작했다. “Blue Blood Tour”와 “Rose & Blood Tour”에서 싱글인 《[紅](https://ko.wikipedia.org/wiki/紅 "wikilink")》과 《[ENDLESS RAIN](https://ko.wikipedia.org/wiki/ENDLESS_RAIN "wikilink")》이 발매되어 일본 음악 차트에서 상위권에 머물렀고, 이들의 대표곡이 되었다. 또한, “Blue Blood Tour”의 실황을 담은 [비디오](../Page/비디오.md "wikilink")인 “[Blue Blood Tour Bakuhatsu Sunzen Gig](https://ko.wikipedia.org/wiki/Blue_Blood_Tour_Bakuhatsu_Sunzen_Gig "wikilink")”가 나왔으며, 후엔 [DVD](../Page/DVD.md "wikilink")로도 출시되었다. 그 해 엑스는 여러 개의 상을 수상하였고 많은 인기를 구가하였다.
 
@@ -39,7 +39,7 @@
 
 《Jealousy》는 [1991년](../Page/1991년.md "wikilink") 7월에 출시되었고, 5만명을 수용 할 수 있는 일본 최대의 라이브 공연장인 [도쿄 돔에서](../Page/도쿄_돔.md "wikilink") 새 앨범 발매 후 첫 번째 공연을 실시했다. 1992년에는 3일 연속으로 두 번째 도쿄돔 공연을 하게 되는데, [타이지는](../Page/사와다_타이지.md "wikilink") 2017년 개봉된 영화 WE ARE X에서 밝힌 바와 같이 말할 수 없는 타이지의 사유로 인하여 요시키에게 도쿄의 한 선술집에서 해고를 맞게 되었다. 해고를 듣게 된 타이지와 해고를 한 요시키사이에 주먹다툼이 있었지만 이내 둘은 함께 울었다고 한다. 타이지를 해고하지 않으면 엑스를 해체해야 할정도의 일이었다고 하지만 직접적인 이유에 대해서 요시키는 타이지를 보호하듯 답을 피하였다. 타이지는 엑스에서 해고된후 후 밴드 [Loudness](https://ko.wikipedia.org/wiki/Loudness "wikilink")와 [D.T.R](https://ko.wikipedia.org/wiki/D.T.R "wikilink"), [Cloud Nine](https://ko.wikipedia.org/wiki/Cloud_Nine "wikilink"), [音風](https://ko.wikipedia.org/wiki/音風 "wikilink"), [The Killing Red Addiction](https://ko.wikipedia.org/wiki/The_Killing_Red_Addiction "wikilink"), [TAIJI with HEAVENS](https://ko.wikipedia.org/wiki/TAIJI_with_HEAVENS "wikilink"), TSP에서 활동한다.
 
-[1992년](../Page/1992년.md "wikilink")에 엑스는 미국 진출을 위해 미국의 펑크 록 밴드인 [엑스와](https://ko.wikipedia.org/wiki/엑스_\(미국_밴드\) "wikilink") 이름이 겹칠것을 우려, 엑스 재팬으로 그룹명을 개명한다. 이와 동시에 탈퇴 한 타이지의 자리에 새 베이시스트 [히스를](https://ko.wikipedia.org/wiki/히스_\(음악가\) "wikilink") 영입하게 되었다.
+[1992년](../Page/1992년.md "wikilink")에 엑스는 미국 진출을 위해 미국의 펑크 록 밴드인 [엑스와](https://ko.wikipedia.org/wiki/엑스_\(미국_밴드\) "wikilink") 이름이 겹칠것을 우려, 엑스 재팬으로 그룹명을 개명한다. 이와 동시에 탈퇴 한 타이지의 자리에 새 베이시스트 [히스를](../Page/HEATH.md "wikilink") 영입하게 되었다.
 
 ### 변화와 해체 (1993년 \~ 1997년)
 
@@ -53,7 +53,7 @@
 
 ### 해체 이후 (1998년 \~ 2007년)
 
-해체 이후에도 엑스 재팬의 컴플레이션 음반과 라이브 음반은 계속 발매되었다. 해체 이후의 엑스 재팬의 멤버들은 다양한 프로젝트에 임했다. [히데](../Page/히데.md "wikilink")는 계속해서 전에 자신이 소속했던 밴드의 인원 일부가 포함된 [Spread Beaver라는](https://ko.wikipedia.org/wiki/Spread_Beaver "wikilink") 밴드와 함께 솔로 활동을 계속 했다. 싱글인 《[ROCKET DIVE](https://ko.wikipedia.org/wiki/ROCKET_DIVE "wikilink")》로 성공을 거두게 되고 1998년 그의 유작인 《[PINK SPIDER](https://ko.wikipedia.org/wiki/PINK_SPIDER "wikilink")》는 처음이자 마지막으로 밀리언 셀러로 기록된다. 그리고, 1997년 [2000년](../Page/2000년.md "wikilink")에 재결성을 염두에 두고 엑스 재팬은 해체되었지만, 1998년 5월 2일 [히데](../Page/히데.md "wikilink")의 죽음으로 사실상 이룰 수 없는 일이 되어버린다.
+해체 이후에도 엑스 재팬의 컴플레이션 음반과 라이브 음반은 계속 발매되었다. 해체 이후의 엑스 재팬의 멤버들은 다양한 프로젝트에 임했다. [히데](../Page/히데.md "wikilink")는 계속해서 전에 자신이 소속했던 밴드의 인원 일부가 포함된 Spread Beaver라는 밴드와 함께 솔로 활동을 계속 했다. 싱글인 《[ROCKET DIVE](https://ko.wikipedia.org/wiki/ROCKET_DIVE "wikilink")》로 성공을 거두게 되고 1998년 그의 유작인 《[PINK SPIDER](https://ko.wikipedia.org/wiki/PINK_SPIDER "wikilink")》는 처음이자 마지막으로 밀리언 셀러로 기록된다. 그리고, 1997년 [2000년](../Page/2000년.md "wikilink")에 재결성을 염두에 두고 엑스 재팬은 해체되었지만, 1998년 5월 2일 [히데](../Page/히데.md "wikilink")의 죽음으로 사실상 이룰 수 없는 일이 되어버린다.
 
 [토시는](https://ko.wikipedia.org/wiki/토시_\(가수\) "wikilink") 여러 개의 솔로 앨범을 발매하고 각지의 사회 봉사시설이나 대형마트행사 등을 방문하며 [1999년](../Page/1999년.md "wikilink")부터 [2003년](../Page/2003년.md "wikilink")까지 여러차례 라이브를 열었다고 한다. 이 활동은 사이비종교 홍보목적겸 앵벌이라고 알려졌다.
 
@@ -99,13 +99,13 @@
 
 다른 일본 밴드들처럼, 엑스 재팬의 전 멤버들은 예명을 사용했다.
 
-  - [요시키](https://ko.wikipedia.org/wiki/요시키_\(음악가\) "wikilink")(하야시 요시키, 林佳樹) (드럼, 피아노)
-  - [토시](https://ko.wikipedia.org/wiki/토시_\(가수\) "wikilink")(데야마 토시미츠, 出山利三) (보컬)
+  - [요시키](../Page/YOSHIKI.md "wikilink")(하야시 요시키, 林佳樹) (드럼, 피아노)
+  - [토시](../Page/Toshl.md "wikilink")(데야마 토시미츠, 出山利三) (보컬)
   - [히데](../Page/히데.md "wikilink")(마츠모토 히데토, 松本秀人) (기타)
-  - [파타](https://ko.wikipedia.org/wiki/파타_\(일본의_음악가\) "wikilink")(이시즈카 토모아키, 石塚智昭) (기타)
+  - [파타](../Page/PATA_\(음악가\).md "wikilink")(이시즈카 토모아키, 石塚智昭) (기타)
   - [타이지](../Page/사와다_타이지.md "wikilink") (사와다 타이지, 沢田泰司) (베이스)
-  - [히스](https://ko.wikipedia.org/wiki/히스_\(음악가\) "wikilink")(모리에 히로시, 森江博) (베이스)
-  - [스기조](https://ko.wikipedia.org/wiki/스기조 "wikilink")(스기하라 유네,杉原有音) (기타, 바이올린)
+  - [히스](../Page/HEATH.md "wikilink")(모리에 히로시, 森江博) (베이스)
+  - [스기조](../Page/SUGIZO.md "wikilink")(스기하라 유네,杉原有音) (기타, 바이올린)
 
 ## 이전 구성원
 
@@ -131,18 +131,18 @@
 파트 체인지 1
 
   - 보컬 : [히데](../Page/히데.md "wikilink")
-  - 기타 : [요시키](https://ko.wikipedia.org/wiki/요시키_\(음악가\) "wikilink")
-  - 기타 : [토시](https://ko.wikipedia.org/wiki/토시_\(가수\) "wikilink")
-  - 베이스 : [파타](https://ko.wikipedia.org/wiki/파타_\(일본_음악가\) "wikilink")
+  - 기타 : [요시키](../Page/YOSHIKI.md "wikilink")
+  - 기타 : [토시](../Page/Toshl.md "wikilink")
+  - 베이스 : [파타](../Page/PATA_\(음악가\).md "wikilink")
   - 드럼 : [타이지](../Page/사와다_타이지.md "wikilink")
 
 파트 체인지 2
 
   - 보컬 : [히데](../Page/히데.md "wikilink")
-  - 기타 : [요시키](https://ko.wikipedia.org/wiki/요시키_\(음악가\) "wikilink")
+  - 기타 : [요시키](../Page/YOSHIKI.md "wikilink")
   - 기타 : [타이지](../Page/사와다_타이지.md "wikilink")
-  - 베이스 : [파타](https://ko.wikipedia.org/wiki/파타_\(일본_음악가\) "wikilink")
-  - 드럼 : [토시](https://ko.wikipedia.org/wiki/토시_\(가수\) "wikilink")
+  - 베이스 : [파타](../Page/PATA_\(음악가\).md "wikilink")
+  - 드럼 : [토시](../Page/Toshl.md "wikilink")
 
 ## 음반 목록
 

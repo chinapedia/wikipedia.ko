@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ DS  ](https://ko.wikipedia.org/wiki/_DS__).
+> This article is converted from Wikipedia: [닌텐도 DS의 게임 목록](https://ko.wikipedia.org/wiki/닌텐도_DS의_게임_목록).
 
 
 이 문서는 정식 발매된 [닌텐도 DS](../Page/닌텐도_DS.md "wikilink") [소프트웨어](../Page/소프트웨어.md "wikilink") 목록이다. 직수입 형태로 발매된 소프트웨어는 제외한다.

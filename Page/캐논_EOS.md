@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ EOS](https://ko.wikipedia.org/wiki/_EOS).
+> This article is converted from Wikipedia: [캐논 EOS](https://ko.wikipedia.org/wiki/캐논_EOS).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Canon_EOS_1Ds_Mark_III_0809.jpg "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:Canon_EOS-1D.jpg "wikilink") [썸네일](https://ko.wikipedia.org/wiki/파일:Canon_7D_img_002.jpg "wikilink")

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [F ](https://ko.wikipedia.org/wiki/F_).
+> This article is converted from Wikipedia: [F형 주계열성](https://ko.wikipedia.org/wiki/F형_주계열성).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:New_Insights_into_Debris_Discs.jpg "wikilink") **F형 주계열성**(**F V**)은 [주계열](../Page/주계열.md "wikilink")성 중 [분광형](../Page/항성분류.md "wikilink") F에 속하는 [항성](https://ko.wikipedia.org/wiki/항성 "wikilink")이다. [질량](https://ko.wikipedia.org/wiki/질량 "wikilink")은 [태양](../Page/태양.md "wikilink")의 1 \~ 1.4배에 [표면 온도는](../Page/유효온도.md "wikilink") 6000 \~ 7600 [켈빈](../Page/켈빈.md "wikilink")이다.\[1\]<sup>Tables VII, VIII.</sup> 이 온도 범위에서 F형 주계열성은 황백색으로 빛난다. 주계열성을 왜성(矮星)으로 달리 부르기도 하는데, 이에 따라 F형 주계열성을 황백색 왜성으로 부르기도 한다. 유명한 F형 왜성으로는 [프로키온](../Page/프로키온.md "wikilink") A, [처녀자리 감마](../Page/포리마.md "wikilink") A/B,\[2\] KIC 8462852가 있다.

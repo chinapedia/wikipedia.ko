@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FC  ](https://ko.wikipedia.org/wiki/FC__).
+> This article is converted from Wikipedia: [FC 로코모티프 모스크바](https://ko.wikipedia.org/wiki/FC_로코모티프_모스크바).
 
 
 **FC 로코모티프 모스크바**()는 [모스크바](../Page/모스크바.md "wikilink")를 연고로 하는 [러시아](../Page/러시아.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다. 이 축구단은 [1923년](../Page/1923년.md "wikilink") 창단되었다. 현재 [러시아 프리미어리그에](../Page/러시아_프리미어리그.md "wikilink") 속해 있으며 2018-19시즌은 2위로 마감하였다.

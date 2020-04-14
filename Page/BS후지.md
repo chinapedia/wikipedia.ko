@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [BS](https://ko.wikipedia.org/wiki/BS).
+> This article is converted from Wikipedia: [BS후지](https://ko.wikipedia.org/wiki/BS후지).
 
 
 **BS후지**는 [일본](../Page/일본.md "wikilink")의 민영방송국 [후지 TV의](../Page/후지_TV.md "wikilink") BS위탁방송 사업자이다.

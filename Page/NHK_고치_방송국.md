@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [NHK  ](https://ko.wikipedia.org/wiki/NHK__).
+> This article is converted from Wikipedia: [NHK 고치 방송국](https://ko.wikipedia.org/wiki/NHK_고치_방송국).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:NHK-Kochi.png "wikilink") **NHK 고치 방송국**(高知 放送局)은 [고치현](../Page/고치현.md "wikilink")을 방송구역으로 하는 NHK의 지역방송국이며 중파·FM라디오·텔레비전 방송을 담당하고 있다.

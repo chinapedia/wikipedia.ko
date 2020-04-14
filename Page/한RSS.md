@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [RSS](https://ko.wikipedia.org/wiki/RSS).
+> This article is converted from Wikipedia: [한RSS](https://ko.wikipedia.org/wiki/한RSS).
 
 
 **한알에스에스**(HanRSS)는 웹기반 RSS 리더(Reader)이며, [RSS](../Page/RSS.md "wikilink") 및 Atom 포맷으로 배포되는 피드를 구독하는 데 사용된다. 2005년 10월 개발자 [서성렬](http://www.aruworks.com/profile/srseo) 에 의해 사이트가 오픈되었고, 2007년 7월 설립된 [아루웍스](http://www.aruworks.com/) 에 의해 운영하고 있었으나, 2015년 5월 31일부로 서비스를 종료하였다.

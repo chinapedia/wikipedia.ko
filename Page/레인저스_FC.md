@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
+> This article is converted from Wikipedia: [레인저스 FC](https://ko.wikipedia.org/wiki/레인저스_FC).
 
 
 **레인저스 풋볼 클럽**(Rangers Football Club)은 [글래스고](../Page/글래스고.md "wikilink")를 연고로 하는 [스코틀랜드](../Page/스코틀랜드.md "wikilink")의 [축구](../Page/축구.md "wikilink")팀으로, 스코틀랜드 리그 2(스코틀랜드 프로 축구 3부 리그에 해당)에서 무패 우승을 하여 현재는 스코틀랜드 풋볼 리그 1부(Scottish Football League First Division)에 속해있다. 이 축구단은 [1872년](../Page/1872년.md "wikilink") 창단되었으며, 2012년까지 [스코틀랜드 프리미어리그에](https://ko.wikipedia.org/wiki/스코틀랜드_프리미어리그 "wikilink") 속해 있었다. [셀틱 FC와](../Page/셀틱_FC.md "wikilink") 함께 레인저스 FC는 [스코틀랜드 프리미어리그를](https://ko.wikipedia.org/wiki/스코틀랜드_프리미어리그 "wikilink") 대표하는 양대 축이다. 홈 구장은 [아이브록스 경기장이며](https://ko.wikipedia.org/wiki/아이브록스_경기장 "wikilink") 총 수용인원은 50,817명이다.

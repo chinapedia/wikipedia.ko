@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FC ](https://ko.wikipedia.org/wiki/FC_).
+> This article is converted from Wikipedia: [FC 취리히](https://ko.wikipedia.org/wiki/FC_취리히).
 
 
 **FC 취리히**()는 [스위스](https://ko.wikipedia.org/wiki/스위스 "wikilink")의 축구 클럽으로, [1896년](../Page/1896년.md "wikilink")에 창단되었다. 현재 [스위스 슈퍼리그에](../Page/스위스_슈퍼리그.md "wikilink") 속해 있으며, [스위스](https://ko.wikipedia.org/wiki/스위스 "wikilink") 최대의 도시인 **[취리히](../Page/취리히.md "wikilink")**를 연고로 한다.

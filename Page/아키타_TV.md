@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ TV](https://ko.wikipedia.org/wiki/_TV).
+> This article is converted from Wikipedia: [아키타 TV](https://ko.wikipedia.org/wiki/아키타_TV).
 
 
 **아키타 TV**는 [1969년](../Page/1969년.md "wikilink") [12월 1일](../Page/12월_1일.md "wikilink") [아키타현](../Page/아키타현.md "wikilink")의 2번째 민영방송국으로 개국했다.

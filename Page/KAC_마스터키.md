@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KAC ](https://ko.wikipedia.org/wiki/KAC_).
+> This article is converted from Wikipedia: [KAC 마스터키](https://ko.wikipedia.org/wiki/KAC_마스터키).
 
 
 **KAC 마스터키**()는 [레밍턴 M870을](../Page/레밍턴_M870.md "wikilink") 개조하여 총열하부 장착할 수 있도록 개조한 [산탄총](https://ko.wikipedia.org/wiki/산탄총 "wikilink")으로, [1980년대](../Page/1980년대.md "wikilink")부터 [KAC에서](https://ko.wikipedia.org/wiki/:en:Knight's_Armament_Company "wikilink") 생산하고 있다.

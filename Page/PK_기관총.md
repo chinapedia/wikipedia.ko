@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [PK ](https://ko.wikipedia.org/wiki/PK_).
+> This article is converted from Wikipedia: [PK 기관총](https://ko.wikipedia.org/wiki/PK_기관총).
 
 
 **PK**(, 칼라시니코프 기관총)은 [7.62 × 54 mm R](https://ko.wikipedia.org/wiki/7.62_×_54_mm_R "wikilink") 탄을 사용하는 [다목적 기관총이다](../Page/다목적_기관총.md "wikilink"). PK 기관총에 대응하는 [NATO](https://ko.wikipedia.org/wiki/NATO "wikilink")측의 기관총으로는 [FN MAG](../Page/FN_MAG.md "wikilink"), [MG3](https://ko.wikipedia.org/wiki/MG3 "wikilink"), [M60 기관총](../Page/M60_기관총.md "wikilink") 등이 있다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [AVC](https://ko.wikipedia.org/wiki/AVC).
+> This article is converted from Wikipedia: [코어AVC](https://ko.wikipedia.org/wiki/코어AVC).
 
 
 **코어AVC**()은 코어코덱 사가 개발한 비디오 디코더이다. [MPEG-4 AVC(H.264)](https://ko.wikipedia.org/wiki/H.264/AVC "wikilink") 포맷을 디코딩해준다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ FX ](https://ko.wikipedia.org/wiki/_FX_).
+> This article is converted from Wikipedia: [지포스 FX 시리즈](https://ko.wikipedia.org/wiki/지포스_FX_시리즈).
 
 
 **지포스 FX**(GeForce FX)는 [엔비디아](../Page/엔비디아.md "wikilink") 제조업체의 [그래픽 카드의](../Page/그래픽_카드.md "wikilink") 한 이름이다. [코드네임](https://ko.wikipedia.org/wiki/코드네임 "wikilink")은 NV30이며, **지포스 5**로도 불린다. [섬네일](https://ko.wikipedia.org/wiki/파일:NVIDIA_GeForce_FX_5800_Ultra_ES.jpg "wikilink")

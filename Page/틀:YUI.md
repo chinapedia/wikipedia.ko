@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:YUI](https://ko.wikipedia.org/wiki/:YUI).
+> This article is converted from Wikipedia: [틀:YUI](https://ko.wikipedia.org/wiki/틀:YUI).
 
 
 <onlyinclude></onlyinclude>

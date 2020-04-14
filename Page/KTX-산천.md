@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KTX-](https://ko.wikipedia.org/wiki/KTX-).
+> This article is converted from Wikipedia: [KTX-산천](https://ko.wikipedia.org/wiki/KTX-산천).
 
 
 **KTX-산천**(KTX-山川, KTX-Sancheon) 또는 **SRT**(Super Rapid Train)는 [한국철도공사](../Page/한국철도공사.md "wikilink")와 [에스알](../Page/에스알.md "wikilink")에서 각각 운용하는 [고속철도](../Page/고속철도.md "wikilink") 차량이다. 기존 [KTX-I](../Page/KTX-I.md "wikilink")\[1\]의 후계 차량이라는 점에서 초기에는 “KTX-II”로 불리었으나, 한국철도공사에서 연 공모전의 결과 [2010년](../Page/2010년.md "wikilink") [2월 28일](../Page/2월_28일.md "wikilink") “KTX-산천”이라는 명칭이 확정되었다. 차량은 한국철도공사가 직접 보유, 운영하는 110000호대와 140000호대, 한국철도공사가 보유하고 에스알이 이를 임대해서 운용하는 120000호대, 에스알이 직접 보유 및 운용하는 130000호대로 구분된다. 시험차량 [HSR-350x](../Page/HSR-350x.md "wikilink")의 시험 결과를 반영하여 설계되었으며, 모든 차량이 [현대로템](../Page/현대로템.md "wikilink")에서 제작되었다.
@@ -24,7 +24,7 @@ KTX-산천은 [KTX-I](../Page/KTX-I.md "wikilink"), [HSR-350x](../Page/HSR-350x.
 
 ### 특이 사항
 
-  - 두 개의 편성을 한대로 붙여 운행하는 방식의 중련 운행이 가능하다. 특히 양쪽 선두부에 전공일체 자동연결장치를 적용해 수요에 따른 탄력적 운용이 가능하며 [경부선](../Page/경부선.md "wikilink"), [동해선](https://ko.wikipedia.org/wiki/동해선 "wikilink"), [경전선](../Page/경전선.md "wikilink") / [호남선](../Page/호남선.md "wikilink"), [전라선](../Page/전라선.md "wikilink") 열차에서는 이를 이용한 중련 열차를 운행하고 있다. 중련 운행시 9, 10호차 없이 남측 편성의 차량번호가 11\~18호차로 변경된다. 급전은 각 편성이 별도로 편성 후미가 되는 동력차의 집전장치를 사용한다. [2011년](../Page/2011년.md "wikilink") [5월 16일부터](../Page/5월_16일.md "wikilink") [2012년](../Page/2012년.md "wikilink") [10월 31일까지는](../Page/10월_31일.md "wikilink") 중련 운행이 일시 중단되기도 했다.\[2\]
+  - 두 개의 편성을 한대로 붙여 운행하는 방식의 중련 운행이 가능하다. 특히 양쪽 선두부에 전공일체 자동연결장치를 적용해 수요에 따른 탄력적 운용이 가능하며 [경부선](../Page/경부선.md "wikilink"), [동해선](https://ko.wikipedia.org/wiki/동해선 "wikilink"), [경전선](../Page/경전선.md "wikilink"), [호남선](../Page/호남선.md "wikilink"), [전라선](../Page/전라선.md "wikilink") 열차에서는 이를 이용한 중련 열차를 운행하고 있다. 중련 운행시 9, 10호차 없이 남측 편성의 차량번호가 11\~18호차로 변경된다. 급전은 각 편성이 별도로 편성 후미가 되는 동력차의 집전장치를 사용한다. [2011년](../Page/2011년.md "wikilink") [5월 16일부터](../Page/5월_16일.md "wikilink") [2012년](../Page/2012년.md "wikilink") [10월 31일까지는](../Page/10월_31일.md "wikilink") 중련 운행이 일시 중단되기도 했다.\[2\]
 
 ## KTX-산천 110000호대 (A-Type)
 

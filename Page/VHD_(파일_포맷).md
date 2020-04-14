@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [VHD \( \)](https://ko.wikipedia.org/wiki/VHD_\(_\)).
+> This article is converted from Wikipedia: [VHD \(파일 포맷\)](https://ko.wikipedia.org/wiki/VHD_\(파일_포맷\)).
 
 
 **가상 하드 디스크**(Virtual Hard Disk, VHD)는 [버추얼 PC](https://ko.wikipedia.org/wiki/버추얼_PC "wikilink") 2004 ([커넥틱스](https://ko.wikipedia.org/wiki/커넥틱스 "wikilink")사가 개발)와 마이크로소프트사의 [버추얼 서버](https://ko.wikipedia.org/wiki/버추얼_서버 "wikilink") 2005 R2에 쓰이는 기술이다. 2005년 6월 이후로 마이크로소프트사는 VHD 이미지 포맷 규격을 만들어 [마이크로소프트 오픈 규격 약정](https://ko.wikipedia.org/wiki/마이크로소프트_오픈_규격_약정 "wikilink") 하에 서드파티에게 제공하고 있다.

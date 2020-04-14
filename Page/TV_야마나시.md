@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TV ](https://ko.wikipedia.org/wiki/TV_).
+> This article is converted from Wikipedia: [TV 야마나시](https://ko.wikipedia.org/wiki/TV_야마나시).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:UTY-TVYmanashi.JPG "wikilink") **TV 야마나시**(()는[1970년](../Page/1970년.md "wikilink") [4월 1일](../Page/4월_1일.md "wikilink") [야마나시현](../Page/야마나시현.md "wikilink")의 2번째이자 마지막 민영방송국으로 개국했다.

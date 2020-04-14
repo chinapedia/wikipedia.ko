@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ A  ](https://ko.wikipedia.org/wiki/_A__).
+> This article is converted from Wikipedia: [세리에 A 올해의 감독](https://ko.wikipedia.org/wiki/세리에_A_올해의_감독).
 
 
 **세리에 A 올해의 감독**은 이탈리아 축구선수 협회에서 수상하는 [세리에 A에서](../Page/세리에_A.md "wikilink") 가장 잘한 모습을 보여준 감독에게 수상하는 상이다. 이 상은 [칼치오 오스카의](https://ko.wikipedia.org/wiki/칼치오_오스카 "wikilink") 한 부분이다.

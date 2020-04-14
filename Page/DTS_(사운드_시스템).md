@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [DTS \( \)](https://ko.wikipedia.org/wiki/DTS_\(_\)).
+> This article is converted from Wikipedia: [DTS \(사운드 시스템\)](https://ko.wikipedia.org/wiki/DTS_\(사운드_시스템\)).
 
 
 **DTS**는 상용/극장/소비자 등급에 쓰이는 다중 채널 디지털 서라운드 사운드 포맷이다. 또, 이 DTS를 개발한 **DTS 주식회사**()는 [미국](../Page/미국.md "wikilink")의 오디오 표준 개발 회사의 이름이기도 하다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Common.js](https://ko.wikipedia.org/wiki/:Common.js).
+> This article is converted from Wikipedia: [미디어위키:Common.js](https://ko.wikipedia.org/wiki/미디어위키:Common.js).
 
 
 /\*\*

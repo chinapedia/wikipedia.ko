@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TRY -RETURN TO YOURSELF-](https://ko.wikipedia.org/wiki/TRY_-RETURN_TO_YOURSELF-).
+> This article is converted from Wikipedia: [T・R・Y -RETURN TO YOURSELF-](https://ko.wikipedia.org/wiki/T・R・Y_-RETURN_TO_YOURSELF-).
 
 
 〈**T·R·Y -RETURN TO YOURSELF-**〉(; )는 [TWO-MIX](../Page/TWO-MIX.md "wikilink")의 3번째 싱글이다.

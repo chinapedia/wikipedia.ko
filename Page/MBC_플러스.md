@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [MBC ](https://ko.wikipedia.org/wiki/MBC_).
+> This article is converted from Wikipedia: [MBC 플러스](https://ko.wikipedia.org/wiki/MBC_플러스).
 
 
 **엠비씨플러스**()는 [문화방송](../Page/문화방송.md "wikilink")의 [유료방송](../Page/대한민국의_케이블TV_방송.md "wikilink") [채널을](https://ko.wikipedia.org/wiki/채널_\(통신\) "wikilink") 운영하는 [기업](https://ko.wikipedia.org/wiki/기업 "wikilink")으로 현재 7개의 채널을 운영하고 있다.

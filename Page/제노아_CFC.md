@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ CFC](https://ko.wikipedia.org/wiki/_CFC).
+> This article is converted from Wikipedia: [제노아 CFC](https://ko.wikipedia.org/wiki/제노아_CFC).
 
 
 **제노아 크리켓 앤 풋볼 클럽**(Genoa Cricket and Football Club SpA)는 [제노바](../Page/제노바.md "wikilink")에 위치한 [루이지 페라리스](https://ko.wikipedia.org/wiki/루이지_페라리스 "wikilink") 경기장을 근거로 하는 [이탈리아](../Page/이탈리아.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다.

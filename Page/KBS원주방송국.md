@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KBS](https://ko.wikipedia.org/wiki/KBS).
+> This article is converted from Wikipedia: [KBS원주방송국](https://ko.wikipedia.org/wiki/KBS원주방송국).
 
 
 **KBS원주방송국**(KBS原州放送局)은 [강원도](../Page/강원도.md "wikilink") 영서 남부지역을 대상으로 하는 [KBS 춘천방송총국](https://ko.wikipedia.org/wiki/KBS_춘천방송총국 "wikilink") 소속 산하의 지역국이다. 1964년 개국하여 1986년 12월 [한국방송공사](../Page/한국방송공사.md "wikilink") 공사 직제개편으로 KBS춘천방송총국 산하 원주방송국으로 개편되었다.
@@ -165,19 +165,19 @@
 
 #### 1라디오
 
-  - [상쾌한 아침 원주에서 출발합니다](https://ko.wikipedia.org/wiki/상쾌한_아침_원주에서_출발합니다 "wikilink")(월-금,8:30\~8:58)(진행 : 한태호)
-  - [라디오에 물어보세요](http://program.kbs.co.kr/1radio/local/radiowon/pc/index.html)(월-금,11:10-11:40)(진행 : 김혜정)
-  - [생방송 오늘 원주입니다](http://program.kbs.co.kr/1radio/local/todaywon/pc/index.html) (월-금,17:05\~17:58)(진행 : 김혜정)
+  - [상쾌한 아침 원주에서 출발합니다](https://ko.wikipedia.org/wiki/상쾌한_아침_원주에서_출발합니다 "wikilink")(평일 8:30\~8:58, 진행 : 한태호)
+  - [라디오에 물어보세요](http://program.kbs.co.kr/1radio/local/radiowon/pc/index.html)(평일 11:10-11:40, 진행 : 김혜정)
+  - [생방송 오늘 원주입니다](http://program.kbs.co.kr/1radio/local/todaywon/pc/index.html) (평일 17:05\~17:58, 진행 : 김혜정)
 
 #### 라디오뉴스
 
-| 프로그램명                                                      | 방송시간                | 편성시간              | 진행            |
-| ---------------------------------------------------------- | ------------------- | ----------------- | ------------- |
-| KBS 제1라디오 9시 뉴스                                            | 월요일 \~ 금요일 5분       | 오전 9시 \~ 9시 5분    | 김혜정(TV:평일)    |
-| [KBS 제1라디오 정오종합뉴스](../Page/KBS_제1라디오_정오종합뉴스.md "wikilink") | 낮 12시 15분\~ 12시 20분 | 한태호(TV:평일)        |               |
-| KBS 제1라디오 오후 5시 뉴스                                         | 오후 5시 \~ 5시 5분      | 춘천 수중계(TV:평일)     |               |
-| KBS 제1라디오 오후 6시 뉴스                                         | 토요일 \~ 일요일 5분       | 오후 6시 \~ 오후 6시 5분 | 춘천 수중계(TV:주말) |
-|                                                            |                     |                   |               |
+| 프로그램명                                                      | 방송시간                | 편성시간              | 진행     |
+| ---------------------------------------------------------- | ------------------- | ----------------- | ------ |
+| KBS 제1라디오 9시 뉴스                                            | 월요일 \~ 금요일 5분       | 오전 9시 \~ 9시 5분    | 김혜정    |
+| [KBS 제1라디오 정오종합뉴스](../Page/KBS_제1라디오_정오종합뉴스.md "wikilink") | 낮 12시 15분\~ 12시 20분 | 한태호               |        |
+| KBS 제1라디오 오후 5시 뉴스                                         | 오후 5시 \~ 5시 5분      | 춘천 수중계            |        |
+| KBS 제1라디오 오후 6시 뉴스                                         | 토요일 \~ 일요일 5분       | 오후 6시 \~ 오후 6시 5분 | 춘천 수중계 |
+|                                                            |                     |                   |        |
 
 #### 음악FM
 
@@ -227,6 +227,6 @@
 
 ## 외부 링크
 
-  - [KBS 원주방송국 공식 홈페이지](http://wonju.kbs.co.kr/)
+  - [KBS 원주방송국 홈페이지](http://wonju.kbs.co.kr/)
 
 [원주](https://ko.wikipedia.org/wiki/분류:한국방송공사의_지역방송국 "wikilink") [분류:1964년 설립](https://ko.wikipedia.org/wiki/분류:1964년_설립 "wikilink") [분류:대한민국의 강원도 지상파 방송국](https://ko.wikipedia.org/wiki/분류:대한민국의_강원도_지상파_방송국 "wikilink") [분류:원주시](https://ko.wikipedia.org/wiki/분류:원주시 "wikilink")

@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [FC  ](https://ko.wikipedia.org/wiki/FC__).
+> This article is converted from Wikipedia: [FC 루치 블라디보스토크](https://ko.wikipedia.org/wiki/FC_루치_블라디보스토크).
 
 
-**FC 루치 블라디보스토크** ()는 [러시아](../Page/러시아.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽으로 러시아의 동쪽 끝에 있는 [블라디보스토크](../Page/블라디보스토크.md "wikilink")에 연고를 두고 있다.
+**FC 루치 블라디보스토크**()는 [러시아](../Page/러시아.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽으로 러시아의 동쪽 끝에 있는 [블라디보스토크](../Page/블라디보스토크.md "wikilink")에 연고를 두고 있다.
 
 2005시즌에 1부 리그를 우승하면서 2006시즌부터 러시아 프리미어리그에서 활동하고 있다.
 

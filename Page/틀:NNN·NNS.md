@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:NNNNNS](https://ko.wikipedia.org/wiki/:NNNNNS).
+> This article is converted from Wikipedia: [틀:NNN·NNS](https://ko.wikipedia.org/wiki/틀:NNN·NNS).
 
 
 <onlyinclude></onlyinclude>

@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [EFL](https://ko.wikipedia.org/wiki/EFL).
+> This article is converted from Wikipedia: [EFL컵](https://ko.wikipedia.org/wiki/EFL컵).
 
 
-**EFL컵**(EFL Cup), 일반적으로 **리그컵**(League Cup)이라고 알려진 이 대회는 [잉글랜드](../Page/잉글랜드.md "wikilink")의 축구 대회이다. 과거 풋볼 리그 컵으로 불렸지만 2016-17 대회부터 현재의 EFL컵으로 개칭되었다. [FA 컵과](https://ko.wikipedia.org/wiki/FA_컵 "wikilink") 마찬가지로 녹아웃 방식을 채택하고 있다. 2007-08시즌에 [FA 컵에](https://ko.wikipedia.org/wiki/FA_컵 "wikilink") 731개 팀이 참가한 것에 반해 리그컵에는 오직 92개 팀—[프리미어리그](https://ko.wikipedia.org/wiki/프리미어리그 "wikilink")의 20개팀, [풋볼 리그의](https://ko.wikipedia.org/wiki/풋볼_리그 "wikilink") 72개팀—만이 참가한다. [FA 컵과는](https://ko.wikipedia.org/wiki/FA_컵 "wikilink") 달리 준결승부터는 홈 앤 원정 방식으로 두 번 경기하게 된다. 리그컵 우승 팀은 [UEFA 유로파리그](../Page/UEFA_유로파리그.md "wikilink") 진출권을 얻게 된다. 이는 유럽대회에 참가하지 못하는 중상위팀에게는 좋은 기회로 여겨진다. 만약 우승 팀이 리그 순위에 따라 [UEFA 챔피언스리그에](../Page/UEFA_챔피언스리그.md "wikilink") 진출해 있다면, [UEFA 유로파리그](../Page/UEFA_유로파리그.md "wikilink") 진출권은 유럽 대회에 진출하지 못한 팀 가운데 가장 높은 순위의 팀에게 주어지게 된다. 국내 중계권이 없었지만 SBS Sports가 중계권을 사들여서 국내 최초로 2018-19대회 4강부터 국내에서 시청이 가능하다.
+**EFL컵**(EFL Cup), 일반적으로 **리그컵**(League Cup)이라고 알려진 이 대회는 [잉글랜드](../Page/잉글랜드.md "wikilink")의 축구 대회이다. 과거 풋볼 리그 컵으로 불렸지만 2016-17 대회부터 현재의 EFL컵으로 개칭되었다. [FA 컵과](https://ko.wikipedia.org/wiki/FA_컵 "wikilink") 마찬가지로 녹아웃 방식을 채택하고 있다. 2007-08시즌에 [FA 컵에](https://ko.wikipedia.org/wiki/FA_컵 "wikilink") 731개 팀이 참가한 것에 반해 리그컵에는 오직 92개 팀—[프리미어리그](https://ko.wikipedia.org/wiki/프리미어리그 "wikilink")의 20개팀, [풋볼 리그의](https://ko.wikipedia.org/wiki/풋볼_리그 "wikilink") 72개팀—만이 참가한다. [FA 컵과는](https://ko.wikipedia.org/wiki/FA_컵 "wikilink") 달리 준결승부터는 홈 앤 원정 방식으로 두 번 경기하게 된다. 리그컵 우승 팀은 [UEFA 유로파리그](../Page/UEFA_유로파리그.md "wikilink") 진출권을 얻게 된다. 이는 유럽대회에 참가하지 못하는 중상위팀에게는 좋은 기회로 여겨진다. 만약 우승 팀이 리그 순위에 따라 [UEFA 챔피언스리그에](../Page/UEFA_챔피언스리그.md "wikilink") 진출해 있다면, [UEFA 유로파리그](../Page/UEFA_유로파리그.md "wikilink") 진출권은 유럽 대회에 진출하지 못한 팀 가운데 가장 높은 순위의 팀에게 주어지게 된다.
 
 ## 역사
 
@@ -135,6 +135,7 @@
 | 2016-2017 | [맨체스터 유나이티드](../Page/맨체스터_유나이티드_FC.md "wikilink")                    | [사우샘프턴](../Page/사우샘프턴_FC.md "wikilink")                              |
 | 2017-2018 | [맨체스터 시티](../Page/맨체스터_시티_FC.md "wikilink")                          | [아스널](../Page/아스널_FC.md "wikilink")                                  |
 | 2018-2019 | [맨체스터 시티](../Page/맨체스터_시티_FC.md "wikilink")                          | [첼시](https://ko.wikipedia.org/wiki/첼시FC "wikilink")                  |
+| 2019-2020 | [맨체스터 시티](../Page/맨체스터_시티_FC.md "wikilink")                          | [애스턴 빌라](../Page/애스턴_빌라_FC.md "wikilink")                            |
 
 ## 외부 링크
 

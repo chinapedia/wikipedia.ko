@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [4SS](https://ko.wikipedia.org/wiki/4SS).
+> This article is converted from Wikipedia: [제4SS경찰기갑척탄병사단](https://ko.wikipedia.org/wiki/제4SS경찰기갑척탄병사단).
 
 
 **4 SS 경찰 기갑척탄병 사단**()은 [제2차 세계 대전](../Page/제2차_세계_대전.md "wikilink") 당시 편성된 [무장 친위대](https://ko.wikipedia.org/wiki/무장_친위대 "wikilink") 38개 사단 중 하나이다. 사단은 1939년 9월 18일 [아돌프 히틀러가](../Page/아돌프_히틀러.md "wikilink") 내린 [질서 경찰로](https://ko.wikipedia.org/wiki/질서_경찰 "wikilink") 사단을 편성하라는 명령에 따라 동년 10월 1일에 편성된 부대이다.

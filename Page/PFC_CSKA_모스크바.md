@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [PFC CSKA ](https://ko.wikipedia.org/wiki/PFC_CSKA_).
+> This article is converted from Wikipedia: [PFC CSKA 모스크바](https://ko.wikipedia.org/wiki/PFC_CSKA_모스크바).
 
 
 **PFC CSKA 모스크바**()는 [CSKA 모스크바](https://ko.wikipedia.org/wiki/CSKA_모스크바 "wikilink") 산하의 [축구](../Page/축구.md "wikilink") 클럽으로, [1911년](../Page/1911년.md "wikilink")에 창단되었다. [모스크바](../Page/모스크바.md "wikilink")를 연고로 하며, 홈경기는 수용 인원 30,000명의 [VEB 아레나에서](../Page/VEB_아레나.md "wikilink") 치룬다.

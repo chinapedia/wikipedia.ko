@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [USB    ](https://ko.wikipedia.org/wiki/USB____).
+> This article is converted from Wikipedia: [USB 대용량 저장소 장치 유형](https://ko.wikipedia.org/wiki/USB_대용량_저장소_장치_유형).
 
 
 **USB 대용량 저장소 장치 유형**(USB mass-storage device class, USB MSC)은 [USB](../Page/USB.md "wikilink")에 관련된 USB 인플리멘터스 포럼(Implementers Forum)이 규정한 컴퓨팅 [통신 프로토콜이다](../Page/통신_프로토콜.md "wikilink"). 이 표준은 다양한 저장매체에 대한 인터페이스를 제공한다. 이 표준을 지원하는 장치들을 대용량 저장소 유형(MSC) 장치라고 한다. MSC가 공식 머리글이지만, 온라인 은어로 UMS(Universal Mass Storage)라는 머리글을 사용하고 있다.

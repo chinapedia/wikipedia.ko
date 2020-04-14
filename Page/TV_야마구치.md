@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TV ](https://ko.wikipedia.org/wiki/TV_).
+> This article is converted from Wikipedia: [TV 야마구치](https://ko.wikipedia.org/wiki/TV_야마구치).
 
 
 [150px](https://ko.wikipedia.org/wiki/파일:Tys_logo.svg "wikilink") **TV 야마구치**는 [1970년](../Page/1970년.md "wikilink") [4월 1일](../Page/4월_1일.md "wikilink") [야마구치현](../Page/야마구치현.md "wikilink")의 2번째 민영방송국으로 개국했다.

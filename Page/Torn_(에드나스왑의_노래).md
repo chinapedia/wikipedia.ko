@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Torn \( \)](https://ko.wikipedia.org/wiki/Torn_\(_\)).
+> This article is converted from Wikipedia: [Torn \(에드나스왑의 노래\)](https://ko.wikipedia.org/wiki/Torn_\(에드나스왑의_노래\)).
 
 
 〈**Torn**〉은 미국의 밴드 [에드나스왑](https://ko.wikipedia.org/wiki/에드나스왑 "wikilink")의 데뷔 음반 《[Ednaswap](https://ko.wikipedia.org/wiki/Ednaswap "wikilink")》(1995년)에 수록된 노래이다. 〈Torn〉은 [스콧 커틀러](https://ko.wikipedia.org/wiki/스콧_커틀러 "wikilink"), [앤 프리벤](https://ko.wikipedia.org/wiki/앤_프리벤 "wikilink"), [러스티 앤더슨과](https://ko.wikipedia.org/wiki/러스티_앤더슨 "wikilink") [필 소널리가](https://ko.wikipedia.org/wiki/필_소널리 "wikilink") 에드나스왑이 결성되기 이전인 [1991년](../Page/1991년.md "wikilink") 데뷔기에 작곡했다. 가사는 프리벤이 작사했고 [기타](../Page/기타.md "wikilink") 부분은 앤더슨이 담당했다. 소널리는 제작을 담당했다. ([1993년](../Page/1993년.md "wikilink")에 [리스 쇠렌센과](https://ko.wikipedia.org/wiki/리스_쇠렌센 "wikilink") [1996년](../Page/1996년.md "wikilink")에 [트린 레인이](https://ko.wikipedia.org/wiki/트린_레인 "wikilink") 리메이크한 이후인) [1997년](../Page/1997년.md "wikilink")에, [나탈리 임브룰리아가](https://ko.wikipedia.org/wiki/나탈리_임브룰리아 "wikilink") 부른 리메이크곡으로 유명해졌다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ EOS-1D Mark III](https://ko.wikipedia.org/wiki/_EOS-1D_Mark_III).
+> This article is converted from Wikipedia: [캐논 EOS-1D Mark III](https://ko.wikipedia.org/wiki/캐논_EOS-1D_Mark_III).
 
 
 **캐논 EOS-1D 마크 III**()는 1,010만 [유효 화소를](https://ko.wikipedia.org/wiki/유효_화소 "wikilink") 가지는 전문가용 [디지털 SLR](https://ko.wikipedia.org/wiki/디지털_SLR "wikilink") [카메라](https://ko.wikipedia.org/wiki/카메라 "wikilink")이다. [캐논 EOS-1D Mark II N의](https://ko.wikipedia.org/wiki/캐논_EOS-1D_Mark_II_N "wikilink") 후속 모델이다. [2007년](../Page/2007년.md "wikilink") [2월 21일](../Page/2월_21일.md "wikilink") 발표되었고, 2007년 5월에 출시되었다. 28.1 × 18.7 mm 크기의 [CMOS 이미지 센서를](https://ko.wikipedia.org/wiki/CMOS_이미지_센서 "wikilink") 가지고 있으며, 초당 10 프레임을 촬영할 수 있다. EOS-1Ds 계열에 대비하여 EOS-1D 계열 모델들은 프레스 사진 시장에 최적화된 특징이 있다.

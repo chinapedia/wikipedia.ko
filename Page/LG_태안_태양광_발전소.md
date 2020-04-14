@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [LG   ](https://ko.wikipedia.org/wiki/LG___).
+> This article is converted from Wikipedia: [LG 태안 태양광 발전소](https://ko.wikipedia.org/wiki/LG_태안_태양광_발전소).
 
 
 **LG 태안 태양광 발전소**는 LG그룹의 계열사인 [S\&I 코퍼레이션이](https://ko.wikipedia.org/wiki/S&I_코퍼레이션 "wikilink") [충청남도](https://ko.wikipedia.org/wiki/충청남도 "wikilink") [태안군](../Page/태안군.md "wikilink") 원북면 방갈리에 2008년 6월에 건설한 대한민국 최대의 [태양광 발전소이다](https://ko.wikipedia.org/wiki/태양광_발전소 "wikilink"). 여기서 발전된 전기는 [한국전력공사](https://ko.wikipedia.org/wiki/한국전력공사 "wikilink")에 1㎾당 472원에 판다. [LG그룹](../Page/LG그룹.md "wikilink")은 [2005년](../Page/2005년.md "wikilink")에 태양광 발전 사업에 진출하였다. [LG그룹](../Page/LG그룹.md "wikilink")의 [구본무](../Page/구본무.md "wikilink") 회장은 태양광 발전 사업을 LG그룹의 미래 핵심사업으로 여겨 직접 사업을 진두 지휘하고 있다.\[1\] 향후, LG솔라에너지는 태양광발전소를 추가로 지어 발전 능력을 100MW로 키우는 것을 목표로 하고 있다.\[2\]

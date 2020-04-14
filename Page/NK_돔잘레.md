@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [NK ](https://ko.wikipedia.org/wiki/NK_).
+> This article is converted from Wikipedia: [NK 돔잘레](https://ko.wikipedia.org/wiki/NK_돔잘레).
 
 
 **NK 돔잘레**(NK Domžale)는 [슬로베니아](../Page/슬로베니아.md "wikilink")의 축구 클럽이다. 현재 이 팀은 [슬로베니아 1부 리그에](https://ko.wikipedia.org/wiki/슬로베니아_1부_리그 "wikilink") 참가하고 있다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FIFA  ](https://ko.wikipedia.org/wiki/FIFA__).
+> This article is converted from Wikipedia: [FIFA 월드컵 예선](https://ko.wikipedia.org/wiki/FIFA_월드컵_예선).
 
 
 **[FIFA 월드컵](https://ko.wikipedia.org/wiki/FIFA_월드컵 "wikilink") 예선**은 각국의 [축구](../Page/축구.md "wikilink") 대표팀들이 월드컵 본선에 진출하기 위한 자격을 얻는 과정이다. FIFA 월드컵은 전 세계적인 행사이며 예선은 200여개의 FIFA 회원국들 중 32개국을 가리기 위해 실시된다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ASR-21 ](https://ko.wikipedia.org/wiki/ASR-21_).
+> This article is converted from Wikipedia: [ASR-21 청해진](https://ko.wikipedia.org/wiki/ASR-21_청해진).
 
 
 **ASR-21 청해진**은 대한민국 해군의 잠수함 구조함이다. [장보고급 잠수함의](../Page/장보고급_잠수함.md "wikilink") 도입으로 잠수함 구조함의 필요성이 대두되어 1992년 건조 결정되었고 [대우조선해양](../Page/대우조선해양.md "wikilink")에서 건조되어 1996년 취역하였다. 잠수함 조난시 인명구조 및 선체인양 등의 구조지원 임무를 주요 목적으로 하며 그 외에 제한적인 군수지원 임무와 수중촬영과 같은 해양 조사임무를 수행할 수 있다.

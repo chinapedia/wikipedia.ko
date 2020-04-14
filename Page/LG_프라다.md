@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [LG ](https://ko.wikipedia.org/wiki/LG_).
+> This article is converted from Wikipedia: [LG 프라다](https://ko.wikipedia.org/wiki/LG_프라다).
 
 
-**LG 프라다**(, )는 [프라다](../Page/프라다.md "wikilink")가 설계하고 [LG 전자가](https://ko.wikipedia.org/wiki/LG_전자 "wikilink") 제조한 [피처폰](https://ko.wikipedia.org/wiki/피처폰 "wikilink")이다. 2006년 12월 12일에 처음 선보였다. 2007년 1월 18일에 장치의 양산이 공식적으로 언론을 통해 알려지기 시작하였다.
+**LG 프라다**(, )는 [프라다](../Page/프라다.md "wikilink")가 설계하고 [LG 전자가](https://ko.wikipedia.org/wiki/LG_전자 "wikilink") 제조한 [피처폰](https://ko.wikipedia.org/wiki/피처폰 "wikilink")이다. 2006년 12월 12일에 처음 선보였다. 2007년 1월 18일에 장치의 양산이 공식적으로 언론을 통해 알려지기 시작하였다. 1세대 명품폰이다.
 
 ## 기능
 

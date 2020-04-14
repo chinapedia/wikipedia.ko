@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Wii !  ](https://ko.wikipedia.org/wiki/Wii_!__).
+> This article is converted from Wikipedia: [Wii로 다함께! 말랑말랑 두뇌교실](https://ko.wikipedia.org/wiki/Wii로_다함께!_말랑말랑_두뇌교실).
 
 
 **Wii로 다함께\! 말랑말랑 두뇌교실**(Big Brain Academy: Wii Degree)은 [닌텐도](../Page/닌텐도.md "wikilink")가 개발한 [Wii](../Page/Wii.md "wikilink")용 게임 소프트웨어이다.

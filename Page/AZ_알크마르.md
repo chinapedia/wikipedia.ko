@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [AZ ](https://ko.wikipedia.org/wiki/AZ_).
+> This article is converted from Wikipedia: [AZ 알크마르](https://ko.wikipedia.org/wiki/AZ_알크마르).
 
 
 **AZ**는 [네덜란드](../Page/네덜란드.md "wikilink") [에레디비시](../Page/에레디비시.md "wikilink")의 축구팀으로, [1967년](../Page/1967년.md "wikilink") [5월 10일에](../Page/5월_10일.md "wikilink") 설립되었다. 연고지는 [네덜란드](../Page/네덜란드.md "wikilink")의 [노르트홀란트주](https://ko.wikipedia.org/wiki/노르트홀란트주 "wikilink")에 위치한 [알크마르](../Page/알크마르.md "wikilink")이다. 정식 명칭은 AZ이지만, 유럽 대회에서는 **AZ 알크마르**로 더 잘 알려져 있다. AZ는 **알크마르 잔스트레이크**(Alkmaar Zaanstreek)의 [네덜란드어](../Page/네덜란드어.md "wikilink") 약칭이다.

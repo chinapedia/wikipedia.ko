@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:User time v2](https://ko.wikipedia.org/wiki/:User_time_v2).
+> This article is converted from Wikipedia: [틀:User time v2](https://ko.wikipedia.org/wiki/틀:User_time_v2).
 
 
 <onlyinclude>

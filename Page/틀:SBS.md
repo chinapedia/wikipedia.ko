@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:SBS](https://ko.wikipedia.org/wiki/:SBS).
+> This article is converted from Wikipedia: [틀:SBS](https://ko.wikipedia.org/wiki/틀:SBS).
 
 
 <onlyinclude></onlyinclude>

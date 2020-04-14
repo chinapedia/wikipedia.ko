@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ A. ](https://ko.wikipedia.org/wiki/_A._).
+> This article is converted from Wikipedia: [조지 A. 로메로](https://ko.wikipedia.org/wiki/조지_A._로메로).
 
 
 **조지 A. 로메로**(George Andrew Romero, [1940년](../Page/1940년.md "wikilink") [2월 4일](../Page/2월_4일.md "wikilink") \~ [2017년](../Page/2017년.md "wikilink") [7월 16일](../Page/7월_16일.md "wikilink"))는 [미국](../Page/미국.md "wikilink")의 [영화 감독](../Page/영화_감독.md "wikilink"), [영화 각본가](https://ko.wikipedia.org/wiki/영화_각본가 "wikilink"), [영화 편집자](https://ko.wikipedia.org/wiki/영화_편집자 "wikilink"), [배우](../Page/배우.md "wikilink"), [작곡가](https://ko.wikipedia.org/wiki/작곡가 "wikilink")이다. [뉴욕](../Page/뉴욕.md "wikilink") 출신으로 부친은 [쿠바](../Page/쿠바.md "wikilink")계, 모친은 [리투아니아](../Page/리투아니아.md "wikilink")계이다. [좀비](../Page/좀비.md "wikilink")가 등장하는 일련의 영화(좀비 연작)로 유명하다. 1968년 공포영화 《[살아있는 시체들의 밤](../Page/살아있는_시체들의_밤.md "wikilink")》으로 데뷔하였다. 좀비영화 감독의 일인자로 꼽히며 호러영화의 거장, 컬트영화의 귀재로 평가된다. 2017년 7월 16일 향년 77세의 나이에 [폐암](../Page/폐암.md "wikilink")으로 사망했다.

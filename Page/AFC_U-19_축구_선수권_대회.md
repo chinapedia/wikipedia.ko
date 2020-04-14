@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [AFC U-19   ](https://ko.wikipedia.org/wiki/AFC_U-19___).
+> This article is converted from Wikipedia: [AFC U-19 축구 선수권 대회](https://ko.wikipedia.org/wiki/AFC_U-19_축구_선수권_대회).
 
 
 **AFC U-19 챔피언십**은 [아시아 축구 연맹](../Page/아시아_축구_연맹.md "wikilink")(AFC)에서 주관하는 축구 대회이다. 첫 대회는 [1959년](../Page/1959년.md "wikilink")에 시작되었다. 1959년부터 [1978년](../Page/1978년.md "wikilink")까지는 매년 열렸고, [1980년](../Page/1980년.md "wikilink")부터는 2년마다 개최되어 현재에 이르고 있다. 대회 형식은 여러번의 변화를 겪어왔다. 현재는 AFC의 다른 축구 대회처럼 두 단계로 나뉘어 진행된다. 예선전은 AFC의 전체 회원국에게 열려있고, 본선전은 16개 팀이 참가한다. [2002년](../Page/2002년.md "wikilink")부터 [2006년](../Page/2006년.md "wikilink")까지 나이대가 19세 이하에서 20세 이하로 조정되었다가 [2008년](../Page/2008년.md "wikilink")부터 다시 19세 이하로 환원되었다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ P](https://ko.wikipedia.org/wiki/_P).
+> This article is converted from Wikipedia: [백조자리 P](https://ko.wikipedia.org/wiki/백조자리_P).
 
 
 **백조자리 P**는 [백조자리](../Page/백조자리.md "wikilink")에 있는 [변광성](../Page/변광성.md "wikilink")이며, [극대거성](../Page/극대거성.md "wikilink")이다. 다른 이름으로 **백조자리 신성 1600**, **백조자리 신성 \#1**이 있으며, [플램스티드 명명법에](../Page/플램스티드_명명법.md "wikilink") 의하면 **백조자리 34**로 읽는다. 이 별은 '[밝은 청색변광성](../Page/밝은_청색변광성.md "wikilink")'으로 분류된 최초의 별이기도 하다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [MSV ](https://ko.wikipedia.org/wiki/MSV_).
+> This article is converted from Wikipedia: [MSV 뒤스부르크](https://ko.wikipedia.org/wiki/MSV_뒤스부르크).
 
 
 **MSV 뒤스부르크**(Meidericher Spielverein Duisburg 02 e.V.)는 [뒤스부르크](../Page/뒤스부르크.md "wikilink")에 위치한 [MSV 아레나](https://ko.wikipedia.org/wiki/MSV_아레나 "wikilink") 경기장을 근거로 하는 [독일](../Page/독일.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다.

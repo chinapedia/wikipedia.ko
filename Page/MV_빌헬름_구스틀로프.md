@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [MV  ](https://ko.wikipedia.org/wiki/MV__).
+> This article is converted from Wikipedia: [MV 빌헬름 구스틀로프](https://ko.wikipedia.org/wiki/MV_빌헬름_구스틀로프).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Bundesarchiv_Bild_183-H27992,_Lazarettschiff_"Wilhelm_Gustloff"_in_Danzig.jpg "wikilink")

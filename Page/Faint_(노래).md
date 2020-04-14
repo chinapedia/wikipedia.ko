@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Faint \(\)](https://ko.wikipedia.org/wiki/Faint_\(\)).
+> This article is converted from Wikipedia: [Faint \(노래\)](https://ko.wikipedia.org/wiki/Faint_\(노래\)).
 
 
 **"Faint"**는 [뉴 메탈](https://ko.wikipedia.org/wiki/뉴_메탈 "wikilink") 밴드 [린킨 파크의](../Page/린킨_파크.md "wikilink") 2번째 음반 《[Meteora](../Page/Meteora.md "wikilink")》에서 발매된 두 번째 싱글 음반이다. 린킨 파크는 K-ROCK 라디오의 2003년 올해의 최고의 곡에 선정되었고 또한 《Meteora》에서 수록된 곡 중 [모던 록 트랙에서](https://ko.wikipedia.org/wiki/모던_록_트랙 "wikilink") 두 번째로 1위를 차지하였다.

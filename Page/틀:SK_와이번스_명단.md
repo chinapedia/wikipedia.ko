@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:SK  ](https://ko.wikipedia.org/wiki/:SK__).
+> This article is converted from Wikipedia: [틀:SK 와이번스 명단](https://ko.wikipedia.org/wiki/틀:SK_와이번스_명단).
 
 
 <onlyinclude></onlyinclude>

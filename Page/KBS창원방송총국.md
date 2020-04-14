@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KBS](https://ko.wikipedia.org/wiki/KBS).
+> This article is converted from Wikipedia: [KBS창원방송총국](https://ko.wikipedia.org/wiki/KBS창원방송총국).
 
 
 **KBS창원방송총국**(KBS昌原放送總局)은 [한국방송공사](../Page/한국방송공사.md "wikilink")의 지역총국 중 하나로 진주지역국 관리와 [경남](https://ko.wikipedia.org/wiki/경남 "wikilink")지역 KBS 방송을 총괄하고 있다. [1942년](../Page/1942년.md "wikilink") 사단법인 조선방송협회 마산간이방송소로 개국하여 [1986년](../Page/1986년.md "wikilink") 12월 [KBS](https://ko.wikipedia.org/wiki/KBS "wikilink") 공사 직제개편으로 KBS창원방송총국으로 승격되었으며, [KBS진주방송국](../Page/KBS진주방송국.md "wikilink")을 하부에 두고 있다. [2011년](../Page/2011년.md "wikilink") 7월에 사옥을 증축한 뒤 [2013년](../Page/2013년.md "wikilink") 2월에 완공하였다.
@@ -67,7 +67,7 @@
       - 호출부호 : HLAI-DTV
       - 가상채널 : 9-1
 
-| 송신소     | UHD   | HD    | 송신소 위치 | 비고                        |
+| 송신소     | UHD   | HD    | 송신소 위치 | KBS 수신 안내                 |
 | ------- | ----- | ----- | ------ | ------------------------- |
 | 물리채널    | 출력    | 물리채널  | 출력     |                           |
 | 1TV     | 2TV   | 1TV   | 2TV    |                           |
@@ -157,7 +157,7 @@
 
 ## 제작 프로그램
 
-### KBS TV
+### KBS 1TV
 
   - 뉴스
 
@@ -181,19 +181,19 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/KBS_뉴스_(930)" title="wikilink">KBS 뉴스 (930) 경남</a></p></td>
 <td><p>10분</p></td>
 <td><p>평일 오전 9시 45분 ~ 9시 55분</p></td>
-<td><p>신유진</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/신유진" title="wikilink">신유진</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/KBS_뉴스_7.md" title="wikilink">KBS 뉴스 7 경남</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/KBS_뉴스_7_경남" title="wikilink">KBS 뉴스 7 경남</a></p></td>
 <td><p>월~목 40분</p></td>
 <td><p>월~목 저녁 7시 ~ 7시 40분</p></td>
-<td><p>월~목 이아롬, 김진웅</p></td>
+<td><p>월~목 <a href="../Page/이아롬.md" title="wikilink">이아롬</a>, 김진웅</p></td>
 </tr>
 <tr class="even">
+<td><p><a href="../Page/KBS_뉴스_7.md" title="wikilink">KBS 뉴스 7 경남</a></p></td>
 <td><p>금 5분</p></td>
 <td><p>금 저녁 7시 20분 ~ 7시 25분</p></td>
 <td><p>금 김진웅</p></td>
-<td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/KBS_뉴스_9.md" title="wikilink">KBS 뉴스 9 경남</a></p></td>
@@ -333,6 +333,7 @@
   - [김준원](https://ko.wikipedia.org/wiki/김준원 "wikilink")
   - [최진석](https://ko.wikipedia.org/wiki/최진석 "wikilink")
   - [이형관](https://ko.wikipedia.org/wiki/이형관 "wikilink")
+  - [박기원](../Page/박기원.md "wikilink")
 
 ### 여성
 
@@ -341,6 +342,7 @@
   - [진정은](https://ko.wikipedia.org/wiki/진정은 "wikilink")
   - [차주하](https://ko.wikipedia.org/wiki/차주하 "wikilink")
   - [김효경](https://ko.wikipedia.org/wiki/김효경 "wikilink")
+  - [윤현서](https://ko.wikipedia.org/wiki/윤현서 "wikilink")
 
 ## 각주
 

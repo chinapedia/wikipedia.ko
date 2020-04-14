@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [GS](https://ko.wikipedia.org/wiki/GS).
+> This article is converted from Wikipedia: [GS칼텍스](https://ko.wikipedia.org/wiki/GS칼텍스).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:GSCaltex_Itaewon.jpg "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:jytim1311209.jpg "wikilink") 입구의 GS칼텍스\]\]

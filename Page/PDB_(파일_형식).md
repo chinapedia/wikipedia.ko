@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [PDB \( \)](https://ko.wikipedia.org/wiki/PDB_\(_\)).
+> This article is converted from Wikipedia: [PDB \(파일 형식\)](https://ko.wikipedia.org/wiki/PDB_\(파일_형식\)).
 
 
 **PDB(Protein Data Bank) File format**, **단백질 정보 파일 형식**은 텍스트로 된 파일 형식으로, [단백질 정보 은행에](../Page/단백질_정보_은행.md "wikilink") 실려있는 분자들의 3차원 구조를 설명하는 데 사용된다.

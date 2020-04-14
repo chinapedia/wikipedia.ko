@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [LOVE LETTER \( \)](https://ko.wikipedia.org/wiki/LOVE_LETTER_\(_\)).
+> This article is converted from Wikipedia: [LOVE LETTER \(보아의 노래\)](https://ko.wikipedia.org/wiki/LOVE_LETTER_\(보아의_노래\)).
 
 
 "**Love Letter**"는 대한민국의 팝 가수 [보아](../Page/보아.md "wikilink")의 [일본](../Page/일본.md "wikilink") 23번째 싱글이다. [2007년](../Page/2007년.md "wikilink") [7월 24일](../Page/7월_24일.md "wikilink") 처음 인터넷 상으로 싱글의 제목과 발매일만 알려졌으며, 2007년 [7월 30일에](../Page/7월_30일.md "wikilink") 보아의 공식 홈 페이지에 자켓 사진과 작사·작곡가 정보 등 세부 사항이 정식으로 공지되었다. 2007년 [8월 17일에는](../Page/8월_17일.md "wikilink") [9월 19일로](../Page/9월_19일.md "wikilink") 정해졌던 발매일이 2007년 [9월 26일로](../Page/9월_26일.md "wikilink") 옮겨졌다고 발표되었다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [RPG ](https://ko.wikipedia.org/wiki/RPG_).
+> This article is converted from Wikipedia: [RPG 만들기](https://ko.wikipedia.org/wiki/RPG_만들기).
 
 
 **RPG 메이커**() 혹은 **RPG 만들기**()은 [일본](../Page/일본.md "wikilink")의 [ASCII](../Page/아스키_\(기업\).md "wikilink"), [엔터브레인](https://ko.wikipedia.org/wiki/엔터브레인 "wikilink")이 개발하고 [Agetec](https://ko.wikipedia.org/wiki/:en:Agetec "wikilink"), [Degica이](https://ko.wikipedia.org/wiki/:en:Degica "wikilink") 발매하는 [RPG](https://ko.wikipedia.org/wiki/롤플레잉_게임 "wikilink") 제작 [소프트웨어](../Page/소프트웨어.md "wikilink")이다. [대한민국](../Page/대한민국.md "wikilink")에서는 액션알피지 다이스, 토파즈와 같은 RPG 만들기 시리즈가 있지만 이를 이용하여 찍어낸 샘플게임만도 못한 게임이 넘쳐나는 문제가 있다.

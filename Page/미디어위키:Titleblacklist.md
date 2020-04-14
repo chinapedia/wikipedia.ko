@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Titleblacklist](https://ko.wikipedia.org/wiki/:Titleblacklist).
+> This article is converted from Wikipedia: [미디어위키:Titleblacklist](https://ko.wikipedia.org/wiki/미디어위키:Titleblacklist).
 
 
 `# 문서 이름 금지 목록을 적는 곳입니다. `[`정규``   ``표현식과`](https://ko.wikipedia.org/wiki/정규_표현식 "wikilink")` 일치하는 문서나 사용자명에 대한 행동이 제한됩니다.`

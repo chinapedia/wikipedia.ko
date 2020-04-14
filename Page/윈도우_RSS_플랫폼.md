@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ RSS ](https://ko.wikipedia.org/wiki/_RSS_).
+> This article is converted from Wikipedia: [윈도우 RSS 플랫폼](https://ko.wikipedia.org/wiki/윈도우_RSS_플랫폼).
 
 
 **윈도우 RSS 플랫폼**()은 [인터넷 익스플로러 7](../Page/인터넷_익스플로러_7.md "wikilink") 및 [윈도우 비스타에](../Page/윈도우_비스타.md "wikilink") 내장된 플랫폼으로서, 윈도우 응용 프로그램에게 피드(feed) 처리 및 관리 기능을 제공해주는 플랫폼이다. [인터넷 익스플로러 7의](../Page/인터넷_익스플로러_7.md "wikilink") [RSS](../Page/RSS.md "wikilink") 지원 기능이 이 플랫폼에 기반한다.

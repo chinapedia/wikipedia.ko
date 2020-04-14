@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [FC ](https://ko.wikipedia.org/wiki/FC_).
+> This article is converted from Wikipedia: [FC 힘키](https://ko.wikipedia.org/wiki/FC_힘키).
 
 
-**FC 힘키** ()는 [러시아](../Page/러시아.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽으로 [모스크바주](../Page/모스크바주.md "wikilink")의 [힘키](https://ko.wikipedia.org/wiki/힘키 "wikilink")에 연고지를 두고 있다.
+**FC 힘키**()는 [러시아](../Page/러시아.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽으로 [모스크바주](../Page/모스크바주.md "wikilink")의 [힘키](https://ko.wikipedia.org/wiki/힘키 "wikilink")에 연고지를 두고 있다.
 
 ## 역사
 

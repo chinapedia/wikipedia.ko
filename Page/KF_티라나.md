@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KF ](https://ko.wikipedia.org/wiki/KF_).
+> This article is converted from Wikipedia: [KF 티라나](https://ko.wikipedia.org/wiki/KF_티라나).
 
 
 **KF 티라나**는 [알바니아](https://ko.wikipedia.org/wiki/알바니아 "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽으로, 알바니아의 수도 [티라나](../Page/티라나.md "wikilink")를 연고지로 삼고 있다. 이 클럽은 [1920년](../Page/1920년.md "wikilink") [8월 16일에](../Page/8월_16일.md "wikilink") **아지미 SA**(Agimi Sports Association)라는 이름으로 창단되었으며, [1927년](../Page/1927년.md "wikilink")에 **SK 티라나**(Sportklub Tirana)로 변경하였고, [1947년](../Page/1947년.md "wikilink")엔 **17 넌토리 티라나**(17 Nëntori Tirana)로 바꿨다. [1952년](../Page/1952년.md "wikilink")부터 [1956년](../Page/1956년.md "wikilink")까지는 **퓨나 티라나**(Puna Tirana)로 리그에 참가했으며, [1991년](../Page/1991년.md "wikilink")에 현재의 이름으로 바꾸었다.

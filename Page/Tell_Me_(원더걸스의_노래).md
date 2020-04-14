@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Tell Me \( \)](https://ko.wikipedia.org/wiki/Tell_Me_\(_\)).
+> This article is converted from Wikipedia: [Tell Me \(원더걸스의 노래\)](https://ko.wikipedia.org/wiki/Tell_Me_\(원더걸스의_노래\)).
 
 
 "**Tell Me**"는 [대한민국](../Page/대한민국.md "wikilink")의 걸 그룹 [원더걸스](../Page/원더걸스.md "wikilink")의 첫 번째 정규 음반인 *[The Wonder Years](../Page/The_Wonder_Years.md "wikilink")*의 타이틀 곡이다. 이 노래는 1980년대 [댄스 팝](../Page/댄스_팝.md "wikilink") 음악인 [스테이시 큐의](https://ko.wikipedia.org/wiki/스테이시_큐 "wikilink") "Two of Hearts"를 [샘플링](https://ko.wikipedia.org/wiki/샘플링 "wikilink")한 곡으로 [박진영](../Page/박진영.md "wikilink")이 작곡과 작사를 하였다. "Tell Me"는 발매가 이루어지자 각종 음원 사이트 정상을 석권해 음악 사이트 평균 7주 연속 1위라는 기록을 남겼다.\[1\] 또한 방송횟수만 3328회로 2007년 최다 방송곡이였다.\[2\] 대한민국 이외에 태국 [MTV](../Page/MTV.md "wikilink") 차트에서도 [앨리샤 키스](../Page/앨리샤_키스.md "wikilink"), [브리트니 스피어스](../Page/브리트니_스피어스.md "wikilink") 등의 세계적인 팝 가수들을 누르고 1위를 차지하기도했다.\[3\]

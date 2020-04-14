@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [ A350 XWB](https://ko.wikipedia.org/wiki/_A350_XWB).
+> This article is converted from Wikipedia: [에어버스 A350 XWB](https://ko.wikipedia.org/wiki/에어버스_A350_XWB).
 
 
-**에어버스 A350 XWB**()는 [에어버스](../Page/에어버스.md "wikilink")의 중형 쌍발 광동체기다. A350 XWB는 [에어버스](../Page/에어버스.md "wikilink") 기종 중 처음으로 동체와 날개의 대부분이 [탄소 복합 플라스틱으로](https://ko.wikipedia.org/wiki/탄소_섬유 "wikilink") 제조되었다. [B777](../Page/보잉_777.md "wikilink"), [B787과](../Page/보잉_787_드림라이너.md "wikilink") 경쟁하기 위해 설계되었으며, [에어버스](../Page/에어버스.md "wikilink")는 A350이 [B787보다](../Page/보잉_787_드림라이너.md "wikilink") 8% 더 운영 비용을 아낄 수 있다고 한다. A350은 [2013년](../Page/2013년.md "wikilink")에 운항을 시작했으며, 런치 커스터머는 A350-900/1000 모델을 운영할 [카타르 항공이다](../Page/카타르_항공.md "wikilink"). 이외에도 [아시아나항공](https://ko.wikipedia.org/wiki/아시아나항공 "wikilink")을 포함해 다른 항공사들도 주문한 것으로 알려졌다. 첫 시험 비행은 6월 14일에 성공적으로 진행되었다.
+**에어버스 A350 XWB**()는 [에어버스](../Page/에어버스.md "wikilink")의 중형 쌍발 광동체기다. A350 XWB는 [에어버스](../Page/에어버스.md "wikilink") 기종 중 처음으로 동체와 날개의 대부분이 [탄소 복합 플라스틱으로](https://ko.wikipedia.org/wiki/탄소_섬유 "wikilink") 제조되었다. [B777](../Page/보잉_777.md "wikilink"), [B787과](../Page/보잉_787_드림라이너.md "wikilink") 경쟁하기 위해 설계되었으며, [에어버스](../Page/에어버스.md "wikilink")는 A350이 [B787보다](../Page/보잉_787_드림라이너.md "wikilink") 8% 더 운용 비용을 아낄 수 있다고 한다. [2013년](../Page/2013년.md "wikilink")에 운항을 시작했으며, 런치 커스터머는 A350-900/1000 모델을 운영할 [카타르 항공이다](../Page/카타르_항공.md "wikilink"). 이외에도 [아시아나항공](https://ko.wikipedia.org/wiki/아시아나항공 "wikilink")을 포함해 다른 항공사들도 주문한 것으로 알려졌다. 첫 시험 비행은 6월 14일에 성공적으로 진행되었다.
 
 [2014년](../Page/2014년.md "wikilink") [12월 22일에](../Page/12월_22일.md "wikilink") A350-900이 [카타르 항공에](../Page/카타르_항공.md "wikilink") 최초로 인도되었으며, A350-1000 역시 [2018년](../Page/2018년.md "wikilink") [2월 20일](../Page/2월_20일.md "wikilink") [카타르 항공에](../Page/카타르_항공.md "wikilink") 최초로 인도됐다.
 
@@ -44,11 +44,11 @@
 
 <!-- end list -->
 
-  - 에어버스 A350-1000은 약 366명의 탑승 인원에 최대 항속 거리는 14,800 km 정도로 A350 기종 중 길이가 가장 길며 [캐세이퍼시픽 항공](../Page/캐세이퍼시픽_항공.md "wikilink"), [아시아나항공](https://ko.wikipedia.org/wiki/아시아나항공 "wikilink"), [카타르 항공](../Page/카타르_항공.md "wikilink"), [에티하드 항공](../Page/에티하드_항공.md "wikilink"), [에미레이트 항공이](https://ko.wikipedia.org/wiki/에미레이트_항공 "wikilink") 이 기종을 주문했었다. 그러나 [2014년](../Page/2014년.md "wikilink") 6월 [에미레이트 항공에서](https://ko.wikipedia.org/wiki/에미레이트_항공 "wikilink") 900형 모델 50대와 1000형 모델 20대의 주문을 갑작스럽게 취소했으며, [에미레이트 항공은](https://ko.wikipedia.org/wiki/에미레이트_항공 "wikilink") 2019년 2월 [A380-800의](../Page/에어버스_A380.md "wikilink") 잔여주문 취소 후 900형만 다시 주문했다. ICAO 코드는 A35K이며, 900형과 달리 메인 기어가 [B777처럼](../Page/보잉_777.md "wikilink") 3축으로 되어 있다. 1000형 역시 [카타르 항공이](../Page/카타르_항공.md "wikilink") 최초로 인도받았으며, [캐세이퍼시픽 항공](../Page/캐세이퍼시픽_항공.md "wikilink"), [영국항공](../Page/영국항공.md "wikilink"), [버진 애틀랜틱도](https://ko.wikipedia.org/wiki/버진_애틀랜틱 "wikilink") 인도받았다. 특히 [영국항공](../Page/영국항공.md "wikilink")의 경우 [A300과](../Page/에어버스_A300.md "wikilink") [A330을](../Page/에어버스_A330.md "wikilink") 운용하지 않았기 때문에 처음으로 운용하는 [에어버스](../Page/에어버스.md "wikilink") 쌍발 광동체기가 A35K이다.
+  - 에어버스 A350-1000은 약 366명의 탑승 인원에 최대 항속 거리는 14,800 km 정도로 A350 기종 중 길이가 가장 길며 [캐세이퍼시픽 항공](../Page/캐세이퍼시픽_항공.md "wikilink"), [아시아나항공](https://ko.wikipedia.org/wiki/아시아나항공 "wikilink"), [카타르 항공](../Page/카타르_항공.md "wikilink"), [에티하드 항공](../Page/에티하드_항공.md "wikilink"), [에미레이트 항공이](https://ko.wikipedia.org/wiki/에미레이트_항공 "wikilink") 이 기종을 주문했었다. 그러나 [2014년](../Page/2014년.md "wikilink") 6월 [에미레이트 항공에서](https://ko.wikipedia.org/wiki/에미레이트_항공 "wikilink") 900형 모델 50대와 1000형 모델 20대의 주문을 갑작스럽게 취소했으며, [에미레이트 항공은](https://ko.wikipedia.org/wiki/에미레이트_항공 "wikilink") 2019년 2월 [A380-800의](../Page/에어버스_A380.md "wikilink") 잔여주문 취소 후 900형만 다시 주문했다. ICAO 코드는 A35K이며, 900형과 달리 메인 기어가 [B777처럼](../Page/보잉_777.md "wikilink") 3축으로 되어 있다. 1000형 역시 [카타르 항공이](../Page/카타르_항공.md "wikilink") 최초로 인도받았으며, [캐세이퍼시픽 항공](../Page/캐세이퍼시픽_항공.md "wikilink"), [영국항공](../Page/영국항공.md "wikilink"), [버진 애틀랜틱도](https://ko.wikipedia.org/wiki/버진_애틀랜틱 "wikilink") 인도받았다. 특히 [영국항공](../Page/영국항공.md "wikilink")의 경우, [A300과](../Page/에어버스_A300.md "wikilink") [A330을](../Page/에어버스_A330.md "wikilink") 운용하지 않았기 때문에 처음으로 운용하는 [에어버스](../Page/에어버스.md "wikilink")제 쌍발 광동체기가 A35K다.
 
 ## 주문
 
-2017년 2월 800 시리즈는 8대, 900 시리즈는 602대, 1000 시리즈는 211대를 주문받아 총 821대의 주문이 들어왔으며, 현재 39개 항공사가 주문한 것으로 알려졌다. [미국](../Page/미국.md "wikilink")의 경우 [유나이티드 항공](../Page/유나이티드_항공.md "wikilink"), [하와이안 항공](../Page/하와이안_항공.md "wikilink"), [ILFC](../Page/ILFC.md "wikilink")가 주문했으며 [US 에어웨이즈의](https://ko.wikipedia.org/wiki/US_에어웨이즈 "wikilink") 주문은 [아메리칸 항공으로](../Page/아메리칸_항공.md "wikilink") 이관됐다가 2018년에 전량 취소했다. 아시아에서는 [아시아나항공](https://ko.wikipedia.org/wiki/아시아나항공 "wikilink"), [카타르 항공이](../Page/카타르_항공.md "wikilink") 3가지 파생형을 주문한 것으로 알려져 있다. 2016년 1월 현재 3가지 파생형 모두 주문한 항공사는 [아시아나항공](https://ko.wikipedia.org/wiki/아시아나항공 "wikilink")과 [아에로플로트](../Page/아에로플로트.md "wikilink")밖에 없었으나, 800형의 개발이 전면 백지화되어 두 회사 모두 900형으로 통일했다.
+2017년 2월 800 시리즈는 8대, 900 시리즈는 602대, 1000 시리즈는 211대를 주문받아 총 821대의 주문이 들어왔으며, 현재 39개 항공사가 주문한 것으로 알려졌다. [미국](../Page/미국.md "wikilink")의 경우 [유나이티드 항공](../Page/유나이티드_항공.md "wikilink"), [하와이안 항공](../Page/하와이안_항공.md "wikilink"), [ILFC](../Page/ILFC.md "wikilink")가 주문했으며 [US 에어웨이즈의](https://ko.wikipedia.org/wiki/US_에어웨이즈 "wikilink") 주문은 [아메리칸 항공으로](../Page/아메리칸_항공.md "wikilink") 이관됐다가 [2018년](../Page/2018년.md "wikilink")에 전량 취소했다. 아시아에서는 [아시아나항공](https://ko.wikipedia.org/wiki/아시아나항공 "wikilink"), [카타르 항공이](../Page/카타르_항공.md "wikilink") 3가지 파생형을 주문한 것으로 알려져 있다. 2016년 1월 현재 3가지 파생형 모두 주문한 항공사는 [아시아나항공](https://ko.wikipedia.org/wiki/아시아나항공 "wikilink")과 [아에로플로트](../Page/아에로플로트.md "wikilink")밖에 없었으나, 800형의 개발이 전면 백지화되어 두 회사 모두 900형으로 통일했다.
 
 ### 에어버스 A350-900
 
@@ -56,7 +56,6 @@
   - [ALC](https://ko.wikipedia.org/wiki/ALC "wikilink")
   - CIT 그룹
   - [ILFC](../Page/ILFC.md "wikilink")
-  - [KLM](../Page/KLM.md "wikilink")
   - [LATAM 브라질](../Page/LATAM_브라질.md "wikilink")
   - [델타 항공](../Page/델타_항공.md "wikilink")
   - [루프트한자](../Page/루프트한자.md "wikilink")
@@ -100,7 +99,7 @@
 
   - ALC
   - [LATAM 브라질](../Page/LATAM_브라질.md "wikilink")
-  - [버진 애틀랜틱 항공](https://ko.wikipedia.org/wiki/버진_애틀랜틱_항공 "wikilink")
+  - [버진 애틀랜틱](https://ko.wikipedia.org/wiki/버진_애틀랜틱 "wikilink")
   - [아시아나항공](https://ko.wikipedia.org/wiki/아시아나항공 "wikilink")
   - [에어 카라이브](../Page/에어_카라이브.md "wikilink")
   - [에티하드 항공](../Page/에티하드_항공.md "wikilink")
@@ -121,12 +120,17 @@
   - [루프트한자](../Page/루프트한자.md "wikilink")
   - [말레이시아 항공](https://ko.wikipedia.org/wiki/말레이시아_항공 "wikilink")
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:Malaysia_Airlines_A350-941_\(9M-MAC\)_taxiing_at_London_Heathrow_Airport.jpg "wikilink")
+[섬네일](https://ko.wikipedia.org/wiki/파일:Malaysia_Airlines_A350-941_\(9M-MAC\)_taxiing_at_London_Heathrow_Airport.jpg "wikilink")\]\]
 
   - [베트남 항공](../Page/베트남_항공.md "wikilink")
   - [사천항공](https://ko.wikipedia.org/wiki/사천항공 "wikilink")
+  - [스칸디나비아 항공](../Page/스칸디나비아_항공.md "wikilink")
   - [싱가포르 항공](../Page/싱가포르_항공.md "wikilink")
+
+[섬네일](https://ko.wikipedia.org/wiki/파일:9V-SME@HKG_\(20190504123032\).jpg "wikilink")\]\]
+
   - [아시아나항공](https://ko.wikipedia.org/wiki/아시아나항공 "wikilink")
+  - [아에로플로트](../Page/아에로플로트.md "wikilink")
   - [에어 카라이브](../Page/에어_카라이브.md "wikilink")
   - [에어 모리셔스](../Page/에어_모리셔스.md "wikilink")
   - [에티오피아 항공](../Page/에티오피아_항공.md "wikilink")
@@ -138,6 +142,7 @@
   - [캐세이퍼시픽 항공](../Page/캐세이퍼시픽_항공.md "wikilink")
   - [타이 항공](../Page/타이_항공.md "wikilink")
   - [프렌치 비](https://ko.wikipedia.org/wiki/프렌치_비 "wikilink")
+  - [피지 항공](../Page/피지_항공.md "wikilink")
   - [핀에어](../Page/핀에어.md "wikilink")
   - [필리핀항공](https://ko.wikipedia.org/wiki/필리핀항공 "wikilink")
   - [하이난 항공](../Page/하이난_항공.md "wikilink")
@@ -147,7 +152,7 @@
 
 ### 에어버스 A350-1000
 
-  - [버진 애틀랜틱 항공](https://ko.wikipedia.org/wiki/버진_애틀랜틱_항공 "wikilink")
+  - [버진 애틀랜틱](https://ko.wikipedia.org/wiki/버진_애틀랜틱 "wikilink")
   - [영국항공](../Page/영국항공.md "wikilink")
   - [카타르 항공](../Page/카타르_항공.md "wikilink")
   - [캐세이퍼시픽 항공](../Page/캐세이퍼시픽_항공.md "wikilink")
@@ -334,8 +339,8 @@
 ## 사건사고
 
   - [타이 항공의](../Page/타이_항공.md "wikilink") A350-900이 [수완나품에서](https://ko.wikipedia.org/wiki/수완나품_국제공항 "wikilink") [푸켓으로](https://ko.wikipedia.org/wiki/푸껫_국제공항 "wikilink") 도착하다가 충돌해 랜딩 기어가 손상되었다.
-  - [홍콩에서](https://ko.wikipedia.org/wiki/홍콩_국제공항 "wikilink") [멜버른으로](../Page/멜버른_공항.md "wikilink") 가던 [캐세이퍼시픽 항공의](../Page/캐세이퍼시픽_항공.md "wikilink") A350-900이 [오스트레일리아](../Page/오스트레일리아.md "wikilink") 영공 진입 후 비정상적으로 연료량이 줄어드는 현상이 발견되어 [다윈에](../Page/다윈_국제공항.md "wikilink") 비상 착륙했다. 검사 결과, 엔진 연료관에서 균열이 발견됐다. 승객들은 [다윈에서](../Page/다윈_국제공항.md "wikilink") 하기한 후, [캐세이퍼시픽 항공이](../Page/캐세이퍼시픽_항공.md "wikilink") 대체기로 보낸 [B777-300ER에](../Page/보잉_777.md "wikilink") 탑승하여 [멜버른으로](../Page/멜버른_공항.md "wikilink") 이동했다.
-  - [아시아나항공](https://ko.wikipedia.org/wiki/아시아나항공 "wikilink")의 A350-900(HL7579)이 [인천에서](https://ko.wikipedia.org/wiki/인천국제공항 "wikilink") [싱가포르로](https://ko.wikipedia.org/wiki/싱가포르_창이_국제공항 "wikilink") 가던 중 엔진 1기가 정지하여 [마닐라에](https://ko.wikipedia.org/wiki/니노이_아키노_국제공항 "wikilink") 비상 착륙했다. [마닐라에](https://ko.wikipedia.org/wiki/니노이_아키노_국제공항 "wikilink") 하기한 승객들은 [아시아나항공](https://ko.wikipedia.org/wiki/아시아나항공 "wikilink")이 대체기로 보낸 다른 A350-900을 타고 [싱가포르로](https://ko.wikipedia.org/wiki/싱가포르_창이_국제공항 "wikilink") 이동했으며, HL7579는 [마닐라](../Page/마닐라.md "wikilink") 현지에서 점검을 마친 후 [인천국제공항](https://ko.wikipedia.org/wiki/인천국제공항 "wikilink")으로 복귀했다.
+  - [홍콩에서](https://ko.wikipedia.org/wiki/홍콩_국제공항 "wikilink") [멜버른으로](../Page/멜버른_공항.md "wikilink") 가던 [캐세이퍼시픽 항공의](../Page/캐세이퍼시픽_항공.md "wikilink") A350-900이 [오스트레일리아](../Page/오스트레일리아.md "wikilink") 영공에 진입한 후, 비정상적으로 연료량이 줄어드는 현상이 발견되어 [다윈에](../Page/다윈_국제공항.md "wikilink") 비상 착륙했다. 다윈에서 검사한 결과, 엔진 연료관에서 균열이 발견됐다. 승객들은 [다윈에서](../Page/다윈_국제공항.md "wikilink") 하기한 후, [캐세이퍼시픽 항공이](../Page/캐세이퍼시픽_항공.md "wikilink") 대체기로 보낸 [B777-300ER에](../Page/보잉_777.md "wikilink") 탑승하여 [멜버른으로](../Page/멜버른_공항.md "wikilink") 이동했다.
+  - [아시아나항공](https://ko.wikipedia.org/wiki/아시아나항공 "wikilink")의 A350-900(HL7579)이 [인천에서](https://ko.wikipedia.org/wiki/인천국제공항 "wikilink") [싱가포르로](https://ko.wikipedia.org/wiki/싱가포르_창이_국제공항 "wikilink") 가던 중 엔진 1기가 정지하여 [마닐라에](https://ko.wikipedia.org/wiki/니노이_아키노_국제공항 "wikilink") 비상 착륙했다. [마닐라에서](https://ko.wikipedia.org/wiki/니노이_아키노_국제공항 "wikilink") 하기한 승객들은 [아시아나항공](https://ko.wikipedia.org/wiki/아시아나항공 "wikilink")이 대체기로 보낸 다른 A350-900을 타고 [싱가포르로](https://ko.wikipedia.org/wiki/싱가포르_창이_국제공항 "wikilink") 이동했으며, HL7579는 [마닐라](../Page/마닐라.md "wikilink") 현지에서 점검을 마친 후 [인천국제공항](https://ko.wikipedia.org/wiki/인천국제공항 "wikilink")으로 복귀했다.
 
 ## 각주
 

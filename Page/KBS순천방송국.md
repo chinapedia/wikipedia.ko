@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KBS](https://ko.wikipedia.org/wiki/KBS).
+> This article is converted from Wikipedia: [KBS순천방송국](https://ko.wikipedia.org/wiki/KBS순천방송국).
 
 
 **KBS순천방송국**(KBS順天放送局)은 전남 동부 지역을 대상으로 하는 [KBS 광주방송총국](https://ko.wikipedia.org/wiki/KBS_광주방송총국 "wikilink") 소속 산하의 지역국이다.

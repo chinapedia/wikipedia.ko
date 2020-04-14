@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [DJ ](https://ko.wikipedia.org/wiki/DJ_).
+> This article is converted from Wikipedia: [DJ 소울스케이프](https://ko.wikipedia.org/wiki/DJ_소울스케이프).
 
 
 **DJ 소울스케이프** (DJ Soulscape, , [1979년](../Page/1979년.md "wikilink") [7월 21일](../Page/7월_21일.md "wikilink") \~ )는 [대한민국](../Page/대한민국.md "wikilink")의 [힙합](../Page/힙합.md "wikilink") [DJ](../Page/디스크_자키.md "wikilink") 겸 [프로듀서이다](../Page/음악_프로듀서.md "wikilink"). 1997년에 데뷔하여 1998년 클럽 [MP의](../Page/마스터플랜.md "wikilink") DJ로 활동을 시작하였으며 데뷔 앨범 *180g Beats*가 한국 힙합 명반으로 평가받으면서 명실상부하게 대한민국 제1의 디제이 겸 프로듀서로 자리잡았다. 이후 [마스터플랜](../Page/마스터플랜.md "wikilink") 소속으로 자신의 레이블 **Strange Sweet Sounds** 활동 및 수많은 믹스테입 발표를 했으며, 2005년부터는 다양한 음악을 들려주는 것을 모토로 하는 파티 유닛 [360 Sounds를](https://ko.wikipedia.org/wiki/360_사운드 "wikilink") 시작하여 현재까지 이끌고 있다. 이외에도 음악 관련 다방면 활동을 해오면서, 대한민국 [턴테이블리즘](../Page/턴테이블리즘.md "wikilink") 음악의 선구자로 다양한 장르의 [바이닐](https://ko.wikipedia.org/wiki/바이닐 "wikilink") 레코드를 탐구하며 여러 문화 영역에서 폭넓은 활동을 해오고 있다.

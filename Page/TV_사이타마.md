@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TV ](https://ko.wikipedia.org/wiki/TV_).
+> This article is converted from Wikipedia: [TV 사이타마](https://ko.wikipedia.org/wiki/TV_사이타마).
 
 
 [200px](https://ko.wikipedia.org/wiki/파일:Tvs_logo.svg "wikilink") **TV 사이타마**(テレビ埼玉)는 [1979년](../Page/1979년.md "wikilink") [4월 1일](../Page/4월_1일.md "wikilink") [일본](../Page/일본.md "wikilink") [사이타마현](https://ko.wikipedia.org/wiki/사이타마현 "wikilink")의 독립 UHF방송국으로 개국했다.

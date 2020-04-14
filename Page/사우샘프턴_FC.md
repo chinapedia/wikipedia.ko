@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
+> This article is converted from Wikipedia: [사우샘프턴 FC](https://ko.wikipedia.org/wiki/사우샘프턴_FC).
 
 
 **사우샘프턴 축구 클럽**()은 [잉글랜드](../Page/잉글랜드.md "wikilink")의 프로 [축구](../Page/축구.md "wikilink") 팀으로 잉글랜드 남부의 [햄프셔주](../Page/햄프셔주.md "wikilink")에 있는 [사우샘프턴](../Page/사우샘프턴.md "wikilink")을 연고지로 하고 있다. [2005년](../Page/2005년.md "wikilink")에 [프리미어리그](https://ko.wikipedia.org/wiki/프리미어리그 "wikilink")에서 강등된 이후로 [풋볼 리그 챔피언십에서](https://ko.wikipedia.org/wiki/풋볼_리그_챔피언십 "wikilink") 플레이하였으나, 2009년에 [풋볼 리그 1으로](https://ko.wikipedia.org/wiki/풋볼_리그_1 "wikilink") 강등되었다. 그러나 2011년에 다시 챔피언십으로 승격하고, 2011-12 시즌 [풋볼 리그 챔피언십에서](https://ko.wikipedia.org/wiki/풋볼_리그_챔피언십 "wikilink") 준우승을 하면서 프리미어리그로 다시 승격을 하였다.

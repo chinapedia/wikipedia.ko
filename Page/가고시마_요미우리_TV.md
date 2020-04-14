@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  TV](https://ko.wikipedia.org/wiki/__TV).
+> This article is converted from Wikipedia: [가고시마 요미우리 TV](https://ko.wikipedia.org/wiki/가고시마_요미우리_TV).
 
 
 [150px](https://ko.wikipedia.org/wiki/파일:Kyt_logo.svg "wikilink") **가고시마 요미우라 TV**는 [1994년](../Page/1994년.md "wikilink") [4월 1일](../Page/4월_1일.md "wikilink") [가고시마현](../Page/가고시마현.md "wikilink")의 4번째 민영방송국으로 개국했으며 약칭은 KYT, 콜사인은 JOUI-DTV이다.

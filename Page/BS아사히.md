@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [BS](https://ko.wikipedia.org/wiki/BS).
+> This article is converted from Wikipedia: [BS아사히](https://ko.wikipedia.org/wiki/BS아사히).
 
 
 **BS아사히**(, )는 [TV 아사히](../Page/TV_아사히.md "wikilink")·[ANN계열](../Page/올_닛폰_뉴스_네트워크.md "wikilink") [BS](../Page/위성방송.md "wikilink") 위탁방송사업자이다.

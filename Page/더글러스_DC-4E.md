@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ DC-4E](https://ko.wikipedia.org/wiki/_DC-4E).
+> This article is converted from Wikipedia: [더글러스 DC-4E](https://ko.wikipedia.org/wiki/더글러스_DC-4E).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Douglas_DC-4E_Oakland.jpg "wikilink") **더글러스 DC-4E**는 [제 2차 세계대전](https://ko.wikipedia.org/wiki/제_2차_세계대전 "wikilink") 이전에 개발된 [미국](../Page/미국.md "wikilink")의 시험 여객기로, 실패작으로 평가받아 양산되지는 않았다. 이후 제작된 [더글러스 DC-4는](https://ko.wikipedia.org/wiki/더글러스_DC-4 "wikilink") 완전히 새롭게 설계되어 상업상의 성공을 거두었다. 한편, 본 기체는 [일본](../Page/일본.md "wikilink")에 매각되어 [나카지마 G5N 신잔을](../Page/나카지마_G5N_신잔.md "wikilink") 설계하는 것에 활용되었다.\[1\]

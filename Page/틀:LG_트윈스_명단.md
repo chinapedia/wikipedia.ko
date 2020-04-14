@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:LG  ](https://ko.wikipedia.org/wiki/:LG__).
+> This article is converted from Wikipedia: [틀:LG 트윈스 명단](https://ko.wikipedia.org/wiki/틀:LG_트윈스_명단).
 
 
 <onlyinclude></onlyinclude>

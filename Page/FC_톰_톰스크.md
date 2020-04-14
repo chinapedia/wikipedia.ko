@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FC  ](https://ko.wikipedia.org/wiki/FC__).
+> This article is converted from Wikipedia: [FC 톰 톰스크](https://ko.wikipedia.org/wiki/FC_톰_톰스크).
 
 
 **FC 톰 톰스크**()는 [러시아](../Page/러시아.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽으로, [시베리아 연방관구의](../Page/시베리아_연방관구.md "wikilink") [톰스크](../Page/톰스크.md "wikilink")를 연고지로 삼고 있다. 클럽은 [1957년](../Page/1957년.md "wikilink")에 창단되었다.

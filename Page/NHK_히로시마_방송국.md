@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [NHK  ](https://ko.wikipedia.org/wiki/NHK__).
+> This article is converted from Wikipedia: [NHK 히로시마 방송국](https://ko.wikipedia.org/wiki/NHK_히로시마_방송국).
 
 
 **NHK 히로시마 방송국**(NHK)은 [히로시마현](../Page/히로시마현.md "wikilink")을 방송구역으로 하는 NHK의 지역방송국이며 중파·FM라디오·텔레비전 방송을 담당하고 있으며 [야마구치현](../Page/야마구치현.md "wikilink")을 포함한 [주고쿠 지방을](../Page/주고쿠_지방.md "wikilink") 총괄하는 방송총국급 지역방송국이다.

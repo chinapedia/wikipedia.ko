@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ II ](https://ko.wikipedia.org/wiki/_II_).
+> This article is converted from Wikipedia: [애플 II 플러스](https://ko.wikipedia.org/wiki/애플_II_플러스).
 
 
 **애플 II 플러스**()는 [애플이](https://ko.wikipedia.org/wiki/애플_\(기업\) "wikilink") 만든 개인용 컴퓨터인 [애플 II 시리즈의](../Page/애플_II.md "wikilink") 두 번째 모델이다.

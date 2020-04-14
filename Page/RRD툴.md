@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [RRD](https://ko.wikipedia.org/wiki/RRD).
+> This article is converted from Wikipedia: [RRD툴](https://ko.wikipedia.org/wiki/RRD툴).
 
 
 **RRD툴**(, )은 시간에 따른 자료를 다룰 수 있는 도구이다. 그림 형식으로 시각화 해주는 기능도 있다.

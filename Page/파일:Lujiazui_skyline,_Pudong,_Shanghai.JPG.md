@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Lujiazui skyline, Pudong, Shanghai.JPG](https://ko.wikipedia.org/wiki/:Lujiazui_skyline,_Pudong,_Shanghai.JPG).
+> This article is converted from Wikipedia: [파일:Lujiazui skyline, Pudong, Shanghai.JPG](https://ko.wikipedia.org/wiki/파일:Lujiazui_skyline,_Pudong,_Shanghai.JPG).
 
 
 ## 파일확인

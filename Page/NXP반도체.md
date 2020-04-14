@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [NXP](https://ko.wikipedia.org/wiki/NXP).
+> This article is converted from Wikipedia: [NXP반도체](https://ko.wikipedia.org/wiki/NXP반도체).
 
 
 **NXP반도체**(NXP Semiconductors N.V.)는 [필립스](../Page/필립스.md "wikilink")가 설립한 새로운 [반도체](../Page/반도체.md "wikilink") 회사이다. [스핀오프](https://ko.wikipedia.org/wiki/스핀오프 "wikilink")는 NXP 세미컨덕터의 최고경영자인 [프란스 반 하우튼가](https://ko.wikipedia.org/wiki/프란스_반_하우튼 "wikilink") [2006년](../Page/2006년.md "wikilink") [8월 31일](../Page/8월_31일.md "wikilink") 화요일에 [베를린](../Page/베를린.md "wikilink")에서 발표하였고 다음날 아침에 세계 미디어가 소식을 전하였다.

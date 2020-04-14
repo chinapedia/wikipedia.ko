@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ TV ](https://ko.wikipedia.org/wiki/_TV_).
+> This article is converted from Wikipedia: [미에 TV 방송](https://ko.wikipedia.org/wiki/미에_TV_방송).
 
 
 [170px](https://ko.wikipedia.org/wiki/파일:Mtv_logo.svg "wikilink") [썸네일](https://ko.wikipedia.org/wiki/파일:Mie_Television.jpg "wikilink") **미에 TV 방송**(三重テレビ放送)은 [1969년](../Page/1969년.md "wikilink") [12월 1일](../Page/12월_1일.md "wikilink") [미에현](../Page/미에현.md "wikilink")의 독립 UHF방송국으로 개국했다.

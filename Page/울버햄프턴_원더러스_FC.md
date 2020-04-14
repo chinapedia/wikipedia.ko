@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  FC](https://ko.wikipedia.org/wiki/__FC).
+> This article is converted from Wikipedia: [울버햄프턴 원더러스 FC](https://ko.wikipedia.org/wiki/울버햄프턴_원더러스_FC).
 
 
 **울버햄프턴 원더러스 축구 클럽**(Wolverhampton Wanderers Football Club)은 [잉글랜드](../Page/잉글랜드.md "wikilink")의 [울버햄프턴](../Page/울버햄프턴.md "wikilink")을 연고로 하는 축구 클럽으로, 간단히 줄여서 **울브스**라고도 부른다.

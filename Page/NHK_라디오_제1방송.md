@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [NHK  1](https://ko.wikipedia.org/wiki/NHK__1).
+> This article is converted from Wikipedia: [NHK 라디오 제1방송](https://ko.wikipedia.org/wiki/NHK_라디오_제1방송).
 
 
 **NHK 라디오 제1방송**은 [일본방송협회](../Page/일본방송협회.md "wikilink")에서 운영하는 라디오 방송국 중 하나이다.

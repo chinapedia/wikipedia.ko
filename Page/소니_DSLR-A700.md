@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ DSLR-A700](https://ko.wikipedia.org/wiki/_DSLR-A700).
+> This article is converted from Wikipedia: [소니 DSLR-A700](https://ko.wikipedia.org/wiki/소니_DSLR-A700).
 
 
 **소니 알파 DSLR-A700**()는 [2007년](../Page/2007년.md "wikilink") [3월 8일에](../Page/3월_8일.md "wikilink") 발표된 [소니](../Page/소니.md "wikilink")의 [디지털 SLR이다](https://ko.wikipedia.org/wiki/디지털_SLR "wikilink"). 센서를 움직이는 형태의 [손떨림 방지](https://ko.wikipedia.org/wiki/손떨림_방지 "wikilink") 기능을 가지고 있다. [코니카 미놀타 다이낙스 7D의](https://ko.wikipedia.org/wiki/코니카_미놀타_다이낙스_7D "wikilink") 후속 기종이다.

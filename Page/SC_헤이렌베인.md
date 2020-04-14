@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SC ](https://ko.wikipedia.org/wiki/SC_).
+> This article is converted from Wikipedia: [SC 헤이렌베인](https://ko.wikipedia.org/wiki/SC_헤이렌베인).
 
 
 **SC 헤이렌베인**(, )은 [네덜란드](../Page/네덜란드.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽으로 [1920년](../Page/1920년.md "wikilink") [7월 20일에](../Page/7월_20일.md "wikilink") 창단되었다. 연고지는 [프리슬란트주](https://ko.wikipedia.org/wiki/프리슬란트주 "wikilink")에 위치한 [헤이렌베인](https://ko.wikipedia.org/wiki/헤이렌베인 "wikilink")이다.

@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [CA ](https://ko.wikipedia.org/wiki/CA_).
+> This article is converted from Wikipedia: [CA 우라칸](https://ko.wikipedia.org/wiki/CA_우라칸).
 
 
-**CA 우라칸** ()은 [아르헨티나](../Page/아르헨티나.md "wikilink") [부에노스아이레스](../Page/부에노스아이레스.md "wikilink")를 연고로 하는 [축구](../Page/축구.md "wikilink") [클럽](https://ko.wikipedia.org/wiki/클럽 "wikilink")이다. [2006-07 시즌 프로모시온에서](../Page/아르헨티나_프리메라_디비시온_2006-07.md "wikilink") [고도이크루스를](../Page/CD_고도이크루스.md "wikilink") 종합 5-2로 꺾고 [프리메라 디비시온으로](../Page/아르헨티나_프리메라_디비시온.md "wikilink") 승격했다.
+**CA 우라칸**()은 [아르헨티나](../Page/아르헨티나.md "wikilink") [부에노스아이레스](../Page/부에노스아이레스.md "wikilink")를 연고로 하는 [축구](../Page/축구.md "wikilink") [클럽](https://ko.wikipedia.org/wiki/클럽 "wikilink")이다. [2006-07 시즌 프로모시온에서](../Page/아르헨티나_프리메라_디비시온_2006-07.md "wikilink") [고도이크루스를](../Page/CD_고도이크루스.md "wikilink") 종합 5-2로 꺾고 [프리메라 디비시온으로](../Page/아르헨티나_프리메라_디비시온.md "wikilink") 승격했다.
 
 공식적으로 창단한 해는 [1908년](../Page/1908년.md "wikilink")이지만, 그 이전 [1903년](../Page/1903년.md "wikilink") [5월 25일](../Page/5월_25일.md "wikilink") 설립되었다는 기록도 있다. 우라칸은 부에노스아이레스의 [파르케 파트리시오](https://ko.wikipedia.org/wiki/파르케_파트리시오 "wikilink") 지역에 있는 [토마스 아돌포 두코 경기장](https://ko.wikipedia.org/wiki/토마스_아돌포_두코_경기장 "wikilink")(, 별칭은 궁전<sub>*El Palacio*</sub>)을 홈구장으로 사용하고 있으며, [산로렌소](https://ko.wikipedia.org/wiki/산로렌소 "wikilink")와는 치열한 라이벌 관계를 형성하고 있다.
 
