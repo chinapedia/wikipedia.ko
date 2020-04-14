@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:TNO ](https://ko.wikipedia.org/wiki/:TNO_).
+> This article is converted from Wikipedia: [틀:TNO 크기](https://ko.wikipedia.org/wiki/틀:TNO_크기).
 
 
 <imagemap> 파일:EightTNOs.png|thumb|upright=1.4||[명왕성](../Page/명왕성.md "wikilink"), [에리스](../Page/에리스_\(왜행성\).md "wikilink"), [마케마케](https://ko.wikipedia.org/wiki/마케마케 "wikilink"), [하우메아](https://ko.wikipedia.org/wiki/하우메아 "wikilink"), [세드나](../Page/90377_세드나.md "wikilink"), [2007 OR<sub>10</sub>](https://ko.wikipedia.org/wiki/\(225088\)_2007_OR10 "wikilink"), [콰오아](../Page/50000_콰오아.md "wikilink"), [오르쿠스](https://ko.wikipedia.org/wiki/90482_오르쿠스 "wikilink"), [지구](../Page/지구.md "wikilink"), [달](../Page/달.md "wikilink")의 크기 비교.

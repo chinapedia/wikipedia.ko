@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Sha la laSummer Time](https://ko.wikipedia.org/wiki/Sha_la_laSummer_Time).
+> This article is converted from Wikipedia: [Sha la la☆Summer Time](https://ko.wikipedia.org/wiki/Sha_la_la☆Summer_Time).
 
 
 〈**Sha la la☆Summer Time**〉는, [Kis-My-Ft2](../Page/Kis-My-Ft2.md "wikilink")의 17번째 [싱글이다](../Page/싱글_\(음악\).md "wikilink").

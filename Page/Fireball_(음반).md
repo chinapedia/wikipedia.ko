@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Fireball \(\)](https://ko.wikipedia.org/wiki/Fireball_\(\)).
+> This article is converted from Wikipedia: [Fireball \(음반\)](https://ko.wikipedia.org/wiki/Fireball_\(음반\)).
 
 
 **Fireball**은 영국의 5인조 락밴드 [딥 퍼플의](../Page/딥_퍼플.md "wikilink") 5집 앨범이자, 2기의 두번째 앨범이다. 앨범 커버가 인상적이며 [Deep Purple in Rock과](../Page/Deep_Purple_in_Rock.md "wikilink") [Machine Head의](../Page/Machine_Head.md "wikilink") 사이에 발매되어서 그런지 다소 크게는 발하지 못한 앨범. 그러나 밴드 처음으로 영국차트에 1위를 한 앨범이기도 하다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:TNO ](https://ko.wikipedia.org/wiki/:TNO_).
+> This article is converted from Wikipedia: [틀:TNO 거리](https://ko.wikipedia.org/wiki/틀:TNO_거리).
 
 
 <table>

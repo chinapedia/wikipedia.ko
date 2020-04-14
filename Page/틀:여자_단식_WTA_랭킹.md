@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:  WTA ](https://ko.wikipedia.org/wiki/:__WTA_).
+> This article is converted from Wikipedia: [틀:여자 단식 WTA 랭킹](https://ko.wikipedia.org/wiki/틀:여자_단식_WTA_랭킹).
 
 
 | WTA 랭킹 (단식), \[1\] |

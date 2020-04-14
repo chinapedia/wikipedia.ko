@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Disponvel](https://ko.wikipedia.org/wiki/Disponvel).
+> This article is converted from Wikipedia: [Disponível](https://ko.wikipedia.org/wiki/Disponível).
 
 
 《**Disponível**》 와 가수의 두 번째 앨범은 [렉사](../Page/렉사.md "wikilink"), 가장 잘 알려진된다.

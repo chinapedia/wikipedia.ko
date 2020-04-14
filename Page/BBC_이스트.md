@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [BBC ](https://ko.wikipedia.org/wiki/BBC_).
+> This article is converted from Wikipedia: [BBC 이스트](https://ko.wikipedia.org/wiki/BBC_이스트).
 
 
 [200px](https://ko.wikipedia.org/wiki/파일:BBC_Region_East_logo.svg "wikilink") **BBC 이스트** (BBC East)는 [잉글랜드](../Page/잉글랜드.md "wikilink") [노퍽주](https://ko.wikipedia.org/wiki/노퍽주 "wikilink"), [서퍽주](https://ko.wikipedia.org/wiki/서퍽주 "wikilink"), [에식스주](https://ko.wikipedia.org/wiki/에식스주 "wikilink"), [케임브리지셔주](../Page/케임브리지셔주.md "wikilink"), [노샘프턴셔주](../Page/노샘프턴셔주.md "wikilink"), [베드퍼드셔주](https://ko.wikipedia.org/wiki/베드퍼드셔주 "wikilink"), [하트퍼드셔주](https://ko.wikipedia.org/wiki/하트퍼드셔주 "wikilink"), [버킹엄셔주](https://ko.wikipedia.org/wiki/버킹엄셔주 "wikilink") 북부를 대상으로 한 [BBC 잉글랜드 지방](../Page/BBC_잉글리시_리전스.md "wikilink") 방송 권역이다.

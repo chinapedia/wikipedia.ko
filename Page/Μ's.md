@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [\'s](https://ko.wikipedia.org/wiki/\'s).
+> This article is converted from Wikipedia: [Μ\'s](https://ko.wikipedia.org/wiki/Μ\'s).
 
 
 **μ's**(뮤즈)는 [러브 라이브\!에](../Page/러브_라이브!.md "wikilink") 등장하는 가공의 스쿨 아이돌 그룹이며, 캐릭터의 목소리를 연기하는 성우들에 의한 실제 9인조 여성 성우 유닛의 이름이다.

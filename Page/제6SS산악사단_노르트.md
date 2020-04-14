@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [6SS ](https://ko.wikipedia.org/wiki/6SS_).
+> This article is converted from Wikipedia: [제6SS산악사단 노르트](https://ko.wikipedia.org/wiki/제6SS산악사단_노르트).
 
 
 **제6SS산악사단 노르트**()는 [나치 독일](../Page/나치_독일.md "wikilink") [무장친위대](../Page/무장친위대.md "wikilink")의 사단 중 하나이다. 1941년 2월 **친위대 전투단 노르트**()라는 이름으로 만들어져 그해 9월 사단으로 승격되었다.

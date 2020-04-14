@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [BMW 2 ](https://ko.wikipedia.org/wiki/BMW_2_).
+> This article is converted from Wikipedia: [BMW 2 시리즈](https://ko.wikipedia.org/wiki/BMW_2_시리즈).
 
 
 **BMW 2 시리즈**는 [독일](../Page/독일.md "wikilink")의 자동차 회사인 [BMW](../Page/BMW.md "wikilink")의 [쿠페](../Page/쿠페.md "wikilink")/[컨버터블](../Page/컨버터블.md "wikilink"), [MPV](https://ko.wikipedia.org/wiki/MPV "wikilink") 라인업이다. 액티브 투어러와 그란 투어러는 [미니](../Page/미니_\(BMW\).md "wikilink"), [X1](../Page/BMW_X1.md "wikilink"), 쿠페는 [1 시리즈와](../Page/BMW_1_시리즈.md "wikilink") 플랫폼을 공유한다.

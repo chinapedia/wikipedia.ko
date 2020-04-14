@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [   - UK](https://ko.wikipedia.org/wiki/___-_UK).
+> This article is converted from Wikipedia: [플레이스테이션 오피셜 매거진 - UK](https://ko.wikipedia.org/wiki/플레이스테이션_오피셜_매거진_-_UK).
 
 
 〈**플레이스테이션 오피셜 매거진 - UK**〉()는 2006년에 창간된 영국의 비디오 게임 잡지이다.

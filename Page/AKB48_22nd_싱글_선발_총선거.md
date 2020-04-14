@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [AKB48 22nd   ](https://ko.wikipedia.org/wiki/AKB48_22nd___).
+> This article is converted from Wikipedia: [AKB48 22nd 싱글 선발 총선거](https://ko.wikipedia.org/wiki/AKB48_22nd_싱글_선발_총선거).
 
 
 {{역사적 사건 정보 | 이름 = AKB48 22nd 싱글 선발 총선거
@@ -7,7 +7,7 @@
 [SKE48](../Page/SKE48.md "wikilink")
 [NMB48](../Page/NMB48.md "wikilink")
 | 장소 = 일본 무도관(개표 이벤트) | 날짜 = 2011년 5월 24일 10시 00분(JST) \~ 6월 8일 15시 00분(JST)(투표)
-2011년 6월 9일(개표) | 결과 = AKB48 22번째 싱글 〈〉의 선발 멤버 {{추가 연표 | 음악가 = [AKB48 싱글 선발 총선거](https://ko.wikipedia.org/wiki/AKB48_싱글_선발_총선거 "wikilink") | 음반종류 = 싱글 | 이전싱글 = [{{nobr](https://ko.wikipedia.org/wiki/AKB48_17th_싱글_선발_총선거 "wikilink")
+2011년 6월 9일(개표) | 결과 = AKB48 22번째 싱글 〈〉의 선발 멤버 {{추가 연표 | 음악가 = [AKB48 싱글 선발 총선거](https://ko.wikipedia.org/wiki/AKB48_싱글_선발_총선거 "wikilink") | 음반종류 = 싱글 | 이전싱글 = [{{nobr](../Page/AKB48_17th_싱글_선발_총선거.md "wikilink")
 (2010) | 이번싱글 = **
 ‘올해도 진짜입니다’**(2011) | 다음싱글 = \[\[AKB48_27th_싱글_선발_총선거| {{추가 연표 | 음악가 = [AKB48 싱글 선발 가위바위보 대회](https://ko.wikipedia.org/wiki/AKB48_싱글_선발_가위바위보_대회 "wikilink") | 음반종류 = 싱글 | 이전싱글 = \[\[AKB48_19th_싱글_선발_가위바위보_대회|
 

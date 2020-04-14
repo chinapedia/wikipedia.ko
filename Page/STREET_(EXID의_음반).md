@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [STREET \(EXID \)](https://ko.wikipedia.org/wiki/STREET_\(EXID_\)).
+> This article is converted from Wikipedia: [STREET \(EXID의 음반\)](https://ko.wikipedia.org/wiki/STREET_\(EXID의_음반\)).
 
 
 《**STREET**》(스트리트)는 대한민국의 걸그룹 [EXID](../Page/EXID.md "wikilink")의 첫 번째 정규음반이다.

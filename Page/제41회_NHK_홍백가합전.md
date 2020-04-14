@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [41 NHK ](https://ko.wikipedia.org/wiki/41_NHK_).
+> This article is converted from Wikipedia: [제41회 NHK 홍백가합전](https://ko.wikipedia.org/wiki/제41회_NHK_홍백가합전).
 
 
 《**제41회 NHK 홍백가합전**》()는 [1990년](../Page/1990년.md "wikilink") [12월 31일에](../Page/12월_31일.md "wikilink") 방송된 통산 41회째인 [NHK 홍백가합전이다](../Page/NHK_홍백가합전.md "wikilink").

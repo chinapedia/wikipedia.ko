@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Indent](https://ko.wikipedia.org/wiki/:Indent).
+> This article is converted from Wikipedia: [모듈:Indent](https://ko.wikipedia.org/wiki/모듈:Indent).
 
 
 local p = {}

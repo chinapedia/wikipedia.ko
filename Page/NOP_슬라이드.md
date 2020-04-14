@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [NOP ](https://ko.wikipedia.org/wiki/NOP_).
+> This article is converted from Wikipedia: [NOP 슬라이드](https://ko.wikipedia.org/wiki/NOP_슬라이드).
 
 
 [컴퓨터 보안에서](../Page/컴퓨터_보안.md "wikilink"), **NOP 슬라이드**, **NOP 슬레드,** **NOP 램프**, 혹은 **NOP** **미끄럼틀**은 NOP 명령어들을 나열시킨 [바이너리](https://ko.wikipedia.org/wiki/바이너리 "wikilink") 조각으로써, 프로그램이 NOP 슬라이드 안의 어느 [메모리 주소부터](../Page/메모리_주소.md "wikilink") 실행을 시작하든 CPU 명령어 실행 흐름(컨트롤)이 슬라이드 끝까지 *미끄러져 내려오게* 만든 것이다. 보통 NOP 슬라이드의 끝은 궁극적으로 실행시키고자 하는 명령어들의 시작점과 연결되어 있다.
@@ -11,7 +11,7 @@ NOP 슬라이드는 설치되는 곳에서 적용받는 제약 조건에 따라 
 
 ## 같이 보기
 
-  - [힙 스프레이](https://ko.wikipedia.org/wiki/힙_스프레이 "wikilink") - NOP 슬라이드의 사용과 상호보완적인 기법
+  - [힙 스프레이](../Page/힙_스프레이.md "wikilink") - NOP 슬라이드의 사용과 상호보완적인 기법
 
 ## 외부 링크
 

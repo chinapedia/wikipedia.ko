@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [BBC  ](https://ko.wikipedia.org/wiki/BBC__).
+> This article is converted from Wikipedia: [BBC 노스이스트 컴브리아](https://ko.wikipedia.org/wiki/BBC_노스이스트_컴브리아).
 
 
 **BBC 노스이스트 앤드 컴브리아**(BBC North East and Cumbria)는 [더럼 주](https://ko.wikipedia.org/wiki/더럼_주 "wikilink"), [노섬벌랜드 주](https://ko.wikipedia.org/wiki/노섬벌랜드_주 "wikilink"), [티사이드 주](https://ko.wikipedia.org/wiki/티사이드_주 "wikilink"), [타인 위어 주를](https://ko.wikipedia.org/wiki/타인_위어_주 "wikilink") 대상으로 한 [BBC 잉글랜드 지방](../Page/BBC_잉글리시_리전스.md "wikilink") 방송이다.

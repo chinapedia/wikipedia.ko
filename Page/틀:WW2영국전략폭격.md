@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:WW2](https://ko.wikipedia.org/wiki/:WW2).
+> This article is converted from Wikipedia: [틀:WW2영국전략폭격](https://ko.wikipedia.org/wiki/틀:WW2영국전략폭격).
 
 
 {{둘러보기 상자 |이름 = WW2영국전략폭격 |제목 = [x23px](https://ko.wikipedia.org/wiki/파일:RAF_roundel.svg "wikilink") 제2차 세계 대전 당시 [영국 왕립공군의](../Page/영국_왕립공군.md "wikilink") 전략폭격 [x23px](https://ko.wikipedia.org/wiki/파일:RAF_roundel.svg "wikilink") |제목모양 =  |bodystyle =  |groupstyle=  |belowstyle=  |abovestyle=  |그림=[175px](https://ko.wikipedia.org/wiki/파일:Fotothek_df_ps_0000010_Blick_vom_Rathausturm.jpg "wikilink") | listclass = hlist

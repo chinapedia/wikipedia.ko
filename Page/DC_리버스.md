@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [DC ](https://ko.wikipedia.org/wiki/DC_).
+> This article is converted from Wikipedia: [DC 리버스](https://ko.wikipedia.org/wiki/DC_리버스).
 
 
 **DC 리버스**(DC Rebirth)는 [DC 코믹스에서](../Page/DC_코믹스.md "wikilink") 2016년 5월부터 선보인 만화 대규모 리런치 행사의 이름이다. 대대적인 [리부트](https://ko.wikipedia.org/wiki/리부트 "wikilink")로 알려진 [뉴52](https://ko.wikipedia.org/wiki/뉴52 "wikilink")의 종결과 함께, 과거 DC 유니버스의 부활과 《[왓치맨](../Page/왓치맨.md "wikilink")》의 DC 유니버스 편입을 내세웠다. 뉴52의 역사를 지우는 것은 아니고 이야기가 이어진다.

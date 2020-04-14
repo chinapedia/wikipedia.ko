@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KAL  ](https://ko.wikipedia.org/wiki/KAL__).
+> This article is converted from Wikipedia: [KAL컵 코리아 오픈](https://ko.wikipedia.org/wiki/KAL컵_코리아_오픈).
 
 
 **KAL컵 코리아 오픈 테니스 선수권 대회**는 1987년에서 1996년까지 개최되었던 [그랑프리](https://ko.wikipedia.org/wiki/그랑프리_테니스_서킷 "wikilink"), [ATP투어](../Page/프로_테니스_협회.md "wikilink") 대회이다. [대한민국](../Page/대한민국.md "wikilink") [서울](https://ko.wikipedia.org/wiki/서울 "wikilink")에서 [대한항공](https://ko.wikipedia.org/wiki/대한항공 "wikilink")의 후원으로 열렸으며 실외 하드 코트에서 진행되었다.

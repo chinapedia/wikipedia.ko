@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [WWE   ](https://ko.wikipedia.org/wiki/WWE___).
+> This article is converted from Wikipedia: [WWE 클래시 오브 챔피언스](https://ko.wikipedia.org/wiki/WWE_클래시_오브_챔피언스).
 
 
 **클래쉬 오브 챔피언스**(Clash of Champions)는 [1988년](../Page/1988년.md "wikilink")부터 [1997년](../Page/1997년.md "wikilink")까지 [NWA](../Page/내셔널_레슬링_얼라이언스.md "wikilink")(1988년)와 [WCW](https://ko.wikipedia.org/wiki/월드_챔피언십_레슬링 "wikilink")(1988년부터 1997년까지)가 월간 TV 스페셜로 진행하던 프로그램이었다. [WWE](https://ko.wikipedia.org/wiki/WWE "wikilink")가 브랜드 흡수합병에 따라 폐지되었다가 2016년 7월 [RAW](../Page/WWE_러.md "wikilink"), [스맥다운을](../Page/WWE_스맥다운.md "wikilink") [WWE 드래프트로](../Page/WWE_드래프트.md "wikilink") 5년만에 다시 분리하기 시작하여 [WWE 나이트 오브 챔피언스를](../Page/WWE_나이트_오브_챔피언스.md "wikilink") 대신하여, [RAW](../Page/WWE_러.md "wikilink") 독점 PPV로 부활되었다. 2017년부터는 [스맥다운](https://ko.wikipedia.org/wiki/스맥다운 "wikilink") 독점 PPV로 변경된다.

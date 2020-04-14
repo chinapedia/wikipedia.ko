@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:  ATP ](https://ko.wikipedia.org/wiki/:__ATP_).
+> This article is converted from Wikipedia: [틀:남자 복식 ATP 랭킹](https://ko.wikipedia.org/wiki/틀:남자_복식_ATP_랭킹).
 
 
 | ATP 랭킹 (복식), \[1\] |

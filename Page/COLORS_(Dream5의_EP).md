@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [COLORS \(Dream5 EP\)](https://ko.wikipedia.org/wiki/COLORS_\(Dream5_EP\)).
+> This article is converted from Wikipedia: [COLORS \(Dream5의 EP\)](https://ko.wikipedia.org/wiki/COLORS_\(Dream5의_EP\)).
 
 
 《**COLORS**》(컬러즈, )는 [2016년](../Page/2016년.md "wikilink") [2월 24일에](../Page/2월_24일.md "wikilink") [에이벡스 트랙스에서](https://ko.wikipedia.org/wiki/에이벡스_트랙스 "wikilink") 발매된 [Dream5](https://ko.wikipedia.org/wiki/Dream5 "wikilink")의 세 번째 [정규 음반이다](../Page/정규_음반.md "wikilink").

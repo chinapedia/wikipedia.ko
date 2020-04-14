@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Class](https://ko.wikipedia.org/wiki/:Class).
+> This article is converted from Wikipedia: [틀:Class](https://ko.wikipedia.org/wiki/틀:Class).
 
 
 <noinclude>

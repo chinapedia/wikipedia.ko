@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Escape](https://ko.wikipedia.org/wiki/:Escape).
+> This article is converted from Wikipedia: [모듈:Escape](https://ko.wikipedia.org/wiki/모듈:Escape).
 
 
 local escape = {

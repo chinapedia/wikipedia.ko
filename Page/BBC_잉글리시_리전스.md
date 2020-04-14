@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [BBC  ](https://ko.wikipedia.org/wiki/BBC__).
+> This article is converted from Wikipedia: [BBC 잉글리시 리전스](https://ko.wikipedia.org/wiki/BBC_잉글리시_리전스).
 
 
 **BBC 잉글리시 리전스** (BBC English Regions)는 영국 [잉글랜드](../Page/잉글랜드.md "wikilink"), [맨 섬](https://ko.wikipedia.org/wiki/맨_섬 "wikilink"), [채널 제도를](../Page/채널_제도.md "wikilink") 대상으로 한 지역 텔레비전 방송, 라디오 방송, [웹](../Page/인터넷.md "wikilink") 방송, [텔레텍스트](https://ko.wikipedia.org/wiki/텔레텍스트 "wikilink") 방송을 맡고 있는 [BBC](https://ko.wikipedia.org/wiki/BBC "wikilink")의 부서이다. BBC의 주권국별 방송 부서 네 곳 중 하나이며 나머지 세 곳은 [BBC 스코틀랜드](../Page/BBC_스코틀랜드.md "wikilink"), [BBC 웨일스](https://ko.wikipedia.org/wiki/BBC_웨일스 "wikilink"), [BBC 북아일랜드다](https://ko.wikipedia.org/wiki/BBC_북아일랜드 "wikilink").\[1\]

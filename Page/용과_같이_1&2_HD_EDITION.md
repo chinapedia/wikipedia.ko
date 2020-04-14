@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  1\&2 HD EDITION](https://ko.wikipedia.org/wiki/__1\&2_HD_EDITION).
+> This article is converted from Wikipedia: [용과 같이 1\&2 HD EDITION](https://ko.wikipedia.org/wiki/용과_같이_1\&2_HD_EDITION).
 
 
 《**용과 같이 1&2 HD EDITION**》()는 세가(현: [세가 게임즈](https://ko.wikipedia.org/wiki/세가_게임즈 "wikilink"))에서 [2012년](../Page/2012년.md "wikilink") [11월 1일에](../Page/11월_1일.md "wikilink") 발매된 [플레이스테이션 3용](../Page/플레이스테이션_3.md "wikilink") 게임 소프트웨어이다. [2013년](../Page/2013년.md "wikilink") [8월 8일에](../Page/8월_8일.md "wikilink") [Wii U](../Page/Wii_U.md "wikilink") 이식판 《**용과 같이 1&2 HD for Wii U**》()를 발매.

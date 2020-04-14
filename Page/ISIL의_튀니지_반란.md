@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ISIL  ](https://ko.wikipedia.org/wiki/ISIL__).
+> This article is converted from Wikipedia: [ISIL의 튀니지 반란](https://ko.wikipedia.org/wiki/ISIL의_튀니지_반란).
 
 
 **튀니지 반란**은 [ISIL](https://ko.wikipedia.org/wiki/ISIL "wikilink") 지부가 튀니지에서 지속적으로 벌이는 군사 및 테러 활동을 의미한다. 2015년 여름, [수스 테러](../Page/2015년_수스_테러.md "wikilink") 이후 ISIL이 튀니지에서 활동하기 시작했다. 2015년 3월 [바르도 국립박물관 총기 난사 사건](../Page/바르도_국립박물관_총기_난사_사건.md "wikilink") 때, IS가 자신들의 소행이라고 주장했음에도 불구하고, 튀니지 정부는 오크바 이븐 나파 여단을 비난했다. 2016년 3월 이후 벵 게당스에서 국경 충돌이 잇따라 발생하고 있으며, ISIL의 활동은 무장 반군처럼 묘사되고 있다.\[1\] 이는 이 단체가 간헐적인 자살 공격에서 영토 획득을 위한 군사 공격으로 전략을 바꾸었기 때문이다.

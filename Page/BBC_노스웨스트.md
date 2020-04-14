@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [BBC ](https://ko.wikipedia.org/wiki/BBC_).
+> This article is converted from Wikipedia: [BBC 노스웨스트](https://ko.wikipedia.org/wiki/BBC_노스웨스트).
 
 
 **BBC 노스웨스트** (BBC North West)는 [체셔 주](https://ko.wikipedia.org/wiki/체셔_주 "wikilink"), [그레이터맨체스터](https://ko.wikipedia.org/wiki/그레이터맨체스터 "wikilink"), [랭커셔 주](https://ko.wikipedia.org/wiki/랭커셔_주 "wikilink"), [머지사이드 주](https://ko.wikipedia.org/wiki/머지사이드_주 "wikilink"), [노스요크셔 주](https://ko.wikipedia.org/wiki/노스요크셔_주 "wikilink") ([크레이븐](https://ko.wikipedia.org/wiki/크레이븐 "wikilink") 서부) [웨스트요크셔 주](https://ko.wikipedia.org/wiki/웨스트요크셔_주 "wikilink") (월스덴), [더비셔 주](https://ko.wikipedia.org/wiki/더비셔_주 "wikilink") ([하이피크](https://ko.wikipedia.org/wiki/하이피크_\(더비셔_주\) "wikilink") 서부), [컴브리아 주](https://ko.wikipedia.org/wiki/컴브리아_주 "wikilink") ([배로인퍼니스 구와](https://ko.wikipedia.org/wiki/배로인퍼니스_구 "wikilink") [사우스레이클랜드](https://ko.wikipedia.org/wiki/사우스레이클랜드 "wikilink")), [맨 섬을](https://ko.wikipedia.org/wiki/맨_섬 "wikilink") 대상으로 한 [BBC 잉글랜드 지방](../Page/BBC_잉글리시_리전스.md "wikilink") 방송이다.

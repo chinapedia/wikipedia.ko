@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Q](https://ko.wikipedia.org/wiki/Q).
+> This article is converted from Wikipedia: [포핀Q](https://ko.wikipedia.org/wiki/포핀Q).
 
 
 《**포핀Q**》(ポッピンQ)는 [도에이 애니메이션에서](../Page/도에이_애니메이션.md "wikilink") [2016년](../Page/2016년.md "wikilink") [12월 23일에](../Page/12월_23일.md "wikilink") 공개할 예정인 [애니메이션 영화](../Page/애니메이션_영화.md "wikilink") 작품이다.
@@ -10,7 +10,7 @@
 ## 등장 인물
 
   - **코미나토 이스미(小湊伊純)**
-    목소리 - [세토 아사미](https://ko.wikipedia.org/wiki/세토_아사미 "wikilink")
+    목소리 - [세토 아사미](../Page/세토_아사미.md "wikilink")
     육상부에 소속한 중학교 3학년생.
 
 <!-- end list -->
@@ -45,7 +45,7 @@
 <!-- end list -->
 
   - 루치아(ルチア)
-    목소리 - [이시하라 카오리](https://ko.wikipedia.org/wiki/이시하라_카오리 "wikilink")
+    목소리 - [이시하라 카오리](../Page/이시하라_카오리.md "wikilink")
 
 <!-- end list -->
 
@@ -64,7 +64,7 @@
 
 ## 웹 라디오
 
-3월 27일부터 인터넷 라디오 스테이션 「온센」에서 방송되고 있다. 퍼스널리티는 [세토 아사미](https://ko.wikipedia.org/wiki/세토_아사미 "wikilink"), [오자와 아리](../Page/오자와_아리.md "wikilink"), [쿠로사와 토모요가](../Page/쿠로사와_토모요.md "wikilink") 담당한다.
+3월 27일부터 인터넷 라디오 스테이션 「온센」에서 방송되고 있다. 퍼스널리티는 [세토 아사미](../Page/세토_아사미.md "wikilink"), [오자와 아리](../Page/오자와_아리.md "wikilink"), [쿠로사와 토모요가](../Page/쿠로사와_토모요.md "wikilink") 담당한다.
 
 ## 각주
 

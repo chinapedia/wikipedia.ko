@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ APEC ](https://ko.wikipedia.org/wiki/_APEC_).
+> This article is converted from Wikipedia: [누리마루 APEC 하우스](https://ko.wikipedia.org/wiki/누리마루_APEC_하우스).
 
 
 [썸네일](https://ko.wikipedia.org/wiki/파일:Nurimaru_APEC_House.jpg "wikilink") [썸네일](https://ko.wikipedia.org/wiki/파일:APEC_House_and_Guangan_Bridge.jpg "wikilink") **누리마루 APEC 하우스**()는 [대한민국](../Page/대한민국.md "wikilink") [부산광역시](https://ko.wikipedia.org/wiki/부산광역시 "wikilink") [해운대구](../Page/해운대구.md "wikilink")의 [동백섬](../Page/동백섬.md "wikilink") 내에 위치한 회의장이다. [부산광역시청](../Page/부산광역시청.md "wikilink")이 관리하고 있으며, [2005년 부산 APEC 정상회담과](../Page/2005년_부산_APEC_정상회담.md "wikilink") 2019년 한국 아세안 특별정상회의 장소로 이용되었다.

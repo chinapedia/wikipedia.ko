@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ K. ](https://ko.wikipedia.org/wiki/_K._).
+> This article is converted from Wikipedia: [브라이언 K. 본](https://ko.wikipedia.org/wiki/브라이언_K._본).
 
 
 **브라이언 K. 본**(, [1976년](../Page/1976년.md "wikilink") [7월 17일](../Page/7월_17일.md "wikilink") \~ )은 [미국](../Page/미국.md "wikilink")의 [만화가](https://ko.wikipedia.org/wiki/만화가 "wikilink")이다. 《[Y: 더 라스트 맨](https://ko.wikipedia.org/wiki/Y:_더_라스트_맨 "wikilink")》, 《[사가](https://ko.wikipedia.org/wiki/사가 "wikilink")》 등의 흥행으로 21세기 떠오르는 작가이다. 《[로스트](../Page/로스트.md "wikilink")》, 《[언더 더 돔](https://ko.wikipedia.org/wiki/언더_더_돔 "wikilink")》 등 TV 드라마 집필 경력도 있다.

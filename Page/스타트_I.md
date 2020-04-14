@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ I](https://ko.wikipedia.org/wiki/_I).
+> This article is converted from Wikipedia: [스타트 I](https://ko.wikipedia.org/wiki/스타트_I).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:George_Bush_and_Mikhail_Gorbachev_sign_the_START_1991.jpg "wikilink") **스타트 I**(START I, Strategic Arms Reduction Treaty, 전략 무기 감축 조약)은 1991년 미국과 소련이 체결한 핵무기 감축 조약이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  IS  ](https://ko.wikipedia.org/wiki/__IS__).
+> This article is converted from Wikipedia: [네덜란드의 대 IS 군사 개입](https://ko.wikipedia.org/wiki/네덜란드의_대_IS_군사_개입).
 
 
 **네덜란드의 대 IS 군사 개입**은 2014년부터 시작된 [네덜란드](../Page/네덜란드.md "wikilink") 정부의 대 IS 전쟁이다. 2014년 9월 24일 네덜란드 정부의 IS 군사 개입 참전 선포로 시작되었다. 현재 네덜란드군은 시리아와 이라크 영공 전반에서 활동하고 있으며, 네덜란드의 작전은 [시리아 내전](../Page/시리아_내전.md "wikilink") 및 [이라크 내전에](https://ko.wikipedia.org/wiki/이라크_내전_\(2014년-현재\) "wikilink") 포함되기도 한다.

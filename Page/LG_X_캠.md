@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [LG X ](https://ko.wikipedia.org/wiki/LG_X_).
+> This article is converted from Wikipedia: [LG X 캠](https://ko.wikipedia.org/wiki/LG_X_캠).
 
 
 **LG X 캠**(LG X Cam)은 [LG 전자가](https://ko.wikipedia.org/wiki/LG_전자 "wikilink") [2016년](../Page/2016년.md "wikilink") [6월 30일](../Page/6월_30일.md "wikilink") 출시한 보급형 스마트폰이다. 처음 공개는 [2016년](../Page/2016년.md "wikilink") [2월](../Page/2월.md "wikilink"), [모바일 월드 콩그레스](../Page/모바일_월드_콩그레스.md "wikilink") 2016에서 공개되었다.\[1\][LG X](https://ko.wikipedia.org/wiki/LG_X "wikilink") 시리즈의 모델이며, 후면 카메라에 500만 화소의 광각 카메라를 더한 듀얼 카메라가 특징이다. 해외판과 국내판의 디자인이 약간 다른데 해외판은 처음 공개된 것과 같이 소프트키가 적용되었으나 국내판은 물리키가 적용되었다.

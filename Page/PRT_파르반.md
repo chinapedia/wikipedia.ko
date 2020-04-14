@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [PRT ](https://ko.wikipedia.org/wiki/PRT_).
+> This article is converted from Wikipedia: [PRT 파르반](https://ko.wikipedia.org/wiki/PRT_파르반).
 
 
 **PRT 파르반**()은 [파르반 주의](https://ko.wikipedia.org/wiki/파르반_주 "wikilink") 전쟁 피해 복구를 맡았던 [대한민국](../Page/대한민국.md "wikilink")의 [지역재건대](https://ko.wikipedia.org/wiki/지역재건대 "wikilink")이다. 대한민국은 [NATO와](../Page/북대서양_조약_기구.md "wikilink") [EAPC](https://ko.wikipedia.org/wiki/유럽-대서양_파트너쉽_의회 "wikilink") 회원국이 아닌 안보지원 기여국로서 PRT를 파견하였는데, [동부지역사령부](https://ko.wikipedia.org/wiki/동부_훈련지원원조사령부 "wikilink") 관할 지역에서 근무했으며 [미국 제3보병사단의](https://ko.wikipedia.org/wiki/제3보병사단_\(미국\) "wikilink") 통제를 받았다.

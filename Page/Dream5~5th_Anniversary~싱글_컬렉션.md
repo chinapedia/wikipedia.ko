@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Dream5\~5th Anniversary\~ ](https://ko.wikipedia.org/wiki/Dream5\~5th_Anniversary\~_).
+> This article is converted from Wikipedia: [Dream5\~5th Anniversary\~싱글 컬렉션](https://ko.wikipedia.org/wiki/Dream5\~5th_Anniversary\~싱글_컬렉션).
 
 
 《**Dream5\~5th Anniversary\~싱글 컬렉션**》(드림 파이브 피프스 애니버서리 싱글 컬렉션, )은 [2015년](../Page/2015년.md "wikilink") [2월 11일에](../Page/2월_11일.md "wikilink") [에이벡스 트랙스에서](https://ko.wikipedia.org/wiki/에이벡스_트랙스 "wikilink") 발매된 [Dream5](https://ko.wikipedia.org/wiki/Dream5 "wikilink")의 첫 [베스트 음반이다](https://ko.wikipedia.org/wiki/베스트_음반 "wikilink").

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:2016 Summer Olympics women\'s volleyball match A15](https://ko.wikipedia.org/wiki/:2016_Summer_Olympics_women\'s_volleyball_match_A15).
+> This article is converted from Wikipedia: [틀:2016 Summer Olympics women\'s volleyball match A15](https://ko.wikipedia.org/wiki/틀:2016_Summer_Olympics_women\'s_volleyball_match_A15).
 
 
 <noinclude> The purpose of this template is to collect source text used in several articles in one place, in order to minimize maintenance and storage space. This is the fifteenth match in Pool A in the [women's volleyball tournament](https://ko.wikipedia.org/wiki/Volleyball_at_the_2016_Summer_Olympics_–_Women's_tournament "wikilink") of the [2016 Summer Olympics](https://ko.wikipedia.org/wiki/2016_Summer_Olympics "wikilink"). The template is typically used in the articles covering the involved nations' participation in the Games, and in the article covering the tournament as a whole.

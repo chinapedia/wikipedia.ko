@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ K. ](https://ko.wikipedia.org/wiki/_K._).
+> This article is converted from Wikipedia: [빈센트 K. 브룩스](https://ko.wikipedia.org/wiki/빈센트_K._브룩스).
 
 
 **빈센트 케이스 브룩스**()는 [미 육군의](../Page/미국_육군.md "wikilink") 장성으로, 2016년 4월 30일부터 [주한미군](https://ko.wikipedia.org/wiki/주한미군 "wikilink") 사령관 및 [한미연합사](../Page/한미연합군사령부.md "wikilink") 사령관을 맡았다. 최초의 [흑인](../Page/흑인.md "wikilink") 주한미군 사령관이었다.

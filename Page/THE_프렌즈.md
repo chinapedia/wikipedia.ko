@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [THE ](https://ko.wikipedia.org/wiki/THE_).
+> This article is converted from Wikipedia: [THE 프렌즈](https://ko.wikipedia.org/wiki/THE_프렌즈).
 
 
 《**THE 프렌즈**》는 2014년부터 [K-STAR에서](../Page/K-STAR_\(텔레비전_채널\).md "wikilink") 방영되는 리얼리티 여행 프로그램이다. 현재 시즌8까지 방영되었다
@@ -46,7 +46,7 @@
   - [데니안](https://ko.wikipedia.org/wiki/데니안 "wikilink")
   - [오타니 료헤이](../Page/오타니_료헤이.md "wikilink")
 
-### 시즌 7: THE 프렌즈 in 코스타리카
+### 시즌 8: THE 프렌즈 in 코스타리카
 
   - [에릭 남](../Page/에릭_남.md "wikilink")
   - [샘 김](https://ko.wikipedia.org/wiki/샘_김 "wikilink")

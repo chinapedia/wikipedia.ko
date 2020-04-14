@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ A. ](https://ko.wikipedia.org/wiki/_A._).
+> This article is converted from Wikipedia: [마흐무드 A. 아스라르](https://ko.wikipedia.org/wiki/마흐무드_A._아스라르).
 
 
 **마흐무드 안줌 아스라르**(, [1976년](../Page/1976년.md "wikilink") [11월 20일](../Page/11월_20일.md "wikilink") \~ )는 [터키](../Page/터키.md "wikilink") 태생의 [만화가](https://ko.wikipedia.org/wiki/만화가 "wikilink")이다. 터키 [앙카라](../Page/앙카라.md "wikilink")에서 [오스트리아](../Page/오스트리아.md "wikilink")인 어머니와 [파키스탄](../Page/파키스탄.md "wikilink")인 아버지에게서 태어났다. [미국 만화를](../Page/미국_만화.md "wikilink") 비롯한 서구 만화에서 작화를 그리고 있는데, 대표작으로 [이미지 코믹스의](https://ko.wikipedia.org/wiki/이미지_코믹스 "wikilink") 《[다이너모 파이브](https://ko.wikipedia.org/wiki/다이너모_파이브 "wikilink")》, [DC 코믹스의](../Page/DC_코믹스.md "wikilink") 《[슈퍼걸](https://ko.wikipedia.org/wiki/슈퍼걸 "wikilink")》이 있다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [OTT ](https://ko.wikipedia.org/wiki/OTT_).
+> This article is converted from Wikipedia: [OTT 서비스](https://ko.wikipedia.org/wiki/OTT_서비스).
 
 
 **OTT**(Over The Top Service)는 인터넷을 통해 방송 프로그램·영화·교육 등 각종 미디어 콘텐츠를 제공하는 서비스를 말한다.\[1\] OTT는 over the top의 준말로 over-the-X는 기존의 범위를 넘어서라는 뜻을 가진다. top은 TV [셋톱박스](../Page/셋톱박스.md "wikilink") 같은 단말기를 의미한다. 따라서 직역하면 셋톱박스를 통해서, 넘어서의 의미를 가진다.\[2\] 이처럼 OTT서비스는 초기에 단말기를 통해 영화·TV프로그램 등 프리미엄 콘텐츠를 VOD 방식으로 제공하는 서비스를 지칭했다. 이후 인터넷 기술변화에 따라 콘텐츠 유통이 모바일까지 포함하면서 OTT의 의미가 확대됐다.\[3\]
@@ -25,7 +25,7 @@ OTT 서비스의 등장은 공급과 수요의 측면에서 분석할 수 있다
 <tbody>
 <tr class="odd">
 <td></td>
-<td><p><a href="../Page/넷플릭스.md" title="wikilink">넷플릭스</a>, <a href="https://ko.wikipedia.org/wiki/디즈니+" title="wikilink">디즈니+</a>, <a href="https://ko.wikipedia.org/wiki/HBO_맥스" title="wikilink">HBO 맥스</a>, <a href="../Page/애플_TV.md" title="wikilink">애플 TV</a>, <a href="https://ko.wikipedia.org/wiki/VUDU" title="wikilink">VUDU</a>, <a href="../Page/훌루.md" title="wikilink">훌루</a></p></td>
+<td><p><a href="../Page/넷플릭스.md" title="wikilink">넷플릭스</a>, <a href="../Page/디즈니+.md" title="wikilink">디즈니+</a>, <a href="https://ko.wikipedia.org/wiki/HBO_맥스" title="wikilink">HBO 맥스</a>, <a href="../Page/애플_TV.md" title="wikilink">애플 TV</a>, <a href="https://ko.wikipedia.org/wiki/VUDU" title="wikilink">VUDU</a>, <a href="../Page/훌루.md" title="wikilink">훌루</a></p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -34,6 +34,10 @@ OTT 서비스의 등장은 공급과 수요의 측면에서 분석할 수 있다
 <tr class="odd">
 <td></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/Abema_TV" title="wikilink">Abema TV</a>, <a href="../Page/훌루.md" title="wikilink">훌루</a></p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><p><a href="../Page/티빙.md" title="wikilink">티빙</a>, <a href="https://ko.wikipedia.org/wiki/WAVVE" title="wikilink">WAVVE</a>, <a href="https://ko.wikipedia.org/wiki/시즌_(플랫폼)" title="wikilink">Seezn</a>, 현대HCN 모바일TV, <a href="../Page/넷플릭스.md" title="wikilink">넷플릭스</a></p></td>
 </tr>
 </tbody>
 </table>

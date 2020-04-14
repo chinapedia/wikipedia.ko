@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [COSAFA](https://ko.wikipedia.org/wiki/COSAFA).
+> This article is converted from Wikipedia: [COSAFA컵](https://ko.wikipedia.org/wiki/COSAFA컵).
 
 
 **COSAFA컵**은 [남아프리카 축구 협의회에서](https://ko.wikipedia.org/wiki/남아프리카_축구_협의회 "wikilink") 주최하는 친선 [축구](../Page/축구.md "wikilink") 대회이다.

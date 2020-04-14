@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ BY ](https://ko.wikipedia.org/wiki/_BY_).
+> This article is converted from Wikipedia: [용자리 BY형 변광성](https://ko.wikipedia.org/wiki/용자리_BY형_변광성).
 
 
 **용자리 BY형 변광성**()은 [분광형](https://ko.wikipedia.org/wiki/분광형 "wikilink") K 또는 M의 [주계열](../Page/주계열.md "wikilink") [변광성](../Page/변광성.md "wikilink")이다. 이름은 [용자리 BY](https://ko.wikipedia.org/wiki/용자리_BY "wikilink") 항성계에서 유래했다. 용자리 BY형 변광성은 항성이 [자전](https://ko.wikipedia.org/wiki/자전 "wikilink")함에 따라 [광도가](../Page/광도_\(천문학\).md "wikilink") 변하는데, 이는 [흑점](../Page/흑점.md "wikilink")을 비롯한 [채층](../Page/채층.md "wikilink") 활동 때문이다.\[1\] 그 결과 발생하는 변광 정도는 대개 0.5 등급 이하이다. 용자리 BY형 변광성의 [광도곡선](https://ko.wikipedia.org/wiki/광도곡선 "wikilink")은 [준주기](https://ko.wikipedia.org/wiki/준주기 "wikilink")적이다. 변광주기는 항성의 자전주기와 흡사하나, 매 주기마다 광도곡선이 조금씩 바뀐다. 예컨대 용자리 BY의 경우 광도곡선의 모양이 비슷하게 유지되는 기간은 약 1개월이다.\[2\]

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [40 NHK ](https://ko.wikipedia.org/wiki/40_NHK_).
+> This article is converted from Wikipedia: [제40회 NHK 홍백가합전](https://ko.wikipedia.org/wiki/제40회_NHK_홍백가합전).
 
 
 《**제40회 NHK 홍백가합전**》()는 [1989년](../Page/1989년.md "wikilink") [12월 31일에](../Page/12월_31일.md "wikilink") 방송된 통산 40회째인 [NHK 홍백가합전이다](../Page/NHK_홍백가합전.md "wikilink").

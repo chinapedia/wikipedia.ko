@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [: SOS  ](https://ko.wikipedia.org/wiki/:_SOS__).
+> This article is converted from Wikipedia: [베이워치: SOS 해상 구조대](https://ko.wikipedia.org/wiki/베이워치:_SOS_해상_구조대).
 
 
 《**베이워치: SOS 해상 구조대**》()는 2017년 개봉한 미국의 액션 코미디 영화로, 1990년대 방영되어 인기를 끌었던 TV 드라마 《[SOS 해상 구조대](https://ko.wikipedia.org/wiki/SOS_해상_구조대 "wikilink")》의 [리메이크](https://ko.wikipedia.org/wiki/리메이크 "wikilink") 극장판 작품이다. [세스 고든](https://ko.wikipedia.org/wiki/세스_고든 "wikilink") 감독이 연출하고, [드웨인 존슨](../Page/드웨인_존슨.md "wikilink"), [잭 에프론](../Page/잭_에프론.md "wikilink"), [알렉산드라 다다리오](../Page/알렉산드라_다다리오.md "wikilink"), [켈리 로백](../Page/켈리_로백.md "wikilink"), [프리양카 초프라가](../Page/프리양카_초프라.md "wikilink") 출연한다. 그리고 원작 드라마의 출연진이었던 [데이비드 해셀호프와](https://ko.wikipedia.org/wiki/데이비드_해셀호프 "wikilink") [패멀라 앤더슨도](../Page/패멀라_앤더슨.md "wikilink") 나온다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:RoundN](https://ko.wikipedia.org/wiki/:RoundN).
+> This article is converted from Wikipedia: [모듈:RoundN](https://ko.wikipedia.org/wiki/모듈:RoundN).
 
 
 local p = {

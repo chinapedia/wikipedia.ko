@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [BEYOND\~ ](https://ko.wikipedia.org/wiki/BEYOND\~_).
+> This article is converted from Wikipedia: [BEYOND\~몸의 저편](https://ko.wikipedia.org/wiki/BEYOND\~몸의_저편).
 
 
 〈**BEYOND\~몸의 저편**〉()는 일본의 음악 그룹 [AAA의](../Page/AAA_\(음악_그룹\).md "wikilink") 열여덟 번째 [싱글이다](../Page/싱글_\(음악\).md "wikilink"). [2008년](../Page/2008년.md "wikilink") [5월 28일에](../Page/5월_28일.md "wikilink") [에이벡스 트랙스에서](https://ko.wikipedia.org/wiki/에이벡스_트랙스 "wikilink") 발매됐다.

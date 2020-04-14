@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [MLS  ](https://ko.wikipedia.org/wiki/MLS__).
+> This article is converted from Wikipedia: [MLS 리저브 리그](https://ko.wikipedia.org/wiki/MLS_리저브_리그).
 
 
 **MLS 리저브 리그**(MLS Reserve League)는 [메이저 리그 사커의](../Page/메이저_리그_사커.md "wikilink") 2군 리그이다. 2014년 [USL 프로와](https://ko.wikipedia.org/wiki/유나이티드_사커_리그 "wikilink") 제휴관계를 맺으면서 사라졌다.

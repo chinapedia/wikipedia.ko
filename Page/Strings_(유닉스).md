@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Strings \(\)](https://ko.wikipedia.org/wiki/Strings_\(\)).
+> This article is converted from Wikipedia: [Strings \(유닉스\)](https://ko.wikipedia.org/wiki/Strings_\(유닉스\)).
 
 
 **strings**는 [유닉스 계열](../Page/유닉스_계열.md "wikilink") [운영 체제에서](../Page/운영_체제.md "wikilink") 실행 파일 같은 [바이너리 파일에](https://ko.wikipedia.org/wiki/바이너리_파일 "wikilink") 삽입된 텍스트 [문자열](https://ko.wikipedia.org/wiki/문자열 "wikilink")들을 찾고 보여주는 프로그램이다. 이것은 [목적 파일과](../Page/목적_파일.md "wikilink") [코어 덤프에서도](../Page/코어_덤프.md "wikilink") 사용될 수 있다.

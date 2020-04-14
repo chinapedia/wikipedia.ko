@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [MIRAGE \(AAA \)](https://ko.wikipedia.org/wiki/MIRAGE_\(AAA_\)).
+> This article is converted from Wikipedia: [MIRAGE \(AAA의 노래\)](https://ko.wikipedia.org/wiki/MIRAGE_\(AAA의_노래\)).
 
 
 〈**MIRAGE**〉(미라주, )는 일본의 음악 그룹 [AAA의](../Page/AAA_\(음악_그룹\).md "wikilink") 열일곱 번째 [싱글이다](../Page/싱글_\(음악\).md "wikilink"). [2008년](../Page/2008년.md "wikilink") [1월 9일에](../Page/1월_9일.md "wikilink") [에이벡스 트랙스에서](https://ko.wikipedia.org/wiki/에이벡스_트랙스 "wikilink") 발매됐다.

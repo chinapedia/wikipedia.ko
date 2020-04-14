@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [GNU ](https://ko.wikipedia.org/wiki/GNU_).
+> This article is converted from Wikipedia: [GNU 어셈블러](https://ko.wikipedia.org/wiki/GNU_어셈블러).
 
 
 **GNU 어셈블러**(GNU Assembler, 보통 **gas** 또는 간단히 **as**로 불리는)는 [GNU 프로젝트에서](../Page/GNU_프로젝트.md "wikilink") 사용되는 [어셈블러](https://ko.wikipedia.org/wiki/어셈블러 "wikilink")이다. 이것은 [GCC](https://ko.wikipedia.org/wiki/GCC "wikilink")의 기본 [백엔드](https://ko.wikipedia.org/wiki/백엔드 "wikilink")이며 [GNU 운영 체제와](https://ko.wikipedia.org/wiki/GNU_운영_체제 "wikilink") [리눅스 커널](../Page/리눅스_커널.md "wikilink") 그리고 다양한 다른 소프트웨어를 어셈블하는데 사용된다. GNU 어셈블러는 [GNU 바이너리 유틸리티의](../Page/GNU_바이너리_유틸리티.md "wikilink") 한 부분이다.

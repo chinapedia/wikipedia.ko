@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ W. ](https://ko.wikipedia.org/wiki/_W._).
+> This article is converted from Wikipedia: [로버트 W. 홀리](https://ko.wikipedia.org/wiki/로버트_W._홀리).
 
 
 **로버트 윌리엄 홀리**(Robert William Holley, [1922년](../Page/1922년.md "wikilink") [1월 28일](../Page/1월_28일.md "wikilink") \~ [1993년](../Page/1993년.md "wikilink") [2월 11일](../Page/2월_11일.md "wikilink"))는 [미국](../Page/미국.md "wikilink")의 [생화학자](https://ko.wikipedia.org/wiki/생화학자 "wikilink")이다.

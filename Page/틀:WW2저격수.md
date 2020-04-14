@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:WW2](https://ko.wikipedia.org/wiki/:WW2).
+> This article is converted from Wikipedia: [틀:WW2저격수](https://ko.wikipedia.org/wiki/틀:WW2저격수).
 
 
 {{둘러보기 상자 |이름 = WW2저격수 |제목 = [제2차 세계 대전의](../Page/제2차_세계_대전.md "wikilink") 저격수들 |제목모양 =  |bodystyle =  |groupstyle=  |아랫글모양=  |그림=[150px](https://ko.wikipedia.org/wiki/파일:Bundesarchiv_Bild_169-0526,_Russland,_Scharfschütze_in_Stellung.jpg "wikilink") |내용속성 = hlist |아랫글속성=hlist

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Delink](https://ko.wikipedia.org/wiki/:Delink).
+> This article is converted from Wikipedia: [모듈:Delink](https://ko.wikipedia.org/wiki/모듈:Delink).
 
 
 \-- This module de-links most wikitext.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TOMOYO ](https://ko.wikipedia.org/wiki/TOMOYO_).
+> This article is converted from Wikipedia: [TOMOYO 리눅스](https://ko.wikipedia.org/wiki/TOMOYO_리눅스).
 
 
 **TOMOYO 리눅스**는 [강제적 접근 통제](https://ko.wikipedia.org/wiki/강제적_접근_통제 "wikilink")(MAC)를 구현한 [리눅스 커널](../Page/리눅스_커널.md "wikilink") [보안 모듈이다](../Page/리눅스_보안_모듈.md "wikilink").

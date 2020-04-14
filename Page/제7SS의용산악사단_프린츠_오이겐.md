@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [7SS  ](https://ko.wikipedia.org/wiki/7SS__).
+> This article is converted from Wikipedia: [제7SS의용산악사단 프린츠 오이겐](https://ko.wikipedia.org/wiki/제7SS의용산악사단_프린츠_오이겐).
 
 
 **제7SS의용산악사단 프린츠 오이겐**()은 [나치 독일의](../Page/나치_독일.md "wikilink") [무장친위대](../Page/무장친위대.md "wikilink") 사단 중 하나이다.

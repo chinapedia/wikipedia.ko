@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ BL ](https://ko.wikipedia.org/wiki/_BL_).
+> This article is converted from Wikipedia: [허큘리스자리 BL형 변광성](https://ko.wikipedia.org/wiki/허큘리스자리_BL형_변광성).
 
 
 **허큘리스자리 BL형 변광성**()은 광도와 질량이 작고 변광주기가 8일 이하인 [변광성](../Page/변광성.md "wikilink")이다.\[1\]\[2\]

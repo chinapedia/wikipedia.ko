@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Monument row](https://ko.wikipedia.org/wiki/:Monument_row).
+> This article is converted from Wikipedia: [틀:Monument row](https://ko.wikipedia.org/wiki/틀:Monument_row).
 
 
 <noinclude>

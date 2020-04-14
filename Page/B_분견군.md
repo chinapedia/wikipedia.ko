@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [B ](https://ko.wikipedia.org/wiki/B_).
+> This article is converted from Wikipedia: [B 분견군](https://ko.wikipedia.org/wiki/B_분견군).
 
 
 **B 분견군**() 또는 **가에데 분견군**()은 [제1차 세계 대전](../Page/제1차_세계_대전.md "wikilink") 당시 [독일 제국의](../Page/독일_제국.md "wikilink") [야전군](../Page/야전군.md "wikilink")급 사령부이다. 1914년부터 1918년 해체될 때까지 [서부전선](../Page/서부_전선_\(제1차_세계_대전\).md "wikilink") 최좌익([스위스](https://ko.wikipedia.org/wiki/스위스 "wikilink") 방면)을 담당했다.

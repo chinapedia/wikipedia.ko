@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ B](https://ko.wikipedia.org/wiki/_B).
+> This article is converted from Wikipedia: [선문자 B](https://ko.wikipedia.org/wiki/선문자_B).
 
 
 **선문자 B**(, )는 기록되어 전해지는 가장 이른 시기의 [그리스어](../Page/그리스어.md "wikilink")인 [미케네 그리스어를](https://ko.wikipedia.org/wiki/미케네_그리스어 "wikilink") 기록하는데 쓰인 [음절문자](https://ko.wikipedia.org/wiki/음절문자 "wikilink")이며, 기원전 15세기에서 13세기 경까지 [크레타](../Page/크레타.md "wikilink") 섬과 대륙의 여러 도시에서 사용되었다. 선문자 B는 아직 해독되지 않은 [선문자 A에서](https://ko.wikipedia.org/wiki/선문자_A "wikilink") 유래한 문자이다. 아직까지 알려진 것이 없는 [미노스 문명의](../Page/미노스_문명.md "wikilink") 언어를 기록하고 있고 1700개의 문자 표본만이 전해지고 있는 [선문자 A와는](https://ko.wikipedia.org/wiki/선문자_A "wikilink") 달리, 선문자 B는 이미 알려진 [미케네 그리스어를](https://ko.wikipedia.org/wiki/미케네_그리스어 "wikilink") 기록한 문자인데 삼만개가 넘는 문자 표본을 바탕으로 영국의 건축가이자 독학의 언어학자인 [마이클 벤트리스가](../Page/마이클_벤트리스.md "wikilink") 1952년에 해독한다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [INS ](https://ko.wikipedia.org/wiki/INS_).
+> This article is converted from Wikipedia: [INS 비크라마디티야](https://ko.wikipedia.org/wiki/INS_비크라마디티야).
 
 
 **INS 비크라마디티야**(INS Vikramaditya)는 [인도 해군의](../Page/인도_해군.md "wikilink") 45,000톤급 디젤 항공모함이다. 소련의 [키예프급 항공모함을](../Page/키예프급_항공모함.md "wikilink") 러시아가 개조했다.

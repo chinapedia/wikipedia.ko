@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [GNU ](https://ko.wikipedia.org/wiki/GNU_).
+> This article is converted from Wikipedia: [GNU 링커](https://ko.wikipedia.org/wiki/GNU_링커).
 
 
 **GNU 링커** (또는 **GNU ld**)는 [유닉스](../Page/유닉스.md "wikilink") 명령어 [ld에](../Page/링커_\(컴퓨팅\).md "wikilink") 대한 [GNU 프로젝트의](../Page/GNU_프로젝트.md "wikilink") 구현이다. GNU ld는 소프트웨어의 [컴파일](https://ko.wikipedia.org/wiki/컴파일 "wikilink") 시에 생성되는 목적 파일들로부터 [실행 파일](../Page/실행_파일.md "wikilink")(또는 [라이브러리](../Page/라이브러리_\(컴퓨팅\).md "wikilink"))를 생성하는 링커를 실행한다. 링킹 프로세스에 대한 더 많은 권한을 행사하기 위해 **링커 스크립트**는 GNU ld로 전달된다.\[1\] GNU 링커는 GNU 바이너리 유틸리티(binutils)의 한 부분이다.
