@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ KCC ](https://ko.wikipedia.org/wiki/_KCC_).
+> This article is converted from Wikipedia: [용산 KCC 웰츠타워](https://ko.wikipedia.org/wiki/용산_KCC_웰츠타워).
 
 
 **용산 KCC 웰츠타워**()은 [대한민국](../Page/대한민국.md "wikilink") [서울특별시](../Page/서울특별시.md "wikilink") [용산구](https://ko.wikipedia.org/wiki/용산구 "wikilink") [문배동](https://ko.wikipedia.org/wiki/문배동 "wikilink")에 위치한 [오피스텔](../Page/오피스텔.md "wikilink")과 [아파트](../Page/아파트.md "wikilink") 단지이다.

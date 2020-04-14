@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [XO](https://ko.wikipedia.org/wiki/XO).
+> This article is converted from Wikipedia: [XO장](https://ko.wikipedia.org/wiki/XO장).
 
 
-**XO장** () 또는 **XO 소스** (XO sauce)는 [홍콩](../Page/홍콩.md "wikilink")에서 유래한 매운 [해산물](https://ko.wikipedia.org/wiki/해산물 "wikilink") [소스](https://ko.wikipedia.org/wiki/소스 "wikilink")다.\[1\] XO장은 [광둥 성을](https://ko.wikipedia.org/wiki/광둥_성 "wikilink") 비롯한 중국 남부에서 주로 널리 쓰이는 재료다.
+**XO장**() 또는 **XO 소스** (XO sauce)는 [홍콩](../Page/홍콩.md "wikilink")에서 유래한 매운 [해산물](https://ko.wikipedia.org/wiki/해산물 "wikilink") [소스](https://ko.wikipedia.org/wiki/소스 "wikilink")다.\[1\] XO장은 [광둥 성을](https://ko.wikipedia.org/wiki/광둥_성 "wikilink") 비롯한 중국 남부에서 주로 널리 쓰이는 재료다.
 
 ## 역사
 

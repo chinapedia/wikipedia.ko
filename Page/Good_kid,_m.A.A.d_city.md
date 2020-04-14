@@ -35,7 +35,7 @@
 
 ## 평가
 
-《good kid, m.A.A.d city》는 음악 비평매체로부터 열렬한 극찬을 받았다. 주류 비평매체들로부터 받은, 100점에 가까운 평점들을 합산한 [Metacritics에서는](https://ko.wikipedia.org/wiki/메타크리틱 "wikilink") "전세계적인 찬사(Universal Acclaim)"에 해당하는 91점의 평균점수를 받았다. (36개의 비평매체 평균)\[41\]
+《good kid, m.A.A.d city》는 음악 비평매체로부터 열렬한 극찬을 받았다. 주류 비평매체들로부터 받은, 100점에 가까운 평점들을 합산한 [Metacritics에서는](../Page/메타크리틱.md "wikilink") "전세계적인 찬사(Universal Acclaim)"에 해당하는 91점의 평균점수를 받았다. (36개의 비평매체 평균)\[41\]
 
 [Pitchfork Media의](https://ko.wikipedia.org/wiki/피치포크_미디어 "wikilink") Jayson Greene은 "이 음반의 놀라운 점은 사실 그대로의 내용을 담았지만 심도있는 내용과 서사적인 묘사로 전율을 느끼게 하는 랩을 담았다는 것"으로 평했다.\[42\] PopMatters의 David Amidon은 이 음반이 듣기 쉬우면서도 알맹이가 있는 음반이라고 말하며, 언더그라운드 힙합과 메인스트림 힙합팬들을 동시에 사로잡을 수 있을 것이라고 평했다.\[43\] Fact magazine의 Joseph Morpurgo는 이 음반을 '자전적 앨범의 포괄적이면서도 막대한 영향을 미치게 할 업적'라고 평했다.\[44\] Sputnik Music은 이 음반의 성과가 [Kanye West가](https://ko.wikipedia.org/wiki/카니예_웨스트 "wikilink") [2010년](../Page/2010년.md "wikilink")에 발매한 [My Beautiful Dark Twisted Fantasy와](../Page/My_Beautiful_Dark_Twisted_Fantasy.md "wikilink") 필적하기도 하지만 더욱 'Subtler Shades(낱말퀴즈의 일종)' 같다고 평했다.\[45\] XXL의 Jaeki Cho는 이 음반을 "최근 들은 랩 앨범 중에서 가장 응집력 있는 구성의 앨범 중 하나"라고 평하며 "각각의 곡들이 복합적으로 편곡되었고 음악적으로 잘 들어맞으며 전경화(前景化)를 이용한 [켄드릭 라마의](../Page/켄드릭_라마.md "wikilink") 생생한 리릭시즘과 놀라운 완급조절이 있었기에 완벽함을 뜻하는 XXL 등급을 매겼다"고 평했다.\[46\] The Irish Times의 Jim Carroll은 이 음반을 재미있고도 중대한 음반이며, 웨스트코스트 힙합의 과거를 본받았으면서도 진보적인 음반이라고 평했다.\[47\] [AllMusic의](../Page/올뮤직.md "wikilink") David Jeffries는 이 음반을 "수준높은 갱스터 랩"으로 칭하며 음반의 주제의식에 대해 아래와 같이 평했다.
 

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KBS  ](https://ko.wikipedia.org/wiki/KBS__).
+> This article is converted from Wikipedia: [KBS 웹드라마 스페셜](https://ko.wikipedia.org/wiki/KBS_웹드라마_스페셜).
 
 
 **KBS 웹드라마 스페셜**은 매주 [금요일](../Page/금요일.md "wikilink") 밤 1시에 [KBS 1TV에서](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink") 방송되었던 [웹드라마다](https://ko.wikipedia.org/wiki/웹_시리즈 "wikilink").

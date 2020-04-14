@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ T](https://ko.wikipedia.org/wiki/_T).
+> This article is converted from Wikipedia: [카카오 T](https://ko.wikipedia.org/wiki/카카오_T).
 
 
 **카카오 T**(Kakao T)는 [카카오가](../Page/카카오_\(기업\).md "wikilink") 2015년 출시한 콜택시 및 대중교통 서비스 애플리케이션(앱)이다. 카카오택시 이용자(승객)는 카카오 계정으로 로그인해 이용자 정보를 카카오택시에 적용한다. 이용자가 승객용 앱을 통해 택시 요청을 하면 카카오택시 기사용 앱에 가입한 택시기사에게 이용자의 현 위치정보와 목적지 등이 전송된다.\[1\]

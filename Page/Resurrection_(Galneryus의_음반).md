@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Resurrection \(Galneryus \)](https://ko.wikipedia.org/wiki/Resurrection_\(Galneryus_\)).
+> This article is converted from Wikipedia: [Resurrection \(Galneryus의 음반\)](https://ko.wikipedia.org/wiki/Resurrection_\(Galneryus의_음반\)).
 
 
 '''Resurrection '''는 [Galneryus](../Page/Galneryus.md "wikilink")의 여섯 번째 정규 음반이다.

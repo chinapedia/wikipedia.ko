@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ OS 1](https://ko.wikipedia.org/wiki/_OS_1).
+> This article is converted from Wikipedia: [아이폰 OS 1](https://ko.wikipedia.org/wiki/아이폰_OS_1).
 
 
 **아이폰 OS 1**은 [iOS](https://ko.wikipedia.org/wiki/iOS "wikilink") 계열의 첫 번째 버전이다. 아이폰 OS 1.1.5가 아이폰 OS 1 의 최신 업데이트 버전이다. [아이폰 OS 2로](../Page/아이폰_OS_2.md "wikilink") 이어지며, [2009년](../Page/2009년.md "wikilink") 초반에 지원이 중단되었다.

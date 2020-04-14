@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [XS](https://ko.wikipedia.org/wiki/XS).
+> This article is converted from Wikipedia: [XS엑세스](https://ko.wikipedia.org/wiki/XS엑세스).
 
 
 **XS엑세스**는 [송지형](https://ko.wikipedia.org/wiki/송지형 "wikilink")의 만화이다. [학산문화사](../Page/학산문화사.md "wikilink")의 [부킹](https://ko.wikipedia.org/wiki/부킹 "wikilink")이라는 잡지에 연재되었으며 영어판의 경우 [다크 호스 코믹스의](https://ko.wikipedia.org/wiki/다크_호스_코믹스 "wikilink") 라이선스를 받는다. 전5권 완결이다.

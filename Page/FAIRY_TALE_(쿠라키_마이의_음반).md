@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FAIRY TALE \(  \)](https://ko.wikipedia.org/wiki/FAIRY_TALE_\(__\)).
+> This article is converted from Wikipedia: [FAIRY TALE \(쿠라키 마이의 음반\)](https://ko.wikipedia.org/wiki/FAIRY_TALE_\(쿠라키_마이의_음반\)).
 
 
 《**FAIRY TALE**》(페어리 테일)은 [2002년](../Page/2002년.md "wikilink") [10월 23일에](../Page/10월_23일.md "wikilink") 발매된 [쿠라키 마이의](../Page/쿠라키_마이.md "wikilink") 3번째 [정규 음반이다](../Page/정규_음반.md "wikilink").

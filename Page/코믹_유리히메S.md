@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ S](https://ko.wikipedia.org/wiki/_S).
+> This article is converted from Wikipedia: [코믹 유리히메S](https://ko.wikipedia.org/wiki/코믹_유리히메S).
 
 
 『**코믹 유리히메S**』(コミック百合姫S)는 [이치진샤](../Page/이치진샤.md "wikilink")에서 발행되는 여성끼리의 연애([백합](../Page/백합_\(장르\).md "wikilink"))를 주제로 한 [만화 잡지이다](https://ko.wikipedia.org/wiki/만화_잡지 "wikilink"). 『[코믹 유리히메](https://ko.wikipedia.org/wiki/코믹_유리히메 "wikilink")』의 자매지로 2007년 6월에 창간되었다. 발행일은 3월, 6월, 9월, 12월의 18일이다.

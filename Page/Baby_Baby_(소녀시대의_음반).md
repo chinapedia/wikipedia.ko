@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Baby Baby \( \)](https://ko.wikipedia.org/wiki/Baby_Baby_\(_\)).
+> This article is converted from Wikipedia: [Baby Baby \(소녀시대의 음반\)](https://ko.wikipedia.org/wiki/Baby_Baby_\(소녀시대의_음반\)).
 
 
 《**Baby Baby**》는 대한민국의 음악 그룹 [소녀시대](../Page/소녀시대.md "wikilink")의 첫 번째 리패키지 음반이다. 2008년 3월 13일 소녀시대의 첫 정규 앨범 《[소녀시대](../Page/소녀시대_\(음반\).md "wikilink")》의 리패키지 음반으로 발매되었다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Take Care \(\)](https://ko.wikipedia.org/wiki/Take_Care_\(\)).
+> This article is converted from Wikipedia: [Take Care \(노래\)](https://ko.wikipedia.org/wiki/Take_Care_\(노래\)).
 
 
 **"Take Care"**는 [캐나다](../Page/캐나다.md "wikilink")의 [힙합](../Page/힙합.md "wikilink") 가수 [드레이크의](https://ko.wikipedia.org/wiki/드레이크_\(가수\) "wikilink") 노래이다. 피쳐링에는 [바베이도스](../Page/바베이도스.md "wikilink") 출신의 가수 [리한나](../Page/리한나.md "wikilink")가 참여했고, 프로듀싱에는 [제이미 엑스엑스와](../Page/제이미_엑스엑스.md "wikilink") 노아 "40" 셰빕이 참여했다. [바비 블랜드의](../Page/바비_블랜드.md "wikilink") 1960년 노래인 *"I'll Take Care of You"*를 [샘플링하였다](../Page/샘플링_\(음악\).md "wikilink"). 드레이크의 2번째 정규 앨범인 [Take Care에](../Page/Take_Care_\(음반\).md "wikilink") 수록되어 있으며, [빌보드 핫 100차트에서](../Page/빌보드_핫_100.md "wikilink") 7위까지 기록되었다.\[1\]

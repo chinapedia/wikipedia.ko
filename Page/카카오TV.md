@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TV](https://ko.wikipedia.org/wiki/TV).
+> This article is converted from Wikipedia: [카카오TV](https://ko.wikipedia.org/wiki/카카오TV).
 
 
 **카카오TV**(KakaoTV)는 [카카오가](../Page/카카오_\(기업\).md "wikilink") 출시한 종합 동영상 서비스이다.

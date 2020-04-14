@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [F-](https://ko.wikipedia.org/wiki/F-).
+> This article is converted from Wikipedia: [F-시큐어](https://ko.wikipedia.org/wiki/F-시큐어).
 
 
 **F-시큐어 코퍼레이션**(F-Secure Corporation)은 [핀란드](../Page/핀란드.md "wikilink")의 [보안 소프트웨어](https://ko.wikipedia.org/wiki/보안_소프트웨어 "wikilink") 기업으로, 본사는 [헬싱키](../Page/헬싱키.md "wikilink")에 위치해 있다. F-시큐어는 [헬싱키 증권 거래소에서](https://ko.wikipedia.org/wiki/헬싱키_증권_거래소 "wikilink") 상장기호 FSC1V로 거래되고 있다.

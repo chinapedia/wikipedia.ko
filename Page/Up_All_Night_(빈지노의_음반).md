@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Up All Night \( \)](https://ko.wikipedia.org/wiki/Up_All_Night_\(_\)).
+> This article is converted from Wikipedia: [Up All Night \(빈지노의 음반\)](https://ko.wikipedia.org/wiki/Up_All_Night_\(빈지노의_음반\)).
 
 
 ***Up All Night***는 대한민국의 힙합 가수 [빈지노](https://ko.wikipedia.org/wiki/빈지노 "wikilink")의 두 번째 [EP 음반이다](https://ko.wikipedia.org/wiki/EP_음반 "wikilink"). 프로듀서인 [피제이와](https://ko.wikipedia.org/wiki/피제이_\(프로듀서\) "wikilink") 함께 디자이너 브랜드 'WOOYOUNGMI' 파리 컬렉션 음악을 총괄하며 기획하였으며 컬렉션 컨셉에 맞게 '자신감 넘치고 예술을 사랑하는 남자'를 모티브로 했다.\[1\] 2014년 7월 16일에 발매되었으며 연주곡 포함 5곡이 수록되었다.

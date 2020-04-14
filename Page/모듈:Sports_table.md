@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Sports table](https://ko.wikipedia.org/wiki/:Sports_table).
+> This article is converted from Wikipedia: [모듈:Sports table](https://ko.wikipedia.org/wiki/모듈:Sports_table).
 
 
 \-- Module to build tables for standings in Sports -- See documentation for details

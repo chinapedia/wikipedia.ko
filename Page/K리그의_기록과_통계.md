@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [K  ](https://ko.wikipedia.org/wiki/K__).
+> This article is converted from Wikipedia: [K리그의 기록과 통계](https://ko.wikipedia.org/wiki/K리그의_기록과_통계).
 
 
 [K리그](../Page/K리그.md "wikilink")의 각종 기록과 통계와 관련된 문서이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ FC ](https://ko.wikipedia.org/wiki/_FC_).
+> This article is converted from Wikipedia: [리오그란데밸리 FC 토로스](https://ko.wikipedia.org/wiki/리오그란데밸리_FC_토로스).
 
 
 **리오그란데밸리 FC 토로스**(Rio Grande Valley FC Toros)는 [유나이티드 사커 리그에](https://ko.wikipedia.org/wiki/유나이티드_사커_리그 "wikilink") 소속된 미국의 프로축구단으로 [텍사스주](../Page/텍사스주.md "wikilink") [에딘버그](https://ko.wikipedia.org/wiki/에딘버그 "wikilink")를 연고지로 하고 있으며 H-E-B 파크를 홈 경기장으로 사용하고 있다.

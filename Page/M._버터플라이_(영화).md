@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [M.  \(\)](https://ko.wikipedia.org/wiki/M.__\(\)).
+> This article is converted from Wikipedia: [M. 버터플라이 \(영화\)](https://ko.wikipedia.org/wiki/M._버터플라이_\(영화\)).
 
 
 **M. 버터플라이**(M. Butterfly)는 [1993년](../Page/1993년.md "wikilink")에 개봉한 [미국](../Page/미국.md "wikilink")의 [드라마 영화이며](https://ko.wikipedia.org/wiki/드라마_영화 "wikilink"), [데이비드 크로넌버그가](../Page/데이비드_크로넌버그.md "wikilink") 감독을 맡았다. 이 영화는 [1988년](../Page/1988년.md "wikilink") [데이비드 헨리 황에](https://ko.wikipedia.org/wiki/데이비드_헨리_황 "wikilink") 의해 공연된 동명의 [연극](../Page/연극.md "wikilink") 《[M. 버터플라이](https://ko.wikipedia.org/wiki/M._버터플라이 "wikilink")》를 각색한 작픔이며, [제러미 아이언스](../Page/제러미_아이언스.md "wikilink"), [존 론](https://ko.wikipedia.org/wiki/존_론 "wikilink"), [이언 리처드슨](https://ko.wikipedia.org/wiki/이언_리처드슨 "wikilink"), [바르바라 수코바](https://ko.wikipedia.org/wiki/바르바라_수코바 "wikilink") 등의 배우가 참여하였다.

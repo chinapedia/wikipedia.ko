@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [LKS ](https://ko.wikipedia.org/wiki/LKS_).
+> This article is converted from Wikipedia: [LKS 니에치에차](https://ko.wikipedia.org/wiki/LKS_니에치에차).
 
 
 **LKS 니에치에차**(LKS Nieciecza)는 [폴란드](../Page/폴란드.md "wikilink")에 위치한 [자브노](https://ko.wikipedia.org/wiki/자브노 "wikilink")(Żabno)의 니에치에차(Nieciecza) 마을을 연고로 하는 [축구](../Page/축구.md "wikilink")팀이다. 이 팀은 [1922년](../Page/1922년.md "wikilink")에 창단하였다.

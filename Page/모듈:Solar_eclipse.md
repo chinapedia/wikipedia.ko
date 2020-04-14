@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Solar eclipse](https://ko.wikipedia.org/wiki/:Solar_eclipse).
+> This article is converted from Wikipedia: [모듈:Solar eclipse](https://ko.wikipedia.org/wiki/모듈:Solar_eclipse).
 
 
 local eclipse = {} local args = {}

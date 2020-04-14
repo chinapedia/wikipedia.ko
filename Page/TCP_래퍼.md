@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TCP ](https://ko.wikipedia.org/wiki/TCP_).
+> This article is converted from Wikipedia: [TCP 래퍼](https://ko.wikipedia.org/wiki/TCP_래퍼).
 
 
 **TCP 래퍼**(TCP Wrapper)는 호스트 기반 네트워킹 [ACL](../Page/접근_제어_목록.md "wikilink") 시스템으로서, [리눅스](../Page/리눅스.md "wikilink") 또는 [BSD](../Page/BSD.md "wikilink") 같은 [운영 체제의](../Page/운영_체제.md "wikilink") 인터넷 프로토콜 서버에서 네트워크 접근을 필터링하기 위해 사용된다. 이것은 [접근 제어](../Page/접근_제어.md "wikilink") 목적을 위한 필터 역할을 하는 토큰으로서 사용되며, [호스트](https://ko.wikipedia.org/wiki/호스트 "wikilink")나 [부분망](../Page/부분망.md "wikilink") [IP 주소](../Page/IP_주소.md "wikilink"), [호스트명](../Page/호스트명.md "wikilink") 쿼리 응답을 허용한다.

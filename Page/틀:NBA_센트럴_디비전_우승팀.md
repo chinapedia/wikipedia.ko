@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:NBA   ](https://ko.wikipedia.org/wiki/:NBA___).
+> This article is converted from Wikipedia: [틀:NBA 센트럴 디비전 우승팀](https://ko.wikipedia.org/wiki/틀:NBA_센트럴_디비전_우승팀).
 
 
 <onlyinclude></onlyinclude>

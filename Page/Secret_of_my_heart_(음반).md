@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Secret of my heart \(\)](https://ko.wikipedia.org/wiki/Secret_of_my_heart_\(\)).
+> This article is converted from Wikipedia: [Secret of my heart \(음반\)](https://ko.wikipedia.org/wiki/Secret_of_my_heart_\(음반\)).
 
 
 《**Secret of my heart**》(시크릿 오브 마이 하트)는 [2002년](../Page/2002년.md "wikilink") [1월 10일에](../Page/1월_10일.md "wikilink") 발매된 [쿠라키 마이의](../Page/쿠라키_마이.md "wikilink") 전미 1번째 [정규 음반이다](../Page/정규_음반.md "wikilink"). GIZA USA에서 발매.

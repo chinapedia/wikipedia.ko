@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ ATS](https://ko.wikipedia.org/wiki/_ATS).
+> This article is converted from Wikipedia: [캐딜락 ATS](https://ko.wikipedia.org/wiki/캐딜락_ATS).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Cadillac_ATS_2.0_Turbo_AWD_Premium_–_Frontansicht,_16._Oktober_2015,_Düsseldorf.jpg "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:Cadillac_ATS_2.0_Turbo_AWD_Premium_–_Heckansicht,_16._Oktober_2015,_Düsseldorf.jpg "wikilink")

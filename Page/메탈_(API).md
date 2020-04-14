@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ \(API\)](https://ko.wikipedia.org/wiki/_\(API\)).
+> This article is converted from Wikipedia: [메탈 \(API\)](https://ko.wikipedia.org/wiki/메탈_\(API\)).
 
 
 **메탈**(Metal)은 부하가 적은 하드웨어 가속 그래픽 및 연산 [API](../Page/API.md "wikilink")로, [iOS 8에](https://ko.wikipedia.org/wiki/iOS_8 "wikilink") 처음 등장했다. 한 API에 [OpenGL](../Page/OpenGL.md "wikilink"), [OpenCL](../Page/OpenCL.md "wikilink")과 비슷한 기능을 병합하고 있다. 크로노스 그룹의 크로스 플랫폼 [벌컨](../Page/벌컨_\(API\).md "wikilink"), 마이크로소프트의 윈도우용 [Direct3D 12처럼](../Page/Direct3D.md "wikilink") 다른 플랫폼의 유사 API의 성능 이점 일부를 iOS에 가져오도록 설계되어 있다. 2015년 6월 8일 이후 메탈은 [애플 A7](../Page/애플_A7.md "wikilink") 이상을 이용하는 iOS 기기 및 [OS X 엘카피탠를](../Page/OS_X_엘카피탠.md "wikilink") 구동하는 2012년 이후 모델의 맥에서 이용이 가능하다. 또, 메탈은 연산 셰이더를 도입함으로써 [GPGPU](https://ko.wikipedia.org/wiki/GPGPU "wikilink") 프로그래밍 기능을 더 개선하였다.

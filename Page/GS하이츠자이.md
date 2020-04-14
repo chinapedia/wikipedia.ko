@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [GS](https://ko.wikipedia.org/wiki/GS).
+> This article is converted from Wikipedia: [GS하이츠자이](https://ko.wikipedia.org/wiki/GS하이츠자이).
 
 
 **GS하이츠자이**()는 [대한민국](../Page/대한민국.md "wikilink") [부산광역시](https://ko.wikipedia.org/wiki/부산광역시 "wikilink") [남구](../Page/남구_\(부산광역시\).md "wikilink") [용호동에](../Page/용호동_\(부산\).md "wikilink") 위치한 고급 [아파트](../Page/아파트.md "wikilink") 단지이다. 이곳은 용호만 매립지에 건설된 [LG메트로시티](../Page/LG메트로시티.md "wikilink") 6차로 지어진곳이며 매립지 위에 LG메트로시티 완공 이후 LG메트로시티 뒷편을 더 매립해서 지은곳이다. [2008년](../Page/2008년.md "wikilink")에 완공하였다. 9개동의 아파트 1149세대와 상업 시설로 이루어져 있다.

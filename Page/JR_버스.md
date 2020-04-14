@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [JR ](https://ko.wikipedia.org/wiki/JR_).
+> This article is converted from Wikipedia: [JR 버스](https://ko.wikipedia.org/wiki/JR_버스).
 
 
 **JR 버스**()는 [JR 그룹의](https://ko.wikipedia.org/wiki/JR_그룹 "wikilink") 여객철도 6개사의 [자회사](https://ko.wikipedia.org/wiki/자회사 "wikilink")가 운영하는 [버스](../Page/버스.md "wikilink")의 총칭이다. 약칭 JR-B이다.

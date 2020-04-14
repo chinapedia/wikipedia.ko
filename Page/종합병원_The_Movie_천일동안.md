@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ The Movie ](https://ko.wikipedia.org/wiki/_The_Movie_).
+> This article is converted from Wikipedia: [종합병원 The Movie 천일동안](https://ko.wikipedia.org/wiki/종합병원_The_Movie_천일동안).
 
 
 《**종합병원 The Mvie 천일동안**》()은 [2000년](../Page/2000년.md "wikilink")에 개봉한 [대한민국](../Page/대한민국.md "wikilink")의 드라마 영화이다.

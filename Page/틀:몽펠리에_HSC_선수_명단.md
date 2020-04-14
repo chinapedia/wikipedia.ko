@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [: HSC  ](https://ko.wikipedia.org/wiki/:_HSC__).
+> This article is converted from Wikipedia: [틀:몽펠리에 HSC 선수 명단](https://ko.wikipedia.org/wiki/틀:몽펠리에_HSC_선수_명단).
 
 
 <onlyinclude></onlyinclude>

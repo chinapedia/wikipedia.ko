@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  B](https://ko.wikipedia.org/wiki/__B).
+> This article is converted from Wikipedia: [올랜도 시티 B](https://ko.wikipedia.org/wiki/올랜도_시티_B).
 
 
 **올랜도 시티 B**(Orlando City B)는 [유나이티드 사커 리그에](https://ko.wikipedia.org/wiki/유나이티드_사커_리그 "wikilink") 소속된 미국의 프로축구단으로 [플로리다주](../Page/플로리다주.md "wikilink") [멜번을](https://ko.wikipedia.org/wiki/멜번_\(플로리다주\) "wikilink") 연고지로 하고 있으며 타이탄 사커 콤플렉스를 홈 경기장으로 사용하고 있다.

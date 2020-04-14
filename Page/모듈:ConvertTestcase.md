@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:ConvertTestcase](https://ko.wikipedia.org/wiki/:ConvertTestcase).
+> This article is converted from Wikipedia: [모듈:ConvertTestcase](https://ko.wikipedia.org/wiki/모듈:ConvertTestcase).
 
 
 \-- Used to compare the current version of the convert template with the sandboxlua version

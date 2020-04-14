@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Portal](https://ko.wikipedia.org/wiki/:Portal).
+> This article is converted from Wikipedia: [모듈:Portal](https://ko.wikipedia.org/wiki/모듈:Portal).
 
 
 \--\[==\[ This module is a Lua implementation of the old  template. As of August 2013 it is used on nearly 5,000,000 articles. -- Please take care when updating it\! It outputs two functions: p.portal, which generates a table of portals, and p.image, which -- produces the image name for an individual portal.

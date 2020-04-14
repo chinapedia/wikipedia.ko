@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ \(e\)](https://ko.wikipedia.org/wiki/_\(e\)).
+> This article is converted from Wikipedia: [프라임 \(e스포츠\)](https://ko.wikipedia.org/wiki/프라임_\(e스포츠\)).
 
 
 **프라임**(Prime)은 [대한민국](../Page/대한민국.md "wikilink")의 전 [스타크래프트 II](https://ko.wikipedia.org/wiki/스타크래프트_II "wikilink"), [리그 오브 레전드](../Page/리그_오브_레전드.md "wikilink") [프로게임단](https://ko.wikipedia.org/wiki/프로게임단 "wikilink")이다. 스타크래프트 II 승부조작 사건으로 스타크래프트 II 팀이 해체되었으며 [리그 오브 레전드](../Page/리그_오브_레전드.md "wikilink") 팀 또한 [스베누 코리아](https://ko.wikipedia.org/wiki/스베누_코리아 "wikilink") (SBENU KOREA)로 운영하기도 했으나 2016년 10월 8일에 해체되었다.

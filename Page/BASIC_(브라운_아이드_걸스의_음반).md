@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [BASIC \(   \)](https://ko.wikipedia.org/wiki/BASIC_\(___\)).
+> This article is converted from Wikipedia: [BASIC \(브라운 아이드 걸스의 음반\)](https://ko.wikipedia.org/wiki/BASIC_\(브라운_아이드_걸스의_음반\)).
 
 
 《**BASIC**》은 대한민국의 음악 그룹 [브라운 아이드 걸스의](../Page/브라운_아이드_걸스.md "wikilink") 여섯 번째 정규 음반이다. 2015년 11월 5일 [로엔 엔터테인먼트를](https://ko.wikipedia.org/wiki/로엔_엔터테인먼트 "wikilink") 통해 발매되었다.

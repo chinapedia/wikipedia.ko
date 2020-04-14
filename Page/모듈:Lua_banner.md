@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Lua banner](https://ko.wikipedia.org/wiki/:Lua_banner).
+> This article is converted from Wikipedia: [모듈:Lua banner](https://ko.wikipedia.org/wiki/모듈:Lua_banner).
 
 
 \-- This module implements the  template.

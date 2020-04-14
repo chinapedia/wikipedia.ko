@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ J. ](https://ko.wikipedia.org/wiki/_J._).
+> This article is converted from Wikipedia: [페르난도 J. 코바토](https://ko.wikipedia.org/wiki/페르난도_J._코바토).
 
 
 **페르난도 호세 "코비" 코바토**(Fernando José "Corby" Corbató, [1926년](../Page/1926년.md "wikilink") [7월 1일](../Page/7월_1일.md "wikilink") \~ [2019년](../Page/2019년.md "wikilink") [7월 12일](../Page/7월_12일.md "wikilink"))는 저명한 미국의 [컴퓨터 과학자로서](../Page/컴퓨터_과학자.md "wikilink"), [시분할](https://ko.wikipedia.org/wiki/시분할 "wikilink") [운영 체제의](../Page/운영_체제.md "wikilink") 선구자로 잘 알려져 있다.

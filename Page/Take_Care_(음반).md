@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Take Care \(\)](https://ko.wikipedia.org/wiki/Take_Care_\(\)).
+> This article is converted from Wikipedia: [Take Care \(음반\)](https://ko.wikipedia.org/wiki/Take_Care_\(음반\)).
 
 
 ***Take Care***는 [캐나다](../Page/캐나다.md "wikilink")의 [힙합](../Page/힙합.md "wikilink") 가수 [드레이크](https://ko.wikipedia.org/wiki/드레이크 "wikilink")의 앨범이다. 2011년 11월 15일에 발매되었으며, [보이-원다](https://ko.wikipedia.org/wiki/보이-원다 "wikilink"), [제이미 엑스엑스](../Page/제이미_엑스엑스.md "wikilink"), [저스트 블레이즈](../Page/저스트_블레이즈.md "wikilink") 등 많은 프로듀서들이 참여하였다.

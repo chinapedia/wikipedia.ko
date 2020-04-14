@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ A  ](https://ko.wikipedia.org/wiki/_A__).
+> This article is converted from Wikipedia: [트리플 A 월드 시리즈](https://ko.wikipedia.org/wiki/트리플_A_월드_시리즈).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:2000_Triple-A_World_Series.jpg "wikilink") **트리플 A 월드 시리즈**()는 1983년과 1990년대 후반에 [트리플 A](https://ko.wikipedia.org/wiki/트리플_A_\(야구\) "wikilink") 수준의 [마이너 리그 베이스볼](../Page/마이너_리그_베이스볼.md "wikilink") 팀들 중 최고의 팀을 가리기 위해 치러진 [포스트시즌](../Page/플레이오프.md "wikilink") 대회이다.

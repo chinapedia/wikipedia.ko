@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ A\'s](https://ko.wikipedia.org/wiki/_A\'s).
+> This article is converted from Wikipedia: [오렌지빌 A\'s](https://ko.wikipedia.org/wiki/오렌지빌_A\'s).
 
 
 **브램턴 A's/오렌지빌 A's**(Brampton A's/Orangeville A's)는 [온타리오주](https://ko.wikipedia.org/wiki/온타리오주 "wikilink") [브램턴](../Page/브램턴.md "wikilink")/[온타리오주](https://ko.wikipedia.org/wiki/온타리오주 "wikilink") [오렌지빌](https://ko.wikipedia.org/wiki/오렌지빌 "wikilink")을 연고지로 하는 2013년\~2017년 [NBL 캐나다](../Page/내셔널_바스켓볼_리그_오브_캐나다.md "wikilink") 센트럴 디비전 소속 프로 농구 팀이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [M ](https://ko.wikipedia.org/wiki/M_).
+> This article is converted from Wikipedia: [슈퍼주니어M의 게스트하우스](https://ko.wikipedia.org/wiki/슈퍼주니어M의_게스트하우스).
 
 
 《**슈퍼주니어M의 게스트하우스**》는 슈퍼주니어-M과 함께 골목 맛집부터 밤 문화까지 한국의 숨겨진 매력을 찾아보는 [SBS TV](../Page/SBS_TV.md "wikilink") 주말 버라이어티 프로그램이며 [2014년](../Page/2014년.md "wikilink") [10월 26일부터](../Page/10월_26일.md "wikilink") [2015년](../Page/2015년.md "wikilink") [1월 18일까지](../Page/1월_18일.md "wikilink") 방송하였다.

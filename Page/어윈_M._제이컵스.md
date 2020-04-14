@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ M. ](https://ko.wikipedia.org/wiki/_M._).
+> This article is converted from Wikipedia: [어윈 M. 제이컵스](https://ko.wikipedia.org/wiki/어윈_M._제이컵스).
 
 
 **어윈 제이컵스**(Irwin Mark Jacobs, 1933년 10월 18일 \~ )는 [전기 공학자이자](https://ko.wikipedia.org/wiki/전기공학 "wikilink") [퀄컴](../Page/퀄컴.md "wikilink")의 공동설립자 겸 전 회장이고, 소크 연구소(Salk Institute) 이사회 의장이다.

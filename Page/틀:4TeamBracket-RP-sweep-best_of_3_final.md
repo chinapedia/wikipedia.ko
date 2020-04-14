@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:4TeamBracket-RP-sweep-best of 3 final](https://ko.wikipedia.org/wiki/:4TeamBracket-RP-sweep-best_of_3_final).
+> This article is converted from Wikipedia: [틀:4TeamBracket-RP-sweep-best of 3 final](https://ko.wikipedia.org/wiki/틀:4TeamBracket-RP-sweep-best_of_3_final).
 
 
 |  |  |  |  |  |  |

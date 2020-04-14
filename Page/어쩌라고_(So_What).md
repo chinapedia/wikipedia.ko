@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ \(So What\)](https://ko.wikipedia.org/wiki/_\(So_What\)).
+> This article is converted from Wikipedia: [어쩌라고 \(So What\)](https://ko.wikipedia.org/wiki/어쩌라고_\(So_What\)).
 
 
 〈**어쩌라고 (So What)**〉은 대한민국 래퍼 [빈지노](https://ko.wikipedia.org/wiki/빈지노 "wikilink")의 [싱글](https://ko.wikipedia.org/wiki/싱글 "wikilink")이다. 2015년 3월 11일, 음원으로 발매하였다. [엠넷](../Page/엠넷.md "wikilink") 《[4가지쇼 시즌2](../Page/4가지쇼.md "wikilink")》에 출연 차 작업하였으며, 프로듀서 [피제이가](../Page/피제이_\(음악가\).md "wikilink") 작곡 및 편곡하였다.

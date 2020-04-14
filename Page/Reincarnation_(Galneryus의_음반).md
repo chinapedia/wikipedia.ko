@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Reincarnation \(Galneryus \)](https://ko.wikipedia.org/wiki/Reincarnation_\(Galneryus_\)).
+> This article is converted from Wikipedia: [Reincarnation \(Galneryus의 음반\)](https://ko.wikipedia.org/wiki/Reincarnation_\(Galneryus의_음반\)).
 
 
 '''Reincarnation '''는 [Galneryus](../Page/Galneryus.md "wikilink")의 다섯 번째 정규 음반이다.

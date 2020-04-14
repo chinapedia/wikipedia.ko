@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Remind \( \)](https://ko.wikipedia.org/wiki/Remind_\(_\)).
+> This article is converted from Wikipedia: [Remind \(임창정의 음반\)](https://ko.wikipedia.org/wiki/Remind_\(임창정의_음반\)).
 
 
 《**Remind**》는 대한민국의 가수 [임창정](../Page/임창정.md "wikilink")의 리메이크 앨범이자 두 번째 베스트 앨범이다.

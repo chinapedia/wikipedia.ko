@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Victoria Beckham \(\)](https://ko.wikipedia.org/wiki/Victoria_Beckham_\(\)).
+> This article is converted from Wikipedia: [Victoria Beckham \(음반\)](https://ko.wikipedia.org/wiki/Victoria_Beckham_\(음반\)).
 
 
 ***Victoria Beckham***은 [영국](../Page/영국.md "wikilink")의 [가수](https://ko.wikipedia.org/wiki/가수 "wikilink") [빅토리아 베컴의](../Page/빅토리아_베컴.md "wikilink") 자신의 이름을 딴 솔로 데뷔 앨범이다. 2001년 10월 1일 [버진 레코드에서](https://ko.wikipedia.org/wiki/버진_레코드 "wikilink") 발매 되었다. 베컴은 [스파이스 걸스](../Page/스파이스_걸스.md "wikilink") 멤버 중에서 마지막으로 솔로 앨범을 발표했다. 이 앨범의 리드 싱글, "Not Such an Innocent Girl"은 2001년 9월 17일 발매 되었다. 두 번째 싱글, "A Mind of Its Own"은 2002년 2월 11일 발매 되었다.

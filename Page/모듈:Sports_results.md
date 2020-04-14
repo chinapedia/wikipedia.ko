@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Sports results](https://ko.wikipedia.org/wiki/:Sports_results).
+> This article is converted from Wikipedia: [모듈:Sports results](https://ko.wikipedia.org/wiki/모듈:Sports_results).
 
 
 \-- Module to build results cross-tables for standings in Sports -- See documentation for details

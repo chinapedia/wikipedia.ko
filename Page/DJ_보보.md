@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [DJ ](https://ko.wikipedia.org/wiki/DJ_).
+> This article is converted from Wikipedia: [DJ 보보](https://ko.wikipedia.org/wiki/DJ_보보).
 
 
 **DJ 보보**(DJ BoBo, 본명: **페터 르네 치피리아노 바우만**(Peter René Cipiriano Baumann), 1968년 1월 5일 \~ )는 [스위스](https://ko.wikipedia.org/wiki/스위스 "wikilink")의 [가수](https://ko.wikipedia.org/wiki/가수 "wikilink"), [송라이터](https://ko.wikipedia.org/wiki/송라이터 "wikilink"), [댄서](../Page/춤.md "wikilink"), [음악 프로듀서이다](../Page/음악_프로듀서.md "wikilink").

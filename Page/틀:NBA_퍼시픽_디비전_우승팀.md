@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:NBA   ](https://ko.wikipedia.org/wiki/:NBA___).
+> This article is converted from Wikipedia: [틀:NBA 퍼시픽 디비전 우승팀](https://ko.wikipedia.org/wiki/틀:NBA_퍼시픽_디비전_우승팀).
 
 
 <onlyinclude></onlyinclude>

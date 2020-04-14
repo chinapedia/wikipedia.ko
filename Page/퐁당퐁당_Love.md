@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ Love](https://ko.wikipedia.org/wiki/_Love).
+> This article is converted from Wikipedia: [퐁당퐁당 Love](https://ko.wikipedia.org/wiki/퐁당퐁당_Love).
 
 
 《**퐁당퐁당 Love**》는 [2015년](../Page/2015년.md "wikilink") [12월 13일부터](../Page/12월_13일.md "wikilink") [2015년](../Page/2015년.md "wikilink") [12월 20일까지](../Page/12월_20일.md "wikilink") [MBC에서](../Page/문화방송.md "wikilink") 방영된 창사 54주년 [특집 드라마이다](../Page/문화방송_특집드라마.md "wikilink"). 또한 [네이버 TV캐스트에서](../Page/네이버의_서비스.md "wikilink") [2015년](../Page/2015년.md "wikilink") [12월 10일부터](../Page/12월_10일.md "wikilink") [2015년](../Page/2015년.md "wikilink") [12월 21일까지](../Page/12월_21일.md "wikilink") 웹드라마로도 공개되었다.

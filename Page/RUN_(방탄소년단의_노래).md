@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [RUN \( \)](https://ko.wikipedia.org/wiki/RUN_\(_\)).
+> This article is converted from Wikipedia: [RUN \(방탄소년단의 노래\)](https://ko.wikipedia.org/wiki/RUN_\(방탄소년단의_노래\)).
 
 
 《**RUN**》은 [방탄소년단](../Page/방탄소년단.md "wikilink")의 네 번째 미니 음반의 타이틀 곡이다. 2015년 11월 30일에 발표하였다.

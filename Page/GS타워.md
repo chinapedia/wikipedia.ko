@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [GS](https://ko.wikipedia.org/wiki/GS).
+> This article is converted from Wikipedia: [GS타워](https://ko.wikipedia.org/wiki/GS타워).
 
 
 **GS타워**(), **GS강남타워**()는 지상 38층, 173m로 구성되며 [대한민국](../Page/대한민국.md "wikilink") [서울특별시](../Page/서울특별시.md "wikilink") [강남구](https://ko.wikipedia.org/wiki/강남구 "wikilink") [역삼동](https://ko.wikipedia.org/wiki/역삼동 "wikilink")에 위치한 건축물이다.\[1\] [1994년](../Page/1994년.md "wikilink")에 착공하여 [1999년](../Page/1999년.md "wikilink")에 완공하였고 옥탑 4층, 지상 38층, 지하 6층이 있으며 173m가 높고 내부 시설에는 사무실들이 입주하였다.
@@ -96,6 +96,7 @@ LG강남타워가 기존사무소빌딩과 구별되는 점의 하나는 바로 
 
 ## 대중문화
 
+  - [2015년](../Page/2015년.md "wikilink") 어린이 드라마 - [출동 케이캅](../Page/출동_케이캅.md "wikilink")
   - [2017년](../Page/2017년.md "wikilink") [GMA 일일연속극](../Page/GMA_네트워크.md "wikilink") - [한국인 자기야](../Page/한국인_자기야_\(드라마\).md "wikilink")
 
 ## 교통

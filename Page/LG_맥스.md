@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [LG ](https://ko.wikipedia.org/wiki/LG_).
+> This article is converted from Wikipedia: [LG 맥스](https://ko.wikipedia.org/wiki/LG_맥스).
 
 
 **LG 맥스**는 [LG전자](../Page/LG전자.md "wikilink")가 [2015년](../Page/2015년.md "wikilink") [7월 24일](../Page/7월_24일.md "wikilink"), [인도](../Page/인도.md "wikilink")에 출시한 저가형 패블릿 스마트폰이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ KZ ](https://ko.wikipedia.org/wiki/_KZ_).
+> This article is converted from Wikipedia: [탐정팀 KZ 사건노트](https://ko.wikipedia.org/wiki/탐정팀_KZ_사건노트).
 
 
 **탐정팀 KZ 사건노트**()은 [후지모토 히토미](https://ko.wikipedia.org/wiki/후지모토_히토미 "wikilink")(그림), 스미타키 료(글)에 의한 [일본](../Page/일본.md "wikilink")의 [아동 문학이다](../Page/아동_문학.md "wikilink"). 『[파랑새문고](https://ko.wikipedia.org/wiki/파랑새문고 "wikilink")』([고단샤](../Page/고단샤.md "wikilink"))의 [2011년](../Page/2011년.md "wikilink")부터 연재되고 있으며, [2015년](../Page/2015년.md "wikilink") [10월](../Page/10월.md "wikilink")부터 [2016년](../Page/2016년.md "wikilink") [1월](../Page/1월.md "wikilink")까지 [NHK 교육 텔레비전에서](../Page/NHK_교육_텔레비전.md "wikilink") TV 애니메이션화되어 방영 중이다.

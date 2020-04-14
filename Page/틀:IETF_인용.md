@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:IETF ](https://ko.wikipedia.org/wiki/:IETF_).
+> This article is converted from Wikipedia: [틀:IETF 인용](https://ko.wikipedia.org/wiki/틀:IETF_인용).
 
 
 }

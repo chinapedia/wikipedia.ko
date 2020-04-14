@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ K](https://ko.wikipedia.org/wiki/_K).
+> This article is converted from Wikipedia: [연애탐정 셜록K](https://ko.wikipedia.org/wiki/연애탐정_셜록K).
 
 
 《**연애탐정 셜록K**》는 [네이버 TV에서](https://ko.wikipedia.org/wiki/네이버_TV "wikilink") [2015년](../Page/2015년.md "wikilink") [11월 11일부터](../Page/11월_11일.md "wikilink") [2015년](../Page/2015년.md "wikilink") [11월 20일까지](../Page/11월_20일.md "wikilink") 공개된 [웹 드라마이다](https://ko.wikipedia.org/wiki/웹_드라마 "wikilink"). 지상파로는 [KBS 1TV에서](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink") 2015년 [11월 20일](../Page/11월_20일.md "wikilink") 심야 25시([11월 21일](../Page/11월_21일.md "wikilink") 오전 1시)에 방송되었다. [2016년](../Page/2016년.md "wikilink") [1월 10일에는](../Page/1월_10일.md "wikilink") DVD 형태로 일본에서 발매된다.

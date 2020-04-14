@@ -19,7 +19,7 @@
 
   - [빅뱅 일본 공식 웹사이트](https://web.archive.org/web/20080208220401/http://www.ygbigbang.jp/bb/index.html)
 
-  - [MADE SERIES 음반 소개](http://ygex.jp/bigbang/discography/detail.php?id=1011181)
+  - [MADE SERIES 음반 소개](https://web.archive.org/web/20160115031211/http://ygex.jp/bigbang/discography/detail.php?id=1011181)
 
 <!-- end list -->
 

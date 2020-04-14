@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KS  ](https://ko.wikipedia.org/wiki/KS__).
+> This article is converted from Wikipedia: [KS 플라무르타리 블로러](https://ko.wikipedia.org/wiki/KS_플라무르타리_블로러).
 
 
 **KS 플라무르타리 블로러**()는 [알바니아](https://ko.wikipedia.org/wiki/알바니아 "wikilink")의 [블로러](../Page/블로러.md "wikilink")를 연고지로 한 축구 클럽이다.

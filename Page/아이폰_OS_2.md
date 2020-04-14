@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ OS 2](https://ko.wikipedia.org/wiki/_OS_2).
+> This article is converted from Wikipedia: [아이폰 OS 2](https://ko.wikipedia.org/wiki/아이폰_OS_2).
 
 
 **아이폰 OS 2**는 [애플](https://ko.wikipedia.org/wiki/애플_\(기업\) "wikilink") 에서 개발한 [iOS](https://ko.wikipedia.org/wiki/iOS "wikilink") 시리즈의 두번째 버전이다. [아이폰 OS 1의](../Page/아이폰_OS_1.md "wikilink") 후속 버전이며, [앱스토어](../Page/앱_스토어_\(iOS\).md "wikilink") 를 포함하여 서드파티 애플리케이션을 다운받을수 있게 되었다. [2009년](../Page/2009년.md "wikilink") [1월 27일](../Page/1월_27일.md "wikilink") 출시된 아이폰 OS 2.2.1 버전이 아이폰 OS 2의 최신 버전이다. [2011년](../Page/2011년.md "wikilink") 중반에 지원이 중단되었다. [아이폰 OS 3로](../Page/아이폰_OS_3.md "wikilink") 이어졌다.

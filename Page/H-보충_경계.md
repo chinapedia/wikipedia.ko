@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [H- ](https://ko.wikipedia.org/wiki/H-_).
+> This article is converted from Wikipedia: [H-보충 경계](https://ko.wikipedia.org/wiki/H-보충_경계).
 
 
 [위상수학](../Page/위상수학.md "wikilink")에서 **h-보충 경계**(h-補充境界, )는 양끝과 [호모토피 동치](../Page/호모토피_동치.md "wikilink") 관계에 있는 보충 경계이다. 5차원 이상의 다양체를 분류하는 도구로 쓰인다.

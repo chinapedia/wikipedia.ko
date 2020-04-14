@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Dr. ](https://ko.wikipedia.org/wiki/Dr._).
+> This article is converted from Wikipedia: [Dr. 웹](https://ko.wikipedia.org/wiki/Dr._웹).
 
 
 **닥터 웹**(Dr. Web)은 [러시아](../Page/러시아.md "wikilink")의 [안티바이러스 소프트웨어](https://ko.wikipedia.org/wiki/안티바이러스_소프트웨어 "wikilink") 기업이자, 동사의 제품명이다. 1992년 처음 출시된 닥터 웹은 러시아에서 최초로 서비스된 [안티바이러스](https://ko.wikipedia.org/wiki/안티바이러스 "wikilink") 제품이다.\[1\]

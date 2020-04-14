@@ -30,7 +30,7 @@
 1.  **ANOTHER:WORLD** \[4:33\]
       -
         작곡・편곡：[나와타 히사시](https://ko.wikipedia.org/wiki/나와타_히사시 "wikilink")
-2.  **아드라스티아의 저항** () \[3:22\]
+2.  **아드라스티아의 저항**() \[3:22\]
       -
         작곡・편곡：[와타나베 슌스케](https://ko.wikipedia.org/wiki/와타나베_슌스케_\(음악인\) "wikilink")
 3.  **ANOTHER:WORLD -ANOTHER:FUTURE Remix-** \[6:47\]　※통상반에 한정된 보너스 트랙

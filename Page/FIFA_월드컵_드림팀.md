@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FIFA  ](https://ko.wikipedia.org/wiki/FIFA__).
+> This article is converted from Wikipedia: [FIFA 월드컵 드림팀](https://ko.wikipedia.org/wiki/FIFA_월드컵_드림팀).
 
 
 **FIFA 월드컵 드림팀**(FIFA World Cup Dream Team)은 2002년 [국제 축구 연맹이](../Page/국제_축구_연맹.md "wikilink") 인터넷 팬 투표로 선정한 [FIFA 월드컵](https://ko.wikipedia.org/wiki/FIFA_월드컵 "wikilink") [올스타](../Page/올스타.md "wikilink")팀이다.\[1\]\[2\] 투표는 FIFA 공식 웹사이트인 [FIFAworldcup.com](http://www.FIFAworldcup.com)을 통해 전세계에서 150만명 이상이 참여했으며, [아르헨티나](../Page/아르헨티나.md "wikilink")의 [디에고 마라도나가](../Page/디에고_마라도나.md "wikilink") 가장 많은 표를 얻었다. 마라도나는 111,035 표를 얻었으며, 월드컵 3회 우승의 [브라질](../Page/브라질.md "wikilink") [펠레](../Page/펠레.md "wikilink")는 두 번째로 많은 107,539 표, [프랑스](../Page/프랑스.md "wikilink")의 1998년 우승을 이끈 [지네딘 지단은](https://ko.wikipedia.org/wiki/지네딘_지단 "wikilink") 세 번째로 많은 80,527 표를 득표했다.\[3\]

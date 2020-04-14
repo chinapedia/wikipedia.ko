@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [MKS ](https://ko.wikipedia.org/wiki/MKS_).
+> This article is converted from Wikipedia: [MKS 단위계](https://ko.wikipedia.org/wiki/MKS_단위계).
 
 
 **MKS 단위계**는 [길이](https://ko.wikipedia.org/wiki/길이 "wikilink")의 단위인 [미터](../Page/미터.md "wikilink")(metre, m), [질량](https://ko.wikipedia.org/wiki/질량 "wikilink")의 단위인 [킬로그램](../Page/킬로그램.md "wikilink")(kilogram, kg), [시간](../Page/시간.md "wikilink")의 단위인 [초 (시간)](https://ko.wikipedia.org/wiki/초_\(시간\) "wikilink")(second, s)를 기본 단위로 하는 [단위계](https://ko.wikipedia.org/wiki/단위계 "wikilink")이다.

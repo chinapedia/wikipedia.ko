@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [AAO \(\)](https://ko.wikipedia.org/wiki/AAO_\(\)).
+> This article is converted from Wikipedia: [AAO \(음반\)](https://ko.wikipedia.org/wiki/AAO_\(음반\)).
 
 
 〈**AAO**〉는, [Kis-My-Ft2](../Page/Kis-My-Ft2.md "wikilink")의 14번째 [싱글이다](../Page/싱글_\(음악\).md "wikilink").

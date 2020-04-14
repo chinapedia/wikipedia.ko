@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [NXT ](https://ko.wikipedia.org/wiki/NXT_).
+> This article is converted from Wikipedia: [NXT 테이크오버](https://ko.wikipedia.org/wiki/NXT_테이크오버).
 
 
 **NXT 테이크오버**(NXT TakeOver)는 미국 프로레슬링 단체 [WWE](https://ko.wikipedia.org/wiki/WWE "wikilink")의 하위 단체 [NXT 레슬링에서](https://ko.wikipedia.org/wiki/NXT_레슬링 "wikilink") 2014년부터 시행 중인 페이 퍼 뷰이다.

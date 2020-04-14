@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ \(HTML\)](https://ko.wikipedia.org/wiki/_\(HTML\)).
+> This article is converted from Wikipedia: [폼 \(HTML\)](https://ko.wikipedia.org/wiki/폼_\(HTML\)).
 
 
 **폼**(****), **입력 폼**은 [웹 프로그래밍의](../Page/웹_개발.md "wikilink") 기술의 하나이다. [클라이언트](https://ko.wikipedia.org/wiki/클라이언트 "wikilink")가 정보를 입력 · 선택하고, [웹 서버](../Page/웹_서버.md "wikilink") 등의 폼을 처리하는 에이전트로 제출하기 위한 기구이다.

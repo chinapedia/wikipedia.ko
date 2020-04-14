@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [LG](https://ko.wikipedia.org/wiki/LG).
+> This article is converted from Wikipedia: [LG메트로시티](https://ko.wikipedia.org/wiki/LG메트로시티).
 
 
 **LG메트로시티**()는 [대한민국](../Page/대한민국.md "wikilink") [부산광역시](https://ko.wikipedia.org/wiki/부산광역시 "wikilink") [남구](../Page/남구_\(부산광역시\).md "wikilink") [용호동에](../Page/용호동_\(부산\).md "wikilink") 위치한 대단지 아파트이다. 1차부터 5차까지 있으며 한 아파트로 친다. 평수는 25평부터 92평까지의 평수로 구성이 되어 있으며 80개의 동 7400여세대로 2017년 기준 국내 입주한 아파트 단지중 가장 규모가 크다. 중대형 평수가 많으며 학군이 좋은편이라 부산의 부촌 아파트중 한곳이다. 본래 이곳은 바다였으며 매립을 해서 만든 매립지이다. 동국제강의 공장 터로 사용하다가 동국제강 공장이 이전을 한후 [2001년](../Page/2001년.md "wikilink")에 건설이 되어 [2004년](../Page/2004년.md "wikilink")에 완공하였다. 80개의동 아파트, 주거시설로 이루어져 있다.

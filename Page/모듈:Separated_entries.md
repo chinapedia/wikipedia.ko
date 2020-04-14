@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Separated entries](https://ko.wikipedia.org/wiki/:Separated_entries).
+> This article is converted from Wikipedia: [모듈:Separated entries](https://ko.wikipedia.org/wiki/모듈:Separated_entries).
 
 
 \-- This module takes positional parameters as input and concatenates them with -- an optional separator. The final separator (the "conjunction") can be -- specified independently, enabling natural-language lists like -- "foo, bar, baz and qux". The starting parameter can also be specified.

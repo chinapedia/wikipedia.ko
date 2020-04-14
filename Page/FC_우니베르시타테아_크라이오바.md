@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FC  ](https://ko.wikipedia.org/wiki/FC__).
+> This article is converted from Wikipedia: [FC 우니베르시타테아 크라이오바](https://ko.wikipedia.org/wiki/FC_우니베르시타테아_크라이오바).
 
 
 **FC 우니베르시타테아 크라이오바**(Fotbal Club Universitatea Craiova)는 [크라이오바](../Page/크라이오바.md "wikilink")를 연고로 하는 [루마니아](../Page/루마니아.md "wikilink")의 축구 클럽이다. 1994년에 설립되었으며 2014년에 해체되었다. 2017년에 재창단되어 [리가 IV에](https://ko.wikipedia.org/wiki/리가_IV "wikilink") 참여하여 [리가 III로](https://ko.wikipedia.org/wiki/리가_III "wikilink") 승격하였다.

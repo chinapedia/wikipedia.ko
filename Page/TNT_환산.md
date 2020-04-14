@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TNT ](https://ko.wikipedia.org/wiki/TNT_).
+> This article is converted from Wikipedia: [TNT 환산](https://ko.wikipedia.org/wiki/TNT_환산).
 
 
 **TNT 환산**(TNT換算)은 [폭약](https://ko.wikipedia.org/wiki/폭약 "wikilink")의 [폭발](../Page/폭발.md "wikilink")로 방출되는 [에너지](../Page/에너지.md "wikilink")를 같은 에너지의 [트라이나이트로톨루엔](../Page/트라이나이트로톨루엔.md "wikilink")(TNT) [질량](https://ko.wikipedia.org/wiki/질량 "wikilink")으로 환산하는 방법이다.

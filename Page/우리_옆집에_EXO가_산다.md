@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  EXO ](https://ko.wikipedia.org/wiki/__EXO_).
+> This article is converted from Wikipedia: [우리 옆집에 EXO가 산다](https://ko.wikipedia.org/wiki/우리_옆집에_EXO가_산다).
 
 
 《**우리 옆집에 EXO가 산다**》는 대한민국의 [웹드라마이다](https://ko.wikipedia.org/wiki/웹_시리즈 "wikilink"). 우리 옆집에 [EXO](../Page/EXO.md "wikilink")가 산다는 웹드라마 최초 조회수 1000만건을 기록하였다.

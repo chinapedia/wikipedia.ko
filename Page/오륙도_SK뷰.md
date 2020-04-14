@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ SK](https://ko.wikipedia.org/wiki/_SK).
+> This article is converted from Wikipedia: [오륙도 SK뷰](https://ko.wikipedia.org/wiki/오륙도_SK뷰).
 
 
 **오륙도 SK뷰**()는 [대한민국](../Page/대한민국.md "wikilink") [부산광역시](https://ko.wikipedia.org/wiki/부산광역시 "wikilink") [남구](../Page/남구_\(부산광역시\).md "wikilink") [용호동에](../Page/용호동_\(부산\).md "wikilink") 위치한 고급 대단지 아파트이다. 최고 47층인 15개의 동으로 이루어져 있으며 총 3000세대이다. 본래 이곳은 [한센병](https://ko.wikipedia.org/wiki/한센병 "wikilink") 환자들이 살던 한센병 환자촌이었는데 아파트가 건설되면서 상전벽해한 지역이기도 하다.

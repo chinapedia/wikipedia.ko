@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [WBSC  12 ](https://ko.wikipedia.org/wiki/WBSC__12_).
+> This article is converted from Wikipedia: [WBSC 프리미어 12 수상](https://ko.wikipedia.org/wiki/WBSC_프리미어_12_수상).
 
 
 다음은 [WBSC 프리미어 12의](https://ko.wikipedia.org/wiki/WBSC_프리미어_12 "wikilink") 수상에 관한 내용이다.

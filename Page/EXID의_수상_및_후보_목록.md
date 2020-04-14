@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [EXID    ](https://ko.wikipedia.org/wiki/EXID____).
+> This article is converted from Wikipedia: [EXID의 수상 및 후보 목록](https://ko.wikipedia.org/wiki/EXID의_수상_및_후보_목록).
 
 
 <table>

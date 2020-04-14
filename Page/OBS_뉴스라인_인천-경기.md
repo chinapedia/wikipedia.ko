@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [OBS  -](https://ko.wikipedia.org/wiki/OBS__-).
+> This article is converted from Wikipedia: [OBS 뉴스라인 인천-경기](https://ko.wikipedia.org/wiki/OBS_뉴스라인_인천-경기).
 
 
 《**OBS 뉴스라인 인천-경기**》는 [OBS경인TV](../Page/OBS경인TV.md "wikilink")의 [뉴스](../Page/뉴스.md "wikilink") [프로그램이다](../Page/텔레비전_프로그램.md "wikilink").

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:FC    ](https://ko.wikipedia.org/wiki/:FC____).
+> This article is converted from Wikipedia: [틀:FC 레드불 잘츠부르크 선수 명단](https://ko.wikipedia.org/wiki/틀:FC_레드불_잘츠부르크_선수_명단).
 
 
 <onlyinclude></onlyinclude>

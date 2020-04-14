@@ -5,7 +5,7 @@
 
 ## 평가
 
-《Section.80》는 음악 비평매체로부터 대체로 긍정적인 평가를 받았다. 주류 비평매체들로부터 받은, 100점에 가까운 평점들을 합산한 [Metacritics에서는](https://ko.wikipedia.org/wiki/메타크리틱 "wikilink") "대체로 호의적인 평가(Generally Favorable Reviews)"에 해당하는 80점의 평균점수를 받았다. (11개의 비평매체 평균)\[9\] DJBooth는 5점 만점에 4.5점의 별점을 매겼다.\[10\] HipHopDX는 5점 만점에 4점의 별점을 매겼다.\[11\] [Pitchfork Media는](https://ko.wikipedia.org/wiki/피치포크_미디어 "wikilink") 10점 만점에 8.0점의 점수를 매겼다.\[12\] XXL은 XXL 등급 만점에 XL 등급을 매겼다.\[13\] PopMatters는 10점 만점에 8점의 별점을 매겼다.\[14\]
+《Section.80》는 음악 비평매체로부터 대체로 긍정적인 평가를 받았다. 주류 비평매체들로부터 받은, 100점에 가까운 평점들을 합산한 [Metacritics에서는](../Page/메타크리틱.md "wikilink") "대체로 호의적인 평가(Generally Favorable Reviews)"에 해당하는 80점의 평균점수를 받았다. (11개의 비평매체 평균)\[9\] DJBooth는 5점 만점에 4.5점의 별점을 매겼다.\[10\] HipHopDX는 5점 만점에 4점의 별점을 매겼다.\[11\] [Pitchfork Media는](https://ko.wikipedia.org/wiki/피치포크_미디어 "wikilink") 10점 만점에 8.0점의 점수를 매겼다.\[12\] XXL은 XXL 등급 만점에 XL 등급을 매겼다.\[13\] PopMatters는 10점 만점에 8점의 별점을 매겼다.\[14\]
 
 ## 트랙 리스트
 

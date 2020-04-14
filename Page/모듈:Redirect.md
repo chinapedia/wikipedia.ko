@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Redirect](https://ko.wikipedia.org/wiki/:Redirect).
+> This article is converted from Wikipedia: [모듈:Redirect](https://ko.wikipedia.org/wiki/모듈:Redirect).
 
 
 \-- This module provides functions for getting the target of a redirect page.
