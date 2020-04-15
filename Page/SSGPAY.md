@@ -37,7 +37,7 @@
   - [안드로이드 페이](https://ko.wikipedia.org/wiki/안드로이드_페이 "wikilink")
   - [네이버 페이](https://ko.wikipedia.org/wiki/네이버_페이 "wikilink")
   - [페이팔](../Page/페이팔.md "wikilink")
-  - [페이코](https://ko.wikipedia.org/wiki/페이코 "wikilink")
+  - [페이코](../Page/페이코.md "wikilink")
   - [페이나우](https://ko.wikipedia.org/wiki/페이나우 "wikilink")
 
 ## 각주

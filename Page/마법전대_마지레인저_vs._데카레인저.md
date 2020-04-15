@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  vs. ](https://ko.wikipedia.org/wiki/__vs._).
+> This article is converted from Wikipedia: [마법전대 마지레인저 vs. 데카레인저](https://ko.wikipedia.org/wiki/마법전대_마지레인저_vs._데카레인저).
 
 
 《**마법전대 마지레인저 vs. 데카레인저**》 [2006년](../Page/2006년.md "wikilink") [3월 10일에](../Page/3월_10일.md "wikilink") 발매된 오리지널 비디오 작품이다. 《[마법전대 마지레인저](https://ko.wikipedia.org/wiki/마법전대_마지레인저 "wikilink")》의 오리지널 비디오 작품이며, 슈퍼 전대 VS시리즈의 하나이다.

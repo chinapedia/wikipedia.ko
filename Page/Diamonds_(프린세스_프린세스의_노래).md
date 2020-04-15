@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Diamonds \(  \)](https://ko.wikipedia.org/wiki/Diamonds_\(__\)).
+> This article is converted from Wikipedia: [Diamonds \(프린세스 프린세스의 노래\)](https://ko.wikipedia.org/wiki/Diamonds_\(프린세스_프린세스의_노래\)).
 
 
 〈**Diamonds**〉(다이아몬드)는 [일본](../Page/일본.md "wikilink")의 걸즈 록 밴드인 [프린세스 프린세스의](https://ko.wikipedia.org/wiki/프린세스_프린세스 "wikilink") 일곱 번째 싱글로, 1989년 4월 21일 발매되었다. ([8cm CD](../Page/콤팩트_디스크.md "wikilink"): 10EH-3272) 이 곡으로 프린세스 프린세스는 [오리콘 싱글 차트](../Page/오리콘_싱글_차트.md "wikilink") 1위를 처음으로 기록했으며 이들의 첫 밀리언 셀러이자, 동시에 발표한 모든 곡중에 가장 많은 판매고를 기록한 최대의 히트곡이기도 하다.

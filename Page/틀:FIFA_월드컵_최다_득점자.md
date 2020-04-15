@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:FIFA   ](https://ko.wikipedia.org/wiki/:FIFA___).
+> This article is converted from Wikipedia: [틀:FIFA 월드컵 최다 득점자](https://ko.wikipedia.org/wiki/틀:FIFA_월드컵_최다_득점자).
 
 
 <onlyinclude></onlyinclude>

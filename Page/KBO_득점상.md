@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KBO ](https://ko.wikipedia.org/wiki/KBO_).
+> This article is converted from Wikipedia: [KBO 득점상](https://ko.wikipedia.org/wiki/KBO_득점상).
 
 
 **KBO 득점상**은 연말 [KBO 리그](https://ko.wikipedia.org/wiki/KBO_리그 "wikilink") 시상식에서 해당 연도 정규 리그의 득점 1위에게 수여하는 상이다. 프로야구 출범 시에는 공식 타이틀이 아니었지만 [2000년 시즌부터](../Page/2000년_한국프로야구.md "wikilink") 타이틀 수상을 시작하여 현재의 타자 부문 8개 타이틀이 성립되게 되었다.\[1\] 기존 명칭은 **한국프로야구 최다득점상**이었으나 KBO의 브랜드 아이덴디티 통합 작업에 따라 2015년 시즌부터 "KBO 득점상"이라는 새로운 명칭을 사용하게 되었다.\[2\]

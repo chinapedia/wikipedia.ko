@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [PRODUCE 48  ](https://ko.wikipedia.org/wiki/PRODUCE_48__).
+> This article is converted from Wikipedia: [PRODUCE 48 참가자 목록](https://ko.wikipedia.org/wiki/PRODUCE_48_참가자_목록).
 
 
 다음은 [엠넷](../Page/엠넷.md "wikilink")의 서바이벌 프로그램 《[PRODUCE 48](https://ko.wikipedia.org/wiki/PRODUCE_48 "wikilink")》의 참가자 목록이다.
@@ -117,7 +117,7 @@
 <tr class="odd">
 <td><p>5</p></td>
 <td><p><a href="../Page/미야와키_사쿠라.md" title="wikilink">미야와키 사쿠라</a></p></td>
-<td><p>AKS</p></td>
+<td><p>AKB48</p></td>
 <td><p>1998.</p></td>
 <td><p><a href="../Page/대한민국.md" title="wikilink">대한민국</a></p></td>
 <td><p>1</p></td>
@@ -145,7 +145,7 @@
 <tr class="odd">
 <td><p>7</p></td>
 <td><p><a href="../Page/야부키_나코.md" title="wikilink">야부키 나코</a></p></td>
-<td><p>AKS</p></td>
+<td><p>AKB48</p></td>
 <td><p>2001.</p></td>
 <td><p><a href="../Page/대한민국.md" title="wikilink">대한민국</a></p></td>
 <td><p>14</p></td>
@@ -271,7 +271,7 @@
 <tr class="even">
 <td><p>17</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/가은_(1994년)" title="wikilink">이가은</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/높은엔터테인먼트" title="wikilink">높은엔터테인먼트</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/PLEDIS" title="wikilink">PLEDIS</a></p></td>
 <td><p>1994.</p></td>
 <td><p><a href="../Page/대한민국.md" title="wikilink">대한민국</a></p></td>
 <td><p>5</p></td>
@@ -285,7 +285,7 @@
 <tr class="odd">
 <td><p>18</p></td>
 <td><p><a href="../Page/쥬리_(가수).md" title="wikilink">타카하시 쥬리</a></p></td>
-<td><p><a href="../Page/울림엔터테인먼트.md" title="wikilink">울림엔터테인먼트</a></p></td>
+<td><p><a href="../Page/AKB48.md" title="wikilink">AKB48</a></p></td>
 <td><p>1997.</p></td>
 <td><p><a href="../Page/대한민국.md" title="wikilink">대한민국</a></p></td>
 <td><p>20</p></td>
@@ -341,7 +341,7 @@
 <tr class="odd">
 <td><p>21</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/고토_모에" title="wikilink">고토 모에</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/트윈플래닛" title="wikilink">트윈플래닛</a></p></td>
+<td><p><a href="../Page/AKB48.md" title="wikilink">AKB48</a></p></td>
 <td><p>2001.</p></td>
 <td><p><a href="../Page/대한민국.md" title="wikilink">대한민국</a></p></td>
 <td><p>16</p></td>
@@ -424,7 +424,7 @@
 </tr>
 <tr class="odd">
 <td><p>27</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/이런" title="wikilink">왕이런</a></p></td>
+<td><p><a href="../Page/이런.md" title="wikilink">왕이런</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/위에화_엔터테인먼트" title="wikilink">위에화 엔터테인먼트</a></p></td>
 <td><p>2000.</p></td>
 <td><p><a href="../Page/중국.md" title="wikilink">중국</a></p></td>
@@ -494,7 +494,7 @@
 </tr>
 <tr class="even">
 <td><p>31</p></td>
-<td><p><a href="../Page/고유진.md" title="wikilink">고유진</a></p></td>
+<td><p>고유진</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/에잇디크래이브엔터테인먼트" title="wikilink">에잇디크래이브엔터테인먼트</a></p></td>
 <td><p>2000.</p></td>
 <td><p><a href="../Page/대한민국.md" title="wikilink">대한민국</a></p></td>
@@ -928,7 +928,7 @@
 </tr>
 <tr class="odd">
 <td><p>61</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/김유빈" title="wikilink">김유빈</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/김유빈_(2002년)" title="wikilink">김유빈</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/스타디움" title="wikilink">스타디움</a></p></td>
 <td><p>2002.</p></td>
 <td><p><a href="../Page/대한민국.md" title="wikilink">대한민국</a></p></td>

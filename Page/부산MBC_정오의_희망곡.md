@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [MBC  ](https://ko.wikipedia.org/wiki/MBC__).
+> This article is converted from Wikipedia: [부산MBC 정오의 희망곡](https://ko.wikipedia.org/wiki/부산MBC_정오의_희망곡).
 
 
-《**정경진의 정오의 희망곡**》은 [대한민국](../Page/대한민국.md "wikilink")의 방송국 [부산문화방송](../Page/부산문화방송.md "wikilink")의 라디오 채널 [부산MBC FM4U](../Page/부산문화방송.md "wikilink")(FM 88.9㎒)에서 낮 12시부터 오후 2시까지 방송되는 대중음악 전문 라디오 프로그램이다. [1970년](../Page/1970년.md "wikilink") [4월 15일에](../Page/4월_15일.md "wikilink") [부산MBC FM4U가](../Page/부산문화방송.md "wikilink") 개국하면서 첫방송을 시작한 [부산MBC FM4U의](../Page/부산문화방송.md "wikilink") 최장수 라디오 프로그램이다. DJ인 정경진 아나운서가 "찐디"라는 예명으로 소통한다.
+《**부산MBC 정오의 희망곡**》은 [대한민국](../Page/대한민국.md "wikilink")의 방송국 [부산문화방송](../Page/부산문화방송.md "wikilink")의 라디오 채널 [부산MBC FM4U](../Page/부산문화방송.md "wikilink")(FM 88.9㎒)에서 낮 12시부터 오후 2시까지 방송되는 대중음악 전문 라디오 프로그램이다. [1970년](../Page/1970년.md "wikilink") [4월 15일에](../Page/4월_15일.md "wikilink") [부산MBC](../Page/부산문화방송.md "wikilink") [FM4U가](../Page/MBC_FM4U.md "wikilink") 개국하면서 방송을 시작한 [부산MBC](../Page/부산문화방송.md "wikilink") [FM4U의](../Page/MBC_FM4U.md "wikilink") 최장수 라디오 프로그램이다.
 
 ## 문자번호
 

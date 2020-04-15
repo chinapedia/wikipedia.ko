@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  II](https://ko.wikipedia.org/wiki/__II).
+> This article is converted from Wikipedia: [마리너 마크 II](https://ko.wikipedia.org/wiki/마리너_마크_II).
 
 
 **마리너 마크 II**는 1990년 [JPL](https://ko.wikipedia.org/wiki/JPL "wikilink")에 제안되었으나 취소된 [해왕성](../Page/해왕성.md "wikilink") 및 [명왕성](../Page/명왕성.md "wikilink") 탐사선이다.\[1\]\[2\]\[3\] 목적은 저비용으로 해왕성과 명왕성, 그리고 혜성까지 탐사하는 것이었다.\[4\]

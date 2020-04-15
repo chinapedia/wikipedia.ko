@@ -17,9 +17,9 @@ OpenJDK는 처음에는 자바 플랫폼의 [JDK 7 버전에만](https://ko.wiki
 
 ## 함께보기
 
-  - [GNU 클래스패스](https://ko.wikipedia.org/wiki/GNU_클래스패스 "wikilink")
+  - [GNU 클래스패스](../Page/GNU_클래스패스.md "wikilink")
   - [GCJ](../Page/GCJ.md "wikilink")
-  - [아파치 하모니](https://ko.wikipedia.org/wiki/아파치_하모니 "wikilink")
+  - [아파치 하모니](../Page/아파치_하모니.md "wikilink")
 
 ## 각주
 

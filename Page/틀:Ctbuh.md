@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Ctbuh](https://ko.wikipedia.org/wiki/:Ctbuh).
+> This article is converted from Wikipedia: [틀:Ctbuh](https://ko.wikipedia.org/wiki/틀:Ctbuh).
 
 
 {{\#if: }}} {{\#if:

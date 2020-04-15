@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ X- ](https://ko.wikipedia.org/wiki/_X-_).
+> This article is converted from Wikipedia: [후지필름 X-트랜스 센서](https://ko.wikipedia.org/wiki/후지필름_X-트랜스_센서).
 
 
 [오른쪽](https://ko.wikipedia.org/wiki/파일:XTrans_matrix.png "wikilink") [오른쪽](https://ko.wikipedia.org/wiki/파일:Bayer_matrix.svg "wikilink") **후지필름 X-트랜스**는 [후지필름](../Page/후지필름.md "wikilink")에 의해 개발된 [CMOS 이미지 센서이며](https://ko.wikipedia.org/wiki/CMOS_이미지_센서 "wikilink"), [후지필름 X-시리즈](https://ko.wikipedia.org/wiki/후지필름_X-시리즈 "wikilink") 카메라에 사용된다. 전통적인 베이어 필터 배열을 보이는 대부분의 CMOS 센서와는 달리, X-트랜스 샌서는 특이한 6X6 패턴을 가지고 있다. 후지필름은 이러한 배열이 로-패스 필터를 필요하지 않게 함으로써 [무아레](https://ko.wikipedia.org/wiki/무아레 "wikilink") 현상을 최소화하고, 해상도를 향상시킨다고 주장한다.\[1\]

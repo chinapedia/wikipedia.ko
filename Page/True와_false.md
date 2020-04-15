@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [True false](https://ko.wikipedia.org/wiki/True_false).
+> This article is converted from Wikipedia: [True와 false](https://ko.wikipedia.org/wiki/True와_false).
 
 
 [유닉스 계열](../Page/유닉스_계열.md "wikilink") [운영 체제에서](../Page/운영_체제.md "wikilink") **true**와 **false**는 미리 정의된 [종료 상태로](../Page/종료_상태.md "wikilink") 반환하는 기능만 하는 명령어이다. 프로그래머와 스크립트들은 종종 명령의 종료 상태를 사용하여 명령의 성공(종료 상태 0)이나 실패(0이 아님)를 평가한다. true와 false 명령어들이 명령 성공의 [논리값을](../Page/진릿값.md "wikilink") 대표하는데, 그 이유는 true는 0을 반환하고 false는 1을 반환하기 때문이다.

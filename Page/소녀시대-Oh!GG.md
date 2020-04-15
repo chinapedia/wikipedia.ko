@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [-Oh!GG](https://ko.wikipedia.org/wiki/-Oh!GG).
+> This article is converted from Wikipedia: [소녀시대-Oh!GG](https://ko.wikipedia.org/wiki/소녀시대-Oh!GG).
 
 
 **소녀시대-Oh\!GG**는 [태연](../Page/태연.md "wikilink"), [써니](../Page/써니_\(가수\).md "wikilink"), [효연](../Page/효연.md "wikilink"), [유리](../Page/유리_\(1989년\).md "wikilink"), [윤아](../Page/윤아.md "wikilink")로 구성된 [소녀시대](../Page/소녀시대.md "wikilink")의 두 번째 유닛 그룹으로, 2018년 9월 5일 싱글 앨범 《[몰랐니 (Lil' Touch)](../Page/몰랐니.md "wikilink")》로 데뷔하였다. 유닛 이름은 멤버들의 의견을 반영하여 감탄사 ‘Oh’와 소녀시대의 영문 약자인 ‘GG’에서 따온 것으로, ‘빈틈없이 야무지다’는 뜻의 형용사 ‘오지다’를 연상시킬 수도 있게 지어졌다.\[1\]

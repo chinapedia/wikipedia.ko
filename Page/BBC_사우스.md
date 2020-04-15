@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [BBC ](https://ko.wikipedia.org/wiki/BBC_).
+> This article is converted from Wikipedia: [BBC 사우스](https://ko.wikipedia.org/wiki/BBC_사우스).
 
 
 **BBC 사우스** (BBC South)는 [햄프셔 주](https://ko.wikipedia.org/wiki/햄프셔_주 "wikilink"), [아일오브와이트 주](https://ko.wikipedia.org/wiki/아일오브와이트_주 "wikilink"), [웨스트서식스 주](https://ko.wikipedia.org/wiki/웨스트서식스_주 "wikilink") (대부분 지역), [도싯 주](https://ko.wikipedia.org/wiki/도싯_주 "wikilink") (동부와 중부), [글로스터셔 주](https://ko.wikipedia.org/wiki/글로스터셔_주 "wikilink") (동부), [옥스퍼드셔 주](https://ko.wikipedia.org/wiki/옥스퍼드셔_주 "wikilink") (남부와 동부), [노샘프턴셔 주](https://ko.wikipedia.org/wiki/노샘프턴셔_주 "wikilink") (남부), [버크셔 주](https://ko.wikipedia.org/wiki/버크셔_주 "wikilink") (서부), [버킹엄셔 주와](https://ko.wikipedia.org/wiki/버킹엄셔_주 "wikilink") [서리 주](https://ko.wikipedia.org/wiki/서리_주 "wikilink") 그리고 [윌트셔 주의](https://ko.wikipedia.org/wiki/윌트셔_주 "wikilink") 일부 지역을 대상으로 한 [BBC 잉글랜드 지방](../Page/BBC_잉글리시_리전스.md "wikilink") 방송이다.

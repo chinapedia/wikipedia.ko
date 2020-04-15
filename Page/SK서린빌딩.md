@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SK](https://ko.wikipedia.org/wiki/SK).
+> This article is converted from Wikipedia: [SK서린빌딩](https://ko.wikipedia.org/wiki/SK서린빌딩).
 
 
 **SK서린빌딩**()는 [대한민국](../Page/대한민국.md "wikilink") [서울특별시](../Page/서울특별시.md "wikilink") [종로구](../Page/종로구.md "wikilink") [서린동](https://ko.wikipedia.org/wiki/서린동 "wikilink")에 위치한 오피스 빌딩이다. 36층 높이의 업무용 건물로 1999년 완공된 이래 SK그룹 본사가 위치하고 있으며, 오늘날에도 몇몇 그룹 계열사 본사와 함께 SK그룹의 지주사인 SK 주식회사의 본사가 위치하고 있다.

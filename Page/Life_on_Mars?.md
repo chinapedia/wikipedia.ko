@@ -45,7 +45,7 @@
 **프로듀서**
 
   - [켄 스콧](https://ko.wikipedia.org/wiki/켄_스콧 "wikilink") – "Life on Mars?"
-  - [토니 비스콘티](https://ko.wikipedia.org/wiki/토니_비스콘티 "wikilink") – "The Man Who Sold the World"
+  - [토니 비스콘티](../Page/토니_비스콘티.md "wikilink") – "The Man Who Sold the World"
 
 ## 대중문화에서의 등장
 
@@ -53,7 +53,7 @@
 
 미국 호러드라마 《[아메리칸 호러 스토리: 프릭 쇼](https://ko.wikipedia.org/wiki/아메리칸_호러_스토리:_프릭_쇼 "wikilink")》시즌 1 사전 에피소드에서는 배우 [제시카 랭이](../Page/제시카_랭.md "wikilink") 깊은 독일억양으로 해당 곡을 부르는 장면이 등장한다.\[10\] 작중 '마스'라는 인물로 등장하는 랭은 아이스블루 정장을 입고 진한 아이섀도를 하고 나와 공연을 하기 때문에 보위의 뮤직비디오를 연상시킨다.\[11\] 다만 작중 시대배경이 보위가 곡을 내기 거의 20년 전인 1952년이기 때문에 이 곡과 공연이 나온다는 것 자체가 고증오류가 있다. 작중 마스는 에피소드 "Pink Cupcakes"에서 다시 한번 이 노래를 부르며, 시즌 마지막화인 "Curtain Call"에서도 마스가 노래 준비를 하는 가운데 배경음악으로 흘러나온다.
 
-"Life on Mars?"는 영화 삽입곡으로도 등장한 바 있다. [라르스 폰 트리어](../Page/라르스_폰_트리어.md "wikilink") 감독의 영화 《[브레이킹 더 웨이브](https://ko.wikipedia.org/wiki/브레이킹_더_웨이브 "wikilink")》(1996)의 에필로그에서 "Life on Mars?"를 틀어준다. 다만 DVD판에서는 저작권 문제를 이유로 [엘튼 존의](../Page/엘튼_존.md "wikilink") "[Your Song](../Page/Your_Song.md "wikilink")"으로 대체되었다.\[12\] 이후 [빌 머레이](https://ko.wikipedia.org/wiki/빌_머레이 "wikilink") 주연의 영화 《[스티브 지소와의 해저 생활](../Page/스티브_지소와의_해저_생활.md "wikilink")》 (2004)년에서도 삽입곡으로 들어갔다. 작중 머레이가 혼자서 술에 취한 채 뱃머리로 걸어가고 아래쪽 갑판에서는 파티가 계속되는 장면에서 등장한다. 《[러버보이](https://ko.wikipedia.org/wiki/러버보이 "wikilink")》 (2005)에서는 10살짜리 에밀리와 하커 부인이 대화를 나누는 사이 라디오에서 처음 흘러나오며, 나중에 에밀리가 [아카펠라](../Page/아카펠라.md "wikilink")를 할 때에도 부른다. 《[팩토리 걸](../Page/팩토리_걸_\(영화\).md "wikilink")》 (2006)에서도 삽입곡으로 쓰였으며,  영국 영화 《헝키 도리》에서도 데이비가 부르는 노래로 등장한다.
+"Life on Mars?"는 영화 삽입곡으로도 등장한 바 있다. [라르스 폰 트리어](../Page/라르스_폰_트리어.md "wikilink") 감독의 영화 《[브레이킹 더 웨이브](../Page/브레이킹_더_웨이브.md "wikilink")》(1996)의 에필로그에서 "Life on Mars?"를 틀어준다. 다만 DVD판에서는 저작권 문제를 이유로 [엘튼 존의](../Page/엘튼_존.md "wikilink") "[Your Song](../Page/Your_Song.md "wikilink")"으로 대체되었다.\[12\] 이후 [빌 머레이](https://ko.wikipedia.org/wiki/빌_머레이 "wikilink") 주연의 영화 《[스티브 지소와의 해저 생활](../Page/스티브_지소와의_해저_생활.md "wikilink")》 (2004)년에서도 삽입곡으로 들어갔다. 작중 머레이가 혼자서 술에 취한 채 뱃머리로 걸어가고 아래쪽 갑판에서는 파티가 계속되는 장면에서 등장한다. 《[러버보이](https://ko.wikipedia.org/wiki/러버보이 "wikilink")》 (2005)에서는 10살짜리 에밀리와 하커 부인이 대화를 나누는 사이 라디오에서 처음 흘러나오며, 나중에 에밀리가 [아카펠라](../Page/아카펠라.md "wikilink")를 할 때에도 부른다. 《[팩토리 걸](../Page/팩토리_걸_\(영화\).md "wikilink")》 (2006)에서도 삽입곡으로 쓰였으며,  영국 영화 《헝키 도리》에서도 데이비가 부르는 노래로 등장한다.
 
 ## 각주
 

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ J. ](https://ko.wikipedia.org/wiki/_J._).
+> This article is converted from Wikipedia: [마리오 J. 몰리나](https://ko.wikipedia.org/wiki/마리오_J._몰리나).
 
 
 **마리오 호세 몰리나-파스칼 엔리케스**(, [1933년](../Page/1933년.md "wikilink") [12월 3일](../Page/12월_3일.md "wikilink") \~ )는 [멕시코](../Page/멕시코.md "wikilink")의 [화학](../Page/화학.md "wikilink")자이다. 1995년에 [오존층](../Page/오존층.md "wikilink") 파괴의 화학적 메커니즘을 규명한 공로로 [파울 크뤼천](../Page/파울_크뤼천.md "wikilink"), [프랭크 셔우드 롤런드와](../Page/프랭크_셔우드_롤런드.md "wikilink") 함께 [노벨 화학상을](https://ko.wikipedia.org/wiki/노벨_화학상 "wikilink") 수상했다.\[1\]

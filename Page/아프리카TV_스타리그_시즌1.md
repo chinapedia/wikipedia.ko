@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TV  1](https://ko.wikipedia.org/wiki/TV__1).
+> This article is converted from Wikipedia: [아프리카TV 스타리그 시즌1](https://ko.wikipedia.org/wiki/아프리카TV_스타리그_시즌1).
 
 
 **아프리카TV 스타리그 시즌1**은 [대한민국](../Page/대한민국.md "wikilink")의 [스타크래프트](../Page/스타크래프트.md "wikilink") 리그인 [아프리카TV 스타리그의](../Page/아프리카TV_스타리그.md "wikilink") 첫 대회다. [아프리카TV](../Page/아프리카TV.md "wikilink")와 [콩두컴퍼니](../Page/콩두컴퍼니.md "wikilink")가 공동으로 진행되며, [아프리카TV](../Page/아프리카TV.md "wikilink"), [유튜브](../Page/유튜브.md "wikilink") 등으로 송출됐다.

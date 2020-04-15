@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ II  ](https://ko.wikipedia.org/wiki/_II__).
+> This article is converted from Wikipedia: [안지오텐신 II 수용체 차단제](https://ko.wikipedia.org/wiki/안지오텐신_II_수용체_차단제).
 
 
 **안지오텐신II 수용체 차단제(ARB)**, 혹은  **AT<sub>1</sub> 수용체 길항물질**은 [레닌-안지오텐신계를](../Page/레닌_앤지오텐신계.md "wikilink") 조절하는 약물 중 하나이다. 주로 고혈압 치료에 사용되며, 당뇨병성 신장질환(diabetic nephropathy)과 [울혈성 심부전](https://ko.wikipedia.org/wiki/울혈성_심부전 "wikilink")(congestive heart failure)의 치료에도 사용되기도 한다. 이 물질은 안지오텐신II와 안지오텐신II-AT<small>1</small> 수용체와의 결합을 차단하여 안지오텐신II-AT<small>1</small> 수용체의 활성화를 억제한다.

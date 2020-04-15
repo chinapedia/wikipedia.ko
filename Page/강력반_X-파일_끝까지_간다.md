@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ X-  ](https://ko.wikipedia.org/wiki/_X-__).
+> This article is converted from Wikipedia: [강력반 X-파일 끝까지 간다](https://ko.wikipedia.org/wiki/강력반_X-파일_끝까지_간다).
 
 
 《**강력반 X-파일 끝까지 간다**》는 매주 [토요일](../Page/토요일.md "wikilink") [밤](https://ko.wikipedia.org/wiki/밤_\(시간\) "wikilink") 10시 30분에 [KBS 1TV에서](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink") 방영한 [한국방송공사의 텔레비전 프로그램이다](https://ko.wikipedia.org/wiki/한국방송공사의_텔레비전_프로그램 "wikilink").

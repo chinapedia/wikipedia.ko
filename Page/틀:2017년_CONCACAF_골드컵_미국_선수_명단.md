@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:2017 CONCACAF    ](https://ko.wikipedia.org/wiki/:2017_CONCACAF____).
+> This article is converted from Wikipedia: [틀:2017년 CONCACAF 골드컵 미국 선수 명단](https://ko.wikipedia.org/wiki/틀:2017년_CONCACAF_골드컵_미국_선수_명단).
 
 
 <onlyinclude></onlyinclude>

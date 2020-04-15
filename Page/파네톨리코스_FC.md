@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
+> This article is converted from Wikipedia: [파네톨리코스 FC](https://ko.wikipedia.org/wiki/파네톨리코스_FC).
 
 
 **파네톨리코스 FC**()는 [아그리니오](../Page/아그리니오.md "wikilink")를 연고로 하는 [그리스](../Page/그리스.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다. 현재는 [수페르리가 엘라다에](../Page/수페르리가_엘라다.md "wikilink") 참가하고 있다. 클럽 이름은 [그리스어](../Page/그리스어.md "wikilink")로 "범(汎)아이톨리아 체육 교육 클럽"을 뜻한다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
+> This article is converted from Wikipedia: [타인호아 FC](https://ko.wikipedia.org/wiki/타인호아_FC).
 
 
 **FLC 타인호아 FC**()는 [베트남](../Page/베트남.md "wikilink") [타인호아 성을](https://ko.wikipedia.org/wiki/타인호아_성 "wikilink") 연고로 하는 축구 클럽이다. [2009년](../Page/2009년.md "wikilink")에 창단되었으며, 현재 베트남 축구 최상위 리그 [V리그 1에](../Page/V리그_1.md "wikilink") 소속되어 있다.

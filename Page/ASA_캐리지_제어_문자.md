@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ASA   ](https://ko.wikipedia.org/wiki/ASA___).
+> This article is converted from Wikipedia: [ASA 캐리지 제어 문자](https://ko.wikipedia.org/wiki/ASA_캐리지_제어_문자).
 
 
 **ASA 제어 문자**(ASA carriage control characters)는 [라인 프린터를](https://ko.wikipedia.org/wiki/라인_프린터 "wikilink") 통해 용지의 이동을 제어하기 위해 사용되는 단순 인쇄 명령 문자이다. 이 명령들은 출력할 각 문자 줄의 첫 열에 특수 문자로 표현하며, 줄이 인쇄되기 전에 용지가 어떻게 앞당겨지는지에 영향을 미친다.

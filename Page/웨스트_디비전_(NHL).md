@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  \(NHL\)](https://ko.wikipedia.org/wiki/__\(NHL\)).
+> This article is converted from Wikipedia: [웨스트 디비전 \(NHL\)](https://ko.wikipedia.org/wiki/웨스트_디비전_\(NHL\)).
 
 
 **웨스트 디비전** (West Division)은 1967년부터 1974년까지 [NHL에](../Page/내셔널_하키_리그.md "wikilink") 존재했던 디비전이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Z](https://ko.wikipedia.org/wiki/Z).
+> This article is converted from Wikipedia: [Z모델러](https://ko.wikipedia.org/wiki/Z모델러).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Puppyrender.png "wikilink") **Z모델러**(ZModeler, Zanoza Modeler)는 올레그 멜라셴코가 개발한 3차원 모델링 애플리케이션이다. 《유로 트럭 시뮬레이터》, 《UL 트럭 시뮬레이터》, 《[18 휠즈 오브 스틸](https://ko.wikipedia.org/wiki/18_휠즈_오브_스틸 "wikilink")》, 《[그랜드 테프트 오토](https://ko.wikipedia.org/wiki/그랜드_세프트_오토 "wikilink")》, 《[니드 포 스피드](../Page/니드_포_스피드.md "wikilink")》, 《[미드타운 매드니스](../Page/미드타운_매드니스.md "wikilink")》, 또 이와 비슷한 컴퓨터 게임들을 위한 차량과 기타 물체를 모델링하는 모델러이다.

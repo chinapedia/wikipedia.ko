@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [AIKATSUSTARS!](https://ko.wikipedia.org/wiki/AIKATSUSTARS!).
+> This article is converted from Wikipedia: [AIKATSU☆STARS!](https://ko.wikipedia.org/wiki/AIKATSU☆STARS!).
 
 
 **AIKATSU☆STARS\!**(아이카츠☆스타즈\!, )는 [도쿄도](../Page/도쿄도.md "wikilink") [지요다 구에](https://ko.wikipedia.org/wiki/지요다_구 "wikilink") 있는 『아키하바라 디어 스테이지』 소속 아이돌 유닛 이름. 현재는 전원이 졸업을 했다. 현재는 멤버들 전원의 개인 트위터가 있다. 선배 그룹은 [STAR☆ANIS](https://ko.wikipedia.org/wiki/STAR☆ANIS "wikilink")이며, 전임은 [아이 엠 스타\!](../Page/아이_엠_스타!.md "wikilink"), 후임은 [아이카츠 프렌즈\!](../Page/아이카츠_프렌즈!.md "wikilink"). 음반회사는 [란티스](../Page/란티스.md "wikilink").

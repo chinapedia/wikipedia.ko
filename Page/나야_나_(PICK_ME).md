@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  \(PICK ME\)](https://ko.wikipedia.org/wiki/__\(PICK_ME\)).
+> This article is converted from Wikipedia: [나야 나 \(PICK ME\)](https://ko.wikipedia.org/wiki/나야_나_\(PICK_ME\)).
 
 
 "**나야 나 (PICK ME)**"는 2017년 노래로, [엠넷](../Page/엠넷.md "wikilink")의 서바이벌 리얼리티 프로그램 《[PRODUCE 101 시즌 2](https://ko.wikipedia.org/wiki/PRODUCE_101_시즌_2 "wikilink")》의 [참가자들이](https://ko.wikipedia.org/wiki/PRODUCE_101_시즌_2_참가자_목록 "wikilink") 부른 노래이다. 《PRODUCE 101 시즌 2》의 테마곡이기도 하다. 2017년 3월 9일 [CJ E\&M을](../Page/CJ_E&M.md "wikilink") 통해 공개되었다. 센터는 [이대휘](https://ko.wikipedia.org/wiki/이대휘 "wikilink")가 맡았다. [2017년](../Page/2017년.md "wikilink") [5월 6일에는](../Page/5월_6일.md "wikilink") 피아노 버전이 발매되었고, [8월 7일에는](../Page/8월_7일.md "wikilink") [워너원](../Page/워너원.md "wikilink")의 데뷔 음반 [1×1=1 (TO BE ONE)에는](https://ko.wikipedia.org/wiki/1×1=1_\(TO_BE_ONE\) "wikilink") CD에 한해서 워너원 멤버들로 새롭게 불려진 버전의 곡이 수록되었다.

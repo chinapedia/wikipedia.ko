@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  vs.   THE MOVIE](https://ko.wikipedia.org/wiki/__vs.___THE_MOVIE).
+> This article is converted from Wikipedia: [특명전대 고버스터즈 vs. 해적전대 고카이저 THE MOVIE](https://ko.wikipedia.org/wiki/특명전대_고버스터즈_vs._해적전대_고카이저_THE_MOVIE).
 
 
 《**특명전대 고버스터즈 vs. 해적전대 고카이저 THE MOVIE**》 ()은 《[슈퍼 전대 시리즈](../Page/슈퍼_전대_시리즈.md "wikilink")》의 《[특명전대 고버스터즈](../Page/특명전대_고버스터즈.md "wikilink")》와 《[해적전대 고카이저](../Page/해적전대_고카이저.md "wikilink")》의 극장판으로, [고버스터즈](https://ko.wikipedia.org/wiki/고버스터즈 "wikilink")와 [고카이저](../Page/고카이저.md "wikilink")의 "VS 시리즈"에 해당하는 작품이다. 특수 촬영 히어로 프로그램 〈[슈퍼 전대 시리즈](../Page/슈퍼_전대_시리즈.md "wikilink")〉《[특명전대 고버스터즈](../Page/특명전대_고버스터즈.md "wikilink")》의 영화화 작품이며, 슈퍼 전대 VS시리즈의 하나. 최종 흥행 수입 4억 3,000만엔이다\[1\].

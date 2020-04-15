@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FK  ](https://ko.wikipedia.org/wiki/FK__).
+> This article is converted from Wikipedia: [FK 메탈루르크 스코페](https://ko.wikipedia.org/wiki/FK_메탈루르크_스코페).
 
 
 **FK 메탈루르크 스코페**()는 [스코페](../Page/스코페.md "wikilink")를 연고로 하는 [북마케도니아](../Page/북마케도니아.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다. 현재는 [북마케도니아 3부 리그에](https://ko.wikipedia.org/wiki/북마케도니아_3부_리그 "wikilink") 참가하고 있다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TV !  ](https://ko.wikipedia.org/wiki/TV_!__).
+> This article is converted from Wikipedia: [휴먼TV 앗! 나의 실수](https://ko.wikipedia.org/wiki/휴먼TV_앗!_나의_실수).
 
 
 《**휴먼TV 앗\! 나의 실수**》는 [1998년 10월](https://ko.wikipedia.org/wiki/1998년_10월 "wikilink") 25일부터 [1999년 5월](https://ko.wikipedia.org/wiki/1999년_5월 "wikilink") 9일까지 [문화방송에서](../Page/MBC_TV.md "wikilink") 방영되었던 시청자들의 황당한 실수 사건을 엿보는 프로그램이다.

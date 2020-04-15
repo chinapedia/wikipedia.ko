@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [NCT    ](https://ko.wikipedia.org/wiki/NCT____).
+> This article is converted from Wikipedia: [NCT의 음반 외 활동 목록](https://ko.wikipedia.org/wiki/NCT의_음반_외_활동_목록).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:NCT_going_to_a_Music_Bank_recording_in_April_2018_03.png "wikilink") 다음은 [대한민국](../Page/대한민국.md "wikilink")의 [보이 그룹](https://ko.wikipedia.org/wiki/보이_그룹 "wikilink") **[NCT](../Page/NCT_\(음악_그룹\).md "wikilink")**의 **음반 외 활동 목록**이다.

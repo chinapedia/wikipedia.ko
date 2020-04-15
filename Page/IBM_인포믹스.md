@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [IBM ](https://ko.wikipedia.org/wiki/IBM_).
+> This article is converted from Wikipedia: [IBM 인포믹스](https://ko.wikipedia.org/wiki/IBM_인포믹스).
 
 
 **IBM 인포믹스**(IBM Informix)는 여러 [관계형 데이터베이스 관리 시스템](../Page/관계형_데이터베이스_관리_시스템.md "wikilink")(RDBMS)에 중심을 둔 IBM의 정보 관리 부문의 제품 계열이다. 인포믹스 제품들은 원래 [인포믹스 코퍼레이션에](https://ko.wikipedia.org/wiki/:en:Informix_Corporation "wikilink") 의해 개발되었으며 인포믹스 소프트웨어는 2001년 IBM에 인수되었다. 2016년 9월, IBM과 [인도](../Page/인도.md "wikilink")의 다국적 IT 서비스 회사 [HCL 테크놀로지스](https://ko.wikipedia.org/wiki/:en:HCL_Technologies "wikilink")(제품 및 플랫폼 부문)는 제품의 공동 개발, 지원 및 마케팅에 대해 장기간의 15년 파트너십을 맺는 것을 동의하였다.\[1\]

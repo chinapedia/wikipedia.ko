@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Mother \(  \)](https://ko.wikipedia.org/wiki/Mother_\(__\)).
+> This article is converted from Wikipedia: [Mother \(존 레논의 노래\)](https://ko.wikipedia.org/wiki/Mother_\(존_레논의_노래\)).
 
 
 〈**Mother**〉는 [존 레논에](../Page/존_레논.md "wikilink") 의해 발표된 곡이다. 1970년 앨범 《[John Lennon/Plastic Ono Band](https://ko.wikipedia.org/wiki/John_Lennon/Plastic_Ono_Band "wikilink")》에 수록되면서 처음 발매되었다.

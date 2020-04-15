@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [GYP \(\)](https://ko.wikipedia.org/wiki/GYP_\(\)).
+> This article is converted from Wikipedia: [GYP \(소프트웨어\)](https://ko.wikipedia.org/wiki/GYP_\(소프트웨어\)).
 
 
-**GYP**(Generate Your Projects)는 빌드 자동화 도구이며 [파이썬](../Page/파이썬.md "wikilink")으로 작성된 메타 빌드 시스템이다. GYP는 Google이 Chromium 웹 브라우저를 빌드 할 때 [OS](https://ko.wikipedia.org/wiki/OS "wikilink")에 의존하는 [IDE](https://ko.wikipedia.org/wiki/IDE "wikilink")들의 프로젝트 파일 (예 : [Visual Studio Code](https://ko.wikipedia.org/wiki/Visual_Studio_Code "wikilink") 및 [Xcode](https://ko.wikipedia.org/wiki/Xcode "wikilink") )을 생성하기 위해 만들어 졌으며 [BSD 소프트웨어 라이센스를](../Page/BSD_허가서.md "wikilink") 사용하여 [오픈 소스 소프트웨어로](../Page/오픈_소스_소프트웨어.md "wikilink") 라이센스가 부여되었다.
+**GYP**(Generate Your Projects)는 빌드 자동화 도구이며 [파이썬](../Page/파이썬.md "wikilink")으로 작성된 메타 빌드 시스템이다. GYP는 Google이 Chromium 웹 브라우저를 빌드 할 때 [OS](https://ko.wikipedia.org/wiki/OS "wikilink")에 의존하는 [IDE](https://ko.wikipedia.org/wiki/IDE "wikilink")들의 프로젝트 파일 (예 : [Visual Studio Code](https://ko.wikipedia.org/wiki/Visual_Studio_Code "wikilink") 및 [Xcode](https://ko.wikipedia.org/wiki/Xcode "wikilink") )을 생성하기 위해 만들어졌으며 [BSD 소프트웨어 라이센스를](../Page/BSD_허가서.md "wikilink") 사용하여 [오픈 소스 소프트웨어로](../Page/오픈_소스_소프트웨어.md "wikilink") 라이센스가 부여되었다.
 
 GYP의 기능은 [CMake](../Page/CMake.md "wikilink") 빌드 도구와 비슷하다. GYP는 하나 이상의 대상 프로젝트 파일을 작성 및 생성하기 위해 [JSON](../Page/JSON.md "wikilink") 사전\[1\] 을 포함하는 파일을 처리한다. 단일 소스 .GYP 파일은 일반 파일 또는 대상 파일이며 대상 파일은 각 대상 빌드 도구에만 적용된다.
 

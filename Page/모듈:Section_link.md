@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Section link](https://ko.wikipedia.org/wiki/:Section_link).
+> This article is converted from Wikipedia: [모듈:Section link](https://ko.wikipedia.org/wiki/모듈:Section_link).
 
 
 \-- This module implements .

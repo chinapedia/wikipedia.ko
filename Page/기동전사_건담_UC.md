@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  UC](https://ko.wikipedia.org/wiki/__UC).
+> This article is converted from Wikipedia: [기동전사 건담 UC](https://ko.wikipedia.org/wiki/기동전사_건담_UC).
 
 
 《**기동전사 건담 UC**》((유니콘))은 [후쿠이 하루토시가](https://ko.wikipedia.org/wiki/후쿠이_하루토시 "wikilink") 원작한 [일본](../Page/일본.md "wikilink")의 [소설](../Page/소설.md "wikilink")이다.

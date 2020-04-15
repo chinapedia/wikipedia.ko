@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Blue Christmas \(\)](https://ko.wikipedia.org/wiki/Blue_Christmas_\(\)).
+> This article is converted from Wikipedia: [Blue Christmas \(노래\)](https://ko.wikipedia.org/wiki/Blue_Christmas_\(노래\)).
 
 
 〈**Blue Christmas**〉는 빌리 헤이즈와 제이 W. 존슨이 쓴 [크리스마스 노래로](https://ko.wikipedia.org/wiki/크리스마스_노래 "wikilink"), [엘비스 프레슬리](../Page/엘비스_프레슬리.md "wikilink") 반이 가장 유명하다. 노래가 다룬 명절날의 짝사랑 이야기는, 크리스마스 음악, 특히 [컨트리](../Page/컨트리_음악.md "wikilink") 장르에서 유구한 소재다.

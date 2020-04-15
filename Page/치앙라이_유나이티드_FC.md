@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  FC](https://ko.wikipedia.org/wiki/__FC).
+> This article is converted from Wikipedia: [치앙라이 유나이티드 FC](https://ko.wikipedia.org/wiki/치앙라이_유나이티드_FC).
 
 
 **치앙라이 유나이티드 풋볼 클럽**()은 [태국](../Page/태국.md "wikilink") 북부의 [치앙라이 주를](https://ko.wikipedia.org/wiki/치앙라이_주 "wikilink") 연고지로 하는 [축구](../Page/축구.md "wikilink") 클럽으로, 현재 [타이 리그1에](https://ko.wikipedia.org/wiki/타이_리그1 "wikilink") 참여하고 있다. 구단의 상징은 *장수풍뎅이*(, 꽝소응음하파이)로, 이는 앰블럼에도 잘 나타나있다.

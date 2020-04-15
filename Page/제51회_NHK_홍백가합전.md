@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [51 NHK ](https://ko.wikipedia.org/wiki/51_NHK_).
+> This article is converted from Wikipedia: [제51회 NHK 홍백가합전](https://ko.wikipedia.org/wiki/제51회_NHK_홍백가합전).
 
 
 《**제51회 NHK 홍백가합전**》()는 [2000년](../Page/2000년.md "wikilink") [12월 31일에](../Page/12월_31일.md "wikilink") 방송된 통산 51회째인 [NHK 홍백가합전이다](../Page/NHK_홍백가합전.md "wikilink").

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Cite gvp](https://ko.wikipedia.org/wiki/:Cite_gvp).
+> This article is converted from Wikipedia: [틀:Cite gvp](https://ko.wikipedia.org/wiki/틀:Cite_gvp).
 
 
 <includeonly>{{\#ifeq:}}}}}}| | }

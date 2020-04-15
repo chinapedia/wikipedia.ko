@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FIFA e](https://ko.wikipedia.org/wiki/FIFA_e).
+> This article is converted from Wikipedia: [FIFA e월드컵](https://ko.wikipedia.org/wiki/FIFA_e월드컵).
 
 
 **FIFA e월드컵**(FIFA eWorld Cup)은 [FIFA](https://ko.wikipedia.org/wiki/FIFA "wikilink")에서 주관하는 [e스포츠](https://ko.wikipedia.org/wiki/e스포츠 "wikilink") 대회이다. [2004년](../Page/2004년.md "wikilink")에 [스위스](https://ko.wikipedia.org/wiki/스위스 "wikilink")에서 첫 대회가 열렸으며, [2017년](../Page/2017년.md "wikilink")까지 **FIFA 인터랙티브 월드컵**(FIFA Interactive World Cup, FIWC)으로 불리다 [2018년](../Page/2018년.md "wikilink")부터 현재 대회명으로 바뀌었다.
@@ -97,6 +97,11 @@
 <td><p>2019</p></td>
 <td><p><a href="../Page/런던.md" title="wikilink">런던</a></p></td>
 <td><p><strong> 모함메드 하르쿠스</strong></p></td>
+</tr>
+<tr class="odd">
+<td><p>2020</p></td>
+<td><p><a href="../Page/밀라노.md" title="wikilink">밀라노</a></p></td>
+<td></td>
 </tr>
 </tbody>
 </table>

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
+> This article is converted from Wikipedia: [잠셰드푸르 FC](https://ko.wikipedia.org/wiki/잠셰드푸르_FC).
 
 
 '''잠셰드푸르 FC '''(Jamshedpur FC)는 [인도](../Page/인도.md "wikilink") [자르칸드 주](https://ko.wikipedia.org/wiki/자르칸드_주 "wikilink") [잠셰드푸르](../Page/잠셰드푸르.md "wikilink")를 연고지로 하는 [축구](../Page/축구.md "wikilink") 클럽이다. 2014년 출범한 [인도 슈퍼리그에](../Page/인도_슈퍼리그.md "wikilink") 참가하고 있다.

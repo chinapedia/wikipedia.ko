@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Smile \(  \)](https://ko.wikipedia.org/wiki/Smile_\(__\)).
+> This article is converted from Wikipedia: [Smile \(쿠라키 마이의 음반\)](https://ko.wikipedia.org/wiki/Smile_\(쿠라키_마이의_음반\)).
 
 
 ## 해설

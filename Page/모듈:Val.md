@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Val](https://ko.wikipedia.org/wiki/:Val).
+> This article is converted from Wikipedia: [모듈:Val](https://ko.wikipedia.org/wiki/모듈:Val).
 
 
 \-- 틀:Val을 위한 숫자와 추가로 단위를 출력한다. -- 형식은 과학적, 유효숫자 표기법을 포함한다.

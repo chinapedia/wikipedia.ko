@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Mr. Moonlight \(\)](https://ko.wikipedia.org/wiki/Mr._Moonlight_\(\)).
+> This article is converted from Wikipedia: [Mr. Moonlight \(노래\)](https://ko.wikipedia.org/wiki/Mr._Moonlight_\(노래\)).
 
 
 〈**Mr. Moonlight**〉는 [로이 리 존슨이](https://ko.wikipedia.org/wiki/로이_리_존슨 "wikilink") 작곡한 노래다. 영국 음반 《[Beatles for Sale](../Page/Beatles_for_Sale.md "wikilink")》과 미국 음반 《Beatles '65'》에 수록된 [비틀즈](../Page/비틀즈.md "wikilink")의 커버 버전으로 가장 잘 알려져 있다. 처음으로 알려진 곡은 닥터 필굿 앤드 인턴스로 녹음한, 피아노 연주자 피아노 레드의 [블루스](../Page/블루스.md "wikilink")다. 1962년 닥터 필굿 명의로 B면에 수록되어 싱글로 발매되었고, 소소한 히트를 쳤다.\[1\] 밴드 [홀리스가](../Page/홀리스_\(밴드\).md "wikilink") 비틀즈보다 먼저 녹음하여 발표하기도 했다. 1963년 머시비츠가 커버했다. 이것은 1964년 4월 [밴쿠버](https://ko.wikipedia.org/wiki/밴쿠버 "wikilink")의 CFUN 차트에 진입하기도 했다.\[2\]

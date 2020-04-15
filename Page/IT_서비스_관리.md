@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [IT  ](https://ko.wikipedia.org/wiki/IT__).
+> This article is converted from Wikipedia: [IT 서비스 관리](https://ko.wikipedia.org/wiki/IT_서비스_관리).
 
 
 **IT 서비스 관리**(IT service management, ITSM)는 고객에게 제공하는 [정보기술](../Page/정보기술.md "wikilink")(IT) 서비스들을 계획, 설계, 전달, 운영하기 위해 단체에 의해 수행되는 활동 전반([정책](https://ko.wikipedia.org/wiki/정책 "wikilink")에 의해 감독, [프로세스](../Page/프로세스.md "wikilink")를 통해 조직 및 구성, 절차 지원)을 가리킨다.\[1\] 그러므로 고객의 요구에 충족하는 IT 서비스의 구현과 연관되며, 사람, 프로세스, 정보기술을 적절히 융합하여 IT 서비스 제공자에 의해 수행된다.\[2\]

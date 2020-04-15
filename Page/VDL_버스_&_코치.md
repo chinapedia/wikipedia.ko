@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [VDL  \& ](https://ko.wikipedia.org/wiki/VDL__\&_).
+> This article is converted from Wikipedia: [VDL 버스 \& 코치](https://ko.wikipedia.org/wiki/VDL_버스_\&_코치).
 
 
 **VDL 버스 & 코치**()는 [네덜란드](../Page/네덜란드.md "wikilink")의 자동차 메이커로 주로 [시내버스](../Page/시내버스.md "wikilink"), [전세버스](https://ko.wikipedia.org/wiki/전세버스 "wikilink"), [고속버스](https://ko.wikipedia.org/wiki/고속버스 "wikilink")를 생산하고 있다.

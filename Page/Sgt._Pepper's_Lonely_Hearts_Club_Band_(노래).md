@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Sgt. Pepper\'s Lonely Hearts Club Band \(\)](https://ko.wikipedia.org/wiki/Sgt._Pepper\'s_Lonely_Hearts_Club_Band_\(\)).
+> This article is converted from Wikipedia: [Sgt. Pepper\'s Lonely Hearts Club Band \(노래\)](https://ko.wikipedia.org/wiki/Sgt._Pepper\'s_Lonely_Hearts_Club_Band_\(노래\)).
 
 
 〈**Sgt. Pepper's Lonely Hearts Club Band**〉는 [폴 매카트니](../Page/폴_매카트니.md "wikilink")([레논-매카트니](../Page/레논-매카트니.md "wikilink")에게 표기됨)가 작곡한 곡으로 1967년에 [비틀즈](../Page/비틀즈.md "wikilink")에 의해 [같은 이름의 음반에](https://ko.wikipedia.org/wiki/Sgt._Pepper's_Lonely_Hearts_Club_Band "wikilink") 처음으로 녹음되어 발매되었다. 이 노래는 음반에 두 번 나온다: 오프닝 트랙으로(〈[With a Little Help from My Friends](../Page/With_a_Little_Help_from_My_Friends.md "wikilink")〉로 표시), 그리고 〈Sgt. Pepper's Lonely Hearts Club Band (Reprise)〉는 끝에서 두 번째 곡이다(〈[A Day in the Life](../Page/A_Day_in_the_Life.md "wikilink")〉로 표시). 타이틀 곡으로 가사는 음반에서 공연하는 가상의 밴드를 소개한다.

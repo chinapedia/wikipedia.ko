@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ L. ](https://ko.wikipedia.org/wiki/_L._).
+> This article is converted from Wikipedia: [델라반 L. 피어선](https://ko.wikipedia.org/wiki/델라반_L._피어선).
 
 
 [thumb박사](https://ko.wikipedia.org/wiki/파일:피어선_박사_부부_모습.jpg "wikilink") 부부 동상, 평택대학교 교정\]\]

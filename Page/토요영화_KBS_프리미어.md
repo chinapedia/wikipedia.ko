@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ KBS ](https://ko.wikipedia.org/wiki/_KBS_).
+> This article is converted from Wikipedia: [토요영화 KBS 프리미어](https://ko.wikipedia.org/wiki/토요영화_KBS_프리미어).
 
 
 《**토요영화 KBS 프리미어**》는 [대한민국](../Page/대한민국.md "wikilink")의 [KBS 2TV에서](../Page/KBS_2TV.md "wikilink") 제작, [토요일](../Page/토요일.md "wikilink") 밤 시간대에 방송되었던 [영화](../Page/영화.md "wikilink") 프로그램이다.
@@ -55,7 +55,7 @@
 <tr class="odd">
 <td></td>
 <td><p><a href="../Page/12월_22일.md" title="wikilink">12월 22일</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/친밀한_적" title="wikilink">친밀한 적</a></p></td>
+<td><p><a href="../Page/친밀한_적.md" title="wikilink">친밀한 적</a></p></td>
 <td><p><a href="../Page/토요일.md" title="wikilink">토요일</a> 밤 12:45 ~ 2:40 (125분)</p></td>
 </tr>
 </tbody>
@@ -143,7 +143,7 @@
 <tr class="even">
 <td></td>
 <td><p><a href="../Page/3월_29일.md" title="wikilink">3월 29일</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/영광의_아이들" title="wikilink">영광의 아이들</a></p></td>
+<td><p><a href="../Page/영광의_아이들.md" title="wikilink">영광의 아이들</a></p></td>
 <td><p><a href="../Page/토요일.md" title="wikilink">토요일</a> 밤 12:45 ~ 2:48 (123분)</p></td>
 </tr>
 <tr class="odd">
@@ -287,7 +287,7 @@
 <tr class="even">
 <td></td>
 <td><p><a href="../Page/9월_20일.md" title="wikilink">9월 20일</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/헌팅_파티_(2007년_영화)" title="wikilink">헌팅 파티</a></p></td>
+<td><p><a href="../Page/헌팅_파티_(2007년_영화).md" title="wikilink">헌팅 파티</a></p></td>
 <td><p><a href="../Page/토요일.md" title="wikilink">토요일</a> 밤 12:35 ~ 2:30 (115분)</p></td>
 </tr>
 <tr class="odd">

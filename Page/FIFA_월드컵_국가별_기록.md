@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FIFA   ](https://ko.wikipedia.org/wiki/FIFA___).
+> This article is converted from Wikipedia: [FIFA 월드컵 국가별 기록](https://ko.wikipedia.org/wiki/FIFA_월드컵_국가별_기록).
 
 
 다음은 [초대 월드컵부터](https://ko.wikipedia.org/wiki/1930년_FIFA_월드컵 "wikilink") 지금 대회까지 국가별로 기록한 자료이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [NEC \(\)](https://ko.wikipedia.org/wiki/NEC_\(\)).
+> This article is converted from Wikipedia: [NEC배 \(일본\)](https://ko.wikipedia.org/wiki/NEC배_\(일본\)).
 
 
 **일본 NEC배**는 [일본 전기 주식회사](https://ko.wikipedia.org/wiki/일본_전기_주식회사 "wikilink")(NEC Corporation)가 주최 주관하고, [일본케이자이신문](https://ko.wikipedia.org/wiki/일본케이자이신문 "wikilink")이 후원하는 [일본](../Page/일본.md "wikilink")의 [바둑 기전이다](../Page/바둑_기전.md "wikilink"). 1981년에 신설되었으며 2012년을 끝으로 중단되었다. 일본 NEC배 우승자는 [NEC배 중일 대항전에](https://ko.wikipedia.org/wiki/NEC배_중일_대항전 "wikilink") 참가한다.

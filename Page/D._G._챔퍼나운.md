@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [D. G. ](https://ko.wikipedia.org/wiki/D._G._).
+> This article is converted from Wikipedia: [D. G. 챔퍼나운](https://ko.wikipedia.org/wiki/D._G._챔퍼나운).
 
 
 **데이비드 가운 챔퍼나운**(David Gawen Champernowne) 교수(1912년 7월 9일 \~ 2000년 8월 19일)\[1\]\[2\]\[3\]은 [잉글랜드의](https://ko.wikipedia.org/wiki/잉글랜드인 "wikilink") [경제학자](https://ko.wikipedia.org/wiki/경제학자 "wikilink")이자 [수학자](../Page/수학자.md "wikilink")이다.

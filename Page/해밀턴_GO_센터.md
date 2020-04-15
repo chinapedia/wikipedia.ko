@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [ GO ](https://ko.wikipedia.org/wiki/_GO_).
+> This article is converted from Wikipedia: [해밀턴 GO 센터](https://ko.wikipedia.org/wiki/해밀턴_GO_센터).
 
 
-**해밀턴 GO 센터** (Hamilton GO Centre) 는 [캐나다](../Page/캐나다.md "wikilink") [온타리오주](https://ko.wikipedia.org/wiki/온타리오주 "wikilink") [해밀턴](../Page/해밀턴_\(온타리오주\).md "wikilink") 시내의 헌터 스트리트와 휴슨 스트리트에 위치해있는 [GO 트랜싯의](../Page/GO_트랜싯.md "wikilink") 통근 열차 정차역 및 버스 터미널이다. 시내버스 노선만 환승이 가능한 다른 GO 역과는 다르게 이 역은 [그레이하운드 캐나다와](https://ko.wikipedia.org/wiki/그레이하운드_캐나다 "wikilink") [코치 캐나다](https://ko.wikipedia.org/wiki/코치_캐나다 "wikilink") 시외버스가 정차하여 시외버스 터미널의 역할도 수행하고 있다.
+**해밀턴 GO 센터**(Hamilton GO Centre) 는 [캐나다](../Page/캐나다.md "wikilink") [온타리오주](https://ko.wikipedia.org/wiki/온타리오주 "wikilink") [해밀턴](../Page/해밀턴_\(온타리오주\).md "wikilink") 시내의 헌터 스트리트와 휴슨 스트리트에 위치해있는 [GO 트랜싯의](../Page/GO_트랜싯.md "wikilink") 통근 열차 정차역 및 버스 터미널이다. 시내버스 노선만 환승이 가능한 다른 GO 역과는 다르게 이 역은 [그레이하운드 캐나다와](https://ko.wikipedia.org/wiki/그레이하운드_캐나다 "wikilink") [코치 캐나다](https://ko.wikipedia.org/wiki/코치_캐나다 "wikilink") 시외버스가 정차하여 시외버스 터미널의 역할도 수행하고 있다.
 
 ## 역사
 

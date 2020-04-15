@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [HTML  ](https://ko.wikipedia.org/wiki/HTML__).
+> This article is converted from Wikipedia: [HTML 편집기 목록](https://ko.wikipedia.org/wiki/HTML_편집기_목록).
 
 
 아래는 [HTML 편집기](../Page/HTML_편집기.md "wikilink") 목록이다.
@@ -118,7 +118,7 @@
   - [마이크로소프트 익스프레션 웹](../Page/마이크로소프트_익스프레션_웹.md "wikilink")
   - [마이크로소프트 프론트페이지](../Page/마이크로소프트_프론트페이지.md "wikilink") ([마이크로소프트 익스프레션 웹](../Page/마이크로소프트_익스프레션_웹.md "wikilink"), [마이크로소프트 셰어포인트 디자이너가](https://ko.wikipedia.org/wiki/마이크로소프트_셰어포인트_디자이너 "wikilink") 대체)
   - [넷스케이프 컴포저](https://ko.wikipedia.org/wiki/넷스케이프_컴포저 "wikilink")
-  - [모질라 컴포저](https://ko.wikipedia.org/wiki/모질라_컴포저 "wikilink") ([엔뷰](../Page/엔뷰.md "wikilink"), [KompoZer](https://ko.wikipedia.org/wiki/KompoZer "wikilink"), [시몽키 컴포저가](../Page/시몽키.md "wikilink") 대체)
+  - [모질라 컴포저](../Page/모질라_컴포저.md "wikilink") ([엔뷰](../Page/엔뷰.md "wikilink"), [KompoZer](https://ko.wikipedia.org/wiki/KompoZer "wikilink"), [시몽키 컴포저가](../Page/시몽키.md "wikilink") 대체)
   - [엔뷰](../Page/엔뷰.md "wikilink") ([BlueGriffon](https://ko.wikipedia.org/wiki/BlueGriffon "wikilink")이 대체)
 
 ## 같이 보기

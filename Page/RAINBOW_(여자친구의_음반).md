@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [RAINBOW \( \)](https://ko.wikipedia.org/wiki/RAINBOW_\(_\)).
+> This article is converted from Wikipedia: [RAINBOW \(여자친구의 음반\)](https://ko.wikipedia.org/wiki/RAINBOW_\(여자친구의_음반\)).
 
 
 《**RAINBOW**》(레인보우)는 걸그룹 [여자친구의](../Page/여자친구_\(음악_그룹\).md "wikilink") 다섯 번째 [미니 앨범](../Page/익스텐디드_플레이.md "wikilink") 《[PARALLEL](../Page/PARALLEL_\(EP\).md "wikilink")》의 리패키지 음반이다. 타이틀곡은 〈여름비〉로, [2017년](../Page/2017년.md "wikilink") [9월 13일](../Page/9월_13일.md "wikilink") [로엔 엔터테인먼트에서](https://ko.wikipedia.org/wiki/로엔_엔터테인먼트 "wikilink") 발매되었다.

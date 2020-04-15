@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  UA](https://ko.wikipedia.org/wiki/__UA).
+> This article is converted from Wikipedia: [닛산 디젤 UA](https://ko.wikipedia.org/wiki/닛산_디젤_UA).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:KC-UA521NAN-Kanachu-Ha127.JPG "wikilink") **닛산 디젤 UA**(, )는 [일본](../Page/일본.md "wikilink") 닛산 디젤 (현, [UD트럭](../Page/UD트럭.md "wikilink"))이 만든 대형 버스로 [1973년](../Page/1973년.md "wikilink")부터 [2005년](../Page/2005년.md "wikilink")까지 생산했다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:FIVB  ](https://ko.wikipedia.org/wiki/:FIVB__).
+> This article is converted from Wikipedia: [틀:FIVB 대회 정보](https://ko.wikipedia.org/wiki/틀:FIVB_대회_정보).
 
 
 <includeonly> | caption =

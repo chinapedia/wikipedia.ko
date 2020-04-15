@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  \(Coming Home\)](https://ko.wikipedia.org/wiki/__\(Coming_Home\)).
+> This article is converted from Wikipedia: [보통의 날 \(Coming Home\)](https://ko.wikipedia.org/wiki/보통의_날_\(Coming_Home\)).
 
 
 《**보통의 날 (Coming Home)**》은 [SM TOWN의](../Page/SM_TOWN.md "wikilink") 소극장 콘서트 브랜드 〈[THE AGIT](https://ko.wikipedia.org/wiki/THE_AGIT "wikilink")〉의 일환으로 [H.O.T.](../Page/H.O.T..md "wikilink") 출신 [강타](../Page/강타.md "wikilink")의 단독 콘서트 테마이다.\[1\] 본래 3일 공연 예정이었으나 호응이 좋아 서울 2회, 부산 2회의 공연 일정이 추가되었다.

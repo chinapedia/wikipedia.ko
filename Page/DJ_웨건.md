@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [DJ ](https://ko.wikipedia.org/wiki/DJ_).
+> This article is converted from Wikipedia: [DJ 웨건](https://ko.wikipedia.org/wiki/DJ_웨건).
 
 
 **DJ 웨건**(DJ Wegun, , [1986년](../Page/1986년.md "wikilink") [9월 24일](../Page/9월_24일.md "wikilink") \~ )은 [대한민국](../Page/대한민국.md "wikilink")의 [힙합](../Page/힙합.md "wikilink") [DJ이다](../Page/디스크_자키.md "wikilink"). 소속사는 [AOMG](https://ko.wikipedia.org/wiki/AOMG "wikilink")이다. 이전에는 [소울컴퍼니](https://ko.wikipedia.org/wiki/소울컴퍼니 "wikilink")에서 [라임어택](../Page/라임어택.md "wikilink")과 같은 Supa Dupa Duo (수파 두파 듀오) 라는 팀에 있었다.

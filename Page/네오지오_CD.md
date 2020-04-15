@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ CD](https://ko.wikipedia.org/wiki/_CD).
+> This article is converted from Wikipedia: [네오지오 CD](https://ko.wikipedia.org/wiki/네오지오_CD).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Neo-Geo-CD-TopLoader-wController-FL.jpg "wikilink")

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ABA ](https://ko.wikipedia.org/wiki/ABA_).
+> This article is converted from Wikipedia: [ABA 게임스](https://ko.wikipedia.org/wiki/ABA_게임스).
 
 
 **ABA 게임스**(ABA Games)는 일본의 [비디오 게임 개발사의](https://ko.wikipedia.org/wiki/비디오_게임_개발자 "wikilink") 하나로, [게임 디자이너](../Page/게임_디자인.md "wikilink") 초 켄타(長 健太) 홀로 구성되어 있다. [오픈 소스](../Page/오픈_소스_소프트웨어.md "wikilink") [프리웨어](../Page/프리웨어.md "wikilink")로 이용 가능한 ABA 게임스의 작품들은 이 장르의 클래식 게임으로부터 종종 영감을 받은 [진행형 슈팅](https://ko.wikipedia.org/wiki/진행형_슈팅_게임 "wikilink") 게임들이다. 이 회사의 게임들은 스타일있는 [레트로](https://ko.wikipedia.org/wiki/레트로 "wikilink") 그래픽, 혁신적인 [게임플레이](../Page/게임플레이.md "wikilink") 기능 및 모드를 갖추고 있다. 이 창작품들은 최고의 [인디 게임으로](https://ko.wikipedia.org/wiki/독립_게임_개발사 "wikilink") 호평을 받고 있으나 초 켄타 자신을 포함한 일부 비평가들은 상업화하기에는 너무 단순하다고 느낀다.

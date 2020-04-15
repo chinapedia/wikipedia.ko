@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  RN](https://ko.wikipedia.org/wiki/__RN).
+> This article is converted from Wikipedia: [닛산 디젤 RN](https://ko.wikipedia.org/wiki/닛산_디젤_RN).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Dazaifu_City_community_bus01.jpg "wikilink") **닛산 디젤 RN**(, )은 [일본](../Page/일본.md "wikilink") 닛산 디젤 (현, [UD트럭](../Page/UD트럭.md "wikilink"))이 만든 소형 버스로 [1996년](../Page/1996년.md "wikilink")부터 [2003년](../Page/2003년.md "wikilink")까지 생산했다.

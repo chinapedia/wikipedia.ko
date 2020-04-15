@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ICD-10  VII:   ](https://ko.wikipedia.org/wiki/ICD-10__VII:___).
+> This article is converted from Wikipedia: [ICD-10 챕터 VII: 눈과 부속기의 질병](https://ko.wikipedia.org/wiki/ICD-10_챕터_VII:_눈과_부속기의_질병).
 
 
 **[ICD-10](../Page/ICD-10.md "wikilink")** 목록의 7번째 챕터이다. H00\~H59까지에 해당되며, 눈과 그 부속기의 질병(Diseases of the eye, adnexa)에 관한 것이다.

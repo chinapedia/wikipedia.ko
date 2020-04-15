@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [HESH](https://ko.wikipedia.org/wiki/HESH).
+> This article is converted from Wikipedia: [HESH탄](https://ko.wikipedia.org/wiki/HESH탄).
 
 
 **Hesh(High-explosive squash head)** 또는 **접착유탄**(粘着榴彈)은 미국에서는 HEP(High-explosive plastic)라 불리는 폭탄이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [J. ](https://ko.wikipedia.org/wiki/J._).
+> This article is converted from Wikipedia: [J. 스미스캐머런](https://ko.wikipedia.org/wiki/J._스미스캐머런).
 
 
 **진 이저벨 스미스캐머런**(, [1957년](../Page/1957년.md "wikilink") [9월 7일](../Page/9월_7일.md "wikilink") \~ )은 [미국](../Page/미국.md "wikilink")의 [배우](../Page/배우.md "wikilink")이다. 영화 감독 [케네스 로너건의](../Page/케네스_로너건.md "wikilink") 부인이며 그의 영화에 근근이 출연했다.

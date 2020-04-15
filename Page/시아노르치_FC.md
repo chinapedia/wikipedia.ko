@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
+> This article is converted from Wikipedia: [시아노르치 FC](https://ko.wikipedia.org/wiki/시아노르치_FC).
 
 
 **시아노르치 푸치보우 클루비**()는 **시아노르치**라고도 불리며, [2002년](../Page/2002년.md "wikilink") [2월 13일에](../Page/2월_13일.md "wikilink") 창단한 [브라질](../Page/브라질.md "wikilink") [파라나 주](https://ko.wikipedia.org/wiki/파라나_주 "wikilink") [시아노르치](https://ko.wikipedia.org/wiki/시아노르치 "wikilink")를 연고로 하는 [축구](../Page/축구.md "wikilink")팀이다. [2018년](../Page/2018년.md "wikilink") 현재 전국 4부 리그 [캄페오나투 브라질레이루 세리이 D와](../Page/캄페오나투_브라질레이루_세리이_D.md "wikilink") 연방구 리그 [캄페오나투 파라니엔시에](https://ko.wikipedia.org/wiki/캄페오나투_파라니엔시 "wikilink") 참가하고 있다.

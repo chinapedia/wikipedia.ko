@@ -3,7 +3,7 @@
 
 〈**Revolution 9**〉는 비틀즈의 1968년 [동명 LP 음반](https://ko.wikipedia.org/wiki/The_Beatles "wikilink") (통칭 "화이트 음반") 수록곡이다. [레논-매카트니](../Page/레논-매카트니.md "wikilink")로 크레디트 된 이 사운드 콜라주는 [존 레논의](../Page/존_레논.md "wikilink") 주도로 창작되었으며, [조지 해리슨과](../Page/조지_해리슨.md "wikilink") [오노 요코가](../Page/오노_요코.md "wikilink") 보조했다. 레논은 소리를 이용한 혁명의 그림을 그리고 싶었다고 설명했다. 노래는 오노의 [아방가르드](https://ko.wikipedia.org/wiki/전위_예술 "wikilink") 스타일을 비롯해 작곡가 [에드가르 바레즈와](../Page/에드가르_바레즈.md "wikilink") [카를하인츠 슈토크하우젠](../Page/카를하인츠_슈토크하우젠.md "wikilink") 등의 [뮤직 콩크레트에](https://ko.wikipedia.org/wiki/뮤직_콩크레트 "wikilink") 영향을 받았다.
 
-녹음은 음반에 수록될 레논의 노래 〈[Revolution](https://ko.wikipedia.org/wiki/Revolution_\(비틀즈의_노래\) "wikilink")〉의 확장된 끝 부분으로부터 시작한다. 레논, 해리슨, 오노는 이내 미사용된 [코다](https://ko.wikipedia.org/wiki/코다 "wikilink"), 수많은 [오버더빙](https://ko.wikipedia.org/wiki/오버더빙 "wikilink")된 보컬, 육성, [음향효과](../Page/음향효과.md "wikilink"), 육성 및 기악이 녹음된 짤막한 테이프 루프를 결합했고, 사용음향 중 일부는 역전시켜 활용했다. 이들은 [잔향](https://ko.wikipedia.org/wiki/잔향 "wikilink"), 왜곡, [스테레오](../Page/스테레오.md "wikilink") [페닝](https://ko.wikipedia.org/wiki/페닝 "wikilink"), [페이딩](../Page/페이딩.md "wikilink")의 적용으로 좀 더 조작이 가해졌다. 8분을 넘어서는 곡으로써 비틀즈 공식 발매 트랙 중 가장 긴 트랙으로 기록되었다.
+녹음은 음반에 수록될 레논의 노래 〈[Revolution](https://ko.wikipedia.org/wiki/Revolution_\(비틀즈의_노래\) "wikilink")〉의 확장된 끝 부분으로부터 시작한다. 레논, 해리슨, 오노는 이내 미사용된 [코다](https://ko.wikipedia.org/wiki/코다 "wikilink"), 수많은 [오버더빙](https://ko.wikipedia.org/wiki/오버더빙 "wikilink")된 보컬, 육성, [음향효과](../Page/음향효과.md "wikilink"), 육성 및 기악이 녹음된 짤막한 테이프 루프를 결합했고, 사용음향 중 일부는 역전시켜 활용했다. 이들은 [잔향](../Page/잔향.md "wikilink"), 왜곡, [스테레오](../Page/스테레오.md "wikilink") [페닝](https://ko.wikipedia.org/wiki/페닝 "wikilink"), [페이딩](../Page/페이딩.md "wikilink")의 적용으로 좀 더 조작이 가해졌다. 8분을 넘어서는 곡으로써 비틀즈 공식 발매 트랙 중 가장 긴 트랙으로 기록되었다.
 
 ## 배경 및 영감
 

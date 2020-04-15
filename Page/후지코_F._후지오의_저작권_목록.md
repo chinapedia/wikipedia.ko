@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ F.   ](https://ko.wikipedia.org/wiki/_F.___).
+> This article is converted from Wikipedia: [후지코 F. 후지오의 저작권 목록](https://ko.wikipedia.org/wiki/후지코_F._후지오의_저작권_목록).
 
 
 **후지코 F. 후지오의 저작권 목록**에서는 [일본](../Page/일본.md "wikilink")의 [만화가](https://ko.wikipedia.org/wiki/만화가 "wikilink")인 [후지코 F. 후지오의](../Page/후지코_F._후지오.md "wikilink") 저작권을 목록으로 정리한다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:WikidataCheck](https://ko.wikipedia.org/wiki/:WikidataCheck).
+> This article is converted from Wikipedia: [모듈:WikidataCheck](https://ko.wikipedia.org/wiki/모듈:WikidataCheck).
 
 
 local p = {}

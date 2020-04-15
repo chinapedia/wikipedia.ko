@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  \(SBS\)](https://ko.wikipedia.org/wiki/__\(SBS\)).
+> This article is converted from Wikipedia: [스포츠 투나잇 \(SBS\)](https://ko.wikipedia.org/wiki/스포츠_투나잇_\(SBS\)).
 
 
 《**스포츠 투나잇**》()은 [대한민국](../Page/대한민국.md "wikilink") [SBS에서](../Page/SBS_\(대한민국의_방송사\).md "wikilink") 월요일 밤 12시 50분에 방송되는 SBS의 월요일 심야 스포츠 프로그램이다.

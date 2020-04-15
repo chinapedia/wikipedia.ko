@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [   B  ](https://ko.wikipedia.org/wiki/___B__).
+> This article is converted from Wikipedia: [대한민국 축구 국가대표 B팀 경기 결과](https://ko.wikipedia.org/wiki/대한민국_축구_국가대표_B팀_경기_결과).
 
 
 대한민국 축구 국가대표 B팀 경기는 [대한민국 축구 국가대표 B팀이](../Page/대한민국_축구_국가대표_B팀.md "wikilink") 타국가의 국가대표 A팀, 국가대표 B팀, 클럽 그리고 [대한민국 축구 국가대표팀의](../Page/대한민국_축구_국가대표팀.md "wikilink") A팀 등 각급 대표팀과 가진 모든 경기를 의미한다.

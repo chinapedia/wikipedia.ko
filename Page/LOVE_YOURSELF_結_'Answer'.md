@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [LOVE YOURSELF  \'Answer\'](https://ko.wikipedia.org/wiki/LOVE_YOURSELF__\'Answer\').
+> This article is converted from Wikipedia: [LOVE YOURSELF 結 \'Answer\'](https://ko.wikipedia.org/wiki/LOVE_YOURSELF_結_\'Answer\').
 
 
 《**LOVE YOURSELF 結 'Answer**'》(러브 유어셀프 결 '앤서')는 2018년 8월 24일 발매된 [방탄소년단](../Page/방탄소년단.md "wikilink")의 정규 3집 리패키지 음반이다. 타이틀 곡은 〈[IDOL](../Page/IDOL_\(방탄소년단의_노래\).md "wikilink")〉이다.
@@ -11,7 +11,7 @@
 
 ## 발매 과정
 
-2018년 8월 10일 00시 00분 컴백 트레일러가 공개되었다. 8월 23일 00시 00분 타이틀 곡인 〈IDOL〉의 티저 영상이 공개되었다. 8월 24일 18시 00분 음반 발매와 함께 〈IDOL〉의 뮤직 비디오가 공개되었다.
+2018년 8월 10일 00시 00분 컴백 트레일러가 공개되었다. 8월 23일 00시 00분 타이틀 곡인 〈[IDOL](https://ko.wikipedia.org/wiki/IDOL "wikilink")〉의 티저 영상이 공개되었다. 8월 24일 18시 00분 음반 발매와 함께 〈[IDOL](https://ko.wikipedia.org/wiki/IDOL "wikilink")〉의 뮤직 비디오가 공개되었다.
 
 ## 트랙 리스트
 

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ SLBM  ](https://ko.wikipedia.org/wiki/_SLBM__).
+> This article is converted from Wikipedia: [대한민국의 SLBM 개발 사업](https://ko.wikipedia.org/wiki/대한민국의_SLBM_개발_사업).
 
 
 **대한민국의 SLBM 개발 사업**은 대한민국 해군의 [장보고 3급 잠수함에](https://ko.wikipedia.org/wiki/장보고_3급_잠수함 "wikilink") 장착할 최초의 SLBM을 개발하는 사업이다.

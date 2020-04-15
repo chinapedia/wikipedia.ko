@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [MBC   2](https://ko.wikipedia.org/wiki/MBC___2).
+> This article is converted from Wikipedia: [목포MBC 즐거운 오후 2시](https://ko.wikipedia.org/wiki/목포MBC_즐거운_오후_2시).
 
 
-**목포MBC 즐거운 오후 2시**는 [목포MBC 표준FM](../Page/목포문화방송.md "wikilink") (중파 1386㎑, 표준FM 89.1㎒)에서 월요일 \~ 금요일 오후 2시 15분 \~ 4시까지 방송되는 목포 등 전남 서남부 지역의 라디오 프로그램이다.
+**목포MBC 즐거운 오후 2시**는 [목포MBC 표준FM](../Page/목포문화방송.md "wikilink") (중파 1386㎑, 표준FM 89.1㎒)에서 월요일 \~ 금요일 오후 2시 5분 \~ 4시까지 방송되는 목포 등 전남 서남부 지역의 라디오 프로그램이다.
 
 ## 코너소개
 

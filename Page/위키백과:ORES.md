@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:ORES](https://ko.wikipedia.org/wiki/:ORES).
+> This article is converted from Wikipedia: [위키백과:ORES](https://ko.wikipedia.org/wiki/위키백과:ORES).
 
 
 [right](https://ko.wikipedia.org/wiki/파일:Objective_Revision_Evaluation_Service_logo.svg "wikilink")

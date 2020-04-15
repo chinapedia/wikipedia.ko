@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [CJ ENM     ](https://ko.wikipedia.org/wiki/CJ_ENM_____).
+> This article is converted from Wikipedia: [CJ ENM 소속 방송 제작 인력 목록](https://ko.wikipedia.org/wiki/CJ_ENM_소속_방송_제작_인력_목록).
 
 
-다음은 [CJ ENM에](https://ko.wikipedia.org/wiki/CJ_ENM "wikilink") 소속되어있거나, 소속된 적이 있는 저명한 방송 제작 인력의 목록이다.
+다음은 [CJ ENM에](../Page/CJ_ENM.md "wikilink") 소속되어있거나, 소속된 적이 있는 저명한 방송 제작 인력의 목록이다.
 
 ## 현행 프로듀서
 
@@ -38,6 +38,7 @@
   - [민진기](https://ko.wikipedia.org/wiki/민진기 "wikilink") - CJ ENM E\&M 부문 tvN 프로듀서
   - 민지윤 - CJ ENM E\&M 부문 프로듀서
   - 박대운 - CJ ENM E\&M 부문 프로듀서
+  - 박상준 - CJ ENM E\&M 부문 Mnet 프로듀서/前 tvN 프로듀서
   - 박종훈 - CJ ENM E\&M 부문 tvN 프로듀서/前 Comedy TV 프로듀서
   - 박주미 - CJ ENM E\&M 부문 프로듀서
   - 박수원 - CJ ENM E\&M 부문 프로듀서
@@ -107,7 +108,6 @@
       - 김석현 - CJ ENM 미디어 디지털콘텐츠사업부장(상무)/tvN 기획제작총괄 CP/前 tvN 기획제작1국장/前 tvN 예능국 프로듀서/前 KBS 예능본부 프로듀서
       - 김민석 - CJ ENM E\&M 부문 프로듀서/前 KBS 드라마본부 프로듀서
       - [나영석](../Page/나영석.md "wikilink") - CJ ENM E\&M 부문 프로듀서/前 KBS 예능본부 차장/前 KBS 예능본부 프로듀서
-      - 백승룡 - CJ ENM E\&M 부문 tvN 프로듀서/前 KBS 드라마본부 프로듀서
       - [신원호](../Page/신원호_\(연출가\).md "wikilink") - CJ ENM E\&M 부문 프로듀서/前 KBS 예능본부 PD
       - 신효정 - CJ ENM E\&M 부문 프로듀서/前 SBS 예능본부 프로듀서/前 KBS 예능본부 PD
       - [이명한](https://ko.wikipedia.org/wiki/이명한_\(1970년\) "wikilink") - CJ E\&M 미디어콘텐츠본부장 겸 미디어제작사업부장/OtvN 본부장/tvN 본부장/前 tvN 제작기획총괄국장/前 CJ ENM 프로듀서/前 KBS 예능본부 프로듀서
@@ -185,6 +185,7 @@
 
   - KBS 출신 PD
       - [김원석](../Page/김원석_\(연출가\).md "wikilink") - [스튜디오드래곤](../Page/스튜디오드래곤.md "wikilink") 프로듀서/CJ ENM E\&M 부문 프로듀서/前 KBS 드라마본부 프로듀서
+      - 백승룡 - [스튜디오드래곤](../Page/스튜디오드래곤.md "wikilink") 프로듀서/CJ ENM E\&M 부문 tvN 프로듀서/前 KBS 드라마본부 프로듀서
       - 이나정 - [스튜디오드래곤](../Page/스튜디오드래곤.md "wikilink") 프로듀서/CJ ENM E\&M 부문 프로듀서/前 KBS 드라마본부 프로듀서
       - [이응복](../Page/이응복.md "wikilink") - [스튜디오드래곤](../Page/스튜디오드래곤.md "wikilink") 프로듀서/CJ ENM E\&M 부문 프로듀서/前 KBS 드라마본부 프로듀서
       - 유종선 - [스튜디오드래곤](../Page/스튜디오드래곤.md "wikilink") 프로듀서/CJ ENM E\&M 부문 프로듀서/前 KBS 드라마본부 PD
@@ -218,7 +219,6 @@
   - 박장수 - 前 Mnet 프로듀서
   - 박준수 - YG엔터테인먼트 프로듀서/前 Mnet 프로듀서
   - 박찬욱 - MBC MUSIC 프로듀서/前 MBC플러스미디어 프로듀서/前 Mnet 프로듀서
-  - 박상준 - 前 tvN 프로듀서/前 Mnet 프로듀서
   - 유성모 - YG엔터테인먼트 프로듀서/前 tvN 프로듀서
   - 서승환 - SBS Plus 프로듀서
   - 신유선 - MBC MUSIC 프로듀서/前 MBC플러스미디어 프로듀서/前 Mnet 프로듀서

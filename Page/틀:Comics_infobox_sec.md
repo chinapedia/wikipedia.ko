@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Comics infobox sec](https://ko.wikipedia.org/wiki/:Comics_infobox_sec).
+> This article is converted from Wikipedia: [틀:Comics infobox sec](https://ko.wikipedia.org/wiki/틀:Comics_infobox_sec).
 
 
 {{\#switch:  | 1 =

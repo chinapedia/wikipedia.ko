@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:TvN ](https://ko.wikipedia.org/wiki/:TvN_).
+> This article is converted from Wikipedia: [틀:TvN 토일드라마](https://ko.wikipedia.org/wiki/틀:TvN_토일드라마).
 
 
 <noinclude></noinclude> [수목](https://ko.wikipedia.org/wiki/틀:tvN_수목드라마 "wikilink") {{\!}} [금토](https://ko.wikipedia.org/wiki/틀:tvN_금토드라마 "wikilink") {{\!}} [토일](https://ko.wikipedia.org/wiki/틀:tvN_토일드라마 "wikilink") {{\!}} [불금불토](https://ko.wikipedia.org/wiki/틀:tvN_불금불토드라마 "wikilink") |아랫글모양=background-color:\#FFC7CD;

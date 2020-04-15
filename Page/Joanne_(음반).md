@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Joanne \(\)](https://ko.wikipedia.org/wiki/Joanne_\(\)).
+> This article is converted from Wikipedia: [Joanne \(음반\)](https://ko.wikipedia.org/wiki/Joanne_\(음반\)).
 
 
 '''''Joanne '''''은 가수 [레이디 가가의](../Page/레이디_가가.md "wikilink") 다섯번째 정규 앨범이다. 2016년 10월 21일 [인터스코프 레코드와](../Page/인터스코프_레코드.md "wikilink") 스트림라인 레코드를 통해 발매되었다.\[1\]\[2\] "[Perfect Illusion](https://ko.wikipedia.org/wiki/Perfect_Illusion "wikilink")" 은 앨범의 [리드 싱글로](../Page/리드_싱글.md "wikilink") 2016년 9월 9일 발매되었다. 곡은 프랑스에서 1위로 데뷔했다.\[3\]

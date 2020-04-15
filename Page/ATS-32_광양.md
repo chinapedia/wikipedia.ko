@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ATS-32 ](https://ko.wikipedia.org/wiki/ATS-32_).
+> This article is converted from Wikipedia: [ATS-32 광양](https://ko.wikipedia.org/wiki/ATS-32_광양).
 
 
 **ATS-32 광양**은 대한민국 해군의 통영급 국산 구난함중 통영함에 이어 2015년 두번째로 건조 진수된 동급 함이다. [광양함](https://ko.wikipedia.org/wiki/광양함 "wikilink")은 2016년 10월 10일 취역했다

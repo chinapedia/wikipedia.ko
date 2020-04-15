@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [  \(NHL\)](https://ko.wikipedia.org/wiki/__\(NHL\)).
+> This article is converted from Wikipedia: [서부 콘퍼런스 \(NHL\)](https://ko.wikipedia.org/wiki/서부_콘퍼런스_\(NHL\)).
 
 
-**서부 콘퍼런스**([영어](../Page/영어.md "wikilink") : Western Conference, [프랑스어](../Page/프랑스어.md "wikilink") : Conférence de l'Ouest)에는 총 14개 팀으로 2개 디비전에 7팀으로 나뉘어 있다. 예전 명칭은 **클래런스 켐벨 콘퍼런스** (Clarence Campbell Conference)였다.
+**서부 콘퍼런스**([영어](../Page/영어.md "wikilink") : Western Conference, [프랑스어](../Page/프랑스어.md "wikilink") : Conférence de l'Ouest)에는 총 14개 팀으로 2개 디비전에 7팀으로 나뉘어 있다. 예전 명칭은 **클래런스 켐벨 콘퍼런스**(Clarence Campbell Conference)였다.
 
 <table>
 <thead>

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:MTR ](https://ko.wikipedia.org/wiki/:MTR_).
+> This article is converted from Wikipedia: [틀:MTR 출구](https://ko.wikipedia.org/wiki/틀:MTR_출구).
 
 
 <includeonly>{{\#if:||     {{\#ifexpr:{{\#invoke:string|find||盲}}| [24px](https://ko.wikipedia.org/wiki/파일:Tactile_Paved.svg "wikilink")}}{{\#ifexpr:{{\#invoke:string|find||斜}}| [24px](https://ko.wikipedia.org/wiki/파일:Ramp.svg "wikilink")}}{{\#ifexpr:{{\#invoke:string|find||升}}| [24px](https://ko.wikipedia.org/wiki/파일:Lift.svg "wikilink")}}{{\#ifexpr:{{\#invoke:string|find||輪}}| [24px](https://ko.wikipedia.org/wiki/파일:Stairlift_Sign.svg "wikilink")}}{{\#ifexpr:{{\#invoke:string|find||同}}| [24px](https://ko.wikipedia.org/wiki/파일:Same_Level.svg "wikilink")}}{{\#ifexpr:{{\#invoke:string|find||車}}| [24px](https://ko.wikipedia.org/wiki/파일:Wheelchair_Aid.svg "wikilink")}}}}}}</includeonly><noinclude> [MTR](../Page/홍콩_지하철.md "wikilink") 출구 아이콘을 나타내는 틀입니다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [EPPO ](https://ko.wikipedia.org/wiki/EPPO_).
+> This article is converted from Wikipedia: [EPPO 코드](https://ko.wikipedia.org/wiki/EPPO_코드).
 
 
 **EPPO 코드**(EPPO code) 또는 **바이어 코드**(Bayer code)는 [유럽지중해식물보호기구](https://ko.wikipedia.org/wiki/유럽지중해식물보호기구 "wikilink")(European and Mediterranean Plant Protection Organization, 약칭 EPPO)가 [식물](../Page/식물.md "wikilink")이나 병해충, 잡초 등을 식별하기 위해 사용하는 [인코딩](https://ko.wikipedia.org/wiki/부호_\(정보\) "wikilink") 식별자이다. 원래는 회사 바이어(Bayer)가 처음 사용했지만, 현재 유럽지중해식물보호기구에서 공식적인 코드 목록을 유지, 관리하고 있다.\[1\]

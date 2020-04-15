@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [G.I. ](https://ko.wikipedia.org/wiki/G.I._).
+> This article is converted from Wikipedia: [G.I. 블루스](https://ko.wikipedia.org/wiki/G.I._블루스).
 
 
 《**G.I. 블루스**》(G.I. Blues)는 1960년 미국 뮤지컬 코미디 영화로 [노먼 터로그가](https://ko.wikipedia.org/wiki/노먼_터로그 "wikilink") 연출하고 [엘비스 프레슬리](../Page/엘비스_프레슬리.md "wikilink"), [줄리엣 프로스](https://ko.wikipedia.org/wiki/줄리엣_프로스 "wikilink"), [로버브 아이버스가](https://ko.wikipedia.org/wiki/로버브_아이버스 "wikilink") 출연한다. 영화는 [파라마운트 픽처스 스튜디오에서](https://ko.wikipedia.org/wiki/파라마운트_픽처스_스튜디오 "wikilink") 촬영되었으며 프레슬리가 제대하기 전에 전 제작 풍경 장면이 독일에서 촬영되었다.\[1\] 영화는 《[버라이어티](../Page/버라이어티_\(잡지\).md "wikilink")》의 전국 박스오피스 차트에서 2위를 달성했다. [로럴 어워드의](https://ko.wikipedia.org/wiki/로럴_어워드 "wikilink") 1960년 최고의 뮤지컬 부문에서 2위 상을 수상했다.

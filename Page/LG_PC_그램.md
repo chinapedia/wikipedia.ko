@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [LG PC ](https://ko.wikipedia.org/wiki/LG_PC_).
+> This article is converted from Wikipedia: [LG PC 그램](https://ko.wikipedia.org/wiki/LG_PC_그램).
 
 
 **LG PC 그램**(Gram) 은 LG전자에서 개발한 'Z930'의 후속 제품으로 2014년 1월에 출시된 초기 제품 'Z940'기준 13.3 디스플레이에 무게가 이름 그대로 1kg도 안 되는 980그램(g)의 노트북이다. 2015년에는 14인치, 2016년에는 15.6인치까지의 화면크기 상승에도 980g 경량화의 성공하였다. 14인치 출시 당시 한국기록원으로부터 국내에서 판매되는 14형 노트북 가운데 가장 가벼운 노트북으로, \[1\] 15인치는 세계 시장에서 판매되는 같은 크기의 노트북 중 가장 가볍다고 인증받았다. \[2\] 980g이라는 무게는 LG전자의 브랜드인 동시에, 최대값이기 때문에 실제로 그램의 무게는 980g 보다 가볍다. 이로 인해 한때 LG의 ‘겸손한 마케팅’ 이 유행하기도 했다. \[3\]

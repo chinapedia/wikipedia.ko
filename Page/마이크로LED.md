@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [LED](https://ko.wikipedia.org/wiki/LED).
+> This article is converted from Wikipedia: [마이크로LED](https://ko.wikipedia.org/wiki/마이크로LED).
 
 
 **마이크로LED**(MicroLED, micro-LED, mLED, µLED)는 새로 출현하는 [평판 디스플레이](https://ko.wikipedia.org/wiki/평판_디스플레이 "wikilink") 기술이다. 이름에서 알 수 있듯이 마이크로LED 디스플레이는 개개의 화소 요소를 이루는 마이크로 픽셀의 [LED](../Page/발광_다이오드.md "wikilink") 배열로 구성되어 있다. 보편화된 [LCD](../Page/액정_디스플레이.md "wikilink") 기술과 비교할 때 마이크로LED 디스플레이는 더 나은 [대비](https://ko.wikipedia.org/wiki/콘트라스트 "wikilink"), [응답 시간](https://ko.wikipedia.org/wiki/응답_시간 "wikilink"), [에너지 효율성을](https://ko.wikipedia.org/wiki/효율적_에너지_사용 "wikilink") 제공한다.

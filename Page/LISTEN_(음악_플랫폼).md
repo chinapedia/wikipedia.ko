@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [LISTEN \( \)](https://ko.wikipedia.org/wiki/LISTEN_\(_\)).
+> This article is converted from Wikipedia: [LISTEN \(음악 플랫폼\)](https://ko.wikipedia.org/wiki/LISTEN_\(음악_플랫폼\)).
 
 
 **LISTEN**은 대한민국의 기획사 [미스틱엔터테인먼트](https://ko.wikipedia.org/wiki/미스틱엔터테인먼트 "wikilink")의 디지털 음악 유통 플랫폼이다. [2016년](../Page/2016년.md "wikilink") [12월 4일](../Page/12월_4일.md "wikilink") 가수 [하림의](../Page/하림_\(가수\).md "wikilink") 《[LISTEN 001 Rainbow Bird](https://ko.wikipedia.org/wiki/LISTEN_001_Rainbow_Bird "wikilink")》를 시작으로 비정기적으로 디지털 싱글을 발매하고 있다.

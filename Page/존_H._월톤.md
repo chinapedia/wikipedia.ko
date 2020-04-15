@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ H. ](https://ko.wikipedia.org/wiki/_H._).
+> This article is converted from Wikipedia: [존 H. 월톤](https://ko.wikipedia.org/wiki/존_H._월톤).
 
 
 **존 H. 월튼** (John H. Walton, 1952 년- )는 [구약](../Page/구약성경.md "wikilink") [학자이며](../Page/성서학.md "wikilink") [휘튼 대학교의](https://ko.wikipedia.org/wiki/휘튼_대학교 "wikilink") 교수이다. 그는 20년 동안 무디성경연구소(Moody Bible Institute)에서 교수를 했다. 그는 주된 연구는 [구약성경](../Page/구약성경.md "wikilink")과 관련된 [고대 근동연구에](../Page/고대_근동.md "wikilink") 특별히 [창세기](../Page/창세기.md "wikilink")와 창조기사이다.

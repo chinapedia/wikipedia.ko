@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Snowman \( \)](https://ko.wikipedia.org/wiki/Snowman_\(_\)).
+> This article is converted from Wikipedia: [Snowman \(에이프릴의 노래\)](https://ko.wikipedia.org/wiki/Snowman_\(에이프릴의_노래\)).
 
 
 〈**Snowman**〉(스노우맨)은 대한민국의 [걸 그룹](../Page/걸_그룹.md "wikilink") [에이프릴의](../Page/에이프릴_\(음악_그룹\).md "wikilink") 윈터 스페셜 앨범 ([싱글](https://ko.wikipedia.org/wiki/싱글_앨범 "wikilink"))이다. 타이틀 곡은 〈**Snowman**〉이며 [2015년](../Page/2015년.md "wikilink") [12월 21일에](../Page/12월_21일.md "wikilink") [로엔 엔터테인먼트에](https://ko.wikipedia.org/wiki/로엔_엔터테인먼트 "wikilink") 의해 발매되었다.

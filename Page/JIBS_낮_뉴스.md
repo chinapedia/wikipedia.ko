@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [JIBS  ](https://ko.wikipedia.org/wiki/JIBS__).
+> This article is converted from Wikipedia: [JIBS 낮 뉴스](https://ko.wikipedia.org/wiki/JIBS_낮_뉴스).
 
 
 **JIBS 낮 뉴스**는 대한민국 [JIBS](https://ko.wikipedia.org/wiki/JIBS "wikilink")에서 평일 낮 12시 40분에 방송되는 [JIBS의](../Page/제주국제자유도시방송.md "wikilink") 낮 뉴스 프로그램이다.

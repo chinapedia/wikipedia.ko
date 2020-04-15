@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [   FC](https://ko.wikipedia.org/wiki/___FC).
+> This article is converted from Wikipedia: [링컨 레드 임프스 FC](https://ko.wikipedia.org/wiki/링컨_레드_임프스_FC).
 
 
 **링컨 레드 임프스 FC**(Lincoln Red Imps Football Club)는 [지브롤터](../Page/지브롤터.md "wikilink")를 연고로 하는 축구 클럽이다. 이 팀은 [1976년](../Page/1976년.md "wikilink")에 창단되었으며 현재는 [지브롤터 프리미어디비전에](../Page/지브롤터_프리미어디비전.md "wikilink") 참가하고 있다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [AV  \(\)](https://ko.wikipedia.org/wiki/AV__\(\)).
+> This article is converted from Wikipedia: [AV 아이돌 \(영화\)](https://ko.wikipedia.org/wiki/AV_아이돌_\(영화\)).
 
 
 《**AV 아이돌**》 은 2012년 한일 영화.\[1\] 조조 히데오(城定秀夫)에 의해서 감독되었다.\[2\]

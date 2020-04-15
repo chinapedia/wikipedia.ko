@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [H1GHR MUSIC ](https://ko.wikipedia.org/wiki/H1GHR_MUSIC_).
+> This article is converted from Wikipedia: [H1GHR MUSIC의 음반](https://ko.wikipedia.org/wiki/H1GHR_MUSIC의_음반).
 
 
 이 문서는 [H1GHR MUSIC에서](../Page/H1GHR_MUSIC.md "wikilink") 발매한 음반 목록이다.
@@ -101,6 +101,7 @@
   - 2020년 1월 9일 pH-1 - **\[Digital Single\] Nerdy Love**
   - 2020년 1월 18일 Big Naughty - **\[Digital Single\] 투유 프로젝트 - 슈가맨3 Part.6**\[25\]
   - 2020년 2월 14일 차 차 말론 - **\[Digital Single\] All Eyes On You**
+  - 2020년 3월 24일 Sik-K - **Officially OG**
 
 ## 각주
 

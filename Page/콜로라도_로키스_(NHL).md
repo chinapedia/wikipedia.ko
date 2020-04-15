@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  \(NHL\)](https://ko.wikipedia.org/wiki/__\(NHL\)).
+> This article is converted from Wikipedia: [콜로라도 로키스 \(NHL\)](https://ko.wikipedia.org/wiki/콜로라도_로키스_\(NHL\)).
 
 
 **콜로라도 로키스**(Colorado Rockies)는 1976년부터 1982년까지 [콜로라도주](../Page/콜로라도주.md "wikilink") [덴버](../Page/덴버.md "wikilink")를 연고지로 하는 [NHL](../Page/내셔널_하키_리그.md "wikilink") [클래런스 켐벨 콘퍼런스](../Page/서부_콘퍼런스_\(NHL\).md "wikilink") [스미드 디비전](../Page/스미드_디비전_\(NHL\).md "wikilink") 소속 아이스 하키팀이다.

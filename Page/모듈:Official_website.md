@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Official website](https://ko.wikipedia.org/wiki/:Official_website).
+> This article is converted from Wikipedia: [모듈:Official website](https://ko.wikipedia.org/wiki/모듈:Official_website).
 
 
 local makeUrl = require('Module:URL')._url

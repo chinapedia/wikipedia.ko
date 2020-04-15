@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Move It On Over \(\)](https://ko.wikipedia.org/wiki/Move_It_On_Over_\(\)).
+> This article is converted from Wikipedia: [Move It On Over \(노래\)](https://ko.wikipedia.org/wiki/Move_It_On_Over_\(노래\)).
 
 
 〈**Move It On Over**〉는 [12개 마디 블루스로](https://ko.wikipedia.org/wiki/12개_마디_블루스 "wikilink") 미국 컨트리 싱어송라이터 [행크 윌리엄스의](../Page/행크_윌리엄스.md "wikilink") 1947년작이다. 노래는 [빌보드 컨트리 싱글 차트](https://ko.wikipedia.org/wiki/빌보드_컨트리_싱글_차트 "wikilink") 4위까지 올라 윌리엄스의 첫 주요 컨트리 히트로 자리매김한다. 노래는 [로큰롤](../Page/로큰롤.md "wikilink")의 초창기 예시로 간주된다.

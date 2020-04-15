@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ \(LGBT\)](https://ko.wikipedia.org/wiki/_\(LGBT\)).
+> This article is converted from Wikipedia: [무지개기 \(LGBT\)](https://ko.wikipedia.org/wiki/무지개기_\(LGBT\)).
 
 
 [오른쪽](https://ko.wikipedia.org/wiki/파일:Rainbow_flag_and_blue_skies.jpg "wikilink") [오른쪽](https://ko.wikipedia.org/wiki/파일:The_Rainbow_Flag,_GLBT_Pride.jpg "wikilink")\]\] [오른쪽이](https://ko.wikipedia.org/wiki/파일:White_House_rainbow_for_SCOTUS_ruling_on_same-sex_marriage.jpg "wikilink") 미국 전역에서 동성결혼을 합법화하는 판결을 선고한 것을 기념하기 위해 [백악관](../Page/백악관.md "wikilink")에 등장한 무지개기 조명\]\] [LGBT](https://ko.wikipedia.org/wiki/LGBT "wikilink")에서의 **[무지개기](../Page/무지개기.md "wikilink")**는 [레즈비언](../Page/레즈비언.md "wikilink"), [게이](https://ko.wikipedia.org/wiki/게이 "wikilink"), [양성애](../Page/양성애.md "wikilink")(바이섹슈얼), [트랜스젠더](https://ko.wikipedia.org/wiki/트랜스젠더 "wikilink")의 존엄과 [성소수자](../Page/성소수자.md "wikilink") 운동을 상징하는 깃발이다. 1970년대부터 사용되었다. 깃발에 사용된 색상은 성소수자 커뮤니티의 다양성을 나타내고 성소수자의 권리 퍼레이드인 [프라이드 퍼레이드에서](https://ko.wikipedia.org/wiki/프라이드_퍼레이드 "wikilink") 종종 볼 수 있다. 이 깃발은 [미국](../Page/미국.md "wikilink") [캘리포니아주](../Page/캘리포니아주.md "wikilink")가 발상지지만, 오늘날 전세계에서 사용되고 있다.

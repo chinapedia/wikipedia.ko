@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Military navigation](https://ko.wikipedia.org/wiki/:Military_navigation).
+> This article is converted from Wikipedia: [모듈:Military navigation](https://ko.wikipedia.org/wiki/모듈:Military_navigation).
 
 
 local p = { }

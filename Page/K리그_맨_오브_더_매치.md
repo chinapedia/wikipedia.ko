@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [K    ](https://ko.wikipedia.org/wiki/K____).
+> This article is converted from Wikipedia: [K리그 맨 오브 더 매치](https://ko.wikipedia.org/wiki/K리그_맨_오브_더_매치).
 
 
 K리그 맨 오브 더 매치는 2010년부터 [한국프로축구연맹](../Page/한국프로축구연맹.md "wikilink")이 매 라운드 최우수선수에게 선정하여 시상하는 상이다.\[1\]

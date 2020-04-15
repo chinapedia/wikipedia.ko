@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [1991 UNCAF ](https://ko.wikipedia.org/wiki/1991_UNCAF_).
+> This article is converted from Wikipedia: [1991년 UNCAF 네이션스컵](https://ko.wikipedia.org/wiki/1991년_UNCAF_네이션스컵).
 
 
 **1991년 UNCAF 네이션스컵**(1991 UNCAF Nations Cup)은 [중앙아메리카 축구 연맹에서](https://ko.wikipedia.org/wiki/중앙아메리카_축구_연맹 "wikilink") 주최한 1번째 [UNCAF 네이션스컵](https://ko.wikipedia.org/wiki/UNCAF_네이션스컵 "wikilink") 대회로 [1991년](../Page/1991년.md "wikilink") [5월 26일부터](../Page/5월_26일.md "wikilink") [6월 2일까지](../Page/6월_2일.md "wikilink") [코스타리카](../Page/코스타리카.md "wikilink")에서 개최되었다. 이 대회는 [1991년 CONCACAF 골드컵의](../Page/1991년_CONCACAF_골드컵.md "wikilink") 중앙아메리카 예선을 겸한다.

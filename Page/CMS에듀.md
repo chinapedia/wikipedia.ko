@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [CMS](https://ko.wikipedia.org/wiki/CMS).
+> This article is converted from Wikipedia: [CMS에듀](https://ko.wikipedia.org/wiki/CMS에듀).
 
 
 **㈜CMS에듀**는 2003년 설립 이후 융합인재 양성에 주력해 온 사고력 기반 융합교육 전문기업으로 2016년 5월 코스닥에 상장했다. 초등 사고력 교육 분야의 '영재교육센터', KMO·영재학교 입시를 전문으로 하는 '영재관' 등 전국에 약 80여개의 센터를 운영하고 있다. 2017년 8월에는 코딩 교육 전문브랜드 '씨큐브코딩(C³ coding)'을 성공적으로 론칭하면서 사업영역을 넓히고 있다.

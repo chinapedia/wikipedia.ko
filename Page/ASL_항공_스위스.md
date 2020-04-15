@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ASL  ](https://ko.wikipedia.org/wiki/ASL__).
+> This article is converted from Wikipedia: [ASL 항공 스위스](https://ko.wikipedia.org/wiki/ASL_항공_스위스).
 
 
 **ASL 항공 스위스**()는 [스위스](https://ko.wikipedia.org/wiki/스위스 "wikilink")의 화물 항공사로 [유로 에어포트가](../Page/유로_에어포트.md "wikilink") [허브 공항으로](../Page/허브_공항.md "wikilink") [1984년](../Page/1984년.md "wikilink")에 **판에어 스위스**()로 설립되었고 주로 화물 항공편을 제공한다.\[1\]\[2\]

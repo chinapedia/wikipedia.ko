@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:For loop](https://ko.wikipedia.org/wiki/:For_loop).
+> This article is converted from Wikipedia: [모듈:For loop](https://ko.wikipedia.org/wiki/모듈:For_loop).
 
 
 \-- This module implements .

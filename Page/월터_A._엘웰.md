@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ A. ](https://ko.wikipedia.org/wiki/_A._).
+> This article is converted from Wikipedia: [월터 A. 엘웰](https://ko.wikipedia.org/wiki/월터_A._엘웰).
 
 
 **월터 A. 엘웰**(Walter A . Elwell, 1937년 4월 29일 - )는 [복음주의](../Page/복음주의.md "wikilink") 신학자이다. 복음주의 신학의 표준이 되는 수 많은 참고서적의 편집자이다. [휘튼 대학교에서](https://ko.wikipedia.org/wiki/휘튼_대학교 "wikilink") 1975년 부터 2003년까지 성경과 신학을 가르쳤고 현재는 은퇴하였다. 잘 알려진 베이커 출판사의 [복음주의 신학사전의](https://ko.wikipedia.org/wiki/복음주의_신학사전 "wikilink") 편집자이다.

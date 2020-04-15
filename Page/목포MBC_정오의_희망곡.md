@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [MBC  ](https://ko.wikipedia.org/wiki/MBC__).
+> This article is converted from Wikipedia: [목포MBC 정오의 희망곡](https://ko.wikipedia.org/wiki/목포MBC_정오의_희망곡).
 
 
 **정오의 희망곡 나정희입니다**는 [목포MBC FM4U](../Page/목포문화방송.md "wikilink")(FM 102.3㎒)에서 [1986년](../Page/1986년.md "wikilink") [7월 1일부터](../Page/7월_1일.md "wikilink") 현재까지 매일 낮 12시부터 오후 2시까지 방송되는 목포 등 전남 서남부 지역의 대중가요 전문 라디오 프로그램이다.
@@ -54,7 +54,7 @@
 
   - [생생 클래식](https://ko.wikipedia.org/wiki/생생_클래식 "wikilink") ([KBS목포 음악FM](../Page/KBS목포방송국.md "wikilink"))
   - [최화정의 파워타임](../Page/최화정의_파워타임.md "wikilink") ([kbc My FM](../Page/광주방송.md "wikilink"))
-  - [TBN 차차차](https://ko.wikipedia.org/wiki/TBN_차차차_\(광주\) "wikilink") ([TBN 광주교통방송](../Page/광주교통방송.md "wikilink"))
+  - [TBN 차차차](../Page/TBN_차차차_\(광주\).md "wikilink") ([TBN 광주교통방송](../Page/광주교통방송.md "wikilink"))
   - 한낮의 휴식, 장수연입니다 ([BBS 광주불교방송](../Page/광주불교방송.md "wikilink"))
   - [광주cpbc 정오종합뉴스](https://ko.wikipedia.org/wiki/cpbc_정오종합뉴스 "wikilink") ([cpbc 광주가톨릭평화방송](../Page/광주가톨릭평화방송.md "wikilink"))
   - [신부님 신부님 우리 신부님](https://ko.wikipedia.org/wiki/신부님_신부님_우리_신부님 "wikilink") ([cpbc 광주가톨릭평화방송](../Page/광주가톨릭평화방송.md "wikilink"))

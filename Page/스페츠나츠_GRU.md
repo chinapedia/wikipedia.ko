@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ GRU](https://ko.wikipedia.org/wiki/_GRU).
+> This article is converted from Wikipedia: [스페츠나츠 GRU](https://ko.wikipedia.org/wiki/스페츠나츠_GRU).
 
 
 [thumb](https://ko.wikipedia.org/wiki/파일:PKP_Pecheneg_45th_Separate_Guards_Special_Purpose_Regiment_05.jpg "wikilink") [thumb](https://ko.wikipedia.org/wiki/파일:Russian_Spetsnaz_GRU_\(2008\).jpg "wikilink") **스페츠나츠 GRU**(Spetsnaz GRU)는 [러시아 정보총국](../Page/러시아_정보총국.md "wikilink") 소속의 [스페츠나츠](../Page/스페츠나츠.md "wikilink")이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ SC](https://ko.wikipedia.org/wiki/_SC).
+> This article is converted from Wikipedia: [알메사이미르 SC](https://ko.wikipedia.org/wiki/알메사이미르_SC).
 
 
 **알메사이미르 스포츠 클럽**()은 [카타르](../Page/카타르.md "wikilink")의 프로 [축구](../Page/축구.md "wikilink") 클럽으로 [메사이미르](https://ko.wikipedia.org/wiki/메사이미르 "wikilink")를 연고로 하고 있다.

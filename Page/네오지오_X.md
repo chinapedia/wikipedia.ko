@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ X](https://ko.wikipedia.org/wiki/_X).
+> This article is converted from Wikipedia: [네오지오 X](https://ko.wikipedia.org/wiki/네오지오_X).
 
 
 **네오지오 X**(Neo Geo X, NGX)는 [Tommo](https://ko.wikipedia.org/wiki/Tommo "wikilink")가 제조하고 [SNK](../Page/SNK.md "wikilink")가 라이선스한 [휴대용 게임기의](../Page/휴대용_게임기.md "wikilink") 하나로, [네오지오](https://ko.wikipedia.org/wiki/네오지오 "wikilink") 브랜드의 일부로 출시된 최신 게임기이다. 네오지오 X에 대한 정보는 2012년 1월에 처음 보고되었으며 나중에 3월에 확인되었다.\[1\]\[2\] 2004년 브랜드 중단 이후로 출시되는 최초의 네오지오 시스템이며, 2001년까지 지원된 1999년 [네오지오 포켓 컬러](../Page/네오지오_포켓_컬러.md "wikilink") 출시 이후 세 번째 네오지오 휴대용 장치이다.
@@ -33,7 +33,7 @@
   - [NAM-1975](../Page/NAM-1975.md "wikilink")
   - [퍼즐드](https://ko.wikipedia.org/wiki/퍼즐드 "wikilink")
   - [리얼 바우트 아랑전설 스페셜](https://ko.wikipedia.org/wiki/리얼_바우트_아랑전설_스페셜 "wikilink")
-  - [사무라이 쇼다운 II](https://ko.wikipedia.org/wiki/사무라이_쇼다운_II "wikilink")
+  - [사무라이 쇼다운 II](../Page/사무라이_쇼다운_II.md "wikilink")
   - [득점왕](https://ko.wikipedia.org/wiki/득점왕 "wikilink")(Super Sidekicks)
   - [월드 히어로즈 퍼펙트](https://ko.wikipedia.org/wiki/월드_히어로즈_퍼펙트 "wikilink")
 
@@ -49,7 +49,7 @@
 
 볼륨 2
 
-  - [사무라이 쇼다운 III](https://ko.wikipedia.org/wiki/사무라이_쇼다운_III "wikilink")
+  - [사무라이 쇼다운 III](../Page/사무라이_쇼다운_III.md "wikilink")
   - [세비지 레인](https://ko.wikipedia.org/wiki/세비지_레인 "wikilink")
   - [슈퍼 사이드킥스 3](https://ko.wikipedia.org/wiki/득점왕 "wikilink")
 

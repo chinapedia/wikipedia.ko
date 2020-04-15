@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Script \(\)](https://ko.wikipedia.org/wiki/Script_\(\)).
+> This article is converted from Wikipedia: [Script \(유닉스\)](https://ko.wikipedia.org/wiki/Script_\(유닉스\)).
 
 
 **script** 명령어는 [터미널](../Page/단말기.md "wikilink") 세션을 기록하는 [유닉스 유틸리티이다](../Page/유닉스_명령어_목록.md "wikilink").\[1\] *scriptreplay* 명령어는 script에 리플레이 기능을 제공한다.\[2\] 이 세션은 기본적으로 typescript라는 파일 이름으로 포착된다. 다른 파일 이름을 지정하려면 script 명령어 뒤에 공백을 두고 다음과 같이 파일 이름을 지정하면 된다: `script recorded_session`.

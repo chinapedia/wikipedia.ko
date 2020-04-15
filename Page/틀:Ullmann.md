@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Ullmann](https://ko.wikipedia.org/wiki/:Ullmann).
+> This article is converted from Wikipedia: [틀:Ullmann](https://ko.wikipedia.org/wiki/틀:Ullmann).
 
 
 } | doi =

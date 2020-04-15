@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Here Today \(  \)](https://ko.wikipedia.org/wiki/Here_Today_\(__\)).
+> This article is converted from Wikipedia: [Here Today \(폴 매카트니의 노래\)](https://ko.wikipedia.org/wiki/Here_Today_\(폴_매카트니의_노래\)).
 
 
 〈**Here Today**〉는 [폴 매카트니가](../Page/폴_매카트니.md "wikilink") 1982년 발매한 음반 《[Tug of War](https://ko.wikipedia.org/wiki/Tug_of_War_\(폴_매카트니의_음반\) "wikilink")》의 수록곡이다. 매카트니는 당시 2년 전에 살해된 [존 레논과의](../Page/존_레논.md "wikilink") 관계와, 그에 대한 사랑을 주제로 작사했다.\[1\] 곡은 둘이 같이 있는 것처럼, 가상으로 대화하듯이 시작한다. 곡은 비틀즈의 프로듀서 조지 마틴이 프로듀싱했다. 비록 싱글로 발매하지는 않았지만, 빌보드 메인스트림 록 차트에 46위까지 올라갔다.\[2\]

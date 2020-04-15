@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  SKY-L65  ](https://ko.wikipedia.org/wiki/__SKY-L65__).
+> This article is converted from Wikipedia: [청량리역 롯데캐슬 SKY-L65 랜드마크 타워](https://ko.wikipedia.org/wiki/청량리역_롯데캐슬_SKY-L65_랜드마크_타워).
 
 
 **청량리역 롯데캐슬 SKY-L65 랜드마크 타워**()는 [대한민국](../Page/대한민국.md "wikilink") [서울특별시](../Page/서울특별시.md "wikilink") [동대문구](https://ko.wikipedia.org/wiki/동대문구 "wikilink") [전농동](../Page/전농동.md "wikilink")에 위치하고 있다. 청량리4구역에 호텔, 오피스텔, 쇼핑몰 등 랜드마크 타워 1개동을 건설하고 있다. 지상 42층, 지하 8층이며 높이 185m이고 완공되면 동대문구에서 가장 높은 오피스텔 빌딩이 될 예상으로 보인다.

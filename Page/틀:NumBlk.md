@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:NumBlk](https://ko.wikipedia.org/wiki/:NumBlk).
+> This article is converted from Wikipedia: [틀:NumBlk](https://ko.wikipedia.org/wiki/틀:NumBlk).
 
 
 <includeonly>{{\#if:||}}

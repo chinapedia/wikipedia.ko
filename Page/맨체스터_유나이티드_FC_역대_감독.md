@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  FC  ](https://ko.wikipedia.org/wiki/__FC__).
+> This article is converted from Wikipedia: [맨체스터 유나이티드 FC 역대 감독](https://ko.wikipedia.org/wiki/맨체스터_유나이티드_FC_역대_감독).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Alex_Ferguson.jpg "wikilink"), 가장 화려한 역사를 쓴 맨체스터 유나이티드 감독\]\]

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [C.T. ](https://ko.wikipedia.org/wiki/C.T._).
+> This article is converted from Wikipedia: [C.T. 스터드](https://ko.wikipedia.org/wiki/C.T._스터드).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Charles_Studd_c1882.jpg "wikilink") **찰스 토머스 스터드**()는 C. T. Studd로 알려져 있다.(2 December 1860 – 16 July 1931) 그는 삼 형제 중 막내로 태어났고 케임브리지 대학 크리켓 선수로 영국에서 유명했다. 1875년 찰스 스터드가 15살 때 인도 무역으로 거부가 된 그의 아버지가 D.L. 무디의 설교를 듣고 회심하면서 다음 해 그도 그리스도인이 되었다. 하지만 그의 형 죠지가 위독하게 되면서 세상의 명예와 찬사에 의구심을 갖게 되었고 무디 목사의 설교를 들으며 자신의 진로를 고민하게 되었다.

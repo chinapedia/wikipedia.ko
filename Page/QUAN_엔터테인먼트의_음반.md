@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [QUAN  ](https://ko.wikipedia.org/wiki/QUAN__).
+> This article is converted from Wikipedia: [QUAN 엔터테인먼트의 음반](https://ko.wikipedia.org/wiki/QUAN_엔터테인먼트의_음반).
 
 
 이 문서는 [QUAN 엔터테인먼트에서](https://ko.wikipedia.org/wiki/QUAN_엔터테인먼트 "wikilink") 발매한 음반 목록이다.
@@ -86,6 +86,7 @@
 ## 2020년
 
   - 2020년 1월 15일 별 - **\[Digital Single\] New Edition 1988**\[22\]
+  - 2020년 3월 31일 별 - **날씨가 좋으면 찾아가겠어요 OST Part.4**
 
 ## 각주
 

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:AMD Epyc Embedded](https://ko.wikipedia.org/wiki/:AMD_Epyc_Embedded).
+> This article is converted from Wikipedia: [틀:AMD Epyc Embedded](https://ko.wikipedia.org/wiki/틀:AMD_Epyc_Embedded).
 
 
 <table>

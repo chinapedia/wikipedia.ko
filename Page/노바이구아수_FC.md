@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
+> This article is converted from Wikipedia: [노바이구아수 FC](https://ko.wikipedia.org/wiki/노바이구아수_FC).
 
 
 **노바이구아수 푸치보우 클루비**()는 [1990년](../Page/1990년.md "wikilink")에 창단한 [브라질](../Page/브라질.md "wikilink") [리우데자네이루주](../Page/리우데자네이루주.md "wikilink") [노바이구아수](../Page/노바이구아수.md "wikilink")를 연고로 하는 [축구](../Page/축구.md "wikilink")팀이다. [2017년](../Page/2017년.md "wikilink") 현재 리우데자네이루 주리그 [캄페오나투 카리오카에](../Page/캄페오나투_카리오카.md "wikilink") 참가하고 있다.

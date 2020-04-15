@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Fake \(JY \)](https://ko.wikipedia.org/wiki/Fake_\(JY_\)).
+> This article is converted from Wikipedia: [Fake \(JY의 노래\)](https://ko.wikipedia.org/wiki/Fake_\(JY의_노래\)).
 
 
 **Fake**()는 [강지영](../Page/강지영.md "wikilink")의 일본 세 번째 싱글앨범이다.

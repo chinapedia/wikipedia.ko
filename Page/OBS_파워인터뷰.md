@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [OBS ](https://ko.wikipedia.org/wiki/OBS_).
+> This article is converted from Wikipedia: [OBS 파워인터뷰](https://ko.wikipedia.org/wiki/OBS_파워인터뷰).
 
 
 《**OBS 파워인터뷰**》는 매주 [평일](https://ko.wikipedia.org/wiki/평일 "wikilink") 밤 8시 30분에 방송된 [OBS경인TV](../Page/OBS경인TV.md "wikilink")의 인터뷰 프로그램이다.

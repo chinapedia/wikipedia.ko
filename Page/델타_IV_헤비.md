@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ IV ](https://ko.wikipedia.org/wiki/_IV_).
+> This article is converted from Wikipedia: [델타 IV 헤비](https://ko.wikipedia.org/wiki/델타_IV_헤비).
 
 
 **델타 IV 헤비**는 [EELV](https://ko.wikipedia.org/wiki/EELV "wikilink")의 일환으로 제작된 [HLV](https://ko.wikipedia.org/wiki/:en:Heavy-lift_launch_vehicle "wikilink") [로켓](../Page/로켓.md "wikilink")이다. [델타 IV](../Page/델타_IV.md "wikilink") 시리즈 중 가장 큰 파생형 로켓이며,\[1\]\[2\] 옆에 부스터 2개를 붙였다.\[3\] [팰컨 헤비의](../Page/팰컨_헤비.md "wikilink") 절반의 적재량으로 세계에서 2번째로 큰 탑재체 적재량을 가지고 있다.\[4\]\[5\]

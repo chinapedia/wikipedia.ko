@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [RUMOR \( \)](https://ko.wikipedia.org/wiki/RUMOR_\(_\)).
+> This article is converted from Wikipedia: [RUMOR \(카드의 노래\)](https://ko.wikipedia.org/wiki/RUMOR_\(카드의_노래\)).
 
 
 〈**RUMOR**〉는 대한민국의 혼성 그룹 [KARD가](../Page/카드_\(음악_그룹\).md "wikilink") 2017년 4월 24일 발매한 세 번째 디지털 싱글이다. 총 3단계의 데뷔 프로젝트 중 마지막으로 발매되었다.\[1\]

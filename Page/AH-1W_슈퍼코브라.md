@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [AH-1W ](https://ko.wikipedia.org/wiki/AH-1W_).
+> This article is converted from Wikipedia: [AH-1W 슈퍼코브라](https://ko.wikipedia.org/wiki/AH-1W_슈퍼코브라).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:AH-1J-1.jpg "wikilink") **AH-1W 슈퍼코브라**는 기존의 육군용 단발엔진 [AH-1 코브라](../Page/AH-1_코브라.md "wikilink") 공격헬기를 해병대용 쌍발엔진으로 업그레이드 한 것이다.

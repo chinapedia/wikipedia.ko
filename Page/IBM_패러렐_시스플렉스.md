@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [IBM  ](https://ko.wikipedia.org/wiki/IBM__).
+> This article is converted from Wikipedia: [IBM 패러렐 시스플렉스](https://ko.wikipedia.org/wiki/IBM_패러렐_시스플렉스).
 
 
 **IBM 패러렐 시스플렉스**(IBM Parallel Sysplex)는 [컴퓨팅](../Page/컴퓨팅.md "wikilink")에서 [z/OS](https://ko.wikipedia.org/wiki/z/OS "wikilink")와 더불어 [단일 시스템 이미지로](../Page/단일_시스템_이미지.md "wikilink") 함께 동작하는 [IBM 메인프레임의](../Page/IBM_메인프레임.md "wikilink") [컴퓨터 클러스터이다](../Page/컴퓨터_클러스터.md "wikilink"). 재해 복구에 쓰이는 패러렐 시스플렉스는 데이터 공유와 [병렬 컴퓨팅을](../Page/병렬_컴퓨팅.md "wikilink") 병합하여 최대 32개의 시스템의 클러스터가 [고성능과](https://ko.wikipedia.org/wiki/고성능_컴퓨팅 "wikilink") [고가용성](https://ko.wikipedia.org/wiki/고가용성 "wikilink")을 위한 워크로드를 공유할 수 있게 한다.

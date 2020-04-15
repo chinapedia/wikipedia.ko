@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Help! \(\)](https://ko.wikipedia.org/wiki/Help!_\(\)).
+> This article is converted from Wikipedia: [Help! \(노래\)](https://ko.wikipedia.org/wiki/Help!_\(노래\)).
 
 
 〈**Help\!**〉는 1965년 장편 영화와 그 영화 [사운드트랙 음반의](../Page/Help!.md "wikilink") 타이틀 트랙으로 쓰인 [비틀즈](../Page/비틀즈.md "wikilink") 노래다. 싱글로도 출시되었으며 미영에서 3주 동안 1위를 차지했다. [롤링 스톤 역사상 가장 위대한 노래 500곡에서](../Page/롤링_스톤_역사상_가장_위대한_노래_500곡.md "wikilink") 29위를 차지했다.\[1\] 〈Help\!〉는 [존 레논이](../Page/존_레논.md "wikilink") 썼고, [레논-매카트니](../Page/레논-매카트니.md "wikilink")로 표기되었다. 레논은 1980년 《[플레이보이](../Page/플레이보이.md "wikilink")》와의 인터뷰에서 "비틀즈는 전부 이해 안 되는 것 투성이었다. 나는 무의식 중에 울며 도움을 호소했다."고 말했다.

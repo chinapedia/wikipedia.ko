@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [HGM-25A  I](https://ko.wikipedia.org/wiki/HGM-25A__I).
+> This article is converted from Wikipedia: [HGM-25A 타이탄 I](https://ko.wikipedia.org/wiki/HGM-25A_타이탄_I).
 
 
 **HGM-25A 타이탄 I**은 미국의 2번째 ICBM이다. 미국 최초의 ICBM인 [SM-65 아틀라스에](../Page/SM-65_아틀라스.md "wikilink") 이어 개발되었다.

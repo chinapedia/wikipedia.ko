@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Aftermath \(  \)](https://ko.wikipedia.org/wiki/Aftermath_\(__\)).
+> This article is converted from Wikipedia: [Aftermath \(롤링 스톤스의 음반\)](https://ko.wikipedia.org/wiki/Aftermath_\(롤링_스톤스의_음반\)).
 
 
 《**Aftermath**》는 1966년 4월 [데카 레코드를](https://ko.wikipedia.org/wiki/데카_레코드 "wikilink") 통해 발표된 [롤링 스톤스의](../Page/롤링_스톤스.md "wikilink") 네 번째 영국 정규 음반이다. 미국에서는 [런던 레코드를](../Page/런던_레코드.md "wikilink") 통해 1966년 6월 발표되었다. 음반은 밴드의 예술적 측면에서 중대한 지점으로 평가받고 있다. 그 이유로는 전곡을 재거-리처즈가 작곡했으며, [브라이언 존스의](../Page/브라이언_존스.md "wikilink") 시타르, 애팔래치아 달시머, 마림바, 일본 코토, 기타, 하모니카, 건반 등 다양한 악기 연주를 들 수 있다. 그러나 음악은 여전히 시카고 전자 블루스에 뿌리가 있다. 롤링 스톤스가 처음으로 미국에서 전곡을 녹음하였고, 또한 처음으로 진정한 스테레오로 출시된 음반은 50분을 넘기는 재생시간을 기록한 초창기 록 음반 중 하나이며 10분을 상회하는 재생시간을 가진 〈Goin' Home〉을 수록하고 있다.

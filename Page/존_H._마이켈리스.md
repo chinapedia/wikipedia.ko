@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ H. ](https://ko.wikipedia.org/wiki/_H._).
+> This article is converted from Wikipedia: [존 H. 마이켈리스](https://ko.wikipedia.org/wiki/존_H._마이켈리스).
 
 
 **존 허시 마이켈리스**(, 1912년 8월 20일 \~ 1985년 10월 31일)는 [미국 육군](../Page/미국_육군.md "wikilink") [4성 장군](../Page/4성_장군.md "wikilink") 출신의 [군인](https://ko.wikipedia.org/wiki/군인 "wikilink")이다. 주한 [유엔군사령부](https://ko.wikipedia.org/wiki/유엔군사령부 "wikilink"), [주한 미군](../Page/주한_미군.md "wikilink"), [미8군](https://ko.wikipedia.org/wiki/미8군 "wikilink")(유엔사/COMUSFK/CG EUSA)에서 1969년부터 1972년까지 총사령관을 지냈다.

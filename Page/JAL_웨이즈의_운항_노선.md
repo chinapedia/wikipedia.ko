@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [JAL   ](https://ko.wikipedia.org/wiki/JAL___).
+> This article is converted from Wikipedia: [JAL 웨이즈의 운항 노선](https://ko.wikipedia.org/wiki/JAL_웨이즈의_운항_노선).
 
 
 [2010년](../Page/2010년.md "wikilink") [12월 1일](../Page/12월_1일.md "wikilink") 합병전까지 **[JAL 웨이즈](../Page/JAL_웨이즈.md "wikilink")**의 다음과 같은 노선을 운항하였다.

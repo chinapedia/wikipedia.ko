@@ -16,13 +16,13 @@
 5.  〈[The Entertainer](https://ko.wikipedia.org/wiki/The_Entertainer "wikilink")〉 – 4:01
 6.  〈[Vienna](../Page/Vienna_\(빌리_조엘의_노래\).md "wikilink")〉 – 3:35
 7.  〈[New York State of Mind](../Page/New_York_State_of_Mind.md "wikilink")〉 – 7:05
-8.  〈[The Night Is Still Young](https://ko.wikipedia.org/wiki/The_Night_Is_Still_Young "wikilink")〉 – 5:13
+8.  〈[The Night Is Still Young](../Page/The_Night_Is_Still_Young.md "wikilink")〉 – 5:13
 9.  〈[Zanzibar](https://ko.wikipedia.org/wiki/Zanzibar_\(빌리_조엘의_노래\) "wikilink")〉 – 5:57
 10. 〈[Miami 2017 (Seen the Lights Go Out on Broadway)](https://ko.wikipedia.org/wiki/Miami_2017_\(Seen_the_Lights_Go_Out_on_Broadway\) "wikilink")〉 – 5:03
 11. 〈The Great Wall of China〉 – 5:07
 12. 〈[Allentown](https://ko.wikipedia.org/wiki/Allentown "wikilink")〉 – 3:51
 13. 〈She's Right On Time〉 – 3:56
-14. 〈[Don't Ask Me Why](https://ko.wikipedia.org/wiki/Don't_Ask_Me_Why "wikilink")〉 – 3:10
+14. 〈[Don't Ask Me Why](../Page/Don't_Ask_Me_Why.md "wikilink")〉 – 3:10
 15. 〈[Laura](https://ko.wikipedia.org/wiki/Laura "wikilink")〉 – 5:19
 16. 〈A Room of Our Own〉 (hidden track) – 4:10
 
@@ -38,7 +38,7 @@
 8.  〈[A Matter of Trust](https://ko.wikipedia.org/wiki/A_Matter_of_Trust "wikilink")〉 – 4:39
 9.  〈[We Didn't Start the Fire](https://ko.wikipedia.org/wiki/We_Didn't_Start_the_Fire "wikilink")〉 – 4:47
 10. 〈[Big Shot](https://ko.wikipedia.org/wiki/Big_Shot_\(노래\) "wikilink")〉 – 4:23
-11. 〈[You May Be Right](https://ko.wikipedia.org/wiki/You_May_Be_Right "wikilink")〉 – 4:49
+11. 〈[You May Be Right](../Page/You_May_Be_Right.md "wikilink")〉 – 4:49
 12. 〈[Only The Good Die Young](https://ko.wikipedia.org/wiki/Only_The_Good_Die_Young "wikilink")〉 – 3:43
 13. 〈[Scenes from an Italian Restaurant](https://ko.wikipedia.org/wiki/Scenes_from_an_Italian_Restaurant "wikilink")〉 – 7:35
 14. 〈[Piano Man](../Page/Piano_Man_\(노래\).md "wikilink")〉 – 5:43

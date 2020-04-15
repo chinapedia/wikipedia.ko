@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [IMF ](https://ko.wikipedia.org/wiki/IMF_).
+> This article is converted from Wikipedia: [IMF 회원국](https://ko.wikipedia.org/wiki/IMF_회원국).
 
 
 **국제 통화 기금 회원국**은 190개국으로 구성되어 있으며 몇몇 비독립국 국가도 있다.

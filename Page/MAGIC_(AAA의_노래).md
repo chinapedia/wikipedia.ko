@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [MAGIC \(AAA \)](https://ko.wikipedia.org/wiki/MAGIC_\(AAA_\)).
+> This article is converted from Wikipedia: [MAGIC \(AAA의 노래\)](https://ko.wikipedia.org/wiki/MAGIC_\(AAA의_노래\)).
 
 
 〈**MAGIC**〉은 [AAA의](../Page/AAA_\(음악_그룹\).md "wikilink") 쉰세 번째 [싱글이다](../Page/CD_싱글.md "wikilink"). [2017년](../Page/2017년.md "wikilink") [2월 8일에](../Page/2월_8일.md "wikilink") [에이벡스 트랙스에서](https://ko.wikipedia.org/wiki/에이벡스_트랙스 "wikilink") 발매됐다.\[1\]

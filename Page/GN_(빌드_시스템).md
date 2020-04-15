@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [GN \( \)](https://ko.wikipedia.org/wiki/GN_\(_\)).
+> This article is converted from Wikipedia: [GN \(빌드 시스템\)](https://ko.wikipedia.org/wiki/GN_\(빌드_시스템\)).
 
 
 **GN**(Generates Ninja build files)은 [닌자](../Page/닌자_\(빌드_시스템\).md "wikilink")(Ninja)로 응용프로그램 프로젝트를 구축 할 수 있도록 Ninja 빌드 파일을 생성하는 메타 빌드 시스템이다.\[1\]

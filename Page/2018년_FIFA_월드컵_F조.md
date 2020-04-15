@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [2018 FIFA  F](https://ko.wikipedia.org/wiki/2018_FIFA__F).
+> This article is converted from Wikipedia: [2018년 FIFA 월드컵 F조](https://ko.wikipedia.org/wiki/2018년_FIFA_월드컵_F조).
 
 
 **[2018년 FIFA 월드컵](https://ko.wikipedia.org/wiki/2018년_FIFA_월드컵 "wikilink") F조**는 2018년 6월 17일부터 2018년 6월 27일까지 일정이 진행되었다. F조는 [독일](../Page/독일_축구_국가대표팀.md "wikilink"), [멕시코](../Page/멕시코_축구_국가대표팀.md "wikilink"), [스웨덴](../Page/스웨덴_축구_국가대표팀.md "wikilink"), [대한민국으로](../Page/대한민국_축구_국가대표팀.md "wikilink") 구성되었다. 4개의 팀들 중 상위 2개의 팀이 16강전에 진출한다.
@@ -269,7 +269,7 @@
 <a href="https://ko.wikipedia.org/wiki/마시밀리아노_이라티" title="wikilink">마시밀리아노 이라티</a> (<a href="../Page/이탈리아_축구_연맹.md" title="wikilink">이탈리아</a>)<br />
 <strong>보조 비디오 판독심:</strong><br />
 <a href="https://ko.wikipedia.org/wiki/위우통_삼파이우" title="wikilink">위우통 삼파이우</a> (<a href="https://ko.wikipedia.org/wiki/브라질_축구_협회" title="wikilink">브라질</a>)<br />
-카를로스 아스트로사 (<a href="https://ko.wikipedia.org/wiki/칠레_축구_연맹" title="wikilink">칠레</a>)<br />
+카를로스 아스트로사 (<a href="../Page/칠레_축구_연맹.md" title="wikilink">칠레</a>)<br />
 <a href="../Page/마크_가이거.md" title="wikilink">마크 가이거</a> (<a href="https://ko.wikipedia.org/wiki/미국_축구_연맹" title="wikilink">미국</a>)</p></td>
 </tr>
 </tbody>
@@ -464,7 +464,7 @@
 
 ### 대한민국 vs 멕시코
 
-두 팀은 멕시코가 3 – 1로 이겼던 [1998년 FIFA 월드컵](https://ko.wikipedia.org/wiki/1998년_FIFA_월드컵 "wikilink") E조 1차전 경기를 포함해 12경기에서 만났다. 월드컵에선 20년 만에 2번째로 만나는 것이다. 오늘 이 경기에는 정상회담을 위해 [러시아](../Page/러시아.md "wikilink")를 방문했던 [문재인](../Page/문재인.md "wikilink") 대통령 내외가 [블라디미르 푸틴](../Page/블라디미르_푸틴.md "wikilink") 러시아 대통령과 함께 참석했다. 이 날 대한민국의 [신태용](https://ko.wikipedia.org/wiki/신태용 "wikilink") 감독은 플랜 B였던 4-3-3 대신 플랜 A인 4-4-2 포메이션으로 경기에 나섰고 [손흥민](../Page/손흥민.md "wikilink")을 포처로 세웠다. 그 결과 1차전과 달리 손흥민의 날카로운 역습이 되살아나며 경기력도 크게 올라갔다. 그러나 1차전과 마찬가지로 이 경기에서도 수비와 심판 판정이 문제였다. [김영권](../Page/김영권.md "wikilink")과 함께 센터백으로 호흡을 맞췄던 [장현수](../Page/장현수.md "wikilink")가 전반 26분, 슬라이딩 태클 도중에 볼을 팔로 건드려 핸드볼 파울이 선언되어 페널티 킥을 허용했고 또 선제골을 허용했다. 그리고 후반 21분, 대한민국의 주장 [기성용](../Page/기성용.md "wikilink")이 멕시코의 [엑토르 에레라에게](../Page/엑토르_에레라.md "wikilink") 파울을 당했음에도 불구하고 [밀로라드 마지치](https://ko.wikipedia.org/wiki/밀로라드_마지치 "wikilink") 주심은 멕시코의 파울을 선언하지 않았다. 그 결과 곧바로 멕시코의 역습으로 이어졌고 센터백 장현수가 [치차리토](https://ko.wikipedia.org/wiki/치차리토 "wikilink")를 향해 어설픈 슬라이딩 태클을 시도했지만 볼을 터치하지도 못하며 그대로 벗어났고 치차리토가 손쉽게 득점을 하며 0 – 2로 끌려갔다. 후반 32분엔 [기예르모 오초아의](../Page/기예르모_오초아.md "wikilink") 패스미스를 [황희찬](../Page/황희찬.md "wikilink")이 가로채 골키퍼와 1 – 1 상황을 만들었으나 무슨 이유에서인지 황희찬 본인이 슛을 하지 않고 손흥민에게 패스를 해버리는 촌극을 보이며 천재일우의 기회를 놓쳤다. 그리고 후반 추가시간 3분에 손흥민이 페널티박스 우측 외곽에서 왼발로 멋진 중거리슛을 성공시키며 드디어 대한민국의 이번 대회 첫 득점을 성공시켰다. 이후 남은 시간 동안 대한민국은 동점골을 넣기 위해 사력을 다했으나 멕시코는 적절히 경기 템포를 조절하며 대한민국의 동점골을 허용하지 않았고 결국 멕시코의 2 – 1 승리로 끝이 났다.
+두 팀은 멕시코가 3 – 1로 이겼던 [1998년 FIFA 월드컵](https://ko.wikipedia.org/wiki/1998년_FIFA_월드컵 "wikilink") E조 1차전 경기를 포함해 12경기에서 만났다. 월드컵에선 20년 만에 2번째로 만나는 것이다. 오늘 이 경기에는 정상회담을 위해 [러시아](../Page/러시아.md "wikilink")를 방문했던 [문재인](../Page/문재인.md "wikilink") 대통령 내외가 [블라디미르 푸틴](../Page/블라디미르_푸틴.md "wikilink") 러시아 대통령과 함께 참석했다. 이 날 대한민국의 [신태용](https://ko.wikipedia.org/wiki/신태용 "wikilink") 감독은 플랜 B였던 4-3-3 대신 플랜 A인 4-4-2 포메이션으로 경기에 나섰고 [손흥민](../Page/손흥민.md "wikilink")을 포처로 세웠다. 그 결과 1차전과 달리 손흥민의 날카로운 역습이 되살아나며 경기력도 크게 올라갔다. 그러나 1차전과 마찬가지로 이 경기에서도 수비와 심판 판정이 문제였다. [김영권](../Page/김영권.md "wikilink")과 함께 센터백으로 호흡을 맞췄던 [장현수](../Page/장현수.md "wikilink")가 전반 26분, 슬라이딩 태클 도중에 볼을 팔로 건드려 핸드볼 파울이 선언되어 페널티 킥을 허용했고 또 선제골을 허용했다. 그리고 후반 21분, 대한민국의 주장 [기성용](../Page/기성용.md "wikilink")이 멕시코의 [엑토르 에레라에게](../Page/엑토르_에레라.md "wikilink") 파울을 당했음에도 불구하고 [밀로라드 마지치](../Page/밀로라드_마지치.md "wikilink") 주심은 멕시코의 파울을 선언하지 않았다. 그 결과 곧바로 멕시코의 역습으로 이어졌고 센터백 장현수가 [치차리토](https://ko.wikipedia.org/wiki/치차리토 "wikilink")를 향해 어설픈 슬라이딩 태클을 시도했지만 볼을 터치하지도 못하며 그대로 벗어났고 치차리토가 손쉽게 득점을 하며 0 – 2로 끌려갔다. 후반 32분엔 [기예르모 오초아의](../Page/기예르모_오초아.md "wikilink") 패스미스를 [황희찬](../Page/황희찬.md "wikilink")이 가로채 골키퍼와 1 – 1 상황을 만들었으나 무슨 이유에서인지 황희찬 본인이 슛을 하지 않고 손흥민에게 패스를 해버리는 촌극을 보이며 천재일우의 기회를 놓쳤다. 그리고 후반 추가시간 3분에 손흥민이 페널티박스 우측 외곽에서 왼발로 멋진 중거리슛을 성공시키며 드디어 대한민국의 이번 대회 첫 득점을 성공시켰다. 이후 남은 시간 동안 대한민국은 동점골을 넣기 위해 사력을 다했으나 멕시코는 적절히 경기 템포를 조절하며 대한민국의 동점골을 허용하지 않았고 결국 멕시코의 2 – 1 승리로 끝이 났다.
 
 |          |                         |                        |                         |                         |                        |                  |               |                   |                 |                |                  |          |                        |                       |                        |                        |                        |                  |               |                   |                 |                |                     |
 | -------- | ----------------------- | ---------------------- | ----------------------- | ----------------------- | ---------------------- | ---------------- | ------------- | ----------------- | --------------- | -------------- | ---------------- | -------- | ---------------------- | --------------------- | ---------------------- | ---------------------- | ---------------------- | ---------------- | ------------- | ----------------- | --------------- | -------------- | ------------------- |
@@ -643,7 +643,7 @@
 <a href="https://ko.wikipedia.org/wiki/다니엘레_오르사토" title="wikilink">다니엘레 오르사토</a> (<a href="https://ko.wikipedia.org/wiki/이탈리아_축구_협회" title="wikilink">이탈리아</a>)<br />
 <strong>보조 비디오 판독심:</strong><br />
 <a href="https://ko.wikipedia.org/wiki/아르투르_소아르스_디아스" title="wikilink">아르투르 소아르스 디아스</a> (<a href="https://ko.wikipedia.org/wiki/포르투갈_축구_연맹" title="wikilink">포르투갈</a>)<br />
-카를로스 아스트로사 (<a href="https://ko.wikipedia.org/wiki/칠레_축구_연맹" title="wikilink">칠레</a>)<br />
+카를로스 아스트로사 (<a href="../Page/칠레_축구_연맹.md" title="wikilink">칠레</a>)<br />
 <a href="https://ko.wikipedia.org/wiki/티아구_마르팅스" title="wikilink">티아구 마르팅스</a> (<a href="https://ko.wikipedia.org/wiki/포르투갈_축구_연맹" title="wikilink">포르투갈</a>)</p></td>
 </tr>
 </tbody>
@@ -823,7 +823,7 @@
 파베우 소콜니츠키 (<a href="https://ko.wikipedia.org/wiki/폴란드_축구_협회" title="wikilink">폴란드</a>)<br />
 토마시 리스트키에비치 (<a href="https://ko.wikipedia.org/wiki/폴란드_축구_협회" title="wikilink">폴란드</a>)<br />
 <strong>대기심:</strong><br />
-<a href="https://ko.wikipedia.org/wiki/사토_류지" title="wikilink">사토 류지</a> (<a href="https://ko.wikipedia.org/wiki/일본_축구_협회" title="wikilink">일본</a>)<br />
+<a href="../Page/사토_류지.md" title="wikilink">사토 류지</a> (<a href="https://ko.wikipedia.org/wiki/일본_축구_협회" title="wikilink">일본</a>)<br />
 <strong>후보 대기심:</strong><br />
 사가라 도루 (<a href="https://ko.wikipedia.org/wiki/일본_축구_협회" title="wikilink">일본</a>)<br />
 <strong>비디오 판독심:</strong><br />
@@ -1010,9 +1010,9 @@
 <a href="https://ko.wikipedia.org/wiki/조_플레처" title="wikilink">조 플레처</a> (<a href="https://ko.wikipedia.org/wiki/캐나다_축구_협회" title="wikilink">캐나다</a>)<br />
 프랭크 앤더슨 (<a href="https://ko.wikipedia.org/wiki/미국_축구_연맹" title="wikilink">미국</a>)<br />
 <strong>대기심:</strong><br />
-<a href="https://ko.wikipedia.org/wiki/훌리오_바스쿠냔" title="wikilink">훌리오 바스쿠냔</a> (<a href="https://ko.wikipedia.org/wiki/칠레_축구_연맹" title="wikilink">칠레</a>)<br />
+<a href="https://ko.wikipedia.org/wiki/훌리오_바스쿠냔" title="wikilink">훌리오 바스쿠냔</a> (<a href="../Page/칠레_축구_연맹.md" title="wikilink">칠레</a>)<br />
 <strong>후보 대기심:</strong><br />
-크리스티안 시에만 (<a href="https://ko.wikipedia.org/wiki/칠레_축구_연맹" title="wikilink">칠레</a>)<br />
+크리스티안 시에만 (<a href="../Page/칠레_축구_연맹.md" title="wikilink">칠레</a>)<br />
 <strong>비디오 판독심:</strong><br />
 <a href="https://ko.wikipedia.org/wiki/다니_마켈리" title="wikilink">다니 마켈리</a> (<a href="../Page/네덜란드_왕립_축구_협회.md" title="wikilink">네덜란드</a>)<br />
 <strong>보조 비디오 판독심:</strong><br />
@@ -1204,7 +1204,7 @@
 <a href="https://ko.wikipedia.org/wiki/마우로_비글리아노" title="wikilink">마우로 비글리아노</a> (<a href="../Page/아르헨티나_축구_협회.md" title="wikilink">아르헨티나</a>)<br />
 <strong>보조 비디오 판독심:</strong><br />
 <a href="https://ko.wikipedia.org/wiki/헤리_바르가스" title="wikilink">헤리 바르가스</a> (<a href="https://ko.wikipedia.org/wiki/볼리비아_축구_연맹" title="wikilink">볼리비아</a>)<br />
-카를로스 아스트로사 (<a href="https://ko.wikipedia.org/wiki/칠레_축구_연맹" title="wikilink">칠레</a>)<br />
+카를로스 아스트로사 (<a href="../Page/칠레_축구_연맹.md" title="wikilink">칠레</a>)<br />
 <a href="https://ko.wikipedia.org/wiki/위우통_삼파이우" title="wikilink">위우통 삼파이우</a> (<a href="https://ko.wikipedia.org/wiki/브라질_축구_협회" title="wikilink">브라질</a>)</p></td>
 </tr>
 </tbody>

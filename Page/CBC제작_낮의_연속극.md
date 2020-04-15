@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [CBC  ](https://ko.wikipedia.org/wiki/CBC__).
+> This article is converted from Wikipedia: [CBC제작 낮의 연속극](https://ko.wikipedia.org/wiki/CBC제작_낮의_연속극).
 
 
 **CBC제작 낮의 연속극**()는 [TBS 텔레비전](../Page/TBS_텔레비전.md "wikilink") [계열에서](../Page/도쿄_방송_홀딩스.md "wikilink") 매주 월 - 금요일의 [드라마](https://ko.wikipedia.org/wiki/드라마 "wikilink")이다.

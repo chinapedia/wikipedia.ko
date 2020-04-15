@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FC ](https://ko.wikipedia.org/wiki/FC_).
+> This article is converted from Wikipedia: [FC 호멜](https://ko.wikipedia.org/wiki/FC_호멜).
 
 
 **FC 호멜**(, )은 [호멜](../Page/호멜.md "wikilink")을 연고로 하는 [벨라루스](../Page/벨라루스.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다. 현재는 [벨라루스 프리미어리그에](../Page/벨라루스_프리미어리그.md "wikilink") 참가하고 있다.

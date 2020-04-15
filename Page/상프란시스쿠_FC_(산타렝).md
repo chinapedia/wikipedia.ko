@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ FC \(\)](https://ko.wikipedia.org/wiki/_FC_\(\)).
+> This article is converted from Wikipedia: [상프란시스쿠 FC \(산타렝\)](https://ko.wikipedia.org/wiki/상프란시스쿠_FC_\(산타렝\)).
 
 
 **상프란시스쿠 푸치보우 클루비**() 또는 **상프란시스쿠**는 [브라질](../Page/브라질.md "wikilink") [파라 주](https://ko.wikipedia.org/wiki/파라_주_\(브라질\) "wikilink") [산타렝을](https://ko.wikipedia.org/wiki/산타렝_\(파라_주\) "wikilink") 연고로 하는 축구 클럽이다. 연고지 파라 주의 약어를 따 **상프란시스쿠-PA**라고도 표기된다. [1929년](../Page/1929년.md "wikilink") [10월 30일](../Page/10월_30일.md "wikilink") 창단하였다. 구단의 최대 라이벌은 [상하이문두이다](https://ko.wikipedia.org/wiki/상하이문두_\(파라_주\) "wikilink").

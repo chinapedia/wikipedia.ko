@@ -47,21 +47,89 @@
 
 동년 [8월 26일](../Page/8월_26일.md "wikilink"), 타이베이에서 행해진 "제4회 Touch The Japan in 타이베이"에서 TPE48에서 이적한 멤버 35명이 다시 1기생으로서 피로했다\[23\].
 
+2019년 12월 21일, 팀 내 유닛이 발표되었다. 정식 활동은 2020년 3월부터.
+
+2020년 2월 1일, 유닛명과 대표 색상이 발표되었다.
+
 ## 멤버
 
 ### 정규 멤버
 
-  - 1995년생:청스위(최연장자), **첸스야**(AKB48 Team TP 총캡틴/그룹 5TEAM 리더 & 졸업생 [천시위안](https://ko.wikipedia.org/wiki/천시위안 "wikilink")의 쌍둥이)
-  - 1996년생:판쯔이(출신지:[마카오](../Page/마카오.md "wikilink")), 류위칭
-  - 1997년생:류제밍
-  - 1999년생:셴디치(출신지:[홍콩](../Page/홍콩.md "wikilink")), 추핀한
-  - 2000년생:류샤오칭(출신지:[홍콩](../Page/홍콩.md "wikilink"))
-  - 2001년생:린제
-  - 2002년생:린위쉰, 궈싱위
-  - 2003년생:장위린
-  - 2006년생&활동중지:혼다 유즈카(출신지:[일본](../Page/일본.md "wikilink")&최연소)
+#### 데이지
 
-### 연구생
+<table>
+<thead>
+<tr class="header">
+<th><p>이름</p></th>
+<th><p>한글 표기</p></th>
+<th><p>병음 표기</p></th>
+<th><p>생년월일</p></th>
+<th><p>가입기</p></th>
+<th><p>소속 사무소</p></th>
+<th><p>비고</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><strong></strong></p></td>
+<td><p><strong><a href="https://ko.wikipedia.org/wiki/첸스야" title="wikilink">첸스야</a></strong></p></td>
+<td><p><strong>Chen Shih-ya</strong></p></td>
+<td><p><strong></strong></p></td>
+<td><p>1기</p></td>
+<td><p>Muses &amp; Nymph Entertainment</p></td>
+<td><p>최연장자<br />
+AKB48 Team TP 총캡틴<br />
+걸그룹 5TEAM 리더 &amp; 졸업생 <a href="https://ko.wikipedia.org/wiki/천시위안" title="wikilink">천시위안</a>의 쌍둥이</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/판쯔이" title="wikilink">판쯔이</a></p></td>
+<td><p>Pan Tzi-yi</p></td>
+<td></td>
+<td><p>1기</p></td>
+<td><p>Muses &amp; Nymph Entertainment</p></td>
+<td><p><a href="../Page/마카오.md" title="wikilink">마카오</a>인 멤버</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/셴디치" title="wikilink">셴디치</a></p></td>
+<td><p>Sin Tik-kei</p></td>
+<td></td>
+<td><p>1기</p></td>
+<td><p>Muses &amp; Nymph Entertainment</p></td>
+<td><p><a href="../Page/홍콩.md" title="wikilink">홍콩</a>인 멤버</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/차이야언" title="wikilink">차이야언</a></p></td>
+<td><p>Tsai Ya-en</p></td>
+<td></td>
+<td><p>1기</p></td>
+<td><p>Muses &amp; Nymph Entertainment</p></td>
+<td><p>2020년 1월 19일 승격</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/궈싱위" title="wikilink">궈싱위</a></p></td>
+<td><p>Kuo Hsin-yu</p></td>
+<td></td>
+<td><p>1기</p></td>
+<td><p>Muses &amp; Nymph Entertainment</p></td>
+<td><p>최연소</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+#### 벨플라워
 
 <table>
 <thead>
@@ -78,8 +146,8 @@
 <tbody>
 <tr class="odd">
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/저우자위" title="wikilink">저우자위</a></p></td>
-<td><p>Zhou Jia-yu</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/류위칭" title="wikilink">류위칭</a></p></td>
+<td><p>Liu Yu-ching</p></td>
 <td></td>
 <td><p>1기</p></td>
 <td><p>Muses &amp; Nymph Entertainment</p></td>
@@ -87,31 +155,146 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/후지이_마유" title="wikilink">후지이 마유</a></p></td>
-<td><p>Fujii Mayu</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/류제밍" title="wikilink">류제밍</a></p></td>
+<td><p>Liu Jie-ming</p></td>
 <td></td>
 <td><p>1기</p></td>
 <td><p>Muses &amp; Nymph Entertainment</p></td>
-<td><p><a href="../Page/일본.md" title="wikilink">일본</a>인 멤버</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/오오야마_미레이" title="wikilink">오오야마 미레이</a></p></td>
-<td><p>Oyama Mirei</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/추핀한" title="wikilink">추핀한</a></p></td>
+<td><p>Chiu Pin-han</p></td>
 <td></td>
 <td><p>1기</p></td>
 <td><p>Muses &amp; Nymph Entertainment</p></td>
-<td><p><a href="../Page/일본.md" title="wikilink">일본</a>인 멤버</p></td>
+<td></td>
 </tr>
 <tr class="even">
+<td></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/린제" title="wikilink">린제</a></p></td>
+<td><p>Lin Chieh</p></td>
+<td></td>
+<td><p>1기</p></td>
+<td><p>Muses &amp; Nymph Entertainment</p></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/리쟈리" title="wikilink">리쟈리</a></p></td>
 <td><p>Lee Jia-li</p></td>
 <td></td>
 <td><p>1기</p></td>
 <td><p>Muses &amp; Nymph Entertainment</p></td>
-<td><p>여동생은 <a href="https://ko.wikipedia.org/wiki/리타첸" title="wikilink">리타첸</a></p></td>
+<td><p>최연소<br />
+여동생은 <a href="https://ko.wikipedia.org/wiki/리타첸" title="wikilink">리타첸</a><br />
+2020년 1월 19일 승격</p></td>
 </tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+#### 사쿠라
+
+<table>
+<thead>
+<tr class="header">
+<th><p>이름</p></th>
+<th><p>한글 표기</p></th>
+<th><p>병음 표기</p></th>
+<th><p>생년월일</p></th>
+<th><p>가입기</p></th>
+<th><p>소속 사무소</p></th>
+<th><p>비고</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/청스위" title="wikilink">청스위</a></p></td>
+<td><p>Tseng Shih-yu</p></td>
+<td></td>
+<td><p>1기</p></td>
+<td><p>Muses &amp; Nymph Entertainment</p></td>
+<td><p>최연장자</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/류샤오칭" title="wikilink">류샤오칭</a></p></td>
+<td><p>Lau Hiu-ching</p></td>
+<td></td>
+<td><p>1기</p></td>
+<td><p>Muses &amp; Nymph Entertainment</p></td>
+<td><p><a href="../Page/홍콩.md" title="wikilink">홍콩</a>인 멤버<br />
+2019년 6월 15일 승격</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/린위쉰" title="wikilink">린위쉰</a></p></td>
+<td><p>Lin Yu-hsin</p></td>
+<td></td>
+<td><p>1기</p></td>
+<td><p>Muses &amp; Nymph Entertainment</p></td>
+<td><p>2019년 6월 15일 승격</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/혼다_유즈카" title="wikilink">혼다 유즈카</a></p></td>
+<td><p>Honda Yuzuka</p></td>
+<td></td>
+<td><p>1기</p></td>
+<td><p>Muses &amp; Nymph Entertainment</p></td>
+<td><p>최연소<br />
+<a href="../Page/일본.md" title="wikilink">일본</a>인 멤버<br />
+활동중지</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/장위린" title="wikilink">장위린</a></p></td>
+<td><p>Chang Yu-lin</p></td>
+<td></td>
+<td><p>1기</p></td>
+<td><p>Muses &amp; Nymph Entertainment</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+### 연구생
+
+#### 데이지
+
+<table>
+<thead>
+<tr class="header">
+<th><p>이름</p></th>
+<th><p>한글 표기</p></th>
+<th><p>병음 표기</p></th>
+<th><p>생년월일</p></th>
+<th><p>가입기</p></th>
+<th><p>소속 사무소</p></th>
+<th><p>비고</p></th>
+</tr>
+</thead>
+<tbody>
 <tr class="odd">
 <td></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/리타첸" title="wikilink">리타첸</a></p></td>
@@ -134,60 +317,6 @@
 <td></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/포링" title="wikilink">포링</a></p></td>
 <td><p>Po Ling</p></td>
-<td></td>
-<td><p>1기</p></td>
-<td><p>Muses &amp; Nymph Entertainment</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/차이야언" title="wikilink">차이야언</a></p></td>
-<td><p>Tsai Ya-en</p></td>
-<td></td>
-<td><p>1기</p></td>
-<td><p>Muses &amp; Nymph Entertainment</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/린이윈" title="wikilink">린이윈</a></p></td>
-<td><p>Lin Yi-yun</p></td>
-<td></td>
-<td><p>1기</p></td>
-<td><p>Muses &amp; Nymph Entertainment</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/린자잉" title="wikilink">린자잉</a></p></td>
-<td><p>Lin Chia-ying</p></td>
-<td></td>
-<td><p>1기</p></td>
-<td><p>Muses &amp; Nymph Entertainment</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/차이이러우" title="wikilink">차이이러우</a></p></td>
-<td><p>Tsai Yi-jou</p></td>
-<td></td>
-<td><p>1기</p></td>
-<td><p>Muses &amp; Nymph Entertainment</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/가오윈줴" title="wikilink">가오윈줴</a></p></td>
-<td><p>Gao Yun-jue</p></td>
-<td></td>
-<td><p>1기</p></td>
-<td><p>Muses &amp; Nymph Entertainment</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/왕이자" title="wikilink">왕이자</a></p></td>
-<td><p>Wang Yi-chia</p></td>
 <td></td>
 <td><p>1기</p></td>
 <td><p>Muses &amp; Nymph Entertainment</p></td>
@@ -222,17 +351,81 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/정위웨이" title="wikilink">정위웨이</a></p></td>
-<td><p>Cheng Yu-wei</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/가오옌천" title="wikilink">가오옌천</a></p></td>
+<td><p>Kao Yen-chen</p></td>
 <td></td>
 <td><p>1기</p></td>
+<td><p>Muses &amp; Nymph Entertainment</p></td>
+<td><p>최연소</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/미야타_루카" title="wikilink">미야타 루카</a></p></td>
+<td><p>Miyata Ruka</p></td>
+<td></td>
+<td><p>2기</p></td>
+<td><p>Muses &amp; Nymph Entertainment</p></td>
+<td><p>최연장자<br />
+<a href="../Page/일본.md" title="wikilink">일본</a>인 멤버</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/우완링" title="wikilink">우완링</a></p></td>
+<td><p>Wu Wan-ling</p></td>
+<td></td>
+<td><p>2기</p></td>
 <td><p>Muses &amp; Nymph Entertainment</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/둥쯔쉬안" title="wikilink">둥쯔쉬안</a></p></td>
-<td><p>Tung Zih-syuan</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/린자니" title="wikilink">린자니</a></p></td>
+<td><p>Lin Jia-ni</p></td>
+<td></td>
+<td><p>2기</p></td>
+<td><p>Muses &amp; Nymph Entertainment</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+#### 벨플라워
+
+<table>
+<thead>
+<tr class="header">
+<th><p>이름</p></th>
+<th><p>한글 표기</p></th>
+<th><p>병음 표기</p></th>
+<th><p>생년월일</p></th>
+<th><p>가입기</p></th>
+<th><p>소속 사무소</p></th>
+<th><p>비고</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/후지이_마유" title="wikilink">후지이 마유</a></p></td>
+<td><p>Fujii Mayu</p></td>
+<td></td>
+<td><p>1기</p></td>
+<td><p>Muses &amp; Nymph Entertainment</p></td>
+<td><p><a href="../Page/일본.md" title="wikilink">일본</a>인 멤버</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/차이이러우" title="wikilink">차이이러우</a></p></td>
+<td><p>Tsai Yi-jou</p></td>
 <td></td>
 <td><p>1기</p></td>
 <td><p>Muses &amp; Nymph Entertainment</p></td>
@@ -240,8 +433,26 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/정자위" title="wikilink">정자위</a></p></td>
-<td><p>Cheng Chia-yu</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/가오윈줴" title="wikilink">가오윈줴</a></p></td>
+<td><p>Gao Yun-jue</p></td>
+<td></td>
+<td><p>1기</p></td>
+<td><p>Muses &amp; Nymph Entertainment</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/왕이자" title="wikilink">왕이자</a></p></td>
+<td><p>Wang Yi-chia</p></td>
+<td></td>
+<td><p>1기</p></td>
+<td><p>Muses &amp; Nymph Entertainment</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/정위웨이" title="wikilink">정위웨이</a></p></td>
+<td><p>Cheng Yu-wei</p></td>
 <td></td>
 <td><p>1기</p></td>
 <td><p>Muses &amp; Nymph Entertainment</p></td>
@@ -254,18 +465,135 @@
 <td></td>
 <td><p>1기</p></td>
 <td><p>Muses &amp; Nymph Entertainment</p></td>
+<td><p>최연소</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/둥쯔쉬안" title="wikilink">둥쯔쉬안</a></p></td>
+<td><p>Tung Zih-syuan</p></td>
+<td></td>
+<td><p>1기</p></td>
+<td><p>Muses &amp; Nymph Entertainment</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/윙퉁쉰" title="wikilink">윙퉁쉰</a></p></td>
+<td><p>Weng Tung-hsun</p></td>
+<td></td>
+<td><p>2기</p></td>
+<td><p>Muses &amp; Nymph Entertainment</p></td>
+<td><p>최연장자</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/저우자안" title="wikilink">저우자안</a></p></td>
+<td><p>Chou Chia-an</p></td>
+<td></td>
+<td><p>2기</p></td>
+<td><p>Muses &amp; Nymph Entertainment</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+#### 사쿠라
+
+<table>
+<thead>
+<tr class="header">
+<th><p>이름</p></th>
+<th><p>한글 표기</p></th>
+<th><p>병음 표기</p></th>
+<th><p>생년월일</p></th>
+<th><p>가입기</p></th>
+<th><p>소속 사무소</p></th>
+<th><p>비고</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/저우자위" title="wikilink">저우자위</a></p></td>
+<td><p>Zhou Jia-yu</p></td>
+<td></td>
+<td><p>1기</p></td>
+<td><p>Muses &amp; Nymph Entertainment</p></td>
+<td><p>최연장자</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/린이윈" title="wikilink">린이윈</a></p></td>
+<td><p>Lin Yi-yun</p></td>
+<td></td>
+<td><p>1기</p></td>
+<td><p>Muses &amp; Nymph Entertainment</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/가오옌천" title="wikilink">가오옌천</a></p></td>
-<td><p>Kao Yen-chen</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/린자잉" title="wikilink">린자잉</a></p></td>
+<td><p>Lin Chia-ying</p></td>
+<td></td>
+<td><p>1기</p></td>
+<td><p>Muses &amp; Nymph Entertainment</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/오오야마_미레이" title="wikilink">오오야마 미레이</a></p></td>
+<td><p>Oyama Mirei</p></td>
+<td></td>
+<td><p>1기</p></td>
+<td><p>Muses &amp; Nymph Entertainment</p></td>
+<td><p><a href="../Page/일본.md" title="wikilink">일본</a>인 멤버</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/정자위" title="wikilink">정자위</a></p></td>
+<td><p>Cheng Chia-yu</p></td>
 <td></td>
 <td><p>1기</p></td>
 <td><p>Muses &amp; Nymph Entertainment</p></td>
 <td><p>최연소</p></td>
 </tr>
 <tr class="even">
+<td></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/우치후이" title="wikilink">우치후이</a></p></td>
+<td><p>Wu Chi-hui</p></td>
+<td></td>
+<td><p>2기</p></td>
+<td><p>Muses &amp; Nymph Entertainment</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/위안쯔주" title="wikilink">위안쯔주</a></p></td>
+<td><p>Yuan Tzu-chu</p></td>
+<td></td>
+<td><p>2기</p></td>
+<td><p>Muses &amp; Nymph Entertainment</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/린팅리" title="wikilink">린팅리</a></p></td>
+<td><p>Lin Ting-li</p></td>
+<td></td>
+<td><p>2기</p></td>
+<td><p>Muses &amp; Nymph Entertainment</p></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>

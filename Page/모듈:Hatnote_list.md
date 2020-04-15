@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Hatnote list](https://ko.wikipedia.org/wiki/:Hatnote_list).
+> This article is converted from Wikipedia: [모듈:Hatnote list](https://ko.wikipedia.org/wiki/모듈:Hatnote_list).
 
 
 -----
@@ -52,9 +52,10 @@ local mArguments --initialize lazily local mHatnote = require('Module:Hatnote') 
 `   end`
 `   -- Set the conjunction, apply Oxford comma, and force a comma if #1 has "§"`
 `   local conjunction = s .. options.conjunction .. s`
-`   if #list == 2 and searchDisp(list[1], "§") or #list > 2 then`
-`       conjunction = separator .. conjunction`
-`   end`
+`   -- 한국어에 Oxford comma 사용하면 ", 및"이 표출되므로 적용 배제`
+`   -- if #list == 2 and searchDisp(list[1], "§") or #list > 2 then`
+`   --  conjunction = separator .. conjunction`
+`   -- end`
 `   -- Return the formatted string`
 `   return mw.text.listToText(list, separator .. s, conjunction)`
 

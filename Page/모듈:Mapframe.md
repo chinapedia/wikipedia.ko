@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Mapframe](https://ko.wikipedia.org/wiki/:Mapframe).
+> This article is converted from Wikipedia: [모듈:Mapframe](https://ko.wikipedia.org/wiki/모듈:Mapframe).
 
 
 \-- Note: Originally written on English Wikipedia at <https://en.wikipedia.org/wiki/Module:Mapframe> -- \#\#\#\#\# Localisation (L10n) settings \#\#\#\#\# -- Replace values in quotes ("") with localised values

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [AKS \(\)](https://ko.wikipedia.org/wiki/AKS_\(\)).
+> This article is converted from Wikipedia: [AKS \(기업\)](https://ko.wikipedia.org/wiki/AKS_\(기업\)).
 
 
 **주식회사 AKS**(, )는 [일본](../Page/일본.md "wikilink")의 연예 회사로, [도쿄도](../Page/도쿄도.md "wikilink") [지요다 구에](https://ko.wikipedia.org/wiki/지요다_구 "wikilink") 본사를 두고 있다.

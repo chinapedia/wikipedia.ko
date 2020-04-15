@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Npm \(\)](https://ko.wikipedia.org/wiki/Npm_\(\)).
+> This article is converted from Wikipedia: [Npm \(소프트웨어\)](https://ko.wikipedia.org/wiki/Npm_\(소프트웨어\)).
 
 
 **npm** (노드 패키지 매니저/Node Package Manager)은 [자바스크립트](../Page/자바스크립트.md "wikilink") 프로그래밍 언어를 위한 [패키지 관리자이다](../Page/패키지_관리자.md "wikilink"). 자바스크립트 런타임 환경 [Node.js](../Page/Node.js.md "wikilink")의 기본 패키지 관리자이다. 명령 줄 클라이언트(npm), 그리고 공개 패키지와 지불 방식의 개인 패키지의 [온라인 데이터베이스](https://ko.wikipedia.org/wiki/온라인_데이터베이스 "wikilink")(npm 레지스트리)로 이루어져 있다. 이 레지스트리는 클라이언트를 통해 접근되며 사용 가능한 패키지들은 npm 웹사이트를 통해 찾아보고 검색할 수 있다. 패키지 관리자와 레지스트리는 npm사에 의해 관리된다.

@@ -17,7 +17,7 @@
 
 ## 지원, 개발, 투자
 
-  - [도쿄 대학](https://ko.wikipedia.org/wiki/도쿄_대학 "wikilink")
+  - [도쿄 대학](../Page/도쿄_대학.md "wikilink")
   - [JAXA](https://ko.wikipedia.org/wiki/JAXA "wikilink")
   - [ISAS](https://ko.wikipedia.org/wiki/ISAS "wikilink")
 

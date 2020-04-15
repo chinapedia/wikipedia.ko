@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [OOH-AHH](https://ko.wikipedia.org/wiki/OOH-AHH).
+> This article is converted from Wikipedia: [OOH-AHH하게](https://ko.wikipedia.org/wiki/OOH-AHH하게).
 
 
 “**OOH-AHH하게**”는 [대한민국](../Page/대한민국.md "wikilink")의 [걸 그룹](../Page/걸_그룹.md "wikilink") [트와이스](https://ko.wikipedia.org/wiki/트와이스 "wikilink")의 첫 번째 미니 음반 《[THE STORY BEGINS](../Page/THE_STORY_BEGINS.md "wikilink")》의 타이틀곡이다.

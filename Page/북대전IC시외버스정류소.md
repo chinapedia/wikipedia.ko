@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [IC](https://ko.wikipedia.org/wiki/IC).
+> This article is converted from Wikipedia: [북대전IC시외버스정류소](https://ko.wikipedia.org/wiki/북대전IC시외버스정류소).
 
 
 **북대전IC시외버스정류소**는 [대전광역시](https://ko.wikipedia.org/wiki/대전광역시 "wikilink") [유성구](../Page/유성구.md "wikilink") 화암동에 위치한 [대한민국](../Page/대한민국.md "wikilink")의 시외버스정류장이다.

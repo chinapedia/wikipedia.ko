@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Singles](https://ko.wikipedia.org/wiki/:Singles).
+> This article is converted from Wikipedia: [모듈:Singles](https://ko.wikipedia.org/wiki/모듈:Singles).
 
 
 local p = {}

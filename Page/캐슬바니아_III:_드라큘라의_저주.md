@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [ III:  ](https://ko.wikipedia.org/wiki/_III:__).
+> This article is converted from Wikipedia: [캐슬바니아 III: 드라큘라의 저주](https://ko.wikipedia.org/wiki/캐슬바니아_III:_드라큘라의_저주).
 
 
-《**캐슬바니아 III: 드라큘라의 저주**》()는 [코나미](../Page/코나미.md "wikilink")가 발매한 [액션](https://ko.wikipedia.org/wiki/액션_게임 "wikilink") [플랫폼 게임이다](https://ko.wikipedia.org/wiki/플랫폼_게임 "wikilink"). [패미컴](https://ko.wikipedia.org/wiki/패미컴 "wikilink")으로 개발된 세번째이자 마지막 [캐슬바니아](https://ko.wikipedia.org/wiki/캐슬바니아 "wikilink") 게임이다. 1편보다 몇 세기 앞선 시대를 무대로 트레버 C. 벨몬트의 활동을 다뤘다.
+《**캐슬바니아 III: 드라큘라의 저주**》()는 [코나미](../Page/코나미.md "wikilink")가 발매한 [액션](https://ko.wikipedia.org/wiki/액션_게임 "wikilink") [플랫폼 게임이다](../Page/플랫폼_게임.md "wikilink"). [패미컴](https://ko.wikipedia.org/wiki/패미컴 "wikilink")으로 개발된 세번째이자 마지막 [캐슬바니아](https://ko.wikipedia.org/wiki/캐슬바니아 "wikilink") 게임이다. 1편보다 몇 세기 앞선 시대를 무대로 트레버 C. 벨몬트의 활동을 다뤘다.
 
 1989년 일본서 《**악마성 전설**》()이라는 제목으로 먼저 발매됐으며, 북미와 유럽 지역에는 각각 1990년, 1992년에 출시됐다. 2002년에는 [마이크로소프트 윈도우로](../Page/마이크로소프트_윈도우.md "wikilink") 발매된 〈코나미 컬렉터즈 컬렉션〉에 수록됐고,\[1\] 2008년에 닌텐도 기종 [버추얼 콘솔로도](../Page/버추얼_콘솔.md "wikilink") 디지털 재발매됐다. 2019년 에는 [플레이스테이션 4](../Page/플레이스테이션_4.md "wikilink"), [엑스박스 원](../Page/엑스박스_원.md "wikilink"), [닌텐도 스위치](../Page/닌텐도_스위치.md "wikilink") 및 윈도우로 발매된 《캐슬바니아 애니버서리 컬렉션》에 포함됐다.
 

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  vs. ](https://ko.wikipedia.org/wiki/__vs._).
+> This article is converted from Wikipedia: [성수전대 긴가맨 vs. 메가레인저](https://ko.wikipedia.org/wiki/성수전대_긴가맨_vs._메가레인저).
 
 
 《**성수전대 긴가맨 vs. 메가레인저**》(星獣戦隊ギンガマンVSメガレンジャー)는 [1999년](../Page/1999년.md "wikilink") [3월 12일에](../Page/3월_12일.md "wikilink") 발매된 오리지널 비디오 작품이다. 《[성수전대 긴가맨](../Page/성수전대_긴가맨.md "wikilink")》의 오리지널 비디오 작품이며, 슈퍼 전대 vs. 시리즈의 하나이다.

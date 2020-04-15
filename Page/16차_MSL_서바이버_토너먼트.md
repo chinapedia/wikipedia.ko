@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [16 MSL  ](https://ko.wikipedia.org/wiki/16_MSL__).
+> This article is converted from Wikipedia: [16차 MSL 서바이버 토너먼트](https://ko.wikipedia.org/wiki/16차_MSL_서바이버_토너먼트).
 
 
 ## 리그기간

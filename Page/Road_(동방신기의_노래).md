@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Road \( \)](https://ko.wikipedia.org/wiki/Road_\(_\)).
+> This article is converted from Wikipedia: [Road \(동방신기의 노래\)](https://ko.wikipedia.org/wiki/Road_\(동방신기의_노래\)).
 
 
 〈**Road**〉(로드)는 [동방신기](../Page/동방신기.md "wikilink")의 일본에서의 통산 45번째 싱글 음반으로 2인 재편 이후의 최초의 맥시 싱글이다. 동명의 타이틀곡 〈Road〉는 소중한 사람과 함께 걸을 수 있어 한 걸음 한 걸음이 멋진 미래로 이어지는 길이 된다는 메시지를 가사에 담아낸 곡.

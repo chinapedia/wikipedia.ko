@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [V-    ](https://ko.wikipedia.org/wiki/V-____).
+> This article is converted from Wikipedia: [V-리그 여자부 우승 팀 목록](https://ko.wikipedia.org/wiki/V-리그_여자부_우승_팀_목록).
 
 
 [V-리그](../Page/V-리그_\(대한민국\).md "wikilink") 챔피언결정전은 V-리그 포스트시즌의 최종전이다. 정규리그 1위팀과 정규리그 2위{{·}}3위간 플레이오프 승리 팀이 챔피언결정전을 통하여 우승 팀을 가리게된다. 7전 4선승제로 진행된 2010년과 2011년을 제외하고는 5전 3선승제로 진행되고 있다.

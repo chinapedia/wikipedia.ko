@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ NX ](https://ko.wikipedia.org/wiki/_NX_).
+> This article is converted from Wikipedia: [삼성 NX 시리즈](https://ko.wikipedia.org/wiki/삼성_NX_시리즈).
 
 
 **삼성 NX 시리즈**(Samsung NX series)는 [삼성전자](https://ko.wikipedia.org/wiki/삼성전자 "wikilink")의 [삼성 NX](https://ko.wikipedia.org/wiki/삼성_NX_마운트 "wikilink") [렌즈 마운트를](../Page/렌즈_마운트.md "wikilink") 장착한 [APS-C](https://ko.wikipedia.org/wiki/APS-C "wikilink") [미러리스 렌즈 교환식 카메라](../Page/미러리스_렌즈_교환식_카메라.md "wikilink") 시리즈의 하나로, 2010년 도입되었다.

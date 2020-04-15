@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ II:    -   ](https://ko.wikipedia.org/wiki/_II:____-___).
+> This article is converted from Wikipedia: [이스 II: 에인션트 이스 배니시드 - 더 파이널 챕터](https://ko.wikipedia.org/wiki/이스_II:_에인션트_이스_배니시드_-_더_파이널_챕터).
 
 
 《**이스 II: 에인션트 이스 배니시드 - 더 파이널 챕터**》(, 이스 II: 잃어버린 고대왕국 이스 최종장)는 [니혼 팔콤이](../Page/니혼_팔콤.md "wikilink") 제작한 [액션 롤플레잉 게임이다](https://ko.wikipedia.org/wiki/액션_롤플레잉_게임 "wikilink"). 《[이스 I: 에인션트 이스 배니시드](../Page/이스_I:_에인션트_이스_배니시드.md "wikilink")》의 바로 뒷이야기를 그린 후속작으로, 1988년 6월 24일 [PC-8801](https://ko.wikipedia.org/wiki/PC-8801 "wikilink") 및 [PC-9801](https://ko.wikipedia.org/wiki/PC-9801 "wikilink")로 발매됐다. 1994년에 대한민국의 만트라가 [MS-DOS](../Page/MS-DOS.md "wikilink")로 《**이스 II 스페셜**》()이라는 제목의 확장판을 발매했다.\[1\]\[2\]

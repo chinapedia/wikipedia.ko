@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [e](https://ko.wikipedia.org/wiki/e).
+> This article is converted from Wikipedia: [역사채널e](https://ko.wikipedia.org/wiki/역사채널e).
 
 
 **역사채널e**는 [한국교육방송공사](../Page/한국교육방송공사.md "wikilink")(EBS)에서 방송하는 5분 정도 길이의 단편 역사 프로그램이다. 일정 기간 동안 방영한 에피소드의 내용을 모아 《역사 e》라는 이름의 책도 발간하는데, 2016년 12월까지 일반인들을 대상으로 한 서적 다섯 권이 출간되었다.

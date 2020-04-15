@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Love Me Do \( \)](https://ko.wikipedia.org/wiki/Love_Me_Do_\(_\)).
+> This article is converted from Wikipedia: [Love Me Do \(장재인의 음반\)](https://ko.wikipedia.org/wiki/Love_Me_Do_\(장재인의_음반\)).
 
 
 《**Love Me Do**》는 대한민국의 가수 [장재인](../Page/장재인.md "wikilink")의 디지털 싱글이다. 2015년 8월 28일에 발매되었다.

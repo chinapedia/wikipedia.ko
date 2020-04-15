@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Dear \( \)](https://ko.wikipedia.org/wiki/Dear_\(_\)).
+> This article is converted from Wikipedia: [Dear \(에이핑크의 음반\)](https://ko.wikipedia.org/wiki/Dear_\(에이핑크의_음반\)).
 
 
 《**Dear**》(디어)는 [대한민국](../Page/대한민국.md "wikilink")의 걸 그룹 [에이핑크](../Page/에이핑크.md "wikilink")의 스페셜 음반이다. [2016년](../Page/2016년.md "wikilink") [12월 15일에](../Page/12월_15일.md "wikilink") [플랜에이엔터테인먼트](https://ko.wikipedia.org/wiki/플랜에이엔터테인먼트 "wikilink")를 통해서 발매됐다.

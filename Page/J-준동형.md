@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [J-](https://ko.wikipedia.org/wiki/J-).
+> This article is converted from Wikipedia: [J-준동형](https://ko.wikipedia.org/wiki/J-준동형).
 
 
 [대수적 위상수학에서](../Page/대수적_위상수학.md "wikilink"), **J-준동형**(J-準同型, )은 [특수 직교군의](https://ko.wikipedia.org/wiki/특수_직교군 "wikilink") [호모토피 군에서](../Page/호모토피_군.md "wikilink") [초구](../Page/초구.md "wikilink")의 [호모토피 군으로](../Page/호모토피_군.md "wikilink") 가는 특별한 [군 준동형이다](https://ko.wikipedia.org/wiki/군_준동형 "wikilink").\[1\]

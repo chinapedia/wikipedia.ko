@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ \(GUN\)](https://ko.wikipedia.org/wiki/_\(GUN\)).
+> This article is converted from Wikipedia: [건 \(GUN\)](https://ko.wikipedia.org/wiki/건_\(GUN\)).
 
 
 《**건 (GUN)**》은 대한민국의 여성 음악 그룹 [나인뮤지스](../Page/나인뮤지스.md "wikilink")의 첫 번째 정규 음반 《[PRIMA DONNA](../Page/PRIMA_DONNA.md "wikilink")》의 타이틀 곡이다. 2013년 10월 14일에 발표하였다.

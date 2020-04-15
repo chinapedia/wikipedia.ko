@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ A-](https://ko.wikipedia.org/wiki/_A-).
+> This article is converted from Wikipedia: [내슈빌 A-팀](https://ko.wikipedia.org/wiki/내슈빌_A-팀).
 
 
 **내슈빌 A-팀**(The Nashville A-Team)은 [테네시 주 내슈빌의](../Page/내슈빌.md "wikilink") [세션 음악가](https://ko.wikipedia.org/wiki/세션_연주자 "wikilink") 집단을 일컫는 별칭이다. [엘비스 프레슬리](../Page/엘비스_프레슬리.md "wikilink"), [에디 아놀드](https://ko.wikipedia.org/wiki/에디_아놀드 "wikilink"), [팻시 클라인](../Page/팻시_클라인.md "wikilink"), [짐 리브스](../Page/짐_리브스.md "wikilink"), [밥 딜런](../Page/밥_딜런.md "wikilink"), [문 뮬리칸](https://ko.wikipedia.org/wiki/문_뮬리칸 "wikilink"), [제리 리 루이스](../Page/제리_리_루이스.md "wikilink"), [브렌다 리](../Page/브렌다_리.md "wikilink") 같은 대중 가수의 반주를 맡으며 1950년에서 1970년 초까지 두루 명성을 얻었다.\[1\]

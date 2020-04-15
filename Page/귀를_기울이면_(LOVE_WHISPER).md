@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  \(LOVE WHISPER\)](https://ko.wikipedia.org/wiki/__\(LOVE_WHISPER\)).
+> This article is converted from Wikipedia: [귀를 기울이면 \(LOVE WHISPER\)](https://ko.wikipedia.org/wiki/귀를_기울이면_\(LOVE_WHISPER\)).
 
 
 〈**귀를 기울이면 (LOVE WHISPER)**〉은 2017년 8월 1일 발매된 [여자친구](https://ko.wikipedia.org/wiki/여자친구 "wikilink")의 미니 [음반](../Page/음반.md "wikilink") 《[PARALLEL](../Page/PARALLEL_\(EP\).md "wikilink")》의 타이틀곡이다.

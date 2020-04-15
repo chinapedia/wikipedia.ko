@@ -31,6 +31,10 @@ X4+의 경우 오디오 기능이 강화되어 24-bit/38 kHz 이상의 Hi-Fi 음
 
 3초 간격으로 사진을 연속 촬영하여 GIF 이미지를 만드는 기능이다.
 
+### 후면 카메라
+
+카메라 성능은 그리 좋지 않지만, 목소리만으로도 사진을 찍을 수 있다. 음식 모드로 음식 사진을 예쁘게 찍을 수 있다.
+
 ### LG 페이
 
 후면에 WMC 솔루션이 내장되어 LG페이를 사용할 수 있다. [G6나](https://ko.wikipedia.org/wiki/LG_G6 "wikilink") [V30와](https://ko.wikipedia.org/wiki/LG_V30 "wikilink") 동일하게 NFC (근거리 무선 통신)와 MST (마그네틱 보안전송) 결제 방식을 지원한다. 이는 [대한민국](../Page/대한민국.md "wikilink") 내수용인 X4와 X4+에만 해당된다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [   COLLABORATION BEST 21 -   !-](https://ko.wikipedia.org/wiki/___COLLABORATION_BEST_21_-___!-).
+> This article is converted from Wikipedia: [쿠라키 마이×명탐정 코난 COLLABORATION BEST 21 -진실은 언제나 노래에 있어!-](https://ko.wikipedia.org/wiki/쿠라키_마이×명탐정_코난_COLLABORATION_BEST_21_-진실은_언제나_노래에_있어!-).
 
 
 {{음반 정보 |음반명 = 쿠라키 마이×명탐정 코난 COLLABORATION BEST 21 -진실은 언제나 노래에 있어\! |음반종류 = 베스트 음반 |가수명 = [쿠라키 마이](../Page/쿠라키_마이.md "wikilink") |사진 = |설명 = |발매년월일 =  |포맷 = |녹음 = [2000년](../Page/2000년.md "wikilink") \~ 2017년 |장르 = [J-pop](../Page/J-pop.md "wikilink")([애니메이션 음악](https://ko.wikipedia.org/wiki/애니메이션_음악 "wikilink")) |길이 = |언어 = |레이블 = [노던 뮤직](https://ko.wikipedia.org/wiki/노던_뮤직 "wikilink") |프로듀서 = 나가토 다이코, [아오야마 고쇼](../Page/아오야마_고쇼.md "wikilink"), 쿠라키 마이 |전앨범 = [Smile](../Page/Smile_\(쿠라키_마이의_음반\).md "wikilink")

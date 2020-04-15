@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [USS   \(SSN-23\)](https://ko.wikipedia.org/wiki/USS___\(SSN-23\)).
+> This article is converted from Wikipedia: [USS 지미 카터 \(SSN-23\)](https://ko.wikipedia.org/wiki/USS_지미_카터_\(SSN-23\)).
 
 
 **USS 지미 카터 (SSN-23)**는 미국 해군의 [시울프급 잠수함의](https://ko.wikipedia.org/wiki/시울프급_잠수함 "wikilink") 마지막 3번함이다.

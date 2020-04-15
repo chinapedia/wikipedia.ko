@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [60 NHK ](https://ko.wikipedia.org/wiki/60_NHK_).
+> This article is converted from Wikipedia: [제60회 NHK 홍백가합전](https://ko.wikipedia.org/wiki/제60회_NHK_홍백가합전).
 
 
 《**제60회 NHK 홍백가합전**》()는 [2009년](../Page/2009년.md "wikilink") [12월 31일에](../Page/12월_31일.md "wikilink") 방송된 통산 60회째인 [NHK 홍백가합전이다](../Page/NHK_홍백가합전.md "wikilink").

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:IUCN banner](https://ko.wikipedia.org/wiki/:IUCN_banner).
+> This article is converted from Wikipedia: [틀:IUCN banner](https://ko.wikipedia.org/wiki/틀:IUCN_banner).
 
 
 {{\#if:  | {{\#switch:  | IA =

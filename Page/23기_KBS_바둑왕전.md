@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [23 KBS ](https://ko.wikipedia.org/wiki/23_KBS_).
+> This article is converted from Wikipedia: [23기 KBS 바둑왕전](https://ko.wikipedia.org/wiki/23기_KBS_바둑왕전).
 
 
 **23기 KBS 바둑왕전**은 TV 속기전이 참가한 국내 바둑 기전이다. 결승에서는 [이창호](../Page/이창호.md "wikilink") 九단이 [조한승](https://ko.wikipedia.org/wiki/조한승 "wikilink") 七단을 2대 0로 꺾고 통산 7회 우승을 차지했다.

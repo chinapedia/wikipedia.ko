@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [MBC   2](https://ko.wikipedia.org/wiki/MBC___2).
+> This article is converted from Wikipedia: [안동MBC 즐거운 오후 2시](https://ko.wikipedia.org/wiki/안동MBC_즐거운_오후_2시).
 
 
 **안동MBC 즐거운 오후 2시**는 [안동MBC 표준FM](../Page/안동문화방송.md "wikilink") (AM 1017㎑, 표준FM 100.1㎒)에서 [2010년](../Page/2010년.md "wikilink") [11월 15일부터](../Page/11월_15일.md "wikilink") [2014년](../Page/2014년.md "wikilink") [4월 4일까지](../Page/4월_4일.md "wikilink") 월요일 \~ 금요일 오후 2시 15분 \~ 4시까지 방송한 경상북도 북부 지역의 라디오 프로그램이다.

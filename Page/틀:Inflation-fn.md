@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Inflation-fn](https://ko.wikipedia.org/wiki/:Inflation-fn).
+> This article is converted from Wikipedia: [틀:Inflation-fn](https://ko.wikipedia.org/wiki/틀:Inflation-fn).
 
 
 <includeonly>{{\#switch:}}} | AU = {{\#tag:ref|Australian Consumer Price Inflation figures follow the Long Term Linked Series provided in Australian Bureau of Statistics (2011) *6461.0 – Consumer Price Index: Concepts, Sources and Methods, 2011* as explained at §§3.10–3.11; this series comprises "from 1901 to 1914, the A Series Retail Price Index; from 1914 to 1946–47, the C Series Retail Price Index; from 1946-47 to 1948-49, a combination of the C Series Index, excluding rent, and the housing group of the CPI; and from 1948–49 onwards, the CPI." (3.10). Retrieved May 4, 2015|name="inflation-AU"|group=}}

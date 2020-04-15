@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ FA](https://ko.wikipedia.org/wiki/_FA).
+> This article is converted from Wikipedia: [트렝가누 FA](https://ko.wikipedia.org/wiki/트렝가누_FA).
 
 
 **트렝가누 축구 협회**(, )는 [말레이시아](../Page/말레이시아.md "wikilink") [트렝가누주](https://ko.wikipedia.org/wiki/트렝가누주 "wikilink")를 연고로 하는 [축구](../Page/축구.md "wikilink") 클럽이다. 이 팀은 [1956년](../Page/1956년.md "wikilink")에 창단되었으며, 현재 말레이시아 2부리그 [말레이시아 프리미어리그에](../Page/말레이시아_프리미어리그.md "wikilink") 출전하고 있다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [DAN DAN  ](https://ko.wikipedia.org/wiki/DAN_DAN__).
+> This article is converted from Wikipedia: [DAN DAN 마음이 이끌려](https://ko.wikipedia.org/wiki/DAN_DAN_마음이_이끌려).
 
 
 〈**DAN DAN 마음이 이끌려**〉()는 일본의 밴드 [FIELD OF VIEW의](https://ko.wikipedia.org/wiki/FIELD_OF_VIEW "wikilink") 네 번째 싱글로, 1996년 3월 11일 발매되었다. ([8cm CD](../Page/콤팩트_디스크.md "wikilink"): ZADL-1053) 곡의 작사는 [사카이 이즈미](../Page/사카이_이즈미.md "wikilink"), 작곡은 [오다 테츠로](https://ko.wikipedia.org/wiki/오다_테츠로 "wikilink"), 편곡은 하야마 타케시가 맡았다. 이 곡은 동년 [후지 TV에서](../Page/후지_TV.md "wikilink") 방송되었던 유명 애니메이션 《[드래곤볼 GT](../Page/드래곤볼_GT.md "wikilink")》의 주제가로 널리 알려져 있으며, 이 시리즈의 극장용 영화 《드래곤볼: 최강으로 가는 길》의 삽입곡이기도 하다. 또한 드래곤볼 캐릭터를 사용했던 [로토제약](../Page/로토제약.md "wikilink")의 광고에서 사용되기도 했다. 작사가 사카이 이즈미 ([ZARD](../Page/ZARD.md "wikilink"))는 동년 발매한 자신의 정규 앨범 《[TODAY IS ANOTHER DAY](../Page/TODAY_IS_ANOTHER_DAY.md "wikilink")》에 이 곡을 셀프 커버했으며, 이 때의 편곡자는 이케다 다이스케였다.

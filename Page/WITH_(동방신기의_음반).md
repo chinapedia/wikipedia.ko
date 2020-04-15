@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [WITH \( \)](https://ko.wikipedia.org/wiki/WITH_\(_\)).
+> This article is converted from Wikipedia: [WITH \(동방신기의 음반\)](https://ko.wikipedia.org/wiki/WITH_\(동방신기의_음반\)).
 
 
 | 이 앨범에 수록된 싱글                                                                |
@@ -104,7 +104,12 @@
 | **차트 진입 기간 - 18주** |       |          |
 |                    |       |          |
 
-## 각주
+## 릴리즈기념 구입자 한정 이벤트
+
+| <font size=2>|개최일                  | <font size=2>|도시                                                | <font size=2>|개최지             |
+| ---------------------------------- | --------------------------------------------------------------- | ----------------------------- |
+| <font size=2>|2015년 1월 11일 (1일 2회) | <font size=2>|[대판](https://ko.wikipedia.org/wiki/대판 "wikilink") | <font size=2>|오릭스 극장          |
+| <font size=2>|2015년 1월 13일 (1일 2회) | <font size=2>|[횡빈](https://ko.wikipedia.org/wiki/횡빈 "wikilink") | <font size=2>|파시피코 요코하마 국립대 홀 |
 
 ## 외부 링크
 

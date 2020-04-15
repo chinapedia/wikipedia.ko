@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [HTC ](https://ko.wikipedia.org/wiki/HTC_).
+> This article is converted from Wikipedia: [HTC 바이브](https://ko.wikipedia.org/wiki/HTC_바이브).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Vive_pre.jpeg "wikilink") **HTC 바이브**(HTC Vive)는 [HTC](https://ko.wikipedia.org/wiki/HTC "wikilink")와 [밸브 코퍼레이션이](../Page/밸브_코퍼레이션.md "wikilink") 개발한 [가상 현실 헤드셋의](https://ko.wikipedia.org/wiki/가상_현실_헤드셋 "wikilink") 하나로, 2016년 4월 5일 출시되었다. 이 헤드셋은 [룸 스케일](https://ko.wikipedia.org/wiki/룸_스케일 "wikilink") 기술을 활용하여 센서를 통해 방을 3차원 공간으로 변화시켜 주도록 설계되어 있으며, 가상 현실을 통해 사용자가 자연스럽게 탐험할 수 있고 걸을 수도 있으며 모션 추적 핸드헬드 컨트롤러를 사용하여 생생하게 물체를 조작하고, 정확도 있게 상호작용하며 통신하며 에워싸는듯한 환경을 경험할 수 있다.\[1\]

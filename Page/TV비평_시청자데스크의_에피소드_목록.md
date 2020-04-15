@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TV   ](https://ko.wikipedia.org/wiki/TV___).
+> This article is converted from Wikipedia: [TV비평 시청자데스크의 에피소드 목록](https://ko.wikipedia.org/wiki/TV비평_시청자데스크의_에피소드_목록).
 
 
 아래는 [KBS 1TV의](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink") 시청자 의견을 전달하는 TV비평 옴부즈맨 프로그램인 **《[TV비평 시청자데스크](../Page/TV비평_시청자데스크.md "wikilink")》**의 방영 목록이다.
@@ -120,7 +120,7 @@
 <td><p>1월 13일</p></td>
 <td><p>1. <시청자의 눈></p></td>
 <td><p>'마음의 소리',<br />
-'<a href="https://ko.wikipedia.org/wiki/해피선데이" title="wikilink">해피선데이</a> <a href="../Page/슈퍼맨이_돌아왔다.md" title="wikilink">슈퍼맨이 돌아왔다</a>' 등</p></td>
+'<a href="../Page/해피선데이.md" title="wikilink">해피선데이</a> <a href="../Page/슈퍼맨이_돌아왔다.md" title="wikilink">슈퍼맨이 돌아왔다</a>' 등</p></td>
 <td><p><a href="../Page/전주리.md" title="wikilink">전주리</a> / 아나운서<br />
 <a href="https://ko.wikipedia.org/wiki/조항리" title="wikilink">조항리</a> / 아나운서</p></td>
 <td></td>
@@ -148,7 +148,7 @@
 </tr>
 <tr class="even">
 <td><p>4. <TV를 말한다></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/해피선데이" title="wikilink">해피선데이</a> <a href="../Page/1박_2일.md" title="wikilink">1박 2일</a></p></td>
+<td><p><a href="../Page/해피선데이.md" title="wikilink">해피선데이</a> <a href="../Page/1박_2일.md" title="wikilink">1박 2일</a></p></td>
 <td><p>진민정 평가원</p></td>
 <td></td>
 <td></td>
@@ -196,7 +196,7 @@
 <td><p>710회</p></td>
 <td><p>1월 26일 목요일</p></td>
 <td><p>1. <시청자의 눈></p></td>
-<td><p>'<a href="https://ko.wikipedia.org/wiki/해피선데이" title="wikilink">해피선데이</a> <a href="../Page/1박_2일.md" title="wikilink">1박 2일</a>',<br />
+<td><p>'<a href="../Page/해피선데이.md" title="wikilink">해피선데이</a> <a href="../Page/1박_2일.md" title="wikilink">1박 2일</a>',<br />
 '수목드라마 <a href="https://ko.wikipedia.org/wiki/맨몸의_소방관" title="wikilink">맨몸의 소방관</a>',<br />
 '<a href="../Page/여유만만.md" title="wikilink">여유만만</a>'</p></td>
 <td><p><a href="../Page/전주리.md" title="wikilink">전주리</a> / 아나운서<br />
@@ -434,7 +434,7 @@
 <td><p>3월 9일 목요일</p></td>
 <td><p>1. <시청자의 눈></p></td>
 <td><p>'주말연속극 <a href="https://ko.wikipedia.org/wiki/아버지가_이상해" title="wikilink">아버지가 이상해</a>',<br />
-'<a href="https://ko.wikipedia.org/wiki/해피선데이" title="wikilink">해피선데이</a> <a href="../Page/슈퍼맨이_돌아왔다.md" title="wikilink">슈퍼맨이 돌아왔다</a>' 등</p></td>
+'<a href="../Page/해피선데이.md" title="wikilink">해피선데이</a> <a href="../Page/슈퍼맨이_돌아왔다.md" title="wikilink">슈퍼맨이 돌아왔다</a>' 등</p></td>
 <td><p><a href="../Page/전주리.md" title="wikilink">전주리</a> / 아나운서<br />
 <a href="https://ko.wikipedia.org/wiki/조항리" title="wikilink">조항리</a> / 아나운서</p></td>
 <td></td>
@@ -551,7 +551,7 @@
 <td><p>3월 31일</p></td>
 <td><p>1. <시청자의 눈></p></td>
 <td><p>'<a href="../Page/천상의_컬렉션.md" title="wikilink">천상의 컬렉션</a>',<br />
-'<a href="https://ko.wikipedia.org/wiki/해피선데이" title="wikilink">해피선데이</a> <a href="../Page/1박_2일.md" title="wikilink">1박 2일</a>',<br />
+'<a href="../Page/해피선데이.md" title="wikilink">해피선데이</a> <a href="../Page/1박_2일.md" title="wikilink">1박 2일</a>',<br />
 '<a href="../Page/살림하는_남자들.md" title="wikilink">살림하는 남자들</a>' 등</p></td>
 <td><p><a href="../Page/전주리.md" title="wikilink">전주리</a> / 아나운서<br />
 <a href="../Page/김선근.md" title="wikilink">김선근</a> / 아나운서</p></td>
@@ -1715,7 +1715,7 @@
 </tr>
 <tr class="even">
 <td><p>4. <TV를 말한다></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/해피선데이" title="wikilink">해피선데이</a> - <a href="../Page/슈퍼맨이_돌아왔다.md" title="wikilink">슈퍼맨이 돌아왔다</a></p></td>
+<td><p><a href="../Page/해피선데이.md" title="wikilink">해피선데이</a> - <a href="../Page/슈퍼맨이_돌아왔다.md" title="wikilink">슈퍼맨이 돌아왔다</a></p></td>
 <td><p>진민정 평가원</p></td>
 <td></td>
 <td></td>
@@ -1805,7 +1805,7 @@
 <td><p>1. <시청자의 눈></p></td>
 <td><p>'한국-베트남 수교 25주년 우정슈퍼쇼',<br />
 '평창동계올림픽 G-100 특별생방송 하나 된 열정, 이제는 평창',<br />
-'<a href="https://ko.wikipedia.org/wiki/해피선데이" title="wikilink">해피선데이</a> <a href="../Page/1박_2일.md" title="wikilink">1박 2일</a>' 등</p></td>
+'<a href="../Page/해피선데이.md" title="wikilink">해피선데이</a> <a href="../Page/1박_2일.md" title="wikilink">1박 2일</a>' 등</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1859,7 +1859,7 @@
 </tr>
 <tr class="odd">
 <td><p>3. &lt;어떻게 생각하세요?&gt;</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/해피선데이" title="wikilink">해피선데이</a> - <a href="../Page/슈퍼맨이_돌아왔다.md" title="wikilink">슈퍼맨이 돌아왔다</a></p></td>
+<td><p><a href="../Page/해피선데이.md" title="wikilink">해피선데이</a> - <a href="../Page/슈퍼맨이_돌아왔다.md" title="wikilink">슈퍼맨이 돌아왔다</a></p></td>
 <td><p>박연경, 황현조 / 대학연합 독서토론동아리 책아띠<br />
 송민준 / 대학연합 독서토론동아리 카타르시스<br />
 이규리 / 동덕여자대학교 경영학과</p></td>
@@ -2237,7 +2237,7 @@
 </tr>
 <tr class="odd">
 <td><p>3. &lt;어떻게 생각하세요?&gt;</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/해피선데이" title="wikilink">해피선데이</a> - <a href="https://ko.wikipedia.org/wiki/1박2일" title="wikilink">1박2일</a></p></td>
+<td><p><a href="../Page/해피선데이.md" title="wikilink">해피선데이</a> - <a href="https://ko.wikipedia.org/wiki/1박2일" title="wikilink">1박2일</a></p></td>
 <td><p>안창원,이다운,정상우,유지연 / 경희대학교 토론동아리 이감</p></td>
 <td></td>
 <td></td>
@@ -2451,7 +2451,7 @@
 <td><p>767회</p></td>
 <td><p>3월 2일</p></td>
 <td><p>1. <시청자의 눈></p></td>
-<td><p>'<a href="https://ko.wikipedia.org/wiki/해피선데이" title="wikilink">해피선데이</a> <a href="../Page/1박_2일.md" title="wikilink">1박 2일</a>',<br />
+<td><p>'<a href="../Page/해피선데이.md" title="wikilink">해피선데이</a> <a href="../Page/1박_2일.md" title="wikilink">1박 2일</a>',<br />
 '<a href="../Page/시사기획_창.md" title="wikilink">시사기획 창</a>',<br />
 '<a href="../Page/한국인의_밥상.md" title="wikilink">한국인의 밥상</a>'</p></td>
 <td><p><a href="../Page/강서은.md" title="wikilink">강서은</a> / 아나운서<br />
@@ -2567,7 +2567,7 @@
 <td><p>770회</p></td>
 <td><p>3월 23일</p></td>
 <td><p>1. <시청자의 눈></p></td>
-<td><p>'<a href="https://ko.wikipedia.org/wiki/해피선데이" title="wikilink">해피선데이</a> <a href="../Page/슈퍼맨이_돌아왔다.md" title="wikilink">슈퍼맨이 돌아왔다</a>',<br />
+<td><p>'<a href="../Page/해피선데이.md" title="wikilink">해피선데이</a> <a href="../Page/슈퍼맨이_돌아왔다.md" title="wikilink">슈퍼맨이 돌아왔다</a>',<br />
 '주말드라마 <a href="https://ko.wikipedia.org/wiki/같이_살래요" title="wikilink">같이 살래요</a>',<br />
 '공사창립특집 <a href="../Page/KBS_스페셜.md" title="wikilink">KBS 스페셜</a> 가야'</p></td>
 <td><p><a href="../Page/강서은.md" title="wikilink">강서은</a> / 아나운서<br />
@@ -2678,7 +2678,7 @@
 <td><p>4월 13일</p></td>
 <td><p>1. <시청자의 눈></p></td>
 <td><p>'월화드라마 <a href="../Page/우리가_만난_기적.md" title="wikilink">우리가 만난 기적</a>',<br />
-'<a href="https://ko.wikipedia.org/wiki/해피선데이" title="wikilink">해피선데이</a> - <a href="../Page/슈퍼맨이_돌아왔다.md" title="wikilink">슈퍼맨이 돌아왔다</a>',<br />
+'<a href="../Page/해피선데이.md" title="wikilink">해피선데이</a> - <a href="../Page/슈퍼맨이_돌아왔다.md" title="wikilink">슈퍼맨이 돌아왔다</a>',<br />
 '제주 4.3 70주년 특집 다큐멘터리 그 날'</p></td>
 <td><p><a href="../Page/강서은.md" title="wikilink">강서은</a> / 아나운서<br />
 <a href="https://ko.wikipedia.org/wiki/조항리" title="wikilink">조항리</a> / 아나운서</p></td>
@@ -2755,7 +2755,7 @@
 <td><p>775회</p></td>
 <td><p>4월 26일 목요일</p></td>
 <td><p>1. <시청자의 눈></p></td>
-<td><p>'<a href="https://ko.wikipedia.org/wiki/해피선데이" title="wikilink">해피선데이</a> <a href="../Page/슈퍼맨이_돌아왔다.md" title="wikilink">슈퍼맨이 돌아왔다</a>',<br />
+<td><p>'<a href="../Page/해피선데이.md" title="wikilink">해피선데이</a> <a href="../Page/슈퍼맨이_돌아왔다.md" title="wikilink">슈퍼맨이 돌아왔다</a>',<br />
 '수목드라마 <a href="../Page/추리의_여왕_2.md" title="wikilink">추리의 여왕 2</a>',<br />
 '2018 장애 이해 드라마 반짝반짝 들리는'</p></td>
 <td><p><a href="../Page/강서은.md" title="wikilink">강서은</a> / 아나운서<br />

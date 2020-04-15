@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [U- ](https://ko.wikipedia.org/wiki/U-_).
+> This article is converted from Wikipedia: [U-플라이 얼라이언스](https://ko.wikipedia.org/wiki/U-플라이_얼라이언스).
 
 
 **U-플라이 얼라이언스**()는 세계 최초의 [저가 항공사](https://ko.wikipedia.org/wiki/저가_항공사 "wikilink") 간의 [항공 동맹이다](https://ko.wikipedia.org/wiki/항공_동맹 "wikilink"). 2016년 1월, [홍콩 익스프레스 항공](../Page/홍콩_익스프레스_항공.md "wikilink"), [럭키 에어](../Page/럭키_에어.md "wikilink"), [우루무치 항공](https://ko.wikipedia.org/wiki/우루무치_항공 "wikilink"), [웨스트 에어이](../Page/웨스트_에어_\(중화인민공화국\).md "wikilink") 창설하였다. 2016년 7월 24일, 대한민국의 [이스타항공](../Page/이스타항공.md "wikilink")이 동맹에 참여하였다.\[1\]

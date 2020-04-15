@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KBS  \(\)](https://ko.wikipedia.org/wiki/KBS__\(\)).
+> This article is converted from Wikipedia: [KBS 뉴스타임 \(주말\)](https://ko.wikipedia.org/wiki/KBS_뉴스타임_\(주말\)).
 
 
 《**KBS 뉴스타임 (주말)**》()은 [대한민국](../Page/대한민국.md "wikilink") [KBS 2TV에서](../Page/KBS_2TV.md "wikilink") [토요일](../Page/토요일.md "wikilink") 오전 9시에 [KBS 2TV에서](../Page/KBS_2TV.md "wikilink") 방송되었던 [KBS 2TV의 주말뉴스 프로그램이다](../Page/한국방송공사의_뉴스_프로그램.md "wikilink").

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Sakai Izumi.png](https://ko.wikipedia.org/wiki/:Sakai_Izumi.png).
+> This article is converted from Wikipedia: [파일:Sakai Izumi.png](https://ko.wikipedia.org/wiki/파일:Sakai_Izumi.png).
 
 
 ## 파일의 설명

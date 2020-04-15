@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [2TV   ](https://ko.wikipedia.org/wiki/2TV___).
+> This article is converted from Wikipedia: [2TV 생생정보의 에피소드 목록](https://ko.wikipedia.org/wiki/2TV_생생정보의_에피소드_목록).
 
 
 아래는 [KBS 2TV의](../Page/KBS_2TV.md "wikilink") **\<[2TV 생생정보](../Page/2TV_생생정보.md "wikilink")\>**의 방영 목록이다.

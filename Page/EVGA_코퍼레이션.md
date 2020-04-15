@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [EVGA ](https://ko.wikipedia.org/wiki/EVGA_).
+> This article is converted from Wikipedia: [EVGA 코퍼레이션](https://ko.wikipedia.org/wiki/EVGA_코퍼레이션).
 
 
 [thumb](https://ko.wikipedia.org/wiki/파일:EVGA_Logo.svg "wikilink") [thumb](https://ko.wikipedia.org/wiki/파일:Evga_9800_gx2.png "wikilink") [지포스](../Page/지포스.md "wikilink") 9800 GX2 [PCIe](https://ko.wikipedia.org/wiki/PCIe "wikilink") [그래픽 카드](../Page/그래픽_카드.md "wikilink").\]\] **EVGA 코퍼레이션**(EVGA Corporation)은 소비자 시장을 대상으로 [엔비디아](../Page/엔비디아.md "wikilink") [GPU](../Page/그래픽_처리_장치.md "wikilink") 기반 그래픽 카드와 [인텔](../Page/인텔.md "wikilink") [칩셋](../Page/칩셋.md "wikilink") 기반 [메인보드](../Page/메인보드.md "wikilink")를 생산하는 미국의 컴퓨터 [하드웨어](https://ko.wikipedia.org/wiki/하드웨어 "wikilink") 기업이다. 2010년부터 이 기업은 다른 컴퓨터 부품을 포트폴리오에 추가하기 시작했는데, 여기에는 [게이밍 노트북](../Page/게이밍_컴퓨터.md "wikilink"), [전원공급장치](https://ko.wikipedia.org/wiki/전원공급장치 "wikilink"), [컴퓨터 케이스](https://ko.wikipedia.org/wiki/컴퓨터_케이스 "wikilink"), [게이밍 마우스를](../Page/마우스.md "wikilink") 포함한다. 1999년 7월에 설립되었으며 본사는 [캘리포니아주](../Page/캘리포니아주.md "wikilink") [브레아에](../Page/브레아_\(캘리포니아주\).md "wikilink") 위치해 있다.

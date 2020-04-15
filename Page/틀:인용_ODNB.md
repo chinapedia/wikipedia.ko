@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [: ODNB](https://ko.wikipedia.org/wiki/:_ODNB).
+> This article is converted from Wikipedia: [틀:인용 ODNB](https://ko.wikipedia.org/wiki/틀:인용_ODNB).
 
 
 \=

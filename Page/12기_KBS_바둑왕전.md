@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [12 KBS ](https://ko.wikipedia.org/wiki/12_KBS_).
+> This article is converted from Wikipedia: [12기 KBS 바둑왕전](https://ko.wikipedia.org/wiki/12기_KBS_바둑왕전).
 
 
 **12기 KBS 바둑왕전**은 [1993년](../Page/1993년.md "wikilink") TV 속기전이 참가한 국내 바둑 기전이다. 결승에서는 [조훈현](../Page/조훈현.md "wikilink") 九단이 [유창혁](../Page/유창혁.md "wikilink") 六단을 2대 0로 꺾고 통산 7회 우승을 달성했다.

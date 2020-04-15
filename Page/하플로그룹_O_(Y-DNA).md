@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ O \(Y-DNA\)](https://ko.wikipedia.org/wiki/_O_\(Y-DNA\)).
+> This article is converted from Wikipedia: [하플로그룹 O \(Y-DNA\)](https://ko.wikipedia.org/wiki/하플로그룹_O_\(Y-DNA\)).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Haplogrupo_O_\(ADN-Y\)_edit.png "wikilink") **하플로그룹 O-M175**는 [인류 Y-염색체 DNA 하플로그룹](https://ko.wikipedia.org/wiki/인류_Y-염색체_DNA_하플로그룹 "wikilink") 중 하나이다. [동아시아](https://ko.wikipedia.org/wiki/동아시아 "wikilink")와 [동남아시아](../Page/동남아시아.md "wikilink") 지역에서 가장 흔히 발견되며, [중앙아시아](../Page/중앙아시아.md "wikilink"), [남아시아](../Page/남아시아.md "wikilink"), [오세아니아](../Page/오세아니아.md "wikilink"), [마다가스카르](../Page/마다가스카르.md "wikilink") 등지에서도 발견된다. 하플로그룹 NO의 직계 후손이며, 크게 O1과 O2로 나뉠 수 있다.

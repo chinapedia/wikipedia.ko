@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ICD-10  I:    ](https://ko.wikipedia.org/wiki/ICD-10__I:____).
+> This article is converted from Wikipedia: [ICD-10 챕터 I: 특정 전염병 및 기생충병](https://ko.wikipedia.org/wiki/ICD-10_챕터_I:_특정_전염병_및_기생충병).
 
 
 **[ICD-10](../Page/ICD-10.md "wikilink")** 목록의 1번째 챕터이다. A00\~B99까지를 포괄하며, 특정 전염병 및 기생충병(Certain infectious and parasitic diseases)에 관한 것이다.

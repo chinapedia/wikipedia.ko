@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TBS   9 ](https://ko.wikipedia.org/wiki/TBS___9_).
+> This article is converted from Wikipedia: [TBS 금요일 밤 9시 드라마](https://ko.wikipedia.org/wiki/TBS_금요일_밤_9시_드라마).
 
 
 **TBS 금요일 밤 9시 드라마**()는 [TBS 텔레비전](../Page/TBS_텔레비전.md "wikilink") [계열에서](../Page/도쿄_방송_홀딩스.md "wikilink") 매주 금요일의 [드라마](https://ko.wikipedia.org/wiki/드라마 "wikilink")이다.

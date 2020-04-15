@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [UEFA  ](https://ko.wikipedia.org/wiki/UEFA__).
+> This article is converted from Wikipedia: [UEFA 네이션스리그 참가국](https://ko.wikipedia.org/wiki/UEFA_네이션스리그_참가국).
 
 
 다음은 [UEFA 네이션스리그 첫 시즌부터](https://ko.wikipedia.org/wiki/2018-19년_UEFA_네이션스리그 "wikilink") 지금까지 각 팀이 소속된 리그가 제시되어 있다.

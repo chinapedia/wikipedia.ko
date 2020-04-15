@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [No Man\'s Land \(\)](https://ko.wikipedia.org/wiki/No_Man\'s_Land_\(\)).
+> This article is converted from Wikipedia: [No Man\'s Land \(노래\)](https://ko.wikipedia.org/wiki/No_Man\'s_Land_\(노래\)).
 
 
 〈**No Man's Land**〉는 [빌리 조엘의](../Page/빌리_조엘.md "wikilink") 싱글이다. 1993년 발매된 그의 음반 《[River of Dreams](https://ko.wikipedia.org/wiki/River_of_Dreams "wikilink")》의 세 번째 싱글이다. 이 노래는 교외 지역의 성장과 그것의 부정적인 환경 및 사회적 측면에 대한 곡이다. 그것은 아마 [롱아일랜드](../Page/롱아일랜드.md "wikilink")를 의미하는 듯 하다 (가사 中 "lots more to read about Lolita and suburban lust"은 에이미 피셔에 대한 간접적인 언급이다). 이 곡은 1993년 8월 《[레이트 쇼 위드 데이비드 레터먼](../Page/레이트_쇼_위드_데이비드_레터먼.md "wikilink")》에서 첫 번째로 공연되었다.

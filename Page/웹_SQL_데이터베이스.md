@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ SQL ](https://ko.wikipedia.org/wiki/_SQL_).
+> This article is converted from Wikipedia: [웹 SQL 데이터베이스](https://ko.wikipedia.org/wiki/웹_SQL_데이터베이스).
 
 
 **웹 SQL 데이터베이스**(Web SQL Database)는 다양한 [SQL](../Page/SQL.md "wikilink")을 사용하여 질의할 수 있는 [데이터베이스](../Page/데이터베이스.md "wikilink")의 데이터 저장을 위한 웹 페이지 [API](../Page/API.md "wikilink")이다.\[1\]\[2\]

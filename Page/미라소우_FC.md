@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
+> This article is converted from Wikipedia: [미라소우 FC](https://ko.wikipedia.org/wiki/미라소우_FC).
 
 
 **미라소우 푸치보우 클루비**()는 [1925년](../Page/1925년.md "wikilink")에 창단한 [브라질](../Page/브라질.md "wikilink") [상파울루주](../Page/상파울루주.md "wikilink") [미라소우](https://ko.wikipedia.org/wiki/미라소우 "wikilink")를 연고로 하는 [축구](../Page/축구.md "wikilink")팀이다. [2018년](../Page/2018년.md "wikilink") 현재 전국 4부 리그 [캄페오나투 브라질레이루 세리이 D와](../Page/캄페오나투_브라질레이루_세리이_D.md "wikilink") 상파울루 주리그 [캄페오나투 파울리스타에](../Page/캄페오나투_파울리스타.md "wikilink") 참가하고 있다. 구단의 상징색은 노랑과 초록이며, 상징물은 [사자](../Page/사자.md "wikilink")이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Alias \(\)](https://ko.wikipedia.org/wiki/Alias_\(\)).
+> This article is converted from Wikipedia: [Alias \(명령어\)](https://ko.wikipedia.org/wiki/Alias_\(명령어\)).
 
 
 [컴퓨팅](../Page/컴퓨팅.md "wikilink")에서 **alias**는 다양한 [명령 줄 인터프리터](../Page/명령_줄_인터페이스.md "wikilink")(워드를 다른 문자열로 치환할 수 있는 [유닉스 셸](../Page/유닉스_셸.md "wikilink"), [4DOS](../Page/4DOS.md "wikilink")/[4NT](https://ko.wikipedia.org/wiki/4NT "wikilink"), [윈도우 파워셸](https://ko.wikipedia.org/wiki/윈도우_파워셸 "wikilink") 등의 [셸](../Page/셸.md "wikilink"))의 명령어이다. 시스템 명령어를 단축시키기 위해 주로 사용되며, 그 외에 주기적으로 사용되는 명령어에 기본 변수를 추가하기 위해 사용된다. [MS-DOS](../Page/MS-DOS.md "wikilink")와 [마이크로소프트 윈도우](../Page/마이크로소프트_윈도우.md "wikilink") 운영 체제의 앨리어스 기능은 [도스키](https://ko.wikipedia.org/wiki/도스키 "wikilink")(DOSKey) 명령 줄 유틸리티를 통해 제공된다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  Crystal](https://ko.wikipedia.org/wiki/__Crystal).
+> This article is converted from Wikipedia: [미소녀전사 세일러문 Crystal](https://ko.wikipedia.org/wiki/미소녀전사_세일러문_Crystal).
 
 
 《**미소녀전사 세일러문 Crystal**》([일본어](../Page/일본어.md "wikilink") : )은 [일본](../Page/일본.md "wikilink")의 만화가 [타케우치 나오코가](../Page/타케우치_나오코.md "wikilink") 제작한 [만화](../Page/만화.md "wikilink") 《[미소녀전사 세일러문](../Page/달의_요정_세일러문_\(만화\).md "wikilink")》을 바탕으로 제작되고 [니코니코 동화와](../Page/니코니코_동화.md "wikilink") [도쿄 MX](https://ko.wikipedia.org/wiki/도쿄_MX "wikilink") 및 기타 방송국에서 방영된 [애니메이션](../Page/애니메이션.md "wikilink")이다.

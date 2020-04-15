@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Sunrize Izumo+Seto 1998](https://ko.wikipedia.org/wiki/:Sunrize_Izumo+Seto_1998).
+> This article is converted from Wikipedia: [틀:Sunrize Izumo+Seto 1998](https://ko.wikipedia.org/wiki/틀:Sunrize_Izumo+Seto_1998).
 
 
 <table>

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Overlay](https://ko.wikipedia.org/wiki/:Overlay).
+> This article is converted from Wikipedia: [모듈:Overlay](https://ko.wikipedia.org/wiki/모듈:Overlay).
 
 
 \-- this module implements [Template:Overlay](https://ko.wikipedia.org/wiki/Template:Overlay "wikilink") -- imported from [:en:Module:Overlay](https://ko.wikipedia.org/wiki/:en:Module:Overlay "wikilink") local p = {}

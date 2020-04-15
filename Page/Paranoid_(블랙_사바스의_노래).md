@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Paranoid \(  \)](https://ko.wikipedia.org/wiki/Paranoid_\(__\)).
+> This article is converted from Wikipedia: [Paranoid \(블랙 사바스의 노래\)](https://ko.wikipedia.org/wiki/Paranoid_\(블랙_사바스의_노래\)).
 
 
 〈**Paranoid**〉는 두 번째 음반 《[Paranoid](../Page/Paranoid_\(음반\).md "wikilink")》에 수록된 [영국](../Page/영국.md "wikilink")의 록 밴드 [블랙 사바스의](../Page/블랙_사바스.md "wikilink") 곡이다. 그것은 이 음반의 첫 번째 싱글이고, B 사이드는 〈[The Wizard](https://ko.wikipedia.org/wiki/The_Wizard_\(블랙_사바스의_노래\) "wikilink")〉이다. 이 곡은 [영국 싱글 차트에서](https://ko.wikipedia.org/wiki/영국_싱글_차트 "wikilink") 4위에 올랐고 [빌보드 핫 100에서](../Page/빌보드_핫_100.md "wikilink") 61위에 올랐다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ IP ](https://ko.wikipedia.org/wiki/_IP_).
+> This article is converted from Wikipedia: [반도체 IP 코어](https://ko.wikipedia.org/wiki/반도체_IP_코어).
 
 
 [전자 설계에서](https://ko.wikipedia.org/wiki/전자_설계_자동화 "wikilink") **반도체 IP 코어**(Semiconductor intellectual property core, IP core), **IP 블록**(IP block)은 [지식 재산권이](../Page/지식_재산권.md "wikilink") 되는 논리, 셀, [집적 회로](../Page/집적_회로.md "wikilink") 레이아웃 설계의 재이용 가능한 유닛이다. IP 코어는 다른 업체에 라이선스하거나 하나의 사업체에서 전적으로 소유, 사용할 수 있다.

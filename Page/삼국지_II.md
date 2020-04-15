@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ II](https://ko.wikipedia.org/wiki/_II).
+> This article is converted from Wikipedia: [삼국지 II](https://ko.wikipedia.org/wiki/삼국지_II).
 
 
 《**삼국지 II**》(三國志II, Romance of the Three Kingdoms II)는 턴 기반 [전략 게임인](https://ko.wikipedia.org/wiki/전략_게임 "wikilink") [삼국지](../Page/삼국지_\(비디오_게임_시리즈\).md "wikilink") 시리즈 중 두 번째 게임으로, [코에이](../Page/코에이.md "wikilink")가 개발하였으며 역사 소설 [삼국지연의](../Page/삼국지연의.md "wikilink")에 기반을 두고 있다. 1989년 PC-8801, PC-9801용으로 첫 출시되었다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Webarchive](https://ko.wikipedia.org/wiki/:Webarchive).
+> This article is converted from Wikipedia: [모듈:Webarchive](https://ko.wikipedia.org/wiki/모듈:Webarchive).
 
 
 \--[---------------------------------- Lua module implementing the {{webarchive}} template. A merger of the functionality of three templates: {{wayback}}, {{webcite}} and {{cite archives}}](https://ko.wikipedia.org/wiki/----------------------------------_Lua_module_implementing_the_{{webarchive}}_template._A_merger_of_the_functionality_of_three_templates:_{{wayback}},_{{webcite}}_and_{{cite_archives}} "wikilink")

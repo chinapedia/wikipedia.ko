@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ \(TV \)](https://ko.wikipedia.org/wiki/_\(TV_\)).
+> This article is converted from Wikipedia: [캐슬록 \(TV 드라마\)](https://ko.wikipedia.org/wiki/캐슬록_\(TV_드라마\)).
 
 
 **캐슬록**은 [훌루](../Page/훌루.md "wikilink")에서 곧 방송할 미국의 심리 공포 웹 TV 드라마 시리즈이다. [스티븐 킹의](../Page/스티븐_킹.md "wikilink") 창작물을 바탕으로 했으며, 가상의 도시인 [캐슬록](../Page/캐슬록.md "wikilink")의 인물들과 주제를 엮어낸다.

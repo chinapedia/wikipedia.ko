@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TM ](https://ko.wikipedia.org/wiki/TM_).
+> This article is converted from Wikipedia: [TM 포럼](https://ko.wikipedia.org/wiki/TM_포럼).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:TM_Forum_Logo.png "wikilink") **TM 포럼**(TM Forum, 과거 이름: **TeleManagement Forum**, **IPsphere Forum**, **OSI/Network Management Forum**)은 통신 및 엔터테인먼트 산업에서 서비스 제공자와 그들의 공급업체를 위한 비영리 업계 협회이다. **IPsphere 포럼** 그룹이 2008년에 포함되었다.

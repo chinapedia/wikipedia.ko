@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Blackbird \( \)](https://ko.wikipedia.org/wiki/Blackbird_\(_\)).
+> This article is converted from Wikipedia: [Blackbird \(비틀즈의 노래\)](https://ko.wikipedia.org/wiki/Blackbird_\(비틀즈의_노래\)).
 
 
 〈**Blackbird**〉는 1968년 발매된 [비틀즈](../Page/비틀즈.md "wikilink")의 음반 《[The Beatles](../Page/The_Beatles_\(음반\).md "wikilink")》에 수록된 곡이고, [폴 매카트니의](../Page/폴_매카트니.md "wikilink") 솔로 활동으로 공연되었다. 이 곡은 비록 [레논-매카트니](../Page/레논-매카트니.md "wikilink")로 알려져 있지만 매카트니가 작곡했다. 매카트니는 이 곡의 가사가 1960년대 [미국](../Page/미국.md "wikilink")의 불행한 인종 관계뿐만 아니라 [인도](../Page/인도.md "wikilink")의 [리시케시](../Page/리시케시.md "wikilink")의 블랙버드의 부름을 듣고 영감을 받았다고 말했다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ NX](https://ko.wikipedia.org/wiki/_NX).
+> This article is converted from Wikipedia: [지멘스 NX](https://ko.wikipedia.org/wiki/지멘스_NX).
 
 
 **NX**(과거 이름: NX 유니그래픽스/NX Unigraphics) 또는 **UG**는 고급 하이엔드 [CAD](../Page/컴퓨터_지원_설계.md "wikilink")/[CAM](../Page/컴퓨터_지원_제조.md "wikilink")/[CAE](https://ko.wikipedia.org/wiki/컴퓨터_지원_공학 "wikilink") 소프트웨어 패키지의 하나로, 원래 유니그래픽스에서 개발되었으나 2007년 이후에는\[1\] [지멘스 PLM 소프트웨어가](https://ko.wikipedia.org/wiki/지멘스_PLM_소프트웨어 "wikilink") 개발하고 있다.\[2\]

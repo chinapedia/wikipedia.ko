@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  GO!GO!](https://ko.wikipedia.org/wiki/__GO!GO!).
+> This article is converted from Wikipedia: [좀 더 GO!GO!](https://ko.wikipedia.org/wiki/좀_더_GO!GO!).
 
 
 〈**좀 더 GO\!GO\!**〉()는 [대한민국](../Page/대한민국.md "wikilink")의 걸 그룹 [에이핑크](../Page/에이핑크.md "wikilink")의 일본에서의 여덟 번째 [싱글로](../Page/싱글_\(음악\).md "wikilink") [유니버설 뮤직 재팬을](https://ko.wikipedia.org/wiki/유니버설_뮤직_재팬 "wikilink") 통해서 [2017년](../Page/2017년.md "wikilink") [7월 25일에](../Page/7월_25일.md "wikilink") 발매됐다.

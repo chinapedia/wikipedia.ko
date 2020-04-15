@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [   FC](https://ko.wikipedia.org/wiki/___FC).
+> This article is converted from Wikipedia: [배리 타운 유나이티드 FC](https://ko.wikipedia.org/wiki/배리_타운_유나이티드_FC).
 
 
 **배리 타운 유나이티드 FC**(, )는 [배리를](../Page/배리_\(웨일스\).md "wikilink") 연고로 하는 [웨일스](../Page/웨일스.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다. 현재는 [웨일스 프리미어리그에](https://ko.wikipedia.org/wiki/웨일스_프리미어리그 "wikilink") 참가하고 있다.

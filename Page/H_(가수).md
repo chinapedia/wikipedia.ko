@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [H \(\)](https://ko.wikipedia.org/wiki/H_\(\)).
+> This article is converted from Wikipedia: [H \(가수\)](https://ko.wikipedia.org/wiki/H_\(가수\)).
 
 
 **현승민**([1976년](../Page/1976년.md "wikilink") [1월 17일](../Page/1월_17일.md "wikilink") \~ )은 예명 **H**로 알려진 [대한민국](../Page/대한민국.md "wikilink")의 [가수](https://ko.wikipedia.org/wiki/가수 "wikilink") 겸 [작사가](https://ko.wikipedia.org/wiki/작사가 "wikilink")이다.

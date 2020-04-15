@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ X](https://ko.wikipedia.org/wiki/_X).
+> This article is converted from Wikipedia: [아이폰 X](https://ko.wikipedia.org/wiki/아이폰_X).
 
 
 **아이폰 X**(iPhone X, 아이폰 텐\[1\])은 [애플이](https://ko.wikipedia.org/wiki/애플_\(기업\) "wikilink") 설계, 개발한 [스마트폰](../Page/스마트폰.md "wikilink")의 하나이다. 2017년 9월 12일에 [애플 파크](../Page/애플_파크.md "wikilink") 캠퍼스에 있는 [스티브 잡스 시어터에서](https://ko.wikipedia.org/wiki/스티브_잡스_시어터 "wikilink") 애플의 CEO [팀 쿡에](../Page/팀_쿡.md "wikilink") 의해 [아이폰 8, 아이폰 8 플러스와](../Page/아이폰_8.md "wikilink") 함께 발표되었으며 아이폰 X은 아이폰의 10주년을 기념하기 위해서 개발하였다. X은 로마 숫자 10을 뜻하여 '아이폰 텐' 이라고 부른다.

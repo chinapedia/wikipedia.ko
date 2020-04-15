@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [JIBS 8 ](https://ko.wikipedia.org/wiki/JIBS_8_).
+> This article is converted from Wikipedia: [JIBS 8 뉴스](https://ko.wikipedia.org/wiki/JIBS_8_뉴스).
 
 
 **JIBS 8 뉴스**는 대한민국 [JIBS](https://ko.wikipedia.org/wiki/JIBS "wikilink")에서 평일 저녁 8시 35분, 주말 저녁 8시 30분에 방송되는 [JIBS의](../Page/제주국제자유도시방송.md "wikilink") 메인뉴스 프로그램이다.

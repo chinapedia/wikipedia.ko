@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FC  ](https://ko.wikipedia.org/wiki/FC__).
+> This article is converted from Wikipedia: [FC 아르제슈 피테슈티](https://ko.wikipedia.org/wiki/FC_아르제슈_피테슈티).
 
 
 **FC 아르제슈 피테슈티**(Fotbal Club Argeș Pitești)는 [피테슈티](https://ko.wikipedia.org/wiki/피테슈티 "wikilink")를 연고로 하던 [루마니아](../Page/루마니아.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다. [1953년](../Page/1953년.md "wikilink")에 창단되었으며 [2013년](../Page/2013년.md "wikilink")에 해체되었다.

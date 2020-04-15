@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ F.  ](https://ko.wikipedia.org/wiki/_F.__).
+> This article is converted from Wikipedia: [후지코 F. 후지오 뮤지엄](https://ko.wikipedia.org/wiki/후지코_F._후지오_뮤지엄).
 
 
 </ref> | 개관일 = [2011년](../Page/2011년.md "wikilink")(헤이세 23년) [9월 3일](../Page/9월_3일.md "wikilink") | 폐관일 = | 소재지 = [가나가와현](../Page/가나가와현.md "wikilink") [가와사키 시](https://ko.wikipedia.org/wiki/가와사키_시 "wikilink") [다마 구](https://ko.wikipedia.org/wiki/다마_구 "wikilink") 나가오 2 정목 8-1 | 소재지 우편 번호 = 〒214-0023 | 위치 =  | 지도국 코드 = JP | 좌표 오른쪽 상단 표시 = | 액세스 = 무코가오카유엔역 · [슈쿠가와라 역에서](https://ko.wikipedia.org/wiki/슈쿠가와라_역_\(가나가와_현\) "wikilink") 도보로 15 \~ 16분

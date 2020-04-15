@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [IND 8 ](https://ko.wikipedia.org/wiki/IND_8_).
+> This article is converted from Wikipedia: [IND 8번로 선](https://ko.wikipedia.org/wiki/IND_8번로_선).
 
 
 **IND 8번로 선**(IND Eighth Avenue Line)은 [미국](../Page/미국.md "wikilink") [뉴욕](../Page/뉴욕.md "wikilink")에 있는 [뉴욕 지하철의](../Page/뉴욕_지하철.md "wikilink") 철도 노선이며 [B 디비전](https://ko.wikipedia.org/wiki/B_디비전 "wikilink")(B Division)에 속해있다. 1932 년에 개설 된 이 노선은 [인디펜던트 서브웨이 시스템](https://ko.wikipedia.org/wiki/인디펜던트_서브웨이_시스템 "wikilink")(IND)의 첫 번째 노선이었으며, *8번로 지하철(Eighth Avenue Subway)* 란 이름은 뉴요커들에 의해 전체 IND 시스템에도 적용되었다.\[1\]\[2\]\[3\] 대부분의 노선은 4개의 선로를 가지고 있는데, 북쪽과 남쪽의 끝 부분을 제외하고 각 방향으로 하나의 완행 선로와 급행 선로가 있으며, 두 개의 급행 선로만 계속 이어진다. 노선은 서쪽에서 동쪽으로 선로 A1, A3, A4 및 A2가있는 "A" 선으로 [신호를](https://ko.wikipedia.org/wiki/:en:New_York_City_Subway_chaining "wikilink") 받으며,\[4\] 남쪽 끝에서 약 800,\[5\] 북쪽 끝에서 1540(피트 단위로 측정)까지 운행한다.\[6\]\[7\]
@@ -410,7 +410,7 @@
 <td><p>모두 정차</p></td>
 <td></td>
 <td><p>1932년 9월 10일[46]</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/BMT_캐나시_선" title="wikilink">BMT 캐나시 선</a> (): <a href="https://ko.wikipedia.org/wiki/8번로_역_(BMT_캐나시_선)" title="wikilink">8번로</a></p></td>
+<td><p><a href="../Page/BMT_캐나시_선.md" title="wikilink">BMT 캐나시 선</a> (): <a href="https://ko.wikipedia.org/wiki/8번로_역_(BMT_캐나시_선)" title="wikilink">8번로</a></p></td>
 <td></td>
 </tr>
 <tr class="even">

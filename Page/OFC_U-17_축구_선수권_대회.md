@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [OFC U-17   ](https://ko.wikipedia.org/wiki/OFC_U-17___).
+> This article is converted from Wikipedia: [OFC U-17 축구 선수권 대회](https://ko.wikipedia.org/wiki/OFC_U-17_축구_선수권_대회).
 
 
 **OFC U-17 축구 선수권 대회**(OFC U-17 Championship)는 [오세아니아 축구 연맹](../Page/오세아니아_축구_연맹.md "wikilink")(OFC)이 주관하는 17세 이하 [축구](../Page/축구.md "wikilink") 국가대표팀 간의 국가대항전이다. 이 대회는 [FIFA U-17 월드컵의](../Page/FIFA_U-17_월드컵.md "wikilink") 오세아니아 지역 예선을 겸한다.

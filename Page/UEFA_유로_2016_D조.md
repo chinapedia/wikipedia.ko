@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [UEFA  2016 D](https://ko.wikipedia.org/wiki/UEFA__2016_D).
+> This article is converted from Wikipedia: [UEFA 유로 2016 D조](https://ko.wikipedia.org/wiki/UEFA_유로_2016_D조).
 
 
 다음은 **[UEFA 유로 2016](https://ko.wikipedia.org/wiki/UEFA_유로_2016 "wikilink") 조별 리그 D조** 경기 결과이다.

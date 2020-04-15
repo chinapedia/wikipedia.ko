@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [XVIII  ](https://ko.wikipedia.org/wiki/XVIII__).
+> This article is converted from Wikipedia: [XVIII 디쳄브레 역](https://ko.wikipedia.org/wiki/XVIII_디쳄브레_역).
 
 
 **XVIII 디쳄브레 역** (XVIII Dicembre)은 [토리노 지하철의](../Page/토리노_지하철.md "wikilink") 역이다. 철도역인 [토리노 포르타 수사 역](https://ko.wikipedia.org/wiki/토리노_포르타_수사_역 "wikilink") 부근의 12월 18일 광장 (Piazza XVIII Dicembre)에 위치해 있다. 2006년 노선 1차 구간의 역 중 하나로 문을 열었으며, 2007년 [포르타 누오바 역까지](../Page/포르타_누오바_역.md "wikilink") 2차 연장될 때까지는 토리노 지하철의 시종착역이었다.

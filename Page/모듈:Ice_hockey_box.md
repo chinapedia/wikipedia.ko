@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Ice hockey box](https://ko.wikipedia.org/wiki/:Ice_hockey_box).
+> This article is converted from Wikipedia: [모듈:Ice hockey box](https://ko.wikipedia.org/wiki/모듈:Ice_hockey_box).
 
 
 \-- implements [template:IceHockeybox](https://ko.wikipedia.org/wiki/template:IceHockeybox "wikilink") local p = {}

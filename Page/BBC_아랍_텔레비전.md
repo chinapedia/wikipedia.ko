@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [BBC  ](https://ko.wikipedia.org/wiki/BBC__).
+> This article is converted from Wikipedia: [BBC 아랍 텔레비전](https://ko.wikipedia.org/wiki/BBC_아랍_텔레비전).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Logo_BBC_Arabic.png "wikilink") **BBC 아랍 텔레비전** (BBC Arabic Television)은 [BBC](https://ko.wikipedia.org/wiki/BBC "wikilink")가 [아랍권](https://ko.wikipedia.org/wiki/아랍권 "wikilink") 시청자를 대상으로 송출하는 [텔레비전 뉴스 채널이다](https://ko.wikipedia.org/wiki/텔레비전_뉴스_채널 "wikilink"). 2008년 3월 11일에 방송을 개시하였다. [BBC 월드 서비스에서](../Page/BBC_월드_서비스.md "wikilink") 운영하며, 영국 텔레비전 수신제에 따라 자금을 조달받는다.

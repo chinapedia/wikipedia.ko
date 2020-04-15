@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  FC  ](https://ko.wikipedia.org/wiki/__FC__).
+> This article is converted from Wikipedia: [현 로드 FC 선수 목록](https://ko.wikipedia.org/wiki/현_로드_FC_선수_목록).
 
 
 **현 [로드 FC](https://ko.wikipedia.org/wiki/로드_FC "wikilink") 선수 목록**은 대한민국의 종합격투기 단체 [로드 FC에서](https://ko.wikipedia.org/wiki/로드_FC "wikilink") 현재 활동하고 있는 프로 선수들의 부문별, 체급별 목록이다. 변경된 사항은 수시로 업데이트 된다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ L-](https://ko.wikipedia.org/wiki/_L-).
+> This article is converted from Wikipedia: [아르틴 L-함수](https://ko.wikipedia.org/wiki/아르틴_L-함수).
 
 
 수학에서 아르틴 L-함수(Artin L- Function)는 [갈루아 군](../Page/갈루아_군.md "wikilink") G 의 선형 표현 ρ와 연관된 [디리클레 급수의](../Page/디리클레_급수.md "wikilink") 유형이다. 이 기능은 [에밀 아르틴](../Page/에밀_아르틴.md "wikilink") ( Emil Artin )이 1923 년에 [군론](https://ko.wikipedia.org/wiki/군론 "wikilink")에 관한 그의 연구와 관련하여 도입하였다. 이 함수의 기본 속성, 특히 아래에 설명된 아르틴 추측(Artin conjecture)은 쉽게 증명할 수 있는 것으로 밝혀졌다. 비 - [아벨 군이](../Page/아벨_군.md "wikilink") 제안되는 목적 중 하나는 아르틴 L- 함수(Artin L -function)의 복잡한 분석 특성을 [자기동형 형식](../Page/보형_형식.md "wikilink")(automorphic form)과 [랭글랜즈 프로그램과](https://ko.wikipedia.org/wiki/랭글랜즈_프로그램 "wikilink") 같은 더 큰 틀에 통합하는 것이다 . 지금까지는 이 이론의 일부 영역만 확고한 기초 위에 놓여있다고 본다.

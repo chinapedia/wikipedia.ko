@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [EXIT \(\)](https://ko.wikipedia.org/wiki/EXIT_\(\)).
+> This article is converted from Wikipedia: [EXIT \(드라마\)](https://ko.wikipedia.org/wiki/EXIT_\(드라마\)).
 
 
 《**EXIT**》는 [2018년](../Page/2018년.md "wikilink") [4월 30일](../Page/4월_30일.md "wikilink"), [5월 1일](../Page/5월_1일.md "wikilink") 이틀간 [SBS](../Page/SBS.md "wikilink")에서 방송되었던 [SBS 특집 드라마이다](../Page/SBS_특집드라마.md "wikilink").

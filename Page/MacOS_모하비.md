@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [MacOS ](https://ko.wikipedia.org/wiki/MacOS_).
+> This article is converted from Wikipedia: [MacOS 모하비](https://ko.wikipedia.org/wiki/MacOS_모하비).
 
 
 **macOS 모하비**(macOS Mojave, 버전 10.14)은 [애플의](https://ko.wikipedia.org/wiki/애플_\(기업\) "wikilink") 15번째 [macOS](https://ko.wikipedia.org/wiki/macOS "wikilink") 운영체제로 이전 버전은 [macOS 하이 시에라이다](https://ko.wikipedia.org/wiki/macOS_하이_시에라 "wikilink"). 2018년 6월 4일([태평양표준시](https://ko.wikipedia.org/wiki/태평양_표준시 "wikilink")), [WWDC](https://ko.wikipedia.org/wiki/WWDC "wikilink") 2018에서 공개되었으며, 같은 해 9월 24일에 정식 출시되었다. "모하비"라는 이름은 [캘리포니아주](../Page/캘리포니아주.md "wikilink") [모하비 사막을](../Page/모하비_사막.md "wikilink") 가리킨다.\[1\]

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [UD ](https://ko.wikipedia.org/wiki/UD_).
+> This article is converted from Wikipedia: [UD트럭 퀘스터](https://ko.wikipedia.org/wiki/UD트럭_퀘스터).
 
 
 **UD트럭 퀘스터**(, )은 [일본](../Page/일본.md "wikilink") [UD 트럭사가](https://ko.wikipedia.org/wiki/UD_트럭 "wikilink") 생산하는 대형 트럭으로 [2013년](../Page/2013년.md "wikilink")에 출시되었다.\[1\]

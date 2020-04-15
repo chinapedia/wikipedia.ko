@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [AA \( \)](https://ko.wikipedia.org/wiki/AA_\(_\)).
+> This article is converted from Wikipedia: [AA \(음악 그룹\)](https://ko.wikipedia.org/wiki/AA_\(음악_그룹\)).
 
 
 **AA**()는 [대한민국](../Page/대한민국.md "wikilink")의 2인조 [힙합](../Page/힙합.md "wikilink") 그룹이다. [오프로드출신의](https://ko.wikipedia.org/wiki/오프로드_\(음악_그룹\) "wikilink") [ADD CORN과](../Page/앧콘.md "wikilink") [ARKAY로](../Page/알케이.md "wikilink") 구성되어 있다.

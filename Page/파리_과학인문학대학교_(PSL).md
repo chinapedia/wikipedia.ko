@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  \(PSL\)](https://ko.wikipedia.org/wiki/__\(PSL\)).
+> This article is converted from Wikipedia: [파리 과학인문학대학교 \(PSL\)](https://ko.wikipedia.org/wiki/파리_과학인문학대학교_\(PSL\)).
 
 
 [290px](https://ko.wikipedia.org/wiki/파일:PSL_headquarter.jpg "wikilink") **파리 과학인문학대학교**(, )는 프랑스에 위치한 세계적인 명문 고등교육기관이다. 정식명칭은 **Université de Recherche Paris-Sciences-et-Lettres** (줄여서 **Paris Sciences et Lettres - PSL**)이고, 국내에서는 파리과학인문학대학교, PSL 리서치 유니버시티, PSL 연구 대학교, PSL 대학교 등으로 알려져 있다.

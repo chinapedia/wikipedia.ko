@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FM ](https://ko.wikipedia.org/wiki/FM_).
+> This article is converted from Wikipedia: [FM 음악여행](https://ko.wikipedia.org/wiki/FM_음악여행).
 
 
 **FM 음악여행**은 [대구MBC FM4U](../Page/대구문화방송.md "wikilink")(FM 95.3㎒)에서 매일 오후 4시부터 저녁 6시까지 방송되는 대구·경북 지역의 음악 전문 라디오 프로그램이다.

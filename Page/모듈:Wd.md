@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Wd](https://ko.wikipedia.org/wiki/:Wd).
+> This article is converted from Wikipedia: [모듈:Wd](https://ko.wikipedia.org/wiki/모듈:Wd).
 
 
 \-- Original module located at [:en:Module:Wd](https://ko.wikipedia.org/wiki/:en:Module:Wd "wikilink"), [:en:Module:Wd/i18n](https://ko.wikipedia.org/wiki/:en:Module:Wd/i18n "wikilink") and [:en:Module:Wd/aliasesP](https://ko.wikipedia.org/wiki/:en:Module:Wd/aliasesP "wikilink").

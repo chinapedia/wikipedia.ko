@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  1, 2, Jump!](https://ko.wikipedia.org/wiki/__1,_2,_Jump!).
+> This article is converted from Wikipedia: [여름빛 미소로 1, 2, Jump!](https://ko.wikipedia.org/wiki/여름빛_미소로_1,_2,_Jump!).
 
 
 **여름빛 미소로 1, 2, Jump\!**()는 [일본](../Page/일본.md "wikilink")의 [음악 그룹](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink") [μ's](https://ko.wikipedia.org/wiki/μ's "wikilink")(뮤즈)의 3번째 싱글이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Love Me \(    \)](https://ko.wikipedia.org/wiki/Love_Me_\(____\)).
+> This article is converted from Wikipedia: [Love Me \(제리 리버와 마이크 스톨러의 노래\)](https://ko.wikipedia.org/wiki/Love_Me_\(제리_리버와_마이크_스톨러의_노래\)).
 
 
 〈**Love Me**〉는 [제리 리버와 마이크 스톨러가](../Page/제리_리버와_마이크_스톨러.md "wikilink") 작곡한 [감성곡](https://ko.wikipedia.org/wiki/감성곡 "wikilink")으로, 1956년 [엘비스 프레슬리가](../Page/엘비스_프레슬리.md "wikilink") 유행시켰다.\[1\]

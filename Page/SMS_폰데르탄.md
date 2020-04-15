@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SMS ](https://ko.wikipedia.org/wiki/SMS_).
+> This article is converted from Wikipedia: [SMS 폰데르탄](https://ko.wikipedia.org/wiki/SMS_폰데르탄).
 
 
 **폰데르탄**(SMS Von der Tann)은 [제1차 세계 대전](../Page/제1차_세계_대전.md "wikilink") 때의 [독일 제국 해군의](https://ko.wikipedia.org/wiki/독일_제국_해군 "wikilink") [순양전함](https://ko.wikipedia.org/wiki/순양전함 "wikilink")이다. 당시 제국 해군에서는 대형순양함(Großer Kreuzer)으로 분류되어 있었다. 함 명은 [바이에른 왕국의](../Page/바이에른_왕국.md "wikilink") 장군 [루드비히 폰데르탄 라트잠하우젠과](https://ko.wikipedia.org/wiki/:w:en:Ludwig_Freiherr_von_und_zu_der_Tann-Rathsamhausen "wikilink") 관련되어 있다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [IBM z ](https://ko.wikipedia.org/wiki/IBM_z_).
+> This article is converted from Wikipedia: [IBM z엔터프라이즈 시스템](https://ko.wikipedia.org/wiki/IBM_z엔터프라이즈_시스템).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Glowing_IBM_z13_and_clock_-_cropped.JPG "wikilink") **IBM z엔터프라이즈 시스템**(IBM zEnterprise System)은 메인프레임과 분산 서버 기술을 통합 시스템에 제공하도록 설계된 [IBM 메인프레임의](../Page/IBM_메인프레임.md "wikilink") 최신 계열이다. z엔터프라이즈 시스템은 3개의 구성 요소가 있다. 첫째는 시스템 z 서버, 둘째는 IBM z엔터프라이즈 블레이드센터 확장(zBX, zEnterprise BladeCenter Extension), 세 번째는 관리 계층의 하나인 IBM zManager(zEnterprise Unified Resource Manager)이다.

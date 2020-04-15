@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [CP ](https://ko.wikipedia.org/wiki/CP_).
+> This article is converted from Wikipedia: [CP 시스템](https://ko.wikipedia.org/wiki/CP_시스템).
 
 
 **CP 시스템**(, , 약칭 CPS-1)은 [캡콤](../Page/캡콤.md "wikilink")이 개발한 [아케이드 기판이다](../Page/아케이드_기판.md "wikilink"). 게임 소프트웨어가 저장된 ROM 카트리지를 장착해 가동하는 방식으로, 캡콤의 당시 대부분의 아케이드 게임이 이 모델로 개발됐다. 후속 기판으로 [CP 시스템 II가](../Page/CP_시스템_II.md "wikilink") 제작됐다.
@@ -57,7 +57,7 @@
 <td><p><a href="../Page/대마계촌.md" title="wikilink">대마계촌</a><br />
 (大魔界村)</p></td>
 <td><p>구울즈 앤 고스츠 (Ghouls 'n Ghosts)</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/플랫폼_게임" title="wikilink">플랫포머</a></p></td>
+<td><p><a href="../Page/플랫폼_게임.md" title="wikilink">플랫포머</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>1989-03</p></td>
@@ -65,7 +65,7 @@
 <td><p><a href="../Page/스트라이더_히류.md" title="wikilink">스트라이더 히류</a><br />
 (ストライダー飛竜)</p></td>
 <td><p>스트라이더 (Strider)</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/플랫폼_게임" title="wikilink">플랫포머</a></p></td>
+<td><p><a href="../Page/플랫폼_게임.md" title="wikilink">플랫포머</a></p></td>
 </tr>
 <tr class="even">
 <td><p>1989-04</p></td>
@@ -81,7 +81,7 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/윌로" title="wikilink">윌로</a><br />
 (Willow)</p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/플랫폼_게임" title="wikilink">플랫포머</a></p></td>
+<td><p><a href="../Page/플랫폼_게임.md" title="wikilink">플랫포머</a></p></td>
 </tr>
 <tr class="even">
 <td><p>1989-08</p></td>
@@ -120,7 +120,7 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/치키_치키_보이즈" title="wikilink">치키 치키 보이즈</a><br />
 (Chiki Chiki Boys)</p></td>
 <td><p>메가 트윈즈 (Mega Twins)</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/플랫폼_게임" title="wikilink">플랫포머</a></p></td>
+<td><p><a href="../Page/플랫폼_게임.md" title="wikilink">플랫포머</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>1990-06-23</p></td>
@@ -128,7 +128,7 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/매직_소드" title="wikilink">매직 소드</a><br />
 (Magic Sword)</p></td>
 <td><p>매직 소드: 히로익 판타지 (Magic Sword: Heroic Fantasy)</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/플랫폼_게임" title="wikilink">플랫포머</a></p></td>
+<td><p><a href="../Page/플랫폼_게임.md" title="wikilink">플랫포머</a></p></td>
 </tr>
 <tr class="even">
 <td><p>1990-10-09</p></td>

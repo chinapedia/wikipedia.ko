@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Radio \(JY \)](https://ko.wikipedia.org/wiki/Radio_\(JY_\)).
+> This article is converted from Wikipedia: [Radio \(JY의 노래\)](https://ko.wikipedia.org/wiki/Radio_\(JY의_노래\)).
 
 
 **Radio**는 [강지영](../Page/강지영.md "wikilink")의 디지털 싱글이다. [영국](../Page/영국.md "wikilink")의 프로듀서 [MNEK](../Page/MNEK.md "wikilink")와 함께 작업했으며, [한국](../Page/한국.md "wikilink"), [일본](../Page/일본.md "wikilink")뿐 아니라 [미국](../Page/미국.md "wikilink"), [아시아](../Page/아시아.md "wikilink")등 47개국에 동시 발매했다.\[1\] 뮤직비디오는 미국 LA의 스튜디오에서 [리한나](../Page/리한나.md "wikilink"), [케샤](../Page/케샤.md "wikilink"), [샤키라](../Page/샤키라.md "wikilink") 등의 뮤직비디오 감독 Darren Craig가 이끄는 크리에이티브 팀이 제작했다.

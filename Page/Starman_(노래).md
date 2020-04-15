@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Starman \(\)](https://ko.wikipedia.org/wiki/Starman_\(\)).
+> This article is converted from Wikipedia: [Starman \(노래\)](https://ko.wikipedia.org/wiki/Starman_\(노래\)).
 
 
 〈**Starman**〉은 [데이비드 보위의](../Page/데이비드_보위.md "wikilink") 노래이다. 1972년 2월 4일 녹음하였으며\[1\] 그해 4월에 [싱글](https://ko.wikipedia.org/wiki/싱글 "wikilink")로 발매하였다. 이후 6월에 발매된 정규앨범 《[The Rise and Fall of Ziggy Stardust and the Spiders from Mars](https://ko.wikipedia.org/wiki/The_Rise_and_Fall_of_Ziggy_Stardust_and_the_Spiders_from_Mars "wikilink")》에도 수록되었다. 이는 [RCA 레코드의](../Page/RCA_레코드.md "wikilink") 담당자였던 데니스 캐츠의 고집 덕이었는데, 데모판을 듣고는 해당 트랙에 푹 빠졌고 대단한 싱글이 될 것이라는 생각에서였다고 한다.\[2\] 이 때문에 원래는 [척 베리의](../Page/척_베리.md "wikilink") 원곡을 커버한 "[Round and Round](https://ko.wikipedia.org/wiki/Around_and_Around "wikilink")"이 수록되려던 자리에 대신 들어가게 되었다.\[3\]

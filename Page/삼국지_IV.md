@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ IV](https://ko.wikipedia.org/wiki/_IV).
+> This article is converted from Wikipedia: [삼국지 IV](https://ko.wikipedia.org/wiki/삼국지_IV).
 
 
 《**삼국지 IV**》는 [코에이](../Page/코에이.md "wikilink")가 개발하고 [삼국지연의](../Page/삼국지연의.md "wikilink")에 기반을 둔 턴 기반 [전략 게임](https://ko.wikipedia.org/wiki/전략_게임 "wikilink") [삼국지 시리즈](../Page/삼국지_\(비디오_게임_시리즈\).md "wikilink") 중 네 번째 게임이다. 1994년 12월 9일에 첫 출시되었다. 이 게임은 [삼국지 XI가](https://ko.wikipedia.org/wiki/삼국지_XI "wikilink") 나올 때까지 미국에서 시리즈 중 [PC용으로](../Page/개인용_컴퓨터.md "wikilink") 출시된 마지막 게임이었다.

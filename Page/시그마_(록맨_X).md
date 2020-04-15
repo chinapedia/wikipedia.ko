@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ \( X\)](https://ko.wikipedia.org/wiki/_\(_X\)).
+> This article is converted from Wikipedia: [시그마 \(록맨 X\)](https://ko.wikipedia.org/wiki/시그마_\(록맨_X\)).
 
 
 **시그마**(SIGMA, シグマ, [Σ](../Page/Σ.md "wikilink"))는 [록맨 X에](../Page/록맨_X.md "wikilink") 나오는 등장인물으로, 작중 최종 보스. 성우는 [무기 히토](https://ko.wikipedia.org/wiki/무기_히토 "wikilink").
@@ -14,7 +14,7 @@
   - 록맨 X2에서 1차 형태는 소닉 오스트리그의 소닉 슬라이서, 2차 형태는 와이어 헤티말의 스트라이크 체인
   - 록맨 X3에서 1차 형태는 스피닝 블레이드
   - [록맨 X4에서](../Page/록맨_X4.md "wikilink") 1차 형태는 라이징파이어/용염인, 2차 형태는 라이트닝 웹/낙봉파, 3차 형태는 두가지 종류의 시그마가 나오는데 총을 들고 있는 거너 시그마는 소울 보디/용염인, 거대한 [머리](../Page/머리.md "wikilink")로 된 어스 시그마는 그라운드 헌터/질풍아/빙열참
-  - [록맨 X5에서](https://ko.wikipedia.org/wiki/록맨_X5 "wikilink") 1차 형태는 트라이 선더/전인, 2차 형태는 스파이크 로프/쌍환몽
+  - [록맨 X5에서](../Page/록맨_X5.md "wikilink") 1차 형태는 트라이 선더/전인, 2차 형태는 스파이크 로프/쌍환몽
   - [록맨 X6에서](https://ko.wikipedia.org/wiki/록맨_X6 "wikilink") 1차 형태는 애로우 레이/메탈 앵커/낙강인, 2차 형태는 그라운드 대시/마그마 블레이드/원수참/선추참
 
 [분류:록맨 X 시리즈 등장인물](https://ko.wikipedia.org/wiki/분류:록맨_X_시리즈_등장인물 "wikilink") [분류:가공의 로봇](https://ko.wikipedia.org/wiki/분류:가공의_로봇 "wikilink") [분류:비디오 게임의 보스 캐릭터](https://ko.wikipedia.org/wiki/분류:비디오_게임의_보스_캐릭터 "wikilink")

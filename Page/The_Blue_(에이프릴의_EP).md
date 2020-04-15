@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [The Blue \( EP\)](https://ko.wikipedia.org/wiki/The_Blue_\(_EP\)).
+> This article is converted from Wikipedia: [The Blue \(에이프릴의 EP\)](https://ko.wikipedia.org/wiki/The_Blue_\(에이프릴의_EP\)).
 
 
 《**The Blue**》 는 [에이프릴의](../Page/에이프릴_\(음악_그룹\).md "wikilink") 다섯 번째 EP이며, 타이틀곡은〈파랑새〉이다.\[1\]

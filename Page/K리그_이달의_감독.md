@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [K  ](https://ko.wikipedia.org/wiki/K__).
+> This article is converted from Wikipedia: [K리그 이달의 감독](https://ko.wikipedia.org/wiki/K리그_이달의_감독).
 
 
 **K리그 이달의 감독**은 [2014년](../Page/2014년.md "wikilink")부터 [K리그1](https://ko.wikipedia.org/wiki/K리그1 "wikilink")과 [K리그2](../Page/K리그2.md "wikilink")에서 매달 최고의 활약을 펼친 감독에게 수여하는 상이다. 시상 주체는 [한국프로축구연맹](../Page/한국프로축구연맹.md "wikilink")이며, 연맹 경기위원회에서 팀 성적과 경기력 등을 종합적으로 판단해 선정한다. 수상자에게는 기념 트로피와 후원사가 제공하는 상품이 수여되며, 당해 말에 시상하는 [감독상](../Page/K리그_감독상.md "wikilink") 선정 시에 참고 자료로 반영된다.\[1\]

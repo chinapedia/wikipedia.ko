@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ \~ Hidden Star in Four Seasons](https://ko.wikipedia.org/wiki/_\~_Hidden_Star_in_Four_Seasons).
+> This article is converted from Wikipedia: [동방천공장 \~ Hidden Star in Four Seasons](https://ko.wikipedia.org/wiki/동방천공장_\~_Hidden_Star_in_Four_Seasons).
 
 
 《**동방천공장 \~ Hidden Star in Four Seasons**》()은 [동방 프로젝트의](../Page/동방_프로젝트.md "wikilink") 열여섯번째 시리즈 게임이다. 제14회 하쿠레이 신사 봄 예대제에서 체험판이 배포되었고, [2017년](../Page/2017년.md "wikilink") [8월 11일](../Page/8월_11일.md "wikilink") [C92에서](https://ko.wikipedia.org/wiki/코믹_마켓 "wikilink") 정식판이 배포되었다. 또한 일본 시간 [2017년](../Page/2017년.md "wikilink") [11월 18일에는](../Page/11월_18일.md "wikilink") 미디어 스케이프로부터 [Steam에서의](../Page/스팀_\(소프트웨어\).md "wikilink") 배포가 이루어졌다.

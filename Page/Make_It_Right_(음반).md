@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Make It Right \(\)](https://ko.wikipedia.org/wiki/Make_It_Right_\(\)).
+> This article is converted from Wikipedia: [Make It Right \(음반\)](https://ko.wikipedia.org/wiki/Make_It_Right_\(음반\)).
 
 
 《**Make It Right**》는 아벨(밴드)에서 제작한 두번째 스튜디오 앨범이다. 앨범은 9월 18일에 독립적으로 발매되었다.

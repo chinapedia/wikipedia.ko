@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [S](https://ko.wikipedia.org/wiki/S).
+> This article is converted from Wikipedia: [S행렬이론](https://ko.wikipedia.org/wiki/S행렬이론).
 
 
 **S행렬이론**(S-matrix theory)은 [S행렬](https://ko.wikipedia.org/wiki/s_행렬 "wikilink")(S-matrix)의 개념을 본격적으로 다루기 시작한 [W. 하이젠베르크에](../Page/베르너_하이젠베르크.md "wikilink") 의해 제안되었다.\[1\]

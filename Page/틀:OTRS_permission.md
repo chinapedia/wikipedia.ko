@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:OTRS permission](https://ko.wikipedia.org/wiki/:OTRS_permission).
+> This article is converted from Wikipedia: [틀:OTRS permission](https://ko.wikipedia.org/wiki/틀:OTRS_permission).
 
 
 에 대한 이용 허락이 위키미디어 OTRS 시스템에 저장되었으며, <span class="plainlinksneverexpand">{{\#if: |**\[ 여기에서\]**

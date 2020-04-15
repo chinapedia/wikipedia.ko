@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  OS](https://ko.wikipedia.org/wiki/__OS).
+> This article is converted from Wikipedia: [레저렉션 리믹스 OS](https://ko.wikipedia.org/wiki/레저렉션_리믹스_OS).
 
 
 **레저렉션 리믹스 OS**(Resurrection Remix OS, **RR**)는 [안드로이드](../Page/안드로이드_\(운영_체제\).md "wikilink") 모바일 플랫폼 기반의, [스마트폰](../Page/스마트폰.md "wikilink") 및 [태블릿 컴퓨터용](../Page/태블릿_컴퓨터.md "wikilink") [자유-오픈 소스](../Page/자유_소프트웨어.md "wikilink") [운영 체제이다](../Page/운영_체제.md "wikilink"). UX 디자이너와 수석 개발자 애틀란 KRK(Altan KRK)는 2012년에 이 프로젝트를 시작하였다.\[1\]

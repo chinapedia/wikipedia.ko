@@ -1,0 +1,389 @@
+> This article is converted from Wikipedia: [CH.DIA](https://ko.wikipedia.org/wiki/CH.DIA).
+
+
+**CH.DIA**(채널 다이아)는 [대한민국](../Page/대한민국.md "wikilink")의 [CJ ENM에서](../Page/CJ_ENM.md "wikilink") 운영하는 [크리에이터](../Page/크리에이터.md "wikilink") 전문 채널이다. 2020년 2월 28일까지는 **DIA TV**(다이아 TV)라는 명칭을 사용하였다.
+
+## CH.DIA 소속 [유튜버](../Page/유튜버.md "wikilink")
+
+### 게임
+
+  - [보겸tv](../Page/김보겸.md "wikilink")
+  - 재넌
+  - 감스트
+  - 테스터훈Tester Hoon
+  - 릴카
+  - 꽃빈
+  - 머독방송
+  - 롤큐
+  - 이설TV
+  - 유소나
+  - 푸린 TV
+  - 따효니
+  - 햇살살
+  - [잠뜰](https://ko.wikipedia.org/wiki/잠뜰 "wikilink")
+  - 수현
+  - [라더](https://ko.wikipedia.org/wiki/라더 "wikilink")
+  - [각별](https://ko.wikipedia.org/wiki/각별 "wikilink")
+
+### 스타일
+
+  - 씬님
+  - 회사원A
+  - 윤쨔미
+  - 오늘의 하늘
+  - 헤이즐
+  - 로즈하
+  - 킴닥스
+  - 곽토리
+  - 퓨어디
+  - 쏭냥
+  - 샨토끼
+  - 조수잔
+  - 깡나
+  - 혜쁨
+  - 치과의사 이수진
+
+### 동물
+
+  - 수리노을
+  - 슈앤트리
+  - 시바견 곰이탱이여우
+
+### 엔터
+
+  - [어썸하은](https://ko.wikipedia.org/wiki/나하은 "wikilink")
+  - VIVA DANCE STUDIO
+  - [대도서관](https://ko.wikipedia.org/wiki/대도서관 "wikilink")TV
+  - 띠미
+  - ARTBEAT
+  - [임영웅](https://ko.wikipedia.org/wiki/임영웅_\(가수\) "wikilink")
+  - DPOP Studio
+  - 소근커플
+  - 수상한 녀석들
+  - [박막례](https://ko.wikipedia.org/wiki/박막례 "wikilink") 할머니
+  - [박미선](../Page/박미선.md "wikilink")
+  - [박구윤](../Page/박구윤.md "wikilink")
+  - [윰댕](../Page/윰댕.md "wikilink")
+  - 제니윤
+  - 꽈뚜룹
+  - 제이제이
+  - 혜서니
+  - 쏘야쭝아
+  - 노잼봇
+  - 느낌적인 느낌
+  - 주랄라
+  - 예씨
+  - 피아노 치는 이정환
+  - 권민제
+  - 김하나&변승주
+  - [펑티모](../Page/펑티모.md "wikilink")
+  - 퇴경아 약먹자
+  - Hale In Ocean 정혜일
+  - 미트
+
+### 푸드
+
+  - [밴쯔](../Page/밴쯔.md "wikilink")
+  - 슈기님
+  - 꿀키
+  - 나도
+  - HONG SOUND
+  - 소프
+  - 애주가 TV 참 PD
+  - 입짧은 햇님
+  - 더스쿱
+  - 시니
+  - 맛상무
+  - 박병진용사
+  - Team SeikaTV
+  - 밥굽남
+
+### 키즈/패밀리
+
+  - [라임튜브](https://ko.wikipedia.org/wiki/라임튜브 "wikilink")
+  - [마이린 TV](https://ko.wikipedia.org/wiki/마이린_TV "wikilink")
+  - 간니닌니다이어리
+  - 유라야 놀자
+  - 뚜아뚜지TV
+  - 애니한 TV AnnieHan
+  - 노래하는 하람
+  - 프리티에스더 Pretty Esther
+  - 에그박사
+  - 닥터프
+  - 별난박TV
+  - 아롱다롱 TV
+  - 이채윤
+  - 룰루랄라티비
+  - 헤이지니
+  - 럭키강이
+  - 서은
+  - 루루체체 TV
+  - 모야모야패밀리
+  - 김소피야
+  - 정훈, 지훈TV
+  - 에디레일
+
+클레버 티비는 다이아 소속아님
+
+### it/전자기술
+
+  - itsub(잇섭)
+
+## 방영 프로그램
+
+  - 잠뜰TV
+  - 소근커플
+  - 달려라치킨 미니어쳐
+  - [수리노을](../Page/수리노을.md "wikilink") 탐묘생활
+  -
+  - [꿀키](https://ko.wikipedia.org/wiki/꿀키 "wikilink") 심플레시피
+  - Nado 먹을래
+  - [라임튜브](https://ko.wikipedia.org/wiki/라임튜브 "wikilink")
+  - [마이린TV](https://ko.wikipedia.org/wiki/마이린TV "wikilink")
+  - 대도BOX
+  - 귀여운 강아지 시바견 곰이탱이 일상
+  - 에밀튜브
+  - [대도서관](https://ko.wikipedia.org/wiki/대도서관 "wikilink") 수다방
+  - 미드나잇 펍지
+  - 스튜디오V
+  - 해석남녀
+  - 7일동안
+  - [헤이지니](https://ko.wikipedia.org/wiki/헤이지니 "wikilink") 장난감놀이
+  - 지호토이 장난감놀이
+  - 토이몬스터 장난감놀이
+  - 꼬불하개파마
+  - 윰꽃
+  - 쿡올트립
+  - VIVA DANCE STUDIO
+  - 순백설탕 재미있는 베이킹
+  - 뚜아뚜지TV
+  - 아리키친
+  - Enjoy커플
+  - 박막례할머니
+  - 킴닥스 꿀단지
+  - 조매력의 코미디나잇쇼
+  - 입짧은 햇님
+  - 홍사운드
+  - 소프 진짜 자취 한끼
+  - 테스터훈 LOL 뉴메타
+  - 딱30분\! 핏미업 - 내 몸에 핏을 더하는 시간
+  - 강형욱의 견종백과
+  - [이수근](https://ko.wikipedia.org/wiki/이수근 "wikilink") 채널
+  - [윰댕](../Page/윰댕.md "wikilink")의 좌충우돌 심즈생활
+  - 나의 개같은 연예
+  - 유레카 발명왕 허팝
+  - 출동\! 애니한
+  - 달려라치킨 베이비돌 뷰티샵
+  - [도로시](../Page/도로시_\(유튜버\).md "wikilink") 먹방
+  - 박병진 용사 먹방
+  - 테이스티훈
+  - 조섭 자만인
+  - 뷰틴9
+  - 나르의 인테리어
+  - 어쩌다 합방
+  - 광복이와 하루
+  - 참지말고 로킥
+  - 짝사랑 전세역전
+  - 글로벌 픽
+  - 밥총사
+  - 청춘식당 - 그때 그메뉴
+  - 인싸그램
+  - 엔조이커플 남다여다
+  - 오픽노잼
+  - 밀후퐁 캣하우스
+  - 푸디트래블 맛있는 거리
+  - 쏘이 (Soy The World)
+  - 달콤한 크루들
+  - 땅끄부부
+  - 감자별 2013QR3
+  - 청춘여락
+  - 캠핑한끼
+  - 원지의 하루
+  - 순필름
+  - 소망 한달살기
+  - 애주가TV참PD
+  - DKTV대니얼킴
+  - 슈앤트리
+  - 옆집언니 최실장
+  - 패션힐러 최유리
+  - 뷰티 스테이션
+  - 이제이 래시피
+  - 율로리아의 우리아이 밥상
+  - 가지 VLOG
+  - 보통엄마
+  - 이셉세들
+  - 슛뚜
+  - 대한민국 1등산적 밥굽남
+  - 첼다바레
+  - 강형욱의 소소한 Q\&A
+  - 미선 임파서블
+  - 집사인 게 자랑
+
+## 종영 프로그램
+
+  - 유라시아
+  - 본격 여론몰이 참여퀴즈쇼 다수쇼\!
+  - GRWM(Get Ready With Me)
+  - 프로입털러
+  - 씬X쑥 - 라이크를 환전하라
+  - 쿡OR데드
+  - 신채계약서
+  - [1MILLION Dance Studio](../Page/원밀리언_댄스_스튜디오.md "wikilink")
+  - 소프 자취인 초간단 요리
+  - DAL (DANA ASMR LIVE)
+  - 대도서관 마인크래프트 실황
+  - [윰댕](../Page/윰댕.md "wikilink")의 맛있게 먹는 여자
+  - 데이나 ASMR
+  - DANA ASMR 상황극
+  - 소프 베이킹
+  - 립스틱 프린스 시즌1
+  - 어썸하은 Dance Cover
+  - 윤짜미 메이크업 챌린지
+  - 리치는 못말려
+  - 회색토끼 에그썸씽
+  - 쿠킹퀘스트
+  - 계란 요리의 모든것
+  - 레나살롱
+  - 오늘부터 홈.트
+  - 샨토끼살롱
+  - 신.화.사(신비한 화장품 사전)
+  - 대도서관 공포게임 실황
+  - 아내의 식탁
+  - 수리노을 고양이먹방
+  - 러빈부부 사생활
+  - 아옳이 키우기
+  - 테스터훈 게임방
+  - 깨고 싶어 너와 함께
+  - 채팅 읽어주는 남자
+  - 인형뽑기의 신
+  - 쿠쿠크루
+  - 억섭호 시키면 골라한다
+  - 아옳이:하스의 여신
+  - 대정령 네버마인드
+  - 노루키친 간식
+  - 노루키친 집밥레시피
+  - 하스채널
+  - [대도서관](https://ko.wikipedia.org/wiki/대도서관 "wikilink") 감동게임
+  - 신채택배
+  - 대도서관 화이트데이
+  - 소프분식당
+  - 천만해요
+  - 요리사 벨미스
+  - 1MILLION TV
+  - 대도서관 암네시아
+  - 칸첸알렉스
+  - 소희짱 인형뽑기
+  - 수리노을 성장기
+  - 신나드레 백수공방
+  - 공대생 변승주
+  - DIA 꿀PICK
+  - 밴쯔 도전먹방
+  - 리아루아DIY
+  - 윰댕의 욕망키친
+  - Betbaks
+  - 칸첸알렉스
+  - 샨토끼
+  - 아이티치유
+  - 여니네일
+  - 러빈채아
+  - 여화이(여자의 화장에는 이유가 있다)
+  - 데이브
+  - 여고생 원츄
+  - 달려라치킨 이야기
+  - 뜨거운 사이다 (Onstyle에서 절찬 방영 중.)
+  - 대도서관 아웃라스트
+  - 안녕 엘리
+  - 립스틱 프린스 시즌2
+  - 대도서관 슬라임랜처2
+  - 여중생 써야
+  - 오늘 뭐 먹지? 딜리버리 (OLIVE TV에 종영 프로그램)
+  - 삼대장의 코스맨틱
+  - 집순이 취미생활
+  - 폐가탈출 넘버원
+  - 섭이는 못말려
+  - 보고놀자 (투니버스에서 방영 중.)
+  - DIA Travel 스페인
+  - DIA Travel 배트남
+  - 바디 액츄얼리 (OLIVE TV에서 절찬 방영 중.)
+  - 심장이 코덕코덕(더쿠션)
+  - 대도서관 배틀그라운드
+  - 눈쟁이 배틀그라운드
+  - 핫새 미니어쳐
+  - 대도서관 파이널 스테이션
+  - 듬아네 햄스터
+  - 29Gram - SNS여신들의 사생활 탐방기
+  - 대광이형(ULTIMATE SAVAGE WORKS)
+  - 커튼콜 프로젝트
+  - WE DANCE STUDIO TV
+  - [구해줘](../Page/구해줘.md "wikilink") (OCN에서 종영된 드라마)
+  - [듀얼](../Page/듀얼_\(드라마\).md "wikilink") (OCN에서 종영된 드라마)
+  - [또\! 오해영](../Page/또!_오해영.md "wikilink") (tvN 종영된 월화드라마)
+  - 대도서관 토끼게임
+  - 대도서관 골프공게임
+  - 방과후연예
+  - 너랑 하고 싶어
+  - 방구석 아티스트 시즌2
+  - 어르신즈
+  - 너 대처법
+  - 대도서관 항아리게임
+  - DIA Travel 홍콩
+  - DIA Travel 오사카
+  - DIA Travel 뉴욕
+  - DIA Travel 도쿄
+  - DIA Travel 고효주
+  - DIA Travel 블라디보스톡
+  - [로맨스가 필요해 2012](../Page/로맨스가_필요해_2012.md "wikilink")
+  - 소프의 쓸고라면
+  - 대신리뷰
+  - 매력TV
+  - 스타일 라이브:일상의 탱9캠
+  - 애니한TV
+  - 모델 하늘의 Vlog
+  - 대신토론
+  - 리치즈
+  - [미생](../Page/미생_\(드라마\).md "wikilink")
+  - [식샤를 합시다 2](../Page/식샤를_합시다_2.md "wikilink")
+  - 킴닥스 꿀단지
+  - 조매력의 코미디나잇쇼
+  - 겨울서점
+  - [괜찮아, 사랑이야](https://ko.wikipedia.org/wiki/괜찮아,_사랑이야 "wikilink")
+  - [오 나의 귀신님](../Page/오_나의_귀신님.md "wikilink")
+  - 리아루아 재미있는 DIY
+  - 소프 한국인의 레시피
+  - 태용의 리얼밸리
+  - 홀스형 마지막 수호자
+  - 2 FACE 데이트
+  - 홀스형 려권내라우
+  - 오늘의 타로맨스
+  - [저, 운명의 사람입니다](../Page/저,_운명의_사람입니다.md "wikilink")
+  - 공청회 (공정책 청년 회의소)
+  - 리셋 프리스타일
+  - [대도서관](https://ko.wikipedia.org/wiki/대도서관 "wikilink") 디트로이드
+  - 김뽀마미 악마의 전신운동
+  - 홀스형 좀비게임VR
+  - 홀스형의 연예호러게임
+  - 홀스형의 완다의 모험
+  - [켠김에 왕까지 2018](../Page/켠김에_왕까지.md "wikilink")
+  - 나의 개같은 연예
+  - [대도서관](https://ko.wikipedia.org/wiki/대도서관 "wikilink") 심해탐험 생존기
+
+## 채널 번호
+
+  - [스카이라이프](https://ko.wikipedia.org/wiki/스카이라이프 "wikilink")([올레 TV](../Page/올레_TV.md "wikilink") 스카이라이프) 채널 160번
+  - [BTV](https://ko.wikipedia.org/wiki/BTV "wikilink")(IPTV) 채널 96번
+  - [올레 TV](../Page/올레_TV.md "wikilink")(IPTV) 채널 72번
+  - U+ TVG(IPTV) 채널 155번
+  - 딜라이브(케이블) 채널 80번
+  - 티브로드(케이블) 채널 76번
+  - HCN(케이블) 채널 118번
+  - [LG헬로비전](../Page/LG헬로비전.md "wikilink")(케이블) 채널 58번
+
+## 외부 링크
+
+  - [공식 홈페이지](http://diatv.com/)
+  - [TV 채널 홈페이지](http://diatv.tving.com/diatv)
+  - [채널 페이스북](https://www.facebook.com/DIATVchannel)
+  - [채널 YOUTUBE](https://www.youtube.com/channel/UCooh6HWi1ySybS_nPChJdfw)
+  - [채널 인스타그램](https://www.instagram.com/ch_diatv)
+
+[분류:CJ ENM의 텔레비전 네트워크](https://ko.wikipedia.org/wiki/분류:CJ_ENM의_텔레비전_네트워크 "wikilink") [분류:오락 텔레비전 네트워크](https://ko.wikipedia.org/wiki/분류:오락_텔레비전_네트워크 "wikilink") [DIA TV](https://ko.wikipedia.org/wiki/분류:2017년_설립된_텔레비전_방송국과_채널 "wikilink") [DIA TV](https://ko.wikipedia.org/wiki/분류:2020년_폐지된_텔레비전_방송국과_채널 "wikilink") [분류:2020년 설립된 텔레비전 방송국과 채널](https://ko.wikipedia.org/wiki/분류:2020년_설립된_텔레비전_방송국과_채널 "wikilink")

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TEN \(\)](https://ko.wikipedia.org/wiki/TEN_\(\)).
+> This article is converted from Wikipedia: [TEN \(만화\)](https://ko.wikipedia.org/wiki/TEN_\(만화\)).
 
 
 《**TEN**》은 다음 웹툰에서 매주 목요일마다 연재되고 있는 [웹툰](../Page/웹툰.md "wikilink")이다. 작가는 다음 웹툰에서 《1호선》, 《청춘극장》 등을 연재했던 이은재이다. 장르는 학원물이며, 소개 글 등으로 미루어 봤을 때 《[배틀로얄](https://ko.wikipedia.org/wiki/배틀로얄 "wikilink")》류의 생존물로 진행될 가능성이 높다. 1기에서는 [왕따이자](../Page/집단_따돌림.md "wikilink") 가장 불우한 김현의 눈물 없인 볼 수 없는 라이프를 다루고, 2기에서는 학교를 옮긴 김현의 프리즌 브레이크 적응 과정을, 현재 진행 중인 3기에서는 무명 고등학교에서 강자로 거듭나고 있는 김현의 성장 과정을 다루고 있다.
@@ -133,4 +133,4 @@
 1.  한 대당 1,000원
 2.  김현은 김성빈과의 대결로 기진맥진한 상태였다.
 3.  <https://www.instagram.com/beatleoasis/>
-4.  <http://m.book.daum.net/mobile/detail/book.do?bookid=KOR9791185193892>
+4.

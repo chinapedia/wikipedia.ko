@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ T](https://ko.wikipedia.org/wiki/_T).
+> This article is converted from Wikipedia: [닥터 T](https://ko.wikipedia.org/wiki/닥터_T).
 
 
 《**닥터 T**》()는 [2000년](../Page/2000년.md "wikilink")에 개봉한 [미국의](https://ko.wikipedia.org/wiki/미국_영화 "wikilink") 영화이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [\~Road Show](https://ko.wikipedia.org/wiki/\~Road_Show).
+> This article is converted from Wikipedia: [코이노\~Road Show](https://ko.wikipedia.org/wiki/코이노\~Road_Show).
 
 
 〈**Koino Road Show**〉() (코이노 로드쇼)는 2017년 7월 5일에 발매된 [페어리즈](../Page/페어리즈.md "wikilink")의 메이저 데뷔 14번째 싱글이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:S-vac](https://ko.wikipedia.org/wiki/:S-vac).
+> This article is converted from Wikipedia: [틀:S-vac](https://ko.wikipedia.org/wiki/틀:S-vac).
 
 
 <includeonly>| style="width: 30%; text-align: center;" rowspan=""|{{\#if:|{{\#switch:

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [62 NHK ](https://ko.wikipedia.org/wiki/62_NHK_).
+> This article is converted from Wikipedia: [제62회 NHK 홍백가합전](https://ko.wikipedia.org/wiki/제62회_NHK_홍백가합전).
 
 
 《**제62회 NHK 홍백가합전**》()는 [2011년](../Page/2011년.md "wikilink") [12월 31일에](../Page/12월_31일.md "wikilink") 방송된 통산 62회째인 [NHK 홍백가합전이다](../Page/NHK_홍백가합전.md "wikilink").
@@ -24,7 +24,7 @@
   - 준코 코시노 : 패션 디자이너로, 2011년 하반기 [연속 TV 소설](../Page/연속_TV_소설.md "wikilink") 『カーネーション』의 여주 오하라 이토코의 모델로 알려진 패션 디자이너 코시노 아야코의 둘째 딸.
   - [미타니 코키](../Page/미타니_코키.md "wikilink") : 각본을 쓴 영화 『[멋진 악몽](../Page/멋진_악몽.md "wikilink")』이 대히트했다.
   - [스즈키 쿄카](../Page/스즈키_쿄카.md "wikilink") : 2010년 드라마10([NHK 종합 텔레비전](../Page/NHK_종합_텔레비전.md "wikilink") 10시대에 틀어주는 연속드라마 프로그램 중 하나)에서 방송되었고, 2011년에는 영화화 된 『[세컨드 버진](../Page/세컨드_버진.md "wikilink")』의 주인공 나카무라 루이 역.
-  - [사사키 노리오](../Page/사사키_노리오.md "wikilink") : [2011년 FIFA 여자 월드컵에서](https://ko.wikipedia.org/wiki/2011년_FIFA_여자_월드컵 "wikilink") 일본 여자 축구 국가대표팀을 첫 우승으로 이끈 감독.
+  - [사사키 노리오](../Page/사사키_노리오_\(축구인\).md "wikilink") : [2011년 FIFA 여자 월드컵에서](https://ko.wikipedia.org/wiki/2011년_FIFA_여자_월드컵 "wikilink") 일본 여자 축구 국가대표팀을 첫 우승으로 이끈 감독.
   - [스즈키 아키코](../Page/스즈키_아키코.md "wikilink") : 2011년 NHK배 국제 피겨 스케이팅 여자 싱글 우승.
   - [마츠야마 켄이치](../Page/마츠야마_켄이치.md "wikilink") : 2012년 방영할 대하드라마 『[다이라노 기요모리](../Page/다이라노_기요모리_\(2012년_드라마\).md "wikilink")』에서 [다이라노 기요모리](../Page/다이라노_기요모리.md "wikilink") 역.
   - 마츠이 후유코 : 여성 화가로, 공립미술관인 [요코하마 미술관에선](https://ko.wikipedia.org/wiki/요코하마_미술관 "wikilink") 처음으로 대규모적인 개인전을 개최.

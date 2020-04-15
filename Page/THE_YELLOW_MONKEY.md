@@ -92,6 +92,6 @@
 [분류:일본의 록 밴드](https://ko.wikipedia.org/wiki/분류:일본의_록_밴드 "wikilink") [분류:1988년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:1988년_결성된_음악_그룹 "wikilink") [분류:2004년 해체된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2004년_해체된_음악_그룹 "wikilink") [분류:2016년 재결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2016년_재결성된_음악_그룹 "wikilink") [분류:NHK 홍백가합전 출연자](https://ko.wikipedia.org/wiki/분류:NHK_홍백가합전_출연자 "wikilink") [분류:일본 컬럼비아](https://ko.wikipedia.org/wiki/분류:일본_컬럼비아 "wikilink")
 
 1.  <http://www.allmusic.com/artist/yellow-monkey-mn0000898173/biography>
-2.  일본어 제목은 《[OTOTOKI](http://theyellowmonkey-movie.jp/)》 ().
+2.  일본어 제목은 《[OTOTOKI](http://theyellowmonkey-movie.jp/) 》 ().
 3.
 4.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ DeX](https://ko.wikipedia.org/wiki/_DeX).
+> This article is converted from Wikipedia: [삼성 DeX](https://ko.wikipedia.org/wiki/삼성_DeX).
 
 
 [thumb와](https://ko.wikipedia.org/wiki/파일:Samsung_DeX_dock_with_S8,_plugged_into_monitor.jpg "wikilink") [워드](../Page/마이크로소프트_워드.md "wikilink") [안드로이드](../Page/안드로이드_\(운영_체제\).md "wikilink") 애플리케이션을 보여주고 있다.\]\] [thumb](https://ko.wikipedia.org/wiki/파일:Samsung_DeX_top.jpg "wikilink") **삼성 DeX**(Samsung DeX)는 [삼성 갤럭시 S8과 S8+와](../Page/삼성_갤럭시_S8.md "wikilink") 함께 처음 판매되는 액세서리로서, 삼성 장치가 외부 모니터, 마우스, 키보드와 연결할 수 있도록 하며 데스크톱과 같은 기능을 제공한다.\[1\]\[2\] 나중에 [삼성 갤럭시 노트 8을](https://ko.wikipedia.org/wiki/삼성_갤럭시_노트_8 "wikilink") 지원할 것이라 발표하였다.\[3\]

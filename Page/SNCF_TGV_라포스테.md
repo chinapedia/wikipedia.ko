@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SNCF TGV ](https://ko.wikipedia.org/wiki/SNCF_TGV_).
+> This article is converted from Wikipedia: [SNCF TGV 라포스테](https://ko.wikipedia.org/wiki/SNCF_TGV_라포스테).
 
 
 **SNCF TGV 라포스테**()는 [SNCF](https://ko.wikipedia.org/wiki/SNCF "wikilink"), [라포스테의](https://ko.wikipedia.org/wiki/라포스테_\(프랑스\) "wikilink") [고속열차](https://ko.wikipedia.org/wiki/고속열차 "wikilink")로 [TGV](../Page/TGV.md "wikilink")를 운영하고 있다. 설계 초기부터 우편 [고속열차](https://ko.wikipedia.org/wiki/고속열차 "wikilink")에 운행하기 위해 설계된 [고속열차](https://ko.wikipedia.org/wiki/고속열차 "wikilink")로 [1978년](../Page/1978년.md "wikilink")부터 [1986년](../Page/1986년.md "wikilink")까지 [알스톰](../Page/알스톰.md "wikilink")에 의해 [TGV 쉬드-에스트로](../Page/SNCF_TGV_쉬드-에스트.md "wikilink") 제작되었다.

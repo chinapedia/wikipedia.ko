@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  vs. ](https://ko.wikipedia.org/wiki/__vs._).
+> This article is converted from Wikipedia: [미래전대 타임레인저 vs. 고고파이브](https://ko.wikipedia.org/wiki/미래전대_타임레인저_vs._고고파이브).
 
 
 《**미래전대 타임레인저 vs. 고고파이브**》(未来戦隊タイムレンジャーVSゴーゴーファイブ)는 [2001년](../Page/2001년.md "wikilink") [3월 10일에](../Page/3월_10일.md "wikilink") 발매된 오리지널 비디오 작품이다. 《[미래전대 타임레인저](../Page/미래전대_타임레인저.md "wikilink")》의 오리지널 비디오 작품이며, 슈퍼 전대 vs. 시리즈의 하나이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  \(NHL\)](https://ko.wikipedia.org/wiki/__\(NHL\)).
+> This article is converted from Wikipedia: [노리스 디비전 \(NHL\)](https://ko.wikipedia.org/wiki/노리스_디비전_\(NHL\)).
 
 
 **노리스 디비전** (Norris Division)은 1974년부터 1993년까지 [NHL에](../Page/내셔널_하키_리그.md "wikilink") 존재했던 디비전이다.

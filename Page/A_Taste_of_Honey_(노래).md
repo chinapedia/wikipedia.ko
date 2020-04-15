@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [A Taste of Honey \(\)](https://ko.wikipedia.org/wiki/A_Taste_of_Honey_\(\)).
+> This article is converted from Wikipedia: [A Taste of Honey \(노래\)](https://ko.wikipedia.org/wiki/A_Taste_of_Honey_\(노래\)).
 
 
 〈**A Taste of Honey**〉는 [바비 스콧과](https://ko.wikipedia.org/wiki/바비_스콧 "wikilink") [릭 마로우가](https://ko.wikipedia.org/wiki/릭_마로우 "wikilink") 쓴 팝 스탠더드 곡이다. 원래 동명의 1958년도 영국 연극을 위해 1960년 브로드웨이 버전의 기악곡을 쓴 것으로 1965년 허브 알버트가 불러 그래미상의 네 개 부문을 수상한다. 보컬이 있는 버전은 빌리 디 윌리엄스가 1961년 프리스티지 레이블을 통해 발표한 것이 시초다. 1963년 비틀즈가 데뷔 음반을 위해 커버했다. 바브라 스트라이샌드는 자신이 카바레에서 일하던 시기에 곡을 자신의 공연 일부에 추가한 바 있고 데뷔 음반에 녹음 뒤 수록해 컬럼비아를 통해 발표, 1963년 그래미 올해의 앨범상을 수상했다.

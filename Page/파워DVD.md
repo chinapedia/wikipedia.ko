@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [DVD](https://ko.wikipedia.org/wiki/DVD).
+> This article is converted from Wikipedia: [파워DVD](https://ko.wikipedia.org/wiki/파워DVD).
 
 
 **사이버링크 파워DVD**(CyberLink PowerDVD)는 영화 디스크, 비디오 파일, 사진, 음악을 위한 유니버설 미디어 플레이어이다. 최신 버전인 파워DVD 17은 2017년 4월 11일 시작했으며 새로운 울트라 HD 블루레이 디스크 포맷의 지원을 포함한다. 2016년 동안 파워DVD는 울트라 HD 블루레이 디스크의 재생을 위해 BDA(블루레이 협회)로부터 인증을 받았으며 BD-ROM 4.0 PC 응용 소프트웨어 라이선스 프로세스를 통과한 세계 최초의 유일한 소프트웨어 플레이어가 되었다.\[1\]

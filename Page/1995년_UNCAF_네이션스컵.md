@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [1995 UNCAF ](https://ko.wikipedia.org/wiki/1995_UNCAF_).
+> This article is converted from Wikipedia: [1995년 UNCAF 네이션스컵](https://ko.wikipedia.org/wiki/1995년_UNCAF_네이션스컵).
 
 
 **1995년 UNCAF 네이션스컵**(1995 UNCAF Nations Cup)은 [중앙아메리카 축구 연맹에서](https://ko.wikipedia.org/wiki/중앙아메리카_축구_연맹 "wikilink") 주최한 3번째 [UNCAF 네이션스컵](https://ko.wikipedia.org/wiki/UNCAF_네이션스컵 "wikilink") 대회로 [1995년](../Page/1995년.md "wikilink") [11월 29일부터](../Page/11월_29일.md "wikilink") [12월 10일까지](../Page/12월_10일.md "wikilink") [엘살바도르](../Page/엘살바도르.md "wikilink")에서 개최되었다. 이 대회는 [1996년 CONCACAF 골드컵의](../Page/1996년_CONCACAF_골드컵.md "wikilink") 중앙아메리카 예선을 겸한다.

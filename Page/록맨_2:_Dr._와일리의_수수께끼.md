@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [ 2: Dr.  ](https://ko.wikipedia.org/wiki/_2:_Dr.__).
+> This article is converted from Wikipedia: [록맨 2: Dr. 와일리의 수수께끼](https://ko.wikipedia.org/wiki/록맨_2:_Dr._와일리의_수수께끼).
 
 
-《**록맨 2: Dr. 와일리의 수수께끼**》()는 [캡콤](../Page/캡콤.md "wikilink")이 [패미컴](https://ko.wikipedia.org/wiki/패미컴 "wikilink")으로 발매한 [액션](https://ko.wikipedia.org/wiki/액션_게임 "wikilink") [플랫폼 게임이다](https://ko.wikipedia.org/wiki/플랫폼_게임 "wikilink"). [오리지널 록맨 시리즈의](https://ko.wikipedia.org/wiki/록맨_\(클래식_시리즈\) "wikilink") 두번째 작품으로, 일본에서 1988년에 최초로 발매됐고 이듬해에 북미와 유럽 지역에서 《**메가맨 2**》()라는 제목으로 발매됐다. 록맨 2는 다시 돌아온 악당 [닥터 와일리와](https://ko.wikipedia.org/wiki/닥터_와일리 "wikilink") [록맨과의](../Page/록맨_\(캐릭터\).md "wikilink") 재결전을 그렸다. 록맨 2는 전작으로부터 수많은 변화와 개선점을 도입했고, 그중 상당수는 전 시리즈에 걸쳐 등장하는 요소로 확립됐다.
+《**록맨 2: Dr. 와일리의 수수께끼**》()는 [캡콤](../Page/캡콤.md "wikilink")이 [패미컴](https://ko.wikipedia.org/wiki/패미컴 "wikilink")으로 발매한 [액션](https://ko.wikipedia.org/wiki/액션_게임 "wikilink") [플랫폼 게임이다](../Page/플랫폼_게임.md "wikilink"). [오리지널 록맨 시리즈의](https://ko.wikipedia.org/wiki/록맨_\(클래식_시리즈\) "wikilink") 두번째 작품으로, 일본에서 1988년에 최초로 발매됐고 이듬해에 북미와 유럽 지역에서 《**메가맨 2**》()라는 제목으로 발매됐다. 록맨 2는 다시 돌아온 악당 [닥터 와일리와](https://ko.wikipedia.org/wiki/닥터_와일리 "wikilink") [록맨과의](../Page/록맨_\(캐릭터\).md "wikilink") 재결전을 그렸다. 록맨 2는 전작으로부터 수많은 변화와 개선점을 도입했고, 그중 상당수는 전 시리즈에 걸쳐 등장하는 요소로 확립됐다.
 
 ## 줄거리
 

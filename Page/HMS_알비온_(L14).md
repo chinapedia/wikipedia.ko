@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [HMS  \(L14\)](https://ko.wikipedia.org/wiki/HMS__\(L14\)).
+> This article is converted from Wikipedia: [HMS 알비온 \(L14\)](https://ko.wikipedia.org/wiki/HMS_알비온_\(L14\)).
 
 
 **HMS 알비온 (L14)**은 영국 해군의 [LPD](https://ko.wikipedia.org/wiki/LPD "wikilink") 상륙함이다.

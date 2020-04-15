@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Dream Master \(\)](https://ko.wikipedia.org/wiki/Dream_Master_\(\)).
+> This article is converted from Wikipedia: [Dream Master \(음반\)](https://ko.wikipedia.org/wiki/Dream_Master_\(음반\)).
 
 
 《**드림 마스터**》(Dream Master)는 [빌리 휴스](../Page/빌리_휴스.md "wikilink")(Billie Hughes, 혹은 Bill Hughes)의 앨범이다. 휴스는 1978년 [소니 캐나다와](../Page/소니_뮤직_엔터테인먼트.md "wikilink") 계약을 맺고 그의 첫 솔로 앨범인 <Dream Master>를 발매했다. 이 앨범은 [헨리 루이](https://ko.wikipedia.org/wiki/헨리_루이 "wikilink")(Henry Lewy)에 의해 프로듀싱되었고 [제프 포카로](../Page/제프_포카로.md "wikilink")(jeff porcaro), [러스 컨켈](https://ko.wikipedia.org/wiki/러스_컨켈 "wikilink")(Russ Kunkel)\[1\], [빅터 펠드맨](https://ko.wikipedia.org/wiki/빅터_펠드맨 "wikilink")(Victor Feldman), [윌턴 펠더](https://ko.wikipedia.org/wiki/윌턴_펠더 "wikilink")(Wilton Felder), [마이크 멜보인](https://ko.wikipedia.org/wiki/마이크_멜보인 "wikilink")(Mike Melvoin) 등 로스엔젤리스의 유명 세션 맴버들이 참여하였다\[2\]. 모든 노래는 휴스에 의해 작곡되었고 이 앨범은 1979년 [에픽 레코드에](../Page/에픽_레코드.md "wikilink") 의해 발매되었다. 또한 휴스가 1982년 네 달 동안 오사카에 공연차 가 있을 동안 일본에서 발매되었다.\[3\] <Dream Master>은 90년대와 2001년에 휴스의 두 번째 솔로 앨범 \<[Welcome to the Edge](../Page/Welcome_to_the_Edge.md "wikilink")\>가 성공을 거두었을 때 일본에서 재발매되었다.

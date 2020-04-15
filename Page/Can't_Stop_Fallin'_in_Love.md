@@ -5,7 +5,7 @@
 
 이 작품은 130만 장 이상 팔려 밀리언 셀러를 기록한 globe의 대표곡 중 하나로서, 이 밴드가 발매했던 싱글 중에서 세 번째로 많은 판매량을 올렸다.\[1\] globe는 그 해에 방송되었던 [제47회 NHK 홍백가합전에](../Page/제47회_NHK_홍백가합전.md "wikilink") 처음으로 출연했고 이 곡을 선보였다.
 
-2014년 [JUJU](https://ko.wikipedia.org/wiki/JUJU "wikilink")가 리메이크 음반 《Request II》에 이 곡을 담았으며,\[2\] 2015년 발매된 globe의 20주년 기념 헌정 음반 《[\#globe20th -SPECIAL COVER BEST-](https://ko.wikipedia.org/wiki/Globe20th_-SPECIAL_COVER_BEST- "wikilink")》에도 이 곡이 실려있는데, 부른 사람은 [토야마 미레이였다](https://ko.wikipedia.org/wiki/토야마_미레이 "wikilink").\[3\]
+2014년 [JUJU](../Page/JUJU.md "wikilink")가 리메이크 음반 《Request II》에 이 곡을 담았으며,\[2\] 2015년 발매된 globe의 20주년 기념 헌정 음반 《[\#globe20th -SPECIAL COVER BEST-](https://ko.wikipedia.org/wiki/Globe20th_-SPECIAL_COVER_BEST- "wikilink")》에도 이 곡이 실려있는데, 부른 사람은 [토야마 미레이였다](https://ko.wikipedia.org/wiki/토야마_미레이 "wikilink").\[3\]
 
 ## 수록곡
 

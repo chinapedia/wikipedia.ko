@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Reply to](https://ko.wikipedia.org/wiki/:Reply_to).
+> This article is converted from Wikipedia: [모듈:Reply to](https://ko.wikipedia.org/wiki/모듈:Reply_to).
 
 
 local p = {}

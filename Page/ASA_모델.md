@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ASA ](https://ko.wikipedia.org/wiki/ASA_).
+> This article is converted from Wikipedia: [ASA 모델](https://ko.wikipedia.org/wiki/ASA_모델).
 
 
 **ASA 이론**은 심리 이론의 하나이다. 1987년 B. 슈나이더(B. Schneider)에 의해 만들어졌다.

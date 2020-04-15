@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [DNF \(\)](https://ko.wikipedia.org/wiki/DNF_\(\)).
+> This article is converted from Wikipedia: [DNF \(소프트웨어\)](https://ko.wikipedia.org/wiki/DNF_\(소프트웨어\)).
 
 
 **DNF**(Dandified Yum)는 [RPM](../Page/RPM_패키지_매니저.md "wikilink") 기반 [리눅스 배포판을](../Page/리눅스_배포판.md "wikilink") 위한 [패키지 관리도구이다](../Page/패키지_관리자.md "wikilink").

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [IBM ](https://ko.wikipedia.org/wiki/IBM_).
+> This article is converted from Wikipedia: [IBM 탑뷰](https://ko.wikipedia.org/wiki/IBM_탑뷰).
 
 
 **탑뷰**(TopView)는 [IBM](../Page/IBM.md "wikilink")이 개발한 [텍스트 모드](../Page/텍스트_모드.md "wikilink") [PC DOS](https://ko.wikipedia.org/wiki/IBM_PC_DOS "wikilink") 멀티태스킹, 객체 지향 윈도 환경으로, 1984년 8월\[1\] 발표되어 1985년 3월 출하되었다.\[2\]\[3\] 탑뷰는 사용자가 [PC에서](../Page/개인용_컴퓨터.md "wikilink") 하나 이상의 응용 프로그램을 동시에 실행할 수 있게 허용하는 [운영 환경을](https://ko.wikipedia.org/wiki/운영_환경 "wikilink") 제공하였다. IBM은 새로운 [PC AT](https://ko.wikipedia.org/wiki/PC_AT "wikilink") 컴퓨터에 출하할 시점에 대중에게 공개하기 앞서 주요 고객들에게 제품의 초기 버전을 시연하였다.
@@ -21,7 +21,7 @@
 
   - [TopView: An early multi-tasking OS for the PC](https://web.archive.org/web/20100323051442/http://www.dmorrill.com/david/projects/topview/intro.php) - a history of TopView by its lead developer
 
-[분류:도스용 소프트웨어](https://ko.wikipedia.org/wiki/분류:도스용_소프트웨어 "wikilink") [분류:IBM 소프트웨어](https://ko.wikipedia.org/wiki/분류:IBM_소프트웨어 "wikilink") [분류:운영 체제 API](https://ko.wikipedia.org/wiki/분류:운영_체제_API "wikilink") [분류:프로세스](https://ko.wikipedia.org/wiki/분류:프로세스 "wikilink")
+[분류:도스 소프트웨어](https://ko.wikipedia.org/wiki/분류:도스_소프트웨어 "wikilink") [분류:IBM 소프트웨어](https://ko.wikipedia.org/wiki/분류:IBM_소프트웨어 "wikilink") [분류:운영 체제 API](https://ko.wikipedia.org/wiki/분류:운영_체제_API "wikilink") [분류:프로세스](https://ko.wikipedia.org/wiki/분류:프로세스 "wikilink")
 
 1.  IBM. *TopView Announcement Letter*. 1984-08-14 ([1](http://www-01.ibm.com/common/ssi/ShowDoc.wss?docURL=/common/ssi/rep_ca/2/897/ENUS284-282/index.html&lang=en&request_locale=en)).
 2.  IBM. *TopView Announcement Letter*. 1985-02-19 ([2](http://www-01.ibm.com/common/ssi/ShowDoc.wss?docURL=/common/ssi/rep_ca/1/897/ENUS285-071/index.html&lang=en&request_locale=en)).

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ X  ](https://ko.wikipedia.org/wiki/_X__).
+> This article is converted from Wikipedia: [먹거리 X파일의 에피소드 목록](https://ko.wikipedia.org/wiki/먹거리_X파일의_에피소드_목록).
 
 
 다음은 《[먹거리 X파일](../Page/먹거리_X파일.md "wikilink")》의 에피소드 목록이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ OST](https://ko.wikipedia.org/wiki/_OST).
+> This article is converted from Wikipedia: [강아지똥 OST](https://ko.wikipedia.org/wiki/강아지똥_OST).
 
 
 《**강아지똥 O.S.T**》은 [이루마](../Page/이루마.md "wikilink")가 [음악감독](https://ko.wikipedia.org/wiki/음악감독 "wikilink")을 맡아 [작사](https://ko.wikipedia.org/wiki/작사 "wikilink"), [작곡](https://ko.wikipedia.org/wiki/작곡 "wikilink"), [편곡](../Page/편곡.md "wikilink"), [연주](https://ko.wikipedia.org/wiki/연주 "wikilink"), [프로듀싱](https://ko.wikipedia.org/wiki/프로듀싱 "wikilink")까지 맡은 [애니메이션](../Page/애니메이션.md "wikilink") 오리지널 사운드 트랙. 애니메이션 《[강아지똥](https://ko.wikipedia.org/wiki/강아지똥 "wikilink")》은 [2003 토쿄 국제애니메이션 페어](https://ko.wikipedia.org/wiki/2003_토쿄_국제애니메이션_페어 "wikilink")(TAF) 최우수상 수상, [동아LG국제만화페스티벌](https://ko.wikipedia.org/wiki/동아LG국제만화페스티벌 "wikilink") 대상을 수상한 [수작](https://ko.wikipedia.org/wiki/수작 "wikilink")이다. 앨범에는 이루마와 어린이가 함께 부른 노래 "[Dream](https://ko.wikipedia.org/wiki/Dream "wikilink")"을 비롯해 주제를 함축적으로 표현한 "[All Myself To You](https://ko.wikipedia.org/wiki/All_Myself_To_You "wikilink")", 광고음악으로도 사용된 "[One Day I Will](https://ko.wikipedia.org/wiki/One_Day_I_Will "wikilink")" 등이 수록되어 있다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [OS](https://ko.wikipedia.org/wiki/OS).
+> This article is converted from Wikipedia: [리니지OS](https://ko.wikipedia.org/wiki/리니지OS).
 
 
 **리니지OS**(LineageOS), 또는 **리니지OS 안드로이드 배포판**(LineageOS Android Distribution) 또는 **리니지**(Lineage, /ˈlɪn.i.ɪdʒ/)는 [안드로이드](../Page/안드로이드_\(운영_체제\).md "wikilink") 모바일 플랫폼 기반의 [스마트폰](../Page/스마트폰.md "wikilink") 및 [태블릿 컴퓨터용](../Page/태블릿_컴퓨터.md "wikilink") [자유 및 오픈 소스](../Page/자유_소프트웨어.md "wikilink") [운영 체제이다](../Page/운영_체제.md "wikilink"). 매우 유명한 [커스텀 ROM](https://ko.wikipedia.org/wiki/커스텀_ROM "wikilink") [사이애노젠모드](https://ko.wikipedia.org/wiki/사이애노젠모드 "wikilink")의 뒤를 잇으며 [사이애노젠모드](https://ko.wikipedia.org/wiki/사이애노젠모드 "wikilink")의 개발 중단으로 프로젝트 종료를 발표한 2016년 12월 [분기되었다](../Page/포크_\(소프트웨어_개발\).md "wikilink").\[1\]\[2\] 사이애노젠사가 사이애노젠이라는 이름의 권리를 보유하고 있기 때문에 이 프로젝트는 리니지OS로 이름을 변경하였다.\[3\]

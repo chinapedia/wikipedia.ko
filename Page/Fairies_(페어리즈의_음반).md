@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Fairies \( \)](https://ko.wikipedia.org/wiki/Fairies_\(_\)).
+> This article is converted from Wikipedia: [Fairies \(페어리즈의 음반\)](https://ko.wikipedia.org/wiki/Fairies_\(페어리즈의_음반\)).
 
 
 | 이 앨범에 수록된 싱글                                                                  |
@@ -40,11 +40,10 @@
 
 ## 타이업
 
-|                                                                 |                                                                        |  |
-| --------------------------------------------------------------- | ---------------------------------------------------------------------- |  |
-| [히카리노하테니](../Page/히카리노하테니.md "wikilink")                        | [테레비도쿄](https://ko.wikipedia.org/wiki/테레비도쿄 "wikilink") 《쥬얼펫 해피니스 주제가》 |  |
-| [White Angel](../Page/White_Angel.md "wikilink")                | [TBS](https://ko.wikipedia.org/wiki/TBS "wikilink") 《이카사마 타코사마 엔딩테마》   |  |
-| [More Kiss](https://ko.wikipedia.org/wiki/More_Kiss "wikilink") |                                                                        |  |
-| [Run With U](../Page/Run_With_U.md "wikilink")                  | [테레비도쿄](https://ko.wikipedia.org/wiki/테레비도쿄 "wikilink") 《레이디 쥬얼펫 엔딩테마》 |  |
+|                                                  |                                                                        |  |
+| ------------------------------------------------ | ---------------------------------------------------------------------- |  |
+| [히카리노하테니](../Page/히카리노하테니.md "wikilink")         | [테레비도쿄](https://ko.wikipedia.org/wiki/테레비도쿄 "wikilink") 《쥬얼펫 해피니스》 주제가 |  |
+| [White Angel](../Page/White_Angel.md "wikilink") | [TBS](https://ko.wikipedia.org/wiki/TBS "wikilink") 《이카사마 타코사마》 엔딩테마   |  |
+| [Run With U](../Page/Run_With_U.md "wikilink")   | [테레비도쿄](https://ko.wikipedia.org/wiki/테레비도쿄 "wikilink") 《레이디 쥬얼펫》 엔딩테마 |  |
 
-[분류:2014년 음반](https://ko.wikipedia.org/wiki/분류:2014년_음반 "wikilink") [분류:페어리즈의 음반](https://ko.wikipedia.org/wiki/분류:페어리즈의_음반 "wikilink") [분류:일본의 음반](https://ko.wikipedia.org/wiki/분류:일본의_음반 "wikilink")
+[분류:2014년 음반](https://ko.wikipedia.org/wiki/분류:2014년_음반 "wikilink") [분류:페어리즈의 노래](https://ko.wikipedia.org/wiki/분류:페어리즈의_노래 "wikilink") [분류:일본의 음반](https://ko.wikipedia.org/wiki/분류:일본의_음반 "wikilink")

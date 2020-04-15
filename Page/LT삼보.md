@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [LT](https://ko.wikipedia.org/wiki/LT).
+> This article is converted from Wikipedia: [LT삼보](https://ko.wikipedia.org/wiki/LT삼보).
 
 
 **LT삼보 주식회사**()는 [희성그룹](https://ko.wikipedia.org/wiki/희성그룹 "wikilink")에서 2019년 독립한 LT그룹 계열의 종합건설 기업이다. 구본식 회장은 2018년까지 희성그룹 부회장으로 활동하다가 2019년 LT그룹을 출범, 엘티삼보를 주축으로 지배구조를 구축했다. LT그룹 계열사는 사실상 지주회사 격인 엘티삼보를 비롯하여, LT정밀(옛 희성정밀), LT메탈(옛 희성금속), LT소재(옛 희성소재) 등이 있다. 엘티삼보는 2018년 연결기준 매출 1조1536억원을 기록했다. 영업이익은 1873억원이다. 2017년 매출액 7594억원, 영업이익 954억원 대비 가파른 성장수치다.\[1\]

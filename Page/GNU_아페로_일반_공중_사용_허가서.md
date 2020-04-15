@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [GNU     ](https://ko.wikipedia.org/wiki/GNU_____).
+> This article is converted from Wikipedia: [GNU 아페로 일반 공중 사용 허가서](https://ko.wikipedia.org/wiki/GNU_아페로_일반_공중_사용_허가서).
 
 
 **GNU 아페로 일반 공중 사용 허가서**(GNU Affero General Public License)는 2007년 11월 [자유 소프트웨어 재단이](../Page/자유_소프트웨어_재단.md "wikilink") 출판한 [자유](https://ko.wikipedia.org/wiki/자유_소프트웨어_운동 "wikilink") [카피레프트](../Page/카피레프트.md "wikilink") 라이선스로서, [GNU 일반 공중 사용 허가서](../Page/GNU_일반_공중_사용_허가서.md "wikilink") v3 및 [아페로 일반 공중 사용 허가서에](https://ko.wikipedia.org/wiki/아페로_일반_공중_사용_허가서 "wikilink") 네트워크와 상호 작용하는 소프트웨어의 소스 코드도 공개해야 한다는 조항을 추가한 것이다.

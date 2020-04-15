@@ -9,7 +9,7 @@
 
 ## 미국판
 
-1965년 7월 미국에서 처음 발행된 《Out of Our Heads》(《[12 X 5](https://ko.wikipedia.org/wiki/12_X_5 "wikilink")》와 《[The Rolling Stones No. 2](https://ko.wikipedia.org/wiki/The_Rolling_Stones_No._2 "wikilink")》 음반 표지에 사용된 것과 같은 포토 세션의 촬영을 특징으로 한다.)는 B-사이드에 대한 톱 10 히트곡 〈[The Last Time](https://ko.wikipedia.org/wiki/The_Last_Time "wikilink")〉과 세계 1위 〈[(I Can't Get No) Satisfaction](../Page/\(I_Can't_Get_No\)_Satisfaction.md "wikilink")〉을 비롯해 영국 전용 라이브 EP 《[Got Live If You Want It\!](https://ko.wikipedia.org/wiki/Got_Live_If_You_Want_It! "wikilink")》의 트랙을 포함해 6개월에 걸쳐 만들어진 음반들을 혼합한 것이었다.
+1965년 7월 미국에서 처음 발행된 《Out of Our Heads》(《[12 X 5](https://ko.wikipedia.org/wiki/12_X_5 "wikilink")》와 《[The Rolling Stones No. 2](../Page/The_Rolling_Stones_No._2.md "wikilink")》 음반 표지에 사용된 것과 같은 포토 세션의 촬영을 특징으로 한다.)는 B-사이드에 대한 톱 10 히트곡 〈[The Last Time](https://ko.wikipedia.org/wiki/The_Last_Time "wikilink")〉과 세계 1위 〈[(I Can't Get No) Satisfaction](../Page/\(I_Can't_Get_No\)_Satisfaction.md "wikilink")〉을 비롯해 영국 전용 라이브 EP 《[Got Live If You Want It\!](https://ko.wikipedia.org/wiki/Got_Live_If_You_Want_It! "wikilink")》의 트랙을 포함해 6개월에 걸쳐 만들어진 음반들을 혼합한 것이었다.
 
 2003년, 미국판은 《[롤링 스톤](../Page/롤링_스톤.md "wikilink")》의 [역사상 가장 위대한 음반 500장에](https://ko.wikipedia.org/wiki/역사상_가장_위대한_음반_500장 "wikilink") 116위에 올랐다.\[1\]
 

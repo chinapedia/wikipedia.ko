@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Elvis Presley \(\)](https://ko.wikipedia.org/wiki/Elvis_Presley_\(\)).
+> This article is converted from Wikipedia: [Elvis Presley \(음반\)](https://ko.wikipedia.org/wiki/Elvis_Presley_\(음반\)).
 
 
 《**Elvis Presley**》(영국 발매시 제목은 《**Elvis Presley Rock n' Roll**》\[1\])는 미국의 가수 겸 음악가 [엘비스 프레슬리의](../Page/엘비스_프레슬리.md "wikilink") 데뷔 정규 음반이다. 1956년 3월 [RCA 빅터에서](https://ko.wikipedia.org/wiki/RCA_빅터 "wikilink") 발행번호 LPM 1254의 모노반으로 발매했다. 녹음 세션은 1월 10일에서 1월 11일까지 [테네시 주 내슈빌](../Page/내슈빌.md "wikilink") [RCA 빅터](https://ko.wikipedia.org/wiki/RCA_빅터 "wikilink") 녹음실에서, 1월 30일에서 1월 31일까지 [뉴욕 시](https://ko.wikipedia.org/wiki/뉴욕_시 "wikilink") RCA 빅터 녹음실에서 진행되었다. [테네시 주 멤피스](https://ko.wikipedia.org/wiki/멤피스_\(테네시_주\) "wikilink") [선 레코드에서](../Page/선_레코드.md "wikilink") 1954년 7월 5일, 8월 19일, 9월 10일, 1955년 7월 11일 취입된 곡들도 있다.\[2\]

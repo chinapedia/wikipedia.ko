@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [GAP \(  \)](https://ko.wikipedia.org/wiki/GAP_\(__\)).
+> This article is converted from Wikipedia: [GAP \(컴퓨터 대수학 시스템\)](https://ko.wikipedia.org/wiki/GAP_\(컴퓨터_대수학_시스템\)).
 
 
 **GAP**([군](../Page/군_\(수학\).md "wikilink"), [알고리즘](../Page/알고리즘.md "wikilink") 그리고 [프로그래밍](../Page/컴퓨터_프로그래밍.md "wikilink"))은 특히 [계산군론](https://ko.wikipedia.org/wiki/계산군론 "wikilink")에 중점을 둔 계산 이산 대수학을 위한 [컴퓨터 대수학 시스템이다](https://ko.wikipedia.org/wiki/컴퓨터_대수학_시스템 "wikilink").

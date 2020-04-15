@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TAP   ](https://ko.wikipedia.org/wiki/TAP___).
+> This article is converted from Wikipedia: [TAP 익스프레스의 운항 노선](https://ko.wikipedia.org/wiki/TAP_익스프레스의_운항_노선).
 
 
 [2017년](../Page/2017년.md "wikilink") [1월](../Page/1월.md "wikilink") 기준, **[TAP 익스프레스](../Page/TAP_익스프레스.md "wikilink")**는 다음과 같은 노선을 운항중이다.

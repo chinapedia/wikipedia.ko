@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  2: DC  ](https://ko.wikipedia.org/wiki/__2:_DC__).
+> This article is converted from Wikipedia: [레고 배트맨 2: DC 슈퍼 히어로즈](https://ko.wikipedia.org/wiki/레고_배트맨_2:_DC_슈퍼_히어로즈).
 
 
 《**레고 배트맨 2: DC 슈퍼 히어로즈**》()는 [레고 배트맨](https://ko.wikipedia.org/wiki/레고_배트맨 "wikilink") 장난감 프랜차이즈를 기반으로 한 [액션 어드벤처 게임이다](https://ko.wikipedia.org/wiki/액션_어드벤처_게임 "wikilink"). 2008년 게임 《[레고 배트맨: 더 비디오게임](../Page/레고_배트맨:_더_비디오게임.md "wikilink")》의 속편으로, [트래블러스 테일스에서](../Page/트래블러스_테일스.md "wikilink") 개발하여 2012년 [워너 브라더스 인터랙티브 엔터테인먼트에서](https://ko.wikipedia.org/wiki/워너_브라더스_인터랙티브_엔터테인먼트 "wikilink") [플레이스테이션 3](../Page/플레이스테이션_3.md "wikilink"), [플레이스테이션 비타](https://ko.wikipedia.org/wiki/플레이스테이션_비타 "wikilink"), [Wii U와](../Page/Wii_U.md "wikilink") [Wii](../Page/Wii.md "wikilink"), [엑스박스 360판](../Page/엑스박스_360.md "wikilink") 등으로 발매하였다. 휴대용 기기판이 따로 [TT 퓨전에](https://ko.wikipedia.org/wiki/TT_퓨전 "wikilink") 의해 개발되었으며, [닌텐도 3DS와](../Page/닌텐도_3DS.md "wikilink") [닌텐도 DS판으로](../Page/닌텐도_DS.md "wikilink") 발매되었다.

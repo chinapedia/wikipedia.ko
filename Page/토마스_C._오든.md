@@ -1,9 +1,9 @@
-> This article is converted from Wikipedia: [ C. ](https://ko.wikipedia.org/wiki/_C._).
+> This article is converted from Wikipedia: [토마스 C. 오든](https://ko.wikipedia.org/wiki/토마스_C._오든).
 
 
-**토마스 오든**(Thomas Clark Oden,1931. 10. 21, - 2016. 12. 8)은 감리교회의 신학자이며 종교 연구가이며, [고전정통주의](https://ko.wikipedia.org/wiki/고전정통주의 "wikilink")를 형성한 신학자이다.
+**토마스 오든**(Thomas Clark Oden,1931. 10. 21, - 2016. 12. 8)은 감리교회의 신학자이며 종교 연구가이며, [고전정통주의](../Page/고전정통주의.md "wikilink")를 형성한 신학자이다.
 
-미국, [감리교회](https://ko.wikipedia.org/wiki/감리교회 "wikilink") 목사이며, 감리교 계통 대학인 [드류대학교](https://ko.wikipedia.org/wiki/드류대학교 "wikilink") 신학대학원에서 [조직신학](../Page/조직신학.md "wikilink")과 [기독교윤리](https://ko.wikipedia.org/wiki/기독교윤리 "wikilink")를 가르쳤고, [개신교회](https://ko.wikipedia.org/wiki/개신교회 "wikilink")의 '[고전정통주의](https://ko.wikipedia.org/wiki/고전정통주의 "wikilink") 신학'의 아버지로 불린다. 기독교 신학계에서는 20세기에서 21세기를 열었던 가장 영향력 있는 신학자들 중 한 명으로 뽑힌다.
+미국, [감리교회](https://ko.wikipedia.org/wiki/감리교회 "wikilink") 목사이며, 감리교 계통 대학인 [드류대학교](https://ko.wikipedia.org/wiki/드류대학교 "wikilink") 신학대학원에서 [조직신학](../Page/조직신학.md "wikilink")과 [기독교윤리](https://ko.wikipedia.org/wiki/기독교윤리 "wikilink")를 가르쳤고, [개신교회](https://ko.wikipedia.org/wiki/개신교회 "wikilink")의 '[고전정통주의](../Page/고전정통주의.md "wikilink") 신학'의 아버지로 불린다. 기독교 신학계에서는 20세기에서 21세기를 열었던 가장 영향력 있는 신학자들 중 한 명으로 뽑힌다.
 
 ## 약력
 
@@ -27,7 +27,7 @@
 
 ## 고전정통주의 정립
 
-이런 오든의 신학적 사상과 저작은 **'[고전정통주의](https://ko.wikipedia.org/wiki/고전정통주의 "wikilink")**'(paleo-orthodoxy)로 불리며 [개신교회](https://ko.wikipedia.org/wiki/개신교회 "wikilink") 내에서 21세기 신학적 중요한 주제로 발전하였다. 특히 [감리교회](https://ko.wikipedia.org/wiki/감리교회 "wikilink")를 포함한 [공교회주의](https://ko.wikipedia.org/wiki/공교회주의 "wikilink") 노선의 개신교회 교파들에게 많은 영향을 끼쳤으며, [개혁주의](https://ko.wikipedia.org/wiki/개혁주의 "wikilink") 노선의 개신교파에도 교부들 연구와 전통에 대한 관심을 불러일으켰다. [대한민국](../Page/대한민국.md "wikilink") 내에서는 [기독교](../Page/기독교.md "wikilink") 신구교 할 것 없이 고대정통주의 신학 연구와 신학 고전, 교부신학 연구에는 오든의 연구결과가 참조되며, 교부들과 고대 기독교회 본문과 교부 및 고대 신학 자료 등도 신구교 출판사들에서 번역하여 출판하였다.
+이런 오든의 신학적 사상과 저작은 **'[고전정통주의](../Page/고전정통주의.md "wikilink")**'(paleo-orthodoxy)로 불리며 [개신교회](https://ko.wikipedia.org/wiki/개신교회 "wikilink") 내에서 21세기 신학적 중요한 주제로 발전하였다. 특히 [감리교회](https://ko.wikipedia.org/wiki/감리교회 "wikilink")를 포함한 [공교회주의](https://ko.wikipedia.org/wiki/공교회주의 "wikilink") 노선의 개신교회 교파들에게 많은 영향을 끼쳤으며, [개혁주의](https://ko.wikipedia.org/wiki/개혁주의 "wikilink") 노선의 개신교파에도 교부들 연구와 전통에 대한 관심을 불러일으켰다. [대한민국](../Page/대한민국.md "wikilink") 내에서는 [기독교](../Page/기독교.md "wikilink") 신구교 할 것 없이 고대정통주의 신학 연구와 신학 고전, 교부신학 연구에는 오든의 연구결과가 참조되며, 교부들과 고대 기독교회 본문과 교부 및 고대 신학 자료 등도 신구교 출판사들에서 번역하여 출판하였다.
 
 특히 그의 신학적 흐름과 전개를 보여주는 [조직신학](../Page/조직신학.md "wikilink")([교리신학](https://ko.wikipedia.org/wiki/교리신학 "wikilink")) 서적인 '고전 기독교: 조직신학' (Classic Christianity: A Systematic Theology, 2009)은 그가 주장하는 전통 복음주의와 고전정통주의를 이해하는 중요한 저작이다. 그리고 이론만이 아니라 실천적 분야에서 고전 전통을 따르고 수용한 [목회](https://ko.wikipedia.org/wiki/목회 "wikilink")(사목)의 방향을 제시한 '목회신학'(Pastoral Theology: Essentials of Ministry, 1983)은 [성직자](../Page/성직자.md "wikilink")로서 안수 받은 [목사](../Page/목사.md "wikilink")의 사명에서 보살핌까지 성례전을 포함하여 모든 목회 범위를 고전의 바탕 위에서 다시 한번 명확히 구성하여 제시하였다.
 
@@ -115,7 +115,7 @@
 
 ## 함께 보기
 
-  - [고전정통주의](https://ko.wikipedia.org/wiki/고전정통주의 "wikilink")
+  - [고전정통주의](../Page/고전정통주의.md "wikilink")
   - [신정통주의](../Page/신정통주의.md "wikilink")
   - [교부](../Page/교부.md "wikilink")
   - [공교회주의](https://ko.wikipedia.org/wiki/공교회주의 "wikilink")

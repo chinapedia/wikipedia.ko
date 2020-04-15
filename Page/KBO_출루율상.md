@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KBO ](https://ko.wikipedia.org/wiki/KBO_).
+> This article is converted from Wikipedia: [KBO 출루율상](https://ko.wikipedia.org/wiki/KBO_출루율상).
 
 
 **KBO 출루율상**은 연말 [KBO 리그](https://ko.wikipedia.org/wiki/KBO_리그 "wikilink") 시상식에서 해당 연도 정규 리그의 [출루율](https://ko.wikipedia.org/wiki/출루율 "wikilink") 1위에게 수여하는 상이다. 기존 명칭은 **한국프로야구 최고출루율상**이었으나 KBO의 브랜드 아이덴디티 통합 작업에 따라 2015년 시즌부터 "KBO 출루율상"이라는 새로운 명칭을 사용하게 되었다.\[1\]

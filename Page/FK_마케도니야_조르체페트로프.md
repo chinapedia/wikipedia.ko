@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FK  ](https://ko.wikipedia.org/wiki/FK__).
+> This article is converted from Wikipedia: [FK 마케도니야 조르체페트로프](https://ko.wikipedia.org/wiki/FK_마케도니야_조르체페트로프).
 
 
 **FK 마케도니야 조르체페트로프**()는 [스코페](../Page/스코페.md "wikilink")를 구성하는 지방 자치체 가운데 하나인 [조르체페트로프시를](https://ko.wikipedia.org/wiki/조르체페트로프_시 "wikilink") 연고로 하는 [북마케도니아](../Page/북마케도니아.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다. 현재는 [북마케도니아 2부 리그에](https://ko.wikipedia.org/wiki/북마케도니아_2부_리그 "wikilink") 참가하고 있다.

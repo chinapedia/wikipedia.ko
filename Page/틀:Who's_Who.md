@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Who\'s Who](https://ko.wikipedia.org/wiki/:Who\'s_Who).
+> This article is converted from Wikipedia: [틀:Who\'s Who](https://ko.wikipedia.org/wiki/틀:Who\'s_Who).
 
 
 <includeonly>/ | accessdate =  | edition =  | series = \[\[Who's_Who_(UK)|{{\#switch:{</includeonly><noinclude>

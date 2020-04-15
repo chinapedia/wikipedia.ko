@@ -61,13 +61,13 @@
 
 결국, 북한 핵무장과 비핵화의 차이가 별로 크지 않다. 어차피 한일도 듀얼키의 맞핵무장인 핵무기 공유로 가게 될 것이다. 그렇다면, 왜 그렇게 굳이 애써서, 북한 핵무장을 해야만 하는지는, 의문이다. IAEA 사찰단이 북한에 자유롭게 사찰하든 못하든, 한일은 어차피 핵무기 공유로 가게 될 것이니까. 결국, 북한 비핵화는 탁상공론이며 실익없는 논쟁이란 비판이 있을 수 있다.
 
-이런 비판은 트럼프 행정부의 [FFVD](https://ko.wikipedia.org/wiki/FFVD "wikilink")에도 동일하게 적용된다.
+이런 비판은 트럼프 행정부의 [FFVD](../Page/FFVD.md "wikilink")에도 동일하게 적용된다.
 
 ## 더 보기
 
   - [조선민주주의인민공화국의 비핵화](../Page/조선민주주의인민공화국의_비핵화.md "wikilink")
   - [CVIG](../Page/CVIG.md "wikilink")
-  - [FFVD](https://ko.wikipedia.org/wiki/FFVD "wikilink")
+  - [FFVD](../Page/FFVD.md "wikilink")
 
 ## 각주
 

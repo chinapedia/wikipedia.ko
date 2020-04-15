@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [ITV ](https://ko.wikipedia.org/wiki/ITV_).
+> This article is converted from Wikipedia: [ITV 스포츠투나잇](https://ko.wikipedia.org/wiki/ITV_스포츠투나잇).
 
 
-**iTV 스포츠투나잇**은 [2000년](../Page/2000년.md "wikilink") [10월 30일부터](../Page/10월_30일.md "wikilink") [2004년](../Page/2004년.md "wikilink") [11월 12일까지](../Page/11월_12일.md "wikilink") 방송되었던 [iTV 경인방송의](../Page/경인방송.md "wikilink") 스포츠 [뉴스](../Page/뉴스.md "wikilink") 프로그램이다.
+**iTV 스포츠투나잇**은 [2000년](../Page/2000년.md "wikilink") [10월 30일부터](../Page/10월_30일.md "wikilink") [2004년](../Page/2004년.md "wikilink") [11월 12일까지](../Page/11월_12일.md "wikilink") 방송되었던 [iTV 경인방송의](../Page/경인방송.md "wikilink") 한주간에 있었던 주요 스포츠 소식을 전해드리는 [뉴스](../Page/뉴스.md "wikilink") 프로그램이다.
 
 [2004년](../Page/2004년.md "wikilink") [11월 12일](../Page/11월_12일.md "wikilink") iTV 파업으로 인해 종영하였다.
 

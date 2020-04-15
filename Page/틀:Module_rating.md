@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Module rating](https://ko.wikipedia.org/wiki/:Module_rating).
+> This article is converted from Wikipedia: [틀:Module rating](https://ko.wikipedia.org/wiki/틀:Module_rating).
 
 
 <includeonly>

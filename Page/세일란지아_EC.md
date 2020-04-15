@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ EC](https://ko.wikipedia.org/wiki/_EC).
+> This article is converted from Wikipedia: [세일란지아 EC](https://ko.wikipedia.org/wiki/세일란지아_EC).
 
 
 **세일란지아 이스포르치 클루비**()는 **세일란지아**라고도 불리며, [1979년](../Page/1979년.md "wikilink")에 창단한 [브라질](../Page/브라질.md "wikilink") [연방구](https://ko.wikipedia.org/wiki/연방구_\(브라질\) "wikilink") [세일란지아](https://ko.wikipedia.org/wiki/세일란지아 "wikilink")를 연고로 하는 [축구](../Page/축구.md "wikilink")팀이다. [2018년](../Page/2018년.md "wikilink") 현재 전국 4부 리그 [캄페오나투 브라질레이루 세리이 D와](../Page/캄페오나투_브라질레이루_세리이_D.md "wikilink") 연방구 리그 [캄페오나투 브라질리엔시에](https://ko.wikipedia.org/wiki/캄페오나투_브라질리엔시 "wikilink") 참가하고 있다.

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [DWARF](https://ko.wikipedia.org/wiki/DWARF).
 
 
-**DWARF**는 널리 사용되는 표준화된 [디버깅 자료 형식이다](https://ko.wikipedia.org/wiki/디버깅_자료_형식 "wikilink"). DWARF는 원래 [ELF 파일 형식을](https://ko.wikipedia.org/wiki/ELF_파일_형식 "wikilink") 위해 만들어 졌지만, 이것은 목적 파일과 독립적이다.\[1\] 이름은 중세 판타지인 "ELF" 같은 것으로서 공식적인 뜻은 없지만 이후에 [배크로님](https://ko.wikipedia.org/wiki/배크로님 "wikilink")인 'Debugging With Attributed Record Formats'이 제안되었다.\[2\]
+**DWARF**는 널리 사용되는 표준화된 [디버깅 자료 형식이다](https://ko.wikipedia.org/wiki/디버깅_자료_형식 "wikilink"). DWARF는 원래 [ELF 파일 형식을](https://ko.wikipedia.org/wiki/ELF_파일_형식 "wikilink") 위해 만들어졌지만, 이것은 목적 파일과 독립적이다.\[1\] 이름은 중세 판타지인 "ELF" 같은 것으로서 공식적인 뜻은 없지만 이후에 [배크로님](https://ko.wikipedia.org/wiki/배크로님 "wikilink")인 'Debugging With Attributed Record Formats'이 제안되었다.\[2\]
 
 ## 역사
 

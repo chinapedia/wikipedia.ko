@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ C. ](https://ko.wikipedia.org/wiki/_C._).
+> This article is converted from Wikipedia: [데이비드 C. 강](https://ko.wikipedia.org/wiki/데이비드_C._강).
 
 
 **데이비드 강**(David Chan-oong Kang, 1965년 \~ )는 미국의 대학교수이다.

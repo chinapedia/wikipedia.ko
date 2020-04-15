@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ICD-10  VII:   ](https://ko.wikipedia.org/wiki/ICD-10__VII:___).
+> This article is converted from Wikipedia: [ICD-10 챕터 VII: 귀와 유양돌기의 질병](https://ko.wikipedia.org/wiki/ICD-10_챕터_VII:_귀와_유양돌기의_질병).
 
 
 **[ICD-10](../Page/ICD-10.md "wikilink")** 목록의 8번째 챕터이다. H60-H95까지를 포괄하며, [귀](../Page/귀.md "wikilink")와 [유양돌기](https://ko.wikipedia.org/wiki/유양돌기 "wikilink")의 질병(Diseases of the ear and mastoid process)에 대한 챕터이다.

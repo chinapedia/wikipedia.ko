@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Timeline Temperature Conversion](https://ko.wikipedia.org/wiki/:Timeline_Temperature_Conversion).
+> This article is converted from Wikipedia: [틀:Timeline Temperature Conversion](https://ko.wikipedia.org/wiki/틀:Timeline_Temperature_Conversion).
 
 
 <timeline> ImageSize = width:905 height:50 PlotArea = left:80 right:15 bottom:20 top:5 AlignBars = justify Colors =

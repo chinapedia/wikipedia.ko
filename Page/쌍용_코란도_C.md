@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  C](https://ko.wikipedia.org/wiki/__C).
+> This article is converted from Wikipedia: [쌍용 코란도 C](https://ko.wikipedia.org/wiki/쌍용_코란도_C).
 
 
 '''쌍용 코란도 C (SsangYong Korando C) '''는 [대한민국](../Page/대한민국.md "wikilink")의 [쌍용자동차](../Page/쌍용자동차.md "wikilink")가 [2011년](../Page/2011년.md "wikilink")부터 [2019년](../Page/2019년.md "wikilink")까지 생산한 [SUV이다](../Page/스포츠_유틸리티_자동차.md "wikilink").

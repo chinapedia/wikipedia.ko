@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [27 KBS ](https://ko.wikipedia.org/wiki/27_KBS_).
+> This article is converted from Wikipedia: [27기 KBS 바둑왕전](https://ko.wikipedia.org/wiki/27기_KBS_바둑왕전).
 
 
 **27기 KBS 바둑왕전**은 TV 속기전이 참가한 국내 바둑 기전이다. 결승에서는 [이창호](../Page/이창호.md "wikilink") 九단이 [이세돌](../Page/이세돌.md "wikilink") 九단을 2대 1로 꺾고 바둑왕전 통산 10회 금자탑을 달성했다.

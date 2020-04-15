@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ L-](https://ko.wikipedia.org/wiki/_L-).
+> This article is converted from Wikipedia: [시미즈 L-함수](https://ko.wikipedia.org/wiki/시미즈_L-함수).
 
 
 수학에서 시미즈 히데오( Hideo Shimizu , 1963 )에 의해 소개된 시미즈 L- 함수는 [완전 실수 체의](https://ko.wikipedia.org/wiki/완전_실수_체 "wikilink") [대수적 수체와](https://ko.wikipedia.org/wiki/대수적_수체 "wikilink") 관련된 [디리클레 시리즈이다](../Page/디리클레_급수.md "wikilink").

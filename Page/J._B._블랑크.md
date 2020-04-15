@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [J. B. ](https://ko.wikipedia.org/wiki/J._B._).
+> This article is converted from Wikipedia: [J. B. 블랑크](https://ko.wikipedia.org/wiki/J._B._블랑크).
 
 
 **J. B. 블랑크**(, [1960년](../Page/1960년.md "wikilink") [4월 28일](../Page/4월_28일.md "wikilink") \~ )는 [프랑스](../Page/프랑스.md "wikilink") 태생의 [영국](../Page/영국.md "wikilink") [성우](../Page/성우.md "wikilink")이다. [파리에서](../Page/파리_\(프랑스\).md "wikilink") 태어났으며 [프랑스어](../Page/프랑스어.md "wikilink") 본명은 **장브누아 블랑**(Jean-Benoît Blanc)이다.

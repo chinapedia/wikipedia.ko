@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ W. ](https://ko.wikipedia.org/wiki/_W._).
+> This article is converted from Wikipedia: [프랭크 W. 밀번](https://ko.wikipedia.org/wiki/프랭크_W._밀번).
 
 
 **프랭크 W. 밀번**(Frank W. Milburn, 1892년 1월 11일- )은 [제1차 세계 대전](../Page/제1차_세계_대전.md "wikilink"), [제2차 세계 대전](../Page/제2차_세계_대전.md "wikilink"), [한국 전쟁에서](../Page/한국_전쟁.md "wikilink") 복무한 미국의 중장이다.

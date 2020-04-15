@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ EC \(\)](https://ko.wikipedia.org/wiki/_EC_\(\)).
+> This article is converted from Wikipedia: [상하이문두 EC \(아마조나스주\)](https://ko.wikipedia.org/wiki/상하이문두_EC_\(아마조나스주\)).
 
 
 **상하이문두 이스포르치 클루비**() 또는 **상하이문두**는 [브라질](../Page/브라질.md "wikilink") [아마조나스주](../Page/아마조나스주.md "wikilink") [마나우스](../Page/마나우스.md "wikilink")을 연고로 하는 축구 클럽이다. 연고지 파라 주의 약어를 따 **상하이문두-AM**이라고도 표기된다. [1918년](../Page/1918년.md "wikilink") [11월 18일](../Page/11월_18일.md "wikilink") 창단하였다.

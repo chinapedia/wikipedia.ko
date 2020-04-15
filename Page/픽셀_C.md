@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ C](https://ko.wikipedia.org/wiki/_C).
+> This article is converted from Wikipedia: [픽셀 C](https://ko.wikipedia.org/wiki/픽셀_C).
 
 
 **픽셀 C**(Pixel C)는 [구글](../Page/구글.md "wikilink")이 개발하고 마케팅한 10.2인치 [안드로이드](../Page/안드로이드_\(운영_체제\).md "wikilink") [태블릿이다](../Page/태블릿_컴퓨터.md "wikilink"). 이 장치는 2015년 9월 29일 한 미디어 이벤트에서 모습을 드러냈다.\[1\]

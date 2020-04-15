@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [I.F \(GNZ48 \)](https://ko.wikipedia.org/wiki/I.F_\(GNZ48_\)).
+> This article is converted from Wikipedia: [I.F \(GNZ48의 음반\)](https://ko.wikipedia.org/wiki/I.F_\(GNZ48의_음반\)).
 
 
 《**I.F**》는 중국의 걸 그룹 [GNZ48](../Page/GNZ48.md "wikilink")의 세 반째 [EP](https://ko.wikipedia.org/wiki/EP "wikilink")이다. 타이틀 곡의 센터 포지션은 팀NIII의 류리페이가 맡았다

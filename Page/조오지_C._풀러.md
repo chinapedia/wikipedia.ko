@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ C. ](https://ko.wikipedia.org/wiki/_C._).
+> This article is converted from Wikipedia: [조오지 C. 풀러](https://ko.wikipedia.org/wiki/조오지_C._풀러).
 
 
 **조오지 C. 풀러**(George C. Fuller)는 미국의 [웨스트민스터 신학교](../Page/웨스트민스터_신학교.md "wikilink") 의 [실천신학](https://ko.wikipedia.org/wiki/실천신학 "wikilink") 교수와 총장을 하였다.\[1\] 1984년부터 1991년까지 총장을 역임하였다.\[2\] 풀러는 [미국 장로교회](https://ko.wikipedia.org/wiki/미국_장로교회 "wikilink")(PCA)이다.\[3\]

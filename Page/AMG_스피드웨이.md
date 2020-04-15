@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [AMG ](https://ko.wikipedia.org/wiki/AMG_).
+> This article is converted from Wikipedia: [AMG 스피드웨이](https://ko.wikipedia.org/wiki/AMG_스피드웨이).
 
 
 **AMG 스피드웨이**는 경기도 [용인시](../Page/용인시.md "wikilink")의 [에버랜드](../Page/에버랜드.md "wikilink")에 있는 자동차 경주용 서킷이다. **에버랜드 스피드웨이**라고도 부른다.

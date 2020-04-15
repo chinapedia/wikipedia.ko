@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Bo Diddley \(\)](https://ko.wikipedia.org/wiki/Bo_Diddley_\(\)).
+> This article is converted from Wikipedia: [Bo Diddley \(노래\)](https://ko.wikipedia.org/wiki/Bo_Diddley_\(노래\)).
 
 
 〈**Bo Diddley**〉는 [보 디들리가](../Page/보_디들리.md "wikilink") 시카코 [유니버셜 레코딩 스튜디오에서](https://ko.wikipedia.org/wiki/유니버셜_레코딩_스튜디오 "wikilink") 녹음한 [리듬 앤 블루스](https://ko.wikipedia.org/wiki/리듬_앤_블루스 "wikilink") 및 [로큰롤](../Page/로큰롤.md "wikilink") 노래다. 1955년 [체스 레코드의](../Page/체스_레코드.md "wikilink") 자회사 [체커 레코드에서](https://ko.wikipedia.org/wiki/체커_레코드 "wikilink") 발매했다. 나온 즉시 히트 싱글이 되었고 R\&B 차트에서 통산 18주 머물렀다. 이 중 2주는 1위를 달성했으며, 차트에서 뒷면 〈I'm a Man〉 보다 7주간 더 머물렀다.\[1\] 이 노래는 [두들기는 주바](https://ko.wikipedia.org/wiki/주바_댄스 "wikilink") 비트가 사용된, 아프리카 리듬이 로큰롤에 적용된 최초의 사례다. 보 디들리가 처음으로 한 녹음이자 그의 첫 히트 싱글이었다.\[2\] 노래는 《[His Best](https://ko.wikipedia.org/wiki/His_Best_\(보_디들리의_음반\) "wikilink")》 등 디들리의 컴필레이션 음반에 자주 수록된다.

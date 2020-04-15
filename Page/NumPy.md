@@ -121,9 +121,9 @@ Nearest point to q: [3 4 4]
 
 ## 같이 보기
 
-  - [SciPy](https://ko.wikipedia.org/wiki/SciPy "wikilink")
+  - [SciPy](../Page/SciPy.md "wikilink")
   - [SymPy](https://ko.wikipedia.org/wiki/SymPy "wikilink")
-  - [Matplotlib](https://ko.wikipedia.org/wiki/Matplotlib "wikilink")
+  - [Matplotlib](../Page/Matplotlib.md "wikilink")
 
 ## 외부 링크
 

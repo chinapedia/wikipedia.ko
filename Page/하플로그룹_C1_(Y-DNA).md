@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ C1 \(Y-DNA\)](https://ko.wikipedia.org/wiki/_C1_\(Y-DNA\)).
+> This article is converted from Wikipedia: [하플로그룹 C1 \(Y-DNA\)](https://ko.wikipedia.org/wiki/하플로그룹_C1_\(Y-DNA\)).
 
 
 **하플로그룹 C-F3393** 또는 **하플로그룹 C1**은 주요 [인류 Y-염색체 DNA 하플로그룹의](https://ko.wikipedia.org/wiki/인류_Y-염색체_DNA_하플로그룹 "wikilink") 하나로, [하플로그룹 C2](../Page/하플로그룹_C2_\(Y-DNA\).md "wikilink")(C-M217; 前 C3)와 함께 [하플로그룹 C (Y-DNA)의](../Page/하플로그룹_C_\(Y-DNA\).md "wikilink") 주요 분파 계통이다. 기초 [파라그룹](../Page/파라그룹.md "wikilink") C1\* (C-F3393\*)은 아직까지 발견되지 않고 있다.

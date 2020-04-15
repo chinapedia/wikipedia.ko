@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [NHK   ](https://ko.wikipedia.org/wiki/NHK___).
+> This article is converted from Wikipedia: [NHK 밤 연속 드라마](https://ko.wikipedia.org/wiki/NHK_밤_연속_드라마).
 
 
 **NHK 밤 연속 드라마**는 [2002년](../Page/2002년.md "wikilink") - [2005년](../Page/2005년.md "wikilink")까지 [NHK 종합에서](../Page/NHK_종합_텔레비전.md "wikilink") [방송](../Page/방송.md "wikilink") 된 연속 드라마.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [IETF  ](https://ko.wikipedia.org/wiki/IETF__).
+> This article is converted from Wikipedia: [IETF 언어 태그](https://ko.wikipedia.org/wiki/IETF_언어_태그).
 
 
 **IETF 언어 태그**()는 [BCP](https://ko.wikipedia.org/wiki/BCP "wikilink") 47(현재는 [RFC 5646](http://tools.ietf.org/html/rfc5646)과 [RFC 4647](http://tools.ietf.org/html/rfc4647))에 따라서 정의되는 기술 사양이다. 이것은 [HTTP](https://ko.wikipedia.org/wiki/Hypertext_Transfer_Protocol "wikilink")\[1\], [HTML](../Page/HTML.md "wikilink")\[2\], [XML](../Page/XML.md "wikilink")\[3\], [PNG](../Page/PNG.md "wikilink")\[4\] 등과 같은 대부분의 기술 표준에서 사용된다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Gen.G e](https://ko.wikipedia.org/wiki/Gen.G_e).
+> This article is converted from Wikipedia: [Gen.G e스포츠](https://ko.wikipedia.org/wiki/Gen.G_e스포츠).
 
 
 **Gen.G e스포츠**(Gen.G eSports)는 대한민국의 종합 프로게임단으로 [오버워치 리그의](https://ko.wikipedia.org/wiki/오버워치_리그 "wikilink") 프랜차이즈 서울 다이너스티를 시작으로 총 6가지 종목의 팀을 운영하고 있다.
@@ -172,13 +172,13 @@ Gen.G e스포츠 팀 산하의 [서울특별시](../Page/서울특별시.md "wik
   - 코치 : 배승후
   - 선수
 
-김민기 Gen.G Chelator
+(???) Gen.G Menteul
 
 박정영 Gen.G Loki
 
-고정완 Gen.G esther
+(???) Gen.G AquaV
 
-강태민 Gen.G Taemin
+나희주 Gen.G Inonix
 
 차승훈 Gen.G Pio
 

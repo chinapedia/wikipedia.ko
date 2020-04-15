@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  vs. ](https://ko.wikipedia.org/wiki/__vs._).
+> This article is converted from Wikipedia: [백수전대 가오레인저 vs. 슈퍼전대](https://ko.wikipedia.org/wiki/백수전대_가오레인저_vs._슈퍼전대).
 
 
 《**백수전대 가오레인저 vs. 슈퍼전대**》(百獣戦隊ガオレンジャーVSスーパー戦隊)는 [2001년](../Page/2001년.md "wikilink") [8월 10일에](../Page/8월_10일.md "wikilink") 발매된 오리지널 비디오 작품이다. 《[백수전대 가오레인저](../Page/백수전대_가오레인저.md "wikilink")》의 오리지널 비디오 작품이며, 슈퍼 전대 vs. 시리즈의 하나이다.

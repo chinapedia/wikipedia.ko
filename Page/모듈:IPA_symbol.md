@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:IPA symbol](https://ko.wikipedia.org/wiki/:IPA_symbol).
+> This article is converted from Wikipedia: [모듈:IPA symbol](https://ko.wikipedia.org/wiki/모듈:IPA_symbol).
 
 
 local p, __output, args, data = {}, {}, {}, mw.loadData("Module:IPA symbol/data") local id, output

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [CMU ](https://ko.wikipedia.org/wiki/CMU_).
+> This article is converted from Wikipedia: [CMU 글꼴](https://ko.wikipedia.org/wiki/CMU_글꼴).
 
 
 컴퓨터 모던 유니코드 글꼴(Computer Modern Unicode font family) 또는 CMU 글꼴은 조판 프로그램 [TeX](../Page/TeX.md "wikilink") 에서 사용된 서체의 원래 패밀리이다. [도날드 크누스](https://ko.wikipedia.org/wiki/도날드_크누스 "wikilink")(Donald Knuth)가 메타폰트(Metafont) 프로그램으로 만들었으며 1992년에 가장 최근에 업데이트되었다.\[1\] CMU 글꼴 또는 그 변형은 과학 출판, 특히 수학 표기법을 자주 사용하는 학문 분야에서 널리 사용 되고있다.

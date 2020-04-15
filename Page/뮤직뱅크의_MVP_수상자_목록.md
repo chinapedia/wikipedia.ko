@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ MVP  ](https://ko.wikipedia.org/wiki/_MVP__).
+> This article is converted from Wikipedia: [뮤직뱅크의 MVP 수상자 목록](https://ko.wikipedia.org/wiki/뮤직뱅크의_MVP_수상자_목록).
 
 
 아래는 [KBS 2TV의](../Page/KBS_2TV.md "wikilink") 예능 프로그램인 《**[뮤직뱅크](../Page/뮤직뱅크.md "wikilink")**》의 **MVP 수상자 목록**이다.

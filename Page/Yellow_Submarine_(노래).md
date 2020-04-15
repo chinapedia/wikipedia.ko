@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Yellow Submarine \(\)](https://ko.wikipedia.org/wiki/Yellow_Submarine_\(\)).
+> This article is converted from Wikipedia: [Yellow Submarine \(노래\)](https://ko.wikipedia.org/wiki/Yellow_Submarine_\(노래\)).
 
 
 〈**Yellow Submarine**〉는 [폴 매카트니와](../Page/폴_매카트니.md "wikilink") [존 레논이](../Page/존_레논.md "wikilink") 쓰고 [링고 스타가](../Page/링고_스타.md "wikilink") 리드 보컬로 부른 1966년도 [비틀즈](../Page/비틀즈.md "wikilink") 노래다. 정규 음반 《[Revolver](../Page/Revolver.md "wikilink")》 (1966)와 〈[Eleanor Rigby](../Page/Eleanor_Rigby.md "wikilink")〉의 뒷면에 담긴 싱글의 형태로 출시되었으며, 싱글은 주요 영국 차트에서 1위를 휩쓸며 4주간 그 자리를 지켰다. "1966년의 영국에서 그 어느 싱글보다 많은 판매고 인증을 받아" [아이버 노벨로상에서](https://ko.wikipedia.org/wiki/아이버_노벨로_어워드 "wikilink") 수상한다. 미국에서는 빌보드 핫 100 차트에 2위까지 올랐으며, 따라서 이것이 스타가 리드 보컬로 공헌한 비틀즈의 노래 중 가장 성공한 것이 되었다.

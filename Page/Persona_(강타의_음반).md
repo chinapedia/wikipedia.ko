@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Persona \( \)](https://ko.wikipedia.org/wiki/Persona_\(_\)).
+> This article is converted from Wikipedia: [Persona \(강타의 음반\)](https://ko.wikipedia.org/wiki/Persona_\(강타의_음반\)).
 
 
 ***Persona***는 [대한민국](../Page/대한민국.md "wikilink")의 가수 [강타](../Page/강타.md "wikilink")의 세 번째 정규 음반이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [CONCACAF ](https://ko.wikipedia.org/wiki/CONCACAF_).
+> This article is converted from Wikipedia: [CONCACAF 네이션스리그](https://ko.wikipedia.org/wiki/CONCACAF_네이션스리그).
 
 
 **CONCACAF 네이션스리그**(CONCACAF Nations League)는 [북중미카리브 축구 연맹](../Page/북중미카리브_축구_연맹.md "wikilink")(CONCACAF) 회원국의 국가대표팀이 참가하는 국가 대항 축구 대회이다.

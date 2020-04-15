@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [2018 FIFA  B](https://ko.wikipedia.org/wiki/2018_FIFA__B).
+> This article is converted from Wikipedia: [2018년 FIFA 월드컵 B조](https://ko.wikipedia.org/wiki/2018년_FIFA_월드컵_B조).
 
 
 **[2018년 FIFA 월드컵](https://ko.wikipedia.org/wiki/2018년_FIFA_월드컵 "wikilink") B조**는 2018년 6월 15일부터 2018년 6월 25일까지 일정이 진행되었다. B조는 [포르투갈](../Page/포르투갈_축구_국가대표팀.md "wikilink"), [스페인](../Page/스페인_축구_국가대표팀.md "wikilink"), [모로코](../Page/모로코_축구_국가대표팀.md "wikilink"), [이란으로](../Page/이란_축구_국가대표팀.md "wikilink") 구성되었다. 4개의 팀들 중 상위 2개의 팀만이 16강전에 진출한다.
@@ -90,7 +90,7 @@
 
 두팀은 1번도 만난 적이 없다.\[2\]
 
-20년만에 처음으로 월드컵 본선에 진출한 모로코는 경기 초반에 적극 나섰고, [아민 하리트는](https://ko.wikipedia.org/wiki/아민_하리트 "wikilink") 2분 후 페널티지역 가장자리에서 일제 사격을 퍼부어 빗나갔다. 이란에 대한 압박은 거의 지속되었는데, [유메스 벨한다와](https://ko.wikipedia.org/wiki/유메스_벨한다 "wikilink") [메흐디 베나티아주장은](../Page/메흐디_베나티아.md "wikilink") 이란 [카림 안사리파르드가](../Page/카림_안사리파르드.md "wikilink") 20분 동안 반격한 후에 페널티 박스 쟁탈전에서 골 기회를 남용했다. 전반전에서 가장 좋은 기회는 [사르다르 아즈문에게](../Page/사르다르_아즈문.md "wikilink") 돌아갔지만, 그는 [오미드 에브라히미의](https://ko.wikipedia.org/wiki/오미드_에브라히미 "wikilink") 공을 잡은 후에 골로 들어갔지만, 그의 슛은 너무 낮았고, [무니르 모하메디가](https://ko.wikipedia.org/wiki/무니르_모하메디 "wikilink") 막았다.\[3\] 모로코가 마지막 10분 동안 승자를 밀고 나서 [하킴 지예흐는](../Page/하킴_지예흐.md "wikilink") 20야드 떨어진 그물 왼쪽 하단 구석으로 공을 내던졌지만 [알리레자 베이란반드은](../Page/알리레자_베이란반드.md "wikilink") 영리하게 멈추었다. 그리고 마지막 몇초 동안 이란이 프리킥을 왼쪽으로 몰았을 때 훨씬 더 중요한 세이브가 입증되었고, [에산 하지사피의](../Page/에산_하지사피.md "wikilink") 크로스가 왼쪽으로 [아지즈 부하두즈](https://ko.wikipedia.org/wiki/아지즈_부하두즈 "wikilink") 머리 맞고 들어갔다.\[4\]\[5\]\[6\]
+20년만에 처음으로 월드컵 본선에 진출한 모로코는 경기 초반에 적극 나섰고, [아민 하리트는](../Page/아민_하리트.md "wikilink") 2분 후 페널티지역 가장자리에서 일제 사격을 퍼부어 빗나갔다. 이란에 대한 압박은 거의 지속되었는데, [유메스 벨한다와](https://ko.wikipedia.org/wiki/유메스_벨한다 "wikilink") [메흐디 베나티아주장은](../Page/메흐디_베나티아.md "wikilink") 이란 [카림 안사리파르드가](../Page/카림_안사리파르드.md "wikilink") 20분 동안 반격한 후에 페널티 박스 쟁탈전에서 골 기회를 남용했다. 전반전에서 가장 좋은 기회는 [사르다르 아즈문에게](../Page/사르다르_아즈문.md "wikilink") 돌아갔지만, 그는 [오미드 에브라히미의](../Page/오미드_에브라히미.md "wikilink") 공을 잡은 후에 골로 들어갔지만, 그의 슛은 너무 낮았고, [무니르 모하메디가](https://ko.wikipedia.org/wiki/무니르_모하메디 "wikilink") 막았다.\[3\] 모로코가 마지막 10분 동안 승자를 밀고 나서 [하킴 지예흐는](../Page/하킴_지예흐.md "wikilink") 20야드 떨어진 그물 왼쪽 하단 구석으로 공을 내던졌지만 [알리레자 베이란반드은](../Page/알리레자_베이란반드.md "wikilink") 영리하게 멈추었다. 그리고 마지막 몇초 동안 이란이 프리킥을 왼쪽으로 몰았을 때 훨씬 더 중요한 세이브가 입증되었고, [에산 하지사피의](../Page/에산_하지사피.md "wikilink") 크로스가 왼쪽으로 [아지즈 부하두즈](https://ko.wikipedia.org/wiki/아지즈_부하두즈 "wikilink") 머리 맞고 들어갔다.\[4\]\[5\]\[6\]
 
 시계 위에서 겨우 20분이 채 남지 않은 상황에서, [노르딘 암라바트는](../Page/노르딘_암라바트.md "wikilink") 공에 도전할 때 어색하게 넘어졌고, 윙백은 그의 동생인 [소피안 암라바트으로](https://ko.wikipedia.org/wiki/소피안_암라바트 "wikilink") 교체로 들어갔다.\[7\]
 
@@ -261,7 +261,7 @@
 <tbody>
 <tr class="odd">
 <td><p><strong>최우수 선수:</strong><br />
-<a href="https://ko.wikipedia.org/wiki/아민_하리트" title="wikilink">아민 하리트</a> (모로코)[12]</p>
+<a href="../Page/아민_하리트.md" title="wikilink">아민 하리트</a> (모로코)[12]</p>
 <p><strong><a href="https://ko.wikipedia.org/wiki/부심" title="wikilink">부심</a>:</strong>[13]<br />
 바하틴 두란 (<a href="https://ko.wikipedia.org/wiki/터키_축구_연맹" title="wikilink">터키</a>)<br />
 타르크 옹군 (<a href="https://ko.wikipedia.org/wiki/터키_축구_연맹" title="wikilink">터키</a>)<br />
@@ -451,7 +451,7 @@
 엘레니토 디 리베라토레 (<a href="../Page/이탈리아_축구_연맹.md" title="wikilink">이탈리아</a>)<br />
 마우로 토놀리니 (<a href="../Page/이탈리아_축구_연맹.md" title="wikilink">이탈리아</a>)<br />
 <strong>대기심:</strong><br />
-<a href="https://ko.wikipedia.org/wiki/사토_류지" title="wikilink">사토 류지</a> (<a href="https://ko.wikipedia.org/wiki/일본_축구_협회" title="wikilink">일본</a>)<br />
+<a href="../Page/사토_류지.md" title="wikilink">사토 류지</a> (<a href="https://ko.wikipedia.org/wiki/일본_축구_협회" title="wikilink">일본</a>)<br />
 <strong>후보 대기심:</strong><br />
 사가라 도루 (<a href="https://ko.wikipedia.org/wiki/일본_축구_협회" title="wikilink">일본</a>)<br />
 <strong>비디오 판독심:</strong><br />
@@ -833,9 +833,9 @@
 니콜라스 타란 (<a href="https://ko.wikipedia.org/wiki/우루과이_축구_협회" title="wikilink">우루과이</a>)<br />
 <a href="https://ko.wikipedia.org/wiki/마우리시오_에스피노사" title="wikilink">마우리시오 에스피노사</a> (<a href="https://ko.wikipedia.org/wiki/우루과이_축구_협회" title="wikilink">우루과이</a>)<br />
 <strong>대기심:</strong><br />
-<a href="https://ko.wikipedia.org/wiki/훌리오_바스쿠냔" title="wikilink">훌리오 바스쿠냔</a> (<a href="https://ko.wikipedia.org/wiki/칠레_축구_연맹" title="wikilink">칠레</a>)<br />
+<a href="https://ko.wikipedia.org/wiki/훌리오_바스쿠냔" title="wikilink">훌리오 바스쿠냔</a> (<a href="../Page/칠레_축구_연맹.md" title="wikilink">칠레</a>)<br />
 <strong>후보 대기심:</strong><br />
-크리스티안 시에만 (<a href="https://ko.wikipedia.org/wiki/칠레_축구_연맹" title="wikilink">칠레</a>)<br />
+크리스티안 시에만 (<a href="../Page/칠레_축구_연맹.md" title="wikilink">칠레</a>)<br />
 <strong>비디오 판독심:</strong><br />
 <a href="https://ko.wikipedia.org/wiki/마우로_비글리아노" title="wikilink">마우로 비글리아노</a> (<a href="../Page/아르헨티나_축구_협회.md" title="wikilink">아르헨티나</a>)<br />
 <strong>보조 비디오 판독심:</strong><br />

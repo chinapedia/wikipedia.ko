@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TBC](https://ko.wikipedia.org/wiki/TBC).
+> This article is converted from Wikipedia: [열린TBC](https://ko.wikipedia.org/wiki/열린TBC).
 
 
 《**열린TBC**》는 [TBC TV에서](../Page/TBC_\(대한민국의_방송사\).md "wikilink") 매주 [목요일](../Page/목요일.md "wikilink") 밤 12시 10분부터 2시까지 방송되는 대구·경북 지역 TV 비평 옴부즈맨 프로그램이다.
@@ -22,14 +22,14 @@
 
   - [TV비평 시청자데스크](../Page/TV비평_시청자데스크.md "wikilink") ([KBS 1TV](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink"))
   - [탐나는 TV](../Page/탐나는_TV.md "wikilink") ([MBC TV](../Page/MBC_TV.md "wikilink"))
-  - [미디어 공감 좋은TV](https://ko.wikipedia.org/wiki/미디어_공감_좋은TV "wikilink") ([OBS경인TV](../Page/OBS경인TV.md "wikilink"))
+  - [미디어 공감 좋은TV](../Page/미디어_공감_좋은TV.md "wikilink") ([OBS경인TV](../Page/OBS경인TV.md "wikilink"))
   - [시청자 의회](../Page/시청자_의회.md "wikilink") ([JTBC](../Page/JTBC.md "wikilink"))
   - [채널A 시청자 마당](../Page/채널A_시청자_마당.md "wikilink") ([채널A](../Page/채널A.md "wikilink"))
   - [열린비평 TV를 말하다](../Page/열린비평_TV를_말하다.md "wikilink") ([TV조선](../Page/TV조선.md "wikilink"))
   - [열린TV 열린세상](../Page/열린TV_열린세상.md "wikilink") ([MBN](https://ko.wikipedia.org/wiki/MBN "wikilink"))
-  - [YTN 시민데스크](https://ko.wikipedia.org/wiki/YTN_시민데스크 "wikilink") ([YTN](../Page/YTN.md "wikilink"))
-  - [바로보는TV 옴부즈맨](https://ko.wikipedia.org/wiki/바로보는TV_옴부즈맨 "wikilink") ([연합뉴스TV](../Page/연합뉴스TV.md "wikilink"))
-  - [클릭 KNN 시청자 세상](https://ko.wikipedia.org/wiki/클릭_KNN_시청자_세상 "wikilink") ([KNN](../Page/KNN.md "wikilink"))
+  - [YTN 시민데스크](../Page/YTN_시민데스크.md "wikilink") ([YTN](../Page/YTN.md "wikilink"))
+  - [바로보는TV 옴부즈맨](../Page/바로보는TV_옴부즈맨.md "wikilink") ([연합뉴스TV](../Page/연합뉴스TV.md "wikilink"))
+  - [클릭 KNN 시청자 세상](../Page/클릭_KNN_시청자_세상.md "wikilink") ([KNN](../Page/KNN.md "wikilink"))
   - [kbc 열린 TV 시청자세상](../Page/열린_TV_시청자세상_\(텔레비전_프로그램\).md "wikilink") ([kbc](../Page/광주방송.md "wikilink"))
 
 ## 외부 링크

@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [ \(GO\)](https://ko.wikipedia.org/wiki/_\(GO\)).
+> This article is converted from Wikipedia: [블루어역 \(GO\)](https://ko.wikipedia.org/wiki/블루어역_\(GO\)).
 
 
-**블루어역** (Bloor Station) 은 [GO 트랜싯](../Page/GO_트랜싯.md "wikilink") [키치너 선과](https://ko.wikipedia.org/wiki/키치너_선 "wikilink") [유니언 피어슨 급행](https://ko.wikipedia.org/wiki/유니언_피어슨_급행 "wikilink") 열차가 정차하는 [캐나다](../Page/캐나다.md "wikilink") [온타리오주](https://ko.wikipedia.org/wiki/온타리오주 "wikilink") [토론토](../Page/토론토.md "wikilink")의 통근 열차 역이다. 이 역은 또한 [토론토 교통국](../Page/토론토_교통국.md "wikilink") [블루어-댄포스 선의](https://ko.wikipedia.org/wiki/블루어-댄포스_선 "wikilink") 지하철역인 [던다스 웨스트 역이](https://ko.wikipedia.org/wiki/던다스_웨스트_역 "wikilink") 인접해있으나 환승 통로로 이어져있지 않다. 이 역은 [블루어 스트리트 웨스트](https://ko.wikipedia.org/wiki/블루어_가 "wikilink") 및 랜즈다운 애비뉴와 던다스 스트리트 사이에 위치해있으며 블루어 스트리트는 선로 바로 위에 고가 도로로 지나가며, 역 출입구는 블루어 북쪽 인도에서 계단으로 이어진다.
+**블루어역**(Bloor Station) 은 [GO 트랜싯](../Page/GO_트랜싯.md "wikilink") [키치너 선과](https://ko.wikipedia.org/wiki/키치너_선 "wikilink") [유니언 피어슨 급행](https://ko.wikipedia.org/wiki/유니언_피어슨_급행 "wikilink") 열차가 정차하는 [캐나다](../Page/캐나다.md "wikilink") [온타리오주](https://ko.wikipedia.org/wiki/온타리오주 "wikilink") [토론토](../Page/토론토.md "wikilink")의 통근 열차 역이다. 이 역은 또한 [토론토 교통국](../Page/토론토_교통국.md "wikilink") [블루어-댄포스 선의](https://ko.wikipedia.org/wiki/블루어-댄포스_선 "wikilink") 지하철역인 [던다스 웨스트 역이](https://ko.wikipedia.org/wiki/던다스_웨스트_역 "wikilink") 인접해있으나 환승 통로로 이어져있지 않다. 이 역은 [블루어 스트리트 웨스트](https://ko.wikipedia.org/wiki/블루어_가 "wikilink") 및 랜즈다운 애비뉴와 던다스 스트리트 사이에 위치해있으며 블루어 스트리트는 선로 바로 위에 고가 도로로 지나가며, 역 출입구는 블루어 북쪽 인도에서 계단으로 이어진다.
 
 ## 운행 계통
 

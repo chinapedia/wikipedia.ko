@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ S. A. ](https://ko.wikipedia.org/wiki/_S._A._).
+> This article is converted from Wikipedia: [제임스 S. A. 코리](https://ko.wikipedia.org/wiki/제임스_S._A._코리).
 
 
 **제임스 S. A. 코리**()는 [미국](../Page/미국.md "wikilink")의 SF [소설가](https://ko.wikipedia.org/wiki/소설가 "wikilink") **[대니얼 에이브러햄](https://ko.wikipedia.org/wiki/대니얼_에이브러햄 "wikilink")**(Daniel Abraham)과 **[타이 프랭크](https://ko.wikipedia.org/wiki/타이_프랭크 "wikilink")**(Ty Franck) 콤비의 [필명](https://ko.wikipedia.org/wiki/필명 "wikilink")이다. '[제임스](../Page/제임스.md "wikilink")'와 '[코리](../Page/코리.md "wikilink")'는 각각 두 사람의 가운데 이름이고, S. A.는 에이브러햄 딸 이름의 머리글자다. 두 사람은 이 이름으로, [로커스상](https://ko.wikipedia.org/wiki/로커스상 "wikilink") 등을 수상하고 TV 드라마화된 SF 소설 시리즈 《[익스팬스](https://ko.wikipedia.org/wiki/익스팬스 "wikilink")》를 써냈다.

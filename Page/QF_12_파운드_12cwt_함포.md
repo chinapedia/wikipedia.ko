@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [QF 12  12cwt ](https://ko.wikipedia.org/wiki/QF_12__12cwt_).
+> This article is converted from Wikipedia: [QF 12 파운드 12cwt 함포](https://ko.wikipedia.org/wiki/QF_12_파운드_12cwt_함포).
 
 
 **QF 12 파운드 12cwt 함포**(QF 12 pounder 12 cwt naval gun)는 영국에서 개발된 함포이다. 초창기의 속사포 중 하나이며, [구축함](../Page/구축함.md "wikilink")의 주포와 대형함의 [어뢰](../Page/어뢰.md "wikilink")를 방어하는 포로 널리 사용되었다. 또한 [해안포](../Page/해안포.md "wikilink")와 [고사포](https://ko.wikipedia.org/wiki/고사포 "wikilink")로 전용되기도 했다.

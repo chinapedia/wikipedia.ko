@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  J](https://ko.wikipedia.org/wiki/__J).
+> This article is converted from Wikipedia: [저널리즘 토크쇼 J](https://ko.wikipedia.org/wiki/저널리즘_토크쇼_J).
 
 
 《**저널리즘 토크쇼 J**》는 매주 [일요일](../Page/일요일.md "wikilink") 밤 9시 40분에 [KBS 1TV에서](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink") 방송하는 [한국방송공사의 미디어 비평 프로그램이다](https://ko.wikipedia.org/wiki/한국방송공사의_텔레비전_프로그램 "wikilink").
@@ -158,6 +158,30 @@
 <td><p>2월 23일</p></td>
 <td><p>"존재를 부정합니다" 언론이 퇴출한 22살 여대생</p></td>
 <td><p>1.6%</p></td>
+</tr>
+<tr class="even">
+<td><p>79회</p></td>
+<td><p>3월 1일</p></td>
+<td><p>코로나19, 언론은 어디를 보고있나</p></td>
+<td><p>4.0%</p></td>
+</tr>
+<tr class="odd">
+<td><p>80회</p></td>
+<td><p>3월 8일</p></td>
+<td><p>100주년 맞이한 조선·동아, 그들이 지운 흑역사를 찾아서</p></td>
+<td><p>3.9%</p></td>
+</tr>
+<tr class="even">
+<td><p>81회</p></td>
+<td><p>3월 15일</p></td>
+<td><p>감염병을 대하는 언론의 기억상실 화법</p></td>
+<td><p>3.5%</p></td>
+</tr>
+<tr class="odd">
+<td><p>82회</p></td>
+<td><p>3월 22일</p></td>
+<td><p>코로나 사대주의, 언론이 한국 '후진국' 만드는 법</p></td>
+<td><p>3.7%</p></td>
 </tr>
 </tbody>
 </table>

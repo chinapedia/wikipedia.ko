@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [CCAT \(\)](https://ko.wikipedia.org/wiki/CCAT_\(\)).
+> This article is converted from Wikipedia: [CCAT \(망원경\)](https://ko.wikipedia.org/wiki/CCAT_\(망원경\)).
 
 
 **CCAT**(Cerro Chajnantor Atacama Telescope)는 6m의 주경을 가지고 있는 [전파망원경](../Page/전파망원경.md "wikilink")이자 서브밀리미터 망원경이다.\[1\] 전파로 [은하](../Page/은하.md "wikilink"), [성운](../Page/성운.md "wikilink"), [성단](../Page/성단.md "wikilink") 등을 관측하는 것이 목적이다.\[2\]\[3\]

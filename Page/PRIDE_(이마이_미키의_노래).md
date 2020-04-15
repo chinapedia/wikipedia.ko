@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [PRIDE \(  \)](https://ko.wikipedia.org/wiki/PRIDE_\(__\)).
+> This article is converted from Wikipedia: [PRIDE \(이마이 미키의 노래\)](https://ko.wikipedia.org/wiki/PRIDE_\(이마이_미키의_노래\)).
 
 
 〈**PRIDE**〉는 일본의 배우 겸 가수 [이마이 미키의](../Page/이마이_미키.md "wikilink") 12번째 [싱글 앨범으로](https://ko.wikipedia.org/wiki/싱글_앨범 "wikilink"), 1996년 11월 4일 발매되었다. ([8cm CD](../Page/콤팩트_디스크.md "wikilink"): FLDF-1614) B 사이드 곡은 〈영원한 메모리〉()이며, 두 곡 모두 작사, 작곡 및 편곡을 모두 [호테이 토모야스가](../Page/호테이_토모야스.md "wikilink") 맡았다.

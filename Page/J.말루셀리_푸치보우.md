@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [J. ](https://ko.wikipedia.org/wiki/J._).
+> This article is converted from Wikipedia: [J.말루셀리 푸치보우](https://ko.wikipedia.org/wiki/J.말루셀리_푸치보우).
 
 
 **J.말루셀리 푸치보우**()는 짧게 **J.말루셀리**라고도 불리며, [브라질](../Page/브라질.md "wikilink") [파라나 주](https://ko.wikipedia.org/wiki/파라나_주 "wikilink") [쿠리치바](../Page/쿠리치바.md "wikilink")를 연고로 하는 축구 클럽이다. [1994년](../Page/1994년.md "wikilink") [12월 27일](../Page/12월_27일.md "wikilink") 창단하였으며, [2008년](../Page/2008년.md "wikilink") [캄페오나투 브라질레이루 세리이 C까지](../Page/캄페오나투_브라질레이루_세리이_C.md "wikilink") 진출한 바 있다.

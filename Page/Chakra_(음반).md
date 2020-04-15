@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Chakra \(\)](https://ko.wikipedia.org/wiki/Chakra_\(\)).
+> This article is converted from Wikipedia: [Chakra \(음반\)](https://ko.wikipedia.org/wiki/Chakra_\(음반\)).
 
 
 《**Chakra**》는 대한민국의 음악 그룹인 [샤크라](../Page/샤크라.md "wikilink")의 첫 번째 정규 음반이다. 2000년 3월 2일에 발매되었다. 타이틀 곡은 〈한 (Come A Come)〉, 후속곡은 〈Hey U〉이다.

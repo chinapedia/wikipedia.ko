@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [DFS ](https://ko.wikipedia.org/wiki/DFS_).
+> This article is converted from Wikipedia: [DFS 그룹](https://ko.wikipedia.org/wiki/DFS_그룹).
 
 
 **DFS 그룹**()은 호화품 소매업체이다. 1960년 홍콩에서 설립하여 현재는 세계 주요 11개 공항 면세점, 20개 도시에서 갤러리아 매장을 두고 다른 제휴처이나 리조트에서도 매장을 운영하고 있다.\[1\]\[2\]

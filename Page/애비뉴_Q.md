@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ Q](https://ko.wikipedia.org/wiki/_Q).
+> This article is converted from Wikipedia: [애비뉴 Q](https://ko.wikipedia.org/wiki/애비뉴_Q).
 
 
 《**애비뉴 Q**》는 2막으로 이뤄진 미국의 뮤지컬로, 로버트 로페즈와 제프 막스에 의해 창안되었고, 두 사람은 작품의 음악과 가사를 쓰기도 하였다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SBS  \( \)](https://ko.wikipedia.org/wiki/SBS__\(_\)).
+> This article is converted from Wikipedia: [SBS 골프 \(텔레비전 프로그램\)](https://ko.wikipedia.org/wiki/SBS_골프_\(텔레비전_프로그램\)).
 
 
 《**SBS 골프**》는 [대한민국](../Page/대한민국.md "wikilink") [SBS](../Page/SBS.md "wikilink")에서 매주 [화요일](https://ko.wikipedia.org/wiki/화요일 "wikilink") 새벽 1시에 방송하는 [골프](../Page/골프.md "wikilink") 전문 프로그램이다. 신설 당시 명칭은 **금요골프**이었으나, [2000년대](../Page/2000년대.md "wikilink") 초반부터 현재의 명칭으로 변경되었다. 2019년 12월 17일에 종영되었다.

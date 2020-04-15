@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [JVC ](https://ko.wikipedia.org/wiki/JVC_).
+> This article is converted from Wikipedia: [JVC 켄우드](https://ko.wikipedia.org/wiki/JVC_켄우드).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:JVCKENWOOD001.jpg "wikilink") **JVC 켄우드**(JVC Kenwood Corp., JVC)는 일본 요코하마에 본사를 둔 영국, 미국 및 중국 등에 지사를 갖고 있는 다국적 전자 회사이다. 그것은 2008년 10월 1일에 Victor Company of Japan, Ltd와 Kenwood Corporation의 합병으로 설립되었다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ BEAT](https://ko.wikipedia.org/wiki/_BEAT).
+> This article is converted from Wikipedia: [갈겨쓴 BEAT](https://ko.wikipedia.org/wiki/갈겨쓴_BEAT).
 
 
 〈**갈겨쓴 BEAT**〉()는 일본의 남성 아이돌 그룹 [칸쟈니∞](../Page/칸쟈니∞.md "wikilink")의 38번째 [싱글 앨범으로](https://ko.wikipedia.org/wiki/싱글_앨범 "wikilink"), 2017년 1월 25일 발매되었다. ([12cm CD](../Page/콤팩트_디스크.md "wikilink"): JACA-5646) 곡의 작사와 작곡은 NOMSON이, 편곡은 오니시 쇼고 ()가 맡았다. 이 곡은 [쇼치쿠](../Page/쇼치쿠.md "wikilink")가 배급한 영화 《파문: 두 사람의 역병신 ()》의 주제가로 사용되었다. B 사이드 곡은 둘로써, 먼저 〈Tokyoholic〉은 칸쟈니∞의 멤버인 [니시키도 료가](../Page/니시키도_료.md "wikilink") 작사와 작곡을 모두 맡았다. 나머지 한 곡은 〈BJ〉이며 HIKARI가 작사와 작곡을, 니시키도가 편곡을 담당했다.

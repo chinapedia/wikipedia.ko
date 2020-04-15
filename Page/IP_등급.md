@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [IP ](https://ko.wikipedia.org/wiki/IP_).
+> This article is converted from Wikipedia: [IP 등급](https://ko.wikipedia.org/wiki/IP_등급).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:IPX_Codes_Explanation_Chart.jpg "wikilink") **IP 등급**, **IP 코드**(IP Code), **국제 보호 등급**(International Protection Marking), IEC 표준 60529, **방진방수 등급**, **방수방진 등급**, **인그레스 보호 등급**(Ingress Protection Marking)은 전자제품의 외피(인클로저)에 대하여 침범 요소(손과 손가락 등의 신체 일부), [먼지](../Page/먼지.md "wikilink"), 돌발적인 접촉, 수분에 대항하여 제공되는 보호 등급을 분류하고 점수를 매긴다. [국제전기기술위원회](../Page/국제전기기술위원회.md "wikilink")에 의해 출판되어 있다. 동일한 유럽 표준은 EN 60529이다.

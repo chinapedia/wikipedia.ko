@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [CJK  ](https://ko.wikipedia.org/wiki/CJK__).
+> This article is converted from Wikipedia: [CJK 글꼴 목록](https://ko.wikipedia.org/wiki/CJK_글꼴_목록).
 
 
 [섬네일의](https://ko.wikipedia.org/wiki/파일:Chenzihmyon_typefaces.svg "wikilink") 처음 네 글자.\]\] 아래는 저명한 CJK 글꼴 목록이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:E  ](https://ko.wikipedia.org/wiki/:E__).
+> This article is converted from Wikipedia: [틀:E스포츠 대회 정보](https://ko.wikipedia.org/wiki/틀:E스포츠_대회_정보).
 
 
 <onlyinclude>

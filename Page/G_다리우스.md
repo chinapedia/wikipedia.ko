@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [G ](https://ko.wikipedia.org/wiki/G_).
+> This article is converted from Wikipedia: [G 다리우스](https://ko.wikipedia.org/wiki/G_다리우스).
 
 
 《**G 다리우스**》(, , G 다라이어스)는 [타이토가](../Page/타이토_\(기업\).md "wikilink") 1997년에 출시한 [진행형 슈팅](https://ko.wikipedia.org/wiki/진행형_슈팅_게임 "wikilink") [아케이드 게임이다](../Page/아케이드_게임.md "wikilink"). [다리우스](../Page/다리우스_\(시리즈\).md "wikilink") 시리즈 중 4번째 게임으로, 시리즈 전반에 [3차원](https://ko.wikipedia.org/wiki/3차원 "wikilink") [폴리곤 그래픽을](../Page/3차원_컴퓨터_그래픽스.md "wikilink") 사용한 최초의 게임이기도 하다.

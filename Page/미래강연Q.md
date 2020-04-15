@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Q](https://ko.wikipedia.org/wiki/Q).
+> This article is converted from Wikipedia: [미래강연Q](https://ko.wikipedia.org/wiki/미래강연Q).
 
 
 《**미래강연Q**》는 [EBS 1TV에서](../Page/EBS_1TV.md "wikilink") [수요일](../Page/수요일.md "wikilink") 밤 12시 30분에 방송된 [교양](../Page/교양.md "wikilink") 프로그램이다.

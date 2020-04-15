@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FIVB   ](https://ko.wikipedia.org/wiki/FIVB___).
+> This article is converted from Wikipedia: [FIVB 남자 배구 네이션스리그](https://ko.wikipedia.org/wiki/FIVB_남자_배구_네이션스리그).
 
 
 **FIVB 남자 배구 네이션스리그**는 개최 예정인 배구 국제 대회이다. [국제 배구 연맹](../Page/국제_배구_연맹.md "wikilink") (FIVB) 회원국의 남자 국가대표팀이 참가한다.

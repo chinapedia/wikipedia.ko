@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [HP ](https://ko.wikipedia.org/wiki/HP_).
+> This article is converted from Wikipedia: [HP 터치패드](https://ko.wikipedia.org/wiki/HP_터치패드).
 
 
 **HP 터치패드**(HP TouchPad)는 [휴렛 팩커드가](../Page/휴렛_팩커드.md "wikilink") 개발하고 설계한 [태블릿 컴퓨터이다](../Page/태블릿_컴퓨터.md "wikilink").\[1\] HP 터치패드는 미국에서는 2011년 7월 1일, 캐나다, 영국, 프랑스, 독일에서는 7월 15일, 오스트레일리아에서는 8월 15일에 런칭되었다.\[2\]

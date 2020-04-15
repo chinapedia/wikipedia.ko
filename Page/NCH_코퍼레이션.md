@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [NCH ](https://ko.wikipedia.org/wiki/NCH_).
+> This article is converted from Wikipedia: [NCH 코퍼레이션](https://ko.wikipedia.org/wiki/NCH_코퍼레이션).
 
 
 **NCH 코퍼레이션**(NCH Corporation)은 1919년 미국에서 설립되어 세계 50개국에 지사를 둔 설비 유지보수 제품 제조기업이다. 대한민국 법인은 1984년에 설립되었으며 1992년 충북 음성 공장 설립과 함께 국내에 한국 최초 절연성 클리너등 설비 유지 보수용 화학제품 등을 소개하면서 일반에게 알려지기 시작했다.

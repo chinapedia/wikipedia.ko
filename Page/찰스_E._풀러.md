@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ E. ](https://ko.wikipedia.org/wiki/_E._).
+> This article is converted from Wikipedia: [찰스 E. 풀러](https://ko.wikipedia.org/wiki/찰스_E._풀러).
 
 
 **

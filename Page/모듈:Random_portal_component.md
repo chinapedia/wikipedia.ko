@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Random portal component](https://ko.wikipedia.org/wiki/:Random_portal_component).
+> This article is converted from Wikipedia: [모듈:Random portal component](https://ko.wikipedia.org/wiki/모듈:Random_portal_component).
 
 
 \-- This module implements [Template:Random portal component](https://ko.wikipedia.org/wiki/Template:Random_portal_component "wikilink")

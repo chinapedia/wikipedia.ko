@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ H. ](https://ko.wikipedia.org/wiki/_H._).
+> This article is converted from Wikipedia: [제임스 H. 콘](https://ko.wikipedia.org/wiki/제임스_H._콘).
 
 
 **제임스 H. 콘**(James Hal Cone, [1936년](../Page/1936년.md "wikilink") [8월 5일](../Page/8월_5일.md "wikilink") \~ [2018년](../Page/2018년.md "wikilink") [4월 28일](../Page/4월_28일.md "wikilink"))\[1\] 는 미국의 [신학](../Page/신학.md "wikilink")자이며 [흑인 신학](https://ko.wikipedia.org/wiki/흑인_신학 "wikilink") 과 흑인 [해방 신학의](../Page/해방_신학.md "wikilink") 주창자로 가장 잘 알려져 있다. 1969년 자신의 책 *Black Theology and Black Power* 에서 흑인 교회에서 신학의 구별성을 정의하였다.\[2\]  그는 [유니온 신학교에서](https://ko.wikipedia.org/wiki/유니언_신학교_\(뉴욕시\) "wikilink") 조직신학을 강의하였다 .\[3\]

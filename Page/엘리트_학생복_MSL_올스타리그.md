@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  MSL ](https://ko.wikipedia.org/wiki/__MSL_).
+> This article is converted from Wikipedia: [엘리트 학생복 MSL 올스타리그](https://ko.wikipedia.org/wiki/엘리트_학생복_MSL_올스타리그).
 
 
 **엘리트 학생복 MSL 올스타리그**(Elite MSL ALL-Star League)는 대한민국의 스타크래프트리그이며, 2006년 2월 27일부터 3월 5일까지 열렸다. 엘리트 학생복이 후원을 하였으며 [MBC게임](https://ko.wikipedia.org/wiki/MBC게임 "wikilink")이 주관방송사로 참여하였다.

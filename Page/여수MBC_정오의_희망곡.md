@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [MBC  ](https://ko.wikipedia.org/wiki/MBC__).
+> This article is converted from Wikipedia: [여수MBC 정오의 희망곡](https://ko.wikipedia.org/wiki/여수MBC_정오의_희망곡).
 
 
 **정오의 희망곡 구지은입니다**는 [여수MBC FM4U](../Page/여수문화방송.md "wikilink")(FM 98.3㎒)에서 [1985년](../Page/1985년.md "wikilink") [8월 27일부터](../Page/8월_27일.md "wikilink") [2019년](../Page/2019년.md "wikilink") [3월 31일까지](../Page/3월_31일.md "wikilink") 매일 낮 12시부터 오후 2시까지 2시간동안 방송한 전남 동부 지역의 대중가요 전문 라디오 프로그램이다.
@@ -48,7 +48,7 @@
 ### FM방송 (여수MBC FM4U 포함)
 
   - [최화정의 파워타임](../Page/최화정의_파워타임.md "wikilink") ([kbc My FM](../Page/광주방송.md "wikilink"))
-  - [TBN 차차차](https://ko.wikipedia.org/wiki/TBN_차차차_\(광주\) "wikilink") ([TBN 광주교통방송](../Page/광주교통방송.md "wikilink"))
+  - [TBN 차차차](../Page/TBN_차차차_\(광주\).md "wikilink") ([TBN 광주교통방송](../Page/광주교통방송.md "wikilink"))
   - 한낮의 휴식, 장수연입니다 (평일) ([BBS 광주불교방송](../Page/광주불교방송.md "wikilink"))
   - 주병선의 추억의 음악다방 (주말) ([BBS 광주불교방송](../Page/광주불교방송.md "wikilink"))
   - [광주cpbc 정오종합뉴스](https://ko.wikipedia.org/wiki/cpbc_정오종합뉴스 "wikilink") ([cpbc 광주가톨릭평화방송](../Page/광주가톨릭평화방송.md "wikilink"))

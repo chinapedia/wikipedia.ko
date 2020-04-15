@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [S ](https://ko.wikipedia.org/wiki/S_).
+> This article is converted from Wikipedia: [S 밴드](https://ko.wikipedia.org/wiki/S_밴드).
 
 
 **S 밴드**는 2-4기가 헤르츠의 [UHF](https://ko.wikipedia.org/wiki/UHF "wikilink"), [SHF](https://ko.wikipedia.org/wiki/SHF "wikilink") 주파수 대역을 말한다.

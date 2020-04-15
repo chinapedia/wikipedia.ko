@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [B. S. ](https://ko.wikipedia.org/wiki/B._S._).
+> This article is converted from Wikipedia: [B. S. 차일즈](https://ko.wikipedia.org/wiki/B._S._차일즈).
 
 
 **브레바드 스프링스 차일즈**(Brevard Springs Childs, 1923년 9월 2일 - 2007년 6월 23일)는 보통 B. S. 차일즈로 불린다.

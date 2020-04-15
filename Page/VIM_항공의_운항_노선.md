@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [VIM   ](https://ko.wikipedia.org/wiki/VIM___).
+> This article is converted from Wikipedia: [VIM 항공의 운항 노선](https://ko.wikipedia.org/wiki/VIM_항공의_운항_노선).
 
 
 [2017년](../Page/2017년.md "wikilink") [1월](../Page/1월.md "wikilink") 기준, **[VIM 항공](../Page/VIM_항공.md "wikilink")**의 운항 노선은 다음과 같다.

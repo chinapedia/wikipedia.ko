@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ NATO ](https://ko.wikipedia.org/wiki/_NATO_).
+> This article is converted from Wikipedia: [가일렌키르헨 NATO 공군기지](https://ko.wikipedia.org/wiki/가일렌키르헨_NATO_공군기지).
 
 
 **가일렌키르헨 NATO 공군기지**(, )는 [독일](../Page/독일.md "wikilink") [가일렌키르헨](https://ko.wikipedia.org/wiki/가일렌키르헨 "wikilink") 근처에 위치한 [북대서양 조약 기구의](../Page/북대서양_조약_기구.md "wikilink") [군용비행장](https://ko.wikipedia.org/wiki/군용비행장 "wikilink")이다.

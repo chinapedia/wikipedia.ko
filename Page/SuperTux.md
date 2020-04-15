@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [SuperTux](https://ko.wikipedia.org/wiki/SuperTux).
 
 
-[thumb](https://ko.wikipedia.org/wiki/파일:SuperTux_0.4.0_1st_level.png "wikilink") [thumb](https://ko.wikipedia.org/wiki/파일:SuperTux_world_map.png "wikilink") 《**SuperTux**》는 [GNU 일반 공중 사용 허가서](../Page/GNU_일반_공중_사용_허가서.md "wikilink")(GNU GPL)로 배급된 [자유-오픈 소스](../Page/자유-오픈_소스_소프트웨어.md "wikilink") 2차원 [플랫폼 게임이다](https://ko.wikipedia.org/wiki/플랫폼_게임 "wikilink").\[1\] 이 게임은 [닌텐도](../Page/닌텐도.md "wikilink")의 [슈퍼 마리오브라더스](../Page/슈퍼_마리오브라더스.md "wikilink") 시리즈의 영향을 받았다. [마리오](../Page/마리오.md "wikilink") 대신 이 게임의 히어로는 [리눅스 커널의](../Page/리눅스_커널.md "wikilink") [마스코트](https://ko.wikipedia.org/wiki/마스코트 "wikilink")인 [턱스](../Page/턱스.md "wikilink")이다.
+[thumb](https://ko.wikipedia.org/wiki/파일:SuperTux_0.4.0_1st_level.png "wikilink") [thumb](https://ko.wikipedia.org/wiki/파일:SuperTux_world_map.png "wikilink") 《**SuperTux**》는 [GNU 일반 공중 사용 허가서](../Page/GNU_일반_공중_사용_허가서.md "wikilink")(GNU GPL)로 배급된 [자유-오픈 소스](../Page/자유-오픈_소스_소프트웨어.md "wikilink") 2차원 [플랫폼 게임이다](../Page/플랫폼_게임.md "wikilink").\[1\] 이 게임은 [닌텐도](../Page/닌텐도.md "wikilink")의 [슈퍼 마리오브라더스](../Page/슈퍼_마리오브라더스.md "wikilink") 시리즈의 영향을 받았다. [마리오](../Page/마리오.md "wikilink") 대신 이 게임의 히어로는 [리눅스 커널의](../Page/리눅스_커널.md "wikilink") [마스코트](https://ko.wikipedia.org/wiki/마스코트 "wikilink")인 [턱스](../Page/턱스.md "wikilink")이다.
 
 ## 역사
 

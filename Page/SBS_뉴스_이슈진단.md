@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SBS  ](https://ko.wikipedia.org/wiki/SBS__).
+> This article is converted from Wikipedia: [SBS 뉴스 이슈진단](https://ko.wikipedia.org/wiki/SBS_뉴스_이슈진단).
 
 
 《**SBS 뉴스 이슈진단**》()은 [대한민국](../Page/대한민국.md "wikilink") [SBS에서](../Page/SBS_\(대한민국의_방송사\).md "wikilink") 월요일 \~ 목요일 오후 4시 30분에 방송되었던 [SBS의 낮 뉴스쇼 프로그램이다](../Page/SBS의_뉴스_프로그램.md "wikilink").

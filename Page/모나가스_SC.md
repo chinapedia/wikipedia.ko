@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ SC](https://ko.wikipedia.org/wiki/_SC).
+> This article is converted from Wikipedia: [모나가스 SC](https://ko.wikipedia.org/wiki/모나가스_SC).
 
 
 **모나가스 스포르트 클루브**()는 [베네수엘라](../Page/베네수엘라.md "wikilink") [마투린](https://ko.wikipedia.org/wiki/마투린 "wikilink")에 위치한 [축구](../Page/축구.md "wikilink") 클럽으로, [1987년](../Page/1987년.md "wikilink") [9월 23일에](../Page/9월_23일.md "wikilink") 창단되었다. 51,796석의 에스타디오 모누멘탈 데 마투린을 홈 구장으로 사용하고 있으며, 구단의 별칭은 과라피체의 용사들()이다. [2018년](../Page/2018년.md "wikilink") 현재 [베네수엘라 프리메라 디비시온에](../Page/베네수엘라_프리메라_디비시온.md "wikilink") 참가하고 있다. 2017 시즌 구단 역사상 최초로 프리메라 디비시온에서 우승을 차지하였다.

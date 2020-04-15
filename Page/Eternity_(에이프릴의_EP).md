@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Eternity \( EP\)](https://ko.wikipedia.org/wiki/Eternity_\(_EP\)).
+> This article is converted from Wikipedia: [Eternity \(에이프릴의 EP\)](https://ko.wikipedia.org/wiki/Eternity_\(에이프릴의_EP\)).
 
 
 《**eternity**》는 대한민국 걸 그룹 [에이프릴의](../Page/에이프릴_\(음악_그룹\).md "wikilink") 네 번째 [미니 음반이다](../Page/익스텐디드_플레이.md "wikilink"). 타이틀곡은〈손을 잡아줘〉이다.\[1\]

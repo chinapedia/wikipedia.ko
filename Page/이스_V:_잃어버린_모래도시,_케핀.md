@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ V:  , ](https://ko.wikipedia.org/wiki/_V:__,_).
+> This article is converted from Wikipedia: [이스 V: 잃어버린 모래도시, 케핀](https://ko.wikipedia.org/wiki/이스_V:_잃어버린_모래도시,_케핀).
 
 
 《**이스 V: 잃어버린 모래도시, 케핀**》()은 [니혼 팔콤이](../Page/니혼_팔콤.md "wikilink") 제작한 [액션 롤플레잉 게임이다](https://ko.wikipedia.org/wiki/액션_롤플레잉_게임 "wikilink"). [이스](../Page/이스_\(시리즈\).md "wikilink") 시리즈의 다섯번째 작품으로, 모험가 아돌이 사막에 감춰진 고대도시 케핀에 대한 소문을 듣고 탐색에 나서는 이야기를 다뤘다.

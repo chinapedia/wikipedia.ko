@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Lucky \( EP\)](https://ko.wikipedia.org/wiki/Lucky_\(_EP\)).
+> This article is converted from Wikipedia: [Lucky \(위키미키의 EP\)](https://ko.wikipedia.org/wiki/Lucky_\(위키미키의_EP\)).
 
 
 《**Lucky**》 는 [위키미키](../Page/위키미키.md "wikilink")의 두 번째 EP이다.

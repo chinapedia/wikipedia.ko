@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [DSP ](https://ko.wikipedia.org/wiki/DSP_).
+> This article is converted from Wikipedia: [DSP 위성](https://ko.wikipedia.org/wiki/DSP_위성).
 
 
 [thumb](https://ko.wikipedia.org/wiki/파일:DSP_Phase3.jpg "wikilink") [thumb](https://ko.wikipedia.org/wiki/파일:Titan_IVB_launching_Lacrosse_satellite.jpg "wikilink") 로켓\]\] [thumb](https://ko.wikipedia.org/wiki/파일:Delta-4H_DSP-23_2.jpg "wikilink") 로켓\]\]

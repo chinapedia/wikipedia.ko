@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [5 SBS ](https://ko.wikipedia.org/wiki/5_SBS_).
+> This article is converted from Wikipedia: [5기 SBS배 연승바둑최강전](https://ko.wikipedia.org/wiki/5기_SBS배_연승바둑최강전).
 
 
 **5기 SBS배 연승바둑최강전**은 [SBS의](../Page/SBS_\(대한민국의_방송사\).md "wikilink") 마지막 TV속기전이다. 결승에서는 [유창혁](../Page/유창혁.md "wikilink") 九단이 [이창호](../Page/이창호.md "wikilink") 九단을 2대 1로 꺾고 2연패를 달성하며, 마지막 TV속기전의 우승자가 되었다.

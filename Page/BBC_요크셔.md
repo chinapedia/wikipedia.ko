@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [BBC ](https://ko.wikipedia.org/wiki/BBC_).
+> This article is converted from Wikipedia: [BBC 요크셔](https://ko.wikipedia.org/wiki/BBC_요크셔).
 
 
 **BBC 요크셔** (BBC Yorkshire)는 [BBC](https://ko.wikipedia.org/wiki/BBC "wikilink")의 [BBC 잉글랜드 지방 방송](../Page/BBC_잉글리시_리전스.md "wikilink") 중 하나로, 옛 [BBC 노스를](https://ko.wikipedia.org/wiki/BBC_노스 "wikilink") BBC 요크셔와 [BBC 요크셔앤드링컨셔로](https://ko.wikipedia.org/wiki/BBC_요크셔앤드링컨셔 "wikilink") 분할하는 과정에서 설립되었다. [킹스턴어폰헐](../Page/킹스턴어폰헐.md "wikilink")에 본사가 있다.

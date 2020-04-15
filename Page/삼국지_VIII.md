@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ VIII](https://ko.wikipedia.org/wiki/_VIII).
+> This article is converted from Wikipedia: [삼국지 VIII](https://ko.wikipedia.org/wiki/삼국지_VIII).
 
 
 《**삼국지 VIII**》(三國志VIII, Romance of the Three Kingdoms VIII)는 [코에이](../Page/코에이.md "wikilink")의 [삼국지](../Page/삼국지_\(비디오_게임_시리즈\).md "wikilink") 시리즈 중 8번째 게임이다.

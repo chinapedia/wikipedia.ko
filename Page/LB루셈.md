@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [LB](https://ko.wikipedia.org/wiki/LB).
+> This article is converted from Wikipedia: [LB루셈](https://ko.wikipedia.org/wiki/LB루셈).
 
 
 **LB루셈**(LB Lusem)은 대한민국 기업 [LG와](../Page/LG_\(기업\).md "wikilink") 일본기업 [Oki반도체](https://ko.wikipedia.org/wiki/Oki반도체 "wikilink")\[1\]가 합작하여 2004년 7월에 설립한 회사이다.

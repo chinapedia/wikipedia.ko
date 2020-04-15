@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  VR  ](https://ko.wikipedia.org/wiki/__VR__).
+> This article is converted from Wikipedia: [하츠네 미쿠 VR 퓨처 라이브](https://ko.wikipedia.org/wiki/하츠네_미쿠_VR_퓨처_라이브).
 
 
 《**하츠네 미쿠 VR 퓨처 라이브**》(, *HATSUNE MIKU VR Future Live with Project DIVA*)는 [세가 게임즈에서](https://ko.wikipedia.org/wiki/세가_게임즈 "wikilink") [2016년](../Page/2016년.md "wikilink") [10월 13일에](../Page/10월_13일.md "wikilink") [플레이스테이션 스토어에서](../Page/플레이스테이션_스토어.md "wikilink") 출시된 [플레이스테이션 4용](../Page/플레이스테이션_4.md "wikilink") 게임이며, [플레이스테이션 VR](../Page/플레이스테이션_VR.md "wikilink") 전용이다.

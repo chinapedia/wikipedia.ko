@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [-P](https://ko.wikipedia.org/wiki/-P).
+> This article is converted from Wikipedia: [머큐리-P](https://ko.wikipedia.org/wiki/머큐리-P).
 
 
 **머큐리 P**는 [수성](../Page/수성.md "wikilink")을 탐사하기 위해 2031년 발사가 예정된 수성 탐사선이다.\[1\] 2024년 발사되기로 계획되었으나,\[2\] [포보스 그룬트가](https://ko.wikipedia.org/wiki/포보스_그룬트 "wikilink") 실패하고 예산과 기술 부족 등의 여러 문제가 겹처 2030년 대로 연기되었다.\[3\] 두 개의 탐사선으로 구성되며, 하나는 랜더, 하나는 오비터이다.\[4\]

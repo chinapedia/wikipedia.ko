@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ L. ](https://ko.wikipedia.org/wiki/_L._).
+> This article is converted from Wikipedia: [데이나 L. 로버트](https://ko.wikipedia.org/wiki/데이나_L._로버트).
 
 
 **데이나 L. 로버트**(Dana Lee Robert)는 [미국](../Page/미국.md "wikilink")의 신학자, 역사학자이며 [피어선(A.T. Pierson)](https://ko.wikipedia.org/wiki/아서_태펀_피어슨 "wikilink") 연구의 세계적인 권위자이다. 루이지아나 대학교에서 학사를 [예일 대학교에서](../Page/예일_대학교.md "wikilink") [피어선](https://ko.wikipedia.org/wiki/아서_태펀_피어슨 "wikilink")(A.T. Pierson)연구로 박사학위를 받고 현재 [보스톤 대학교에서](../Page/보스턴_대학교.md "wikilink") 역사신학 교수로 있으면서 글로벌 기독교 선교센터의 소장으로 있다. 한국의 [평택대학교](https://ko.wikipedia.org/wiki/평택대학교 "wikilink")에도 강연차 2번 방문하였다. 역사적인 에딘버러 2010년 대회에 주강사였다.

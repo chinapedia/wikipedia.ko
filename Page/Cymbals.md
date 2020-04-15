@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Cymbals](https://ko.wikipedia.org/wiki/Cymbals).
 
 
-**Cymbals** ()는 [1997년](../Page/1997년.md "wikilink")에 결성되어 [2003년](../Page/2003년.md "wikilink")까지 활동한 일본의 [팝](https://ko.wikipedia.org/wiki/팝 "wikilink") 밴드이다. 장르는 포스트 [시부야케이](https://ko.wikipedia.org/wiki/시부야케이 "wikilink")로 분류되며, 결성 당시 내세운 컨셉은 "귀엽고 장난스런 밴드면서도 [펑크](../Page/펑크.md "wikilink")"였다.
+**Cymbals**()는 [1997년](../Page/1997년.md "wikilink")에 결성되어 [2003년](../Page/2003년.md "wikilink")까지 활동한 일본의 [팝](https://ko.wikipedia.org/wiki/팝 "wikilink") 밴드이다. 장르는 포스트 [시부야케이](https://ko.wikipedia.org/wiki/시부야케이 "wikilink")로 분류되며, 결성 당시 내세운 컨셉은 "귀엽고 장난스런 밴드면서도 [펑크](../Page/펑크.md "wikilink")"였다.
 
 ## 역사
 

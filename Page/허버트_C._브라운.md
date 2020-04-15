@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ C. ](https://ko.wikipedia.org/wiki/_C._).
+> This article is converted from Wikipedia: [허버트 C. 브라운](https://ko.wikipedia.org/wiki/허버트_C._브라운).
 
 
 **허버트 찰스 브라운**(, [1912년](../Page/1912년.md "wikilink") [5월 22일](../Page/5월_22일.md "wikilink") \~ [2004년](../Page/2004년.md "wikilink") [12월 19일](../Page/12월_19일.md "wikilink"))은 [미국](../Page/미국.md "wikilink")의 [화학](../Page/화학.md "wikilink")자이다. 1979년에 유기합성에서 중요한 [시약](https://ko.wikipedia.org/wiki/시약 "wikilink")으로 쓰이는 [유기붕소](https://ko.wikipedia.org/wiki/유기붕소 "wikilink")화합물을 연구한 공로로 [게오르크 비티히와](../Page/게오르크_비티히.md "wikilink") 함께 [노벨 화학상을](https://ko.wikipedia.org/wiki/노벨_화학상 "wikilink") 수상했다.

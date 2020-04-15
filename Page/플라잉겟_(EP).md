@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ \(EP\)](https://ko.wikipedia.org/wiki/_\(EP\)).
+> This article is converted from Wikipedia: [플라잉겟 \(EP\)](https://ko.wikipedia.org/wiki/플라잉겟_\(EP\)).
 
 
 《**플라잉겟**》()은 [중국](../Page/중국.md "wikilink")의 걸 그룹 [SNH48](../Page/SNH48.md "wikilink")의 두 번째 [미니 음반이다](../Page/익스텐디드_플레이.md "wikilink"). 나인스타일 뮤직에서 2013년 8월 2일에 발매됐다.

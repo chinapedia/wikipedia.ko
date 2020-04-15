@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
+> This article is converted from Wikipedia: [유통경제대학 FC](https://ko.wikipedia.org/wiki/유통경제대학_FC).
 
 
 **유통경제대학 FC**(, )는 [1965년](../Page/1965년.md "wikilink")에 창단하였으며, [이바라키현](../Page/이바라키현.md "wikilink") [류가사키 시에](https://ko.wikipedia.org/wiki/류가사키_시 "wikilink") 위치한 [일본](../Page/일본.md "wikilink")의 대학 [축구](../Page/축구.md "wikilink") 클럽이다. 유통경제대학 FC는 두 개의 팀을 운영하고 있으며, 한 팀은 대학 리그, 또 다른 팀은 성인 리그에서 활동하고 있다. [2018년](../Page/2018년.md "wikilink") 현재 대학팀은 [일본](../Page/일본.md "wikilink") [일본 지역 리그의](../Page/일본_지역_리그.md "wikilink") [간토 축구 리그](https://ko.wikipedia.org/wiki/간토_축구_리그 "wikilink") 1부 리그에, 성인팀은 [일본 풋볼 리그에](../Page/일본_풋볼_리그.md "wikilink") 참여하고 있다. JFL에서 활동하는 팀은 **유통경제 드래곤즈**라는 명칭을 사용한다. 축구단의 구성원은 모두 [유통경제대학](../Page/유통경제대학.md "wikilink")의 학생들로 구성되어 있다. 팀의 상징색은 회색과 남색이다.

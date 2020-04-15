@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Gaps](https://ko.wikipedia.org/wiki/:Gaps).
+> This article is converted from Wikipedia: [모듈:Gaps](https://ko.wikipedia.org/wiki/모듈:Gaps).
 
 
 local p = {}

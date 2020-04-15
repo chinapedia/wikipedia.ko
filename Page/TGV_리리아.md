@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TGV ](https://ko.wikipedia.org/wiki/TGV_).
+> This article is converted from Wikipedia: [TGV 리리아](https://ko.wikipedia.org/wiki/TGV_리리아).
 
 
 **TGV 리리아**()는 [프랑스](../Page/프랑스.md "wikilink")의 국제 [고속철도](../Page/고속철도.md "wikilink") 브랜드 이름으로 [프랑스](../Page/프랑스.md "wikilink")와 [스위스](https://ko.wikipedia.org/wiki/스위스 "wikilink")를 오가는 국제 고속열차를 운행하고 있다. [프랑스](../Page/프랑스.md "wikilink")의 철도 기업인 [SNCF](https://ko.wikipedia.org/wiki/SNCF "wikilink")가 74%의 지분을 보유하고 있으며 [스위스 연방 철도가](../Page/스위스_연방_철도.md "wikilink") 26% 지분을 보유하고 있다.\[1\]

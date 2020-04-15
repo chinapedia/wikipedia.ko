@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  FA](https://ko.wikipedia.org/wiki/__FA).
+> This article is converted from Wikipedia: [느그리 슴빌란 FA](https://ko.wikipedia.org/wiki/느그리_슴빌란_FA).
 
 
 **느그리 슴빌란 FA**(, )는 [느그리슴빌란주](https://ko.wikipedia.org/wiki/느그리슴빌란주 "wikilink") [스름반](https://ko.wikipedia.org/wiki/스름반 "wikilink")을 연고로 하는 [말레이시아](../Page/말레이시아.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다. 현재는 [말레이시아 프리미어리그에](../Page/말레이시아_프리미어리그.md "wikilink") 참가하고 있다.

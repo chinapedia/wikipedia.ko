@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [GS  KIXX  ](https://ko.wikipedia.org/wiki/GS__KIXX__).
+> This article is converted from Wikipedia: [GS칼텍스 서울 KIXX 선수 목록](https://ko.wikipedia.org/wiki/GS칼텍스_서울_KIXX_선수_목록).
 
 
 다음은 대한민국 [V-리그에](../Page/V-리그_\(대한민국\).md "wikilink") 참가 중인 [GS칼텍스 서울 KIXX에서](../Page/GS칼텍스_서울_KIXX.md "wikilink") 활동했거나 활동 중인 선수들의 목록이다.

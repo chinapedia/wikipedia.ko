@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [LOVE \~      \~](https://ko.wikipedia.org/wiki/LOVE_\~______\~).
+> This article is converted from Wikipedia: [LOVE \~잠 못 이루고 그대의 옆얼굴을 계속 보고있었어\~](https://ko.wikipedia.org/wiki/LOVE_\~잠_못_이루고_그대의_옆얼굴을_계속_보고있었어\~).
 
 
 〈**LOVE \~잠 못 이루고 그대의 옆얼굴을 계속 보고있었어\~**〉()는 [쿠리바야시 세이이치로가](https://ko.wikipedia.org/wiki/쿠리바야시_세이이치로 "wikilink") Barbier라는 이름으로 발표한 마지막 [싱글](https://ko.wikipedia.org/wiki/싱글 "wikilink")이며, 1996년 6월 9일 발매되었다. ([CD](../Page/콤팩트_디스크.md "wikilink"): JBDJ-1017) 곡의 작사는 [사카이 이즈미가](../Page/사카이_이즈미.md "wikilink"), 작곡은 쿠리바야시 세이이치로, 편곡을 하야마 타케시가 맡았다. B 사이드 곡은 〈I still remember〉이다.

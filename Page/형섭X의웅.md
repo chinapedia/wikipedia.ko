@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [X](https://ko.wikipedia.org/wiki/X).
+> This article is converted from Wikipedia: [형섭X의웅](https://ko.wikipedia.org/wiki/형섭X의웅).
 
 
 **형섭X의웅**은 대한민국의 남성 듀오이다. [형섭](../Page/형섭.md "wikilink")과 [의웅](../Page/의웅.md "wikilink")으로 구성되어 있다. 형섭과 의웅은 듀오로 데뷔하기 전 2017년 《[PRODUCE 101 시즌 2](https://ko.wikipedia.org/wiki/PRODUCE_101_시즌_2 "wikilink")》에 참가하였다.

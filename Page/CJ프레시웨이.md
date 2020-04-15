@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [CJ](https://ko.wikipedia.org/wiki/CJ).
+> This article is converted from Wikipedia: [CJ프레시웨이](https://ko.wikipedia.org/wiki/CJ프레시웨이).
 
 
 **CJ프레시웨이**(CJ freshway)는 건강하고 풍요로운 식문화 창출을 위해 기여하는 식자재 유통 및 푸드서비스 전문 기업이다.

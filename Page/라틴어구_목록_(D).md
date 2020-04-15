@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  \(D\)](https://ko.wikipedia.org/wiki/__\(D\)).
+> This article is converted from Wikipedia: [라틴어구 목록 \(D\)](https://ko.wikipedia.org/wiki/라틴어구_목록_\(D\)).
 
 
 자주 사용하는 라틴어구에 대한 목록이다.

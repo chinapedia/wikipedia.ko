@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ DBI](https://ko.wikipedia.org/wiki/_DBI).
+> This article is converted from Wikipedia: [펄 DBI](https://ko.wikipedia.org/wiki/펄_DBI).
 
 
 [컴퓨팅](../Page/컴퓨팅.md "wikilink")에서 **펄 DBI**(펄 데이터베이스 인터페이스, Perl Database Interface)는 [펄](../Page/펄.md "wikilink") [프로그래밍 언어를](../Page/프로그래밍_언어.md "wikilink") 사용하는 [프로그래머들이](https://ko.wikipedia.org/wiki/컴퓨터_프로그래머 "wikilink") 자신들의 프로그램 안에 [데이터베이스](../Page/데이터베이스.md "wikilink") 통신을 임베드하는 표준화된 방식을 제공한다. CPAN의 최신 펄 DBI 모듈은 [운영 체제](../Page/운영_체제.md "wikilink") 범위에서 실행이 가능하다.

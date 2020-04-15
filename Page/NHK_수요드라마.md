@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [NHK ](https://ko.wikipedia.org/wiki/NHK_).
+> This article is converted from Wikipedia: [NHK 수요드라마](https://ko.wikipedia.org/wiki/NHK_수요드라마).
 
 
 **수요드라마**는 NHK 종합 TV이 편성했다 연속 TV 드라마이다.

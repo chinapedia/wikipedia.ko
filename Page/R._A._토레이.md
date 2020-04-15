@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [R. A. ](https://ko.wikipedia.org/wiki/R._A._).
+> This article is converted from Wikipedia: [R. A. 토레이](https://ko.wikipedia.org/wiki/R._A._토레이).
 
 
 **르우벤 아쳐 토레이**(Reuben Archer Torrey, 1856년 1월 28일 - 1928 년 10월 26일)는 미국의 [전도자](https://ko.wikipedia.org/wiki/전도자 "wikilink"), 목사, 교육가, 그리고 저술가였다. [예일 대학교](../Page/예일_대학교.md "wikilink"), 독일 [라이프치히 대학교와](../Page/라이프치히_대학교.md "wikilink") [프리드리히 알렉산더 대학교](../Page/프리드리히_알렉산더_대학교.md "wikilink")(엘랑겐 대학교)에서 공부한 그는 [D. L. 무디와](../Page/D._L._무디.md "wikilink") 함께 [복음주의](../Page/복음주의.md "wikilink") 운동에 참여하였다. 바욜라 대학교에서도 가르쳤다. [휘튼 대학교에서](https://ko.wikipedia.org/wiki/휘튼_대학교 "wikilink") 명예학 박사학위를 받았다.\[1\]

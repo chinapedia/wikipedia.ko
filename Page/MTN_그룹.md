@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [MTN ](https://ko.wikipedia.org/wiki/MTN_).
+> This article is converted from Wikipedia: [MTN 그룹](https://ko.wikipedia.org/wiki/MTN_그룹).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:MTN_Mobile_south_africa_shop.jpg "wikilink") **MTN 그룹**, 전 M-셀\[1\]은 남아프리카에 본부를 둔 [다국적](../Page/다국적_기업.md "wikilink") 이동통신사로, 수많은 아프리카, 유럽 그리고 아시아 국가에서 영업하고 있다. [요하네스버그](../Page/요하네스버그.md "wikilink")에 본사가 있다.\[2\] 2015년 9월 30일을 기준으로, MTN은 3억명의 구독자를 기록하였다.\[3\]

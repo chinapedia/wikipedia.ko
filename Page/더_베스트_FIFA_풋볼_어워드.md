@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  FIFA  ](https://ko.wikipedia.org/wiki/__FIFA__).
+> This article is converted from Wikipedia: [더 베스트 FIFA 풋볼 어워드](https://ko.wikipedia.org/wiki/더_베스트_FIFA_풋볼_어워드).
 
 
 **더 베스트 FIFA 풋볼 어워드**(The Best FIFA Football Awards)는 매년 세계에서 가장 훌륭한 활약을 보여준 축구 선수에게 수여하는 [국제 축구 연맹](../Page/국제_축구_연맹.md "wikilink")(FIFA)의 축구상이다.
@@ -459,14 +459,14 @@
 <tr class="odd">
 <td><p>2위</p></td>
 <td><p><a href="../Page/마르타_비에이라_다_시우바.md" title="wikilink">마르타</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/FC_로셍오르드" title="wikilink">로셍오르드</a></p></td>
+<td><p><a href="../Page/FC_로셍오르드.md" title="wikilink">로셍오르드</a></p></td>
 <td></td>
 <td><p>16.60%</p></td>
 </tr>
 <tr class="even">
 <td><p>3위</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/멜라니_베링거" title="wikilink">멜라니 베링거</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/FC_바이에른_뮌헨_(여자_축구)" title="wikilink">바이에른 뮌헨</a></p></td>
+<td><p><a href="../Page/FC_바이에른_뮌헨_(여자_축구).md" title="wikilink">바이에른 뮌헨</a></p></td>
 <td></td>
 <td><p>12.34%</p></td>
 </tr>
@@ -480,8 +480,8 @@
 <tr class="even">
 <td><p><strong>1위</strong></p></td>
 <td><p><strong><a href="../Page/리커_마르턴스.md" title="wikilink">리커 마르턴스</a></strong></p></td>
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/FC_로셍오르드" title="wikilink">로셍오르드</a></strong><br />
- <strong><a href="https://ko.wikipedia.org/wiki/FC_바르셀로나_페메니" title="wikilink">바르셀로나</a></strong></p></td>
+<td><p><strong><a href="../Page/FC_로셍오르드.md" title="wikilink">로셍오르드</a></strong><br />
+ <strong><a href="../Page/FC_바르셀로나_페메니.md" title="wikilink">바르셀로나</a></strong></p></td>
 <td><p><strong></strong></p></td>
 <td><p><strong>21.72%</strong></p></td>
 </tr>
@@ -489,7 +489,7 @@
 <td><p>2위</p></td>
 <td><p><a href="../Page/칼리_로이드.md" title="wikilink">칼리 로이드</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/휴스턴_대시" title="wikilink">휴스턴 대시</a><br />
- <a href="https://ko.wikipedia.org/wiki/맨체스터_시티_WFC" title="wikilink">맨체스터 시티</a></p></td>
+ <a href="../Page/맨체스터_시티_WFC.md" title="wikilink">맨체스터 시티</a></p></td>
 <td></td>
 <td><p>16.28%</p></td>
 </tr>
@@ -516,15 +516,15 @@
 </tr>
 <tr class="odd">
 <td><p>2위</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/제니페르_머로잔" title="wikilink">제니페르 머로잔</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/올랭피크_리옹_(여자_축구)" title="wikilink">올랭피크 리옹</a></p></td>
+<td><p><a href="../Page/제니페르_머로잔.md" title="wikilink">제니페르 머로잔</a></p></td>
+<td><p><a href="../Page/올랭피크_리옹_(여자_축구).md" title="wikilink">올랭피크 리옹</a></p></td>
 <td></td>
 <td><p>12.86%</p></td>
 </tr>
 <tr class="even">
 <td><p>3위</p></td>
 <td><p><a href="../Page/아다_헤게르베르그.md" title="wikilink">아다 헤게르베르그</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/올랭피크_리옹_(여자_축구)" title="wikilink">올랭피크 리옹</a></p></td>
+<td><p><a href="../Page/올랭피크_리옹_(여자_축구).md" title="wikilink">올랭피크 리옹</a></p></td>
 <td></td>
 <td><p>12.60%</p></td>
 </tr>
@@ -552,7 +552,7 @@
 <tr class="even">
 <td><p>3위</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/루시_브론즈" title="wikilink">루시 브론즈</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/올랭피크_리옹_(여자_축구)" title="wikilink">올랭피크 리옹</a></p></td>
+<td><p><a href="../Page/올랭피크_리옹_(여자_축구).md" title="wikilink">올랭피크 리옹</a></p></td>
 <td></td>
 <td><p>29</p></td>
 </tr>
@@ -586,22 +586,22 @@
 </tr>
 <tr class="even">
 <td><p><strong>1위</strong></p></td>
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/사리_판_페이넨달" title="wikilink">사리 판 페이넨달</a></strong></p></td>
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/아스널_WFC" title="wikilink">아스널</a></strong><br />
+<td><p><strong><a href="../Page/사리_판_페이넨달.md" title="wikilink">사리 판 페이넨달</a></strong></p></td>
+<td><p><strong><a href="../Page/아스널_WFC.md" title="wikilink">아스널</a></strong><br />
  <strong><a href="https://ko.wikipedia.org/wiki/아틀레티코_마드리드_페메니노" title="wikilink">아틀레티코 마드리드</a></strong></p></td>
 <td><p><strong></strong></p></td>
 </tr>
 <tr class="odd">
 <td><p>2위</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/크리스티아네_엔들레르" title="wikilink">크리스티아네 엔들레르</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/파리_생제르맹_FC_(여자_축구)" title="wikilink">파리 생제르맹</a></p></td>
+<td><p><a href="../Page/크리스티아네_엔들레르.md" title="wikilink">크리스티아네 엔들레르</a></p></td>
+<td><p><a href="../Page/파리_생제르맹_FC_(여자_축구).md" title="wikilink">파리 생제르맹</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>3위</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/헤드비그_린달" title="wikilink">헤드비그 린달</a></p></td>
+<td><p><a href="../Page/헤드비그_린달.md" title="wikilink">헤드비그 린달</a></p></td>
 <td><p><a href="../Page/첼시_FC_위민.md" title="wikilink">첼시</a><br />
- <a href="https://ko.wikipedia.org/wiki/VfL_볼프스부르크_(여자_축구)" title="wikilink">VfL 볼프스부르크</a></p></td>
+ <a href="../Page/VfL_볼프스부르크_(여자_축구).md" title="wikilink">VfL 볼프스부르크</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -679,7 +679,7 @@
 <td><p>3위</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/제라르_프레쉬르" title="wikilink">제라르 프레쉬르</a></p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/올랭피크_리옹_(여자_축구)" title="wikilink">올랭피크 리옹</a></p></td>
+<td><p><a href="../Page/올랭피크_리옹_(여자_축구).md" title="wikilink">올랭피크 리옹</a></p></td>
 <td><p>9.37%</p></td>
 </tr>
 <tr class="odd">
@@ -691,9 +691,9 @@
 </tr>
 <tr class="even">
 <td><p><strong>1위</strong></p></td>
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/레날_페드로스" title="wikilink">레날 페드로스</a></strong></p></td>
+<td><p><strong><a href="../Page/레날_페드로스.md" title="wikilink">레날 페드로스</a></strong></p></td>
 <td><p><strong></strong></p></td>
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/올랭피크_리옹_(여자_축구)" title="wikilink">올랭피크 리옹</a></strong></p></td>
+<td><p><strong><a href="../Page/올랭피크_리옹_(여자_축구).md" title="wikilink">올랭피크 리옹</a></strong></p></td>
 <td><p><strong>23.15%</strong></p></td>
 </tr>
 <tr class="odd">
@@ -705,7 +705,7 @@
 </tr>
 <tr class="even">
 <td><p>3위</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/다카쿠라_아사코" title="wikilink">다카쿠라 아사코</a></p></td>
+<td><p><a href="../Page/다카쿠라_아사코.md" title="wikilink">다카쿠라 아사코</a></p></td>
 <td></td>
 <td></td>
 <td><p>12.80%</p></td>
@@ -1460,7 +1460,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/프렝키_더_용" title="wikilink">프렝키 더 용</a></p></td>
+<td><p><a href="../Page/프렝키_더_용.md" title="wikilink">프렝키 더 용</a></p></td>
 <td></td>
 <td><p><a href="../Page/AFC_아약스.md" title="wikilink">아약스</a><br />
  <a href="../Page/FC_바르셀로나.md" title="wikilink">바르셀로나</a></p></td>
@@ -1526,9 +1526,9 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/사리_판_페이넨달" title="wikilink">사리 판 페이넨달</a></p></td>
+<td><p><a href="../Page/사리_판_페이넨달.md" title="wikilink">사리 판 페이넨달</a></p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/아스널_WFC" title="wikilink">아스널</a><br />
+<td><p><a href="../Page/아스널_WFC.md" title="wikilink">아스널</a><br />
  <a href="https://ko.wikipedia.org/wiki/아틀레티코_마드리드_페메니노" title="wikilink">아틀레티코 페메니노</a></p></td>
 </tr>
 <tr class="even">
@@ -1539,12 +1539,12 @@
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/루시_브론즈" title="wikilink">루시 브론즈</a></p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/올랭피크_리옹_(여자_축구)" title="wikilink">올랭피크 리옹</a></p></td>
+<td><p><a href="../Page/올랭피크_리옹_(여자_축구).md" title="wikilink">올랭피크 리옹</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/닐라_피셰르" title="wikilink">닐라 피셰르</a></p></td>
+<td><p><a href="../Page/닐라_피셰르.md" title="wikilink">닐라 피셰르</a></p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/VfL_볼프스부르크_(여자_축구)" title="wikilink">VfL 볼프스부르크</a><br />
+<td><p><a href="../Page/VfL_볼프스부르크_(여자_축구).md" title="wikilink">VfL 볼프스부르크</a><br />
  <a href="https://ko.wikipedia.org/wiki/린셰핑_FC" title="wikilink">린셰핑 FC</a></p></td>
 </tr>
 <tr class="odd">
@@ -1553,9 +1553,9 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/유타_로열스_FC" title="wikilink">유타 로열스 FC</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/웬디_르나르" title="wikilink">웬디 르나르</a></p></td>
+<td><p><a href="../Page/웬디_르나르.md" title="wikilink">웬디 르나르</a></p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/올랭피크_리옹_(여자_축구)" title="wikilink">올랭피크 리옹</a></p></td>
+<td><p><a href="../Page/올랭피크_리옹_(여자_축구).md" title="wikilink">올랭피크 리옹</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>미드필더</p></td>
@@ -1563,14 +1563,14 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/줄리_어츠" title="wikilink">줄리 어츠</a></p></td>
+<td><p><a href="../Page/줄리_어츠.md" title="wikilink">줄리 어츠</a></p></td>
 <td></td>
 <td><p><a href="../Page/시카고_레드_스타스.md" title="wikilink">시카고 레드 스타스</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/아망딘_앙리.md" title="wikilink">아망딘 앙리</a></p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/올랭피크_리옹_(여자_축구)" title="wikilink">올랭피크 리옹</a></p></td>
+<td><p><a href="../Page/올랭피크_리옹_(여자_축구).md" title="wikilink">올랭피크 리옹</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/로즈_라벨" title="wikilink">로즈 라벨</a></p></td>

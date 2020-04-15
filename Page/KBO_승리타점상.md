@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KBO ](https://ko.wikipedia.org/wiki/KBO_).
+> This article is converted from Wikipedia: [KBO 승리타점상](https://ko.wikipedia.org/wiki/KBO_승리타점상).
 
 
 **KBO 승리타점상**은 연말 [KBO 리그](https://ko.wikipedia.org/wiki/KBO_리그 "wikilink") 시상식에서 해당 연도 정규 리그의 [승리타점](https://ko.wikipedia.org/wiki/승리타점 "wikilink") 1위에게 수여했던 상이다. 1982년 프로야구 출범과 함께 시상했지만, 승리타점 결정 규정의 까다로움에 수상자들의 기록이 8년동안 적게 나타나자 무용론이 제기되었고, 결국 1990년에 폐지되고 최다안타상이 신설되었다.\[1\]

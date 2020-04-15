@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ \(macOS\)](https://ko.wikipedia.org/wiki/_\(macOS\)).
+> This article is converted from Wikipedia: [터미널 \(macOS\)](https://ko.wikipedia.org/wiki/터미널_\(macOS\)).
 
 
 **터미널**(Terminal, **Terminal.app**)은 [애플이](https://ko.wikipedia.org/wiki/애플_\(기업\) "wikilink") 개발한 [macOS](https://ko.wikipedia.org/wiki/macOS "wikilink") [운영 체제에](../Page/운영_체제.md "wikilink") 포함된 [단말 에뮬레이터이다](../Page/단말_에뮬레이터.md "wikilink").\[1\] 터미널은 macOS의 전작 운영 체제인 [NeXTSTEP](../Page/NeXTSTEP.md "wikilink"), [오픈스텝](../Page/오픈스텝.md "wikilink")에서 기원이 된다.\[2\]

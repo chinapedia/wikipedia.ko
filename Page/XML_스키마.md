@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [XML ](https://ko.wikipedia.org/wiki/XML_).
+> This article is converted from Wikipedia: [XML 스키마](https://ko.wikipedia.org/wiki/XML_스키마).
 
 
 **XML 스키마**(XML schema)는 [XML](../Page/XML.md "wikilink") 문서 타입에 대해 기술한 것이다.

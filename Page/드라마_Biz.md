@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ Biz](https://ko.wikipedia.org/wiki/_Biz).
+> This article is converted from Wikipedia: [드라마 Biz](https://ko.wikipedia.org/wiki/드라마_Biz).
 
 
 **드라마 Biz**()는 [TV 도쿄](../Page/TV_도쿄.md "wikilink") [계열에서](../Page/TX네트워크.md "wikilink") 매주 월요일 편성되는 [드라마](https://ko.wikipedia.org/wiki/드라마 "wikilink")이다.
@@ -95,18 +95,25 @@
 </tr>
 <tr class="odd">
 <td><p>《병원의 치료 방법~닥터 아리하라의 도전~》</p></td>
-<td><p>1월 20일 - 진행 중</p></td>
+<td><p>1월 20일 - 3월 9일</p></td>
 <td><p><a href="../Page/고이즈미_코타로.md" title="wikilink">고이즈미 코타로</a></p></td>
 <td><p>오리지널</p></td>
-<td><p>미정</p></td>
+<td><p>7부작</p></td>
 </tr>
 <tr class="even">
 <td><p>《행렬의 여신~라면 서유기~》</p></td>
-<td><p>4월 - (예정)</p></td>
+<td><p>4월 20일 - (예정)</p></td>
 <td><p><a href="../Page/스즈키_쿄카.md" title="wikilink">스즈키 쿄카</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/쿠베_로쿠로" title="wikilink">쿠베 로쿠로</a><br />
 <a href="https://ko.wikipedia.org/wiki/카와이_탄" title="wikilink">카와이 탄</a></p></td>
 <td><p>미정</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 </tbody>
 </table>
@@ -242,7 +249,7 @@ BS 테이터 방송</p></td>
 ## 함께 보기
 
   - [TV 도쿄 월요일 밤 10시 드라마](../Page/TV_도쿄_월요일_밤_10시_드라마.md "wikilink")
-      - 《[최상의 명의](https://ko.wikipedia.org/wiki/최상의_명의 "wikilink")》
+      - 《[최상의 명의](../Page/최상의_명의.md "wikilink")》
       - 《[스즈키 선생](https://ko.wikipedia.org/wiki/스즈키_선생 "wikilink")》
       - 《[IS\~남자도 여자도 아닌 성\~](../Page/IS_\(만화\).md "wikilink")》
 

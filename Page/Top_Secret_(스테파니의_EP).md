@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Top Secret \( EP\)](https://ko.wikipedia.org/wiki/Top_Secret_\(_EP\)).
+> This article is converted from Wikipedia: [Top Secret \(스테파니의 EP\)](https://ko.wikipedia.org/wiki/Top_Secret_\(스테파니의_EP\)).
 
 
 | 이 앨범에 수록된 싱글                                                             |

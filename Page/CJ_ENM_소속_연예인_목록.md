@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [CJ ENM   ](https://ko.wikipedia.org/wiki/CJ_ENM___).
+> This article is converted from Wikipedia: [CJ ENM 소속 연예인 목록](https://ko.wikipedia.org/wiki/CJ_ENM_소속_연예인_목록).
 
 
-다음 은 [CJ ENM](https://ko.wikipedia.org/wiki/CJ_ENM "wikilink") 에 소속 되어 있거나, 소속 된 적 이 있는 연예인 의 목록 이다.
+다음 은 [CJ ENM](../Page/CJ_ENM.md "wikilink") 에 소속 되어 있거나, 소속 된 적 이 있는 연예인 의 목록 이다.
 
 ## 현재 CJ ENM 및 자회사 소속
 
@@ -22,24 +22,7 @@
 
   - [손호영](../Page/손호영.md "wikilink")
   - [김필](../Page/김필_\(가수\).md "wikilink")
-  - [인투잇](../Page/인투잇.md "wikilink")
-      - 김진섭
-      - 김성현
-      - 아이젝
-      - 이인표
-      - 유영두
-      - 정연태
-      - 한현욱
-      - 황인호
   - 훈스(Hoons)
-
-### [젤리피쉬엔터테인먼트](https://ko.wikipedia.org/wiki/젤리피쉬엔터테인먼트 "wikilink")
-
-  - [장혜진](../Page/장혜진_\(가수\).md "wikilink")
-  - [빅스](../Page/빅스_\(음악_그룹\).md "wikilink")
-  - [박윤하](../Page/박윤하.md "wikilink")
-  - [구구단](../Page/구구단_\(음악_그룹\).md "wikilink")
-  - [베리베리](https://ko.wikipedia.org/wiki/베리베리 "wikilink")
 
 ### [AOMG](https://ko.wikipedia.org/wiki/AOMG "wikilink")
 
@@ -90,6 +73,15 @@
   - [오영결](https://ko.wikipedia.org/wiki/오영결 "wikilink")
   - [박보람](../Page/박보람.md "wikilink") - 화이브라더스코리아 소속
   - [윤지성](../Page/윤지성.md "wikilink") - LM엔터테인먼트 소속
+  - [인투잇](../Page/인투잇.md "wikilink")
+      - 김진섭
+      - 김성현
+      - 아이젝
+      - 이인표
+      - 유영두
+      - 정연태
+      - 한현욱
+      - 황인호
 
 ### 배우
 

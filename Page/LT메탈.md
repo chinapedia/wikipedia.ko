@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [LT](https://ko.wikipedia.org/wiki/LT).
+> This article is converted from Wikipedia: [LT메탈](https://ko.wikipedia.org/wiki/LT메탈).
 
 
 **LT메탈 주식회사**()는 [희성그룹](https://ko.wikipedia.org/wiki/희성그룹 "wikilink") 계열의 전기 전자 부품 제조, 귀금속 소재 제조 기업이다.

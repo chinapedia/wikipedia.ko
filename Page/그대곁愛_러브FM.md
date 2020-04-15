@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ FM](https://ko.wikipedia.org/wiki/_FM).
+> This article is converted from Wikipedia: [그대곁愛 러브FM](https://ko.wikipedia.org/wiki/그대곁愛_러브FM).
 
 
 《**그대곁愛 러브FM**》는 [KNN 러브FM](../Page/KNN_러브FM.md "wikilink")(부산 FM 105.7MHz, 양산 FM 88.5MHz, 기장/정관 FM 89.3MHz, 창원/김해/거제 FM 90.9MHz, 진주 FM 98.7MHz)에서 매일 밤 12시에 방송됐던 라디오 프로그램이다.

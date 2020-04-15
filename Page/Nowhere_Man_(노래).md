@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Nowhere Man \(\)](https://ko.wikipedia.org/wiki/Nowhere_Man_\(\)).
+> This article is converted from Wikipedia: [Nowhere Man \(노래\)](https://ko.wikipedia.org/wiki/Nowhere_Man_\(노래\)).
 
 
 〈**Nowhere Man**〉(노웨어 맨)은 1965년 12월 비틀즈의 여섯 번째 정규 음반 《[Rubber Soul](../Page/Rubber_Soul.md "wikilink")》에 수록되어 발표된 곡이다. 존 레논에 의해 씌여졌지만, [레논-매카트니](../Page/레논-매카트니.md "wikilink")의 명의로 크레디트 되었다.
@@ -176,7 +176,7 @@
 2.  *Playboy*, December 1984.
 3.  Barry Miles, *Paul McCartney : Many Years From Now. Les Beatles, les sixties et moi*, Flammarion, 2004,
 4.  Andy Babiuk: *Beatles Gear*. Backbeat Books, San Francisco 2001, [ISBN 0-87930-662-9](https://ko.wikipedia.org/wiki/Spezial:ISBN-Suche/0879306629 "wikilink"), S. 157.
-5.  Mark Lewisohn: *The Complete Beatles Recording Sessions.* Hamlyn, London 1988, ISBN 0-600-61207-4, S. 13.
+5.  Mark Lewisohn: *The Complete Beatles Recording Sessions.* Hamlyn, London 1988, , S. 13.
 6.
 7.
 8.

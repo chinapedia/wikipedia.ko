@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [ N](https://ko.wikipedia.org/wiki/_N).
+> This article is converted from Wikipedia: [생방송 아침N](https://ko.wikipedia.org/wiki/생방송_아침N).
 
 
-**생방송 아침N**은 매주 [평일](https://ko.wikipedia.org/wiki/평일 "wikilink") 오전 8시 30분에 [MBC충북](../Page/MBC충북.md "wikilink")으로 방송되는 [텔레비전 프로그램이다](../Page/텔레비전_프로그램.md "wikilink").
+**생방송 아침N**은 월요일\~목요일 오전 8시 30분에 [MBC충북](../Page/MBC충북.md "wikilink")으로 방송되는 [텔레비전 프로그램이다](../Page/텔레비전_프로그램.md "wikilink"). 금요일에는 아침N 스페셜로 방송된다.
 
 ## 기획 의도
 
@@ -9,14 +9,13 @@
 
 ## 구성
 
-  - 날씨
-  - 절기밥상
-  - 아침N 퀴즈
-  - 어른들을 위한 상담소
-  - 소소팁
-  - ENG
-  - 감성 드라마 동감
-  - 건강한 부티뷰티
+  - 날씨 \[월\~목\]
+  - 마이맨숀 \[화\]
+  - 아침N 퀴즈 \[월\~목\]
+  - 트로조(**朝) \[목\]**
+  - 문화가 있는 아침N \[수\]
+  - ENG \[월\~목\]
+  - 건강한 부티뷰티 \[화\]
   - 초대석
   - LTE현장
 

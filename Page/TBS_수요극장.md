@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TBS ](https://ko.wikipedia.org/wiki/TBS_).
+> This article is converted from Wikipedia: [TBS 수요극장](https://ko.wikipedia.org/wiki/TBS_수요극장).
 
 
 **수요극장**()은 [TBS 텔레비전](../Page/TBS_텔레비전.md "wikilink") [계열에서](../Page/도쿄_방송_홀딩스.md "wikilink") 매주 수요일의 [드라마](https://ko.wikipedia.org/wiki/드라마 "wikilink")이다.

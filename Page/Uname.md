@@ -332,7 +332,7 @@ POSIX</p></th>
 <td><p>1</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/IBM_i" title="wikilink">IBM i</a> 5.3 with QSH</p></td>
+<td><p><a href="../Page/IBM_i.md" title="wikilink">IBM i</a> 5.3 with QSH</p></td>
 <td><p>OS400</p></td>
 <td><p><em>(hostname)</em></p></td>
 <td><p><em>(serial number of machine)</em></p></td>
@@ -342,7 +342,7 @@ POSIX</p></th>
 <td><p>3</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/IBM_i" title="wikilink">IBM i</a> 6.1 with QSH</p></td>
+<td><p><a href="../Page/IBM_i.md" title="wikilink">IBM i</a> 6.1 with QSH</p></td>
 <td><p>OS400</p></td>
 <td><p><em>(hostname)</em></p></td>
 <td><p><em>(serial number of machine)</em></p></td>
@@ -352,7 +352,7 @@ POSIX</p></th>
 <td><p>1</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/IBM_i" title="wikilink">IBM i</a> 7.1 with QSH</p></td>
+<td><p><a href="../Page/IBM_i.md" title="wikilink">IBM i</a> 7.1 with QSH</p></td>
 <td><p>OS400</p></td>
 <td><p><em>(hostname)</em></p></td>
 <td><p><em>(serial number of machine)</em></p></td>

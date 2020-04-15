@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [AJ](https://ko.wikipedia.org/wiki/AJ).
+> This article is converted from Wikipedia: [AJ가족](https://ko.wikipedia.org/wiki/AJ가족).
 
 
 **AJ**는 [대한민국](../Page/대한민국.md "wikilink")의 [기업집단](https://ko.wikipedia.org/wiki/기업집단 "wikilink")이다. [아주그룹](../Page/아주그룹.md "wikilink")에서 계열 분리된 아주렌탈이 주측이 되어 출범하게 되었다.

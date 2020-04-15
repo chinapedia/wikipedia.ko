@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:ACC    ](https://ko.wikipedia.org/wiki/:ACC____).
+> This article is converted from Wikipedia: [위키백과:ACC 차세대 문화 포럼 에디터톤](https://ko.wikipedia.org/wiki/위키백과:ACC_차세대_문화_포럼_에디터톤).
 
 
 [center](https://ko.wikipedia.org/wiki/파일:Poster_for_2016_ACC_Young-generation_Culture_Forum.pdf "wikilink")

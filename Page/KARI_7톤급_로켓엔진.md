@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KARI 7 ](https://ko.wikipedia.org/wiki/KARI_7_).
+> This article is converted from Wikipedia: [KARI 7톤급 로켓엔진](https://ko.wikipedia.org/wiki/KARI_7톤급_로켓엔진).
 
 
 **KRE-007**은 한국 [한국항공우주연구원](../Page/한국항공우주연구원.md "wikilink")(KARI)이 개발한 [우주발사체](../Page/우주발사체.md "wikilink")용 액체연료 로켓 엔진이다. 등유를 연료로 사용하며, 산화제는 액체산소를 사용한다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ A. ](https://ko.wikipedia.org/wiki/_A._).
+> This article is converted from Wikipedia: [토비아스 A. 슐리슬러](https://ko.wikipedia.org/wiki/토비아스_A._슐리슬러).
 
 
 **토비아스 A. 슐리슬러**(, [1958년](../Page/1958년.md "wikilink") [11월 5일](../Page/11월_5일.md "wikilink") \~ )는 [독일](../Page/독일.md "wikilink")의 영화 촬영 기사이다. [빌 콘던](https://ko.wikipedia.org/wiki/빌_콘던 "wikilink") 감독의 《[드림걸즈](https://ko.wikipedia.org/wiki/드림걸즈_\(영화\) "wikilink")》(2006), 《[제5계급](../Page/제5계급.md "wikilink")》(2013), 《[미스터 홈즈](../Page/미스터_홈즈.md "wikilink")》(2015), 《[미녀와 야수](../Page/미녀와_야수_\(2017년_영화\).md "wikilink")》(2017), [피터 버그](https://ko.wikipedia.org/wiki/피터_버그 "wikilink") 감독의 《[웰컴 투 더 정글](../Page/웰컴_투_더_정글_\(2003년_영화\).md "wikilink")》(2003), 《[핸콕](../Page/핸콕_\(영화\).md "wikilink")》(2008), 《[배틀쉽](../Page/배틀쉽_\(영화\).md "wikilink")》(2012) 등의 대표작이 있다. 아버지 마르틴 슐리슬러는 영화 감독이었다.

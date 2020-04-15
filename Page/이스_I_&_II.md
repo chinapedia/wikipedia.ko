@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ I \& II](https://ko.wikipedia.org/wiki/_I_\&_II).
+> This article is converted from Wikipedia: [이스 I \& II](https://ko.wikipedia.org/wiki/이스_I_\&_II).
 
 
 《**이스 I & II**》()는 [니혼 팔콤이](../Page/니혼_팔콤.md "wikilink") [PC-8801](https://ko.wikipedia.org/wiki/PC-8801 "wikilink")로 제작했던 [액션 롤플레잉 게임](https://ko.wikipedia.org/wiki/액션_롤플레잉_게임 "wikilink") 《[이스 I](../Page/이스_I:_에인션트_이스_배니시드.md "wikilink")》 및 《[이스 II](../Page/이스_II:_에인션트_이스_배니시드_-_더_파이널_챕터.md "wikilink")》을 하나로 묶은 합본 [리메이크 게임이다](https://ko.wikipedia.org/wiki/리메이크_게임 "wikilink"). 1989년 [알파 시스템이](https://ko.wikipedia.org/wiki/알파_시스템 "wikilink") 개발하고 [허드슨 소프트가](../Page/허드슨_소프트.md "wikilink") 배급한 [PC 엔진 CD용](https://ko.wikipedia.org/wiki/PC_엔진_CD "wikilink") 리메이크가 최초로 등장한 판본이다. 이 작품은 이후 1990년 북미 지역에서 [PC 엔진 듀오](https://ko.wikipedia.org/wiki/PC_엔진_듀오 "wikilink") 출시 당시 《**이스 북 I & II**》()라는 제목의 동시발매 타이틀로 넣어 판촉수단으로 활동됐다.\[1\]

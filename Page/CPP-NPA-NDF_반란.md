@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [CPP-NPA-NDF ](https://ko.wikipedia.org/wiki/CPP-NPA-NDF_).
+> This article is converted from Wikipedia: [CPP-NPA-NDF 반란](https://ko.wikipedia.org/wiki/CPP-NPA-NDF_반란).
 
 
 **필리핀 CPP–NPA–NDF 반란**은 [필리핀 정부와](https://ko.wikipedia.org/wiki/필리핀_정부 "wikilink") [필리핀 공산당](../Page/필리핀_공산당.md "wikilink")(CPP), [신인민군](https://ko.wikipedia.org/wiki/신인민군 "wikilink")(NPA), [필리핀 국가민주전선](https://ko.wikipedia.org/wiki/필리핀_국가민주전선 "wikilink")(NDF) 사이의 반란이다.

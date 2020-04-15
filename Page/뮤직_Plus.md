@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ Plus](https://ko.wikipedia.org/wiki/_Plus).
+> This article is converted from Wikipedia: [뮤직 Plus](https://ko.wikipedia.org/wiki/뮤직_Plus).
 
 
 **뮤직 Plus**는 [대한민국](../Page/대한민국.md "wikilink")의 방송국인 [KBS대전방송총국](../Page/KBS대전방송총국.md "wikilink") 라디오 채널 [KBS대전 제1FM](../Page/KBS대전방송총국.md "wikilink") (FM 98.5MHz)에서 매일 오후 5시부터 6시까지 방송하는 대전·충남 지역의 클래식 전문 라디오 프로그램이다.

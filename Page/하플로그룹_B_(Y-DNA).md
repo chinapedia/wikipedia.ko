@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ B \(Y-DNA\)](https://ko.wikipedia.org/wiki/_B_\(Y-DNA\)).
+> This article is converted from Wikipedia: [하플로그룹 B \(Y-DNA\)](https://ko.wikipedia.org/wiki/하플로그룹_B_\(Y-DNA\)).
 
 
 **하플로그룹 B (Y-DNA)**는 [인류 Y-염색체 DNA 하플로그룹의](https://ko.wikipedia.org/wiki/인류_Y-염색체_DNA_하플로그룹 "wikilink") 일종으로, [하플로그룹 BT로부터](https://ko.wikipedia.org/wiki/하플로그룹_BT_\(Y-염색체\) "wikilink") 나왔다.

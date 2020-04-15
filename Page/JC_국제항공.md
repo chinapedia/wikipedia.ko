@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [JC ](https://ko.wikipedia.org/wiki/JC_).
+> This article is converted from Wikipedia: [JC 국제항공](https://ko.wikipedia.org/wiki/JC_국제항공).
 
 
 **JC 국제항공**(JC International Airlines, )는 [캄보디아](../Page/캄보디아.md "wikilink")의 항공사이며, [프놈펜 국제공항의](https://ko.wikipedia.org/wiki/프놈펜_국제공항 "wikilink") 허브 공항이기도 하다.

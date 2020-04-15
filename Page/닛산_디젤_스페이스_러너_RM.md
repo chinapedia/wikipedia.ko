@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [    RM](https://ko.wikipedia.org/wiki/____RM).
+> This article is converted from Wikipedia: [닛산 디젤 스페이스 러너 RM](https://ko.wikipedia.org/wiki/닛산_디젤_스페이스_러너_RM).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:SeibuBus_A7-226.jpg "wikilink") **닛산 디젤 스페이스 러너 RM**(, )은 [일본](../Page/일본.md "wikilink") 닛산 디젤 (현, [UD트럭](../Page/UD트럭.md "wikilink"))이 만든 [저상버스](../Page/저상버스.md "wikilink")로 [1975년](../Page/1975년.md "wikilink")부터 [2010년](../Page/2010년.md "wikilink")까지 생산했다.

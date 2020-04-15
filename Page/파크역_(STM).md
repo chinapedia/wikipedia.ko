@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [ \(STM\)](https://ko.wikipedia.org/wiki/_\(STM\)).
+> This article is converted from Wikipedia: [파크역 \(STM\)](https://ko.wikipedia.org/wiki/파크역_\(STM\)).
 
 
-**파크역**()은 [빌르레-생미셸-파크엑스탕시옹](https://ko.wikipedia.org/wiki/빌르레-생미셸-파크엑스탕시옹 "wikilink") 지역구의 [파크엑스탕시옹](https://ko.wikipedia.org/wiki/파크엑스탕시옹 "wikilink") 지역에 위치한 [몬트리올 지하철](../Page/몬트리올_지하철.md "wikilink") [파란색 선](../Page/파란색_선_\(몬트리올\).md "wikilink") 정차역으로, 과거 [캐나다 태평양 철도](../Page/캐나다_태평양_철도.md "wikilink") 역이였던 장 탈롱역 (Gare Jean-Talon) 건물을 역사로 쓰고 있다. 이 역은 또한 [엑소](../Page/엑소_\(대중교통\).md "wikilink") [통근 열차](https://ko.wikipedia.org/wiki/몬트리올의_통근_열차 "wikilink") 노선인 [생제롬선](https://ko.wikipedia.org/wiki/생제롬선 "wikilink") 열차가 정차하는 [동명의 통근 열차역과](https://ko.wikipedia.org/wiki/파크역_\(엑소\) "wikilink") 인접해있다.
+**파크역**()은 [빌르레-생미셸-파크엑스탕시옹](https://ko.wikipedia.org/wiki/빌르레-생미셸-파크엑스탕시옹 "wikilink") 지역구의 [파크엑스탕시옹](https://ko.wikipedia.org/wiki/파크엑스탕시옹 "wikilink") 지역에 위치한 [몬트리올 지하철](../Page/몬트리올_지하철.md "wikilink") [파란색 선](../Page/파란색_선_\(몬트리올\).md "wikilink") 정차역으로, 과거 [캐나다 태평양 철도](../Page/캐나다_태평양_철도.md "wikilink") 역이였던 장 탈롱역 (Gare Jean-Talon) 건물을 역사로 쓰고 있다. 이 역은 또한 [엑소](../Page/엑소_\(대중교통\).md "wikilink") [통근 열차](../Page/몬트리올의_통근_열차.md "wikilink") 노선인 [생제롬선](https://ko.wikipedia.org/wiki/생제롬선 "wikilink") 열차가 정차하는 [동명의 통근 열차역과](https://ko.wikipedia.org/wiki/파크역_\(엑소\) "wikilink") 인접해있다.
 
 ## 건축 양식
 

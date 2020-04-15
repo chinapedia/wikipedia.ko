@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KAL ](https://ko.wikipedia.org/wiki/KAL_).
+> This article is converted from Wikipedia: [KAL 빌딩](https://ko.wikipedia.org/wiki/KAL_빌딩).
 
 
 **KAL 빌딩**()은 [대한민국](../Page/대한민국.md "wikilink") [서울특별시](../Page/서울특별시.md "wikilink") [중구](../Page/중구_\(서울특별시\).md "wikilink") [남대문로](../Page/남대문로.md "wikilink") 63(남대문로2가 118)에 위치한 오피스 빌딩이다. 1970년 [정부서울청사](../Page/정부서울청사.md "wikilink")가 완공되기 전까지 대한민국 최고층 빌딩이었다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KAGAJO4S](https://ko.wikipedia.org/wiki/KAGAJO4S).
+> This article is converted from Wikipedia: [KAGAJO☆4S](https://ko.wikipedia.org/wiki/KAGAJO☆4S).
 
 
 **카가죠☆4S**(KAGAJO☆4S)는 [스타더스트 프로모션에](../Page/스타더스트_프로모션.md "wikilink") 소속된 일본의 [여성](../Page/여성.md "wikilink") [아이돌](https://ko.wikipedia.org/wiki/아이돌 "wikilink") 그룹이다. 약칭은 **카가죠**()다.

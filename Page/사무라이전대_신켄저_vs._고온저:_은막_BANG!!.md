@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [  vs. :  BANG!!](https://ko.wikipedia.org/wiki/__vs._:__BANG!!).
+> This article is converted from Wikipedia: [사무라이전대 신켄저 vs. 고온저: 은막 BANG!!](https://ko.wikipedia.org/wiki/사무라이전대_신켄저_vs._고온저:_은막_BANG!!).
 
 
-**사무라이전대 신켄저 vs. 고온저 은막 BANG\!\!** ()은 《[슈퍼 전대 시리즈](../Page/슈퍼_전대_시리즈.md "wikilink")》의 《[사무라이전대 신켄저](../Page/사무라이전대_신켄저.md "wikilink")》, 《[염신전대 고온저](../Page/염신전대_고온저.md "wikilink")》의 극장판으로, [신켄저](../Page/신켄저.md "wikilink")와 [고온저](https://ko.wikipedia.org/wiki/고온저 "wikilink") 간의 "VS 시리즈"에 해당하는 작품이다. [2010년](../Page/2010년.md "wikilink") [1월 30일](../Page/1월_30일.md "wikilink") 최초로 공식 공개되었으며, [2010년](../Page/2010년.md "wikilink") [3월 21일에](../Page/3월_21일.md "wikilink") [DVD](../Page/DVD.md "wikilink")로 출시되었다.
+**사무라이전대 신켄저 vs. 고온저 은막 BANG\!\!**()은 《[슈퍼 전대 시리즈](../Page/슈퍼_전대_시리즈.md "wikilink")》의 《[사무라이전대 신켄저](../Page/사무라이전대_신켄저.md "wikilink")》, 《[염신전대 고온저](../Page/염신전대_고온저.md "wikilink")》의 극장판으로, [신켄저](../Page/신켄저.md "wikilink")와 [고온저](https://ko.wikipedia.org/wiki/고온저 "wikilink") 간의 "VS 시리즈"에 해당하는 작품이다. [2010년](../Page/2010년.md "wikilink") [1월 30일](../Page/1월_30일.md "wikilink") 최초로 공식 공개되었으며, [2010년](../Page/2010년.md "wikilink") [3월 21일에](../Page/3월_21일.md "wikilink") [DVD](../Page/DVD.md "wikilink")로 출시되었다.
 
 ## 개요
 

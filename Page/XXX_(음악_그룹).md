@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [XXX \( \)](https://ko.wikipedia.org/wiki/XXX_\(_\)).
+> This article is converted from Wikipedia: [XXX \(음악 그룹\)](https://ko.wikipedia.org/wiki/XXX_\(음악_그룹\)).
 
 
 **XXX**는 래퍼 [김심야](https://ko.wikipedia.org/wiki/김심야 "wikilink") (Kim Ximya)와 DJ 겸 프로듀서 FRNK (프랭크)가 결성한 대한민국의 듀엣 가수이자 힙합 그룹이다.
@@ -29,8 +29,8 @@
 
 ## 수상
 
-  - 2019년 한국 힙합 어워즈 2019 '올해의 힙합 앨범' 상
-  - 2019년 제16회 한국대중음악상 '최우수 랩&힙합 노래' 상
+  - 2019년 [한국 힙합 어워즈](https://ko.wikipedia.org/wiki/한국_힙합_어워즈 "wikilink") 2019 '올해의 힙합 앨범' 상
+  - 2019년 제16회 [한국대중음악상](../Page/한국대중음악상.md "wikilink") '최우수 랩&힙합 노래' 상
 
 ## 같이 보기
 
@@ -43,7 +43,7 @@
 
 ## 각주
 
-[분류:대한민국의 음악 그룹](https://ko.wikipedia.org/wiki/분류:대한민국의_음악_그룹 "wikilink")
+[분류:대한민국의 힙합 그룹](https://ko.wikipedia.org/wiki/분류:대한민국의_힙합_그룹 "wikilink") [분류:2016년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2016년_결성된_음악_그룹 "wikilink")
 
 1.  정규 1집 첫번째 앨범.
 2.  정규 1집 두번째 앨범.

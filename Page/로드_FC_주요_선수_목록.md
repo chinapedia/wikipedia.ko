@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ FC   ](https://ko.wikipedia.org/wiki/_FC___).
+> This article is converted from Wikipedia: [로드 FC 주요 선수 목록](https://ko.wikipedia.org/wiki/로드_FC_주요_선수_목록).
 
 
 [로드 FC에는](https://ko.wikipedia.org/wiki/로드_FC "wikilink") 많은 대한민국 선수들이 활동하고 있으며 일본, 브라질, 중국, 미국 등 다양한 국적의 국외 선수들이 활동하고 있다. 또한 글로벌화를 시작한 2015년 부터는 [UFC](https://ko.wikipedia.org/wiki/Ufc "wikilink"), [벨라토르 MMA](../Page/벨라토르_MMA.md "wikilink") 등 유명 단체 출신 선수들과의 계약도 속속 체결하고 있다.
@@ -129,7 +129,7 @@
 
   - [최무배](https://ko.wikipedia.org/wiki/최무배 "wikilink")
 
-  - [최홍만](https://ko.wikipedia.org/wiki/최홍만 "wikilink")
+  - [최홍만](../Page/최홍만.md "wikilink")
 
 
 

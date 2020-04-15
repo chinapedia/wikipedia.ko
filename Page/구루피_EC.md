@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ EC](https://ko.wikipedia.org/wiki/_EC).
+> This article is converted from Wikipedia: [구루피 EC](https://ko.wikipedia.org/wiki/구루피_EC).
 
 
 **구루피 EC**(Gurupi Esporte Clube)은 [토칸칭스 주](https://ko.wikipedia.org/wiki/토칸칭스_주 "wikilink") [구루피](https://ko.wikipedia.org/wiki/구루피 "wikilink")를 연고지로 하는 축구 클럽이다.

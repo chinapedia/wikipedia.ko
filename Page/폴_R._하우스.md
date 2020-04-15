@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ R. ](https://ko.wikipedia.org/wiki/_R._).
+> This article is converted from Wikipedia: [폴 R. 하우스](https://ko.wikipedia.org/wiki/폴_R._하우스).
 
 
 **폴 R. 하우스** (Paul R. House, 1958년 -)는 미국의 [구약](../Page/구약성경.md "wikilink") 학자, 저자, 그리고 신학교 교수이다. 2012년[미국 복음주의신학회](../Page/미국_복음주의신학회.md "wikilink") 회장을 역임하였다. 미국 사우스웨스트 침례교신학교에서 B.A.를 [미주리 대학교에서](https://ko.wikipedia.org/wiki/미주리_대학교 "wikilink") M.A.를 남침례교신학교에서 M.Div.와 [Ph.D.를](../Page/철학박사.md "wikilink") 받았다.\[1\] 한국에도 [신학회](../Page/신학회.md "wikilink")의 초청으로 방문하여 강의를 하였다.   [휘튼 대학교에서](https://ko.wikipedia.org/wiki/휘튼_대학교 "wikilink") 구약 교수를 하였고, 2004년부터 비선 신학교(Beeson Divinity School)에서 구약신학을 가르치고 있다. \[2\]

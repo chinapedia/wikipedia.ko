@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ASL    ](https://ko.wikipedia.org/wiki/ASL____).
+> This article is converted from Wikipedia: [ASL 항공 벨기에의 운항 노선](https://ko.wikipedia.org/wiki/ASL_항공_벨기에의_운항_노선).
 
 
 [thumb](https://ko.wikipedia.org/wiki/파일:Boeing_777-FHT,_TNT_AN2225266.jpg "wikilink")\]\] **[ASL 항공 벨기에](../Page/ASL_항공_벨기에.md "wikilink")**는 다음과 같은 노선을 운항하고 있다.([2016년](../Page/2016년.md "wikilink") [11월](../Page/11월.md "wikilink") 기준)

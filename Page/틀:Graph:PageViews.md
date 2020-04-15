@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Graph:PageViews](https://ko.wikipedia.org/wiki/:Graph:PageViews).
+> This article is converted from Wikipedia: [틀:Graph:PageViews](https://ko.wikipedia.org/wiki/틀:Graph:PageViews).
 
 
 {{\#tag:graph| {

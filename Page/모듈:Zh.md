@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Zh](https://ko.wikipedia.org/wiki/:Zh).
+> This article is converted from Wikipedia: [모듈:Zh](https://ko.wikipedia.org/wiki/모듈:Zh).
 
 
 require("Module:No globals")

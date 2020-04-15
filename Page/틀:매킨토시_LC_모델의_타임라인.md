@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [: LC  ](https://ko.wikipedia.org/wiki/:_LC__).
+> This article is converted from Wikipedia: [틀:매킨토시 LC 모델의 타임라인](https://ko.wikipedia.org/wiki/틀:매킨토시_LC_모델의_타임라인).
 
 
 <timeline> DateFormat=mm/dd/yyyy Period = from:07/01/1990 till:04/01/1997 Define $skip = at:end \# Force a blank line Define $dayunknown = 15 \# what day to use if it's actually not known ImageSize= width:600 height:auto barincrement:21 TimeAxis = orientation:horizontal PlotArea = right:5 left:20 bottom:75 top:5 Legend = orientation:vertical position:bottom columns:3

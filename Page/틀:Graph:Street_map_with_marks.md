@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Graph:Street map with marks](https://ko.wikipedia.org/wiki/:Graph:Street_map_with_marks).
+> This article is converted from Wikipedia: [틀:Graph:Street map with marks](https://ko.wikipedia.org/wiki/틀:Graph:Street_map_with_marks).
 
 
 <includeonly>{{\#tag:{{\#if:|syntaxhighlight|graph}}|</includeonly><noinclude>

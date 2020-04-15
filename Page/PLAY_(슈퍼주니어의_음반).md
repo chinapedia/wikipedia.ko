@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [PLAY \( \)](https://ko.wikipedia.org/wiki/PLAY_\(_\)).
+> This article is converted from Wikipedia: [PLAY \(슈퍼주니어의 음반\)](https://ko.wikipedia.org/wiki/PLAY_\(슈퍼주니어의_음반\)).
 
 
 《**PLAY**》는 [대한민국](../Page/대한민국.md "wikilink")의 남성 그룹 [슈퍼주니어](../Page/슈퍼주니어.md "wikilink")의 8번째 정규 앨범으로, 2017년 11월 6일 발매되었다. 2015년 7월 발표된 데뷔 10주년 스페셜 앨범 《[Devil](../Page/Devil_\(슈퍼주니어의_음반\).md "wikilink")》 이후 2년 2개월 만에 발표된 앨범으로, 본 앨범에는 [이특](https://ko.wikipedia.org/wiki/이특_\(가수\) "wikilink"), [희철](../Page/김희철_\(가수\).md "wikilink"), [예성](../Page/예성.md "wikilink"), [신동](../Page/신동_\(가수\).md "wikilink"), [은혁](../Page/은혁.md "wikilink"), [시원](../Page/시원_\(가수\).md "wikilink"), [동해](../Page/동해_\(가수\).md "wikilink") 등 총 7명의 멤버가 참여하였다.\[1\] 타이틀곡 〈Black Suit〉는 자유분방한 스윙 계열 브라스 리듬 위에 절제된 멜로디를 주축으로 한 마이너 댄스 팝 장르곡으로, 어둠 속 찰나의 순간, 마음을 훔치기 위해 'Black Suit'를 차려 입은 자신감 넘치는 남자의 모습을 '루팡'에 비유한 가사가 특징.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TV](https://ko.wikipedia.org/wiki/TV).
+> This article is converted from Wikipedia: [네이버TV](https://ko.wikipedia.org/wiki/네이버TV).
 
 
 **네이버TV**()는 대한민국의 [동영상](https://ko.wikipedia.org/wiki/동영상 "wikilink") 스트리밍 사이트로, 사용자가 영상을 시청 · 공유할 수 있다. [네이버](../Page/네이버.md "wikilink")가 운영 및 소유하고 있으며, [안드로이드](../Page/안드로이드_\(운영_체제\).md "wikilink"), [iOS](https://ko.wikipedia.org/wiki/iOS "wikilink")에서 지원되고 있다.

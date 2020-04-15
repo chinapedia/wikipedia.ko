@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  \(NHL\)](https://ko.wikipedia.org/wiki/__\(NHL\)).
+> This article is converted from Wikipedia: [애틀랜틱 디비전 \(NHL\)](https://ko.wikipedia.org/wiki/애틀랜틱_디비전_\(NHL\)).
 
 
 **애틀랜틱 디비전**(Atlantic Division)은 [보스턴 브루인스](../Page/보스턴_브루인스.md "wikilink"), [버펄로 세이버스](../Page/버펄로_세이버스.md "wikilink"), [디트로이트 레드윙스](../Page/디트로이트_레드윙스.md "wikilink"), [플로리다 팬서스](../Page/플로리다_팬서스.md "wikilink"), [몬트리올 커네이디언스](../Page/몬트리올_커네이디언스.md "wikilink"), [오타와 세너터스](../Page/오타와_세너터스.md "wikilink"), [탬파베이 라이트닝](../Page/탬파베이_라이트닝.md "wikilink"), [토론토 메이플리프스로](../Page/토론토_메이플리프스.md "wikilink") 이루어진 디비전이다.

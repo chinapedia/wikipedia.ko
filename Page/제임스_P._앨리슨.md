@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ P. ](https://ko.wikipedia.org/wiki/_P._).
+> This article is converted from Wikipedia: [제임스 P. 앨리슨](https://ko.wikipedia.org/wiki/제임스_P._앨리슨).
 
 
 </ref>

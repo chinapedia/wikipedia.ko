@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ NX ](https://ko.wikipedia.org/wiki/_NX_).
+> This article is converted from Wikipedia: [삼성 NX 미니](https://ko.wikipedia.org/wiki/삼성_NX_미니).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Samsung_NX_mini_\(14831931698\).jpg "wikilink") **삼성 NX 미니**(Samsung NX mini, 삼성 NX-M)는 2014년 3월 19일 [삼성이](../Page/삼성그룹.md "wikilink") 발표한 디지털 레인지파인더 스타일의 렌즈 교환식 미러리스 카메라이다.

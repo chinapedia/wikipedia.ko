@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Timeless \(w-inds. \)](https://ko.wikipedia.org/wiki/Timeless_\(w-inds._\)).
+> This article is converted from Wikipedia: [Timeless \(w-inds.의 음반\)](https://ko.wikipedia.org/wiki/Timeless_\(w-inds.의_음반\)).
 
 
 《**Timeless**》는 [w-inds.](https://ko.wikipedia.org/wiki/w-inds. "wikilink")의 10번째 정규 음반이다. 2014년 7월 9일 발매되었다.

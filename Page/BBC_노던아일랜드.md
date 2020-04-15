@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [BBC ](https://ko.wikipedia.org/wiki/BBC_).
+> This article is converted from Wikipedia: [BBC 노던아일랜드](https://ko.wikipedia.org/wiki/BBC_노던아일랜드).
 
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:BBC_Northern_Ireland_Belfast.jpg "wikilink") **BBC 노던아일랜드** (, , [얼스터 스코트어](../Page/얼스터_스코트어.md "wikilink"): BBC Norlin Airlan)는 영국의 방송사 [BBC](https://ko.wikipedia.org/wiki/BBC "wikilink")의 지역국 중 하나로, [북아일랜드](../Page/북아일랜드.md "wikilink")의 대표 공영방송이다. [BBC 스코틀랜드](../Page/BBC_스코틀랜드.md "wikilink"), [BBC 컴리 웨일스와](../Page/BBC_컴리_웨일스.md "wikilink") 더불어 BBC에서 운영하는 지방방송국 세 곳 중 하나로, 본사는 [벨파스트](../Page/벨파스트.md "wikilink")의 브로드캐스팅 하우스에 두고 있다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:BBC_Northern_Ireland_Belfast.jpg "wikilink") **BBC 노던아일랜드**(, , [얼스터 스코트어](../Page/얼스터_스코트어.md "wikilink"): BBC Norlin Airlan)는 영국의 방송사 [BBC](https://ko.wikipedia.org/wiki/BBC "wikilink")의 지역국 중 하나로, [북아일랜드](../Page/북아일랜드.md "wikilink")의 대표 공영방송이다. [BBC 스코틀랜드](../Page/BBC_스코틀랜드.md "wikilink"), [BBC 컴리 웨일스와](../Page/BBC_컴리_웨일스.md "wikilink") 더불어 BBC에서 운영하는 지방방송국 세 곳 중 하나로, 본사는 [벨파스트](../Page/벨파스트.md "wikilink")의 브로드캐스팅 하우스에 두고 있다.
 
 BBC 노던아일랜드는 텔레비전 방송, 라디오 방송, 온라인 서비스와 인터랙티브 방송 콘텐츠 사업을 진행하고 있으며, TV 채널로는 [BBC One 노던아일랜드와](https://ko.wikipedia.org/wiki/BBC_One_노던아일랜드 "wikilink") [BBC Two 노던아일랜드의](https://ko.wikipedia.org/wiki/BBC_Two_노던아일랜드 "wikilink") 두 곳을 두고 있다. 라디오 역시 [BBC 라디오 얼스터와](https://ko.wikipedia.org/wiki/BBC_라디오_얼스터 "wikilink") [BBC 라디오 포일의](https://ko.wikipedia.org/wiki/BBC_라디오_포일 "wikilink") 두 곳을 운영하고 있다. 현재 BBC 노던아일랜드의 고용규모는 약 700명이며 대부분 벨파스트 본부에서 근무하고 있다.
 

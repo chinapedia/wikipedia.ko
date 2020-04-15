@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [    S](https://ko.wikipedia.org/wiki/____S).
+> This article is converted from Wikipedia: [삼성 갤럭시 탭 프로 S](https://ko.wikipedia.org/wiki/삼성_갤럭시_탭_프로_S).
 
 
 **갤럭시 탭 프로 S**(Galaxy TabPro S)는 [소비자 가전 전시회](../Page/소비자_가전_전시회.md "wikilink") 2016에서 공개된 [윈도우 10](../Page/윈도우_10.md "wikilink") 기반 [태블릿 컴퓨터이다](../Page/태블릿_컴퓨터.md "wikilink"). 2016년 3월 18일에 출시되었다. 이 탭 프로 S는 전통적으로 안드로이드의 지원을 받는 갤럭시 라인업에서 탈피한 것으로, 윈도우 10에서 실행된다.

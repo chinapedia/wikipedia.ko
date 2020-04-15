@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [9 IDE](https://ko.wikipedia.org/wiki/9_IDE).
+> This article is converted from Wikipedia: [클라우드9 IDE](https://ko.wikipedia.org/wiki/클라우드9_IDE).
 
 
 **클라우드9 IDE**(Cloud9 IDE)는 버전 3.0부터 [오픈 소스로](../Page/오픈_소스.md "wikilink") 출시되고 있는 온라인 [통합 개발 환경이다](../Page/통합_개발_환경.md "wikilink"). [C](../Page/C_\(프로그래밍_언어\).md "wikilink"), [C++](https://ko.wikipedia.org/wiki/C++ "wikilink"), [PHP](../Page/PHP.md "wikilink"), [루비](../Page/루비_\(프로그래밍_언어\).md "wikilink"), [펄](../Page/펄.md "wikilink"), [파이썬](../Page/파이썬.md "wikilink"), [자바스크립트](../Page/자바스크립트.md "wikilink")([Node.js](../Page/Node.js.md "wikilink")), [Go를](../Page/Go_\(프로그래밍_언어\).md "wikilink") 포함한 수백 가지의 [프로그래밍 언어를](../Page/프로그래밍_언어.md "wikilink") 지원한다. 미리 구성된 워크스페이스로 개발자들이 즉시 코딩을 시작하고 협업 코딩 기능을 사용하여 동료 간 협업을 하고 미리 보기, 브라우저 호환성 테스트 등의 웹 개발 기능을 사용할 수 있다.

@@ -31,7 +31,7 @@
 
 2016년 영화 《[더 할로우 포인트](https://ko.wikipedia.org/wiki/더_할로우_포인트 "wikilink")》의 종막에 삽입된 케비 로뱃의 커버가 사운드트랙으로 출시되었다.\[11\]
 
-엘비스 프레슬리도 커버했고, 또한 아웃테이크도 남아 있어 FTD판 《[How Great Thou Art](https://ko.wikipedia.org/wiki/How_Great_Thou_Art_\(엘비스_프레슬리의_음반\) "wikilink")》를 비롯해 많은 앨범에서 찾아볼 수 있다.
+엘비스 프레슬리도 커버했고, 또한 아웃테이크도 남아 있어 FTD판 《[How Great Thou Art](../Page/How_Great_Thou_Art_\(엘비스_프레슬리의_음반\).md "wikilink")》를 비롯해 많은 앨범에서 찾아볼 수 있다.
 
 [바비 젠트리가](https://ko.wikipedia.org/wiki/바비_젠트리 "wikilink") 〈Sermon〉으로 이름하여 1968년 앨범 《[The Delta Sweete](https://ko.wikipedia.org/wiki/The_Delta_Sweete "wikilink")》에 취입했다.
 

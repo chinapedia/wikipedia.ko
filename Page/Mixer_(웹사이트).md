@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Mixer \(\)](https://ko.wikipedia.org/wiki/Mixer_\(\)).
+> This article is converted from Wikipedia: [Mixer \(웹사이트\)](https://ko.wikipedia.org/wiki/Mixer_\(웹사이트\)).
 
 
 **믹서** (**Mixer**, 이전 **Beam**)는 [마이크로소프트](../Page/마이크로소프트.md "wikilink") 소유의 시애틀 기반 라이브 [스트리밍](../Page/스트리밍.md "wikilink") 플랫폼이다. 2016년 1월 5일 공식적으로 시작되었다.\[1\]

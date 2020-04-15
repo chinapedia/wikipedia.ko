@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Rookie \( \)](https://ko.wikipedia.org/wiki/Rookie_\(_\)).
+> This article is converted from Wikipedia: [Rookie \(레드벨벳의 노래\)](https://ko.wikipedia.org/wiki/Rookie_\(레드벨벳의_노래\)).
 
 
 "**Rookie**"는 대한민국 걸 그룹 [레드벨벳의](../Page/레드벨벳_\(음악_그룹\).md "wikilink") 네번째 EP 앨범인 [Rookie의](../Page/Rookie_\(EP\).md "wikilink") 타이틀곡으로 2017년 2월 1일 발매되었다. 레벤 카이르 [사라 포스버그](https://ko.wikipedia.org/wiki/사라_포스버그 "wikilink"), 카를 파월, 해리슨 존슨 등과 함께 노래를 작곡한 미국 프로듀싱 팀인 더 콜리그스와 자밀 디지 참마스가 프로듀싱을 맡았고, 조윤경이 한국어 가사를 작사했다. 이 곡은 소녀의 사랑하는 이를 신인에 비유한 가사를 담고 있으며, 장르는 [팝 음악과](../Page/팝_음악.md "wikilink") [펑크](../Page/펑크.md "wikilink")로 분류된다.

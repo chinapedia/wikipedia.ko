@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:2016   CSFinal](https://ko.wikipedia.org/wiki/:2016___CSFinal).
+> This article is converted from Wikipedia: [틀:2016년 센트럴 리그 CSFinal](https://ko.wikipedia.org/wiki/틀:2016년_센트럴_리그_CSFinal).
 
 
 <table>

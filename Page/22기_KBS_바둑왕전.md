@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [22 KBS ](https://ko.wikipedia.org/wiki/22_KBS_).
+> This article is converted from Wikipedia: [22기 KBS 바둑왕전](https://ko.wikipedia.org/wiki/22기_KBS_바둑왕전).
 
 
 **22기 KBS 바둑왕전**은 TV 속기전이 참가한 국내 바둑 기전이다. 결승에서는 [송태곤](https://ko.wikipedia.org/wiki/송태곤 "wikilink") 五단이 [박병규](https://ko.wikipedia.org/wiki/박병규 "wikilink") 四단을 2대 0로 꺾고 우승을 차지했다.

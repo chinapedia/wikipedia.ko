@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Kbc 12 ](https://ko.wikipedia.org/wiki/Kbc_12_).
+> This article is converted from Wikipedia: [Kbc 12 뉴스](https://ko.wikipedia.org/wiki/Kbc_12_뉴스).
 
 
 **kbc 12 뉴스**는 [SBS](../Page/SBS.md "wikilink")의 광주/전남권 네트워크 방송사인 [kbc에서](../Page/광주방송.md "wikilink") 평일 오후 12시 30분에 방송되었던 광주방송의 낮 뉴스 프로그램이다. 2017년 4월 10일부터 [민방 네트워크 뉴스의](../Page/민방_네트워크_뉴스.md "wikilink") 신설에 따라 2017년 4월 7일에 종영되었다.

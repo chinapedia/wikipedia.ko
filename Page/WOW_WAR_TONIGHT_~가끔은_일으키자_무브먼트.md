@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [WOW WAR TONIGHT \~  ](https://ko.wikipedia.org/wiki/WOW_WAR_TONIGHT_\~__).
+> This article is converted from Wikipedia: [WOW WAR TONIGHT \~가끔은 일으키자 무브먼트](https://ko.wikipedia.org/wiki/WOW_WAR_TONIGHT_\~가끔은_일으키자_무브먼트).
 
 
 〈**WOW WAR TONIGHT \~가끔은 일으키자 무브먼트**〉()는 [일본](../Page/일본.md "wikilink")의 음악 그룹인 [H Jungle with t의](https://ko.wikipedia.org/wiki/H_Jungle_with_t "wikilink") 첫 번째 [싱글이다](../Page/싱글_\(음악\).md "wikilink"). [1995년](../Page/1995년.md "wikilink") [3월 15일에](../Page/3월_15일.md "wikilink") [에이벡스를](../Page/에이벡스_그룹.md "wikilink") 통해서 발매됐다.

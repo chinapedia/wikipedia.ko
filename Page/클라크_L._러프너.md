@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ L. ](https://ko.wikipedia.org/wiki/_L._).
+> This article is converted from Wikipedia: [클라크 L. 러프너](https://ko.wikipedia.org/wiki/클라크_L._러프너).
 
 
 **클라크 루이스 러프너**(, [1903년](../Page/1903년.md "wikilink") [1월 12일](../Page/1월_12일.md "wikilink") \~ [1982년](../Page/1982년.md "wikilink") [7월 26일](../Page/7월_26일.md "wikilink"))는 [미국 육군의](../Page/미국_육군.md "wikilink") 주요 장교로 [제2차 세계 대전과](../Page/제2차_세계_대전.md "wikilink") [한국 전쟁에서](../Page/한국_전쟁.md "wikilink") 복무했다.

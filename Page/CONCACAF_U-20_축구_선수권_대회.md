@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [CONCACAF U-20   ](https://ko.wikipedia.org/wiki/CONCACAF_U-20___).
+> This article is converted from Wikipedia: [CONCACAF U-20 축구 선수권 대회](https://ko.wikipedia.org/wiki/CONCACAF_U-20_축구_선수권_대회).
 
 
 **CONCACAF U-20 축구 선수권 대회**(CONCACAF U-20 Championship)는 [북중미카리브 축구 연맹](../Page/북중미카리브_축구_연맹.md "wikilink")(CONCACAF)이 주관하는 20세 이하 [축구](../Page/축구.md "wikilink") 국가대표팀 간의 국가대항전이다. 이 대회는 [FIFA U-20 월드컵의](../Page/FIFA_U-20_월드컵.md "wikilink") 북중미카리브 지역 예선을 겸한다.

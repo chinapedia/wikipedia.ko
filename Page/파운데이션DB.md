@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [DB](https://ko.wikipedia.org/wiki/DB).
+> This article is converted from Wikipedia: [파운데이션DB](https://ko.wikipedia.org/wiki/파운데이션DB).
 
 
 **파운데이션DB**(FoundationDB)는 [셰어드 낫싱 아키텍처의](https://ko.wikipedia.org/wiki/셰어드_낫싱_아키텍처 "wikilink") [멀티 모델](https://ko.wikipedia.org/wiki/멀티_모델_데이터베이스 "wikilink") [NoSQL](../Page/NoSQL.md "wikilink") 데이터베이스이다.\[1\] 이 제품은 "코어"(core) 데이터베이스 위주로 개발되었으며 "레이어"(layer)에서 제공되는 추가 기능들이 포함된다.\[2\] 코어 데이터베이스는 [트랜잭션과](../Page/데이터베이스_트랜잭션.md "wikilink") 더불어 순서가 정해진 [키-값 스토어를](../Page/키-값_데이터베이스.md "wikilink") 노출한다.\[3\] 이 트랜잭션들은 [ACID](../Page/ACID.md "wikilink")의 특성을 완전히 지원하면서 클러스터의 머신에 저장된 여러 키들을 읽고 쓸 수 있다.\[4\] 트랜잭션들을 사용하면 레이어를 통해 다양한 데이터 모델을 구현할 수 있다.

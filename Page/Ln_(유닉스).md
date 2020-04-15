@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Ln \(\)](https://ko.wikipedia.org/wiki/Ln_\(\)).
+> This article is converted from Wikipedia: [Ln \(유닉스\)](https://ko.wikipedia.org/wiki/Ln_\(유닉스\)).
 
 
 **`ln`** 명령어는 기존 파일에 대한 [하드 링크나](../Page/하드_링크.md "wikilink") [심볼릭 링크를](../Page/심볼릭_링크.md "wikilink") 생성하기 위해 사용되는 표준 [유닉스 명령](../Page/유닉스_명령어_목록.md "wikilink") 유틸리티이다.\[1\] 하드 링크를 사용하면 여러 개의 [파일 이름을](../Page/파일_이름.md "wikilink") 동일한 [파일에](../Page/컴퓨터_파일.md "wikilink") 연결할 수 있으며, 하드 링크는 지정된 파일의 [아이노드](../Page/아이노드.md "wikilink")를 가리키게 되며 데이터는 [디스크에](../Page/하드_디스크_드라이브.md "wikilink") 저장된다. 한편, 심볼릭 링크는 [이름을](../Page/파일_이름.md "wikilink") 통해 다른 파일들을 가리키는 특수한 파일들이다.\[2\]

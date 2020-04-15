@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [The Next Wave :  ](https://ko.wikipedia.org/wiki/The_Next_Wave_:__).
+> This article is converted from Wikipedia: [The Next Wave : 디지털기술과 사회혁신](https://ko.wikipedia.org/wiki/The_Next_Wave_:_디지털기술과_사회혁신).
 
 
 〈**The Next Wave : 디지털기술과 사회혁신**〉은 미국의 작가이자 정치공학자, 미국의 사회과학연구소인 브루킹스 연구소의 소장인 [Darrell M. West이](https://ko.wikipedia.org/wiki/:en:Darrell_M._West "wikilink") 2011년에 저술한 책이다. 이 책은 총 9개의 장으로 구성되어 있으며, 디지털 기술 혁신을 통한 사회 변화를 주제로 하고 있다. 저자는 테크놀로지가 정부 정책과 사회의 여러 부문에 결합되었을 시 나타나는 효율성 증대와 그로 인해 나타날 국가와 사회, 개인의 변화가 어떻게 될 것인지에 대해 다양한 사례를 들어 기술혁신을 어떻게 활용하면 그 효과를 극대화할 수 있을 것인지 논하고 있다.

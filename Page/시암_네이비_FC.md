@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  FC](https://ko.wikipedia.org/wiki/__FC).
+> This article is converted from Wikipedia: [시암 네이비 FC](https://ko.wikipedia.org/wiki/시암_네이비_FC).
 
 
 **시암 네이비 FC**(, )는 [촌부리 주를](https://ko.wikipedia.org/wiki/촌부리_주 "wikilink") 연고로 하는 [태국](../Page/태국.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽으로, 통상 **네이비 FC**로 불린다. 현재는 [타이 리그에](https://ko.wikipedia.org/wiki/타이_리그 "wikilink") 참가하고 있다. 구단은 태국 왕립 해군 축구부 소속이다.

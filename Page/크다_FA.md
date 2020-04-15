@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ FA](https://ko.wikipedia.org/wiki/_FA).
+> This article is converted from Wikipedia: [크다 FA](https://ko.wikipedia.org/wiki/크다_FA).
 
 
 **크다 FA**()는 [크다주](../Page/크다주.md "wikilink")를 연고로 하는 [말레이시아](../Page/말레이시아.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다. [1972년](../Page/1972년.md "wikilink")에 **PKENJ FC**라는 이름으로 창단되었으며, 현재 말레이시아 최상위 축구 리그인 [말레이시아 슈퍼리그에](../Page/말레이시아_슈퍼리그.md "wikilink") 출전하고 있다. 구단의 별칭은 *붉은 수리*()이다. 홈 구장은 [다룰 아만 스타디움를](https://ko.wikipedia.org/wiki/다룰_아만_스타디움 "wikilink") 사용하며, 수용인원은 32,387명이다.

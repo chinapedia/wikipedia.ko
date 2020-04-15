@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FK  ](https://ko.wikipedia.org/wiki/FK__).
+> This article is converted from Wikipedia: [FK 루다르 프리예도르](https://ko.wikipedia.org/wiki/FK_루다르_프리예도르).
 
 
 **FK 루다르 프리예도르**(Fudbalski klub "Rudar-Prijedor" Prijedor, Фудбалски клуб "Pудаp-Пpиjeдop" Пpиjeдop)는 [프리예도르](../Page/프리예도르.md "wikilink")를 연고로 하는 [보스니아 헤르체고비나의](../Page/보스니아_헤르체고비나.md "wikilink") [축구](../Page/축구.md "wikilink") 클럽이다. 현재는 [스릅스카 공화국 1부 리그에](https://ko.wikipedia.org/wiki/스릅스카_공화국_1부_리그 "wikilink") 참가하고 있다.

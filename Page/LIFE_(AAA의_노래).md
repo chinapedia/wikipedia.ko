@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [LIFE \(AAA \)](https://ko.wikipedia.org/wiki/LIFE_\(AAA_\)).
+> This article is converted from Wikipedia: [LIFE \(AAA의 노래\)](https://ko.wikipedia.org/wiki/LIFE_\(AAA의_노래\)).
 
 
 〈**LIFE**〉(라이프, )는 [AAA의](../Page/AAA_\(음악_그룹\).md "wikilink") 쉰다섯 번째 [싱글](../Page/싱글_\(음악\).md "wikilink")。CD 발매에 앞서서 [2017년](../Page/2017년.md "wikilink") 9월 20일부터 아이튠즈, 레코초쿠, mu-mo, mora 등, 각종 음원 사이트를 통해서 선행 배포가 되었다\[1\]. CD 싱글은 [10월 18일에](../Page/10월_18일.md "wikilink") [에이벡스 트랙스에서](https://ko.wikipedia.org/wiki/에이벡스_트랙스 "wikilink") 발매 예정이다\[2\].

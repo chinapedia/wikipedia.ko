@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Bridge over Troubled Water \(\)](https://ko.wikipedia.org/wiki/Bridge_over_Troubled_Water_\(\)).
+> This article is converted from Wikipedia: [Bridge over Troubled Water \(노래\)](https://ko.wikipedia.org/wiki/Bridge_over_Troubled_Water_\(노래\)).
 
 
 〈**Bridge over Troubled Water**〉는 [미국](../Page/미국.md "wikilink")의 포크 듀오 [사이먼 & 가펑클의](../Page/사이먼_&_가펑클.md "wikilink") 곡이다. 듀오와 [로이 할리가](https://ko.wikipedia.org/wiki/로이_할리 "wikilink") 프로듀싱한 이 노래는 1970년 1월에 후속곡으로 〈[The Boxer](../Page/The_Boxer.md "wikilink")〉로 발매되었다. 이 노래는 그들의 다섯 번째 스튜디오 음반인 《[Bridge over Troubled Water](../Page/Bridge_over_Troubled_Water.md "wikilink")》 (1970년)에 실렸다. 싱어송라이터 [폴 사이먼이](../Page/폴_사이먼.md "wikilink") 작곡한 이 노래는 피아노로 연주되고 [가스펠 음악의](../Page/복음성가.md "wikilink") 영향을 받는다. 원래 스튜디오 녹음은 [레킹 크루의](https://ko.wikipedia.org/wiki/레킹_크루 "wikilink") L.A. 세션 음악가들을 사용한 [필 스펙터의](../Page/필_스펙터.md "wikilink") "[월 오브 사운드](https://ko.wikipedia.org/wiki/월_오브_사운드 "wikilink")" 기법의 요소들을 사용하고 있다.\[1\]\[2\]

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:GroveOnline](https://ko.wikipedia.org/wiki/:GroveOnline).
+> This article is converted from Wikipedia: [틀:GroveOnline](https://ko.wikipedia.org/wiki/틀:GroveOnline).
 
 
 <includeonly>} |author2= |author3= |author4= |author5= |author6= |author7= |author8= |author9= |author10= |author1-link=}}}}}}}}}}}}}}} |author2-link=}}}}}}}}} |author3-link=}}}}}}}}} |author4-link=}}}}}}}}} |author5-link=}}}}}}}}} |author6-link=}}}}}}}}} |author7-link=}}}}}}}}} |author8-link=}}}}}}}}} |author9-link=}}}}}}}}} |author10-link=}}}}}}}}} |last-author-amp=}}} |display-authors=}}} |editor=Deane L. Root|encyclopedia=[Grove Music Online. Oxford Music Online](https://ko.wikipedia.org/wiki/The_New_Grove_Dictionary_of_Music_and_Musicians "wikilink") |publisher=Oxford University Press |url= |url-access={{\#if:|subscription|}} |access-date={{\#if:||}} }} </includeonly><noinclude> </noinclude>

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Stand by Me \( E.  \)](https://ko.wikipedia.org/wiki/Stand_by_Me_\(_E.__\)).
+> This article is converted from Wikipedia: [Stand by Me \(벤 E. 킹의 노래\)](https://ko.wikipedia.org/wiki/Stand_by_Me_\(벤_E._킹의_노래\)).
 
 
 〈**Stand by Me**〉는 [미국](../Page/미국.md "wikilink")의 싱어송라이터 [벤 E. 킹이](../Page/벤_E._킹.md "wikilink") 노래하고 킹, [제리 리버와 마이크 스톨러가](../Page/제리_리버와_마이크_스톨러.md "wikilink") 작곡한 곡이다. 킹에 따르면, 제목은 [조니 테일러가](https://ko.wikipedia.org/wiki/조니_테일러 "wikilink") 지휘자로 녹음한 [솔 스터스가](https://ko.wikipedia.org/wiki/솔_스터스 "wikilink") 녹음한 [샘 쿡과](../Page/샘_쿡.md "wikilink") [J. W. 알렉산더가](https://ko.wikipedia.org/wiki/J._W._알렉산더 "wikilink") 쓴 〈Stand by Me Father〉에서 유래되었고 영감을 받았다고 한다. 전편 2편 3행은 제46편 2c/3c에서 발췌하였다.\[1\]

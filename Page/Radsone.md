@@ -12,7 +12,7 @@
 ## 외부 링크
 
   - [공식 홈페이지](http://radsone.com)
-  - [earstudio](https://www.ear-studio.com)
+  - [earstudio](https://web.archive.org/web/20180826071610/https://www.ear-studio.com/)
   - [트위터](https://twitter.com/RADSONEInc)
   - [페이스북 페이지](https://www.facebook.com/radsoneinc)
   - [App Store에서 제공하는 Radsone Hi-Res Player](https://itunes.apple.com/kr/app/radsone-hi-res-player/id917903045?mt=8)

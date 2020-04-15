@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FC   ](https://ko.wikipedia.org/wiki/FC___).
+> This article is converted from Wikipedia: [FC 스포르툴 스투덴체스크 부쿠레슈티](https://ko.wikipedia.org/wiki/FC_스포르툴_스투덴체스크_부쿠레슈티).
 
 
 **FC 스포르툴 스투덴체스크 부쿠레슈티**(Fotbal Club Sportul Studenţesc București)는 [부쿠레슈티](../Page/부쿠레슈티.md "wikilink")를 연고로 하는 [루마니아](../Page/루마니아.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다. 현재는 루마니아의 4부 축구 리그인 [리가 IV](https://ko.wikipedia.org/wiki/리가_IV "wikilink") 부쿠레슈티 지역 리그에 참가하고 있다.

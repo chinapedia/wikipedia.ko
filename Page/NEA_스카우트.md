@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [NEA ](https://ko.wikipedia.org/wiki/NEA_).
+> This article is converted from Wikipedia: [NEA 스카우트](https://ko.wikipedia.org/wiki/NEA_스카우트).
 
 
 **NEA 스카우트**(Near-Earth Asteroid Scout, NEA Scout)는 [지구 근접 소행성을](https://ko.wikipedia.org/wiki/지구_근접_소행성 "wikilink") 탐사하기 위해 시험용으로 발사 예정인 NASA의 [우주범선](https://ko.wikipedia.org/wiki/우주범선 "wikilink")이다.\[1\]\[2\]\[3\]\[4\]\[5\] 목적은 저비용으로 소행성의 방향을 전환시키는 방법을 알아내는 것이며,\[6\]\[7\]\[8\]\[9\]\[10\]\[11\] 2019년 [1991 VG을](https://ko.wikipedia.org/wiki/1991_VG "wikilink") 저공비행을 하기 위해\[12\] 발사 계획은 아직 2020년 \~ 2021년 예정\[13\]이거나 미정이다.\[14\] 특이사항으로 다른 [큐브 위성](https://ko.wikipedia.org/wiki/큐브_위성 "wikilink") 13개와 함께 발사된다.\[15\]
@@ -31,8 +31,8 @@
 ## 같이 발사되는 인공위성들
 
   - [루나 플래쉬라이트](../Page/루나_플래쉬라이트.md "wikilink")
-  - [바이오 센티넬](https://ko.wikipedia.org/wiki/바이오_센티넬 "wikilink")
-  - [스카이 파이어](https://ko.wikipedia.org/wiki/스카이_파이어 "wikilink")
+  - [바이오 센티넬](../Page/바이오_센티넬.md "wikilink")
+  - [스카이 파이어](../Page/스카이_파이어.md "wikilink")
   - [루나 아이스큐브](https://ko.wikipedia.org/wiki/루나_아이스큐브 "wikilink")
   - [CuSP](https://ko.wikipedia.org/wiki/CuSP "wikilink")
   - [루나H-맵](https://ko.wikipedia.org/wiki/루나H-맵 "wikilink")

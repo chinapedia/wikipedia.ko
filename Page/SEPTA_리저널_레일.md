@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SEPTA  ](https://ko.wikipedia.org/wiki/SEPTA__).
+> This article is converted from Wikipedia: [SEPTA 리저널 레일](https://ko.wikipedia.org/wiki/SEPTA_리저널_레일).
 
 
 **[SEPTA](../Page/SEPTA.md "wikilink") 리저널 레일**(, 리포팅 마크 **SEPA, SPAX**)시스템은 [펜실베이니아주](../Page/펜실베이니아주.md "wikilink") [필라델피아](../Page/필라델피아.md "wikilink")와 그 교외 및 [위성 도시로](../Page/위성_도시.md "wikilink") 연결되는 13개 노선의 통근 열차 서비스로 구성되어 있다. 대부분의 회선 서비스는 오전 5:30부터 자정까지 운영된다. SEPTA 리저널 레일은 미국에서 5번째로 혼잡한 통근 열차로, [뉴욕](../Page/뉴욕_대도시권.md "wikilink") 및 [시카고 대도시권](https://ko.wikipedia.org/wiki/시카고_대도시권 "wikilink") 외부 지역에서 가장 많은 이용객을 보유하였다. 2016년에 리저널 레일은 일일 평균 132,000명의 승객이 이용하였다.\[1\]

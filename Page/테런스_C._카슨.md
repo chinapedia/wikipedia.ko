@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ C. ](https://ko.wikipedia.org/wiki/_C._).
+> This article is converted from Wikipedia: [테런스 C. 카슨](https://ko.wikipedia.org/wiki/테런스_C._카슨).
 
 
 **테런스 코너 카슨**(, [1958년](../Page/1958년.md "wikilink") [4월 28일](../Page/4월_28일.md "wikilink") \~ )은 [미국](../Page/미국.md "wikilink")의 [성우](../Page/성우.md "wikilink")이다. 게임 《[갓 오브 워](../Page/갓_오브_워.md "wikilink")》 시리즈의 [크레토스](https://ko.wikipedia.org/wiki/크레토스 "wikilink") 전담 성우로 유명하며, 이외에 [스타워즈: 클론 전쟁](https://ko.wikipedia.org/wiki/스타워즈:_클론_전쟁 "wikilink") 시리즈에서는 [메이스 윈두](../Page/메이스_윈두.md "wikilink") 역을 맡았다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:W3C ](https://ko.wikipedia.org/wiki/:W3C_).
+> This article is converted from Wikipedia: [틀:W3C 표준](https://ko.wikipedia.org/wiki/틀:W3C_표준).
 
 
 {{둘러보기 상자 | name = W3C 표준 | state =  | title = [W3C](../Page/W3C.md "wikilink") | listclass = hlist

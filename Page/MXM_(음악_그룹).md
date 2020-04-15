@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [MXM \( \)](https://ko.wikipedia.org/wiki/MXM_\(_\)).
+> This article is converted from Wikipedia: [MXM \(음악 그룹\)](https://ko.wikipedia.org/wiki/MXM_\(음악_그룹\)).
 
 
-**MXM**은 대한민국의 남성 듀오로, [임영민](../Page/임영민.md "wikilink")과 [김동현으로](../Page/김동현_\(1998년\).md "wikilink") 이루어져 있다. 소속사는 [브랜뉴뮤직](../Page/브랜뉴뮤직.md "wikilink")이다. 팀명은 "두 사람이 하나가 될 때 시너지를 내서 또 다른 색깔을 낸다는 뜻"과 "더 성장하겠다는 다짐으로 '모어 & 모어'라는 뜻이 담겨있다.\[1\] [워너원](../Page/워너원.md "wikilink")으로써의 [박우진](../Page/박우진.md "wikilink"), [이대휘](https://ko.wikipedia.org/wiki/이대휘 "wikilink")의 활동이 2019년 1월 27일 부로 종료되었고, [브랜뉴뮤직](../Page/브랜뉴뮤직.md "wikilink")에 복귀하게 됨과 동시에 5월 완전체로 데뷔한다. 그에 따라 MXM의 활동도 자연스럽게 마무리되었다.
+**MXM**은 대한민국의 남성 듀오로, [임영민](../Page/임영민.md "wikilink")과 [김동현으로](../Page/김동현_\(1998년\).md "wikilink") 이루어져 있다. 소속사는 [브랜뉴뮤직](../Page/브랜뉴뮤직.md "wikilink")이다. 팀명은 "두 사람이 하나가 될 때 시너지를 내서 또 다른 색깔을 낸다는 뜻"과 "더 성장하겠다는 다짐으로 '모어 & 모어'라는 뜻이 담겨있다.\[1\] [워너원](../Page/워너원.md "wikilink")으로써의 [박우진](../Page/박우진.md "wikilink"), [이대휘](../Page/이대휘.md "wikilink")의 활동이 2019년 1월 27일 부로 종료되었고, [브랜뉴뮤직](../Page/브랜뉴뮤직.md "wikilink")에 복귀하게 됨과 동시에 5월 완전체로 데뷔한다. 그에 따라 MXM의 활동도 자연스럽게 마무리되었다.
 
 ## 이전 구성원
 

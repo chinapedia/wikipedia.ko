@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Dreams come true \(Hey! Say! JUMP \)](https://ko.wikipedia.org/wiki/Dreams_come_true_\(Hey!_Say!_JUMP_\)).
+> This article is converted from Wikipedia: [Dreams come true \(Hey! Say! JUMP의 노래\)](https://ko.wikipedia.org/wiki/Dreams_come_true_\(Hey!_Say!_JUMP의_노래\)).
 
 
 〈**Dreams come true**〉(드림스 컴 트루, )는 [2008년](../Page/2008년.md "wikilink") [5월 21일에](../Page/5월_21일.md "wikilink") 발매된, [일본](../Page/일본.md "wikilink")의 남성 아이돌 그룹 [Hey\! Say\! JUMP](../Page/Hey!_Say!_JUMP.md "wikilink")(헤이\! 세이\! 점프)의 두 번째 싱글이다.

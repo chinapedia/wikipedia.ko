@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Kt   ](https://ko.wikipedia.org/wiki/Kt___).
+> This article is converted from Wikipedia: [Kt 위즈 역대 감독](https://ko.wikipedia.org/wiki/Kt_위즈_역대_감독).
 
 
 **[Kt 위즈](../Page/Kt_위즈.md "wikilink")**의 창단 감독은 [조범현](../Page/조범현.md "wikilink") 이었으며, 현 감독은 3대인 [이강철이다](../Page/이강철_\(야구인\).md "wikilink").

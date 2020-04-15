@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  II  ](https://ko.wikipedia.org/wiki/__II__).
+> This article is converted from Wikipedia: [인텔 펜티엄 II 마이크로프로세서 목록](https://ko.wikipedia.org/wiki/인텔_펜티엄_II_마이크로프로세서_목록).
 
 
 [인텔](../Page/인텔.md "wikilink")의 [펜티엄 II는](../Page/펜티엄_II.md "wikilink") 소비자 시장을 대상으로 하는 6세대 [CPU이다](../Page/중앙_처리_장치.md "wikilink").

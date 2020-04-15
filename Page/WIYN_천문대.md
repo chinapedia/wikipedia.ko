@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [WIYN ](https://ko.wikipedia.org/wiki/WIYN_).
+> This article is converted from Wikipedia: [WIYN 천문대](https://ko.wikipedia.org/wiki/WIYN_천문대).
 
 
 **WIYN 천문대**는 WIYN 컨소시엄에 의해 소유 및 운영된다. 3.5미터의 기구인 WIYN 천문대의 [망원경](../Page/망원경.md "wikilink") 애리조나 주의 키트 피크 국립 천문대에서 두 번째로 큰 광학 망원경이다. 미국 국립 광학 천문대(NOAO)에서 대부분의 운영 서비스를 제공하는 동안 천문대의 대부분의 자본비는 [위스콘신-메디슨 대학교](../Page/위스콘신_대학교_매디슨.md "wikilink"), [인디애나 대학교](../Page/인디애나_대학교_블루밍턴.md "wikilink"), [예일 대학교에서](../Page/예일_대학교.md "wikilink") 제공된다.

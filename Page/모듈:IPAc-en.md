@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:IPAc-en](https://ko.wikipedia.org/wiki/:IPAc-en).
+> This article is converted from Wikipedia: [모듈:IPAc-en](https://ko.wikipedia.org/wiki/모듈:IPAc-en).
 
 
 \-- 이 모듈은 [틀:IPAc-en](https://ko.wikipedia.org/wiki/틀:IPAc-en "wikilink")을 구현합니다.

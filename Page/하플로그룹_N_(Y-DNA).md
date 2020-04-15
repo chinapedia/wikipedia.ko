@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ N \(Y-DNA\)](https://ko.wikipedia.org/wiki/_N_\(Y-DNA\)).
+> This article is converted from Wikipedia: [하플로그룹 N \(Y-DNA\)](https://ko.wikipedia.org/wiki/하플로그룹_N_\(Y-DNA\)).
 
 
 [thumbnail](https://ko.wikipedia.org/wiki/파일:Haplogrupo_N_\(ADN-Y\).PNG "wikilink") **하플로그룹 N-M231**은 [인류 Y-염색체 DNA 하플로그룹의](https://ko.wikipedia.org/wiki/인류_Y-염색체_DNA_하플로그룹 "wikilink") 일종으로, 유라시아 북부 지역을 중심으로 분포한다.

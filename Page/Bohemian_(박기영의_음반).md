@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Bohemian \( \)](https://ko.wikipedia.org/wiki/Bohemian_\(_\)).
+> This article is converted from Wikipedia: [Bohemian \(박기영의 음반\)](https://ko.wikipedia.org/wiki/Bohemian_\(박기영의_음반\)).
 
 
 《**Bohemian**》은 [박기영의](../Page/박기영_\(1977년생_가수\).md "wikilink") 6집 정규 앨범이다.

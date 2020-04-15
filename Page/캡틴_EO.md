@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ EO](https://ko.wikipedia.org/wiki/_EO).
+> This article is converted from Wikipedia: [캡틴 EO](https://ko.wikipedia.org/wiki/캡틴_EO).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Captain_EO_Sign.jpg "wikilink") 《**캡틴 EO**》(Captain EO)는 [마이클 잭슨](https://ko.wikipedia.org/wiki/마이클_잭슨 "wikilink") 주연 및 [프랜시스 포드 코폴라](../Page/프랜시스_포드_코폴라.md "wikilink") 연출의 1986년 미국 3D [사이언스 픽션](https://ko.wikipedia.org/wiki/사이언스_픽션 "wikilink") 영화다. 1986년부터 시작해 1996년까지 디즈니 테마 파크에서 상영되었다. 이 어트랙션은 추후 디즈니 파크에서 잭슨의 죽음을 기리는 뜻으로 재개장했다. 영화는 2015년 12월 5일 [에프콧](../Page/에프콧.md "wikilink")에서 마지막으로 상영됐다.

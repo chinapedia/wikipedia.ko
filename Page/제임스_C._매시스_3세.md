@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ C.  3](https://ko.wikipedia.org/wiki/_C.__3).
+> This article is converted from Wikipedia: [제임스 C. 매시스 3세](https://ko.wikipedia.org/wiki/제임스_C._매시스_3세).
 
 
 **제임스 C. 매시스 3세**(, [1974년](../Page/1974년.md "wikilink") [11월 28일](../Page/11월_28일.md "wikilink") \~ )은 [미국](../Page/미국.md "wikilink")의 [성우](../Page/성우.md "wikilink")이다. 마블 코믹스의 히어로 [블랙 팬서의](https://ko.wikipedia.org/wiki/블랙_팬서 "wikilink") 전담 성우이다.

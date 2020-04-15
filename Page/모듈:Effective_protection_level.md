@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Effective protection level](https://ko.wikipedia.org/wiki/:Effective_protection_level).
+> This article is converted from Wikipedia: [모듈:Effective protection level](https://ko.wikipedia.org/wiki/모듈:Effective_protection_level).
 
 
 local p = {}

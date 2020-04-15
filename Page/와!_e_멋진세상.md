@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [! e ](https://ko.wikipedia.org/wiki/!_e_).
+> This article is converted from Wikipedia: [와! e 멋진세상](https://ko.wikipedia.org/wiki/와!_e_멋진세상).
 
 
 《**와\! e 멋진세상**》은 [2000년](../Page/2000년.md "wikilink") [5월 19일부터](../Page/5월_19일.md "wikilink") [2005년](../Page/2005년.md "wikilink") [4월 20일까지](../Page/4월_20일.md "wikilink") [MBC에서](../Page/문화방송.md "wikilink") 방송되었던 새롭게 변모하고 있는 세계의 모습을 다양한 방식으로 접근해 우리들에게 필요한 변화의 계기를 함께 생각해보는 프로그램이다.

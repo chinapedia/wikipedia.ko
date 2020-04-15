@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  LR](https://ko.wikipedia.org/wiki/__LR).
+> This article is converted from Wikipedia: [뇌맘대로 로맨스 LR](https://ko.wikipedia.org/wiki/뇌맘대로_로맨스_LR).
 
 
 《**뇌맘대로 로맨스 LR**》은 [2017년](../Page/2017년.md "wikilink") [7월 29일부터](../Page/7월_29일.md "wikilink") [8월 27일까지](../Page/8월_27일.md "wikilink") oksusu에서 선공개 된 [웹드라마](https://ko.wikipedia.org/wiki/웹드라마 "wikilink")로 이후 [2018년](../Page/2018년.md "wikilink") [3월 13일](../Page/3월_13일.md "wikilink") 부터 매주 화, 수, 목요일 네이버TV를 통해 방영된다.

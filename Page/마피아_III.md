@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [ III](https://ko.wikipedia.org/wiki/_III).
+> This article is converted from Wikipedia: [마피아 III](https://ko.wikipedia.org/wiki/마피아_III).
 
 
-《**마피아 III**》(Mafia III)는 2016년 8월 23일에 출시한 [3인칭 슈팅 게임으로](https://ko.wikipedia.org/wiki/3인칭_슈팅_게임 "wikilink"), [마피아 II의](../Page/마피아_II.md "wikilink") 후속작이다.
+《**마피아 III**》(Mafia III)는 2016년 8월 23일에 출시한 [3인칭 슈팅 게임으로](../Page/3인칭_슈팅_게임.md "wikilink"), [마피아 II의](../Page/마피아_II.md "wikilink") 후속작이다.
 
 ## 각주
 

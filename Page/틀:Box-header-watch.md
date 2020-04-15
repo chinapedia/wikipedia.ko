@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Box-header-watch](https://ko.wikipedia.org/wiki/:Box-header-watch).
+> This article is converted from Wikipedia: [틀:Box-header-watch](https://ko.wikipedia.org/wiki/틀:Box-header-watch).
 
 
 <div style="clear: both;">

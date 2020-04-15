@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Photo montage](https://ko.wikipedia.org/wiki/:Photo_montage).
+> This article is converted from Wikipedia: [모듈:Photo montage](https://ko.wikipedia.org/wiki/모듈:Photo_montage).
 
 
 \-- implements [template:photomontage](https://ko.wikipedia.org/wiki/template:photomontage "wikilink") local p = {}

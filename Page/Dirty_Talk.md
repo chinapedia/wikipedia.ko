@@ -27,4 +27,5 @@
 
   - [w-inds.(윈즈) 싱글 디스코 그라피 Dirty Talk 싱글 발매 (3월 14일)](http://www.w-inds.tv/discography/single/)
 
+  -
 [분류:2018년 싱글](https://ko.wikipedia.org/wiki/분류:2018년_싱글 "wikilink") [분류:W-inds.의 노래](https://ko.wikipedia.org/wiki/분류:W-inds.의_노래 "wikilink")

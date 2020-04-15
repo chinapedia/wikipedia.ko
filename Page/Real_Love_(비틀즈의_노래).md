@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Real Love \( \)](https://ko.wikipedia.org/wiki/Real_Love_\(_\)).
+> This article is converted from Wikipedia: [Real Love \(비틀즈의 노래\)](https://ko.wikipedia.org/wiki/Real_Love_\(비틀즈의_노래\)).
 
 
 〈**Real Love**〉는 [존 레논이](../Page/존_레논.md "wikilink") 쓰고 1995년 《[비틀즈 앤솔로지](../Page/비틀즈_앤솔로지.md "wikilink")》 프로젝트의 일환으로 [비틀즈](../Page/비틀즈.md "wikilink")의 생존 멤버 세 명이 오버더빙을 입혀 녹음한 노래다. 지금까지 이 곡은 비틀즈로 크레디트된 새 작곡이 마지막으로 음반 발표된 것으로 남았다. 레논은 1979년과 1980년에 노래의 총 여섯 테이크를 제작했는데, 모두가 개별적인 곡이었으며 〈Real Love〉에서 비로소 하나로 합쳐졌다. 노래는 다큐멘터리 사운드트랙 《[Imagine: John Lennon](https://ko.wikipedia.org/wiki/Imagine:_John_Lennon "wikilink")》에서 여섯 번째 테이크가 수록되기 이전까지인 1988년 이전까지 무시되고 있었다.

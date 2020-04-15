@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [K  ](https://ko.wikipedia.org/wiki/K__).
+> This article is converted from Wikipedia: [K리그 라운드 베스트팀](https://ko.wikipedia.org/wiki/K리그_라운드_베스트팀).
 
 
 2007년부터 [한국프로축구연맹](../Page/한국프로축구연맹.md "wikilink")은 공격축구를 유도하기 K리그 라운드 베스트팀을 선정하고 있다.\[1\]

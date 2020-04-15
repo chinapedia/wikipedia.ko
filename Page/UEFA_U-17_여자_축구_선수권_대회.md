@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [UEFA U-17    ](https://ko.wikipedia.org/wiki/UEFA_U-17____).
+> This article is converted from Wikipedia: [UEFA U-17 여자 축구 선수권 대회](https://ko.wikipedia.org/wiki/UEFA_U-17_여자_축구_선수권_대회).
 
 
 **UEFA U-17 여자 축구 선수권 대회**(UEFA Women's Under-17 Championship)는 [유럽 축구 연맹](../Page/유럽_축구_연맹.md "wikilink")(UEFA)이 주관하는 17세 이하 [여자 축구](../Page/여자_축구.md "wikilink") 국가대표팀 간의 국가대항전이다. 짝수 해에 열리는 대회는 [FIFA U-17 여자 월드컵의](../Page/FIFA_U-17_여자_월드컵.md "wikilink") 유럽 지역 예선을 겸한다.

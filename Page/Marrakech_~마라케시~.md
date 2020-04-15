@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Marrakech \~\~](https://ko.wikipedia.org/wiki/Marrakech_\~\~).
+> This article is converted from Wikipedia: [Marrakech \~마라케시\~](https://ko.wikipedia.org/wiki/Marrakech_\~마라케시\~).
 
 
 〈**Marrakech \~마라케시\~**〉()는 일본의 가수 [마츠다 세이코의](../Page/마츠다_세이코.md "wikilink") 25번째 싱글로, 1988년 4월 14일 레코드와 CD 포맷으로 동시에 발매되었다.([7" Vinyl](../Page/축음기_음반.md "wikilink"): 07SH-3040, [8cm CD](../Page/콤팩트_디스크.md "wikilink"): 10EH-3040) 정규 음반 《[Citron](https://ko.wikipedia.org/wiki/Citron "wikilink")》의 선행 싱글이며, 이 음반의 프로듀서인 [데이비드 포스터를](../Page/데이비드_포스터.md "wikilink") 비롯한 서양 뮤지션들이 참여하였다. 이 곡의 작사는 [마츠모토 타카시가](https://ko.wikipedia.org/wiki/마츠모토_타카시 "wikilink") 맡았으며, 과거 〈[DANCING SHOES](../Page/DANCING_SHOES.md "wikilink")〉에서도 함께 작업했던 Paul Bliss와 Stephen Kipner는 작곡과 편곡을 둘 다 했다. B사이드 곡은 〈No.1〉이며, 작사자는 앞과 동일하고, 작곡은 Paul Cooper와 데이비드 포스터가 맡았다. 포스터는 두 곡의 편곡에도 참여했다.

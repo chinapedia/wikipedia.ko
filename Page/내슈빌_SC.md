@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ SC](https://ko.wikipedia.org/wiki/_SC).
+> This article is converted from Wikipedia: [내슈빌 SC](https://ko.wikipedia.org/wiki/내슈빌_SC).
 
 
 **내슈빌 SC**(Nashville Soccer Club)는 [메이저 리그 사커에](../Page/메이저_리그_사커.md "wikilink") 참가할 예정인 [미국](../Page/미국.md "wikilink")의 프로축구단으로 [테네시주](../Page/테네시주.md "wikilink") [내슈빌](../Page/내슈빌.md "wikilink")를 연고지로 한다.

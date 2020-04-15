@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [DNA \( \)](https://ko.wikipedia.org/wiki/DNA_\(_\)).
+> This article is converted from Wikipedia: [DNA \(방탄소년단의 노래\)](https://ko.wikipedia.org/wiki/DNA_\(방탄소년단의_노래\)).
 
 
-〈**DNA**〉(디엔에이)는 [대한민국](../Page/대한민국.md "wikilink")의 [보이 그룹](https://ko.wikipedia.org/wiki/보이_그룹 "wikilink") [방탄소년단](../Page/방탄소년단.md "wikilink")의 다섯 번째 미니 음반 《[LOVE YOURSELF 承 'Her'](https://ko.wikipedia.org/wiki/LOVE_YOURSELF_承_'Her' "wikilink")》의 타이틀 곡으로, 2017년 9월 18일에 발표되었다.
+〈**DNA**〉는 [대한민국](../Page/대한민국.md "wikilink")의 [보이 그룹](https://ko.wikipedia.org/wiki/보이_그룹 "wikilink") [방탄소년단](../Page/방탄소년단.md "wikilink")의 다섯 번째 미니 음반 《[LOVE YOURSELF 承 'Her'](https://ko.wikipedia.org/wiki/LOVE_YOURSELF_承_'Her' "wikilink")》의 타이틀 곡으로, 2017년 9월 18일에 발표되었다.
 
 ## 뮤직 비디오
 

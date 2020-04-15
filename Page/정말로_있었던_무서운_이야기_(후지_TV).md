@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [    \( TV\)](https://ko.wikipedia.org/wiki/____\(_TV\)).
+> This article is converted from Wikipedia: [정말로 있었던 무서운 이야기 \(후지 TV\)](https://ko.wikipedia.org/wiki/정말로_있었던_무서운_이야기_\(후지_TV\)).
 
 
 **정말로 있었던 무서운 이야기**()는, [후지 TV](../Page/후지_TV.md "wikilink") [계열](../Page/후지_네트워크.md "wikilink") [텔레비전 드라마이다](https://ko.wikipedia.org/wiki/일본_드라마 "wikilink"). 학교의 괴담 등 정말 일어난 무서운 이야기를 모은 [아사히신분 출판의](https://ko.wikipedia.org/wiki/아사히신분_출판 "wikilink") 공포 만화.

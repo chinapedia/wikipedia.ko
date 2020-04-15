@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ \( X\)](https://ko.wikipedia.org/wiki/_\(_X\)).
+> This article is converted from Wikipedia: [엑스 \(록맨 X\)](https://ko.wikipedia.org/wiki/엑스_\(록맨_X\)).
 
 
 **엑스**(X, エックス)는 [록맨 X에서](../Page/록맨_X.md "wikilink") 나오는 등장인물의 일종이다.

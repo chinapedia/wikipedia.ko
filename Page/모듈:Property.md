@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Property](https://ko.wikipedia.org/wiki/:Property).
+> This article is converted from Wikipedia: [모듈:Property](https://ko.wikipedia.org/wiki/모듈:Property).
 
 
 \-- [Module:Property](https://ko.wikipedia.org/wiki/Module:Property "wikilink")

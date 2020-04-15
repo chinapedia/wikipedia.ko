@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TNT ](https://ko.wikipedia.org/wiki/TNT_).
+> This article is converted from Wikipedia: [TNT 익스프레스](https://ko.wikipedia.org/wiki/TNT_익스프레스).
 
 
 **TNT 익스프레스**()는 [네덜란드](../Page/네덜란드.md "wikilink")의 물류 업체이다.

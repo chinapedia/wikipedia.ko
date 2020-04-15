@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ VIII:   ](https://ko.wikipedia.org/wiki/_VIII:___).
+> This article is converted from Wikipedia: [이스 VIII: 라크리모사 오브 다나](https://ko.wikipedia.org/wiki/이스_VIII:_라크리모사_오브_다나).
 
 
 《**이스 VIII: 라크리모사 오브 다나**》()는 [니혼 팔콤이](../Page/니혼_팔콤.md "wikilink") 제작한 [액션 롤플레잉 게임이다](https://ko.wikipedia.org/wiki/액션_롤플레잉_게임 "wikilink"). [이스](../Page/이스_\(시리즈\).md "wikilink") 시리즈의 여덟 번째 작품으로, 2016년 7월 21일 [플레이스테이션 비타로](https://ko.wikipedia.org/wiki/플레이스테이션_비타 "wikilink") 처음 발매된 후 [플레이스테이션 4](../Page/플레이스테이션_4.md "wikilink"), [마이크로소프트 윈도우](../Page/마이크로소프트_윈도우.md "wikilink"), [닌텐도 스위치로도](../Page/닌텐도_스위치.md "wikilink") 출시됐다. 북미 지역에선 [NIS 아메리카가](https://ko.wikipedia.org/wiki/NIS_아메리카 "wikilink"), 대한민국에선 [소니 인터랙티브 엔터테인먼트가](../Page/소니_인터랙티브_엔터테인먼트.md "wikilink") 발매했다.\[1\]

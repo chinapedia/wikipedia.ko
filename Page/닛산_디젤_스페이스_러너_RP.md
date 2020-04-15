@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [    RP](https://ko.wikipedia.org/wiki/____RP).
+> This article is converted from Wikipedia: [닛산 디젤 스페이스 러너 RP](https://ko.wikipedia.org/wiki/닛산_디젤_스페이스_러너_RP).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:PK-RP360GAN_-_Keihinkyukou_-_C7655.jpg "wikilink") **닛산 디젤 스페이스 러너 RP**(, )는 [일본](../Page/일본.md "wikilink") 닛산 디젤 (현, [UD트럭](../Page/UD트럭.md "wikilink"))이 만든 [도시형 버스로](https://ko.wikipedia.org/wiki/도시형_버스 "wikilink") [1973년](../Page/1973년.md "wikilink")부터 [2007년](../Page/2007년.md "wikilink")까지 생산했다.

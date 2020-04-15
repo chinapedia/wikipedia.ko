@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Eye of the Tiger \(\)](https://ko.wikipedia.org/wiki/Eye_of_the_Tiger_\(\)).
+> This article is converted from Wikipedia: [Eye of the Tiger \(노래\)](https://ko.wikipedia.org/wiki/Eye_of_the_Tiger_\(노래\)).
 
 
 《**Eye of the Tiger**》는 [미국](../Page/미국.md "wikilink") [하드 록](../Page/하드_록.md "wikilink") [음악 밴드](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink") [서바이버](https://ko.wikipedia.org/wiki/서바이버_\(밴드\) "wikilink")(Survivor)가 1982년 2월에 발표한 노래 작품이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ X ](https://ko.wikipedia.org/wiki/_X_).
+> This article is converted from Wikipedia: [후지필름 X 시리즈](https://ko.wikipedia.org/wiki/후지필름_X_시리즈).
 
 
 **후지필름 X 시리즈**는 [후지필름](../Page/후지필름.md "wikilink")의 하이엔드 디지털 카메라로 구성되어 있으며, 전문적 사진가와 사진 애호가를 대상으로 한다. 이 시리즈는 후지필름의 디지털 카메라 제품군의 일부이다. X 시리즈 자체는 단일한 공통적 센서 사이즈나 기술, 렌즈 포맷으로 특징되지는 않는다. 상급의 디지털 카메라 사용자가 요구하는 컨트롤에 대한 강조가 차별화된 특징이다.

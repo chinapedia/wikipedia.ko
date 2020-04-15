@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [UE ](https://ko.wikipedia.org/wiki/UE_).
+> This article is converted from Wikipedia: [UE 산타콜로마](https://ko.wikipedia.org/wiki/UE_산타콜로마).
 
 
 **UE 산타콜로마**()는 [산줄리아데로리아](https://ko.wikipedia.org/wiki/산줄리아데로리아 "wikilink")를 연고로 하는 [안도라](../Page/안도라.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다. 현재는 [프리메라 디비지오에](../Page/프리메라_디비지오.md "wikilink") 참가하고 있다.

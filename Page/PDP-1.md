@@ -5,7 +5,7 @@
 
 ## 역사
 
-PDP-1의 설계는 선구적인 [TX-0](https://ko.wikipedia.org/wiki/TX-0 "wikilink") 컴퓨터에 기반을 두며, [MIT](../Page/매사추세츠_공과대학교.md "wikilink") [링컨 연구소에서](https://ko.wikipedia.org/wiki/링컨_연구소 "wikilink") 설계, 개발되었다. 벤자민 걸리(Benjamin Gurley)는 이 프로젝트를 주도한 엔지니어였다.\[3\]
+PDP-1의 설계는 선구적인 [TX-0](../Page/TX-0.md "wikilink") 컴퓨터에 기반을 두며, [MIT](../Page/매사추세츠_공과대학교.md "wikilink") [링컨 연구소에서](https://ko.wikipedia.org/wiki/링컨_연구소 "wikilink") 설계, 개발되었다. 벤자민 걸리(Benjamin Gurley)는 이 프로젝트를 주도한 엔지니어였다.\[3\]
 
 ## 같이 보기
 

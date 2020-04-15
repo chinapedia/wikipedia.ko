@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [PPAP \(\)](https://ko.wikipedia.org/wiki/PPAP_\(\)).
+> This article is converted from Wikipedia: [PPAP \(음반\)](https://ko.wikipedia.org/wiki/PPAP_\(음반\)).
 
 
 《**PPAP**》(피피에이피, )는 [고사카 다이마오가](../Page/고사카_다이마오.md "wikilink") 분하는 [피코 타로의](https://ko.wikipedia.org/wiki/피코_타로 "wikilink") 첫 번째 [정규 음반이다](../Page/정규_음반.md "wikilink").

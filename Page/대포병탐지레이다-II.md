@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [-II](https://ko.wikipedia.org/wiki/-II).
+> This article is converted from Wikipedia: [대포병탐지레이다-II](https://ko.wikipedia.org/wiki/대포병탐지레이다-II).
 
 
 **대포병탐지레이다-II** 또는 **대포병탐지레이더-II**는 한국 [LIG 넥스원에서](https://ko.wikipedia.org/wiki/LIG_넥스원 "wikilink") 개발한 [대포병 레이다를](https://ko.wikipedia.org/wiki/대포병_레이다 "wikilink") 말한다.

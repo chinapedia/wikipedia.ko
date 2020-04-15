@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Blue Blood \(w-inds. \)](https://ko.wikipedia.org/wiki/Blue_Blood_\(w-inds._\)).
+> This article is converted from Wikipedia: [Blue Blood \(w-inds.의 음반\)](https://ko.wikipedia.org/wiki/Blue_Blood_\(w-inds.의_음반\)).
 
 
 《**Blue Blood**》(블루 블러드)는 [w-inds.](https://ko.wikipedia.org/wiki/w-inds. "wikilink")의 11번째 정규 음반이다. 2015년 7월 8일에 발매되었다.

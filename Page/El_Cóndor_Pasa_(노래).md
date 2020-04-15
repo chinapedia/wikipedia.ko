@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [El Cndor Pasa \(\)](https://ko.wikipedia.org/wiki/El_Cndor_Pasa_\(\)).
+> This article is converted from Wikipedia: [El Cóndor Pasa \(노래\)](https://ko.wikipedia.org/wiki/El_Cóndor_Pasa_\(노래\)).
 
 
 〈**El Cóndor Pasa**〉는 1913년에 작곡된 [페루](../Page/페루.md "wikilink") 작곡가 [다니엘 알로미아 로블레스가](https://ko.wikipedia.org/wiki/다니엘_알로미아_로블레스 "wikilink") 작곡한 자루엘라 엘 코도르 파사의 관현악곡이다.

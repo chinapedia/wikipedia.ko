@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [VEB ](https://ko.wikipedia.org/wiki/VEB_).
+> This article is converted from Wikipedia: [VEB 아레나](https://ko.wikipedia.org/wiki/VEB_아레나).
 
 
 **VEB 아레나**()또는 **아레나 CSKA**는 [러시아](../Page/러시아.md "wikilink") [모스크바](../Page/모스크바.md "wikilink")에 있는 다목적 경기장이다. [2007년](../Page/2007년.md "wikilink")에 착공하여, [2016년](../Page/2016년.md "wikilink")에 공식적으로 개장하였다. [CSKA가](../Page/PFC_CSKA_모스크바.md "wikilink") 소유·사용 중이다. 경기장은 버치 그 로브 공원 (Park of Birch Grove)의 Khodynka Field 근처에 위치하고 있다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KNN   ](https://ko.wikipedia.org/wiki/KNN___).
+> This article is converted from Wikipedia: [KNN의 텔레비전 프로그램 목록](https://ko.wikipedia.org/wiki/KNN의_텔레비전_프로그램_목록).
 
 
 __NOTOC__  다음은 **[KNN](../Page/KNN.md "wikilink") 텔레비전 프로그램**의 관련 작품을 통해 발표된 순서로 나열 및 정리한 것이다.

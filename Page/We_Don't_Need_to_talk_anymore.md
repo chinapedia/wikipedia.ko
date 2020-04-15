@@ -28,12 +28,13 @@
 
 ## 차트
 
-  - CDTV lank 4위를 기록하였다. (17/1/21)
-  - CDTV lank 63위를 기록하였다. (17/1/28)
   - 오리콘 위클리 차트 4위를 기록하였다. (17/1/23)
+  - [CDTV](../Page/카운트_다운_TV.md "wikilink") lank 4위를 기록하였다. (17/1/21)
+  - [CDTV](../Page/카운트_다운_TV.md "wikilink") lank 63위를 기록하였다. (17/1/28)
 
 ## 외부 링크
 
   - [w-inds.(윈즈) 싱글 디스코 그라피 We Don't Need to talk anymore 싱글 발매 (1월 11일)](http://www.w-inds.tv/discography/single/)
 
+  -
 [분류:2017년 싱글](https://ko.wikipedia.org/wiki/분류:2017년_싱글 "wikilink") [분류:W-inds.의 노래](https://ko.wikipedia.org/wiki/분류:W-inds.의_노래 "wikilink")

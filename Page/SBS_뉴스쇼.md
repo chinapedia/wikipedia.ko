@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SBS ](https://ko.wikipedia.org/wiki/SBS_).
+> This article is converted from Wikipedia: [SBS 뉴스쇼](https://ko.wikipedia.org/wiki/SBS_뉴스쇼).
 
 
 《**SBS 뉴스쇼**》는 [대한민국](../Page/대한민국.md "wikilink") [SBS에서](../Page/SBS_TV.md "wikilink") 주말 저녁 8시에 방송되었던 [SBS의 주말 메인 뉴스쇼 프로그램이다](../Page/SBS의_뉴스_프로그램.md "wikilink").

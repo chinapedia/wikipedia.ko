@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [2018 FIFA  E](https://ko.wikipedia.org/wiki/2018_FIFA__E).
+> This article is converted from Wikipedia: [2018년 FIFA 월드컵 E조](https://ko.wikipedia.org/wiki/2018년_FIFA_월드컵_E조).
 
 
 **[2018년 FIFA 월드컵](https://ko.wikipedia.org/wiki/2018년_FIFA_월드컵 "wikilink") E조**는 2018년 6월 17일부터 2018년 6월 27일까지 일정이 진행되었다. E조는 [브라질](../Page/브라질_축구_국가대표팀.md "wikilink"), [스위스](../Page/스위스_축구_국가대표팀.md "wikilink"), [코스타리카](../Page/코스타리카_축구_국가대표팀.md "wikilink"), [세르비아로](../Page/세르비아_축구_국가대표팀.md "wikilink") 구성되었다. 4개의 팀들 중 상위 2개의 팀이 16강전에 진출한다.
@@ -840,7 +840,7 @@ Paulinho의 근거리에서의 노력으로 YannSommer는 저축을 했다. 첫 
 <a href="https://ko.wikipedia.org/wiki/펠릭스_츠바이어" title="wikilink">펠릭스 츠바이어</a> (<a href="https://ko.wikipedia.org/wiki/독일_축구_협회" title="wikilink">독일</a>)<br />
 <strong>보조 비디오 판독심:</strong><br />
 <a href="https://ko.wikipedia.org/wiki/바스티안_당케르트" title="wikilink">바스티안 당케르트</a> (<a href="https://ko.wikipedia.org/wiki/독일_축구_협회" title="wikilink">독일</a>)<br />
-카를로스 아스트로사 (<a href="https://ko.wikipedia.org/wiki/칠레_축구_연맹" title="wikilink">칠레</a>)<br />
+카를로스 아스트로사 (<a href="../Page/칠레_축구_연맹.md" title="wikilink">칠레</a>)<br />
 <a href="https://ko.wikipedia.org/wiki/클레망_튀르팽" title="wikilink">클레망 튀르팽</a> (<a href="../Page/프랑스_축구_연맹.md" title="wikilink">프랑스</a>)</p></td>
 </tr>
 </tbody>

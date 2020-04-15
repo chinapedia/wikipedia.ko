@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:London Gazette util](https://ko.wikipedia.org/wiki/:London_Gazette_util).
+> This article is converted from Wikipedia: [모듈:London Gazette util](https://ko.wikipedia.org/wiki/모듈:London_Gazette_util).
 
 
 \-- this module is created to support

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ICD-10  VI:  ](https://ko.wikipedia.org/wiki/ICD-10__VI:__).
+> This article is converted from Wikipedia: [ICD-10 챕터 VI: 신경계통의 질병](https://ko.wikipedia.org/wiki/ICD-10_챕터_VI:_신경계통의_질병).
 
 
 **[ICD-10](../Page/ICD-10.md "wikilink")** 목록의 6번째 챕터이다. G00\~G99까지를 포괄하며, [신경계통](../Page/신경계통.md "wikilink")의 질병(Diseases of the nervous system)에 관한 것이다.

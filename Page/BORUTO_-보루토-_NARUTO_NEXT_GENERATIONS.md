@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [BORUTO -- NARUTO NEXT GENERATIONS](https://ko.wikipedia.org/wiki/BORUTO_--_NARUTO_NEXT_GENERATIONS).
+> This article is converted from Wikipedia: [BORUTO -보루토- NARUTO NEXT GENERATIONS](https://ko.wikipedia.org/wiki/BORUTO_-보루토-_NARUTO_NEXT_GENERATIONS).
 
 
 **BORUTO -보루토- NARUTO NEXT GENERATIONS**()는 [나루토](../Page/나루토.md "wikilink") 시리즈의 세 번째 이야기이다. 만화 나루토의 속편이기도 하다. [일본](../Page/일본.md "wikilink")의 만화 잡지 《[주간 소년 점프](../Page/주간_소년_점프.md "wikilink")》에서 [2016년](../Page/2016년.md "wikilink") 43호부터 연재 중이다. [2017년](../Page/2017년.md "wikilink") [4월 5일부터](../Page/4월_5일.md "wikilink") [TV 도쿄](../Page/TV_도쿄.md "wikilink") 계열에서 방영하고 있으며, [대한민국](../Page/대한민국.md "wikilink")은 [투니버스](../Page/투니버스.md "wikilink")에서 [2017년](../Page/2017년.md "wikilink") [7월 22일부터](../Page/7월_22일.md "wikilink") 자막으로 방영하고 있고, 한국어 더빙판은 같은 방영사에서 [2019년](../Page/2019년.md "wikilink") [2월 11일부터](../Page/2월_11일.md "wikilink") [5월 7일까지](../Page/5월_7일.md "wikilink") 매주 월·화요일 저녁 9시에 방영했다.
@@ -16,7 +16,7 @@
   - [정유미](../Page/정유미_\(성우\).md "wikilink") - [우즈마키 히나타](https://ko.wikipedia.org/wiki/휴우가_히나타 "wikilink") 役
   - [유영](../Page/유영_\(성우\).md "wikilink") - 우즈마키 히마와리 / 이토이 츠루 / 료우기 엄마 役
   - [이지현](../Page/이지현_\(성우\).md "wikilink") - 우치하 사라다 役
-  - [김신우](https://ko.wikipedia.org/wiki/김현구_\(성우\) "wikilink") - 미츠키 / 로그 役
+  - [김신우](../Page/김현구_\(성우\).md "wikilink") - 미츠키 / 로그 役
   - [임윤선](../Page/임윤선_\(성우\).md "wikilink") - 야키미치 쵸쵸 役
   - 강새봄 - 카미나리몬 덴키 / 엔코 / 사루토비 미라이 役
   - [소정환](../Page/소정환.md "wikilink") - 덴키 아빠 / 코마메 / 핫사쿠 役

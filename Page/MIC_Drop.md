@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [MIC Drop](https://ko.wikipedia.org/wiki/MIC_Drop).
 
 
-“**MIC Drop**”은 [대한민국](../Page/대한민국.md "wikilink")의 [보이 그룹](https://ko.wikipedia.org/wiki/보이_그룹 "wikilink") [방탄소년단](../Page/방탄소년단.md "wikilink")의 다섯 번째 미니 음반 《[LOVE YOURSELF 承 'Her'](https://ko.wikipedia.org/wiki/LOVE_YOURSELF_承_'Her' "wikilink")》의 곡이다. 음반과 함께 2017년 9월 18일 발매되었으며, 11월 24일에 [스티브 아오키의](https://ko.wikipedia.org/wiki/스티브_아오키 "wikilink") 리믹스 버전이, 12월 6일에 일본어 버전이 추가로 발매되었다.
+“**MIC Drop**”은 [대한민국](../Page/대한민국.md "wikilink")의 [보이 그룹](https://ko.wikipedia.org/wiki/보이_그룹 "wikilink") [방탄소년단](../Page/방탄소년단.md "wikilink")의 다섯 번째 미니 음반 《[LOVE YOURSELF 承 'Her'](https://ko.wikipedia.org/wiki/LOVE_YOURSELF_承_'Her' "wikilink")》의 수록곡이다. 음반과 함께 2017년 9월 18일 발매되었으며, 11월 24일에 [스티브 아오키의](https://ko.wikipedia.org/wiki/스티브_아오키 "wikilink") 리믹스 버전이, 12월 6일에 일본어 버전이 추가로 발매되었다.
 
 ## 차트
 

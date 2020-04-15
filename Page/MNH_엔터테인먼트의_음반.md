@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [MNH  ](https://ko.wikipedia.org/wiki/MNH__).
+> This article is converted from Wikipedia: [MNH 엔터테인먼트의 음반](https://ko.wikipedia.org/wiki/MNH_엔터테인먼트의_음반).
 
 
 이 문서는 [MNH 엔터테인먼트에서](../Page/MNH_엔터테인먼트.md "wikilink") 발매한 음반 목록이다.
@@ -22,7 +22,7 @@
   - 2018년 10월 8일 청하 - **여우각시별 OST Part.1**
   - 2018년 12월 17일 청하 - **\[Digital Single\] Whatcha Doin**\[10\]
   - 2019년 1월 2일 청하 - **\[Digital Single\] 벌써 12시**
-  - 2019년 4월 10일 [BVNDIT](https://ko.wikipedia.org/wiki/BVNDIT "wikilink") - **BVNDIT, BE AMBITIOUS\!**
+  - 2019년 4월 10일 [BVNDIT](../Page/BVNDIT.md "wikilink") - **BVNDIT, BE AMBITIOUS\!**
   - 2019년 4월 13일 청하 - **\[Digital Single\] 유희열의 스케치북 10주년 프로젝트 : 여섯 번째 목소리 \`유스케 X 청하\`**
   - 2019년 4월 20일 청하 - **\[Digital Single\] 유희열의 스케치북 10주년 프로젝트 : 여섯 번째 목소리 \`유스케 X 청하\`**
   - 2019년 5월 15일 BVNDIT - **\[Digital Single\] Dramatic**
@@ -45,7 +45,7 @@
 
 1.  [전소미](https://ko.wikipedia.org/wiki/소미 "wikilink"),[김세정](https://ko.wikipedia.org/wiki/세정 "wikilink"),[최유정](../Page/최유정_\(가수\).md "wikilink"),[허찬미](../Page/허찬미.md "wikilink"),[강미나](../Page/미나_\(1999년\).md "wikilink") 외 90명도 앨범 참여.
 2.  [전소미](https://ko.wikipedia.org/wiki/소미 "wikilink"),[김세정](https://ko.wikipedia.org/wiki/세정 "wikilink"),[최유정](../Page/최유정_\(가수\).md "wikilink"),[허찬미](../Page/허찬미.md "wikilink"),[김도연](../Page/김도연_\(가수\).md "wikilink"),[강미나](../Page/미나_\(1999년\).md "wikilink") 외 26명도 앨범 참여.
-3.  [김세정](https://ko.wikipedia.org/wiki/세정 "wikilink"),[정채연](../Page/정채연.md "wikilink"),[김소혜](https://ko.wikipedia.org/wiki/김소혜_\(가수\) "wikilink"),[전소미](https://ko.wikipedia.org/wiki/소미 "wikilink"),[주결경](https://ko.wikipedia.org/wiki/주결경 "wikilink") 외 4명도 앨범 참여.
+3.  [김세정](https://ko.wikipedia.org/wiki/세정 "wikilink"),[정채연](../Page/정채연.md "wikilink"),[김소혜](https://ko.wikipedia.org/wiki/김소혜_\(가수\) "wikilink"),[전소미](https://ko.wikipedia.org/wiki/소미 "wikilink"),[주결경](../Page/주결경.md "wikilink") 외 4명도 앨범 참여.
 4.  [기희현](../Page/기희현.md "wikilink"),[전소미](https://ko.wikipedia.org/wiki/소미 "wikilink"),[최유정도](../Page/최유정_\(가수\).md "wikilink") 앨범 참여.
 5.  [헤일로도](../Page/헤일로_\(음악_그룹\).md "wikilink") 앨범 참여.그리고 최초의 OST 앨범.
 6.  [허정은](../Page/허정은.md "wikilink"),[황지아](https://ko.wikipedia.org/wiki/황지아 "wikilink"),[오운](https://ko.wikipedia.org/wiki/오운 "wikilink") 도 앨범 참여.

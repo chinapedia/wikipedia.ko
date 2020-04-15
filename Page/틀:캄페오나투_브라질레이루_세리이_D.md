@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:   D](https://ko.wikipedia.org/wiki/:___D).
+> This article is converted from Wikipedia: [틀:캄페오나투 브라질레이루 세리이 D](https://ko.wikipedia.org/wiki/틀:캄페오나투_브라질레이루_세리이_D).
 
 
 <onlyinclude></onlyinclude>

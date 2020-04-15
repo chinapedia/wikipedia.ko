@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KBO ](https://ko.wikipedia.org/wiki/KBO_).
+> This article is converted from Wikipedia: [KBO 장타율상](https://ko.wikipedia.org/wiki/KBO_장타율상).
 
 
 **KBO 장타율상**은 연말 [KBO 리그](https://ko.wikipedia.org/wiki/KBO_리그 "wikilink") 시상식에서 해당 연도 정규 리그의 [장타율](../Page/장타율.md "wikilink") 1위에게 수여하는 상이다. 프로야구 출범 시에는 공식 타이틀이 아니었지만 [1984년 시즌부터](../Page/1984년_한국프로야구.md "wikilink") 타이틀 수상을 시작하였다.\[1\] 기존 명칭은 **한국프로야구 최고장타율상**이었으나 KBO의 브랜드 아이덴디티 통합 작업에 따라 2015년 시즌부터 "KBO 장타율상"이라는 새로운 명칭을 사용하게 되었다.\[2\]

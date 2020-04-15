@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  VIII](https://ko.wikipedia.org/wiki/__VIII).
+> This article is converted from Wikipedia: [파이널 판타지 VIII](https://ko.wikipedia.org/wiki/파이널_판타지_VIII).
 
 
 《**파이널 판타지 VIII**》(, )는 [스퀘어가](https://ko.wikipedia.org/wiki/스퀘어_\(일본의_기업\) "wikilink") [플레이스테이션](https://ko.wikipedia.org/wiki/플레이스테이션 "wikilink") 콘솔용으로 개발, 출시한 [롤플레잉 비디오 게임이다](https://ko.wikipedia.org/wiki/롤플레잉_비디오_게임 "wikilink"). 1999년에 출시되었으며 [파이널 판타지](https://ko.wikipedia.org/wiki/파이널_판타지 "wikilink") 시리즈 중 8번째 판이다.

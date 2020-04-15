@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FK  ](https://ko.wikipedia.org/wiki/FK__).
+> This article is converted from Wikipedia: [FK 슬로보다 투즐라](https://ko.wikipedia.org/wiki/FK_슬로보다_투즐라).
 
 
 **FK 슬로보다 투즐라**(Fudbalski Klub Sloboda Tuzla)는 [투즐라](../Page/투즐라.md "wikilink")를 연고로 하는 [보스니아 헤르체고비나의](../Page/보스니아_헤르체고비나.md "wikilink") [축구](../Page/축구.md "wikilink") 클럽이다. 현재는 [보스니아 헤르체고비나 프리미어리그에](../Page/보스니아_헤르체고비나_프리미어리그.md "wikilink") 참가하고 있다.

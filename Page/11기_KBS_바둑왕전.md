@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [11 KBS ](https://ko.wikipedia.org/wiki/11_KBS_).
+> This article is converted from Wikipedia: [11기 KBS 바둑왕전](https://ko.wikipedia.org/wiki/11기_KBS_바둑왕전).
 
 
 **11기 KBS 바둑왕전**은 TV 속기전이 참가한 국내 바둑 기전이다. 결승에서는 [이창호](../Page/이창호.md "wikilink") 五단이 [조훈현](../Page/조훈현.md "wikilink") 九단을 2대 1로 꺾고 역전 우승하며 2번째 우승을 차지했다.

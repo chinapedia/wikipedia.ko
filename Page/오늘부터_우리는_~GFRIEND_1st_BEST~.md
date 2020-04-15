@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  \~GFRIEND 1st BEST\~](https://ko.wikipedia.org/wiki/__\~GFRIEND_1st_BEST\~).
+> This article is converted from Wikipedia: [오늘부터 우리는 \~GFRIEND 1st BEST\~](https://ko.wikipedia.org/wiki/오늘부터_우리는_\~GFRIEND_1st_BEST\~).
 
 
 《**오늘부터 우리는 \~GFRIEND 1st BEST\~**》()는 대한민국의 걸 그룹 [여자친구가](../Page/여자친구_\(음악_그룹\).md "wikilink") [일본](../Page/일본.md "wikilink")에서 발매하는 첫 번째 [베스트 음반이다](https://ko.wikipedia.org/wiki/베스트_음반 "wikilink").

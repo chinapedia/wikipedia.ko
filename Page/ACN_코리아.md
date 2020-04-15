@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ACN ](https://ko.wikipedia.org/wiki/ACN_).
+> This article is converted from Wikipedia: [ACN 코리아](https://ko.wikipedia.org/wiki/ACN_코리아).
 
 
 **ACN**(Aid to the Church in Need)은 1947년 [비오 12세](../Page/교황_비오_12세.md "wikilink") 교황의 호소에 대한 응답으로 [베렌프리트 판 슈트라텐(Werenfried van Straaten) 신부에](https://ko.wikipedia.org/wiki/:en:Werenfried_van_Straaten "wikilink") 의해 설립된 원조기관으로 1984년 [교황청에](../Page/로마_교황청.md "wikilink") 의해 '국제적, 공적 신앙 단체'로 공인된 재단이다.

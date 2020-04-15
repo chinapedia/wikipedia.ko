@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ \(PICK ME\)](https://ko.wikipedia.org/wiki/_\(PICK_ME\)).
+> This article is converted from Wikipedia: [내꺼야 \(PICK ME\)](https://ko.wikipedia.org/wiki/내꺼야_\(PICK_ME\)).
 
 
 〈**내꺼야 (PICK ME)**〉는 2018년 노래로, [엠넷](../Page/엠넷.md "wikilink")의 서바이벌 리얼리티 프로그램 《[PRODUCE 48](https://ko.wikipedia.org/wiki/PRODUCE_48 "wikilink")》의 [참가자들이](../Page/PRODUCE_48_참가자_목록.md "wikilink") 부른 노래이다. 《PRODUCE 48》의 테마곡이기도 하다. 2018년 5월 10일 [스톤뮤직엔터테인먼트](https://ko.wikipedia.org/wiki/스톤뮤직엔터테인먼트 "wikilink")을 통해 공개되었다. 센터는 [HKT48](../Page/HKT48.md "wikilink")의 [미야와키 사쿠라가](../Page/미야와키_사쿠라.md "wikilink") 맡았다.\[1\]

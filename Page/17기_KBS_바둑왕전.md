@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [17 KBS ](https://ko.wikipedia.org/wiki/17_KBS_).
+> This article is converted from Wikipedia: [17기 KBS 바둑왕전](https://ko.wikipedia.org/wiki/17기_KBS_바둑왕전).
 
 
 **17기 KBS 바둑왕전**은 TV 속기전이 참가한 국내 바둑 기전이다. 결승에서는 [이창호](../Page/이창호.md "wikilink") 九단이 [정수현](../Page/정수현.md "wikilink") 九단을 2대 0로 꺾고 통산 4회 우승을 달성했다.

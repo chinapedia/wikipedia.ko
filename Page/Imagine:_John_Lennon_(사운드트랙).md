@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Imagine: John Lennon \(\)](https://ko.wikipedia.org/wiki/Imagine:_John_Lennon_\(\)).
+> This article is converted from Wikipedia: [Imagine: John Lennon \(사운드트랙\)](https://ko.wikipedia.org/wiki/Imagine:_John_Lennon_\(사운드트랙\)).
 
 
 《**Imagine: John Lennon**》은 [존 레논의](../Page/존_레논.md "wikilink") [비틀즈](../Page/비틀즈.md "wikilink") 시절부터 솔로 시절, 그리고 사망 당시 까지의 다양한 영상과 함께 요코 오노를 비롯한 관계자의 인터뷰를 담은 다큐멘터리 영화 《[존 레논의 이메진](../Page/존_레논의_이메진.md "wikilink")》의 [사운드트랙](https://ko.wikipedia.org/wiki/사운드트랙 "wikilink")이다. 원래 더블 음반으로 발매되었지만, 현재는 한장의 CD로 발매되고 있다.

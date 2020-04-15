@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  III](https://ko.wikipedia.org/wiki/__III).
+> This article is converted from Wikipedia: [툼 레이더 III](https://ko.wikipedia.org/wiki/툼_레이더_III).
 
 
 《**툼 레이더 III**》(Tomb Raider III: Adventures of Lara Croft)는 [코어 디자인이](../Page/코어_디자인.md "wikilink") 개발하고 [아이도스 인터랙티브가](https://ko.wikipedia.org/wiki/아이도스_인터랙티브 "wikilink") 배급한 [액션 어드벤처](https://ko.wikipedia.org/wiki/액션_어드벤처_게임 "wikilink") 비디오 게임이다. 원래 1998년에 [플레이스테이션](https://ko.wikipedia.org/wiki/플레이스테이션 "wikilink")과 [마이크로소프트 윈도우](../Page/마이크로소프트_윈도우.md "wikilink") 플랫폼용으로 출시되었다. 《툼 레이더 III》는 [툼 레이더](../Page/툼_레이더.md "wikilink") 비디오 게임 시리즈 가운데 3번째 게임으로, 《[툼 레이더 II](../Page/툼_레이더_II.md "wikilink")》의 차기작이다.

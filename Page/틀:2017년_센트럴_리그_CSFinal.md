@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:2017   CSFinal](https://ko.wikipedia.org/wiki/:2017___CSFinal).
+> This article is converted from Wikipedia: [틀:2017년 센트럴 리그 CSFinal](https://ko.wikipedia.org/wiki/틀:2017년_센트럴_리그_CSFinal).
 
 
 <table>

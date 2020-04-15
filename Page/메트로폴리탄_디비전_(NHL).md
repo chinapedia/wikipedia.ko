@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  \(NHL\)](https://ko.wikipedia.org/wiki/__\(NHL\)).
+> This article is converted from Wikipedia: [메트로폴리탄 디비전 \(NHL\)](https://ko.wikipedia.org/wiki/메트로폴리탄_디비전_\(NHL\)).
 
 
 **메트로폴리탄 디비전**(Metropolitan Division)은 [캐롤라이나 허리케인스](../Page/캐롤라이나_허리케인스.md "wikilink"), [콜럼버스 블루재키츠](../Page/콜럼버스_블루재키츠.md "wikilink"), [뉴저지 데블스](https://ko.wikipedia.org/wiki/뉴저지_데블스 "wikilink"), [뉴욕 아일런더스](../Page/뉴욕_아일런더스.md "wikilink"), [뉴욕 레인저스](../Page/뉴욕_레인저스.md "wikilink"), [필라델피아 플라이어스](https://ko.wikipedia.org/wiki/필라델피아_플라이어스 "wikilink"), [피츠버그 펭귄스](../Page/피츠버그_펭귄스.md "wikilink"), [워싱턴 캐피털스로](https://ko.wikipedia.org/wiki/워싱턴_캐피털스_\(NHL\) "wikilink") 이루어진 디비전이다.

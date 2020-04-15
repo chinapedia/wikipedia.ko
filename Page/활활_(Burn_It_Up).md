@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ \(Burn It Up\)](https://ko.wikipedia.org/wiki/_\(Burn_It_Up\)).
+> This article is converted from Wikipedia: [활활 \(Burn It Up\)](https://ko.wikipedia.org/wiki/활활_\(Burn_It_Up\)).
 
 
 〈**활활 (Burn It Up)**〉은 워너원의 노래로, 데뷔 음반이자 첫 번째 미니 음반인 《[1X1=1 (TO BE ONE)](../Page/1X1=1_\(TO_BE_ONE\).md "wikilink")》의 수록곡이다. 2017년 8월 7일에 발표되었다.

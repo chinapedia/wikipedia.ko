@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Taxonbar](https://ko.wikipedia.org/wiki/:Taxonbar).
+> This article is converted from Wikipedia: [모듈:Taxonbar](https://ko.wikipedia.org/wiki/모듈:Taxonbar).
 
 
 require('Module:No globals')

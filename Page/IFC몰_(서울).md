@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [IFC \(\)](https://ko.wikipedia.org/wiki/IFC_\(\)).
+> This article is converted from Wikipedia: [IFC몰 \(서울\)](https://ko.wikipedia.org/wiki/IFC몰_\(서울\)).
 
 
 **IFC몰**()은 [서울시](../Page/서울특별시.md "wikilink") [영등포구](../Page/영등포구.md "wikilink") 국제금융로 10번지([여의도동](https://ko.wikipedia.org/wiki/여의도동 "wikilink"))에 있는 [서울국제금융센터](https://ko.wikipedia.org/wiki/서울국제금융센터 "wikilink") 지하에 위치한 [쇼핑몰](https://ko.wikipedia.org/wiki/쇼핑몰 "wikilink")이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Infobox physical quantity](https://ko.wikipedia.org/wiki/:Infobox_physical_quantity).
+> This article is converted from Wikipedia: [틀:Infobox physical quantity](https://ko.wikipedia.org/wiki/틀:Infobox_physical_quantity).
 
 
 {{\#if: |background:;}} | abovestyle = | above =  | image = {{\#invoke:InfoboxImage|InfoboxImage|image=|size=|alt=}} | caption =

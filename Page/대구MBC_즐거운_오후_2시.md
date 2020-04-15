@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [MBC   2](https://ko.wikipedia.org/wiki/MBC___2).
+> This article is converted from Wikipedia: [대구MBC 즐거운 오후 2시](https://ko.wikipedia.org/wiki/대구MBC_즐거운_오후_2시).
 
 
 **류강국, 조영주의 즐거운 오후 2시**는 [대구MBC 표준FM](../Page/대구문화방송.md "wikilink")(대구, 경북권 FM 96.5㎒, 김천 FM 98.7㎒, 와룡산 FM 100.3㎒, AM 810㎑)에서 평일은 오후 2시 15분부터 오후 4시까지, 주말은 오후 2시 5분부터 오후 4시까지 방송하고 있는 오락전문 라디오 프로그램이다.

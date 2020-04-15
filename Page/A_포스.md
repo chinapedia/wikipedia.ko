@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [A ](https://ko.wikipedia.org/wiki/A_).
+> This article is converted from Wikipedia: [A 포스](https://ko.wikipedia.org/wiki/A_포스).
 
 
 ***A 포스***는 [마블 코믹스에](../Page/마블_코믹스.md "wikilink") 발간한 만화책으로 "[시크릿 워의](https://ko.wikipedia.org/wiki/시크릿_워_\(2015년_만화\) "wikilink") 크로스오버로 만들어졌다. 이 연재물은 [G. 윌로 윌슨과](../Page/G._윌로_윌슨.md "wikilink") [마그게리테 베넷이](https://ko.wikipedia.org/wiki/마그게리테_베넷 "wikilink") 공동 작가로써 일했으며 [조지 몰리나가](https://ko.wikipedia.org/wiki/조지_몰리나 "wikilink") 그림을 담당했다. A 포스는 어벤저스 최초로 모든 팀원이 여성으로 구성되어 있다. A 포스는 2016년 10월 판매 부진으로 작업이 중단되었지만 [여성주의](../Page/여성주의.md "wikilink")를 반영한 작품이라는 등 비평가들로부터 호평을 받았다.

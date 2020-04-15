@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SK](https://ko.wikipedia.org/wiki/SK).
+> This article is converted from Wikipedia: [SK실트론](https://ko.wikipedia.org/wiki/SK실트론).
 
 
 **SK실트론**(SK Siltron)은 실리콘 웨이퍼 제조를 주 사업으로 하는 [SK그룹](../Page/SK그룹.md "wikilink")의 계열사이다.

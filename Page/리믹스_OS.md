@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ OS](https://ko.wikipedia.org/wiki/_OS).
+> This article is converted from Wikipedia: [리믹스 OS](https://ko.wikipedia.org/wiki/리믹스_OS).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Remix0.png "wikilink") **리믹스 OS**(Remix OS)는 현재는 개발이 중단된 [x86](https://ko.wikipedia.org/wiki/x86 "wikilink"), [ARM 아키텍처의](../Page/ARM_아키텍처.md "wikilink") [개인용 컴퓨터용](../Page/개인용_컴퓨터.md "wikilink") 컴퓨터 [운영 체제의](../Page/운영_체제.md "wikilink") 하나로, 개발 중단 이전에는 수많은 퍼스트, 서드파티 장치에 설치되었다. 리믹스 OS는 PC 사용자들이 호환 인텔 기반 PC에서 [안드로이드](../Page/안드로이드_\(운영_체제\).md "wikilink") [모바일 앱을](https://ko.wikipedia.org/wiki/모바일_응용_소프트웨어 "wikilink") 실행할 수 있게 허용하였다.\[1\]\[2\]

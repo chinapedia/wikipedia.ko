@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  \(iOS  OS X\)](https://ko.wikipedia.org/wiki/__\(iOS__OS_X\)).
+> This article is converted from Wikipedia: [알림 센터 \(iOS 및 OS X\)](https://ko.wikipedia.org/wiki/알림_센터_\(iOS_및_OS_X\)).
 
 
 **알림 센터**는 앱의 알림을 표시하는 [iOS](https://ko.wikipedia.org/wiki/iOS "wikilink") 및 [macOS](https://ko.wikipedia.org/wiki/macOS "wikilink")의 기능이다. 사용자가 알림에 대한 작업을 완료할 때까지 알림 센터에는 해당 알림이 계속 표시되며, 설정에서 알림 센터에 표시할 앱을 선택할 수 있다. [2011년](../Page/2011년.md "wikilink") 10월, [iOS 5와](https://ko.wikipedia.org/wiki/iOS_5 "wikilink") 함께 처음 출시된 알림 센터\[1\]는 [2012년](../Page/2012년.md "wikilink") 7월에 Mac에서 [OS X 마운틴 라이언의](../Page/OS_X_마운틴_라이언.md "wikilink") 일부로 제공됐다.\[2\]

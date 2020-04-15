@@ -74,7 +74,7 @@
 <td></td>
 <td><p><a href="../Page/아이치현.md" title="wikilink">아이치현</a></p></td>
 <td><p>STU</p></td>
-<td><p>2020년 3월 25일 졸업예정</p></td>
+<td><p>졸업예정 (시기미정)</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -173,7 +173,7 @@
 <td><p>たきの ゆみこ</p></td>
 <td></td>
 <td><p>야마구치 현</p></td>
-<td><p>STU</p></td>
+<td><p>Mama &amp; Son</p></td>
 <td><p>-</p></td>
 <td></td>
 <td><p>74</p></td>
@@ -223,17 +223,6 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/후지와라_아즈사" title="wikilink">후지와라 아즈사</a></p></td>
-<td><p>藤原あずさ</p></td>
-<td><p>ふじわら あずさ</p></td>
-<td></td>
-<td><p><a href="../Page/오카야마현.md" title="wikilink">오카야마현</a></p></td>
-<td><p>STU</p></td>
-<td><p>-</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/미네요시_아리사" title="wikilink">미네요시 아리사</a></p></td>
 <td><p>峯吉愛梨沙</p></td>
 <td><p>みねよし ありさ</p></td>
@@ -244,7 +233,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/모리시타_마이하" title="wikilink">모리시타 마이하</a></p></td>
 <td><p>森下舞羽</p></td>
 <td><p>もりした まいは</p></td>
@@ -255,7 +244,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/야노_호노카" title="wikilink">야노 호노카</a></p></td>
 <td><p>矢野帆夏</p></td>
 <td><p>やの ほのか</p></td>
@@ -266,7 +255,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/야부시타_후" title="wikilink">야부시타 후</a></p></td>
 <td><p>薮下楓</p></td>
 <td><p>やぶした ふう</p></td>
@@ -277,7 +266,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -326,7 +315,7 @@
 <td></td>
 <td><p>드래프트<br />
 3기</p></td>
-<td><p>오카야마 현</p></td>
+<td><p><a href="../Page/오카야마현.md" title="wikilink">오카야마현</a></p></td>
 <td><p>STU</p></td>
 <td><p>제3회 드래프트 회의 2위 지명</p></td>
 <td></td>
@@ -708,7 +697,7 @@
 <td><p>2017년 2월 23일부터 겸임해제까지 <a href="../Page/HKT48.md" title="wikilink">HKT48</a> 팀H 겸임<br />
 전 STU48 극장 지배인<br />
 전 AKB48 팀B→A<br />
-<a href="../Page/=LOVE.md" title="wikilink">=LOVE</a>, <a href="https://ko.wikipedia.org/wiki/≠ME" title="wikilink">≠ME</a>의 프로듀서</p></td>
+<a href="../Page/=LOVE.md" title="wikilink">=LOVE</a>, <a href="../Page/≠ME.md" title="wikilink">≠ME</a>의 프로듀서</p></td>
 <td><p>1위</p></td>
 </tr>
 <tr class="odd">
@@ -802,7 +791,7 @@
 <td></td>
 <td><p>히로시마 현</p></td>
 <td><p>2019년 10월 30일</p></td>
-<td><p>-</p></td>
+<td><p>A-Team</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td></td>
@@ -826,12 +815,24 @@
 <td></td>
 <td><p><a href="../Page/미에현.md" title="wikilink">미에현</a></p></td>
 <td><p>2019년 12월 12일</p></td>
-<td><p>-</p></td>
+<td><p>01familia</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td></td>
 </tr>
 <tr class="odd">
+<td><p><a href="https://ko.wikipedia.org/wiki/후지와라_아즈사" title="wikilink">후지와라 아즈사</a></p></td>
+<td><p>藤原あずさ</p></td>
+<td><p>ふじわら あずさ</p></td>
+<td></td>
+<td><p>오카야마 현</p></td>
+<td><p>2020년 3월 10일</p></td>
+<td><p>-</p></td>
+<td><p>-</p></td>
+<td><p>-</p></td>
+<td></td>
+</tr>
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -876,7 +877,8 @@
 <td><p>오카야마 현</p></td>
 <td><p>2019년 3월 10일</p></td>
 <td><p>-</p></td>
-<td><p>제3회 드래프트 회의 4위 지명</p></td>
+<td><p>활동사퇴<br />
+제3회 드래프트 회의 4위 지명</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="even">
@@ -936,7 +938,7 @@
 <tr class="odd">
 <td><p>2</p></td>
 <td><p>2019년 2월 13일</p></td>
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/바람을_기다리다" title="wikilink">風を待つ</a></strong><br />
+<td><p><strong><a href="../Page/바람을_기다리다.md" title="wikilink">風を待つ</a></strong><br />
 <small>바람을 기다리다</small></p></td>
 <td><p>1</p></td>
 </tr>
@@ -955,6 +957,13 @@
 <td><p>1</p></td>
 </tr>
 <tr class="even">
+<td><p>5</p></td>
+<td><p>2020년 5월 27일</p></td>
+<td><p><strong>タイトル未定</strong><br />
+<small>타이틀미정</small></p></td>
+<td><p>-</p></td>
+</tr>
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>

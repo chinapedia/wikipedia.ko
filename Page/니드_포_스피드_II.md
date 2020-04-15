@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [   II](https://ko.wikipedia.org/wiki/___II).
+> This article is converted from Wikipedia: [니드 포 스피드 II](https://ko.wikipedia.org/wiki/니드_포_스피드_II).
 
 
 《**니드 포 스피드 II**》(Need for Speed II, 일본 출시명: Over Drivin' II)는 1997년 출시된 [레이싱](https://ko.wikipedia.org/wiki/경주_게임 "wikilink") 비디오 게임이다. [니드 포 스피드 시리즈의](../Page/니드_포_스피드.md "wikilink") 일부이자 이 시리즈의 두 번째 게임으로, [더 니드 포 스피드](../Page/더_니드_포_스피드.md "wikilink")(Road & Track Presents: The Need for Speed)의 뒤를 잇는다.

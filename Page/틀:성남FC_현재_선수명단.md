@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:FC  ](https://ko.wikipedia.org/wiki/:FC__).
+> This article is converted from Wikipedia: [틀:성남FC 현재 선수명단](https://ko.wikipedia.org/wiki/틀:성남FC_현재_선수명단).
 
 
 \[1\]

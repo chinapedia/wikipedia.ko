@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ \(KBS-TV\)](https://ko.wikipedia.org/wiki/_\(KBS-TV\)).
+> This article is converted from Wikipedia: [뉴스파노라마 \(KBS-TV\)](https://ko.wikipedia.org/wiki/뉴스파노라마_\(KBS-TV\)).
 
 
 《**뉴스파노라마**》는 대한민국 [KBS-TV](https://ko.wikipedia.org/wiki/KBS-TV "wikilink")에서 평일 아침 7시에 방송되었던 [서울중앙방송국](https://ko.wikipedia.org/wiki/서울중앙방송국 "wikilink")의 아침 뉴스쇼 프로그램이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [AFC ](https://ko.wikipedia.org/wiki/AFC_).
+> This article is converted from Wikipedia: [AFC 솔리대리티컵](https://ko.wikipedia.org/wiki/AFC_솔리대리티컵).
 
 
 **AFC 솔리대리티컵**(AFC Solidarity Cup)은 [아시아 축구 연맹](../Page/아시아_축구_연맹.md "wikilink") 회원국 중에서 팀 전력이 약한 국가대표팀이 참가하는 국가 대항 축구 대회이다. 2014년 대회를 끝으로 폐지된 [AFC 챌린지컵을](../Page/AFC_챌린지컵.md "wikilink") 대신하기 위한 차원에서 신설되었다. 참가 대상은 월드컵 아시아 지역 1차 예선 탈락 6팀과 아시아 지역 2차 예선 플레이오프 탈락 4팀이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [PhET  ](https://ko.wikipedia.org/wiki/PhET__).
+> This article is converted from Wikipedia: [PhET 인터랙티브 시뮬레이션스](https://ko.wikipedia.org/wiki/PhET_인터랙티브_시뮬레이션스).
 
 
 [thumb](https://ko.wikipedia.org/wiki/파일:PhETCCKScreenshot.pdf "wikilink")

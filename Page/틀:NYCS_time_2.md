@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:NYCS time 2](https://ko.wikipedia.org/wiki/:NYCS_time_2).
+> This article is converted from Wikipedia: [틀:NYCS time 2](https://ko.wikipedia.org/wiki/틀:NYCS_time_2).
 
 
 <includeonly>{{\#ifeq: |nolinkatall| {{\#if: |\<\>|}}|{{\#ifeq:  | box | }} {{\#if:|}}}}

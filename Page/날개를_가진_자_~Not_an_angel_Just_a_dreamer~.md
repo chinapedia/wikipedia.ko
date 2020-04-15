@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [   \~Not an angel Just a dreamer\~](https://ko.wikipedia.org/wiki/___\~Not_an_angel_Just_a_dreamer\~).
+> This article is converted from Wikipedia: [날개를 가진 자 \~Not an angel Just a dreamer\~](https://ko.wikipedia.org/wiki/날개를_가진_자_\~Not_an_angel_Just_a_dreamer\~).
 
 
 〈**날개를 가진 자 \~Not an angel Just a dreamer\~**〉(}는 2017년 10월 25일에 [에이벡스 픽처스에서](https://ko.wikipedia.org/wiki/에이벡스_픽처스 "wikilink") 발매된 싱글이다. [일본 애니메이션](../Page/일본의_애니메이션.md "wikilink") 100주년 기념 노래이며, [일본동화협회](https://ko.wikipedia.org/wiki/일본동화협회 "wikilink") ‘애니메이션 NEXT100’ 프로젝트 공식 노래이다.

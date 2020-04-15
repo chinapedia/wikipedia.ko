@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [1996  CONMEBOL](https://ko.wikipedia.org/wiki/1996__CONMEBOL).
+> This article is converted from Wikipedia: [1996년 코파 CONMEBOL](https://ko.wikipedia.org/wiki/1996년_코파_CONMEBOL).
 
 
 **1996년 코파 CONMEBOL**(1996 Copa CONMEBOL)은 [코파 CONMEBOL의](../Page/코파_CONMEBOL.md "wikilink") 5번째 시즌이다. [아르헨티나](../Page/아르헨티나.md "wikilink")의 [라누스가](../Page/CA_라누스.md "wikilink") 결승전에서 [콜롬비아](../Page/콜롬비아.md "wikilink")의 [산타페를](../Page/인데펜디엔테_산타페.md "wikilink") 누르고 우승을 차지했다.

@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [ H. ](https://ko.wikipedia.org/wiki/_H._).
+> This article is converted from Wikipedia: [빌헬름 H. 노이저](https://ko.wikipedia.org/wiki/빌헬름_H._노이저).
 
 
-[thumb](https://ko.wikipedia.org/wiki/파일:WHNeuser\(AMJ\).jpg "wikilink") **빌헬름 하인리히 노이저**(Wilhelm Heinrich Neuser, 1926년 6월 13일 - 2010년 6월 25일)은 독일의 개신교 신학자, 교회사가, [뮌스터 대학교의](https://ko.wikipedia.org/wiki/뮌스터_대학교 "wikilink") 교수 그리고 유명한 [칼빈](https://ko.wikipedia.org/wiki/칼빈 "wikilink") 학자이며 [세계칼빈학회](../Page/세계칼빈학회.md "wikilink")를 창설하였다. 한국에서는 [김성봉](../Page/김성봉.md "wikilink") 박사와 김성욱 박사와 같은 제자들이 있다.\[1\] [thumb](https://ko.wikipedia.org/wiki/파일:KCalntsNeuser\(AMJ\).jpg "wikilink") 박사, 박건택 박사, [안명준](../Page/안명준.md "wikilink") 박사, [한철하](../Page/한철하.md "wikilink") 박사, 이양호 박사 그리고 [김성봉](../Page/김성봉.md "wikilink") 박사가 함께한 저명한 칼빈학자 노이저 박사, 1997년 10월 6일 [아세아연합신학대학교](../Page/아세아연합신학대학교.md "wikilink")\]\]
+[섬네일](https://ko.wikipedia.org/wiki/파일:WHNeuser\(AMJ\).jpg "wikilink") **빌헬름 하인리히 노이저**(Wilhelm Heinrich Neuser, 1926년 6월 13일 - 2010년 6월 25일)은 독일의 개신교 신학자, 교회사가, [뮌스터 대학교의](https://ko.wikipedia.org/wiki/뮌스터_대학교 "wikilink") 교수 그리고 유명한 [칼빈](https://ko.wikipedia.org/wiki/칼빈 "wikilink") 학자이며 [세계칼빈학회](../Page/세계칼빈학회.md "wikilink")를 창설하였다. 한국에서는 [김성봉](../Page/김성봉.md "wikilink") 박사와 김성욱 박사와 같은 제자들이 있다.\[1\] [섬네일](https://ko.wikipedia.org/wiki/파일:KCalntsNeuser\(AMJ\).jpg "wikilink") 박사, 박건택 박사, [안명준](../Page/안명준.md "wikilink") 박사, [한철하](../Page/한철하.md "wikilink") 박사, 이양호 박사 그리고 [김성봉](../Page/김성봉.md "wikilink") 박사가 함께한 저명한 칼빈학자 노이저 박사, 1997년 10월 6일 [아세아연합신학대학교](../Page/아세아연합신학대학교.md "wikilink")\]\]
 
 ## 생애
 

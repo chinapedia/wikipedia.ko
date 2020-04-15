@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:8TeamBracket-2legsOnlyFinal](https://ko.wikipedia.org/wiki/:8TeamBracket-2legsOnlyFinal).
+> This article is converted from Wikipedia: [틀:8TeamBracket-2legsOnlyFinal](https://ko.wikipedia.org/wiki/틀:8TeamBracket-2legsOnlyFinal).
 
 
 |  |  |  |  |  |  |

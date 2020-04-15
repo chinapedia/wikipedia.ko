@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [City of Stars](https://ko.wikipedia.org/wiki/City_of_Stars).
 
 
-"**City of Stars**"는 《[라 라 랜드](https://ko.wikipedia.org/wiki/라_라_랜드 "wikilink")》에서 [라이언 고즐링과](https://ko.wikipedia.org/wiki/라이언_고즐링 "wikilink") [엠마 스톤이](https://ko.wikipedia.org/wiki/엠마_스톤 "wikilink") 부른 곡이다. 이 곡은 [저스틴 허위츠가](https://ko.wikipedia.org/wiki/저스틴_허위츠 "wikilink") 작곡하고 [벤제이 파섹, 저스틴 폴이](https://ko.wikipedia.org/wiki/파섹_앤_폴 "wikilink") 작사를 하였다.\[1\] [골든 글로브상 주제가상](../Page/골든_글로브상.md "wikilink")\[2\]\[3\] 과 [제89회 아카데미상](../Page/제89회_아카데미상.md "wikilink") [아카데미 주제가상](https://ko.wikipedia.org/wiki/아카데미_주제가상 "wikilink")\[4\]을 수상했다.
+"**City of Stars**"는 《[라라랜드](../Page/라라랜드.md "wikilink")》에서 [라이언 고즐링과](https://ko.wikipedia.org/wiki/라이언_고즐링 "wikilink") [엠마 스톤이](https://ko.wikipedia.org/wiki/엠마_스톤 "wikilink") 부른 곡이다. 이 곡은 [저스틴 허위츠가](https://ko.wikipedia.org/wiki/저스틴_허위츠 "wikilink") 작곡하고 [벤제이 파섹, 저스틴 폴이](https://ko.wikipedia.org/wiki/파섹_앤_폴 "wikilink") 작사를 하였다.\[1\] [골든 글로브상 주제가상](../Page/골든_글로브상.md "wikilink")\[2\]\[3\] 과 [제89회 아카데미상](../Page/제89회_아카데미상.md "wikilink") [아카데미 주제가상](https://ko.wikipedia.org/wiki/아카데미_주제가상 "wikilink")\[4\]을 수상했다.
 
 ## 배경
 

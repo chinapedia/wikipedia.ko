@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ P.  ](https://ko.wikipedia.org/wiki/_P.__).
+> This article is converted from Wikipedia: [조지프 P. 케네디 주니어](https://ko.wikipedia.org/wiki/조지프_P._케네디_주니어).
 
 
 **조지프 패트릭 케네디 주니어**(, [1915년](../Page/1915년.md "wikilink") [7월 25일](../Page/7월_25일.md "wikilink") \~ [1944년](../Page/1944년.md "wikilink") [8월 12일](../Page/8월_12일.md "wikilink"))는 [미국](../Page/미국.md "wikilink")의 [해군](../Page/해군.md "wikilink") 장교이다.

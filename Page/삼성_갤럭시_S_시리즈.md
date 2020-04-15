@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  S ](https://ko.wikipedia.org/wiki/__S_).
+> This article is converted from Wikipedia: [삼성 갤럭시 S 시리즈](https://ko.wikipedia.org/wiki/삼성_갤럭시_S_시리즈).
 
 
 [200px](https://ko.wikipedia.org/wiki/파일:Samsung_Galaxy_S_new_logo.svg "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:Samsung_Galaxy_S_logo.svg "wikilink")
@@ -50,6 +50,7 @@
   - [삼성 갤럭시 노트 시리즈](../Page/삼성_갤럭시_노트_시리즈.md "wikilink")
   - [삼성 갤럭시 탭 시리즈](../Page/삼성_갤럭시_탭_시리즈.md "wikilink")
   - [삼성 기어](https://ko.wikipedia.org/wiki/삼성_기어 "wikilink")
+  - [삼성 갤럭시 J 시리즈](../Page/삼성_갤럭시_J_시리즈.md "wikilink")
 
 ## 외부 링크
 

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [MBTA ](https://ko.wikipedia.org/wiki/MBTA_).
+> This article is converted from Wikipedia: [MBTA 보트](https://ko.wikipedia.org/wiki/MBTA_보트).
 
 
 [썸네일](https://ko.wikipedia.org/wiki/파일:MBTA_boat_1.JPG "wikilink")  **MBTA 보트**(MBTA Boat) 시스템은 [보스턴 항을](https://ko.wikipedia.org/wiki/보스턴_항 "wikilink") 통해 [보스턴 대도시권의](https://ko.wikipedia.org/wiki/보스턴_대도시권 "wikilink") [수상 교통을](https://ko.wikipedia.org/wiki/수상_교통 "wikilink") 제공하는 공공 [보트 서비스이다](https://ko.wikipedia.org/wiki/보트_서비스 "wikilink"). 내부 항만과 장거리 통근 [페리](../Page/페리.md "wikilink")가 모두 운영된다. 이 서비스는 [매사추세츠 만 교통공사](https://ko.wikipedia.org/wiki/매사추세츠_만_교통공사 "wikilink")(MBTA)와 계약하여 보스턴 하버 크루즈(Boston Harbor Cruises)가 운영한다.

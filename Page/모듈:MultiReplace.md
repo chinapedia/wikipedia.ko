@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:MultiReplace](https://ko.wikipedia.org/wiki/:MultiReplace).
+> This article is converted from Wikipedia: [모듈:MultiReplace](https://ko.wikipedia.org/wiki/모듈:MultiReplace).
 
 
 p = {}

@@ -201,7 +201,7 @@ Mac OS 9.2.2</p></td>
   - [Everymac Specs Archive](http://www.everymac.com/systems/apple/emac/index.html)
   - [Designed in California specs and timeline](http://www.designedinca.com/macs/emac/)
   - [Apple Introduces low cost Education Configuration for 17-inch iMac](https://web.archive.org/web/20110608070953/http://www.apple.com/pr/library/2006/jul/05imac.html)
-  - [eMac Upgrade Guide](http://www.lbodnar.dsl.pipex.com/eMac/eMac-upgrade.html)
+  - [eMac Upgrade Guide](https://web.archive.org/web/20180422080338/http://www.lbodnar.dsl.pipex.com/eMac/eMac-upgrade.html)
 
 [분류:매킨토시](https://ko.wikipedia.org/wiki/분류:매킨토시 "wikilink")
 

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
+> This article is converted from Wikipedia: [플라타니아스 FC](https://ko.wikipedia.org/wiki/플라타니아스_FC).
 
 
 **플라타니아스 FC**()는 [하니아](../Page/하니아.md "wikilink")의 플라타니아스(Platanias)를 연고로 하는 [그리스](../Page/그리스.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다. 현재는 [수페르리가 엘라다에](../Page/수페르리가_엘라다.md "wikilink") 참가하고 있다.

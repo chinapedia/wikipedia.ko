@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ PDF](https://ko.wikipedia.org/wiki/_PDF).
+> This article is converted from Wikipedia: [수마트라 PDF](https://ko.wikipedia.org/wiki/수마트라_PDF).
 
 
 **수마트라 PDF**(Sumatra PDF)는 무료 [오픈소스](https://ko.wikipedia.org/wiki/오픈소스 "wikilink") [전자책](../Page/전자책.md "wikilink") [뷰어로](../Page/파일_뷰어.md "wikilink") , PDF(Portable Document Format), Microsoft HTML 도움말([CHM](https://ko.wikipedia.org/wiki/CHM "wikilink")), [DjVu](https://ko.wikipedia.org/wiki/DjVu "wikilink") , [EPUB](../Page/EPUB.md "wikilink") , FictionBook (FB2), [Mobi](https://ko.wikipedia.org/wiki/Mobi "wikilink") , [PRC](https://ko.wikipedia.org/wiki/PRC_\(파일_포맷\) "wikilink") , [Open XML Paper](https://ko.wikipedia.org/wiki/Open_XML_Paper "wikilink") 등 다양한 문서 형식 포맷(OpenXPS, OXPS, XPS), 만화 아카이브 파일 (CB7, CBR, CBT, CBZ)을 지원한다.\[1\] MS[윈도우즈](https://ko.wikipedia.org/wiki/윈도우즈 "wikilink")(Microsoft Windows) 전용으로 개발되었지만 [WINE을](../Page/와인_\(소프트웨어\).md "wikilink") 사용하여 [Linux](https://ko.wikipedia.org/wiki/Linux "wikilink")에서 실행할 수 있다.

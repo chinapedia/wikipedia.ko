@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ TV](https://ko.wikipedia.org/wiki/_TV).
+> This article is converted from Wikipedia: [안드로이드 TV](https://ko.wikipedia.org/wiki/안드로이드_TV).
 
 
 **안드로이드 TV**(Android TV)는 [구글](../Page/구글.md "wikilink")이 개발한 [스마트 TV 플랫폼이다](https://ko.wikipedia.org/wiki/스마트_TV_플랫폼 "wikilink"). [안드로이드](../Page/안드로이드_\(운영_체제\).md "wikilink") 운영 체제를 기반으로 두고 있으며 [10비트 사용자 인터페이스를](https://ko.wikipedia.org/wiki/10비트_사용자_인터페이스 "wikilink") 통해 [쌍방향 텔레비전](https://ko.wikipedia.org/wiki/쌍방향_텔레비전 "wikilink") 경험을 제공한다. 구글의 초기 스마트 TV 플랫폼 [구글 TV의](../Page/구글_TV.md "wikilink") 뒤를 이어 [구글 I/O](https://ko.wikipedia.org/wiki/구글_I/O "wikilink") 2014에서 2014년 6월 25일 처음 발표되었다.

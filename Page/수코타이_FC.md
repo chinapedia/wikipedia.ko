@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
+> This article is converted from Wikipedia: [수코타이 FC](https://ko.wikipedia.org/wiki/수코타이_FC).
 
 
 **수코타이 FC**(, )은 [수코타이 주를](https://ko.wikipedia.org/wiki/수코타이_주 "wikilink") 연고로 하는 [타이](https://ko.wikipedia.org/wiki/타이 "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다. 현재 [타이 리그에](https://ko.wikipedia.org/wiki/타이_리그 "wikilink") 참가하고 있다.

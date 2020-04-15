@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:CSS image crop](https://ko.wikipedia.org/wiki/:CSS_image_crop).
+> This article is converted from Wikipedia: [틀:CSS image crop](https://ko.wikipedia.org/wiki/틀:CSS_image_crop).
 
 
 <includeonly>

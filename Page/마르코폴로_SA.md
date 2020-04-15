@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ SA](https://ko.wikipedia.org/wiki/_SA).
+> This article is converted from Wikipedia: [마르코폴로 SA](https://ko.wikipedia.org/wiki/마르코폴로_SA).
 
 
 **마르코폴로 SA**()는 [브라질](../Page/브라질.md "wikilink")의 자동차 메이커이다.

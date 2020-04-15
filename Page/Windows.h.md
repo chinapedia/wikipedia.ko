@@ -52,7 +52,7 @@ windows.h는 아마 다음의 헤더 파일들을 인클루드할 것이다:
 
   - ole2.h - [OLE](../Page/객체_연결_삽입.md "wikilink") (객체 연결 삽입)
   - objbase.h - [COM](../Page/컴포넌트_오브젝트_모델.md "wikilink") (컴포넌트 오브젝트 모델)
-  - oleauto.h - [OLE 자동화](https://ko.wikipedia.org/wiki/OLE_자동화 "wikilink")
+  - oleauto.h - [OLE 자동화](../Page/OLE_자동화.md "wikilink")
   - olectlid.h - 다양한 [GUID](../Page/범용_고유_식별자.md "wikilink") 정의들
 
 ## 매크로

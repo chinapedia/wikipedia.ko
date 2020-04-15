@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ \(Peek-A-Boo\)](https://ko.wikipedia.org/wiki/_\(Peek-A-Boo\)).
+> This article is converted from Wikipedia: [피카부 \(Peek-A-Boo\)](https://ko.wikipedia.org/wiki/피카부_\(Peek-A-Boo\)).
 
 
 **피카부 (Peek-A-Boo)**는 [대한민국](../Page/대한민국.md "wikilink")의 [걸 그룹](../Page/걸_그룹.md "wikilink") [레드벨벳](https://ko.wikipedia.org/wiki/레드벨벳 "wikilink")의 음반 [Perfect Velvet의](../Page/Perfect_Velvet.md "wikilink") 타이틀 곡이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [A \(\)](https://ko.wikipedia.org/wiki/A_\(\)).
+> This article is converted from Wikipedia: [여중생A \(영화\)](https://ko.wikipedia.org/wiki/여중생A_\(영화\)).
 
 
 《**여중생A**》는 [2018년](../Page/2018년.md "wikilink")에 개봉한 [대한민국의](https://ko.wikipedia.org/wiki/대한민국_영화 "wikilink") 영화이다. [동명의 웹툰이](../Page/여중생A.md "wikilink") 원작이다.

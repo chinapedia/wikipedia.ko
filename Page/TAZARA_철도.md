@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TAZARA ](https://ko.wikipedia.org/wiki/TAZARA_).
+> This article is converted from Wikipedia: [TAZARA 철도](https://ko.wikipedia.org/wiki/TAZARA_철도).
 
 
 **TAZARA 철도**()는 [탄자니아](../Page/탄자니아.md "wikilink")의 [다르에스살람](../Page/다르에스살람.md "wikilink")과 [잠비아](../Page/잠비아.md "wikilink")의 [카피리음포시](https://ko.wikipedia.org/wiki/카피리음포시 "wikilink")를 잇는 [동아프리카](../Page/동아프리카.md "wikilink")의 철도다. **탄잠 철도**(Tanzam Railway) 또는 [스와힐리어](../Page/스와힐리어.md "wikilink")로 자유를 뜻하는 **우후루 철도**(Uhuru Railway)로 불리기도 한다. 탄자니아–잠비아 철도공사(TAZARA; Tanzania–Zambia Railway Authority)가 운영하며 [단선](https://ko.wikipedia.org/wiki/단선_\(철도\) "wikilink") 길이가 1,860km에 이른다.

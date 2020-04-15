@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  FC](https://ko.wikipedia.org/wiki/__FC).
+> This article is converted from Wikipedia: [서턴 유나이티드 FC](https://ko.wikipedia.org/wiki/서턴_유나이티드_FC).
 
 
 **서턴 유나이티드 FC**(Sutton United F.C.)는 [잉글랜드](../Page/잉글랜드.md "wikilink") [서턴을](https://ko.wikipedia.org/wiki/서턴_\(런던\) "wikilink") 연고지로 하고 있는 [축구](../Page/축구.md "wikilink") 구단이다. 2015-16 시즌 [내셔널리그 사우스에서](../Page/내셔널리그_사우스.md "wikilink") 1위를 차지해 2019-20 시즌 현재 잉글랜드 5부 리그 격인 [내셔널리그에](../Page/내셔널리그_\(디비전\).md "wikilink") 소속되어 있다.

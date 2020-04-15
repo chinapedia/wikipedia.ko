@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [HMS   \(R08\)](https://ko.wikipedia.org/wiki/HMS___\(R08\)).
+> This article is converted from Wikipedia: [HMS 퀸 엘리자베스 \(R08\)](https://ko.wikipedia.org/wiki/HMS_퀸_엘리자베스_\(R08\)).
 
 
 **HMS 퀸 엘리자베스 (R08)**는 영국의 최신형 디젤 항공모함이다.

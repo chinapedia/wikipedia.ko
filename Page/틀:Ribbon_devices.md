@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Ribbon devices](https://ko.wikipedia.org/wiki/:Ribbon_devices).
+> This article is converted from Wikipedia: [틀:Ribbon devices](https://ko.wikipedia.org/wiki/틀:Ribbon_devices).
 
 
 <includeonly>{{\#ifexpr:  + {{\#if:|1|0}} \> 0 |

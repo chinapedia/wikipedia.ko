@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TV ](https://ko.wikipedia.org/wiki/TV_).
+> This article is converted from Wikipedia: [아프리카TV 스타리그](https://ko.wikipedia.org/wiki/아프리카TV_스타리그).
 
 
 **아프리카TV 스타리그**는 [대한민국](../Page/대한민국.md "wikilink")의 [스타크래프트 1](../Page/스타크래프트.md "wikilink") [리그이다](../Page/스타크래프트_리그.md "wikilink"). [아프리카TV](../Page/아프리카TV.md "wikilink")와 [콩두컴퍼니](../Page/콩두컴퍼니.md "wikilink")가 공동으로 진행하며, 경기는 [아프리카TV](../Page/아프리카TV.md "wikilink") 등을 통해 송출된다. 약칭으로는 ASL이라고 불린다.

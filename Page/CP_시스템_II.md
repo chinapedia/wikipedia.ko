@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [CP  II](https://ko.wikipedia.org/wiki/CP__II).
+> This article is converted from Wikipedia: [CP 시스템 II](https://ko.wikipedia.org/wiki/CP_시스템_II).
 
 
 **CP 시스템 II**(, , 약칭 CPS-2)는 [캡콤](../Page/캡콤.md "wikilink")이 1993년 [슈퍼 스트리트 파이터 II부터](../Page/슈퍼_스트리트_파이터_II.md "wikilink") 사용하기 시작했던 [아케이드 기판이다](../Page/아케이드_기판.md "wikilink"). [CP 시스템과](../Page/CP_시스템.md "wikilink") [캡콤 파워 시스템 차저의](https://ko.wikipedia.org/wiki/캡콤_파워_시스템_차저 "wikilink") 후속 기판으로, 1996년에 제작된 [CP 시스템 III가](../Page/CP_시스템_III.md "wikilink") 뒤를 이었다.
@@ -133,7 +133,7 @@
 <td><p><a href="../Page/록맨:_더_파워_배틀.md" title="wikilink">록맨: 더 파워 배틀</a><br />
 (Rockman: The Power Battle)</p></td>
 <td><p>메가맨: 더 파워 배틀 (Mega Man: The Power Battle)</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/플랫폼_게임" title="wikilink">플랫포머</a></p></td>
+<td><p><a href="../Page/플랫폼_게임.md" title="wikilink">플랫포머</a></p></td>
 </tr>
 <tr class="even">
 <td><p>1995-10-24</p></td>
@@ -170,7 +170,7 @@
 <tr class="even">
 <td><p>1996-05-29</p></td>
 <td><p><a href="../Page/캡콤.md" title="wikilink">캡콤</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/슈퍼_퍼즐_파이터_II_터보" title="wikilink">슈퍼 퍼즐 파이터 II 터보</a> (Super Puzzle Fighter II Turbo)</p></td>
+<td><p><a href="../Page/슈퍼_퍼즐_파이터_II_터보.md" title="wikilink">슈퍼 퍼즐 파이터 II 터보</a> (Super Puzzle Fighter II Turbo)</p></td>
 <td><p>슈퍼 퍼즐 파이터 II X (Super Puzzle Fighter II X)</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/퍼즐_게임" title="wikilink">퍼즐</a></p></td>
 </tr>
@@ -180,7 +180,7 @@
 <td><p><a href="../Page/록맨_2:_더_파워_파이터즈.md" title="wikilink">록맨 2: 더 파워 파이터즈</a><br />
 (Rockman 2: The Power Fighters)</p></td>
 <td><p>메가맨 2: 더 파워 파이터즈 (Mega Man 2: The Power Fighters)</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/플랫폼_게임" title="wikilink">플랫포머</a></p></td>
+<td><p><a href="../Page/플랫폼_게임.md" title="wikilink">플랫포머</a></p></td>
 </tr>
 <tr class="even">
 <td><p>1996-08-05</p></td>
@@ -318,7 +318,7 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/마이티_팡" title="wikilink">마이티 팡</a><br />
 (Mighty Pang)</p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/플랫폼_게임" title="wikilink">플랫포머</a></p></td>
+<td><p><a href="../Page/플랫폼_게임.md" title="wikilink">플랫포머</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2001-01-17</p></td>

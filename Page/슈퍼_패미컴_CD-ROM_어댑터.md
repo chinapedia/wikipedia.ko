@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  CD-ROM ](https://ko.wikipedia.org/wiki/__CD-ROM_).
+> This article is converted from Wikipedia: [슈퍼 패미컴 CD-ROM 어댑터](https://ko.wikipedia.org/wiki/슈퍼_패미컴_CD-ROM_어댑터).
 
 
 [thumb](https://ko.wikipedia.org/wiki/파일:Superdisc_logo_recreation.png "wikilink") **슈퍼 패미컴 CD-ROM 어댑터**(Super Famicom CD-ROM Adapter)\[1\] 또는 **슈퍼 NES CD-ROM 시스템**(Super NES CD-ROM\[2\]\[3\], 간단히 **SNES-CD**)는 [슈퍼 패미컴](../Page/슈퍼_패미컴.md "wikilink")(슈퍼 닌텐도 엔터테인먼트 시스템, SNES)의 미출시된 [비디오 게임](../Page/비디오_게임.md "wikilink") 주변기기를 가리킨다. 이 애드온은 [카트리지](../Page/롬_카트리지.md "wikilink") 기반 SNES의 기능에 기반하며 이는 **슈퍼 디스크**(Super Disc)라는 이름의 [CD-ROM](../Page/CD-ROM.md "wikilink") 기반 포맷 지원을 추가함으로써 이루어진다.\[4\]\[5\]

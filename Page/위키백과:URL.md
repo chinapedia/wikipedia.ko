@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:URL](https://ko.wikipedia.org/wiki/:URL).
+> This article is converted from Wikipedia: [위키백과:URL](https://ko.wikipedia.org/wiki/위키백과:URL).
 
 
 [월드 와이드 웹의](../Page/월드_와이드_웹.md "wikilink") 모든 페이지와 마찬가지로, 위키미디어 서버가 제공하는 페이지에는 **[URL](../Page/URL.md "wikilink")**을 식별할수 있는 URL이 있습니다. 이 주소는 페이지를 볼때 브라우저의 주소 표시줄에 나타나는 주소입니다. 위키백과 편집자는 선택한 URL에 대한 [하이퍼링크](../Page/하이퍼링크.md "wikilink")를 작성하여 위키백과 및 기타 위키미디어 프로젝트 또는 웹의 다른 페이지를 가리키는 페이지를 가리킬수도 있습니다.

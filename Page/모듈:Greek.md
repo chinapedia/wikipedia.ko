@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Greek](https://ko.wikipedia.org/wiki/:Greek).
+> This article is converted from Wikipedia: [모듈:Greek](https://ko.wikipedia.org/wiki/모듈:Greek).
 
 
 \-- Convert standard numbers to greek numerals, and vice versa -- Gts-tg@el wiki, Aug. 2017

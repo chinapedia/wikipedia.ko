@@ -1,11 +1,11 @@
-> This article is converted from Wikipedia: [X](https://ko.wikipedia.org/wiki/X).
+> This article is converted from Wikipedia: [마스터X마스터](https://ko.wikipedia.org/wiki/마스터X마스터).
 
 
 《**마스터X마스터**》(Master X Master, MXM)는 [엔씨소프트](../Page/엔씨소프트.md "wikilink")가 개발, 배급한 [멀티플레이어 온라인 배틀 아레나](https://ko.wikipedia.org/wiki/멀티플레이어_온라인_배틀_아레나 "wikilink")(MOBA) 비디오 게임이다.
 
 ## 게임플레이
 
-MXM은 [3인칭 슈팅 게임의](https://ko.wikipedia.org/wiki/3인칭_슈팅_게임 "wikilink") 특징을 갖춘 MOBA이다.\[1\] 각 플레이어는 마스터(master)라 불리는 두 명의 [플레이어 캐릭터를](../Page/플레이어_캐릭터.md "wikilink") 컨트롤한다.\[2\] 2016년 1월 기준으로 30명의 마스터가 있다.\[3\] 각각은 고유한 능력과 각기 다른 플레이 스타일이 있다.\[4\] 마스터들은 이전 엔씨소프트가 배급한 게임들의 캐릭터들이자\[5\] 새로운 캐릭터들이다.\[6\] 플레이어는 게임을 통해 두 명의 마스터 간 전환이 가능하며, 여기에서 사용되지 않은 마스터는 [체력을](https://ko.wikipedia.org/wiki/체력_\(게이밍\) "wikilink") 재생할 수 있다.\[7\] 사망 외에도 전환과 관련하여 쿨다운이 있다.\[8\] MXM 내의 플레이어는 [방향키와](https://ko.wikipedia.org/wiki/방향키_\(컴퓨터_자판\) "wikilink") [마우스](../Page/마우스.md "wikilink")를 사용하여 캐릭터를 움직이고 선택하지만 마우스만으로 캐릭터를 이동할 수 있는 옵션도 제공한다.\[9\]
+MXM은 [3인칭 슈팅 게임의](../Page/3인칭_슈팅_게임.md "wikilink") 특징을 갖춘 MOBA이다.\[1\] 각 플레이어는 마스터(master)라 불리는 두 명의 [플레이어 캐릭터를](../Page/플레이어_캐릭터.md "wikilink") 컨트롤한다.\[2\] 2016년 1월 기준으로 30명의 마스터가 있다.\[3\] 각각은 고유한 능력과 각기 다른 플레이 스타일이 있다.\[4\] 마스터들은 이전 엔씨소프트가 배급한 게임들의 캐릭터들이자\[5\] 새로운 캐릭터들이다.\[6\] 플레이어는 게임을 통해 두 명의 마스터 간 전환이 가능하며, 여기에서 사용되지 않은 마스터는 [체력을](https://ko.wikipedia.org/wiki/체력_\(게이밍\) "wikilink") 재생할 수 있다.\[7\] 사망 외에도 전환과 관련하여 쿨다운이 있다.\[8\] MXM 내의 플레이어는 [방향키와](https://ko.wikipedia.org/wiki/방향키_\(컴퓨터_자판\) "wikilink") [마우스](../Page/마우스.md "wikilink")를 사용하여 캐릭터를 움직이고 선택하지만 마우스만으로 캐릭터를 이동할 수 있는 옵션도 제공한다.\[9\]
 
 이 게임은 [SF](../Page/SF_\(장르\).md "wikilink") 특성이 있다.\[10\]
 

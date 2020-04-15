@@ -1,7 +1,11 @@
-> This article is converted from Wikipedia: [C. H. ](https://ko.wikipedia.org/wiki/C._H._).
+> This article is converted from Wikipedia: [C. H. 다드](https://ko.wikipedia.org/wiki/C._H._다드).
 
 
 **찰스 헤럴드 다드** (Charles Harold Dodd, 1884년 4월 7일 - 1973년 9월 21일)는 보통 C. H. 다드라고 부른다. [웨일스](../Page/웨일스.md "wikilink") 출신의 회중교회 목회자이며, 신약학자이며 가장 영향력있는 [프로테스탄트](../Page/개신교.md "wikilink") 신학자이다. 그는 [실현된 종말론을](https://ko.wikipedia.org/wiki/실현된_종말론 "wikilink") 주장한 학자로 잘 알려져 있다. 실현된 종말론이란 예수께서 [하나님의 나라를](https://ko.wikipedia.org/wiki/하나님의_나라 "wikilink") 언급한 것은 미래 종말 보다는 오히려 현재의 실재성를 의미한다고 믿는 것이다.\[1\] 그는 [아돌프 폰 하르나크](../Page/아돌프_폰_하르나크.md "wikilink"), [루돌프 오토](../Page/루돌프_오토.md "wikilink"), 그리고 [하이데거에게](../Page/마르틴_하이데거.md "wikilink") 큰 영향을 받았다. 하나님의 나라는 [예수](../Page/예수.md "wikilink")의 행동에서 이미(already) 시작되었고 용서하기 위한 하나님의 뜻이 계시되었다고 한다.
+
+## 유명한 경귀
+
+\[2\]
 
 ## 함께보기
 
@@ -61,3 +65,4 @@
 [분류:1884년 태어남](https://ko.wikipedia.org/wiki/분류:1884년_태어남 "wikilink") [분류:1973년 죽음](https://ko.wikipedia.org/wiki/분류:1973년_죽음 "wikilink") [분류:케임브리지 대학교 교수](https://ko.wikipedia.org/wiki/분류:케임브리지_대학교_교수 "wikilink") [분류:옥스퍼드 대학교 유니버시티 칼리지 동문](https://ko.wikipedia.org/wiki/분류:옥스퍼드_대학교_유니버시티_칼리지_동문 "wikilink") [분류:영국의 신학자](https://ko.wikipedia.org/wiki/분류:영국의_신학자 "wikilink")
 
 1.  Frederick William Dillistone, *C. H. Dodd, Interpreter of the New Testament*, 1977.
+2.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [LSI ](https://ko.wikipedia.org/wiki/LSI_).
+> This article is converted from Wikipedia: [LSI 코퍼레이션](https://ko.wikipedia.org/wiki/LSI_코퍼레이션).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:LSI-Logic-Logo.svg "wikilink") **LSI 코퍼레이션**(LSI Corporation)은 [산호세에](../Page/산호세_\(캘리포니아주\).md "wikilink") 위치한 [미국](../Page/미국.md "wikilink")의 기업의 하나로, 데이터 센터, 모바일 네트워크 클라이언트 컴퓨팅의 스토리지와 네트워킹을 가속화하는 반도체와 소프트웨어를 설계하였다.\[1\]\[2\]\[3\]

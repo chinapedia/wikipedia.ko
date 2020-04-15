@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Cpulist](https://ko.wikipedia.org/wiki/:Cpulist).
+> This article is converted from Wikipedia: [틀:Cpulist](https://ko.wikipedia.org/wiki/틀:Cpulist).
 
 
 <includeonly> {{\#ifeq:|head|{{(\!}} class="wikitable"}} =\!

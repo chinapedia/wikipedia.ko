@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TV](https://ko.wikipedia.org/wiki/TV).
+> This article is converted from Wikipedia: [키홀TV](https://ko.wikipedia.org/wiki/키홀TV).
 
 
 **키홀TV**(KeyHoleTV)는 [일본 텔레비전](https://ko.wikipedia.org/wiki/일본_텔레비전 "wikilink") 채널, 라디오 기지국, 사용자 모드 채널로 연결해주는 온라인 텔레비전 포털이다. 그러나 키홀TV는 매우 제한적으로 선별된 채널만 가지고 있는데, 이를테면 [TV 아사히](../Page/TV_아사히.md "wikilink"), [일본방송협회](../Page/일본방송협회.md "wikilink"), [후지 TV](../Page/후지_TV.md "wikilink"), [TBS](../Page/도쿄_방송_홀딩스.md "wikilink"), [TV 도쿄](../Page/TV_도쿄.md "wikilink"), [닛폰 TV가](../Page/닛폰_TV_방송망.md "wikilink") 있다. 대부분이 [아날로그 방송이며](../Page/아날로그_텔레비전.md "wikilink") 적용되는 채널 중 일부는 암호로 보호되어 있다. 한편으로 일본의 [AFN 도쿄 이글 810의](https://ko.wikipedia.org/wiki/AFN_도쿄_이글_810 "wikilink") [미군](../Page/미군.md "wikilink") AM 라디오 기지국을 가지고 있다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ \(macOS\)](https://ko.wikipedia.org/wiki/_\(macOS\)).
+> This article is converted from Wikipedia: [번들 \(macOS\)](https://ko.wikipedia.org/wiki/번들_\(macOS\)).
 
 
 [NeXTSTEP](../Page/NeXTSTEP.md "wikilink"), [OPENSTEP](https://ko.wikipedia.org/wiki/OPENSTEP "wikilink"), [GNUstep](https://ko.wikipedia.org/wiki/GNUstep "wikilink"), 그리고 이것들의 후손작이라 할 수 있는 [macOS](https://ko.wikipedia.org/wiki/macOS "wikilink")와 [iOS](https://ko.wikipedia.org/wiki/iOS "wikilink"), [tvOS](https://ko.wikipedia.org/wiki/tvOS "wikilink"), [watchOS](https://ko.wikipedia.org/wiki/watchOS "wikilink")에서의 **번들**(bundle)은 정의된 정와 파일 확장자를 갖는 [디렉터리](https://ko.wikipedia.org/wiki/디렉터리 "wikilink")로, 개념상 관련된 파일들을 모두 하나로 묶어주는 역할을 한다.

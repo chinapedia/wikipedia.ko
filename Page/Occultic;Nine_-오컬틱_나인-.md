@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Occultic\;Nine - -](https://ko.wikipedia.org/wiki/Occultic\;Nine_-_-).
+> This article is converted from Wikipedia: [Occultic\;Nine -오컬틱 나인-](https://ko.wikipedia.org/wiki/Occultic\;Nine_-오컬틱_나인-).
 
 
 《**Occultic;Nine**》(오컬틱 나인)은 [시쿠라 치요마루가](https://ko.wikipedia.org/wiki/시쿠라_치요마루 "wikilink") 집필한 [일본](../Page/일본.md "wikilink")의 [라이트 노벨이다](../Page/라이트_노벨.md "wikilink"). [일러스트는](../Page/삽화.md "wikilink") [pako](https://ko.wikipedia.org/wiki/pako "wikilink")가 담당하고 있다. [오버랩 문고에서](https://ko.wikipedia.org/wiki/오버랩_문고 "wikilink") [2014년](../Page/2014년.md "wikilink") 8월부터 간행되고 있다. 시쿠라의 첫 라이트 노벨 시리즈이기도 하다.\[1\]

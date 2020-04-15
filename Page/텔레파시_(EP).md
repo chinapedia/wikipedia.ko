@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ \(EP\)](https://ko.wikipedia.org/wiki/_\(EP\)).
+> This article is converted from Wikipedia: [텔레파시 \(EP\)](https://ko.wikipedia.org/wiki/텔레파시_\(EP\)).
 
 
 ## 수록곡

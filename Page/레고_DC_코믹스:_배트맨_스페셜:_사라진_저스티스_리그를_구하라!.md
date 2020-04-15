@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ DC :  :    !](https://ko.wikipedia.org/wiki/_DC_:__:____!).
+> This article is converted from Wikipedia: [레고 DC 코믹스: 배트맨 스페셜: 사라진 저스티스 리그를 구하라!](https://ko.wikipedia.org/wiki/레고_DC_코믹스:_배트맨_스페셜:_사라진_저스티스_리그를_구하라!).
 
 
 《**레고 DC 코믹스: 배트맨 스페셜: 사라진 저스티스 리그를 구하라\!**》()은 2014년 [미국](../Page/미국.md "wikilink") [카툰 네트워크](../Page/카툰_네트워크.md "wikilink") 채널에서 방영된 [레고 배트맨](https://ko.wikipedia.org/wiki/레고_배트맨 "wikilink") 스페셜 에피소드이다. [배트맨](../Page/배트맨.md "wikilink")이 자신에게 가입을 권유하러 온 [저스티스 리그가](https://ko.wikipedia.org/wiki/저스티스_리그 "wikilink") 행방불명되자 이들을 구출하러 간다는 내용이다.

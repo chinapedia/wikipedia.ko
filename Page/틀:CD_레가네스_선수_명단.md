@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:CD   ](https://ko.wikipedia.org/wiki/:CD___).
+> This article is converted from Wikipedia: [틀:CD 레가네스 선수 명단](https://ko.wikipedia.org/wiki/틀:CD_레가네스_선수_명단).
 
 
 <onlyinclude></onlyinclude>

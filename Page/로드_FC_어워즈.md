@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ FC ](https://ko.wikipedia.org/wiki/_FC_).
+> This article is converted from Wikipedia: [로드 FC 어워즈](https://ko.wikipedia.org/wiki/로드_FC_어워즈).
 
 
 **로드 FC 어워즈**는 대한민국의 [종합격투기](../Page/종합격투기.md "wikilink") 단체 [로드 FC가](https://ko.wikipedia.org/wiki/로드_FC "wikilink") 매년 12월 개최하는 시상식이다.
@@ -172,7 +172,7 @@
 | 부문         | 수상자                                                                               |
 | ---------- | --------------------------------------------------------------------------------- |
 | **올해의 경기** | [권아솔](../Page/권아솔.md "wikilink") VS [이광희](../Page/이광희_\(종합격투기_선수\).md "wikilink") |
-| **올해의 KO** | 카를로스 도요타 (vs. [최홍만](https://ko.wikipedia.org/wiki/최홍만 "wikilink"))                |
+| **올해의 KO** | 카를로스 도요타 (vs. [최홍만](../Page/최홍만.md "wikilink"))                                   |
 | **올해의 신인** | [이예지](../Page/이예지.md "wikilink")                                                  |
 
 ## 2014 로드 FC 어워즈

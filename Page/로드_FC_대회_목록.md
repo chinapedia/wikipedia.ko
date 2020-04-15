@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ FC  ](https://ko.wikipedia.org/wiki/_FC__).
+> This article is converted from Wikipedia: [로드 FC 대회 목록](https://ko.wikipedia.org/wiki/로드_FC_대회_목록).
 
 
 [right](https://ko.wikipedia.org/wiki/파일:Seung_Yeon_Kim_vs._Alexander_Merezhk,_Road_FC_043.jpg "wikilink")
@@ -213,7 +213,7 @@
 <tr class="even">
 <td><p>36</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/Road_FC_033" title="wikilink">Road FC 033</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/최홍만" title="wikilink">최홍만</a> vs. <a href="https://ko.wikipedia.org/wiki/마이티_모" title="wikilink">마이티 모</a></p></td>
+<td><p><a href="../Page/최홍만.md" title="wikilink">최홍만</a> vs. <a href="https://ko.wikipedia.org/wiki/마이티_모" title="wikilink">마이티 모</a></p></td>
 <td><p>2016년 09월 24일</p></td>
 <td><p><a href="../Page/장충체육관.md" title="wikilink">장충체육관</a></p></td>
 <td><p><a href="../Page/서울특별시.md" title="wikilink">서울특별시</a></p></td>
@@ -237,7 +237,7 @@
 <tr class="odd">
 <td><p>33</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/Road_FC_030" title="wikilink">Road FC 030:</a> <a href="https://ko.wikipedia.org/wiki/Road_FC_027" title="wikilink">In China</a></p></td>
-<td><p>아오르꺼러 vs. <a href="https://ko.wikipedia.org/wiki/최홍만" title="wikilink">최홍만</a></p></td>
+<td><p>아오르꺼러 vs. <a href="../Page/최홍만.md" title="wikilink">최홍만</a></p></td>
 <td><p>2016년 04월 16일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/베이징_공인체육장" title="wikilink">베이징 공인체육관</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/베이징_시" title="wikilink">베이징</a></p></td>
@@ -261,9 +261,9 @@
 <tr class="even">
 <td><p>30</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/Road_FC_027" title="wikilink">Road FC 027: In China</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/최홍만" title="wikilink">최홍만</a> vs. 루오췐차오</p></td>
+<td><p><a href="../Page/최홍만.md" title="wikilink">최홍만</a> vs. 루오췐차오</p></td>
 <td><p>2015년 12월 26일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/상하이_오리엔탈_스포츠_센터" title="wikilink">상하이 오리엔탈 스포츠 센터</a></p></td>
+<td><p><a href="../Page/상하이_오리엔탈_스포츠_센터.md" title="wikilink">상하이 오리엔탈 스포츠 센터</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/상하이" title="wikilink">상하이</a></p></td>
 </tr>
 <tr class="odd">
@@ -532,7 +532,7 @@
   - [스자좡](https://ko.wikipedia.org/wiki/스자좡 "wikilink") (2)
       - 허베이 체육관 (2)
   - [상하이](https://ko.wikipedia.org/wiki/상하이 "wikilink") (1)
-      - [상하이 오리엔탈 스포츠 센터](https://ko.wikipedia.org/wiki/상하이_오리엔탈_스포츠_센터 "wikilink") (1)
+      - [상하이 오리엔탈 스포츠 센터](../Page/상하이_오리엔탈_스포츠_센터.md "wikilink") (1)
   - [베이징](https://ko.wikipedia.org/wiki/베이징 "wikilink") (1)
       - [베이징 공인체육관](../Page/베이징_노동자_스포츠_센터.md "wikilink") (1)
   - [창사](https://ko.wikipedia.org/wiki/창사 "wikilink") (1)

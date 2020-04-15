@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [JET \(\)](https://ko.wikipedia.org/wiki/JET_\(\)).
+> This article is converted from Wikipedia: [JET \(우주선\)](https://ko.wikipedia.org/wiki/JET_\(우주선\)).
 
 
 **JET**는 엔셀라두스와 타이탄을 탐사하는 탐사선이다.\[1\]\[2\]\[3\] 목적은 엔셀라두스와 타이탄의 기원을 알아내는 것이다.\[4\]\[5\]

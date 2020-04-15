@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [V-  ](https://ko.wikipedia.org/wiki/V-__).
+> This article is converted from Wikipedia: [V-리그 경기장 목록](https://ko.wikipedia.org/wiki/V-리그_경기장_목록).
 
 
 다음은 대한민국의 배구 리그인 [V-리그에서](../Page/V-리그_\(대한민국\).md "wikilink") 사용 중인 경기장의 목록이다.

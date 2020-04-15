@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [1993 UNCAF ](https://ko.wikipedia.org/wiki/1993_UNCAF_).
+> This article is converted from Wikipedia: [1993년 UNCAF 네이션스컵](https://ko.wikipedia.org/wiki/1993년_UNCAF_네이션스컵).
 
 
 **1993년 UNCAF 네이션스컵**(1993 UNCAF Nations Cup)은 [중앙아메리카 축구 연맹에서](https://ko.wikipedia.org/wiki/중앙아메리카_축구_연맹 "wikilink") 주최한 2번째 [UNCAF 네이션스컵](https://ko.wikipedia.org/wiki/UNCAF_네이션스컵 "wikilink") 대회로 [1993년](../Page/1993년.md "wikilink") [3월 5일부터](../Page/3월_5일.md "wikilink") [3월 9일까지](../Page/3월_9일.md "wikilink") [온두라스](../Page/온두라스.md "wikilink")에서 개최되었다. 이 대회는 [1993년 CONCACAF 골드컵의](../Page/1993년_CONCACAF_골드컵.md "wikilink") 중앙아메리카 예선을 겸한다.

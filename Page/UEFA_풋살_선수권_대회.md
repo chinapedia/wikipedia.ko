@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [UEFA   ](https://ko.wikipedia.org/wiki/UEFA___).
+> This article is converted from Wikipedia: [UEFA 풋살 선수권 대회](https://ko.wikipedia.org/wiki/UEFA_풋살_선수권_대회).
 
 
 **UEFA 풋살 선수권 대회**(UEFA Futsal Championship)는 [유럽 축구 연맹](../Page/유럽_축구_연맹.md "wikilink")(UEFA)이 주관하는 [풋살](../Page/풋살.md "wikilink") 국가대표팀 간의 국가대항전이다. 흔히 **풋살 유로 ○○○○**(개최 연도)이라 불린다.

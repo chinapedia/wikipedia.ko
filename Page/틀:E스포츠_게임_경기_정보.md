@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:E   ](https://ko.wikipedia.org/wiki/:E___).
+> This article is converted from Wikipedia: [틀:E스포츠 게임 경기 정보](https://ko.wikipedia.org/wiki/틀:E스포츠_게임_경기_정보).
 
 
 <onlyinclude>\<div style="width: ; background-color: ; clear:both" class="vevent" {{\#if:|id={{\#ifeq:|" ||""}} }}\><span class="summary" style="display: none;"> v </span>

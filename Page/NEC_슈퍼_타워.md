@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [NEC  ](https://ko.wikipedia.org/wiki/NEC__).
+> This article is converted from Wikipedia: [NEC 슈퍼 타워](https://ko.wikipedia.org/wiki/NEC_슈퍼_타워).
 
 
 **NEC 슈퍼 타워**(, )는 [도쿄도](../Page/도쿄도.md "wikilink") [미나토구에](../Page/미나토구_\(도쿄도\).md "wikilink") 있는 [일본](../Page/일본.md "wikilink")의 [마천루](../Page/마천루.md "wikilink")이다. 높이는 180m, 지상 43층과 지하 4층으로 돼있다. 이 빌딩에는 [닛폰 전기](../Page/닛폰_전기.md "wikilink")(NEC) 본사가 입주하면서 **닛폰 전기 본사 빌딩**()이라고 불리기도 한다.

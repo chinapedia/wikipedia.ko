@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:STM  ](https://ko.wikipedia.org/wiki/:STM__).
+> This article is converted from Wikipedia: [틀:STM 파란색 선](https://ko.wikipedia.org/wiki/틀:STM_파란색_선).
 
 
 <noinclude>

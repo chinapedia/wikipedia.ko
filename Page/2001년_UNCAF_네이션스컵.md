@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [2001 UNCAF ](https://ko.wikipedia.org/wiki/2001_UNCAF_).
+> This article is converted from Wikipedia: [2001년 UNCAF 네이션스컵](https://ko.wikipedia.org/wiki/2001년_UNCAF_네이션스컵).
 
 
 **2001년 UNCAF 네이션스컵**(2001 UNCAF Nations Cup)은 [중앙아메리카 축구 연맹에서](https://ko.wikipedia.org/wiki/중앙아메리카_축구_연맹 "wikilink") 주최한 6번째 [UNCAF 네이션스컵](https://ko.wikipedia.org/wiki/UNCAF_네이션스컵 "wikilink") 대회로 [2001년](../Page/2001년.md "wikilink") [5월 23일부터](../Page/5월_23일.md "wikilink") [6월 3일까지](../Page/6월_3일.md "wikilink") [온두라스](../Page/온두라스.md "wikilink")에서 개최되었다. 이 대회는 [2002년 CONCACAF 골드컵의](../Page/2002년_CONCACAF_골드컵.md "wikilink") 중앙아메리카 예선을 겸한다.

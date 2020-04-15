@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [RBW ](https://ko.wikipedia.org/wiki/RBW_).
+> This article is converted from Wikipedia: [RBW의 음반](https://ko.wikipedia.org/wiki/RBW의_음반).
 
 
 이 문서는 [RBW](../Page/RBW.md "wikilink")에서 발매한 음반 목록이다. 힙합 레이블인 All Right Music과 산하 레이블인 Cloud R하고 같이 넣을 수도 있다.
@@ -207,9 +207,14 @@
   - 2020년 1월 28일 마마무 - **낭만닥터 김사부 2 OST Part.6**
   - 2020년 2월 4일 문별 - **\[Digital Single\] 낯선 날**\[46\]
   - 2020년 2월 14일 문별 - **Dark Side of the Moon**
+  - 2020년 2월 18일 [황성진](https://ko.wikipedia.org/wiki/황성진_\(작사가\) "wikilink") - **\[Digital Single\] 황성진 프로젝트 Secondary Words Vol.1**
   - 2020년 2월 15일 오브로젝트 - **\[Digital Single\] 두고 온 게 있어**
   - 2020년 2월 23일 런치박스 - **\[Digital Single\] 예쁘다**
-  - 2020년 3월 ?일 화사 - **미정**
+  - 2020년 3월 10일 런치박스 - **\[Digital Single\] 다시 봄이**
+  - 2020년 3월 12일 황성진 - **\[Digital Single\] 황성진 프로젝트 Secondary Words Vol.2**
+  - 2020년 3월 20일 진주 - **\[Digital Single\] 사랑의 끝은 항상 아프죠**
+  - 2020년 3월 24일 원어스 - **\[Digital Single\] IN ITS TIME**
+  - 2020년 4월 2일 원위 - **\[Digital Single\] 3/4**
 
 ## 각주
 

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  vs. ](https://ko.wikipedia.org/wiki/__vs._).
+> This article is converted from Wikipedia: [특수전대 데카레인저 vs. 아바레인저](https://ko.wikipedia.org/wiki/특수전대_데카레인저_vs._아바레인저).
 
 
 《**특수전대 데카레인저 vs. 아바케인저**》(特捜戦隊デカレンジャーVSアバレンジャー)는 [2005년](../Page/2005년.md "wikilink") [3월 31일에](../Page/3월_31일.md "wikilink") 발매(발매에 앞선 그 해 [3월 11일에](../Page/3월_11일.md "wikilink") 임대 시작\[1\])된 오리지널 비디오 작품이다. 《[특수전대 데카레인저](../Page/특수전대_데카레인저.md "wikilink")》의 오리지널 비디오 작품이며, 슈퍼 전대 VS시리즈의 하나이다.

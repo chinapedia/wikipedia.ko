@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [   SS-GB](https://ko.wikipedia.org/wiki/___SS-GB).
+> This article is converted from Wikipedia: [나치 영국 지부 SS-GB](https://ko.wikipedia.org/wiki/나치_영국_지부_SS-GB).
 
 
 **나치 영국 지부 SS-GB**(SS-GB)는 [2017년](../Page/2017년.md "wikilink") [2월 19일부터](../Page/2월_19일.md "wikilink") [2017년](../Page/2017년.md "wikilink") [3월 19일까지](../Page/3월_19일.md "wikilink") 영국 [BBC One에서](../Page/BBC_One.md "wikilink") 방영했던 1978년에 출간된 렌 디톤의 동명소설(SS-GB)를 원작으로 한 드라마이다.

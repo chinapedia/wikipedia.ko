@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [GNU ](https://ko.wikipedia.org/wiki/GNU_).
+> This article is converted from Wikipedia: [GNU 유니폰트](https://ko.wikipedia.org/wiki/GNU_유니폰트).
 
 
 [오른쪽](https://ko.wikipedia.org/wiki/파일:GNUUnifontDemonstration.png "wikilink") 로만 치보라(Roman Czyborra)\[1\]가 디자인한 GNU 유니폰트(GNU Unifont)는 중간 비트맵 글꼴 형식을 사용하여 전체 [유니코드](../Page/유니코드.md "wikilink") BMP ( Basic Multilingual Plane)을 다루는 무료 [비트맵](https://ko.wikipedia.org/wiki/비트맵 "wikilink") 글꼴이다.

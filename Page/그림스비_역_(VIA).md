@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  \(VIA\)](https://ko.wikipedia.org/wiki/__\(VIA\)).
+> This article is converted from Wikipedia: [그림스비 역 \(VIA\)](https://ko.wikipedia.org/wiki/그림스비_역_\(VIA\)).
 
 
 **그림스비 역** (Grimsby Station) 은 [캐나다](../Page/캐나다.md "wikilink") [온타리오주](https://ko.wikipedia.org/wiki/온타리오주 "wikilink") [그림스비에](https://ko.wikipedia.org/wiki/그림스비_\(온타리오주\) "wikilink") 있는 [캐나다 내셔널 철도](https://ko.wikipedia.org/wiki/캐나다_내셔널_철도 "wikilink") 그림스비 선의 철도역으로, [토론토](../Page/토론토.md "wikilink")와 [뉴욕](../Page/뉴욕.md "wikilink")을 잇는 [메이플 리프](../Page/메이플_리프_\(열차\).md "wikilink") 열차가 정차하는 역이다.

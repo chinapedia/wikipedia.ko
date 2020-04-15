@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ I:   ](https://ko.wikipedia.org/wiki/_I:___).
+> This article is converted from Wikipedia: [이스 I: 에인션트 이스 배니시드](https://ko.wikipedia.org/wiki/이스_I:_에인션트_이스_배니시드).
 
 
 《**이스 I: 에인션트 이스 배니시드**》(, 이스 I: 잃어버린 고대왕국 이스)는 [니혼 팔콤이](../Page/니혼_팔콤.md "wikilink") 제작한 [액션 롤플레잉 게임이다](https://ko.wikipedia.org/wiki/액션_롤플레잉_게임 "wikilink"). 팔콤의 숙련 프로그래머였던 [하시모토 마사야와](https://ko.wikipedia.org/wiki/하시모토_마사야 "wikilink") 시나리오 작가 [미야자키 토모요시가](https://ko.wikipedia.org/wiki/미야자키_토모요시 "wikilink") 협력해 만든 게임으로, [PC-8801](https://ko.wikipedia.org/wiki/PC-8801 "wikilink")용 컴퓨터 소프트웨어로 개발해 1987년 6월 21일 처음 발매되고 [샤프 X1](https://ko.wikipedia.org/wiki/샤프_X1 "wikilink"), [PC-9801](https://ko.wikipedia.org/wiki/PC-9801 "wikilink"), [FM-7](https://ko.wikipedia.org/wiki/FM-7 "wikilink") 및 [MSX2](https://ko.wikipedia.org/wiki/MSX2 "wikilink")같은 일본제 컴퓨터로 이식됐다.

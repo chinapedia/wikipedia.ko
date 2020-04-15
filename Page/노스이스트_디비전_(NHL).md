@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  \(NHL\)](https://ko.wikipedia.org/wiki/__\(NHL\)).
+> This article is converted from Wikipedia: [노스이스트 디비전 \(NHL\)](https://ko.wikipedia.org/wiki/노스이스트_디비전_\(NHL\)).
 
 
 **노스이스트 디비전** (Northeast Division)은 1993년부터 2013년까지 [NHL에](../Page/내셔널_하키_리그.md "wikilink") 존재했던 디비전이다.

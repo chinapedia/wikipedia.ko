@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  \(MBTA\)](https://ko.wikipedia.org/wiki/__\(MBTA\)).
+> This article is converted from Wikipedia: [실버 라인 \(MBTA\)](https://ko.wikipedia.org/wiki/실버_라인_\(MBTA\)).
 
 
 **실버 라인**(Silver line)은 [보스턴](../Page/보스턴.md "wikilink")의 [간선급행버스체계](../Page/간선급행버스체계.md "wikilink")(BRT) 노선이다. 현재는 별도의 단계로 구축된 두 개의 구간에서 네 개의 경로를 운영한다.
@@ -57,7 +57,7 @@ SL1 및 SL2를 이용하는 승객들은 일반 [MBTA 지하철](https://ko.wiki
 <a href="https://ko.wikipedia.org/wiki/:en:South_Station_(MBTA_subway_station)" title="wikilink">South Station</a></p></td>
 <td><p>SL1 &amp; SL2</p></td>
 <td><p>2004년 12월 17일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/레드_라인_(MBTA)" title="wikilink">레드 라인</a>, 실버 라인 SL4, <a href="../Page/MBTA_커뮤터_레일.md" title="wikilink">MBTA 커뮤터 레일</a>, <a href="../Page/암트랙.md" title="wikilink">암트랙</a>, 시내 및 시외 버스</p></td>
+<td><p><a href="../Page/레드_라인_(MBTA).md" title="wikilink">레드 라인</a>, 실버 라인 SL4, <a href="../Page/MBTA_커뮤터_레일.md" title="wikilink">MBTA 커뮤터 레일</a>, <a href="../Page/암트랙.md" title="wikilink">암트랙</a>, 시내 및 시외 버스</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/사우스보스턴" title="wikilink">사우스보스턴</a></p></td>
@@ -203,7 +203,7 @@ Design Center</p></td>
 
 #### 요금
 
-SL1 및 SL2를 이용하는 승객들은 일반 [MBTA 지하철](https://ko.wikipedia.org/wiki/보스턴_지하철 "wikilink") 요금을 지불하는데, SL4 및 SL5를 이용하는 승객들은 일반 [MBTA 버스](../Page/MBTA_버스.md "wikilink") 요금을 지불한다. [찰리카드](https://ko.wikipedia.org/wiki/찰리카드 "wikilink")는 1.7 달러, 찰리티켓과 현금은 2 달러를 지불한다. 일부 역에서 실버 라인에서 지하철([레드](https://ko.wikipedia.org/wiki/레드_라인_\(MBTA\) "wikilink"), [그린](../Page/그린_라인_\(MBTA\).md "wikilink"), [오렌지](https://ko.wikipedia.org/wiki/오렌지_라인_\(MBTA\) "wikilink") 라인)로 승차하여 찰리카드를 사용할 때 추가로 50 센트를 지불한다. 해당 같은 역에서, 승객은 무료로 지하철에서 실버 라인으로 무료 환승이 가능하다.\[9\]
+SL1 및 SL2를 이용하는 승객들은 일반 [MBTA 지하철](https://ko.wikipedia.org/wiki/보스턴_지하철 "wikilink") 요금을 지불하는데, SL4 및 SL5를 이용하는 승객들은 일반 [MBTA 버스](../Page/MBTA_버스.md "wikilink") 요금을 지불한다. [찰리카드](https://ko.wikipedia.org/wiki/찰리카드 "wikilink")는 1.7 달러, 찰리티켓과 현금은 2 달러를 지불한다. 일부 역에서 실버 라인에서 지하철([레드](../Page/레드_라인_\(MBTA\).md "wikilink"), [그린](../Page/그린_라인_\(MBTA\).md "wikilink"), [오렌지](https://ko.wikipedia.org/wiki/오렌지_라인_\(MBTA\) "wikilink") 라인)로 승차하여 찰리카드를 사용할 때 추가로 50 센트를 지불한다. 해당 같은 역에서, 승객은 무료로 지하철에서 실버 라인으로 무료 환승이 가능하다.\[9\]
 
 #### 차량
 
@@ -312,14 +312,14 @@ SL1 및 SL2를 이용하는 승객들은 일반 [MBTA 지하철](https://ko.wiki
 <td><p><a href="https://ko.wikipedia.org/wiki/다운타운_크로싱_역" title="wikilink">다운타운 크로싱</a><br />
 <a href="https://ko.wikipedia.org/wiki/:en:Downtown_Crossing_(MBTA_station)" title="wikilink">Downtown Crossing</a></p></td>
 <td><p>SL5</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/레드_라인_(MBTA)" title="wikilink">레드 라인</a>, <a href="https://ko.wikipedia.org/wiki/오렌지_라인_(MBTA)" title="wikilink">오렌지 라인</a>; <a href="https://ko.wikipedia.org/wiki/파크_스트리트_역" title="wikilink">파크 스트리트 역에서</a> <a href="../Page/그린_라인_(MBTA).md" title="wikilink">그린 라인과도</a> 환승 가능</p></td>
+<td><p><a href="../Page/레드_라인_(MBTA).md" title="wikilink">레드 라인</a>, <a href="https://ko.wikipedia.org/wiki/오렌지_라인_(MBTA)" title="wikilink">오렌지 라인</a>; <a href="https://ko.wikipedia.org/wiki/파크_스트리트_역" title="wikilink">파크 스트리트 역에서</a> <a href="../Page/그린_라인_(MBTA).md" title="wikilink">그린 라인과도</a> 환승 가능</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/다운타운_보스턴" title="wikilink">다운타운 보스턴</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/보스턴_사우스_역_(지하철)" title="wikilink">보스턴 사우스 역</a><br />
 <a href="https://ko.wikipedia.org/wiki/:en:South_Station_(MBTA_subway_station)" title="wikilink">South Station</a></p></td>
 <td><p>SL4</p></td>
-<td><p>실버 라인 SL1 (로건 공항), SL2, <a href="https://ko.wikipedia.org/wiki/레드_라인_(MBTA)" title="wikilink">레드 라인</a>, <a href="../Page/MBTA_커뮤터_레일.md" title="wikilink">MBTA 커뮤터 레일</a>, <a href="../Page/암트랙.md" title="wikilink">암트랙</a> 시내 및 시외 버스. 실버 라인 정류장은 2009년 10월 13일에 개장했다.[12]</p></td>
+<td><p>실버 라인 SL1 (로건 공항), SL2, <a href="../Page/레드_라인_(MBTA).md" title="wikilink">레드 라인</a>, <a href="../Page/MBTA_커뮤터_레일.md" title="wikilink">MBTA 커뮤터 레일</a>, <a href="../Page/암트랙.md" title="wikilink">암트랙</a> 시내 및 시외 버스. 실버 라인 정류장은 2009년 10월 13일에 개장했다.[12]</p></td>
 </tr>
 </tbody>
 </table>

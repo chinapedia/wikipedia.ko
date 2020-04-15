@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  \(WHA\)](https://ko.wikipedia.org/wiki/__\(WHA\)).
+> This article is converted from Wikipedia: [휴스턴 에어로스 \(WHA\)](https://ko.wikipedia.org/wiki/휴스턴_에어로스_\(WHA\)).
 
 
 **데이턴 애로우스**/**휴스턴 에어로스**(Dayton Arrows/Houston Aeros)는 1972년부터 1978년까지 [텍사스주](../Page/텍사스주.md "wikilink") [휴스턴](../Page/휴스턴.md "wikilink")을 연고지로 하는 [WHA](../Page/월드_하키_협회.md "wikilink") 소속 아이스 하키팀이다.

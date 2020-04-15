@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ICD-10  V:    ](https://ko.wikipedia.org/wiki/ICD-10__V:____).
+> This article is converted from Wikipedia: [ICD-10 챕터 V: 정신 및 행동 장애](https://ko.wikipedia.org/wiki/ICD-10_챕터_V:_정신_및_행동_장애).
 
 
 **[ICD-10](../Page/ICD-10.md "wikilink")** 목록의 5번째 챕터이다. F00\~F99까지를 포괄하며, 정신 및 행동 장애(Mental and behavioural disorders)에 관한 것이다.
@@ -394,6 +394,6 @@
 ## 같이 보기
 
   - [ICD-10](../Page/ICD-10.md "wikilink")
-  - [DSM-5](https://ko.wikipedia.org/wiki/DSM-5 "wikilink")
+  - [DSM-5](../Page/DSM-5.md "wikilink")
 
 [분류:국제질병분류](https://ko.wikipedia.org/wiki/분류:국제질병분류 "wikilink")

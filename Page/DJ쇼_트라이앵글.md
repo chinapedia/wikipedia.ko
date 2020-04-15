@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [DJ ](https://ko.wikipedia.org/wiki/DJ_).
+> This article is converted from Wikipedia: [DJ쇼 트라이앵글](https://ko.wikipedia.org/wiki/DJ쇼_트라이앵글).
 
 
 《**DJ쇼 트라이앵글**》은 [2017년](../Page/2017년.md "wikilink") [5월 28일부터](../Page/5월_28일.md "wikilink") [2017년](../Page/2017년.md "wikilink") [7월 30일까지](../Page/7월_30일.md "wikilink") [SBS TV에서](../Page/SBS_TV.md "wikilink") 방영된 [음악 프로그램이다](https://ko.wikipedia.org/wiki/음악_프로그램 "wikilink").

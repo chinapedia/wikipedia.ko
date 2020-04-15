@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [T \( \)](https://ko.wikipedia.org/wiki/T_\(_\)).
+> This article is converted from Wikipedia: [T \(동방신기의 음반\)](https://ko.wikipedia.org/wiki/T_\(동방신기의_음반\)).
 
 
 | 이 앨범에 수록된 싱글                                                                  |

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ BLK](https://ko.wikipedia.org/wiki/_BLK).
+> This article is converted from Wikipedia: [레이 BLK](https://ko.wikipedia.org/wiki/레이_BLK).
 
 
 **레이 BLK**(Ray BLK, [1993년](../Page/1993년.md "wikilink") [8월 2일](../Page/8월_2일.md "wikilink") \~ )는 [잉글랜드](../Page/잉글랜드.md "wikilink")의 [싱어송라이터](https://ko.wikipedia.org/wiki/싱어송라이터 "wikilink")이다. [BBC](https://ko.wikipedia.org/wiki/BBC "wikilink") [사운드 오브 2017](../Page/사운드_오브....md "wikilink") 우승자이다.

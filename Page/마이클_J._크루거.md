@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ J. ](https://ko.wikipedia.org/wiki/_J._).
+> This article is converted from Wikipedia: [마이클 J. 크루거](https://ko.wikipedia.org/wiki/마이클_J._크루거).
 
 
 **마이클 J. 크루거**(Michael J. Kruger)는 미국 [샬럿](../Page/샬럿.md "wikilink")에 있는 [리폼드 신학교에서](../Page/리폼드_신학교.md "wikilink") [신약성경](../Page/신약성경.md "wikilink")과 초대교회사 교수이며 총장이다. 그는 [미국 장로교회총회](https://ko.wikipedia.org/wiki/미국_장로교회 "wikilink")(PCA)에서 안수를 받았으며, 샬럿 도시에서 사역 목회를 하고 있다.\[1\]

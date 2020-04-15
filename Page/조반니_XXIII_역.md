@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ XXIII ](https://ko.wikipedia.org/wiki/_XXIII_).
+> This article is converted from Wikipedia: [조반니 XXIII 역](https://ko.wikipedia.org/wiki/조반니_XXIII_역).
 
 
 **조반니 XXIII** (Giovanni XXIII, 조반니 벤티트레) 역은 이탈리아 시칠리아 섬 [카타니아](../Page/카타니아.md "wikilink")의 [카타니아 지하철에](../Page/카타니아_지하철.md "wikilink") 속한 역이다. [2016년](../Page/2016년.md "wikilink")에 개통되었다. 2면으로 된 승강장 구조를 지니고 있으며 [갈라테아](../Page/갈라테아_역.md "wikilink")-[카타니아 공항](https://ko.wikipedia.org/wiki/카타니아-폰타나로사_공항 "wikilink") 사이를 잇는 역 중 하나다.

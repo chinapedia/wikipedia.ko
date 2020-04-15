@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ X](https://ko.wikipedia.org/wiki/_X).
+> This article is converted from Wikipedia: [랠리 X](https://ko.wikipedia.org/wiki/랠리_X).
 
 
 《**랠리 X**》(ラリーX, Rally-X)는 [남코](../Page/남코.md "wikilink")가 아케이드용으로 출시한 스크롤링 형태의 [미로](https://ko.wikipedia.org/wiki/미로 "wikilink")를 배경으로 하는 [경주 게임의](https://ko.wikipedia.org/wiki/경주_게임 "wikilink") 하나로, 1980년에 미국 제조업체를 위해 [미드웨이 게임스에](../Page/미드웨이_게임스.md "wikilink") 라이선스하였고 1981년에 배포하였다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [6 TV   ](https://ko.wikipedia.org/wiki/6_TV___).
+> This article is converted from Wikipedia: [6회 TV 바둑 아시아 선수권대회](https://ko.wikipedia.org/wiki/6회_TV_바둑_아시아_선수권대회).
 
 
 **6회 TV 바둑 아시아 선수권대회**는 [대한민국](../Page/대한민국.md "wikilink"), [중국](../Page/중국.md "wikilink"), [일본](../Page/일본.md "wikilink")의 속기전 상위 입상자가 참가한 바둑 기전이다. 결승에서는 [일본](../Page/일본.md "wikilink")의 [오타케 히데오가](../Page/오타케_히데오.md "wikilink") [중국](../Page/중국.md "wikilink")의 [첸위핑](https://ko.wikipedia.org/wiki/첸위핑 "wikilink")을 꺾고 우승했다.

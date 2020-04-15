@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [JTBC ](https://ko.wikipedia.org/wiki/JTBC_).
+> This article is converted from Wikipedia: [JTBC 드라마페스타](https://ko.wikipedia.org/wiki/JTBC_드라마페스타).
 
 
 《**JTBC 드라마페스타**》는 [JTBC](../Page/JTBC.md "wikilink")의 [단막극](https://ko.wikipedia.org/wiki/단막극 "wikilink") [드라마](https://ko.wikipedia.org/wiki/드라마 "wikilink") 프로그램이다. [드라마](https://ko.wikipedia.org/wiki/드라마 "wikilink")와 [축제](../Page/축제.md "wikilink")의 합성어로 소재, 장르, 플랫폼, 형식, 분량에 구애받지 않는다.
@@ -140,7 +140,7 @@
 <tr class="odd">
 <td><p>2월 17일 ~ 2월18일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/안녕_드라큘라" title="wikilink">안녕 드라큘라</a></p></td>
-<td><p><a href="../Page/서현_(가수).md" title="wikilink">서현</a>, 이지현, <a href="https://ko.wikipedia.org/wiki/이주빈" title="wikilink">이주빈</a>, 고나희,<br />
+<td><p><a href="../Page/서현_(가수).md" title="wikilink">서현</a>, 이지현, <a href="../Page/이주빈.md" title="wikilink">이주빈</a>, 고나희,<br />
 서은율</p></td>
 <td><p>하정윤</p></td>
 <td><p>김다예</p></td>

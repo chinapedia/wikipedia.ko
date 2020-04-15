@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [HOLA HOLA \( \)](https://ko.wikipedia.org/wiki/HOLA_HOLA_\(_\)).
+> This article is converted from Wikipedia: [HOLA HOLA \(카드의 음반\)](https://ko.wikipedia.org/wiki/HOLA_HOLA_\(카드의_음반\)).
 
 
 《**HOLA HOLA**》는 대한민국의 혼성그룹 [KARD의](../Page/카드_\(음악_그룹\).md "wikilink") 데뷔 앨범 이자 첫 번째 미니 앨범이다. 2017년 7월 19일에 발매했으며, 타이틀곡은 **Hola Hola** 이다.[스페인어](../Page/스페인어.md "wikilink")로 ‘안녕’이라는 뜻이다. 그리고, KARD 가 처음 인사드리는 앨범이란 의미면서 중의적인 의미로 높이 올라가자 뜻을 담고있다.\[1\]

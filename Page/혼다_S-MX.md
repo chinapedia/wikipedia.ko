@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ S-MX](https://ko.wikipedia.org/wiki/_S-MX).
+> This article is converted from Wikipedia: [혼다 S-MX](https://ko.wikipedia.org/wiki/혼다_S-MX).
 
 
 [thumb](https://ko.wikipedia.org/wiki/파일:Honda_S-MX_003.JPG "wikilink") [thumb](https://ko.wikipedia.org/wiki/파일:Honda_S_MX_1999.jpg "wikilink") [thumb](https://ko.wikipedia.org/wiki/파일:Honda_S-MX_Facelift.jpg "wikilink")

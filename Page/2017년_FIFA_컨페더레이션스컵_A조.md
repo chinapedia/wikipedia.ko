@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [2017 FIFA  A](https://ko.wikipedia.org/wiki/2017_FIFA__A).
+> This article is converted from Wikipedia: [2017년 FIFA 컨페더레이션스컵 A조](https://ko.wikipedia.org/wiki/2017년_FIFA_컨페더레이션스컵_A조).
 
 
 **[2017년 FIFA 컨페더레이션스컵](../Page/2017년_FIFA_컨페더레이션스컵.md "wikilink") A조**는 2017년 6월 17일부터 24일까지 열린다. A조는 [러시아](../Page/러시아_축구_국가대표팀.md "wikilink"), [뉴질랜드](../Page/뉴질랜드_축구_국가대표팀.md "wikilink"), [포르투갈](../Page/포르투갈_축구_국가대표팀.md "wikilink"), [멕시코로](../Page/멕시코_축구_국가대표팀.md "wikilink") 구성되었다. 4개의 팀들 중 상위 2개의 팀이 4강전에 진출한다.\[1\]

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  FC](https://ko.wikipedia.org/wiki/__FC).
+> This article is converted from Wikipedia: [아락스 아라라트 FC](https://ko.wikipedia.org/wiki/아락스_아라라트_FC).
 
 
 **아락스 아라라트 FC**(, )는 [아라라트를](https://ko.wikipedia.org/wiki/아라라트_\(도시\) "wikilink") 연고로 하던 [아르메니아](../Page/아르메니아.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다.

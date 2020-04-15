@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ act-age](https://ko.wikipedia.org/wiki/_act-age).
+> This article is converted from Wikipedia: [액터쥬 act-age](https://ko.wikipedia.org/wiki/액터쥬_act-age).
 
 
 《**액터쥬 act-age**》()는 [2018년](../Page/2018년.md "wikilink") [1월 22일부터](../Page/1월_22일.md "wikilink")\[1\] 「[주간 소년 점프](../Page/주간_소년_점프.md "wikilink")」에서 연재되고 있는 [일본](../Page/일본.md "wikilink")의 마쯔키 타쯔야() 원작의 우사 자키하라()가 그린 만화로, [메소드](https://ko.wikipedia.org/wiki/메소드 "wikilink") 연기의 천재 여고생 요나기가 스타즈에 들어가면서 겪게 되는 배우로서의 이야기를 그리고 있다.

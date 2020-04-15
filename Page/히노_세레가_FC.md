@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  FC](https://ko.wikipedia.org/wiki/__FC).
+> This article is converted from Wikipedia: [히노 세레가 FC](https://ko.wikipedia.org/wiki/히노_세레가_FC).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Fujikyu_Heiwa_SelegaFc.jpg "wikilink") **히노 세레가 FC**(, )는 [일본](../Page/일본.md "wikilink") [히노 자동차가](../Page/히노_자동차.md "wikilink") 만든 소형 버스로 [1990년](../Page/1990년.md "wikilink")부터 [2005년](../Page/2005년.md "wikilink")까지 생산했다. 또한 [1986년](../Page/1986년.md "wikilink")에 출시된 9m급 [전세버스](https://ko.wikipedia.org/wiki/전세버스 "wikilink") 사양으로 출시된 히노 RU19 모델이 [1990년](../Page/1990년.md "wikilink")까지 생산되었다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  \(Russian Roulette\)](https://ko.wikipedia.org/wiki/__\(Russian_Roulette\)).
+> This article is converted from Wikipedia: [러시안 룰렛 \(Russian Roulette\)](https://ko.wikipedia.org/wiki/러시안_룰렛_\(Russian_Roulette\)).
 
 
 "**러시안 룰렛 (Russian Roulette)**"은 [대한민국](../Page/대한민국.md "wikilink") [걸 그룹](../Page/걸_그룹.md "wikilink") [레드벨벳의](../Page/레드벨벳_\(음악_그룹\).md "wikilink") 노래로, 세 번째 음반인 [Russian Roulette의](../Page/Russian_Roulette_\(레드벨벳의_EP\).md "wikilink") 타이틀곡이기도 했다. 조윤경이 작사한 이 노래는 가사에서 [러시안 룰렛이라는](../Page/러시안_룰렛.md "wikilink") 게임에 비유해 누군가의 마음을 빼앗는 과정을 나타내고 있다. 2016년 9월 7일 [SM 엔터테인먼트는](../Page/SM_엔터테인먼트.md "wikilink") 뮤직 비디오와 함께 이 노래를 발표했다.

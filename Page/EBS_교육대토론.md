@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [EBS ](https://ko.wikipedia.org/wiki/EBS_).
+> This article is converted from Wikipedia: [EBS 교육대토론](https://ko.wikipedia.org/wiki/EBS_교육대토론).
 
 
 《**EBS 교육대토론**》은 [EBS 1TV에서](../Page/EBS_1TV.md "wikilink") [금요일](../Page/금요일.md "wikilink") 밤 11시 55분에 방송된 [교양](../Page/교양.md "wikilink") 프로그램이다.

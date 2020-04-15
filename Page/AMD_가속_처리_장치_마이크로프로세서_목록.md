@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [AMD     ](https://ko.wikipedia.org/wiki/AMD_____).
+> This article is converted from Wikipedia: [AMD 가속 처리 장치 마이크로프로세서 목록](https://ko.wikipedia.org/wiki/AMD_가속_처리_장치_마이크로프로세서_목록).
 
 
 다음은 [AMD](https://ko.wikipedia.org/wiki/AMD "wikilink")가 개발하고 판매한 [AMD APU](../Page/AMD_가속_처리_장치.md "wikilink") 브랜드의 [마이크로프로세서](../Page/마이크로프로세서.md "wikilink") 목록이다.

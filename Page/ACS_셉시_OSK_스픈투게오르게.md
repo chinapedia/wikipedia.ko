@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ACS  OSK ](https://ko.wikipedia.org/wiki/ACS__OSK_).
+> This article is converted from Wikipedia: [ACS 셉시 OSK 스픈투게오르게](https://ko.wikipedia.org/wiki/ACS_셉시_OSK_스픈투게오르게).
 
 
 **ACS 셉시 OSK 스픈투 게오르게**(Asociația Club Sportiv Sepsi OSK Sfântu Gheorghe)는 [스픈투 게오르게를](https://ko.wikipedia.org/wiki/스픈투_게오르게 "wikilink") 연고로 하는 [루마니아](../Page/루마니아.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다. 흔히 **셉시 스픈투게오르게, 셉시 OSK** 혹은 짧게 **셉시**로 알려져있다. 현재 [루마니아 리가 I에](../Page/리가_I.md "wikilink") 속해있으며 2016-17 시즌을 [루마니아](../Page/루마니아.md "wikilink") 2부 리그인 [리가 II에서](https://ko.wikipedia.org/wiki/리가_II "wikilink") 2위로 마감하여 승격하였다.

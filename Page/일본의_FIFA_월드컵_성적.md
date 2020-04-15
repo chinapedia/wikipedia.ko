@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ FIFA  ](https://ko.wikipedia.org/wiki/_FIFA__).
+> This article is converted from Wikipedia: [일본의 FIFA 월드컵 성적](https://ko.wikipedia.org/wiki/일본의_FIFA_월드컵_성적).
 
 
 다음은 [FIFA 월드컵에서](https://ko.wikipedia.org/wiki/FIFA_월드컵 "wikilink") [일본의](https://ko.wikipedia.org/wiki/일본_축구_국가대표팀 "wikilink") 결과를 기록한 것이다. [일본 축구 국가대표팀은](https://ko.wikipedia.org/wiki/일본_축구_국가대표팀 "wikilink") 1998년에서 2018년까지 6회 연속으로 [FIFA 월드컵](https://ko.wikipedia.org/wiki/FIFA_월드컵 "wikilink") 본선에 모습을 드러냈다. 6회 연속 본선 진출 기록은 아시아 팀으로선 [대한민국에](../Page/대한민국_축구_국가대표팀.md "wikilink") 이어 2번째로 세운 기록이다. 최고의 성적은 [2002 FIFA 월드컵과](https://ko.wikipedia.org/wiki/2002_FIFA_월드컵 "wikilink") [2010 FIFA 월드컵에서](https://ko.wikipedia.org/wiki/2010_FIFA_월드컵 "wikilink") 기록한 9위이다. 2018년 현재까지 일본의 월드컵 통산 성적은 21전 **5승 5무 11패**로 승점 **20점**을 기록하고 있으며 **20득점 29실점**을 기록해 득실 차는 **-9**를 기록하고 있다. 아시아 팀으로서는 월드컵 통산 성적에서 [대한민국에](../Page/대한민국_축구_국가대표팀.md "wikilink") 이어 2위를 기록하고 있다.

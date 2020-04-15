@@ -1,11 +1,11 @@
-> This article is converted from Wikipedia: [ X \( \)](https://ko.wikipedia.org/wiki/_X_\(_\)).
+> This article is converted from Wikipedia: [록맨 X \(비디오 게임\)](https://ko.wikipedia.org/wiki/록맨_X_\(비디오_게임\)).
 
 
-《**록맨 X**》() 또는 《**[록맨 X1](https://ko.wikipedia.org/wiki/록맨_X1 "wikilink")**》(Mega Man X1)은 [캡콤](../Page/캡콤.md "wikilink")이 [슈퍼 패미컴으로](../Page/슈퍼_패미컴.md "wikilink") 1993년에 발매한 [액션](https://ko.wikipedia.org/wiki/액션_게임 "wikilink") [플랫폼 게임이다](https://ko.wikipedia.org/wiki/플랫폼_게임 "wikilink"). [록맨 X](../Page/록맨_X.md "wikilink") 시리즈의 첫타를 끊은 작품이자 프랜차이즈 사상 최초 16비트 게임으로, [패미컴](https://ko.wikipedia.org/wiki/패미컴 "wikilink")으로 발매됐던 기존 [록맨의](https://ko.wikipedia.org/wiki/록맨_\(클래식_시리즈\) "wikilink") 파생작으로서 출발했다. 북미와 유럽 지역에선 **메가맨 X**()라는 이름으로 발매됐다.
+《**록맨 X**》() 또는 《**[록맨 X1](https://ko.wikipedia.org/wiki/록맨_X1 "wikilink")**》(Mega Man X1)은 [캡콤](../Page/캡콤.md "wikilink")이 [슈퍼 패미컴으로](../Page/슈퍼_패미컴.md "wikilink") 1993년에 발매한 [액션](https://ko.wikipedia.org/wiki/액션_게임 "wikilink") [플랫폼 게임이다](../Page/플랫폼_게임.md "wikilink"). [록맨 X](../Page/록맨_X.md "wikilink") 시리즈의 첫타를 끊은 작품이자 프랜차이즈 사상 최초 16비트 게임으로, [패미컴](https://ko.wikipedia.org/wiki/패미컴 "wikilink")으로 발매됐던 기존 [록맨의](https://ko.wikipedia.org/wiki/록맨_\(클래식_시리즈\) "wikilink") 파생작으로서 출발했다. 북미와 유럽 지역에선 **메가맨 X**()라는 이름으로 발매됐다.
 
 록맨 X는 원래 록맨 시리즈로부터 100여 년 후의 미래에서 인간과 로봇 '레플레이드'가 공존하는 세계를 다룬다. 레플로이드는 인간의 삶을 돕기 위해 제작됐지만, 설계상 오류로 인해 오작동을 이르키는 로봇들이 대거 발생해 대혼란을 야기시켰고, 이들을 처리하기 위해 설립된 조직 '이레귤러 헌터'마저 수장 시그마의 주도로 반란군 측으로 돌아서자, 주인공 X(엑스)가 이를 해결하기위해 나서서 싸움을 벌이는 것이 이 게임 본편의 내용이다.
 
-록맨 X는 발매 당시 호평을 받았고, 그 인기에 힘입어 최초 발매 이후 [MS-DOS](../Page/MS-DOS.md "wikilink")와 [모바일로](../Page/휴대_전화.md "wikilink") 여러 차례 이식됐다. 또한 [버추얼 콘솔을](../Page/버추얼_콘솔.md "wikilink") 통해 [Wii](../Page/Wii.md "wikilink")와 [Wii U에도](../Page/Wii_U.md "wikilink") 출시됐고, 2006년에는 북미 지역에서 발매됀 [메가맨 X 컬렉션에도](https://ko.wikipedia.org/wiki/메가맨_X_컬렉션 "wikilink") 포함됐다. 2005년에는 [플레이스테이션 포터블로](../Page/플레이스테이션_포터블.md "wikilink") 리메이크 **이레큘러 헌터 X**()가 출시됐다.
+록맨 X는 발매 당시 호평을 받았고, 그 인기에 힘입어 최초 발매 이후 [MS-DOS](../Page/MS-DOS.md "wikilink")와 [모바일로](../Page/휴대_전화.md "wikilink") 여러 차례 이식됐다. 또한 [버추얼 콘솔을](../Page/버추얼_콘솔.md "wikilink") 통해 [Wii](../Page/Wii.md "wikilink")와 [Wii U에도](../Page/Wii_U.md "wikilink") 출시됐고, 2006년에는 북미 지역에서 발매된 [메가맨 X 컬렉션에도](https://ko.wikipedia.org/wiki/메가맨_X_컬렉션 "wikilink") 포함됐다. 2005년에는 [플레이스테이션 포터블로](../Page/플레이스테이션_포터블.md "wikilink") 리메이크 **이레큘러 헌터 X**()가 출시됐다.
 
 ## 록맨 X1의 8 보스 일람
 

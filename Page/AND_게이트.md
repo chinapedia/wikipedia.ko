@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [AND ](https://ko.wikipedia.org/wiki/AND_).
+> This article is converted from Wikipedia: [AND 게이트](https://ko.wikipedia.org/wiki/AND_게이트).
 
 
 |           |            |

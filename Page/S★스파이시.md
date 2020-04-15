@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [S](https://ko.wikipedia.org/wiki/S).
+> This article is converted from Wikipedia: [S★스파이시](https://ko.wikipedia.org/wiki/S★스파이시).
 
 
 **S★스파이시**(, S★Spicy)는 [스타더스트 프로모션에](../Page/스타더스트_프로모션.md "wikilink") 소속된 일본의 [여성](../Page/여성.md "wikilink") [아이돌](https://ko.wikipedia.org/wiki/아이돌 "wikilink") 그룹이다. 약칭은 **에스스파**()이다.

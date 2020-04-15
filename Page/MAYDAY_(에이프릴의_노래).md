@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [MAYDAY \( \)](https://ko.wikipedia.org/wiki/MAYDAY_\(_\)).
+> This article is converted from Wikipedia: [MAYDAY \(에이프릴의 노래\)](https://ko.wikipedia.org/wiki/MAYDAY_\(에이프릴의_노래\)).
 
 
 《**MAYDAY**》는 대한민국의 걸 그룹 [에이프릴의](../Page/에이프릴_\(음악_그룹\).md "wikilink") 두 번째 싱글이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [CBS  \( \)](https://ko.wikipedia.org/wiki/CBS__\(_\)).
+> This article is converted from Wikipedia: [CBS 뉴스 \(라디오 프로그램\)](https://ko.wikipedia.org/wiki/CBS_뉴스_\(라디오_프로그램\)).
 
 
 《**CBS 뉴스**》는 매일 오전, 오후, 저녁, 밤에 방송 되는 기독교방송의 라디오 뉴스 프로그램이다.
@@ -9,7 +9,8 @@
 
 ## 방송 시간
 
-  - 오전 6시, 오전 9시, 오전 10시, 오전 11시, 낮 12시, 낮 1시, 오후 2시, 오후 3시, 오후 4시, 저녁 5시, 저녁 7시, 밤 8시, 밤 9시, 밤 10시, 밤 11시
+  - 매일 오전 10시, 오전 11시, 낮 12시, 낮 1시, 오후 2시, 오후 3시, 오후 4시, 저녁 5시
+  - 평일 새벽 4시 56분, 오전 6시, 저녁 7시, 밤 8시, 밤 9시, 밤 10시, 밤 11시
 
 ## 아나운서
 
@@ -24,7 +25,6 @@
 
 #### 여자 아나운서
 
-  - [이명희](https://ko.wikipedia.org/wiki/이명희 "wikilink")
   - [장주희](../Page/장주희.md "wikilink")
   - [신지혜](https://ko.wikipedia.org/wiki/신지혜 "wikilink")
   - [최정원](https://ko.wikipedia.org/wiki/최정원 "wikilink")

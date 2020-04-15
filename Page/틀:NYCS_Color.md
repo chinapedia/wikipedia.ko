@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:NYCS Color](https://ko.wikipedia.org/wiki/:NYCS_Color).
+> This article is converted from Wikipedia: [틀:NYCS Color](https://ko.wikipedia.org/wiki/틀:NYCS_Color).
 
 
 {{ \#switch:

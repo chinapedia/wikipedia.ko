@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [13 KBS ](https://ko.wikipedia.org/wiki/13_KBS_).
+> This article is converted from Wikipedia: [13기 KBS 바둑왕전](https://ko.wikipedia.org/wiki/13기_KBS_바둑왕전).
 
 
 **13기 KBS 바둑왕전**은 TV 속기전이 참가한 국내 바둑 기전이다. 결승에서는 [이창호](../Page/이창호.md "wikilink") 七단이 [조훈현](../Page/조훈현.md "wikilink") 九단을 2대 0로 꺾고 완봉을을 거두며 통산 3회 우승을 달성했다.

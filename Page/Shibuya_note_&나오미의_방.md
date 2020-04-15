@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Shibuya note \& ](https://ko.wikipedia.org/wiki/Shibuya_note_\&_).
+> This article is converted from Wikipedia: [Shibuya note \&나오미의 방](https://ko.wikipedia.org/wiki/Shibuya_note_\&나오미의_방).
 
 
 《**시부야 노트 & 나오미의 방**》 (Shibuya note & naomiの部屋)은 [일본](../Page/일본.md "wikilink")의 [NHK](https://ko.wikipedia.org/wiki/NHK "wikilink")에서 제작·방영하는 [음악](../Page/음악.md "wikilink") 토크 프로그램이다. 2016년 4월 3일까지 9년에 걸쳐 방송된 《뮤직재팬》 (Music Japan)에 이어서 [J-pop](../Page/J-pop.md "wikilink") 음악가들의 라이브 공연을 중심으로 구성되어 있다.

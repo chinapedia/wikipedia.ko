@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Everything OK!!](https://ko.wikipedia.org/wiki/Everything_OK!!).
 
 
-〈**Everything OK\!\!**〉(에브리싱 오케, )는 [Cellchrome](https://ko.wikipedia.org/wiki/Cellchrome "wikilink")의 세 번째 [싱글이다](../Page/싱글_\(음악\).md "wikilink"). [2018년](../Page/2018년.md "wikilink") [3월 14일에](../Page/3월_14일.md "wikilink") [빙에서](../Page/빙_\(기업\).md "wikilink") 발매됐다. 한국어 버전도 5번째 싱글 앨범인 **[Aozolighter](https://ko.wikipedia.org/wiki/Aozolighter "wikilink")**의 수록 되어 나왔고, [2018년](../Page/2018년.md "wikilink") [10월 2일](../Page/10월_2일.md "wikilink") 부터 방영되는 명탐정 코난의 시즌 16의 주제가로 선정 되었다.
+〈**Everything OK\!\!**〉(에브리싱 오케, )는 [Cellchrome](https://ko.wikipedia.org/wiki/Cellchrome "wikilink")의 세 번째 [싱글이다](../Page/싱글_\(음악\).md "wikilink"). [2018년](../Page/2018년.md "wikilink") [3월 14일에](../Page/3월_14일.md "wikilink") [빙에서](../Page/빙_\(기업\).md "wikilink") 발매됐다. 한국어 버전도 5번째 싱글 앨범인 **[Aozolighter](../Page/Aozolighter.md "wikilink")**의 수록 되어 나왔고, [2018년](../Page/2018년.md "wikilink") [10월 2일](../Page/10월_2일.md "wikilink") 부터 방영되는 명탐정 코난의 시즌 16의 주제가로 선정 되었다.
 
 ## 미디어에서의 사용
 

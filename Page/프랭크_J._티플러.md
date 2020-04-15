@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [ J. ](https://ko.wikipedia.org/wiki/_J._).
+> This article is converted from Wikipedia: [프랭크 J. 티플러](https://ko.wikipedia.org/wiki/프랭크_J._티플러).
 
 
-**프랭크 제닝스 티플러 3세** (\[1\]\[2\], [1947년](../Page/1947년.md "wikilink")[2월 1일](../Page/2월_1일.md "wikilink") - )는 [수리물리학](https://ko.wikipedia.org/wiki/수리물리학 "wikilink")자이며, [뉴 올리언스에](https://ko.wikipedia.org/wiki/뉴_올리언스 "wikilink") 있는 [툴레인 대학교에서](../Page/툴레인_대학교.md "wikilink") [수학](../Page/수학.md "wikilink")과와 [물리학](../Page/물리학.md "wikilink")과의 교수를 맡고 있다\[3\].
+**프랭크 제닝스 티플러 3세**(\[1\]\[2\], [1947년](../Page/1947년.md "wikilink")[2월 1일](../Page/2월_1일.md "wikilink") - )는 [수리물리학](https://ko.wikipedia.org/wiki/수리물리학 "wikilink")자이며, [뉴 올리언스에](https://ko.wikipedia.org/wiki/뉴_올리언스 "wikilink") 있는 [툴레인 대학교에서](../Page/툴레인_대학교.md "wikilink") [수학](../Page/수학.md "wikilink")과와 [물리학](../Page/물리학.md "wikilink")과의 교수를 맡고 있다\[3\].
 
 ## 경력
 

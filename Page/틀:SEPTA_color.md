@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:SEPTA color](https://ko.wikipedia.org/wiki/:SEPTA_color).
+> This article is converted from Wikipedia: [틀:SEPTA color](https://ko.wikipedia.org/wiki/틀:SEPTA_color).
 
 
 {{\#switch:

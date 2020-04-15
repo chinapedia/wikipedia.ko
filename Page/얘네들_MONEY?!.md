@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ MONEY\?!](https://ko.wikipedia.org/wiki/_MONEY\?!).
+> This article is converted from Wikipedia: [얘네들 MONEY\?!](https://ko.wikipedia.org/wiki/얘네들_MONEY\?!).
 
 
 《**얘네들 MONEY?\!**》는 [2016년](../Page/2016년.md "wikilink") [11월 16일부터](../Page/11월_16일.md "wikilink") [2016년](../Page/2016년.md "wikilink") [12월 1일까지](../Page/12월_1일.md "wikilink") [네이버TV](../Page/네이버TV.md "wikilink")에서 공개된 천하금융고등학교를 배경으로한 청춘 로맨스 [웹드라마](https://ko.wikipedia.org/wiki/웹드라마 "wikilink")이다.

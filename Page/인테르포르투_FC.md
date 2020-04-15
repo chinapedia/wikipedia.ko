@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
+> This article is converted from Wikipedia: [인테르포르투 FC](https://ko.wikipedia.org/wiki/인테르포르투_FC).
 
 
 **인테르포르투 FC**(Interporto Futebol Clube)은 [토칸칭스주](https://ko.wikipedia.org/wiki/토칸칭스주 "wikilink") [포르투 나시오나우를](https://ko.wikipedia.org/wiki/포르투_나시오나우 "wikilink") 연고지로 하는 축구 클럽이다.

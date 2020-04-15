@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [PH ](https://ko.wikipedia.org/wiki/PH_).
+> This article is converted from Wikipedia: [PH 미터](https://ko.wikipedia.org/wiki/PH_미터).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Beckman_Model_M_pH_Meter_2006.072.002.tif "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:PH_Meter.jpg "wikilink")

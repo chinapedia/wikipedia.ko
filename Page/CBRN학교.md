@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [CBRN](https://ko.wikipedia.org/wiki/CBRN).
+> This article is converted from Wikipedia: [CBRN학교](https://ko.wikipedia.org/wiki/CBRN학교).
 
 
 **미국 육군 CBRN학교**()는 [미국](../Page/미국.md "wikilink") [미주리주](../Page/미주리주.md "wikilink") [펄래스키 군에](https://ko.wikipedia.org/wiki/펄래스키_군 "wikilink") 첫 설립되어 현재에 이르고 있는 [미국 육군의](../Page/미국_육군.md "wikilink") [화학, 생물학, 방사능, 그리고 핵방어에](https://ko.wikipedia.org/wiki/CBRN_방어 "wikilink") 대해 교육훈련하는 [군사 학교이다](https://ko.wikipedia.org/wiki/군사_학교 "wikilink"). 현재 [제3화학여단](https://ko.wikipedia.org/wiki/제3화학여단 "wikilink")이 교육훈련부대를 맡고 있다.

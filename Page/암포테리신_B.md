@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ B](https://ko.wikipedia.org/wiki/_B).
+> This article is converted from Wikipedia: [암포테리신 B](https://ko.wikipedia.org/wiki/암포테리신_B).
 
 
 **암포테리신 B**()는 심각한 [진균증](../Page/진균증.md "wikilink"), [리슈만편모충증](../Page/리슈만편모충증.md "wikilink")에 대한 [항진균제](https://ko.wikipedia.org/wiki/항진균제 "wikilink")이다.\[1\] 이 항진균제는 [아스페르길루스증](https://ko.wikipedia.org/wiki/아스페르길루스증 "wikilink"), [분아균증](https://ko.wikipedia.org/wiki/분아균증 "wikilink"), [칸디다증](https://ko.wikipedia.org/wiki/칸디다증 "wikilink"), [콕시디오이데스진균증](https://ko.wikipedia.org/wiki/콕시디오이데스진균증 "wikilink"), [크립토콕쿠스증](https://ko.wikipedia.org/wiki/크립토콕쿠스증 "wikilink")을 치료하는데 사용된다.\[2\] 특정 감염의 경우 [플루시토신](https://ko.wikipedia.org/wiki/플루시토신 "wikilink")과 함께 처방된다.\[3\] 일반적으로 [수액을](../Page/수액_\(의학\).md "wikilink") 통해 복용된다.\[4\]

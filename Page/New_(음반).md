@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [New \(\)](https://ko.wikipedia.org/wiki/New_\(\)).
+> This article is converted from Wikipedia: [New \(음반\)](https://ko.wikipedia.org/wiki/New_\(음반\)).
 
 
 《**New**》(**III☰III**로 양식화함)는 (윙스 시절 음반을 제외한) 폴 매카트니의 열여섯 번째 정규 음반으로, 영국에서는 2013년 10월 14일에 출시했고, 다음날 미국에서 출시되었다. 음반은 《Memory Almost Full》 이후로 완전히 새로운 곡들로 구성되어 있는 그의 첫 음반이다.\[1\]

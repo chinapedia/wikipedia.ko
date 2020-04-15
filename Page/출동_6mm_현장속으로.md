@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ 6mm ](https://ko.wikipedia.org/wiki/_6mm_).
+> This article is converted from Wikipedia: [출동 6mm 현장속으로](https://ko.wikipedia.org/wiki/출동_6mm_현장속으로).
 
 
 《**출동 6mm 현장속으로**》는 매주 [토요일](../Page/토요일.md "wikilink") 오전에 [MBC TV에서](../Page/문화방송.md "wikilink") 방송되는 시사교양 정보 프로그램이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ B. \& ](https://ko.wikipedia.org/wiki/_B._\&_).
+> This article is converted from Wikipedia: [에릭 B. \& 라킴](https://ko.wikipedia.org/wiki/에릭_B._\&_라킴).
 
 
 **에릭 B. & 라킴**(Eric B. & Rakim)은 에릭 B.와 MC [라킴](../Page/라킴.md "wikilink")으로 이뤄진 [롱아일랜드](../Page/롱아일랜드.md "wikilink") 출신의 [힙합](../Page/힙합.md "wikilink") 듀오이다. [올뮤직](../Page/올뮤직.md "wikilink")은 "힙합의 소위 골든 에이지 동안에 에릭 B. & 라킴은 최고의 DJ/MC 팀으로 인식되었다"라고 평가하였다.\[1\] [NPR의](../Page/내셔널_퍼블릭_라디오.md "wikilink") 탐 테럴(Tom Terrell)은 이들을 현대 팜 음악 시기의 가장 영향력 있는 DJ/MC 듀오라고 평가한 반면,\[2\] [About.com](https://ko.wikipedia.org/wiki/About.com "wikilink")의 편집자는 이들을 10명의 가장 위대한 힙합 듀오에서 5위에 선정하였다.\[3\]

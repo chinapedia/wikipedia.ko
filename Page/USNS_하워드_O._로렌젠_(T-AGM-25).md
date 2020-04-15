@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [USNS  O.  \(T-AGM-25\)](https://ko.wikipedia.org/wiki/USNS__O.__\(T-AGM-25\)).
+> This article is converted from Wikipedia: [USNS 하워드 O. 로렌젠 \(T-AGM-25\)](https://ko.wikipedia.org/wiki/USNS_하워드_O._로렌젠_\(T-AGM-25\)).
 
 
 **USNS 하워드 O. 로렌젠 (T-AGM-25)**(USNS Howard O. Lorenzen (T-AGM-25))은 미국 해군의 탄도 미사일 추적함이다.

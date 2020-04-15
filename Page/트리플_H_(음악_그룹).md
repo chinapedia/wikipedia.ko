@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ H \( \)](https://ko.wikipedia.org/wiki/_H_\(_\)).
+> This article is converted from Wikipedia: [트리플 H \(음악 그룹\)](https://ko.wikipedia.org/wiki/트리플_H_\(음악_그룹\)).
 
 
 **트리플 H**는 3인조 혼성그룹이자 프로젝트 그룹 으로 [큐브 엔터테인먼트](../Page/큐브_엔터테인먼트.md "wikilink") 소속이다. [현아](../Page/현아.md "wikilink"), [펜타곤의](../Page/펜타곤_\(음악_그룹\).md "wikilink") 멤버 [후이](../Page/후이.md "wikilink"), [이던](https://ko.wikipedia.org/wiki/이던 "wikilink")으로 구성되어있다. [2017년](../Page/2017년.md "wikilink") [5월 1일](../Page/5월_1일.md "wikilink") 미니 1집 《199X》으로 데뷔 하였다. [2018년](../Page/2018년.md "wikilink") [7월 18일](../Page/7월_18일.md "wikilink") 두 번째 미니앨범 《RETRO FUTURE》로 컴백을 했다. 2018년 11월 14일 현아 이던 퇴출로 해체했다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ Z: ](https://ko.wikipedia.org/wiki/_Z:_).
+> This article is converted from Wikipedia: [마징가 Z: 인피니티](https://ko.wikipedia.org/wiki/마징가_Z:_인피니티).
 
 
 《**마징가 Z: 인피니티**》()는 [2018년](../Page/2018년.md "wikilink")에 개봉한 [일본의](https://ko.wikipedia.org/wiki/일본_영화 "wikilink") 영화이다.

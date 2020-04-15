@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ VII](https://ko.wikipedia.org/wiki/_VII).
+> This article is converted from Wikipedia: [삼국지 VII](https://ko.wikipedia.org/wiki/삼국지_VII).
 
 
 《**삼국지 VII**》(三國志VII, Romance of the Three Kingdoms VII)는 [코에이](../Page/코에이.md "wikilink")의 유명한 [삼국지](../Page/삼국지_\(비디오_게임_시리즈\).md "wikilink") 시리즈 중 7번째 게임이다.

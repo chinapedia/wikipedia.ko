@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
+> This article is converted from Wikipedia: [트레지 FC](https://ko.wikipedia.org/wiki/트레지_FC).
 
 
 **트레지 푸치보우 클루비**()는 **트레지**라고도 불리며, [1925년](../Page/1925년.md "wikilink")에 창단한 [브라질](../Page/브라질.md "wikilink") [파라이바주](https://ko.wikipedia.org/wiki/파라이바주 "wikilink") [캄피나그란지](https://ko.wikipedia.org/wiki/캄피나그란지 "wikilink")를 연고로 하는 [축구](../Page/축구.md "wikilink")팀이다. "트레지"()는 [포르투갈어](../Page/포르투갈어.md "wikilink")로 **13**을 뜻한다. [2018년](../Page/2018년.md "wikilink") 현재 전국 4부 리그 [캄페오나투 브라질레이루 세리이 D와](../Page/캄페오나투_브라질레이루_세리이_D.md "wikilink") 파라이바 주리그 [캄페오나투 파라이바누에](https://ko.wikipedia.org/wiki/캄페오나투_파라이바누 "wikilink") 참가하고 있다. 구단의 최대 라이벌은 같은 연고지를 공유하는 [캄피넨시 클루비이며](../Page/캄피넨시_클루비.md "wikilink"), 이들의 경기는 "마이오라이스"라 불린다. 이 더비 경기는 브라질 교외 축구 중에서는 가장 주요한 더비로 꼽힌다.

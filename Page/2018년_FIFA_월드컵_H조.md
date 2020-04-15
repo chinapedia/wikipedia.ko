@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [2018 FIFA  H](https://ko.wikipedia.org/wiki/2018_FIFA__H).
+> This article is converted from Wikipedia: [2018년 FIFA 월드컵 H조](https://ko.wikipedia.org/wiki/2018년_FIFA_월드컵_H조).
 
 
 **[2018년 FIFA 월드컵](https://ko.wikipedia.org/wiki/2018년_FIFA_월드컵 "wikilink") H조**는 2018년 6월 16일부터 2018년 6월 26일까지 일정이 진행되었다. H조는 [폴란드](../Page/폴란드_축구_국가대표팀.md "wikilink"), [세네갈](../Page/세네갈_축구_국가대표팀.md "wikilink"), [콜롬비아](../Page/콜롬비아_축구_국가대표팀.md "wikilink"), [일본으로](https://ko.wikipedia.org/wiki/일본_축구_국가대표팀 "wikilink") 구성되었다. 4개의 팀들 중 상위 2개의 팀이 16강전에 진출한다.
@@ -815,9 +815,9 @@
 마르빈 토렌테라 (<a href="https://ko.wikipedia.org/wiki/멕시코_축구_연맹" title="wikilink">멕시코</a>)<br />
 미겔 에르난데스 (<a href="https://ko.wikipedia.org/wiki/멕시코_축구_연맹" title="wikilink">멕시코</a>)<br />
 <strong>대기심:</strong><br />
-<a href="https://ko.wikipedia.org/wiki/훌리오_바스쿠냔" title="wikilink">훌리오 바스쿠냔</a> (<a href="https://ko.wikipedia.org/wiki/칠레_축구_연맹" title="wikilink">칠레</a>)<br />
+<a href="https://ko.wikipedia.org/wiki/훌리오_바스쿠냔" title="wikilink">훌리오 바스쿠냔</a> (<a href="../Page/칠레_축구_연맹.md" title="wikilink">칠레</a>)<br />
 <strong>후보 대기심:</strong><br />
-크리스티안 시에만 (<a href="https://ko.wikipedia.org/wiki/칠레_축구_연맹" title="wikilink">칠레</a>)<br />
+크리스티안 시에만 (<a href="../Page/칠레_축구_연맹.md" title="wikilink">칠레</a>)<br />
 <strong>비디오 판독심:</strong><br />
 <a href="https://ko.wikipedia.org/wiki/마우로_비글리아노" title="wikilink">마우로 비글리아노</a> (<a href="../Page/아르헨티나_축구_협회.md" title="wikilink">아르헨티나</a>)<br />
 <strong>보조 비디오 판독심:</strong><br />
@@ -1003,7 +1003,7 @@
 다니엘레 오르사토 (<a href="https://ko.wikipedia.org/wiki/이탈리아_축구_협회" title="wikilink">이탈리아</a>)<br />
 <strong>보조 비디오 판독심:</strong><br />
 <a href="https://ko.wikipedia.org/wiki/헤리_바르가스" title="wikilink">헤리 바르가스</a> (<a href="https://ko.wikipedia.org/wiki/볼리비아_축구_연맹" title="wikilink">볼리비아</a>)<br />
-카를로스 아스트로사 (<a href="https://ko.wikipedia.org/wiki/칠레_축구_연맹" title="wikilink">칠레</a>)<br />
+카를로스 아스트로사 (<a href="../Page/칠레_축구_연맹.md" title="wikilink">칠레</a>)<br />
 <a href="https://ko.wikipedia.org/wiki/파올로_발레리" title="wikilink">파올로 발레리</a> (<a href="https://ko.wikipedia.org/wiki/이탈리아_축구_협회" title="wikilink">이탈리아</a>)</p></td>
 </tr>
 </tbody>

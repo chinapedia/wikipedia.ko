@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Survivor \( \)](https://ko.wikipedia.org/wiki/Survivor_\(_\)).
+> This article is converted from Wikipedia: [Survivor \(동방신기의 노래\)](https://ko.wikipedia.org/wiki/Survivor_\(동방신기의_노래\)).
 
 
 〈**Survivor**〉(서바이버)는 [아카펠라](../Page/아카펠라.md "wikilink") 댄스 음악 그룹 [동방신기](../Page/동방신기.md "wikilink")의 일본에서의 통산 26번째 싱글 음반이다.

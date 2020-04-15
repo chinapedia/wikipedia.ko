@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [LG G  2 8.0](https://ko.wikipedia.org/wiki/LG_G__2_8.0).
+> This article is converted from Wikipedia: [LG G 패드 2 8.0](https://ko.wikipedia.org/wiki/LG_G_패드_2_8.0).
 
 
 **LG G 패드 2 8.0**은 [LG전자](../Page/LG전자.md "wikilink")가 [2015년](../Page/2015년.md "wikilink") 하반기에 공개하고 8월 18일에 출시한 안드로이드 태블릿이다. [LG G 패드 8.0의](../Page/LG_G_패드_8.0.md "wikilink") 후속 기종이며, 전작과는 달리 USB-A 단자가 있어 USB만 꽂으면 파일을 바로 확인할 수 있다. 기기 내에 스타일러스 팬이 탑재되어 있다. (빨간색 글자는 여러분이터치하여서 문서를 만들어서 더 좋은글을 만들어주세요.) (아시는 정보가있으시면 거침없이 편집을하여 제대로된 내용을 만들어주세요.)

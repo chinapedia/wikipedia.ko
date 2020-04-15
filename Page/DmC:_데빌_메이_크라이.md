@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [DmC:   ](https://ko.wikipedia.org/wiki/DmC:___).
+> This article is converted from Wikipedia: [DmC: 데빌 메이 크라이](https://ko.wikipedia.org/wiki/DmC:_데빌_메이_크라이).
 
 
 《**DmC: 데빌 메이 크라이**》()는 [닌자 시어리가](../Page/닌자_시어리.md "wikilink") 제작하고 [캡콤](../Page/캡콤.md "wikilink")이 배급한 액션 어드벤처 게임으로, [플레이스테이션 3](../Page/플레이스테이션_3.md "wikilink"), [엑스박스 360](../Page/엑스박스_360.md "wikilink"), [마이크로소프트 윈도우](../Page/마이크로소프트_윈도우.md "wikilink") 전용으로 만들어졌다.

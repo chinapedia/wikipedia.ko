@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Unsubst-infobox](https://ko.wikipedia.org/wiki/:Unsubst-infobox).
+> This article is converted from Wikipedia: [모듈:Unsubst-infobox](https://ko.wikipedia.org/wiki/모듈:Unsubst-infobox).
 
 
 local p = {}

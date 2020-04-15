@@ -21,9 +21,9 @@
 
 WE.177 핵폭탄은 [영국 공군의](https://ko.wikipedia.org/wiki/영국_공군 "wikilink") 폭격기, 전투기, 헬기 등에 장착되어 사용되었다.
 
-  - [핸들리 페이지 빅터](https://ko.wikipedia.org/wiki/핸들리_페이지_빅터 "wikilink") Mk.2 전략폭격기, WE.177A/B
+  - [핸들리 페이지 빅터](../Page/핸들리_페이지_빅터.md "wikilink") Mk.2 전략폭격기, WE.177A/B
   - [아브로 불칸](https://ko.wikipedia.org/wiki/아브로_불칸 "wikilink") 전략폭격기, WE.177A/B
-  - [빅커스 발리언트](https://ko.wikipedia.org/wiki/빅커스_발리언트 "wikilink") Mks: B.1, P.R., K.1., P.R.K.1, WE.177A
+  - [빅커스 발리언트](../Page/빅커스_발리언트.md "wikilink") Mks: B.1, P.R., K.1., P.R.K.1, WE.177A
   - BAC TSR-2, WE.177A/B
   - English Electric Canberra Mk.B.15 & B.16, WE.177A
   - [블랙번 부캐니어](https://ko.wikipedia.org/wiki/블랙번_부캐니어 "wikilink") Mk.2, WE.177A

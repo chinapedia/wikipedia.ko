@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [N](https://ko.wikipedia.org/wiki/N).
+> This article is converted from Wikipedia: [뉴스N이슈](https://ko.wikipedia.org/wiki/뉴스N이슈).
 
 
 《**뉴스N이슈**》는 [대한민국](../Page/대한민국.md "wikilink") [YTN](../Page/YTN.md "wikilink")에서 평일 오전 11시에 방송되는 [YTN](../Page/YTN.md "wikilink")의 낮 뉴스 프로그램이다.

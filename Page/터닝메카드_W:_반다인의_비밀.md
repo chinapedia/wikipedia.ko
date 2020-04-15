@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ W:  ](https://ko.wikipedia.org/wiki/_W:__).
+> This article is converted from Wikipedia: [터닝메카드 W: 반다인의 비밀](https://ko.wikipedia.org/wiki/터닝메카드_W:_반다인의_비밀).
 
 
 《**터닝메카드 W: 반다인의 비밀**》은 2018년 2월 8일 개봉한 [대한민국](../Page/대한민국.md "wikilink")의 [애니메이션](../Page/애니메이션.md "wikilink") 두번째 작품이다.
@@ -8,7 +8,7 @@
   - 트라이포스
       - 블루랜드
       - 레드홀
-      - 블랙미러 {{글씨 색|\#000000|■}
+      - 블랙미러
       - 미지의 마을
   - 미래 세력
   - 이차원
@@ -56,7 +56,7 @@
   - <span style="font-weight:bold; color:#800080">타나토스</span>
   - <span style="font-weight:bold; color:#008000">슈마</span>
   - <span style="font-weight:bold; color:#800080">알타</span>
-  - <span style="text-shadow: 0 0 3px #FFD700;color:#000000">피닉스</span>
+  - <span style="text-shadow: 0 0 3px #ffd700;color:#000000">피닉스</span>
   - <span style="font-weight:bold; color:#dcdcdc">테로</span>
   - <span style="font-weight:bold; color:#ff1493">미리내</span>
   - <span style="font-weight:bold; color:#ff0000">코카트</span>
@@ -87,7 +87,7 @@
   - <span style="font-weight:bold; color:#ff0000">메가드래곤</span>
   - <span style="text-shadow: 0 0 3px #800080;color:#dcdcdc">그리폰</span>
   - <span style="text-shadow: 0 0 3px #800080;color:#ff0000">스핑크스</span>
-  - <span style="text-shadow: 0 0 3px #800080;color:#dcdcdc">그리</span><span style="text-shadow: 0 0 3px #800080;color:#ff0000">핑크스</span> (그리폰 + 스핑크스)
+  - <span style="text-shadow: 0 0 3px #800080;color:#dcdcdc">그리</span><span style="text-shadow: 0 0 3px #800080;color:#ff0000">핑크스</span> (<span style="text-shadow: 0 0 3px #800080;color:#dcdcdc">그리폰</span> + <span style="text-shadow: 0 0 3px #800080;color:#ff0000">스핑크스</span>)
   - <span style="font-weight:bold; color:#0000ff">요타</span>
   - <span style="font-weight:bold; color:#ff0000">네오</span>
   - <span style="font-weight:bold; color:#8a2be2">엑스</span>

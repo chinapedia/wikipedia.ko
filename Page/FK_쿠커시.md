@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FK ](https://ko.wikipedia.org/wiki/FK_).
+> This article is converted from Wikipedia: [FK 쿠커시](https://ko.wikipedia.org/wiki/FK_쿠커시).
 
 
 **FK 쿠커시**()는 [쿠커스](https://ko.wikipedia.org/wiki/쿠커스 "wikilink")를 연고로 하는 [알바니아](https://ko.wikipedia.org/wiki/알바니아 "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다. 현재는 [알바니아 수페르리가에](../Page/알바니아_수페르리가.md "wikilink") 참가하고 있다.

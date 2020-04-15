@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [GPD ](https://ko.wikipedia.org/wiki/GPD_).
+> This article is converted from Wikipedia: [GPD 윈](https://ko.wikipedia.org/wiki/GPD_윈).
 
 
 **GPD 윈**(GPD Win)은 키보드와 게이밍 컨트롤이 장착된 [윈도우](../Page/마이크로소프트_윈도우.md "wikilink") 기반 [휴대용](https://ko.wikipedia.org/wiki/모바일_장치 "wikilink") [컴퓨터](../Page/컴퓨터.md "wikilink")이다.\[1\] 풀 버전의 [윈도우 10](../Page/윈도우_10.md "wikilink") 홈을 구동하는 [x86](https://ko.wikipedia.org/wiki/x86 "wikilink") 기반 장치이다. 이 장치는 비디오 게임 콘솔 에뮬레이션 및 PC 게이밍을 염두에 두고 계획되었으나 장치의 기술적 사양이 허락하는 한 모든 x86 윈도우 기반 응용 프로그램을 실행할 수 있다.\[2\] 2015년 10월 처음 발표된 이 제품은 [인디고고](../Page/인디고고.md "wikilink")와 2개의 다른 크라우드펀딩 사이트(일본, 중국)를 통해 [크라우드 펀딩을](https://ko.wikipedia.org/wiki/크라우드_펀딩 "wikilink") 받았으며 2016년 10월 출시되었다.\[3\]

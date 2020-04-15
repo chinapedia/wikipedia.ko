@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Maplink](https://ko.wikipedia.org/wiki/:Maplink).
+> This article is converted from Wikipedia: [틀:Maplink](https://ko.wikipedia.org/wiki/틀:Maplink).
 
 
 {{\#switch: |title|title, inline|inline, title|title,inline|inline,title =<span style="font-size: small;" id="coordinates">'''{{\#tag:maplink| {

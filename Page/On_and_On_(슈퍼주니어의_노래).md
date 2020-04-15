@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [On and On \( \)](https://ko.wikipedia.org/wiki/On_and_On_\(_\)).
+> This article is converted from Wikipedia: [On and On \(슈퍼주니어의 노래\)](https://ko.wikipedia.org/wiki/On_and_On_\(슈퍼주니어의_노래\)).
 
 
 《**On and On**》은 그룹 [슈퍼주니어](../Page/슈퍼주니어.md "wikilink")의 일본에서 발매된 8번째 싱글이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [1999 UNCAF ](https://ko.wikipedia.org/wiki/1999_UNCAF_).
+> This article is converted from Wikipedia: [1999년 UNCAF 네이션스컵](https://ko.wikipedia.org/wiki/1999년_UNCAF_네이션스컵).
 
 
 **1999년 UNCAF 네이션스컵**(1999 UNCAF Nations Cup)은 [중앙아메리카 축구 연맹에서](https://ko.wikipedia.org/wiki/중앙아메리카_축구_연맹 "wikilink") 주최한 5번째 [UNCAF 네이션스컵](https://ko.wikipedia.org/wiki/UNCAF_네이션스컵 "wikilink") 대회로 [1999년](../Page/1999년.md "wikilink") [3월 17일부터](../Page/3월_17일.md "wikilink") [3월 28일까지](../Page/3월_28일.md "wikilink") [코스타리카](../Page/코스타리카.md "wikilink")에서 개최되었다. 이 대회는 [2000년 CONCACAF 골드컵의](../Page/2000년_CONCACAF_골드컵.md "wikilink") 중앙아메리카 예선을 겸한다.

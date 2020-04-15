@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [30 KBS ](https://ko.wikipedia.org/wiki/30_KBS_).
+> This article is converted from Wikipedia: [30기 KBS 바둑왕전](https://ko.wikipedia.org/wiki/30기_KBS_바둑왕전).
 
 
 **30기 KBS 바둑왕전**은 TV 속기전이 참가한 국내 바둑 기전이다. 결승에서는 [박정환](../Page/박정환_\(바둑_기사\).md "wikilink") 九단이 [백홍석](https://ko.wikipedia.org/wiki/백홍석 "wikilink") 七단을 2대 0로 꺾고 바둑왕전 2연패를 달성했다.

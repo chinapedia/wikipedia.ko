@@ -33,7 +33,7 @@ NPAPI의 요구사항은 각 플러그인이 플러그인 콘텐츠의 초기화
 
   - [카미노](../Page/카미노.md "wikilink")
   - [모질라 애플리케이션 스위트](../Page/모질라_애플리케이션_스위트.md "wikilink")
-  - [넷스케이프 내비게이터](../Page/넷스케이프_내비게이터.md "wikilink"), [넷스케이프 커뮤니케이터](https://ko.wikipedia.org/wiki/넷스케이프_커뮤니케이터 "wikilink")
+  - [넷스케이프 내비게이터](../Page/넷스케이프_내비게이터.md "wikilink"), [넷스케이프 커뮤니케이터](../Page/넷스케이프_커뮤니케이터.md "wikilink")
 
 ## 스크립팅 지원
 

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [DR ](https://ko.wikipedia.org/wiki/DR_).
+> This article is converted from Wikipedia: [DR뮤직의 음반](https://ko.wikipedia.org/wiki/DR뮤직의_음반).
 
 
 이 문서는 **[DR뮤직](https://ko.wikipedia.org/wiki/DR뮤직 "wikilink")에서 발매한 음반** 목록이다.

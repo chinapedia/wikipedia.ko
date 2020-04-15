@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SIGNAL \( EP\)](https://ko.wikipedia.org/wiki/SIGNAL_\(_EP\)).
+> This article is converted from Wikipedia: [SIGNAL \(트와이스의 EP\)](https://ko.wikipedia.org/wiki/SIGNAL_\(트와이스의_EP\)).
 
 
 《**SIGNAL**》(시그널)은 [대한민국](../Page/대한민국.md "wikilink")의 [걸 그룹](../Page/걸_그룹.md "wikilink") 트와이스의 네 번째 [EP이다](../Page/익스텐디드_플레이.md "wikilink"). 타이틀곡은 〈**SIGNAL**〉이며, [2017년](../Page/2017년.md "wikilink") [5월 15일에](../Page/5월_15일.md "wikilink") 발매되었다. 그룹 데뷔 이후 최초로 박진영이 프로듀싱한 타이틀곡이며, 트와이스의 멤버 지효와 채영이 5번 트랙 "EYE EYE EYES"의 작사를 맡았다.

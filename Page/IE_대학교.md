@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [IE ](https://ko.wikipedia.org/wiki/IE_).
+> This article is converted from Wikipedia: [IE 대학교](https://ko.wikipedia.org/wiki/IE_대학교).
 
 
 **IE 대학교** (IE University)는 스페인에 있는 사립대학교로, [세고비아](../Page/세고비아.md "wikilink")와 [마드리드](../Page/마드리드.md "wikilink")에 캠퍼스를 두고 있다.

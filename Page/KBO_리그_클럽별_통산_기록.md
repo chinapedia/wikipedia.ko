@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KBO    ](https://ko.wikipedia.org/wiki/KBO____).
+> This article is converted from Wikipedia: [KBO 리그 클럽별 통산 기록](https://ko.wikipedia.org/wiki/KBO_리그_클럽별_통산_기록).
 
 
 이 문서는 [KBO 리그의](https://ko.wikipedia.org/wiki/KBO_리그 "wikilink") 참가팀별 통산 성적을 기록한 문서이다.

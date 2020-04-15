@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [WWE    ](https://ko.wikipedia.org/wiki/WWE____).
+> This article is converted from Wikipedia: [WWE 유나이티드 킹덤 챔피언십 토너먼트](https://ko.wikipedia.org/wiki/WWE_유나이티드_킹덤_챔피언십_토너먼트).
 
 
-**WWE 유나이티드 킹덤 챔피언십 토너먼트** (WWE United Kingdom Championship Tournament)는 [트리플 H가](../Page/트리플_H.md "wikilink") 미들급 디비젼의 [부활](https://ko.wikipedia.org/wiki/부활 "wikilink")을 위해 시행하는 [토너먼트](https://ko.wikipedia.org/wiki/토너먼트 "wikilink")로 [WWE](https://ko.wikipedia.org/wiki/WWE "wikilink")가 아닌 인디단체에서 활동 중인 [잉글랜드](../Page/잉글랜드.md "wikilink"), [스코틀랜드](../Page/스코틀랜드.md "wikilink"), [아일랜드](../Page/아일랜드.md "wikilink"), [웨일스](../Page/웨일스.md "wikilink") 출신 프로레슬러들이 출전하다.
+**WWE 유나이티드 킹덤 챔피언십 토너먼트**(WWE United Kingdom Championship Tournament)는 [트리플 H가](../Page/트리플_H.md "wikilink") 미들급 디비젼의 [부활](https://ko.wikipedia.org/wiki/부활 "wikilink")을 위해 시행하는 [토너먼트](https://ko.wikipedia.org/wiki/토너먼트 "wikilink")로 [WWE](https://ko.wikipedia.org/wiki/WWE "wikilink")가 아닌 인디단체에서 활동 중인 [잉글랜드](../Page/잉글랜드.md "wikilink"), [스코틀랜드](../Page/스코틀랜드.md "wikilink"), [아일랜드](../Page/아일랜드.md "wikilink"), [웨일스](../Page/웨일스.md "wikilink") 출신 프로레슬러들이 출전하다.
 
 ## 개최지
 

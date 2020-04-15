@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ B. ](https://ko.wikipedia.org/wiki/_B._).
+> This article is converted from Wikipedia: [존 B. 콜터](https://ko.wikipedia.org/wiki/존_B._콜터).
 
 
 **존 브레이틀링 콜터**(John Breitling Coulter, [1891년](../Page/1891년.md "wikilink") [4월 27일](../Page/4월_27일.md "wikilink") \~ [1983년](../Page/1983년.md "wikilink") [3월 6일](../Page/3월_6일.md "wikilink"))는 미국의 군인이다. [제1차 세계 대전](../Page/제1차_세계_대전.md "wikilink"), [제2차 세계 대전및](../Page/제2차_세계_대전.md "wikilink") [한국전쟁](https://ko.wikipedia.org/wiki/한국전쟁 "wikilink")에 참전했다. 육군 중장으로 퇴역했다.

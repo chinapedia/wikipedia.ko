@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:For nowiki](https://ko.wikipedia.org/wiki/:For_nowiki).
+> This article is converted from Wikipedia: [모듈:For nowiki](https://ko.wikipedia.org/wiki/모듈:For_nowiki).
 
 
 local p = {}

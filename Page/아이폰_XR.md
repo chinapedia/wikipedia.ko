@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ XR](https://ko.wikipedia.org/wiki/_XR).
+> This article is converted from Wikipedia: [아이폰 XR](https://ko.wikipedia.org/wiki/아이폰_XR).
 
 
 **아이폰 XR**(iPhone XR, 아이폰 텐알)은 [애플](../Page/애플.md "wikilink")이 설계, 제조한 [스마트폰](../Page/스마트폰.md "wikilink")이다. 이는 [아이폰](../Page/아이폰.md "wikilink") [12세대이다](../Page/IOS_제품_목록.md "wikilink"). 가격대가 더 높은 [아이폰 XS와](../Page/아이폰_XS.md "wikilink") 함께 [애플 파크](../Page/애플_파크.md "wikilink") 캠퍼스의 [애플 파크에서](../Page/애플_파크.md "wikilink") 2018년 9월 12일 애플의 CEO [팀 쿡에](../Page/팀_쿡.md "wikilink") 의해 발표되었다. 선주문은 2018년 10월 19일 시작하며 공식 출시는 2018년 10월 26일 이루어진다.

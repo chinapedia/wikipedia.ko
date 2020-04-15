@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ CIT ](https://ko.wikipedia.org/wiki/_CIT_).
+> This article is converted from Wikipedia: [중국철도 CIT 열차](https://ko.wikipedia.org/wiki/중국철도_CIT_열차).
 
 
 **중국철도 CIT 열차**()는 [중국고속철도](https://ko.wikipedia.org/wiki/중국고속철도 "wikilink") 검측 차량의 총칭으로 [중국고속철도](https://ko.wikipedia.org/wiki/중국고속철도 "wikilink") 구간에서 [선로](../Page/선로.md "wikilink")의 결함이나 가선 상태, 신호 전류의 상황을 검측하면서 주행 시 궤도, 전기, 신호를 설비하기 위한 검사용 차량으로 이 열차의 정식 명칭은 **종합검사기차**()이다.

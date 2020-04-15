@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Ver \(\)](https://ko.wikipedia.org/wiki/Ver_\(\)).
+> This article is converted from Wikipedia: [Ver \(명령어\)](https://ko.wikipedia.org/wiki/Ver_\(명령어\)).
 
 
 [컴퓨팅](../Page/컴퓨팅.md "wikilink")에서 **`ver`**은 [`COMMAND.COM`](../Page/COMMAND.COM.md "wikilink"), [`Cmd.exe`](../Page/Cmd.exe.md "wikilink") [4DOS](../Page/4DOS.md "wikilink")/[4NT](https://ko.wikipedia.org/wiki/Take_Command_Console "wikilink") 등의 다양한 [도스](../Page/도스.md "wikilink"), [OS/2](https://ko.wikipedia.org/wiki/OS/2 "wikilink") [마이크로소프트 윈도우](../Page/마이크로소프트_윈도우.md "wikilink") [명령 줄 인터페이스](../Page/명령_줄_인터페이스.md "wikilink")([셸](../Page/셸.md "wikilink"))에서 제공되는 [명령어](https://ko.wikipedia.org/wiki/명령어 "wikilink")이다. 운영 체제나 명령 셸의 이름과 버전을 출력한다.

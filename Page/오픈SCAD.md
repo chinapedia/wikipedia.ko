@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [SCAD](https://ko.wikipedia.org/wiki/SCAD).
+> This article is converted from Wikipedia: [오픈SCAD](https://ko.wikipedia.org/wiki/오픈SCAD).
 
 
-**오픈SCAD**(OpenSCAD)는 솔리드 3D CAD([컴퓨터 지원 설계](../Page/컴퓨터_지원_설계.md "wikilink")) 오브젝트를 만들기 위한 [자유 소프트웨어](../Page/자유_소프트웨어.md "wikilink") 애플리케이션이다. 자체 기술 언어를 사용하는 스크립트 기반 모델러이며, 부분적인 미리 보기를 지원하지만 3D 뷰에서 마우스를 사용하여 상호작용적으로 선택, 수정을 할 수는 없다. 오픈SCAD 스크립트는 지오메트릭 프리미티브(구체, 상자, 원기둥 등)를 규정하며 이것들이 어떻게 수정, 병합되어 [3차원 모델을](https://ko.wikipedia.org/wiki/3차원_모델링 "wikilink") 렌더링할지를 정의한다. 이와 같은 방식으로 이 프로그램은 [구조적 입체 기하학](https://ko.wikipedia.org/wiki/구조적_입체_기하학 "wikilink")(CSG)를 따른다. 오픈SCAD는 [윈도우](../Page/마이크로소프트_윈도우.md "wikilink"), [리눅스](../Page/리눅스.md "wikilink"), [OS X용으로](https://ko.wikipedia.org/wiki/OS_X "wikilink") 이용이 가능하다.
+**오픈SCAD**(OpenSCAD)는 솔리드 3D CAD([컴퓨터 지원 설계](../Page/컴퓨터_지원_설계.md "wikilink")) 오브젝트를 만들기 위한 [자유 소프트웨어](../Page/자유_소프트웨어.md "wikilink") 애플리케이션이다. 자체 기술 언어를 사용하는 스크립트 기반 모델러이며, 부분적인 미리 보기를 지원하지만 3D 뷰에서 마우스를 사용하여 상호작용적으로 선택, 수정을 할 수는 없다. 오픈SCAD 스크립트는 지오메트릭 프리미티브(구체, 상자, 원기둥 등)를 규정하며 이것들이 어떻게 수정, 병합되어 [3차원 모델을](../Page/3차원_모델링.md "wikilink") 렌더링할지를 정의한다. 이와 같은 방식으로 이 프로그램은 [구조적 입체 기하학](https://ko.wikipedia.org/wiki/구조적_입체_기하학 "wikilink")(CSG)를 따른다. 오픈SCAD는 [윈도우](../Page/마이크로소프트_윈도우.md "wikilink"), [리눅스](../Page/리눅스.md "wikilink"), [OS X용으로](https://ko.wikipedia.org/wiki/OS_X "wikilink") 이용이 가능하다.
 
 ## 미리 보기
 

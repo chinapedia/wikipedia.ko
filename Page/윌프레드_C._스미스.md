@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ C. ](https://ko.wikipedia.org/wiki/_C._).
+> This article is converted from Wikipedia: [윌프레드 C. 스미스](https://ko.wikipedia.org/wiki/윌프레드_C._스미스).
 
 
 **윌프레드 칸트웰 스미스 **(Wilfred Cantwell Smith , 1916년 7월 21일 – 2000년 2월 7일)는 캐나다의 [비교종교학](../Page/비교종교학.md "wikilink") 교수였다. 1964년부터 1973년까지 [하바드 대학교의](https://ko.wikipedia.org/wiki/하바드_대학교 "wikilink") 세계종교 연구센터의 소장이었다. 종교학연구 분야에서 가장 영향력있는 학자들 가운데 한사람이었다.\[1\] 1962년 작품 The Meaning and End of Religion에서 [종교](../Page/종교.md "wikilink") 개념의 타당성에 대하여 의문을 제기했다 .\[2\]

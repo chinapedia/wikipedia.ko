@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [MBC ](https://ko.wikipedia.org/wiki/MBC_).
+> This article is converted from Wikipedia: [MBC 수요심야극장](https://ko.wikipedia.org/wiki/MBC_수요심야극장).
 
 
 《**MBC 수요심야극장**》은 [대한민국](../Page/대한민국.md "wikilink")의 [문화방송](../Page/문화방송.md "wikilink")에서 방송되는 [영화](../Page/영화.md "wikilink") 프로그램으로 [1995년](../Page/1995년.md "wikilink") [9월 6일](../Page/9월_6일.md "wikilink") 첫 방송을 시작해 3년동안 매주 방송된 수요일 밤 프로그램이다.

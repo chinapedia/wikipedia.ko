@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SK ](https://ko.wikipedia.org/wiki/SK_).
+> This article is converted from Wikipedia: [광교SK뷰레이크타워 오피스텔동](https://ko.wikipedia.org/wiki/광교SK뷰레이크타워_오피스텔동).
 
 
 **광교SK뷰레이크타워 오피스텔동**()은 [대한민국](../Page/대한민국.md "wikilink") [경기도](https://ko.wikipedia.org/wiki/경기도 "wikilink") [수원시](https://ko.wikipedia.org/wiki/수원시 "wikilink") [영통구](../Page/영통구.md "wikilink") [광교동](../Page/광교동.md "wikilink")에 지어지고 있고 높이는 140.4m, 지상 41층짜리의 마천루이다. [2016년](../Page/2016년.md "wikilink")에 착공하였고 [2019년 10월에](https://ko.wikipedia.org/wiki/2019년_10월 "wikilink") 완공되었다.

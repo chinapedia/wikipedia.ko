@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Fame and Fortune \(  \)](https://ko.wikipedia.org/wiki/Fame_and_Fortune_\(__\)).
+> This article is converted from Wikipedia: [Fame and Fortune \(엘비스 프레슬리의 노래\)](https://ko.wikipedia.org/wiki/Fame_and_Fortune_\(엘비스_프레슬리의_노래\)).
 
 
 〈**Fame and Fortune**〉는 [엘비스 프레슬리의](../Page/엘비스_프레슬리.md "wikilink") 1960년 발라드\[1\]로 [프레드 와이즈가](https://ko.wikipedia.org/wiki/프레드_와이즈 "wikilink") 작사하고 [벤 와이즈먼이](https://ko.wikipedia.org/wiki/벤_와이즈먼 "wikilink") 작곡한 것이다. 1960년 3월 21일 [테네시 주 내슈빌의](../Page/내슈빌.md "wikilink") [RCA 스튜디오 B에서](../Page/RCA_스튜디오_B.md "wikilink") 녹음됐다.\[2\]\[3\]\[4\] 〈[Stuck on You](../Page/Stuck_on_You_\(엘비스_프레슬리의_노래\).md "wikilink")〉의 싱글반(RCA 47 7740) 뒷면에 취입돼 처음 공개되었다.\[5\]\[6\]\[7\] 이 싱글은 프레슬리의 첫 제대 뒤 싱글이었다.\[8\]\[9\] 1960년 5월 5일 해당 주에 [빌보드 핫 100에서](../Page/빌보드_핫_100.md "wikilink") 17위에 안착했다. 일변 〈Stuck on You〉는 1위를 몇 주간 점령했다.\[10\] 미국에서 발매된 〈Stuck on You〉 싱글은 백만 장 넘게 판매돼 [RIAA의](../Page/미국_음반_산업_협회.md "wikilink") 골드 인증을 받았다.\[11\]

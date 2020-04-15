@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Acad](https://ko.wikipedia.org/wiki/:Acad).
+> This article is converted from Wikipedia: [틀:Acad](https://ko.wikipedia.org/wiki/틀:Acad).
 
 
 }}}} {{\#if:}}}|(}}})}}

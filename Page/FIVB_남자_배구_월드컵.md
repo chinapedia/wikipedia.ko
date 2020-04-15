@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FIVB   ](https://ko.wikipedia.org/wiki/FIVB___).
+> This article is converted from Wikipedia: [FIVB 남자 배구 월드컵](https://ko.wikipedia.org/wiki/FIVB_남자_배구_월드컵).
 
 
 **FIVB 남자 배구 월드컵**()은 [배구](../Page/배구.md "wikilink") 종목을 총괄하는 국제기구인 [국제 배구 연맹](../Page/국제_배구_연맹.md "wikilink")(FIVB)이 주관하는 국제 배구 대회이다. 대회는 [1965년](../Page/1965년.md "wikilink")에 창설되었으며, [FIVB](../Page/국제_배구_연맹.md "wikilink") 가맹국의 성인 남자 국가대표팀이 참여한다. 대회 초창기에는 [올림픽 배구](../Page/올림픽_배구.md "wikilink") 이듬해에 열렸지만, [1991년](../Page/1991년.md "wikilink") 이래 [올림픽 배구](../Page/올림픽_배구.md "wikilink") 이전 해에 4년을 주기로 열리고 있다. 현재 우승국은 [2015년 월드컵에서](https://ko.wikipedia.org/wiki/2015년_FIVB_남자_배구_월드컵 "wikilink") 우승한 [미국이다](https://ko.wikipedia.org/wiki/미국_배구_국가대표팀 "wikilink").

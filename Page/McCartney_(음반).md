@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [McCartney \(\)](https://ko.wikipedia.org/wiki/McCartney_\(\)).
+> This article is converted from Wikipedia: [McCartney \(음반\)](https://ko.wikipedia.org/wiki/McCartney_\(음반\)).
 
 
 《**McCartney**》는 [폴 매카트니의](../Page/폴_매카트니.md "wikilink") 데뷔 음반이다. 《[Let It Be](../Page/Let_It_Be.md "wikilink")》를 고려해 발매를 늦추려는 [비틀즈](../Page/비틀즈.md "wikilink") 멤버의 시도를 매카트니가 막은 후 1970년 4월 [애플 레코드에서](../Page/애플_레코드.md "wikilink") 발매되었다. 매카트니는 1969년 9월에 레논이 비틀즈를 떠난다는 소식을 사적으로 접하고는 비틀즈 멤버와 음반 발매를 둘러싼 다툼으로 《McCartney》를 우울증과 혼란의 시기에 녹음했다. 1970년 4월 10일 자기 회견 형식으로 성명을 낸 그는 영국에 홍보물을 배포해 비틀즈의 해체를 주도했다.

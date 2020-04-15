@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [OK K.O.!  ](https://ko.wikipedia.org/wiki/OK_K.O.!__).
+> This article is converted from Wikipedia: [OK K.O.! 내일은 히어로](https://ko.wikipedia.org/wiki/OK_K.O.!_내일은_히어로).
 
 
 《**OK K.O.\! 내일은 히어로**》()는 [이안 존스-쿼티가](https://ko.wikipedia.org/wiki/이안_존스-쿼티 "wikilink") 기획하고 [카툰 네트워크에서](../Page/카툰_네트워크.md "wikilink") 방영 중인 미국의 텔레비전 애니메이션이다. [TRIGGER](https://ko.wikipedia.org/wiki/트리거_\(애니메이션_제작사\) "wikilink"), [디지탈 이메이션](https://ko.wikipedia.org/wiki/디지탈_이메이션 "wikilink"), [러프 드래프트 코리아에서](https://ko.wikipedia.org/wiki/러프_드래프트_코리아 "wikilink") 제작에 참여했다.

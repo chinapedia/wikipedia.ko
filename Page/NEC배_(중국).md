@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [NEC \(\)](https://ko.wikipedia.org/wiki/NEC_\(\)).
+> This article is converted from Wikipedia: [NEC배 \(중국\)](https://ko.wikipedia.org/wiki/NEC배_\(중국\)).
 
 
 **중국 NEC배**는 [일본 전기 주식회사](https://ko.wikipedia.org/wiki/일본_전기_주식회사 "wikilink")(NEC Corporation)가 주최 주관하는, [중국](../Page/중국.md "wikilink")의 [바둑 기전이다](../Page/바둑_기전.md "wikilink"). 1996년에 신설되었으며 2009년을 끝으로 중단되었다. 중국 NEC배 우승자는 [NEC배 중일 대항전에](https://ko.wikipedia.org/wiki/NEC배_중일_대항전 "wikilink") 참가한다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KBO ](https://ko.wikipedia.org/wiki/KBO_).
+> This article is converted from Wikipedia: [KBO 홀드상](https://ko.wikipedia.org/wiki/KBO_홀드상).
 
 
 **KBO 홀드상**은 연말 [KBO 리그](https://ko.wikipedia.org/wiki/KBO_리그 "wikilink") 시상식에서 해당 연도 정규 리그의 [홀드](https://ko.wikipedia.org/wiki/홀드_\(야구\) "wikilink") 1위에게 수여하는 상이다. [2000년 시즌에](../Page/2000년_한국프로야구.md "wikilink") 홀드를 공식적인 기록으로 인정한 직후 당해부터 타이틀 수상을 시작하였다.\[1\] 기존 명칭은 **한국프로야구 최다홀드상**이었으나 KBO의 브랜드 아이덴디티 통합 작업에 따라 2015년 시즌부터 "KBO 홀드상"이라는 새로운 명칭을 사용하게 되었다.\[2\]

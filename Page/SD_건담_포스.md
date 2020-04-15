@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SD  ](https://ko.wikipedia.org/wiki/SD__).
+> This article is converted from Wikipedia: [SD 건담 포스](https://ko.wikipedia.org/wiki/SD_건담_포스).
 
 
 **《SD 건담 포스》**(, *Superior Defender Gundam Force*)는 [2004년](../Page/2004년.md "wikilink") [1월 7일부터](../Page/1월_7일.md "wikilink") [12월 29일까지](../Page/12월_29일.md "wikilink") [일본](../Page/일본.md "wikilink")의 [TV 도쿄](../Page/TV_도쿄.md "wikilink") 계열에서 방영된 [로봇](../Page/로봇.md "wikilink") 애니메이션이다.

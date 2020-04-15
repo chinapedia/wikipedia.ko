@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Chains \( \)](https://ko.wikipedia.org/wiki/Chains_\(_\)).
+> This article is converted from Wikipedia: [Chains \(쿠키스의 노래\)](https://ko.wikipedia.org/wiki/Chains_\(쿠키스의_노래\)).
 
 
 〈**Chains**〉는 부부 관계에 있는 작곡가 팀 [게리 고핀과](https://ko.wikipedia.org/wiki/게리_고핀 "wikilink") [캐럴 킹이](https://ko.wikipedia.org/wiki/캐롤_킹 "wikilink") 쓴 노래로, 출시되지는 않았으나 원래 [에벌리 브라더스가](../Page/에벌리_브라더스.md "wikilink") 녹음한 바 있다. 1962년 [리틀 에바의](https://ko.wikipedia.org/wiki/리틀_에바 "wikilink") 백 싱어인 [쿠키스가](https://ko.wikipedia.org/wiki/쿠키스_\(미국의_음악_그룹\) "wikilink") 불렀고 미국 팝 차트에서는 17위, R\&B 차트에서는 7위에 올라 히트한다.\[1\] 이후 영국의 록 밴드 [비틀즈](../Page/비틀즈.md "wikilink")가 커버하게 된다.

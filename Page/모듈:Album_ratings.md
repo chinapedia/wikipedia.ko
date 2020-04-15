@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Album ratings](https://ko.wikipedia.org/wiki/:Album_ratings).
+> This article is converted from Wikipedia: [모듈:Album ratings](https://ko.wikipedia.org/wiki/모듈:Album_ratings).
 
 
 \-- This module implements [Template:Album ratings](https://ko.wikipedia.org/wiki/Template:Album_ratings "wikilink").
@@ -170,7 +170,7 @@ function p._main(args)
 `       local aggregates = {}`
 `       if args.MC then`
 `           table.insert(aggregates, {`
-`               name = '`[`메타크리틱`](https://ko.wikipedia.org/wiki/메타크리틱 "wikilink")`',`
+`               name = '`[`메타크리틱`](../Page/메타크리틱.md "wikilink")`',`
 `               sort = 'Metacritic',`
 `               score = args.MC,`
 `           })`

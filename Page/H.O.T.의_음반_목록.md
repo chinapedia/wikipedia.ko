@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [H.O.T.  ](https://ko.wikipedia.org/wiki/H.O.T.__).
+> This article is converted from Wikipedia: [H.O.T.의 음반 목록](https://ko.wikipedia.org/wiki/H.O.T.의_음반_목록).
 
 
 다음은 [대한민국](../Page/대한민국.md "wikilink")의 [음악 그룹](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink") **[H.O.T.](../Page/H.O.T..md "wikilink")**가 발매하거나 참가했던 **음반 목록**이다.

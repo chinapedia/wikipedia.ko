@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ N. ](https://ko.wikipedia.org/wiki/_N._).
+> This article is converted from Wikipedia: [본다 N. 매킨타이어](https://ko.wikipedia.org/wiki/본다_N._매킨타이어).
 
 
 **본다 닐 매킨타이어**(, [1948년](../Page/1948년.md "wikilink") [8월 28일](../Page/8월_28일.md "wikilink") \~ [2019년](../Page/2019년.md "wikilink") [4월 1일](../Page/4월_1일.md "wikilink"))는 [미국](../Page/미국.md "wikilink")의 [SF](https://ko.wikipedia.org/wiki/SF "wikilink") [소설가](https://ko.wikipedia.org/wiki/소설가 "wikilink")이다. 몇 편의 [스타 트렉과](../Page/스타_트렉.md "wikilink") [스타워즈](../Page/스타워즈.md "wikilink") 소설판으로 알려져 있으며 본인의 작품 《[달과 태양](https://ko.wikipedia.org/wiki/달과_태양 "wikilink")》으로 [휴고상](https://ko.wikipedia.org/wiki/휴고상 "wikilink"), [로커스상](https://ko.wikipedia.org/wiki/로커스상 "wikilink"), [네뷸러상](../Page/네뷸러상.md "wikilink")을 휩쓸기도 했다.

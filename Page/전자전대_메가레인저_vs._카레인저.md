@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  vs. ](https://ko.wikipedia.org/wiki/__vs._).
+> This article is converted from Wikipedia: [전자전대 메가레인저 vs. 카레인저](https://ko.wikipedia.org/wiki/전자전대_메가레인저_vs._카레인저).
 
 
 《**전자전대 메가레인저 vs. 카레인저**》()는 《[슈퍼 전대 시리즈](../Page/슈퍼_전대_시리즈.md "wikilink")》의 《[전자전대 메가레인저](../Page/전자전대_메가레인저.md "wikilink")》와 《[격주전대 카레인저](../Page/격주전대_카레인저.md "wikilink")》의 극장판으로, 카레인저와 오레인저 간의 "VS 시리즈"에 해당하는 작품이다. [1998년](../Page/1998년.md "wikilink") [3월 13일](../Page/3월_13일.md "wikilink") 최초의 오리지널 비디오 작품으로서, 공식 공개되었다.

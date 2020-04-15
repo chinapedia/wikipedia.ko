@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SAWAGELIFE](https://ko.wikipedia.org/wiki/SAWAGELIFE).
+> This article is converted from Wikipedia: [SAWAGE☆LIFE](https://ko.wikipedia.org/wiki/SAWAGE☆LIFE).
 
 
 〈**SAWAGE☆LIFE**〉(사와게라이프, )는 [2016년](../Page/2016년.md "wikilink") [7월 30일에](../Page/7월_30일.md "wikilink") 발매된 [일본](../Page/일본.md "wikilink") 가수 [쿠라키 마이의](../Page/쿠라키_마이.md "wikilink") [디지털 싱글이다](https://ko.wikipedia.org/wiki/디지털_싱글 "wikilink").

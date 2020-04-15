@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [BOOMERANG \(\)](https://ko.wikipedia.org/wiki/BOOMERANG_\(\)).
+> This article is converted from Wikipedia: [BOOMERANG \(부메랑\)](https://ko.wikipedia.org/wiki/BOOMERANG_\(부메랑\)).
 
 
 〈**BOOMERANG (부메랑)**〉은 [워너원](../Page/워너원.md "wikilink")의 노래로, 두 번째 미니 음반인 《[0+1=1 (I PROMISE YOU)](../Page/0+1=1_\(I_PROMISE_YOU\).md "wikilink")》의 타이틀 곡이다. 2018년 3월 19일에 발표되었다.

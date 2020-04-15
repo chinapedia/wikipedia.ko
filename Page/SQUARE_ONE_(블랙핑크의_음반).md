@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SQUARE ONE \( \)](https://ko.wikipedia.org/wiki/SQUARE_ONE_\(_\)).
+> This article is converted from Wikipedia: [SQUARE ONE \(블랙핑크의 음반\)](https://ko.wikipedia.org/wiki/SQUARE_ONE_\(블랙핑크의_음반\)).
 
 
 《**SQUARE ONE**》(스퀘어 원)은 걸그룹 [블랙핑크](../Page/블랙핑크.md "wikilink")의 데뷔 디지털 싱글 음반으로, 2016년 8월 8일에 발매되었다.

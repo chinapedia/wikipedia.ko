@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ HD](https://ko.wikipedia.org/wiki/_HD).
+> This article is converted from Wikipedia: [눅 HD](https://ko.wikipedia.org/wiki/눅_HD).
 
 
 [thumb](https://ko.wikipedia.org/wiki/파일:NookHD+Tablet.jpg "wikilink") **눅 HD**(Nook HD)와 **눅 HD+**(Nook HD+)는 [복사 제한(DRM)된](../Page/디지털_권리_관리.md "wikilink")\[1\] 사유 파일들\[2\]이나 기타 파일들을 사용하기 위한 [반스 & 노블의](https://ko.wikipedia.org/wiki/반스_&_노블 "wikilink") 3세대 눅 계열의 컬러 [태블릿](../Page/태블릿_컴퓨터.md "wikilink") [전자책 단말기](https://ko.wikipedia.org/wiki/전자책_단말기 "wikilink")/미디어 플레이어이다. 이 두 모델은 [눅 태블릿의](https://ko.wikipedia.org/wiki/눅_태블릿 "wikilink") 뒤를 이으며 모두 2012년 11월 8일 에 출시되었다.

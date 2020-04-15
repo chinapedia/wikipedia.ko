@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ L. ](https://ko.wikipedia.org/wiki/_L._).
+> This article is converted from Wikipedia: [조지프 L. 골드스타인](https://ko.wikipedia.org/wiki/조지프_L._골드스타인).
 
 
 **조지프 레너드 골드스타인**(\[1\], [ForMemRS](https://ko.wikipedia.org/wiki/왕립학회_회원 "wikilink")\[2\], [1940년](../Page/1940년.md "wikilink") [4월 18일](../Page/4월_18일.md "wikilink") \~ )은 [미국](../Page/미국.md "wikilink")의 [생화학](https://ko.wikipedia.org/wiki/생화학 "wikilink")자, [유전학](../Page/유전학.md "wikilink")자이다. 1985년에 [콜레스테롤](../Page/콜레스테롤.md "wikilink") 신진 [대사](../Page/물질대사.md "wikilink") 과정에 관한 연구로 [마이클 스튜어트 브라운과](../Page/마이클_스튜어트_브라운.md "wikilink") 함께 [노벨 생리학·의학상을](../Page/노벨_생리학·의학상.md "wikilink") 수상했다.\[3\]

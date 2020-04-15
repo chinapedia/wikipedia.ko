@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ C. ](https://ko.wikipedia.org/wiki/_C._).
+> This article is converted from Wikipedia: [제프리 C. 홀](https://ko.wikipedia.org/wiki/제프리_C._홀).
 
 
 **제프리 코너 홀**(\[1\], [1945년](../Page/1945년.md "wikilink") [5월 3일](../Page/5월_3일.md "wikilink") \~ )은 [미국](../Page/미국.md "wikilink")의 [유전학](../Page/유전학.md "wikilink")자이다. 2017년에 생체시계를 통제하는 분자 메커니즘을 발견한 공로로 [마이클 로스배시](../Page/마이클_로스배시.md "wikilink"), [마이클 W. 영과](../Page/마이클_W._영.md "wikilink") 함께 [노벨 생리학·의학상을](../Page/노벨_생리학·의학상.md "wikilink") 수상했다.\[2\]\[3\]

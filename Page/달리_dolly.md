@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ dolly](https://ko.wikipedia.org/wiki/_dolly).
+> This article is converted from Wikipedia: [달리 dolly](https://ko.wikipedia.org/wiki/달리_dolly).
 
 
 **달리 (Dolly)**([1978년](../Page/1978년.md "wikilink") [6월 20일](../Page/6월_20일.md "wikilink") - )는 [대한민국](../Page/대한민국.md "wikilink")의 음악가이다.

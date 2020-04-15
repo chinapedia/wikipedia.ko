@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FE-](https://ko.wikipedia.org/wiki/FE-).
+> This article is converted from Wikipedia: [FE-글꼴](https://ko.wikipedia.org/wiki/FE-글꼴).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:FE-Schrift.svg "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:Fe-Schrift-Manipulation.png "wikilink") **FE-글꼴**(\[1\] 또는 )는 [차량 번호판에](../Page/차량_번호판.md "wikilink") 사용하기 위해 개발한 [글꼴](../Page/글꼴.md "wikilink")이다. 이 글꼴의 글자와 숫자는 너비가 일정한데, 변조를 어렵게 하고 기계가 정확하게 판독할 수 있도록 하기 위해 조금 비례에 어긋나도록 하기도 했다. 이 글꼴은 [독일](../Page/독일.md "wikilink")에서 개발되었고, [독일](../Page/독일.md "wikilink")에서는 1995년 1월부터 [DIN 1451](../Page/DIN_1451.md "wikilink") 글꼴을 대신하여 [차량 번호판에](../Page/차량_번호판.md "wikilink") 이 글꼴을 적용하기 시작했고, 2000년 11월부터는 차량 번호판에는 의무적으로 이 글꼴을 쓰도록 하였다.\[2\]

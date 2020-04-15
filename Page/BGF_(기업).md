@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [BGF \(\)](https://ko.wikipedia.org/wiki/BGF_\(\)).
+> This article is converted from Wikipedia: [BGF \(기업\)](https://ko.wikipedia.org/wiki/BGF_\(기업\)).
 
 
 **BGF**는 대한민국의 BGF그룹의 지주회사이다.

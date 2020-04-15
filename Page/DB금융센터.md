@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [DB](https://ko.wikipedia.org/wiki/DB).
+> This article is converted from Wikipedia: [DB금융센터](https://ko.wikipedia.org/wiki/DB금융센터).
 
 
 **DB금융센터**()는 [대한민국](../Page/대한민국.md "wikilink") [서울특별시](../Page/서울특별시.md "wikilink") [강남구](https://ko.wikipedia.org/wiki/강남구 "wikilink") [대치동](../Page/대치동.md "wikilink")에 위치한 오피스 빌딩이다. 높이는 154m, 지상 35층으로 되어있고 2001년 12월 31일에 준공됐다.

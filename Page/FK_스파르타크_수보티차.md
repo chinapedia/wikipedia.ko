@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FK  ](https://ko.wikipedia.org/wiki/FK__).
+> This article is converted from Wikipedia: [FK 스파르타크 수보티차](https://ko.wikipedia.org/wiki/FK_스파르타크_수보티차).
 
 
 **FK 스파르타크 수보티차**()는 [수보티차](https://ko.wikipedia.org/wiki/수보티차 "wikilink")를 연고로 하는 [세르비아](../Page/세르비아.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다. 현재는 [세르비아 수페르리가에](https://ko.wikipedia.org/wiki/세르비아_수페르리가 "wikilink") 참가하고 있다.

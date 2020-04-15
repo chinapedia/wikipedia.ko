@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
+> This article is converted from Wikipedia: [칼로니 FC](https://ko.wikipedia.org/wiki/칼로니_FC).
 
 
 **칼로니 FC**()는 [레스보스 섬의](https://ko.wikipedia.org/wiki/레스보스_섬 "wikilink") 칼로니(Kalloni)를 연고로 하는 [그리스](../Page/그리스.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다. 현재는 그리스의 2부 축구 리그인 [풋볼 리그에](../Page/풋볼_리그_\(그리스\).md "wikilink") 참가하고 있다.

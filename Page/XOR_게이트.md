@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [XOR ](https://ko.wikipedia.org/wiki/XOR_).
+> This article is converted from Wikipedia: [XOR 게이트](https://ko.wikipedia.org/wiki/XOR_게이트).
 
 
 |           |            |

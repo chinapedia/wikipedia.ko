@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [C  ](https://ko.wikipedia.org/wiki/C__).
+> This article is converted from Wikipedia: [C 파일 입출력](https://ko.wikipedia.org/wiki/C_파일_입출력).
 
 
 프로그래밍 언어 [C는](../Page/C_\(프로그래밍_언어\).md "wikilink") [파일](../Page/컴퓨터_파일.md "wikilink") [입출력](../Page/입출력.md "wikilink")을 위한 많은 [표준 라이브러리](../Page/표준_라이브러리.md "wikilink") [기능들을](https://ko.wikipedia.org/wiki/서브루틴 "wikilink") 제공한다. 이 기능들은 대부분 [C 표준 라이브러리](../Page/C_표준_라이브러리.md "wikilink") [헤더 파일](../Page/헤더_파일.md "wikilink") 로부터 구성된다.\[1\] 이 기능들은 1970년대 초반 벨 연구소의 [마이크 레스크가](https://ko.wikipedia.org/wiki/마이크_레스크 "wikilink") 작성한 "휴대용 입출력 패키지"에서 왔으며,\[2\] [유닉스](../Page/유닉스.md "wikilink") [버전 7에서](https://ko.wikipedia.org/wiki/버전_7_유닉스 "wikilink") 정식으로 운영체제의 한 부분이 되었다.\[3\]
@@ -322,7 +322,7 @@ fseeko</p></td>
 </tr>
 <tr class="odd">
 <td><p>TMP_MAX</p></td>
-<td><p>기능에 의해 만들어 지는 특수 파일이름의 최대 길이. (최소 25자)</p></td>
+<td><p>기능에 의해 만들어지는 특수 파일이름의 최대 길이. (최소 25자)</p></td>
 </tr>
 </tbody>
 </table>

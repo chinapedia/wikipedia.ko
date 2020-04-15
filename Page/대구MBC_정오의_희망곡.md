@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [MBC  ](https://ko.wikipedia.org/wiki/MBC__).
+> This article is converted from Wikipedia: [대구MBC 정오의 희망곡](https://ko.wikipedia.org/wiki/대구MBC_정오의_희망곡).
 
 
-**윤윤선의 정오의 희망곡**은 [대구MBC FM4U](../Page/대구문화방송.md "wikilink")(FM 95.3㎒)에서 매일 낮 12시부터 오후 2시까지 방송되는 대구·경북 지역의 대중가요 전문 라디오 프로그램이다. [1983년](../Page/1983년.md "wikilink") [10월 10일에](../Page/10월_10일.md "wikilink") [대구MBC FM4U가](../Page/대구문화방송.md "wikilink") 개국하면서 첫방송을 시작한 [대구MBC FM4U의](../Page/대구문화방송.md "wikilink") 최장수 라디오 프로그램이다.
+**윤윤선의 정오의 희망곡**은 [대구MBC](../Page/대구문화방송.md "wikilink") [FM4U](../Page/MBC_FM4U.md "wikilink")(FM 95.3㎒)에서 매일 낮 12시부터 오후 2시까지 방송되는 [대구경북](../Page/대구경북.md "wikilink") 지역의 대중가요 전문 라디오 프로그램이다. [1983년](../Page/1983년.md "wikilink") [10월 10일에](../Page/10월_10일.md "wikilink") [대구MBC](../Page/대구문화방송.md "wikilink") [FM4U가](../Page/MBC_FM4U.md "wikilink") 개국하면서 첫방송을 시작한 [대구MBC](../Page/대구문화방송.md "wikilink") [FM4U의](../Page/MBC_FM4U.md "wikilink") 최장수 라디오 프로그램이다.
 
 ## 코너소개
 

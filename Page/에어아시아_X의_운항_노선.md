@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ X  ](https://ko.wikipedia.org/wiki/_X__).
+> This article is converted from Wikipedia: [에어아시아 X의 운항 노선](https://ko.wikipedia.org/wiki/에어아시아_X의_운항_노선).
 
 
 [2020년](../Page/2020년.md "wikilink") [2월](../Page/2월.md "wikilink") 기준으로 **[에어아시아 X](../Page/에어아시아_X.md "wikilink")**의 운항 노선은 다음과 같다.

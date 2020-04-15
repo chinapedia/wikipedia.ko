@@ -1,9 +1,9 @@
-> This article is converted from Wikipedia: [K-d ](https://ko.wikipedia.org/wiki/K-d_).
+> This article is converted from Wikipedia: [K-d 트리](https://ko.wikipedia.org/wiki/K-d_트리).
 
 
-[thumb](https://ko.wikipedia.org/wiki/파일:3dtree.png "wikilink")
+[섬네일](https://ko.wikipedia.org/wiki/파일:3dtree.png "wikilink")
 
-[컴퓨터 과학에서](../Page/컴퓨터_과학.md "wikilink"), ***k*-d 트리** (, *k-차원(dimensional) [트리](https://ko.wikipedia.org/wiki/트리_구조 "wikilink")*)는 *k*차원 [공간의](../Page/유클리드_공간.md "wikilink") [점들을](../Page/점_\(기하학\).md "wikilink") 구조화 하는 [공간 분할](https://ko.wikipedia.org/wiki/공간_분할법 "wikilink") [자료 구조이다](../Page/자료_구조.md "wikilink"). *k*-d 트리는 다차원 탐색 키에 관련된 탐색 같은 적용분야에 유용한 자료구조이다(예: [범위 탐색과](https://ko.wikipedia.org/wiki/범위_탐색 "wikilink") [최근접 이웃 탐색](https://ko.wikipedia.org/wiki/최근접_이웃_탐색 "wikilink")). *k*-d 트리는 [이진 공간 분할](../Page/이진_공간_분할법.md "wikilink") 트리의 특수한 경우이다.
+[컴퓨터 과학에서](../Page/컴퓨터_과학.md "wikilink"), ***k*-d 트리**(, *k-차원(dimensional) [트리](https://ko.wikipedia.org/wiki/트리_구조 "wikilink")*)는 *k*차원 [공간의](../Page/유클리드_공간.md "wikilink") [점들을](../Page/점_\(기하학\).md "wikilink") 구조화 하는 [공간 분할](https://ko.wikipedia.org/wiki/공간_분할법 "wikilink") [자료 구조이다](../Page/자료_구조.md "wikilink"). *k*-d 트리는 다차원 탐색 키에 관련된 탐색 같은 적용분야에 유용한 자료구조이다(예: [범위 탐색과](https://ko.wikipedia.org/wiki/범위_탐색 "wikilink") [최근접 이웃 탐색](https://ko.wikipedia.org/wiki/최근접_이웃_탐색 "wikilink")). *k*-d 트리는 [이진 공간 분할](../Page/이진_공간_분할법.md "wikilink") 트리의 특수한 경우이다.
 
 ## 비공식적 설명
 

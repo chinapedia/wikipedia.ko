@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Hatnote](https://ko.wikipedia.org/wiki/:Hatnote).
+> This article is converted from Wikipedia: [모듈:Hatnote](https://ko.wikipedia.org/wiki/모듈:Hatnote).
 
 
 -----

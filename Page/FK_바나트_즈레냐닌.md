@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FK  ](https://ko.wikipedia.org/wiki/FK__).
+> This article is converted from Wikipedia: [FK 바나트 즈레냐닌](https://ko.wikipedia.org/wiki/FK_바나트_즈레냐닌).
 
 
 **FK 바나트 즈레냐닌**()은 [즈레냐닌](../Page/즈레냐닌.md "wikilink")을 연고로 하는 [세르비아](../Page/세르비아.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다. [2006년](../Page/2006년.md "wikilink")에 설립되었으며 [2016년](../Page/2016년.md "wikilink")에 해체되었다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [P. J. ](https://ko.wikipedia.org/wiki/P._J._).
+> This article is converted from Wikipedia: [P. J. 케네디](https://ko.wikipedia.org/wiki/P._J._케네디).
 
 
 **패트릭 조지프 케네디**(, 줄여서 **P. J. 케네디**(P. J. Kennedy), [1858년](../Page/1858년.md "wikilink") [1월 14일](../Page/1월_14일.md "wikilink") \~ [1929년](../Page/1929년.md "wikilink") [5월 18일](../Page/5월_18일.md "wikilink"))는 [미국](../Page/미국.md "wikilink")의 기업인, 정치인이다. [미국의 대통령을](../Page/미국의_대통령.md "wikilink") 역임한 [존 F. 케네디의](../Page/존_F._케네디.md "wikilink") 할아버지이기도 하다.

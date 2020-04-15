@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KTX ](https://ko.wikipedia.org/wiki/KTX_).
+> This article is converted from Wikipedia: [KTX 리무진](https://ko.wikipedia.org/wiki/KTX_리무진).
 
 
 [thumb](https://ko.wikipedia.org/wiki/파일:KTX_shuttle_bus_8507.jpg "wikilink") **KTX 리무진**은 [한국고속철도](../Page/한국고속철도.md "wikilink")의 역과의 연계를 편리하게 이루어지게 하고, 승용차 이용 억제를 위해 [수도권](../Page/수도권.md "wikilink")의 [광명역](../Page/광명역.md "wikilink"), [김천시](../Page/김천시.md "wikilink")의 [김천구미역](https://ko.wikipedia.org/wiki/김천구미역 "wikilink"), [양산시](../Page/양산시.md "wikilink"), [울산광역시](https://ko.wikipedia.org/wiki/울산광역시 "wikilink")의 [울산역](../Page/울산역.md "wikilink")을 중심으로 운행하는 버스체계를 말한다.

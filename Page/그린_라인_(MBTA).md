@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  \(MBTA\)](https://ko.wikipedia.org/wiki/__\(MBTA\)).
+> This article is converted from Wikipedia: [그린 라인 \(MBTA\)](https://ko.wikipedia.org/wiki/그린_라인_\(MBTA\)).
 
 
 **그린 라인**()은 [매사추세츠주](../Page/매사추세츠주.md "wikilink") [보스턴](../Page/보스턴.md "wikilink")의 [매사추세츠 만 교통공사](https://ko.wikipedia.org/wiki/매사추세츠_만_교통공사 "wikilink")(MBTA)에서 운영하는 [경전철](../Page/경전철.md "wikilink")([라이트 레일](../Page/라이트_레일.md "wikilink")) 노선이며, [1897년](../Page/1897년.md "wikilink") [9월 1일에](../Page/9월_1일.md "wikilink") 개통한 미국에서 가장 오래된 [지하철](../Page/지하철.md "wikilink") 노선이다.\[1\] 그린 라인은 다운타운 보스턴을 지하로 지나면서, 여러 반경을 통해 대로 및 내부 교외로 이어진다. 2015년 평일 232,000명 이상의 승객이 이용하여 미국에서 가장 많이 이용되는 경전철 시스템이다.\[2\] 보스턴의 [에메랄드 넥레이스](https://ko.wikipedia.org/wiki/에메랄드_넥레이스 "wikilink")(Emerald Necklace)구간을 통과하기 때문에 1967년 지하철 시스템 브랜드 개편 당시 이 노선을 녹색으로 지정하였다.\[3\]\[4\]\[5\]
@@ -118,7 +118,7 @@
 <td><p>0분</p></td>
 <td><p>1897년 9월 1일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/그린_라인_B_지선" title="wikilink">B 지선</a> 시·종착역<br />
- <a href="https://ko.wikipedia.org/wiki/레드_라인_(MBTA)" title="wikilink">레드</a>,  <a href="https://ko.wikipedia.org/wiki/오렌지_라인_(MBTA)" title="wikilink">오렌지</a>,  <a href="../Page/실버_라인_(MBTA).md" title="wikilink">실버 라인과</a> 환승 (실버 라인의 <a href="https://ko.wikipedia.org/wiki/운임_통제" title="wikilink">운임 통제</a> 구역을 나와야 함)</p></td>
+ <a href="../Page/레드_라인_(MBTA).md" title="wikilink">레드</a>,  <a href="https://ko.wikipedia.org/wiki/오렌지_라인_(MBTA)" title="wikilink">오렌지</a>,  <a href="../Page/실버_라인_(MBTA).md" title="wikilink">실버 라인과</a> 환승 (실버 라인의 <a href="https://ko.wikipedia.org/wiki/운임_통제" title="wikilink">운임 통제</a> 구역을 나와야 함)</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/보일스턴_역" title="wikilink">보일스턴</a><br />
@@ -924,7 +924,7 @@ MBTA가 운영하는 차량만을 포함하며, [보스턴 고가 철도](https:
 
 [섬네일에](https://ko.wikipedia.org/wiki/파일:Longwood_MBTA_station,_Brookline_MA.jpg "wikilink") 정차한 저상 Type 8 차량. 접근성 있는 탑승을 위한 승강장을 갖추었다.\]\] [섬네일](https://ko.wikipedia.org/wiki/파일:Mini-high_platform_at_Newton_Centre_station,_December_2015.JPG "wikilink"))\]\]
 
-[레드 라인](https://ko.wikipedia.org/wiki/레드_라인_\(MBTA\) "wikilink"), [블루 라인](https://ko.wikipedia.org/wiki/블루_라인_\(MBTA\) "wikilink"), [오렌지 라인은](https://ko.wikipedia.org/wiki/오렌지_라인_\(MBTA\) "wikilink") 중전철 차량으로 운행하며, 전 역사가 고상 승강장을 사용하여 차량 바닥과 맞춰지기 때문에 장애인이 쉽게 접근할 수 있는 구조이다. 한편 그린 라인은 [노면 전차](https://ko.wikipedia.org/wiki/노면_전차 "wikilink") 선로이며, 다양한 전차를 사용하였다.
+[레드 라인](../Page/레드_라인_\(MBTA\).md "wikilink"), [블루 라인](https://ko.wikipedia.org/wiki/블루_라인_\(MBTA\) "wikilink"), [오렌지 라인은](https://ko.wikipedia.org/wiki/오렌지_라인_\(MBTA\) "wikilink") 중전철 차량으로 운행하며, 전 역사가 고상 승강장을 사용하여 차량 바닥과 맞춰지기 때문에 장애인이 쉽게 접근할 수 있는 구조이다. 한편 그린 라인은 [노면 전차](https://ko.wikipedia.org/wiki/노면_전차 "wikilink") 선로이며, 다양한 전차를 사용하였다.
 
 원래 그린 라인의 모든 역은 궤도 수준 높이의 저상 승강장을 사용하기 때문에, 승객은 여러 계단을 올라 차량에 탑승해야 했다. 그래서 장애인을 위한 [접근성](../Page/접근성.md "wikilink")이 제한되어서, 이 문제를 해결하기 위해 연방 및 주법을 변경함에 따라 추가 시설을 넣었다.\[15\]
 

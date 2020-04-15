@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Mihimaru GT](https://ko.wikipedia.org/wiki/:Mihimaru_GT).
+> This article is converted from Wikipedia: [틀:Mihimaru GT](https://ko.wikipedia.org/wiki/틀:Mihimaru_GT).
 
 
 <noinclude></noinclude><noinclude>  [분류:일본의 음악 그룹 틀](https://ko.wikipedia.org/wiki/분류:일본의_음악_그룹_틀 "wikilink") </noinclude>

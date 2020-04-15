@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Getty \(\)](https://ko.wikipedia.org/wiki/Getty_\(\)).
+> This article is converted from Wikipedia: [Getty \(유닉스\)](https://ko.wikipedia.org/wiki/Getty_\(유닉스\)).
 
 
 **`getty`**("get tty"의 준말)는 물리적 [터미널이나](../Page/단말기.md "wikilink") 가상 터미널(TTYs)을 관리하는 [호스트 컴퓨터에서](../Page/호스트_\(네트워크\).md "wikilink") 실행되는 [유닉스](../Page/유닉스.md "wikilink") 프로그램이다. 연결을 감지하면 사용자 인증을 위해 사용자 이름을 물어본 다음 '[login](../Page/로그인.md "wikilink")' 프로그램을 실행한다.

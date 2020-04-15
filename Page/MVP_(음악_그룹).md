@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [MVP \( \)](https://ko.wikipedia.org/wiki/MVP_\(_\)).
+> This article is converted from Wikipedia: [MVP \(음악 그룹\)](https://ko.wikipedia.org/wiki/MVP_\(음악_그룹\)).
 
 
 **MVP**는 [대한민국](../Page/대한민국.md "wikilink")의 7인조 [보이그룹](https://ko.wikipedia.org/wiki/보이그룹 "wikilink")이다.\[1\] 2017년 3월 13일에 미니 앨범 [MANIFEST](https://ko.wikipedia.org/wiki/MANIFEST "wikilink")을 발매하면서 데뷔하였다.\[2\] 팬클럽 명은 VICTORY로 정해졌다

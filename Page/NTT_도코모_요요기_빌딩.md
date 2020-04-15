@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [NTT   ](https://ko.wikipedia.org/wiki/NTT___).
+> This article is converted from Wikipedia: [NTT 도코모 요요기 빌딩](https://ko.wikipedia.org/wiki/NTT_도코모_요요기_빌딩).
 
 
 **NTT 도코모 요요기 빌딩**(, )은 [도쿄도](../Page/도쿄도.md "wikilink") [시부야 구](https://ko.wikipedia.org/wiki/시부야_구 "wikilink") [센다가야](https://ko.wikipedia.org/wiki/센다가야 "wikilink") 5가에 있는 [일본](../Page/일본.md "wikilink")의 [마천루](../Page/마천루.md "wikilink")이다. 높이는 239.85m, 지상 27층과 지하 3층으로 돼있다. [NTT 도코모가](../Page/NTT_도코모.md "wikilink") 운영하고 있으며 통칭으론 **도코모 타워**()라고 불리기도 한다.

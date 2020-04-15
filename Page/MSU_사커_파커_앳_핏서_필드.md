@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [MSU     ](https://ko.wikipedia.org/wiki/MSU_____).
+> This article is converted from Wikipedia: [MSU 사커 파커 앳 핏서 필드](https://ko.wikipedia.org/wiki/MSU_사커_파커_앳_핏서_필드).
 
 
 **MSU 사커 파커 앳 핏서 필드**(MSU Soccer Park at Pittser Field)는 [미국](../Page/미국.md "wikilink") [뉴저지주](../Page/뉴저지주.md "wikilink") [몬트클레어에](https://ko.wikipedia.org/wiki/몬트클레어_\(뉴저지주\) "wikilink") 위치한 [USL](https://ko.wikipedia.org/wiki/유나이티드_사커_리그 "wikilink") [뉴욕 레드불스 II의](../Page/뉴욕_레드불스_II.md "wikilink") 홈경기장이다.

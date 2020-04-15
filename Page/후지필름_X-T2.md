@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ X-T2](https://ko.wikipedia.org/wiki/_X-T2).
+> This article is converted from Wikipedia: [후지필름 X-T2](https://ko.wikipedia.org/wiki/후지필름_X-T2).
 
 
 **후지필름 X-T2**는 [후지필름](../Page/후지필름.md "wikilink")에서 제조하는 [방진, 방습](https://ko.wikipedia.org/wiki/풍화 "wikilink") 기능을 가진 [미러리스](../Page/미러리스_렌즈_교환식_카메라.md "wikilink") 카메라로, 2016년 7월 7일 발표되었다. [후지필름 X-시리즈의](https://ko.wikipedia.org/wiki/후지필름_X-시리즈 "wikilink") 일부로서, [후지필름 X-마운트](../Page/후지필름_X-마운트.md "wikilink") 렌즈를 사용하며, [후지필름 X-T1을](../Page/후지필름_X-T1.md "wikilink") 계승한 것이다. 판매는 2016년 9월 8일부터 시작되었다.\[1\]\[2\]

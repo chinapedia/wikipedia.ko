@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [BM \(\)](https://ko.wikipedia.org/wiki/BM_\(\)).
+> This article is converted from Wikipedia: [BM \(래퍼\)](https://ko.wikipedia.org/wiki/BM_\(래퍼\)).
 
 
 **BM**(, [1992년](../Page/1992년.md "wikilink") [10월 20일](../Page/10월_20일.md "wikilink") \~ )은 혼성 그룹 [카드의](../Page/카드_\(음악_그룹\).md "wikilink") 멤버이며, 팀에서 king을 맡고있다.\[1\]상징문양은 ♣(클로버)이다.

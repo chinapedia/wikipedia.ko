@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:File link](https://ko.wikipedia.org/wiki/:File_link).
+> This article is converted from Wikipedia: [모듈:File link](https://ko.wikipedia.org/wiki/모듈:File_link).
 
 
 \-- This module provides a library for formatting file wikilinks.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ W](https://ko.wikipedia.org/wiki/_W).
+> This article is converted from Wikipedia: [뉴이스트 W](https://ko.wikipedia.org/wiki/뉴이스트_W).
 
 
 **뉴이스트 W**()는 대한민국의 4인조 보이 그룹이다. [플레디스 엔터테인먼트](../Page/플레디스_엔터테인먼트.md "wikilink") 소속으로, 그룹명은 **NU**, **E**stablish, **S**tyle, **T**empo의 약자이다. 'W'는 여보세요 2017 ver. 영상에 포함된 태그 'Waiting_you'에서 암시한 대로 멤버 [민현](https://ko.wikipedia.org/wiki/민현 "wikilink")의 [워너원](../Page/워너원.md "wikilink") 활동 종료 후 완전체가 되기 전까지 [민현](https://ko.wikipedia.org/wiki/민현 "wikilink")을 기다리겠다는 의미와 오랜 기간 팬들을 다시 만날 날을 기다려왔다는 두 가지 의미이다. [워너원](../Page/워너원.md "wikilink")으로써의 [민현](https://ko.wikipedia.org/wiki/민현 "wikilink")의 활동이 2019년 1월 27일 부로 종료되었고, [뉴이스트](../Page/뉴이스트.md "wikilink")에 복귀하게 됨과 동시에 뉴이스트 W의 활동도 자연스럽게 마무리되었다. 2019년 3월 중순 민현 합류한 완전체로 컴백한다.

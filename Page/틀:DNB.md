@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:DNB](https://ko.wikipedia.org/wiki/:DNB).
+> This article is converted from Wikipedia: [틀:DNB](https://ko.wikipedia.org/wiki/틀:DNB).
 
 
 {{\#if:  }}}| |

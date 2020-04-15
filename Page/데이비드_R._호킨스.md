@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ R. ](https://ko.wikipedia.org/wiki/_R._).
+> This article is converted from Wikipedia: [데이비드 R. 호킨스](https://ko.wikipedia.org/wiki/데이비드_R._호킨스).
 
 
 **데이비드 레이먼 호킨스**(, 1927년 6월 3일 \~ 2012년 9월 19일), [미국](../Page/미국.md "wikilink")의 정신과 의사, 영적 지도자, 의식 연구가, 저술가, 강연가이다.

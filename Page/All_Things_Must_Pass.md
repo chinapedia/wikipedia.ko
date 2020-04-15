@@ -7,7 +7,7 @@
 
 모든 곡들은 특별한 언급이 없는 한 [조지 해리슨에](../Page/조지_해리슨.md "wikilink") 의해 작사/작곡되었다.
 
-### 오리지널 출시
+### 오리지널 발매
 
 **Side one**
 
@@ -30,7 +30,7 @@
 
 4.  "[Let It Down](https://ko.wikipedia.org/wiki/Let_It_Down "wikilink")" – 4:57
 
-5.  "[Run of the Mill](https://ko.wikipedia.org/wiki/Run_of_the_Mill "wikilink")" – 2:49
+5.  "[Run of the Mill](https://ko.wikipedia.org/wiki/Run_of_the_Mill_\(조지_해리슨의_노래\) "wikilink")" – 2:49
 
 **Side three**
 

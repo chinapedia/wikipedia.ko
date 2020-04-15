@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Live at the BBC \( \)](https://ko.wikipedia.org/wiki/Live_at_the_BBC_\(_\)).
+> This article is converted from Wikipedia: [Live at the BBC \(비틀즈의 음반\)](https://ko.wikipedia.org/wiki/Live_at_the_BBC_\(비틀즈의_음반\)).
 
 
 《**Live at the BBC**》은 [비틀즈](../Page/비틀즈.md "wikilink")가 1963년부터 1965년부터 BBC 라디오 프로그램에서 진행된 다양한 라디오 쇼에서 공연한 음원을 엮은 컴필레이션 음반이다. 모노 음반은 다양한 형식으로 구매 가능하지만 대부분이 두 개의 CD로 구성된 형식이다. 여기에는 56개의 노래와 13개의 대화 트랙이 담겨 있다. 이중 30곡은 이전에 한 번도 출시된 적 없는 것이다. 비틀즈가 공식적으로 미발표 공연 음원을 출시한 것은 1977년 《The Beatles at the Hollywood Bowl》 이후로, 이전의 미공개 곡을 담은 것은 1970년의 정규 음반 《[Let It Be](../Page/Let_It_Be.md "wikilink")》 이후로 처음이다.

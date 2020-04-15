@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ T. ](https://ko.wikipedia.org/wiki/_T._).
+> This article is converted from Wikipedia: [마이클 T. 플린](https://ko.wikipedia.org/wiki/마이클_T._플린).
 
 
 **마이클 토머스 "마이크" 플린**(, [1958년](../Page/1958년.md "wikilink") \~ )은 [미국](../Page/미국.md "wikilink")의 [육군](../Page/미국_육군.md "wikilink") 장성으로 [도널드 트럼프](../Page/도널드_트럼프.md "wikilink") 행정부에서 국가안보보좌관을 지냈다.

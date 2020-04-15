@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ H. ](https://ko.wikipedia.org/wiki/_H._).
+> This article is converted from Wikipedia: [데이비드 H. 허블](https://ko.wikipedia.org/wiki/데이비드_H._허블).
 
 
 **데이비드 헌터 허블**(, [FRS](https://ko.wikipedia.org/wiki/왕립학회_회원 "wikilink"), [1926년](../Page/1926년.md "wikilink") [2월 27일](../Page/2월_27일.md "wikilink") \~ [2013년](../Page/2013년.md "wikilink") [9월 22일](../Page/9월_22일.md "wikilink"))은 [캐나다](../Page/캐나다.md "wikilink") 출신의 [미국](../Page/미국.md "wikilink")의 [신경생리학](https://ko.wikipedia.org/wiki/신경생리학 "wikilink")자이다. 1981년에 대뇌반구의 기능과 시각정보화 과정에 관한 연구로 [토르스텐 비셀과](../Page/토르스텐_비셀.md "wikilink") 함께 [노벨 생리학·의학상을](../Page/노벨_생리학·의학상.md "wikilink") 수상했다.\[1\]\[2\]\[3\]

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ OS](https://ko.wikipedia.org/wiki/_OS).
+> This article is converted from Wikipedia: [파이어 OS](https://ko.wikipedia.org/wiki/파이어_OS).
 
 
 **아마존 파이어 OS**(Amazon Fire OS)는 [파이어 폰과](https://ko.wikipedia.org/wiki/파이어_폰 "wikilink") [킨들 파이어](https://ko.wikipedia.org/wiki/킨들_파이어 "wikilink") 계열의 [태블릿](../Page/태블릿_컴퓨터.md "wikilink"), 에코(Echo), 에코 닷(Echo Dot), 또 [파이어 TV와](https://ko.wikipedia.org/wiki/아마존_파이어_TV "wikilink") 같은 기타 콘텐츠 배급 장치를 대상으로 [아마존닷컴](https://ko.wikipedia.org/wiki/아마존닷컴 "wikilink")이 개발한 [안드로이드](../Page/안드로이드_\(운영_체제\).md "wikilink") 기반 [모바일 운영 체제이다](../Page/모바일_운영_체제.md "wikilink"). 태블릿 버전의 [킨들](../Page/아마존_킨들.md "wikilink") 전자책 단말기들은 파이어 계열에 속한다. 이는 [안드로이드로부터](../Page/안드로이드_\(운영_체제\).md "wikilink") [분기된](../Page/포크_\(소프트웨어_개발\).md "wikilink") 것이다. 파이어 OS는 주로 사용자 맞춤식 [사용자 인터페이스](../Page/사용자_인터페이스.md "wikilink") 및 아마존 자체 상점 및 서비스에서 이용 가능한 콘텐츠와 상당 부분 연계한 콘텐츠 소비에 핵심을 두고 있다.

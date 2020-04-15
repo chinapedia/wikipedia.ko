@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Misery \( \)](https://ko.wikipedia.org/wiki/Misery_\(_\)).
+> This article is converted from Wikipedia: [Misery \(비틀즈의 노래\)](https://ko.wikipedia.org/wiki/Misery_\(비틀즈의_노래\)).
 
 
 〈**Misery**〉는 영국의 록 밴드 [비틀즈](../Page/비틀즈.md "wikilink")의 곡으로, 그들의 첫 정규 음반 《[Please Please Me](https://ko.wikipedia.org/wiki/Please_Please_Me "wikilink")》에 수록되었다. [존 레논과](../Page/존_레논.md "wikilink") [폴 매카트니가](../Page/폴_매카트니.md "wikilink") 공동 작곡했다. 1963년 케니 린치가 〈Misery〉를 커버하여 다른 가수에 의해 최초로 커버된 비틀즈의 곡이 되었다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Release timeline](https://ko.wikipedia.org/wiki/:Release_timeline).
+> This article is converted from Wikipedia: [모듈:Release timeline](https://ko.wikipedia.org/wiki/모듈:Release_timeline).
 
 
 require('Module:No globals') local getArgs = require('Module:Arguments').getArgs local p = {}

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Large category TOC](https://ko.wikipedia.org/wiki/:Large_category_TOC).
+> This article is converted from Wikipedia: [모듈:Large category TOC](https://ko.wikipedia.org/wiki/모듈:Large_category_TOC).
 
 
 local p = {}

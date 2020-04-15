@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:STU48](https://ko.wikipedia.org/wiki/:STU48).
+> This article is converted from Wikipedia: [틀:STU48](https://ko.wikipedia.org/wiki/틀:STU48).
 
 
 <onlyinclude> }}</onlyinclude>

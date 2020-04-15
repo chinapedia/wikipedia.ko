@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Template wrapper](https://ko.wikipedia.org/wiki/:Template_wrapper).
+> This article is converted from Wikipedia: [모듈:Template wrapper](https://ko.wikipedia.org/wiki/모듈:Template_wrapper).
 
 
 require('Module:No globals');

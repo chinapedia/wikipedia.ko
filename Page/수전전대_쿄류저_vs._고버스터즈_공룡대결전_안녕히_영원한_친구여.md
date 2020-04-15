@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  vs.     ](https://ko.wikipedia.org/wiki/__vs._____).
+> This article is converted from Wikipedia: [수전전대 쿄류저 vs. 고버스터즈 공룡대결전 안녕히 영원한 친구여](https://ko.wikipedia.org/wiki/수전전대_쿄류저_vs._고버스터즈_공룡대결전_안녕히_영원한_친구여).
 
 
 《**수전전대 쿄류저 VS 고버스터즈 공룡대결전 안녕히 영원한 친구여**》(Zyuden Sentai Kyoryuger vs. Go-Busters: The Great Dinosaur Battle\! Farewell Our Eternal Friends)는 [2014년](../Page/2014년.md "wikilink") [1월 18일부터](../Page/1월_18일.md "wikilink") 도에이 계열에서 공개 영화이다. 특촬 히어로 작품 「슈퍼 전대 시리즈」 《[수전전대 쿄류저](../Page/수전전대_쿄류저.md "wikilink")》의 영화 작품이며, 슈퍼 전대 VS 시리즈의 하나이다.

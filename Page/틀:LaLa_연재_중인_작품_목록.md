@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:LaLa    ](https://ko.wikipedia.org/wiki/:LaLa____).
+> This article is converted from Wikipedia: [틀:LaLa 연재 중인 작품 목록](https://ko.wikipedia.org/wiki/틀:LaLa_연재_중인_작품_목록).
 
 
 <onlyinclude></onlyinclude>

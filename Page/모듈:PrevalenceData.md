@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:PrevalenceData](https://ko.wikipedia.org/wiki/:PrevalenceData).
+> This article is converted from Wikipedia: [모듈:PrevalenceData](https://ko.wikipedia.org/wiki/모듈:PrevalenceData).
 
 
 \-- This module is specifically the Wikidata property "prevalence" (P1193), due -- to its particular need for ranges and area-based qualifiers, and the lack of -- support for these in the main Wikidata module.

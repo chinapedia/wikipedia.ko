@@ -263,7 +263,7 @@
           - [삼성 갤럭시 S7](../Page/삼성_갤럭시_S7.md "wikilink")
           - [삼성 갤럭시 S7 엣지](../Page/삼성_갤럭시_S7_엣지.md "wikilink")
           - [삼성 갤럭시 노트 5](https://ko.wikipedia.org/wiki/삼성_갤럭시_노트_5 "wikilink") 누가 업데이트로 적용
-          - [삼성 갤럭시 A3 (2016)](https://ko.wikipedia.org/wiki/삼성_갤럭시_A3_\(2016\) "wikilink")
+          - [삼성 갤럭시 A3 (2016)](../Page/삼성_갤럭시_A3_\(2016\).md "wikilink")
           - [삼성 갤럭시 A5 (2016)](../Page/삼성_갤럭시_A5_\(2016\).md "wikilink")
           - [삼성 갤럭시 A7 (2016)](../Page/삼성_갤럭시_A7_\(2016\).md "wikilink")
           - [삼성 갤럭시 탭 S2](https://ko.wikipedia.org/wiki/삼성_갤럭시_탭_S2 "wikilink")

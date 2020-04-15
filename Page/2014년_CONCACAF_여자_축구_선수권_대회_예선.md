@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [2014 CONCACAF     ](https://ko.wikipedia.org/wiki/2014_CONCACAF_____).
+> This article is converted from Wikipedia: [2014년 CONCACAF 여자 축구 선수권 대회 예선](https://ko.wikipedia.org/wiki/2014년_CONCACAF_여자_축구_선수권_대회_예선).
 
 
 **2014년 CONCACAF 여자 축구 선수권 대회 예선**은 [2014년 CONCACAF 여자 축구 선수권 대회](../Page/2014년_CONCACAF_여자_축구_선수권_대회.md "wikilink") 본선에 진출할 팀을 결정하기 위해 진행된 예선이다.

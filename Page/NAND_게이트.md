@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [NAND ](https://ko.wikipedia.org/wiki/NAND_).
+> This article is converted from Wikipedia: [NAND 게이트](https://ko.wikipedia.org/wiki/NAND_게이트).
 
 
 |           |            |

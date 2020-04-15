@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [DX \(\)](https://ko.wikipedia.org/wiki/DX_\(\)).
+> This article is converted from Wikipedia: [DX \(작곡가\)](https://ko.wikipedia.org/wiki/DX_\(작곡가\)).
 
 
 **DX**(디엑스,본명:한동희,[1986년](../Page/1986년.md "wikilink") [10월 15일](../Page/10월_15일.md "wikilink")\~)는 [대한민국](../Page/대한민국.md "wikilink")의 [작곡가](https://ko.wikipedia.org/wiki/작곡가 "wikilink") 겸 [프로듀서이다](../Page/음악_프로듀서.md "wikilink"). [2011년](../Page/2011년.md "wikilink") 작곡가 [윤일상](../Page/윤일상.md "wikilink")의 어시스턴트 프로듀서로서 [내가네트워크](https://ko.wikipedia.org/wiki/내가네트워크 "wikilink")에 소속되어 활동을 시작하였다. 과거 PD한스(PD HANS)라는 활동명을 사용하였으나, [2019년](../Page/2019년.md "wikilink") 2월 정규앨범 \[Rebirth\]의 발매와 함께 활동명을 DX(디엑스)로 변경하였다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [CC](https://ko.wikipedia.org/wiki/CC).
+> This article is converted from Wikipedia: [CC클래스](https://ko.wikipedia.org/wiki/CC클래스).
 
 
 ## CC클래스

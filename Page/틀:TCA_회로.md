@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:TCA ](https://ko.wikipedia.org/wiki/:TCA_).
+> This article is converted from Wikipedia: [틀:TCA 회로](https://ko.wikipedia.org/wiki/틀:TCA_회로).
 
 
 <table>

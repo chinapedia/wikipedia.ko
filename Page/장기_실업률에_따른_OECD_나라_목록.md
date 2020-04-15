@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [   OECD  ](https://ko.wikipedia.org/wiki/___OECD__).
+> This article is converted from Wikipedia: [장기 실업률에 따른 OECD 나라 목록](https://ko.wikipedia.org/wiki/장기_실업률에_따른_OECD_나라_목록).
 
 
 아래는 [OECD가](../Page/경제협력개발기구.md "wikilink") 출판한 **[장기 실업률에](../Page/실업.md "wikilink") 따른 OECD 나라 목록**이다. 이 지표는 [노동](../Page/노동.md "wikilink")(취업 인구과 실업 인구의 합) 비율로서 1년 이상 실업 상태인 인원 수를 가리킨다. 실업 인구는 현재 일을 하고 있지 않으나 일할 의지가 있으며 활발이 구직을 하고 있는 사람으로 정의된다.

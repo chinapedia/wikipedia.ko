@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ J.  ](https://ko.wikipedia.org/wiki/_J.__).
+> This article is converted from Wikipedia: [할란 J. 스미스 망원경](https://ko.wikipedia.org/wiki/할란_J._스미스_망원경).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:107-inch_at_dusk.JPG "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:Lunar_Laser_McDonald_Observatory.jpg "wikilink") <span> </span>**할란 J. 스미스 망원경**은 미국 텍사스주 맥도날드 천문대에 있는  망원경이다. 이 망원경은 웨스트 텍사스 다비스 산맥의 로크 산에 위치한 [텍사스대학교 오스틴의](../Page/텍사스_대학교_오스틴.md "wikilink") 천문대의 몇 개의 망원경 중 하나이다. 1968년 나사의 상당한 지원으로 완성되었으며 맥도날드 천문대의 텍사스 대학 출신의 첫 책임자였던 할란 제임스 스미스의 이름을 따서 지었다. 할란 제임스 스미스는 26년간 맥도날드 천문대를 관리하였다.

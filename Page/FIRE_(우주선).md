@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FIRE \(\)](https://ko.wikipedia.org/wiki/FIRE_\(\)).
+> This article is converted from Wikipedia: [FIRE \(우주선\)](https://ko.wikipedia.org/wiki/FIRE_\(우주선\)).
 
 
 **FIRE**는 [목성의 위성인](../Page/목성의_위성.md "wikilink") [이오](../Page/이오_\(위성\).md "wikilink") 탐사와 목성 탐사를 목적으로 하는 탐사선이다.\[1\]\[2\] 2011년 처음 [뉴 프론티어 계획에](https://ko.wikipedia.org/wiki/뉴_프론티어_계획 "wikilink") 제안되었으며, 2012년 구체적인 계획이 나오고 예산이 배정되었다.\[3\]

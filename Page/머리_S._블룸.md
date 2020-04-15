@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ S. ](https://ko.wikipedia.org/wiki/_S._).
+> This article is converted from Wikipedia: [머리 S. 블룸](https://ko.wikipedia.org/wiki/머리_S._블룸).
 
 
 **머리 S. 블룸**()은 미국의 연구 [곤충학자](https://ko.wikipedia.org/wiki/곤충학자 "wikilink")이며 [화학생태학](https://ko.wikipedia.org/wiki/화학생태학 "wikilink") 분야의 권위자이다.
@@ -13,7 +13,7 @@
 
 ## 연구
 
-블룸은 [화학생태학](https://ko.wikipedia.org/wiki/화학생태학 "wikilink")에 대부분의 연구 시간을 쏟았고, [페로몬](https://ko.wikipedia.org/wiki/페로몬 "wikilink") 전문가로 잘 알려져 있다. 그는 [동부얼간이메뚜기](https://ko.wikipedia.org/wiki/동부얼간이메뚜기 "wikilink")에도 흥미가 있었고 [붉은불개미](../Page/붉은불개미.md "wikilink")가 미국 남부 전역에 퍼짐에 따라 불개미를 수입했다. 블룸의 곤충학계의 동료와 친한 친구 중에는 유명한 양봉학자 [스티븐 테이버 3세가](https://ko.wikipedia.org/wiki/스티븐_테이버_3세 "wikilink") 있었다.\[1\]
+블룸은 [화학생태학](https://ko.wikipedia.org/wiki/화학생태학 "wikilink")에 대부분의 연구 시간을 쏟았고, [페로몬](../Page/페로몬.md "wikilink") 전문가로 잘 알려져 있다. 그는 [동부얼간이메뚜기](https://ko.wikipedia.org/wiki/동부얼간이메뚜기 "wikilink")에도 흥미가 있었고 [붉은불개미](../Page/붉은불개미.md "wikilink")가 미국 남부 전역에 퍼짐에 따라 불개미를 수입했다. 블룸의 곤충학계의 동료와 친한 친구 중에는 유명한 양봉학자 [스티븐 테이버 3세가](https://ko.wikipedia.org/wiki/스티븐_테이버_3세 "wikilink") 있었다.\[1\]
 
 ## 집필
 

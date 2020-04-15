@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FAKE LOVE \( \)](https://ko.wikipedia.org/wiki/FAKE_LOVE_\(_\)).
+> This article is converted from Wikipedia: [FAKE LOVE \(방탄소년단의 노래\)](https://ko.wikipedia.org/wiki/FAKE_LOVE_\(방탄소년단의_노래\)).
 
 
 〈**FAKE LOVE**〉은 [방탄소년단](../Page/방탄소년단.md "wikilink")의 노래로, 세 번째 정규 음반인 《[LOVE YOURSELF 轉 'Tear'](https://ko.wikipedia.org/wiki/LOVE_YOURSELF_轉_'Tear' "wikilink")》의 타이틀 곡이다. 2018년 5월 18일에 발표되었다.

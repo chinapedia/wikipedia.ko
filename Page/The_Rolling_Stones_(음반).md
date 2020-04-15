@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [The Rolling Stones \(\)](https://ko.wikipedia.org/wiki/The_Rolling_Stones_\(\)).
+> This article is converted from Wikipedia: [The Rolling Stones \(음반\)](https://ko.wikipedia.org/wiki/The_Rolling_Stones_\(음반\)).
 
 
 《**The Rolling Stones**》()는 영국의 록 밴드 [롤링 스톤스의](../Page/롤링_스톤스.md "wikilink") 데뷔 음반으로, [데카 레코드를](https://ko.wikipedia.org/wiki/데카_레코드 "wikilink") 통해 영국에서 1964년 4월 16일 발매했다. 미국판은 조금 다른 곡을 싣고, [런던 레코드에서](../Page/런던_레코드.md "wikilink") 1964년 3월 30일 《**England's Newest Hit Makers**》()라는 부제가 붙어 발매했다.

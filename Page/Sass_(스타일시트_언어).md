@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Sass \( \)](https://ko.wikipedia.org/wiki/Sass_\(_\)).
+> This article is converted from Wikipedia: [Sass \(스타일시트 언어\)](https://ko.wikipedia.org/wiki/Sass_\(스타일시트_언어\)).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Sass_Logo_Color.svg "wikilink") **Sass**(syntactically awesome stylesheets, 사스)는 [햄튼 캐틀린이](https://ko.wikipedia.org/wiki/햄튼_캐틀린 "wikilink") 설계하고 [나탈리 바이첸바움이](https://ko.wikipedia.org/wiki/나탈리_바이첸바움 "wikilink") 개발한 [스타일시트 언어이다](https://ko.wikipedia.org/wiki/스타일시트_언어 "wikilink").\[1\]\[2\] 초기 버전들 이후에 바이첸바움과 [크리스 엡스타인은](https://ko.wikipedia.org/wiki/크리스_엡스타인 "wikilink") Sass 파일에 쓰이는 단순 스크립팅 언어인 SassScript로 Sass의 확장을 계속하였다.

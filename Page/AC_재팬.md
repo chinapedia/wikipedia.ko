@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [AC ](https://ko.wikipedia.org/wiki/AC_).
+> This article is converted from Wikipedia: [AC 재팬](https://ko.wikipedia.org/wiki/AC_재팬).
 
 
 **공익사단법인 AC 재팬**(, )은 [일본](../Page/일본.md "wikilink")의 비영리 [공익광고](../Page/공익광고.md "wikilink") 기구이다. 공익광고를 통한 국민의 공공 의식 향상을 목적으로 하는 민간 기구이다. 본사는 [도쿄도](../Page/도쿄도.md "wikilink")에 있으며 [삿포로시](../Page/삿포로시.md "wikilink"), [센다이시](../Page/센다이시.md "wikilink"), [나고야시](../Page/나고야시.md "wikilink"), [오사카시](../Page/오사카시.md "wikilink"), [히로시마시](../Page/히로시마시.md "wikilink"), [후쿠오카시](../Page/후쿠오카시.md "wikilink"), [나하시](../Page/나하시.md "wikilink")에 사무국을 두고 있다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [19 KBS ](https://ko.wikipedia.org/wiki/19_KBS_).
+> This article is converted from Wikipedia: [19기 KBS 바둑왕전](https://ko.wikipedia.org/wiki/19기_KBS_바둑왕전).
 
 
 **19기 KBS 바둑왕전**은 TV 속기전이 참가한 국내 바둑 기전이다. 결승에서는 [목진석](../Page/목진석.md "wikilink") 五단이 [이창호](../Page/이창호.md "wikilink") 九단을 2대 1로 꺾고 우승을 차지했다.

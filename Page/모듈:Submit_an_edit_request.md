@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Submit an edit request](https://ko.wikipedia.org/wiki/:Submit_an_edit_request).
+> This article is converted from Wikipedia: [모듈:Submit an edit request](https://ko.wikipedia.org/wiki/모듈:Submit_an_edit_request).
 
 
 \-- This module implements .

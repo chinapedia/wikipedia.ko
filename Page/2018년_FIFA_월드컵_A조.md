@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [2018 FIFA  A](https://ko.wikipedia.org/wiki/2018_FIFA__A).
+> This article is converted from Wikipedia: [2018년 FIFA 월드컵 A조](https://ko.wikipedia.org/wiki/2018년_FIFA_월드컵_A조).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Russia_stamp_2018_№_2345.jpg "wikilink") 조별 리그 A조에 대한 [러시아](../Page/러시아.md "wikilink")의 2018년 [우표](../Page/우표.md "wikilink").\]\] **[2018년 FIFA 월드컵](https://ko.wikipedia.org/wiki/2018년_FIFA_월드컵 "wikilink") A조**는 2018년 6월 14일부터 2018년 6월 25일까지 일정이 진행되었다. A조는 [러시아](../Page/러시아_축구_국가대표팀.md "wikilink"), [사우디아라비아](../Page/사우디아라비아_축구_국가대표팀.md "wikilink"), [이집트](../Page/이집트_축구_국가대표팀.md "wikilink"), [우루과이로](../Page/우루과이_축구_국가대표팀.md "wikilink") 구성되었다. 4개의 팀들 중 상위 2개의 팀이 16강전에 진출한다.
@@ -275,7 +275,7 @@
 <a href="https://ko.wikipedia.org/wiki/마시밀리아노_이라티" title="wikilink">마시밀리아노 이라티</a> (<a href="../Page/이탈리아_축구_연맹.md" title="wikilink">이탈리아</a>)<br />
 <strong>보조 비디오 판독심:</strong><br />
 <a href="https://ko.wikipedia.org/wiki/마우로_비글리아노" title="wikilink">마우로 비글리아노</a> (<a href="../Page/아르헨티나_축구_협회.md" title="wikilink">아르헨티나</a>)<br />
-카를로스 아스트로사 (<a href="https://ko.wikipedia.org/wiki/칠레_축구_연맹" title="wikilink">칠레</a>)<br />
+카를로스 아스트로사 (<a href="../Page/칠레_축구_연맹.md" title="wikilink">칠레</a>)<br />
 <a href="https://ko.wikipedia.org/wiki/다니엘레_오르사토" title="wikilink">다니엘레 오르사토</a> (<a href="../Page/이탈리아_축구_연맹.md" title="wikilink">이탈리아</a>)</p></td>
 </tr>
 </tbody>
@@ -459,7 +459,7 @@
 산더르 판 루컬 (<a href="../Page/네덜란드_왕립_축구_협회.md" title="wikilink">네덜란드</a>)<br />
 에르빈 제인스트라 (<a href="../Page/네덜란드_왕립_축구_협회.md" title="wikilink">네덜란드</a>)<br />
 <strong>대기심:</strong><br />
-<a href="https://ko.wikipedia.org/wiki/밀로라드_마지치" title="wikilink">밀로라드 마지치</a> (<a href="https://ko.wikipedia.org/wiki/세르비아_축구_협회" title="wikilink">세르비아</a>)<br />
+<a href="../Page/밀로라드_마지치.md" title="wikilink">밀로라드 마지치</a> (<a href="https://ko.wikipedia.org/wiki/세르비아_축구_협회" title="wikilink">세르비아</a>)<br />
 <strong>후보 대기심:</strong><br />
 밀로반 리스티치 (<a href="https://ko.wikipedia.org/wiki/세르비아_축구_협회" title="wikilink">세르비아</a>)<br />
 <strong>비디오 판독심:</strong><br />
@@ -652,14 +652,14 @@
 에두아르도 카르도소 (<a href="https://ko.wikipedia.org/wiki/파라과이_축구_협회" title="wikilink">파라과이</a>)<br />
 후안 소리야 (<a href="https://ko.wikipedia.org/wiki/파라과이_축구_협회" title="wikilink">파라과이</a>)<br />
 <strong>대기심:</strong><br />
-<a href="https://ko.wikipedia.org/wiki/쥐네이트_차크르" title="wikilink">쥐네이트 차크르</a> (<a href="https://ko.wikipedia.org/wiki/터키_축구_연맹" title="wikilink">터키</a>)<br />
+<a href="../Page/쥐네이트_차크르.md" title="wikilink">쥐네이트 차크르</a> (<a href="https://ko.wikipedia.org/wiki/터키_축구_연맹" title="wikilink">터키</a>)<br />
 <strong>후보 대기심:</strong><br />
 바하틴 두란 (<a href="https://ko.wikipedia.org/wiki/터키_축구_연맹" title="wikilink">터키</a>)<br />
 <strong>비디오 판독심:</strong><br />
 <a href="https://ko.wikipedia.org/wiki/마시밀리아노_이라티" title="wikilink">마시밀리아노 이라티</a> (<a href="../Page/이탈리아_축구_연맹.md" title="wikilink">이탈리아</a>)<br />
 <strong>보조 비디오 판독심:</strong><br />
 <a href="https://ko.wikipedia.org/wiki/마우로_비글리아노" title="wikilink">마우로 비글리아노</a> (<a href="../Page/아르헨티나_축구_협회.md" title="wikilink">아르헨티나</a>)<br />
-카를로스 아스트로사 (<a href="https://ko.wikipedia.org/wiki/칠레_축구_연맹" title="wikilink">칠레</a>)<br />
+카를로스 아스트로사 (<a href="../Page/칠레_축구_연맹.md" title="wikilink">칠레</a>)<br />
 <a href="https://ko.wikipedia.org/wiki/시몬_마르치니아크" title="wikilink">시몬 마르치니아크</a> (<a href="https://ko.wikipedia.org/wiki/폴란드_축구_협회" title="wikilink">폴란드</a>)</p></td>
 </tr>
 </tbody>
@@ -1228,7 +1228,7 @@
 <a href="https://ko.wikipedia.org/wiki/아르투르_소아르스_디아스" title="wikilink">아르투르 소아르스 디아스</a> (<a href="https://ko.wikipedia.org/wiki/포르투갈_축구_연맹" title="wikilink">포르투갈</a>)<br />
 <strong>보조 비디오 판독심:</strong><br />
 <a href="https://ko.wikipedia.org/wiki/티아구_마르팅스" title="wikilink">티아구 마르팅스</a> (<a href="https://ko.wikipedia.org/wiki/포르투갈_축구_연맹" title="wikilink">포르투갈</a>)<br />
-카를로스 아스트로사 (<a href="https://ko.wikipedia.org/wiki/칠레_축구_연맹" title="wikilink">칠레</a>)<br />
+카를로스 아스트로사 (<a href="../Page/칠레_축구_연맹.md" title="wikilink">칠레</a>)<br />
 <a href="https://ko.wikipedia.org/wiki/위우통_삼파이우" title="wikilink">위우통 삼파이우</a> (<a href="https://ko.wikipedia.org/wiki/브라질_축구_협회" title="wikilink">브라질</a>)</p></td>
 </tr>
 </tbody>

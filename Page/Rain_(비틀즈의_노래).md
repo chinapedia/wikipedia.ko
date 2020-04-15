@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Rain \( \)](https://ko.wikipedia.org/wiki/Rain_\(_\)).
+> This article is converted from Wikipedia: [Rain \(비틀즈의 노래\)](https://ko.wikipedia.org/wiki/Rain_\(비틀즈의_노래\)).
 
 
 〈**Rain**〉은 영국의 록 밴드 [비틀즈](../Page/비틀즈.md "wikilink")가 1966년 5월 〈[Paperback Writer](../Page/Paperback_Writer.md "wikilink")〉의 B면에 실어 싱글로 첫 출시한 노래다. 두 곡 모두 음반 《[Revolver](../Page/Revolver.md "wikilink")》의 세션 도중에 녹음했지만 음반에 미수록됐다.

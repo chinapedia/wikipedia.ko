@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ :   EVOLUTION](https://ko.wikipedia.org/wiki/_:___EVOLUTION).
+> This article is converted from Wikipedia: [극장판 포켓몬스터: 뮤츠의 역습 EVOLUTION](https://ko.wikipedia.org/wiki/극장판_포켓몬스터:_뮤츠의_역습_EVOLUTION).
 
 
 《**극장판 포켓몬스터: 뮤츠의 역습 EVOLUTION**》()는 [2019년](../Page/2019년.md "wikilink") [7월 12일](../Page/7월_12일.md "wikilink") 개봉하는 [극장판 포켓몬스터의](https://ko.wikipedia.org/wiki/극장판_포켓몬스터 "wikilink") 제22기 영화이다.
@@ -55,7 +55,7 @@
 
 ## 각주
 
-[분류:2019년 애니메이션 영화](https://ko.wikipedia.org/wiki/분류:2019년_애니메이션_영화 "wikilink") [분류:포켓몬스터 극장판](https://ko.wikipedia.org/wiki/분류:포켓몬스터_극장판 "wikilink") [분류:일본의 영화 작품](https://ko.wikipedia.org/wiki/분류:일본의_영화_작품 "wikilink") [분류:일본의 3D 영화](https://ko.wikipedia.org/wiki/분류:일본의_3D_영화 "wikilink") [분류:리메이크 애니메이션](https://ko.wikipedia.org/wiki/분류:리메이크_애니메이션 "wikilink") [분류:2019년 컴퓨터 애니메이션 영화](https://ko.wikipedia.org/wiki/분류:2019년_컴퓨터_애니메이션_영화 "wikilink") [분류:일본의 컴퓨터 애니메이션 영화](https://ko.wikipedia.org/wiki/분류:일본의_컴퓨터_애니메이션_영화 "wikilink")
+[분류:2019년 애니메이션 영화](https://ko.wikipedia.org/wiki/분류:2019년_애니메이션_영화 "wikilink") [분류:포켓몬스터 극장판](https://ko.wikipedia.org/wiki/분류:포켓몬스터_극장판 "wikilink") [분류:일본의 애니메이션 영화](https://ko.wikipedia.org/wiki/분류:일본의_애니메이션_영화 "wikilink") [분류:일본의 3D 영화](https://ko.wikipedia.org/wiki/분류:일본의_3D_영화 "wikilink") [분류:리메이크 애니메이션](https://ko.wikipedia.org/wiki/분류:리메이크_애니메이션 "wikilink") [분류:2019년 컴퓨터 애니메이션 영화](https://ko.wikipedia.org/wiki/분류:2019년_컴퓨터_애니메이션_영화 "wikilink") [분류:일본의 컴퓨터 애니메이션 영화](https://ko.wikipedia.org/wiki/분류:일본의_컴퓨터_애니메이션_영화 "wikilink")
 
 1.  닫는 곡은 주제가와 크레딧.
 2.  닫는 곡은 주제가와 크레딧.

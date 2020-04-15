@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [CP  III](https://ko.wikipedia.org/wiki/CP__III).
+> This article is converted from Wikipedia: [CP 시스템 III](https://ko.wikipedia.org/wiki/CP_시스템_III).
 
 
 **CP 시스템 III**(, )은 [캡콤](../Page/캡콤.md "wikilink")이 개발한 [아케이드 기판으로](../Page/아케이드_기판.md "wikilink"), [CP 시스템과](../Page/CP_시스템.md "wikilink") [CP 시스템 II의](../Page/CP_시스템_II.md "wikilink") 후속 제품이다. 약칭 **CPS-3**로 쓰이며, 1996년에 발매한 [워저드](https://ko.wikipedia.org/wiki/워저드 "wikilink")부터 시작해 1999년의 [죠죠의 기묘한 모험: 미래로의 유산까지](https://ko.wikipedia.org/wiki/죠죠의_기묘한_모험:_미래로의_유산 "wikilink") 총 6개의 게임이 이 기판으로 발매됐다. 이 기판을 마지막으로 캡콤은 기판을 자체 제작하지 않고 [드림캐스트](../Page/드림캐스트.md "wikilink") 기판 기판인 [세가 나오미로](../Page/세가_나오미.md "wikilink") 개발 플랫폼을 옮겼다.

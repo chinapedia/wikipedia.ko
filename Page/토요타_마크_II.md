@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  II](https://ko.wikipedia.org/wiki/__II).
+> This article is converted from Wikipedia: [토요타 마크 II](https://ko.wikipedia.org/wiki/토요타_마크_II).
 
 
 **토요타 마크 Ⅱ**(Toyota Mark Ⅱ)는 [일본](../Page/일본.md "wikilink")의 [자동차](../Page/자동차.md "wikilink") 메이커 [토요타가](../Page/토요타_자동차.md "wikilink") 생산, 판매한 중형 승용차이다. [닛산 로렐과](../Page/닛산_로렐.md "wikilink") 경쟁하였으며, 당시 형제차로 [크레스타와](https://ko.wikipedia.org/wiki/토요타_크레스타 "wikilink") [체이서가](../Page/토요타_체이서.md "wikilink") 있었다.

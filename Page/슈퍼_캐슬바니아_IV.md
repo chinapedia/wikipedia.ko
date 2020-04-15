@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [  IV](https://ko.wikipedia.org/wiki/__IV).
+> This article is converted from Wikipedia: [슈퍼 캐슬바니아 IV](https://ko.wikipedia.org/wiki/슈퍼_캐슬바니아_IV).
 
 
-《**슈퍼 캐슬바니아 IV**》()는 [코나미](../Page/코나미.md "wikilink")가 발매한 [액션](https://ko.wikipedia.org/wiki/액션_게임 "wikilink") [플랫폼 게임이다](https://ko.wikipedia.org/wiki/플랫폼_게임 "wikilink"). 일본서는 《**악마성 드라큘라**》()라는 제목으로 발매됐으며, 1986년에 동명으로 출시됐던 [패미컴](https://ko.wikipedia.org/wiki/패미컴 "wikilink")의 〈[캐슬바니아](../Page/캐슬바니아_\(1986년_비디오_게임\).md "wikilink")〉를 [리메이크한](https://ko.wikipedia.org/wiki/리메이크_게임 "wikilink") 게임이다. [슈퍼 패미컴으로](../Page/슈퍼_패미컴.md "wikilink") 1991년 10월 31일 일본서 처음 출시됐다.
+《**슈퍼 캐슬바니아 IV**》()는 [코나미](../Page/코나미.md "wikilink")가 발매한 [액션](https://ko.wikipedia.org/wiki/액션_게임 "wikilink") [플랫폼 게임이다](../Page/플랫폼_게임.md "wikilink"). 일본서는 《**악마성 드라큘라**》()라는 제목으로 발매됐으며, 1986년에 동명으로 출시됐던 [패미컴](https://ko.wikipedia.org/wiki/패미컴 "wikilink")의 〈[캐슬바니아](../Page/캐슬바니아_\(1986년_비디오_게임\).md "wikilink")〉를 [리메이크한](https://ko.wikipedia.org/wiki/리메이크_게임 "wikilink") 게임이다. [슈퍼 패미컴으로](../Page/슈퍼_패미컴.md "wikilink") 1991년 10월 31일 일본서 처음 출시됐다.
 
 패미컴 게임과 같이 1691년 [트란실바니아](../Page/트란실바니아.md "wikilink")에서 사이먼 벨몬트가 드라큘라를 격퇴한 이야기를 다뤘다.\[1\]\[2\] 슈퍼 패미컴의 성능을 한껏 활용해 [모드 7를](https://ko.wikipedia.org/wiki/모드_7 "wikilink") 사용한 [16비트](../Page/16비트.md "wikilink") 그래픽과 이전 게임들의 음악들을 리믹스한 음악으로 무장했다.
 

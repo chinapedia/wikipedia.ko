@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [F-](https://ko.wikipedia.org/wiki/F-).
+> This article is converted from Wikipedia: [F-공간](https://ko.wikipedia.org/wiki/F-공간).
 
 
 [함수해석학](../Page/함수해석학.md "wikilink")에서, **F-공간**은 다음을 만족하는 [실수](https://ko.wikipedia.org/wiki/실수 "wikilink")또는 [복소수](../Page/복소수.md "wikilink")가 같이 있는 [거리 함수](https://ko.wikipedia.org/wiki/거리_함수 "wikilink")*d* : *V* × *V* → **R**을 가지는 [벡터 공간](../Page/벡터_공간.md "wikilink") *V*이다

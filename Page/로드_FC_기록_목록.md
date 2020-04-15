@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ FC  ](https://ko.wikipedia.org/wiki/_FC__).
+> This article is converted from Wikipedia: [로드 FC 기록 목록](https://ko.wikipedia.org/wiki/로드_FC_기록_목록).
 
 
 **로드 FC 기록 목록**은 대한민국의 종합격투기 단체 [로드 FC의](https://ko.wikipedia.org/wiki/로드_FC "wikilink") 대회 역사에서 그동안 일어난 기록들의 부문별 목록이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
+> This article is converted from Wikipedia: [릴 FC](https://ko.wikipedia.org/wiki/릴_FC).
 
 
 **릴 FC**(, )는 [릴을](https://ko.wikipedia.org/wiki/릴_\(웨일스\) "wikilink") 연고로 하는 [웨일스](../Page/웨일스.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다. 현재는 웨일스의 2부 축구 리그인 [컴리 얼라이언스에](https://ko.wikipedia.org/wiki/컴리_얼라이언스 "wikilink") 참가하고 있다.

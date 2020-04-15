@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SBS    ](https://ko.wikipedia.org/wiki/SBS____).
+> This article is converted from Wikipedia: [SBS 외주작가 투신 자살 사건](https://ko.wikipedia.org/wiki/SBS_외주작가_투신_자살_사건).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Hyperion_Towers_Night.JPG "wikilink")

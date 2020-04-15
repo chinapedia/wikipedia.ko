@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [GTK+   ](https://ko.wikipedia.org/wiki/GTK+___).
+> This article is converted from Wikipedia: [GTK+ 응용 프로그램의 목록](https://ko.wikipedia.org/wiki/GTK+_응용_프로그램의_목록).
 
 
 아래는 [GUI 위젯을](../Page/GUI_위젯.md "wikilink") 위해 [GTK+](../Page/GTK+.md "wikilink") 및 [클러터를](https://ko.wikipedia.org/wiki/클러터_\(소프트웨어\) "wikilink") 사용하는 응용 프로그램의 목록이다.
@@ -11,7 +11,7 @@
   - [메이나드](../Page/웨이랜드.md "wikilink")
   - [그놈 패널](https://ko.wikipedia.org/wiki/그놈_패널 "wikilink") 및 포크
   - Gnome-Pie\[1\]
-  - [Budgie](https://ko.wikipedia.org/wiki/Budgie "wikilink")
+  - [Budgie](../Page/Budgie.md "wikilink")
 
 ## 교육용 소프트웨어
 
@@ -44,7 +44,7 @@
   - [그놈 캘큘레이터](https://ko.wikipedia.org/wiki/그놈_캘큘레이터 "wikilink")
   - [그놈 커맨더](https://ko.wikipedia.org/wiki/그놈_커맨더 "wikilink")
   - [노틸러스](../Page/노틸러스_\(파일_관리자\).md "wikilink")
-  - [그놈 터미널](https://ko.wikipedia.org/wiki/그놈_터미널 "wikilink")
+  - [그놈 터미널](../Page/그놈_터미널.md "wikilink")
   - [Gnote](https://ko.wikipedia.org/wiki/Gnote "wikilink")
   - [Gucharmap](https://ko.wikipedia.org/wiki/Gucharmap "wikilink")
   - [Guvcview](https://ko.wikipedia.org/wiki/Guvcview "wikilink")

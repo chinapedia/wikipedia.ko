@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [48 NHK ](https://ko.wikipedia.org/wiki/48_NHK_).
+> This article is converted from Wikipedia: [제48회 NHK 홍백가합전](https://ko.wikipedia.org/wiki/제48회_NHK_홍백가합전).
 
 
 《**제48회 NHK 홍백가합전**》()는 [1997년](../Page/1997년.md "wikilink") [12월 31일에](../Page/12월_31일.md "wikilink") 방송된 통산 48회째인 [NHK 홍백가합전이다](../Page/NHK_홍백가합전.md "wikilink").

@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [A LIVE](https://ko.wikipedia.org/wiki/A_LIVE).
+> This article is converted from Wikipedia: [뉴스A LIVE](https://ko.wikipedia.org/wiki/뉴스A_LIVE).
 
 
-**뉴스A LIVE**는 [채널A](../Page/채널A.md "wikilink")에서 평일 오전 10시 50분, 일요일 낮 12시 10분에 방송되는 [채널A](../Page/채널A.md "wikilink")의 [뉴스](../Page/뉴스.md "wikilink") 프로그램이다.
+**뉴스A LIVE**는 [채널A](../Page/채널A.md "wikilink")에서 평일 오전 10시 50분, 일요일 낮 12시 10분에 방송되는 [채널A](../Page/채널A.md "wikilink")의 낮 [뉴스](../Page/뉴스.md "wikilink") 프로그램이다.
 
 ## 방송 시간
 

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ASL  ](https://ko.wikipedia.org/wiki/ASL__).
+> This article is converted from Wikipedia: [ASL 항공 아일랜드](https://ko.wikipedia.org/wiki/ASL_항공_아일랜드).
 
 
 **ASL 항공 아일랜드**()는 [아일랜드](../Page/아일랜드.md "wikilink")의 화물 항공사로 [섀넌 공항](https://ko.wikipedia.org/wiki/섀넌_공항 "wikilink"), [더블린 공항](../Page/더블린_공항.md "wikilink"), [파리 샤를 드 골 공항이](https://ko.wikipedia.org/wiki/파리_샤를_드_골_공항 "wikilink") [허브 공항으로](../Page/허브_공항.md "wikilink") [1972년](../Page/1972년.md "wikilink")에 **에어컨트랙터**()로 설립되었고 주로 [DHL 항공과](../Page/DHL_항공.md "wikilink") [페덱스 익스프레스](../Page/페덱스_익스프레스.md "wikilink") 항공편을 제공한다.\[1\]

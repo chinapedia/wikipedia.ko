@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [461 Ocean Boulevard](https://ko.wikipedia.org/wiki/461_Ocean_Boulevard).
 
 
-《**461 Ocean Boulevard**》는 [에릭 클랩튼의](../Page/에릭_클랩튼.md "wikilink") 두 번째 솔로 스튜디오 음반으로, 3년간 [헤로인](../Page/헤로인.md "wikilink") 중독에서 회복한 뒤 음반으로 복귀했다. 이 음반은 레코드 회사가 같은 해 7월 초에 히트 싱글 〈[I Shot the Sheriff](https://ko.wikipedia.org/wiki/I_Shot_the_Sheriff "wikilink")〉를 발매한 직후인 1974년 7월 말에 [RSO 레코드를](https://ko.wikipedia.org/wiki/RSO_레코드 "wikilink") 위해 발매되었다. 이 음반은 다양한 국제 차트에서 1위를 차지했고 2백만 장 이상이 팔렸다.
+《**461 Ocean Boulevard**》는 [에릭 클랩튼의](../Page/에릭_클랩튼.md "wikilink") 두 번째 솔로 스튜디오 음반으로, 3년간 [헤로인](../Page/헤로인.md "wikilink") 중독에서 회복한 뒤 음반으로 복귀했다. 이 음반은 레코드 회사가 같은 해 7월 초에 히트 싱글 〈[I Shot the Sheriff](../Page/I_Shot_the_Sheriff.md "wikilink")〉를 발매한 직후인 1974년 7월 말에 [RSO 레코드를](https://ko.wikipedia.org/wiki/RSO_레코드 "wikilink") 위해 발매되었다. 이 음반은 다양한 국제 차트에서 1위를 차지했고 2백만 장 이상이 팔렸다.
 
 음반 제목은 클랩튼이 음반을 녹음하는 동안 살았던 [플로리다주](../Page/플로리다주.md "wikilink") [골든 비치의](https://ko.wikipedia.org/wiki/골든_비치_\(플로리다주\) "wikilink") 오션 대로에 있는 주소를 말한다. 그 집은 팬들이 몰려들어 발매 후 거리 주소가 바뀌었다. 그 집은 그 이후로 오랫동안 다시 지어졌고 거리 주소는 복원되었다.
 

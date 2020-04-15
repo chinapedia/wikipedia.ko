@@ -1,9 +1,9 @@
-> This article is converted from Wikipedia: [CONCACAF ](https://ko.wikipedia.org/wiki/CONCACAF_).
+> This article is converted from Wikipedia: [CONCACAF 컵위너스컵](https://ko.wikipedia.org/wiki/CONCACAF_컵위너스컵).
 
 
 **CONCACAF 컵위너스컵**(CONCACAF Cup Winners Cup)은 [북중미카리브 축구 연맹](../Page/북중미카리브_축구_연맹.md "wikilink")(CONCACAF) 주관으로 열린 국제 클럽 축구 대회 가운데 하나로 [1991년](../Page/1991년.md "wikilink")부터 [1998년](../Page/1998년.md "wikilink")까지 개최되었다.
 
-각국의 국내 컵 대회 우승 팀이 참가하는 대회였지만 일부 국가에서는 컵 대회가 없었기 때문에 문제가 되기도 했다. 또한 [1996년](../Page/1996년.md "wikilink")부터 1998년까지는 대회가 진행되던 도중에 중단되기도 했다. [2001년](../Page/2001년.md "wikilink") [CONCACAF 자이언츠컵이](https://ko.wikipedia.org/wiki/CONCACAF_자이언츠컵 "wikilink") 개최되면서 폐지되었다.
+각국의 국내 컵 대회 우승 팀이 참가하는 대회였지만 일부 국가에서는 컵 대회가 없었기 때문에 문제가 되기도 했다. 또한 [1996년](../Page/1996년.md "wikilink")부터 1998년까지는 대회가 진행되던 도중에 중단되기도 했다. [2001년](../Page/2001년.md "wikilink") [CONCACAF 자이언츠컵이](../Page/CONCACAF_자이언츠컵.md "wikilink") 개최되면서 폐지되었다.
 
 ## 역대 대회
 

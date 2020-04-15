@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [X ](https://ko.wikipedia.org/wiki/X_).
+> This article is converted from Wikipedia: [X플레인 목록](https://ko.wikipedia.org/wiki/X플레인_목록).
 
 
 [오른쪽](https://ko.wikipedia.org/wiki/파일:BellX-1.jpeg "wikilink")

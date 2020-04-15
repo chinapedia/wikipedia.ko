@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [HDC](https://ko.wikipedia.org/wiki/HDC).
+> This article is converted from Wikipedia: [HDC그룹](https://ko.wikipedia.org/wiki/HDC그룹).
 
 
 **HDC그룹**()은 대한민국의 [대규모 기업집단이다](https://ko.wikipedia.org/wiki/대규모_기업집단 "wikilink").

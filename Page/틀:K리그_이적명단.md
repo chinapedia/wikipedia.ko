@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:K ](https://ko.wikipedia.org/wiki/:K_).
+> This article is converted from Wikipedia: [틀:K리그 이적명단](https://ko.wikipedia.org/wiki/틀:K리그_이적명단).
 
 
 <onlyinclude></onlyinclude>

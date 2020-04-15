@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [BTV](https://ko.wikipedia.org/wiki/BTV).
+> This article is converted from Wikipedia: [BTV컵](https://ko.wikipedia.org/wiki/BTV컵).
 
 
 **빈즈엉 텔레비전컵**( Television Cup)은 [베트남](../Page/베트남.md "wikilink")의 축구단 [빈즈엉 FC가](../Page/빈즈엉_FC.md "wikilink") 주최하는 국제 친선 축구 대회로, [2000년](../Page/2000년.md "wikilink")부터 지금까지 진행되고 있다. 경기는 빈즈엉의 홈 구장인 [고더우 경기장에서](https://ko.wikipedia.org/wiki/고더우_경기장 "wikilink") 펼쳐진다. [2004년](../Page/2004년.md "wikilink")부터 [대한민국](../Page/대한민국.md "wikilink")의 축구단도 참여를 시작했으며, 초기에는 [실업축구](../Page/대한민국의_실업_축구.md "wikilink") 팀들이 참여하였으나, 최근에는 대학선발팀이 참여하고 있다.
@@ -282,7 +282,7 @@
 
   - **[베트남 U-22](../Page/베트남_U-23_축구_국가대표팀.md "wikilink")** 2012, 2013
 
-  - **[호앙아인 잘라이](https://ko.wikipedia.org/wiki/호앙아인_잘라이_FC "wikilink")** 2000, 2007
+  - **[호앙아인 잘라이](../Page/호앙아인_잘라이_FC.md "wikilink")** 2000, 2007
 
   - **[탄꽝닌](https://ko.wikipedia.org/wiki/탄꽝닌_FC "wikilink")** 2015, 2016
 

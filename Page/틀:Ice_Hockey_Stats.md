@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Ice Hockey Stats](https://ko.wikipedia.org/wiki/:Ice_Hockey_Stats).
+> This article is converted from Wikipedia: [틀:Ice Hockey Stats](https://ko.wikipedia.org/wiki/틀:Ice_Hockey_Stats).
 
 
 {{\#if:

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Vau](https://ko.wikipedia.org/wiki/:Vau).
+> This article is converted from Wikipedia: [모듈:Vau](https://ko.wikipedia.org/wiki/모듈:Vau).
 
 
 local p = {}

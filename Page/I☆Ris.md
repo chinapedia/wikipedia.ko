@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [IRis](https://ko.wikipedia.org/wiki/IRis).
+> This article is converted from Wikipedia: [I☆Ris](https://ko.wikipedia.org/wiki/I☆Ris).
 
 
 **i☆Ris**(아이☆리스, )는 [2012년](../Page/2012년.md "wikilink")에 결성된 [일본](../Page/일본.md "wikilink")의 6인조 여성 아이돌 그룹이다.

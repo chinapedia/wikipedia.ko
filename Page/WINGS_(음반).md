@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [WINGS \(\)](https://ko.wikipedia.org/wiki/WINGS_\(\)).
+> This article is converted from Wikipedia: [WINGS \(음반\)](https://ko.wikipedia.org/wiki/WINGS_\(음반\)).
 
 
-***WINGS***는 대한민국의 남성 그룹 [방탄소년단](../Page/방탄소년단.md "wikilink")의 두 번째 한국 정규 음반이다.\[1\] 2016년 10월 10일 [빅히트 엔터테인먼트를](../Page/빅히트_엔터테인먼트.md "wikilink") 통해 발매되었다고 한다.
+《***WINGS***》는 대한민국의 남성 그룹 [방탄소년단](../Page/방탄소년단.md "wikilink")의 두 번째 한국 정규 음반이다.\[1\] 2016년 10월 10일 [빅히트 엔터테인먼트를](../Page/빅히트_엔터테인먼트.md "wikilink") 통해 발매 되었다.
 
 ## 수록곡
 

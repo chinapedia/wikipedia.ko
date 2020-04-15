@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FC ](https://ko.wikipedia.org/wiki/FC_).
+> This article is converted from Wikipedia: [FC 오사카](https://ko.wikipedia.org/wiki/FC_오사카).
 
 
 **FC 오사카**( Football Club Osaka)는 [오사카부](../Page/오사카부.md "wikilink") [히가시오사카시](../Page/히가시오사카시.md "wikilink")에 위치한 [일본](../Page/일본.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽으로, 운영 모체는 [R-dash이다](https://ko.wikipedia.org/wiki/:ja:アールダッシュ "wikilink"). [2018년](../Page/2018년.md "wikilink") 현재 [일본](../Page/일본.md "wikilink") [일본 풋볼 리그에](../Page/일본_풋볼_리그.md "wikilink") 참여하고 있다. 프로화를 목표로 두고 있으며, 팀 내에 프로 계약을 맺은 선수도 존재하고 있다. [마카오](../Page/마카오.md "wikilink")의 축구팀 [스포르팅 클루비 지 마카우와](https://ko.wikipedia.org/wiki/스포르팅_클루비_지_마카우 "wikilink") 파트너십을 맺고 있다.

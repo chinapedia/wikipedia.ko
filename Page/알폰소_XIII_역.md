@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [ XIII ](https://ko.wikipedia.org/wiki/_XIII_).
+> This article is converted from Wikipedia: [알폰소 XIII 역](https://ko.wikipedia.org/wiki/알폰소_XIII_역).
 
 
-**알폰소 XIII 역** ()은 [마드리드 지하철](../Page/마드리드_지하철.md "wikilink") [4호선의](../Page/마드리드_지하철_4호선.md "wikilink") 역이다. [마드리드](../Page/마드리드.md "wikilink") [차마르틴](https://ko.wikipedia.org/wiki/차마르틴 "wikilink") 구 프로스페리다드 지역의 로페스 데 오요스 거리에서 클라라 델 레이와 만나는 교차로 지하에 위치해 있다. 알폰소 13세 대로의 초입 지점과 가깝다. 요금구역상으로는 A구역에 속한다.\[1\]
+**알폰소 XIII 역**()은 [마드리드 지하철](../Page/마드리드_지하철.md "wikilink") [4호선의](../Page/마드리드_지하철_4호선.md "wikilink") 역이다. [마드리드](../Page/마드리드.md "wikilink") [차마르틴](https://ko.wikipedia.org/wiki/차마르틴 "wikilink") 구 프로스페리다드 지역의 로페스 데 오요스 거리에서 클라라 델 레이와 만나는 교차로 지하에 위치해 있다. 알폰소 13세 대로의 초입 지점과 가깝다. 요금구역상으로는 A구역에 속한다.\[1\]
 
 ## 역사
 

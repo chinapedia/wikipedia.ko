@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [!!! on ICE](https://ko.wikipedia.org/wiki/!!!_on_ICE).
+> This article is converted from Wikipedia: [유리!!! on ICE](https://ko.wikipedia.org/wiki/유리!!!_on_ICE).
 
 
 **유리\!\!\! on ICE**()는 [쿠보 미츠로](https://ko.wikipedia.org/wiki/쿠보_미츠로 "wikilink") 및 [야마모토 사요](https://ko.wikipedia.org/wiki/야마모토_사요 "wikilink") 원작의\[1\] 일본 애니메이션 작품이다. 제작은 MAPPA로,\[2\] 2016년 10월 5일부터\[3\] 12월 21일까지 총 12화로 방영하였다.\[4\]\[5\]</br>

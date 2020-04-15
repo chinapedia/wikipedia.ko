@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [Wild Life \( \)](https://ko.wikipedia.org/wiki/Wild_Life_\(_\)).
+> This article is converted from Wikipedia: [Wild Life \(윙스의 음반\)](https://ko.wikipedia.org/wiki/Wild_Life_\(윙스의_음반\)).
 
 
-《**Wild Life**》는 [윙스](../Page/윙스.md "wikilink")의 데뷔 음반이자 [비틀즈](../Page/비틀즈.md "wikilink") 해체 이후 [폴 매카트니가](../Page/폴_매카트니.md "wikilink") 세 번째로 발매한 정규 음반이다. 음반은 1971년 7월에서 8월까지 [애비 로드 스튜디오에서](../Page/애비_로드_스튜디오.md "wikilink") 매카트니와 그의 아내 린다, 이전 음반 《[Ram](../Page/Ram_\(음반\).md "wikilink")》을 함께 작업한 세션 드럼 [데디 시웰](https://ko.wikipedia.org/wiki/데디_시웰 "wikilink"), 그리고 전 [무디 블루스](https://ko.wikipedia.org/wiki/무디_블루스 "wikilink") 멤버 [데니 레인과](../Page/데니_레인.md "wikilink") 함께 진행되었다. [애플 레코드를](../Page/애플_레코드.md "wikilink") 통하여 그해 12월 7일에 발매했고, 영국과 미국 모두 비평적, 상업적으로 미온적인 반응을 얻었다.
+《**Wild Life**》는 [윙스](../Page/윙스.md "wikilink")의 데뷔 음반이자 [비틀즈](../Page/비틀즈.md "wikilink") 해체 이후 [폴 매카트니가](../Page/폴_매카트니.md "wikilink") 세 번째로 발매한 정규 음반이다. 음반은 1971년 7월에서 8월까지 [애비 로드 스튜디오에서](../Page/애비_로드_스튜디오.md "wikilink") 매카트니와 그의 아내 린다, 이전 음반 《[Ram](../Page/Ram_\(음반\).md "wikilink")》을 함께 작업한 세션 드럼 [데디 시웰](https://ko.wikipedia.org/wiki/데디_시웰 "wikilink"), 그리고 전 [무디 블루스](../Page/무디_블루스.md "wikilink") 멤버 [데니 레인과](../Page/데니_레인.md "wikilink") 함께 진행되었다. [애플 레코드를](../Page/애플_레코드.md "wikilink") 통하여 그해 12월 7일에 발매했고, 영국과 미국 모두 비평적, 상업적으로 미온적인 반응을 얻었다.
 
 ## 녹음
 

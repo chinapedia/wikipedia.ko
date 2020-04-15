@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [DB](https://ko.wikipedia.org/wiki/DB).
+> This article is converted from Wikipedia: [카우치DB](https://ko.wikipedia.org/wiki/카우치DB).
 
 
 **아파치 카우치DB**(Apache CouchDB)는 스케일러블 아키텍처를 쉽게 이용하고 보유하는데 초점을 둔 [오픈 소스](../Page/오픈_소스_소프트웨어.md "wikilink") 데이터베이스 소프트웨어이다. [도큐먼트 지향](https://ko.wikipedia.org/wiki/도큐먼트_지향_데이터베이스 "wikilink") [NoSQL](../Page/NoSQL.md "wikilink") 데이터베이스 구조를 갖추고 있으며 [얼랭](../Page/얼랭.md "wikilink")으로 구현되어 있다. [JSON](../Page/JSON.md "wikilink")을 사용하여 데이터를 저장하고, [자바스크립트](../Page/자바스크립트.md "wikilink")를 쿼리 언어로 사용([맵리듀스](../Page/맵리듀스.md "wikilink") 사용)하며 [API](../Page/API.md "wikilink")를 위해 [HTTP](../Page/HTTP.md "wikilink")를 사용한다.\[1\]

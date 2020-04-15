@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FK  ](https://ko.wikipedia.org/wiki/FK__).
+> This article is converted from Wikipedia: [FK 토모리 베라트](https://ko.wikipedia.org/wiki/FK_토모리_베라트).
 
 
 **FK 토모리 베라트**()는 [베라트](../Page/베라트.md "wikilink")를 연고로 하는 [알바니아](https://ko.wikipedia.org/wiki/알바니아 "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다. 현재는 알바니아의 2부 축구 리그인 [알바니아 퍼스트디비전에](https://ko.wikipedia.org/wiki/알바니아_퍼스트디비전 "wikilink") 참가하고 있다.

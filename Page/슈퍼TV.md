@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TV](https://ko.wikipedia.org/wiki/TV).
+> This article is converted from Wikipedia: [슈퍼TV](https://ko.wikipedia.org/wiki/슈퍼TV).
 
 
 《**슈퍼TV**》는 대한민국의 방송국 [XtvN](https://ko.wikipedia.org/wiki/XtvN "wikilink")의 예능프로그램이다.

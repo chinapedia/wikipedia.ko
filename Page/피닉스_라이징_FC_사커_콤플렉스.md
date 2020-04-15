@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  FC  ](https://ko.wikipedia.org/wiki/__FC__).
+> This article is converted from Wikipedia: [피닉스 라이징 FC 사커 콤플렉스](https://ko.wikipedia.org/wiki/피닉스_라이징_FC_사커_콤플렉스).
 
 
 **피닉스 라이징 FC 사커 콤플렉스**(Phoenix Rising FC Soccer Complex)은 [미국](../Page/미국.md "wikilink")의 [다목적 경기장이다](https://ko.wikipedia.org/wiki/다목적_경기장 "wikilink"). [애리조나주](../Page/애리조나주.md "wikilink") [템피에](../Page/템피_\(애리조나주\).md "wikilink") 위치하고 있으며 [USL](https://ko.wikipedia.org/wiki/유나이티드_사커_리그 "wikilink") [피닉스 라이징 FC의](https://ko.wikipedia.org/wiki/피닉스_라이징_FC "wikilink") 홈경기장이다.

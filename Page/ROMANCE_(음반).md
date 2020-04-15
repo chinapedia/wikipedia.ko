@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ROMANCE \(\)](https://ko.wikipedia.org/wiki/ROMANCE_\(\)).
+> This article is converted from Wikipedia: [ROMANCE \(음반\)](https://ko.wikipedia.org/wiki/ROMANCE_\(음반\)).
 
 
 《**ROMANCE**》는 대한민국의 남성 음악 그룹 [브로맨스의](../Page/브로맨스_\(음악_그룹\).md "wikilink") 두 번째 [미니 음반이다](https://ko.wikipedia.org/wiki/EP "wikilink"). 2017년 1월 6일에 발매되었다.

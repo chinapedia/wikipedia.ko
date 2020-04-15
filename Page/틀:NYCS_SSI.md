@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:NYCS SSI](https://ko.wikipedia.org/wiki/:NYCS_SSI).
+> This article is converted from Wikipedia: [틀:NYCS SSI](https://ko.wikipedia.org/wiki/틀:NYCS_SSI).
 
 
 <includeonly>{{ \#switch:

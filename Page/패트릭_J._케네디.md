@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ J. ](https://ko.wikipedia.org/wiki/_J._).
+> This article is converted from Wikipedia: [패트릭 J. 케네디](https://ko.wikipedia.org/wiki/패트릭_J._케네디).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Patrick_J._Kennedy,_official_Congressional_photo.JPG "wikilink") **패트릭 조지프 케네디 2세**(, 줄여서 **패트릭 J. 케네디**(Patrick J. Kennedy), [1967년](../Page/1967년.md "wikilink") [7월 14일](../Page/7월_14일.md "wikilink") [매사추세츠주](../Page/매사추세츠주.md "wikilink") [보스턴](../Page/보스턴.md "wikilink") 브라이턴(Brighton) \~ )는 [미국](../Page/미국.md "wikilink")의 정치인이다. 소속 정당은 [민주당이다](../Page/민주당_\(미국\).md "wikilink").

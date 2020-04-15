@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [   TV](https://ko.wikipedia.org/wiki/___TV).
+> This article is converted from Wikipedia: [헌터 × 헌터 TV애니메이션](https://ko.wikipedia.org/wiki/헌터_×_헌터_TV애니메이션).
 
 
 『**헌터 × 헌터 TV애니메이션**』은 [토가시 요시히로의](../Page/토가시_요시히로.md "wikilink") 만화 《[헌터 × 헌터](../Page/헌터_×_헌터.md "wikilink")》를 원작으로 하는 [TV애니메이션](https://ko.wikipedia.org/wiki/TV애니메이션 "wikilink")을 말한다.

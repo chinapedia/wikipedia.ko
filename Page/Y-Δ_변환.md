@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Y- ](https://ko.wikipedia.org/wiki/Y-_).
+> This article is converted from Wikipedia: [Y-Δ 변환](https://ko.wikipedia.org/wiki/Y-Δ_변환).
 
 
 **Y-Δ 변환**(Y-Δ transform, wye-delta transform) 또는 **T-Π 변환**(T-Π transform, star-pi transform)은 [전기 회로](../Page/전기_회로.md "wikilink") 분석을 간단하게 할 수 있는 수학적 기술 중 하나이다. 이 변환의 이름은 분석하고자 하는 [회로도](../Page/회로도.md "wikilink") 모양이 각각 알파벳 Y와 [그리스 문자](../Page/그리스_문자.md "wikilink") [Δ](../Page/Δ.md "wikilink")(델타)로 보인 것에서 따왔다. 이 회로 변환은 1899년 [아서 에드윈 케넬리가](https://ko.wikipedia.org/wiki/아서_에드윈_케넬리 "wikilink") 처음 발표하였다.\[1\] 이 변환은 오늘날 [3상전력](../Page/3상전력.md "wikilink") 회로 분석에서 광범위하게 사용된다.

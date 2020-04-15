@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Jvcki Wai](https://ko.wikipedia.org/wiki/Jvcki_Wai).
 
 
-**Jvcki Wai**(재키와이, )는 대한민국의 래퍼이다.
+**Jvcki Wai**(재키와이, , [1996년](../Page/1996년.md "wikilink") [7월 5일](../Page/7월_5일.md "wikilink") \~ )는 대한민국의 래퍼이다.
 
 ## 바이오그래피
 
@@ -17,7 +17,7 @@
 
 #### 정규 앨범 (LP)
 
-  - [Enchanted Propaganda](https://ko.wikipedia.org/wiki/Enchanted_Propaganda "wikilink") (2018)
+  - Enchanted Propaganda (2018)
 
 #### 미니 앨범 (EP)
 
@@ -62,9 +62,10 @@
 | 2018.11.17  | 키드밀리 (Kid Milli)              | Maiden Voyage III               | Beluga                                          |
 | KOCEAN      |                               |                                 |                                                 |
 | 2018.12.12  | 제네 더 질라 (ZENE THE ZILLA)      | 전화하지마 비행 중이야                    | Liqour                                          |
-| 2019.02.21  | 인디고뮤직 (Indigo Music)          | IMJMWDP                         | IMJMWDP                                         |
+| 2019.02.21  | IMJMWDP                       | IMJMWDP                         | IMJMWDP                                         |
 | 2019.09.03  | Simon Dominic                 | 화기엄금                            | GOTT                                            |
-| 2019.10     | 지코(zico)                      | THINKING Part.1                 | 천둥벌거숭이(feat.yumda,jvcki wai)                    |
+| 2019.10     | 지코(zico)                      | THINKING Part.1                 | 천둥벌거숭이(feat.yumdda,jvcki wai)                   |
+| 2020.03     | 쿠기 (Coogie)                   | North Face                      | North Face                                      |
 
 ## 수상
 

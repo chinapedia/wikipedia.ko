@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Flag entry](https://ko.wikipedia.org/wiki/:Flag_entry).
+> This article is converted from Wikipedia: [틀:Flag entry](https://ko.wikipedia.org/wiki/틀:Flag_entry).
 
 
 <includeonly>\<td style="text-align:center;{{\#if:|width:{{\#expr: 2 \*  + 4}}px" colspan="2"|width:{{\#expr:  + 2}}px"}}\>

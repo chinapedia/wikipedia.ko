@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  B](https://ko.wikipedia.org/wiki/__B).
+> This article is converted from Wikipedia: [수도권 광역급행철도 B노선](https://ko.wikipedia.org/wiki/수도권_광역급행철도_B노선).
 
 
 **수도권 광역급행철도 B선**(首都圈 廣域急行鐵道 B線)은 [경기도](https://ko.wikipedia.org/wiki/경기도 "wikilink") [남양주시](../Page/남양주시.md "wikilink")의 [마석역](../Page/마석역.md "wikilink")과 [인천광역시](https://ko.wikipedia.org/wiki/인천광역시 "wikilink") [연수구](../Page/연수구.md "wikilink") [송도국제도시](../Page/송도국제도시.md "wikilink")의 [송도역을](../Page/인천대입구역.md "wikilink") 이을 예정인 [수도권 광역급행철도](../Page/수도권_광역급행철도.md "wikilink") 노선이다. [마석](../Page/마석역.md "wikilink") \~ [청량리](../Page/청량리역.md "wikilink") 구간은 [경춘선](https://ko.wikipedia.org/wiki/경춘선 "wikilink"), [중앙선](../Page/중앙선.md "wikilink")과 공용한다.

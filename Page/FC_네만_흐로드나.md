@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FC  ](https://ko.wikipedia.org/wiki/FC__).
+> This article is converted from Wikipedia: [FC 네만 흐로드나](https://ko.wikipedia.org/wiki/FC_네만_흐로드나).
 
 
 **FC 네만 흐로드나**(, )는 [흐로드나](../Page/흐로드나.md "wikilink")를 연고로 하는 [벨라루스](../Page/벨라루스.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다. 현재는 [벨라루스 프리미어리그에](../Page/벨라루스_프리미어리그.md "wikilink") 참가하고 있다.

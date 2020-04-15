@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [-D](https://ko.wikipedia.org/wiki/-D).
+> This article is converted from Wikipedia: [베네라-D](https://ko.wikipedia.org/wiki/베네라-D).
 
 
 **베네라-D**는 러시아가 2026년 [프로톤 로켓이나](../Page/프로톤_로켓.md "wikilink") [안가라 로켓으로](https://ko.wikipedia.org/wiki/안가라_로켓 "wikilink") 발사 예정인 금성 탐사선이다.\[1\]\[2\]\[3\]\[4\]\[5\] 목적은 금성에 착륙할 최적의 장소를 찾고 [베네라 15와](https://ko.wikipedia.org/wiki/베네라_15 "wikilink") [16보다](https://ko.wikipedia.org/wiki/베네라_16 "wikilink") 근접해 정확한 [금성](../Page/금성.md "wikilink") 탐사가 목표다. 특이사항으로 랜더가 들어 있으며, 금성의 주변 환경에 따라 24시간 정도 탐사하는 것을 목표로 잡고 있다.\[6\]

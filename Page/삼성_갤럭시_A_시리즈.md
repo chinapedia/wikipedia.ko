@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  A ](https://ko.wikipedia.org/wiki/__A_).
+> This article is converted from Wikipedia: [삼성 갤럭시 A 시리즈](https://ko.wikipedia.org/wiki/삼성_갤럭시_A_시리즈).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Samsung_Galaxy_A_Logo.png "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:Samsung_Galaxy_Alpha_logo.svg "wikilink")

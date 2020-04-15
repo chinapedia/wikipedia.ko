@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
+> This article is converted from Wikipedia: [브루스키 FC](https://ko.wikipedia.org/wiki/브루스키_FC).
 
 
 **브루스키 푸치보우 클루비**()는 [브라질](../Page/브라질.md "wikilink")의 축구단으로 [산타카타리나주](https://ko.wikipedia.org/wiki/산타카타리나주 "wikilink")의 [브루스키](https://ko.wikipedia.org/wiki/브루스키 "wikilink")를 연고로 한다. [1987년](../Page/1987년.md "wikilink") [10월 12일](../Page/10월_12일.md "wikilink") 창단하였으며, [1988년](../Page/1988년.md "wikilink") [캄페오나투 브라질레이루 세리이 C](../Page/캄페오나투_브라질레이루_세리이_C.md "wikilink"), [1989년](../Page/1989년.md "wikilink") [캄페오나투 브라질레이루 세리이 B에서](../Page/캄페오나투_브라질레이루_세리이_B.md "wikilink") 활약하는 등, 빠른 성장세를 보였다. [2017년](../Page/2017년.md "wikilink") 현재 브라질 축구 4부 리그 [캄페오나투 브라질레이루 세리이 D에](../Page/캄페오나투_브라질레이루_세리이_D.md "wikilink") 참가하고 있다.

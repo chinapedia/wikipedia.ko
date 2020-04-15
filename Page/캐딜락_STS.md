@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ STS](https://ko.wikipedia.org/wiki/_STS).
+> This article is converted from Wikipedia: [캐딜락 STS](https://ko.wikipedia.org/wiki/캐딜락_STS).
 
 
 **캐딜락 STS**(Cadillac STS)는 [제너럴 모터스에서](../Page/제너럴_모터스.md "wikilink") [캐딜락](../Page/캐딜락.md "wikilink") 브랜드로 [2004년](../Page/2004년.md "wikilink")부터 [2012년](../Page/2012년.md "wikilink")까지 생산한 [후륜구동](../Page/후륜구동.md "wikilink") 및 [4륜구동](../Page/4륜구동.md "wikilink") 방식의 준대형 세단이다. STS는 SeVille Touring Sedan의 약자이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [IOC  ](https://ko.wikipedia.org/wiki/IOC__).
+> This article is converted from Wikipedia: [IOC 선수 위원회](https://ko.wikipedia.org/wiki/IOC_선수_위원회).
 
 
 **IOC 선수 위원회**(IOC Athletes' Commission)는 올림픽에 출전하는 선수를 대표하기 위해 설립된 [국제 올림픽 위원회](../Page/국제_올림픽_위원회.md "wikilink")(IOC) 산하 기구이다. 1981년 [후안 안토니오 사마란치](../Page/후안_안토니오_사마란치.md "wikilink") IOC 위원장이 처음으로 설립하였으며, [올림픽 헌장](../Page/올림픽_헌장.md "wikilink") 제21조로 명문화되었다.\[1\] 지금처럼 올림픽 출전 선수가 직접 선수위원으로 뽑히는 관례가 자리잡은 것은 [2000년 하계 올림픽부터이다](https://ko.wikipedia.org/wiki/2000년_하계_올림픽 "wikilink").

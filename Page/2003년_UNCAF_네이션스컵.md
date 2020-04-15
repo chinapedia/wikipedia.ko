@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [2003 UNCAF ](https://ko.wikipedia.org/wiki/2003_UNCAF_).
+> This article is converted from Wikipedia: [2003년 UNCAF 네이션스컵](https://ko.wikipedia.org/wiki/2003년_UNCAF_네이션스컵).
 
 
 **2003년 UNCAF 네이션스컵**(2003 UNCAF Nations Cup)은 [중앙아메리카 축구 연맹에서](https://ko.wikipedia.org/wiki/중앙아메리카_축구_연맹 "wikilink") 주최한 7번째 [UNCAF 네이션스컵](https://ko.wikipedia.org/wiki/UNCAF_네이션스컵 "wikilink") 대회로 [2003년](../Page/2003년.md "wikilink") [2월 9일부터](../Page/2월_9일.md "wikilink") [2월 23일까지](../Page/2월_23일.md "wikilink") [파나마](../Page/파나마.md "wikilink")에서 개최되었다. 이 대회는 [2003년 CONCACAF 골드컵의](../Page/2003년_CONCACAF_골드컵.md "wikilink") 중앙아메리카 예선을 겸한다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [UAE   ](https://ko.wikipedia.org/wiki/UAE___).
+> This article is converted from Wikipedia: [UAE 아라비안 걸프 리그](https://ko.wikipedia.org/wiki/UAE_아라비안_걸프_리그).
 
 
 **UAE 아라비안 걸프 리그**는 [아랍에미리트](../Page/아랍에미리트.md "wikilink")의 최상위 [축구](../Page/축구.md "wikilink") 리그이다. 아랍에미리트 리그는 [1973년](../Page/1973년.md "wikilink")에 **UAE 축구 리그**로 창설되었으며, [2007년](../Page/2007년.md "wikilink")에 프로리그 연맹이 설립되어 현재에 이르고 있다. 초대 우승팀은 [알샤르자이며](../Page/샤르자_FC.md "wikilink"), 12회의 우승을 기록한 [알아인 FC가](../Page/알아인_FC.md "wikilink") 최다 우승팀으로 자리하고 있다.

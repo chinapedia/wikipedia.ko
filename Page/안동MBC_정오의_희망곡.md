@@ -1,14 +1,14 @@
-> This article is converted from Wikipedia: [MBC  ](https://ko.wikipedia.org/wiki/MBC__).
+> This article is converted from Wikipedia: [안동MBC 정오의 희망곡](https://ko.wikipedia.org/wiki/안동MBC_정오의_희망곡).
 
 
 **정오의 희망곡 이다솔입니다**는 [안동MBC FM4U](../Page/안동문화방송.md "wikilink")(FM 91.3㎒)에서 매일 낮 12시부터 오후 2시까지 방송되는 경북 북부 지역의 대중가요 전문 라디오 프로그램이다. [1986년](../Page/1986년.md "wikilink") [7월 25일에](../Page/7월_25일.md "wikilink") [안동MBC FM4U가](../Page/안동문화방송.md "wikilink") 개국하면서 첫방송을 시작한 [안동MBC FM4U의](../Page/안동문화방송.md "wikilink") 최장수 라디오 프로그램이다.
 
 ## 경쟁 프로그램
 
-### FM방송 (포항MBC FM4U 포함)
+### FM방송
 
   - [최화정의 파워타임](../Page/최화정의_파워타임.md "wikilink") ([TBC Dream FM](../Page/TBC_\(대한민국의_방송사\).md "wikilink"))
-  - [TBN 차차차](https://ko.wikipedia.org/wiki/TBN_차차차_\(대구\) "wikilink") ([TBN 대구교통방송](../Page/대구교통방송.md "wikilink"))
+  - [TBN 차차차](../Page/TBN_차차차_\(대구\).md "wikilink") ([TBN 대구교통방송](../Page/대구교통방송.md "wikilink"))
   - 한낮의 휴식, 장수연입니다 ([BBS 대구불교방송](../Page/대구불교방송.md "wikilink"))
   - [대구cpbc 정오종합뉴스](https://ko.wikipedia.org/wiki/cpbc_정오종합뉴스 "wikilink") ([cpbc 대구가톨릭평화방송](../Page/대구가톨릭평화방송.md "wikilink"))
   - [신부님 신부님 우리 신부님](https://ko.wikipedia.org/wiki/신부님_신부님_우리_신부님 "wikilink") (평일) ([cpbc 대구가톨릭평화방송](../Page/대구가톨릭평화방송.md "wikilink"))

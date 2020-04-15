@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [OASIS \(\)](https://ko.wikipedia.org/wiki/OASIS_\(\)).
+> This article is converted from Wikipedia: [OASIS \(기관\)](https://ko.wikipedia.org/wiki/OASIS_\(기관\)).
 
 
 **OASIS**(Organization for the Advancement of Structured Information Standards)는 보안, [사물인터넷](../Page/사물인터넷.md "wikilink"), 에너지, 콘텐츠 기술, 긴급 관리 등의 기타 분야를 위한 표준의 개발, 컨버전스, 채택을 담당하는 비영리 기관이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Infobox3cols](https://ko.wikipedia.org/wiki/:Infobox3cols).
+> This article is converted from Wikipedia: [모듈:Infobox3cols](https://ko.wikipedia.org/wiki/모듈:Infobox3cols).
 
 
 \-- -- This module implements  -- -- The initial version was created by modifying [Module:Infobox](https://ko.wikipedia.org/wiki/Module:Infobox "wikilink") --

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [NCT    ](https://ko.wikipedia.org/wiki/NCT____).
+> This article is converted from Wikipedia: [NCT의 수상 및 후보 목록](https://ko.wikipedia.org/wiki/NCT의_수상_및_후보_목록).
 
 
 <table>
@@ -443,7 +443,7 @@
 <thead>
 <tr class="header">
 <th><p>연도</p></th>
-<th><p>수상 내역 (총 13회)</p></th>
+<th><p>수상 내역 (총 14회)</p></th>
 </tr>
 </thead>
 <tbody>
@@ -490,6 +490,15 @@
 <ul>
 <li><a href="../Page/8월_6일.md" title="wikilink">8월 6일</a> <a href="../Page/SBS_MTV.md" title="wikilink">SBS MTV</a> 《<a href="https://ko.wikipedia.org/wiki/THE_SHOW:_All_About_K-POP" title="wikilink">THE SHOW: All About K-POP</a> 시즌 5》 더 쇼 초이스</li>
 <li><a href="../Page/8월_20일.md" title="wikilink">8월 20일</a> <a href="../Page/SBS_MTV.md" title="wikilink">SBS MTV</a> 《<a href="https://ko.wikipedia.org/wiki/THE_SHOW:_All_About_K-POP" title="wikilink">THE SHOW: All About K-POP</a> 시즌 5》 더 쇼 초이스 (통산 2주)</li>
+</ul></li>
+</ul></td>
+</tr>
+<tr class="even">
+<td><p>2020년 (총 1회)</p></td>
+<td><ul>
+<li><strong>영웅</strong> - NCT 127 (총 1회)
+<ul>
+<li><a href="../Page/3월_27일.md" title="wikilink">3월 27일</a> <a href="https://ko.wikipedia.org/wiki/KBS2" title="wikilink">KBS2</a> 《<a href="../Page/뮤직뱅크.md" title="wikilink">뮤직뱅크</a>》 K-Chart 1위</li>
 </ul></li>
 </ul></td>
 </tr>

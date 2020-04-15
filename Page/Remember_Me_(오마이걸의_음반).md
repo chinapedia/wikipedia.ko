@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Remember Me \( \)](https://ko.wikipedia.org/wiki/Remember_Me_\(_\)).
+> This article is converted from Wikipedia: [Remember Me \(오마이걸의 음반\)](https://ko.wikipedia.org/wiki/Remember_Me_\(오마이걸의_음반\)).
 
 
 《**Remember Me**》(리멤버 미)는 대한민국의 걸 그룹 [오마이걸](../Page/오마이걸.md "wikilink")의 여섯 번째 [미니 음반이다](../Page/익스텐디드_플레이.md "wikilink"). 타이틀 곡은 〈불꽃놀이 (Remember Me)〉로, [2018년](../Page/2018년.md "wikilink") [9월 10일](../Page/9월_10일.md "wikilink") [카카오엠](../Page/카카오엠.md "wikilink")을 통하여 발매되었다.

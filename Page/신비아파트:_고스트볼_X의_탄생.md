@@ -1,35 +1,32 @@
-> This article is converted from Wikipedia: [:  X ](https://ko.wikipedia.org/wiki/:__X_).
+> This article is converted from Wikipedia: [신비아파트: 고스트볼 X의 탄생](https://ko.wikipedia.org/wiki/신비아파트:_고스트볼_X의_탄생).
 
 
 《**신비아파트: 고스트볼 X의 탄생**》은 [대한민국](../Page/대한민국.md "wikilink")의 [애니메이션](../Page/애니메이션.md "wikilink"). [투니버스](../Page/투니버스.md "wikilink")가 제작해 [2017년](../Page/2017년.md "wikilink") [11월 9일부터](../Page/11월_9일.md "wikilink") [2018년](../Page/2018년.md "wikilink") [3월 15일까지](../Page/3월_15일.md "wikilink") 매주 목요일 밤 저녁 8시에 방영했으며, 같은 해 [11월 8일부터](../Page/11월_8일.md "wikilink") [2019년](../Page/2019년.md "wikilink") [1월 24일까지](../Page/1월_24일.md "wikilink") 매주 목요일 밤 저녁 8시에 방영했다.
 
 ## 개요
 
-지하국대적을 물리친 이후 평화를 되찾은 신비아파트. 하지만 흑마법사의 저주로 다시 귀신들이 나타나기 시작하는데... 알 수 없는 힘에 괴로워하는 강림과 새로운 퇴마사 리온까지…\!\! **이제 진짜 귀신은 지금부터다\!**
+지하국대적을 물리친 이후 평화를 되찾은 신비아파트. 하지만 흑마법사의 저주로 다시 귀신들이 나타나기 시작하는데... 알 수 없는 힘에 괴로워하는 [강림과](../Page/최강림.md "wikilink") 새로운 퇴마사 [리온까지](../Page/리온_\(신비아파트\).md "wikilink")…\!\! **이제 진짜 귀신은 지금부터다\!**
 
 ## 등장인물
 
 ### 주역
 
-  - **[신비](https://ko.wikipedia.org/wiki/신비_\(신비아파트\) "wikilink")** (성우: [조현정](../Page/조현정_\(성우\).md "wikilink"))
-  - **[금비](https://ko.wikipedia.org/wiki/금비 "wikilink")** (성우: [양정화](../Page/양정화_\(성우\).md "wikilink"))
-  - **[구하리](https://ko.wikipedia.org/wiki/구하리_\(신비아파트\) "wikilink")** (성우:[김영은](../Page/김영은_\(성우\).md "wikilink"))
-  - **[구두리](https://ko.wikipedia.org/wiki/구두리 "wikilink")** (성우: [김채하](../Page/김채하.md "wikilink"))
-
-### 하리의 친구들
-
+  - **[신비](../Page/신비_\(신비아파트\).md "wikilink")** (성우: [조현정](../Page/조현정_\(성우\).md "wikilink"))
+  - **[금비](../Page/금비.md "wikilink")** (성우: [양정화](../Page/양정화_\(성우\).md "wikilink"))
+  - **[구하리](../Page/구하리_\(신비아파트\).md "wikilink")** (성우:[김영은](../Page/김영은_\(성우\).md "wikilink"))
+  - **[구두리](../Page/구두리.md "wikilink")** (성우: [김채하](../Page/김채하.md "wikilink"))
+  - **[최강림](../Page/최강림.md "wikilink")** (성우: [신용우](../Page/신용우_\(성우\).md "wikilink"))
   - **[김현우](https://ko.wikipedia.org/wiki/김현우_\(신비아파트\) "wikilink")** (성우: [심규혁](../Page/심규혁.md "wikilink"))
-  - **[이가은](https://ko.wikipedia.org/wiki/이가은_\(신비아파트\) "wikilink")** (성우: [여민정](../Page/여민정_\(성우\).md "wikilink"))
-  - **[최강림](https://ko.wikipedia.org/wiki/최강림 "wikilink")** (성우: [신용우](../Page/신용우_\(성우\).md "wikilink"))
-  - **[리온](https://ko.wikipedia.org/wiki/리온_\(신비아파트\) "wikilink")** (성우: [김명준](../Page/김명준_\(성우\).md "wikilink"))
+  - **[이가은](../Page/이가은_\(신비아파트\).md "wikilink")** (성우: [여민정](../Page/여민정_\(성우\).md "wikilink"))
+  - **[리온](../Page/리온_\(신비아파트\).md "wikilink")** (성우: [김명준](../Page/김명준_\(성우\).md "wikilink"))
   - **[희원](https://ko.wikipedia.org/wiki/희원_\(신비아파트\) "wikilink")** (성우: [김하루](../Page/김하루.md "wikilink"))
-  - **[이안](https://ko.wikipedia.org/wiki/이안_\(신비아파트\) "wikilink")** (성우: [최승훈](../Page/최승훈.md "wikilink"))
+  - **[이안](../Page/이안_\(신비아파트\).md "wikilink")** (성우: [최승훈](../Page/최승훈.md "wikilink"))
 
-### 그 밖
+## 그 외
 
-  - 구인남(하리와 두리 아빠) (성우: [최재호](../Page/최재호_\(성우\).md "wikilink"))
-  - 유지미(하리와 두리 엄마) (성우: [이소은](../Page/이소은_\(성우\).md "wikilink"))
-  - 강림이 엄마 (성우: [박선영](../Page/박선영_\(성우\).md "wikilink"))
+  - 구인남(**[구하리](../Page/구하리_\(신비아파트\).md "wikilink")**와**[구두리](../Page/구두리.md "wikilink")**의 아빠) (성우: [최재호](../Page/최재호_\(성우\).md "wikilink"))
+  - 유지미(**[구하리](../Page/구하리_\(신비아파트\).md "wikilink")**와**[구두리](../Page/구두리.md "wikilink")**의 엄마) (성우: [이소은](../Page/이소은_\(성우\).md "wikilink"))
+  - **[최강림](../Page/최강림.md "wikilink")**엄마 (성우: [박선영](../Page/박선영_\(성우\).md "wikilink"))
   - 대장 퇴마사 (성우: [권혁수](../Page/권혁수_\(성우\).md "wikilink"))
 
 <!-- end list -->
@@ -59,28 +56,26 @@
   - [김영찬](../Page/김영찬_\(성우\).md "wikilink"): 연지 아빠(두 번쨰 이야기 8화)
   - 그 밖: [유영](../Page/유영_\(성우\).md "wikilink"), [김다올](https://ko.wikipedia.org/wiki/김다올 "wikilink"), [홍승효](https://ko.wikipedia.org/wiki/홍승효 "wikilink"), 강성우, 박시윤, 강새봄, 이상호, 김도희
 
-## 등장 귀신
-
-### 고스트볼 X
+## 등장 귀신들
 
 #### 선귀
 
-  - 혈안귀(성우: [김신우](https://ko.wikipedia.org/wiki/김현구_\(성우\) "wikilink"))
-  - 살음귀(성우: [사문영](../Page/사문영.md "wikilink"))
-  - 벨라(성우: [김가령](../Page/김가령.md "wikilink"))
-  - 백의귀(성우: [이수진](https://ko.wikipedia.org/wiki/이수진_\(성우\) "wikilink"))
-  - 시두스(성우: [정유정](../Page/정유정_\(성우\).md "wikilink"))
-  - 손각시(성우: [정유정](../Page/정유정_\(성우\).md "wikilink"))
+  - 어둠 속의 붉은 시선 혈안귀(성우: [김신우](../Page/김현구_\(성우\).md "wikilink"))
+  - 파괴의 선율 살음귀(성우: [사문영](../Page/사문영.md "wikilink"))
+  - 저주받은 인형 벨라(성우: [김가령](../Page/김가령.md "wikilink"))
+  - 복수의 하얀 원혼 백의귀(성우: [이수진](https://ko.wikipedia.org/wiki/이수진_\(성우\) "wikilink"))
+  - 매혹의 덫 시두스(성우: [정유정](../Page/정유정_\(성우\).md "wikilink"))
+  - 천년의 증오 손각시(성우: [정유정](../Page/정유정_\(성우\).md "wikilink"))
 
 #### 악귀
 
   - 인큐버스(성우: [박영화](../Page/박영화_\(성우\).md "wikilink"))
   - 만티코어(성우: [김지율](../Page/김지율_\(성우\).md "wikilink"))
-  - 슬랜더맨(성우: [김신우](https://ko.wikipedia.org/wiki/김현구_\(성우\) "wikilink"))
+  - 슬랜더맨(성우: [김신우](../Page/김현구_\(성우\).md "wikilink"))
   - 바알제붑(성우: [김지율](../Page/김지율_\(성우\).md "wikilink"))
   - 네비로스(성우: [김지율](../Page/김지율_\(성우\).md "wikilink"))
 
-### 두 번째 이야기
+## 두 번째 이야기
 
 #### 선귀
 
@@ -88,21 +83,22 @@
   - 금돼지(성우: [김정훈](../Page/김정훈_\(성우\).md "wikilink"))
   - 입질쟁이(성우: [유영](../Page/유영_\(성우\).md "wikilink"), [김다올](https://ko.wikipedia.org/wiki/김다올 "wikilink"), [홍승효](https://ko.wikipedia.org/wiki/홍승효 "wikilink"), 강성우, 강새봄, 이상호, 김도희, 박시윤)
   - 취생(성우: [이선주](../Page/이선주.md "wikilink"))
+  - 구미호(성우: [김하루](../Page/김하루.md "wikilink"))
+  - 청목형형(성우: [양정화](../Page/양정화_\(성우\).md "wikilink"))
 
-#### 두억시니의 부하들
+#### 두억시니의 부하들/악귀
 
   - 인형술사(성우: [김기흥](../Page/김기흥_\(성우\).md "wikilink"))
   - 각귀(성우: 강성우)
   - 우사첩(성우: 이상호)
   - 지네귀신(성우: [홍승효](https://ko.wikipedia.org/wiki/홍승효 "wikilink"))
   - 당목귀(성우: [현경수](../Page/현경수.md "wikilink"))
-  - 청목형형(성우: [양정화](../Page/양정화_\(성우\).md "wikilink"))
 
 ### 그 밖
 
   - 도한(성우: [송준석](../Page/송준석_\(성우\).md "wikilink"))
-  - 두억시니(성우: [유해무](../Page/유해무.md "wikilink"))
   - 진명(성우: [민응식](../Page/민응식.md "wikilink"))
+  - 두억시니(성우: [유해무](../Page/유해무.md "wikilink"))
 
 ## 아이기스 및 기타 아이템
 
@@ -112,7 +108,7 @@
 
   - 세피르 카드
 
-리온이 귀신과 맞서 싸울 때 사용한 카드.
+아이기스 퇴마사들이 귀신과 맞서 싸울 때 사용하는 여러가지 카드들.
 
   - 아이기스
 
@@ -120,7 +116,7 @@
 
   - 고스트 퇴마검
 
-고스트볼X에 새로 나오는 강림의 새 무기.
+고스트볼X에 새로 나오는 [강림의](../Page/최강림.md "wikilink") 새 무기.
 
 ## 방영 목록
 

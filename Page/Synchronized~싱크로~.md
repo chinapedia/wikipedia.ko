@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Synchronized\~\~](https://ko.wikipedia.org/wiki/Synchronized\~\~).
+> This article is converted from Wikipedia: [Synchronized\~싱크로\~](https://ko.wikipedia.org/wiki/Synchronized\~싱크로\~).
 
 
 〈**Synchronized\~싱크로\~**〉()는 2017년 3월 1일에 발매된 [페어리즈](../Page/페어리즈.md "wikilink")의 메이저 데뷔 13번째 싱글이다.

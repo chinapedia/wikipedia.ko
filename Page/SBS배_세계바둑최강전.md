@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SBS ](https://ko.wikipedia.org/wiki/SBS_).
+> This article is converted from Wikipedia: [SBS배 세계바둑최강전](https://ko.wikipedia.org/wiki/SBS배_세계바둑최강전).
 
 
 **SBS배 세계바둑최강전**은 [대한민국](../Page/대한민국.md "wikilink"), [중국](../Page/중국.md "wikilink"), [일본](../Page/일본.md "wikilink")의 [1991년](../Page/1991년.md "wikilink") [SBS](../Page/SBS.md "wikilink")의 개국을 기념하여 이벤트 기전으로 열린 SBS배 세계 바둑 최강전의 후속 기전이다.
@@ -206,7 +206,7 @@
 <tr class="odd">
 <td><p>13</p></td>
 <td><p>2월 9일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/녜웨이핑" title="wikilink">녜웨이핑</a> 九단<br />
+<td><p><a href="../Page/녜웨이핑.md" title="wikilink">녜웨이핑</a> 九단<br />
 (중국 주장)</p></td>
 <td><p>256수 백 불계승</p></td>
 <td></td>

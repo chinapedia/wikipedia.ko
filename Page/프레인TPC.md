@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TPC](https://ko.wikipedia.org/wiki/TPC).
+> This article is converted from Wikipedia: [프레인TPC](https://ko.wikipedia.org/wiki/프레인TPC).
 
 
 **프레인TPC**()는 [대한민국](../Page/대한민국.md "wikilink")의 연예 기획사이다. 종합홍보회사 (주)프레인글로벌이 설립한 회사이며, TPC는 "Talented People Caring"을 뜻한다.\[1\]

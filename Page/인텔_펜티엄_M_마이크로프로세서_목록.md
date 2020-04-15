@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  M  ](https://ko.wikipedia.org/wiki/__M__).
+> This article is converted from Wikipedia: [인텔 펜티엄 M 마이크로프로세서 목록](https://ko.wikipedia.org/wiki/인텔_펜티엄_M_마이크로프로세서_목록).
 
 
 **[펜티엄 M](../Page/펜티엄_M.md "wikilink")** 브랜드는 **Banias**와 **Dothan** 코드명의 싱글 코어 32비트 모바일 [중앙 처리 장치를](../Page/중앙_처리_장치.md "wikilink") 가리키며 모바일 컴퓨터의 소비자 시장을 대상으로 한다.

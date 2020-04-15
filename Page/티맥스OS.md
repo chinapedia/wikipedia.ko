@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [OS](https://ko.wikipedia.org/wiki/OS).
+> This article is converted from Wikipedia: [티맥스OS](https://ko.wikipedia.org/wiki/티맥스OS).
 
 
 **티맥스OS** (TmaxOS)는 [대한민국](../Page/대한민국.md "wikilink")의 소프트웨어 기업인 티맥스 데이터가 개발한 것을 [TmaxOS](https://ko.wikipedia.org/wiki/TmaxOS "wikilink")가 인수하여 발표한 [운영 체제이다](../Page/운영_체제.md "wikilink"). 티맥스데이터와 TmaxOS는 [티맥스소프트](https://ko.wikipedia.org/wiki/티맥스소프트 "wikilink")를 설립한 [박대연](../Page/박대연.md "wikilink") 회장이 설립한 기업들이다.
@@ -49,7 +49,7 @@ TmaxOS가 공공기관 중 최초로 [국토교통과학기술진흥원](../Page
 
   - [티맥스 윈도](../Page/티맥스_윈도.md "wikilink")
   - [하모니카 (운영 체제)](../Page/하모니카_\(운영_체제\).md "wikilink")
-  - [구름 플랫폼](https://ko.wikipedia.org/wiki/구름_플랫폼 "wikilink")
+  - [구름 플랫폼](../Page/구름_플랫폼.md "wikilink")
   - [:분류:소프트웨어 중심대학](https://ko.wikipedia.org/wiki/:분류:소프트웨어_중심대학 "wikilink")
   - [훙멍](https://ko.wikipedia.org/wiki/훙멍 "wikilink")
 

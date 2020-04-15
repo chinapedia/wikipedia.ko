@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [AWA \(  \)](https://ko.wikipedia.org/wiki/AWA_\(__\)).
+> This article is converted from Wikipedia: [AWA \(온라인 음악 서비스\)](https://ko.wikipedia.org/wiki/AWA_\(온라인_음악_서비스\)).
 
 
 **AWA**()는 [사이버 에이전트와](https://ko.wikipedia.org/wiki/사이버_에이전트 "wikilink") [에이벡스 디지털의](../Page/에이벡스_엔터테인먼트.md "wikilink") 공동 출자에 의해서 설립된 AWA 주식회사\[1\]가 제공하는 인터넷 [디지털 음원](https://ko.wikipedia.org/wiki/음악_다운로드 "wikilink") 서비스이다. 구독형(월정액형) 서비스로 2015년 5월 27일에 제공 시작\[2\]. 같은 해 5월 27일의 제공 시작일에는 [iOS](https://ko.wikipedia.org/wiki/iOS "wikilink") 디바이스용과 [안드로이드](../Page/안드로이드_\(운영_체제\).md "wikilink") 디바이스용 어플이 출시됐으며, 그 후 PC용 애플리케이션(맥&윈도우), 크롬캐스트, 안드로이드TV, Apple CarPlay(차재 시스템), 안드로이드 오토(차재 시스템), 안드로이드 웨어에 대응하고 있다. 서비스 곡은 3,000만 곡 이상이며 온 세계의 레이블과 제휴를 하여 노래 서비스를 하고 있다. 또, 2015년, 2016년으로 도시형 거대 댄스 페스티벌 ‘ULTRA JAPAN’의 스폰서를 맡고 있다.

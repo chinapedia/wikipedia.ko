@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ADM ](https://ko.wikipedia.org/wiki/ADM_).
+> This article is converted from Wikipedia: [ADM 에너지](https://ko.wikipedia.org/wiki/ADM_에너지).
 
 
 **ADM 질량**() 또는 **ADM 에너지**()는 [ADM 형식에서](../Page/ADM_형식.md "wikilink") 자연스럽게 등장하는 일종의 [해밀토니언](https://ko.wikipedia.org/wiki/해밀토니언 "wikilink")의 값이다.\[1\]\[2\]

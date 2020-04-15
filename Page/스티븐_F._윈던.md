@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ F. ](https://ko.wikipedia.org/wiki/_F._).
+> This article is converted from Wikipedia: [스티븐 F. 윈던](https://ko.wikipedia.org/wiki/스티븐_F._윈던).
 
 
 **스티븐 F. 윈던**(, [1959년](../Page/1959년.md "wikilink") \~ )은 [오스트레일리아](../Page/오스트레일리아.md "wikilink")의 영화 촬영 기사이다. [저스틴 린](https://ko.wikipedia.org/wiki/저스틴_린 "wikilink") 감독의 동반자로서 그가 연출한 [분노의 질주](../Page/분노의_질주.md "wikilink") 시리즈의 촬영을 담당했다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [35 KBS ](https://ko.wikipedia.org/wiki/35_KBS_).
+> This article is converted from Wikipedia: [35기 KBS 바둑왕전](https://ko.wikipedia.org/wiki/35기_KBS_바둑왕전).
 
 
 **35기 KBS 바둑왕전**은 TV 속기전이 참가한 국내 바둑 기전이다. 결승에서는 [이세돌](../Page/이세돌.md "wikilink") 九단이 [나현](../Page/나현_\(바둑_기사\).md "wikilink") 九단을 2대 0로 꺾고 우승하며 바둑왕전 통산 3회 우승을 달성했다.

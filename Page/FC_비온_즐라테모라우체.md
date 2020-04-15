@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FC  ](https://ko.wikipedia.org/wiki/FC__).
+> This article is converted from Wikipedia: [FC 비온 즐라테모라우체](https://ko.wikipedia.org/wiki/FC_비온_즐라테모라우체).
 
 
 **FC 비온 즐라테모라우체**()는 [즐라테모라우체](https://ko.wikipedia.org/wiki/즐라테모라우체 "wikilink")를 연고로 하는 [슬로바키아](../Page/슬로바키아.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다. 현재는 [슬로바키아 수페르리가에](../Page/슬로바키아_수페르리가.md "wikilink") 참가하고 있다.

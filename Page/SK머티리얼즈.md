@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SK](https://ko.wikipedia.org/wiki/SK).
+> This article is converted from Wikipedia: [SK머티리얼즈](https://ko.wikipedia.org/wiki/SK머티리얼즈).
 
 
 **SK머티리얼즈**는 다양한 산업군에 사용되는 특수가스를 제조, 판매하는 업체이며, 본사는 경상북도 영주시 가흥공단로 59-33 (상줄동)에 위치해 있다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Goodbye \(  \)](https://ko.wikipedia.org/wiki/Goodbye_\(__\)).
+> This article is converted from Wikipedia: [Goodbye \(메리 홉킨의 노래\)](https://ko.wikipedia.org/wiki/Goodbye_\(메리_홉킨의_노래\)).
 
 
 〈**Goodbye**〉는 [폴 매카트니가](../Page/폴_매카트니.md "wikilink") 작곡하고([레논-매카트니](../Page/레논-매카트니.md "wikilink") 크레디트) [메리 홉킨이](https://ko.wikipedia.org/wiki/메리_홉킨 "wikilink") 부른 노래다. 1969년 3월 28일 발표되었으며 [영국 싱글 차트](https://ko.wikipedia.org/wiki/영국_싱글_차트 "wikilink") 2위까지 도달했고, 정상을 차지하고 있던 비틀즈의 싱글 〈[Get Back](https://ko.wikipedia.org/wiki/Get_Back "wikilink")〉에 밀려나 있었다. 1969년 4월 7일 미국에서 발매되었고 싱글 차트 13위까지 도달했다.\[1\] 네덜란드에서는 1위를 차지했다.\[2\]

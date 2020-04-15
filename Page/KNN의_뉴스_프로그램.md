@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KNN  ](https://ko.wikipedia.org/wiki/KNN__).
+> This article is converted from Wikipedia: [KNN의 뉴스 프로그램](https://ko.wikipedia.org/wiki/KNN의_뉴스_프로그램).
 
 
 **[KNN](../Page/KNN.md "wikilink")의 뉴스 프로그램**은 다음과 같다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [EUTM ](https://ko.wikipedia.org/wiki/EUTM_).
+> This article is converted from Wikipedia: [EUTM 말리](https://ko.wikipedia.org/wiki/EUTM_말리).
 
 
 [250px](https://ko.wikipedia.org/wiki/파일:EUTM_Mali.svg "wikilink") **EUTM 말리**, 또는 **유럽 연합 말리 훈련 임무**는 [말리](../Page/말리.md "wikilink") [바마코](../Page/바마코.md "wikilink")에 본부를 둔 [유럽 연합의](../Page/유럽_연합.md "wikilink") 다국적 군대 훈련 임무이다. 이들은 말리군을 훈련하고 자문한다. EUTM 말리는 말리 북부의 전투 작전에 개입하지 않으며 군 행사력이 없다. 22개의 유럽 연합 회원국이 이 임무에 참여하였으며 말리 공화국에 군대를 파견했다. 현재는 [벨기에](../Page/벨기에.md "wikilink"), [영국](../Page/영국.md "wikilink"), [프랑스](../Page/프랑스.md "wikilink")를 비롯한 10개국만이 참여 중이다. EUTM 말리는 [사헬 지역의](https://ko.wikipedia.org/wiki/사헬_지역 "wikilink") 발전과 안보를 위한 전략 내에서 활동 중인 유럽 연합의 범지구적 접근이기도 하다.\[1\]

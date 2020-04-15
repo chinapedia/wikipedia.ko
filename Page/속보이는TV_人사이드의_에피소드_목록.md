@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TV   ](https://ko.wikipedia.org/wiki/TV___).
+> This article is converted from Wikipedia: [속보이는TV 人사이드의 에피소드 목록](https://ko.wikipedia.org/wiki/속보이는TV_人사이드의_에피소드_목록).
 
 
 아래는 [KBS 2TV로](../Page/KBS_2TV.md "wikilink") 방송되었던 시사교양 프로그램 《[속보이는TV 人사이드](../Page/속보이는TV_人사이드.md "wikilink")》의 **에피소드 목록**이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ PCI  ](https://ko.wikipedia.org/wiki/_PCI__).
+> This article is converted from Wikipedia: [모바일 PCI 익스프레스 모듈](https://ko.wikipedia.org/wiki/모바일_PCI_익스프레스_모듈).
 
 
 **모바일 PCI 익스프레스 모듈**(Mobile PCI Express Module, MXM)은 [PCI 익스프레스를](../Page/PCI_익스프레스.md "wikilink") 사용하는 [랩톱 컴퓨터의](../Page/랩톱_컴퓨터.md "wikilink") [GPU](../Page/그래픽_처리_장치.md "wikilink")(MXM 그래픽스 모듈)를 위한 인터커넥트 표준으로, MXM-SIG가 개발하였다. 목적은 사유가 아닌, 산업 표준 소켓을 만들어서 완전히 새로운 시스템을 사거나 사유 벤더 업그레이드에 의존하지 않고도 노트북의 그래픽 프로세서를 쉽게 업그레이드할 수 있게 하는 것이다.

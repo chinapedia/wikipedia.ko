@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [ XII ](https://ko.wikipedia.org/wiki/_XII_).
+> This article is converted from Wikipedia: [피오 XII 역](https://ko.wikipedia.org/wiki/피오_XII_역).
 
 
-**피오 XII 역** ()은 [마드리드 지하철](../Page/마드리드_지하철.md "wikilink") [9호선의](../Page/마드리드_지하철_9호선.md "wikilink") 역이다. [마드리드](../Page/마드리드.md "wikilink") [차마르틴](https://ko.wikipedia.org/wiki/차마르틴 "wikilink") 구의 피오 12세([교황 비오 12세](../Page/교황_비오_12세.md "wikilink")) 대로에 위치해 있다. 요금구역 상으로는 A구역에 속한다.\[1\]
+**피오 XII 역**()은 [마드리드 지하철](../Page/마드리드_지하철.md "wikilink") [9호선의](../Page/마드리드_지하철_9호선.md "wikilink") 역이다. [마드리드](../Page/마드리드.md "wikilink") [차마르틴](https://ko.wikipedia.org/wiki/차마르틴 "wikilink") 구의 피오 12세([교황 비오 12세](../Page/교황_비오_12세.md "wikilink")) 대로에 위치해 있다. 요금구역 상으로는 A구역에 속한다.\[1\]
 
 ## 역사
 

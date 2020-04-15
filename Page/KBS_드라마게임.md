@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KBS ](https://ko.wikipedia.org/wiki/KBS_).
+> This article is converted from Wikipedia: [KBS 드라마게임](https://ko.wikipedia.org/wiki/KBS_드라마게임).
 
 
 《**드라마게임**》은 [KBS 2TV에서](../Page/KBS_2TV.md "wikilink") [1984년](../Page/1984년.md "wikilink") [4월 6일부터](../Page/4월_6일.md "wikilink") [1997년](../Page/1997년.md "wikilink") [3월 2일까지](../Page/3월_2일.md "wikilink") 단막극 형식의 드라마 시리즈이다.

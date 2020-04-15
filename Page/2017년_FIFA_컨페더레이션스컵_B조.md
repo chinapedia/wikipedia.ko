@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [2017 FIFA  B](https://ko.wikipedia.org/wiki/2017_FIFA__B).
+> This article is converted from Wikipedia: [2017년 FIFA 컨페더레이션스컵 B조](https://ko.wikipedia.org/wiki/2017년_FIFA_컨페더레이션스컵_B조).
 
 
 **[2017년 FIFA 컨페더레이션스컵](../Page/2017년_FIFA_컨페더레이션스컵.md "wikilink") B조**는 2017년 6월 17일부터 25일까지 열린다. B조는 [카메룬](../Page/카메룬_축구_국가대표팀.md "wikilink"), [칠레](../Page/칠레_축구_국가대표팀.md "wikilink"), [오스트레일리아](../Page/오스트레일리아_축구_국가대표팀.md "wikilink"), [독일로](../Page/독일_축구_국가대표팀.md "wikilink") 구성되었다. 4개의 팀들 중 상위 2개의 팀이 4강전에 진출한다.\[1\]
@@ -256,7 +256,7 @@
 유레 프라프로트니크 (<a href="https://ko.wikipedia.org/wiki/슬로베니아_축구_협회" title="wikilink">슬로베니아</a>)<br />
 로베르트 부칸 (<a href="https://ko.wikipedia.org/wiki/슬로베니아_축구_협회" title="wikilink">슬로베니아</a>)<br />
 <strong>대기심:</strong><br />
-<a href="https://ko.wikipedia.org/wiki/밀로라드_마지치" title="wikilink">밀로라드 마지치</a> (<a href="https://ko.wikipedia.org/wiki/세르비아_축구_협회" title="wikilink">세르비아</a>)<br />
+<a href="../Page/밀로라드_마지치.md" title="wikilink">밀로라드 마지치</a> (<a href="https://ko.wikipedia.org/wiki/세르비아_축구_협회" title="wikilink">세르비아</a>)<br />
 <strong>비디오 판독심:</strong><br />
 <a href="https://ko.wikipedia.org/wiki/클레망_튀르팽" title="wikilink">클레망 튀르팽</a> (<a href="../Page/프랑스_축구_연맹.md" title="wikilink">프랑스</a>)<br />
 <a href="https://ko.wikipedia.org/wiki/밀로반_리스티치" title="wikilink">밀로반 리스티치</a> (<a href="https://ko.wikipedia.org/wiki/세르비아_축구_협회" title="wikilink">세르비아</a>)<br />
@@ -1142,7 +1142,7 @@
 엘레니토 디 리베라토레 (<a href="https://ko.wikipedia.org/wiki/이탈리아_축구협회" title="wikilink">이탈리아</a>)<br />
 마우로 토놀리니 (<a href="https://ko.wikipedia.org/wiki/이탈리아_축구협회" title="wikilink">이탈리아</a>)<br />
 <strong>대기심:</strong><br />
-<a href="https://ko.wikipedia.org/wiki/밀로라드_마지치" title="wikilink">밀로라드 마지치</a> (<a href="https://ko.wikipedia.org/wiki/세르비아_축구협회" title="wikilink">세르비아</a>)<br />
+<a href="../Page/밀로라드_마지치.md" title="wikilink">밀로라드 마지치</a> (<a href="https://ko.wikipedia.org/wiki/세르비아_축구협회" title="wikilink">세르비아</a>)<br />
 <strong>비디오 판독심:</strong><br />
 <a href="https://ko.wikipedia.org/wiki/오비디우_하체간" title="wikilink">오비디우 하체간</a> (<a href="https://ko.wikipedia.org/wiki/루마니아_축구협회" title="wikilink">루마니아</a>)<br />
 밀로반 리스티치 (<a href="https://ko.wikipedia.org/wiki/세르비아_축구협회" title="wikilink">세르비아</a>)<br />

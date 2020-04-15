@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Closer \( \)](https://ko.wikipedia.org/wiki/Closer_\(_\)).
+> This article is converted from Wikipedia: [Closer \(체인스모커스의 노래\)](https://ko.wikipedia.org/wiki/Closer_\(체인스모커스의_노래\)).
 
 
 "**Closer**'"는 미국의 일렉트로닉 듀오 [체인스모커스](../Page/체인스모커스.md "wikilink") 노래로, 미국의 가수 [할시가](https://ko.wikipedia.org/wiki/할시_\(가수\) "wikilink") 피처링을 하였다. 2016년 7월 29일 [디스럽터 레코드와](https://ko.wikipedia.org/wiki/디스럽터_레코드 "wikilink") [컬럼비아 레코드를](../Page/컬럼비아_레코드.md "wikilink") 통해 발매되었다.\[1\]

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ EBS ](https://ko.wikipedia.org/wiki/_EBS_).
+> This article is converted from Wikipedia: [생방송 EBS 교육저널](https://ko.wikipedia.org/wiki/생방송_EBS_교육저널).
 
 
 《**생방송 EBS 교육저널**》은 [EBS 1TV에서](../Page/EBS_1TV.md "wikilink") 매월 마지막 [금요일](../Page/금요일.md "wikilink") 밤 11시 35분에 방송되는 [교양](../Page/교양.md "wikilink") 프로그램이다.

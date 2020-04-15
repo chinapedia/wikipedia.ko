@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ SK  ](https://ko.wikipedia.org/wiki/_SK__).
+> This article is converted from Wikipedia: [갈라타사라이 SK 유니폼 역사](https://ko.wikipedia.org/wiki/갈라타사라이_SK_유니폼_역사).
 
 
 [갈라타사라이 SK는](../Page/갈라타사라이_SK_\(축구\).md "wikilink") 창단 당시 적색과 백색의 유니폼을 착용하였고, 1907-08 시즌에는 암황색과 암청색의 유니폼을 사용하였다. [영국 왕립해군의](../Page/영국_왕립해군.md "wikilink") [HMS 바럼](https://ko.wikipedia.org/wiki/HMS_바럼 "wikilink") 선원들과 경기를 치룬 1908년 12월 8일을 기점으로, 갈라타사라이는 [귈 바바가](https://ko.wikipedia.org/wiki/귈_바바_\(시인\) "wikilink") 술탄 [바예지드 2세에](../Page/바예지드_2세.md "wikilink") 헌화한 [장미](../Page/장미.md "wikilink")의 색으로부터 영감을 받은 적색과 황색으로 된 현재의 유니폼을 입기 시작하였다.\[1\]

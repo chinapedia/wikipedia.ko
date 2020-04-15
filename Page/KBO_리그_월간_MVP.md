@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KBO   MVP](https://ko.wikipedia.org/wiki/KBO___MVP).
+> This article is converted from Wikipedia: [KBO 리그 월간 MVP](https://ko.wikipedia.org/wiki/KBO_리그_월간_MVP).
 
 
 **KBO 리그 월간 MVP**는 [KBO가](https://ko.wikipedia.org/wiki/KBO_\(단체\) "wikilink") 정규 시즌 중인 4월부터 9월까지 매월마다 최고의 활약을 보인 선수에게 수여하는 상이다. 2005년에는 투수와 타자 1명에게 각각 수상하였지만 1년만에 중단하였고 이후 2010년부터는 투타에서 1명만 수상하는 방식으로 부활하여 지금까지 수상하고 있다.

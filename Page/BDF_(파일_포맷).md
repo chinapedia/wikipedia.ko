@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [BDF \( \)](https://ko.wikipedia.org/wiki/BDF_\(_\)).
+> This article is converted from Wikipedia: [BDF \(파일 포맷\)](https://ko.wikipedia.org/wiki/BDF_\(파일_포맷\)).
 
 
 Adobe 의 BDF(Glyph Bitmap Distribution Format)은 [비트맵](https://ko.wikipedia.org/wiki/비트맵 "wikilink") [글꼴](../Page/글꼴.md "wikilink") 을 저장하기위한 [파일 형식이다](https://ko.wikipedia.org/wiki/파일_형식 "wikilink"). 내용은 컴퓨터 및 인간이 읽을 수있는 [텍스트 파일](../Page/텍스트_파일.md "wikilink") 형식을 취한다. BDF는 일반적으로 Unix 계열의 [X 윈도 시스템](../Page/X_윈도_시스템.md "wikilink") 환경에서 사용된다. 주로 보다 효율적이고 [오픈타입](../Page/오픈타입.md "wikilink")(OpenType) 및 [트루타입](../Page/트루타입.md "wikilink")(TrueType) 글꼴과 같은 확장 가능한 글꼴로 [PCF](https://ko.wikipedia.org/wiki/PCF_\(파일_포맷\) "wikilink") 글꼴 형식으로 대체되었다.

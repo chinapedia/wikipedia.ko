@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [QNK  FC](https://ko.wikipedia.org/wiki/QNK__FC).
+> This article is converted from Wikipedia: [QNK 꽝남 FC](https://ko.wikipedia.org/wiki/QNK_꽝남_FC).
 
 
 **QNK 꽝남 FC**()는 [베트남](../Page/베트남.md "wikilink") [꽝남 성을](https://ko.wikipedia.org/wiki/꽝남_성 "wikilink") 연고로 하는 축구 클럽이다. [1997년](../Page/1997년.md "wikilink")에 창단되었으며, 현재 베트남 축구 최상위 리그 [V리그 1에](../Page/V리그_1.md "wikilink") 소속되어 있다.

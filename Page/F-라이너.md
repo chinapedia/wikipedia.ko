@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [F-](https://ko.wikipedia.org/wiki/F-).
+> This article is converted from Wikipedia: [F-라이너](https://ko.wikipedia.org/wiki/F-라이너).
 
 
 **F-라이너**()는 [요코하마 고속 철도](../Page/요코하마_고속_철도.md "wikilink"), [도부 철도](../Page/도부_철도.md "wikilink"), [도쿄 지하철](../Page/도쿄_지하철.md "wikilink"), [세이부 철도](../Page/세이부_철도.md "wikilink"), [도부 철도가](../Page/도부_철도.md "wikilink") 운행하는 열차로 [2016년](../Page/2016년.md "wikilink") [3월 26일에](../Page/3월_26일.md "wikilink") 운행을 개시한 특급 ([특별 급행](../Page/급행열차.md "wikilink")) 열차의 명칭이다. [도부 도조 본선](../Page/도부_도조_본선.md "wikilink"), [세이부 이케부쿠로 선](../Page/세이부_이케부쿠로_선.md "wikilink"), [도쿄 메트로 후쿠토신 선](https://ko.wikipedia.org/wiki/도쿄_메트로_후쿠토신_선 "wikilink"), [도큐 도요코 선](../Page/도큐_도요코_선.md "wikilink"), [요코하마 고속 철도 미나토미라이 선](../Page/요코하마_고속_철도_미나토미라이_선.md "wikilink") 노선을 운행하고 있으며 [2017년](../Page/2017년.md "wikilink") [3월 25일에](../Page/3월_25일.md "wikilink") 운행을 시작한 [S-트레인](../Page/S-트레인.md "wikilink") 이전에 직통 노선 중에서 가장 높은 등급이다.\[1\]\[2\]\[3\]
@@ -40,7 +40,7 @@
   - [6000계](../Page/세이부_철도_6000계_전동차.md "wikilink")
   - [40000계](https://ko.wikipedia.org/wiki/세이부_철도_40000계_전동차 "wikilink")
 
-파일:Tokyu 5050-4000 Series 4105F F-Liner Limited Express.jpg|5050계 4000번대 파일:TokyoMetro7113 Daikanyama 121202.jpg|도쿄 메트로 7000계 파일:Tokyo metro 10000 series toyoko line.JPG|도쿄 메트로 10000계 파일:Touyoko line seibu 6000 kei.JPG|세이부 철도 6000계 파일:Seibu40000wiki.jpg|세이부 철도 40000계 파일:Touyoko line tobu 9050kei.JPG|도부 철도 9000계 파일:Touyoko line tobu 50070kei.JPG|도부 철도 50070계
+파일:TokyoMetro7113 Daikanyama 121202.jpg|도쿄 메트로 7000계 파일:Tokyo metro 10000 series toyoko line.JPG|도쿄 메트로 10000계 파일:Touyoko line seibu 6000 kei.JPG|세이부 철도 6000계 파일:Seibu40000wiki.jpg|세이부 철도 40000계 파일:Touyoko line tobu 9050kei.JPG|도부 철도 9000계 파일:Touyoko line tobu 50070kei.JPG|도부 철도 50070계
 
 ## 정차역
 

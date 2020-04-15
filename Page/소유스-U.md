@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [-U](https://ko.wikipedia.org/wiki/-U).
+> This article is converted from Wikipedia: [소유스-U](https://ko.wikipedia.org/wiki/소유스-U).
 
 
 **소유스-U**는 러시아 [소유스 로켓의](https://ko.wikipedia.org/wiki/소유스_로켓 "wikilink") 개량형이다.

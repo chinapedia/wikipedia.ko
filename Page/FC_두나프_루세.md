@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FC  ](https://ko.wikipedia.org/wiki/FC__).
+> This article is converted from Wikipedia: [FC 두나프 루세](https://ko.wikipedia.org/wiki/FC_두나프_루세).
 
 
 **FC 두나프 루세**()는 [루세](../Page/루세.md "wikilink")를 연고로 하는 [불가리아](../Page/불가리아.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다. 현재는 [파르바리가](../Page/파르바리가.md "wikilink")에 참가하고 있다.

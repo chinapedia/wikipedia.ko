@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [A](https://ko.wikipedia.org/wiki/A).
+> This article is converted from Wikipedia: [여중생A](https://ko.wikipedia.org/wiki/여중생A).
 
 
 《**여중생A**》는 [대한민국](../Page/대한민국.md "wikilink") 만화가 [허5파6](https://ko.wikipedia.org/wiki/허5파6 "wikilink")의 [웹툰](../Page/웹툰.md "wikilink")이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SBS ](https://ko.wikipedia.org/wiki/SBS_).
+> This article is converted from Wikipedia: [SBS 뉴스레이더](https://ko.wikipedia.org/wiki/SBS_뉴스레이더).
 
 
 《**SBS 뉴스레이더**》는 [SBS 러브FM에서](../Page/SBS_러브FM.md "wikilink") 평일 아침 8시에 방송되었던 [SBS 러브FM의](../Page/SBS_러브FM.md "wikilink") 아침뉴스 프로그램이다.

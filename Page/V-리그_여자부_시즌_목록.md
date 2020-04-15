@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [V-   ](https://ko.wikipedia.org/wiki/V-___).
+> This article is converted from Wikipedia: [V-리그 여자부 시즌 목록](https://ko.wikipedia.org/wiki/V-리그_여자부_시즌_목록).
 
 
 다음은 [V-리그](../Page/V-리그_\(대한민국\).md "wikilink") 여자부의 역대 시즌 목록이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KF ](https://ko.wikipedia.org/wiki/KF_).
+> This article is converted from Wikipedia: [KF 엘바사니](https://ko.wikipedia.org/wiki/KF_엘바사니).
 
 
 **KF 엘바사니**()는 [엘바산](https://ko.wikipedia.org/wiki/엘바산 "wikilink")을 연고로 하는 [알바니아](https://ko.wikipedia.org/wiki/알바니아 "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다. 현재는 알바니아의 3부 축구 리그인 [알바니아 세컨드디비전에](https://ko.wikipedia.org/wiki/알바니아_세컨드디비전 "wikilink") 참가하고 있다.

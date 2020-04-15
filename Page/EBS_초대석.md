@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [EBS ](https://ko.wikipedia.org/wiki/EBS_).
+> This article is converted from Wikipedia: [EBS 초대석](https://ko.wikipedia.org/wiki/EBS_초대석).
 
 
-《**EBS 초대석**》은 [EBS 1TV에서](../Page/EBS_1TV.md "wikilink") 수요일 밤 11시 35분에 방송하는 텔레비전 토크쇼다.
+《**EBS 초대석**》은 [EBS 1TV에서](../Page/EBS_1TV.md "wikilink") 수요일 낮 1시 50분에 방송하는 텔레비전 토크쇼다.
 
 ## 방송 시간
 
@@ -17,7 +17,8 @@
 | [2017년](../Page/2017년.md "wikilink") [8월 30일](../Page/8월_30일.md "wikilink") \~ [2018년](../Page/2018년.md "wikilink") [2월 21일](../Page/2월_21일.md "wikilink") | 수요일 낮 12시 45분 \~ 낮 1시 40분(55분)                                                                                                                             |                             |
 | [2018년](../Page/2018년.md "wikilink") [3월 4일](../Page/3월_4일.md "wikilink") \~ [2018년](../Page/2018년.md "wikilink") [8월 26일](../Page/8월_26일.md "wikilink")   | 일요일 아침 10시 30분 \~ 아침 11시 20분(50분)                                                                                                                          |                             |
 | [2018년](../Page/2018년.md "wikilink") [8월 29일](../Page/8월_29일.md "wikilink") \~ [2019년](../Page/2019년.md "wikilink") [8월 14일](../Page/8월_14일.md "wikilink") | 수요일 밤 11시 55분 \~ 밤 12시 45분(50분)                                                                                                                            |                             |
-| [2019년](../Page/2019년.md "wikilink") [9월 4일](../Page/9월_4일.md "wikilink") \~ **현재**                                                                        | 수요일 밤 11시 35분 \~ 밤 12시 25분(50분)                                                                                                                            |                             |
+| [2019년](../Page/2019년.md "wikilink") [8월 28일](../Page/8월_28일.md "wikilink") \~ [2020년](../Page/2020년.md "wikilink") [3월 25일](../Page/3월_25일.md "wikilink") | 수요일 밤 11시 35분 \~ 밤 12시 25분(50분)                                                                                                                            |                             |
+| [2020년](../Page/2020년.md "wikilink") [4월 1일](../Page/4월_1일.md "wikilink") \~ **현재**                                                                        | 수요일 낮 1시 50분 \~ 2시 40분(50분)                                                                                                                                |                             |
 
 ## 방송 회차
 

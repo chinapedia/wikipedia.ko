@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Documentation](https://ko.wikipedia.org/wiki/:Documentation).
+> This article is converted from Wikipedia: [모듈:Documentation](https://ko.wikipedia.org/wiki/모듈:Documentation).
 
 
 \-- This module implements .

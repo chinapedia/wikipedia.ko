@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [ TV   9 ](https://ko.wikipedia.org/wiki/_TV___9_).
+> This article is converted from Wikipedia: [간사이 TV 화요일 밤 9시 드라마](https://ko.wikipedia.org/wiki/간사이_TV_화요일_밤_9시_드라마).
 
 
-**간사이 TV 화요일 밤 9시 드라마**는, [간사이 TV 방송](../Page/간사이_TV_방송.md "wikilink") 제작으로, [2016년](../Page/2016년.md "wikilink") [10월 11일부터](../Page/10월_11일.md "wikilink") [후지 TV](../Page/후지_TV.md "wikilink") 계열에서, [화요일](https://ko.wikipedia.org/wiki/화요일 "wikilink") 밤 9시에 방송되고 있는 [일본](../Page/일본.md "wikilink")의 [텔레비전 드라마](https://ko.wikipedia.org/wiki/일본_드라마 "wikilink") 시간대이다.
+**간사이 TV 화요일 밤 9시 드라마**는 [간사이 TV 방송](../Page/간사이_TV_방송.md "wikilink") 제작으로, [2016년](../Page/2016년.md "wikilink") [10월 11일부터](../Page/10월_11일.md "wikilink") [후지 TV](../Page/후지_TV.md "wikilink") 계열에서, [화요일](https://ko.wikipedia.org/wiki/화요일 "wikilink") 밤 9시에 방송되고 있는 [일본](../Page/일본.md "wikilink")의 [텔레비전 드라마](https://ko.wikipedia.org/wiki/일본_드라마 "wikilink") 시간대이다.
 
 ## 개요
 
@@ -92,8 +92,17 @@
     제작:칸사이 TV
   - 《**[용의 길 두 얼굴의 복수자](https://ko.wikipedia.org/wiki/용의_길_두_얼굴의_복수자 "wikilink")**》
     주연:[타마키 히로시](../Page/타마키_히로시.md "wikilink"), [타카하시 잇세이](../Page/타카하시_잇세이.md "wikilink")
+    원작:[시라카와 토오루](https://ko.wikipedia.org/wiki/시라카와_토오루 "wikilink")
     각본:시노사기 에리코
-    제작:칸사이 TV, 쿄도테레비
+    제작:칸사이 TV, 쿄도 TV
+
+## 함께 보기
+
+  - [신드라](https://ko.wikipedia.org/wiki/신드라 "wikilink")
+  - [닛폰 TV 방송망 수요 심야 드라마](https://ko.wikipedia.org/wiki/:ja:日本テレビ木曜未明の深夜ドラマ "wikilink")
+  - [요미우리 TV 목요드라마](../Page/요미우리_TV_목요드라마.md "wikilink")
+  - [어른의 토드라](../Page/어른의_토드라.md "wikilink")
+  - [닛폰 TV 방송망 일요드라마](../Page/닛폰_TV_방송망_일요드라마.md "wikilink")
 
 ## 외부 링크
 

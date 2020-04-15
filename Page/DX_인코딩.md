@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [DX ](https://ko.wikipedia.org/wiki/DX_).
+> This article is converted from Wikipedia: [DX 인코딩](https://ko.wikipedia.org/wiki/DX_인코딩).
 
 
 [frame](https://ko.wikipedia.org/wiki/파일:Dx135can.jpg "wikilink") **DX**(**D**igital inde**X**, 디지털 인덱스) 인코딩(DX encoding)은 [ANSI](../Page/미국_국가표준_협회.md "wikilink"), [I3A](https://ko.wikipedia.org/wiki/I3A "wikilink") 표준의 하나로서, 1983년 3월 [코닥](../Page/코닥.md "wikilink")이 [135](https://ko.wikipedia.org/wiki/135_필름 "wikilink"), [APS](../Page/어드밴스트_포토_시스템.md "wikilink") 포토그래픽 필름과 필름 카트리지의 마킹을 위해 처음 선보였다.

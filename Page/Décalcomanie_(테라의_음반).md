@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Dcalcomanie \( \)](https://ko.wikipedia.org/wiki/Dcalcomanie_\(_\)).
+> This article is converted from Wikipedia: [Décalcomanie \(테라의 음반\)](https://ko.wikipedia.org/wiki/Décalcomanie_\(테라의_음반\)).
 
 
 《**Décalcomanie**》는 [대한민국](../Page/대한민국.md "wikilink")의 가수 [테라의](../Page/장연주.md "wikilink") 처음이자 마지막 [정규 음반이다](../Page/정규_음반.md "wikilink").  [right](https://ko.wikipedia.org/wiki/파일:Terra_decalcomanie_b.jpg "wikilink")

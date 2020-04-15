@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [ \(GO\)](https://ko.wikipedia.org/wiki/_\(GO\)).
+> This article is converted from Wikipedia: [케네디역 \(GO\)](https://ko.wikipedia.org/wiki/케네디역_\(GO\)).
 
 
-**케네디역** (Kennedy Station) 은 [캐나다](../Page/캐나다.md "wikilink") [온타리오주](https://ko.wikipedia.org/wiki/온타리오주 "wikilink") [토론토](../Page/토론토.md "wikilink")의 [스카버러](https://ko.wikipedia.org/wiki/스카버러_\(온타리오주\) "wikilink") 지역에 있는 [GO 트랜싯의](../Page/GO_트랜싯.md "wikilink") 통근 열차 역이다. [스토우빌선](../Page/스토우빌선.md "wikilink") 열차가 정차하는 이 역은 [토론토 지하철의](../Page/토론토_지하철.md "wikilink") [블루어-댄포스 선과](https://ko.wikipedia.org/wiki/블루어-댄포스_선 "wikilink") [스카버러 RT](../Page/스카버러_RT.md "wikilink") 종착역인 [케네디 지하철역과](../Page/케네디역_\(TTC\).md "wikilink") 연결되어있으며 [토론토 교통국의](../Page/토론토_교통국.md "wikilink") [버스로도](../Page/토론토의_시내버스.md "wikilink") 갈아탈 수 있다.
+**케네디역**(Kennedy Station) 은 [캐나다](../Page/캐나다.md "wikilink") [온타리오주](https://ko.wikipedia.org/wiki/온타리오주 "wikilink") [토론토](../Page/토론토.md "wikilink")의 [스카버러](https://ko.wikipedia.org/wiki/스카버러_\(온타리오주\) "wikilink") 지역에 있는 [GO 트랜싯의](../Page/GO_트랜싯.md "wikilink") 통근 열차 역이다. [스토우빌선](../Page/스토우빌선.md "wikilink") 열차가 정차하는 이 역은 [토론토 지하철의](../Page/토론토_지하철.md "wikilink") [블루어-댄포스 선과](https://ko.wikipedia.org/wiki/블루어-댄포스_선 "wikilink") [스카버러 RT](../Page/스카버러_RT.md "wikilink") 종착역인 [케네디 지하철역과](../Page/케네디역_\(TTC\).md "wikilink") 연결되어있으며 [토론토 교통국의](../Page/토론토_교통국.md "wikilink") [버스로도](../Page/토론토의_시내버스.md "wikilink") 갈아탈 수 있다.
 
 ## 역사
 

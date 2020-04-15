@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ Z. ](https://ko.wikipedia.org/wiki/_Z._).
+> This article is converted from Wikipedia: [마크 Z. 대니얼레프스키](https://ko.wikipedia.org/wiki/마크_Z._대니얼레프스키).
 
 
 **마크 Z. 대니얼레프스키**(, [1966년](../Page/1966년.md "wikilink") [3월 5일](../Page/3월_5일.md "wikilink") \~ )는 [미국](../Page/미국.md "wikilink")의 공포 [소설가](https://ko.wikipedia.org/wiki/소설가 "wikilink")이다. 2000년 《나뭇잎의 집》으로 데뷔하였고, 2006년작 《오직 혁명》으로 [내셔널 북 어워드](../Page/내셔널_북_어워드.md "wikilink") 후보에 올랐다. 지금은 《패밀리아》 시리즈를 집필하고 있다. 아버지는 폴란드계 이민자이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [GOT7  ](https://ko.wikipedia.org/wiki/GOT7__).
+> This article is converted from Wikipedia: [GOT7의 음반 목록](https://ko.wikipedia.org/wiki/GOT7의_음반_목록).
 
 
 다음은 [대한민국](../Page/대한민국.md "wikilink")의 [남성](https://ko.wikipedia.org/wiki/남성 "wikilink") 음악 그룹 [GOT7](https://ko.wikipedia.org/wiki/GOT7 "wikilink")의 **음반 목록**이다.

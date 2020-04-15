@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [BMW](https://ko.wikipedia.org/wiki/BMW).
+> This article is converted from Wikipedia: [BMW학술상](https://ko.wikipedia.org/wiki/BMW학술상).
 
 
 **BMW학술상**은 BMW코리아와 한독경상학회가 국내 산업의 국제화를 위한 이론 발전과 한독 양국간 교류 증진을 위해 경제.경영학 분야 이론 정립에 크게 기여한 논문을 선정하여 시상하는 학술상이다.\[1\]

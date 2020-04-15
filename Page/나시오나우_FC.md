@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
+> This article is converted from Wikipedia: [나시오나우 FC](https://ko.wikipedia.org/wiki/나시오나우_FC).
 
 
 **나시오나우 푸치보우 클루비**()는 **나시오나우**라고도 불리며, [1913년](../Page/1913년.md "wikilink")에 창단한 [브라질](../Page/브라질.md "wikilink") [아마조나스주](../Page/아마조나스주.md "wikilink") [마나우스](../Page/마나우스.md "wikilink")를 연고로 하는 [축구](../Page/축구.md "wikilink")팀이다. [2018년](../Page/2018년.md "wikilink") 현재 전국 4부 리그 [캄페오나투 브라질레이루 세리이 D와](../Page/캄페오나투_브라질레이루_세리이_D.md "wikilink") 파라이바 주리그 [캄페오나투 아마조넨시에](https://ko.wikipedia.org/wiki/캄페오나투_아마조넨시 "wikilink") 참가하고 있다. 나시오나우 FC는 아마조나스 주에서 가장 오래된 축구팀이다.

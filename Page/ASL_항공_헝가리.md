@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ASL  ](https://ko.wikipedia.org/wiki/ASL__).
+> This article is converted from Wikipedia: [ASL 항공 헝가리](https://ko.wikipedia.org/wiki/ASL_항공_헝가리).
 
 
 **ASL 항공 헝가리**()는 [헝가리](../Page/헝가리.md "wikilink")의 화물 항공사로 [부다페스트 리스트 페렌츠 국제공항이](../Page/부다페스트_리스트_페렌츠_국제공항.md "wikilink") [허브 공항으로](../Page/허브_공항.md "wikilink") [1987년](../Page/1987년.md "wikilink")에 **판에어 헝가리**()로 설립되었고 주로 화물 항공편을 제공한다.\[1\]\[2\]

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Numbered subpages](https://ko.wikipedia.org/wiki/:Numbered_subpages).
+> This article is converted from Wikipedia: [모듈:Numbered subpages](https://ko.wikipedia.org/wiki/모듈:Numbered_subpages).
 
 
 \-- This module implements .

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [R. C. ](https://ko.wikipedia.org/wiki/R._C._).
+> This article is converted from Wikipedia: [R. C. 스프롤](https://ko.wikipedia.org/wiki/R._C._스프롤).
 
 
 **R. C. 스프롤**(Robert Charles Sproul, 1939년 2월 13일- 2017년 12월 14일)은 미국의 [칼빈주의](https://ko.wikipedia.org/wiki/칼빈주의 "wikilink") [신학자](https://ko.wikipedia.org/wiki/신학자 "wikilink"), [저술가](https://ko.wikipedia.org/wiki/저술가 "wikilink"), 그리고 [목회자](https://ko.wikipedia.org/wiki/목회자 "wikilink")이다. 그는 피츠버그 외각에 있는 ‘[리고니어 미니스트리즈](https://ko.wikipedia.org/wiki/리고니어_미니스트리즈 "wikilink")(Ligonier Ministries)'의 창설자이다. 미국의 라디오 방송 설교가이다. [1975년](../Page/1975년.md "wikilink") 이후부터 [미국 장로교회](https://ko.wikipedia.org/wiki/미국_장로교회 "wikilink")(PCA) 소속 목사이다.

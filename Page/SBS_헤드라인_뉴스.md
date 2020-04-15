@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SBS  ](https://ko.wikipedia.org/wiki/SBS__).
+> This article is converted from Wikipedia: [SBS 헤드라인 뉴스](https://ko.wikipedia.org/wiki/SBS_헤드라인_뉴스).
 
 
 《**SBS 헤드라인 뉴스**》()는 [대한민국](../Page/대한민국.md "wikilink") SBS에서 토요일 밤 11시 50분에 방송되었던 [SBS의 토요일 심야 단신뉴스 프로그램이다](../Page/SBS의_뉴스_프로그램.md "wikilink").

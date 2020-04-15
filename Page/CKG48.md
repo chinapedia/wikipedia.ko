@@ -23,13 +23,13 @@
 <!-- end list -->
 
   - 1월 19일, "제5회 리퀘스트 타임 BEST 50"에서 SHY48와 함께 그룹 해산을 발표했다.
-  - 3월 3일, [IDOLS Ft](https://ko.wikipedia.org/wiki/IDOLS_Ft "wikilink") 멤버 중 18명이 그룹을 재결성되었다.\[2\]
+  - 3월 3일, [IDOLS Ft](../Page/IDOLS_Ft.md "wikilink") 멤버 중 18명이 그룹을 재결성되었다.\[2\]
 
 ## 멤버
 
 ### 정규 멤버
 
-※ 전원 20명, [IDOLS Ft의](https://ko.wikipedia.org/wiki/IDOLS_Ft "wikilink") 멤버.
+※ 전원 20명, [IDOLS Ft의](../Page/IDOLS_Ft.md "wikilink") 멤버.
 
 <table>
 <thead>
@@ -513,7 +513,7 @@
 <td></td>
 <td><p>1기</p></td>
 <td><p>K</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/IDOLS_Ft" title="wikilink">IDOLS Ft</a> 이적</p></td>
+<td><p><a href="../Page/IDOLS_Ft.md" title="wikilink">IDOLS Ft</a> 이적</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -523,7 +523,7 @@
 <td><p>2월 9일</p></td>
 <td><p>3기</p></td>
 <td><p>C</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/IDOLS_Ft" title="wikilink">IDOLS Ft</a> 이적</p></td>
+<td><p><a href="../Page/IDOLS_Ft.md" title="wikilink">IDOLS Ft</a> 이적</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -533,7 +533,7 @@
 <td></td>
 <td><p>1기</p></td>
 <td><p>K</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/IDOLS_Ft" title="wikilink">IDOLS Ft</a> 이적</p></td>
+<td><p><a href="../Page/IDOLS_Ft.md" title="wikilink">IDOLS Ft</a> 이적</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -543,7 +543,7 @@
 <td><p>7월 10일</p></td>
 <td><p>1기</p></td>
 <td><p>C</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/IDOLS_Ft" title="wikilink">IDOLS Ft</a> 이적</p></td>
+<td><p><a href="../Page/IDOLS_Ft.md" title="wikilink">IDOLS Ft</a> 이적</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -553,7 +553,7 @@
 <td></td>
 <td><p>SNH48 5기</p></td>
 <td><p>K</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/IDOLS_Ft" title="wikilink">IDOLS Ft</a> 이적</p></td>
+<td><p><a href="../Page/IDOLS_Ft.md" title="wikilink">IDOLS Ft</a> 이적</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -563,7 +563,7 @@
 <td></td>
 <td><p>1기</p></td>
 <td><p>K</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/IDOLS_Ft" title="wikilink">IDOLS Ft</a> 이적</p></td>
+<td><p><a href="../Page/IDOLS_Ft.md" title="wikilink">IDOLS Ft</a> 이적</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -573,7 +573,7 @@
 <td></td>
 <td><p>1기</p></td>
 <td><p>C</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/IDOLS_Ft" title="wikilink">IDOLS Ft</a> 이적</p></td>
+<td><p><a href="../Page/IDOLS_Ft.md" title="wikilink">IDOLS Ft</a> 이적</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -583,7 +583,7 @@
 <td><p>4월 25일</p></td>
 <td><p>1기</p></td>
 <td><p>K</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/IDOLS_Ft" title="wikilink">IDOLS Ft</a> 이적</p></td>
+<td><p><a href="../Page/IDOLS_Ft.md" title="wikilink">IDOLS Ft</a> 이적</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -593,7 +593,7 @@
 <td></td>
 <td><p>2기</p></td>
 <td><p>K</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/IDOLS_Ft" title="wikilink">IDOLS Ft</a> 이적</p></td>
+<td><p><a href="../Page/IDOLS_Ft.md" title="wikilink">IDOLS Ft</a> 이적</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -604,7 +604,7 @@
 <td><p>3기</p></td>
 <td><p>(IDOLS Ft)</p></td>
 <td><p>2019년 5월 10일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/IDOLS_Ft" title="wikilink">IDOLS Ft</a> 활동 휴지</p></td>
+<td><p><a href="../Page/IDOLS_Ft.md" title="wikilink">IDOLS Ft</a> 활동 휴지</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -693,7 +693,7 @@ CKG99100118</p></td>
   - [GNZ48](../Page/GNZ48.md "wikilink")
   - [SHY48](../Page/SHY48.md "wikilink")
   - [CGT48](https://ko.wikipedia.org/wiki/CGT48 "wikilink")
-  - [IDOLS Ft](https://ko.wikipedia.org/wiki/IDOLS_Ft "wikilink")
+  - [IDOLS Ft](../Page/IDOLS_Ft.md "wikilink")
 
 ## 각주
 

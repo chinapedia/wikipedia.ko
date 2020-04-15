@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [GD ](https://ko.wikipedia.org/wiki/GD_).
+> This article is converted from Wikipedia: [GD 라이브러리](https://ko.wikipedia.org/wiki/GD_라이브러리).
 
 
 **GD 라이브러리**(GD Graphics Library)는 [GIF](../Page/GIF.md "wikilink") 이미지를 다루기 위한 [라이브러리](https://ko.wikipedia.org/wiki/라이브러리 "wikilink") 및 도구로서 시작되었다. 그러나 특허권자와 관련하여서 1999년부터 2004년까지 특허가 종료되기까지 일시적으로 GIF에 대한 핸들링이 중단되기도 했었었다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Ed \( \)](https://ko.wikipedia.org/wiki/Ed_\(_\)).
+> This article is converted from Wikipedia: [Ed \(문서 편집기\)](https://ko.wikipedia.org/wiki/Ed_\(문서_편집기\)).
 
 
 **ed**는 [유닉스](../Page/유닉스.md "wikilink") 운영 체제용 [라인 에디터이다](https://ko.wikipedia.org/wiki/라인_에디터 "wikilink"). 1969년 8월 개발된 유닉스 운영 체제의 첫 부분들 가운데 하나이다.\[1\] [vi](https://ko.wikipedia.org/wiki/vi "wikilink")와 같은 더 복잡한 전체 화면 편집기와 나란히, 유닉스 기반 운영 체제를 위한 [POSIX](../Page/POSIX.md "wikilink")와 [오픈 그룹](../Page/오픈_그룹.md "wikilink") 표준의 일부로 남아있다.\[2\]

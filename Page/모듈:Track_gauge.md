@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Track gauge](https://ko.wikipedia.org/wiki/:Track_gauge).
+> This article is converted from Wikipedia: [모듈:Track gauge](https://ko.wikipedia.org/wiki/모듈:Track_gauge).
 
 
 \-- This module implements the  template. -- Data is in Module:Track gauge/data local p = {} local gaugeDataAll = nil local dataPageName = 'Module:Track gauge/data' -- sandbox here

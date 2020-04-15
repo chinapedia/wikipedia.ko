@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ \(dps \)](https://ko.wikipedia.org/wiki/_\(dps_\)).
+> This article is converted from Wikipedia: [타임라인 \(dps의 노래\)](https://ko.wikipedia.org/wiki/타임라인_\(dps의_노래\)).
 
 
 〈**타임라인**〉()은 일본의 밴드 그룹 [dps의](https://ko.wikipedia.org/wiki/dps_\(음악_그룹\) "wikilink") 메이저 데뷔 싱글이다. [2018년](../Page/2018년.md "wikilink") [11월 7일에](../Page/11월_7일.md "wikilink") [기자 스튜디오에서](https://ko.wikipedia.org/wiki/기자_스튜디오 "wikilink") 발매되었다.

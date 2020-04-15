@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Dts](https://ko.wikipedia.org/wiki/:Dts).
+> This article is converted from Wikipedia: [모듈:Dts](https://ko.wikipedia.org/wiki/모듈:Dts).
 
 
 local yesno = require('Module:Yesno') local lang = mw.language.getContentLanguage() local N_YEAR_DIGITS = 12 local MAX_YEAR = 10^N_YEAR_DIGITS - 1

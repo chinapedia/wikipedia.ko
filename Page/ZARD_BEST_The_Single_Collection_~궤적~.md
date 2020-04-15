@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ZARD BEST The Single Collection \~\~](https://ko.wikipedia.org/wiki/ZARD_BEST_The_Single_Collection_\~\~).
+> This article is converted from Wikipedia: [ZARD BEST The Single Collection \~궤적\~](https://ko.wikipedia.org/wiki/ZARD_BEST_The_Single_Collection_\~궤적\~).
 
 
 《**ZARD BEST The Single Collection \~궤적\~**》( )는 일본의 밴드 [ZARD](../Page/ZARD.md "wikilink")의 [베스트 음반이며](https://ko.wikipedia.org/wiki/베스트_음반 "wikilink"), 1999년 5월 28일 발매되었다. ([CD](../Page/콤팩트_디스크.md "wikilink"): JBCJ-1023) 첫 주의 오리콘 집계에서 120만 장 이상을 기록했고, 최종적으로 300만 장 이상의 판매량을 올려 ZARD가 발표한 모든 작품 중 최고의 매출을 기록했다. 2007년 6월, 사카이 이즈미 사후 7년만에 차트에 올라 18위를 기록했으며, 10월 1일자 차트까지도 머물러 있었다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ J. ](https://ko.wikipedia.org/wiki/_J._).
+> This article is converted from Wikipedia: [존 J. 요삭](https://ko.wikipedia.org/wiki/존_J._요삭).
 
 
 **존 J. 요삭**(1937년 3월 18일 – 2012년 2월 15일)은 [걸프 전쟁](../Page/걸프_전쟁.md "wikilink") 당시 [미국 중부 육군을](../Page/미국_중부_육군.md "wikilink") 이끈 [미국 육군의](../Page/미국_육군.md "wikilink") 장군이다.

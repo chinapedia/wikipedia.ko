@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [LEO \(\)](https://ko.wikipedia.org/wiki/LEO_\(\)).
+> This article is converted from Wikipedia: [LEO \(우주선\)](https://ko.wikipedia.org/wiki/LEO_\(우주선\)).
 
 
 **LEO**(; )는 [독일 항공우주 센터](../Page/독일_항공우주_센터.md "wikilink")(DLR)에서 2007년 3월에 발표했던 [독일](../Page/독일.md "wikilink")의 [달](../Page/달.md "wikilink") 탐사선으로, 같은 해 8월에는 유럽 과학자 협회인 Europlanet에서 프로젝트가 발표되었다.\[1\] 하지만 2009년도부터 예산이 배정되지 않아 프로젝트의 진행이 무기한 연기되었다.\[2\]\[3\]

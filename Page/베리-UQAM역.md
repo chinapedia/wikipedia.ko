@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [-UQAM](https://ko.wikipedia.org/wiki/-UQAM).
+> This article is converted from Wikipedia: [베리-UQAM역](https://ko.wikipedia.org/wiki/베리-UQAM역).
 
 
 **베리-UQAM역** (Station Berri-UQAM)은 [노란색](../Page/노란색_선_\(몬트리올\).md "wikilink"), [오렌지](../Page/오렌지_선_\(몬트리올\).md "wikilink"), [녹색 선으로](../Page/녹색_선_\(몬트리올\).md "wikilink") 갈아탈 수 있는 [몬트리올](../Page/몬트리올.md "wikilink")의 [지하철](../Page/몬트리올_지하철.md "wikilink") 환승역이다. 몬트리올 시내 지역구인 [빌마리에](https://ko.wikipedia.org/wiki/빌마리_\(몬트리올\) "wikilink") 위치한 이 역은 몬트리올 지하철에서 가장 승객이 많고 세 개 노선이 지나는 유일한 역이기도 하다.
@@ -33,18 +33,18 @@
 
 베리-UQAM역에서 갈아탈 수 있는 버스 편은 아래와 같으며, 승차 위치는 다음과 같다.
 
-  - 15번: [파피노역](https://ko.wikipedia.org/wiki/파피노역 "wikilink") 방면 생트카트린느, [앳워터역](https://ko.wikipedia.org/wiki/앳워터역 "wikilink") 방면 드메종뇌브에서 승차
+  - 15번: [파피노역](https://ko.wikipedia.org/wiki/파피노역 "wikilink") 방면 생트카트린느, [앳워터역](../Page/앳워터역.md "wikilink") 방면 드메종뇌브에서 승차
       - 여름 기간: 파피노역 방면 르네 레베크, 앳워터역 방면 드메종뇌브에서 승차
   - 30, 361, 427, 715, 747번: 양방향 베리에서 승차
   - 358번: [프롱트낙역](https://ko.wikipedia.org/wiki/프롱트낙역 "wikilink") 방면 생트카트린느, 앳워터역 방면 르네 레베크에서 승차
 
 | 노선  | 종점                   | 경유지                                 | 비고                                                                     |
 | --- | -------------------- | ----------------------------------- | ---------------------------------------------------------------------- |
-| 15  | 생트카트린느               | Sainte-Catherine                    | [앳워터역](https://ko.wikipedia.org/wiki/앳워터역 "wikilink")                  |
-| 30  | 생드니 / 생튀베르           | Saint-Denis / Saint-Hubert          | [앙리 부라사역](https://ko.wikipedia.org/wiki/앙리_부라사역 "wikilink")            |
-| 358 | 생트카트린느               | Sainte-Catherine                    | [앳워터역](https://ko.wikipedia.org/wiki/앳워터역 "wikilink")                  |
-| 361 | 생드니                  | Saint-Denis                         | [앙리 부라사역](https://ko.wikipedia.org/wiki/앙리_부라사역 "wikilink")            |
-| 427 | 생조셉 급행               | Express Saint-Joseph                | [기-컨커디아역](https://ko.wikipedia.org/wiki/기-컨커디아역 "wikilink")            |
+| 15  | 생트카트린느               | Sainte-Catherine                    | [앳워터역](../Page/앳워터역.md "wikilink")                                     |
+| 30  | 생드니 / 생튀베르           | Saint-Denis / Saint-Hubert          | [앙리 부라사역](../Page/앙리_부라사역.md "wikilink")                               |
+| 358 | 생트카트린느               | Sainte-Catherine                    | [앳워터역](../Page/앳워터역.md "wikilink")                                     |
+| 361 | 생드니                  | Saint-Denis                         | [앙리 부라사역](../Page/앙리_부라사역.md "wikilink")                               |
+| 427 | 생조셉 급행               | Express Saint-Joseph                | [기-컨커디아역](../Page/기-컨커디아역.md "wikilink")                               |
 | 715 | 구도심 / 구항구            | Vieux-Montréal / Vieux-Port         | 몬트리올 관광안내소 (메트칼프 / 생트카트린느)                                             |
 | 747 | 피에르 엘리오트 트뤼도 공항 / 시내 | Aéroport P-E-Trudeau / Centre-ville | [몬트리올 피에르 엘리오트 트뤼도 국제공항](../Page/몬트리올_피에르_엘리오트_트뤼도_국제공항.md "wikilink") |
 

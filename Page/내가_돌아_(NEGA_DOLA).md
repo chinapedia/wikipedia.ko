@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  \(NEGA DOLA\)](https://ko.wikipedia.org/wiki/__\(NEGA_DOLA\)).
+> This article is converted from Wikipedia: [내가 돌아 \(NEGA DOLA\)](https://ko.wikipedia.org/wiki/내가_돌아_\(NEGA_DOLA\)).
 
 
 〈**내가 돌아 (NEGA DOLA)**〉는 가수 [보아](../Page/보아.md "wikilink")가 [한국](../Page/한국.md "wikilink")에서 발매한 디지털 싱글이다. 〈내가 돌아 (NEGA DOLA)〉는 라틴풍의 기타와 신스 사운드가 돋보이는 힙합 댄스 곡으로, 집착이 심한 남자 때문에 고민하는 여자의 마음 속 이야기를 직설적이면서도 재치 있게 담았다.

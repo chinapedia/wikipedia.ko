@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  III  ](https://ko.wikipedia.org/wiki/__III__).
+> This article is converted from Wikipedia: [인텔 펜티엄 III 마이크로프로세서 목록](https://ko.wikipedia.org/wiki/인텔_펜티엄_III_마이크로프로세서_목록).
 
 
 [인텔](../Page/인텔.md "wikilink")의 **[펜티엄 III](../Page/펜티엄_III.md "wikilink")**는 소비자 시장을 대상으로 하는 6세대 [CPU이다](../Page/중앙_처리_장치.md "wikilink").

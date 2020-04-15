@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ FC   ](https://ko.wikipedia.org/wiki/_FC___).
+> This article is converted from Wikipedia: [경남 FC 심판 매수 사건](https://ko.wikipedia.org/wiki/경남_FC_심판_매수_사건).
 
 
 **경남 FC 심판매수 사건**은 [경남 FC](../Page/경남_FC.md "wikilink") 안종복 대표이사의 주도로 심판을 매수한 것이 밝혀져 승점 삭감의 징계를 받은 사건이다.

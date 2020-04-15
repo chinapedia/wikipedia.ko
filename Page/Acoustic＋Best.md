@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [AcousticBest](https://ko.wikipedia.org/wiki/AcousticBest).
+> This article is converted from Wikipedia: [Acoustic＋Best](https://ko.wikipedia.org/wiki/Acoustic＋Best).
 
 
 **《Acoustic + Best》**은 [어쿠스틱](https://ko.wikipedia.org/wiki/어쿠스틱 "wikilink")으로 연주한 [박기영의](../Page/박기영_\(1977년생_가수\).md "wikilink") [베스트 음반이다](https://ko.wikipedia.org/wiki/베스트_음반 "wikilink").

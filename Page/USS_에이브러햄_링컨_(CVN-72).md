@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [USS   \(CVN-72\)](https://ko.wikipedia.org/wiki/USS___\(CVN-72\)).
+> This article is converted from Wikipedia: [USS 에이브러햄 링컨 \(CVN-72\)](https://ko.wikipedia.org/wiki/USS_에이브러햄_링컨_\(CVN-72\)).
 
 
 **USS 에이브러햄 링컨 (CVN-72)**은 미국 해군 [니미츠급 항공모함의](../Page/니미츠급_항공모함.md "wikilink") 5번함이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  FC](https://ko.wikipedia.org/wiki/__FC).
+> This article is converted from Wikipedia: [발라 타운 FC](https://ko.wikipedia.org/wiki/발라_타운_FC).
 
 
 **발라 타운 FC**(, )는 [귀네드](https://ko.wikipedia.org/wiki/귀네드 "wikilink") 발라(Bala)를 연고로 하는 [웨일스](../Page/웨일스.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다. 현재는 [웨일스 프리미어리그에](https://ko.wikipedia.org/wiki/웨일스_프리미어리그 "wikilink") 참가하고 있다.

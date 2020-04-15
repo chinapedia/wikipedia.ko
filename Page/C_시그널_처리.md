@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [C  ](https://ko.wikipedia.org/wiki/C__).
+> This article is converted from Wikipedia: [C 시그널 처리](https://ko.wikipedia.org/wiki/C_시그널_처리).
 
 
 [표준 라이브러리에서](../Page/C_표준_라이브러리.md "wikilink") **시그널 처리(signal processing)**는 프로그램이 실행 중에 다양한 시그널들을 어떻게 처리하는지를 정의한다. 시그널은 프로그램 내에서 몇몇 예외적인 행위([0으로 나누기](../Page/0으로_나누기.md "wikilink") 같은)를 보고하거나, 프로그램 외부의 비동기적 이벤트(키보드 키를 누르기 같은)를 보고할 수 있다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  A](https://ko.wikipedia.org/wiki/__A).
+> This article is converted from Wikipedia: [에콰도르 세리에 A](https://ko.wikipedia.org/wiki/에콰도르_세리에_A).
 
 
 **프리메라 카테고리아 세리에 A**()는 **세리에 A** 혹은 **프리메라 A**라고도 불리는 [에콰도르](../Page/에콰도르.md "wikilink")의 [축구](../Page/축구.md "wikilink") 1부 리그의 대회다. [1957년](../Page/1957년.md "wikilink")에 창설되었으며, 현재 12개 팀이 참가하고 있다. 최다 우승팀은 15회를 우승한 [바르셀로나 SC이다](../Page/바르셀로나_SC.md "wikilink"). 현재 스폰서인 필스너의 이름을 앞에 붙여 **코파 필스너 세리에 A**라고도 불린다.

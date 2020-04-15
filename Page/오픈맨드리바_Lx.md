@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ Lx](https://ko.wikipedia.org/wiki/_Lx).
+> This article is converted from Wikipedia: [오픈맨드리바 Lx](https://ko.wikipedia.org/wiki/오픈맨드리바_Lx).
 
 
 **오픈맨드리바 Lx**()는 오픈맨드리바 협회 및 쿠커 그룹에서 개발한 컴퓨터 [운영 체제이다](../Page/운영_체제.md "wikilink").

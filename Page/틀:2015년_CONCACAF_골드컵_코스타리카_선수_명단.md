@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:2015 CONCACAF    ](https://ko.wikipedia.org/wiki/:2015_CONCACAF____).
+> This article is converted from Wikipedia: [틀:2015년 CONCACAF 골드컵 코스타리카 선수 명단](https://ko.wikipedia.org/wiki/틀:2015년_CONCACAF_골드컵_코스타리카_선수_명단).
 
 
 <onlyinclude></onlyinclude>

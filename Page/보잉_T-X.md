@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ T-X](https://ko.wikipedia.org/wiki/_T-X).
+> This article is converted from Wikipedia: [보잉 T-X](https://ko.wikipedia.org/wiki/보잉_T-X).
 
 
 **보잉 T-X**는 [미국 공군의](../Page/미국_공군.md "wikilink") [T-X 프로그램에서](../Page/T-X_프로그램.md "wikilink") 최종 선정된 제트 고등훈련기이다.

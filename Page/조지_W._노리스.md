@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ W. ](https://ko.wikipedia.org/wiki/_W._).
+> This article is converted from Wikipedia: [조지 W. 노리스](https://ko.wikipedia.org/wiki/조지_W._노리스).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Senator_George_W._Norris.jpg "wikilink") **조지 윌리엄 노리스**(, [1861년](../Page/1861년.md "wikilink") [7월 11일](../Page/7월_11일.md "wikilink")\~[1944년](../Page/1944년.md "wikilink") [9월 2일](../Page/9월_2일.md "wikilink"))는 [미국](../Page/미국.md "wikilink")의 [정치인](../Page/정치인.md "wikilink")이다. 1913년부터 1943년까지 [네브래스카주](../Page/네브래스카주.md "wikilink")를 대표하는 [연방 상원의원으로](https://ko.wikipedia.org/wiki/미국_상원 "wikilink") 일했다. 소속 정당은 [공화당이었지만](https://ko.wikipedia.org/wiki/공화당_\(미국\) "wikilink") [자유주의](../Page/자유주의.md "wikilink") 성향이 투철해 여러 개혁 법안을 제안했으며, 결국 1936년에는 공화당을 탈당하였다.

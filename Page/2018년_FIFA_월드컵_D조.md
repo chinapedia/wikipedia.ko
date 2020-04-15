@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [2018 FIFA  D](https://ko.wikipedia.org/wiki/2018_FIFA__D).
+> This article is converted from Wikipedia: [2018년 FIFA 월드컵 D조](https://ko.wikipedia.org/wiki/2018년_FIFA_월드컵_D조).
 
 
 **[2018년 FIFA 월드컵](https://ko.wikipedia.org/wiki/2018년_FIFA_월드컵 "wikilink") D조**는 2018년 6월 16일부터 2018년 6월 26일까지 일정이 진행되었다. D조는 [아르헨티나](https://ko.wikipedia.org/wiki/아르헨티나_축구_국가대표팀 "wikilink"), [아이슬란드](../Page/아이슬란드_축구_국가대표팀.md "wikilink"), [크로아티아](../Page/크로아티아_축구_국가대표팀.md "wikilink"), [나이지리아로](../Page/나이지리아_축구_국가대표팀.md "wikilink") 구성되었다. 4개의 팀들 중 상위 2개의 팀이 16강전에 진출한다.
@@ -450,7 +450,7 @@
 <a href="https://ko.wikipedia.org/wiki/다니엘레_오르사토" title="wikilink">다니엘레 오르사토</a> (<a href="https://ko.wikipedia.org/wiki/이탈리아_축구_협회" title="wikilink">이탈리아</a>)<br />
 <strong>보조 비디오 판독심:</strong><br />
 <a href="https://ko.wikipedia.org/wiki/위우통_삼파이우" title="wikilink">위우통 삼파이우</a> (<a href="https://ko.wikipedia.org/wiki/브라질_축구_협회" title="wikilink">브라질</a>)<br />
-카를로스 아스트로사 (<a href="https://ko.wikipedia.org/wiki/칠레_축구_연맹" title="wikilink">칠레</a>)<br />
+카를로스 아스트로사 (<a href="../Page/칠레_축구_연맹.md" title="wikilink">칠레</a>)<br />
 <a href="https://ko.wikipedia.org/wiki/아르투르_소아르스_디아스" title="wikilink">아르투르 소아르스 디아스</a> (<a href="https://ko.wikipedia.org/wiki/포르투갈_축구_연맹" title="wikilink">포르투갈</a>)</p></td>
 </tr>
 </tbody>

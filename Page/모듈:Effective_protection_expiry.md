@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Effective protection expiry](https://ko.wikipedia.org/wiki/:Effective_protection_expiry).
+> This article is converted from Wikipedia: [모듈:Effective protection expiry](https://ko.wikipedia.org/wiki/모듈:Effective_protection_expiry).
 
 
 local p = {}

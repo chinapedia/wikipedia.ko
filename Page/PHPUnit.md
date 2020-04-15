@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [PHPUnit](https://ko.wikipedia.org/wiki/PHPUnit).
 
 
-**PHPUnit**은 [PHP 프로그래밍 언어를](../Page/PHP.md "wikilink") 위한 [유닛 테스트](../Page/유닛_테스트.md "wikilink") [프레임워크이다](../Page/소프트웨어_프레임워크.md "wikilink"). [SUnit](https://ko.wikipedia.org/wiki/SUnit "wikilink")과 함께 기원한 유닛 테스트 프레임워크를 위한 [XUnit](../Page/XUnit.md "wikilink") 아키텍처의 인스턴스이며 [JUnit](https://ko.wikipedia.org/wiki/JUnit "wikilink")과 함께 대중화되었다. PHPUnit은 Sebastian Bergmann이 개발하였으며 개발 자체는 [깃허브](../Page/깃허브.md "wikilink")에서 호스팅되고 있다.
+**PHPUnit**은 [PHP 프로그래밍 언어를](../Page/PHP.md "wikilink") 위한 [유닛 테스트](../Page/유닛_테스트.md "wikilink") [프레임워크이다](../Page/소프트웨어_프레임워크.md "wikilink"). [SUnit](https://ko.wikipedia.org/wiki/SUnit "wikilink")과 함께 기원한 유닛 테스트 프레임워크를 위한 [XUnit](../Page/XUnit.md "wikilink") 아키텍처의 인스턴스이며 [JUnit](../Page/JUnit.md "wikilink")과 함께 대중화되었다. PHPUnit은 Sebastian Bergmann이 개발하였으며 개발 자체는 [깃허브](../Page/깃허브.md "wikilink")에서 호스팅되고 있다.
 
 ## 목적
 

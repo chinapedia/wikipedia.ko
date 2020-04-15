@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [AVC   ](https://ko.wikipedia.org/wiki/AVC___).
+> This article is converted from Wikipedia: [AVC컵 여자 배구 대회](https://ko.wikipedia.org/wiki/AVC컵_여자_배구_대회).
 
 
 **AVC컵 여자대회**는 [아시아 배구 연맹](../Page/아시아_배구_연맹.md "wikilink") (AVC)에 속한 [아시아](../Page/아시아.md "wikilink")와 [오세아니아](../Page/오세아니아.md "wikilink")의 여자 배구 국가대표팀이 참가하는 국제 대회이다. 2008년 첫 대회가 열렸으며 이후 격년으로 열리고 있다.

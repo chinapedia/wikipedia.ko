@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [INVISIBLE \(w-inds. \)](https://ko.wikipedia.org/wiki/INVISIBLE_\(w-inds._\)).
+> This article is converted from Wikipedia: [INVISIBLE \(w-inds.의 음반\)](https://ko.wikipedia.org/wiki/INVISIBLE_\(w-inds.의_음반\)).
 
 
 《**INVISIBLE**》(인비시블)은 [w-inds.](https://ko.wikipedia.org/wiki/w-inds. "wikilink")의 12번째 정규 음반이다. 2017년 3월 15일에 발매되었다.

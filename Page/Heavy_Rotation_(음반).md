@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Heavy Rotation \(\)](https://ko.wikipedia.org/wiki/Heavy_Rotation_\(\)).
+> This article is converted from Wikipedia: [Heavy Rotation \(음반\)](https://ko.wikipedia.org/wiki/Heavy_Rotation_\(음반\)).
 
 
 《**Heavy Rotation**》은 [JKT48](../Page/JKT48.md "wikilink")의 첫 번째 [오리지널 앨범이다](../Page/정규_음반.md "wikilink"). [2013년](../Page/2013년.md "wikilink") [2월 16일에](../Page/2월_16일.md "wikilink") [Hits Records에서](https://ko.wikipedia.org/wiki/:id:Hits_Records "wikilink") 발매되었다. JKT48로서는, 각 팀이 행하는 극장공연에서의 악곡을 수록한 앨범을 판매하고 있지 않기 때문에 첫 앨범이 되었다.

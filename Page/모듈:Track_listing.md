@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Track listing](https://ko.wikipedia.org/wiki/:Track_listing).
+> This article is converted from Wikipedia: [모듈:Track listing](https://ko.wikipedia.org/wiki/모듈:Track_listing).
 
 
 \-- This module implements [Template:Track listing](https://ko.wikipedia.org/wiki/Template:Track_listing "wikilink")

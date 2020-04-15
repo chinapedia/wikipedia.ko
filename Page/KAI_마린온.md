@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KAI ](https://ko.wikipedia.org/wiki/KAI_).
+> This article is converted from Wikipedia: [KAI 마린온](https://ko.wikipedia.org/wiki/KAI_마린온).
 
 
 **KAI 마린온**(MARINEON)은 [KAI 수리온](../Page/KAI_수리온.md "wikilink") 육군 수송헬기를 해병대 수송헬기로 개조한 것이다.

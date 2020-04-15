@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
+> This article is converted from Wikipedia: [시사껫 FC](https://ko.wikipedia.org/wiki/시사껫_FC).
 
 
 **시사껫 FC**(, )는 [시사껫 주를](https://ko.wikipedia.org/wiki/시사껫_주 "wikilink") 연고로 하는 [태국](../Page/태국.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다. 현재는 [타이 리그에](https://ko.wikipedia.org/wiki/타이_리그 "wikilink") 참가하고 있다.

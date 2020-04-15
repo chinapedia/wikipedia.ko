@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ D. ](https://ko.wikipedia.org/wiki/_D._).
+> This article is converted from Wikipedia: [릭 D. 와서먼](https://ko.wikipedia.org/wiki/릭_D._와서먼).
 
 
 **릭 대린 와서먼**(, [1973년](../Page/1973년.md "wikilink") [10월 17일](../Page/10월_17일.md "wikilink") \~ )은 [미국](../Page/미국.md "wikilink")의 [성우](../Page/성우.md "wikilink")이다. 굵직한 목소리가 그의 주력이다. [마블 코믹스](../Page/마블_코믹스.md "wikilink") 원작 작품에서의 [토르](../Page/토르_\(마블_코믹스\).md "wikilink") 전담이며, 게임 《[스타크래프트 II](https://ko.wikipedia.org/wiki/스타크래프트_II "wikilink")》의 아몬 역으로도 알려져 있다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  C](https://ko.wikipedia.org/wiki/__C).
+> This article is converted from Wikipedia: [수도권 광역급행철도 C노선](https://ko.wikipedia.org/wiki/수도권_광역급행철도_C노선).
 
 
 **수도권 광역급행철도 C노선**(首都圈 廣域急行鐵道 C路線)은 [덕정역](../Page/덕정역.md "wikilink")에서 [수원역](https://ko.wikipedia.org/wiki/수원역 "wikilink")을 이을 예정인 [수도권 광역급행철도](../Page/수도권_광역급행철도.md "wikilink") 노선이다. 이 구간 중 [덕정](../Page/덕정역.md "wikilink") \~ [도봉산](../Page/도봉산역.md "wikilink") 구간은 [경원선](https://ko.wikipedia.org/wiki/경원선 "wikilink"), [과천](../Page/정부과천청사역.md "wikilink") \~ [금정](../Page/금정역.md "wikilink") 구간은 [과천선](../Page/과천선.md "wikilink"), [금정](../Page/금정역.md "wikilink") \~ [수원](https://ko.wikipedia.org/wiki/수원역 "wikilink") 구간은 [경부선](../Page/경부선.md "wikilink")과 공용한다. 이르면 2021년 말 공사에 착수하여 2026년 개통될 예정이다. 소요시간은 수원\~양재 18분, 수원\~삼성 22분, 의정부\~삼성 16분, 덕정\~삼성 23분으로 표정속도는 100km/h 수준이다. 개통시 수도권 동북부 및 남부지역 광역교통 여건을 크게 개선할 것이 예상된다.

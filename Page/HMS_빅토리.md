@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [HMS ](https://ko.wikipedia.org/wiki/HMS_).
+> This article is converted from Wikipedia: [HMS 빅토리](https://ko.wikipedia.org/wiki/HMS_빅토리).
 
 
 **HMS 빅토리**(HMS Victory)는 104문의 대포로 무장한 [영국 해군의](https://ko.wikipedia.org/wiki/영국_해군 "wikilink") [1급](https://ko.wikipedia.org/wiki/1급함 "wikilink") [전열함](../Page/전열함.md "wikilink")이다. 1758년 발주되어, 1759년 기공하였고, 1765년 진수하였다. 1805년 [트라팔가 해전](https://ko.wikipedia.org/wiki/트라팔가_해전 "wikilink") 당시 [넬슨 제독의](https://ko.wikipedia.org/wiki/넬슨_제독 "wikilink") [기함](https://ko.wikipedia.org/wiki/기함 "wikilink")이었다.\[1\]

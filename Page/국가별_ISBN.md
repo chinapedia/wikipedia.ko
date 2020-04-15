@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ ISBN](https://ko.wikipedia.org/wiki/_ISBN).
+> This article is converted from Wikipedia: [국가별 ISBN](https://ko.wikipedia.org/wiki/국가별_ISBN).
 
 
 다음은 국가별 [국제 표준 도서 번호](../Page/국제_표준_도서_번호.md "wikilink")(ISBN)를 기준으로 하여 만들어진 표이다.

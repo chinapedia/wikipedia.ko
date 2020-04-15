@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [USS  \(CV-21\)](https://ko.wikipedia.org/wiki/USS__\(CV-21\)).
+> This article is converted from Wikipedia: [USS 복서 \(CV-21\)](https://ko.wikipedia.org/wiki/USS_복서_\(CV-21\)).
 
 
 **USS 복서 (CV-21)**는 미국 해군 [에식스급 항공모함](../Page/에식스급_항공모함.md "wikilink") 24척 중 13번함이다.

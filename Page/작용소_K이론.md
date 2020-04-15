@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ K](https://ko.wikipedia.org/wiki/_K).
+> This article is converted from Wikipedia: [작용소 K이론](https://ko.wikipedia.org/wiki/작용소_K이론).
 
 
 수학에서, **작용소 K이론**(作用素K異論, )는 [C\* 대수에](../Page/C*_대수.md "wikilink") 대응되는 [K이론](../Page/K이론.md "wikilink")이다. 주기 2의 보트 주기성을 가지며, 가환 [C\* 대수의](../Page/C*_대수.md "wikilink") 경우 [겔판트 표현 정리에](https://ko.wikipedia.org/wiki/겔판트_표현_정리 "wikilink") 의하여 이는 [위상 K이론과](../Page/위상_K이론.md "wikilink") 일치한다.

@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [ XXI ](https://ko.wikipedia.org/wiki/_XXI_).
+> This article is converted from Wikipedia: [시글로 XXI 역](https://ko.wikipedia.org/wiki/시글로_XXI_역).
 
 
-**시글로 XXI 역** ( )은 [마드리드 경전철](../Page/마드리드_경전철.md "wikilink") [3호선의](https://ko.wikipedia.org/wiki/마드리드_경전철_3호선 "wikilink") 역이다. [마드리드 지방](https://ko.wikipedia.org/wiki/마드리드_지방 "wikilink") [보아디야델몬테](https://ko.wikipedia.org/wiki/보아디야델몬테 "wikilink") 시의 시글로 XXI 대로에 위치해 있다. 요금구역상으로는 B2구역에 속한다.
+**시글로 XXI 역**( )은 [마드리드 경전철](../Page/마드리드_경전철.md "wikilink") [3호선의](https://ko.wikipedia.org/wiki/마드리드_경전철_3호선 "wikilink") 역이다. [마드리드 지방](https://ko.wikipedia.org/wiki/마드리드_지방 "wikilink") [보아디야델몬테](https://ko.wikipedia.org/wiki/보아디야델몬테 "wikilink") 시의 시글로 XXI 대로에 위치해 있다. 요금구역상으로는 B2구역에 속한다.
 
 ## 역사
 

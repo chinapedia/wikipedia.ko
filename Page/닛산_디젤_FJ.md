@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  FJ](https://ko.wikipedia.org/wiki/__FJ).
+> This article is converted from Wikipedia: [닛산 디젤 FJ](https://ko.wikipedia.org/wiki/닛산_디젤_FJ).
 
 
 [thumb](https://ko.wikipedia.org/wiki/파일:FJ550LN.jpg "wikilink") **닛산 디젤 FJ**(, )는 [일본](../Page/일본.md "wikilink") 닛산 디젤 (현, [UD트럭](../Page/UD트럭.md "wikilink"))이 만든 [소방차](../Page/소방차.md "wikilink")로 [1998년](../Page/1998년.md "wikilink")에 [닛산 디젤 AZ/AX](https://ko.wikipedia.org/wiki/닛산_디젤_AZ "wikilink") 모델의 후속으로 출시되었다.

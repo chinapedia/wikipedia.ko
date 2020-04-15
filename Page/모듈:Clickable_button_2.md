@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Clickable button 2](https://ko.wikipedia.org/wiki/:Clickable_button_2).
+> This article is converted from Wikipedia: [모듈:Clickable button 2](https://ko.wikipedia.org/wiki/모듈:Clickable_button_2).
 
 
 \-- This module implements .

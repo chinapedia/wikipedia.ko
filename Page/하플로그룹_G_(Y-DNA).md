@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ G \(Y-DNA\)](https://ko.wikipedia.org/wiki/_G_\(Y-DNA\)).
+> This article is converted from Wikipedia: [하플로그룹 G \(Y-DNA\)](https://ko.wikipedia.org/wiki/하플로그룹_G_\(Y-DNA\)).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Haplogrupo_G_\(ADN-Y\).PNG "wikilink") **하플로그룹 G-M201**는 [인류 Y-염색체 DNA 하플로그룹의](https://ko.wikipedia.org/wiki/인류_Y-염색체_DNA_하플로그룹 "wikilink") 일종이다. 하플로그룹 HIJK와 함께 하플로그룹 GHIJK의 두 분파를 이룬다. G-M201는 [조지아](https://ko.wikipedia.org/wiki/조지아 "wikilink")를 비롯한 [캅카스](../Page/캅카스.md "wikilink") 지역에서 가장 흔히 발견되며, 유럽, 중앙아시아, 남아시아, 북아프리카 등지에서도 발견된다. 10,000년\~23,000년 전 [서아시아](../Page/서아시아.md "wikilink") 지역에서 처음 발생하였을 것으로 추정된다.\[1\]\[2\]

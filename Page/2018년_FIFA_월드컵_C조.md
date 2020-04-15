@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [2018 FIFA  C](https://ko.wikipedia.org/wiki/2018_FIFA__C).
+> This article is converted from Wikipedia: [2018년 FIFA 월드컵 C조](https://ko.wikipedia.org/wiki/2018년_FIFA_월드컵_C조).
 
 
 **[2018년 FIFA 월드컵](https://ko.wikipedia.org/wiki/2018년_FIFA_월드컵 "wikilink") C조**는 2018년 6월 16일부터 2018년 6월 26일까지 진행되었다. C조는 [프랑스](https://ko.wikipedia.org/wiki/프랑스_축구_국가대표팀 "wikilink"), [오스트레일리아](../Page/오스트레일리아_축구_국가대표팀.md "wikilink"), [페루](../Page/페루_축구_국가대표팀.md "wikilink"), [덴마크로](../Page/덴마크_축구_국가대표팀.md "wikilink") 구성되었다. 4개의 팀들 중 상위 2개의 팀이 16강전에 진출한다.
@@ -264,9 +264,9 @@
 니콜라스 타란 (<a href="https://ko.wikipedia.org/wiki/우루과이_축구_협회" title="wikilink">우루과이</a>)<br />
 마우리시오 에스피노사 (<a href="https://ko.wikipedia.org/wiki/우루과이_축구_협회" title="wikilink">우루과이</a>)<br />
 <strong>대기심:</strong><br />
-<a href="https://ko.wikipedia.org/wiki/훌리오_바스쿠냔" title="wikilink">훌리오 바스쿠냔</a> (<a href="https://ko.wikipedia.org/wiki/칠레_축구_연맹" title="wikilink">칠레</a>)<br />
+<a href="https://ko.wikipedia.org/wiki/훌리오_바스쿠냔" title="wikilink">훌리오 바스쿠냔</a> (<a href="../Page/칠레_축구_연맹.md" title="wikilink">칠레</a>)<br />
 <strong>후보 대기심:</strong><br />
-크리스티안 시에만 (<a href="https://ko.wikipedia.org/wiki/칠레_축구_연맹" title="wikilink">칠레</a>)<br />
+크리스티안 시에만 (<a href="../Page/칠레_축구_연맹.md" title="wikilink">칠레</a>)<br />
 <strong>비디오 판독심:</strong><br />
 <a href="https://ko.wikipedia.org/wiki/마우로_비글리아노" title="wikilink">마우로 비글리아노</a> (<a href="../Page/아르헨티나_축구_협회.md" title="wikilink">아르헨티나</a>)<br />
 <strong>보조 비디오 판독심:</strong><br />
@@ -472,7 +472,7 @@
 
 두팀은 이전의 3경기에서 만났는데, 가장 최근에 2012년에 열린 친선경기에서 덴마크가 2 – 0으로 승리 하였다.\[20\]
 
-[토마스 델라니는](../Page/토마스_델라니.md "wikilink") 오스트레일리아를 상대로 단 2분 만에 [피오네 시스토의](../Page/피오네_시스토.md "wikilink") 크로스를 헤딩하여 빗나갔다. 다른 한쪽 끝에 [매슈 레키는](../Page/매슈_레키.md "wikilink") 덴마크 수비수 위를 넘어 수비수의 헤딩 골을 넣었지만, 덴마크는 [매슈 라이언을](../Page/매슈_라이언.md "wikilink") 반격했고 [니콜라이 예르겐센이](https://ko.wikipedia.org/wiki/니콜라이_예르겐센 "wikilink") 왼쪽으로 골을 성공시켜 [크리스티안 에릭센에게](../Page/크리스티안_에릭센.md "wikilink") 기회를 안겨 주었다. 시스토는 20야드를 가는 드라이브를 쏘았고, 예르겐센은 근거리 헤딩 슛을 쏘아 올렸다. 35분 후에 심판은 VAR에게 자문을 구해 [유수프 포울센이](../Page/유수프_포울센.md "wikilink") 레키의 헤딩을 막는 데 자신의 팔을 사용해 페널티를 인정해 주었다고 [밀레 예디나크가](../Page/밀레_예디나크.md "wikilink") 페널티 킥을 성공했다. 포울센은 오스트레일리아 박스 안으로 들어가는 길에 땅바닥에 넘어져 후반전 초반에 자신의 페널티 킥을 찬 적이 있었다. [카스페르 슈마이켈은](../Page/카스페르_슈마이켈.md "wikilink") 레키가 골을 넣어 골을 터뜨리기 전에 계속해서 이어지는 긴 공을 받아 들이지 못 했다. [대니얼 아르자니는](https://ko.wikipedia.org/wiki/대니얼_아르자니 "wikilink") 상자 밖에서 온 슈마이켈의 골의 우측 상단 구석으로 날아가는 슛을 위해 [에런 무이](https://ko.wikipedia.org/wiki/에런_무이 "wikilink") 를 쏴 올렸다. [앤드루 나부트는](https://ko.wikipedia.org/wiki/앤드루_나부트 "wikilink") 어깨 관절이 탈구되어 경기장을 떠나 [토미 유리치에](../Page/토미_유리치.md "wikilink") 의해 대체되었다.\[21\]
+[토마스 델라니는](../Page/토마스_델라니.md "wikilink") 오스트레일리아를 상대로 단 2분 만에 [피오네 시스토의](../Page/피오네_시스토.md "wikilink") 크로스를 헤딩하여 빗나갔다. 다른 한쪽 끝에 [매슈 레키는](../Page/매슈_레키.md "wikilink") 덴마크 수비수 위를 넘어 수비수의 헤딩 골을 넣었지만, 덴마크는 [매슈 라이언을](../Page/매슈_라이언.md "wikilink") 반격했고 [니콜라이 예르겐센이](https://ko.wikipedia.org/wiki/니콜라이_예르겐센 "wikilink") 왼쪽으로 골을 성공시켜 [크리스티안 에릭센에게](../Page/크리스티안_에릭센.md "wikilink") 기회를 안겨 주었다. 시스토는 20야드를 가는 드라이브를 쏘았고, 예르겐센은 근거리 헤딩 슛을 쏘아 올렸다. 35분 후에 심판은 VAR에게 자문을 구해 [유수프 포울센이](../Page/유수프_포울센.md "wikilink") 레키의 헤딩을 막는 데 자신의 팔을 사용해 페널티를 인정해 주었다고 [밀레 예디나크가](../Page/밀레_예디나크.md "wikilink") 페널티 킥을 성공했다. 포울센은 오스트레일리아 박스 안으로 들어가는 길에 땅바닥에 넘어져 후반전 초반에 자신의 페널티 킥을 찬 적이 있었다. [카스페르 슈마이켈은](../Page/카스페르_슈마이켈.md "wikilink") 레키가 골을 넣어 골을 터뜨리기 전에 계속해서 이어지는 긴 공을 받아 들이지 못 했다. [대니얼 아르자니는](https://ko.wikipedia.org/wiki/대니얼_아르자니 "wikilink") 상자 밖에서 온 슈마이켈의 골의 우측 상단 구석으로 날아가는 슛을 위해 [에런 무이](https://ko.wikipedia.org/wiki/에런_무이 "wikilink") 를 쏴 올렸다. [앤드루 나부트는](../Page/앤드루_나부트.md "wikilink") 어깨 관절이 탈구되어 경기장을 떠나 [토미 유리치에](../Page/토미_유리치.md "wikilink") 의해 대체되었다.\[21\]
 
 가나 다음으로 오스트레일리아는 월드컵 역사상 페널티 킥 지점에서 연속 3골을 넣은 두번째 팀이다.\[22\] 포울센은 2006년 [밀란 두디치가](https://ko.wikipedia.org/wiki/밀란_두디치 "wikilink") 세르비아를 차지한 이후 처음으로 한 월드컵에서 두번의 페널티를 내준 선수이다. [마크 밀리건은](../Page/마크_밀리건.md "wikilink") 이 경기에서 85점을 기록했는데, 이는 월드컵 경기에서 오스트레일리아 선수 한명이 세운 기록이다.\[23\] 포울센이 이전 경기에서 옐로 카드를 받았으므로 다음 경기에서 덴마크를 위해 출전하지 않을 것이다.
 
@@ -1033,7 +1033,7 @@
 <a href="https://ko.wikipedia.org/wiki/마우로_비글리아노" title="wikilink">마우로 비글리아노</a> (<a href="../Page/아르헨티나_축구_협회.md" title="wikilink">아르헨티나</a>)<br />
 <strong>보조 비디오 판독심:</strong><br />
 <a href="https://ko.wikipedia.org/wiki/위우통_삼파이우" title="wikilink">위우통 삼파이우</a> (<a href="https://ko.wikipedia.org/wiki/브라질_축구_협회" title="wikilink">브라질</a>)<br />
-카를로스 아스트로사 (<a href="https://ko.wikipedia.org/wiki/칠레_축구_연맹" title="wikilink">칠레</a>)<br />
+카를로스 아스트로사 (<a href="../Page/칠레_축구_연맹.md" title="wikilink">칠레</a>)<br />
 <a href="https://ko.wikipedia.org/wiki/티아구_마르팅스" title="wikilink">티아구 마르팅스</a> (<a href="https://ko.wikipedia.org/wiki/포르투갈_축구_연맹" title="wikilink">포르투갈</a>)</p></td>
 </tr>
 </tbody>
@@ -1043,7 +1043,7 @@
 
 두팀은 1번도 만난 적이 없다.\[32\]
 
-[밀레 예디나크는](../Page/밀레_예디나크.md "wikilink") 전반 9분 후에 [크리스티안 쿠에바에서의](../Page/크리스티안_쿠에바.md "wikilink") 높은 부팅을 위해 예약되었다. 18분에는 [파올로 게레로가](../Page/파올로_게레로.md "wikilink") 페널티 에어리어 안으로 들어갔고, 오른발로 되돌아가 [안드레 카리요에게](../Page/안드레_카리요.md "wikilink") 깊은 크로스를 걸어 예디나크의 다리와 네트의 오른쪽 하단 코너로 발리슛을 시도했다. [톰 로기치은](https://ko.wikipedia.org/wiki/톰_로기치 "wikilink") 26분 페널티 지역으로 세명의 수비수를 물리치고, [페드로 가예세의](https://ko.wikipedia.org/wiki/페드로_가예세 "wikilink") 선방에 막혔다. 그는 [매슈 레키가](../Page/매슈_레키.md "wikilink") 안데르손 산타마리아 이였다. 후반전 5분, 게레로가 [매슈 라이언의](../Page/매슈_라이언.md "wikilink") 왼쪽 손을 넘어 네트의 저쪽 구석에 공을 꽂았다. 예디나크의 빠른 헤딩 슛은 가예세와 [트렌트 세인스버리가](../Page/트렌트_세인스버리.md "wikilink") 근거리에서 발사한 반면, 교체 선수 [팀 케이힐이](../Page/팀_케이힐.md "wikilink") 페널티 구역 내에서 발리 슛을 성공시켰다. [에디손 플로레스가](https://ko.wikipedia.org/wiki/에디손_플로레스 "wikilink") 마지막 몇분 동안 박스 가장자리에서 낮은 속력으로 기둥에 충돌했지만, 오프 사이드 깃발이 올라갔다\[37\].
+[밀레 예디나크는](../Page/밀레_예디나크.md "wikilink") 전반 9분 후에 [크리스티안 쿠에바에서의](../Page/크리스티안_쿠에바.md "wikilink") 높은 부팅을 위해 예약되었다. 18분에는 [파올로 게레로가](../Page/파올로_게레로.md "wikilink") 페널티 에어리어 안으로 들어갔고, 오른발로 되돌아가 [안드레 카리요에게](../Page/안드레_카리요.md "wikilink") 깊은 크로스를 걸어 예디나크의 다리와 네트의 오른쪽 하단 코너로 발리슛을 시도했다. [톰 로기치은](../Page/톰_로기치.md "wikilink") 26분 페널티 지역으로 세명의 수비수를 물리치고, [페드로 가예세의](https://ko.wikipedia.org/wiki/페드로_가예세 "wikilink") 선방에 막혔다. 그는 [매슈 레키가](../Page/매슈_레키.md "wikilink") 안데르손 산타마리아 이였다. 후반전 5분, 게레로가 [매슈 라이언의](../Page/매슈_라이언.md "wikilink") 왼쪽 손을 넘어 네트의 저쪽 구석에 공을 꽂았다. 예디나크의 빠른 헤딩 슛은 가예세와 [트렌트 세인스버리가](../Page/트렌트_세인스버리.md "wikilink") 근거리에서 발사한 반면, 교체 선수 [팀 케이힐이](../Page/팀_케이힐.md "wikilink") 페널티 구역 내에서 발리 슛을 성공시켰다. [에디손 플로레스가](https://ko.wikipedia.org/wiki/에디손_플로레스 "wikilink") 마지막 몇분 동안 박스 가장자리에서 낮은 속력으로 기둥에 충돌했지만, 오프 사이드 깃발이 올라갔다\[37\].
 
 카리요는 36년 만에 월드컵에서 득점한 첫번째 페루 선수가 되었다. 그는 1982년 스페인에서 [기예르모 라 로사가](https://ko.wikipedia.org/wiki/기예르모_라_로사 "wikilink") 폴란드에 [5 – 1로](https://ko.wikipedia.org/wiki/1978년_FIFA_월드컵#1조 "wikilink") 패한 후 205분의 공백을 깼다\[38\]. 페루는 1978년 이란을 상대로 [4 – 1로](https://ko.wikipedia.org/wiki/1982년_FIFA_월드컵#4조 "wikilink") 승리한 이후 월드컵에서 그들의 첫번째 경기를 이겼다. 34 세와 176 세의 게레로는 월드컵에서 아르헨티나의 Martín Palermo (36 세, 227 일)와 우루과이 Obdulio Varela (369 일 279 일) 뒤에 세 번째로 나이 많은 남미 선수가되었다.. Cahill은 네개의 다른 월드컵 결승에 출전한 첫번째 호주인이 되었다\[39\]. 호주는 2010년 FIFA월드컵에서 마지막 메이저 대회 우승 후 세르비아를 2-1로 꺾은 적이 없으며, 호주는 남미 축구 팀을 이긴 적이 없다. 2006년 브라질에게 0-2로 패한 월드컵은 1974년과 2014년 칠레에 0-0으로 비겼고 1-3으로 패했다.
 
@@ -1217,7 +1217,7 @@
 안톤 아베리아노프 (<a href="https://ko.wikipedia.org/wiki/러시아_축구_협회" title="wikilink">러시아</a>)<br />
 티혼 칼루긴 (<a href="https://ko.wikipedia.org/wiki/러시아_축구_협회" title="wikilink">러시아</a>)<br />
 <strong>대기심:</strong><br />
-<a href="https://ko.wikipedia.org/wiki/사토_류지" title="wikilink">사토 류지</a> (<a href="https://ko.wikipedia.org/wiki/일본_축구_협회" title="wikilink">일본</a>)<br />
+<a href="../Page/사토_류지.md" title="wikilink">사토 류지</a> (<a href="https://ko.wikipedia.org/wiki/일본_축구_협회" title="wikilink">일본</a>)<br />
 <strong>후보 대기심:</strong><br />
 사가라 도루 (<a href="https://ko.wikipedia.org/wiki/일본_축구_협회" title="wikilink">일본</a>)<br />
 <strong>비디오 판독심:</strong><br />

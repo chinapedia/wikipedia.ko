@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ II:   ](https://ko.wikipedia.org/wiki/_II:___).
+> This article is converted from Wikipedia: [스타크래프트 II: 노바 비밀 작전](https://ko.wikipedia.org/wiki/스타크래프트_II:_노바_비밀_작전).
 
 
 《**스타크래프트 II: 노바 비밀 작전**》(StarCraft II: Nova Covert Ops) 은 [다운로드 컨텐츠](https://ko.wikipedia.org/wiki/다운로드_컨텐츠 "wikilink") (DLC) 로 출시된 실시간 전략 게임 [스타크래프트 II의](https://ko.wikipedia.org/wiki/스타크래프트_II "wikilink") [싱글 플레이](https://ko.wikipedia.org/wiki/싱글플레이어_비디오_게임 "wikilink") 미션 팩이다. 총 9개의 미션으로 구성되어 있으며 3개 씩 총 3번에 걸쳐 배포되었다.\[1\] 첫번째 미션 팩은 2016년 3월 29일, 두번째 미션 팩은 2016년 8월 2일, 마지막 미션 팩은 2016년 11월 22일에 발매되었다.\[2\]\[3\]

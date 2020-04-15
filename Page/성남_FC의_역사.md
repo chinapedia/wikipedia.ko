@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ FC ](https://ko.wikipedia.org/wiki/_FC_).
+> This article is converted from Wikipedia: [성남 FC의 역사](https://ko.wikipedia.org/wiki/성남_FC의_역사).
 
 
 **[성남 FC](https://ko.wikipedia.org/wiki/성남_FC "wikilink")**()는 [K리그1](https://ko.wikipedia.org/wiki/K리그1 "wikilink") 7회 우승, [FA컵](https://ko.wikipedia.org/wiki/FA컵_\(대한민국\) "wikilink") 3회 우승, [AFC 챔피언스리그](../Page/AFC_챔피언스리그.md "wikilink") 2회 우승, [아프로 아시안 클럽 챔피언십](https://ko.wikipedia.org/wiki/아프로_아시안_클럽_챔피언십 "wikilink") 우승 등 각종 대회에서 [총 21회의 우승을](https://ko.wikipedia.org/wiki/성남_FC#.EC.9A.B0.EC.8A.B9_.EA.B8.B0.EB.A1.9D "wikilink") 기록한, 대한민국 축구 역사에서 성공적인 구단 중 하나이다.\[1\]

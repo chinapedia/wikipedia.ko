@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [IAS ](https://ko.wikipedia.org/wiki/IAS_).
+> This article is converted from Wikipedia: [IAS 머신](https://ko.wikipedia.org/wiki/IAS_머신).
 
 
 **IAS 머신**(IAS machine)은 미국 [뉴저지 주 프린스턴의](https://ko.wikipedia.org/wiki/프린스턴_\(뉴저지_주\) "wikilink") [프린스턴 고등연구소](../Page/프린스턴_고등연구소.md "wikilink")(IAS)에서 개발된 초기 전자 [컴퓨터](../Page/컴퓨터.md "wikilink")이다. 폰 노이만 머신(von Neumann machine)이라고도 하는데, 그 이유는 이 설계를 기술하는 논문을 프린스턴 대학교 및 IAS의 수학 교수 [존 폰 노이만이](../Page/존_폰_노이만.md "wikilink") 편집했기 때문이다. 이 컴퓨터는 1945년부터 1951년까지 그의 감독 하에 개발되었다.\[1\] 다른 사람들에 의해 착안, 구현되었긴 했지만 전반적인 구성은 [폰 노이만 구조이다](../Page/폰_노이만_구조.md "wikilink").\[2\]

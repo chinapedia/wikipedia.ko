@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:IPA ](https://ko.wikipedia.org/wiki/:IPA_).
+> This article is converted from Wikipedia: [틀:IPA 링크](https://ko.wikipedia.org/wiki/틀:IPA_링크).
 
 
 }}}} | IPAsym name= }}}}}}|3=<span class="error">∅</span>}} }}} | bracket = {{\#switch:

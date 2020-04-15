@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [E1cB- ](https://ko.wikipedia.org/wiki/E1cB-_).
+> This article is converted from Wikipedia: [E1cB-제거 반응](https://ko.wikipedia.org/wiki/E1cB-제거_반응).
 
 
 [프레임](https://ko.wikipedia.org/wiki/파일:Example_of_E1cB_Mechanism_Hemiacetal2.jpg "wikilink") **E1cB 제거 반응**은 나쁜 이탈기 (예 : -OH 또는 -OR) 및 산성 수소가 제거되어 추가 결합을 형성하는 염기성 조건 하에서 발생하는 일종의 제거 반응이다. E1cB는 두 단계 과정이다. 첫 단계, 염기는 가장 산성인 양성자를 떼어내어 안정화 된 음이온을 생성한다. 그 뒤 음이온 비공유전자쌍 중 하나는 인접한 원자로 이동하므로 이탈기를 내보내고, 이중 또는 삼중 결합을 형성한다. 메커니즘의 이름 - **E1cB** - Elimination Unimolecular conjugate Base를 의미한다. 제거란 메카니즘이 제거 반응이고 두 개의 치환기를 잃을 것이라는 사실을 의미한다. 일분자는 이 반응의 속도 결정 단계가 하나의 분자만을 포함한다는 사실을 의미한다. 마지막으로, 짝염기는 출발 물질의 짝염기인 카보닐 음이온 중간체의 형성을 의미한다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [BBC  ](https://ko.wikipedia.org/wiki/BBC__).
+> This article is converted from Wikipedia: [BBC 요크셔 링컨셔](https://ko.wikipedia.org/wiki/BBC_요크셔_링컨셔).
 
 
 **BBC 요크셔 링컨셔** (BBC Yorkshire and Lincolnshire), 약칭 'BBC 요크스 링크스' (BBC Yorks & Lincs)는 [BBC](https://ko.wikipedia.org/wiki/BBC "wikilink")의 [잉글랜드 지역방송](../Page/BBC_잉글리시_리전스.md "wikilink") 중 하나로 [킹스턴어폰헐](../Page/킹스턴어폰헐.md "wikilink")에 본부를 두고 있다. 옛 [BBC 노스](https://ko.wikipedia.org/wiki/BBC_노스 "wikilink") (지금의 [BBC 요크셔](../Page/BBC_요크셔.md "wikilink"))에서 분리 설치되었다. 제1송신소는 [벨몬트 송신소이며](https://ko.wikipedia.org/wiki/벨몬트_송신소 "wikilink"), [이스트요크셔 주](https://ko.wikipedia.org/wiki/이스트라이딩오브요크셔_주 "wikilink"), [링컨셔 주](https://ko.wikipedia.org/wiki/링컨셔_주 "wikilink"), [노퍽 주를](https://ko.wikipedia.org/wiki/노퍽_주 "wikilink") 관할지역으로 두고 있다.

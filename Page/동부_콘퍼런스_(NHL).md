@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [  \(NHL\)](https://ko.wikipedia.org/wiki/__\(NHL\)).
+> This article is converted from Wikipedia: [동부 콘퍼런스 \(NHL\)](https://ko.wikipedia.org/wiki/동부_콘퍼런스_\(NHL\)).
 
 
-**동부 콘퍼런스**([영어](../Page/영어.md "wikilink") : Eastern Conference, [프랑스어](../Page/프랑스어.md "wikilink") : Conférence de l'Est)에는 총 16개 팀으로 2개 디비전에 8팀으로 나뉘어 있다. 예전 명칭은 **프린스 오브 웨일즈 콘퍼런스** (Prince of Wales Conference)였다.
+**동부 콘퍼런스**([영어](../Page/영어.md "wikilink") : Eastern Conference, [프랑스어](../Page/프랑스어.md "wikilink") : Conférence de l'Est)에는 총 16개 팀으로 2개 디비전에 8팀으로 나뉘어 있다. 예전 명칭은 **프린스 오브 웨일즈 콘퍼런스**(Prince of Wales Conference)였다.
 
 <table>
 <thead>

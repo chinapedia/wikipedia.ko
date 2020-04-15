@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [A.   ](https://ko.wikipedia.org/wiki/A.___).
+> This article is converted from Wikipedia: [A. 레 코크 아레나](https://ko.wikipedia.org/wiki/A._레_코크_아레나).
 
 
 **A. 레 코크 아레나**()는 [에스토니아](../Page/에스토니아.md "wikilink") [탈린](../Page/탈린.md "wikilink")에 위치한 축구 경기장이다. [2001년](../Page/2001년.md "wikilink") [6월 2일에](../Page/6월_2일.md "wikilink") 개장했으며 [에스토니아 축구 국가대표팀](../Page/에스토니아_축구_국가대표팀.md "wikilink"), [FC 플로라 탈린의](../Page/FC_플로라_탈린.md "wikilink") 홈 구장으로 사용되고 있다. 수용 인원은 9,692명이다. 경기장 이름은 에스토니아의 [맥주](../Page/맥주.md "wikilink") 회사인 A. 레 코크(A. Le Coq)에서 유래된 이름이다. [2018년 UEFA 슈퍼컵](../Page/2018년_UEFA_슈퍼컵.md "wikilink") 경기장으로도 사용되었다.

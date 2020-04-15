@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [UHD   ](https://ko.wikipedia.org/wiki/UHD___).
+> This article is converted from Wikipedia: [UHD 문화기행 낭만 오디세이](https://ko.wikipedia.org/wiki/UHD_문화기행_낭만_오디세이).
 
 
 《**UHD 문화기행 낭만 오디세이**》는 매주 [일요일](../Page/일요일.md "wikilink") 오전 10시 10분에 [KBS 1TV로](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink") 방송된 [한국방송공사의 텔레비전 프로그램이다](https://ko.wikipedia.org/wiki/한국방송공사의_텔레비전_프로그램 "wikilink").

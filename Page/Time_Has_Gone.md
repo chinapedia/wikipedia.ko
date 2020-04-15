@@ -32,10 +32,11 @@
 
   - 오리콘 데일리 차트 3위를 기록하였다. (17/9/28)
   - 오리콘 위클리 차트 4위를 기록하였다. (17/10/3)
-  - CDTV lank 10위를 기록하였다. (17/10/7)
+  - [CDTV](../Page/카운트_다운_TV.md "wikilink") lank 10위를 기록하였다. (17/10/7)
 
 ## 외부 링크
 
   - [w-inds.(윈즈) 싱글 디스코 그라피 Time Has Gone 싱글 발매 (9월 27일)](http://www.w-inds.tv/discography/single/)
 
+  -
 [분류:2017년 싱글](https://ko.wikipedia.org/wiki/분류:2017년_싱글 "wikilink") [분류:W-inds.의 노래](https://ko.wikipedia.org/wiki/분류:W-inds.의_노래 "wikilink")

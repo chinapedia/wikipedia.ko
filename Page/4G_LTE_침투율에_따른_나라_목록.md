@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [4G LTE    ](https://ko.wikipedia.org/wiki/4G_LTE____).
+> This article is converted from Wikipedia: [4G LTE 침투율에 따른 나라 목록](https://ko.wikipedia.org/wiki/4G_LTE_침투율에_따른_나라_목록).
 
 
 다음은 **[4G LTE](https://ko.wikipedia.org/wiki/롱_텀_에볼루션 "wikilink") 침투율에 따른 나라 목록**이다.

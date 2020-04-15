@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [What\'s Going On \(\)](https://ko.wikipedia.org/wiki/What\'s_Going_On_\(\)).
+> This article is converted from Wikipedia: [What\'s Going On \(음반\)](https://ko.wikipedia.org/wiki/What\'s_Going_On_\(음반\)).
 
 
 《**What's Going On**》는 1971년 5월 21일 [타믈라 레코드에서](https://ko.wikipedia.org/wiki/타믈라_레코드 "wikilink") 발표한 소울 음악가 [마빈 게이의](../Page/마빈_게이.md "wikilink") 열한 번째 정규 음반이다.\[1\] 녹음 세션은 1970년 6월과 1971년 5월에 [디트로이트](../Page/디트로이트.md "wikilink")의 히츠빌, 골든 월드 및 유나이티드 사운드 스튜디오와 캘리포니아주 [웨스트할리우드](../Page/웨스트할리우드.md "wikilink")의 사운드 팩토리에서 열렸다. 《What's Going On》은 마빈 게이가 프로듀서 겸 [모타운 레코드의](https://ko.wikipedia.org/wiki/모타운_레코드 "wikilink") 메인 스튜디오 밴드인 [펑크 브라더스로](https://ko.wikipedia.org/wiki/펑크_브라더스 "wikilink") 알려진 [세션 음악가들이](https://ko.wikipedia.org/wiki/세션_음악가 "wikilink") 찬사를 받은 첫 번째 음반이다.

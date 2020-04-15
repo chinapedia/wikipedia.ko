@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:RBW](https://ko.wikipedia.org/wiki/:RBW).
+> This article is converted from Wikipedia: [틀:RBW](https://ko.wikipedia.org/wiki/틀:RBW).
 
 
 <onlyinclude></onlyinclude>

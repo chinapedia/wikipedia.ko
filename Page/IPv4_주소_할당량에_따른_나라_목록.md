@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [IPv4     ](https://ko.wikipedia.org/wiki/IPv4_____).
+> This article is converted from Wikipedia: [IPv4 주소 할당량에 따른 나라 목록](https://ko.wikipedia.org/wiki/IPv4_주소_할당량에_따른_나라_목록).
 
 
 아래는 IPv4 주소 할당량에 따른 나라 목록이다. (2012년 4월 2일 기준) 전체 [유엔 회원국](../Page/유엔_회원국.md "wikilink"), [성좌](https://ko.wikipedia.org/wiki/성좌_\(가톨릭\) "wikilink"), \[ bloo mobile.com georigia 45 638...09\[Kosovo\]\], 그리고 [타이완을](../Page/중화민국.md "wikilink") 포함하여 252개국이 포함된다.

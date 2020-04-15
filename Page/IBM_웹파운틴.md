@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [IBM ](https://ko.wikipedia.org/wiki/IBM_).
+> This article is converted from Wikipedia: [IBM 웹파운틴](https://ko.wikipedia.org/wiki/IBM_웹파운틴).
 
 
 **웹파운틴**(WebFountain)은 [월드 와이드 웹의](../Page/월드_와이드_웹.md "wikilink") [비정형 데이터의](../Page/비정형_데이터.md "wikilink") 연구를 위해 [IBM](../Page/IBM.md "wikilink")이 구현한 [인터넷](../Page/인터넷.md "wikilink") [해석기관](../Page/해석기관.md "wikilink")이다. IBM은 웹파운틴을 다음과 같이 기술하고 있다:

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Mind Games \(  \)](https://ko.wikipedia.org/wiki/Mind_Games_\(__\)).
+> This article is converted from Wikipedia: [Mind Games \(존 레논의 노래\)](https://ko.wikipedia.org/wiki/Mind_Games_\(존_레논의_노래\)).
 
 
 〈**Mind Games**〉는 [존 레논의](../Page/존_레논.md "wikilink") 곡이다. 1973년 [애플 레코드에서](../Page/애플_레코드.md "wikilink") 싱글로 출시되었으며,\[1\] 또한 동년 출시의 [동명의 정규앨범의](https://ko.wikipedia.org/wiki/Mind_Games "wikilink") [리드 싱글로도](../Page/리드_싱글.md "wikilink") 되었다. 영국에서는 싱글 및 정규앨범 모두 1973년 11월 16일에 출시되었다.

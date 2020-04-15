@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [LG](https://ko.wikipedia.org/wiki/LG).
+> This article is converted from Wikipedia: [LG연암학원](https://ko.wikipedia.org/wiki/LG연암학원).
 
 
 **학교법인 LG연암학원**은 [대한민국](../Page/대한민국.md "wikilink") [LG그룹](../Page/LG그룹.md "wikilink")의 학교법인이다.

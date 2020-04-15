@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ 2nd](https://ko.wikipedia.org/wiki/_2nd).
+> This article is converted from Wikipedia: [메이저 2nd](https://ko.wikipedia.org/wiki/메이저_2nd).
 
 
 《**메이저**》(MAJOR)는 [미쓰다 다쿠야가](https://ko.wikipedia.org/wiki/미쓰다_다쿠야 "wikilink") 원작한 야구 만화다. 원작 만화는 [소학관](https://ko.wikipedia.org/wiki/소학관 "wikilink")의 소년 만화 잡지 《[주간 소년 선데이](../Page/주간_소년_선데이.md "wikilink")》에서 연재되고 있으며 애니메이션은 [2018년](../Page/2018년.md "wikilink") [4월 7일부터](../Page/4월_7일.md "wikilink") [9월 22일까지](../Page/9월_22일.md "wikilink") 제1기가 [NHK](https://ko.wikipedia.org/wiki/NHK "wikilink")에서 방영되었다. [2020년](../Page/2020년.md "wikilink") [4월](../Page/4월.md "wikilink")부터 제2기가 방영될 예정이다.

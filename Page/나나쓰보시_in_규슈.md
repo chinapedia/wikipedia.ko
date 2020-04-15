@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ in ](https://ko.wikipedia.org/wiki/_in_).
+> This article is converted from Wikipedia: [나나쓰보시 in 규슈](https://ko.wikipedia.org/wiki/나나쓰보시_in_규슈).
 
 
 **나나쓰보시 in 규슈**(, )는 [큐슈여객철도](../Page/큐슈여객철도.md "wikilink")(JR 규슈)가 운행하는 주유형 임시 침대열차(크루즈 트레인)이다.

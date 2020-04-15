@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:SNH48](https://ko.wikipedia.org/wiki/:SNH48).
+> This article is converted from Wikipedia: [틀:SNH48](https://ko.wikipedia.org/wiki/틀:SNH48).
 
 
 <onlyinclude></onlyinclude>

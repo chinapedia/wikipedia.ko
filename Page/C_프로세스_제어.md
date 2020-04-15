@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [C  ](https://ko.wikipedia.org/wiki/C__).
+> This article is converted from Wikipedia: [C 프로세스 제어](https://ko.wikipedia.org/wiki/C_프로세스_제어).
 
 
 **C 프로세스 제어**는 [C](../Page/C_\(프로그래밍_언어\).md "wikilink") 언어의 [표준 라이브러리에서](../Page/C_표준_라이브러리.md "wikilink") 기본적인 프로세스 제어 행위를 구현한 함수들의 집합을 의미한다.\[1\]\[2\] 프로세스 제어 행위들은 프로그램 종류나 환경 동작들의 목록에 접근하는 것들을 포함한다.

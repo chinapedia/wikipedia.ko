@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ FA   ](https://ko.wikipedia.org/wiki/_FA___).
+> This article is converted from Wikipedia: [대한민국 FA컵 클럽별 통산 기록](https://ko.wikipedia.org/wiki/대한민국_FA컵_클럽별_통산_기록).
 
 
 이 문서는 [대한민국 FA컵의](https://ko.wikipedia.org/wiki/FA컵_\(대한민국\) "wikilink") 참가팀별 통산 성적을 기록한 문서이다.

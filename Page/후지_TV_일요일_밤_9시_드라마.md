@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ TV   9 ](https://ko.wikipedia.org/wiki/_TV___9_).
+> This article is converted from Wikipedia: [후지 TV 일요일 밤 9시 드라마](https://ko.wikipedia.org/wiki/후지_TV_일요일_밤_9시_드라마).
 
 
 《**후지 TV 일요일 밤 9시 드라마**》()는 [후지 TV에서](../Page/후지_TV.md "wikilink") 매주 일요일 21:00 - 21:54에 방송되는 [텔레비전 드라마이다](../Page/텔레비전_드라마.md "wikilink").

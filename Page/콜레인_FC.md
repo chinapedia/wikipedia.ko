@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
+> This article is converted from Wikipedia: [콜레인 FC](https://ko.wikipedia.org/wiki/콜레인_FC).
 
 
 **콜레인 FC**()는 [콜레인](../Page/콜레인.md "wikilink")을 연고로 하는 [북아일랜드](../Page/북아일랜드.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다. 현재는 [NIFL 프리미어십에](../Page/NIFL_프리미어십.md "wikilink") 참가하고 있다.

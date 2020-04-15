@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ vs. ](https://ko.wikipedia.org/wiki/_vs._).
+> This article is converted from Wikipedia: [마블 vs. 캡콤](https://ko.wikipedia.org/wiki/마블_vs._캡콤).
 
 
 **마블 vs. 캡콤**()은 [캡콤](../Page/캡콤.md "wikilink")의 프렌차이즈와 [마블 코믹스의](../Page/마블_코믹스.md "wikilink") 캐릭터들이 등장하는 [크로스오버](https://ko.wikipedia.org/wiki/크로스오버_작품 "wikilink") [대전 격투 게임](https://ko.wikipedia.org/wiki/대전_격투_게임 "wikilink") 시리즈이다. 이는 캡콤이 관여한 첫번째 Vs. 시리즈로, 그 후로 캡콤은 [SNK](../Page/SNK.md "wikilink")([SNK vs. 캡콤](../Page/SNK_vs._캡콤.md "wikilink"))나 [다쓰노코 프로덕션](https://ko.wikipedia.org/wiki/다쓰노코_프로덕션 "wikilink")([타츠노코 vs. 캡콤](https://ko.wikipedia.org/wiki/타츠노코_vs._캡콤 "wikilink"))과도 협력해서 시리즈를 제작했다. 1996년부터 현재까지 7개의 비디오 게임들로 구성돼있다.
@@ -617,7 +617,7 @@
 <td><p><a href="../Page/역전재판.md" title="wikilink">역전재판</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/네메시스" title="wikilink">네메시스</a></p></td>
+<td><p><a href="../Page/네메시스.md" title="wikilink">네메시스</a></p></td>
 <td></td>
 <td></td>
 <td></td>

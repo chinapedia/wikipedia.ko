@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SBS  ](https://ko.wikipedia.org/wiki/SBS__).
+> This article is converted from Wikipedia: [SBS 파워 스포츠](https://ko.wikipedia.org/wiki/SBS_파워_스포츠).
 
 
 《**SBS 파워 스포츠**》()는 [대한민국](../Page/대한민국.md "wikilink") [SBS에서](../Page/SBS_\(대한민국의_방송사\).md "wikilink") 매주 평일 아침 7시 25분에 방송되는 [SBS의 아침 스포츠뉴스 프로그램이자](../Page/SBS의_뉴스_프로그램.md "wikilink"), [모닝와이드](../Page/모닝와이드.md "wikilink") 1, 2부의 스포츠뉴스 코너이다.

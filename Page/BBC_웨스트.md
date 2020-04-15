@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [BBC ](https://ko.wikipedia.org/wiki/BBC_).
+> This article is converted from Wikipedia: [BBC 웨스트](https://ko.wikipedia.org/wiki/BBC_웨스트).
 
 
 **BBC 웨스트** (BBC West)는 [브리스톨](https://ko.wikipedia.org/wiki/브리스톨 "wikilink"), [윌트셔 주](https://ko.wikipedia.org/wiki/윌트셔_주 "wikilink") 대부분 지역, [서머싯 주](https://ko.wikipedia.org/wiki/서머싯_주 "wikilink") 북부와 동부, [글로스터셔](https://ko.wikipedia.org/wiki/글로스터셔 "wikilink") 대부분 지역, [도싯 주](https://ko.wikipedia.org/wiki/도싯_주 "wikilink") 북부를 대상으로 한 [BBC 잉글랜드 지방](../Page/BBC_잉글리시_리전스.md "wikilink") 방송이다.

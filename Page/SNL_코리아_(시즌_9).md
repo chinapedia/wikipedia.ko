@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SNL  \( 9\)](https://ko.wikipedia.org/wiki/SNL__\(_9\)).
+> This article is converted from Wikipedia: [SNL 코리아 \(시즌 9\)](https://ko.wikipedia.org/wiki/SNL_코리아_\(시즌_9\)).
 
 
 《**[SNL 코리아](../Page/SNL_코리아.md "wikilink")**》시즌 9는 2017년 3월 25일부터 2017년 11월 18일까지 [tvN](https://ko.wikipedia.org/wiki/tvN "wikilink")에서 방송되었다. 이 시즌을 끝으로 [SNL 코리아는](../Page/SNL_코리아.md "wikilink") 종영되었다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Max \(\)](https://ko.wikipedia.org/wiki/Max_\(\)).
+> This article is converted from Wikipedia: [Max \(열차\)](https://ko.wikipedia.org/wiki/Max_\(열차\)).
 
 
 [270px](https://ko.wikipedia.org/wiki/파일:Shinkansen-e1.jpg "wikilink") [270px](https://ko.wikipedia.org/wiki/파일:Max_JR_east-Japan.jpg "wikilink") **Max**() 또는 **멀티 어메니티 익스프레스**()는 [동일본여객철도](../Page/동일본여객철도.md "wikilink")가 보유한 복층 [신칸센](../Page/신칸센.md "wikilink")의 명칭이자 [E1계](../Page/신칸센_E1계_전동차.md "wikilink"), [E4계](../Page/신칸센_E4계_전동차.md "wikilink") 차량의 명칭으로 알려졌다.

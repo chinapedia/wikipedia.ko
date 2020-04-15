@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Piano Man \(\)](https://ko.wikipedia.org/wiki/Piano_Man_\(\)).
+> This article is converted from Wikipedia: [Piano Man \(노래\)](https://ko.wikipedia.org/wiki/Piano_Man_\(노래\)).
 
 
 〈**Piano Man**〉은 [빌리 조엘의](../Page/빌리_조엘.md "wikilink") 첫 번째 싱글이다. 이 곡은 1973년 11월 2일에 발매 되었으며, 《[Piano Man](https://ko.wikipedia.org/wiki/Piano_Man_\(음반\) "wikilink")》을 비롯한 빌리 조엘의 많은 음반에 수록되어있다. 빌리 조엘의 첫 번째 히트곡이자 대표곡인 이 곡은 1974년 4월 [빌보드 핫 100에서](../Page/빌보드_핫_100.md "wikilink") 25위에 올랐다.\[1\]\[2\]

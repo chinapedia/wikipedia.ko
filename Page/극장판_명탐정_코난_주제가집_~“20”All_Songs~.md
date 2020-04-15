@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [    \~20All Songs\~](https://ko.wikipedia.org/wiki/____\~20All_Songs\~).
+> This article is converted from Wikipedia: [극장판 명탐정 코난 주제가집 \~“20”All Songs\~](https://ko.wikipedia.org/wiki/극장판_명탐정_코난_주제가집_\~“20”All_Songs\~).
 
 
 《**극장판 명탐정 코난 주제가집 \~“20”All Songs\~**》()는 [아오야마 고쇼](../Page/아오야마_고쇼.md "wikilink") 원작 [극장판 애니메이션](../Page/애니메이션_영화.md "wikilink") 《[명탐정 코난](../Page/명탐정_코난_\(극장판\).md "wikilink")》의 1기부터 20기까지의 주제가가 수록되어 있는 음반이다. 규격 품번은 초도판이 JBCZ-9045～-9046, 통상판이 JBCZ-9047\~-9048이다.

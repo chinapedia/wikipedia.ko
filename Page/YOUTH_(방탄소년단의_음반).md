@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [YOUTH \( \)](https://ko.wikipedia.org/wiki/YOUTH_\(_\)).
+> This article is converted from Wikipedia: [YOUTH \(방탄소년단의 음반\)](https://ko.wikipedia.org/wiki/YOUTH_\(방탄소년단의_음반\)).
 
 
 《**YOUTH**》(유스)는 [대한민국](../Page/대한민국.md "wikilink")의 [보이 밴드](https://ko.wikipedia.org/wiki/보이_밴드 "wikilink") [방탄소년단](../Page/방탄소년단.md "wikilink")의 2번째 일본 스튜디오 음반으로서, 2016년 9월 7일 출시되었다. 이 음반에는 13개의 트랙이 있다.\[1\]

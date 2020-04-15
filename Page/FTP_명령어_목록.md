@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FTP  ](https://ko.wikipedia.org/wiki/FTP__).
+> This article is converted from Wikipedia: [FTP 명령어 목록](https://ko.wikipedia.org/wiki/FTP_명령어_목록).
 
 
 아래는 **FTP 명령어 목록**이다.

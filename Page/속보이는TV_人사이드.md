@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TV ](https://ko.wikipedia.org/wiki/TV_).
+> This article is converted from Wikipedia: [속보이는TV 人사이드](https://ko.wikipedia.org/wiki/속보이는TV_人사이드).
 
 
 《**속보**이는TV **人**사이드》는 [2017년](../Page/2017년.md "wikilink") [4월 13일부터](../Page/4월_13일.md "wikilink") [2018년](../Page/2018년.md "wikilink") [11월 1일까지만](../Page/11월_1일.md "wikilink") 종영되는 [KBS 2TV](../Page/KBS_2TV.md "wikilink") 시사교양 프로그램이다.

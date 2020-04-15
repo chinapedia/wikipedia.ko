@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ Distance](https://ko.wikipedia.org/wiki/_Distance).
+> This article is converted from Wikipedia: [그대와의 Distance](https://ko.wikipedia.org/wiki/그대와의_Distance).
 
 
 《**그대와의 Distance**》()는 [ZARD](../Page/ZARD.md "wikilink")의 11번째이자 보컬 [사카이 이즈미](../Page/사카이_이즈미.md "wikilink") 생전의 마지막 [정규 앨범으로](https://ko.wikipedia.org/wiki/정규_앨범 "wikilink"), 2005년 9월 7일 발매되었다. (HDCD: JBCJ-9012) ZARD의 정규 앨범 중에서 처음이자 마지막으로 디지팩(Digipak)과 HDCD 사양으로 발매되었다.

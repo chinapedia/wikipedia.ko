@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Check isxn](https://ko.wikipedia.org/wiki/:Check_isxn).
+> This article is converted from Wikipedia: [모듈:Check isxn](https://ko.wikipedia.org/wiki/모듈:Check_isxn).
 
 
 \-- This template is a copy of the ISXN validation code from [Module:Citation/CS1](https://ko.wikipedia.org/wiki/Module:Citation/CS1 "wikilink") -- which allows for validating ISBN, ISMN, and ISSN without invoking a citation template

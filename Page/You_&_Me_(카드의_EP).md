@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [You \& Me \( EP\)](https://ko.wikipedia.org/wiki/You_\&_Me_\(_EP\)).
+> This article is converted from Wikipedia: [You \& Me \(카드의 EP\)](https://ko.wikipedia.org/wiki/You_\&_Me_\(카드의_EP\)).
 
 
 《**You & Me**》는 혼성그룹 [KARD의](../Page/카드_\(음악_그룹\).md "wikilink") 두 번째 미니 앨범으로, 타이틀곡은<You In Me >이다. 2017년 11월 21일에 발매했다.

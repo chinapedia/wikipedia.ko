@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ICD-10  II: ](https://ko.wikipedia.org/wiki/ICD-10__II:_).
+> This article is converted from Wikipedia: [ICD-10 챕터 II: 종양](https://ko.wikipedia.org/wiki/ICD-10_챕터_II:_종양).
 
 
 **[ICD-10](../Page/ICD-10.md "wikilink")** 목록의 2번째 챕터이다. C00\~D48까지를 포괄하며, [종양](../Page/종양.md "wikilink")(Neoplasms)에 관한 것이다. 여기서 영문 명칭인 Neoplasm은 종양(腫瘍)으로도 번역되나, 원 의미를 살린 [신생물](https://ko.wikipedia.org/wiki/신생물 "wikilink")(新生物)로도 번역된다.

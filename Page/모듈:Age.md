@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Age](https://ko.wikipedia.org/wiki/:Age).
+> This article is converted from Wikipedia: [모듈:Age](https://ko.wikipedia.org/wiki/모듈:Age).
 
 
 \-- Implement various "age of" and other date-related templates.

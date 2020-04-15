@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ FA](https://ko.wikipedia.org/wiki/_FA).
+> This article is converted from Wikipedia: [파항 FA](https://ko.wikipedia.org/wiki/파항_FA).
 
 
 **페르사투안 볼라세팍 파항**() 또는 **파항 FA**()는 [파항주](https://ko.wikipedia.org/wiki/파항주 "wikilink") [쿠안탄](../Page/쿠안탄.md "wikilink")을 연고로 하는 [말레이시아](../Page/말레이시아.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다. [1959년](../Page/1959년.md "wikilink")에 창단되었으며, 현재 말레이시아 최상위 축구 리그인 [말레이시아 슈퍼리그에](../Page/말레이시아_슈퍼리그.md "wikilink") 출전하고 있다. 구단의 별칭은 *코끼리*()이고, 구단의 상징색은 노란색이다. 홈 구장은 [다룰 막무르 스타디움를](https://ko.wikipedia.org/wiki/다룰_막무르_스타디움 "wikilink") 사용하며, 수용인원은 40,000명이다.

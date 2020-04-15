@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KQ  ](https://ko.wikipedia.org/wiki/KQ__).
+> This article is converted from Wikipedia: [KQ 엔터테인먼트의 음반](https://ko.wikipedia.org/wiki/KQ_엔터테인먼트의_음반).
 
 
 이 문서는 [KQ 엔터테인먼트에서](https://ko.wikipedia.org/wiki/KQ_엔터테인먼트 "wikilink") 발매한 음반 목록이다.
@@ -108,6 +108,7 @@
 ## 2020년 \~ 2022년
 
   - 2020년 1월 6일 에이티즈 - **TREASURE EPILOGUE : Action To Answer**
+  - 2020년 3월 18일 박경 - **\[Digital Single\] 새로고침**
 
 ## 각주
 

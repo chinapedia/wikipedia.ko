@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Video game release](https://ko.wikipedia.org/wiki/:Video_game_release).
+> This article is converted from Wikipedia: [모듈:Video game release](https://ko.wikipedia.org/wiki/모듈:Video_game_release).
 
 
 require('Module:No globals')

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [V- ](https://ko.wikipedia.org/wiki/V-_).
+> This article is converted from Wikipedia: [V-리그 올스타전](https://ko.wikipedia.org/wiki/V-리그_올스타전).
 
 
 **V-리그 올스타전**은 대한민국의 프로 배구 리그인 [V-리그의](../Page/V-리그_\(대한민국\).md "wikilink") 올스타전이다. V-리그 남자부와 여자부 팀들이 이전 시즌 성적에 따라 K-스타팀과 V-스타팀으로 나뉘어 경기를 펼친다.
@@ -263,7 +263,7 @@
 | [정은희](https://ko.wikipedia.org/wiki/정은희 "wikilink")            | 1  | 2005                             |
 | [조상희](https://ko.wikipedia.org/wiki/조상희 "wikilink")            | 1  | 2009                             |
 | [최윤옥](https://ko.wikipedia.org/wiki/최윤옥 "wikilink")            | 1  | 2009                             |
-| [최은지](https://ko.wikipedia.org/wiki/최은지_\(배구_선수\) "wikilink")  | 1  | 2019                             |
+| [최은지](../Page/최은지_\(배구_선수\).md "wikilink")                     | 1  | 2019                             |
 | [최주희](https://ko.wikipedia.org/wiki/최주희 "wikilink")            | 1  | 2009                             |
 | [캣벨](https://ko.wikipedia.org/wiki/캐서린_벨_\(배구_선수\) "wikilink") | 1  | 2016                             |
 | [포포비치](https://ko.wikipedia.org/wiki/산야_포포비치 "wikilink")       | 1  | 2011                             |

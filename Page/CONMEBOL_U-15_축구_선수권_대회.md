@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [CONMEBOL U-15   ](https://ko.wikipedia.org/wiki/CONMEBOL_U-15___).
+> This article is converted from Wikipedia: [CONMEBOL U-15 축구 선수권 대회](https://ko.wikipedia.org/wiki/CONMEBOL_U-15_축구_선수권_대회).
 
 
 **남미 U-15 축구 선수권 대회**는 [CONMEBOL](https://ko.wikipedia.org/wiki/CONMEBOL "wikilink")에서 주관하는 15세 이하 선수들이 참가하는 [축구](../Page/축구.md "wikilink") 대회이다.

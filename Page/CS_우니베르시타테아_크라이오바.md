@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [CS  ](https://ko.wikipedia.org/wiki/CS__).
+> This article is converted from Wikipedia: [CS 우니베르시타테아 크라이오바](https://ko.wikipedia.org/wiki/CS_우니베르시타테아_크라이오바).
 
 
 **CS 우니베르시타테아 크라이오바**(Clubul Sportiv Universitatea Craiova)는 [크라이오바](../Page/크라이오바.md "wikilink")를 연고로 하는 [루마니아](../Page/루마니아.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다. 현재는 [리가 I에](../Page/리가_I.md "wikilink") 참가하고 있다.

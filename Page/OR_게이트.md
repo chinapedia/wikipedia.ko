@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [OR ](https://ko.wikipedia.org/wiki/OR_).
+> This article is converted from Wikipedia: [OR 게이트](https://ko.wikipedia.org/wiki/OR_게이트).
 
 
 |           |            |

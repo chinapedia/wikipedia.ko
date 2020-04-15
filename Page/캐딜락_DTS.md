@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ DTS](https://ko.wikipedia.org/wiki/_DTS).
+> This article is converted from Wikipedia: [캐딜락 DTS](https://ko.wikipedia.org/wiki/캐딜락_DTS).
 
 
 **캐딜락 DTS**(Cadillac DTS)는 [제너럴 모터스에서](../Page/제너럴_모터스.md "wikilink") [캐딜락](../Page/캐딜락.md "wikilink") 브랜드로 [2005년](../Page/2005년.md "wikilink")부터 [2011년](../Page/2011년.md "wikilink")까지 생산한 [전륜구동](../Page/전륜구동.md "wikilink") 대형 세단이다. DTS는 DeVille Touring Sedan의 약자이다. 형제 차종으로 뷰익 루체른이 있었다.

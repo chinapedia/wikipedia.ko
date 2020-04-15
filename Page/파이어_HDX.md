@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ HDX](https://ko.wikipedia.org/wiki/_HDX).
+> This article is converted from Wikipedia: [파이어 HDX](https://ko.wikipedia.org/wiki/파이어_HDX).
 
 
 **파이어 HDX**(Fire HDX, 이전 명칭: 킨들 파이어 HDX, Kindle Fire HDX)는 [아마존의](https://ko.wikipedia.org/wiki/아마존닷컴 "wikilink") [킨들 파이어](https://ko.wikipedia.org/wiki/킨들_파이어 "wikilink") 계열의 [태블릿 컴퓨터](../Page/태블릿_컴퓨터.md "wikilink") 중 하이엔드 모델이다. 2013년 9월 25일에 발표되었으며 2가지 모델로 구매할 수 있다: 7 인치, 8.9 인치. 7 인치 와이파이 모델은 2013년 10월 18일에 출시되었으며 8.9 인치 와이파이 모델은 미국에서 2013년 11월 7일에 출시되었다.

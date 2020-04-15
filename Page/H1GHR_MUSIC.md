@@ -9,8 +9,8 @@
 
   - [박재범](../Page/박재범.md "wikilink") (Jay Park)
   - [차 차 말론](../Page/차_차_말론.md "wikilink") (Cha Cha Malone)
-  - [식케이](https://ko.wikipedia.org/wiki/식케이 "wikilink") (Sik-K) (권민식)
-  - [pH-1](https://ko.wikipedia.org/wiki/pH-1 "wikilink") (박준원)
+  - [식케이](../Page/식케이.md "wikilink") (Sik-K) (권민식)
+  - [pH-1](https://ko.wikipedia.org/wiki/pH-1_\(래퍼\) "wikilink") (박준원)
   - [우디 고차일드](https://ko.wikipedia.org/wiki/우디_고차일드 "wikilink") (Woodie Gochild) (곽우재)
   - [그루비룸](../Page/그루비룸.md "wikilink") (GroovyRoom) (박규정, 이휘민)
   - [우기](https://ko.wikipedia.org/wiki/우기 "wikilink") (WOOGIE) (박제욱)

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [MAZE](https://ko.wikipedia.org/wiki/MAZE).
+> This article is converted from Wikipedia: [MAZE☆폭렬시공](https://ko.wikipedia.org/wiki/MAZE☆폭렬시공).
 
 
 《**MAZE☆폭렬시공**》(, Maze the Megaburst Space)은 [메카](https://ko.wikipedia.org/wiki/메카_\(장르\) "wikilink") 테마에 기반한 판타지 [라이트 노벨](../Page/라이트_노벨.md "wikilink") 시리즈이다. [애니메](https://ko.wikipedia.org/wiki/애니메 "wikilink") 버전에 적용되기도 했는데, 처음에는 [OVA](https://ko.wikipedia.org/wiki/OVA "wikilink")로 출시되었고 그 뒤 장편 TV 시리즈로 출시되었으며, 끝으로는 속편 영화가 등장하게 되었다. OVA와 텔레비전 시리즈 버전은 북아메리카에서는 [센트럴 파크 미디어에](https://ko.wikipedia.org/wiki/센트럴_파크_미디어 "wikilink") 라이선스되었으며, DVD는 Software Sculptors 레이블을 통해 출시되었다. TV 시리즈는 [컴캐스트](../Page/컴캐스트.md "wikilink")의 Anime Selects On Demand 채널을 통해 여러 번 방영되었다. 만화는 북아메리카에서 출시되지 않았다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FIFA  ](https://ko.wikipedia.org/wiki/FIFA__).
+> This article is converted from Wikipedia: [FIFA 인터내셔널 사커](https://ko.wikipedia.org/wiki/FIFA_인터내셔널_사커).
 
 
 《**FIFA 인터내셔널 사커**》(FIFA International Soccer)는 EA 캐나다의 Extended Play Productions 팀이 개발하고 일렉트로닉 아츠가 배급한 1993년 스포츠 비디오 게임이다. [축구](../Page/축구.md "wikilink") 스포츠를 기반으로 하는 이 게임은 플레이어가 축구팀을 컨트롤할 수 있다. 이 게임은 [세가 제네시스/메가 드라이브](../Page/메가_드라이브.md "wikilink") 콘솔용으로 1993년 12월에 출시되었으며 1994년에 다른 수많은 시스템으로 포팅되었다.

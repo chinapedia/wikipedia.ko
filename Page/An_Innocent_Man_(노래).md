@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [An Innocent Man \(\)](https://ko.wikipedia.org/wiki/An_Innocent_Man_\(\)).
+> This article is converted from Wikipedia: [An Innocent Man \(노래\)](https://ko.wikipedia.org/wiki/An_Innocent_Man_\(노래\)).
 
 
 〈**An Innocent Man**〉은 1983년 발매된 [빌리 조엘의](../Page/빌리_조엘.md "wikilink") 노래이며 그의 음반 《[An Innocent Man](../Page/An_Innocent_Man.md "wikilink")》의 세 번째 싱글이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [1999  CONMEBOL](https://ko.wikipedia.org/wiki/1999__CONMEBOL).
+> This article is converted from Wikipedia: [1999년 코파 CONMEBOL](https://ko.wikipedia.org/wiki/1999년_코파_CONMEBOL).
 
 
 **1999년 코파 CONMEBOL**(1999 Copa CONMEBOL)은 [코파 CONMEBOL의](../Page/코파_CONMEBOL.md "wikilink") 8번째 시즌이자 마지막 시즌이다. [아르헨티나](../Page/아르헨티나.md "wikilink")의 [타예레스가](../Page/CA_타예레스.md "wikilink") 결승전에서 [브라질](../Page/브라질.md "wikilink")의 [센트루 스포르치부 알라고아누를](../Page/센트루_스포르치부_알라고아누.md "wikilink") 누르고 우승을 차지했다.

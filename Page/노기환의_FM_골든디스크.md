@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ FM ](https://ko.wikipedia.org/wiki/_FM_).
+> This article is converted from Wikipedia: [노기환의 FM 골든디스크](https://ko.wikipedia.org/wiki/노기환의_FM_골든디스크).
 
 
 **노기환의 FM 골든디스크**는 [원주MBC FM4U](../Page/원주문화방송.md "wikilink"), [춘천MBC FM4U](../Page/춘천문화방송.md "wikilink"), [MBC강원영동 FM4U](../Page/MBC강원영동.md "wikilink")(원주 FM 98.9㎒, 춘천 FM 94.5㎒, 인제 FM 98.3㎒, 강릉 FM 94.3㎒, 양양 FM 90.7㎒, 삼척 FM 99.9㎒, 태백 FM 98.1㎒)에서 매일 오전 11시부터 낮 12시까지 노기환이 진행하고 있는 강원도 전 지역의 팝 음악 전문 라디오 프로그램이다.

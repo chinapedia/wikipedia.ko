@@ -32,7 +32,7 @@
 ## 더 보기
 
   - 1962년 [쿠바 미사일 위기](../Page/쿠바_미사일_위기.md "wikilink")
-  - [R-14](https://ko.wikipedia.org/wiki/R-14 "wikilink")
+  - [R-14](../Page/R-14.md "wikilink")
   - [퍼싱 II](../Page/퍼싱_II.md "wikilink")
 
 [분류:소련의 미사일](https://ko.wikipedia.org/wiki/분류:소련의_미사일 "wikilink")

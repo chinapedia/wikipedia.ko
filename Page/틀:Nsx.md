@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Nsx](https://ko.wikipedia.org/wiki/:Nsx).
+> This article is converted from Wikipedia: [틀:Nsx](https://ko.wikipedia.org/wiki/틀:Nsx).
 
 
 <includeonly>{{\#if:||*}}{{\#if:}}}|{{\#if:|\[\[|}}} ({{\#if:||\~}}*' pc**)}}|{{\#if:|\[\[|}}} ({{\#if:||\~}}**{{\#if:|**{{\#if:|<span style="margin-left:0.3em;"></span>|<span style="margin-left:0.3em;margin-right:0.15em">±</span>}}**}} {{\#if:|ly|pc}}''')}}}}{{\#if:|

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [OST \(\)](https://ko.wikipedia.org/wiki/OST_\(\)).
+> This article is converted from Wikipedia: [OST \(우주망원경\)](https://ko.wikipedia.org/wiki/OST_\(우주망원경\)).
 
 
 **OST**는 [NASA](https://ko.wikipedia.org/wiki/NASA "wikilink")가 2016년부터 설계를 시작한 적외선 우주망원경이다.\[1\] 목적은 적외선으로 [우리은하](../Page/우리은하.md "wikilink") 관측, [적외선](../Page/적외선.md "wikilink")으로 넓은 우주 관측, [항성 형성과정](../Page/항성_형성.md "wikilink") 등을 밝혀내는 것이 목적이다.\[2\] 현재 [플래그쉽 프로그램에](https://ko.wikipedia.org/wiki/플래그쉽_프로그램 "wikilink") 편입되어 연구가 진행되고 있으며,\[3\] [GSFC](https://ko.wikipedia.org/wiki/GSFC "wikilink")의 연구원들이 연구를 진행하고 있다.\[4\]

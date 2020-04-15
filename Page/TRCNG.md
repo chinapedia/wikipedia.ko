@@ -124,7 +124,7 @@
 
   - [2017년](../Page/2017년.md "wikilink") [10월 17일](../Page/10월_17일.md "wikilink") \~ [2018년](../Page/2018년.md "wikilink") [5월 8일](../Page/5월_8일.md "wikilink") : [더 쇼](https://ko.wikipedia.org/wiki/더_쇼 "wikilink") MC - 호현
 
-## 수상
+## 수상 경력
 
 ## 비고
 

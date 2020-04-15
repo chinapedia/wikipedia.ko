@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TT \(\)](https://ko.wikipedia.org/wiki/TT_\(\)).
+> This article is converted from Wikipedia: [TT \(노래\)](https://ko.wikipedia.org/wiki/TT_\(노래\)).
 
 
 “**TT**”(티티)는 대한민국의 걸 그룹 [트와이스](https://ko.wikipedia.org/wiki/트와이스 "wikilink")의 노래이다. [TWICEcoaster : LANE 1의](../Page/TWICEcoaster_:_LANE_1.md "wikilink") 타이틀 곡이며, 2016년 10월 24일 공개되었다. [Sam Lewis가](../Page/Sam_Lewis.md "wikilink") 작사, [블랙아이드필승](../Page/블랙아이드필승.md "wikilink")의 라도가 작곡했다. 제목 "TT"는 우는 모습의 이모티콘을 표현한 것이다.

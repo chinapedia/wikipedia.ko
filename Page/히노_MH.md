@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ MH](https://ko.wikipedia.org/wiki/_MH).
+> This article is converted from Wikipedia: [히노 MH](https://ko.wikipedia.org/wiki/히노_MH).
 
 
 **히노 MH**(, )는 [일본](../Page/일본.md "wikilink") [히노 자동차가](../Page/히노_자동차.md "wikilink") 만든 [소방차](../Page/소방차.md "wikilink")로 [1991년](../Page/1991년.md "wikilink")부터 생산에 들어갔다.

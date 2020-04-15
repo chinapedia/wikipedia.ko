@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [1 TV   ](https://ko.wikipedia.org/wiki/1_TV___).
+> This article is converted from Wikipedia: [1회 TV 바둑 아시아 선수권대회](https://ko.wikipedia.org/wiki/1회_TV_바둑_아시아_선수권대회).
 
 
 **1회 TV 바둑 아시아 선수권대회**는 [대한민국](../Page/대한민국.md "wikilink"), [중국](../Page/중국.md "wikilink"), [일본](../Page/일본.md "wikilink")의 속기전 상위 입상자가 참가한 바둑 기전이다. 결승에서는 [일본](../Page/일본.md "wikilink")의 [다케미야 마사키](../Page/다케미야_마사키.md "wikilink") 九단이 [고바야시 사토루](../Page/고바야시_사토루.md "wikilink") 九단을 꺾고 최초로 첫 우승했다.
@@ -19,7 +19,7 @@
 
   - [일본](../Page/일본.md "wikilink") : [다케미야 마사키](../Page/다케미야_마사키.md "wikilink")([NHK배](https://ko.wikipedia.org/wiki/NHK배 "wikilink") 우승자), [고바야시 사토루](../Page/고바야시_사토루.md "wikilink")([NHK배](https://ko.wikipedia.org/wiki/NHK배 "wikilink") 준우승자)
   - [대한민국](../Page/대한민국.md "wikilink") : [서능욱](../Page/서능욱.md "wikilink")([조훈현](../Page/조훈현.md "wikilink") [7기 KBS 바둑왕전](../Page/7기_KBS_바둑왕전.md "wikilink") 우승자의 대타 출전), [김희중](https://ko.wikipedia.org/wiki/김희중_\(바둑_기사\) "wikilink")(7기 KBS 바둑왕전 준우승자)
-  - [중국](../Page/중국.md "wikilink") : [마샤오춘](../Page/마샤오춘.md "wikilink")([CCTV배](https://ko.wikipedia.org/wiki/중신은행배 "wikilink") 우승자), [녜웨이핑](https://ko.wikipedia.org/wiki/녜웨이핑 "wikilink")([CCTV배](https://ko.wikipedia.org/wiki/중신은행배 "wikilink") 준우승자)
+  - [중국](../Page/중국.md "wikilink") : [마샤오춘](../Page/마샤오춘.md "wikilink")([CCTV배](https://ko.wikipedia.org/wiki/중신은행배 "wikilink") 우승자), [녜웨이핑](../Page/녜웨이핑.md "wikilink")([CCTV배](https://ko.wikipedia.org/wiki/중신은행배 "wikilink") 준우승자)
 
 ## 대진표
 
@@ -48,7 +48,7 @@
 <tr class="even">
 <td><p>1회전 2국</p></td>
 <td><p>8월 12일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/녜웨이핑" title="wikilink">녜웨이핑</a> 九단</p></td>
+<td><p><a href="../Page/녜웨이핑.md" title="wikilink">녜웨이핑</a> 九단</p></td>
 <td><p><a href="../Page/서능욱.md" title="wikilink">서능욱</a> 九단</p></td>
 <td><p>277수 흑 5집반승</p></td>
 <td></td>

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ CRH6](https://ko.wikipedia.org/wiki/_CRH6).
+> This article is converted from Wikipedia: [중국고속철도 CRH6](https://ko.wikipedia.org/wiki/중국고속철도_CRH6).
 
 
 **중국고속철도 CRH6형**() [중화인민공화국 철도부에서](../Page/중화인민공화국_철도부.md "wikilink") 운영하는 [고속열차](https://ko.wikipedia.org/wiki/고속열차 "wikilink")로 [중화인민공화국](../Page/중화인민공화국.md "wikilink")의 [상하이 지하철을](../Page/상하이_지하철.md "wikilink") 제조한 [CRRC 난징 시팡에서](https://ko.wikipedia.org/wiki/CRRC_난징_시팡 "wikilink") 개발한 고속철도 차량이다. [중국고속철도 CRH1](../Page/중국고속철도_CRH1.md "wikilink") 모델을 기반으로 개발되었다.\[1\]

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [EXOPLANET 4 - The EyXiOn -](https://ko.wikipedia.org/wiki/EXOPLANET_4_-_The_EyXiOn_-).
+> This article is converted from Wikipedia: [EXOPLANET 4 - The EℓyXiOn -](https://ko.wikipedia.org/wiki/EXOPLANET_4_-_The_EℓyXiOn_-).
 
 
 《**EXOPLANET \#4 - The EℓyXiOn -**》은 대한민국의 음악 그룹 [EXO](../Page/EXO.md "wikilink")의 네 번째 [콘서트 투어이다](https://ko.wikipedia.org/wiki/콘서트_투어 "wikilink"). 공연 타이틀인 'The EℓyXiOn'은 선택받은 자들만이 갈 수 있는 낙원을 의미하며, 이상향을 찾아가는 EXO의 스토리와 컨셉으로 담았다.

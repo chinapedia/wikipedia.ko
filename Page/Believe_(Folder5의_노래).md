@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Believe \(Folder5 \)](https://ko.wikipedia.org/wiki/Believe_\(Folder5_\)).
+> This article is converted from Wikipedia: [Believe \(Folder5의 노래\)](https://ko.wikipedia.org/wiki/Believe_\(Folder5의_노래\)).
 
 
 〈**Believe**〉(빌리브, )는 [Folder5](https://ko.wikipedia.org/wiki/Folder5 "wikilink")의 세 번째 싱글이다. [2000년](../Page/2000년.md "wikilink") [11월 29일에](../Page/11월_29일.md "wikilink") [avex tune에서](https://ko.wikipedia.org/wiki/에이벡스_튠 "wikilink") 발매됐다.

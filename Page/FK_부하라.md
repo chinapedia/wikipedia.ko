@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FK ](https://ko.wikipedia.org/wiki/FK_).
+> This article is converted from Wikipedia: [FK 부하라](https://ko.wikipedia.org/wiki/FK_부하라).
 
 
 **FK 부하라**()는 [우즈베키스탄](../Page/우즈베키스탄.md "wikilink") [부하라](../Page/부하라.md "wikilink")의 축구 클럽이다.

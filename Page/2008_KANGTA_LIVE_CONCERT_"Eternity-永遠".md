@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [2008 KANGTA LIVE CONCERT Eternity-](https://ko.wikipedia.org/wiki/2008_KANGTA_LIVE_CONCERT_Eternity-).
+> This article is converted from Wikipedia: [2008 KANGTA LIVE CONCERT Eternity-永遠](https://ko.wikipedia.org/wiki/2008_KANGTA_LIVE_CONCERT_Eternity-永遠).
 
 
 **2008 KANGTA LIVE CONCERT "Eternity-永遠"**는 그룹 [H.O.T.](../Page/H.O.T..md "wikilink") 출신 [강타](../Page/강타.md "wikilink")의 두 번째 [콘서트 투어이다](https://ko.wikipedia.org/wiki/콘서트_투어 "wikilink").

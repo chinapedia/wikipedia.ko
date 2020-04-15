@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  vs.   THE MOVIE](https://ko.wikipedia.org/wiki/__vs.___THE_MOVIE).
+> This article is converted from Wikipedia: [해적전대 고카이저 vs. 우주형사 갸반 THE MOVIE](https://ko.wikipedia.org/wiki/해적전대_고카이저_vs._우주형사_갸반_THE_MOVIE).
 
 
 《**고카이저 VS 우주형사 갸반 THE MOVIE**》 ()은 《[슈퍼 전대 시리즈](../Page/슈퍼_전대_시리즈.md "wikilink")》의 제35번째를 기념하여, [토에이](https://ko.wikipedia.org/wiki/토에이 "wikilink")와 이시노모리 프로덕션이 제작한 영화이다. 《[슈퍼 전대 시리즈](../Page/슈퍼_전대_시리즈.md "wikilink")》 35년째 작품과 《[메탈 히어로 시리즈](../Page/메탈_히어로_시리즈.md "wikilink")》의 30주년 기념작이다.

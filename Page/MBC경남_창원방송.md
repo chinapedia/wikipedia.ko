@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [MBC ](https://ko.wikipedia.org/wiki/MBC_).
+> This article is converted from Wikipedia: [MBC경남 창원방송](https://ko.wikipedia.org/wiki/MBC경남_창원방송).
 
 
 **MBC경남 창원방송**(MBC慶南 昌原放送)은 중부경남 지역을 가시청권으로 하는 대한민국의 지상파방송국이다. [1969년](../Page/1969년.md "wikilink")에 **경남방송**(약칭 KBC)으로 개국하였으며, [1971년](../Page/1971년.md "wikilink")에 **마산문화방송**으로 사명을 변경하였고, [2010년](../Page/2010년.md "wikilink") [7월 1일에](../Page/7월_1일.md "wikilink") 통합 [창원시](../Page/창원시.md "wikilink")의 출범과 함께 **창원문화방송**으로 사명을 변경하였다. [2011년](../Page/2011년.md "wikilink") [9월 1일에](../Page/9월_1일.md "wikilink") 서부경남 지역을 방송권역으로 하던 [구 진주문화방송과](https://ko.wikipedia.org/wiki/MBC경남_진주본부 "wikilink") 인수 합병하여 [MBC경남](../Page/MBC경남.md "wikilink")이 출범함에 따라 MBC경남 창원방송이 되었다. 호출부호는 **HLAP**이다.
@@ -17,7 +17,7 @@
   - [1971년](../Page/1971년.md "wikilink") [9월 28일](../Page/9월_28일.md "wikilink") : **마산문화방송(주)**로 상호 변경
   - [1972년](../Page/1972년.md "wikilink") [6월 30일](../Page/6월_30일.md "wikilink") : 경남텔레비전방송주식회사(경남문화TV) 설립 등기
   - 1972년 [9월 20일](../Page/9월_20일.md "wikilink") : 경남문화TV 시험방송 개시\[1\]
-  - 1972년 [10월 5일](../Page/10월_5일.md "wikilink") : 경남문화TV가 [문화방송](../Page/문화방송.md "wikilink")의 7번째 제휴 방송국으로 개국. ([창원시](../Page/창원시.md "wikilink") [불모산](https://ko.wikipedia.org/wiki/불모산 "wikilink")에서 호출부호 HLSO, 영상출력 2.5㎾, 음성출력 5㎾, VHF 13번)\[2\]
+  - 1972년 [10월 5일](../Page/10월_5일.md "wikilink") : 경남문화TV가 [문화방송](../Page/문화방송.md "wikilink")의 7번째 제휴 방송국으로 개국. ([창원시](../Page/창원시.md "wikilink") [불모산](../Page/불모산.md "wikilink")에서 호출부호 HLSO, 영상출력 2.5㎾, 음성출력 5㎾, VHF 13번)\[2\]
   - [1979년](../Page/1979년.md "wikilink") [9월 22일](../Page/9월_22일.md "wikilink") : [일본](../Page/일본.md "wikilink") [KRY 야마구치방송과](https://ko.wikipedia.org/wiki/야마구치방송 "wikilink") 자매 결연
 
 ### 1980년대
@@ -242,7 +242,7 @@
   - 이다솔(2015\~2018, 현 [안동MBC](https://ko.wikipedia.org/wiki/안동MBC "wikilink") 아나운서)
   - 남두용(1999, 현 MBC경남 기획부장)
   - 김지윤(2015\~2018, 전 [MBC충북](../Page/MBC충북.md "wikilink") 아나운서 현 롯데홈쇼핑 쇼호스트)
-  - 김세희(2016\~2019, 현 [KBS 포항방송국](https://ko.wikipedia.org/wiki/KBS_포항방송국 "wikilink") 아나운서)
+  - 김세희(2016\~2019, 현 [CJB 청주방송](https://ko.wikipedia.org/wiki/CJB_청주방송 "wikilink") 아나운서)
   - 김용석(2016\~2019, 현 [원주MBC](https://ko.wikipedia.org/wiki/원주MBC "wikilink") 아나운서)
 
 ## 기상캐스터

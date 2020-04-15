@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ V](https://ko.wikipedia.org/wiki/_V).
+> This article is converted from Wikipedia: [삼국지 V](https://ko.wikipedia.org/wiki/삼국지_V).
 
 
 《**삼국지 V**》(三國志V)는 [코에이](../Page/코에이.md "wikilink")의 [삼국지](../Page/삼국지_\(비디오_게임_시리즈\).md "wikilink") 시리즈 중 다섯 번째 게임이다. 이 게임은 [MS-DOS](../Page/MS-DOS.md "wikilink"), [세가 새턴](../Page/세가_새턴.md "wikilink"), [플레이스테이션](https://ko.wikipedia.org/wiki/플레이스테이션 "wikilink"), [플레이스테이션 포터블용으로](../Page/플레이스테이션_포터블.md "wikilink") 출시되었다. 1996년에 새턴용으로 첫 출시되었다.

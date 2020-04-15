@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Let It Bleed \(\)](https://ko.wikipedia.org/wiki/Let_It_Bleed_\(\)).
+> This article is converted from Wikipedia: [Let It Bleed \(노래\)](https://ko.wikipedia.org/wiki/Let_It_Bleed_\(노래\)).
 
 
 〈**Let It Bleed**〉는 [영국](../Page/영국.md "wikilink")의 록 밴드 [롤링 스톤스의](../Page/롤링_스톤스.md "wikilink") 곡이다. 이 곡은 [믹 재거와](../Page/믹_재거.md "wikilink") [키스 리처즈가](../Page/키스_리처즈.md "wikilink") 작곡했으며 1969년 [같은 이름의 음반에](../Page/Let_It_Bleed.md "wikilink") 실렸다. 그 곡은 1970년 2월에 일본에서 싱글로 발매되었다.

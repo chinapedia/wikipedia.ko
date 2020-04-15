@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [MIDI  ](https://ko.wikipedia.org/wiki/MIDI__).
+> This article is converted from Wikipedia: [MIDI 표준 비교](https://ko.wikipedia.org/wiki/MIDI_표준_비교).
 
 
 아래의 표는 여러 변수를 통해 다양한 [MIDI](../Page/MIDI.md "wikilink") 강화 표준의 비교를 요약한것이다.

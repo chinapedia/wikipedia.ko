@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [MBC   2](https://ko.wikipedia.org/wiki/MBC___2).
+> This article is converted from Wikipedia: [제주MBC 즐거운 오후 2시](https://ko.wikipedia.org/wiki/제주MBC_즐거운_오후_2시).
 
 
-**제주MBC 즐거운 오후 2시**는 [제주MBC 표준FM](../Page/제주문화방송.md "wikilink")(AM 747㎑, 표준FM 제주시 97.9㎒, 서귀포시 97.1㎒, 제주 서부 106.5㎒)에서 [2000년](../Page/2000년.md "wikilink") [12월 13일부터](../Page/12월_13일.md "wikilink") 현재까지 평일 오후 2시 15분부터 오후 4시까지 방송되는 제주 전 지역의 라디오 프로그램이다.
+**제주MBC 즐거운 오후 2시**는 [제주MBC 표준FM](../Page/제주문화방송.md "wikilink")(AM 747㎑, 표준FM 제주시 97.9㎒, 서귀포시 97.1㎒, 제주 서부 106.5㎒)에서 [2000년](../Page/2000년.md "wikilink") [12월 13일부터](../Page/12월_13일.md "wikilink") 현재까지 평일 오후 2시 5분부터 오후 4시까지 방송되는 제주 전 지역의 라디오 프로그램이다.
 
 ## 기획의도
 

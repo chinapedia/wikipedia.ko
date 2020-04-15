@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  X](https://ko.wikipedia.org/wiki/__X).
+> This article is converted from Wikipedia: [오펠 크로스랜드 X](https://ko.wikipedia.org/wiki/오펠_크로스랜드_X).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:2017_Opel_Crossland_X_front_\(red\)_1_crop.jpg "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:Opel_crossland_x_back.jpg "wikilink")

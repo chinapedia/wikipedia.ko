@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [NK ](https://ko.wikipedia.org/wiki/NK_).
+> This article is converted from Wikipedia: [NK 시로키브리예그](https://ko.wikipedia.org/wiki/NK_시로키브리예그).
 
 
 **NK 시로키브리예그**(Nogometni klub Široki Brijeg)는 [시로키브리예그](https://ko.wikipedia.org/wiki/시로키브리예그 "wikilink")를 연고로 하는 [보스니아 헤르체고비나의](../Page/보스니아_헤르체고비나.md "wikilink") [축구](../Page/축구.md "wikilink") 클럽이다. 현재는 [보스니아 헤르체고비나 프리미어리그에](../Page/보스니아_헤르체고비나_프리미어리그.md "wikilink") 참가하고 있다.

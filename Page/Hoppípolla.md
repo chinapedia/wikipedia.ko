@@ -1,13 +1,7 @@
-> This article is converted from Wikipedia: [Hopppolla](https://ko.wikipedia.org/wiki/Hopppolla).
+> This article is converted from Wikipedia: [Hoppípolla](https://ko.wikipedia.org/wiki/Hoppípolla).
 
 
-우리 영어 쌤의 최애 밴드 그룹임
-
-최애는 아일?ㅋ
-
-어쨌든 웃김
-
-ㅇㅁㅇ...
+2019년 JTBC 슈퍼밴드에서 결성된 4인조 음악그룹으로, 슈퍼밴드의 초대 우승팀이다.
 
 ## 트랙리스트
 

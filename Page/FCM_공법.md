@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FCM ](https://ko.wikipedia.org/wiki/FCM_).
+> This article is converted from Wikipedia: [FCM 공법](https://ko.wikipedia.org/wiki/FCM_공법).
 
 
 [thumb](https://ko.wikipedia.org/wiki/파일:20160508_093445_FCM공법.jpg "wikilink") **FCM 공법**(Free Cantilever Method)은 [교량](../Page/교량.md "wikilink")의 시공 방식 중 하나로 교량 하부에 [동바리](https://ko.wikipedia.org/wiki/동바리 "wikilink")를 사용하지 않고 특수한 가설장비를 이용하여 각 교각으로부터 좌우의 평형을 맞추면서 세그먼트를 순차적으로 접합하는 방식으로 경간을 구성하면서 인접한 교각에서 만들어져 온 세그먼트와 접합하는 방식의 시공법이다. [대한민국](../Page/대한민국.md "wikilink")에서는 주로 [고속도로](../Page/고속도로.md "wikilink")의 교량들이 이 방식에 의해서 건설되는 경우가 많다.

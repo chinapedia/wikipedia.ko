@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [T- ](https://ko.wikipedia.org/wiki/T-_).
+> This article is converted from Wikipedia: [T-본 워커](https://ko.wikipedia.org/wiki/T-본_워커).
 
 
 **T-본 워커**(T-Bone Walker, [1910년](../Page/1910년.md "wikilink") [5월 28일](../Page/5월_28일.md "wikilink") \~ [1975년](../Page/1975년.md "wikilink") [3월 16일](../Page/3월_16일.md "wikilink"))는 [블루스](../Page/블루스.md "wikilink")에서 최초로 전기 기타를 사용한 선구자이며 현대 블루스의 중요한 인물 가운데 하나이다. [레스 하이트의](https://ko.wikipedia.org/wiki/레스_하이트 "wikilink") 빅밴드와 함께 활동하였고 이후 자신의 밴드를 조직하여 1940년대와 1950년대에 걸쳐 블루스 음악을 노래하고 많은 녹음을 하였다. 블루스에서 최초로 전기기타를 사용한 선구자이며 현대 블루스의 중요한 인물 가운데 하나이다. 1987년 [로큰롤 명예의 전당](../Page/로큰롤_명예의_전당.md "wikilink") '로큰롤에 영향을 미친 자' 부문에 올랐다.

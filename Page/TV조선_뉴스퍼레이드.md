@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TV ](https://ko.wikipedia.org/wiki/TV_).
+> This article is converted from Wikipedia: [TV조선 뉴스퍼레이드](https://ko.wikipedia.org/wiki/TV조선_뉴스퍼레이드).
 
 
 《**TV조선 뉴스퍼레이드**》는 [대한민국](../Page/대한민국.md "wikilink") [종합편성채널](https://ko.wikipedia.org/wiki/종합편성채널 "wikilink")인 [TV조선](../Page/TV조선.md "wikilink")에서 평일 아침 7시 30분에 방송되는 [TV조선의 뉴스 프로그램이다](../Page/TV조선의_뉴스_프로그램.md "wikilink").

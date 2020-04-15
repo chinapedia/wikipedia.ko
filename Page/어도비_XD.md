@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ XD](https://ko.wikipedia.org/wiki/_XD).
+> This article is converted from Wikipedia: [어도비 XD](https://ko.wikipedia.org/wiki/어도비_XD).
 
 
 **어도비 XD**(Adobe XD)는 [어도비 시스템즈가](https://ko.wikipedia.org/wiki/어도비_시스템즈 "wikilink") 개발, 배급한 [사용자 체험](https://ko.wikipedia.org/wiki/사용자_체험 "wikilink") 디자인 소프트웨어이다. [벡터 디자인](https://ko.wikipedia.org/wiki/벡터_그래픽스_편집기 "wikilink") 및 [와이어프레임](https://ko.wikipedia.org/wiki/웹사이트_와이어프레임 "wikilink"), 그리고 클릭을 통한 단순한 상호작용 프로토타입 제작을 지원한다.\[1\]

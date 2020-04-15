@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ASL  ](https://ko.wikipedia.org/wiki/ASL__).
+> This article is converted from Wikipedia: [ASL 항공 스페인](https://ko.wikipedia.org/wiki/ASL_항공_스페인).
 
 
 **ASL 항공 스페인**()은 [스페인](../Page/스페인.md "wikilink")의 화물 항공사로 [마드리드 바라하스 국제공항이](https://ko.wikipedia.org/wiki/마드리드_바라하스_국제공항 "wikilink") [허브 공항으로](../Page/허브_공항.md "wikilink") [1987년](../Page/1987년.md "wikilink")에 **판에어 스페인**()로 설립되었고 주로 화물 항공편을 제공한다.

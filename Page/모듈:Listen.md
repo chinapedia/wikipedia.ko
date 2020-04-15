@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Listen](https://ko.wikipedia.org/wiki/:Listen).
+> This article is converted from Wikipedia: [모듈:Listen](https://ko.wikipedia.org/wiki/모듈:Listen).
 
 
 \-- 이 모듈은 를 구현합니다.

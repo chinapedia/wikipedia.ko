@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Video game series reviews](https://ko.wikipedia.org/wiki/:Video_game_series_reviews).
+> This article is converted from Wikipedia: [모듈:Video game series reviews](https://ko.wikipedia.org/wiki/모듈:Video_game_series_reviews).
 
 
 local getArgs = require('Module:Arguments').getArgs local yesno = require('Module:Yesno') local Vgwd = require('Module:Video game wikidata')
@@ -261,7 +261,7 @@ function p._main(frame, args)
 `       ret = ret .. "! scope=\"col\" | " .. (args.gr_title or  "`[`게임랭킹스`](https://ko.wikipedia.org/wiki/게임랭킹스 "wikilink")`") .. " \n"`
 `   end`
 `   if columns['mc'] then`
-`       ret = ret .. "! scope=\"col\" | " .. (args.mc_title or  "`[`메타크리틱`](https://ko.wikipedia.org/wiki/메타크리틱 "wikilink")`") .. " \n"`
+`       ret = ret .. "! scope=\"col\" | " .. (args.mc_title or  "`[`메타크리틱`](../Page/메타크리틱.md "wikilink")`") .. " \n"`
 `   end`
 `   `
 `   -- Print the reviews`

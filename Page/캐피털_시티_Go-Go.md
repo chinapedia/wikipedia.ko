@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  Go-Go](https://ko.wikipedia.org/wiki/__Go-Go).
+> This article is converted from Wikipedia: [캐피털 시티 Go-Go](https://ko.wikipedia.org/wiki/캐피털_시티_Go-Go).
 
 
 **캐피털 시티 Go-Go**(Capital City Go-Go)는 [미국](../Page/미국.md "wikilink") [워싱턴 D.C.를](../Page/워싱턴_D.C..md "wikilink") 연고지로 하는 [NBA G 리그](../Page/NBA_G_리그.md "wikilink") 동부 콘퍼런스 사우스이스트 디비전 소속 프로 농구 팀이다.

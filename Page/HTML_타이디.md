@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [HTML ](https://ko.wikipedia.org/wiki/HTML_).
+> This article is converted from Wikipedia: [HTML 타이디](https://ko.wikipedia.org/wiki/HTML_타이디).
 
 
 **HTML 타이디**(HTML Tidy)는 유효하지 않은 [HTML](../Page/HTML.md "wikilink"), [웹 접근성 오류를](../Page/웹_접근성.md "wikilink") 고치고 출력되는 마크업의 레이아웃과 [들여쓰기 스타일을](../Page/들여쓰기_방식.md "wikilink") 개선하기 위한 [콘솔 응용 프로그램이다](https://ko.wikipedia.org/wiki/콘솔_응용_프로그램 "wikilink"). 프로그래머들이 [컴퓨터 응용 프로그램들에](../Page/응용_소프트웨어.md "wikilink") HTML 타이디의 기능을 추가할 수 있는 크로스 플랫폼 [라이브러리도](../Page/라이브러리_\(컴퓨팅\).md "wikilink") 존재한다.

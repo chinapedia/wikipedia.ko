@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ G. ](https://ko.wikipedia.org/wiki/_G._).
+> This article is converted from Wikipedia: [마르셀 G. 크롬베즈](https://ko.wikipedia.org/wiki/마르셀_G._크롬베즈).
 
 
 **마르셀 구스타브 크롬베즈**(Marcel Gustave Crombez, [1900년](../Page/1900년.md "wikilink") [10월 3일](../Page/10월_3일.md "wikilink") \~ [1982년](../Page/1982년.md "wikilink") [8월 17일](../Page/8월_17일.md "wikilink"))는 미국의 군인이다. 육군 준장으로 예편했다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TV  ](https://ko.wikipedia.org/wiki/TV__).
+> This article is converted from Wikipedia: [TV로 보는 원작동화](https://ko.wikipedia.org/wiki/TV로_보는_원작동화).
 
 
 **TV로 보는 원작동화**는 [2002년](../Page/2002년.md "wikilink")부터 [2003년](../Page/2003년.md "wikilink")까지 [EBS TV](https://ko.wikipedia.org/wiki/EBS_TV "wikilink")(현 [EBS 1TV](../Page/EBS_1TV.md "wikilink"))에서 방영되었던 어린이 드라마다. 2011년 4월 부활했으나 4개월만에 종영되었다. 주로 어린이 창작동화를 바탕으로 각색한 작품이다.
@@ -37,7 +37,7 @@
 <td><p>2</p></td>
 <td><p>3월 8일</p></td>
 <td><p>초대받은 아이들</p></td>
-<td><p>이풍운, 윤종환, 김종민</p></td>
+<td><p><a href="../Page/송채환.md" title="wikilink">송채환</a>, 이풍운, 윤종환, 김종민</p></td>
 <td><p>연미정</p></td>
 <td><p>이창용</p></td>
 <td><p>황선미</p></td>

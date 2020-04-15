@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ \(SBS FM\)](https://ko.wikipedia.org/wiki/_\(SBS_FM\)).
+> This article is converted from Wikipedia: [뉴스브리핑 \(SBS 러브FM\)](https://ko.wikipedia.org/wiki/뉴스브리핑_\(SBS_러브FM\)).
 
 
 《**고현준의 뉴스브리핑**》은 [SBS 러브FM에서](../Page/SBS_러브FM.md "wikilink") 평일 아침 6시 5분부터 아침 7시까지 방송되는 [SBS 러브FM의](../Page/SBS_러브FM.md "wikilink") 시사 프로그램이다.
@@ -33,6 +33,6 @@
 
   - [오늘아침 1라디오](https://ko.wikipedia.org/wiki/오늘아침_1라디오 "wikilink")
   - [아침 & 뉴스 류수민입니다](../Page/아침_&_뉴스.md "wikilink")
-  - [굿모닝뉴스 이강민입니다](https://ko.wikipedia.org/wiki/굿모닝뉴스_이강민입니다 "wikilink")
+  - [굿모닝뉴스 이강민입니다](../Page/굿모닝뉴스_이강민입니다.md "wikilink")
 
 [분류:SBS 러브FM의 라디오 프로그램](https://ko.wikipedia.org/wiki/분류:SBS_러브FM의_라디오_프로그램 "wikilink")

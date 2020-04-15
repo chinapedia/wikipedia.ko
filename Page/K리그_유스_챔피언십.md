@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [K  ](https://ko.wikipedia.org/wiki/K__).
+> This article is converted from Wikipedia: [K리그 유스 챔피언십](https://ko.wikipedia.org/wiki/K리그_유스_챔피언십).
 
 
 K리그 유스 챔피언십은 K리그 각 구단 유스팀들이 참가하는 축구 대회이다.

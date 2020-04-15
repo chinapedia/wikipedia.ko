@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [3 Mlily  ](https://ko.wikipedia.org/wiki/3_Mlily__).
+> This article is converted from Wikipedia: [3회 Mlily 몽백합배 세계바둑오픈](https://ko.wikipedia.org/wiki/3회_Mlily_몽백합배_세계바둑오픈).
 
 
 **3회 Mlily 몽백합배 세계바둑오픈**(第三届MLILY梦百合杯世界围棋公开赛)은 [2017년](../Page/2017년.md "wikilink") [3월 26일](../Page/3월_26일.md "wikilink") \~ [3월 30일](../Page/3월_30일.md "wikilink") 통합예선을 시작으로 [6월 19일](../Page/6월_19일.md "wikilink") 64강, [6월 21일](../Page/6월_21일.md "wikilink") 32강, [8월 24일](../Page/8월_24일.md "wikilink") 16강, [8월 26일](../Page/8월_26일.md "wikilink") 8강, [11월 17일](../Page/11월_17일.md "wikilink") \~ [11월 20일](../Page/11월_20일.md "wikilink") 준결승, [12월 30일](../Page/12월_30일.md "wikilink") \~ [2018년](../Page/2018년.md "wikilink") [1월 2일](../Page/1월_2일.md "wikilink") 결승전을 치렀다. 결승에서는 [대한민국](../Page/대한민국.md "wikilink")의 [박정환이](../Page/박정환_\(바둑_기사\).md "wikilink") [박영훈을](../Page/박영훈_\(바둑_기사\).md "wikilink") 3대 0으로 꺾고 우승했다.

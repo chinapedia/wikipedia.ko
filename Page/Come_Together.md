@@ -44,7 +44,7 @@
 
 ### 마이클 잭슨
 
-[마이클 잭슨은](https://ko.wikipedia.org/wiki/마이클_잭슨 "wikilink") 원래 1988년 영화 《[문워커](https://ko.wikipedia.org/wiki/문워커 "wikilink")》로 녹음된 이 버전을 1995년 음반 《[HIStory](https://ko.wikipedia.org/wiki/HIStory "wikilink")》와 1992년 싱글 〈[Remember the Time](https://ko.wikipedia.org/wiki/Remember_the_Time "wikilink")〉의 B 사이드로 발매했다. 이 곡은 1996년 그의 곡 〈[D.S.](https://ko.wikipedia.org/wiki/D.S. "wikilink")〉와 함께 [HIStory World Tour의](../Page/HIStory_World_Tour.md "wikilink") 공연에서도 주연한 곡이다.
+[마이클 잭슨은](https://ko.wikipedia.org/wiki/마이클_잭슨 "wikilink") 원래 1988년 영화 《[문워커](../Page/문워커.md "wikilink")》로 녹음된 이 버전을 1995년 음반 《[HIStory](https://ko.wikipedia.org/wiki/HIStory "wikilink")》와 1992년 싱글 〈[Remember the Time](https://ko.wikipedia.org/wiki/Remember_the_Time "wikilink")〉의 B 사이드로 발매했다. 이 곡은 1996년 그의 곡 〈[D.S.](https://ko.wikipedia.org/wiki/D.S. "wikilink")〉와 함께 [HIStory World Tour의](../Page/HIStory_World_Tour.md "wikilink") 공연에서도 주연한 곡이다.
 
 ### 다른 버전
 

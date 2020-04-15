@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ B. ](https://ko.wikipedia.org/wiki/_B._).
+> This article is converted from Wikipedia: [윌리엄 B. 킨](https://ko.wikipedia.org/wiki/윌리엄_B._킨).
 
 
 **윌리엄 벤자민 킨**(William Benjamin Kean, [1897년](../Page/1897년.md "wikilink") [7월 9일](../Page/7월_9일.md "wikilink") \~ [1981년](../Page/1981년.md "wikilink") [3월 10일](../Page/3월_10일.md "wikilink"))은 미국의 군인이다. 육군 중장으로 퇴역했다.

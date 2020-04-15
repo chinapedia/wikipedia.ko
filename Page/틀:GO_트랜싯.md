@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:GO ](https://ko.wikipedia.org/wiki/:GO_).
+> This article is converted from Wikipedia: [틀:GO 트랜싯](https://ko.wikipedia.org/wiki/틀:GO_트랜싯).
 
 
 <noinclude>

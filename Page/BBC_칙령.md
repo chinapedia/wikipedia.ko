@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [BBC ](https://ko.wikipedia.org/wiki/BBC_).
+> This article is converted from Wikipedia: [BBC 칙령](https://ko.wikipedia.org/wiki/BBC_칙령).
 
 
 [thumbnail](https://ko.wikipedia.org/wiki/파일:BBC_Charter.jpg "wikilink") **BBC 칙령** (BBC Charter)은 [영국방송공사](../Page/영국방송공사.md "wikilink") (BBC)의 설립 근거가 되는 왕실 칙허이다. 방송의 목적과 권한, 의무, 조직, 정부 지원사항 등 BBC의 총괄적인 세부사항을 규정하고 있다. [1927년](../Page/1927년.md "wikilink") BBC가 출범될 당시 처음 발부되었으며 10년마다 갱신된다.\[1\] 가장 최근에는 [2017년](../Page/2017년.md "wikilink") [1월 1일에](../Page/1월_1일.md "wikilink") 개정되었으며, 유효기한은 오는 [2027년](../Page/2027년.md "wikilink") [12월 31일까지이다](../Page/12월_31일.md "wikilink").\[2\]\[3\]

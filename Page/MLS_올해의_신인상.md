@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [MLS  ](https://ko.wikipedia.org/wiki/MLS__).
+> This article is converted from Wikipedia: [MLS 올해의 신인상](https://ko.wikipedia.org/wiki/MLS_올해의_신인상).
 
 
 **MLS 올해의 신인상**()은 [메이저 리그 사커](../Page/메이저_리그_사커.md "wikilink") 선수에게 주어지는 MLS 첫 시즌에서 뛰어난 활약을 보인 선수에게 주어지는 상이다.

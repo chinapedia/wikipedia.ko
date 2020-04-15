@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [MLD  ](https://ko.wikipedia.org/wiki/MLD__).
+> This article is converted from Wikipedia: [MLD 엔터테인먼트의 음반](https://ko.wikipedia.org/wiki/MLD_엔터테인먼트의_음반).
 
 
 이 문서는 [MLD 엔터테인먼트에서](https://ko.wikipedia.org/wiki/MLD_엔터테인먼트 "wikilink") 발매한 음반 목록이다.
@@ -32,5 +32,5 @@
 
 1.  [전소미](https://ko.wikipedia.org/wiki/소미 "wikilink"),[김세정](https://ko.wikipedia.org/wiki/세정 "wikilink"),[최유정](../Page/최유정_\(가수\).md "wikilink"),[청하](../Page/청하_\(가수\).md "wikilink"),[강미나](../Page/미나_\(1999년\).md "wikilink") 외 90명도 앨범 참여.
 2.  최초의 OST 앨범.
-3.  [빅톤의](../Page/빅톤_\(음악_그룹\).md "wikilink") 두 멤버 [한승우](https://ko.wikipedia.org/wiki/한승우_\(가수\) "wikilink"),[최병찬](https://ko.wikipedia.org/wiki/최병찬 "wikilink"),[유니크의](../Page/유니크_\(음악_그룹\).md "wikilink") 멤버 [조승연](https://ko.wikipedia.org/wiki/조승연 "wikilink"),[인투잇](../Page/인투잇.md "wikilink")의 멤버 [성현](../Page/인투잇.md "wikilink") 외 96명도 앨범 참여.
+3.  [빅톤의](../Page/빅톤_\(음악_그룹\).md "wikilink") 두 멤버 [한승우](../Page/한승우_\(가수\).md "wikilink"),[최병찬](https://ko.wikipedia.org/wiki/최병찬 "wikilink"),[유니크의](../Page/유니크_\(음악_그룹\).md "wikilink") 멤버 [조승연](https://ko.wikipedia.org/wiki/조승연 "wikilink"),[인투잇](../Page/인투잇.md "wikilink")의 멤버 [성현](../Page/인투잇.md "wikilink") 외 96명도 앨범 참여.
 4.  [Erik](https://ko.wikipedia.org/wiki/Erik "wikilink")도 앨범 참여.

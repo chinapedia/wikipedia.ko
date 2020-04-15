@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Raw ](https://ko.wikipedia.org/wiki/Raw_).
+> This article is converted from Wikipedia: [Raw 소켓](https://ko.wikipedia.org/wiki/Raw_소켓).
 
 
 **raw 소켓**은 어느 특정한 프로토콜 용의 [전송 계층](../Page/전송_계층.md "wikilink") 포매팅 없이 [인터넷 프로토콜](../Page/인터넷_프로토콜.md "wikilink") [패킷](https://ko.wikipedia.org/wiki/패킷 "wikilink")을 직접적으로 주고 받게 해주는 [인터넷 소켓이다](https://ko.wikipedia.org/wiki/인터넷_소켓 "wikilink").

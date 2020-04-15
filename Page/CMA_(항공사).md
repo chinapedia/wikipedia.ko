@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [CMA \(\)](https://ko.wikipedia.org/wiki/CMA_\(\)).
+> This article is converted from Wikipedia: [CMA \(항공사\)](https://ko.wikipedia.org/wiki/CMA_\(항공사\)).
 
 
 [thumb](https://ko.wikipedia.org/wiki/파일:Compagnie_Messageries_Aeriennes.jpg "wikilink") **CMA**(Compagnie des messageries aériennes)는 20세기 초창기 항공산업을 선두한 대표적인 [프랑스](../Page/프랑스.md "wikilink")의 [항공사](https://ko.wikipedia.org/wiki/항공사 "wikilink")로, 오늘날 [에어프랑스](https://ko.wikipedia.org/wiki/에어프랑스 "wikilink")의 전신인 회사 중 하나이다. 1919년에 설립되어 1923년까지 운영되었으며 이후 [Grands Express Aériens](https://ko.wikipedia.org/wiki/:en:Grands_Express_Aériens "wikilink") 항공사와 합병되어 [Air Union을](https://ko.wikipedia.org/wiki/:en:Air_Union "wikilink") 설립하였다.

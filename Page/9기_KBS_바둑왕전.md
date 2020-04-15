@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [9 KBS ](https://ko.wikipedia.org/wiki/9_KBS_).
+> This article is converted from Wikipedia: [9기 KBS 바둑왕전](https://ko.wikipedia.org/wiki/9기_KBS_바둑왕전).
 
 
 **9기 KBS 바둑왕전**은 TV 속기전이 참가한 국내 바둑 기전이다. 결승에서는 [조훈현](../Page/조훈현.md "wikilink") 九단이 [서능욱](../Page/서능욱.md "wikilink") 七단을 2대 1로 꺾고 통산 6회 우승을 차지했다.

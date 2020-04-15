@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [EBS ](https://ko.wikipedia.org/wiki/EBS_).
+> This article is converted from Wikipedia: [EBS 교육저널](https://ko.wikipedia.org/wiki/EBS_교육저널).
 
 
 《**EBS 교육저널**》은 [EBS 1TV에서](../Page/EBS_1TV.md "wikilink") 매주 [금요일](../Page/금요일.md "wikilink") 밤 11시 35분에 방송했던 [교양](../Page/교양.md "wikilink") 프로그램이다. 2019년 3월 22일, 23회차 방송을 끝으로 막을 내렸다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TV ](https://ko.wikipedia.org/wiki/TV_).
+> This article is converted from Wikipedia: [TV 생활법정](https://ko.wikipedia.org/wiki/TV_생활법정).
 
 
 《**TV 생활법정**》은 대한민국의 지상파 방송사 [KBS에서](../Page/한국방송공사.md "wikilink") 제작한 시사교양 프로그램이며 첫 회부터 1TV에서 토요일 오전 10시에 편성됐지만 [2003년](../Page/2003년.md "wikilink") 가을개편부터 채널을 2TV로 옮겨 화요일 오후 7시에 편성됐는데 [2004년](../Page/2004년.md "wikilink") 가을개편 때 <시추에이션 콩트 방방>(월\~목 6:50) [무한지대 큐](../Page/무한지대_큐.md "wikilink")(월\~목 7:20)의 신설에 따라\[1\] 막을 내려야 했다.

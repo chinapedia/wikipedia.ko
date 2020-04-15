@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [UD ](https://ko.wikipedia.org/wiki/UD_).
+> This article is converted from Wikipedia: [UD트럭 카제트](https://ko.wikipedia.org/wiki/UD트럭_카제트).
 
 
 **UD트럭 카제트**(, )는 [일본](../Page/일본.md "wikilink") [UD 트럭사가](https://ko.wikipedia.org/wiki/UD_트럭 "wikilink") 생산하는 소형 트럭으로 [2014년](../Page/2014년.md "wikilink")에 출시되었다.

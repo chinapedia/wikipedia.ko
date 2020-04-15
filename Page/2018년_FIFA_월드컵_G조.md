@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [2018 FIFA  G](https://ko.wikipedia.org/wiki/2018_FIFA__G).
+> This article is converted from Wikipedia: [2018년 FIFA 월드컵 G조](https://ko.wikipedia.org/wiki/2018년_FIFA_월드컵_G조).
 
 
 **[2018년 FIFA 월드컵](https://ko.wikipedia.org/wiki/2018년_FIFA_월드컵 "wikilink") G조**는 2018년 6월 18일부터 2018년 6월 28일까지 일정이 진행되었다. G조는 [벨기에](https://ko.wikipedia.org/wiki/벨기에_축구_국가대표팀 "wikilink"), [파나마](../Page/파나마_축구_국가대표팀.md "wikilink"), [튀니지](../Page/튀니지_축구_국가대표팀.md "wikilink"), [잉글랜드로](../Page/잉글랜드_축구_국가대표팀.md "wikilink") 구성되었다. 4개의 팀들 중 상위 2개의 팀이 16강전에 진출한다.
@@ -258,7 +258,7 @@
 제르송 두스 산투스 (<a href="https://ko.wikipedia.org/wiki/앙골라_축구_연맹" title="wikilink">앙골라</a>)<br />
 자켈레 시웰라 (<a href="https://ko.wikipedia.org/wiki/남아프리카_공화국_축구_협회" title="wikilink">남아프리카 공화국</a>)<br />
 <strong>대기심:</strong><br />
-<a href="https://ko.wikipedia.org/wiki/사토_류지" title="wikilink">사토 류지</a> (<a href="https://ko.wikipedia.org/wiki/일본_축구_협회" title="wikilink">일본</a>)<br />
+<a href="../Page/사토_류지.md" title="wikilink">사토 류지</a> (<a href="https://ko.wikipedia.org/wiki/일본_축구_협회" title="wikilink">일본</a>)<br />
 <strong>후보 대기심:</strong><br />
 <a href="https://ko.wikipedia.org/wiki/사가라_도루" title="wikilink">사가라 도루</a> (<a href="https://ko.wikipedia.org/wiki/일본_축구_협회" title="wikilink">일본</a>)<br />
 <strong>비디오 판독심:</strong><br />

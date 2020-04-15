@@ -11,7 +11,7 @@
 
 해당 영상의 원본 영상에서 나오는 대사는 다음과 같다.
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:Abenteuer-im-Land-der-Dinosaurier.jpg "wikilink") yee
+[섬네일](https://ko.wikipedia.org/wiki/파일:Abenteuer-im-Land-der-Dinosaurier.jpg "wikilink")
 
 ## 영향
 

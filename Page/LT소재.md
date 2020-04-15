@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [LT](https://ko.wikipedia.org/wiki/LT).
+> This article is converted from Wikipedia: [LT소재](https://ko.wikipedia.org/wiki/LT소재).
 
 
 **LT소재 주식회사**()는 [희성그룹](https://ko.wikipedia.org/wiki/희성그룹 "wikilink") 계열의 전자부품 접합재료 제조 기업이다.

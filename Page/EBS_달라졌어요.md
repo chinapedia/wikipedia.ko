@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [EBS ](https://ko.wikipedia.org/wiki/EBS_).
+> This article is converted from Wikipedia: [EBS 달라졌어요](https://ko.wikipedia.org/wiki/EBS_달라졌어요).
 
 
 《**달라졌어요**》는 [월요일](../Page/월요일.md "wikilink") 밤 10시 45분부터 11시 35분까지 [EBS 1TV에서](../Page/EBS_1TV.md "wikilink") 방영했던 [교양](../Page/교양.md "wikilink") 프로그램이다.

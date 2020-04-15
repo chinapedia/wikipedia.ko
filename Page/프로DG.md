@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [DG](https://ko.wikipedia.org/wiki/DG).
+> This article is converted from Wikipedia: [프로DG](https://ko.wikipedia.org/wiki/프로DG).
 
 
 **프로DG**(ProDG) 또는 정식 당명으로 **친독일어 공동체**(親獨逸語 共同體, )는 [독일어](../Page/독일어.md "wikilink") 사용 지역인 [벨기에 독일어 공동체](../Page/벨기에_독일어_공동체.md "wikilink") 지역을 기반으로 하는 [벨기에](../Page/벨기에.md "wikilink")의 [중도주의](../Page/중도주의.md "wikilink") 계열 정당이다. [2001년](../Page/2001년.md "wikilink")에 창당되었다.

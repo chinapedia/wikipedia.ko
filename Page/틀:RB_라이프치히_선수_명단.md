@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:RB   ](https://ko.wikipedia.org/wiki/:RB___).
+> This article is converted from Wikipedia: [틀:RB 라이프치히 선수 명단](https://ko.wikipedia.org/wiki/틀:RB_라이프치히_선수_명단).
 
 
 <onlyinclude></onlyinclude>

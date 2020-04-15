@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ TNT  FC](https://ko.wikipedia.org/wiki/_TNT__FC).
+> This article is converted from Wikipedia: [서울 TNT 핏투게더 FC](https://ko.wikipedia.org/wiki/서울_TNT_핏투게더_FC).
 
 
 **서울 TNT 핏투게더 FC**()는 [2000년](../Page/2000년.md "wikilink")에 창단한 [대한민국](../Page/대한민국.md "wikilink")의 축구 선수 재기 전문 독립 축구단이다.

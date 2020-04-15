@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [X](https://ko.wikipedia.org/wiki/X).
+> This article is converted from Wikipedia: [X구소년단](https://ko.wikipedia.org/wiki/X구소년단).
 
 
 **X구소년단**(X玖少年团, X玖 (X구), XNINE)은 샤오잔, 천쩌시, 구자청, 우자청, 펑추웨, 궈쯔판, 자오레이, 샤즈광, 옌쉬자로 이루어진 [중화인민공화국](../Page/중화인민공화국.md "wikilink") 남성 아이돌로 2015년 11월 말부터 2016년 2월 초에 방영된 생방소 쇼 X Fire 燃烧吧少(X 파이어 타올라라 젊음)을 통해 형성된 EeMedia의 9인조 C-POP 장르의 소년 그룹이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [UC ](https://ko.wikipedia.org/wiki/UC_).
+> This article is converted from Wikipedia: [UC 브라우저](https://ko.wikipedia.org/wiki/UC_브라우저).
 
 
 **UC 브라우저**(UC Browser)는 [중국의](../Page/중화인민공화국.md "wikilink") 모바일 인터넷 기업 UC웹이 개발한 [모바일 브라우저의](https://ko.wikipedia.org/wiki/모바일_브라우저 "wikilink") 하나로, 중국의 [알리바바 그룹이](../Page/알리바바_그룹.md "wikilink") 소유하고 있으며 블링크 기반이다. [J2ME](../Page/자바_플랫폼,_마이크로_에디션.md "wikilink") 전용 [애플리케이션으로](../Page/API.md "wikilink") 2004년 4월 처음 시작하였으나 현재는 [안드로이드](../Page/안드로이드_\(운영_체제\).md "wikilink"), [블랙베리 (스마트폰)](../Page/블랙베리_\(스마트폰\).md "wikilink"), [IOS](https://ko.wikipedia.org/wiki/IOS "wikilink"), [자바 ME](../Page/자바_플랫폼,_마이크로_에디션.md "wikilink"), [심비안 OS](../Page/심비안_OS.md "wikilink"), [윈도우 폰](../Page/윈도우_폰.md "wikilink"), [마이크로소프트 윈도우를](../Page/마이크로소프트_윈도우.md "wikilink") 포함한 수많은 플랫폼에서 실행이 가능하다.\[1\]\[2\]\[3\]\[4\]\[5\]\[6\]

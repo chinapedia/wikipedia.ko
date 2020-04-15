@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KBS   ](https://ko.wikipedia.org/wiki/KBS___).
+> This article is converted from Wikipedia: [KBS 스페셜의 에피소드 목록](https://ko.wikipedia.org/wiki/KBS_스페셜의_에피소드_목록).
 
 
 아래는 [KBS 1TV의](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink") 다큐멘터리 프로그램 《**[KBS 스페셜](../Page/KBS_스페셜.md "wikilink")**》의 **에피소드 목록**이다.

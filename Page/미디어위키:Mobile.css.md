@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Mobile.css](https://ko.wikipedia.org/wiki/:Mobile.css).
+> This article is converted from Wikipedia: [미디어위키:Mobile.css](https://ko.wikipedia.org/wiki/미디어위키:Mobile.css).
 
 
 /\* 이 CSS 설정은 모바일 사이트를 사용하는 사용자에게 적용됩니다 \*/

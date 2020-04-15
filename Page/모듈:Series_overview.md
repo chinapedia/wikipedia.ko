@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Series overview](https://ko.wikipedia.org/wiki/:Series_overview).
+> This article is converted from Wikipedia: [모듈:Series overview](https://ko.wikipedia.org/wiki/모듈:Series_overview).
 
 
 \-- This module implements .

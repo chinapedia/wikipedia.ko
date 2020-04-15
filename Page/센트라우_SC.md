@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ SC](https://ko.wikipedia.org/wiki/_SC).
+> This article is converted from Wikipedia: [센트라우 SC](https://ko.wikipedia.org/wiki/센트라우_SC).
 
 
 **센트라우 스포르트 클루브**()는 **센트라우**라고도 불리며, [1919년](../Page/1919년.md "wikilink")에 창단한 [브라질](../Page/브라질.md "wikilink") [페르남부쿠주](https://ko.wikipedia.org/wiki/페르남부쿠주 "wikilink") [카루아루](https://ko.wikipedia.org/wiki/카루아루 "wikilink")를 연고로 하는 [축구](../Page/축구.md "wikilink")팀이다. [2018년](../Page/2018년.md "wikilink") 현재 전국 4부 리그 [캄페오나투 브라질레이루 세리이 D에](../Page/캄페오나투_브라질레이루_세리이_D.md "wikilink") 참가하고 있다.

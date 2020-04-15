@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [34 KBS ](https://ko.wikipedia.org/wiki/34_KBS_).
+> This article is converted from Wikipedia: [34기 KBS 바둑왕전](https://ko.wikipedia.org/wiki/34기_KBS_바둑왕전).
 
 
 **34기 KBS 바둑왕전**은 TV 속기전이 참가한 국내 바둑 기전이다. 결승에서는 [박정환](https://ko.wikipedia.org/wiki/박정환 "wikilink") 九단이 [이세돌](../Page/이세돌.md "wikilink") 九단을 2대 1로 꺾고 역전 우승하며 바둑왕전 통산 4회 우승을 달성했다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [NEW \(AAA \)](https://ko.wikipedia.org/wiki/NEW_\(AAA_\)).
+> This article is converted from Wikipedia: [NEW \(AAA의 노래\)](https://ko.wikipedia.org/wiki/NEW_\(AAA의_노래\)).
 
 
 〈**NEW**〉()는 [AAA의](../Page/AAA_\(음악_그룹\).md "wikilink") 쉰한 번째 [싱글이다](../Page/싱글_\(음악\).md "wikilink"). [2016년](../Page/2016년.md "wikilink") [6월 8일에](../Page/6월_8일.md "wikilink") [에이벡스 트랙스에서](https://ko.wikipedia.org/wiki/에이벡스_트랙스 "wikilink") 발매됐다.

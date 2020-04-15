@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Top \(\)](https://ko.wikipedia.org/wiki/Top_\(\)).
+> This article is converted from Wikipedia: [Top \(소프트웨어\)](https://ko.wikipedia.org/wiki/Top_\(소프트웨어\)).
 
 
 **top**(table of processes)는 CPU와 메모리 이용에 관한 정보를 표시하는 수많은 [유닉스 계열](../Page/유닉스_계열.md "wikilink") 운영 체제에서 볼 수 있는 [작업 관리자](https://ko.wikipedia.org/wiki/작업_관리자 "wikilink") 프로그램이다. 사용자 지정 기준에 따라 선택된 실행 중인 프로세스의 목록을 순서대로 보여주며 주기적으로 업데이트한다. 기본 순서는 [CPU](../Page/중앙_처리_장치.md "wikilink") 사용률이며 오직 최상위 CPU 소비 항목들만이 표시된다. top는 얼마나 많이 처리량과 메모리가 사용되는지, 또 실행 중인 프로세스에 관한 기타 정보도 보여준다. 일부 버전의 top는 컬럼 선택, 정렬 방식과 같은 디스플레이 사용자 지정을 허용한다.

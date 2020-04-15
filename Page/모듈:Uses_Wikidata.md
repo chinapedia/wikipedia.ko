@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Uses Wikidata](https://ko.wikipedia.org/wiki/:Uses_Wikidata).
+> This article is converted from Wikipedia: [모듈:Uses Wikidata](https://ko.wikipedia.org/wiki/모듈:Uses_Wikidata).
 
 
 local p = {}

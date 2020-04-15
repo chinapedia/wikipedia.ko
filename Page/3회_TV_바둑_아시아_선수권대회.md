@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [3 TV   ](https://ko.wikipedia.org/wiki/3_TV___).
+> This article is converted from Wikipedia: [3회 TV 바둑 아시아 선수권대회](https://ko.wikipedia.org/wiki/3회_TV_바둑_아시아_선수권대회).
 
 
 **5회 TV 바둑 아시아 선수권대회**는 [대한민국](../Page/대한민국.md "wikilink"), [중국](../Page/중국.md "wikilink"), [일본](../Page/일본.md "wikilink")의 속기전 상위 입상자가 참가한 바둑 기전이다. 결승에서는 [일본](../Page/일본.md "wikilink")의 [다케미야 마사키가](../Page/다케미야_마사키.md "wikilink") [중국](../Page/중국.md "wikilink")의 [차오다위안](https://ko.wikipedia.org/wiki/차오다위안 "wikilink")을 꺾고 우승하여 3연패를 달성했다.

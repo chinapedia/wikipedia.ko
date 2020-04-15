@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ C. ](https://ko.wikipedia.org/wiki/_C._).
+> This article is converted from Wikipedia: [리차드 C. 갬블](https://ko.wikipedia.org/wiki/리차드_C._갬블).
 
 
 **리차드 갬블**(Richard C. Gamble)은 미국의 [개혁신학자](../Page/개혁신학자.md "wikilink")이며 교수이다. 그는 현재 청교도적인 개혁신학교(Puritan Reformed Theological Seminary)에서 교수로 있다. 입니다.  그는 미국의[ 리폼드 신학교](../Page/리폼드_신학교.md "wikilink"), [칼빈신학교](../Page/칼빈_신학교.md "wikilink") 및 [필라델피아](../Page/필라델피아.md "wikilink")에 있는 [웨스트민스터신학교](../Page/웨스트민스터_신학교.md "wikilink") 에서 교수를 하였다.\[1\] 그는 [장 칼뱅의](https://ko.wikipedia.org/wiki/장_칼뱅 "wikilink") [해석학](https://ko.wikipedia.org/wiki/해석학 "wikilink") 방법으로 [간결성과 용이성](../Page/간결성과_용이성.md "wikilink")(Brevitas et Facilitas)을 비롯한 여러 논문과 책을 출판하였다. [세계칼빈학회](../Page/세계칼빈학회.md "wikilink") 회장을 역임하였다.

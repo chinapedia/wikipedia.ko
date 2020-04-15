@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  \(ECHL\)](https://ko.wikipedia.org/wiki/__\(ECHL\)).
+> This article is converted from Wikipedia: [메인 매리너스 \(ECHL\)](https://ko.wikipedia.org/wiki/메인_매리너스_\(ECHL\)).
 
 
 **메인 매리너스**(Maine Mariners)는 [미국](../Page/미국.md "wikilink") [메인주](../Page/메인주.md "wikilink") [포틀랜드를](../Page/포틀랜드_\(메인주\).md "wikilink") 연고지로 하는 2018\~2019시즌부터 [ECHL](../Page/ECHL.md "wikilink")에 참가할 예정이다.

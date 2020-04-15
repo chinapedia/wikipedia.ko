@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:SEPTA](https://ko.wikipedia.org/wiki/:SEPTA).
+> This article is converted from Wikipedia: [틀:SEPTA](https://ko.wikipedia.org/wiki/틀:SEPTA).
 
 
 <noinclude>  [분류:미국의 철도 노선 틀](https://ko.wikipedia.org/wiki/분류:미국의_철도_노선_틀 "wikilink") [분류:버스에 관한 둘러보기 틀](https://ko.wikipedia.org/wiki/분류:버스에_관한_둘러보기_틀 "wikilink") </noinclude>

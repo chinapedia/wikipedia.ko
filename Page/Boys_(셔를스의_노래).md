@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Boys \( \)](https://ko.wikipedia.org/wiki/Boys_\(_\)).
+> This article is converted from Wikipedia: [Boys \(셔를스의 노래\)](https://ko.wikipedia.org/wiki/Boys_\(셔를스의_노래\)).
 
 
 〈**Boys**〉는 루더 딕슨과 웨스 파렐이 쓰고 원래 [셔를스](../Page/셔를스.md "wikilink")가 녹음해 싱글 〈[Will You Love Me Tomorrow](https://ko.wikipedia.org/wiki/Will_You_Love_Me_Tomorrow "wikilink")〉의 B면에 수록해 1960년 11월 발표했다. 그 뒤 영국의 록 밴드 [비틀즈](../Page/비틀즈.md "wikilink")가 자신들의 첫 정규 음반 《[Please Please Me](https://ko.wikipedia.org/wiki/Please_Please_Me "wikilink")》 (1963)에 커버하여 수록했다.

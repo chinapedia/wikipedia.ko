@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TV  ](https://ko.wikipedia.org/wiki/TV__).
+> This article is converted from Wikipedia: [TV교과서 학교야 놀자](https://ko.wikipedia.org/wiki/TV교과서_학교야_놀자).
 
 
 《**TV교과서 학교야 놀자**》는 [KBS 2TV의](../Page/KBS_2TV.md "wikilink") 방영하는 교양 전문 프로그램이며 [2003년](../Page/2003년.md "wikilink") [11월 3일부터](../Page/11월_3일.md "wikilink") [2004년](../Page/2004년.md "wikilink") [4월 26일까지](../Page/4월_26일.md "wikilink") 방영되었다. 한편, 이 프로그램은 교과서에서 우리가 미처 발견하지 못한 새로운 지식과 정보를 발견하자는 취지로 만는 동시에 학생과 교사 중심이었으나 신구 세대를 대변하는 연예인과 국어강사 [서한샘](../Page/서한샘.md "wikilink") 등 연예인급 유명인을 패널로 등장시켰다는 지적을\[1\] 샀으며 결국 1년을 넘기지 못했다.

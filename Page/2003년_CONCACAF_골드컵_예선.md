@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [2003 CONCACAF  ](https://ko.wikipedia.org/wiki/2003_CONCACAF__).
+> This article is converted from Wikipedia: [2003년 CONCACAF 골드컵 예선](https://ko.wikipedia.org/wiki/2003년_CONCACAF_골드컵_예선).
 
 
 이 문서는 **[2003년 CONCACAF 골드컵](../Page/2003년_CONCACAF_골드컵.md "wikilink") 예선**에 관한 문서이다.

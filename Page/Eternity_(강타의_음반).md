@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Eternity \( \)](https://ko.wikipedia.org/wiki/Eternity_\(_\)).
+> This article is converted from Wikipedia: [Eternity \(강타의 음반\)](https://ko.wikipedia.org/wiki/Eternity_\(강타의_음반\)).
 
 
 ***Eternity - 永遠 (영원)***은 [대한민국](../Page/대한민국.md "wikilink")의 가수 [강타](../Page/강타.md "wikilink")의 첫 번째 [EP 음반이다](../Page/익스텐디드_플레이.md "wikilink").

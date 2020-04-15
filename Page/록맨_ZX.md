@@ -1,9 +1,9 @@
-> This article is converted from Wikipedia: [ ZX](https://ko.wikipedia.org/wiki/_ZX).
+> This article is converted from Wikipedia: [록맨 ZX](https://ko.wikipedia.org/wiki/록맨_ZX).
 
 
 《**록맨 ZX**》()는 [인티 크리에이츠가](../Page/인티_크리에이츠.md "wikilink") 개발하고 [캡콤](../Page/캡콤.md "wikilink")이 배급한 [닌텐도 DS](../Page/닌텐도_DS.md "wikilink") 비디오 게임이다. [록맨](../Page/록맨.md "wikilink") 프렌차이즈에서 6번째로 출범한 시리즈로, 2006년 7월 6일 일본서 처음 출시됐다. 북미 및 유럽 지역에선 《**메가맨 ZX**》()라는 제목으로 발매됐다.
 
-[록맨 제로의](https://ko.wikipedia.org/wiki/록맨_제로 "wikilink") 사건 종결 후 약 200년 후, 인간과 로봇이 공존하는 세계를 무대로 한다. 후속작 [록맨 ZX 어드벤트가](https://ko.wikipedia.org/wiki/록맨_ZX_어드벤트 "wikilink") 2007년에 발매됐다.
+[록맨 제로의](../Page/록맨_제로.md "wikilink") 사건 종결 후 약 200년 후, 인간과 로봇이 공존하는 세계를 무대로 한다. 후속작 [록맨 ZX 어드벤트가](https://ko.wikipedia.org/wiki/록맨_ZX_어드벤트 "wikilink") 2007년에 발매됐다.
 
 ## 평가
 

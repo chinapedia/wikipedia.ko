@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [   day](https://ko.wikipedia.org/wiki/___day).
+> This article is converted from Wikipedia: [코미디 버라이어티 웃는 day](https://ko.wikipedia.org/wiki/코미디_버라이어티_웃는_day).
 
 
 **코미디 버라이어티 웃는 day**는 [2005년](../Page/2005년.md "wikilink") [10월 26일부터](../Page/10월_26일.md "wikilink") [2006년](../Page/2006년.md "wikilink") [2월 2일까지](../Page/2월_2일.md "wikilink") [문화방송에서](../Page/MBC_TV.md "wikilink") 방송되었던 코미디 프로그램이다. 이 프로그램을 통해 줄곧 MC로 활동해 온 [이경규](../Page/이경규.md "wikilink") [김국진](../Page/김국진.md "wikilink") 등이 복귀를 했으나\[1\] 암환자 패러디 논란 등으로 곤욕을 치뤘고 결국 4개월 만에 조기종영되는 수모를 당했다. 한편, 해당 프로그램이 신설되면서 [섹션TV 연예통신은](../Page/섹션TV_연예통신.md "wikilink") [2005년](../Page/2005년.md "wikilink") [10월 27일부터](../Page/10월_27일.md "wikilink") 목요일 밤 11시 5분으로 옮겨갔으나 이 과정에서 <웃는 Day> <섹션TV 연예통신> 두 프로그램의 시청률이 갈수록 하락하자 MBC는 [2005년](../Page/2005년.md "wikilink") [12월](../Page/12월.md "wikilink")부터 두 프로그램의 방송시간을 맞바꿨다\[2\].

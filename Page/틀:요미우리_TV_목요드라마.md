@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [: TV ](https://ko.wikipedia.org/wiki/:_TV_).
+> This article is converted from Wikipedia: [틀:요미우리 TV 목요드라마](https://ko.wikipedia.org/wiki/틀:요미우리_TV_목요드라마).
 
 
 <noinclude> </noinclude>

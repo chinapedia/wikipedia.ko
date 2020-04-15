@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [L\'Aliz](https://ko.wikipedia.org/wiki/L\'Aliz).
+> This article is converted from Wikipedia: [L\'Alizé](https://ko.wikipedia.org/wiki/L\'Alizé).
 
 
 "**L'Alizé**" ("무역풍")은 프랑스 가수 [알리제](https://ko.wikipedia.org/wiki/알리제 "wikilink")의 두번째 싱글이다. 2000년 12월에 발매되어서 "L'Alize"와 그 악기 버전이 포함되어 있다. 나중에는 4개의 리믹스를 포함한 2개의 한정판도 발매되었다. [프랑스](../Page/프랑스.md "wikilink")에서는 발매 당시에 큰 인기를 끌며 2주 동안 음악 차트 1위에 올라와 있었는데 [2000년](../Page/2000년.md "wikilink")의 마지막 1위 곡이자 [2001년](../Page/2001년.md "wikilink")의 첫 1위 곡이었다.

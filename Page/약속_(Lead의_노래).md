@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ \(Lead \)](https://ko.wikipedia.org/wiki/_\(Lead_\)).
+> This article is converted from Wikipedia: [약속 \(Lead의 노래\)](https://ko.wikipedia.org/wiki/약속_\(Lead의_노래\)).
 
 
 **約束** (약속)은 2015년 11월 25일에 발매 된 리드(Lead)의 26번째 싱글이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SD ](https://ko.wikipedia.org/wiki/SD_).
+> This article is converted from Wikipedia: [SD 주아제이렌시](https://ko.wikipedia.org/wiki/SD_주아제이렌시).
 
 
 **소시에다지 제스포르치바 주아제이렌시**()는 [2006년](../Page/2006년.md "wikilink")에 창단한 [브라질](../Page/브라질.md "wikilink") [바이아주](https://ko.wikipedia.org/wiki/바이아주 "wikilink") [주아제이루](https://ko.wikipedia.org/wiki/주아제이루 "wikilink")를 연고로 하는 [축구](../Page/축구.md "wikilink")팀이다. [2017년](../Page/2017년.md "wikilink") 현재 전국 3부 리그 [캄페오나투 브라질레이루 세리이 C와](../Page/캄페오나투_브라질레이루_세리이_C.md "wikilink") 바이아 주리그 [캄페오나투 바이아누에](https://ko.wikipedia.org/wiki/캄페오나투_바이아누 "wikilink") 참가하고 있다.

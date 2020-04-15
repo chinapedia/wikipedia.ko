@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:TemplatePar](https://ko.wikipedia.org/wiki/:TemplatePar).
+> This article is converted from Wikipedia: [모듈:TemplatePar](https://ko.wikipedia.org/wiki/모듈:TemplatePar).
 
 
 \--\[=\[ TemplatePar 2015-02-14 Template parameter utility
@@ -630,7 +630,7 @@ local function finalize( submit, options, frame )
 `               for i = 1, #cats do`
 `                   s = mw.text.trim( cats[ i ] )`
 `                   if #s > 0 then`
-`                       r = string.format( "%s", r, s )`
+`                       r = string.format( "%s ", r, s )`
 `                   end`
 `               end -- for i`
 `           end`
@@ -1377,5 +1377,3 @@ function p.TemplatePar()
 end -- .TemplatePar()
 
 return p
-
-[Category:%s](https://ko.wikipedia.org/wiki/Category:%s "wikilink")

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ VR](https://ko.wikipedia.org/wiki/_VR).
+> This article is converted from Wikipedia: [플레이스테이션 VR](https://ko.wikipedia.org/wiki/플레이스테이션_VR).
 
 
 **플레이스테이션 VR**(플레이스테이션 비알, PlayStation VR\[1\])은 [소니 인터랙티브 엔터테인먼트](../Page/소니_인터랙티브_엔터테인먼트.md "wikilink")(SIE)가 2016년 10월 13일에 출시한 [플레이스테이션 4나](../Page/플레이스테이션_4.md "wikilink") [플레이스테이션 5용](https://ko.wikipedia.org/wiki/플레이스테이션_5 "wikilink") [가상현실](../Page/가상현실.md "wikilink")(VR) 헤드셋([헤드 마운티드 디스플레이](../Page/헤드_마운티드_디스플레이.md "wikilink"))이다.\[2\]

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [DC ](https://ko.wikipedia.org/wiki/DC_).
+> This article is converted from Wikipedia: [DC 스트리트카](https://ko.wikipedia.org/wiki/DC_스트리트카).
 
 
 **DC 스트리트카**(DC Streetcar)는 [워싱턴 D.C.에서](../Page/워싱턴_D.C..md "wikilink") 운행되고 있는 [노면전차](../Page/노면전차.md "wikilink")망이다.  [H 스트리트](https://ko.wikipedia.org/wiki/H_스트리트 "wikilink")(H Street)와 [베닝 로드](https://ko.wikipedia.org/wiki/베닝_로드 "wikilink")(Benning Road) 간을 2.2 마일에 잇는 노선이다.

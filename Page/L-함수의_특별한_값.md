@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [L-  ](https://ko.wikipedia.org/wiki/L-__).
+> This article is converted from Wikipedia: [L-함수의 특별한 값](https://ko.wikipedia.org/wiki/L-함수의_특별한_값).
 
 
 수학에서 [L-함수](../Page/L-함수.md "wikilink")의 특별한 값은 [원주율](https://ko.wikipedia.org/wiki/원주율 "wikilink") \(\pi\)에 대한 라이프니츠 (Leibniz) 수식처럼 L-함수의 수식이 일반화하는 데 사용되는 [수 이론의](../Page/정수론.md "wikilink") 하위 필드이다.

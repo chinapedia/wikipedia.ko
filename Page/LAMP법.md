@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [LAMP](https://ko.wikipedia.org/wiki/LAMP).
+> This article is converted from Wikipedia: [LAMP법](https://ko.wikipedia.org/wiki/LAMP법).
 
 
 **LAMP법**(Loop-Mediated Isothermal Amplification의 줄임말)은 에이켄화학(栄研化学)이 개발\[1\]\[2\]한 유전자 증폭법이다. 표적유전자에서 6개의 영역을 선택하여 조합한 4개의 [프라이머](../Page/프라이머.md "wikilink")를 사용하여 사슬치환반응을 이용해 증폭시키는 방법이다.

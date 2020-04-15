@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ H. ](https://ko.wikipedia.org/wiki/_H._).
+> This article is converted from Wikipedia: [릴런드 H. 하트웰](https://ko.wikipedia.org/wiki/릴런드_H._하트웰).
 
 
 **릴런드 해리슨 하트웰**(, [1939년](../Page/1939년.md "wikilink") [10월 30일](../Page/10월_30일.md "wikilink") \~ )은 [미국](../Page/미국.md "wikilink")의 [생물학](../Page/생물학.md "wikilink")자이다. 2001년에 [세포 주기의](../Page/세포_주기.md "wikilink") 핵심 조절 인자를 발견한 공로로 [팀 헌트](../Page/팀_헌트.md "wikilink"), [폴 너스와](../Page/폴_너스.md "wikilink") 함께 [노벨 생리학·의학상을](../Page/노벨_생리학·의학상.md "wikilink") 수상했다.\[1\]

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ B. ](https://ko.wikipedia.org/wiki/_B._).
+> This article is converted from Wikipedia: [로버트 B. 매클러](https://ko.wikipedia.org/wiki/로버트_B._매클러).
 
 
 [소장](https://ko.wikipedia.org/wiki/소장_\(군사\) "wikilink") **로버트 베티 매클러** (1896년 9월 15일 – 1973년 9월 15일)는 [제1차 세계 대전](../Page/제1차_세계_대전.md "wikilink"), [제2차 세계 대전](../Page/제2차_세계_대전.md "wikilink"), [한국 전쟁에서](../Page/한국_전쟁.md "wikilink") 복무한 [미국 육군](../Page/미국_육군.md "wikilink") 장교이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [J. A. ](https://ko.wikipedia.org/wiki/J._A._).
+> This article is converted from Wikipedia: [J. A. 시저](https://ko.wikipedia.org/wiki/J._A._시저).
 
 
 **J. A. 시저**(J・A・シーザー, Julious Arnest Seazer, 1948-)는 [일본](../Page/일본.md "wikilink")의 [작곡가](https://ko.wikipedia.org/wiki/작곡가 "wikilink"), [작사가](https://ko.wikipedia.org/wiki/작사가 "wikilink"), 연출가이다. [미야자키현](../Page/미야자키현.md "wikilink")에서 태어나 [시즈오카현](../Page/시즈오카현.md "wikilink")에서 성장했다. 본명은 테라하라 타카아키(寺原孝明).

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Escape the ERA](https://ko.wikipedia.org/wiki/Escape_the_ERA).
+> This article is converted from Wikipedia: [악몽·Escape the ERA](https://ko.wikipedia.org/wiki/악몽·Escape_the_ERA).
 
 
 《**악몽·Escape the ERA**》(악몽·이스케이프 디 에라)는 대한민국의 걸 그룹 [드림캐쳐의](../Page/드림캐쳐_\(음악_그룹\).md "wikilink") 두 번째 [미니 음반이다](https://ko.wikipedia.org/wiki/미니_음반 "wikilink").

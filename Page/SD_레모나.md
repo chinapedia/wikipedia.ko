@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SD ](https://ko.wikipedia.org/wiki/SD_).
+> This article is converted from Wikipedia: [SD 레모나](https://ko.wikipedia.org/wiki/SD_레모나).
 
 
 **SD 레모나**(Sociedad Deportiva Lemona)는 [레모아](https://ko.wikipedia.org/wiki/레모아 "wikilink")를 연고로 하는 [스페인](../Page/스페인.md "wikilink")의 축구 클럽이었다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  FC](https://ko.wikipedia.org/wiki/__FC).
+> This article is converted from Wikipedia: [세레스 네그로스 FC](https://ko.wikipedia.org/wiki/세레스_네그로스_FC).
 
 
 **세레스 네그로스 풋볼 클럽**, 약칭 **세레스 풋볼 클럽**은 필리핀의 최고 리그인 [유나이티드 풋볼 리그 디비전 1에](https://ko.wikipedia.org/wiki/유나이티드_풋볼_리그_디비전_1 "wikilink") 소속되어 있고, [서네그로스 주](https://ko.wikipedia.org/wiki/서네그로스_주 "wikilink") [바콜로드](../Page/바콜로드.md "wikilink")에 위치한 축구단이다. 세레스 FC는 [서네그로스 주 축구 협회](https://ko.wikipedia.org/wiki/서네그로스_주_축구_협회 "wikilink") 구단 중 하나이고, 원래 구단명은 **세레스 라 살 풋볼 클럽**이었다.

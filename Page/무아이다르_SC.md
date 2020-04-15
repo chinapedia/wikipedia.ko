@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ SC](https://ko.wikipedia.org/wiki/_SC).
+> This article is converted from Wikipedia: [무아이다르 SC](https://ko.wikipedia.org/wiki/무아이다르_SC).
 
 
 **무아이다르 스포츠 클럽**(, )은 [1996년](../Page/1996년.md "wikilink")에 창단된 [카타르](../Page/카타르.md "wikilink") [무아이다르](https://ko.wikipedia.org/wiki/무아이다르 "wikilink")의 [축구](../Page/축구.md "wikilink") 구단이다.

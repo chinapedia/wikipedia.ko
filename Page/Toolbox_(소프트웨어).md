@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Toolbox \(\)](https://ko.wikipedia.org/wiki/Toolbox_\(\)).
+> This article is converted from Wikipedia: [Toolbox \(소프트웨어\)](https://ko.wikipedia.org/wiki/Toolbox_\(소프트웨어\)).
 
 
 **ToolboX**는 컴퓨터 프로그래밍을 학술 과목에 접목하여 비전공자들에게 소개하도록 고안된 [통합 개발 환경이다](../Page/통합_개발_환경.md "wikilink").\[1\]\[2\] 학생들이 문제를 해결할 때 노트북이나 블랙보드에서 수행되는 것과 마찬가지로, 컴퓨터 언어로 표현할 수 있는 일련의 계산 (예: [알고리즘](../Page/알고리즘.md "wikilink") 방식)을 수행한다는 전제를 기반으로 디자인되었다.

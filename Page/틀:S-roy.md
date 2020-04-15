@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:S-roy](https://ko.wikipedia.org/wiki/:S-roy).
+> This article is converted from Wikipedia: [틀:S-roy](https://ko.wikipedia.org/wiki/틀:S-roy).
 
 
 <includeonly>|- \! colspan="3" style="border-top: 5px solid \#65BCFF" | {{\#if:||왕실의 칭호}}{{\#switch:

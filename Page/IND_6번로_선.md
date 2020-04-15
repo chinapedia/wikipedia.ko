@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [IND 6 ](https://ko.wikipedia.org/wiki/IND_6_).
+> This article is converted from Wikipedia: [IND 6번로 선](https://ko.wikipedia.org/wiki/IND_6번로_선).
 
 
 **IND 6번로 선**()은 [뉴욕 지하철의](../Page/뉴욕_지하철.md "wikilink") 선로 중 하나로, [B 디비전에](https://ko.wikipedia.org/wiki/B_디비전 "wikilink") 속해 있다. 주로 [멘해튼](https://ko.wikipedia.org/wiki/멘해튼 "wikilink")의 [6번로에서](https://ko.wikipedia.org/wiki/:en:Sixth_Avenue_\(Manhattan\) "wikilink") 운행되며, 루트거스 스트리트 터널(Rutgers Street Tunnel)을 통해 남쪽으로 계속 [브루클린](../Page/브루클린.md "wikilink")으로 연결된다. 이 노선은 1940년에 완성된 [인디펜던트 서브웨이 시스템](https://ko.wikipedia.org/wiki/인디펜던트_서브웨이_시스템 "wikilink")(Independent Subway System, IND)의 마지막 간선이었다. [미드타운 맨해튼을](https://ko.wikipedia.org/wiki/미드타운_맨해튼 "wikilink") 통과하는 6번로 선을 사용하는 [B](https://ko.wikipedia.org/wiki/뉴욕_지하철_B선 "wikilink"), [D](https://ko.wikipedia.org/wiki/뉴욕_지하철_D선 "wikilink"), [F](https://ko.wikipedia.org/wiki/뉴욕_지하철_F선 "wikilink"), [M](https://ko.wikipedia.org/wiki/뉴욕_지하철_M선 "wikilink") 계통은 [주황색](https://ko.wikipedia.org/wiki/주황색 "wikilink")으로 되어 있다.
@@ -213,7 +213,7 @@
 <td></td>
 <td><p>1940년 12월 15일</p></td>
 <td><p><a href="../Page/IRT_브로드웨이-7번로_선.md" title="wikilink">IRT 브로드웨이-7번로 선</a> ()<br />
-<a href="https://ko.wikipedia.org/wiki/BMT_캐나시_선" title="wikilink">BMT 캐나시 선</a> ()<br />
+<a href="../Page/BMT_캐나시_선.md" title="wikilink">BMT 캐나시 선</a> ()<br />
 <a href="https://ko.wikipedia.org/wiki/포트_오소리티_트랜스허드슨" title="wikilink">PATH</a> 환승 가능: <a href="https://ko.wikipedia.org/wiki/14번가_역_(PATH)" title="wikilink">14번가 역</a></p></td>
 </tr>
 <tr class="odd">

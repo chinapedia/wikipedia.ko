@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  M  ](https://ko.wikipedia.org/wiki/__M__).
+> This article is converted from Wikipedia: [인텔 코어 M 마이크로프로세서 목록](https://ko.wikipedia.org/wiki/인텔_코어_M_마이크로프로세서_목록).
 
 
 **인텔 코어 M** 계열의 목록이다.

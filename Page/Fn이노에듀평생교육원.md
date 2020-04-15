@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Fn](https://ko.wikipedia.org/wiki/Fn).
+> This article is converted from Wikipedia: [Fn이노에듀평생교육원](https://ko.wikipedia.org/wiki/Fn이노에듀평생교육원).
 
 
 **(GB)글로벌이노에듀**는 원격평생교육원으로, 최초 2000년 사이버MBA 설립되어 KT이노에듀 평생교육원(KT계열사로 편입) - FN이노에듀 평생교육원(파이낸셜뉴스미디어 편입)으로 명칭이 변경되었고, 현재는 (주)글로벌아이 그룹으로 편입되어 현재의 이름을 갖게 되었다.

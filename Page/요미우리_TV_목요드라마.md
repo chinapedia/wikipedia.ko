@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ TV ](https://ko.wikipedia.org/wiki/_TV_).
+> This article is converted from Wikipedia: [요미우리 TV 목요드라마](https://ko.wikipedia.org/wiki/요미우리_TV_목요드라마).
 
 
 **목요드라마**는 [닛폰 TV 방송망](../Page/닛폰_TV_방송망.md "wikilink"), [주쿄 TV 방송](../Page/주쿄_TV_방송.md "wikilink"), [요미우리 TV 방송](../Page/요미우리_TV_방송.md "wikilink"), [히로시마 TV 방송](../Page/히로시마_TV_방송.md "wikilink") 및 [닛폰TV 네트워크 협의회](https://ko.wikipedia.org/wiki/닛폰TV_네트워크_협의회 "wikilink") 계열국이 [2013년](../Page/2013년.md "wikilink")부터 편성하고 있는 연속 TV 드라마이다.
@@ -60,6 +60,19 @@
 
   - [런치 미팅 탐정 \~사랑과 맛집과 수수께끼와\~](https://ko.wikipedia.org/wiki/런치_미팅_탐정_~사랑과_맛집과_수수께끼와~ "wikilink")
 
-## 방영국
+## 참고 사항
+
+<references />
+
+## 함께 보기
+
+  - [신드라](https://ko.wikipedia.org/wiki/신드라 "wikilink")
+  - [어른의 토드라](../Page/어른의_토드라.md "wikilink")
+  - [닛폰 TV 방송망 일요드라마](../Page/닛폰_TV_방송망_일요드라마.md "wikilink")
+  - [간사이 TV 화요일 밤 9시 드라마](../Page/간사이_TV_화요일_밤_9시_드라마.md "wikilink")
+
+## 외부 링크
+
+  - [요미우리 텔레비전 | 드라마・시네마](http://www.ytv.co.jp/bangumi/bangumi.php?genre=5)
 
 [\*](https://ko.wikipedia.org/wiki/분류:닛폰_TV의_드라마 "wikilink")

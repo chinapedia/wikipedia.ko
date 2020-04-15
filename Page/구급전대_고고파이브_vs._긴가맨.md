@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  vs. ](https://ko.wikipedia.org/wiki/__vs._).
+> This article is converted from Wikipedia: [구급전대 고고파이브 vs. 긴가맨](https://ko.wikipedia.org/wiki/구급전대_고고파이브_vs._긴가맨).
 
 
 《**구급전대 고고파이브 vs. 긴가맨**》(救急戦隊ゴーゴーファイブVSギンガマン)은 [2000년](../Page/2000년.md "wikilink") [3월 10일에](../Page/3월_10일.md "wikilink") 발매된 오리지널 비디오 작품이다. 《[구급전대 고고파이브](../Page/구급전대_고고파이브.md "wikilink")》의 오리지널 비디오 작품이며, 슈퍼 전대 vs. 시리즈의 하나이다.

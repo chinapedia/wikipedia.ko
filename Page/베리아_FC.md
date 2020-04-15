@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
+> This article is converted from Wikipedia: [베리아 FC](https://ko.wikipedia.org/wiki/베리아_FC).
 
 
 **베리아 FC**()는 [베리아](../Page/베리아.md "wikilink")를 연고로 하는 [그리스](../Page/그리스.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다. 현재는 [수페르리가 엘라다에](../Page/수페르리가_엘라다.md "wikilink") 참가하고 있다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [P2P](https://ko.wikipedia.org/wiki/P2P).
+> This article is converted from Wikipedia: [한국P2P금융협회](https://ko.wikipedia.org/wiki/한국P2P금융협회).
 
 
 **한국P2P금융협회**(韓國P2P金融協會, Korea P2P Finance Association)는 핀테크 사업과 한국 P2P 대출업의 기반 조성을 통하여 협회 회원사들의 공동의 발전과 국민경제의 발전에 이바지하기 위하여 설립된 법인이다.\[1\]\[2\]\[3\] [서울특별시](../Page/서울특별시.md "wikilink") [중구](../Page/중구_\(서울특별시\).md "wikilink") 남대문로 117 동아빌딩 11층에 있다.

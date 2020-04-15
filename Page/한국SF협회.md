@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SF](https://ko.wikipedia.org/wiki/SF).
+> This article is converted from Wikipedia: [한국SF협회](https://ko.wikipedia.org/wiki/한국SF협회).
 
 
 **한국SF협회**(Korea Science Fiction Assosiation;KSFA) 또는 **한국 에스에프 협회**는 한국 SF문화의 확산과 발전, 향유를 목적으로 설립된 협회이다.\[1\]

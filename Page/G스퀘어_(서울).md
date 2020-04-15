@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [G \(\)](https://ko.wikipedia.org/wiki/G_\(\)).
+> This article is converted from Wikipedia: [G스퀘어 \(서울\)](https://ko.wikipedia.org/wiki/G스퀘어_\(서울\)).
 
 
 **G스퀘어**()는 [대한민국](../Page/대한민국.md "wikilink") [서울특별시](../Page/서울특별시.md "wikilink") [구로구](https://ko.wikipedia.org/wiki/구로구 "wikilink") [구로동](../Page/구로동.md "wikilink")에 건설 중인 건물이다. 높이는 185m, 지상 39층으로 되어있고 [2020년 9월에](https://ko.wikipedia.org/wiki/2020년_9월 "wikilink") 준공 예정이다. [구로동](../Page/구로동.md "wikilink") G밸리에 완공되면 63빌딩보다 넓은 게임 빌딩이 된다.\[1\] 넷마블 본사 및 계열사 임직원 약 5천여명 입주 계획이고 4천평 규모의 공원, 스포츠센터, 의료집약시설, 컨벤션센터, 산업 및 게임 박물관 등 설치 예정이다. 넷마블게임즈 본사, 자회사, 협력업체 등 입주 예정이고 한국산업단지공단과 함께 R\&D센터, 컨벤션센터, 게임 관련 스타트업 지원센터 등 기업 지원시설 조성이다. 완공 후에는 게임과 영상, 애니메이션 웹툰 등 디지털산업입주 5000여개 IT일자리 창출 예정이다. 주차대수는 1,368대다.

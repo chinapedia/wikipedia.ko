@@ -11,7 +11,7 @@
 
 2006년 11월 13일, 썬의 [자바 가상 머신](../Page/자바_가상_머신.md "wikilink")(JVM)과 [자바 개발 키트](../Page/자바_개발_키트.md "wikilink")(JDK)의 사용이 가능해졌으며\[2\] [GPL](https://ko.wikipedia.org/wiki/GPL "wikilink") 라이선스로 배포되었다. ([Sun's OpenJDK 핫스팟 페이지](https://openjdk.dev.java.net/hotspot/) 참고)
 
-버전 0.95부터 [자바 클래스 라이브러리의](https://ko.wikipedia.org/wiki/자바_클래스_라이브러리 "wikilink") [자유 구현체인](https://ko.wikipedia.org/wiki/자유_자바_구현체 "wikilink") [GNU 클래스패스는](https://ko.wikipedia.org/wiki/GNU_클래스패스 "wikilink") 클래스패스 [런타임](https://ko.wikipedia.org/wiki/런타임_시스템 "wikilink")([GIJ](https://ko.wikipedia.org/wiki/GNU_인터프리터_포_자바 "wikilink"))와 컴파일러([GCJ](https://ko.wikipedia.org/wiki/GNU_컴파일러_포_자바 "wikilink"))를 사용하여 컴파일과 javac 실행을 지원하며, 또 javac를 사용하여 [GNU 클래스패스](https://ko.wikipedia.org/wiki/GNU_클래스패스 "wikilink") 클래스 라이브러리, 도구, 예제를 컴파일할 수 있게 하고 있다.\[3\]
+버전 0.95부터 [자바 클래스 라이브러리의](https://ko.wikipedia.org/wiki/자바_클래스_라이브러리 "wikilink") [자유 구현체인](https://ko.wikipedia.org/wiki/자유_자바_구현체 "wikilink") [GNU 클래스패스는](../Page/GNU_클래스패스.md "wikilink") 클래스패스 [런타임](https://ko.wikipedia.org/wiki/런타임_시스템 "wikilink")([GIJ](https://ko.wikipedia.org/wiki/GNU_인터프리터_포_자바 "wikilink"))와 컴파일러([GCJ](https://ko.wikipedia.org/wiki/GNU_컴파일러_포_자바 "wikilink"))를 사용하여 컴파일과 javac 실행을 지원하며, 또 javac를 사용하여 [GNU 클래스패스](../Page/GNU_클래스패스.md "wikilink") 클래스 라이브러리, 도구, 예제를 컴파일할 수 있게 하고 있다.\[3\]
 
 ## 같이 보기
 

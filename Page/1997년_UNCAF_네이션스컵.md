@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [1997 UNCAF ](https://ko.wikipedia.org/wiki/1997_UNCAF_).
+> This article is converted from Wikipedia: [1997년 UNCAF 네이션스컵](https://ko.wikipedia.org/wiki/1997년_UNCAF_네이션스컵).
 
 
 **1997년 UNCAF 네이션스컵**(1997 UNCAF Nations Cup)은 [중앙아메리카 축구 연맹에서](https://ko.wikipedia.org/wiki/중앙아메리카_축구_연맹 "wikilink") 주최한 4번째 [UNCAF 네이션스컵](https://ko.wikipedia.org/wiki/UNCAF_네이션스컵 "wikilink") 대회로 [1997년](../Page/1997년.md "wikilink") [4월 17일부터](../Page/4월_17일.md "wikilink") [4월 27일까지](../Page/4월_27일.md "wikilink") [과테말라](../Page/과테말라.md "wikilink")에서 개최되었다. 이 대회는 [1998년 CONCACAF 골드컵의](../Page/1998년_CONCACAF_골드컵.md "wikilink") 중앙아메리카 예선을 겸한다.

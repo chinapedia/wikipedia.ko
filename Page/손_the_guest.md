@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ the guest](https://ko.wikipedia.org/wiki/_the_guest).
+> This article is converted from Wikipedia: [손 the guest](https://ko.wikipedia.org/wiki/손_the_guest).
 
 
 《**손 the guest**》는 [2018년](../Page/2018년.md "wikilink") [9월 12일부터](../Page/9월_12일.md "wikilink") [2018년](../Page/2018년.md "wikilink") [11월 1일까지](../Page/11월_1일.md "wikilink") [OCN에서](https://ko.wikipedia.org/wiki/OCN_\(방송\) "wikilink") 방영된 드라마이다.
@@ -9,7 +9,7 @@
 
   - [김동욱](../Page/김동욱_\(배우\).md "wikilink") : 윤화평 역 (아역 [최승훈](../Page/최승훈_\(배우\).md "wikilink")) - 악령을 알아보는 영매
   - [김재욱](../Page/김재욱_\(배우\).md "wikilink") : 최윤 역 (아역 정유근) - 악령을 쫓는 구마 사제
-  - [정은채](https://ko.wikipedia.org/wiki/정은채 "wikilink") : 강길영 역 (아역 [김지영](https://ko.wikipedia.org/wiki/김지영_\(2005년\) "wikilink")) - 악령을 믿지 않는 형사
+  - [정은채](https://ko.wikipedia.org/wiki/정은채 "wikilink") : 강길영 역 (아역 [김지영](../Page/김지영_\(2005년\).md "wikilink")) - 악령을 믿지 않는 형사
 
 ### 그 외 인물들
 
@@ -30,7 +30,7 @@
   - 한규원
   - [공상아](../Page/공상아.md "wikilink") : 윤화평의 어머니 역
   - [오초희](../Page/오초희.md "wikilink") : 안유미 역 - 택시악령 납치 피해자
-  - [이중옥](https://ko.wikipedia.org/wiki/이중옥 "wikilink") : 최민상 역 - 택시악령 납치 가해자
+  - [이중옥](../Page/이중옥.md "wikilink") : 최민상 역 - 택시악령 납치 가해자
   - [백범수](https://ko.wikipedia.org/wiki/백범수 "wikilink") : 최민구 역 - 택시악령 납치 가해자
   - 이시은
   - [백수련](../Page/백수련.md "wikilink") : 최민상 엄마 역
@@ -51,7 +51,7 @@
   - [최홍일](../Page/최홍일.md "wikilink")
   - 김민채
   - [배진홍](../Page/배진홍.md "wikilink") (목소리 출연)
-  - [전은미](https://ko.wikipedia.org/wiki/전은미_\(1975년\) "wikilink")
+  - [전은미](../Page/전은미_\(1975년\).md "wikilink")
   - [백승철](../Page/백승철_\(배우\).md "wikilink")
   - [여무영](../Page/여무영.md "wikilink") : 박홍주의 아버지 역
   - [이현균](../Page/이현균.md "wikilink") : 이철용 역
@@ -62,7 +62,7 @@
   - [박지아](../Page/박지아.md "wikilink") : 김신자 역
   - [전무송](../Page/전무송.md "wikilink") : 윤무일 역 - 윤화평의 할아버지 / 박일도 귀신
   - [유병훈](../Page/유병훈_\(배우\).md "wikilink")
-  - [류성록](https://ko.wikipedia.org/wiki/류성록 "wikilink")
+  - [류성록](../Page/류성록.md "wikilink")
   - 신현종
   - 김봉환
   - [김두봉](../Page/김두봉_\(배우\).md "wikilink")

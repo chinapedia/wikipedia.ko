@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [1x=1 \(UNDIVIDED\)](https://ko.wikipedia.org/wiki/1x=1_\(UNDIVIDED\)).
+> This article is converted from Wikipedia: [1÷x=1 \(UNDIVIDED\)](https://ko.wikipedia.org/wiki/1÷x=1_\(UNDIVIDED\)).
 
 
 《**1÷x=1 (UNDIVIDED)**》는 2018년 6월 4일에 발매된 [워너원](../Page/워너원.md "wikilink")의 첫 번째 스페셜 음반이다.\[1\]

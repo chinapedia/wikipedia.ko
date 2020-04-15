@@ -85,14 +85,14 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/마오웨이자" title="wikilink">마오웨이자</a></p></td>
-<td><p>Mao WeiJia</p></td>
-<td></td>
-<td><p>1기</p></td>
-<td><p>AKB48 (China) Holding Limited</p></td>
-<td><p>AKB48 CHINA 총캡틴<br />
-최연장자</p></td>
+<td><p><strong></strong></p></td>
+<td><p><strong><a href="https://ko.wikipedia.org/wiki/마오웨이자" title="wikilink">마오웨이자</a></strong></p></td>
+<td><p><strong>Mao WeiJia</strong></p></td>
+<td><p><strong></strong></p></td>
+<td><p><strong>1기</strong></p></td>
+<td><p><strong>AKB48 (China) Holding Limited</strong></p></td>
+<td><p><strong>AKB48 CHINA 총캡틴<br />
+최연장자</strong></p></td>
 </tr>
 <tr class="even">
 <td></td>

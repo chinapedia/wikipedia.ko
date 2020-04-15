@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FIVB   ](https://ko.wikipedia.org/wiki/FIVB___).
+> This article is converted from Wikipedia: [FIVB 여자 배구 네이션스리그](https://ko.wikipedia.org/wiki/FIVB_여자_배구_네이션스리그).
 
 
 **FIVB 여자 배구 네이션스리그**는 개최 예정인 배구 국제 대회이다. [국제 배구 연맹](../Page/국제_배구_연맹.md "wikilink")(FIVB) 회원국의 여자 국가대표팀이 대회에 참가한다. 첫번째 대회가 2018년 5월에 시작될 예정이며, 결승전이 2018년 7월 1일 중국 [난징 시에서](https://ko.wikipedia.org/wiki/난징_시 "wikilink") 열릴 예정이다.

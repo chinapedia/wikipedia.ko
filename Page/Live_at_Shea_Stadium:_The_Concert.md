@@ -36,7 +36,7 @@
 2.  "[Lullabye (Goodnight, My Angel)](https://ko.wikipedia.org/wiki/Lullabye_\(Goodnight,_My_Angel\) "wikilink")" - 3:43
 3.  "[The River Of Dreams](https://ko.wikipedia.org/wiki/The_River_Of_Dreams "wikilink")"§/ "[A Hard Day’s Night](https://ko.wikipedia.org/wiki/A_Hard_Day’s_Night "wikilink")" § - 7:43
 4.  "[We Didn't Start the Fire](https://ko.wikipedia.org/wiki/We_Didn't_Start_the_Fire "wikilink")" - 5:14
-5.  "[You May Be Right](https://ko.wikipedia.org/wiki/You_May_Be_Right "wikilink")" - 4:53
+5.  "[You May Be Right](../Page/You_May_Be_Right.md "wikilink")" - 4:53
 6.  "[Scenes from an Italian Restaurant](https://ko.wikipedia.org/wiki/Scenes_from_an_Italian_Restaurant "wikilink")" - 7:40
 7.  "[Only The Good Die Young](https://ko.wikipedia.org/wiki/Only_The_Good_Die_Young "wikilink")" - 4:13 §
 8.  "[I Saw Her Standing There](https://ko.wikipedia.org/wiki/I_Saw_Her_Standing_There "wikilink")" <small>([폴 매카트니](../Page/폴_매카트니.md "wikilink"))</small> - 4:06

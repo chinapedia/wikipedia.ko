@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [CPL \( \)](https://ko.wikipedia.org/wiki/CPL_\(_\)).
+> This article is converted from Wikipedia: [CPL \(프로그래밍 언어\)](https://ko.wikipedia.org/wiki/CPL_\(프로그래밍_언어\)).
 
 
 **CPL**(Combined Programming Language, 이전 명칭: Cambridge Programming Language)은 1960년대 초에 개발된 [다중 패러다임](../Page/프로그래밍_패러다임.md "wikilink") [프로그래밍 언어이다](../Page/프로그래밍_언어.md "wikilink").

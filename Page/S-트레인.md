@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [S-](https://ko.wikipedia.org/wiki/S-).
+> This article is converted from Wikipedia: [S-트레인](https://ko.wikipedia.org/wiki/S-트레인).
 
 
 **S-트레인**()은 [세이부 철도가](../Page/세이부_철도.md "wikilink") 운행하는 열차로 [2016년](../Page/2016년.md "wikilink") [6월 16일에](../Page/6월_16일.md "wikilink") 최초로 운행 계획을 발표했고\[1\] [2017년](../Page/2017년.md "wikilink") [1월 10일에](../Page/1월_10일.md "wikilink") 세부 사항이 발표 후\[2\] 같은 해 [3월 25일에](../Page/3월_25일.md "wikilink") 운행을 개시한 특급 ([특별 급행](../Page/급행열차.md "wikilink")) 열차의 명칭이다. [도쿄 메트로 유라쿠초 선](https://ko.wikipedia.org/wiki/도쿄_메트로_유라쿠초_선 "wikilink"), [세이부 이케부쿠로 선](../Page/세이부_이케부쿠로_선.md "wikilink"), [도쿄 메트로 후쿠토신 선](https://ko.wikipedia.org/wiki/도쿄_메트로_후쿠토신_선 "wikilink"), [도큐 도요코 선](../Page/도큐_도요코_선.md "wikilink"), [요코하마 고속 철도 미나토미라이 선](../Page/요코하마_고속_철도_미나토미라이_선.md "wikilink") 노선을 운행하고 있다.\[3\]\[4\]\[5\]

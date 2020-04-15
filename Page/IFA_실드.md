@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [IFA ](https://ko.wikipedia.org/wiki/IFA_).
+> This article is converted from Wikipedia: [IFA 실드](https://ko.wikipedia.org/wiki/IFA_실드).
 
 
 **IFA 실드**(IFA Shiled)는 [인도](../Page/인도.md "wikilink") [서벵골 주의](https://ko.wikipedia.org/wiki/서벵골_주 "wikilink") 축구 행정 기구인 인도 축구 연맹(Indian Football Association, IFA)이 주관하는 국제 [축구](../Page/축구.md "wikilink") 대회이다. 1893년부터 매년 열리고 있다.

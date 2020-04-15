@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ J. ](https://ko.wikipedia.org/wiki/_J._).
+> This article is converted from Wikipedia: [리처드 J. 로버츠](https://ko.wikipedia.org/wiki/리처드_J._로버츠).
 
 
 **리처드 존 로버츠** 경(, [FRS](https://ko.wikipedia.org/wiki/왕립학회_회원 "wikilink")\[1\], [1943년](../Page/1943년.md "wikilink") [9월 6일](../Page/9월_6일.md "wikilink") \~ )은 [영국](../Page/영국.md "wikilink")의 [생화학](https://ko.wikipedia.org/wiki/생화학 "wikilink")자, [분자생물학](../Page/분자생물학.md "wikilink")자이다. 1993년에 분단 구조를 가진 [유전자](../Page/유전자.md "wikilink")를 발견한 공로로 [필립 앨런 샤프와](../Page/필립_앨런_샤프.md "wikilink") 함께 [노벨 생리학·의학상을](../Page/노벨_생리학·의학상.md "wikilink") 수상했다.

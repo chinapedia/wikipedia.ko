@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Many Faces \~\~](https://ko.wikipedia.org/wiki/Many_Faces_\~\~).
+> This article is converted from Wikipedia: [Many Faces \~다면성\~](https://ko.wikipedia.org/wiki/Many_Faces_\~다면성\~).
 
 
 《**Many Faces \~다면성\~**》 (Many Faces -  - )[강지영](../Page/강지영.md "wikilink")의 일본 첫 번째 정규 앨범이다.

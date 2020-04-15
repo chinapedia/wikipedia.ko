@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Newarticletext-unconfirmed](https://ko.wikipedia.org/wiki/:Newarticletext-unconfirmed).
+> This article is converted from Wikipedia: [틀:Newarticletext-unconfirmed](https://ko.wikipedia.org/wiki/틀:Newarticletext-unconfirmed).
 
 
 | textstyle = font-size: 125%; | text =

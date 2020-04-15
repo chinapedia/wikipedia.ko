@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [   vs. ](https://ko.wikipedia.org/wiki/___vs._).
+> This article is converted from Wikipedia: [극장판 염신전대 고온저 vs. 게키레인저](https://ko.wikipedia.org/wiki/극장판_염신전대_고온저_vs._게키레인저).
 
 
 《**극장판 염신전대 고온저 vs. 게키레인저**》()는 [2009년](../Page/2009년.md "wikilink") [1월 24일보다](../Page/1월_24일.md "wikilink") [토에이](https://ko.wikipedia.org/wiki/토에이 "wikilink") 계열에서 공개된 일본 영화 작품이다. 특수 촬영 히어로 프로그램 〈[슈퍼 전대 시리즈](../Page/슈퍼_전대_시리즈.md "wikilink")〉《[염신전대 고온저](../Page/염신전대_고온저.md "wikilink")》의 영화화 작품이며, 슈퍼전대 vs. 시리즈의 하나이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [MH-6  ](https://ko.wikipedia.org/wiki/MH-6__).
+> This article is converted from Wikipedia: [MH-6 리틀 버드](https://ko.wikipedia.org/wiki/MH-6_리틀_버드).
 
 
 [섬네일에서](https://ko.wikipedia.org/wiki/파일:2_AH-6J_Little_Bird_de_l'US_Army,_31_mars_2003,_Irak.jpg "wikilink") 임무수행중인 AH-6J 리틀버드\]\] [섬네일의](https://ko.wikipedia.org/wiki/파일:MH6_at_NASCAR.jpg "wikilink") MH-6 리틀버드\]\] [섬네일의](https://ko.wikipedia.org/wiki/파일:Soldiers_from_the_75th_Ranger_Regiment_descend_in_an_MH-6_Little_Bird.jpg "wikilink") MH-6 리틀버드\]\]

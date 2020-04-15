@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FX](https://ko.wikipedia.org/wiki/FX).
+> This article is converted from Wikipedia: [자바FX](https://ko.wikipedia.org/wiki/자바FX).
 
 
 **자바FX**(JavaFX)는 [데스크톱 애플리케이션과](../Page/응용_소프트웨어.md "wikilink") [리치 인터넷 애플리케이션](../Page/리치_인터넷_애플리케이션.md "wikilink")(RIA)을 개발하고 배포하는 [소프트웨어 플랫폼으로](https://ko.wikipedia.org/wiki/소프트웨어_플랫폼 "wikilink"), 다양한 장치에서 실행 가능하다. 자바FX는 [자바 SE를](https://ko.wikipedia.org/wiki/자바_SE "wikilink") 위한 표준 [GUI](../Page/그래픽_사용자_인터페이스.md "wikilink") 라이브러리로서 [스윙을](../Page/스윙_\(자바\).md "wikilink") 대체하기 위해 고안되었다.\[1\] 자바FX는 [마이크로소프트 윈도우](../Page/마이크로소프트_윈도우.md "wikilink"), [리눅스](../Page/리눅스.md "wikilink"), [macOS](https://ko.wikipedia.org/wiki/macOS "wikilink")의 [데스크톱 컴퓨터와](../Page/데스크톱_컴퓨터.md "wikilink") [웹 브라우저를](../Page/웹_브라우저.md "wikilink") 지원한다.

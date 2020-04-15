@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [CJ   ](https://ko.wikipedia.org/wiki/CJ___).
+> This article is converted from Wikipedia: [CJ오쇼핑 소속 쇼호스트 목록](https://ko.wikipedia.org/wiki/CJ오쇼핑_소속_쇼호스트_목록).
 
 
 다음은 [CJ오쇼핑](../Page/CJ오쇼핑.md "wikilink")에 소속되어있거나, 소속된 적이 있는 쇼호스트의 목록이다.

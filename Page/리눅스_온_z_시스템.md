@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  z ](https://ko.wikipedia.org/wiki/__z_).
+> This article is converted from Wikipedia: [리눅스 온 z 시스템](https://ko.wikipedia.org/wiki/리눅스_온_z_시스템).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:IBM_z13_and_LinuxONE_Rockhopper.jpg "wikilink") z13이고, 오른쪽은 [IBM 리눅스원](https://ko.wikipedia.org/wiki/IBM_리눅스원 "wikilink") 락호퍼(Rockhopper)이다.\]\] **리눅스 온 z 시스템**(Linux on z Systems, 간단히 리눅스 온 z, 과거 명칭: 리눅스 온 시스템 z)은 [IBM 메인프레임](../Page/IBM_메인프레임.md "wikilink"), 특히 IBM [시스템 z](https://ko.wikipedia.org/wiki/시스템_z "wikilink"), IBM 리눅스원 서버에서 구동하기 위해 컴파일된 [리눅스](../Page/리눅스.md "wikilink") 운영 체제를 포괄적으로 아우르는 용어이다. 동일한 의미를 함축하는 비슷한 용어로는 **리눅스 온 [z엔터프라이즈](../Page/IBM_z엔터프라이즈_시스템.md "wikilink")**, **리눅스 온 [z시리즈](../Page/IBM_시스템_z.md "wikilink")**, **리눅스/390**, **리눅스/390x** 등이 있다. **z리눅스**, **z/리눅스**라는 용어 또한 종종 사용되지만 이 용어들은 IBM이 사용하기를 꺼려하는데 그 이유는 IBM이 제공하거나 배포한 리눅스 버전으로 유추하는 문제를 야기할 수 있기 때문이다.

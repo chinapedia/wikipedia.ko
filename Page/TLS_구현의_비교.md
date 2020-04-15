@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TLS  ](https://ko.wikipedia.org/wiki/TLS__).
+> This article is converted from Wikipedia: [TLS 구현의 비교](https://ko.wikipedia.org/wiki/TLS_구현의_비교).
 
 
 [전송 계층 보안](../Page/전송_계층_보안.md "wikilink") 프로토콜은 네트워크 간의 통신을 보호하는 기능을 제공한다. 이 **TLS 구현의 비교**에서는 가장 알려진 라이브러리를 비교한다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TV  3](https://ko.wikipedia.org/wiki/TV__3).
+> This article is converted from Wikipedia: [아프리카TV 스타리그 시즌3](https://ko.wikipedia.org/wiki/아프리카TV_스타리그_시즌3).
 
 
 **아프리카TV 스타리그 시즌3**은 [대한민국](../Page/대한민국.md "wikilink")의 [스타크래프트 리그인](../Page/스타크래프트_리그.md "wikilink") [아프리카TV 스타리그의](../Page/아프리카TV_스타리그.md "wikilink") 3번째 개인전 대회다. [아프리카TV](../Page/아프리카TV.md "wikilink")와 [콩두컴퍼니](../Page/콩두컴퍼니.md "wikilink")가 공동으로 주최했으며, [아프리카TV](../Page/아프리카TV.md "wikilink"), [유튜브](../Page/유튜브.md "wikilink") 등으로 방송되었다.

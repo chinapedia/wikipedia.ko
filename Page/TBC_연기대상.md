@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TBC ](https://ko.wikipedia.org/wiki/TBC_).
+> This article is converted from Wikipedia: [TBC 연기대상](https://ko.wikipedia.org/wiki/TBC_연기대상).
 
 
 **TBC 연기대상**()은 한 해 동안 [TBC 드라마에서](../Page/대한민국의_텔레비전_드라마.md "wikilink") 연기를 한 연기자들에게 상을 수여하는 시상식으로, 1970년부터 1979년까지 12월 말에 개최하였다. TBC 전속 탤런트들을 대상으로 시상을 했는데, 1970년과 1979년에는 대상을 시상했지만, 이외의 해는 대상을 시상하지 않았고 남녀주연상과 최우수 남여 연기상이 대상을 대체했다. [1980년 언론 통폐합](https://ko.wikipedia.org/wiki/1980년_언론_통폐합 "wikilink") 조치로 [동양방송](../Page/동양방송.md "wikilink")이 폐국됨에 따라 1979년을 끝으로 개최되지 않았다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Finally \(  \)](https://ko.wikipedia.org/wiki/Finally_\(__\)).
+> This article is converted from Wikipedia: [Finally \(아무로 나미에의 음반\)](https://ko.wikipedia.org/wiki/Finally_\(아무로_나미에의_음반\)).
 
 
 《**Finally**》는 일본의 가수 [아무로 나미에의](../Page/아무로_나미에.md "wikilink") 7번째 베스트 음반이자 올타임 베스트 음반이다. 2017년 11월 8일 디멘션 포인트를 통해 발매되었으며 3CD 포맷으로 이루어져 있다. 아무로는 이 음반을 마지막으로 은퇴를 선언했다.

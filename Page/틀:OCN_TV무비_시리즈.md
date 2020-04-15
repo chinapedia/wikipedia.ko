@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:OCN TV ](https://ko.wikipedia.org/wiki/:OCN_TV_).
+> This article is converted from Wikipedia: [틀:OCN TV무비 시리즈](https://ko.wikipedia.org/wiki/틀:OCN_TV무비_시리즈).
 
 
 [픽&로맨스](https://ko.wikipedia.org/wiki/틀:OCN_로맨스_시리즈 "wikilink") {{\!}} [드라마틱 시네마](https://ko.wikipedia.org/wiki/틀:OCN_드라마틱_시네마 "wikilink") |아랫글모양=background-color:\#FFD778;

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ R. ](https://ko.wikipedia.org/wiki/_R._).
+> This article is converted from Wikipedia: [알렉산더 R. 토드](https://ko.wikipedia.org/wiki/알렉산더_R._토드).
 
 
 **알렉산더 로버투스 토드**, **토드 남작**(, [OM](https://ko.wikipedia.org/wiki/메리트_훈장 "wikilink") [PRS](https://ko.wikipedia.org/wiki/:en:List_of_presidents_of_the_Royal_Society "wikilink") [FRSE](https://ko.wikipedia.org/wiki/:en:Fellow_of_the_Royal_Society_of_Edinburgh "wikilink")\[1\], [1897년](../Page/1897년.md "wikilink") [11월 9일](../Page/11월_9일.md "wikilink") \~ [1978년](../Page/1978년.md "wikilink") [6월 7일](../Page/6월_7일.md "wikilink"))은 [영국](../Page/영국.md "wikilink")의 [생화학](https://ko.wikipedia.org/wiki/생화학 "wikilink")자이다. 1957년 [뉴클레오타이드](../Page/뉴클레오타이드.md "wikilink")류와 그 [보조 효소에](https://ko.wikipedia.org/wiki/보조_효소 "wikilink") 대한 연구로 [노벨 화학상을](https://ko.wikipedia.org/wiki/노벨_화학상 "wikilink") 수상했다.

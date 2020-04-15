@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  \(NASA\)](https://ko.wikipedia.org/wiki/__\(NASA\)).
+> This article is converted from Wikipedia: [유로파 착륙선 \(NASA\)](https://ko.wikipedia.org/wiki/유로파_착륙선_\(NASA\)).
 
 
 **유로파 착륙선**(Europa Lander)은 2024년 발사 예정인 유로파 탐사선이다.\[1\]\[2\] 궤도선인 [유로파 클리퍼와](../Page/유로파_클리퍼.md "wikilink") 임무를 같이 수행할 것으로 예상된다. 주요 목표는 유로파의 생명체를 탐사하고 유로파의 물의 특성을 밝히고 유로파의 표면 구성을 탐사하는 것이다. 또 살기 좋은 구역과 미래의 유로파 탐사의 실마리를 주는 것이 이 탐사의 목표다.\[3\]\[4\] 그러니 위성의 생명체의 존재, 과거 등을 탐사한다고 보면 된다.\[5\]

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ - Fall asleep in the mirror](https://ko.wikipedia.org/wiki/_-_Fall_asleep_in_the_mirror).
+> This article is converted from Wikipedia: [악몽 - Fall asleep in the mirror](https://ko.wikipedia.org/wiki/악몽_-_Fall_asleep_in_the_mirror).
 
 
 〈**악몽 - Fall asleep in the mirror**〉(악몽 - 폴 어슬리프 인 더 미러)는 대한민국의 걸 그룹 [드림캐쳐의](../Page/드림캐쳐_\(음악_그룹\).md "wikilink") 두 번째 [싱글이다](../Page/싱글_\(음악\).md "wikilink").

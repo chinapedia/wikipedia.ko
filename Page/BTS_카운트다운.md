@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [BTS ](https://ko.wikipedia.org/wiki/BTS_).
+> This article is converted from Wikipedia: [BTS 카운트다운](https://ko.wikipedia.org/wiki/BTS_카운트다운).
 
 
 **BTS 카운트다운**()는 [Mnet](https://ko.wikipedia.org/wiki/Mnet "wikilink")에서 [2017년](../Page/2017년.md "wikilink") [10월 12일](../Page/10월_12일.md "wikilink") 방송된 [음악](../Page/음악.md "wikilink") [프로그램](https://ko.wikipedia.org/wiki/프로그램 "wikilink")이다.

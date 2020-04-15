@@ -1,15 +1,14 @@
-> This article is converted from Wikipedia: [ Q](https://ko.wikipedia.org/wiki/_Q).
+> This article is converted from Wikipedia: [뜻밖의 Q](https://ko.wikipedia.org/wiki/뜻밖의_Q).
 
 
-《**뜻밖의 Q**》는 [MBC TV에서](../Page/MBC_TV.md "wikilink") 방영되는 [텔레비전 프로그램이며](../Page/텔레비전_프로그램.md "wikilink") [2018년](../Page/2018년.md "wikilink") [5월 5일부터](../Page/5월_5일.md "wikilink") [2018년](../Page/2018년.md "wikilink") [10월 27일까지](../Page/10월_27일.md "wikilink") 방영되었다.
+《**뜻밖의 Q**》는 [MBC TV에서](../Page/MBC_TV.md "wikilink") 방영한 [텔레비전 프로그램이며](../Page/텔레비전_프로그램.md "wikilink") [2018년](../Page/2018년.md "wikilink") [5월 5일부터](../Page/5월_5일.md "wikilink") [2018년](../Page/2018년.md "wikilink") [10월 27일까지](../Page/10월_27일.md "wikilink") 방영되었다.
 
 ## 방송 시간
 
-| 방송 채널                                                                                                                                                      | 방송 기간                                               | 방송 시간                                               | 비고    |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------- | --------------------------------------------------- | ----- |
-| [MBC TV](../Page/문화방송.md "wikilink")                                                                                                                       |                                                     |                                                     |       |
-| [2018년](../Page/2018년.md "wikilink") [5월 5일](../Page/5월_5일.md "wikilink") \~ [2018년](../Page/2018년.md "wikilink") [10월 27일](../Page/10월_27일.md "wikilink") | 1부                                                  | 매주 [토요일](../Page/토요일.md "wikilink") 오후 6:20 \~ 7:10 | 분리 편성 |
-| 2부                                                                                                                                                         | 매주 [토요일](../Page/토요일.md "wikilink") 오후 7:10 \~ 7:50 |                                                     |       |
+| 방송 채널                                | 방송 기간                                                                                                                                                      | 방송 시간 | 비고                                                  |
+| ------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- | --------------------------------------------------- |
+| [MBC TV](../Page/문화방송.md "wikilink") | [2018년](../Page/2018년.md "wikilink") [5월 5일](../Page/5월_5일.md "wikilink") \~ [2018년](../Page/2018년.md "wikilink") [10월 27일](../Page/10월_27일.md "wikilink") | 1부    | 매주 [토요일](../Page/토요일.md "wikilink") 오후 6:20 \~ 7:10 |
+| 2부                                   | 매주 [토요일](../Page/토요일.md "wikilink") 오후 7:10 \~ 7:50                                                                                                        |       |                                                     |
 
 ## 진행자
 
@@ -99,7 +98,7 @@
 
   - [MBC 뜻밖의 Q 홈페이지](https://web.archive.org/web/20180424192036/http://www.imbc.com/broad/tv/ent/QuizQ/index.html)
 
-[분류:문화방송의 예능 프로그램](https://ko.wikipedia.org/wiki/분류:문화방송의_예능_프로그램 "wikilink") [분류:2018년에 시작한 대한민국 TV 프로그램](https://ko.wikipedia.org/wiki/분류:2018년에_시작한_대한민국_TV_프로그램 "wikilink") [분류:2018년에 종료한 대한민국 TV 프로그램](https://ko.wikipedia.org/wiki/분류:2018년에_종료한_대한민국_TV_프로그램 "wikilink")
+[분류:문화방송의 예능 프로그램](https://ko.wikipedia.org/wiki/분류:문화방송의_예능_프로그램 "wikilink") [분류:2018년 폐지](https://ko.wikipedia.org/wiki/분류:2018년_폐지 "wikilink") [분류:2018년에 시작한 대한민국 TV 프로그램](https://ko.wikipedia.org/wiki/분류:2018년에_시작한_대한민국_TV_프로그램 "wikilink") [분류:2018년에 종료한 대한민국 TV 프로그램](https://ko.wikipedia.org/wiki/분류:2018년에_종료한_대한민국_TV_프로그램 "wikilink")
 
 1.  [TNmS 멀티미디어 홈페이지](http://www.tnms.tv)
 2.  [닐슨코리아 리서치 홈페이지](http://www.agbnielsen.co.kr/)

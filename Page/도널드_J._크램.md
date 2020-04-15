@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ J. ](https://ko.wikipedia.org/wiki/_J._).
+> This article is converted from Wikipedia: [도널드 J. 크램](https://ko.wikipedia.org/wiki/도널드_J._크램).
 
 
 **도널드 제임스 크램**(, [1919년](../Page/1919년.md "wikilink") [4월 22일](../Page/4월_22일.md "wikilink") \~ [2001년](../Page/2001년.md "wikilink") [6월 17일](../Page/6월_17일.md "wikilink"))은 [미국](../Page/미국.md "wikilink")의 [화학](../Page/화학.md "wikilink")자이다. 1987년 ‘자연 [분자](../Page/분자.md "wikilink")의 기능을 모방할 수 있는 3차원 분자의 합성’을 연구한 공로로 [장마리 렌](../Page/장마리_렌.md "wikilink"), [찰스 피더슨과](../Page/찰스_피더슨.md "wikilink") 함께 [노벨 화학상을](https://ko.wikipedia.org/wiki/노벨_화학상 "wikilink") 수상했다.

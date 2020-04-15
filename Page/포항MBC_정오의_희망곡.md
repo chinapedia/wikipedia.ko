@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [MBC  ](https://ko.wikipedia.org/wiki/MBC__).
+> This article is converted from Wikipedia: [포항MBC 정오의 희망곡](https://ko.wikipedia.org/wiki/포항MBC_정오의_희망곡).
 
 
 **정오의 희망곡 양유경입니다**는 [포항MBC FM4U](../Page/포항문화방송.md "wikilink")(포항,경주 FM 97.9㎒, 영덕, 울진 FM 94.9㎒, 울릉 FM 90.9㎒)에서 매일 낮 12시부터 오후 2시까지 방송되는 경북 동해안 지역의 대중가요 전문 라디오 프로그램이다. [1983년](../Page/1983년.md "wikilink") [9월 1일에](../Page/9월_1일.md "wikilink") [포항MBC FM4U가](../Page/포항문화방송.md "wikilink") 개국하면서 첫방송을 시작한 [포항MBC FM4U](../Page/포항문화방송.md "wikilink") 최장수 라디오 프로그램이다.
@@ -43,10 +43,10 @@
 
 ## 경쟁 프로그램
 
-### FM방송 (포항MBC FM4U 포함)
+### FM방송
 
   - [최화정의 파워타임](../Page/최화정의_파워타임.md "wikilink") ([TBC Dream FM](../Page/TBC_\(대한민국의_방송사\).md "wikilink"))
-  - [TBN 차차차](https://ko.wikipedia.org/wiki/TBN_차차차_\(경북\) "wikilink") ([TBN 경북교통방송](https://ko.wikipedia.org/wiki/경북교통방송 "wikilink"))
+  - [TBN 차차차](../Page/TBN_차차차_\(경북\).md "wikilink") ([TBN 경북교통방송](https://ko.wikipedia.org/wiki/경북교통방송 "wikilink"))
   - 한낮의 휴식, 장수연입니다 ([BBS 대구불교방송](../Page/대구불교방송.md "wikilink"))
   - [대구cpbc 정오종합뉴스](https://ko.wikipedia.org/wiki/cpbc_정오종합뉴스 "wikilink") ([cpbc 대구가톨릭평화방송](../Page/대구가톨릭평화방송.md "wikilink"))
   - [신부님 신부님 우리 신부님](https://ko.wikipedia.org/wiki/신부님_신부님_우리_신부님 "wikilink") (평일) ([cpbc 대구가톨릭평화방송](../Page/대구가톨릭평화방송.md "wikilink"))

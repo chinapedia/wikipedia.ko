@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [K  ](https://ko.wikipedia.org/wiki/K__).
+> This article is converted from Wikipedia: [K리그 라운드 최우수선수](https://ko.wikipedia.org/wiki/K리그_라운드_최우수선수).
 
 
 K리그 라운드 최우수선수는 2011년부터 [한국프로축구연맹](../Page/한국프로축구연맹.md "wikilink")이 매 라운드 최고의 활약을 펼친 선수를 선정하여 시상하는 상이다.\[1\]

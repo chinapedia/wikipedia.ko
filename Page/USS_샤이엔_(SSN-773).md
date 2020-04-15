@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [USS  \(SSN-773\)](https://ko.wikipedia.org/wiki/USS__\(SSN-773\)).
+> This article is converted from Wikipedia: [USS 샤이엔 \(SSN-773\)](https://ko.wikipedia.org/wiki/USS_샤이엔_\(SSN-773\)).
 
 
 **USS 샤이엔 (SSN-773)**은 미국 해군의 [LA급 잠수함이다](https://ko.wikipedia.org/wiki/LA급_잠수함 "wikilink"). [와이오밍주](../Page/와이오밍주.md "wikilink")의 [샤이엔](https://ko.wikipedia.org/wiki/샤이엔 "wikilink")시의 이름을 한 3번째 미국 해군 군함이다. 62척이 건조된 [LA급 잠수함은](https://ko.wikipedia.org/wiki/LA급_잠수함 "wikilink") 2017년 현재 36척이 사용중이며, 샤이엔함은 62척 중 가장 마지막에 건조된 잠수함이다.

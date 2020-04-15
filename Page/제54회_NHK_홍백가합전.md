@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [54 NHK ](https://ko.wikipedia.org/wiki/54_NHK_).
+> This article is converted from Wikipedia: [제54회 NHK 홍백가합전](https://ko.wikipedia.org/wiki/제54회_NHK_홍백가합전).
 
 
 《**제54회 NHK 홍백가합전**》()는 [2003년](../Page/2003년.md "wikilink") [12월 31일에](../Page/12월_31일.md "wikilink") 방송된 통산 54회째인 [NHK 홍백가합전이다](../Page/NHK_홍백가합전.md "wikilink").

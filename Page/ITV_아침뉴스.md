@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ITV ](https://ko.wikipedia.org/wiki/ITV_).
+> This article is converted from Wikipedia: [ITV 아침뉴스](https://ko.wikipedia.org/wiki/ITV_아침뉴스).
 
 
 **iTV 아침뉴스**는 [1997년](../Page/1997년.md "wikilink") [10월 13일부터](../Page/10월_13일.md "wikilink") [2003년](../Page/2003년.md "wikilink") [10월 24일까지](../Page/10월_24일.md "wikilink") 방송되었던 [iTV 경인방송의](../Page/경인방송.md "wikilink") [뉴스](../Page/뉴스.md "wikilink") 프로그램이다.

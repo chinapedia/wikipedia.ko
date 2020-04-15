@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ H. ](https://ko.wikipedia.org/wiki/_H._).
+> This article is converted from Wikipedia: [스티븐 H. 숄스](https://ko.wikipedia.org/wiki/스티븐_H._숄스).
 
 
 **스티븐 헨리 숄스**(Stephen Henry Sholes, 1911년 2월 12일 \~ 1968년 4월 22일\[1\])는 [RCA 빅터의](../Page/RCA_레코드.md "wikilink") 고관이다.

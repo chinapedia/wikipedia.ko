@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [I am \(\(\) EP\)](https://ko.wikipedia.org/wiki/I_am_\(\(\)_EP\)).
+> This article is converted from Wikipedia: [I am \(\(여자\)아이들의 EP\)](https://ko.wikipedia.org/wiki/I_am_\(\(여자\)아이들의_EP\)).
 
 
 《**I am**》은 [(여자)아이들](../Page/\(여자\)아이들.md "wikilink")의 데뷔 음반이자 첫 번째 미니 음반으로, 2018년 5월 2일 발매되었다. 타이틀 곡은 〈LATATA〉이다.

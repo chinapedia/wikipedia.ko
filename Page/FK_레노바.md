@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FK ](https://ko.wikipedia.org/wiki/FK_).
+> This article is converted from Wikipedia: [FK 레노바](https://ko.wikipedia.org/wiki/FK_레노바).
 
 
 **FK 레노바**()는 [테토보](https://ko.wikipedia.org/wiki/테토보 "wikilink") 인근에 위치한 마을인 젭치슈테(Džepčište)를 연고로 하는 [북마케도니아](../Page/북마케도니아.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다. 현재는 [북마케도니아 1부 리그에](../Page/북마케도니아_1부_리그.md "wikilink") 참가하고 있다.

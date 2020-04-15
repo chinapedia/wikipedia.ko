@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TV  9](https://ko.wikipedia.org/wiki/TV__9).
+> This article is converted from Wikipedia: [TV조선 뉴스 9](https://ko.wikipedia.org/wiki/TV조선_뉴스_9).
 
 
 《**TV조선 뉴스 9**》은 [대한민국](../Page/대한민국.md "wikilink") [종합편성채널](https://ko.wikipedia.org/wiki/종합편성채널 "wikilink")인 [TV조선](../Page/TV조선.md "wikilink")에서 [평일](https://ko.wikipedia.org/wiki/평일 "wikilink") 밤 9시, [주말](https://ko.wikipedia.org/wiki/주말 "wikilink") 저녁 7시에 방송되는 [TV조선](../Page/TV조선.md "wikilink")의 메인[뉴스](../Page/뉴스.md "wikilink") 프로그램이다. 주말에는 **TV조선 뉴스 7**이라는 명칭으로 방송된다.
@@ -31,10 +31,6 @@
   - [뉴스A](../Page/뉴스A.md "wikilink")
   - [MBN 종합뉴스](../Page/MBN_종합뉴스.md "wikilink")
   - [OBS 뉴스중심](../Page/OBS_뉴스중심.md "wikilink")
-
-## 시보 광고
-
-  - [현대자동차](https://ko.wikipedia.org/wiki/현대자동차 "wikilink")
 
 ## 외부 링크
 

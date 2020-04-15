@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [CS   ](https://ko.wikipedia.org/wiki/CS___).
+> This article is converted from Wikipedia: [CS 가즈 메탄 메디아슈](https://ko.wikipedia.org/wiki/CS_가즈_메탄_메디아슈).
 
 
 **CS 가즈 메탄 메디아슈**(Clubul Sportiv Gaz Metan Mediaș)는 [시비우 주](https://ko.wikipedia.org/wiki/시비우_주 "wikilink") [메디아슈](https://ko.wikipedia.org/wiki/메디아슈 "wikilink")를 연고로 하는 [루마니아](../Page/루마니아.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다. 현재는 [리가 I에](../Page/리가_I.md "wikilink") 참가하고 있다.

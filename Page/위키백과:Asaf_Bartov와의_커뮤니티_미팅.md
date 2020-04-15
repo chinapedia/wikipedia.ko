@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Asaf Bartov  ](https://ko.wikipedia.org/wiki/:Asaf_Bartov__).
+> This article is converted from Wikipedia: [위키백과:Asaf Bartov와의 커뮤니티 미팅](https://ko.wikipedia.org/wiki/위키백과:Asaf_Bartov와의_커뮤니티_미팅).
 
 
 위키미디어 재단 스태프인 [Asaf Bartov가](https://ko.wikipedia.org/wiki/:meta:User:Asaf_\(WMF\) "wikilink") 10월에 [위키컨퍼런스 서울 2017에](https://ko.wikipedia.org/wiki/백:컨2017 "wikilink") 참가하기 위해 대한민국을 방문함에 따라 Asaf와 대한민국의 위키미디어 사용자들이 만나는 커뮤니티 미팅을 개최합니다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TV](https://ko.wikipedia.org/wiki/TV).
+> This article is converted from Wikipedia: [ㅋㄷㅋㄷ코딩TV](https://ko.wikipedia.org/wiki/ㅋㄷㅋㄷ코딩TV).
 
 
 《**ㅋㄷㅋㄷ코딩TV**》는 [2017년](../Page/2017년.md "wikilink") [9월 8일부터](../Page/9월_8일.md "wikilink") [2019년](../Page/2019년.md "wikilink") [3월 8일까지](../Page/3월_8일.md "wikilink") 방영된 [KBS 2TV](../Page/KBS_2TV.md "wikilink") [어린이](../Page/어린이.md "wikilink")•[코딩](https://ko.wikipedia.org/wiki/코딩 "wikilink") [프로그램](https://ko.wikipedia.org/wiki/프로그램 "wikilink")이다.
@@ -22,11 +22,11 @@
 
 ### 양띵×코딩 TV
 
-  - [크리에이터](../Page/크리에이터.md "wikilink") [양띵](https://ko.wikipedia.org/wiki/양띵 "wikilink")과 삼식, 콩콩, 서넹, 루태가 출연.
+  - [크리에이터](../Page/크리에이터.md "wikilink") [양띵](https://ko.wikipedia.org/wiki/양띵 "wikilink")과 삼식, 콩콩, 서넹, 루태가 출연했다.
 
 ### 네오봇 마스터
 
-  - 20년 뒤의 [2037년](../Page/2037년.md "wikilink")을 배경으로 했으며, 지누가 [코딩](https://ko.wikipedia.org/wiki/코딩 "wikilink") [아카데미](https://ko.wikipedia.org/wiki/아카데미 "wikilink")에서 여러 고난과 음모를 극복하여 최고의 [코딩](https://ko.wikipedia.org/wiki/코딩 "wikilink") 프로그래머이자 [로봇](../Page/로봇.md "wikilink") 조종사인 네오봇 마스터가 되는 과정을 그린 [애니메이션](../Page/애니메이션.md "wikilink").
+  - 20년 뒤의 [2037년](../Page/2037년.md "wikilink")을 배경으로 했으며, 지누가 [코딩](https://ko.wikipedia.org/wiki/코딩 "wikilink") [아카데미](https://ko.wikipedia.org/wiki/아카데미 "wikilink")에서 여러 고난과 음모를 극복하여 최고의 [코딩](https://ko.wikipedia.org/wiki/코딩 "wikilink") 프로그래머이자 [로봇](../Page/로봇.md "wikilink") 조종사인 네오봇 마스터가 되는 과정을 그린 [애니메이션](../Page/애니메이션.md "wikilink")이다.
 
 ## 시청률
 

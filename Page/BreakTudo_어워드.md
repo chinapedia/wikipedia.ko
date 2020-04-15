@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [BreakTudo ](https://ko.wikipedia.org/wiki/BreakTudo_).
+> This article is converted from Wikipedia: [BreakTudo 어워드](https://ko.wikipedia.org/wiki/BreakTudo_어워드).
 
 
 **BreakTudo 어워드**(, 약칭 BTDAs)\[1\] 은 BreakTudo 의 주최로 진행되는 시상식으로 2010 년브라질 처음으로 개최하였다. 이미 수여 된 예술가 : [방탄소년단](../Page/방탄소년단.md "wikilink"), [아니타](https://ko.wikipedia.org/wiki/아니타 "wikilink"), [셀레나 고메즈](../Page/셀레나_고메즈.md "wikilink"), [데미 로바토](../Page/데미_로바토.md "wikilink"), [데미 로바토](../Page/데미_로바토.md "wikilink"), [이베치 상갈루](../Page/이베치_상갈루.md "wikilink") 및 루이스 톰린슨. 이상은 Revotec과 협력하여 [BreakTudo](https://ko.wikipedia.org/wiki/:es:_Premios_BreakTudo "wikilink") 가 매년 음악, TV 및 디지털 영향력 자의 아티스트에게 수여하는 상입니다.\[2\]\[3\]\[4\]

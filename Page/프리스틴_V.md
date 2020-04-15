@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ V](https://ko.wikipedia.org/wiki/_V).
+> This article is converted from Wikipedia: [프리스틴 V](https://ko.wikipedia.org/wiki/프리스틴_V).
 
 
 **프리스틴 V**()는 대한민국의 걸 그룹 [프리스틴](https://ko.wikipedia.org/wiki/프리스틴 "wikilink")의 유닛 그룹이였다.\[1\] 팀명에서 **V**는 멤버 5명을 의미하는 [로마 숫자](../Page/로마_숫자.md "wikilink") **Ⅴ**와, [빌런](https://ko.wikipedia.org/wiki/빌런 "wikilink")의 **V** 2가지를 의미한다.\[2\]

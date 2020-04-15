@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [BBC  ](https://ko.wikipedia.org/wiki/BBC__).
+> This article is converted from Wikipedia: [BBC 페르시안 텔레비전](https://ko.wikipedia.org/wiki/BBC_페르시안_텔레비전).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:BBC_Persian_logo.svg "wikilink") **BBC 페르시안 텔레비전** (BBC Persian Television, )은 [BBC](https://ko.wikipedia.org/wiki/BBC "wikilink")의 [페르시아어](https://ko.wikipedia.org/wiki/페르시아어 "wikilink") [뉴스 채널이다](https://ko.wikipedia.org/wiki/뉴스_채널 "wikilink"). 2009년 1월 14일 방송을 개시하였으며,\[1\] 위성방송과 온라인 방송을 진행하고 있다. [이란](../Page/이란.md "wikilink")과 [아프가니스탄](https://ko.wikipedia.org/wiki/아프가니스탄 "wikilink"), [타지키스탄](../Page/타지키스탄.md "wikilink"), [우즈베키스탄](../Page/우즈베키스탄.md "wikilink") 등지의 [페르시아어](https://ko.wikipedia.org/wiki/페르시아어 "wikilink") 화자들을 시청자로 삼고 있다.

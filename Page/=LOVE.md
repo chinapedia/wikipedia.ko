@@ -5,7 +5,7 @@
 
 ## 개요
 
-[HKT48](../Page/HKT48.md "wikilink")의 멤버이자 현역 아이돌 [사시하라 리노는](../Page/사시하라_리노.md "wikilink") 성우 학교로 업계 제일의 역사와 실적을 자랑하는 [요요기 애니메이션 학원에](https://ko.wikipedia.org/wiki/요요기_애니메이션_학원 "wikilink") 의한 「성우 교육」을 베푼 새로운 「성우 아이돌」을 프로듀스해, 2017년에 발족했다. 그룹명은 「아이돌은 팬에게 사랑 받지 않으면 안된다」, 「아이돌이라는 일을 사랑해야 한다」겠다는 뜻을 담고 있다. 자매그룹은 [≠ME](https://ko.wikipedia.org/wiki/≠ME "wikilink") 이다
+[HKT48](../Page/HKT48.md "wikilink")의 멤버이자 현역 아이돌 [사시하라 리노는](../Page/사시하라_리노.md "wikilink") 성우 학교로 업계 제일의 역사와 실적을 자랑하는 [요요기 애니메이션 학원에](https://ko.wikipedia.org/wiki/요요기_애니메이션_학원 "wikilink") 의한 「성우 교육」을 베푼 새로운 「성우 아이돌」을 프로듀스해, 2017년에 발족했다. 그룹명은 「아이돌은 팬에게 사랑 받지 않으면 안된다」, 「아이돌이라는 일을 사랑해야 한다」겠다는 뜻을 담고 있다. 자매그룹은 [≠ME](../Page/≠ME.md "wikilink") 이다 [AKB48](../Page/AKB48.md "wikilink")겸[HKT48](../Page/HKT48.md "wikilink")졸업멤버인[사시하라 리노가프로듀서를하고있는그룹](../Page/사시하라_리노.md "wikilink")1번재이다.
 
 ## 멤버
 
@@ -185,6 +185,13 @@
 <td><p>1</p></td>
 </tr>
 <tr class="odd">
+<td><p>7</p></td>
+<td><p>2020년 3월 28일</p></td>
+<td><p><strong><a href="https://ko.wikipedia.org/wiki/CAMEO" title="wikilink">CAMEO</a></strong><br />
+<small>카메오</small></p></td>
+<td><p>-</p></td>
+</tr>
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -195,7 +202,7 @@
 
 ## 같이 보기
 
-  - [≠ME](https://ko.wikipedia.org/wiki/≠ME "wikilink")
+  - [≠ME](../Page/≠ME.md "wikilink")
   - [사시하라 리노](../Page/사시하라_리노.md "wikilink")(프로듀서)
 
 ## 외부 링크
@@ -214,4 +221,4 @@
 
   - [=LOVE 콜라보 카페 - AKIHABARA CROSS TERRACE](https://www.akihabara-cross.com/)
 
-{{=LOVE}}  [분류:일본의 성우 그룹](https://ko.wikipedia.org/wiki/분류:일본의_성우_그룹 "wikilink") [분류:일본의 걸 그룹](https://ko.wikipedia.org/wiki/분류:일본의_걸_그룹 "wikilink") [분류:2017년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2017년_결성된_음악_그룹 "wikilink") [분류:2017년 데뷔](https://ko.wikipedia.org/wiki/분류:2017년_데뷔 "wikilink") [분류:10인조 이상 음악 그룹](https://ko.wikipedia.org/wiki/분류:10인조_이상_음악_그룹 "wikilink") [분류:2010년대 음악 그룹](https://ko.wikipedia.org/wiki/분류:2010년대_음악_그룹 "wikilink") [분류:소니 뮤직 엔터테인먼트 (일본)의 음악가](https://ko.wikipedia.org/wiki/분류:소니_뮤직_엔터테인먼트_\(일본\)의_음악가 "wikilink")
+{{=LOVE}}  [분류:일본의 성우 그룹](https://ko.wikipedia.org/wiki/분류:일본의_성우_그룹 "wikilink") [분류:일본의 걸 그룹](https://ko.wikipedia.org/wiki/분류:일본의_걸_그룹 "wikilink") [분류:2017년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2017년_결성된_음악_그룹 "wikilink") [분류:2017년 데뷔](https://ko.wikipedia.org/wiki/분류:2017년_데뷔 "wikilink") [분류:10인조 이상 음악 그룹](https://ko.wikipedia.org/wiki/분류:10인조_이상_음악_그룹 "wikilink") [분류:2010년대 음악 그룹](https://ko.wikipedia.org/wiki/분류:2010년대_음악_그룹 "wikilink") [분류:2020년대 음악 그룹](https://ko.wikipedia.org/wiki/분류:2020년대_음악_그룹 "wikilink") [분류:소니 뮤직 엔터테인먼트 (일본)의 음악가](https://ko.wikipedia.org/wiki/분류:소니_뮤직_엔터테인먼트_\(일본\)의_음악가 "wikilink")

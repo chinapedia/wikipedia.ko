@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [\'s ](https://ko.wikipedia.org/wiki/\'s_).
+> This article is converted from Wikipedia: [아재\'s 러브](https://ko.wikipedia.org/wiki/아재\'s_러브).
 
 
 《**아재's 러브**》()는 [일본](../Page/일본.md "wikilink")의 [TV 아사히](../Page/TV_아사히.md "wikilink") 계열의 드라마이다. [2018년](../Page/2018년.md "wikilink")부터 방송되고 있는 텔레비전 드라마 시리즈이다.
@@ -118,7 +118,7 @@ SP드라마를 시작으로 점점 이야기를 넓혀가고 있는 아재's 러
     텐구부동산 본사근무. 신프로젝트 "Genius7"의 리더
     어느날 텐구부동산 도쿄 제2영업소를 방문하여 시급히 영업소를 비워달라고 명령함.
 
-**야마다 저스티스 - [오오츠카 네네](https://ko.wikipedia.org/wiki/오오츠카_네네 "wikilink")**
+**야마다 저스티스 - [시손 쥰](https://ko.wikipedia.org/wiki/오오츠카_네네 "wikilink")**
 
   -
     텐구부동산에 도쿄 제2영업소에 새로이 발령받은 신인사원

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [EICAR  ](https://ko.wikipedia.org/wiki/EICAR__).
+> This article is converted from Wikipedia: [EICAR 테스트 파일](https://ko.wikipedia.org/wiki/EICAR_테스트_파일).
 
 
 **EICAR Anti-Virus Test File**\[1\] 또는 **EICAR test file**(EICAR 테스트 파일)은 [European Institute for Computer Antivirus Research](../Page/EICAR.md "wikilink")(EICAR)와 [Computer Antivirus Research Organization](https://ko.wikipedia.org/wiki/CARO "wikilink")(CARO)에서 개발된 컴퓨터 파일이다. 이 프로그램은 [안티바이러스](https://ko.wikipedia.org/wiki/안티바이러스 "wikilink") 소프트웨어를 테스트하기 위해 제작되었다.\[2\] 실제로 컴퓨터에 피해를 줄 수 있는 바이러스 파일을 사용하는 대신 이 테스트 파일을 사용하면 안전하게 백신 프로그램을 테스트할 수 있다.\[3\]

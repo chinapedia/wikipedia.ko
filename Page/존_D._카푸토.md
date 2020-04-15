@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ D. ](https://ko.wikipedia.org/wiki/_D._).
+> This article is converted from Wikipedia: [존 D. 카푸토](https://ko.wikipedia.org/wiki/존_D._카푸토).
 
 
 <span>**존 D. 카푸토**(John D. Caputo, 1940년 10월 26일 - </span>)는 미국 [시라쿠스 대학교와](../Page/시러큐스_대학교.md "wikilink") [발라노바 대학교의](https://ko.wikipedia.org/wiki/빌라노바_대학교 "wikilink") 철학교수였다. 카푸토는 [포스트모던 신학자로서](../Page/포스트모던_신학.md "wikilink")\[1\] [약한 신학으로](../Page/약한_신학.md "wikilink") 알려진 [포스트모던](https://ko.wikipedia.org/wiki/포스트모던 "wikilink") 신학 운동의 창설자이다. [해석학 (철학)](../Page/해석학_\(철학\).md "wikilink"), [현상학](../Page/현상학.md "wikilink"), [해체주의](https://ko.wikipedia.org/wiki/탈구축 "wikilink"), 그리고 [신학](../Page/신학.md "wikilink")에 여러 작품들이 있다.\[2\]

@@ -1,13 +1,11 @@
-> This article is converted from Wikipedia: [JTBC](https://ko.wikipedia.org/wiki/JTBC).
+> This article is converted from Wikipedia: [JTBC빌딩](https://ko.wikipedia.org/wiki/JTBC빌딩).
 
-
-[섬네일](https://ko.wikipedia.org/wiki/파일:JTBC_Tower.jpg "wikilink")
 
 **JTBC빌딩**()는 [서울특별시](../Page/서울특별시.md "wikilink") [마포구](../Page/마포구.md "wikilink") [상암동](https://ko.wikipedia.org/wiki/상암동 "wikilink")에 위치한 방송국 건물이다.
 
 ## 내부 시설
 
-| 층수         | 시설명                                                                                                                                                                                          |
+| 층수         | 용도                                                                                                                                                                                           |
 | ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 21층        | JTBC 상임고문실(회장 겸 대표이사 사장), 회의실                                                                                                                                                                |
 | 20층        | JTBC 임원실, 경영지원본부, 전략편성본부, 대외협력본부, JTBC4                                                                                                                                                      |

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [God \(  \)](https://ko.wikipedia.org/wiki/God_\(__\)).
+> This article is converted from Wikipedia: [God \(존 레논의 노래\)](https://ko.wikipedia.org/wiki/God_\(존_레논의_노래\)).
 
 
 〈**God**〉은 존 레논의 첫 정규 솔로 음반 《[John Lennon/Plastic Ono Band](https://ko.wikipedia.org/wiki/John_Lennon/Plastic_Ono_Band "wikilink")》에 수록된 노래다. 음반에 담겨 1970년 12월 11일 미국과 영국에서 동시에 출시되었다. 노래는 공개와 동시에 [반종교](../Page/반종교주의.md "wikilink") 주제로 많은 논란을 불러일으켰다.

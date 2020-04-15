@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [LT](https://ko.wikipedia.org/wiki/LT).
+> This article is converted from Wikipedia: [LT정밀](https://ko.wikipedia.org/wiki/LT정밀).
 
 
 **LT정밀 주식회사**()는 [희성그룹](https://ko.wikipedia.org/wiki/희성그룹 "wikilink") 계열의 전자부품 제조, 자동차부품 제조 기업이다.

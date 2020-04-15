@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Z ](https://ko.wikipedia.org/wiki/Z_).
+> This article is converted from Wikipedia: [Z 셸](https://ko.wikipedia.org/wiki/Z_셸).
 
 
 **Z 셸**(Z shell, zsh)은 [상호작용](../Page/상호작용.md "wikilink") 로그인 [셸](../Page/셸.md "wikilink")이자 [셸 스크립트를](../Page/셸_스크립트.md "wikilink") 위한 강력한 [명령 줄 인터프리터로](../Page/명령_줄_인터페이스.md "wikilink") 사용할 수 있는 [유닉스 셸이다](../Page/유닉스_셸.md "wikilink"). Zsh는 [bash](https://ko.wikipedia.org/wiki/bash "wikilink"), [ksh](../Page/콘_셸.md "wikilink"), [tcsh](https://ko.wikipedia.org/wiki/tcsh "wikilink")의 일부 기능을 포함하여 수많은 개선 사항이 갖추어진 확장형 [본 셸이다](../Page/본_셸.md "wikilink").

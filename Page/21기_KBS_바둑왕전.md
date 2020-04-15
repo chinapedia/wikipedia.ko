@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [21 KBS ](https://ko.wikipedia.org/wiki/21_KBS_).
+> This article is converted from Wikipedia: [21기 KBS 바둑왕전](https://ko.wikipedia.org/wiki/21기_KBS_바둑왕전).
 
 
 **21기 KBS 바둑왕전**은 TV 속기전이 참가한 국내 바둑 기전이다. 결승에서는 [이창호](../Page/이창호.md "wikilink") 九단이 [이상훈](https://ko.wikipedia.org/wiki/이상훈_\(1973년\) "wikilink") (大) 七단을 2대 1로 꺾고 통산 6회 우승을 차지했다.

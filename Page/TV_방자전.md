@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TV ](https://ko.wikipedia.org/wiki/TV_).
+> This article is converted from Wikipedia: [TV 방자전](https://ko.wikipedia.org/wiki/TV_방자전).
 
 
 《**TV 방자전**》은 [2011년](../Page/2011년.md "wikilink") [11월 5일부터](../Page/11월_5일.md "wikilink") [2011년](../Page/2011년.md "wikilink") [11월 26일까지](../Page/11월_26일.md "wikilink") [채널CGV](https://ko.wikipedia.org/wiki/채널CGV "wikilink")에서 방영한 드라마이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ C \(Y-DNA\)](https://ko.wikipedia.org/wiki/_C_\(Y-DNA\)).
+> This article is converted from Wikipedia: [하플로그룹 C \(Y-DNA\)](https://ko.wikipedia.org/wiki/하플로그룹_C_\(Y-DNA\)).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Haplogroup_C_\(Y-DNA\)_migration.png "wikilink") **하플로그룹 C** 또는 **하플로그룹 C-M130**는 주요 [인류 Y-염색체 DNA 하플로그룹](https://ko.wikipedia.org/wiki/인류_Y-염색체_DNA_하플로그룹 "wikilink") 중 하나로, [SNP 돌연변이](https://ko.wikipedia.org/wiki/단일염기_다형성 "wikilink") UEPs M130/RPS4Y711, P184, P255, 그리고 P260의 유무로 결정된다. [하플로그룹 F와](https://ko.wikipedia.org/wiki/하플로그룹_F_\(Y-DNA\) "wikilink") 함께 [하플로그룹 CF의](https://ko.wikipedia.org/wiki/하플로그룹_CF_\(Y-DNA\) "wikilink") 처음의 두 분파 중 하나이다. 아프리카를 제외한 모든 대륙의 고대 인구에게서 발견된다.

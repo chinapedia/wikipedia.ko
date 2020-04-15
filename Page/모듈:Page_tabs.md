@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Page tabs](https://ko.wikipedia.org/wiki/:Page_tabs).
+> This article is converted from Wikipedia: [모듈:Page tabs](https://ko.wikipedia.org/wiki/모듈:Page_tabs).
 
 
 \-- This module implements .

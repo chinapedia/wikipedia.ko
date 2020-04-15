@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ F. ](https://ko.wikipedia.org/wiki/_F._).
+> This article is converted from Wikipedia: [데이비드 F. 라이트](https://ko.wikipedia.org/wiki/데이비드_F._라이트).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:The_grave_of_David_F._Wright,_Grange_Cemetery,_Edinburgh.jpg "wikilink") **데이비드 F. 라이트**(David F. Wright, 1937년 10월 2일-2008년 2월 19일)는 영국 출신의 역사가이며 [에든버러 대학교](../Page/에든버러_대학교.md "wikilink") 뉴 컬리지에서 50년 동안 교회사와 [칼뱅신학](https://ko.wikipedia.org/wiki/칼뱅신학 "wikilink")을 가르쳤다. [캠브리지 대학교와](https://ko.wikipedia.org/wiki/캠브리지_대학교 "wikilink") [옥스포드 대학교에서](https://ko.wikipedia.org/wiki/옥스포드_대학교 "wikilink") 공부를 하였다. 그는 [어거스틴](https://ko.wikipedia.org/wiki/어거스틴 "wikilink")과 [세례](../Page/세례.md "wikilink"), [마르틴 부서](../Page/마르틴_부서.md "wikilink"), [피터 버미글리와](../Page/피터_버미글리.md "wikilink") 같은 [종교개혁가](https://ko.wikipedia.org/wiki/종교개혁가 "wikilink")과 그리고 [칼뱅](https://ko.wikipedia.org/wiki/칼뱅 "wikilink")에 대한 깊을 연구를 하였다. [세계칼빈학회](../Page/세계칼빈학회.md "wikilink") 회장을 역임하였다. 중요한 신학사전의 편집자였다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ D. ](https://ko.wikipedia.org/wiki/_D._).
+> This article is converted from Wikipedia: [폴 D. 보이어](https://ko.wikipedia.org/wiki/폴_D._보이어).
 
 
 **폴 델로스 보이어**(, [1918년](../Page/1918년.md "wikilink") [7월 31일](../Page/7월_31일.md "wikilink") \~ [2018년](../Page/2018년.md "wikilink") [6월 2일](../Page/6월_2일.md "wikilink")) 박사는 [미국](../Page/미국.md "wikilink")의 [생화학자](https://ko.wikipedia.org/wiki/생화학자 "wikilink")이다. 1997년에 [아데노신 삼인산](../Page/아데노신_삼인산.md "wikilink") 합성 반응의 기초를 이루는 [효소](../Page/효소.md "wikilink") 기작에 대한 메커니즘을 규명한 공로로 [존 E. 워커](../Page/존_E._워커.md "wikilink"), [옌스 크리스티안 스코우](../Page/옌스_크리스티안_스코우.md "wikilink") 박사와 함께 [노벨 화학상을](https://ko.wikipedia.org/wiki/노벨_화학상 "wikilink") 수상했다.\[1\]

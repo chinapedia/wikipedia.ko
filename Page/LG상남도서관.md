@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [LG](https://ko.wikipedia.org/wiki/LG).
+> This article is converted from Wikipedia: [LG상남도서관](https://ko.wikipedia.org/wiki/LG상남도서관).
 
 
 **LG상남도서관**은 [LG연암문화재단](https://ko.wikipedia.org/wiki/LG연암문화재단 "wikilink")이 설립한 사설 도서관이다.\[1\] 본래 주택용으로 설계되었지만 [구자경으로부터](../Page/구자경_\(1925년\).md "wikilink") 연암문화재단이 기증받아 도서관으로 운영되고 있다.\[2\]

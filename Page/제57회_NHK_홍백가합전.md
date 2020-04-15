@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [57 NHK ](https://ko.wikipedia.org/wiki/57_NHK_).
+> This article is converted from Wikipedia: [제57회 NHK 홍백가합전](https://ko.wikipedia.org/wiki/제57회_NHK_홍백가합전).
 
 
 《**제57회 NHK 홍백가합전**》()는 [2006년](../Page/2006년.md "wikilink") [12월 31일에](../Page/12월_31일.md "wikilink") 방송된 통산 57회째인 [NHK 홍백가합전이다](../Page/NHK_홍백가합전.md "wikilink").

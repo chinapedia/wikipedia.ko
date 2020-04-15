@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Formatprice](https://ko.wikipedia.org/wiki/:Formatprice).
+> This article is converted from Wikipedia: [틀:Formatprice](https://ko.wikipedia.org/wiki/틀:Formatprice).
 
 
 {{\#iferror:{{

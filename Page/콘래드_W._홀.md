@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ W. ](https://ko.wikipedia.org/wiki/_W._).
+> This article is converted from Wikipedia: [콘래드 W. 홀](https://ko.wikipedia.org/wiki/콘래드_W._홀).
 
 
 **콘래드 윈 홀**(, [1958년](../Page/1958년.md "wikilink") [10월 5일](../Page/10월_5일.md "wikilink") \~ )은 [미국](../Page/미국.md "wikilink")의 영화 촬영 기사이다. [콘래드 홀](../Page/콘래드_홀.md "wikilink") 촬영 감독의 아들로, [데이비드 핀처](../Page/데이비드_핀처.md "wikilink") 영화의 촬영 조감독으로 경력을 시작했다. 촬영 전담 작품 중 대표작으로 [조너선 헨즐리](../Page/조너선_헨즐리.md "wikilink") 감독의 《[퍼니셔](https://ko.wikipedia.org/wiki/퍼니셔_\(2004년_영화\) "wikilink")》(2004), [앤트완 퓨콰](../Page/앤트완_퓨콰.md "wikilink") 감독의 《[백악관 최후의 날](../Page/백악관_최후의_날.md "wikilink")》(2013)이 있다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ IV:    ](https://ko.wikipedia.org/wiki/_IV:____).
+> This article is converted from Wikipedia: [이스 IV: 더 던 오브 이스](https://ko.wikipedia.org/wiki/이스_IV:_더_던_오브_이스).
 
 
 《**이스 IV: 더 던 오브 이스**》()는 [허드슨 소프트가](../Page/허드슨_소프트.md "wikilink") 제작한 [PC 엔진 CD용](https://ko.wikipedia.org/wiki/PC_엔진_CD "wikilink") [액션 롤플레잉 게임이다](https://ko.wikipedia.org/wiki/액션_롤플레잉_게임 "wikilink"). [이스](../Page/이스_\(시리즈\).md "wikilink") 시리즈의 네번째 작품으로, 개발인원 부족에 시달리던 [니혼 팔콤이](../Page/니혼_팔콤.md "wikilink") 허드슨에 발주해 개발된 게임이다.

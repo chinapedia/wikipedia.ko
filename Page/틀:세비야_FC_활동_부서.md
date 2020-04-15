@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [: FC  ](https://ko.wikipedia.org/wiki/:_FC__).
+> This article is converted from Wikipedia: [틀:세비야 FC 활동 부서](https://ko.wikipedia.org/wiki/틀:세비야_FC_활동_부서).
 
 
 <table>

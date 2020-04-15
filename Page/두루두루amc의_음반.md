@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [amc ](https://ko.wikipedia.org/wiki/amc_).
+> This article is converted from Wikipedia: [두루두루amc의 음반](https://ko.wikipedia.org/wiki/두루두루amc의_음반).
 
 
 이 문서는 [두루두루amc](https://ko.wikipedia.org/wiki/두루두루amc "wikilink")에서 발매한 음반 목록이다.

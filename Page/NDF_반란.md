@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [NDF ](https://ko.wikipedia.org/wiki/NDF_).
+> This article is converted from Wikipedia: [NDF 반란](https://ko.wikipedia.org/wiki/NDF_반란).
 
 
 **NDF 반란**은 [북예멘](https://ko.wikipedia.org/wiki/북예멘 "wikilink") 정부와 [예멘 국가민주전선](../Page/예멘_국가민주전선.md "wikilink") 사이에 일어난 전쟁이다. [예멘 국가민주전선은](../Page/예멘_국가민주전선.md "wikilink") [북예멘](https://ko.wikipedia.org/wiki/북예멘 "wikilink") 정부군와 [무슬림 형제단에](../Page/무슬림_형제단.md "wikilink") 의해 패배하였다.

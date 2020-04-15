@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [QL](https://ko.wikipedia.org/wiki/QL).
+> This article is converted from Wikipedia: [그래프QL](https://ko.wikipedia.org/wiki/그래프QL).
 
 
 **그래프QL**()\[1\]은 [페이스북](../Page/페이스북.md "wikilink")이 [2012년](../Page/2012년.md "wikilink")에 개발하여 [2015년](../Page/2015년.md "wikilink")에 공개적으로 발표된 데이터 [질의어](https://ko.wikipedia.org/wiki/질의어 "wikilink")이다.\[2\] 그래프QL은 [REST](../Page/REST.md "wikilink") 및 부속 [웹서비스](https://ko.wikipedia.org/wiki/웹서비스 "wikilink") 아키텍쳐를 대체할 수 있다.\[3\] 클라이언트는 필요한 데이터의 구조를 지정할 수 있으며, 서버는 정확히 동일한 구조로 데이터를 반환한다. 그래프QL은 사용자가 어떤 데이터가 필요한 지 명시할 수 있게 해 주는 강타입 언어이다. 이러한 구조를 통해 불필요한 데이터를 받게 되거나 필요한 데이터를 받지 못하는 문제를 피할 수 있다.

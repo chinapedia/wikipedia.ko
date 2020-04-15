@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  ZEROG](https://ko.wikipedia.org/wiki/__ZEROG).
+> This article is converted from Wikipedia: [메탈파이트 베이블레이드 ZEROG](https://ko.wikipedia.org/wiki/메탈파이트_베이블레이드_ZEROG).
 
 
 《**메탈파이트 베이블레이드 ZEROG**》()는 [팽이](../Page/팽이.md "wikilink")를 소재로 한 [일본](../Page/일본.md "wikilink")의 [애니메이션](../Page/애니메이션.md "wikilink")이다.

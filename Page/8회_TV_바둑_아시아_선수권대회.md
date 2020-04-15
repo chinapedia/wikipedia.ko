@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [8 TV   ](https://ko.wikipedia.org/wiki/8_TV___).
+> This article is converted from Wikipedia: [8회 TV 바둑 아시아 선수권대회](https://ko.wikipedia.org/wiki/8회_TV_바둑_아시아_선수권대회).
 
 
 **8회 TV 바둑 아시아 선수권대회**는 [대한민국](../Page/대한민국.md "wikilink"), [중국](../Page/중국.md "wikilink"), [일본](../Page/일본.md "wikilink")의 속기전 상위 입상자가 참가한 바둑 기전이다. 결승에서는 [대한민국](../Page/대한민국.md "wikilink")의 [이창호](https://ko.wikipedia.org/wiki/이창호_\(바둑_기사\) "wikilink") 七단이 [유창혁](../Page/유창혁.md "wikilink")七단을 꺾고 2연패를 달성했다.

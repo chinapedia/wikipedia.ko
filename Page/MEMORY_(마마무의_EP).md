@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [MEMORY \( EP\)](https://ko.wikipedia.org/wiki/MEMORY_\(_EP\)).
+> This article is converted from Wikipedia: [MEMORY \(마마무의 EP\)](https://ko.wikipedia.org/wiki/MEMORY_\(마마무의_EP\)).
 
 
 《**MEMORY**》(메모리)는 대한민국의 걸 그룹 [마마무](../Page/마마무.md "wikilink")의 네 번째 미니 음반으로, 2016년 11월 7일에 발매되었다. 이전에 발매되었던 유닛 앨범 《*[Angel, DABDAB](../Page/Angel,_DABDAB.md "wikilink")*》의 수록곡(5, 6번 트랙), 디지털 싱글 "NEW YORK"(3번 트랙), LG G5 & Friends OST "기대해도 좋은 날"(8번 트랙)이 수록되었다.

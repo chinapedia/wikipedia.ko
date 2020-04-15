@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [VR ](https://ko.wikipedia.org/wiki/VR_).
+> This article is converted from Wikipedia: [VR 트레드밀](https://ko.wikipedia.org/wiki/VR_트레드밀).
 
 
 **VR 트레드밀**()은 VR을 사용하는 게임 등을 보다 더 생생하게 체험하기 위한 장비이다.

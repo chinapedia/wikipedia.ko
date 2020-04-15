@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [AKG ](https://ko.wikipedia.org/wiki/AKG_).
+> This article is converted from Wikipedia: [AKG 어쿠스틱스](https://ko.wikipedia.org/wiki/AKG_어쿠스틱스).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:AKG_logo.svg "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:AKG_C214_Condenser_microphone.jpg "wikilink") **AKG 어쿠스틱스**(AKG Acoustics, Akustische und Kino-Geräte Gesellschaft m.b.H)는 전문가 및 일반 소비자를 대상으로 하는 [마이크로폰](../Page/마이크로폰.md "wikilink"), [헤드폰](https://ko.wikipedia.org/wiki/헤드폰 "wikilink"), 무선 오디오 시스템, 관련 악세서리를 제조하는 [오스트리아](../Page/오스트리아.md "wikilink")의 제조업체이다.

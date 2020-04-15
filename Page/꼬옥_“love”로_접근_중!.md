@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ love  !](https://ko.wikipedia.org/wiki/_love__!).
+> This article is converted from Wikipedia: [꼬옥 “love”로 접근 중!](https://ko.wikipedia.org/wiki/꼬옥_“love”로_접근_중!).
 
 
 〈**꼬옥 “love”로 접근 중\!**〉()은 [μ's](https://ko.wikipedia.org/wiki/μ's "wikilink")의 4번째 정규 싱글로, [2012년](../Page/2012년.md "wikilink") [2월 15일에](../Page/2월_15일.md "wikilink") 란티스에서 발매되었다.

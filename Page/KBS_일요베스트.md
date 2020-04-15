@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KBS ](https://ko.wikipedia.org/wiki/KBS_).
+> This article is converted from Wikipedia: [KBS 일요베스트](https://ko.wikipedia.org/wiki/KBS_일요베스트).
 
 
 《**KBS 일요베스트**》는 [KBS 2TV에서](../Page/KBS_2TV.md "wikilink") [1997년](../Page/1997년.md "wikilink") [11월 30일부터](../Page/11월_30일.md "wikilink") [2000년](../Page/2000년.md "wikilink") [4월 30일까지](../Page/4월_30일.md "wikilink") 방송된 단막극 형식의 드라마 시리즈이다.
@@ -96,7 +96,7 @@
 | 10회 | 3월 22일  | [겨울 지나가기](https://ko.wikipedia.org/wiki/겨울_지나가기 "wikilink")             | [박인환](https://ko.wikipedia.org/wiki/박인환 "wikilink")                                                                                                           | 이현재                                                 | 고영탁                              |
 | 11회 | 3월 29일  | [세 여자 이야기](https://ko.wikipedia.org/wiki/세_여자_이야기 "wikilink")           |                                                                                                                                                               | [김도우](../Page/김도우_\(작가\).md "wikilink")             | 이민홍                              |
 | 12회 | 4월 5일   | [미세스 아카데미](https://ko.wikipedia.org/wiki/미세스_아카데미 "wikilink")           |                                                                                                                                                               | 류현미                                                 |                                  |
-| 13회 | 4월 12일  | [4월의 콘체르토](https://ko.wikipedia.org/wiki/4월의_콘체르토 "wikilink")           |                                                                                                                                                               | [구선경](https://ko.wikipedia.org/wiki/구선경 "wikilink") | 김명욱                              |
+| 13회 | 4월 12일  | [4월의 콘체르토](https://ko.wikipedia.org/wiki/4월의_콘체르토 "wikilink")           |                                                                                                                                                               | [구선경](../Page/구선경.md "wikilink")                    | 김명욱                              |
 | 14회 | 4월 19일  | [남아있는 날을 위하여](https://ko.wikipedia.org/wiki/남아있는_날을_위하여 "wikilink")     |                                                                                                                                                               | 홍영희                                                 | 전성홍                              |
 | 15회 | 4월 26일  | [결혼 2주 전](https://ko.wikipedia.org/wiki/결혼_2주_전 "wikilink")             |                                                                                                                                                               | 최지영                                                 | 황의경                              |
 | 16회 | 5월 3일   | [왼손잡이](https://ko.wikipedia.org/wiki/왼손잡이_\(드라마\) "wikilink")           |                                                                                                                                                               | 허현미                                                 | 이재영                              |
@@ -105,7 +105,7 @@
 | 19회 | 5월 24일  | [아빠는 골키퍼](https://ko.wikipedia.org/wiki/아빠는_골키퍼 "wikilink")             |                                                                                                                                                               | 이제하                                                 | 강일수                              |
 | 20회 | 5월 31일  | [가족사진](https://ko.wikipedia.org/wiki/가족사진_\(1998년_드라마\) "wikilink")     |                                                                                                                                                               | 호영옥                                                 | 김명욱                              |
 | 21회 | 6월 7일   | [지워지지 않는 그 연두빛](https://ko.wikipedia.org/wiki/지워지지_않는_그_연두빛 "wikilink") |                                                                                                                                                               | 김대우                                                 | 이민홍                              |
-| 22회 | 6월 21일  | [그 여자의 이불 한 채](https://ko.wikipedia.org/wiki/그_여자의_이불_한_채 "wikilink")   | [하희라](../Page/하희라.md "wikilink"), [김영옥](../Page/김영옥_\(배우\).md "wikilink"), [김규철](../Page/김규철.md "wikilink"), [최은숙](../Page/최은숙_\(배우\).md "wikilink")          | [정성희](../Page/정성희_\(작가\).md "wikilink")             | 한준서                              |
+| 22회 | 6월 21일  | [그 여자의 이불 한 채](../Page/그_여자의_이불_한_채.md "wikilink")                      | [하희라](../Page/하희라.md "wikilink"), [김영옥](../Page/김영옥_\(배우\).md "wikilink"), [김규철](../Page/김규철.md "wikilink"), [최은숙](../Page/최은숙_\(배우\).md "wikilink")          | [정성희](../Page/정성희_\(작가\).md "wikilink")             | 한준서                              |
 | 23회 | 6월 28일  | [소문](https://ko.wikipedia.org/wiki/소문_\(드라마\) "wikilink")               |                                                                                                                                                               | 이흥주                                                 | 박영주                              |
 | 24회 | 7월 5일   | [여름편지](https://ko.wikipedia.org/wiki/여름편지 "wikilink")                   | [박선영](../Page/박선영_\(1976년_배우\).md "wikilink"), [나영희](../Page/나영희.md "wikilink"), [강인기](../Page/강인기.md "wikilink"), [유인촌](../Page/유인촌.md "wikilink")           | 호영옥                                                 | 김현준                              |
 | 25회 | 7월 12일  | [배냇저고리](https://ko.wikipedia.org/wiki/배냇저고리_\(드라마\) "wikilink")         | [김민희](https://ko.wikipedia.org/wiki/김민희 "wikilink"), [유준상](https://ko.wikipedia.org/wiki/유준상 "wikilink"), [안영주](https://ko.wikipedia.org/wiki/안영주 "wikilink") | 남경숙                                                 |                                  |
@@ -113,10 +113,10 @@
 | 27회 | 7월 26일  | [아래층에 사는 여자](https://ko.wikipedia.org/wiki/아래층에_사는_여자 "wikilink")       |                                                                                                                                                               | 황순영                                                 |                                  |
 | 28회 | 8월 2일   | [유리구두](https://ko.wikipedia.org/wiki/유리구두_\(1998년_드라마\) "wikilink")     |                                                                                                                                                               | 김민주                                                 |                                  |
 | 29회 | 8월 9일   | [암호명 뻐꾹뻐꾹](https://ko.wikipedia.org/wiki/암호명_뻐꾹뻐꾹 "wikilink")           |                                                                                                                                                               | 박영숙                                                 |                                  |
-| 30회 | 8월 16일  | [하루나기](https://ko.wikipedia.org/wiki/하루나기 "wikilink")                   |                                                                                                                                                               | [박진숙](https://ko.wikipedia.org/wiki/박진숙 "wikilink") | [표민수](../Page/표민수.md "wikilink") |
+| 30회 | 8월 16일  | [하루나기](https://ko.wikipedia.org/wiki/하루나기 "wikilink")                   |                                                                                                                                                               | [박진숙](../Page/박진숙.md "wikilink")                    | [표민수](../Page/표민수.md "wikilink") |
 | 31회 | 8월 23일  | [목격자를 찾습니다](https://ko.wikipedia.org/wiki/목격자를_찾습니다 "wikilink")         |                                                                                                                                                               | 박영숙                                                 |                                  |
 | 32회 | 8월 30일  | [땅끝으로 가는 마차](https://ko.wikipedia.org/wiki/땅끝으로_가는_마차 "wikilink")       |                                                                                                                                                               | [손영목](https://ko.wikipedia.org/wiki/손영목 "wikilink") | 이성주                              |
-| 33회 | 9월 6일   | [사랑은 영화처럼](https://ko.wikipedia.org/wiki/사랑은_영화처럼 "wikilink")           | [정선경](../Page/정선경.md "wikilink"), [윤다훈](../Page/윤다훈.md "wikilink")                                                                                            | [구선경](https://ko.wikipedia.org/wiki/구선경 "wikilink") | 김명욱                              |
+| 33회 | 9월 6일   | [사랑은 영화처럼](https://ko.wikipedia.org/wiki/사랑은_영화처럼 "wikilink")           | [정선경](../Page/정선경.md "wikilink"), [윤다훈](../Page/윤다훈.md "wikilink")                                                                                            | [구선경](../Page/구선경.md "wikilink")                    | 김명욱                              |
 | 34회 | 9월 13일  | [그 남자의 네 번째 여자](https://ko.wikipedia.org/wiki/그_남자의_네_번째_여자 "wikilink") |                                                                                                                                                               | 정명희                                                 |                                  |
 | 35회 | 9월 20일  | [포도나무 아래서](https://ko.wikipedia.org/wiki/포도나무_아래서 "wikilink")           |                                                                                                                                                               | 진수완                                                 |                                  |
 | 36회 | 9월 27일  | [사랑에 관한 짧은 기억](https://ko.wikipedia.org/wiki/사랑에_관한_짧은_기억 "wikilink")   | [김민희](https://ko.wikipedia.org/wiki/김민희 "wikilink"), [윤다훈](../Page/윤다훈.md "wikilink")                                                                         | 김민주                                                 |                                  |
@@ -167,7 +167,7 @@
 <tr class="odd">
 <td><p>51회</p></td>
 <td><p>1월 17일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/은비령_(드라마)" title="wikilink">은비령</a></p></td>
+<td><p><a href="../Page/은비령_(드라마).md" title="wikilink">은비령</a></p></td>
 <td><p><a href="../Page/이영애.md" title="wikilink">이영애</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/강은경" title="wikilink">강은경</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/윤석호" title="wikilink">윤석호</a></p></td>
@@ -408,7 +408,7 @@
 <tr class="odd">
 <td><p>81회</p></td>
 <td><p>8월 29일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/사진관_살인사건" title="wikilink">사진관 살인사건</a></p></td>
+<td><p><a href="../Page/사진관_살인사건.md" title="wikilink">사진관 살인사건</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/김갑수" title="wikilink">김갑수</a>, <a href="../Page/김서라.md" title="wikilink">김서라</a>, <a href="../Page/최용민.md" title="wikilink">최용민</a>, <a href="../Page/하재영.md" title="wikilink">하재영</a></p></td>
 <td><p>이경미</p></td>
 <td><p>김형일</p></td>
@@ -561,7 +561,7 @@
 
 ## 결방 사유 및 편성 변경
 
-  - [1997년](../Page/1997년.md "wikilink") [12월 28일](../Page/12월_28일.md "wikilink") : 송년 [특집 드라마](https://ko.wikipedia.org/wiki/한국방송공사_2TV_특집드라마 "wikilink") 《[끝의 시작](https://ko.wikipedia.org/wiki/끝의_시작 "wikilink")》 방송으로 인해 결방
+  - [1997년](../Page/1997년.md "wikilink") [12월 28일](../Page/12월_28일.md "wikilink") : 송년 [특집 드라마](../Page/한국방송공사_2TV_특집드라마.md "wikilink") 《[끝의 시작](https://ko.wikipedia.org/wiki/끝의_시작 "wikilink")》 방송으로 인해 결방
   - [1998년](../Page/1998년.md "wikilink") [1월 11일](../Page/1월_11일.md "wikilink") \~ [1998년](../Page/1998년.md "wikilink") [2월 15일](../Page/2월_15일.md "wikilink") : 6주간 폐지. 《[이소라의 프로포즈](../Page/이소라의_프로포즈.md "wikilink")》 방영
   - [1998년](../Page/1998년.md "wikilink") [2월 22일](../Page/2월_22일.md "wikilink") : 방송 재개. 드라마 《[웨딩드레스](../Page/웨딩드레스_\(드라마\).md "wikilink")》의 조기 종영으로 인한 재편성
   - [1998년](../Page/1998년.md "wikilink") [6월 14일](../Page/6월_14일.md "wikilink") : [1998 프랑스 월드컵](https://ko.wikipedia.org/wiki/1998년_FIFA_월드컵 "wikilink") 〈일본 VS 아르헨티나〉 중계 방송으로 인해 결방
@@ -570,7 +570,7 @@
   - [1998년](../Page/1998년.md "wikilink") [10월 4일](../Page/10월_4일.md "wikilink") : 추석 특선영화 《[고스트 맘마](https://ko.wikipedia.org/wiki/고스트_맘마 "wikilink")》의 9시 편성으로 인해 순연되며 결방
   - [1999년](../Page/1999년.md "wikilink") [9월 26일](../Page/9월_26일.md "wikilink") : 추석 특선영화 《[데이라이트](../Page/데이라잇_\(1996년_영화\).md "wikilink")》 방송으로 인해 결방
   - [1999년](../Page/1999년.md "wikilink") [10월 24일](../Page/10월_24일.md "wikilink") : TV 문학관 〈[그가 걸음을 멈추었을 때](https://ko.wikipedia.org/wiki/그가_걸음을_멈추었을_때 "wikilink")〉 재방송 편성
-  - [1999년](../Page/1999년.md "wikilink") [12월 26일](../Page/12월_26일.md "wikilink") : 세기말 특선영화 《[Y2K](https://ko.wikipedia.org/wiki/Y2K "wikilink")》와 세기말 [특집 드라마](https://ko.wikipedia.org/wiki/한국방송공사_2TV_특집드라마 "wikilink") 《[슬픈 유혹](../Page/슬픈_유혹.md "wikilink")》의 연속 방송으로 인해 결방
+  - [1999년](../Page/1999년.md "wikilink") [12월 26일](../Page/12월_26일.md "wikilink") : 세기말 특선영화 《[Y2K](https://ko.wikipedia.org/wiki/Y2K "wikilink")》와 세기말 [특집 드라마](../Page/한국방송공사_2TV_특집드라마.md "wikilink") 《[슬픈 유혹](../Page/슬픈_유혹.md "wikilink")》의 연속 방송으로 인해 결방
   - [2000년](../Page/2000년.md "wikilink") [1월 2일](../Page/1월_2일.md "wikilink") : 신년특선영화 《[브레이브 하트](https://ko.wikipedia.org/wiki/브레이브_하트 "wikilink")》 편성으로 결방
   - [2000년](../Page/2000년.md "wikilink") [3월 5일](../Page/3월_5일.md "wikilink") : [TV 문학관](../Page/KBS_TV_문학관.md "wikilink") <길은 그리움을 부른다> 편성
 

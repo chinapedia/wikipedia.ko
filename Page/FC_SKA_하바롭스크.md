@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FC SKA ](https://ko.wikipedia.org/wiki/FC_SKA_).
+> This article is converted from Wikipedia: [FC SKA 하바롭스크](https://ko.wikipedia.org/wiki/FC_SKA_하바롭스크).
 
 
 **FC SKA 하바롭스크**()는 [하바롭스크](../Page/하바롭스크.md "wikilink")를 연고로 하는 [러시아](../Page/러시아.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다. 현재는 [러시아 프리미어리그에](../Page/러시아_프리미어리그.md "wikilink") 참가하고 있다.

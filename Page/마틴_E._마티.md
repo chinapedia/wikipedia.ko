@@ -1,7 +1,11 @@
-> This article is converted from Wikipedia: [ E. ](https://ko.wikipedia.org/wiki/_E._).
+> This article is converted from Wikipedia: [마틴 E. 마티](https://ko.wikipedia.org/wiki/마틴_E._마티).
 
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:Martin_Marty_Shimer_College_2013.jpg "wikilink") **마틴 에밀 마티**(, [1928년](../Page/1928년.md "wikilink") [2월 5일](../Page/2월_5일.md "wikilink") \~ )는 [미국](../Page/미국.md "wikilink") [네브래스카](https://ko.wikipedia.org/wiki/네브래스카 "wikilink") 웨스트포인트에서 출생한 [루터란](https://ko.wikipedia.org/wiki/루터란 "wikilink") 신학자이다. 그는 미국에 있는 [종교](../Page/종교.md "wikilink")에 관하여 광범위한 저서들을 출판한 종교학자이다. 그는 [시민 종교에](../Page/시민_종교.md "wikilink") 반대하는 [공적 신학이라는](https://ko.wikipedia.org/wiki/공적_신학 "wikilink") 말을 처음으로 만든 종교학자이다. 컨콜디아 대학교와 [컨콜디아 신학교](https://ko.wikipedia.org/wiki/컨콜디아_신학교 "wikilink") 그리고 [시카코 대학교에서](../Page/시카고_대학교.md "wikilink") 공부하였다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:Martin_Marty_Shimer_College_2013.jpg "wikilink") **마틴 에밀 마티**(, [1928년](../Page/1928년.md "wikilink") [2월 5일](../Page/2월_5일.md "wikilink") \~ )는 [미국](../Page/미국.md "wikilink") [네브래스카](https://ko.wikipedia.org/wiki/네브래스카 "wikilink") 웨스트포인트에서 출생한 [루터란](https://ko.wikipedia.org/wiki/루터란 "wikilink") 신학자이다. 그는 미국에 있는 [종교](../Page/종교.md "wikilink")에 관하여 광범위한 저서들을 출판한 종교학자이다. 그는 [시민 종교에](../Page/시민_종교.md "wikilink") 반대하는 [공적 신학이라는](https://ko.wikipedia.org/wiki/공적_신학 "wikilink") 말을 처음으로 만든 종교학자이다. 컨콜디아 대학교와 [컨콜디아 신학교](https://ko.wikipedia.org/wiki/컨콜디아_신학교 "wikilink") 그리고 [시카코 대학교에서](../Page/시카고_대학교.md "wikilink") 공부하였다. [1956년](../Page/1956년.md "wikilink")부터 '크리스천 센츄리'의 추요 편집장으로 활동하였다.
+
+## 비판
+
+[프란시스 쉐퍼는](../Page/프란시스_쉐퍼.md "wikilink") 그의 저서인 [기독교 선언에서](https://ko.wikipedia.org/wiki/기독교_선언 "wikilink") 마틴 마티가 비종교 인본주의자로 전향하였다고 주장하였다. 그가 마틴이 자유주의 신학적으로 인본주의를 신학적으로 묘사하여 주요 이슈들을 혼동케 하였다고 비판하였다. \[1\]
 
 ## 참고문헌
 
@@ -60,3 +64,5 @@
   -   - [*Booknotes* interview with Marty on *Martin Luther*, April 11, 2004.](https://web.archive.org/web/20111115141157/http://booknotes.org/Watch/181244-1/Martin+Marty.aspx)
 
 [분류:1928년 태어남](https://ko.wikipedia.org/wiki/분류:1928년_태어남 "wikilink") [분류:살아있는 사람](https://ko.wikipedia.org/wiki/분류:살아있는_사람 "wikilink") [분류:미국의 역사가](https://ko.wikipedia.org/wiki/분류:미국의_역사가 "wikilink") [분류:미국의 기독교 성직자](https://ko.wikipedia.org/wiki/분류:미국의_기독교_성직자 "wikilink") [분류:미국의 개신교 신학자](https://ko.wikipedia.org/wiki/분류:미국의_개신교_신학자 "wikilink") [분류:미국의 루터교도](https://ko.wikipedia.org/wiki/분류:미국의_루터교도 "wikilink") [분류:종교사학자](https://ko.wikipedia.org/wiki/분류:종교사학자 "wikilink") [분류:루터교 성직자](https://ko.wikipedia.org/wiki/분류:루터교_성직자 "wikilink") [분류:네브래스카주 출신](https://ko.wikipedia.org/wiki/분류:네브래스카주_출신 "wikilink") [분류:시카고 대학교 교수](https://ko.wikipedia.org/wiki/분류:시카고_대학교_교수 "wikilink") [분류:루터교 신학자](https://ko.wikipedia.org/wiki/분류:루터교_신학자 "wikilink")
+
+1.

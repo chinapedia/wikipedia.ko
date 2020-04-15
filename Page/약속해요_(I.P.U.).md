@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ \(I.P.U.\)](https://ko.wikipedia.org/wiki/_\(I.P.U.\)).
+> This article is converted from Wikipedia: [약속해요 \(I.P.U.\)](https://ko.wikipedia.org/wiki/약속해요_\(I.P.U.\)).
 
 
 〈**약속해요 (I.P.U.)**〉는 [워너원](../Page/워너원.md "wikilink")의 노래로, 두 번째 미니 음반인 《[0+1=1 (I PROMISE YOU)](../Page/0+1=1_\(I_PROMISE_YOU\).md "wikilink")》의 선공개곡이자 수록곡이다. 2018년 3월 5일에 발표되었다.

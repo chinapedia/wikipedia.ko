@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [VERITAS \(\)](https://ko.wikipedia.org/wiki/VERITAS_\(\)).
+> This article is converted from Wikipedia: [VERITAS \(우주선\)](https://ko.wikipedia.org/wiki/VERITAS_\(우주선\)).
 
 
 **VERITAS**(Venus Emissivity, Radio Science, InSAR, Topography, and Spectroscopy)는 금성 궤도선으로, [NASA](https://ko.wikipedia.org/wiki/NASA "wikilink")와 [JPL](https://ko.wikipedia.org/wiki/JPL "wikilink")이 계획한 탐사선이다.\[1\] 목표는 고해상도의 금성 표면 사진을 보내는 것이다.\[2\] 그 외 목표로는 금성 지질 탐사, 충돌 역사, 화산 연구, 금성의 지각활동, 물의 존재 여부, 금성 표면의 퇴적 등을 연구하는 게 이 탐사선의 목표다. [디스커버리 계획에](https://ko.wikipedia.org/wiki/디스커버리_계획 "wikilink") 제출되어서 5개의 후보까지 올라갔으나,\[3\] 최종적으로 [루시와](../Page/루시_\(우주선\).md "wikilink") [프시케가](../Page/프시케_\(우주선\).md "wikilink") 뽑히며 계획은 무산되었다.\[4\]

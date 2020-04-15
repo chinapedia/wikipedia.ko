@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Re:!](https://ko.wikipedia.org/wiki/Re:!).
+> This article is converted from Wikipedia: [Re:스테이지!](https://ko.wikipedia.org/wiki/Re:스테이지!).
 
 
 〈**Re:스테이지\!**〉(Re:STAGE\!, )는 [일본](../Page/일본.md "wikilink")의 미디어 회사 [포니 캐년과](../Page/포니_캐년.md "wikilink") [만화](../Page/만화.md "wikilink")·[애니메이션](../Page/애니메이션.md "wikilink") [잡지](../Page/잡지.md "wikilink") 《[콤프틱](https://ko.wikipedia.org/wiki/콤프틱 "wikilink")》(コンプティーク)이 주관하는 [가상 아이돌을](../Page/가상_아이돌.md "wikilink") 소재로 한 [미디어 믹스](https://ko.wikipedia.org/wiki/미디어_믹스 "wikilink") 프로젝트다. 2015년 7월 10일 잡지 《[콤프틱](https://ko.wikipedia.org/wiki/콤프틱 "wikilink")》 8월호부터 2016년 3월호까지의 [소설](../Page/소설.md "wikilink") 연재를 통해 시작되어\[1\] 2017년 7월 31일 [모바일](../Page/모바일_게임.md "wikilink") [리듬 게임](../Page/리듬_게임.md "wikilink") 〈Re:스테이지\! 프리즘 스텝〉(Re:ステージ！プリズムステップ)이 출시되었고,\[2\] 2018년 7월 1일 [애니메이션](../Page/애니메이션.md "wikilink")화가 발표되었다.\[3\]

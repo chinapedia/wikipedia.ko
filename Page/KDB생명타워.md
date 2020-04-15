@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KDB](https://ko.wikipedia.org/wiki/KDB).
+> This article is converted from Wikipedia: [KDB생명타워](https://ko.wikipedia.org/wiki/KDB생명타워).
 
 
 **KDB생명타워**()은 [대한민국](../Page/대한민국.md "wikilink") [서울특별시](../Page/서울특별시.md "wikilink") [용산구](https://ko.wikipedia.org/wiki/용산구 "wikilink") [동자동](https://ko.wikipedia.org/wiki/동자동 "wikilink")에 위치한 오피스 빌딩이다.

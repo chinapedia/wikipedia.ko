@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ Z \(\)](https://ko.wikipedia.org/wiki/_Z_\(\)).
+> This article is converted from Wikipedia: [최후의 Z \(영화\)](https://ko.wikipedia.org/wiki/최후의_Z_\(영화\)).
 
 
 《**최후의 Z**》()는 2015년 공개된 SF 스릴러 드라마 영화이다.

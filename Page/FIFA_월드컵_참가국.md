@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FIFA  ](https://ko.wikipedia.org/wiki/FIFA__).
+> This article is converted from Wikipedia: [FIFA 월드컵 참가국](https://ko.wikipedia.org/wiki/FIFA_월드컵_참가국).
 
 
 **FIFA 월드컵 참가국**은 [1930년 우루과이 월드컵부터](https://ko.wikipedia.org/wiki/1930년_FIFA_월드컵 "wikilink") 지금까지 모든 월드컵 본선에 진출한 팀들이다. 현재 [남미 팀](../Page/남미_축구_연맹.md "wikilink") 같은 경우에는 [베네수엘라가](../Page/베네수엘라_축구_국가대표팀.md "wikilink") 유일하게 단 한 번도 월드컵 본선에 진출하지 못했으며 나머지 팀들은 3회 이상 진출했다. 특히 [브라질은](../Page/브라질_축구_국가대표팀.md "wikilink") 전 세계에서 유일하게 모든 월드컵 진출을 성공했다. [북아프리카 팀](../Page/북아프리카_축구_연맹.md "wikilink") 같은 경우에는 [리비아가](../Page/리비아_축구_국가대표팀.md "wikilink") 유일하게 월드컵 본선에 진출한 경험이 없다.

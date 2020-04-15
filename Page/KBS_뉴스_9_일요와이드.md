@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KBS  9 ](https://ko.wikipedia.org/wiki/KBS__9_).
+> This article is converted from Wikipedia: [KBS 뉴스 9 일요와이드](https://ko.wikipedia.org/wiki/KBS_뉴스_9_일요와이드).
 
 
 **KBS 뉴스 9 일요와이드**는 [대한민국](../Page/대한민국.md "wikilink") [KBS 1TV에서](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink") [일요일](../Page/일요일.md "wikilink") 밤 9시에 방송되었던 [한국방송공사의 일요일 심층 메인뉴스 프로그램이다](../Page/한국방송공사의_뉴스_프로그램.md "wikilink").

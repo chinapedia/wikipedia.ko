@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [RCA  B](https://ko.wikipedia.org/wiki/RCA__B).
+> This article is converted from Wikipedia: [RCA 스튜디오 B](https://ko.wikipedia.org/wiki/RCA_스튜디오_B).
 
 
 **RCA 스튜디오 B**(RCA Studio B)는 [테네시 주 내슈빌에](../Page/내슈빌.md "wikilink") 소재한 [녹음 스튜디오로](https://ko.wikipedia.org/wiki/녹음실 "wikilink"), 처음에는 단순히 **RCA 스튜디오**(RCA Studios)로 불렸다. 1960년대에 [내슈빌 사운드의](../Page/내슈빌_사운드.md "wikilink") 한 축으로서 유명해졌다. 2012년 [미국 국립사적지에](https://ko.wikipedia.org/wiki/미국_국립사적지 "wikilink") 등록되었다.\[1\]

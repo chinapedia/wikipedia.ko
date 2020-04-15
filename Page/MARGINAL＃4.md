@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [MARGINAL4](https://ko.wikipedia.org/wiki/MARGINAL4).
+> This article is converted from Wikipedia: [MARGINAL＃4](https://ko.wikipedia.org/wiki/MARGINAL＃4).
 
 
 《**MARGINAL＃4**》(매지컬 넘버 포)는 [Rejet](https://ko.wikipedia.org/wiki/Rejet "wikilink")가 "은하의 끝까지 Kiss를 전달하는 아이돌"을 컨셉으로 결성시킨 가공의 [아이돌 그룹](https://ko.wikipedia.org/wiki/아이돌_그룹 "wikilink"). [2013년](../Page/2013년.md "wikilink") [2월 17일에](../Page/2월_17일.md "wikilink") 개최한 「Rejet Fes 2013」에 최초로 "Rejet Fes에서만 만날 수 없는 아이돌"로 발표됐다. 가공의 사무실인 피타고라스 프로덕션 소속이다.

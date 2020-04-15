@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [JR ](https://ko.wikipedia.org/wiki/JR_).
+> This article is converted from Wikipedia: [JR소지지 역](https://ko.wikipedia.org/wiki/JR소지지_역).
 
 
 **JR소지지 역**()은 [오사카부](../Page/오사카부.md "wikilink") [이바라키 시에](https://ko.wikipedia.org/wiki/이바라키_시 "wikilink") 있는 [서일본 여객철도의](https://ko.wikipedia.org/wiki/서일본_여객철도 "wikilink") [도카이도 본선](../Page/도카이도_본선.md "wikilink")([JR 교토 선](../Page/JR_교토_선.md "wikilink")) 상의 역이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [PMC:  ](https://ko.wikipedia.org/wiki/PMC:__).
+> This article is converted from Wikipedia: [PMC: 더 벙커](https://ko.wikipedia.org/wiki/PMC:_더_벙커).
 
 
 《**PMC: 더 벙커**》는 2018년에 개봉한 [대한민국의](https://ko.wikipedia.org/wiki/대한민국_영화 "wikilink") 영화이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SBS   ](https://ko.wikipedia.org/wiki/SBS___).
+> This article is converted from Wikipedia: [SBS 스페셜의 에피소드 목록](https://ko.wikipedia.org/wiki/SBS_스페셜의_에피소드_목록).
 
 
 아래는 [SBS TV의](../Page/SBS_TV.md "wikilink") 다큐멘터리 프로그램 《**[SBS 스페셜](../Page/SBS_스페셜.md "wikilink")**》의 **에피소드 목록**이다.
@@ -877,15 +877,80 @@
 
 ### [<span style="color:black">2020년</span>](../Page/2020년.md "wikilink")
 
-| 회차  | 방송 일자  | 부제 (서브 타이틀)       | 비고 |
-| --- | ------ | ----------------- | -- |
-| 577 | 1월 5일  | 끼니외란 1부 다이어트 막전막후 |    |
-| 578 | 1월 12일 | 끼니외란 2부 영양제 진실게임  |    |
-| 579 | 1월 19일 | 황혼육아 할머니의 전쟁      |    |
-| 580 | 2월 2일  | 칼의연대기 검찰과권력       |    |
-| 581 | 2월 9일  | 막막한 축복 열여덟, 어른    |    |
-| 582 | 2월 16일 | 성적급상승커브의 비밀       |    |
-| 583 | 2월 23일 | 혐오를혐오한다 대림동 변호사들  |    |
+<table>
+<thead>
+<tr class="header">
+<th><p>회차</p></th>
+<th><p>방송 일자</p></th>
+<th><p>부제 (서브 타이틀)</p></th>
+<th><p>비고</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>577</p></td>
+<td><p>1월 5일</p></td>
+<td><p>끼니외란 1부 다이어트 막전막후</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>578</p></td>
+<td><p>1월 12일</p></td>
+<td><p>끼니외란 2부 영양제 진실게임</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>579</p></td>
+<td><p>1월 19일</p></td>
+<td><p>황혼육아 할머니의 전쟁</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>580</p></td>
+<td><p>2월 2일</p></td>
+<td><p>칼의연대기 검찰과권력</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>581</p></td>
+<td><p>2월 9일</p></td>
+<td><p>막막한 축복 열여덟, 어른</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>582</p></td>
+<td><p>2월 16일</p></td>
+<td><p>성적급상승커브의 비밀</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>583</p></td>
+<td><p>2월 23일</p></td>
+<td><p>혐오를혐오한다 대림동 변호사들</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>584<br />
+585</p></td>
+<td><p>3월 8일<br />
+3월 15일</p></td>
+<td><p>너에게 들려줄게 꼬리에 꼬리를 무는 3월 이야기</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/크리스_존슨" title="wikilink">크리스 존슨</a>,<a href="../Page/남보라.md" title="wikilink">남보라</a>,<a href="../Page/박지훈_(법조인).md" title="wikilink">박지훈 (법조인)</a> 줄연</p></td>
+</tr>
+<tr class="odd">
+<td><p>586</p></td>
+<td><p>3월 22일</p></td>
+<td><p>팬데믹 코로나 19 최전선에서</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>587</p></td>
+<td><p>3월 29일</p></td>
+<td><p>2020청년보고서 난 고립을 선택했다.</p></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 ## 같이 보기
 

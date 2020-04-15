@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [UHD    ](https://ko.wikipedia.org/wiki/UHD____).
+> This article is converted from Wikipedia: [UHD 한국의 유산 헤리티지 투모로우](https://ko.wikipedia.org/wiki/UHD_한국의_유산_헤리티지_투모로우).
 
 
 **UHD 한국의 유산 헤리티지 투모로우**은 매주 [평일](https://ko.wikipedia.org/wiki/평일 "wikilink") 오전 11시 50분에 [KBS 1TV로](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink") 방송되었던 [한국방송공사의 텔레비전 프로그램이다](https://ko.wikipedia.org/wiki/한국방송공사의_텔레비전_프로그램 "wikilink").

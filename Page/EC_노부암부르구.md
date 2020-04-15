@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [EC ](https://ko.wikipedia.org/wiki/EC_).
+> This article is converted from Wikipedia: [EC 노부암부르구](https://ko.wikipedia.org/wiki/EC_노부암부르구).
 
 
 **이스포르치 클루비 노부암부르구**()는 [1911년](../Page/1911년.md "wikilink") [5월 1일에](../Page/5월_1일.md "wikilink") 창단한 [브라질](../Page/브라질.md "wikilink")의 축구단으로, [히우그란지 주의](https://ko.wikipedia.org/wiki/히우그란지_주 "wikilink") [노부암부르구](../Page/노부암부르구.md "wikilink")를 연고로 한다. [2017년](../Page/2017년.md "wikilink") 현재 히우그란지 주 축구 리그 [캄페오나투 가우슈에](../Page/캄페오나투_가우슈.md "wikilink") 참가하고 있다. 가우샹 2017 시즌 노부암부르구는 역사상 최초로 주 리그에서 우승을 하였다.

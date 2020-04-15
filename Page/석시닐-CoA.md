@@ -1,13 +1,13 @@
-> This article is converted from Wikipedia: [-CoA](https://ko.wikipedia.org/wiki/-CoA).
+> This article is converted from Wikipedia: [석시닐-CoA](https://ko.wikipedia.org/wiki/석시닐-CoA).
 
 
-**석시닐-CoA**() 또는 **석시닐-조효소 A**()는 [석신산](../Page/석신산.md "wikilink")과 [조효소 A의](https://ko.wikipedia.org/wiki/조효소_A "wikilink") 결합물이다.
+**석시닐-CoA**() 또는 **석시닐-조효소 A**()는 [석신산](../Page/석신산.md "wikilink")과 [조효소 A의](../Page/조효소_A.md "wikilink") 결합물이다.
 
 ## 공급원
 
-석시닐-CoA는 [시트르산 회로에서](https://ko.wikipedia.org/wiki/시트르산_회로 "wikilink") 중요한 중간생성물이며, [α-케토글루타르산이](../Page/알파-케토글루타르산.md "wikilink") [α-케토글루타르산 탈수소효소에](https://ko.wikipedia.org/wiki/알파-케토글루타르산_탈수소효소 "wikilink") 의해 [산화적 탈카복실화되어](https://ko.wikipedia.org/wiki/산화적_탈카복실화 "wikilink") 생성된다. 이 반응에서 [조효소 A](https://ko.wikipedia.org/wiki/조효소_A "wikilink")(CoA)가 첨가된다.
+석시닐-CoA는 [시트르산 회로에서](https://ko.wikipedia.org/wiki/시트르산_회로 "wikilink") 중요한 중간생성물이며, [α-케토글루타르산이](../Page/알파-케토글루타르산.md "wikilink") [α-케토글루타르산 탈수소효소에](https://ko.wikipedia.org/wiki/알파-케토글루타르산_탈수소효소 "wikilink") 의해 [산화적 탈카복실화되어](https://ko.wikipedia.org/wiki/산화적_탈카복실화 "wikilink") 생성된다. 이 반응에서 [조효소 A](../Page/조효소_A.md "wikilink")(CoA)가 첨가된다.
 
-[비타민 B<sub>12</sub>는](https://ko.wikipedia.org/wiki/비타민_B12 "wikilink") [효소](../Page/효소.md "wikilink")의 [보조 인자로](https://ko.wikipedia.org/wiki/보조_인자 "wikilink") [β 산화를](https://ko.wikipedia.org/wiki/β_산화 "wikilink") 할 수 없는 홀수 지방산인 [피로피온산](https://ko.wikipedia.org/wiki/피로피온산 "wikilink")의 조효소 A 유도체인 [프로피오닐-CoA](https://ko.wikipedia.org/wiki/프로피오닐-CoA "wikilink")로부터 합성된다.\[1\] 프로피오닐-CoA는 D-[메틸말로닐-CoA](https://ko.wikipedia.org/wiki/메틸말로닐-CoA "wikilink")로 카복실화되고, L-메틸말로닐-CoA로 이성질화된 다음, 비타민 B<sub>12</sub> 의존적인 효소인 메틸말로닐-CoA 뮤테이스에 의해 석시닐-CoA를 생성하도록 재배열된다. 석시닐-CoA는 [시트르산 회로의](https://ko.wikipedia.org/wiki/시트르산_회로 "wikilink") 중간생성물로 시트르산 회로로 쉽게 들어갈 수 있다.
+[비타민 B<sub>12</sub>는](https://ko.wikipedia.org/wiki/비타민_B12 "wikilink") [효소](../Page/효소.md "wikilink")의 [보조 인자로](https://ko.wikipedia.org/wiki/보조_인자 "wikilink") [β 산화를](https://ko.wikipedia.org/wiki/β_산화 "wikilink") 할 수 없는 홀수 지방산인 [프로피온산](https://ko.wikipedia.org/wiki/프로피온산 "wikilink")의 조효소 A 유도체인 [프로피오닐-CoA](https://ko.wikipedia.org/wiki/프로피오닐-CoA "wikilink")로부터 합성된다.\[1\] 프로피오닐-CoA는 D-[메틸말로닐-CoA](https://ko.wikipedia.org/wiki/메틸말로닐-CoA "wikilink")로 카복실화되고, L-메틸말로닐-CoA로 이성질화된 다음, 비타민 B<sub>12</sub> 의존적인 효소인 메틸말로닐-CoA 뮤테이스에 의해 석시닐-CoA를 생성하도록 재배열된다. 석시닐-CoA는 [시트르산 회로의](https://ko.wikipedia.org/wiki/시트르산_회로 "wikilink") 중간생성물로 시트르산 회로로 쉽게 들어갈 수 있다.
 
 ## 운명
 

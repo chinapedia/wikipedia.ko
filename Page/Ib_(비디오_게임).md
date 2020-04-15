@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Ib \( \)](https://ko.wikipedia.org/wiki/Ib_\(_\)).
+> This article is converted from Wikipedia: [Ib \(비디오 게임\)](https://ko.wikipedia.org/wiki/Ib_\(비디오_게임\)).
 
 
 《**Ib**》() 는 kouri가 [RPG 만들기 2000으로](https://ko.wikipedia.org/wiki/RPG_만들기_2000 "wikilink") 제작한 공포 어드벤처 게임이다. 2012년 2월 27일에 프리웨어로 공개되었으며, 최신 버전은 2014년 6월 17 일 공개된 ver.1.07이다.

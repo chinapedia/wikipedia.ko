@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [MBC ](https://ko.wikipedia.org/wiki/MBC_).
+> This article is converted from Wikipedia: [MBC 일요심야극장](https://ko.wikipedia.org/wiki/MBC_일요심야극장).
 
 
 《**MBC 일요심야극장**》은 [대한민국](../Page/대한민국.md "wikilink")의 [문화방송](../Page/문화방송.md "wikilink")에서 방송되는 [영화](../Page/영화.md "wikilink") 프로그램이다. [1998년](../Page/1998년.md "wikilink") [11월 1일](../Page/11월_1일.md "wikilink") 첫 방송을 시작해 [2004년](../Page/2004년.md "wikilink") [5월 2일까지](../Page/5월_2일.md "wikilink") 매주 일요일 심야 시간에 방송되었다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ Thank you, too](https://ko.wikipedia.org/wiki/_Thank_you,_too).
+> This article is converted from Wikipedia: [⑮ Thank you, too](https://ko.wikipedia.org/wiki/⑮_Thank_you,_too).
 
 
 **⑮ Thank you, too**(쥬고 땡큐, 투)는 [2017년](../Page/2017년.md "wikilink") [12월 6일에](../Page/12월_6일.md "wikilink") 발매 된 [모닝구무스메](../Page/모닝구무스메.md "wikilink")'17의 열다섯 번째 정규 앨범이다.

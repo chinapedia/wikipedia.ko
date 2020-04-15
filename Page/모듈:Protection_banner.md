@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Protection banner](https://ko.wikipedia.org/wiki/:Protection_banner).
+> This article is converted from Wikipedia: [모듈:Protection banner](https://ko.wikipedia.org/wiki/모듈:Protection_banner).
 
 
 \--  및 자식 틀(예: ,  등)을 사용하는 문서를 구현합니다.

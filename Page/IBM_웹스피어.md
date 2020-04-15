@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [IBM ](https://ko.wikipedia.org/wiki/IBM_).
+> This article is converted from Wikipedia: [IBM 웹스피어](https://ko.wikipedia.org/wiki/IBM_웹스피어).
 
 
 **IBM 웹스피어**(IBM WebSphere)는 애플리케이션 및 통합 [미들웨어](../Page/미들웨어.md "wikilink")로 알려져 있는 [전사적 소프트웨어](../Page/전사적_소프트웨어.md "wikilink") 분야의 [소프트웨어](../Page/소프트웨어.md "wikilink") 제품 [브랜드](../Page/브랜드.md "wikilink")를 가리킨다. 이 소프트웨어 제품들은 최종 사용자가 애플리케이션을 개발하고 다른 애플리케이션들과 애플리케이션을 연동하기 위해 사용한다. IBM 웹스피어는 1998년 이후로 대중 시장에서 판매되고 있다.

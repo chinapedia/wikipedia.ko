@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Time\'s Up \(\)](https://ko.wikipedia.org/wiki/Time\'s_Up_\(\)).
+> This article is converted from Wikipedia: [Time\'s Up \(운동\)](https://ko.wikipedia.org/wiki/Time\'s_Up_\(운동\)).
 
 
 **타임즈 업**()은 [성희롱](../Page/성희롱.md "wikilink"), 성폭행 등 [성범죄](../Page/성범죄.md "wikilink")와 [성차별](https://ko.wikipedia.org/wiki/성차별 "wikilink")에 대항하는 운동이자 단체이다. [하비 와인스타인 성추문 사건의](https://ko.wikipedia.org/wiki/하비_와인스타인 "wikilink") 여파로 발생한 [미투](../Page/미투_운동.md "wikilink")(MeToo) 캠페인에 이은 또 하나의 주요 운동이다. [미국](../Page/미국.md "wikilink") 영화계를 중심으로 시작되었으며, [온라인](https://ko.wikipedia.org/wiki/온라인 "wikilink")을 통해 활발히 진행되고 있다. 조성기금은 국립여성법센터(National Women's Law Center)에서 관할한다.

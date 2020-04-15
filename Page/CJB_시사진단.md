@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [CJB ](https://ko.wikipedia.org/wiki/CJB_).
+> This article is converted from Wikipedia: [CJB 시사진단](https://ko.wikipedia.org/wiki/CJB_시사진단).
 
 
 **CJB 시사진단**(CJB 時事診斷)은 [CJB TV로](https://ko.wikipedia.org/wiki/CJB_TV "wikilink") 방송되었던 [청주방송](../Page/청주방송.md "wikilink")의 시사 프로그램이다.

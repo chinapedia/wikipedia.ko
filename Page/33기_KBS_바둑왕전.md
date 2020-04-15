@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [33 KBS ](https://ko.wikipedia.org/wiki/33_KBS_).
+> This article is converted from Wikipedia: [33기 KBS 바둑왕전](https://ko.wikipedia.org/wiki/33기_KBS_바둑왕전).
 
 
 **33기 KBS 바둑왕전**은 TV 속기전이 참가한 국내 바둑 기전이다. 결승에서는 [이동훈](https://ko.wikipedia.org/wiki/이동훈 "wikilink") 四단이 [박정환](https://ko.wikipedia.org/wiki/박정환 "wikilink") 九단을 2대 0로 꺾고 우승하며 생애 첫 타이틀을 획득했다. 이는 최연소 바둑왕 타이틀이다.

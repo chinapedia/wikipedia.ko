@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Side box](https://ko.wikipedia.org/wiki/:Side_box).
+> This article is converted from Wikipedia: [모듈:Side box](https://ko.wikipedia.org/wiki/모듈:Side_box).
 
 
 \-- This module implements .

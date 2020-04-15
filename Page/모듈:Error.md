@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Error](https://ko.wikipedia.org/wiki/:Error).
+> This article is converted from Wikipedia: [모듈:Error](https://ko.wikipedia.org/wiki/모듈:Error).
 
 
 \-- This module implements .

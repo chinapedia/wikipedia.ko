@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [EBS ](https://ko.wikipedia.org/wiki/EBS_).
+> This article is converted from Wikipedia: [EBS 교육문화뉴스](https://ko.wikipedia.org/wiki/EBS_교육문화뉴스).
 
 
 《**EBS 교육문화뉴스**》는 교육과 문화계 소식을 전하는 [한국교육방송공사의 뉴스 프로그램이다](https://ko.wikipedia.org/wiki/한국교육방송공사의_뉴스_프로그램 "wikilink").
@@ -20,59 +20,59 @@
 <tbody>
 <tr class="odd">
 <td><p><a href="../Page/EBS_1TV.md" title="wikilink">EBS TV</a></p></td>
-<td><p><a href="../Page/1993년.md" title="wikilink">1993년</a> <a href="../Page/3월_1일.md" title="wikilink">3월 1일</a> ~ <a href="../Page/1994년.md" title="wikilink">1994년</a> <a href="../Page/2월_25일.md" title="wikilink">2월 25일</a></p></td>
+<td><p><a href="../Page/1993년.md" title="wikilink">1993년</a> <a href="../Page/1월_4일.md" title="wikilink">1월 4일</a> ~ <a href="../Page/1993년.md" title="wikilink">1993년</a> <a href="../Page/12월_31일.md" title="wikilink">12월 31일</a></p></td>
 <td><p>평일 저녁 8시 35분 ~ 8시 40분 (5분)</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/1994년.md" title="wikilink">1994년</a> <a href="../Page/2월_28일.md" title="wikilink">2월 28일</a> ~ <a href="../Page/1995년.md" title="wikilink">1995년</a> <a href="../Page/2월_24일.md" title="wikilink">2월 24일</a></p></td>
+<td><p><a href="../Page/1994년.md" title="wikilink">1994년</a> <a href="../Page/1월_3일.md" title="wikilink">1월 3일</a> ~ <a href="../Page/1994년.md" title="wikilink">1994년</a> <a href="../Page/12월_30일.md" title="wikilink">12월 30일</a></p></td>
 <td><p>평일 밤 9시 40분 ~ 9시 50분 (5분)</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/1995년.md" title="wikilink">1995년</a> <a href="../Page/2월_27일.md" title="wikilink">2월 27일</a> ~ <a href="../Page/1995년.md" title="wikilink">1995년</a> <a href="../Page/8월_25일.md" title="wikilink">8월 25일</a></p></td>
+<td><p><a href="../Page/1995년.md" title="wikilink">1995년</a> <a href="../Page/1월_2일.md" title="wikilink">1월 2일</a> ~ <a href="../Page/1995년.md" title="wikilink">1995년</a> <a href="../Page/6월_30일.md" title="wikilink">6월 30일</a></p></td>
 <td><p>평일 저녁 7시 40분 ~ 7시 45분 (5분)</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/1995년.md" title="wikilink">1995년</a> <a href="../Page/8월_28일.md" title="wikilink">8월 28일</a> ~ <a href="../Page/1997년.md" title="wikilink">1997년</a> <a href="../Page/2월_28일.md" title="wikilink">2월 28일</a></p></td>
+<td><p><a href="../Page/1995년.md" title="wikilink">1995년</a> <a href="../Page/7월_3일.md" title="wikilink">7월 3일</a> ~ <a href="../Page/1996년.md" title="wikilink">1996년</a> <a href="../Page/12월_28일.md" title="wikilink">12월 28일</a></p></td>
 <td><p>평일 저녁 8시 50분 ~ 밤 9시 (10분)</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/1999년.md" title="wikilink">1999년</a> <a href="../Page/2월_22일.md" title="wikilink">2월 22일</a> ~ <a href="../Page/2000년.md" title="wikilink">2000년</a> <a href="../Page/9월_29일.md" title="wikilink">9월 29일</a></p></td>
+<td><p><a href="../Page/1999년.md" title="wikilink">1999년</a> <a href="../Page/1월_4일.md" title="wikilink">1월 4일</a> ~ <a href="../Page/2000년.md" title="wikilink">2000년</a> <a href="../Page/6월_30일.md" title="wikilink">6월 30일</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/1997년.md" title="wikilink">1997년</a> <a href="../Page/3월_3일.md" title="wikilink">3월 3일</a> ~ <a href="../Page/1998년.md" title="wikilink">1998년</a> <a href="../Page/2월_28일.md" title="wikilink">2월 28일</a></p></td>
+<td><p><a href="../Page/1997년.md" title="wikilink">1997년</a> <a href="../Page/1월_1일.md" title="wikilink">1월 1일</a> ~ <a href="../Page/1997년.md" title="wikilink">1997년</a> <a href="../Page/12월_27일.md" title="wikilink">12월 27일</a></p></td>
 <td><p>월요일 ~ 토요일 아침 9시 ~ 9시 5분 (5분)<br />
 월요일 ~ 토요일 밤 8시 50분 ~ 밤 9시 (10분)</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/1998년.md" title="wikilink">1998년</a> <a href="../Page/3월_2일.md" title="wikilink">3월 2일</a> ~ <a href="../Page/1998년.md" title="wikilink">1998년</a> <a href="../Page/8월_29일.md" title="wikilink">8월 29일</a></p></td>
+<td><p><a href="../Page/1998년.md" title="wikilink">1998년</a> <a href="../Page/1월_1일.md" title="wikilink">1월 1일</a> ~ <a href="../Page/1998년.md" title="wikilink">1998년</a> <a href="../Page/6월_27일.md" title="wikilink">6월 27일</a></p></td>
 <td><p>평일 저녁 8시 50분 ~ 밤 9시 (10분)<br />
 토요일 저녁 8시 30분 ~ 9시 (30분)</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/1998년.md" title="wikilink">1998년</a> <a href="../Page/8월_31일.md" title="wikilink">8월 31일</a> ~ <a href="../Page/1999년.md" title="wikilink">1999년</a> <a href="../Page/2월_21일.md" title="wikilink">2월 21일</a></p></td>
+<td><p><a href="../Page/1998년.md" title="wikilink">1998년</a> <a href="../Page/8월_31일.md" title="wikilink">8월 31일</a> ~ <a href="../Page/1998년.md" title="wikilink">1998년</a> <a href="../Page/12월_27일.md" title="wikilink">12월 27일</a></p></td>
 <td><p>평일 저녁 8시 50분 ~ 밤 9시 (10분)<br />
 일요일 밤 9시 40분 ~ 10시 20분 (40분)</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/2000년.md" title="wikilink">2000년</a> <a href="../Page/10월_2일.md" title="wikilink">10월 2일</a> ~ <a href="../Page/2001년.md" title="wikilink">2001년</a> <a href="../Page/3월_30일.md" title="wikilink">3월 30일</a></p></td>
+<td><p><a href="../Page/2000년.md" title="wikilink">2000년</a> <a href="../Page/7월_1일.md" title="wikilink">7월 1일</a> ~ <a href="../Page/2000년.md" title="wikilink">2000년</a> <a href="../Page/12월_30일.md" title="wikilink">12월 30일</a></p></td>
 <td><p>평일 저녁 8시 45분 ~ 밤 9시 (15분)</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/2001년.md" title="wikilink">2001년</a> <a href="../Page/4월_2일.md" title="wikilink">4월 2일</a> ~ <a href="../Page/2001년.md" title="wikilink">2001년</a> <a href="../Page/8월_24일.md" title="wikilink">8월 24일</a></p></td>
+<td><p><a href="../Page/2001년.md" title="wikilink">2001년</a> <a href="../Page/1월_1일.md" title="wikilink">1월 1일</a> ~ <a href="../Page/2001년.md" title="wikilink">2001년</a> <a href="../Page/6월_29일.md" title="wikilink">6월 29일</a></p></td>
 <td><p>평일 밤 9시 45분 ~ 10시 (15분)</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/2001년.md" title="wikilink">2001년</a> <a href="../Page/8월_27일.md" title="wikilink">8월 27일</a> ~ <a href="../Page/2003년.md" title="wikilink">2003년</a> <a href="../Page/8월_29일.md" title="wikilink">8월 29일</a></p></td>
+<td><p><a href="../Page/2001년.md" title="wikilink">2001년</a> <a href="../Page/7월_2일.md" title="wikilink">7월 2일</a> ~ <a href="../Page/2003년.md" title="wikilink">2003년</a> <a href="../Page/6월_27일.md" title="wikilink">6월 27일</a></p></td>
 <td><p>평일 밤 9시 50분 ~ 10시 (10분)</p></td>
 <td></td>
 </tr>
@@ -87,10 +87,10 @@
 
 ## 타이틀 변천사
 
-| 역대 | 타이틀        | 방송 기간                                                                                                                                                      |
-| -- | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1대 | EBS 교육소식   | [1993년](../Page/1993년.md "wikilink") [3월 1일](../Page/3월_1일.md "wikilink") \~ [1995년](../Page/1995년.md "wikilink") [8월 25일](../Page/8월_25일.md "wikilink")   |
-| 2대 | EBS 교육문화소식 | [1995년](../Page/1995년.md "wikilink") [8월 28일](../Page/8월_28일.md "wikilink") \~ [1997년](../Page/1997년.md "wikilink") [2월 28일](../Page/2월_28일.md "wikilink") |
-| 3대 | EBS 교육문화뉴스 | [1997년](../Page/1997년.md "wikilink") [3월 3일](../Page/3월_3일.md "wikilink") \~ [2003년](../Page/2003년.md "wikilink") [8월 29일](../Page/8월_29일.md "wikilink")   |
+| 역대  | 타이틀        | 방송 기간                                                                                                                                                    |
+| --- | ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 01대 | EBS 교육소식   | [1993년](../Page/1993년.md "wikilink") [1월 4일](../Page/1월_4일.md "wikilink") \~ [1995년](../Page/1995년.md "wikilink") [6월 30일](../Page/6월_30일.md "wikilink") |
+| 02대 | EBS 교육문화소식 | [1995년](../Page/1995년.md "wikilink") [7월 3일](../Page/7월_3일.md "wikilink") \~ [1997년](../Page/1997년.md "wikilink") [6월 27일](../Page/6월_27일.md "wikilink") |
+| 03대 | EBS 교육문화뉴스 | [1997년](../Page/1997년.md "wikilink") [7월 1일](../Page/7월_1일.md "wikilink") \~ [2003년](../Page/2003년.md "wikilink") [6월 27일](../Page/6월_27일.md "wikilink") |
 
 [분류:한국교육방송공사의 뉴스 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:한국교육방송공사의_뉴스_텔레비전_프로그램 "wikilink") [분류:1990년대 대한민국의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:1990년대_대한민국의_텔레비전_프로그램 "wikilink") [분류:2000년대 대한민국의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:2000년대_대한민국의_텔레비전_프로그램 "wikilink")

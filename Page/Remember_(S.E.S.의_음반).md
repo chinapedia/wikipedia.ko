@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Remember \(S.E.S. \)](https://ko.wikipedia.org/wiki/Remember_\(S.E.S._\)).
+> This article is converted from Wikipedia: [Remember \(S.E.S.의 음반\)](https://ko.wikipedia.org/wiki/Remember_\(S.E.S.의_음반\)).
 
 
 《**Remember**》는 [2017년](../Page/2017년.md "wikilink") [1월 2일에](../Page/1월_2일.md "wikilink") 발매된 [대한민국](../Page/대한민국.md "wikilink")의 3인조 [걸 그룹](../Page/걸_그룹.md "wikilink") [가수](https://ko.wikipedia.org/wiki/가수 "wikilink") **[《*S.E.S.*》](https://ko.wikipedia.org/wiki/S.E.S. "wikilink")**의 [대한민국](../Page/대한민국.md "wikilink") 데뷔 20주년 기념 스페셜 음반이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Burn \(  \)](https://ko.wikipedia.org/wiki/Burn_\(__\)).
+> This article is converted from Wikipedia: [Burn \(딥 퍼플의 음반\)](https://ko.wikipedia.org/wiki/Burn_\(딥_퍼플의_음반\)).
 
 
 \<**Burn**\>은 [딥 퍼플의](../Page/딥_퍼플.md "wikilink") 음반이다. 황금의 2기 딥 퍼플과 비견되는 딥 퍼플 3기는 1기와 2기가 그랬듯이 보컬과 베이스가 바뀌었고 트윈 보컬체제가 도입되면서 별도의 밴드로 보아도 좋을 만큼 사운드 변화가 크게 일어난다. 먼저 발견 된 인물은 베이스와 세컨드 보컬을 맡은 글렌 휴즈였다.

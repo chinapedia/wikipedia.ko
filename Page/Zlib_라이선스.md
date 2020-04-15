@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Zlib ](https://ko.wikipedia.org/wiki/Zlib_).
+> This article is converted from Wikipedia: [Zlib 라이선스](https://ko.wikipedia.org/wiki/Zlib_라이선스).
 
 
 **zlib 라이선스**는 [zlib](https://ko.wikipedia.org/wiki/zlib "wikilink") [소프트웨어 라이브러리를](../Page/라이브러리_\(컴퓨팅\).md "wikilink") 배포할 수 있는 조항을 정의해놓은 [퍼미시브 라이선스이다](../Page/퍼미시브_라이선스.md "wikilink"). 그 밖의 수많은 [자유 소프트웨어](../Page/자유_소프트웨어.md "wikilink") 패키지에 의해 사용되기도 한다. [Libpng](../Page/Libpng.md "wikilink") 라이브러리는 [zlib/libpng 라이선스로](https://ko.wikipedia.org/wiki/libpng_라이선스 "wikilink") 병행하여 사용할 수 있는 비슷한 라이선스를 사용한다.

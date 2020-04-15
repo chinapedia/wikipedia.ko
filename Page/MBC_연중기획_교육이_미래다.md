@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [MBC   ](https://ko.wikipedia.org/wiki/MBC___).
+> This article is converted from Wikipedia: [MBC 연중기획 교육이 미래다](https://ko.wikipedia.org/wiki/MBC_연중기획_교육이_미래다).
 
 
 《**교육이 미래다**》는 [2005년](../Page/2005년.md "wikilink") [1월 23일부터](../Page/1월_23일.md "wikilink") [2005년](../Page/2005년.md "wikilink") [12월 26일까지](../Page/12월_26일.md "wikilink") [문화방송에서](../Page/MBC_TV.md "wikilink") 방송된 교양 프로그램이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  TW](https://ko.wikipedia.org/wiki/__TW).
+> This article is converted from Wikipedia: [닛산 디젤 TW](https://ko.wikipedia.org/wiki/닛산_디젤_TW).
 
 
 **닛산 디젤 TW**(, )는 [일본](../Page/일본.md "wikilink") 닛산 디젤 (현, [UD트럭](../Page/UD트럭.md "wikilink"))이 생산했던 대형 트럭으로 [일본](../Page/일본.md "wikilink")에서 마지막까지 생산된 후드형 트럭이다. [대한민국](../Page/대한민국.md "wikilink")의 경우 동아자동차 (현, [쌍용자동차](../Page/쌍용자동차.md "wikilink"))가 [1979년](../Page/1979년.md "wikilink")부터 [1981년](../Page/1981년.md "wikilink")까지 [일본](../Page/일본.md "wikilink") [UD 트럭사와](https://ko.wikipedia.org/wiki/UD_트럭 "wikilink") 기술 제휴를 통해서 [동아 닛산디젤트럭](../Page/동아_닛산디젤트럭.md "wikilink") 모델을 생산한 바가 있다.

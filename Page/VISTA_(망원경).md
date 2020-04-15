@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [VISTA \(\)](https://ko.wikipedia.org/wiki/VISTA_\(\)).
+> This article is converted from Wikipedia: [VISTA \(망원경\)](https://ko.wikipedia.org/wiki/VISTA_\(망원경\)).
 
 
 **VISTA(Visible and Infrared Survey Telescope for Astronomy, 가시광선 및 적외선 관측 천문 망원경)**은 직경 4.1 미터의 반사경을 갖춰 시야가 넓은 [반사 망원경](https://ko.wikipedia.org/wiki/반사_망원경 "wikilink") 으로 [칠레](../Page/칠레.md "wikilink")의 [파라날 천문대에](../Page/파라날_천문대.md "wikilink") 있다.  [유럽 남방 천문대에서](../Page/유럽_남방_천문대.md "wikilink") 2009년 12월부터 운영중이다. VISTA는 적외선 영역 관측망원경이며 근적외선 영역 관측 망원경으로는 가장 큰 망원경이다.\[1\] 망원경은 관측 기기로 VIRCAM(Vista InfraRed CAMera, VISTA 적외선 카메라) 하나만을 장착하고 있다. 이 카메라의 무게는 3 [톤](https://ko.wikipedia.org/wiki/톤 "wikilink")으로  적외선에 민감한 16 개의 특수 검지기를 달고 있으며 이들을 결합하여 나타낼 수 있는 화소는 총 67 만 픽셀이다.\[2\]

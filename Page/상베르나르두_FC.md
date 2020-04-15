@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
+> This article is converted from Wikipedia: [상베르나르두 FC](https://ko.wikipedia.org/wiki/상베르나르두_FC).
 
 
 **상베르나르두 푸치보우 클루비**() 짧게는 **상베르나르두**()로 불리는[브라질](../Page/브라질.md "wikilink")의 축구단으로 [상파울루주](../Page/상파울루주.md "wikilink")의 [상베르나르두두캄푸](../Page/상베르나르두두캄푸.md "wikilink")를 연고로 한다. [2017년](../Page/2017년.md "wikilink") 현재 브라질 축구 4부 리그 [캄페오나투 브라질레이루 세리이 D에](../Page/캄페오나투_브라질레이루_세리이_D.md "wikilink") 참가하고 있다.

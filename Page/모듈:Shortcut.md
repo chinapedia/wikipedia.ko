@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Shortcut](https://ko.wikipedia.org/wiki/:Shortcut).
+> This article is converted from Wikipedia: [모듈:Shortcut](https://ko.wikipedia.org/wiki/모듈:Shortcut).
 
 
 \-- This module implements .

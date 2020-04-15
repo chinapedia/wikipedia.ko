@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ DI](https://ko.wikipedia.org/wiki/_DI).
+> This article is converted from Wikipedia: [카멜레온자리 DI](https://ko.wikipedia.org/wiki/카멜레온자리_DI).
 
 
 **카멜레온자리 DI** 또는 Hen 3-593, [HIP](https://ko.wikipedia.org/wiki/히파르코스_위성 "wikilink") 54365는 [카멜레온자리](../Page/카멜레온자리.md "wikilink") 방향으로 [지구](../Page/지구.md "wikilink")로부터 약 700 광년 떨어진 곳에 있는 [사중성계](https://ko.wikipedia.org/wiki/사중성계 "wikilink")이다.

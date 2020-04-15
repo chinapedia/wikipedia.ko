@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TV MSL 4  ](https://ko.wikipedia.org/wiki/TV_MSL_4__).
+> This article is converted from Wikipedia: [곰TV MSL 시즌4 서바이버 토너먼트](https://ko.wikipedia.org/wiki/곰TV_MSL_시즌4_서바이버_토너먼트).
 
 
 ## 리그기간

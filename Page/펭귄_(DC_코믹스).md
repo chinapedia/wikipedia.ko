@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ \(DC \)](https://ko.wikipedia.org/wiki/_\(DC_\)).
+> This article is converted from Wikipedia: [펭귄 \(DC 코믹스\)](https://ko.wikipedia.org/wiki/펭귄_\(DC_코믹스\)).
 
 
 **펭귄**()은 [DC 코믹스의](../Page/DC_코믹스.md "wikilink") [슈퍼빌런](https://ko.wikipedia.org/wiki/슈퍼빌런 "wikilink") 캐릭터이다. 본명은 **오즈월드 체스터필드 코블팟**(Oswald Chesterfield Cobblepot)이고, 주로 [배트맨](../Page/배트맨.md "wikilink")의 악당으로 등장하는 사업가이다. 1941년 12월 《[디텍티브 코믹스](https://ko.wikipedia.org/wiki/디텍티브_코믹스 "wikilink")》 58호에 처음 등장했고, [빌 핑거와](https://ko.wikipedia.org/wiki/빌_핑거 "wikilink") [밥 케인이](https://ko.wikipedia.org/wiki/밥_케인 "wikilink") 공동 창작하였다.

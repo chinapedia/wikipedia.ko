@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [GSM  ](https://ko.wikipedia.org/wiki/GSM__).
+> This article is converted from Wikipedia: [GSM 주파수 대역](https://ko.wikipedia.org/wiki/GSM_주파수_대역).
 
 
 **GSM 주파수 대역** 또는 주파수 범위는 [GSM](../Page/GSM.md "wikilink") [휴대 전화의](../Page/휴대_전화.md "wikilink") 동작을 위해 [ITU](https://ko.wikipedia.org/wiki/ITU "wikilink")에서 정한 휴대전화 주파수이다.

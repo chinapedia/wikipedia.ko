@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Vb cl9 team](https://ko.wikipedia.org/wiki/:Vb_cl9_team).
+> This article is converted from Wikipedia: [틀:Vb cl9 team](https://ko.wikipedia.org/wiki/틀:Vb_cl9_team).
 
 
 <includeonly>|- style="text-align: center;" {{\#if:|bgcolor=|bgcolor=\#F9F9F9}} |{{\#if: | }} |style="text-align: left;"|{{\#if: | }} {{\#if: | }} |**{{\#expr: . + . + . }}** |{{\#expr: . + . + . }} |{{\#expr: \*3 + \*3 + \*2 +  }} |{{\#expr: .\*3 + .\*3 + .\*3 + .\*2 + . }} |{{\#expr: .\*3 + .\*3 + .\*3 + .\*2 + . }} |{{\#ifeq: {{\#expr: .\*3 + .\*3 + .\*3 + .\*2 + . }}|0|MAX|)/({{\#expr: .\*3 + .\*3 + .\*3 + .\*2 + . }}) }}|3 }} }} |{{\#expr: {{\#if: | }} }} |{{\#expr: {{\#if: | }} }} |{{\#ifeq: {{\#expr:  }}|0|MAX|/ {{\#expr:  }} }}|3 }} }}</includeonly> <noinclude><templatedata> {

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [CC](https://ko.wikipedia.org/wiki/CC).
+> This article is converted from Wikipedia: [자바CC](https://ko.wikipedia.org/wiki/자바CC).
 
 
 **자바CC** (JavaCC, 자바 컴파일러 컴파일러, Java Compiler Compiler)는 [자바 프로그래밍 언어로](../Page/자바_\(프로그래밍_언어\).md "wikilink") 작성된 [오픈 소스](../Page/오픈_소스.md "wikilink") [구문 분석기이자](https://ko.wikipedia.org/wiki/구문_분석기 "wikilink") [낱말 분석기](../Page/낱말_분석.md "wikilink") 발생기이다. 자바CC는 [EBNF](https://ko.wikipedia.org/wiki/확장_배커스-나우르_표기법 "wikilink") 표기법으로 작성된 [형식 문법의](../Page/형식_문법.md "wikilink") [파서](https://ko.wikipedia.org/wiki/파서 "wikilink")를 생성한다는 점에서 [yacc](https://ko.wikipedia.org/wiki/yacc "wikilink")과 비슷하다. yacc과 달리 자바CC는 하향식 파서를 생성한다. 자바CC는 다음 *k* 입력 토큰에 기반한 선택을 해결할 수 있으므로 [LL(*k*)](../Page/LL_파서.md "wikilink") 문법을 자동으로 처리할 수 있다. 또, 자바CC는 [Lex](../Page/Lex.md "wikilink")와 비슷한 방식의 구문 분석기를 생성한다. 이를 동반하는 트리 빌더인 JJTree는 처음부터 트리를 구성한다.

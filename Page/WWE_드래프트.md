@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [WWE ](https://ko.wikipedia.org/wiki/WWE_).
+> This article is converted from Wikipedia: [WWE 드래프트](https://ko.wikipedia.org/wiki/WWE_드래프트).
 
 
 **WWE 드래프트**(WWE Draft)는 [WCW](https://ko.wikipedia.org/wiki/WCW "wikilink"),[ECW](https://ko.wikipedia.org/wiki/ECW "wikilink")를 흡수합병한 후 기하급수적으로 증가한 로스터를 [로우와](https://ko.wikipedia.org/wiki/WWE_로우 "wikilink") [스맥다운으로](../Page/WWE_스맥다운.md "wikilink") 분할하여 각각 다른 선수들과 다른 스토라인을 통해 더 많은 시청자층을 확보하기 위해 실시한 드래프트이다.

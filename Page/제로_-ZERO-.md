@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ -ZERO-](https://ko.wikipedia.org/wiki/_-ZERO-).
+> This article is converted from Wikipedia: [제로 -ZERO-](https://ko.wikipedia.org/wiki/제로_-ZERO-).
 
 
 〈**제로 -ZERO-**〉()는 [후쿠야마 마사하루의](../Page/후쿠야마_마사하루.md "wikilink") 디지털 한정 [싱글이다](../Page/싱글_\(음악\).md "wikilink").

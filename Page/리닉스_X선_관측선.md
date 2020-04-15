@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ X ](https://ko.wikipedia.org/wiki/_X_).
+> This article is converted from Wikipedia: [리닉스 X선 관측선](https://ko.wikipedia.org/wiki/리닉스_X선_관측선).
 
 
 **리닉스 X선 관측선**은 [NASA](https://ko.wikipedia.org/wiki/NASA "wikilink")가 2035년 발사 예정인 [X선](https://ko.wikipedia.org/wiki/X선 "wikilink")을 관측하는 우주망원경이다.\[1\]\[2\]\[3\] 목적은 [우주배경복사](https://ko.wikipedia.org/wiki/우주배경복사 "wikilink") 관측, 별의 인생, 은하 관측, 은하 운동과 형태 더 자세히 조사하는 것 등이 있다.\[4\]\[5\] 현재 [플래그쉽 프로그램에](https://ko.wikipedia.org/wiki/플래그쉽_프로그램 "wikilink") 편입되었다.\[6\] 목적은 [찬드라 엑스선 관측선의](../Page/찬드라_엑스선_관측선.md "wikilink") 후계자로 여러 X선 천체들을 관측하는 것이 목적이다.

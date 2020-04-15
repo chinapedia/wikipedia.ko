@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TvN ](https://ko.wikipedia.org/wiki/TvN_).
+> This article is converted from Wikipedia: [TvN 토일드라마](https://ko.wikipedia.org/wiki/TvN_토일드라마).
 
 
 **tvN 토일드라마**는 [tvN](https://ko.wikipedia.org/wiki/tvN "wikilink")에서 매주 [토요일](../Page/토요일.md "wikilink")과 [일요일](../Page/일요일.md "wikilink") 밤 9시에 방송하는 [텔레비전 드라마다](../Page/텔레비전_드라마.md "wikilink").
@@ -7,9 +7,9 @@
 
 ## 방송 시간
 
-| 방송 채널                                               | 방송 기간              | 방송 시간          | 비고 |
-| --------------------------------------------------- | ------------------ | -------------- | -- |
-| [tvN](https://ko.wikipedia.org/wiki/tvN "wikilink") | 2017년 6월 10일 \~ 현재 | 토요일 · 일요일 밤 9시 |    |
+| 방송 채널                                               | 방송 기간                                                                                 | 방송 시간                                                                                                                     | 비고 |
+| --------------------------------------------------- | ------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- | -- |
+| [tvN](https://ko.wikipedia.org/wiki/tvN "wikilink") | [2017년](../Page/2017년.md "wikilink") [6월 10일](../Page/6월_10일.md "wikilink") \~ **현재** | [토요일](../Page/토요일.md "wikilink") · [일요일](../Page/일요일.md "wikilink") [밤](https://ko.wikipedia.org/wiki/밤 "wikilink") 9시00분 |    |
 
 ## 작품 리스트
 
@@ -34,16 +34,17 @@
 #### 2019년
 
   - 《[로맨스는 별책부록](https://ko.wikipedia.org/wiki/로맨스는_별책부록 "wikilink")》: 2019년 1월 26일 \~ 2019년 3월 17일
-  - 《[자백](https://ko.wikipedia.org/wiki/자백_\(드라마\) "wikilink")》: 2019년 3월 23일 \~ 2019년 5월 12일
-  - 《[아스달 연대기](https://ko.wikipedia.org/wiki/아스달_연대기 "wikilink")》: 2019년 6월 1일 \~ 2019년 7월 7일, 2019년 9월 7일 \~ 2019년 9월 22일
-  - 《[호텔 델루나](https://ko.wikipedia.org/wiki/호텔_델루나 "wikilink")》: 2019년 7월 13일 \~ 2019년 9월 1일
+  - 《[자백](../Page/자백_\(드라마\).md "wikilink")》: 2019년 3월 23일 \~ 2019년 5월 12일
+  - 《[아스달 연대기](../Page/아스달_연대기.md "wikilink")》: 2019년 6월 1일 \~ 2019년 7월 7일, 2019년 9월 7일 \~ 2019년 9월 22일
+  - 《[호텔 델루나](../Page/호텔_델루나.md "wikilink")》: 2019년 7월 13일 \~ 2019년 9월 1일
   - 《[날 녹여주오](https://ko.wikipedia.org/wiki/날_녹여주오 "wikilink")》: 2019년 9월 28일 \~ 2019년 11월 17일
   - 《[사랑의 불시착](https://ko.wikipedia.org/wiki/사랑의_불시착 "wikilink")》: 2019년 12월 14일 \~ 2020년 2월 16일
 
-#### 2020년
+#### [2020년](../Page/2020년.md "wikilink")
 
-  - 《[하이바이, 마마\!](https://ko.wikipedia.org/wiki/하이바이,_마마! "wikilink")》: 2020년 2월 22일 \~
-  - 《[화양연화 - 삶이 꽃이 되는 순간](https://ko.wikipedia.org/wiki/화양연화_\(드라마\) "wikilink")》:
+  - 《[하이바이, 마마\!](https://ko.wikipedia.org/wiki/하이바이,_마마! "wikilink")》 : [2020년](../Page/2020년.md "wikilink") [2월 22일](../Page/2월_22일.md "wikilink") \~ [2020년](../Page/2020년.md "wikilink") [4월 19일](../Page/4월_19일.md "wikilink")
+  - 《[화양연화 - 삶이 꽃이 되는 순간](https://ko.wikipedia.org/wiki/화양연화_\(드라마\) "wikilink")》 : [2020년](../Page/2020년.md "wikilink") [4월 25일](../Page/4월_25일.md "wikilink") \~
+  - [사이코지만 괜찮아](https://ko.wikipedia.org/wiki/사이코지만_괜찮아 "wikilink")
   - 《[비밀의 숲 2](https://ko.wikipedia.org/wiki/비밀의_숲_2 "wikilink")》:
   - 《[스타트업](https://ko.wikipedia.org/wiki/스타트업_\(드라마\) "wikilink")》
 

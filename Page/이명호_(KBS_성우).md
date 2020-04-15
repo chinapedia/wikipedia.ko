@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ \(KBS \)](https://ko.wikipedia.org/wiki/_\(KBS_\)).
+> This article is converted from Wikipedia: [이명호 \(KBS 성우\)](https://ko.wikipedia.org/wiki/이명호_\(KBS_성우\)).
 
 
 **이명호**는 [대한민국](../Page/대한민국.md "wikilink")의 [성우](../Page/성우.md "wikilink")로, [2015년](../Page/2015년.md "wikilink") [KBS](https://ko.wikipedia.org/wiki/KBS "wikilink") 공채 40기로 입사했다.
@@ -11,7 +11,7 @@
   - [TV유치원](../Page/TV유치원.md "wikilink")([KBS2](https://ko.wikipedia.org/wiki/KBS2 "wikilink")) - 삐아, 밀리
   - [샤이닝 스타](../Page/샤이닝_스타_\(애니메이션\).md "wikilink")([MBC](https://ko.wikipedia.org/wiki/MBC "wikilink")) - 채나라
   - 프리큐어 올스타즈 뉴스테이지 3 영원한 친구 ([대원방송](https://ko.wikipedia.org/wiki/대원방송 "wikilink")) - 진달래(큐어 블로섬)
-  - [꼬꼬마 텔레토비](../Page/꼬꼬마_텔레토비.md "wikilink")([KBS2](https://ko.wikipedia.org/wiki/KBS2 "wikilink")) - 뽀,마이크,여자 해설 역
+  - [꼬꼬마 텔레토비](../Page/꼬꼬마_텔레토비.md "wikilink")([KBS2](https://ko.wikipedia.org/wiki/KBS2 "wikilink")) - 뽀, 마이크, 여자 해설 역
 
 ### 외화
 

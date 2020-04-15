@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [WAKE UP \( \)](https://ko.wikipedia.org/wiki/WAKE_UP_\(_\)).
+> This article is converted from Wikipedia: [WAKE UP \(방탄소년단의 음반\)](https://ko.wikipedia.org/wiki/WAKE_UP_\(방탄소년단의_음반\)).
 
 
 《**WAKE UP**》(웨이크 업)은 [대한민국](../Page/대한민국.md "wikilink")의 [보이 밴드](https://ko.wikipedia.org/wiki/보이_밴드 "wikilink") [방탄소년단](../Page/방탄소년단.md "wikilink")의 데뷔 일본 스튜디오 음반으로, 2014년 12월 24일 출시되었다. 이 음반은 13개의 트랙이 있으며 일본어 버전의 《No More Dream》, 《Boy in Luv》, 《Danger》가 수록되어 있고 그 외에 2개의 일본 오리지널 노래 《The Stars》, 《Wake Up》이 포함되었다. 이 음반은 [오리콘 차트에서](https://ko.wikipedia.org/wiki/오리콘_차트 "wikilink") 2위를 차지했다.

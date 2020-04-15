@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  \(IBM \)](https://ko.wikipedia.org/wiki/__\(IBM_\)).
+> This article is converted from Wikipedia: [데이터 세트 \(IBM 메인프레임\)](https://ko.wikipedia.org/wiki/데이터_세트_\(IBM_메인프레임\)).
 
 
 [IBM](../Page/IBM.md "wikilink") [메인프레임 컴퓨터의](https://ko.wikipedia.org/wiki/메인프레임_컴퓨터 "wikilink") 문맥에서 **데이터 세트**\[1\](data set)는 [레코드 조직을](https://ko.wikipedia.org/wiki/레코드_지향_파일_시스템 "wikilink") 보유하고 있는 [컴퓨터 파일의](../Page/컴퓨터_파일.md "wikilink") 하나이다. 이 용어의 이용은 [OS/360](https://ko.wikipedia.org/wiki/OS/360 "wikilink")과 함께 시작하였으며 현재의 [z/OS](https://ko.wikipedia.org/wiki/z/OS "wikilink")를 포함한 이후 세대에서도 여전히 사용되고 있다. 이러한 시스템들의 문서들은 역사적으로 [파일](../Page/컴퓨터_파일.md "wikilink") 보다는 이 용어를 선호하였다.

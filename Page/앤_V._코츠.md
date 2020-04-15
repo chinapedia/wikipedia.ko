@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [ V. ](https://ko.wikipedia.org/wiki/_V._).
+> This article is converted from Wikipedia: [앤 V. 코츠](https://ko.wikipedia.org/wiki/앤_V._코츠).
 
 
-**앤 보스 코츠**(, [1925년](../Page/1925년.md "wikilink") [12월 12일](../Page/12월_12일.md "wikilink") \~ [2018년](../Page/2018년.md "wikilink") [5월 8일](../Page/5월_8일.md "wikilink"))는 [영국](../Page/영국.md "wikilink")의 [영화 편집자이다](https://ko.wikipedia.org/wiki/영화_편집자 "wikilink"). 대표작은 [데이비드 린](../Page/데이비드_린.md "wikilink") 감독의 《[아라비아의 로렌스](../Page/아라비아의_로렌스_\(영화\).md "wikilink")》(1962)이며, 이외 《[엘리펀트 맨](https://ko.wikipedia.org/wiki/엘리펀트_맨 "wikilink")》(1980), 《오리엔트 특급 살인》(1974), 《[사선에서](../Page/사선에서.md "wikilink")》(1993), 《[에린 브로코비치](../Page/에린_브로코비치_\(영화\).md "wikilink")》(2000), 《[황금나침반](../Page/황금나침반_\(영화\).md "wikilink")》(2007), 《[그레이의 50가지 그림자](../Page/그레이의_50가지_그림자_\(영화\).md "wikilink")》(2015)가 있다. 《아라비아의 로렌스》로 [아카데미 편집상을](https://ko.wikipedia.org/wiki/아카데미_편집상 "wikilink") 수상했고, 이후 몇 번이나 더 후보가 되었으나 재차 수상하지는 못했다. 2017년에는 [아카데미 공로상을](https://ko.wikipedia.org/wiki/아카데미_공로상 "wikilink") 수상헀다.
+**앤 보스 코츠**(, [1925년](../Page/1925년.md "wikilink") [12월 12일](../Page/12월_12일.md "wikilink") \~ [2018년](../Page/2018년.md "wikilink") [5월 8일](../Page/5월_8일.md "wikilink"))는 [영국](../Page/영국.md "wikilink")의 [영화 편집자이다](https://ko.wikipedia.org/wiki/영화_편집자 "wikilink"). 대표작은 [데이비드 린](../Page/데이비드_린.md "wikilink") 감독의 《[아라비아의 로렌스](../Page/아라비아의_로렌스_\(영화\).md "wikilink")》(1962)이며, 이외 《[엘리펀트 맨](https://ko.wikipedia.org/wiki/엘리펀트_맨 "wikilink")》(1980), 《오리엔트 특급 살인》(1974), 《[사선에서](../Page/사선에서.md "wikilink")》(1993), 《[에린 브로코비치](../Page/에린_브로코비치_\(영화\).md "wikilink")》(2000), 《[황금나침반](../Page/황금나침반_\(영화\).md "wikilink")》(2007), 《[그레이의 50가지 그림자](../Page/그레이의_50가지_그림자_\(영화\).md "wikilink")》(2015)가 있다. 《아라비아의 로렌스》로 [아카데미 편집상을](../Page/아카데미_편집상.md "wikilink") 수상했고, 이후 몇 번이나 더 후보가 되었으나 재차 수상하지는 못했다. 2017년에는 [아카데미 공로상을](https://ko.wikipedia.org/wiki/아카데미_공로상 "wikilink") 수상헀다.
 
 2018년 5월 8일 92세를 일기로 숨졌다.\[1\]\[2\]
 
@@ -37,7 +37,7 @@
 <td><p><a href="../Page/아라비아의_로렌스_(영화).md" title="wikilink">아라비아의 로렌스</a></p></td>
 <td><p>Lawrence of Arabia</p></td>
 <td><p><a href="../Page/데이비드_린.md" title="wikilink">데이비드 린</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/아카데미_편집상" title="wikilink">아카데미 편집상</a> 수상</p></td>
+<td><p><a href="../Page/아카데미_편집상.md" title="wikilink">아카데미 편집상</a> 수상</p></td>
 </tr>
 <tr class="even">
 <td><p>1964</p></td>

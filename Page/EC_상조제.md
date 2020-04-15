@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [EC ](https://ko.wikipedia.org/wiki/EC_).
+> This article is converted from Wikipedia: [EC 상조제](https://ko.wikipedia.org/wiki/EC_상조제).
 
 
 **이스포르치 클루비 상조제**() 또는 **상조제 지 포르투알레그리**는 [브라질](../Page/브라질.md "wikilink") [히우그란지두술주](../Page/히우그란지두술주.md "wikilink") [포르투알레그리](../Page/포르투알레그리.md "wikilink")를 연고로 하는 축구 클럽이다. 연고지 포르투알레그리의 약어를 따 **상조제-PA**라고도 표기된다. [1913년](../Page/1913년.md "wikilink") [5월 24일](../Page/5월_24일.md "wikilink") 창단하였다.

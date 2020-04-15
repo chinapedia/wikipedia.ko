@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [UEFA  2016 B](https://ko.wikipedia.org/wiki/UEFA__2016_B).
+> This article is converted from Wikipedia: [UEFA 유로 2016 B조](https://ko.wikipedia.org/wiki/UEFA_유로_2016_B조).
 
 
 다음은 **[UEFA 유로 2016](https://ko.wikipedia.org/wiki/UEFA_유로_2016 "wikilink") 조별 리그 B조** 경기 결과이다.

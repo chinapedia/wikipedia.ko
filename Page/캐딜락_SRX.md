@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ SRX](https://ko.wikipedia.org/wiki/_SRX).
+> This article is converted from Wikipedia: [캐딜락 SRX](https://ko.wikipedia.org/wiki/캐딜락_SRX).
 
 
 **캐딜락 SRX**(Cadillac SRX)는 [2003년](../Page/2003년.md "wikilink")부터 [2016년](../Page/2016년.md "wikilink")까지 생산된 [캐딜락](../Page/캐딜락.md "wikilink")의 크로스오버 SUV([스포츠 유틸리티 자동차](../Page/스포츠_유틸리티_자동차.md "wikilink"))이다. 1세대는 준대형이었으나, 2세대는 중형으로 자리잡았다.

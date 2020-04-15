@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:OSM  ](https://ko.wikipedia.org/wiki/:OSM__).
+> This article is converted from Wikipedia: [틀:OSM 위치 지도](https://ko.wikipedia.org/wiki/틀:OSM_위치_지도).
 
 
 |}} | lon = {{\#if:|{{\#invoke:coordinates|coord2text||long}}|}} | zoom =  | nolabels =  | minimap =  | mini-width =  | mini-height =  | mini-file =  | minimap-boxwidth =  | minipog-x =  | minipog-y =  | scalemark =

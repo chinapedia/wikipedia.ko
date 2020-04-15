@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:David Cameron cabinet 1 vertical](https://ko.wikipedia.org/wiki/:David_Cameron_cabinet_1_vertical).
+> This article is converted from Wikipedia: [틀:David Cameron cabinet 1 vertical](https://ko.wikipedia.org/wiki/틀:David_Cameron_cabinet_1_vertical).
 
 
 | 정당 구분 |                                             | [보수당](../Page/보수당_\(영국\).md "wikilink") |

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [LIFE \(\)](https://ko.wikipedia.org/wiki/LIFE_\(\)).
+> This article is converted from Wikipedia: [LIFE \(우주선\)](https://ko.wikipedia.org/wiki/LIFE_\(우주선\)).
 
 
 **LIFE**는 엔셀라두스의 [간헐천](https://ko.wikipedia.org/wiki/간헐천 "wikilink")과 수증기의 구성 성분을 분석하고 생명의 여부와 기원 등을 알아내는 것이 목적인 [엔셀라두스](../Page/엔셀라두스.md "wikilink") 탐사선이다.\[1\]\[2\]\[3\]\[4\] 연구원들은 참신한 탐사선이라고 평가하고 [디스커버리 계획에](https://ko.wikipedia.org/wiki/디스커버리_계획 "wikilink") 제출했으나,\[5\] 선출되지 않았다.\[6\]\[7\]\[8\] 특이사항으로는 [엔셀라두스](../Page/엔셀라두스.md "wikilink")의 샘플도 지구로 보내는 임무를 가지고 있다.\[9\]\[10\]\[11\]

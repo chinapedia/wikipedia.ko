@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ICD-10  IV: ,    ](https://ko.wikipedia.org/wiki/ICD-10__IV:_,____).
+> This article is converted from Wikipedia: [ICD-10 챕터 IV: 내분비, 영양 및 대사 질병](https://ko.wikipedia.org/wiki/ICD-10_챕터_IV:_내분비,_영양_및_대사_질병).
 
 
 **[ICD-10](../Page/ICD-10.md "wikilink")** 목록의 4번째 챕터이다. E00\~E90까지를 포괄하며, 내분비, 영양 및 대사 질병(Endocrine, nutritional and metabolic diseases)에 관한 것이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:OCN ](https://ko.wikipedia.org/wiki/:OCN_).
+> This article is converted from Wikipedia: [틀:OCN 토일드라마](https://ko.wikipedia.org/wiki/틀:OCN_토일드라마).
 
 
 [픽&로맨스](https://ko.wikipedia.org/wiki/틀:OCN_로맨스_시리즈 "wikilink") {{\!}} [드라마틱 시네마](https://ko.wikipedia.org/wiki/틀:OCN_드라마틱_시네마 "wikilink")

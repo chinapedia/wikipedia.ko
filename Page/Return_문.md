@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Return ](https://ko.wikipedia.org/wiki/Return_).
+> This article is converted from Wikipedia: [Return 문](https://ko.wikipedia.org/wiki/Return_문).
 
 
 [컴퓨터 프로그래밍에서](../Page/컴퓨터_프로그래밍.md "wikilink") **return 문**은 현재의 [함수에서](../Page/함수_\(프로그래밍\).md "wikilink") 값이나 주소를 반환할 때 사용한다.

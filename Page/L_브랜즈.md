@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [L ](https://ko.wikipedia.org/wiki/L_).
+> This article is converted from Wikipedia: [L 브랜즈](https://ko.wikipedia.org/wiki/L_브랜즈).
 
 
 **L 브랜즈**(, 이전 사명은 **Limited Brands, Inc.**과 **The Limited, Inc.**)는 1963년에 설립 된 오하이오 콜럼버스에 본사를 둔 미국의 패션 소매 기업이다.\[1\] 대표 브랜드에는 [빅토리아 시크릿](../Page/빅토리아_시크릿.md "wikilink") 및 배스 앤 바디 웍스가 있다. L 브랜드는 2013년에 105 억 달러의 매출을 올렸으며, 2013 포춘 500대 기업 중 상위 25위 기업에 258위를 차지했다.

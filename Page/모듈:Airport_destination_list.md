@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Airport destination list](https://ko.wikipedia.org/wiki/:Airport_destination_list).
+> This article is converted from Wikipedia: [모듈:Airport destination list](https://ko.wikipedia.org/wiki/모듈:Airport_destination_list).
 
 
 local p = {}

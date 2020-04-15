@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Tomato \(\)](https://ko.wikipedia.org/wiki/Tomato_\(\)).
+> This article is converted from Wikipedia: [Tomato \(음반\)](https://ko.wikipedia.org/wiki/Tomato_\(음반\)).
 
 
 《**Tomato**》는 대한민국의 음악 그룹인 [샤크라](../Page/샤크라.md "wikilink")의 네 번째 정규 음반이다. 2003년 8월 21일에 발매되었다. 타이틀 곡은 〈난 너에게〉이다.

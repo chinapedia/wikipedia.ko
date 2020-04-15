@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ V  ](https://ko.wikipedia.org/wiki/_V__).
+> This article is converted from Wikipedia: [스페셜 V의 에피소드 목록](https://ko.wikipedia.org/wiki/스페셜_V의_에피소드_목록).
 
 
 다음은 《[스페셜 V](../Page/스페셜_V.md "wikilink")》의 에피소드 목록이다.
@@ -493,7 +493,7 @@
 <tr class="odd">
 <td></td>
 <td><p>4</p></td>
-<td><p><a href="../Page/대전_KGC인삼공사_배구단.md" title="wikilink">대전 KGC인삼공사 배구단</a>{{·}}<a href="../Page/채선아_(배구_선수).md" title="wikilink">채선아</a>, <a href="https://ko.wikipedia.org/wiki/최은지_(배구_선수)" title="wikilink">최은지</a></p></td>
+<td><p><a href="../Page/대전_KGC인삼공사_배구단.md" title="wikilink">대전 KGC인삼공사 배구단</a>{{·}}<a href="../Page/채선아_(배구_선수).md" title="wikilink">채선아</a>, <a href="../Page/최은지_(배구_선수).md" title="wikilink">최은지</a></p></td>
 </tr>
 <tr class="even">
 <td></td>

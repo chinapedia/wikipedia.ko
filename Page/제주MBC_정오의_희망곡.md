@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [MBC  ](https://ko.wikipedia.org/wiki/MBC__).
+> This article is converted from Wikipedia: [제주MBC 정오의 희망곡](https://ko.wikipedia.org/wiki/제주MBC_정오의_희망곡).
 
 
-**정오의 희망곡 정유진입니다**는 [제주MBC FM4U](../Page/제주문화방송.md "wikilink")([제주시](../Page/제주시.md "wikilink") FM 90.1㎒, [서귀포시](https://ko.wikipedia.org/wiki/서귀포시 "wikilink") FM 102.9㎒)에서 매일 낮 12시부터 오후 2시까지 방송되는 [제주](https://ko.wikipedia.org/wiki/제주특별자치도 "wikilink") 전지역의 대중가요 전문 라디오 프로그램이다.
+**정오의 희망곡 정유진입니다**는 [제주MBC](../Page/제주문화방송.md "wikilink") [FM4U](../Page/MBC_FM4U.md "wikilink")([제주시](../Page/제주시.md "wikilink") FM 90.1㎒, [서귀포시](https://ko.wikipedia.org/wiki/서귀포시 "wikilink") FM 102.9㎒)에서 매일 낮 12시부터 오후 2시까지 방송되는 [제주](https://ko.wikipedia.org/wiki/제주특별자치도 "wikilink") 전지역의 대중가요 전문 라디오 프로그램이다.
 
 ## 코너소개
 
@@ -59,7 +59,7 @@
   - [생생 클래식](https://ko.wikipedia.org/wiki/생생_클래식 "wikilink") ([KBS제주 음악FM](../Page/KBS제주방송총국.md "wikilink"))
   - [BBS 정오종합뉴스](https://ko.wikipedia.org/wiki/BBS_정오종합뉴스 "wikilink") (평일) ([BBS 제주불교방송](../Page/제주불교방송.md "wikilink"))
   - 한낮의 휴식, 장수연입니다 ([BBS 제주불교방송](../Page/제주불교방송.md "wikilink"))
-  - [TBN 차차차](https://ko.wikipedia.org/wiki/TBN_차차차_\(제주\) "wikilink") ([TBN 제주교통방송](https://ko.wikipedia.org/wiki/제주교통방송 "wikilink"))
+  - [TBN 차차차](../Page/TBN_차차차_\(제주\).md "wikilink") ([TBN 제주교통방송](https://ko.wikipedia.org/wiki/제주교통방송 "wikilink"))
 
 ### AM방송
 

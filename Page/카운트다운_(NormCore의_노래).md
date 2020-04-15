@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ \(NormCore \)](https://ko.wikipedia.org/wiki/_\(NormCore_\)).
+> This article is converted from Wikipedia: [카운트다운 \(NormCore의 노래\)](https://ko.wikipedia.org/wiki/카운트다운_\(NormCore의_노래\)).
 
 
 〈**카운트다운**〉()은 [NormCore](https://ko.wikipedia.org/wiki/NormCore "wikilink")의 세 번째 싱글이며 [2018년](../Page/2018년.md "wikilink") [8월 29일에](../Page/8월_29일.md "wikilink") [기자 스튜디오에서](https://ko.wikipedia.org/wiki/기자_스튜디오 "wikilink") 발매됐다\[1\].

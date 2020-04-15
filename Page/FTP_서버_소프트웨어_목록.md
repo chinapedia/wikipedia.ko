@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FTP   ](https://ko.wikipedia.org/wiki/FTP___).
+> This article is converted from Wikipedia: [FTP 서버 소프트웨어 목록](https://ko.wikipedia.org/wiki/FTP_서버_소프트웨어_목록).
 
 
 ## 그래픽

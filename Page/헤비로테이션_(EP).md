@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ \(EP\)](https://ko.wikipedia.org/wiki/_\(EP\)).
+> This article is converted from Wikipedia: [헤비로테이션 \(EP\)](https://ko.wikipedia.org/wiki/헤비로테이션_\(EP\)).
 
 
 《**헤비로테이션**》(, )은 [중국](../Page/중국.md "wikilink")의 걸 그룹 [SNH48](../Page/SNH48.md "wikilink")의 첫 번째 [미니 음반이다](../Page/익스텐디드_플레이.md "wikilink").

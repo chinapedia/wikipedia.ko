@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Airbag \( \)](https://ko.wikipedia.org/wiki/Airbag_\(_\)).
+> This article is converted from Wikipedia: [Airbag \(라디오헤드의 노래\)](https://ko.wikipedia.org/wiki/Airbag_\(라디오헤드의_노래\)).
 
 
 〈**Airbag**〉은 [영국](../Page/영국.md "wikilink") 록 밴드 [라디오헤드](../Page/라디오헤드.md "wikilink")의 곡이다. 1997년 앨범 《[OK Computer](../Page/OK_Computer.md "wikilink")》의 첫 곡이자 1998년 3월 24일 앨범에서 발매될 마지막 싱글이다.

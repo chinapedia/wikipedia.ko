@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [15 KBS ](https://ko.wikipedia.org/wiki/15_KBS_).
+> This article is converted from Wikipedia: [15기 KBS 바둑왕전](https://ko.wikipedia.org/wiki/15기_KBS_바둑왕전).
 
 
 **15기 KBS 바둑왕전**은 TV 속기전이 참가한 국내 바둑 기전이다. 결승에서는 [조훈현](../Page/조훈현.md "wikilink") 九단이 [이창호](https://ko.wikipedia.org/wiki/이창호_\(바둑_기사\) "wikilink") 九단을 2:1로 꺾고 통산 9회 우승을 달성했다.

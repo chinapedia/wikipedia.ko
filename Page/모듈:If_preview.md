@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:If preview](https://ko.wikipedia.org/wiki/:If_preview).
+> This article is converted from Wikipedia: [모듈:If preview](https://ko.wikipedia.org/wiki/모듈:If_preview).
 
 
 local p = {}

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [MBC ](https://ko.wikipedia.org/wiki/MBC_).
+> This article is converted from Wikipedia: [MBC 뉴스브리핑](https://ko.wikipedia.org/wiki/MBC_뉴스브리핑).
 
 
 《**MBC 뉴스브리핑**》()은 [문화방송](../Page/문화방송.md "wikilink")(MBC)에서 매주 월요일 \~ 화요일, 목요일 \~ 금요일 밤 12시 55분에 방송되었던 [문화방송](../Page/문화방송.md "wikilink")의 심야 단신뉴스 프로그램이다.

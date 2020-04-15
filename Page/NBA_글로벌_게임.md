@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [NBA  ](https://ko.wikipedia.org/wiki/NBA__).
+> This article is converted from Wikipedia: [NBA 글로벌 게임](https://ko.wikipedia.org/wiki/NBA_글로벌_게임).
 
 
 **NBA 글로벌 게임**(NBA Global Games)은 정규시즌 1\~2 경기를 미국, 캐나다 이외의 나라에서 개최되는 경기이면, '''NBA 유럽 라이브 투어 '''(NNBA Europe Live Tour)은 NBA팀과 유럽팀간의 경기이다.

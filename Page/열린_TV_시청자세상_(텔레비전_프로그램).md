@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ TV  \( \)](https://ko.wikipedia.org/wiki/_TV__\(_\)).
+> This article is converted from Wikipedia: [열린 TV 시청자세상 \(텔레비전 프로그램\)](https://ko.wikipedia.org/wiki/열린_TV_시청자세상_\(텔레비전_프로그램\)).
 
 
 《**열린 TV 시청자세상**》은 [KBC TV에서](https://ko.wikipedia.org/wiki/KBC_TV "wikilink") 매월 마지막주 [토요일](../Page/토요일.md "wikilink") 오전 10시 10분부터 10시 40분까지 방송되는 광주·전남지역의 TV 비평 옴부즈맨 프로그램이다.
@@ -21,8 +21,8 @@
   - [채널A 시청자 마당](../Page/채널A_시청자_마당.md "wikilink") ([채널A](../Page/채널A.md "wikilink"))
   - [열린비평 TV를 말하다](../Page/열린비평_TV를_말하다.md "wikilink") ([TV조선](../Page/TV조선.md "wikilink"))
   - [열린TV 열린세상](../Page/열린TV_열린세상.md "wikilink") ([MBN](https://ko.wikipedia.org/wiki/MBN "wikilink"))
-  - [YTN 시민데스크](https://ko.wikipedia.org/wiki/YTN_시민데스크 "wikilink") ([YTN](../Page/YTN.md "wikilink"))
-  - [클릭 KNN 시청자 세상](https://ko.wikipedia.org/wiki/클릭_KNN_시청자_세상 "wikilink") ([KNN](../Page/KNN.md "wikilink"))
+  - [YTN 시민데스크](../Page/YTN_시민데스크.md "wikilink") ([YTN](../Page/YTN.md "wikilink"))
+  - [클릭 KNN 시청자 세상](../Page/클릭_KNN_시청자_세상.md "wikilink") ([KNN](../Page/KNN.md "wikilink"))
   - [열린TBC](../Page/열린TBC.md "wikilink") ([TBC](../Page/TBC_\(대한민국의_방송사\).md "wikilink"))
 
 ## 외부 링크

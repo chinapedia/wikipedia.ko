@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [USS   \(CVN-70\)](https://ko.wikipedia.org/wiki/USS___\(CVN-70\)).
+> This article is converted from Wikipedia: [USS 칼 빈슨 \(CVN-70\)](https://ko.wikipedia.org/wiki/USS_칼_빈슨_\(CVN-70\)).
 
 
 **USS 칼 빈슨(CVN-70)**은 [미 해군에서](../Page/미국_해군.md "wikilink") 건조한 세번째 [니미츠급 항공모함으로](../Page/니미츠급_항공모함.md "wikilink"), [미국](../Page/미국.md "wikilink") [조지아주](../Page/조지아주.md "wikilink") [하원의원으로서](../Page/미국_하원.md "wikilink") 미 해군에 크게 기여한 [칼 빈슨](https://ko.wikipedia.org/wiki/칼_빈슨 "wikilink")(Carl Vinson)의 이름을 딴 [대형항공모함이다](https://ko.wikipedia.org/wiki/슈퍼캐리어 "wikilink"). 본 함은 1980년 진수되어 1983년 첫 항해를 하였고, 2005년부터 2009년까지 핵 연료 재충전과 점검을 가졌다. 칼 빈슨의 [콜사인은](https://ko.wikipedia.org/wiki/호출부호 "wikilink") "골드 이글(Gold Eagle)"이다.

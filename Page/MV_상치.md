@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [MV ](https://ko.wikipedia.org/wiki/MV_).
+> This article is converted from Wikipedia: [MV 상치](https://ko.wikipedia.org/wiki/MV_상치).
 
 
 **상치**(Sangchi)는 2008년 건조된 [파나마](../Page/파나마.md "wikilink") 국적의 [유조선](../Page/유조선.md "wikilink")으로 이란 국영 유조선사인 NITC에서 운영하였다. 상치는 이전에는 사만(Saman, 2008), 세피드(Sepid, 2008-2012), 가르데니아(Gardenia, 2012), 시호스(Seahorse, 2012-2013) 등의 이름으로 운영되었다.

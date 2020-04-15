@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Negai](https://ko.wikipedia.org/wiki/Negai).
+> This article is converted from Wikipedia: [Negai☆″](https://ko.wikipedia.org/wiki/Negai☆″).
 
 
 **Negai☆″**()는 [일본](../Page/일본.md "wikilink") [소카 대학의](../Page/소카_대학.md "wikilink") [초소형 인공위성으로서](../Page/큐브위성.md "wikilink"), [2010년](../Page/2010년.md "wikilink") 5월 21일에 금성 탐사선 [아카츠키와](../Page/아카츠키_\(우주선\).md "wikilink") [H-IIA](https://ko.wikipedia.org/wiki/H-IIA "wikilink") 로켓으로 같이 발사되었었다.

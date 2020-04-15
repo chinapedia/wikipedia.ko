@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ B. ](https://ko.wikipedia.org/wiki/_B._).
+> This article is converted from Wikipedia: [로렌스 B. 카이저](https://ko.wikipedia.org/wiki/로렌스_B._카이저).
 
 
 **로렌스 볼튼 카이저**(Laurence Bolton Keiser, [1895년](../Page/1895년.md "wikilink") [6월 1일](../Page/6월_1일.md "wikilink") \~ [1969년](../Page/1969년.md "wikilink") [8월 20일](../Page/8월_20일.md "wikilink"))는 [제1차 세계 대전과](../Page/제1차_세계_대전.md "wikilink") [제2차 세계대전에](https://ko.wikipedia.org/wiki/제2차_세계대전 "wikilink") 둘다 참전한 [미국](../Page/미국.md "wikilink")의 [장교](../Page/장교.md "wikilink")이며 [한국 전쟁의](../Page/한국_전쟁.md "wikilink") 초기 동안 [제2보병사단을](../Page/제2보병사단_\(미국\).md "wikilink") 지휘하였다.

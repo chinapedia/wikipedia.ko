@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ G ](https://ko.wikipedia.org/wiki/_G_).
+> This article is converted from Wikipedia: [건담 G의 레콘키스타](https://ko.wikipedia.org/wiki/건담_G의_레콘키스타).
 
 
 **《건담 G의 레콘키스타》**()는 [선라이즈에서](https://ko.wikipedia.org/wiki/선라이즈_\(애니메이션_스튜디오\) "wikilink") 제작한 [일본](../Page/일본.md "wikilink")의 [로봇](../Page/로봇.md "wikilink") 애니메이션이다. [2014년](../Page/2014년.md "wikilink") [10월](../Page/10월.md "wikilink")부터 [2015년](../Page/2015년.md "wikilink") [3월](../Page/3월.md "wikilink")까지 방영되었다.

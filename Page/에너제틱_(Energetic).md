@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ \(Energetic\)](https://ko.wikipedia.org/wiki/_\(Energetic\)).
+> This article is converted from Wikipedia: [에너제틱 \(Energetic\)](https://ko.wikipedia.org/wiki/에너제틱_\(Energetic\)).
 
 
 〈**에너제틱 (Energetic)**〉은 [워너원](../Page/워너원.md "wikilink")의 노래로, 데뷔 음반이자 첫 번째 미니 음반인 《[1X1=1 (TO BE ONE)](../Page/1X1=1_\(TO_BE_ONE\).md "wikilink")》의 타이틀 곡이다. 2017년 8월 7일에 발표되었다.

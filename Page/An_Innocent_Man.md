@@ -11,7 +11,7 @@
 
 "This Night" 후렴 부분을 [베토벤이](../Page/루트비히_판_베토벤.md "wikilink") 작곡한 것을 제외하고 모두 [빌리 조엘이](../Page/빌리_조엘.md "wikilink") 작곡했다.
 
-## 곡에 참여한 사람들
+## 제작에 참여한 사람들
 
   - 빌리 조엘 - [피아노](../Page/피아노.md "wikilink"), 로즈 피아노, [해먼드 오르간](https://ko.wikipedia.org/wiki/해먼드_오르간 "wikilink"), 리드 & 백 보컬
   - 리버티 드비토 - [드럼](https://ko.wikipedia.org/wiki/드럼_세트 "wikilink")
@@ -20,7 +20,7 @@
   - 러셀 자버스 - 리듬 기타 & 통기타
   - 마크 리베라 - [색소폰](../Page/색소폰.md "wikilink"), [퍼커션](https://ko.wikipedia.org/wiki/퍼커션 "wikilink")
 
-## 제작
+## 프로듀싱
 
   - 프로듀서: 필 라몬
   - 엔지니어: 짐 보이어, 브레드쇼 리

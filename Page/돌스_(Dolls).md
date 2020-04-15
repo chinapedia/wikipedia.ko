@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ \(Dolls\)](https://ko.wikipedia.org/wiki/_\(Dolls\)).
+> This article is converted from Wikipedia: [돌스 \(Dolls\)](https://ko.wikipedia.org/wiki/돌스_\(Dolls\)).
 
 
 《**돌스 (Dolls)**》은 대한민국의 여성 음악 그룹 [나인뮤지스](../Page/나인뮤지스.md "wikilink")의 두 번째 싱글 《[DOLLS](../Page/DOLLS_\(나인뮤지스의_싱글\).md "wikilink")》의 타이틀 곡이다. 2013년 1월 24일에 발표하였다.

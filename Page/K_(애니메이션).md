@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [K \(\)](https://ko.wikipedia.org/wiki/K_\(\)).
+> This article is converted from Wikipedia: [K \(애니메이션\)](https://ko.wikipedia.org/wiki/K_\(애니메이션\)).
 
 
 **K**(케이)는 [GoHands](https://ko.wikipedia.org/wiki/GoHands "wikilink")가 제작한 [일본](../Page/일본.md "wikilink")의 애니메이션 작품이다. [2012년](../Page/2012년.md "wikilink") [10월](../Page/10월.md "wikilink")부터 [12월](../Page/12월.md "wikilink")까지 [MBS에서](../Page/마이니치_방송.md "wikilink") 방영되었다. [2014년](../Page/2014년.md "wikilink") [7월 12일에](../Page/7월_12일.md "wikilink") 극장판인 **K MISSING KINGS**(케이 미싱 킹즈)가 공개. [2015년](../Page/2015년.md "wikilink") 10월부터 12월까지 제2기인 **K RETURN OF KINGS**(케이 리턴 오브 킹즈)가 방영되었다. 그리고 [2018년](../Page/2018년.md "wikilink") [7월 7일부터](../Page/7월_7일.md "wikilink") 영화인 **K SEVEN STORIES**(케이 세븐 스토리즈)가 순차별로 공개(총 6장).

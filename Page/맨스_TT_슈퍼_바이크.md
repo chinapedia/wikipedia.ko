@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ TT  ](https://ko.wikipedia.org/wiki/_TT__).
+> This article is converted from Wikipedia: [맨스 TT 슈퍼 바이크](https://ko.wikipedia.org/wiki/맨스_TT_슈퍼_바이크).
 
 
 《**맨스 TT 슈퍼 바이크**》(Manx TT Super Bike)\[1\]는 [하트메이커와](https://ko.wikipedia.org/wiki/히트메이커_\(기업\) "wikilink") [Sega-AM4](https://ko.wikipedia.org/wiki/Sega-AM4 "wikilink")가 공동으로 개발한 1995년 [아케이드](../Page/아케이드_게임.md "wikilink") [경주 게임이다](https://ko.wikipedia.org/wiki/경주_게임 "wikilink"). 그 이후 [시그노시스](https://ko.wikipedia.org/wiki/시그노시스 "wikilink")와 [Tantalus Interactive에](https://ko.wikipedia.org/wiki/Tantalus_Interactive "wikilink") 의해 [세가 새턴으로](../Page/세가_새턴.md "wikilink") 포팅되었으며 그 다음에 [퍼펙트 엔터테인먼트에](https://ko.wikipedia.org/wiki/퍼펙트_엔터테인먼트 "wikilink") 의해 [윈도우로](../Page/마이크로소프트_윈도우.md "wikilink") 포팅되었다. 세가 모델 2 아케이드 보드용으로 개발된 최초의 모터사이클 레이싱 게임이다. 충분한 캐비닛이 서로 연결되어 있으면 최대 8명이 게임을 즐길 수 있으며, 이후 [데이토나 USA가](../Page/데이토나_USA.md "wikilink") 이러한 방식을 따른다.

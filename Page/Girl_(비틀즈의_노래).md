@@ -1,11 +1,11 @@
-> This article is converted from Wikipedia: [Girl \( \)](https://ko.wikipedia.org/wiki/Girl_\(_\)).
+> This article is converted from Wikipedia: [Girl \(비틀즈의 노래\)](https://ko.wikipedia.org/wiki/Girl_\(비틀즈의_노래\)).
 
 
 〈**Girl**〉는 [존 레논이](../Page/존_레논.md "wikilink") 쓰고 (레논-매카트니로 표기) [비틀즈](../Page/비틀즈.md "wikilink")가 녹음해 자신들의 1965년도 음반 《[Rubber Soul](../Page/Rubber_Soul.md "wikilink")》에 담은 노래다. 〈Girl〉는 음반의 수록곡 중 가장 마지막으로 녹음이 완료된 노래다.
 
 ## 역사
 
-〈Girl〉는 비틀즈의 가장 우울하고 복잡한 노래 중 하나다. 노래의 악기 연주는 그리스 음악의 특징과도 비슷한데 이러한 특징은 〈[And I Love Her](../Page/And_I_Love_Her.md "wikilink")〉, 〈[Michelle](https://ko.wikipedia.org/wiki/Michelle_\(노래\) "wikilink")〉에도 적용되어 있다. 레논과 [조지 해리슨이](../Page/조지_해리슨.md "wikilink") 기본 트랙에서 통기타를 연주했고, 해리슨이 프로듀서 조지 마틴에게 받은 부주키를 오버더빙해 덧입였다.\[1\] 브리지의 백업에서 레논이 반복구를 부를 때 매카트니와 해리슨은 음절을 위해 보컬 퍼커선을 노래했는데, 이들은 "dit-dit-dit-dit"을 부르기로 되어 있었지만 대신 농담삼아 "tit-tit-tit-tit"을 불렀다.\[2\] 후렴에 있는 깊은 숨은 마리화나 흡입에 대한 상징을 나타낸다는 루머가 퍼진 적이 있었다.\[3\]
+〈Girl〉는 비틀즈의 가장 우울하고 복잡한 노래 중 하나다. 노래의 악기 연주는 그리스 음악의 특징과도 비슷한데 이러한 특징은 〈[And I Love Her](../Page/And_I_Love_Her.md "wikilink")〉, 〈[Michelle](../Page/Michelle_\(노래\).md "wikilink")〉에도 적용되어 있다. 레논과 [조지 해리슨이](../Page/조지_해리슨.md "wikilink") 기본 트랙에서 통기타를 연주했고, 해리슨이 프로듀서 조지 마틴에게 받은 부주키를 오버더빙해 덧입였다.\[1\] 브리지의 백업에서 레논이 반복구를 부를 때 매카트니와 해리슨은 음절을 위해 보컬 퍼커선을 노래했는데, 이들은 "dit-dit-dit-dit"을 부르기로 되어 있었지만 대신 농담삼아 "tit-tit-tit-tit"을 불렀다.\[2\] 후렴에 있는 깊은 숨은 마리화나 흡입에 대한 상징을 나타낸다는 루머가 퍼진 적이 있었다.\[3\]
 
 폴 매카트니는 가사에서 자신의 기여는 "*Was she told when she was young that pain would lead to pleasure*"와 "*That a man must break his back to earn his day of leisure*."라고 주장한다. 하지만 레논은 1970년에 있던 《롤링 스톤》 인터뷰에서 자신이 "당시에 반대하던" 기독교에 대한 발언으로 썼다고 설명했다. 레논은 이렇게 말한다. "저는 기독교에 대해 말하고 있었어요. 뭐냐면 천국에 가기 위해서는 그 고문을 당해야 한다는 것 말이에요. ... 고문을 당하면 전 나아지겠죠. 일부 사실인 점도 있지만 마냥 그들의 설명대로는 아니에요. 무언가를 성취하기 위해선 고문을 당해야 한다는 것, 그런 건 믿지 않고 있어요."\[4\]
 

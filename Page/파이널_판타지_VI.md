@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  VI](https://ko.wikipedia.org/wiki/__VI).
+> This article is converted from Wikipedia: [파이널 판타지 VI](https://ko.wikipedia.org/wiki/파이널_판타지_VI).
 
 
 《**파이널 판타지 VI**》(, )는 [슈퍼 패미컴을](../Page/슈퍼_패미컴.md "wikilink") 대상으로 [스퀘어가](https://ko.wikipedia.org/wiki/스퀘어_\(일본의_기업\) "wikilink") 개발, 배급한 [롤플레잉 비디오 게임이다](https://ko.wikipedia.org/wiki/롤플레잉_비디오_게임 "wikilink"). 1994년 출시된 이 게임은 [파이널 판타지](https://ko.wikipedia.org/wiki/파이널_판타지 "wikilink") 주요 시리즈 가운데 6번째 게임이다. [제2차 산업 혁명과](https://ko.wikipedia.org/wiki/제2차_산업_혁명 "wikilink") 동등한 기술을 갖춘 판타지 세계를 배경으로 하는 이 게임의 스토리는 반대자들 그룹이 제국의 독재정부를 타도하려는 것에 초점을 두고 있다. 이 게임은 14명의 [플레이어 캐릭터를](../Page/플레이어_캐릭터.md "wikilink") 이루어 진행된다.

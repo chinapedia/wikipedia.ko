@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [MIO  ](https://ko.wikipedia.org/wiki/MIO__).
+> This article is converted from Wikipedia: [MIO 비와코 시가](https://ko.wikipedia.org/wiki/MIO_비와코_시가).
 
 
 **MIO 비와코 시가**(, MIO Biwako Shiga)는 [시가현](../Page/시가현.md "wikilink"), [구사쓰시](../Page/구사쓰시.md "wikilink")를 연고로 하는 [일본](../Page/일본.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다. 공식적인 연고지는 구사쓰 시이지만, 경기는 [오쓰시](../Page/오쓰시.md "wikilink")와 [고난시](https://ko.wikipedia.org/wiki/고난시 "wikilink")에서 펼쳐진다. [2018년](../Page/2018년.md "wikilink") 현재 [일본 풋볼 리그에](../Page/일본_풋볼_리그.md "wikilink") 참여하고 있다. 구단명 "비와코"는 일본 최대의 호수인 [비와 호를](https://ko.wikipedia.org/wiki/비와_호 "wikilink") 나타낸다.

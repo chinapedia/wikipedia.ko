@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ \(BEJ48 \)](https://ko.wikipedia.org/wiki/_\(BEJ48_\)).
+> This article is converted from Wikipedia: [선언 \(BEJ48의 노래\)](https://ko.wikipedia.org/wiki/선언_\(BEJ48의_노래\)).
 
 
 《**선언**》은 중국의 걸 그룹 [BEJ48](https://ko.wikipedia.org/wiki/BEJ48 "wikilink")의 세 반째 [EP](https://ko.wikipedia.org/wiki/EP "wikilink")이다. 타이틀 곡의 센터 포지션은 팀E의 리쯔가 맡았다.

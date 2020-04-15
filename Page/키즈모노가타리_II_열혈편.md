@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ II ](https://ko.wikipedia.org/wiki/_II_).
+> This article is converted from Wikipedia: [키즈모노가타리 II 열혈편](https://ko.wikipedia.org/wiki/키즈모노가타리_II_열혈편).
 
 
 《**키즈모노가타리 II 열혈편**》(傷物語II 熱血篇, )은 [2016년](../Page/2016년.md "wikilink") [8월 19일](../Page/8월_19일.md "wikilink") 개봉한 일본의 [공포](../Page/공포_영화.md "wikilink") [애니메이션](../Page/애니메이션.md "wikilink") 영화이다.

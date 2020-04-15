@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:NIE ](https://ko.wikipedia.org/wiki/:NIE_).
+> This article is converted from Wikipedia: [틀:NIE 인용](https://ko.wikipedia.org/wiki/틀:NIE_인용).
 
 
 {{\#if:||[}}}](https://ko.wikipedia.org/wiki/파일:{{#if:{{{title "wikilink") }} {{\#if:|{{\#ifeq:  | | 이 문서는

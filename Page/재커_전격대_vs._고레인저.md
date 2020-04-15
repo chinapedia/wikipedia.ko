@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  vs. ](https://ko.wikipedia.org/wiki/__vs._).
+> This article is converted from Wikipedia: [재커 전격대 vs. 고레인저](https://ko.wikipedia.org/wiki/재커_전격대_vs._고레인저).
 
 
 《**재커 전격대 vs. 고레인저**》() (재커에서 온 게키타이 브이에스 고레인저)는 [1978년](../Page/1978년.md "wikilink") 봄방학 도에이 만화 축제에서 상영된 극장용 오리지널 작품이며, [1978년](../Page/1978년.md "wikilink") [3월 18일에](../Page/3월_18일.md "wikilink") 개봉했다. 병방은 《세계 명작 동화 오야유비 공주》, 《행성 로보 댄 가드 A우주 오미전》, 《[캔디 캔디 봄의 외침](https://ko.wikipedia.org/wiki/캔디_캔디_봄의_외침 "wikilink")》, 《잇큐 씨와 장난 공주》의 4개가 있다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [DHL   ME](https://ko.wikipedia.org/wiki/DHL___ME).
+> This article is converted from Wikipedia: [DHL 인터내셔널 에이비에이션 ME](https://ko.wikipedia.org/wiki/DHL_인터내셔널_에이비에이션_ME).
 
 
 **DHL 인터내셔널 에이비에이션 ME**() 또는 **SNAS/DHL**은 [바레인](../Page/바레인.md "wikilink")의 화물 항공사로 [바레인 국제공항이](../Page/바레인_국제공항.md "wikilink") [허브 공항으로](../Page/허브_공항.md "wikilink") [1979년](../Page/1979년.md "wikilink")에 설립되었고 주로 화물 항공편을 제공한다.\[1\] 주로 [중동](../Page/중동.md "wikilink"), [파키스탄](../Page/파키스탄.md "wikilink"), [이라크](../Page/이라크.md "wikilink"), [아프가니스탄](https://ko.wikipedia.org/wiki/아프가니스탄 "wikilink")에 취항하고 있다.\[2\]\[3\]

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [    JP](https://ko.wikipedia.org/wiki/____JP).
+> This article is converted from Wikipedia: [닛산 디젤 스페이스 러너 JP](https://ko.wikipedia.org/wiki/닛산_디젤_스페이스_러너_JP).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:TamaBus_TB50009.jpg "wikilink") **닛산 디젤 스페이스 러너 JP**(, )는 [일본](../Page/일본.md "wikilink") 닛산 디젤 (현, [UD트럭](../Page/UD트럭.md "wikilink"))이 만든 [저상버스](../Page/저상버스.md "wikilink")로 [1992년](../Page/1992년.md "wikilink")부터 [2010년](../Page/2010년.md "wikilink")까지 생산했다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SPRITE \(\)](https://ko.wikipedia.org/wiki/SPRITE_\(\)).
+> This article is converted from Wikipedia: [SPRITE \(우주선\)](https://ko.wikipedia.org/wiki/SPRITE_\(우주선\)).
 
 
 **SPRITE**(Saturn PRobe Interior and aTmospheric Explorer, 스프라이트)는 2016년 [뉴 프론티어 프로그램에](https://ko.wikipedia.org/wiki/뉴_프론티어_프로그램 "wikilink") 제안된 탐사선으로, 최종 선출에서 떨어진 탐사선이다.\[1\]\[2\] 목적은 토성의 구름의 형상과 구성을 알고 대기 구성을 알아내는 것이다.\[3\]\[4\]\[5\]

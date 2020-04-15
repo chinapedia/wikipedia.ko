@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [MSECA](https://ko.wikipedia.org/wiki/MSECA).
+> This article is converted from Wikipedia: [MÚSECA](https://ko.wikipedia.org/wiki/MÚSECA).
 
 
 [250px](https://ko.wikipedia.org/wiki/파일:MÚSECA.JPG "wikilink") **MÚSECA**는 2015년 12월 10일 [코나미 어뮤즈먼트](https://ko.wikipedia.org/wiki/코나미_어뮤즈먼트 "wikilink") 회사에서 발매한 [아케이드 게임이다](../Page/아케이드_게임.md "wikilink"). [비마니 시리즈의](../Page/비마니_시리즈.md "wikilink") 일부이다. 발매 이전인 2015년 6월 19일서부터 3일간 일본 지역에서 로케 테스트를 하였으며\[1\] 같은 해 12월 10일에 정식 발매하였다. 2016년 7월 27일에는 차기작인 뮤제카 1+1/2를 발매하였다. 2018년 7월 31일부로 뮤제카 E-어뮤즈먼트 서비스를 종료하면서 오프라인 키트를 발매, 공식적으로 온라인 지원을 끝냈다.\[2\] 남은 뮤제카 기기들은 오프라인 모드로 전환되었고 대부분 기기들이 비시바시 채널 게임기로 개조되었다.

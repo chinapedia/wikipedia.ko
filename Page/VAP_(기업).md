@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [VAP \(\)](https://ko.wikipedia.org/wiki/VAP_\(\)).
+> This article is converted from Wikipedia: [VAP \(기업\)](https://ko.wikipedia.org/wiki/VAP_\(기업\)).
 
 
 **VAP**(株式会社バップ, Video & Audio Project의 이니셜)는 일본의 [엔터테인먼트](https://ko.wikipedia.org/wiki/오락 "wikilink") 회사로, 본사는 일본 [지요다 구에](https://ko.wikipedia.org/wiki/지요다_구 "wikilink") 위치해 있다. [닛폰 TV 방송망의](../Page/닛폰_TV_방송망.md "wikilink") 자회사이다.

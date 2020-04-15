@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Multiple releases](https://ko.wikipedia.org/wiki/:Multiple_releases).
+> This article is converted from Wikipedia: [모듈:Multiple releases](https://ko.wikipedia.org/wiki/모듈:Multiple_releases).
 
 
 local infobox = require ('Module:Infobox').infobox local getArgs = require ('Module:Arguments').getArgs

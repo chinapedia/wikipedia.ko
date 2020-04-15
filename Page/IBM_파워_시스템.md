@@ -1,9 +1,9 @@
-> This article is converted from Wikipedia: [IBM  ](https://ko.wikipedia.org/wiki/IBM__).
+> This article is converted from Wikipedia: [IBM 파워 시스템](https://ko.wikipedia.org/wiki/IBM_파워_시스템).
 
 
 **파워 시스템**(Power Systems)은 [IBM](../Page/IBM.md "wikilink")의 [파워 아키텍처](https://ko.wikipedia.org/wiki/파워_아키텍처 "wikilink") 기반 서버 계열이다.
 
-2008년 4월 2일 파워 시스템 계열이 발표되기 전에 IBM은 2개의 구별된 파워 기반 계열이 있었다: [IBM i를](https://ko.wikipedia.org/wiki/IBM_i "wikilink") 구동하는 [시스템 i](../Page/IBM_시스템_i.md "wikilink")(과거 명칭: i5/OS, OS/400), [AIX](https://ko.wikipedia.org/wiki/AIX "wikilink")나 [리눅스](../Page/리눅스.md "wikilink")를 구동하는 [시스템 p](https://ko.wikipedia.org/wiki/시스템_p "wikilink") 시리즈.
+2008년 4월 2일 파워 시스템 계열이 발표되기 전에 IBM은 2개의 구별된 파워 기반 계열이 있었다: [IBM i를](../Page/IBM_i.md "wikilink") 구동하는 [시스템 i](../Page/IBM_시스템_i.md "wikilink")(과거 명칭: i5/OS, OS/400), [AIX](https://ko.wikipedia.org/wiki/AIX "wikilink")나 [리눅스](../Page/리눅스.md "wikilink")를 구동하는 [시스템 p](https://ko.wikipedia.org/wiki/시스템_p "wikilink") 시리즈.
 
 ## 시스템
 

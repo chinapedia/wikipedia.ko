@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  III](https://ko.wikipedia.org/wiki/__III).
+> This article is converted from Wikipedia: [파이널 판타지 III](https://ko.wikipedia.org/wiki/파이널_판타지_III).
 
 
 《**파이널 판타지 III**》(, )는 [패밀리 컴퓨터용으로](../Page/닌텐도_엔터테인먼트_시스템.md "wikilink") 1990년에 [스퀘어가](https://ko.wikipedia.org/wiki/스퀘어_\(일본의_기업\) "wikilink") 개발, 배급한 [롤플레잉 비디오 게임이다](https://ko.wikipedia.org/wiki/롤플레잉_비디오_게임 "wikilink"). [파이널 판타지](https://ko.wikipedia.org/wiki/파이널_판타지 "wikilink") 시리즈 가운데 세 번째 게임에 해당하며, 콘솔용으로는 마지막 메인 시리즈 게임에 해당한다.

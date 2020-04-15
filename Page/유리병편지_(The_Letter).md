@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ \(The Letter\)](https://ko.wikipedia.org/wiki/_\(The_Letter\)).
+> This article is converted from Wikipedia: [유리병편지 \(The Letter\)](https://ko.wikipedia.org/wiki/유리병편지_\(The_Letter\)).
 
 
 《**유리병편지 (The Letter)**》는 [SM TOWN의](../Page/SM_TOWN.md "wikilink") 소극장 콘서트 브랜드 〈[THE AGIT](https://ko.wikipedia.org/wiki/THE_AGIT "wikilink")〉의 일환으로 열린, [샤이니](../Page/샤이니.md "wikilink")의 [종현](../Page/종현.md "wikilink")의 두 번째 단독 콘서트 테마이다.\[1\]

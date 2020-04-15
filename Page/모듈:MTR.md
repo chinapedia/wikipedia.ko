@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:MTR](https://ko.wikipedia.org/wiki/:MTR).
+> This article is converted from Wikipedia: [모듈:MTR](https://ko.wikipedia.org/wiki/모듈:MTR).
 
 
 \-- This module implements , ,  and .

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [DC  ](https://ko.wikipedia.org/wiki/DC__).
+> This article is converted from Wikipedia: [DC 슈퍼히어로 걸스](https://ko.wikipedia.org/wiki/DC_슈퍼히어로_걸스).
 
 
 《**DC 슈퍼히어로 걸스**》(DC Super Hero Girls)는 2015년부터 방영을 시작한 [미국](../Page/미국.md "wikilink")의 [애니메이션](../Page/애니메이션.md "wikilink") 시리즈다. [DC 코믹스의](../Page/DC_코믹스.md "wikilink") 여성 캐릭터들을 대상으로 한 어린이 대상 작품군이다. 대한민국에서는 [카툰 네트워크를](../Page/카툰_네트워크.md "wikilink") 통해 방영중이다.
@@ -7,7 +7,7 @@
 
 성우는 미국/한국 순이다.
 
-  - **[배트걸](../Page/배트걸.md "wikilink")**(Bat girl)(성우: [메이 휘트먼](https://ko.wikipedia.org/wiki/메이_휘트먼 "wikilink")/[문남숙](../Page/문남숙.md "wikilink"))
+  - **[배트걸](../Page/배트걸.md "wikilink")**(Bat girl)(성우: [메이 휘트먼](../Page/메이_휘트먼.md "wikilink")/[문남숙](../Page/문남숙.md "wikilink"))
   - **[슈퍼걸](https://ko.wikipedia.org/wiki/슈퍼걸 "wikilink")**(Supergirl)(성우: [아나이스 페어웨터](https://ko.wikipedia.org/wiki/아나이스_페어웨터 "wikilink")/[이지현](../Page/이지현_\(성우\).md "wikilink"))
   - **[원더우먼](../Page/원더우먼.md "wikilink")**(Wonder Woman)(성우: [그레이 딜라일](https://ko.wikipedia.org/wiki/그레이_딜라일 "wikilink")/[김은아](../Page/김은아_\(EBS_성우\).md "wikilink"))
   - **[할리 퀸](../Page/할리_퀸.md "wikilink")**(Harley Quinn)(성우: [타라 스트롱](../Page/타라_스트롱.md "wikilink")/[김채하](../Page/김채하.md "wikilink"))
@@ -18,7 +18,7 @@
   - **[그래니 굿니스](https://ko.wikipedia.org/wiki/그래니_굿니스 "wikilink")**(Granny Goodness)(성우: [에이프릴 스튜어트](https://ko.wikipedia.org/wiki/에이프릴_스튜어트 "wikilink")/[김나율](../Page/김나율.md "wikilink"))
   - **[치타](https://ko.wikipedia.org/wiki/치타_\(DC_코믹스\) "wikilink")**(Cheetah)(성우: [애슐리 엑스타인](https://ko.wikipedia.org/wiki/애슐리_엑스타인 "wikilink")/[방연지](../Page/방연지.md "wikilink"))
   - **[스톰파](https://ko.wikipedia.org/wiki/스톰파 "wikilink")**(Stompa)(성우: [에이프릴 스튜어트](https://ko.wikipedia.org/wiki/에이프릴_스튜어트 "wikilink")/[한경화](../Page/한경화.md "wikilink"))
-  - **[스피드 퀸](https://ko.wikipedia.org/wiki/스피드_퀸 "wikilink")**(Speed Queen)(성우: [메이 휘트먼](https://ko.wikipedia.org/wiki/메이_휘트먼 "wikilink")/[여민정](../Page/여민정_\(성우\).md "wikilink"))
+  - **[스피드 퀸](https://ko.wikipedia.org/wiki/스피드_퀸 "wikilink")**(Speed Queen)(성우: [메이 휘트먼](../Page/메이_휘트먼.md "wikilink")/[여민정](../Page/여민정_\(성우\).md "wikilink"))
   - **[스타파이어](https://ko.wikipedia.org/wiki/스타파이어 "wikilink")**(Starfire)(성우: [힌든 월치](https://ko.wikipedia.org/wiki/힌든_월치 "wikilink")/[정미숙](../Page/정미숙.md "wikilink"))
   - **[레이디 시바](https://ko.wikipedia.org/wiki/레이디_시바 "wikilink")**(Lady Shiva)(성우: [타니아 구나디](https://ko.wikipedia.org/wiki/타니아_구나디 "wikilink")/[김도영](../Page/김도영.md "wikilink"))
   - **[지간타](https://ko.wikipedia.org/wiki/자이갠타 "wikilink")**(Giganta)(성우: [그레이 딜라일](https://ko.wikipedia.org/wiki/그레이_딜라일 "wikilink")/[강시현](../Page/강시현.md "wikilink"))

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [CBS ](https://ko.wikipedia.org/wiki/CBS_).
+> This article is converted from Wikipedia: [CBS 아침종합뉴스](https://ko.wikipedia.org/wiki/CBS_아침종합뉴스).
 
 
 《**CBS 아침종합뉴스**》는 [대한민국](../Page/대한민국.md "wikilink")의 방송국 [기독교방송](https://ko.wikipedia.org/wiki/기독교방송 "wikilink")의 라디오 채널 [CBS 표준FM에서](../Page/CBS_표준FM.md "wikilink") 주말 오전 7시부터 7시 15분까지 방송했던 라디오 뉴스 프로그램이다.

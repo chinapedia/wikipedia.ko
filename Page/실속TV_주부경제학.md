@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TV ](https://ko.wikipedia.org/wiki/TV_).
+> This article is converted from Wikipedia: [실속TV 주부경제학](https://ko.wikipedia.org/wiki/실속TV_주부경제학).
 
 
 《**실속TV 주부경제학**》은 [KBS 1TV의](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink") 방영하는 경제학 전문 프로그램이며 [2002년](../Page/2002년.md "wikilink") [7월 15일부터](../Page/7월_15일.md "wikilink") [2005년](../Page/2005년.md "wikilink") [10월 28일까지](../Page/10월_28일.md "wikilink") 방영되었다.

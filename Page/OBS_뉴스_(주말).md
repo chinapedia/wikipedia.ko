@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [OBS  \(\)](https://ko.wikipedia.org/wiki/OBS__\(\)).
+> This article is converted from Wikipedia: [OBS 뉴스 \(주말\)](https://ko.wikipedia.org/wiki/OBS_뉴스_\(주말\)).
 
 
 《**OBS 뉴스 (주말)**》는 [OBS경인TV](../Page/OBS경인TV.md "wikilink")의 주말에 방송되는 [뉴스](../Page/뉴스.md "wikilink") [프로그램이다](../Page/텔레비전_프로그램.md "wikilink").

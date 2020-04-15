@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [Paranoid \(\)](https://ko.wikipedia.org/wiki/Paranoid_\(\)).
+> This article is converted from Wikipedia: [Paranoid \(음반\)](https://ko.wikipedia.org/wiki/Paranoid_\(음반\)).
 
 
-《**Paranoid**》는 [영국](../Page/영국.md "wikilink")의 [헤비 메탈](../Page/헤비_메탈.md "wikilink") 밴드 [블랙 사바스의](../Page/블랙_사바스.md "wikilink") 두 번째 스튜디오 음반이다. 1970년 9월에 출시된 이 음반은 2013년 《[13](https://ko.wikipedia.org/wiki/13_\(블랙_사바스의_음반\) "wikilink")》이 출시될 때까지 [영국 음반 차트](https://ko.wikipedia.org/wiki/영국_음반_차트 "wikilink") 최상위에 오른 이 밴드의 유일한 [LP였다](../Page/장시간_음반.md "wikilink"). 《Paranoid》에는 이 밴드의 [시그너처 송](https://ko.wikipedia.org/wiki/시그너처_송 "wikilink") 중 일부가 포함되어 있는데, 여기에는 〈[Iron Man](https://ko.wikipedia.org/wiki/Iron_Man_\(노래\) "wikilink")〉, 〈[War Pigs](../Page/War_Pigs.md "wikilink")〉, 〈[Paranoid](../Page/Paranoid_\(블랙_사바스의_노래\).md "wikilink")〉를 포함한다. [헤비 메탈의](../Page/헤비_메탈.md "wikilink") 발전에 영향력 있는 음반으로 종종 언급된다.
+《**Paranoid**》는 [영국](../Page/영국.md "wikilink")의 [헤비 메탈](../Page/헤비_메탈.md "wikilink") 밴드 [블랙 사바스의](../Page/블랙_사바스.md "wikilink") 두 번째 스튜디오 음반이다. 1970년 9월에 출시된 이 음반은 2013년 《[13](../Page/13_\(블랙_사바스의_음반\).md "wikilink")》이 출시될 때까지 [영국 음반 차트](https://ko.wikipedia.org/wiki/영국_음반_차트 "wikilink") 최상위에 오른 이 밴드의 유일한 [LP였다](../Page/장시간_음반.md "wikilink"). 《Paranoid》에는 이 밴드의 [시그너처 송](https://ko.wikipedia.org/wiki/시그너처_송 "wikilink") 중 일부가 포함되어 있는데, 여기에는 〈[Iron Man](https://ko.wikipedia.org/wiki/Iron_Man_\(노래\) "wikilink")〉, 〈[War Pigs](../Page/War_Pigs.md "wikilink")〉, 〈[Paranoid](../Page/Paranoid_\(블랙_사바스의_노래\).md "wikilink")〉를 포함한다. [헤비 메탈의](../Page/헤비_메탈.md "wikilink") 발전에 영향력 있는 음반으로 종종 언급된다.
 
 ## 제목 및 삽화
 

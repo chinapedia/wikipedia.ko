@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [AngularJS](https://ko.wikipedia.org/wiki/AngularJS).
 
 
-**AngularJS**("Angular.js" 또는 "AngularJS 1.X")는 자바스크립트 기반의 [오픈 소스](../Page/오픈_소스.md "wikilink") 프론트엔드 [웹 애플리케이션 프레임워크의](https://ko.wikipedia.org/wiki/웹_애플리케이션_프레임워크 "wikilink") 하나로, [싱글 페이지 애플리케이션](../Page/싱글_페이지_애플리케이션.md "wikilink") 개발 중에 마주치는 여러 문제들을 해결하기 위해 개발되었으며 주로 [구글](../Page/구글.md "wikilink")과 개별 커뮤니티, 여러 회사에 의해 유지보수되고 있다. 자바스크립트 구성 요소들은 크로스 플랫폼 모바일 앱을 개발하기 위해 사용되는 프레임워크인 [아파치 코도바를](../Page/아파치_코도바.md "wikilink") 보완한다. [리치 인터넷 애플리케이션에](../Page/리치_인터넷_애플리케이션.md "wikilink") 공통적으로 사용되는 구성 요소들과 더불어 클라이언트 사이드의 [모델-뷰-컨트롤러](../Page/모델-뷰-컨트롤러.md "wikilink")(MVC)와 [모델-뷰-뷰모델](https://ko.wikipedia.org/wiki/모델-뷰-뷰모델 "wikilink")(MVVM) 구조를 위한 프레임워크를 제공함으로써 이러한 애플리케이션들의 개발 및 [테스트를](../Page/소프트웨어_테스트.md "wikilink") 단순화하는 것이 목적이다. 2014년에 오리지널 AngularJS 팀은 Angular 플랫폼에 대한 작업에 착수하였다.
+**AngularJS**("Angular.js" 또는 "AngularJS 1.X")는 자바스크립트 기반의 [오픈 소스](../Page/오픈_소스.md "wikilink") 프론트엔드 [웹 애플리케이션 프레임워크의](https://ko.wikipedia.org/wiki/웹_애플리케이션_프레임워크 "wikilink") 하나로, [싱글 페이지 애플리케이션](../Page/싱글_페이지_애플리케이션.md "wikilink") 개발 중에 마주치는 여러 문제들을 해결하기 위해 개발되었으며 주로 [구글](../Page/구글.md "wikilink")과 개별 커뮤니티, 여러 회사에 의해 유지보수되고 있다. 자바스크립트 구성 요소들은 크로스 플랫폼 모바일 앱을 개발하기 위해 사용되는 프레임워크인 [아파치 코도바를](../Page/아파치_코도바.md "wikilink") 보완한다. [리치 인터넷 애플리케이션에](../Page/리치_인터넷_애플리케이션.md "wikilink") 공통적으로 사용되는 구성 요소들과 더불어 클라이언트 사이드의 [모델-뷰-컨트롤러](../Page/모델-뷰-컨트롤러.md "wikilink")(MVC)와 [모델-뷰-뷰모델](../Page/모델-뷰-뷰모델.md "wikilink")(MVVM) 구조를 위한 프레임워크를 제공함으로써 이러한 애플리케이션들의 개발 및 [테스트를](../Page/소프트웨어_테스트.md "wikilink") 단순화하는 것이 목적이다. 2014년에 오리지널 AngularJS 팀은 Angular 플랫폼에 대한 작업에 착수하였다.
 
 ## 부트스트랩
 

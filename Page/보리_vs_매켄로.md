@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ vs ](https://ko.wikipedia.org/wiki/_vs_).
+> This article is converted from Wikipedia: [보리 vs 매켄로](https://ko.wikipedia.org/wiki/보리_vs_매켄로).
 
 
 《**보리 vs 매켄로**》()는 2018년 개봉한 [스웨덴](../Page/스웨덴.md "wikilink"), [덴마크](../Page/덴마크.md "wikilink"), [핀란드](../Page/핀란드.md "wikilink")의 스포츠 드라마 영화이다. [야누스 메츠가](https://ko.wikipedia.org/wiki/야누스_메츠 "wikilink") 감독을 로니 샌달이 각본을 맡았다. 2018년 5월 10일 대한민국에서 개봉되었다.

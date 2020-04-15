@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [2010 CONCACAF   ](https://ko.wikipedia.org/wiki/2010_CONCACAF___).
+> This article is converted from Wikipedia: [2010년 CONCACAF 여자 골드컵 예선](https://ko.wikipedia.org/wiki/2010년_CONCACAF_여자_골드컵_예선).
 
 
 **2010년 CONCACAF 여자 골드컵 예선**은 [2010년 CONCACAF 여자 골드컵](../Page/2010년_CONCACAF_여자_골드컵.md "wikilink") 본선에 진출할 팀을 결정하기 위해 진행된 예선이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [H.D.  ](https://ko.wikipedia.org/wiki/H.D.__).
+> This article is converted from Wikipedia: [H.D. 데베 고다](https://ko.wikipedia.org/wiki/H.D._데베_고다).
 
 
 **하라다나할리 도데고다 데베 고다**(Haradanahalli Doddegowda Deve Gowda, , [1933년](../Page/1933년.md "wikilink") [5월 18일](../Page/5월_18일.md "wikilink") \~ )는 [인도](../Page/인도.md "wikilink")의 정치인이다. [1996년](../Page/1996년.md "wikilink")에서 [1997년](../Page/1997년.md "wikilink")까지 제11대 [인도의 총리를](../Page/인도의_총리.md "wikilink") 직임했다.

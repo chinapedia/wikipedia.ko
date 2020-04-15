@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Return to Myself \~, , .](https://ko.wikipedia.org/wiki/Return_to_Myself_\~,_,_.).
+> This article is converted from Wikipedia: [Return to Myself \~시나이, 시나이, 나츠.](https://ko.wikipedia.org/wiki/Return_to_Myself_\~시나이,_시나이,_나츠.).
 
 
 〈**Return to Myself \~시나이, 시나이, 나츠.**〉()는 일본의 가수 [하마다 마리의](../Page/하마다_마리_\(가수\).md "wikilink") 아홉 번째 [싱글 앨범으로](https://ko.wikipedia.org/wiki/싱글_앨범 "wikilink"), 1989년 4월 19일 발매되었다. ([8cm CD](../Page/콤팩트_디스크.md "wikilink"): VDRS-1133) B 사이드 곡은 〈Restless Kind〉이며 두 곡 모두 작사{{·}} 작곡{{·}} 편곡자가 모두 동일하다. 작사는 하마다 마리가, 작곡은 오츠키 히로유키 ()가 맡았으며, 편곡은 오츠키를 비롯해 그렉 에드워드, H.M. PROJECT, 랜디 커버가 담당했다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [CA ](https://ko.wikipedia.org/wiki/CA_).
+> This article is converted from Wikipedia: [CA 리넨시](https://ko.wikipedia.org/wiki/CA_리넨시).
 
 
 **클루비 아틀레치쿠 리넨시**()는 [1927년](../Page/1927년.md "wikilink")에 창단한 [브라질](../Page/브라질.md "wikilink") [상파울루주](../Page/상파울루주.md "wikilink") [링스를](https://ko.wikipedia.org/wiki/링스_\(브라질\) "wikilink") 연고로 하는 [축구](../Page/축구.md "wikilink")팀이다. [2017년](../Page/2017년.md "wikilink") 현재 상파울루 주리그 [캄페오나투 파울리스타에](../Page/캄페오나투_파울리스타.md "wikilink") 참가하고 있다.

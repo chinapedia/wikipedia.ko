@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [XQD ](https://ko.wikipedia.org/wiki/XQD_).
+> This article is converted from Wikipedia: [XQD 카드](https://ko.wikipedia.org/wiki/XQD_카드).
 
 
 **XQD 카드**(XQD card)는 [메모리 카드의](../Page/메모리_카드.md "wikilink") 한 종류로 [콤팩트플래시](../Page/콤팩트플래시.md "wikilink")를 대체하기 위해 2010년에 발표되었다.\[1\] 2012년 6월에 발표된 XQD 버전 2.0은 최대 8 Gbit/초(1000 MB/초)의 전송 속도를 지원하는 [PCI 익스프레스 3.0을](../Page/PCI_익스프레스.md "wikilink") 지원한다.\[2\]

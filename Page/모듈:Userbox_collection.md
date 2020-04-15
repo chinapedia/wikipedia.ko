@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Userbox collection](https://ko.wikipedia.org/wiki/:Userbox_collection).
+> This article is converted from Wikipedia: [모듈:Userbox collection](https://ko.wikipedia.org/wiki/모듈:Userbox_collection).
 
 
 local p = {}

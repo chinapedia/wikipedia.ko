@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ C. ](https://ko.wikipedia.org/wiki/_C._).
+> This article is converted from Wikipedia: [스탠리 C. 게일](https://ko.wikipedia.org/wiki/스탠리_C._게일).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Stan_Gale_.jpg "wikilink")

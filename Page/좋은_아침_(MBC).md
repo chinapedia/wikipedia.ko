@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  \(MBC\)](https://ko.wikipedia.org/wiki/__\(MBC\)).
+> This article is converted from Wikipedia: [좋은 아침 \(MBC\)](https://ko.wikipedia.org/wiki/좋은_아침_\(MBC\)).
 
 
 《**좋은 아침**》은 [MBC경남 창원방송에서](../Page/MBC경남_창원방송.md "wikilink") 방송중인 시사 프로그램이다.

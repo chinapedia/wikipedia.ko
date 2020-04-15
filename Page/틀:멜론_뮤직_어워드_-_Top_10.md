@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:   - Top 10](https://ko.wikipedia.org/wiki/:___-_Top_10).
+> This article is converted from Wikipedia: [틀:멜론 뮤직 어워드 - Top 10](https://ko.wikipedia.org/wiki/틀:멜론_뮤직_어워드_-_Top_10).
 
 
 <onlyinclude></onlyinclude>

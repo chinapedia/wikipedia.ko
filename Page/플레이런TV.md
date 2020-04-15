@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TV](https://ko.wikipedia.org/wiki/TV).
+> This article is converted from Wikipedia: [플레이런TV](https://ko.wikipedia.org/wiki/플레이런TV).
 
 
 **플레이런TV**는 대한민국의 놀이교육채널이다. 2009년 개국한 정철영어TV에서 상호가 변경되었다. '부모의 눈으로 만드는 키즈채널'이라는 슬로건 아래 PLAY(놀이)와 LEARN(교육)의 결합으로 놀이를 통해 재미있게 배울 수 있는 놀이교육 콘텐츠 를 자체 제작, 미디어 플랫폼에 제공하고 있다.

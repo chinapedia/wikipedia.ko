@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [C  ](https://ko.wikipedia.org/wiki/C__).
+> This article is converted from Wikipedia: [C 대체 토큰](https://ko.wikipedia.org/wiki/C_대체_토큰).
 
 
 **C 대체 토큰**은 [C의](../Page/C_\(프로그래밍_언어\).md "wikilink") 공용 연산자를 다르게 부르는 말의 세트를 일컫는 말이다. 이 대체 토큰은 `iso646.h` 헤더 안의 [C 표준 라이브러리내](../Page/C_표준_라이브러리.md "wikilink") 매크로 상수 모음에 의해 실행된다. 이 토큰은 1995년 개정된 [C90](https://ko.wikipedia.org/wiki/C90_\(C_버전\) "wikilink") 표준에 처음 추가되었다.

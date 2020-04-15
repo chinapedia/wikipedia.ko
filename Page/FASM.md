@@ -44,7 +44,7 @@ FASM을 백엔드로 사용하는 컴파일러들:
   - [FASMARM](http://arm.flatassembler.net) – FASM for ARM processors, <small> v1.27, </small>
   - [The Fresh IDE](http://fresh.flatassembler.net/)
 
-[분류:1999년 도입](https://ko.wikipedia.org/wiki/분류:1999년_도입 "wikilink") [분류:어셈블러](https://ko.wikipedia.org/wiki/분류:어셈블러 "wikilink") [분류:어셈블리어](https://ko.wikipedia.org/wiki/분류:어셈블리어 "wikilink") [분류:도스용 소프트웨어](https://ko.wikipedia.org/wiki/분류:도스용_소프트웨어 "wikilink") [분류:유닉스 프로그래밍 도구](https://ko.wikipedia.org/wiki/분류:유닉스_프로그래밍_도구 "wikilink")
+[분류:1999년 도입](https://ko.wikipedia.org/wiki/분류:1999년_도입 "wikilink") [분류:어셈블러](https://ko.wikipedia.org/wiki/분류:어셈블러 "wikilink") [분류:어셈블리어](https://ko.wikipedia.org/wiki/분류:어셈블리어 "wikilink") [분류:도스 소프트웨어](https://ko.wikipedia.org/wiki/분류:도스_소프트웨어 "wikilink") [분류:유닉스 프로그래밍 도구](https://ko.wikipedia.org/wiki/분류:유닉스_프로그래밍_도구 "wikilink")
 
 1.
 2.

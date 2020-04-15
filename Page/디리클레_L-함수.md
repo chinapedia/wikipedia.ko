@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ L-](https://ko.wikipedia.org/wiki/_L-).
+> This article is converted from Wikipedia: [디리클레 L-함수](https://ko.wikipedia.org/wiki/디리클레_L-함수).
 
 
 **디리클레 L-함수**(Dirichlet L-Function)의 [디리클레 급수](../Page/디리클레_급수.md "wikilink")(Dirichlet Series)형식은,

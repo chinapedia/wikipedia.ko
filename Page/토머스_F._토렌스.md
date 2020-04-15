@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ F. ](https://ko.wikipedia.org/wiki/_F._).
+> This article is converted from Wikipedia: [토머스 F. 토렌스](https://ko.wikipedia.org/wiki/토머스_F._토렌스).
 
 
 '''토마스 포시스 토렌스 '''(Thomas  Forsyth Torrence, 1913년 8월 30일 - 2007년 12월 2일)는 [스코틀랜드](../Page/스코틀랜드.md "wikilink")의 개신교 신학자였다. T. F. 토렌스라고 일반적으로 언급한다. 그는 유명한 [토마스 토렌스의](https://ko.wikipedia.org/wiki/토마스_토렌스 "wikilink") 아들로 27년 동안 에딘버그 뉴 컬러지와 [에딘버그 대학에서](../Page/에든버러_대학교.md "wikilink") 기독교 교리사를 강의하였다. 교회의 신학 이해에 끼친 토렌스의 공헌은 칼 바르트를 영어권 세계에 소개했고, 무엇보다도 초대 교부들의 연구의 중요성을 서구교회 에 알린 것이다. 그의 중요한 신학적 기여는 다른 신학자들은 물론 [칼빈의](https://ko.wikipedia.org/wiki/장_칼뱅 "wikilink") 17세기 계승자들조차 깨 닫지 못한 칼빈의 신학적 천재성을 인식하고 이해했다는 것이다. 그러나 무엇보다 토렌스의 가장 중요한 업적은 바로 과학분야에 있다. [인문과학](https://ko.wikipedia.org/wiki/인문과학 "wikilink")과 [신학](../Page/신학.md "wikilink")에 정통한 토렌스는 과학적 논리와 현대 물리학 분야에 15년이상을 연구하면서 신학과 과학의 통합적 사고에 삶을 바쳤다.\[1\] 칼빈신학뿐만 아니라 [칼빈의 해석학에서도](https://ko.wikipedia.org/wiki/칼빈의_해석학 "wikilink") 중요한 공헌을 하였다. 토마스 [토렌스 가문의](https://ko.wikipedia.org/wiki/토렌스_가문 "wikilink") 장남이며 제임스 토랜스의 형이다. 그의 아들은 프린스턴 신학교의 교장 [이안 토렌스이다](https://ko.wikipedia.org/wiki/이안_토렌스 "wikilink").

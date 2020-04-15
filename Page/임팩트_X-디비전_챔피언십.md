@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ X- ](https://ko.wikipedia.org/wiki/_X-_).
+> This article is converted from Wikipedia: [임팩트 X-디비전 챔피언십](https://ko.wikipedia.org/wiki/임팩트_X-디비전_챔피언십).
 
 
 **임팩트 X-디비전 챔피언십**(Impact X-Division Championship)은 [임팩트 레슬링의](../Page/임팩트_레슬링.md "wikilink") 챔피언십이다. 체중의 제한이 있으며 프로레슬러의 최대 몸무게가 **100kg**이하 정도 되어야하는 체격과 신체가 크지 않는 경량급 선수들을 위한 챔피언십이기도 하다. 경량급 타이틀이면서도 [트리플 크라운 챔피언십과](../Page/트리플_크라운_챔피언십.md "wikilink") [그랜드 슬램 챔피언십이](../Page/그랜드_슬램_챔피언십.md "wikilink") 2위급으로써 모두 인정된다. 그래서 가끔씩 헤비급 레슬러들이 타이틀을 차지한 경우가 있다.

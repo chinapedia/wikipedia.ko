@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ XJ](https://ko.wikipedia.org/wiki/_XJ).
+> This article is converted from Wikipedia: [재규어 XJ](https://ko.wikipedia.org/wiki/재규어_XJ).
 
 
 **재규어 XJ**(Jaguar XJ)는 영국의 고급 자동차 브랜드인 [재규어의](../Page/재규어_자동차.md "wikilink") 플래그십 모델인 대형 세단이다.

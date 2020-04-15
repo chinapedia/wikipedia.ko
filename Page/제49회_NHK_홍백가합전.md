@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [49 NHK ](https://ko.wikipedia.org/wiki/49_NHK_).
+> This article is converted from Wikipedia: [제49회 NHK 홍백가합전](https://ko.wikipedia.org/wiki/제49회_NHK_홍백가합전).
 
 
 《**제49회 NHK 홍백가합전**》()는 [1998년](../Page/1998년.md "wikilink") [12월 31일에](../Page/12월_31일.md "wikilink") 방송된 통산 49회째인 [NHK 홍백가합전이다](../Page/NHK_홍백가합전.md "wikilink").

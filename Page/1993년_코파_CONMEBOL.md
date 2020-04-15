@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [1993  CONMEBOL](https://ko.wikipedia.org/wiki/1993__CONMEBOL).
+> This article is converted from Wikipedia: [1993년 코파 CONMEBOL](https://ko.wikipedia.org/wiki/1993년_코파_CONMEBOL).
 
 
 **1993년 코파 CONMEBOL**(1993 Copa CONMEBOL)은 [코파 CONMEBOL의](../Page/코파_CONMEBOL.md "wikilink") 2번째 시즌이다. [브라질](../Page/브라질.md "wikilink")의 [보타포구가](../Page/보타포구_FR.md "wikilink") 결승전에서 [우루과이](../Page/우루과이.md "wikilink")의 [페냐롤](../Page/페냐롤.md "wikilink")을 누르고 우승을 차지했다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FK  ](https://ko.wikipedia.org/wiki/FK__).
+> This article is converted from Wikipedia: [FK 리에파야스 메탈루르크스](https://ko.wikipedia.org/wiki/FK_리에파야스_메탈루르크스).
 
 
 **FK 리에파야스 메탈루르크스**()는 [라트비아](../Page/라트비아.md "wikilink") [리에파야](https://ko.wikipedia.org/wiki/리에파야 "wikilink")를 연고로 하던 축구 클럽이다. [1997년](../Page/1997년.md "wikilink")에 창단되었으며 [2013년](../Page/2013년.md "wikilink")에 구단이 파산하면서 해체되었다.

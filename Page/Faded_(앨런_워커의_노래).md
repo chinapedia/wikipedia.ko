@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Faded \(  \)](https://ko.wikipedia.org/wiki/Faded_\(__\)).
+> This article is converted from Wikipedia: [Faded \(앨런 워커의 노래\)](https://ko.wikipedia.org/wiki/Faded_\(앨런_워커의_노래\)).
 
 
 《**Faded**》는 [노르웨이](../Page/노르웨이.md "wikilink")의 음악 프로듀서인 [앨런 워커의](../Page/앨런_워커.md "wikilink") 노래이다. 2014년에 나온 싱글인 "Fade"의 멜로디에 [이셀린 솔헤임의](https://ko.wikipedia.org/wiki/이셀린_솔헤임 "wikilink") 보컬을 더해 만든 리메이크 버전이며 2015년 12월 3일에 출시되어 엄청난 히트를 치게 되었다. 원래는 2015년 11월 25일에 출시될 예정이었지만 예정보다 일주일 더 후인 2015년 12월 3일에 출시되었다.

@@ -17,7 +17,7 @@
   - [딥 웹](https://ko.wikipedia.org/wiki/딥_웹 "wikilink")
   - [다크넷](../Page/다크넷.md "wikilink")
   - [다크 웹](../Page/다크_웹.md "wikilink")
-  - [토르 (네트워크)](https://ko.wikipedia.org/wiki/토르_\(네트워크\) "wikilink")
+  - [토르 (네트워크)](../Page/토르_\(네트워크\).md "wikilink")
   - [프리넷](../Page/프리넷.md "wikilink")
   - [PGP](../Page/PGP_\(소프트웨어\).md "wikilink")
   - [지엔유 프라이버시 가드](https://ko.wikipedia.org/wiki/지엔유_프라이버시_가드 "wikilink")

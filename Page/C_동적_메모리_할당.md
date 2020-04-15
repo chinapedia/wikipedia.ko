@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [C   ](https://ko.wikipedia.org/wiki/C___).
+> This article is converted from Wikipedia: [C 동적 메모리 할당](https://ko.wikipedia.org/wiki/C_동적_메모리_할당).
 
 
 **C 동적 메모리 할당**은 [동적 메모리 할당을](../Page/동적_메모리_할당.md "wikilink") 위한 [수동 메모리 관리를](https://ko.wikipedia.org/wiki/수동_메모리_관리 "wikilink") 수행하는 것을 말하며 [C에](../Page/C_\(프로그래밍_언어\).md "wikilink") 담긴 , ,  그리고  등의 함수를 말한다.\[1\]\[2\]\[3\]

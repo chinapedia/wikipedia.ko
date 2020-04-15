@@ -1,9 +1,9 @@
-> This article is converted from Wikipedia: [ : FOREVER FRIENDS](https://ko.wikipedia.org/wiki/_:_FOREVER_FRIENDS).
+> This article is converted from Wikipedia: [극장판 요괴워치: FOREVER FRIENDS](https://ko.wikipedia.org/wiki/극장판_요괴워치:_FOREVER_FRIENDS).
 
 
 《**극장판 요괴워치: FOREVER FRIENDS**》()은 2018년 12월 14일에 개봉된 일본의 애니메이션 영화이다. 《요괴워치》의 다섯번째 극장판이다.
 
-## 등장 인물:
+## 등장 인물
 
 ## 각주
 

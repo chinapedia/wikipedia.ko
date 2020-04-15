@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  \(NHL\)](https://ko.wikipedia.org/wiki/__\(NHL\)).
+> This article is converted from Wikipedia: [센트럴 디비전 \(NHL\)](https://ko.wikipedia.org/wiki/센트럴_디비전_\(NHL\)).
 
 
 **센트럴 디비전**(Central Division)은 [시카고 블랙호크스](../Page/시카고_블랙호크스.md "wikilink"), [콜로라도 애벌랜치](https://ko.wikipedia.org/wiki/콜로라도_애벌랜치 "wikilink"), [댈러스 스타스](../Page/댈러스_스타스.md "wikilink"), [미네소타 와일드](../Page/미네소타_와일드.md "wikilink"), [내슈빌 프레더터스](../Page/내슈빌_프레더터스.md "wikilink"), [세인트루이스 블루스](../Page/세인트루이스_블루스.md "wikilink"), [위니펙 제츠로](https://ko.wikipedia.org/wiki/위니펙_제츠 "wikilink") 이루어진 디비전 있다.

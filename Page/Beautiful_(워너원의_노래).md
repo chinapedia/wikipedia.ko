@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Beautiful \( \)](https://ko.wikipedia.org/wiki/Beautiful_\(_\)).
+> This article is converted from Wikipedia: [Beautiful \(워너원의 노래\)](https://ko.wikipedia.org/wiki/Beautiful_\(워너원의_노래\)).
 
 
 〈**Beautiful**〉은 [워너원](../Page/워너원.md "wikilink")의 노래로, 첫 번째 리패키지 음반인 《[1-1=0 (NOTHING WITHOUT YOU)](../Page/1-1=0_\(NOTHING_WITHOUT_YOU\).md "wikilink")》의 타이틀 곡이다. 2017년 11월 13일에 발표되었다.

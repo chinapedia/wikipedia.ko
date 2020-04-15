@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [NOR ](https://ko.wikipedia.org/wiki/NOR_).
+> This article is converted from Wikipedia: [NOR 게이트](https://ko.wikipedia.org/wiki/NOR_게이트).
 
 
 |           |            |

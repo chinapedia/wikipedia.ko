@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ KBS ](https://ko.wikipedia.org/wiki/_KBS_).
+> This article is converted from Wikipedia: [생방송 KBS 저널](https://ko.wikipedia.org/wiki/생방송_KBS_저널).
 
 
 《**생방송 KBS 저널**》은 [2002년](../Page/2002년.md "wikilink") [11월 3일부터](../Page/11월_3일.md "wikilink") [2005년](../Page/2005년.md "wikilink") [5월 1일까지](../Page/5월_1일.md "wikilink") [대한민국](../Page/대한민국.md "wikilink")의 [KBS 2TV에서](../Page/KBS_2TV.md "wikilink") 방송되었던 시사프로그램이다.

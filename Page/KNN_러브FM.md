@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KNN FM](https://ko.wikipedia.org/wiki/KNN_FM).
+> This article is converted from Wikipedia: [KNN 러브FM](https://ko.wikipedia.org/wiki/KNN_러브FM).
 
 
 **KNN 러브FM**은 [대한민국](../Page/대한민국.md "wikilink") 부산경남권의 민영 방송사인 [KNN](../Page/KNN.md "wikilink")의 종합 [라디오](../Page/라디오.md "wikilink") [방송](../Page/방송.md "wikilink") [채널로](https://ko.wikipedia.org/wiki/채널_\(통신\) "wikilink"), [2016년](../Page/2016년.md "wikilink") [5월 10일](../Page/5월_10일.md "wikilink")(FM)에 개국하였다.

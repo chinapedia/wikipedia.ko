@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [LG X ](https://ko.wikipedia.org/wiki/LG_X_).
+> This article is converted from Wikipedia: [LG X 파워](https://ko.wikipedia.org/wiki/LG_X_파워).
 
 
 **LG X 파워**(LG X Power)는 [LG전자](../Page/LG전자.md "wikilink")가 [2016년](../Page/2016년.md "wikilink") [7월 8일](../Page/7월_8일.md "wikilink") 출시한 보급형 스마트폰이다.\[1\] 처음 공개는 [X 스킨](../Page/LG_X_스킨.md "wikilink"), [X 맥스](../Page/LG_X5.md "wikilink"), [X 마하와](../Page/LG_X_마하.md "wikilink") 함께 공개되었으며, 한국에는 [KT](../Page/KT.md "wikilink") 전용으로 출시되었다.\[2\] 배터리 용량이 4,100 [mAh](https://ko.wikipedia.org/wiki/mAh "wikilink")로 큰 것이 특징이며, 배터리 사용 시간이 오래 가서 호평이 받았다.

@@ -71,7 +71,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/트릴로지_(농구팀)" title="wikilink">트릴로지</a></p></td>
-<td><p>케년 마틴</p></td>
+<td><p>스테븐 잭슨</p></td>
 <td><p>제이슨 테리</p></td>
 <td></td>
 </tr>
@@ -231,41 +231,41 @@
 <tbody>
 <tr class="odd">
 <td><p>1라운드</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/미시간_주" title="wikilink">미시간 주</a> <a href="../Page/디트로이트.md" title="wikilink">디트로이트</a></p></td>
+<td><p><a href="../Page/미시간주.md" title="wikilink">미시간주</a> <a href="../Page/디트로이트.md" title="wikilink">디트로이트</a></p></td>
 <td><p><a href="../Page/리틀시저스_아레나.md" title="wikilink">리틀시저스 아레나</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/인디애나_주" title="wikilink">인디애나 주</a> <a href="../Page/인디애나폴리스.md" title="wikilink">인디애나폴리스</a></p></td>
+<td><p><a href="../Page/인디애나주.md" title="wikilink">인디애나주</a> <a href="../Page/인디애나폴리스.md" title="wikilink">인디애나폴리스</a></p></td>
 <td><p><a href="../Page/뱅커스_라이프_필드하우스.md" title="wikilink">뱅커스 라이프 필드하우스</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2라운드</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/노스캐롤라이나_주" title="wikilink">노스캐롤라이나 주</a> <a href="../Page/샬럿.md" title="wikilink">샬럿</a></p></td>
+<td><p><a href="../Page/노스캐롤라이나주.md" title="wikilink">노스캐롤라이나주</a> <a href="../Page/샬럿.md" title="wikilink">샬럿</a></p></td>
 <td><p><a href="../Page/스펙트럼_센터.md" title="wikilink">스펙트럼 센터</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/펜실베이니아_주" title="wikilink">펜실베이니아 주</a> <a href="../Page/필라델피아.md" title="wikilink">필라델피아</a></p></td>
+<td><p><a href="../Page/펜실베이니아주.md" title="wikilink">펜실베이니아주</a> <a href="../Page/필라델피아.md" title="wikilink">필라델피아</a></p></td>
 <td><p>리아크라스 센터</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>3라운드</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/앨라배마_주" title="wikilink">앨라배마 주</a> <a href="https://ko.wikipedia.org/wiki/버밍햄" title="wikilink">버밍햄</a></p></td>
+<td><p><a href="../Page/앨라배마주.md" title="wikilink">앨라배마주</a> <a href="https://ko.wikipedia.org/wiki/버밍햄" title="wikilink">버밍햄</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/레거시_아레나" title="wikilink">레거시 아레나</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/조지아_주" title="wikilink">조지아 주</a> <a href="../Page/애틀랜타.md" title="wikilink">애틀랜타</a></p></td>
+<td><p><a href="../Page/조지아주.md" title="wikilink">조지아주</a> <a href="../Page/애틀랜타.md" title="wikilink">애틀랜타</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/스테이트팜_아레나" title="wikilink">스테이트팜 아레나</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>4라운드</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/로드아일랜드_주" title="wikilink">로드아일랜드 주</a> <a href="../Page/프로비던스.md" title="wikilink">프로비던스</a></p></td>
+<td><p><a href="../Page/로드아일랜드주.md" title="wikilink">로드아일랜드주</a> <a href="../Page/프로비던스.md" title="wikilink">프로비던스</a></p></td>
 <td><p><a href="../Page/던킨_도너츠_센터.md" title="wikilink">던킨 도너츠 센터</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/뉴욕_주" title="wikilink">뉴욕 주</a> <a href="../Page/브루클린.md" title="wikilink">브루클린</a></p></td>
+<td><p><a href="../Page/뉴욕주.md" title="wikilink">뉴욕주</a> <a href="../Page/브루클린.md" title="wikilink">브루클린</a></p></td>
 <td><p><a href="../Page/바클레이스_센터.md" title="wikilink">바클레이스 센터</a></p></td>
 <td></td>
 </tr>
@@ -275,13 +275,13 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/스프린트_센터" title="wikilink">스프린트 센터</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/오클라호마_주" title="wikilink">오클라호마 주</a> <a href="../Page/오클라호마시티.md" title="wikilink">오클라호마시티</a></p></td>
+<td><p><a href="../Page/오클라호마주.md" title="wikilink">오클라호마주</a> <a href="../Page/오클라호마시티.md" title="wikilink">오클라호마시티</a></p></td>
 <td><p><a href="../Page/체서피크_에너지_아레나.md" title="wikilink">체서피크 에너지 아레나</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>6라운드</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/유타_주" title="wikilink">유타 주</a> <a href="../Page/솔트레이크시티.md" title="wikilink">솔트레이크시티</a></p></td>
+<td><p><a href="../Page/유타주.md" title="wikilink">유타주</a> <a href="../Page/솔트레이크시티.md" title="wikilink">솔트레이크시티</a></p></td>
 <td><p><a href="../Page/비빈트_스마트홈_아레나.md" title="wikilink">비빈트 스마트홈 아레나</a></p></td>
 </tr>
 <tr class="even">
@@ -291,27 +291,27 @@
 </tr>
 <tr class="odd">
 <td><p>8라운드</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/플로리다_주" title="wikilink">플로리다 주</a> <a href="../Page/마이애미.md" title="wikilink">마이애미</a></p></td>
+<td><p><a href="../Page/플로리다주.md" title="wikilink">플로리다주</a> <a href="../Page/마이애미.md" title="wikilink">마이애미</a></p></td>
 <td><p><a href="../Page/아메리칸_에어라인스_아레나.md" title="wikilink">아메리칸 에어라인스 아레나</a></p></td>
 </tr>
 <tr class="even">
 <td><p>9라운드</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/텍사스_주" title="wikilink">텍사스 주</a> <a href="../Page/댈러스.md" title="wikilink">댈러스</a></p></td>
+<td><p><a href="../Page/텍사스주.md" title="wikilink">텍사스주</a> <a href="../Page/댈러스.md" title="wikilink">댈러스</a></p></td>
 <td><p><a href="../Page/아메리칸_에어라인스_센터.md" title="wikilink">아메리칸 에어라인스 센터</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/텍사스_주" title="wikilink">텍사스 주</a> <a href="../Page/샌안토니오.md" title="wikilink">샌안토니오</a></p></td>
+<td><p><a href="../Page/텍사스주.md" title="wikilink">텍사스주</a> <a href="../Page/샌안토니오.md" title="wikilink">샌안토니오</a></p></td>
 <td><p><a href="../Page/AT&amp;T_센터.md" title="wikilink">AT&amp;T 센터</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>플레이오프</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/루이지애나_주" title="wikilink">루이지애나 주</a> <a href="../Page/뉴올리언스.md" title="wikilink">뉴올리언스</a></p></td>
+<td><p><a href="../Page/루이지애나주.md" title="wikilink">루이지애나주</a> <a href="../Page/뉴올리언스.md" title="wikilink">뉴올리언스</a></p></td>
 <td><p><a href="../Page/스무디킹_센터.md" title="wikilink">스무디킹 센터</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>챔피언십</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/캘리포니아_주" title="wikilink">캘리포니아 주</a> <a href="https://ko.wikipedia.org/wiki/로스앤젤레스" title="wikilink">로스앤젤레스</a></p></td>
+<td><p><a href="../Page/캘리포니아주.md" title="wikilink">캘리포니아주</a> <a href="https://ko.wikipedia.org/wiki/로스앤젤레스" title="wikilink">로스앤젤레스</a></p></td>
 <td><p><a href="../Page/스테이플스_센터.md" title="wikilink">스테이플스 센터</a></p></td>
 </tr>
 </tbody>
@@ -384,38 +384,38 @@
 </tr>
 <tr class="even">
 <td><p>6월 27일</p></td>
-<td><p><a href="../Page/뉴욕.md" title="wikilink">뉴욕</a></p></td>
-<td><p>미정</p></td>
+<td><p><a href="../Page/뉴욕주.md" title="wikilink">뉴욕주</a> <a href="../Page/뉴욕.md" title="wikilink">뉴욕</a></p></td>
+<td><p>USTA 빌리 진 킹 내셔널 테니스 센터</p></td>
 </tr>
 <tr class="odd">
 <td><p>7월 11일</p></td>
-<td><p><a href="../Page/워싱턴_D.C..md" title="wikilink">워싱턴 D.C.</a></p></td>
-<td><p><a href="../Page/캐피털_원_아레나.md" title="wikilink">캐피털 원 아레나</a></p></td>
+<td><p><a href="../Page/캘리포니아주.md" title="wikilink">캘리포니아주</a> <a href="https://ko.wikipedia.org/wiki/로스앤젤레스" title="wikilink">로스앤젤레스</a></p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>7월 18일</p></td>
-<td><p><a href="../Page/미네소타주.md" title="wikilink">미네소타주</a> <a href="../Page/미니애폴리스.md" title="wikilink">미니애폴리스</a></p></td>
-<td><p><a href="../Page/타깃_센터.md" title="wikilink">타깃 센터</a></p></td>
+<td><p><a href="../Page/캘리포니아주.md" title="wikilink">캘리포니아주</a> <a href="https://ko.wikipedia.org/wiki/로스앤젤레스" title="wikilink">로스앤젤레스</a></p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>7월 25일</p></td>
-<td><p><a href="../Page/코네티컷주.md" title="wikilink">코네티컷주</a> <a href="../Page/하트퍼드_(코네티컷주).md" title="wikilink">하트퍼드</a></p></td>
-<td><p><a href="../Page/XL_센터.md" title="wikilink">XL 센터</a></p></td>
+<td><p><a href="../Page/캘리포니아주.md" title="wikilink">캘리포니아주</a> <a href="https://ko.wikipedia.org/wiki/로스앤젤레스" title="wikilink">로스앤젤레스</a></p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>8월 1일</p></td>
-<td><p><a href="../Page/캘리포니아주.md" title="wikilink">캘리포니아주</a> <a href="../Page/새크라멘토.md" title="wikilink">새크라멘토</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/골든_1_센터" title="wikilink">골든 1 센터</a></p></td>
+<td><p><a href="../Page/캘리포니아주.md" title="wikilink">캘리포니아주</a> <a href="https://ko.wikipedia.org/wiki/로스앤젤레스" title="wikilink">로스앤젤레스</a></p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>8월 8일</p></td>
-<td><p><a href="../Page/플로리다주.md" title="wikilink">플로리다주</a> <a href="../Page/마이애미.md" title="wikilink">마이애미</a></p></td>
-<td><p><a href="../Page/아메리칸_에어라인스_아레나.md" title="wikilink">아메리칸 에어라인스 아레나</a></p></td>
+<td><p><a href="../Page/캘리포니아주.md" title="wikilink">캘리포니아주</a> <a href="https://ko.wikipedia.org/wiki/로스앤젤레스" title="wikilink">로스앤젤레스</a></p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>8월 15일</p></td>
-<td><p><a href="../Page/일리노이주.md" title="wikilink">일리노이주</a> <a href="../Page/시카고.md" title="wikilink">시카고</a></p></td>
-<td><p><a href="../Page/유나이티드_센터.md" title="wikilink">유나이티드 센터</a></p></td>
+<td><p><a href="../Page/캘리포니아주.md" title="wikilink">캘리포니아주</a> <a href="https://ko.wikipedia.org/wiki/로스앤젤레스" title="wikilink">로스앤젤레스</a></p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>8월 22일<br />
@@ -426,8 +426,8 @@
 <tr class="even">
 <td><p>8월 29일<br />
 챔피언십</p></td>
-<td><p><a href="../Page/미시간주.md" title="wikilink">미시간주</a> <a href="../Page/디트로이트.md" title="wikilink">디트로이트</a></p></td>
-<td><p><a href="../Page/리틀시저스_아레나.md" title="wikilink">리틀시저스 아레나</a></p></td>
+<td><p>미정</p></td>
+<td></td>
 </tr>
 </tbody>
 </table>
