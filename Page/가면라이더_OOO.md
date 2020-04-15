@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [ OOO](https://ko.wikipedia.org/wiki/_OOO).
+> This article is converted from Wikipedia: [가면라이더 OOO](https://ko.wikipedia.org/wiki/가면라이더_OOO).
 
 
-《**가면라이더 오즈**》 ()는 [일본](../Page/일본.md "wikilink") [토에이](https://ko.wikipedia.org/wiki/토에이 "wikilink")의 특촬물 [가면라이더 시리즈의](../Page/가면라이더_시리즈.md "wikilink") 12번째 작품으로, 일본에서 [2010년](../Page/2010년.md "wikilink") [9월 5일부터](../Page/9월_5일.md "wikilink") [2011년](../Page/2011년.md "wikilink") [8월 28일까지](../Page/8월_28일.md "wikilink") [가면라이더 W의](https://ko.wikipedia.org/wiki/가면라이더_W "wikilink") 후속으로 [TV 아사히를](../Page/TV_아사히.md "wikilink") 통해 방영되었으며, TV 아사히 슈퍼 히어로 타임에서 《[천장전대 고세이저](../Page/천장전대_고세이저.md "wikilink")》, 《[해적전대 고카이저](../Page/해적전대_고카이저.md "wikilink")》와 함께 편성되었다.\[1\] [극장판 가면라이더 W FOREVER A to Z/운명의 가이아 메모리에서](https://ko.wikipedia.org/wiki/극장판_가면라이더_W_FOREVER_A_to_Z/운명의_가이아_메모리 "wikilink") 카메오로 첫 등장했다. 캐치프라이즈는 **"내가 변신한다\!\!"** ()이다. 한국에서는 2013년 1월부터 챔프, 애니원, 애니박스에서 방영되고 있다.
+《**가면라이더 오즈**》 ()는 [일본](../Page/일본.md "wikilink") [토에이](https://ko.wikipedia.org/wiki/토에이 "wikilink")의 특촬물 [가면라이더 시리즈의](../Page/가면라이더_시리즈.md "wikilink") 12번째 작품으로, 일본에서 [2010년](../Page/2010년.md "wikilink") [9월 5일부터](../Page/9월_5일.md "wikilink") [2011년](../Page/2011년.md "wikilink") [8월 28일까지](../Page/8월_28일.md "wikilink") [가면라이더 W의](https://ko.wikipedia.org/wiki/가면라이더_W "wikilink") 후속으로 [TV 아사히를](../Page/TV_아사히.md "wikilink") 통해 방영되었으며, TV 아사히 슈퍼 히어로 타임에서 《[천장전대 고세이저](../Page/천장전대_고세이저.md "wikilink")》, 《[해적전대 고카이저](../Page/해적전대_고카이저.md "wikilink")》와 함께 편성되었다.\[1\] [극장판 가면라이더 W FOREVER A to Z/운명의 가이아 메모리에서](https://ko.wikipedia.org/wiki/극장판_가면라이더_W_FOREVER_A_to_Z/운명의_가이아_메모리 "wikilink") 카메오로 첫 등장했다. 캐치프라이즈는 **"내가 변신한다\!\!"**()이다. 한국에서는 2013년 1월부터 챔프, 애니원, 애니박스에서 방영되고 있다.
 
 제목인 가면라이더 오즈OO의 **OOO**란 주인공이 가면라이더 OOO로 변신할 때 사용하는 3개의 오 메달을 의미한다. 라이더는 적을 격파할 때 마다 새로운 오 메달을 획득하여 강해지는 특징이 있다. 전작이었던 [가면라이더 W의](https://ko.wikipedia.org/wiki/가면라이더_W "wikilink") 47화에서는 OOO의 중요 아이템인 오 메달의 존재가 묘사되는 등 가면라이더 W과 같은 세계관임을 보여주고 있다.
 
@@ -34,7 +34,7 @@
 
 <!-- end list -->
 
-  - **앙크** (, ) - 성우: [박서진](../Page/박서진.md "wikilink")
+  - **앙크**(, ) - 성우: [박서진](../Page/박서진.md "wikilink")
 
 <!-- end list -->
 
@@ -112,7 +112,7 @@
 
 메달의 힘으로 인간체로도 변신할 수 있는데, 메즐을 제외한 그리드들은 성우가 직접 인간체를 연기하였다. 그리드 중 앙크에 관한 내용은 윗 문단에 서술되어 있다.
 
-  - **우바** (, ) - 성우: [이현](https://ko.wikipedia.org/wiki/이현 "wikilink")
+  - **우바**(, ) - 성우: [이현](https://ko.wikipedia.org/wiki/이현 "wikilink")
 
 <!-- end list -->
 
@@ -121,7 +121,7 @@
 
 <!-- end list -->
 
-  - **카자리** (, ) - 성우: [이경태](../Page/이경태_\(성우\).md "wikilink")
+  - **카자리**(, ) - 성우: [이경태](../Page/이경태_\(성우\).md "wikilink")
 
 <!-- end list -->
 
@@ -139,7 +139,7 @@
 
 <!-- end list -->
 
-  - **메즐** (, ) - 성우: [이미나](../Page/이미나_\(성우\).md "wikilink")
+  - **메즐**(, ) - 성우: [이미나](../Page/이미나_\(성우\).md "wikilink")
 
 <!-- end list -->
 

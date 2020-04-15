@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [CC ](https://ko.wikipedia.org/wiki/CC_).
+> This article is converted from Wikipedia: [CC 사바시아](https://ko.wikipedia.org/wiki/CC_사바시아).
 
 
 **카르스텐 카롤로스 "CC" 사바시아**(Carsten Charles "CC" Sabathia, [1980년](../Page/1980년.md "wikilink") [7월 21일](../Page/7월_21일.md "wikilink") \~ )는 전직 [메이저 리그 베이스볼](../Page/메이저_리그_베이스볼.md "wikilink") [뉴욕 양키스의](../Page/뉴욕_양키스.md "wikilink") 선수이다.

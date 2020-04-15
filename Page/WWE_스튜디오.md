@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [WWE ](https://ko.wikipedia.org/wiki/WWE_).
+> This article is converted from Wikipedia: [WWE 스튜디오](https://ko.wikipedia.org/wiki/WWE_스튜디오).
 
 
 **WWE 스튜디오**(WWE Studios)는 [로스앤젤레스](https://ko.wikipedia.org/wiki/로스앤젤레스 "wikilink")에 위치한 [WWE](https://ko.wikipedia.org/wiki/WWE "wikilink")가 2002년에 WWE 필름이라는 이름으로 설립한 회사이다.\[1\]

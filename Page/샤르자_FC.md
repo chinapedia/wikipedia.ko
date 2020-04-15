@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
+> This article is converted from Wikipedia: [샤르자 FC](https://ko.wikipedia.org/wiki/샤르자_FC).
 
 
-**샤르자 풋볼 클럽** () 또는 **샤르자 FC**(Sharjah FC)는 [아랍에미리트](../Page/아랍에미리트.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽으로 [샤르자](../Page/샤르자.md "wikilink")를 연고로 삼고 있다.
+**샤르자 풋볼 클럽**() 또는 **샤르자 FC**(Sharjah FC)는 [아랍에미리트](../Page/아랍에미리트.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽으로 [샤르자](../Page/샤르자.md "wikilink")를 연고로 삼고 있다.
 
 이 팀은 [1966년](../Page/1966년.md "wikilink")에 알오루바 클럽이란 이름으로 창단되었고, [1974년](../Page/1974년.md "wikilink")에 알칼리지와 병합하였다. [1978년](../Page/1978년.md "wikilink")부터 샤르자 클럽이란 이름으로 공식 등록되었다. 현재는 [UAE 1부 리그에](https://ko.wikipedia.org/wiki/UAE_1부_리그 "wikilink") 출전하고 있다.
 

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [MVP \(e\)](https://ko.wikipedia.org/wiki/MVP_\(e\)).
+> This article is converted from Wikipedia: [MVP \(e스포츠\)](https://ko.wikipedia.org/wiki/MVP_\(e스포츠\)).
 
 
 **MVP**(Most Valuable Player)는 [대한민국](../Page/대한민국.md "wikilink")의 [카운터-스트라이크: 글로벌 오펜시브](../Page/카운터-스트라이크:_글로벌_오펜시브.md "wikilink"), 왕자영요, APEX 레전드 프로게임단이다. 이전에는 [스타크래프트 II와](https://ko.wikipedia.org/wiki/스타크래프트_II "wikilink") [히어로즈 오브 더 스톰](../Page/히어로즈_오브_더_스톰.md "wikilink"), [오버워치](../Page/오버워치.md "wikilink"), [도타 2](../Page/도타_2.md "wikilink"), [리그 오브 레전드](../Page/리그_오브_레전드.md "wikilink"), [배틀그라운드](../Page/배틀그라운드_\(비디오_게임\).md "wikilink") 프로게임단을 운영했다.
@@ -126,12 +126,12 @@
 ### 도타2\[2\]
 
   - 2013년 넥슨 도타2 스폰서십 리그 시즌2 3위 (MVP HOT6)
-  - 2013년 **넥슨 도타2 스폰서십 리그 시즌2 우승** (MVP 피닉스)
+  - 2013년 **넥슨 도타2 스폰서십 리그 시즌2 우승**(MVP 피닉스)
   - 2014년 넥슨 도타2 스폰서십 리그 시즌3 4위 (MVP HOT6)
   - 2014년 코리아 도타2 리그 시즌1 준우승 (MVP 피닉스)
-  - 2014년 **코리아 도타2 리그 시즌2 우승** (MVP 피닉스)
-  - 2014년 **코리아 도타2 리그 시즌3 우승** (MVP 피닉스)
-  - 2014년 **IeSF 아시아 챔피언십 2014 우승** (MVP 피닉스)
+  - 2014년 **코리아 도타2 리그 시즌2 우승**(MVP 피닉스)
+  - 2014년 **코리아 도타2 리그 시즌3 우승**(MVP 피닉스)
+  - 2014년 **IeSF 아시아 챔피언십 2014 우승**(MVP 피닉스)
   - 2014년 코리아 도타2 리그 시즌4 4위 (MVP 핫식스)
   - 2014년 코리아 도타2 리그 시즌4 준우승 (MVP 피닉스)
   - 2015년 i-league Season 2 4위 (MVP 피닉스)
@@ -139,11 +139,11 @@
   - 2015년 The International 16강 (MVP HOT6)
   - 2015년 The International 8강 (MVP 피닉스)
   - 2016년 The Shanghai Major 2016 4위 (MVP 피닉스)
-  - 2016년 **Dota Pit League Season 4 우승** (MVP 피닉스)
-  - 2016년 **WePlay Dota2 League Season 3 우승** (MVP 피닉스)
+  - 2016년 **Dota Pit League Season 4 우승**(MVP 피닉스)
+  - 2016년 **WePlay Dota2 League Season 3 우승**(MVP 피닉스)
   - 2016년 The Manila Major 2016 6강 (MVP 피닉스)
-  - 2016년 **Pro Gamer League 2016 - Summer 우승** (MVP 피닉스)
-  - 2016년 **MSF - The Creep Season 1 우승** (MVP 이지스)
+  - 2016년 **Pro Gamer League 2016 - Summer 우승**(MVP 피닉스)
+  - 2016년 **MSF - The Creep Season 1 우승**(MVP 이지스)
 
 ### 히어로즈 오브 더 스톰
 
@@ -153,8 +153,8 @@
   - 히어로즈 오브 더 스톰 커뮤니티 오픈 토너먼트 준우승 (MVP 스카이)
   - 2015년 IEM Season X - Shenzhen 히어로즈 오브 더 스톰 인비테이셔널 그랜드파이널 우승 (MVP 블랙)
   - Masters Gaming Arena 2015 우승 (MVP 블랙)
-  - **히어로즈 오브 더 스톰 슈퍼리그 2016 시즌 1 우승** (MVP 블랙)
-  - **2016 히어로즈 오브 더 스톰 스프링 글로벌 챔피언십 우승** (MVP 블랙)
+  - **히어로즈 오브 더 스톰 슈퍼리그 2016 시즌 1 우승**(MVP 블랙)
+  - **2016 히어로즈 오브 더 스톰 스프링 글로벌 챔피언십 우승**(MVP 블랙)
   - 히어로즈 오브 더 스톰 슈퍼리그 2016 시즌 2 준우승 (MVP 블랙)
 
 ### 카운터-스트라이크: 글로벌 오펜시브

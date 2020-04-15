@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  :  VS  ](https://ko.wikipedia.org/wiki/__:__VS__).
+> This article is converted from Wikipedia: [극장판 포켓몬스터 베스트위시: 큐레무 VS 성검사 케르디오](https://ko.wikipedia.org/wiki/극장판_포켓몬스터_베스트위시:_큐레무_VS_성검사_케르디오).
 
 
 《**극장판 포켓몬스터 베스트위시 큐레무 VS 성검사 케르디오**》()는 [2012년](../Page/2012년.md "wikilink")에 개봉했던 [TV](https://ko.wikipedia.org/wiki/TV "wikilink") [애니메이션](../Page/애니메이션.md "wikilink") [포켓몬스터](../Page/포켓몬스터.md "wikilink")의 극장판 제 15번째 작품이다. [대한민국에서는](../Page/한국.md "wikilink") 6번째로 개봉하는 [포켓몬](../Page/포켓몬스터.md "wikilink") 영화이다.
@@ -31,4 +31,4 @@
   - [공식 웹사이트](http://www.pokemon-movie.jp/)
   - [한글판 공식 웹사이트](https://web.archive.org/web/20091108002949/http://movie.pokemonkorea.co.kr/)
 
-[분류:2012년 애니메이션 영화](https://ko.wikipedia.org/wiki/분류:2012년_애니메이션_영화 "wikilink") [분류:포켓몬스터 극장판](https://ko.wikipedia.org/wiki/분류:포켓몬스터_극장판 "wikilink") [분류:CJ 엔터테인먼트 애니메이션 영화](https://ko.wikipedia.org/wiki/분류:CJ_엔터테인먼트_애니메이션_영화 "wikilink")
+[분류:2012년 애니메이션 영화](https://ko.wikipedia.org/wiki/분류:2012년_애니메이션_영화 "wikilink") [분류:포켓몬스터 극장판](https://ko.wikipedia.org/wiki/분류:포켓몬스터_극장판 "wikilink") [분류:CJ 엔터테인먼트 애니메이션 영화](https://ko.wikipedia.org/wiki/분류:CJ_엔터테인먼트_애니메이션_영화 "wikilink") [분류:일본의 애니메이션 영화](https://ko.wikipedia.org/wiki/분류:일본의_애니메이션_영화 "wikilink")

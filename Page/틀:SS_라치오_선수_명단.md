@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:SS   ](https://ko.wikipedia.org/wiki/:SS___).
+> This article is converted from Wikipedia: [틀:SS 라치오 선수 명단](https://ko.wikipedia.org/wiki/틀:SS_라치오_선수_명단).
 
 
 <onlyinclude></onlyinclude>

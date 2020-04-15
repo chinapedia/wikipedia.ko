@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [USS  \(SSK-1\)](https://ko.wikipedia.org/wiki/USS__\(SSK-1\)).
+> This article is converted from Wikipedia: [USS 바라쿠다 \(SSK-1\)](https://ko.wikipedia.org/wiki/USS_바라쿠다_\(SSK-1\)).
 
 
 **USS 바라쿠다 (SSK-1/SST-3/SS-550)**는 [바라쿠다급 잠수함의](https://ko.wikipedia.org/wiki/바라쿠다급_잠수함_\(1951년\) "wikilink") [네임쉽](https://ko.wikipedia.org/wiki/네임쉽 "wikilink")이다. 바라쿠다라는 이름이 사용된 함선으로는 두 번째 함선으로, [꼬치고기에서](https://ko.wikipedia.org/wiki/꼬치고기과 "wikilink") 따온 것이다. 1949년 7월 1일, [코네티컷](https://ko.wikipedia.org/wiki/코네티컷 "wikilink"), [그로톤](https://ko.wikipedia.org/wiki/그로톤 "wikilink")의 GDEB(General Dynamics Electic Boat)사에서 기공되었다. 1951년 3월 2일, 윌리스 매닝 토마스 여사의 지원 아래, *K-1*이라는 이름으로 진수되었으며, 1951년 11월 10일, F. A. 앤드루 소령의 지휘 아래 취역했다. 특히 취역 후 1년 동안은 [지미 카터가](../Page/지미_카터.md "wikilink") 승무원으로 근무했다.\[1\]

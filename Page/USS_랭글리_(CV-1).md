@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [USS  \(CV-1\)](https://ko.wikipedia.org/wiki/USS__\(CV-1\)).
+> This article is converted from Wikipedia: [USS 랭글리 \(CV-1\)](https://ko.wikipedia.org/wiki/USS_랭글리_\(CV-1\)).
 
 
 **USS 랭글리(CV-1/AV-3)**()는 미국 해군의 최초의 [항공모함](../Page/항공모함.md "wikilink")이다. 석탄 운반선, **쥬피터** (**USS Jupiter, AC-3**)를 개조해서 만들었다. 랭글리는 후에 [수상기모함](https://ko.wikipedia.org/wiki/수상기모함 "wikilink")으로 개조되었다.

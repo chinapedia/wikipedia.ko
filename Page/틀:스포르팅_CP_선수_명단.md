@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [: CP  ](https://ko.wikipedia.org/wiki/:_CP__).
+> This article is converted from Wikipedia: [틀:스포르팅 CP 선수 명단](https://ko.wikipedia.org/wiki/틀:스포르팅_CP_선수_명단).
 
 
 <onlyinclude></onlyinclude>

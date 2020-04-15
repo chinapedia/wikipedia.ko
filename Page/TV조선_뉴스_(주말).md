@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TV  \(\)](https://ko.wikipedia.org/wiki/TV__\(\)).
+> This article is converted from Wikipedia: [TV조선 뉴스 \(주말\)](https://ko.wikipedia.org/wiki/TV조선_뉴스_\(주말\)).
 
 
 《**TV조선 뉴스 (주말)**》는 [대한민국](../Page/대한민국.md "wikilink")의 [종합편성채널](https://ko.wikipedia.org/wiki/종합편성채널 "wikilink")인 [TV조선](../Page/TV조선.md "wikilink")에서 토요일 오전 9시 15분, 일요일 오전 9시 30분에 방송되는 [TV조선의 주말 아침뉴스 프로그램이다](../Page/TV조선의_뉴스_프로그램.md "wikilink").

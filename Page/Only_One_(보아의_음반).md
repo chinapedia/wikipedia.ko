@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Only One \( \)](https://ko.wikipedia.org/wiki/Only_One_\(_\)).
+> This article is converted from Wikipedia: [Only One \(보아의 음반\)](https://ko.wikipedia.org/wiki/Only_One_\(보아의_음반\)).
 
 
 ***Only One***은 [대한민국](../Page/대한민국.md "wikilink")의 가수 [보아](../Page/보아.md "wikilink")의 일곱 번째 한국 정규 앨범이다. 앨범의 타이틀곡은 보아가 직접 작곡, 작사한 "Only One"이다. *Only One*은 2012년 7월 25일 KMP홀딩스를 통해 발매되었고, 이에 앞서 온라인을 통해 22일 발매 되었다.

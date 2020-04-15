@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Hey!   \?](https://ko.wikipedia.org/wiki/Hey!___\?).
+> This article is converted from Wikipedia: [Hey! 모두 잘 지내\?](https://ko.wikipedia.org/wiki/Hey!_모두_잘_지내\?).
 
 
 〈**Hey\! 모두 잘 지내?**〉()는, [KinKi Kids의](https://ko.wikipedia.org/wiki/킨키_키즈 "wikilink") 13번째 [싱글이다](../Page/싱글_\(음악\).md "wikilink").

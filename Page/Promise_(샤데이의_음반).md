@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Promise \( \)](https://ko.wikipedia.org/wiki/Promise_\(_\)).
+> This article is converted from Wikipedia: [Promise \(샤데이의 음반\)](https://ko.wikipedia.org/wiki/Promise_\(샤데이의_음반\)).
 
 
 ***Promise***(프로미스)는 영국 소울 밴드 [샤데이](https://ko.wikipedia.org/wiki/샤데이 "wikilink")의 두 번째 정규 앨범이다. Promise는 1985년 11월 16일 영국에서 발매되었다. 앨범 내에서는 "[The Sweetest Taboo](https://ko.wikipedia.org/wiki/The_Sweetest_Taboo "wikilink")"와 "[Never as Good as the First Time](https://ko.wikipedia.org/wiki/Never_as_Good_as_the_First_Time "wikilink")"이 각각 [빌보드 핫 100 차트에서](https://ko.wikipedia.org/wiki/빌보드_핫_100_차트 "wikilink") 5위와 20위에 오르며 인기를 끌었다. 발매 직후에는 데뷔 앨범 만큼의 호응을 얻지 못했지만 [라이브 에이드](../Page/라이브_에이드.md "wikilink") 무대에서의 공연 후 미국과 영국 앨범 차트 1위를 마크하며 관심을 모았다.

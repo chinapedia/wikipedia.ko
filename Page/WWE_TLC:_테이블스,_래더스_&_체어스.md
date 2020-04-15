@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [WWE TLC: ,  \& ](https://ko.wikipedia.org/wiki/WWE_TLC:_,__\&_).
+> This article is converted from Wikipedia: [WWE TLC: 테이블스, 래더스 \& 체어스](https://ko.wikipedia.org/wiki/WWE_TLC:_테이블스,_래더스_\&_체어스).
 
 
 **TLC: 테이블스, 래더스 & 체어스 (Table,Ladder & Chairs)**는 기존 프로레슬링 경기에 테이블, 사다리, 의자를 접목시킨 경기방식이며 사다리를 이용하여 공중에 매달려 있는 타이틀을 먼저 따내는 사람이 이기는 경기방식과, 별도의 타이틀이 걸려있지 않은 일반 경기시 핀 폴 혹은 서브미션으로 이길 수 있는 경기방식이 채택되어 열리고 있다. 2000년 섬머슬램에 최초로 시행되었던 이 경기는 현재 [WWE](https://ko.wikipedia.org/wiki/WWE "wikilink")에서 12월에 페이 퍼 뷰 이름으로 도입되어 시행되고 있다. WWE가 2016년 7월 다시 [RAW](https://ko.wikipedia.org/wiki/RAW "wikilink")와 [스맥다운](https://ko.wikipedia.org/wiki/스맥다운 "wikilink")을 분리하기로 결정함에따라 같은 해 12월 [스맥다운](https://ko.wikipedia.org/wiki/스맥다운 "wikilink") 브랜드 독점 PPV로 다시 개최했고 2017년 10월 [WWE 러](../Page/WWE_러.md "wikilink") 브렌드 독점 PPV로 개최되었다.

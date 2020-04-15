@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TBS  10 ](https://ko.wikipedia.org/wiki/TBS__10_).
+> This article is converted from Wikipedia: [TBS 목요일 10시 드라마](https://ko.wikipedia.org/wiki/TBS_목요일_10시_드라마).
 
 
 **TBS 목요일 10시 드라마**는 [TBS에서](https://ko.wikipedia.org/wiki/도쿄방송 "wikilink") [1977년](../Page/1977년.md "wikilink")부터 [2008년](../Page/2008년.md "wikilink")까지 목요일 22:00에 방송되었던 [텔레비전 드라마이다](../Page/텔레비전_드라마.md "wikilink"). [1990년](../Page/1990년.md "wikilink") 《뜬 구름》부터 [1999년](../Page/1999년.md "wikilink") 《P.S. 잘 있습니다, 슌페이》까지는 「목요 드라마」라는 애칭으로 불렸다.

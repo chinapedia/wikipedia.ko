@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [GEM \(\)](https://ko.wikipedia.org/wiki/GEM_\(\)).
+> This article is converted from Wikipedia: [GEM \(소프트웨어\)](https://ko.wikipedia.org/wiki/GEM_\(소프트웨어\)).
 
 
 **GEM** (**G**raphics **E**nvironment **M**anager)\[1\]은 [디지털 리서치사에](../Page/디지털_리서치.md "wikilink") 의해 개발된 [윈도 시스템으로](https://ko.wikipedia.org/wiki/윈도_시스템 "wikilink"), [CP/M](https://ko.wikipedia.org/wiki/CP/M "wikilink") 운영체제와 함께 [인텔 8088과](../Page/인텔_8088.md "wikilink") [모토로라 68000](../Page/모토로라_68000.md "wikilink") [마이크로프로세서](../Page/마이크로프로세서.md "wikilink")에 사용되었다. 후기 버전은 [도스](../Page/도스.md "wikilink")상에서도 구동된다.

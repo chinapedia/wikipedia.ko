@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:H.O.T.](https://ko.wikipedia.org/wiki/:H.O.T.).
+> This article is converted from Wikipedia: [틀:H.O.T.](https://ko.wikipedia.org/wiki/틀:H.O.T.).
 
 
 <onlyinclude></onlyinclude>

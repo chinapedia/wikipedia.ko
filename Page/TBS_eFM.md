@@ -34,63 +34,58 @@
 
 ## 방송 프로그램
 
-7시\~22시까지 매 정시마다 영어뉴스가 방송된다. 그 중에 [BBC](../Page/BBC_월드_서비스.md "wikilink") 5분 토막뉴스가 방송되는 시각은 평일 오전 10시, 주말 오전 11시, 매일 오후 3시다.
-
-아래 프로그램 목록은 2019년 4월 현재 기준이다.
+아래 프로그램 목록은 2020년 2월 24일 현재 기준이다.
 
 ### 평일
 
-  - 05:00《[Jumpstart](https://web.archive.org/web/20181105113829/http://www.tbs.seoul.kr/cont/eFM/jumpstart/Introduction/intro.do?programId=PG2061110E)》
-  - 07:05《[This Morning](https://web.archive.org/web/20161123104422/http://tbs.seoul.kr/cont/eFM/ThisMorning/introduction/introduction.do)》
-  - 09:05《[Inside Korea](https://web.archive.org/web/20181105113931/http://www.tbs.seoul.kr/cont/eFM/InsideKo/intro/intro.do?programId=PG2061143E)》
-  - 10:05《[10 Everyday](https://web.archive.org/web/20181105113921/http://www.tbs.seoul.kr/cont/eFM/Everyday/intro/intro.do?programId=PG2061146E)》
-  - 12:10《[All Things K-Pop](https://web.archive.org/web/20181105113915/http://www.tbs.seoul.kr/cont/eFM/AthingsKPOP/intro/intro.do?programId=PG2061111E)》
-  - 14:05《[The Steve Hatherly Show](https://web.archive.org/web/20161122025753/http://www.tbs.seoul.kr/cont/eFM/HatherlyShow/introduction/introduction.do)》
-  - 15:52《Seoul Highlights》
-  - 16:05《[Men On Air](https://web.archive.org/web/20181105113752/http://www.tbs.seoul.kr/cont/eFM/MenOnAir/Introduction/intro.do?programId=PG2061035E)》
-  - 18:00《[신문재로상](https://web.archive.org/web/20170316113227/http://tbs.seoul.kr/cont/eFM/StreetNews/intro/introduction.do)》
-  - 20:00《[1013신식항](https://web.archive.org/web/20180518130038/http://tbs.seoul.kr/cont/eFM/1013/intro/introduction.do)》
-  - 21:00《[악동서울](https://web.archive.org/web/20180518130042/http://tbs.seoul.kr/cont/eFM/Akdongseoul/introduction/introduction.do)》
-  - 22:05《[Skool of K-Pop](https://web.archive.org/web/20190317080352/http://tbs.seoul.kr/cont/eFM/Skool/intro/intro.do?programId=PG2061194E)》
-  - 00:00《[Frenzy Friends](https://web.archive.org/web/20190317080347/http://tbs.seoul.kr/cont/eFM/Frenzy/intro/intro.do?programId=PG2061205E)》
-
-다음 프로그램들은 계획 정파가 있는 [화요일](https://ko.wikipedia.org/wiki/화요일 "wikilink")에는 방송되지 않는다.
-
-  - 02:00《[Sound Unbound](https://web.archive.org/web/20161220031536/http://www.tbs.seoul.kr/cont/eFM/Soundunbound/introduction/introduction.do)》
+  - 05:00《[Jumpstart](http://tbs.seoul.kr/cont/eFM/jumpstart/Introduction/intro.do?programId=PG2061110E)》
+  - 07:00《[This Morning](http://tbs.seoul.kr/cont/eFM/ThisMorning/introduction/introduction.do?programId=PG2060171E)》
+  - 09:00《[Life: Abroad](http://tbs.seoul.kr/cont/eFM/abroad/intro/introduction.do?programId=PG2061257E)》
+  - 10:00《[10 Everyday](http://tbs.seoul.kr/cont/eFM/Everyday/intro/intro.do?programId=PG2061146E)》
+  - 11:00《[Super Radio](http://tbs.seoul.kr/cont/eFM/superr/introduction/introduction.do?programId=PG2061276E)》
+  - 12:10《[All Things K-Pop](http://tbs.seoul.kr/cont/eFM/AthingsKPOP/intro/intro.do?programId=PG2061111E)》
+  - 14:00《[The Steve Hatherly Show](http://tbs.seoul.kr/cont/eFM/HatherlyShow/introduction/introduction.do?programId=PG2060175E)》
+  - 16:00《[Men On Air](http://tbs.seoul.kr/cont/eFM/MenOnAir/Introduction/intro.do?programId=PG2061035E)》
+  - 18:00《[The Scoop](http://tbs.seoul.kr/cont/eFM/thescoop/intro/introduction.do?programId=PG2061261E)》
+  - 20:00《[1013신식항](http://tbs.seoul.kr/cont/eFM/1013/intro/introduction.do?programId=PG2061112E)》
+  - 21:00《[악동서울](http://tbs.seoul.kr/cont/eFM/Akdongseoul/mcinfo/mcinfo.do?programId=PG2061113E)》
+  - 22:00《[Skool of K-Pop](http://tbs.seoul.kr/cont/eFM/Skool/intro/intro.do?programId=PG2061194E)》
+  - 00:00《[Super Radio (CHN)](http://tbs.seoul.kr/cont/eFM/superrch/potbanglist/PhotoList.do?programId=PG2061279E)》
 
 ### 주말
 
-  - 05:00《[Jumpstart](https://web.archive.org/web/20181105113829/http://www.tbs.seoul.kr/cont/eFM/jumpstart/Introduction/intro.do?programId=PG2061110E)》
-  - 07:05《[Real Mom Real Talk](https://web.archive.org/web/20181105160556/http://tbs.seoul.kr/cont/eFM/RMRT/intro/intro.do?programId=PG2061151E)》
-  - 09:05《[Inside Korea](https://web.archive.org/web/20181105113931/http://www.tbs.seoul.kr/cont/eFM/InsideKo/intro/intro.do?programId=PG2061143E)》
-  - 10:05《[10 Everyday](https://web.archive.org/web/20181105113921/http://www.tbs.seoul.kr/cont/eFM/Everyday/intro/intro.do?programId=PG2061146E)》
-  - 12:10《[All Things K-Pop](https://web.archive.org/web/20181105113915/http://www.tbs.seoul.kr/cont/eFM/AthingsKPOP/intro/intro.do?programId=PG2061111E)》
-  - 14:05《[The Steve Hatherly Show](https://web.archive.org/web/20161122025753/http://www.tbs.seoul.kr/cont/eFM/HatherlyShow/introduction/introduction.do)》
-  - 16:05《[Men On Air](https://web.archive.org/web/20181105113752/http://www.tbs.seoul.kr/cont/eFM/MenOnAir/Introduction/intro.do?programId=PG2061035E)》
-  - 18:00《[우상적품격](https://web.archive.org/web/20190317080413/http://tbs.seoul.kr/cont/eFM/idol/intro/intro.do?programId=PG2061200E)》
-  - 20:00《[1013신식항](https://web.archive.org/web/20180518130038/http://tbs.seoul.kr/cont/eFM/1013/intro/introduction.do)》
-  - 21:00《[주말문화주랑](https://web.archive.org/web/20170316113035/http://tbs.seoul.kr/cont/eFM/WeekendCul/intro/introduction.do)》
-  - 22:05《[Skool of K-Pop](https://web.archive.org/web/20190317080352/http://tbs.seoul.kr/cont/eFM/Skool/intro/intro.do?programId=PG2061194E)》
-  - 00:00《[Frenzy Friends](https://web.archive.org/web/20190317080347/http://tbs.seoul.kr/cont/eFM/Frenzy/intro/intro.do?programId=PG2061205E)》
-  - 02:00《[Sound Unbound](https://web.archive.org/web/20161220031536/http://www.tbs.seoul.kr/cont/eFM/Soundunbound/introduction/introduction.do)》
+  - 05:00《[Jumpstart](http://tbs.seoul.kr/cont/eFM/jumpstart/Introduction/intro.do?programId=PG2061110E)》
+  - 07:00《[Korea, Factual](http://tbs.seoul.kr/cont/eFM/factual/Introduction/introduction.do?programId=PG2061254E)》
+  - 09:00《[Life: Abroad](http://tbs.seoul.kr/cont/eFM/abroad/intro/introduction.do?programId=PG2061257E)》
+  - 10:00《[10 Everyday](http://tbs.seoul.kr/cont/eFM/Everyday/intro/intro.do?programId=PG2061146E)》
+  - 11:00《[Super Radio](http://tbs.seoul.kr/cont/eFM/superr/introduction/introduction.do?programId=PG2061276E)》
+  - 12:10《[All Things K-Pop](http://tbs.seoul.kr/cont/eFM/AthingsKPOP/intro/intro.do?programId=PG2061111E)》
+  - 14:00《[The Steve Hatherly Show](http://tbs.seoul.kr/cont/eFM/HatherlyShow/introduction/introduction.do?programId=PG2060175E)》
+  - 16:00《[Men On Air](http://tbs.seoul.kr/cont/eFM/MenOnAir/Introduction/intro.do?programId=PG2061035E)》
+  - 18:00《[The Scoop](http://tbs.seoul.kr/cont/eFM/thescoop/intro/introduction.do?programId=PG2061261E)》
+  - 20:00《[1013신식항](http://tbs.seoul.kr/cont/eFM/1013/intro/introduction.do?programId=PG2061112E)》
+  - 21:00《[악동서울](http://tbs.seoul.kr/cont/eFM/Akdongseoul/mcinfo/mcinfo.do?programId=PG2061113E)》
+  - 22:00《[Skool of K-Pop](http://tbs.seoul.kr/cont/eFM/Skool/intro/intro.do?programId=PG2061194E)》
+  - 00:00《[Super Radio (CHN)](http://tbs.seoul.kr/cont/eFM/superrch/potbanglist/PhotoList.do?programId=PG2061279E)》
 
 다음 프로그램들은 [일요일](../Page/일요일.md "wikilink")에만 방송된다.
 
-  - 05:00《[Jumpstart](https://web.archive.org/web/20181105113829/http://www.tbs.seoul.kr/cont/eFM/jumpstart/Introduction/intro.do?programId=PG2061110E)》
-  - 07:05《[Best of BBC World Service](https://web.archive.org/web/20181105160626/http://tbs.seoul.kr/cont/eFM/bbc/intro/intro.do?programId=PG2060409E)》
-  - 09:00《[Weekly Review](https://web.archive.org/web/20161220031357/http://www.tbs.seoul.kr/cont/eFM/WeeklyReview/introduction/introduction.do)》
-  - 10:05《[10 Everyday](https://web.archive.org/web/20181105113921/http://www.tbs.seoul.kr/cont/eFM/Everyday/intro/intro.do?programId=PG2061146E)》
-  - 12:10《[All Things K-Pop](https://web.archive.org/web/20181105113915/http://www.tbs.seoul.kr/cont/eFM/AthingsKPOP/intro/intro.do?programId=PG2061111E)》
-  - 14:05《[The Steve Hatherly Show](https://web.archive.org/web/20161122025753/http://www.tbs.seoul.kr/cont/eFM/HatherlyShow/introduction/introduction.do)》
-  - 16:05《[Men On Air](https://web.archive.org/web/20181105113752/http://www.tbs.seoul.kr/cont/eFM/MenOnAir/Introduction/intro.do?programId=PG2061035E)》
-  - 18:00《[우상적품격](https://web.archive.org/web/20190317080413/http://tbs.seoul.kr/cont/eFM/idol/intro/intro.do?programId=PG2061200E)》
-  - 20:00《[1013신식항](https://web.archive.org/web/20180518130038/http://tbs.seoul.kr/cont/eFM/1013/intro/introduction.do)》
-  - 21:00《[주말문화주랑](https://web.archive.org/web/20170316113035/http://tbs.seoul.kr/cont/eFM/WeekendCul/intro/introduction.do)》
-  - 22:05《[Skool of K-Pop](https://web.archive.org/web/20190317080352/http://tbs.seoul.kr/cont/eFM/Skool/intro/intro.do?programId=PG2061194E)》
-  - 00:00《[Frenzy Friends](https://web.archive.org/web/20190317080347/http://tbs.seoul.kr/cont/eFM/Frenzy/intro/intro.do?programId=PG2061205E)》
-  - 02:00《[Sound Unbound](https://web.archive.org/web/20161220031536/http://www.tbs.seoul.kr/cont/eFM/Soundunbound/introduction/introduction.do)》
+  - 05:00《[Jumpstart](http://tbs.seoul.kr/cont/eFM/jumpstart/Introduction/intro.do?programId=PG2061110E)》
+  - 07:00《[Weekly Review](http://tbs.seoul.kr/cont/eFM/WeeklyReview/introduction/introduction.do?programId=PG2060181E)》
+  - 08:00《[Real Mom Real Talk](http://tbs.seoul.kr/cont/eFM/RMRT/intro/intro.do?programId=PG2061151E)》
+  - 09:00《[Sunday Studio](http://tbs.seoul.kr/cont/eFM/sundaystudio/introduction/introduction.do?programId=PG2061269E)》
+  - 12:10《[All Things K-Pop](http://tbs.seoul.kr/cont/eFM/AthingsKPOP/intro/intro.do?programId=PG2061111E)》
+  - 14:00《[The Steve Hatherly Show](http://tbs.seoul.kr/cont/eFM/HatherlyShow/introduction/introduction.do?programId=PG2060175E)》
+  - 16:00《[Men On Air](http://tbs.seoul.kr/cont/eFM/MenOnAir/Introduction/intro.do?programId=PG2061035E)》
+  - 18:00《[The Scoop](http://tbs.seoul.kr/cont/eFM/thescoop/intro/introduction.do?programId=PG2061261E)》
+  - 20:00《[1013신식항](http://tbs.seoul.kr/cont/eFM/1013/intro/introduction.do?programId=PG2061112E)》
+  - 21:00《[악동서울](http://tbs.seoul.kr/cont/eFM/Akdongseoul/mcinfo/mcinfo.do?programId=PG2061113E)》
+  - 22:00《[Skool of K-Pop](http://tbs.seoul.kr/cont/eFM/Skool/intro/intro.do?programId=PG2061194E)》
+  - 00:00《[Super Radio (CHN)](http://tbs.seoul.kr/cont/eFM/superrch/potbanglist/PhotoList.do?programId=PG2061279E)》
 
 ## 같이 보기
+
+※ 주의사항 ※ 이 방송 채널은 행정안전부, 현대캐피탈, 공익광고협의회가 지정한 IPTV형 방송 채널입니다. 같이 보기 부분을 함부로 수정하지 마시고, 늘 눈으로 봐 주시기 바랍니다.
 
   - [MBC 표준FM](../Page/MBC_표준FM.md "wikilink")
   - [MBC TV](../Page/MBC_TV.md "wikilink")

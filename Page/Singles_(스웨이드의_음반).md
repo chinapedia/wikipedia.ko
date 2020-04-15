@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Singles \( \)](https://ko.wikipedia.org/wiki/Singles_\(_\)).
+> This article is converted from Wikipedia: [Singles \(스웨이드의 음반\)](https://ko.wikipedia.org/wiki/Singles_\(스웨이드의_음반\)).
 
 
 ## Track listing

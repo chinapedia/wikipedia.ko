@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [CD ](https://ko.wikipedia.org/wiki/CD_).
+> This article is converted from Wikipedia: [CD 과달라하라](https://ko.wikipedia.org/wiki/CD_과달라하라).
 
 
 **클럽 데포르티보 과달라하라**()는 [멕시코](../Page/멕시코.md "wikilink") [과달라하라의](../Page/과달라하라_\(멕시코\).md "wikilink") [축구](../Page/축구.md "wikilink") 클럽으로, 줄여서 **과달라하라**() 또는 **치바스**()라는 별명으로도 부른다.

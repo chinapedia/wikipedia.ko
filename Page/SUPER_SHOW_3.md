@@ -27,7 +27,7 @@
 <td><p><a href="../Page/서울특별시.md" title="wikilink">서울</a></p></td>
 <td></td>
 <td><p><a href="../Page/올림픽체조경기장.md" title="wikilink">올림픽체조경기장</a>[2]</p></td>
-<td><p>통산 26,586명</p></td>
+<td><p>통산 27,586명</p></td>
 </tr>
 <tr class="even">
 <td><p>2010년 8월 15일</p></td>
@@ -41,7 +41,7 @@
 <td><p><a href="../Page/청두시.md" title="wikilink">청두</a></p></td>
 <td></td>
 <td><p>국신 체육관</p></td>
-<td><p>12,135명</p></td>
+<td><p>12,315명</p></td>
 </tr>
 <tr class="even">
 <td><p>2010년 10월 23일</p></td>
@@ -61,7 +61,7 @@
 <td><p>2010년 12월 25일</p></td>
 <td><p><a href="../Page/광저우시.md" title="wikilink">광저우</a></p></td>
 <td><p>웨슈산 스타디움</p></td>
-<td><p>20,203명</p></td>
+<td><p>22,603명</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -83,7 +83,7 @@
 <td><p><a href="../Page/싱가포르.md" title="wikilink">싱가포르</a></p></td>
 <td></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/싱가포르_인도어_스타디움" title="wikilink">싱가포르 인도어 스타디움</a>[3]</p></td>
-<td><p>통산 22,190명</p></td>
+<td><p>통산 22,290명</p></td>
 </tr>
 <tr class="even">
 <td><p>2011년 1월 30일</p></td>
@@ -132,7 +132,7 @@
 <td><p><a href="../Page/타이베이시.md" title="wikilink">타이베이</a></p></td>
 <td></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/타이베이_아레나" title="wikilink">타이베이 아레나</a>[5]</p></td>
-<td><p>통산 30,534명</p></td>
+<td><p>통산 34,524명</p></td>
 </tr>
 <tr class="odd">
 <td><p>2011년 3월 12일</p></td>
@@ -163,7 +163,7 @@
 <td><p>10,513명</p></td>
 </tr>
 <tr class="odd">
-<td><p>총 누적 관객 262,438명</p></td>
+<td><p>총 누적 관객 270,108명</p></td>
 <td></td>
 <td></td>
 <td></td>

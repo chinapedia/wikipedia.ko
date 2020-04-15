@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KARA ](https://ko.wikipedia.org/wiki/KARA_).
+> This article is converted from Wikipedia: [KARA의 이중생활](https://ko.wikipedia.org/wiki/KARA의_이중생활).
 
 
 《**URAKARA**》 (우라카라)는 [일본](../Page/일본.md "wikilink")에서 [2011년](../Page/2011년.md "wikilink") [1월 14일부터](../Page/1월_14일.md "wikilink") 4월 8일까지 방송된 [텔레비전 드라마이다](../Page/텔레비전_드라마.md "wikilink"). 매주 금요일 24시 12분부터 24시 53분까지 [TV 도쿄](../Page/TV_도쿄.md "wikilink") [드라마 24에서](../Page/드라마_24.md "wikilink") 방송됐다. 일본에서 2010년에 데뷔한 [대한민국](../Page/대한민국.md "wikilink")의 아이돌 [카라가](../Page/카라_\(음악_그룹\).md "wikilink") 주연이며, 한국에는 CJ 미디어(현 [CJ E\&M](../Page/CJ_E&M.md "wikilink"))의 케이블 채널 [tvN](https://ko.wikipedia.org/wiki/tvN "wikilink")에서 《**KARA의 이중생활**》이라는 제목으로 방송됐다.

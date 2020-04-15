@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  FC](https://ko.wikipedia.org/wiki/__FC).
+> This article is converted from Wikipedia: [이스트 파이프 FC](https://ko.wikipedia.org/wiki/이스트_파이프_FC).
 
 
 **이스트 파이프 FC**(East Fife Football Club, East Fife F.C.)는 [1903년](../Page/1903년.md "wikilink")에 창단된 [스코틀랜드](../Page/스코틀랜드.md "wikilink") [파이프의](https://ko.wikipedia.org/wiki/파이프_\(의회_구역\) "wikilink") 축구 클럽으로, 줄여서 **더 파이프**(The Fife) 또는 **더 파이퍼스**(The Fifers)라고 부르기도 한다. 현재 [스코틀랜드 풋볼 리그 2부에서](https://ko.wikipedia.org/wiki/스코틀랜드_풋볼_리그_2부 "wikilink") 활동하고 있다.

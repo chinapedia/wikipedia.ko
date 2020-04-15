@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ \(TOKIO \)](https://ko.wikipedia.org/wiki/_\(TOKIO_\)).
+> This article is converted from Wikipedia: [편지 \(TOKIO의 노래\)](https://ko.wikipedia.org/wiki/편지_\(TOKIO의_노래\)).
 
 
 〈**편지**〉()는 [TOKIO](../Page/TOKIO.md "wikilink")의 47번째 [싱글이다](../Page/싱글_\(음악\).md "wikilink").

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KDB](https://ko.wikipedia.org/wiki/KDB).
+> This article is converted from Wikipedia: [KDB금융그룹](https://ko.wikipedia.org/wiki/KDB금융그룹).
 
 
 **KDB금융그룹**은 [2009년](../Page/2009년.md "wikilink") [10월 28일에](../Page/10월_28일.md "wikilink") 설립한 금융그룹회사였다. [서울특별시](../Page/서울특별시.md "wikilink") [영등포구](../Page/영등포구.md "wikilink") 여의도동 16-3 산업은행 본점 서관 8층에 위치하고 있다. 금융서비스 역량 강화 및 원활한 민영화를 추진하기 위하여 한국산업은행법 및 금융지주회사법에 근거하여 상법에 따라 2009년 10월 28일에 설립된 [금융위원회](https://ko.wikipedia.org/wiki/금융위원회 "wikilink") 산하의 [기타공공기관](https://ko.wikipedia.org/wiki/기타공공기관 "wikilink")으로 지정되었으나, [2012년](../Page/2012년.md "wikilink") [1월 31일](../Page/1월_31일.md "wikilink") 기획재정부장관이 [기타공공기관](https://ko.wikipedia.org/wiki/기타공공기관 "wikilink") 지정을 해제하였다. [KDB산업은행](https://ko.wikipedia.org/wiki/KDB산업은행 "wikilink"), [KDB생명](https://ko.wikipedia.org/wiki/KDB생명 "wikilink"), [KDB캐피탈](https://ko.wikipedia.org/wiki/KDB캐피탈 "wikilink") 등을 자회사로 두고 있었다. [2015년](../Page/2015년.md "wikilink") [1월 1일에](../Page/1월_1일.md "wikilink") 다시 개정된 한국산업은행법에 의거하여 자회사인 [한국산업은행](../Page/한국산업은행.md "wikilink")으로 재흡수되었다.

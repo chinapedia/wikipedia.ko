@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [USS ](https://ko.wikipedia.org/wiki/USS_).
+> This article is converted from Wikipedia: [USS 디파이언트](https://ko.wikipedia.org/wiki/USS_디파이언트).
 
 
 **USS 디파이언트**()는 DS9의 주 함선이며 디파이언트급 함선의 프로토타입 함선이다. 제식번호는 NX-74205이다. 2370년 타입 I이 진수, 취역하였으며 2375년 파괴되었고, 이에 똑같은 모양의 타입 II로 바꾸어, 2375년 현재 취역중이다. 연방의 가장 강력한 호위함(호위함이라 보기는 어렵다)이며 연방에서는 유일하게 클로킹(은폐) 장치가 탑재되어 있다. 이 클로킹 장치는 2311년 연방이 로뮬런 제국과 체결했던 알제론 조약(Treaty of Algeron)에 바탕을 두어 연방이 감마 사분면에서 도미니언에 대해 얻은, 가능한 모든 정보를 로뮬런에게 제공해 주는 대가로 로뮬런들이 1기를 빌려 준 것이다.

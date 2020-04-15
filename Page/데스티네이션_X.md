@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ X](https://ko.wikipedia.org/wiki/_X).
+> This article is converted from Wikipedia: [데스티네이션 X](https://ko.wikipedia.org/wiki/데스티네이션_X).
 
 
 **데스티네이션 엑스**(Destination X)는 [임팩트 레슬링이](../Page/임팩트_레슬링.md "wikilink") 과거에 개최하던 페이퍼뷰 이다. 하지만 2013년부터 임팩트 특집방송으로 변경되면서 명칭이 임팩트 : 데스티네이션 엑스로 변경되었다.

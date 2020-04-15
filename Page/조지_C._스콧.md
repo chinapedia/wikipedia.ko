@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ C. ](https://ko.wikipedia.org/wiki/_C._).
+> This article is converted from Wikipedia: [조지 C. 스콧](https://ko.wikipedia.org/wiki/조지_C._스콧).
 
 
 **조지 캠벨 스콧**(, [1927년](../Page/1927년.md "wikilink") [10월 18일](../Page/10월_18일.md "wikilink") \~ [1999년](../Page/1999년.md "wikilink") [9월 22일](../Page/9월_22일.md "wikilink"))은 [미국](../Page/미국.md "wikilink")의 [배우](../Page/배우.md "wikilink")이다.

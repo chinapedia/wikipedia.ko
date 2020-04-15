@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ QQ](https://ko.wikipedia.org/wiki/_QQ).
+> This article is converted from Wikipedia: [체리 QQ](https://ko.wikipedia.org/wiki/체리_QQ).
 
 
 [thumb](https://ko.wikipedia.org/wiki/파일:Chery_QQ_Ph.JPG "wikilink") [thumb](https://ko.wikipedia.org/wiki/파일:Chery_QQ_side_-_Morocco.jpg "wikilink") [thumb](https://ko.wikipedia.org/wiki/파일:Chery_QQ_rear_-_Morocco.jpg "wikilink") **체리 QQ**(Chery QQ 개발코드명:S11)은 [중국의](../Page/중화인민공화국.md "wikilink") [체리기차](https://ko.wikipedia.org/wiki/체리기차 "wikilink")가 제조 및 판매하는 [경차](../Page/경자동차.md "wikilink")(일부 소형 승용차 사양도 있음)이다. [제너럴 모터스가](../Page/제너럴_모터스.md "wikilink") 중국에서 판매하고 있는 경합 차종 [쉐보레 스파크](../Page/쉐보레_스파크.md "wikilink")([대우 마티즈](../Page/GM대우_마티즈.md "wikilink"))와 매우 흡사하다는 이유로 고소한 것으로 유명하다. [러시아](../Page/러시아.md "wikilink")에서는 Sweet의 명칭으로 판매되고 있다. [싱가포르](../Page/싱가포르.md "wikilink")에서도 시판되고 있어 우핸들 사양도 존재한다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [PAPARAZZI \( \)](https://ko.wikipedia.org/wiki/PAPARAZZI_\(_\)).
+> This article is converted from Wikipedia: [PAPARAZZI \(소녀시대의 노래\)](https://ko.wikipedia.org/wiki/PAPARAZZI_\(소녀시대의_노래\)).
 
 
 "**Paparazzi**'"는 대한민국의 걸 그룹 [소녀시대](../Page/소녀시대.md "wikilink")의 네 번째 싱글이다. 이 싱글은 2012년 6월 27일 발매되었다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Gadget-RollbackComment.js](https://ko.wikipedia.org/wiki/:Gadget-RollbackComment.js).
+> This article is converted from Wikipedia: [미디어위키:Gadget-RollbackComment.js](https://ko.wikipedia.org/wiki/미디어위키:Gadget-RollbackComment.js).
 
 
 /\*

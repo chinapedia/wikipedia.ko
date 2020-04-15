@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [I](https://ko.wikipedia.org/wiki/I).
+> This article is converted from Wikipedia: [I리그](https://ko.wikipedia.org/wiki/I리그).
 
 
 **I리그**(I-League)는 [2007년](../Page/2007년.md "wikilink")에 시작된 [인도](../Page/인도.md "wikilink")의 최상위 [축구](../Page/축구.md "wikilink") 리그로, 14개 팀이 참가한다. I리그가 출범하기 이전인 [1996년](../Page/1996년.md "wikilink")부터 [2007년](../Page/2007년.md "wikilink")까지는 내셔널 풋볼 리그(National Football League)가 인도의 축구 리그 역할을 맡았다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [2014 FIFA     E](https://ko.wikipedia.org/wiki/2014_FIFA_____E).
+> This article is converted from Wikipedia: [2014년 FIFA 월드컵 유럽 지역 예선 E조](https://ko.wikipedia.org/wiki/2014년_FIFA_월드컵_유럽_지역_예선_E조).
 
 
 **[2014년 FIFA 월드컵 유럽 지역 예선](../Page/2014년_FIFA_월드컵_유럽_지역_예선.md "wikilink") E조**는 [노르웨이를](../Page/노르웨이_축구_국가대표팀.md "wikilink") 비롯하여 [슬로베니아](../Page/슬로베니아_축구_국가대표팀.md "wikilink"), [스위스](../Page/스위스_축구_국가대표팀.md "wikilink"), [알바니아](../Page/알바니아_축구_국가대표팀.md "wikilink"), [키프로스](../Page/키프로스_축구_국가대표팀.md "wikilink"), [아이슬란드로](../Page/아이슬란드_축구_국가대표팀.md "wikilink") 구성되어 있다.

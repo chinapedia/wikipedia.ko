@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Piece \(  \)](https://ko.wikipedia.org/wiki/Piece_\(__\)).
+> This article is converted from Wikipedia: [Piece \(아라가키 유이의 노래\)](https://ko.wikipedia.org/wiki/Piece_\(아라가키_유이의_노래\)).
 
 
 **Piece**는 [2009년](../Page/2009년.md "wikilink") [2월 25일에](../Page/2월_25일.md "wikilink") 발매 된 [아라가키 유이의](../Page/아라가키_유이.md "wikilink") 세 번째 싱글이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [HTC \(\)](https://ko.wikipedia.org/wiki/HTC_\(\)).
+> This article is converted from Wikipedia: [HTC \(기업\)](https://ko.wikipedia.org/wiki/HTC_\(기업\)).
 
 
 '''HTC 코퍼레이션 '''(, )은 [중화민국](../Page/중화민국.md "wikilink")의 [휴대전화](https://ko.wikipedia.org/wiki/휴대전화 "wikilink") 제조및 판매회사이다.

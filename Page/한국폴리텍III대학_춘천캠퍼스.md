@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [III ](https://ko.wikipedia.org/wiki/III_).
+> This article is converted from Wikipedia: [한국폴리텍III대학 춘천캠퍼스](https://ko.wikipedia.org/wiki/한국폴리텍III대학_춘천캠퍼스).
 
 
 **한국폴리텍III대학 춘천캠퍼스**(韓國폴리텍三大學 春川캠퍼스, )는 [강원도](https://ko.wikipedia.org/wiki/강원도_\(남\) "wikilink") [춘천시](https://ko.wikipedia.org/wiki/춘천시 "wikilink")에 위치한 한국폴리텍III대학의 본부대학지역이다.

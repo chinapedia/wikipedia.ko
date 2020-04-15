@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [MAA \(\)](https://ko.wikipedia.org/wiki/MAA_\(\)).
+> This article is converted from Wikipedia: [MAA \(가수\)](https://ko.wikipedia.org/wiki/MAA_\(가수\)).
 
 
 **MAA**는 2006년부터 2010년까지 **MAR**라는 이름으로 [MarBell](../Page/MarBell.md "wikilink")에서 [보컬로](https://ko.wikipedia.org/wiki/가수 "wikilink") 활동하다, 해체 이후 [솔로](https://ko.wikipedia.org/wiki/솔로 "wikilink")로 활동하고 있는 [일본](../Page/일본.md "wikilink")의 [싱어송라이터](https://ko.wikipedia.org/wiki/싱어송라이터 "wikilink")이다.

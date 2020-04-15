@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [F.  ](https://ko.wikipedia.org/wiki/F.__).
+> This article is converted from Wikipedia: [F. 머리 에이브러햄](https://ko.wikipedia.org/wiki/F._머리_에이브러햄).
 
 
 **F. 머리 에이브러햄**((출생명은 **머리 에이브러햄** ), , [1939년](../Page/1939년.md "wikilink") [10월 24일](../Page/10월_24일.md "wikilink") \~ )은 [미국](../Page/미국.md "wikilink")의 [배우](../Page/배우.md "wikilink")이다.

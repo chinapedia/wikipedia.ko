@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
+> This article is converted from Wikipedia: [끄룽타이은행 FC](https://ko.wikipedia.org/wiki/끄룽타이은행_FC).
 
 
 **끄룽타이 은행 FC**(, )는 [방콕](../Page/방콕.md "wikilink")을 연고로 하던 [태국](../Page/태국.md "wikilink")의 축구 클럽이다. [1977년](../Page/1977년.md "wikilink")에 [끄룽타이 은행](https://ko.wikipedia.org/wiki/끄룽타이_은행 "wikilink") 산하 축구단으로 창단했으며 [타이 프리미어리그에](https://ko.wikipedia.org/wiki/타이_프리미어리그 "wikilink") 참여했다. [2009년](../Page/2009년.md "wikilink") 1월에 [방콕 글라스 FC에](https://ko.wikipedia.org/wiki/방콕_글라스_FC "wikilink") 매각되면서 해체되었다.

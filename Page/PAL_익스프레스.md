@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [PAL ](https://ko.wikipedia.org/wiki/PAL_).
+> This article is converted from Wikipedia: [PAL 익스프레스](https://ko.wikipedia.org/wiki/PAL_익스프레스).
 
 
-**PAL 익스프레스** ()은 [필리핀](../Page/필리핀.md "wikilink")의 [저비용 항공사로](../Page/저비용_항공사.md "wikilink") [2008년](../Page/2008년.md "wikilink")에 설립한 항공사로 [허브 공항은](../Page/허브_공항.md "wikilink") [마닐라](../Page/마닐라.md "wikilink")에 있는 [니노이 아키노 국제공항과](https://ko.wikipedia.org/wiki/니노이_아키노_국제공항 "wikilink") [세부](../Page/세부.md "wikilink")에 있는 [막탄 세부 국제공항](https://ko.wikipedia.org/wiki/막탄_세부_국제공항 "wikilink"), [클라크 국제공항](../Page/클라크_국제공항.md "wikilink"), [프란시스코 방고이 국제공항이](../Page/프란시스코_방고이_국제공항.md "wikilink") 있다.
+**PAL 익스프레스**()은 [필리핀](../Page/필리핀.md "wikilink")의 [저비용 항공사로](../Page/저비용_항공사.md "wikilink") [2008년](../Page/2008년.md "wikilink")에 설립한 항공사로 [허브 공항은](../Page/허브_공항.md "wikilink") [마닐라](../Page/마닐라.md "wikilink")에 있는 [니노이 아키노 국제공항과](https://ko.wikipedia.org/wiki/니노이_아키노_국제공항 "wikilink") [세부](../Page/세부.md "wikilink")에 있는 [막탄 세부 국제공항](https://ko.wikipedia.org/wiki/막탄_세부_국제공항 "wikilink"), [클라크 국제공항](../Page/클라크_국제공항.md "wikilink"), [프란시스코 방고이 국제공항이](../Page/프란시스코_방고이_국제공항.md "wikilink") 있다.
 
 ## 역사
 
@@ -36,7 +36,7 @@
 
 ## 외부 링크
 
-  - [PAL 익스프레스 공식 홈페이지](http://www.palexpressair.com)
+  - [PAL 익스프레스 공식 홈페이지](https://web.archive.org/web/20190721140621/http://palexpressair.com/)
 
 [분류:2008년 설립](https://ko.wikipedia.org/wiki/분류:2008년_설립 "wikilink") [분류:필리핀의 항공사](https://ko.wikipedia.org/wiki/분류:필리핀의_항공사 "wikilink") [분류:저비용 항공사](https://ko.wikipedia.org/wiki/분류:저비용_항공사 "wikilink") [분류:필리핀 항공](https://ko.wikipedia.org/wiki/분류:필리핀_항공 "wikilink")
 

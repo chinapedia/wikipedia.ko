@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Mr.Moonlight \~ \~](https://ko.wikipedia.org/wiki/Mr.Moonlight_\~_\~).
+> This article is converted from Wikipedia: [Mr.Moonlight \~사랑의 빅밴드\~](https://ko.wikipedia.org/wiki/Mr.Moonlight_\~사랑의_빅밴드\~).
 
 
 **Mr.Moonlight \~아이노 빅밴드\~**()는 [2001년](../Page/2001년.md "wikilink") [10월 31일에](../Page/10월_31일.md "wikilink") 발매 된 [모닝구무스메](../Page/모닝구무스메.md "wikilink")의 열세 번째 싱글이다.

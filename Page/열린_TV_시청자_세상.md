@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ TV  ](https://ko.wikipedia.org/wiki/_TV__).
+> This article is converted from Wikipedia: [열린 TV 시청자 세상](https://ko.wikipedia.org/wiki/열린_TV_시청자_세상).
 
 
 《**열린 TV 시청자 세상**》은 [SBS TV에서](../Page/SBS_TV.md "wikilink") 매주 [목요일](../Page/목요일.md "wikilink") 오전 10시 30분부터 11시 30분까지 방송되는 TV 비평 옴부즈맨 프로그램이다.

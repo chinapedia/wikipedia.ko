@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [1989 CONCACAF  ](https://ko.wikipedia.org/wiki/1989_CONCACAF__).
+> This article is converted from Wikipedia: [1989년 CONCACAF 선수권 대회](https://ko.wikipedia.org/wiki/1989년_CONCACAF_선수권_대회).
 
 
 **1989년 CONCACAF 선수권 대회**는 [1989년](../Page/1989년.md "wikilink") [3월 19일부터](../Page/3월_19일.md "wikilink") [11월 19일까지](../Page/11월_19일.md "wikilink") 열린 10번째이자 마지막 [CONCACAF 선수권 대회이다](../Page/CONCACAF_선수권_대회.md "wikilink"). 이 대회는 특정 개최국 없이 모든 경기가 [홈 앤 어웨이](https://ko.wikipedia.org/wiki/홈_앤_어웨이 "wikilink") 방식으로 진행되었으며 [1990년 FIFA 월드컵](https://ko.wikipedia.org/wiki/1990년_FIFA_월드컵 "wikilink") 북중미카리브 지역 예선을 겸하기도 하였다. 우승을 차지한 [코스타리카](../Page/코스타리카_축구_국가대표팀.md "wikilink"), 준우승을 차지한 [미국이](../Page/미국_축구_국가대표팀.md "wikilink") 1990년 FIFA 월드컵 본선에 진출했다.

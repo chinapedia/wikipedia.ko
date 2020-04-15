@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [JR  ](https://ko.wikipedia.org/wiki/JR__).
+> This article is converted from Wikipedia: [JR 오구라 역](https://ko.wikipedia.org/wiki/JR_오구라_역).
 
 
 **JR 오구라 역**()은 [일본](../Page/일본.md "wikilink") [교토부](../Page/교토부.md "wikilink") [우지 시에](https://ko.wikipedia.org/wiki/우지_시 "wikilink") 있는 [서일본 여객철도의](https://ko.wikipedia.org/wiki/서일본_여객철도 "wikilink") [철도역](../Page/철도역.md "wikilink")이다.

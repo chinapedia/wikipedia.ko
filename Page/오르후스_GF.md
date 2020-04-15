@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ GF](https://ko.wikipedia.org/wiki/_GF).
+> This article is converted from Wikipedia: [오르후스 GF](https://ko.wikipedia.org/wiki/오르후스_GF).
 
 
 **오르후스 GF**(Aarhus Gymnastikforening, AGF Aarhus, 약칭 **AGF**)는 [1880년](../Page/1880년.md "wikilink")에 창단된 [덴마크](../Page/덴마크.md "wikilink") [오르후스](../Page/오르후스.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽으로, 덴마크에서 가장 오래된 스포츠 클럽 가운데 하나로 손꼽힌다.

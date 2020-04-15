@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Touch \(NEWS \)](https://ko.wikipedia.org/wiki/Touch_\(NEWS_\)).
+> This article is converted from Wikipedia: [Touch \(NEWS의 음반\)](https://ko.wikipedia.org/wiki/Touch_\(NEWS의_음반\)).
 
 
 《**touch**》(터치)는 [NEWS](https://ko.wikipedia.org/wiki/NEWS "wikilink")의 1번째 [정규 음반이다](../Page/정규_음반.md "wikilink").

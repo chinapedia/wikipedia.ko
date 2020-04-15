@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [WWE   ](https://ko.wikipedia.org/wiki/WWE___).
+> This article is converted from Wikipedia: [WWE의 텔레비전 프로그램 목록](https://ko.wikipedia.org/wiki/WWE의_텔레비전_프로그램_목록).
 
 
 [월드 레슬링 엔터테인먼트](https://ko.wikipedia.org/wiki/월드_레슬링_엔터테인먼트 "wikilink") (WWE)는 전 세계적으로 방영되고 있는데, 주로 TV 쇼 , 영화 , 온라인방송 , VOD 서비스 , 페이 퍼 뷰를 방영하고 있다.

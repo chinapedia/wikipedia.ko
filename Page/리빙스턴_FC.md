@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
+> This article is converted from Wikipedia: [리빙스턴 FC](https://ko.wikipedia.org/wiki/리빙스턴_FC).
 
 
 **리빙스턴 FC**(Livingston Football Club, Livingston F.C.)는 [1943년](../Page/1943년.md "wikilink")에 창단된 [스코틀랜드](../Page/스코틀랜드.md "wikilink") [리빙스턴의](https://ko.wikipedia.org/wiki/리빙스턴_\(스코틀랜드\) "wikilink") 축구 클럽으로, 현재 [스코틀랜드 풋볼 리그 2부에서](https://ko.wikipedia.org/wiki/스코틀랜드_풋볼_리그_2부 "wikilink") 활동하고 있다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [LG  ](https://ko.wikipedia.org/wiki/LG__).
+> This article is converted from Wikipedia: [LG 옵티머스 원](https://ko.wikipedia.org/wiki/LG_옵티머스_원).
 
 
 **LG 싸이언 옵티머스 원**(, LG P500)은 [LG전자](../Page/LG전자.md "wikilink")가 [2010년](../Page/2010년.md "wikilink") [10월](../Page/10월.md "wikilink")에 발매된 [안드로이드](../Page/안드로이드_\(운영_체제\).md "wikilink") [스마트폰](../Page/스마트폰.md "wikilink")이다. 본래는 [구글](../Page/구글.md "wikilink")과 [HTC 코퍼레이션이](https://ko.wikipedia.org/wiki/HTC_코퍼레이션 "wikilink") 직접 설계하고 유통하기 위해 [LG전자](../Page/LG전자.md "wikilink")와 공동 협력하여 DTC(Direct-To-Consumer) [스마트폰](../Page/스마트폰.md "wikilink")으로 개발하였으나 [HD2의](../Page/HTC_HD2.md "wikilink") 온라인 유통 실패로 인하여 [HTC 코퍼레이션에서의](https://ko.wikipedia.org/wiki/HTC_코퍼레이션 "wikilink") 판매를 통한 판매가 어려워지자 [구글](../Page/구글.md "wikilink")이 [LG전자](../Page/LG전자.md "wikilink")에 판매권을 모두 이양하여 현재와 같이 출시되었다.\[1\]

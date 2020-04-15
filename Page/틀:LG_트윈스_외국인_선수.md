@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:LG   ](https://ko.wikipedia.org/wiki/:LG___).
+> This article is converted from Wikipedia: [틀:LG 트윈스 외국인 선수](https://ko.wikipedia.org/wiki/틀:LG_트윈스_외국인_선수).
 
 
 <onlyinclude></onlyinclude>

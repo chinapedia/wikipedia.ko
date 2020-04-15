@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ATC  P02](https://ko.wikipedia.org/wiki/ATC__P02).
+> This article is converted from Wikipedia: [ATC 코드 P02](https://ko.wikipedia.org/wiki/ATC_코드_P02).
 
 
 **ATC 코드 P02**는 [ATC 코드의](https://ko.wikipedia.org/wiki/ATC_코드 "wikilink") 구충제로 작용하는 약물을 정리한 코드이다. \[1\] **ATC 코드** P 구충제, 살충제 및 기피제의 하위그룹을 이룬다.

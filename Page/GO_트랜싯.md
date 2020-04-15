@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [GO ](https://ko.wikipedia.org/wiki/GO_).
+> This article is converted from Wikipedia: [GO 트랜싯](https://ko.wikipedia.org/wiki/GO_트랜싯).
 
 
 **GO 트랜싯**(GO Transit, 약칭 GO, GOT)은 [캐나다](../Page/캐나다.md "wikilink") 남부 [온타리오주](https://ko.wikipedia.org/wiki/온타리오주 "wikilink")의 [대중 교통](https://ko.wikipedia.org/wiki/대중_교통 "wikilink") 체계이다. 고 트랜싯은 일반적으로 광역 토론토 지역 승객들을 수송하며, 더 나아가 나이아가라 등의 지역까지 운행하기도 한다. GO는 통근 열차와 버스로 연간 5500만 명의 승객을 실어나르고, 통근 열차는 이층 [디젤 기관차로](../Page/디젤_기관차.md "wikilink") 운행하며, 버스는 일부 버스에 한해 이층 버스로 운행한다.

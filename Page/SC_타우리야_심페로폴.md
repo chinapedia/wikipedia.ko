@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SC  ](https://ko.wikipedia.org/wiki/SC__).
+> This article is converted from Wikipedia: [SC 타우리야 심페로폴](https://ko.wikipedia.org/wiki/SC_타우리야_심페로폴).
 
 
 **SC 타우리야 심페로폴**(, , , )은 [크림 자치 공화국](../Page/크림_자치_공화국.md "wikilink") [심페로폴](../Page/심페로폴.md "wikilink")을 연고로, [헤르손주](https://ko.wikipedia.org/wiki/헤르손주 "wikilink") [베리슬라우](https://ko.wikipedia.org/wiki/베리슬라우 "wikilink")를 임시 연고지로 하는 [우크라이나](../Page/우크라이나.md "wikilink")의 축구 클럽이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ TV](https://ko.wikipedia.org/wiki/_TV).
+> This article is converted from Wikipedia: [구글 TV](https://ko.wikipedia.org/wiki/구글_TV).
 
 
 **구글 TV**(Google TV)는 [안드로이드](../Page/안드로이드_\(운영_체제\).md "wikilink") [운영 체제에](../Page/운영_체제.md "wikilink") 기반을 둔 [HDTV](../Page/고선명_텔레비전.md "wikilink"), [셋톱박스](../Page/셋톱박스.md "wikilink") 등을 위한 서비스이다. [구글](../Page/구글.md "wikilink")이 개발했으며 이 프로젝트는 [2010년](../Page/2010년.md "wikilink") [10월 6일](../Page/10월_6일.md "wikilink") 구글과 파트너들이 구글 I/O에서 공식 공표했다.

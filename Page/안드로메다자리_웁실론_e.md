@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  e](https://ko.wikipedia.org/wiki/__e).
+> This article is converted from Wikipedia: [안드로메다자리 웁실론 e](https://ko.wikipedia.org/wiki/안드로메다자리_웁실론_e).
 
 
 **안드로메다자리 웁실론 e**는 [안드로메다자리 웁실론](../Page/안드로메다자리_웁실론.md "wikilink") 주위를 공전하고 있는 가장 바깥쪽의 [외계 행성이다](../Page/외계_행성.md "wikilink"). 이 행성은 지금까지 알려진 어떤 외계 행성보다 목성과 비슷하다.

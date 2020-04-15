@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TJB  ](https://ko.wikipedia.org/wiki/TJB__).
+> This article is converted from Wikipedia: [TJB 생방송 투데이](https://ko.wikipedia.org/wiki/TJB_생방송_투데이).
 
 
 《**TJB 생방송 투데이**》는 월요일 \~ 목요일 저녁 7시에 방송되는 [대전방송](../Page/대전방송.md "wikilink")의 저녁 시사교양 프로그램이다.
@@ -23,6 +23,7 @@
   - 권기호 아나운서
   - 유수연 아나운서
   - 이정훈 아나운서
+  - 조윤경 아나운서
 
 ## 같이 보기
 

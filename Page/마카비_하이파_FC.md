@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  FC](https://ko.wikipedia.org/wiki/__FC).
+> This article is converted from Wikipedia: [마카비 하이파 FC](https://ko.wikipedia.org/wiki/마카비_하이파_FC).
 
 
 **마카비 하이파 FC**(, )는 [1913년](../Page/1913년.md "wikilink")에 창설된 [이스라엘](../Page/이스라엘.md "wikilink") [하이파](../Page/하이파.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다.

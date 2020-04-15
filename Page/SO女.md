@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SO](https://ko.wikipedia.org/wiki/SO).
+> This article is converted from Wikipedia: [SO女](https://ko.wikipedia.org/wiki/SO女).
 
 
 《**SO女**》는 [대한민국](../Page/대한민국.md "wikilink")의 [걸 그룹](../Page/걸_그룹.md "wikilink") [레인보우의](https://ko.wikipedia.org/wiki/레인보우_\(음악_그룹\) "wikilink") 두 번째 미니 음반이다. 타이틀 곡은 〈TO ME (내게로...)〉로, 2011년 4월 7일 CJ E\&M을 통하여 발매되었다.

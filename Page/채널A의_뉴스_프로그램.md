@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [A  ](https://ko.wikipedia.org/wiki/A__).
+> This article is converted from Wikipedia: [채널A의 뉴스 프로그램](https://ko.wikipedia.org/wiki/채널A의_뉴스_프로그램).
 
 
 **[채널A](../Page/채널A.md "wikilink")의 뉴스 프로그램**은 다음과 같다.

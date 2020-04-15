@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  FC](https://ko.wikipedia.org/wiki/__FC).
+> This article is converted from Wikipedia: [에님바 인터내셔널 FC](https://ko.wikipedia.org/wiki/에님바_인터내셔널_FC).
 
 
 **에님바 인터내셔널 FC**() 또는 **에님바**()는 [나이지리아](../Page/나이지리아.md "wikilink") [아바의](https://ko.wikipedia.org/wiki/아바_\(나이지리아\) "wikilink") [축구](../Page/축구.md "wikilink") 클럽 팀이다. 팀 이름은 [이보어](../Page/이보어.md "wikilink")로 "주민들의 코끼리"를 뜻한다.

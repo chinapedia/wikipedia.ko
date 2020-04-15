@@ -138,6 +138,6 @@
 
 ## 외부 링크
 
-  - [*Love. Angel. Music. Baby.*](http://www.metacritic.com/music/love-angel-music-baby) - [메타크리틱](https://ko.wikipedia.org/wiki/메타크리틱 "wikilink")
+  - [*Love. Angel. Music. Baby.*](http://www.metacritic.com/music/love-angel-music-baby) - [메타크리틱](../Page/메타크리틱.md "wikilink")
 
 [분류:2003년 음반](https://ko.wikipedia.org/wiki/분류:2003년_음반 "wikilink") [분류:영어 음반](https://ko.wikipedia.org/wiki/분류:영어_음반 "wikilink") [분류:댄스 팝 음반](https://ko.wikipedia.org/wiki/분류:댄스_팝_음반 "wikilink") [분류:닥터 드레가 프로듀싱한 음반](https://ko.wikipedia.org/wiki/분류:닥터_드레가_프로듀싱한_음반 "wikilink") [분류:2004년 데뷔 음반](https://ko.wikipedia.org/wiki/분류:2004년_데뷔_음반 "wikilink")

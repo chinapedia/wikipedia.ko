@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Lonely \( EP\)](https://ko.wikipedia.org/wiki/Lonely_\(_EP\)).
+> This article is converted from Wikipedia: [Lonely \(스피카의 EP\)](https://ko.wikipedia.org/wiki/Lonely_\(스피카의_EP\)).
 
 
 《**Lonely**》은 [대한민국](../Page/대한민국.md "wikilink")의 [음악 그룹](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink") [스피카의](../Page/스피카_\(음악_그룹\).md "wikilink") 두 번째 [미니 앨범이자](https://ko.wikipedia.org/wiki/미니_앨범 "wikilink") [타이틀곡이다](https://ko.wikipedia.org/wiki/노래 "wikilink"). 12일 첫 번째 콘셉트 티져가 공개되었고, 16일 타이틀곡 **Lonely**의 티져, 21일 전곡 음원 공개, 23일 오프라인 앨범 발매하였다.

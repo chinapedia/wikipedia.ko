@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [HTC  HD](https://ko.wikipedia.org/wiki/HTC__HD).
+> This article is converted from Wikipedia: [HTC 디자이어 HD](https://ko.wikipedia.org/wiki/HTC_디자이어_HD).
 
 
 **HTC 디자이어 HD**(, 코드네임 : HTC Ace)는 [HTC에서](../Page/HTC_\(기업\).md "wikilink") 만든 글로벌 전략 스마트폰의 이름이다. 2010년 11월 30일 '디자이어 HD'라는 이름으로 [대한민국](../Page/대한민국.md "wikilink")에 [KT](../Page/KT.md "wikilink")를 통해 출시되었다.\[1\]

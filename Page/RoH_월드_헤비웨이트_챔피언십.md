@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [RoH   ](https://ko.wikipedia.org/wiki/RoH___).
+> This article is converted from Wikipedia: [RoH 월드 헤비웨이트 챔피언십](https://ko.wikipedia.org/wiki/RoH_월드_헤비웨이트_챔피언십).
 
 
 [right](https://ko.wikipedia.org/wiki/파일:ROH_World_Championship.jpg "wikilink")

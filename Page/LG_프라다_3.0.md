@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [LG  3.0](https://ko.wikipedia.org/wiki/LG__3.0).
+> This article is converted from Wikipedia: [LG 프라다 3.0](https://ko.wikipedia.org/wiki/LG_프라다_3.0).
 
 
 **LG 프라다 3.0**()은 [LG전자](../Page/LG전자.md "wikilink")가 [2011년](../Page/2011년.md "wikilink") [12월 14일에](../Page/12월_14일.md "wikilink") 출시한 [안드로이드](../Page/안드로이드_\(운영_체제\).md "wikilink") [스마트폰](../Page/스마트폰.md "wikilink")이다.\[1\] [2007년](../Page/2007년.md "wikilink") [프라다폰](../Page/LG_프라다.md "wikilink"), [2008년](../Page/2008년.md "wikilink") [프라다 II에](../Page/LG_프라다_II.md "wikilink") 이어 [LG전자](../Page/LG전자.md "wikilink")와 [프라다](../Page/프라다.md "wikilink")가 공동 기획한 세 번째 휴대 전화로서, 쿼티 슬라이드 형태로 출시된 [프라다 II와는](https://ko.wikipedia.org/wiki/프라다_II "wikilink") 달리 풀터치 형식으로 제작되었다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Step Up \( \)](https://ko.wikipedia.org/wiki/Step_Up_\(_\)).
+> This article is converted from Wikipedia: [Step Up \(미쓰에이의 음반\)](https://ko.wikipedia.org/wiki/Step_Up_\(미쓰에이의_음반\)).
 
 
 "**Step Up**"은 대한민국의 팝 댄스 음악 그룹 [미스에이](https://ko.wikipedia.org/wiki/미스에이 "wikilink")의 두 번째 [싱글 음반으로](../Page/싱글_\(음악\).md "wikilink"), [2010년](../Page/2010년.md "wikilink") [9월 27일](../Page/9월_27일.md "wikilink") [로엔 엔터테인먼트를](https://ko.wikipedia.org/wiki/로엔_엔터테인먼트 "wikilink") 통해 발매되었다. 타이틀곡은 "Breathe"이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ FF](https://ko.wikipedia.org/wiki/_FF).
+> This article is converted from Wikipedia: [말뫼 FF](https://ko.wikipedia.org/wiki/말뫼_FF).
 
 
 **말뫼 FF**(, Malmö FF)는 [1910년](../Page/1910년.md "wikilink")에 창단된 [스웨덴](../Page/스웨덴.md "wikilink") [말뫼](../Page/말뫼.md "wikilink")를 연고지로 하는 [축구](../Page/축구.md "wikilink") 클럽이다. 리그 우승 16회와 컵 대회 우승 14회의 기록을 보유하고 있으며 스웨덴에서 가장 성공한 축구 클럽 가운데 하나로 평가받고 있다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ 3  III](https://ko.wikipedia.org/wiki/_3__III).
+> This article is converted from Wikipedia: [올웨이즈 3번가의 석양 III](https://ko.wikipedia.org/wiki/올웨이즈_3번가의_석양_III).
 
 
 《**올웨이즈 3번가의 석양 '64**》 ()는 사이간 료헤이의 만화 《3번가의 석양》 ()을 원작으로 [2005년](../Page/2005년.md "wikilink"), [2007년](../Page/2007년.md "wikilink")에 이는 제3탄으로 [2012년](../Page/2012년.md "wikilink") [1월 21일에](../Page/1월_21일.md "wikilink") 개봉된 [일본](../Page/일본.md "wikilink") [영화](../Page/영화.md "wikilink")이다. 도호가 배급. 2D/[3D](../Page/3차원_영화.md "wikilink") 동시 상영작으로, [대한민국](../Page/대한민국.md "wikilink")에서는 [2012년 부천국제판타스틱영화제에서](../Page/2012년_부천국제판타스틱영화제.md "wikilink") 상영되었다.

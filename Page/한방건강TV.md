@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TV](https://ko.wikipedia.org/wiki/TV).
+> This article is converted from Wikipedia: [한방건강TV](https://ko.wikipedia.org/wiki/한방건강TV).
 
 
 **한방건강TV**는 대한민국 유일의 한방 전문 채널이었다. 2003년 방송채널 사업자로 등록하여 현인위성방송으로 시작하였으며 2004년 스카이라이프에서 송출을 시작하여 2015년에 폐국했다.

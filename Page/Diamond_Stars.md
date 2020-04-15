@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Diamond Stars](https://ko.wikipedia.org/wiki/Diamond_Stars).
 
 
-**Diamond Stars**는, [동인 게임들에](https://ko.wikipedia.org/wiki/동인_게임 "wikilink") 수록되었던, [시드 사운드의](https://ko.wikipedia.org/wiki/시드_사운드 "wikilink") 음악들로 이루어져 있는, 비정규 음반이다.
+《**Diamond Stars**》는 [동인 게임들에](https://ko.wikipedia.org/wiki/동인_게임 "wikilink") 수록되었던, [시드 사운드의](https://ko.wikipedia.org/wiki/시드_사운드 "wikilink") 음악들로 이루어져 있는, 비정규 음반이다.
 
 ## 수록곡
 

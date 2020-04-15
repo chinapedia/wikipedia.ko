@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SK](https://ko.wikipedia.org/wiki/SK).
+> This article is converted from Wikipedia: [SK텔레시스](https://ko.wikipedia.org/wiki/SK텔레시스).
 
 
 **SK텔레시스**(SK Telesys)는 대한민국의 통신기기 [제조 회사로](https://ko.wikipedia.org/wiki/기업 "wikilink"), [SK그룹](../Page/SK그룹.md "wikilink")의 계열사이다.

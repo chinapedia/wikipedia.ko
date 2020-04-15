@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [BGF](https://ko.wikipedia.org/wiki/BGF).
+> This article is converted from Wikipedia: [BGF리테일](https://ko.wikipedia.org/wiki/BGF리테일).
 
 
-**BGF리테일**(비지에프리테일, BGF Retail)은 대한민국 최대 편의점 프랜차이즈 [CU를](../Page/CU_\(편의점\).md "wikilink") 운영하는 종합유통서비스 기업이다. 대한민국 편의점 업계 최초로 전국 시군구 출점을 완료하였으며, 이를 바탕으로 다양한 상품과 서비스를 제공하고 있다.
+**BGF리테일**(비지에프리테일, BGF Retail)은 대한민국 최대 편의점 프랜차이즈 [CU를](../Page/CU_\(편의점\).md "wikilink") 운영하는 종합유통서비스 기업이다. 본사는 [서울특별시](../Page/서울특별시.md "wikilink") [강남구](https://ko.wikipedia.org/wiki/강남구 "wikilink") 테헤란로 405 (삼성동)에 위치에 있으며 대한민국 편의점 업계 최초로 전국 시군구 출점을 완료하였으며, 이를 바탕으로 다양한 상품과 서비스를 제공하고 있다.
 
 ## 연혁
 

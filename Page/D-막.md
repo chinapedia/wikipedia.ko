@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [D-](https://ko.wikipedia.org/wiki/D-).
+> This article is converted from Wikipedia: [D-막](https://ko.wikipedia.org/wiki/D-막).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:D3-brane_et_D2-brane.PNG "wikilink")

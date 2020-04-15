@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SSN \(\)](https://ko.wikipedia.org/wiki/SSN_\(\)).
+> This article is converted from Wikipedia: [SSN \(잠수함\)](https://ko.wikipedia.org/wiki/SSN_\(잠수함\)).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:US_Navy_080621-N-8467N-001_Pre-commissioning_Unit_New_Hampshire_\(SSN_778\)_sits_moored_to_the_pier_at_General_Dynamics_Electric_Boat_shipyard_moments_before_her_christening_ceremony_commenced.jpg "wikilink")\]\]

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  R ](https://ko.wikipedia.org/wiki/__R_).
+> This article is converted from Wikipedia: [삼성 갤럭시 R 스타일](https://ko.wikipedia.org/wiki/삼성_갤럭시_R_스타일).
 
 
 **삼성 갤럭시 R 스타일**(Samsung Galaxy R style)은 [삼성전자](https://ko.wikipedia.org/wiki/삼성전자 "wikilink")에서 [2012년](../Page/2012년.md "wikilink") [5월 31일에](../Page/5월_31일.md "wikilink") 출시한 [갤럭시 S III의](https://ko.wikipedia.org/wiki/갤럭시_S_III "wikilink") 하이엔드 보급형 [안드로이드](../Page/안드로이드_\(운영_체제\).md "wikilink") [스마트폰](../Page/스마트폰.md "wikilink")으로, [갤럭시 S III의](https://ko.wikipedia.org/wiki/갤럭시_S_III "wikilink") 기능 일부를 지원하며, [대한민국](../Page/대한민국.md "wikilink")에서만 출시되었다.

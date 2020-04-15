@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FC  ](https://ko.wikipedia.org/wiki/FC__).
+> This article is converted from Wikipedia: [FC 슬로반 리베레츠](https://ko.wikipedia.org/wiki/FC_슬로반_리베레츠).
 
 
 **FC 슬로반 리베레츠**()는 [리베레츠](../Page/리베레츠.md "wikilink")를 연고로 하는 [체코](../Page/체코.md "wikilink")의 축구 클럽이다.

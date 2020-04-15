@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SK ](https://ko.wikipedia.org/wiki/SK_).
+> This article is converted from Wikipedia: [SK 슈가글라이더즈](https://ko.wikipedia.org/wiki/SK_슈가글라이더즈).
 
 
 **SK 슈가글라이더즈**(SK Sugar Gliders)는 [2012년](../Page/2012년.md "wikilink") [2월 10일](../Page/2월_10일.md "wikilink") 창단한 [대한민국](../Page/대한민국.md "wikilink")의 실업 여자 핸드볼팀이다. [2011년](../Page/2011년.md "wikilink") [용인시청](https://ko.wikipedia.org/wiki/용인시청 "wikilink") 여자 핸드볼단이 해체한 것을 [대한핸드볼협회](../Page/대한핸드볼협회.md "wikilink")장으로 재직중인 [최태원](../Page/최태원_\(기업인\).md "wikilink") [SK그룹](../Page/SK그룹.md "wikilink") 회장이 인수하여 기존의 용인시청 선수 9명과 공개 테스트로 뽑은 5명 총 13명의 선수를 구성하여 창단하였다. 초대 감독으로는 전 용인시청 감독이었던 김운학이 선임되어 2014년 말까지 감독직을 수행하였으며, 2015년부터 2017년까지 강경택 감독이 수석코치에서 승진하여 감독직을 수행하였다. 현재는 2017년부터 부임한 박성립 감독이 감독직을 수행하고 있다.
@@ -9,6 +9,7 @@
   - 2012년 8월 17일 - SK 슈가글라이더즈로 팀명 변경
   - 2017시즌 SK핸드볼코리아리그 정규리그·챔피언결정전 통합챔피언
   - 2018-19시즌 SK핸드볼코리아리그 정규리그·챔피언결정전 2위
+  - 2019-20시즌 SK핸드볼코리아리그 우승
 
 ## 선수단
 
@@ -20,10 +21,20 @@
   - 코치 : 김경진
   - 트레이너:고유진
 
-## 같이 보기
+## 사무국
+
+  - 단장 : 이배현
+
+<!-- end list -->
+
+  - 운영팀장 : 최승욱
+
+<!-- end list -->
+
+  - 매니저 : 김준희
 
 
-\== 외부 링크 ==
+\== 현외부 링크 ==
 
   - [SK 슈가글라이더즈 페이스북](https://www.facebook.com/sksugargliders)
 

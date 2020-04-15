@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [YG  ](https://ko.wikipedia.org/wiki/YG__).
+> This article is converted from Wikipedia: [YG 엔터테인먼트의 음반](https://ko.wikipedia.org/wiki/YG_엔터테인먼트의_음반).
 
 
 이 문서는 [YG 엔터테인먼트에서](../Page/YG_엔터테인먼트.md "wikilink") 발표한 음반의 목록이다. 한때 자회사였던 [M-Boat와](https://ko.wikipedia.org/wiki/엠보트 "wikilink") [Buda Sound의](../Page/부다_사운드.md "wikilink") 음반 외에도, YG와 협업을 통해 발표한 음반도 포함되어 있다.
@@ -410,7 +410,8 @@
   - 2020년 1월 28일 젝스키스 - **ALL FOR YOU**
   - 2020년 2월 6일 아이콘 - **i DECIDE**
   - 2020년 3월 4일 VIINI - **\[Digital Single\] Moon\&Butterfly**
-  - 2020년 3월 ?일 위너 - **미정**
+  - 2020년 3월 26일 위너 - **\[Digital Single\] 뜸**\[86\]
+  - 2020년 4월 9일 위너 - **Remember**
 
 ## 각주
 
@@ -482,7 +483,7 @@
 64. [더 블라인드도](https://ko.wikipedia.org/wiki/더_블라인드 "wikilink") 앨범 참여.
 65. [문희경](../Page/문희경.md "wikilink")도 앨범 참여.
 66. [슈프림팀](../Page/슈프림팀.md "wikilink")의 멤버 [사이먼 도미닉](../Page/사이먼_도미닉.md "wikilink"), [리듬파워](../Page/리듬파워.md "wikilink")의 멤버 [보이비](https://ko.wikipedia.org/wiki/보이비 "wikilink"), [씨잼](../Page/씨잼.md "wikilink"), [자이언티](../Page/자이언티.md "wikilink"), [올 블랙의](../Page/올_블랙.md "wikilink") 멤버 [도끼](../Page/도끼_\(가수\).md "wikilink"), [더 콰이엇](https://ko.wikipedia.org/wiki/더_콰이엇 "wikilink"), [아지아틱스](https://ko.wikipedia.org/wiki/아지아틱스 "wikilink")의 멤버 [플로식](https://ko.wikipedia.org/wiki/플로식 "wikilink"), [매드 클라운](../Page/매드_클라운.md "wikilink") 외 8명도 앨범 참여.
-67. [슈프림팀](../Page/슈프림팀.md "wikilink")의 멤버 [사이먼 도미닉](../Page/사이먼_도미닉.md "wikilink"), [GRAY](../Page/그레이_\(가수\).md "wikilink"), [매드 클라운](../Page/매드_클라운.md "wikilink"), [샵건](https://ko.wikipedia.org/wiki/샵건 "wikilink")도 앨범 참여.
+67. [슈프림팀](../Page/슈프림팀.md "wikilink")의 멤버 [사이먼 도미닉](../Page/사이먼_도미닉.md "wikilink"), [GRAY](../Page/그레이_\(가수\).md "wikilink"), [매드 클라운](../Page/매드_클라운.md "wikilink"), [샵건](../Page/샵건.md "wikilink")도 앨범 참여.
 68. [God](https://ko.wikipedia.org/wiki/God "wikilink")의 멤버 [박준형](../Page/박준형_\(가수\).md "wikilink"), [EXID](../Page/EXID.md "wikilink")의 멤버 [혜린](../Page/혜린.md "wikilink"), [NRG의](https://ko.wikipedia.org/wiki/NRG_\(음악_그룹\) "wikilink") 멤버 [천명훈](../Page/천명훈.md "wikilink"), [딘딘](../Page/딘딘.md "wikilink"), [샵의](../Page/샵_\(음악_그룹\).md "wikilink") 멤버 [이지혜](../Page/이지혜_\(1988년\).md "wikilink"), [이세영](https://ko.wikipedia.org/wiki/이세영_\(가수\) "wikilink"), [주우재](../Page/주우재.md "wikilink")도 앨범 참여.
 69. 빅뱅의 데뷔 10주년 앨범.
 70. 해체 전 마지막 앨범.
@@ -501,3 +502,4 @@
 83. [송은이](../Page/송은이.md "wikilink"), [신봉선](../Page/신봉선.md "wikilink"), [김신영](../Page/김신영.md "wikilink")도 다시 앨범 참여.
 84. [슈퍼주니어](../Page/슈퍼주니어.md "wikilink")의 전 멤버 [헨리](../Page/헨리_\(가수\).md "wikilink"),[하림](../Page/하림_\(가수\).md "wikilink"),[메이트의](../Page/메이트_\(음악_그룹\).md "wikilink") 멤버 [임헌일](../Page/임헌일.md "wikilink"),[김필도](../Page/김필_\(가수\).md "wikilink") 다시 앨범 참여.
 85. [슈퍼주니어](../Page/슈퍼주니어.md "wikilink")의 전 멤버 [헨리](../Page/헨리_\(가수\).md "wikilink"),[하림](../Page/하림_\(가수\).md "wikilink"),[메이트의](../Page/메이트_\(음악_그룹\).md "wikilink") 멤버 [임헌일](../Page/임헌일.md "wikilink"),[김필](../Page/김필_\(가수\).md "wikilink"),[박정현](../Page/박정현.md "wikilink")도 다시 앨범 참여.
+86. 위너 정규 3집 선공개곡.

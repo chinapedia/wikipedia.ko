@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ Q](https://ko.wikipedia.org/wiki/_Q).
+> This article is converted from Wikipedia: [탐정학원 Q](https://ko.wikipedia.org/wiki/탐정학원_Q).
 
 
 **탐정학원 Q**()는 전설적인 명탐정 단 모리히코가 운영하는 DDS 학원에서 "Q클래스"에 입학한 5명의 주인공들이 펼쳐나가는 학원 추리 만화이다. [아마기 세이마루](https://ko.wikipedia.org/wiki/아마기_세이마루 "wikilink")(天樹征丸)가 원작, [사토 후미야](https://ko.wikipedia.org/wiki/사토_후미야 "wikilink")(さとうふみや)가 그림을 담당하고 있다.

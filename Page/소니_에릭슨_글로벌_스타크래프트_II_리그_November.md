@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [    II  November](https://ko.wikipedia.org/wiki/____II__November).
+> This article is converted from Wikipedia: [소니 에릭슨 글로벌 스타크래프트 II 리그 November](https://ko.wikipedia.org/wiki/소니_에릭슨_글로벌_스타크래프트_II_리그_November).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Gsl_nov_grand_final.jpg "wikilink") **소니 에릭슨 글로벌 스타크래프트 II 리그 November**(Sony Ericsson Global StarCraft II League November)는 [글로벌 스타크래프트 II 리그의](https://ko.wikipedia.org/wiki/글로벌_스타크래프트_II_리그 "wikilink") 13번째 정규 시즌으로 [2011년](../Page/2011년.md "wikilink") [11월 1일](../Page/11월_1일.md "wikilink") 개막했다.

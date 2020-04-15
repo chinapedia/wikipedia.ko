@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  YES ](https://ko.wikipedia.org/wiki/__YES_).
+> This article is converted from Wikipedia: [웃는 얼굴 YES 누드](https://ko.wikipedia.org/wiki/웃는_얼굴_YES_누드).
 
 
 **에가오YES누드**()는 [2007년](../Page/2007년.md "wikilink") [2월 14일에](../Page/2월_14일.md "wikilink") 발매 된 [모닝구무스메](../Page/모닝구무스메.md "wikilink")의 서른두 번째 싱글이다.

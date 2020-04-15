@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ XENOGLOSSIA](https://ko.wikipedia.org/wiki/_XENOGLOSSIA).
+> This article is converted from Wikipedia: [아이돌마스터 XENOGLOSSIA](https://ko.wikipedia.org/wiki/아이돌마스터_XENOGLOSSIA).
 
 
 《**아이돌 마스터 XENOGLOSSIA**》()는 [선라이즈가](https://ko.wikipedia.org/wiki/선라이즈_\(애니메이션_스튜디오\) "wikilink") 제작한 [일본](../Page/일본.md "wikilink")의 [로봇](../Page/로봇.md "wikilink") [애니메이션](../Page/애니메이션.md "wikilink")이다. 텔레비전 애니메이션으로서 2007년 4월부터 동년 9월에 걸쳐 전 26화가 방송되었다.

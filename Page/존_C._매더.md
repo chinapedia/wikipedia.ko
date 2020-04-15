@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ C. ](https://ko.wikipedia.org/wiki/_C._).
+> This article is converted from Wikipedia: [존 C. 매더](https://ko.wikipedia.org/wiki/존_C._매더).
 
 
 **존 크롬웰 매더**(, [1946년](../Page/1946년.md "wikilink") [8월 7일](../Page/8월_7일.md "wikilink") \~ )는 [미국](../Page/미국.md "wikilink")의 천체 물리학자이자 우주론 학자이며 [노벨 물리학상](../Page/노벨_물리학상.md "wikilink") 수상자이다. [우주배경 탐사선](../Page/우주배경_탐사선.md "wikilink") (Cosmic Background Explorer Satellite, COBE)에 대한 공로로 2006년에 노벨 물리학상을 [조지 스무트와](../Page/조지_스무트.md "wikilink") 함께 공동 수상하였고 코비 위성은 [우주 마이크로파 배경의](../Page/우주_마이크로파_배경.md "wikilink") [흑체 복사](https://ko.wikipedia.org/wiki/흑체_복사 "wikilink") 형태와 [비등방성](https://ko.wikipedia.org/wiki/비등방성 "wikilink")(anisotropy)을 최초로 측정하였다.

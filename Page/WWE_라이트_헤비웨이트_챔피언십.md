@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [WWE   ](https://ko.wikipedia.org/wiki/WWE___).
+> This article is converted from Wikipedia: [WWE 라이트 헤비웨이트 챔피언십](https://ko.wikipedia.org/wiki/WWE_라이트_헤비웨이트_챔피언십).
 
 
 **WWE 라이트 헤비웨이트 챔피언십**(WWF Light Heavyweight Championship)은 WWE 의 챔피언십이었다.

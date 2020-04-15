@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [W](https://ko.wikipedia.org/wiki/W).
+> This article is converted from Wikipedia: [삼국지W](https://ko.wikipedia.org/wiki/삼국지W).
 
 
 《**삼국지W**》는 한국의 개발사 [snapThinking](https://ko.wikipedia.org/wiki/snapThinking "wikilink")에서 개발한 [전략 시뮬레이션](https://ko.wikipedia.org/wiki/전략_게임 "wikilink") [웹게임](https://ko.wikipedia.org/wiki/웹게임 "wikilink")이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Sky \( \)](https://ko.wikipedia.org/wiki/Sky_\(_\)).
+> This article is converted from Wikipedia: [Sky \(동방신기의 노래\)](https://ko.wikipedia.org/wiki/Sky_\(동방신기의_노래\)).
 
 
 〈**Sky**〉(스카이)는 [동방신기](../Page/동방신기.md "wikilink")의 일본에서의 통산 7번째 싱글 음반이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  DP:  VS  VS ](https://ko.wikipedia.org/wiki/__DP:__VS__VS_).
+> This article is converted from Wikipedia: [극장판 포켓몬스터 DP: 디아루가 VS 펄기아 VS 다크라이](https://ko.wikipedia.org/wiki/극장판_포켓몬스터_DP:_디아루가_VS_펄기아_VS_다크라이).
 
 
 〈**극장판 포켓몬스터 디아루가 VS 펄기아 VS 다크라이**〉()는 [2007년](../Page/2007년.md "wikilink") [7월 14일에](../Page/7월_14일.md "wikilink") 개봉된 [TV 애니메이션](../Page/애니메이션.md "wikilink") 《[포켓몬스터](../Page/포켓몬스터.md "wikilink")》의 10번째 극장판이다. (극장판을 보기전 다크라이GX 를 받을수 있다)
@@ -69,4 +69,4 @@
   - [디아루가](../Page/디아루가.md "wikilink")
     시간을 다스리는 신이라 불리는 포켓몬. 시공의 흑간에서 펄기아와 싸우다가 치명적 상처를 입힌다. 펄기아가 아라모스 마을로 숨어들었지만, 곧바로 발견하여 마을에서까지도 펄기아와 대결을 펼친다.
 
-[분류:2007년 애니메이션 영화](https://ko.wikipedia.org/wiki/분류:2007년_애니메이션_영화 "wikilink") [분류:포켓몬스터 극장판](https://ko.wikipedia.org/wiki/분류:포켓몬스터_극장판 "wikilink") [분류:일본어 영화 작품](https://ko.wikipedia.org/wiki/분류:일본어_영화_작품 "wikilink") [분류:이수C\&E 애니메이션 영화](https://ko.wikipedia.org/wiki/분류:이수C&E_애니메이션_영화 "wikilink")
+[분류:2007년 애니메이션 영화](https://ko.wikipedia.org/wiki/분류:2007년_애니메이션_영화 "wikilink") [분류:포켓몬스터 극장판](https://ko.wikipedia.org/wiki/분류:포켓몬스터_극장판 "wikilink") [분류:일본어 영화 작품](https://ko.wikipedia.org/wiki/분류:일본어_영화_작품 "wikilink") [분류:이수C\&E 애니메이션 영화](https://ko.wikipedia.org/wiki/분류:이수C&E_애니메이션_영화 "wikilink") [분류:일본의 애니메이션 영화](https://ko.wikipedia.org/wiki/분류:일본의_애니메이션_영화 "wikilink")

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [STRAWBERRY FIELDS](https://ko.wikipedia.org/wiki/STRAWBERRY_FIELDS).
 
 
-**STRAWBERRY FIELDS**는 [일본](../Page/일본.md "wikilink")의 [비주얼계](../Page/비주얼계.md "wikilink") 록 밴드이다.
+**STRAWBERRY FIELDS**(스트로베리 필즈)는 [일본](../Page/일본.md "wikilink")의 [비주얼계](../Page/비주얼계.md "wikilink") 록 밴드이다.
 
 ## 경력
 

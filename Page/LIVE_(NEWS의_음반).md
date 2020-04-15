@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [LIVE \(NEWS \)](https://ko.wikipedia.org/wiki/LIVE_\(NEWS_\)).
+> This article is converted from Wikipedia: [LIVE \(NEWS의 음반\)](https://ko.wikipedia.org/wiki/LIVE_\(NEWS의_음반\)).
 
 
 《**LIVE**》(라이브)는 [NEWS의](../Page/NEWS_\(음악_그룹\).md "wikilink") 4번째 [정규 음반이다](../Page/정규_음반.md "wikilink").

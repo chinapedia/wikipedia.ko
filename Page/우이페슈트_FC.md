@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
+> This article is converted from Wikipedia: [우이페슈트 FC](https://ko.wikipedia.org/wiki/우이페슈트_FC).
 
 
 **우이페슈트 FC**()는 [부다페스트](../Page/부다페스트.md "wikilink")를 연고로 하는 [헝가리](../Page/헝가리.md "wikilink")의 축구 클럽이다. 1885년 우이페슈티 TE(Újpesti TE)의 축구단으로 창설되었으며 [아이스하키](../Page/아이스하키.md "wikilink"), [수구](../Page/수구.md "wikilink") 선수단도 운영하고 있다.

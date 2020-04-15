@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [GM ](https://ko.wikipedia.org/wiki/GM_).
+> This article is converted from Wikipedia: [GM대우 윈스톰](https://ko.wikipedia.org/wiki/GM대우_윈스톰).
 
 
 **GM대우 윈스톰**(GM Daewoo Winstorm)은 [대한민국](../Page/대한민국.md "wikilink")의 종합 자동차 회사인 [한국GM](https://ko.wikipedia.org/wiki/한국GM "wikilink")의 전신인 [GM대우가](https://ko.wikipedia.org/wiki/한국GM "wikilink") 만든 중형 크로스오버 [스포츠 유틸리티 자동차](../Page/스포츠_유틸리티_자동차.md "wikilink")(SUV)이다. [토스카와](https://ko.wikipedia.org/wiki/대우_토스카 "wikilink") 플랫폼을 공용한다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [A ](https://ko.wikipedia.org/wiki/A_).
+> This article is converted from Wikipedia: [A형 간염](https://ko.wikipedia.org/wiki/A형_간염).
 
 
 **A형 간염**(A型肝炎, hepatitis A)은 A형 간염 바이러스(hepatitis A virus, HAV)의 감염에 의한 급성 [간염](../Page/간염.md "wikilink") 질환이다.\[1\] 다수의 경우 특히 젊은 사람의 경우 증상이 거의 없거나 아예 없는 편이다.\[2\] 감염부터 증상에 이르기까지 걸리는 시간은 2\~6주 사이이다.\[3\] 구역질, 구토, 설사, [황달](https://ko.wikipedia.org/wiki/황달 "wikilink"), 발열, 복통 등의 증상이 8주 간 지속되며\[4\] 다른 바이러스 간염과 유사한 증상을 보인다.
@@ -10,7 +10,7 @@
 ## 외부 링크
 
   -
-[분류:식중독](https://ko.wikipedia.org/wiki/분류:식중독 "wikilink") [분류:간염](https://ko.wikipedia.org/wiki/분류:간염 "wikilink") [분류:바이러스성 질병](https://ko.wikipedia.org/wiki/분류:바이러스성_질병 "wikilink") [분류:백신으로 예방 가능한 질병](https://ko.wikipedia.org/wiki/분류:백신으로_예방_가능한_질병 "wikilink")
+[분류:식중독](https://ko.wikipedia.org/wiki/분류:식중독 "wikilink") [분류:간염](https://ko.wikipedia.org/wiki/분류:간염 "wikilink") [분류:바이러스성 질병](https://ko.wikipedia.org/wiki/분류:바이러스성_질병 "wikilink") [분류:백신으로 예방 가능한 질병](https://ko.wikipedia.org/wiki/분류:백신으로_예방_가능한_질병 "wikilink") [분류:피코르나바이러스과](https://ko.wikipedia.org/wiki/분류:피코르나바이러스과 "wikilink")
 
 1.
 2.

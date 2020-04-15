@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Janne Da Arc  ](https://ko.wikipedia.org/wiki/Janne_Da_Arc__).
+> This article is converted from Wikipedia: [Janne Da Arc의 음반 목록](https://ko.wikipedia.org/wiki/Janne_Da_Arc의_음반_목록).
 
 
 ## 인디즈 앨범

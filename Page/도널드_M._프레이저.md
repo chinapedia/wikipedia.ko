@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ M. ](https://ko.wikipedia.org/wiki/_M._).
+> This article is converted from Wikipedia: [도널드 M. 프레이저](https://ko.wikipedia.org/wiki/도널드_M._프레이저).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:1977_Congressional_Pictorial_Donald_Fraser.jpg "wikilink")

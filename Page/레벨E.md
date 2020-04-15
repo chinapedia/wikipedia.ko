@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [E](https://ko.wikipedia.org/wiki/E).
+> This article is converted from Wikipedia: [레벨E](https://ko.wikipedia.org/wiki/레벨E).
 
 
 《**레벨E**》(, *LEVEL E*)는 [토가시 요시히로](../Page/토가시_요시히로.md "wikilink") 원작의 [일본](../Page/일본.md "wikilink")의 [만화](../Page/만화.md "wikilink")이다.

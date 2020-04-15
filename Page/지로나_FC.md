@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
+> This article is converted from Wikipedia: [지로나 FC](https://ko.wikipedia.org/wiki/지로나_FC).
 
 
 **지로나 FC**(Girona Futbol Club, S.A.D.)는 [스페인](../Page/스페인.md "wikilink") [카탈루냐 지방의](https://ko.wikipedia.org/wiki/카탈루냐_지방 "wikilink") 도시인 [지로나](../Page/지로나.md "wikilink")를 연고로 하는 축구 클럽이다. 이 클럽은 [1930년](../Page/1930년.md "wikilink") [7월 23일에](../Page/7월_23일.md "wikilink") 창단되었으며 현재 [라리가 2017-18시즌](https://ko.wikipedia.org/wiki/라리가_2017-18 "wikilink") 창단 첫 승격이 확정 되었다.

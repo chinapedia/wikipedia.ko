@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [GOM ](https://ko.wikipedia.org/wiki/GOM_).
+> This article is converted from Wikipedia: [GOM 클래식](https://ko.wikipedia.org/wiki/GOM_클래식).
 
 
 **GOM 클래식**(Gom Classic)은 곰앤컴퍼니의 주최로 진행되는 리그이다.

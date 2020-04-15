@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SEXY BOY \~ \~](https://ko.wikipedia.org/wiki/SEXY_BOY_\~_\~).
+> This article is converted from Wikipedia: [SEXY BOY \~소요카제니 요리솟테\~](https://ko.wikipedia.org/wiki/SEXY_BOY_\~소요카제니_요리솟테\~).
 
 
 **SEXY BOY \~소요카제니 요리솟테\~**()는 [2006년](../Page/2006년.md "wikilink") [3월 15일에](../Page/3월_15일.md "wikilink") 발매 된 [모닝구무스메](../Page/모닝구무스메.md "wikilink")의 스물아홉 번째 싱글이다.

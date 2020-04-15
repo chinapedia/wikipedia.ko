@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  SCRAP ](https://ko.wikipedia.org/wiki/__SCRAP_).
+> This article is converted from Wikipedia: [미국 대 SCRAP 사건](https://ko.wikipedia.org/wiki/미국_대_SCRAP_사건).
 
 
 **미국 대 SCRAP 사건**(United States v. SCRAP(Students Challenging Regulatory Agency Procedures) 412 U.S. 669 (1973))은 [미국 연방대법원의](https://ko.wikipedia.org/wiki/미국_연방대법원 "wikilink") 유명판례이다.

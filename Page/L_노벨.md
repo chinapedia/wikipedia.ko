@@ -1,9 +1,9 @@
-> This article is converted from Wikipedia: [L ](https://ko.wikipedia.org/wiki/L_).
+> This article is converted from Wikipedia: [L 노벨](https://ko.wikipedia.org/wiki/L_노벨).
 
 
-**L 노벨**은 [디앤씨미디어](https://ko.wikipedia.org/wiki/디앤씨미디어 "wikilink")의 [라이트 노벨](../Page/라이트_노벨.md "wikilink") 레이블로, [2007년 11월에](../Page/2007년_11월.md "wikilink") **SL 노벨**(시드 라이트 노벨)이라는 이름으로 창간되어 [2009년 1월](../Page/2009년_1월.md "wikilink") [시드 노벨에서](https://ko.wikipedia.org/wiki/시드_노벨 "wikilink") 분리, 현재의 이름으로 일본 라이트 노벨의 번역 출간을 하고 있다. 일괄 발매일은 매월 10일.
+**L 노벨**은 디앤씨미디어의 라이느 노벨 레이블로, 2007년 11월에 SL 노벨(시드 라이트 노벨)이라는 이름으로 창간되어 2009년 1월 시드 노벨에서 분리되어 L노벨(라이트 노벨)로 바뀌었다.
 
-L노벨 공식 홈페이지는 오류로 인해 현재도 접속이 불가능하고 공식 카페를 통해 이벤트 및 그달의 신간소식을 전하고 있다.
+L노벨 홈페이지는 아직까지 접속이 불가능하고 공식 카페를 통해 이벤트 및 그달의 신간소식을 전하고 있다.
 
 또한 [아프리카TV](../Page/아프리카TV.md "wikilink")를 통해서도 편집후기 방송을 하여서 이번달 작품 소개 및 다음달 신간을 안내하고 있다.
 

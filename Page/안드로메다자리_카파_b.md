@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  b](https://ko.wikipedia.org/wiki/__b).
+> This article is converted from Wikipedia: [안드로메다자리 카파 b](https://ko.wikipedia.org/wiki/안드로메다자리_카파_b).
 
 
 **안드로메다자리 카파 b**는 지구로부터 170광년 떨어져 있는 [안드로메다자리 카파를](../Page/안드로메다자리_카파.md "wikilink") 돌고 있는 [천체](../Page/천체.md "wikilink")이다.\[1\] 대다수의 외계 행성들과는 달리 b는 [스바루 망원경으로](../Page/스바루_망원경.md "wikilink") 사진을 직접 찍어 존재가 입증된 천체이다.\[2\] b의 질량은 [목성의](../Page/목성질량.md "wikilink") 약 13배로 천문학자들은 이 천체가 [외계 행성인지](../Page/외계_행성.md "wikilink") [갈색 왜성인지에](https://ko.wikipedia.org/wiki/갈색_왜성 "wikilink") 대해 논쟁을 벌이고 있다. 다만 그 질량을 고려하여 [슈퍼목성](https://ko.wikipedia.org/wiki/슈퍼목성 "wikilink")으로 부르는 부류도 있다.

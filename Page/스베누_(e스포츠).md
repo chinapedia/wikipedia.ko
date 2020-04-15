@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ \(e\)](https://ko.wikipedia.org/wiki/_\(e\)).
+> This article is converted from Wikipedia: [스베누 \(e스포츠\)](https://ko.wikipedia.org/wiki/스베누_\(e스포츠\)).
 
 
 **스베누**(SBENU)는 [대한민국](../Page/대한민국.md "wikilink")의 [스타크래프트 II](https://ko.wikipedia.org/wiki/스타크래프트_II "wikilink") [프로게임단](https://ko.wikipedia.org/wiki/프로게임단 "wikilink")으로 2016년 1월 [아프리카TV](../Page/아프리카TV.md "wikilink")에 인수, 재창단하여 [아프리카 프릭스라는](../Page/아프리카_프릭스.md "wikilink") 이름으로 활동했다.

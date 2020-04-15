@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  AG:    ](https://ko.wikipedia.org/wiki/__AG:____).
+> This article is converted from Wikipedia: [극장판 포켓몬스터 AG: 뮤와 파동의 용사 루카리오](https://ko.wikipedia.org/wiki/극장판_포켓몬스터_AG:_뮤와_파동의_용사_루카리오).
 
 
 〈**뮤와 파도의 용사 루카리오**〉(劇場版ポケットモンスター アドバンスジェネレーション ミュウと波導の勇者 ルカリオ)는 [2005년](../Page/2005년.md "wikilink") [7월 16일에](../Page/7월_16일.md "wikilink") 개봉된 [TV 애니메이션](../Page/애니메이션.md "wikilink")〈[포켓몬스터](../Page/포켓몬스터.md "wikilink")〉의 [극장판](https://ko.wikipedia.org/wiki/포켓몬스터_\(극장판\) "wikilink") 제8기이다.
@@ -37,4 +37,4 @@
     성우 - [아오노 다케시](../Page/아오노_다케시_\(성우\).md "wikilink") / [강구한](../Page/강구한.md "wikilink")
     우주 도시의 고층 빌딩에 살고 있으며 키드와 연락을 취한다. 느긋해 뵈며, 야채를 싫어하는 듯. 키드가 모르는 것을 영상으로 보내주면 빠르게 조사하여 응답해준다.
 
-[분류:2005년 애니메이션 영화](https://ko.wikipedia.org/wiki/분류:2005년_애니메이션_영화 "wikilink") [분류:포켓몬스터 극장판](https://ko.wikipedia.org/wiki/분류:포켓몬스터_극장판 "wikilink") [분류:일본어 영화 작품](https://ko.wikipedia.org/wiki/분류:일본어_영화_작품 "wikilink")
+[분류:2005년 애니메이션 영화](https://ko.wikipedia.org/wiki/분류:2005년_애니메이션_영화 "wikilink") [분류:포켓몬스터 극장판](https://ko.wikipedia.org/wiki/분류:포켓몬스터_극장판 "wikilink") [분류:일본어 영화 작품](https://ko.wikipedia.org/wiki/분류:일본어_영화_작품 "wikilink") [분류:일본의 애니메이션 영화](https://ko.wikipedia.org/wiki/분류:일본의_애니메이션_영화 "wikilink")

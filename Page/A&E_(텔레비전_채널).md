@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [A\&E \( \)](https://ko.wikipedia.org/wiki/A\&E_\(_\)).
+> This article is converted from Wikipedia: [A\&E \(텔레비전 채널\)](https://ko.wikipedia.org/wiki/A\&E_\(텔레비전_채널\)).
 
 
 **A\&E**는 미국의 [코미디](https://ko.wikipedia.org/wiki/코미디 "wikilink"), [드라마](https://ko.wikipedia.org/wiki/드라마 "wikilink"), [다큐멘터리](https://ko.wikipedia.org/wiki/다큐멘터리 "wikilink"), 라이브 전문 채널이다. 주 시청자 층은 [텔레비전](../Page/텔레비전.md "wikilink")을 시청하는 시간이 많지 않은 사람들이나 맞벌이 가정 등이다. [미국](../Page/미국.md "wikilink") [월트 디즈니 컴퍼니](../Page/월트_디즈니_컴퍼니.md "wikilink") 50%, [허스트 커뮤니케이션이](../Page/허스트_커뮤니케이션.md "wikilink") 50% 소유한다.

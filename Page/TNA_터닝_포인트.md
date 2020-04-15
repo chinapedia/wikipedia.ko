@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TNA  ](https://ko.wikipedia.org/wiki/TNA__).
+> This article is converted from Wikipedia: [TNA 터닝 포인트](https://ko.wikipedia.org/wiki/TNA_터닝_포인트).
 
 
 **터닝 포인트**(Turning Point)는 [TNA가](https://ko.wikipedia.org/wiki/토털_논스톱_액션_레슬링 "wikilink") 주관하는 페이퍼뷰이며, 사라진 페이퍼뷰이다.

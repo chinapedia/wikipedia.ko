@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [IAAF   ](https://ko.wikipedia.org/wiki/IAAF___).
+> This article is converted from Wikipedia: [IAAF 올해의 육상 선수](https://ko.wikipedia.org/wiki/IAAF_올해의_육상_선수).
 
 
 ## 수상 선수

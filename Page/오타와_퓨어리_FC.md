@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  FC](https://ko.wikipedia.org/wiki/__FC).
+> This article is converted from Wikipedia: [오타와 퓨어리 FC](https://ko.wikipedia.org/wiki/오타와_퓨어리_FC).
 
 
 **오타와 퓨어리**(Ottawa Fury FC)는 [캐나다](../Page/캐나다.md "wikilink")의 수도인 [온타리오주](https://ko.wikipedia.org/wiki/온타리오주 "wikilink") [오타와](../Page/오타와.md "wikilink")를 연고지로 하는 축구팀이다. 2005년부터 2013년까지 [USL 프리미어 디벨로프먼트 리그에](https://ko.wikipedia.org/wiki/USL_프리미어_디벨로프먼트_리그 "wikilink") 참가했던 오타와 퓨어리와 동일한 이름을 사용하고 있으면, 2014년부터 20016년까지 [북미 사커 리그에](../Page/북미_사커_리그.md "wikilink") 참가했다.

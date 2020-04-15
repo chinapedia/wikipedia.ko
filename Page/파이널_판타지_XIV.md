@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  XIV](https://ko.wikipedia.org/wiki/__XIV).
+> This article is converted from Wikipedia: [파이널 판타지 XIV](https://ko.wikipedia.org/wiki/파이널_판타지_XIV).
 
 
 《**파이널 판타지 XIV**》(FINAL FANTASY XIV, 약칭：**FFXIV**, **FF14**)는, [스퀘어 에닉스가](../Page/스퀘어_에닉스.md "wikilink") 개발한 [파이널 판타지](https://ko.wikipedia.org/wiki/파이널_판타지 "wikilink") 시리즈의 넘버링 타이틀 제 14번 작품이며, FF11이후 2번째 온라인 게임 [MMORPG](../Page/대규모_다중_사용자_온라인_롤플레잉_게임.md "wikilink") 작품이다. Windows판이 오리지널인 것으로는 최초이다.

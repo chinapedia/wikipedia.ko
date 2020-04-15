@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ OH-6 ](https://ko.wikipedia.org/wiki/_OH-6_).
+> This article is converted from Wikipedia: [휴스 OH-6 카이유스](https://ko.wikipedia.org/wiki/휴스_OH-6_카이유스).
 
 
 **휴스 OH-6 카이유스**는 휴스 헬리콥터사에서 제작한 [정찰 헬리콥터이다](https://ko.wikipedia.org/wiki/정찰_헬리콥터 "wikilink").

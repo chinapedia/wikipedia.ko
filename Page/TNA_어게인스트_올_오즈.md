@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TNA   ](https://ko.wikipedia.org/wiki/TNA___).
+> This article is converted from Wikipedia: [TNA 어게인스트 올 오즈](https://ko.wikipedia.org/wiki/TNA_어게인스트_올_오즈).
 
 
 **어게인스트 올 오즈**(Against All Odds)는 [TNA가](https://ko.wikipedia.org/wiki/토털_논스톱_액션_레슬링 "wikilink") 주관하는 페이퍼뷰이며, 사라진 페이퍼뷰이다.

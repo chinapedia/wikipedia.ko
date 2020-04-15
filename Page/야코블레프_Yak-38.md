@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ Yak-38](https://ko.wikipedia.org/wiki/_Yak-38).
+> This article is converted from Wikipedia: [야코블레프 Yak-38](https://ko.wikipedia.org/wiki/야코블레프_Yak-38).
 
 
 [200px](https://ko.wikipedia.org/wiki/파일:Яковлев_Як-38_7977864716323,_Монино_-_музей_ВВС_RP162.jpg "wikilink") **야코블레프 Yak-38**은 [영국](../Page/영국.md "wikilink")의 [해리어](https://ko.wikipedia.org/wiki/해리어 "wikilink")와 함께, [냉전](../Page/냉전.md "wikilink") 시절 유일하게 실전배치된 [소련](../Page/소련.md "wikilink")의 [STOVL](../Page/STOVL.md "wikilink") 전투기이다. 1991년 [소련](../Page/소련.md "wikilink")이 붕괴되면서 퇴역했다.

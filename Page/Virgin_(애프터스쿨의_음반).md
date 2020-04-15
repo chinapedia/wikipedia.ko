@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Virgin \( \)](https://ko.wikipedia.org/wiki/Virgin_\(_\)).
+> This article is converted from Wikipedia: [Virgin \(애프터스쿨의 음반\)](https://ko.wikipedia.org/wiki/Virgin_\(애프터스쿨의_음반\)).
 
 
 《***Virgin***》(버진)은 대한민국의 음악 그룹 [애프터스쿨](../Page/애프터스쿨.md "wikilink")의 첫 번째 정규 음반으로, [2011년](../Page/2011년.md "wikilink") [4월 28일](../Page/4월_28일.md "wikilink") [로엔 엔터테인먼트를](https://ko.wikipedia.org/wiki/로엔_엔터테인먼트 "wikilink") 통하여 발매되었다. 타이틀 곡은 〈[Shampoo](https://ko.wikipedia.org/wiki/Shampoo "wikilink")〉이다.

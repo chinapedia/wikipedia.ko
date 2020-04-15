@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  A  ](https://ko.wikipedia.org/wiki/__A__).
+> This article is converted from Wikipedia: [마터스 메모리얼 A 디비전 리그](https://ko.wikipedia.org/wiki/마터스_메모리얼_A_디비전_리그).
 
 
 **마터스 메모리얼 A 디비전 리그**()는 [네팔](../Page/네팔.md "wikilink")의 [축구](../Page/축구.md "wikilink") 최상위 리그이다. 18개 클럽으로 구성되어 있으며 [마터스 메모리얼 B 디비전 리그와](https://ko.wikipedia.org/wiki/마터스_메모리얼_B_디비전_리그 "wikilink") 승강제를 이루고 있다.

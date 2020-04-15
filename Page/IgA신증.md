@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [IgA](https://ko.wikipedia.org/wiki/IgA).
+> This article is converted from Wikipedia: [IgA신증](https://ko.wikipedia.org/wiki/IgA신증).
 
 
 **IgA 신증**(IgA nephropathy) 또는 **IgA 콩팥병**은 [사구체신염](https://ko.wikipedia.org/wiki/사구체신염 "wikilink")(신장의 [사구체](https://ko.wikipedia.org/wiki/사구체 "wikilink")에 범발성으로 일어나는 [염증](https://ko.wikipedia.org/wiki/염증 "wikilink")성 질환)의 일종이다. IgA 신증은 시간이 지나면서 점점 악화되는 병이며, 첫 진단 20년 안에 후 만성 [신부전증](https://ko.wikipedia.org/wiki/신부전증 "wikilink")까지 진행될 확률이 통계적으로 25\~30%에 달한다. 본인이 잘 모르고 지나가기 쉬운 병이기 때문에, 소변 검사가 체계적으로 이루어지는 국가에서 진단율이 높다. (학생 건강 검진이 의무화된 [대한민국](../Page/대한민국.md "wikilink"), [일본](../Page/일본.md "wikilink") 등)

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Y-DNA](https://ko.wikipedia.org/wiki/:Y-DNA).
+> This article is converted from Wikipedia: [틀:Y-DNA](https://ko.wikipedia.org/wiki/틀:Y-DNA).
 
 
 |                                                                                                                                                                                                                                    |

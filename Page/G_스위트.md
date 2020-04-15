@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [G ](https://ko.wikipedia.org/wiki/G_).
+> This article is converted from Wikipedia: [G 스위트](https://ko.wikipedia.org/wiki/G_스위트).
 
 
 **G 스위트**()는 [구글](../Page/구글.md "wikilink")에서 제공하는 유료 서비스로 [클라우드 컴퓨팅](../Page/클라우드_컴퓨팅.md "wikilink") 생산성 및 [협업 소프트웨어](../Page/협업_소프트웨어.md "wikilink") 도구, [소프트웨어](../Page/소프트웨어.md "wikilink") 모음이다. 이전 명칭은 업무용 구글 앱스, 기업용 구글 앱스(Google Apps for Work)였다.

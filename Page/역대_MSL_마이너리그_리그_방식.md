@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ MSL   ](https://ko.wikipedia.org/wiki/_MSL___).
+> This article is converted from Wikipedia: [역대 MSL 마이너리그 리그 방식](https://ko.wikipedia.org/wiki/역대_MSL_마이너리그_리그_방식).
 
 
 **역대 MSL 마이너리그 리그 방식**은 [MBC게임](https://ko.wikipedia.org/wiki/MBC게임 "wikilink")에서 치러진 [MSL 마이너리그이다](../Page/MSL_마이너리그.md "wikilink"). [MBC게임 스타리그로](../Page/MBC게임_스타리그.md "wikilink") 가기위한 방식으로 [2003년](../Page/2003년.md "wikilink")부터 [2004년](../Page/2004년.md "wikilink")까지 예선전을 제외한 [MSL 마이너리그에](../Page/MSL_마이너리그.md "wikilink") 도입되었다.

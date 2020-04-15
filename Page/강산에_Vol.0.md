@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ Vol.0](https://ko.wikipedia.org/wiki/_Vol.0).
+> This article is converted from Wikipedia: [강산에 Vol.0](https://ko.wikipedia.org/wiki/강산에_Vol.0).
 
 
 《**강산에 Vol.0**》는 [강산에](../Page/강산에.md "wikilink")의 정규 첫 번째 음반이다.

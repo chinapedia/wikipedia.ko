@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ \(DC \)](https://ko.wikipedia.org/wiki/_\(DC_\)).
+> This article is converted from Wikipedia: [로빈 \(DC 코믹스\)](https://ko.wikipedia.org/wiki/로빈_\(DC_코믹스\)).
 
 
 **로빈**은 원래 DC 코믹스에서 슈퍼 히어로인 배트맨의 도우미 역할로 밥 핑거, 빌 케인, 제리 로빈슨이 만들어낸 가상의 인물이다. 배트맨과 로빈은 흔히 다이나믹 듀오나 망토두른 성기사들이란 별칭으로 불린다. 배트맨을 셜록 홈즈에 비교하자면 로빈은 왓슨 같은 존재이다.

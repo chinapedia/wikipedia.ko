@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  T-](https://ko.wikipedia.org/wiki/__T-).
+> This article is converted from Wikipedia: [차정인 기자의 T-타임](https://ko.wikipedia.org/wiki/차정인_기자의_T-타임).
 
 
 《**차정인 기자의 T-타임**》은 [한국방송공사](../Page/한국방송공사.md "wikilink")가 제작한 [IT](../Page/정보기술.md "wikilink") [텔레비전 프로그램이다](../Page/텔레비전_프로그램.md "wikilink").

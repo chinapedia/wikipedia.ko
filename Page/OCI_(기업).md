@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [OCI \(\)](https://ko.wikipedia.org/wiki/OCI_\(\)).
+> This article is converted from Wikipedia: [OCI \(기업\)](https://ko.wikipedia.org/wiki/OCI_\(기업\)).
 
 
 **OCI**는 [재생 가능 에너지](../Page/재생_가능_에너지.md "wikilink")(Renewable Energy), [무기화학](../Page/무기화학.md "wikilink"), 석유석탄화학, 정밀화학, 단열재, Sapphire Ingots 분야에서 [카본 블랙](https://ko.wikipedia.org/wiki/카본_블랙 "wikilink"), 핏치, [TDI](../Page/톨루엔_디이소시아네이트.md "wikilink"), [과산화 수소](../Page/과산화_수소.md "wikilink"), 소다회, 흄드실리카(fumed silica), 단열재, LED용 사파이어 잉곳을 비롯하여 반도체 [웨이퍼](../Page/웨이퍼.md "wikilink") 및 [태양 전지의](../Page/태양_전지.md "wikilink") 핵심원료인 폴리실리콘 등을 생산, 판매하고 있으며 수출 비중이 70% 이상을 차지하는 글로벌 화학 기업이다.

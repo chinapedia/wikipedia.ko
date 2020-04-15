@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SIE  ](https://ko.wikipedia.org/wiki/SIE__).
+> This article is converted from Wikipedia: [SIE 샌타모니카 스튜디오](https://ko.wikipedia.org/wiki/SIE_샌타모니카_스튜디오).
 
 
 **SIE 샌타모니카 스튜디오**()는 SCE(Sony Computer Entertainment)가 소유한 미국의 비디오 게임 개발 회사이다. 1999년 캘리포니아 [샌타모니카](../Page/샌타모니카.md "wikilink")에 설립되었으며, [SCE 월드와이드 스튜디오의](https://ko.wikipedia.org/wiki/SCE_월드와이드_스튜디오 "wikilink") 액션 어드벤처 게임 제작 전문 스튜디오이다.

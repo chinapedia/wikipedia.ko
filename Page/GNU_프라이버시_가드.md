@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [GNU  ](https://ko.wikipedia.org/wiki/GNU__).
+> This article is converted from Wikipedia: [GNU 프라이버시 가드](https://ko.wikipedia.org/wiki/GNU_프라이버시_가드).
 
 
 **GNU 프라이버시 가드**(GNU Privacy Guard, **GnuPG** 또는 **GPG**)는 [PGP를](../Page/PGP_\(소프트웨어\).md "wikilink") 대체하는 자유 소프트웨어이다. GnuPG는 오픈피지피 표준을 다루는 RFC 4880를 만족한다. 현재 버전의 GPG는 GnuPG나 다른 오픈PGP 호환 프로그램과 상호 운용이 가능하다.

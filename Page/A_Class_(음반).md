@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [A Class \(\)](https://ko.wikipedia.org/wiki/A_Class_\(\)).
+> This article is converted from Wikipedia: [A Class \(음반\)](https://ko.wikipedia.org/wiki/A_Class_\(음반\)).
 
 
 《**A Class**》는 [대한민국](../Page/대한민국.md "wikilink")의 [걸 그룹](../Page/걸_그룹.md "wikilink") [미쓰에이](../Page/미쓰에이.md "wikilink")의 첫 정규 음반이다. 타이틀곡인 "Good-Bye Baby"의 뮤직비디오에는 배우 [김남진](../Page/김남진.md "wikilink")이 출연하였다.

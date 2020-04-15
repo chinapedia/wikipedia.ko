@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:WWE RAW  ](https://ko.wikipedia.org/wiki/:WWE_RAW__).
+> This article is converted from Wikipedia: [틀:WWE RAW 태그팀 챔피언십](https://ko.wikipedia.org/wiki/틀:WWE_RAW_태그팀_챔피언십).
 
 
 <onlyinclude></onlyinclude>

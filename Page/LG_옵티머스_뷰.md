@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [LG  ](https://ko.wikipedia.org/wiki/LG__).
+> This article is converted from Wikipedia: [LG 옵티머스 뷰](https://ko.wikipedia.org/wiki/LG_옵티머스_뷰).
 
 
-**LG 옵티머스 뷰** (LG Optimus Vu)는 [2012년 2월](../Page/2012년_2월.md "wikilink") **[모바일 월드 콩그레스](../Page/모바일_월드_콩그레스.md "wikilink") 2012**에서 공개하여, [LG전자](../Page/LG전자.md "wikilink")에서 [2012년 3월에](../Page/2012년_3월.md "wikilink") 출시한\[1\] [안드로이드](../Page/안드로이드_\(운영_체제\).md "wikilink") [패블릿](../Page/패블릿.md "wikilink") [스마트폰](../Page/스마트폰.md "wikilink")이다.
+**LG 옵티머스 뷰**(LG Optimus Vu)는 [2012년 2월](../Page/2012년_2월.md "wikilink") **[모바일 월드 콩그레스](../Page/모바일_월드_콩그레스.md "wikilink") 2012**에서 공개하여, [LG전자](../Page/LG전자.md "wikilink")에서 [2012년 3월에](../Page/2012년_3월.md "wikilink") 출시한\[1\] [안드로이드](../Page/안드로이드_\(운영_체제\).md "wikilink") [패블릿](../Page/패블릿.md "wikilink") [스마트폰](../Page/스마트폰.md "wikilink")이다.
 
 [LG 옵티머스 시리즈의](../Page/LG_옵티머스_\(제품군\).md "wikilink") G/뷰/L/F 라인 중 뷰라인으로, [삼성 갤럭시 노트의](../Page/삼성_갤럭시_노트.md "wikilink") 대항마로서 출시되어 4 : 3 비율의 디스플레이를 채택하였으며, **러버듐 펜**이 기본 구성품으로 들어있다.
 

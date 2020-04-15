@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Heaven \( \)](https://ko.wikipedia.org/wiki/Heaven_\(_\)).
+> This article is converted from Wikipedia: [Heaven \(에일리의 노래\)](https://ko.wikipedia.org/wiki/Heaven_\(에일리의_노래\)).
 
 
 〈**Heaven**〉은 대한민국의 가수 [에일리](../Page/에일리.md "wikilink")의 노래이다. 2012년 2월 9일 데뷔 싱글로 발매되었다.

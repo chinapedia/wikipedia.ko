@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ K](https://ko.wikipedia.org/wiki/_K).
+> This article is converted from Wikipedia: [의뢰인 K](https://ko.wikipedia.org/wiki/의뢰인_K).
 
 
 《**의뢰인 K**》는 [한국방송공사](../Page/한국방송공사.md "wikilink")의 전 [텔레비전](../Page/텔레비전.md "wikilink") [프로그램이었다](../Page/텔레비전_프로그램.md "wikilink"). 프로그램 제목에서 K는 Korean, Kind를 뜻하며 "의뢰인 K(Korean)를 위한 맞춤 법률 정보를 친절(kind)하게 제공하는 프로그램"을 슬로건으로 내걸고 있다.

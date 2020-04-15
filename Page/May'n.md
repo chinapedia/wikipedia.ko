@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [May\'n](https://ko.wikipedia.org/wiki/May\'n).
 
 
-**May'n** (메인, [1989년](../Page/1989년.md "wikilink") [10월 21일생](../Page/10월_21일.md "wikilink")) [일본](../Page/일본.md "wikilink")의 [여성](../Page/여성.md "wikilink") [가수](https://ko.wikipedia.org/wiki/가수 "wikilink")이다. [아이치현](../Page/아이치현.md "wikilink") [나고야 시](https://ko.wikipedia.org/wiki/나고야_시 "wikilink") 출신으로 본명 및 구 예명은 **나카바야시 메이** ()이다. 소속사무소는 홀리프로, 소속 레이블은 flying DOG([빅터 엔터테인먼트](https://ko.wikipedia.org/wiki/빅터_엔터테인먼트 "wikilink") 계열). 공식 팬 클럽 명칭은 '후안쿠라 부()'.
+**May'n** (메인, [1989년](../Page/1989년.md "wikilink") [10월 21일생](../Page/10월_21일.md "wikilink")) [일본](../Page/일본.md "wikilink")의 [여성](../Page/여성.md "wikilink") [가수](https://ko.wikipedia.org/wiki/가수 "wikilink")이다. [아이치현](../Page/아이치현.md "wikilink") [나고야 시](https://ko.wikipedia.org/wiki/나고야_시 "wikilink") 출신으로 본명 및 구 예명은 **나카바야시 메이**()이다. 소속사무소는 홀리프로, 소속 레이블은 flying DOG([빅터 엔터테인먼트](https://ko.wikipedia.org/wiki/빅터_엔터테인먼트 "wikilink") 계열). 공식 팬 클럽 명칭은 '후안쿠라 부()'.
 
 ## 개요
 

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [The ](https://ko.wikipedia.org/wiki/The_).
+> This article is converted from Wikipedia: [The 비빔밥](https://ko.wikipedia.org/wiki/The_비빔밥).
 
 
 **The 비빔밥**은 매주 [수요일](../Page/수요일.md "wikilink") 저녁 7시 30분에 전주 [KBS 1TV로](https://ko.wikipedia.org/wiki/KBS전주방송총국#1TV "wikilink") 방송되는 [텔레비전 프로그램이다](../Page/텔레비전_프로그램.md "wikilink").

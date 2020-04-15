@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ICAO  ](https://ko.wikipedia.org/wiki/ICAO__).
+> This article is converted from Wikipedia: [ICAO 공항 코드](https://ko.wikipedia.org/wiki/ICAO_공항_코드).
 
 
 **ICAO 공항 코드**는 [국제 민간 항공 기구](https://ko.wikipedia.org/wiki/국제_민간_항공_기구 "wikilink")(ICAO/OACI)에서 [비행정보구역](https://ko.wikipedia.org/wiki/비행정보구역 "wikilink")(FIR)과 [공항](../Page/공항.md "wikilink")에 부여하는 코드로, *ICAO Document 7910, Location Indicators*에 기재, 정리된다.
@@ -84,7 +84,7 @@
       - [보르도](../Page/보르도.md "wikilink") FIR (bordeaux - Bordeaux Mérgnac Airport)[LFBB](https://ko.wikipedia.org/wiki/LFBB "wikilink")
       - 브레스트 FIR [LFRR](https://ko.wikipedia.org/wiki/LFRR "wikilink")
       - 마르세유 FIR [LFMM](https://ko.wikipedia.org/wiki/LFMM "wikilink")
-      - 파리 FIR [LFFF](https://ko.wikipedia.org/wiki/LFFF "wikilink")
+      - 파리 FIR [LFPG](https://ko.wikipedia.org/wiki/LFFF "wikilink")
       - 렝스 FIR [LFEE](https://ko.wikipedia.org/wiki/LFEE "wikilink")
   - [캐나다](../Page/캐나다.md "wikilink") (Canada)
       - [토론토 피어슨 국제공항](https://ko.wikipedia.org/wiki/토론토_피어슨_국제공항 "wikilink") (Toronto - Toronto Pearson International Airport) [CYYZ](https://ko.wikipedia.org/wiki/CYYZ "wikilink")

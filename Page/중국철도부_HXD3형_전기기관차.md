@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ HXD3 ](https://ko.wikipedia.org/wiki/_HXD3_).
+> This article is converted from Wikipedia: [중국철도부 HXD3형 전기기관차](https://ko.wikipedia.org/wiki/중국철도부_HXD3형_전기기관차).
 
 
 **중국철도부 HX<sub>D</sub>3형 전기기관차**는 [중화인민공화국 철도부의](../Page/중화인민공화국_철도부.md "wikilink") [교류](../Page/교류.md "wikilink") 전용 [전기기관차](https://ko.wikipedia.org/wiki/전기기관차 "wikilink")다. HXD 란 칭호는 和諧電 (허쉐뎬)의 한어 로마자 머리 글자에 유래한다.

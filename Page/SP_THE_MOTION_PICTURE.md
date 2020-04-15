@@ -135,7 +135,7 @@
   - **트럭 운전사** - [다이아몬드 쿈](https://ko.wikipedia.org/wiki/다이아몬드_쿈 "wikilink")
   - **아나운서** - [타카기 히로코](https://ko.wikipedia.org/wiki/타카기_히로코 "wikilink")
   - **야마모토 타카후미의 여자친구** - [안도 타마에](https://ko.wikipedia.org/wiki/안도_타마에 "wikilink")
-  - **교도관** - [에모토 타스쿠](https://ko.wikipedia.org/wiki/에모토_타스쿠 "wikilink")
+  - **교도관** - [에모토 타스쿠](../Page/에모토_타스쿠.md "wikilink")
 
 ## 스탭
 

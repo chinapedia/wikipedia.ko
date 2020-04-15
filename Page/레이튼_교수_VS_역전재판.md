@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  VS ](https://ko.wikipedia.org/wiki/__VS_).
+> This article is converted from Wikipedia: [레이튼 교수 VS 역전재판](https://ko.wikipedia.org/wiki/레이튼_교수_VS_역전재판).
 
 
 **레이튼 교수 VS 역전재판**()은 [레벨 5와](https://ko.wikipedia.org/wiki/레벨_파이브 "wikilink") [캡콤](../Page/캡콤.md "wikilink")의 합동 게임 작품으로 [닌텐도 3DS용](../Page/닌텐도_3DS.md "wikilink") 게임이다.

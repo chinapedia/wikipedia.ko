@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Hello \( \)](https://ko.wikipedia.org/wiki/Hello_\(_\)).
+> This article is converted from Wikipedia: [Hello \(나비의 음반\)](https://ko.wikipedia.org/wiki/Hello_\(나비의_음반\)).
 
 
 **Hello**는 대한민국의 여자 발라드 가수 [나비의](../Page/나비_\(1986년\).md "wikilink") 첫 번째 정규 음반이다. [2011년](../Page/2011년.md "wikilink") [1월 19일](../Page/1월_19일.md "wikilink") [로엔 엔터테인먼트를](https://ko.wikipedia.org/wiki/로엔_엔터테인먼트 "wikilink") 통해 발매되었다. 타이틀곡은 〈잘 된 일이야〉로, 이 곡은 많은 인기를 얻었다.

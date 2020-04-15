@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ATC  L02](https://ko.wikipedia.org/wiki/ATC__L02).
+> This article is converted from Wikipedia: [ATC 코드 L02](https://ko.wikipedia.org/wiki/ATC_코드_L02).
 
 
 **ATC 코드 L02**는 [ATC 코드의](https://ko.wikipedia.org/wiki/ATC_코드 "wikilink") 내분비 치료에 사용하는 약물을 정리한 코드이다. \[1\] **ATC 코드** L 항종양제 및 면역조절제의 하위그룹을 이룬다.

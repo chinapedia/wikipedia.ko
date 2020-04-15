@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Pia-no-jaC](https://ko.wikipedia.org/wiki/Pia-no-jaC).
+> This article is converted from Wikipedia: [→Pia-no-jaC←](https://ko.wikipedia.org/wiki/→Pia-no-jaC←).
 
 
 **→Pia-no-jaC←**(피아노잭)은 [일본](../Page/일본.md "wikilink")의 남성 2인조 [음악 그룹이다](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink"). 그룹명인 '피아노잭'은 앞으로부터 읽으면 '[피아노](../Page/피아노.md "wikilink")'가 되며, 뒤로 부터 읽으면 '[카혼](https://ko.wikipedia.org/wiki/카혼 "wikilink")'이 된다는 특징이 있다.

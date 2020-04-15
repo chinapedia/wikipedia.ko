@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ D  ](https://ko.wikipedia.org/wiki/_D__).
+> This article is converted from Wikipedia: [이니셜 D 사운드트랙 목록](https://ko.wikipedia.org/wiki/이니셜_D_사운드트랙_목록).
 
 
 이 문서는 [이니셜 D](../Page/이니셜_D.md "wikilink") 애니메이션판에 삽입된 [유로비트](../Page/유로비트.md "wikilink") 음악들을 수록한 [사운드트랙](https://ko.wikipedia.org/wiki/사운드트랙 "wikilink")들에 대한 정보를 담았다.

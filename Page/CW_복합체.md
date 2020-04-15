@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [CW ](https://ko.wikipedia.org/wiki/CW_).
+> This article is converted from Wikipedia: [CW 복합체](https://ko.wikipedia.org/wiki/CW_복합체).
 
 
 [호모토피 이론에서](https://ko.wikipedia.org/wiki/호모토피_이론 "wikilink"), **CW 복합체**(CW復合體, )는 일련의 **세포**(細胞, )들을 이어붙여 구성할 수 있는 [위상 공간이다](https://ko.wikipedia.org/wiki/위상_공간_\(수학\) "wikilink").\[1\]\[2\] [단체 복합체의](../Page/단체_복합체.md "wikilink") 개념보다 더 자유롭고, [단체 집합의](../Page/단체_집합.md "wikilink") 개념보다 더 구체적이지만, 그 [범주](../Page/범주_\(수학\).md "wikilink") 속에서 [호모토피 이론을](https://ko.wikipedia.org/wiki/호모토피_이론 "wikilink") 용이하게 전개할 수 있으며, [단체 호몰로지와](https://ko.wikipedia.org/wiki/단체_호몰로지 "wikilink") 마찬가지로 CW 복합체 구조로부터 직접 그 [호몰로지](../Page/호몰로지.md "wikilink")와 [코호몰로지](https://ko.wikipedia.org/wiki/코호몰로지 "wikilink")를 계산할 수 있다. 이 계산법을 **세포 호몰로지**(細胞homology, ) 및 **세포 코호몰로지**(細胞cohomology, )라고 한다.

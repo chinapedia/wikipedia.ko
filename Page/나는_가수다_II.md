@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  II](https://ko.wikipedia.org/wiki/__II).
+> This article is converted from Wikipedia: [나는 가수다 II](https://ko.wikipedia.org/wiki/나는_가수다_II).
 
 
 〈**나는 가수다 Ⅱ**〉는 《[우리들의 일밤](../Page/일밤.md "wikilink")》에서 방송했던 코너로 [2012년](../Page/2012년.md "wikilink") [4월 29일부터](../Page/4월_29일.md "wikilink") [동년](../Page/2012년.md "wikilink") [12월 30일까지](../Page/12월_30일.md "wikilink") 방영되었다.
@@ -269,7 +269,7 @@
   - [일요일이 좋다](../Page/일요일이_좋다.md "wikilink")
       - [K팝스타 2](../Page/K팝스타_2.md "wikilink") (경쟁 프로그램)
       - [런닝맨](../Page/런닝맨_\(텔레비전_프로그램\).md "wikilink") (2부 프로그램)
-  - [해피선데이](https://ko.wikipedia.org/wiki/해피선데이 "wikilink")
+  - [해피선데이](../Page/해피선데이.md "wikilink")
       - [남자의 자격](../Page/남자의_자격.md "wikilink") (경쟁 프로그램)
       - [1박 2일](../Page/1박_2일.md "wikilink") (2부 프로그램)
   - [일밤](../Page/일밤.md "wikilink")

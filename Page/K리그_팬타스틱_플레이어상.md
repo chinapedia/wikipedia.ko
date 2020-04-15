@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [K  ](https://ko.wikipedia.org/wiki/K__).
+> This article is converted from Wikipedia: [K리그 팬타스틱 플레이어상](https://ko.wikipedia.org/wiki/K리그_팬타스틱_플레이어상).
 
 
 **K리그 '팬'타스틱 플레이어**(K-League 'FAN'tastic Player)는 [한국프로축구연맹](../Page/한국프로축구연맹.md "wikilink")에서 [2009 시즌부터](https://ko.wikipedia.org/wiki/K리그_2009 "wikilink") 신설한 상으로 [K리그](../Page/K리그.md "wikilink") 축구팬이 직접 참여하는 투표를 통해 선정된다. '팬'타스틱은 팬이 직접 뽑은 선수라는 의미를 담고 있다. 투표는 축구팬이라면 누구나 참여할 수 있으며, K리그 홈페이지에서 자신이 추천하는 선수를 세 명(1 \~ 3순위) 적어서 응모하면 된다. 투표 대상은 해당 시즌 K리그에 등록된 모든 선수이다.

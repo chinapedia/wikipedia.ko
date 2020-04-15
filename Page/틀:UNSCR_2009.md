@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:UNSCR 2009](https://ko.wikipedia.org/wiki/:UNSCR_2009).
+> This article is converted from Wikipedia: [틀:UNSCR 2009](https://ko.wikipedia.org/wiki/틀:UNSCR_2009).
 
 
 <noinclude></noinclude>

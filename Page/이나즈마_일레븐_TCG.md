@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  TCG](https://ko.wikipedia.org/wiki/__TCG).
+> This article is converted from Wikipedia: [이나즈마 일레븐 TCG](https://ko.wikipedia.org/wiki/이나즈마_일레븐_TCG).
 
 
 **이나즈마 일레븐 TCG**는 [다카라 토미가](https://ko.wikipedia.org/wiki/다카라_토미 "wikilink") 발매하고 있는 [이나즈마 일레븐을](../Page/이나즈마_일레븐.md "wikilink") 바탕으로 한 1:1 방식의 [트레이딩 카드 게임이다](../Page/트레이딩_카드_게임.md "wikilink").

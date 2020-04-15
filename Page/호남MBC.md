@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [MBC](https://ko.wikipedia.org/wiki/MBC).
+> This article is converted from Wikipedia: [호남MBC](https://ko.wikipedia.org/wiki/호남MBC).
 
 
-**광주 MBC**는 광주·전남·전북을 가시청권으로 하는 [지상파DMB](https://ko.wikipedia.org/wiki/지상파DMB "wikilink") 방송국으로, [2008년](../Page/2008년.md "wikilink") [1월 28일](../Page/1월_28일.md "wikilink") 정식 개국하였다. [광주문화방송](../Page/광주문화방송.md "wikilink")이 사업자이며, [전주문화방송](../Page/전주문화방송.md "wikilink"), [목포문화방송](../Page/목포문화방송.md "wikilink"), [여수문화방송](../Page/여수문화방송.md "wikilink")과 공동으로 운영하고 있지만 2018년 12월 30일 까지 운영 하고 2018년 12월 31일 부터 본사 MY MBC DMB를 송출 한다. 현재 비디오채널 3개, 데이터채널 1개를 송출중이다.
+**호남MBC**는 광주·전남·전북을 가시청권으로 하는 [지상파DMB](https://ko.wikipedia.org/wiki/지상파DMB "wikilink") 방송국으로, [2008년](../Page/2008년.md "wikilink") [1월 28일](../Page/1월_28일.md "wikilink") 정식 개국하였다. [광주문화방송](../Page/광주문화방송.md "wikilink")이 사업자이며, [전주문화방송](../Page/전주문화방송.md "wikilink"), [목포문화방송](../Page/목포문화방송.md "wikilink"), [여수문화방송](../Page/여수문화방송.md "wikilink")과 공동으로 운영하고 있지만 2018년 12월 30일 까지 운영 하고 2018년 12월 31일 부터 본사 MY MBC DMB를 송출 한다. 현재 비디오채널 3개, 데이터채널 1개를 송출중이다.
 
 ## 연혁
 

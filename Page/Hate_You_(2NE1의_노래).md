@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Hate You \(2NE1 \)](https://ko.wikipedia.org/wiki/Hate_You_\(2NE1_\)).
+> This article is converted from Wikipedia: [Hate You \(2NE1의 노래\)](https://ko.wikipedia.org/wiki/Hate_You_\(2NE1의_노래\)).
 
 
 "**Hate You**"는 대한민국의 음악그룹 [2NE1](../Page/2NE1.md "wikilink")의 노래이다. *[2NE1 2nd Mini Album](../Page/2NE1_2nd_Mini_Album.md "wikilink")*의 수록곡으로 2011년 7월 21일 발매되었다. "Hate You"는 원래 "Fuck You"라는 제목으로 발매될 예정이었지만 부적절한 제목과 가사로 "Hate You"로 바꿔 공개했다. 프로듀서는 [테디](https://ko.wikipedia.org/wiki/테디 "wikilink")가 맡았으며, 뮤직비디오는 [마리킴](../Page/마리킴.md "wikilink")이 맡아 애니메이션 기법으로 만들었다.

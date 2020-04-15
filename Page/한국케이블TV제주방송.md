@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [TV](https://ko.wikipedia.org/wiki/TV).
+> This article is converted from Wikipedia: [한국케이블TV제주방송](https://ko.wikipedia.org/wiki/한국케이블TV제주방송).
 
 
-**주식회사 KCTV제주방송**(<small>약칭</small> KCTV)은 [제주특별자치도](https://ko.wikipedia.org/wiki/제주특별자치도 "wikilink") 일원을 방송 구역으로 하는 [종합 유선방송](../Page/대한민국의_케이블TV_방송.md "wikilink") [사업자](https://ko.wikipedia.org/wiki/기업 "wikilink")(SO)이다. [1994년](../Page/1994년.md "wikilink") [2월 23일에](../Page/2월_23일.md "wikilink") 제주종합유선방송 주식회사로 설립되어, [1997년](../Page/1997년.md "wikilink") 사명을 현재의 명칭으로 변경한 뒤 오늘날까지 이르고 있다. [2011년](../Page/2011년.md "wikilink") [7월](../Page/7월.md "wikilink")에는 제주지역 지상파아날로그TV방송 종료와 더불어 한국케이블TV제주방송에서는 지역채널 HD방송을 시작하였다.
+**주식회사 KCTV제주방송**(<small>약칭</small> KCTV)은 [제주특별자치도](https://ko.wikipedia.org/wiki/제주특별자치도 "wikilink") 일원을 방송 구역으로 하는 [종합 유선방송](../Page/대한민국의_케이블TV_방송.md "wikilink") [사업자](https://ko.wikipedia.org/wiki/기업 "wikilink")(SO)이다. [1994년](../Page/1994년.md "wikilink") [2월 23일에](../Page/2월_23일.md "wikilink") 제주종합유선방송 주식회사로 설립되어, [1997년](../Page/1997년.md "wikilink") 사명을 현재의 명칭으로 변경한 뒤 오늘날까지 이르고 있다. [2011년](../Page/2011년.md "wikilink") [7월](../Page/7월.md "wikilink")에는 제주지역 지상파아날로그TV방송 종료와 더불어 한국케이블TV제주방송에서는 지역채널 HD방송을 시작하였다.2020년 6월 부터 전국의 LG 헬로 비전 에서 삽입 된다.
 
 ## 연혁
 
@@ -45,6 +45,7 @@
   - [2011년](../Page/2011년.md "wikilink") [7월 7일](../Page/7월_7일.md "wikilink") CH7(KCTV 제주방송 지역종합채널) HD방송 개시
   - [2014년](../Page/2014년.md "wikilink") [1월 15일](../Page/1월_15일.md "wikilink") 알뜰폰 개통
   - [2015년](../Page/2015년.md "wikilink") [6월 18일](../Page/6월_18일.md "wikilink") KCTV 스마트 UX UI변경
+  - [2020년](../Page/2020년.md "wikilink") [6월](../Page/6월.md "wikilink") 전국의 LG 헬로 비전 채널에 삽입
 
 ### 로고송
 
@@ -297,96 +298,96 @@
 <td><p>69번</p></td>
 </tr>
 <tr class="even">
-<td><p>48-1</p></td>
-<td><p>65번</p></td>
-</tr>
-<tr class="odd">
 <td><p>51-1</p></td>
 <td><p>152번</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>57-1</p></td>
 <td><p>157번</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>58-1</p></td>
 <td><p>455번</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>-</p></td>
 <td><p>30번</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>-</p></td>
 <td><p>38번</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>-</p></td>
 <td><p>39번</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>-</p></td>
 <td><p>41번</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>-</p></td>
 <td><p>43번</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>-</p></td>
 <td><p>44번</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>-</p></td>
 <td><p>45번</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>-</p></td>
 <td><p>46번</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>-</p></td>
 <td><p>47번</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>-</p></td>
 <td><p>50번</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>-</p></td>
 <td><p>51번</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>-</p></td>
 <td><p>53번</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>-</p></td>
 <td><p>54번</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>-</p></td>
 <td><p>55번</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>-</p></td>
 <td><p>56번</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>-</p></td>
 <td><p>58번</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>-</p></td>
 <td><p>66번</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>-</p></td>
 <td><p>67번</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>-</p></td>
 <td><p>79번</p></td>
+</tr>
+<tr class="even">
+<td><p>-</p></td>
+<td><p>99번</p></td>
 </tr>
 <tr class="odd">
 <td><p>-</p></td>
@@ -398,35 +399,35 @@
 </tr>
 <tr class="odd">
 <td><p>-</p></td>
-<td><p>156번</p></td>
-</tr>
-<tr class="even">
-<td><p>-</p></td>
 <td><p>158번</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>-</p></td>
 <td><p>160번</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>-</p></td>
 <td><p>161번</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>-</p></td>
 <td><p>163번</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>-</p></td>
 <td><p>166번</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>-</p></td>
 <td><p>167번</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>-</p></td>
 <td><p>168번</p></td>
+</tr>
+<tr class="even">
+<td><p>-</p></td>
+<td><p>177번</p></td>
 </tr>
 <tr class="odd">
 <td><p>-</p></td>
@@ -565,53 +566,49 @@
 </tr>
 <tr class="even">
 <td><p>-</p></td>
-<td><p>99번</p></td>
-</tr>
-<tr class="odd">
-<td><p>-</p></td>
 <td><p>200번</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>-</p></td>
 <td><p>202번</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>-</p></td>
 <td><p>203번</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>-</p></td>
 <td><p>204번</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>-</p></td>
 <td><p>205번</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>-</p></td>
 <td><p>207번</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>-</p></td>
 <td><p>210번</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>-</p></td>
 <td><p>211번</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>-</p></td>
 <td><p>251번</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>-</p></td>
 <td><p>257번</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>-</p></td>
 <td><p>314번</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 </tr>
@@ -696,93 +693,89 @@
 </tr>
 <tr class="odd">
 <td><p>-</p></td>
-<td><p>177번</p></td>
-</tr>
-<tr class="even">
-<td><p>-</p></td>
 <td><p>178번</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>-</p></td>
 <td><p>253번</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>-</p></td>
 <td><p>255번</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>-</p></td>
 <td><p>256번</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>-</p></td>
 <td><p>271번</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>-</p></td>
 <td><p>272번</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>-</p></td>
 <td><p>276번</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>-</p></td>
 <td><p>277번</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>-</p></td>
 <td><p>278번</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>-</p></td>
 <td><p>279번</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>-</p></td>
 <td><p>311번</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>-</p></td>
 <td><p>315번</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>-</p></td>
 <td><p>317번</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>-</p></td>
 <td><p>318번</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>-</p></td>
 <td><p>319번</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>-</p></td>
 <td><p>321번</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>-</p></td>
 <td><p>351번</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>-</p></td>
 <td><p>371번</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>-</p></td>
 <td><p>374번</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>-</p></td>
 <td><p>375번</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>-</p></td>
 <td><p>376번</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 </tr>
@@ -830,52 +823,60 @@
 <td><p>68번</p></td>
 </tr>
 <tr class="even">
+<td><p>48-1</p></td>
+<td><p>65번</p></td>
+</tr>
+<tr class="odd">
 <td><p>49-1</p></td>
 <td><p>70번</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>50-1</p></td>
 <td><p>159번</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>93-1</p></td>
 <td><p>401번</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>94-1</p></td>
 <td><p>402번</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>91-1</p></td>
 <td><p>310번</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>95-1</p></td>
 <td><p>434번</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>96-1</p></td>
 <td><p>431번</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>97-1</p></td>
 <td><p>432번</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>-</p></td>
 <td><p>63번</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>-</p></td>
 <td><p>71번</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>-</p></td>
 <td><p>150번</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>-</p></td>
 <td><p>151번</p></td>
+</tr>
+<tr class="odd">
+<td><p>-</p></td>
+<td><p>156번</p></td>
 </tr>
 <tr class="even">
 <td><p>-</p></td>

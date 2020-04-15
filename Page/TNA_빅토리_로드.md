@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TNA  ](https://ko.wikipedia.org/wiki/TNA__).
+> This article is converted from Wikipedia: [TNA 빅토리 로드](https://ko.wikipedia.org/wiki/TNA_빅토리_로드).
 
 
 **빅토리 로드**(Victory Road)는 [TNA가](https://ko.wikipedia.org/wiki/토털_논스톱_액션_레슬링 "wikilink") 주관하는 페이퍼뷰이자 TNA의 첫 월간 페이퍼뷰 였으며, 사라진 페이퍼뷰이다.

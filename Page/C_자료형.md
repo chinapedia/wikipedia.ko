@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [C ](https://ko.wikipedia.org/wiki/C_).
+> This article is converted from Wikipedia: [C 자료형](https://ko.wikipedia.org/wiki/C_자료형).
 
 
 [C 프로그래밍 언어에서](https://ko.wikipedia.org/wiki/C_프로그래밍_언어 "wikilink") **자료형**은 데이터의 특징을 결정하는 [메모리 위치나](../Page/메모리_주소.md "wikilink") [변수](https://ko.wikipedia.org/wiki/변수 "wikilink")의 선언이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Ring Ring \(\)](https://ko.wikipedia.org/wiki/Ring_Ring_\(\)).
+> This article is converted from Wikipedia: [Ring Ring \(음반\)](https://ko.wikipedia.org/wiki/Ring_Ring_\(음반\)).
 
 
 **Ring Ring**은 [스웨덴](../Page/스웨덴.md "wikilink")의 팝 그룹 [아바](https://ko.wikipedia.org/wiki/아바 "wikilink")의 데뷔 앨범이다. 1973년 [스칸디나비아](../Page/스칸디나비아.md "wikilink")와 [서독](../Page/서독.md "wikilink"), [오스트레일리아](../Page/오스트레일리아.md "wikilink"), [남아프리카](https://ko.wikipedia.org/wiki/남아프리카 "wikilink"), [멕시코](../Page/멕시코.md "wikilink") 등의 일부 지역에서 발매되었다. 이 앨범은 [벨기에](../Page/벨기에.md "wikilink") 차트에서 높은 순위에 올랐고, [네덜란드](../Page/네덜란드.md "wikilink"), [노르웨이](../Page/노르웨이.md "wikilink"), [남아프리카](https://ko.wikipedia.org/wiki/남아프리카 "wikilink")에서도 큰 인기를 끌었다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ FF](https://ko.wikipedia.org/wiki/_FF).
+> This article is converted from Wikipedia: [아쉬리스카 FF](https://ko.wikipedia.org/wiki/아쉬리스카_FF).
 
 
 **아쉬리스카 FF**(Assyriska Fotbollsföreningen)는 [1974년](../Page/1974년.md "wikilink")에 창단된 [스웨덴](../Page/스웨덴.md "wikilink") [쇠데르텔리에](../Page/쇠데르텔리에.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽으로, 현재 [수페레탄](https://ko.wikipedia.org/wiki/수페레탄 "wikilink")에서 활동하고 있다.

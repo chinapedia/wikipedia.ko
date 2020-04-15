@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:SC   ](https://ko.wikipedia.org/wiki/:SC___).
+> This article is converted from Wikipedia: [틀:SC 프라이부르크 선수 명단](https://ko.wikipedia.org/wiki/틀:SC_프라이부르크_선수_명단).
 
 
 <onlyinclude></onlyinclude>

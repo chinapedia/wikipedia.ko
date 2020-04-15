@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [LG  ](https://ko.wikipedia.org/wiki/LG__).
+> This article is converted from Wikipedia: [LG 옵티머스 미](https://ko.wikipedia.org/wiki/LG_옵티머스_미).
 
 
 **LG 옵티머스 미**(, LG P350)는 [LG전자](../Page/LG전자.md "wikilink")가 2011년 3월에 출시한 [스마트폰](../Page/스마트폰.md "wikilink")이다.\[1\]

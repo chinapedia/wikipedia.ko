@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [   II    2](https://ko.wikipedia.org/wiki/___II____2).
+> This article is converted from Wikipedia: [핫식스 글로벌 스타크래프트 II 팀 리그 시즌 2](https://ko.wikipedia.org/wiki/핫식스_글로벌_스타크래프트_II_팀_리그_시즌_2).
 
 
 **핫식스 글로벌 스타크래프트 II 팀 리그 시즌 2**(Hot6ix Global Starcraft 2 Team League Season 2) 은 [곰TV](../Page/곰TV.md "wikilink")가 주최하는 [글로벌 스타크래프트 II 리그의](https://ko.wikipedia.org/wiki/글로벌_스타크래프트_II_리그 "wikilink") 18번째 정규 리그이자 6번째 정규 팀 리그이며, 2012년에 두 번째로 열리는 팀 리그이다.

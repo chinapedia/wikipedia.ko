@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ATC  C07](https://ko.wikipedia.org/wiki/ATC__C07).
+> This article is converted from Wikipedia: [ATC 코드 C07](https://ko.wikipedia.org/wiki/ATC_코드_C07).
 
 
 **ATC 코드 C07**은 [ATC 코드의](https://ko.wikipedia.org/wiki/ATC_코드 "wikilink") 베타차단제로 작용하는 약물을 정리한 코드이다. \[1\] **ATC 코드** C 심혈관계의 하위그룹을 이룬다.

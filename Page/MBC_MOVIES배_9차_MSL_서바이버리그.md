@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [MBC MOVIES 9 MSL ](https://ko.wikipedia.org/wiki/MBC_MOVIES_9_MSL_).
+> This article is converted from Wikipedia: [MBC MOVIES배 9차 MSL 서바이버리그](https://ko.wikipedia.org/wiki/MBC_MOVIES배_9차_MSL_서바이버리그).
 
 
 ## 리그기간

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ DA](https://ko.wikipedia.org/wiki/_DA).
+> This article is converted from Wikipedia: [쌍용 DA트럭](https://ko.wikipedia.org/wiki/쌍용_DA트럭).
 
 
 **쌍용 DA트럭**(구 **동아 DA트럭**)은 동아자동차에서 생산하다가 [1986년](../Page/1986년.md "wikilink") 쌍용이 동아자동차를 인수하면서 [1988년](../Page/1988년.md "wikilink") 쌍용 DA트럭이 되었으며, 모델로는 DA10, DA20, DA30, DA50 등이 있었다.

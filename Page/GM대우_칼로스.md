@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [GM ](https://ko.wikipedia.org/wiki/GM_).
+> This article is converted from Wikipedia: [GM대우 칼로스](https://ko.wikipedia.org/wiki/GM대우_칼로스).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:20100825_daewoo_kalos_01.jpg "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:20100825_daewoo_kalos_02.jpg "wikilink")

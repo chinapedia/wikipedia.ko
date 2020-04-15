@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FX](https://ko.wikipedia.org/wiki/FX).
+> This article is converted from Wikipedia: [아이언FX](https://ko.wikipedia.org/wiki/아이언FX).
 
 
 **아이런 FX**(IronFX)로 알려진 **아이런FX 글로벌**(IronFX Global)은 유럽의 기업가 마르코스 A. 카시어러스(Markos A. Kashiouris)가 2010년 [키프로스](../Page/키프로스.md "wikilink") [리마솔](../Page/리마솔.md "wikilink")에 설립한 온라인 [외환거래 중개회사이다](https://ko.wikipedia.org/wiki/:en:brokerage_firm "wikilink"). 마르코스는 2013년 유럽 내 최우수 CEO중 한 명으로 선정됐다.\[1\]

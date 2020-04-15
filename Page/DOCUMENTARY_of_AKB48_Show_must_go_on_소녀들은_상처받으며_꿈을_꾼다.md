@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [DOCUMENTARY of AKB48 Show must go on    ](https://ko.wikipedia.org/wiki/DOCUMENTARY_of_AKB48_Show_must_go_on____).
+> This article is converted from Wikipedia: [DOCUMENTARY of AKB48 Show must go on 소녀들은 상처받으며 꿈을 꾼다](https://ko.wikipedia.org/wiki/DOCUMENTARY_of_AKB48_Show_must_go_on_소녀들은_상처받으며_꿈을_꾼다).
 
 
 《**Documentary of AKB48: Show must go on 소녀들은 상처받으며 꿈을 꾼다**》 ()는 [2012년](../Page/2012년.md "wikilink") [1월 27일에](../Page/1월_27일.md "wikilink") 개봉된 [일본](../Page/일본.md "wikilink")의 [다큐멘터리 영화이다](../Page/다큐멘터리_영화.md "wikilink"). [캐치프레이즈](https://ko.wikipedia.org/wiki/캐치프레이즈 "wikilink")는 〈AKB48는 상처받으며 어려움과 마주하는 불굴의 아이돌이다〉.

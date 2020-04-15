@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [G](https://ko.wikipedia.org/wiki/G).
+> This article is converted from Wikipedia: [로봇G](https://ko.wikipedia.org/wiki/로봇G).
 
 
 《**로봇G**》 (, Robo G)는 [2012년 일본 영화이다](https://ko.wikipedia.org/wiki/2012년_일본_영화 "wikilink"). [야구치 시노부가](../Page/야구치_시노부.md "wikilink") 감독을 맡았으며 [미키 커티스와](https://ko.wikipedia.org/wiki/미키_커티스 "wikilink") [요시타카 유리코가](../Page/요시타카_유리코.md "wikilink") 주연을 맡았다.

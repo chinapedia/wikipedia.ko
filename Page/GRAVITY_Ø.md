@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [GRAVITY ](https://ko.wikipedia.org/wiki/GRAVITY_).
+> This article is converted from Wikipedia: [GRAVITY Ø](https://ko.wikipedia.org/wiki/GRAVITY_Ø).
 
 
 〈**GRAVITY Ø**〉(그래비티 제로)는 [Aqua Timez가](../Page/Aqua_Timez.md "wikilink") [2010년](../Page/2010년.md "wikilink") [10월 13일에](../Page/10월_13일.md "wikilink") 발매한 열두 번째 싱글이다.

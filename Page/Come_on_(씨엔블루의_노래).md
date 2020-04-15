@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Come on \( \)](https://ko.wikipedia.org/wiki/Come_on_\(_\)).
+> This article is converted from Wikipedia: [Come on \(씨엔블루의 노래\)](https://ko.wikipedia.org/wiki/Come_on_\(씨엔블루의_노래\)).
 
 
 "**Come On**"는 그룹 [씨엔블루](../Page/씨엔블루.md "wikilink")(CNBLUE)의 세 번째 메이저 싱글앨범으로, [2012년](../Page/2012년.md "wikilink") [8월 1일](../Page/8월_1일.md "wikilink") [일본](../Page/일본.md "wikilink")에서 발매되었다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [    SC](https://ko.wikipedia.org/wiki/____SC).
+> This article is converted from Wikipedia: [아크라 하츠 오브 오크 SC](https://ko.wikipedia.org/wiki/아크라_하츠_오브_오크_SC).
 
 
 **아크라 하츠 오브 오크 스포팅 클럽**() 또는 **하츠 오브 오크**()는 [가나](../Page/가나.md "wikilink") [아크라](../Page/아크라.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽 팀으로, 줄여서 **하츠**()라고 부르기도 한다.

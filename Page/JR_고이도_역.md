@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [JR  ](https://ko.wikipedia.org/wiki/JR__).
+> This article is converted from Wikipedia: [JR 고이도 역](https://ko.wikipedia.org/wiki/JR_고이도_역).
 
 
 **JR 고이도 역**()은 [일본](../Page/일본.md "wikilink") [나라현](../Page/나라현.md "wikilink") [가시바 시에](https://ko.wikipedia.org/wiki/가시바_시 "wikilink") 있는 [서일본 여객철도의](https://ko.wikipedia.org/wiki/서일본_여객철도 "wikilink") [철도역](../Page/철도역.md "wikilink")이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SPICE \(  \)](https://ko.wikipedia.org/wiki/SPICE_\(__\)).
+> This article is converted from Wikipedia: [SPICE \(전자 회로 시뮬레이션\)](https://ko.wikipedia.org/wiki/SPICE_\(전자_회로_시뮬레이션\)).
 
 
 **SPICE** (*Simulation Program with Integrated Circuit Emphasis*)\[1\]\[2\] 는 공용 [오픈소스](https://ko.wikipedia.org/wiki/오픈소스 "wikilink") [아날로그 회로](../Page/아날로그_회로.md "wikilink") [시뮬레이터이다](https://ko.wikipedia.org/wiki/전자_회로_시뮬레이션 "wikilink"). 이것은 [집적 회로와](../Page/집적_회로.md "wikilink") 보드 레벨 설계에 사용되며, 회로 설계의 무결성을 확인하고 그 [회로](https://ko.wikipedia.org/wiki/회로 "wikilink")의 동작을 예측한다.

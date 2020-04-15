@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ECW   ](https://ko.wikipedia.org/wiki/ECW___).
+> This article is converted from Wikipedia: [ECW 월드 헤비웨이트 챔피언십](https://ko.wikipedia.org/wiki/ECW_월드_헤비웨이트_챔피언십).
 
 
 **ECW 챔피언십**(ECW Championship) 혹은 **ECW 월드 헤비웨이트 챔피언십**(ECW World Heavyweight Championship)은 [ECW](https://ko.wikipedia.org/wiki/ECW "wikilink")와 [WWE](https://ko.wikipedia.org/wiki/WWE "wikilink")의 챔피언십이었다.

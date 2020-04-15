@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SV  ](https://ko.wikipedia.org/wiki/SV__).
+> This article is converted from Wikipedia: [SV 아우스트리아 잘츠부르크](https://ko.wikipedia.org/wiki/SV_아우스트리아_잘츠부르크).
 
 
 **SV 아우스트리아 잘츠부르크**(SV Austria Salzburg)는 [2005년](../Page/2005년.md "wikilink")에 창단된 [오스트리아](../Page/오스트리아.md "wikilink") [잘츠부르크](../Page/잘츠부르크.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이며 현재는 오스트리아 푸스발-레기오날리가(오스트리아의 3부 축구 리그) 서부 리그에 참여하고 있다.

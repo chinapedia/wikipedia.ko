@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ R. R. ](https://ko.wikipedia.org/wiki/_R._R._).
+> This article is converted from Wikipedia: [조지 R. R. 마틴](https://ko.wikipedia.org/wiki/조지_R._R._마틴).
 
 
 **조지 레이먼드 리처드 마틴**\[1\] (**George Raymond Richard Martin** 또는 **George R. R. Martin** 때로는 첫 글자만 따서 **GRRM**으로 언급되기도 함) ([1948년](../Page/1948년.md "wikilink") [9월 20일](../Page/9월_20일.md "wikilink") \~ )은 미국의 시나리오 작가, TV 프로듀서 겸 판타지, 공포, 공상과학 소설작가이다. 전세계적으로 베스트셀러가 된 판타지 연작 장편소설 ‘[얼음과 불의 노래](../Page/얼음과_불의_노래.md "wikilink")’(A Song of Ice and Fire)로 명성을 얻었다. 드라마 영화채널인 HBO가 이를 개작해 드라마 시리즈 ['왕좌의 게임'](https://ko.wikipedia.org/wiki/왕좌의_게임_\(TV_시리즈\) "wikilink")(Game of Thrones)을 제작할 때는 공동제작총지휘자로 또 때로는 작가 겸 연출자로 활동했다. 타임지가 선정한 "2011년 세계에서 가장 영향력 있는 인물 100인"에 이름을 올렸다.\[2\]\[3\]

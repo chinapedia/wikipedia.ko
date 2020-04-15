@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ATC  V04](https://ko.wikipedia.org/wiki/ATC__V04).
+> This article is converted from Wikipedia: [ATC 코드 V04](https://ko.wikipedia.org/wiki/ATC_코드_V04).
 
 
 **ATC 코드 V04**는 [ATC 코드의](https://ko.wikipedia.org/wiki/ATC_코드 "wikilink") 의학적 진단시약으로 사용하는 약물을 정리한 코드이다. \[1\] **ATC 코드** V 기타의 하위그룹을 이룬다.

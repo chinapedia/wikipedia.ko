@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:FIFA   ](https://ko.wikipedia.org/wiki/:FIFA___).
+> This article is converted from Wikipedia: [틀:FIFA 월드컵 결승전 경기장](https://ko.wikipedia.org/wiki/틀:FIFA_월드컵_결승전_경기장).
 
 
 [결승전](https://ko.wikipedia.org/wiki/:틀:FIFA_월드컵_결승전_경기장 "wikilink")
@@ -47,7 +47,7 @@
 
   - [2018년](https://ko.wikipedia.org/wiki/2018년_FIFA_월드컵 "wikilink") [루즈니키 스타디움](../Page/루즈니키_스타디움.md "wikilink") ([모스크바](../Page/모스크바.md "wikilink"))
 
-  - '' [2022년](../Page/2022년_FIFA_월드컵.md "wikilink") [루사일 국립 경기장](https://ko.wikipedia.org/wiki/루사일_국립_경기장 "wikilink") ([루사일](../Page/루사일.md "wikilink"))''
+  - '' [2022년](../Page/2022년_FIFA_월드컵.md "wikilink") [루사일 국립 경기장](../Page/루사일_국립_경기장.md "wikilink") ([루사일](../Page/루사일.md "wikilink"))''
 
   - ''   [2026년](../Page/2026년_FIFA_월드컵.md "wikilink") [메트라이프 스타디움](../Page/메트라이프_스타디움.md "wikilink") ([뉴욕](../Page/뉴욕.md "wikilink"))''
 

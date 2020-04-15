@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [A.N.T.  ](https://ko.wikipedia.org/wiki/A.N.T.__).
+> This article is converted from Wikipedia: [A.N.T. 영재 클럽](https://ko.wikipedia.org/wiki/A.N.T._영재_클럽).
 
 
 《**앤트 팜**》()는 미국 [디즈니 채널에서](../Page/디즈니_채널.md "wikilink") 2011년 5월 6일부터 2014년 3월 21일까지 방영된 시트콤이다.

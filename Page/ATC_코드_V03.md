@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ATC  V03](https://ko.wikipedia.org/wiki/ATC__V03).
+> This article is converted from Wikipedia: [ATC 코드 V03](https://ko.wikipedia.org/wiki/ATC_코드_V03).
 
 
 **ATC 코드 V03**는 [ATC 코드의](https://ko.wikipedia.org/wiki/ATC_코드 "wikilink") 모든 기타 치료제품으로 작용하는 약물을 정리한 코드이다. \[1\] **ATC 코드** V 기타의 하위그룹을 이룬다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  FC](https://ko.wikipedia.org/wiki/__FC).
+> This article is converted from Wikipedia: [크롤리 타운 FC](https://ko.wikipedia.org/wiki/크롤리_타운_FC).
 
 
 **크롤리 타운 FC**(Crawley Town F.C.)는 [잉글랜드](../Page/잉글랜드.md "wikilink") [웨스트서식스주](https://ko.wikipedia.org/wiki/웨스트서식스주 "wikilink") [크롤리를](../Page/크롤리_\(웨스트서식스주\).md "wikilink") 본거지로 하는 축구 클럽 팀이다.

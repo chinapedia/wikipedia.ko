@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:PD-USGov-NASA](https://ko.wikipedia.org/wiki/:PD-USGov-NASA).
+> This article is converted from Wikipedia: [틀:PD-USGov-NASA](https://ko.wikipedia.org/wiki/틀:PD-USGov-NASA).
 
 
 <onlyinclude>

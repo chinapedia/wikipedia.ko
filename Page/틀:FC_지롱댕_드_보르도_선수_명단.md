@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:FC     ](https://ko.wikipedia.org/wiki/:FC_____).
+> This article is converted from Wikipedia: [틀:FC 지롱댕 드 보르도 선수 명단](https://ko.wikipedia.org/wiki/틀:FC_지롱댕_드_보르도_선수_명단).
 
 
 <onlyinclude></onlyinclude>

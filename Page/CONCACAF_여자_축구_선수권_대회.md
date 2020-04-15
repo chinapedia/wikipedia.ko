@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [CONCACAF    ](https://ko.wikipedia.org/wiki/CONCACAF____).
+> This article is converted from Wikipedia: [CONCACAF 여자 축구 선수권 대회](https://ko.wikipedia.org/wiki/CONCACAF_여자_축구_선수권_대회).
 
 
 **CONCACAF 여자 축구 선수권 대회**()는 [북중미카리브 축구 연맹](../Page/북중미카리브_축구_연맹.md "wikilink")(CONCACAF)이 주관하는 [여자 축구](../Page/여자_축구.md "wikilink") 국가 대항전이다. **CONCACAF 여자 골드컵**(CONCACAF Women's Gold Cup)이라고 부르기도 한다.

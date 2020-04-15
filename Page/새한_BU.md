@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ BU](https://ko.wikipedia.org/wiki/_BU).
+> This article is converted from Wikipedia: [새한 BU](https://ko.wikipedia.org/wiki/새한_BU).
 
 
 **새한 BU**는 [새한자동차(한국GM의 전신)의](https://ko.wikipedia.org/wiki/한국GM "wikilink") 대형[버스](../Page/버스.md "wikilink")다. [1976년](../Page/1976년.md "wikilink")에 출시되었으며 BU 110은 [새한자동차](https://ko.wikipedia.org/wiki/새한자동차 "wikilink")가 [대우자동차](https://ko.wikipedia.org/wiki/대우자동차 "wikilink")로 사명이 바뀐 이후인 [1987년](../Page/1987년.md "wikilink") [9월](../Page/9월.md "wikilink")에 까지 생산되었다. 후속 차종인 [BV 113는](../Page/대우_BV.md "wikilink") BU가 단종되기 전에 출시되었다, 경쟁 차종은 [RB 585가](../Page/현대_RB.md "wikilink") 있다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [-in the Room-](https://ko.wikipedia.org/wiki/-in_the_Room-).
+> This article is converted from Wikipedia: [심리치료중-in the Room-](https://ko.wikipedia.org/wiki/심리치료중-in_the_Room-).
 
 
 《**심리치료중-in the Room-**》()은, [2013년](../Page/2013년.md "wikilink") [1월 12일부터](../Page/1월_12일.md "wikilink") [3월 30일까지](../Page/3월_30일.md "wikilink") [닛폰 TV](../Page/닛폰_TV_방송망.md "wikilink") [계열에서](https://ko.wikipedia.org/wiki/닛폰TV_네트워크_협의회 "wikilink") 매주 [토요일](../Page/토요일.md "wikilink") 24:50 \~ 25:20([JST](https://ko.wikipedia.org/wiki/일본표준시 "wikilink"))에 방송된 [일본](../Page/일본.md "wikilink")의 [텔레비전 드라마이다](https://ko.wikipedia.org/wiki/일본_드라마 "wikilink").

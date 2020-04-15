@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Mr.Children  ](https://ko.wikipedia.org/wiki/Mr.Children__).
+> This article is converted from Wikipedia: [Mr.Children의 음반 목록](https://ko.wikipedia.org/wiki/Mr.Children의_음반_목록).
 
 
 다음은 [일본](../Page/일본.md "wikilink")의 [록 밴드](https://ko.wikipedia.org/wiki/록_밴드 "wikilink") **[Mr.Children](../Page/Mr.Children.md "wikilink")의 음반 목록**이다. Mr.Children은 1992년 데뷔 이후 2017년 6월까지 정규 음반 16장과 베스트 음반 6장, B-사이드 음반 1장, 라이브 음반 1장, 싱글 37장을 발매했다.
@@ -19,14 +19,14 @@
 <tr class="odd">
 <td><p>1st</p></td>
 <td><p><a href="../Page/1992년.md" title="wikilink">1992년</a> <a href="../Page/8월_21일.md" title="wikilink">8월 21일</a></p></td>
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/네가_있던_여름" title="wikilink">네가 있던 여름</a></strong> ()</p></td>
+<td><p><strong><a href="https://ko.wikipedia.org/wiki/네가_있던_여름" title="wikilink">네가 있던 여름</a></strong>()</p></td>
 <td><p>8cm<a href="../Page/콤팩트_디스크.md" title="wikilink">CD</a></p></td>
 <td><p>TFDC-28012</p></td>
 </tr>
 <tr class="even">
 <td><p>2nd</p></td>
 <td><p>1992년 <a href="../Page/12월_1일.md" title="wikilink">12월 1일</a></p></td>
-<td><p><strong><a href="../Page/안고_싶어.md" title="wikilink">안고 싶어</a></strong> ()</p></td>
+<td><p><strong><a href="../Page/안고_싶어.md" title="wikilink">안고 싶어</a></strong>()</p></td>
 <td><p>8cmCD</p></td>
 <td><p>TFDC-28014</p></td>
 </tr>
@@ -61,7 +61,7 @@
 <tr class="odd">
 <td><p>7th</p></td>
 <td><p>1994년 <a href="../Page/12월_12일.md" title="wikilink">12월 12일</a></p></td>
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/everybody_goes_-질서가_없는_시대에_드롭킥-" title="wikilink">everybody goes -질서가 없는 시대에 드롭킥-</a></strong> ()</p></td>
+<td><p><strong><a href="https://ko.wikipedia.org/wiki/everybody_goes_-질서가_없는_시대에_드롭킥-" title="wikilink">everybody goes -질서가 없는 시대에 드롭킥-</a></strong>()</p></td>
 <td><p>8cmCD</p></td>
 <td><p>TFDC-28029</p></td>
 </tr>
@@ -75,28 +75,28 @@
 <tr class="odd">
 <td><p>9th</p></td>
 <td><p>1995년 <a href="../Page/8월_10일.md" title="wikilink">8월 10일</a></p></td>
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/시소_게임_~용감한_사랑의_노래~" title="wikilink">시소 게임 ~용감한 사랑의 노래~</a></strong> ()</p></td>
+<td><p><strong><a href="https://ko.wikipedia.org/wiki/시소_게임_~용감한_사랑의_노래~" title="wikilink">시소 게임 ~용감한 사랑의 노래~</a></strong>()</p></td>
 <td><p>8cmCD</p></td>
 <td><p>TFDC-28034</p></td>
 </tr>
 <tr class="even">
 <td><p>10th</p></td>
 <td><p><a href="../Page/1996년.md" title="wikilink">1996년</a> <a href="../Page/2월_5일.md" title="wikilink">2월 5일</a></p></td>
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/이름없는_노래" title="wikilink">이름없는 노래</a></strong> ()</p></td>
+<td><p><strong><a href="https://ko.wikipedia.org/wiki/이름없는_노래" title="wikilink">이름없는 노래</a></strong>()</p></td>
 <td><p>8cmCD</p></td>
 <td><p>TFDC-28039</p></td>
 </tr>
 <tr class="odd">
 <td><p>11th</p></td>
 <td><p>1996년 <a href="../Page/4월_10일.md" title="wikilink">4월 10일</a></p></td>
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/꽃_-Mémento-Mori-" title="wikilink">꽃 -Mémento-Mori-</a></strong> ()</p></td>
+<td><p><strong><a href="https://ko.wikipedia.org/wiki/꽃_-Mémento-Mori-" title="wikilink">꽃 -Mémento-Mori-</a></strong>()</p></td>
 <td><p>8cmCD</p></td>
 <td><p>TFDC-28042</p></td>
 </tr>
 <tr class="even">
 <td><p>12th</p></td>
 <td><p>1996년 <a href="../Page/8월_8일.md" title="wikilink">8월 8일</a></p></td>
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/머신건을_쏴라_-Mr.Children_Bootleg-" title="wikilink">머신건을 쏴라 -Mr.Children Bootleg-</a></strong> ()</p></td>
+<td><p><strong><a href="https://ko.wikipedia.org/wiki/머신건을_쏴라_-Mr.Children_Bootleg-" title="wikilink">머신건을 쏴라 -Mr.Children Bootleg-</a></strong>()</p></td>
 <td><p>12cmCD</p></td>
 <td><p>TFCC-88080</p></td>
 </tr>
@@ -110,21 +110,21 @@
 <tr class="even">
 <td><p>14th</p></td>
 <td><p><a href="../Page/1998년.md" title="wikilink">1998년</a> <a href="../Page/2월_11일.md" title="wikilink">2월 11일</a></p></td>
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/서쪽으로_동쪽으로" title="wikilink">서쪽으로 동쪽으로</a></strong> ()</p></td>
+<td><p><strong><a href="https://ko.wikipedia.org/wiki/서쪽으로_동쪽으로" title="wikilink">서쪽으로 동쪽으로</a></strong>()</p></td>
 <td><p>8cmCD</p></td>
 <td><p>TFDC-28080</p></td>
 </tr>
 <tr class="odd">
 <td><p>15th</p></td>
 <td><p>1998년 <a href="../Page/10월_21일.md" title="wikilink">10월 21일</a></p></td>
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/끝없는_여행" title="wikilink">끝없는 여행</a></strong> ()</p></td>
+<td><p><strong><a href="https://ko.wikipedia.org/wiki/끝없는_여행" title="wikilink">끝없는 여행</a></strong>()</p></td>
 <td><p>8cmCD</p></td>
 <td><p>TFDC-28094</p></td>
 </tr>
 <tr class="even">
 <td><p>16th</p></td>
 <td><p><a href="../Page/1999년.md" title="wikilink">1999년</a> <a href="../Page/1월_13일.md" title="wikilink">1월 13일</a></p></td>
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/빛이_있는_곳으로" title="wikilink">빛이 있는 곳으로</a></strong> ()</p></td>
+<td><p><strong><a href="https://ko.wikipedia.org/wiki/빛이_있는_곳으로" title="wikilink">빛이 있는 곳으로</a></strong>()</p></td>
 <td><p>8cmCD</p></td>
 <td><p>TFDC-28099</p></td>
 </tr>
@@ -138,7 +138,7 @@
 <tr class="even">
 <td><p>18th</p></td>
 <td><p><a href="../Page/2000년.md" title="wikilink">2000년</a> <a href="../Page/1월_13일.md" title="wikilink">1월 13일</a></p></td>
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/휘파람_(Mr.Children의_노래)" title="wikilink">휘파람</a></strong> ()</p></td>
+<td><p><strong><a href="https://ko.wikipedia.org/wiki/휘파람_(Mr.Children의_노래)" title="wikilink">휘파람</a></strong>()</p></td>
 <td><p>8cmCD</p></td>
 <td><p>TFDC-28103</p></td>
 </tr>
@@ -152,7 +152,7 @@
 <tr class="even">
 <td><p>20th</p></td>
 <td><p><a href="../Page/2001년.md" title="wikilink">2001년</a> <a href="../Page/8월_21일.md" title="wikilink">8월 21일</a></p></td>
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/상냥한_노래" title="wikilink">상냥한 노래</a></strong> ()</p></td>
+<td><p><strong><a href="https://ko.wikipedia.org/wiki/상냥한_노래" title="wikilink">상냥한 노래</a></strong>()</p></td>
 <td><p>12cmCD</p></td>
 <td><p>TFCC-89004</p></td>
 </tr>
@@ -166,7 +166,7 @@
 <tr class="even">
 <td><p>22nd</p></td>
 <td><p><a href="../Page/2002년.md" title="wikilink">2002년</a> <a href="../Page/1월_1일.md" title="wikilink">1월 1일</a></p></td>
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/너가_좋아" title="wikilink">너가 좋아</a></strong> ()</p></td>
+<td><p><strong><a href="https://ko.wikipedia.org/wiki/너가_좋아" title="wikilink">너가 좋아</a></strong>()</p></td>
 <td><p>12cmCD</p></td>
 <td><p>TFCC-89020</p></td>
 </tr>
@@ -188,7 +188,7 @@ TFCC-89066(통상반)</p></td>
 <tr class="odd">
 <td><p>25th</p></td>
 <td><p><a href="../Page/2003년.md" title="wikilink">2003년</a> <a href="../Page/11월_19일.md" title="wikilink">11월 19일</a></p></td>
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/손바닥/쿠루미" title="wikilink">손바닥/쿠루미</a></strong> ()</p></td>
+<td><p><strong><a href="https://ko.wikipedia.org/wiki/손바닥/쿠루미" title="wikilink">손바닥/쿠루미</a></strong>()</p></td>
 <td><p>12cmCD</p></td>
 <td><p>TFCC-89089</p></td>
 </tr>
@@ -202,14 +202,14 @@ TFCC-89066(통상반)</p></td>
 <tr class="odd">
 <td><p>27th</p></td>
 <td><p><a href="../Page/2005년.md" title="wikilink">2005년</a> <a href="../Page/6월_29일.md" title="wikilink">6월 29일</a></p></td>
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/사차원_Four_Dimensions" title="wikilink">사차원 Four Dimensions</a></strong> ( Four Dimensions)</p></td>
+<td><p><strong><a href="https://ko.wikipedia.org/wiki/사차원_Four_Dimensions" title="wikilink">사차원 Four Dimensions</a></strong>( Four Dimensions)</p></td>
 <td><p>12cmCD</p></td>
 <td><p>TFCC-89139</p></td>
 </tr>
 <tr class="even">
 <td><p>28th</p></td>
 <td><p><a href="../Page/2006년.md" title="wikilink">2006년</a> <a href="../Page/7월_5일.md" title="wikilink">7월 5일</a></p></td>
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/혜성_(Mr.Children의_노래)" title="wikilink">혜성</a></strong> ()</p></td>
+<td><p><strong><a href="https://ko.wikipedia.org/wiki/혜성_(Mr.Children의_노래)" title="wikilink">혜성</a></strong>()</p></td>
 <td><p>CD+<a href="../Page/DVD.md" title="wikilink">DVD</a><br />
 12cmCD</p></td>
 <td><p>TFCC-89177(첫회반)<br />
@@ -218,21 +218,21 @@ TFCC-89178(통상반)</p></td>
 <tr class="odd">
 <td><p>29th</p></td>
 <td><p>2006년 <a href="../Page/11월_15일.md" title="wikilink">11월 15일</a></p></td>
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/증표" title="wikilink">증표</a></strong> ()</p></td>
+<td><p><strong><a href="https://ko.wikipedia.org/wiki/증표" title="wikilink">증표</a></strong>()</p></td>
 <td><p>12cmCD</p></td>
 <td><p>TFCC-89189</p></td>
 </tr>
 <tr class="even">
 <td><p>30th</p></td>
 <td><p><a href="../Page/2007년.md" title="wikilink">2007년</a> <a href="../Page/1월_24일.md" title="wikilink">1월 24일</a></p></td>
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/페이크_(Mr.Children의_노래)" title="wikilink">페이크</a></strong> ()</p></td>
+<td><p><strong><a href="https://ko.wikipedia.org/wiki/페이크_(Mr.Children의_노래)" title="wikilink">페이크</a></strong>()</p></td>
 <td><p>12cmCD</p></td>
 <td><p>TFCC-89199</p></td>
 </tr>
 <tr class="odd">
 <td><p>31st</p></td>
 <td><p>2007년 <a href="../Page/10월_31일.md" title="wikilink">10월 31일</a></p></td>
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/여행의_노래_(Mr.Children의_노래)" title="wikilink">여행의 노래</a></strong> ()</p></td>
+<td><p><strong><a href="https://ko.wikipedia.org/wiki/여행의_노래_(Mr.Children의_노래)" title="wikilink">여행의 노래</a></strong>()</p></td>
 <td><p>12cmCD</p></td>
 <td><p>TFCC-89221</p></td>
 </tr>

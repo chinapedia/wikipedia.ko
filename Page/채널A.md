@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [A](https://ko.wikipedia.org/wiki/A).
+> This article is converted from Wikipedia: [채널A](https://ko.wikipedia.org/wiki/채널A).
 
 
-**채널A** (Channel A)는 [대한민국](../Page/대한민국.md "wikilink")의 유료 플랫폼으로 방송하는 대한민국의 [종합편성채널](https://ko.wikipedia.org/wiki/종합편성채널 "wikilink")이다. [2010년](../Page/2010년.md "wikilink") [12월 31일](../Page/12월_31일.md "wikilink") [방송통신위원회](https://ko.wikipedia.org/wiki/방송통신위원회 "wikilink")로부터 종합편성채널사업자로 선정되었으며, [2011년](../Page/2011년.md "wikilink") [12월 1일](../Page/12월_1일.md "wikilink") 개국하였다. 채널A의 제작 및 경영철학은 '개방성과 창의성 (Open & Creative)'이고 슬로건은 '꿈을 담는 캔버스, 채널A'이다. [동아일보](../Page/동아일보.md "wikilink")가 출자하여 만든 방송사로 동아일보가 대주주이며, 과거 [언론 통폐합 정책으로](https://ko.wikipedia.org/wiki/1980년_언론_통폐합 "wikilink") [한국방송공사](../Page/한국방송공사.md "wikilink")에 몰수되었던 [DBS](../Page/동아방송.md "wikilink") 이후 방송에 다시 진출한 채널이다. 대표이사 사장은 김재호이다.
+**채널A** (Channel A)는 [대한민국](../Page/대한민국.md "wikilink")의 유료 플랫폼으로 방송하는 대한민국의 [종합편성채널](https://ko.wikipedia.org/wiki/종합편성채널 "wikilink")이다. [2010년](../Page/2010년.md "wikilink") [12월 31일](../Page/12월_31일.md "wikilink") [방송통신위원회로부터](../Page/대한민국_방송통신위원회.md "wikilink") 종합편성채널사업자로 선정되었으며, [2011년](../Page/2011년.md "wikilink") [12월 1일](../Page/12월_1일.md "wikilink") 개국하였다. 채널A의 제작 및 경영철학은 '개방성과 창의성 (Open & Creative)'이고 슬로건은 '꿈을 담는 캔버스, 채널A'이다. [동아일보](../Page/동아일보.md "wikilink")가 출자하여 만든 방송사로 동아일보가 대주주이며, 과거 [언론 통폐합 정책으로](https://ko.wikipedia.org/wiki/1980년_언론_통폐합 "wikilink") [한국방송공사](../Page/한국방송공사.md "wikilink")에 몰수되었던 [DBS](../Page/동아방송.md "wikilink") 이후 방송에 다시 진출한 채널이다. 대표이사 사장은 김재호이다.
 
 ## 역사
 
@@ -246,6 +246,8 @@
 ## 각주
 
 ## 같이 보기
+
+※ 주의사항 ※ 이 방송 채널은 행정안전부, 현대캐피탈, 공익광고협의회가 지정한 IPTV형 방송 채널입니다. 같이 보기 부분을 함부로 수정하지 마시고, 늘 눈으로 봐 주시기 바랍니다.
 
   - [MBC 표준FM](../Page/MBC_표준FM.md "wikilink")
   - [TBS eFM](../Page/TBS_eFM.md "wikilink")

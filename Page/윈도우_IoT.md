@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ IoT](https://ko.wikipedia.org/wiki/_IoT).
+> This article is converted from Wikipedia: [윈도우 IoT](https://ko.wikipedia.org/wiki/윈도우_IoT).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Embedded_World_2014_Windows_Embedded_Industrial_PC.jpg "wikilink") **윈도우 IoT**(Windows IoT, 이전 명칭: 윈도우 임베디드/Windows Embedded)는 [마이크로소프트](../Page/마이크로소프트.md "wikilink")가 개발한 [윈도우](../Page/마이크로소프트_윈도우.md "wikilink") 계열의 [임베디드 시스템](../Page/임베디드_시스템.md "wikilink") [운영 체제이다](../Page/운영_체제.md "wikilink"). 마이크로소프트는 현재 임베디드 장치를 위한 3개의 하위 운영 체제 계열이 있으며 [키오스크와](https://ko.wikipedia.org/wiki/키오스크_소프트웨어 "wikilink") 같은 [판매 시점 정보 관리](https://ko.wikipedia.org/wiki/판매_시점_정보_관리 "wikilink")(POS) 장치의 소형 [실시간](../Page/실시간_운영_체제.md "wikilink") 장치를 대상으로 한다. 윈도우 임베디드 운영 체제들은 하드웨어에 미리 로드되는 [OEM](../Page/OEM.md "wikilink")으로 이용이 가능하며 일부의 경우 볼륨 라이선스 고객에게도 판매되고 있다.

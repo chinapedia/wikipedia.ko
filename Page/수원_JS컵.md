@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ JS](https://ko.wikipedia.org/wiki/_JS).
+> This article is converted from Wikipedia: [수원 JS컵](https://ko.wikipedia.org/wiki/수원_JS컵).
 
 
 **수원 JS컵**은 [박지성](https://ko.wikipedia.org/wiki/박지성 "wikilink")이 설립한 자선재단인 [JS 파운데이션의](https://ko.wikipedia.org/wiki/JS_파운데이션 "wikilink") 주최로 [수원월드컵경기장](../Page/수원월드컵경기장.md "wikilink")에서 2015년 처음 개최된 대회이다. 비슷한 성격의 대회로는 수원컵 U-20 국제 청소년 국가대표 축구대회가 있었으며, 2003년부터 2011년 대회까지 개최되었고 이후 폐지되었다. 하지만 수원컵 U-20 축구 대회는 [FIFA U-20 월드컵](../Page/FIFA_U-20_월드컵.md "wikilink") 본선 진출 4개국 대회로 2년마다 개최된 대회였으나, 수원 JS컵은 2017년 [FIFA U-20 월드컵에서](../Page/FIFA_U-20_월드컵.md "wikilink") 대한민국 대표팀의 선전을 기원하며 개최된 대회이다.

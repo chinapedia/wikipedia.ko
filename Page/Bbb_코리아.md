@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Bbb ](https://ko.wikipedia.org/wiki/Bbb_).
+> This article is converted from Wikipedia: [Bbb 코리아](https://ko.wikipedia.org/wiki/Bbb_코리아).
 
 
 **bbb 코리아**는 언어 통역 [자원봉사자](https://ko.wikipedia.org/wiki/자원봉사자 "wikilink")들이 [휴대폰](https://ko.wikipedia.org/wiki/휴대폰 "wikilink")을 이용, 방한 외래객에게 언어, 문화 서비스를 제공함으로써\[1\] 국가간 언어 장벽 해소 및 국제 교류와 국가 위상 제고에 기여를 목적으로 [2003년](../Page/2003년.md "wikilink") [5월 6일](../Page/5월_6일.md "wikilink") 설립된 [대한민국 문화체육관광부](../Page/대한민국_문화체육관광부.md "wikilink") 소관의 [사단법인](../Page/사단법인.md "wikilink")이다.\[2\] 사무실은 [서울특별시](../Page/서울특별시.md "wikilink") [용산구](https://ko.wikipedia.org/wiki/용산구 "wikilink") 한남대로 150 신동빌딩 3층에 있다.

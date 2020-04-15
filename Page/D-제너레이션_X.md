@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [D- X](https://ko.wikipedia.org/wiki/D-_X).
+> This article is converted from Wikipedia: [D-제너레이션 X](https://ko.wikipedia.org/wiki/D-제너레이션_X).
 
 
 **D-제너레이션 X**(D-Generation X)는 프로레슬링 스테이블/태그팀이었다. 줄여서 **DX**라는 명을 쓴다. 2019년 2월에 [WWE 명예의 전당의](https://ko.wikipedia.org/wiki/WWE_명예의_전당 "wikilink") 헌액되었다.
@@ -12,7 +12,7 @@
   - [빌리 건](https://ko.wikipedia.org/wiki/빌리_건 "wikilink")
   - [X-팍](https://ko.wikipedia.org/wiki/션_왈트먼 "wikilink")
   - [릭 루드](https://ko.wikipedia.org/wiki/릭_루드 "wikilink")
-  - 토리
+  - [토리](https://ko.wikipedia.org/wiki/토리_윌슨 "wikilink")
   - [스테파니 맥맨](https://ko.wikipedia.org/wiki/스테파니_맥맨 "wikilink")
   - [혼스워글](https://ko.wikipedia.org/wiki/혼스워글 "wikilink")
   - [마이크 타이슨](../Page/마이크_타이슨.md "wikilink")
@@ -27,7 +27,7 @@
 
 ## 3기 (맥맨-헴즐리)
 
-1999년 중순 다시 결성하여 트리플 H와 [스테파니 맥맨](https://ko.wikipedia.org/wiki/스테파니_맥맨 "wikilink") 커플을 중심으로 악역으로 활동했다. X-팍과 그의 여자친구 토리까지 있었고 도중에 뉴 에이지 아웃로도 다시 돌아왔다. 2000년 [WCW](https://ko.wikipedia.org/wiki/WCW "wikilink")에서온 라디칼즈([에디 게레로](../Page/에디_게레로.md "wikilink"),[크리스 벤와](../Page/크리스_벤와.md "wikilink"),[딘 말렝코](https://ko.wikipedia.org/wiki/딘_말렝코 "wikilink"),[페리 새턴](https://ko.wikipedia.org/wiki/페리_새턴 "wikilink"))와 대립이 있었는데 [서바이벌 시리즈에서는](../Page/서바이벌_시리즈.md "wikilink") [K-퀵을](https://ko.wikipedia.org/wiki/알_트루쓰 "wikilink") 영입하여 대결하지만 패배하였다. 2000년 말 해체된 이후 2002년 브랜드 확장 이후에는 트리플 H가 숀 마이클스를 공격하면서 그들의 대립이 시작되었다.
+1999년 중순 다시 결성하여 트리플 H와 [스테파니 맥맨](https://ko.wikipedia.org/wiki/스테파니_맥맨 "wikilink") 커플을 중심으로 악역으로 활동했다. X-팍과 그의 여자친구 [토리 윌슨까지](https://ko.wikipedia.org/wiki/토리_윌슨 "wikilink") 있었고 도중에 뉴 에이지 아웃로도 다시 돌아왔다. 2000년 [WCW](https://ko.wikipedia.org/wiki/WCW "wikilink")에서온 라디칼즈([에디 게레로](../Page/에디_게레로.md "wikilink"),[크리스 벤와](../Page/크리스_벤와.md "wikilink"),[딘 말렝코](https://ko.wikipedia.org/wiki/딘_말렝코 "wikilink"),[페리 새턴](https://ko.wikipedia.org/wiki/페리_새턴 "wikilink"))와 대립이 있었는데 [서바이벌 시리즈에서는](../Page/서바이벌_시리즈.md "wikilink") [K-퀵을](https://ko.wikipedia.org/wiki/알_트루쓰 "wikilink") 영입하여 대결하지만 패배하였다. 2000년 말 해체된 이후 2002년 브랜드 확장 이후에는 트리플 H가 숀 마이클스를 공격하면서 그들의 대립이 시작되었다.
 
 ## 4기, 5기 (태그팀)
 
@@ -59,4 +59,4 @@
   - [숀 마이클스](../Page/숀_마이클스.md "wikilink")
   - [트리플 H](../Page/트리플_H.md "wikilink")
 
-[분류:WWE 태그팀 또는 스테이블](https://ko.wikipedia.org/wiki/분류:WWE_태그팀_또는_스테이블 "wikilink")
+[분류:WWE 태그팀 또는 스테이블](https://ko.wikipedia.org/wiki/분류:WWE_태그팀_또는_스테이블 "wikilink") [분류:WWE 명예의 전당](https://ko.wikipedia.org/wiki/분류:WWE_명예의_전당 "wikilink")

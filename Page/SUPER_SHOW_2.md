@@ -82,7 +82,7 @@
 <td><p>2010년 1월 23일</p></td>
 <td><p><a href="../Page/베이징시.md" title="wikilink">베이징</a></p></td>
 <td><p>우커송 농구장[7]</p></td>
-<td><p>11,426명</p></td>
+<td><p>12,426명</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -90,7 +90,7 @@
 <td><p><a href="../Page/타이베이시.md" title="wikilink">타이베이</a></p></td>
 <td></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/타이베이_아레나" title="wikilink">타이베이 아레나</a></p></td>
-<td><p>통산 23,582명</p></td>
+<td><p>통산 24,582명</p></td>
 </tr>
 <tr class="odd">
 <td><p>2010년 2월 21일</p></td>
@@ -128,7 +128,7 @@
 <td><p>15,174명</p></td>
 </tr>
 <tr class="even">
-<td><p>총 누적 관객 183,632명</p></td>
+<td><p>총 누적 관객 185,632명</p></td>
 <td></td>
 <td></td>
 <td></td>

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ T. ](https://ko.wikipedia.org/wiki/_T._).
+> This article is converted from Wikipedia: [메리 T. 마허](https://ko.wikipedia.org/wiki/메리_T._마허).
 
 
 **메리 터스티그 마허 플랜트**(Mary Tustegge Meagher Plant, [1964년](../Page/1964년.md "wikilink") [10월 27일](../Page/10월_27일.md "wikilink") \~ )는 [미국](../Page/미국.md "wikilink")의 [수영](../Page/수영.md "wikilink") 선수이자, 전 세계 기록 보유자이다. [1981년](../Page/1981년.md "wikilink") 자신의 생존 세계 기록들 - 100m(57.93초)와 200m [접영](https://ko.wikipedia.org/wiki/접영 "wikilink")(2분 05.96초)를 능가하여, 이 기록들이 18년과 19년 동안 존경할 만한 기록들로 서있었다.

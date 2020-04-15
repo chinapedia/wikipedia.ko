@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ MBN](https://ko.wikipedia.org/wiki/_MBN).
+> This article is converted from Wikipedia: [굿모닝 MBN](https://ko.wikipedia.org/wiki/굿모닝_MBN).
 
 
 **굿모닝 MBN**은 [대한민국](../Page/대한민국.md "wikilink")에서 평일 오전 7시 \~ 8시에 [텔레비전](../Page/텔레비전.md "wikilink")으로 아침 시간대 방송하는 [매일방송의 뉴스 프로그램이다](../Page/매일방송의_뉴스_프로그램.md "wikilink").
@@ -40,6 +40,6 @@
   - [MBN 종합뉴스](../Page/MBN_종합뉴스.md "wikilink")
   - [MBN 뉴스와이드 주말](../Page/MBN_뉴스와이드_주말.md "wikilink")
   - [시사스페셜](../Page/시사스페셜.md "wikilink")
-  - [MBN 뉴스특보](https://ko.wikipedia.org/wiki/MBN_뉴스특보 "wikilink")
+  - [MBN 뉴스특보](../Page/MBN_뉴스특보.md "wikilink")
 
 [분류:매일방송의 뉴스 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:매일방송의_뉴스_텔레비전_프로그램 "wikilink") [분류:아침 정보 프로그램](https://ko.wikipedia.org/wiki/분류:아침_정보_프로그램 "wikilink")

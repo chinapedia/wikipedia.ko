@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Somebody To Love \( \)](https://ko.wikipedia.org/wiki/Somebody_To_Love_\(_\)).
+> This article is converted from Wikipedia: [Somebody To Love \(동방신기의 노래\)](https://ko.wikipedia.org/wiki/Somebody_To_Love_\(동방신기의_노래\)).
 
 
 〈**Somebody To Love**〉(섬 바디 투 러브)는 [동방신기](../Page/동방신기.md "wikilink")의 일본에서의 통산 2번째 싱글 음반이다.

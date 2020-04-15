@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [NK  ](https://ko.wikipedia.org/wiki/NK__).
+> This article is converted from Wikipedia: [NK 인테르 자프레시치](https://ko.wikipedia.org/wiki/NK_인테르_자프레시치).
 
 
 **NK 인테르 자프레시치**(NK Inter Zaprešić)는 [크로아티아](../Page/크로아티아.md "wikilink") [자프레시치](https://ko.wikipedia.org/wiki/자프레시치 "wikilink")를 연고로 하는 축구 클럽이며 현재는 [프르바 HNL에](../Page/프르바_HNL.md "wikilink") 참가하고 있다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TV](https://ko.wikipedia.org/wiki/TV).
+> This article is converted from Wikipedia: [아이넷TV](https://ko.wikipedia.org/wiki/아이넷TV).
 
 
 **아이넷TV**(Inet TV)는 [대한민국](../Page/대한민국.md "wikilink")의 아이넷방송이 운영하는 [음악 전문](../Page/음악.md "wikilink") [유료 방송 채널이다](../Page/대한민국의_케이블TV_방송.md "wikilink"). [2002년](../Page/2002년.md "wikilink") 개국했으며, 주로 성인가요·[트로트](../Page/트로트.md "wikilink")와 관련된 [프로그램들을](../Page/텔레비전_프로그램.md "wikilink") 방영한다.

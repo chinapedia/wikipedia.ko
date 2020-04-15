@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Loveless \(  \)](https://ko.wikipedia.org/wiki/Loveless_\(__\)).
+> This article is converted from Wikipedia: [Loveless \(야마시타 토모히사의 노래\)](https://ko.wikipedia.org/wiki/Loveless_\(야마시타_토모히사의_노래\)).
 
 
 **Loveless**는 [야마시타 토모히사의](../Page/야마시타_토모히사.md "wikilink") 솔로 2번째 싱글이다.

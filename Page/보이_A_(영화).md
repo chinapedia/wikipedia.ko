@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ A \(\)](https://ko.wikipedia.org/wiki/_A_\(\)).
+> This article is converted from Wikipedia: [보이 A \(영화\)](https://ko.wikipedia.org/wiki/보이_A_\(영화\)).
 
 
 **보이 A**()는 [조너던 트리겔의](https://ko.wikipedia.org/wiki/조너던_트리겔 "wikilink") [동명의 소설을](https://ko.wikipedia.org/wiki/보이_A "wikilink") 각색한 2007년 공개 된 영국의 영화이다. 이 영화는 2007 [토론토 국제 영화제에서](../Page/토론토_국제_영화제.md "wikilink") 초연 되었다.\[1\]

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ FK](https://ko.wikipedia.org/wiki/_FK).
+> This article is converted from Wikipedia: [몰데 FK](https://ko.wikipedia.org/wiki/몰데_FK).
 
 
 **몰데 FK**(Molde FK)는 [1911년](../Page/1911년.md "wikilink") [6월 19일에](../Page/6월_19일.md "wikilink") 창단된 [노르웨이](../Page/노르웨이.md "wikilink") [뫼레오그롬스달주](https://ko.wikipedia.org/wiki/뫼레오그롬스달주 "wikilink") [몰데](../Page/몰데.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽으로, 현재 [엘리테세리엔](../Page/엘리테세리엔.md "wikilink")에서 활동하고 있다.

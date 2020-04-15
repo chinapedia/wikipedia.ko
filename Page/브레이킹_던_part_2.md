@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  part 2](https://ko.wikipedia.org/wiki/__part_2).
+> This article is converted from Wikipedia: [브레이킹 던 part 2](https://ko.wikipedia.org/wiki/브레이킹_던_part_2).
 
 
 **브레이킹 던 part 2**(The Twilight Saga part 2)는 2012년 개봉한 영화로, [스테프니 메이어의](../Page/스테프니_메이어.md "wikilink") 소설 [브레이킹 던을](https://ko.wikipedia.org/wiki/브레이킹_던 "wikilink") 바탕으로 만든 영화이다. 《[브레이킹 던 part 1](../Page/브레이킹_던_part_1.md "wikilink")》의 후편이다.

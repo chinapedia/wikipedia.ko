@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ATC  R06](https://ko.wikipedia.org/wiki/ATC__R06).
+> This article is converted from Wikipedia: [ATC 코드 R06](https://ko.wikipedia.org/wiki/ATC_코드_R06).
 
 
 **ATC 코드 R06**은 [ATC 코드의](https://ko.wikipedia.org/wiki/ATC_코드 "wikilink") 전신성 항히스타민제로 작용하는 약물을 정리한 코드이다. \[1\] **ATC 코드** R 호흡계의 하위그룹을 이룬다.

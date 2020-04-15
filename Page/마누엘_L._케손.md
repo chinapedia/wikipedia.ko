@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ L. ](https://ko.wikipedia.org/wiki/_L._).
+> This article is converted from Wikipedia: [마누엘 L. 케손](https://ko.wikipedia.org/wiki/마누엘_L._케손).
 
 
 **마누엘 루이스 케손 이 몰리나**(Manuel Luis Quezon y Molina, [1878년](../Page/1878년.md "wikilink") [8월 19일](../Page/8월_19일.md "wikilink") - [1944년](../Page/1944년.md "wikilink") [8월 1일](../Page/8월_1일.md "wikilink"))은 [필리핀](../Page/필리핀.md "wikilink")의 정치인, 독립운동가, [1935년](../Page/1935년.md "wikilink")부터 [1944년](../Page/1944년.md "wikilink")까지 [미국](../Page/미국.md "wikilink")의 보호 아래 수립된 [필리핀 자치령](../Page/필리핀_자치령.md "wikilink") 연방 정부의 초대, 제2대 대통령이었다. 약칭으로 **마누엘 케손**, **마누엘 루이스 케손** 등으로 불린다. [마닐라](../Page/마닐라.md "wikilink")의 [산토 토마스 대학을](https://ko.wikipedia.org/wiki/산토_토마스_대학 "wikilink") 고학으로 다니던 중 필리핀 독립 혁명에 참여, [카티푸난](../Page/카티푸난.md "wikilink") 혁명군에 참가하여 [미국](../Page/미국.md "wikilink")을 상대로 독립운동에 참여하여, 혁명전투에서 많은 공적을 세웠다.
@@ -49,7 +49,7 @@
 
 그의 업적 중 괄목할 만한 것은 '[타갈로그어](../Page/타갈로그어.md "wikilink")'를 국어로 선언했다는 것이다. 그는 많이 쓰던 [영어](../Page/영어.md "wikilink") 대신 [필리핀](../Page/필리핀.md "wikilink")의 전통 언어 중 살아남은 타갈로그족의 언어인 [타갈로그어](../Page/타갈로그어.md "wikilink")를 국어로 채택케 했다. 영어 전용론자들의 반대에도 불구하고 그는 강하게 추진해 나갔다. 그는 국민들이 하나의 공통된 언어를 가짐으로 해서 더욱 단결할 수 있고, 사람들이 전국 어느 곳을 가거나 의사 소통에 아무 어려움이 없을 것이라 판단하였다. [타갈로그 어](https://ko.wikipedia.org/wiki/타갈로그_어 "wikilink") [사전](../Page/사전.md "wikilink")을 만드는데는 어려움이 많이 따랐지만 그는 정력적으로 추진하여, [1940년](../Page/1940년.md "wikilink") [6월 19일](../Page/6월_19일.md "wikilink") 타갈로그어는 [필리핀](../Page/필리핀.md "wikilink")의 [국어](../Page/국어.md "wikilink")로 공식 선언되었다. 따라서 케손은 또한 '필리핀 국어의 아버지'라고도 불린다.
 
-헌법이 개정되어 대통령의 임기는 4년으로 재임을 할 수 있게 되었다. [1941년](../Page/1941년.md "wikilink") [8월 16일](../Page/8월_16일.md "wikilink") [대통령 선거에서](https://ko.wikipedia.org/wiki/대통령_선거 "wikilink") 마누엘 케손은 다시 대통령에 당선되어 커먼웰스 정부의 두 번째 대통령이 되었다. [부통령](https://ko.wikipedia.org/wiki/부통령 "wikilink")에는 [세르히오 오스메냐가](../Page/세르히오_오스메냐.md "wikilink") 당선되었다. 1941년 대통령에 재선되었으나 [1941년](../Page/1941년.md "wikilink") [12월 8일](../Page/12월_8일.md "wikilink") 필리핀은 [제2차 세계대전의](https://ko.wikipedia.org/wiki/제2차_세계대전 "wikilink") 소용돌이 속으로 빠져 들게 되고 [혼마 미시마루가](https://ko.wikipedia.org/wiki/혼마_미시마루 "wikilink") 이끄는 [일본군](../Page/일본군.md "wikilink")이 [필리핀](../Page/필리핀.md "wikilink") 전역을 점령하게 되면서 케손과 오스메냐는 미국으로 피신을 하게 된다.
+헌법이 개정되어 대통령의 임기는 4년으로 재임을 할 수 있게 되었다. [1941년](../Page/1941년.md "wikilink") [8월 16일](../Page/8월_16일.md "wikilink") [대통령 선거에서](../Page/대통령_선거.md "wikilink") 마누엘 케손은 다시 대통령에 당선되어 커먼웰스 정부의 두 번째 대통령이 되었다. [부통령](https://ko.wikipedia.org/wiki/부통령 "wikilink")에는 [세르히오 오스메냐가](../Page/세르히오_오스메냐.md "wikilink") 당선되었다. 1941년 대통령에 재선되었으나 [1941년](../Page/1941년.md "wikilink") [12월 8일](../Page/12월_8일.md "wikilink") 필리핀은 [제2차 세계대전의](https://ko.wikipedia.org/wiki/제2차_세계대전 "wikilink") 소용돌이 속으로 빠져 들게 되고 [혼마 미시마루가](https://ko.wikipedia.org/wiki/혼마_미시마루 "wikilink") 이끄는 [일본군](../Page/일본군.md "wikilink")이 [필리핀](../Page/필리핀.md "wikilink") 전역을 점령하게 되면서 케손과 오스메냐는 미국으로 피신을 하게 된다.
 
 ### 망명과 최후
 

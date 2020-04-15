@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Colorful \(9nine \)](https://ko.wikipedia.org/wiki/Colorful_\(9nine_\)).
+> This article is converted from Wikipedia: [Colorful \(9nine의 노래\)](https://ko.wikipedia.org/wiki/Colorful_\(9nine의_노래\)).
 
 
 「**colorful**」(컬러풀) [9nine](../Page/9nine.md "wikilink")의 13번째 싱글이다. [2013년](../Page/2013년.md "wikilink") [2월 6일에](../Page/2월_6일.md "wikilink") [SME Records로부터](https://ko.wikipedia.org/wiki/SME_Records "wikilink") 발매 예정이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [   TV ](https://ko.wikipedia.org/wiki/___TV_).
+> This article is converted from Wikipedia: [한국 현대사 증언 TV 자서전](https://ko.wikipedia.org/wiki/한국_현대사_증언_TV_자서전).
 
 
 **한국 현대사 증언 TV 자서전**은 [2011년](../Page/2011년.md "wikilink") [1월 8일부터](../Page/1월_8일.md "wikilink") [2013년](../Page/2013년.md "wikilink") [10월 13일까지](../Page/10월_13일.md "wikilink") 방송된 [한국방송공사](../Page/한국방송공사.md "wikilink")의 [다큐멘터리 텔레비전 프로그램이다](../Page/다큐멘터리_텔레비전_프로그램.md "wikilink").
@@ -58,7 +58,7 @@
 <tr class="odd">
 <td><p>5</p></td>
 <td><p><a href="../Page/2월_19일.md" title="wikilink">2월 19일</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/신영균" title="wikilink">신영균</a></p></td>
+<td><p><a href="../Page/신영균_(배우).md" title="wikilink">신영균</a></p></td>
 <td><p>영화 반세기</p></td>
 </tr>
 <tr class="even">

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [BBC  2](https://ko.wikipedia.org/wiki/BBC__2).
+> This article is converted from Wikipedia: [BBC 라디오 2](https://ko.wikipedia.org/wiki/BBC_라디오_2).
 
 
 [오른쪽](https://ko.wikipedia.org/wiki/파일:BBC_Radio_2.svg "wikilink") **BBC 라디오 2**(BBC Radio 2)는 [BBC의](../Page/영국방송공사.md "wikilink") 라디오 방송 중 하나로, 중장년층 대중 가요 및 토크 프로그램을 주로 방송한다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [HNK ](https://ko.wikipedia.org/wiki/HNK_).
+> This article is converted from Wikipedia: [HNK 시베니크](https://ko.wikipedia.org/wiki/HNK_시베니크).
 
 
 **HNK 시베니크**(HNK Šibenik)는 [크로아티아](../Page/크로아티아.md "wikilink") [시베니크](../Page/시베니크.md "wikilink")를 연고로 하는 축구 클럽이며 현재는 [드루가 HNL](https://ko.wikipedia.org/wiki/드루가_HNL "wikilink")(크로아티아의 2부 축구 리그)에 참가하고 있다. 이 클럽은 1932년에 창단되었으며 1992년부터 2003년까지 [프르바 HNL](../Page/프르바_HNL.md "wikilink")(크로아티아의 1부 축구 리그)에 참가한 경력이 있다.

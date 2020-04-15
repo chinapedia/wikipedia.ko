@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Diet \( \)](https://ko.wikipedia.org/wiki/Diet_\(_\)).
+> This article is converted from Wikipedia: [Diet \(김현정의 음반\)](https://ko.wikipedia.org/wiki/Diet_\(김현정의_음반\)).
 
 
 《**Diet**》는 [김현정의](../Page/김현정_\(가수\).md "wikilink") 정규 5집 음반이다.

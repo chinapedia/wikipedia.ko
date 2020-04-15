@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Times \(\)](https://ko.wikipedia.org/wiki/Times_\(\)).
+> This article is converted from Wikipedia: [Times \(음반\)](https://ko.wikipedia.org/wiki/Times_\(음반\)).
 
 
 《**Times**》는 [2012년](../Page/2012년.md "wikilink")에 발표된 [게이트 플라워즈의](../Page/게이트_플라워즈.md "wikilink") 첫 번째 정규음반이다.

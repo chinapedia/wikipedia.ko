@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [USS   \(CVN-76\)](https://ko.wikipedia.org/wiki/USS___\(CVN-76\)).
+> This article is converted from Wikipedia: [USS 로널드 레이건 \(CVN-76\)](https://ko.wikipedia.org/wiki/USS_로널드_레이건_\(CVN-76\)).
 
 
 **USS 로널드 레이건**(USS Ronald Reagan (CVN-76))은 [미국 해군의](../Page/미국_해군.md "wikilink") [니미츠급 항공모함이다](../Page/니미츠급_항공모함.md "wikilink"). 1981년부터 1989년까지 [미국의 대통령을](../Page/미국의_대통령.md "wikilink") 역임한 [로널드 레이건의](../Page/로널드_레이건.md "wikilink") 이름을 따서 명명되었다.

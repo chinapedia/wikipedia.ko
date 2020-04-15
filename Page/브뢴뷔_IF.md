@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ IF](https://ko.wikipedia.org/wiki/_IF).
+> This article is converted from Wikipedia: [브뢴뷔 IF](https://ko.wikipedia.org/wiki/브뢴뷔_IF).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Brøndby_stadium_panorama.jpg "wikilink") **브뢴뷔 IF**(Brøndbyernes Idrætsforening, Brøndby IF)는 [덴마크](../Page/덴마크.md "wikilink") [코펜하겐](../Page/코펜하겐.md "wikilink") 인근에 위치한 지방 자치체인 [브뢴뷔](https://ko.wikipedia.org/wiki/브뢴뷔 "wikilink")를 연고로 하는 [축구](../Page/축구.md "wikilink") 클럽이다. 줄여서 **브뢴뷔**(Brøndby) 또는 **BIF**라고 부르기도 한다. 현재는 [덴마크 수페르리가에](../Page/덴마크_수페르리가.md "wikilink") 참가하고 있다.

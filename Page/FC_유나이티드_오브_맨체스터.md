@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FC   ](https://ko.wikipedia.org/wiki/FC___).
+> This article is converted from Wikipedia: [FC 유나이티드 오브 맨체스터](https://ko.wikipedia.org/wiki/FC_유나이티드_오브_맨체스터).
 
 
 **FC 유나이티드 오브 맨체스터**()는 [그레이터맨체스터주](../Page/그레이터맨체스터주.md "wikilink")에 있는 긱 레인 경기장을 근거지로 하는 [잉글랜드](../Page/잉글랜드.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다.

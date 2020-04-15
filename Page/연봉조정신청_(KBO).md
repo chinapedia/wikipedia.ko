@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ \(KBO\)](https://ko.wikipedia.org/wiki/_\(KBO\)).
+> This article is converted from Wikipedia: [연봉조정신청 \(KBO\)](https://ko.wikipedia.org/wiki/연봉조정신청_\(KBO\)).
 
 
 **연봉조정신청**(salary arbitration) 이란 [KBO](https://ko.wikipedia.org/wiki/KBO_\(야구\) "wikilink") 소속 선수로서 만 3년이 경과한 선수에게 주어지는 자격이다. (KBO에서는 부상자 명단으로 1군 엔트리 누락시 포함되지 않음) KBO [야구규약](https://ko.wikipedia.org/wiki/야구규약 "wikilink") 제73조\[1\] 에 의거하여 매년 1월 10일 오후6시까지 총재가 수리하여 [야구규약](https://ko.wikipedia.org/wiki/야구규약 "wikilink") 제75조에 의거하여 조정위원회를 구성, 수리된 신청건에 대하여 조정신청 수리후 10일이내에 종결해야 한다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [WLO\~](https://ko.wikipedia.org/wiki/WLO\~).
+> This article is converted from Wikipedia: [WLO\~세계연애기구](https://ko.wikipedia.org/wiki/WLO\~세계연애기구).
 
 
 **WLO\~세계연애기구**(W.L.O. 世界恋愛機構, せかいれんあいきこーう, 세카이 렌아이 키-코우)는 [아카베소프트2](https://ko.wikipedia.org/wiki/아카베소프트2 "wikilink")의 2009년 작 어덜트 게임이다. 2010년에 [XBOX360](https://ko.wikipedia.org/wiki/XBOX360 "wikilink")으로 이식되었다.

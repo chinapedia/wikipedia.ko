@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [WCW ](https://ko.wikipedia.org/wiki/WCW_).
+> This article is converted from Wikipedia: [WCW 언센서드](https://ko.wikipedia.org/wiki/WCW_언센서드).
 
 
 **언센서드**(Uncensored)는 [WCW가](https://ko.wikipedia.org/wiki/월드_챔피언십_레슬링 "wikilink") 주관하였고, 2000년 끝으로 폐지된 페이 퍼 뷰이다.

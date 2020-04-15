@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ \~ Immaterial and Missing Power](https://ko.wikipedia.org/wiki/_\~_Immaterial_and_Missing_Power).
+> This article is converted from Wikipedia: [동방췌몽상 \~ Immaterial and Missing Power](https://ko.wikipedia.org/wiki/동방췌몽상_\~_Immaterial_and_Missing_Power).
 
 
 《**동방췌몽상 \~ Immaterial and Missing Power**》()은 [상하이 앨리스 환악단과](../Page/상하이_앨리스_환악단.md "wikilink") [황혼 프론티어와의](../Page/황혼_프론티어.md "wikilink") 처음으로 공동으로 제작한 외전 작품이자, 최초의 격투형 게임이다.

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [A Tale of Two Cities](https://ko.wikipedia.org/wiki/A_Tale_of_Two_Cities).
 
 
-《***A Tale of Two Cities***》는 영국 밴드 **[미스터 허드슨 & 더 라이브러리](https://ko.wikipedia.org/wiki/미스터_허드슨_&_더_라이브러리 "wikilink")**의 데뷔 앨범으로, 2007년 5월 5일 발매되었다. 이 앨범의 이름은 [찰스 디킨스의](../Page/찰스_디킨스.md "wikilink") 동명의 소설 "[두 도시 이야기](https://ko.wikipedia.org/wiki/두_도시_이야기 "wikilink")"에서 따온 것이다.
+《***A Tale of Two Cities***》는 영국 밴드 **[미스터 허드슨 & 더 라이브러리](https://ko.wikipedia.org/wiki/미스터_허드슨_&_더_라이브러리 "wikilink")**의 데뷔 앨범으로, 2007년 5월 5일 발매되었다. 이 앨범의 이름은 [찰스 디킨스의](../Page/찰스_디킨스.md "wikilink") 동명의 소설 "[두 도시 이야기](../Page/두_도시_이야기.md "wikilink")"에서 따온 것이다.
 
 이 중에서 〈Bread & Roses〉, 〈Too Late Too Late〉, 〈Ask the DJ〉, 〈Picture of You〉는 2007년에서 2008년 사이에 싱글 앨범으로 발매되었다.
 

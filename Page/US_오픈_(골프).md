@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [US  \(\)](https://ko.wikipedia.org/wiki/US__\(\)).
+> This article is converted from Wikipedia: [US 오픈 \(골프\)](https://ko.wikipedia.org/wiki/US_오픈_\(골프\)).
 
 
 **US 오픈 챔피언십**(United States Open Championship) 또는 **US 오픈**()은 매년 개최되는 4대 [메이저 골프 대회의](https://ko.wikipedia.org/wiki/남자_메이저_골프_대회 "wikilink") 하나이다. 1895년 처음 시작되었다.

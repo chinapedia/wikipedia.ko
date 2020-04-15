@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Love Letter \( \)](https://ko.wikipedia.org/wiki/Love_Letter_\(_\)).
+> This article is converted from Wikipedia: [Love Letter \(써니힐의 음반\)](https://ko.wikipedia.org/wiki/Love_Letter_\(써니힐의_음반\)).
 
 
 《**Love Letter**》는 [써니힐](../Page/써니힐.md "wikilink")의 데뷔 앨범이다. 2007년 9월 20일 발매되었다.

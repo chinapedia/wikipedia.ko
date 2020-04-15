@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ III: ](https://ko.wikipedia.org/wiki/_III:_).
+> This article is converted from Wikipedia: [무간도 III: 종극무간](https://ko.wikipedia.org/wiki/무간도_III:_종극무간).
 
 
 **무간도 III: 종극무간**(無間道III：終極無間)는 [2003년](../Page/2003년.md "wikilink") 개봉한 [홍콩](../Page/홍콩.md "wikilink")의 범죄 스릴러 영화이자 [무간도](../Page/무간도.md "wikilink") 시리즈의 3편(완결편)이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [IBM ](https://ko.wikipedia.org/wiki/IBM_).
+> This article is converted from Wikipedia: [IBM 사이먼](https://ko.wikipedia.org/wiki/IBM_사이먼).
 
 
 [thumb](https://ko.wikipedia.org/wiki/파일:IBM_Simon_Personal_Communicator.png "wikilink") **IBM 사이먼 퍼스널 커뮤니케이터**(IBM Simon Personal Communicator)는 [IBM](../Page/IBM.md "wikilink")이 설계한 휴대용 [휴대 전화이자](../Page/휴대_전화.md "wikilink") [개인 정보 단말기이다](../Page/개인_정보_단말기.md "wikilink"). GS 88 "Penelope"이라는 개념이 "스마트 폰"(Smart Phone)으로 기술된 1997년에 [스마트폰](../Page/스마트폰.md "wikilink")이라는 용어가 만들어졌지만\[1\]\[2\]\[3\]\[4\]\[5\], 사이먼 퍼스널 커뮤니케이터는 최초의 스마트폰으로 간주될 수 있다.

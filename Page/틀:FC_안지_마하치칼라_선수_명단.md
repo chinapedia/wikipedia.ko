@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:FC    ](https://ko.wikipedia.org/wiki/:FC____).
+> This article is converted from Wikipedia: [틀:FC 안지 마하치칼라 선수 명단](https://ko.wikipedia.org/wiki/틀:FC_안지_마하치칼라_선수_명단).
 
 
 <onlyinclude></onlyinclude>

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [HDC](https://ko.wikipedia.org/wiki/HDC).
+> This article is converted from Wikipedia: [HDC영창](https://ko.wikipedia.org/wiki/HDC영창).
 
 
 **HDC영창**(HDC英昌)은 [HDC현대산업개발](../Page/HDC현대산업개발.md "wikilink") 계열의 [대한민국](../Page/대한민국.md "wikilink")의 악기 제조 및 판매 기업이다.

@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [GOLD \(\)](https://ko.wikipedia.org/wiki/GOLD_\(\)).
+> This article is converted from Wikipedia: [GOLD \(드라마\)](https://ko.wikipedia.org/wiki/GOLD_\(드라마\)).
 
 
-《**GOLD**》(골드)는 [2010년](../Page/2010년.md "wikilink") [7월 8일](../Page/7월_8일.md "wikilink") 부터 [2010년](../Page/2010년.md "wikilink") [9월 16일까지](../Page/9월_16일.md "wikilink") [후지 TV에서](../Page/후지_TV.md "wikilink") 방송된 [일본](../Page/일본.md "wikilink")의 [텔레비전 드라마이다](https://ko.wikipedia.org/wiki/일본_드라마 "wikilink").
+《**GOLD**》(골드)는 [2010년](../Page/2010년.md "wikilink") [7월 8일](../Page/7월_8일.md "wikilink") 부터 [2010년](../Page/2010년.md "wikilink") [9월 16일까지](../Page/9월_16일.md "wikilink") [후지 TV에서](../Page/후지_TV.md "wikilink") 방송된 [일본](../Page/일본.md "wikilink")의 [텔레비전 드라마이다](https://ko.wikipedia.org/wiki/일본_드라마 "wikilink"). 주연은 [아마미 유키](../Page/아마미_유키.md "wikilink").
 
 ## 개요
 
@@ -9,7 +9,7 @@
 
 [캐치프레이즈](https://ko.wikipedia.org/wiki/캐치프레이즈 "wikilink")는 〈**"아마미 유키 금메달을 목표로 한다.", "금메달을 획득하지 않는다면, 끝나지 않아."**〉
 
-## 등장인물
+## 등장 인물
 
 ### 사오토메가(家)
 
@@ -245,7 +245,7 @@
   -
     66세. 소이치의 전 아내이자, 슈이치와 유리의 어머니. 슈이치가 죽었을 때 불륜을 일으켜 가족에게 비난받아 소이치과 이혼하고 파리로 건너가 화가로 활동하고 있다. 육아에 대해 다른 사람과의 경쟁이 성장에 마이너스가 된다고 생각해 사오토메 가정의 방식을 부정한다. 부상을 당한 코우의 상담을 받아 유리는 엄마로서 실격이라고 말하고 코우를 파리로 데리고 돌아가려고 하지만, 소이치가 과거의 불륜을 폭로하려하자 포기한다.
 
-## 스태프
+## 제작진
 
   - 각본 : [노지마 신지](../Page/노지마_신지.md "wikilink")
   - 음악 : 센주 아키라, 이케 요시히로
@@ -253,16 +253,12 @@
   - 연출 : 카와케 슌사쿠, 카토 히로마사, 이시이 유스케
   - 제작 : [후지 TV](../Page/후지_TV.md "wikilink") 드라마 제작 센터
 
-## DVD
-
-  - "GOLD" 완전판 DVD-BOX ([포니캐년](https://ko.wikipedia.org/wiki/포니캐년 "wikilink") 2011년 1월 7일 발매)
-
 ## 주제가
 
   - 주제가 : [Superfly](https://ko.wikipedia.org/wiki/슈퍼플라이 "wikilink") 〈Wildflower〉 ([워너 뮤직 재팬](../Page/워너_뮤직_재팬.md "wikilink"))
   - 삽입 노래 : Superfly 〈Fooled Around and Fell In Love〉 (워너 뮤직 재팬)
 
-## 방송 일자
+## 방송일·부제·시청률
 
 <table>
 <thead>
@@ -386,6 +382,10 @@
 
   - [2010년](../Page/2010년.md "wikilink") [7월 29일](../Page/7월_29일.md "wikilink") 제4회는 《톤네루즈의 여러분 덕분입니다》 확대 방송을 위해 20분 지연 방송되었다.
   - [2010년](../Page/2010년.md "wikilink") [9월 9일](../Page/9월_9일.md "wikilink") 제10화는 《세계 유도 선수권 2010》 중계 연장을 위해 40분 지연 방송되었다.
+
+## DVD
+
+  - 『GOLD』 완전판 DVD-BOX ([포니캐년](https://ko.wikipedia.org/wiki/포니캐년 "wikilink") 2011년 1월 7일 발매)
 
 ## 외부 링크
 

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ATC  S03](https://ko.wikipedia.org/wiki/ATC__S03).
+> This article is converted from Wikipedia: [ATC 코드 S03](https://ko.wikipedia.org/wiki/ATC_코드_S03).
 
 
 **ATC 코드 S03**은 [ATC 코드의](https://ko.wikipedia.org/wiki/ATC_코드 "wikilink") 안과 및 이(耳)과 조제의약품으로 사용하는 약물을 정리한 코드이다. \[1\] **ATC 코드** S [감각 기관의](https://ko.wikipedia.org/wiki/감각_기관 "wikilink") 하위그룹을 이룬다.

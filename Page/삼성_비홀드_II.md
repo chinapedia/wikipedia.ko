@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  II](https://ko.wikipedia.org/wiki/__II).
+> This article is converted from Wikipedia: [삼성 비홀드 II](https://ko.wikipedia.org/wiki/삼성_비홀드_II).
 
 
 **삼성 비홀드 II**(, )는 [삼성전자](https://ko.wikipedia.org/wiki/삼성전자 "wikilink")가 [2009년](../Page/2009년.md "wikilink")에 출시한 [스마트폰](../Page/스마트폰.md "wikilink")이다.\[1\]

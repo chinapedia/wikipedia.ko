@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [AC ](https://ko.wikipedia.org/wiki/AC_).
+> This article is converted from Wikipedia: [AC 아작시오](https://ko.wikipedia.org/wiki/AC_아작시오).
 
 
 **AC 아작시오**(Athletic Club Ajaccio, AC Ajaccio)는 [프랑스](../Page/프랑스.md "wikilink") [코르시카 섬의](https://ko.wikipedia.org/wiki/코르시카_섬 "wikilink") 도시인 [아작시오](../Page/아작시오.md "wikilink")를 연고로 하는 축구 팀이다. 이 클럽은 [1910년](../Page/1910년.md "wikilink")에 창단했으며 현재 [리그 2에서](../Page/리그_2.md "wikilink") 활동하고 있다.

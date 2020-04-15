@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ \(  REBORN!\)](https://ko.wikipedia.org/wiki/_\(__REBORN!\)).
+> This article is converted from Wikipedia: [리본 \(가정교사 히트맨 REBORN!\)](https://ko.wikipedia.org/wiki/리본_\(가정교사_히트맨_REBORN!\)).
 
 
 **리본**(リボーン)는 [가정교사 히트맨 REBORN\!의](../Page/가정교사_히트맨_REBORN!.md "wikilink") 등장인물이다.

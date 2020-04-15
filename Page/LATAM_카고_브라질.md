@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [LATAM  ](https://ko.wikipedia.org/wiki/LATAM__).
+> This article is converted from Wikipedia: [LATAM 카고 브라질](https://ko.wikipedia.org/wiki/LATAM_카고_브라질).
 
 
 **LATAM 카고 브라질**()은 [브라질](../Page/브라질.md "wikilink")의 물류 기업 겸 화물 항공사로 본사는 [브라질](../Page/브라질.md "wikilink") [상파울루](../Page/상파울루.md "wikilink") [콩고냐스 상파울루 공항에](https://ko.wikipedia.org/wiki/콩고냐스_상파울루_공항 "wikilink") 위치해 있으며 [1997년](../Page/1997년.md "wikilink")에 설립했다. 이 회사는 [브라질](../Page/브라질.md "wikilink")을 비롯해 3,900개 이상의 해외 도시에 도달 하고 있으며 지상파 서비스의 경우 45개의 공항에서 화물 배달 항공편을 사용하고 있다.

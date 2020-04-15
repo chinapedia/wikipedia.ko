@@ -18,4 +18,4 @@
 
   - [CNBC 공식 홈페이지](http://www.cnbc.com)
 
-[CNBC](https://ko.wikipedia.org/wiki/분류:CNBC "wikilink") [분류:경제 텔레비전 네트워크](https://ko.wikipedia.org/wiki/분류:경제_텔레비전_네트워크 "wikilink") [분류:미국의 텔레비전 네트워크](https://ko.wikipedia.org/wiki/분류:미국의_텔레비전_네트워크 "wikilink") [분류:1989년 설립된 텔레비전 방송국과 채널](https://ko.wikipedia.org/wiki/분류:1989년_설립된_텔레비전_방송국과_채널 "wikilink") [분류:NBC유니버설 네트웍스](https://ko.wikipedia.org/wiki/분류:NBC유니버설_네트웍스 "wikilink") [분류:피버디상 수상자](https://ko.wikipedia.org/wiki/분류:피버디상_수상자 "wikilink") [분류:제너럴 일렉트릭의 이전 자회사‎](https://ko.wikipedia.org/wiki/분류:제너럴_일렉트릭의_이전_자회사‎ "wikilink")
+[분류:CNBC](https://ko.wikipedia.org/wiki/분류:CNBC "wikilink") [분류:경제 텔레비전 네트워크](https://ko.wikipedia.org/wiki/분류:경제_텔레비전_네트워크 "wikilink") [분류:미국의 텔레비전 네트워크](https://ko.wikipedia.org/wiki/분류:미국의_텔레비전_네트워크 "wikilink") [분류:1989년 설립된 텔레비전 방송국과 채널](https://ko.wikipedia.org/wiki/분류:1989년_설립된_텔레비전_방송국과_채널 "wikilink") [분류:NBC유니버설 네트웍스](https://ko.wikipedia.org/wiki/분류:NBC유니버설_네트웍스 "wikilink") [분류:피버디상 수상자](https://ko.wikipedia.org/wiki/분류:피버디상_수상자 "wikilink") [분류:제너럴 일렉트릭의 이전 자회사‎](https://ko.wikipedia.org/wiki/분류:제너럴_일렉트릭의_이전_자회사‎ "wikilink")

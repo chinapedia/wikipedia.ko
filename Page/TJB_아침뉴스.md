@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TJB ](https://ko.wikipedia.org/wiki/TJB_).
+> This article is converted from Wikipedia: [TJB 아침뉴스](https://ko.wikipedia.org/wiki/TJB_아침뉴스).
 
 
 **TJB 아침뉴스**는 [대한민국](../Page/대한민국.md "wikilink") [TJB](https://ko.wikipedia.org/wiki/TJB "wikilink")에서 평일 아침 7시 5분에 방송되는 [TJB의](../Page/대전방송.md "wikilink") 아침뉴스 프로그램이다.

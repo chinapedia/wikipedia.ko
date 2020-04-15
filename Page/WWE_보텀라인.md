@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [WWE ](https://ko.wikipedia.org/wiki/WWE_).
+> This article is converted from Wikipedia: [WWE 보텀라인](https://ko.wikipedia.org/wiki/WWE_보텀라인).
 
 
 **보텀라인**(Bottom Line)은 [WWE 러의](../Page/WWE_러.md "wikilink") 하이라이트 프로그램으로서 해외 수출용이다. 2002년 5월 24일 기존의 하이라이트 프로그램이었던 라이브와이어를 대신하여 방영하고 있다. 미국에는 2005년 9월부터 방영이 중단되고 미국에는 [WWE A.M. 러가](https://ko.wikipedia.org/wiki/WWE_A.M._러 "wikilink") 방영되고 있다.

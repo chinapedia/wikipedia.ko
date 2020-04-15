@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:NMB48](https://ko.wikipedia.org/wiki/:NMB48).
+> This article is converted from Wikipedia: [틀:NMB48](https://ko.wikipedia.org/wiki/틀:NMB48).
 
 
 <onlyinclude></onlyinclude>

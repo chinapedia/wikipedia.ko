@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [WWE ](https://ko.wikipedia.org/wiki/WWE_).
+> This article is converted from Wikipedia: [WWE 네트워크](https://ko.wikipedia.org/wiki/WWE_네트워크).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:WWENetworkLogo.png "wikilink")

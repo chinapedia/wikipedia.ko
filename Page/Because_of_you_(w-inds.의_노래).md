@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Because of you \(w-inds. \)](https://ko.wikipedia.org/wiki/Because_of_you_\(w-inds._\)).
+> This article is converted from Wikipedia: [Because of you \(w-inds.의 노래\)](https://ko.wikipedia.org/wiki/Because_of_you_\(w-inds.의_노래\)).
 
 
 〈**Because of you**〉(비커즈 오브 유)는 [w-inds.](https://ko.wikipedia.org/wiki/w-inds. "wikilink")의 6번째 싱글이다. [2002년](../Page/2002년.md "wikilink") [8월 21일](../Page/8월_21일.md "wikilink") FLIGHT MASTER(포니 캐년)에서 발매하였다.

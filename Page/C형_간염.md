@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [C ](https://ko.wikipedia.org/wiki/C_).
+> This article is converted from Wikipedia: [C형 간염](https://ko.wikipedia.org/wiki/C형_간염).
 
 
 **C형 간염**(Hepatitis C)은 [C형 간염 바이러스](../Page/C형_간염_바이러스.md "wikilink")(HCV)로 인해 발생되며 주로 [간](../Page/간.md "wikilink")에 영향을 주는 [감염병](../Page/감염병.md "wikilink")이다.\[1\]

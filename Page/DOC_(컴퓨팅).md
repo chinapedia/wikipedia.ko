@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [DOC \(\)](https://ko.wikipedia.org/wiki/DOC_\(\)).
+> This article is converted from Wikipedia: [DOC \(컴퓨팅\)](https://ko.wikipedia.org/wiki/DOC_\(컴퓨팅\)).
 
 
 [컴퓨팅](../Page/컴퓨팅.md "wikilink")에서 **DOC** 또는 **doc** ([document의](https://ko.wikipedia.org/wiki/문서 "wikilink") 준말)는 [워드 처리](https://ko.wikipedia.org/wiki/워드_처리 "wikilink") 문서를 위한 [파일 확장자이다](../Page/파일_확장자.md "wikilink"). 대개 [마이크로소프트 워드에](../Page/마이크로소프트_워드.md "wikilink") 쓰인다. 역사적으로 이 확장자는 다양한 [운영 체제에서](../Page/운영_체제.md "wikilink"), 특히 프로그램이나 컴퓨터 하드웨어의 [플레인 텍스트](../Page/플레인_텍스트.md "wikilink") [형식으로](https://ko.wikipedia.org/wiki/파일_형식 "wikilink") 사용되었다. 1980년대에 [워드퍼펙트](../Page/워드퍼펙트.md "wikilink")는 DOC를 저들의 [사유 포맷](https://ko.wikipedia.org/wiki/사유_포맷 "wikilink") 확장자로 사용하였다. 나중에 1990년대 말에 이르러 [마이크로소프트](../Page/마이크로소프트.md "wikilink")는 DOC 확장자를 자신의 [마이크로소프트 워드](../Page/마이크로소프트_워드.md "wikilink") 워드 처리 포맷으로 사용하였다. 전자의 경우 [PC](../Page/개인용_컴퓨터.md "wikilink") 세상에서 대부분 사라진 상황이다.

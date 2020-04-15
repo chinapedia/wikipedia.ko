@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [- CLK](https://ko.wikipedia.org/wiki/-_CLK).
+> This article is converted from Wikipedia: [메르세데스-벤츠 CLK](https://ko.wikipedia.org/wiki/메르세데스-벤츠_CLK).
 
 
 **메르세데스-벤츠 CLK 클래스**(Mercedes-Benz CLK-Class)는 [다임러 AG가](../Page/다임러_AG.md "wikilink") 제조해 [메르세데스-벤츠](../Page/메르세데스-벤츠.md "wikilink")로 판매된 승용차이다.

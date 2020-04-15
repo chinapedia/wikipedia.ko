@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  FC](https://ko.wikipedia.org/wiki/__FC).
+> This article is converted from Wikipedia: [루턴 타운 FC](https://ko.wikipedia.org/wiki/루턴_타운_FC).
 
 
 **루턴 타운 FC**(Luton Town Football Club, Luton Town F.C.)는 1885년 4월 11일에 창단된 [잉글랜드](../Page/잉글랜드.md "wikilink") [루턴](../Page/루턴.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다. [EFL 리그 2에](https://ko.wikipedia.org/wiki/EFL_리그_2 "wikilink") 참가하고 있다. 2009-10 시즌에서는 2위를 차지하였으나 승강 플레이오프에서 탈락하여 [풋볼 리그 2에](https://ko.wikipedia.org/wiki/풋볼_리그_2 "wikilink") 참가하지 못했다. 또한 2010-11 시즌에서는 플레이오프 결승전까지 올랐지만, [AFC 윔블던에게](../Page/AFC_윔블던.md "wikilink") 승부차기까지 가는 접전 끝에 4:3으로 패배하여 강등 이후 2년 연속 프로 리그 승격에 실패하였다. 허나 2012-13 시즌에 FA컵 32강에서 [노리치 시티를](https://ko.wikipedia.org/wiki/노리치_시티 "wikilink") 꺾는 대이변을 일으키며 1986년 이후 최초로 아마추어 팀이 프로 1부 리그 팀을 이긴 기록을 세우게 되었다. 현재 홈구장은 [케닐워스 로드](https://ko.wikipedia.org/wiki/케닐워스_로드 "wikilink") 경기장이다.

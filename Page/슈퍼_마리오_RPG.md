@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  RPG](https://ko.wikipedia.org/wiki/__RPG).
+> This article is converted from Wikipedia: [슈퍼 마리오 RPG](https://ko.wikipedia.org/wiki/슈퍼_마리오_RPG).
 
 
 《**슈퍼 마리오 RPG**》(Super Mario RPG: Legend of the Seven Stars)는 [닌텐도](../Page/닌텐도.md "wikilink")와 [스퀘어와](https://ko.wikipedia.org/wiki/스퀘어에닉스 "wikilink") 공동 제작한 3D RPG이며 [슈퍼패미컴](https://ko.wikipedia.org/wiki/슈퍼패미컴 "wikilink")의 게임이자 [1996년](../Page/1996년.md "wikilink")에 발매하였다.

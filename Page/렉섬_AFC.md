@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ AFC](https://ko.wikipedia.org/wiki/_AFC).
+> This article is converted from Wikipedia: [렉섬 AFC](https://ko.wikipedia.org/wiki/렉섬_AFC).
 
 
 **렉섬 축구 클럽**(, )은 [영국](../Page/영국.md "wikilink") [웨일스](../Page/웨일스.md "wikilink")의 [렉섬](https://ko.wikipedia.org/wiki/렉섬 "wikilink")을 근거지로 하는 [축구](../Page/축구.md "wikilink") 클럽으로 [잉글랜드 축구 리그 시스템에](https://ko.wikipedia.org/wiki/잉글랜드_축구_리그_시스템 "wikilink") 속해 있다. [1864년](../Page/1864년.md "wikilink")에 창단했으며 이는 [웨일스](../Page/웨일스.md "wikilink")에서 가장 오래된 클럽이며 세계에서 세 번째로 오래된 프로 축구 팀이다. 현재 잉글랜드 5부리그격인 [콘퍼런스 프리미어에](https://ko.wikipedia.org/wiki/콘퍼런스_프리미어 "wikilink") 소속되어 있다.

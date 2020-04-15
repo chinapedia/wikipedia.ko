@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:MBC  ](https://ko.wikipedia.org/wiki/:MBC__).
+> This article is converted from Wikipedia: [틀:MBC 연기대상 대상](https://ko.wikipedia.org/wiki/틀:MBC_연기대상_대상).
 
 
 <onlyinclude>{{둘러보기 상자 |이름 = MBC 연기대상 대상 |제목 = [<span style="color: #FFFfff">MBC 연기대상</span>](../Page/MBC_연기대상.md "wikilink") 대상 |제목모양 = background-color:\#462828; color:white; |묶음모양 = background-color:\#EDB9B9; |그림 = [100px](https://ko.wikipedia.org/wiki/파일:Munhwa_Broadcasting_Company.svg "wikilink") |내용속성 = hlist |묶음1 = 1980년대 |내용1 =

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [MBN  M](https://ko.wikipedia.org/wiki/MBN__M).
+> This article is converted from Wikipedia: [MBN 뉴스 M](https://ko.wikipedia.org/wiki/MBN_뉴스_M).
 
 
 **MBN 뉴스 M**는 [대한민국](../Page/대한민국.md "wikilink")에서 월\~금 오후 3시\~오후 5시에 [텔레비전](../Page/텔레비전.md "wikilink")으로 방송하는 [MBN의](../Page/매일방송.md "wikilink") 평일 오후 시간대 [뉴스](../Page/뉴스.md "wikilink") 프로그램이다. 한 [AGB닐슨 미디어 리서치](https://ko.wikipedia.org/wiki/AGB닐슨_미디어_리서치 "wikilink") 조사에 따르면 뉴스 프로그램 중 시청률 1위를 기록하였다.

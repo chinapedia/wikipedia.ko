@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [-C](https://ko.wikipedia.org/wiki/-C).
+> This article is converted from Wikipedia: [블러드-C](https://ko.wikipedia.org/wiki/블러드-C).
 
 
 ⟪**블러드-C**⟫(BLOOD-C, ブラッド シー)는 애니메이션 스튜디오 [프로덕션 I.G와](../Page/프로덕션_I.G.md "wikilink") 만화가 집단 [클램프](../Page/클램프.md "wikilink")가 공동으로 제작한 일본의 애니메이션이다. 최초의 텔리비전 시리즈가 2011년 동안 방송되었고 일 년 뒤에 애니메이션 영화 ⟪블러드-C 더 라스트 다크⟫가 일본에서 개봉하였다. 애니메이션은 2가지 만화로 각색되었고, 2011년에 소설이 발표되었으며, 2015년에는 ⟪블러드-C⟫와 ⟪블러드-C 더 라스트 다크⟫ 사이의 이야기를 다룬 연극이 공연되었다. 2017년에는 [프리퀄](https://ko.wikipedia.org/wiki/프리퀄 "wikilink") 실사 영화 ⟪阿修羅少女〜BLOOD-C異聞〜⟫가 개봉되었다.

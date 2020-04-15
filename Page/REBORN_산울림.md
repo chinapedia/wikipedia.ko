@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [REBORN ](https://ko.wikipedia.org/wiki/REBORN_).
+> This article is converted from Wikipedia: [REBORN 산울림](https://ko.wikipedia.org/wiki/REBORN_산울림).
 
 
 《**REBORN 산울림**》은 대한민국의 밴드 [산울림](../Page/산울림.md "wikilink")의 데뷔 35주년을 기념하는 [헌정 음반이다](https://ko.wikipedia.org/wiki/헌정_음반 "wikilink").

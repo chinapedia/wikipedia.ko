@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:CountryAbbr2](https://ko.wikipedia.org/wiki/:CountryAbbr2).
+> This article is converted from Wikipedia: [틀:CountryAbbr2](https://ko.wikipedia.org/wiki/틀:CountryAbbr2).
 
 
 <noinclude> </noinclude>\#switch:  | | City | city

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  FC](https://ko.wikipedia.org/wiki/__FC).
+> This article is converted from Wikipedia: [홍콩 페가수스 FC](https://ko.wikipedia.org/wiki/홍콩_페가수스_FC).
 
 
 **홍콩 페가수스 FC**() 또는 **홍콩 비마 축구회**()는 [홍콩](../Page/홍콩.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽으로, 현재 [홍콩 1부 리그에서](../Page/홍콩_1부_리그.md "wikilink") 활동하고 있다.

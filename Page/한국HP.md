@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [HP](https://ko.wikipedia.org/wiki/HP).
+> This article is converted from Wikipedia: [한국HP](https://ko.wikipedia.org/wiki/한국HP).
 
 
 **한국HP(휴렛팩커드)**(Hewlett-Packard Korea)는 1984년 설립된 [HP의](https://ko.wikipedia.org/wiki/휴렛팩커드 "wikilink") 한국 지사이다. 1984년 8월 삼성휴렛팩커드 주식회사로 설립, 1995년 3월 한국휴렛팩커드로 상호를 변경하였으며, 2002년 9월 [주식회사](../Page/주식회사.md "wikilink")에서 [유한회사](../Page/유한회사.md "wikilink")로 변경하였다. HP와 [컴팩](../Page/컴팩.md "wikilink")의 인수 합병에 따라 2002년 12월 컴팩코리아를 인수 합병하였다.

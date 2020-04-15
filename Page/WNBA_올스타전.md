@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [WNBA ](https://ko.wikipedia.org/wiki/WNBA_).
+> This article is converted from Wikipedia: [WNBA 올스타전](https://ko.wikipedia.org/wiki/WNBA_올스타전).
 
 
 ## 올스타 게임

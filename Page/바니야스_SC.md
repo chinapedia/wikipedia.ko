@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ SC](https://ko.wikipedia.org/wiki/_SC).
+> This article is converted from Wikipedia: [바니야스 SC](https://ko.wikipedia.org/wiki/바니야스_SC).
 
 
 **바니야스 스포츠 & 컬쳐 클럽**(, )은 [아부다비](../Page/아부다비.md "wikilink")를 연고로 하는 [아랍에미리트](../Page/아랍에미리트.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다. 현재는 [UAE 1부 리그에](https://ko.wikipedia.org/wiki/UAE_1부_리그 "wikilink") 참가하고 있다.\[1\]

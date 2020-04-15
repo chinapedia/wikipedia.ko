@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [CBS ](https://ko.wikipedia.org/wiki/CBS_).
+> This article is converted from Wikipedia: [CBS 이브닝뉴스](https://ko.wikipedia.org/wiki/CBS_이브닝뉴스).
 
 
 **CBS 이브닝 뉴스**(CBS Evening News)는 미국 텔레비전 방송국 [CBS의](https://ko.wikipedia.org/wiki/CBS_\(미국_방송사\) "wikilink") 대표적인 야간 TV 뉴스 프로그램이다. CBS는 이 프로그램을 [1948년](../Page/1948년.md "wikilink")부터 방영하였으며 CBS 이브닝 뉴스라는 제목을 1963년부터 사용하여왔다.

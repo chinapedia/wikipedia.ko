@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [CAL  ](https://ko.wikipedia.org/wiki/CAL__).
+> This article is converted from Wikipedia: [CAL 카고 항공](https://ko.wikipedia.org/wiki/CAL_카고_항공).
 
 
-**CAL 카고 항공** (, )는 [이스라엘](../Page/이스라엘.md "wikilink")의 화물 항공사로 총 5개 노선을 취항하고 있다. 본사는 [이스라엘](../Page/이스라엘.md "wikilink") [예루살렘](../Page/예루살렘.md "wikilink")에 위치해 있으며 [1976년](../Page/1976년.md "wikilink")에 설립했다. 또한 사용하고 있는 [허브 공항으로](../Page/허브_공항.md "wikilink") [벤구리온 국제공항이](../Page/벤구리온_국제공항.md "wikilink") 있다.
+**CAL 카고 항공**(, )는 [이스라엘](../Page/이스라엘.md "wikilink")의 화물 항공사로 총 5개 노선을 취항하고 있다. 본사는 [이스라엘](../Page/이스라엘.md "wikilink") [예루살렘](../Page/예루살렘.md "wikilink")에 위치해 있으며 [1976년](../Page/1976년.md "wikilink")에 설립했다. 또한 사용하고 있는 [허브 공항으로](../Page/허브_공항.md "wikilink") [벤구리온 국제공항이](../Page/벤구리온_국제공항.md "wikilink") 있다.
 
 ## 운항 노선
 

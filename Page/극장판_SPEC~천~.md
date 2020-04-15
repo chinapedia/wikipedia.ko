@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ SPEC\~\~](https://ko.wikipedia.org/wiki/_SPEC\~\~).
+> This article is converted from Wikipedia: [극장판 SPEC\~천\~](https://ko.wikipedia.org/wiki/극장판_SPEC\~천\~).
 
 
 《**극장판 SPEC\~천\~**》()은 [2012년](../Page/2012년.md "wikilink") [4월 7일](../Page/4월_7일.md "wikilink") 개봉한 [일본 영화이다](../Page/일본의_영화.md "wikilink"). [TBS의](../Page/도쿄_방송_홀딩스.md "wikilink") [텔레비전 드라마](https://ko.wikipedia.org/wiki/일본_드라마 "wikilink") 《[SPEC\~경시청 공안부 공안 제5과 미상 사건 특별 대책계 사건부\~](../Page/SPEC~경시청_공안부_공안_제5과_미상_사건_특별_대책계_사건부~.md "wikilink")》의 극장판이며, 텔레비전 시리즈의 속편에 해당하는 작품이기도 하다.

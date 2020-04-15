@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
+> This article is converted from Wikipedia: [윔블던 FC](https://ko.wikipedia.org/wiki/윔블던_FC).
 
 
 **윔블던 축구 클럽**(Wimbledon Football Club)은 [런던](../Page/런던.md "wikilink") 남서부 [윔블던에](https://ko.wikipedia.org/wiki/윔블던_\(런던\) "wikilink") 위치한 [잉글랜드](../Page/잉글랜드.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이었다. [1889년](../Page/1889년.md "wikilink")에 윔블던 올드 센트럴 축구 클럽으로 창단하여 1977년까지는 논리그를 전전하던 아마추어와 세미프로 팀이었으나 프로 리그인 [풋볼 리그로](https://ko.wikipedia.org/wiki/풋볼_리그 "wikilink") 승격된지 9년만인 1986년에 최초로 [풋볼 리그 1부에](../Page/풋볼_리그_1부.md "wikilink") 올라섰다.

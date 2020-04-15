@@ -76,7 +76,7 @@
 <td><p>8회</p></td>
 <td><p><a href="../Page/2월_6일.md" title="wikilink">2월 6일</a></p></td>
 <td><p>카오스, 더 브리즈, <a href="../Page/씨리얼_(음악_그룹).md" title="wikilink">씨리얼</a>, 픽스, <a href="../Page/제이세라.md" title="wikilink">제이세라</a>, 티지어스<br />
-터치, <a href="https://ko.wikipedia.org/wiki/슈퍼키드" title="wikilink">슈퍼키드</a>, <a href="../Page/달샤벳.md" title="wikilink">달샤벳</a>, 보이프렌드, <a href="../Page/브라이언.md" title="wikilink">브라이언</a>, <a href="../Page/손호영.md" title="wikilink">손호영</a>, <a href="https://ko.wikipedia.org/wiki/코요태" title="wikilink">코요태</a></p></td>
+터치, <a href="https://ko.wikipedia.org/wiki/슈퍼키드" title="wikilink">슈퍼키드</a>, <a href="../Page/달샤벳.md" title="wikilink">달샤벳</a>, 보이프렌드, <a href="../Page/브라이언.md" title="wikilink">브라이언</a>, <a href="../Page/손호영.md" title="wikilink">손호영</a>, <a href="../Page/코요태.md" title="wikilink">코요태</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>9회</p></td>

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:CountryAbbr](https://ko.wikipedia.org/wiki/:CountryAbbr).
+> This article is converted from Wikipedia: [틀:CountryAbbr](https://ko.wikipedia.org/wiki/틀:CountryAbbr).
 
 
 <includeonly>\#switch: |= |United States|[United States](https://ko.wikipedia.org/wiki/United_States "wikilink")=US-StateAbbr||subst=}} |Canada|[Canada](https://ko.wikipedia.org/wiki/Canada "wikilink")|[Canada](https://ko.wikipedia.org/wiki/Canada "wikilink") [25px](https://ko.wikipedia.org/wiki/파일:Flag_of_Canada.svg "wikilink")|[25px](https://ko.wikipedia.org/wiki/파일:Flag_of_Canada.svg "wikilink") [Canada](https://ko.wikipedia.org/wiki/Canada "wikilink")=CA-\#switch:

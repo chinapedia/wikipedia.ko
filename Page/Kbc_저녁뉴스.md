@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Kbc ](https://ko.wikipedia.org/wiki/Kbc_).
+> This article is converted from Wikipedia: [Kbc 저녁뉴스](https://ko.wikipedia.org/wiki/Kbc_저녁뉴스).
 
 
 **kbc 저녁뉴스**는 [SBS](../Page/SBS.md "wikilink")의 광주/전남권 네트워크 방송사인 '지역민과 함께하는 [kbc](../Page/광주방송.md "wikilink")'의 대표적인 저녁뉴스 프로그램이다.

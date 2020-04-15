@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Ambitious!  ](https://ko.wikipedia.org/wiki/Ambitious!__).
+> This article is converted from Wikipedia: [Ambitious! 야심적이고 좋잖아](https://ko.wikipedia.org/wiki/Ambitious!_야심적이고_좋잖아).
 
 
 **Ambitious\! 야심적이고 좋잖아**()은 [2006년](../Page/2006년.md "wikilink") [6월 21일에](../Page/6월_21일.md "wikilink") 발매 된 [모닝구무스메](../Page/모닝구무스메.md "wikilink")의 서른 번째 싱글이다.

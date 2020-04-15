@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FC  ](https://ko.wikipedia.org/wiki/FC__).
+> This article is converted from Wikipedia: [FC 빅토리아 플젠](https://ko.wikipedia.org/wiki/FC_빅토리아_플젠).
 
 
 **FC 빅토리아 플젠**()은 [플젠](../Page/플젠.md "wikilink")을 연고로 하는 [체코](../Page/체코.md "wikilink")의 축구 클럽이다. 이 팀은 [1911년](../Page/1911년.md "wikilink")에 창단되었으며, 현재 [감브리누스리가](https://ko.wikipedia.org/wiki/감브리누스리가 "wikilink")에 출전하고 있다.

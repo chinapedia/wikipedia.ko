@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [V-  ](https://ko.wikipedia.org/wiki/V-__).
+> This article is converted from Wikipedia: [V-리그 승부조작 사건](https://ko.wikipedia.org/wiki/V-리그_승부조작_사건).
 
 
 **V-리그 승부조작 사건**(—勝負造作事件)은 [V-리그에서](https://ko.wikipedia.org/wiki/V-리그_\(배구\) "wikilink") 활동하거나 활동했던 일부 선수들이 돈을 받고 승부를 조작한 것이 드러난 사건이다. [2012년](../Page/2012년.md "wikilink") [2월 8일에](../Page/2월_8일.md "wikilink") [대구지방검찰청](../Page/대구지방검찰청.md "wikilink")이 [2009-2010년 V-리그에서](https://ko.wikipedia.org/wiki/2009-2010년_V-리그 "wikilink") 승부 조작에 가담한 혐의로 [수원 한국전력 빅스톰](../Page/수원_한국전력_빅스톰.md "wikilink") 소속 전·현직 선수 3명과 브로커 1명을 구속했다고 밝히면서 V-리그 승부조작 사건이 알려지게 되었다.\[1\]

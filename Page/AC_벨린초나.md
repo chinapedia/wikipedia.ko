@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [AC ](https://ko.wikipedia.org/wiki/AC_).
+> This article is converted from Wikipedia: [AC 벨린초나](https://ko.wikipedia.org/wiki/AC_벨린초나).
 
 
 **AC 벨린초나**()는 [스위스](https://ko.wikipedia.org/wiki/스위스 "wikilink") [벨린초나](https://ko.wikipedia.org/wiki/벨린초나 "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽으로, 현재 [스위스 챌린지리그](../Page/스위스_챌린지리그.md "wikilink") 소속으로 활동하고 있다.

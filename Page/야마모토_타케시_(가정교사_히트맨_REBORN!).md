@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  \(  REBORN!\)](https://ko.wikipedia.org/wiki/__\(__REBORN!\)).
+> This article is converted from Wikipedia: [야마모토 타케시 \(가정교사 히트맨 REBORN!\)](https://ko.wikipedia.org/wiki/야마모토_타케시_\(가정교사_히트맨_REBORN!\)).
 
 
 **야마모토 타케시**()는 [가정교사 히트맨 REBORN\!의](../Page/가정교사_히트맨_REBORN!.md "wikilink") 등장인물이다. 비의 수호자로 오른팔로 손색이 없다 시구레소엔류(시구레연창류)를 사용한다

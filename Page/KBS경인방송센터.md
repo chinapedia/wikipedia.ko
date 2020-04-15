@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KBS](https://ko.wikipedia.org/wiki/KBS).
+> This article is converted from Wikipedia: [KBS경인방송센터](https://ko.wikipedia.org/wiki/KBS경인방송센터).
 
 
 **KBS경인방송센터**(韓國放送公社 京仁放送-)는 [한국방송공사](../Page/한국방송공사.md "wikilink") 정책기획본부 지역정책실 산하 조직으로 구성된 지역방송국으로 [인천광역시](https://ko.wikipedia.org/wiki/인천광역시 "wikilink")와 [경기도](https://ko.wikipedia.org/wiki/경기도 "wikilink") 지역 방송권을 별개로 분리하여, 경인지역 로컬 뉴스를 중점적으로 제작하고 있다. KBS수원드라마제작센터 내에 위치하고 있는 이 방송국은 [2010년](../Page/2010년.md "wikilink") [8월 24일에](../Page/8월_24일.md "wikilink") 방송통신위원회(현 [과학기술정보통신부](https://ko.wikipedia.org/wiki/과학기술정보통신부 "wikilink"))로부터 허가를 취득하였으며, 그 해 [9월 13일에](../Page/9월_13일.md "wikilink") 개국하였다\[1\]\[2\].
@@ -191,26 +191,26 @@
 
 #### 전직
 
-  - [장민정](https://ko.wikipedia.org/wiki/장민정 "wikilink") ([2010년](../Page/2010년.md "wikilink") [9월](../Page/9월.md "wikilink") \~ [2012년](../Page/2012년.md "wikilink") [7월](../Page/7월.md "wikilink")) : 현 [YTN](../Page/YTN.md "wikilink") 아나운서
-  - [강려원](https://ko.wikipedia.org/wiki/강려원 "wikilink") : 현 [YTN](../Page/YTN.md "wikilink") 아나운서
+  - [장민정](https://ko.wikipedia.org/wiki/장민정 "wikilink") ([2011년](../Page/2011년.md "wikilink") [1월](../Page/1월.md "wikilink") \~ [2012년](../Page/2012년.md "wikilink") [7월](../Page/7월.md "wikilink")) : 현 [YTN](../Page/YTN.md "wikilink") 아나운서
+  - [강려원](https://ko.wikipedia.org/wiki/강려원 "wikilink") ([2012년](../Page/2012년.md "wikilink") [7월](../Page/7월.md "wikilink") \~ [2016년](../Page/2016년.md "wikilink") [9월](../Page/9월.md "wikilink")) : 현 [YTN](../Page/YTN.md "wikilink") 아나운서
   - [김솔희](../Page/김솔희.md "wikilink") : 현 [KBS 서울본국](../Page/한국방송공사.md "wikilink")
   - [조정연](https://ko.wikipedia.org/wiki/조정연 "wikilink") : 전직 [연합뉴스TV](../Page/연합뉴스TV.md "wikilink") 아나운서
-  - [서수진](https://ko.wikipedia.org/wiki/서수진 "wikilink") : 전직 [전주MBC](https://ko.wikipedia.org/wiki/전주MBC "wikilink"), [MBC경남](../Page/MBC경남.md "wikilink"), [대전MBC](https://ko.wikipedia.org/wiki/대전MBC "wikilink") 아나운서
+  - [서수진](https://ko.wikipedia.org/wiki/서수진_\(아나운서\) "wikilink") : 전직 [전주MBC](https://ko.wikipedia.org/wiki/전주MBC "wikilink"), [MBC경남](../Page/MBC경남.md "wikilink"), [대전MBC](https://ko.wikipedia.org/wiki/대전MBC "wikilink") 아나운서
 
 ## 현직 기자
 
   - 김기흥
-  - 김민경
-  - 김유대
+  - 김도영
+  - 김진화
   - 김학재
   - 박정권
   - 박재우
+  - 박효인
   - 박희봉
   - 신지원
   - 오현태
   - 이정록
-  - 이진연
-  - 임명규
+  - 이승재
   - 황진우
 
 ## 각주

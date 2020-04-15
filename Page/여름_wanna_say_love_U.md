@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ wanna say love U](https://ko.wikipedia.org/wiki/_wanna_say_love_U).
+> This article is converted from Wikipedia: [여름 wanna say love U](https://ko.wikipedia.org/wiki/여름_wanna_say_love_U).
 
 
 〈**여름 wanna say love U**〉()는 [9nine](../Page/9nine.md "wikilink")의 7번째 싱글이다. 2011년 7월 20일에 [SME Records로부터](https://ko.wikipedia.org/wiki/SME_Records "wikilink") 발매되었다.

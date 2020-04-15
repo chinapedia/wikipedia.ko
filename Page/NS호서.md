@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [NS](https://ko.wikipedia.org/wiki/NS).
+> This article is converted from Wikipedia: [NS호서](https://ko.wikipedia.org/wiki/NS호서).
 
 
 **NS호서**(New Star Hoseo)는 [대한민국](../Page/대한민국.md "wikilink")의 [스타크래프트 II](https://ko.wikipedia.org/wiki/스타크래프트_II "wikilink") [프로게임단](https://ko.wikipedia.org/wiki/프로게임단 "wikilink")이었다.

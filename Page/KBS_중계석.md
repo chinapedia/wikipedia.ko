@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KBS ](https://ko.wikipedia.org/wiki/KBS_).
+> This article is converted from Wikipedia: [KBS 중계석](https://ko.wikipedia.org/wiki/KBS_중계석).
 
 
 **KBS 중계석**은 매주 [목요일](../Page/목요일.md "wikilink") 새벽 2시과 [금요일](../Page/금요일.md "wikilink") 새벽 2시 15분에 [KBS 1TV로](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink") 방송되는 [한국방송공사의 텔레비전 프로그램이다](https://ko.wikipedia.org/wiki/한국방송공사의_텔레비전_프로그램 "wikilink").
@@ -9,7 +9,7 @@
 
 ## 방송 시간
 
-방송 시간은 [2020년](../Page/2020년.md "wikilink") [2월 26일을](https://ko.wikipedia.org/wiki/2월_26일 "wikilink") 기준으로 한다. 그리고 방송 시간은 고정이 아니기 때문에 수시로 변동된다.
+방송 시간은 [2020년](../Page/2020년.md "wikilink") [3월 11일을](../Page/3월_11일.md "wikilink") 기준으로 한다. 그리고 방송 시간은 고정이 아니기 때문에 수시로 변동된다.
 
 <table>
 <thead>
@@ -2065,8 +2065,28 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/2020년.md" title="wikilink">2020년</a> <a href="https://ko.wikipedia.org/wiki/2월_26일" title="wikilink">2월 26일</a> ~ <strong>현재</strong></p></td>
+<td><p><a href="../Page/2020년.md" title="wikilink">2020년</a> <a href="https://ko.wikipedia.org/wiki/2월_26일" title="wikilink">2월 26일</a> ~ <a href="../Page/2020년.md" title="wikilink">2020년</a> <a href="../Page/2월_27일.md" title="wikilink">2월 27일</a></p></td>
 <td><p>매주 <a href="../Page/수요일.md" title="wikilink">수요일</a> 밤 2:00 ~ 3:35 (95분)</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>매주 <a href="../Page/목요일.md" title="wikilink">목요일</a> 밤 2:15 ~ 3:35 (80분)</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/2020년.md" title="wikilink">2020년</a> <a href="../Page/3월_4일.md" title="wikilink">3월 4일</a> ~ <a href="../Page/2020년.md" title="wikilink">2020년</a> <a href="../Page/3월_5일.md" title="wikilink">3월 5일</a></p></td>
+<td><p>매주 <a href="../Page/수요일.md" title="wikilink">수요일</a> 밤 2:00 ~ 3:35 (95분)</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>매주 <a href="../Page/목요일.md" title="wikilink">목요일</a> 밤 2:10 ~ 3:30 (80분)</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/2020년.md" title="wikilink">2020년</a> <a href="../Page/3월_11일.md" title="wikilink">3월 11일</a> ~ <strong>현재</strong></p></td>
+<td><p>매주 <a href="../Page/수요일.md" title="wikilink">수요일</a> 밤 2:00 ~ 3:30 (90분)</p></td>
 <td></td>
 </tr>
 <tr class="even">

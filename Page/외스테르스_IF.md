@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ IF](https://ko.wikipedia.org/wiki/_IF).
+> This article is converted from Wikipedia: [외스테르스 IF](https://ko.wikipedia.org/wiki/외스테르스_IF).
 
 
 **외스테르스 IF**(Östers IF)는 [1930년](../Page/1930년.md "wikilink") [4월 20일에](../Page/4월_20일.md "wikilink") 창단된 [스웨덴](../Page/스웨덴.md "wikilink") [벡셰](../Page/벡셰.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽으로, 현재 [수페레탄](https://ko.wikipedia.org/wiki/수페레탄 "wikilink")에서 활동하고 있다.

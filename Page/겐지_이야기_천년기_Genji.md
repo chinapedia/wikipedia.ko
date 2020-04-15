@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [   Genji](https://ko.wikipedia.org/wiki/___Genji).
+> This article is converted from Wikipedia: [겐지 이야기 천년기 Genji](https://ko.wikipedia.org/wiki/겐지_이야기_천년기_Genji).
 
 
 《**겐지 이야기 천년기 Genji**》()는 [2009년](../Page/2009년.md "wikilink") [1월](../Page/1월.md "wikilink")부터 [3월](../Page/3월.md "wikilink")까지 [후지테레비](https://ko.wikipedia.org/wiki/후지테레비 "wikilink") [노이타미나](../Page/노이타미나.md "wikilink")에서 방영된 [일본](../Page/일본.md "wikilink")의 [애니메이션](../Page/애니메이션.md "wikilink")이다.

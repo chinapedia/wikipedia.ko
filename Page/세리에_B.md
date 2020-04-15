@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ B](https://ko.wikipedia.org/wiki/_B).
+> This article is converted from Wikipedia: [세리에 B](https://ko.wikipedia.org/wiki/세리에_B).
 
 
 **세리에 B**()는 [이탈리아](../Page/이탈리아.md "wikilink")의 [프로축구](../Page/축구.md "wikilink") 2부 리그이다. 현재는 **세리에 BKT** (Serie BKT)으로 불리고 있다. 세리에 B은 [1929년](../Page/1929년.md "wikilink")에 시작되어 현재 22개의 클럽이 참가하고 있고, 그 전까지 [세리에 A와](../Page/세리에_A.md "wikilink") 세리에 B를 같이 운영하던 [레가 칼초의](https://ko.wikipedia.org/wiki/레가_칼초 "wikilink") 분리이후 2010년 7월부터 레가 세리에 B에 의해 운영된다.

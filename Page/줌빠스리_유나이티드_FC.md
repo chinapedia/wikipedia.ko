@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  FC](https://ko.wikipedia.org/wiki/__FC).
+> This article is converted from Wikipedia: [줌빠스리 유나이티드 FC](https://ko.wikipedia.org/wiki/줌빠스리_유나이티드_FC).
 
 
 **줌빠스리 유나이티드 풋볼 클럽**(, )는 [1977년](../Page/1977년.md "wikilink")에 창단된 [태국](../Page/태국.md "wikilink") [마하사라캄 주의](https://ko.wikipedia.org/wiki/마하사라캄_주 "wikilink") [축구](../Page/축구.md "wikilink") 클럽이다. 현재 [타이 리그 2에](../Page/타이_리그_2.md "wikilink") 참가하고 있다. 창단 당시에는 연고지가 [방콕](../Page/방콕.md "wikilink")이었으며, **오솟스파 FC**라는 구단명을 사용했다. [2009년](../Page/2009년.md "wikilink")에는 [사라부리 주로](https://ko.wikipedia.org/wiki/사라부리_주 "wikilink") 연고지를 옮기며 **오솟스파 M-150 사라부리 FC**로 명칭을 변경했다. [2015년](../Page/2015년.md "wikilink")에는 [사뭇쁘라깐 주로](https://ko.wikipedia.org/wiki/사뭇쁘라깐_주 "wikilink") 연고지를 옮기며, **오솟스파 M-150 사뭇쁘라깐 FC**으로 구단명을 변경했다. [2016년](../Page/2016년.md "wikilink") 태국 벤처 기업인 "수퍼 파워 풋볼 벤처"가 인수하면서, 구단명을**수퍼 파워 사뭇쁘라깐 FC**로 변경했다. [2017년](../Page/2017년.md "wikilink") 구단은 [마하사라캄 주로](https://ko.wikipedia.org/wiki/마하사라캄_주 "wikilink") 연고지를 이전하였고, 구단명을 현재의 명칭으로 변경하였다.

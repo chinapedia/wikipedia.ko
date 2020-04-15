@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:IBM ](https://ko.wikipedia.org/wiki/:IBM_).
+> This article is converted from Wikipedia: [틀:IBM 메인프레임](https://ko.wikipedia.org/wiki/틀:IBM_메인프레임).
 
 
 <table>

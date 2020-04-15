@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [I\'m Your Girl \(\)](https://ko.wikipedia.org/wiki/I\'m_Your_Girl_\(\)).
+> This article is converted from Wikipedia: [I\'m Your Girl \(싱글\)](https://ko.wikipedia.org/wiki/I\'m_Your_Girl_\(싱글\)).
 
 
 〈**I'm Your Girl**〉는 [S.E.S.](https://ko.wikipedia.org/wiki/S.E.S. "wikilink")가 일본에서 발매한 리믹스 싱글이다.

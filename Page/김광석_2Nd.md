@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ 2Nd](https://ko.wikipedia.org/wiki/_2Nd).
+> This article is converted from Wikipedia: [김광석 2Nd](https://ko.wikipedia.org/wiki/김광석_2Nd).
 
 
 《**김광석 2Nd**》은 [김광석](../Page/김광석.md "wikilink")의 두 번째 정규 음반이다.

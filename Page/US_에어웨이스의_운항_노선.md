@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [US   ](https://ko.wikipedia.org/wiki/US___).
+> This article is converted from Wikipedia: [US 에어웨이스의 운항 노선](https://ko.wikipedia.org/wiki/US_에어웨이스의_운항_노선).
 
 
 아래는 [US 에어웨이즈의](https://ko.wikipedia.org/wiki/US_에어웨이즈 "wikilink") 취항지 목록이다. ([2012년](../Page/2012년.md "wikilink") [1월](../Page/1월.md "wikilink") 현재)
@@ -180,7 +180,7 @@
   - **[알래스카](https://ko.wikipedia.org/wiki/알래스카 "wikilink")**
       - [앵커리지](../Page/앵커리지.md "wikilink") – [테드 스티븐스 앵커리지 국제공항](https://ko.wikipedia.org/wiki/테드_스티븐스_앵커리지_국제공항 "wikilink")
   - **[애리조나](https://ko.wikipedia.org/wiki/애리조나 "wikilink")**
-      - [피닉스](https://ko.wikipedia.org/wiki/피닉스 "wikilink") – [피닉스 스카이 하버 국제공항](../Page/피닉스_스카이_하버_국제공항.md "wikilink") **허브**
+      - [피닉스](../Page/피닉스.md "wikilink") – [피닉스 스카이 하버 국제공항](../Page/피닉스_스카이_하버_국제공항.md "wikilink") **허브**
       - [투산](https://ko.wikipedia.org/wiki/투산 "wikilink") - [투산](https://ko.wikipedia.org/wiki/투산 "wikilink") [국제공항](../Page/국제공항.md "wikilink") **계절편**
   - **[캘리포니아](https://ko.wikipedia.org/wiki/캘리포니아 "wikilink")**
       - [배뱅크](https://ko.wikipedia.org/wiki/배뱅크 "wikilink") – [밥 호프 공항](https://ko.wikipedia.org/wiki/밥_호프_공항 "wikilink")

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ ADEX](https://ko.wikipedia.org/wiki/_ADEX).
+> This article is converted from Wikipedia: [서울 ADEX](https://ko.wikipedia.org/wiki/서울_ADEX).
 
 
 **서울 ADEX**(Seoul International Aerospace & Defence E​xhibition) 또는 **서울 국제 항공우주 및 방위산업 전시회**는 **서울 에어쇼**(Seoul Air Show)와 동반하여 [대한민국](../Page/대한민국.md "wikilink")에서 격년으로 열리는 국제 전시회이다. 1996년에 시작되어 현재까지 이르고 있다.

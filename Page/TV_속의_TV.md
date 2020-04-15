@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TV  TV](https://ko.wikipedia.org/wiki/TV__TV).
+> This article is converted from Wikipedia: [TV 속의 TV](https://ko.wikipedia.org/wiki/TV_속의_TV).
 
 
 《**TV 속의 TV**》는 [대한민국](../Page/대한민국.md "wikilink")의 [MBC TV에서](../Page/MBC_TV.md "wikilink") [1993년](../Page/1993년.md "wikilink") [10월 24일부터](../Page/10월_24일.md "wikilink") [2018년](../Page/2018년.md "wikilink") [9월 15일까지](../Page/9월_15일.md "wikilink") 방영된 시청자 의견을 전했던 TV비평 옴부즈맨 프로그램으로 [탐나는 TV의](../Page/탐나는_TV.md "wikilink") 전신이다.

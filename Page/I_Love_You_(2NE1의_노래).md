@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [I Love You \(2NE1 \)](https://ko.wikipedia.org/wiki/I_Love_You_\(2NE1_\)).
+> This article is converted from Wikipedia: [I Love You \(2NE1의 노래\)](https://ko.wikipedia.org/wiki/I_Love_You_\(2NE1의_노래\)).
 
 
 "**I Love You**"는 대한민국의 걸 그룹 [2NE1](../Page/2NE1.md "wikilink")의 노래이다. 2012년 7월 5일 KMP홀딩스를 통해 발매되었다. 9월 19일에는 일본에서 2NE1의 세 번째 일본 싱글로 발매되었다.

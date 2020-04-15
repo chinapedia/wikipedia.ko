@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Bmibaby](https://ko.wikipedia.org/wiki/Bmibaby).
 
 
-**Bmibaby** ()는 [영국](../Page/영국.md "wikilink")의 [저비용 항공사로](../Page/저비용_항공사.md "wikilink") 총 42개 노선을 취항하고 있다. 본사는 [영국](../Page/영국.md "wikilink") [맨체스터](../Page/맨체스터.md "wikilink")에 위치해 있으며 [2002년](../Page/2002년.md "wikilink")에 설립했다. 또한 사용하고 있는 [허브 공항으로](../Page/허브_공항.md "wikilink") [벨파스트 시티 공항](https://ko.wikipedia.org/wiki/벨파스트_시티_공항 "wikilink"), [버밍엄 공항](../Page/버밍엄_공항.md "wikilink"), [이스트 미들랜드 공항이](https://ko.wikipedia.org/wiki/이스트_미들랜드_공항 "wikilink") 있다.
+**Bmibaby**()는 [영국](../Page/영국.md "wikilink")의 [저비용 항공사로](../Page/저비용_항공사.md "wikilink") 총 42개 노선을 취항하고 있다. 본사는 [영국](../Page/영국.md "wikilink") [맨체스터](../Page/맨체스터.md "wikilink")에 위치해 있으며 [2002년](../Page/2002년.md "wikilink")에 설립했다. 또한 사용하고 있는 [허브 공항으로](../Page/허브_공항.md "wikilink") [벨파스트 시티 공항](https://ko.wikipedia.org/wiki/벨파스트_시티_공항 "wikilink"), [버밍엄 공항](../Page/버밍엄_공항.md "wikilink"), [이스트 미들랜드 공항이](https://ko.wikipedia.org/wiki/이스트_미들랜드_공항 "wikilink") 있다.
 
 ## 역사
 
@@ -29,7 +29,7 @@
 
 ## 사진
 
-파일:DoningtonHallCastleDonington.jpg|Bmi 베이비의 본사 파일:G-toyg-b737.jpg|Bmi 베이비의 [보잉 737-300](../Page/보잉_737.md "wikilink") 파일:Bmibaby Manchester.JPG|Bmi 베이비의 [보잉 737-300](../Page/보잉_737.md "wikilink") 파일:B737 Bmibaby G-TOYM MLA March 2011.jpg|Bmi 베이비의 [보잉 737-300](../Page/보잉_737.md "wikilink") 파일:BMIBaby B737-500 G-BVKD @ Amsterdam Airport Schiphol.jpg|Bmi 베이비의 [보잉 737-500](../Page/보잉_737.md "wikilink")
+파일:DoningtonHallCastleDonington.jpg|Bmi 베이비의 본사 파일:G-toyg-b737.jpg|Bmi 베이비의 [보잉 737-300](../Page/보잉_737.md "wikilink") 파일:Bmibaby Boeing 737-300 G-TOYM at Manchester airport in 2009.jpg|Bmi 베이비의 [보잉 737-300](../Page/보잉_737.md "wikilink") 파일:B737 Bmibaby G-TOYM MLA March 2011.jpg|Bmi 베이비의 [보잉 737-300](../Page/보잉_737.md "wikilink") 파일:BMIBaby B737-500 G-BVKD @ Amsterdam Airport Schiphol.jpg|Bmi 베이비의 [보잉 737-500](../Page/보잉_737.md "wikilink")
 
 ## 외부 링크
 

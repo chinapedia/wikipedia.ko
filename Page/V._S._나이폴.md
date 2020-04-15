@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [V. S. ](https://ko.wikipedia.org/wiki/V._S._).
+> This article is converted from Wikipedia: [V. S. 나이폴](https://ko.wikipedia.org/wiki/V._S._나이폴).
 
 
 **비디아다르 수라지프라사드 나이폴** 경(, , [1932년](../Page/1932년.md "wikilink") [8월 17일](../Page/8월_17일.md "wikilink") \~ [2018년](../Page/2018년.md "wikilink") [8월 11일](../Page/8월_11일.md "wikilink"))은 [트리니다드 토바고에서](../Page/트리니다드_토바고.md "wikilink") 태어난 [영국](../Page/영국.md "wikilink")의 [인도](../Page/인도.md "wikilink")계 [작가](https://ko.wikipedia.org/wiki/작가 "wikilink")이다.

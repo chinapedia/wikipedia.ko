@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ 3 vs  ](https://ko.wikipedia.org/wiki/_3_vs__).
+> This article is converted from Wikipedia: [루팡 3세 vs 명탐정 코난](https://ko.wikipedia.org/wiki/루팡_3세_vs_명탐정_코난).
 
 
 《**루팡 3세 VS 명탐정 코난**》()은 [니혼 TV](../Page/닛폰_TV_방송망.md "wikilink") 개국 55주년 및 [요미우리 TV](https://ko.wikipedia.org/wiki/요미우리TV방송 "wikilink") (ytv) 개국 50주년 개국 기념 프로그램으로, '루팡'과 《명탐정 코난》(아오야마 고쇼 원작)과의 크로스 오버 작품이다. 한국에서는 [2014년](../Page/2014년.md "wikilink") [5월 23일](../Page/5월_23일.md "wikilink") [투니버스](../Page/투니버스.md "wikilink")에서 더빙판으로 방영되었다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Myself \( \)](https://ko.wikipedia.org/wiki/Myself_\(_\)).
+> This article is converted from Wikipedia: [Myself \(신해철의 음반\)](https://ko.wikipedia.org/wiki/Myself_\(신해철의_음반\)).
 
 
 《**Myself**》는 [대한민국](../Page/대한민국.md "wikilink")의 [음악인](https://ko.wikipedia.org/wiki/음악인 "wikilink") [신해철](../Page/신해철.md "wikilink")의 두 번째 솔로 정규앨범으로, 모든 수록곡이 그의 자작곡으로 이루어진 첫 작품이다.

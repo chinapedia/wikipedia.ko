@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [CAF ](https://ko.wikipedia.org/wiki/CAF_).
+> This article is converted from Wikipedia: [CAF 슈퍼컵](https://ko.wikipedia.org/wiki/CAF_슈퍼컵).
 
 
 **CAF 슈퍼컵**(CAF Super Cup)은 매년 [CAF 챔피언스리그와](../Page/CAF_챔피언스리그.md "wikilink") [CAF 컨페더레이션컵의](../Page/CAF_컨페더레이션컵.md "wikilink") 우승 팀끼리 겨루는 [아프리카](../Page/아프리카.md "wikilink")의 [축구](../Page/축구.md "wikilink") 대회이다. **아프리칸 슈퍼컵**(African Super Cup)이라고 부르기도 한다. [1993년](../Page/1993년.md "wikilink") [아프리카 축구 연맹에](../Page/아프리카_축구_연맹.md "wikilink") 의해 첫 대회가 열렸다. 유럽의 [UEFA 슈퍼컵이나](../Page/UEFA_슈퍼컵.md "wikilink") 남아메리카의 [레코파 수다메리카나와](../Page/레코파_수다메리카나.md "wikilink") 같은 대회이다.

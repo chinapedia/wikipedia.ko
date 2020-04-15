@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  LTE](https://ko.wikipedia.org/wiki/__LTE).
+> This article is converted from Wikipedia: [팬택 베가 LTE](https://ko.wikipedia.org/wiki/팬택_베가_LTE).
 
 
 **팬택 스카이 베가 LTE**(Pantech SKY VEGA LTE, IM-A800S)는 [2011년](../Page/2011년.md "wikilink") [10월 6일](../Page/10월_6일.md "wikilink") [SK텔레콤](../Page/SK텔레콤.md "wikilink")에서 단독 출시된 [팬택](../Page/팬택.md "wikilink")의 스마트폰으로 자사 스마트폰 중에서 최초로 [LTE를](https://ko.wikipedia.org/wiki/롱_텀_에볼루션 "wikilink") 지원하며 세계 최초로 [모션 인식을](https://ko.wikipedia.org/wiki/모션_UI "wikilink") 지원한다.

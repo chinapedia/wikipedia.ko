@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TDI ](https://ko.wikipedia.org/wiki/TDI_).
+> This article is converted from Wikipedia: [TDI 벡터](https://ko.wikipedia.org/wiki/TDI_벡터).
 
 
 **크리스 벡터**(KRISS Vector)\[1\] 혹은 **크리스 슈퍼 V**는 [TDI](https://ko.wikipedia.org/wiki/TDI "wikilink")사가 개발·생산하는 차세대 [기관단총](../Page/기관단총.md "wikilink")이다.

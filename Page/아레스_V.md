@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ V](https://ko.wikipedia.org/wiki/_V).
+> This article is converted from Wikipedia: [아레스 V](https://ko.wikipedia.org/wiki/아레스_V).
 
 
 **아레스 V**(Ares V)는 취소된 [미국](../Page/미국.md "wikilink")의 [우주발사체](../Page/우주발사체.md "wikilink")이다. [컨스텔레이션 계획의](../Page/컨스텔레이션_계획.md "wikilink") 일부로 [우주왕복선](../Page/우주왕복선.md "wikilink")이 퇴역한 뒤 화물 발사를 위한 발사체로서 개발될 예정이었으나\[1\], 컨스텔레이션 계획이 취소되면서 아레스 V 역시 취소되었다.\[2\] 대신 NASA의 유인 우주 계획은 [SLS를](../Page/우주_발사_시스템.md "wikilink") 이용하도록 변경되었다.\[3\] 기본적으로 유인 달 탐사에 필요한 [EDS](https://ko.wikipedia.org/wiki/EDS "wikilink")(Earth Departure Stage)와 [알테어](https://ko.wikipedia.org/wiki/알테어_\(우주선\) "wikilink") 달 착륙선을 발사하는데 사용될 예정이었고, 그 외에 향후 진행될 화성 유인 탐사와 같은 심우주 탐사에도 사용될 예정이었다.\[4\]

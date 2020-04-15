@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [: OSC  ](https://ko.wikipedia.org/wiki/:_OSC__).
+> This article is converted from Wikipedia: [틀:릴 OSC 선수 명단](https://ko.wikipedia.org/wiki/틀:릴_OSC_선수_명단).
 
 
 <onlyinclude></onlyinclude>

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [T-](https://ko.wikipedia.org/wiki/T-).
+> This article is converted from Wikipedia: [T-모바일](https://ko.wikipedia.org/wiki/T-모바일).
 
 
 **T-모바일 인터내셔널 AG**()은 [유럽](../Page/유럽.md "wikilink")과 [북미](https://ko.wikipedia.org/wiki/북미 "wikilink")에서 이동통신 서비스를 제공하는 [독일](../Page/독일.md "wikilink")의 무선 서비스 제공 회사이며 독일에 본사를 두고 있다. 1990년에 설립되었으며 [도이치 텔레콤의](https://ko.wikipedia.org/wiki/도이치_텔레콤 "wikilink") 자회사이다. [GSM](../Page/GSM.md "wikilink")과 [UMTS](../Page/UMTS.md "wikilink")방식을 이용하는 휴대전화를 지원하며 현재는 약 1억 100만명의 가입자를 가지고 있다.
@@ -206,7 +206,7 @@
   - [T-모바일 헝가리](http://www.t-mobile.hu/)
   - [T-모바일 크로아티아](http://webarchive.loc.gov/all/20090213081936/http%3A//www.t%2Dmobile.hr/)
 
-[분류:1990년 설립된 기업](https://ko.wikipedia.org/wiki/분류:1990년_설립된_기업 "wikilink") [분류:독일의 기업](https://ko.wikipedia.org/wiki/분류:독일의_기업 "wikilink") [분류:1990년 설립된 기업](https://ko.wikipedia.org/wiki/분류:1990년_설립된_기업 "wikilink") [분류:독일의 브랜드](https://ko.wikipedia.org/wiki/분류:독일의_브랜드 "wikilink")
+[분류:1990년 설립된 기업](https://ko.wikipedia.org/wiki/분류:1990년_설립된_기업 "wikilink") [분류:독일의 휴대 전화 기업](https://ko.wikipedia.org/wiki/분류:독일의_휴대_전화_기업 "wikilink") [분류:독일의 브랜드](https://ko.wikipedia.org/wiki/분류:독일의_브랜드 "wikilink") [분류:와이파이 제공자](https://ko.wikipedia.org/wiki/분류:와이파이_제공자 "wikilink") [분류:본의 기업](https://ko.wikipedia.org/wiki/분류:본의_기업 "wikilink")
 
 1.
 2.

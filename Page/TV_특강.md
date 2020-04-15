@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TV ](https://ko.wikipedia.org/wiki/TV_).
+> This article is converted from Wikipedia: [TV 특강](https://ko.wikipedia.org/wiki/TV_특강).
 
 
 《**TV 특강**》은 [2011년](../Page/2011년.md "wikilink") [1월 3일부터](../Page/1월_3일.md "wikilink") [2012년](../Page/2012년.md "wikilink") [4월 26일까지](../Page/4월_26일.md "wikilink") [한국방송공사](../Page/한국방송공사.md "wikilink")에서 방송되었던 [강연 프로그램이다](../Page/텔레비전_프로그램.md "wikilink").

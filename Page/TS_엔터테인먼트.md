@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TS ](https://ko.wikipedia.org/wiki/TS_).
+> This article is converted from Wikipedia: [TS 엔터테인먼트](https://ko.wikipedia.org/wiki/TS_엔터테인먼트).
 
 
 **TS 엔터테인먼트**(TS Entertainment)는 [대한민국](../Page/대한민국.md "wikilink")의 연예기획사이다.

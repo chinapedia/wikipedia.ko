@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:A TV](https://ko.wikipedia.org/wiki/:A_TV).
+> This article is converted from Wikipedia: [틀:채널A TV](https://ko.wikipedia.org/wiki/틀:채널A_TV).
 
 
 <onlyinclude>[MBN](https://ko.wikipedia.org/wiki/:틀:MBN_TV "wikilink"){{·}}[TV조선](https://ko.wikipedia.org/wiki/:틀:TV조선 "wikilink"){{·}}[채널A](https://ko.wikipedia.org/wiki/:틀:채널A_TV "wikilink")

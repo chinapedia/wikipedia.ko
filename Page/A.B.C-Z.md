@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [A.B.C-Z](https://ko.wikipedia.org/wiki/A.B.C-Z).
 
 
-**A.B.C-Z**는, [일본](../Page/일본.md "wikilink")의 5인조 [남성](https://ko.wikipedia.org/wiki/남성 "wikilink") [아이돌](https://ko.wikipedia.org/wiki/아이돌 "wikilink") 그룹이다. 소속 사무소는 [쟈니즈 사무소이며](../Page/자니스_사무소.md "wikilink"), 레코드 레이블은 [포니캐년](https://ko.wikipedia.org/wiki/포니캐년 "wikilink")이다.
+**A.B.C-Z**는 [일본](../Page/일본.md "wikilink")의 5인조 [남성](https://ko.wikipedia.org/wiki/남성 "wikilink") [아이돌](https://ko.wikipedia.org/wiki/아이돌 "wikilink") 그룹이다. 소속 사무소는 [쟈니즈 사무소이며](../Page/자니스_사무소.md "wikilink"), 레코드 레이블은 [포니캐년](https://ko.wikipedia.org/wiki/포니캐년 "wikilink")이다.
 
 ## 멤버
 
@@ -297,7 +297,7 @@
 
 ## A.B.C.
 
-**A.B.C.**는, A.B.C-Z의 전신 유닛이다.
+**A.B.C.**는 A.B.C-Z의 전신 유닛이다.
 
 ### 멤버
 

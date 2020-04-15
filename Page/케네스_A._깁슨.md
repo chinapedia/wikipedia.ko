@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ A. ](https://ko.wikipedia.org/wiki/_A._).
+> This article is converted from Wikipedia: [케네스 A. 깁슨](https://ko.wikipedia.org/wiki/케네스_A._깁슨).
 
 
 **케네스 앨런 깁슨**(Kenneth Allen Gibson, [1932년](../Page/1932년.md "wikilink") [5월 15일](../Page/5월_15일.md "wikilink") \~ [2019년](../Page/2019년.md "wikilink") [3월 29일](../Page/3월_29일.md "wikilink"))는 [미국](../Page/미국.md "wikilink")의 [민주당](../Page/민주당_\(미국\).md "wikilink") 정치인이자, [아프리카계 미국인](../Page/아프리카계_미국인.md "wikilink") 처음으로 [뉴어크의](../Page/뉴어크_\(뉴저지주\).md "wikilink") 시장(1970\~86)을 지냈다. 미국 북동부 지역에서 처음으로 선출된 흑인 시장이었다.

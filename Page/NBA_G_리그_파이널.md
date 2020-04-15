@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [NBA G  ](https://ko.wikipedia.org/wiki/NBA_G__).
+> This article is converted from Wikipedia: [NBA G 리그 파이널](https://ko.wikipedia.org/wiki/NBA_G_리그_파이널).
 
 
 다음은 **NBA G 리그 파이널**에 대한 주요 정보를 표로 나열한 것이다.

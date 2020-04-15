@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Infobox MMA event](https://ko.wikipedia.org/wiki/:Infobox_MMA_event).
+> This article is converted from Wikipedia: [틀:Infobox MMA event](https://ko.wikipedia.org/wiki/틀:Infobox_MMA_event).
 
 
 {{\#if:|

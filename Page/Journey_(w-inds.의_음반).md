@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Journey \(w-inds. \)](https://ko.wikipedia.org/wiki/Journey_\(w-inds._\)).
+> This article is converted from Wikipedia: [Journey \(w-inds.의 음반\)](https://ko.wikipedia.org/wiki/Journey_\(w-inds.의_음반\)).
 
 
 《**Journey**》는 [w-inds.](https://ko.wikipedia.org/wiki/w-inds. "wikilink")의 6번째 앨범이다. 2007년 3월 7일 발매되었다.

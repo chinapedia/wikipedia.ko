@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [K  ](https://ko.wikipedia.org/wiki/K__).
+> This article is converted from Wikipedia: [K의 즐거운 사생활](https://ko.wikipedia.org/wiki/K의_즐거운_사생활).
 
 
 **K의 즐거운 사생활**은 [대한민국](../Page/대한민국.md "wikilink")의 방송국 [MBC](https://ko.wikipedia.org/wiki/MBC "wikilink")의 라디오 채널 [MBC FM4U](../Page/MBC_FM4U.md "wikilink")(수도권 91.9MHz)에서 오전 3시부터 오전 4시 55분까지 방송된 라디오 프로그램이다. K는 진행자 [김태훈이며](../Page/김태훈_\(음악_평론가\).md "wikilink"), [2012년](../Page/2012년.md "wikilink") [10월 22일](../Page/10월_22일.md "wikilink") 가을 개편으로 신설되었다. [2013년](../Page/2013년.md "wikilink") [1월 12일](../Page/1월_12일.md "wikilink") 팟캐스트 차트 100위권 진입을 기념하여 첫 생방송을 진행하였다. 매달 첫째주 일요일은 방송시스템 점검을 위한 정파가 실시되어 방송되지 않았고, [2013년](../Page/2013년.md "wikilink") [3월 25일부터](../Page/3월_25일.md "wikilink") MBC 라디오 봄 개편을 맞아 방송 시작 시간을 1시간 앞당겨 2시 \~ 4시까지 방송했다. 그러나 2013년 가을 개편때는 다시 새벽 3시부터 방송되었다.

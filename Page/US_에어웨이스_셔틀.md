@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [US  ](https://ko.wikipedia.org/wiki/US__).
+> This article is converted from Wikipedia: [US 에어웨이스 셔틀](https://ko.wikipedia.org/wiki/US_에어웨이스_셔틀).
 
 
 **US 에어웨이즈 셔틀**()은 [1961년](../Page/1961년.md "wikilink")에 설립된 [US 에어웨이즈의](https://ko.wikipedia.org/wiki/US_에어웨이즈 "wikilink") 자회사이자 마케팅 기업으로 주로 [미국](../Page/미국.md "wikilink") 북동부 위주로 서비스를 제공한다.

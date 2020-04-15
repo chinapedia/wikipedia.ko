@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [CUE \(9nine \)](https://ko.wikipedia.org/wiki/CUE_\(9nine_\)).
+> This article is converted from Wikipedia: [CUE \(9nine의 음반\)](https://ko.wikipedia.org/wiki/CUE_\(9nine의_음반\)).
 
 
 **CUE**(큐)는 [2013년](../Page/2013년.md "wikilink") [3월 13일에](../Page/3월_13일.md "wikilink") 발매예정인 [9nine](../Page/9nine.md "wikilink")의 네 번째 앨범, 리뉴얼후 두 번째 앨범이다.

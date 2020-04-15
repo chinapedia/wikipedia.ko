@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:OGC   ](https://ko.wikipedia.org/wiki/:OGC___).
+> This article is converted from Wikipedia: [틀:OGC 니스 선수 명단](https://ko.wikipedia.org/wiki/틀:OGC_니스_선수_명단).
 
 
 <onlyinclude></onlyinclude>

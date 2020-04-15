@@ -12,6 +12,8 @@
 
 ## 슬로건
 
+  - 대한민국 여성 전문채널
+  - 삶을 리드하는 채널
   - 여자, 삶을 리드하다
 
 ## 역사
@@ -98,7 +100,7 @@
   - [가족의 품격 풀하우스](../Page/가족의_품격_풀하우스.md "wikilink")
   - [인간의 조건](../Page/인간의_조건.md "wikilink")
   - [전국노래자랑](../Page/전국노래자랑.md "wikilink")
-  - [해피선데이](https://ko.wikipedia.org/wiki/해피선데이 "wikilink")
+  - [해피선데이](../Page/해피선데이.md "wikilink")
       - [슈퍼맨이 돌아왔다](../Page/슈퍼맨이_돌아왔다.md "wikilink")
       - [1박 2일](../Page/1박_2일.md "wikilink")
   - [맘마미아](../Page/맘마미아_\(텔레비전_프로그램\).md "wikilink")

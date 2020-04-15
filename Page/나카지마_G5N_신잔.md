@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ G5N ](https://ko.wikipedia.org/wiki/_G5N_).
+> This article is converted from Wikipedia: [나카지마 G5N 신잔](https://ko.wikipedia.org/wiki/나카지마_G5N_신잔).
 
 
 **나카지마 G5N 신잔**은 [대일본제국 해군에서](https://ko.wikipedia.org/wiki/대일본제국_해군 "wikilink") 사용될 예정이었던 4발 폭격기로 해군에서 개발 당시 13시 공격기로 불렀다. 연합군의 코드명은 리즈(Liz)였다.

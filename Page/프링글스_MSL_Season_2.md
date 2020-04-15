@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ MSL Season 2](https://ko.wikipedia.org/wiki/_MSL_Season_2).
+> This article is converted from Wikipedia: [프링글스 MSL Season 2](https://ko.wikipedia.org/wiki/프링글스_MSL_Season_2).
 
 
 **프링글스 MSL Season 2**(Pringles MSL 2006 Season 2)은 KPGA투어를 포함하면 13번째이자, 9차 MSL이다. [프링글스](../Page/프링글스.md "wikilink")가 MSL 최초로 2회 연속 후원한 리그이다.

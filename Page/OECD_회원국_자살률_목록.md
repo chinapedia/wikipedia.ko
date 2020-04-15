@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [OECD   ](https://ko.wikipedia.org/wiki/OECD___).
+> This article is converted from Wikipedia: [OECD 회원국 자살률 목록](https://ko.wikipedia.org/wiki/OECD_회원국_자살률_목록).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:OECD_member_states_map.svg "wikilink") (2010년 기준)\]\] 다음은 [세계보건기구](https://ko.wikipedia.org/wiki/세계_보건_기구 "wikilink") 자료에 근거한 [OECD 회원국](https://ko.wikipedia.org/wiki/경제_협력_개발_기구#.ED.9A.8C.EC.9B.90.EA.B5.AD "wikilink") 내의 [자살률 목록이다](../Page/자살률에_따른_나라_목록.md "wikilink").

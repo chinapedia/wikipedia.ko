@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  Z](https://ko.wikipedia.org/wiki/__Z).
+> This article is converted from Wikipedia: [세계 대전 Z](https://ko.wikipedia.org/wiki/세계_대전_Z).
 
 
 《**세계 대전 Z**》()는 2006년 발표된 [맥스 브룩스의](../Page/맥스_브룩스.md "wikilink") 종말 공포 소설이다. 전염병으로 인한 [좀비](../Page/좀비.md "wikilink") 사태가 끝난 후를 배경으로 인류의 생존 이야기를 인터뷰 형식으로 풀어내었다.

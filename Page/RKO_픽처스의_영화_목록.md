@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [RKO   ](https://ko.wikipedia.org/wiki/RKO___).
+> This article is converted from Wikipedia: [RKO 픽처스의 영화 목록](https://ko.wikipedia.org/wiki/RKO_픽처스의_영화_목록).
 
 
 **RKO 픽처스의 영화 목록**은 [RKO와](../Page/RKO_픽처스.md "wikilink") [라디오 픽처스에서](https://ko.wikipedia.org/wiki/RKO_라디오_픽처스 "wikilink") 배급한 영화의 목록이다.
@@ -55,7 +55,7 @@
   - [캣 피플](https://ko.wikipedia.org/wiki/캣_피플 "wikilink")
   - [밤비](../Page/밤비.md "wikilink")
   - [훌륭한 앰버슨가](https://ko.wikipedia.org/wiki/훌륭한_앰버슨가 "wikilink")
-  - [라틴 아메리카의 밤](https://ko.wikipedia.org/wiki/라틴_아메리카의_밤 "wikilink")
+  - [라틴 아메리카의 밤](../Page/라틴_아메리카의_밤.md "wikilink")
   - [야구왕 루 게릭](https://ko.wikipedia.org/wiki/야구왕_루_게릭 "wikilink")
 
 ### 1943년

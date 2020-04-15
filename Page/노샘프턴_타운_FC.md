@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  FC](https://ko.wikipedia.org/wiki/__FC).
+> This article is converted from Wikipedia: [노샘프턴 타운 FC](https://ko.wikipedia.org/wiki/노샘프턴_타운_FC).
 
 
 **노샘프턴 타운 풋볼 클럽**()은 [노샘프턴셔주](../Page/노샘프턴셔주.md "wikilink"), [노샘프턴](../Page/노샘프턴.md "wikilink")을 연고지로 하고 있는 [잉글랜드](../Page/잉글랜드.md "wikilink")의 프로 [축구](../Page/축구.md "wikilink") 클럽이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [   S](https://ko.wikipedia.org/wiki/___S).
+> This article is converted from Wikipedia: [극장판 미소녀전사 세일러문 S](https://ko.wikipedia.org/wiki/극장판_미소녀전사_세일러문_S).
 
 
 **극장판 미소녀전사 세일러문 S**는 [미소녀전사 세일러문 S의](https://ko.wikipedia.org/wiki/미소녀전사_세일러문_\(애니메이션\)#세일러문_S_\(3기\) "wikilink") 극장판이다.

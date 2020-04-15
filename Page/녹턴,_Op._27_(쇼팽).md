@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [, Op. 27 \(\)](https://ko.wikipedia.org/wiki/,_Op._27_\(\)).
+> This article is converted from Wikipedia: [녹턴, Op. 27 \(쇼팽\)](https://ko.wikipedia.org/wiki/녹턴,_Op._27_\(쇼팽\)).
 
 
 **쇼팽의 녹턴 작품번호 제27번**(2 Nocturnes, Op. 27)은 [프레데리크 쇼팽이](../Page/프레데리크_쇼팽.md "wikilink") [1836년](../Page/1836년.md "wikilink")에 작곡한 곡으로 녹턴 7번과 8번이 포함되어 있다. 첫 출판은 [1837년](../Page/1837년.md "wikilink")에 이루어졌다. 작품번호 제27번 이후로 [쇼팽의 녹턴은](../Page/녹턴_\(쇼팽\).md "wikilink") 2개씩 묶어서 출판되었다. 이 작품번호 제27번의 녹턴 7번과 8번은 쇼팽의 스물 한 개 녹턴 중 대작(大作)으로 칭해지며 완벽한 작품으로 꼽힌다.

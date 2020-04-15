@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [One in a million \(  \)](https://ko.wikipedia.org/wiki/One_in_a_million_\(__\)).
+> This article is converted from Wikipedia: [One in a million \(야마시타 토모히사의 노래\)](https://ko.wikipedia.org/wiki/One_in_a_million_\(야마시타_토모히사의_노래\)).
 
 
 **One in a million**는 [야마시타 토모히사의](../Page/야마시타_토모히사.md "wikilink") 솔로 3번째 싱글이다.

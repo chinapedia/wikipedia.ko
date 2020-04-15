@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [S\&P ](https://ko.wikipedia.org/wiki/S\&P_).
+> This article is converted from Wikipedia: [S\&P 글로벌](https://ko.wikipedia.org/wiki/S\&P_글로벌).
 
 
 **S\&P 글로벌**(S\&P Global Inc.)은 [미국](../Page/미국.md "wikilink") [뉴욕](../Page/뉴욕.md "wikilink")에 본사를 둔 [공개 기업으로써](https://ko.wikipedia.org/wiki/공개_기업 "wikilink") 금융 서비스 기업이며 주요 업무는 재무 정보 및 분석 입니다. . [스탠더드 앤드 푸어스와](https://ko.wikipedia.org/wiki/스탠더드_앤드_푸어스 "wikilink") [S\&P 다우 존스 레이팅스](https://ko.wikipedia.org/wiki/S&P_다우_존스_레이팅스 "wikilink") 등 4개 법인의 모회사에 해당한다.

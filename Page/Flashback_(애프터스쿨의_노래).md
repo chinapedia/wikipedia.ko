@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Flashback \( \)](https://ko.wikipedia.org/wiki/Flashback_\(_\)).
+> This article is converted from Wikipedia: [Flashback \(애프터스쿨의 노래\)](https://ko.wikipedia.org/wiki/Flashback_\(애프터스쿨의_노래\)).
 
 
 《**Flashback**》은 [대한민국](../Page/대한민국.md "wikilink")의 걸그룹 [애프터스쿨](../Page/애프터스쿨.md "wikilink")의 다섯 번째 싱글 앨범이다.

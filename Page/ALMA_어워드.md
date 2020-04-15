@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ALMA ](https://ko.wikipedia.org/wiki/ALMA_).
+> This article is converted from Wikipedia: [ALMA 어워드](https://ko.wikipedia.org/wiki/ALMA_어워드).
 
 
 **ALMA 어워드**(ALMA Award)는 미국의 영화상으로, 1995년 처음 개최되었다.

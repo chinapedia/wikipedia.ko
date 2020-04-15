@@ -211,9 +211,8 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>이탈리아<ref></p>
+<td><p>이탈리아<ref>* </p>
 <ul>
-<li></li>
 <li><p></ref></p></li>
 </ul></td>
 <td><p>2013년 11월 12일</p></td>

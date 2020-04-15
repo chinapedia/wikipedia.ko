@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [APEC ](https://ko.wikipedia.org/wiki/APEC_).
+> This article is converted from Wikipedia: [APEC 교육장관회의](https://ko.wikipedia.org/wiki/APEC_교육장관회의).
 
 
 **APEC 교육장관회의**는 [아시아 태평양 경제협력체](../Page/아시아_태평양_경제협력체.md "wikilink")(APEC) 회원국 교육장관이 모여 역내 지식격차 해소 및 경제발전을 위해 교육·인적자원 개발과 관련된 주요 사안을 협의하는 회의이다.

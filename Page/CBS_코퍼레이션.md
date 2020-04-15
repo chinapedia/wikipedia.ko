@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [CBS ](https://ko.wikipedia.org/wiki/CBS_).
+> This article is converted from Wikipedia: [CBS 코퍼레이션](https://ko.wikipedia.org/wiki/CBS_코퍼레이션).
 
 
 **CBS 코퍼레이션**(CBS Corporation)은 미국의 미디어 대기업이었다. 미국 3대 네트워크의 하나인 [CBS](../Page/CBS_\(미국의_방송사\).md "wikilink") 등을 소유했었다.
@@ -20,7 +20,7 @@
 ## 외부 링크
 
   -
-[분류:바이어컴CBS](https://ko.wikipedia.org/wiki/분류:바이어컴CBS "wikilink") [분류:1971년 설립된 기업](https://ko.wikipedia.org/wiki/분류:1971년_설립된_기업 "wikilink") [분류:뉴욕 증권거래소 상장 폐지 기업](https://ko.wikipedia.org/wiki/분류:뉴욕_증권거래소_상장_폐지_기업 "wikilink") [분류:뉴욕의 기업](https://ko.wikipedia.org/wiki/분류:뉴욕의_기업 "wikilink") [분류:미국의 방송사](https://ko.wikipedia.org/wiki/분류:미국의_방송사 "wikilink") [분류:미국의 매체 기업](https://ko.wikipedia.org/wiki/분류:미국의_매체_기업 "wikilink")
+[분류:바이어컴CBS](https://ko.wikipedia.org/wiki/분류:바이어컴CBS "wikilink") [분류:1971년 설립된 기업](https://ko.wikipedia.org/wiki/분류:1971년_설립된_기업 "wikilink") [분류:2019년 폐지](https://ko.wikipedia.org/wiki/분류:2019년_폐지 "wikilink") [분류:미국의 없어진 기업](https://ko.wikipedia.org/wiki/분류:미국의_없어진_기업 "wikilink") [분류:뉴욕 증권거래소 상장 폐지 기업](https://ko.wikipedia.org/wiki/분류:뉴욕_증권거래소_상장_폐지_기업 "wikilink") [분류:뉴욕의 기업](https://ko.wikipedia.org/wiki/분류:뉴욕의_기업 "wikilink") [분류:미국의 방송사](https://ko.wikipedia.org/wiki/분류:미국의_방송사 "wikilink") [분류:미국의 매체 기업](https://ko.wikipedia.org/wiki/분류:미국의_매체_기업 "wikilink")
 
 1.
 2.

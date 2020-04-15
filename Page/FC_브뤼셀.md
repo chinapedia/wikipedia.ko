@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FC ](https://ko.wikipedia.org/wiki/FC_).
+> This article is converted from Wikipedia: [FC 브뤼셀](https://ko.wikipedia.org/wiki/FC_브뤼셀).
 
 
 **FC 브뤼셀**(FC Brussels)은 [벨기에](../Page/벨기에.md "wikilink")의 수도 [브뤼셀](../Page/브뤼셀.md "wikilink")을 연고로 했던 [축구](../Page/축구.md "wikilink") 클럽이다. 이 팀은 [1932년](../Page/1932년.md "wikilink")에 창단되었으며, [2014년](../Page/2014년.md "wikilink")에 재정난으로 인해 파산하였다.

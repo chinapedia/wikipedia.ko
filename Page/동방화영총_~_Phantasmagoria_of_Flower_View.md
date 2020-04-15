@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ \~ Phantasmagoria of Flower View](https://ko.wikipedia.org/wiki/_\~_Phantasmagoria_of_Flower_View).
+> This article is converted from Wikipedia: [동방화영총 \~ Phantasmagoria of Flower View](https://ko.wikipedia.org/wiki/동방화영총_\~_Phantasmagoria_of_Flower_View).
 
 
 《**동방화영총 \~ Phantasmagoria of Flower View**》()은 [동방 프로젝트의](../Page/동방_프로젝트.md "wikilink") 아홉번째 시리즈 게임이다.

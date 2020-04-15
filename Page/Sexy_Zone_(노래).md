@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Sexy Zone \(\)](https://ko.wikipedia.org/wiki/Sexy_Zone_\(\)).
+> This article is converted from Wikipedia: [Sexy Zone \(노래\)](https://ko.wikipedia.org/wiki/Sexy_Zone_\(노래\)).
 
 
 〈**Sexy Zone**〉(섹시 존)은, [Sexy Zone의](https://ko.wikipedia.org/wiki/Sexy_Zone "wikilink") [데뷔](https://ko.wikipedia.org/wiki/데뷔 "wikilink") [싱글이다](../Page/싱글_\(음악\).md "wikilink").

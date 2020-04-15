@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SC ](https://ko.wikipedia.org/wiki/SC_).
+> This article is converted from Wikipedia: [SC 베이라마르](https://ko.wikipedia.org/wiki/SC_베이라마르).
 
 
 **스포르트 클루브 베이라마르**(Sport Clube Beira-Mar) 또는 **SC 베이라마르**(S.C. Beira-Mar)는 [포르투갈](../Page/포르투갈.md "wikilink") [아베이루](https://ko.wikipedia.org/wiki/아베이루 "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽으로, 현재 [포르투갈 리가](https://ko.wikipedia.org/wiki/포르투갈_리가 "wikilink") 소속으로 활동하고 있다.

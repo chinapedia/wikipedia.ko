@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  FC](https://ko.wikipedia.org/wiki/__FC).
+> This article is converted from Wikipedia: [무앙통 유나이티드 FC](https://ko.wikipedia.org/wiki/무앙통_유나이티드_FC).
 
 
 **무앙통 유나이티드 풋볼 클럽**()은 [논타부리 주](https://ko.wikipedia.org/wiki/논타부리_주 "wikilink") [무앙통 타니를](https://ko.wikipedia.org/wiki/무앙통_타니 "wikilink") 연고지로 하는 [태국](../Page/태국.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다. 클럽의 별칭인 *쌍둥이 기린*(, 킬렌 프용)으로 널리 알려져있다.

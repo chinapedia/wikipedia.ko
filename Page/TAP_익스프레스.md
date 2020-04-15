@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TAP ](https://ko.wikipedia.org/wiki/TAP_).
+> This article is converted from Wikipedia: [TAP 익스프레스](https://ko.wikipedia.org/wiki/TAP_익스프레스).
 
 
 **TAP 익스프레스**는 [포르투갈](../Page/포르투갈.md "wikilink")의 지역 항공사로 주로 [유럽](../Page/유럽.md "wikilink"), [북아프리카](../Page/북아프리카.md "wikilink")에 취항하고 있다. [리스본 포르텔라 국제공항이](https://ko.wikipedia.org/wiki/리스본_포르텔라_국제공항 "wikilink") [허브 공항으로](../Page/허브_공항.md "wikilink") [1988년](../Page/1988년.md "wikilink")에 설립되어 본사는 [포르투갈](../Page/포르투갈.md "wikilink") [리스본](../Page/리스본.md "wikilink")에 위치해 있다.\[1\]

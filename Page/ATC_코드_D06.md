@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ATC  D06](https://ko.wikipedia.org/wiki/ATC__D06).
+> This article is converted from Wikipedia: [ATC 코드 D06](https://ko.wikipedia.org/wiki/ATC_코드_D06).
 
 
 **ATC 코드 D06**은 [ATC 코드의](https://ko.wikipedia.org/wiki/ATC_코드 "wikilink") 피부과적 항생제 및 화학요법제로 작용하는 약물을 정리한 코드이다. \[1\] **ATC 코드** D 피부과의 하위그룹을 이룬다.

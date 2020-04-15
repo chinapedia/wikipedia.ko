@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SRS ](https://ko.wikipedia.org/wiki/SRS_).
+> This article is converted from Wikipedia: [SRS 랩스](https://ko.wikipedia.org/wiki/SRS_랩스).
 
 
 **SRS 랩스 주식회사**()는 [미국](../Page/미국.md "wikilink")의 오디오 기술 규격을 개발하는 회사이다.

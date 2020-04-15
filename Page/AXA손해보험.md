@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [AXA](https://ko.wikipedia.org/wiki/AXA).
+> This article is converted from Wikipedia: [AXA손해보험](https://ko.wikipedia.org/wiki/AXA손해보험).
 
 
 **AXA손해보험**은 대한민국에서 운영하는 **[AXA](https://ko.wikipedia.org/wiki/AXA "wikilink")그룹** 산하의 [손해보험](../Page/손해보험.md "wikilink") 회사이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [LG ](https://ko.wikipedia.org/wiki/LG_).
+> This article is converted from Wikipedia: [LG 옵티머스](https://ko.wikipedia.org/wiki/LG_옵티머스).
 
 
 **LG 옵티머스**(, LG GT540)는 [LG전자](../Page/LG전자.md "wikilink")가 [2010년](../Page/2010년.md "wikilink") [6월](../Page/6월.md "wikilink")에 출시한 [LG 인터치 맥스에](../Page/LG_인터치_맥스.md "wikilink") 이은 [안드로이드](../Page/안드로이드_\(운영_체제\).md "wikilink") [스마트폰](../Page/스마트폰.md "wikilink")으로, [옵티머스 시리즈의](../Page/LG_옵티머스_\(제품군\).md "wikilink") 최초 제품이다.\[1\]

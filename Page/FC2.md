@@ -205,4 +205,4 @@ FC2 SNS (영어, 중국어(간체・번체), 한국어, 스페인어, 독일어,
 ## 외부 링크
 
   -
-[분류:1999년 설립](https://ko.wikipedia.org/wiki/분류:1999년_설립 "wikilink") [분류:일본의 웹사이트](https://ko.wikipedia.org/wiki/분류:일본의_웹사이트 "wikilink") [분류:성인 웹사이트](https://ko.wikipedia.org/wiki/분류:성인_웹사이트 "wikilink") [분류:동영상 공유 사이트](https://ko.wikipedia.org/wiki/분류:동영상_공유_사이트 "wikilink")
+[분류:1999년 설립](https://ko.wikipedia.org/wiki/분류:1999년_설립 "wikilink") [분류:일본의 웹사이트](https://ko.wikipedia.org/wiki/분류:일본의_웹사이트 "wikilink") [분류:포르노그래피 웹사이트](https://ko.wikipedia.org/wiki/분류:포르노그래피_웹사이트 "wikilink") [분류:동영상 공유 사이트](https://ko.wikipedia.org/wiki/분류:동영상_공유_사이트 "wikilink")

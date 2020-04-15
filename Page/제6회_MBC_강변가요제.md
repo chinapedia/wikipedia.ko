@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [6 MBC ](https://ko.wikipedia.org/wiki/6_MBC_).
+> This article is converted from Wikipedia: [제6회 MBC 강변가요제](https://ko.wikipedia.org/wiki/제6회_MBC_강변가요제).
 
 
 **《제6회 MBC 강변가요제》**는 제6회 [MBC 강변가요제](../Page/MBC_강변가요제.md "wikilink") 출전곡이 수록된 음반이다.

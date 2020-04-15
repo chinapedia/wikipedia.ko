@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [JTBC  ](https://ko.wikipedia.org/wiki/JTBC__).
+> This article is converted from Wikipedia: [JTBC의 뉴스 프로그램](https://ko.wikipedia.org/wiki/JTBC의_뉴스_프로그램).
 
 
 [썸네일](https://ko.wikipedia.org/wiki/파일:JTBC_News_logo.png "wikilink") **[JTBC](../Page/JTBC.md "wikilink")의 뉴스 프로그램**은 다음과 같다.
@@ -57,7 +57,7 @@
 <ul>
 <li><strong>금요일, 주말편성조정</strong> : <strong>금요일</strong> (19:55 ~ 21:00), <strong>토~일</strong> (18:55 ~ 19:40)</li>
 </ul></td>
-<td><p>서복현, <a href="../Page/안나경.md" title="wikilink">안나경</a> (월~목)<br />
+<td><p><a href="https://ko.wikipedia.org/wiki/서복현" title="wikilink">서복현</a>, <a href="../Page/안나경.md" title="wikilink">안나경</a> (월~목)<br />
 <a href="https://ko.wikipedia.org/wiki/한민용" title="wikilink">한민용</a> (금~일)</p></td>
 </tr>
 <tr class="even">

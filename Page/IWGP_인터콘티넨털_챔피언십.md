@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [IWGP  ](https://ko.wikipedia.org/wiki/IWGP__).
+> This article is converted from Wikipedia: [IWGP 인터콘티넨털 챔피언십](https://ko.wikipedia.org/wiki/IWGP_인터콘티넨털_챔피언십).
 
 
 **IWGP 인터콘티넨털 챔피언십**(IWGP intercontinental championship)은 [신일본 프로레슬링의](../Page/신일본_프로레슬링.md "wikilink") 챔피언십중 하나다. 신일본 프로레슬링에서는 중간급 챔피언십을 나타낸다.

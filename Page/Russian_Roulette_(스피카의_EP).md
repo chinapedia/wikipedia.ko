@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Russian Roulette \( EP\)](https://ko.wikipedia.org/wiki/Russian_Roulette_\(_EP\)).
+> This article is converted from Wikipedia: [Russian Roulette \(스피카의 EP\)](https://ko.wikipedia.org/wiki/Russian_Roulette_\(스피카의_EP\)).
 
 
 《**Russian Roulette**》(러시안룰렛)은 [대한민국](../Page/대한민국.md "wikilink")의 [음악 그룹](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink") [스피카의](../Page/스피카_\(음악_그룹\).md "wikilink") 첫 번째 [미니 앨범이자](https://ko.wikipedia.org/wiki/미니_앨범 "wikilink") [타이틀곡이다](https://ko.wikipedia.org/wiki/노래 "wikilink").\[1\] [2012년](../Page/2012년.md "wikilink") [2월 8일](../Page/2월_8일.md "wikilink") [로엔엔터테인먼트](https://ko.wikipedia.org/wiki/로엔엔터테인먼트 "wikilink")를 통해 발매되었다.\[2\]

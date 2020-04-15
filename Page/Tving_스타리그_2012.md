@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Tving  2012](https://ko.wikipedia.org/wiki/Tving__2012).
+> This article is converted from Wikipedia: [Tving 스타리그 2012](https://ko.wikipedia.org/wiki/Tving_스타리그_2012).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Tving_Starleague_2012.jpg "wikilink") **Tving 스타리그 2012** (Tving Starleague 2012)은 [온게임넷](https://ko.wikipedia.org/wiki/온게임넷 "wikilink")과 [스포츠조선](../Page/스포츠조선.md "wikilink")의 공동 주최로 이루어지는 이스포츠에서 가장 권위 있는 [스타크래프트](../Page/스타크래프트.md "wikilink") 개인전인 [스타리그](https://ko.wikipedia.org/wiki/스타리그 "wikilink")의 33번째 대회이자,(99프로게이머 오픈을 포함하면 34번째.) [스타크래프트: 브루드 워](../Page/스타크래프트:_브루드_워.md "wikilink") 기반으로 열리는 마지막 대회이며, 2012년에 첫 번째로 열리는 스타리그이다. 특히 이번 스타리그는 전 시즌인 [진에어 스타리그 2011](../Page/진에어_스타리그_2011.md "wikilink") 결승전 이후 210일만에 열린 대회이며 차기시즌에서는 [스타크래프트 II: 자유의 날개로](../Page/스타크래프트_II:_자유의_날개.md "wikilink") 종목이 변경되었다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [B. J. ](https://ko.wikipedia.org/wiki/B._J._).
+> This article is converted from Wikipedia: [B. J. 노백](https://ko.wikipedia.org/wiki/B._J._노백).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Bjnovak_crop.jpg "wikilink") **B. J. 노백**(B. J. Novak, 1979년 7월 31일 \~ )은 [미국](../Page/미국.md "wikilink")의 [연기자](../Page/배우.md "wikilink"), [스탠드업 코미디언](https://ko.wikipedia.org/wiki/스탠드업_코미디언 "wikilink"), [작가](https://ko.wikipedia.org/wiki/텔레비전_각본가 "wikilink"), [감독이다](https://ko.wikipedia.org/wiki/텔레비전_감독 "wikilink"). 미국 시트콤 《[오피스](https://ko.wikipedia.org/wiki/오피스_\(미국_시트콤\) "wikilink")》의 공동 책임 프로듀서 겸 작가이며 극중 [라이언 하워드](https://ko.wikipedia.org/wiki/라이언_하워드_\(오피스\) "wikilink") 역을 연기하고 있다. 또한 [쿠엔틴 타란티노](../Page/쿠엔틴_타란티노.md "wikilink") 감독의 영화 《[바스터즈: 거친 녀석들](https://ko.wikipedia.org/wiki/바스터즈:_거친_녀석들 "wikilink")》에 출연한 것으로도 유명하다.

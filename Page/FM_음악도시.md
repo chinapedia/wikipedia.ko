@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FM ](https://ko.wikipedia.org/wiki/FM_).
+> This article is converted from Wikipedia: [FM 음악도시](https://ko.wikipedia.org/wiki/FM_음악도시).
 
 
 《**FM 음악도시**》는 매일 오후 10시부터 밤 12시까지 방송되었던 [MBC FM4U의](../Page/MBC_FM4U.md "wikilink") 라디오 프로그램이다.
@@ -6,7 +6,10 @@
 ## 프로그램의 역사
 
 이 프로그램은 밤의 디스크쇼, [FM 데이트](../Page/FM_데이트.md "wikilink")(시간대 변경) 이후 [1996년](../Page/1996년.md "wikilink") 4월 봄 개편으로 신설된 심야방송 이었다. 초기에는 자정부터 새벽 2시까지 하던 프로그램이었으며,\[1\] 1대 시장(진행자)은 [신해철](../Page/신해철.md "wikilink")이었고, 2대 시장은 [유희열](https://ko.wikipedia.org/wiki/유희열 "wikilink")이었다.\[2\]
-그리고 2001년 4월부터 3대 시장으로 [이소라가](../Page/이소라_\(가수\).md "wikilink") 진행했으나 [2006년](../Page/2006년.md "wikilink") [4월 23일](../Page/4월_23일.md "wikilink") MBC 라디오 봄 개편으로 폐지되었다.\[3\] 그 후 《[박명수](../Page/박명수.md "wikilink")의 [펀펀라디오](http://www.imbc.com/broad/radio/fm4u/funfun/)》, 《[꿈꾸는 라디오](../Page/꿈꾸는_라디오.md "wikilink")》가 방송되다가 [2011년](../Page/2011년.md "wikilink") [6월 1일부터](../Page/6월_1일.md "wikilink") 프로그램이 부활하면서 4대 시장인 [성시경](https://ko.wikipedia.org/wiki/성시경 "wikilink")이 진행을 맡기 시작했다.\[4\] ([2012년](../Page/2012년.md "wikilink") [10월 24일부터](../Page/10월_24일.md "wikilink") [임수정이](../Page/임수정_\(배우\).md "wikilink") 일주일간 임시 진행한 바 있으며,\[5\] [2013년](../Page/2013년.md "wikilink") [1월 14일부터](../Page/1월_14일.md "wikilink") [1월 19일까지는](../Page/1월_19일.md "wikilink") [박효신](../Page/박효신.md "wikilink")이 6일 간 임시 진행한 적이 있다. 이 외에도 성시경이 휴가, 콘서트 등으로 가끔 비울때 [루시드 폴](https://ko.wikipedia.org/wiki/루시드_폴 "wikilink") 등 동료 뮤지션들이 임시 시장(DJ)을 맡은 바 있다.)
+그리고 2001년 4월부터 3대 시장으로 [이소라가](../Page/이소라_\(가수\).md "wikilink") 진행했으나 [2006년](../Page/2006년.md "wikilink") [4월 23일](../Page/4월_23일.md "wikilink") MBC 라디오 봄 개편으로 폐지되었다.\[3\] 그 후 《[박명수](../Page/박명수.md "wikilink")의 [펀펀라디오](http://www.imbc.com/broad/radio/fm4u/funfun/)》, 《[꿈꾸는 라디오](../Page/꿈꾸는_라디오.md "wikilink")》가 방송되다가 [2011년](../Page/2011년.md "wikilink") [6월 1일부터](../Page/6월_1일.md "wikilink") 프로그램이 부활하면서 4대 시장인 [성시경](https://ko.wikipedia.org/wiki/성시경 "wikilink")이 진행을 맡기 시작했다.\[4\]
+
+한편 성시경의 개인 스케줄이나 사정으로 인해서 잠시 자리를 비웠을 경우에 그 자리를 대신 채워준 임시 시장(DJ)들의 경우, [2012년](../Page/2012년.md "wikilink") [10월 24일부터](../Page/10월_24일.md "wikilink") [임수정이](../Page/임수정_\(배우\).md "wikilink") 일주일간 임시 진행한 바 있으며\[5\], [2013년](../Page/2013년.md "wikilink") [1월 14일부터](../Page/1월_14일.md "wikilink") [1월 19일까지는](../Page/1월_19일.md "wikilink") [박효신](../Page/박효신.md "wikilink")이 6일 간 임시 진행한 적이 있다. 이 외에도 성시경이 휴가, 콘서트 등으로 가끔 비울때 [루시드 폴](https://ko.wikipedia.org/wiki/루시드_폴 "wikilink") 등 동료 뮤지션들이 임시 시장(DJ)을 맡은 바 있다.
+
 [2014년](../Page/2014년.md "wikilink") [4월 13일을](../Page/4월_13일.md "wikilink") 마지막으로 4대 DJ 성시경이 8집 앨범 작업 등을 이유로 하차하게 되면서 이후 [아이유](https://ko.wikipedia.org/wiki/아이유 "wikilink")(14일), [허지웅](../Page/허지웅.md "wikilink")(15일), [이적](../Page/이적_\(가수\).md "wikilink")(16일), [이승환](../Page/이승환_\(가수\).md "wikilink")(17, 18일), [류수영](../Page/류수영.md "wikilink")(19, 20일)이 임시 DJ를 맡는 체제로 진행되다가 동시간대의 이전 방송이었던 《꿈꾸는 라디오》가 부활함으로써 결국 음악도시는 또 다시 폐지되고 말았다.\[6\]\[7\]
 
 ## 역대 DJ
@@ -61,8 +64,7 @@
 
 ## 코너
 
-2014년 4월 성시경의 하차 직전의 코너 명칭들이다.
-이 표에 기록된 게스트들은 4월 13일 성시경이 하차하면서 역시 하차했다. 임시 DJ 체제 시에는 임시 게스트를 초청한 바 있다.
+2014년 4월 성시경의 하차 직전까지 존재했던 코너들의 명칭들이다. 이 표에 기록된 게스트들은 4월 13일 성시경이 하차하면서 역시 하차했다. 임시 DJ 체제 시에는 임시 게스트를 초청한 바 있다.
 
 <table>
 <thead>

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TRICK  2](https://ko.wikipedia.org/wiki/TRICK__2).
+> This article is converted from Wikipedia: [TRICK 극장판 2](https://ko.wikipedia.org/wiki/TRICK_극장판_2).
 
 
 《**TRICK 극장판 2**》()은 [2006년](../Page/2006년.md "wikilink") [6월 10일에](../Page/6월_10일.md "wikilink") 개봉한 [일본](../Page/일본.md "wikilink") [영화](../Page/영화.md "wikilink")이다. 공식 사이트 및 팜플렛 등에서는 **TRICK -극장판2-**로 표기되어 있다.

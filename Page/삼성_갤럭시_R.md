@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  R](https://ko.wikipedia.org/wiki/__R).
+> This article is converted from Wikipedia: [삼성 갤럭시 R](https://ko.wikipedia.org/wiki/삼성_갤럭시_R).
 
 
 **삼성 갤럭시 R**()은 [삼성전자](https://ko.wikipedia.org/wiki/삼성전자 "wikilink")에서 [2011년](../Page/2011년.md "wikilink") [8월 10일에](../Page/8월_10일.md "wikilink") 출시한 [안드로이드](../Page/안드로이드_\(운영_체제\).md "wikilink") [스마트폰](../Page/스마트폰.md "wikilink")으로, [갤럭시 S II의](https://ko.wikipedia.org/wiki/갤럭시_S_II "wikilink") 하이엔드 보급형 제품이다.

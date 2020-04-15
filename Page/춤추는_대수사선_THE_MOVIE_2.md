@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  THE MOVIE 2](https://ko.wikipedia.org/wiki/__THE_MOVIE_2).
+> This article is converted from Wikipedia: [춤추는 대수사선 THE MOVIE 2](https://ko.wikipedia.org/wiki/춤추는_대수사선_THE_MOVIE_2).
 
 
 《**춤추는 대수사선 THE MOVIE 2 레인보우 브릿지를 봉쇄하라\!**》()는 [후지 TV에서](../Page/후지_TV.md "wikilink") 방영되었던 동명의 TV [드라마](https://ko.wikipedia.org/wiki/드라마 "wikilink") 극장판 두 번째 시리즈인 [영화](../Page/영화.md "wikilink")이다. 약칭 OD2. 국제 버전 BAYSIDE SHAKEDOWN2가 리믹스 제작되어 상영되기도 하였다.

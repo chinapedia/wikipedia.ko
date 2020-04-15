@@ -60,49 +60,37 @@
 
 ## 음반 목록
 
-  - 정규 음반
+  - **정규 음반**
+      - 2014년 4월 《**[PLAY](https://ko.wikipedia.org/wiki/PLAY_\(악동뮤지션의_음반\) "wikilink")**》
+      - 2017년 1월 《**[사춘기 하](https://ko.wikipedia.org/wiki/사춘기_\(악동뮤지션의_음반\) "wikilink")**》
+      - 2019년 9월 《**[항해](https://ko.wikipedia.org/wiki/항해_\(악동뮤지션의_음반\) "wikilink")**》
 
 <!-- end list -->
 
-  - 2014년 4월 《**[PLAY](https://ko.wikipedia.org/wiki/PLAY_\(악동뮤지션의_음반\) "wikilink")**》
-  - 2017년 1월 《**[사춘기 하](https://ko.wikipedia.org/wiki/사춘기_\(악동뮤지션의_음반\) "wikilink")**》
-  - 2019년 9월 《**[항해](https://ko.wikipedia.org/wiki/항해_\(악동뮤지션의_음반\) "wikilink")**》
+  - **EP 음반**
+      - 2016년 5월 《**[사춘기 상](https://ko.wikipedia.org/wiki/사춘기_\(악동뮤지션의_음반\) "wikilink")**》
 
 <!-- end list -->
 
-  - EP 음반
+  - **싱글 음반**
+      - 2017년 7월 《**[SUMMER EPISODE](https://ko.wikipedia.org/wiki/SUMMER_EPISODE "wikilink")**》
 
 <!-- end list -->
 
-  - 2016년 5월 《**[사춘기 상](https://ko.wikipedia.org/wiki/사춘기_\(악동뮤지션의_음반\) "wikilink")**》
-
-<!-- end list -->
-
-  - 싱글 음반
-
-<!-- end list -->
-
-  - 2017년 7월 《**[SUMMER EPISODE](https://ko.wikipedia.org/wiki/SUMMER_EPISODE "wikilink")**》
-
-<!-- end list -->
-
-  - 디지털 싱글 음반
-
-<!-- end list -->
-
-  - 2014년 10월 《**[시간과 낙엽](https://ko.wikipedia.org/wiki/시간과_낙엽 "wikilink")**》
+  - **디지털 싱글 음반**
+      - 2014년 10월 《**[시간과 낙엽](https://ko.wikipedia.org/wiki/시간과_낙엽 "wikilink")**》
 
 ## 음반 외 활동
 
 ### 방송
 
-| 년도                                             | 방송 채널                                                               | 제목                                                          | 역할             | 참고            |
-| ---------------------------------------------- | ------------------------------------------------------------------- | ----------------------------------------------------------- | -------------- | ------------- |
-| 2012년\~2013년                                   | [SBS](../Page/SBS_\(대한민국의_방송사\).md "wikilink")                      | [K팝 스타 2](https://ko.wikipedia.org/wiki/K팝_스타_2 "wikilink") | 참가자            | 우승            |
-| 2016년                                          | [KBS2](../Page/KBS_2TV.md "wikilink")                               | [유희열의 스케치북](../Page/유희열의_스케치북.md "wikilink")                | 코너 MC (작사의 후예) | 6월 3일\~11월 5일 |
-| 2017년                                          | [MBC](../Page/문화방송.md "wikilink")                                   | [마이 리틀 텔레비전](../Page/마이_리틀_텔레비전.md "wikilink")              | 비정기 출연         |               |
-| [SBS](../Page/SBS_\(대한민국의_방송사\).md "wikilink") | [추블리네가 떴다](../Page/추블리네가_떴다.md "wikilink")                          | 고정 출연                                                       | 8월 26일\~9월30일  |               |
-| 2019년                                          | [JTBC](https://ko.wikipedia.org/wiki/JTBC_\(대한민국의_방송사\) "wikilink") | [아는형님](https://ko.wikipedia.org/wiki/아는형님 "wikilink")       | 게스트            | 6월 8일         |
+| 년도                                             | 방송 채널                                          | 제목                                                          | 역할             | 참고            |
+| ---------------------------------------------- | ---------------------------------------------- | ----------------------------------------------------------- | -------------- | ------------- |
+| 2012년\~2013년                                   | [SBS](../Page/SBS_\(대한민국의_방송사\).md "wikilink") | [K팝 스타 2](https://ko.wikipedia.org/wiki/K팝_스타_2 "wikilink") | 참가자            | 우승            |
+| 2016년                                          | [KBS2](../Page/KBS_2TV.md "wikilink")          | [유희열의 스케치북](../Page/유희열의_스케치북.md "wikilink")                | 코너 MC (작사의 후예) | 6월 3일\~11월 5일 |
+| 2017년                                          | [MBC](../Page/문화방송.md "wikilink")              | [마이 리틀 텔레비전](../Page/마이_리틀_텔레비전.md "wikilink")              | 비정기 출연         |               |
+| [SBS](../Page/SBS_\(대한민국의_방송사\).md "wikilink") | [추블리네가 떴다](../Page/추블리네가_떴다.md "wikilink")     | 고정 출연                                                       | 8월 26일\~9월30일  |               |
+| 2019년                                          | [JTBC](../Page/JTBC.md "wikilink")             | [아는형님](https://ko.wikipedia.org/wiki/아는형님 "wikilink")       | 게스트            | 6월 8일         |
 
 ### 광고
 

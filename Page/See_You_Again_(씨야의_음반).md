@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [See You Again \( \)](https://ko.wikipedia.org/wiki/See_You_Again_\(_\)).
+> This article is converted from Wikipedia: [See You Again \(씨야의 음반\)](https://ko.wikipedia.org/wiki/See_You_Again_\(씨야의_음반\)).
 
 
 《**See You Again**》은 [씨야](https://ko.wikipedia.org/wiki/씨야 "wikilink")의 마지막 음반으로, 베스트 음반이다.

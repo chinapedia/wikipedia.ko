@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [II ](https://ko.wikipedia.org/wiki/II_).
+> This article is converted from Wikipedia: [지앙카이II급 호위함](https://ko.wikipedia.org/wiki/지앙카이II급_호위함).
 
 
 **지앙카이II급 호위함**(중국명:054A型导弹护卫舰 , 영문명:Type 054A frigate， NATO code name:jiangkai II class frigate)은 [중국 인민해방군 해군의](../Page/중국_인민해방군_해군.md "wikilink") 최신예 4천톤급 [호위함](https://ko.wikipedia.org/wiki/호위함 "wikilink")이다. **054A형 호위함**이라고도 부른다.2008년에 취역된 徐州함이 1번함이다. 모두 30척이 취역되었다.지앙카이II급은 054형 호위함의 후속함으로 작전수행능력이 중국해군 원 주력구축함이였던 [051형구축함을](../Page/051형_구축함.md "wikilink") 초과한다고 평가된다.

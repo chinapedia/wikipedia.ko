@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [RFU ](https://ko.wikipedia.org/wiki/RFU_).
+> This article is converted from Wikipedia: [RFU 챔피언십](https://ko.wikipedia.org/wiki/RFU_챔피언십).
 
 
 **RFU 챔피언십**(**RFU Championship**)(2009년까지 **내셔널 디비전 원**)은 1987년 시작하여 2009년 프로화한 [잉글랜드](../Page/잉글랜드.md "wikilink")의 2부 프로 [럭비](https://ko.wikipedia.org/wiki/럭비_유니온 "wikilink") 리그이다. 2009-10 시즌부터 12팀으로 이루어져 있으며 1부 리그인 [잉글리시 프리미어십와](../Page/잉글리시_프리미어십.md "wikilink") 3부 리그인 [내셔널 리그 원과](https://ko.wikipedia.org/wiki/내셔널_리그_원 "wikilink") 승강제를 실시하고 있다.

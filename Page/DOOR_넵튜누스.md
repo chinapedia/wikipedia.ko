@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [DOOR ](https://ko.wikipedia.org/wiki/DOOR_).
+> This article is converted from Wikipedia: [DOOR 넵튜누스](https://ko.wikipedia.org/wiki/DOOR_넵튜누스).
 
 
 **DOOR 넵튜누스**(**DOOR Neptunus**)는 네덜란드 프로야구 [혼크발 호프트클라시리그의](../Page/혼크발_호프트클라시.md "wikilink") [프로 야구](https://ko.wikipedia.org/wiki/프로_야구 "wikilink") 팀이다. [네덜란드](../Page/네덜란드.md "wikilink") [로테르담](../Page/로테르담.md "wikilink")을 연고로 하고 있다.

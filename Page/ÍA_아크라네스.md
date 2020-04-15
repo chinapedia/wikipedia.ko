@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [A ](https://ko.wikipedia.org/wiki/A_).
+> This article is converted from Wikipedia: [ÍA 아크라네스](https://ko.wikipedia.org/wiki/ÍA_아크라네스).
 
 
 **ÍA 아크라네스**()는 [1946년](../Page/1946년.md "wikilink")에 창단된 [아이슬란드](../Page/아이슬란드.md "wikilink") [아크라네스](https://ko.wikipedia.org/wiki/아크라네스 "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다.

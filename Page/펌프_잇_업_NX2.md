@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [   NX2](https://ko.wikipedia.org/wiki/___NX2).
+> This article is converted from Wikipedia: [펌프 잇 업 NX2](https://ko.wikipedia.org/wiki/펌프_잇_업_NX2).
 
 
 **펌프 잇 업 Next Xenesis**, 간략히 **펌프 잇 업 NX2**는 펌프 잇 업 프로를 제외하고 국내에서는 14번째. 국제에서는 9번째에 해당된다. [2007년](../Page/2007년.md "wikilink") [12월 14일에](../Page/12월_14일.md "wikilink") 출시되었다. 하드웨어 장치이며 이 버전부터 [USB](../Page/USB.md "wikilink") 시스템이 도입된다. 초기버전은 인터넷랭킹이 가능하였으나 패치가 되면서 인터넷랭킹은 폐지되고 USB시스템 방식으로 변경되었다. 인터페이스는 NX와 동일 하다. 이전 버전인 [NX의](../Page/펌프_잇_업_NX.md "wikilink") 난이도 설정 중 별/해골에서는 애매한 부분이 있어서 다시 숫자로 구성되었다.\[1\] 미션은 월드투어에서 [RPG](https://ko.wikipedia.org/wiki/RPG "wikilink")의 방식인 **월드맥스**로 변경되었다. NX2 이전 버전은 보너스 스테이지를 제외한 3스테이지에서 2스테이지로 줄였다. 대신 NX2 이전 버전은 1\~3스테이지에서 F을 받으면 게임 오버 되지만, 1스테이지에서 F를 받아도 계속하는 방식으로 변경되었다. 이 버전은 NX와 같이 운동량 측정을 확인할 수 있다. 중국판 버전인 **용비봉무**는 자체적으로 수록되었다.

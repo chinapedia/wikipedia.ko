@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [NC](https://ko.wikipedia.org/wiki/NC).
+> This article is converted from Wikipedia: [NC백화점](https://ko.wikipedia.org/wiki/NC백화점).
 
 
 **NC백화점**은 [이랜드그룹](../Page/이랜드그룹.md "wikilink") [이랜드리테일](https://ko.wikipedia.org/wiki/이랜드리테일 "wikilink")에서 운영하는 백화점이다. 송파점과 야탑점은 [대한민국](../Page/대한민국.md "wikilink") 최초 직매입 백화점이다. [동아백화점](../Page/동아백화점.md "wikilink")의 쇼핑점의 경우도 직매입인 NC백화점으로 명칭을 바꾸려 하였으나 대구지역에서의 브랜드 이미지때문에 기존의 [동아백화점](../Page/동아백화점.md "wikilink") 상호를 쓰고 있다. 하지만 운영방식과 매장구성면에서 직매입형인 NC백화점과 같다. 백화점이라고는 하나 점포 내에 상설매장도 섞여있고 직매입매장도 있어서 일반적인 백화점과는 구성 상 차이를 보인다. 그 안에서도 상설매장 비율과 특정품목 집중도에 따라 다양한 서브 유통명이 붙는다.

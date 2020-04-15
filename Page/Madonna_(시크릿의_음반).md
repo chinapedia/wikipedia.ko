@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Madonna \( \)](https://ko.wikipedia.org/wiki/Madonna_\(_\)).
+> This article is converted from Wikipedia: [Madonna \(시크릿의 음반\)](https://ko.wikipedia.org/wiki/Madonna_\(시크릿의_음반\)).
 
 
 **"Madonna"**는 [대한민국](../Page/대한민국.md "wikilink")의 음악 그룹 [시크릿의](../Page/시크릿_\(음악_그룹\).md "wikilink") 두 번째 EP 음반이다.2010년 8월 12일 발매됐다.타이틀곡은 "Madonna"로 히트작곡가 강지원, 김기범의 작업으로 완성된 곡으로 "[마돈나](../Page/마돈나.md "wikilink")와 같이 그 시대의 아이콘이 되어 당당하고 자신있게 살자" 라는 메시지가 들어있다.이 곡은 [일렉트로닉 팝의](https://ko.wikipedia.org/wiki/일렉트로닉_팝 "wikilink") 장르지만 기계음을 배제하였고 실제 관악밴드가 세션으로 참여해 곡의 완성도를 높인게 특징이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [X \(\)](https://ko.wikipedia.org/wiki/X_\(\)).
+> This article is converted from Wikipedia: [X \(만화\)](https://ko.wikipedia.org/wiki/X_\(만화\)).
 
 
 《**X**》(엑스)는 [CLAMP](https://ko.wikipedia.org/wiki/CLAMP "wikilink")가 창작한 [만화](../Page/만화.md "wikilink")와 이를 원작으로 하는 [애니메이션](../Page/애니메이션.md "wikilink")이다.

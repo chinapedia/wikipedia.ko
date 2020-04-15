@@ -67,14 +67,22 @@
   - [샨니아 그라시아](https://ko.wikipedia.org/wiki/샨니아_그라시아 "wikilink") (Shania Gracia)
   - [예시카 타마라](https://ko.wikipedia.org/wiki/예시카_타마라 "wikilink") (Yessica Tamara)
 
+### 팀T
+
+2020년 6월부터 재결성할 예정\[3\].
+
 ### 아카데미생
 
 #### Class A
 
+  - [아드자나 살리하](https://ko.wikipedia.org/wiki/아드자나_살리하 "wikilink") (Adzana Shaliha)
   - [아이코 하루미](https://ko.wikipedia.org/wiki/아이코_하루미 "wikilink") (Aiko Harumi)
   - [아마니나 아프카](https://ko.wikipedia.org/wiki/아마니나_아프카 "wikilink") (Amanina Afiqah)
   - [아미라 파틴](https://ko.wikipedia.org/wiki/아미라_파틴 "wikilink") (Amirah Fatin)
-  - [신디 누쿠호](https://ko.wikipedia.org/wiki/신디_누쿠호 "wikilink") (Cindy Nugroho) - 최연소
+  - [케이틀린 귀네트](https://ko.wikipedia.org/wiki/케이틀린_귀네트 "wikilink") (Caithlyn Gwyneth) - 최연소
+  - [칼리스타 엘리시아](https://ko.wikipedia.org/wiki/칼리스타_엘리시아 "wikilink") (Chalista Ellysia)
+  - [크리스타벨 조셀린](https://ko.wikipedia.org/wiki/크리스타벨_조셀린 "wikilink") (Christabel Jocelyn)
+  - [신디 누쿠호](https://ko.wikipedia.org/wiki/신디_누쿠호 "wikilink") (Cindy Nugroho)
   - [코넬리아 바니사](https://ko.wikipedia.org/wiki/코넬리아_바니사 "wikilink") (Cornelia Vanisa)
   - [데비타 마하라니](https://ko.wikipedia.org/wiki/데비타_마하라니 "wikilink") (Devytha Maharani)
   - [데아 안젤리아](https://ko.wikipedia.org/wiki/데아_안젤리아 "wikilink") (Dhea Angelia)
@@ -86,23 +94,24 @@
   - [플로라 샤피크](https://ko.wikipedia.org/wiki/플로라_샤피크 "wikilink") (Flora Shafiq)
   - [프레야 자야와르다나](https://ko.wikipedia.org/wiki/프레야_자야와르다나 "wikilink") (Freya Jayawardana)
   - [가브리엘라 스테파니](https://ko.wikipedia.org/wiki/가브리엘라_스테파니 "wikilink") (Gabriella Stevany)
+  - [인다 차햐](https://ko.wikipedia.org/wiki/인다_차햐 "wikilink") (Indah Cahya)
   - [제시카 찬드라](https://ko.wikipedia.org/wiki/제시카_찬드라 "wikilink") (Jessica Chandra)
   - [제슬린 칼리스타](https://ko.wikipedia.org/wiki/제슬린_칼리스타 "wikilink") (Jesslyn Callista)
+  - [카트리나 아이린](https://ko.wikipedia.org/wiki/카트리나_아이린 "wikilink") (Kathrina Irene)
   - [케이샤 라마드하니](https://ko.wikipedia.org/wiki/케이샤_라마드하니 "wikilink") (Keisya Ramadhani)
   - [루루 살사비라](https://ko.wikipedia.org/wiki/루루_살사비라 "wikilink") (Lulu Salsabila)
+  - [마샤 레나데아](https://ko.wikipedia.org/wiki/마샤_레나데아 "wikilink") (Marsha Lenathea)
+  - [나빌라 구스마리아](https://ko.wikipedia.org/wiki/나빌라_구스마리아 "wikilink") (Nabila Gusmarlia)
   - [니마스 라투 라파](https://ko.wikipedia.org/wiki/니마스_라투_라파 "wikilink") (Nyimas Ratu Rafa)
   - [파메라 크리산데](https://ko.wikipedia.org/wiki/파메라_크리산데 "wikilink") (Pamela Krysanthe)
-  - [레바 아드리아나](https://ko.wikipedia.org/wiki/레바_아드리아나 "wikilink") (Reva Adriana)
+  - [푸트리 엘자흐라](https://ko.wikipedia.org/wiki/푸트리_엘자흐라 "wikilink") (Putri Elzahra)
   - [레바 피데라](https://ko.wikipedia.org/wiki/레바_피데라 "wikilink") (Reva Fidela)
   - [살마 아니사](https://ko.wikipedia.org/wiki/살마_아니사 "wikilink") (Salma Annisa)
   - [살자 그라시타](https://ko.wikipedia.org/wiki/살자_그라시타 "wikilink") (Shalza Grasita)
+  - [신타 데비](https://ko.wikipedia.org/wiki/신타_데비 "wikilink") (Shinta Devi)
   - [우메가 마우라나](https://ko.wikipedia.org/wiki/우메가_마우라나 "wikilink") (Umega Maulana)
   - [비요나 파드린](https://ko.wikipedia.org/wiki/비요나_파드린 "wikilink") (Viona Fadrin)
   - [자라 눌](https://ko.wikipedia.org/wiki/자라_눌 "wikilink") (Zahra Nur)
-
-#### Class B
-
-9기생 12명이 재적.
 
 ### 전 멤버
 
@@ -177,7 +186,7 @@
   - [비비요나 아프리아니](https://ko.wikipedia.org/wiki/비비요나_아프리아니 "wikilink") (Viviyona Apriani) 팀KIII 전 캡틴 [2019년](../Page/2019년.md "wikilink") [12월 15일](../Page/12월_15일.md "wikilink") 졸업.
   - [제니퍼 라헬 나타샤](https://ko.wikipedia.org/wiki/제니퍼_라헬_나타샤 "wikilink") (Jennifer Rachel Natasya) 팀KIII [2020년](../Page/2020년.md "wikilink") [1월 5일](../Page/1월_5일.md "wikilink") 졸업.
   - [미쉘 크리스토 쿠스나디](https://ko.wikipedia.org/wiki/미쉘_크리스토_쿠스나디 "wikilink") (Michelle Christo Kusnadi) 팀J [2020년](../Page/2020년.md "wikilink") [1월 18일](../Page/1월_18일.md "wikilink") 졸업.
-  - **[라투 비엔니 피트릴리아](https://ko.wikipedia.org/wiki/라투_비엔니_피트릴리아 "wikilink") (Ratu Vienny Fitrilya)** - 팀KIII 전캡틴, [2020년](../Page/2020년.md "wikilink") [2월 23일](../Page/2월_23일.md "wikilink") 졸업
+  - [라투 비엔니 피트릴리아](https://ko.wikipedia.org/wiki/라투_비엔니_피트릴리아 "wikilink") (Ratu Vienny Fitrilya) - 팀KIII 전 캡틴 [2020년](../Page/2020년.md "wikilink") [2월 23일](../Page/2월_23일.md "wikilink") 졸업.
 
 #### 연구생
 
@@ -223,6 +232,10 @@
   - [칼리스타 레아](https://ko.wikipedia.org/wiki/칼리스타_레아 "wikilink") (Calista Lea) Class B [2019년](../Page/2019년.md "wikilink") [1월 24일](../Page/1월_24일.md "wikilink") 사퇴.
   - [그라시엘라 루스 위란토](https://ko.wikipedia.org/wiki/그라시엘라_루스_위란토 "wikilink") (Graciella Ruth Wiranto) Class A [2019년](../Page/2019년.md "wikilink") [6월 15일](../Page/6월_15일.md "wikilink") 사퇴.
   - [리파 파트마사리](https://ko.wikipedia.org/wiki/리파_파트마사리 "wikilink") (Rifa Fatmasari) Class A [2019년](../Page/2019년.md "wikilink") [9월 13일](../Page/9월_13일.md "wikilink") 사퇴.
+  - [레바 아드리아나](https://ko.wikipedia.org/wiki/레바_아드리아나 "wikilink") (Reva Adriana) Class A [2019년](../Page/2019년.md "wikilink") [12월 30일](../Page/12월_30일.md "wikilink") 사퇴.
+  - [아리스 베비나 프라세티오](https://ko.wikipedia.org/wiki/아리스_베비나_프라세티오 "wikilink") (Iris Vevina Prasetio) Class B [2019년](../Page/2019년.md "wikilink") [12월 30일](../Page/12월_30일.md "wikilink") 사퇴.
+  - [올리비아 페이튼](https://ko.wikipedia.org/wiki/올리비아_페이튼 "wikilink") (Olivia Payten) Class A [2020년](../Page/2020년.md "wikilink") [2월 17일](../Page/2월_17일.md "wikilink") 사퇴.
+  - [티아라 사시](https://ko.wikipedia.org/wiki/티아라_사시 "wikilink") (Tiara Sasi) Class A [2020년](../Page/2020년.md "wikilink") [2월 17일](../Page/2월_17일.md "wikilink") 사퇴.
 
 ## 디스코그래피
 
@@ -710,3 +723,4 @@ PERFORMING ALL OUT ! Terimakasih telah menjadi temanku</strong></p></td>
 
 1.  [JKT48、本国に専用劇場オープン 9・1にAKBグループ初の海外劇場](http://www.oricon.co.jp/news/confidence/2015678/full/)
 2.  [내각 조성 후 신체제](http://ameblo.jp/akihabara48/entry-11336894458.html) (AKB48 공식 블로그, 2012년 8월 24일 열람)
+3.

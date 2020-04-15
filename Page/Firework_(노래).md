@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Firework \(\)](https://ko.wikipedia.org/wiki/Firework_\(\)).
+> This article is converted from Wikipedia: [Firework \(노래\)](https://ko.wikipedia.org/wiki/Firework_\(노래\)).
 
 
 "**Firework**"(파이어워크)는 미국의 가수 [케이티 페리의](../Page/케이티_페리.md "wikilink") 노래이다. 이 노래에는 스타게이트, 샌디 비, 에스터 딘 등 많은 프로듀서들이 참여하였으며, 페리의 두 번째 정규 앨범 *[Teenage Dream](https://ko.wikipedia.org/wiki/Teenage_Dream "wikilink")*의 세 번째 싱글로 2010년 10월 26일 [캐피톨 레코드를](https://ko.wikipedia.org/wiki/캐피털_레코드 "wikilink") 통해 발매되었다. 이 노래는 특히 케이티 페리가 밝히길 *Teenage Dream*의 앨범 중 가 장 중요하게 여겼던 노래였다고 밝혔다.

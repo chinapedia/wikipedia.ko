@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [AKS ](https://ko.wikipedia.org/wiki/AKS_).
+> This article is converted from Wikipedia: [AKS 소수판별법](https://ko.wikipedia.org/wiki/AKS_소수판별법).
 
 
 **AKS 소수판별법**은 어떤 [자연수](../Page/자연수.md "wikilink")가 [소수인지](../Page/소수_\(수론\).md "wikilink") 판별하는 [결정론적 알고리즘이다](../Page/결정론적_알고리즘.md "wikilink"). 2002년 8월 6일, [인도 공과대학교 칸푸르의](https://ko.wikipedia.org/wiki/인도_공과대학교_칸푸르 "wikilink") 컴퓨터 과학자 [마닌드라 아그라왈](https://ko.wikipedia.org/wiki/마닌드라_아그라왈 "wikilink"), [니라지 카얄](https://ko.wikipedia.org/wiki/니라지_카얄 "wikilink"), [니틴 삭세나가](https://ko.wikipedia.org/wiki/니틴_삭세나 "wikilink") 공동으로 출판한 논문 "PRIMES is in P"\[1\]에서 처음으로 발표되었다.

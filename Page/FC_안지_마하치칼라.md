@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FC  ](https://ko.wikipedia.org/wiki/FC__).
+> This article is converted from Wikipedia: [FC 안지 마하치칼라](https://ko.wikipedia.org/wiki/FC_안지_마하치칼라).
 
 
 **FC 안지 마하치칼라**(, )는 [러시아](../Page/러시아.md "wikilink")의 자치 공화국인 [다게스탄의](../Page/다게스탄_공화국.md "wikilink") 수도인 [마하치칼라](../Page/마하치칼라.md "wikilink")를 연고로 하는 [축구](../Page/축구.md "wikilink") 팀으로, 현재 [러시아 프리미어리그](../Page/러시아_프리미어리그.md "wikilink") 소속이다. 클럽 이름에서 "안지"는 [쿠미크어](../Page/쿠미크어.md "wikilink")로 '진주'를 뜻하며 고대 [쿠미크인](https://ko.wikipedia.org/wiki/쿠미크인 "wikilink")들이 현재의 마하치칼라를 부르던 이름이기도 하다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KT  UI](https://ko.wikipedia.org/wiki/KT__UI).
+> This article is converted from Wikipedia: [KT테크 테이크 UI](https://ko.wikipedia.org/wiki/KT테크_테이크_UI).
 
 
 **[KT테크](../Page/KT테크.md "wikilink") 테이크 UI**는 KT테크의 스마트폰 제품군인 [테이크](../Page/에버_테이크.md "wikilink") 시리즈에 채택된 UI이다.

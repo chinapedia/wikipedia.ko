@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [LG  3D](https://ko.wikipedia.org/wiki/LG__3D).
+> This article is converted from Wikipedia: [LG 옵티머스 3D](https://ko.wikipedia.org/wiki/LG_옵티머스_3D).
 
 
 **LG 옵티머스 3D**()는 [LG전자](../Page/LG전자.md "wikilink")에서 [2011년](../Page/2011년.md "wikilink") [7월 7일](../Page/7월_7일.md "wikilink") 출시한 [안드로이드](../Page/안드로이드_\(운영_체제\).md "wikilink") [스마트폰](../Page/스마트폰.md "wikilink")이다.

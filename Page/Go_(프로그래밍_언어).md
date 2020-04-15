@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Go \( \)](https://ko.wikipedia.org/wiki/Go_\(_\)).
+> This article is converted from Wikipedia: [Go \(프로그래밍 언어\)](https://ko.wikipedia.org/wiki/Go_\(프로그래밍_언어\)).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Golang.png "wikilink") **Go**는 2009년 구글이 개발한\[1\] [프로그래밍 언어이다](../Page/프로그래밍_언어.md "wikilink"). [가비지 컬렉션](../Page/쓰레기_수집_\(컴퓨터_과학\).md "wikilink") 기능이 있고, [병행성](../Page/병행성.md "wikilink")(concurrent)을 잘 지원하는 컴파일 언어다.

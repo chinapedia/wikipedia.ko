@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [AFC U-19    ](https://ko.wikipedia.org/wiki/AFC_U-19____).
+> This article is converted from Wikipedia: [AFC U-19 여자 축구 선수권 대회](https://ko.wikipedia.org/wiki/AFC_U-19_여자_축구_선수권_대회).
 
 
 **AFC U-19 여자 축구 선수권 대회**(AFC U-19 Women's Championship)는 [아시아 축구 연맹에서](../Page/아시아_축구_연맹.md "wikilink") 주관하는 대회로, AFC 소속 국가대표팀을 대표하는 19세 이하의 여자 축구 선수들이 참가한다.

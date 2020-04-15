@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [CAF ](https://ko.wikipedia.org/wiki/CAF_).
+> This article is converted from Wikipedia: [CAF 컨페더레이션컵](https://ko.wikipedia.org/wiki/CAF_컨페더레이션컵).
 
 
 **CAF 컨페더레이션컵**(CAF Confederation Cup)은 [아프리카 축구 연맹에서](../Page/아프리카_축구_연맹.md "wikilink") 주최하는 국제 클럽 [축구](../Page/축구.md "wikilink") 대회이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  II](https://ko.wikipedia.org/wiki/__II).
+> This article is converted from Wikipedia: [아이스윈드 데일 II](https://ko.wikipedia.org/wiki/아이스윈드_데일_II).
 
 
 **아이스윈드 데일 II**(Icewind Dale II)는 [블랙 아일 스튜디오가](../Page/블랙_아일_스튜디오.md "wikilink") 제작하고 [인터플레이 엔터테인먼트가](../Page/인터플레이_엔터테인먼트.md "wikilink") 배급한 롤플레잉 게임이다. 《[아이스윈드 데일](../Page/아이스윈드_데일.md "wikilink")》의 후속편으로, 2002년 8월 27일 공개하였다.

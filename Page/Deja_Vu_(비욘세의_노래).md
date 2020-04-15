@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Deja Vu \( \)](https://ko.wikipedia.org/wiki/Deja_Vu_\(_\)).
+> This article is converted from Wikipedia: [Deja Vu \(비욘세의 노래\)](https://ko.wikipedia.org/wiki/Deja_Vu_\(비욘세의_노래\)).
 
 
 "**Déjà Vu**"는 미국의 [알앤비](https://ko.wikipedia.org/wiki/알앤비 "wikilink") 가수 [비욘세 놀스의](https://ko.wikipedia.org/wiki/비욘세_놀스 "wikilink") 노래로 [제이-지](https://ko.wikipedia.org/wiki/제이-지 "wikilink")가 피처링으로 참여했다. [빌보드 핫 100에서](../Page/빌보드_핫_100.md "wikilink") 최고 4위를 차지했었다.

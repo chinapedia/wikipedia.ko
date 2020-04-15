@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SN2 ](https://ko.wikipedia.org/wiki/SN2_).
+> This article is converted from Wikipedia: [SN2 반응](https://ko.wikipedia.org/wiki/SN2_반응).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:SN2-MeSH-MeI-montage-3D-balls.png "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:SN2_Intermediate.png "wikilink")**S<sub>N</sub>2 반응**은 [유기화학](../Page/유기화학.md "wikilink")에서 [치환반응](https://ko.wikipedia.org/wiki/치환반응 "wikilink")의 한 종류로, Bimolecular Nucleophilic Substitution, 즉 이분자성 친핵성 치환반응을 줄여쓴 것이다. (S: Substitution, N: Nucleophilic, 2: Bimolecular

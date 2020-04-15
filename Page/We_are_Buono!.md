@@ -11,25 +11,25 @@
     （작사：카와카미 나츠키　작곡・편곡：키노시타 요시유키）
 2.  **[Our Songs](https://ko.wikipedia.org/wiki/Our_Songs "wikilink")**
     （작사：미우라 요시코　작곡：[층쿠♂](https://ko.wikipedia.org/wiki/쓴쿠 "wikilink")　편곡：니시카와 스스무）
-3.  **Independent Girl〜独立女子であるために** ()
+3.  **Independent Girl〜独立女子であるために**()
     （작사：[이와사토 유호](../Page/이와사토_유호.md "wikilink")　작곡・편곡：AKIRASTAR）
 4.  **[MY BOY](https://ko.wikipedia.org/wiki/MY_BOY "wikilink")**
     （작사：미우라 요시코　작곡：층쿠♂　편곡：니시카와 스스무）
-5.  **정반대** ()
+5.  **정반대**()
     （작사：이와사토 유호　작곡：FLAT5th Yoshiaki Okamoto　편곡：니시카와 스스무）
 6.  **Take It Easy\!**
     （작사：미우라 요시코　작곡：층쿠♂　편곡：니시카와 스스무）
 7.  **[Bravo☆Bravo](../Page/Bravo☆Bravo.md "wikilink")**
     （작사：미우라 요시코　작곡：층쿠♂　편곡：니시카와 스스무）
-8.  **짝사랑。** ()
+8.  **짝사랑。**()
     （작사：이와사토 유호　작곡・편곡：니시카와 스스무）
 9.  **Blue-Sky-Blue**
     （작사：이와사토 유호　작곡：무라마츠 테츠야　편곡：니시카와 스스무）
-10. **홍차가 맛있는 가게** ()
+10. **홍차가 맛있는 가게**()
     （작사：하시모토 쥰　작곡：츠츠미 쿄헤이　편곡：코바야시 슌타로）
-11. **여행길의 노래** ()
+11. **여행길의 노래**()
     （작사：이와사토 유호　작곡：[Gajin](https://ko.wikipedia.org/wiki/Gajin "wikilink")　편곡：사쿠마 마코토）
-12. **We are Buono\!\~Buono\!의 테마♡** ()
+12. **We are Buono\!\~Buono\!의 테마♡**()
     （작사・작곡・편곡：AKIRASTAR）
 
 ## 외부 링크

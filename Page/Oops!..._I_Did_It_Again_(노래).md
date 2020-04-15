@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Oops!... I Did It Again \(\)](https://ko.wikipedia.org/wiki/Oops!..._I_Did_It_Again_\(\)).
+> This article is converted from Wikipedia: [Oops!... I Did It Again \(노래\)](https://ko.wikipedia.org/wiki/Oops!..._I_Did_It_Again_\(노래\)).
 
 
 영상 설명 인용 "**Oops\!... I Did It Again**"는 미국의 가수 [브리트니 스피어스의](../Page/브리트니_스피어스.md "wikilink") 노래이다. 노래는 맥스 마틴과 라미가 공동 작곡했고, 2000년 3월 27일, [자이브 레코드를](../Page/자이브_레코드.md "wikilink") 통해 스피어스의 두 번째 정규 앨범인 *[Oops\!... I Did It Again](https://ko.wikipedia.org/wiki/Oops!..._I_Did_It_Again "wikilink")*의 첫 싱글로 발매되었다.

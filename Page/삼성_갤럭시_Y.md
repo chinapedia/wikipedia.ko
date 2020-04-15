@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  Y](https://ko.wikipedia.org/wiki/__Y).
+> This article is converted from Wikipedia: [삼성 갤럭시 Y](https://ko.wikipedia.org/wiki/삼성_갤럭시_Y).
 
 
 **삼성 갤럭시 Y**()는 [삼성전자](https://ko.wikipedia.org/wiki/삼성전자 "wikilink")가 [2011년](../Page/2011년.md "wikilink") [10월](../Page/10월.md "wikilink")에 출시한 보급형 [안드로이드](../Page/안드로이드_\(운영_체제\).md "wikilink") [스마트폰](../Page/스마트폰.md "wikilink")이다.

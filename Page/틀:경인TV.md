@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:TV](https://ko.wikipedia.org/wiki/:TV).
+> This article is converted from Wikipedia: [틀:경인TV](https://ko.wikipedia.org/wiki/틀:경인TV).
 
 
 [프로 야구](https://ko.wikipedia.org/wiki/한국_프로_야구 "wikilink"){{·}} [프로 축구](https://ko.wikipedia.org/wiki/K_리그 "wikilink"){{·}} [배드민턴](../Page/배드민턴.md "wikilink") 중계)
@@ -31,9 +31,9 @@
   - 《[선택\! 행복한 아침](../Page/선택!_행복한_아침.md "wikilink")》
   - 《[생방송 세상을 연다](../Page/생방송_세상을_연다.md "wikilink")》
   - 《[생방송 아이포유 5시](https://ko.wikipedia.org/wiki/생방송_아이포유_5시 "wikilink")》
+  - 《[특급증권정보](https://ko.wikipedia.org/wiki/특급증권정보 "wikilink")》
   - 《TV 요리천국》
   - 《TV 동의보감》
-  - 《특급증권정보》
   - 《탄력있는 아침》
   - 《김하진의 행복요리》
   - 《리얼TV 경찰 24시》
@@ -191,6 +191,7 @@
   - 《앱들의 전쟁, 앱신》
   - 《엄마를 까무러치게 하는 50가지 방법》
   - 《[꿈꾸는 U](https://ko.wikipedia.org/wiki/꿈꾸는_U "wikilink")》
+  - 《[전설의 시대](../Page/전설의_시대.md "wikilink")》
   - 《프리미어 스포츠피싱》
   - 《베스트 가요쇼》
   - 《북세통》

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ TAXI](https://ko.wikipedia.org/wiki/_TAXI).
+> This article is converted from Wikipedia: [현장토크쇼 TAXI](https://ko.wikipedia.org/wiki/현장토크쇼_TAXI).
 
 
 《**현장토크쇼 TAXI**》는 [tvN](https://ko.wikipedia.org/wiki/tvN "wikilink")에서 [2007년](../Page/2007년.md "wikilink") [9월 8일부터](../Page/9월_8일.md "wikilink") [2017년](../Page/2017년.md "wikilink") [11월 1일까지](../Page/11월_1일.md "wikilink") 방영된 [토크쇼](https://ko.wikipedia.org/wiki/토크쇼 "wikilink")이다.
@@ -53,6 +53,6 @@
 
 <references/>
 
-[분류:2017년 폐지](https://ko.wikipedia.org/wiki/분류:2017년_폐지 "wikilink") [분류:대한민국의 텔레비전 토크 쇼](https://ko.wikipedia.org/wiki/분류:대한민국의_텔레비전_토크_쇼 "wikilink") [분류:TvN의 예능 프로그램](https://ko.wikipedia.org/wiki/분류:TvN의_예능_프로그램 "wikilink") [분류:택시를 소재로 한 작품](https://ko.wikipedia.org/wiki/분류:택시를_소재로_한_작품 "wikilink") [분류:TvN의 심야 프로그램](https://ko.wikipedia.org/wiki/분류:TvN의_심야_프로그램 "wikilink")
+[분류:2017년 폐지](https://ko.wikipedia.org/wiki/분류:2017년_폐지 "wikilink") [분류:대한민국의 텔레비전 토크 쇼](https://ko.wikipedia.org/wiki/분류:대한민국의_텔레비전_토크_쇼 "wikilink") [분류:TvN의 예능 프로그램](https://ko.wikipedia.org/wiki/분류:TvN의_예능_프로그램 "wikilink") [분류:택시를 소재로 한 작품](https://ko.wikipedia.org/wiki/분류:택시를_소재로_한_작품 "wikilink") [분류:TvN의 심야 프로그램](https://ko.wikipedia.org/wiki/분류:TvN의_심야_프로그램 "wikilink") [분류:2007년에 시작한 대한민국 TV 프로그램](https://ko.wikipedia.org/wiki/분류:2007년에_시작한_대한민국_TV_프로그램 "wikilink") [분류:2017년에 종료한 대한민국 TV 프로그램](https://ko.wikipedia.org/wiki/분류:2017년에_종료한_대한민국_TV_프로그램 "wikilink")
 
 1.

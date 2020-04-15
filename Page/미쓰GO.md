@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [GO](https://ko.wikipedia.org/wiki/GO).
+> This article is converted from Wikipedia: [미쓰GO](https://ko.wikipedia.org/wiki/미쓰GO).
 
 
 **미쓰GO**는 [2012년](../Page/2012년.md "wikilink") 개봉한 [대한민국](../Page/대한민국.md "wikilink")의 코미디 영화인데 애초 정범식 감독이 메가폰을 잡는 한편<미쓰고 프로젝트>란 이름으로 제작에 들어갔지만\[1\] 정 감독의 건강악화 탓인지\[2\] 박철관 감독으로 변경됐다. 이 과정에서 원래 출연키로 한 [최민식](../Page/최민식.md "wikilink")이 하차했으며\[3\] 당시 [최민식](../Page/최민식.md "wikilink") 자리에는 [박신양](../Page/박신양.md "wikilink")이 대타로 들어갔다. 이런 혼란 탓인지 61만 관객을 모으는 데 그치며\[4\] 흥행에 실패했다.
@@ -15,6 +15,7 @@
   - [김병철](../Page/김병철_\(배우\).md "wikilink") - 독개구리
   - [조석현](../Page/조석현.md "wikilink") - 방형사
   - [하재숙](../Page/하재숙.md "wikilink") - 영심
+  - [김혜원](https://ko.wikipedia.org/wiki/김혜원_\(1999년\) "wikilink") - 어린 천수로
 
 ## 각주
 

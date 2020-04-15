@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:KBS 2TV](https://ko.wikipedia.org/wiki/:KBS_2TV).
+> This article is converted from Wikipedia: [틀:KBS 2TV](https://ko.wikipedia.org/wiki/틀:KBS_2TV).
 
 
 <onlyinclude></onlyinclude>

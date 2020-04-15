@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [No One \(  \)](https://ko.wikipedia.org/wiki/No_One_\(__\)).
+> This article is converted from Wikipedia: [No One \(앨리샤 키스의 노래\)](https://ko.wikipedia.org/wiki/No_One_\(앨리샤_키스의_노래\)).
 
 
 "**No One**"은 미국의 가수 [앨리샤 키스의](../Page/앨리샤_키스.md "wikilink") 노래로, [빌보드 핫 100차트](../Page/빌보드_핫_100.md "wikilink") 에서 5주 동안 1위를 했던 곡이기도 하다. [As I Am에](https://ko.wikipedia.org/wiki/As_I_Am "wikilink") 수록되어 있다.

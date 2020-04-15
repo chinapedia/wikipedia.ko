@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [WNBA ](https://ko.wikipedia.org/wiki/WNBA_).
+> This article is converted from Wikipedia: [WNBA 파이널](https://ko.wikipedia.org/wiki/WNBA_파이널).
 
 
 다음은 **WNBA 파이널**에 대한 주요 정보를 표로 나열한 것이다.

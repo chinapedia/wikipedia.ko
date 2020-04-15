@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [C  ](https://ko.wikipedia.org/wiki/C__).
+> This article is converted from Wikipedia: [C 수식 함수](https://ko.wikipedia.org/wiki/C_수식_함수).
 
 
 **C 수식 함수**는 기초 수식 함수들을 구현하는 [C 프로그래밍 언어의](https://ko.wikipedia.org/wiki/C_프로그래밍_언어 "wikilink") [표준 라이브러리](../Page/표준_라이브러리.md "wikilink") 안의 함수들의 모임이다.\[1\]\[2\]

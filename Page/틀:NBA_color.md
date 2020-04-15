@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:NBA color](https://ko.wikipedia.org/wiki/:NBA_color).
+> This article is converted from Wikipedia: [틀:NBA color](https://ko.wikipedia.org/wiki/틀:NBA_color).
 
 
 <includeonly>{{\#switch:

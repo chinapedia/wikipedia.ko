@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [!  TV](https://ko.wikipedia.org/wiki/!__TV).
+> This article is converted from Wikipedia: [찾아라! 맛있는 TV](https://ko.wikipedia.org/wiki/찾아라!_맛있는_TV).
 
 
 《**찾아라\! 맛있는 TV**》는 [MBC TV에서](../Page/문화방송.md "wikilink") 방송하는 [텔레비전 프로그램이며](../Page/텔레비전_프로그램.md "wikilink") [2001년](../Page/2001년.md "wikilink") [11월 10일부터](../Page/11월_10일.md "wikilink") [2016년](../Page/2016년.md "wikilink") [4월 2일까지](../Page/4월_2일.md "wikilink") 방영되었는데 700회 특집에서는 첫 회에서 찾아간 스타의 맛집을 재방문하기도\[1\] 했다.
@@ -30,9 +30,9 @@
   - [오상진](../Page/오상진.md "wikilink"), [솔비](../Page/솔비.md "wikilink") ([2008년](../Page/2008년.md "wikilink") [6월 14일](../Page/6월_14일.md "wikilink"))
   - [오상진](../Page/오상진.md "wikilink"), [박정아](../Page/박정아_\(연예인\).md "wikilink") ([2008년](../Page/2008년.md "wikilink") [6월 21일](../Page/6월_21일.md "wikilink"))
   - [오상진](../Page/오상진.md "wikilink"), [박경림](../Page/박경림.md "wikilink") ([2008년](../Page/2008년.md "wikilink") [6월 28일](../Page/6월_28일.md "wikilink") \~ [2008년](../Page/2008년.md "wikilink") [12월 20일](../Page/12월_20일.md "wikilink"))
-  - [오상진](../Page/오상진.md "wikilink"), [신지](https://ko.wikipedia.org/wiki/신지_\(가수\) "wikilink") ([2008년](../Page/2008년.md "wikilink") [12월 27일](../Page/12월_27일.md "wikilink") \~ [2009년](../Page/2009년.md "wikilink") [1월 3일](../Page/1월_3일.md "wikilink"))
-  - [김한석](../Page/김한석.md "wikilink"), [신지](https://ko.wikipedia.org/wiki/신지_\(가수\) "wikilink") ([2009년](../Page/2009년.md "wikilink") [1월 10일](../Page/1월_10일.md "wikilink") \~ [2009년](../Page/2009년.md "wikilink") [1월 17일](../Page/1월_17일.md "wikilink"))
-  - [오상진](../Page/오상진.md "wikilink"), [신지](https://ko.wikipedia.org/wiki/신지_\(가수\) "wikilink") ([2009년](../Page/2009년.md "wikilink") [1월 24일](../Page/1월_24일.md "wikilink") \~ [2009년](../Page/2009년.md "wikilink") [1월 31일](../Page/1월_31일.md "wikilink"))
+  - [오상진](../Page/오상진.md "wikilink"), [신지](../Page/신지_\(가수\).md "wikilink") ([2008년](../Page/2008년.md "wikilink") [12월 27일](../Page/12월_27일.md "wikilink") \~ [2009년](../Page/2009년.md "wikilink") [1월 3일](../Page/1월_3일.md "wikilink"))
+  - [김한석](../Page/김한석.md "wikilink"), [신지](../Page/신지_\(가수\).md "wikilink") ([2009년](../Page/2009년.md "wikilink") [1월 10일](../Page/1월_10일.md "wikilink") \~ [2009년](../Page/2009년.md "wikilink") [1월 17일](../Page/1월_17일.md "wikilink"))
+  - [오상진](../Page/오상진.md "wikilink"), [신지](../Page/신지_\(가수\).md "wikilink") ([2009년](../Page/2009년.md "wikilink") [1월 24일](../Page/1월_24일.md "wikilink") \~ [2009년](../Page/2009년.md "wikilink") [1월 31일](../Page/1월_31일.md "wikilink"))
   - [오상진](../Page/오상진.md "wikilink"), [고나은](https://ko.wikipedia.org/wiki/고나은 "wikilink") ([2009년](../Page/2009년.md "wikilink") [2월 7일](../Page/2월_7일.md "wikilink") \~ [2009년](../Page/2009년.md "wikilink") [2월 14일](../Page/2월_14일.md "wikilink"))
   - [오상진](../Page/오상진.md "wikilink"), [최은경](../Page/최은경_\(방송인\).md "wikilink") ([2009년](../Page/2009년.md "wikilink") [2월 21일](../Page/2월_21일.md "wikilink") \~ [2009년](../Page/2009년.md "wikilink") [10월 17일](../Page/10월_17일.md "wikilink"))
   - [오상진](../Page/오상진.md "wikilink"), [송은이](../Page/송은이.md "wikilink") ([2009년](../Page/2009년.md "wikilink") [10월 24일](../Page/10월_24일.md "wikilink") \~ [2010년](../Page/2010년.md "wikilink") [7월 31일](../Page/7월_31일.md "wikilink"))
@@ -94,6 +94,6 @@
 
   - [찾아라\! 맛있는 TV](http://www.imbc.com/broad/tv/ent/delicious/)
 
-[분류:문화방송의 예능 프로그램](https://ko.wikipedia.org/wiki/분류:문화방송의_예능_프로그램 "wikilink")
+[분류:문화방송의 예능 프로그램](https://ko.wikipedia.org/wiki/분류:문화방송의_예능_프로그램 "wikilink") [분류:2016년 폐지](https://ko.wikipedia.org/wiki/분류:2016년_폐지 "wikilink") [분류:2001년에 시작한 대한민국 TV 프로그램](https://ko.wikipedia.org/wiki/분류:2001년에_시작한_대한민국_TV_프로그램 "wikilink") [분류:2016년에 종료한 대한민국 TV 프로그램](https://ko.wikipedia.org/wiki/분류:2016년에_종료한_대한민국_TV_프로그램 "wikilink")
 
 1.

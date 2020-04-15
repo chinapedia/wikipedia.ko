@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ATC  J07](https://ko.wikipedia.org/wiki/ATC__J07).
+> This article is converted from Wikipedia: [ATC 코드 J07](https://ko.wikipedia.org/wiki/ATC_코드_J07).
 
 
 **ATC 코드 J07**은 [ATC 코드에](https://ko.wikipedia.org/wiki/ATC_코드 "wikilink") 따른 백신으로 사용되는 약물을 정리한 코드이다. \[1\] **ATC 코드** J 전신작용 항감염제의 하위 그룹을 이룬다.

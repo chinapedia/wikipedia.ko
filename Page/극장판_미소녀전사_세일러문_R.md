@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [   R](https://ko.wikipedia.org/wiki/___R).
+> This article is converted from Wikipedia: [극장판 미소녀전사 세일러문 R](https://ko.wikipedia.org/wiki/극장판_미소녀전사_세일러문_R).
 
 
 **극장판 미소녀전사 세일러문 R**는 [미소녀전사 세일러문 R의](https://ko.wikipedia.org/wiki/미소녀전사_세일러문_\(애니메이션\)#세일러문_R_\(2기\) "wikilink") 극장판이다. [메이크업\! 세일러 전사와](../Page/메이크업!_세일러_전사.md "wikilink") 동시 상영하였다.

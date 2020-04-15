@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ ROKR](https://ko.wikipedia.org/wiki/_ROKR).
+> This article is converted from Wikipedia: [모토로라 ROKR](https://ko.wikipedia.org/wiki/모토로라_ROKR).
 
 
 **모토로라 ROKR**()는 [모토로라](../Page/모토로라.md "wikilink")가 출시하는 휴대전화 시리즈이다.

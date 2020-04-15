@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [K NEWS](https://ko.wikipedia.org/wiki/K_NEWS).
+> This article is converted from Wikipedia: [K짱 NEWS](https://ko.wikipedia.org/wiki/K짱_NEWS).
 
 
 《**K짱 NEWS**》()는, [일본](../Page/일본.md "wikilink")의 라디오 프로그램이다. [분카 방송](../Page/분카_방송.md "wikilink") 《레코멘\!》 내에서, 《NEWS의 Party Time》의 후계 프로그램으로서 2005년 4월 4일부터 개시해, 현재는 [일본 시간](../Page/일본_표준시.md "wikilink") 매주 화요일 24시부터 24시 반의 사이에 방송된다. [NEWS](https://ko.wikipedia.org/wiki/NEWS "wikilink")의 [코야마 케이치로가](../Page/코야마_케이치로.md "wikilink") 퍼스낼리티를 맡는다.

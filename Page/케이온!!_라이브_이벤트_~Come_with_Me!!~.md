@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [!!   \~Come with Me!!\~](https://ko.wikipedia.org/wiki/!!___\~Come_with_Me!!\~).
+> This article is converted from Wikipedia: [케이온!! 라이브 이벤트 \~Come with Me!!\~](https://ko.wikipedia.org/wiki/케이온!!_라이브_이벤트_\~Come_with_Me!!\~).
 
 
 **케이온\!\! 라이브 이벤트 \~Come with Me\!\!\~**는 [2011년](../Page/2011년.md "wikilink") [2월 20일에](../Page/2월_20일.md "wikilink") 개최된 TV 애니메이션 《[케이온\!\!](https://ko.wikipedia.org/wiki/케이온!! "wikilink")》의 라이브 이벤트이다.

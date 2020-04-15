@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ATI 6 MSL ](https://ko.wikipedia.org/wiki/ATI_6_MSL_).
+> This article is converted from Wikipedia: [ATI배 6차 MSL 서바이버리그](https://ko.wikipedia.org/wiki/ATI배_6차_MSL_서바이버리그).
 
 
 **ATI배 6차 MSL 서바이버리그**는 2005년에 개최된 MSL 서바이버리그이다.

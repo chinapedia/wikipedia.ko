@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SC ](https://ko.wikipedia.org/wiki/SC_).
+> This article is converted from Wikipedia: [SC 비너노이슈타트](https://ko.wikipedia.org/wiki/SC_비너노이슈타트).
 
 
 **SC 비너노이슈타트**(SC Wiener Neustadt)는 [2008년](../Page/2008년.md "wikilink")에 창단된 [오스트리아](../Page/오스트리아.md "wikilink") [비너노이슈타트](https://ko.wikipedia.org/wiki/비너노이슈타트 "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽으로, 현재 [오스트리아 1부 리그에서](https://ko.wikipedia.org/wiki/오스트리아_1부_리그 "wikilink") 활동하고 있다.

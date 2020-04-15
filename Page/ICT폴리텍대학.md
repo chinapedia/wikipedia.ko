@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ICT](https://ko.wikipedia.org/wiki/ICT).
+> This article is converted from Wikipedia: [ICT폴리텍대학](https://ko.wikipedia.org/wiki/ICT폴리텍대학).
 
 
 **ICT폴리텍대학**은 IT인프라 구축과 정보통신설비시공 전문인력 양성을 목적으로\[1\] 설립된 [대한민국 방송통신위원회](../Page/대한민국_방송통신위원회.md "wikilink") 산하 비영리재단인 [한국정보통신공사협회](../Page/한국정보통신공사협회.md "wikilink")에서 운영\[2\] 하는 기능대학으로 한국정보통신공사협회 중앙회장이 이사장을 겸임한다. ICT폴리텍대학 법인은 [서울특별시](../Page/서울특별시.md "wikilink") [용산구](https://ko.wikipedia.org/wiki/용산구 "wikilink") [갈월동](../Page/남영동.md "wikilink") 16번지 정보통신회관 8층이며 대학 캠퍼스는 [경기도](https://ko.wikipedia.org/wiki/경기도 "wikilink") [광주시](../Page/광주시_\(경기도\).md "wikilink") 순암로 16-26 ([역동](../Page/경안동.md "wikilink"))에 위치하고 있다. 4개 학과에 학생 정원은 400여 명이다.\[3\]
@@ -49,10 +49,10 @@
 ## 학과(2년 과정)
 
   - 정보통신설비과
-  - 광통신설비과
+  -
   - 방송통신설비과
   - 이동통신설비과
-
+  -
 ## 사건·사고 및 논란
 
 ### "한국정보통신대학"으로 교명 변경 추진

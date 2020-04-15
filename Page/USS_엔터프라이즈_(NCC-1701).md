@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [USS  \(NCC-1701\)](https://ko.wikipedia.org/wiki/USS__\(NCC-1701\)).
+> This article is converted from Wikipedia: [USS 엔터프라이즈 \(NCC-1701\)](https://ko.wikipedia.org/wiki/USS_엔터프라이즈_\(NCC-1701\)).
 
 
 **USS 엔터프라이즈**()은 [스타 트렉에](../Page/스타_트렉.md "wikilink") 나오는 우주 함선이다. 2245년 진수되었으며 [제임스 커크가](https://ko.wikipedia.org/wiki/제임스_T._커크 "wikilink") 함장이다. 2285년 클링온과의 전투에서 선원들은 제네시스 행성으로 탈출하였으며 9초 후 엔터프라이즈는 자폭하였다.

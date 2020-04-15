@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ J. ](https://ko.wikipedia.org/wiki/_J._).
+> This article is converted from Wikipedia: [아널드 J. 레빈](https://ko.wikipedia.org/wiki/아널드_J._레빈).
 
 
 **아널드 J. 레빈**(Arnold J. Levine, 1939년\~ )\[1\]은 [미국](../Page/미국.md "wikilink")의 [분자 생물학자이다](https://ko.wikipedia.org/wiki/분자_생물학자 "wikilink"). 그는 1998년 [루이자 그로스 호위츠상을](https://ko.wikipedia.org/wiki/루이자_그로스_호위츠상 "wikilink") 수상했고, [종양 억제 단백질](https://ko.wikipedia.org/wiki/종양_억제_단백질 "wikilink") [p53](https://ko.wikipedia.org/wiki/p53 "wikilink")를 발견한 공로로 2001년 [올버니 의료센터 상을](https://ko.wikipedia.org/wiki/올버니_의료센터_상 "wikilink") 최초로 수상했다.\[2\] 그는 [록펠러 대학교의](../Page/록펠러_대학교.md "wikilink") 총장이었다.\[3\] 현재 [프린스턴 고등연구소에서](../Page/프린스턴_고등연구소.md "wikilink") 시스템 생물학 분야의 교수로 재직하고 있다.\[4\]

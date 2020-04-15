@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [HTC  X](https://ko.wikipedia.org/wiki/HTC__X).
+> This article is converted from Wikipedia: [HTC 원 X](https://ko.wikipedia.org/wiki/HTC_원_X).
 
 
-**HTC 원 X** ()와 **HTC 원 XL** ()은 [HTC 코퍼레이션](https://ko.wikipedia.org/wiki/HTC_코퍼레이션 "wikilink") 출시한 [안드로이드](../Page/안드로이드_\(운영_체제\).md "wikilink") [스마트폰](../Page/스마트폰.md "wikilink")이다.
+**HTC 원 X**()와 **HTC 원 XL**()은 [HTC 코퍼레이션](https://ko.wikipedia.org/wiki/HTC_코퍼레이션 "wikilink") 출시한 [안드로이드](../Page/안드로이드_\(운영_체제\).md "wikilink") [스마트폰](../Page/스마트폰.md "wikilink")이다.
 
 **원 X**는 [엔비디아](../Page/엔비디아.md "wikilink") [테그라](https://ko.wikipedia.org/wiki/테그라 "wikilink") 3 AP를 채택하여 효율성과 성능을 더 높였고, **원 XL**은 [퀄컴](../Page/퀄컴.md "wikilink") [스냅드래곤](../Page/스냅드래곤.md "wikilink") S4 [AP를](https://ko.wikipedia.org/wiki/애플리케이션_프로세서 "wikilink") 채택하여 [LTE를](https://ko.wikipedia.org/wiki/롱_텀_에볼루션 "wikilink") 지원하며, 이 [AP의](https://ko.wikipedia.org/wiki/애플리케이션_프로세서 "wikilink") [AP](https://ko.wikipedia.org/wiki/애플리케이션_프로세서 "wikilink") + 통신칩 원칩 시스템때문에 기존에 출시되었던 [LTE](https://ko.wikipedia.org/wiki/롱_텀_에볼루션 "wikilink") 단말기보다 전력 효율성이 증가하였다.
 

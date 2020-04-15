@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [MKE ](https://ko.wikipedia.org/wiki/MKE_).
+> This article is converted from Wikipedia: [MKE 앙카라귀쥐](https://ko.wikipedia.org/wiki/MKE_앙카라귀쥐).
 
 
 **MKE 앙카라귀쥐**(MKE Ankaragücü)는 [터키](../Page/터키.md "wikilink")의 수도 [앙카라](../Page/앙카라.md "wikilink")를 연고지로 한 축구 클럽이다.

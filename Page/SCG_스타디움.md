@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SCG ](https://ko.wikipedia.org/wiki/SCG_).
+> This article is converted from Wikipedia: [SCG 스타디움](https://ko.wikipedia.org/wiki/SCG_스타디움).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Thunderdome.JPG "wikilink") **SCG 스타디움**(SCG Stadium)은 [태국](../Page/태국.md "wikilink") [논타부리 주](https://ko.wikipedia.org/wiki/논타부리_주 "wikilink") 선더돔 스포츠 컴플렉스에 있는 축구 전용 경기장으로 [타이 프리미어리그](https://ko.wikipedia.org/wiki/타이_프리미어리그 "wikilink") [무앙통 유나이티드의](https://ko.wikipedia.org/wiki/무앙통_유나이티드 "wikilink") 홈 구장이다. 태국 최초의 축구 전용 경기장으로 건설되었으며, 좌석 수는 17,500 석, 수용인원은 25,000여 명이다.

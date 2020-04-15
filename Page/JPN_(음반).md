@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [JPN \(\)](https://ko.wikipedia.org/wiki/JPN_\(\)).
+> This article is converted from Wikipedia: [JPN \(음반\)](https://ko.wikipedia.org/wiki/JPN_\(음반\)).
 
 
 《**JPN**》은 [퍼퓸의](https://ko.wikipedia.org/wiki/퍼퓸_\(음악_그룹\) "wikilink") 네 번째 정규 음반이다. [2011년](../Page/2011년.md "wikilink") 11월 30일, 도쿠마 재팬 커뮤니케이션즈를 통해 발매되었다. 이전 음반인 《[트라이앵글](https://ko.wikipedia.org/wiki/트라이앵글_\(음반\) "wikilink")》 이후 2년 4개월 만에 발매됐으며 2주 간의 판매량으로 2011년 오리콘 연간 차트에서 24위를 차지했다\[1\].

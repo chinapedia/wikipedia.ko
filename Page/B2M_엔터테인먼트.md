@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [B2M ](https://ko.wikipedia.org/wiki/B2M_).
+> This article is converted from Wikipedia: [B2M 엔터테인먼트](https://ko.wikipedia.org/wiki/B2M_엔터테인먼트).
 
 
 **B2M 엔터테인먼트**(B2M Entertainment)는 대한민국의 연예 기획사이다. 총괄대표는 [길종화](https://ko.wikipedia.org/wiki/길종화 "wikilink")이다.

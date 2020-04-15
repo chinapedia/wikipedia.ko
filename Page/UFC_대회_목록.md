@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [UFC  ](https://ko.wikipedia.org/wiki/UFC__).
+> This article is converted from Wikipedia: [UFC 대회 목록](https://ko.wikipedia.org/wiki/UFC_대회_목록).
 
 
 아래는 [종합격투기](../Page/종합격투기.md "wikilink") 단체인 **[UFC](../Page/얼티밋_파이팅_챔피언십.md "wikilink")**의 대회 목록이다. 1993년 11월 12일에 첫 경기인 [UFC 1이](https://ko.wikipedia.org/wiki/UFC_1 "wikilink") 개최되어 현재까지 개최되고 있다.

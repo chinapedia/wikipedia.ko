@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Gadget-ReferenceTooltips-ko.js](https://ko.wikipedia.org/wiki/:Gadget-ReferenceTooltips-ko.js).
+> This article is converted from Wikipedia: [미디어위키:Gadget-ReferenceTooltips-ko.js](https://ko.wikipedia.org/wiki/미디어위키:Gadget-ReferenceTooltips-ko.js).
 
 
 // See [mw:Reference Tooltips](https://ko.wikipedia.org/wiki/mw:Reference_Tooltips "wikilink") // Source <https://en.wikipedia.org/wiki/MediaWiki:Gadget-ReferenceTooltips.js>

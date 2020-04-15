@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ATC  N07](https://ko.wikipedia.org/wiki/ATC__N07).
+> This article is converted from Wikipedia: [ATC 코드 N07](https://ko.wikipedia.org/wiki/ATC_코드_N07).
 
 
 **ATC 코드 N07**은 [ATC 코드의](https://ko.wikipedia.org/wiki/ATC_코드 "wikilink") 기타 신경계 작용악물을 정리한 코드이다. \[1\] **ATC 코드** N 신경계의 하위그룹을 이룬다.

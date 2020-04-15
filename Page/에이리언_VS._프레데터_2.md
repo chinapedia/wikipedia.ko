@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ VS.  2](https://ko.wikipedia.org/wiki/_VS.__2).
+> This article is converted from Wikipedia: [에이리언 VS. 프레데터 2](https://ko.wikipedia.org/wiki/에이리언_VS._프레데터_2).
 
 
 **에이리언 VS. 프레데터 2**(Aliens vs. Predator: Requiem)는 [2007년](../Page/2007년.md "wikilink") 개봉한 미국의 영화이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [   II  July](https://ko.wikipedia.org/wiki/___II__July).
+> This article is converted from Wikipedia: [펩시콜라 글로벌 스타크래프트 II 리그 July](https://ko.wikipedia.org/wiki/펩시콜라_글로벌_스타크래프트_II_리그_July).
 
 
 **펩시콜라 글로벌 스타크래프트 II 리그 July**(Pepsi Global Star Craft II League July)는 [글로벌 스타크래프트 II 리그](https://ko.wikipedia.org/wiki/글로벌_스타크래프트_II_리그 "wikilink") 2011 GSL 투어의 10번째 리그로 2011년 6월 28일 임재덕, 박서용(기권), 박성준, 서기수로 구성된 그룹A와 이정환, 한규종, 김동환, 김상철로 구성된 그룹B의 매치를 시작으로 약 한달 간의 일정에 돌입하게 된다. 메인스폰서는 펩시콜라로 결정되었다.\[1\]

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  TV](https://ko.wikipedia.org/wiki/__TV).
+> This article is converted from Wikipedia: [나이스 게임 TV](https://ko.wikipedia.org/wiki/나이스_게임_TV).
 
 
 **나이스 게임 TV**(Nice Game TV)는 인터넷 e스포츠 방송국이다.\[1\]

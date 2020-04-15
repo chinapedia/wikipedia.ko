@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [: SVU](https://ko.wikipedia.org/wiki/:_SVU).
+> This article is converted from Wikipedia: [성범죄수사대: SVU](https://ko.wikipedia.org/wiki/성범죄수사대:_SVU).
 
 
 **성범죄수사대: SVU**\[1\](Law & Order: Special Victims Unit) 또는 **Law & Order: 성범죄전담반**\[2\]은 《[로앤오더](https://ko.wikipedia.org/wiki/로앤오더 "wikilink")》의 스핀오프 작품으로 1999년 9월 20일부터 현재까지 [NBC](../Page/NBC.md "wikilink")에서 방영 중인 드라마이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [C  ](https://ko.wikipedia.org/wiki/C__).
+> This article is converted from Wikipedia: [C 언어 변수](https://ko.wikipedia.org/wiki/C_언어_변수).
 
 
 C 프로그래밍 언어에서 **변수**는 숫자의 표현에 관련해서 정수형과 실수형이 있다. 이것의 처리는 [마이크로프로세서](../Page/마이크로프로세서.md "wikilink")의 [ALU](https://ko.wikipedia.org/wiki/ALU "wikilink")와 연관되어 처리 한다. 그리고 자료가 있는 위치값인 [메모리](https://ko.wikipedia.org/wiki/메모리 "wikilink") 주소값으로 처리하는 [포인터](https://ko.wikipedia.org/wiki/C_언어_포인터 "wikilink") 변수가 있다. 이것은 CPU의 메모리 체계와 관련되어 있어 CPU 의존적이다. 그리고 관련된 정보 끼리 묶어 처리하는 [struct](https://ko.wikipedia.org/wiki/struct "wikilink") 구조체 변수가 있다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  UI](https://ko.wikipedia.org/wiki/__UI).
+> This article is converted from Wikipedia: [소니 레이첼 UI](https://ko.wikipedia.org/wiki/소니_레이첼_UI).
 
 
 **소니 레이첼 UI**(Rachael UI)는 [소니 모바일 커뮤니케이션](https://ko.wikipedia.org/wiki/소니_모바일_커뮤니케이션 "wikilink") 스마트폰에 적용된 사용자 환경이다. 소니 모바일 커뮤니케이션(당시 소니 에릭슨)의 [윈도 모바일](https://ko.wikipedia.org/wiki/윈도_모바일 "wikilink") 스마트폰 [엑스페리아 X3](https://ko.wikipedia.org/wiki/엑스페리아_X3 "wikilink") 레이첼의 이름에서 따온 이름이다. 다른 말로 소니 모바일의 스마트폰 이름을 따와서 엑스페리아 UI라고도 부른다.

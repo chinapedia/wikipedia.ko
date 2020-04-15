@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Wii     ](https://ko.wikipedia.org/wiki/Wii_____).
+> This article is converted from Wikipedia: [Wii 리모컨플러스로 즐기는 버라이어티 게임 박스](https://ko.wikipedia.org/wiki/Wii_리모컨플러스로_즐기는_버라이어티_게임_박스).
 
 
 **Wii 리모컨플러스로 즐기는 버라이어티 게임 박스**()는 2011년에 발매된 [Wii](../Page/Wii.md "wikilink")용 보드 게임이다. [대한민국](../Page/대한민국.md "wikilink")에는 [2012년](../Page/2012년.md "wikilink") [2월 9일에](../Page/2월_9일.md "wikilink") 발매되었다. 12가지의 게임이 내장되어 있다. 처음에는 4개의 게임만 실행 가능하지만 4개를 다 한 번씩 실행해 보면 다른 게임들도 실행 가능하게 된다.

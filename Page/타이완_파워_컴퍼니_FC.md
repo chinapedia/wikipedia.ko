@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [   FC](https://ko.wikipedia.org/wiki/___FC).
+> This article is converted from Wikipedia: [타이완 파워 컴퍼니 FC](https://ko.wikipedia.org/wiki/타이완_파워_컴퍼니_FC).
 
 
 **타이완 전력 FC**(, )는 [가오슝 시를](https://ko.wikipedia.org/wiki/가오슝_시 "wikilink") 연고로 하는 [중화민국](../Page/중화민국.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다. 현재는 [인터시티 풋볼 리그에](../Page/인터시티_풋볼_리그.md "wikilink") 참가하고 있다.

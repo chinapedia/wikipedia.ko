@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [1969 CONCACAF  ](https://ko.wikipedia.org/wiki/1969_CONCACAF__).
+> This article is converted from Wikipedia: [1969년 CONCACAF 선수권 대회](https://ko.wikipedia.org/wiki/1969년_CONCACAF_선수권_대회).
 
 
 **1969년 CONCACAF 선수권 대회**는 [1969년](../Page/1969년.md "wikilink") [11월 23일부터](../Page/11월_23일.md "wikilink") [12월 8일까지](../Page/12월_8일.md "wikilink") [코스타리카](../Page/코스타리카.md "wikilink")에서 열린 4번째 [CONCACAF 선수권 대회이다](../Page/CONCACAF_선수권_대회.md "wikilink").

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  FC ](https://ko.wikipedia.org/wiki/__FC_).
+> This article is converted from Wikipedia: [뉴캐슬 유나이티드 FC의 역사](https://ko.wikipedia.org/wiki/뉴캐슬_유나이티드_FC의_역사).
 
 
 [right](https://ko.wikipedia.org/wiki/파일:1909-10_Newcastle_Squad.jpg "wikilink") [FA컵](https://ko.wikipedia.org/wiki/FA컵_\(잉글랜드\) "wikilink") 우승 멤버\]\] **뉴캐슬 유나이티드 축구 클럽**(, **NUFC**)은 [잉글랜드](../Page/잉글랜드.md "wikilink") [타인 위어 주](https://ko.wikipedia.org/wiki/타인_위어_주 "wikilink") [뉴캐슬어폰타인](../Page/뉴캐슬어폰타인.md "wikilink")을 연고로 하는 프로 [축구](../Page/축구.md "wikilink") 클럽이다.

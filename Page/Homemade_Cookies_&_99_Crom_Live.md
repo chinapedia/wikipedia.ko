@@ -47,13 +47,13 @@
 <!-- end list -->
 
   - Steven Stylianou - 기타
-  - Tim Hole - [건반](https://ko.wikipedia.org/wiki/건반 "wikilink")
-  - 민영치 - [타악기](https://ko.wikipedia.org/wiki/타악기 "wikilink"), [드럼](https://ko.wikipedia.org/wiki/드럼 "wikilink")(안녕)
+  - Tim Hole - [건반](https://ko.wikipedia.org/wiki/키보드_\(악기\) "wikilink")
+  - 민영치 - [타악기](https://ko.wikipedia.org/wiki/타악기 "wikilink"), [드럼](https://ko.wikipedia.org/wiki/드럼 "wikilink")(〈안녕〉)
   - 장재효 - 타악기, 보컬
   - [이자람](../Page/이자람.md "wikilink") - 창(唱), 백 보컬, [랩](https://ko.wikipedia.org/wiki/랩_\(음악\) "wikilink")
   - Energizer(고지용), Duracell(장효리) - 댄스, 랩
   - [임형빈](https://ko.wikipedia.org/wiki/임형빈 "wikilink") - 건반
-  - [남궁연](../Page/남궁연.md "wikilink") - 드럼, 건반(안녕)
+  - [남궁연](../Page/남궁연.md "wikilink") - 드럼, 건반(〈안녕〉)
 
 <!-- end list -->
 

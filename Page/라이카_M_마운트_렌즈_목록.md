@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ M   ](https://ko.wikipedia.org/wiki/_M___).
+> This article is converted from Wikipedia: [라이카 M 마운트 렌즈 목록](https://ko.wikipedia.org/wiki/라이카_M_마운트_렌즈_목록).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Leica_M3_mg_3684.jpg "wikilink")

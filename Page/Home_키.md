@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Home ](https://ko.wikipedia.org/wiki/Home_).
+> This article is converted from Wikipedia: [Home 키](https://ko.wikipedia.org/wiki/Home_키).
 
 
 [300px](https://ko.wikipedia.org/wiki/파일:Insertpad.JPG "wikilink")

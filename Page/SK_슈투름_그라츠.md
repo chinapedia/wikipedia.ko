@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SK  ](https://ko.wikipedia.org/wiki/SK__).
+> This article is converted from Wikipedia: [SK 슈투름 그라츠](https://ko.wikipedia.org/wiki/SK_슈투름_그라츠).
 
 
 **SK 슈투름 그라츠**(SK Sturm Graz)는 [1909년](../Page/1909년.md "wikilink")에 창단된 [오스트리아](../Page/오스트리아.md "wikilink") [슈타이어마르크주](../Page/슈타이어마르크주.md "wikilink") [그라츠](../Page/그라츠.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽으로, 현재 [오스트리아 분데스리가에서](https://ko.wikipedia.org/wiki/오스트리아_분데스리가 "wikilink") 활동하고 있다.

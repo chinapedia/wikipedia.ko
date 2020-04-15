@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ R. ](https://ko.wikipedia.org/wiki/_R._).
+> This article is converted from Wikipedia: [올리버 R. 에이비슨](https://ko.wikipedia.org/wiki/올리버_R._에이비슨).
 
 
 **올리버 R. 에이비슨**(, , , [1860년](../Page/1860년.md "wikilink") [6월 30일](../Page/6월_30일.md "wikilink") \~ [1956년](../Page/1956년.md "wikilink") [8월 29일](../Page/8월_29일.md "wikilink"))은 [캐나다](../Page/캐나다.md "wikilink")의 [선교사](../Page/선교사.md "wikilink")이자 [의사](../Page/의사.md "wikilink")이다. 1892년 6월부터 1935년 11월까지 한국에서 체류하며 활동하였다. [제중원의](https://ko.wikipedia.org/wiki/광혜원 "wikilink") 제4대 원장, 세브란스 의학전문학교와 연희전문학교 교장을 역임하면서 오늘날 [연세대학교](https://ko.wikipedia.org/wiki/연세대학교 "wikilink")의 기틀을 마련하였다.

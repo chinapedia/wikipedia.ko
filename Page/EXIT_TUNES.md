@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [EXIT TUNES](https://ko.wikipedia.org/wiki/EXIT_TUNES).
 
 
-**에그짓 튠즈**는, [DJ UTO](https://ko.wikipedia.org/wiki/DJ_UTO "wikilink") 시절의 카토 카즈히로(加藤和宏)가 설립한 일본의 레코드 회사. 일본레코드협회 준회원이다. 이전 사명은 **퀘이크 주식회사**(クエイク株式会社, QUAKE INC.)이다.
+**에그짓 튠즈**는 [DJ UTO](https://ko.wikipedia.org/wiki/DJ_UTO "wikilink") 시절의 카토 카즈히로(加藤和宏)가 설립한 일본의 레코드 회사이다. 일본레코드협회 준회원이다. 이전 사명은 **퀘이크 주식회사**(クエイク株式会社, QUAKE INC.)이다.
 
 [후지 산케이 그룹에](https://ko.wikipedia.org/wiki/후지_산케이_그룹 "wikilink") 속하는 회사인 [포니캐년](https://ko.wikipedia.org/wiki/포니캐년 "wikilink")의 그룹 기업이며, ‘QW’라는 [규격 품번](https://ko.wikipedia.org/wiki/규격_품번 "wikilink")(規格品番)도 포니캐년의 유통사 코드와 일치한다.
 

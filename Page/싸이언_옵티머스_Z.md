@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  Z](https://ko.wikipedia.org/wiki/__Z).
+> This article is converted from Wikipedia: [싸이언 옵티머스 Z](https://ko.wikipedia.org/wiki/싸이언_옵티머스_Z).
 
 
 **싸이언 옵티머스 Z**()는 [LG전자](../Page/LG전자.md "wikilink")가 출시한 [스마트폰](../Page/스마트폰.md "wikilink")이다.\[1\] OS는 [안드로이드](../Page/안드로이드_\(운영_체제\).md "wikilink") 2.1 버전으로 출시되었다.

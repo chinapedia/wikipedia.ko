@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [JS ](https://ko.wikipedia.org/wiki/JS_).
+> This article is converted from Wikipedia: [JS 카빌리](https://ko.wikipedia.org/wiki/JS_카빌리).
 
 
 **죄네스 스포르티브 드 카빌리**(, <small>[카빌리아어](https://ko.wikipedia.org/wiki/카빌리아어 "wikilink")</small>: Ilmezyen n Adal Leqbayel, ) 또는 **JS 카빌리**()는 [알제리](../Page/알제리.md "wikilink") [티지우주](../Page/티지우주.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽 팀이다.

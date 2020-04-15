@@ -7,7 +7,7 @@
 
 ## 외부 링크
 
-  - [공식 텀블러](http://lp2k12.tumblr.com/)
+  - [공식 텀블러](https://www.webcitation.org/6AlKkRDgX?url=http://lp2k12.tumblr.com/)
 
   -
   -

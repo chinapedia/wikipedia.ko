@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Stern des Sdens](https://ko.wikipedia.org/wiki/Stern_des_Sdens).
+> This article is converted from Wikipedia: [Stern des Südens](https://ko.wikipedia.org/wiki/Stern_des_Südens).
 
 
 《****》은 독일의 싱어송라이터 [빌리 아스토르](https://ko.wikipedia.org/wiki/빌리_아스토르 "wikilink")(Willy Astor)가 작사 및 작곡한 곡으로, [FC 바이에른 뮌헨의](../Page/FC_바이에른_뮌헨.md "wikilink") 공식 응원가이다. 한국어로는 **남부의 별**이다. 뮌헨의 홈 구장인 [알리안츠 아레나에서](../Page/알리안츠_아레나.md "wikilink") 홈 경기가 시작하기 전이나 승리 후 부르며, [푸스볼 분데스리가에서](https://ko.wikipedia.org/wiki/푸스볼_분데스리가 "wikilink") 우승을 차지했을 때 여는 공식 우승 기념 행사인 'Meisterfeier Bayern München' 에서 제창하기도 한다.\[1\]

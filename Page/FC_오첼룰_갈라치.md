@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FC  ](https://ko.wikipedia.org/wiki/FC__).
+> This article is converted from Wikipedia: [FC 오첼룰 갈라치](https://ko.wikipedia.org/wiki/FC_오첼룰_갈라치).
 
 
 **FC 오첼룰 갈라치**()는 [갈라치](../Page/갈라치.md "wikilink")를 연고로 하는 [루마니아](../Page/루마니아.md "wikilink")의 축구 클럽이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TV MSL Season 1](https://ko.wikipedia.org/wiki/TV_MSL_Season_1).
+> This article is converted from Wikipedia: [곰TV MSL Season 1](https://ko.wikipedia.org/wiki/곰TV_MSL_Season_1).
 
 
 **곰TV MSL Season 1**(Gom TV MSL 2006 Season 1)은 KPGA투어를 포함하면 14번째이자, 10차 MSL이다. 인터넷 방송국인 [곰TV](../Page/곰TV.md "wikilink")의 후원으로 진행되었다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KT\&G ](https://ko.wikipedia.org/wiki/KT\&G_).
+> This article is converted from Wikipedia: [KT\&G 상상마당](https://ko.wikipedia.org/wiki/KT\&G_상상마당).
 
 
 **KT\&G 상상마당**은 [서울특별시](../Page/서울특별시.md "wikilink") [마포구](../Page/마포구.md "wikilink") 어울마당로 65([홍대](https://ko.wikipedia.org/wiki/홍대 "wikilink"))에 [2007년 9월](../Page/2007년_9월.md "wikilink") 개관한 복합문화공간이다. 비주류 예술가들의 창작활동을 지원하고 일반 대중들에게 폭넓은 문화 경험을 제공하기 위해 공연, 영화, 디자인, 시각예술, 교육 등 문화예술 전반에 걸쳐 다양한 프로그램과 아티스트 지원 사업 등을 운영하고 있다. 매년 4편의 독립영화 배급과 단편영화제 개최를 통해 독립영화를 지원하고, 밴드 디스커버리를 통해 인디밴드들을 지원하고 있으며, 신인 디자이너, 사진작가 발굴 등 70여종의 다양한 문화예술 교육 사업을 진행하고 있다.\[1\]\[2\]

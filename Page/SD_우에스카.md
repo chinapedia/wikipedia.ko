@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SD ](https://ko.wikipedia.org/wiki/SD_).
+> This article is converted from Wikipedia: [SD 우에스카](https://ko.wikipedia.org/wiki/SD_우에스카).
 
 
 **SD 우에스카**(Sociedad Deportiva Huesca, S.A.D.)는 [스페인](../Page/스페인.md "wikilink") [아라곤 지방의](https://ko.wikipedia.org/wiki/아라곤_지방 "wikilink") 도시인 [우에스카](https://ko.wikipedia.org/wiki/우에스카 "wikilink")를 연고로 하는 축구 클럽이다. 이 클럽은 [1960년](../Page/1960년.md "wikilink")에 창단되었으며 현재 [라리가](https://ko.wikipedia.org/wiki/라리가 "wikilink")에서 활동하고 있다.

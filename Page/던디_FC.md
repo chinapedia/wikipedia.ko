@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
+> This article is converted from Wikipedia: [던디 FC](https://ko.wikipedia.org/wiki/던디_FC).
 
 
 **던디 FC**(Dundee Football Club)는 [스코틀랜드](../Page/스코틀랜드.md "wikilink") [던디](../Page/던디.md "wikilink")에 위치한 [축구](../Page/축구.md "wikilink") 클럽이다. [1893년](../Page/1893년.md "wikilink")에 설립되었고 홈 경기장은 [덴스 파크다](https://ko.wikipedia.org/wiki/덴스_파크 "wikilink"). 현재 [스코틀랜드 풋볼 리그 1부에서](https://ko.wikipedia.org/wiki/스코틀랜드_풋볼_리그_1부 "wikilink") 활약하고 있으며 2004-05시즌에 [스코틀랜드 프리미어리그에서](https://ko.wikipedia.org/wiki/스코틀랜드_프리미어리그 "wikilink") 강등된 이후로 계속 1부 리그에 있다. 가장 최근의 주요 대회 우승은 2009-10시즌 [스코틀랜드 챌린지 컵에서의](https://ko.wikipedia.org/wiki/스코틀랜드_챌린지_컵 "wikilink") 우승이다.

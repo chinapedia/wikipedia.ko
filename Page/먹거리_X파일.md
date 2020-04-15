@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ X](https://ko.wikipedia.org/wiki/_X).
+> This article is converted from Wikipedia: [먹거리 X파일](https://ko.wikipedia.org/wiki/먹거리_X파일).
 
 
 《**먹거리 X파일**》은 [채널A](../Page/채널A.md "wikilink")의 프로그램이다. 외식업계에 만연한 불량 식재료의 사용 실태를 고발하는 데 그치지 않고 좋은 식재료를 쓰는 ‘착한 식당’을 찾아내 소개하는 취지로 시작한 프로그램이다. [이영돈](../Page/이영돈.md "wikilink") PD가 계약 만료로 채널A에서 사직을 하게 되면서\[1\]\[2\] 2014년 6월부터 2017년 6월까지 김진 기자가 진행하였다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [My FM   ](https://ko.wikipedia.org/wiki/My_FM___).
+> This article is converted from Wikipedia: [My FM 사운드 오브 뮤직](https://ko.wikipedia.org/wiki/My_FM_사운드_오브_뮤직).
 
 
 **《MyFM 사운드오브뮤직》**은 [대한민국](../Page/대한민국.md "wikilink") [광주광역시](https://ko.wikipedia.org/wiki/광주광역시 "wikilink")·[전라남도](https://ko.wikipedia.org/wiki/전라남도 "wikilink") 민영방송사 [kbc의](../Page/광주방송.md "wikilink") 라디오 kbc 마이FM(광주·전남 중북부,전남 서남부 FM 101.1MHz/전남 영광 FM 104.3MHz/전남 동부권 FM 96.7MHz/전남 광양 FM 90.7MHz)에서 새벽에 주무시지 않은 청취자들을 대상으로 방송되고 있는 라디오 프로그램이다.

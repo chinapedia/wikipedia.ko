@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ 3DD](https://ko.wikipedia.org/wiki/_3DD).
+> This article is converted from Wikipedia: [피라냐 3DD](https://ko.wikipedia.org/wiki/피라냐_3DD).
 
 
 **피라냐 3DD**(Piranha 3DD)는 [2012년](../Page/2012년.md "wikilink") 개봉한 [미국](../Page/미국.md "wikilink")의 공포 코미디 영화이다.

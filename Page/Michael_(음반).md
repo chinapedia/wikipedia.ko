@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Michael \(\)](https://ko.wikipedia.org/wiki/Michael_\(\)).
+> This article is converted from Wikipedia: [Michael \(음반\)](https://ko.wikipedia.org/wiki/Michael_\(음반\)).
 
 
 | 싱글 목록                                                                   |

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [J \(\)](https://ko.wikipedia.org/wiki/J_\(\)).
+> This article is converted from Wikipedia: [J \(음악가\)](https://ko.wikipedia.org/wiki/J_\(음악가\)).
 
 
 **J**(제이, [1970년](../Page/1970년.md "wikilink") [8월 12일](../Page/8월_12일.md "wikilink") -)는 [일본](../Page/일본.md "wikilink")의 [음악가](https://ko.wikipedia.org/wiki/음악가 "wikilink")로, [LUNA SEA의](../Page/LUNA_SEA.md "wikilink") [베이시스트](https://ko.wikipedia.org/wiki/베이시스트 "wikilink")이다.

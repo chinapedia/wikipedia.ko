@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ATC  V08](https://ko.wikipedia.org/wiki/ATC__V08).
+> This article is converted from Wikipedia: [ATC 코드 V08](https://ko.wikipedia.org/wiki/ATC_코드_V08).
 
 
 **ATC 코드 V08**은 [ATC 코드의](https://ko.wikipedia.org/wiki/ATC_코드 "wikilink") 조영제로 사용하는 약물을 정리한 코드이다. \[1\] **ATC 코드** V 기타의 하위그룹을 이룬다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [IBM ](https://ko.wikipedia.org/wiki/IBM_).
+> This article is converted from Wikipedia: [IBM 웹익스플로러](https://ko.wikipedia.org/wiki/IBM_웹익스플로러).
 
 
 **IBM 웹익스플로러**(IBM WebExplorer)는 [리서치 트라이앵글 파크에서](https://ko.wikipedia.org/wiki/리서치_트라이앵글_파크 "wikilink") [IBM](../Page/IBM.md "wikilink")이 설계한 초기의 [OS/2](https://ko.wikipedia.org/wiki/OS/2 "wikilink")용 [웹 브라우저였다](../Page/웹_브라우저.md "wikilink"). 최신 버전은 1.2이다.

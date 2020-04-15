@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [TBS   9 ](https://ko.wikipedia.org/wiki/TBS___9_).
+> This article is converted from Wikipedia: [TBS 목요일 밤 9시 드라마](https://ko.wikipedia.org/wiki/TBS_목요일_밤_9시_드라마).
 
 
-**목요 드라마9** ()는 [TBS에서](../Page/도쿄_방송_홀딩스.md "wikilink") [2011년](../Page/2011년.md "wikilink") [10월 27일부터](../Page/10월_27일.md "wikilink") 매주 [목요일](../Page/목요일.md "wikilink") 21:10 \~ 12:54 (JST)에서 방송되는 [텔레비전 드라마](../Page/텔레비전_드라마.md "wikilink") 범위이다. 통칭 〈**"목9"**〉
+**목요 드라마9**()는 [TBS에서](../Page/도쿄_방송_홀딩스.md "wikilink") [2011년](../Page/2011년.md "wikilink") [10월 27일부터](../Page/10월_27일.md "wikilink") 매주 [목요일](../Page/목요일.md "wikilink") 21:10 \~ 12:54 (JST)에서 방송되는 [텔레비전 드라마](../Page/텔레비전_드라마.md "wikilink") 범위이다. 통칭 〈**"목9"**〉
 
 ## 개요
 

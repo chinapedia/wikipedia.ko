@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [LG   II](https://ko.wikipedia.org/wiki/LG___II).
+> This article is converted from Wikipedia: [LG 옵티머스 뷰 II](https://ko.wikipedia.org/wiki/LG_옵티머스_뷰_II).
 
 
 **LG 옵티머스 뷰 II**(LG Optimus Vu II)는 [LG전자](../Page/LG전자.md "wikilink")에서 [2012년](../Page/2012년.md "wikilink") [9월 28일](../Page/9월_28일.md "wikilink") [대한민국](../Page/대한민국.md "wikilink")에서 출시한 [안드로이드](../Page/안드로이드_\(운영_체제\).md "wikilink") [스마트폰](../Page/스마트폰.md "wikilink")이다.

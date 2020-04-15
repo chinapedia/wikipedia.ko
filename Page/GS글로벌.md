@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [GS](https://ko.wikipedia.org/wiki/GS).
+> This article is converted from Wikipedia: [GS글로벌](https://ko.wikipedia.org/wiki/GS글로벌).
 
 
 **GS글로벌**은 수출무역을 주로 하는 GS계열의 [종합상사](../Page/종합상사.md "wikilink")이다. [김성곤](https://ko.wikipedia.org/wiki/김성곤 "wikilink")에 의해 1954년 설립된 무역회사 금성산업(주)이 GS글로벌의 전신이다. 금성산업은 이후 72년 쌍용산업, 1975년 (주)쌍용으로 상호변경하였다. 주로 [쌍용그룹](../Page/쌍용그룹.md "wikilink")(금성재벌) 제품을 외국에 주로 수출하는 그룹 종합상사이며, 1975년 정부에 의해 국내 2호 종합상사로 정식 지정됐다.

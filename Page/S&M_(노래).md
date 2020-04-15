@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [S\&M \(\)](https://ko.wikipedia.org/wiki/S\&M_\(\)).
+> This article is converted from Wikipedia: [S\&M \(노래\)](https://ko.wikipedia.org/wiki/S\&M_\(노래\)).
 
 
 "**S\&M**"은 [바베이도스](../Page/바베이도스.md "wikilink") 출신의 가수 [리한나](../Page/리한나.md "wikilink")의 노래로, 다섯 번째 정규 앨범인 [Loud](../Page/Loud.md "wikilink")의 세 번째 싱글이다. 노래는 Mikkel S. Eriksen, Tor Erik Hermansen, Corey Jackson Carter, Ester Dean 등과 같은 작곡가들에게 만들어졌으며, 스타게이트와 샌디 비가 프로듀싱를 맡았다. "S\&M"는 유로댄스 장르의 노래로, [댄스 팝](../Page/댄스_팝.md "wikilink") 장르에도 가깝다. "S\&M"은 비평가들로부터 혼합된 평가를 받았는데, "*Loud*에서 따로노는 트랙이다, 너무 선정적인 가사를 사용했다" 등의 비판을 받기도했다. 싱글로 발매되고나서 2011년 4월, 미국의 가수인 [브리트니 스피어스와](../Page/브리트니_스피어스.md "wikilink") 함께 새로운 리믹스 버전을 선보였다.

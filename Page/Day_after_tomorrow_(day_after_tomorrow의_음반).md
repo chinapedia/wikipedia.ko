@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Day after tomorrow \(day after tomorrow \)](https://ko.wikipedia.org/wiki/Day_after_tomorrow_\(day_after_tomorrow_\)).
+> This article is converted from Wikipedia: [Day after tomorrow \(day after tomorrow의 음반\)](https://ko.wikipedia.org/wiki/Day_after_tomorrow_\(day_after_tomorrow의_음반\)).
 
 
 **day after tomorrow**(데이 애프터 투모로우)는 [일본](../Page/일본.md "wikilink")의 [음악 그룹](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink") [데이 애프터 투모로우의](https://ko.wikipedia.org/wiki/데이_애프터_투모로우 "wikilink") [미니 앨범이다](https://ko.wikipedia.org/wiki/미니_앨범 "wikilink").

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [My Destiny \( \)](https://ko.wikipedia.org/wiki/My_Destiny_\(_\)).
+> This article is converted from Wikipedia: [My Destiny \(동방신기의 노래\)](https://ko.wikipedia.org/wiki/My_Destiny_\(동방신기의_노래\)).
 
 
 〈**My Destiny**〉(마이 데스티니)는 [동방신기](../Page/동방신기.md "wikilink")의 일본에서의 통산 3번째 싱글 음반이다.

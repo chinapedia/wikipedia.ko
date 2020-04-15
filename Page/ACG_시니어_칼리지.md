@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ACG  ](https://ko.wikipedia.org/wiki/ACG__).
+> This article is converted from Wikipedia: [ACG 시니어 칼리지](https://ko.wikipedia.org/wiki/ACG_시니어_칼리지).
 
 
 **ACG 시니어 칼리지**(**ACG Senior College**)는 [뉴질랜드](../Page/뉴질랜드.md "wikilink") [오클랜드](../Page/오클랜드_\(뉴질랜드\).md "wikilink") 도시 중심부에 위치한 사립 남녀 [고등학교](https://ko.wikipedia.org/wiki/고등학교 "wikilink")이며 뉴질랜드 [Academic Colleges Group에](https://ko.wikipedia.org/wiki/Academic_Colleges_Group "wikilink") 속해있다.

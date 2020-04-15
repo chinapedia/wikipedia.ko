@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [HTC   ](https://ko.wikipedia.org/wiki/HTC___).
+> This article is converted from Wikipedia: [HTC 휴대 전화 목록](https://ko.wikipedia.org/wiki/HTC_휴대_전화_목록).
 
 
 **HTC 휴대 전화 목록**은 [중화민국](../Page/중화민국.md "wikilink")의 휴대폰 제조 회사 [HTC](https://ko.wikipedia.org/wiki/HTC "wikilink")가 출시한 휴대전화들을 비교한다.

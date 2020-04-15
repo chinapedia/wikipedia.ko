@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [O-...](https://ko.wikipedia.org/wiki/O-...).
+> This article is converted from Wikipedia: [O-正.反.合.](https://ko.wikipedia.org/wiki/O-正.反.合.).
 
 
 《**"O"-正.反.合.**》("O"-정.반.합.)은 대한민국에서 발매한 [동방신기](../Page/동방신기.md "wikilink")의 세 번째 정규 음반이다.

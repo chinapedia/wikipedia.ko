@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ATRAN ](https://ko.wikipedia.org/wiki/ATRAN_).
+> This article is converted from Wikipedia: [ATRAN 항공](https://ko.wikipedia.org/wiki/ATRAN_항공).
 
 
 **ATRAN 항공**(, )은 [러시아](../Page/러시아.md "wikilink")의 화물 항공사로 [허브 공항은](../Page/허브_공항.md "wikilink") [도모데도보 국제공항이](https://ko.wikipedia.org/wiki/도모데도보_국제공항 "wikilink") 있으며 계열사는 [러시아](../Page/러시아.md "wikilink")의 화물 항공사인 [볼가 드네포르 항공이](../Page/볼가_드네포르_항공.md "wikilink") 있다.

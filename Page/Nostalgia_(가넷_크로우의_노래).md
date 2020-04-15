@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Nostalgia \(  \)](https://ko.wikipedia.org/wiki/Nostalgia_\(__\)).
+> This article is converted from Wikipedia: [Nostalgia \(가넷 크로우의 노래\)](https://ko.wikipedia.org/wiki/Nostalgia_\(가넷_크로우의_노래\)).
 
 
 **Nostlagia**는 [GARNET CROW의](../Page/GARNET_CROW.md "wikilink") 34번째 싱글이자, 마지막 싱글이다. [2012년](../Page/2012년.md "wikilink") [9월 26일](../Page/9월_26일.md "wikilink") [기자 스튜디오에서](https://ko.wikipedia.org/wiki/기자_스튜디오 "wikilink") 발매되었다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [LATAM  ](https://ko.wikipedia.org/wiki/LATAM__).
+> This article is converted from Wikipedia: [LATAM 카고 칠레](https://ko.wikipedia.org/wiki/LATAM_카고_칠레).
 
 
 **LATAM 카고 칠레**()는 [칠레](../Page/칠레.md "wikilink")의 화물 항공사로 본사는 [미국](../Page/미국.md "wikilink") [플로리다주](../Page/플로리다주.md "wikilink") [마이애미](../Page/마이애미.md "wikilink")에 위치해 있으며 [1929년](../Page/1929년.md "wikilink")에 설립했다. [허브 공항으로](../Page/허브_공항.md "wikilink") [코모도로 아르투로 메리노 베니테스 국제공항](https://ko.wikipedia.org/wiki/코모도로_아르투로_메리노_베니테스_국제공항 "wikilink"), [마이애미 국제공항이](https://ko.wikipedia.org/wiki/마이애미_국제공항 "wikilink") 있으며 계열사는 [미국](../Page/미국.md "wikilink")의 화물 항공사인 [플로리다 웨스트 국제항공을](../Page/플로리다_웨스트_국제항공.md "wikilink") 비롯해 [ABSA 카고 항공](../Page/ABSA_카고_항공.md "wikilink"), [LATAM 카고 콜롬비아](../Page/LATAM_카고_콜롬비아.md "wikilink"), [LATAM 카고 멕시코가](../Page/LATAM_카고_멕시코.md "wikilink") 있다.
@@ -32,7 +32,7 @@
 ## 외부 링크
 
   - [LATAM Cargo](http://www.latamcargo.com/)
-  - [First charter conducted on LAN Cargo's B777F](http://www.chapman-freeborn.com/news/articles/090630a.aspx)
+  - [First charter conducted on LAN Cargo's B777F](https://web.archive.org/web/20111004054834/http://www.chapman-freeborn.com/news/articles/090630a.aspx)
 
 [분류:칠레의 항공사](https://ko.wikipedia.org/wiki/분류:칠레의_항공사 "wikilink") [분류:1929년 설립](https://ko.wikipedia.org/wiki/분류:1929년_설립 "wikilink") [분류:화물 항공사](https://ko.wikipedia.org/wiki/분류:화물_항공사 "wikilink") [분류:IATA 회원](https://ko.wikipedia.org/wiki/분류:IATA_회원 "wikilink") [분류:LAN 항공](https://ko.wikipedia.org/wiki/분류:LAN_항공 "wikilink")
 

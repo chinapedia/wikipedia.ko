@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ \(DC \)](https://ko.wikipedia.org/wiki/_\(DC_\)).
+> This article is converted from Wikipedia: [베인 \(DC 코믹스\)](https://ko.wikipedia.org/wiki/베인_\(DC_코믹스\)).
 
 
 **베인**(Bane)은 [DC 코믹스의](../Page/DC_코믹스.md "wikilink") [슈퍼빌런](https://ko.wikipedia.org/wiki/슈퍼빌런 "wikilink") 캐릭터로, [배트맨](../Page/배트맨.md "wikilink")의 악당이다. 약물을 복용한 거구의 [레슬러](https://ko.wikipedia.org/wiki/레슬러 "wikilink")이다. 배트맨 영화판인 《[배트맨과 로빈](https://ko.wikipedia.org/wiki/배트맨과_로빈 "wikilink")》에서는 [로버트 스웬슨이](https://ko.wikipedia.org/wiki/로버트_스웬슨 "wikilink"), 《[다크 나이트 라이즈](../Page/다크_나이트_라이즈.md "wikilink")》에서는 [톰 하디가](../Page/톰_하디.md "wikilink") 맡았다.

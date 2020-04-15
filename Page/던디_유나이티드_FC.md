@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  FC](https://ko.wikipedia.org/wiki/__FC).
+> This article is converted from Wikipedia: [던디 유나이티드 FC](https://ko.wikipedia.org/wiki/던디_유나이티드_FC).
 
 
 **던디 유나이티드 FC**()는 [스코틀랜드](../Page/스코틀랜드.md "wikilink") [던디](../Page/던디.md "wikilink")를 연고로 하는 [축구](../Page/축구.md "wikilink") 클럽으로, [1909년](../Page/1909년.md "wikilink")에 창단했다.

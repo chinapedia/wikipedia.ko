@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [J](https://ko.wikipedia.org/wiki/J).
+> This article is converted from Wikipedia: [J스크립트](https://ko.wikipedia.org/wiki/J스크립트).
 
 
 **J스크립트**(JScript)는 [ECMA스크립트](../Page/ECMA스크립트.md "wikilink") 표준에 기반을 둔 스크립팅 언어이며 [마이크로소프트](../Page/마이크로소프트.md "wikilink")사의 [인터넷 익스플로러에](../Page/인터넷_익스플로러.md "wikilink") 쓰인다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TV ](https://ko.wikipedia.org/wiki/TV_).
+> This article is converted from Wikipedia: [TV는 내친구](https://ko.wikipedia.org/wiki/TV는_내친구).
 
 
 **TV는 내친구**는 매주 [토요일](../Page/토요일.md "wikilink") 낮 12시 10분부터 1시 10분에 [KBS 1TV로](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink") 방송되었던 TV 비평 옴부즈맨 [프로그램이다](../Page/텔레비전_프로그램.md "wikilink").

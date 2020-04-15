@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TV](https://ko.wikipedia.org/wiki/TV).
+> This article is converted from Wikipedia: [마이네트워크TV](https://ko.wikipedia.org/wiki/마이네트워크TV).
 
 
 **MyNetworkTV**(MNT, MyTV, MyNet, MNTV)는 미국의 민영방송이다. [폭스 방송](../Page/폭스_방송.md "wikilink") 계열이며, [2006년](../Page/2006년.md "wikilink")에 [CW에](../Page/The_CW.md "wikilink") 가맹하지 않은 [UPN](https://ko.wikipedia.org/wiki/UPN "wikilink")과 [WB의](https://ko.wikipedia.org/wiki/The_WB "wikilink") 지역 방송사를 합병하여 만든 채널이다.

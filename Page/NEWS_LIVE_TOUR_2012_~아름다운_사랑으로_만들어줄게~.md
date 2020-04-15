@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [NEWS LIVE TOUR 2012 \~  \~](https://ko.wikipedia.org/wiki/NEWS_LIVE_TOUR_2012_\~__\~).
+> This article is converted from Wikipedia: [NEWS LIVE TOUR 2012 \~아름다운 사랑으로 만들어줄게\~](https://ko.wikipedia.org/wiki/NEWS_LIVE_TOUR_2012_\~아름다운_사랑으로_만들어줄게\~).
 
 
 《**NEWS LIVE TOUR 2012 \~아름다운 사랑으로 만들어줄게\~**》()는, [NEWS](https://ko.wikipedia.org/wiki/NEWS "wikilink")의 6번째 라이브 비디오 음반이다.

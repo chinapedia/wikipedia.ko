@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KEC \(\)](https://ko.wikipedia.org/wiki/KEC_\(\)).
+> This article is converted from Wikipedia: [KEC \(기업\)](https://ko.wikipedia.org/wiki/KEC_\(기업\)).
 
 
 주식회사 **KEC**(케이이씨, KEC Corporation)는 [대한민국](../Page/대한민국.md "wikilink")의 [반도체](../Page/반도체.md "wikilink") [기업](https://ko.wikipedia.org/wiki/기업 "wikilink")이며 모기업인 [한국전자홀딩스](../Page/한국전자홀딩스.md "wikilink")와 관계사인 [신시사이저](../Page/신시사이저.md "wikilink") 및 디지털피아노 제조회사 (주)다이나톤(**DYNATONE**, Dynatone Corp.)이 있다.\[1\].

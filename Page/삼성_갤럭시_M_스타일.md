@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  M ](https://ko.wikipedia.org/wiki/__M_).
+> This article is converted from Wikipedia: [삼성 갤럭시 M 스타일](https://ko.wikipedia.org/wiki/삼성_갤럭시_M_스타일).
 
 
 **삼성 갤럭시 M 스타일**(Samsung Galaxy M style)은 [삼성전자](https://ko.wikipedia.org/wiki/삼성전자 "wikilink")가 [2012년](../Page/2012년.md "wikilink") [1월 5일에](../Page/1월_5일.md "wikilink") 출시한 보급형 [안드로이드](../Page/안드로이드_\(운영_체제\).md "wikilink") [스마트폰](../Page/스마트폰.md "wikilink")이다.

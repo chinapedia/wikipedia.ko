@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [H](https://ko.wikipedia.org/wiki/H).
+> This article is converted from Wikipedia: [인피니트H](https://ko.wikipedia.org/wiki/인피니트H).
 
 
 **인피니트H**는 2010년에 데뷔한 [인피니트](../Page/인피니트.md "wikilink")의 유닛 그룹으로, 인피니트H의 H는 힙합을 뜻한다. 구성원은 [장동우](../Page/장동우.md "wikilink")와 [호야로](https://ko.wikipedia.org/wiki/이호원_\(배우\) "wikilink") 구성되어 있으며, 소속사는 [울림엔터테인먼트](../Page/울림엔터테인먼트.md "wikilink")이다. EP [Fly High로](https://ko.wikipedia.org/wiki/Fly_High "wikilink") 데뷔하였으며 타이틀 곡은 "Special Girl"이다. 그러나 2017년 8월 30일 이호원 인피니트 호야가 울림엔터테인먼트 계약만료로 탈퇴하면서 인피니트h는 해체했다.

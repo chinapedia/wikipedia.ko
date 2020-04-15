@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [PEC ](https://ko.wikipedia.org/wiki/PEC_).
+> This article is converted from Wikipedia: [PEC 즈볼러](https://ko.wikipedia.org/wiki/PEC_즈볼러).
 
 
 **PEC 즈볼러**(PEC Zwolle)는 [네덜란드](../Page/네덜란드.md "wikilink") [즈볼러](https://ko.wikipedia.org/wiki/즈볼러 "wikilink")의 축구 클럽으로, 현재 [에레디비시](../Page/에레디비시.md "wikilink")에서 활동하고 있다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ROH   ](https://ko.wikipedia.org/wiki/ROH___).
+> This article is converted from Wikipedia: [ROH 테이크 노 프리즈너스](https://ko.wikipedia.org/wiki/ROH_테이크_노_프리즈너스).
 
 
 **테이크 노 프리즈너스**는 [링 오브 오너가](https://ko.wikipedia.org/wiki/링_오브_오너 "wikilink") 주관하던 월간 페이퍼뷰로 [2008년](../Page/2008년.md "wikilink")과 [2009년](../Page/2009년.md "wikilink") 두해에 걸쳐 진행되었다. [링 오브 오너의](https://ko.wikipedia.org/wiki/링_오브_오너 "wikilink") 역사상 마지막 녹화방식 페이퍼뷰이다.

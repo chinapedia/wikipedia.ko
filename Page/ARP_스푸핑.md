@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ARP ](https://ko.wikipedia.org/wiki/ARP_).
+> This article is converted from Wikipedia: [ARP 스푸핑](https://ko.wikipedia.org/wiki/ARP_스푸핑).
 
 
 [오른쪽을](https://ko.wikipedia.org/wiki/파일:ARP_Spoofing.svg "wikilink") 공격자가 바꿈으로서 효과적으로 [중간자 공격을](../Page/중간자_공격.md "wikilink") 수행할 수 있도록 한다.\]\]

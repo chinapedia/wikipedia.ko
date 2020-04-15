@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [J.  D. ](https://ko.wikipedia.org/wiki/J.__D._).
+> This article is converted from Wikipedia: [J. 한스 D. 옌젠](https://ko.wikipedia.org/wiki/J._한스_D._옌젠).
 
 
 **요하네스 한스 다니엘 옌젠**(Johannes Hans Daniel Jensen, [1907년](../Page/1907년.md "wikilink") [6월 25일](../Page/6월_25일.md "wikilink") \~ [1973년](../Page/1973년.md "wikilink") [2월 11일](../Page/2월_11일.md "wikilink"))은 [독일](../Page/독일.md "wikilink")의 [핵물리학](../Page/핵물리학.md "wikilink")자이다. [제2차 세계 대전](../Page/제2차_세계_대전.md "wikilink") 동안 그는 [우라늄 클럽에](https://ko.wikipedia.org/wiki/우라늄_클럽 "wikilink") 참가해 [우라늄](https://ko.wikipedia.org/wiki/우라늄 "wikilink") [동위원소](https://ko.wikipedia.org/wiki/동위원소 "wikilink") 분리에 공헌을 했다. 전쟁 직후 그는 [하이델베르크 대학교의](../Page/하이델베르크_대학교.md "wikilink") 교수가 되었다. [위스콘신 대학교 매디슨](../Page/위스콘신_대학교_매디슨.md "wikilink"), [프린스턴 고등연구소](../Page/프린스턴_고등연구소.md "wikilink"), [인디애나 대학교](../Page/인디애나_대학교.md "wikilink"), [캘리포니아 공과대학교의](../Page/캘리포니아_공과대학교.md "wikilink") 초빙 교수이기도 했다. [1963년](../Page/1963년.md "wikilink")에 [원자핵](../Page/원자핵.md "wikilink") 껍질 모형을 제시한 공로로 [마리아 괴퍼트메이어와](../Page/마리아_괴퍼트메이어.md "wikilink") 공동으로 [노벨 물리학상을](../Page/노벨_물리학상.md "wikilink") 수상했다.

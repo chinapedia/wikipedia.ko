@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:SBS  ](https://ko.wikipedia.org/wiki/:SBS__).
+> This article is converted from Wikipedia: [틀:SBS 연예대상 프로그램상](https://ko.wikipedia.org/wiki/틀:SBS_연예대상_프로그램상).
 
 
 <onlyinclude></includeonly>

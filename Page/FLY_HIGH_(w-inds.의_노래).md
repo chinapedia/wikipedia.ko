@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FLY HIGH \(w-inds. \)](https://ko.wikipedia.org/wiki/FLY_HIGH_\(w-inds._\)).
+> This article is converted from Wikipedia: [FLY HIGH \(w-inds.의 노래\)](https://ko.wikipedia.org/wiki/FLY_HIGH_\(w-inds.의_노래\)).
 
 
 **FLY HIGH**는 [2012년](../Page/2012년.md "wikilink") [2월 22일에](../Page/2월_22일.md "wikilink") 발매된 윈즈(w-inds.)의 31번째 싱글이다.
@@ -37,9 +37,12 @@
 
 ## 차트
 
-  - 오리콘 차트 5위를 기록하였다 (총판매량 44,999)
+  - 오리콘 위클리차트 5위를 기록하였다 (총판매량 44,999)
   - [뮤직스테이션](https://ko.wikipedia.org/wiki/뮤직스테이션 "wikilink") CD 랭킹 5위를 기록하였다.
 
 ## 외부 링크
 
+  - [w-inds.(윈즈) 싱글 디스코 그라피 FLY HIGH 싱글 발매 (2월 22일)](http://www.w-inds.tv/discography/single/)
+
+  -
 [분류:w-inds.의 노래](https://ko.wikipedia.org/wiki/분류:w-inds.의_노래 "wikilink") [분류:2012년 싱글](https://ko.wikipedia.org/wiki/분류:2012년_싱글 "wikilink")

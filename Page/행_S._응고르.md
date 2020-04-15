@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ S. ](https://ko.wikipedia.org/wiki/_S._).
+> This article is converted from Wikipedia: [행 S. 응고르](https://ko.wikipedia.org/wiki/행_S._응고르).
 
 
 **행 S. 응고르**(Haing S. Ngor, [1940년](../Page/1940년.md "wikilink") [3월 22일](../Page/3월_22일.md "wikilink") \~ [1996년](../Page/1996년.md "wikilink") [2월 25일](../Page/2월_25일.md "wikilink"))는 [캄보디아](../Page/캄보디아.md "wikilink") 출신 [미국](../Page/미국.md "wikilink")의 [배우](../Page/배우.md "wikilink") 및 의사이다. [하카계](../Page/하카_\(민족\).md "wikilink") 중국인 아버지와 [크메르인](https://ko.wikipedia.org/wiki/크메르인 "wikilink") 어머니 사이에서 태어났다.

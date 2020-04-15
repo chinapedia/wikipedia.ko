@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ SC](https://ko.wikipedia.org/wiki/_SC).
+> This article is converted from Wikipedia: [알카라마 SC](https://ko.wikipedia.org/wiki/알카라마_SC).
 
 
 **알카라마 SC**(, )는 [시리아](../Page/시리아.md "wikilink") [홈스](../Page/홈스.md "wikilink")를 연고로 하는 [축구](../Page/축구.md "wikilink") 클럽으로, [1928년](../Page/1928년.md "wikilink")에 창단되었다. [아시아](../Page/아시아.md "wikilink")에서 가장 오래된 축구 클럽 가운데 하나로 꼽히고 있으며 [시리아 프리미어리그와](../Page/시리아_프리미어리그.md "wikilink") 시리아 컵에서 8번 우승한 경력을 갖고 있다. 시리아의 축구 클럽으로는 처음으로 리그와 컵 대회에서 동시에 우승을 차지한 팀이기도 하다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Z ](https://ko.wikipedia.org/wiki/Z_).
+> This article is converted from Wikipedia: [Z의 비극](https://ko.wikipedia.org/wiki/Z의_비극).
 
 
 《**Z의 비극**》(*The Tragedy of Z*)은 [1933년](../Page/1933년.md "wikilink")에 발행된 [미국](../Page/미국.md "wikilink")의 [추리 작가](https://ko.wikipedia.org/wiki/추리_작가 "wikilink") [엘러리 퀸의](../Page/엘러리_퀸.md "wikilink") 장편 [추리 소설이다](https://ko.wikipedia.org/wiki/추리_소설 "wikilink").

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ \(Perfection\)](https://ko.wikipedia.org/wiki/_\(Perfection\)).
+> This article is converted from Wikipedia: [太完美 \(Perfection\)](https://ko.wikipedia.org/wiki/太完美_\(Perfection\)).
 
 
 《**太完美 (Perfection)**》는 [슈퍼주니어](../Page/슈퍼주니어.md "wikilink")의 중화권 유닛 [슈퍼주니어-M](../Page/슈퍼주니어-M.md "wikilink")의 두 번째 미니앨범이다. [2009년 12월](../Page/2009년_12월.md "wikilink") 멤버 [한경](../Page/한경.md "wikilink")의 전속계약 무효 소송 등의 일련의 사태 이후 1년 2개월여만에 선보이는 이 앨범에는 [슈퍼주니어](../Page/슈퍼주니어.md "wikilink")의 일원인 [은혁](../Page/은혁.md "wikilink")과 [성민이](../Page/성민_\(1986년\).md "wikilink") 특별히 참여하여 [슈퍼주니어-M](../Page/슈퍼주니어-M.md "wikilink")의 재도약의 신호탄을 알렸다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [NHN](https://ko.wikipedia.org/wiki/NHN).
+> This article is converted from Wikipedia: [NHN벅스](https://ko.wikipedia.org/wiki/NHN벅스).
 
 
 **NHN벅스**는 네오위즈홀딩스 자회사간의 합병을 통해 지난 2010년 새롭게 출범한 회사이다. 음악 및 모바일 서비스 사업을 영위 중이며, 음악포털 [벅스와](../Page/벅스_\(웹사이트\).md "wikilink") 커뮤니티 서비스 [세이클럽](https://ko.wikipedia.org/wiki/세이클럽 "wikilink")을 운영하고 있다. 2015년 6월에 [NHN엔터테인먼트](https://ko.wikipedia.org/wiki/NHN엔터테인먼트 "wikilink")에 인수되어 같은 해 8월에 사명을 서비스명인 **벅스**로 변경했다. 2017년 4월에 **NHN벅스**로 사명을 변경했다.

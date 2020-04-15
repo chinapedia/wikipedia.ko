@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:VfL   ](https://ko.wikipedia.org/wiki/:VfL___).
+> This article is converted from Wikipedia: [틀:VfL 볼프스부르크 선수 명단](https://ko.wikipedia.org/wiki/틀:VfL_볼프스부르크_선수_명단).
 
 
 <onlyinclude></onlyinclude>

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [GE ](https://ko.wikipedia.org/wiki/GE_).
+> This article is converted from Wikipedia: [GE 빌딩](https://ko.wikipedia.org/wiki/GE_빌딩).
 
 
 **GE 빌딩**(GE Building)은 [미국](../Page/미국.md "wikilink") [뉴욕](../Page/뉴욕.md "wikilink") [맨해튼](../Page/맨해튼.md "wikilink") [록펠러 센터에](../Page/록펠러_센터.md "wikilink") 있는 [초고층 건물이다](https://ko.wikipedia.org/wiki/초고층_건물 "wikilink"). [NBC](../Page/NBC.md "wikilink") 본사의 역할도 하고 있다. 1933년 완공하였다.

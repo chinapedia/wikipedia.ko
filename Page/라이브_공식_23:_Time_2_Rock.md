@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  23: Time 2 Rock](https://ko.wikipedia.org/wiki/__23:_Time_2_Rock).
+> This article is converted from Wikipedia: [라이브 공식 23: Time 2 Rock](https://ko.wikipedia.org/wiki/라이브_공식_23:_Time_2_Rock).
 
 
 **라이브 공식 23: Time 2 Rock**은 [대한민국](../Page/대한민국.md "wikilink") 및 [일본](../Page/일본.md "wikilink")에서 활동하는 [가수](https://ko.wikipedia.org/wiki/가수 "wikilink") [윤하](../Page/윤하.md "wikilink")의 첫 번째 전국투어이다. [2010년](../Page/2010년.md "wikilink") [10월 30일](../Page/10월_30일.md "wikilink") 서울 공연을 시작으로 서울 2회, 대구 1회, 부산 1회 등 총 4회의 공연을 가졌다.

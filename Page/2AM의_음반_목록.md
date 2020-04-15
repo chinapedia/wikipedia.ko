@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [2AM  ](https://ko.wikipedia.org/wiki/2AM__).
+> This article is converted from Wikipedia: [2AM의 음반 목록](https://ko.wikipedia.org/wiki/2AM의_음반_목록).
 
 
 다음은 [대한민국](../Page/대한민국.md "wikilink")의 [남성](https://ko.wikipedia.org/wiki/남성 "wikilink") 4인조 그룹 **[2AM](https://ko.wikipedia.org/wiki/2AM "wikilink")**이 발매한 **음반 목록**이다. 2008년부터 현재까지 2AM은 총 3장의 정규 음반과 3장의 미니 음반과 2장의 싱글 음반을 발매하였다.

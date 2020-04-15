@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ X](https://ko.wikipedia.org/wiki/_X).
+> This article is converted from Wikipedia: [스파르탄 X](https://ko.wikipedia.org/wiki/스파르탄_X).
 
 
 《**스파르탄 X**》(일본어:スパルタンX , 영어:Kung-fu master)는 [아이렘](https://ko.wikipedia.org/wiki/아이렘 "wikilink")에서 발매 된 액션 게임이다. [1984년](../Page/1984년.md "wikilink")에 아케이드용 횡스크롤 액션게임으로 발매되었으며 [성룡](../Page/성룡.md "wikilink")이 주연을 맡았던 동명의 영화를 주제로 하고 있다.\[1\] 또한 일본 국외판의 경우 **Kung-fu master**라는 제목으로 출시되었다.

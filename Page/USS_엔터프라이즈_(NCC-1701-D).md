@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [USS  \(NCC-1701-D\)](https://ko.wikipedia.org/wiki/USS__\(NCC-1701-D\)).
+> This article is converted from Wikipedia: [USS 엔터프라이즈 \(NCC-1701-D\)](https://ko.wikipedia.org/wiki/USS_엔터프라이즈_\(NCC-1701-D\)).
 
 
 **엔터프라이즈 NCC-1701-D**는 2363년 10월 1일 진수된 Galaxy급 함선이며 [쟝 룩 피카드가](https://ko.wikipedia.org/wiki/쟝_룩_피카드 "wikilink") 함장이다. 2371년의 전투에서 큰 손상으로 선체부를 분리하였고, 베리디안 3 행성에 원반부가 남아 있다. 참고로 138세로 죽은 커크 전 함장의 무덤도 베리디안 3 행성에 있다.

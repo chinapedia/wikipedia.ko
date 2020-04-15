@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ A3J ](https://ko.wikipedia.org/wiki/_A3J_).
+> This article is converted from Wikipedia: [노스아메리칸 A3J 비질란테](https://ko.wikipedia.org/wiki/노스아메리칸_A3J_비질란테).
 
 
 **노스아메리칸 A3J 비질란테**(, 이후 **A-5 비질란테**(A-5 Vigilante))는 미국 해군의 전략폭격기다. [A3D 스카이워리어와](../Page/더글러스_A3D_스카이워리어.md "wikilink") 비슷한 성격이나 A3J 비질란테는 초음속 폭격기란 점에 차이가 있다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:SBS 8 ](https://ko.wikipedia.org/wiki/:SBS_8_).
+> This article is converted from Wikipedia: [틀:SBS 8 뉴스](https://ko.wikipedia.org/wiki/틀:SBS_8_뉴스).
 
 
 <onlyinclude></onlyinclude>

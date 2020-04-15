@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [WWE  ](https://ko.wikipedia.org/wiki/WWE__).
+> This article is converted from Wikipedia: [WWE 디바 서치](https://ko.wikipedia.org/wiki/WWE_디바_서치).
 
 
 **디바 서치**(Diva Search)는 신인 디바(여성 레슬러)를 뽑는 [WWE](https://ko.wikipedia.org/wiki/WWE "wikilink")의 프로그램이다. 최초의 디바서치는 2003년이고 TV로 방영된 것은 2004년부터 2007년까지 있다. 2007년이후로 중단되었다가 2015년 [WWE](https://ko.wikipedia.org/wiki/WWE "wikilink") 회장인 [빈스 맥마흔이](../Page/빈스_맥마흔.md "wikilink") [레슬마니아](https://ko.wikipedia.org/wiki/레슬마니아 "wikilink") 31에서 가을부터 [WWE 네트워크에서](../Page/WWE_네트워크.md "wikilink") 방영될 예정이라고 발표했다.

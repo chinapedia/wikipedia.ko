@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ATC  M05](https://ko.wikipedia.org/wiki/ATC__M05).
+> This article is converted from Wikipedia: [ATC 코드 M05](https://ko.wikipedia.org/wiki/ATC_코드_M05).
 
 
 **ATC 코드 M05**는 [ATC 코드의](https://ko.wikipedia.org/wiki/ATC_코드 "wikilink") 골질환 치료제로 사용하는 약물을 정리한 코드이다. \[1\] **ATC 코드** M 근골격계의 하위그룹을 이룬다.

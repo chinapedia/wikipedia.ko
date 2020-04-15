@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SK](https://ko.wikipedia.org/wiki/SK).
+> This article is converted from Wikipedia: [SK에스엠](https://ko.wikipedia.org/wiki/SK에스엠).
 
 
 **SK에스엠**(SK SM)은 [SK해운](https://ko.wikipedia.org/wiki/SK해운 "wikilink")의 자회사로서, 선박운항 및 선박관리 분야에서 세계수준의 선박관리, 선원관리, 신조감리등의 서비스를 제공하는 Total SM Provider였다. [1982년](../Page/1982년.md "wikilink") [SK해운](https://ko.wikipedia.org/wiki/SK해운 "wikilink")의 Oil-Tanker In-house SM을 시작으로 Chemical, Product, Bulk, LNG, LPG 등으로 그 영역을 넓혀 왔고, [2011년](../Page/2011년.md "wikilink") [7월](../Page/7월.md "wikilink") [SK해운](https://ko.wikipedia.org/wiki/SK해운 "wikilink")으로부터 해사부문이 독립하여 분사하게 되었다. 2013년 10월 주주전원의 서면결의에 따라 해산하게 되었다.

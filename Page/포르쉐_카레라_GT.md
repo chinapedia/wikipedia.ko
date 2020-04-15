@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  GT](https://ko.wikipedia.org/wiki/__GT).
+> This article is converted from Wikipedia: [포르쉐 카레라 GT](https://ko.wikipedia.org/wiki/포르쉐_카레라_GT).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:015_-_Porsche_Carrera_GT_-_Flickr_-_Price-Photography.jpg "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:016_-_Porsche_Carrera_GT_-_Flickr_-_Price-Photography.jpg "wikilink")

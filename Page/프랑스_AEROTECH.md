@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ AEROTECH](https://ko.wikipedia.org/wiki/_AEROTECH).
+> This article is converted from Wikipedia: [프랑스 AEROTECH](https://ko.wikipedia.org/wiki/프랑스_AEROTECH).
 
 
 **프랑스 에어로테크**(France AEROTECH)는 항공 및 항공 우주 전문의 다섯 프랑스 학교를 말한다.\[1\].

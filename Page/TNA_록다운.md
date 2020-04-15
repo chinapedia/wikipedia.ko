@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TNA ](https://ko.wikipedia.org/wiki/TNA_).
+> This article is converted from Wikipedia: [TNA 록다운](https://ko.wikipedia.org/wiki/TNA_록다운).
 
 
 **TNA 록다운**(Lockdown)은 [TNA가](https://ko.wikipedia.org/wiki/토털_논스톱_액션_레슬링 "wikilink") 주관하던 페이퍼뷰이다. 2015년과 2016년에는 [임팩트 레슬링](../Page/임팩트_레슬링.md "wikilink") 특집 방송으로 진행되고 모기업이 앤섬으로 바뀌고 단체명이 임팩트 레슬링으로 바뀐 2017년에 폐지된다.

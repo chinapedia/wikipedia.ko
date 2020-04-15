@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TvN ](https://ko.wikipedia.org/wiki/TvN_).
+> This article is converted from Wikipedia: [TvN 월화드라마](https://ko.wikipedia.org/wiki/TvN_월화드라마).
 
 
 **tvN 월화드라마**는 [tvN](https://ko.wikipedia.org/wiki/tvN "wikilink")에서 매주 [월요일](../Page/월요일.md "wikilink")과 [화요일](https://ko.wikipedia.org/wiki/화요일 "wikilink") 밤 9시 30분에 방송하는 [텔레비전 드라마다](../Page/텔레비전_드라마.md "wikilink").
@@ -7,11 +7,11 @@
 
 ### 월화드라마
 
-| 방송 채널                                               | 방송 기간                        | 방송 시간           | 비고 |
-| --------------------------------------------------- | ---------------------------- | --------------- | -- |
-| [tvN](https://ko.wikipedia.org/wiki/tvN "wikilink") | 2011년 6월 13일 \~ 2017년 9월 26일 | 월요일 · 화요일 밤 11시 |    |
-| 2017년 10월 9일 \~ 2020년 3월 17일                        | 월요일 · 화요일 밤 9시 30분           |                 |    |
-| 2020년 3월 23일 \~ 현재                                  | 월요일 · 화요일 밤 9시               |                 |    |
+| 방송 채널                                                                                                                                                      | 방송 기간                                                                                                                                                      | 방송 시간              | 비고 |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ | -- |
+| [tvN](https://ko.wikipedia.org/wiki/tvN "wikilink")                                                                                                        | [2011년](../Page/2011년.md "wikilink") [6월 13일](../Page/6월_13일.md "wikilink") \~ [2017년](../Page/2017년.md "wikilink") [9월 26일](../Page/9월_26일.md "wikilink") | 월요일 · 화요일 밤 11시00분 |    |
+| [2017년](../Page/2017년.md "wikilink") [10월 9일](../Page/10월_9일.md "wikilink") \~ [2020년](../Page/2020년.md "wikilink") [3월 17일](../Page/3월_17일.md "wikilink") | 월요일 · 화요일 밤 9시 30분                                                                                                                                         |                    |    |
+| [2020년](../Page/2020년.md "wikilink") [3월 23일](../Page/3월_23일.md "wikilink") \~ **현재**                                                                      | 월요일 · 화요일 밤 9시00분                                                                                                                                          |                    |    |
 
 ## 월화드라마
 
@@ -94,12 +94,12 @@
   - 《[유령을 잡아라](../Page/유령을_잡아라.md "wikilink")》: 2019년 10월 21일 \~ 2019년 12월 10일
   - 《[블랙독](https://ko.wikipedia.org/wiki/블랙독_\(드라마\) "wikilink")》: 2019년 12월 16일 \~ 2020년 2월 4일
 
-### 2020년대
+### [2020년대](https://ko.wikipedia.org/wiki/2020년대 "wikilink")
 
-#### 2020년
+#### [2020년](../Page/2020년.md "wikilink")
 
-  - 《[방법](https://ko.wikipedia.org/wiki/방법_\(드라마\) "wikilink")》: 2020년 2월 10일 \~ 2020년 3월 17일
-  - 《[반의 반](https://ko.wikipedia.org/wiki/반의_반 "wikilink")》: 2020년 3월 23일 \~
+  - 《[방법](https://ko.wikipedia.org/wiki/방법_\(드라마\) "wikilink")》: [2020년](../Page/2020년.md "wikilink")[2월 10일](../Page/2월_10일.md "wikilink") \~ [2020년](../Page/2020년.md "wikilink") [3월 17일](../Page/3월_17일.md "wikilink")
+  - 《[반의 반](https://ko.wikipedia.org/wiki/반의_반 "wikilink")》: [2020년](../Page/2020년.md "wikilink") [3월 23일](../Page/3월_23일.md "wikilink") \~**현재**
 
 ## 함께 보기
 

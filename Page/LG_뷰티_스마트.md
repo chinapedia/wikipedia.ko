@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [LG  ](https://ko.wikipedia.org/wiki/LG__).
+> This article is converted from Wikipedia: [LG 뷰티 스마트](https://ko.wikipedia.org/wiki/LG_뷰티_스마트).
 
 
 **LG 뷰티 스마트**(, LG GC900)는 [LG전자](../Page/LG전자.md "wikilink")가 2009년에 출시한 [휴대 전화기이다](https://ko.wikipedia.org/wiki/휴대_전화기 "wikilink").\[1\]

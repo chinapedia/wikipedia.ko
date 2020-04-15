@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [The Beyonc Experience](https://ko.wikipedia.org/wiki/The_Beyonc_Experience).
+> This article is converted from Wikipedia: [The Beyoncé Experience](https://ko.wikipedia.org/wiki/The_Beyoncé_Experience).
 
 
 **The Beyoncé Experience**는 미국의 싱어송라이터 [비욘세 놀스의](https://ko.wikipedia.org/wiki/비욘세_놀스 "wikilink") 세 번째 월드 투어로 비욘세의 두 번째 정규 음반 *[B'Day](../Page/B'Day.md "wikilink")*의 프로모션을 위한 투어이다. 비욘세는 이 투어를 통해 2007년 11월 9일과 10일 양일간 첫 내한 공연도 펼쳤다.

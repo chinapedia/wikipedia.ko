@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ USB](https://ko.wikipedia.org/wiki/_USB).
+> This article is converted from Wikipedia: [무선 USB](https://ko.wikipedia.org/wiki/무선_USB).
 
 
 **무선 USB**(Wireless USB)는 단파의 고대역 [무선](https://ko.wikipedia.org/wiki/무선 "wikilink") 통신 프로토콜로, [와이어리스 USB 프로모터 그룹](https://web.archive.org/web/20060125010824/http://www.usb.org/developers/wusb/)이 제창하였다. 무선 USB는 이따금 "WUSB"로 간단히 줄여 말하기도 하지만 [USB 임플리멘터스 포럼](https://ko.wikipedia.org/wiki/USB_임플리멘터스_포럼 "wikilink")(Implementers Forum)은 이 기술을 경쟁 기술과 차별화하기 위해 인증된 무선 USB(Certified Wireless USB)로 부르는 것을 선호한다. 무선 USB는 [와이미디어 얼라이언스](https://ko.wikipedia.org/wiki/와이미디어_얼라이언스 "wikilink")(WiMedia Alliance)의 [UWB](../Page/초광대역.md "wikilink")(초광대역) 공통 라디오 플랫폼에 기반하고 있으며, 최대 3미터 거리에서 초당 480 메가비트의 전송 속도를, 최대 10미터에서 초당 110 메가비트의 전송 속도를 자랑한다. 3.1에서 10.6 GHz의 주파수 대역에서 동작하도록 설계되어 있으나 지역 규제 정책은 국가의 규정에 따라 법으로 제한하고 있다.

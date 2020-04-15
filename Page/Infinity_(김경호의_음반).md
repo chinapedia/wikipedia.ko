@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Infinity \( \)](https://ko.wikipedia.org/wiki/Infinity_\(_\)).
+> This article is converted from Wikipedia: [Infinity \(김경호의 음반\)](https://ko.wikipedia.org/wiki/Infinity_\(김경호의_음반\)).
 
 
 《**Infinity**》는 [김경호의](../Page/김경호_\(가수\).md "wikilink") 아홉 번째 정규 음반이다. 타이틀은 습관이다.

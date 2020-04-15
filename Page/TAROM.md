@@ -5,7 +5,7 @@
 
 ## 역사
 
-[1920년](../Page/1920년.md "wikilink") CFRNA()라는 이름으로 설립하였다. 초기에 중앙 [유럽](../Page/유럽.md "wikilink")의 여러 도시를 거쳐 [부쿠레슈티](../Page/부쿠레슈티.md "wikilink")와 [파리](https://ko.wikipedia.org/wiki/파리 "wikilink")를 잇는 여객과 우편 수송 서비스를 제공했으며 [1926년](../Page/1926년.md "wikilink") 사명을 CIDNA로 바꾸었다. [제2차 세계대전](https://ko.wikipedia.org/wiki/제2차_세계대전 "wikilink") 이후 [소련](../Page/소련.md "wikilink")이 [동유럽](../Page/동유럽.md "wikilink")에 영향력을 확대하면서 [1945년](../Page/1945년.md "wikilink") [소련](../Page/소련.md "wikilink")과 [루마니아](../Page/루마니아.md "wikilink") 합작 회사인 TARS으로 사명이 변경되었다. [1954년](../Page/1954년.md "wikilink") [소련](../Page/소련.md "wikilink")이 지분을 모두 사들여 현재의 사명으로 변경했다. [1991년](../Page/1991년.md "wikilink") [소련](../Page/소련.md "wikilink")의 붕괴로 [루마니아](../Page/루마니아.md "wikilink") 국영 항공사가 되었으나 경영의 어려움을 겪다가 [2000년대](../Page/2000년대.md "wikilink") 이후 수익을 내고 있다. [2007년](../Page/2007년.md "wikilink")에 전년도에 비해 32% 늘어난 169만 명의 여객 수송을 기록했는데 이는 [유럽](../Page/유럽.md "wikilink")에서 [브뤼셀 항공에](../Page/브뤼셀_항공.md "wikilink") 이어 두 번째로 높은 성장률이다. [2009년](../Page/2009년.md "wikilink") [대한항공](https://ko.wikipedia.org/wiki/대한항공 "wikilink")이 주도하는 [항공 동맹인](https://ko.wikipedia.org/wiki/항공_동맹 "wikilink") [스카이팀](../Page/스카이팀.md "wikilink")에 가입했다.
+[1920년](../Page/1920년.md "wikilink") CFRNA()라는 이름으로 설립하였다. 초기에 중앙 [유럽](../Page/유럽.md "wikilink")의 여러 도시를 거쳐 [부쿠레슈티](../Page/부쿠레슈티.md "wikilink")와 [파리](https://ko.wikipedia.org/wiki/파리 "wikilink")를 연결하는 여객과 우편 수송 서비스를 제공했으며 [1926년](../Page/1926년.md "wikilink") 사명을 CIDNA로 바꾸었다. [제2차 세계대전](https://ko.wikipedia.org/wiki/제2차_세계대전 "wikilink") 이후 [소련](../Page/소련.md "wikilink")이 [동유럽](../Page/동유럽.md "wikilink")에 영향력을 확대하면서 [1945년](../Page/1945년.md "wikilink") [소련](../Page/소련.md "wikilink")과 [루마니아](../Page/루마니아.md "wikilink") 합작 회사인 TARS으로 사명이 변경되었다. [1954년](../Page/1954년.md "wikilink") [소련](../Page/소련.md "wikilink")이 지분을 모두 사들여 현재의 사명으로 변경했다. [1991년](../Page/1991년.md "wikilink") [소련](../Page/소련.md "wikilink")의 붕괴로 [루마니아](../Page/루마니아.md "wikilink") 국영 항공사가 되었으나 경영의 어려움을 겪다가 [2000년대](../Page/2000년대.md "wikilink") 이후 수익을 내고 있다. [2007년](../Page/2007년.md "wikilink")에 전년도에 비해 32% 늘어난 169만 명의 여객 수송을 기록했는데 이는 [유럽](../Page/유럽.md "wikilink")에서 [브뤼셀 항공에](../Page/브뤼셀_항공.md "wikilink") 이어 두 번째로 높은 성장률이다. [2009년](../Page/2009년.md "wikilink") [대한항공](https://ko.wikipedia.org/wiki/대한항공 "wikilink")이 주도하는 [항공 동맹인](https://ko.wikipedia.org/wiki/항공_동맹 "wikilink") [스카이팀](../Page/스카이팀.md "wikilink")에 가입했다.
 
 ## 운항 노선
 
@@ -42,7 +42,7 @@
 
 ## 보유 기종
 
-  - [2020년](../Page/2020년.md "wikilink") [2월](../Page/2월.md "wikilink") 기준으로 TAROM은 다음과 같은 기종을 보유하고 있으며 평균 기령은 12.2년이다.\[5\]\[6\]
+  - [2020년](../Page/2020년.md "wikilink") [3월](../Page/3월.md "wikilink") 기준으로 TAROM은 다음과 같은 기종을 보유하고 있으며 평균 기령은 12.2년이다.\[5\]\[6\]
 
 ### 현재 사용하는 기종
 
@@ -57,8 +57,8 @@
 | [보잉 737 MAX 8](../Page/보잉_737_MAX.md "wikilink")                 | 0                                                               | 5\[7\]                        | TBA                           | [2023년](../Page/2023년.md "wikilink")부터 순차적으로 도입 예정 |
 | [ATR 42-500](../Page/ATR_42.md "wikilink")                       | 7                                                               | 0                             | 0                             | 48                                                 |
 | [ATR 72-500](../Page/ATR_72.md "wikilink")                       | 2                                                               | 0                             | 0                             | 68                                                 |
-| [ATR 72-600](../Page/ATR_72.md "wikilink")                       | 2                                                               | 7                             | 0                             | 72                                                 |
-| 합계                                                               | 25                                                              | 12                            |                               |                                                    |
+| [ATR 72-600](../Page/ATR_72.md "wikilink")                       | 4                                                               | 5                             | 0                             | 72                                                 |
+| 합계                                                               | 27                                                              | 10                            |                               |                                                    |
 
 **TAROM의 보유 기종**
 

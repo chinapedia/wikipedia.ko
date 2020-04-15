@@ -7,9 +7,9 @@
 
 ## 구성원
 
-  - FUKASE (후카세 사토시) () [보컬](https://ko.wikipedia.org/wiki/보컬 "wikilink"), [기타](../Page/기타.md "wikilink"), 작사, 작곡, 연출, 디자인 담당.
-  - NAKAJIN (나카지마 신이치) () 기타, 보컬, [코러스](https://ko.wikipedia.org/wiki/코러스 "wikilink"), 엔지니어링 담당.
-  - SAORI (후지사키 사오리) () [피아노](../Page/피아노.md "wikilink"), [건반 악기](https://ko.wikipedia.org/wiki/건반_악기 "wikilink"), 무대연출 담당.
+  - FUKASE \[FUKASE SATOSHI\] (후카세 사토시) () [보컬](https://ko.wikipedia.org/wiki/보컬 "wikilink"), [기타](../Page/기타.md "wikilink"), 작사, 작곡, 연출, 디자인 담당.
+  - NAKAJIN \[NAKAJIMA SHINITI\] (나카지마 신이치) () 기타, 보컬, [코러스](https://ko.wikipedia.org/wiki/코러스 "wikilink"), 엔지니어링 담당.
+  - SAORI \[FUJISAKI SAORI\] (후지사키 사오리) () [피아노](../Page/피아노.md "wikilink"), [건반 악기](https://ko.wikipedia.org/wiki/건반_악기 "wikilink"), 무대연출 담당.
   - DJ LOVE [DJ](../Page/디스크_자키.md "wikilink") 담당.
 
 ## 음반 목록

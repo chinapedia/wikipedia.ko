@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ AH-6](https://ko.wikipedia.org/wiki/_AH-6).
+> This article is converted from Wikipedia: [보잉 AH-6](https://ko.wikipedia.org/wiki/보잉_AH-6).
 
 
 **[보잉](../Page/보잉.md "wikilink") AH-6**(Boeing AH-6)은 경 [헬리콥터](../Page/헬리콥터.md "wikilink") 건쉽에 기초를 둔 [MH-6 리틀버드와](https://ko.wikipedia.org/wiki/MH-6_리틀버드 "wikilink") [MD500](https://ko.wikipedia.org/wiki/MD500 "wikilink") 시리즈의 하나이다. [보잉 로터 시스템즈에](https://ko.wikipedia.org/wiki/보잉_로터_시스템즈 "wikilink") 의해 개발되었으며, [무인](https://ko.wikipedia.org/wiki/무인 "wikilink") 리틀버드(ULB, Unmanned Little Bird) [프로토타입](../Page/프로토타입.md "wikilink")을 포함한다. A/MH-6X 미션 인핸스드 리틀 버드(MELB, Mission Enhanced Little Bird), 그리고 [AH-6I](https://ko.wikipedia.org/wiki/AH-6I "wikilink")과 [AH-6S](https://ko.wikipedia.org/wiki/AH-6S "wikilink")이 제안된바 있다.\[1\]

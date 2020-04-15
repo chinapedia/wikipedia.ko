@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [NH](https://ko.wikipedia.org/wiki/NH).
+> This article is converted from Wikipedia: [NH농협카드](https://ko.wikipedia.org/wiki/NH농협카드).
 
 
 **NH농협카드**는 [대한민국](../Page/대한민국.md "wikilink")의 [NH농협금융지주](../Page/NH농협금융지주.md "wikilink")의 계열사이자 [NH농협은행](../Page/NH농협은행.md "wikilink")의 자회사이므로, [KB국민카드](../Page/KB국민카드.md "wikilink")의 전산 시스템을 기반으로 하는 자사의 채움브랜드와 [비씨카드](../Page/비씨카드.md "wikilink")의 전산 시스템을 기반으로 하는 비씨브랜드로 구성되어 있다.
@@ -30,6 +30,7 @@
   - [신한카드](../Page/신한카드.md "wikilink"), [KB국민카드](../Page/KB국민카드.md "wikilink"), [우리카드](../Page/우리카드.md "wikilink"), [하나카드](../Page/하나카드.md "wikilink"), [SC-비씨 비자 체크카드처럼](../Page/한국스탠다드차타드은행.md "wikilink") 체크카드의 해외신판시 해외 브랜드 로열티 및 네트워크 수수료에 해외신판 1건당 고정된 달러 금액을 추가 수수료로 부과한다. 따라서 해외신판 수수료가 비싼 편이다.
   - [은련](https://ko.wikipedia.org/wiki/은련 "wikilink")카드중체크와 일부 신용카드는 농협카드의 자사 채움 브랜드가 아닌 [비씨카드](../Page/비씨카드.md "wikilink")로만 나오며 BC글로벌은 Oh\!Point 더블체크카드,더함신용시리즈(할인,포인트,JOY)만나오고 있다..
   - 발급비는 원칙적으로, 현금인출카드와 똑같이 수수료 1000원을 받는다.
+  - 모든 상품은 [농협은행](https://ko.wikipedia.org/wiki/농협은행 "wikilink")이외 은행은 연결이 불가능하며 발급즉시 현금카드로 이용할수 있다.
 
 ### 브랜드
 

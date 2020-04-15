@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KARA ](https://ko.wikipedia.org/wiki/KARA_).
+> This article is converted from Wikipedia: [KARA 컬렉션](https://ko.wikipedia.org/wiki/KARA_컬렉션).
 
 
 《**KARA 컬렉션**》(KARA コレクション)은 [2012년](../Page/2012년.md "wikilink") [9월 5일](../Page/9월_5일.md "wikilink") 일본에서 발매된 [카라의](../Page/카라_\(음악_그룹\).md "wikilink") 첫 번째 [미니 앨범이다](../Page/익스텐디드_플레이.md "wikilink").

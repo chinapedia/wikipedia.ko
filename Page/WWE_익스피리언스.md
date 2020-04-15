@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [WWE ](https://ko.wikipedia.org/wiki/WWE_).
+> This article is converted from Wikipedia: [WWE 익스피리언스](https://ko.wikipedia.org/wiki/WWE_익스피리언스).
 
 
 **더 WWE 익스피리언스**(The WWE Experience) 는 [WWE 러](../Page/WWE_러.md "wikilink"), [스맥다운](https://ko.wikipedia.org/wiki/스맥다운 "wikilink") , [NXT](https://ko.wikipedia.org/wiki/NXT "wikilink")의 하이라이트 프로그램으로서 2004년 5월에 방송이 시작되었다.

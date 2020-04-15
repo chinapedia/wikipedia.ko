@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [US  ](https://ko.wikipedia.org/wiki/US__).
+> This article is converted from Wikipedia: [US 에어웨이스 그룹](https://ko.wikipedia.org/wiki/US_에어웨이스_그룹).
 
 
 **US 에어웨이스 그룹**()은 [미국](../Page/미국.md "wikilink") [애리조나주](../Page/애리조나주.md "wikilink") [탬파](../Page/탬파.md "wikilink")에 본사를 둔 민간 항공 운송업체로 [US 에어웨이스와](../Page/US_에어웨이스.md "wikilink") [US 에어웨이스 익스프레스](../Page/US_에어웨이스_익스프레스.md "wikilink"), [US 에어웨이스 셔틀의](../Page/US_에어웨이스_셔틀.md "wikilink") 모기업에 속한다.

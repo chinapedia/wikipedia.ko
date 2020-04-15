@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [PC  ](https://ko.wikipedia.org/wiki/PC__).
+> This article is converted from Wikipedia: [PC방 실험 사건](https://ko.wikipedia.org/wiki/PC방_실험_사건).
 
 
 **PC방 실험 사건**은 [2011년](../Page/2011년.md "wikilink") [2월 13일](../Page/2월_13일.md "wikilink") [MBC 뉴스데스크에서](../Page/MBC_뉴스데스크.md "wikilink") "게임의 폭력성을 알아보기 위한 실험"을 목적으로 PC방에서 컴퓨터의 모든 전원을 차단한 사건이다.

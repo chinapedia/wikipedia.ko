@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ OS](https://ko.wikipedia.org/wiki/_OS).
+> This article is converted from Wikipedia: [파이어폭스 OS](https://ko.wikipedia.org/wiki/파이어폭스_OS).
 
 
 **파이어폭스 OS**(프로젝트 이름: Boot to Gecko, B2G)\[1\]는 [모질라](../Page/모질라.md "wikilink")가 개발한 [스마트폰](../Page/스마트폰.md "wikilink") 및 [태블릿 컴퓨터용](../Page/태블릿_컴퓨터.md "wikilink") [오픈 소스](../Page/오픈_소스.md "wikilink") [운영 체제이다](../Page/운영_체제.md "wikilink"). [HTML5](../Page/HTML5.md "wikilink") 응용 프로그램들이 [자바스크립트](../Page/자바스크립트.md "wikilink")를 이용하여 기기의 하드웨어를 통합할 수 있게 구현한다.\[2\] [안드로이드](../Page/안드로이드_\(운영_체제\).md "wikilink") 호환 [스마트폰](../Page/스마트폰.md "wikilink") 및 [라즈베리파이](https://ko.wikipedia.org/wiki/라즈베리파이 "wikilink")에서도 시연되었다.\[3\]\[4\] 2.6 버전을 끝으로 스마트폰을 대상으로 2016년 5월 개발을 종료할 예정이다.

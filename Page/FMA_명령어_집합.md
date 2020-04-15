@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FMA  ](https://ko.wikipedia.org/wiki/FMA__).
+> This article is converted from Wikipedia: [FMA 명령어 집합](https://ko.wikipedia.org/wiki/FMA_명령어_집합).
 
 
 **FMA 명령어 집합**()은 [단일 곱셈-누산기](../Page/단일_곱셈-누산기.md "wikilink")(FMA)계산을 하기위한 [x86](https://ko.wikipedia.org/wiki/x86 "wikilink") 마이크로프로세서 명령어 집합에서의 128비트 SIMD명령어들이다. 여기에는 두가지의 종류가 있다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ATC  D07](https://ko.wikipedia.org/wiki/ATC__D07).
+> This article is converted from Wikipedia: [ATC 코드 D07](https://ko.wikipedia.org/wiki/ATC_코드_D07).
 
 
 **ATC 코드 D07**은 [ATC 코드의](https://ko.wikipedia.org/wiki/ATC_코드 "wikilink") 피부과적 코르티코스테로이드제제로 작용하는 약물을 정리한 코드이다. \[1\] **ATC 코드** D 피부과의 하위그룹을 이룬다.

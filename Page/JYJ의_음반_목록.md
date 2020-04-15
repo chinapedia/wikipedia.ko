@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [JYJ  ](https://ko.wikipedia.org/wiki/JYJ__).
+> This article is converted from Wikipedia: [JYJ의 음반 목록](https://ko.wikipedia.org/wiki/JYJ의_음반_목록).
 
 
 다음은 [대한민국](../Page/대한민국.md "wikilink")의 [남자](https://ko.wikipedia.org/wiki/남자 "wikilink") 음악 그룹 [JYJ](../Page/JYJ.md "wikilink")의 **음반 목록**이다.

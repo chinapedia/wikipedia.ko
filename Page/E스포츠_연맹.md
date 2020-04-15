@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [E ](https://ko.wikipedia.org/wiki/E_).
+> This article is converted from Wikipedia: [E스포츠 연맹](https://ko.wikipedia.org/wiki/E스포츠_연맹).
 
 
 **e스포츠 연맹**(eSports 聯盟, eSPORTS Federation)은 스타크래프트 II 프로게임단과 리그 관계자들이 결성한 단체였다. [스타크래프트 II 협의회가](../Page/스타크래프트_II_협의회.md "wikilink") 해산된 후 2012년 3월 28일 출범을 선언, 2012년 스타크래프트2 프로게임단 스타테일, IM, 프라임, MVP, NS호서, FXOepn, TSL 등 7개 팀으로 구성되었다.

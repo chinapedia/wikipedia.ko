@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ V](https://ko.wikipedia.org/wiki/_V).
+> This article is converted from Wikipedia: [쏘우 V](https://ko.wikipedia.org/wiki/쏘우_V).
 
 
 《**쏘우 V**》(Saw V)는 [데이비드 해클](https://ko.wikipedia.org/wiki/데이비드_해클 "wikilink") 감독의 2008년 미국의 공포 영화이다.
@@ -34,4 +34,4 @@
   -
   -
   -
-[분류:영어 영화 작품](https://ko.wikipedia.org/wiki/분류:영어_영화_작품 "wikilink") [분류:2008년 영화](https://ko.wikipedia.org/wiki/분류:2008년_영화 "wikilink") [분류:속편 영화](https://ko.wikipedia.org/wiki/분류:속편_영화 "wikilink") [분류:쏘우 영화](https://ko.wikipedia.org/wiki/분류:쏘우_영화 "wikilink") [분류:미국의 공포 영화](https://ko.wikipedia.org/wiki/분류:미국의_공포_영화 "wikilink") [분류:라이온스 게이트 엔터테인먼트 영화](https://ko.wikipedia.org/wiki/분류:라이온스_게이트_엔터테인먼트_영화 "wikilink") [분류:감독 데뷔 영화](https://ko.wikipedia.org/wiki/분류:감독_데뷔_영화 "wikilink") [분류:데이비드 해클 감독 영화](https://ko.wikipedia.org/wiki/분류:데이비드_해클_감독_영화 "wikilink")
+[분류:영어 영화 작품](https://ko.wikipedia.org/wiki/분류:영어_영화_작품 "wikilink") [분류:2008년 영화](https://ko.wikipedia.org/wiki/분류:2008년_영화 "wikilink") [분류:속편 영화](https://ko.wikipedia.org/wiki/분류:속편_영화 "wikilink") [분류:쏘우 영화](https://ko.wikipedia.org/wiki/분류:쏘우_영화 "wikilink") [분류:미국의 공포 영화](https://ko.wikipedia.org/wiki/분류:미국의_공포_영화 "wikilink") [분류:라이언스 게이트 엔터테인먼트 영화](https://ko.wikipedia.org/wiki/분류:라이언스_게이트_엔터테인먼트_영화 "wikilink") [분류:감독 데뷔 영화](https://ko.wikipedia.org/wiki/분류:감독_데뷔_영화 "wikilink") [분류:데이비드 해클 감독 영화](https://ko.wikipedia.org/wiki/분류:데이비드_해클_감독_영화 "wikilink")

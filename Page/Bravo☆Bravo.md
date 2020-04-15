@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [BravoBravo](https://ko.wikipedia.org/wiki/BravoBravo).
+> This article is converted from Wikipedia: [Bravo☆Bravo](https://ko.wikipedia.org/wiki/Bravo☆Bravo).
 
 
 **Bravo☆Bravo**(브라보☆브라보)는 [Buono\!](../Page/Buono!.md "wikilink")의 통산 9번째 싱글이다. 2009년 12월 16일 발매했다. 유통사는 [포니 캐년이다](https://ko.wikipedia.org/wiki/포니캐년 "wikilink").

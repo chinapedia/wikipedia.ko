@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [X \(  \)](https://ko.wikipedia.org/wiki/X_\(__\)).
+> This article is converted from Wikipedia: [X \(카일리 미노그의 음반\)](https://ko.wikipedia.org/wiki/X_\(카일리_미노그의_음반\)).
 
 
 《**X**》는 [카일리 미노그의](../Page/카일리_미노그.md "wikilink") 10번째 정규 음반으로, 2007년 11월 21일 발매되었다.

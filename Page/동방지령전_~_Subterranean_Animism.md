@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ \~ Subterranean Animism](https://ko.wikipedia.org/wiki/_\~_Subterranean_Animism).
+> This article is converted from Wikipedia: [동방지령전 \~ Subterranean Animism](https://ko.wikipedia.org/wiki/동방지령전_\~_Subterranean_Animism).
 
 
 《**동방지령전 \~ Subterranean Animism**》()은 [동방 프로젝트의](../Page/동방_프로젝트.md "wikilink") 열한번째 시리즈 게임이다.

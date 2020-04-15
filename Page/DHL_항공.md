@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [DHL ](https://ko.wikipedia.org/wiki/DHL_).
+> This article is converted from Wikipedia: [DHL 항공](https://ko.wikipedia.org/wiki/DHL_항공).
 
 
 **DHL 항공**()는 [독일](../Page/독일.md "wikilink")의 [DHL](../Page/DHL.md "wikilink")의 자회사로 [DHL](../Page/DHL.md "wikilink")의 항공 물류 분야를 분사한 기업이다.

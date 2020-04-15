@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SK    1](https://ko.wikipedia.org/wiki/SK____1).
+> This article is converted from Wikipedia: [SK플래닛 스타크래프트 프로리그 시즌 1](https://ko.wikipedia.org/wiki/SK플래닛_스타크래프트_프로리그_시즌_1).
 
 
 **SK플래닛 스타크래프트 프로리그 시즌 1**(SK Planet StarCraft Proleague Season 1)은 [프로리그의](../Page/스타크래프트_프로리그.md "wikilink") 16번째 시즌이고 [KeSPA](https://ko.wikipedia.org/wiki/KeSPA "wikilink") 주관 대한민국 스타크래프트 [프로리그로는](../Page/스타크래프트_프로리그.md "wikilink") 8번째시즌이며 [SK플래닛](../Page/SK플래닛.md "wikilink")의 스폰서로 진행 되는 첫 번째 시즌이다. 또한 [스타크래프트 1](https://ko.wikipedia.org/wiki/스타크래프트_1 "wikilink") 종목으로만 벌어지는 마지막 프로리그이며, 차기 프로리그는 스타크래프트1과 [스타크래프트 2로](https://ko.wikipedia.org/wiki/스타크래프트_2 "wikilink") 병행하게 된다.
@@ -51,7 +51,7 @@
   - 12월 2째주 경기는 WCG 2011과 연계되어 부산 벡스코에서 개최된다.
   - 각 라운드의 애칭은 SK플래닛의 브랜드명인 T스토어, 11번가, 호핀라운드로 불리게 된다.
   - 2라운드 3주차 3경기 CJ와 제8게임단의 3세트 이경민과 김재훈의 대결 중 양 선수가 이길 수 없는 상황이 만들어져 시즌 첫 무승부를 기록하였다. (공식전 통산 17번째)
-  - 2라운드 5주차 4경기 KT와 공군의 경기에서 [KT 롤스터가](https://ko.wikipedia.org/wiki/KT_롤스터 "wikilink") 프로리그 팀 최초 200승을 달성하였다,
+  - 2라운드 5주차 4경기 KT와 공군의 경기에서 [KT 롤스터가](../Page/KT_롤스터.md "wikilink") 프로리그 팀 최초 200승을 달성하였다,
   - 3라운드 3주차 2경기 웅진과 KT의 4세트 노준규와 황병영의 대결 중 황병영선수의 PC문제로 드랍현상이 발행하여 해당경기 무효경기 처리 후 재경기를 실시하였다.
 
 ## 시즌 순위
@@ -60,7 +60,7 @@
 | -- | ------------------------------------------------------------- | --- | -- | -- | ----- | ---- | --- | --- | -- | --------------------------- |
 | 1  | [SK텔레콤 T1](https://ko.wikipedia.org/wiki/SK텔레콤_T1 "wikilink") | 21  | 13 | 8  | 61.9% | 18   | 51  | 33  |    | <small>**결승전 직행**</small>   |
 | 2  | [삼성전자 칸](https://ko.wikipedia.org/wiki/삼성전자_칸 "wikilink")     | 21  | 13 | 8  | 61.9% | 5    | 45  | 40  |    | <small>**플레이오프**</small>    |
-| 3  | [KT 롤스터](https://ko.wikipedia.org/wiki/KT_롤스터 "wikilink")     | 21  | 12 | 9  | 57.1% | 11   | 50  | 39  |    | <small>**4강 플레이오프**</small> |
+| 3  | [KT 롤스터](../Page/KT_롤스터.md "wikilink")                        | 21  | 12 | 9  | 57.1% | 11   | 50  | 39  |    | <small>**4강 플레이오프**</small> |
 | 4  | [CJ 엔투스](https://ko.wikipedia.org/wiki/CJ_엔투스 "wikilink")     | 21  | 11 | 10 | 52.4% | 4    | 44  | 40  |    |                             |
 | 5  | [웅진 스타즈](../Page/웅진_스타즈.md "wikilink")                        | 21  | 11 | 10 | 52.4% | \-5  | 45  | 49  | 1  |                             |
 | 6  | [STX SouL](https://ko.wikipedia.org/wiki/STX_SouL "wikilink") | 21  | 10 | 11 | 47.6% | \-6  | 43  | 49  |    |                             |
@@ -68,9 +68,6 @@
 | 8  | [공군 ACE](../Page/공군_ACE.md "wikilink")                        | 21  | 6  | 15 | 28.6% | \-22 | 31  | 53  |    |                             |
 |    |                                                               |     |    |    |       |      |     |     |    |                             |
 
-<small>
-
-  - 매주 끝나는 수요일에 업데이트 됩니다.
 
 </small>
 
@@ -83,7 +80,7 @@
 | 순위 | 팀                                                             | 경기수 | 승 | 패 | 득실점 | 승률    | 개인승 | 개인패 | 벌점 |
 | -- | ------------------------------------------------------------- | --- | - | - | --- | ----- | --- | --- | -- |
 | 1  | [CJ 엔투스](https://ko.wikipedia.org/wiki/CJ_엔투스 "wikilink")     | 7   | 5 | 2 | 7   | 71.4% | 18  | 11  | 0| |
-| 2  | [KT 롤스터](https://ko.wikipedia.org/wiki/KT_롤스터 "wikilink")     | 7   | 4 | 3 | 4   | 57.1% | 17  | 13  |    |
+| 2  | [KT 롤스터](../Page/KT_롤스터.md "wikilink")                        | 7   | 4 | 3 | 4   | 57.1% | 17  | 13  |    |
 | 3  | [SK텔레콤 T1](https://ko.wikipedia.org/wiki/SK텔레콤_T1 "wikilink") | 7   | 4 | 3 | 3   | 57.1% | 16  | 13  |    |
 | 4  | [삼성전자 칸](https://ko.wikipedia.org/wiki/삼성전자_칸 "wikilink")     | 7   | 4 | 3 | 0   | 57.1% | 14  | 14  |    |
 | 5  | [공군 ACE](../Page/공군_ACE.md "wikilink")                        | 7   | 3 | 4 | \-3 | 42.9% | 12  | 15  |    |
@@ -96,7 +93,7 @@
 
 | 순위 | 팀                                                             | 경기수 | 승 | 패 | 득실점 | 승률    | 개인승 | 개인패 | 벌점 |
 | -- | ------------------------------------------------------------- | --- | - | - | --- | ----- | --- | --- | -- |
-| 1  | [KT 롤스터](https://ko.wikipedia.org/wiki/KT_롤스터 "wikilink")     | 7   | 5 | 2 | 9   | 71.4% | 18  | 9   |    |
+| 1  | [KT 롤스터](../Page/KT_롤스터.md "wikilink")                        | 7   | 5 | 2 | 9   | 71.4% | 18  | 9   |    |
 | 2  | [삼성전자 칸](https://ko.wikipedia.org/wiki/삼성전자_칸 "wikilink")     | 7   | 5 | 2 | 5   | 71.4% | 18  | 13  |    |
 | 3  | [제8프로게임단](https://ko.wikipedia.org/wiki/제8프로게임단 "wikilink")   | 7   | 4 | 3 | 0   | 57.1% | 16  | 16  |    |
 | 3  | [웅진 스타즈](../Page/웅진_스타즈.md "wikilink")                        | 7   | 4 | 3 | 0   | 57.1% | 13  | 13  |    |
@@ -115,14 +112,14 @@
 | 3  | [삼성전자 칸](https://ko.wikipedia.org/wiki/삼성전자_칸 "wikilink")     | 7   | 4 | 3 | 0    | 57.1% | 13  | 13  |    |
 | 4  | [웅진 스타즈](../Page/웅진_스타즈.md "wikilink")                        | 7   | 4 | 3 | \-1  | 57.1  | 15  | 16  | 1  |
 | 5  | [STX SouL](https://ko.wikipedia.org/wiki/STX_SouL "wikilink") | 7   | 4 | 3 | \-1  | 57.1% | 15  | 16  |    |
-| 6  | [KT 롤스터](https://ko.wikipedia.org/wiki/KT_롤스터 "wikilink")     | 7   | 3 | 4 | \-2  | 42.9% | 15  | 17  |    |
+| 6  | [KT 롤스터](../Page/KT_롤스터.md "wikilink")                        | 7   | 3 | 4 | \-2  | 42.9% | 15  | 17  |    |
 | 7  | [제8프로게임단](https://ko.wikipedia.org/wiki/제8프로게임단 "wikilink")   | 7   | 2 | 5 | \-4  | 28.6% | 14  | 18  | 1  |
 | 8  | [공군 ACE](../Page/공군_ACE.md "wikilink")                        | 7   | 1 | 6 | \-12 | 16.7% | 8   | 20  |    |
 |    |                                                               |     |   |   |      |       |     |     |    |
 
 ## 포스트시즌
 
-### 포스트시즌
+### 준플레이오프
 
 **1차전**
 
@@ -137,6 +134,20 @@
 -----
 
 **3차전**
+
+  - 주관 : [온게임넷](https://ko.wikipedia.org/wiki/온게임넷 "wikilink")
+
+-----
+
+### 플레이오프
+
+**1차전**
+
+  - 주관 : [온게임넷](https://ko.wikipedia.org/wiki/온게임넷 "wikilink")
+
+-----
+
+**2차전**
 
   - 주관 : [온게임넷](https://ko.wikipedia.org/wiki/온게임넷 "wikilink")
 
@@ -172,7 +183,7 @@
 
 <!-- end list -->
 
-  - 우승 : [SK텔레콤 T1](https://ko.wikipedia.org/wiki/SK텔레콤_T1 "wikilink"), 준우승 : [KT 롤스터](https://ko.wikipedia.org/wiki/KT_롤스터 "wikilink"), 3위 : [삼성전자 칸](https://ko.wikipedia.org/wiki/삼성전자_칸 "wikilink"), 4위 : [CJ 엔투스](https://ko.wikipedia.org/wiki/CJ_엔투스 "wikilink")
+  - 우승 : [SK텔레콤 T1](https://ko.wikipedia.org/wiki/SK텔레콤_T1 "wikilink"), 준우승 : [KT 롤스터](../Page/KT_롤스터.md "wikilink"), 3위 : [삼성전자 칸](https://ko.wikipedia.org/wiki/삼성전자_칸 "wikilink"), 4위 : [CJ 엔투스](https://ko.wikipedia.org/wiki/CJ_엔투스 "wikilink")
 
 ## 각주
 

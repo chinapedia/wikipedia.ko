@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Timeless \(UVERworld \)](https://ko.wikipedia.org/wiki/Timeless_\(UVERworld_\)).
+> This article is converted from Wikipedia: [Timeless \(UVERworld의 음반\)](https://ko.wikipedia.org/wiki/Timeless_\(UVERworld의_음반\)).
 
 
 **Timeless**는 [일본 록](https://ko.wikipedia.org/wiki/방악_\(음악\) "wikilink") 밴드 [우버월드](https://ko.wikipedia.org/wiki/우버월드 "wikilink")의 음반이다. 이 음반은 2006년 2월 15일에 출시되었다. 이 음반은 오리콘 차트에 33번 입성하였고 전성기에는 5위로 올라서기도 하였다.\[1\] 이 음반은 [일본 레코드 협회로부터](https://ko.wikipedia.org/wiki/일본_레코드_협회 "wikilink") 금상을 받기도 하였다.\[2\]

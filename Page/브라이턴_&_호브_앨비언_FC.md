@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ \&   FC](https://ko.wikipedia.org/wiki/_\&___FC).
+> This article is converted from Wikipedia: [브라이턴 \& 호브 앨비언 FC](https://ko.wikipedia.org/wiki/브라이턴_\&_호브_앨비언_FC).
 
 
 **브라이턴 & 호브 앨비언 풋볼 클럽**()은 [잉글랜드](../Page/잉글랜드.md "wikilink")의 프로축구 구단으로 [이스트서식스주](https://ko.wikipedia.org/wiki/이스트서식스주 "wikilink") [브라이턴앤드호브](https://ko.wikipedia.org/wiki/브라이턴앤드호브 "wikilink")를 연고지로 하고 있다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TAAG  ](https://ko.wikipedia.org/wiki/TAAG__).
+> This article is converted from Wikipedia: [TAAG 앙골라 항공](https://ko.wikipedia.org/wiki/TAAG_앙골라_항공).
 
 
 **TAAG 앙골라 항공**(, )은 [앙골라](../Page/앙골라.md "wikilink")의 [국책 항공사이다](../Page/국책_항공사.md "wikilink"). 수도 [루안다](../Page/루안다.md "wikilink")에 본사가 있으며 [허브 공항의](../Page/허브_공항.md "wikilink") 경우 [루안다 콰트루 드 페베레이루 공항을](../Page/루안다_콰트루_드_페베레이루_공항.md "wikilink") 통해 [아프리카](../Page/아프리카.md "wikilink")와 [남아메리카](../Page/남아메리카.md "wikilink")에 취항하고 있으며 현재 항공 연합은 가입하지 않았다. [앙골라 정부가](../Page/앙골라.md "wikilink") 지분의 100%를 가지고 있다.

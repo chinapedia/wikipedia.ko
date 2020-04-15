@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ HD](https://ko.wikipedia.org/wiki/_HD).
+> This article is converted from Wikipedia: [현대 HD](https://ko.wikipedia.org/wiki/현대_HD).
 
 
 ''' 현대 HD '''는 [현대자동차](https://ko.wikipedia.org/wiki/현대자동차 "wikilink")의 도시형[버스](../Page/버스.md "wikilink")형 준대형 [버스](../Page/버스.md "wikilink")다. [1977년](../Page/1977년.md "wikilink")에 [현대 HD 1000](../Page/현대_HD_1000.md "wikilink"), [D0710이랑](../Page/현대_D0710.md "wikilink") 같이 HD160 과 HD170 이 출시 이후, [1982년](../Page/1982년.md "wikilink") [1월](../Page/1월.md "wikilink")에 후속모델인 [FB485에게](../Page/현대_FB.md "wikilink") 물려주고 단종된 프론트엔진 대형 버스 차종이다.

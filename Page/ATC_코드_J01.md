@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ATC  J01](https://ko.wikipedia.org/wiki/ATC__J01).
+> This article is converted from Wikipedia: [ATC 코드 J01](https://ko.wikipedia.org/wiki/ATC_코드_J01).
 
 
 **ATC 코드 J01**는 [ATC 코드의](https://ko.wikipedia.org/wiki/ATC_코드 "wikilink") 전신작용 항생제로 작용하는 약물을 정리한 코드이다. \[1\] **ATC 코드** J 전신작용 항감염제의 하위그룹을 이룬다.

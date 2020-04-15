@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ CF](https://ko.wikipedia.org/wiki/_CF).
+> This article is converted from Wikipedia: [엘체 CF](https://ko.wikipedia.org/wiki/엘체_CF).
 
 
 **엘체 CF**(Elche Club de Fútbol, S.A.D.)는 [스페인](../Page/스페인.md "wikilink") [발렌시아 지방의](https://ko.wikipedia.org/wiki/발렌시아_지방 "wikilink") 도시인 [엘체](../Page/엘체.md "wikilink")를 연고로 하는 [축구](../Page/축구.md "wikilink") 클럽이다. 이 클럽은 [1923년](../Page/1923년.md "wikilink")에 창단되었다.

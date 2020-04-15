@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [     IV](https://ko.wikipedia.org/wiki/_____IV).
+> This article is converted from Wikipedia: [히어로즈 오브 마이트 앤 매직 IV](https://ko.wikipedia.org/wiki/히어로즈_오브_마이트_앤_매직_IV).
 
 
 **히어로즈 오브 마이트 앤 매직 IV**(Heroes of Might and Magic IV, HoMM4)는 [히어로즈 오브 마이트 앤 매직](../Page/히어로즈_오브_마이트_앤_매직.md "wikilink") 시리즈의 네 번째 작품이다.

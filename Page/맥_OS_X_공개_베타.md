@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ OS X  ](https://ko.wikipedia.org/wiki/_OS_X__).
+> This article is converted from Wikipedia: [맥 OS X 공개 베타](https://ko.wikipedia.org/wiki/맥_OS_X_공개_베타).
 
 
 **맥 OS X 공개 베타**(Mac OS X Public Beta, 코드이름: Kodiak)는 [애플 컴퓨터의](https://ko.wikipedia.org/wiki/애플_\(기업\) "wikilink") [맥 OS X](https://ko.wikipedia.org/wiki/맥_OS_X "wikilink") [운영 체제](../Page/운영_체제.md "wikilink") 치타의 초기 [베타](../Page/소프트웨어_테스트.md "wikilink") 버전이다. 2000년 9월 13일 29.95 [달러로](../Page/미국_달러.md "wikilink") 대중에게 공개되었다. [소프트웨어 개발자와](https://ko.wikipedia.org/wiki/소프트웨어_개발자 "wikilink") 얼리 어댑터들이 새로 나올 운영 체제의 미리 보기 버전을 테스트하고 최종 출시에 앞서 차기 운영 체제의 소프트웨어를 개발할 수 있게 하였다. 빌드 번호는 1H39였다.\[1\]

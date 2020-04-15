@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ H. ](https://ko.wikipedia.org/wiki/_H._).
+> This article is converted from Wikipedia: [윌리엄 H. 수어드](https://ko.wikipedia.org/wiki/윌리엄_H._수어드).
 
 
 **윌리엄 헨리 수어드**(William Henry Seward, [1801년](../Page/1801년.md "wikilink") [5월 16일](../Page/5월_16일.md "wikilink") \~ [1872년](../Page/1872년.md "wikilink") [10월 10일](../Page/10월_10일.md "wikilink"))는 [에이브러햄 링컨과](../Page/에이브러햄_링컨.md "wikilink") [앤드루 존슨](../Page/앤드루_존슨.md "wikilink") 정권 아래 [국무장관](https://ko.wikipedia.org/wiki/미국_국무장관 "wikilink")(1861년 \~ 1869년)을 지낸 [미국](../Page/미국.md "wikilink")의 [공화당](https://ko.wikipedia.org/wiki/공화당_\(미국\) "wikilink") 정치인으로 [미국 남북 전쟁](../Page/미국_남북_전쟁.md "wikilink") 시기를 통하여 중요한 정치적 인물이었다. 전쟁이 일어나는 동안 그는 국무장관으로서 링컨 대통령 행정부에 가입하여 링컨이 가장 신임하는 조언자들 중의 하나가 되었다. 수어드는 남부 제주의 재통합기([남부의](../Page/미국_남부.md "wikilink") 주들이 재건되고 합중국에 가입한 1865년부터 1877년까지의 시기)의 첫 세월을 통하여 국무장관으로서 자신의 직위에 남아있었다. 이 시기 동안 수어드는 존슨과 남부에 향한 그의 관대한 정책들을 후원하였고, [러시아](../Page/러시아.md "wikilink")로부터 [알래스카 매매를](../Page/알래스카_매매.md "wikilink") 협상하였다.
@@ -19,7 +19,7 @@
 
 ## 뉴욕주지사 시절
 
-[thumb](https://ko.wikipedia.org/wiki/파일:WSeward.png "wikilink") 시절의 수어드의 초상화\]\] 수어드는 [1839년](../Page/1839년.md "wikilink")부터 [1843년](../Page/1843년.md "wikilink")까지 2개의 기간들을 위하여 뉴욕주지사를 지냈다. 이 시간 동안 그는 [교육](../Page/교육.md "wikilink")을 향상시키고, 경제적 발전을 늘이고, 주의 [운하](../Page/운하.md "wikilink")와 [철도](../Page/철도.md "wikilink") 조직들을 확장시키며 [교도소](../Page/교도소.md "wikilink")들에서 상태를 향상시키는 데 자신의 노력들로 넓게 알려지게 되었다. 그는 예를 들어 [이민자](https://ko.wikipedia.org/wiki/이민자 "wikilink") 어린이들을 위한 교육적 기회들을 확장시키는 데 열심히 일하고, 뉴욕주 교도소 조직에서 무서운 상태들을 경감하는 데 노력하였다.
+[thumb](https://ko.wikipedia.org/wiki/파일:WSeward.png "wikilink") 시절의 수어드의 초상화\]\] 수어드는 [1839년](../Page/1839년.md "wikilink")부터 [1843년](../Page/1843년.md "wikilink")까지 2개의 기간들을 위하여 뉴욕주지사를 지냈다. 이 시간 동안 그는 [교육](../Page/교육.md "wikilink")을 향상시키고, 경제적 발전을 늘이고, 주의 [운하](../Page/운하.md "wikilink")와 [철도](../Page/철도.md "wikilink") 조직들을 확장시키며 [교도소](../Page/교도소.md "wikilink")들에서 상태를 향상시키는 데 자신의 노력들로 넓게 알려지게 되었다. 그는 예를 들어 [이민](https://ko.wikipedia.org/wiki/이민 "wikilink")자 어린이들을 위한 교육적 기회들을 확장시키는 데 열심히 일하고, 뉴욕주 교도소 조직에서 무서운 상태들을 경감하는 데 노력하였다.
 
 수어드의 [노예제](../Page/노예제.md "wikilink")에 반대도 또한 이 시기 동안에 증거가 되기도 하였다. 그는 자유 흑인과 도망 노예들 둘다의 인권을 늘인 법안들을 보증하였고, 교육을 얻는 데 흑인 어린이들을 위하여 더욱 쉽게 만드는 법률들을 바꾸었다. 노예제에 수어드의 전망들이 그가 [버지니아주](../Page/버지니아주.md "wikilink")의 노예 주인들과 쓰라린 결투에 들어갈 때 더욱 잘 알려지게 되었다.
 

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [MBN ](https://ko.wikipedia.org/wiki/MBN_).
+> This article is converted from Wikipedia: [MBN 뉴스와이드](https://ko.wikipedia.org/wiki/MBN_뉴스와이드).
 
 
 **MBN 뉴스와이드**(MBN NEWSWIDE)는 [대한민국](../Page/대한민국.md "wikilink")에서 [평일](https://ko.wikipedia.org/wiki/평일 "wikilink") 저녁 6시 10분부터 7시 30분에 방송되는 [매일방송의 뉴스 프로그램이다](../Page/매일방송의_뉴스_프로그램.md "wikilink").

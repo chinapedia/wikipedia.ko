@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ T. ](https://ko.wikipedia.org/wiki/_T._).
+> This article is converted from Wikipedia: [존 T. 월턴](https://ko.wikipedia.org/wiki/존_T._월턴).
 
 
 **존 토머스 월턴**(John Thomas Walton, [1946년](../Page/1946년.md "wikilink") [10월 8일](../Page/10월_8일.md "wikilink") \~ [2005년](../Page/2005년.md "wikilink") [6월 27일](../Page/6월_27일.md "wikilink"))은 [미국](../Page/미국.md "wikilink")의 군인이자 기업인이다. [월마트](../Page/월마트.md "wikilink")의 창립자 [샘 월턴의](../Page/샘_월턴.md "wikilink") 아들로 《[포브스](../Page/포브스.md "wikilink")》에서 발표한 생전 재산은 182억 달러로 동생 [짐 월턴과](https://ko.wikipedia.org/wiki/짐_월턴 "wikilink") 함께 미국에서 4번째로 부유한 사람으로 기록되었다.\[1\]

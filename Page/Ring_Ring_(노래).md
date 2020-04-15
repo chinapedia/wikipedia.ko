@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Ring Ring \(\)](https://ko.wikipedia.org/wiki/Ring_Ring_\(\)).
+> This article is converted from Wikipedia: [Ring Ring \(노래\)](https://ko.wikipedia.org/wiki/Ring_Ring_\(노래\)).
 
 
 \<**Ring Ring**\>은 [아바](https://ko.wikipedia.org/wiki/아바 "wikilink")의 1973년 싱글곡으로, 몇몇 유럽국에서 이들이 알려진 큰 계기가 되었다(다른 유럽국들이나 북미, 호주 등지에서는 그 다음 해에 알려졌다). <Ring Ring>은 원래 스웨덴인인 [베니 안데르손과](https://ko.wikipedia.org/wiki/베니_안데르손 "wikilink") [뵈른 울바에우스](https://ko.wikipedia.org/wiki/뵈른_울바에우스 "wikilink"), 그리고 매니저인 [스티그 안데르손이](https://ko.wikipedia.org/wiki/스티그_안데르손 "wikilink") 함께 썼으며, 영어 가사는 [닐 세다카와](../Page/닐_세다카.md "wikilink") [필 코디의](https://ko.wikipedia.org/wiki/필_코디 "wikilink") 도움으로 번안되었다. 스웨덴어 버전은 스웨덴 차트에서 1위를 기록했다.

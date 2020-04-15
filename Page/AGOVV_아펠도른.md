@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [AGOVV ](https://ko.wikipedia.org/wiki/AGOVV_).
+> This article is converted from Wikipedia: [AGOVV 아펠도른](https://ko.wikipedia.org/wiki/AGOVV_아펠도른).
 
 
 **AGOVV 아펠도른**(AGOVV Apeldoorn)은 [1913년](../Page/1913년.md "wikilink") [2월 25일에](../Page/2월_25일.md "wikilink") 창단된 [네덜란드](../Page/네덜란드.md "wikilink") [아펠도른](../Page/아펠도른.md "wikilink")의 축구 클럽이었다.

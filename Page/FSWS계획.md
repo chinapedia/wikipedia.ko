@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FSWS](https://ko.wikipedia.org/wiki/FSWS).
+> This article is converted from Wikipedia: [FSWS계획](https://ko.wikipedia.org/wiki/FSWS계획).
 
 
 **FSWS계획** (에프에스더블유에스계획,*' FSWS PROJECT*')는, [애니메이션](../Page/애니메이션.md "wikilink") "[기동전사 건담](../Page/기동전사_건담.md "wikilink")"에서 발단이 된 [프라모델](../Page/프라모델.md "wikilink")([건프라](../Page/건프라.md "wikilink"))을 중심으로 하는 기획 "[모빌슈트 배리에이션](https://ko.wikipedia.org/wiki/건담_시리즈에_등장하는_병기_목록#MSV_\(Mobile_Suit_Variation\) "wikilink")" (MSV)등에 등장하는, [가공](https://ko.wikipedia.org/wiki/가공 "wikilink")의 군사계획. [지구연방군](https://ko.wikipedia.org/wiki/지구연방군 "wikilink")의 병기개발 계획이다.

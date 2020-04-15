@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [F. R. ](https://ko.wikipedia.org/wiki/F._R._).
+> This article is converted from Wikipedia: [F. R. 데이비드](https://ko.wikipedia.org/wiki/F._R._데이비드).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:FRDavid_cpr.jpg "wikilink") F. R. 데이비드(F. R. David, 본명: Robert Fitoussi, 1947년 1월 1일)는 튀니지계 프랑스인 [싱어송라이터](https://ko.wikipedia.org/wiki/싱어송라이터 "wikilink") 겸 팝 가수이다. 이 가수는 '사랑한다는 표현을 말로 옮기기 어렵다'는 가사의 싱글 'Words'와 '음악이 나를 슬프게 한다'는 'Music'을 히트시키고 계속해서 하드 록 풍 댄스곡 'Pick Up The Phone'으로 그 상승세를 도합 몇 년간 지속했다. 그의 첫 번째 음반은 한국의 예음사에서 발매되어 당시 십만장 이상의 LP 판매고를 올렸다.

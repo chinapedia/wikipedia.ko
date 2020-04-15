@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ A    ](https://ko.wikipedia.org/wiki/_A____).
+> This article is converted from Wikipedia: [트리플 A 베이스볼 내셔널 챔피언십 게임](https://ko.wikipedia.org/wiki/트리플_A_베이스볼_내셔널_챔피언십_게임).
 
 
 **트리플 A 베이스볼 내셔널 챔피언십**(Triple-A Baseball National Championship Game, 전 **브락타운 쇼다운**)은 미국 [마이너 리그](../Page/마이너_리그_베이스볼.md "wikilink") 트리플 A의 서부 리그인 [퍼시픽 코스트 리그와](../Page/퍼시픽_코스트_리그.md "wikilink") 동부 리그인 [인터내셔널 리그의](../Page/인터내셔널_리그.md "wikilink") 통합 챔피언을 가리기 위한 경기로, 2006년부터 진행된 마이너 리그의 포스트 시즌 경기이다. 2006년부터 5년간은 [오클라호마](https://ko.wikipedia.org/wiki/오클라호마 "wikilink")에 위치한 오클라호마 시티 레드호크스의 홈구장 AT\&T 브릭타운 볼파크에서 진행되었으나 2011년부터는 매년 다른 지역에서 진행되고 있다. 2006년부터 2008년까지는 **브락타운 쇼다운**라는 이름으로 진행되었으나, 2009년부터 현재의 명칭으로 변경되었다.

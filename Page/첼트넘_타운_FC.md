@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  FC](https://ko.wikipedia.org/wiki/__FC).
+> This article is converted from Wikipedia: [첼트넘 타운 FC](https://ko.wikipedia.org/wiki/첼트넘_타운_FC).
 
 
 **첼트넘 타운 FC**(Cheltenham Town Football Club)는 [잉글랜드](../Page/잉글랜드.md "wikilink") [글로스터셔주](../Page/글로스터셔주.md "wikilink") [첼트넘](../Page/첼트넘.md "wikilink")을 연고로 하는 축구 클럽이다.

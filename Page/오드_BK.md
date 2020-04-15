@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ BK](https://ko.wikipedia.org/wiki/_BK).
+> This article is converted from Wikipedia: [오드 BK](https://ko.wikipedia.org/wiki/오드_BK).
 
 
 **오드 그렌란**(Odd Grenland)은 [1894년](../Page/1894년.md "wikilink") [3월 31일에](../Page/3월_31일.md "wikilink") 창단된 [노르웨이](../Page/노르웨이.md "wikilink") [시엔](../Page/시엔.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽으로, 현재 [티펠리겐](https://ko.wikipedia.org/wiki/티펠리겐 "wikilink")에서 활동하고 있다.

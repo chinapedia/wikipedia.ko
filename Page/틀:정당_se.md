@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [: se](https://ko.wikipedia.org/wiki/:_se).
+> This article is converted from Wikipedia: [틀:정당 se](https://ko.wikipedia.org/wiki/틀:정당_se).
 
 
 <includeonly>{{\#switch: |

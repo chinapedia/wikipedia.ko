@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [GM ](https://ko.wikipedia.org/wiki/GM_).
+> This article is converted from Wikipedia: [GM대우 젠트라](https://ko.wikipedia.org/wiki/GM대우_젠트라).
 
 
 **GM대우 젠트라**(GM Daewoo Gentra)는 [GM대우(한국GM의 전신)의](https://ko.wikipedia.org/wiki/한국GM "wikilink") 승용차이다. [칼로스의](../Page/GM대우_칼로스.md "wikilink") 페이스 리프트 차종이며, 이름은 '온화하고 세련된'을 뜻하는 영단어 'Gentle'에서 따왔다.

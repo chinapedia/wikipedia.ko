@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FC ](https://ko.wikipedia.org/wiki/FC_).
+> This article is converted from Wikipedia: [FC 덴보스](https://ko.wikipedia.org/wiki/FC_덴보스).
 
 
 **FC 덴보스**(Football Club Den Bosch)는 [1965년](../Page/1965년.md "wikilink") [8월 18일에](../Page/8월_18일.md "wikilink") 창단된 [네덜란드](../Page/네덜란드.md "wikilink") [스헤르토헨보스](https://ko.wikipedia.org/wiki/스헤르토헨보스 "wikilink")의 축구 클럽으로, 현재 [에이르스터 디비시에서](../Page/에이르스터_디비시.md "wikilink") 활동하고 있다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ -O](https://ko.wikipedia.org/wiki/_-O).
+> This article is converted from Wikipedia: [하와이 파이브-O](https://ko.wikipedia.org/wiki/하와이_파이브-O).
 
 
 **하와이 파이브-오** (**Hawaii Five-O**, 하와이 5-0 수사대)는 미국의 수사 드라마로 [1968년](../Page/1968년.md "wikilink")부터 [1980년](../Page/1980년.md "wikilink")까지 [미국](../Page/미국.md "wikilink")의 [CBS에서](https://ko.wikipedia.org/wiki/CBS_\(미국_방송사\) "wikilink") 방영된 TV 시리즈이다. 12개의 시즌과 279개의 에피소드가 방영되었고, 인기 있던 드라마중 하나였다. 특히 드라마중 "Book 'em, Danno" (체포해, 대노) 라는 대사는 당시 인기있는 명대사였고 [리메이크 작에도](../Page/하와이_파이브-0.md "wikilink") 자주 등장하는 대사이다. [2010년](../Page/2010년.md "wikilink")에 하와이 파이브-오의 [리메이크작이](../Page/하와이_파이브-0.md "wikilink") 같은 방송사인 [CBS에서](https://ko.wikipedia.org/wiki/CBS_\(미국_방송사\) "wikilink") 방영을 시작하여 현재 시즌 1이 끝났다.

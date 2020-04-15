@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Geobox2 list fold](https://ko.wikipedia.org/wiki/:Geobox2_list_fold).
+> This article is converted from Wikipedia: [틀:Geobox2 list fold](https://ko.wikipedia.org/wiki/틀:Geobox2_list_fold).
 
 
 <includeonly>{{\#if:  | title="{{\#if: |  |  }}"}} {{\#if:  | {{\!}} | \! }} style="" {{\!}} {{\#if:  |  -  }}{{\#if:  |  |  }} {{\!}}

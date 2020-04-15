@@ -19,6 +19,7 @@
   - [2015년](../Page/2015년.md "wikilink") [10월 29일](../Page/10월_29일.md "wikilink") 신임 대표이사 사장 김명전 취임
   - [2018년](../Page/2018년.md "wikilink") [2월 14일](../Page/2월_14일.md "wikilink") KT스카이라이프 위성방송 론칭
   - [2018년](../Page/2018년.md "wikilink") [7월 11일](../Page/7월_11일.md "wikilink") GOODTV 뉴욕지사 개국
+  - [2020년](../Page/2020년.md "wikilink") [4월 6일](../Page/4월_6일.md "wikilink") [LG생활건강](../Page/LG생활건강.md "wikilink") 풍미모락 봄 개편 단행
 
 ## 외부 링크
 

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ OB1 ](https://ko.wikipedia.org/wiki/_OB1_).
+> This article is converted from Wikipedia: [오리온자리 OB1 성협](https://ko.wikipedia.org/wiki/오리온자리_OB1_성협).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Orion_OB1_&_25_Ori_Group.png "wikilink")

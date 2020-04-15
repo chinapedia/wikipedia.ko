@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
+> This article is converted from Wikipedia: [모컴 FC](https://ko.wikipedia.org/wiki/모컴_FC).
 
 
 **모컴 FC**(Morecambe Football Club)는 [잉글랜드](../Page/잉글랜드.md "wikilink") [랭커셔주](https://ko.wikipedia.org/wiki/랭커셔주 "wikilink") 모컴을 연고로 하는 축구 클럽이다.

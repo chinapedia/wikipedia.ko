@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Where You Are \( \)](https://ko.wikipedia.org/wiki/Where_You_Are_\(_\)).
+> This article is converted from Wikipedia: [Where You Are \(씨엔블루의 노래\)](https://ko.wikipedia.org/wiki/Where_You_Are_\(씨엔블루의_노래\)).
 
 
 "**Where you are**"는 그룹 [씨엔블루](../Page/씨엔블루.md "wikilink")의 두 번째 메이저 싱글앨범으로, [2012년](../Page/2012년.md "wikilink") [2월 1일](../Page/2월_1일.md "wikilink") [일본](../Page/일본.md "wikilink")에서 발매되었다. 지난 해 성공적인 메이저 데뷔를 마친 후, 드디어 두 번째 메이저 싱글앨범을 발표하였다. 첫 날 3만 2천여장의 판매량을 기록하며, 오리콘 싱글 데일리 차트 1위를 기록하였다.\[1\]\[2\] 두 번째 메이저 음반 발매 기념으로 한 이벤트에 1만2000여명이 참가하여 인산인해를 이루었다.\[3\] 또한, 오리콘 싱글 위클리 차트에 일주일 만에 6만장 이상을 팔아 치우며 일본 메이저 데뷔 4개월만에 [오리콘 싱글 위클리 차트 1위를](../Page/2012년_오리콘_1위_싱글_목록.md "wikilink") 달성했다. 또한, 오리콘 싱글차트 역사상 해외밴드가 1위를 달성한 것은 1971년 이후 41년만에 오리콘 싱글 위클리 차트 정상을 차지하게 되었다.\[4\]\[5\]\[6\]

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ EF 85mm ](https://ko.wikipedia.org/wiki/_EF_85mm_).
+> This article is converted from Wikipedia: [캐논 EF 85mm 렌즈](https://ko.wikipedia.org/wiki/캐논_EF_85mm_렌즈).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Canon_85mm_comparison_\(front\).jpg "wikilink") **캐논 EF 85mm 렌즈**는 [캐논](../Page/캐논.md "wikilink")에서 생산한 [초점거리](https://ko.wikipedia.org/wiki/초점거리 "wikilink") 85mm의 [EF 마운트](../Page/캐논_EF_마운트.md "wikilink") 준망원 [단렌즈](https://ko.wikipedia.org/wiki/단렌즈 "wikilink")를 말한다. 다음과 같은 종류가 있다.

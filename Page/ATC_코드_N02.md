@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ATC  N02](https://ko.wikipedia.org/wiki/ATC__N02).
+> This article is converted from Wikipedia: [ATC 코드 N02](https://ko.wikipedia.org/wiki/ATC_코드_N02).
 
 
 **ATC 코드 N02**는 [ATC 코드의](https://ko.wikipedia.org/wiki/ATC_코드 "wikilink") 진통제로 작용하는 약물을 정리한 코드이다. \[1\] **ATC 코드** N 신경계의 하위그룹을 이룬다.

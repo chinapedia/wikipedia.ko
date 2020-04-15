@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ATC  M03](https://ko.wikipedia.org/wiki/ATC__M03).
+> This article is converted from Wikipedia: [ATC 코드 M03](https://ko.wikipedia.org/wiki/ATC_코드_M03).
 
 
 **ATC 코드 M03**은 [ATC 코드의](https://ko.wikipedia.org/wiki/ATC_코드 "wikilink") 근이완제로 사용하는 약물을 정리한 코드이다. \[1\] **ATC 코드** M 근골격계의 하위그룹을 이룬다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [E     ](https://ko.wikipedia.org/wiki/E_____).
+> This article is converted from Wikipedia: [E스포츠 스타크래프트 브루드 워 명예의 전당](https://ko.wikipedia.org/wiki/E스포츠_스타크래프트_브루드_워_명예의_전당).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Starcraft_brood_war_hall_of_fame.jpg "wikilink") **e스포츠 스타크래프트 브루드 워 명예의 전당**은 2012년 8월 [한국e스포츠협회](../Page/한국e스포츠협회.md "wikilink")가 제정한 모임이다.
@@ -411,7 +411,7 @@
 <td><div style="font-size:80%">
 <p><strong><a href="../Page/김택용.md" title="wikilink">김택용</a></strong></p></td>
 <td><div style="font-size:80%">
-<p>없음 (최고성적 : 3위)</p></td>
+<p>없음</p></td>
 <td><div style="font-size:80%">
 <p>3회 우승, 1회 준우승</p></td>
 <td><div style="font-size:80%">

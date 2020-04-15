@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FC  ](https://ko.wikipedia.org/wiki/FC__).
+> This article is converted from Wikipedia: [FC 로토르 볼고그라드](https://ko.wikipedia.org/wiki/FC_로토르_볼고그라드).
 
 
 **FC 로토르 볼고그라드**(, )는 [러시아](../Page/러시아.md "wikilink") [볼고그라드](../Page/볼고그라드.md "wikilink")의 [축구](../Page/축구.md "wikilink") 팀이다.
@@ -28,7 +28,7 @@
 
 ## 외부 링크
 
-  - [공식 홈페이지](http://www.rotor-vlg.ru)
+  - [공식 홈페이지](https://web.archive.org/web/20191211102555/https://rotor-vlg.ru/)
 
   - [서포터 홈페이지](http://www.rotor-volgograd.ru)
 

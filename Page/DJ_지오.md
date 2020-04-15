@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [DJ ](https://ko.wikipedia.org/wiki/DJ_).
+> This article is converted from Wikipedia: [DJ 지오](https://ko.wikipedia.org/wiki/DJ_지오).
 
 
 **DJ 지오**(DJ Zio, , [1980년](../Page/1980년.md "wikilink") [7월 24일](../Page/7월_24일.md "wikilink") \~ )은 [대한민국](../Page/대한민국.md "wikilink")의 [힙합](../Page/힙합.md "wikilink") 래퍼 및 작곡가이다. a.k.a는 **Human Turntable**이다. 형제 힙합 듀오 [프리스타일](https://ko.wikipedia.org/wiki/프리스타일 "wikilink")의 멤버로 활동하고 있다. 디제이 지오 (DJ Zio)란 이름은 본명 최지호를 발음 그대로 읽어 만든 이름이다.

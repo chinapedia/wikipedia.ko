@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:CBL   ](https://ko.wikipedia.org/wiki/:CBL___).
+> This article is converted from Wikipedia: [틀:CBL 챔피언 시리즈 정보](https://ko.wikipedia.org/wiki/틀:CBL_챔피언_시리즈_정보).
 
 
 <onlyinclude>{| class="infobox" style="font-size: 80%;" |- | colspan="2" style="background:\#e6e9ff; text-align:center; font-size: medium;" | **년 CBL 챔피언 시리즈 정보** |- style="text-align: center;" {{\#if:| {{\!}} colspan="2" {{\!}} }} |- | style="text-align:center;" colspan="2" |

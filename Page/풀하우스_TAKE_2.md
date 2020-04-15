@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ TAKE 2](https://ko.wikipedia.org/wiki/_TAKE_2).
+> This article is converted from Wikipedia: [풀하우스 TAKE 2](https://ko.wikipedia.org/wiki/풀하우스_TAKE_2).
 
 
 《**풀하우스 테이크 2**》(또는 **풀하우스 2**)는 2012년 대한민국과 일본이 공동 제작한 [텔레비전 드라마이다](../Page/텔레비전_드라마.md "wikilink"). 2004년에 방송된 드라마 《[풀하우스](../Page/풀하우스_\(드라마\).md "wikilink")》의 후속작이며, 2012년 10월 5일부터 일본에서의 방송을 시작하였다. 국내에서는 [SBS 플러스를](../Page/SBS_플러스.md "wikilink") 통해 2012년 10월 22일부터 방송되었다.\[1\]

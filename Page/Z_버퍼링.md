@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Z ](https://ko.wikipedia.org/wiki/Z_).
+> This article is converted from Wikipedia: [Z 버퍼링](https://ko.wikipedia.org/wiki/Z_버퍼링).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Z_buffer.svg "wikilink") [컴퓨터 그래픽스에서](../Page/컴퓨터_그래픽스.md "wikilink") **Z 버퍼링**(z-buffering)은 3차원 그래픽스의 이미지 심도 좌표 관리 방식이며, 일반적으로는 [하드웨어적으로](../Page/컴퓨터_하드웨어.md "wikilink") 처리되나 이따금은 [소프트웨어로](https://ko.wikipedia.org/wiki/컴퓨터_소프트웨어 "wikilink") 처리되기도 한다. 어느 물체를 보이게 할지 말아야 할지에 대한 가시도 문제의 한 해결책으로 쓰이기도 한다. [화가 알고리즘은](../Page/화가_알고리즘.md "wikilink") 덜 효율적이긴 하나 또다른 보편적 해결책으로 쓰이고 불투명 화면 요소를 관리할 수도 있다.

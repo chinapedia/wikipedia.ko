@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [NRG ](https://ko.wikipedia.org/wiki/NRG_).
+> This article is converted from Wikipedia: [NRG 스타디움](https://ko.wikipedia.org/wiki/NRG_스타디움).
 
 
 **NRG 스타디움**(NRG Stadium)은 미국의 다목적 경기장이다. [미국](../Page/미국.md "wikilink") [미식축구](../Page/미식축구.md "wikilink") 경기장 가운데 최초로 개폐식 지붕을 가진 경기장이다. [2000년](../Page/2000년.md "wikilink") [릴라이언트 에너지가](https://ko.wikipedia.org/wiki/릴라이언트_에너지 "wikilink") 300만 달러에 32년간 명명권 권리를 매입했으며, 2009년 NRG사가 릴라이언트 에너지를 인수하면서 경기장이름도 NRG 스타디움으로 변경되었다.

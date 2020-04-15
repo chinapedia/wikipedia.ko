@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ EEZ ](https://ko.wikipedia.org/wiki/_EEZ_).
+> This article is converted from Wikipedia: [동중국해 EEZ 분쟁](https://ko.wikipedia.org/wiki/동중국해_EEZ_분쟁).
 
 
 **동중국해 EEZ 분쟁**(東中國海 排他的經濟水域 紛爭, )은 [동중국해](../Page/동중국해.md "wikilink")의 [배타적 경제 수역](../Page/배타적_경제_수역.md "wikilink") 획정과 관련한 한국, 중국, 일본의 국경선 획정 분쟁이다. 동중국해에는 막대한 천연가스와 석유가 매장되어 있다고 알려져 있어서, 한중일 삼국의 영해분쟁이 치열하다.

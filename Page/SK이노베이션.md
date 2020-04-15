@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SK](https://ko.wikipedia.org/wiki/SK).
+> This article is converted from Wikipedia: [SK이노베이션](https://ko.wikipedia.org/wiki/SK이노베이션).
 
 
 **SK이노베이션**은 1962년 대한석유공사에 설립되었으며, 1982년 주식회사 유공으로 변경하였으며, 이후 1998년 SK주식회사를 변경되었으나, SK에너지의 종합 계열사였으나, SK이노베이션으로 변경한다. SK이노베이션 대한민국을 대표하는 에너지·화학 기업이자 산하에 6개 자회사 및 2개 사업 단위를 두고 있는, SK그룹의 석유화학사업부문의 중간 지주회사입니다. 본사는 [서울특별시](../Page/서울특별시.md "wikilink") [종로구](../Page/종로구.md "wikilink") [종로](../Page/종로_\(서울\).md "wikilink") 26 (서린동)에 있다. [섬네일](https://ko.wikipedia.org/wiki/파일:Sk서린빌딩.jpg "wikilink")

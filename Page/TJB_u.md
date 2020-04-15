@@ -9,11 +9,45 @@
 
 ## 채널 구성
 
-| 앙상블명      | 채널명          | 송출형식         | 전송속도    | 자체/임대     | 비고    |
-| --------- | ------------ | ------------ | ------- | --------- | ----- |
-| TJB u     | TJB-CJBu     | 비디오 채널 (DMB) | 512kbps | 자체        | 자체 운영 |
-| CJB-mYTN  | 비디오 채널 (DMB) | 512kbps      | 자체 운영   |           |       |
-| TPEG(DTS) | 데이터 채널       | 64kbps       | 임대      | *채널명 미확인* |       |
+<table>
+<thead>
+<tr class="header">
+<th><p>조합명</p></th>
+<th><p>채널명</p></th>
+<th><p>송출 형식</p></th>
+<th><p>전송 속도</p></th>
+<th><p>운영 방식</p></th>
+<th><p>비고</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>TJB u</p></td>
+<td><p>TJB-CJBu</p></td>
+<td><p>비디오 채널<br />
+(DMB)</p></td>
+<td><p>512kbps</p></td>
+<td><p>자체</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>CJB-mYTN</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>TPEG(DTS)</p></td>
+<td><p>데이터 채널</p></td>
+<td><p>64kbps</p></td>
+<td><p>임대</p></td>
+<td><p><em>채널명 미확인</em></p></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 ### 비디오 채널
 

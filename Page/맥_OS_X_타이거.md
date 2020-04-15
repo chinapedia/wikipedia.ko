@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ OS X ](https://ko.wikipedia.org/wiki/_OS_X_).
+> This article is converted from Wikipedia: [맥 OS X 타이거](https://ko.wikipedia.org/wiki/맥_OS_X_타이거).
 
 
 **맥 OS X 타이거**(Mac OS X Tiger, 버전 10.4)는 애플의 [매킨토시](../Page/매킨토시.md "wikilink") 컴퓨터를 위한 [데스크톱](../Page/데스크톱_컴퓨터.md "wikilink") 및 서버 [운영 체제인](../Page/운영_체제.md "wikilink") [맥 OS X의](https://ko.wikipedia.org/wiki/맥_OS_X "wikilink") 다섯 번째 주요 릴리즈이다. 타이거는 [맥 OS X 팬서의](https://ko.wikipedia.org/wiki/맥_OS_X_팬서 "wikilink") 후속작으로, [2005년](../Page/2005년.md "wikilink") 4월 29일 129.95달러로 공개적으로 출시되었다. 타이거의 다음 버전은 [맥 OS X 레퍼드이고](../Page/맥_OS_X_레퍼드.md "wikilink"), [2007년](../Page/2007년.md "wikilink") 10월 26일 출시되었다.\[1\] 타이거의 새로운 기능은 스팟라이트라 불리는 빠른 검색 시스템, 새로운 버전의 [사파리](../Page/사파리_\(웹_브라우저\).md "wikilink"), 대시보드, 새로운 통합 테마, 강화된 파워 맥 G5 [64비트](../Page/64비트.md "wikilink") 어드레싱 지원 등이 있다.

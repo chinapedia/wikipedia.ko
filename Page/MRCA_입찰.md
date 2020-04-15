@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [MRCA ](https://ko.wikipedia.org/wiki/MRCA_).
+> This article is converted from Wikipedia: [MRCA 입찰](https://ko.wikipedia.org/wiki/MRCA_입찰).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:India_MRCA-6.png "wikilink") **MRCA 입찰**(Indian MRCA competition / MMRCA(Medium Multi-Role Combat Aircraft) competition)은 [인도](../Page/인도.md "wikilink")의 중형 다목적 전투기 사업이다. 한화 10조원 규모의 126대의 전투기 구매사업이며, 6개 기종이 경쟁했다. 인도는 [다소 라팔과](../Page/다소_라팔.md "wikilink") [유로파이터 타이푼으로](../Page/유로파이터_타이푼.md "wikilink") 경쟁을 압축했다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ICOOP](https://ko.wikipedia.org/wiki/ICOOP).
+> This article is converted from Wikipedia: [ICOOP생협](https://ko.wikipedia.org/wiki/ICOOP생협).
 
 
 **아이쿱생협(iCOOP생협)**은 소비자 조합원과 생산자가 함께 운영하는 사업체를 기반으로 윤리적 소비와 생산을 실천하는 협동조합이다. 조합원의 참여와 협동을 통해 생활 속의 요구와 문제에 대한 대안을 운동과 사업으로 만들어가며, 조합원이 직접 상품을 선정하고, 투명한 정보 공개, 합리적인 관리시스템으로 한국 사회의 식품 기준을 높여간다. 아이쿱생협은 생협의 모든 구성원들이 함께 행복한 삶을 위해 '나와 이웃과 지구를 살리는' 윤리적 소비를 실천한다.

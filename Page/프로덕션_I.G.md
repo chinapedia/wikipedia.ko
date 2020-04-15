@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ I.G](https://ko.wikipedia.org/wiki/_I.G).
+> This article is converted from Wikipedia: [프로덕션 I.G](https://ko.wikipedia.org/wiki/프로덕션_I.G).
 
 
 **프로덕션 I.G**(, )은 [일본](../Page/일본.md "wikilink")의 [애니메이션](../Page/애니메이션.md "wikilink") 제작사이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ POI](https://ko.wikipedia.org/wiki/_POI).
+> This article is converted from Wikipedia: [아파치 POI](https://ko.wikipedia.org/wiki/아파치_POI).
 
 
 **아파치 POI**()는 [아파치 소프트웨어 재단에서](../Page/아파치_소프트웨어_재단.md "wikilink") 만든 라이브러리로서 [마이크로소프트 오피스](../Page/마이크로소프트_오피스.md "wikilink") [파일 포맷을](https://ko.wikipedia.org/wiki/파일_포맷 "wikilink") 순수 [자바](../Page/자바_\(프로그래밍_언어\).md "wikilink") 언어로서 읽고 쓰는 기능을 제공한다. 주로 [워드](../Page/마이크로소프트_워드.md "wikilink"), [엑셀](https://ko.wikipedia.org/wiki/엑셀 "wikilink"), [파워포인트](https://ko.wikipedia.org/wiki/파워포인트 "wikilink")와 파일을 지원하며 최근의 오피스 포맷인 Office Open XML File Formats \[1\] (OOXML, 즉 xml 기반의 \*.docx, \*.xlsx, \*.pptx 등) 이나 [아웃룩](../Page/마이크로소프트_아웃룩.md "wikilink"), [비지오](../Page/마이크로소프트_비지오.md "wikilink"), [퍼블리셔](https://ko.wikipedia.org/wiki/퍼블리셔 "wikilink") 등으로 지원 파일 포맷을 늘려가고 있다.

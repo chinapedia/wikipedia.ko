@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ATC  D09](https://ko.wikipedia.org/wiki/ATC__D09).
+> This article is converted from Wikipedia: [ATC 코드 D09](https://ko.wikipedia.org/wiki/ATC_코드_D09).
 
 
 **ATC 코드 D09**는 [ATC 코드의](https://ko.wikipedia.org/wiki/ATC_코드 "wikilink") 약제가 든 드레싱(dressing)제제로 작용하는 약물을 정리한 코드이다. \[1\] **ATC 코드** D 피부과의 하위그룹을 이룬다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ P. ](https://ko.wikipedia.org/wiki/_P._).
+> This article is converted from Wikipedia: [카를로스 P. 가르시아](https://ko.wikipedia.org/wiki/카를로스_P._가르시아).
 
 
 **카를로스 폴리스티코 가르시아**(, [1896년](../Page/1896년.md "wikilink") [11월 4일](../Page/11월_4일.md "wikilink") \~ [1971년](../Page/1971년.md "wikilink") [6월 14일](../Page/6월_14일.md "wikilink"))는 [필리핀](../Page/필리핀.md "wikilink")의 교사, 시인, 웅변가, 법률가, 정치인으로, [필리핀](../Page/필리핀.md "wikilink")의 제8대 대통령이기도 했다. 그는 [필리핀](../Page/필리핀.md "wikilink") 내의 외국인들에게 권리를 부여하였다.

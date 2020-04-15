@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [LATAM ](https://ko.wikipedia.org/wiki/LATAM_).
+> This article is converted from Wikipedia: [LATAM 페루](https://ko.wikipedia.org/wiki/LATAM_페루).
 
 
 **LATAM 페루**()는 [페루](../Page/페루.md "wikilink")의 항공사로 총 32개 노선을 취항하고 있다. 본사는 [페루](../Page/페루.md "wikilink") [리마](../Page/리마.md "wikilink") 위치해 있으며 [1998년](../Page/1998년.md "wikilink")에 설립했다. 또한 사용하고 있는 [허브 공항으로](../Page/허브_공항.md "wikilink") [호르헤차베스 국제공항이](https://ko.wikipedia.org/wiki/호르헤차베스_국제공항 "wikilink") 있다.\[1\]

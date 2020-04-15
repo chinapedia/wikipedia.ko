@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [LG  G ](https://ko.wikipedia.org/wiki/LG__G_).
+> This article is converted from Wikipedia: [LG 옵티머스 G 프로](https://ko.wikipedia.org/wiki/LG_옵티머스_G_프로).
 
 
 **LG 옵티머스 G 프로**(LG Optimus G Pro)는 [LG전자](../Page/LG전자.md "wikilink")에서 제조/판매하는 [안드로이드](../Page/안드로이드_\(운영_체제\).md "wikilink") [패블릿](../Page/패블릿.md "wikilink") [스마트폰](../Page/스마트폰.md "wikilink")으로, [LG 옵티머스 G의](../Page/LG_옵티머스_G.md "wikilink") Full-HD(1920×1080) 해상도 지원 파생 모델이다.

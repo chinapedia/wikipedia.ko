@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ D.  ](https://ko.wikipedia.org/wiki/_D.__).
+> This article is converted from Wikipedia: [존 D. 록펠러 주니어](https://ko.wikipedia.org/wiki/존_D._록펠러_주니어).
 
 
 **존 D. 록펠러 주니어**(, 1874년 1월 29일 \~ 1960년 5월 11일)는 미국의 사업가, 자선가이다. [록펠러 가문의](https://ko.wikipedia.org/wiki/록펠러_가문 "wikilink") 일원이다. [스탠더드 오일의](../Page/스탠더드_오일.md "wikilink") 설립자 [존 록펠러의](https://ko.wikipedia.org/wiki/존_록펠러 "wikilink") 다섯 번째 자녀이고 외아들이었다. 뉴욕 [브라우닝 학교에](https://ko.wikipedia.org/wiki/브라우닝_학교 "wikilink") 다니다가 [브라운 대학에](https://ko.wikipedia.org/wiki/브라운_대학 "wikilink") 입학했다. 졸업 후에는 아버지의 사업을 도와 또한 투자자로 이름을 떨쳤다. [대공황](../Page/대공황.md "wikilink") 사이에 [록펠러 센터](../Page/록펠러_센터.md "wikilink") 빌딩 건설에 자금을 제공했다.

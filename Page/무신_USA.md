@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ USA](https://ko.wikipedia.org/wiki/_USA).
+> This article is converted from Wikipedia: [무신 USA](https://ko.wikipedia.org/wiki/무신_USA).
 
 
 **무신 USA**(武神 USA, God of Martial Arts)는 [태권도](../Page/태권도.md "wikilink")를 기반으로 한 [대한민국](../Page/대한민국.md "wikilink")의 [종합격투기](../Page/종합격투기.md "wikilink") 대회인 '[무신](../Page/무신_\(무술\).md "wikilink")'의 [미국](../Page/미국.md "wikilink") 지사 대회이다.

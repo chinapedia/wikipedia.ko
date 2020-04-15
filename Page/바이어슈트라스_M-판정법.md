@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ M-](https://ko.wikipedia.org/wiki/_M-).
+> This article is converted from Wikipedia: [바이어슈트라스 M-판정법](https://ko.wikipedia.org/wiki/바이어슈트라스_M-판정법).
 
 
 **바이어슈트라스 M-판정법**()은 [함수항급수](https://ko.wikipedia.org/wiki/함수항급수 "wikilink")의 [절대균등수렴](https://ko.wikipedia.org/wiki/절대균등수렴 "wikilink") 여부에 대한 판정법이다. [멱급수](../Page/멱급수.md "wikilink")를 다룰 때 유용하다.\[1\]

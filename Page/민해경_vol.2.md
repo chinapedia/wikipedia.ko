@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ vol.2](https://ko.wikipedia.org/wiki/_vol.2).
+> This article is converted from Wikipedia: [민해경 vol.2](https://ko.wikipedia.org/wiki/민해경_vol.2).
 
 
 **민해경 vol.2**은 [대한민국](../Page/대한민국.md "wikilink")의 가수 [민해경](../Page/민해경.md "wikilink")의 1983년 발매한 정규 4집이다. 박건호가 프로듀서로 참여한 앨범이며,

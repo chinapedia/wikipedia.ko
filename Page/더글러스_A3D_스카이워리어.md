@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ A3D ](https://ko.wikipedia.org/wiki/_A3D_).
+> This article is converted from Wikipedia: [더글러스 A3D 스카이워리어](https://ko.wikipedia.org/wiki/더글러스_A3D_스카이워리어).
 
 
 **더글러스 A3D 스카이워리어**(, 이후 **A-3 스카이워리어**(A-3 Skywarrior))는 미국 해군의 전략폭격기다.

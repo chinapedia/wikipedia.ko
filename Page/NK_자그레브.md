@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [NK ](https://ko.wikipedia.org/wiki/NK_).
+> This article is converted from Wikipedia: [NK 자그레브](https://ko.wikipedia.org/wiki/NK_자그레브).
 
 
 **NK 자그레브**(NK Zagreb)는 [크로아티아](../Page/크로아티아.md "wikilink") [자그레브](../Page/자그레브.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽 팀이다.

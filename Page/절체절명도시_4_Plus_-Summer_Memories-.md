@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ 4 Plus -Summer Memories-](https://ko.wikipedia.org/wiki/_4_Plus_-Summer_Memories-).
+> This article is converted from Wikipedia: [절체절명도시 4 Plus -Summer Memories-](https://ko.wikipedia.org/wiki/절체절명도시_4_Plus_-Summer_Memories-).
 
 
 **절체절명도시 4 Plus -Summer Memories-**()은 [그란젤라](https://ko.wikipedia.org/wiki/그란젤라 "wikilink")가 개발한 [플레이스테이션 4용](../Page/플레이스테이션_4.md "wikilink") 게임 소프트이다. 《[절체절명도시](../Page/절체절명도시.md "wikilink")》시리즈 중 네 번째 작품으로, 지진으로 붕괴된 도시에서 탈출하는 액션 어드벤쳐 게임이다. 본래 [아이렘 소프트웨어 엔지니어링이](https://ko.wikipedia.org/wiki/아이렘_소프트웨어_엔지니어링 "wikilink") 개발하다가 개발 중단된 [플레이스테이션 3](../Page/플레이스테이션_3.md "wikilink") 용 게임 소프트 《절체절명도시 4 -Summer Memories-》를 기반으로 하고 있으며, 플레이스테이션 4에 플랫폼을 전환하였기 때문에 제목에 Plus가 붙여졌다.

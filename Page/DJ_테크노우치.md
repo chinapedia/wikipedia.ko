@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [DJ ](https://ko.wikipedia.org/wiki/DJ_).
+> This article is converted from Wikipedia: [DJ 테크노우치](https://ko.wikipedia.org/wiki/DJ_테크노우치).
 
 
 **DJ 테크노우치**(DJ TECHNORCH, )는 [코나미](../Page/코나미.md "wikilink") 주식회사의 리듬게임 시리즈 등지에서 활동하는 [DJ](https://ko.wikipedia.org/wiki/DJ "wikilink")이자 [작곡가](https://ko.wikipedia.org/wiki/작곡가 "wikilink")이다.

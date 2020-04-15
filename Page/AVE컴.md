@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [AVE](https://ko.wikipedia.org/wiki/AVE).
+> This article is converted from Wikipedia: [AVE컴](https://ko.wikipedia.org/wiki/AVE컴).
 
 
 **AVE컴**()은 [아랍에미리트](../Page/아랍에미리트.md "wikilink")의 전세 항공사로 [샤르자 국제공항이](../Page/샤르자_국제공항.md "wikilink") [허브 공항으로](../Page/허브_공항.md "wikilink") [1996년](../Page/1996년.md "wikilink")에 설립 했으며 본사는 [아랍에미리트](../Page/아랍에미리트.md "wikilink") [샤르자](../Page/샤르자.md "wikilink") [샤르자 국제공항에](../Page/샤르자_국제공항.md "wikilink") 위치해 있다.\[1\]

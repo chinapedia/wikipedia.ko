@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [A   \(\)](https://ko.wikipedia.org/wiki/A___\(\)).
+> This article is converted from Wikipedia: [A 열차로 가자 \(열차\)](https://ko.wikipedia.org/wiki/A_열차로_가자_\(열차\)).
 
 
 **A열차로 가자**()는 [쿠마모토 역](https://ko.wikipedia.org/wiki/쿠마모토_역 "wikilink")-[미스미 역간을](../Page/미스미_역.md "wikilink") 운행하는 [큐슈여객철도](../Page/큐슈여객철도.md "wikilink")(JR큐슈)의 임시 [특급 열차의](https://ko.wikipedia.org/wiki/특별_급행_열차 "wikilink") 이름이다. [카고시마 본선](https://ko.wikipedia.org/wiki/카고시마_본선 "wikilink")·[미스미 선을](../Page/미스미_선.md "wikilink") 경유한다. [2011년](../Page/2011년.md "wikilink") [10월 8일부터](../Page/10월_8일.md "wikilink") 운행하였다.\[1\]

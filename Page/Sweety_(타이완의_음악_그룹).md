@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Sweety \(  \)](https://ko.wikipedia.org/wiki/Sweety_\(__\)).
+> This article is converted from Wikipedia: [Sweety \(타이완의 음악 그룹\)](https://ko.wikipedia.org/wiki/Sweety_\(타이완의_음악_그룹\)).
 
 
 **Sweety**(스위티)는 [중화민국](../Page/중화민국.md "wikilink")의 여성 2인조 그룹이다.

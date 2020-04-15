@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TV  ](https://ko.wikipedia.org/wiki/TV__).
+> This article is converted from Wikipedia: [TV조선의 뉴스 프로그램](https://ko.wikipedia.org/wiki/TV조선의_뉴스_프로그램).
 
 
 **[TV조선](../Page/TV조선.md "wikilink")의 뉴스 프로그램**은 다음과 같다.
@@ -104,7 +104,7 @@
 
 <!-- end list -->
 
-  - [매일방송의 뉴스 프로그램](../Page/매일방송의_뉴스_프로그램.md "wikilink")
+  - [MBN 매일방송의 뉴스 프로그램](https://ko.wikipedia.org/wiki/MBN_매일방송의_뉴스_프로그램 "wikilink")
   - [채널A의 뉴스 프로그램](../Page/채널A의_뉴스_프로그램.md "wikilink")
   - [JTBC의 뉴스 프로그램](../Page/JTBC의_뉴스_프로그램.md "wikilink")
 

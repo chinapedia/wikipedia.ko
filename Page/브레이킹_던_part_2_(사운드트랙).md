@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  part 2 \(\)](https://ko.wikipedia.org/wiki/__part_2_\(\)).
+> This article is converted from Wikipedia: [브레이킹 던 part 2 \(사운드트랙\)](https://ko.wikipedia.org/wiki/브레이킹_던_part_2_\(사운드트랙\)).
 
 
 **The Twilight Saga: Breaking Dawn – Part 2 (Original Motion Picture Soundtrack)**은 2012년 개봉한 [브레이킹 던 part 2의](../Page/브레이킹_던_part_2.md "wikilink") [사운드트랙](https://ko.wikipedia.org/wiki/사운드트랙 "wikilink")이다.

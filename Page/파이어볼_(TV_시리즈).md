@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ \(TV \)](https://ko.wikipedia.org/wiki/_\(TV_\)).
+> This article is converted from Wikipedia: [파이어볼 \(TV 시리즈\)](https://ko.wikipedia.org/wiki/파이어볼_\(TV_시리즈\)).
 
 
 **파이어 볼**은 [2008년](../Page/2008년.md "wikilink") [4월](../Page/4월.md "wikilink")부터 방송된, [월트 디즈니 재팬이](https://ko.wikipedia.org/wiki/월트_디즈니_재팬 "wikilink") 제작한 [3D CG](../Page/3차원_컴퓨터_그래픽스.md "wikilink") 애니메이션 작품이다. 이 항목에서는 '제2기 파이어 볼 차밍'에 대해서도 기술한다. (이하의 기술에 있어서 따로 쓰지 않는 경우는 기본적으로 제1기에 관한 것이다.)

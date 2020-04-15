@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TTM  FC](https://ko.wikipedia.org/wiki/TTM__FC).
+> This article is converted from Wikipedia: [TTM 커스텀스 FC](https://ko.wikipedia.org/wiki/TTM_커스텀스_FC).
 
 
 **TTM 커스텀스 FC**(, )는 [사뭇쁘라깐 주를](https://ko.wikipedia.org/wiki/사뭇쁘라깐_주 "wikilink") 연고로 하는 [타이](https://ko.wikipedia.org/wiki/타이 "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다. 현재는 [타이 디비전 1 리그에](https://ko.wikipedia.org/wiki/타이_디비전_1_리그 "wikilink") 참가하고 있다.

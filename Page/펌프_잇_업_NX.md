@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [   NX](https://ko.wikipedia.org/wiki/___NX).
+> This article is converted from Wikipedia: [펌프 잇 업 NX](https://ko.wikipedia.org/wiki/펌프_잇_업_NX).
 
 
 **펌프 잇 업 New Xenesis**, 줄여서 **펌프 잇 업 NX**는 국내에서는 13번째. 국제에서는 8번째에 해당된다. [2006년](../Page/2006년.md "wikilink") [12월 16일에](../Page/12월_16일.md "wikilink") 대한민국을 제외한 전 세계에 출시하였으며, 대한민국에서는 심의문제로 [2007년](../Page/2007년.md "wikilink") [2월](../Page/2월.md "wikilink")에 출시되었다. 하드웨어와 인터넷랭킹이 가능하다. 인터페이스는 이 버전부터 엑스트라 형식으로 돌아왔다. 여기서는 모드를 선택하면 같은 곡으로 유지되는 형식으로 한다. 난이도수는 개수로 설정하지 않고 별/해골로 구성되었다.\[1\] 미션은 월드투어로 변경되었고, 제로의 이지스테이션에서 펌프 잇 업을 처음 배울수 있는 트레이닝 존으로 변경되었다. 리믹스 스테이션은 풀송과 리믹스, 어나더 스텝을 동시에 할 수있는 스페셜 존으로 변경되었다. NX에서 이후버전부터는 아시아, 남미, 오세아니아의 [NX2와](../Page/펌프_잇_업_NX2.md "wikilink") 북미버전인 [프로가](../Page/펌프_잇_업_프로.md "wikilink") 서로 갈라지게 되었다.

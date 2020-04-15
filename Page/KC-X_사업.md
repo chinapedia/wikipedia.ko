@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KC-X ](https://ko.wikipedia.org/wiki/KC-X_).
+> This article is converted from Wikipedia: [KC-X 사업](https://ko.wikipedia.org/wiki/KC-X_사업).
 
 
 [thumb](https://ko.wikipedia.org/wiki/파일:KC-767_Aeronautica_Militare_tanker_refueler_2007.jpg "wikilink") [thumb](https://ko.wikipedia.org/wiki/파일:KC-767J.JPG "wikilink")

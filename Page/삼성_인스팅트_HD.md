@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  HD](https://ko.wikipedia.org/wiki/__HD).
+> This article is converted from Wikipedia: [삼성 인스팅트 HD](https://ko.wikipedia.org/wiki/삼성_인스팅트_HD).
 
 
 **삼성 인스팅트 HD**(, )는 [삼성전자](https://ko.wikipedia.org/wiki/삼성전자 "wikilink")가 [2009년](../Page/2009년.md "wikilink")에 출시한 [휴대 전화이다](../Page/휴대_전화.md "wikilink").\[1\]

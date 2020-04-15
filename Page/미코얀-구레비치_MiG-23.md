@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [- MiG-23](https://ko.wikipedia.org/wiki/-_MiG-23).
+> This article is converted from Wikipedia: [미코얀-구레비치 MiG-23](https://ko.wikipedia.org/wiki/미코얀-구레비치_MiG-23).
 
 
 **미코얀-구레비치 MiG-23**은 [소련](../Page/소련.md "wikilink")이 제작한 최대 이륙중량 18톤의 단발엔진 다목적 전투기이다.

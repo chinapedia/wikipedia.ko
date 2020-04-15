@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ XP  x64 ](https://ko.wikipedia.org/wiki/_XP__x64_).
+> This article is converted from Wikipedia: [윈도우 XP 프로페셔널 x64 에디션](https://ko.wikipedia.org/wiki/윈도우_XP_프로페셔널_x64_에디션).
 
 
 **윈도우 XP 프로페셔널 x64 에디션**(Windows XP Professional x64 Edition)은 [2005년](../Page/2005년.md "wikilink") [4월 25일에](../Page/4월_25일.md "wikilink") 출시된 운영 체제로, [x86-64](https://ko.wikipedia.org/wiki/x86-64 "wikilink") 개인용 컴퓨터를 위한 [윈도우 XP](../Page/윈도우_XP.md "wikilink") 에디션이다. x86-64 아키텍처가 제공하는 확장된 64비트 메모리 주소 공간을 이용할 수 있게 설계되어 있다.\[1\]

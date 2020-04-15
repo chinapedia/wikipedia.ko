@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [USA ](https://ko.wikipedia.org/wiki/USA_).
+> This article is converted from Wikipedia: [USA 투데이](https://ko.wikipedia.org/wiki/USA_투데이).
 
 
 《**USA 투데이**》()는 [미국](../Page/미국.md "wikilink")의 일간신문이다. 현재 미국의 종합일간지 중에서 유일하게 전국지로 발간되는 신문이다.\[1\]\[2\]

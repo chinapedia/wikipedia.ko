@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [FNC ](https://ko.wikipedia.org/wiki/FNC_).
+> This article is converted from Wikipedia: [FNC 엔터테인먼트](https://ko.wikipedia.org/wiki/FNC_엔터테인먼트).
 
 
-**주식회사 에프엔씨엔터테인먼트(이하 "FNC 엔터테인먼트")** () 는 가수 겸 작곡가 출신 [한성호](../Page/한성호.md "wikilink")가 설립한 연예기획사이다. [2006년](../Page/2006년.md "wikilink") **피쉬엔케익뮤직**을 설립한 후 주로 밴드그룹 위주로 아티스트를 발굴했다. 이후 음반 프로듀싱, 아티스트 육성 및 매니지먼트, 드라마 OST 제작, 공연 기획 분야에서 두드러지는 성장세를 보여왔다. [2012년](../Page/2012년.md "wikilink") [4월](../Page/4월.md "wikilink")에 사명을 **FNC 엔터테인먼트**로 바꾸고 종합 엔터테인먼트사로 영역을 확장하면서 영화 및 드라마 제작 영역으로도 발을 넓히고 있다. [2014년](../Page/2014년.md "wikilink") [12월 4일](../Page/12월_4일.md "wikilink") 엔터테인먼트 기업으로는 [SM 엔터테인먼트](../Page/SM_엔터테인먼트.md "wikilink"), [YG 엔터테인먼트](../Page/YG_엔터테인먼트.md "wikilink"), [JYP 엔터테인먼트에](../Page/JYP_엔터테인먼트.md "wikilink") 이어 4번째로 코스닥 상장에 성공하였다.
+**주식회사 에프엔씨엔터테인먼트(이하 "FNC 엔터테인먼트")**()는 가수 겸 작곡가 출신 [한성호](../Page/한성호.md "wikilink")가 설립한 연예기획사이다. 본사는 [서울특별시](../Page/서울특별시.md "wikilink") [강남구](https://ko.wikipedia.org/wiki/강남구 "wikilink") [도산대로](../Page/도산대로.md "wikilink")85길 46 (청담동)에 위치에 있으며 소속 아티스트는 [FT아일랜드](../Page/FT아일랜드.md "wikilink"), [CNBLUE](https://ko.wikipedia.org/wiki/CNBLUE "wikilink"), [AOA](../Page/AOA_\(음악_그룹\).md "wikilink"), [엔플라잉](../Page/엔플라잉.md "wikilink"), [SF9](../Page/SF9.md "wikilink"), [체리블렛](../Page/체리블렛.md "wikilink")등이 있다. [2006년](../Page/2006년.md "wikilink") **피쉬엔케익뮤직**을 설립한 후 주로 밴드그룹 위주로 아티스트를 발굴했다. 이후 음반 프로듀싱, 아티스트 육성 및 매니지먼트, 드라마 OST 제작, 공연 기획 분야에서 두드러지는 성장세를 보여왔다. [2012년](../Page/2012년.md "wikilink") [4월](../Page/4월.md "wikilink")에 사명을 **FNC 엔터테인먼트**로 바꾸고 종합 엔터테인먼트사로 영역을 확장하면서 영화 및 드라마 제작 영역으로도 발을 넓히고 있다. [2014년](../Page/2014년.md "wikilink") [12월 4일](../Page/12월_4일.md "wikilink") 엔터테인먼트 기업으로는 [SM 엔터테인먼트](../Page/SM_엔터테인먼트.md "wikilink"), [YG 엔터테인먼트](../Page/YG_엔터테인먼트.md "wikilink"), [JYP 엔터테인먼트에](../Page/JYP_엔터테인먼트.md "wikilink") 이어 4번째로 코스닥 상장에 성공하였다.
 
 ## 창립자 [한성호](../Page/한성호.md "wikilink")
 
@@ -68,7 +68,6 @@
   - [이국주](../Page/이국주.md "wikilink")
   - [문세윤](../Page/문세윤.md "wikilink")
   - [정형돈](../Page/정형돈.md "wikilink")
-  - [유재석](https://ko.wikipedia.org/wiki/유재석 "wikilink")
   - [김용만](https://ko.wikipedia.org/wiki/김용만 "wikilink")
   - [노홍철](../Page/노홍철.md "wikilink")
   - [문지애](../Page/문지애.md "wikilink")

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  FC](https://ko.wikipedia.org/wiki/__FC).
+> This article is converted from Wikipedia: [던펌린 애슬레틱 FC](https://ko.wikipedia.org/wiki/던펌린_애슬레틱_FC).
 
 
 **던펌린 애슬레틱 FC**(Dunfermline Athletic Football Club, Dunfermline Athletic F.C.)는 [스코틀랜드](../Page/스코틀랜드.md "wikilink") [던펌린](https://ko.wikipedia.org/wiki/던펌린 "wikilink")의 축구 클럽으로, 2006–07 [스코틀랜드 프리미어리그](https://ko.wikipedia.org/wiki/스코틀랜드_프리미어리그 "wikilink") 시즌에서 강등된 이후 [스코틀랜드 풋볼 리그 1부에서](https://ko.wikipedia.org/wiki/스코틀랜드_풋볼_리그_1부 "wikilink") 활동하다가 2010-11 시즌 우승하여 승격하면서 현재 [스코틀랜드 프리미어리그에서](https://ko.wikipedia.org/wiki/스코틀랜드_프리미어리그 "wikilink") 활동중이다.

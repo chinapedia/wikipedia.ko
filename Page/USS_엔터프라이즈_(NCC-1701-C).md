@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [USS  \(NCC-1701-C\)](https://ko.wikipedia.org/wiki/USS__\(NCC-1701-C\)).
+> This article is converted from Wikipedia: [USS 엔터프라이즈 \(NCC-1701-C\)](https://ko.wikipedia.org/wiki/USS_엔터프라이즈_\(NCC-1701-C\)).
 
 
 **USS 엔터프라이즈**()는 2332년 진수되어 2344년 파괴된 앰배서더 계열의 함선이다. 함장은 레이첼 가렛 여함장이다.

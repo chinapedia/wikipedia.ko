@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:3RoundBracket-Byes-ThirdPlace](https://ko.wikipedia.org/wiki/:3RoundBracket-Byes-ThirdPlace).
+> This article is converted from Wikipedia: [틀:3RoundBracket-Byes-ThirdPlace](https://ko.wikipedia.org/wiki/틀:3RoundBracket-Byes-ThirdPlace).
 
 
 |                                                     |                                                                                                                     |                                                                                                                  |                                                                                                                   |                                                                                                                              |  |

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:OCA](https://ko.wikipedia.org/wiki/:OCA).
+> This article is converted from Wikipedia: [틀:OCA](https://ko.wikipedia.org/wiki/틀:OCA).
 
 
 <onlyinclude>{{둘러보기 상자 |이름 = OCA |제목 = \[\[아시아_올림픽_평의회|</onlyinclude>

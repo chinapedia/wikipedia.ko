@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [2014 FIFA     H](https://ko.wikipedia.org/wiki/2014_FIFA_____H).
+> This article is converted from Wikipedia: [2014년 FIFA 월드컵 유럽 지역 예선 H조](https://ko.wikipedia.org/wiki/2014년_FIFA_월드컵_유럽_지역_예선_H조).
 
 
 **[2014년 FIFA 월드컵 유럽 지역 예선](../Page/2014년_FIFA_월드컵_유럽_지역_예선.md "wikilink") H조**는 [잉글랜드를](../Page/잉글랜드_축구_국가대표팀.md "wikilink") 비롯하여 [몬테네그로](../Page/몬테네그로_축구_국가대표팀.md "wikilink"), [우크라이나](../Page/우크라이나_축구_국가대표팀.md "wikilink"), [폴란드](../Page/폴란드_축구_국가대표팀.md "wikilink"), [몰도바](../Page/몰도바_축구_국가대표팀.md "wikilink"), [산마리노로](../Page/산마리노_축구_국가대표팀.md "wikilink") 구성되어 있다.

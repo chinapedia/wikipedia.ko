@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KVC ](https://ko.wikipedia.org/wiki/KVC_).
+> This article is converted from Wikipedia: [KVC 베스테를로](https://ko.wikipedia.org/wiki/KVC_베스테를로).
 
 
 **KVC 베스테를로**(Koninklijke Voetbal Club Westerlo, K.V.C. Westerlo)는 [벨기에](../Page/벨기에.md "wikilink") [베스테를로](https://ko.wikipedia.org/wiki/베스테를로 "wikilink")를 연고로 하는 축구 클럽이다. 1933년 창단되었으며 벨기에 컵에서 1차례 우승한 경력이 있다.

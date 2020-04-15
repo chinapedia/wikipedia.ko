@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [1 MBC FM ](https://ko.wikipedia.org/wiki/1_MBC_FM_).
+> This article is converted from Wikipedia: [제1회 MBC FM 강변축제](https://ko.wikipedia.org/wiki/제1회_MBC_FM_강변축제).
 
 
 **《제1회 MBC-FM 강변축제》**는 제1회 [MBC 강변가요제](../Page/MBC_강변가요제.md "wikilink") 출전곡이 수록된 음반이다.

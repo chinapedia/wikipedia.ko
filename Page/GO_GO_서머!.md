@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [GO GO !](https://ko.wikipedia.org/wiki/GO_GO_!).
+> This article is converted from Wikipedia: [GO GO 서머!](https://ko.wikipedia.org/wiki/GO_GO_서머!).
 
 
 〈**GO GO 서머\!**〉(GO GO サマー\!, GO GO Summer\!)는 [카라의](../Page/카라_\(음악_그룹\).md "wikilink") [일본](../Page/일본.md "wikilink") 4번째 싱글이다. 타이틀 곡 고고써머는 [LG 전자](../Page/LG전자.md "wikilink") 스마트폰 옵티머스 브라이트의 CM 송이며, 수록곡 걸스비 엠비셔스 (ガールズ ビー アンビシャス\!)는 다리아 Palty의 CM 송이다.

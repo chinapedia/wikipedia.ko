@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Only you \( \)](https://ko.wikipedia.org/wiki/Only_you_\(_\)).
+> This article is converted from Wikipedia: [Only you \(모닝구무스메의 노래\)](https://ko.wikipedia.org/wiki/Only_you_\(모닝구무스메의_노래\)).
 
 
 **Only you**(온리 유)는 [2011년](../Page/2011년.md "wikilink") [6월 15일에](../Page/6월_15일.md "wikilink") 발매 된 [모닝구무스메](../Page/모닝구무스메.md "wikilink")의 마흔여섯 번째 싱글이다.

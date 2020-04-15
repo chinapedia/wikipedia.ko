@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ EARLY SINGLE BOX](https://ko.wikipedia.org/wiki/_EARLY_SINGLE_BOX).
+> This article is converted from Wikipedia: [모닝구무스메 EARLY SINGLE BOX](https://ko.wikipedia.org/wiki/모닝구무스메_EARLY_SINGLE_BOX).
 
 
 **모닝구무스메 EARLY SINGLE BOX**(, 모닝구무스메 얼리 싱글 박스)는 [2004년](../Page/2004년.md "wikilink") [12월 15일에](../Page/12월_15일.md "wikilink") 발매 된 [모닝구무스메](../Page/모닝구무스메.md "wikilink")의 첫 번째 CD-BOX이다.

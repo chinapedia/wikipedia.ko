@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ H. ](https://ko.wikipedia.org/wiki/_H._).
+> This article is converted from Wikipedia: [윌리엄 H. 메이시](https://ko.wikipedia.org/wiki/윌리엄_H._메이시).
 
 
 **윌리엄 H. 메이시**(William H. Macy, [1950년](../Page/1950년.md "wikilink") [3월 13일](../Page/3월_13일.md "wikilink") \~ )는 [미국](../Page/미국.md "wikilink")의 [배우](../Page/배우.md "wikilink")이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [CF ](https://ko.wikipedia.org/wiki/CF_).
+> This article is converted from Wikipedia: [CF 몬테레이](https://ko.wikipedia.org/wiki/CF_몬테레이).
 
 
 **클럽 데 풋볼 몬테레이**() 또는 **CF 몬테레이**()는 [멕시코](../Page/멕시코.md "wikilink")의 축구 클럽으로, [누에보레온주](https://ko.wikipedia.org/wiki/누에보레온주 "wikilink") [몬테레이](../Page/몬테레이.md "wikilink")를 연고로 한다.

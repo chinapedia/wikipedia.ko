@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:C21YearInTopic](https://ko.wikipedia.org/wiki/:C21YearInTopic).
+> This article is converted from Wikipedia: [틀:C21YearInTopic](https://ko.wikipedia.org/wiki/틀:C21YearInTopic).
 
 
 <table>

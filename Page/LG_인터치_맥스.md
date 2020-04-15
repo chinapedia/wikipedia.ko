@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [LG  ](https://ko.wikipedia.org/wiki/LG__).
+> This article is converted from Wikipedia: [LG 인터치 맥스](https://ko.wikipedia.org/wiki/LG_인터치_맥스).
 
 
 **LG 인터치 맥스**(, LG GW620)는 [LG전자](../Page/LG전자.md "wikilink")가 2009년 11월에 출시한 [스마트폰](../Page/스마트폰.md "wikilink")이다.\[1\]

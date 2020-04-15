@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Catch Me \( \)](https://ko.wikipedia.org/wiki/Catch_Me_\(_\)).
+> This article is converted from Wikipedia: [Catch Me \(동방신기의 음반\)](https://ko.wikipedia.org/wiki/Catch_Me_\(동방신기의_음반\)).
 
 
 《**Catch Me**》(케치 미)는 [대한민국](../Page/대한민국.md "wikilink")의 음악 그룹 [동방신기](../Page/동방신기.md "wikilink")의 여섯번째 정규 앨범이다. 정규 5집 《[왜 (Keep Your Head Down)](https://ko.wikipedia.org/wiki/Keep_Your_Head_Down "wikilink")》활동 이후 1년 5개월 만에 발표한 음반으로 타이틀곡인 《**Catch Me**》는 사랑하는 연인에게 이별을 고하지만 진심은 제발 떠나지 못하게 잡아달라고 사랑을 보여달라고 애원하는 남자의 이중성을 담았다.\[1\]

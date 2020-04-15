@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ DSLT-A55](https://ko.wikipedia.org/wiki/_DSLT-A55).
+> This article is converted from Wikipedia: [소니 DSLT-A55](https://ko.wikipedia.org/wiki/소니_DSLT-A55).
 
 
 **소니 DSLT-A55**(Sony Alpha DSLT-A55)는 [2010년](../Page/2010년.md "wikilink")에 출시된 [소니](../Page/소니.md "wikilink")의 [DSLT](https://ko.wikipedia.org/wiki/DSLT "wikilink")(Digital Single Lens Translucent) 카메라이다.\[1\] 반투명 거울을 채용한 제품으로 동영상 촬영중에도 빠르고 정확한 위상차 [자동초점](https://ko.wikipedia.org/wiki/자동초점 "wikilink")을 사용할 수 있어 기존 [DSLR](https://ko.wikipedia.org/wiki/DSLR "wikilink")의 구조적 한계를 극복한 새로운 형태의 제품이다. 저가형인 a33도 존재한다.

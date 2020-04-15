@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  II  ](https://ko.wikipedia.org/wiki/__II__).
+> This article is converted from Wikipedia: [나는 가수다 II의 에피소드 목록](https://ko.wikipedia.org/wiki/나는_가수다_II의_에피소드_목록).
 
 
 아래 문서는 [MBC](../Page/문화방송.md "wikilink") [나는 가수다 2에서](../Page/나는_가수다_II.md "wikilink") 방영한 목록이다.

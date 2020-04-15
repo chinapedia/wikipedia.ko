@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [USS  \(SS-1\)](https://ko.wikipedia.org/wiki/USS__\(SS-1\)).
+> This article is converted from Wikipedia: [USS 홀란드 \(SS-1\)](https://ko.wikipedia.org/wiki/USS_홀란드_\(SS-1\)).
 
 
 **USS 홀란드 (SS-1)**는 미 해군에 처음으로 취역한 잠수함이다. 함명은 아일랜드계 미국인 발명가, [존 필립 홀란드에서](https://ko.wikipedia.org/wiki/존_필립_홀란드 "wikilink") 따왔다. 처음에는 이 잠수함은 **홀란드 VI**라는 함명으로 기공되었으며, 1897년 5월 17일에 진수되었다.

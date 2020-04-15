@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TV](https://ko.wikipedia.org/wiki/TV).
+> This article is converted from Wikipedia: [곰TV](https://ko.wikipedia.org/wiki/곰TV).
 
 
 **곰TV**는 [곰앤컴퍼니](../Page/곰앤컴퍼니.md "wikilink")에서 제공하는 인터넷 방송이며, 그 방송을 보기 위한 소프트웨어의 이름이기도 하다.

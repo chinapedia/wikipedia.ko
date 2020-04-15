@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KAT \(\)](https://ko.wikipedia.org/wiki/KAT_\(\)).
+> This article is converted from Wikipedia: [KAT \(가수\)](https://ko.wikipedia.org/wiki/KAT_\(가수\)).
 
 
 **KAT**([1984년](../Page/1984년.md "wikilink") [1월 7일](../Page/1월_7일.md "wikilink") \~ )또는 **캣 맥도월**(Kat McDowell)은 [일본](../Page/일본.md "wikilink")의 [싱어송라이터](https://ko.wikipedia.org/wiki/싱어송라이터 "wikilink")이다.

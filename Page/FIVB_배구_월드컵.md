@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FIVB  ](https://ko.wikipedia.org/wiki/FIVB__).
+> This article is converted from Wikipedia: [FIVB 배구 월드컵](https://ko.wikipedia.org/wiki/FIVB_배구_월드컵).
 
 
 **FIVB 배구 월드컵**()는 [배구](../Page/배구.md "wikilink") 종목을 총괄하는 국제기구인 [국제 배구 연맹](../Page/국제_배구_연맹.md "wikilink")(FIVB)이 주관하는 국제 배구 대회이다. 남자부 대회는 [1965년](../Page/1965년.md "wikilink")에, 여자부 대회는 [1973년](../Page/1973년.md "wikilink")에 창설되었다. [FIVB](../Page/국제_배구_연맹.md "wikilink") 가맹국의 남녀 성인 국가대표팀이 참여한다. [1991년](../Page/1991년.md "wikilink") 이래, 대회는 [올림픽 배구](../Page/올림픽_배구.md "wikilink") 개최년도 이전해에 열리고 있다. 최근 우승국은 남자부의 경우 [2019년 FIVB 남자배구 월드컵에서](https://ko.wikipedia.org/wiki/2019년_FIVB_남자배구_월드컵 "wikilink") 우승한 [브라질이며](https://ko.wikipedia.org/wiki/브라질_배구_국가대표팀 "wikilink"), 여자부의 경우 [2019년 FIVB 여자배구 월드컵에서](https://ko.wikipedia.org/wiki/2019년_FIVB_여자배구_월드컵 "wikilink") 우승한 [중국이다](../Page/중국_여자_배구_국가대표팀.md "wikilink").

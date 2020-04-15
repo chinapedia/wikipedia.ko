@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [WWE ](https://ko.wikipedia.org/wiki/WWE_).
+> This article is converted from Wikipedia: [WWE 백래시](https://ko.wikipedia.org/wiki/WWE_백래시).
 
 
 **백래시**(Backlash)는 [WWE](https://ko.wikipedia.org/wiki/WWE "wikilink")가 주관하는 페이 퍼 뷰 이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
+> This article is converted from Wikipedia: [워리어스 FC](https://ko.wikipedia.org/wiki/워리어스_FC).
 
 
 **워리어스 FC**()는 [싱가포르](../Page/싱가포르.md "wikilink")의 축구 클럽이다. [2013년](../Page/2013년.md "wikilink") [1월 20일까지는](../Page/1월_20일.md "wikilink") **싱가포르 암드 포스 축구 클럽**()이라는 이름으로 참가했다.

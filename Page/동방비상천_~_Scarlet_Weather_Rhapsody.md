@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ \~ Scarlet Weather Rhapsody](https://ko.wikipedia.org/wiki/_\~_Scarlet_Weather_Rhapsody).
+> This article is converted from Wikipedia: [동방비상천 \~ Scarlet Weather Rhapsody](https://ko.wikipedia.org/wiki/동방비상천_\~_Scarlet_Weather_Rhapsody).
 
 
 《**동방비상천 \~ Scarlet Weather Rhapsody**》()은 [상하이 앨리스 환악단과](../Page/상하이_앨리스_환악단.md "wikilink") [황혼 프론티어와의](../Page/황혼_프론티어.md "wikilink") 공동으로 제작한 외전 작품이다.

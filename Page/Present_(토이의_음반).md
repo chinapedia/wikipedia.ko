@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Present \( \)](https://ko.wikipedia.org/wiki/Present_\(_\)).
+> This article is converted from Wikipedia: [Present \(토이의 음반\)](https://ko.wikipedia.org/wiki/Present_\(토이의_음반\)).
 
 
 《**Present**》는 [대한민국](../Page/대한민국.md "wikilink")의 1인 프로젝트 [음악 그룹](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink") [토이의](https://ko.wikipedia.org/wiki/토이_\(대한민국의_음악_그룹\) "wikilink") 세 번째 정규앨범으로, 가난한 남자가 사랑하는 여자를 위해 열심히 일을 해서 선물을 마련하지만 결국 그녀가 그의 곁을 떠난다는 이야기를 담은 컨셉앨범이다.
@@ -45,7 +45,7 @@
 <li>이상훈 - 드럼(10)</li>
 <li>서영도 - 베이스(10)</li>
 <li>조삼희 - 전기 기타(10), 스틸 기타(12)</li>
-<li><a href="../Page/런던_필하모닉_오케스트라.md" title="wikilink">런던 필하모닉 오케스트라</a>(2, 7)
+<li><a href="../Page/런던_필하모닉_오케스트라.md" title="wikilink">런던 필하모닉 오케스트라</a>(1, 2, 7, 11)
 <ul>
 <li>Grahame Maclean - <a href="../Page/지휘.md" title="wikilink">지휘</a>, 음악 디렉터, <a href="../Page/편곡.md" title="wikilink">편곡</a></li>
 <li>Diana Cummings, Tina Gruenberg, Ctherine Craig, Geoffret Lynn, Robert Pool, Andrew Thurgood, Ashley Stevens, Bjorn Petersen - 1st 바이올린</li>

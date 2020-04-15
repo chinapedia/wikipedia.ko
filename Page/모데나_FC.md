@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
+> This article is converted from Wikipedia: [모데나 FC](https://ko.wikipedia.org/wiki/모데나_FC).
 
 
 **모데나 FC**(Modena Football Club SpA)는 [1912년](../Page/1912년.md "wikilink")에 창단된 [이탈리아](../Page/이탈리아.md "wikilink")의 옛 축구 클럽으로, [에밀리아로마냐주](../Page/에밀리아로마냐주.md "wikilink") [모데나](../Page/모데나.md "wikilink")를 연고지로 한다. 팀을 상징하는 색은 노란색과 파란색이다.

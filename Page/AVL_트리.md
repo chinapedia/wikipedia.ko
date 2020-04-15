@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [AVL ](https://ko.wikipedia.org/wiki/AVL_).
+> This article is converted from Wikipedia: [AVL 트리](https://ko.wikipedia.org/wiki/AVL_트리).
 
 
 | AVL 트리의 시간복잡도 |

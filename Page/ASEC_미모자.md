@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ASEC ](https://ko.wikipedia.org/wiki/ASEC_).
+> This article is converted from Wikipedia: [ASEC 미모자](https://ko.wikipedia.org/wiki/ASEC_미모자).
 
 
 **아미칼 스포르티브 데 앙플루아예 드 코메르스 미모자**() 또는 **ASEC 미모자**()는 [코트디부아르](../Page/코트디부아르.md "wikilink") [아비장](../Page/아비장.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽으로, 흔히 **ASEC 아비장**()이라고도 부른다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [1967 CONCACAF  ](https://ko.wikipedia.org/wiki/1967_CONCACAF__).
+> This article is converted from Wikipedia: [1967년 CONCACAF 선수권 대회](https://ko.wikipedia.org/wiki/1967년_CONCACAF_선수권_대회).
 
 
 **1967년 CONCACAF 선수권 대회**는 [1967년](../Page/1967년.md "wikilink") [3월 5일부터](../Page/3월_5일.md "wikilink") [3월 19일까지](../Page/3월_19일.md "wikilink") [온두라스](../Page/온두라스.md "wikilink")에서 열린 3번째 [CONCACAF 선수권 대회이다](../Page/CONCACAF_선수권_대회.md "wikilink").

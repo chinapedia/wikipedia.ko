@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Q ](https://ko.wikipedia.org/wiki/Q_).
+> This article is converted from Wikipedia: [Q 인자](https://ko.wikipedia.org/wiki/Q_인자).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:bandwidth2.png "wikilink"), \(\Delta f\)이 에너지-주파수 그래프에 표현되어 있다. 제동된 진동자 또는 필터의 인자는 \(f_0/\Delta f\)이다. Q 값이 높으면, 피크가 좁고 '날카로워'진다.\]\]

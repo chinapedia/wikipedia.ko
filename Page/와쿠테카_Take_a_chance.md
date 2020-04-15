@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ Take a chance](https://ko.wikipedia.org/wiki/_Take_a_chance).
+> This article is converted from Wikipedia: [와쿠테카 Take a chance](https://ko.wikipedia.org/wiki/와쿠테카_Take_a_chance).
 
 
 《**와쿠테카 Take a chance**》()는 [2012년](../Page/2012년.md "wikilink") [10월 10일](../Page/10월_10일.md "wikilink") 발매 된 [모닝구무스메](../Page/모닝구무스메.md "wikilink")의 쉰한 번째 싱글이다.

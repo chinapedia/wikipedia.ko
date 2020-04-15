@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ATC  G04](https://ko.wikipedia.org/wiki/ATC__G04).
+> This article is converted from Wikipedia: [ATC 코드 G04](https://ko.wikipedia.org/wiki/ATC_코드_G04).
 
 
 **ATC 코드 G04**는 [ATC 코드의](https://ko.wikipedia.org/wiki/ATC_코드 "wikilink") 비뇨기과 약물로 작용하는 약물을 정리한 코드이다. \[1\] **ATC 코드** G 비뇨생식기계 및 성호르몬의 하위그룹을 이룬다.

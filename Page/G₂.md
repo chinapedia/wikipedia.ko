@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [G](https://ko.wikipedia.org/wiki/G).
+> This article is converted from Wikipedia: [G₂](https://ko.wikipedia.org/wiki/G₂).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:DynkinG2.svg "wikilink")\]\] [리 군론에서](https://ko.wikipedia.org/wiki/리_군론 "wikilink"), **G<sub>2</sub>**는 가장 작은 복소수 예외적 [단순 리 군이다](https://ko.wikipedia.org/wiki/단순_리_군 "wikilink").\[1\]\[2\] 14차원이고, 두 개의 [단순근](https://ko.wikipedia.org/wiki/단순근 "wikilink")을 지니고, 두 개의 실수 형식([콤팩트](../Page/콤팩트_공간.md "wikilink"), 갈린)을 지닌다. 7차원 표현을 지닌다. 그 콤팩트 실수 형식은 [팔원수](../Page/팔원수.md "wikilink")의 [자기 동형군이다](https://ko.wikipedia.org/wiki/자기_동형군 "wikilink").

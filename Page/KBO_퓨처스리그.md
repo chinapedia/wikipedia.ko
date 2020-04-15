@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KBO ](https://ko.wikipedia.org/wiki/KBO_).
+> This article is converted from Wikipedia: [KBO 퓨처스리그](https://ko.wikipedia.org/wiki/KBO_퓨처스리그).
 
 
 **KBO 퓨처스리그**()는 [KBO 리그의](https://ko.wikipedia.org/wiki/KBO_리그 "wikilink") 2군 리그이다.

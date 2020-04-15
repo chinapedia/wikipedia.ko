@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ATC  S01](https://ko.wikipedia.org/wiki/ATC__S01).
+> This article is converted from Wikipedia: [ATC 코드 S01](https://ko.wikipedia.org/wiki/ATC_코드_S01).
 
 
 **ATC 코드 S01**은 [ATC 코드의](https://ko.wikipedia.org/wiki/ATC_코드 "wikilink") 안과 약물로 사용하는 약물을 정리한 코드이다. \[1\] **ATC 코드** S 감각기관의 하위그룹을 이룬다.

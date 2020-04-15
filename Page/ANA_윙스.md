@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ANA ](https://ko.wikipedia.org/wiki/ANA_).
+> This article is converted from Wikipedia: [ANA 윙스](https://ko.wikipedia.org/wiki/ANA_윙스).
 
 
 **ANA 윙스**(, )는 [일본](../Page/일본.md "wikilink") [도쿄도](../Page/도쿄도.md "wikilink") [오타구](../Page/오타구.md "wikilink")에 본사를 둔 지역 항공사로 [일본](../Page/일본.md "wikilink") 전 지역을 연결하는 국내선을 운영한다.

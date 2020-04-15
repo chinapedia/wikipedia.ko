@@ -41,7 +41,7 @@
 
 ## 외부 링크
 
-  - [on Proposed Solution](http://www.proposedsolution.com/articles/classic-apple-advert/) 60초 광고
+  - [on Proposed Solution](https://web.archive.org/web/20110429192600/http://www.proposedsolution.com/articles/classic-apple-advert/) 60초 광고
   - [mov file, 8 MB](https://web.archive.org/web/20110716221221/http://www.theapplecollection.com/Collection/AppleMovies/mov/jerrysteinfield.mov) 30초 광고
 
 [분류:광고 캠페인](https://ko.wikipedia.org/wiki/분류:광고_캠페인 "wikilink") [분류:애플의 광고](https://ko.wikipedia.org/wiki/분류:애플의_광고 "wikilink") [분류:광고 문구](https://ko.wikipedia.org/wiki/분류:광고_문구 "wikilink") [분류:텔레비전 광고](https://ko.wikipedia.org/wiki/분류:텔레비전_광고 "wikilink")

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:FIFA U-17  ](https://ko.wikipedia.org/wiki/:FIFA_U-17__).
+> This article is converted from Wikipedia: [틀:FIFA U-17 여자 월드컵](https://ko.wikipedia.org/wiki/틀:FIFA_U-17_여자_월드컵).
 
 
 <onlyinclude></onlyinclude>

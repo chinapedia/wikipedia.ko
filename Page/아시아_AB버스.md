@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ AB](https://ko.wikipedia.org/wiki/_AB).
+> This article is converted from Wikipedia: [아시아 AB버스](https://ko.wikipedia.org/wiki/아시아_AB버스).
 
 
 **아시아 AB버스**는 [아시아자동차](https://ko.wikipedia.org/wiki/아시아자동차 "wikilink")의 대형[버스](../Page/버스.md "wikilink") 차종이며, 차량 네이밍에서 세자리로 이루어진 숫자는 엔진 마력을 뜻하였다. 아시아자동차에서 [피아트](../Page/피아트.md "wikilink") 버스(현재는 [이베코](../Page/이베코.md "wikilink"))의 [308 버스에서](https://ko.wikipedia.org/wiki/피아트_308 "wikilink") 원래 차량 하부 가운데에 있던 엔진을 전면에 탑재시켜 프론트엔진 버스로 만들어 놓고 차고를 높이는 등 [우리 나라](../Page/대한민국.md "wikilink") 사정에 맟게 설계하여 판매하였다.

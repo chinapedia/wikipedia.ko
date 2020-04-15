@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Immortal \(  \)](https://ko.wikipedia.org/wiki/Immortal_\(__\)).
+> This article is converted from Wikipedia: [Immortal \(마이클 잭슨의 음반\)](https://ko.wikipedia.org/wiki/Immortal_\(마이클_잭슨의_음반\)).
 
 
 **Immortal**은 "[태양의 서커스](https://ko.wikipedia.org/wiki/태양의_서커스 "wikilink") - 마이클 잭슨 이모탈 월드 투어" 공연의 사운드 트랙이자 리믹스 앨범이다.

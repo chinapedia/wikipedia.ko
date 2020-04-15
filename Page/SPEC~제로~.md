@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SPEC\~\~](https://ko.wikipedia.org/wiki/SPEC\~\~).
+> This article is converted from Wikipedia: [SPEC\~제로\~](https://ko.wikipedia.org/wiki/SPEC\~제로\~).
 
 
 《**SPEC\~제로\~**》 ()는, 만화·료 하루토, 원안·[니시오기 유미에](../Page/니시오기_유미에.md "wikilink"), 각본·사토나카 시즈루에 의한 [일본](../Page/일본.md "wikilink")의 SF 만화 작품이다. 당초는 〈**SPEC\~천\~프렐류드**〉(SPEC〜天〜零)의 타이틀로, 《영 에이스》([카도카와 쇼텐](../Page/가도카와_쇼텐.md "wikilink"))에서 [2012년](../Page/2012년.md "wikilink") 2월호부터 5월호까지 연재되어\[1\], 단행본화 즈음에 타이틀이 변경되었다. 전 1권. [2013년](../Page/2013년.md "wikilink") [10월 23일에는](../Page/10월_23일.md "wikilink") [TBS TV에서](../Page/도쿄_방송_홀딩스.md "wikilink") 스페셜 드라마화되어 방송되었다\[2\].

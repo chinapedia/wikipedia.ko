@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ROH  ](https://ko.wikipedia.org/wiki/ROH__).
+> This article is converted from Wikipedia: [ROH 파이널 배틀](https://ko.wikipedia.org/wiki/ROH_파이널_배틀).
 
 
 **파이널 배틀**은 [링 오브 오너가](https://ko.wikipedia.org/wiki/링_오브_오너 "wikilink") 주관하는 월간 페이퍼뷰로 매년 12월말에 진행된다. 원래는 페이퍼뷰가 아닌 하우스 쇼로 진행되었으나 2009년부터 페이퍼뷰 방식으로 변경되었으며, [링 오브 오너의](https://ko.wikipedia.org/wiki/링_오브_오너 "wikilink") 역사상 첫 번째 라이브 인터넷 방식 페이퍼뷰이다.

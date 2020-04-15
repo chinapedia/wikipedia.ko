@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [EBS ](https://ko.wikipedia.org/wiki/EBS_).
+> This article is converted from Wikipedia: [EBS 정오뉴스](https://ko.wikipedia.org/wiki/EBS_정오뉴스).
 
 
 《**EBS 정오뉴스**》(EBS NOON NEWS)는 [대한민국](../Page/대한민국.md "wikilink") [EBS 1TV에서](../Page/EBS_1TV.md "wikilink") 평일 낮 12시에 방송되는 [한국교육방송공사의 낮 뉴스 프로그램이다](https://ko.wikipedia.org/wiki/한국교육방송공사의_뉴스_프로그램 "wikilink").

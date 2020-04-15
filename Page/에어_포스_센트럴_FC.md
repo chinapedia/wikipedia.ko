@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [   FC](https://ko.wikipedia.org/wiki/___FC).
+> This article is converted from Wikipedia: [에어 포스 센트럴 FC](https://ko.wikipedia.org/wiki/에어_포스_센트럴_FC).
 
 
 **에어 포스 센트럴 FC**(, )는 [방콕](../Page/방콕.md "wikilink")을 연고로 하는 [태국](../Page/태국.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다. 현재는 [타이 리그 2에](../Page/타이_리그_2.md "wikilink") 참가하고 있다. [1937년](../Page/1937년.md "wikilink")부터 [2009년](../Page/2009년.md "wikilink")까지는 **태국 왕실 공군 FC**(Royal Thai Air Force)라는 명칭을 사용했다.

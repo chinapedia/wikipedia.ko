@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [BBC  3](https://ko.wikipedia.org/wiki/BBC__3).
+> This article is converted from Wikipedia: [BBC 라디오 3](https://ko.wikipedia.org/wiki/BBC_라디오_3).
 
 
 [오른쪽](https://ko.wikipedia.org/wiki/파일:BBC_Radio_3.svg "wikilink") **BBC Radio 3**(BBC Radio 3)는 [BBC의](../Page/영국방송공사.md "wikilink") 라디오 방송 중 하나로, 클래식 음악을 주로 방송한다.

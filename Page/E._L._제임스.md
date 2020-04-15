@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [E. L. ](https://ko.wikipedia.org/wiki/E._L._).
+> This article is converted from Wikipedia: [E. L. 제임스](https://ko.wikipedia.org/wiki/E._L._제임스).
 
 
 **에리카 레너드**(Erika Leonard, 1963년 \~ ) 또는 결혼 전 이름 **에리카 미첼**(Erika Mitchell)은 필명 **E. L. 제임스**(E. L. James)\[1\]로 알려진 영국의 소설가이다. 《[그레이의 50가지 그림자](../Page/그레이의_50가지_그림자.md "wikilink")》로 잘 알려져 있다.\[2\]\[3\]

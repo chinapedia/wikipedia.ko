@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KSV ](https://ko.wikipedia.org/wiki/KSV_).
+> This article is converted from Wikipedia: [KSV 루셀라레](https://ko.wikipedia.org/wiki/KSV_루셀라레).
 
 
 **KVC 루셀라레**(K.S.V. Roeselare)는 [벨기에](../Page/벨기에.md "wikilink") [루셀라레](https://ko.wikipedia.org/wiki/루셀라레 "wikilink")를 연고로 하는 프로 축구 클럽이다. 등록번호 (matricule)는 134호이다. [벨기에 프로리그에](https://ko.wikipedia.org/wiki/벨기에_프로리그 "wikilink") 진출했던 마지막 시즌은 [2005-06년 시즌부터](https://ko.wikipedia.org/wiki/2005-06_벨기에_프로리그 "wikilink") [2009-10년 시즌까지이다](https://ko.wikipedia.org/wiki/2009-10_벨기에_프로리그 "wikilink").

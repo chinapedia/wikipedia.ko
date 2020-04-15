@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [USL ](https://ko.wikipedia.org/wiki/USL_).
+> This article is converted from Wikipedia: [USL 챔피언십](https://ko.wikipedia.org/wiki/USL_챔피언십).
 
 
 **USL 챔피언십**(**U**nited **S**occer **L**eague Championship, **USL Championship**)은 [2011년](../Page/2011년.md "wikilink")부터 진행중인 [미국](../Page/미국.md "wikilink")과 [캐나다](../Page/캐나다.md "wikilink")의 [축구](../Page/축구.md "wikilink") 2부 리그이다. 과거에는 **유나이티드 사커 리그**라는 이름으로 불렸었다. 참가팀들은 대부분 미국과 [캐나다](../Page/캐나다.md "wikilink")의 팀이며, 과거에는 [푸에르토리코](../Page/푸에르토리코.md "wikilink")와 [앤티가바부다](https://ko.wikipedia.org/wiki/앤티가바부다 "wikilink")의 팀들도 참가한 적이 있다. [미국 축구 연맹의](https://ko.wikipedia.org/wiki/미국_축구_연맹 "wikilink") 축구 시스템 상 2부 리그로 구분되어 있으나, 현재 [메이저 리그 사커 (MLS)나](../Page/메이저_리그_사커.md "wikilink") 하위 리그인 [USL 리그 1과의](https://ko.wikipedia.org/wiki/USL_리그_1 "wikilink") 승강제는 없는 상태이다. 원래 푸에르토리코의 세 팀도 참가할 예정이었으나, 푸에르토리코 축구 리그에 소속되어 있어 두 리그의 경기 일정을 모두 소화하기 어려워 한 경기 만에 모두 빠져 나가 12개 팀으로 줄어들었다. 현재는 팀 수가 36개 팀으로 확장되었다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ J. ](https://ko.wikipedia.org/wiki/_J._).
+> This article is converted from Wikipedia: [데이비드 J. 와인랜드](https://ko.wikipedia.org/wiki/데이비드_J._와인랜드).
 
 
 [오른쪽](https://ko.wikipedia.org/wiki/파일:David_Wineland_2008.jpg "wikilink") **데이비드 제프리 와인랜드**(David Jeffrey Wineland, [1944년](../Page/1944년.md "wikilink") [2월 24일](../Page/2월_24일.md "wikilink") \~ )는 [미국](../Page/미국.md "wikilink")의 [물리학자](https://ko.wikipedia.org/wiki/물리학자 "wikilink")로, [2012년](../Page/2012년.md "wikilink") "개별 양자 시스템의 측정 및 조작을 가능케 하는 획기적인 실험 방법의 발견"을 공로로 [노벨 물리학상을](../Page/노벨_물리학상.md "wikilink") [세르주 아로슈와](../Page/세르주_아로슈.md "wikilink") 공동 수상하였다. 미국 밀워키 출신으로 현재 콜로라도 주 볼더에 있는 미국표준기술연구소(NIST)에서 연구원으로 일하고 있다. 그의 업적은 [광학](../Page/광학.md "wikilink"), 특히 [파울 트랩](https://ko.wikipedia.org/wiki/볼프강_파울 "wikilink")(Paul Trap)에서의 레이저 쿨링과 트랩된 이온을 양자 연산 기술에 이용하는 분야이다.

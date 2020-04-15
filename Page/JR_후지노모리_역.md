@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [JR  ](https://ko.wikipedia.org/wiki/JR__).
+> This article is converted from Wikipedia: [JR 후지노모리 역](https://ko.wikipedia.org/wiki/JR_후지노모리_역).
 
 
 **JR 후지노모리 역**()은 [일본](../Page/일본.md "wikilink") [교토부](../Page/교토부.md "wikilink") [교토 시](https://ko.wikipedia.org/wiki/교토_시 "wikilink") [후시미 구에](https://ko.wikipedia.org/wiki/후시미_구 "wikilink") 있는 [서일본 여객철도의](https://ko.wikipedia.org/wiki/서일본_여객철도 "wikilink") [철도역](../Page/철도역.md "wikilink")이다.

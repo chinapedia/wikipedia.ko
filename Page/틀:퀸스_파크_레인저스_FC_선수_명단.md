@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:   FC  ](https://ko.wikipedia.org/wiki/:___FC__).
+> This article is converted from Wikipedia: [틀:퀸스 파크 레인저스 FC 선수 명단](https://ko.wikipedia.org/wiki/틀:퀸스_파크_레인저스_FC_선수_명단).
 
 
 <onlyinclude></onlyinclude>

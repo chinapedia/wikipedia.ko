@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ SC](https://ko.wikipedia.org/wiki/_SC).
+> This article is converted from Wikipedia: [네지메 SC](https://ko.wikipedia.org/wiki/네지메_SC).
 
 
 **네지메**(, )는 [1945년](../Page/1945년.md "wikilink")에 창단된 [레바논](../Page/레바논.md "wikilink") [베이루트](../Page/베이루트.md "wikilink")의 축구 클럽이다.

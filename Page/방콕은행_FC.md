@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
+> This article is converted from Wikipedia: [방콕은행 FC](https://ko.wikipedia.org/wiki/방콕은행_FC).
 
 
 **방콕은행 FC**(, )는 [태국](../Page/태국.md "wikilink") [방콕](../Page/방콕.md "wikilink")을 연고로 하던 축구 선수단으로, [타이 프리미어리그에](https://ko.wikipedia.org/wiki/타이_프리미어리그 "wikilink") 참가했다.

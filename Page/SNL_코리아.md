@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [SNL ](https://ko.wikipedia.org/wiki/SNL_).
+> This article is converted from Wikipedia: [SNL 코리아](https://ko.wikipedia.org/wiki/SNL_코리아).
 
 
-《**SNL 코리아**》(Saturday Night Live Korea)는 [tvN](https://ko.wikipedia.org/wiki/tvN "wikilink")에서 방영되었던 대한민국의 텔레비전 코미디 프로그램이다. 2011년 12월 3일에 방영을 시작해 2017년 11월 18일에 종영되었다.
+《**SNL 코리아**》(Saturday Night Live Korea)는 [tvN](https://ko.wikipedia.org/wiki/tvN "wikilink")에서 방영되었던 대한민국의 텔레비전 코미디 프로그램이다. [미국 SNL에](../Page/새터데이_나이트_라이브.md "wikilink") 방송 포맷 그대로 한동안 대한민국 최초로 [생방송](../Page/생방송.md "wikilink") 코메디 프로그램을 방송하였다. 2011년 12월 3일에 방영을 시작해 2017년 11월 18일에 종영되었다.
 
 ## 크루
 

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ SC](https://ko.wikipedia.org/wiki/_SC).
+> This article is converted from Wikipedia: [알카르흐 SC](https://ko.wikipedia.org/wiki/알카르흐_SC).
 
 
 **알카르흐 스포츠 클럽**()은 [바그다드](../Page/바그다드.md "wikilink")에 있는 [카르흐](https://ko.wikipedia.org/wiki/카르흐 "wikilink")를 연고로 하는 [이라크](../Page/이라크.md "wikilink")의 축구팀이다. [1991년](../Page/1991년.md "wikilink")까지는 **알라시드 클럽**으로 알려졌다. [아시안 클럽 챔피언십 1988-89에서](https://ko.wikipedia.org/wiki/아시안_클럽_챔피언십_1988-89 "wikilink") [원정 다득점](../Page/원정_다득점.md "wikilink") 규칙에 의해 [카타르](../Page/카타르.md "wikilink")의 [알사드에](https://ko.wikipedia.org/wiki/알사드_스포츠_클럽 "wikilink") 이어 준우승을 차지하였다. [2006년](../Page/2006년.md "wikilink")에는 2부 리그로 추락하기도 하였으나 [2009년](../Page/2009년.md "wikilink") 다시 1부 리그로 승격하였다.

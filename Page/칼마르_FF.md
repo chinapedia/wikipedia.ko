@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ FF](https://ko.wikipedia.org/wiki/_FF).
+> This article is converted from Wikipedia: [칼마르 FF](https://ko.wikipedia.org/wiki/칼마르_FF).
 
 
 **칼마르 FF**(Kalmar FF)는 [1910년](../Page/1910년.md "wikilink") [1월 10일에](../Page/1월_10일.md "wikilink") 창단된 [스웨덴](../Page/스웨덴.md "wikilink") [칼마르](../Page/칼마르.md "wikilink")를 연고로 하는 [축구](../Page/축구.md "wikilink") 클럽으로, 리그 우승 1회와 컵 대회 우승 3회의 기록을 보유하고 있다. 현재 [알스벤스칸](../Page/알스벤스칸.md "wikilink")에서 활동하고 있다.

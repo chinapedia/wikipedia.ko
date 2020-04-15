@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Blue \( \)](https://ko.wikipedia.org/wiki/Blue_\(_\)).
+> This article is converted from Wikipedia: [Blue \(빅뱅의 노래\)](https://ko.wikipedia.org/wiki/Blue_\(빅뱅의_노래\)).
 
 
 ***Blue***()는 대한민국의 음악 그룹 [빅뱅의](../Page/빅뱅_\(음악_그룹\).md "wikilink") 노래이다. 이 노래는 2012년 2월 29일 발매 된 그들의 다섯 번째 EP 음반 *[Alive](https://ko.wikipedia.org/wiki/Alive_\(EP\) "wikilink")*에 수록 되어 있다. 이에 앞서 2월 22일 선공개 되었다. 이 노래는 사랑하는 연인을 떠나보내면서 느끼는 감정을 '푸른색'으로 표현한 감성적인 분위기의 곡이다.

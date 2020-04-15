@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TV ](https://ko.wikipedia.org/wiki/TV_).
+> This article is converted from Wikipedia: [TV 문화속으로](https://ko.wikipedia.org/wiki/TV_문화속으로).
 
 
 **TV 문화속으로**는 매주 [토요일](../Page/토요일.md "wikilink") 아침 10시 30분에 부산 [KBS 1TV](https://ko.wikipedia.org/wiki/KBS부산방송총국#KBS_1TV "wikilink") 및 울산 [KBS 1TV로](https://ko.wikipedia.org/wiki/KBS울산방송국#KBS_1TV "wikilink") 각각 방송되었던 [텔레비전 프로그램이다](../Page/텔레비전_프로그램.md "wikilink").

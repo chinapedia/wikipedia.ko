@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TV  ](https://ko.wikipedia.org/wiki/TV__).
+> This article is converted from Wikipedia: [TV조선 뉴스 판](https://ko.wikipedia.org/wiki/TV조선_뉴스_판).
 
 
 《**TV조선 뉴스 판**》은 [대한민국](../Page/대한민국.md "wikilink")의 [종합편성채널](https://ko.wikipedia.org/wiki/종합편성채널 "wikilink")인 [TV조선](../Page/TV조선.md "wikilink")의 메인 뉴스 프로그램이다.
@@ -82,7 +82,7 @@
 
 ## 일요일 동시간대 경쟁 프로그램
 
-  - [해피선데이](https://ko.wikipedia.org/wiki/해피선데이 "wikilink")
+  - [해피선데이](../Page/해피선데이.md "wikilink")
       - [슈퍼맨이 돌아왔다](../Page/슈퍼맨이_돌아왔다.md "wikilink") (1부 프로그램)
       - [1박 2일](../Page/1박_2일.md "wikilink") (2부 프로그램)
   - [월계수 양복점 신사들](https://ko.wikipedia.org/wiki/월계수_양복점_신사들 "wikilink") (KBS 2TV)

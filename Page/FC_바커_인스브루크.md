@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FC  ](https://ko.wikipedia.org/wiki/FC__).
+> This article is converted from Wikipedia: [FC 바커 인스브루크](https://ko.wikipedia.org/wiki/FC_바커_인스브루크).
 
 
 **FC 바커 인스브루크**(FC Wacker Innsbruck)는 [2002년](../Page/2002년.md "wikilink") 6월에 창단된 [오스트리아](../Page/오스트리아.md "wikilink") [인스브루크](../Page/인스브루크.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽으로, 현재 [오스트리아 분데스리가에서](https://ko.wikipedia.org/wiki/오스트리아_분데스리가 "wikilink") 활동하고 있다.

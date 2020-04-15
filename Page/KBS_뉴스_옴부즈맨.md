@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KBS  ](https://ko.wikipedia.org/wiki/KBS__).
+> This article is converted from Wikipedia: [KBS 뉴스 옴부즈맨](https://ko.wikipedia.org/wiki/KBS_뉴스_옴부즈맨).
 
 
 **KBS 뉴스 옴부즈맨**은 [KBS 1TV에서](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink") 매월 마지막주 [일요일](../Page/일요일.md "wikilink") 오후 5시 10분에 방송되었던 [한국방송공사](../Page/한국방송공사.md "wikilink")의 일요일 저녁 옴부즈맨 프로그램이다.

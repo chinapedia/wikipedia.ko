@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [AJ ](https://ko.wikipedia.org/wiki/AJ_).
+> This article is converted from Wikipedia: [AJ 리](https://ko.wikipedia.org/wiki/AJ_리).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:AJ_Lee_WM_Axxess_2014.jpg "wikilink") **AJ 리**(AJ Lee, [1987년](../Page/1987년.md "wikilink") [3월 19일](../Page/3월_19일.md "wikilink") \~ )는 [미국](../Page/미국.md "wikilink")의 여자 [프로레슬링](../Page/프로레슬링.md "wikilink")선수다. 본명은 **에이프릴 자넷 멘데스**(April Jeanette Mendez)이다.

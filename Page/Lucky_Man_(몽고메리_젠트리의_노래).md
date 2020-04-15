@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Lucky Man \(  \)](https://ko.wikipedia.org/wiki/Lucky_Man_\(__\)).
+> This article is converted from Wikipedia: [Lucky Man \(몽고메리 젠트리의 노래\)](https://ko.wikipedia.org/wiki/Lucky_Man_\(몽고메리_젠트리의_노래\)).
 
 
 "**Lucky Man**"은 [몽고메리 젠트리의](../Page/몽고메리_젠트리.md "wikilink") 노래로, 2007년 1월 발매되었다. 음반 *[Some People Change](../Page/Some_People_Change.md "wikilink")*에 수록되었다.

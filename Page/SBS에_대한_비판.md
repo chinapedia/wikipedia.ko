@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SBS  ](https://ko.wikipedia.org/wiki/SBS__).
+> This article is converted from Wikipedia: [SBS에 대한 비판](https://ko.wikipedia.org/wiki/SBS에_대한_비판).
 
 
 본 문서는 대한민국의 방송국 중 하나인 **[SBS](../Page/SBS_\(대한민국의_방송사\).md "wikilink")**에 대한 비판이다.

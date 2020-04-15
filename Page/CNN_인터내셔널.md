@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [CNN ](https://ko.wikipedia.org/wiki/CNN_).
+> This article is converted from Wikipedia: [CNN 인터내셔널](https://ko.wikipedia.org/wiki/CNN_인터내셔널).
 
 
 **CNN 인터내셔널**(**CNN International**, 간단히 **CNNI**)은 국제적인 TV 뉴스 채널이다. [워너미디어](../Page/워너미디어.md "wikilink")에서 소유하고 있다. [BBC 월드 뉴스가](../Page/BBC_월드_뉴스.md "wikilink") 주요 경쟁사다. 전 세계 200개국의 20억 가구와 호텔 등에서 시청할 수 있다. CNN 인터내셔널은 [1985년](../Page/1985년.md "wikilink") [9월 1일](../Page/9월_1일.md "wikilink") 전파를 타기 시작했다.
@@ -24,7 +24,7 @@
   - [미니애폴리스](../Page/미니애폴리스.md "wikilink")
   - [올랜도](../Page/올랜도.md "wikilink")
   - [필라델피아](../Page/필라델피아.md "wikilink")
-  - [피닉스](https://ko.wikipedia.org/wiki/피닉스 "wikilink")
+  - [피닉스](../Page/피닉스.md "wikilink")
   - [시애틀](../Page/시애틀.md "wikilink")
 
 ### 해외

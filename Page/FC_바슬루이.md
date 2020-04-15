@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FC ](https://ko.wikipedia.org/wiki/FC_).
+> This article is converted from Wikipedia: [FC 바슬루이](https://ko.wikipedia.org/wiki/FC_바슬루이).
 
 
 **FC 바슬루이**()는 [바슬루이](https://ko.wikipedia.org/wiki/바슬루이 "wikilink")를 연고로 하는 [루마니아](../Page/루마니아.md "wikilink")의 축구 클럽으로, [2002년](../Page/2002년.md "wikilink") [7월 20일에](../Page/7월_20일.md "wikilink") 설립되었다.

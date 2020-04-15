@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
+> This article is converted from Wikipedia: [홍콩 FC](https://ko.wikipedia.org/wiki/홍콩_FC).
 
 
 **홍콩 FC**() 또는 **홍콩 축구회**()는 [1886년](../Page/1886년.md "wikilink")에 창단된 [홍콩](../Page/홍콩.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽으로, 현재 [홍콩 1부 리그에서](../Page/홍콩_1부_리그.md "wikilink") 활동하고 있다. 홍콩 FC는 [축구](../Page/축구.md "wikilink") 팀과 [럭비](../Page/럭비.md "wikilink") 팀을 운영하고 있으며 2009–10 [홍콩 2부 리그에서](https://ko.wikipedia.org/wiki/홍콩_2부_리그 "wikilink") 1위를 차지, [홍콩 1부 리그로](../Page/홍콩_1부_리그.md "wikilink") 승격되었다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SD ](https://ko.wikipedia.org/wiki/SD_).
+> This article is converted from Wikipedia: [SD 폰페라디나](https://ko.wikipedia.org/wiki/SD_폰페라디나).
 
 
 **SD 폰페라디나**(Sociedad Deportiva Ponferradina, S.A.D.)는 [카스티야이레온 지방](https://ko.wikipedia.org/wiki/카스티야이레온_지방 "wikilink") [레온 주](https://ko.wikipedia.org/wiki/레온_주_\(스페인\) "wikilink") [폰페라다](../Page/폰페라다.md "wikilink")를 연고로 하는 [스페인](../Page/스페인.md "wikilink")의 축구 클럽이다. 이 클럽은 [1922년](../Page/1922년.md "wikilink") [6월 7일에](../Page/6월_7일.md "wikilink") 창단되었으며 2014-15 시즌에서 [세군다 디비시온에](../Page/세군다_디비시온.md "wikilink") 참가하고 있다.

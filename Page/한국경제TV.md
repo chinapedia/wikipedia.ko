@@ -1,7 +1,8 @@
-> This article is converted from Wikipedia: [TV](https://ko.wikipedia.org/wiki/TV).
+> This article is converted from Wikipedia: [한국경제TV](https://ko.wikipedia.org/wiki/한국경제TV).
 
 
-**한국경제TV**는 대한민국의 24시간 실시간 경제 뉴스 전문의 케이블방송사로 [1999년](../Page/1999년.md "wikilink") [8월 31일에](../Page/8월_31일.md "wikilink") 창립되었다. 한국경제TV는 한국경제신문의 경제채널이다. 지금은 케이블 경제방송채널이고, 지상파 DMB인 [U1 DMB를](https://ko.wikipedia.org/wiki/U1_DMB "wikilink") 통해 수도권에서만 지상파 DMB가 송출된다.
+**한국경제TV**는 대한민국의 24시간 실시간 경제 뉴스 전문의 케이블방송사로 [1999년](../Page/1999년.md "wikilink") [8월 31일에](../Page/8월_31일.md "wikilink") 창립되었다. 한국경제TV는 한국경제신문의 경제채널이다. 본사는 [서울특별시](../Page/서울특별시.md "wikilink") [영등포구](../Page/영등포구.md "wikilink") 버드나루로 84
+(영등포동7가 94-46)에 있으며 케이블 경제방송채널로서 지상파 DMB인 [U1 DMB를](https://ko.wikipedia.org/wiki/U1_DMB "wikilink") 통해 수도권에서만 지상파 DMB가 송출된다.
 
 ## 제작 프로그램
 

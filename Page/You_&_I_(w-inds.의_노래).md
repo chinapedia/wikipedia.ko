@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [You \& I \(w-inds. \)](https://ko.wikipedia.org/wiki/You_\&_I_\(w-inds._\)).
+> This article is converted from Wikipedia: [You \& I \(w-inds.의 노래\)](https://ko.wikipedia.org/wiki/You_\&_I_\(w-inds.의_노래\)).
 
 
 〈**You & I**〉는 [w-inds.](https://ko.wikipedia.org/wiki/w-inds. "wikilink")의 30번째 싱글로, [2011년](../Page/2011년.md "wikilink") [8월 17일에](../Page/8월_17일.md "wikilink") 발매되었다.
@@ -36,4 +36,9 @@
   - [오리콘 차트](https://ko.wikipedia.org/wiki/오리콘_차트 "wikilink") 9위 기록 (총판매량 24,172장)
   - [뮤직 스테이션](../Page/뮤직_스테이션.md "wikilink") CD랭킹 9위를 기록하였다
 
+## 외부 링크
+
+  - [w-inds.(윈즈) 싱글 디스코 그라피 YoU\&I 싱글 발매 (8월 17일)](http://www.w-inds.tv/discography/single/)
+
+  -
 [분류:W-inds.의 노래](https://ko.wikipedia.org/wiki/분류:W-inds.의_노래 "wikilink") [분류:2011년 싱글](https://ko.wikipedia.org/wiki/분류:2011년_싱글 "wikilink")

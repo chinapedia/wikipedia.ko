@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  FC](https://ko.wikipedia.org/wiki/__FC).
+> This article is converted from Wikipedia: [사바 쿰 FC](https://ko.wikipedia.org/wiki/사바_쿰_FC).
 
 
 **사바 쿰 FC**()는 [이란](../Page/이란.md "wikilink")의 프로 [축구](../Page/축구.md "wikilink") 클럽으로 [쿰](https://ko.wikipedia.org/wiki/쿰 "wikilink")을 연고로 하고 있다. 이전에는 [테헤란](../Page/테헤란.md "wikilink")을 연고로 하는 사바 배터리의 소유 구단인 [사바 배터리 클럽이었지만](https://ko.wikipedia.org/wiki/사바_배터리_클럽 "wikilink"), 2007년 [쿰](https://ko.wikipedia.org/wiki/쿰 "wikilink")으로 옮기며 명칭을 변경하였다.

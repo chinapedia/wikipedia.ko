@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [    II  October](https://ko.wikipedia.org/wiki/____II__October).
+> This article is converted from Wikipedia: [소니 에릭슨 글로벌 스타크래프트 II 리그 October](https://ko.wikipedia.org/wiki/소니_에릭슨_글로벌_스타크래프트_II_리그_October).
 
 
 **소니 에릭슨 글로벌 스타크래프트 II 리그 October**(Sony Ericsson Global Star Craft II League October)는 글로벌 스타크래프트 II 리그의 12번째 정규 시즌으로 2011년 9월 20일 개막했다.

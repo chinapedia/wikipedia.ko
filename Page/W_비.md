@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [W ](https://ko.wikipedia.org/wiki/W_).
+> This article is converted from Wikipedia: [W 비](https://ko.wikipedia.org/wiki/W_비).
 
 
 **W 비**는 [SK텔레시스](../Page/SK텔레시스.md "wikilink")가 2010년 5월 3일에 출시한 [휴대 전화기이다](https://ko.wikipedia.org/wiki/휴대_전화기 "wikilink").\[1\]

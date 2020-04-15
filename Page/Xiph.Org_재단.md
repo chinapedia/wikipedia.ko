@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Xiph.Org ](https://ko.wikipedia.org/wiki/Xiph.Org_).
+> This article is converted from Wikipedia: [Xiph.Org 재단](https://ko.wikipedia.org/wiki/Xiph.Org_재단).
 
 
 **Xiph.Org 재단**(자이프닷오르그재단\[1\])은 무료 멀티미디어 포맷과 소프트웨어 도구를 개발하는 [비영리 단체이다](../Page/비영리_단체.md "wikilink"). Xiph 재단은 [특허](../Page/특허.md "wikilink")가 있는 [MP3](https://ko.wikipedia.org/wiki/MP3 "wikilink"), [AAC에](../Page/고급_오디오_부호화.md "wikilink") 대항하기 위해 개발된, 오디오 포맷 및 [코덱](../Page/코덱.md "wikilink")인 [Vorbis](../Page/Vorbis.md "wikilink") 등의 Ogg 계열 포맷에 초점을 맞추고 있다. 현재의 개발 작업은 특허된 [MPEG-4](../Page/MPEG-4.md "wikilink"), [리얼 비디오](https://ko.wikipedia.org/wiki/리얼_비디오 "wikilink"), [WMV](https://ko.wikipedia.org/wiki/WMV "wikilink")에 대항하기 위해 만들어진, [개방형](../Page/오픈_소스.md "wikilink") 비특허 영상 포맷 또는 코덱인 [Theora](https://ko.wikipedia.org/wiki/Theora "wikilink")에 집중하고 있다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TG-  1](https://ko.wikipedia.org/wiki/TG-__1).
+> This article is converted from Wikipedia: [TG삼보-인텔 클래식 시즌1](https://ko.wikipedia.org/wiki/TG삼보-인텔_클래식_시즌1).
 
 
 **TG삼보-인텔 클래식 시즌1**(TG Sambo-Intel Classic Season1)은 [곰TV](../Page/곰TV.md "wikilink")의 [스타크래프트](../Page/스타크래프트.md "wikilink")의 첫 리그이며, 4개월 동안 진행되었다.\[1\]

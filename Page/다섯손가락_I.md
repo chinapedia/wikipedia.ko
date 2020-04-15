@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ I](https://ko.wikipedia.org/wiki/_I).
+> This article is converted from Wikipedia: [다섯손가락 I](https://ko.wikipedia.org/wiki/다섯손가락_I).
 
 
 《'''다섯손가락 I '''》는 [다섯 손가락의](https://ko.wikipedia.org/wiki/다섯_손가락_\(음악_그룹\) "wikilink") 첫 번째 음반이다.

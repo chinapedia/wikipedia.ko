@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KSK ](https://ko.wikipedia.org/wiki/KSK_).
+> This article is converted from Wikipedia: [KSK 베베런](https://ko.wikipedia.org/wiki/KSK_베베런).
 
 
 **KSK 베베런**(Koninklijke Sportkring Beveren)은 [벨기에](../Page/벨기에.md "wikilink") [베베런](../Page/베베런.md "wikilink")의 축구 클럽이다. 이 클럽은 [1934년](../Page/1934년.md "wikilink") [7월 1일에](../Page/7월_1일.md "wikilink") 창단했으며, [1935년](../Page/1935년.md "wikilink") [9월 6일에](../Page/9월_6일.md "wikilink") 벨기에 축구 협회에 정식으로 등록되었다. [2010년](../Page/2010년.md "wikilink") 6월 재정난을 이유로 해체되었으며, 이후 KV 레드스타 바슬란트와 합하여 [바슬란트-베베런](../Page/바슬란트-베베런.md "wikilink")으로 개편되었다.

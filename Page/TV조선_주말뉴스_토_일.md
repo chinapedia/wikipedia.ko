@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TV   ](https://ko.wikipedia.org/wiki/TV___).
+> This article is converted from Wikipedia: [TV조선 주말뉴스 토 일](https://ko.wikipedia.org/wiki/TV조선_주말뉴스_토_일).
 
 
 **TV조선 주말뉴스 토 일**은 [대한민국](../Page/대한민국.md "wikilink")에서 주말 오후 7시 \~ 8시에 [텔레비전](../Page/텔레비전.md "wikilink")으로 방송했던 [TV조선](../Page/TV조선.md "wikilink")의 주말 메인 [뉴스](../Page/뉴스.md "wikilink") 프로그램이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [IT](https://ko.wikipedia.org/wiki/IT).
+> This article is converted from Wikipedia: [경민IT고등학교](https://ko.wikipedia.org/wiki/경민IT고등학교).
 
 
 **경민IT고등학교**(慶旼아이티高等學校)는 [경기도](https://ko.wikipedia.org/wiki/경기도 "wikilink") [의정부시](../Page/의정부시.md "wikilink") 가능동에 있는 사립 [고등학교](https://ko.wikipedia.org/wiki/고등학교 "wikilink")이다.

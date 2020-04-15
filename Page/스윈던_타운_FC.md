@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  FC](https://ko.wikipedia.org/wiki/__FC).
+> This article is converted from Wikipedia: [스윈던 타운 FC](https://ko.wikipedia.org/wiki/스윈던_타운_FC).
 
 
 **스윈던 타운 풋볼 클럽**()은 [윌트셔주](../Page/윌트셔주.md "wikilink") [스윈던](../Page/스윈던.md "wikilink")을 연고로 하는 [잉글랜드](../Page/잉글랜드.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다.

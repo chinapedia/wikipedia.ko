@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SK](https://ko.wikipedia.org/wiki/SK).
+> This article is converted from Wikipedia: [SK마케팅앤컴퍼니](https://ko.wikipedia.org/wiki/SK마케팅앤컴퍼니).
 
 
 **SK마케팅앤컴퍼니**는 2008년 SK그룹 내의 두 주력 회사인 **[SK텔레콤](../Page/SK텔레콤.md "wikilink")**과 **[SK에너지](../Page/SK에너지.md "wikilink")**가 50대 50의 지분을 투자, 총 3천800억원 규모로 설립한 마케팅 서비스 전문회사다.

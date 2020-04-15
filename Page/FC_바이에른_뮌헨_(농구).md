@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FC   \(\)](https://ko.wikipedia.org/wiki/FC___\(\)).
+> This article is converted from Wikipedia: [FC 바이에른 뮌헨 \(농구\)](https://ko.wikipedia.org/wiki/FC_바이에른_뮌헨_\(농구\)).
 
 
 **FC 바이에른 뮌헨 바스켓볼**(FC Bayern Munich Basketball)은 [독일](../Page/독일.md "wikilink") [뮌헨](../Page/뮌헨.md "wikilink")을 연고로 하는 프로농구단이다.

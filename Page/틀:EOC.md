@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:EOC](https://ko.wikipedia.org/wiki/:EOC).
+> This article is converted from Wikipedia: [틀:EOC](https://ko.wikipedia.org/wiki/틀:EOC).
 
 
 <onlyinclude>{{둘러보기 상자 |이름 = EOC |제목 = \[\[유럽_올림픽_위원회|</onlyinclude>

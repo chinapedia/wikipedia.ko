@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [- CL](https://ko.wikipedia.org/wiki/-_CL).
+> This article is converted from Wikipedia: [메르세데스-벤츠 CL](https://ko.wikipedia.org/wiki/메르세데스-벤츠_CL).
 
 
 **메르세데스-벤츠 CL 클래스**(Mercedes-Benz CL-Class)는 [다임러 AG가](../Page/다임러_AG.md "wikilink") 제조해 [메르세데스-벤츠](../Page/메르세데스-벤츠.md "wikilink")로 판매하는 승용차이다. [S 클래스와](../Page/메르세데스-벤츠_S_클래스.md "wikilink") 플랫폼 및 부품을 공유하며, [메르세데스-벤츠](../Page/메르세데스-벤츠.md "wikilink")의 3 포인티드 스타 엠블럼이 본넷 위가 아닌 라디에이터 그릴 안에 위치하고 있는 게 [S 클래스와는](../Page/메르세데스-벤츠_S_클래스.md "wikilink") 다른 점이다. 원래 [S 클래스](../Page/메르세데스-벤츠_S_클래스.md "wikilink") 베이스의 플래그십 [쿠페](../Page/쿠페.md "wikilink")는 라인업 안에서 배기량을 나타내는 숫자 뒤에 SEC가 붙는 1개의 그레이드로서 존재하고 있었다. [1993년](../Page/1993년.md "wikilink")부터 S500 [쿠페](../Page/쿠페.md "wikilink") 및 S600 [쿠페](../Page/쿠페.md "wikilink")라고 하는 그레이드로 되었고, [1996년](../Page/1996년.md "wikilink")에 비로소 CL 클래스라는 별도의 차명으로 독립되었다. CL 클래스 중 CL600은 V12 엔진을 탑재했으며, [메르세데스-벤츠](../Page/메르세데스-벤츠.md "wikilink")가 세계에 자랑하는 2도어 [쿠페](../Page/쿠페.md "wikilink")의 정점이다. [2013년](../Page/2013년.md "wikilink")에 [S 클래스가](../Page/메르세데스-벤츠_S_클래스.md "wikilink") 풀 모델 체인지를 거침에 따라 다시 [S 클래스로](../Page/메르세데스-벤츠_S_클래스.md "wikilink") 통합된다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [   1st Dance Floor](https://ko.wikipedia.org/wiki/___1st_Dance_Floor).
+> This article is converted from Wikipedia: [펌프 잇 업 1st Dance Floor](https://ko.wikipedia.org/wiki/펌프_잇_업_1st_Dance_Floor).
 
 
 **펌프 잇 업 1st Dance Floor**는 [1999년](../Page/1999년.md "wikilink") [9월 20일에](../Page/9월_20일.md "wikilink") 발매한 [펌프 잇 업의](../Page/펌프_잇_업.md "wikilink") 초대작으로 첫 작품이었기 때문에 별다른 부제없이 펌프 잇 업\!으로 출시되었다. 다만 출시 당시에는 선풍적인 인기를 끌었고 그에 따라 우후죽순으로 쏟아져 나오는 댄스 댄스 레볼루션의 아류작 중 하나인줄 안 사람이 많았었다. 후기 버전이 있었는데 저작권 문제 때문에 그 버전에서 김현정의 실루엣이 삭제되고 대신 **허니 패밀리의 랩교 2막**이 들어가게 되었다.

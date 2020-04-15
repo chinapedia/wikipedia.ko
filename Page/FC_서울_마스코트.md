@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FC  ](https://ko.wikipedia.org/wiki/FC__).
+> This article is converted from Wikipedia: [FC 서울 마스코트](https://ko.wikipedia.org/wiki/FC_서울_마스코트).
 
 
 [FC 서울의](https://ko.wikipedia.org/wiki/FC_서울 "wikilink") [마스코트](https://ko.wikipedia.org/wiki/마스코트 "wikilink")에 관한 문서이다.

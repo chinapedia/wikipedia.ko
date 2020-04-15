@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FC  ](https://ko.wikipedia.org/wiki/FC__).
+> This article is converted from Wikipedia: [FC 발티카 칼리닌그라드](https://ko.wikipedia.org/wiki/FC_발티카_칼리닌그라드).
 
 
 **FC 발티카 칼리닌그라드**()는 [러시아](../Page/러시아.md "wikilink") [칼리닌그라드](../Page/칼리닌그라드.md "wikilink")를 연고로 하는 축구 클럽으로 현재는 [러시아 퍼스트 디비전에](https://ko.wikipedia.org/wiki/러시아_퍼스트_디비전 "wikilink") 참가하고 있다. 1954년 12월 22일 **피셰비크**()라는 이름으로 창단되었으며 1958년 클럽 이름을 **발티카**()로 변경하여 오늘에 이른다.

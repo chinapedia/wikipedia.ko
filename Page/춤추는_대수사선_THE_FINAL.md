@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  THE FINAL](https://ko.wikipedia.org/wiki/__THE_FINAL).
+> This article is converted from Wikipedia: [춤추는 대수사선 THE FINAL](https://ko.wikipedia.org/wiki/춤추는_대수사선_THE_FINAL).
 
 
 《**춤추는 대수사선 THE FINAL 새로운 희망**》()은 [일본](../Page/일본.md "wikilink")에서 [2012년](../Page/2012년.md "wikilink") [9월 7일에](../Page/9월_7일.md "wikilink") 개봉한 [일본 영화이다](../Page/일본의_영화.md "wikilink").

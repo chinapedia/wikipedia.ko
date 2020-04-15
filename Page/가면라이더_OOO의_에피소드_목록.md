@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ OOO  ](https://ko.wikipedia.org/wiki/_OOO__).
+> This article is converted from Wikipedia: [가면라이더 OOO의 에피소드 목록](https://ko.wikipedia.org/wiki/가면라이더_OOO의_에피소드_목록).
 
 
 아래는 [일본](../Page/일본.md "wikilink") [토에이](https://ko.wikipedia.org/wiki/토에이 "wikilink")의 특수 촬영 드라마 **[가면라이더 OOO](../Page/가면라이더_OOO.md "wikilink")**의 방영 방영 목록이다.

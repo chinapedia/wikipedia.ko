@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FITI](https://ko.wikipedia.org/wiki/FITI).
+> This article is converted from Wikipedia: [FITI시험연구원](https://ko.wikipedia.org/wiki/FITI시험연구원).
 
 
 **FITI시험연구원**은 섬유 . 산업자재 . 환경 자원 . 미생물 분야 등을 대상으로 시험분석, 품질검사, 품질보증 서비스를 제공하고 시험평가 방법의 개발, 표준화, 관련 부문에 대한 기술지도 및 자료 정보의 제공을 통해 고객기업의 국제경쟁력 향상을 위해 설립된 연구기관이다. [서울특별시](../Page/서울특별시.md "wikilink") [강서구](https://ko.wikipedia.org/wiki/강서구 "wikilink") 마곡에 위치하고 있다.

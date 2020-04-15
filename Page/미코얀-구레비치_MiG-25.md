@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [- MiG-25](https://ko.wikipedia.org/wiki/-_MiG-25).
+> This article is converted from Wikipedia: [미코얀-구레비치 MiG-25](https://ko.wikipedia.org/wiki/미코얀-구레비치_MiG-25).
 
 
 **미코얀-구레비치 MiG-25**(), 나토 코드네임 **폭스배트**(Foxbat)는 [소비에트 연방](https://ko.wikipedia.org/wiki/소비에트_연방 "wikilink") 공군의 [초음속](https://ko.wikipedia.org/wiki/초음속 "wikilink") [요격기](https://ko.wikipedia.org/wiki/요격기 "wikilink")이자 [정찰기](../Page/정찰기.md "wikilink")로, 역사상 취역한 군용기, 특히 전투기·요격기 중에서 가장 빠른 기체이다. 구 소련의 미코얀-구레비치 설계국에서 제작한 MiG-25의 원형기는 1964년에 처녀비행을 가졌으며, 1970년에 일선에 취역했다. 최고 속도는 [마하](../Page/마하_수.md "wikilink") 2.83+에 달하며, 엔진의 파괴를 무릅쓰고 가속하면 마하 3.2까지 비행이 가능하다. 이뿐 아니라 강력한 [레이다](../Page/레이다.md "wikilink")와 4발의 [공대공 미사일을](https://ko.wikipedia.org/wiki/공대공_미사일 "wikilink") 장착했다.

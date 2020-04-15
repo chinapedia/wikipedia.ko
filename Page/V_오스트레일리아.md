@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [V ](https://ko.wikipedia.org/wiki/V_).
+> This article is converted from Wikipedia: [V 오스트레일리아](https://ko.wikipedia.org/wiki/V_오스트레일리아).
 
 
 **V 오스트레일리아**()는 [오스트레일리아](../Page/오스트레일리아.md "wikilink")의 장거리 국제선 전문 [저비용 항공사이자](../Page/저비용_항공사.md "wikilink") [버진 그룹의](../Page/버진_그룹.md "wikilink") 자회사로 [2007년](../Page/2007년.md "wikilink")에 설립해 [2009년](../Page/2009년.md "wikilink")에 취항을 개시 했으나 [2011년](../Page/2011년.md "wikilink")에 버진 블루와 합병한 뒤 [버진 오스트레일리아로](https://ko.wikipedia.org/wiki/버진_오스트레일리아 "wikilink") 개명된 [저비용 항공사로](../Page/저비용_항공사.md "wikilink") 본사는 [오스트레일리아](../Page/오스트레일리아.md "wikilink") [시드니](../Page/시드니.md "wikilink")에 위치해 있으며 당시 [허브 공항은](../Page/허브_공항.md "wikilink") [시드니 공항이](https://ko.wikipedia.org/wiki/시드니_공항 "wikilink") 있다.

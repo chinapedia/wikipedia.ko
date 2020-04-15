@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [UPS  ](https://ko.wikipedia.org/wiki/UPS__).
+> This article is converted from Wikipedia: [UPS 항공의 월드포트](https://ko.wikipedia.org/wiki/UPS_항공의_월드포트).
 
 
 [오른쪽의](https://ko.wikipedia.org/wiki/파일:Ups_worldport.jpg "wikilink") 전경. 이 공항이 [UPS 항공의](../Page/UPS_항공.md "wikilink") 월드포트로 운영하고 있다.\]\] **UPS 항공의 월드포트**()는 [미국](../Page/미국.md "wikilink") [켄터키주](../Page/켄터키주.md "wikilink")에 위치한 [루이빌 국제공항에서](https://ko.wikipedia.org/wiki/루이빌_국제공항 "wikilink") 운영하는 [UPS 항공의](../Page/UPS_항공.md "wikilink") [월드포트로](../Page/허브_공항.md "wikilink") [1980년](../Page/1980년.md "wikilink")부터 지정되어 운항하고 있다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [LATAM  ](https://ko.wikipedia.org/wiki/LATAM__).
+> This article is converted from Wikipedia: [LATAM 카고 멕시코](https://ko.wikipedia.org/wiki/LATAM_카고_멕시코).
 
 
 **LATAM 카고 멕시코**()는 [멕시코](../Page/멕시코.md "wikilink")의 화물 항공사로 본사는 [멕시코](../Page/멕시코.md "wikilink") [멕시코시티](../Page/멕시코시티.md "wikilink")에 위치해 있으며 [1992년](../Page/1992년.md "wikilink")에 설립했다. [허브 공항으로](../Page/허브_공항.md "wikilink") [멕시코시티 국제공항](https://ko.wikipedia.org/wiki/멕시코시티_국제공항 "wikilink")\[1\]이 있으며 계열사는 [칠레](../Page/칠레.md "wikilink")의 항공사인 [LATAM 항공 그룹이](../Page/LATAM_항공_그룹.md "wikilink") 있다.

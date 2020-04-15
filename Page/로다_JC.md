@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ JC](https://ko.wikipedia.org/wiki/_JC).
+> This article is converted from Wikipedia: [로다 JC](https://ko.wikipedia.org/wiki/로다_JC).
 
 
 **로다 JC**(Roda JC)는 [네덜란드](../Page/네덜란드.md "wikilink") [케르크라더](https://ko.wikipedia.org/wiki/케르크라더 "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽으로, 현재 [에레디비시](../Page/에레디비시.md "wikilink")에서 활동하고 있다.

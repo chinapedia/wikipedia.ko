@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ ABO](https://ko.wikipedia.org/wiki/_ABO).
+> This article is converted from Wikipedia: [사랑의 ABO](https://ko.wikipedia.org/wiki/사랑의_ABO).
 
 
 〈**사랑의 ABO**〉()는, [NEWS](https://ko.wikipedia.org/wiki/NEWS "wikilink")의 11번째 [싱글이다](../Page/싱글_\(음악\).md "wikilink").

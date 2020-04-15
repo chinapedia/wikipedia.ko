@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ATC  R01](https://ko.wikipedia.org/wiki/ATC__R01).
+> This article is converted from Wikipedia: [ATC 코드 R01](https://ko.wikipedia.org/wiki/ATC_코드_R01).
 
 
 **ATC 코드 R01**은 [ATC 코드의](https://ko.wikipedia.org/wiki/ATC_코드 "wikilink") 코 질환 치료제로 작용하는 약물을 정리한 코드이다. \[1\] **ATC 코드** R 호흡계의 하위그룹을 이룬다.

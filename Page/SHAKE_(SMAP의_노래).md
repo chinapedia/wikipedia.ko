@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SHAKE \(SMAP \)](https://ko.wikipedia.org/wiki/SHAKE_\(SMAP_\)).
+> This article is converted from Wikipedia: [SHAKE \(SMAP의 노래\)](https://ko.wikipedia.org/wiki/SHAKE_\(SMAP의_노래\)).
 
 
 〈**SHAKE**〉()는 [SMAP](../Page/SMAP.md "wikilink")의 23번째 싱글이다. 1996년 11월 18일에 [빅터 엔터테인먼트에서](https://ko.wikipedia.org/wiki/빅터_엔터테인먼트 "wikilink") 발매되었다.
@@ -14,7 +14,7 @@
 
 1.  **SHAKE**
       - 작사 : 모리 히로미 / 작곡 코모리타 미노루 / 편곡 : CHOKKAKU
-2.  **가만히 날 따라와** ()
+2.  **가만히 날 따라와**()
       - 작사 : 오구라 메구미 / 작곡 : Jimmy Johnson / 편곡 : 나가오카 세이코우
 3.  SHAKE \[오리지널 가라오케\]
 4.  가만히 날 따라와 \[오리지널 가라오케\]

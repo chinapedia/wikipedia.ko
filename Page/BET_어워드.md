@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [BET ](https://ko.wikipedia.org/wiki/BET_).
+> This article is converted from Wikipedia: [BET 어워드](https://ko.wikipedia.org/wiki/BET_어워드).
 
 
 **BET 어워드**(BET Awards)는 [블랙 엔터테인먼트 텔레비전 네크워크에서](../Page/BET.md "wikilink") 매년 아프리카계 미국인과 음악의 다른 소수 민족을 대상으로 엔터테인먼트 분야에서 활동했던 스타들에게 수여하는 시상식이다. [2001년](../Page/2001년.md "wikilink") 시작되었으며 시상식은 매년 생방송으로 진행된다.

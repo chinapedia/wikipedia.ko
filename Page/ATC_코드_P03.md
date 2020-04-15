@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ATC  P03](https://ko.wikipedia.org/wiki/ATC__P03).
+> This article is converted from Wikipedia: [ATC 코드 P03](https://ko.wikipedia.org/wiki/ATC_코드_P03).
 
 
 **ATC 코드 P03**는 [ATC 코드의](https://ko.wikipedia.org/wiki/ATC_코드 "wikilink") 살충제 및 방충제를 포함하는 외부기생충 구충제로 사용하는 약물을 정리한 코드이다. \[1\] **ATC 코드** P 구충제, 살충제 및 기피제의 하위그룹을 이룬다.

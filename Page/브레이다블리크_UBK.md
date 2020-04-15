@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ UBK](https://ko.wikipedia.org/wiki/_UBK).
+> This article is converted from Wikipedia: [브레이다블리크 UBK](https://ko.wikipedia.org/wiki/브레이다블리크_UBK).
 
 
 **브레이다블리크 UBK**()는 [1950년](../Page/1950년.md "wikilink")에 창단된 [아이슬란드](../Page/아이슬란드.md "wikilink") [코파보귀르](../Page/코파보귀르.md "wikilink")의 스포츠 클럽이다.

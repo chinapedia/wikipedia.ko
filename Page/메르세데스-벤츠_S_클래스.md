@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [- S ](https://ko.wikipedia.org/wiki/-_S_).
+> This article is converted from Wikipedia: [메르세데스-벤츠 S 클래스](https://ko.wikipedia.org/wiki/메르세데스-벤츠_S_클래스).
 
 
 **메르세데스-벤츠 S 클래스**(Mercedes-Benz S-Class)는 [다임러 AG가](../Page/다임러_AG.md "wikilink") 제조하여 독일의 고급 자동차 회사인 [메르세데스-벤츠](../Page/메르세데스-벤츠.md "wikilink") 브랜드로 판매하는 대형 승용차이다.

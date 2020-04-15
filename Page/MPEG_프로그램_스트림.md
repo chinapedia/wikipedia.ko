@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [MPEG  ](https://ko.wikipedia.org/wiki/MPEG__).
+> This article is converted from Wikipedia: [MPEG 프로그램 스트림](https://ko.wikipedia.org/wiki/MPEG_프로그램_스트림).
 
 
 **프로그램 스트림(Program stream, PS 혹은 MPEG-PS)**이란 [멀티플렉싱](https://ko.wikipedia.org/wiki/다중화 "wikilink") [디지털 오디오](https://ko.wikipedia.org/wiki/디지털_오디오 "wikilink"), [비디오](../Page/비디오.md "wikilink") 등을 담기 위한 [컨테이너 포맷이다](https://ko.wikipedia.org/wiki/컨테이너_포맷 "wikilink"). 이 포맷은 [MPEG-1](../Page/MPEG-1.md "wikilink") 부분 1(ISO/IEC 11172-1\[1\])과 [MPEG-2](../Page/MPEG-2.md "wikilink") 부분 1 시스템(ISO/IEC standard 13818-1\[2\]/ITU-T H.222.0)에 규정되어 있다. MPEG-2 프로그램 스트림은 ISO/IEC 11172 시스템 레이어와 비슷하고 이전 버전들과 호환된다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SC  ](https://ko.wikipedia.org/wiki/SC__).
+> This article is converted from Wikipedia: [SC 코린치앙스 파울리스타](https://ko.wikipedia.org/wiki/SC_코린치앙스_파울리스타).
 
 
 **스포르트 클루브 코린치앙스 파울리스타**(), 약칭 **코린치앙스**(Corinthians)는 [브라질](../Page/브라질.md "wikilink") [상파울루](../Page/상파울루.md "wikilink")의 종합 스포츠 클럽이며, 그 중 [축구](../Page/축구.md "wikilink") 클럽이 가장 유명하다. 현재 전국 1부 리그 [캄페오나투 브라질레이루 세리이 A와](https://ko.wikipedia.org/wiki/캄페오나투_브라질레이루_세리이_A "wikilink") 상파울루의 [주리그](../Page/브라질의_주별_리그.md "wikilink") [캄페오나투 파울리스타에](../Page/캄페오나투_파울리스타.md "wikilink") 참가하고 있다.

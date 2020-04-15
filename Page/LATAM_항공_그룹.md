@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [LATAM  ](https://ko.wikipedia.org/wiki/LATAM__).
+> This article is converted from Wikipedia: [LATAM 항공 그룹](https://ko.wikipedia.org/wiki/LATAM_항공_그룹).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:LATAM_Airlines_services.svg "wikilink")

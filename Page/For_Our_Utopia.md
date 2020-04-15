@@ -27,8 +27,8 @@
   - 2011 GSTL 시즌 1 12강
   - 2012 IPL Team Arena Challenge 2 4위 (FXOpen)
   - 2012 GSTL Season 1 4강 (FXOpen)
-  - **2012 핫식스 글로벌 스타크래프트 II 팀 리그 시즌 2 우승** (vs 5:0 SlayerS) (FXOpen)
-  - **2012 핫식스 글로벌 스타크래프트 II 팀 리그 시즌 3 우승** (vs 5:3 MVP) (FXOpen)
+  - **2012 핫식스 글로벌 스타크래프트 II 팀 리그 시즌 2 우승**(vs 5:0 SlayerS) (FXOpen)
+  - **2012 핫식스 글로벌 스타크래프트 II 팀 리그 시즌 3 우승**(vs 5:3 MVP) (FXOpen)
   - 2013 HotS GSTL Pre Season 4강 (FXOpen)
 
 ### 도타 2

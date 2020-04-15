@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FC  ](https://ko.wikipedia.org/wiki/FC__).
+> This article is converted from Wikipedia: [FC 마치다 젤비아](https://ko.wikipedia.org/wiki/FC_마치다_젤비아).
 
 
 **풋볼 클럽 마치다 젤비아**()는 [도쿄도](../Page/도쿄도.md "wikilink"), [마치다 시에](https://ko.wikipedia.org/wiki/마치다_시 "wikilink") 위치한 [일본](../Page/일본.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다. 팀명은 마치다 시의 상징인 [느티나무](../Page/느티나무.md "wikilink")를 뜻하는 'zelkova'와 [샐비어](../Page/샐비어.md "wikilink")를 뜻하는 'salvia'의 합성어이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ ICT](https://ko.wikipedia.org/wiki/_ICT).
+> This article is converted from Wikipedia: [스카이 ICT](https://ko.wikipedia.org/wiki/스카이_ICT).
 
 
 **스카이 ICT**(Sky ICT)는 [대한민국](../Page/대한민국.md "wikilink")의 [방송채널 사용사업자인](https://ko.wikipedia.org/wiki/대한민국_방송법 "wikilink") [스카이라이프티브이가](../Page/KT스카이라이프.md "wikilink") 운영하는 [과학](../Page/과학.md "wikilink") 및 [정보기술](../Page/정보기술.md "wikilink") 전문 [텔레비전](../Page/텔레비전.md "wikilink") [채널이다](https://ko.wikipedia.org/wiki/채널_\(통신\) "wikilink").
@@ -47,10 +47,10 @@
 
 ## 외부 링크
 
-  - [스카이 ICT 홈페이지](https://web.archive.org/web/20170916173853/https://tv.skylife.co.kr/skyICT)
-  - [스카이 ICT 트위터](https://twitter.com/channelit_twit)
+  - 스카이 ICT 홈페이지
+  - 스카이 ICT 트위터
   - [스카이 ICT 유튜브](https://www.youtube.com/user/CHANNELIT22)
 
-[분류:스카이라이프](https://ko.wikipedia.org/wiki/분류:스카이라이프 "wikilink") [분류:교육 텔레비전 네트워크](https://ko.wikipedia.org/wiki/분류:교육_텔레비전_네트워크 "wikilink") [분류:2011년 설립된 텔레비전 방송국과 채널](https://ko.wikipedia.org/wiki/분류:2011년_설립된_텔레비전_방송국과_채널 "wikilink") [분류:2019년 폐지된 텔레비전 방송국과 채널](https://ko.wikipedia.org/wiki/분류:2019년_폐지된_텔레비전_방송국과_채널 "wikilink")
+[분류:스카이라이프](https://ko.wikipedia.org/wiki/분류:스카이라이프 "wikilink") [분류:교육 텔레비전 네트워크](https://ko.wikipedia.org/wiki/분류:교육_텔레비전_네트워크 "wikilink") [채널IT](https://ko.wikipedia.org/wiki/분류:2011년_설립된_텔레비전_방송국과_채널 "wikilink") [채널IT](https://ko.wikipedia.org/wiki/분류:2014년_폐지된_텔레비전_방송국과_채널 "wikilink") [분류:2014년 설립된 텔레비전 방송국과 채널](https://ko.wikipedia.org/wiki/분류:2014년_설립된_텔레비전_방송국과_채널 "wikilink") [분류:2019년 폐지된 텔레비전 방송국과 채널](https://ko.wikipedia.org/wiki/분류:2019년_폐지된_텔레비전_방송국과_채널 "wikilink")
 
 1.

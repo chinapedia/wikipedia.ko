@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [6 Part 1](https://ko.wikipedia.org/wiki/6_Part_1).
+> This article is converted from Wikipedia: [싸이6甲 Part 1](https://ko.wikipedia.org/wiki/싸이6甲_Part_1).
 
 
 《**싸이6甲 Part 1**》(싸이육갑 Part 1)은 [대한민국](../Page/대한민국.md "wikilink")의 가수 [싸이](../Page/싸이.md "wikilink")의 여섯 번째 정규 음반이다. 이 음반은 당초 Part 1과 Part 2로 나뉘어 발매될 예정으로 2012년 7월 25일 Part 1이 발매되었지만 Part 2는 발매가 되지 않았다. 타이틀 곡은 〈[강남스타일](../Page/강남스타일.md "wikilink")〉이다. [YG 엔터테인먼트와](../Page/YG_엔터테인먼트.md "wikilink") [KT 뮤직에](https://ko.wikipedia.org/wiki/KT_뮤직 "wikilink") 의해 기획, 제작되어 발매되었고, 해외에서는 [유니버설 뮤직 그룹](../Page/유니버설_뮤직_그룹.md "wikilink"), [YGEX](../Page/YGEX.md "wikilink")에 의해 발매되었다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FC ](https://ko.wikipedia.org/wiki/FC_).
+> This article is converted from Wikipedia: [FC 안양](https://ko.wikipedia.org/wiki/FC_안양).
 
 
 **FC 안양**(, *안양 시민프로축구단*)은 [경기도](https://ko.wikipedia.org/wiki/경기도 "wikilink") [안양시](../Page/안양시.md "wikilink")를 연고지로 하는 [대한민국](../Page/대한민국.md "wikilink")의 [K리그2](../Page/K리그2.md "wikilink") 소속 프로[축구](../Page/축구.md "wikilink")단이다. [K리그](../Page/K리그.md "wikilink") 승강제 원년 시즌인 [2013년](../Page/2013년.md "wikilink")부터 [K리그 챌린지에](../Page/K리그2.md "wikilink") 참가하였다. 엠블럼에 새겨진 ‘’(치비타노, 파라디조, 펠리초)는 [에스페란토](../Page/에스페란토.md "wikilink")어로 ‘시민, 낙원, 행복’을 뜻한다.
@@ -209,7 +209,7 @@
 | 2017년 | [안성빈](../Page/안성빈.md "wikilink")→**[김태호](../Page/김태호_\(1989년\).md "wikilink")**                    | [구대영](../Page/구대영.md "wikilink")→**[김효기](../Page/김효기.md "wikilink")**                                                          |
 | 2018년 | [주현재](https://ko.wikipedia.org/wiki/주현재_\(축구_선수\) "wikilink")→**[전수현](../Page/전수현.md "wikilink")** | **[정재희](../Page/정재희.md "wikilink")**                                                                                           |
 | 2019년 | '''[주현재](https://ko.wikipedia.org/wiki/주현재_\(축구_선수\) "wikilink")                                   | **[채광훈](../Page/채광훈.md "wikilink")**                                                                                           |
-| 2020년 | '''[최호정](../Page/최호정.md "wikilink")                                                                |                                                                                                                                |
+| 2020년 | **[최호정](../Page/최호정.md "wikilink")**                                                               | **[김형진](https://ko.wikipedia.org/wiki/김형진 "wikilink")**                                                                        |
 
 ## 경기장
 

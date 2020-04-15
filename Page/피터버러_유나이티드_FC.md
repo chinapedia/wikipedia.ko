@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  FC](https://ko.wikipedia.org/wiki/__FC).
+> This article is converted from Wikipedia: [피터버러 유나이티드 FC](https://ko.wikipedia.org/wiki/피터버러_유나이티드_FC).
 
 
 **피터버러 유나이티드 풋볼 클럽**()은 [잉글랜드](../Page/잉글랜드.md "wikilink")의 프로 [축구](../Page/축구.md "wikilink") 구단으로 [케임브리지셔주](../Page/케임브리지셔주.md "wikilink") [피터버러](https://ko.wikipedia.org/wiki/피터버러 "wikilink")에 연고지를 두고 있다.

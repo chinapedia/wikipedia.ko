@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [PSMS ](https://ko.wikipedia.org/wiki/PSMS_).
+> This article is converted from Wikipedia: [PSMS 메단](https://ko.wikipedia.org/wiki/PSMS_메단).
 
 
 **페르사투안 세팍볼라 메단 단 세키타르냐**(Persatuan Sepakbola Medan dan Sekitarnya, "메단과 그 인근 도시의 축구 연맹"이라는 뜻)는 [인도네시아](../Page/인도네시아.md "wikilink") [메단](../Page/메단.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽으로, 흔히 **PSMS 메단**(PSMS Medan) 또는 약칭 **PSMS**라고 부른다. 현재 [리가 인도네시아에서](https://ko.wikipedia.org/wiki/리가_인도네시아 "wikilink") 활동하고 있다.

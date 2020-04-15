@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [1985 CONCACAF  ](https://ko.wikipedia.org/wiki/1985_CONCACAF__).
+> This article is converted from Wikipedia: [1985년 CONCACAF 선수권 대회](https://ko.wikipedia.org/wiki/1985년_CONCACAF_선수권_대회).
 
 
 **1985년 CONCACAF 선수권 대회**는 [1985년](../Page/1985년.md "wikilink") [2월 24일부터](../Page/2월_24일.md "wikilink") [9월 14일까지](../Page/9월_14일.md "wikilink") 열린 9번째 [CONCACAF 선수권 대회이다](../Page/CONCACAF_선수권_대회.md "wikilink"). 이 대회는 특정 개최국 없이 모든 경기가 [홈 앤 어웨이](https://ko.wikipedia.org/wiki/홈_앤_어웨이 "wikilink") 방식으로 진행되었으며 [1986년 FIFA 월드컵](https://ko.wikipedia.org/wiki/1986년_FIFA_월드컵 "wikilink") 북중미카리브 지역 예선을 겸하기도 하였다. [멕시코는](../Page/멕시코_축구_국가대표팀.md "wikilink") 1986년 FIFA 월드컵에서 개최국 자격으로 자동 출전했기 때문에 참가하지 않았다. 우승을 차지한 [캐나다가](../Page/캐나다_축구_국가대표팀.md "wikilink") 1986년 FIFA 월드컵 본선에 진출했다.

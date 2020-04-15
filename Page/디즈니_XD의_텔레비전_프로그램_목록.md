@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ XD   ](https://ko.wikipedia.org/wiki/_XD___).
+> This article is converted from Wikipedia: [디즈니 XD의 텔레비전 프로그램 목록](https://ko.wikipedia.org/wiki/디즈니_XD의_텔레비전_프로그램_목록).
 
 
 다음은 [디즈니 XD에서](https://ko.wikipedia.org/wiki/디즈니_XD "wikilink") 방송된 텔레비전 프로그램들을 시간 순서대로 나열한 목록이다.

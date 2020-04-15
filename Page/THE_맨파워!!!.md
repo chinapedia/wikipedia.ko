@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [THE !!!](https://ko.wikipedia.org/wiki/THE_!!!).
+> This article is converted from Wikipedia: [THE 맨파워!!!](https://ko.wikipedia.org/wiki/THE_맨파워!!!).
 
 
 **THE 맨파워\!\!\!**(, The Manpower\!\!\!)는 [2005년](../Page/2005년.md "wikilink") [1월 19일에](../Page/1월_19일.md "wikilink") 발매 된 [모닝구무스메](../Page/모닝구무스메.md "wikilink")의 스물다섯 번째 싱글이다.

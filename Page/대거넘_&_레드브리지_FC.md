@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ \&  FC](https://ko.wikipedia.org/wiki/_\&__FC).
+> This article is converted from Wikipedia: [대거넘 \& 레드브리지 FC](https://ko.wikipedia.org/wiki/대거넘_\&_레드브리지_FC).
 
 
 **대거넘 & 레드브리지 풋볼 클럽**()은 [잉글랜드](../Page/잉글랜드.md "wikilink") [대거넘](../Page/대거넘.md "wikilink")을 연고지로 하고 있는 [축구](../Page/축구.md "wikilink") 클럽이다. 흔히 애칭으로 대거스라고도 불리고 있다. 1992년 레드브리지 포리스트와 대거넘이 합병하여 창단되었다.

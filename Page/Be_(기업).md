@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Be \(\)](https://ko.wikipedia.org/wiki/Be_\(\)).
+> This article is converted from Wikipedia: [Be \(기업\)](https://ko.wikipedia.org/wiki/Be_\(기업\)).
 
 
 **Be**는 1990년에 설립된 과거 [미국](../Page/미국.md "wikilink")의 컴퓨터 기업이다. [BeOS](../Page/BeOS.md "wikilink")와 [BeBox](https://ko.wikipedia.org/wiki/BeBox "wikilink") [개인용 컴퓨터로](../Page/개인용_컴퓨터.md "wikilink") 잘 알려져 있다.

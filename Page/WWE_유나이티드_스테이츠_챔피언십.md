@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [WWE   ](https://ko.wikipedia.org/wiki/WWE___).
+> This article is converted from Wikipedia: [WWE 유나이티드 스테이츠 챔피언십](https://ko.wikipedia.org/wiki/WWE_유나이티드_스테이츠_챔피언십).
 
 
 **WWE 유나이티드 스테이츠 챔피언십**(WWE United States Championship)은 [WWE](https://ko.wikipedia.org/wiki/WWE "wikilink")의 챔피언십중 하나로, 중간급에 속한다. 현재는 [RAW](../Page/WWE_러.md "wikilink") 브랜드에 속하고 있다.

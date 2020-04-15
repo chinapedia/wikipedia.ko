@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ Rb](https://ko.wikipedia.org/wiki/_Rb).
+> This article is converted from Wikipedia: [킴스큐 Rb](https://ko.wikipedia.org/wiki/킴스큐_Rb).
 
 
 **킴스큐 Rb**(KimsQ Rb)는 [킴스큐](../Page/킴스큐.md "wikilink")에 RBL이라는 [상용 라이선스가](https://ko.wikipedia.org/wiki/상용_라이선스 "wikilink") 적용된 제품이다. 킴스큐의 [오픈 소스 소프트웨어](../Page/오픈_소스_소프트웨어.md "wikilink") 버전은 [킴스큐 OSS가](https://ko.wikipedia.org/wiki/킴스큐_OSS "wikilink") 있다. 2011년 2월 8일에 제품 발표회\[1\]를 가졌으며 2012년 2월 18일에 제1회 오픈라인 사용자 교육\[2\]을 시작으로 정기 교육을 진행하였다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ T. ](https://ko.wikipedia.org/wiki/_T._).
+> This article is converted from Wikipedia: [제이크 T. 오스틴](https://ko.wikipedia.org/wiki/제이크_T._오스틴).
 
 
 **제이크 T. 오스틴**(Jake T. Austin, 1994년 12월 3일\~ )은 [미국](../Page/미국.md "wikilink")의 배우이다. 제이크 T. 오스틴은 미국의 디즈니 채널 씨트콤 '우리가족 마법사'의 주연 맥스 루쏘로 활동 중이다. TV 방송은 우리가족 마법사 시즌 1부터 현재 우리 가족 마법사 시즌4를 찍었으며 영화는 리오, 우리 가족 마법사: 극장판 주연-맥스 역, 퍼펙트 게임 조연 ,강아지 호텔 주연-브루스 역 , 조니 카파할라 주연,리틀 야구왕 앤디 주연-양키 어빙 목소리 역,앤트 불리 조연-닉키 목소리 역, 더 무비 로프트 조연 이 있다.

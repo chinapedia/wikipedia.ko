@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ \~ Ten Desires](https://ko.wikipedia.org/wiki/_\~_Ten_Desires).
+> This article is converted from Wikipedia: [동방신령묘 \~ Ten Desires](https://ko.wikipedia.org/wiki/동방신령묘_\~_Ten_Desires).
 
 
 《**동방신령묘 \~ Ten Desires**》()은 [동방 프로젝트의](../Page/동방_프로젝트.md "wikilink") 열세번째 시리즈 게임이다.

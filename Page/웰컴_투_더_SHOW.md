@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [   SHOW](https://ko.wikipedia.org/wiki/___SHOW).
+> This article is converted from Wikipedia: [웰컴 투 더 SHOW](https://ko.wikipedia.org/wiki/웰컴_투_더_SHOW).
 
 
 《**웰컴 투 더 SHOW**》는 [2011년](../Page/2011년.md "wikilink") [3월 16일](../Page/3월_16일.md "wikilink") 방송된 [SBS의](../Page/SBS_TV.md "wikilink") 1회성 파일럿 [시트콤](https://ko.wikipedia.org/wiki/시트콤 "wikilink")이다. 실제 [SBS 인기가요를](../Page/SBS_인기가요.md "wikilink") 무대로 화려한 생방송 뒤에서 벌어지는 아찔한 사건 사고들을 담은 어디까지가 현실이고 어디까지가 가상인지 모를 정도로 리얼함이 돋보이는 새로운 스타일의 리얼 시트콤이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Take \( \)](https://ko.wikipedia.org/wiki/Take_\(_\)).
+> This article is converted from Wikipedia: [Take \(서인국의 음반\)](https://ko.wikipedia.org/wiki/Take_\(서인국의_음반\)).
 
 
 | [서인국](https://ko.wikipedia.org/wiki/서인국 "wikilink")의 앨범 정보  |

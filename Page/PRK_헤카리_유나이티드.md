@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [PRK  ](https://ko.wikipedia.org/wiki/PRK__).
+> This article is converted from Wikipedia: [PRK 헤카리 유나이티드](https://ko.wikipedia.org/wiki/PRK_헤카리_유나이티드).
 
 
 **PRK 헤카리 유나이티드**(), 약칭 **헤카리 유나이티드**()는 [파푸아뉴기니](../Page/파푸아뉴기니.md "wikilink") [포트모르즈비](../Page/포트모르즈비.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽 팀이다. 창설 당시의 팀 이름은 **PRK 사우스 유나이티드**()였다.

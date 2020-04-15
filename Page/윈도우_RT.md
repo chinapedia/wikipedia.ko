@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ RT](https://ko.wikipedia.org/wiki/_RT).
+> This article is converted from Wikipedia: [윈도우 RT](https://ko.wikipedia.org/wiki/윈도우_RT).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Windows_RT_logo_and_wordmark.svg "wikilink")

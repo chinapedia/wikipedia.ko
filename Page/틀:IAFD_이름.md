@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:IAFD ](https://ko.wikipedia.org/wiki/:IAFD_).
+> This article is converted from Wikipedia: [틀:IAFD 이름](https://ko.wikipedia.org/wiki/틀:IAFD_이름).
 
 
 {{\#if:

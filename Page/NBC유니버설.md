@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [NBC](https://ko.wikipedia.org/wiki/NBC).
+> This article is converted from Wikipedia: [NBC유니버설](https://ko.wikipedia.org/wiki/NBC유니버설).
 
 
 **NBC유니버설**(NBCUniversal Media, LLC)은 전 세계 고객을 대상으로 엔터테인먼트, 뉴스, 정보 제품 및 서비스를 만들어 배포하는 [미디어](../Page/대중_매체.md "wikilink") 및 [엔터테인먼트](https://ko.wikipedia.org/wiki/엔터테인먼트 "wikilink") 기업이다.

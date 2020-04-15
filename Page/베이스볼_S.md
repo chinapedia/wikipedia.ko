@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ S](https://ko.wikipedia.org/wiki/_S).
+> This article is converted from Wikipedia: [베이스볼 S](https://ko.wikipedia.org/wiki/베이스볼_S).
 
 
 《**베이스볼 S**》는 [SBS 스포츠에서](../Page/SBS_스포츠.md "wikilink") 방송되는 야구 전문 프로그램으로, [프로 야구](https://ko.wikipedia.org/wiki/대한민국의_프로_야구 "wikilink") 시즌에만 방송된다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  FC  ](https://ko.wikipedia.org/wiki/__FC__).
+> This article is converted from Wikipedia: [뉴캐슬 유나이티드 FC의 선수 목록](https://ko.wikipedia.org/wiki/뉴캐슬_유나이티드_FC의_선수_목록).
 
 
 이 문서는 **[뉴캐슬 유나이티드에서](../Page/뉴캐슬_유나이티드_FC.md "wikilink") 주목할 만한 성적**을 보인 선수들의 목록이다. 대부분 뉴캐슬 소속으로서 100경기 이상 출장한 선수들이지만, 클럽 창립 당시 소속되어있던 선수들, [풋볼 리그에](https://ko.wikipedia.org/wiki/풋볼_리그 "wikilink") 가입하기 전 소속되어었던 선수들, [케빈 키건이나](../Page/케빈_키건.md "wikilink") [레스 퍼디낸드](../Page/레스_퍼디낸드.md "wikilink"), 파우스티노 아스프리야처럼 클럽에 큰 기여를 한 선수들은 100경기 이상 출장하지 않았음에도 포함하였다.

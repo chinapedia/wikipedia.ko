@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ Vol.1](https://ko.wikipedia.org/wiki/_Vol.1).
+> This article is converted from Wikipedia: [이장혁 Vol.1](https://ko.wikipedia.org/wiki/이장혁_Vol.1).
 
 
 《**이장혁 Vol.1…**》는 [이장혁](../Page/이장혁.md "wikilink")의 정규 첫 번째 음반이다.

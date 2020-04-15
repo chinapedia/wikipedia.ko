@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TNA     ](https://ko.wikipedia.org/wiki/TNA_____).
+> This article is converted from Wikipedia: [TNA 킹 오브 더 마운틴 챔피언십](https://ko.wikipedia.org/wiki/TNA_킹_오브_더_마운틴_챔피언십).
 
 
 **TNA 킹 오브 더 마운틴 챔피언십**(TNA King of the Mountain championship)은 [TNA](https://ko.wikipedia.org/wiki/TNA "wikilink")에 존재하던 챔피언쉽이다.

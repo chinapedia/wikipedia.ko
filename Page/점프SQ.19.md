@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SQ.19](https://ko.wikipedia.org/wiki/SQ.19).
+> This article is converted from Wikipedia: [점프SQ.19](https://ko.wikipedia.org/wiki/점프SQ.19).
 
 
 《**점프SQ.19**》()는 [슈에이샤](../Page/슈에이샤.md "wikilink")가 발행하는 [일본](../Page/일본.md "wikilink")의 [소년 만화](../Page/소년_만화.md "wikilink") 잡지이다.

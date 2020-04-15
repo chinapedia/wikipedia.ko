@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ATC  A02](https://ko.wikipedia.org/wiki/ATC__A02).
+> This article is converted from Wikipedia: [ATC 코드 A02](https://ko.wikipedia.org/wiki/ATC_코드_A02).
 
 
 **ATC 코드 A02**는 [ATC 코드의](https://ko.wikipedia.org/wiki/ATC_코드 "wikilink") 산 관련 장애를 위한 의약품으로 작용하는 약물을 정리한 코드이다. \[1\] **ATC 코드** A 소화관 및 대사의 하위그룹을 이룬다.

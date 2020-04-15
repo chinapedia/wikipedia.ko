@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TV](https://ko.wikipedia.org/wiki/TV).
+> This article is converted from Wikipedia: [빌리어즈TV](https://ko.wikipedia.org/wiki/빌리어즈TV).
 
 
 **빌리어즈TV**는 (주)타임투미디어에서 운영하는 당구 전문 스포츠 채널이다.

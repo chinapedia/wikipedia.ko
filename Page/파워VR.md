@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [VR](https://ko.wikipedia.org/wiki/VR).
+> This article is converted from Wikipedia: [파워VR](https://ko.wikipedia.org/wiki/파워VR).
 
 
 **파워VR**(PowerVR)은 [이매지네이션 테크놀로지의](https://ko.wikipedia.org/wiki/이매지네이션_테크놀로지 "wikilink") 그래픽 사업 부문으로, 2D/3D 가속, 비디오 인코딩/디코딩, 이미지 프로세싱, [DirectX](../Page/DirectX.md "wikilink"), [OpenGL ES](../Page/OpenGL_ES.md "wikilink"), [OpenVG](https://ko.wikipedia.org/wiki/OpenVG "wikilink"), [OpenCL](../Page/OpenCL.md "wikilink") 가속 등을 지원하는 임베디드 그래픽 하드웨어 및 소프트웨어를 개발하고 있다.

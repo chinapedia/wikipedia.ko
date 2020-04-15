@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Begin \( \)](https://ko.wikipedia.org/wiki/Begin_\(_\)).
+> This article is converted from Wikipedia: [Begin \(동방신기의 노래\)](https://ko.wikipedia.org/wiki/Begin_\(동방신기의_노래\)).
 
 
 〈**Begin**〉(비긴)은 [동방신기](../Page/동방신기.md "wikilink")의 일본에서의 통산 6번째 싱글 음반이다.

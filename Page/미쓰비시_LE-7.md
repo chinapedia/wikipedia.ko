@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ LE-7](https://ko.wikipedia.org/wiki/_LE-7).
+> This article is converted from Wikipedia: [미쓰비시 LE-7](https://ko.wikipedia.org/wiki/미쓰비시_LE-7).
 
 
 **미쓰비시 LE-7**은 [1994년](../Page/1994년.md "wikilink")에 일본 [미쓰비시 중공업과](../Page/미쓰비시_중공업.md "wikilink") [IHI](https://ko.wikipedia.org/wiki/IHI "wikilink")와 [JAXA의](https://ko.wikipedia.org/wiki/우주항공연구개발기구_\(일본\) "wikilink") 이전의 조직 [NASDA와](https://ko.wikipedia.org/wiki/우주개발사업단 "wikilink") [NAL가](https://ko.wikipedia.org/wiki/항공우주기술연구소 "wikilink") 개발한 [진공](../Page/진공.md "wikilink")[추력](https://ko.wikipedia.org/wiki/추력 "wikilink") 110톤, [비추력](https://ko.wikipedia.org/wiki/비추력 "wikilink") 446초의 액체연료 로켓엔진이다. [2000년](../Page/2000년.md "wikilink")에 LE-7을 개량한 **LE-7A**가 개발되었다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  FC](https://ko.wikipedia.org/wiki/__FC).
+> This article is converted from Wikipedia: [스톡포트 카운티 FC](https://ko.wikipedia.org/wiki/스톡포트_카운티_FC).
 
 
 **스톡포트 카운티 FC**(Stockport County F.C.)는 [잉글랜드](../Page/잉글랜드.md "wikilink") [그레이터맨체스터주](../Page/그레이터맨체스터주.md "wikilink") [스톡포트](https://ko.wikipedia.org/wiki/스톡포트 "wikilink")를 본거지로 하는 축구단이다.

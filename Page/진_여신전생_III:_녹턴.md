@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  III: ](https://ko.wikipedia.org/wiki/__III:_).
+> This article is converted from Wikipedia: [진 여신전생 III: 녹턴](https://ko.wikipedia.org/wiki/진_여신전생_III:_녹턴).
 
 
 **진 여신전생 III-NOCTURNE**()은 [아틀라스](https://ko.wikipedia.org/wiki/아틀라스 "wikilink")에서 발매된 RPG게임이다. 2004년 1월 29일 추가 요소를 포함한 개정판 [진 여신전생 III-NOCTURNE 매니악스가](https://ko.wikipedia.org/wiki/#진_여신전생_III-NOCTURNE_매니악스 "wikilink") 기간 한정 생산 소프트로 발매되었다. 플레이 스테이션 2 the BEST로서 염가판도 발매되고 있지만, 이것은 매니악스가 아닌 구 버전.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [LOT    ](https://ko.wikipedia.org/wiki/LOT____).
+> This article is converted from Wikipedia: [LOT 폴란드 항공의 운항 노선](https://ko.wikipedia.org/wiki/LOT_폴란드_항공의_운항_노선).
 
 
 [2019년](../Page/2019년.md "wikilink") [6월](../Page/6월.md "wikilink") 기준으로 **[LOT 폴란드 항공](../Page/LOT_폴란드_항공.md "wikilink")**은 다음과 같은 노선을 운항하고 있으며 자회사인 [유로 LOT는](https://ko.wikipedia.org/wiki/유로_LOT "wikilink") 포함되지 않는다.\[1\]

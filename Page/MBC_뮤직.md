@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [MBC ](https://ko.wikipedia.org/wiki/MBC_).
+> This article is converted from Wikipedia: [MBC 뮤직](https://ko.wikipedia.org/wiki/MBC_뮤직).
 
 
 **MBC 뮤직**()은 [MBC 플러스 미디어에서](https://ko.wikipedia.org/wiki/MBC_플러스_미디어 "wikilink") 운영하는 대한민국의 예능 케이블 채널이다. 2011년 12월 29일 [방송통신위원회로부터](../Page/대한민국_방송통신위원회.md "wikilink") [방송 채널 사용 사업에](https://ko.wikipedia.org/wiki/대한민국_방송법 "wikilink") 대한 변경 등록을 승인받아\[1\] 2012년 2월 1일 개국하였지만, 로고가 3번 바뀌었다가 [2020년](../Page/2020년.md "wikilink") [2월 18일부로](../Page/2월_18일.md "wikilink") **[MBC M](https://ko.wikipedia.org/wiki/MBC_M "wikilink")**으로 채널명이 변경되었다.
@@ -319,6 +319,8 @@
 ## 같이 보기
 
   - [MBC 게임](../Page/MBC_게임.md "wikilink")(구)
+  - [MBC M](https://ko.wikipedia.org/wiki/MBC_M "wikilink")
+  - [MBC ON](../Page/MBC_ON.md "wikilink")
 
 ## 각주
 

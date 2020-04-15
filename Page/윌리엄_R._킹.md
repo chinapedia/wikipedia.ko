@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ R. ](https://ko.wikipedia.org/wiki/_R._).
+> This article is converted from Wikipedia: [윌리엄 R. 킹](https://ko.wikipedia.org/wiki/윌리엄_R._킹).
 
 
 **윌리엄 러퍼스 드베인 킹**(, [1786년](../Page/1786년.md "wikilink") [4월 7일](../Page/4월_7일.md "wikilink") \~ [1853년](../Page/1853년.md "wikilink") [4월 18일](../Page/4월_18일.md "wikilink"))은 [미국](../Page/미국.md "wikilink")의 제13대 [부통령이며](../Page/미국의_부통령.md "wikilink"), [프랭클린 피어스](../Page/프랭클린_피어스.md "wikilink") 대통령 아래에서 [1853년](../Page/1853년.md "wikilink") [3월 4일부터](../Page/3월_4일.md "wikilink") 한달 후에 사망할 때까지 지냈다.

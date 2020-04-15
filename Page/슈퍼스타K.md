@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [K](https://ko.wikipedia.org/wiki/K).
+> This article is converted from Wikipedia: [슈퍼스타K](https://ko.wikipedia.org/wiki/슈퍼스타K).
 
 
 《**슈퍼스타K**》는 [대한민국](../Page/대한민국.md "wikilink")의 케이블 방송 [엠넷](../Page/엠넷.md "wikilink")의 대국민 공개 오디션 프로그램이다. 대한민국 전국 8개의 지역뿐만 아닌 해외에서 또한 예선이 이루어지며 최종 통과자는 서울 슈퍼위크에서 TOP 10(시즌 2와 시즌 3. 시즌 6에서는 TOP 11, 시즌4에서는 TOP 12, 시즌5, 시즌7에서는 TOP10)을 가려 생방송 무대에서 서바이벌 오디션을 치르게 된다. 우승자는 Mnet의 연말 시상식인 [Mnet 아시안 뮤직 어워드](https://ko.wikipedia.org/wiki/Mnet_아시안_뮤직_어워드 "wikilink") 에 참여한다.
@@ -83,7 +83,7 @@
 ## 외부 링크
 
   -
-[슈퍼스타K](https://ko.wikipedia.org/wiki/분류:슈퍼스타K "wikilink") [분류:엠넷에서 방영하는 프로그램](https://ko.wikipedia.org/wiki/분류:엠넷에서_방영하는_프로그램 "wikilink") [분류:대한민국의 리얼리티 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:대한민국의_리얼리티_텔레비전_프로그램 "wikilink") [분류:대한민국의 음악 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:대한민국의_음악_텔레비전_프로그램 "wikilink") [분류:대한민국의 음악 경연회](https://ko.wikipedia.org/wiki/분류:대한민국의_음악_경연회 "wikilink")
+[슈퍼스타K](https://ko.wikipedia.org/wiki/분류:슈퍼스타K "wikilink") [분류:엠넷에서 방영된 프로그램](https://ko.wikipedia.org/wiki/분류:엠넷에서_방영된_프로그램 "wikilink") [분류:대한민국의 리얼리티 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:대한민국의_리얼리티_텔레비전_프로그램 "wikilink") [분류:대한민국의 음악 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:대한민국의_음악_텔레비전_프로그램 "wikilink") [분류:대한민국의 음악 경연회](https://ko.wikipedia.org/wiki/분류:대한민국의_음악_경연회 "wikilink") [분류:2016년 폐지](https://ko.wikipedia.org/wiki/분류:2016년_폐지 "wikilink")
 
 1.  [왕비호 마지막 독설 ‘이경규-허각’…무서워서vs케이블 출신](http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=106&oid=213&aid=0000071621) TV리포트 2011년 1월 3일
 2.  [식지 않는 오디션 프로 인기… 왜?](http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=106&oid=022&aid=0002256388) 세계일보 2011년

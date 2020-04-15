@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KBS ](https://ko.wikipedia.org/wiki/KBS_).
+> This article is converted from Wikipedia: [KBS 창원스페셜](https://ko.wikipedia.org/wiki/KBS_창원스페셜).
 
 
 **KBS 창원스페셜**은 매주 [월요일](../Page/월요일.md "wikilink") 오후 1시에 창원 [KBS 1TV로](https://ko.wikipedia.org/wiki/KBS_제1TV "wikilink") 방송되는 [텔레비전 프로그램이다](../Page/텔레비전_프로그램.md "wikilink").

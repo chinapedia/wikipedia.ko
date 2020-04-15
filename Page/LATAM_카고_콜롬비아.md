@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [LATAM  ](https://ko.wikipedia.org/wiki/LATAM__).
+> This article is converted from Wikipedia: [LATAM 카고 콜롬비아](https://ko.wikipedia.org/wiki/LATAM_카고_콜롬비아).
 
 
 **LATAM 카고 콜롬비아**()은 [콜롬비아](../Page/콜롬비아.md "wikilink")의 화물 항공사로 본사는 [콜롬비아](../Page/콜롬비아.md "wikilink") [보고타](../Page/보고타.md "wikilink")에 위치해 있으며 [허브 공항으로](../Page/허브_공항.md "wikilink") [엘도라도 국제공항](https://ko.wikipedia.org/wiki/엘도라도_국제공항 "wikilink"), [마이애미 국제공항](https://ko.wikipedia.org/wiki/마이애미_국제공항 "wikilink"), [메데인 국제공항이](https://ko.wikipedia.org/wiki/메데인_국제공항 "wikilink") 있으며 계열사는 [ABSA 카고 항공](../Page/ABSA_카고_항공.md "wikilink"), [LATAM 카고 칠레](https://ko.wikipedia.org/wiki/LAN_카고 "wikilink"), [LATAM 카고 멕시코가](../Page/LATAM_카고_멕시코.md "wikilink") 있다.

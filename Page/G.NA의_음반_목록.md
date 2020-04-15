@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [G.NA  ](https://ko.wikipedia.org/wiki/G.NA__).
+> This article is converted from Wikipedia: [G.NA의 음반 목록](https://ko.wikipedia.org/wiki/G.NA의_음반_목록).
 
 
 다음은 대한민국의 가수 [G.NA](../Page/G.NA.md "wikilink")의 **음반 목록**이다.

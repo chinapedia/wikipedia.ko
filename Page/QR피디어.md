@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [QR](https://ko.wikipedia.org/wiki/QR).
+> This article is converted from Wikipedia: [QR피디어](https://ko.wikipedia.org/wiki/QR피디어).
 
 
 **QR피디어**(QRpedia)는 [위키백과](../Page/위키백과.md "wikilink")의 문서를 [QR 코드를](../Page/QR_코드.md "wikilink") 활용하여 독자에게 제공하는 [모바일 웹](https://ko.wikipedia.org/wiki/모바일_웹 "wikilink") 시스템이다\[1\]\[2\]\[3\]. QR 코드는 [URL](../Page/URL.md "wikilink")을 이용하여 간단히 만들 수 있으나, QR피디어는 여기에 다른 기능을 추가하였다. 사용자는 자신이 선택한 언어의 위키백과 문서를 읽을 수 있다.

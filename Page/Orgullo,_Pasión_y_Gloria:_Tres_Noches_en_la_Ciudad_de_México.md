@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Orgullo, Pasin y Gloria: Tres Noches en la Ciudad de Mxico](https://ko.wikipedia.org/wiki/Orgullo,_Pasin_y_Gloria:_Tres_Noches_en_la_Ciudad_de_Mxico).
+> This article is converted from Wikipedia: [Orgullo, Pasión y Gloria: Tres Noches en la Ciudad de México](https://ko.wikipedia.org/wiki/Orgullo,_Pasión_y_Gloria:_Tres_Noches_en_la_Ciudad_de_México).
 
 
 《**Orgullo, Pasión, y Gloria: Tres Noches en la Ciudad de México** / **Orgulho, Paixão e Glória: Três Noites na Cidade do México**》는 [미국](../Page/미국.md "wikilink")의 [헤비메탈](https://ko.wikipedia.org/wiki/헤비메탈 "wikilink") 밴드 [메탈리카](../Page/메탈리카.md "wikilink")의 라이브 음반이자 DVD이다. 2009년 [멕시코시티](../Page/멕시코시티.md "wikilink")에서 열었던 3일간의 공연과 밴드 멤버들의 인터뷰 내용이 포함되어 있다.

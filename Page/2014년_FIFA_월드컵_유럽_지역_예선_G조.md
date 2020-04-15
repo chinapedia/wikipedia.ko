@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [2014 FIFA     G](https://ko.wikipedia.org/wiki/2014_FIFA_____G).
+> This article is converted from Wikipedia: [2014년 FIFA 월드컵 유럽 지역 예선 G조](https://ko.wikipedia.org/wiki/2014년_FIFA_월드컵_유럽_지역_예선_G조).
 
 
 **[2014년 FIFA 월드컵 유럽 지역 예선](../Page/2014년_FIFA_월드컵_유럽_지역_예선.md "wikilink") G조**는 [그리스를](../Page/그리스_축구_국가대표팀.md "wikilink") 비롯하여 [슬로바키아](../Page/슬로바키아_축구_국가대표팀.md "wikilink"), [보스니아 헤르체고비나](../Page/보스니아_헤르체고비나_축구_국가대표팀.md "wikilink"), [리투아니아](../Page/리투아니아_축구_국가대표팀.md "wikilink"), [라트비아](../Page/라트비아_축구_국가대표팀.md "wikilink"), [리히텐슈타인으로](../Page/리히텐슈타인_축구_국가대표팀.md "wikilink") 구성되어 있다.

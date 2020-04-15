@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  Love Song](https://ko.wikipedia.org/wiki/__Love_Song).
+> This article is converted from Wikipedia: [마지막 혹성의 Love Song](https://ko.wikipedia.org/wiki/마지막_혹성의_Love_Song).
 
 
 《**마지막 혹성의 Love Song**》(終わりののLove Song)은 [야나기나기](../Page/야나기나기.md "wikilink")와 [마에다 준의](../Page/마에다_준.md "wikilink") 콜라보레이션 앨범이다. [2012년](../Page/2012년.md "wikilink") [4월 25일](../Page/4월_25일.md "wikilink") FLAMING JUNE 레이블로 발매되었다.

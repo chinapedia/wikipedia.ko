@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:2TeamBracket](https://ko.wikipedia.org/wiki/:2TeamBracket).
+> This article is converted from Wikipedia: [틀:2TeamBracket](https://ko.wikipedia.org/wiki/틀:2TeamBracket).
 
 
 <table>

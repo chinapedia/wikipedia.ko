@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ GP](https://ko.wikipedia.org/wiki/_GP).
+> This article is converted from Wikipedia: [브론 GP](https://ko.wikipedia.org/wiki/브론_GP).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Button_Spain_2009.jpg "wikilink")\]\] **브론 GP 포뮬러 원 팀**(Brawn GP Formula One Team)은 2009년 [로즈 브론에](https://ko.wikipedia.org/wiki/로즈_브론 "wikilink") 의해 창단된 [포뮬러 원](../Page/포뮬러_원.md "wikilink") 팀이다. 2008년까지 포뮬러 원에 참가하던 [혼다 레이싱 F1 팀을](https://ko.wikipedia.org/wiki/혼다_레이싱_F1_팀 "wikilink") 인수하여 창단되었으며, [젠슨 버튼과](../Page/젠슨_버튼.md "wikilink") [루베이스 바리켈루를](https://ko.wikipedia.org/wiki/루베이스_바리켈루 "wikilink") 드라이버로 [2009년 포뮬러 원 시즌에](../Page/2009년_포뮬러_원_시즌.md "wikilink") 참가하였다. 브론 GP는 그 해의 컨스트럭터 챔피언십 우승을 차지하였고, 젠슨 버튼은 드라이버 챔피언십에서 우승을 거두었다. 2009년 11월 브론 GP의 엔진 공급자였던 [메르세데스-벤츠](../Page/메르세데스-벤츠.md "wikilink")는 [아바르 인베스트먼트](https://ko.wikipedia.org/wiki/아바르_인베스트먼트 "wikilink")(Aabar Investments)와 함께 이 팀을 인수했다고 발표했으며,\[1\] 이에 따라 브론 GP는 [메르세데스 GP로](https://ko.wikipedia.org/wiki/메르세데스_GP "wikilink") 바뀌어 2010년 이후 포뮬러 원에 참가하고 있다.\[2\]

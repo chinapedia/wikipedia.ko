@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [ OS X ](https://ko.wikipedia.org/wiki/_OS_X_).
+> This article is converted from Wikipedia: [맥 OS X 라이언](https://ko.wikipedia.org/wiki/맥_OS_X_라이언).
 
 
-**맥 OS X 라이언** (Mac OS X Lion, 10.7)은 [OS X의](https://ko.wikipedia.org/wiki/OS_X "wikilink") 여덟번째 주요 릴리즈로 출시된 [운영 체제이다](../Page/운영_체제.md "wikilink"). 라이언은 2010년 10월 20일 애플의 "백 투 더 맥" 이벤트에서 공개되었다. 이 버전은 2011년 7월 20일에 출시되었다. 운영 체제로서는 처음으로 OS X 내 운영 프로그램인 앱스토어에서 구매, 다운로드하는 형태로 출시되었다.\[1\]\[2\] 후속 버전은 [OS X 마운틴 라이언이다](../Page/OS_X_마운틴_라이언.md "wikilink").
+**맥 OS X 라이언**(Mac OS X Lion, 10.7)은 [OS X의](https://ko.wikipedia.org/wiki/OS_X "wikilink") 여덟번째 주요 릴리즈로 출시된 [운영 체제이다](../Page/운영_체제.md "wikilink"). 라이언은 2010년 10월 20일 애플의 "백 투 더 맥" 이벤트에서 공개되었다. 이 버전은 2011년 7월 20일에 출시되었다. 운영 체제로서는 처음으로 OS X 내 운영 프로그램인 앱스토어에서 구매, 다운로드하는 형태로 출시되었다.\[1\]\[2\] 후속 버전은 [OS X 마운틴 라이언이다](../Page/OS_X_마운틴_라이언.md "wikilink").
 
 ## 새롭거나 바뀐 기능
 

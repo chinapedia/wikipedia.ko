@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [LATAM ](https://ko.wikipedia.org/wiki/LATAM_).
+> This article is converted from Wikipedia: [LATAM 에콰도르](https://ko.wikipedia.org/wiki/LATAM_에콰도르).
 
 
 **LATAM 에콰도르**()는 [에콰도르](../Page/에콰도르.md "wikilink")의 항공사로 총 11개 노선을 취항하고 있다. 본사는 [에콰도르](../Page/에콰도르.md "wikilink") [키토](../Page/키토.md "wikilink") 위치해 있으며 [2002년](../Page/2002년.md "wikilink")에 설립했다. 또한 사용하고 있는 [허브 공항으로](../Page/허브_공항.md "wikilink") [마리스칼 수크레 국제공항](../Page/마리스칼_수크레_국제공항.md "wikilink"), [호세 호아킨데 올메도 국제공항](../Page/호세_호아킨데_올메도_국제공항.md "wikilink"), [미타드 델 문도 국제공항](https://ko.wikipedia.org/wiki/미타드_델_문도_국제공항 "wikilink"), [마리스칼 라마 국제공항이](https://ko.wikipedia.org/wiki/마리스칼_라마_국제공항 "wikilink") 있다.\[1\]

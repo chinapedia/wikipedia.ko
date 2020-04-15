@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [MSL ](https://ko.wikipedia.org/wiki/MSL_).
+> This article is converted from Wikipedia: [MSL 금배지](https://ko.wikipedia.org/wiki/MSL_금배지).
 
 
 **MSL 금배지**(MSL Gold Badge)는 [대한민국](../Page/대한민국.md "wikilink")의 [스타크래프트](../Page/스타크래프트.md "wikilink")의 양대리그 중 하나였던 [MBC 게임의](../Page/MBC_게임.md "wikilink") [MSL에서](../Page/MBC게임_스타리그.md "wikilink") 3회 우승한 선수에게 수여하는 상품으로, MSL 로고 모양으로 만들어진 금 재질의 배지이다.

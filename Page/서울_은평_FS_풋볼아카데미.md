@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  FS ](https://ko.wikipedia.org/wiki/__FS_).
+> This article is converted from Wikipedia: [서울 은평 FS 풋볼아카데미](https://ko.wikipedia.org/wiki/서울_은평_FS_풋볼아카데미).
 
 
 **서울 은평FS 풋볼아카데미**()는 [서울특별시](../Page/서울특별시.md "wikilink") [은평구](../Page/은평구.md "wikilink")를 연고지로 하는 풋살 클럽이다.\[1\] [한국풋살연맹](https://ko.wikipedia.org/wiki/한국풋살연맹 "wikilink") [FK 슈퍼리그](../Page/FK_슈퍼리그.md "wikilink")\[2\] 소속으로 풋볼아카데미 풋살센터\[3\]를 홈구장으로 쓰고 있으며, 메인 후원사 풋볼아카데미와 NINETY PLUS(90+)에서 각각 재정지원과 의류지원을 받고 있다. 실 소유주는 풋볼아카데미 법인이다.

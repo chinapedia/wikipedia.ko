@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [CBS](https://ko.wikipedia.org/wiki/CBS).
+> This article is converted from Wikipedia: [CBS파워라디오](https://ko.wikipedia.org/wiki/CBS파워라디오).
 
 
 **CBS파워라디오**는 중국을 비롯한 전세계 한민족 청년들에게 케이팝, 팝송, 클래식, 제이팝 등 다양한 콘텐츠를 제공하는 음악전문라디오이다. 2009년 4월에 첫 전파를 발사하였으며 방송지표는 "프리미엄 뮤직채널"이다. 2014년까지 'CBS뉴스'와 '홍상은의 경제리포트' 등 다수의 시사프로그램을 방송했지만, 방송의 전문성을 위해 음악전문라디오로 개편하였다.

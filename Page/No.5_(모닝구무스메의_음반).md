@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [No.5 \( \)](https://ko.wikipedia.org/wiki/No.5_\(_\)).
+> This article is converted from Wikipedia: [No.5 \(모닝구무스메의 음반\)](https://ko.wikipedia.org/wiki/No.5_\(모닝구무스메의_음반\)).
 
 
 **No.5**(넘버 파이브)는 [2003년](../Page/2003년.md "wikilink") [3월 26일에](../Page/3월_26일.md "wikilink") 발매 된 [모닝구무스메](../Page/모닝구무스메.md "wikilink")의 다섯 번째 정규 앨범이다.

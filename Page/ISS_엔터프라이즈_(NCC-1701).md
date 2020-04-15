@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ISS  \(NCC-1701\)](https://ko.wikipedia.org/wiki/ISS__\(NCC-1701\)).
+> This article is converted from Wikipedia: [ISS 엔터프라이즈 \(NCC-1701\)](https://ko.wikipedia.org/wiki/ISS_엔터프라이즈_\(NCC-1701\)).
 
 
 **ISS 엔터프라이즈**()는 2267년 기준 활동중인 컨스티튜션급 함선으로 거울 우주에서 활동 중이다.

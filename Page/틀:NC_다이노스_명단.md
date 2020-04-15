@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:NC  ](https://ko.wikipedia.org/wiki/:NC__).
+> This article is converted from Wikipedia: [틀:NC 다이노스 명단](https://ko.wikipedia.org/wiki/틀:NC_다이노스_명단).
 
 
 <onlyinclude></onlyinclude>

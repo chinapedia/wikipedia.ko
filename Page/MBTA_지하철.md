@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [MBTA ](https://ko.wikipedia.org/wiki/MBTA_).
+> This article is converted from Wikipedia: [MBTA 지하철](https://ko.wikipedia.org/wiki/MBTA_지하철).
 
 
 **MBTA 지하철**()은 [매사추세츠만 교통공사](../Page/매사추세츠만_교통공사.md "wikilink")(MBTA)가 [보스턴 대도시권에서](https://ko.wikipedia.org/wiki/보스턴_대도시권 "wikilink") 운영하는 중전철, [라이트 레일](../Page/라이트_레일.md "wikilink"), 버스 체계이다. 보스턴 대도시권 내에서는 간단히 **급행 운송**(Rapid Transit), **지하철**(Subway) 또는 **T** 시스템으로도 불린다.\[1\]

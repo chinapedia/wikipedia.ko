@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [HTC  4G](https://ko.wikipedia.org/wiki/HTC__4G).
+> This article is converted from Wikipedia: [HTC 플라이어 4G](https://ko.wikipedia.org/wiki/HTC_플라이어_4G).
 
 
 **HTC 플라이어 4G**()는 [HTC가](../Page/HTC_\(기업\).md "wikilink") [2011년](../Page/2011년.md "wikilink")에 출시한 [태블릿 컴퓨터](../Page/태블릿_컴퓨터.md "wikilink") 이다.\[1\] 7인치 [TFT-LCD](../Page/박막_트랜지스터_액정_디스플레이.md "wikilink") [정전식 터치스크린에](../Page/정전식_감응.md "wikilink") 해상도 1024 × 600 화소를 지원하며 최대 1600만 색을 지원한다. 배터리 용량은 4,000 mAh이며, [와이브로](../Page/와이브로.md "wikilink") 전용 태블릿 컴퓨터로서 통화 기능은 지원하지 않는다. 해상도가 기본 [안드로이드의](../Page/안드로이드_\(운영_체제\).md "wikilink") WVGA 호환으로 WVGA 전용 응용 프로그램을 사용할 수 있다. SMS는 사용 가능하나 전화기능은 빠져있다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:No article text](https://ko.wikipedia.org/wiki/:No_article_text).
+> This article is converted from Wikipedia: [틀:No article text](https://ko.wikipedia.org/wiki/틀:No_article_text).
 
 
 <onlyinclude> **위키백과에 ‘’ 문서가 존재하지 않습니다.**

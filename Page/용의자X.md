@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [X](https://ko.wikipedia.org/wiki/X).
+> This article is converted from Wikipedia: [용의자X](https://ko.wikipedia.org/wiki/용의자X).
 
 
 《**용의자X**》는 [2012년](../Page/2012년.md "wikilink") 개봉한 [대한민국](../Page/대한민국.md "wikilink")의 미스터리 영화이다.

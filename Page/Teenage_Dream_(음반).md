@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Teenage Dream \(\)](https://ko.wikipedia.org/wiki/Teenage_Dream_\(\)).
+> This article is converted from Wikipedia: [Teenage Dream \(음반\)](https://ko.wikipedia.org/wiki/Teenage_Dream_\(음반\)).
 
 
 《**Teenage Dream**》은 미국의 가수 [케이티 페리의](../Page/케이티_페리.md "wikilink") 세 번째 정규 앨범이다. 앨범은 2010년 8월 24일 [캐피톨 레코드를](https://ko.wikipedia.org/wiki/캐피톨_레코드 "wikilink") 통해 발매되었다. 페리는 Greg Wells, Dr. Luke, 맥스 마틴, Ryan Tedder, Greg Kurstin, 베니 블랑코, Ester Dean, 더 드림, Christopher "Tricky" Stewart와 같은 여러 프로듀서들과 함께 공동 작업을 했다.

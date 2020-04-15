@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ DS4](https://ko.wikipedia.org/wiki/_DS4).
+> This article is converted from Wikipedia: [시트로엥 DS4](https://ko.wikipedia.org/wiki/시트로엥_DS4).
 
 
 DS4는 [프랑스](../Page/프랑스.md "wikilink") 자동차 메이커 [시트로엥](https://ko.wikipedia.org/wiki/시트로엥 "wikilink")에 의해 제조 · 판매되는 [C 세그먼트의](https://ko.wikipedia.org/wiki/소형_자동차 "wikilink") [해치백](https://ko.wikipedia.org/wiki/해치백 "wikilink") 형식 승용차이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Legend \( \)](https://ko.wikipedia.org/wiki/Legend_\(_\)).
+> This article is converted from Wikipedia: [Legend \(김현정의 음반\)](https://ko.wikipedia.org/wiki/Legend_\(김현정의_음반\)).
 
 
 《**Legend**》는 [김현정의](../Page/김현정_\(가수\).md "wikilink") 정규 1집 음반이다.

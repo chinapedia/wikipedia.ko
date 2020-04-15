@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SHE LOVES YOU \(YUI \)](https://ko.wikipedia.org/wiki/SHE_LOVES_YOU_\(YUI_\)).
+> This article is converted from Wikipedia: [SHE LOVES YOU \(YUI의 음반\)](https://ko.wikipedia.org/wiki/SHE_LOVES_YOU_\(YUI의_음반\)).
 
 
 《**SHE LOVES YOU**》(쉬 러브즈 유)는 2012년 10월 24일에 발매된 [YUI](https://ko.wikipedia.org/wiki/YUI "wikilink")의 첫 트리뷰트 음반이다. 다른 앨범들은 한국에서도 발매된 반면, 이 앨범은 한국에서 발매되지 않는다. 이 앨범의 초회한정판을 발매할 때 응모우편을 보낸 사람들 중 추첨을 통해 100명에게 [아이폰 5용](../Page/아이폰_5.md "wikilink") 오리지널 커버를 주기도 하였다.

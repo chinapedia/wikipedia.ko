@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [CM ](https://ko.wikipedia.org/wiki/CM_).
+> This article is converted from Wikipedia: [CM 펑크](https://ko.wikipedia.org/wiki/CM_펑크).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:CM_Punk_on_ring_apron.jpg "wikilink") **CM 펑크**(CM Punk [1978년](../Page/1978년.md "wikilink") [10월 26일](../Page/10월_26일.md "wikilink") \~ ) [미국](../Page/미국.md "wikilink")의 전 [프로레슬링선수](https://ko.wikipedia.org/wiki/프로레슬링선수 "wikilink")자 현 이종격투기선수다. 본명은 **필립 잭 브룩스**(Phil Jack Brooks)다. 피니쉬 무브는 고 투 슬립(GTS)와 아나콘다 바이스가 있다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Make my day \(  \)](https://ko.wikipedia.org/wiki/Make_my_day_\(__\)).
+> This article is converted from Wikipedia: [Make my day \(아라가키 유이의 노래\)](https://ko.wikipedia.org/wiki/Make_my_day_\(아라가키_유이의_노래\)).
 
 
 **Make my day**는 [2008년](../Page/2008년.md "wikilink") [7월 16일에](../Page/7월_16일.md "wikilink") 발매 된 [아라가키 유이의](../Page/아라가키_유이.md "wikilink") 첫 번째 싱글이다.

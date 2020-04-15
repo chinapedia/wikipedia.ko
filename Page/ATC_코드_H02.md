@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ATC  H02](https://ko.wikipedia.org/wiki/ATC__H02).
+> This article is converted from Wikipedia: [ATC 코드 H02](https://ko.wikipedia.org/wiki/ATC_코드_H02).
 
 
 **ATC 코드 H02**는 [ATC 코드의](https://ko.wikipedia.org/wiki/ATC_코드 "wikilink") 전신작용으로 쓰이는 코르티코스테로이드로 사용하는 약물을 정리한 코드이다. \[1\] **ATC 코드** H 성호르몬 및 인슐린을 제외한 전신성 호르몬제제의 하위그룹을 이룬다.

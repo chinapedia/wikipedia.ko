@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Cc-by-sa-layout](https://ko.wikipedia.org/wiki/:Cc-by-sa-layout).
+> This article is converted from Wikipedia: [틀:Cc-by-sa-layout](https://ko.wikipedia.org/wiki/틀:Cc-by-sa-layout).
 
 
 <includeonly>

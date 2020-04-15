@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KBS ](https://ko.wikipedia.org/wiki/KBS_).
+> This article is converted from Wikipedia: [KBS 초대석](https://ko.wikipedia.org/wiki/KBS_초대석).
 
 
 **KBS 초대석**은 매주 [월요일](../Page/월요일.md "wikilink") 오후 2시 10분에 [KBS제주 1TV로](https://ko.wikipedia.org/wiki/KBS_제주#1TV "wikilink") 방송되는 [텔레비전 프로그램이다](../Page/텔레비전_프로그램.md "wikilink").

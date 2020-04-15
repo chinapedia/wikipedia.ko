@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ H](https://ko.wikipedia.org/wiki/_H).
+> This article is converted from Wikipedia: [다겐 H](https://ko.wikipedia.org/wiki/다겐_H).
 
 
 [thumb](https://ko.wikipedia.org/wiki/파일:Kungsgatan_1967.jpg "wikilink") [thumb](https://ko.wikipedia.org/wiki/파일:Dagen_H.svg "wikilink") **다겐 H**(, )는 [스웨덴](../Page/스웨덴.md "wikilink")의 [대면 통행](../Page/대면_통행.md "wikilink") 방식이 좌측에서 우측 통행으로 바뀐 [1967년](../Page/1967년.md "wikilink") [9월 3일을](../Page/9월_3일.md "wikilink") 가리킨다. H는 스웨덴어로 우측 통행을 뜻하는 (회게르트라피크)에서 온 단어이다.

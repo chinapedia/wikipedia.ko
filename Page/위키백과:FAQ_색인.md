@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:FAQ ](https://ko.wikipedia.org/wiki/:FAQ_).
+> This article is converted from Wikipedia: [위키백과:FAQ 색인](https://ko.wikipedia.org/wiki/위키백과:FAQ_색인).
 
 
 [center](https://ko.wikipedia.org/wiki/파일:FAQuse-title.png "wikilink")

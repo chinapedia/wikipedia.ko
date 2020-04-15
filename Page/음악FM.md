@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FM](https://ko.wikipedia.org/wiki/FM).
+> This article is converted from Wikipedia: [음악FM](https://ko.wikipedia.org/wiki/음악FM).
 
 
 **음악FM**은 본래 음악감상을 목적으로 만든 [FM방송을](../Page/FM_방송.md "wikilink") 말한다. 원래는 뉴스와 종합적인 내용을 AM방송으로 방송했고 음악 등을 FM방송으로 많이 방송되어서 **FM방송**으로 통용되어서 불렀으나 요즘에는 AM방송을 재송신하는 [표준FM](../Page/표준FM.md "wikilink")이 많이 개국되어 **음악FM**이라 칭하여 부르고 있다.

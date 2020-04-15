@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [2014 FIFA     A](https://ko.wikipedia.org/wiki/2014_FIFA_____A).
+> This article is converted from Wikipedia: [2014년 FIFA 월드컵 유럽 지역 예선 A조](https://ko.wikipedia.org/wiki/2014년_FIFA_월드컵_유럽_지역_예선_A조).
 
 
 **[2014년 FIFA 월드컵 유럽 지역 예선](../Page/2014년_FIFA_월드컵_유럽_지역_예선.md "wikilink") A조**는 [크로아티아를](../Page/크로아티아_축구_국가대표팀.md "wikilink") 비롯하여 [세르비아](../Page/세르비아_축구_국가대표팀.md "wikilink"), [벨기에](https://ko.wikipedia.org/wiki/벨기에_축구_국가대표팀 "wikilink"), [스코틀랜드](../Page/스코틀랜드_축구_국가대표팀.md "wikilink"), [마케도니아 공화국](https://ko.wikipedia.org/wiki/마케도니아_축구_국가대표팀 "wikilink"), [웨일스로](../Page/웨일스_축구_국가대표팀.md "wikilink") 구성되어 있다.

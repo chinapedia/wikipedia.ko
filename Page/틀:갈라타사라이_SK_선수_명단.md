@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [: SK  ](https://ko.wikipedia.org/wiki/:_SK__).
+> This article is converted from Wikipedia: [틀:갈라타사라이 SK 선수 명단](https://ko.wikipedia.org/wiki/틀:갈라타사라이_SK_선수_명단).
 
 
 <onlyinclude></onlyinclude>

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  II](https://ko.wikipedia.org/wiki/__II).
+> This article is converted from Wikipedia: [스타드 루이 II](https://ko.wikipedia.org/wiki/스타드_루이_II).
 
 
 **스타드 루이 II**()는 [모나코](../Page/모나코.md "wikilink")에 위치한 경기장이다. 주로 [축구](../Page/축구.md "wikilink") 경기장으로 사용되고 있으며 [AS 모나코의](../Page/AS_모나코_FC.md "wikilink") 홈구장으로 사용되고 있다. 경기장 이름은 모나코의 대공 [루이 2세에서](../Page/루이_2세_\(모나코\).md "wikilink") 유래된 이름이다.

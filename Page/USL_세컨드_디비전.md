@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [USL  ](https://ko.wikipedia.org/wiki/USL__).
+> This article is converted from Wikipedia: [USL 세컨드 디비전](https://ko.wikipedia.org/wiki/USL_세컨드_디비전).
 
 
 **USL 세컨드 디비전**(USL Second Division)은 미국 축구 3부 리그이며, 2010년이후 사라진 리그이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [DVD ](https://ko.wikipedia.org/wiki/DVD_).
+> This article is converted from Wikipedia: [DVD 오디오](https://ko.wikipedia.org/wiki/DVD_오디오).
 
 
 **DVD 오디오**(DVD-Audio, 간단히 **DVD-A**)는 [고선명](https://ko.wikipedia.org/wiki/고선명 "wikilink") 오디오 콘텐츠를 [DVD](../Page/DVD.md "wikilink")를 통해 전달하기 위한 디지털 [포맷이다](https://ko.wikipedia.org/wiki/오디오_포맷 "wikilink"). DVD 오디오는 동영상을 전달하는 포맷으로 고안된 것이 아니며, 영화나 뮤직 비디오를 담는 [DVD 비디오와는](../Page/DVD_비디오.md "wikilink") 다르다.

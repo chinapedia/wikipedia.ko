@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Playgirlz \(\)](https://ko.wikipedia.org/wiki/Playgirlz_\(\)).
+> This article is converted from Wikipedia: [Playgirlz \(콘서트\)](https://ko.wikipedia.org/wiki/Playgirlz_\(콘서트\)).
 
 
 **Playgirlz**는 [애프터스쿨](../Page/애프터스쿨.md "wikilink")의 첫 번째 단독 [콘서트](https://ko.wikipedia.org/wiki/콘서트 "wikilink")이자 [일본](../Page/일본.md "wikilink") 순회 공연 프로그램이다. 이 콘서트는 [플레디스 엔터테인먼트가](../Page/플레디스_엔터테인먼트.md "wikilink") [2012년](../Page/2012년.md "wikilink") [1월 13일에](../Page/1월_13일.md "wikilink") 발표하였다. 티켓은 [3월 24일부터](../Page/3월_24일.md "wikilink") 판매 하였다.

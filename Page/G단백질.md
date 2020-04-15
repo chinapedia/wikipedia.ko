@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [G](https://ko.wikipedia.org/wiki/G).
+> This article is converted from Wikipedia: [G단백질](https://ko.wikipedia.org/wiki/G단백질).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:1b9x_opm.png "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:Guanosindiphosphat_protoniert.svg "wikilink")[섬네일](https://ko.wikipedia.org/wiki/파일:Guanosintriphosphat_protoniert.svg "wikilink")

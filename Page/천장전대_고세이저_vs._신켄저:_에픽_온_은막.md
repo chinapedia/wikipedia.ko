@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [  vs. :   ](https://ko.wikipedia.org/wiki/__vs._:___).
+> This article is converted from Wikipedia: [천장전대 고세이저 vs. 신켄저: 에픽 온 은막](https://ko.wikipedia.org/wiki/천장전대_고세이저_vs._신켄저:_에픽_온_은막).
 
 
-**천장전대 고세이저 vs. 신켄저: 에픽 온 은막** ()은 《[슈퍼 전대 시리즈](../Page/슈퍼_전대_시리즈.md "wikilink")》의 《[천장전대 고세이저](../Page/천장전대_고세이저.md "wikilink")》, 《[사무라이전대 신켄저](../Page/사무라이전대_신켄저.md "wikilink")》의 극장판으로, [고세이저](../Page/고세이저.md "wikilink")와 [신켄저](../Page/신켄저.md "wikilink") 간의 "VS 시리즈"에 해당하는 작품이다. [2010년](../Page/2010년.md "wikilink") [10월 21일](../Page/10월_21일.md "wikilink") 최초로 공식 공개되었으며\[1\], [2011년](../Page/2011년.md "wikilink") [1월 22일](../Page/1월_22일.md "wikilink") 개봉했다. 《[해적전대 고카이저](../Page/해적전대_고카이저.md "wikilink")》의 [고카이저](../Page/고카이저.md "wikilink")도 이 영화를 통해 선행 등장했다. [2011년](../Page/2011년.md "wikilink") [3월 21일](../Page/3월_21일.md "wikilink") DVD판이 공개되었다.
+**천장전대 고세이저 vs. 신켄저: 에픽 온 은막**()은 《[슈퍼 전대 시리즈](../Page/슈퍼_전대_시리즈.md "wikilink")》의 《[천장전대 고세이저](../Page/천장전대_고세이저.md "wikilink")》, 《[사무라이전대 신켄저](../Page/사무라이전대_신켄저.md "wikilink")》의 극장판으로, [고세이저](../Page/고세이저.md "wikilink")와 [신켄저](../Page/신켄저.md "wikilink") 간의 "VS 시리즈"에 해당하는 작품이다. [2010년](../Page/2010년.md "wikilink") [10월 21일](../Page/10월_21일.md "wikilink") 최초로 공식 공개되었으며\[1\], [2011년](../Page/2011년.md "wikilink") [1월 22일](../Page/1월_22일.md "wikilink") 개봉했다. 《[해적전대 고카이저](../Page/해적전대_고카이저.md "wikilink")》의 [고카이저](../Page/고카이저.md "wikilink")도 이 영화를 통해 선행 등장했다. [2011년](../Page/2011년.md "wikilink") [3월 21일](../Page/3월_21일.md "wikilink") DVD판이 공개되었다.
 
 공식 선전 문구는 "나아가라, [사무라이](../Page/사무라이.md "wikilink")\! 날아올라라, [천사](../Page/천사.md "wikilink")들\!" ()과 "누구도 본 적 없는, 사무라이와 천사의 콜라보레이션 (Collaboration)\!" ()이다.
 

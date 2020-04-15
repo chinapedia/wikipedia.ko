@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [A- \(\)](https://ko.wikipedia.org/wiki/A-_\(\)).
+> This article is converted from Wikipedia: [A-특공대 \(영화\)](https://ko.wikipedia.org/wiki/A-특공대_\(영화\)).
 
 
 《**A - 특공대**》()는 2010년 개봉한 [미국](../Page/미국.md "wikilink")의 액션 코미디 영화이다. [조 카나한이](https://ko.wikipedia.org/wiki/조_카나한 "wikilink") 감독하고 카나한이 브라이언 블룸, 스킵 우즈와 공동으로 각본을 썼으며, 1983년부터 1986년까지 98편의 에피소드가 인기리에 방영되며 많은 팬들을 생산했던 스티븐 J. 커넬, 프랭크 루포의 동명의 TV 시리즈를 리메이크한 작품이다. 이 영화에는 [리암 니슨](../Page/리암_니슨.md "wikilink"), [브래들리 쿠퍼](https://ko.wikipedia.org/wiki/브래들리_쿠퍼 "wikilink"), [퀸튼 잭슨](https://ko.wikipedia.org/wiki/퀸튼_잭슨 "wikilink"), [샬토 코플리](https://ko.wikipedia.org/wiki/샬토_코플리 "wikilink"), [제시카 비엘](../Page/제시카_비엘.md "wikilink"), [패트릭 윌슨와](https://ko.wikipedia.org/wiki/패트릭_윌슨 "wikilink") [브라이언 블룸이](https://ko.wikipedia.org/wiki/브라이언_블룸 "wikilink") 출연한다. 이 영화는 자신들이 저지른 범죄로 투옥 된 특수 부대 팀인 "A 팀"의 이야기와 그 이름을 밝히기 위해 탈출한 사람들의 이야기를 담고 있다. 영화의 제작에는 스티븐 J. 커넬,\[1\] [리들리 스콧과](../Page/리들리_스콧.md "wikilink") [토니 스콧이](../Page/토니_스콧.md "wikilink") 참여했다.\[2\]\[3\]

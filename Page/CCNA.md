@@ -36,7 +36,7 @@ CCNA 인증을 받으려면 다음을 통과하여야 한다:
 [분류:자격증](https://ko.wikipedia.org/wiki/분류:자격증 "wikilink") [분류:전산장비](https://ko.wikipedia.org/wiki/분류:전산장비 "wikilink")
 
 1.
-2.  "[CCNA Routing and Switching Refreshed](https://learningnetwork.cisco.com/blogs/community_cafe/2016/05/17/ccna-refresh)" (News Blog Post). 2016-05-17. Retrieved 2016-10-10.
+2.  "[CCNA Routing and Switching Refreshed](https://learningnetwork.cisco.com/blogs/community_cafe/2016/05/17/ccna-refresh) " (News Blog Post). 2016-05-17. Retrieved 2016-10-10.
 3.  "[1](https://learningnetwork.cisco.com/community/certifications)" (Cisco Learning Network certifications list). 2016. Retrieved 2016-12-21.
 4.
 5.

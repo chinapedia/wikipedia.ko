@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [DNA ](https://ko.wikipedia.org/wiki/DNA_).
+> This article is converted from Wikipedia: [DNA 수선](https://ko.wikipedia.org/wiki/DNA_수선).
 
 
 [frame](https://ko.wikipedia.org/wiki/파일:brokechromo.jpg "wikilink")

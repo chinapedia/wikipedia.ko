@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  B-](https://ko.wikipedia.org/wiki/__B-).
+> This article is converted from Wikipedia: [비균일 유리 B-스플라인](https://ko.wikipedia.org/wiki/비균일_유리_B-스플라인).
 
 
 **비균일 유리 B-스플라인**(Non-Uniform Rational B-spline) 3차원 기하체를 수학적으로 재현하는 방식 중 하나이다. 약자로 **NURBS**라고 하기도 한다. 2차원의 간단한 선분 원, 호, 곡선부터 매우 복잡한 3차원의 유기적 형태의 [곡면](https://ko.wikipedia.org/wiki/곡면 "wikilink")이나 덩어리까지 매우 정확하게 표현할 수 있으며 그 편집이 무척 쉽다. 이러한 유연성과 정밀성 때문에 NURBS는 그림, 애니메이션이나 곡면의 물체를 생산하는 산업에 까지 다양한 영역에서 사용된다.

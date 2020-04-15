@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [: CF  ](https://ko.wikipedia.org/wiki/:_CF__).
+> This article is converted from Wikipedia: [틀:말라가 CF 선수 명단](https://ko.wikipedia.org/wiki/틀:말라가_CF_선수_명단).
 
 
 <onlyinclude></onlyinclude>

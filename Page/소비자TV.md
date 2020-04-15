@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TV](https://ko.wikipedia.org/wiki/TV).
+> This article is converted from Wikipedia: [소비자TV](https://ko.wikipedia.org/wiki/소비자TV).
 
 
 **소비자TV**()는 [대한민국](../Page/대한민국.md "wikilink")의 [방송채널 사용사업자인](https://ko.wikipedia.org/wiki/대한민국_방송법 "wikilink") 한국소비자티브이(주)가 운영하는 [텔레비전](../Page/텔레비전.md "wikilink") [채널이다](https://ko.wikipedia.org/wiki/채널_\(통신\) "wikilink").

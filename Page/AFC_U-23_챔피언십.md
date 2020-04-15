@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [AFC U-23 ](https://ko.wikipedia.org/wiki/AFC_U-23_).
+> This article is converted from Wikipedia: [AFC U-23 챔피언십](https://ko.wikipedia.org/wiki/AFC_U-23_챔피언십).
 
 
 **AFC U-23 챔피언십**(AFC U-23 Championship)는 [아시아 축구 연맹](../Page/아시아_축구_연맹.md "wikilink")(AFC)에서 주관하는 축구 대회이다. 구체적인 성격은 다소 다르지만 이 대회가 신설되기 전에는 [올림픽 축구](../Page/올림픽_축구.md "wikilink") 아시아 지역 예선 및 [아시안 게임 축구가](../Page/아시안_게임_축구.md "wikilink") 2년 주기로 그 역할을 대신해 왔다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [! We\'re ALIVE](https://ko.wikipedia.org/wiki/!_We\'re_ALIVE).
+> This article is converted from Wikipedia: [그래! We\'re ALIVE](https://ko.wikipedia.org/wiki/그래!_We\'re_ALIVE).
 
 
 **소다\! We're ALIVE**()는 [2002년](../Page/2002년.md "wikilink") [2월 20일에](../Page/2월_20일.md "wikilink") 발매 된 [모닝구무스메](../Page/모닝구무스메.md "wikilink")의 열네 번째 싱글이다.

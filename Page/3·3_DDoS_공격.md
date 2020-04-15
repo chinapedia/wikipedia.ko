@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [33 DDoS ](https://ko.wikipedia.org/wiki/33_DDoS_).
+> This article is converted from Wikipedia: [3·3 DDoS 공격](https://ko.wikipedia.org/wiki/3·3_DDoS_공격).
 
 
 **3·3 DDoS 공격**은 [2011년](../Page/2011년.md "wikilink") [3월 3일을](../Page/3월_3일.md "wikilink") 기점으로 [대한민국](../Page/대한민국.md "wikilink")의 주요 [정부기관](../Page/대한민국_정부.md "wikilink"), [포털 사이트](../Page/포털_사이트.md "wikilink"), [은행](../Page/은행.md "wikilink") 사이트 등을 [분산 서비스 거부 공격](https://ko.wikipedia.org/wiki/분산_서비스_거부_공격 "wikilink")(DDoS)을 통해 일시적으로 두 차례 마비시킨 사건이다. 이는 [2009년](../Page/2009년.md "wikilink")에 일어난 [7 · 7 분산 서비스 거부 공격보다](../Page/7·7_DDoS_공격.md "wikilink") 진화된 형태이다.\[1\]

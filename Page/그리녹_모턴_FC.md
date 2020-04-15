@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  FC](https://ko.wikipedia.org/wiki/__FC).
+> This article is converted from Wikipedia: [그리녹 모턴 FC](https://ko.wikipedia.org/wiki/그리녹_모턴_FC).
 
 
 **그리녹 모턴 FC**(Greenock Morton Football Club, Greenock Morton F.C.)는 [1874년](../Page/1874년.md "wikilink")에 창단된 [스코틀랜드](../Page/스코틀랜드.md "wikilink") [그리녹](https://ko.wikipedia.org/wiki/그리녹 "wikilink")의 축구 클럽으로, 현재 [스코틀랜드 풋볼 리그 1부에서](https://ko.wikipedia.org/wiki/스코틀랜드_풋볼_리그_1부 "wikilink") 활동하고 있다.

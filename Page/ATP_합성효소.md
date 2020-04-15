@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ATP ](https://ko.wikipedia.org/wiki/ATP_).
+> This article is converted from Wikipedia: [ATP 합성효소](https://ko.wikipedia.org/wiki/ATP_합성효소).
 
 
 **ATP 합성효소** 또는 **ATP 생성효소**(<small>[영어](../Page/영어.md "wikilink")</small>: ATP synthase)는 모든 세포 활동의 에너지원인 [아데노신 삼인산을](../Page/아데노신_삼인산.md "wikilink") 생성하는 효소이다. 이 효소는 [미토콘드리아](../Page/미토콘드리아.md "wikilink")의 표면적이 넓은 내막에 위치를 하고 있다. 이 단백질은 [세포 호흡의](../Page/세포_호흡.md "wikilink") 하위 과정인 전자전달에 의해 생기는 수소 이온의 이동으로 인한 pH차이와 전압 차이를 이용하여 [아데노신 이인산을](../Page/아데노신_이인산.md "wikilink") 인산화하여 아데노신 삼인산을 생성한다. 이를 설명한 [Paul D. Boyer와](https://ko.wikipedia.org/wiki/Paul_D._Boyer "wikilink") [John E. Walker는](https://ko.wikipedia.org/wiki/John_E._Walker "wikilink") 1997년에 노벨 화학상을 받았다.

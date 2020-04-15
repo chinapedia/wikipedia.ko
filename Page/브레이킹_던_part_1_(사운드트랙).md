@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  part 1 \(\)](https://ko.wikipedia.org/wiki/__part_1_\(\)).
+> This article is converted from Wikipedia: [브레이킹 던 part 1 \(사운드트랙\)](https://ko.wikipedia.org/wiki/브레이킹_던_part_1_\(사운드트랙\)).
 
 
 **브레이킹 던 part 1**(Breaking Dawn – Part 1)는 2011년 개봉한 [브레이킹 던 - 1부의](https://ko.wikipedia.org/wiki/브레이킹_던_-_1부 "wikilink") [사운드트랙](https://ko.wikipedia.org/wiki/사운드트랙 "wikilink")이다.

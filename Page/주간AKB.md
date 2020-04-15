@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [AKB](https://ko.wikipedia.org/wiki/AKB).
+> This article is converted from Wikipedia: [주간AKB](https://ko.wikipedia.org/wiki/주간AKB).
 
 
 **주간AKBI**(週刊AKB)는 [일본](../Page/일본.md "wikilink")의 [테레비도쿄](https://ko.wikipedia.org/wiki/테레비도쿄 "wikilink")에서 [2009년](../Page/2009년.md "wikilink") [7월 10일부터](../Page/7월_10일.md "wikilink") 방송되는 버라이어티 프로그램이다.

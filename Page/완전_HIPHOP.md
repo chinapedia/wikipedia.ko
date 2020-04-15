@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ HIPHOP](https://ko.wikipedia.org/wiki/_HIPHOP).
+> This article is converted from Wikipedia: [완전 HIPHOP](https://ko.wikipedia.org/wiki/완전_HIPHOP).
 
 
 **《완전 HIPHOP》**은 힙합 듀오 [듀스](https://ko.wikipedia.org/wiki/듀스 "wikilink") 출신 [이현도](../Page/이현도.md "wikilink")의 세 번째 정규 음반이다.

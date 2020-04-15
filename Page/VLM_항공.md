@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [VLM ](https://ko.wikipedia.org/wiki/VLM_).
+> This article is converted from Wikipedia: [VLM 항공](https://ko.wikipedia.org/wiki/VLM_항공).
 
 
-**VLM 항공** ()는 에어프랑스의 지분에 등록된 자회사이자 [벨기에](../Page/벨기에.md "wikilink")의 지역 항공사로 [1992년](../Page/1992년.md "wikilink")에 설립되어 [런던 시티 공항을](../Page/런던_시티_공항.md "wikilink") [허브 공항을](../Page/허브_공항.md "wikilink") 사용한다. VLM 항공은 주로 [유럽](../Page/유럽.md "wikilink")의 국제선 노선을 취항하고 있다.
+**VLM 항공**()는 에어프랑스의 지분에 등록된 자회사이자 [벨기에](../Page/벨기에.md "wikilink")의 지역 항공사로 [1992년](../Page/1992년.md "wikilink")에 설립되어 [런던 시티 공항을](../Page/런던_시티_공항.md "wikilink") [허브 공항을](../Page/허브_공항.md "wikilink") 사용한다. VLM 항공은 주로 [유럽](../Page/유럽.md "wikilink")의 국제선 노선을 취항하고 있다.
 
 ## 보유 기종
 

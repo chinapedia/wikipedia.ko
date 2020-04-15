@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:  Z](https://ko.wikipedia.org/wiki/:__Z).
+> This article is converted from Wikipedia: [틀:모모이로 클로버 Z](https://ko.wikipedia.org/wiki/틀:모모이로_클로버_Z).
 
 
 <noinclude>

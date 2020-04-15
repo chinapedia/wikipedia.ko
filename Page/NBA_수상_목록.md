@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [NBA  ](https://ko.wikipedia.org/wiki/NBA__).
+> This article is converted from Wikipedia: [NBA 수상 목록](https://ko.wikipedia.org/wiki/NBA_수상_목록).
 
 
 **NBA 수상 목록**(NBA Individual awards)는 매 시즌이 끝나면 시즌 최우수선수상, 우수후보선수상, 신인상, 기량발전상, 수비선수상, 코치상 등을 수여한다.

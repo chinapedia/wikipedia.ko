@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ ALL SINGLES COMPLETE \~10th ANNIVERSARY\~](https://ko.wikipedia.org/wiki/_ALL_SINGLES_COMPLETE_\~10th_ANNIVERSARY\~).
+> This article is converted from Wikipedia: [모닝구무스메 ALL SINGLES COMPLETE \~10th ANNIVERSARY\~](https://ko.wikipedia.org/wiki/모닝구무스메_ALL_SINGLES_COMPLETE_\~10th_ANNIVERSARY\~).
 
 
 **[모닝구무스메](../Page/모닝구무스메.md "wikilink") ALL SINGLES COMPLETE \~10th ANNIVERSARY\~**()는, [2007년](../Page/2007년.md "wikilink") [10월 24일에](../Page/10월_24일.md "wikilink") 발매 된 [모닝구무스메](../Page/모닝구무스메.md "wikilink")의 세 번째 베스트 앨범이다.

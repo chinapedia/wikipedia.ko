@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Bazaar \(\)](https://ko.wikipedia.org/wiki/Bazaar_\(\)).
+> This article is converted from Wikipedia: [Bazaar \(소프트웨어\)](https://ko.wikipedia.org/wiki/Bazaar_\(소프트웨어\)).
 
 
 **Bazaar**(이전에는 **Bazaar-NG**였고, [명령 줄](https://ko.wikipedia.org/wiki/명령_줄 "wikilink") 도구는 **bzr**)는 [캐노니컬](../Page/캐노니컬.md "wikilink")이 지원하는 [분산 버전 관리](../Page/분산_버전_관리.md "wikilink") 도구이다. 누구나 쉽게 [자유 소프트웨어](../Page/자유_소프트웨어.md "wikilink"), [오픈 소스 소프트웨어](../Page/오픈_소스_소프트웨어.md "wikilink") 프로젝트에 기여할 수 있도록 설계되었다.

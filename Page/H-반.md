@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [H-](https://ko.wikipedia.org/wiki/H-).
+> This article is converted from Wikipedia: [H-반](https://ko.wikipedia.org/wiki/H-반).
 
 
 [right](https://ko.wikipedia.org/wiki/파일:H_bahn_dortmund1.jpg "wikilink") **H-반**(H-Bahn)은 현수형 승용 모노레일 시스템이다. 이 시스템에 대한 개발 프로젝트의 이름은 SIPEM이며, 개발은 [지멘스 AG에서](https://ko.wikipedia.org/wiki/지멘스_AG "wikilink") 하였다. SIPEM은 "**SI**emens **PE**ople **M**over"을 의미한다. SIPEM은 [독일](../Page/독일.md "wikilink") [도르트문트](../Page/도르트문트.md "wikilink")의 "H-반(H-Bahn)"과 [뒤셀도르프 국제공항의](https://ko.wikipedia.org/wiki/뒤셀도르프_국제공항 "wikilink") "스카이트레인(Skytrain)"으로서 실용화되고있다. "H-반"의 "H"는 [독일어](../Page/독일어.md "wikilink")로 "행게(hänge)", 즉 "매달려있다"를 의미한다. SIPEM은 자동 운전 시스템을 갖추고 있어 컨트롤 센터에서 운행이 통제되고 있다.

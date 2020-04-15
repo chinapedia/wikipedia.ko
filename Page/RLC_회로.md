@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [RLC ](https://ko.wikipedia.org/wiki/RLC_).
+> This article is converted from Wikipedia: [RLC 회로](https://ko.wikipedia.org/wiki/RLC_회로).
 
 
 [thumb](https://ko.wikipedia.org/wiki/파일:RLC_series.png "wikilink")

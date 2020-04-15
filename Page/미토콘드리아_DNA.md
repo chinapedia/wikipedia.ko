@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ DNA](https://ko.wikipedia.org/wiki/_DNA).
+> This article is converted from Wikipedia: [미토콘드리아 DNA](https://ko.wikipedia.org/wiki/미토콘드리아_DNA).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Electron_microscopy_reveals_mitochondrial_DNA_in_discrete_foci.jpg "wikilink") **미토콘드리아 DNA**(mitochondrial DNA, mtDNA 혹은 mDNA)\[1\] 는 [세포소기관](https://ko.wikipedia.org/wiki/세포소기관 "wikilink")인 [미토콘드리아](../Page/미토콘드리아.md "wikilink")에 존재하는 [DNA](../Page/DNA.md "wikilink")이다. 미토콘드리아 DNA는 진핵세포에 있는 DNA 중 극히 일부를 차지한다. 대부분의 DNA는 [핵](https://ko.wikipedia.org/wiki/핵 "wikilink") 내에 존재하며, 식물의 경우에는 핵과 [엽록체](../Page/엽록체.md "wikilink")에 존재한다.
@@ -19,7 +19,7 @@
 
 ## 복제
 
-미토콘드리아 DNA는 [DNA 중합효소](../Page/DNA_중합효소.md "wikilink") γ복합체로 복제된다. DNA 중합효소 γ복합체는 *[POLG](https://ko.wikipedia.org/wiki/POLG "wikilink")*에 암호화된 140 kDa의 DNA 중합효소와 *POLG2*에 암호화된 55 kDa의 부가적인 소단위로 이루어진다.\[9\] 복제 기구는 DNA 중합효소, [TWINKLE](https://ko.wikipedia.org/wiki/PEO1 "wikilink") 그리고 미토콘드리아 단백질 [SSB 단백질로](https://ko.wikipedia.org/wiki/SSB_단백질 "wikilink") 이루어진다. TWINKLE은 [헬리케이즈](https://ko.wikipedia.org/wiki/헬리케이즈 "wikilink")로 이중가닥 DNA(dsDNA)의 일부분을 5'에서 3' 방향으로 풀어준다.\[10\]
+미토콘드리아 DNA는 [DNA 중합효소](../Page/DNA_중합효소.md "wikilink") γ복합체로 복제된다. DNA 중합효소 γ복합체는 *[POLG](https://ko.wikipedia.org/wiki/POLG "wikilink")*에 암호화된 140 kDa의 DNA 중합효소와 *POLG2*에 암호화된 55 kDa의 부가적인 소단위로 이루어진다.\[9\] 복제 기구는 DNA 중합효소, [TWINKLE](https://ko.wikipedia.org/wiki/PEO1 "wikilink") 그리고 미토콘드리아 단백질 [SSB 단백질로](https://ko.wikipedia.org/wiki/SSB_단백질 "wikilink") 이루어진다. TWINKLE은 [헬리케이스](https://ko.wikipedia.org/wiki/헬리케이스 "wikilink")로 이중가닥 DNA(dsDNA)의 일부분을 5'에서 3' 방향으로 풀어준다.\[10\]
 
 [수정](https://ko.wikipedia.org/wiki/수정 "wikilink") 후 [착상](https://ko.wikipedia.org/wiki/착상 "wikilink") 전까지 미토콘드리아 DNA의 복제는 억제된다.\[11\] [배반포](../Page/배반포.md "wikilink") 단계에서 [영양외배엽](https://ko.wikipedia.org/wiki/영양외배엽 "wikilink")의 세포들에서는 미토콘드리아 DNA의 복제가 시작되지만, [내세포괴](https://ko.wikipedia.org/wiki/내세포괴 "wikilink")의 세포들은 특정한 세포로 [분화되는](../Page/세포_분화.md "wikilink") [신호를](https://ko.wikipedia.org/wiki/세포_신호 "wikilink") 받을 때까지 미토콘드리아 DNA의 복제가 시작되지 않는다.\[12\]
 
@@ -37,7 +37,7 @@
 
 ### 부계 유전
 
-몇몇 [홍합](https://ko.wikipedia.org/wiki/홍합 "wikilink")() 종은 때로 부계 미토콘드리아 DNA가 전달되기도 한다.\[17\]\[18\] 미토콘드리아가 부계 유전되는 사례에는 [초파리](https://ko.wikipedia.org/wiki/초파리과 "wikilink"),\[19\] [꿀벌](../Page/꿀벌.md "wikilink"),\[20\] 그리고 [매미](../Page/매미.md "wikilink")\[21\] 도 포함된다. 부계 유전 사례는 드물게 포유류에서 발견되기도 한다. [마우스에서](../Page/생쥐.md "wikilink") 그러한 사례가 보고된 바 있지만, 결과적으로는 수컷에서 유래한 미토콘드리아는 제거되었다.\[22\]\[23\] [양](../Page/양.md "wikilink")\[24\] 과 복제 소에서도 보고된 사례가 있다.\[25\] 사람의 경우 보고된 사례가 한 개 있는데, 대상은 남자였다.\[26\]
+몇몇 [홍합](https://ko.wikipedia.org/wiki/홍합 "wikilink")() 종은 때로 부계 미토콘드리아 DNA가 전달되기도 한다.\[17\]\[18\] 미토콘드리아가 부계 유전되는 사례에는 [초파리](https://ko.wikipedia.org/wiki/초파리과 "wikilink"),\[19\] [꿀벌](../Page/꿀벌.md "wikilink"),\[20\] 그리고 [매미](../Page/매미.md "wikilink")\[21\] 도 포함된다. 부계 유전 사례는 드물게 포유류에서 발견되기도 한다. [쥐에서](../Page/생쥐.md "wikilink") 그러한 사례가 보고된 바 있지만, 결과적으로는 수컷에서 유래한 미토콘드리아는 제거되었다.\[22\]\[23\] [양](../Page/양.md "wikilink")\[24\] 과 복제 소에서도 보고된 사례가 있다.\[25\] 사람의 경우 보고된 사례가 한 개 있는데, 대상은 남자였다.\[26\]
 
 ## 돌연변이
 

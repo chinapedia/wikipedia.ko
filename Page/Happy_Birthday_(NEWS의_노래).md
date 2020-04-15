@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Happy Birthday \(NEWS \)](https://ko.wikipedia.org/wiki/Happy_Birthday_\(NEWS_\)).
+> This article is converted from Wikipedia: [Happy Birthday \(NEWS의 노래\)](https://ko.wikipedia.org/wiki/Happy_Birthday_\(NEWS의_노래\)).
 
 
 〈**Happy Birthday**〉는, [NEWS](https://ko.wikipedia.org/wiki/NEWS "wikilink")의 10번째 [싱글이다](../Page/싱글_\(음악\).md "wikilink").

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [LG  ](https://ko.wikipedia.org/wiki/LG__).
+> This article is converted from Wikipedia: [LG 쿠키 프레시](https://ko.wikipedia.org/wiki/LG_쿠키_프레시).
 
 
 **LG 쿠키 프레시**(, LG GS290)는 [LG전자](../Page/LG전자.md "wikilink")가 2010년 3월에 출시한 [휴대 전화기이다](https://ko.wikipedia.org/wiki/휴대_전화기 "wikilink").\[1\]

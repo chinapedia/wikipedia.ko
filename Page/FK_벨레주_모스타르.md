@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FK  ](https://ko.wikipedia.org/wiki/FK__).
+> This article is converted from Wikipedia: [FK 벨레주 모스타르](https://ko.wikipedia.org/wiki/FK_벨레주_모스타르).
 
 
 **FK 벨레주 모스타르**(FK Velež Mostar)는 [모스타르](../Page/모스타르.md "wikilink")를 연고로 하는 [보스니아 헤르체고비나의](../Page/보스니아_헤르체고비나.md "wikilink") [축구](../Page/축구.md "wikilink") 클럽이다. 현재는 [보스니아 헤르체고비나 프리미어리그에](../Page/보스니아_헤르체고비나_프리미어리그.md "wikilink") 참가하고 있다. 클럽 이름은 모스타르 인근에 위치한 벨레주 산에서 유래된 것이다.

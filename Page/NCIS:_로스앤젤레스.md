@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [NCIS: ](https://ko.wikipedia.org/wiki/NCIS:_).
+> This article is converted from Wikipedia: [NCIS: 로스앤젤레스](https://ko.wikipedia.org/wiki/NCIS:_로스앤젤레스).
 
 
 **NCIS: 로스앤젤레스**(NCIS: Los Angeles)는 2009년 9월 22일부터 현재까지 [CBS](https://ko.wikipedia.org/wiki/CBS "wikilink")에서 방영중인 드라마로, [NCIS의](https://ko.wikipedia.org/wiki/NCIS_\(TV_시리즈\) "wikilink") 파생작이다.

@@ -26,8 +26,8 @@
 
 ### 단체
 
-  -   - **글로벌 스타크래프트 II 팀 리그 March 우승** (vs [IM](https://ko.wikipedia.org/wiki/Incredible_Miracle "wikilink") 5:4)
-      - **글로벌 스타크래프트 II 팀 리그 May 우승** (vs [MVP](https://ko.wikipedia.org/wiki/MVP "wikilink") 5:4)
+  -   - **글로벌 스타크래프트 II 팀 리그 March 우승**(vs [IM](https://ko.wikipedia.org/wiki/Incredible_Miracle "wikilink") 5:4)
+      - **글로벌 스타크래프트 II 팀 리그 May 우승**(vs [MVP](https://ko.wikipedia.org/wiki/MVP "wikilink") 5:4)
       - GSTL S1 Round 2
       - [핫식스 글로벌 스타크래프트 II 팀 리그 시즌 2](../Page/핫식스_글로벌_스타크래프트_II_팀_리그_시즌_2.md "wikilink") 준우승 (vs [FXOpen](https://ko.wikipedia.org/wiki/FXOpen "wikilink") 0 : 5)
       - IPL Team Arena Challenge 3 3위

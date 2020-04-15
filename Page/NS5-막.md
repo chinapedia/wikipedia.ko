@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [NS5-](https://ko.wikipedia.org/wiki/NS5-).
+> This article is converted from Wikipedia: [NS5-막](https://ko.wikipedia.org/wiki/NS5-막).
 
 
 [끈 이론과](../Page/끈_이론.md "wikilink") [초중력](../Page/초중력.md "wikilink")에서, **NS5-막**(NS5-幕, )은 10차원 시공간 속의, [캘브-라몽 장에](../Page/캘브-라몽_장.md "wikilink") 대한 자하(磁荷)를 갖는 5+1차원 막이다. 즉, 캘브-라몽 장의 [전하](../Page/전하.md "wikilink")(電荷)를 갖는 기본 끈의 자기 이중성 개체다.

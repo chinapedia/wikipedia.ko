@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [LG  EX](https://ko.wikipedia.org/wiki/LG__EX).
+> This article is converted from Wikipedia: [LG 옵티머스 EX](https://ko.wikipedia.org/wiki/LG_옵티머스_EX).
 
 
 **LG 옵티머스 EX**()는 [LG전자](../Page/LG전자.md "wikilink")가 [2011년](../Page/2011년.md "wikilink") [9월 26일에](../Page/9월_26일.md "wikilink") 출시한 [스마트폰](../Page/스마트폰.md "wikilink")이다.\[1\] [엔비디아](../Page/엔비디아.md "wikilink")의 Tegra2 1.2 GHz [CPU를](../Page/중앙_처리_장치.md "wikilink") 장착하여 비슷한 시기에 출시한 [LG 옵티머스 L9와](https://ko.wikipedia.org/wiki/싸이언_옵티머스_Q2 "wikilink") 거의 동일한 하드웨어 사양을 가지고 있으나 옵티머스 Q2와는 달리 [QWERTY 자판을](../Page/QWERTY_자판.md "wikilink") 탑재하지 않았다. 옵티머스 EX는 안드로이드 애플리케이션뿐만 아니라 [SK텔레콤](../Page/SK텔레콤.md "wikilink") 오픈마켓 [T 스토어](../Page/T_스토어.md "wikilink"), LG 애플리케이션 등을 다운로드할 수 있다.

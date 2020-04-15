@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
+> This article is converted from Wikipedia: [덤버턴 FC](https://ko.wikipedia.org/wiki/덤버턴_FC).
 
 
 **덤버턴 FC**(Dumbarton Football Club, Dumbarton F.C.)는 [1872년](../Page/1872년.md "wikilink")에 창단된 [스코틀랜드](../Page/스코틀랜드.md "wikilink") [덤버턴](https://ko.wikipedia.org/wiki/덤버턴 "wikilink")의 축구 클럽으로, 현재 [스코틀랜드 풋볼 리그 2부에서](https://ko.wikipedia.org/wiki/스코틀랜드_풋볼_리그_2부 "wikilink") 활동하고 있다.

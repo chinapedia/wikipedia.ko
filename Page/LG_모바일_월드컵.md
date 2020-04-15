@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [LG  ](https://ko.wikipedia.org/wiki/LG__).
+> This article is converted from Wikipedia: [LG 모바일 월드컵](https://ko.wikipedia.org/wiki/LG_모바일_월드컵).
 
 
 **LG 모바일 월드컵**()은 2010년 1월 14일과 2011년 1월 26일에 [LG전자](../Page/LG전자.md "wikilink")에 의해 개최된 문자 빨리 보내기 대회이다. [뉴욕](../Page/뉴욕.md "wikilink")에 위치한 [고섬 홀에서](https://ko.wikipedia.org/wiki/고섬_홀 "wikilink") 행사가 진행되었다.\[1\]\[2\]

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  THE MOVIE](https://ko.wikipedia.org/wiki/__THE_MOVIE).
+> This article is converted from Wikipedia: [춤추는 대수사선 THE MOVIE](https://ko.wikipedia.org/wiki/춤추는_대수사선_THE_MOVIE).
 
 
 《**춤추는 대수사선 THE MOVIE**》( THE MOVIE)는 [1997년](../Page/1997년.md "wikilink") 1월 \~ 3월에 방영되었던 [드라마](https://ko.wikipedia.org/wiki/드라마 "wikilink") 동명의 드라마의 극장판으로 제작되었다.

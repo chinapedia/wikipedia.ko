@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
+> This article is converted from Wikipedia: [만토바 FC](https://ko.wikipedia.org/wiki/만토바_FC).
 
 
 **AC 만토바**(Associazione Calcio Mantova)는 [1911년](../Page/1911년.md "wikilink")에 창단된 [이탈리아](../Page/이탈리아.md "wikilink")의 축구 클럽으로, [롬바르디아주](../Page/롬바르디아주.md "wikilink") [만토바](../Page/만토바.md "wikilink")를 연고지로 한다. 현재 [레가 프로 세콘다 디비시오네](https://ko.wikipedia.org/wiki/레가_프로_세콘다_디비시오네 "wikilink") A그룹에서 활약하고 있다.

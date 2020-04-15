@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  HD](https://ko.wikipedia.org/wiki/__HD).
+> This article is converted from Wikipedia: [모토로라 레이저 HD](https://ko.wikipedia.org/wiki/모토로라_레이저_HD).
 
 
 **모토로라 레이저 HD**()는 [모토로라 모빌리티](../Page/모토로라_모빌리티.md "wikilink") 에서 제작한 안드로이드폰이다. 출시당시 안드로이드 4.0.4 아이스크림 샌드위치를 탑재하였다. AP는 기존 OMAP 4430 Dual Core Processor 1.0Ghz을 각 코어당 0.4Ghz가량 오버클럭 시켜 탑재하였다.

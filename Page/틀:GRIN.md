@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:GRIN](https://ko.wikipedia.org/wiki/:GRIN).
+> This article is converted from Wikipedia: [틀:GRIN](https://ko.wikipedia.org/wiki/틀:GRIN).
 
 
 }}}}\>(}}}}}}+3)|}}}}}}}}}|}}}}}} }} | 작품 = Germplasm Resources Information Network (GRIN) | url = }|<https://npgsweb.ars-grin.gov/gringlobal/taxonomydetail.aspx>?}}}}}}}}}}|{{\#if: |<https://npgsweb.ars-grin.gov/gringlobal/taxonomydetail.aspx>?}}|{{\#ifexpr: \>0|<https://npgsweb.ars-grin.gov/gringlobal/taxonomydetail.aspx>?}}}}}|{{\#ifexpr: }}}}}}}}}}}|{{\#property:P1421|}}}} | 출판사 = Agricultural Research Service(ARS), United States Department of Agriculture(USDA) | 확인일자 = }}}}}}}}}}}} }}<noinclude>

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [A](https://ko.wikipedia.org/wiki/A).
+> This article is converted from Wikipedia: [A채널](https://ko.wikipedia.org/wiki/A채널).
 
 
 《**A채널**》()은 [구로다bb](https://ko.wikipedia.org/wiki/구로다bb "wikilink") 원작의 [일본](../Page/일본.md "wikilink") [4컷 만화](https://ko.wikipedia.org/wiki/4컷_만화 "wikilink") 작품으로, [호분샤](../Page/호분샤.md "wikilink") 월간 잡지 《[만화 타임 키라라 Carat](https://ko.wikipedia.org/wiki/만화_타임_키라라_Carat "wikilink")》에서 [2008년](../Page/2008년.md "wikilink") 12월호부터 연재되고 있다.
@@ -100,7 +100,7 @@
 <!-- end list -->
 
   -
-    아무튼 체형에서도 체격에서도 이래저래 본인 입장에서 볼 때 [열등감](https://ko.wikipedia.org/wiki/열등감 "wikilink")이 될 만한 속성을 꽤 많이 갖고 있는 캐릭터로 몸매가 드러나는 게 부끄럽다는 이유로 손까지 덮이는 큰 스웨터를 상시 착용중이며 무더운 여름철에도 그 스웨터를 벗지 않으려 할 정도다. 여름이 되면 '죽고 싶다' 는 소리까지 할 정도로 자신의 체형과 체격에 대해 심한 열등감을 가지고 있는 듯 가슴만 [빈유](https://ko.wikipedia.org/wiki/빈유 "wikilink")인게 아니라 팔다리를 포함한 신체 전반이 심할 정도로 깡말라 있고 키마저도 141cm 밖에 안 되다 보니 본인 입장에서는 [콤플렉스 (심리학)을](../Page/콤플렉스_\(심리학\).md "wikilink") 가질 만도 하지만...
+    아무튼 체형에서도 체격에서도 이래저래 본인 입장에서 볼 때 [열등감](../Page/열등감.md "wikilink")이 될 만한 속성을 꽤 많이 갖고 있는 캐릭터로 몸매가 드러나는 게 부끄럽다는 이유로 손까지 덮이는 큰 스웨터를 상시 착용중이며 무더운 여름철에도 그 스웨터를 벗지 않으려 할 정도다. 여름이 되면 '죽고 싶다' 는 소리까지 할 정도로 자신의 체형과 체격에 대해 심한 열등감을 가지고 있는 듯 가슴만 [빈유](https://ko.wikipedia.org/wiki/빈유 "wikilink")인게 아니라 팔다리를 포함한 신체 전반이 심할 정도로 깡말라 있고 키마저도 141cm 밖에 안 되다 보니 본인 입장에서는 [콤플렉스 (심리학)을](../Page/콤플렉스_\(심리학\).md "wikilink") 가질 만도 하지만...
 
 <!-- end list -->
 
@@ -179,7 +179,7 @@
 <!-- end list -->
 
   -
-    [키](../Page/키.md "wikilink")도 크고 [나이스바디](https://ko.wikipedia.org/wiki/나이스바디 "wikilink")라는 점과 본인 스스로는 자신의 키와 가슴에 대해서 [열등감](https://ko.wikipedia.org/wiki/열등감 "wikilink")을 느끼고 있다는 점 때문에 이치이 토오루에게 시기받고 있다. 유코가 놀려먹기 좋은 성격이기도 하다보니 토오루랑 얽히면 항상 당하는 역할이 된다. 사실 토오루 말고 다른 사람이랑 있어도...
+    [키](../Page/키.md "wikilink")도 크고 [나이스바디](https://ko.wikipedia.org/wiki/나이스바디 "wikilink")라는 점과 본인 스스로는 자신의 키와 가슴에 대해서 [열등감](../Page/열등감.md "wikilink")을 느끼고 있다는 점 때문에 이치이 토오루에게 시기받고 있다. 유코가 놀려먹기 좋은 성격이기도 하다보니 토오루랑 얽히면 항상 당하는 역할이 된다. 사실 토오루 말고 다른 사람이랑 있어도...
 
 다들 하는 말이 미오의 몸에 츠무기가 들어있다고...
 

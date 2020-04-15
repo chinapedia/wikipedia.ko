@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [AS  149-0 SOE ](https://ko.wikipedia.org/wiki/AS__149-0_SOE_).
+> This article is converted from Wikipedia: [AS 아데마 149-0 SOE 안타나나리보](https://ko.wikipedia.org/wiki/AS_아데마_149-0_SOE_안타나나리보).
 
 
 **AS 아데마 149-0 SOE 안타나나리보**는 [마다가스카르](../Page/마다가스카르.md "wikilink")의 프로 축구 리그인 [THB 챔피언스리그에서](https://ko.wikipedia.org/wiki/THB_챔피언스리그 "wikilink") 발생한 사건으로, [2002년](../Page/2002년.md "wikilink") 시즌 결선 리그에 나온 기록이다. 이 기록은 축구 경기 최다 득점 및 최다 점수차 승리 기록으로 [기네스 북에](../Page/기네스_세계_기록.md "wikilink") 올랐다.

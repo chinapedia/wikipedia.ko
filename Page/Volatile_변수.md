@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Volatile ](https://ko.wikipedia.org/wiki/Volatile_).
+> This article is converted from Wikipedia: [Volatile 변수](https://ko.wikipedia.org/wiki/Volatile_변수).
 
 
 C/C++ 프로그래밍 언어에서 이 키워드는 최적화 등 컴파일러의 재량을 제한하는 역할을 한다. 개발자가 설정한 개념을 구현하기 위해 코딩된 프로그램을 온전히 컴파일되도록 한다. 주로 최적화와 관련하여 **volatile**가 선언된 변수는 최적화에서 제외된다. OS와 연관되어 장치제어를 위한 주소체계에서 지정한 주소를 직접 액세스하는 방식을 지정할 수도 있다. 리눅스 커널 등의 OS에서 메모리 주소는 MMU와 연관 된 주소체계로 논리주소와 물리주소 간의 변환이 이루어진다. 경우에 따라 이런 변환을 제거하는 역할을 한다. 또한 원거리 메모리 점프 기계어 코드 등의 제한을 푼다.

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Alright!!](https://ko.wikipedia.org/wiki/Alright!!).
 
 
-《**Alright\!\!** ()》는 [슈퍼플라이](https://ko.wikipedia.org/wiki/슈퍼플라이 "wikilink")가 [2009년](../Page/2009년.md "wikilink") [6월 3일에](../Page/6월_3일.md "wikilink") 발매한 배신 싱글이다.
+《**Alright\!\!**()》는 [슈퍼플라이](https://ko.wikipedia.org/wiki/슈퍼플라이 "wikilink")가 [2009년](../Page/2009년.md "wikilink") [6월 3일에](../Page/6월_3일.md "wikilink") 발매한 배신 싱글이다.
 
 ## 곡 목록
 

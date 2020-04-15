@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Innocence \( \)](https://ko.wikipedia.org/wiki/Innocence_\(_\)).
+> This article is converted from Wikipedia: [Innocence \(김완선의 음반\)](https://ko.wikipedia.org/wiki/Innocence_\(김완선의_음반\)).
 
 
 《**Innocence**》는 [김완선](../Page/김완선.md "wikilink")의 정규 7집 음반이다.

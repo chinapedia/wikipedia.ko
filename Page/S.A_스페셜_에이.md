@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [S.A  ](https://ko.wikipedia.org/wiki/S.A__).
+> This article is converted from Wikipedia: [S.A 스페셜 에이](https://ko.wikipedia.org/wiki/S.A_스페셜_에이).
 
 
 **S.A 스페셜 에이**(S·A スペシャル·エー)는 하쿠센사의 잡지 격주간 만화지 '[하나토유메](https://ko.wikipedia.org/wiki/하나토유메 "wikilink")'에서 '[미나미 마키가](https://ko.wikipedia.org/wiki/미나미_마키 "wikilink") 연재한 만화 'S·A' 및 그 만화를 바탕으로 [2008년](../Page/2008년.md "wikilink")에 제작된 텔레비전 애니메이션이다. 이야기는 머리도 좋고 집안도 좋은 엘리트들만이 모이는 학교인 '사립 하쿠센관 학원 고교'에 다니는 여고생 '하나조노 히카리'를 중심으로, S·A반(극 중 학교는 성적 순으로 A\~F반까지 반을 나누며, A반 중 1학년부터 3학년을 통틀어 가장 뛰어난 학생들만 모인 반이 S·A반이다.) 친구들이 벌이는 유쾌한 학원생활 및 사랑을 담고 있다. 원작인 만화는 이후 하쿠센사에서 따로 단행본이 발간되어 [2004년](../Page/2004년.md "wikilink")부터 [2009년](../Page/2009년.md "wikilink")까지 총 17권으로 완결이 났고, 국내에서도 [서울문화사](../Page/서울문화사.md "wikilink")에서 정식 번역판이 발매되어 일본판과 같은 해인 [2009년](../Page/2009년.md "wikilink")에 완결이 났다. 애니메이션은 원작의 내용을 가지고서, [2008년](../Page/2008년.md "wikilink") [4월](../Page/4월.md "wikilink")부터 [9월](../Page/9월.md "wikilink")까지 방영되었고 총 24화로 완결되었다. 한국에선, [애니맥스](../Page/애니맥스.md "wikilink")를 통해 [2008년](../Page/2008년.md "wikilink") [10월](../Page/10월.md "wikilink") 첫 방영되었다.

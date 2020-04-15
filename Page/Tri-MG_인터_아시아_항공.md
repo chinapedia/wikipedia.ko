@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Tri-MG   ](https://ko.wikipedia.org/wiki/Tri-MG___).
+> This article is converted from Wikipedia: [Tri-MG 인터 아시아 항공](https://ko.wikipedia.org/wiki/Tri-MG_인터_아시아_항공).
 
 
 **Tri-MG 인터 아시아 항공**()은 [인도네시아](../Page/인도네시아.md "wikilink")의 화물 항공사로 총 3개 노선을 취항하고 있다. 본사는 [인도네시아](../Page/인도네시아.md "wikilink") [자카르타](../Page/자카르타.md "wikilink")에 위치해 있으며 [1973년](../Page/1973년.md "wikilink")에 설립했다. 또한 사용하고 있는 [허브 공항으로](../Page/허브_공항.md "wikilink") [수카르노 하타 국제공항이](https://ko.wikipedia.org/wiki/수카르노_하타_국제공항 "wikilink") 있다.

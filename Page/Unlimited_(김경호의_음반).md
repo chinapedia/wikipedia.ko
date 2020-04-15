@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Unlimited \( \)](https://ko.wikipedia.org/wiki/Unlimited_\(_\)).
+> This article is converted from Wikipedia: [Unlimited \(김경호의 음반\)](https://ko.wikipedia.org/wiki/Unlimited_\(김경호의_음반\)).
 
 
 《**Unlimited**》는 [김경호의](../Page/김경호_\(가수\).md "wikilink") 여덟 번째 정규 음반이다. 타이틀은 사랑 그 시린 아픔으로이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ AIF](https://ko.wikipedia.org/wiki/_AIF).
+> This article is converted from Wikipedia: [미엘뷔 AIF](https://ko.wikipedia.org/wiki/미엘뷔_AIF).
 
 
 **미엘뷔 AIF**(Mjällby AIF)는 [1939년](../Page/1939년.md "wikilink")에 창단된 [스웨덴](../Page/스웨덴.md "wikilink") [미엘뷔](https://ko.wikipedia.org/wiki/미엘뷔 "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다.

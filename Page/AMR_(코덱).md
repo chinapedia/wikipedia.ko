@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [AMR \(\)](https://ko.wikipedia.org/wiki/AMR_\(\)).
+> This article is converted from Wikipedia: [AMR \(코덱\)](https://ko.wikipedia.org/wiki/AMR_\(코덱\)).
 
 
 **적응 다중 속도**() 또는 **AMR(AMR, AMR-NB)**은 [음성 부호화에](https://ko.wikipedia.org/wiki/음성_부호화 "wikilink") 최적화된 [특허](../Page/특허.md "wikilink")가 있는 [오디오 데이터 압축이다](../Page/데이터_압축.md "wikilink"). AMR 음성 코덱은 7.4 kbps에서 시작하는 시외전화 품질 음성으로 4.75에서 12.2 kbps의 가변 비트레이트의 [협대역](https://ko.wikipedia.org/wiki/협대역 "wikilink") 신호(200-3400 Hz)를 인코딩 하는, 다중 속도 협대역 음성 코덱으로 이루어진 음성 코덱이다.\[1\]

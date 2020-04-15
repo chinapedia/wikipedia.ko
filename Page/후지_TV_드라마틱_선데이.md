@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ TV  ](https://ko.wikipedia.org/wiki/_TV__).
+> This article is converted from Wikipedia: [후지 TV 드라마틱 선데이](https://ko.wikipedia.org/wiki/후지_TV_드라마틱_선데이).
 
 
 《**드라마틱 선데이**》(, )는 [후지 TV에서](../Page/후지_TV.md "wikilink") [2010년](../Page/2010년.md "wikilink") [10월 17일부터](../Page/10월_17일.md "wikilink") [2013년](../Page/2013년.md "wikilink") [3월 24일까지](../Page/3월_24일.md "wikilink") 매주 일요일 21:00 - 21:54([JST](../Page/일본_표준시.md "wikilink"))에 방송되고 있는 텔레비전 드라마 방송 범위의 명칭이다.

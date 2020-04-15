@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ VX](https://ko.wikipedia.org/wiki/_VX).
+> This article is converted from Wikipedia: [궁수자리 VX](https://ko.wikipedia.org/wiki/궁수자리_VX).
 
 
 **궁수자리 VX(VX Sagittarii)**는 궁수자리μ별과 [삼렬성운](https://ko.wikipedia.org/wiki/삼렬성운 "wikilink")(Trifid Nebula) 사이에 위치한 별로 태양계로부터 약 5,150광년(1,570파섹)만큼 떨어져 있다. 태양 반지름의 약 832\~1,520배로 현 시점에서 발견된 항성들 중 물리적 부피만 따질 경우 9번째로 큰 별에 해당한다.

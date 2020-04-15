@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [W ](https://ko.wikipedia.org/wiki/W_).
+> This article is converted from Wikipedia: [W의 비극](https://ko.wikipedia.org/wiki/W의_비극).
 
 
 《**W의 비극**》 ()은 [1982년](../Page/1982년.md "wikilink")에 출판된 [일본](../Page/일본.md "wikilink") [소설가](https://ko.wikipedia.org/wiki/소설가 "wikilink") 나쓰키 시즈코의 [추리 소설이자](https://ko.wikipedia.org/wiki/추리_소설 "wikilink") 이를 원작으로 한 [영화](../Page/영화.md "wikilink"), [텔레비전 드라마이다](../Page/텔레비전_드라마.md "wikilink").

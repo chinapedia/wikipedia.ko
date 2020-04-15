@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ATC  H03](https://ko.wikipedia.org/wiki/ATC__H03).
+> This article is converted from Wikipedia: [ATC 코드 H03](https://ko.wikipedia.org/wiki/ATC_코드_H03).
 
 
 **ATC 코드 H03**은 [ATC 코드의](https://ko.wikipedia.org/wiki/ATC_코드 "wikilink") 갑상선 치료제로 작용하는 약물을 정리한 코드이다. \[1\] **ATC 코드** H 성호르몬 및 인슐린을 제외한 전신성 호르몬제제의 하위그룹을 이룬다.

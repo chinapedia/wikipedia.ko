@@ -1,9 +1,10 @@
-> This article is converted from Wikipedia: [Satio ](https://ko.wikipedia.org/wiki/Satio_).
+> This article is converted from Wikipedia: [Satio 음악방송](https://ko.wikipedia.org/wiki/Satio_음악방송).
 
 
 **쎄티오 음악방송**(Satio)은 한국디지털오디오방송이 운영하는 고음질 음악방송으로, [2002년](../Page/2002년.md "wikilink")에 개국하였다.
 
-## 채널 목록
+
+\== 채널 목록 ==
 
 <table>
 <thead>

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [WWE  ](https://ko.wikipedia.org/wiki/WWE__).
+> This article is converted from Wikipedia: [WWE 저지먼트 데이](https://ko.wikipedia.org/wiki/WWE_저지먼트_데이).
 
 
 **저지먼트 데이**(Judgment Day)는 [WWE](https://ko.wikipedia.org/wiki/WWE "wikilink")가 주관하였고, 2009년 끝으로 폐지된 페이퍼뷰이다.

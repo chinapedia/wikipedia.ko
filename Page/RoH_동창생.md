@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [RoH ](https://ko.wikipedia.org/wiki/RoH_).
+> This article is converted from Wikipedia: [RoH 동창생](https://ko.wikipedia.org/wiki/RoH_동창생).
 
 
 **RoH 동창생(RoH Alumni)**는 예전에 [RoH에서](https://ko.wikipedia.org/wiki/링_오브_오너 "wikilink") 활약했던 레슬러들이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [PJ ](https://ko.wikipedia.org/wiki/PJ_).
+> This article is converted from Wikipedia: [PJ 하비](https://ko.wikipedia.org/wiki/PJ_하비).
 
 
 **PJ 하비**(, [MBE](../Page/대영_제국_훈장.md "wikilink"), [1969년](../Page/1969년.md "wikilink") [10월 9일](../Page/10월_9일.md "wikilink") \~ )는 [영국](../Page/영국.md "wikilink")의 [록](../Page/록_음악.md "wikilink") [싱어송라이터](https://ko.wikipedia.org/wiki/싱어송라이터 "wikilink")이다. 보컬리스트와 기타 연주자로서 가장 잘 알려져 있으며 피아노와 오르간, 베이스 기타, 색소폰, 하모니카 등 여러 악기도 능숙하게 다룬다.

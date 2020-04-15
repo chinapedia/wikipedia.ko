@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [IBM ](https://ko.wikipedia.org/wiki/IBM_).
+> This article is converted from Wikipedia: [IBM 로드러너](https://ko.wikipedia.org/wiki/IBM_로드러너).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Roadrunner_supercomputer_HiRes.jpg "wikilink") **IBM 로드러너**(IBM Roadrunner)는 미국 [뉴멕시코주](../Page/뉴멕시코주.md "wikilink") [로스앨러모스 국립 연구소의](../Page/로스앨러모스_국립_연구소.md "wikilink") [IBM](../Page/IBM.md "wikilink")사가 만든 [슈퍼컴퓨터](../Page/슈퍼컴퓨터.md "wikilink")이다. 로드러너는 133,000,000 [달러로](../Page/미국_달러.md "wikilink"), 현재 세계에서 10번 째로 빠른 컴퓨터이며 최고 1.7 [페타플롭스의](../Page/플롭스.md "wikilink") 성능을 제공한다. 2008년 5월 25일 당시 1,026 페타플롭스의 성능을 제공하면서\[1\]\[2\]\[3\] 세계 최초의 [TOP500](../Page/TOP500.md "wikilink") [LINPACK](../Page/LINPACK.md "wikilink")에 등재된 1.0 페타플롭스 시스템이 되었다. 수많은 기발한 디자인 특징을 갖춘데다가 상용 제품 부품으로 만든 일종의 슈퍼 컴퓨터이다.

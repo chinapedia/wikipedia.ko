@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [! SATOYAMA ](https://ko.wikipedia.org/wiki/!_SATOYAMA_).
+> This article is converted from Wikipedia: [하로! SATOYAMA 라이프](https://ko.wikipedia.org/wiki/하로!_SATOYAMA_라이프).
 
 
 《**하로\! SATOYAMA 라이프**》()은 [2012년](../Page/2012년.md "wikilink") [6월 7일부터](../Page/6월_7일.md "wikilink") [2013년](../Page/2013년.md "wikilink") [12월 26일까지](../Page/12월_26일.md "wikilink") [TV 도쿄](../Page/TV_도쿄.md "wikilink") 계열에서 목요일 심야에 방송되고 있는 [헬로\! 프로젝트](../Page/헬로!_프로젝트.md "wikilink") 멤버 출연의 TV 프로그램이다.

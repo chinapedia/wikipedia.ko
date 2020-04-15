@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [REAL \( EP\)](https://ko.wikipedia.org/wiki/REAL_\(_EP\)).
+> This article is converted from Wikipedia: [REAL \(아이유의 EP\)](https://ko.wikipedia.org/wiki/REAL_\(아이유의_EP\)).
 
 
 《**REAL**》(리얼)은 [대한민국](../Page/대한민국.md "wikilink")의 여자 팝 가수 [아이유](https://ko.wikipedia.org/wiki/아이유 "wikilink")의 세 번째 [미니앨범으로](../Page/익스텐디드_플레이.md "wikilink") [로엔 엔터테인먼트에](https://ko.wikipedia.org/wiki/로엔_엔터테인먼트 "wikilink") 의해 [2010년](../Page/2010년.md "wikilink") [12월 9일에](../Page/12월_9일.md "wikilink") 발매되었다.\[1\] 총 7트랙으로 구성되어 있으며 타이틀곡은 〈**[좋은 날](../Page/좋은_날.md "wikilink")**〉이다. *Real*은 가온차트 앨범판매량 기준으로 2011년 9월까지 72,378장이 판매되었고, 한터 판매량 기준으로는 2011년 11월까지 한정판을 포함하여 36,000여장이 판매되었다.\[2\]\[3\]

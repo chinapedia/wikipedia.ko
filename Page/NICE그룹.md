@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [NICE](https://ko.wikipedia.org/wiki/NICE).
+> This article is converted from Wikipedia: [NICE그룹](https://ko.wikipedia.org/wiki/NICE그룹).
 
 
 **나이스그룹**(NICE Group, **N**ational **I**nformation & **C**redit **E**valuation -)은 대한민국의 금융인프라 기업집단이다. 1986년 설립된 [한국신용정보](https://ko.wikipedia.org/wiki/한국신용정보 "wikilink")를 모태로 하며, 총 26개 계열사를 갖고 있다. 지주회사 체제로 개편하면서 나이스란 이름을 내세우고 있다. 지주회사는 나이스홀딩스이며, 회장은 김광수이다.

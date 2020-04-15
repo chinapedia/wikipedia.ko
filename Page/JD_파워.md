@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [JD ](https://ko.wikipedia.org/wiki/JD_).
+> This article is converted from Wikipedia: [JD 파워](https://ko.wikipedia.org/wiki/JD_파워).
 
 
 **JD 파워**(JD Power and Associates)는 1968년에 제임스 데이비드 파워 3세(James David Power III)에 의해 설립된 세계적인 마케팅 정보 서비스 회사다. 본사는 [캘리포니아주](../Page/캘리포니아주.md "wikilink")에 있으며 2005년 [맥그로-힐](https://ko.wikipedia.org/wiki/맥그로-힐 "wikilink")파이넨셜로 인수됐며 중국계 투자회사인 XIO Group으로 2016년 매각되었다.

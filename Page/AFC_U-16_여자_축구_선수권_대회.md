@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [AFC U-16    ](https://ko.wikipedia.org/wiki/AFC_U-16____).
+> This article is converted from Wikipedia: [AFC U-16 여자 축구 선수권 대회](https://ko.wikipedia.org/wiki/AFC_U-16_여자_축구_선수권_대회).
 
 
 **AFC U-16 여자 축구 선수권 대회**(AFC U-16 Women's Championship)는 [아시아 축구 연맹에서](../Page/아시아_축구_연맹.md "wikilink") 주관하는 대회로, AFC 소속 국가대표팀을 대표하는 16세 이하의 여자 축구 선수들이 참가한다. 이 대회는 [2007년](../Page/2007년.md "wikilink") 제2회 대회부터 [FIFA U-17 여자 월드컵의](../Page/FIFA_U-17_여자_월드컵.md "wikilink") 아시아 지역 예선을 겸한다.

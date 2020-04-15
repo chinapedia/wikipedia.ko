@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [: JK  ](https://ko.wikipedia.org/wiki/:_JK__).
+> This article is converted from Wikipedia: [틀:베식타시 JK 선수 명단](https://ko.wikipedia.org/wiki/틀:베식타시_JK_선수_명단).
 
 
 <onlyinclude></onlyinclude>

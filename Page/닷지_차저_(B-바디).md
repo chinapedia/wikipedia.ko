@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  \(B-\)](https://ko.wikipedia.org/wiki/__\(B-\)).
+> This article is converted from Wikipedia: [닷지 차저 \(B-바디\)](https://ko.wikipedia.org/wiki/닷지_차저_\(B-바디\)).
 
 
 **닷지 차저 B-바디**(Dodge Charger B-body)는 [닷지 차저의](../Page/닷지_차저.md "wikilink") 1세대로서, [크라이슬러](../Page/크라이슬러.md "wikilink")가 1960\~70년대 생산했던 [머슬카](../Page/머슬카.md "wikilink")이다.
@@ -26,7 +26,7 @@ B 플랫폼 모델 중 [1968년](../Page/1968년.md "wikilink")부터 [1970년](
 
 <references/>
 
-[분류:닷지의 차종](https://ko.wikipedia.org/wiki/분류:닷지의_차종 "wikilink") [분류:후륜구동](https://ko.wikipedia.org/wiki/분류:후륜구동 "wikilink") [분류:쿠페](https://ko.wikipedia.org/wiki/분류:쿠페 "wikilink") [분류:머슬카](https://ko.wikipedia.org/wiki/분류:머슬카 "wikilink") [분류:중형 승용차](https://ko.wikipedia.org/wiki/분류:중형_승용차 "wikilink") [분류:1960년대 자동차](https://ko.wikipedia.org/wiki/분류:1960년대_자동차 "wikilink") [분류:1970년대 자동차](https://ko.wikipedia.org/wiki/분류:1970년대_자동차 "wikilink")
+[분류:닷지의 차종](https://ko.wikipedia.org/wiki/분류:닷지의_차종 "wikilink") [분류:후륜구동](https://ko.wikipedia.org/wiki/분류:후륜구동 "wikilink") [분류:쿠페](https://ko.wikipedia.org/wiki/분류:쿠페 "wikilink") [분류:머슬카](https://ko.wikipedia.org/wiki/분류:머슬카 "wikilink") [분류:대형 승용차](https://ko.wikipedia.org/wiki/분류:대형_승용차 "wikilink") [분류:1960년대 자동차](https://ko.wikipedia.org/wiki/분류:1960년대_자동차 "wikilink") [분류:1970년대 자동차](https://ko.wikipedia.org/wiki/분류:1970년대_자동차 "wikilink")
 
 1.  이후 차저 데이토나는 [데이토나라는](https://ko.wikipedia.org/wiki/닷지_데이토나 "wikilink") 별도의 차종으로 출시되었다.
 2.  안정준 기자, "[사라지는 '미국의 힘', 추억의 머슬카 9선](http://www.mt.co.kr/view/mtview.php?type=1&no=2009060711160046752&outlink=1)", 《머니투데이》, 2009년 6월 7일 작성

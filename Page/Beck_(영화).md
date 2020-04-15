@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Beck \(\)](https://ko.wikipedia.org/wiki/Beck_\(\)).
+> This article is converted from Wikipedia: [Beck \(영화\)](https://ko.wikipedia.org/wiki/Beck_\(영화\)).
 
 
 《**Beck**》()는 [2010년](../Page/2010년.md "wikilink")의 [일본](../Page/일본.md "wikilink") [영화](../Page/영화.md "wikilink")이다.

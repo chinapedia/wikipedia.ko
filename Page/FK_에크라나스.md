@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FK ](https://ko.wikipedia.org/wiki/FK_).
+> This article is converted from Wikipedia: [FK 에크라나스](https://ko.wikipedia.org/wiki/FK_에크라나스).
 
 
 **FK 에크라나스**(Futbolo Klubas Ekranas, FK Ekranas)는 [1964년](../Page/1964년.md "wikilink")에 창단된 [리투아니아](../Page/리투아니아.md "wikilink") [파네베지스](https://ko.wikipedia.org/wiki/파네베지스 "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽으로, 현재 [A 리가에서](../Page/A_리가.md "wikilink") 활동하고 있다.

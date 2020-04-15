@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [H ](https://ko.wikipedia.org/wiki/H_).
+> This article is converted from Wikipedia: [H급 전함](https://ko.wikipedia.org/wiki/H급_전함).
 
 
 **H급 전함**은 [비스마르크급 전함에](../Page/비스마르크급_전함.md "wikilink") 뒤를 이어서 [제2차 세계대전](https://ko.wikipedia.org/wiki/제2차_세계대전 "wikilink") 중 독일 해군이 계획한 [초노급 전함의](https://ko.wikipedia.org/wiki/초노급_전함 "wikilink") 함급이었다. [Z계획](https://ko.wikipedia.org/wiki/Z계획 "wikilink")의 일환이며 5만톤 이상인 대형전함 건조계획이었다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [L-](https://ko.wikipedia.org/wiki/L-).
+> This article is converted from Wikipedia: [L-도파](https://ko.wikipedia.org/wiki/L-도파).
 
 
 **L-도파** (레보도파 또는 L-3,4-dihydroxyphenylalanine)는 [카테콜아민](../Page/카테콜아민.md "wikilink")이 [생합성](https://ko.wikipedia.org/wiki/생합성 "wikilink")되는 과정에서 생겨나는 [전구물질](https://ko.wikipedia.org/wiki/전구물질 "wikilink")이다. [아미노산](../Page/아미노산.md "wikilink")인 [티로신](https://ko.wikipedia.org/wiki/티로신 "wikilink")이 [티로신 수산화효소](https://ko.wikipedia.org/wiki/티로신_수산화효소 "wikilink")(tyrosine hydroxylase)에 의해 [카테콜](https://ko.wikipedia.org/wiki/카테콜 "wikilink") 계열의 L-도파로 변환된다. 이 과정은 카테콜아민 생합성 전 과정의 속도를 결정짓는다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:NBA G ](https://ko.wikipedia.org/wiki/:NBA_G_).
+> This article is converted from Wikipedia: [틀:NBA G 리그](https://ko.wikipedia.org/wiki/틀:NBA_G_리그).
 
 
 <onlyinclude></onlyinclude>

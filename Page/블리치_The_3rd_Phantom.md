@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ The 3rd Phantom](https://ko.wikipedia.org/wiki/_The_3rd_Phantom).
+> This article is converted from Wikipedia: [블리치 The 3rd Phantom](https://ko.wikipedia.org/wiki/블리치_The_3rd_Phantom).
 
 
 **블리치 The 3rd Phantom**(ブリーチ　ザ・サード・ファントム, Bleach: The 3rd Phantom)은 [블리치](../Page/블리치.md "wikilink")의 게임으로, [닌텐도 DS용으로](../Page/닌텐도_DS.md "wikilink") 개발되었다. [2008년](../Page/2008년.md "wikilink") [6월 26일](../Page/6월_26일.md "wikilink") 일본에서 공개되었다. [세가](https://ko.wikipedia.org/wiki/세가 "wikilink")가 개발하였다.

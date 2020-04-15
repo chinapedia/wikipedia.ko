@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FC ](https://ko.wikipedia.org/wiki/FC_).
+> This article is converted from Wikipedia: [FC 아우크스부르크](https://ko.wikipedia.org/wiki/FC_아우크스부르크).
 
 
 **FC 아우크스부르크**(FC Augsburg)는 [독일](../Page/독일.md "wikilink") [바이에른주](../Page/바이에른주.md "wikilink") [아우크스부르크](https://ko.wikipedia.org/wiki/아우크스부르크 "wikilink")를 연고로 하는 [축구](../Page/축구.md "wikilink") 클럽으로, 현재 [1 분데스리가에서](https://ko.wikipedia.org/wiki/푸스발-분데스리가 "wikilink") 활동하고 있다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
+> This article is converted from Wikipedia: [빈즈엉 FC](https://ko.wikipedia.org/wiki/빈즈엉_FC).
 
 
 **빈즈엉 FC**()는 [베트남](../Page/베트남.md "wikilink") [빈즈엉 성](https://ko.wikipedia.org/wiki/빈즈엉_성 "wikilink") 투더우못 시의 [축구](../Page/축구.md "wikilink") 클럽으로 현재는 [V리그 1에](../Page/V리그_1.md "wikilink") 참가하고 있다. 스폰서인 [베카멕스가](https://ko.wikipedia.org/wiki/베카멕스_IDC "wikilink") 팀명 앞에 붙어 **베카멕스 빈즈엉 FC**라고도 불린다.

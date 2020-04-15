@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [BAE  II](https://ko.wikipedia.org/wiki/BAE__II).
+> This article is converted from Wikipedia: [BAE 해리어 II](https://ko.wikipedia.org/wiki/BAE_해리어_II).
 
 
 **BAE 해리어 II (GR5, GR7, GR9)**는 영국 공군과 해군이 사용중인 2세대 해리어 전투기다. 영국 해군은 2006년 부터 사용을 하고 있다. 영국의 [호커 시들리 해리어를](../Page/호커_시들리_해리어.md "wikilink") 미국이 개량하여 [AV-8B 해리어 II를](../Page/AV-8B_해리어_II.md "wikilink") 개발했고, 이를 다시 개량한 것이 BAE 해리어 II 전투기이다. 수직으로 이륙할 때의 최대이륙중량은 8,595 kg 이며, 단거리 이륙시 최대이륙중량은 14,061 kg 이다. 영국 해군의 [BAE 시 해리어는](https://ko.wikipedia.org/wiki/BAE_시_해리어 "wikilink") 2006년에 퇴역했다. 해리어 GR9는 최소한 F-35가 등장할 2018년 까지는 사용될 것이다. 더 오래 사용될 수도 있다.

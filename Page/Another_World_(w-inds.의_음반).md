@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Another World \(w-inds. \)](https://ko.wikipedia.org/wiki/Another_World_\(w-inds._\)).
+> This article is converted from Wikipedia: [Another World \(w-inds.의 음반\)](https://ko.wikipedia.org/wiki/Another_World_\(w-inds.의_음반\)).
 
 
 | 이 앨범에 수록된 싱글                                                                  |

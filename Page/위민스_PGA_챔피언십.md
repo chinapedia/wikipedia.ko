@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ PGA ](https://ko.wikipedia.org/wiki/_PGA_).
+> This article is converted from Wikipedia: [위민스 PGA 챔피언십](https://ko.wikipedia.org/wiki/위민스_PGA_챔피언십).
 
 
 **위민스 PGA 챔피언십**(, 구 **LPGA 챔피언십**)은 매년 개최되는 여자 골프 [메이저 대회의](https://ko.wikipedia.org/wiki/여자_메이저_골프_대회 "wikilink") 하나이다. 1955년 처음 시작되었다.

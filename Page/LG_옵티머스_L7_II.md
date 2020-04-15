@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [LG  L7 II](https://ko.wikipedia.org/wiki/LG__L7_II).
+> This article is converted from Wikipedia: [LG 옵티머스 L7 II](https://ko.wikipedia.org/wiki/LG_옵티머스_L7_II).
 
 
 **LG 옵티머스 L7 II**()는 [LG전자](../Page/LG전자.md "wikilink")에서 [2013년](../Page/2013년.md "wikilink") [2월 16일에](../Page/2월_16일.md "wikilink") 출시한 보급형 [안드로이드](../Page/안드로이드_\(운영_체제\).md "wikilink") [스마트폰](../Page/스마트폰.md "wikilink")이다.\[1\]

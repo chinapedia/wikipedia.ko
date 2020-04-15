@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TV](https://ko.wikipedia.org/wiki/TV).
+> This article is converted from Wikipedia: [환경TV](https://ko.wikipedia.org/wiki/환경TV).
 
 
 **환경TV**(環境TV)는 [대한민국](../Page/대한민국.md "wikilink")의 [방송채널 사용사업자인](https://ko.wikipedia.org/wiki/대한민국_방송법 "wikilink") 그린포스트코리아가 운영하는 [텔레비전](../Page/텔레비전.md "wikilink") [유료방송](../Page/대한민국의_케이블TV_방송.md "wikilink") [채널이다](https://ko.wikipedia.org/wiki/채널_\(통신\) "wikilink").

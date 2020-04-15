@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [English Business](https://ko.wikipedia.org/wiki/English_Business).
+> This article is converted from Wikipedia: [경화여자English Business고등학교](https://ko.wikipedia.org/wiki/경화여자English_Business고등학교).
 
 
 **경화여자English Business고등학교**(京花女子잉글리쉬비즈니스高等學校)는 [경기도](https://ko.wikipedia.org/wiki/경기도 "wikilink") [광주시](../Page/광주시_\(경기도\).md "wikilink") 송정동에 있는 사립 [고등학교](https://ko.wikipedia.org/wiki/고등학교 "wikilink")이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [C. J. ](https://ko.wikipedia.org/wiki/C._J._).
+> This article is converted from Wikipedia: [C. J. 윌슨](https://ko.wikipedia.org/wiki/C._J._윌슨).
 
 
 **크리스토퍼 존 윌슨**(Christopher John Wilson, [1980년](../Page/1980년.md "wikilink") [1월 18일](../Page/1월_18일.md "wikilink") \~ )는 미국 프로 야구 [로스앤젤레스 에인절스 오브 애너하임의](https://ko.wikipedia.org/wiki/로스앤젤레스_에인절스_오브_애너하임 "wikilink") 선수이다. [2001년](../Page/2001년.md "wikilink") 5라운드 141픽으로 [텍사스 레인저스에](../Page/텍사스_레인저스.md "wikilink") 입단했다. [2005년](../Page/2005년.md "wikilink") [메이저 리그](../Page/메이저_리그_베이스볼.md "wikilink") 진입 후 불펜과 마무리 투수로 활약하다, [2010년](../Page/2010년.md "wikilink") 선발 투수로 전향해 14승 7패 방어율 3.15 뛰어난 성적으로 성공적인 한 해를 보냈다.

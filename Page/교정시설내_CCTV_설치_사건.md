@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ CCTV  ](https://ko.wikipedia.org/wiki/_CCTV__).
+> This article is converted from Wikipedia: [교정시설내 CCTV 설치 사건](https://ko.wikipedia.org/wiki/교정시설내_CCTV_설치_사건).
 
 
 **교정시설내 CCTV 설치사건**(계구사용행위 등 위헌확인 2008.5.29. 2005헌마137·247·376, 2007헌마187·1274(병합) \[각하·기각\])은 [대한민국](../Page/대한민국.md "wikilink")의 [헌법재판소](https://ko.wikipedia.org/wiki/헌법재판소 "wikilink") [판례](../Page/판례.md "wikilink")이다.

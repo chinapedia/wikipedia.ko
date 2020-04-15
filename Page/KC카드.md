@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KC](https://ko.wikipedia.org/wiki/KC).
+> This article is converted from Wikipedia: [KC카드](https://ko.wikipedia.org/wiki/KC카드).
 
 
 **KC카드**()는 [일본](../Page/일본.md "wikilink") [후쿠오카현](../Page/후쿠오카현.md "wikilink")을 기반으로 하는 [신용카드](../Page/신용카드.md "wikilink") 회사이다. 2012년 현재 대표는 지바 노부이쿠() 회장이다.

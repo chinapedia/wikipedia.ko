@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [USS  \(NCC-1941\)](https://ko.wikipedia.org/wiki/USS__\(NCC-1941\)).
+> This article is converted from Wikipedia: [USS 보즈먼 \(NCC-1941\)](https://ko.wikipedia.org/wiki/USS_보즈먼_\(NCC-1941\)).
 
 
 **USS 보즈먼**()은 [스타 트렉에](../Page/스타_트렉.md "wikilink") 나오는 엔터프라이즈-D와 충돌하는 [시간-인과율의 고리에](https://ko.wikipedia.org/wiki/시간-인과율의_고리 "wikilink") 80년 동안 갇혀 있었던 소유즈급 함선이다. 당시 계시계는 2278년을 가리키고 있었으며 엔터프라이즈-D는 17.4일 정도 벗어나 있었다. 최고 속도는 워프 8.8이다. '보즈먼'이라는 이름은, 2063년 4월 5일 [벌컨을](../Page/벌컨_\(스타_트렉\).md "wikilink") 조우한 곳이 미국 몬태나 주의 보즈먼 시였고, 따라서 보즈먼 시의 이름을 따 왔다.

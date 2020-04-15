@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:MBN  MVP](https://ko.wikipedia.org/wiki/:MBN__MVP).
+> This article is converted from Wikipedia: [틀:MBN 여성스포츠대상 MVP](https://ko.wikipedia.org/wiki/틀:MBN_여성스포츠대상_MVP).
 
 
 <onlyinclude></onlyinclude>

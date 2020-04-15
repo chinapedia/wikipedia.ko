@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [GE](https://ko.wikipedia.org/wiki/GE).
+> This article is converted from Wikipedia: [GE캐피탈](https://ko.wikipedia.org/wiki/GE캐피탈).
 
 
-**GE캐피탈** ()은 [제너럴 일렉트릭의](../Page/제너럴_일렉트릭.md "wikilink") 주요 5개 사업부문 중 금융업무를 담당하는 사업부이다.\[1\] GE캐피탈은 [GE캐피탈 항공사업](https://ko.wikipedia.org/wiki/GE캐피탈_항공사업 "wikilink"), [GE캐피탈 부동산](https://ko.wikipedia.org/wiki/GE캐피탈_부동산 "wikilink"), [GE캐피탈 에너지 금융사업](https://ko.wikipedia.org/wiki/GE캐피탈_에너지_금융사업 "wikilink"), [GE 머니](https://ko.wikipedia.org/wiki/GE_머니 "wikilink") 등의 부서들로 구성되어 있다.
+**GE캐피탈**()은 [제너럴 일렉트릭의](../Page/제너럴_일렉트릭.md "wikilink") 주요 5개 사업부문 중 금융업무를 담당하는 사업부이다.\[1\] GE캐피탈은 [GE캐피탈 항공사업](https://ko.wikipedia.org/wiki/GE캐피탈_항공사업 "wikilink"), [GE캐피탈 부동산](https://ko.wikipedia.org/wiki/GE캐피탈_부동산 "wikilink"), [GE캐피탈 에너지 금융사업](https://ko.wikipedia.org/wiki/GE캐피탈_에너지_금융사업 "wikilink"), [GE 머니](https://ko.wikipedia.org/wiki/GE_머니 "wikilink") 등의 부서들로 구성되어 있다.
 
 GE캐피탈은 기업 대출 및 리스에 초점을 맞추며, 그 외에도 의료 서비스, 미디어 및 대중 매체, 통신, 흥행산업, 부동산, 항공, 소비자를 위한 금융 서비스를 제공한다. 다른 전통적인 금융회사들이 대출 및 리스를 발급함으로써 이익을 창출하는 것과는 달리 GE캐피탈은 다른 금융회사들의 대출 및 리스를 인수하여 제3자에 되팔음으로써 이익을 창출한다. 70% 이상의 대출은 1억달러 이하의 규모이며, 주로 중소기업 대출로 이루어져 있다. 그 이외에도 약 55개 국가에서 소비자 대출을 운영하고 있다.
 

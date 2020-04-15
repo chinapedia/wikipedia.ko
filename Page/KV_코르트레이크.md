@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KV ](https://ko.wikipedia.org/wiki/KV_).
+> This article is converted from Wikipedia: [KV 코르트레이크](https://ko.wikipedia.org/wiki/KV_코르트레이크).
 
 
 **KV 코르트레이크**(Koninklijke Voetbalclub Kortrijk, K.V. Kortrijk)는 [벨기에](../Page/벨기에.md "wikilink") [코르트레이크](../Page/코르트레이크.md "wikilink")의 축구 클럽으로, 현재 [주필러리그](https://ko.wikipedia.org/wiki/주필러리그 "wikilink")에서 활동하고 있다.

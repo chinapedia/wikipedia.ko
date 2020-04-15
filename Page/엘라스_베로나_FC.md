@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  FC](https://ko.wikipedia.org/wiki/__FC).
+> This article is converted from Wikipedia: [엘라스 베로나 FC](https://ko.wikipedia.org/wiki/엘라스_베로나_FC).
 
 
 **엘라스 베로나 풋볼 클럽**()는 [이탈리아](../Page/이탈리아.md "wikilink") [베네토주](../Page/베네토주.md "wikilink") [베로나](../Page/베로나.md "wikilink")를 연고지로 하는 [이탈리아](../Page/이탈리아.md "wikilink")의 축구 클럽이다.

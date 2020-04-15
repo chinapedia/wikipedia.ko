@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [UEFA  ](https://ko.wikipedia.org/wiki/UEFA__).
+> This article is converted from Wikipedia: [UEFA 올해의 팀](https://ko.wikipedia.org/wiki/UEFA_올해의_팀).
 
 
 **UEFA 올해의 팀**(UEFA Team of the Year)은 [2001년](../Page/2001년.md "wikilink")부터 매년 [유럽 축구 연맹](../Page/유럽_축구_연맹.md "wikilink")(UEFA) 공식 홈페이지에서 실시하는 인터넷 투표를 통해 수여하는 축구상이다. 유럽 클럽과 국가대표팀에서 뛰고 있는 선수 11명으로 구성된다. 2001년부터 2011년까지는 선수 11명과 감독을 인터넷 투표로 결정했지만 2012년부터는 선수 11명만을 인터넷 투표로 결정하고 있다.

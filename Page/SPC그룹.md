@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SPC](https://ko.wikipedia.org/wiki/SPC).
+> This article is converted from Wikipedia: [SPC그룹](https://ko.wikipedia.org/wiki/SPC그룹).
 
 
 **SPC그룹**은 SPC주식회사를 모체로 [(주)파리크라상을](../Page/파리크라상.md "wikilink") 주력업체로 하는 [대한민국](../Page/대한민국.md "wikilink")의 [식품](https://ko.wikipedia.org/wiki/식품 "wikilink") 전문 기업집단이다. [1945년](../Page/1945년.md "wikilink")에 허창성이 그룹 모태인 [상미당](../Page/SPC삼립.md "wikilink")(현 [SPC삼립](../Page/SPC삼립.md "wikilink"))을 설립하였으며, [{{\#TIME:Y}}년](https://ko.wikipedia.org/wiki/{{#TIME:Y}}년 "wikilink") 현재 대표는 허영인(허창성의 둘째 아들)으로서 허진수와 허희수 두아들을 두고 있는데 첫째아들 허진수는 SPC부사장을 맡고 있고 둘째아들 허희수는 마케팅부사장을 역임하고 쉐이크쉑을 국내에 도입했다.

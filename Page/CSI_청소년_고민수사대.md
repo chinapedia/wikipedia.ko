@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [CSI  ](https://ko.wikipedia.org/wiki/CSI__).
+> This article is converted from Wikipedia: [CSI 청소년 고민수사대](https://ko.wikipedia.org/wiki/CSI_청소년_고민수사대).
 
 
 《**CSI 청소년 고민수사대**》은 [Mnet](https://ko.wikipedia.org/wiki/Mnet "wikilink")에서 매주 월요일 밤 10시 \~ 11시에 방송되는 청소년 대상의 버라이어티 프로그램이다.

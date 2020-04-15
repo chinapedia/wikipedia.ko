@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [2014 FIFA     D](https://ko.wikipedia.org/wiki/2014_FIFA_____D).
+> This article is converted from Wikipedia: [2014년 FIFA 월드컵 유럽 지역 예선 D조](https://ko.wikipedia.org/wiki/2014년_FIFA_월드컵_유럽_지역_예선_D조).
 
 
 **[2014년 FIFA 월드컵 유럽 지역 예선](../Page/2014년_FIFA_월드컵_유럽_지역_예선.md "wikilink") D조**는 [네덜란드를](../Page/네덜란드_축구_국가대표팀.md "wikilink") 비롯하여 [터키](../Page/터키_축구_국가대표팀.md "wikilink"), [헝가리](../Page/헝가리_축구_국가대표팀.md "wikilink"), [루마니아](../Page/루마니아_축구_국가대표팀.md "wikilink"), [에스토니아](../Page/에스토니아_축구_국가대표팀.md "wikilink"), [안도라로](../Page/안도라_축구_국가대표팀.md "wikilink") 구성되어 있다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ DES](https://ko.wikipedia.org/wiki/_DES).
+> This article is converted from Wikipedia: [트리플 DES](https://ko.wikipedia.org/wiki/트리플_DES).
 
 
 **트리플 DES**(Triple DES)는 각 데이터 블록에 [데이터 암호화 알고리즘](../Page/데이터_암호화_표준.md "wikilink")(DES)을 세번 적용한 트리플 데이터 암호화 알고리즘(TDEA 또는 트리플 DEA) 블록 암호에 대한 일반적인 이름이다.

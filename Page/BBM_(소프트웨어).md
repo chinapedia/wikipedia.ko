@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [BBM \(\)](https://ko.wikipedia.org/wiki/BBM_\(\)).
+> This article is converted from Wikipedia: [BBM \(소프트웨어\)](https://ko.wikipedia.org/wiki/BBM_\(소프트웨어\)).
 
 
 **BBM**(이전 명칭: **블랙베리 메신저**/BlackBerry Messenger)은 [블랙베리](../Page/블랙베리_\(스마트폰\).md "wikilink") 운영 체제에 기반을 둔 [인스턴트 메신저이다](../Page/인스턴트_메신저.md "wikilink").

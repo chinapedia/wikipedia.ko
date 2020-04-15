@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Myself \( \)](https://ko.wikipedia.org/wiki/Myself_\(_\)).
+> This article is converted from Wikipedia: [Myself \(이현석의 음반\)](https://ko.wikipedia.org/wiki/Myself_\(이현석의_음반\)).
 
 
 《**Myself**》는 [이현석](https://ko.wikipedia.org/wiki/이현석 "wikilink")의 5집 정규 음반이다. 이현석이 모든 곡을 작사/작곡/편곡 및 연주, 프로듀싱을 하였다.

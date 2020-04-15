@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SK](https://ko.wikipedia.org/wiki/SK).
+> This article is converted from Wikipedia: [SK뷰](https://ko.wikipedia.org/wiki/SK뷰).
 
 
 **SK뷰**(SK VIEW)는 [대한민국](../Page/대한민국.md "wikilink") [SK건설](../Page/SK건설.md "wikilink")이 짓는 복합 아파트 브랜드 이름이다.

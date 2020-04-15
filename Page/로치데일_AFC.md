@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ AFC](https://ko.wikipedia.org/wiki/_AFC).
+> This article is converted from Wikipedia: [로치데일 AFC](https://ko.wikipedia.org/wiki/로치데일_AFC).
 
 
 **로치데일 AFC**(Rochdale Association Football Club)는 [잉글랜드](../Page/잉글랜드.md "wikilink") [그레이터맨체스터주](../Page/그레이터맨체스터주.md "wikilink") [로치데일](https://ko.wikipedia.org/wiki/로치데일 "wikilink")을 연고로 하는 축구 클럽이다.

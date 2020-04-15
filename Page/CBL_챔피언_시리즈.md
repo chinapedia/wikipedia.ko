@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [CBL  ](https://ko.wikipedia.org/wiki/CBL__).
+> This article is converted from Wikipedia: [CBL 챔피언 시리즈](https://ko.wikipedia.org/wiki/CBL_챔피언_시리즈).
 
 
 **CBL 챔피언 시리즈**(CBL Champion Series)는 매년 [중국야구리그](../Page/중국야구리그.md "wikilink")의 최종 우승 구단을 결정하기 위해 동일한 두 팀이 치르는 일련의 야구 경기이다. 즉, 최종 우승을 하려면 CBL 챔피언 시리즈에 진출을 일단 해야 하며, 이렇게 진출한 두 구단이 서로 상대하여 최종 승부를 겨루는 체계이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FC   ](https://ko.wikipedia.org/wiki/FC___).
+> This article is converted from Wikipedia: [FC 카를 차이스 예나](https://ko.wikipedia.org/wiki/FC_카를_차이스_예나).
 
 
 **FC 카를 차이스 예나**(FC Carl Zeiss Jena)는 [1903년](../Page/1903년.md "wikilink")에 창단된 [독일](../Page/독일.md "wikilink") [튀링겐주](../Page/튀링겐주.md "wikilink")의 도시 [예나](https://ko.wikipedia.org/wiki/예나 "wikilink")의 [축구](../Page/축구.md "wikilink") 팀으로, 현재 [3 리가에서](https://ko.wikipedia.org/wiki/3_리가 "wikilink") 활동하고 있다. 광학렌즈 기업인 [칼자이스](../Page/칼자이스.md "wikilink") 공장 축구팀으로 시작하였다.

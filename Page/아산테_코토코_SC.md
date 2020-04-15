@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  SC](https://ko.wikipedia.org/wiki/__SC).
+> This article is converted from Wikipedia: [아산테 코토코 SC](https://ko.wikipedia.org/wiki/아산테_코토코_SC).
 
 
 **쿠마시 아산테 코토코 SC**() 또는 **아산테 코토코 SC**()는 [가나](../Page/가나.md "wikilink") [쿠마시](../Page/쿠마시.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽 팀으로, 줄여서 **아산테 코토코**()라고 부르기도 한다. 아산테 코토코는 가나에서 성공한 축구 클럽으로 뽑히고 있으며 가나에서 규모가 가장 큰 축구 클럽 가운데 하나이기도 하다.

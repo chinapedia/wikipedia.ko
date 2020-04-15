@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  Q](https://ko.wikipedia.org/wiki/__Q).
+> This article is converted from Wikipedia: [싸이언 옵티머스 Q](https://ko.wikipedia.org/wiki/싸이언_옵티머스_Q).
 
 
 **싸이언 옵티머스 Q**()는 [LG전자](../Page/LG전자.md "wikilink")가 [2010년](../Page/2010년.md "wikilink") [6월 5일에](../Page/6월_5일.md "wikilink") 출시한 [스마트폰](../Page/스마트폰.md "wikilink")이다.\[1\] 한국형 [애플리케이션](https://ko.wikipedia.org/wiki/애플리케이션 "wikilink")을 100여종 탑재하고, [퀄컴](../Page/퀄컴.md "wikilink")의 [스냅드래곤](../Page/스냅드래곤.md "wikilink") QSD8650 1 GHz [CPU를](../Page/중앙_처리_장치.md "wikilink") 장착하였으며, [QWERTY 자판](../Page/QWERTY_자판.md "wikilink"), 4방향 네비게이션키, [트랙볼](../Page/트랙볼.md "wikilink")을 탑재하였다. 옵티머스 Q는 안드로이드 애플리케이션뿐만 아니라 OZ 애플리케이션, LG 애플리케이션 등을 다운로드할 수 있다. [대한민국](../Page/대한민국.md "wikilink") [얼리 어답터들은](https://ko.wikipedia.org/wiki/얼리_어답터 "wikilink") 해당 제품을 **옵큐**라고 부르기도 한다.\[2\] 통신 방식으로 [EV-DO Rev. B도](https://ko.wikipedia.org/wiki/EV-DO_Rev._B "wikilink") 지원은 하나 [LG U+에서](https://ko.wikipedia.org/wiki/LG_U+ "wikilink") 공식적으로 지원해 주지 않는다. 테스트코드를 이용하여 편법으로 사용은 가능하나 이에 따른 문제점은 사용자 책임이므로 주의할 필요가 있다.

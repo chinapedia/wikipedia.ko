@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [OS](https://ko.wikipedia.org/wiki/OS).
+> This article is converted from Wikipedia: [웹OS](https://ko.wikipedia.org/wiki/웹OS).
 
 
 **웹OS**(webOS)는 [리눅스 커널에서](../Page/리눅스_커널.md "wikilink") 구동되는 [모바일 운영 체제이다](../Page/모바일_운영_체제.md "wikilink"). [팜 OS를](../Page/팜_OS.md "wikilink") 계승하는 소프트웨어로서 [팜](../Page/팜.md "wikilink")에서 개발을 하고 [휴렛 팩커드가](../Page/휴렛_팩커드.md "wikilink") 후에 인수했고, 또 그 뒤에 LG가 인수했다. 2009년 1월 [팜](../Page/팜.md "wikilink")이 발표를 하고, 완벽한 [웹 2.0](../Page/웹_2.0.md "wikilink") 기술, 개방성, [멀티태스킹](https://ko.wikipedia.org/wiki/멀티태스킹 "wikilink"), 쉬운 사용 등으로 주목을 받았다. webOS를 처음으로 이용한 기기는 2009년 6월 출시된 팜 Pre이다. 이 운영 체제는 모든 기기의 [소프트웨어 업데이트를](https://ko.wikipedia.org/wiki/소프트웨어_업데이트 "wikilink") [무선통신](https://ko.wikipedia.org/wiki/무선통신 "wikilink")을 이용해서 진행한 운영 체제들 중 하나이다. 1992년 부터 2002년까지 PDA 제조사인 팜이 팜 OS를 주도했다. 2002년, 완전한 자 회사인 [팜소스](https://ko.wikipedia.org/wiki/팜소스 "wikilink")를 만든다. 팜소스는 독립했으며, 2005년 일본 개발사인 [유한회사](../Page/유한회사.md "wikilink") 액세스에 인수되었다.

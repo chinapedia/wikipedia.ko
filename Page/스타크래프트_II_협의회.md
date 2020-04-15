@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ II ](https://ko.wikipedia.org/wiki/_II_).
+> This article is converted from Wikipedia: [스타크래프트 II 협의회](https://ko.wikipedia.org/wiki/스타크래프트_II_협의회).
 
 
 **스타크래프트 II 협의회**는 [스타크래프트 II 프로게임단과](https://ko.wikipedia.org/wiki/스타크래프트_II_프로게임단 "wikilink") [스타크래프트 II](../Page/스타크래프트_II:_자유의_날개.md "wikilink") [프로게이머](../Page/프로게이머.md "wikilink")들의 권익 보호 및 스타크래프트 II 게임단의 기업 - 리그 스폰서 영업과 게이머 게임단과 게이머간의 분쟁 중재, 스타크래프트 II 리그 활성화등을 위해 7개의 스타크래프트 II 게임단과 게이머, 리그 관계자등이 연합하여 만들어진 단체이다. 그러나 여러 가지 문제점이 드러나면서 팬들의 질타를 받게 되고, 결국 2011년 9월 24일 부로 해체를 선언했다.

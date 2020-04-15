@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [B ](https://ko.wikipedia.org/wiki/B_).
+> This article is converted from Wikipedia: [ÍB 베스트만나에이야르](https://ko.wikipedia.org/wiki/ÍB_베스트만나에이야르).
 
 
 **ÍB 베스트만나에이야르**(, 약칭 **ÍBV**)는 [1924년](../Page/1924년.md "wikilink")에 창단된 [아이슬란드](../Page/아이슬란드.md "wikilink") [베스트만나에이야르 제도의](https://ko.wikipedia.org/wiki/베스트만나에이야르_제도 "wikilink") [축구](../Page/축구.md "wikilink") 클럽이다.

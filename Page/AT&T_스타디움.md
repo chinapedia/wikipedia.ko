@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [AT\&T ](https://ko.wikipedia.org/wiki/AT\&T_).
+> This article is converted from Wikipedia: [AT\&T 스타디움](https://ko.wikipedia.org/wiki/AT\&T_스타디움).
 
 
 **AT\&T 스타디움**(AT\&T Stadium)는 [텍사스주](../Page/텍사스주.md "wikilink") [알링턴에](../Page/알링턴_\(텍사스주\).md "wikilink") 위치한 경기장이다. 8만 명을 수용할 수 있으며 [미국](../Page/미국.md "wikilink")에서 세 번째로 큰 [미식축구](../Page/미식축구.md "wikilink") 경기장이다. 최대 수용량은 11만 명이다. 세계에서 제일 큰 돔구장이다.

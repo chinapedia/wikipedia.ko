@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Airbag \( \)](https://ko.wikipedia.org/wiki/Airbag_\(_\)).
+> This article is converted from Wikipedia: [Airbag \(타블로의 노래\)](https://ko.wikipedia.org/wiki/Airbag_\(타블로의_노래\)).
 
 
 〈**Airbag**〉은 대한민국의 가수 [타블로](../Page/타블로.md "wikilink")의 노래이다. 2011년 10월 14일 [KMP홀딩스](https://ko.wikipedia.org/wiki/KMP홀딩스 "wikilink")를 통해 발매되었다. 이 노래는 타블로가 [YG 엔터테인먼트로](../Page/YG_엔터테인먼트.md "wikilink") 이적한 이후 처음으로 낸 음반이자 싱글로, 그의 첫 번째 정규 음반 《[열꽃](../Page/열꽃_\(음반\).md "wikilink")》에 수록되었다. 타블로가 직접 작곡, 작사, 편곡을 했다. 어쿠스틱 사운드가 가미된 랩 장르의 이 곡은 2010년 타블로가 [학력 위조 논란으로](../Page/타블로의_스탠퍼드_대학교_학력_위조_논란.md "wikilink") 인해 힘든 시간을 보내고 있을때 만들어두었던 습작을 완성시킨 곡 중 한 곡이며 [브라운 아이드 소울의](../Page/브라운_아이드_소울.md "wikilink") [나얼](../Page/나얼.md "wikilink")이 피처링으로 참여하였다.

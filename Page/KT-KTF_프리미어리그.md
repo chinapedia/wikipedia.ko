@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KT-KTF ](https://ko.wikipedia.org/wiki/KT-KTF_).
+> This article is converted from Wikipedia: [KT-KTF 프리미어리그](https://ko.wikipedia.org/wiki/KT-KTF_프리미어리그).
 
 
 **KT-KTF 프리미어리그**(KT-KTF Premier League)는 대한민국의 [스타크래프트](../Page/스타크래프트.md "wikilink")리그이며, 2003년과 2004년 2시즌이 열렸다. KT와 KTF가 후원을 하였으며, 당시 스타크래프트 사상 최고의 상금을 자랑하는 유명한 대회였다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ SPECIAL](https://ko.wikipedia.org/wiki/_SPECIAL).
+> This article is converted from Wikipedia: [매거진 SPECIAL](https://ko.wikipedia.org/wiki/매거진_SPECIAL).
 
 
 《**매거진 SPECIAL**》()은 [고단샤](../Page/고단샤.md "wikilink")가 발행하는 [소년 만화](../Page/소년_만화.md "wikilink") 잡지이다. [1983년](../Page/1983년.md "wikilink")에 《주간 소년 매거진》의 증간호로 창간해 현재까지 이어오고 있다. 통칭 ‘마가스삐’로 불리며 《주간 소년 매거진》의 증간호이므로 편집자 및 잡지코드 그리고 통권 번호도 공유하고 있는데 연재 작품으로는 단행본에 실리지 않은 것도 많다. 매월 20일 발행하고 있으며 정가는 2008년 6월호까지 460엔이었다가 7월호부터는 물가 상승의 영향으로 500엔으로 기록하였다. 이로 인해 7월호 목차 페이지에 편집자의 코멘트가 실리게 된다.

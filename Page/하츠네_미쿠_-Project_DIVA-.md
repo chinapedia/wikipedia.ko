@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  -Project DIVA-](https://ko.wikipedia.org/wiki/__-Project_DIVA-).
+> This article is converted from Wikipedia: [하츠네 미쿠 -Project DIVA-](https://ko.wikipedia.org/wiki/하츠네_미쿠_-Project_DIVA-).
 
 
 《**하츠네 미쿠 -Project DIVA-**》 (하츠네 미쿠 프로젝트 디바, )는, [세가](https://ko.wikipedia.org/wiki/세가 "wikilink")에서 발매된 [리듬 게임이다](../Page/리듬_게임.md "wikilink"). 음원 합성 소프트웨어인〈[하츠네 미쿠](../Page/하츠네_미쿠.md "wikilink")〉에 설정된 버추얼 아이돌 캐릭터를 사용한 캐릭터 게임이기도 하다. [2009년](../Page/2009년.md "wikilink") [7월 2일](../Page/7월_2일.md "wikilink")\[1\]에 [PlayStation Portable](../Page/플레이스테이션_포터블.md "wikilink") 전용 소프트웨어로 발매되었다. 또한, [아케이드 게임판](../Page/아케이드_게임.md "wikilink") 《**하츠네 미쿠 Project DIVA Arcade**》가 2010년 6월 23일부터 정식 기동되었다\[2\]. 또한, 2010년 7월 29일에는 속편인 《**하츠네 미쿠 -Project DIVA- 2nd**》가 발매되었다.

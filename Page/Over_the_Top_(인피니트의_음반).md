@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Over the Top \( \)](https://ko.wikipedia.org/wiki/Over_the_Top_\(_\)).
+> This article is converted from Wikipedia: [Over the Top \(인피니트의 음반\)](https://ko.wikipedia.org/wiki/Over_the_Top_\(인피니트의_음반\)).
 
 
 ***Over The Top***(오버 더 톱)은 대한민국의 음악 그룹 [인피니트](../Page/인피니트.md "wikilink")의 첫 번째 정규 음반이다. 2011년 7월 21일에 발매되었고, 하루만에 초동 2만장을 모두 판매하였다.\[1\]
@@ -48,7 +48,7 @@
 ## 외부 링크
 
   - [네이버 뮤직](http://music.naver.com/album/index.nhn?albumId=201534)
-  - [다음 뮤직](http://music.daum.net/album/album.do?albumId=570858)
+  - [다음 뮤직](https://web.archive.org/web/20110723090114/http://music.daum.net/album/album.do?albumId=570858)
   - [싸이월드 뮤직](http://music.cyworld.com/album.asp?aid=15105286)
 
 [분류:2011년 음반](https://ko.wikipedia.org/wiki/분류:2011년_음반 "wikilink") [분류:한국어 음반](https://ko.wikipedia.org/wiki/분류:한국어_음반 "wikilink") [분류:대한민국의 노래](https://ko.wikipedia.org/wiki/분류:대한민국의_노래 "wikilink") [분류:인피니트의 음반](https://ko.wikipedia.org/wiki/분류:인피니트의_음반 "wikilink")

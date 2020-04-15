@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [X ](https://ko.wikipedia.org/wiki/X_).
+> This article is converted from Wikipedia: [X의 비극](https://ko.wikipedia.org/wiki/X의_비극).
 
 
-《**X의 비극**》(*The Tragedy of X*)은 [미국](../Page/미국.md "wikilink")의 [추리 작가](https://ko.wikipedia.org/wiki/추리_소설 "wikilink") [엘러리 퀸의](../Page/엘러리_퀸.md "wikilink") 장편 [추리 소설이다](https://ko.wikipedia.org/wiki/추리_소설 "wikilink").
+《**X의 비극**》()은 [미국](../Page/미국.md "wikilink")의 [추리 작가](https://ko.wikipedia.org/wiki/추리_소설 "wikilink") [엘러리 퀸의](../Page/엘러리_퀸.md "wikilink") 장편 [추리 소설이다](https://ko.wikipedia.org/wiki/추리_소설 "wikilink").
 
 ## 개요
 

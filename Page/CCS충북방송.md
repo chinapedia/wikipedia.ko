@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [CCS](https://ko.wikipedia.org/wiki/CCS).
+> This article is converted from Wikipedia: [CCS충북방송](https://ko.wikipedia.org/wiki/CCS충북방송).
 
 
 **CCS 충북방송**(**C**hung buk **C**ableTV **S**ystem Co., Ltd.) (거래정지) 수신 지역은 [충청북도](https://ko.wikipedia.org/wiki/충청북도 "wikilink") 북부,중부4군 일원 ([충주시](https://ko.wikipedia.org/wiki/충주시 "wikilink"), [제천시](../Page/제천시.md "wikilink"), [음성군](../Page/음성군.md "wikilink"), [단양군](../Page/단양군.md "wikilink"), [괴산군](../Page/괴산군.md "wikilink"), [진천군](../Page/진천군.md "wikilink"), [증평군](../Page/증평군.md "wikilink"))을 대상으로 송출되고 있다.
@@ -25,6 +25,7 @@
 
   - [CJ헬로비전 영서방송](https://ko.wikipedia.org/wiki/영서방송 "wikilink")
   - [월드이벤트TV](https://ko.wikipedia.org/wiki/월드이벤트TV "wikilink")
+  - [레고](../Page/레고.md "wikilink")
 
 ## 외부 링크
 

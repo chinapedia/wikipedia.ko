@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [LDU ](https://ko.wikipedia.org/wiki/LDU_).
+> This article is converted from Wikipedia: [LDU 키토](https://ko.wikipedia.org/wiki/LDU_키토).
 
 
 **리가 데포르티바 우니베르시타리아 데 키토**()는 [에콰도르](../Page/에콰도르.md "wikilink")의 수도 [키토](../Page/키토.md "wikilink")를 연고지로 하는 [축구](../Page/축구.md "wikilink") 클럽이다. 간단히 줄여서 **LDU 키토**() 또는 **리가 데 키토**()라고도 부른다.

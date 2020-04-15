@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KOTOKO LIVE TOUR 2004 WINTER\~Happy White X\'mas\~](https://ko.wikipedia.org/wiki/KOTOKO_LIVE_TOUR_2004_WINTER\~Happy_White_X\'mas\~).
+> This article is converted from Wikipedia: [KOTOKO LIVE TOUR 2004 WINTER\~후유노시즈쿠가쓰레테키타키미가쇼쟈다★Happy White X\'mas★\~](https://ko.wikipedia.org/wiki/KOTOKO_LIVE_TOUR_2004_WINTER\~후유노시즈쿠가쓰레테키타키미가쇼쟈다★Happy_White_X\'mas★\~).
 
 
 《**KOTOKO LIVE TOUR 2004 WINTER \~넌 겨울의 물방울이 데려온 성자다 ★Happy White X'mas★\~**》란 [2005년](../Page/2005년.md "wikilink") [4월 1일에](../Page/4월_1일.md "wikilink") 발매된 [KOTOKO](../Page/KOTOKO.md "wikilink") 초기의 라이브 [DVD를](https://ko.wikipedia.org/wiki/DVD-Video "wikilink") 말하며 [제네온 엔터테인먼트를](https://ko.wikipedia.org/wiki/제네온_유니버설_엔터테인먼트_재팬 "wikilink") 통해 발매되었다.

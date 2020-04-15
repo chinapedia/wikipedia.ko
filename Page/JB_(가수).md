@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [JB \(\)](https://ko.wikipedia.org/wiki/JB_\(\)).
+> This article is converted from Wikipedia: [JB \(가수\)](https://ko.wikipedia.org/wiki/JB_\(가수\)).
 
 
-**JB**(, [1994년](../Page/1994년.md "wikilink") [1월 6일](../Page/1월_6일.md "wikilink") \~ )는 [대한민국](../Page/대한민국.md "wikilink")의 [보이 그룹](https://ko.wikipedia.org/wiki/보이_그룹 "wikilink") [GOT7](https://ko.wikipedia.org/wiki/GOT7 "wikilink")의 **리더**, **리드보컬, 메인댄서를** 맡고 있다. 현재는 [대한민국의 아이돌이다](../Page/대한민국의_아이돌.md "wikilink").
+**JB**(, [1994년](../Page/1994년.md "wikilink") [1월 6일](../Page/1월_6일.md "wikilink") \~ )는 [대한민국](../Page/대한민국.md "wikilink")의 [보이 그룹](https://ko.wikipedia.org/wiki/보이_그룹 "wikilink") [GOT7](https://ko.wikipedia.org/wiki/GOT7 "wikilink")의 리더, 메인보컬, 리드댄서를 맡고 있다. 현재는 [대한민국의 아이돌이다](../Page/대한민국의_아이돌.md "wikilink").
 
 ## 학력
 
@@ -35,6 +35,9 @@
   - 2019년 OFFSHORE *Scene \#1* 《SURFIN'》 (피처링) (with JOMALXNE)
   - 2019년 OFFSHORE *Scene \#1* 《LAZE》 (피처링) (with JOMALXNE)
   - 2019년 OFFSHORE *Scene \#1* 《PLAY》 (피처링) (with JOMALXNE, HNMR)
+  - 2020년 OFFSHORE *Scene \#2* 《Simple》 (피처링) (with Mirror Boy)
+  - 2020년 OFFSHORE *Scene \#2* 《연기》 (피처링) (with JOMALXNE)
+  - 2020년 OFFSHORE *Scene \#2* 《Take a Walk》 (피처링) (with iHawk, HNMR)
 
 ### 믹스테이프
 
@@ -429,6 +432,27 @@
 <td></td>
 </tr>
 <tr class="odd">
+<td><p><em>CALL MY NAME</em></p></td>
+<td><p>니가 부르는 나의 이름</p></td>
+<td></td>
+<td><p>박진영, 이스란, KASS</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>PRAY</p></td>
+<td></td>
+<td><p>iHwak, JOMALXNE</p></td>
+<td></td>
+<td><p>iHwak, JOMALXNE, Zayson, RoselnPeace</p></td>
+</tr>
+<tr class="odd">
+<td><p>THURSDAY</p></td>
+<td></td>
+<td><p>iHwak, Royal Dive</p></td>
+<td></td>
+<td><p>iHwak, Royal Dive</p></td>
+</tr>
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>

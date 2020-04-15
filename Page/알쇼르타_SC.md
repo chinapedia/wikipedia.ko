@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [ SC](https://ko.wikipedia.org/wiki/_SC).
+> This article is converted from Wikipedia: [알쇼르타 SC](https://ko.wikipedia.org/wiki/알쇼르타_SC).
 
 
-**알쇼르타 SC**()는 [바그다드](../Page/바그다드.md "wikilink")를 연고로 하는 [이라크](../Page/이라크.md "wikilink")의 [축구](../Page/축구.md "wikilink")팀이다. 이라크의 축구팀 가운데에서는 [알라시드와](https://ko.wikipedia.org/wiki/알카르크흐_SC "wikilink") 더불어 이라크 외부 대회를 우승한 팀으로, 국내에서 가장 성공한 팀이다.
+**알쇼르타 SC**()는 [바그다드](../Page/바그다드.md "wikilink")를 연고로 하는 [이라크](../Page/이라크.md "wikilink")의 [축구](../Page/축구.md "wikilink")팀이다. 이라크의 축구팀 가운데에서는 [알라시드와](../Page/알카르흐_SC.md "wikilink") 더불어 이라크 외부 대회를 우승한 팀으로, 국내에서 가장 성공한 팀이다.
 
 ## 역대 우승 기록
 

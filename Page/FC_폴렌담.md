@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FC ](https://ko.wikipedia.org/wiki/FC_).
+> This article is converted from Wikipedia: [FC 폴렌담](https://ko.wikipedia.org/wiki/FC_폴렌담).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Kras_stadion.JPG "wikilink") **FC 폴렌담**(Football Club Volendam, FC Volendam)은 [1977년](../Page/1977년.md "wikilink") [6월 1일에](../Page/6월_1일.md "wikilink") 창단된 [네덜란드](../Page/네덜란드.md "wikilink") [폴렌담](https://ko.wikipedia.org/wiki/폴렌담 "wikilink")의 축구 클럽으로, 현재 [에이르스터 디비시에서](../Page/에이르스터_디비시.md "wikilink") 활동하고 있다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:MtDNA](https://ko.wikipedia.org/wiki/:MtDNA).
+> This article is converted from Wikipedia: [틀:MtDNA](https://ko.wikipedia.org/wiki/틀:MtDNA).
 
 
 |                                                                                                    |

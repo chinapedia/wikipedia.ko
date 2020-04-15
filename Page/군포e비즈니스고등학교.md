@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [e](https://ko.wikipedia.org/wiki/e).
+> This article is converted from Wikipedia: [군포e비즈니스고등학교](https://ko.wikipedia.org/wiki/군포e비즈니스고등학교).
 
 
 **군포e비즈니스고등학교**(軍浦이비즈니스高等學校)는 [경기도](https://ko.wikipedia.org/wiki/경기도 "wikilink") [군포시](../Page/군포시.md "wikilink") 산본동에 있는 공립 고등학교이다.\[1\]

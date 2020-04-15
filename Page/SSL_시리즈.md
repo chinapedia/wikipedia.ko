@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SSL ](https://ko.wikipedia.org/wiki/SSL_).
+> This article is converted from Wikipedia: [SSL 시리즈](https://ko.wikipedia.org/wiki/SSL_시리즈).
 
 
 **SSL 시리즈**(**SSL Series**)는 [SPO TV 게임즈가](https://ko.wikipedia.org/wiki/SPO_TV_게임즈 "wikilink") 주최, 주관하는 [스타크래프트 브루드워](https://ko.wikipedia.org/wiki/스타크래프트_브루드워 "wikilink"), [스타크래프트 II](https://ko.wikipedia.org/wiki/스타크래프트_II "wikilink") 공식 대회이다.

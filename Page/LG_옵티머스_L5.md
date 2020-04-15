@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [LG  L5](https://ko.wikipedia.org/wiki/LG__L5).
+> This article is converted from Wikipedia: [LG 옵티머스 L5](https://ko.wikipedia.org/wiki/LG_옵티머스_L5).
 
 
 **LG 옵티머스 L5**(LG Optimus L5)는 [LG전자](../Page/LG전자.md "wikilink")에서 출시한 보급형 [안드로이드](../Page/안드로이드_\(운영_체제\).md "wikilink") [스마트폰](../Page/스마트폰.md "wikilink")이다.

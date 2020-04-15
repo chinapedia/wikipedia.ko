@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:YG ](https://ko.wikipedia.org/wiki/:YG_).
+> This article is converted from Wikipedia: [틀:YG 엔터테인먼트](https://ko.wikipedia.org/wiki/틀:YG_엔터테인먼트).
 
 
 <onlyinclude></onlyinclude>

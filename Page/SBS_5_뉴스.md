@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SBS 5 ](https://ko.wikipedia.org/wiki/SBS_5_).
+> This article is converted from Wikipedia: [SBS 5 뉴스](https://ko.wikipedia.org/wiki/SBS_5_뉴스).
 
 
 《**SBS 5 뉴스**》()는 [대한민국](../Page/대한민국.md "wikilink") [SBS](../Page/SBS.md "wikilink")에서 평일 아침 5시에 방송되었던 [SBS의 아침뉴스 프로그램이다](../Page/SBS의_뉴스_프로그램.md "wikilink"). 2012년 10월 29일부터 SBS의 2012년 가을 개편으로 SBS가 24시간 방송을 실시하면서 [굿모닝 510과](https://ko.wikipedia.org/wiki/굿모닝_510 "wikilink") 함께 매일 아침 5시에 신설되어 10분간 방송되었다. 그러다가 2013년 10월 14일부터 편성이 평일로 축소되었다. 이후 2016년 12월 30일에 SBS의 2017년 새해 개편으로 [굿모닝 510과](https://ko.wikipedia.org/wiki/굿모닝_510 "wikilink") 함께 종영되었다.

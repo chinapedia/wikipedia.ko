@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [USS  \(NCC-1701-E\)](https://ko.wikipedia.org/wiki/USS__\(NCC-1701-E\)).
+> This article is converted from Wikipedia: [USS 엔터프라이즈 \(NCC-1701-E\)](https://ko.wikipedia.org/wiki/USS_엔터프라이즈_\(NCC-1701-E\)).
 
 
 **USS 엔터프라이즈**()는 2372년 진수된 소버린급 계열 함선이다.

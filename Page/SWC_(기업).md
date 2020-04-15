@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SWC \(\)](https://ko.wikipedia.org/wiki/SWC_\(\)).
+> This article is converted from Wikipedia: [SWC \(기업\)](https://ko.wikipedia.org/wiki/SWC_\(기업\)).
 
 
 **SWC**(구.삼성시계, 三星時計, **SWC**, Samsung Watch Company)는 [대한민국](../Page/대한민국.md "wikilink")의 시계 제조 기업이다.\[1\] [1983년](../Page/1983년.md "wikilink")에 설립되었다.

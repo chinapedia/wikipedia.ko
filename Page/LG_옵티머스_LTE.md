@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [LG  LTE](https://ko.wikipedia.org/wiki/LG__LTE).
+> This article is converted from Wikipedia: [LG 옵티머스 LTE](https://ko.wikipedia.org/wiki/LG_옵티머스_LTE).
 
 
 **LG 옵티머스 LTE**()는 [LG전자](../Page/LG전자.md "wikilink")가 [2011년](../Page/2011년.md "wikilink") [10월 10일에](../Page/10월_10일.md "wikilink") 출시한 [안드로이드](../Page/안드로이드_\(운영_체제\).md "wikilink") [스마트폰](../Page/스마트폰.md "wikilink")이다.\[1\]

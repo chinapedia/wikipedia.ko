@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
+> This article is converted from Wikipedia: [카우덴비스 FC](https://ko.wikipedia.org/wiki/카우덴비스_FC).
 
 
 **카우덴비스 FC**(Cowdenbeath Football Club, Cowdenbeath F.C.)는 [1881년](../Page/1881년.md "wikilink")에 창단된 [스코틀랜드](../Page/스코틀랜드.md "wikilink") [카우덴비스](https://ko.wikipedia.org/wiki/카우덴비스 "wikilink")의 축구 클럽으로, 현재 [스코틀랜드 풋볼 리그 1부에서](https://ko.wikipedia.org/wiki/스코틀랜드_풋볼_리그_1부 "wikilink") 활동하고 있다.

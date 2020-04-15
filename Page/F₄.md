@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [F](https://ko.wikipedia.org/wiki/F).
+> This article is converted from Wikipedia: [F₄](https://ko.wikipedia.org/wiki/F₄).
 
 
 [리 군론에서](https://ko.wikipedia.org/wiki/리_군론 "wikilink"), **F<sub>4</sub>**는 복소수 예외적 [단순 리 군](https://ko.wikipedia.org/wiki/단순_리_군 "wikilink") 가운데 두 번째로 작은 것이다.\[1\]\[2\] 52차원이며, 네 개의 [단순근](https://ko.wikipedia.org/wiki/단순근 "wikilink")을 지닌다. 세 개의 실수 형식을 지닌다.

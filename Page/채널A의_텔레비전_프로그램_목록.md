@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [A   ](https://ko.wikipedia.org/wiki/A___).
+> This article is converted from Wikipedia: [채널A의 텔레비전 프로그램 목록](https://ko.wikipedia.org/wiki/채널A의_텔레비전_프로그램_목록).
 
 
 __NOTOC__ 다음은 **[채널A](../Page/채널A.md "wikilink") [텔레비전](../Page/텔레비전.md "wikilink") 프로그램**의 관련 작품을 통해 발표된 순서로 나열 및 정리한 것이다.

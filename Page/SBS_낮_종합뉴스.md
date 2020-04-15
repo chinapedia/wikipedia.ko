@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SBS  ](https://ko.wikipedia.org/wiki/SBS__).
+> This article is converted from Wikipedia: [SBS 낮 종합뉴스](https://ko.wikipedia.org/wiki/SBS_낮_종합뉴스).
 
 
 《**SBS 낮 종합뉴스**》는 [SBS 러브FM에서](../Page/SBS_러브FM.md "wikilink") 평일 오후 2시에 방송되는 [SBS 러브FM의](../Page/SBS_러브FM.md "wikilink") 낮 뉴스 프로그램이다.
@@ -17,38 +17,38 @@
 <tr class="odd">
 <td><p><a href="../Page/SBS_러브FM.md" title="wikilink">SBS 러브FM</a></p></td>
 <td><p><a href="../Page/1991년.md" title="wikilink">1991년</a> <a href="../Page/3월_20일.md" title="wikilink">3월 20일</a> ~ <a href="../Page/1991년.md" title="wikilink">1991년</a> <a href="../Page/6월_1일.md" title="wikilink">6월 1일</a></p></td>
-<td><p>월~토요일 낮 12:00 ~ 낮 12:30 (30분)</p></td>
+<td><p>월요일 ~ 토요일 낮 12시 ~ 12시 30분 (30분)</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/1991년.md" title="wikilink">1991년</a> <a href="../Page/6월_3일.md" title="wikilink">6월 3일</a> ~ <a href="../Page/1997년.md" title="wikilink">1997년</a> <a href="../Page/6월_29일.md" title="wikilink">6월 29일</a></p></td>
-<td><p>월~토요일 낮 12:00 ~ 낮 12:20 (20분),<br />
-일요일 낮 12:00 ~ 낮 12:10 (10분)</p></td>
+<td><p>월요일 ~ 토요일 낮 12시 ~ 12시 20분 (20분)<br />
+일요일 낮 12시 ~ 12시 10분 (10분)</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/1997년.md" title="wikilink">1997년</a> <a href="../Page/6월_30일.md" title="wikilink">6월 30일</a> ~ <a href="../Page/1998년.md" title="wikilink">1998년</a> <a href="../Page/12월_31일.md" title="wikilink">12월 31일</a></p></td>
-<td><p>월~토요일 오전 11:30 ~ 낮 12:00 (30분)</p></td>
+<td><p>월요일 ~ 토요일 오전 11시 30분 ~ 낮 12시 (30분)</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/1999년.md" title="wikilink">1999년</a> <a href="../Page/1월_1일.md" title="wikilink">1월 1일</a> ~ <a href="../Page/1999년.md" title="wikilink">1999년</a> <a href="../Page/9월_10일.md" title="wikilink">9월 10일</a></p></td>
-<td><p>월~토요일 오전 11:40 ~ 낮 12:00 (20분)</p></td>
+<td><p>월요일 ~ 토요일 오전 11시 40분 ~ 낮 12시 (20분)</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/1999년.md" title="wikilink">1999년</a> <a href="../Page/9월_11일.md" title="wikilink">9월 11일</a> ~ <a href="../Page/2003년.md" title="wikilink">2003년</a> <a href="../Page/4월_5일.md" title="wikilink">4월 5일</a></p></td>
-<td><p>월~토요일 낮 12:00 ~ 낮 12:20 (20분)</p></td>
+<td><p>월요일 ~ 토요일 낮 12시 ~ 12시 20분 (20분)</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/2003년.md" title="wikilink">2003년</a> <a href="../Page/4월_7일.md" title="wikilink">4월 7일</a> ~ <a href="../Page/2017년.md" title="wikilink">2017년</a> <a href="../Page/8월_31일.md" title="wikilink">8월 31일</a></p></td>
-<td><p>평일 낮 12:00 ~ 낮 12:20 (20분),<br />
-주말 낮 12:00 ~ 낮 12:10 (10분)</p></td>
+<td><p>평일 낮 12시 ~ 12시 20분 (20분)<br />
+주말 낮 12시 ~ 12시 10분 (10분)</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/2017년.md" title="wikilink">2017년</a> <a href="../Page/9월_1일.md" title="wikilink">9월 1일</a> ~ <strong>현재</strong></p></td>
-<td><p>평일 오후 2:00 ~ 오후 2:20 (20분)</p></td>
+<td><p>평일 오후 2시 ~ 2시 20분 (20분)</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -102,8 +102,7 @@
 ## 동시 시간대 뉴스 프로그램
 
   - [뉴스 중계탑](../Page/뉴스_중계탑.md "wikilink") ([KBS 제1라디오](../Page/KBS_제1라디오.md "wikilink"), [KBS부산 제1라디오](../Page/KBS부산방송총국.md "wikilink"), [KBS창원 제1라디오](../Page/KBS창원방송총국.md "wikilink"), [KBS진주 제1라디오](../Page/KBS진주방송국.md "wikilink"))
-  - [MBC 2시의 취재현장](https://ko.wikipedia.org/wiki/MBC_2시의_취재현장 "wikilink") ([MBC 표준FM](../Page/MBC_표준FM.md "wikilink"), [부산MBC 표준FM](../Page/부산문화방송.md "wikilink"), [MBC경남 창원 표준FM](../Page/MBC경남_창원방송.md "wikilink"), [MBC경남 진주 표준FM](../Page/MBC경남_진주방송.md "wikilink"))
-  - [수도권 뉴스](https://ko.wikipedia.org/wiki/수도권_뉴스 "wikilink") ([TBS 교통방송](../Page/교통방송.md "wikilink"))
+  - [수도권 뉴스](https://ko.wikipedia.org/wiki/수도권_뉴스 "wikilink") ([TBS 교통방송](../Page/TBS_\(대한민국의_방송사\).md "wikilink"))
   - TBN 2시 교통종합뉴스 ([TBN 한국교통방송](../Page/한국교통방송.md "wikilink"))
 
 ## 각주

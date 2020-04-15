@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Hatching Mayflies \(  \)](https://ko.wikipedia.org/wiki/Hatching_Mayflies_\(__\)).
+> This article is converted from Wikipedia: [Hatching Mayflies \(더 하이에이터스의 곡\)](https://ko.wikipedia.org/wiki/Hatching_Mayflies_\(더_하이에이터스의_곡\)).
 
 
 『**Hatching Mayflies**』（해칭 메이플라이즈）는 [2011년](../Page/2011년.md "wikilink") [6월 1일에](../Page/6월_1일.md "wikilink") 발매된 [더 하이에이터스의](https://ko.wikipedia.org/wiki/더_하이에이터스 "wikilink") 2번째 [EP](../Page/익스텐디드_플레이.md "wikilink")([싱글](../Page/싱글_\(음악\).md "wikilink"))이다. 일본 내 시디번호는 FLCF-4375 이며ㅡ 한국에서는 발매되지 않았다.

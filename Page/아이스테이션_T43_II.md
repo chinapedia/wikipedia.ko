@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ T43 II](https://ko.wikipedia.org/wiki/_T43_II).
+> This article is converted from Wikipedia: [아이스테이션 T43 II](https://ko.wikipedia.org/wiki/아이스테이션_T43_II).
 
 
 **아이스테이션 T43 II**()는 [아이스테이션](../Page/아이스테이션.md "wikilink")이 [2008년](../Page/2008년.md "wikilink")에 출시한 [포터블 미디어 플레이어이다](../Page/포터블_미디어_플레이어.md "wikilink").

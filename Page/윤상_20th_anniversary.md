@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ 20th anniversary](https://ko.wikipedia.org/wiki/_20th_anniversary).
+> This article is converted from Wikipedia: [윤상 20th anniversary](https://ko.wikipedia.org/wiki/윤상_20th_anniversary).
 
 
 《**윤상 20th anniversary SET**》는 [대한민국](../Page/대한민국.md "wikilink")의 [작곡가 겸 가수](https://ko.wikipedia.org/wiki/작곡가_겸_가수 "wikilink") [윤상](../Page/윤상.md "wikilink")의 20년 간 발매된 앨범을 집대성한 [박스 세트이다](https://ko.wikipedia.org/wiki/박스_세트 "wikilink").

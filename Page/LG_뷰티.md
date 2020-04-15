@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [LG ](https://ko.wikipedia.org/wiki/LG_).
+> This article is converted from Wikipedia: [LG 뷰티](https://ko.wikipedia.org/wiki/LG_뷰티).
 
 
 **LG 뷰티**(, LG KU990)는 [LG전자](../Page/LG전자.md "wikilink")가 2007년 10월에 출시한 [휴대 전화이다](../Page/휴대_전화.md "wikilink").\[1\]

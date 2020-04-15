@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ \~MY DEAR BOY\~](https://ko.wikipedia.org/wiki/_\~MY_DEAR_BOY\~).
+> This article is converted from Wikipedia: [로망 \~MY DEAR BOY\~](https://ko.wikipedia.org/wiki/로망_\~MY_DEAR_BOY\~).
 
 
 **로망 \~MY DEAR BOY\~**()는 [2004년](../Page/2004년.md "wikilink") [5월 12일에](../Page/5월_12일.md "wikilink") 발매 된 [모닝구무스메](../Page/모닝구무스메.md "wikilink")의 스물두 번째 싱글이다.

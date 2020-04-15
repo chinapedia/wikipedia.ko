@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:KBS  9](https://ko.wikipedia.org/wiki/:KBS__9).
+> This article is converted from Wikipedia: [틀:KBS 뉴스 9](https://ko.wikipedia.org/wiki/틀:KBS_뉴스_9).
 
 
 <noinclude> [한국방송공사의_뉴스_텔레비전_프로그램](https://ko.wikipedia.org/wiki/분류:한국방송공사의_뉴스_텔레비전_프로그램 "wikilink") [분류:한국방송공사의 뉴스 라디오 프로그램](https://ko.wikipedia.org/wiki/분류:한국방송공사의_뉴스_라디오_프로그램 "wikilink") [분류:방송에 관한 둘러보기 틀](https://ko.wikipedia.org/wiki/분류:방송에_관한_둘러보기_틀 "wikilink") </noinclude>

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [LG  L7](https://ko.wikipedia.org/wiki/LG__L7).
+> This article is converted from Wikipedia: [LG 옵티머스 L7](https://ko.wikipedia.org/wiki/LG_옵티머스_L7).
 
 
 **LG 옵티머스 L7**(LG Optimus L7)은 [2012년](../Page/2012년.md "wikilink") [2월](../Page/2월.md "wikilink") **[모바일 월드 콩그레스](../Page/모바일_월드_콩그레스.md "wikilink") 2012**에서 공개되고, [LG전자](../Page/LG전자.md "wikilink")에서 [2012년](../Page/2012년.md "wikilink") [7월](../Page/7월.md "wikilink")에 출시한 보급형 [안드로이드](../Page/안드로이드_\(운영_체제\).md "wikilink") [스마트폰](../Page/스마트폰.md "wikilink")이다.

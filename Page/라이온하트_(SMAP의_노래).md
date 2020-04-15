@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ \(SMAP \)](https://ko.wikipedia.org/wiki/_\(SMAP_\)).
+> This article is converted from Wikipedia: [라이온하트 \(SMAP의 노래\)](https://ko.wikipedia.org/wiki/라이온하트_\(SMAP의_노래\)).
 
 
 **라이온 하트**()는 일본의 음악그룹 [SMAP](../Page/SMAP.md "wikilink")의 32번째 싱글이다. 2000년 8월 30일 [빅터 엔터테인먼트에서](https://ko.wikipedia.org/wiki/빅터_엔터테인먼트 "wikilink") 발매되었다.
@@ -11,9 +11,9 @@
 
 ## 수록곡
 
-1.  **라이온 하트** ()
+1.  **라이온 하트**()
       - 작사 : 노지마 신지 / 작곡·편곡 : 코모리타 미노루
-2.  **오렌지** ()
+2.  **오렌지**()
       - 작사·작곡 : 이치카와 요시야스 / 편곡 : ZAKI
 3.  라이온 하트() \[오리지널 가라오케\]
 4.  오렌지() \[오리지널 가라오케\]

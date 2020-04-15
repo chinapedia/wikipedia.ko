@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [BMW 5  GT](https://ko.wikipedia.org/wiki/BMW_5__GT).
+> This article is converted from Wikipedia: [BMW 5 시리즈 GT](https://ko.wikipedia.org/wiki/BMW_5_시리즈_GT).
 
 
 [right](https://ko.wikipedia.org/wiki/파일:2010_BMW_550i_GT_front_--_03-14-2010.jpg "wikilink") [right](https://ko.wikipedia.org/wiki/파일:2010_BMW_550i_GT_rear_--_03-14-2010.jpg "wikilink")

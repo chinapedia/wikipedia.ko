@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ I](https://ko.wikipedia.org/wiki/_I).
+> This article is converted from Wikipedia: [유니박 I](https://ko.wikipedia.org/wiki/유니박_I).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Museum_of_Science,_Boston,_MA_-_IMG_3163.JPG "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:UNIVAC-I-BRL61-0977.jpg "wikilink") **유니박 I**(UNIVersal Automatic Computer I)은 [에니악](../Page/에니악.md "wikilink")(ENIAC)을 만든 모클리와 에커트에 의해 [미국](../Page/미국.md "wikilink")에서 처음으로 만들어진 최초의 상업용 컴퓨터이다.\[1\] UNIVAC I 모델들이 등장하기 전 여러 해 동안 이 머신은 간단히 "유니박"(UNIVAC)으로 불렸다.\[2\]

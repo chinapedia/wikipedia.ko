@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [RIM-67 ](https://ko.wikipedia.org/wiki/RIM-67_).
+> This article is converted from Wikipedia: [RIM-67 스탠더드](https://ko.wikipedia.org/wiki/RIM-67_스탠더드).
 
 
 **RIM-67 스탠다드 ER**(SM-1ER/SM-2ER)은 [RIM-66 스탠더드](../Page/RIM-66_스탠더드.md "wikilink")(SM-1/SM-2)의 사거리연장형이다. 무게 700 kg인 스탠다드는 중거리 미사일이고, 무게 1500 kg인 스탠다드ER은 장거리 미사일이다. 모든 스탠다드ER는 앞으로 신형인 [SM-6](https://ko.wikipedia.org/wiki/SM-6 "wikilink")로 교체될 것이다.

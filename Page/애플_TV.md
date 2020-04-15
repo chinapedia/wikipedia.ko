@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ TV](https://ko.wikipedia.org/wiki/_TV).
+> This article is converted from Wikipedia: [애플 TV](https://ko.wikipedia.org/wiki/애플_TV).
 
 
 **애플 TV**()는 [Apple Inc.에서](../Page/애플.md "wikilink") 개발 및 판매중인 디지털 미디어 플레이어이자 마이크로콘솔이다. 본 제품은 여러 소스에서 데이터를 수신하여 텔레비전으로 스트리밍하는 소형 네트워크 장비이자 엔터테인먼트 장치이다.

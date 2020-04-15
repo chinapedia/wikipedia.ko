@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ SC](https://ko.wikipedia.org/wiki/_SC).
+> This article is converted from Wikipedia: [도치기 SC](https://ko.wikipedia.org/wiki/도치기_SC).
 
 
 **도치기 SC**(栃木SC)는 [일본](../Page/일본.md "wikilink") [도치기현](../Page/도치기현.md "wikilink") [우쓰노미야 시를](https://ko.wikipedia.org/wiki/우쓰노미야_시 "wikilink") 연고지로 하는 [J리그](../Page/J리그.md "wikilink") 축구팀이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FC ](https://ko.wikipedia.org/wiki/FC_).
+> This article is converted from Wikipedia: [FC 장크트갈렌](https://ko.wikipedia.org/wiki/FC_장크트갈렌).
 
 
 **FC 장크트갈렌 1879**(Fussballclub St. Gallen 1879) 또는 **FC 장크트갈렌**(FC St. Gallen)은 [스위스](https://ko.wikipedia.org/wiki/스위스 "wikilink") [장크트갈렌](../Page/장크트갈렌.md "wikilink")의 [축구](../Page/축구.md "wikilink") 팀으로, [1879년](../Page/1879년.md "wikilink")에 창단했다. 이 팀은 [스위스](https://ko.wikipedia.org/wiki/스위스 "wikilink")의 축구 팀 가운데 가장 오랜 역사를 자랑하는 축구 팀이다.

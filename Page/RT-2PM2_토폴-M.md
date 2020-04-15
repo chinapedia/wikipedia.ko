@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [RT-2PM2 -M](https://ko.wikipedia.org/wiki/RT-2PM2_-M).
+> This article is converted from Wikipedia: [RT-2PM2 토폴-M](https://ko.wikipedia.org/wiki/RT-2PM2_토폴-M).
 
 
 **RT-2PM2 토폴-M**()은 1997년에 [러시아](../Page/러시아.md "wikilink")가 배치한 [대륙간 탄도 미사일로](https://ko.wikipedia.org/wiki/대륙간_탄도_미사일 "wikilink"), [소비에트 연방의 붕괴](https://ko.wikipedia.org/wiki/소비에트_연방의_붕괴 "wikilink") 이후 러시아가 최초로 개발한 [대륙간 탄도 미사일이다](https://ko.wikipedia.org/wiki/대륙간_탄도_미사일 "wikilink").

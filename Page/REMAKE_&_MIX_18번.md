@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [REMAKE \& MIX 18](https://ko.wikipedia.org/wiki/REMAKE_\&_MIX_18).
+> This article is converted from Wikipedia: [REMAKE \& MIX 18번](https://ko.wikipedia.org/wiki/REMAKE_\&_MIX_18번).
 
 
 《**REMAKE & MIX 18번**》는 [싸이](../Page/싸이.md "wikilink")의 비정규 앨범으로, 싸이가 군 대체 복무기간 중이었던 2005년 7월에 발매되었다.\[1\]

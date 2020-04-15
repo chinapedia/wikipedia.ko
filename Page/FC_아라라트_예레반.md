@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FC  ](https://ko.wikipedia.org/wiki/FC__).
+> This article is converted from Wikipedia: [FC 아라라트 예레반](https://ko.wikipedia.org/wiki/FC_아라라트_예레반).
 
 
 **FC 아라라트 예레반**()은 [아르메니아](../Page/아르메니아.md "wikilink") [예레반](../Page/예레반.md "wikilink")의 축구 클럽으로 현재는 [아르메니아 프리미어리그에](../Page/아르메니아_프리미어리그.md "wikilink") 참가하고 있다. 1935년 스파르타크라는 이름으로 창단되었으며 1963년 지금과 같은 이름으로 변경되었다.

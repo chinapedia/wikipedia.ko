@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ CF ](https://ko.wikipedia.org/wiki/_CF_).
+> This article is converted from Wikipedia: [발렌시아 CF 메스타야](https://ko.wikipedia.org/wiki/발렌시아_CF_메스타야).
 
 
 **발렌시아 CF 메스타야**(Valencia Club de Fútbol Mestalla)는 [발렌시아 지방의](https://ko.wikipedia.org/wiki/발렌시아_지방 "wikilink") [발렌시아](../Page/발렌시아.md "wikilink")를 연고로 하는 [스페인](../Page/스페인.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽으로 [발렌시아 CF의](../Page/발렌시아_CF.md "wikilink") 리저브 팀이다. 현재는 [세군다 디비시온 B에](https://ko.wikipedia.org/wiki/세군다_디비시온_B "wikilink") 참가하고 있다.

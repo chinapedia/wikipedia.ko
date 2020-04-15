@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [W ](https://ko.wikipedia.org/wiki/W_).
+> This article is converted from Wikipedia: [W 윈](https://ko.wikipedia.org/wiki/W_윈).
 
 
 **W 윈**()은 2011년 5월 12일에 출시한 [SK텔레시스](../Page/SK텔레시스.md "wikilink")의 두 번째 [스마트폰](../Page/스마트폰.md "wikilink")이다.\[1\] [조인성을](../Page/조인성_\(배우\).md "wikilink") 광고 모델로 내세워 **조인성폰**이라는 별칭으로도 불린다.

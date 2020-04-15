@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Geobox2 coor](https://ko.wikipedia.org/wiki/:Geobox2_coor).
+> This article is converted from Wikipedia: [틀:Geobox2 coor](https://ko.wikipedia.org/wiki/틀:Geobox2_coor).
 
 
 <includeonly>{{\#if: |title="{{\#if:||}}"}} {{\#if:  | {{\!}} | \! }} style="" {{\!}} {{\#if:  |  -  }}{{\#if:  |  |  }} |<span style="white-space:nowrap;">{{\#if:| | {{\#if: |||()}}|}}

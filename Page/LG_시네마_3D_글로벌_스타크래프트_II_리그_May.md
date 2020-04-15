@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [LG  3D   II  May](https://ko.wikipedia.org/wiki/LG__3D___II__May).
+> This article is converted from Wikipedia: [LG 시네마 3D 글로벌 스타크래프트 II 리그 May](https://ko.wikipedia.org/wiki/LG_시네마_3D_글로벌_스타크래프트_II_리그_May).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:2011_GSL_May_Grand_final_from_acrofan.JPG "wikilink") **LG 시네마 3D 글로벌 스타크래프트 II 리그 May**(LG Cinema 3D Global StarCraft II League May)는 [글로벌 스타크래프트 II 리그](https://ko.wikipedia.org/wiki/글로벌_스타크래프트_II_리그 "wikilink") 2011 GSL 투어의 여섯 번째 대회로 [2011년](../Page/2011년.md "wikilink") [4월 18일에](../Page/4월_18일.md "wikilink") 개막하였다.

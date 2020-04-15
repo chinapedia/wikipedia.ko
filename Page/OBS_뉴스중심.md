@@ -1,11 +1,11 @@
-> This article is converted from Wikipedia: [OBS ](https://ko.wikipedia.org/wiki/OBS_).
+> This article is converted from Wikipedia: [OBS 뉴스중심](https://ko.wikipedia.org/wiki/OBS_뉴스중심).
 
 
 《**OBS 뉴스중심**》()은 [대한민국](../Page/대한민국.md "wikilink") [OBS경인TV](../Page/OBS경인TV.md "wikilink")에서 매일 저녁 7시 30분에 방송되는 [OBS경인TV](../Page/OBS경인TV.md "wikilink")의 메인[뉴스](../Page/뉴스.md "wikilink") [프로그램이다](../Page/텔레비전_프로그램.md "wikilink").
 
 ## 타이틀 변천사
 
-  - [iTV](../Page/경인방송.md "wikilink") ([1997년](../Page/1997년.md "wikilink") [10월 11일](../Page/10월_11일.md "wikilink") \~ [2004년](../Page/2004년.md "wikilink") [11월 14일](../Page/11월_14일.md "wikilink"))
+  - (구) [iTV](../Page/경인방송.md "wikilink") ([1997년](../Page/1997년.md "wikilink") [10월 11일](../Page/10월_11일.md "wikilink") \~ [2004년](../Page/2004년.md "wikilink") [11월 14일](../Page/11월_14일.md "wikilink"))
 
 <!-- end list -->
 

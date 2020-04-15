@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [MBK ](https://ko.wikipedia.org/wiki/MBK_).
+> This article is converted from Wikipedia: [MBK 파트너스](https://ko.wikipedia.org/wiki/MBK_파트너스).
 
 
 **MBK 파트너스**(MBK Partners)는 김병주 회장이 2005년 설립한 아시아 최대의 [사모펀드](https://ko.wikipedia.org/wiki/사모펀드 "wikilink")이며 한국, 중국, 일본 등 동북아지역에서 바이아웃 투자를 하고있다. 운용자금은 2017년 9월 현재 약150억달러(17조원)에 이른다.

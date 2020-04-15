@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  MASTER HITS](https://ko.wikipedia.org/wiki/__MASTER_HITS).
+> This article is converted from Wikipedia: [마스다 타카히사 MASTER HITS](https://ko.wikipedia.org/wiki/마스다_타카히사_MASTER_HITS).
 
 
 《**마스다 타카히사 MASTER HITS**》()는, [bayfm에서](https://ko.wikipedia.org/wiki/베이FM "wikilink") [금요일](../Page/금요일.md "wikilink") 23:00 \~ 23:30(정확하게는, 23:26까지)에 방송되고 있는 라디오 프로그램. [2005년](../Page/2005년.md "wikilink") [4월 1일](../Page/4월_1일.md "wikilink") 방송 개시.

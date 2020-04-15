@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [2014 FIFA     C](https://ko.wikipedia.org/wiki/2014_FIFA_____C).
+> This article is converted from Wikipedia: [2014년 FIFA 월드컵 유럽 지역 예선 C조](https://ko.wikipedia.org/wiki/2014년_FIFA_월드컵_유럽_지역_예선_C조).
 
 
 **[2014년 FIFA 월드컵 유럽 지역 예선](../Page/2014년_FIFA_월드컵_유럽_지역_예선.md "wikilink") C조**는 [독일을](../Page/독일_축구_국가대표팀.md "wikilink") 비롯하여 [스웨덴](../Page/스웨덴_축구_국가대표팀.md "wikilink"), [아일랜드](../Page/아일랜드_축구_국가대표팀.md "wikilink"), [오스트리아](../Page/오스트리아_축구_국가대표팀.md "wikilink"), [페로 제도](../Page/페로_제도_축구_국가대표팀.md "wikilink"), [카자흐스탄으로](../Page/카자흐스탄_축구_국가대표팀.md "wikilink") 구성되어 있다.

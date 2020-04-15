@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [S.W.A.T. ](https://ko.wikipedia.org/wiki/S.W.A.T._).
+> This article is converted from Wikipedia: [S.W.A.T. 특수기동대](https://ko.wikipedia.org/wiki/S.W.A.T._특수기동대).
 
 
 《**S.W.A.T. 특수기동대**》()는 [2003년](../Page/2003년.md "wikilink") 개봉한 미국의 영화이다.

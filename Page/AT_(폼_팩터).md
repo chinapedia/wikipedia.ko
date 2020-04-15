@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [AT \( \)](https://ko.wikipedia.org/wiki/AT_\(_\)).
+> This article is converted from Wikipedia: [AT \(폼 팩터\)](https://ko.wikipedia.org/wiki/AT_\(폼_팩터\)).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Motherboard_Baby_AT.jpg "wikilink") **AT 폼 팩터**(AT form factor)는 [IBM 호환](../Page/IBM_PC_호환기종.md "wikilink") [PC](../Page/개인용_컴퓨터.md "wikilink") 분야에서 [IBM AT를](https://ko.wikipedia.org/wiki/IBM_PC/AT "wikilink") 위한 [메인보드](../Page/메인보드.md "wikilink")용 크기의 설계([폼 팩터](../Page/컴퓨터_폼_팩터.md "wikilink"))를 가리킨다. 이전에 나온 [IBM PC와](../Page/IBM_PC.md "wikilink") [IBM XT](https://ko.wikipedia.org/wiki/IBM_PC/XT "wikilink") 모델과 같이, 수많은 서드파티 제조업체들은 IBM AT 폼 팩터 호환 메인보드를 생산하였으며 이로써 최종 사용자들이 컴퓨터를 더 빠른 프로세서로 업그레이드할 수 있었다. IBM AT는 1980년대 급등하는 가정용 컴퓨터 시장에서 널리 쓰였다. 당시 개발된 [IBM 클론은](../Page/IBM_PC_호환기종.md "wikilink") AT 컴퓨터 디자인을 이용하기 시작하자 큰 인기를 끌었다. 1990년대에 수많은 컴퓨터가 AT와 그 변종을 사용하였으며 1997년 이후로 AT 폼 팩터는 [ATX](../Page/ATX.md "wikilink")에 자리를 내주게 되었다.

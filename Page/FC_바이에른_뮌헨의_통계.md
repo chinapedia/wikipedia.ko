@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FC   ](https://ko.wikipedia.org/wiki/FC___).
+> This article is converted from Wikipedia: [FC 바이에른 뮌헨의 통계](https://ko.wikipedia.org/wiki/FC_바이에른_뮌헨의_통계).
 
 
 다음 목록은 [FC 바이에른 뮌헨의](../Page/FC_바이에른_뮌헨.md "wikilink") 기록과 통계의 상세 정보이다.

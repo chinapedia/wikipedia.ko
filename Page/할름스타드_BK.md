@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ BK](https://ko.wikipedia.org/wiki/_BK).
+> This article is converted from Wikipedia: [할름스타드 BK](https://ko.wikipedia.org/wiki/할름스타드_BK).
 
 
 **할름스타드 BK**(Halmstads BK, 약칭 **HBK**)는 [1914년](../Page/1914년.md "wikilink") [3월 6일에](../Page/3월_6일.md "wikilink") 창단된 [스웨덴](../Page/스웨덴.md "wikilink") [할름스타드](../Page/할름스타드.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽으로, 리그 우승 4회와 컵 대회 우승 1회의 기록을 보유하고 있다. 현재 [알스벤스칸](../Page/알스벤스칸.md "wikilink")에서 활동하고 있다.

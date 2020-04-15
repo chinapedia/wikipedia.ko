@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [K-  ](https://ko.wikipedia.org/wiki/K-__).
+> This article is converted from Wikipedia: [K-팝 최강 서바이벌](https://ko.wikipedia.org/wiki/K-팝_최강_서바이벌).
 
 
 《**K-팝 최강 서바이벌**》은 [2012년](../Page/2012년.md "wikilink") [3월 19일부터](../Page/3월_19일.md "wikilink") [2012년](../Page/2012년.md "wikilink") [5월 1일까지](../Page/5월_1일.md "wikilink") 방영된 [채널A 월화드라마로](https://ko.wikipedia.org/wiki/채널A_월화드라마 "wikilink"), 한국 최고의 아이돌 그룹 m2의 새로운 멤버가 되기 위해 고군분투하는 연습생 8인의 꿈과 사랑, 우정을 그렸다.

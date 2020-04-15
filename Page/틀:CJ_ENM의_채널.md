@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:CJ ENM ](https://ko.wikipedia.org/wiki/:CJ_ENM_).
+> This article is converted from Wikipedia: [틀:CJ ENM의 채널](https://ko.wikipedia.org/wiki/틀:CJ_ENM의_채널).
 
 
 <onlyinclude></onlyinclude>

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  \(e\)](https://ko.wikipedia.org/wiki/__\(e\)).
+> This article is converted from Wikipedia: [스베누 코리아 \(e스포츠\)](https://ko.wikipedia.org/wiki/스베누_코리아_\(e스포츠\)).
 
 
 **스베누 코리아**(SBENU KOREA)는 [대한민국](../Page/대한민국.md "wikilink")의 前 [리그 오브 레전드](../Page/리그_오브_레전드.md "wikilink") [프로게임단](https://ko.wikipedia.org/wiki/프로게임단 "wikilink")이다. 이전 팀명은 **스베누 소닉붐**(SBENU SONICBOOM)이었다.

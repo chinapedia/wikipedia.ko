@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [NHK ](https://ko.wikipedia.org/wiki/NHK_).
+> This article is converted from Wikipedia: [NHK 월드](https://ko.wikipedia.org/wiki/NHK_월드).
 
 
 [오른쪽](https://ko.wikipedia.org/wiki/파일:NHK_World.svg "wikilink")

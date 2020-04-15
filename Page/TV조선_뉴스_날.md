@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TV  ](https://ko.wikipedia.org/wiki/TV__).
+> This article is converted from Wikipedia: [TV조선 뉴스 날](https://ko.wikipedia.org/wiki/TV조선_뉴스_날).
 
 
 **TV조선 뉴스 날**은 [대한민국](../Page/대한민국.md "wikilink")에서 평일 오후 8시\~오후 8시 40분, 주말 오후 8시 \~ 8시 30분에 [텔레비전](../Page/텔레비전.md "wikilink")으로 방송된 [TV조선](../Page/TV조선.md "wikilink")의 메인 [뉴스](../Page/뉴스.md "wikilink") 프로그램이다. 매일 40분으로 방송분량이 나갔다.

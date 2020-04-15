@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [E](https://ko.wikipedia.org/wiki/E).
+> This article is converted from Wikipedia: [E₈](https://ko.wikipedia.org/wiki/E₈).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Dynkin_diagram_E8.svg "wikilink")\]\] [리 군론에서](https://ko.wikipedia.org/wiki/리_군론 "wikilink"), **E<sub>8</sub>**은 복소수 예외적 [단순 리 군](https://ko.wikipedia.org/wiki/단순_리_군 "wikilink") 가운데 가장 큰 것이다.\[1\]\[2\]\[3\] 다른 모든 예외적 단순 복소 [리 군을](../Page/리_군.md "wikilink") 부분군으로 포함한다. 세 개의 실수 형식(컴팩트, 분해(), 그리고 또다른 형식 하나)이 있다.

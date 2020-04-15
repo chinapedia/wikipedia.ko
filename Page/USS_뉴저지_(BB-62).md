@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [USS  \(BB-62\)](https://ko.wikipedia.org/wiki/USS__\(BB-62\)).
+> This article is converted from Wikipedia: [USS 뉴저지 \(BB-62\)](https://ko.wikipedia.org/wiki/USS_뉴저지_\(BB-62\)).
 
 
 [300px](https://ko.wikipedia.org/wiki/파일:New_Jersey_Shoots.jpg "wikilink")

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ASKY ](https://ko.wikipedia.org/wiki/ASKY_).
+> This article is converted from Wikipedia: [ASKY 항공](https://ko.wikipedia.org/wiki/ASKY_항공).
 
 
 **ASKY 항공**()은 [토고](../Page/토고.md "wikilink")의 항공사로 주로 [아프리카](../Page/아프리카.md "wikilink") 대륙에 취항하고 있다. [로메 토코인 공항이](https://ko.wikipedia.org/wiki/로메_토코인_공항 "wikilink") [허브 공항으로](../Page/허브_공항.md "wikilink") [2008년](../Page/2008년.md "wikilink")에 설립되어 [에티오피아 항공이](../Page/에티오피아_항공.md "wikilink") 40% 지분을 보유하고 있다.\[1\]\[2\]

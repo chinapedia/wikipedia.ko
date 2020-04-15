@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ \&  with ](https://ko.wikipedia.org/wiki/_\&__with_).
+> This article is converted from Wikipedia: [팬티 \& 스타킹 with 가터벨트](https://ko.wikipedia.org/wiki/팬티_\&_스타킹_with_가터벨트).
 
 
 **팬티 & 스타킹 with 가터벨트**는 2010년 10월부터 방영중인 TV애니메이션으로 감독은 이마이시 히로유키, 캐릭터 디자인은 니시고리 아쓰시로서 [천원돌파 그렌라간의](../Page/천원돌파_그렌라간.md "wikilink") 제작 스태프가 다수 참가하고 있다.\[1\] 본편에 선행해 감독인 이마이시가 《[월간 뉴타입](../Page/월간_뉴타입.md "wikilink")》일본어판 2010년 8월호부터 단편 만화를, 만화가인 [TAGRO](https://ko.wikipedia.org/wiki/TAGRO "wikilink")가《[영 에이스](https://ko.wikipedia.org/wiki/영_에이스 "wikilink")》2010년 9월호 부터 본작의 만화판을 연재하고 있다.

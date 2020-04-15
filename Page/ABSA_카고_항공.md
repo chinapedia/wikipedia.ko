@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ABSA  ](https://ko.wikipedia.org/wiki/ABSA__).
+> This article is converted from Wikipedia: [ABSA 카고 항공](https://ko.wikipedia.org/wiki/ABSA_카고_항공).
 
 
 **ABSA 카고 항공**()은 [브라질](../Page/브라질.md "wikilink")의 화물 항공사로 본사는 [브라질](../Page/브라질.md "wikilink") [캄피나스](../Page/캄피나스.md "wikilink")에 위치해 있으며 [1995년](../Page/1995년.md "wikilink")에 설립했다. [허브 공항으로](../Page/허브_공항.md "wikilink") [비라코푸스 캄피나스 국제공항](../Page/비라코푸스_캄피나스_국제공항.md "wikilink")\[1\]이 있으며 계열사는 [칠레](../Page/칠레.md "wikilink")의 항공사인 [LATAM 항공 그룹이](../Page/LATAM_항공_그룹.md "wikilink") 있다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ EOS 60D](https://ko.wikipedia.org/wiki/_EOS_60D).
+> This article is converted from Wikipedia: [캐논 EOS 60D](https://ko.wikipedia.org/wiki/캐논_EOS_60D).
 
 
 **캐논 EOS 60D**는 [캐논이](https://ko.wikipedia.org/wiki/캐논_\(기업\) "wikilink") 2010년 9월 발표한 아마츄어용 [디지털 일안 반사식 카메라이다](../Page/디지털_일안_반사식_카메라.md "wikilink"). 50D와 비교하여 성능이 향상된 부분도 있으나, 7D와의 경쟁을 피하기 위해 기능이 하락한 부분도 있다. 경쟁 제품으로는 [니콘 D7000](../Page/니콘_D7000.md "wikilink"), [소니 A550](../Page/소니_DSLR-A550.md "wikilink"), [펜탁스 K-5](../Page/펜탁스_K-5.md "wikilink"), [올림푸스 E-5](https://ko.wikipedia.org/wiki/올림푸스_E-5 "wikilink") 등이 있다.

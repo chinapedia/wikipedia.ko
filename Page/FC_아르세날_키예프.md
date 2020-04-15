@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FC  ](https://ko.wikipedia.org/wiki/FC__).
+> This article is converted from Wikipedia: [FC 아르세날 키예프](https://ko.wikipedia.org/wiki/FC_아르세날_키예프).
 
 
 **FC 아르세날 키예프**(, )는 [우크라이나](../Page/우크라이나.md "wikilink")의 수도 [키예프](../Page/키예프.md "wikilink")를 연고로 하던 축구 클럽이다. 2013-14 시즌이 진행 중이던 [2013년](../Page/2013년.md "wikilink") [10월 29일](../Page/10월_29일.md "wikilink") 구단이 파산하면서 해체되었다.

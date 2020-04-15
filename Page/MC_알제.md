@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [MC ](https://ko.wikipedia.org/wiki/MC_).
+> This article is converted from Wikipedia: [MC 알제](https://ko.wikipedia.org/wiki/MC_알제).
 
 
 **물루디아 클뢰브 달제**(, ) 또는 **MC 알제**()는 [알제리](../Page/알제리.md "wikilink") [알제](../Page/알제.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다.

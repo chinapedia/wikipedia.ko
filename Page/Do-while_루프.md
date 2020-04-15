@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Do-while ](https://ko.wikipedia.org/wiki/Do-while_).
+> This article is converted from Wikipedia: [Do-while 루프](https://ko.wikipedia.org/wiki/Do-while_루프).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Do-while-loop-diagram.svg "wikilink") **do-while 루프**는 대부분의 [컴퓨터 프로그래밍](../Page/컴퓨터_프로그래밍.md "wikilink") 언어에서 주어진 [불린 자료형](https://ko.wikipedia.org/wiki/불린_자료형 "wikilink") 조건을 기반으로 코드가 한 번 실행할 수 있게 하는 [제어 흐름](../Page/제어_흐름.md "wikilink")[문이다](https://ko.wikipedia.org/wiki/문_\(프로그래밍\) "wikilink"). 대부분의 언어와 달리 [포트란](../Page/포트란.md "wikilink")의 do 루프는 실제로는 [for 루프와](https://ko.wikipedia.org/wiki/for_루프 "wikilink") 같다.

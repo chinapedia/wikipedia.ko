@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ P.  ](https://ko.wikipedia.org/wiki/_P.__).
+> This article is converted from Wikipedia: [앨프리드 P. 뮤러 연방정부청사](https://ko.wikipedia.org/wiki/앨프리드_P._뮤러_연방정부청사).
 
 
 **앨프리드 P. 뮤러 연방정부청사**(Alfred P. Murrah Federal Building)는 [미국 연방 정부의](../Page/미국_연방_정부.md "wikilink") 종합청사로 [미국](../Page/미국.md "wikilink") [오클라호마주](../Page/오클라호마주.md "wikilink") [오클라호마 시티의](https://ko.wikipedia.org/wiki/오클라호마_시티 "wikilink") 중심가에 있었다. 이 건물은 [1995년](../Page/1995년.md "wikilink") [4월 19일](../Page/4월_19일.md "wikilink"), 19명의 어린이를 포함한 168명의 희생자를 낸 [오클라호마 폭탄 테러의](https://ko.wikipedia.org/wiki/오클라호마_폭탄_테러 "wikilink") 표적이 되었다. 건물의 잔해를 테러가 있은 지 1개월 뒤에 철거되었으며, [오클라호마 폭탄 테러 기념비가](https://ko.wikipedia.org/wiki/오클라호마_폭탄_테러_기념비 "wikilink") 그 장소에 건립되었다.

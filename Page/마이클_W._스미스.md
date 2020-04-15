@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ W. ](https://ko.wikipedia.org/wiki/_W._).
+> This article is converted from Wikipedia: [마이클 W. 스미스](https://ko.wikipedia.org/wiki/마이클_W._스미스).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Michael_W._Smith.jpg "wikilink") **마이클 휘태커 스미스**(Michael Whitaker Smith\[1\], [1957년](../Page/1957년.md "wikilink") [10월 7일](../Page/10월_7일.md "wikilink") \~ )는 [그래미 상을](https://ko.wikipedia.org/wiki/그래미_상 "wikilink") 받은 [미국](../Page/미국.md "wikilink")의 [싱어송라이터](https://ko.wikipedia.org/wiki/싱어송라이터 "wikilink"), [작곡가](https://ko.wikipedia.org/wiki/작곡가 "wikilink"), [배우](../Page/배우.md "wikilink")이다. 그는 [현대 기독교 음악에서](../Page/현대_기독교_음악.md "wikilink") 가장 영향력 있는 아티스트 가운데 한 명이다. 또, 스미스는 주류가 되는 음악 산업에서 상당한 성공을 거두고 있다\[2\]. 1978년 데뷔하여 지금까지 40년간 [그래미 상을](https://ko.wikipedia.org/wiki/그래미_상 "wikilink") 세 번 받았으며, 40개의 [도브상을](https://ko.wikipedia.org/wiki/GMA_도브상 "wikilink") 거머쥐었다.

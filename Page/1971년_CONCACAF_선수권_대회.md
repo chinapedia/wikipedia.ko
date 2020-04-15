@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [1971 CONCACAF  ](https://ko.wikipedia.org/wiki/1971_CONCACAF__).
+> This article is converted from Wikipedia: [1971년 CONCACAF 선수권 대회](https://ko.wikipedia.org/wiki/1971년_CONCACAF_선수권_대회).
 
 
 **1971년 CONCACAF 선수권 대회**는 [1971년](../Page/1971년.md "wikilink") [11월 20일부터](../Page/11월_20일.md "wikilink") [12월 5일까지](../Page/12월_5일.md "wikilink") [트리니다드 토바고에서](../Page/트리니다드_토바고.md "wikilink") 열린 5번째 [CONCACAF 선수권 대회이다](../Page/CONCACAF_선수권_대회.md "wikilink").

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [MBN ](https://ko.wikipedia.org/wiki/MBN_).
+> This article is converted from Wikipedia: [MBN 종합뉴스](https://ko.wikipedia.org/wiki/MBN_종합뉴스).
 
 
 《**MBN 종합뉴스**》는 [대한민국](../Page/대한민국.md "wikilink")에서 매일 저녁 7시 30분에 [텔레비전](../Page/텔레비전.md "wikilink")으로 방송하는 [MBN의](../Page/매일방송.md "wikilink") 메인 [뉴스](../Page/뉴스.md "wikilink") 프로그램이다.
@@ -38,7 +38,7 @@
   - [MBN 뉴스와이드](../Page/MBN_뉴스와이드.md "wikilink")
   - [MBN 뉴스와이드 주말](../Page/MBN_뉴스와이드_주말.md "wikilink")
   - [일요시사](https://ko.wikipedia.org/wiki/일요시사 "wikilink")
-  - [MBN 뉴스특보](https://ko.wikipedia.org/wiki/MBN_뉴스특보 "wikilink")
+  - [MBN 뉴스특보](../Page/MBN_뉴스특보.md "wikilink")
 
 ## 타이틀 변천사
 
@@ -49,7 +49,7 @@
   - [2011년](../Page/2011년.md "wikilink") [12월 1일](../Page/12월_1일.md "wikilink") \~ [2011년](../Page/2011년.md "wikilink") [12월 25일](../Page/12월_25일.md "wikilink") (MBN 뉴스 8)
   - [2011년](../Page/2011년.md "wikilink") [12월 26일](../Page/12월_26일.md "wikilink") \~ [2012년](../Page/2012년.md "wikilink") [4월 15일](../Page/4월_15일.md "wikilink") (평일 MBN 뉴스 10 / 주말 MBN 뉴스 8)
   - [2012년](../Page/2012년.md "wikilink") [4월 16일](../Page/4월_16일.md "wikilink") \~ [2019년](../Page/2019년.md "wikilink") [9월 22일](../Page/9월_22일.md "wikilink") (MBN 뉴스 8)
-  - [2019년](../Page/2019년.md "wikilink") [9월 23일](../Page/9월_23일.md "wikilink") \~ **현재** (MBN 종합뉴스)
+  - [2019년](../Page/2019년.md "wikilink") [9월 23일](../Page/9월_23일.md "wikilink") \~ **현재**(MBN 종합뉴스)
 
 ## 시보 광고
 

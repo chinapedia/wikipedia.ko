@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:SL   ](https://ko.wikipedia.org/wiki/:SL___).
+> This article is converted from Wikipedia: [틀:SL 벤피카 선수 명단](https://ko.wikipedia.org/wiki/틀:SL_벤피카_선수_명단).
 
 
 <onlyinclude></onlyinclude>

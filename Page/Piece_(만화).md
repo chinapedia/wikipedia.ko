@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Piece \(\)](https://ko.wikipedia.org/wiki/Piece_\(\)).
+> This article is converted from Wikipedia: [Piece \(만화\)](https://ko.wikipedia.org/wiki/Piece_\(만화\)).
 
 
 《**Piece**》(피스)는, [아시하라 히나코의](../Page/아시하라_히나코.md "wikilink") [만화](../Page/만화.md "wikilink") 작품이다.
@@ -83,7 +83,7 @@
   - 세토우치 마도카 - [스즈키 아이리](../Page/스즈키_아이리.md "wikilink")
     미즈호의 고교 시절 동급생. 고등학교 선배인 코이케와 지금도 교제를 순조롭게 계속하고 있다. 아무렇지도 않게 걱정을 보이지만 그 행위가 오히려 상대를 유혹하는 결과에 연결되어 버린다.
   - 스가와라 유우 - [노자와 유키](../Page/노자와_유키.md "wikilink") ([noon boyz](../Page/Mis_Snow_Man.md "wikilink"))
-    미즈호의 고교 시절 동급생. [도쿄 대학](https://ko.wikipedia.org/wiki/도쿄_대학 "wikilink") 수험에 실패해, 재수 중이다. 한 번, 감기로 몸이 불편할 때에 마도카가 상냥하게 해준 것으로부터 호의를 가지게 된다.
+    미즈호의 고교 시절 동급생. [도쿄 대학](../Page/도쿄_대학.md "wikilink") 수험에 실패해, 재수 중이다. 한 번, 감기로 몸이 불편할 때에 마도카가 상냥하게 해준 것으로부터 호의를 가지게 된다.
   - 코이케 선배 - [야스이 켄타로](../Page/야스이_켄타로.md "wikilink") (쟈니즈 Jr.)
     고등학교 졸업식 후에 용기를 내 마도카에게 고백했더니, 〈계속 대화해보고 싶다고 생각하고 있었다〉라고 서로가 같은 감정을 가지고 있던 것을 안다.
   - 니시다 레미 - 아라이 모에

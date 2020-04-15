@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
+> This article is converted from Wikipedia: [화성 FC](https://ko.wikipedia.org/wiki/화성_FC).
 
 
 **화성 FC**()는 [경기도](https://ko.wikipedia.org/wiki/경기도 "wikilink") [화성시](https://ko.wikipedia.org/wiki/화성시 "wikilink")를 연고로 하고 있는 [2013년](../Page/2013년.md "wikilink") [1월 23일에](../Page/1월_23일.md "wikilink") 창단한 [대한민국](../Page/대한민국.md "wikilink")의 [축구](../Page/축구.md "wikilink")단으로 현재 [K3리그](https://ko.wikipedia.org/wiki/K3리그 "wikilink")에 참가하고 있으며 홈구장은 [화성종합경기타운](../Page/화성종합경기타운.md "wikilink")이다.
@@ -26,6 +26,10 @@
 
   - [화성시](https://ko.wikipedia.org/wiki/화성시 "wikilink")
   - [화성시체육회](https://ko.wikipedia.org/wiki/화성시체육회 "wikilink")
+
+## 각주
+
+<references />
 
 ## 외부 링크
 

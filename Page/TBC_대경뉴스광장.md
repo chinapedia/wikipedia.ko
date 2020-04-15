@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TBC ](https://ko.wikipedia.org/wiki/TBC_).
+> This article is converted from Wikipedia: [TBC 대경뉴스광장](https://ko.wikipedia.org/wiki/TBC_대경뉴스광장).
 
 
 **TBC 대경뉴스광장**은 대한민국 [TBC에서](../Page/TBC_\(대한민국의_방송사\).md "wikilink") 평일 오후 5시 40분에 방송되는 TBC의 저녁뉴스 프로그램이다.

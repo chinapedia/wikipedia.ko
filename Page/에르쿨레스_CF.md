@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ CF](https://ko.wikipedia.org/wiki/_CF).
+> This article is converted from Wikipedia: [에르쿨레스 CF](https://ko.wikipedia.org/wiki/에르쿨레스_CF).
 
 
 **에르쿨레스 CF**(Hércules Club de Fútbol, S.A.D.)는 [스페인](../Page/스페인.md "wikilink") [발렌시아 지방의](https://ko.wikipedia.org/wiki/발렌시아_지방 "wikilink") [알리칸테](../Page/알리칸테.md "wikilink")를 연고로 하는 [축구](../Page/축구.md "wikilink") 클럽이다. 현재는 [스페인 세군다 디비시온에](https://ko.wikipedia.org/wiki/스페인_세군다_디비시온 "wikilink") 참가하고 있다.

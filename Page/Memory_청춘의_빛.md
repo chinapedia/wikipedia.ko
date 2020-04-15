@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Memory  ](https://ko.wikipedia.org/wiki/Memory__).
+> This article is converted from Wikipedia: [Memory 청춘의 빛](https://ko.wikipedia.org/wiki/Memory_청춘의_빛).
 
 
 **Memory 청춘의 빛**()은 [1999년](../Page/1999년.md "wikilink") [2월 10일에](../Page/2월_10일.md "wikilink") 발매 된 [모닝구무스메](../Page/모닝구무스메.md "wikilink")의 네 번째 싱글이다.

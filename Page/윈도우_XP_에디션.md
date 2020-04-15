@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ XP ](https://ko.wikipedia.org/wiki/_XP_).
+> This article is converted from Wikipedia: [윈도우 XP 에디션](https://ko.wikipedia.org/wiki/윈도우_XP_에디션).
 
 
 **[윈도우 XP](../Page/윈도우_XP.md "wikilink")**는 2001년 10월에 출시되었다. 윈도우 XP는 다른 [윈도우](../Page/마이크로소프트_윈도우.md "wikilink") 계열 운영 체제와 마찬가지로 다국어를 지원한다. 다만, 그 전의 [윈도우](../Page/마이크로소프트_윈도우.md "wikilink") 계열 운영 체제와는 다르게 여러가지 에디션으로 나뉘었다. 그로 인해 윈도우 XP 이후로 출시되는 운영 체제는 여러 가지 에디션을 가지게 된다.

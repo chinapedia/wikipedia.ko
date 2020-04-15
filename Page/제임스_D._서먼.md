@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ D. ](https://ko.wikipedia.org/wiki/_D._).
+> This article is converted from Wikipedia: [제임스 D. 서먼](https://ko.wikipedia.org/wiki/제임스_D._서먼).
 
 
 **제임스 데이비드 서먼**(, [1953년](../Page/1953년.md "wikilink") [9월 19일](../Page/9월_19일.md "wikilink") \~ )은 [유엔사령부](../Page/유엔사령부.md "wikilink"), [한미연합군사령부](../Page/한미연합군사령부.md "wikilink"), [주한 미군](../Page/주한_미군.md "wikilink") 사령부를 지휘했던 [미국 육군의](../Page/미국_육군.md "wikilink") [대장이다](https://ko.wikipedia.org/wiki/대장_\(미국_육군\) "wikilink").

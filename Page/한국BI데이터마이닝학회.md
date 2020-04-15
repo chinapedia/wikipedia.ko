@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [BI](https://ko.wikipedia.org/wiki/BI).
+> This article is converted from Wikipedia: [한국BI데이터마이닝학회](https://ko.wikipedia.org/wiki/한국BI데이터마이닝학회).
 
 
 **한국BI데이터마이닝학회**(舊, 한국데이터 마이닝학회)는 [데이터 마이닝에](../Page/데이터_마이닝.md "wikilink") 관한 기술을 발전시키고 보급하며 응용하는 등 대한민국 내 정보기술 진흥에 기여할 목적으로, [2001년](../Page/2001년.md "wikilink") [4월 24일](../Page/4월_24일.md "wikilink") 설립된 [대한민국 정보통신부](../Page/대한민국_정보통신부.md "wikilink") 소관의 [사단법인](../Page/사단법인.md "wikilink")이다.\[1\]\[2\]

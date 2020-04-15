@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ATC  M02](https://ko.wikipedia.org/wiki/ATC__M02).
+> This article is converted from Wikipedia: [ATC 코드 M02](https://ko.wikipedia.org/wiki/ATC_코드_M02).
 
 
 **ATC 코드 M02**는 [ATC 코드의](https://ko.wikipedia.org/wiki/ATC_코드 "wikilink") 관절통 및 근육통을 위한 국소제제로 사용하는 약물을 정리한 코드이다. \[1\] **ATC 코드** M 근골격계의 하위그룹을 이룬다.

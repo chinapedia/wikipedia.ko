@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
+> This article is converted from Wikipedia: [할레셔 FC](https://ko.wikipedia.org/wiki/할레셔_FC).
 
 
 **할레셔 FC**(Hallescher FC)는 [독일](../Page/독일.md "wikilink") [작센안할트주](https://ko.wikipedia.org/wiki/작센안할트주 "wikilink") [할레](../Page/할레.md "wikilink")의 축구 클럽으로 현재는 [3. 리가에](../Page/3._리가.md "wikilink") 참가하고 있다. [독일 민주 공화국](https://ko.wikipedia.org/wiki/독일_민주_공화국 "wikilink")(동독) 수립 이전인 1946년에 창단되었으며 1952년 [DDR 오버리가에서](../Page/DDR_오버리가.md "wikilink") 우승을 차지한 경력이 있다. [독일의 재통일](../Page/독일의_재통일.md "wikilink") 이후인 1991-92 시즌에서 [2. 푸스볼-분데스리가에](https://ko.wikipedia.org/wiki/2._푸스볼-분데스리가 "wikilink") 속해 있었지만 한 시즌 만에 강등당했고 한때는 5부 리그로 강등되기도 했다.

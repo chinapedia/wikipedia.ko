@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [DOG in The   ](https://ko.wikipedia.org/wiki/DOG_in_The___).
+> This article is converted from Wikipedia: [DOG in The 패러렐 월드 오케스트라](https://ko.wikipedia.org/wiki/DOG_in_The_패러렐_월드_오케스트라).
 
 
 **DOG in The 패러렐 월드 오케스트라**()는 2009년 1월 1일에 결성된 일본의 [비주얼계](../Page/비주얼계.md "wikilink") 락 밴드 이다.

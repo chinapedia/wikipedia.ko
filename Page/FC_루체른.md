@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FC ](https://ko.wikipedia.org/wiki/FC_).
+> This article is converted from Wikipedia: [FC 루체른](https://ko.wikipedia.org/wiki/FC_루체른).
 
 
 **FC 루체른**(, )은 [루체른](../Page/루체른.md "wikilink")을 연고로 하는 [스위스](https://ko.wikipedia.org/wiki/스위스 "wikilink")의 [스포츠 클럽이다](https://ko.wikipedia.org/wiki/스포츠_클럽 "wikilink"). 프로 [축구](../Page/축구.md "wikilink")팀이 가장 유명하며, 스위스의 최상위 프로리그 [스위스 슈퍼리그에](../Page/스위스_슈퍼리그.md "wikilink") 참가하고 있다. 국내 리그 한 차례와 국내 컵 대회 두 차례 우승 경험이 있다.\[1\]\[2\]

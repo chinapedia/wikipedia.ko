@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [AaaaaAAaaaAAAaaAAAAaAAAAA!!!  A Reckless Disregard for Gravity](https://ko.wikipedia.org/wiki/AaaaaAAaaaAAAaaAAAAaAAAAA!!!__A_Reckless_Disregard_for_Gravity).
+> This article is converted from Wikipedia: [AaaaaAAaaaAAAaaAAAAaAAAAA!!! – A Reckless Disregard for Gravity](https://ko.wikipedia.org/wiki/AaaaaAAaaaAAAaaAAAAaAAAAA!!!_–_A_Reckless_Disregard_for_Gravity).
 
 
 《**AaaaaAAaaaAAAaaAAAAaAAAAA\!\!\! – A Reckless Disregard for Gravity**》(**Aaaaa\!** 라고 줄여쓴다.)는 Dejobaan Games에서 2009년 9월 3일 [윈도](https://ko.wikipedia.org/wiki/마이크로소프트_윈도 "wikilink") 및 [iOS](https://ko.wikipedia.org/wiki/iOS "wikilink") 용으로 출시된 시뮬레이션 비디오 게임이다. 플레이어는 가상으로 표현된 메사추세츠에서 높은 건물 위에서 베이스 점프(BASE jump)를 하며 가능한 높은 점수를 얻어야 한다.\[1\]\[2\]

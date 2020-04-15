@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [LG  LTE II](https://ko.wikipedia.org/wiki/LG__LTE_II).
+> This article is converted from Wikipedia: [LG 옵티머스 LTE II](https://ko.wikipedia.org/wiki/LG_옵티머스_LTE_II).
 
 
 **LG 옵티머스 LTE II** (LG Optimus LTE II)는 [LG전자](../Page/LG전자.md "wikilink")가 [2012년](../Page/2012년.md "wikilink") [5월 21일에](../Page/5월_21일.md "wikilink") 출시한 [안드로이드](../Page/안드로이드_\(운영_체제\).md "wikilink") [스마트폰](../Page/스마트폰.md "wikilink")이다. [옵티머스 LTE의](https://ko.wikipedia.org/wiki/옵티머스_LTE "wikilink") 후속 기종으로, [대한민국](../Page/대한민국.md "wikilink")에서만 출시되었다. [4.0.3 아이스크림 샌드위치가](https://ko.wikipedia.org/wiki/안드로이드_버전_역사 "wikilink") 탑재되었으며, 세계 최초로 2 [GB의](https://ko.wikipedia.org/wiki/기가바이트 "wikilink") [램](https://ko.wikipedia.org/wiki/램 "wikilink")이 장착되었다\[1\]. LG-F160LV는 VoLTE를 출시부터 지원한 모델이며, LG-F160L도 추후 업데이트를 통해 지원하게 되었다.

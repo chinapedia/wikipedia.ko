@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [The Beyonc Experience Live](https://ko.wikipedia.org/wiki/The_Beyonc_Experience_Live).
+> This article is converted from Wikipedia: [The Beyoncé Experience Live](https://ko.wikipedia.org/wiki/The_Beyoncé_Experience_Live).
 
 
 ***The Beyoncé Experience Live***는 미국의 알앤비 가수 [비욘세](../Page/비욘세.md "wikilink")의 비디오 DVD 음반으로 미국에서는 2007년 11월 20일 발매되었고,\[1\] 한국에서는 2007년 11월 23일 발매되었다. 이 DVD는 비욘세의 월드 투어인 [The Beyoncé Experience를](../Page/The_Beyoncé_Experience.md "wikilink") 2007년 9월 2일 로스앤젤레스에 위치한 스테이플 센터에서 녹음한 앨범이다. DVD에는 많은 게스트도 출연하는데, [제이-지](https://ko.wikipedia.org/wiki/제이-지 "wikilink")의 "Upgrade U" 그리고 [데스티니 차일드의](https://ko.wikipedia.org/wiki/데스티니_차일드 "wikilink") 전 맴버였던 미셸과 켈리 롤랜드가 출연해 "Survivor"을 불렀다.

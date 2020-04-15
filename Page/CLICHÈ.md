@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [CLICH](https://ko.wikipedia.org/wiki/CLICH).
+> This article is converted from Wikipedia: [CLICHÈ](https://ko.wikipedia.org/wiki/CLICHÈ).
 
 
 《**CLICHÈ**》(클리셰)는 [대한민국](../Page/대한민국.md "wikilink")의 [작곡가 겸 가수](https://ko.wikipedia.org/wiki/작곡가_겸_가수 "wikilink") [윤상](../Page/윤상.md "wikilink")의 세 번째 정규음반이다.

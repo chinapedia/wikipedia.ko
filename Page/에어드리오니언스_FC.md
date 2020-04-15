@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
+> This article is converted from Wikipedia: [에어드리오니언스 FC](https://ko.wikipedia.org/wiki/에어드리오니언스_FC).
 
 
 **에어드리오니언스 FC**(Airdrieonians Football Club, Airdrieonians F.C.)는 [1878년](../Page/1878년.md "wikilink")에 창단된 [스코틀랜드](../Page/스코틀랜드.md "wikilink") [에어드리의](../Page/에어드리_\(노스래너크셔\).md "wikilink") 축구 클럽으로, [2002년](../Page/2002년.md "wikilink") 2001-02 [스코틀랜드 풋볼 리그 1부](https://ko.wikipedia.org/wiki/스코틀랜드_풋볼_리그_1부 "wikilink") 시즌이 끝난 이후에 해체되었다. [1967년](../Page/1967년.md "wikilink") 서드 라나크(Third Lanark)가 파산되면서 해체된 이후부터 활동해 왔으며 현재 [에어드리 유나이티드 FC가](../Page/에어드리_유나이티드_FC.md "wikilink") 그 기록을 이어나가고 있다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ACD ](https://ko.wikipedia.org/wiki/ACD_).
+> This article is converted from Wikipedia: [ACD 트레비소](https://ko.wikipedia.org/wiki/ACD_트레비소).
 
 
 **ACD 트레비소**(Associazione Calcio Dilettanti Treviso)는 [1909년](../Page/1909년.md "wikilink")에 창단된 [이탈리아](../Page/이탈리아.md "wikilink")의 축구 클럽으로, [트레비소](../Page/트레비소.md "wikilink")를 연고지로 한다. 팀을 상징하는 색은 하늘색과 하얀색이다.

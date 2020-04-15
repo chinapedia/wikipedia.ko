@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [WWE    ](https://ko.wikipedia.org/wiki/WWE____).
+> This article is converted from Wikipedia: [WWE 트리뷰트 투 더 트루프스](https://ko.wikipedia.org/wiki/WWE_트리뷰트_투_더_트루프스).
 
 
 **WWE 트리뷰트 투 더 트루프스**(Tribute to the Troops)는 2003년부터 매해 크리스마스 시즌에 방영되고 있는 [WWE](https://ko.wikipedia.org/wiki/WWE "wikilink")의 연말 특집 프로그램이다. 이종격투기 단체 [UFC의](../Page/얼티밋_파이팅_챔피언십.md "wikilink") Fight For the Troops와 마찬가지로 미군들을 위한 헌정공연 형식으로 진행되는 프로그램이다. 본래 [이라크](../Page/이라크.md "wikilink")와 [아프가니스탄](https://ko.wikipedia.org/wiki/아프가니스탄 "wikilink")에 주둔하고 있는 미군을 위한 위문공연 형태로 진행되었으나 2010년부터 미국 내에 주둔하고 있는 군인들을 위해서 진행하고 있다.

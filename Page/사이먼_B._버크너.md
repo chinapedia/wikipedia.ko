@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ B. ](https://ko.wikipedia.org/wiki/_B._).
+> This article is converted from Wikipedia: [사이먼 B. 버크너](https://ko.wikipedia.org/wiki/사이먼_B._버크너).
 
 
 **시몬 볼리바르 버크너 주니어**(, 1886년 7월 18일 \~ 1945년 6월 18일)는 [미국](../Page/미국.md "wikilink")의 군인으로 [태평양 전쟁](../Page/태평양_전쟁.md "wikilink") 당시 [알래스카](https://ko.wikipedia.org/wiki/알래스카 "wikilink")를 방어하고 [오키나와 전투에서](../Page/오키나와_전투.md "wikilink") 수륙 양용 공격을 펼쳤으나 일본군의 포격으로 전사하였다. 그의 사후 1954년 7월 19일 국회에서 4성 장군으로 승진을 통과시켰다.

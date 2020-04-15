@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [AOT ](https://ko.wikipedia.org/wiki/AOT_).
+> This article is converted from Wikipedia: [AOT 컴파일](https://ko.wikipedia.org/wiki/AOT_컴파일).
 
 
 **AOT 컴파일**(ahead-of-time compile)은 목표 시스템의 기계어와 무관하게 중간 언어 형태로 배포된 후 목표 시스템에서 [인터프리터](../Page/인터프리터.md "wikilink")나 [JIT 컴파일](../Page/JIT_컴파일.md "wikilink") 등 기계어 번역을 통해 실행되는 중간 언어를 미리 목표 시스템에 맞는 기계어로 번역하는 방식을 지칭한다. 이런 중간 언어로는 [자바 바이트코드](../Page/자바_바이트코드.md "wikilink"), [공통 중간 언어](../Page/공통_중간_언어.md "wikilink")(Common Intermediate Language), IBM System/38 혹은 IBM System i의 기술 독립적 머신 인터페이스(Technology Independent Machine Interface)가 있으며 학계에서도 마이클 프란즈(Michael Franz)\[1\]가 제안해 오베론 시스템의 일부 구현에서 사용된 슬림 바이너리(Slim Binaries)와 같은 제안이 있었다.

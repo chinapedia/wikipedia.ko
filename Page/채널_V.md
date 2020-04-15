@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ V](https://ko.wikipedia.org/wiki/_V).
+> This article is converted from Wikipedia: [채널 V](https://ko.wikipedia.org/wiki/채널_V).
 
 
 **채널 \[V\]**(Channel \[V\], \[V\]音樂台, 채널브이)은 [아시아](../Page/아시아.md "wikilink") & [오세아니아](../Page/오세아니아.md "wikilink")지역 대상으로 방송하는 음악 & 엔터테인먼트 방송국이다. 이 방송국은 [STAR TV](../Page/STAR_TV.md "wikilink") & 폭스 인터내셔널 ([폭스 코퍼레이션](../Page/폭스_코퍼레이션.md "wikilink"))에서 관리하고 있다.

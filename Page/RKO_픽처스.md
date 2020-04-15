@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [RKO ](https://ko.wikipedia.org/wiki/RKO_).
+> This article is converted from Wikipedia: [RKO 픽처스](https://ko.wikipedia.org/wiki/RKO_픽처스).
 
 
-**RKO 라디오 픽처스** (RKO Radio Pictures)는 [미국](../Page/미국.md "wikilink")의 [영화](../Page/영화.md "wikilink") 제작 및 배급사였다. 흔히 **라디오 픽처스** 또는 **RKO 라디오 픽처스**로 불렸으며 줄여서 **RKO**라고도 불렸다. 이 영화사는 [1929년](../Page/1929년.md "wikilink")에 창립되어 [1940년대](https://ko.wikipedia.org/wiki/1940년대 "wikilink")에는 [할리우드](../Page/할리우드.md "wikilink") 8대 스튜디오의 5대 메이저 스튜디오에 속하였다.
+**RKO 라디오 픽처스**(RKO Radio Pictures)는 [미국](../Page/미국.md "wikilink")의 [영화](../Page/영화.md "wikilink") 제작 및 배급사였다. 흔히 **라디오 픽처스** 또는 **RKO 라디오 픽처스**로 불렸으며 줄여서 **RKO**라고도 불렸다. 이 영화사는 [1929년](../Page/1929년.md "wikilink")에 창립되어 [1940년대](https://ko.wikipedia.org/wiki/1940년대 "wikilink")에는 [할리우드](../Page/할리우드.md "wikilink") 8대 스튜디오의 5대 메이저 스튜디오에 속하였다.
 
 이 영화사는 《[시민 케인](../Page/시민_케인.md "wikilink")》을 배급한 회사로도 유명하며 또한 괴수영화 《[킹콩](../Page/킹콩_\(1933년_영화\).md "wikilink")》을 배급한 회사로도 유명하다. 또한 [디즈니가](../Page/월트_디즈니.md "wikilink") [1930년대](../Page/1930년대.md "wikilink")부터 [1950년대](../Page/1950년대.md "wikilink")까지 자신의 [부에나 비스타를](https://ko.wikipedia.org/wiki/부에나_비스타 "wikilink") 설립하기 전까지의 디즈니의 애니메이션을 배급하였으며 또한 [아스테어와](../Page/프레드_아스테어.md "wikilink") [로저스](../Page/진저_로저스.md "wikilink") 콤비도 여기에서 활약하였다.
 

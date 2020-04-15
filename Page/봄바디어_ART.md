@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ ART](https://ko.wikipedia.org/wiki/_ART).
+> This article is converted from Wikipedia: [봄바디어 ART](https://ko.wikipedia.org/wiki/봄바디어_ART).
 
 
 [thumb](https://ko.wikipedia.org/wiki/파일:Yosri042005PuteraLRT.JPG "wikilink")

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  FC](https://ko.wikipedia.org/wiki/__FC).
+> This article is converted from Wikipedia: [메스 케르만 FC](https://ko.wikipedia.org/wiki/메스_케르만_FC).
 
 
 **메스 케르만 FC**(, )은 [이란](../Page/이란.md "wikilink") [케르만](../Page/케르만.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽으로, 현재 [이란 프로리그에서](https://ko.wikipedia.org/wiki/이란_프로리그 "wikilink") 활동하고 있다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ FC  ](https://ko.wikipedia.org/wiki/_FC__).
+> This article is converted from Wikipedia: [첼시 FC의 기록과 통계](https://ko.wikipedia.org/wiki/첼시_FC의_기록과_통계).
 
 
 이 목록은 **[첼시 FC의](../Page/첼시_FC.md "wikilink") 기록**을 모아둔 목록이다.

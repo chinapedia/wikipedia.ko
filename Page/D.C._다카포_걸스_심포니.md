@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [D.C.   ](https://ko.wikipedia.org/wiki/D.C.___).
+> This article is converted from Wikipedia: [D.C. 다카포 걸스 심포니](https://ko.wikipedia.org/wiki/D.C._다카포_걸스_심포니).
 
 
 **D.C. 걸스 심포니**()는 일본 서커스사의 Sanctuary에서 발매된 [D.C. 다카포](../Page/D.C._다카포.md "wikilink")() 시리즈의 여성용 [미소년 게임이다](https://ko.wikipedia.org/wiki/미소년_게임 "wikilink").

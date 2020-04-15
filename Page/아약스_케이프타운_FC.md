@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  FC](https://ko.wikipedia.org/wiki/__FC).
+> This article is converted from Wikipedia: [아약스 케이프타운 FC](https://ko.wikipedia.org/wiki/아약스_케이프타운_FC).
 
 
 **아약스 케이프타운 FC**()는 [남아프리카 공화국](../Page/남아프리카_공화국.md "wikilink") [케이프타운](../Page/케이프타운.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다. 줄여서 **아약스 CT**()라고 부르기도 한다.

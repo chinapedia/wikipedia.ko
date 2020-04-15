@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TV](https://ko.wikipedia.org/wiki/TV).
+> This article is converted from Wikipedia: [연합뉴스TV](https://ko.wikipedia.org/wiki/연합뉴스TV).
 
 
 **연합뉴스TV**는 국가 기간 뉴스통신사인 [연합뉴스](../Page/연합뉴스.md "wikilink")가 대주주로 자회사 형태로 설립한 보도전문채널이다. [2011년](../Page/2011년.md "wikilink") [12월 1일](../Page/12월_1일.md "wikilink") 개국하여 케이블 채널 23번을 통하여 방송하고 있다.
@@ -21,8 +21,7 @@
   - [2012년](../Page/2012년.md "wikilink") [3월 7일](../Page/3월_7일.md "wikilink") : 대한공공의학회 업무협약 체결
   - [2013년](../Page/2013년.md "wikilink") [10월 19일](../Page/10월_19일.md "wikilink") : 사옥 이전(중구 수하동 을지로2가 미래에셋 센터원 빌딩→종로구 수송동 연합뉴스 신사옥)
   - [2014년](../Page/2014년.md "wikilink") [1월 6일](../Page/1월_6일.md "wikilink") : 뉴스와이 프로그램 개편
-  - [2015년](../Page/2015년.md "wikilink") [1월 5일](../Page/1월_5일.md "wikilink") : 채널명을 **(구)뉴스Y**에서 **연합뉴스TV**로 변경
-  - [2019년](../Page/2019년.md "wikilink") [4월 8일](../Page/4월_8일.md "wikilink") : 딩동댕 신설
+  - [2015년](../Page/2015년.md "wikilink") [1월 5일](../Page/1월_5일.md "wikilink") : 채널명을 **뉴스Y**에서 **연합뉴스TV**로 변경
 
 ## 아나운서
 
@@ -97,7 +96,7 @@
 ### 전직 아나운서
 
   - 남자 : [한규영](https://ko.wikipedia.org/wiki/한규영 "wikilink"), [윤길환](https://ko.wikipedia.org/wiki/윤길환 "wikilink") (현 MBN 기자), [김선근](../Page/김선근.md "wikilink") (현 KBS 아나운서), [박창현](../Page/박창현_\(아나운서\).md "wikilink") (현 MBC 아나운서), [박준수](https://ko.wikipedia.org/wiki/박준수 "wikilink"), [이재훈](../Page/이재훈.md "wikilink") (현 JRB 대표) [이태연](https://ko.wikipedia.org/wiki/이태연 "wikilink"), [이정섭](../Page/이정섭.md "wikilink") (현 KBC 광주방송 아나운서), [이민재](https://ko.wikipedia.org/wiki/이민재 "wikilink"), [박현식](../Page/박현식.md "wikilink"), [김도헌](https://ko.wikipedia.org/wiki/김도헌 "wikilink") (현 전주MBC 아나운서), [최창은](https://ko.wikipedia.org/wiki/최창은 "wikilink")
-  - 여자 :[김수민](https://ko.wikipedia.org/wiki/김수민 "wikilink"), [박연경](../Page/박연경.md "wikilink") (현 MBC 아나운서), [조승연](https://ko.wikipedia.org/wiki/조승연 "wikilink") (현 TV조선 앵커), [배경은](https://ko.wikipedia.org/wiki/배경은 "wikilink"), [서쥬리](https://ko.wikipedia.org/wiki/서쥬리 "wikilink") (현 KTV 한국정책방송 앵커), [신수민](../Page/신수민.md "wikilink"), [은예솔](https://ko.wikipedia.org/wiki/은예솔 "wikilink")(전 국회방송 아나운서), [김정](https://ko.wikipedia.org/wiki/김정_\(아나운서\) "wikilink"), [옥자영](https://ko.wikipedia.org/wiki/옥자영 "wikilink"), [허승하](https://ko.wikipedia.org/wiki/허승하 "wikilink"), [박지민](https://ko.wikipedia.org/wiki/박지민 "wikilink") (전 MBC 아나운서), [이윤정](https://ko.wikipedia.org/wiki/이윤정 "wikilink"), [박송이](https://ko.wikipedia.org/wiki/박송이 "wikilink"), [변정연](https://ko.wikipedia.org/wiki/변정연 "wikilink") (현 원주MBC 아나운서), [정보윤](https://ko.wikipedia.org/wiki/정보윤 "wikilink"), [김민형](https://ko.wikipedia.org/wiki/김민형 "wikilink") (현 SBS 아나운서), [박인애](https://ko.wikipedia.org/wiki/박인애 "wikilink"), [송서미](https://ko.wikipedia.org/wiki/송서미 "wikilink") (현 KBS24뉴스 아나운서), [김난영](https://ko.wikipedia.org/wiki/김난영 "wikilink"), [이경희](https://ko.wikipedia.org/wiki/이경희 "wikilink"), 강설이
+  - 여자 :[김수민](https://ko.wikipedia.org/wiki/김수민 "wikilink"), [박연경](../Page/박연경.md "wikilink") (현 MBC 아나운서), [조승연](https://ko.wikipedia.org/wiki/조승연 "wikilink") (현 TV조선 앵커), [배경은](https://ko.wikipedia.org/wiki/배경은 "wikilink"), [서쥬리](https://ko.wikipedia.org/wiki/서쥬리 "wikilink") (현 KTV 한국정책방송 앵커), [신수민](../Page/신수민.md "wikilink"), [은예솔](https://ko.wikipedia.org/wiki/은예솔 "wikilink")(전 국회방송 아나운서), [김정](https://ko.wikipedia.org/wiki/김정_\(아나운서\) "wikilink"), [옥자영](https://ko.wikipedia.org/wiki/옥자영 "wikilink"), [허승하](https://ko.wikipedia.org/wiki/허승하 "wikilink"), [박지민](https://ko.wikipedia.org/wiki/박지민 "wikilink") (현 MBC 아나운서), [이윤정](https://ko.wikipedia.org/wiki/이윤정 "wikilink"), [박송이](https://ko.wikipedia.org/wiki/박송이 "wikilink"), [변정연](https://ko.wikipedia.org/wiki/변정연 "wikilink") (현 원주MBC 아나운서), [정보윤](https://ko.wikipedia.org/wiki/정보윤 "wikilink"), [김민형](https://ko.wikipedia.org/wiki/김민형 "wikilink") (현 SBS 아나운서), [박인애](https://ko.wikipedia.org/wiki/박인애 "wikilink"), [송서미](https://ko.wikipedia.org/wiki/송서미 "wikilink") (현 KBS24뉴스 아나운서), [김난영](https://ko.wikipedia.org/wiki/김난영 "wikilink"), [이경희](https://ko.wikipedia.org/wiki/이경희 "wikilink"), 강설이
 
 ## 취재 기자
 
@@ -150,167 +149,26 @@
 
 ### 보도 프로그램
 
-  - **[뉴스오늘](../Page/뉴스오늘_\(연합뉴스TV\).md "wikilink")**
-
-<!-- end list -->
-
-  -
-    시간 : 매일 새벽 4시 25분 \~ 아침 6시 30분
-    진행 : [황인성](../Page/황인성.md "wikilink"), [박서현](https://ko.wikipedia.org/wiki/박서현 "wikilink")
-
-<!-- end list -->
-
-  - **[출발 640](../Page/출발_640.md "wikilink")**
-
-<!-- end list -->
-
-  -
-    시간 : 매일 아침 6시 30분 \~ 7시 50분
-    진행 : [이승준](https://ko.wikipedia.org/wiki/이승준 "wikilink"), [조서연](../Page/조서연.md "wikilink")
-
-<!-- end list -->
-
-  - **[라이브 투데이](https://ko.wikipedia.org/wiki/라이브_투데이 "wikilink")**
-
-<!-- end list -->
-
-  -
-    시간 : 평일 아침 7시 50분 \~ 8시 45분
-    진행 : [윤도현](../Page/윤도현.md "wikilink"), [이윤지](../Page/이윤지.md "wikilink")
-
-<!-- end list -->
-
-  - **[뉴스 09](https://ko.wikipedia.org/wiki/뉴스_09 "wikilink")**
-
-<!-- end list -->
-
-  -
-    시간 : 평일 아침 8시 45분 \~ 오전 9시 50분, 주말 오전 9시 \~ 10시
-    진행 : [이교욱](https://ko.wikipedia.org/wiki/이교욱 "wikilink"), [조서연](../Page/조서연.md "wikilink")
-
-<!-- end list -->
-
-  - **[뉴스포커스](https://ko.wikipedia.org/wiki/뉴스포커스_\(연합뉴스TV\) "wikilink")**
-
-<!-- end list -->
-
-  -
-    시간 : 평일 오전 9시 50분 \~ 11시 40분
-    진행 : [남현호](https://ko.wikipedia.org/wiki/남현호 "wikilink"), [김나연](https://ko.wikipedia.org/wiki/김나연 "wikilink")
-
-<!-- end list -->
-
-  - **[뉴스센터 12](../Page/뉴스센터_12.md "wikilink")**
-
-<!-- end list -->
-
-  -
-    시간 : 평일 오전 11시 40분 \~ 낮 12시 40분
-    진행 : [윤도현](../Page/윤도현.md "wikilink"), [이윤지](../Page/이윤지.md "wikilink")
-
-<!-- end list -->
-
-  - **[뉴스 13](https://ko.wikipedia.org/wiki/뉴스_13 "wikilink")**
-
-<!-- end list -->
-
-  -
-    시간 : 평일 낮 12시 40분 \~ 오후 1시 50분, 주말 오후 1시 \~ 2시
-    진행 : [이교욱](https://ko.wikipedia.org/wiki/이교욱 "wikilink"), [김나연](https://ko.wikipedia.org/wiki/김나연 "wikilink")
-
-<!-- end list -->
-
-  - **[6면시선 뉴스큐브](../Page/6면시선_뉴스큐브.md "wikilink")**
-
-<!-- end list -->
-
-  -
-    시간 : 평일 오후 1시 50분 \~ 3시 30분
-    진행 : [김승재](https://ko.wikipedia.org/wiki/김승재_\(아나운서\) "wikilink"), [성유미](https://ko.wikipedia.org/wiki/성유미 "wikilink")
-
-<!-- end list -->
-
-  - **[뉴스1번지](https://ko.wikipedia.org/wiki/뉴스1번지 "wikilink")**
-
-<!-- end list -->
-
-  -
-    시간 : 평일 오후 3시 30분 \~ 5시 30분, 일요일 오후 4시 \~ 5시
-    진행 : [박상률](https://ko.wikipedia.org/wiki/박상률 "wikilink"), [박가영](https://ko.wikipedia.org/wiki/박가영 "wikilink")
-
-<!-- end list -->
-
-  - **[뉴스워치](https://ko.wikipedia.org/wiki/뉴스워치 "wikilink")**
-
-<!-- end list -->
-
-  -
-    시간 : 평일 오후 5시 30분 \~ 저녁 6시 30분
-    진행 : [박영식](https://ko.wikipedia.org/wiki/박영식 "wikilink"), [이승희](https://ko.wikipedia.org/wiki/이승희 "wikilink")
-
-<!-- end list -->
-
-  - **[뉴스메이커](../Page/뉴스메이커_\(연합뉴스TV\).md "wikilink")**
-
-<!-- end list -->
-
-  -
-    시간 : 평일 저녁 6시 25분 \~ 7시 35분
-    진행 : [김민광](https://ko.wikipedia.org/wiki/김민광 "wikilink"), [류미정](https://ko.wikipedia.org/wiki/류미정 "wikilink")
-
-<!-- end list -->
-
-  - **[뉴스 20](https://ko.wikipedia.org/wiki/뉴스_20 "wikilink")**
-
-<!-- end list -->
-
-  -
-    시간 : 평일 저녁 7시 35분 \~ 8시 40분, 주말 저녁 8시 \~ 9시
-    진행 : [이남규](https://ko.wikipedia.org/wiki/이남규 "wikilink"), [조영빈](../Page/조영빈.md "wikilink")
-
-<!-- end list -->
-
-  - **[뉴스리뷰](https://ko.wikipedia.org/wiki/뉴스리뷰 "wikilink")**
-
-<!-- end list -->
-
-  -
-    시간 : 평일 저녁 8시 40분 \~ 밤 9시 40분
-    진행 : [김민광](https://ko.wikipedia.org/wiki/김민광 "wikilink"), 안애경
-
-<!-- end list -->
-
-  - **[뉴스투나잇](../Page/뉴스투나잇_\(연합뉴스TV\).md "wikilink") (주말 : [뉴스 23](../Page/뉴스투나잇_\(연합뉴스TV\).md "wikilink"))**
-
-<!-- end list -->
-
-  -
-    시간 : 평일 밤 9시 40분 \~ 12시, 주말 밤 11시 \~ 12시
-    진행 : [서태왕](https://ko.wikipedia.org/wiki/서태왕 "wikilink"), [류미정](https://ko.wikipedia.org/wiki/류미정 "wikilink")
-
-<!-- end list -->
-
-  - **[뉴스 24](https://ko.wikipedia.org/wiki/뉴스_24_\(연합뉴스TV\) "wikilink")**
-
-<!-- end list -->
-
-  -
-    시간 : 매일 밤 12시 \~ 새벽 1시
-    진행 : [안치용](https://ko.wikipedia.org/wiki/안치용 "wikilink"), [석지연](https://ko.wikipedia.org/wiki/석지연 "wikilink")
-
-<!-- end list -->
-
-  - **[토요와이드 / 일요와이드](https://ko.wikipedia.org/wiki/토요와이드_/_일요와이드 "wikilink")**
-
-<!-- end list -->
-
-  -
-    시간 : 주말 오전 11시 \~ 낮 12시 40분, 저녁 6시 \~ 7시 30분
-    진행 : 무작위
-
-<!-- end list -->
-
-  - **[생생네트워크](https://ko.wikipedia.org/wiki/생생네트워크 "wikilink") (Vivid Network)**
+| 프로그램명                                                                                                  | 방송 시간                                                                                                 | 앵커                                                                                                       |
+| ------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
+| 뉴스 01\~04                                                                                              | 평일 새벽 1시 \~ 4시 25분                                                                                    | 오세혁, 박서현                                                                                                 |
+| [뉴스오늘](https://ko.wikipedia.org/wiki/뉴스오늘 "wikilink")                                                  | 매일 새벽 4시 30분 \~ 오전 6시 30분                                                                             | [김민광](https://ko.wikipedia.org/wiki/김민광 "wikilink"), [이승희](https://ko.wikipedia.org/wiki/이승희 "wikilink") |
+| [출발 640](../Page/출발_640.md "wikilink")                                                                 | 평일 오전 6시 30분 \~ 7시30분                                                                                 | [김승재](https://ko.wikipedia.org/wiki/김승재 "wikilink"), [이나연](https://ko.wikipedia.org/wiki/이나연 "wikilink") |
+| [라이브 투데이](https://ko.wikipedia.org/wiki/라이브_투데이 "wikilink")                                            | 평일 오전 7시 50분 \~ 8시 45분                                                                                | [서태왕](https://ko.wikipedia.org/wiki/서태왕 "wikilink"), [류미정](https://ko.wikipedia.org/wiki/류미정 "wikilink") |
+| [뉴스 09](https://ko.wikipedia.org/wiki/뉴스_09 "wikilink")                                                | 평일 오후 8시 45분 \~ 9시 50분, 주말 오전 9시 \~ 10시                                                               | [이교육](https://ko.wikipedia.org/wiki/이교육 "wikilink"), [이나연](https://ko.wikipedia.org/wiki/이나연 "wikilink") |
+| [뉴스포커스](https://ko.wikipedia.org/wiki/뉴스포커스_\(연합뉴스TV\) "wikilink")                                     | 평일 오전 9시 50분 \~ 11시 40분                                                                               | [남현종](https://ko.wikipedia.org/wiki/남현종 "wikilink"), [김나연](https://ko.wikipedia.org/wiki/김나연 "wikilink") |
+| [뉴스센터 12](../Page/뉴스센터_12.md "wikilink")                                                               | 평일 오전 11시 40분 \~ 오후 12시 40분 , 주말 오후 12시 \~ 1시 [뉴스 12](https://ko.wikipedia.org/wiki/뉴스_12 "wikilink") | [서태왕](https://ko.wikipedia.org/wiki/서태왕 "wikilink"), [석지연](https://ko.wikipedia.org/wiki/석지연 "wikilink") |
+| [뉴스 13](https://ko.wikipedia.org/wiki/뉴스_13 "wikilink")                                                | 평일 오후 12시 40분 \~ 1시 50분 , 주말 오후 1시 \~ 2시                                                              | [이교육](https://ko.wikipedia.org/wiki/이교육 "wikilink"), [류미정](https://ko.wikipedia.org/wiki/류미정 "wikilink") |
+| [6면시선 뉴스큐브](../Page/6면시선_뉴스큐브.md "wikilink")                                                           | 평일 오후 1시 50분 \~ 3시 30분                                                                                | [박영식](https://ko.wikipedia.org/wiki/박영식 "wikilink"), [이윤지](../Page/이윤지.md "wikilink")                    |
+| [뉴스1번지](https://ko.wikipedia.org/wiki/뉴스1번지 "wikilink")                                                | 평일 오후 3시 30분 \~ 5시 30분, 주말 오후 4시 \~ 5시                                                                | [정호윤](https://ko.wikipedia.org/wiki/정호윤 "wikilink"), [박가영](https://ko.wikipedia.org/wiki/박가영 "wikilink") |
+| [뉴스워치](https://ko.wikipedia.org/wiki/뉴스워치 "wikilink")                                                  | 평일 오후 5시 30분 \~ 6시 25분                                                                                | [이승준](https://ko.wikipedia.org/wiki/이승준 "wikilink"), [조영빈](../Page/조영빈.md "wikilink")                    |
+| [뉴스메이커](../Page/뉴스메이커_\(연합뉴스TV\).md "wikilink")                                                        | 평일 오후 6시 25분 \~ 7시 35분                                                                                | [윤도현](../Page/윤도현.md "wikilink"), [조서연](../Page/조서연.md "wikilink")                                       |
+| [뉴스 20](https://ko.wikipedia.org/wiki/뉴스_20 "wikilink")                                                | 평일 오후 7시 35분 \~ 8시 40분, 주말 8시 \~ 9시                                                                   | [이승준](https://ko.wikipedia.org/wiki/이승준 "wikilink"), [이가은](https://ko.wikipedia.org/wiki/이가은 "wikilink") |
+| [뉴스리뷰](https://ko.wikipedia.org/wiki/뉴스리뷰 "wikilink")                                                  | 평일 오후 8시 40분 \~ 3시 30분                                                                                | [황인성](../Page/황인성.md "wikilink"), [안애경](https://ko.wikipedia.org/wiki/안애경 "wikilink")                    |
+| [뉴스투나잇](../Page/뉴스투나잇_\(연합뉴스TV\).md "wikilink") (주말 : [뉴스 23](../Page/뉴스투나잇_\(연합뉴스TV\).md "wikilink")) | 평일 밤 9시 40분 \~ 밤 12시, 주말 밤 11시 \~ 12시                                                                 | [박영식](https://ko.wikipedia.org/wiki/박영식 "wikilink"), [성유미](https://ko.wikipedia.org/wiki/성유미 "wikilink") |
+| [뉴스 24](https://ko.wikipedia.org/wiki/뉴스_24_\(연합뉴스TV\) "wikilink")                                     | 평일 밤 12시 \~ 새벽 1시                                                                                     | [황인성](../Page/황인성.md "wikilink"), [이가은](https://ko.wikipedia.org/wiki/이가은 "wikilink")                    |
+| [토요와이드 / 일요와이드](https://ko.wikipedia.org/wiki/토요와이드_/_일요와이드 "wikilink")                                | 주말 오전 11시 \~ 낮 12시 40분, 저녁 6시 \~ 7시 30분                                                               | 진행 : 무작위                                                                                                 |
+|                                                                                                        |                                                                                                       |                                                                                                          |
 
 ### 교양 프로그램
 
@@ -359,8 +217,8 @@
 
   - 뉴스와이 5 (2011년 12월 1일 \~ 2012년 9월)
   - 평일 06:00 뉴스Y 매시간 정시 뉴스 (2011년 12월 1일 \~ 2012년 9월)
-  - 평일 07:00 뉴스Y 매시간 정시 뉴스 (2011년 12월 1일 \~ 2013년 8월2일)
-  - 주말 07:00 뉴스Y 매시간 정시 뉴스 (2011년 12월 3일 \~ 2014년 7월27일)
+  - 평일 07:00 뉴스Y 매시간 정시 뉴스 (2011년 12월 1일 \~ 2013년 8월 2일)
+  - 주말 07:00 뉴스Y 매시간 정시 뉴스 (2011년 12월 3일 \~ 2014년 7월 27일)
   - 뉴스와이 16 (2011년 12월 1일 \~ 2012년 9월)
   - 평일 17:00 뉴스Y 매시간 정시 뉴스 (2011년 12월 1일 \~ 2012년 9월)
   - 평일 18:00 뉴스Y 매시간 정시 뉴스 (2011년 12월 1일 \~ 2012년 9월)
@@ -423,7 +281,7 @@
   - [연합뉴스TV 공식 블로그](http://yonhapnewstv.tistory.com/)
   - [29만원' 전두환 추징금 얼마나 환수했나](https://www.youtube.com/watch?feature=youtu.be&v=xqG83Ue6mkg&app=desktop&persist_app=1'전재산)
 
-[분류:텔레비전 뉴스 네트워크](https://ko.wikipedia.org/wiki/분류:텔레비전_뉴스_네트워크 "wikilink") [분류:2011년 설립된 텔레비전 방송국과 채널](https://ko.wikipedia.org/wiki/분류:2011년_설립된_텔레비전_방송국과_채널 "wikilink") [분류:연합뉴스](https://ko.wikipedia.org/wiki/분류:연합뉴스 "wikilink") [분류:대한민국의 텔레비전 케이블 방송국](https://ko.wikipedia.org/wiki/분류:대한민국의_텔레비전_케이블_방송국 "wikilink")
+[분류:텔레비전 뉴스 네트워크](https://ko.wikipedia.org/wiki/분류:텔레비전_뉴스_네트워크 "wikilink") [분류:2011년 설립된 텔레비전 방송국과 채널](https://ko.wikipedia.org/wiki/분류:2011년_설립된_텔레비전_방송국과_채널 "wikilink") [분류:2015년 폐지된 텔레비전 방송국과 채널](https://ko.wikipedia.org/wiki/분류:2015년_폐지된_텔레비전_방송국과_채널 "wikilink") [분류:연합뉴스](https://ko.wikipedia.org/wiki/분류:연합뉴스 "wikilink") [분류:대한민국의 텔레비전 케이블 방송국](https://ko.wikipedia.org/wiki/분류:대한민국의_텔레비전_케이블_방송국 "wikilink")
 
 1.
 2.

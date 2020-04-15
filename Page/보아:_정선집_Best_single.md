@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:  Best single](https://ko.wikipedia.org/wiki/:__Best_single).
+> This article is converted from Wikipedia: [보아: 정선집 Best single](https://ko.wikipedia.org/wiki/보아:_정선집_Best_single).
 
 
 〈**보아: 정선집 Best single**〉은 [대한민국](../Page/대한민국.md "wikilink") 여자 가수 [보아](../Page/보아.md "wikilink")가 중국에서 발표한 앨범이다. 한국에서 발매한 첫 번째 싱글 [DOUBLE](https://ko.wikipedia.org/wiki/DOUBLE "wikilink"), 두 번째 싱글 [Rock With You](https://ko.wikipedia.org/wiki/Rock_With_You "wikilink"), 세 번째 싱글 [Merry-Chri](https://ko.wikipedia.org/wiki/Merry-Chri "wikilink")의 수록곡들로 구성된 싱글 베스트 판이다. 새롭게 중국어 버전으로 제작하지 않고, 한국어 버전 그대로 실렸다. 또한, [DOUBLE](https://ko.wikipedia.org/wiki/DOUBLE "wikilink")과 [Merry-Chri](https://ko.wikipedia.org/wiki/Merry-Chri "wikilink")의 뮤직비디오가 수록된 VCD가 첨부되었다.

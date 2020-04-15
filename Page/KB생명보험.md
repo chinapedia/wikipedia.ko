@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KB](https://ko.wikipedia.org/wiki/KB).
+> This article is converted from Wikipedia: [KB생명보험](https://ko.wikipedia.org/wiki/KB생명보험).
 
 
 [180px](https://ko.wikipedia.org/wiki/파일:KB_logo.svg "wikilink")

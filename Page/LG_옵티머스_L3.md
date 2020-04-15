@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [LG  L3](https://ko.wikipedia.org/wiki/LG__L3).
+> This article is converted from Wikipedia: [LG 옵티머스 L3](https://ko.wikipedia.org/wiki/LG_옵티머스_L3).
 
 
 **LG 옵티머스 L3**(LG Optimus L3)는 [LG전자](../Page/LG전자.md "wikilink")에서 [2012년](../Page/2012년.md "wikilink") [2월](../Page/2월.md "wikilink")에 출시한 보급형 [안드로이드](../Page/안드로이드_\(운영_체제\).md "wikilink") [스마트폰](../Page/스마트폰.md "wikilink")이다.

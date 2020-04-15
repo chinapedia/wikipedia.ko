@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [BRST ](https://ko.wikipedia.org/wiki/BRST_).
+> This article is converted from Wikipedia: [BRST 양자화](https://ko.wikipedia.org/wiki/BRST_양자화).
 
 
 **BRST 양자화**() 또는 **베키-루에-스토라-튜틴 양자화**()는 [게이지 이론을](../Page/게이지_이론.md "wikilink") [양자화하는](../Page/양자화_\(물리학\).md "wikilink") 한 방법이다. 게이지 이론은 비물리적인 대칭 (게이지 대칭)을 지녀 그냥 양자화하기 어렵다. 게이지 대칭을 무시하고 그냥 양자화하면 그 [힐베르트 공간이](../Page/힐베르트_공간.md "wikilink") 양의 정부호의 내적을 얻지 못한다. 따라서 상태공간에 차수(grading)를 붙이고 [코호몰로지](https://ko.wikipedia.org/wiki/코호몰로지 "wikilink")를 만들어 물리적 힐베르트 공간을 얻는다.

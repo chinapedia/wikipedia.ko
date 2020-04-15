@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ECW   ](https://ko.wikipedia.org/wiki/ECW___).
+> This article is converted from Wikipedia: [ECW 월드 텔레비전 챔피언십](https://ko.wikipedia.org/wiki/ECW_월드_텔레비전_챔피언십).
 
 
 **ECW 월드 텔레비전 챔피언십**(ECW World Television Championship) [ECW](https://ko.wikipedia.org/wiki/ECW "wikilink")의 타이틀이었다. 1992년 [NWA](https://ko.wikipedia.org/wiki/NWA "wikilink")에서 '이스턴 챔피언십 레슬링', 이하 ECW에서 **NWA ECW 텔레비전 챔피언십**이란 이름으로 활동하다가, 1994년 ECW가 NWA에서 탈퇴하면서 ECW을 '익스트림 챔피언십 레슬링'으로 바뀜과 동시어 **ECW 월드 텔레비전 챔피언십**으로 활약을 펼쳤다. ECW단체 에서는 중간급 챔피언십으로써 ECW의 [트리플 크라운 챔피언십에](../Page/트리플_크라운_챔피언십.md "wikilink") 필요한 챔피언 타이틀이기도 하였다. 그러나 2001년 ECW는 [WWE](https://ko.wikipedia.org/wiki/WWE "wikilink")에 몰락/흡수당하면서 본 타이틀이 역사속으로 사라지게 되었다.

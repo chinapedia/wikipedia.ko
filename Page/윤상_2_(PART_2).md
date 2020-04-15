@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ 2 \(PART 2\)](https://ko.wikipedia.org/wiki/_2_\(PART_2\)).
+> This article is converted from Wikipedia: [윤상 2 \(PART 2\)](https://ko.wikipedia.org/wiki/윤상_2_\(PART_2\)).
 
 
 《**윤상 2 (PART 2)**》는 [대한민국](../Page/대한민국.md "wikilink")의 [작곡가 겸 가수](https://ko.wikipedia.org/wiki/작곡가_겸_가수 "wikilink") [윤상](../Page/윤상.md "wikilink")의 음반이다. 두 번째 앨범은 더블앨범으로 제작되어 [Part 1과](../Page/윤상_2_\(PART_1\).md "wikilink") Part 2가 1년의 시차를 두고 따로 발매되었는데, 그 두 번째 파트 앨범이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [X: ](https://ko.wikipedia.org/wiki/X:_).
+> This article is converted from Wikipedia: [X³: 리유니온](https://ko.wikipedia.org/wiki/X³:_리유니온).
 
 
 《**X³: 리유니온**》(X³: Reunion)은 EGOSOFT사가 개발하고 딥 실버가 발행한 [싱글 플레이](https://ko.wikipedia.org/wiki/싱글_플레이 "wikilink") [우주](../Page/우주.md "wikilink") [무역](https://ko.wikipedia.org/wiki/무역 "wikilink") 및 [우주](../Page/우주.md "wikilink") [전투](../Page/전투.md "wikilink") [시뮬레이션](../Page/시뮬레이션.md "wikilink") [게임](../Page/게임.md "wikilink")이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KBS ](https://ko.wikipedia.org/wiki/KBS_).
+> This article is converted from Wikipedia: [KBS 걸작선](https://ko.wikipedia.org/wiki/KBS_걸작선).
 
 
 **KBS 걸작선**은 [2005년](../Page/2005년.md "wikilink") [10월 31일부터](../Page/10월_31일.md "wikilink") [2015년](../Page/2015년.md "wikilink") [4월 17일까지](../Page/4월_17일.md "wikilink") [KBS 1TV의](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink") 통하여 재방송된 [텔레비전 드라마의](../Page/텔레비전_드라마.md "wikilink") 총칭이다.

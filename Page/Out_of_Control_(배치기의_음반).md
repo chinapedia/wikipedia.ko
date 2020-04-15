@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Out of Control \( \)](https://ko.wikipedia.org/wiki/Out_of_Control_\(_\)).
+> This article is converted from Wikipedia: [Out of Control \(배치기의 음반\)](https://ko.wikipedia.org/wiki/Out_of_Control_\(배치기의_음반\)).
 
 
 《**Out of Control**》은 [배치기](../Page/배치기.md "wikilink")의 세 번째 정규 앨범이다. [2008년](../Page/2008년.md "wikilink") [6월 9일에](../Page/6월_9일.md "wikilink") 발매 되었다.

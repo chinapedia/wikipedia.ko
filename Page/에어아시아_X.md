@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ X](https://ko.wikipedia.org/wiki/_X).
+> This article is converted from Wikipedia: [에어아시아 X](https://ko.wikipedia.org/wiki/에어아시아_X).
 
 
 **에어아시아 X**()는 [말레이시아](../Page/말레이시아.md "wikilink") [쿠알라룸푸르](../Page/쿠알라룸푸르.md "wikilink")에 본사를 둔 [저비용 항공사로](../Page/저비용_항공사.md "wikilink"), [허브 공항은](../Page/허브_공항.md "wikilink") [쿠알라룸푸르 국제공항이](https://ko.wikipedia.org/wiki/쿠알라룸푸르_국제공항 "wikilink") 있다.

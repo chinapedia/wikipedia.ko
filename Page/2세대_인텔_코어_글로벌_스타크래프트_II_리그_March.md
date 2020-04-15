@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [2     II  March](https://ko.wikipedia.org/wiki/2_____II__March).
+> This article is converted from Wikipedia: [2세대 인텔 코어 글로벌 스타크래프트 II 리그 March](https://ko.wikipedia.org/wiki/2세대_인텔_코어_글로벌_스타크래프트_II_리그_March).
 
 
 **2세대 인텔 코어 글로벌 스타크래프트 II 리그 March**(2nd Generation Intel Core Global StarCraft II League March)는 [글로벌 스타크래프트 II 리그](https://ko.wikipedia.org/wiki/글로벌_스타크래프트_II_리그 "wikilink") 2011 GSL 투어의 세 번째 대회로 [2011년](../Page/2011년.md "wikilink") [2월 21일에](../Page/2월_21일.md "wikilink") 개막하였고 이대회를 시작으로 애니박스에서 GSL을 방영하기 시작했다.

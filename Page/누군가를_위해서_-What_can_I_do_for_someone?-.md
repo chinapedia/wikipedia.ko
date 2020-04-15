@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  -What can I do for someone\?-](https://ko.wikipedia.org/wiki/__-What_can_I_do_for_someone\?-).
+> This article is converted from Wikipedia: [누군가를 위해서 -What can I do for someone\?-](https://ko.wikipedia.org/wiki/누군가를_위해서_-What_can_I_do_for_someone\?-).
 
 
 〈**누군가를 위해서 -What can I do for someone?-〈디지털 싱글 한정 채리티 송〉**〉(誰かのために -What can I do for someone?-<配信限定チャリティソング>)은 [일본](../Page/일본.md "wikilink")의 [아이돌](https://ko.wikipedia.org/wiki/아이돌 "wikilink") [AKB48](../Page/AKB48.md "wikilink")의 디지털 싱글이다. 2011년 4월 1일에 공개되었다.

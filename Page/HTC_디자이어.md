@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [HTC ](https://ko.wikipedia.org/wiki/HTC_).
+> This article is converted from Wikipedia: [HTC 디자이어](https://ko.wikipedia.org/wiki/HTC_디자이어).
 
 
 **HTC 디자이어**(HTC Desire, 코드이름: Bravo\[1\])는 [HTC가](../Page/HTC_\(기업\).md "wikilink") 개발한 [스마트폰](../Page/스마트폰.md "wikilink")으로, 2010년 2월 16일에 발표하여 같은 해 2/4 분기에 유럽과 오스트레일리아에 출시하였다. HTC 디자이어는 기본적으로 [안드로이드](../Page/안드로이드_\(운영_체제\).md "wikilink") 2.1 버전 이클레어를 구동하고, 안드로이드 2.2 버전 프로요를 업데이트를 통해 사용할 수 있다. 내부적으로 [넥서스 원과](../Page/넥서스_원.md "wikilink") 매우 비슷하지만 몇 가지 기능에서 차이가 있다. [넥서스 원과](../Page/넥서스_원.md "wikilink") 마찬가지로 출시 초기에는 [AM OLED](../Page/능동형_유기_발광_다이오드.md "wikilink") 화면을 채용하였으나, 공급 물량 부족으로 [2010년](../Page/2010년.md "wikilink") 7월 말 이후 생산된 제품에서는 [TFT-LCD](../Page/박막_트랜지스터_액정_디스플레이.md "wikilink") 화면으로 교체되었다.

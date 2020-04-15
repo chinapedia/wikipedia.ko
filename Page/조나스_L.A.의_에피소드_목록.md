@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ L.A.  ](https://ko.wikipedia.org/wiki/_L.A.__).
+> This article is converted from Wikipedia: [조나스 L.A.의 에피소드 목록](https://ko.wikipedia.org/wiki/조나스_L.A.의_에피소드_목록).
 
 
 ## 시즌 1: 2009-2010

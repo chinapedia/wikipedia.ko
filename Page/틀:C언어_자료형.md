@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:C ](https://ko.wikipedia.org/wiki/:C_).
+> This article is converted from Wikipedia: [틀:C언어 자료형](https://ko.wikipedia.org/wiki/틀:C언어_자료형).
 
 
 <onlyinclude>{| align="right" class="toccolours" style="width: 250px; margin: 0 0 1em 1em; font-size: 88%; float:right; clear:both; border-color: \#b0c0ff;" |- style="background:\#f8f8f8" \! style="border-bottom: 2px solid \#50505f"" | C 언어 자료형 |- |

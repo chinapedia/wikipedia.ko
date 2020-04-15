@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [HMS  \(L12\)](https://ko.wikipedia.org/wiki/HMS__\(L12\)).
+> This article is converted from Wikipedia: [HMS 오션 \(L12\)](https://ko.wikipedia.org/wiki/HMS_오션_\(L12\)).
 
 
 **HMS 오션**은 영국 해군의 [강습상륙함](../Page/강습상륙함.md "wikilink")이다.

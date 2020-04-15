@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ RX-7](https://ko.wikipedia.org/wiki/_RX-7).
+> This article is converted from Wikipedia: [마쓰다 RX-7](https://ko.wikipedia.org/wiki/마쓰다_RX-7).
 
 
 **마쓰다 RX-7**(Mazda RX-7)은 [일본](../Page/일본.md "wikilink") [마쓰다](../Page/마쓰다.md "wikilink")의 스포츠카이다. 차명인 RX-7은 [로터리 엔진을](../Page/로터리_엔진.md "wikilink") 상징하는 R, 미래를 상징하는 기호를 상징하는 X, [마쓰다](../Page/마쓰다.md "wikilink")에서의 차격을 나타내는 숫자 중 7을 조합한 것이다.

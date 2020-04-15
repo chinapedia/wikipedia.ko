@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [\~R](https://ko.wikipedia.org/wiki/\~R).
+> This article is converted from Wikipedia: [탄트\~R](https://ko.wikipedia.org/wiki/탄트\~R).
 
 
 **《탄트\~R》** (Puzzle & Action Tant-R, )은 [1993년](../Page/1993년.md "wikilink") [세가](https://ko.wikipedia.org/wiki/세가 "wikilink")에서 출시한 퍼즐모음 게임이다.

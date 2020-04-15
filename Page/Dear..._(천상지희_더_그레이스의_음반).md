@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Dear... \(   \)](https://ko.wikipedia.org/wiki/Dear..._\(___\)).
+> This article is converted from Wikipedia: [Dear... \(천상지희 더 그레이스의 음반\)](https://ko.wikipedia.org/wiki/Dear..._\(천상지희_더_그레이스의_음반\)).
 
 
 | 이 앨범에 수록된 싱글                                                               |

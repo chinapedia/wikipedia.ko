@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [XL  ](https://ko.wikipedia.org/wiki/XL__).
+> This article is converted from Wikipedia: [XL 에어웨이스 독일](https://ko.wikipedia.org/wiki/XL_에어웨이스_독일).
 
 
-**XL 에어웨이스 독일** ()은 [독일](../Page/독일.md "wikilink")의 전세 항공사로 [2006년](../Page/2006년.md "wikilink")에 설립했다. 또한 사용하고 있는 [허브 공항으로](../Page/허브_공항.md "wikilink") [프랑크푸르트 공항이](https://ko.wikipedia.org/wiki/프랑크푸르트_공항 "wikilink") 있다.
+**XL 에어웨이스 독일**()은 [독일](../Page/독일.md "wikilink")의 전세 항공사로 [2006년](../Page/2006년.md "wikilink")에 설립했다. 또한 사용하고 있는 [허브 공항으로](../Page/허브_공항.md "wikilink") [프랑크푸르트 공항이](https://ko.wikipedia.org/wiki/프랑크푸르트_공항 "wikilink") 있다.
 
 ## 역사
 

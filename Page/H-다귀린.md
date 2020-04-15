@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [H-](https://ko.wikipedia.org/wiki/H-).
+> This article is converted from Wikipedia: [H-다귀린](https://ko.wikipedia.org/wiki/H-다귀린).
 
 
 **H-다귀린**()은 [아이슬란드](../Page/아이슬란드.md "wikilink")의 통행 방식이 왼쪽에서 오른쪽으로 전환된 1968년 5월 26일을 가리킨다.\[1\] 공식적으로 전환된 시간은 이 날 오전 6시이다.

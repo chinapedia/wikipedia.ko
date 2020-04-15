@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FIBA   ](https://ko.wikipedia.org/wiki/FIBA___).
+> This article is converted from Wikipedia: [FIBA 아시아 선수권 대회](https://ko.wikipedia.org/wiki/FIBA_아시아_선수권_대회).
 
 
 **아시아 남자 농구 선수권 대회**()은 농구 분야의 국제 기구인 [FIBA에](../Page/국제_농구_연맹.md "wikilink") 가맹한 아시아 농구 협회(연맹)의 남자 농구 국가대표팀이 참가하는 국제 [농구](../Page/농구.md "wikilink") 대회이다.

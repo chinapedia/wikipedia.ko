@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TAI ](https://ko.wikipedia.org/wiki/TAI_).
+> This article is converted from Wikipedia: [TAI 안카](https://ko.wikipedia.org/wiki/TAI_안카).
 
 
 **TAI 안카**는 터키의 [TAI](https://ko.wikipedia.org/wiki/TAI "wikilink")가 개발중인 중고도 무인항공기이다. 안카A는 정찰기, 안카B는 공격기로 개발할 계획이다. 2010년 초도비행에 성공했으며, 2012년 실전배치할 계획이다. 단가는 1억700만 달러(1070억원)이다.

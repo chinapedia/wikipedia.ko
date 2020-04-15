@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  duet with  ](https://ko.wikipedia.org/wiki/__duet_with__).
+> This article is converted from Wikipedia: [설득하면서 아자부주반 duet with 미노 몬타](https://ko.wikipedia.org/wiki/설득하면서_아자부주반_duet_with_미노_몬타).
 
 
 〈**설득하면서 아자부쥬반 duet with 미노 몬타**〉()는 [SDN48](../Page/SDN48.md "wikilink")의 4번째 [싱글](https://ko.wikipedia.org/wiki/싱글 "wikilink")이다. 2011년 12월 28일, [유니버설 뮤직을](../Page/유니버설_뮤직_그룹.md "wikilink") 통해 발매되었다.

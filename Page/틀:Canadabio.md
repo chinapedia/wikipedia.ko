@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Canadabio](https://ko.wikipedia.org/wiki/:Canadabio).
+> This article is converted from Wikipedia: [틀:Canadabio](https://ko.wikipedia.org/wiki/틀:Canadabio).
 
 
 }}} }}}

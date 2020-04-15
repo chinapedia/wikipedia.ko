@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [BBC  5 ](https://ko.wikipedia.org/wiki/BBC__5_).
+> This article is converted from Wikipedia: [BBC 라디오 5 라이브](https://ko.wikipedia.org/wiki/BBC_라디오_5_라이브).
 
 
 [오른쪽](https://ko.wikipedia.org/wiki/파일:Logo_BBC_Radio_5_Live.svg "wikilink") **BBC 라디오 5 라이브**(BBC Radio 5 Live)는 [BBC의](../Page/영국방송공사.md "wikilink") 라디오 방송 중 하나이다. 주 편성은 스포츠와 뉴스를 중심으로 하며, 긴급 시 뉴스 속보 프로그램도 방송한다.

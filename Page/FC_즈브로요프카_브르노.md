@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FC  ](https://ko.wikipedia.org/wiki/FC__).
+> This article is converted from Wikipedia: [FC 즈브로요프카 브르노](https://ko.wikipedia.org/wiki/FC_즈브로요프카_브르노).
 
 
 **FC 즈브로요프카 브르노**(FC Zbrojovka Brno)는 [체코](../Page/체코.md "wikilink")의 축구 클럽으로, [브르노](../Page/브르노.md "wikilink")를 연고지로 한다. 2011-12 시즌에서 [체코 2부 리그에](https://ko.wikipedia.org/wiki/체코_2부_리그 "wikilink") 참가하고 있다.

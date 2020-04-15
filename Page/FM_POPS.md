@@ -30,7 +30,7 @@
   - [세계음악기행](../Page/세계음악기행.md "wikilink") ([EBS FM](../Page/EBS_FM.md "wikilink"))
   - [두시의 데이트 뮤지, 안영미입니다](../Page/두시의_데이트.md "wikilink") ([MBC FM4U](../Page/MBC_FM4U.md "wikilink"))
   - [두시탈출 컬투쇼](../Page/두시탈출_컬투쇼.md "wikilink") ([SBS 파워FM](../Page/SBS_파워FM.md "wikilink"))
-  - 최일구의 허리케인 라디오 ([TBS](../Page/교통방송.md "wikilink") FM)
+  - 최일구의 허리케인 라디오 ([TBS](../Page/TBS_\(대한민국의_방송사\).md "wikilink") FM)
 
 ### 보급형 방송 채널
 
@@ -38,8 +38,6 @@
   - [황정민의 뮤직쇼](../Page/뮤직쇼.md "wikilink") ([KBS 쿨FM](../Page/KBS_제2FM.md "wikilink"))
   - 바투의 상사디야 (평일) ([국악방송](../Page/국악방송.md "wikilink"))
   - 정진권, 방수미의 온고을 상사디야 (주말) ([국악방송](../Page/국악방송.md "wikilink"))
-  - [오늘의 문제 김경식입니다](../Page/오늘의_문제.md "wikilink") (평일) ([경기방송](../Page/경기방송.md "wikilink"))
-  - [김동혁의 골든박스 탑텐](../Page/김동혁의_골든박스_탑텐.md "wikilink") (주말) ([경기방송](../Page/경기방송.md "wikilink"))
   - 조수연의 뿜뿜 라디오 ([경인방송](../Page/경인방송.md "wikilink"))
   - 너를 사랑하기에 전유나입니다 (평일) ([국방FM](../Page/국방FM.md "wikilink"))
   - 팝이있는 오후 2시 (주말) ([국방FM](../Page/국방FM.md "wikilink"))
@@ -68,7 +66,7 @@
   - [2시 뉴스외전](../Page/2시_뉴스외전.md "wikilink") (월\~토요일) ([MBC TV](../Page/MBC_TV.md "wikilink"))
   - [주영진의 뉴스브리핑](../Page/주영진의_뉴스브리핑.md "wikilink") (월\~토요일) ([SBS TV](../Page/SBS_TV.md "wikilink"))
   - [SBS 금토드라마](../Page/SBS_금토드라마.md "wikilink") 재방송 (일요일) ([SBS TV](../Page/SBS_TV.md "wikilink"))
-  - [SBS 주말뉴스](https://ko.wikipedia.org/wiki/SBS_주말뉴스 "wikilink") (일요일) ([SBS TV](../Page/SBS_TV.md "wikilink"))
+  - [SBS 뉴스](../Page/SBS_뉴스_\(주말\).md "wikilink") (토\~일요일) ([SBS TV](../Page/SBS_TV.md "wikilink"))
   - [SBS 인기가요](../Page/SBS_인기가요.md "wikilink") (일요일) ([SBS TV](../Page/SBS_TV.md "wikilink"))
 
 [분류:기독교방송의 라디오 프로그램](https://ko.wikipedia.org/wiki/분류:기독교방송의_라디오_프로그램 "wikilink")

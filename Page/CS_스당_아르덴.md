@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [CS  ](https://ko.wikipedia.org/wiki/CS__).
+> This article is converted from Wikipedia: [CS 스당 아르덴](https://ko.wikipedia.org/wiki/CS_스당_아르덴).
 
 
 **CS 스당 아르덴**(Club Sportif Sedan Ardennes, CS Sedan Ardennes)은 [1919년](../Page/1919년.md "wikilink")에 창단된 [프랑스](../Page/프랑스.md "wikilink") [스당](https://ko.wikipedia.org/wiki/스당 "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽으로, 흔히 **CS 스당**(CS Sedan)이라는 이름으로 알려져 있다. 현재 [리그 되에서](https://ko.wikipedia.org/wiki/리그_되 "wikilink") 활동하고 있다.

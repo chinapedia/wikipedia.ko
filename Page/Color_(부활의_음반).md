@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Color \( \)](https://ko.wikipedia.org/wiki/Color_\(_\)).
+> This article is converted from Wikipedia: [Color \(부활의 음반\)](https://ko.wikipedia.org/wiki/Color_\(부활의_음반\)).
 
 
 《**Color**》는 [부활의](../Page/부활_\(밴드\).md "wikilink") 정규 7집 음반이자, 데뷔 15주년 기념음반이다. 당시 보컬은 이성욱이었으며 아름다운 미성을 가졌음에도 과소평가 된 부활의 역대 보컬 중 하나이다. 수록곡 중 안녕과 리플리히, 동감은 이성욱의 미성이 두드러진 곡으로서 좋은 곡이지만 묻혀진 곡으로 알려져있다. 또한, 2번 CD에는 역대 부활의 히트곡들이 수록 되어 있다.

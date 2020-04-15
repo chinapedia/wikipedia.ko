@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Kbc 8 ](https://ko.wikipedia.org/wiki/Kbc_8_).
+> This article is converted from Wikipedia: [Kbc 8 뉴스](https://ko.wikipedia.org/wiki/Kbc_8_뉴스).
 
 
 **kbc 8 뉴스**는 [SBS](../Page/SBS.md "wikilink")의 광주,전남권 네트워크 방송사인 [kbc의](../Page/광주방송.md "wikilink") 대표적인 뉴스 방송이다. 전신 프로그램으로 **kbc 뉴스 2000**이 방송되었다. [SBS 8 뉴스의](../Page/SBS_8_뉴스.md "wikilink") 릴레이 형태로 방송되며, [2011년](../Page/2011년.md "wikilink") [8월 1일부터는](../Page/8월_1일.md "wikilink") 다른 보도프로그램과 함께 [HD로](../Page/고선명_텔레비전.md "wikilink") 방송되고 있다. 동시간대에 경쟁 뉴스 프로그램으로는 [광주MBC](https://ko.wikipedia.org/wiki/광주MBC "wikilink")의 [MBC 뉴스데스크 광주전남](../Page/MBC_뉴스데스크.md "wikilink"),[목포MBC](https://ko.wikipedia.org/wiki/목포MBC "wikilink")의 [MBC 뉴스데스크 목포전남](../Page/MBC_뉴스데스크.md "wikilink"),[여수MBC](https://ko.wikipedia.org/wiki/여수MBC "wikilink")의 [MBC 뉴스데스크 전남동부권이](../Page/MBC_뉴스데스크.md "wikilink") 있다.

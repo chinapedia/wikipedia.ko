@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [X ](https://ko.wikipedia.org/wiki/X_).
+> This article is converted from Wikipedia: [X 우주](https://ko.wikipedia.org/wiki/X_우주).
 
 
 **X 우주**는 EGOSOFT사가 개발하고 딥 실버가 발행한 싱글 플레이 우주 무역 및 우주 전투 [시뮬레이션 게임시리즈의](https://ko.wikipedia.org/wiki/시뮬레이션_게임 "wikilink") 배경무대이다. 여러 종족이 우주 곳곳에 연결된 점프게이트로 이동하며 X 우주란 무대를 만들고 있다.

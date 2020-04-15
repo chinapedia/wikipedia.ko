@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [CCM](https://ko.wikipedia.org/wiki/CCM).
+> This article is converted from Wikipedia: [CCM마루](https://ko.wikipedia.org/wiki/CCM마루).
 
 
 《**CCM마루**》는 [소화(素華) 문수정(文守貞)의](../Page/문수정.md "wikilink") 첫 정규앨범이자 데뷔 음반이다. 국악과 찬양의 결합을 통한 국악CCM을 표방한다. 2009년 4월 발매되었다. 앨범에는 총 13곡이 수록되어있다.

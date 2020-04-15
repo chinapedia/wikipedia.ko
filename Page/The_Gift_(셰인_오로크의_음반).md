@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [The Gift \(  \)](https://ko.wikipedia.org/wiki/The_Gift_\(__\)).
+> This article is converted from Wikipedia: [The Gift \(셰인 오로크의 음반\)](https://ko.wikipedia.org/wiki/The_Gift_\(셰인_오로크의_음반\)).
 
 
 《**The Gift**》는 [셰인(Shayne Orok)의](https://ko.wikipedia.org/wiki/셰인오로크 "wikilink") 첫 번째 미니 음반이다.

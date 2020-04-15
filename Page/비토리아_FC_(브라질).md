@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ FC \(\)](https://ko.wikipedia.org/wiki/_FC_\(\)).
+> This article is converted from Wikipedia: [비토리아 FC \(브라질\)](https://ko.wikipedia.org/wiki/비토리아_FC_\(브라질\)).
 
 
 **비토리아 푸테볼 클루비**(Vitória Futebol Clube, 약칭 Vitória)는 [브라질](../Page/브라질.md "wikilink") [이스피리투산투주](https://ko.wikipedia.org/wiki/이스피리투산투주 "wikilink") [비토리아를](https://ko.wikipedia.org/wiki/비토리아_\(브라질\) "wikilink") 연고를 둔 축구 클럽이다. 이 팀은 [1912년](../Page/1912년.md "wikilink")에 창설되었으며, 현재 이스피리투산투 주 리그 (Campeonato Capixaba) 에 소속되어 있다. 홈 경기장은 1962년 건설된 살바도르 베난시오 다 코스타(Estadio Salvador Venâncio da Costa)이다.

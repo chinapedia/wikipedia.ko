@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ SC](https://ko.wikipedia.org/wiki/_SC).
+> This article is converted from Wikipedia: [킷치 SC](https://ko.wikipedia.org/wiki/킷치_SC).
 
 
 **킷치**() 또는 **킷치 체육회**, **걸지 체육회**()는 [홍콩](../Page/홍콩.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다. 현재는 [홍콩 프리미어리그에](../Page/홍콩_프리미어리그.md "wikilink") 참가하고 있다.

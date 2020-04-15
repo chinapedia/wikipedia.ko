@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [VP ](https://ko.wikipedia.org/wiki/VP_).
+> This article is converted from Wikipedia: [VP 레코드](https://ko.wikipedia.org/wiki/VP_레코드).
 
 
 **VP 레코드**(VP Records)는 독립 [레코드 레이블이다](../Page/레코드_레이블.md "wikilink").

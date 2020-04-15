@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  FC](https://ko.wikipedia.org/wiki/__FC).
+> This article is converted from Wikipedia: [미네소타 유나이티드 FC](https://ko.wikipedia.org/wiki/미네소타_유나이티드_FC).
 
 
 **미네소타 유나이티드 FC**(Minnesota United FC)는 [메이저 리그 사커에](../Page/메이저_리그_사커.md "wikilink") 참가할 예정인 [미국](../Page/미국.md "wikilink")의 프로축구단으로 [미네소타주](../Page/미네소타주.md "wikilink") [미니애폴리스](../Page/미니애폴리스.md "wikilink")-[세인트폴을](../Page/세인트폴_\(미네소타주\).md "wikilink") 연고지로 한다.

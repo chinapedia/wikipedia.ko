@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Go Go  ](https://ko.wikipedia.org/wiki/Go_Go__).
+> This article is converted from Wikipedia: [Go Go 코리아 황금발](https://ko.wikipedia.org/wiki/Go_Go_코리아_황금발).
 
 
 《**Go Go 코리아 황금발**》는 [2012년](../Page/2012년.md "wikilink") [6월 25일부터](../Page/6월_25일.md "wikilink") [2012년](../Page/2012년.md "wikilink") [12월 21일까지](../Page/12월_21일.md "wikilink") [한국방송공사](../Page/한국방송공사.md "wikilink")에서 방송되었던 [텔레비전 프로그램이다](../Page/텔레비전_프로그램.md "wikilink").

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [P.B.S. ](https://ko.wikipedia.org/wiki/P.B.S._).
+> This article is converted from Wikipedia: [P.B.S. 핀치백](https://ko.wikipedia.org/wiki/P.B.S._핀치백).
 
 
 **핑크니 벤턴 스튜어트 핀치백**(Pinckney Benton Stewart Pinchback, [1837년](../Page/1837년.md "wikilink") [5월 10일](../Page/5월_10일.md "wikilink") \~ [1921년](../Page/1921년.md "wikilink") [12월 21일](../Page/12월_21일.md "wikilink"))는 [미국](../Page/미국.md "wikilink")의 정치인이며, [1872년](../Page/1872년.md "wikilink") [12월](../Page/12월.md "wikilink")부터 35일간 [루이지애나주](../Page/루이지애나주.md "wikilink") 지사를 지냈다.

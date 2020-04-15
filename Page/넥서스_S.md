@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ S](https://ko.wikipedia.org/wiki/_S).
+> This article is converted from Wikipedia: [넥서스 S](https://ko.wikipedia.org/wiki/넥서스_S).
 
 
 **구글 넥서스 S** (Google Nexus S)는 [삼성전자](https://ko.wikipedia.org/wiki/삼성전자 "wikilink")가 제조하고, [구글](../Page/구글.md "wikilink")이 판매하는 [안드로이드](../Page/안드로이드_\(운영_체제\).md "wikilink") [스마트폰](../Page/스마트폰.md "wikilink")이다.\[1\] 모델명은 GT-i9020. 구글의 최고경영자 [에릭 슈미트가](../Page/에릭_슈미트.md "wikilink") [2010년](../Page/2010년.md "wikilink") 11월 15일에 [웹 2.0 회의에서](https://ko.wikipedia.org/wiki/웹_2.0_회의 "wikilink") 발표하였으며 [안드로이드 2.3 진저브레드를](../Page/안드로이드_\(운영_체제\).md "wikilink") 채용하였다. 이 전화는 미국에서 2010년 12월 16일부터, 영국에서는 12월 20일부터 구매할 수 있다. 하드웨어와 소프트웨어 모두 [근거리 무선 통신](../Page/근거리_무선_통신.md "wikilink")(NFC)을 지원하는 최초의 안드로이드 기기이다.\[2\]\[3\]\[4\]

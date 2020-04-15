@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [F\(x\)  ](https://ko.wikipedia.org/wiki/F\(x\)__).
+> This article is converted from Wikipedia: [F\(x\)의 음반 목록](https://ko.wikipedia.org/wiki/F\(x\)의_음반_목록).
 
 
 다음은 [대한민국](../Page/대한민국.md "wikilink")의 여성 가수 그룹 [f(x)](https://ko.wikipedia.org/wiki/f\(x\) "wikilink")의 **음반 목록**이다. 데뷔 후, 2009년부터 현재까지 총 5장의 정규 음반(리패키지 음반 포함)을 발매하였다.

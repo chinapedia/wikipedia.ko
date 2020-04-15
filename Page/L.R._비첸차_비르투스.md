@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [L.R.  ](https://ko.wikipedia.org/wiki/L.R.__).
+> This article is converted from Wikipedia: [L.R. 비첸차 비르투스](https://ko.wikipedia.org/wiki/L.R._비첸차_비르투스).
 
 
 **L.R. 비첸차 비르투스**()\[1\]는 [1902년](../Page/1902년.md "wikilink")에 창단된 [이탈리아](../Page/이탈리아.md "wikilink")의 축구 클럽으로, [베네토주](../Page/베네토주.md "wikilink") [비첸차](../Page/비첸차.md "wikilink")를 연고지로 한다.

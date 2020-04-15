@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [: FC](https://ko.wikipedia.org/wiki/:_FC).
+> This article is converted from Wikipedia: [틀:청주 FC](https://ko.wikipedia.org/wiki/틀:청주_FC).
 
 
 <onlyinclude></onlyinclude>

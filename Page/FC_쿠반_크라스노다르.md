@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FC  ](https://ko.wikipedia.org/wiki/FC__).
+> This article is converted from Wikipedia: [FC 쿠반 크라스노다르](https://ko.wikipedia.org/wiki/FC_쿠반_크라스노다르).
 
 
 **FC 쿠반 크라스노다르**(, )는 [크라스노다르](../Page/크라스노다르.md "wikilink")를 연고로 하는 [러시아](../Page/러시아.md "wikilink")의 [축구](../Page/축구.md "wikilink") 팀이다. 이 클럽은 [1928년](../Page/1928년.md "wikilink")에 창단되었으며 현재는 [러시아 프리미어리그에](../Page/러시아_프리미어리그.md "wikilink") 참가하고 있다.

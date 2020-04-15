@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [MVP  ](https://ko.wikipedia.org/wiki/MVP__).
+> This article is converted from Wikipedia: [MVP 베이스볼 온라인](https://ko.wikipedia.org/wiki/MVP_베이스볼_온라인).
 
 
 《**MVP 베이스볼 온라인**》은 스피어헤드 (전 EA 서울 스튜디오)가 제작하여 [2012년](../Page/2012년.md "wikilink") [10월 16일](../Page/10월_16일.md "wikilink") [게임트리](https://ko.wikipedia.org/wiki/게임트리 "wikilink")에서 오픈 베타 서비스가 시작된 [대한민국](../Page/대한민국.md "wikilink")의 온라인 [야구](../Page/야구.md "wikilink") 게임이다. 실적 악화로 [2016년](../Page/2016년.md "wikilink") [2월 18일에](../Page/2월_18일.md "wikilink") 서비스 종료를 했다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [WWE ](https://ko.wikipedia.org/wiki/WWE_).
+> This article is converted from Wikipedia: [WWE 아마게돈](https://ko.wikipedia.org/wiki/WWE_아마게돈).
 
 
 **아마게돈**(Armageddon)는 [WWE](https://ko.wikipedia.org/wiki/WWE "wikilink")가 주관하였고, 1999년 신설되어 2008년을 끝으로 폐지된 페이퍼뷰이다.

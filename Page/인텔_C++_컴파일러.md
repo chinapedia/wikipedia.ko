@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ C++ ](https://ko.wikipedia.org/wiki/_C++_).
+> This article is converted from Wikipedia: [인텔 C++ 컴파일러](https://ko.wikipedia.org/wiki/인텔_C++_컴파일러).
 
 
 **인텔 C++ 컴파일러**(Intel C++ Compiler, 간단히 icc 또는 icl)는 [인텔](../Page/인텔.md "wikilink")이 [GNU/리눅스](../Page/리눅스.md "wikilink"), [맥 OS X](https://ko.wikipedia.org/wiki/맥_OS_X "wikilink"), [마이크로소프트 윈도를](https://ko.wikipedia.org/wiki/마이크로소프트_윈도 "wikilink") 대상으로 제공하는 [C와](../Page/C_\(프로그래밍_언어\).md "wikilink") [C++](https://ko.wikipedia.org/wiki/C++ "wikilink") [컴파일러](../Page/컴파일러.md "wikilink")의 모음이다.

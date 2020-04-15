@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SR ](https://ko.wikipedia.org/wiki/SR_).
+> This article is converted from Wikipedia: [SR웨어 아이언](https://ko.wikipedia.org/wiki/SR웨어_아이언).
 
 
 **SR웨어 아이언**(SRWare Iron) 또는 줄여서 **아이언**(Iron)은 독일의 [SRWare](https://ko.wikipedia.org/wiki/SRWare "wikilink")에서 [크로미엄](../Page/크로미엄_\(웹_브라우저\).md "wikilink") 소스 코드를 바탕으로 만든 [오픈 소스](../Page/오픈_소스.md "wikilink") [웹 브라우저이다](../Page/웹_브라우저.md "wikilink"). [구글 크롬과](https://ko.wikipedia.org/wiki/구글_크롬 "wikilink") 달리 사용 추적(Usage tracking) 등의 기능이 제거되어 있고, [광고 차단](https://ko.wikipedia.org/wiki/광고_필터링 "wikilink")(Ad-block) 기능이 내장되어 있다.\[1\]\[2\]

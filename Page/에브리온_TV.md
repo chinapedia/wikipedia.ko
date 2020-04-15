@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ TV](https://ko.wikipedia.org/wiki/_TV).
+> This article is converted from Wikipedia: [에브리온 TV](https://ko.wikipedia.org/wiki/에브리온_TV).
 
 
 **에브리온 TV**는 [현대백화점그룹](../Page/현대백화점그룹.md "wikilink") [MSO인](https://ko.wikipedia.org/wiki/종합유선방송사업자 "wikilink") [현대HCN](../Page/현대HCN.md "wikilink")의 자회사이다. 에브리온TV는 실시간 N스크린 TV 서비스를 제공하고 있다.\[1\] 2011년 8월 9일 PC 기반 베타 서비스로 시작하여\[2\] 2014년 5월 기준 250여개 채널의 실시간 보기 서비스를 제공하고 있다. PC, 아이폰, 아이패드, 안드로이드 기반 스마트폰 및 태블릿PC에 이어 맥과 윈도 폰 전용 플레이어를 지원한다.\[3\]

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ MID4](https://ko.wikipedia.org/wiki/_MID4).
+> This article is converted from Wikipedia: [닛산 MID4](https://ko.wikipedia.org/wiki/닛산_MID4).
 
 
 **닛산 MID4** (**미드 포**) 는, [닛산 자동차가](../Page/닛산_자동차.md "wikilink") [1985년](../Page/1985년.md "wikilink")에 발표한 2인승의 미드십 [스포츠카](../Page/스포츠카.md "wikilink")이다. [1987년](../Page/1987년.md "wikilink")에는 발전형인 **MID4-II** (**미드 포 투**)가 발표되었지만, 어느 쪽의 차종도 시판은 되지 않았다.

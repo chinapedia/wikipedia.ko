@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TvN ](https://ko.wikipedia.org/wiki/TvN_).
+> This article is converted from Wikipedia: [TvN 아침드라마](https://ko.wikipedia.org/wiki/TvN_아침드라마).
 
 
 **tvN 일일드라마**는 [2012년](../Page/2012년.md "wikilink") [2월 27일부터](../Page/2월_27일.md "wikilink") [2015년](../Page/2015년.md "wikilink") [10월 22일까지](../Page/10월_22일.md "wikilink") [tvN](https://ko.wikipedia.org/wiki/tvN "wikilink")에서 [월요일](../Page/월요일.md "wikilink") \~ [목요일](../Page/목요일.md "wikilink") 오전 9시 40분에 방송되는 [텔레비전 드라마다](../Page/텔레비전_드라마.md "wikilink").

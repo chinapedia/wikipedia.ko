@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:K  ](https://ko.wikipedia.org/wiki/:K__).
+> This article is converted from Wikipedia: [틀:K리그 선수 선발](https://ko.wikipedia.org/wiki/틀:K리그_선수_선발).
 
 
 <onlyinclude></onlyinclude>

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:S\&T ](https://ko.wikipedia.org/wiki/:S\&T_).
+> This article is converted from Wikipedia: [틀:S\&T모터스의 모터사이클](https://ko.wikipedia.org/wiki/틀:S\&T모터스의_모터사이클).
 
 
 <onlyinclude></onlyinclude>

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [OBSTV  ](https://ko.wikipedia.org/wiki/OBSTV__).
+> This article is converted from Wikipedia: [OBS경인TV의 뉴스 프로그램](https://ko.wikipedia.org/wiki/OBS경인TV의_뉴스_프로그램).
 
 
 **[OBS경인TV](../Page/OBS경인TV.md "wikilink")의 뉴스 프로그램**은 다음과 같다.

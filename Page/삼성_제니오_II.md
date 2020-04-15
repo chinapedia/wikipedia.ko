@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  II](https://ko.wikipedia.org/wiki/__II).
+> This article is converted from Wikipedia: [삼성 제니오 II](https://ko.wikipedia.org/wiki/삼성_제니오_II).
 
 
 **삼성 제니오 II**(, Samsung S3850)은 [삼성전자](https://ko.wikipedia.org/wiki/삼성전자 "wikilink")가 2011년에 출시한 [휴대 전화기이다](https://ko.wikipedia.org/wiki/휴대_전화기 "wikilink").\[1\]

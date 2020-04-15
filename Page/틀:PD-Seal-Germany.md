@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:PD-Seal-Germany](https://ko.wikipedia.org/wiki/:PD-Seal-Germany).
+> This article is converted from Wikipedia: [틀:PD-Seal-Germany](https://ko.wikipedia.org/wiki/틀:PD-Seal-Germany).
 
 
 <table>

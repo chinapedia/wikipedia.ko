@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [K   K](https://ko.wikipedia.org/wiki/K___K).
+> This article is converted from Wikipedia: [K리거들이 뽑은 최고의 K리거](https://ko.wikipedia.org/wiki/K리거들이_뽑은_최고의_K리거).
 
 
 [2007년](../Page/2007년.md "wikilink") 축구잡지 [포포투](https://ko.wikipedia.org/wiki/포포투 "wikilink") 한국어판 창간호 특집으로 현역으로 활동하고 있는 K리거들을 대상으로 하는 설문조사를 통해 최고의 K리거를 선정하면서 탄생하였다.\[1\]

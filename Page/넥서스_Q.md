@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ Q](https://ko.wikipedia.org/wiki/_Q).
+> This article is converted from Wikipedia: [넥서스 Q](https://ko.wikipedia.org/wiki/넥서스_Q).
 
 
 **넥서스 Q**는 구글 넥서스 시리즈 중 엔터테이먼트 미디어 스트리밍 기기이다.

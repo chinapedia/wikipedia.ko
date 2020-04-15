@@ -231,7 +231,7 @@
 
 ## 외부 링크
 
-  - [공식 웹 사이트](http://www.rococoworks.com/airyfairy/) : 게임의 체험판, 오프닝 동영상, 오프닝 테마곡을 다운로드받을 수 있다.
+  - [공식 웹 사이트](https://web.archive.org/web/20090721195135/http://www.rococoworks.com/airyfairy/) : 게임의 체험판, 오프닝 동영상, 오프닝 테마곡을 다운로드받을 수 있다.
 
 ## 주해
 

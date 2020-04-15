@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ BV](https://ko.wikipedia.org/wiki/_BV).
+> This article is converted from Wikipedia: [대우 BV](https://ko.wikipedia.org/wiki/대우_BV).
 
 
 **자일대우 BV**는 [자일대우상용차](../Page/자일대우상용차.md "wikilink")의 전신인 [새한자동차, 대우자동차,](https://ko.wikipedia.org/wiki/한국_GM "wikilink") 대우중공업에서 [1982년](../Page/1982년.md "wikilink")부터 [1996년](../Page/1996년.md "wikilink")까지 생산되었던 대형 리어엔진 [버스](../Page/버스.md "wikilink") 차종으로 [새한 BU의](../Page/새한_BU.md "wikilink") 후속 차종이다. 동종의 프론트엔진 버스 차종인 [대우 BF와는](../Page/대우_BF.md "wikilink") 달리, 엔진이 후방부에 위치하여 있어, [도시형버스](https://ko.wikipedia.org/wiki/도시형버스 "wikilink")와 준고속버스 차종에 많이 이용된 차종으로 널리 활용되어 왔다.

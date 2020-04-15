@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [AT\&T ](https://ko.wikipedia.org/wiki/AT\&T_).
+> This article is converted from Wikipedia: [AT\&T 모빌리티](https://ko.wikipedia.org/wiki/AT\&T_모빌리티).
 
 
 **AT\&T 모빌리티 LLC**(AT\&T Mobility LLC, 간단히 **AT\&T**)는 [AT\&T](../Page/AT&T.md "wikilink")에서 소유한 자회사로서, [푸에르토리코](../Page/푸에르토리코.md "wikilink")와 [미국령 버진아일랜드를](../Page/미국령_버진아일랜드.md "wikilink") 포함하여 미국에서 무선 서비스를 제공한다.\[1\] AT\&T 모빌리티는 미국과 푸에르토리코에서 [버라이즌 와이어리스](../Page/버라이즌_와이어리스.md "wikilink") 다음으로 두 번째로 큰 [무선](https://ko.wikipedia.org/wiki/무선 "wikilink") [통신](../Page/통신.md "wikilink") 공급자다. AT\&T 모빌리티는 [애틀랜타](../Page/애틀랜타.md "wikilink") 외곽의 [레녹스 파크에](https://ko.wikipedia.org/wiki/레녹스_파크 "wikilink") 본사를 두고 있다.\[2\]

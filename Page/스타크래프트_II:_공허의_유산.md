@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ II:  ](https://ko.wikipedia.org/wiki/_II:__).
+> This article is converted from Wikipedia: [스타크래프트 II: 공허의 유산](https://ko.wikipedia.org/wiki/스타크래프트_II:_공허의_유산).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Starcraft_II_Void_of_the_Legacy_releasing_event.jpg "wikilink") 《**스타크래프트 II: 공허의 유산**》(StarCraft II: Legacy of the Void)은 《[자유의 날개](../Page/스타크래프트_II:_자유의_날개.md "wikilink")》와 《[군단의 심장](../Page/스타크래프트_II:_군단의_심장.md "wikilink")》에 이은 스타크래프트 II 3부작의 대단원격 작품이다. [블리즈컨](../Page/블리즈컨.md "wikilink") 2014를 통해 공개되었으며\[1\], 기존작 [군단의 심장과는](../Page/스타크래프트_II:_군단의_심장.md "wikilink") 달리 스탠드 얼론(Stand-Alone) 확장팩으로 출시된다. 군단의 심장의 내용을 이어서 스토리가 진행되며, 프롤로그, 공허의 유산 본 스토리, 에필로그 3부분으로 나누어 이야기가 순서대로 이어진다.

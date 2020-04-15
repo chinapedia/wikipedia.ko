@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  \(AKB48 \)](https://ko.wikipedia.org/wiki/__\(AKB48_\)).
+> This article is converted from Wikipedia: [나의 태양 \(AKB48의 노래\)](https://ko.wikipedia.org/wiki/나의_태양_\(AKB48의_노래\)).
 
 
 〈**나의 태양**〉 ()는 [일본](../Page/일본.md "wikilink")의 [아이돌](https://ko.wikipedia.org/wiki/아이돌 "wikilink") [AKB48](../Page/AKB48.md "wikilink")의 일곱 번째 싱글이자 메이저 다섯 번째 싱글이다. 2007년 8월 8일 [데프스타 레코드를](https://ko.wikipedia.org/wiki/데프스타_레코드 "wikilink") 통해 발매됐다.

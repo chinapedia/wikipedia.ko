@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:UEFA  2012  A](https://ko.wikipedia.org/wiki/:UEFA__2012__A).
+> This article is converted from Wikipedia: [틀:UEFA 유로 2012 예선 A조](https://ko.wikipedia.org/wiki/틀:UEFA_유로_2012_예선_A조).
 
 
 <table>

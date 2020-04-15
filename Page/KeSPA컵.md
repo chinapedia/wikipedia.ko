@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KeSPA](https://ko.wikipedia.org/wiki/KeSPA).
+> This article is converted from Wikipedia: [KeSPA컵](https://ko.wikipedia.org/wiki/KeSPA컵).
 
 
 **KeSPA컵**(KeSPA Cup)은 [한국e스포츠협회](../Page/한국e스포츠협회.md "wikilink")가 주최하는 e스포츠 종목 활성화 및 아마추어 저변 확대를 위한 [대한민국](../Page/대한민국.md "wikilink") 프로와 아마추어의 통합 [e스포츠](https://ko.wikipedia.org/wiki/e스포츠 "wikilink") 대회이다.

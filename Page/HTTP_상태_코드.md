@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [HTTP  ](https://ko.wikipedia.org/wiki/HTTP__).
+> This article is converted from Wikipedia: [HTTP 상태 코드](https://ko.wikipedia.org/wiki/HTTP_상태_코드).
 
 
 아래는 [HTTP](../Page/HTTP.md "wikilink")(하이퍼텍스트 전송 프로토콜) 응답 상태 코드의 목록이다.

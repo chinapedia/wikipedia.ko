@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ L.A.](https://ko.wikipedia.org/wiki/_L.A.).
+> This article is converted from Wikipedia: [조나스 L.A.](https://ko.wikipedia.org/wiki/조나스_L.A.).
 
 
 **조나스 L.A.**(JONAS L.A.)는 Michael Curtis , Roger S. H. Schulman 에 의해 만들어진 [조나스 브라더스](../Page/조나스_브라더스.md "wikilink") 주연의 [디즈니채널 오리지널 시리즈](https://ko.wikipedia.org/wiki/디즈니채널_오리지널_시리즈 "wikilink") (=DCOS)이다. 파일럿은 2008년 9월에 촬영되었으며 2009년 5월 2일에 첫 방영 되었다. 5월 2일 디즈니채널을 통해 첫 방영되기 전, [디즈니채널 온 디맨드를](https://ko.wikipedia.org/wiki/디즈니채널_온_디맨드를 "wikilink") 통해 4월 25일 처음으로 선보여졌다.

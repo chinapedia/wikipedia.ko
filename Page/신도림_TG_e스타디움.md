@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ TG e](https://ko.wikipedia.org/wiki/_TG_e).
+> This article is converted from Wikipedia: [신도림 TG e스타디움](https://ko.wikipedia.org/wiki/신도림_TG_e스타디움).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Intel_e-studiem.jpg "wikilink") **신도림 TG e스타디움**은 [게임동아](https://ko.wikipedia.org/wiki/게임동아 "wikilink")와 [인텔](../Page/인텔.md "wikilink")코리아, [TG삼보의](https://ko.wikipedia.org/wiki/TG삼보컴퓨터 "wikilink") 제휴로 건립한 e스포츠 경기장이다.

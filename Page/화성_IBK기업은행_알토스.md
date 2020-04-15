@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ IBK ](https://ko.wikipedia.org/wiki/_IBK_).
+> This article is converted from Wikipedia: [화성 IBK기업은행 알토스](https://ko.wikipedia.org/wiki/화성_IBK기업은행_알토스).
 
 
 **화성 IBK기업은행 알토스 배구단**(Hwaseong IBK Altos Volleyball Team)은 [2011년](../Page/2011년.md "wikilink") [8월 4일에](../Page/8월_4일.md "wikilink") [중소기업은행](../Page/중소기업은행.md "wikilink")이 창단한 [대한민국](../Page/대한민국.md "wikilink")의 여자 배구단이다.\[1\] 창단 당시 연고지와 홈 경기장을 결정하지 못했으나,\[2\]\[3\] [2011년](../Page/2011년.md "wikilink") [9월 22일에](../Page/9월_22일.md "wikilink") [경기도](https://ko.wikipedia.org/wiki/경기도 "wikilink") [화성시](https://ko.wikipedia.org/wiki/화성시 "wikilink")를 연고지로 결정했다. [경기도](https://ko.wikipedia.org/wiki/경기도 "wikilink") [화성시](https://ko.wikipedia.org/wiki/화성시 "wikilink") [향남읍](../Page/향남읍.md "wikilink") 도이리에 [2011년](../Page/2011년.md "wikilink") [10월 1일](../Page/10월_1일.md "wikilink") 개관한 [화성실내체육관을](../Page/화성종합경기타운_실내체육관.md "wikilink") 홈 경기장으로 쓰기로 합의하고, 연고 협약을 맺었다.\[4\]

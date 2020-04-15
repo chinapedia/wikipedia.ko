@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TV   ](https://ko.wikipedia.org/wiki/TV___).
+> This article is converted from Wikipedia: [TV 바둑 아시아 선수권대회](https://ko.wikipedia.org/wiki/TV_바둑_아시아_선수권대회).
 
 
 **TV 바둑 아시아 선수권대회**(TV 바둑 亞細亞 選手權大會,  , 는 [KBS](../Page/KBS_바둑왕전.md "wikilink"), [NHK](https://ko.wikipedia.org/wiki/NHK배 "wikilink") ,[CCTV가](https://ko.wikipedia.org/wiki/중신은행배 "wikilink") 삼국이 번갈아가며 교대로 개최하는 [바둑](../Page/바둑.md "wikilink") 국제기전 TV속기 대회이다. 제1회 TV 바둑아시아선수권대회는 [KBS](https://ko.wikipedia.org/wiki/KBS "wikilink") (한국) [NHK](../Page/일본방송협회.md "wikilink")(일본), [CCTV](https://ko.wikipedia.org/wiki/중국중앙방송 "wikilink")(중국) 3개 방송사 공동 주최로 1989년 8월 13일부터 18일까지 일본NHK 스튜디오에서 열렸으며 한중일 3개국 대표로 6명이 출전했다.

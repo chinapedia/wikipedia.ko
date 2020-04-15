@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ 9 DISC](https://ko.wikipedia.org/wiki/_9_DISC).
+> This article is converted from Wikipedia: [플라티나 9 DISC](https://ko.wikipedia.org/wiki/플라티나_9_DISC).
 
 
 **플라티나 9 DISC**(, PLATINA 9 DISC : PLATINUM 9 DISC)는 [2009년](../Page/2009년.md "wikilink") [3월 18일에](../Page/3월_18일.md "wikilink") 발매 된 [모닝구무스메](../Page/모닝구무스메.md "wikilink")의 아홉 번째 정규 앨범이다.

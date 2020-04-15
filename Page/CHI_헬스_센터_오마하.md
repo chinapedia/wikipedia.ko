@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [CHI   ](https://ko.wikipedia.org/wiki/CHI___).
+> This article is converted from Wikipedia: [CHI 헬스 센터 오마하](https://ko.wikipedia.org/wiki/CHI_헬스_센터_오마하).
 
 
 **CHI 헬스 센터 오마하**(CHI Health Center Omaha)는 [미국](../Page/미국.md "wikilink") [네브래스카주](../Page/네브래스카주.md "wikilink") [오마하](../Page/오마하.md "wikilink")에 있는 컨벤션 센터 겸 경기장이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [LG  UI](https://ko.wikipedia.org/wiki/LG__UI).
+> This article is converted from Wikipedia: [LG 옵티머스 UI](https://ko.wikipedia.org/wiki/LG_옵티머스_UI).
 
 
 **LG 옵티머스 UI**(LG Optimus UI)는 [LG전자](../Page/LG전자.md "wikilink")의 안드로이드 스마트폰 [옵티머스](../Page/LG_옵티머스.md "wikilink") 시리즈에서 채택한 UI이다.\[1\] 윈도 폰이나 고급 피처폰에서 사용된 S클래스 UI를 기반으로 만들었다. 하지만, [2013년](../Page/2013년.md "wikilink")부터 [LG전자](../Page/LG전자.md "wikilink")는 [LG G2부터](../Page/LG_G2.md "wikilink") [LG 옵티머스](../Page/LG_옵티머스_\(제품군\).md "wikilink") 브랜드를 폐지하기로 결정하면서, [2014년](../Page/2014년.md "wikilink") [LG G4를](../Page/LG_G4.md "wikilink") 시작으로 [LG UX로](../Page/LG_UX.md "wikilink") 이름으로 변경하였다.\[2\]

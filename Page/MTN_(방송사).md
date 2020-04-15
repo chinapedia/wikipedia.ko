@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [MTN \(\)](https://ko.wikipedia.org/wiki/MTN_\(\)).
+> This article is converted from Wikipedia: [MTN \(방송사\)](https://ko.wikipedia.org/wiki/MTN_\(방송사\)).
 
 
 《**MTN**》은 [머니투데이](../Page/머니투데이.md "wikilink")에서 제공하는 경제방송으로 [2008년](../Page/2008년.md "wikilink") 10월에 창립되었다.

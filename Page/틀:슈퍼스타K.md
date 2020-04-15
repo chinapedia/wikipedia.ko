@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:K](https://ko.wikipedia.org/wiki/:K).
+> This article is converted from Wikipedia: [틀:슈퍼스타K](https://ko.wikipedia.org/wiki/틀:슈퍼스타K).
 
 
 <onlyinclude></onlyinclude>

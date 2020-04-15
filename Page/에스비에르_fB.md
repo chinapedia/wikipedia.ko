@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ fB](https://ko.wikipedia.org/wiki/_fB).
+> This article is converted from Wikipedia: [에스비에르 fB](https://ko.wikipedia.org/wiki/에스비에르_fB).
 
 
 **에스비에르 fB**(Esbjerg fB, 약칭 **EfB**)는 [덴마크](../Page/덴마크.md "wikilink") [에스비에르](../Page/에스비에르.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽으로, 현재 [수페르리가에서](../Page/덴마크_수페르리가.md "wikilink") 활동하고 있다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [GENJI](https://ko.wikipedia.org/wiki/GENJI).
+> This article is converted from Wikipedia: [히카루GENJI](https://ko.wikipedia.org/wiki/히카루GENJI).
 
 
 **히카루GENJI**(, 히카루겐지)는 [1980년대](../Page/1980년대.md "wikilink") 후반부터 [1990년대](../Page/1990년대.md "wikilink") 중반까지 활동한 [일본](../Page/일본.md "wikilink")의 [남성](https://ko.wikipedia.org/wiki/남성 "wikilink") [아이돌 그룹이다](https://ko.wikipedia.org/wiki/아이돌_그룹 "wikilink"). 롤러 스케이트를 타고 춤추며 노래했으며, [자니즈 사무소에](https://ko.wikipedia.org/wiki/자니즈_사무소 "wikilink") 소속해 있었다.
@@ -32,4 +32,4 @@
 
 ## 외부 링크
 
-[분류:일본의 보이 밴드](https://ko.wikipedia.org/wiki/분류:일본의_보이_밴드 "wikilink") [분류:일본의 댄스 음악 그룹](https://ko.wikipedia.org/wiki/분류:일본의_댄스_음악_그룹 "wikilink") [분류:일본의 팝 음악 그룹](https://ko.wikipedia.org/wiki/분류:일본의_팝_음악_그룹 "wikilink") [분류:자니즈](https://ko.wikipedia.org/wiki/분류:자니즈 "wikilink") [분류:일본 레코드 대상 수상 음악가](https://ko.wikipedia.org/wiki/분류:일본_레코드_대상_수상_음악가 "wikilink") [분류:포니캐년 음악가](https://ko.wikipedia.org/wiki/분류:포니캐년_음악가 "wikilink")
+[분류:일본의 보이 밴드](https://ko.wikipedia.org/wiki/분류:일본의_보이_밴드 "wikilink") [분류:일본의 댄스 음악 그룹](https://ko.wikipedia.org/wiki/분류:일본의_댄스_음악_그룹 "wikilink") [분류:일본의 팝 음악 그룹](https://ko.wikipedia.org/wiki/분류:일본의_팝_음악_그룹 "wikilink") [분류:자니즈](https://ko.wikipedia.org/wiki/분류:자니즈 "wikilink") [분류:일본 레코드 대상 수상 음악가](https://ko.wikipedia.org/wiki/분류:일본_레코드_대상_수상_음악가 "wikilink") [분류:포니 캐년 음악가](https://ko.wikipedia.org/wiki/분류:포니_캐년_음악가 "wikilink")

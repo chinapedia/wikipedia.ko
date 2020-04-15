@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ \(Hoot\)](https://ko.wikipedia.org/wiki/_\(Hoot\)).
+> This article is converted from Wikipedia: [훗 \(Hoot\)](https://ko.wikipedia.org/wiki/훗_\(Hoot\)).
 
 
 《**훗 (Hoot)**》은 대한민국의 걸 그룹 [소녀시대](../Page/소녀시대.md "wikilink")의 세 번째 미니 앨범이다. 2010년 10월 27일 [KMP홀딩스](https://ko.wikipedia.org/wiki/KMP홀딩스 "wikilink")를 통해 발매되었다. [켄지](../Page/켄지.md "wikilink"), [히치하이커](https://ko.wikipedia.org/wiki/히치하이커_\(작곡가\) "wikilink"), [황현](../Page/황현.md "wikilink") 등이 앨범에 참여했으며, [이수만](../Page/이수만.md "wikilink")이 프로듀서를 맡았다. 본 앨범의 작업은 활발한 국제적 활동 속에 극비로 진행되었다. 대다수 사람들은 2010년 소녀시대의 대한민국 활동은 더 이상 없을 것이라 예상했지만, 2010년 11월 컴백 예고를 하면서 모두의 예상을 깼다. 앨범에는 동명의 타이틀곡 〈[훗 (Hoot)](../Page/훗_\(Hoot\)_\(노래\).md "wikilink")〉을 포함해 총 5곡이 수록되었다. 앨범의 컨셉은 《[제임스 본드](../Page/제임스_본드.md "wikilink")》 시리즈의 [본드 걸과](https://ko.wikipedia.org/wiki/본드_걸 "wikilink") 같은 1970년대 [핀업 걸과](https://ko.wikipedia.org/wiki/핀업_걸 "wikilink") 19세기 말 미국의 [카우걸](https://ko.wikipedia.org/wiki/카우걸 "wikilink") 패션에 초점을 맞췄다. 소녀시대 멤버들은 앨범 컨셉에 아이디어를 내며 참여했고, [유리는](../Page/유리_\(1989년\).md "wikilink") 수록곡 〈내 잘못이죠 (Mistake)〉에 작사로 참여했다.

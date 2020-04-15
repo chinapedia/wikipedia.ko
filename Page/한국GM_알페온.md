@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [GM ](https://ko.wikipedia.org/wiki/GM_).
+> This article is converted from Wikipedia: [한국GM 알페온](https://ko.wikipedia.org/wiki/한국GM_알페온).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:20100911_daewoo_alpheon_01.JPG "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:20100911_daewoo_alpheon_02.jpg "wikilink")
@@ -145,9 +145,7 @@
 
   - [한국GM 홈페이지](http://www.gm-korea.co.kr/gmkorea/index.do)
 
-[알페온](https://ko.wikipedia.org/wiki/분류:한국GM의_차종 "wikilink") [알페온](https://ko.wikipedia.org/wiki/분류:지엠대우의_차종 "wikilink") [알페온](https://ko.wikipedia.org/wiki/분류:세단 "wikilink") [알페온](https://ko.wikipedia.org/wiki/분류:전륜구동 "wikilink") [알페온](https://ko.wikipedia.org/wiki/분류:준대형_승용차 "wikilink") [알페온](https://ko.wikipedia.org/wiki/분류:하이브리드_차량 "wikilink") [알페온](https://ko.wikipedia.org/wiki/분류:2010년대_자동차 "wikilink")
-
-[ca:Buick LaCrosse](https://ko.wikipedia.org/wiki/ca:Buick_LaCrosse "wikilink") [en:Buick LaCrosse](https://ko.wikipedia.org/wiki/en:Buick_LaCrosse "wikilink") [fa:بیوک لاکراس](https://ko.wikipedia.org/wiki/fa:بیوک_لاکراس "wikilink") [fr:Buick LaCrosse](https://ko.wikipedia.org/wiki/fr:Buick_LaCrosse "wikilink") [he:ביואיק לה קרוס](https://ko.wikipedia.org/wiki/he:ביואיק_לה_קרוס "wikilink") [lt:Buick LaCrosse](https://ko.wikipedia.org/wiki/lt:Buick_LaCrosse "wikilink") [pl:Buick LaCrosse](https://ko.wikipedia.org/wiki/pl:Buick_LaCrosse "wikilink") [pt:Buick LaCrosse](https://ko.wikipedia.org/wiki/pt:Buick_LaCrosse "wikilink") [sco:Buick LaCrosse](https://ko.wikipedia.org/wiki/sco:Buick_LaCrosse "wikilink") [uk:Buick LaCrosse](https://ko.wikipedia.org/wiki/uk:Buick_LaCrosse "wikilink") [zh:别克君越](https://ko.wikipedia.org/wiki/zh:别克君越 "wikilink")
+[분류:한국GM의 차종](https://ko.wikipedia.org/wiki/분류:한국GM의_차종 "wikilink") [분류:지엠대우의 차종](https://ko.wikipedia.org/wiki/분류:지엠대우의_차종 "wikilink") [분류:세단](https://ko.wikipedia.org/wiki/분류:세단 "wikilink") [분류:전륜구동](https://ko.wikipedia.org/wiki/분류:전륜구동 "wikilink") [분류:준대형 승용차](https://ko.wikipedia.org/wiki/분류:준대형_승용차 "wikilink") [분류:하이브리드 차량](https://ko.wikipedia.org/wiki/분류:하이브리드_차량 "wikilink") [분류:2010년대 자동차](https://ko.wikipedia.org/wiki/분류:2010년대_자동차 "wikilink")
 
 1.  [럭셔리 세단 '알페온 3.0', 9월 중순 출시 예정](http://www.segye.com/Articles/NEWS/ECONOMY/Article.asp?aid=20100809001841&subctg1=&subctg2=) [세계일보](../Page/세계일보.md "wikilink"), [2010년](../Page/2010년.md "wikilink") [8월 9일](../Page/8월_9일.md "wikilink")
 2.  [한국GM '알페온' 국토부 안전도 평가서 만점](http://news.khan.co.kr/kh_news/khan_art_view.html?artid=201107271707461&code=920508) [경향신문](../Page/경향신문.md "wikilink"), [2011년](../Page/2011년.md "wikilink") [7월 27일](../Page/7월_27일.md "wikilink")

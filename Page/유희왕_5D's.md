@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ 5D\'s](https://ko.wikipedia.org/wiki/_5D\'s).
+> This article is converted from Wikipedia: [유희왕 5D\'s](https://ko.wikipedia.org/wiki/유희왕_5D\'s).
 
 
 **유희왕 5D's**(파이브디즈, 파이브 드래곤즈)는 [유희왕](../Page/유희왕.md "wikilink") 시리즈의 세 번째 작품이며, [2008년](../Page/2008년.md "wikilink") [4월 2일부터](../Page/4월_2일.md "wikilink") [2011년](../Page/2011년.md "wikilink") [3월 30일까지](../Page/3월_30일.md "wikilink") [TV 도쿄를](../Page/TV_도쿄.md "wikilink") 통해 방영하였다. 현재 대한민국에서는 [애니원](../Page/애니원.md "wikilink"), [챔프TV](../Page/챔프TV.md "wikilink")를 통해 방영되었으며 국내 최초로 방영 완료된 유희왕 시리즈이다. 전작은 [유희왕 GX이고](../Page/유희왕_GX.md "wikilink"), 후속작은 [유희왕 ZEXAL이다](../Page/유희왕_ZEXAL.md "wikilink").

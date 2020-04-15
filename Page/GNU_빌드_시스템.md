@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [GNU  ](https://ko.wikipedia.org/wiki/GNU__).
+> This article is converted from Wikipedia: [GNU 빌드 시스템](https://ko.wikipedia.org/wiki/GNU_빌드_시스템).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Heckert_GNU_white.svg "wikilink") **GNU 빌드 시스템**(GNU build system), 또는 간단히 **Autotools**는 [소스 코드](../Page/소스_코드.md "wikilink") [패키지를](https://ko.wikipedia.org/wiki/소프트웨어_패키지 "wikilink") 수많은 [유닉스 계열](../Page/유닉스_계열.md "wikilink") 운영 체제로 포팅할 수 있게 도와 주는 [프로그래밍 도구](../Page/프로그래밍_도구.md "wikilink") 제품군이다.

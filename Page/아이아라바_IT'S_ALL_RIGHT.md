@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ IT\'S ALL RIGHT](https://ko.wikipedia.org/wiki/_IT\'S_ALL_RIGHT).
+> This article is converted from Wikipedia: [아이아라바 IT\'S ALL RIGHT](https://ko.wikipedia.org/wiki/아이아라바_IT\'S_ALL_RIGHT).
 
 
 **아이아라바 IT'S ALL RIGHT**()는 [2004년](../Page/2004년.md "wikilink") [1월 21일에](../Page/1월_21일.md "wikilink") 발매 된 [모닝구무스메](../Page/모닝구무스메.md "wikilink")의 스물한 번째 싱글이다.

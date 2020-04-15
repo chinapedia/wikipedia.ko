@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [JTBC](https://ko.wikipedia.org/wiki/JTBC).
 
 
-**JTBC**()는 유료 플랫폼으로 방송하는 한국의 [종합편성채널](https://ko.wikipedia.org/wiki/종합편성채널 "wikilink")(이후 '종편')이자 사업자이다. 2011년 3월 21일에 창립하여 2011년 12월 1일에 개국하였다. [중앙일보](../Page/중앙일보.md "wikilink")에서 출자하여 설립한 회사로, [중앙그룹](../Page/중앙그룹.md "wikilink")이 대주주로 있다. 사옥은 2011년 12월 1일 부터 2015년 1월 3일 까지는 [서울특별시](../Page/서울특별시.md "wikilink") [중구](../Page/중구_\(서울특별시\).md "wikilink") [순화동](https://ko.wikipedia.org/wiki/순화동 "wikilink") [삼성생명](https://ko.wikipedia.org/wiki/삼성생명 "wikilink") 빌딩에 있었으며, 2015년 1월 4일에 [서울특별시](../Page/서울특별시.md "wikilink") [마포구](../Page/마포구.md "wikilink") [상암동](https://ko.wikipedia.org/wiki/상암동_\(마포구\) "wikilink") 1651 JTBC빌딩으로 이전하였다.
+**JTBC**()는 유료 플랫폼으로 방송하는 한국의 [종합편성채널](https://ko.wikipedia.org/wiki/종합편성채널 "wikilink")(이후 '종편')이자 사업자이다. 2011년 3월 21일에 창립하여 2011년 12월 1일에 개국하였다. [중앙일보](../Page/중앙일보.md "wikilink")에서 출자하여 설립한 회사로, [중앙그룹](../Page/중앙그룹.md "wikilink")이 대주주로 있다. 사옥은 2011년 12월 1일부터 2015년 1월 3일까지는 [서울특별시](../Page/서울특별시.md "wikilink") [중구](../Page/중구_\(서울특별시\).md "wikilink") [순화동](https://ko.wikipedia.org/wiki/순화동 "wikilink") [삼성생명](https://ko.wikipedia.org/wiki/삼성생명 "wikilink") 빌딩에 있었으며, 2015년 1월 4일에 [서울특별시](../Page/서울특별시.md "wikilink") [마포구](../Page/마포구.md "wikilink") [상암동](https://ko.wikipedia.org/wiki/상암동_\(마포구\) "wikilink") 1651 JTBC빌딩으로 이전하였다.
 
-중앙일보 측은 JTBC가 "과거 [언론 통폐합 정책으로](https://ko.wikipedia.org/wiki/1980년_언론_통폐합 "wikilink") 폐국 후 전파 사용권 및 자산이 [KBS에](../Page/한국방송공사.md "wikilink") 몰수되었던 [TBC의](../Page/동양방송.md "wikilink") 후신"임을 주장하고 있다. 이러한 이유를 들어 1980년 11월 30일에 폐국된 TBC를 기념하여 2011년 12월 1일에 개국했으며, 이는 다른 종편이 JTBC와 같은 일자에 개국하는 데 영향을 주었다.\[1\] 개국 때부터 "다채로운 즐거움"을 구호로 사용하고 있다. 종편 중에서 유일하게 회원 가입을 해야 실시간 방송을 볼 수 있다. (JTBC NOW 앱으로 로그인 하지 않아도 실시간 시청 가능)
+중앙일보 측은 JTBC가 과거 [언론 통폐합](https://ko.wikipedia.org/wiki/1980년_언론_통폐합 "wikilink") 정책으로 폐국 후 전파 사용권 및 자산이 [KBS에](../Page/한국방송공사.md "wikilink") 몰수되었던 "[TBC](../Page/동양방송.md "wikilink")"의 후신임을 주장하고 있다. 이러한 이유를 들어 1980년 11월 30일에 폐국된 TBC를 기념하여 2011년 12월 1일에 개국했으며, 이는 다른 종편이 JTBC와 같은 일자에 개국하는 데 영향을 주었다.\[1\] 개국 때부터 "다채로운 즐거움"을 구호로 사용하고 있다. 종편 중에서 유일하게 회원 가입을 해야 실시간 방송을 볼 수 있다. (JTBC NOW 앱으로 로그인 하지 않아도 실시간 시청 가능)
 
 대구·경북권 지역 민방인 [TBC와는](../Page/TBC_\(대한민국의_방송사\).md "wikilink") 아무런 관련이 없다.
 
@@ -11,7 +11,7 @@
 
 ### 설립 초기
 
-1980년 말 [신군부](https://ko.wikipedia.org/wiki/신군부 "wikilink")의 [언론 통폐합 정책으로](https://ko.wikipedia.org/wiki/1980년_언론_통폐합 "wikilink") 당시 중앙일보와 같은 [삼성](https://ko.wikipedia.org/wiki/삼성 "wikilink")의 계열사였던 [동양방송](../Page/동양방송.md "wikilink")(TBC)이 폐국되어 자산 일체가 [KBS에](../Page/한국방송공사.md "wikilink") 몰수당한 이후, 중앙일보는 자회사인 [중앙방송을](https://ko.wikipedia.org/wiki/중앙방송_\(대한민국_민영방송사\) "wikilink") 통해 유료 방송 [QTV](../Page/QTV_\(텔레비전_채널\).md "wikilink")(현 [JTBC2](https://ko.wikipedia.org/wiki/JTBC2 "wikilink")), J골프(현 [JTBC 골프](https://ko.wikipedia.org/wiki/JTBC_골프 "wikilink")) 등을 운영하였고, 지면을 통해 TBC에 대한 기획 기사를 수차례 게재하였다.
+1980년 말 [신군부](https://ko.wikipedia.org/wiki/신군부 "wikilink")의 [언론 통폐합 정책으로](https://ko.wikipedia.org/wiki/1980년_언론_통폐합 "wikilink") 당시 중앙일보와 같은 [삼성](https://ko.wikipedia.org/wiki/삼성 "wikilink")의 계열사였던 [동양방송](../Page/동양방송.md "wikilink")(TBC)이 폐국되어 자산 일체가 [KBS에](../Page/한국방송공사.md "wikilink") 몰수당한 이후, 중앙일보는 자회사인 [중앙방송을](https://ko.wikipedia.org/wiki/중앙방송_\(대한민국_민영방송사\) "wikilink") 통해 유료 방송 [QTV](../Page/QTV_\(텔레비전_채널\).md "wikilink")(현 [JTBC2](https://ko.wikipedia.org/wiki/JTBC2 "wikilink")), J골프(현 [JTBC 골프&스포츠](../Page/JTBC_골프&스포츠.md "wikilink")) 등을 운영하였고, 지면을 통해 TBC에 대한 기획 기사를 수차례 게재하였다.
 
 2009년 7월 22일에 여러 차례 [논란](../Page/대한민국_미디어_관련법_개정_논란.md "wikilink") 끝에 종합편성채널에 법적 근거를 부여하는 방송법 개정안이 당시 여당인 한나라당의 단독 강행 처리로 국회를 통과했는데, 이는 야당과 시민사회단체로부터 "날치기"라고 비판 받고, 일사부재의의 원칙 위배 논란이 불거졌다. 이후 [2010년](../Page/2010년.md "wikilink") [11월 30일에](../Page/11월_30일.md "wikilink") 종합편성채널의 신청서 접수가 시작되었을 때, 중앙일보 측은 동양방송의 영문 약칭인 TBC라는 이름으로 신청을 시도하려 했으나, 해당 약칭을 1990년대부터 대구•경북 지역의 [SBS](../Page/SBS_\(대한민국의_방송사\).md "wikilink") 계열 지역민영방송사인 대구방송(Taegu Broadcasting Corporation, 현 [주식회사 TBC](../Page/TBC_\(대한민국의_방송사\).md "wikilink"))이 선점하여 jTBC(소문자 j)라는 이름으로 신청서를 제출하였다. 이후 중앙그룹 측은 J를 뺀 TBC 상표를 사용하고자 해당 상표를 보유한 대구방송과 여러번 접촉했으나, 결국 TBC 측의 거절로 실패했다.\[2\]
 
@@ -25,12 +25,88 @@
 
 [2013년 5월](../Page/2013년_5월.md "wikilink"), [손석희](../Page/손석희.md "wikilink") 앵커를 보도부문사장으로 영입하고,\[9\] 그를 [JTBC 뉴스룸의](../Page/JTBC_뉴스룸.md "wikilink") 전신이었던 저녁 종합 뉴스 프로그램 [JTBC 뉴스 9의](../Page/JTBC_뉴스_9.md "wikilink") 진행자로 내세워\[10\] 보도부문에서도 호평을 받기 시작했다. 특히 2014년 [세월호 침몰 사고](../Page/세월호_침몰_사고.md "wikilink") 관련 보도와 2016년 [박근혜-최순실 게이트](../Page/박근혜-최순실_게이트.md "wikilink") 관련 보도를 기점으로 JTBC는 [KBS조차](../Page/한국방송공사.md "wikilink") 제치고 각종 여론조사의 방송사 뉴스 신뢰도/영향력 평가에서 압도적 수치로 1위를 차지하였다. 홍정도 사장의 2018년 신년사에 의하면 JTBC는 2017년 첫 순이익을 냈다고 한다.\[11\]
 
-## TV 프로그램
+<table>
+<caption>평일</caption>
+<thead>
+<tr class="header">
+<th><p>방송 시간대</p></th>
+<th><p>방송 타이틀</p></th>
+<th><p>비고</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>07:00~08:30</p></td>
+<td><p><a href="../Page/JTBC_뉴스_아침&amp;.md" title="wikilink">JTBC 뉴스 아침&amp;</a></p></td>
+<td><p>평일 오전 7시 ~ 8시 30분</p></td>
+</tr>
+<tr class="even">
+<td><p>14:25~15:50</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/전용우의_뉴스ON" title="wikilink">전용우의 뉴스ON</a></p></td>
+<td><p>평일 오후 2시 25분 ~ 3시 50분</p></td>
+</tr>
+<tr class="odd">
+<td><p>15:00~10:50</p></td>
+<td><p><a href="../Page/사건반장.md" title="wikilink">사건반장</a></p></td>
+<td><p>월~금요일 15시 50분</p></td>
+</tr>
+<tr class="even">
+<td><p>17:10 ~ 18:25</p></td>
+<td><p><a href="../Page/정치부_회의.md" title="wikilink">정치부 회의</a></p></td>
+<td><p>저녁 5시 10분 ~ 6시 25분</p></td>
+</tr>
+<tr class="odd">
+<td><p>18:25 ~ 18:30</p></td>
+<td><p><a href="../Page/이_시각_뉴스룸.md" title="wikilink">이 시각 뉴스룸</a></p></td>
+<td><p>평일 저녁 6시 25분 ~ 6시 30분</p></td>
+</tr>
+<tr class="even">
+<td><p>19:55 ~ 21:30</p></td>
+<td><p><a href="../Page/JTBC_뉴스룸.md" title="wikilink">JTBC 뉴스룸</a></p></td>
+<td><p>저녁 7시 55분 ~ 8시 55분<br />
+밤 8시 55분 ~ 9시 25분</p></td>
+</tr>
+<tr class="odd">
+<td><p>특집 편성</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/JTBC_뉴스특보" title="wikilink">JTBC 뉴스특보</a></p></td>
+<td><p>특집편성으로 유동적으로 편성</p></td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<caption>주말</caption>
+<thead>
+<tr class="header">
+<th><p>방송 시간대</p></th>
+<th><p>방송 타이틀</p></th>
+<th><p>비고</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>11:55 ~ 12:00</p></td>
+<td><p><a href="../Page/이_시각_뉴스룸.md" title="wikilink">이 시각 뉴스룸</a></p></td>
+<td><p>주말 오전 11시 55분 ~ 낮 12시</p></td>
+</tr>
+<tr class="even">
+<td><p>19:55 ~ 21:00</p></td>
+<td><p><a href="../Page/JTBC_뉴스룸.md" title="wikilink">JTBC 뉴스룸</a></p></td>
+<td><p>저녁 7시 55분 ~ 밤 9시<br />
+저녁 6시 55분 ~ 7시 40분</p></td>
+</tr>
+<tr class="odd">
+<td><p>특집 편성</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/JTBC_뉴스특보" title="wikilink">JTBC 뉴스특보</a></p></td>
+<td><p>특집편성으로 유동적으로 편성</p></td>
+</tr>
+</tbody>
+</table>
 
 ## 특징
 
   - 방송 여는 시작에 제공자막 표시는 [광고](https://ko.wikipedia.org/wiki/광고 "wikilink")주만 나열하는 것이다. ([2014년](../Page/2014년.md "wikilink")까지 제공자막 표시하지 않는다.)
-  - 화면 상단 왼쪽에 드라마는 **본**라고, 교양 · 예능프로그램은 **본방송**이라고 표시한다.\[12\]
+  - 화면 상단 왼쪽에 드라마는 **본**으로, 교양 · 예능프로그램은 **본방송**으로 표시한다.\[12\]
   - 보도 · 시사 · 토론 · 실황중계 프로그램은 화면 오른쪽 상단의 JTBC **LIVE**는 표시된다. (인터넷 다시보기의 LIVE 표시가 나오지 않음)
 
 ## 마케팅
@@ -76,7 +152,7 @@
 
   - [중앙그룹](../Page/중앙그룹.md "wikilink")
       - [JTBC2](https://ko.wikipedia.org/wiki/JTBC2 "wikilink")
-      - [JTBC3 폭스 스포츠](../Page/JTBC3_폭스_스포츠.md "wikilink")
+      - [JTBC 골프&스포츠](../Page/JTBC_골프&스포츠.md "wikilink") (구. JTBC3 폭스 스포츠)
       - [JTBC4](https://ko.wikipedia.org/wiki/JTBC4 "wikilink")
       - [JTBC Zee TV](https://ko.wikipedia.org/wiki/JTBC_Zee_TV "wikilink")
       - [JTBC GOLF](../Page/JTBC_GOLF.md "wikilink")

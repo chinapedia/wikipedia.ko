@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [UPS ](https://ko.wikipedia.org/wiki/UPS_).
+> This article is converted from Wikipedia: [UPS 항공](https://ko.wikipedia.org/wiki/UPS_항공).
 
 
 **UPS 항공**()은 [켄터키주](../Page/켄터키주.md "wikilink") [루이빌](../Page/루이빌.md "wikilink")에 본사를 둔 [미국](../Page/미국.md "wikilink")의 [화물 항공사로](../Page/화물_항공사.md "wikilink") 계열사는 [1907년](../Page/1907년.md "wikilink")에 설립한 [유나이티드 파셀 서비스가](../Page/UPS_\(기업\).md "wikilink") 있으며 월드 포트로 [루이빌 국제공항이](https://ko.wikipedia.org/wiki/루이빌_국제공항 "wikilink") 있다.

@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [  II  ](https://ko.wikipedia.org/wiki/__II__).
+> This article is converted from Wikipedia: [글로벌 스타크래프트 II 팀 리그](https://ko.wikipedia.org/wiki/글로벌_스타크래프트_II_팀_리그).
 
 
-**글로벌 스타크래프트 II 팀 리그** (Global STARCRAFT II Team League, GSTL)는 [곰TV](../Page/곰TV.md "wikilink")가 주최하고 [블리자드 엔터테인먼트가](../Page/블리자드_엔터테인먼트.md "wikilink") 후원하는 세계 최초의 [스타크래프트 II](https://ko.wikipedia.org/wiki/스타크래프트_II "wikilink") 공식 팀 리그 대회이다. 곰TV의 인터넷 방송 플랫폼을 통하여 전 세계 180여개국에 동시 생중계 된다.
+**글로벌 스타크래프트 II 팀 리그**(Global STARCRAFT II Team League, GSTL)는 [곰TV](../Page/곰TV.md "wikilink")가 주최하고 [블리자드 엔터테인먼트가](../Page/블리자드_엔터테인먼트.md "wikilink") 후원하는 세계 최초의 [스타크래프트 II](https://ko.wikipedia.org/wiki/스타크래프트_II "wikilink") 공식 팀 리그 대회이다. 곰TV의 인터넷 방송 플랫폼을 통하여 전 세계 180여개국에 동시 생중계 된다.
 
 [2014년](../Page/2014년.md "wikilink") [1월 28일](../Page/1월_28일.md "wikilink") [E스포츠 연맹이](https://ko.wikipedia.org/wiki/이스포츠_연맹 "wikilink") 해체됨에 따라 역사속으로 사라졌다.
 

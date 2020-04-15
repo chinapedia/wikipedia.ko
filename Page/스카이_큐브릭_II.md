@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  II](https://ko.wikipedia.org/wiki/__II).
+> This article is converted from Wikipedia: [스카이 큐브릭 II](https://ko.wikipedia.org/wiki/스카이_큐브릭_II).
 
 
 **팬택 스카이 큐브릭 II**()는 [팬택](../Page/팬택.md "wikilink")이 2009년 12월 2일에 출시한 [피처폰](https://ko.wikipedia.org/wiki/피처폰 "wikilink")이다.\[1\]

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [WWE   ](https://ko.wikipedia.org/wiki/WWE___).
+> This article is converted from Wikipedia: [WWE 노 웨이 아웃](https://ko.wikipedia.org/wiki/WWE_노_웨이_아웃).
 
 
 **노 웨이 아웃**(No Way Out)은 [WWE](https://ko.wikipedia.org/wiki/WWE "wikilink")가 주관하였고, 2009년 끝으로 폐지된 페이퍼뷰이다. 하지만 2012년 다시 부활했다가 다시 폐지된다.

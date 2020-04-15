@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [AFC ](https://ko.wikipedia.org/wiki/AFC_).
+> This article is converted from Wikipedia: [AFC 튀비즈](https://ko.wikipedia.org/wiki/AFC_튀비즈).
 
 
 **AFC 튀비즈**(A.F.C. Tubize)는 [튀비즈](https://ko.wikipedia.org/wiki/튀비즈 "wikilink")를 연고로 하는 [벨기에](../Page/벨기에.md "wikilink")의 축구 클럽이다.

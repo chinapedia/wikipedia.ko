@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [HTC ](https://ko.wikipedia.org/wiki/HTC_).
+> This article is converted from Wikipedia: [HTC 레전드](https://ko.wikipedia.org/wiki/HTC_레전드).
 
 
 **HTC 레전드**()는 [HTC에서](../Page/HTC_\(기업\).md "wikilink") [2010년](../Page/2010년.md "wikilink")에 출시한 스마트폰이다. [2010년](../Page/2010년.md "wikilink") [2월 16일](../Page/2월_16일.md "wikilink") [스페인](../Page/스페인.md "wikilink") [바르셀로나](https://ko.wikipedia.org/wiki/바르셀로나 "wikilink")에서 열린 세계 이동통신 전시회에서 처음 선보였고\[1\] 그 해 [3월 31일에](../Page/3월_31일.md "wikilink") 시판되었다. [대한민국](../Page/대한민국.md "wikilink")에는 [2010년](../Page/2010년.md "wikilink") [8월 31일](../Page/8월_31일.md "wikilink") [KT](../Page/KT.md "wikilink")를 통하여 출시되었다. [대한민국](../Page/대한민국.md "wikilink")의 언론에 별도 제품 출시자료를 배포하지 않은채 시중에 소량 공급하여 출시 사실이 뒤늦게 알려지기도 했다.\[2\]

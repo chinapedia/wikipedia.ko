@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [THE IDOLM@STER  ](https://ko.wikipedia.org/wiki/THE_IDOLM@STER__).
+> This article is converted from Wikipedia: [THE IDOLM@STER의 등장인물 목록](https://ko.wikipedia.org/wiki/THE_IDOLM@STER의_등장인물_목록).
 
 
 ## 765(남코) 프로덕션 소속 아이돌

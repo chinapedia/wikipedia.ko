@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:LG  ](https://ko.wikipedia.org/wiki/:LG__).
+> This article is converted from Wikipedia: [틀:LG전자의 휴대 전화기](https://ko.wikipedia.org/wiki/틀:LG전자의_휴대_전화기).
 
 
 <onlyinclude></onlyinclude>

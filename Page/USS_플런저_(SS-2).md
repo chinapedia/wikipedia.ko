@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [USS  \(SS-2\)](https://ko.wikipedia.org/wiki/USS__\(SS-2\)).
+> This article is converted from Wikipedia: [USS 플런저 \(SS-2\)](https://ko.wikipedia.org/wiki/USS_플런저_\(SS-2\)).
 
 
 **USS 플런저 (SS-2)**는 미 해군 초기의 [잠수함](../Page/잠수함.md "wikilink")이다. [플런저급 잠수함의](https://ko.wikipedia.org/wiki/플런저급_잠수함 "wikilink") [네임쉽](https://ko.wikipedia.org/wiki/네임쉽 "wikilink")이며, 후에 ***A-1***로 함명이 바뀌었다.

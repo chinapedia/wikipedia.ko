@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [GUID  ](https://ko.wikipedia.org/wiki/GUID__).
+> This article is converted from Wikipedia: [GUID 파티션 테이블](https://ko.wikipedia.org/wiki/GUID_파티션_테이블).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:GUID_Partition_Table_Scheme.svg "wikilink") [컴퓨터 하드웨어에서](../Page/컴퓨터_하드웨어.md "wikilink") **[GUID](../Page/전역_고유_식별자.md "wikilink") 파티션 테이블**(GPT, GUID Partition Table)은 물리적인 [하드 디스크에](https://ko.wikipedia.org/wiki/하드_디스크 "wikilink") 대한 [파티션 테이블](https://ko.wikipedia.org/wiki/파티션_테이블 "wikilink") 레이아웃 표준이다. [확장 펌웨어 인터페이스](https://ko.wikipedia.org/wiki/확장_펌웨어_인터페이스 "wikilink") (EFI) 표준([인텔](../Page/인텔.md "wikilink")이 [PC](../Page/개인용_컴퓨터.md "wikilink") [바이오스](../Page/바이오스.md "wikilink")를 대체하기 위하여 제안한 것)의 일부로 형성되어 있기는 하지만 [MBR](../Page/마스터_부트_레코드.md "wikilink") 파티션 테이블의 제한 때문에 일부 [바이오스](../Page/바이오스.md "wikilink") 시스템에 사용되기도 한다. MBR 파티션 테이블의 경우 하나의 디스크 파티션 크기를 최대 2.2 [TB](https://ko.wikipedia.org/wiki/테라바이트 "wikilink") (2.2 × 10<sup>12</sup> [바이트](../Page/바이트.md "wikilink"))).\[1\] 로 제한한다. GPT는 최대 디스크 및 파티션 크기를 9.4 [ZB](https://ko.wikipedia.org/wiki/제타바이트 "wikilink")(9.4 × 10<sup>21</sup> 바이트)까지 허용한다.\[2\]\[3\]

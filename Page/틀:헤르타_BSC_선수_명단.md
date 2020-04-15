@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [: BSC  ](https://ko.wikipedia.org/wiki/:_BSC__).
+> This article is converted from Wikipedia: [틀:헤르타 BSC 선수 명단](https://ko.wikipedia.org/wiki/틀:헤르타_BSC_선수_명단).
 
 
 <onlyinclude></onlyinclude>

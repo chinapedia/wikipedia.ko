@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [CBS   ](https://ko.wikipedia.org/wiki/CBS___).
+> This article is converted from Wikipedia: [바이어컴CBS 도메스틱 미디어 네트웍스](https://ko.wikipedia.org/wiki/바이어컴CBS_도메스틱_미디어_네트웍스).
 
 
 **바이어컴CBS 도메스틱 미디어 네트웍스**\[1\] ()는 1984년 미국 [워너미디어](../Page/워너미디어.md "wikilink")와 [아메리칸 엑스프레스와](../Page/아메리칸_엑스프레스.md "wikilink") 합작해 설립한 미국의 미디어 관련 기업이다. 현재는 [바이어컴](https://ko.wikipedia.org/wiki/바이어컴 "wikilink")의 자회사이다. 2011년까지는 **MTV 네트웍스**()였다. 2019년 재합병 전까지는 **바이어컴 미디어 네트웍스**()였으며, [CBS 코퍼레이션과](../Page/CBS_코퍼레이션.md "wikilink") [바이어컴](https://ko.wikipedia.org/wiki/바이어컴 "wikilink")의 재합병에 따라 현재의 이름으로 변경되었다.
@@ -66,7 +66,7 @@
 
 <references />
 
-[바이어컴_미디어_네트웍스](https://ko.wikipedia.org/wiki/분류:바이어컴_미디어_네트웍스 "wikilink") [분류:뉴욕의 기업](https://ko.wikipedia.org/wiki/분류:뉴욕의_기업 "wikilink") [분류:바이어컴CBS의 자회사](https://ko.wikipedia.org/wiki/분류:바이어컴CBS의_자회사 "wikilink") [분류:피버디상 수상자](https://ko.wikipedia.org/wiki/분류:피버디상_수상자 "wikilink") [분류:1984년 설립된 기업](https://ko.wikipedia.org/wiki/분류:1984년_설립된_기업 "wikilink") [분류:미국의 방송사](https://ko.wikipedia.org/wiki/분류:미국의_방송사 "wikilink") [분류:미국의 케이블 네트워크 그룹](https://ko.wikipedia.org/wiki/분류:미국의_케이블_네트워크_그룹 "wikilink")
+[바이어컴CBS_도메스틱_미디어_네트웍스](https://ko.wikipedia.org/wiki/분류:바이어컴CBS_도메스틱_미디어_네트웍스 "wikilink") [분류:뉴욕의 기업](https://ko.wikipedia.org/wiki/분류:뉴욕의_기업 "wikilink") [분류:바이어컴CBS의 자회사](https://ko.wikipedia.org/wiki/분류:바이어컴CBS의_자회사 "wikilink") [분류:피버디상 수상자](https://ko.wikipedia.org/wiki/분류:피버디상_수상자 "wikilink") [분류:1984년 설립된 기업](https://ko.wikipedia.org/wiki/분류:1984년_설립된_기업 "wikilink") [분류:미국의 방송사](https://ko.wikipedia.org/wiki/분류:미국의_방송사 "wikilink") [분류:미국의 케이블 네트워크 그룹](https://ko.wikipedia.org/wiki/분류:미국의_케이블_네트워크_그룹 "wikilink")
 
 1.
 2.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  MY ASIA](https://ko.wikipedia.org/wiki/__MY_ASIA).
+> This article is converted from Wikipedia: [우리가 살아가는 MY ASIA](https://ko.wikipedia.org/wiki/우리가_살아가는_MY_ASIA).
 
 
 〈**우리가 살아가는 MY ASIA**〉()는 [2007년](../Page/2007년.md "wikilink") [1월 24일에](../Page/1월_24일.md "wikilink") 발매 된 [모닝구무스메 탄생 10년 기념대의](../Page/모닝구무스메_탄생_10년_기념대.md "wikilink") 첫 번째 싱글이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Break Down \(\)](https://ko.wikipedia.org/wiki/Break_Down_\(\)).
+> This article is converted from Wikipedia: [Break Down \(음반\)](https://ko.wikipedia.org/wiki/Break_Down_\(음반\)).
 
 
 《**Break Down**》은 [슈퍼주니어](../Page/슈퍼주니어.md "wikilink")의 중화권 유닛 [슈퍼주니어-M](../Page/슈퍼주니어-M.md "wikilink")의 두번째 정규 앨범이다.

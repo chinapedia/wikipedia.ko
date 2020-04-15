@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [K  ](https://ko.wikipedia.org/wiki/K__).
+> This article is converted from Wikipedia: [ŠK 슬로반 브라티슬라바](https://ko.wikipedia.org/wiki/ŠK_슬로반_브라티슬라바).
 
 
 **ŠK 슬로반 브라티슬라바**(ŠK Slovan Bratislava)는 [브라티슬라바](../Page/브라티슬라바.md "wikilink")를 연고로 하는 [슬로바키아](../Page/슬로바키아.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다. 현재는 [슬로바키아 수페르리가에](../Page/슬로바키아_수페르리가.md "wikilink") 참가하고 있다. 슬로바키아 수페르리가에서 5번, [체코슬로바키아 1부 리그에서](../Page/체코슬로바키아_1부_리그.md "wikilink") 8번 우승했으며 슬로바키아의 축구 클럽 가운데 가장 많은 우승 기록을 보유하고 있다.

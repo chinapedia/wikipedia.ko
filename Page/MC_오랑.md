@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [MC ](https://ko.wikipedia.org/wiki/MC_).
+> This article is converted from Wikipedia: [MC 오랑](https://ko.wikipedia.org/wiki/MC_오랑).
 
 
 **물루디아 클뢰브 도랑**(, ) 또는 **MC 오랑**()은 [오랑](https://ko.wikipedia.org/wiki/오랑 "wikilink")을 연고로 하는 알제리의 [축구](../Page/축구.md "wikilink") 클럽이다.

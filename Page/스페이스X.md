@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [X](https://ko.wikipedia.org/wiki/X).
+> This article is converted from Wikipedia: [스페이스X](https://ko.wikipedia.org/wiki/스페이스X).
 
 
 **스페이스X**(, 공식 회사명 Space Exploration Technologies Corp.)는 [미국](../Page/미국.md "wikilink")의 항공우주 장비 제조/생산 및 우주 수송 회사이다. 본사는 [캘리포니아](https://ko.wikipedia.org/wiki/캘리포니아_주 "wikilink") 주 [호손에](https://ko.wikipedia.org/wiki/호손_\(캘리포니아주\) "wikilink") 위치해 있다. 우주로의 수송 비용을 획기적으로 절감하고 화성을 식민지화하겠다는 목표\[1\] 아래 [2002년](../Page/2002년.md "wikilink") 인터넷 벤처기업 [페이팔](../Page/페이팔.md "wikilink")의 창업자인 [엘론 머스크에](https://ko.wikipedia.org/wiki/엘론_머스크 "wikilink") 의하여 설립되었다. 설립 이래 스페이스X는 팰컨 발사체와 드래곤 우주선 시리즈를 개발해 왔으며, 둘은 상용화되어 지구 궤도로 화물을 수송하는 임무에 운용되고 있다.

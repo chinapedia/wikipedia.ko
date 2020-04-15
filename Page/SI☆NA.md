@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SINA](https://ko.wikipedia.org/wiki/SINA).
+> This article is converted from Wikipedia: [SI☆NA](https://ko.wikipedia.org/wiki/SI☆NA).
 
 
 **SI☆NA**는 [헬로\! 프로젝트에](../Page/헬로!_프로젝트.md "wikilink") 소속된 [일본](../Page/일본.md "wikilink")의 [여성](../Page/여성.md "wikilink") [아이돌](https://ko.wikipedia.org/wiki/아이돌_가수 "wikilink") [그룹이다](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink").

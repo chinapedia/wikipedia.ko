@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [- C ](https://ko.wikipedia.org/wiki/-_C_).
+> This article is converted from Wikipedia: [메르세데스-벤츠 C 클래스](https://ko.wikipedia.org/wiki/메르세데스-벤츠_C_클래스).
 
 
 **메르세데스-벤츠 C 클래스**(Mercedes-Benz C-Class)는 [다임러 AG가](../Page/다임러_AG.md "wikilink") 제조해 [메르세데스-벤츠](../Page/메르세데스-벤츠.md "wikilink") 브랜드로 판매하는 컴팩트 [세단](https://ko.wikipedia.org/wiki/세단 "wikilink") 및 [스테이션 왜건이다](../Page/스테이션_왜건.md "wikilink"). C 클래스의 전신은 코드 네임 W201의 190E, 230E이다.

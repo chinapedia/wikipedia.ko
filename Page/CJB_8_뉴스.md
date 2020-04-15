@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [CJB 8 ](https://ko.wikipedia.org/wiki/CJB_8_).
+> This article is converted from Wikipedia: [CJB 8 뉴스](https://ko.wikipedia.org/wiki/CJB_8_뉴스).
 
 
 《**CJB 8 뉴스**》는 [청주방송](../Page/청주방송.md "wikilink")(CJB)에서 제작하여 [충청북도](https://ko.wikipedia.org/wiki/충청북도 "wikilink"), [세종특별자치시](../Page/세종특별자치시.md "wikilink") 지역에 방송하는 청주방송의 메인[뉴스](../Page/뉴스.md "wikilink") 프로그램이다.
@@ -31,9 +31,8 @@
 
 ## 청주방송의 다른 뉴스 프로그램
 
-  - [CJB 7 뉴스](https://ko.wikipedia.org/wiki/CJB_7_뉴스 "wikilink")
-  - [CJB 뉴스 (1020)](../Page/CJB_뉴스_\(1020\).md "wikilink")
-  - [CJB 뉴스 (1750)](https://ko.wikipedia.org/wiki/CJB_뉴스_\(1750\) "wikilink")
+  - [CJB 모닝와이드](../Page/CJB_모닝와이드.md "wikilink")
+  - [CJB 뉴스매거진 7](https://ko.wikipedia.org/wiki/CJB_뉴스매거진_7 "wikilink")
 
 ## 같이 보기
 

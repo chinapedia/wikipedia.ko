@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SBS 2010 FIFA    ](https://ko.wikipedia.org/wiki/SBS_2010_FIFA____).
+> This article is converted from Wikipedia: [SBS의 2010년 FIFA 월드컵 독점 중계 논란](https://ko.wikipedia.org/wiki/SBS의_2010년_FIFA_월드컵_독점_중계_논란).
 
 
 **SBS의 2010년 FIFA 월드컵 독점중계 논란**은 [2010년 FIFA 월드컵](https://ko.wikipedia.org/wiki/2010년_FIFA_월드컵 "wikilink") 기간 동안의 [SBS](../Page/SBS.md "wikilink")의 독점 중계에 관한 내용이다.

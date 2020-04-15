@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ATC  S02](https://ko.wikipedia.org/wiki/ATC__S02).
+> This article is converted from Wikipedia: [ATC 코드 S02](https://ko.wikipedia.org/wiki/ATC_코드_S02).
 
 
 **ATC 코드 S02**는 [ATC 코드의](https://ko.wikipedia.org/wiki/ATC_코드 "wikilink") 이(耳)과 약물로 사용하는 약물을 정리한 코드이다. \[1\] **ATC 코드** S [감각 기관의](https://ko.wikipedia.org/wiki/감각_기관 "wikilink") 하위그룹을 이룬다.

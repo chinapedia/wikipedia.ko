@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  FC](https://ko.wikipedia.org/wiki/__FC).
+> This article is converted from Wikipedia: [토키 유나이티드 FC](https://ko.wikipedia.org/wiki/토키_유나이티드_FC).
 
 
 **토키 유나이티드 FC**(Torquay United Football Club)는 [잉글랜드](../Page/잉글랜드.md "wikilink") [데번주](../Page/데번주.md "wikilink") [토키를](https://ko.wikipedia.org/wiki/토키_\(데번주\) "wikilink") 연고로 하는 축구 클럽이다. 2019-20 시즌에서 [내셔널리그에](../Page/내셔널리그_\(디비전\).md "wikilink") 참가하고 있다.

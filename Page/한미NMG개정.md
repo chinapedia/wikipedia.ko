@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [NMG](https://ko.wikipedia.org/wiki/NMG).
+> This article is converted from Wikipedia: [한미NMG개정](https://ko.wikipedia.org/wiki/한미NMG개정).
 
 
 **한미 NMG 개정**은 대한민국 탄도 미사일의 탄두중량·사거리 제한에 대한 지침이자 자율 규제 선언이다. 2012년, 10월 7일에 발표한 **미사일지침 개정**(New Missile Guideline, NMG)에 따르면 탄두중량은 500kg, 사거리는 800km, Trade-off 방식을 적용하고 무인항공기(Unmanned Aerial Vehicle, UAV)의 탑재중량을 2.5T으로 제한하고 있었다.

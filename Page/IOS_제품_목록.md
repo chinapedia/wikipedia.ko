@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [IOS  ](https://ko.wikipedia.org/wiki/IOS__).
+> This article is converted from Wikipedia: [IOS 제품 목록](https://ko.wikipedia.org/wiki/IOS_제품_목록).
 
 
 이 문서는 [애플의](https://ko.wikipedia.org/wiki/애플_\(기업\) "wikilink") [iOS](https://ko.wikipedia.org/wiki/iOS "wikilink")가 들어간 제품을 비교한다.

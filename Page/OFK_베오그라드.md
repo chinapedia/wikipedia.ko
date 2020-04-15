@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [OFK ](https://ko.wikipedia.org/wiki/OFK_).
+> This article is converted from Wikipedia: [OFK 베오그라드](https://ko.wikipedia.org/wiki/OFK_베오그라드).
 
 
 **옴라딘스키 푸드발스키 클루브 베오그라드**(Омладински фудбалски клуб Београд, Omladinski Fudbalski Klub Beograd) 또는 **OFK 베오그라드**(ОФК Београд, OFK Beograd)는 [세르비아](../Page/세르비아.md "wikilink") [베오그라드](../Page/베오그라드.md "wikilink")의 [축구](../Page/축구.md "wikilink") 팀이다. 클럽 이름은 [세르비아어](../Page/세르비아어.md "wikilink")로 "베오그라드 청소년 축구팀"을 뜻한다.

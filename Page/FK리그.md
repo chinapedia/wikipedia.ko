@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FK](https://ko.wikipedia.org/wiki/FK).
+> This article is converted from Wikipedia: [FK리그](https://ko.wikipedia.org/wiki/FK리그).
 
 
 **FK리그**는 [대한민국](../Page/대한민국.md "wikilink")의 [풋살](../Page/풋살.md "wikilink") 리그로, [2009년](../Page/2009년.md "wikilink") [12월 25일에](../Page/12월_25일.md "wikilink") 출범했다. 여자부는 [2014년](../Page/2014년.md "wikilink")에 출범했다. 2017년부터 K리그에서 도입하여 시행하고 있는 [승강제](../Page/승강제.md "wikilink")를 도입함으로써 승강제의 역사가 시작되었다. 한국 풋살연맹이 명칭 공모를 시행함에 따라 1부리그는 [FK 슈퍼리그](../Page/FK_슈퍼리그.md "wikilink") , 2부리그는 [FK 드림리그로](../Page/FK_드림리그.md "wikilink") 확정되었다. 또한 2017-18시즌 우승팀인 [전주매그풋살클럽이](../Page/전주_매그_FC.md "wikilink") 인도네시아에서 열렸던 [2018 AFC 풋살 클럽 챔피언십에](../Page/AFC_풋살_클럽_챔피언십.md "wikilink") 처음으로 참가하면서 FK 슈퍼리그 우승팀은 AFC 풋살 클럽 챔피언십 출전권을 얻는다.

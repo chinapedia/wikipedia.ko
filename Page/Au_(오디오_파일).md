@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Au \( \)](https://ko.wikipedia.org/wiki/Au_\(_\)).
+> This article is converted from Wikipedia: [Au \(오디오 파일\)](https://ko.wikipedia.org/wiki/Au_\(오디오_파일\)).
 
 
 **Au 파일 포맷**은 [선 마이크로시스템즈이](https://ko.wikipedia.org/wiki/선_마이크로시스템즈 "wikilink") 개발한 [오디오 파일 포맷이다](../Page/오디오_파일_포맷.md "wikilink"). Au 포맷은 [NeXT](../Page/NeXT.md "wikilink") 시스템과 초기 웹페이지에서 널리 사용되었다. 원래 헤더 파일이 없었으며 8000 Hz의 [샘플링 레이트에](../Page/샘플링_레이트.md "wikilink") 8비트 [µ-law방식으로](https://ko.wikipedia.org/wiki/뮤_법칙_알고리즘 "wikilink") 인코딩되었으나, 다른 기업들의 하드웨어에서 비디오 신호의 정수 요소로서 8192 Hz의 샘플링 레이트를 사용하기 시작했다. 현재 사용되는 파일들은 여섯 [unsigned](https://ko.wikipedia.org/wiki/unsigned "wikilink") 32비트로 작성된 헤더 파일을 가진다.

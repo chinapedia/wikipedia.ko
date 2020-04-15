@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ JH-7](https://ko.wikipedia.org/wiki/_JH-7).
+> This article is converted from Wikipedia: [시안 JH-7](https://ko.wikipedia.org/wiki/시안_JH-7).
 
 
 **시안 JH-7**(FBC-1; 殲轟-7; Jiānhōng-7;Flounder)은 중국이 독자개발한 쌍발엔진 2인승 다목적 전투기이다.

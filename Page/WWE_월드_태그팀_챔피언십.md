@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [WWE   ](https://ko.wikipedia.org/wiki/WWE___).
+> This article is converted from Wikipedia: [WWE 월드 태그팀 챔피언십](https://ko.wikipedia.org/wiki/WWE_월드_태그팀_챔피언십).
 
 
 **WWE 월드 태그팀 챔피언십**(WWE World Tag Team Championship)은 [WWE](https://ko.wikipedia.org/wiki/WWE "wikilink")에 속해있던 태그팀 챔피언십이었다.

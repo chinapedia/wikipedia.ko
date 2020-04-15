@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  FC  ](https://ko.wikipedia.org/wiki/__FC__).
+> This article is converted from Wikipedia: [뉴캐슬 유나이티드 FC의 감독 목록](https://ko.wikipedia.org/wiki/뉴캐슬_유나이티드_FC의_감독_목록).
 
 
 이 문서는 **뉴캐슬 유나이티드의 감독**과 그 기록을 모아둔 목록이다. 최장 기간 감독은 1939년부터 1958년까지 재임 했던 [스탠 시모어이며](../Page/스탠_시모어.md "wikilink") 13년간 재임하며 5개의 트로피를 들어올린 [조 하비가](../Page/조_하비.md "wikilink") 가장 성공한 감독으로 평가받는다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [AST](https://ko.wikipedia.org/wiki/AST).
+> This article is converted from Wikipedia: [포스코AST](https://ko.wikipedia.org/wiki/포스코AST).
 
 
 **포스코AST**(POSCO AST)는 스테인리스 스틸을 냉간 압연하는 [포스코](../Page/포스코.md "wikilink")의 계열 회사이다. [경기도](https://ko.wikipedia.org/wiki/경기도 "wikilink") [안산시](https://ko.wikipedia.org/wiki/안산시 "wikilink")에 본사를 두고 있으며 사명 포스코AST의 AST는 안산 스테인리스(Ansan STainless)의 영문 약자이다.\[1\]\[2\]

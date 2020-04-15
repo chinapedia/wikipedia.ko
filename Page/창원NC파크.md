@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [NC](https://ko.wikipedia.org/wiki/NC).
+> This article is converted from Wikipedia: [창원NC파크](https://ko.wikipedia.org/wiki/창원NC파크).
 
 
 **창원NC파크**()는 [경상남도](https://ko.wikipedia.org/wiki/경상남도 "wikilink") [창원시](../Page/창원시.md "wikilink") [마산회원구](../Page/마산회원구.md "wikilink") [마산종합운동장](../Page/마산종합운동장.md "wikilink") 주경기장 부지에 있는 야구장이다. [2016년](../Page/2016년.md "wikilink") [6월](../Page/6월.md "wikilink")에 착공에 들어갔으며 [2019년](../Page/2019년.md "wikilink") [2월 28일에](../Page/2월_28일.md "wikilink") 완공되었다. [NC 다이노스의](../Page/NC_다이노스.md "wikilink") 홈구장으로 사용되고 있다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Sky chord \~\~](https://ko.wikipedia.org/wiki/Sky_chord_\~\~).
+> This article is converted from Wikipedia: [Sky chord \~오토나니나루키미에\~](https://ko.wikipedia.org/wiki/Sky_chord_\~오토나니나루키미에\~).
 
 
 **Sky chord 〜어른이 되는 너에게〜**(Sky chord 〜大人になる君へ〜)는 일본의 싱어송 라이터 [츠지 시온의](../Page/츠지_시온.md "wikilink") 2번째 싱글이다. [2009년](../Page/2009년.md "wikilink") [2월 25일](../Page/2월_25일.md "wikilink") [DefSTAR RECORDS에서](https://ko.wikipedia.org/wiki/DefSTAR_RECORDS "wikilink") 발매되었다. 본 작품은 발매 이전부터 졸업 노래로서도 주목되고 있었으며, [츠지 시온은](../Page/츠지_시온.md "wikilink") 발매 전 [2009년](../Page/2009년.md "wikilink") 2월 26, 27일에 학교에서 비밀 라이브를 개최했었다.

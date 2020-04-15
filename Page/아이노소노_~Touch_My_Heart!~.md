@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ \~Touch My Heart!\~](https://ko.wikipedia.org/wiki/_\~Touch_My_Heart!\~).
+> This article is converted from Wikipedia: [아이노소노 \~Touch My Heart!\~](https://ko.wikipedia.org/wiki/아이노소노_\~Touch_My_Heart!\~).
 
 
 **아이노소노 \~Touch My Heart\!\~**()는 [2003년](../Page/2003년.md "wikilink") [9월 18일에](../Page/9월_18일.md "wikilink") 발매 된 [모닝구무스메 오토메구미의](../Page/모닝구무스메_오토메구미.md "wikilink") 첫 번째 싱글이다.

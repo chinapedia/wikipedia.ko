@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:OSI ](https://ko.wikipedia.org/wiki/:OSI_).
+> This article is converted from Wikipedia: [틀:OSI 모형](https://ko.wikipedia.org/wiki/틀:OSI_모형).
 
 
 }}}}

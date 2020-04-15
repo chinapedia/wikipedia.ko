@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
+> This article is converted from Wikipedia: [포트 FC](https://ko.wikipedia.org/wiki/포트_FC).
 
 
 **포트 FC**(, )는 [1967년](../Page/1967년.md "wikilink")에 창단된 [태국](../Page/태국.md "wikilink") [방콕](../Page/방콕.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다. 현재는 [타이 리그1에](https://ko.wikipedia.org/wiki/타이_리그1 "wikilink") 참가하고 있다. 이전엔 **싱타루아 FC**라는 이름을 사용하였다.

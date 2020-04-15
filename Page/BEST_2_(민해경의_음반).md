@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [BEST 2 \( \)](https://ko.wikipedia.org/wiki/BEST_2_\(_\)).
+> This article is converted from Wikipedia: [BEST 2 \(민해경의 음반\)](https://ko.wikipedia.org/wiki/BEST_2_\(민해경의_음반\)).
 
 
 **BEST 2**은 [대한민국](../Page/대한민국.md "wikilink")의 가수 [민해경](../Page/민해경.md "wikilink")의 1989년 발매한 다섯번째 베스트앨범이다. 강인원, 전영록, 이호준이 프로듀서로 참여한 앨범이다.

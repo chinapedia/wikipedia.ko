@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [YOONSANG SONGBOOKPlay With Him!](https://ko.wikipedia.org/wiki/YOONSANG_SONGBOOKPlay_With_Him!).
+> This article is converted from Wikipedia: [YOONSANG SONGBOOK：Play With Him!](https://ko.wikipedia.org/wiki/YOONSANG_SONGBOOK：Play_With_Him!).
 
 
 《**Play With Him\!**》은 [대한민국](../Page/대한민국.md "wikilink")의 [작곡가 겸 가수의](https://ko.wikipedia.org/wiki/작곡가_겸_가수 "wikilink") [윤상](../Page/윤상.md "wikilink")의 곡을 동료, 후배 아티스트들이 재해석한 일종의 헌정앨범 성향을 띄는 SONGBOOK 음반이다. 참여한 인물 중 유일하게 [음악인](https://ko.wikipedia.org/wiki/음악인 "wikilink")이 아니라 [배우](../Page/배우.md "wikilink")인 [이선균](../Page/이선균.md "wikilink")은 〈소년〉에서 [보컬](https://ko.wikipedia.org/wiki/보컬 "wikilink")을 맡았으며 윤상의 팬으로서, 2009년 10월에는 그의 콘서트장을 찾아가 응원차 공연을 관람하기도 했다.\[1\]

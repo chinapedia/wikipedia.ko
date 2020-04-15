@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [ SC](https://ko.wikipedia.org/wiki/_SC).
+> This article is converted from Wikipedia: [알두하일 SC](https://ko.wikipedia.org/wiki/알두하일_SC).
 
 
-**알두하일 SC** ()은 [카타르](../Page/카타르.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다. 홈구장은 [도하](../Page/도하.md "wikilink")에 위치한 [압둘라 빈 할리파 경기장이다](https://ko.wikipedia.org/wiki/압둘라_빈_할리파_경기장 "wikilink").
+**알두하일 SC**()은 [카타르](../Page/카타르.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다. 홈구장은 [도하](../Page/도하.md "wikilink")에 위치한 [압둘라 빈 할리파 경기장이다](https://ko.wikipedia.org/wiki/압둘라_빈_할리파_경기장 "wikilink").
 
 ## 역사
 
@@ -13,7 +13,7 @@
 
 ## 선수 명단
 
-[16px](https://ko.wikipedia.org/wiki/파일:Captain_sports.svg "wikilink")          [클럽 선수명단 끝](https://ko.wikipedia.org/wiki/클럽_선수명단_끝 "wikilink")
+[16px](https://ko.wikipedia.org/wiki/파일:Captain_sports.svg "wikilink")
 
 ## 기록
 

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SC ](https://ko.wikipedia.org/wiki/SC_).
+> This article is converted from Wikipedia: [SC 바스티아](https://ko.wikipedia.org/wiki/SC_바스티아).
 
 
 **SC 바스티아**(Sporting Club de Bastia, SC Bastia)는 [코르시카 섬의](https://ko.wikipedia.org/wiki/코르시카_섬 "wikilink") [바스티아](../Page/바스티아.md "wikilink")를 연고로 하는 [프랑스](../Page/프랑스.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다. 2017년 재정 문제로 인해 1부 리그인 [리그 1에](https://ko.wikipedia.org/wiki/리그_1 "wikilink") 참가한지 5 시즌만에 4개 단계 이하로 강등되어, 현재 [샹피오나 나시오날 3에](https://ko.wikipedia.org/wiki/샹피오나_나시오날_3 "wikilink") 참가중이다. 바스티아 내에 위치한 [스타드 아르망 세사리를](https://ko.wikipedia.org/wiki/스타드_아르망_세사리 "wikilink") 연고로 한다.

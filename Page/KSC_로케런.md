@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KSC ](https://ko.wikipedia.org/wiki/KSC_).
+> This article is converted from Wikipedia: [KSC 로케런](https://ko.wikipedia.org/wiki/KSC_로케런).
 
 
 **KSC 로케런**(K.S.C. Lokeren Oost-Vlaanderen, K.S.C. Lokeren)은 [벨기에](../Page/벨기에.md "wikilink") [로케런](https://ko.wikipedia.org/wiki/로케런 "wikilink")의 축구 클럽으로, 현재 [벨기에 프로리그에서](https://ko.wikipedia.org/wiki/벨기에_프로리그 "wikilink") 활동하고 있다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [BMW 1 ](https://ko.wikipedia.org/wiki/BMW_1_).
+> This article is converted from Wikipedia: [BMW 1 시리즈](https://ko.wikipedia.org/wiki/BMW_1_시리즈).
 
 
 **BMW 1 시리즈**(BMW 1 Series)는 [BMW](../Page/BMW.md "wikilink")에서 만든 C 세그먼트에 속하는 승용차이며, 2도어 [쿠페](../Page/쿠페.md "wikilink"), 3도어 [해치백](https://ko.wikipedia.org/wiki/해치백 "wikilink"), 5도어 [해치백](https://ko.wikipedia.org/wiki/해치백 "wikilink"), [컨버터블](../Page/컨버터블.md "wikilink"), [M 버전](../Page/BMW_M.md "wikilink") 등이 있다. 소형 해치백 모델로는 드물게 [후륜구동](../Page/후륜구동.md "wikilink")이다. [2009년](../Page/2009년.md "wikilink") [대한민국](../Page/대한민국.md "wikilink")에 처음 들어왔을 때에는 2도어 [쿠페](../Page/쿠페.md "wikilink")만 판매하였는데, [대한민국](../Page/대한민국.md "wikilink")에서는 해치백이 인기가 없었기 때문이다. 2세대부터 [대한민국](../Page/대한민국.md "wikilink")에 5도어 [해치백](https://ko.wikipedia.org/wiki/해치백 "wikilink") 버전을 선보였으며, [BMW](../Page/BMW.md "wikilink")에서 스포츠카에는 짝수로 모델 번호를 부여한다는 정책에 따라 쿠페/컨버터블형은 [BMW 2 시리즈로](../Page/BMW_2_시리즈.md "wikilink") 분리되었다.

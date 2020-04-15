@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [UC ](https://ko.wikipedia.org/wiki/UC_).
+> This article is converted from Wikipedia: [UC 알비노레페](https://ko.wikipedia.org/wiki/UC_알비노레페).
 
 
 **UC 알비노레페**()는 [이탈리아](../Page/이탈리아.md "wikilink")의 축구 클럽으로, [베르가모현](https://ko.wikipedia.org/wiki/베르가모현 "wikilink") [레페와](https://ko.wikipedia.org/wiki/레페_\(이탈리아\) "wikilink") [알비노를](https://ko.wikipedia.org/wiki/알비노_\(이탈리아\) "wikilink") 연고지로 한다. 현재 [세리에 B에서](../Page/세리에_B.md "wikilink") 활약하고 있다.

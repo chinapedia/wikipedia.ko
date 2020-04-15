@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SP \(\)](https://ko.wikipedia.org/wiki/SP_\(\)).
+> This article is converted from Wikipedia: [SP \(드라마\)](https://ko.wikipedia.org/wiki/SP_\(드라마\)).
 
 
 《**SP**》()는 [2007년](../Page/2007년.md "wikilink") [11월 3일부터](../Page/11월_3일.md "wikilink") [2008년](../Page/2008년.md "wikilink") [1월 26일까지](../Page/1월_26일.md "wikilink") [후지 TV에서](../Page/후지_TV.md "wikilink") [매주 토요일 (11:10 - 11:55)에](https://ko.wikipedia.org/wiki/후지_TV_토요_드라마 "wikilink") 방송 된 [일본](../Page/일본.md "wikilink")의 [텔레비전 드라마이다](../Page/텔레비전_드라마.md "wikilink"). 주연은 [오카다 준이치](../Page/오카다_준이치.md "wikilink").

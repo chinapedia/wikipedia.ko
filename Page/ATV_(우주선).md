@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ATV \(\)](https://ko.wikipedia.org/wiki/ATV_\(\)).
+> This article is converted from Wikipedia: [ATV \(우주선\)](https://ko.wikipedia.org/wiki/ATV_\(우주선\)).
 
 
 [thumb](https://ko.wikipedia.org/wiki/파일:View_of_ATV-2_-_cropped_and_rotated.jpg "wikilink") **ATV**는 유럽 [ESA에서](../Page/유럽_우주국.md "wikilink") 개발한 무인우주화물선이다. 원래 [국제우주정거장](https://ko.wikipedia.org/wiki/국제우주정거장 "wikilink")에는 러시아의 무인우주화물선인 [프로그레스 우주선만이](https://ko.wikipedia.org/wiki/프로그레스_우주선 "wikilink") 사용되었으나, 일본과 유럽이 독자 무인우주화물선 개발에 성공했다.

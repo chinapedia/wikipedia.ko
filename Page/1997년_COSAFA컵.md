@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [1997 COSAFA](https://ko.wikipedia.org/wiki/1997_COSAFA).
+> This article is converted from Wikipedia: [1997년 COSAFA컵](https://ko.wikipedia.org/wiki/1997년_COSAFA컵).
 
 
 **1997년 COSAFA컵**은 [남아프리카 축구 협의회의](https://ko.wikipedia.org/wiki/남아프리카_축구_협의회 "wikilink") 팀들이 모여 참가한 첫 번째 [COSAFA컵](../Page/COSAFA컵.md "wikilink") 대회이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [LATAM ](https://ko.wikipedia.org/wiki/LATAM_).
+> This article is converted from Wikipedia: [LATAM 아르헨티나](https://ko.wikipedia.org/wiki/LATAM_아르헨티나).
 
 
 **LATAM 아르헨티나**()는 [아르헨티나](../Page/아르헨티나.md "wikilink")의 항공사로 총 14개 노선을 취항하고 있다. 본사는 [아르헨티나](../Page/아르헨티나.md "wikilink") [부에노스아이레스](../Page/부에노스아이레스.md "wikilink") 위치해 있으며 [2005년](../Page/2005년.md "wikilink")에 설립했다. 또한 사용하고 있는 [허브 공항으로](../Page/허브_공항.md "wikilink") [아에로파르케 호르헤뉴베리](https://ko.wikipedia.org/wiki/아에로파르케_호르헤뉴베리 "wikilink"), [미니스토로 피스타리니 국제공항이](https://ko.wikipedia.org/wiki/미니스토로_피스타리니_국제공항 "wikilink") 있다.\[1\]

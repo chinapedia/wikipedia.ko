@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [You \& Me \( \)](https://ko.wikipedia.org/wiki/You_\&_Me_\(_\)).
+> This article is converted from Wikipedia: [You \& Me \(민해경의 음반\)](https://ko.wikipedia.org/wiki/You_\&_Me_\(민해경의_음반\)).
 
 
 **U and Me**은 [대한민국](../Page/대한민국.md "wikilink")의 가수 [민해경](../Page/민해경.md "wikilink")의 1999년 발매한 정규 15집이다. 강인원, 박정원등의 작곡가들이 참여한 앨범이다. 활동곡은 **당신과 나**이다.

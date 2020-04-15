@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  FC   ](https://ko.wikipedia.org/wiki/__FC___).
+> This article is converted from Wikipedia: [뉴캐슬 유나이티드 FC의 유럽 대회 기록](https://ko.wikipedia.org/wiki/뉴캐슬_유나이티드_FC의_유럽_대회_기록).
 
 
 **[뉴캐슬 유나이티드](../Page/뉴캐슬_유나이티드_FC.md "wikilink")**는 **[유럽 대회](../Page/유럽_축구_연맹.md "wikilink")**에서 1968-69 시즌 [인터시티스 페어스컵에서](../Page/인터시티스_페어스컵.md "wikilink") 우승한 적이 있다. 그들의 첫 [UEFA 챔피언스리그](../Page/UEFA_챔피언스리그.md "wikilink") 진출은 [1997-98 시즌이었으며](https://ko.wikipedia.org/wiki/UEFA_챔피언스리그_1997-98 "wikilink"), UEFA컵 위너스컵에는 1998-99 시즌에 출전한 바 있다. [유럽 축구 연맹](../Page/유럽_축구_연맹.md "wikilink") 공식 우승 기록으로는 [UEFA 인터토토컵이](../Page/UEFA_인터토토컵.md "wikilink") 유일하며, 2012-13 시즌까지 총 17시즌을 유럽 대회에 참가하였다.

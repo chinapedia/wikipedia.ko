@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SKE48  ](https://ko.wikipedia.org/wiki/SKE48__).
+> This article is converted from Wikipedia: [SKE48의 매지컬 라디오](https://ko.wikipedia.org/wiki/SKE48의_매지컬_라디오).
 
 
 《**SKE48의 매지컬 라디오**》 ()는 [닛폰 TV 방송망에서](../Page/닛폰_TV_방송망.md "wikilink") [2011년](../Page/2011년.md "wikilink")부터 방송되고 있는 심야 [텔레비전 드라마이자](../Page/텔레비전_드라마.md "wikilink") [버라이어티 쇼이다](../Page/버라이어티_쇼.md "wikilink").
@@ -38,7 +38,7 @@
     시즌 2에서는 수수께끼에 쌓인 채 실종된다.
   - [타카야나기 아카네](https://ko.wikipedia.org/wiki/타카야나기_아카네 "wikilink")
     《매지컬 라디오》의 DJ.
-    [로리타 패션을](https://ko.wikipedia.org/wiki/로리타_패션 "wikilink") 즐겨하며 라디오 DJ 경험이 많은 연령미상의 인물.
+    [로리타 패션을](../Page/로리타_패션.md "wikilink") 즐겨하며 라디오 DJ 경험이 많은 연령미상의 인물.
     감정의 기복이 심하다.
   - [오기소 시오리](https://ko.wikipedia.org/wiki/오기소_시오리 "wikilink")
     《매지컬 라디오》의 AD.

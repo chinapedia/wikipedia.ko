@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:RCD   ](https://ko.wikipedia.org/wiki/:RCD___).
+> This article is converted from Wikipedia: [틀:RCD 에스파뇰 선수 명단](https://ko.wikipedia.org/wiki/틀:RCD_에스파뇰_선수_명단).
 
 
 <onlyinclude></onlyinclude>

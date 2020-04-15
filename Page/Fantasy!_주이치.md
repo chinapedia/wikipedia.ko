@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Fantasy! ](https://ko.wikipedia.org/wiki/Fantasy!_).
+> This article is converted from Wikipedia: [Fantasy! 주이치](https://ko.wikipedia.org/wiki/Fantasy!_주이치).
 
 
 **Fantasy\! 주이치**( : Fantasy\! 11, 판타지\! 11)는 [2010년](../Page/2010년.md "wikilink") [12월 1일에](../Page/12월_1일.md "wikilink") 발매 된 [모닝구무스메](../Page/모닝구무스메.md "wikilink")의 열 한째 정규 앨범이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ASL  ](https://ko.wikipedia.org/wiki/ASL__).
+> This article is converted from Wikipedia: [ASL 항공 벨기에](https://ko.wikipedia.org/wiki/ASL_항공_벨기에).
 
 
 **ASL 항공 벨기에**()는 [벨기에](../Page/벨기에.md "wikilink")의 화물 항공사로 본사는 [벨기에](../Page/벨기에.md "wikilink") [리에주](../Page/리에주.md "wikilink")에 위치해 있으며 [1999년](../Page/1999년.md "wikilink")에 설립했다. 또한 사용하고 있는 [허브 공항으로](../Page/허브_공항.md "wikilink") [리에주](../Page/리에주.md "wikilink")에 위치한 [리에주 공항이](../Page/리에주_공항.md "wikilink") 있으며 자회사는 [아일랜드](../Page/아일랜드.md "wikilink")의 화물 항공사인 [ASL 항공 아일랜드가](../Page/ASL_항공_아일랜드.md "wikilink") 있다.

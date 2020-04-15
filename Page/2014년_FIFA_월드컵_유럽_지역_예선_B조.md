@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [2014 FIFA     B](https://ko.wikipedia.org/wiki/2014_FIFA_____B).
+> This article is converted from Wikipedia: [2014년 FIFA 월드컵 유럽 지역 예선 B조](https://ko.wikipedia.org/wiki/2014년_FIFA_월드컵_유럽_지역_예선_B조).
 
 
 **[2014년 FIFA 월드컵 유럽 지역 예선](../Page/2014년_FIFA_월드컵_유럽_지역_예선.md "wikilink") B조**는 [이탈리아를](../Page/이탈리아_축구_국가대표팀.md "wikilink") 비롯하여 [덴마크](../Page/덴마크_축구_국가대표팀.md "wikilink"), [체코](../Page/체코_축구_국가대표팀.md "wikilink"), [불가리아](../Page/불가리아_축구_국가대표팀.md "wikilink"), [아르메니아](../Page/아르메니아_축구_국가대표팀.md "wikilink"), [몰타로](../Page/몰타_축구_국가대표팀.md "wikilink") 구성되어 있다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ECW  ](https://ko.wikipedia.org/wiki/ECW__).
+> This article is converted from Wikipedia: [ECW 히트 웨이브](https://ko.wikipedia.org/wiki/ECW_히트_웨이브).
 
 
 **히트 웨이브**(Heat Wave)는 [ECW에서](../Page/익스트림_챔피언십_레슬링.md "wikilink") 개최하였던 페이 퍼 뷰이다.

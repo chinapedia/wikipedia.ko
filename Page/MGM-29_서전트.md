@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [MGM-29 ](https://ko.wikipedia.org/wiki/MGM-29_).
+> This article is converted from Wikipedia: [MGM-29 서전트](https://ko.wikipedia.org/wiki/MGM-29_서전트).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Sergeant_missile.jpg "wikilink")

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ATC  B03](https://ko.wikipedia.org/wiki/ATC__B03).
+> This article is converted from Wikipedia: [ATC 코드 B03](https://ko.wikipedia.org/wiki/ATC_코드_B03).
 
 
 **ATC 코드B03**은 [ATC 코드의](https://ko.wikipedia.org/wiki/ATC_코드 "wikilink") 항빈혈제로 작용하는 약물을 정리한 코드이다. \[1\] **ATC 코드** B 혈액 및 조혈기관의 하위그룹을 이룬다.

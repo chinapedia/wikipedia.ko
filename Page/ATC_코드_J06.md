@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ATC  J06](https://ko.wikipedia.org/wiki/ATC__J06).
+> This article is converted from Wikipedia: [ATC 코드 J06](https://ko.wikipedia.org/wiki/ATC_코드_J06).
 
 
 **ATC 코드 J06**은 [ATC 코드에](https://ko.wikipedia.org/wiki/ATC_코드 "wikilink") 따른 면역 혈청 및 면역 글로불린에 쓰이는 약물을 정리한 코드이다. \[1\] **ATC 코드** J 전신작용 항감염제의 하위그룹을 이룬다.

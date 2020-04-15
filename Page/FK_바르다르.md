@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FK ](https://ko.wikipedia.org/wiki/FK_).
+> This article is converted from Wikipedia: [FK 바르다르](https://ko.wikipedia.org/wiki/FK_바르다르).
 
 
 **FK 바르다르**(FK Vardar)는 [북마케도니아](../Page/북마케도니아.md "wikilink")의 축구 클럽으로, [스코페](../Page/스코페.md "wikilink")를 연고지로 한다. [북마케도니아 1부 리그에](../Page/북마케도니아_1부_리그.md "wikilink") 참가하고 있다.

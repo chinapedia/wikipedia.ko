@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ AS](https://ko.wikipedia.org/wiki/_AS).
+> This article is converted from Wikipedia: [스토케 AS](https://ko.wikipedia.org/wiki/스토케_AS).
 
 
 **스토케 AS**(Stokke AS)는 유아용 [높은 의자](https://ko.wikipedia.org/wiki/높은_의자 "wikilink"), [유모차](../Page/유모차.md "wikilink"), 어린이 [가구](../Page/가구.md "wikilink") 등 [육아용품](https://ko.wikipedia.org/wiki/육아용품 "wikilink")을 판매하는 [노르웨이](../Page/노르웨이.md "wikilink") [회사](../Page/회사.md "wikilink")이다. 스토케는 [트립 트랩](https://ko.wikipedia.org/wiki/트립_트랩 "wikilink")(Tripp Trapp)이라는 어린이용 높은 의자와 스토케 익스플로리(Xplory)\[1\]라는 유모차를 만드는 회사로 잘 알려져 있다. 본사는 노르웨이 북서부 [알레순드에](../Page/올레순.md "wikilink") 있다.\[2\]

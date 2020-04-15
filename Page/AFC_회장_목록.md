@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [AFC  ](https://ko.wikipedia.org/wiki/AFC__).
+> This article is converted from Wikipedia: [AFC 회장 목록](https://ko.wikipedia.org/wiki/AFC_회장_목록).
 
 
 다음은 [아시아 축구 연맹](../Page/아시아_축구_연맹.md "wikilink")(AFC)의 역대 회장 목록이다.

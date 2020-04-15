@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ W  ](https://ko.wikipedia.org/wiki/_W__).
+> This article is converted from Wikipedia: [가면라이더 W의 에피소드 목록](https://ko.wikipedia.org/wiki/가면라이더_W의_에피소드_목록).
 
 
 아래는 [일본](../Page/일본.md "wikilink") [토에이](https://ko.wikipedia.org/wiki/토에이 "wikilink")의 [특수촬영 드라마](https://ko.wikipedia.org/wiki/특수촬영_드라마 "wikilink") **[가면라이더 W의](https://ko.wikipedia.org/wiki/가면라이더_W "wikilink") 방영 방영 목록**이다.

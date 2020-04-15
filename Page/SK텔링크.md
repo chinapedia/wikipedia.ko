@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SK](https://ko.wikipedia.org/wiki/SK).
+> This article is converted from Wikipedia: [SK텔링크](https://ko.wikipedia.org/wiki/SK텔링크).
 
 
 **SK텔링크**(SK Telink)는 대한민국의 통신 서비스 업체다. 국제전화 00700, 전국대표번호, 인터넷전화, 시외전화, 위성 DMB([TU미디어](../Page/TU미디어.md "wikilink")) 등 통신 서비스업이 주요 업종이나 그 중 위성 DMB는 2012년 사업을 접었다. [2012년](../Page/2012년.md "wikilink") MVNO 사업권을 획득 후 세븐모바일을 런칭하면서 MVNO 사업을 시작했다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [YTN ](https://ko.wikipedia.org/wiki/YTN_).
+> This article is converted from Wikipedia: [YTN 라이프](https://ko.wikipedia.org/wiki/YTN_라이프).
 
 
 **YTN 라이프**는 24시간 HD방송이다. 날씨전문채널로 개국했다. 2017년 1월부터 휴먼,생활정보 채널로 바뀌었다. YTN 계열채널이다. 인기있는 외부제작 프로그램(재방)과 양질의 내부 제작 프로그램들을 방송한다.

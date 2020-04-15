@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ATC  C08](https://ko.wikipedia.org/wiki/ATC__C08).
+> This article is converted from Wikipedia: [ATC 코드 C08](https://ko.wikipedia.org/wiki/ATC_코드_C08).
 
 
 **ATC 코드 C08**은 [ATC 코드의](https://ko.wikipedia.org/wiki/ATC_코드 "wikilink") 칼슘이온채널 차단제로 작용하는 약물을 정리한 코드이다. \[1\] **ATC 코드** C 심혈관계의 하위그룹을 이룬다.

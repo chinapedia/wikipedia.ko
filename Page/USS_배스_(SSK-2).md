@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [USS  \(SSK-2\)](https://ko.wikipedia.org/wiki/USS__\(SSK-2\)).
+> This article is converted from Wikipedia: [USS 배스 \(SSK-2\)](https://ko.wikipedia.org/wiki/USS_배스_\(SSK-2\)).
 
 
 **USS 배스 (SSK-2/SS-551)**는 [바라쿠다급 잠수함의](https://ko.wikipedia.org/wiki/바라쿠다급_잠수함_\(1951년\) "wikilink") 두 번째 함이다. 함명은 어류의 하나인 [배스](https://ko.wikipedia.org/wiki/배스 "wikilink")에서 따왔다. 배스는 [메어 섬 해군 조선소에서](https://ko.wikipedia.org/wiki/메어_섬_해군_조선소 "wikilink") 기공되었고, 존 J. 크레인 여사의 후원으로 1951년 5월 2일에 *K-2*라는 함명으로 진수되었다. 그리고 1951년 11월 16일, D. E. 번팅 소령의 지휘 아래 취역했다.

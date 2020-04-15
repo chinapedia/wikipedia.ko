@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Let It Be \(\)](https://ko.wikipedia.org/wiki/Let_It_Be_\(\)).
+> This article is converted from Wikipedia: [Let It Be \(노래\)](https://ko.wikipedia.org/wiki/Let_It_Be_\(노래\)).
 
 
 〈**Let It Be**〉는 [영국](../Page/영국.md "wikilink")의 록 밴드 [비틀즈](../Page/비틀즈.md "wikilink")의 노래로 1970년 3월 6일 《[Let It Be](../Page/Let_It_Be.md "wikilink")》의 타이틀 트랙으로써 싱글로 발매되었다. 그 당시에, 그 곡은 6위로 달린 차트를 시작하면서 [빌보드 핫 100에서](../Page/빌보드_핫_100.md "wikilink") 가장 높은 데뷔를 했다. 그 곡은 [폴 매카트니가](../Page/폴_매카트니.md "wikilink") 쓰고 부른 것이다. 매카트니가 탈퇴를 발표하기 전에 그것은 그들의 마지막 싱글이었다. 《Let It Be》 음반과 미국 싱글 〈[The Long and Winding Road](../Page/The_Long_and_Winding_Road.md "wikilink")〉는 매카트니가 탈퇴를 발표하고 이후 그룹 해체를 선언한 후 발매되었다. 그들의 음반 《Let It Be》에는 기타 솔로 곡이 추가로 수록되어 있으며 오케스트라 부분에서는 약간의 차이가 있다.

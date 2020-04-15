@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  AG:    ](https://ko.wikipedia.org/wiki/__AG:____).
+> This article is converted from Wikipedia: [극장판 포켓몬스터 AG: 아름다운 소원의 별 지라치](https://ko.wikipedia.org/wiki/극장판_포켓몬스터_AG:_아름다운_소원의_별_지라치).
 
 
 《**극장판 포켓몬스터 아름다운 소원의 별 지라치**》(劇場版ポケットモンスター アドバンスジェネレーション 七夜の願い星 ジラーチ)는 [2003년](../Page/2003년.md "wikilink") [7월 19일에](../Page/7월_19일.md "wikilink") 개봉된 [TV 애니메이션](../Page/애니메이션.md "wikilink")《[포켓몬스터](../Page/포켓몬스터.md "wikilink")》의 [극장판](https://ko.wikipedia.org/wiki/포켓몬스터_\(극장판\) "wikilink") 제6기이다. 대한민국은 [2014년](../Page/2014년.md "wikilink") [8월 13일](../Page/8월_13일.md "wikilink") 상영중이다.
@@ -52,4 +52,4 @@
 
   - [극장판 포켓몬스터 AG - 아름다운 소원의 별 지라치 공식 웹사이트](https://web.archive.org/web/20160315070242/http://pokemonkorea.co.kr/?inc=movie-jirachi-index)
 
-[분류:2003년 애니메이션 영화](https://ko.wikipedia.org/wiki/분류:2003년_애니메이션_영화 "wikilink") [분류:포켓몬스터 극장판](https://ko.wikipedia.org/wiki/분류:포켓몬스터_극장판 "wikilink") [분류:일본어 영화 작품](https://ko.wikipedia.org/wiki/분류:일본어_영화_작품 "wikilink") [분류:서커스 영화](https://ko.wikipedia.org/wiki/분류:서커스_영화 "wikilink") [분류:소원성취를 소재로 한 영화](https://ko.wikipedia.org/wiki/분류:소원성취를_소재로_한_영화 "wikilink")
+[분류:2003년 애니메이션 영화](https://ko.wikipedia.org/wiki/분류:2003년_애니메이션_영화 "wikilink") [분류:포켓몬스터 극장판](https://ko.wikipedia.org/wiki/분류:포켓몬스터_극장판 "wikilink") [분류:일본어 영화 작품](https://ko.wikipedia.org/wiki/분류:일본어_영화_작품 "wikilink") [분류:서커스 영화](https://ko.wikipedia.org/wiki/분류:서커스_영화 "wikilink") [분류:소원성취를 소재로 한 영화](https://ko.wikipedia.org/wiki/분류:소원성취를_소재로_한_영화 "wikilink") [분류:일본의 애니메이션 영화](https://ko.wikipedia.org/wiki/분류:일본의_애니메이션_영화 "wikilink")

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [HTC  S](https://ko.wikipedia.org/wiki/HTC__S).
+> This article is converted from Wikipedia: [HTC 인크레더블 S](https://ko.wikipedia.org/wiki/HTC_인크레더블_S).
 
 
 **HTC 인크레더블 S**(Incredible S)는 [HTC에서](../Page/HTC_\(기업\).md "wikilink") [2011년](../Page/2011년.md "wikilink")에 출시한 [스마트폰](../Page/스마트폰.md "wikilink")이다. [2010년](../Page/2010년.md "wikilink") 4월 [미국](../Page/미국.md "wikilink") [버라이즌](https://ko.wikipedia.org/wiki/버라이즌 "wikilink")을 통해 출시된 드로이드 인크레더블(Droid Incredible)의 후속 기종이며, 프리미엄과 보급형 사이의 틈새 시장을 공략한 HTC의 글로벌 전략 기종이다. [2011년](../Page/2011년.md "wikilink") 2월 [영국](../Page/영국.md "wikilink") [보다폰](../Page/보다폰.md "wikilink")을 통해 처음 출시되었고, [미국](../Page/미국.md "wikilink")에서도 [2011년](../Page/2011년.md "wikilink") 4월 [버라이즌](https://ko.wikipedia.org/wiki/버라이즌 "wikilink")을 통해 드로이드 인크레더블 2(Droid Incredible 2)라는 이름으로 출시되었다.\[1\] [대한민국](../Page/대한민국.md "wikilink")에는 [2011년](../Page/2011년.md "wikilink") [6월 19일](../Page/6월_19일.md "wikilink") [KT](../Page/KT.md "wikilink")를 통해 출시되었다.\[2\]

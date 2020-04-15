@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [USL -20 ](https://ko.wikipedia.org/wiki/USL_-20_).
+> This article is converted from Wikipedia: [USL 슈퍼-20 리그](https://ko.wikipedia.org/wiki/USL_슈퍼-20_리그).
 
 
 **USL 슈퍼-20 리그**는 미국과 캐나다 유스축구 리그(17세\~20세)이다.

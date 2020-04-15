@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [LG  3D  ](https://ko.wikipedia.org/wiki/LG__3D__).
+> This article is converted from Wikipedia: [LG 시네마 3D 슈퍼 토너먼트](https://ko.wikipedia.org/wiki/LG_시네마_3D_슈퍼_토너먼트).
 
 
 [섬네일에서](https://ko.wikipedia.org/wiki/파일:GSL_Super_tournament_final.JPG "wikilink") 치뤄진 LG 시네마 3D 슈퍼 토너먼트 결승전 현장\]\] **LG 시네마 3D 슈퍼 토너먼트**(LG Cinema 3D Super Tournament)는 [글로벌 스타크래프트 II 리그](https://ko.wikipedia.org/wiki/글로벌_스타크래프트_II_리그 "wikilink") 2011 GSL 투어의 여덟 번째 대회로 [2011년](../Page/2011년.md "wikilink") [5월 23일에](../Page/5월_23일.md "wikilink") 개막하였다.

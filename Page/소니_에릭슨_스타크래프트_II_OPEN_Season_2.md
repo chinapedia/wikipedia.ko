@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [   II OPEN Season 2](https://ko.wikipedia.org/wiki/___II_OPEN_Season_2).
+> This article is converted from Wikipedia: [소니 에릭슨 스타크래프트 II OPEN Season 2](https://ko.wikipedia.org/wiki/소니_에릭슨_스타크래프트_II_OPEN_Season_2).
 
 
 **소니 에릭슨 스타크래프트 II OPEN Season 2**은 세계 최초의 [스타크래프트 II](https://ko.wikipedia.org/wiki/스타크래프트_II "wikilink") 공식 대회인 [글로벌 스타크래프트 II 리그의](https://ko.wikipedia.org/wiki/글로벌_스타크래프트_II_리그 "wikilink") 두 번째 리그이며 2011 GSL의 Code S 32명과 Code A 64명을 결정하기 위한 2010년의 3개 대회 중 두 번째 대회로 [2010년](../Page/2010년.md "wikilink") [10월 18일에](../Page/10월_18일.md "wikilink") 개막하였다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Y ](https://ko.wikipedia.org/wiki/Y_).
+> This article is converted from Wikipedia: [Y의 비극](https://ko.wikipedia.org/wiki/Y의_비극).
 
 
 《**Y의 비극**》(*The Tragedy of Y*)은 [1932년](../Page/1932년.md "wikilink")에 발행된 [미국](../Page/미국.md "wikilink")의 [추리 작가](https://ko.wikipedia.org/wiki/추리_작가 "wikilink") [엘러리 퀸의](../Page/엘러리_퀸.md "wikilink") 장편 [추리 소설이다](https://ko.wikipedia.org/wiki/추리_소설 "wikilink"). [애거서 크리스티의](https://ko.wikipedia.org/wiki/애거서_크리스티 "wikilink") 《[그리고 아무도 없었다](../Page/그리고_아무도_없었다.md "wikilink")》와 [윌리엄 아이리시의](https://ko.wikipedia.org/wiki/윌리엄_아이리시 "wikilink") 《[환상의 여인](https://ko.wikipedia.org/wiki/환상의_여인 "wikilink")》과 함께 세계 3대 추리 소설에 속하는 작품이다.\[1\]

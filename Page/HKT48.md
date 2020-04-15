@@ -444,16 +444,6 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/츠키아시_아마네" title="wikilink">츠키아시 아마네</a></p></td>
-<td><p>月足天音</p></td>
-<td><p>つきあし あまね</p></td>
-<td></td>
-<td><p>2020년 3월 30일 졸업예정</p></td>
-<td></td>
-<td></td>
-<td><p>119</p></td>
-</tr>
-<tr class="even">
 <td><p><strong><a href="https://ko.wikipedia.org/wiki/호카조노_하즈키" title="wikilink">호카조노 하즈키</a></strong></p></td>
 <td><p><strong>外薗葉月</strong></p></td>
 <td><p><strong>ほかぞの はづき</strong></p></td>
@@ -463,7 +453,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/마츠오카_하나.md" title="wikilink">마츠오카 하나</a></p></td>
 <td><p>松岡はな</p></td>
 <td><p>まつおか はな</p></td>
@@ -474,7 +464,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/마츠모토_히나타" title="wikilink">마츠모토 히나타</a></p></td>
 <td><p>松本日向</p></td>
 <td><p>まつもと ひなた</p></td>
@@ -484,7 +474,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/미야자키_소노" title="wikilink">미야자키 소노</a></p></td>
 <td><p>宮﨑想乃</p></td>
 <td><p>みやざき その</p></td>
@@ -494,7 +484,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/무라카와_비비안" title="wikilink">무라카와 비비안</a></p></td>
 <td><p>村川緋杏</p></td>
 <td><p>むらかわ びびあん</p></td>
@@ -505,7 +495,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/야마우치_유나" title="wikilink">야마우치 유나</a></p></td>
 <td><p>山内祐奈</p></td>
 <td><p>やまうち ゆうな</p></td>
@@ -515,7 +505,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong><a href="https://ko.wikipedia.org/wiki/야마시타_에미리" title="wikilink">야마시타 에미리</a></strong></p></td>
 <td><p><strong>山下エミリー</strong></p></td>
 <td><p><strong>やました エミリー</strong></p></td>
@@ -525,7 +515,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -1182,6 +1172,18 @@
 <td></td>
 </tr>
 <tr class="even">
+<td><p><a href="https://ko.wikipedia.org/wiki/츠키아시_아마네" title="wikilink">츠키아시 아마네</a></p></td>
+<td><p>月足天音</p></td>
+<td><p>つきあし あまね</p></td>
+<td></td>
+<td><p>4기</p></td>
+<td><p>2020년 3월 30일</p></td>
+<td><p>TII</p></td>
+<td><p>-</p></td>
+<td><p>-</p></td>
+<td><p>119위</p></td>
+</tr>
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -1368,6 +1370,13 @@
 <td><p>1</p></td>
 </tr>
 <tr class="odd">
+<td><p>13</p></td>
+<td><p>2020년 4월 22일</p></td>
+<td><p><strong><a href="https://ko.wikipedia.org/wiki/3-2" title="wikilink">3-2</a></strong><br />
+<small>3-2</small></p></td>
+<td><p>-</p></td>
+</tr>
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ELISA \( \)](https://ko.wikipedia.org/wiki/ELISA_\(_\)).
+> This article is converted from Wikipedia: [ELISA \(일본의 가수\)](https://ko.wikipedia.org/wiki/ELISA_\(일본의_가수\)).
 
 
 **ELISA**(엘리사, エリサ, [1989년](../Page/1989년.md "wikilink") [4월 14일](../Page/4월_14일.md "wikilink") \~ )는 [일본](../Page/일본.md "wikilink") [가나가와](../Page/가나가와현.md "wikilink") 출신 여성 가수이며 모델이다. 원래 [제네온 엔터테인먼트와](https://ko.wikipedia.org/wiki/제네온_엔터테인먼트 "wikilink") 가수가 아닌 모델로 계약했었다. 또한 [Elite Model Management와도](https://ko.wikipedia.org/wiki/Elite_Model_Management "wikilink") 계약하였다.

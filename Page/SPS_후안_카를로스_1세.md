@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SPS   1](https://ko.wikipedia.org/wiki/SPS___1).
+> This article is converted from Wikipedia: [SPS 후안 카를로스 1세](https://ko.wikipedia.org/wiki/SPS_후안_카를로스_1세).
 
 
 **SPS 후안 카를로스 1세**는 [스페인](../Page/스페인.md "wikilink")의 [강습상륙함](../Page/강습상륙함.md "wikilink")이다. [미국 해군의](../Page/미국_해군.md "wikilink") [와스프급 강습상륙함](../Page/와스프급_강습상륙함.md "wikilink")(LHD)을 본따서 만들었으며, [스키 점프대를](https://ko.wikipedia.org/wiki/스키_점프대 "wikilink") 갖추었다.

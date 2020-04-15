@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  DJ ](https://ko.wikipedia.org/wiki/__DJ_).
+> This article is converted from Wikipedia: [라디오 오디션 국민DJ를 찾습니다](https://ko.wikipedia.org/wiki/라디오_오디션_국민DJ를_찾습니다).
 
 
 **《라디오 오디션 국민DJ를 찾습니다》**는 방송인 김승현의 진행으로 [SBS 러브FM에서](../Page/SBS_러브FM.md "wikilink") 방송되고 있는 [라디오](../Page/라디오.md "wikilink") 프로그램이다. 2011년 9월 19일 \~ 2012년 3월 7일까지는 1기가 진행되었고 2012년 3월 26일부터 2012년 12월까지 2기 오디션을 진행하고 종영하였다.

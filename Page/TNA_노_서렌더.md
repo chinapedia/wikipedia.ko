@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TNA  ](https://ko.wikipedia.org/wiki/TNA__).
+> This article is converted from Wikipedia: [TNA 노 서렌더](https://ko.wikipedia.org/wiki/TNA_노_서렌더).
 
 
 **노 서렌더**(No Surrender)는 [TNA가](https://ko.wikipedia.org/wiki/토털_논스톱_액션_레슬링 "wikilink") 주관하는 페이퍼뷰이며, 사라진 페이퍼뷰이다.

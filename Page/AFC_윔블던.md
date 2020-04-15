@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [AFC ](https://ko.wikipedia.org/wiki/AFC_).
+> This article is converted from Wikipedia: [AFC 윔블던](https://ko.wikipedia.org/wiki/AFC_윔블던).
 
 
 **AFC 윔블던**(AFC Wimbledon)은 [런던](../Page/런던.md "wikilink") [윔블던](https://ko.wikipedia.org/wiki/윔블던 "wikilink")에 위치한 [잉글랜드](../Page/잉글랜드.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다. [2002년](../Page/2002년.md "wikilink")에 [윔블던 FC가](../Page/윔블던_FC.md "wikilink") [밀턴킨스](../Page/밀턴킨스.md "wikilink")로 연고지 이전을 하자 윔블던의 서포터들이 스스로 나서 창단한 팀이다.

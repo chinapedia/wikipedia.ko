@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:UEFA  2012  C](https://ko.wikipedia.org/wiki/:UEFA__2012__C).
+> This article is converted from Wikipedia: [틀:UEFA 유로 2012 예선 C조](https://ko.wikipedia.org/wiki/틀:UEFA_유로_2012_예선_C조).
 
 
 <table>

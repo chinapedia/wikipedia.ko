@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [NBA G  ](https://ko.wikipedia.org/wiki/NBA_G__).
+> This article is converted from Wikipedia: [NBA G 리그 올스타전](https://ko.wikipedia.org/wiki/NBA_G_리그_올스타전).
 
 
 **NBA G 리그 올스타전**(NBA G League All-Star Game)은 2007년부터 시작되었으며, 올스타 게임 개최지는 매년 NBA 올스타 게임을 개최한 곳과 동일한 곳이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  FC  ](https://ko.wikipedia.org/wiki/__FC__).
+> This article is converted from Wikipedia: [뉴캐슬 유나이티드 FC의 기록과 통계](https://ko.wikipedia.org/wiki/뉴캐슬_유나이티드_FC의_기록과_통계).
 
 
 이 목록은 **[뉴캐슬 유나이티드의](../Page/뉴캐슬_유나이티드_FC.md "wikilink") 기록과 통계**를 모아둔 목록이다.

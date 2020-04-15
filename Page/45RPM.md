@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [45RPM](https://ko.wikipedia.org/wiki/45RPM).
 
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:45RPM.jpg "wikilink") **45RPM**은 [대한민국](../Page/대한민국.md "wikilink")의 [힙합](../Page/힙합.md "wikilink") 그룹이다. [1999년 5월](https://ko.wikipedia.org/wiki/1999년_5월 "wikilink") 8인조로 결성되었다가 [2000년](../Page/2000년.md "wikilink")부터는 3인조의 체제로 정비되어 활동 하였고,\[1\] 현재에는 [Smash만](https://ko.wikipedia.org/wiki/이현배 "wikilink") 남아 활동 중에 있다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:45RPM.jpg "wikilink") **45RPM**은 [대한민국](../Page/대한민국.md "wikilink")의 [힙합](../Page/힙합.md "wikilink") 그룹이다. [1999년 5월](https://ko.wikipedia.org/wiki/1999년_5월 "wikilink") 8인조로 결성되었다가 [2000년](../Page/2000년.md "wikilink")부터는 3인조의 체제로 정비되어 활동 하였고,\[1\] 현재에는 [Smash와](https://ko.wikipedia.org/wiki/이현배 "wikilink") 박재진이 듀오로 활동 중에 있다.
 
 ## 역사
 
 ### 초창기
 
-[청주시](../Page/청주시.md "wikilink")에서 활동을 하던 MC Chas, 에시리, The Dung Man, MC GR, D.O.G.G.I.E., 보끼리로 구성된 6인조 팀 **사거제곱사**는, 1999년 〈재진을 위해〉 등의 곡이 수록된 데모 테입을 내는 등 어느 정도의 활동을 펼쳐나가고 있었다.\[2\] 이들은 타 지역에서 공연을 해보고자 [대전에](https://ko.wikipedia.org/wiki/대전광역시 "wikilink") 왔고, 여기서 힙합 클럽 **Apollo**를 운영하고 있던 Zolla와 K-Don aka Valva를 만났다.\[3\]\[4\] 이들은 함께 프리스타일을 즐기며 친해졌고, 곧바로 팀을 결성하게 되었으며, 이것이 8인조 **45RPM**의 시작이었다.\[5\] 이 8인조 체제는 오래 가지 못하였고 팀원들이 사정으로 한명씩 빠져나가면서 2000년 경에는 Zolla, T.D.M., G.R. 세 명이 남게 되었으며, 이 셋은 클럽 Apollo에서 매주 정기적으로 공연을 한 것은 물론, 2000년 봄부터는 당시 한국 [언더그라운드](https://ko.wikipedia.org/wiki/언더그라운드 "wikilink") 힙합의 중심이었던 클럽 [MP](../Page/마스터플랜.md "wikilink") 무대에도 올랐다.
+[청주시](../Page/청주시.md "wikilink")에서 활동을 하던 MC Chas, 에시리, The Dung Man, MC GR, D.O.G.G.I.E., 보끼리로 구성된 6인조 팀 **사거제곱사**는 1999년 〈재진을 위해〉 등의 곡이 수록된 데모 테입을 내는 등 어느 정도의 활동을 펼쳐나가고 있었다.\[2\] 이들은 타 지역에서 공연을 해보고자 [대전에](https://ko.wikipedia.org/wiki/대전광역시 "wikilink") 왔고, 여기서 힙합 클럽 **Apollo**를 운영하고 있던 Zolla와 K-Don aka Valva를 만났다.\[3\]\[4\] 이들은 함께 프리스타일을 즐기며 친해졌고, 곧바로 팀을 결성하게 되었으며, 이것이 8인조 **45RPM**의 시작이었다.\[5\] 이 8인조 체제는 오래 가지 못하였고 팀원들이 사정으로 한명씩 빠져나가면서 2000년 경에는 Zolla, T.D.M., G.R. 세 명이 남게 되었으며, 이 셋은 클럽 Apollo에서 매주 정기적으로 공연을 한 것은 물론, 2000년 봄부터는 당시 한국 [언더그라운드](https://ko.wikipedia.org/wiki/언더그라운드 "wikilink") 힙합의 중심이었던 클럽 [MP](../Page/마스터플랜.md "wikilink") 무대에도 올랐다.
 
 이들은 〈리기동〉, 〈재미있는 힙합〉, 〈어기야디여차〉 등의 많은 대표곡을 남겼으며, 2001 대한민국이나 DJ DOC, [Perry](../Page/페리_\(가수\).md "wikilink") 앨범 등에도 참여하였다. 이즈음 이하늘이 [Buda Sound를](../Page/부다_사운드.md "wikilink") 만들면서 창립 멤버가 되었다. 2003년에는 《[품행제로](https://ko.wikipedia.org/wiki/품행제로 "wikilink")》 OST 〈즐거운 생활〉을 발표하여 대중들에게도 이름을 알렸다.
 

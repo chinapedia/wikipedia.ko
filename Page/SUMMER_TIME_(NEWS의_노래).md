@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SUMMER TIME \(NEWS \)](https://ko.wikipedia.org/wiki/SUMMER_TIME_\(NEWS_\)).
+> This article is converted from Wikipedia: [SUMMER TIME \(NEWS의 노래\)](https://ko.wikipedia.org/wiki/SUMMER_TIME_\(NEWS의_노래\)).
 
 
 〈**SUMMER TIME**〉은, [NEWS](https://ko.wikipedia.org/wiki/NEWS "wikilink")의 9번째 [싱글이다](../Page/싱글_\(음악\).md "wikilink").

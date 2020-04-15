@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TMC](https://ko.wikipedia.org/wiki/TMC).
+> This article is converted from Wikipedia: [포스코TMC](https://ko.wikipedia.org/wiki/포스코TMC).
 
 
 **포스코TMC**는 [대한민국](../Page/대한민국.md "wikilink")의 [Motor Core](https://ko.wikipedia.org/wiki/Motor_Core "wikilink"), [EI Core](https://ko.wikipedia.org/wiki/EI_Core "wikilink"), [CTL](https://ko.wikipedia.org/wiki/CTL "wikilink"), [Strip](https://ko.wikipedia.org/wiki/Strip "wikilink") 등 기계 부품을 생산하는 기업이다. 본사인 천안공장은 충청남도 천안시에, 국내 포항공장은 경상북도 포항시에, 서울사무소는 경기도 성남시 판교테크노밸리에 위치하고 있다. 해외에는 중국과 인도에 법인을 설립하여 운영하고 있다\[1\].

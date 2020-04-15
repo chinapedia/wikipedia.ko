@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ TC](https://ko.wikipedia.org/wiki/_TC).
+> This article is converted from Wikipedia: [페렌츠바로시 TC](https://ko.wikipedia.org/wiki/페렌츠바로시_TC).
 
 
 **페렌츠바로시 TC**()는 흔히 **페렌츠바로시**(Ferencváros)라는 이름으로 알려진 [헝가리](../Page/헝가리.md "wikilink") [부다페스트](../Page/부다페스트.md "wikilink") 페렌츠바로시 구의 [축구](../Page/축구.md "wikilink") 클럽으로 줄여서 **프러디**(Fradi)라고 부르기도 한다. 현재는 [헝가리 리그에](https://ko.wikipedia.org/wiki/헝가리_리그 "wikilink") 참가하고 있다. 팀을 상징하는 색은 녹색과 하양이며 팀의 마스코트가 녹색 독수리이기 때문에 "**죌드 셔쇼크**"(Zöld Sasok, [헝가리어](../Page/헝가리어.md "wikilink")로 "녹색 독수리"라는 뜻)라는 별칭으로 부르기도 한다.

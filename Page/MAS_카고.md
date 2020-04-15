@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [MAS ](https://ko.wikipedia.org/wiki/MAS_).
+> This article is converted from Wikipedia: [MAS 카고](https://ko.wikipedia.org/wiki/MAS_카고).
 
 
 **MAS 카고**()은 [말레이시아](../Page/말레이시아.md "wikilink") [쿠알라룸푸르](../Page/쿠알라룸푸르.md "wikilink")에 베이스를 둔 카고 운송회사로 [북아메리카](../Page/북아메리카.md "wikilink"), [아시아](../Page/아시아.md "wikilink"), [유럽](../Page/유럽.md "wikilink"), [중동](../Page/중동.md "wikilink")으로 정기 카고편을 운항하며 [쿠알라룸푸르 국제공항을](https://ko.wikipedia.org/wiki/쿠알라룸푸르_국제공항 "wikilink") 메인 베이스 공항으로 사용하며 그 밖의 [허브 공항은](../Page/허브_공항.md "wikilink") [페낭 국제공항이](../Page/페낭_국제공항.md "wikilink") 있으며 계열사는 [1947년](../Page/1947년.md "wikilink")에 설립한 [말레이시아](../Page/말레이시아.md "wikilink")의 최대 항공사인 [말레이시아 항공이](https://ko.wikipedia.org/wiki/말레이시아_항공 "wikilink") 있으며 또한 전세 항공편\[1\]도 운항하고 있다.
@@ -177,7 +177,7 @@
 
 ## 외부 링크
 
-  - [공식 웹사이트](http://www.maskargo.com/)
+  - [공식 웹사이트](https://web.archive.org/web/20111125164003/http://www.maskargo.com/)
 
 [분류:말레이시아의 항공사](https://ko.wikipedia.org/wiki/분류:말레이시아의_항공사 "wikilink") [분류:1972년 설립](https://ko.wikipedia.org/wiki/분류:1972년_설립 "wikilink") [분류:화물 항공사](https://ko.wikipedia.org/wiki/분류:화물_항공사 "wikilink") [분류:IATA 회원](https://ko.wikipedia.org/wiki/분류:IATA_회원 "wikilink") [분류:말레이시아 항공](https://ko.wikipedia.org/wiki/분류:말레이시아_항공 "wikilink")
 

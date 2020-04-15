@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [AKB !!!](https://ko.wikipedia.org/wiki/AKB_!!!).
+> This article is converted from Wikipedia: [AKB 아이돌링!!!](https://ko.wikipedia.org/wiki/AKB_아이돌링!!!).
 
 
 **AKB 아이돌링\!\!\!**()는 [일본](../Page/일본.md "wikilink")의 [여성](../Page/여성.md "wikilink") [아이돌](https://ko.wikipedia.org/wiki/아이돌 "wikilink") [그룹이며](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink"), [아이돌링\!\!\!](../Page/아이돌링!!!.md "wikilink")과 [AKB48](../Page/AKB48.md "wikilink")의 콜라보레이션 유닛이다.

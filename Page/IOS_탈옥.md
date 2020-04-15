@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [IOS ](https://ko.wikipedia.org/wiki/IOS_).
+> This article is converted from Wikipedia: [IOS 탈옥](https://ko.wikipedia.org/wiki/IOS_탈옥).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:IPhone_3GS_jailbreak_cydia.jpg "wikilink")\]\] **iOS 탈옥**()은 [iOS](https://ko.wikipedia.org/wiki/iOS "wikilink")의 샌드박스 제한을 풀어 타 회사에서 사용하는 서명되지 않은 코드를 실행할 수 있게 하는 과정을 말한다. [시디아](../Page/시디아.md "wikilink")의 개발자인 [제이 프리맨은](https://ko.wikipedia.org/wiki/제이_프리맨 "wikilink") 전체 [아이폰](../Page/아이폰.md "wikilink") 중 10%가 탈옥되었다고 추정한다.\[1\]

@@ -9,7 +9,7 @@ H-IIA가 [LEO에](../Page/지구_저궤도.md "wikilink") 10톤, [GTO에](https:
 
 H-IIA에서 달라진 점은, 1단 로켓이다. 즉, H-IIA의 1단 액체로켓은 [추력](https://ko.wikipedia.org/wiki/추력 "wikilink") 112톤의 [미쓰비시 LE-7A](../Page/미쓰비시_LE-7.md "wikilink") 엔진 1개를 사용하나, H-IIB는 2개를 사용한다. 그밖에, 2단 로켓이 액체로켓인 추력 14톤의 [미쓰비시 LE-5B](https://ko.wikipedia.org/wiki/미쓰비시_LE-5 "wikilink") 엔진 1개인 점, 1단로켓 옆에 추력 235톤인 [SRB-A](https://ko.wikipedia.org/wiki/SRB-A "wikilink")3 [고체 로켓 부스터](../Page/고체_로켓_부스터.md "wikilink") 4개(총 추력 940톤)를 장착한 것은 H-IIA와 같다 (SRB-A와 SRB-A3의 추력과 비추력은 임무에 맞춰서 변동한다) .
 
-H-IIB 로켓은 2020년-2021년 [HTV](https://ko.wikipedia.org/wiki/HTV "wikilink")-9 호기를 발사 한 뒤 퇴역한다. 그 후계기는 새로 개발중인 H3 로켓 될 예정이다\[1\].
+H-IIB 로켓은 2020년-2021년 [HTV](https://ko.wikipedia.org/wiki/HTV "wikilink")-9 호기를 발사 한 뒤 퇴역한다. 그 후계기는 새로 개발중인 H3 로켓이 된다.\[1\].
 
 ## 다른 로켓과의 비교
 

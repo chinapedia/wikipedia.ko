@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [EBS ](https://ko.wikipedia.org/wiki/EBS_).
+> This article is converted from Wikipedia: [EBS 저녁뉴스](https://ko.wikipedia.org/wiki/EBS_저녁뉴스).
 
 
 《**EBS 저녁뉴스**》는 평일 저녁 7시 30분에 [EBS 1TV에서](../Page/EBS_1TV.md "wikilink") 방송되는 [한국교육방송공사의 뉴스 프로그램이다](https://ko.wikipedia.org/wiki/한국교육방송공사의_뉴스_프로그램 "wikilink").

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [VVV ](https://ko.wikipedia.org/wiki/VVV_).
+> This article is converted from Wikipedia: [VVV 펜로](https://ko.wikipedia.org/wiki/VVV_펜로).
 
 
 **VVV 펜로**(VVV-Venlo)는 [네덜란드](../Page/네덜란드.md "wikilink") [펜로](../Page/펜로.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽으로, 현재 [에레디비시](../Page/에레디비시.md "wikilink")에서 활동하고 있다. 2008–09 [에이르스터 디비시에서](../Page/에이르스터_디비시.md "wikilink") 우승을 차지하면서 [에레디비시](../Page/에레디비시.md "wikilink")(네덜란드 축구의 1부 리그)로 승격되었다.

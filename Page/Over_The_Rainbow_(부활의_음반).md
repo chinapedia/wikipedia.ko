@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Over The Rainbow \( \)](https://ko.wikipedia.org/wiki/Over_The_Rainbow_\(_\)).
+> This article is converted from Wikipedia: [Over The Rainbow \(부활의 음반\)](https://ko.wikipedia.org/wiki/Over_The_Rainbow_\(부활의_음반\)).
 
 
 《**Over The Rainbow**》은 [부활의](../Page/부활_\(밴드\).md "wikilink") 9집 음반이다. 2003년 발매 이후, 2004년 중국 진출 기념으로 한정판으로 재발매 되었다.

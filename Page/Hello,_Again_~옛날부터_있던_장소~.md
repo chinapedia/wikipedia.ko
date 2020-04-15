@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Hello, Again \~  \~](https://ko.wikipedia.org/wiki/Hello,_Again_\~__\~).
+> This article is converted from Wikipedia: [Hello, Again \~옛날부터 있던 장소\~](https://ko.wikipedia.org/wiki/Hello,_Again_\~옛날부터_있던_장소\~).
 
 
 〈**Hello, Again (무카시카라 아루 바쇼)**〉 ()는 [마이 리틀 러버의](https://ko.wikipedia.org/wiki/마이_리틀_러버 "wikilink") 세 번째 싱글이다. [1995년](../Page/1995년.md "wikilink") [8월 21일에](../Page/8월_21일.md "wikilink") 발매됐으며, 마이 리틀 러버의 최대 히트곡이다\[1\]. 2010년에는 [주주가](https://ko.wikipedia.org/wiki/주주_\(가수\) "wikilink") 커버 싱글로도 발매했다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TV   ](https://ko.wikipedia.org/wiki/TV___).
+> This article is converted from Wikipedia: [TV 탐험 멋진 친구들](https://ko.wikipedia.org/wiki/TV_탐험_멋진_친구들).
 
 
 《**TV 탐험 멋진 친구들**》은 [KBS](https://ko.wikipedia.org/wiki/KBS "wikilink")에서 [2007년](../Page/2007년.md "wikilink") [5월 6일부터](../Page/5월_6일.md "wikilink") [2007년](../Page/2007년.md "wikilink") [11월 4일까지](../Page/11월_4일.md "wikilink") 매주 일요일 오전 9시 45분 \~ 10시 35분에 방송된 드라마 NG 프로그램이다. 한편, 이 프로그램은 1980년대부터 지금까지 KBS가 방송, 소장한 모든 드라마를 중심으로 꾸며졌으나\[1\] [서경석을](../Page/서경석_\(희극인\).md "wikilink") 전작 [쇼 파워 비디오에](../Page/쇼_파워_비디오.md "wikilink") 이어 2연속으로 연달아 MC 투입을 시킨 이유 등의 탓인지 시청률 부진을 면치 못했고 결국 [2007년](../Page/2007년.md "wikilink") 가을개편으로 프로그램이 폐지되었으며 당시 <TV 탐험 멋진 친구들> 자리에는 1TV에서 화요일 오후 7시 30분에 방영된\[2\] [오천만의 일급비밀이](../Page/오천만의_일급비밀.md "wikilink") 이동 편성됐다.

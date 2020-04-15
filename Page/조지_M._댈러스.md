@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ M. ](https://ko.wikipedia.org/wiki/_M._).
+> This article is converted from Wikipedia: [조지 M. 댈러스](https://ko.wikipedia.org/wiki/조지_M._댈러스).
 
 
 **조지 미플린 댈러스**(, [1792년](../Page/1792년.md "wikilink") [7월 10일](../Page/7월_10일.md "wikilink") \~ [1864년](../Page/1864년.md "wikilink") [12월 31일](../Page/12월_31일.md "wikilink"))는 [미국](../Page/미국.md "wikilink")의 제11대 [부통령](../Page/미국의_부통령.md "wikilink")(1845\~49)이다.

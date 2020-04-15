@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
+> This article is converted from Wikipedia: [질링엄 FC](https://ko.wikipedia.org/wiki/질링엄_FC).
 
 
 **질링엄 FC**(Gillingham Football Club)는 [잉글랜드](../Page/잉글랜드.md "wikilink") [켄트주](../Page/켄트주.md "wikilink") 질링엄을 연고로 하는 축구 클럽이다.

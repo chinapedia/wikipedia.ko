@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  S II LTE](https://ko.wikipedia.org/wiki/__S_II_LTE).
+> This article is converted from Wikipedia: [삼성 갤럭시 S II LTE](https://ko.wikipedia.org/wiki/삼성_갤럭시_S_II_LTE).
 
 
 **삼성 갤럭시 S II LTE**(Samsung GALAXY S II LTE)는 [삼성전자](https://ko.wikipedia.org/wiki/삼성전자 "wikilink")에서 제조/판매하는 [안드로이드](../Page/안드로이드_\(운영_체제\).md "wikilink") [스마트폰](../Page/스마트폰.md "wikilink")이다.

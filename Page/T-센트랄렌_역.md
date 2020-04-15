@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [T- ](https://ko.wikipedia.org/wiki/T-_).
+> This article is converted from Wikipedia: [T-센트랄렌 역](https://ko.wikipedia.org/wiki/T-센트랄렌_역).
 
 
 **T-센트랄렌**() 역은 [스톡홀름 지하철의](../Page/스톡홀름_지하철.md "wikilink") 세 노선이 모두 만나는 역이다. 스웨덴어 역명의 뜻은 지하철 중앙역이다. 스톡홀름의 도심에 위치해 있고, 다른 교통 수단과 접속되는 특성 때문에 [스톡홀름](../Page/스톡홀름.md "wikilink")에서 가장 이용객 수가 많은 역이다. 스톡홀름의 노르말름 지구에 있으며, 세르옐 광장과 바사가탄 가 사이에 있다.

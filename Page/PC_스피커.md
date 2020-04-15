@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [PC ](https://ko.wikipedia.org/wiki/PC_).
+> This article is converted from Wikipedia: [PC 스피커](https://ko.wikipedia.org/wiki/PC_스피커).
 
 
 **PC 스피커**()는 일부 [IBM PC 호환](../Page/IBM_PC_호환기종.md "wikilink") 컴퓨터에 내장된 [스피커](../Page/스피커.md "wikilink")이다. 최초의 [IBM 개인용 컴퓨터인](../Page/IBM_PC.md "wikilink") 모델 [5150](../Page/IBM_PC.md "wikilink") 모델에는 표준 2.25인치 자기 구동 스피커를 이용하였다.\[1\] 더 최근에 출시된 컴퓨터들은 압전소자(피에조) 방식의 스피커를 대신 이용한다.\[2\] 이 스피커는 [소프트웨어](../Page/소프트웨어.md "wikilink")와 [펌웨어](../Page/펌웨어.md "wikilink")가 사용자에게 소리로 하드웨어 실패와 같은 보고를 하기 위해 [피드백](../Page/피드백.md "wikilink")을 전달할 수 있다. PC 스피커는 [프로그래머블 인터벌 타이머](https://ko.wikipedia.org/wiki/프로그래머블_인터벌_타이머 "wikilink")(PIT), [인텔 8253](https://ko.wikipedia.org/wiki/인텔_8253 "wikilink"), [8254](https://ko.wikipedia.org/wiki/인텔_8254 "wikilink") 칩을 사용하여 파형을 만들어 내보낸다.\[3\]

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  FC](https://ko.wikipedia.org/wiki/__FC).
+> This article is converted from Wikipedia: [슈루즈베리 타운 FC](https://ko.wikipedia.org/wiki/슈루즈베리_타운_FC).
 
 
 **슈루즈베리 타운 FC**(Shrewsbury Town F.C.)는 [잉글랜드](../Page/잉글랜드.md "wikilink") [슈롭셔주](../Page/슈롭셔주.md "wikilink") [슈루즈베리](https://ko.wikipedia.org/wiki/슈루즈베리 "wikilink")를 본거지로 하는 축구 클럽 팀이다.

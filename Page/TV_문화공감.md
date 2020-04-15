@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TV ](https://ko.wikipedia.org/wiki/TV_).
+> This article is converted from Wikipedia: [TV 문화공감](https://ko.wikipedia.org/wiki/TV_문화공감).
 
 
 《**TV 문화공감**》은 [KBS 창원방송총국에서](https://ko.wikipedia.org/wiki/KBS_창원방송총국 "wikilink") 제작/방송되었던 [텔레비전 프로그램이다](../Page/텔레비전_프로그램.md "wikilink").

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ EOS 5D Mark III](https://ko.wikipedia.org/wiki/_EOS_5D_Mark_III).
+> This article is converted from Wikipedia: [캐논 EOS 5D Mark III](https://ko.wikipedia.org/wiki/캐논_EOS_5D_Mark_III).
 
 
 **캐논 EOS 5D Mark III**()는 2,230만 [유효 화소를](https://ko.wikipedia.org/wiki/유효_화소 "wikilink") 가지는 [캐논의](https://ko.wikipedia.org/wiki/캐논_주식회사 "wikilink") [풀프레임](../Page/풀프레임_DSLR.md "wikilink") [디지털 SLR이다](../Page/디지털_일안_반사식_카메라.md "wikilink"). [2012년](../Page/2012년.md "wikilink") [3월 2일에](../Page/3월_2일.md "wikilink") 발표되었으며\[1\] 캐논 EOS 5D Mark II의 후속 기종으로 출시 가격은 미국 기준으로 3,499달러이다. 캐논 DSLR 라인업에서 [캐논 EOS 60D보다](../Page/캐논_EOS_60D.md "wikilink") 상위 기종이면서 [캐논 EOS-1D X보다](../Page/캐논_EOS-1D_X.md "wikilink") 하위 기종에 해당된다. 경쟁 모델로는 니콘의 [D800](https://ko.wikipedia.org/wiki/D800 "wikilink") 등이 있다. 자동초점 포인트가 61개, 크로스 자동초점 포인트가 41개로 향상되었으며 시야율 100% 뷰파인더 탑재, ISO 감도를 최대 10만2400까지 사용 가능한 것이 주요 특징이다.

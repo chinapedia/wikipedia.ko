@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ M. ](https://ko.wikipedia.org/wiki/_M._).
+> This article is converted from Wikipedia: [에드윈 M. 스탠턴](https://ko.wikipedia.org/wiki/에드윈_M._스탠턴).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Edwin_McMasters_Stanton_Secretary_of_War.jpg "wikilink") **에드윈 맥마스터스 스탠턴**(Edwin McMasters Stanton, 1814년 12월 19일 \~ 1869년 12월 24일)은 1862년부터 1865년의 [미국 남북 전쟁](../Page/미국_남북_전쟁.md "wikilink") 기간 동안 [링컨 행정부에서](../Page/에이브러햄_링컨.md "wikilink") [육군장관](https://ko.wikipedia.org/wiki/육군장관 "wikilink")으로 복무한 [미국](../Page/미국.md "wikilink")의 법률가이자 정치인이다. 스탠턴의 효율적인 관할로 말미암아 북측의 막대한 군사 자원을 정비하고 연합국을 승리로 이끌 수 있었다.

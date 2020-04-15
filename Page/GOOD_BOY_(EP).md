@@ -11,7 +11,7 @@
 
 ## 구성
 
-첫 번째 트랙이자 타이틀곡인 "Good Boy"는 이단옆차기와 [Fiera Music이](https://ko.wikipedia.org/wiki/Fiera_Music "wikilink") 참여한 [댄스 팝](../Page/댄스_팝.md "wikilink") 노래로, [비스트의](../Page/비스트_\(음악_그룹\).md "wikilink") [용준형](../Page/용준형.md "wikilink")이 피처링으로 참여했다.\[4\] 원래 "Good Boy"의 랩 파트는 백지영이 혼자 부르기로 결정돼 있었지만, 이단옆차기의 박장근이 남자와 함께 주고받으면 어떻겠냐고 제안을 해 용준형이 참여하기로 변경되었다.\[5\] 두 번째 트랙 〈[목소리](https://ko.wikipedia.org/wiki/목소리_\(백지영의_노래\) "wikilink")〉는 [리쌍](../Page/리쌍.md "wikilink")의 [개리가](https://ko.wikipedia.org/wiki/개리_\(가수\) "wikilink") 피처링으로 참여한 노래로, [알앤비](https://ko.wikipedia.org/wiki/컨템포러리_알앤비 "wikilink") 그루감이 있는 비트와 감성적 멜로디가 돋보이는 곡으로 역시 이단 옆차기가 프로듀서로 참여했다.\[6\] 세 번째 트랙 〈어제보다 오늘 더〉는 하우스 리듬을 기반으로 한 노래이다.\[7\] 이 외에 나머지 트랙들은 "Good Boy"와 〈목소리〉의 다른 버전과 Inst. 버전으로 수록되었다.
+첫 번째 트랙이자 타이틀곡인 "Good Boy"는 이단옆차기와 [Fiera Music이](https://ko.wikipedia.org/wiki/Fiera_Music "wikilink") 참여한 [댄스 팝](../Page/댄스_팝.md "wikilink") 노래로, [비스트의](../Page/비스트_\(음악_그룹\).md "wikilink") [용준형](../Page/용준형.md "wikilink")이 피처링으로 참여했다.\[4\] 원래 "Good Boy"의 랩 파트는 백지영이 혼자 부르기로 결정돼 있었지만, 이단옆차기의 박장근이 남자와 함께 주고받으면 어떻겠냐고 제안을 해 용준형이 참여하기로 변경되었다.\[5\] 두 번째 트랙 〈[목소리](https://ko.wikipedia.org/wiki/목소리_\(백지영의_노래\) "wikilink")〉는 [리쌍](../Page/리쌍.md "wikilink")의 [개리가](https://ko.wikipedia.org/wiki/개리_\(가수\) "wikilink") 피처링으로 참여한 노래로, [알앤비](../Page/컨템포러리_알앤비.md "wikilink") 그루감이 있는 비트와 감성적 멜로디가 돋보이는 곡으로 역시 이단 옆차기가 프로듀서로 참여했다.\[6\] 세 번째 트랙 〈어제보다 오늘 더〉는 하우스 리듬을 기반으로 한 노래이다.\[7\] 이 외에 나머지 트랙들은 "Good Boy"와 〈목소리〉의 다른 버전과 Inst. 버전으로 수록되었다.
 
 ## 뮤직비디오
 

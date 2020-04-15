@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ \~ Mountain of Faith](https://ko.wikipedia.org/wiki/_\~_Mountain_of_Faith).
+> This article is converted from Wikipedia: [동방풍신록 \~ Mountain of Faith](https://ko.wikipedia.org/wiki/동방풍신록_\~_Mountain_of_Faith).
 
 
 《**동방풍신록 \~ Mountain of Faith**》()은 [동방 프로젝트의](../Page/동방_프로젝트.md "wikilink") 열번째 시리즈 게임이다.

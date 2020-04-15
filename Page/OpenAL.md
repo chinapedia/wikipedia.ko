@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [OpenAL](https://ko.wikipedia.org/wiki/OpenAL).
 
 
-**OpenAL** (, 오픈 오디오 라이브러리)은 [자유 소프트웨어](../Page/자유_소프트웨어.md "wikilink") 크로스 플랫폼 오디오 [API](../Page/API.md "wikilink")이다. 다중 채널 3차원 오디오 출력을 효율적으로 구현해내기 위해 설계되었다. API의 스타일과 만들어진 경위는 [OpenGL](../Page/OpenGL.md "wikilink")과 비슷하다.
+**OpenAL**(, 오픈 오디오 라이브러리)은 [자유 소프트웨어](../Page/자유_소프트웨어.md "wikilink") 크로스 플랫폼 오디오 [API](../Page/API.md "wikilink")이다. 다중 채널 3차원 오디오 출력을 효율적으로 구현해내기 위해 설계되었다. API의 스타일과 만들어진 경위는 [OpenGL](../Page/OpenGL.md "wikilink")과 비슷하다.
 
 ## 역사
 

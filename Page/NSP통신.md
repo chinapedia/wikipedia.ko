@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [NSP](https://ko.wikipedia.org/wiki/NSP).
+> This article is converted from Wikipedia: [NSP통신](https://ko.wikipedia.org/wiki/NSP통신).
 
 
 **뉴스통신사인 NSP통신**(NSP NEWS AGENCY)은 2011년 6월 29일에 문화관광체육부에 정식 등록허가를 마치고 설립된 대한민국의 국내유일의 경제중심 종합뉴스통신사이다.

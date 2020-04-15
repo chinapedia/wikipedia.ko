@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [LG  7](https://ko.wikipedia.org/wiki/LG__7).
+> This article is converted from Wikipedia: [LG 옵티머스 7](https://ko.wikipedia.org/wiki/LG_옵티머스_7).
 
 
 **LG 옵티머스 7**(, LG E900)은 [LG전자](../Page/LG전자.md "wikilink")가 출시한 [스마트폰](../Page/스마트폰.md "wikilink")으로,\[1\] 2010년 10월 중 유럽 시장에 출시하였다.\[2\]\[3\]

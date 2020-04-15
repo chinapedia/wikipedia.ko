@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KF  ](https://ko.wikipedia.org/wiki/KF__).
+> This article is converted from Wikipedia: [KF 테우타 두러스](https://ko.wikipedia.org/wiki/KF_테우타_두러스).
 
 
 **KF 테우타 두러스**()는 [알바니아](https://ko.wikipedia.org/wiki/알바니아 "wikilink") [두러스](../Page/두러스.md "wikilink")의 축구 클럽으로 현재는 [알바니아 수페르리가에](../Page/알바니아_수페르리가.md "wikilink") 참가하고 있다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [The Boys \( \)](https://ko.wikipedia.org/wiki/The_Boys_\(_\)).
+> This article is converted from Wikipedia: [The Boys \(소녀시대의 음반\)](https://ko.wikipedia.org/wiki/The_Boys_\(소녀시대의_음반\)).
 
 
 《**The Boys**》는 2011년 10월 19일 [KMP 홀딩스와](https://ko.wikipedia.org/wiki/KMP_홀딩스 "wikilink") [인터스코프 레코드를](../Page/인터스코프_레코드.md "wikilink") 통해 발매된, [대한민국](../Page/대한민국.md "wikilink")의 걸 그룹 [소녀시대](../Page/소녀시대.md "wikilink")의 세 번째 정규 음반이다. 원래 10월 5일 발매할 예정이었지만 미국 발매 결정으로 미루어졌다. 프로듀서 [테디 라일리가](../Page/테디_라일리.md "wikilink") 대부분의 작곡, 프로듀싱을 맡았고, 이 외에 [유영진](https://ko.wikipedia.org/wiki/유영진 "wikilink"), [히치하이커](https://ko.wikipedia.org/wiki/히치하이커_\(작곡가\) "wikilink"), [켄지](../Page/켄지.md "wikilink"), [황성제](../Page/황성제.md "wikilink") 등이 참여했다.

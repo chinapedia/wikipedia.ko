@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [HFC ](https://ko.wikipedia.org/wiki/HFC_).
+> This article is converted from Wikipedia: [HFC 하를럼](https://ko.wikipedia.org/wiki/HFC_하를럼).
 
 
 **HFC 하를럼**(HFC Haarlem)은 [네덜란드](../Page/네덜란드.md "wikilink") [하를럼](https://ko.wikipedia.org/wiki/하를럼 "wikilink")의 축구 클럽이다. 이 클럽은 [1889년](../Page/1889년.md "wikilink") [10월 1일에](../Page/10월_1일.md "wikilink") 창단되었으며 1946년 [에레디비시](../Page/에레디비시.md "wikilink")에서 우승을 차지했다. [KNVB 컵에서는](https://ko.wikipedia.org/wiki/KNVB_컵 "wikilink") 결승전에 다섯 번 출전하여 우승 2회(1902, 1912), 준우승 3회(1911, 1914, 1950)의 기록을 달성했고 [에이르스터 디비시에서](../Page/에이르스터_디비시.md "wikilink") 세 번(1972, 1976, 1981) 우승했다.

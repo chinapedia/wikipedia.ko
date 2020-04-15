@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [X](https://ko.wikipedia.org/wiki/X).
+> This article is converted from Wikipedia: [드래곤X](https://ko.wikipedia.org/wiki/드래곤X).
 
 
 **드래곤X**(DragonX)는 [대한민국](../Page/대한민국.md "wikilink")의 [리그 오브 레전드](../Page/리그_오브_레전드.md "wikilink"), [클래시 로얄](../Page/클래시_로얄.md "wikilink"), 왕자영요 [프로게임단](https://ko.wikipedia.org/wiki/프로게임단 "wikilink")이다. 이전에는 [스타크래프트 II팀도](https://ko.wikipedia.org/wiki/스타크래프트_II "wikilink") 운영하였다.
@@ -118,40 +118,40 @@
 
   - 2010년
       - TG삼보-Intel 스타크래프트 II OPEN Season 1 64강 ([박경락](../Page/박경락.md "wikilink"), [임재덕](../Page/임재덕.md "wikilink"), [황강호](../Page/황강호.md "wikilink"))
-      - **Sony Ericsson 스타크래프트 II OPEN Season 2 우승** (임재덕)
+      - **Sony Ericsson 스타크래프트 II OPEN Season 2 우승**(임재덕)
       - Sony Ericsson 스타크래프트 II OPEN Season 3 8강 (임재덕)
-      - **Absolute, Gainward 스타크래프트 ll Tournament 우승** ([정종현](../Page/정종현.md "wikilink")), 준우승 (임재덕)
+      - **Absolute, Gainward 스타크래프트 ll Tournament 우승**([정종현](../Page/정종현.md "wikilink")), 준우승 (임재덕)
 
 <!-- end list -->
 
   - 2011년
-      - **Sony Ericsson GSL(Global Starcraft ll League) Jan. Code S 우승** (정종현)
-      - **Intel 2nd Core GSL Mar. Code A 우승** (황강호)
-      - **LG시네마3D 월드챔피언십 우승** (정종현)
+      - **Sony Ericsson GSL(Global Starcraft ll League) Jan. Code S 우승**(정종현)
+      - **Intel 2nd Core GSL Mar. Code A 우승**(황강호)
+      - **LG시네마3D 월드챔피언십 우승**(정종현)
       - LG시네마3D GSL May. Code A 준우승 (정종현)
-      - **LG시네마3D GSL May. Code S 우승** (임재덕)
+      - **LG시네마3D GSL May. Code S 우승**(임재덕)
       - LG시네마3D 슈퍼토너먼트 16강 (임재덕)
       - MLG Columbus 준우승 (황강호)
-      - **펩시 GSL July. Code S 우승** (임재덕), 준우승 (황강호)
-      - **MLG Anaheim 우승** (정종현)
-      - **펩시 GSL Aug. Code S 우승** (정종현)
+      - **펩시 GSL July. Code S 우승**(임재덕), 준우승 (황강호)
+      - **MLG Anaheim 우승**(정종현)
+      - **펩시 GSL Aug. Code S 우승**(정종현)
       - Sony Ericsson GSL Oct. Code S 준우승 (정종현)
-      - **Blizzcon 2011 우승** (정종현), 준우승 (임재덕)
+      - **Blizzcon 2011 우승**(정종현), 준우승 (임재덕)
       - Sony Ericsson GSL Nov. Code S 4강 (정종현)
-      - **[WCG 2011](../Page/월드_사이버_게임즈_2011.md "wikilink") 스타크래프트 II 부문 금메달** (정종현)
+      - **[WCG 2011](../Page/월드_사이버_게임즈_2011.md "wikilink") 스타크래프트 II 부문 금메달**(정종현)
       - [2011 Blizzard Cup](../Page/2011_블리자드_컵.md "wikilink") 4강 (정종현)
 
 <!-- end list -->
 
   - 2012년
       - HOT6IX GSL Season 1 Code S 16강 (임재덕, 정종현)
-      - **HOT6IX GSL Season 2 Code S 우승** (정종현)
-      - **Monsieur J GSL Season 3 Code S 우승** (안상원)
+      - **HOT6IX GSL Season 2 Code S 우승**(정종현)
+      - **Monsieur J GSL Season 3 Code S 우승**(안상원)
       - Homestory Cup V 준우승 ([최용화](../Page/최용화.md "wikilink"))
-      - **IEM Season 7 Gamescom 2012 Cologne 우승** (정종현)
+      - **IEM Season 7 Gamescom 2012 Cologne 우승**(정종현)
       - MLG Summer Arena 3위 ([강현우](../Page/강현우.md "wikilink"))
       - MLG Summer Championship 준우승 (강현우)
-      - **[WCG 2012](../Page/월드_사이버_게임즈_2012.md "wikilink") 한국 대표 선발전 우승** (최용화)
+      - **[WCG 2012](../Page/월드_사이버_게임즈_2012.md "wikilink") 한국 대표 선발전 우승**(최용화)
       - HOT6IX GSL Season 4 Code S 준우승 (정종현)
 
 <!-- end list -->
@@ -165,7 +165,7 @@
   - **IPL Team Arena Challenge Season 1 우승**
   - **IPL Team Arena Challenge Season 3 우승**
   - IPTL Season 1 준우승
-  - **2013 HOT6IX GSTL Pre Season 우승** (vs [TEAM AZUBU](https://ko.wikipedia.org/wiki/TEAM_AZUBU "wikilink") 4:2)
+  - **2013 HOT6IX GSTL Pre Season 우승**(vs [TEAM AZUBU](https://ko.wikipedia.org/wiki/TEAM_AZUBU "wikilink") 4:2)
   - 2013 IPTL Season 1 준우승
   - **2013 벤큐 글로벌 스타크래프트 II 팀 리그 시즌 1 우승**(vs [MVP](https://ko.wikipedia.org/wiki/MVP_\(프로게임단\) "wikilink") 5:3)
   - 2014 SK텔레콤 스타크래프트 II 프로리그 1라운드 5위
@@ -175,9 +175,9 @@
 
 ### 리그 오브 레전드
 
-  - 주요 대회 우승 1회
+  - 대회 우승 4회
 
-#### \#1팀
+#### IM \#1팀
 
   - 2012년
       - 아주부 LOL 더 챔피언스 섬머 2012 16강(3위)
@@ -197,11 +197,35 @@
       - 이엠텍 나이스게임TV 리그 오브 레전드 배틀 스프링 2013 8강
       - 핫식스 리그오브레전드 챔피언스 서머 2013 16강
 
+#### 롱주 게이밍
+
+  - 2017년
+      - 리그오브레전드 챔피언스 서머 2017 우승
+      - 리그오브레전드 월드 챔피언십 2017 8강
+      - 케스파컵 2017 준우승
+
+#### 킹존 드래곤 X
+
+  - 2018년
+      - 리그오브레전드 스프링 2018 우승
+      - 미드 시즌 인비테이셔널 준우승
+      - 리프트 라이벌즈 2018 준우승
+
+<!-- end list -->
+
+  - 2019년
+      - 리프트 라이벌즈 2019 우승
+
+#### 드래곤 X
+
+  - 2020년
+      - 케스파컵 2019 4강
+
 #### \#2팀
 
 | 날짜            | 순위    | 대회                                                                                                       | 결과    | 상금                                                              |
 | ------------- | ----- | -------------------------------------------------------------------------------------------------------- | ----- | --------------------------------------------------------------- |
-| 2013년 4월 21일  | 5-8위  | 제4회 인천 실내&무도 아시아경기대회 국가대표 선발전                                                                            | 0 : 2 | [KT 롤스터 B](https://ko.wikipedia.org/wiki/KT_롤스터 "wikilink")     |
+| 2013년 4월 21일  | 5-8위  | 제4회 인천 실내&무도 아시아경기대회 국가대표 선발전                                                                            | 0 : 2 | [KT 롤스터 B](../Page/KT_롤스터.md "wikilink")                        |
 | 2013년 5월 21일  | 5-8위  | [이엠텍 나이스게임TV 리그 오브 레전드 배틀 스프링 2013](../Page/이엠텍_나이스게임TV_리그_오브_레전드_배틀_스프링_2013.md "wikilink")             | 2 : 3 | [SK텔레콤 T1](https://ko.wikipedia.org/wiki/SK텔레콤_T1 "wikilink")   |
 | 2013년 6월 28일  | 5-8위  | LOL AMD 챔피언십 프로팀 최강전                                                                                     | 0 : 2 | [MVP 오존](../Page/MVP_\(e스포츠\).md "wikilink")                    |
 | 2013년 7월 27일  | 9-16위 | [핫식스 리그 오브 레전드 챔피언스 서머 2013](https://ko.wikipedia.org/wiki/핫식스_리그_오브_레전드_챔피언스_서머_2013 "wikilink")        | 0-1-2 | 조별리그 (승/패)                                                      |

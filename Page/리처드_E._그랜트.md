@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ E. ](https://ko.wikipedia.org/wiki/_E._).
+> This article is converted from Wikipedia: [리처드 E. 그랜트](https://ko.wikipedia.org/wiki/리처드_E._그랜트).
 
 
 **리처드 E. 그랜트**(Richard E. Grant, [1957년](../Page/1957년.md "wikilink") [5월 5일](../Page/5월_5일.md "wikilink")\~)는 [에스와티니](../Page/에스와티니.md "wikilink")에서 태어난 [영국](../Page/영국.md "wikilink")의 [배우](../Page/배우.md "wikilink")이다.
@@ -11,6 +11,7 @@
   - [킬러의 보디가드](../Page/킬러의_보디가드.md "wikilink")
   - [호두까기 인형과 4개의 왕국](../Page/호두까기_인형과_4개의_왕국.md "wikilink") - 쉬버 역
   - [캔 유 에버 포기브 미?](https://ko.wikipedia.org/wiki/캔_유_에버_포기브_미? "wikilink") - 잭 호크 역
+  - [스타워즈: 라이즈 오브 스카이워커](../Page/스타워즈:_라이즈_오브_스카이워커.md "wikilink") - 프라이드 장군 역
 
 ## 외부 링크
 

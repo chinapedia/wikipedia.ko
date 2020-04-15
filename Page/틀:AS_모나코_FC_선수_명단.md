@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:AS  FC  ](https://ko.wikipedia.org/wiki/:AS__FC__).
+> This article is converted from Wikipedia: [틀:AS 모나코 FC 선수 명단](https://ko.wikipedia.org/wiki/틀:AS_모나코_FC_선수_명단).
 
 
 <onlyinclude></onlyinclude>

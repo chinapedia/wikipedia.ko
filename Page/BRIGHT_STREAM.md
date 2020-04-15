@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [BRIGHT STREAM](https://ko.wikipedia.org/wiki/BRIGHT_STREAM).
 
 
-**BRIGHT STREAM**은 [미즈키 나나의](../Page/미즈키_나나.md "wikilink") 28집 싱글이다. 2012년 8월 1일에 정식 발매되었다.
+《**BRIGHT STREAM**》은 [미즈키 나나의](../Page/미즈키_나나.md "wikilink") 28집 싱글이다. 2012년 8월 1일에 정식 발매되었다.
 
 ## 수록곡
 

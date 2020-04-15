@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FC  ](https://ko.wikipedia.org/wiki/FC__).
+> This article is converted from Wikipedia: [FC 로트바이스 에르푸르트](https://ko.wikipedia.org/wiki/FC_로트바이스_에르푸르트).
 
 
 **FC 로트바이스 에르푸르트**(FC Rot-Weiß Erfurt)는 [독일](../Page/독일.md "wikilink") [튀링겐주](../Page/튀링겐주.md "wikilink")의 도시 [에르푸르트](../Page/에르푸르트.md "wikilink")를 연고로 하는 [축구](../Page/축구.md "wikilink") 팀으로, 현재 [3 리가에서](https://ko.wikipedia.org/wiki/3_리가 "wikilink") 활동하고 있다.

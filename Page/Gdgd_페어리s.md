@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Gdgd s](https://ko.wikipedia.org/wiki/Gdgd_s).
+> This article is converted from Wikipedia: [Gdgd 페어리s](https://ko.wikipedia.org/wiki/Gdgd_페어리s).
 
 
 **gdgd 페어리s**()는 [스가하라 소타](https://ko.wikipedia.org/wiki/스가하라_소타 "wikilink") 원안, 2대째 gdgd 페어리s 제작으로 만들어진 풀 3D CGI 애니메이션 작품을 가리킨다.

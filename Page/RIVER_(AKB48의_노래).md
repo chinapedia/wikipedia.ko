@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [RIVER \(AKB48 \)](https://ko.wikipedia.org/wiki/RIVER_\(AKB48_\)).
+> This article is converted from Wikipedia: [RIVER \(AKB48의 노래\)](https://ko.wikipedia.org/wiki/RIVER_\(AKB48의_노래\)).
 
 
 〈**RIVER**〉는 [일본](../Page/일본.md "wikilink")의 아이돌 그룹 [AKB48](../Page/AKB48.md "wikilink")의 14번째 싱글이다. 오리콘 첫 주간 1위 싱글

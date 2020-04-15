@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KDE  ](https://ko.wikipedia.org/wiki/KDE__).
+> This article is converted from Wikipedia: [KDE 소프트웨어 모음](https://ko.wikipedia.org/wiki/KDE_소프트웨어_모음).
 
 
 [대체글=](https://ko.wikipedia.org/wiki/파일:KDE_Mascot_Konqi_by_Tyson_Tan.png "wikilink")\]\] **KDE**(**K** **D**esktop **E**nvironment , K 데스크톱 환경)는 [자유 소프트웨어](../Page/자유_소프트웨어.md "wikilink") 데스크톱 환경으로, [노키아](../Page/노키아.md "wikilink")의 [Qt 툴킷을](../Page/Qt_\(프레임워크\).md "wikilink") 기반으로 하였다. 대부분의 [유닉스 계열](../Page/유닉스_계열.md "wikilink"), [리눅스](../Page/리눅스.md "wikilink"), BSD, AIX 등의 운영 체제에서 작동한다. [OS X의](https://ko.wikipedia.org/wiki/OS_X "wikilink") X11 레이어를 이용한 포팅과 [시그윈](../Page/시그윈.md "wikilink")과 네이티브에서 동작하는 [마이크로소프트 윈도에](https://ko.wikipedia.org/wiki/마이크로소프트_윈도 "wikilink") 대한 포팅도 진행 중으로, 현재 kdelibs의 많은 부분과 기타 다른 프로그램들이 [마이크로소프트 윈도에서](https://ko.wikipedia.org/wiki/마이크로소프트_윈도 "wikilink") 잘 작동한다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [My Town \(  \)](https://ko.wikipedia.org/wiki/My_Town_\(__\)).
+> This article is converted from Wikipedia: [My Town \(몽고메리 젠트리의 노래\)](https://ko.wikipedia.org/wiki/My_Town_\(몽고메리_젠트리의_노래\)).
 
 
 "**My Town**"는 [몽고메리 젠트리의](../Page/몽고메리_젠트리.md "wikilink") 노래로, 2002년 6월 발매되었다. 음반 *[My Town](../Page/My_Town.md "wikilink")*에 수록되었다.

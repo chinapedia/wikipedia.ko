@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [BANG! BANG! ](https://ko.wikipedia.org/wiki/BANG!_BANG!_).
+> This article is converted from Wikipedia: [BANG! BANG! 바캉스](https://ko.wikipedia.org/wiki/BANG!_BANG!_바캉스).
 
 
 **BANG\! BANG\! 바캉스\!**()는 [SMAP](../Page/SMAP.md "wikilink")의 37번째 싱글이다. [2005년](../Page/2005년.md "wikilink") [7월 27일에](../Page/7월_27일.md "wikilink") [빅터 엔터테인먼트에서](https://ko.wikipedia.org/wiki/빅터_엔터테인먼트 "wikilink") 발매되었다.
@@ -12,9 +12,9 @@
 
 ## 수록곡
 
-1.  **BANG\! BANG\! 바캉스\!** ()
+1.  **BANG\! BANG\! 바캉스\!**()
       - 작사 : [쿠도 칸쿠로](../Page/쿠도_칸쿠로.md "wikilink") / 작곡·편곡 : 코모리타 미노루
-2.  **상냥한 말** ()
+2.  **상냥한 말**()
       - 작사·작곡·편곡 : Takacha
 3.  BANG\! BANG\! 바캉스\! (back track)
 4.  상냥한 말 (back track)

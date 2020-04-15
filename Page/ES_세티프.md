@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ES ](https://ko.wikipedia.org/wiki/ES_).
+> This article is converted from Wikipedia: [ES 세티프](https://ko.wikipedia.org/wiki/ES_세티프).
 
 
 **앙탕트 스포르티브 드 세티프**(, ) 또는 **ES 세티프**()는 [세티프](../Page/세티프.md "wikilink")를 연고로 하는 [알제리](../Page/알제리.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다.

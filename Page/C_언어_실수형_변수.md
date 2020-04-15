@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [C   ](https://ko.wikipedia.org/wiki/C___).
+> This article is converted from Wikipedia: [C 언어 실수형 변수](https://ko.wikipedia.org/wiki/C_언어_실수형_변수).
 
 
 [C](../Page/C_언어의_문법.md "wikilink")/[C++](https://ko.wikipedia.org/wiki/C++ "wikilink")에서 실수형은 실수를 처리하기 위해 사용한다. 실수를 2진수를 표현할 때 [부동소수점](../Page/부동소수점.md "wikilink")(Float-Point) 방식과 [고정 소수점](https://ko.wikipedia.org/wiki/고정_소수점 "wikilink") 방식이 있는데, C/C++에서는 부동소수점 방식을 사용한다. 이것은 국제표준 [IEEE 754](../Page/IEEE_754.md "wikilink") 규격에 따른다. [float](https://ko.wikipedia.org/wiki/float "wikilink")와 [double](https://ko.wikipedia.org/wiki/double "wikilink")을 사용하여 변수 선언을 한다. 이것은 CPU의 구조와 상관이 없이 국제 표준에 의한 규정에 따른 변수이므로 int처럼 변수 길이(비트 수)가 변하지 않는다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [GIF](https://ko.wikipedia.org/wiki/GIF).
+> This article is converted from Wikipedia: [알GIF](https://ko.wikipedia.org/wiki/알GIF).
 
 
 **알GIF**는 서비스가 중단된 [이스트소프트](../Page/이스트소프트.md "wikilink")의 [알툴즈](../Page/알툴즈.md "wikilink")의 제품 중 하나이다. [GIF](../Page/GIF.md "wikilink") 포맷으로 된 애니메이션 파일을 제작해주는 프로그램이었다.

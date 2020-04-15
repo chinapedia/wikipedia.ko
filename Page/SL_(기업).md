@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SL \(\)](https://ko.wikipedia.org/wiki/SL_\(\)).
+> This article is converted from Wikipedia: [SL \(기업\)](https://ko.wikipedia.org/wiki/SL_\(기업\)).
 
 
 **SL** 주식회사(, )은 [대한민국](../Page/대한민국.md "wikilink")의 [자동차](../Page/자동차.md "wikilink") 부품을 주로 제조하는 회사이다. 대한민국 내 헤드램프 공급 점유율을 가지고 있으며, 해외 수출도 하고 있다. 본사를 거점으로 한국, 중국, 북미, 인도, 유럽 등 총 17개의 계열회사를 두고 있고 현대, 기아, GM 등에 중점 납품하고 있다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ TV \(2\)](https://ko.wikipedia.org/wiki/_TV_\(2\)).
+> This article is converted from Wikipedia: [애플 TV \(2세대\)](https://ko.wikipedia.org/wiki/애플_TV_\(2세대\)).
 
 
 **애플 TV** (**Apple TV**)는 애플이 개발한 [셋톱박스](../Page/셋톱박스.md "wikilink")이다. [1세대](../Page/애플_TV_\(1세대\).md "wikilink") 모델보다 4분의 1로 크기가 줄었으며 3분의 1의 가격에 판매하고 있다. 1세대 모델과 달리 [iOS](https://ko.wikipedia.org/wiki/iOS "wikilink")를 탑재하고 있으며 캐시 저장을 위한 8GB의 디스크를 제외하면 저장 공간은 없으며, 컴퓨터의 [아이튠즈](../Page/아이튠즈.md "wikilink"), [아이폰](../Page/아이폰.md "wikilink")등의 다른 iOS 장비에서 영화나 노래등을 AirPlay 를 통해 스트리밍으로 재생한다. 미국에서 $99에 판매되고 있으며 대한민국에서는 [2012년](../Page/2012년.md "wikilink") 현재까지 출시되지 않았다. 또한 iOS를 탑재하여 다른 iOS 장비처럼 [탈옥을](https://ko.wikipedia.org/wiki/iOS_탈옥 "wikilink") 할 수 있다. 여기서 탈옥의 목적은 [XBMC](https://ko.wikipedia.org/wiki/XBMC "wikilink")와 같은 서드파티 응용 프로그램 설치로 [시디아](../Page/시디아.md "wikilink")는 설치되지 않는다.

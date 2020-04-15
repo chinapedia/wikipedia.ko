@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ XXVI](https://ko.wikipedia.org/wiki/_XXVI).
+> This article is converted from Wikipedia: [레슬매니아 XXVI](https://ko.wikipedia.org/wiki/레슬매니아_XXVI).
 
 
 **레슬매니아 XXVI**()은 2010년 3월 28일에 [미국](../Page/미국.md "wikilink") [애리조나주](../Page/애리조나주.md "wikilink") [피닉스에서](../Page/피닉스_\(애리조나주\).md "wikilink") 개최된 26번째 [레슬마니아](https://ko.wikipedia.org/wiki/레슬마니아 "wikilink") 대회이다.

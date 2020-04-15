@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  II](https://ko.wikipedia.org/wiki/__II).
+> This article is converted from Wikipedia: [아몬 뒬 II](https://ko.wikipedia.org/wiki/아몬_뒬_II).
 
 
 **아몬 뒬 II**(Amon Düül II, Amon Düül 2)는 [독일](../Page/독일.md "wikilink")의 록밴드이다. [크라우트록](https://ko.wikipedia.org/wiki/크라우트록 "wikilink")을 창시한 밴드 중 하나로 본다.

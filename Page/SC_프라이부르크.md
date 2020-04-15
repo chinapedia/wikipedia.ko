@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [SC ](https://ko.wikipedia.org/wiki/SC_).
+> This article is converted from Wikipedia: [SC 프라이부르크](https://ko.wikipedia.org/wiki/SC_프라이부르크).
 
 
-**슈포르트-클루프 프라이부르크 e.V.**(Sport-Club Freiburg e.V.) 는 흔히 **SC 프라이부르크** ()로 알려진 [독일](../Page/독일.md "wikilink") [바덴뷔르템베르크주](../Page/바덴뷔르템베르크주.md "wikilink") [프라이부르크임브라이스가우](../Page/프라이부르크임브라이스가우.md "wikilink")를 연고로 하는 축구 클럽이다. SC 프라이부르크는 2009년의 1부 리그 승격 이래 [분데스리가에](https://ko.wikipedia.org/wiki/푸스발-분데스리가 "wikilink") 속해 있었다. 프라이부르크는 전통적으로 [독일 축구 리그 시스템의](../Page/독일_축구_리그_시스템.md "wikilink") 1부 리그와 2부리그를 오르락 내리락 거렸고, 이는 1990년대 팬들 사이에 "우리는 내려갔다, 올라갔다, [UEFA컵](https://ko.wikipedia.org/wiki/UEFA컵 "wikilink")으로 간다\!" 구호가 유명해지는 계기가 되었다.\[1\]
+**슈포르트-클루프 프라이부르크 e.V.**(Sport-Club Freiburg e.V.) 는 흔히 **SC 프라이부르크**()로 알려진 [독일](../Page/독일.md "wikilink") [바덴뷔르템베르크주](../Page/바덴뷔르템베르크주.md "wikilink") [프라이부르크임브라이스가우](../Page/프라이부르크임브라이스가우.md "wikilink")를 연고로 하는 축구 클럽이다. SC 프라이부르크는 2009년의 1부 리그 승격 이래 [분데스리가에](https://ko.wikipedia.org/wiki/푸스발-분데스리가 "wikilink") 속해 있었다. 프라이부르크는 전통적으로 [독일 축구 리그 시스템의](../Page/독일_축구_리그_시스템.md "wikilink") 1부 리그와 2부리그를 오르락 내리락 거렸고, 이는 1990년대 팬들 사이에 "우리는 내려갔다, 올라갔다, [UEFA컵](https://ko.wikipedia.org/wiki/UEFA컵 "wikilink")으로 간다\!" 구호가 유명해지는 계기가 되었다.\[1\]
 
 1954년을 기점으로, 클럽의 홈 구장은 [마게 졸라 슈타디온이었다](https://ko.wikipedia.org/wiki/드라이잠_슈타디온 "wikilink"). 1991년부터 2007년까지 클럽의 감독을 역임했던 [폴커 핀케는](https://ko.wikipedia.org/wiki/폴커_핀케 "wikilink") 독일 프로 축구 리그 역사상 가장 장수한 감독들 중 하나이다. 현 [독일 축구 국가대표팀](../Page/독일_축구_국가대표팀.md "wikilink") 감독 [요아힘 뢰프는](../Page/요아힘_뢰프.md "wikilink") SCF에 3번 들락날락 하며 252경기에 출전하여 81골을 득점하면서 클럽 역대 최고 득점자로 이름을 올리고 있다.\[2\]
 
@@ -33,7 +33,7 @@
 
 ### 리저브 팀
 
-클럽은 리저브 팀은 이전에 **SC 프라이부르크 아마토이레** (SC Freiburg Amateure) 로 알려진 **SC 프라이부르크 II** (SC Freiburg II) 로, 주로 하부 아마토이어 리그에 소속되어 있었다. 이 클럽은 4부 리그인 [페어반츠리가 쥐트바덴에](https://ko.wikipedia.org/wiki/페어반츠리가_쥐트바덴 "wikilink") 1983년부터 1986년까지 3년간 소속되어 있었고, 1994년에 이 리그로 복귀하였다. 1998년, 팀은 페어반츠리가 우승을 거두면서 [오버리가 바덴뷔르템베르크로](https://ko.wikipedia.org/wiki/오버리가_바덴뷔르템베르크 "wikilink") 승격되었다. SC 프라이부르크 II는 이어지는 10년간 이 리그의 상위권 성적을 거두었고, 2012년에 새로 출범한 [레기오날리가 쥐트베스트로](https://ko.wikipedia.org/wiki/푸스발-레기오날리가_쥐트베스트 "wikilink") 승격되었다. 첫 시즌에 이 리그를 7위로 마감한 팀은 2013-14 시즌에 준우승을 거두었다.
+클럽은 리저브 팀은 이전에 **SC 프라이부르크 아마토이레**(SC Freiburg Amateure) 로 알려진 **SC 프라이부르크 II**(SC Freiburg II) 로, 주로 하부 아마토이어 리그에 소속되어 있었다. 이 클럽은 4부 리그인 [페어반츠리가 쥐트바덴에](https://ko.wikipedia.org/wiki/페어반츠리가_쥐트바덴 "wikilink") 1983년부터 1986년까지 3년간 소속되어 있었고, 1994년에 이 리그로 복귀하였다. 1998년, 팀은 페어반츠리가 우승을 거두면서 [오버리가 바덴뷔르템베르크로](https://ko.wikipedia.org/wiki/오버리가_바덴뷔르템베르크 "wikilink") 승격되었다. SC 프라이부르크 II는 이어지는 10년간 이 리그의 상위권 성적을 거두었고, 2012년에 새로 출범한 [레기오날리가 쥐트베스트로](https://ko.wikipedia.org/wiki/푸스발-레기오날리가_쥐트베스트 "wikilink") 승격되었다. 첫 시즌에 이 리그를 7위로 마감한 팀은 2013-14 시즌에 준우승을 거두었다.
 
 ## 경기장
 

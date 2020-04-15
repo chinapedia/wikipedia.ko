@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
+> This article is converted from Wikipedia: [켐니츠 FC](https://ko.wikipedia.org/wiki/켐니츠_FC).
 
 
 **켐니츠 FC**()는 [독일](../Page/독일.md "wikilink") [작센주](../Page/작센주.md "wikilink")의 도시 [켐니츠](../Page/켐니츠.md "wikilink")의 축구 클럽으로, 현재 [레기오날리가](../Page/레기오날리가.md "wikilink") 북부 리그에서 활동하고 있다.

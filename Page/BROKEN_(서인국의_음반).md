@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [BROKEN \( \)](https://ko.wikipedia.org/wiki/BROKEN_\(_\)).
+> This article is converted from Wikipedia: [BROKEN \(서인국의 음반\)](https://ko.wikipedia.org/wiki/BROKEN_\(서인국의_음반\)).
 
 
 | [서인국](https://ko.wikipedia.org/wiki/서인국 "wikilink")의 앨범 정보 |

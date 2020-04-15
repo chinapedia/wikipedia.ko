@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [   V](https://ko.wikipedia.org/wiki/___V).
+> This article is converted from Wikipedia: [시드 마이어의 문명 V](https://ko.wikipedia.org/wiki/시드_마이어의_문명_V).
 
 
 《**시드 마이어의 문명 V**》()는 [문명](../Page/문명_\(비디오_게임\).md "wikilink") 시리즈의 5번째 작품이다. 문명 V는 북미 지역은 [2010년](../Page/2010년.md "wikilink") [9월 21일](../Page/9월_21일.md "wikilink"), 그 외 지역은 2010년 [9월 24일에](../Page/9월_24일.md "wikilink") 출시된 컴퓨터 게임이다. 2010년 10월에 한국내 게임시장 및 소셜 네트워크에서 돌풍을 불러오기도 했다. 새롭게 개발된 게임 엔진은 사각형 대신에 육각형의 타일을 바탕으로 하고 있다. 한 문명은 과학기술연구, 외교, 경제 개발, 정부, 군사 정복을 수행하며 발전해 나간다.

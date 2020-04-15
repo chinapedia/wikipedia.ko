@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ BL](https://ko.wikipedia.org/wiki/_BL).
+> This article is converted from Wikipedia: [웨스트 BL](https://ko.wikipedia.org/wiki/웨스트_BL).
 
 
 **웨스트 비엘** (WEST BL)은 [대한민국](../Page/대한민국.md "wikilink")의 [힙합](../Page/힙합.md "wikilink") 래퍼이다. 1999년 겨울에 데뷔, [대구](../Page/대구광역시.md "wikilink") 힙합씬을 일군 사람 중 한 명으로 평가받고 있다.\[1\]\[2\]

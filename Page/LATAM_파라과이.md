@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [LATAM ](https://ko.wikipedia.org/wiki/LATAM_).
+> This article is converted from Wikipedia: [LATAM 파라과이](https://ko.wikipedia.org/wiki/LATAM_파라과이).
 
 
 **LATAM 파라과이**()는 [파라과이](../Page/파라과이.md "wikilink")의 [아순시온](../Page/아순시온.md "wikilink")에 거점을 둔 항공사로\[1\] [1994년](../Page/1994년.md "wikilink") [파라과이](../Page/파라과이.md "wikilink")에 ARPA 항공을 설립하고 소형 기종을 도입해 운항하고 있었다. [1996년](../Page/1996년.md "wikilink") [9월](../Page/9월.md "wikilink") 당시 경영 부진에 빠져 있던 라부사 에어 파라과이을 인수 후 합병되어 [남아메리카](../Page/남아메리카.md "wikilink") 각국에 취항하는 TAM 메루크스 항공으로 재편했다. 지분 비율은 [TAM 항공](https://ko.wikipedia.org/wiki/TAM_항공 "wikilink") 94.98%, [파라과이 정부](../Page/파라과이.md "wikilink") 5.02%를 보유하고 있으며 [2008년](../Page/2008년.md "wikilink")에 현재의 사명으로 변경했다.\[2\]

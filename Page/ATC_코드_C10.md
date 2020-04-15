@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ATC  C10](https://ko.wikipedia.org/wiki/ATC__C10).
+> This article is converted from Wikipedia: [ATC 코드 C10](https://ko.wikipedia.org/wiki/ATC_코드_C10).
 
 
 **ATC 코드 C10**은 [ATC 코드의](https://ko.wikipedia.org/wiki/ATC_코드 "wikilink") 고지혈증 치료제로 작용하는 약물을 정리한 코드이다. \[1\] **ATC 코드** C 심혈관계의 하위그룹을 이룬다.

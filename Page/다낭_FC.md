@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
+> This article is converted from Wikipedia: [다낭 FC](https://ko.wikipedia.org/wiki/다낭_FC).
 
 
 **SHB 다낭 FC**() 또는 **다낭 FC**()는 [베트남](../Page/베트남.md "wikilink") [다낭](../Page/다낭.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다. [2007년](../Page/2007년.md "wikilink")까지는 **꽝남 다낭**()이라는 명칭을 사용했다.

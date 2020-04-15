@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Home \(Mr.Children \)](https://ko.wikipedia.org/wiki/Home_\(Mr.Children_\)).
+> This article is converted from Wikipedia: [Home \(Mr.Children의 음반\)](https://ko.wikipedia.org/wiki/Home_\(Mr.Children의_음반\)).
 
 
 《**Home**》은 [2007년](../Page/2007년.md "wikilink") [3월 14일에](../Page/3월_14일.md "wikilink") 발매된 [Mr.Children](../Page/Mr.Children.md "wikilink")의 열두 번째 정규 음반이다. 초회한정판에는 음반 작업과 공연 장면이 수록된 DVD가 포함되어 있다. 발매 첫 주 69만 장 이상 팔리며 오리콘 주간 음반 차트 1위를 차지했다\[1\].

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SBS ](https://ko.wikipedia.org/wiki/SBS_).
+> This article is converted from Wikipedia: [SBS 애니갤러리](https://ko.wikipedia.org/wiki/SBS_애니갤러리).
 
 
 《**SBS 애니갤러리**》()는 2007년부터 SBS에서 방영되는 독립 애니메이션 소개 프로그램이다.

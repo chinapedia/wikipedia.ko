@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [O](https://ko.wikipedia.org/wiki/O).
+> This article is converted from Wikipedia: [O링](https://ko.wikipedia.org/wiki/O링).
 
 
 **O링**(O-ring)은 패킹으로도 불리며 [원환체](../Page/원환체.md "wikilink") 모양으로 생긴 합성고무 혹은 내열성 플라스틱으로 만들어진 부품이다. 자동차 엔진의 실린더 같은 기계 부품 사이에서 기체가 새지않도록 막아주는 역할을 한다. 또한, [우주왕복선 고체 로켓 부스터](https://ko.wikipedia.org/wiki/우주왕복선_고체_로켓_부스터 "wikilink")(SRB)에서 각각의 파트가 연결되는 부분의 연료누출을 막는 역할을 한다. 재료의 특성 때문에 [챌린저 우주왕복선 폭발사고의](https://ko.wikipedia.org/wiki/챌린저_우주왕복선_폭발사고 "wikilink") 직접적인 원인이 되기도 했다.

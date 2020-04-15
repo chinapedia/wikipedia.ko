@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [The Boys of Wexford](https://ko.wikipedia.org/wiki/The_Boys_of_Wexford).
 
 
-**The Boys of Wexford**(더 보이즈 어브 웩스퍼드)는 아일랜드의 포크송이다. [켈리 더 보이 프럼 킬란](https://ko.wikipedia.org/wiki/존_켈리 "wikilink")(Kelly, the Boy From Killane), 불라보그(Boulavogue) 등의 포크송을 작사한 패트릭 조지프 매콜(1861\~1919)이 작사하였고, 아서 워렌 딜리(1873\~1929)가 작곡하였다. 웩스퍼드(Wexford)는 1798년의 아일랜드 독립 전쟁 때 처음 봉기가 일어난 곳이다. 이 곡은 아일랜드계인 [미국](../Page/미국.md "wikilink") 35대 대통령 [존 피츠제럴드 케네디의](https://ko.wikipedia.org/wiki/존_피츠제럴드_케네디 "wikilink") 애창곡이기도 하다.
+《**The Boys of Wexford**》(더 보이즈 어브 웩스퍼드)는 아일랜드의 포크송이다. [켈리 더 보이 프럼 킬란](https://ko.wikipedia.org/wiki/존_켈리 "wikilink")(Kelly, the Boy From Killane), 불라보그(Boulavogue) 등의 포크송을 작사한 패트릭 조지프 매콜(1861\~1919)이 작사하였고, 아서 워렌 딜리(1873\~1929)가 작곡하였다. 웩스퍼드(Wexford)는 1798년의 아일랜드 독립 전쟁 때 처음 봉기가 일어난 곳이다. 이 곡은 아일랜드계인 [미국](../Page/미국.md "wikilink") 35대 대통령 [존 피츠제럴드 케네디의](https://ko.wikipedia.org/wiki/존_피츠제럴드_케네디 "wikilink") 애창곡이기도 하다.
 
 ## 내용
 

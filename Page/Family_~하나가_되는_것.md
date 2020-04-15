@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Family \~  ](https://ko.wikipedia.org/wiki/Family_\~__).
+> This article is converted from Wikipedia: [Family \~하나가 되는 것](https://ko.wikipedia.org/wiki/Family_\~하나가_되는_것).
 
 
 〈**Family \~하나가 되는 것**〉()은, [KinKi Kids의](https://ko.wikipedia.org/wiki/킨키_키즈 "wikilink") 30번째 [싱글이다](../Page/싱글_\(음악\).md "wikilink").

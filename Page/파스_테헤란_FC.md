@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  FC](https://ko.wikipedia.org/wiki/__FC).
+> This article is converted from Wikipedia: [파스 테헤란 FC](https://ko.wikipedia.org/wiki/파스_테헤란_FC).
 
 
 **파스 테헤란 풋볼 클럽**()은 [이란](../Page/이란.md "wikilink")의 프로 [축구](../Page/축구.md "wikilink") 클럽으로 [수도](../Page/수도.md "wikilink")인 [테헤란](../Page/테헤란.md "wikilink")을 연고로 하고 있다. [파스 컬처 & 스포츠 클럽에](https://ko.wikipedia.org/wiki/파스_컬처_&_스포츠_클럽 "wikilink") 소속된 [축구팀](https://ko.wikipedia.org/wiki/축구팀 "wikilink")이다.

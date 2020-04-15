@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [K ](https://ko.wikipedia.org/wiki/K_).
+> This article is converted from Wikipedia: [K리그 자유계약선수제도](https://ko.wikipedia.org/wiki/K리그_자유계약선수제도).
 
 
 **[K리그](../Page/K리그.md "wikilink")의 자유계약선수제도**는 프로축구 선수단 관리규칙 제 4장(FA제도) 26조에서 32조에 의해 규정되어 있다.

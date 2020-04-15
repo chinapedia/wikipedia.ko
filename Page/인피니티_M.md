@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ M](https://ko.wikipedia.org/wiki/_M).
+> This article is converted from Wikipedia: [인피니티 M](https://ko.wikipedia.org/wiki/인피니티_M).
 
 
 **인피니티 M**(Infiniti M)은 [닛산 자동차의](../Page/닛산_자동차.md "wikilink") 고급 브랜드인 [인피니티](https://ko.wikipedia.org/wiki/인피니티 "wikilink")에서 판매되는 대형 승용차이다. [Q45가](../Page/인피니티_Q45.md "wikilink") [2006년](../Page/2006년.md "wikilink")에 단종됨에 따라 현재는 [인피니티](https://ko.wikipedia.org/wiki/인피니티 "wikilink")의 플래그십 역할도 하고 있으며, [2014년](../Page/2014년.md "wikilink")부터 [인피니티](https://ko.wikipedia.org/wiki/인피니티 "wikilink")의 새 작명법에 따라 차명이 Q70로 변경되었다.

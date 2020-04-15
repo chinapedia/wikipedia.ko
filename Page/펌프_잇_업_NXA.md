@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [   NXA](https://ko.wikipedia.org/wiki/___NXA).
+> This article is converted from Wikipedia: [펌프 잇 업 NXA](https://ko.wikipedia.org/wiki/펌프_잇_업_NXA).
 
 
 **펌프 잇 업 NX Absolute**, 간략히 **펌프 잇 업 NXA**는 펌프 잇 업 프로를 제외하고 국내에서는 15번째. 국제에서는 10번째에 해당된다. [2008년](../Page/2008년.md "wikilink") [11월 25일에](../Page/11월_25일.md "wikilink") 출시되었다. 하드웨어 장치를 사용한다. [USB](../Page/USB.md "wikilink") 시스템이 더 강화되었고 월드 맥스의 새로운 맵과 아이템이 추가되었다. 인터페이스는 NX, NX2과 동일 하며 NX 시리즈의 완결판이 된다. 난이도 구성은 NX2때와 같다. NX2과 마찬가지로 보너스 스테이지를 제외한 2스테이지로 설정하고 있으며, 1스테이지에서 F를 받아도 계속하는 방식으로 유지한다. 트레이닝 존에서 이지스테이션으로 변경하고 새로운 모드인 **브레인 샤워**는 퀴즈형식의 모드로 계산력, 암기력, 관찰력 부문이 있다. NX부터 이 버전까지는 운동량 측정을 확인 할 수 있다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [DJP](https://ko.wikipedia.org/wiki/DJP).
+> This article is converted from Wikipedia: [DJP연합](https://ko.wikipedia.org/wiki/DJP연합).
 
 
 **DJP연합**은 [김대중](../Page/김대중.md "wikilink")(DJ)과 [김종필](../Page/김종필.md "wikilink")(JP)이 [1997년 대통령 선거에서](../Page/대한민국_제15대_대통령_선거.md "wikilink") 단일화를 선언하고 [DJ 정권](https://ko.wikipedia.org/wiki/국민의_정부 "wikilink") 출범 후 약 3년 간 연립 내각을 구성한 것을 말한다.

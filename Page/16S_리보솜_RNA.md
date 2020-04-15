@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [16S  RNA](https://ko.wikipedia.org/wiki/16S__RNA).
+> This article is converted from Wikipedia: [16S 리보솜 RNA](https://ko.wikipedia.org/wiki/16S_리보솜_RNA).
 
 
 **16S 리보솜 RNA**(16S ribosomal RNA, 16S rRNA)는 [원핵생물](../Page/원핵생물.md "wikilink") [리보솜](../Page/리보솜.md "wikilink")의 30S 소단위체를 구성하고 있는 [rRNA로](https://ko.wikipedia.org/wiki/리보솜_RNA "wikilink"), 1,500 [뉴클레오타이드](../Page/뉴클레오타이드.md "wikilink") 정도의 길이를 갖는다.\[1\]

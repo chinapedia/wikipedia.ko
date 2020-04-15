@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [LG  ](https://ko.wikipedia.org/wiki/LG__).
+> This article is converted from Wikipedia: [LG 뉴 초콜릿](https://ko.wikipedia.org/wiki/LG_뉴_초콜릿).
 
 
 **LG 뉴 초콜릿**(, LG BL40)는 [LG전자](../Page/LG전자.md "wikilink")가 2009년에 출시한 [휴대 전화기이다](https://ko.wikipedia.org/wiki/휴대_전화기 "wikilink").\[1\]

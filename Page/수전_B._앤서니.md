@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ B. ](https://ko.wikipedia.org/wiki/_B._).
+> This article is converted from Wikipedia: [수전 B. 앤서니](https://ko.wikipedia.org/wiki/수전_B._앤서니).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Elizabeth_Cady_Stanton_and_Susan_B._Anthony.jpg "wikilink") **수전 B. 앤서니**(Susan B. Anthony, [1820년](../Page/1820년.md "wikilink") [2월 15일](../Page/2월_15일.md "wikilink") - [1906년](../Page/1906년.md "wikilink") [3월 13일](../Page/3월_13일.md "wikilink"))는 [미국](../Page/미국.md "wikilink")의 여성 [참정권](https://ko.wikipedia.org/wiki/참정권 "wikilink")·[노예제도](https://ko.wikipedia.org/wiki/노예제도 "wikilink") 폐지 [운동가](https://ko.wikipedia.org/wiki/운동가 "wikilink")이다. 여성으로는 처음으로 미국 대통령 선거 투표를 하였고, 이로 인해 이후 100달러의 벌금을 물게 된다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [CAF](https://ko.wikipedia.org/wiki/CAF).
+> This article is converted from Wikipedia: [CAF컵](https://ko.wikipedia.org/wiki/CAF컵).
 
 
 **CAF컵**(CAF Cup)은 [아프리카 축구 연맹에서](../Page/아프리카_축구_연맹.md "wikilink") 주최한 국제 클럽 축구 대회이다. [아프리카 축구 연맹](../Page/아프리카_축구_연맹.md "wikilink") 회원국의 자국 리그 준우승 팀 중에서 [아프리칸 챔피언스 클럽컵이나](../Page/CAF_챔피언스리그.md "wikilink") [아프리칸 컵위너스컵에](../Page/아프리칸_컵위너스컵.md "wikilink") 참가하지 못하는 팀들이 참가했다.

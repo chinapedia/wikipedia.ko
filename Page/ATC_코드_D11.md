@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ATC  D11](https://ko.wikipedia.org/wiki/ATC__D11).
+> This article is converted from Wikipedia: [ATC 코드 D11](https://ko.wikipedia.org/wiki/ATC_코드_D11).
 
 
 **ATC 코드 D11**은 [ATC 코드의](https://ko.wikipedia.org/wiki/ATC_코드 "wikilink") 기타 피부과적 치료제로 작용하는 약물을 정리한 코드이다. \[1\] **ATC 코드** D 피부과의 하위그룹을 이룬다.

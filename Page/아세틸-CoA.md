@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [-CoA](https://ko.wikipedia.org/wiki/-CoA).
+> This article is converted from Wikipedia: [아세틸-CoA](https://ko.wikipedia.org/wiki/아세틸-CoA).
 
 
 **아세틸-CoA**() 또는 **아세틸 조효소 A**()는 [단백질](../Page/단백질.md "wikilink"), [탄수화물](../Page/탄수화물.md "wikilink") 및 [지질](https://ko.wikipedia.org/wiki/지질_\(생물학\) "wikilink") [대사](../Page/물질대사.md "wikilink") 등 많은 [생화학](https://ko.wikipedia.org/wiki/생화학 "wikilink") 반응에 참여하는 분자이다.\[1\] 아세틸-CoA의 주요 기능은 [아세틸기](https://ko.wikipedia.org/wiki/아세틸기 "wikilink")를 [시트르산 회로에](https://ko.wikipedia.org/wiki/시트르산_회로 "wikilink") 전달하여 에너지 생산을 위해 산화되도록 하는 것이다. [조효소 A](../Page/조효소_A.md "wikilink")(CoA-SH 또는 CoA)에서 [판토텐산](../Page/판토텐산.md "wikilink")의 [하이드록시기](https://ko.wikipedia.org/wiki/하이드록시기 "wikilink")는 3′-포스포아데노신 이인산과 인산에스터(인산에스테르) 결합을 하고 있으며, 판토텐산의 [카복실기](https://ko.wikipedia.org/wiki/카복실기 "wikilink")는 β-메르캅토에틸아민과 아마이드 결합을 하고 있다.\[2\] 아세틸-CoA의 아세틸기(오른쪽 구조식에서 파란색으로 표시)는 β-메르캅토에틸아민 부분의 -SH기와 싸이오에스터(싸이오에스테르) 결합을 형성한다. 이러한 싸이오에스터 결합은 특히 반응성이 강한 "고에너지" 결합이다. 싸이오에스터 결합의 [가수분해](https://ko.wikipedia.org/wiki/가수분해 "wikilink")는 발열 반응(−31.5 kJ/mol)이다.

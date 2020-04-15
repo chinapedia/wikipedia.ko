@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ B. ](https://ko.wikipedia.org/wiki/_B._).
+> This article is converted from Wikipedia: [존 B. 왓슨](https://ko.wikipedia.org/wiki/존_B._왓슨).
 
 
 [오른쪽](https://ko.wikipedia.org/wiki/파일:John_Broadus_Watson.JPG "wikilink") [250px](https://ko.wikipedia.org/wiki/파일:Little_Albert_experiment_\(1920\).webm "wikilink") **존 브로더스 왓슨**(John Broadus Watson, 1878년 1월 9일 \~ 1958년 9월 25일)은 미국의 심리학자로, [행동주의 심리학의](https://ko.wikipedia.org/wiki/행동주의_심리학 "wikilink") 창시자이다.

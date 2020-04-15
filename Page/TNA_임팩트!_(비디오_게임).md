@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TNA ! \( \)](https://ko.wikipedia.org/wiki/TNA_!_\(_\)).
+> This article is converted from Wikipedia: [TNA 임팩트! \(비디오 게임\)](https://ko.wikipedia.org/wiki/TNA_임팩트!_\(비디오_게임\)).
 
 
 **TNA 임팩트**(TNA Impact)는 Midway 게임사가 개발한 임팩트 시리즈의 첫 번째 작품이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FIBA ](https://ko.wikipedia.org/wiki/FIBA_).
+> This article is converted from Wikipedia: [FIBA 유로바스켓](https://ko.wikipedia.org/wiki/FIBA_유로바스켓).
 
 
 **유럽 농구 선수권 대회**(Eurobasket)은 [유럽](../Page/유럽.md "wikilink")의 국가대표 [농구](../Page/농구.md "wikilink") 대회이다.

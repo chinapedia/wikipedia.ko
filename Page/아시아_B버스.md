@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ B](https://ko.wikipedia.org/wiki/_B).
+> This article is converted from Wikipedia: [아시아 B버스](https://ko.wikipedia.org/wiki/아시아_B버스).
 
 
 **아시아 B버스**는 [아시아자동차](https://ko.wikipedia.org/wiki/아시아자동차 "wikilink")에서 생산했던 대형 고속[버스](../Page/버스.md "wikilink") 시리즈이다. [미쓰비시 후소의](https://ko.wikipedia.org/wiki/미쓰비시_후소 "wikilink") 고속버스 차종을 도입하여 면허 생산을 하였으며, 당시 대한민국 고속버스 시장에서 압도적인 점유율을 기록한 차종이었다.\[1\]

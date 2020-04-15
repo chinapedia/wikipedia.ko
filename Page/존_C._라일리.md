@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ C. ](https://ko.wikipedia.org/wiki/_C._).
+> This article is converted from Wikipedia: [존 C. 라일리](https://ko.wikipedia.org/wiki/존_C._라일리).
 
 
 **존 크리스토퍼 라일리**(John Christopher Reilly, [1965년](../Page/1965년.md "wikilink") [5월 24일](../Page/5월_24일.md "wikilink") \~ )는 [미국](../Page/미국.md "wikilink")의 [배우](../Page/배우.md "wikilink")이다.

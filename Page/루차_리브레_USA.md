@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  USA](https://ko.wikipedia.org/wiki/__USA).
+> This article is converted from Wikipedia: [루차 리브레 USA](https://ko.wikipedia.org/wiki/루차_리브레_USA).
 
 
 **루차 리브레 USA** (Lucha Libre USA)는 2010년 출범한 미국 신생 루차 리브레 단체이다.

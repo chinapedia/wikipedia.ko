@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [AC ](https://ko.wikipedia.org/wiki/AC_).
+> This article is converted from Wikipedia: [AC 체세나](https://ko.wikipedia.org/wiki/AC_체세나).
 
 
 **AC 체세나**(Associazione Calcio Cesena)는 [이탈리아](../Page/이탈리아.md "wikilink") [로마냐 주](https://ko.wikipedia.org/wiki/로마냐_주 "wikilink") [체세나](https://ko.wikipedia.org/wiki/체세나 "wikilink")를 연고로 했던 프로 축구팀이다.

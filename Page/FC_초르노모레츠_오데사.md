@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FC  ](https://ko.wikipedia.org/wiki/FC__).
+> This article is converted from Wikipedia: [FC 초르노모레츠 오데사](https://ko.wikipedia.org/wiki/FC_초르노모레츠_오데사).
 
 
 **FC 초르노모레츠 오데사**(, )는 [우크라이나](../Page/우크라이나.md "wikilink")의 축구 클럽으로, [오데사](../Page/오데사.md "wikilink")를 연고지로 한다. 2011-12 시즌에서 [우크라이나 프리미어리그에](../Page/우크라이나_프리미어리그.md "wikilink") 참가하고 있다.

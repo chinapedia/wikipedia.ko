@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [MLS  ](https://ko.wikipedia.org/wiki/MLS__).
+> This article is converted from Wikipedia: [MLS 서포터스 실드](https://ko.wikipedia.org/wiki/MLS_서포터스_실드).
 
 
 **MLS 서포터스 실드**(MLS Supporters' Shield)는 미국 [메이저 리그 사커](../Page/메이저_리그_사커.md "wikilink") MLS의 정규시즌 우승 팀에게 주어지는 상이다. 정규시즌 우승 팀에게 서포터스 실드가 주어지지만 그해 최종 우승 팀 [MLS컵](https://ko.wikipedia.org/wiki/MLS컵 "wikilink")을 통해 가려진다.

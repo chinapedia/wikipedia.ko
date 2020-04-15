@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Rising Sun \( \)](https://ko.wikipedia.org/wiki/Rising_Sun_\(_\)).
+> This article is converted from Wikipedia: [Rising Sun \(동방신기의 음반\)](https://ko.wikipedia.org/wiki/Rising_Sun_\(동방신기의_음반\)).
 
 
 《**Rising Sun**》(라이징 썬)은 [아카펠라](../Page/아카펠라.md "wikilink") 댄스 [그룹](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink") [동방신기](../Page/동방신기.md "wikilink")의 두 번째 정규 음반이다.

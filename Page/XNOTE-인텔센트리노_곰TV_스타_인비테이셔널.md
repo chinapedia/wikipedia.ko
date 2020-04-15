@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [XNOTE- TV  ](https://ko.wikipedia.org/wiki/XNOTE-_TV__).
+> This article is converted from Wikipedia: [XNOTE-인텔센트리노 곰TV 스타 인비테이셔널](https://ko.wikipedia.org/wiki/XNOTE-인텔센트리노_곰TV_스타_인비테이셔널).
 
 
 **XNOTE-인텔센트리노 곰TV 스타 인비테이셔널**(XNOTE-Intelcentrino GomTV Star Invitational)은 곰TV에서 처음 열린 스타크래프트 리그이다. **XNOTE**와 **인텔센트리노**의 후원으로 진행되었다.

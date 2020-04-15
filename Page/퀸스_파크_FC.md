@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  FC](https://ko.wikipedia.org/wiki/__FC).
+> This article is converted from Wikipedia: [퀸스 파크 FC](https://ko.wikipedia.org/wiki/퀸스_파크_FC).
 
 
 **퀸스 파크 FC**(Queen's Park Football Club, Queen's Park F.C.)는 [1867년](../Page/1867년.md "wikilink")에 창단된 [스코틀랜드](../Page/스코틀랜드.md "wikilink") [글래스고](../Page/글래스고.md "wikilink")의 축구 클럽으로, 현재 [스코틀랜드 풋볼 리그 3부에서](https://ko.wikipedia.org/wiki/스코틀랜드_풋볼_리그_3부 "wikilink") 활동하고 있다.+알렉스 퍼거슨이 감독으로 활동한적 있다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FC  ](https://ko.wikipedia.org/wiki/FC__).
+> This article is converted from Wikipedia: [FC 볼가 니즈니노브고로드](https://ko.wikipedia.org/wiki/FC_볼가_니즈니노브고로드).
 
 
 **FC 볼가 니즈니노브고로드**()는 [1963년](../Page/1963년.md "wikilink")에 창단된 [러시아](../Page/러시아.md "wikilink")의 [축구](../Page/축구.md "wikilink") 팀이다. 이 팀은 [니즈니노브고로드](../Page/니즈니노브고로드.md "wikilink")를 연고로 하고 있으며, 현재 [러시아 프리미어리그에서](../Page/러시아_프리미어리그.md "wikilink") 활동하고 있다.

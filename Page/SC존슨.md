@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SC](https://ko.wikipedia.org/wiki/SC).
+> This article is converted from Wikipedia: [SC존슨](https://ko.wikipedia.org/wiki/SC존슨).
 
 
 **S. C. 존슨 앤드 선 인코퍼레이션**()은 [미국](../Page/미국.md "wikilink")의 종합 생활용품 업체이다. 본사는 [위스콘신주](../Page/위스콘신주.md "wikilink") [라신에](https://ko.wikipedia.org/wiki/라신_\(위스콘신주\) "wikilink") 있다. 비슷한 이름의 [존슨앤드존슨](../Page/존슨앤드존슨.md "wikilink")과는 아무런 관계가 없는 회사이다.

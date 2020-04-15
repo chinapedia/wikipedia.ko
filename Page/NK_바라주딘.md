@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [NK ](https://ko.wikipedia.org/wiki/NK_).
+> This article is converted from Wikipedia: [NK 바라주딘](https://ko.wikipedia.org/wiki/NK_바라주딘).
 
 
 **NK 바라주딘**(NK Varaždin)은 [크로아티아](../Page/크로아티아.md "wikilink") [바라주딘](../Page/바라주딘.md "wikilink")을 연고로 하는 축구 클럽이다.

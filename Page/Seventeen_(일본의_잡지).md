@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Seventeen \( \)](https://ko.wikipedia.org/wiki/Seventeen_\(_\)).
+> This article is converted from Wikipedia: [Seventeen \(일본의 잡지\)](https://ko.wikipedia.org/wiki/Seventeen_\(일본의_잡지\)).
 
 
 **Seventeen**(세븐틴)은 [일본](../Page/일본.md "wikilink")의 [슈에이샤](../Page/슈에이샤.md "wikilink")가 매월 1일 발행하는 10대 여성 타깃의 [패션](../Page/패션.md "wikilink") [잡지](../Page/잡지.md "wikilink"), 정보지이다. 약칭은 **ST**.

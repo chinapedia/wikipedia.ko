@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [Bmi ](https://ko.wikipedia.org/wiki/Bmi_).
+> This article is converted from Wikipedia: [Bmi 리저널](https://ko.wikipedia.org/wiki/Bmi_리저널).
 
 
-**Bmi 리저널** ()는 [영국](../Page/영국.md "wikilink")의 지역 항공사로 총 42개 노선을 취항하고 있다. 본사는 [영국](../Page/영국.md "wikilink") [에버딘](https://ko.wikipedia.org/wiki/에버딘 "wikilink")에 위치해 있으며 [2001년](../Page/2001년.md "wikilink")에 설립했다. 또한 사용하고 있는 [허브 공항으로](../Page/허브_공항.md "wikilink") [애버딘 공항](https://ko.wikipedia.org/wiki/애버딘_공항 "wikilink"), [이스트 미들랜드 공항](https://ko.wikipedia.org/wiki/이스트_미들랜드_공항 "wikilink"), [에든버러 공항](https://ko.wikipedia.org/wiki/에든버러_공항 "wikilink"), [글래스고 인터내셔널 공항](https://ko.wikipedia.org/wiki/글래스고_인터내셔널_공항 "wikilink"), [맨체스터 공항](https://ko.wikipedia.org/wiki/맨체스터_공항 "wikilink"), [리즈 브래드포드 인터내셔널 공항이](https://ko.wikipedia.org/wiki/리즈_브래드포드_인터내셔널_공항 "wikilink") 있다.
+**Bmi 리저널**()는 [영국](../Page/영국.md "wikilink")의 지역 항공사로 총 42개 노선을 취항하고 있다. 본사는 [영국](../Page/영국.md "wikilink") [에버딘](https://ko.wikipedia.org/wiki/에버딘 "wikilink")에 위치해 있으며 [2001년](../Page/2001년.md "wikilink")에 설립했다. 또한 사용하고 있는 [허브 공항으로](../Page/허브_공항.md "wikilink") [애버딘 공항](https://ko.wikipedia.org/wiki/애버딘_공항 "wikilink"), [이스트 미들랜드 공항](https://ko.wikipedia.org/wiki/이스트_미들랜드_공항 "wikilink"), [에든버러 공항](https://ko.wikipedia.org/wiki/에든버러_공항 "wikilink"), [글래스고 인터내셔널 공항](https://ko.wikipedia.org/wiki/글래스고_인터내셔널_공항 "wikilink"), [맨체스터 공항](https://ko.wikipedia.org/wiki/맨체스터_공항 "wikilink"), [리즈 브래드포드 인터내셔널 공항이](https://ko.wikipedia.org/wiki/리즈_브래드포드_인터내셔널_공항 "wikilink") 있다.
 
 ## 보유 기종
 

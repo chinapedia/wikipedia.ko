@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Gadget-watchlistSince.js](https://ko.wikipedia.org/wiki/:Gadget-watchlistSince.js).
+> This article is converted from Wikipedia: [미디어위키:Gadget-watchlistSince.js](https://ko.wikipedia.org/wiki/미디어위키:Gadget-watchlistSince.js).
 
 
 /\* [:en:Wikipedia:WikiProject User scripts/Scripts/Watchlist since](https://ko.wikipedia.org/wiki/:en:Wikipedia:WikiProject_User_scripts/Scripts/Watchlist_since "wikilink") 주시 문서 목록에서 페이지가 로드된 이후의 변경 사항을 표시하는 링크를 삽입. IRTC1015 2010년 7월 19일 (월) 23:02 (KST)

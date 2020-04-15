@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [2014 FIFA     I](https://ko.wikipedia.org/wiki/2014_FIFA_____I).
+> This article is converted from Wikipedia: [2014년 FIFA 월드컵 유럽 지역 예선 I조](https://ko.wikipedia.org/wiki/2014년_FIFA_월드컵_유럽_지역_예선_I조).
 
 
 **[2014년 FIFA 월드컵 유럽 지역 예선](../Page/2014년_FIFA_월드컵_유럽_지역_예선.md "wikilink") I조**는 [2010년 FIFA 월드컵](https://ko.wikipedia.org/wiki/2010년_FIFA_월드컵 "wikilink") 우승국인 [스페인을](../Page/스페인_축구_국가대표팀.md "wikilink") 비롯하여 [프랑스](https://ko.wikipedia.org/wiki/프랑스_축구_국가대표팀 "wikilink"), [벨라루스](../Page/벨라루스_축구_국가대표팀.md "wikilink"), [조지아](../Page/조지아_축구_국가대표팀.md "wikilink"), [핀란드로](../Page/핀란드_축구_국가대표팀.md "wikilink") 구성되어 있다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ A.E.](https://ko.wikipedia.org/wiki/_A.E.).
+> This article is converted from Wikipedia: [타이탄 A.E.](https://ko.wikipedia.org/wiki/타이탄_A.E.).
 
 
 《**타이탄 A.E.**》()는 2000년 개봉한 미국의 애니메이션 영화이다.
@@ -26,7 +26,7 @@
 
 ## 평가
 
-비평가의 평가는 평이 갈려 [로튼토마토](https://ko.wikipedia.org/wiki/로튼토마토 "wikilink")에서는 99개의 리뷰에서 52%의 지지율을 얻었다.\[1\] [메타크리틱](https://ko.wikipedia.org/wiki/메타크리틱 "wikilink")에서는 48점을 받았다.\[2\]
+비평가의 평가는 평이 갈려 [로튼토마토](https://ko.wikipedia.org/wiki/로튼토마토 "wikilink")에서는 99개의 리뷰에서 52%의 지지율을 얻었다.\[1\] [메타크리틱](../Page/메타크리틱.md "wikilink")에서는 48점을 받았다.\[2\]
 
 ## 흥행
 

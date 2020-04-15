@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  the Original](https://ko.wikipedia.org/wiki/__the_Original).
+> This article is converted from Wikipedia: [쩐의 전쟁 the Original](https://ko.wikipedia.org/wiki/쩐의_전쟁_the_Original).
 
 
 《**쩐의 전쟁 the Original**》은 [tvN](https://ko.wikipedia.org/wiki/tvN "wikilink")의 12부작 [드라마](https://ko.wikipedia.org/wiki/드라마 "wikilink")이다. [2008년](../Page/2008년.md "wikilink") [3월 7일부터](../Page/3월_7일.md "wikilink") 2008년 5월 16일까지 매주 월\~목요일에 방영되었다. [박인권](../Page/박인권.md "wikilink")의 연재 만화 [쩐의 전쟁이](https://ko.wikipedia.org/wiki/쩐의_전쟁_\(만화\) "wikilink") 원작이다.

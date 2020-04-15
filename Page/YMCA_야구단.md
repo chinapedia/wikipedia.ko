@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [YMCA ](https://ko.wikipedia.org/wiki/YMCA_).
+> This article is converted from Wikipedia: [YMCA 야구단](https://ko.wikipedia.org/wiki/YMCA_야구단).
 
 
 《**YMCA 야구단**》()은 [2002년](../Page/2002년.md "wikilink") [대한민국](../Page/대한민국.md "wikilink")의 [코미디](https://ko.wikipedia.org/wiki/코미디_영화 "wikilink") [드라마](https://ko.wikipedia.org/wiki/드라마_영화 "wikilink") [스포츠](https://ko.wikipedia.org/wiki/스포츠_영화 "wikilink") 영화로, 감독 및 각본은 [김현석이](../Page/김현석_\(영화_감독\).md "wikilink") 맡았으며, [송강호](../Page/송강호.md "wikilink"), [김혜수](../Page/김혜수.md "wikilink"), [황정민](../Page/황정민_\(남자_배우\).md "wikilink"), [김주혁](../Page/김주혁.md "wikilink") 등이 출연했다. 1900년대 초 [대한제국](../Page/대한제국.md "wikilink")에서 [일제 강점기로](../Page/일제_강점기.md "wikilink") 흘러가던 한국 최초의 야구팀인 황성기독교청년회 야구단을 모티브로 한 영화이다.

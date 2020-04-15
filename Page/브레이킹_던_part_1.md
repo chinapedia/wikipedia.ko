@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  part 1](https://ko.wikipedia.org/wiki/__part_1).
+> This article is converted from Wikipedia: [브레이킹 던 part 1](https://ko.wikipedia.org/wiki/브레이킹_던_part_1).
 
 
 **브레이킹 던 part 1**(The Twilight Saga: Breaking Dawn)는 [스테프니 메이어의](../Page/스테프니_메이어.md "wikilink") 소설 [브레이킹 던을](https://ko.wikipedia.org/wiki/브레이킹_던 "wikilink") 바탕으로 만든 영화이다. 2011년 개봉되었다.

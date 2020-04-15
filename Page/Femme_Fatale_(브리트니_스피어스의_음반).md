@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Femme Fatale \(  \)](https://ko.wikipedia.org/wiki/Femme_Fatale_\(__\)).
+> This article is converted from Wikipedia: [Femme Fatale \(브리트니 스피어스의 음반\)](https://ko.wikipedia.org/wiki/Femme_Fatale_\(브리트니_스피어스의_음반\)).
 
 
 | 싱글 목록                                                                                     |

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SKE48  ](https://ko.wikipedia.org/wiki/SKE48__).
+> This article is converted from Wikipedia: [SKE48의 음반 목록](https://ko.wikipedia.org/wiki/SKE48의_음반_목록).
 
 
 다음은 [일본](../Page/일본.md "wikilink")의 아이돌 그룹 **[SKE48](../Page/SKE48.md "wikilink")의 음반 목록**이다.

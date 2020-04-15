@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [MBC](https://ko.wikipedia.org/wiki/MBC).
+> This article is converted from Wikipedia: [MBC경남](https://ko.wikipedia.org/wiki/MBC경남).
 
 
 **주식회사 MBC경남**(株式會社 MBC慶南)은 [경상남도](https://ko.wikipedia.org/wiki/경상남도 "wikilink")를 가시청권역으로 하는 대한민국의 지상파 TV·라디오 방송국이다. [2011년](../Page/2011년.md "wikilink") [9월 1일에](../Page/9월_1일.md "wikilink") [진주문화방송과](../Page/MBC경남_진주방송.md "wikilink") [창원문화방송이](../Page/MBC경남_창원방송.md "wikilink") 통합되어 MBC경남이라는 새로운 이름의 지상파방송사로 출범하였다.

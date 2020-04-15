@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [WWE ](https://ko.wikipedia.org/wiki/WWE_).
+> This article is converted from Wikipedia: [WWE 애프터번](https://ko.wikipedia.org/wiki/WWE_애프터번).
 
 
 **애프터번**(After Burn)은 [WWE](https://ko.wikipedia.org/wiki/WWE "wikilink") 스맥다운의 하이라이트 프로그램이다. 2002년 5월 24일 기존의 하이라이트 프로그램이었던 잭드를 대신하여 방영하고 있다. 미국에는 2005년 9월부터 TV에서 방영이 중단되었으나, 여전히 인터넷을 통해 방영이 되고 있다.

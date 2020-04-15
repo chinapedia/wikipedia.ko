@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ , OK\?](https://ko.wikipedia.org/wiki/_,_OK\?).
+> This article is converted from Wikipedia: [한번 더, OK\?](https://ko.wikipedia.org/wiki/한번_더,_OK\?).
 
 
 | 이 앨범에 수록된 싱글                                                             |

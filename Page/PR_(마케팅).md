@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [PR \(\)](https://ko.wikipedia.org/wiki/PR_\(\)).
+> This article is converted from Wikipedia: [PR \(마케팅\)](https://ko.wikipedia.org/wiki/PR_\(마케팅\)).
 
 
 **PR**(피알) 또는 **퍼블릭 릴레이션스**( )는 [정부](../Page/정부.md "wikilink"), [정당](../Page/정당.md "wikilink"), [기업](https://ko.wikipedia.org/wiki/기업 "wikilink"), [개인](../Page/개인.md "wikilink") 등의 [마케팅](../Page/마케팅.md "wikilink") 주체가 [대중](https://ko.wikipedia.org/wiki/대중 "wikilink")(공중)과의 호의적인 관계를 위해 하는 모든 활동을 지칭한다. 마케팅 주체가 [대중 매체를](../Page/대중_매체.md "wikilink") 이용하여 [마케팅](../Page/마케팅.md "wikilink") 활동을 하는 **홍보**(弘報)는 PR의 수단이다. 마케팅 주체는 현대 사회에서 가장 영향력 있는 정치 집단이자 소비 집단인 대중에게 호의를 얻기 위해 여러 가지 활동을 펼치는데, 기업이 직접적인 이익이 없어 보이는 자선 행사를 주최하거나 [비영리 단체에](../Page/비영리_단체.md "wikilink") 기부금을 납부하거나 또는 단체 [봉사 활동을](https://ko.wikipedia.org/wiki/자원봉사자 "wikilink") 실시하는 것도 모두 대중의 호의를 얻기 위한 행동이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ IF](https://ko.wikipedia.org/wiki/_IF).
+> This article is converted from Wikipedia: [유르고르덴 IF](https://ko.wikipedia.org/wiki/유르고르덴_IF).
 
 
 **유르고르덴 IF**(Djurgårdens IF Fotboll, Djurgårdens IF)는 흔히 **유르고르덴**(Djurgården)이라는 이름으로 알려져 있는 [스웨덴](../Page/스웨덴.md "wikilink") [스톡홀름](../Page/스톡홀름.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽으로, 현재 [알스벤스칸](../Page/알스벤스칸.md "wikilink")에서 활동하고 있다.

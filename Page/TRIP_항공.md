@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TRIP ](https://ko.wikipedia.org/wiki/TRIP_).
+> This article is converted from Wikipedia: [TRIP 항공](https://ko.wikipedia.org/wiki/TRIP_항공).
 
 
 **TRIP 항공**()은 [브라질](../Page/브라질.md "wikilink")의 지역 항공사로 총 88개 노선을 취항하고 있다. 본사는 [브라질](../Page/브라질.md "wikilink") [캄피나스](../Page/캄피나스.md "wikilink") 위치해 있으며 [1998년](../Page/1998년.md "wikilink")에 설립했다. 또한 사용하고 있는 [허브 공항으로](../Page/허브_공항.md "wikilink") [탕크레두 네비스 국제공항이](https://ko.wikipedia.org/wiki/탕크레두_네비스_국제공항 "wikilink") 있다.\[1\] [2012년](../Page/2012년.md "wikilink") [5월 28일](../Page/5월_28일.md "wikilink") [브라질](../Page/브라질.md "wikilink")의 [저가 항공사인](https://ko.wikipedia.org/wiki/저가_항공사 "wikilink") [아줄 브라질 항공과](../Page/아줄_브라질_항공.md "wikilink") 합병하는 방안이 검토를 했으며\[2\] [2014년](../Page/2014년.md "wikilink") [6월](../Page/6월.md "wikilink")에 [아줄 브라질 항공에](../Page/아줄_브라질_항공.md "wikilink") 합병이 되었다.\[3\]

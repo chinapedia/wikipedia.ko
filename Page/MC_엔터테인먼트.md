@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [MC ](https://ko.wikipedia.org/wiki/MC_).
+> This article is converted from Wikipedia: [MC 엔터테인먼트](https://ko.wikipedia.org/wiki/MC_엔터테인먼트).
 
 
 **`МС``   ``엔터테인먼트`**`(``, ``)는 `[`일본`](../Page/일본.md "wikilink")`, `[`미국`](../Page/미국.md "wikilink")`, `[`독일`](../Page/독일.md "wikilink")`, `[`영국`](../Page/영국.md "wikilink")`, `[`중국`](../Page/중국.md "wikilink")`, `[`타이`](https://ko.wikipedia.org/wiki/타이 "wikilink")`, `[`대한민국`](../Page/대한민국.md "wikilink")과` 다른나라`\[1\]` 의 비디오제품과 허가영화—를 러시아에 내고 있고 보급시키고 있는 회사-`[`디스트리뷰터`](https://ko.wikipedia.org/wiki/디스트리뷰터 "wikilink")`(дистрибьютор)이다. `[`2000년`](../Page/2000년.md "wikilink")에` 설립했다. `[`2007년`](../Page/2007년.md "wikilink")에` 러시아에서 가장 큰 `[`아니메`](https://ko.wikipedia.org/wiki/아니메 "wikilink")` 출판인이다`\[2\]`.`

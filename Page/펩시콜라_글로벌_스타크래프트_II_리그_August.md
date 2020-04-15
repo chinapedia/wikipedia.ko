@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [   II  August](https://ko.wikipedia.org/wiki/___II__August).
+> This article is converted from Wikipedia: [펩시콜라 글로벌 스타크래프트 II 리그 August](https://ko.wikipedia.org/wiki/펩시콜라_글로벌_스타크래프트_II_리그_August).
 
 
 **펩시콜라 글로벌 스타크래프트 II 리그 August**(Pepsi Global Star Craft II League August)는 글로벌 스타크래프트 II 리그 2011 GSL 투어의 11번째 대회로 2011년 8월 8일에 개막하였다.

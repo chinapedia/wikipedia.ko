@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [   FC](https://ko.wikipedia.org/wiki/___FC).
+> This article is converted from Wikipedia: [빅뱅 쭐라 유나이티드 FC](https://ko.wikipedia.org/wiki/빅뱅_쭐라_유나이티드_FC).
 
 
 **빅뱅 쭐라 유나이티드 FC**(, )는 [1934년](../Page/1934년.md "wikilink")에 창단된 [타이](https://ko.wikipedia.org/wiki/타이 "wikilink") [방콕](../Page/방콕.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다. 현재는 [타이 리그 2에](../Page/타이_리그_2.md "wikilink") 참가하고 있다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ FF](https://ko.wikipedia.org/wiki/_FF).
+> This article is converted from Wikipedia: [오트비다베리 FF](https://ko.wikipedia.org/wiki/오트비다베리_FF).
 
 
 **오트비다베리 FF**(Åtvidabergs FF)는 [1907년](../Page/1907년.md "wikilink") [7월 1일에](../Page/7월_1일.md "wikilink") 창단된 [스웨덴](../Page/스웨덴.md "wikilink") [오트비다베리](https://ko.wikipedia.org/wiki/오트비다베리 "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽으로, 현재 [수페레탄](https://ko.wikipedia.org/wiki/수페레탄 "wikilink")에서 활동하고 있다. 창단 당시의 이름은 **오트비다베리 IF**(Åtvidabergs IF)였지만 1935–36 시즌을 앞두고 클럽 이름을 현재의 이름으로 변경하여 오늘에 이르고 있다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [UAE ](https://ko.wikipedia.org/wiki/UAE_).
+> This article is converted from Wikipedia: [UAE 슈퍼컵](https://ko.wikipedia.org/wiki/UAE_슈퍼컵).
 
 
 <table>

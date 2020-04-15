@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [4 MBC ](https://ko.wikipedia.org/wiki/4_MBC_).
+> This article is converted from Wikipedia: [제4회 MBC 강변가요제](https://ko.wikipedia.org/wiki/제4회_MBC_강변가요제).
 
 
 **《제4회 MBC 강변가요제》**는 제4회 [MBC 강변가요제](../Page/MBC_강변가요제.md "wikilink") 출전곡이 수록된 음반이다.

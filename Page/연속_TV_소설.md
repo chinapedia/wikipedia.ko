@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [ TV ](https://ko.wikipedia.org/wiki/_TV_).
+> This article is converted from Wikipedia: [연속 TV 소설](https://ko.wikipedia.org/wiki/연속_TV_소설).
 
 
-**연속 TV 소설** ()은 [NHK가](../Page/일본방송협회.md "wikilink") [1961년](../Page/1961년.md "wikilink") 방송을 시작한 [텔레비전 드라마](../Page/텔레비전_드라마.md "wikilink") 시리즈이다. 매주 [월요일](../Page/월요일.md "wikilink")\~[토요일](../Page/토요일.md "wikilink")에 방송되는 연속극이며, 흔히 **아사도라** ()라고도 불린다.
+**연속 TV 소설**()은 [NHK가](../Page/일본방송협회.md "wikilink") [1961년](../Page/1961년.md "wikilink") 방송을 시작한 [텔레비전 드라마](../Page/텔레비전_드라마.md "wikilink") 시리즈이다. 매주 [월요일](../Page/월요일.md "wikilink")\~[토요일](../Page/토요일.md "wikilink")에 방송되는 연속극이며, 흔히 **아사도라**()라고도 불린다.
 
 ## 작품 목록
 

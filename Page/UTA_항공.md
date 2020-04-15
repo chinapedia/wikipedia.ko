@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [UTA ](https://ko.wikipedia.org/wiki/UTA_).
+> This article is converted from Wikipedia: [UTA 항공](https://ko.wikipedia.org/wiki/UTA_항공).
 
 
 **UTA 항공**()은 [1963년](../Page/1963년.md "wikilink")에 설립되어 [1992년](../Page/1992년.md "wikilink")에 [에어프랑스](https://ko.wikipedia.org/wiki/에어프랑스 "wikilink")에 합병된 [프랑스](../Page/프랑스.md "wikilink")의 항공사로 [허브 공항은](../Page/허브_공항.md "wikilink") [파리 샤를 드 골 공항으로](https://ko.wikipedia.org/wiki/파리_샤를_드_골_공항 "wikilink") [프랑스](../Page/프랑스.md "wikilink")에서 [에어프랑스](https://ko.wikipedia.org/wiki/에어프랑스 "wikilink") 다음으로 제2의 항공사로 알려져 있었다. 또한 [프랑스](../Page/프랑스.md "wikilink")의 대표적 국적기 중 하나로 알려졌다.

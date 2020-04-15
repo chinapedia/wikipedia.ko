@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [S.M. THE BALLAD](https://ko.wikipedia.org/wiki/S.M._THE_BALLAD).
 
 
-**S.M. THE BALLAD**는 [SM 엔터테인먼트](../Page/SM_엔터테인먼트.md "wikilink") 소속의 대한민국 발라드 프로젝트 그룹이다.
+**S.M. THE BALLAD**는 [SM 엔터테인먼트](../Page/SM_엔터테인먼트.md "wikilink") 소속의 [대한민국](../Page/대한민국.md "wikilink") [발라드](https://ko.wikipedia.org/wiki/발라드 "wikilink") 프로젝트 그룹이다.
 
 ## 활동
 
@@ -42,11 +42,11 @@
 <tr class="odd">
 <td><p><strong><em>SM The Ballad Vol. 1 – 너무 그리워 (Miss You)</em></strong></p>
 <ul>
-<li>발매일: <a href="../Page/2010년.md" title="wikilink">2010년</a> <a href="../Page/11월_29일.md" title="wikilink">11월 29일</a></li>
-<li>장르: <a href="../Page/대중음악.md" title="wikilink">가요</a>, <a href="https://ko.wikipedia.org/wiki/발라드" title="wikilink">발라드</a>, <a href="https://ko.wikipedia.org/wiki/R&amp;B" title="wikilink">R&amp;B</a></li>
-<li>레이블: <a href="../Page/SM_엔터테인먼트.md" title="wikilink">SM 엔터테인먼트</a></li>
-<li>판매량: 23,162+ (전체 판매량)</li>
-<li>최고순위:1위[8].</li>
+<li>발매일 : <a href="../Page/2010년.md" title="wikilink">2010년</a> <a href="../Page/11월_29일.md" title="wikilink">11월 29일</a></li>
+<li>장르 : <a href="../Page/대중음악.md" title="wikilink">가요</a>, <a href="https://ko.wikipedia.org/wiki/발라드" title="wikilink">발라드</a>, <a href="https://ko.wikipedia.org/wiki/R&amp;B" title="wikilink">R&amp;B</a></li>
+<li>레이블 : <a href="../Page/SM_엔터테인먼트.md" title="wikilink">SM 엔터테인먼트</a></li>
+<li>판매량 : 23,162+ (전체 판매량)</li>
+<li>최고순위 : 1위[8].</li>
 </ul></td>
 <td><ol>
 <li><strong><em>"너무 그리워 (Miss You)"</em></strong></li>
@@ -59,11 +59,11 @@
 <tr class="even">
 <td><p><strong><em>SM The Ballad Vol. 2 - Breath</em></strong></p>
 <ul>
-<li>발매일: <a href="../Page/2014년.md" title="wikilink">2014년</a> <a href="../Page/2월_13일.md" title="wikilink">2월 13일</a></li>
-<li>장르: <a href="../Page/대중음악.md" title="wikilink">가요</a>, <a href="https://ko.wikipedia.org/wiki/발라드" title="wikilink">발라드</a></li>
-<li>레이블: <a href="../Page/SM_엔터테인먼트.md" title="wikilink">SM 엔터테인먼트</a></li>
-<li>판매량: 40,316+( 발매 12일차)</li>
-<li>최고순위: -</li>
+<li>발매일 : <a href="../Page/2014년.md" title="wikilink">2014년</a> <a href="../Page/2월_13일.md" title="wikilink">2월 13일</a></li>
+<li>장르 : <a href="../Page/대중음악.md" title="wikilink">가요</a>, <a href="https://ko.wikipedia.org/wiki/발라드" title="wikilink">발라드</a></li>
+<li>레이블 : <a href="../Page/SM_엔터테인먼트.md" title="wikilink">SM 엔터테인먼트</a></li>
+<li>판매량 : 40,316+( 발매 12일차)</li>
+<li>최고순위 : -</li>
 </ul></td>
 <td><ol>
 <li>"Dear..."</li>

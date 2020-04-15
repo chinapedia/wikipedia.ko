@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:  FC  ](https://ko.wikipedia.org/wiki/:__FC__).
+> This article is converted from Wikipedia: [틀:울버햄프턴 원더러스 FC 선수 명단](https://ko.wikipedia.org/wiki/틀:울버햄프턴_원더러스_FC_선수_명단).
 
 
 <onlyinclude></onlyinclude>

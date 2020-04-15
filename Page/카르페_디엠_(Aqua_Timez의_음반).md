@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  \(Aqua Timez \)](https://ko.wikipedia.org/wiki/__\(Aqua_Timez_\)).
+> This article is converted from Wikipedia: [카르페 디엠 \(Aqua Timez의 음반\)](https://ko.wikipedia.org/wiki/카르페_디엠_\(Aqua_Timez의_음반\)).
 
 
 《**카르페 디엠**》()은 일본의 밴드 [Aqua Timez의](../Page/Aqua_Timez.md "wikilink") 네번 째 정규 음반이다. 세번 째 음반 《[노래하고 사라진 꽃](../Page/노래하고_사라진_꽃.md "wikilink")》 이후 약 2년만인 [2011년](../Page/2011년.md "wikilink") [2월 16일에](../Page/2월_16일.md "wikilink") 발매됐다.

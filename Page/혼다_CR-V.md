@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ CR-V](https://ko.wikipedia.org/wiki/_CR-V).
+> This article is converted from Wikipedia: [혼다 CR-V](https://ko.wikipedia.org/wiki/혼다_CR-V).
 
 
 **혼다 CR-V**(Honda CR-V)는 [일본](../Page/일본.md "wikilink")의 [혼다 기연 공업에서](https://ko.wikipedia.org/wiki/혼다_기연_공업 "wikilink") 제작한 준중형 [SUV이다](../Page/스포츠_유틸리티_자동차.md "wikilink").

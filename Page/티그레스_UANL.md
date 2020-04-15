@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ UANL](https://ko.wikipedia.org/wiki/_UANL).
+> This article is converted from Wikipedia: [티그레스 UANL](https://ko.wikipedia.org/wiki/티그레스_UANL).
 
 
 **티그레스 데 라 우니베르시다드 아우토노마 데 누에보레온**(), 약칭 **티그레스 데 라 우안**()은 [멕시코](../Page/멕시코.md "wikilink") [누에보레온주](https://ko.wikipedia.org/wiki/누에보레온주 "wikilink") [몬테레이](../Page/몬테레이.md "wikilink")의 축구 클럽으로, 간단히 줄여서 **티그레스**() 또는 **UANL**이라고 부르기도 한다.

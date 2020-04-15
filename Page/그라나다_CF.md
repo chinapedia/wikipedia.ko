@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ CF](https://ko.wikipedia.org/wiki/_CF).
+> This article is converted from Wikipedia: [그라나다 CF](https://ko.wikipedia.org/wiki/그라나다_CF).
 
 
 **그라나다 클루브 데 푸트볼**()은 [스페인](../Page/스페인.md "wikilink") [안달루시아 지방의](https://ko.wikipedia.org/wiki/안달루시아_지방 "wikilink") 도시인 [그라나다](https://ko.wikipedia.org/wiki/그라나다 "wikilink")를 연고로 하는 축구 클럽이다. 이 클럽은 [1931년](../Page/1931년.md "wikilink") [4월 14일에](../Page/4월_14일.md "wikilink") 창단되었으며 현재 [프리메라리가](https://ko.wikipedia.org/wiki/프리메라리가 "wikilink")에서 활동하고 있다.

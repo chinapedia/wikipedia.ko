@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Tab ](https://ko.wikipedia.org/wiki/Tab_).
+> This article is converted from Wikipedia: [Tab 키](https://ko.wikipedia.org/wiki/Tab_키).
 
 
 [섬네일의](https://ko.wikipedia.org/wiki/파일:Keyboard-left_keys.jpg "wikilink") Tab 키\]\] **Tab 키**(탭 키, tab key, tabulator key)는 다음 탭 정지까지 커서를 우선시키는 데 쓰이는 [컴퓨터 자판의](../Page/컴퓨터_자판.md "wikilink") 글쇠이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [USS  \(CV-3\)](https://ko.wikipedia.org/wiki/USS__\(CV-3\)).
+> This article is converted from Wikipedia: [USS 새러토가 \(CV-3\)](https://ko.wikipedia.org/wiki/USS_새러토가_\(CV-3\)).
 
 
 **USS 사라토가 (CV-3)**()는, 미 해군의 [항공모함](../Page/항공모함.md "wikilink")이다. [렉싱턴급 항공모함의](../Page/렉싱턴급_항공모함.md "wikilink") 2번째 함선이다. 미 해군에 대해 [사라토가](https://ko.wikipedia.org/wiki/사라토가 "wikilink")의 이름을 계승한 함으로서는 5번째에 해당한다. 애칭으로 "시스터 사라"로 불리기도 했다.

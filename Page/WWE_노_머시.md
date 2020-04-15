@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [WWE  ](https://ko.wikipedia.org/wiki/WWE__).
+> This article is converted from Wikipedia: [WWE 노 머시](https://ko.wikipedia.org/wiki/WWE_노_머시).
 
 
 **노 머시**(No Mercy)는 [WWE](https://ko.wikipedia.org/wiki/WWE "wikilink")가 주관하는 페이퍼뷰이다.

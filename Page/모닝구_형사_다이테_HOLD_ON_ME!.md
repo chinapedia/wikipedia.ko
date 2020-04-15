@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [   HOLD ON ME!](https://ko.wikipedia.org/wiki/___HOLD_ON_ME!).
+> This article is converted from Wikipedia: [모닝구 형사 다이테 HOLD ON ME!](https://ko.wikipedia.org/wiki/모닝구_형사_다이테_HOLD_ON_ME!).
 
 
 **모닝구 형사 다이테 HOLD ON ME\!**()는 [1998년](../Page/1998년.md "wikilink") [9월 30일에](../Page/9월_30일.md "wikilink") 발매 된 [동명 영화의](https://ko.wikipedia.org/wiki/모닝구_형사_다이테_HOLD_ON_ME!_\(영화\) "wikilink") 사운드 트랙 음반이다.

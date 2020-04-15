@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [HMS ](https://ko.wikipedia.org/wiki/HMS_).
+> This article is converted from Wikipedia: [HMS 인데버](https://ko.wikipedia.org/wiki/HMS_인데버).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:HMS_Endeavour_off_the_coast_of_New_Holland,_by_Samuel_Atkins_c.1794.jpg "wikilink") **영국 왕의 군함 인데버**(*HMS Endeavor*)는 18세기 [영국](../Page/영국.md "wikilink")의 소형 범선이다. [제임스 쿡](../Page/제임스_쿡.md "wikilink") 대위(후에 해군 대령)가 이 배를 타고 [남태평양](https://ko.wikipedia.org/wiki/남태평양 "wikilink")을 탐사 항해한 선박으로 유명하다. 두 번째, 세 번째 항해한 그 다음 배는 [HMS 레절루션](https://ko.wikipedia.org/wiki/HMS_레절루션 "wikilink")(*HMS Resolution*)이다.

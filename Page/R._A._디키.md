@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [R. A. ](https://ko.wikipedia.org/wiki/R._A._).
+> This article is converted from Wikipedia: [R. A. 디키](https://ko.wikipedia.org/wiki/R._A._디키).
 
 
 **로버트 앨런 디키**(, [1974년](../Page/1974년.md "wikilink") [10월 29일](../Page/10월_29일.md "wikilink") \~ )는 [미국](../Page/미국.md "wikilink")의 전 [메이저 리그](../Page/메이저_리그_베이스볼.md "wikilink") 야구 선수이다.
@@ -53,7 +53,7 @@
   - 내셔널리그 완봉 1위 : 2012년
   - [메이저 리그 올스타전](../Page/메이저_리그_베이스볼_올스타전.md "wikilink") 선출 1회 : 2012년
   - [내셔널 리그 사이 영 상](../Page/사이_영_상.md "wikilink") 1회 : 2012년
-  - [아메리칸 리그 골든글러브](https://ko.wikipedia.org/wiki/러울링_골드글러브 "wikilink") 1회 : 2013년
+  - [아메리칸 리그 골든글러브](../Page/러울링_골드글러브.md "wikilink") 1회 : 2013년
   - 브랜치 리키 상 1회 : 2012년
   - 선수가 뽑는 올해의 투수 1회 : 2012년
   - 필딩 바이블 어워드 1회 : 2013년

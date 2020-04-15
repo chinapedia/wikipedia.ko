@@ -21,7 +21,7 @@
 4.  **Best friend**\[4\]\[5\]
       -
         작사, 작곡 : 다마시로 지하루 / 편곡 : 나카노 사다히로
-5.  **[ピカピカウサギのマーチ](https://ko.wikipedia.org/wiki/스테키나니치요비~Gyu_Gyu_굿데이!~ "wikilink")** () / 앨범 버전
+5.  **[ピカピカウサギのマーチ](https://ko.wikipedia.org/wiki/스테키나니치요비~Gyu_Gyu_굿데이!~ "wikilink")**() / 앨범 버전
       -
         작사, 작곡, 편곡 : 가노 카오리
 6.  ****

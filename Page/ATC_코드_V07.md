@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ATC  V07](https://ko.wikipedia.org/wiki/ATC__V07).
+> This article is converted from Wikipedia: [ATC 코드 V07](https://ko.wikipedia.org/wiki/ATC_코드_V07).
 
 
 **ATC 코드 V07**은 [ATC 코드의](https://ko.wikipedia.org/wiki/ATC_코드 "wikilink") 모든 기타 비치료 제품으로 사용하는 것을 정리한 코드이다. \[1\] **ATC 코드** V 기타의 하위그룹을 이룬다.
@@ -21,11 +21,11 @@
 
 ### V07AR 민감성 시험 디스크 및 정제
 
-### V07AS 인공 항문 및 방광 장치
+### V07AS [인공항문](https://ko.wikipedia.org/wiki/인공항문 "wikilink") 및 [방광](https://ko.wikipedia.org/wiki/방광 "wikilink") 장치
 
 ### V07AT [화장품](../Page/화장품.md "wikilink")
 
-### V07AV 기술적 살균제
+### V07AV 기술적 [살균제](https://ko.wikipedia.org/wiki/살균제 "wikilink")
 
 ### V07AX 세척제 및 기타
 

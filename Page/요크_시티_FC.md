@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  FC](https://ko.wikipedia.org/wiki/__FC).
+> This article is converted from Wikipedia: [요크 시티 FC](https://ko.wikipedia.org/wiki/요크_시티_FC).
 
 
 **요크 시티 FC**(York City F.C.)는 [잉글랜드](../Page/잉글랜드.md "wikilink")의 축구 클럽으로, [노스요크셔주](../Page/노스요크셔주.md "wikilink")의 [요크](../Page/요크.md "wikilink")를 연고지로 한다. 2016-17 시즌에서 [내셔널리그에](../Page/내셔널리그_\(디비전\).md "wikilink") 참가하고 있다.

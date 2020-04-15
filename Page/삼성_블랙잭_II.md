@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  II](https://ko.wikipedia.org/wiki/__II).
+> This article is converted from Wikipedia: [삼성 블랙잭 II](https://ko.wikipedia.org/wiki/삼성_블랙잭_II).
 
 
 **삼성 블랙잭 II**(, )은 [삼성전자](https://ko.wikipedia.org/wiki/삼성전자 "wikilink")가 [2008년](../Page/2008년.md "wikilink")에 출시한 [스마트폰](../Page/스마트폰.md "wikilink")이다.\[1\]

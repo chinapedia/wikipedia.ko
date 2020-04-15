@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [G-men \(\)](https://ko.wikipedia.org/wiki/G-men_\(\)).
+> This article is converted from Wikipedia: [G-men \(잡지\)](https://ko.wikipedia.org/wiki/G-men_\(잡지\)).
 
 
 ***G-men*** (ジーメン, 지멘)은 [후루카와 서점에서](https://ko.wikipedia.org/wiki/후루카와_서점 "wikilink") 발매하는 [일본](../Page/일본.md "wikilink")의 월간 [게이](https://ko.wikipedia.org/wiki/게이 "wikilink") 잡지이다. 일본에서만 발매하며, 가격은 1800엔이다. 일본의 게이 잡지는 많은 게이 문화와 마찬가지로 '타입'으로 분류되어 있는데,\[1\] (근육, 노인, 특정 직업 등) *G-men*은 1980년대 인기를 끌었던 날씬한 [야오이](../Page/야오이.md "wikilink") 영향의 스타일에 반대되는 "마초 판타지"를 선호하는 게이 남성들을 위해 1994년 창간한 잡지로, "마초 타입" (근육, 베어 남성)과 가텐케이 (ガテン系, [블루 칼라](https://ko.wikipedia.org/wiki/블루_칼라 "wikilink") 노동자)를 중점으로 다룬 것이 특징이다.\[2\]

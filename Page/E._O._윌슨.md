@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [E. O. ](https://ko.wikipedia.org/wiki/E._O._).
+> This article is converted from Wikipedia: [E. O. 윌슨](https://ko.wikipedia.org/wiki/E._O._윌슨).
 
 
 **에드워드 오즈번 윌슨**(Edward Osborne Wilson, 1929년 6월 10일 \~ )은 [미국](../Page/미국.md "wikilink")의 [생물학자](https://ko.wikipedia.org/wiki/생물학자 "wikilink")이다. 하바드대학 생물학자로 개미 연구가 그의 연구 출발점이다. 그는 이후 생물학으로 사회성동물의 사회현상을 설명할 수 있다며 '사회생물학'을 주장했다. 1975년에 낸 책 '사회생물학'이 그 주장을 담고 있다. 사회생물학 주장을 인간에 적용한 게 그의 1978년 책 '인간본성에 대하여'이다. 그의 '사회생물학'은 학계에 유례없는 논란을 불러왔다. 그의 생각은 학문들이 옆 학문에 쌓은 담을 헐고 같이 연구를 해야하며, 생물학이 그 중심에 설 수 있다는 '통섭'으로 확대됐다. 1998년에 낸 책 '통섭'이 그 응고물이다.

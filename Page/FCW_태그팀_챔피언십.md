@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FCW  ](https://ko.wikipedia.org/wiki/FCW__).
+> This article is converted from Wikipedia: [FCW 태그팀 챔피언십](https://ko.wikipedia.org/wiki/FCW_태그팀_챔피언십).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Joe_Hennig.jpg "wikilink") **FCW 태그팀 챔피언십**(FCW Florida Tag Team Championship)은 [FCW](https://ko.wikipedia.org/wiki/FCW "wikilink")의 챔피언십중 하나이며 태그팀 챔피언십이다.

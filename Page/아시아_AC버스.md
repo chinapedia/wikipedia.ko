@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ AC](https://ko.wikipedia.org/wiki/_AC).
+> This article is converted from Wikipedia: [아시아 AC버스](https://ko.wikipedia.org/wiki/아시아_AC버스).
 
 
 **아시아 AC/AV버스**는 [아시아자동차](https://ko.wikipedia.org/wiki/아시아자동차 "wikilink")의 [승합차](https://ko.wikipedia.org/wiki/승합차 "wikilink")와 밴형 화물차다. 1.4톤 [기아 타이탄의](../Page/기아_타이탄.md "wikilink") 새시와 엔진을 이용해서 [1978년](../Page/1978년.md "wikilink")부터 [1987년](../Page/1987년.md "wikilink")까지 생산되었다. 후속 차종은 [아시아 토픽이고](../Page/아시아_토픽.md "wikilink"), 주요 경쟁 차종은 [기아 봉고](../Page/기아_봉고.md "wikilink"), [현대 HD 1000](../Page/현대_HD_1000.md "wikilink"), [현대 그레이스이다](../Page/현대_그레이스.md "wikilink"). AC시리즈는 코치이고, AV시리즈는 밴이다. AC(AV)081은 2700cc급 81마력 XB 엔진을 탑재 했으나, 페이스 리프트 후속 모델인 AC(AV)076은 연비 향상을 이유로 2500cc급 76마력 XA 엔진으로 다운그레이드 되었다. 차명에서 뒤의 두자리 숫자는 엔진 출력을 나타낸다.

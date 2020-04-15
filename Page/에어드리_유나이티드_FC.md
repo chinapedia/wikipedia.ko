@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  FC](https://ko.wikipedia.org/wiki/__FC).
+> This article is converted from Wikipedia: [에어드리 유나이티드 FC](https://ko.wikipedia.org/wiki/에어드리_유나이티드_FC).
 
 
 **에어드리 유나이티드 FC**(Airdrie United Football Club, Airdrie United F.C.)는 [2002년](../Page/2002년.md "wikilink")에 창단된 [스코틀랜드](../Page/스코틀랜드.md "wikilink") [에어드리의](../Page/에어드리_\(노스래너크셔\).md "wikilink") 축구 클럽으로, 현재 [스코틀랜드 풋볼 리그 2부에서](https://ko.wikipedia.org/wiki/스코틀랜드_풋볼_리그_2부 "wikilink") 활동하고 있다.

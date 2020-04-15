@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Mink \(\)](https://ko.wikipedia.org/wiki/Mink_\(\)).
+> This article is converted from Wikipedia: [Mink \(가수\)](https://ko.wikipedia.org/wiki/Mink_\(가수\)).
 
 
 **mink**(본명: **이밍크**\[1\]\[2\], 1984년 2월 15일 \~ , [인천광역시](https://ko.wikipedia.org/wiki/인천광역시 "wikilink") 청학동 출생\[3\]\[4\])는 [일본](../Page/일본.md "wikilink")에서 활동중인 [대한민국](../Page/대한민국.md "wikilink") 국적의 가수이다.\[5\]\[6\] 그의 싱글 《글로리 오브 라이프》(Glory Of Life)는 미국 핫댄스클럽플레이 차트에서 1위를 차지하였다.\[7\]\[8\]\[9\]

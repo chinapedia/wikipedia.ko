@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ CF](https://ko.wikipedia.org/wiki/_CF).
+> This article is converted from Wikipedia: [코르도바 CF](https://ko.wikipedia.org/wiki/코르도바_CF).
 
 
 **코르도바 CF**(Córdoba Club de Fútbol, S.A.D.)는 [스페인](../Page/스페인.md "wikilink") [안달루시아 지방의](https://ko.wikipedia.org/wiki/안달루시아_지방 "wikilink") 도시인 [코르도바를](../Page/코르도바_\(스페인\).md "wikilink") 연고로 하는 [축구](../Page/축구.md "wikilink") 클럽이다. [1954년](../Page/1954년.md "wikilink")에 창단되었으며 현재 [프리메라 디비시온에서](../Page/프리메라_디비시온.md "wikilink") 활동하고 있다. 현재 감독은 [알베르트 페레르이다](https://ko.wikipedia.org/wiki/알베르트_페레르 "wikilink"). 홈 경기장으로 [에스타디오 누에보 아르캉헬을](https://ko.wikipedia.org/wiki/에스타디오_누에보_아르캉헬 "wikilink") 사용하고 있다.

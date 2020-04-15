@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [MC ](https://ko.wikipedia.org/wiki/MC_).
+> This article is converted from Wikipedia: [MC 야성](https://ko.wikipedia.org/wiki/MC_야성).
 
 
 **MC 야성**(**MC Ya Sung**, **최야성**, [1969년](../Page/1969년.md "wikilink") [10월 12일](../Page/10월_12일.md "wikilink") \~ 현재)은 [대한민국](../Page/대한민국.md "wikilink")의 영화 감독 겸 힙합 [래퍼](https://ko.wikipedia.org/wiki/래퍼 "wikilink")이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Kanonkanon](https://ko.wikipedia.org/wiki/Kanonkanon).
+> This article is converted from Wikipedia: [Kanon×kanon](https://ko.wikipedia.org/wiki/Kanon×kanon).
 
 
 **kanon×kanon(카논x카논)**은 일본의 비주얼계 음악유닛이다.

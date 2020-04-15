@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [GIRLS\' GENERATION II Girls \& Peace](https://ko.wikipedia.org/wiki/GIRLS\'_GENERATION_II_Girls_\&_Peace).
+> This article is converted from Wikipedia: [GIRLS\' GENERATION II 〜Girls \& Peace〜](https://ko.wikipedia.org/wiki/GIRLS\'_GENERATION_II_〜Girls_\&_Peace〜).
 
 
 《**GIRLS' GENERATION II 〜Girls & Peace〜**》는 대한민국의 음악 그룹 [소녀시대](../Page/소녀시대.md "wikilink")의 두 번째 일본 정규 앨범이다. 2012년 11월 28일 [나유타웨이브 레코드를](https://ko.wikipedia.org/wiki/나유타웨이브_레코드 "wikilink") 통하여 발매되었다. 대한민국에서의 세 번째 정규 음반 《[The Boys](../Page/The_Boys_\(소녀시대의_음반\).md "wikilink")》 (2011년) 이후 멤버들의 솔로 활동을 위해 반휴지기에 들어간 이후 처음 발매된 모든 멤버가 참여한 음반이다. 이 휴지기에는 그룹의 파생유닛인 [태티서](https://ko.wikipedia.org/wiki/태티서 "wikilink")가 결성되기도 하였다.

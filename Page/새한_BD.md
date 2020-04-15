@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ BD](https://ko.wikipedia.org/wiki/_BD).
+> This article is converted from Wikipedia: [새한 BD](https://ko.wikipedia.org/wiki/새한_BD).
 
 
 **새한 BD**는 [새한자동차(한국GM의 전신)의](https://ko.wikipedia.org/wiki/한국GM "wikilink") 프론트 전방엔진 [버스](../Page/버스.md "wikilink")다. [1973년](../Page/1973년.md "wikilink") [6월](../Page/6월.md "wikilink")에 출시되어서 [1977년](../Page/1977년.md "wikilink")에 후속 차종인 [BF101의](../Page/대우_BF.md "wikilink") 출시로 단종되었다.

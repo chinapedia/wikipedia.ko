@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ L](https://ko.wikipedia.org/wiki/_L).
+> This article is converted from Wikipedia: [시카고 L](https://ko.wikipedia.org/wiki/시카고_L).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Chicago-Loop-SEcorner.jpg "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:JacksonStation_RedLine_CTA.jpg "wikilink") **시카고 "L"**은 [미국](../Page/미국.md "wikilink") [일리노이주](../Page/일리노이주.md "wikilink") [시카고](../Page/시카고.md "wikilink") 및 주변 지역에서 운행되는 [도시 철도](https://ko.wikipedia.org/wiki/도시_철도 "wikilink") 체계이다. 현재 'L'이라는 이름으로 통칭되는데, 이는 [고가철도](https://ko.wikipedia.org/wiki/고가철도 "wikilink")를 뜻하는 elevated에서 나온 말이다.\[1\] 한편 시카고 중심부를 [루프](https://ko.wikipedia.org/wiki/시카고_루프 "wikilink")(Loop)라 부르기 때문에, L을 루프의 약자에서 유래한 것으로 보기도 한다. [시카고 교통국](https://ko.wikipedia.org/wiki/시카고_교통국 "wikilink")(Chicago Transit Authority, CTA)에서 운영을 맡고 있다.

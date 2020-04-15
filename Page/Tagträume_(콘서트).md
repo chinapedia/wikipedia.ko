@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Tagtrume \(\)](https://ko.wikipedia.org/wiki/Tagtrume_\(\)).
+> This article is converted from Wikipedia: [Tagträume \(콘서트\)](https://ko.wikipedia.org/wiki/Tagträume_\(콘서트\)).
 
 
 **Tagträume 콘서트**는 [국카스텐](../Page/국카스텐.md "wikilink")의 EP《[Tagträume](../Page/Tagträume.md "wikilink")》발매기념 콘서트이다. 2011년 1월 22일을 시작으로 서울, 인천, 부산, 대구등 총4회의 공연을 가졌다. 부산 공연에서는 핑거스타일 기타리스트 김종걸이 오프닝공연으로 참여하였다.

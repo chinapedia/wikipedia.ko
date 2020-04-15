@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Triangle \(SMAP \)](https://ko.wikipedia.org/wiki/Triangle_\(SMAP_\)).
+> This article is converted from Wikipedia: [Triangle \(SMAP의 노래\)](https://ko.wikipedia.org/wiki/Triangle_\(SMAP의_노래\)).
 
 
 **Triangle**()는 [SMAP](../Page/SMAP.md "wikilink")의 38번째 싱글이다. [2005년](../Page/2005년.md "wikilink") [11월 23일에](../Page/11월_23일.md "wikilink") [빅터 엔터테인먼트에서](https://ko.wikipedia.org/wiki/빅터_엔터테인먼트 "wikilink") 발매되었다.

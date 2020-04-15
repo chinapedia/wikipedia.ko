@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  Bb](https://ko.wikipedia.org/wiki/__Bb).
+> This article is converted from Wikipedia: [센타우루스자리 알파 Bb](https://ko.wikipedia.org/wiki/센타우루스자리_알파_Bb).
 
 
 **센타우루스자리 알파 Bb**(Alpha Centauri Bb)는 [K형 주계열성](../Page/K형_주계열성.md "wikilink") [센타우루스자리 알파 B](https://ko.wikipedia.org/wiki/센타우루스자리_알파_B "wikilink") 주위를 도는 [외계 행성으로](../Page/외계_행성.md "wikilink"), 지구로부터 [센타우루스자리](../Page/센타우루스자리.md "wikilink") 방향으로 약 4.37[광년](../Page/광년.md "wikilink") 떨어진 곳에 있다.\[1\] 센타우루스자리 알파 Bb는 [태양](../Page/태양.md "wikilink")과 비슷한 [주계열성](https://ko.wikipedia.org/wiki/주계열성 "wikilink")을 도는 외계행성 중 가장 지구와 질량이 흡사하며, 지구에서 가장 가까이 있었으나 2016년 발견된 [프록시마 b의](../Page/센타우루스자리_프록시마_b.md "wikilink") 발견으로 밀려났다.\[2\]

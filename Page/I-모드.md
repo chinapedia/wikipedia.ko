@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [I-](https://ko.wikipedia.org/wiki/I-).
+> This article is converted from Wikipedia: [I-모드](https://ko.wikipedia.org/wiki/I-모드).
 
 
 **i-모드**(i-mode)는 [NTT 도코모가](../Page/NTT_도코모.md "wikilink") 제공하는 전용 휴대 전화를 사용하여 전자 메일의 송수신이나 인터넷에 포함된 웹 페이지 열람 등을 할 수 있는 서비스이다. 일본에서는 휴대 전화 서비스로 선구적인 것으로, 이 서비스를 시작한 후 다른 회사도 비슷한 것을 제공하기 시작했다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SNL   ](https://ko.wikipedia.org/wiki/SNL___).
+> This article is converted from Wikipedia: [SNL 코리아의 에피소드 목록](https://ko.wikipedia.org/wiki/SNL_코리아의_에피소드_목록).
 
 
 다음은 [tvN](https://ko.wikipedia.org/wiki/tvN "wikilink")의 코미디 텔레비전 프로그램 《**[SNL 코리아](../Page/SNL_코리아.md "wikilink")**》의 에피소드를 나열한 목록이다.

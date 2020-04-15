@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Over Drive \(  \)](https://ko.wikipedia.org/wiki/Over_Drive_\(__\)).
+> This article is converted from Wikipedia: [Over Drive \(가넷 크로우의 노래\)](https://ko.wikipedia.org/wiki/Over_Drive_\(가넷_크로우의_노래\)).
 
 
 〈**Over Drive**〉(오버 드라이브, 는 [가넷 크로우의](https://ko.wikipedia.org/wiki/가넷_크로우 "wikilink") 31번째 싱글이다. [2010년](../Page/2010년.md "wikilink") [4월 14일](../Page/4월_14일.md "wikilink") [기자 스튜디오에서](https://ko.wikipedia.org/wiki/기자_스튜디오 "wikilink") 발매되었다.
@@ -16,7 +16,7 @@
 <!-- end list -->
 
 1.  **Over Drive**
-2.  **라-라-라 그리고 1.2.3.** ()
+2.  **라-라-라 그리고 1.2.3.**()
 3.  **Over Drive (instrumental)**
 
 <!-- end list -->

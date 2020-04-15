@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [RT-2PM ](https://ko.wikipedia.org/wiki/RT-2PM_).
+> This article is converted from Wikipedia: [RT-2PM 토폴](https://ko.wikipedia.org/wiki/RT-2PM_토폴).
 
 
 **RT-2PM 토폴**(RT-2PM Topol)은 [소련](../Page/소련.md "wikilink")과 [러시아](../Page/러시아.md "wikilink")의 3단 고체 추진 [대륙간 탄도 미사일이다](https://ko.wikipedia.org/wiki/대륙간_탄도_미사일 "wikilink").

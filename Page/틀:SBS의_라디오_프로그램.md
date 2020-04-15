@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:SBS  ](https://ko.wikipedia.org/wiki/:SBS__).
+> This article is converted from Wikipedia: [틀:SBS의 라디오 프로그램](https://ko.wikipedia.org/wiki/틀:SBS의_라디오_프로그램).
 
 
 <onlyinclude></onlyinclude>

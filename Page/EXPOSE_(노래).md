@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [EXPOSE \(\)](https://ko.wikipedia.org/wiki/EXPOSE_\(\)).
+> This article is converted from Wikipedia: [EXPOSE \(노래\)](https://ko.wikipedia.org/wiki/EXPOSE_\(노래\)).
 
 
 〈**EXPOSE**〉는, [KAT-TUN](../Page/KAT-TUN.md "wikilink")의 20번째 [싱글이다](../Page/싱글_\(음악\).md "wikilink").

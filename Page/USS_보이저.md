@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [USS ](https://ko.wikipedia.org/wiki/USS_).
+> This article is converted from Wikipedia: [USS 보이저](https://ko.wikipedia.org/wiki/USS_보이저).
 
 
 **USS 보이저 (NCC-74656)**는 미국의 SF TV 드라마 [스타 트렉 보이저](https://ko.wikipedia.org/wiki/스타_트렉_보이저 "wikilink") 시리즈에 나오는 주된 배경의 우주선이다.

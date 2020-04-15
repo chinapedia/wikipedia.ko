@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:4TeamBracket-Consolation](https://ko.wikipedia.org/wiki/:4TeamBracket-Consolation).
+> This article is converted from Wikipedia: [틀:4TeamBracket-Consolation](https://ko.wikipedia.org/wiki/틀:4TeamBracket-Consolation).
 
 
 |  |  |  |  |  |  |  |  |  |  |  |  |

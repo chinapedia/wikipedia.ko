@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [GIRLS GENERATION TOUR](https://ko.wikipedia.org/wiki/GIRLS_GENERATION_TOUR).
+> This article is converted from Wikipedia: [GIRLS’ GENERATION TOUR](https://ko.wikipedia.org/wiki/GIRLS’_GENERATION_TOUR).
 
 
 **GIRLS' GENERATION TOUR**는 대한민국의 음악 그룹 [소녀시대](../Page/소녀시대.md "wikilink")의 두 번째 아시아 [콘서트 투어이다](https://ko.wikipedia.org/wiki/콘서트_투어 "wikilink"). 이번 투어는 이번 투어의 일환으로 일본에서 열렸던 [The 1st Japan Arena Tour와](../Page/The_1st_Japan_Arena_Tour.md "wikilink") 비슷한 구성으로 공연을 펼쳤으며, 와이드 스크린, 와이어 등의 화려한 무대 장치를 구성했다. 소녀시대는 이 투어에서 총 7벌의 의상을 갈아입었다.투어는 2011년 7월 23일 대한민국 서울에서 시작해 이후 대만, 싱가포르, 홍콩을 방문했고, 2012년 2월 12일 태국을 마지막으로 투어를 마쳤다.

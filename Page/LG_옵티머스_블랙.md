@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [LG  ](https://ko.wikipedia.org/wiki/LG__).
+> This article is converted from Wikipedia: [LG 옵티머스 블랙](https://ko.wikipedia.org/wiki/LG_옵티머스_블랙).
 
 
 **LG 옵티머스 블랙**(, LG P970)은 [LG전자](../Page/LG전자.md "wikilink")가 [2011년 3월에](../Page/2011년_3월.md "wikilink") 출시한 [안드로이드](../Page/안드로이드_\(운영_체제\).md "wikilink") [스마트폰](../Page/스마트폰.md "wikilink")이다.\[1\]

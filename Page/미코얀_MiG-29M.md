@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ MiG-29M](https://ko.wikipedia.org/wiki/_MiG-29M).
+> This article is converted from Wikipedia: [미코얀 MiG-29M](https://ko.wikipedia.org/wiki/미코얀_MiG-29M).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Cokpit.MiG-29M.jpg "wikilink") **미코얀 MiG-29M** (나토명 "**Fulcrum-E**")는 러시아의 전투기이다. 처음에는 "[MiG-33](https://ko.wikipedia.org/wiki/미코얀_MiG-33 "wikilink")"이라고 불렸다. [NATO](https://ko.wikipedia.org/wiki/NATO "wikilink")에서 풀크럼(Fulcrum)으로 불리는 [미코얀 MiG-29를](../Page/미코얀_MiG-29.md "wikilink") 기계식 조종석에서 디지털 조종석으로 개조하고 엔진 출력을 9% 높였다. 종종 *슈퍼 풀크럼*이라고 부른다. 풀크럼은 미국의 F-16 팰컨과 동급인 최대이륙중량 20톤급의 다목적 전투기이다. 팰컨이 단발 엔진인데 비해 풀크럼은 쌍발 엔진인 점이 다르다. 러시아는 [미코얀 MiG-35를](../Page/미코얀_MiG-35.md "wikilink") 2018년 실전배치할 계획이며, 2016년 현재는 미그-29M이 최신형이다.

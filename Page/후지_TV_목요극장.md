@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ TV ](https://ko.wikipedia.org/wiki/_TV_).
+> This article is converted from Wikipedia: [후지 TV 목요극장](https://ko.wikipedia.org/wiki/후지_TV_목요극장).
 
 
 《**목요극장**》()은 [후지 TV가](../Page/후지_TV.md "wikilink") 제작 및 저작권을 소유하고 [매주 목요일 (22:00 - 22:54)에서](../Page/후지_TV_목요극장.md "wikilink") 방송되는 [텔레비전 드라마](../Page/텔레비전_드라마.md "wikilink") 범위의 호칭이다. 통칭 **모쿠쥬()**라고도 불린다.
@@ -19,33 +19,35 @@
 
 ## 역대 평균 시청률 순위 10
 
-| 순위 | 작품명                                                               | 방송년도  | 시청률   |
-| -- | ----------------------------------------------------------------- | ----- | ----- |
-| 1  | [잠자는 숲](https://ko.wikipedia.org/wiki/잠자는_숲 "wikilink")           | 1998년 | 25.2% |
-| 2  | [사랑이라는 이름으로](../Page/사랑이라는_이름으로.md "wikilink")                    | 1992년 | 24.7% |
-| 3  | [하얀 거탑](https://ko.wikipedia.org/wiki/하얀_거탑_\(2003년\) "wikilink") | 2003년 | 23.9% |
-| 4  | [Dr.코토 진료소 2006](../Page/Dr.코토_진료소.md "wikilink")                 | 2006년 | 22.4% |
-| 5  | [29세의 크리스마스](../Page/29세의_크리스마스.md "wikilink")                    | 1994년 | 22.2% |
-| 6  | [전차남](../Page/전차남.md "wikilink")                                  | 2005년 | 21.2% |
-| 7  | [비눗방울](https://ko.wikipedia.org/wiki/비눗방울_\(드라마\) "wikilink")     | 1991년 | 21.1% |
-| 8  | [링](https://ko.wikipedia.org/wiki/링 "wikilink")\~최종장\~            | 1999년 | 19.9% |
-| 8  | [나미키가 사람들](https://ko.wikipedia.org/wiki/나미키가_사람들 "wikilink")     | 1993년 | 19.9% |
-| 10 | [멋진걸까 인생](https://ko.wikipedia.org/wiki/멋진걸까_인생 "wikilink")       | 1993년 | 19.7% |
+| 순위 | 작품명                                                                      | 방송년도  | 시청률   |
+| -- | ------------------------------------------------------------------------ | ----- | ----- |
+| 1  | [잠자는 숲](https://ko.wikipedia.org/wiki/:zh:沉睡的森林 "wikilink")              | 1998년 | 25.2% |
+| 2  | [사랑이라는 이름으로](../Page/사랑이라는_이름으로.md "wikilink")                           | 1992년 | 24.7% |
+| 3  | [하얀 거탑](https://ko.wikipedia.org/wiki/하얀_거탑_\(2003년\) "wikilink")        | 2003년 | 23.9% |
+| 4  | [Dr.코토 진료소 2006](../Page/Dr.코토_진료소.md "wikilink")                        | 2006년 | 22.4% |
+| 5  | [29세의 크리스마스](../Page/29세의_크리스마스.md "wikilink")                           | 1994년 | 22.2% |
+| 6  | [전차남](../Page/전차남.md "wikilink")                                         | 2005년 | 21.2% |
+| 7  | [비눗방울](https://ko.wikipedia.org/wiki/:ja:しゃぼん玉_\(テレビドラマ\) "wikilink")    | 1991년 | 21.1% |
+| 8  | [링\~최종장\~](https://ko.wikipedia.org/wiki/:ja:リング_\(鈴木光司の小説\) "wikilink") | 1999년 | 19.9% |
+| 8  | [나미키가 사람들](https://ko.wikipedia.org/wiki/:ja:並木家の人々 "wikilink")          | 1993년 | 19.9% |
+| 10 | [멋진걸까 인생](https://ko.wikipedia.org/wiki/:ja:素晴らしきかな人生 "wikilink")        | 1993년 | 19.7% |
+|    |                                                                          |       |       |
 
 ## 역대 회당(최고) 시청률 순위 10
 
-| 순위 | 작품명                                                                     | 방송년도  | 시청률   |
-| -- | ----------------------------------------------------------------------- | ----- | ----- |
-| 1  | [사랑이라는 이름으로](../Page/사랑이라는_이름으로.md "wikilink")                          | 1992년 | 32.6% |
-| 2  | [하얀 거탑](https://ko.wikipedia.org/wiki/하얀_거탑_\(2003년\) "wikilink")       | 2003년 | 32.1% |
-| 3  | [잠자는 숲](https://ko.wikipedia.org/wiki/잠자는_숲 "wikilink")                 | 1998년 | 30.8% |
-| 4  | [Age,35 사랑스러워서](https://ko.wikipedia.org/wiki/Age,35_사랑스러워서 "wikilink") | 1996년 | 28.1% |
-| 5  | [29세의 크리스마스](../Page/29세의_크리스마스.md "wikilink")                          | 1994년 | 26.9% |
-| 6  | [Dr.코토 진료소 2006](../Page/Dr.코토_진료소.md "wikilink")                       | 2006년 | 25.9% |
-| 7  | [전차남](../Page/전차남.md "wikilink")                                        | 2005년 | 25.5% |
-| 8  | [멋진걸까 인생](https://ko.wikipedia.org/wiki/멋진걸까_인생 "wikilink")             | 1993년 | 25.0% |
-| 9  | [비눗방울](https://ko.wikipedia.org/wiki/비눗방울_\(드라마\) "wikilink")           | 1991년 | 24.9% |
-| 10 | [친애하는 님에게](https://ko.wikipedia.org/wiki/친애하는_님에게 "wikilink")           | 1992년 | 24.4% |
+| 순위 | 작품명                                                                        | 방송년도  | 시청률        |
+| -- | -------------------------------------------------------------------------- | ----- | ---------- |
+| 1  | [사랑이라는 이름으로](../Page/사랑이라는_이름으로.md "wikilink")                             | 1992년 | 32.6%（최종회） |
+| 2  | [하얀 거탑](https://ko.wikipedia.org/wiki/하얀_거탑_\(2003년\) "wikilink")          | 2003년 | 32.1%（최종회） |
+| 3  | [잠자는 숲](https://ko.wikipedia.org/wiki/:zh:沉睡的森林 "wikilink")                | 1998년 | 30.8%（최종회） |
+| 4  | [Age,35 사랑스러워서](https://ko.wikipedia.org/wiki/:ja:Age,35 "wikilink")       | 1996년 | 28.1%（최종회） |
+| 5  | [29세의 크리스마스](../Page/29세의_크리스마스.md "wikilink")                             | 1994년 | 26.9%（최종회） |
+| 6  | [Dr.코토 진료소 2006](../Page/Dr.코토_진료소.md "wikilink")                          | 2006년 | 25.9%（최종회） |
+| 7  | [전차남](../Page/전차남.md "wikilink")                                           | 2005년 | 25.5%（최종회） |
+| 8  | [멋진걸까 인생](https://ko.wikipedia.org/wiki/:ja:素晴らしきかな人生 "wikilink")          | 1993년 | 25.0%（최종회） |
+| 9  | [비눗방울](https://ko.wikipedia.org/wiki/:ja:しゃぼん玉_\(テレビドラマ\) "wikilink")      | 1991년 | 24.9%（제2회） |
+| 10 | [친애하는 님에게](https://ko.wikipedia.org/wiki/:ja:親愛なる者へ_\(テレビドラマ\) "wikilink") | 1992년 | 24.4%（최종회） |
+|    |                                                                            |       |            |
 
 ## 작품 목록
 
@@ -316,7 +318,7 @@
   - 《[얼라이브 암 전문의의 카르테](https://ko.wikipedia.org/wiki/얼라이브_암_전문의의_카르테 "wikilink")》 (주연: 마츠시타 나오)
   - 《[언성 신데렐라 병원 약사의 처방전](https://ko.wikipedia.org/wiki/언성_신데렐라_병원_약사의_처방전 "wikilink")》 (주연: 이시하라 사토미)
 
-## 지역 방송국
+## 편성국 정보
 
 <table>
 <thead>

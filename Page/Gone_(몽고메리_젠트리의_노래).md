@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Gone \(  \)](https://ko.wikipedia.org/wiki/Gone_\(__\)).
+> This article is converted from Wikipedia: [Gone \(몽고메리 젠트리의 노래\)](https://ko.wikipedia.org/wiki/Gone_\(몽고메리_젠트리의_노래\)).
 
 
 "**Gone**"은 [몽고메리 젠트리의](../Page/몽고메리_젠트리.md "wikilink") 노래로, 2004년 11월 발매되었다. 음반 *[You Do Your Thing](../Page/You_Do_Your_Thing.md "wikilink")*에 수록되었다.

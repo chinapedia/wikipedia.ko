@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ABC MSL 2011](https://ko.wikipedia.org/wiki/ABC_MSL_2011).
+> This article is converted from Wikipedia: [ABC마트 MSL 2011](https://ko.wikipedia.org/wiki/ABC마트_MSL_2011).
 
 
 **ABC마트 MSL 2011**(ABC Mart MSL 2011)은 22차 MSL이며 KPGA 투어까지 포함하면 30번째 MSL이자, MSL의 마지막 리그이다.
@@ -56,14 +56,14 @@
 
   - 원데이 듀얼방식으로 치러지며, 24명이 진출하였다.
 
-| 1조                                                            | 2조                                         | 3조                                         | 4조                                                  |
-| ------------------------------------------------------------- | ------------------------------------------ | ------------------------------------------ | --------------------------------------------------- |
-| [이재호](https://ko.wikipedia.org/wiki/이재호 "wikilink")           | [유병준](../Page/유병준_\(1993년\).md "wikilink") | [이경민](../Page/이경민_\(프로게이머\).md "wikilink") | [이영한](../Page/이영한.md "wikilink")                    |
-| 5조                                                            | 6조                                         | 7조                                         | 8조                                                  |
-| [박상우](https://ko.wikipedia.org/wiki/박상우_\(1989년\) "wikilink") | [김도우](../Page/김도우.md "wikilink")           | [백동준](../Page/백동준.md "wikilink")           | [염보성](https://ko.wikipedia.org/wiki/염보성 "wikilink") |
-| 9조                                                            | 10조                                        | 11조                                        | 12조                                                 |
-| [김기현](https://ko.wikipedia.org/wiki/김기현 "wikilink")           | [조일장](../Page/조일장.md "wikilink")           | [박성균](../Page/박성균.md "wikilink")           | [민찬기](../Page/민찬기.md "wikilink")                    |
-|                                                               |                                            |                                            |                                                     |
+| 1조                                                  | 2조                                         | 3조                                         | 4조                                                  |
+| --------------------------------------------------- | ------------------------------------------ | ------------------------------------------ | --------------------------------------------------- |
+| [이재호](https://ko.wikipedia.org/wiki/이재호 "wikilink") | [유병준](../Page/유병준_\(1993년\).md "wikilink") | [이경민](../Page/이경민_\(프로게이머\).md "wikilink") | [이영한](../Page/이영한.md "wikilink")                    |
+| 5조                                                  | 6조                                         | 7조                                         | 8조                                                  |
+| [박상우](../Page/박상우_\(프로게이머\).md "wikilink")          | [김도우](../Page/김도우.md "wikilink")           | [백동준](../Page/백동준.md "wikilink")           | [염보성](https://ko.wikipedia.org/wiki/염보성 "wikilink") |
+| 9조                                                  | 10조                                        | 11조                                        | 12조                                                 |
+| [김기현](https://ko.wikipedia.org/wiki/김기현 "wikilink") | [조일장](../Page/조일장.md "wikilink")           | [박성균](../Page/박성균.md "wikilink")           | [민찬기](../Page/민찬기.md "wikilink")                    |
+|                                                     |                                            |                                            |                                                     |
 
 ## 스틸드래프트 순서
 

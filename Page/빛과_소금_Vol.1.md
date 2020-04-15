@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  Vol.1](https://ko.wikipedia.org/wiki/__Vol.1).
+> This article is converted from Wikipedia: [빛과 소금 Vol.1](https://ko.wikipedia.org/wiki/빛과_소금_Vol.1).
 
 
 《**빛과 소금 Vol.1…**》는 [빛과 소금의](https://ko.wikipedia.org/wiki/빛과_소금_\(밴드\) "wikilink") 첫 번째 정규 음반이다.

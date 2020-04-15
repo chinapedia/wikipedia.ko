@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ TRG](https://ko.wikipedia.org/wiki/_TRG).
+> This article is converted from Wikipedia: [사코 TRG](https://ko.wikipedia.org/wiki/사코_TRG).
 
 
 [사코](https://ko.wikipedia.org/wiki/사코 "wikilink")사에서 제작한 [볼트 액션](https://ko.wikipedia.org/wiki/볼트_액션 "wikilink") [저격총](https://ko.wikipedia.org/wiki/저격총 "wikilink")이며, [1989년](../Page/1989년.md "wikilink") **TRG21**과 **TRG41**이 개발/출시했다. [1999년](../Page/1999년.md "wikilink")에는 **TRG22**와 **TRG42**가 개발되고 [2000년](../Page/2000년.md "wikilink") 판매가 되면서 TRG21과 TRG41은 단종되었다.

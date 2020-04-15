@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [OS X  ](https://ko.wikipedia.org/wiki/OS_X__).
+> This article is converted from Wikipedia: [OS X 마운틴 라이언](https://ko.wikipedia.org/wiki/OS_X_마운틴_라이언).
 
 
 **OS X 마운틴 라이언**(OS X Mountain Lion\[1\])은 2012년 2월 16일에 공개된 [OS X의](https://ko.wikipedia.org/wiki/OS_X "wikilink") 9번째 버전이다.

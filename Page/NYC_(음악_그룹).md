@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [NYC \( \)](https://ko.wikipedia.org/wiki/NYC_\(_\)).
+> This article is converted from Wikipedia: [NYC \(음악 그룹\)](https://ko.wikipedia.org/wiki/NYC_\(음악_그룹\)).
 
 
-**NYC**는, [일본](../Page/일본.md "wikilink")의 3인조 [남성](https://ko.wikipedia.org/wiki/남성 "wikilink") [아이돌](https://ko.wikipedia.org/wiki/아이돌 "wikilink") 그룹이다. 소속 사무소는 [쟈니즈 사무소](../Page/자니스_사무소.md "wikilink"). 레코드 레이블은 [쟈니즈 엔터테인먼트](../Page/자니스_엔터테인먼트.md "wikilink").
+**NYC**는 [일본](../Page/일본.md "wikilink")의 3인조 [남성](https://ko.wikipedia.org/wiki/남성 "wikilink") [아이돌](https://ko.wikipedia.org/wiki/아이돌 "wikilink") 그룹이다. 소속 사무소는 [쟈니즈 사무소](../Page/자니스_사무소.md "wikilink"). 레코드 레이블은 [쟈니즈 엔터테인먼트](../Page/자니스_엔터테인먼트.md "wikilink").
 
 ## 멤버
 

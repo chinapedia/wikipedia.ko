@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FXOpen \(e\)](https://ko.wikipedia.org/wiki/FXOpen_\(e\)).
+> This article is converted from Wikipedia: [FXOpen \(e스포츠\)](https://ko.wikipedia.org/wiki/FXOpen_\(e스포츠\)).
 
 
 **FXOpen**은 [오스트레일리아](../Page/오스트레일리아.md "wikilink")의 기업인 [FXOpen](https://ko.wikipedia.org/wiki/FXOpen "wikilink")이 창설한 [스타크래프트 II](https://ko.wikipedia.org/wiki/스타크래프트_II "wikilink") [프로게임단](https://ko.wikipedia.org/wiki/프로게임단 "wikilink")이었다. 유럽의 게임단으로 시작되었으며 북미와 [대한민국](../Page/대한민국.md "wikilink")에 있는 게임단이 서로 분리되어 운영되었다.

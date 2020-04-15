@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ SC](https://ko.wikipedia.org/wiki/_SC).
+> This article is converted from Wikipedia: [쿠웨이트 SC](https://ko.wikipedia.org/wiki/쿠웨이트_SC).
 
 
 **쿠웨이트 SC**(, )는 [쿠웨이트](../Page/쿠웨이트.md "wikilink") [쿠웨이트 시를](../Page/쿠웨이트_시.md "wikilink") 연고로 하는 [축구](../Page/축구.md "wikilink") 클럽이다.

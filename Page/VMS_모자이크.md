@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [VMS ](https://ko.wikipedia.org/wiki/VMS_).
+> This article is converted from Wikipedia: [VMS 모자이크](https://ko.wikipedia.org/wiki/VMS_모자이크).
 
 
 **VMS 모자이크**(VMS Mosaic)는 [OpenVMS](../Page/OpenVMS.md "wikilink")에서 작동되는 [GUI](../Page/그래픽_사용자_인터페이스.md "wikilink") 웹 브라우저이다.\[1\]

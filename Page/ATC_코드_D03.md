@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ATC  D03](https://ko.wikipedia.org/wiki/ATC__D03).
+> This article is converted from Wikipedia: [ATC 코드 D03](https://ko.wikipedia.org/wiki/ATC_코드_D03).
 
 
 **ATC 코드 D03**은 [ATC 코드의](https://ko.wikipedia.org/wiki/ATC_코드 "wikilink") 상처 및 궤양치료제로 작용하는 약물을 정리한 코드이다. \[1\] **ATC 코드** D 피부과의 하위그룹을 이룬다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [MBDA ](https://ko.wikipedia.org/wiki/MBDA_).
+> This article is converted from Wikipedia: [MBDA 미티어](https://ko.wikipedia.org/wiki/MBDA_미티어).
 
 
 **MBDA 미티어**는 개발중인 유럽판 [암람](https://ko.wikipedia.org/wiki/암람 "wikilink")이다. 암람급 미사일, 즉 무게 200 kg 정도에 사거리 100 km 정도가 되는 [액티브 레이다 유도](https://ko.wikipedia.org/wiki/액티브_레이다_유도 "wikilink") 중거리 공대공 미사일이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ATC  A06](https://ko.wikipedia.org/wiki/ATC__A06).
+> This article is converted from Wikipedia: [ATC 코드 A06](https://ko.wikipedia.org/wiki/ATC_코드_A06).
 
 
 **ATC 코드 A06**은 [ATC 코드의](https://ko.wikipedia.org/wiki/ATC_코드 "wikilink") 완하제로 작용하는 약물을 정리한 코드이다. \[1\] **ATC 코드** A 소화관 및 대사의 하위그룹을 이룬다.

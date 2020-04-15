@@ -127,7 +127,7 @@ My Name, <a href="../Page/씨리얼_(음악_그룹).md" title="wikilink">C-REAL<
 <tr class="even">
 <td><p>16회</p></td>
 <td><p><a href="../Page/1월_22일.md" title="wikilink">1월 22일</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/코요태" title="wikilink">코요태</a>, <a href="https://ko.wikipedia.org/wiki/NS윤지" title="wikilink">NS윤지</a>, 제이세라, 이현<br />
+<td><p><a href="../Page/코요태.md" title="wikilink">코요태</a>, <a href="https://ko.wikipedia.org/wiki/NS윤지" title="wikilink">NS윤지</a>, 제이세라, 이현<br />
 <a href="../Page/애즈_원.md" title="wikilink">에즈원</a>, <a href="../Page/쇼콜라_(음악_그룹).md" title="wikilink">쇼콜라</a>, New.F.O, <a href="../Page/먼데이_키즈.md" title="wikilink">먼데이 키즈</a></p></td>
 </tr>
 <tr class="odd">

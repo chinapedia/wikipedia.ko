@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [PLA ](https://ko.wikipedia.org/wiki/PLA_).
+> This article is converted from Wikipedia: [PLA 항공](https://ko.wikipedia.org/wiki/PLA_항공).
 
 
 **PLA 항공**()은 [브라질](../Page/브라질.md "wikilink")의 항공사로 총 11개 노선을 취항하고 있다. 본사는 [브라질](../Page/브라질.md "wikilink") [상파울루](../Page/상파울루.md "wikilink") 위치해 있으며 [1993년](../Page/1993년.md "wikilink")에 설립 했으며 [2009년](../Page/2009년.md "wikilink") [12월](../Page/12월.md "wikilink")에 [브라질](../Page/브라질.md "wikilink")의 최대 항공사인 [TAM 항공에](https://ko.wikipedia.org/wiki/TAM_항공 "wikilink") 인수되었다. 또한 사용하고 있는 [허브 공항으로](../Page/허브_공항.md "wikilink") [콩고냐스 상파울루 공항이](https://ko.wikipedia.org/wiki/콩고냐스_상파울루_공항 "wikilink") 있다.\[1\]

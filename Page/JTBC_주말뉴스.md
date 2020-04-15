@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [JTBC ](https://ko.wikipedia.org/wiki/JTBC_).
+> This article is converted from Wikipedia: [JTBC 주말뉴스](https://ko.wikipedia.org/wiki/JTBC_주말뉴스).
 
 
 **《JTBC 주말뉴스》**(JTBC Weekend News)는 대한민국에서 주말마다 오후 5시 40분부터 6시 10분까지 방송되었던 [JTBC](../Page/JTBC.md "wikilink")의 주말 메인 뉴스 프로그램이다.

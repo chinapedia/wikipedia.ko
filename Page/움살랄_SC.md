@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ SC](https://ko.wikipedia.org/wiki/_SC).
+> This article is converted from Wikipedia: [움살랄 SC](https://ko.wikipedia.org/wiki/움살랄_SC).
 
 
 **움살랄 스포츠 클럽**()은 [움살랄](https://ko.wikipedia.org/wiki/움살랄 "wikilink")에 연고지를 두고 있는 [카타르](../Page/카타르.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다. 과거에는 **알타다문 클럽**으로 잘 알려져 있었다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
+> This article is converted from Wikipedia: [그레트나 FC](https://ko.wikipedia.org/wiki/그레트나_FC).
 
 
 **그레트나 FC**(Gretna Football Club, Gretna F.C.)는 [1946년](../Page/1946년.md "wikilink")에 창단된 [스코틀랜드](../Page/스코틀랜드.md "wikilink") [그레트나](https://ko.wikipedia.org/wiki/그레트나 "wikilink")의 축구 클럽이다.

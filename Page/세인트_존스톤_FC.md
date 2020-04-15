@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  FC](https://ko.wikipedia.org/wiki/__FC).
+> This article is converted from Wikipedia: [세인트 존스톤 FC](https://ko.wikipedia.org/wiki/세인트_존스톤_FC).
 
 
 **세인트 존스톤 FC**()는 [스코틀랜드](../Page/스코틀랜드.md "wikilink") [퍼스를](../Page/퍼스_\(스코틀랜드\).md "wikilink") 연고로 하는 축구 클럽으로, [1884년](../Page/1884년.md "wikilink")에 창단했다.

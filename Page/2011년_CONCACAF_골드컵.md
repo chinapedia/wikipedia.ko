@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [2011 CONCACAF ](https://ko.wikipedia.org/wiki/2011_CONCACAF_).
+> This article is converted from Wikipedia: [2011년 CONCACAF 골드컵](https://ko.wikipedia.org/wiki/2011년_CONCACAF_골드컵).
 
 
 **2011년 CONCACAF 골드컵**(2011 CONCACAF Gold Cup)은 [2011년](../Page/2011년.md "wikilink") [6월 5일부터](../Page/6월_5일.md "wikilink") [6월 25일까지](../Page/6월_25일.md "wikilink") [미국](../Page/미국.md "wikilink")에서 개최된 11번째 [CONCACAF 골드컵이다](../Page/CONCACAF_골드컵.md "wikilink"). 결승전은 2011년 6월 25일 [캘리포니아](https://ko.wikipedia.org/wiki/캘리포니아_주 "wikilink") [패서디나에서](https://ko.wikipedia.org/wiki/패서디나_\(캘리포니아주\) "wikilink") 맞붙었으며, 이 대회에서 우승을 차지한 [멕시코는](../Page/멕시코_축구_국가대표팀.md "wikilink") [2013년 FIFA 컨페더레이션스컵](https://ko.wikipedia.org/wiki/2013년_FIFA_컨페더레이션스컵 "wikilink") 진출권을 획득하였다.

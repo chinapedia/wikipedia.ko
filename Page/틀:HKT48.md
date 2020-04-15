@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:HKT48](https://ko.wikipedia.org/wiki/:HKT48).
+> This article is converted from Wikipedia: [틀:HKT48](https://ko.wikipedia.org/wiki/틀:HKT48).
 
 
 <onlyinclude> }}</onlyinclude>

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [\~A Taste Of Honey\~](https://ko.wikipedia.org/wiki/\~A_Taste_Of_Honey\~).
+> This article is converted from Wikipedia: [꿀맛\~A Taste Of Honey\~](https://ko.wikipedia.org/wiki/꿀맛\~A_Taste_Of_Honey\~).
 
 
 **꿀맛\~A Taste Of Honey\~**()는, [2011년](../Page/2011년.md "wikilink") [10월 13일부터](../Page/10월_13일.md "wikilink") [12월 22일까지](../Page/12월_22일.md "wikilink") [후지 TV 목요극장에서](../Page/후지_TV_목요극장.md "wikilink") 방송된 [텔레비전 드라마이다](../Page/텔레비전_드라마.md "wikilink"). [에이쿠라 나나](../Page/에이쿠라_나나.md "wikilink"), [간노 미호](https://ko.wikipedia.org/wiki/간노_미호 "wikilink") 공동 주연.
@@ -13,7 +13,7 @@
 
 ## 줄거리
 
-[세토 내해에](https://ko.wikipedia.org/wiki/세토_내해 "wikilink") 소재한 [올리브](https://ko.wikipedia.org/wiki/올리브 "wikilink") 농원의 외동딸 **모리모토 나오코**는, 아버지의 동생이자 짝사랑하는 **이케자와 마사토** 때문에 그가 다니는 명문의대에 진학한다. 그러나 오랜만에 만난 마사토는 결혼을 전제로 교제하고 있는 동기 연구의 **하라다 아야**를 소개한다. 의사가 되기 위해 거듭 노력하고 항상 당당한 아야의 존재는 나오코를 괴롭히고, 나오코는 마사토를 향한 감정을 접으려 하지만 어떠한 사건을 계기로 수렁 속 삼각관계가 생긴다.
+[세토 내해에](https://ko.wikipedia.org/wiki/세토_내해 "wikilink") 소재한 [올리브](https://ko.wikipedia.org/wiki/올리브 "wikilink") 농원의 외동딸 **모리모토 나오코**는 아버지의 동생이자 짝사랑하는 **이케자와 마사토** 때문에 그가 다니는 명문의대에 진학한다. 그러나 오랜만에 만난 마사토는 결혼을 전제로 교제하고 있는 동기 연구의 **하라다 아야**를 소개한다. 의사가 되기 위해 거듭 노력하고 항상 당당한 아야의 존재는 나오코를 괴롭히고, 나오코는 마사토를 향한 감정을 접으려 하지만 어떠한 사건을 계기로 수렁 속 삼각관계가 생긴다.
 
 ## 등장 인물
 

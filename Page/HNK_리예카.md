@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [HNK ](https://ko.wikipedia.org/wiki/HNK_).
+> This article is converted from Wikipedia: [HNK 리예카](https://ko.wikipedia.org/wiki/HNK_리예카).
 
 
 **HNK 리예카**(HNK Rijeka)는 [크로아티아](../Page/크로아티아.md "wikilink") [리예카](../Page/리예카.md "wikilink")를 연고로 하는 축구 클럽이며 현재는 [프르바 HNL에](../Page/프르바_HNL.md "wikilink") 참가하고 있다.

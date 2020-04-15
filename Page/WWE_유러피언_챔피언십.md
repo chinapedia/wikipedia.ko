@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [WWE  ](https://ko.wikipedia.org/wiki/WWE__).
+> This article is converted from Wikipedia: [WWE 유러피언 챔피언십](https://ko.wikipedia.org/wiki/WWE_유러피언_챔피언십).
 
 
 **WWE 유러피언 챔피언십**(WWE European Championship)은 [WWE](https://ko.wikipedia.org/wiki/WWE "wikilink")의 챔피언십중 하나였다. 1997년 [브리티시 불독으로부터](https://ko.wikipedia.org/wiki/데이비_보이_스미스 "wikilink") 시작하여 2002년 [랍 밴 댐이](../Page/랍_밴_댐.md "wikilink") [인터콘티넨탈 챔피언이](https://ko.wikipedia.org/wiki/WWE_인터콘티넨탈_챔피언십 "wikilink") 될때 통합되어 폐지될때까지 끝난 타이틀이었다. 이 타이틀은 중간급 챔피언십으로 [그랜드 슬램 챔피언십에도](../Page/그랜드_슬램_챔피언십.md "wikilink") 인정되며 중간급이 아닌 기타급으로 달성할 수 있다. **유러피언**이란 말인 듯이 이 타이틀을 차지한 [유럽](../Page/유럽.md "wikilink")인들은 브리티시 불독과 [윌리엄 리갈](https://ko.wikipedia.org/wiki/윌리엄_리갈 "wikilink") 뿐이었다.

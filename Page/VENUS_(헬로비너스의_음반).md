@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [VENUS \( \)](https://ko.wikipedia.org/wiki/VENUS_\(_\)).
+> This article is converted from Wikipedia: [VENUS \(헬로비너스의 음반\)](https://ko.wikipedia.org/wiki/VENUS_\(헬로비너스의_음반\)).
 
 
 《**VENUS**》(비너스)는 [대한민국](../Page/대한민국.md "wikilink")의 음악 그룹 [헬로비너스](../Page/헬로비너스.md "wikilink")의 첫 번째 [미니 앨범이자](../Page/익스텐디드_플레이.md "wikilink") 데뷔 앨범이다.

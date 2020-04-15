@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [CRS ](https://ko.wikipedia.org/wiki/CRS_).
+> This article is converted from Wikipedia: [CRS 보고서](https://ko.wikipedia.org/wiki/CRS_보고서).
 
 
 **CRS 보고서**( - 報告書, )는 [미국 의회조사국](../Page/미국_의회조사국.md "wikilink")(CRS)가 작성한 보고서를 말한다. 변호사, 생물학자, 경제학자 등 각 분야 전문가 800여 명이 만드는 CRS 보고서는 [미국 의회의](../Page/미국_의회.md "wikilink") 정책이나 법안에 직접적인 영향을 미친다.\[1\]

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ SK](https://ko.wikipedia.org/wiki/_SK).
+> This article is converted from Wikipedia: [리르서 SK](https://ko.wikipedia.org/wiki/리르서_SK).
 
 
 **리르서 SK**(K. Lierse S.K.)는 [벨기에](../Page/벨기에.md "wikilink") [리르](https://ko.wikipedia.org/wiki/리르 "wikilink")의 축구 클럽으로, 현재 [벨기에 프로 리그에서](https://ko.wikipedia.org/wiki/벨기에_프로_리그 "wikilink") 뛰고 있다. 벨기에 1부 리그에서 4회 우승했으며 한동안 2부 리그로 강등되었다가 1부 리그로 다시 승격된 경력을 갖고 있다.

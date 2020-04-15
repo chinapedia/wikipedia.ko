@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [BBC ](https://ko.wikipedia.org/wiki/BBC_).
+> This article is converted from Wikipedia: [BBC 팔리아먼트](https://ko.wikipedia.org/wiki/BBC_팔리아먼트).
 
 
 **BBC 팔리아먼트**(BBC Parliament)는 [영국 방송 협회](https://ko.wikipedia.org/wiki/영국_방송_협회 "wikilink") (BBC)의 텔레비전 채널이다. [영국 의회의](../Page/영국_의회.md "wikilink") [서민원과](https://ko.wikipedia.org/wiki/영국_서민원 "wikilink") [귀족원](https://ko.wikipedia.org/wiki/영국_귀족원 "wikilink"), [원내특별위원회](https://ko.wikipedia.org/wiki/영국의_원내_특별위원회 "wikilink") 생중계와 녹화중계를 내보낸다. 영국의회 뿐만 아니라 [스코틀랜드 의회](../Page/스코틀랜드_의회.md "wikilink"), [런던 의회](../Page/런던_의회.md "wikilink"), [북아일랜드 의회](../Page/북아일랜드_의회.md "wikilink"), [웨일스 의회도](../Page/웨일스_의회.md "wikilink") 방송범주에 들어간다. 또한 [유럽 의회](../Page/유럽_의회.md "wikilink") 소식과 영국내 주요 정당들의 연간 회의, [노동조합회의](https://ko.wikipedia.org/wiki/노동조합회의 "wikilink") 등도 방송한다.

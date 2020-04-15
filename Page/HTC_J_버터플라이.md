@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [HTC J ](https://ko.wikipedia.org/wiki/HTC_J_).
+> This article is converted from Wikipedia: [HTC J 버터플라이](https://ko.wikipedia.org/wiki/HTC_J_버터플라이).
 
 
 **HTC J 버터플라이**()는 [HTC 코퍼레이션에서](https://ko.wikipedia.org/wiki/HTC_코퍼레이션 "wikilink") [2012년](../Page/2012년.md "wikilink") 12월에 출시한 [안드로이드](../Page/안드로이드_\(운영_체제\).md "wikilink") [스마트폰](../Page/스마트폰.md "wikilink")이며, 세계 최초로 [1080p](../Page/1080p.md "wikilink") [HD](../Page/고선명_비디오.md "wikilink") 해상도를 표현하는 [스마트폰](../Page/스마트폰.md "wikilink")이다.

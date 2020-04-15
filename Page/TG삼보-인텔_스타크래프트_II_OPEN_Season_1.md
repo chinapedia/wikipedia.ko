@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TG-  II OPEN Season 1](https://ko.wikipedia.org/wiki/TG-__II_OPEN_Season_1).
+> This article is converted from Wikipedia: [TG삼보-인텔 스타크래프트 II OPEN Season 1](https://ko.wikipedia.org/wiki/TG삼보-인텔_스타크래프트_II_OPEN_Season_1).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:P100904006.jpg "wikilink") [88체육관](https://ko.wikipedia.org/wiki/88체육관 "wikilink")에서 이뤄진 TG삼보-인텔 STARCRAFT II OPEN Season 1 개막전\]\] **TG삼보-인텔 스타크래프트 II OPEN Season 1**은 세계 최초의 [스타크래프트 II](https://ko.wikipedia.org/wiki/스타크래프트_II "wikilink") 공식 대회인 [글로벌 스타크래프트 II 리그의](https://ko.wikipedia.org/wiki/글로벌_스타크래프트_II_리그 "wikilink") 첫 번째 리그이며 2011 GSL의 Code S 32명과 Code A 64명을 결정하기 위한 2010년의 3개 대회 중 첫 번째 대회로 [2010년](../Page/2010년.md "wikilink") [9월 4일에](../Page/9월_4일.md "wikilink") 개막하였다.

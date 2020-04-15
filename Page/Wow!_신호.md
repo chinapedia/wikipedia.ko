@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Wow! ](https://ko.wikipedia.org/wiki/Wow!_).
+> This article is converted from Wikipedia: [Wow! 신호](https://ko.wikipedia.org/wiki/Wow!_신호).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Wow_signal.jpg "wikilink") **와우 신호**()는 [SETI](https://ko.wikipedia.org/wiki/SETI "wikilink") 프로젝트가 진행되던 도중에 발견된 특이한 신호이다.

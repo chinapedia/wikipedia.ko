@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [RESCUE\~](https://ko.wikipedia.org/wiki/RESCUE\~).
+> This article is converted from Wikipedia: [RESCUE\~특별고도구조대](https://ko.wikipedia.org/wiki/RESCUE\~특별고도구조대).
 
 
 《**RESCUE\~특별고도구조대**》()는, [2009년](../Page/2009년.md "wikilink") [1월 24일부터](../Page/1월_24일.md "wikilink") [3월 21일까지](../Page/3월_21일.md "wikilink") [TBS](../Page/도쿄_방송_홀딩스.md "wikilink") 계열에서 매주 [토요일 19:56 \~ 20:54](../Page/TBS_토요일_밤_8시_드라마.md "wikilink")([JST](../Page/일본_표준시.md "wikilink"))에 방송된 [일본](../Page/일본.md "wikilink")의 [텔레비전 드라마이다](https://ko.wikipedia.org/wiki/일본_드라마 "wikilink").

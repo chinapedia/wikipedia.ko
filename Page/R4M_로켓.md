@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [R4M ](https://ko.wikipedia.org/wiki/R4M_).
+> This article is converted from Wikipedia: [R4M 로켓](https://ko.wikipedia.org/wiki/R4M_로켓).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:R4M_AT_version.jpg "wikilink")

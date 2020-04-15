@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:  II ](https://ko.wikipedia.org/wiki/:__II_).
+> This article is converted from Wikipedia: [틀:대한민국의 스타크래프트 II 리그](https://ko.wikipedia.org/wiki/틀:대한민국의_스타크래프트_II_리그).
 
 
 <onlyinclude></onlyinclude>

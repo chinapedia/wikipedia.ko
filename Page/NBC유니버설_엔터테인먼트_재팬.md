@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [NBC  ](https://ko.wikipedia.org/wiki/NBC__).
+> This article is converted from Wikipedia: [NBC유니버설 엔터테인먼트 재팬](https://ko.wikipedia.org/wiki/NBC유니버설_엔터테인먼트_재팬).
 
 
 **NBC유니버설 엔터테인먼트 재팬 합동회사**(, NBCUniversal Entertainment Japan, LLC.)란 [NBC유니버설](../Page/NBC유니버설.md "wikilink") 산하의 [음악](../Page/음악.md "wikilink")・[영상](../Page/영상.md "wikilink") 소프트 회사다.

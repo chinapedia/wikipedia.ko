@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:CA   ](https://ko.wikipedia.org/wiki/:CA___).
+> This article is converted from Wikipedia: [틀:CA 오사수나 선수 명단](https://ko.wikipedia.org/wiki/틀:CA_오사수나_선수_명단).
 
 
 <onlyinclude></onlyinclude>

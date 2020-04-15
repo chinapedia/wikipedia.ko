@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FIFA ](https://ko.wikipedia.org/wiki/FIFA_).
+> This article is converted from Wikipedia: [FIFA 푸슈카시상](https://ko.wikipedia.org/wiki/FIFA_푸슈카시상).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Puskas_Top_scorer_of_20th_century.JPG "wikilink") **FIFA 푸슈카시상**(FIFA Puskás Award)은 [국제 축구 연맹](../Page/국제_축구_연맹.md "wikilink")(FIFA)이 지난 한 해 동안 가장 뛰어난 골을 기록한 선수에게 수여하는 상이다. [2009년](../Page/2009년.md "wikilink") [10월 20일에](../Page/10월_20일.md "wikilink") 제정되었으며 상 이름은 1950년대 [헝가리](../Page/헝가리.md "wikilink")를 대표하는 축구 선수인 [푸슈카시 페렌츠에서](../Page/푸슈카시_페렌츠.md "wikilink") 유래된 이름이다.

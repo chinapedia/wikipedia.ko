@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [NS](https://ko.wikipedia.org/wiki/NS).
+> This article is converted from Wikipedia: [NS홈쇼핑](https://ko.wikipedia.org/wiki/NS홈쇼핑).
 
 
 **NS홈쇼핑**은 [2001년](../Page/2001년.md "wikilink")에 창립된 세계 최초의 [식품](../Page/음식.md "wikilink") 중심 홈쇼핑 회사이며, [하림](../Page/하림_\(기업\).md "wikilink") 계열사이다.\[1\]

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ TV ](https://ko.wikipedia.org/wiki/_TV_).
+> This article is converted from Wikipedia: [후지 TV 수요극장](https://ko.wikipedia.org/wiki/후지_TV_수요극장).
 
 
 **후지 TV 수요극장**()은 [1992년](../Page/1992년.md "wikilink") [10월](../Page/10월.md "wikilink")부터 [1996년](../Page/1996년.md "wikilink") [3월](../Page/3월.md "wikilink") (제1기), [1997년](../Page/1997년.md "wikilink") [4월](../Page/4월.md "wikilink")부터 [2003년](../Page/2003년.md "wikilink") [6월](../Page/6월.md "wikilink") (제2기)까지 [매주 수요일 (21:00\~21:54)에](../Page/후지_TV_수요극장.md "wikilink") [후지 TV 계열에서](../Page/후지_네트워크.md "wikilink") 방성된 [TV 드라마](https://ko.wikipedia.org/wiki/TV_드라마 "wikilink") 시간대를 말한다.

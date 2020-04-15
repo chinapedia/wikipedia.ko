@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [K  ](https://ko.wikipedia.org/wiki/K__).
+> This article is converted from Wikipedia: [K리그 승부조작 사건](https://ko.wikipedia.org/wiki/K리그_승부조작_사건).
 
 
 **K리그 승부조작 사건**(—勝負造作事件)은 [2011년](../Page/2011년.md "wikilink"), [K리그](../Page/K리그.md "wikilink")에서 활동하고 있는 일부 선수들이 돈을 받고 경기 승부를 조작한 것이 드러난 사건이다. 이 사건 이전 벌어진 [2008년](../Page/2008년.md "wikilink"), [K3리그](https://ko.wikipedia.org/wiki/K3리그 "wikilink")와 실업리그(현 [내셔널리그](../Page/내셔널리그_\(대한민국\).md "wikilink"))에서 벌어진 승부조작 사건도 같이 기술한다.

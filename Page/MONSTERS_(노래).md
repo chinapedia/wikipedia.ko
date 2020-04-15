@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [MONSTERS \(\)](https://ko.wikipedia.org/wiki/MONSTERS_\(\)).
+> This article is converted from Wikipedia: [MONSTERS \(노래\)](https://ko.wikipedia.org/wiki/MONSTERS_\(노래\)).
 
 
 **MONSTERS**()는 [TBS](https://ko.wikipedia.org/wiki/도쿄_방송 "wikilink") [드라마](https://ko.wikipedia.org/wiki/드라마 "wikilink") 《[몬스터스](https://ko.wikipedia.org/wiki/몬스터스_\(TBS\) "wikilink")》에서 주연의 [카토리 싱고와](../Page/카토리_싱고.md "wikilink") [야마시타 토모히사의](../Page/야마시타_토모히사.md "wikilink") 기간 한정 유닛인 **The MONSTERS**의 [싱글](https://ko.wikipedia.org/wiki/싱글 "wikilink")이다. [일본](../Page/일본.md "wikilink")에서는 [2012년](../Page/2012년.md "wikilink") [11월 28일](../Page/11월_28일.md "wikilink") 발매되었다.

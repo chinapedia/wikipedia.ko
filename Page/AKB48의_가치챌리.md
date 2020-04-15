@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [AKB48 ](https://ko.wikipedia.org/wiki/AKB48_).
+> This article is converted from Wikipedia: [AKB48의 가치챌리](https://ko.wikipedia.org/wiki/AKB48의_가치챌리).
 
 
-**히카리 TV presents 비묘\~나 토비라 AKB48노 가치차레**는, 히카리TV에서 [2012년](../Page/2012년.md "wikilink") [6월 29일부터](../Page/6월_29일.md "wikilink") 디지털 배급되고 있는 [AKB48](../Page/AKB48.md "wikilink")의 다큐멘트 버라이어티 프로그램이다.
+**히카리 TV presents 비묘\~나 토비라 AKB48노 가치차레**는 히카리TV에서 [2012년](../Page/2012년.md "wikilink") [6월 29일부터](../Page/6월_29일.md "wikilink") 디지털 배급되고 있는 [AKB48](../Page/AKB48.md "wikilink")의 다큐멘트 버라이어티 프로그램이다.
 
 ## 개요
 

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FNS ](https://ko.wikipedia.org/wiki/FNS_).
+> This article is converted from Wikipedia: [FNS 가요제](https://ko.wikipedia.org/wiki/FNS_가요제).
 
 
 **FNS 가요제**()은 1년에 한번씩 연말 특집으로 개최되는 [일본](../Page/일본.md "wikilink")의 텔레비전 [음악](../Page/음악.md "wikilink") 방송 프로그램이다.

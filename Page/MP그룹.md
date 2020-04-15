@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [MP](https://ko.wikipedia.org/wiki/MP).
+> This article is converted from Wikipedia: [MP그룹](https://ko.wikipedia.org/wiki/MP그룹).
 
 
 **MP그룹**은 [대한민국](../Page/대한민국.md "wikilink")의 외식 기업으로, 코스닥 상장 기업이다. 글로벌 종합 외식 기업체로 [피자](../Page/피자.md "wikilink") 전문점인 \<[미스터피자](../Page/미스터피자.md "wikilink")\>, 수제머핀&[커피](../Page/커피.md "wikilink") 전문점인 \<[마노핀](https://ko.wikipedia.org/wiki/마노핀 "wikilink")\>, 글로벌 다이닝 \<식탁(SICTAC)\>, 아메리칸 레스토랑 <래미스>를 운영하며 국내외 프랜차이즈 매장을 운영/관리하며 화장품 제조·판매업체 MP한강(구 한강인터트레이드)의 자회사이다. MP는 Mr. Pizza의 약자다.

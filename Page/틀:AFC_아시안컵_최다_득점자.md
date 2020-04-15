@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:AFC   ](https://ko.wikipedia.org/wiki/:AFC___).
+> This article is converted from Wikipedia: [틀:AFC 아시안컵 최다 득점자](https://ko.wikipedia.org/wiki/틀:AFC_아시안컵_최다_득점자).
 
 
 <onlyinclude></onlyinclude>

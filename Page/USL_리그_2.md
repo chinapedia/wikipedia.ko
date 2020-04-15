@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [USL  2](https://ko.wikipedia.org/wiki/USL__2).
+> This article is converted from Wikipedia: [USL 리그 2](https://ko.wikipedia.org/wiki/USL_리그_2).
 
 
 **USL 리그 2**는 [미국](../Page/미국.md "wikilink") [축구](../Page/축구.md "wikilink") 4부 리그이다. 참가팀들은 대부분 [미국](../Page/미국.md "wikilink")과 [캐나다](../Page/캐나다.md "wikilink"), [버뮤다](../Page/버뮤다.md "wikilink") (단 한 팀)의 팀이며, 상위 리그인 [USL 리그 1과의](https://ko.wikipedia.org/wiki/USL_리그_1 "wikilink") 승강제는 없다. 2010년에는 [포틀랜드 팀버스 U23's가](../Page/포틀랜드_팀버스.md "wikilink") 전 경기 무패로 우승을 달성하기도 하였다. 과거 프리미어 디벨럽먼트 리그라는 명칭으로 불렸었다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ A \(Y-DNA\)](https://ko.wikipedia.org/wiki/_A_\(Y-DNA\)).
+> This article is converted from Wikipedia: [하플로그룹 A \(Y-DNA\)](https://ko.wikipedia.org/wiki/하플로그룹_A_\(Y-DNA\)).
 
 
 **하플로그룹 A (Y-DNA)**는 [인류 Y-염색체 DNA 하플로그룹의](https://ko.wikipedia.org/wiki/인류_Y-염색체_DNA_하플로그룹 "wikilink") 일종이다.

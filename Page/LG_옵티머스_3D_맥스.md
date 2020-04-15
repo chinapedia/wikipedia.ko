@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [LG  3D ](https://ko.wikipedia.org/wiki/LG__3D_).
+> This article is converted from Wikipedia: [LG 옵티머스 3D 맥스](https://ko.wikipedia.org/wiki/LG_옵티머스_3D_맥스).
 
 
 **LG 옵티머스 3D 맥스**(LG Optimus 3D Max) 또는 **LG 옵티머스 3D 큐브**(LG Optimus 3D Cube)는 [LG전자](../Page/LG전자.md "wikilink")에서 [2012년](../Page/2012년.md "wikilink") [2월 22일에](../Page/2월_22일.md "wikilink") [대한민국](../Page/대한민국.md "wikilink")에서 출시하고, [2012년](../Page/2012년.md "wikilink") [4월 23일](../Page/4월_23일.md "wikilink") 글로벌 출시한\[1\][안드로이드](../Page/안드로이드_\(운영_체제\).md "wikilink") [스마트폰](../Page/스마트폰.md "wikilink")이다.

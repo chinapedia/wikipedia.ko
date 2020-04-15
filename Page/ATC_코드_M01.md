@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ATC  M01](https://ko.wikipedia.org/wiki/ATC__M01).
+> This article is converted from Wikipedia: [ATC 코드 M01](https://ko.wikipedia.org/wiki/ATC_코드_M01).
 
 
 **ATC 코드 M01**은 [ATC 코드의](https://ko.wikipedia.org/wiki/ATC_코드 "wikilink") 소염제 및 류마티스 치료제로 사용하는 약물을 정리한 코드이다. \[1\] **ATC 코드** M 근골격계의 하위그룹을 이룬다.
@@ -164,7 +164,7 @@
 
 ## 각주
 
-[M](https://ko.wikipedia.org/wiki/분류:ATC_코드 "wikilink")
+[M](https://ko.wikipedia.org/wiki/분류:ATC_코드 "wikilink") [분류:항염증제](https://ko.wikipedia.org/wiki/분류:항염증제 "wikilink")
 
 1.
 2.

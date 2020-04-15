@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KBL D](https://ko.wikipedia.org/wiki/KBL_D).
+> This article is converted from Wikipedia: [KBL D리그](https://ko.wikipedia.org/wiki/KBL_D리그).
 
 
 **한국프로농구 D리그**는 [한국프로농구](../Page/한국프로농구.md "wikilink")의 2군 리그이며, [2009년](../Page/2009년.md "wikilink") 여름에 시작되었다. 참가팀으로는 [서울 SK 나이츠](../Page/서울_SK_나이츠.md "wikilink"), [창원 LG 세이커스](../Page/창원_LG_세이커스.md "wikilink"), [인천 전자랜드 엘리펀츠](https://ko.wikipedia.org/wiki/인천_전자랜드_엘리펀츠 "wikilink"), [전주 KCC 이지스](../Page/전주_KCC_이지스.md "wikilink"), [울산 현대모비스 피버스](../Page/울산_현대모비스_피버스.md "wikilink"), [신협 상무](../Page/신협_상무_농구단.md "wikilink") 이다.

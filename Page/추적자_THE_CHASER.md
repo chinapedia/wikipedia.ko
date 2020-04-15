@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ THE CHASER](https://ko.wikipedia.org/wiki/_THE_CHASER).
+> This article is converted from Wikipedia: [추적자 THE CHASER](https://ko.wikipedia.org/wiki/추적자_THE_CHASER).
 
 
 《**추적자 THE CHASER**》는 [SBS에서](../Page/SBS_TV.md "wikilink") [2012년](../Page/2012년.md "wikilink") [5월 28일부터](../Page/5월_28일.md "wikilink") [2012년](../Page/2012년.md "wikilink") [7월 17일까지](../Page/7월_17일.md "wikilink") 방영된 [SBS](../Page/SBS_TV.md "wikilink") [월화 드라마이다](../Page/SBS_월화드라마.md "wikilink").

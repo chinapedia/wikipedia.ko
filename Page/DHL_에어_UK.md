@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [DHL  UK](https://ko.wikipedia.org/wiki/DHL__UK).
+> This article is converted from Wikipedia: [DHL 에어 UK](https://ko.wikipedia.org/wiki/DHL_에어_UK).
 
 
 **DHL 에어 UK**()는 [영국](../Page/영국.md "wikilink")의 화물 항공사로 총 27대의 기종을 보유하고 있다. 본사는 [영국](../Page/영국.md "wikilink") [하운즐로우](https://ko.wikipedia.org/wiki/하운즐로우 "wikilink")에 위치해 있으며 [1982년](../Page/1982년.md "wikilink")에 **엘런 에어**()로 설립했다. [허브 공항은](../Page/허브_공항.md "wikilink") [이스트 미들랜드 공항이](https://ko.wikipedia.org/wiki/이스트_미들랜드_공항 "wikilink") 있다.

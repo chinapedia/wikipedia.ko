@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [BBC ](https://ko.wikipedia.org/wiki/BBC_).
+> This article is converted from Wikipedia: [BBC 라디오](https://ko.wikipedia.org/wiki/BBC_라디오).
 
 
 **BBC 라디오**(BBC Radio)는 [BBC의](../Page/영국방송공사.md "wikilink") 라디오 방송이다.
@@ -112,7 +112,7 @@
   - [BBC 라디오 스코틀랜드](https://ko.wikipedia.org/wiki/:en:BBC_Radio_Scotland "wikilink"): [스코틀랜드](../Page/스코틀랜드.md "wikilink") 지역 방송
   - [BBC Radio nan Gàidheal](https://ko.wikipedia.org/wiki/:en:BBC_Radio_nan_Gàidheal "wikilink"): [스코틀랜드 게일어](../Page/스코틀랜드_게일어.md "wikilink") 방송
   - [BBC 라디오 셰틀랜드](https://ko.wikipedia.org/wiki/:en:BBC_Radio_Shetland "wikilink"): [셰틀랜드 제도](https://ko.wikipedia.org/wiki/셰틀랜드_제도 "wikilink") 지역 방송
-  - [BBC 라디오 오크니](https://ko.wikipedia.org/wiki/:en:BBC_Radio_Orkney "wikilink"): [오크니 제도](https://ko.wikipedia.org/wiki/오크니_제도 "wikilink") 지역 방송
+  - [BBC 라디오 오크니](https://ko.wikipedia.org/wiki/:en:BBC_Radio_Orkney "wikilink"): [오크니 제도](../Page/오크니_제도.md "wikilink") 지역 방송
 
 #### [BBC 웨일스](https://ko.wikipedia.org/wiki/BBC_웨일스 "wikilink")
 

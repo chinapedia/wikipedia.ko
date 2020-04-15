@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  KSV](https://ko.wikipedia.org/wiki/__KSV).
+> This article is converted from Wikipedia: [세르클러 브뤼허 KSV](https://ko.wikipedia.org/wiki/세르클러_브뤼허_KSV).
 
 
 **세르클러 브뤼허 KSV**(Cercle Brugge Koninklijke Sportvereniging, Cercle Brugge K.S.V.)는 [벨기에](../Page/벨기에.md "wikilink") [브뤼허](../Page/브뤼허.md "wikilink")의 축구 클럽으로, 현재 [주필러리그](https://ko.wikipedia.org/wiki/주필러리그 "wikilink")에서 활동하고 있다.

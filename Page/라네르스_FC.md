@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
+> This article is converted from Wikipedia: [라네르스 FC](https://ko.wikipedia.org/wiki/라네르스_FC).
 
 
 **라네르스 FC**(Randers FC)는 [덴마크](../Page/덴마크.md "wikilink") [라네르스](https://ko.wikipedia.org/wiki/라네르스 "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽으로, 현재 [수페르리가에서](../Page/덴마크_수페르리가.md "wikilink") 활동하고 있다.

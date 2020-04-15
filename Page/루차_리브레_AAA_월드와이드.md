@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  AAA ](https://ko.wikipedia.org/wiki/__AAA_).
+> This article is converted from Wikipedia: [루차 리브레 AAA 월드와이드](https://ko.wikipedia.org/wiki/루차_리브레_AAA_월드와이드).
 
 
 **루차 리브레 AAA 월드 와이드**() 또는 **아시스텐시아 아세소리아 이 아드미니스트라시온**(Asistencia, Asesoría y Administración, 약자 AAA)는 [멕시코](../Page/멕시코.md "wikilink")의 [프로레슬링](../Page/프로레슬링.md "wikilink") 양대 메이져단체 중 하나로, 루차 리브레 스타일의 레슬링을 추구한다. [1992년](../Page/1992년.md "wikilink") 라이벌 단체 [CMLL](https://ko.wikipedia.org/wiki/CMLL "wikilink")에서 탈단한 안토니오 페나가 창립하였다. AAA는 미국의 [WWE](https://ko.wikipedia.org/wiki/WWE "wikilink"), [TNA](https://ko.wikipedia.org/wiki/토털_논스톱_액션_레슬링 "wikilink"), RoH처럼 페이 퍼 뷰 (Pay-Per-View)를 개최하는데 이는 멕시코뿐만이 아니라 미국이나 일본에서도 열린다. 다른 단체와는 차별을 위해 8각형의 링을 사용한다. AAA는 지금까지 수많은 북미단체와 제휴를 맺어왔는데 WWE가 그러했고 현재는 일본 메이져 단체 중 하나인 노아와 미국의 단체 [GFW와](../Page/글로벌_포스_레슬링.md "wikilink") 제휴관계에 있다.

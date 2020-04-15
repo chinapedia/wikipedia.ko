@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ B ](https://ko.wikipedia.org/wiki/_B_).
+> This article is converted from Wikipedia: [플랜 B 엔터테인먼트](https://ko.wikipedia.org/wiki/플랜_B_엔터테인먼트).
 
 
 **플랜 B 엔터테인먼트 주식회사**(Plan B Entertainment Inc.)는 2001년에 [브래드 피트](../Page/브래드_피트.md "wikilink"), 브래드 그레이, [제니퍼 애니스턴이](../Page/제니퍼_애니스턴.md "wikilink") 설립한 영화 제작사이다.\[1\] 2005년 브래드피트와 제니파 애니스턴이 이혼한 이후부터는 브래드 피트가 소유하고 있다. [파라마운트 픽처스](https://ko.wikipedia.org/wiki/파라마운트_픽처스 "wikilink"), [20세기 폭스](https://ko.wikipedia.org/wiki/20세기_폭스 "wikilink"), [워너브라더스](https://ko.wikipedia.org/wiki/워너브라더스 "wikilink")와 임대 계약을 체결했다.

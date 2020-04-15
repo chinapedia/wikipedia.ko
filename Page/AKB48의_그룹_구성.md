@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [AKB48  ](https://ko.wikipedia.org/wiki/AKB48__).
+> This article is converted from Wikipedia: [AKB48의 그룹 구성](https://ko.wikipedia.org/wiki/AKB48의_그룹_구성).
 
 
 **[AKB48](../Page/AKB48.md "wikilink")의 그룹 구성**에서는 일본의 여성 [아이돌 그룹](https://ko.wikipedia.org/wiki/아이돌_그룹 "wikilink") AKB48의 그룹 구성과 그 추이를 다룬다.
@@ -929,9 +929,9 @@
 <td><p>38</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/오카베_린.md" title="wikilink">오카베 린</a></p></td>
-<td><p>岡部麟</p></td>
-<td></td>
+<td><p><strong><a href="../Page/오카베_린.md" title="wikilink">오카베 린</a></strong></p></td>
+<td><p><strong>岡部麟</strong></p></td>
+<td><p><strong></strong></p></td>
 <td><p>-</p></td>
 <td><p>AKS</p></td>
 <td><p>이라바키 현 대표<br />

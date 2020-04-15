@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [K  ](https://ko.wikipedia.org/wiki/K__).
+> This article is converted from Wikipedia: [슈퍼스타K 참가자 목록](https://ko.wikipedia.org/wiki/슈퍼스타K_참가자_목록).
 
 
 다음은 [M.net](https://ko.wikipedia.org/wiki/M.net "wikilink")의 스타 오디션 프로그램 [슈퍼스타 K](https://ko.wikipedia.org/wiki/슈퍼스타_K "wikilink") 시리즈의 첫 번째 시즌 《**[슈퍼스타K 1](https://ko.wikipedia.org/wiki/슈퍼스타K_1 "wikilink")**》의 음악가들을 나열한 목록이다. TOP 10과 그 외 저명한 음악가들을 나열한다.

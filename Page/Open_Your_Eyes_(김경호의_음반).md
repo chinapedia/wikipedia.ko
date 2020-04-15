@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Open Your Eyes \( \)](https://ko.wikipedia.org/wiki/Open_Your_Eyes_\(_\)).
+> This article is converted from Wikipedia: [Open Your Eyes \(김경호의 음반\)](https://ko.wikipedia.org/wiki/Open_Your_Eyes_\(김경호의_음반\)).
 
 
 《**Open Your Eyes**》는 [김경호의](../Page/김경호_\(가수\).md "wikilink") 일곱번째 정규 음반이다. 타이틀은 아버지이다. 이 앨범을 발매했을 당시에 김경호는 보통 록커의 헤어스타일인 장발이 아닌 단발에 웨이브 헤어스타일을 했다.

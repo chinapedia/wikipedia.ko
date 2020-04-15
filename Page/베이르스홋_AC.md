@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ AC](https://ko.wikipedia.org/wiki/_AC).
+> This article is converted from Wikipedia: [베이르스홋 AC](https://ko.wikipedia.org/wiki/베이르스홋_AC).
 
 
 **베이르스홋 AC**(Beerschot AC)은 [안트베르펜](../Page/안트베르펜.md "wikilink")을 연고지로 하던 [벨기에](../Page/벨기에.md "wikilink")의 축구 클럽이다.

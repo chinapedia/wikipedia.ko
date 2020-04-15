@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [WWE NXT ](https://ko.wikipedia.org/wiki/WWE_NXT_).
+> This article is converted from Wikipedia: [WWE NXT 챔피언십](https://ko.wikipedia.org/wiki/WWE_NXT_챔피언십).
 
 
 **WWE NXT 챔피언십**(WWE NXT Championship) 은 [WWE](https://ko.wikipedia.org/wiki/WWE "wikilink")의 챔피언십이다.
@@ -14,7 +14,7 @@
 ## 기록들
 
   - 초대 챔피언 : [세스 롤린스](https://ko.wikipedia.org/wiki/세스_롤린스 "wikilink")
-  - 최장수 챔피언 : [핀 베일러](../Page/핀_베일러.md "wikilink") (292일)
+  - 최장수 챔피언 : [애덤 콜](../Page/애덤_콜.md "wikilink")
   - 최단 기간 챔피언 : [사모아 조](../Page/사모아_조.md "wikilink") (14일)
   - 최다 챔피언 : [사모아 조](../Page/사모아_조.md "wikilink"), [나카무라 신스케](../Page/나카무라_신스케.md "wikilink") (2회)
   - 최중량급 챔피언 : [빅 E 랭스턴](https://ko.wikipedia.org/wiki/빅_E_랭스턴 "wikilink") (130kg)

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ SA](https://ko.wikipedia.org/wiki/_SA).
+> This article is converted from Wikipedia: [사틴 SA](https://ko.wikipedia.org/wiki/사틴_SA).
 
 
 **사틴 SA**() 또는 **사틴 체육회**()는 [홍콩](../Page/홍콩.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽으로 현재는 [홍콩 2부 리그에](https://ko.wikipedia.org/wiki/홍콩_2부_리그 "wikilink") 참가하고 있다.

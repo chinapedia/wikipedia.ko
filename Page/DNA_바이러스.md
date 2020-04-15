@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [DNA ](https://ko.wikipedia.org/wiki/DNA_).
+> This article is converted from Wikipedia: [DNA 바이러스](https://ko.wikipedia.org/wiki/DNA_바이러스).
 
 
 **DNA 바이러스**(DNA virus)는 [DNA](../Page/DNA.md "wikilink")를 지닌 [바이러스](../Page/바이러스.md "wikilink")이다. [핵산](../Page/핵산.md "wikilink")은 일반적으로 겹가닥 DNA (dsDNA)이지만 외가닥 DNA (ssDNA)인 경우도 있다. DNA 바이러스는 볼티모어의 바이러스 분류에서 그룹 I이나 II에 속한다. 외가닥 DNA는 일반적으로 겹가닥으로 확장된다. [B형 간염](../Page/B형_간염.md "wikilink") 바이러스와 같은 그룹 VII 바이러스는 DNA 게놈을 포함하지만, 볼티모어 분류에 따르면 이들은 DNA 바이러스가 아닌 [레트로바이러스](../Page/레트로바이러스.md "wikilink")로 여겨진다. 그 까닭은 이들은 RNA 중간 생성물을 통해 복제하기 때문이다.

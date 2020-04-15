@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ITV \(\)](https://ko.wikipedia.org/wiki/ITV_\(\)).
+> This article is converted from Wikipedia: [ITV \(영국\)](https://ko.wikipedia.org/wiki/ITV_\(영국\)).
 
 
 **ITV**(Independent Television,독립 텔레비전)는 영국 최대의 민간방송국으로,1955년 9월 22일에 방송을 개시했다. 주로 오락 프로그램에서 [BBC](https://ko.wikipedia.org/wiki/BBC "wikilink")와 경합했다. 법률상은 「Channel 3」이며, 채널은 ITV, ITV2, ITV3, ITV4, ITVBe, ITV Encore, CITV로 나뉘어 있다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TBC ](https://ko.wikipedia.org/wiki/TBC_).
+> This article is converted from Wikipedia: [TBC 프라임뉴스](https://ko.wikipedia.org/wiki/TBC_프라임뉴스).
 
 
 **TBC 프라임뉴스**는 [SBS의](../Page/SBS_\(대한민국의_방송사\).md "wikilink") 대구,경북권 네트워크 방송사인 [대구방송](../Page/TBC_\(대한민국의_방송사\).md "wikilink")(TBC)의 메인 뉴스 프로그램이였으며, 2014년 5월 봄 개편으로 지금의 《[TBC 8뉴스](https://ko.wikipedia.org/wiki/TBC_8뉴스 "wikilink")》로 명칭이 변경되었다.

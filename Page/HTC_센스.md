@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [HTC ](https://ko.wikipedia.org/wiki/HTC_).
+> This article is converted from Wikipedia: [HTC 센스](https://ko.wikipedia.org/wiki/HTC_센스).
 
 
 **HTC 센스**(HTC Sense)는 [HTC에서](../Page/HTC_\(기업\).md "wikilink") 제작한 [스마트폰](../Page/스마트폰.md "wikilink") 전용 [GUI이다](../Page/그래픽_사용자_인터페이스.md "wikilink"). 다른 제조사의 [안드로이드 사용자 인터페이스에](../Page/안드로이드_\(운영_체제\).md "wikilink") 비해 상당히 양질의 성능을 선보이는 사용자 인터페이스로도 유명하다. [TouchFLO 3D](https://ko.wikipedia.org/wiki/TouchFLO_3D "wikilink") 기반의 사용자 인터페이스이며, [윈도 모바일에서도](https://ko.wikipedia.org/wiki/윈도_모바일 "wikilink") 구동된다. 독자 제작 lib 파일 또는 jar, so 파일이 많이 탑재되어 있어 최상급의 개발 실력을 요하는 사용자 UI이기도 하다.

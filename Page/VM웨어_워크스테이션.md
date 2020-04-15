@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [VM ](https://ko.wikipedia.org/wiki/VM_).
+> This article is converted from Wikipedia: [VM웨어 워크스테이션](https://ko.wikipedia.org/wiki/VM웨어_워크스테이션).
 
 
 **VM웨어 워크스테이션**(VMware Workstation)은 [VM웨어](../Page/VM웨어.md "wikilink")사가 만든 [하이퍼바이저](../Page/하이퍼바이저.md "wikilink") 기반 [가상머신](https://ko.wikipedia.org/wiki/가상머신 "wikilink") [소프트웨어](../Page/소프트웨어.md "wikilink")이다. 현재는 [x64](https://ko.wikipedia.org/wiki/x64 "wikilink") 버전의 윈도우와 리눅스 운영 체제에서 구동되는 [하이퍼바이저](../Page/하이퍼바이저.md "wikilink")이지만\[1\], [x86](https://ko.wikipedia.org/wiki/x86 "wikilink") 버전의 과거 릴리스도 이용이 가능했다.\[2\]

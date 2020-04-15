@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
+> This article is converted from Wikipedia: [킬마녹 FC](https://ko.wikipedia.org/wiki/킬마녹_FC).
 
 
 **킬마녹 FC**(Kilmarnock Football Club)는 [스코틀랜드](../Page/스코틀랜드.md "wikilink") [킬마녹](https://ko.wikipedia.org/wiki/킬마녹 "wikilink")에 위치한 [축구](../Page/축구.md "wikilink") 클럽이다. [1869년](../Page/1869년.md "wikilink")에 창단되어 현재 [스코틀랜드 프리미어리그에](https://ko.wikipedia.org/wiki/스코틀랜드_프리미어리그 "wikilink") 참가하고 있는 클럽 중 가장 긴 역사를 자랑한다.

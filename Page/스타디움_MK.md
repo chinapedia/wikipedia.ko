@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ MK](https://ko.wikipedia.org/wiki/_MK).
+> This article is converted from Wikipedia: [스타디움 MK](https://ko.wikipedia.org/wiki/스타디움_MK).
 
 
 **스타디움 MK**()는 [잉글랜드](../Page/잉글랜드.md "wikilink") [버킹엄셔주](https://ko.wikipedia.org/wiki/버킹엄셔주 "wikilink") [밀턴케인스](https://ko.wikipedia.org/wiki/밀턴케인스 "wikilink")에 위치한 [축구](../Page/축구.md "wikilink") 경기장으로, 수용 인원은 22,000명이며 [밀턴케인스 던스 FC의](https://ko.wikipedia.org/wiki/밀턴케인스_던스_FC "wikilink") 홈 구장으로 사용되고 있다. 현지에서는 **덴비 스타디움**()이라고 부른다.

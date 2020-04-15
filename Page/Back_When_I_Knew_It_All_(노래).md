@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Back When I Knew It All \(\)](https://ko.wikipedia.org/wiki/Back_When_I_Knew_It_All_\(\)).
+> This article is converted from Wikipedia: [Back When I Knew It All \(노래\)](https://ko.wikipedia.org/wiki/Back_When_I_Knew_It_All_\(노래\)).
 
 
 "**Back When I Knew It All**"은 [몽고메리 젠트리의](../Page/몽고메리_젠트리.md "wikilink") 노래로, 2008년 2월 발매되었다. 음반 *[Back When I Knew It All](../Page/Back_When_I_Knew_It_All.md "wikilink")*에 수록되었다.

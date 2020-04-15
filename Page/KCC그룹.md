@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KCC](https://ko.wikipedia.org/wiki/KCC).
+> This article is converted from Wikipedia: [KCC그룹](https://ko.wikipedia.org/wiki/KCC그룹).
 
 
 **KCC그룹**은 [주식회사 케이씨씨를](../Page/KCC_\(기업\).md "wikilink") 모기업으로 한, [대한민국](../Page/대한민국.md "wikilink")의 기업집단이다.\[1\] [1958년](../Page/1958년.md "wikilink") [정상영](../Page/정상영.md "wikilink") KCC그룹 명예회장이 [정주영](../Page/정주영.md "wikilink") [현대그룹](../Page/현대그룹.md "wikilink") 명예회장의 유학 지시를 뿌리치고 직원 7명을 모아 [서울특별시](../Page/서울특별시.md "wikilink") [영등포구](../Page/영등포구.md "wikilink")에 설립한 금강스레트공업주식회사가 시초이다.\[2\] 주요 임원으로 현재의 범 현대가 총수였던 [정주영](../Page/정주영.md "wikilink")의 막내동생인 정상영 명예회장, 그 아들인 정몽진 회장과 정몽익 사장이 있다.\[3\] KCC의 일가가 아닌 CEO는 윤희영 대표이사가 유일하다.

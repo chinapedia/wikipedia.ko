@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ANA\&JP ](https://ko.wikipedia.org/wiki/ANA\&JP_).
+> This article is converted from Wikipedia: [ANA\&JP 익스프레스](https://ko.wikipedia.org/wiki/ANA\&JP_익스프레스).
 
 
 **ANA\&JP 익스프레스**(, )는 [일본](../Page/일본.md "wikilink") [도쿄도](../Page/도쿄도.md "wikilink") [미나토구에](../Page/미나토구_\(도쿄도\).md "wikilink") 본사를 둔 화물 항공사로 [2006년](../Page/2006년.md "wikilink")에 [에어재팬](../Page/에어재팬.md "wikilink")에서 분리되어 설립해 [2010년](../Page/2010년.md "wikilink")에 다시 [에어재팬](../Page/에어재팬.md "wikilink")으로 합병된 회사로 당시 [전일본공수](../Page/전일본공수.md "wikilink") 51.7%, 일본우편 사업 33.3%, 일본통운 10.0%, 상선 미쓰이 5.0%의 지분을 가지고 있었다.

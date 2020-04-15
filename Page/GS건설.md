@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [GS](https://ko.wikipedia.org/wiki/GS).
+> This article is converted from Wikipedia: [GS건설](https://ko.wikipedia.org/wiki/GS건설).
 
 
 **GS건설**(지에스建設)은 1969년 설립되어 대한민국에 본사를 둔, GS그룹에 소속된 건설 회사이다. 종합건설회사로 플랜트, 토목, 주택 등의 다양한 건설 사업을 하고 있으며, 전 세계 시장을 사업영역으로 하고 있다. 본사는 [서울특별시](../Page/서울특별시.md "wikilink") [종로구](../Page/종로구.md "wikilink") 종로 33 그랑서울 빌딩에 있다.

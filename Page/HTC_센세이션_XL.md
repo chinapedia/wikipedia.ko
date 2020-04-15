@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [HTC  XL](https://ko.wikipedia.org/wiki/HTC__XL).
+> This article is converted from Wikipedia: [HTC 센세이션 XL](https://ko.wikipedia.org/wiki/HTC_센세이션_XL).
 
 
 **HTC 센세이션 XL**(HTC Sensation XL, 코드명: Runnymede)는 [HTC 코퍼레이션에서](https://ko.wikipedia.org/wiki/HTC_코퍼레이션 "wikilink") [2011년](../Page/2011년.md "wikilink") [5월 19일에](../Page/5월_19일.md "wikilink") 출시한 [안드로이드](../Page/안드로이드_\(운영_체제\).md "wikilink")[스마트폰](../Page/스마트폰.md "wikilink")이다.

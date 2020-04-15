@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [A-A ](https://ko.wikipedia.org/wiki/A-A_).
+> This article is converted from Wikipedia: [A-A 선](https://ko.wikipedia.org/wiki/A-A_선).
 
 
 **아르한겔스크-아스트라한 선**(){{\#tag:ref|아르한겔스크(Arkhangelsk)는 자주 영어로 아크안젤(Archangel, [대천사](../Page/대천사.md "wikilink"))로 직역된다.|group="nb"}}, 또는 A-A 선은 [바르바로사 작전](../Page/바르바로사_작전.md "wikilink") 당시 군사 목표 지점이었다. 또한 이 선은 **볼가-아르한겔스크 선**으로도 알려져 있으며,\[1\], 뿐만 아니라 더욱 드물게는 **볼가-아르한겔스크-아스트라한 선**으로도 알려져 있다.{{\#tag:ref|장교 교육 21호 사본을 보면, 실제로 이 단어를 전체 이름으로 사용한 것을 수 있다. *보통 선은 볼가-아르한겔스크 -A(판독 불가)*\[2\]|group="nb"}}\[3\] 이 선은 1940년 12월 18일 [히틀러 지침에서](https://ko.wikipedia.org/wiki/아돌프_히틀러_지침 "wikilink") 21일 바르바로사 작전시 독일 침략의 일련의 목표와 조건을 전반적으로 작성하면서 최종 군사 목적으로 볼가-아르한겔스크 라인을 설정하면서 처음 사용했다.\[4\]

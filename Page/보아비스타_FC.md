@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
+> This article is converted from Wikipedia: [보아비스타 FC](https://ko.wikipedia.org/wiki/보아비스타_FC).
 
 
 **보아비스타 FC**(Boavista Futebol Clube) 또는 **보아비스타**는 [포르투](../Page/포르투.md "wikilink")를 연고지로 하는 [포르투갈](../Page/포르투갈.md "wikilink")의 스포츠 클럽이다. 영국인 기업가와 포르투갈 직물 노동자들이 1903년 8월 1일에 세웠으며, 포르투갈, 그리고 포르투갈의 최상위 리그 [프리메이라리가](../Page/프리메이라리가.md "wikilink")에 참가 중인 팀 중 가장 오래된 팀 중 하나이다.

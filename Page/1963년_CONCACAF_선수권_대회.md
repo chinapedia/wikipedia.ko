@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [1963 CONCACAF  ](https://ko.wikipedia.org/wiki/1963_CONCACAF__).
+> This article is converted from Wikipedia: [1963년 CONCACAF 선수권 대회](https://ko.wikipedia.org/wiki/1963년_CONCACAF_선수권_대회).
 
 
 **1963년 CONCACAF 선수권 대회**는 [1963년](../Page/1963년.md "wikilink") [3월 23일부터](../Page/3월_23일.md "wikilink") [4월 7일까지](../Page/4월_7일.md "wikilink") [엘살바도르](../Page/엘살바도르.md "wikilink")에서 열린 1번째 [CONCACAF 선수권 대회이다](../Page/CONCACAF_선수권_대회.md "wikilink").

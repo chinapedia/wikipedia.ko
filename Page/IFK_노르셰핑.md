@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [IFK ](https://ko.wikipedia.org/wiki/IFK_).
+> This article is converted from Wikipedia: [IFK 노르셰핑](https://ko.wikipedia.org/wiki/IFK_노르셰핑).
 
 
 **IFK 노르셰핑**(IFK Norrköping)은 [1897년](../Page/1897년.md "wikilink") [5월 29일에](../Page/5월_29일.md "wikilink") 창단된 [스웨덴](../Page/스웨덴.md "wikilink") [노르셰핑](../Page/노르셰핑.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽으로, 현재 [알스벤스칸](../Page/알스벤스칸.md "wikilink")에서 활동하고 있다.

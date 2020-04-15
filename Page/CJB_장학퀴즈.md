@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [CJB ](https://ko.wikipedia.org/wiki/CJB_).
+> This article is converted from Wikipedia: [CJB 장학퀴즈](https://ko.wikipedia.org/wiki/CJB_장학퀴즈).
 
 
 《**CJB 장학퀴즈**》는 [CJB에서](../Page/청주방송.md "wikilink") 방송했던 [충청북도](https://ko.wikipedia.org/wiki/충청북도 "wikilink") 지역의 인재 양성 프로그램으로 고등학생을 대상으로 하는 퀴즈 프로그램이다. 방영시간은 매주 토요일 오전 10:55 \~ 11:50이다.

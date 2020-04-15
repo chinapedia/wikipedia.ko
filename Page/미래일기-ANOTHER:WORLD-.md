@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [-ANOTHER:WORLD-](https://ko.wikipedia.org/wiki/-ANOTHER:WORLD-).
+> This article is converted from Wikipedia: [미래일기-ANOTHER:WORLD-](https://ko.wikipedia.org/wiki/미래일기-ANOTHER:WORLD-).
 
 
 《미래일기-ANOTHER : WORLD-》()는 [에스노 사카에의](https://ko.wikipedia.org/wiki/에스노_사카에 "wikilink") 원작 만화 《[미래일기](../Page/미래일기.md "wikilink")》를 원작으로, [2012년](../Page/2012년.md "wikilink") [4월 21일부터](../Page/4월_21일.md "wikilink") [6월 30일까지](../Page/6월_30일.md "wikilink") [후지 TV에서](../Page/후지_TV.md "wikilink") 신설된 드라마 범위의 **토드라**(매주 토요일 11:10 - 11:55)의 제1탄으로 방송된 [텔레비전 드라마이다](https://ko.wikipedia.org/wiki/드라마 "wikilink"). 주연은 [오카다 마사키이다](../Page/오카다_마사키.md "wikilink"). 전 11화로, 평균 시청률 **6.6%**.

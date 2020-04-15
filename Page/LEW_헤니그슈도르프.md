@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [LEW ](https://ko.wikipedia.org/wiki/LEW_).
+> This article is converted from Wikipedia: [LEW 헤니그슈도르프](https://ko.wikipedia.org/wiki/LEW_헤니그슈도르프).
 
 
 **LEW 헤니그슈도르프**는 1910년 [AEG](https://ko.wikipedia.org/wiki/AEG "wikilink")가 세운 철도 차량 공장이었다. 1913년 첫 기관차가 생산되었으며, 1930년대에 아우구스트 보르지히 기관차 공장을 합병하여 Borsig Lokomotiv Werke GmbH로 개명하였다. 제2차 세계 대전 이후 [동독](../Page/동독.md "wikilink")에서 이 공장을 국유화하여 전기 기관차를 생산하였다. LEW는 Lokomotivbau-Elektrotechnische Werke의 줄임말이다. 1990년 독일 통일 이후 AEG에서 이 공장을 다시 인수하여 AEG Schienenfahrzeuge GmbH로 개명하였고, 1996년 모기업이 [ADtranz](https://ko.wikipedia.org/wiki/ADtranz "wikilink"), 2001년에는 봄바디어로 변경되었다. ADtranz에 소유권이 있었을 때 기관차 생산을 중단하였고, 현재 동차만 생산하고 있다.

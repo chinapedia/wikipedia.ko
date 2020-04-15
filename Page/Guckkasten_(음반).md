@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Guckkasten \(\)](https://ko.wikipedia.org/wiki/Guckkasten_\(\)).
+> This article is converted from Wikipedia: [Guckkasten \(음반\)](https://ko.wikipedia.org/wiki/Guckkasten_\(음반\)).
 
 
 《**Guckkasten**》은 2010년 4월 20일에 발표한 [국카스텐](../Page/국카스텐.md "wikilink")의 첫 정규 음반이다. 이 음반은 2009년도에 발표한 《[Guckkasten (Before Regular Album)](../Page/Guckkasten_\(Before_Regular_Album\).md "wikilink")》에 수록된 곡들을 스튜디오에서 재녹음하여 발매된 리레코딩 앨범(Re-recording Album)이다.

@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [BA ](https://ko.wikipedia.org/wiki/BA_).
+> This article is converted from Wikipedia: [BA 시티플라이어](https://ko.wikipedia.org/wiki/BA_시티플라이어).
 
 
-**BA 시티 플라이어** ()는 [영국](../Page/영국.md "wikilink")의 지역 항공사로 총 18개 노선을 취항하고 있다. 본사는 [영국](../Page/영국.md "wikilink") [맨체스터](../Page/맨체스터.md "wikilink")에 위치해 있으며 [2007년](../Page/2007년.md "wikilink")에 설립했다. 또한 사용하고 있는 [허브 공항으로](../Page/허브_공항.md "wikilink") [런던 시티 공항이](../Page/런던_시티_공항.md "wikilink") 있다.
+**BA 시티 플라이어**()는 [영국](../Page/영국.md "wikilink")의 지역 항공사로 총 18개 노선을 취항하고 있다. 본사는 [영국](../Page/영국.md "wikilink") [맨체스터](../Page/맨체스터.md "wikilink")에 위치해 있으며 [2007년](../Page/2007년.md "wikilink")에 설립했다. 또한 사용하고 있는 [허브 공항으로](../Page/허브_공항.md "wikilink") [런던 시티 공항이](../Page/런던_시티_공항.md "wikilink") 있다.
 
 ## 역사
 

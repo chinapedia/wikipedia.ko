@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ TRICK  ](https://ko.wikipedia.org/wiki/_TRICK__).
+> This article is converted from Wikipedia: [극장판 TRICK 영능력자 배틀로얄](https://ko.wikipedia.org/wiki/극장판_TRICK_영능력자_배틀로얄).
 
 
 《**극장판 TRICK 영능력자 배틀로얄**》()은 [2010년](../Page/2010년.md "wikilink") [5월 8일에](../Page/5월_8일.md "wikilink") 개봉한 [일본](../Page/일본.md "wikilink") [영화](../Page/영화.md "wikilink")이다.

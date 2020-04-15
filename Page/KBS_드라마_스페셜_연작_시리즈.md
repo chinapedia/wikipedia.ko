@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KBS    ](https://ko.wikipedia.org/wiki/KBS____).
+> This article is converted from Wikipedia: [KBS 드라마 스페셜 연작 시리즈](https://ko.wikipedia.org/wiki/KBS_드라마_스페셜_연작_시리즈).
 
 
 《**KBS 드라마 스페셜 연작 시리즈**》는 [한국방송공사](../Page/한국방송공사.md "wikilink")의 [텔레비전](../Page/텔레비전.md "wikilink") [드라마이다](../Page/텔레비전_드라마.md "wikilink"). 《[KBS 드라마 스페셜](https://ko.wikipedia.org/wiki/KBS_드라마_스페셜 "wikilink")》이 끝나면 후속작으로 마련되었는데 70분 내외로 다루기에 부족한 내용을 2부작 이상으로 다루어 완성도를 높였다.

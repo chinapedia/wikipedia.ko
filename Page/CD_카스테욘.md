@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [CD ](https://ko.wikipedia.org/wiki/CD_).
+> This article is converted from Wikipedia: [CD 카스테욘](https://ko.wikipedia.org/wiki/CD_카스테욘).
 
 
 **CD 카스테욘**(Club Deportivo Castellón, S.A.D.)은 [스페인](../Page/스페인.md "wikilink") [발렌시아 지방의](https://ko.wikipedia.org/wiki/발렌시아_지방 "wikilink") 도시인 [카스테욘데라플라나](https://ko.wikipedia.org/wiki/카스테욘데라플라나 "wikilink")를 연고로 하는 축구 클럽이다. 이 클럽은 [1922년](../Page/1922년.md "wikilink") [7월 22일에](../Page/7월_22일.md "wikilink") 창단되었으며 현재 [세군다 디비시온 B](https://ko.wikipedia.org/wiki/세군다_디비시온_B "wikilink") 3조에서 활동하고 있다.

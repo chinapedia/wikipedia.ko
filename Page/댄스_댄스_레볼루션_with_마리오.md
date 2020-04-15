@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [   with ](https://ko.wikipedia.org/wiki/___with_).
+> This article is converted from Wikipedia: [댄스 댄스 레볼루션 with 마리오](https://ko.wikipedia.org/wiki/댄스_댄스_레볼루션_with_마리오).
 
 
 《**댄스 댄스 레볼루션 with 마리오**》(Dance Dance Revolution with MARIO, ) 는 [코나미](../Page/코나미.md "wikilink")가 개발하고 [닌텐도](../Page/닌텐도.md "wikilink")를 통해 발매된 [게임큐브](https://ko.wikipedia.org/wiki/게임큐브 "wikilink") 전용 댄스 시뮬레이션 게임이다.

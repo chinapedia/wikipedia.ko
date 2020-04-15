@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [C ](https://ko.wikipedia.org/wiki/C_).
+> This article is converted from Wikipedia: [C 전처리기](https://ko.wikipedia.org/wiki/C_전처리기).
 
 
 [매크로는](../Page/매크로_\(컴퓨터_과학\).md "wikilink") 컴퍼일러에게 코드의 특성을 알려주는 [키워드](https://ko.wikipedia.org/wiki/키워드 "wikilink")이다. 따라서 기계어로 컴파일 과정에서 필요한 요소이고, 매크로 자체가 기계어 코드로 생성되지는 않지만 특정 코드를 제어하는데 사용한다.

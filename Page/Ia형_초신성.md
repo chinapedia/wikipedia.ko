@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Ia ](https://ko.wikipedia.org/wiki/Ia_).
+> This article is converted from Wikipedia: [Ia형 초신성](https://ko.wikipedia.org/wiki/Ia형_초신성).
 
 
 **1a형 초신성**(1a形超新星, )은 [초신성](../Page/초신성.md "wikilink")의 하위 범주로, [백색 왜성이](https://ko.wikipedia.org/wiki/백색_왜성 "wikilink") 격렬하게 폭발한 결과물이다. 백색 왜성이란 [핵융합](../Page/핵융합.md "wikilink")이 끝나 일반적인 삶의 주기가 종료된 [항성](https://ko.wikipedia.org/wiki/항성 "wikilink")의 잔해이다. 그런데 백색 왜성 중 온도가 높아지면 엄청난 양의 에너지를 방출하여 핵융합을 다시 시작할 수 있는 것이 있다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ABC ](https://ko.wikipedia.org/wiki/ABC_).
+> This article is converted from Wikipedia: [ABC 스튜디오](https://ko.wikipedia.org/wiki/ABC_스튜디오).
 
 
 **ABC 스튜디오**는 미국의 [텔레비전](../Page/텔레비전.md "wikilink") [드라마 제작](https://ko.wikipedia.org/wiki/영화_제작#제작 "wikilink") 회사로 디즈니-ABC 텔레비전 그룹의 자회사이다. 1985년 [터치스톤 텔레비전이란](https://ko.wikipedia.org/wiki/터치스톤_텔레비전 "wikilink") 이름으로 설립되었고 2007년 5월, 지금의 사명으로 개명되었다.

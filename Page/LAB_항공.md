@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [LAB ](https://ko.wikipedia.org/wiki/LAB_).
+> This article is converted from Wikipedia: [LAB 항공](https://ko.wikipedia.org/wiki/LAB_항공).
 
 
 **LAB 항공**(, 요이드 아에레오 볼리비아노)은 [1925년](../Page/1925년.md "wikilink")에 설립해 [2008년](../Page/2008년.md "wikilink")에 도산한 [볼리비아](../Page/볼리비아.md "wikilink")의 항공사로 [허브 공항은](../Page/허브_공항.md "wikilink") [비루비루 국제공항](../Page/비루비루_국제공항.md "wikilink"), [호르헤뉴 위르스테르만 국제공항이](https://ko.wikipedia.org/wiki/호르헤뉴_위르스테르만_국제공항 "wikilink") 있다.

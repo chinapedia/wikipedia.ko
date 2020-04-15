@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  :  ! B  !](https://ko.wikipedia.org/wiki/__:__!_B__!).
+> This article is converted from Wikipedia: [짱구는 못말려 극장판: 엄청 맛있어! B급 음식 서바이벌!](https://ko.wikipedia.org/wiki/짱구는_못말려_극장판:_엄청_맛있어!_B급_음식_서바이벌!).
 
 
 《**짱구는 못말려 극장판: 바카우맛\! B급 음식 서바이벌\!**》은 일본에서 [2013년](../Page/2013년.md "wikilink") [4월 20일에](../Page/4월_20일.md "wikilink") 개봉한 [크레용 신짱](https://ko.wikipedia.org/wiki/크레용_신짱 "wikilink")(한국명 : 짱구는 못말려)의 [애니메이션 영화](../Page/애니메이션_영화.md "wikilink") 시리즈의 제21부작이다. 대한민국에는 [대원미디어](../Page/대원미디어.md "wikilink")㈜에서 작품을 수입하여 [2014년](../Page/2014년.md "wikilink") [4월 3일에](../Page/4월_3일.md "wikilink") 《**짱구는 못말려 극장판：엄청 맛있어\! B급 음식 서바이벌\!**》이란 제목으로 극장 개봉을 하였다. 극장 상영은 현지화를 진행한 한국어 더빙으로 TV 애니메이션 더빙에 참여한 성우들이 그대로 참여한다. 그리고 국내에서는 "야키소바"라는 이름 대신 "볶음국수"라는 단어를 이용한다. 또한 오세홍 성우가 생애 마지막으로 녹음에 참여하였던 짱구 극장판이기도 하다.
@@ -9,7 +9,7 @@
 
 ## 줄거리
 
-카스카베 마을에서 열리고 있는 B급 미식가 축제에 가기로 한 카스카베 방위대. 그런데 축제장으로 가는 버스를 타기위해 정류장에 가던 도중 누군가에게 쫓기는 여자를 만났고 그녀는 은밀하게 아이들을 불러내 들고있던 항아리를 건네주며 안에 든 소스를 절대 흘리지 말고 B급 미식가 축제에서 야키소바를 만드는 켄한테 전해달라고 하고는 자신은 유유히 가버렸다. 카스카베 방위대는 급한대로 항아리를 들고 가던 길을 계속 가기는 했지만 항아리 무게는 5살짜리 아이들에겐 너무도 무거웠고 설상가상으로 버스를 잘못타는 바람에 이상한 곳으로 오고만다.
+카스카베 마을에서 열리고 있는 B급 미식가 축제에 가기로 한 카스카베 방위대. 그런데 축제장으로 가는 버스를 타기위해 정류장에 가던 도중 누군가에게 쫓기는 여자를 만났고 그녀는 은밀하게 아이들을 불러내 들고있던 항아리를 건네주며 안에 든 소스를 절대 흘리지 말고 B급 미식가 축제에서 야키소바를 만드는 켄한테 전해달라고 하고는 자신은 유유히 가버렸다. 카스카베 방위대는 급한대로 항아리를 들고 가던 길을 계속 가기는 했지만 항아리 무게는 5살짜리 아이들에겐 너무도 무거웠고 설상가상으로 버스를 잘못타는 바람에 이상한 곳으로 오고만다.심지어 [액션가면](https://ko.wikipedia.org/wiki/액션가면 "wikilink")까지도 광고를 찍었다.
 
 한편, B급 미식가 축제장에서는 심상찮은 일이 벌어지고 있었다. A급 음식기구의 보스 구루메포이가 B급 음식들을 '떨거지 음식' 취급하며 장사를 하고있던 상인들을 모두 내쫓아 버렸고 자신이 준비한 A급 음식을 차리기 시작한다. 여기에 '전설의 소스'만 있으면 완벽했다. 소스의 행방을 알아내기 위해 일차적으로 자신의 횡포에도 쉽게 물러서지 않는 켄의 연인 베니코를 잡아 캐물었지만 그녀도 소스를 가지고 있지 않았다. 그러다 소스를 찾아내기 위해 출동한 부하들에게서 '카스카베 방위대'라는 5살 꼬맹이들이 소스를 가지고 있다는 제보가 들어왔다.
 
@@ -102,11 +102,11 @@
 
 ## 우리말 더빙
 
-  - [신짱구](https://ko.wikipedia.org/wiki/신짱구 "wikilink") - [박영남](../Page/박영남.md "wikilink")
+  - [신짱구](../Page/신짱구.md "wikilink") - [박영남](../Page/박영남.md "wikilink")
   - [신형만](https://ko.wikipedia.org/wiki/신형만 "wikilink") - [오세홍](../Page/오세홍.md "wikilink")
-  - [봉미선](https://ko.wikipedia.org/wiki/봉미선 "wikilink") - [강희선](../Page/강희선.md "wikilink")
-  - [신짱아](https://ko.wikipedia.org/wiki/신짱아 "wikilink"), [철수](https://ko.wikipedia.org/wiki/철수 "wikilink") - [여민정](../Page/여민정_\(성우\).md "wikilink")
-  - [흰둥이](https://ko.wikipedia.org/wiki/흰둥이 "wikilink"), [유리](../Page/유리.md "wikilink") - [장경희](../Page/장경희_\(성우\).md "wikilink")
+  - [봉미선](../Page/봉미선.md "wikilink") - [강희선](../Page/강희선.md "wikilink")
+  - [신짱아](../Page/신짱아.md "wikilink"), [철수](https://ko.wikipedia.org/wiki/철수 "wikilink") - [여민정](../Page/여민정_\(성우\).md "wikilink")
+  - [흰둥이](../Page/흰둥이.md "wikilink"), [유리](../Page/유리.md "wikilink") - [장경희](../Page/장경희_\(성우\).md "wikilink")
   - [훈이](https://ko.wikipedia.org/wiki/훈이 "wikilink") - [정혜옥](../Page/정혜옥_\(성우\).md "wikilink")
   - [액션가면](https://ko.wikipedia.org/wiki/액션가면 "wikilink") - [현경수](../Page/현경수.md "wikilink")
   - 로열 황태자 - [이광수](../Page/이광수_\(성우\).md "wikilink")
@@ -136,4 +136,4 @@
 
   - [짱구는 못말려 극장판 21기 예고편](https://www.youtube.com/watch?feature=player_embedded&v=OIBFqObz4vo)
 
-[분류:2013년 애니메이션 영화](https://ko.wikipedia.org/wiki/분류:2013년_애니메이션_영화 "wikilink") [분류:일본어 영화 작품](https://ko.wikipedia.org/wiki/분류:일본어_영화_작품 "wikilink") [분류:짱구는 못말려 극장판](https://ko.wikipedia.org/wiki/분류:짱구는_못말려_극장판 "wikilink") [분류:일본의 영화 작품](https://ko.wikipedia.org/wiki/분류:일본의_영화_작품 "wikilink") [분류:롯데 엔터테인먼트 애니메이션 영화](https://ko.wikipedia.org/wiki/분류:롯데_엔터테인먼트_애니메이션_영화 "wikilink")
+[분류:2013년 애니메이션 영화](https://ko.wikipedia.org/wiki/분류:2013년_애니메이션_영화 "wikilink") [분류:일본어 영화 작품](https://ko.wikipedia.org/wiki/분류:일본어_영화_작품 "wikilink") [분류:짱구는 못말려 극장판](https://ko.wikipedia.org/wiki/분류:짱구는_못말려_극장판 "wikilink") [분류:일본의 애니메이션 영화](https://ko.wikipedia.org/wiki/분류:일본의_애니메이션_영화 "wikilink") [분류:롯데 엔터테인먼트 애니메이션 영화](https://ko.wikipedia.org/wiki/분류:롯데_엔터테인먼트_애니메이션_영화 "wikilink")

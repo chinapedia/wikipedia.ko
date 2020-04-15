@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TV](https://ko.wikipedia.org/wiki/TV).
+> This article is converted from Wikipedia: [TV조선](https://ko.wikipedia.org/wiki/TV조선).
 
 
 **TV CHOSUN**(TV朝鮮)은 대한민국의 종합편성채널로, 조선미디어그룹이 운영하는 텔레비전 채널이다.
@@ -338,6 +338,7 @@
 
   - [2011년](../Page/2011년.md "wikilink") [12월 1일](../Page/12월_1일.md "wikilink") : 개국 당일, 화면이 위, 아래 2개로 분할되어 나오는 블랙아웃 화면 상황이 몇 분 가량 있었다.\[7\]
   - [2012년](../Page/2012년.md "wikilink") [1월 23일](../Page/1월_23일.md "wikilink") : 오후 9시 40분부터 [김수현](https://ko.wikipedia.org/wiki/김수현 "wikilink") 작가의 설연휴 특집극 3부작 ['아버지가 미안하다'](https://ko.wikipedia.org/wiki/'아버지가_미안하다' "wikilink") 1부\~3부를 연달아 방영했다. 하지만 일부지역에서 2부 중반부터 3부 중반까지 화면이 검게 나오거나 소리가 나오다가 끊기는 현상이 발생하였고, 이에 방송사 측은 3부 중반에 가서야 사과문을 보내고 24일에 재방송을 한다는 자막을 내보냈다.
+  - [2020년](../Page/2020년.md "wikilink") [3월 6일](../Page/3월_6일.md "wikilink") : 1시 30분 경에 *내일은 미스터트롯* 결승전에서 진 (眞), 선 (善), 미 (美)를 발표할때 시청자 문자투표 수가 너무 많아 서버의 오류로 당장 생방송을 이어갈 수 없어서 2020년 3월 14일에 최종 진 (眞), 선 (善), 미 (美)를 발표했다.
 
 ## 각주
 

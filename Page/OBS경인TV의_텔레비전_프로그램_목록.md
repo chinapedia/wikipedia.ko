@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [OBSTV   ](https://ko.wikipedia.org/wiki/OBSTV___).
+> This article is converted from Wikipedia: [OBS경인TV의 텔레비전 프로그램 목록](https://ko.wikipedia.org/wiki/OBS경인TV의_텔레비전_프로그램_목록).
 
 
 __NOTOC__   다음은 **[OBS의](../Page/OBS경인TV.md "wikilink") 텔레비전 프로그램**을 가나다순으로 나열 및 정리한 것이다.
@@ -10,6 +10,10 @@ __NOTOC__   다음은 **[OBS의](../Page/OBS경인TV.md "wikilink") 텔레비전
   - 건강 버라이어티 락  (2008년 6월 30일 \~ 2009년)
 
   - 건강토크쇼 맘스닥터   (2014년 3월 14일 \~ 2014년 8월 1일)
+
+  - 경인 붐  (2016년 4월 25일 \~ 2018년 10월 24일)
+
+  - 경인버킷리스트 우리동네 한바퀴  (2018년 10월 30일 \~ )
 
   - 고교토론 판  (2011년 10월 8일 \~ 2013년 1월 6일)
 

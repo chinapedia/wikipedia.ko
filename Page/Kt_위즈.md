@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [Kt ](https://ko.wikipedia.org/wiki/Kt_).
+> This article is converted from Wikipedia: [Kt 위즈](https://ko.wikipedia.org/wiki/Kt_위즈).
 
 
-**kt 위즈**(kt wiz)\[1\]\[2\]는 [경기도](https://ko.wikipedia.org/wiki/경기도 "wikilink") [수원시](https://ko.wikipedia.org/wiki/수원시 "wikilink")를 연고지로 삼고 [KBO 리그에](https://ko.wikipedia.org/wiki/KBO_리그 "wikilink") 참가한 열 번째 구단이다. [KIA 타이거즈](https://ko.wikipedia.org/wiki/KIA_타이거즈 "wikilink"), [SK 와이번스](../Page/SK_와이번스.md "wikilink"), [LG 트윈스](../Page/LG_트윈스.md "wikilink"), [NC 다이노스](../Page/NC_다이노스.md "wikilink") 등 구단명이 영문으로 시작하는 구단들은 모두 대문자를 사용하는데 비해 소문자를 구단명으로 사용한다. [수원야구장](../Page/수원야구장.md "wikilink")의 시설을 25,000여 석으로 개량하여 홈경기장으로 사용하며, 향후 [2020년](../Page/2020년.md "wikilink")까지 서수원 나들목 인근 호매실 택지 개발지구(당수동)에 최신식 돔 구장을 건립할 예정이었으나 지지부진한 상황이다. [2013년](../Page/2013년.md "wikilink") 프로야구 신인 선수 지명회의를 통해 신인 선수를 수급하였으며, [2014년](../Page/2014년.md "wikilink") [KBO 퓨처스리그에](../Page/KBO_퓨처스리그.md "wikilink") 참여하고 [2015년](../Page/2015년.md "wikilink")부터 [KBO 리그에](https://ko.wikipedia.org/wiki/KBO_리그 "wikilink") 참가했다.
+**kt 위즈**(kt wiz)\[1\]\[2\]는 [경기도](https://ko.wikipedia.org/wiki/경기도 "wikilink") [수원시](https://ko.wikipedia.org/wiki/수원시 "wikilink")를 연고지로 삼고 [KBO 리그에](https://ko.wikipedia.org/wiki/KBO_리그 "wikilink") 참가한 열 번째 구단이다. [KIA 타이거즈](https://ko.wikipedia.org/wiki/KIA_타이거즈 "wikilink"), [SK 와이번스](../Page/SK_와이번스.md "wikilink"), [LG 트윈스](../Page/LG_트윈스.md "wikilink"), [NC 다이노스](../Page/NC_다이노스.md "wikilink") 등 구단명이 영문으로 시작하는 구단들은 모두 대문자를 사용하지만, kt 위즈는 소문자를 구단명으로 사용한다. [수원야구장](../Page/수원야구장.md "wikilink")을 25,000여 석으로 개량하여 홈경기장으로 사용하며, 향후 [2020년](../Page/2020년.md "wikilink")까지 서수원 나들목 인근 호매실 택지 개발지구(당수동)에 최신식 돔 구장을 건립할 예정이었으나 지지부진한 상황이다. [2013년](../Page/2013년.md "wikilink") 프로야구 신인 선수 지명회의를 통해 신인 선수를 수급하였으며, [2014년](../Page/2014년.md "wikilink") [한국야구퓨처스리그에](../Page/KBO_퓨처스리그.md "wikilink") 참여하고 [2015년](../Page/2015년.md "wikilink")부터 [KBO 리그에](https://ko.wikipedia.org/wiki/KBO_리그 "wikilink") 참가했다.
 
 ## 창단 과정
 
@@ -9,9 +9,9 @@
 
 [2012년](../Page/2012년.md "wikilink") 초부터 대한민국 프로야구계가 10번째 구단 창단을 시사하자, [KT](../Page/KT.md "wikilink")가 [수원시](https://ko.wikipedia.org/wiki/수원시 "wikilink")를 연고로 하는 10번째 프로야구단을 창단하겠다는 의사를 밝힌다. [수원시](https://ko.wikipedia.org/wiki/수원시 "wikilink")와 [KT](../Page/KT.md "wikilink") 연합은 [전주시](https://ko.wikipedia.org/wiki/전주시 "wikilink"), [완주군](../Page/완주군.md "wikilink"), [군산시](../Page/군산시.md "wikilink"), [익산시](../Page/익산시.md "wikilink")를 공동 연고지로 하는 [전라북도](https://ko.wikipedia.org/wiki/전라북도 "wikilink")-[부영](https://ko.wikipedia.org/wiki/부영 "wikilink")의 연합과 유치 경쟁을 했다. 수원-KT 연합과 전북-부영 연합은 [KBO가](https://ko.wikipedia.org/wiki/KBO_\(야구\) "wikilink") 별도로 구성한 평가위원회를 대상으로 프리젠테이션을 실시했고, 결국 [2013년](../Page/2013년.md "wikilink") [1월 11일](../Page/1월_11일.md "wikilink") 열린 이사회에서 사실상 [KT](../Page/KT.md "wikilink")와 [수원시](https://ko.wikipedia.org/wiki/수원시 "wikilink")의 연합이 10구단 운영 주체로 결정되었고, [2013년](../Page/2013년.md "wikilink") [1월 17일](../Page/1월_17일.md "wikilink") 구단주 총회에서 만장일치로 의결돼 본격적인 창단 과정에 나서게 됐다. 구단 가입금 및 예치금은 각각 30억 원 및 100억 원으로 9구단 [NC 다이노스와](../Page/NC_다이노스.md "wikilink") 동일하며 그 외 야구발전기금으로 200억원을 내기로 하였다.\[3\]
 
-공모전을 통해 [2013년](../Page/2013년.md "wikilink") [5월 7일](../Page/5월_7일.md "wikilink") 구단명을 **KT 위즈**로 확정지었다. 위즈(Wiz)는 ‘비상한 솜씨와 비범한 재능을 가진 사람, 달인’이란 의미를 담고 있으며, ‘마법사’를 뜻하는 영어 단어 ‘Wizard’(위자드)의 축약형이기도 하다. 대한민국 최초로 이니셜 로고가 2가지 버전으로 홈과 원정으로 구분 되고 캐릭터 마스코트 인형도 2마리 빅(Vic)과 또리(ttory)로 제작되었다.
+공모전을 통해 [2013년](../Page/2013년.md "wikilink") [5월 7일](../Page/5월_7일.md "wikilink") 구단명을 **kt 위즈**로 확정지었다. Wiz(위즈)는 ‘비상한 솜씨와 비범한 재능을 가진 사람, 달인’이란 의미를 담고 있으며, ‘마법사’를 뜻하는 영어 단어 ‘Wizard’(위자드)의 축약형이기도 하다. 대한민국 최초로 이니셜 로고가 2가지 버전으로 홈과 원정으로 구분 되고 캐릭터 마스코트 인형도 2마리 빅(Vic)과 또리(ttory)로 제작되었다.
 
-[2013년](../Page/2013년.md "wikilink") [8월 2일](../Page/8월_2일.md "wikilink"), 초대 감독으로 [KIA 타이거즈](https://ko.wikipedia.org/wiki/KIA_타이거즈 "wikilink") 감독 출신의 [조범현](../Page/조범현.md "wikilink")을 선임했다.\[4\] [2014년](../Page/2014년.md "wikilink") [퓨처스리그](https://ko.wikipedia.org/wiki/퓨처스리그 "wikilink") 북부리그에서 3위의 성적을 기록하였다. [2016년](../Page/2016년.md "wikilink") [10월 12일](../Page/10월_12일.md "wikilink") [조범현](../Page/조범현.md "wikilink") 감독과 재계약을 포기했다.\[5\] [2016년](../Page/2016년.md "wikilink") [10월 14일](../Page/10월_14일.md "wikilink") 2대 감독으로 전 [두산](../Page/두산_베어스.md "wikilink") 감독 [김진욱](../Page/김진욱.md "wikilink")을 선임했다.\[6\] [2018년](../Page/2018년.md "wikilink") [10월 18일](../Page/10월_18일.md "wikilink") [김진욱](../Page/김진욱.md "wikilink") 감독이 자진사퇴하였다.\[7\] [2018년](../Page/2018년.md "wikilink") [10월 20일](../Page/10월_20일.md "wikilink") 3대 감독으로 전 [두산](../Page/두산_베어스.md "wikilink") 코치 [이강철을](../Page/이강철_\(야구인\).md "wikilink") 선임했다.\[8\]
+[2013년](../Page/2013년.md "wikilink") [8월 2일](../Page/8월_2일.md "wikilink"), 초대 감독으로 [KIA 타이거즈](https://ko.wikipedia.org/wiki/KIA_타이거즈 "wikilink") 감독 출신의 [조범현](../Page/조범현.md "wikilink")을 선임했다.\[4\] [2014년](../Page/2014년.md "wikilink") [KBO 퓨처스리그](../Page/KBO_퓨처스리그.md "wikilink") 북부리그에서 3위의 성적을 기록하였다. [2016년](../Page/2016년.md "wikilink") [10월 12일](../Page/10월_12일.md "wikilink") [조범현](../Page/조범현.md "wikilink") 감독과 재계약을 포기했다.\[5\] [2016년](../Page/2016년.md "wikilink") [10월 14일](../Page/10월_14일.md "wikilink") 2대 감독으로 전 [두산](../Page/두산_베어스.md "wikilink") 감독 [김진욱](../Page/김진욱.md "wikilink")을 선임했다.\[6\] [2018년](../Page/2018년.md "wikilink") [10월 18일](../Page/10월_18일.md "wikilink") [김진욱](../Page/김진욱.md "wikilink") 감독이 성적 부진을 이유로 자진사퇴하였다.\[7\] [2018년](../Page/2018년.md "wikilink") [10월 20일](../Page/10월_20일.md "wikilink") 3대 감독으로 전 [두산](../Page/두산_베어스.md "wikilink") 코치 [이강철을](../Page/이강철_\(야구인\).md "wikilink") 선임했다.이강철 감독은 부임 첫시즌 만년 하위권이었던 kt를 가을야구 경쟁에 참여시켜 [강철매직](https://ko.wikipedia.org/wiki/강철매직 "wikilink") 이라고도 불렸다.\[8\]
 
 ## 키워드
 
@@ -23,25 +23,25 @@
 
 ### 투수 기록
 
-| 기록       | 일시                                                                          | 성명                                         | 장소                                | 상대                                                     | 비고                   |
-| -------- | --------------------------------------------------------------------------- | ------------------------------------------ | --------------------------------- | ------------------------------------------------------ | -------------------- |
-| 최초 선발    | [2015년](../Page/2015년.md "wikilink") [3월 28일](../Page/3월_28일.md "wikilink") | [필 어윈](../Page/필_어윈.md "wikilink")         | [사직](../Page/사직야구장.md "wikilink") | [롯데](https://ko.wikipedia.org/wiki/롯데자이언츠 "wikilink")  |                      |
-| 최초 삼진    | [2015년](../Page/2015년.md "wikilink") [3월 28일](../Page/3월_28일.md "wikilink") | [필 어윈](../Page/필_어윈.md "wikilink")         | [사직](../Page/사직야구장.md "wikilink") | [롯데](https://ko.wikipedia.org/wiki/롯데자이언츠 "wikilink")  |                      |
-| 최초 승리    | [2015년](../Page/2015년.md "wikilink") [4월 11일](../Page/4월_11일.md "wikilink") | [크리스 옥스프링](../Page/크리스_옥스프링.md "wikilink") | [목동](../Page/목동야구장.md "wikilink") | [넥센](https://ko.wikipedia.org/wiki/넥센_히어로즈 "wikilink") |                      |
-| 국내선수 첫승리 | [2015년](../Page/2015년.md "wikilink") [4월 12일](../Page/4월_12일.md "wikilink") | [최원재](../Page/최원재.md "wikilink")           | [목동](../Page/목동야구장.md "wikilink") | [넥센](https://ko.wikipedia.org/wiki/넥센_히어로즈 "wikilink") |                      |
-| 최초 세이브   | [2015년](../Page/2015년.md "wikilink") [4월 12일](../Page/4월_12일.md "wikilink") | [장시환](../Page/장시환.md "wikilink")           | [목동](../Page/목동야구장.md "wikilink") | [넥센](https://ko.wikipedia.org/wiki/넥센_히어로즈 "wikilink") |                      |
-| 최초 완봉승   | [2016년](../Page/2016년.md "wikilink") [5월 27일](../Page/5월_27일.md "wikilink") | [주권](../Page/주권_\(야구_선수\).md "wikilink")   | [수원](../Page/수원야구장.md "wikilink") | [넥센](https://ko.wikipedia.org/wiki/넥센_히어로즈 "wikilink") | KBO 리그 사상 첫 무사사구 완봉승 |
+| 기록       | 일시                                                                          | 성명                                         | 장소                                | 상대                                  | 비고                   |
+| -------- | --------------------------------------------------------------------------- | ------------------------------------------ | --------------------------------- | ----------------------------------- | -------------------- |
+| 최초 선발    | [2015년](../Page/2015년.md "wikilink") [3월 28일](../Page/3월_28일.md "wikilink") | [필 어윈](../Page/필_어윈.md "wikilink")         | [사직](../Page/사직야구장.md "wikilink") | [롯데](../Page/롯데_자이언츠.md "wikilink") |                      |
+| 최초 삼진    | [2015년](../Page/2015년.md "wikilink") [3월 28일](../Page/3월_28일.md "wikilink") | [필 어윈](../Page/필_어윈.md "wikilink")         | [사직](../Page/사직야구장.md "wikilink") | [롯데](../Page/롯데_자이언츠.md "wikilink") |                      |
+| 최초 승리    | [2015년](../Page/2015년.md "wikilink") [4월 11일](../Page/4월_11일.md "wikilink") | [크리스 옥스프링](../Page/크리스_옥스프링.md "wikilink") | [목동](../Page/목동야구장.md "wikilink") | [넥센](../Page/키움_히어로즈.md "wikilink") |                      |
+| 국내선수 첫승리 | [2015년](../Page/2015년.md "wikilink") [4월 12일](../Page/4월_12일.md "wikilink") | [최원재](../Page/최원재.md "wikilink")           | [목동](../Page/목동야구장.md "wikilink") | [넥센](../Page/키움_히어로즈.md "wikilink") |                      |
+| 최초 세이브   | [2015년](../Page/2015년.md "wikilink") [4월 12일](../Page/4월_12일.md "wikilink") | [장시환](../Page/장시환.md "wikilink")           | [목동](../Page/목동야구장.md "wikilink") | [넥센](../Page/키움_히어로즈.md "wikilink") |                      |
+| 최초 완봉승   | [2016년](../Page/2016년.md "wikilink") [5월 27일](../Page/5월_27일.md "wikilink") | [주권](../Page/주권_\(야구_선수\).md "wikilink")   | [수원](../Page/수원야구장.md "wikilink") | [넥센](../Page/키움_히어로즈.md "wikilink") | KBO 리그 사상 첫 무사사구 완봉승 |
 
 ### 타자 기록
 
 | 기록           | 일시                                                                          | 성명                                                  | 장소                                                           | 상대                                                       | 비고                                      |
 | ------------ | --------------------------------------------------------------------------- | --------------------------------------------------- | ------------------------------------------------------------ | -------------------------------------------------------- | --------------------------------------- |
-| 최초 안타        | [2015년](../Page/2015년.md "wikilink") [3월 28일](../Page/3월_28일.md "wikilink") | [이대형](../Page/이대형.md "wikilink")                    | [사직](../Page/사직야구장.md "wikilink")                            | [롯데](https://ko.wikipedia.org/wiki/롯데자이언츠 "wikilink")    |                                         |
-| 최초 타점        | [2015년](../Page/2015년.md "wikilink") [3월 28일](../Page/3월_28일.md "wikilink") | [김상현](../Page/김상현_\(1980년\).md "wikilink")          | [사직](../Page/사직야구장.md "wikilink")                            | [롯데](https://ko.wikipedia.org/wiki/롯데자이언츠 "wikilink")    |                                         |
-| 최초 득점        | [2015년](../Page/2015년.md "wikilink") [3월 28일](../Page/3월_28일.md "wikilink") | [이대형](../Page/이대형.md "wikilink")                    | [사직](../Page/사직야구장.md "wikilink")                            | [롯데](https://ko.wikipedia.org/wiki/롯데자이언츠 "wikilink")    |                                         |
-| 최초 홈런        | [2015년](../Page/2015년.md "wikilink") [3월 28일](../Page/3월_28일.md "wikilink") | [김상현](../Page/김상현_\(1980년\).md "wikilink")          | [사직](../Page/사직야구장.md "wikilink")                            | [롯데](https://ko.wikipedia.org/wiki/롯데자이언츠 "wikilink")    |                                         |
+| 최초 안타        | [2015년](../Page/2015년.md "wikilink") [3월 28일](../Page/3월_28일.md "wikilink") | [이대형](../Page/이대형.md "wikilink")                    | [사직](../Page/사직야구장.md "wikilink")                            | [롯데](../Page/롯데_자이언츠.md "wikilink")                      |                                         |
+| 최초 타점        | [2015년](../Page/2015년.md "wikilink") [3월 28일](../Page/3월_28일.md "wikilink") | [김상현](../Page/김상현_\(1980년\).md "wikilink")          | [사직](../Page/사직야구장.md "wikilink")                            | [롯데](../Page/롯데_자이언츠.md "wikilink")                      |                                         |
+| 최초 득점        | [2015년](../Page/2015년.md "wikilink") [3월 28일](../Page/3월_28일.md "wikilink") | [이대형](../Page/이대형.md "wikilink")                    | [사직](../Page/사직야구장.md "wikilink")                            | [롯데](../Page/롯데_자이언츠.md "wikilink")                      |                                         |
+| 최초 홈런        | [2015년](../Page/2015년.md "wikilink") [3월 28일](../Page/3월_28일.md "wikilink") | [김상현](../Page/김상현_\(1980년\).md "wikilink")          | [사직](../Page/사직야구장.md "wikilink")                            | [롯데](../Page/롯데_자이언츠.md "wikilink")                      |                                         |
 | 첫 만루홈런       | [2015년](../Page/2015년.md "wikilink") [5월 6일](../Page/5월_6일.md "wikilink")   | [용덕한](../Page/용덕한.md "wikilink")\[9\]               | [대전](../Page/한밭종합운동장_야구장.md "wikilink")                      | [한화](../Page/한화_이글스.md "wikilink")                       | 생애 첫 만루홈런                               |
-| 최초 볼넷        | [2015년](../Page/2015년.md "wikilink") [3월 28일](../Page/3월_28일.md "wikilink") | [박기혁](../Page/박기혁.md "wikilink")                    | [사직](../Page/사직야구장.md "wikilink")                            | [롯데](https://ko.wikipedia.org/wiki/롯데자이언츠 "wikilink")    |                                         |
+| 최초 볼넷        | [2015년](../Page/2015년.md "wikilink") [3월 28일](../Page/3월_28일.md "wikilink") | [박기혁](../Page/박기혁.md "wikilink")                    | [사직](../Page/사직야구장.md "wikilink")                            | [롯데](../Page/롯데_자이언츠.md "wikilink")                      |                                         |
 | 최초 3루타       | [2015년](../Page/2015년.md "wikilink") [4월 3일](../Page/4월_3일.md "wikilink")   | [김지열](../Page/김지열.md "wikilink")                    | [수원](../Page/수원야구장.md "wikilink")                            | [KIA](https://ko.wikipedia.org/wiki/KIA_타이거즈 "wikilink") |                                         |
 | 한 경기 최다 득점   | [2017년](../Page/2017년.md "wikilink") [10월 1일](../Page/10월_1일.md "wikilink") |                                                     | [수원](../Page/수원야구장.md "wikilink")                            | [KIA](https://ko.wikipedia.org/wiki/KIA_타이거즈 "wikilink") | 20 : 2                                  |
 | 한 이닝 최다 득점   | [2017년](../Page/2017년.md "wikilink") [10월 1일](../Page/10월_1일.md "wikilink") |                                                     | [수원](../Page/수원야구장.md "wikilink")                            | [KIA](https://ko.wikipedia.org/wiki/KIA_타이거즈 "wikilink") | 7회말 kt 12득점                             |
@@ -178,6 +178,8 @@
 </tbody>
 </table>
 
+### 역대 선수
+
 ### 역대 주장
 
 | 순서 | 이름                                         | 재임 기간          | 참고                                                     |
@@ -190,70 +192,6 @@
 |    |                                            |                |                                                        |
 
 ### 역대 외국인 선수
-
-  - 2014 시즌
-
-<!-- end list -->
-
-  - [마이크 로리](../Page/마이크_로리.md "wikilink") (투수)
-  - [앤드루 시스코](../Page/앤드루_시스코.md "wikilink") (투수)
-
-<!-- end list -->
-
-  - 2015 시즌
-
-<!-- end list -->
-
-  - [앤드루 시스코](../Page/앤드루_시스코.md "wikilink") (투수, 시즌 중 방출)
-  - [앤디 마르테](../Page/앤디_마르테.md "wikilink") (내야수)
-  - [필 어윈](../Page/필_어윈.md "wikilink") (투수, 시즌 중 방출)
-  - [크리스 옥스프링](../Page/크리스_옥스프링.md "wikilink") (투수)
-  - [댄 블랙](../Page/댄_블랙.md "wikilink") (내야수, [앤드루 시스코](../Page/앤드루_시스코.md "wikilink") 방출 후 대체 영입)
-  - [저스틴 저마노](../Page/저스틴_저마노.md "wikilink") (투수, [필 어윈](../Page/필_어윈.md "wikilink") 방출 후 대체 영입)
-
-<!-- end list -->
-
-  - 2016 시즌
-
-<!-- end list -->
-
-  - [슈가 마리몬](../Page/슈가_마리몬.md "wikilink") (투수, 시즌 중 방출)
-  - [앤디 마르테](../Page/앤디_마르테.md "wikilink") (내야수, 시즌 종료 후 사망)
-  - [요한 피노](../Page/요한_피노.md "wikilink") (투수, 시즌 중 방출)
-  - [트래비스 밴와트](../Page/트래비스_밴와트.md "wikilink") (투수)
-  - [조쉬 로위](../Page/조쉬_로위.md "wikilink") (투수, [슈가 마리몬](../Page/슈가_마리몬.md "wikilink") 방출 후 대체 영입)
-  - [라이언 피어밴드](../Page/라이언_피어밴드.md "wikilink") (투수, [키움 히어로즈에서](../Page/키움_히어로즈.md "wikilink") 시즌 중 방출, [요한 피노](../Page/요한_피노.md "wikilink") 방출 후 대체 영입)
-
-<!-- end list -->
-
-  - 2017 시즌
-
-<!-- end list -->
-
-  - [돈 로치](../Page/돈_로치.md "wikilink") (투수)
-  - [라이언 피어밴드](../Page/라이언_피어밴드.md "wikilink") (투수)
-  - [조니 모넬](../Page/조니_모넬.md "wikilink") (내야수, 시즌 중 방출)
-  - [멜 로하스 주니어](../Page/멜_로하스_주니어.md "wikilink") (외야수)
-
-<!-- end list -->
-
-  - 2018 시즌
-
-<!-- end list -->
-
-  - [라이언 피어밴드](../Page/라이언_피어밴드.md "wikilink") (투수) (재계약 확정)
-  - [멜 로하스 주니어](../Page/멜_로하스_주니어.md "wikilink") (외야수) (재계약 확정)
-  - [더스틴 니퍼트](../Page/더스틴_니퍼트.md "wikilink") (투수) (100만달러 신규 계약)
-
-<!-- end list -->
-
-  - 2019 시즌
-
-<!-- end list -->
-
-  - [라울 알칸타라](../Page/라울_알칸타라.md "wikilink") (투수)
-  - [윌리엄 쿠에바스](../Page/윌리엄_쿠에바스.md "wikilink") (투수)
-  - [멜 로하스 주니어](../Page/멜_로하스_주니어.md "wikilink") (외야수)
 
 ### 1차 지명 지역 연고
 

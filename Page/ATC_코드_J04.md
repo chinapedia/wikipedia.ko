@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ATC  J04](https://ko.wikipedia.org/wiki/ATC__J04).
+> This article is converted from Wikipedia: [ATC 코드 J04](https://ko.wikipedia.org/wiki/ATC_코드_J04).
 
 
 **ATC 코드 J04**는 [ATC 코드에](https://ko.wikipedia.org/wiki/ATC_코드 "wikilink") 따른 항마이코박테리아제로 사용되는 약물을 정리한 코드이다. \[1\] **ATC 코드** J 전신작용 항감염제의 하위그룹을 이룬다.

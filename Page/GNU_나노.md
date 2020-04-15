@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [GNU ](https://ko.wikipedia.org/wiki/GNU_).
+> This article is converted from Wikipedia: [GNU 나노](https://ko.wikipedia.org/wiki/GNU_나노).
 
 
 **나노**(nano)는 [유닉스 계열](../Page/유닉스_계열.md "wikilink") 컴퓨팅 시스템이나 명령 줄 인터페이스를 사용하는 운영 환경을 위한 [문서 편집기이다](../Page/문서_편집기.md "wikilink"). [파인](https://ko.wikipedia.org/wiki/파인 "wikilink") 전자메일 클라이언트의 일부인 [피코](https://ko.wikipedia.org/wiki/피코_\(문서_편집기\) "wikilink") 문서 편집기를 가상으로 구현하며 부가 기능도 제공한다.\[1\] 피코와는 달리 나노는 [GNU 일반 공중 사용 허가서](../Page/GNU_일반_공중_사용_허가서.md "wikilink")(GPL) 라이선스로 배포된다. 1999년 크리스 알레그레타가 [자유 소프트웨어로](../Page/자유_소프트웨어.md "wikilink") 출시한 나노는 오늘날 [GNU 프로젝트의](../Page/GNU_프로젝트.md "wikilink") 일부로 되어 있다.

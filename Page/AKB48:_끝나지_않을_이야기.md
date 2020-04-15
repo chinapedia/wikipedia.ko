@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [AKB48:   ](https://ko.wikipedia.org/wiki/AKB48:___).
+> This article is converted from Wikipedia: [AKB48: 끝나지 않을 이야기](https://ko.wikipedia.org/wiki/AKB48:_끝나지_않을_이야기).
 
 
 《**AKB48: 끝나지 않을 이야기**》 ()는 [2011년](../Page/2011년.md "wikilink") [1월 22일에](../Page/1월_22일.md "wikilink") 개봉된 [일본](../Page/일본.md "wikilink")의 [다큐멘터리 영화이다](../Page/다큐멘터리_영화.md "wikilink"). [캐치프레이즈](https://ko.wikipedia.org/wiki/캐치프레이즈 "wikilink")는 〈AKB48의 현재 그리고 미래를 그린 다큐멘터리가 지금 당신 곁으로\!〉. [대한민국](../Page/대한민국.md "wikilink")에는 2011년 [제15회 부천국제판타스틱영화제에서](https://ko.wikipedia.org/wiki/제15회_부천국제판타스틱영화제 "wikilink") 상영됐다.

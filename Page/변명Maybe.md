@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Maybe](https://ko.wikipedia.org/wiki/Maybe).
+> This article is converted from Wikipedia: [변명Maybe](https://ko.wikipedia.org/wiki/변명Maybe).
 
 
 〈**변명 Maybe**〉 ()는 [일본](../Page/일본.md "wikilink")의 [아이돌](https://ko.wikipedia.org/wiki/아이돌 "wikilink") [AKB48](../Page/AKB48.md "wikilink")의 메이저 13번째 싱글이다. 2009년 8월 26일에 발매됐다.

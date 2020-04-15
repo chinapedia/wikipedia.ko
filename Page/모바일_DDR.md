@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ DDR](https://ko.wikipedia.org/wiki/_DDR).
+> This article is converted from Wikipedia: [모바일 DDR](https://ko.wikipedia.org/wiki/모바일_DDR).
 
 
 **모바일 DDR** (**mDDR**, **Low Power DDR**, 간단히 **LPDDR**)은 [이동식 컴퓨터를](https://ko.wikipedia.org/wiki/이동식_컴퓨터 "wikilink") 위해 개발된 저전력의 [DDR](https://ko.wikipedia.org/wiki/더블_데이터_레이트 "wikilink") [SDRAM](../Page/SDRAM.md "wikilink") 인터페이스이다.

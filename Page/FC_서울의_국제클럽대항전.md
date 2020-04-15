@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FC  ](https://ko.wikipedia.org/wiki/FC__).
+> This article is converted from Wikipedia: [FC 서울의 국제클럽대항전](https://ko.wikipedia.org/wiki/FC_서울의_국제클럽대항전).
 
 
 [FC 서울이](https://ko.wikipedia.org/wiki/FC_서울 "wikilink") 출전한 역대 국제 클럽 대항전에 관한 문서이다.

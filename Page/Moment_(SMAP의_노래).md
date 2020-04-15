@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Moment \(SMAP \)](https://ko.wikipedia.org/wiki/Moment_\(SMAP_\)).
+> This article is converted from Wikipedia: [Moment \(SMAP의 노래\)](https://ko.wikipedia.org/wiki/Moment_\(SMAP의_노래\)).
 
 
 〈**Moment**〉는 [SMAP](../Page/SMAP.md "wikilink")의 48번째 싱글이다. [2012년](../Page/2012년.md "wikilink") [8월 1일에](../Page/8월_1일.md "wikilink") [빅터 엔터테인먼트에서](https://ko.wikipedia.org/wiki/빅터_엔터테인먼트 "wikilink") 발매되었다.
@@ -19,7 +19,7 @@
     <!-- end list -->
       -
         [TBS](https://ko.wikipedia.org/wiki/TBS "wikilink") 《[런던 올림픽](https://ko.wikipedia.org/wiki/런던_올림픽 "wikilink") 2012》 테마 송
-2.  **손을 잡자** ()
+2.  **손을 잡자**()
       - 작사·작곡 : 마에야마다 켄이치 / 편곡 : 시미즈 토시야
 3.  Moment (back track)
 4.  손을 잡자 (back track)

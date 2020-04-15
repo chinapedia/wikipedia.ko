@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:WWE](https://ko.wikipedia.org/wiki/:WWE).
+> This article is converted from Wikipedia: [틀:WWE](https://ko.wikipedia.org/wiki/틀:WWE).
 
 
 <onlyinclude></onlyinclude>

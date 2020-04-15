@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ E. ](https://ko.wikipedia.org/wiki/_E._).
+> This article is converted from Wikipedia: [폴 E. 제이컵스](https://ko.wikipedia.org/wiki/폴_E._제이컵스).
 
 
 **폴 E. 제이컵스**(Paul E. Jacobs)는 현재 [퀄컴](../Page/퀄컴.md "wikilink")의 [최고 경영자](https://ko.wikipedia.org/wiki/최고_경영자 "wikilink")(CEO)이다. 퀄컴의 창업자인 [어윈 M. 제이콥스의](https://ko.wikipedia.org/wiki/어윈_M._제이콥스 "wikilink") 셋째 아들이다.

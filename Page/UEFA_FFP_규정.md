@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [UEFA FFP ](https://ko.wikipedia.org/wiki/UEFA_FFP_).
+> This article is converted from Wikipedia: [UEFA FFP 규정](https://ko.wikipedia.org/wiki/UEFA_FFP_규정).
 
 
 **UEFA FFP 규정**() 또는 **재정적 페어플레이 규정**\[1\], **UEFA 파이낸셜 룰**은 구단이 자신들의 수익에 맞춰 운영하지 않을 경우 [유럽 축구 연맹](../Page/유럽_축구_연맹.md "wikilink")(UEFA) 주관 대회에 출전하지 못하게 하는 규칙이다. 즉, 유럽의 각 구단과 클럽은 지출이 수익보다 많아서는 안 되며 구단주의 사적인 자금을 제한해 구단의 부실 경영을 막겠다는 UEFA의 정책이다.

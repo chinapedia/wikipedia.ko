@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [LG  2X](https://ko.wikipedia.org/wiki/LG__2X).
+> This article is converted from Wikipedia: [LG 옵티머스 2X](https://ko.wikipedia.org/wiki/LG_옵티머스_2X).
 
 
 **LG 옵티머스 2X**()는 [LG전자](../Page/LG전자.md "wikilink")에서 [2011년](../Page/2011년.md "wikilink") [1월 25일에](../Page/1월_25일.md "wikilink") 출시한 [안드로이드](../Page/안드로이드_\(운영_체제\).md "wikilink") [스마트폰](../Page/스마트폰.md "wikilink")이다.\[1\]

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ P. ](https://ko.wikipedia.org/wiki/_P._).
+> This article is converted from Wikipedia: [리바이 P. 모턴](https://ko.wikipedia.org/wiki/리바이_P._모턴).
 
 
 **리바이 파슨스 모턴**(, [1824년](../Page/1824년.md "wikilink") [5월 16일](../Page/5월_16일.md "wikilink") \~ [1920년](../Page/1920년.md "wikilink") [5월 16일](../Page/5월_16일.md "wikilink"))은 [미국](../Page/미국.md "wikilink")의 제22대 부통령이다.그는 [1889년](../Page/1889년.md "wikilink")부터 [1893년](../Page/1893년.md "wikilink")까지 부통령이었다.

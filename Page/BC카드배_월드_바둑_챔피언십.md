@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [BC   ](https://ko.wikipedia.org/wiki/BC___).
+> This article is converted from Wikipedia: [BC카드배 월드 바둑 챔피언십](https://ko.wikipedia.org/wiki/BC카드배_월드_바둑_챔피언십).
 
 
 **BC카드배 월드 바둑 챔피언십**(), 약칭 **BC카드배**는 [한국기원](../Page/한국기원.md "wikilink")이 주최하는 국제 기전이다. [BC카드](https://ko.wikipedia.org/wiki/BC카드 "wikilink")사의 협찬을 받는다. 2012년 제4회 결승을 마지막으로 잠정 중단되었다.

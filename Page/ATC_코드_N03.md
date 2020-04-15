@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ATC  N03](https://ko.wikipedia.org/wiki/ATC__N03).
+> This article is converted from Wikipedia: [ATC 코드 N03](https://ko.wikipedia.org/wiki/ATC_코드_N03).
 
 
 **ATC 코드 N03**은 [ATC 코드의](https://ko.wikipedia.org/wiki/ATC_코드 "wikilink") 뇌전증 치료제로 작용하는 약물을 정리한 코드이다. \[1\] **ATC 코드** N 신경계의 하위그룹을 이룬다.

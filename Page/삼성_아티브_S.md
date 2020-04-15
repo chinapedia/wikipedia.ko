@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  S](https://ko.wikipedia.org/wiki/__S).
+> This article is converted from Wikipedia: [삼성 아티브 S](https://ko.wikipedia.org/wiki/삼성_아티브_S).
 
 
 **삼성 아티브 S**(Samsung ATIV S)는 [삼성전자](https://ko.wikipedia.org/wiki/삼성전자 "wikilink")에서 [2012년](../Page/2012년.md "wikilink") [8월 29일](../Page/8월_29일.md "wikilink") [런던](../Page/런던.md "wikilink")에서 개최된 삼성 모바일 언팩행사에서 발표하여, [2012년](../Page/2012년.md "wikilink") [12월 14일에](../Page/12월_14일.md "wikilink") 출시한 [윈도 폰](https://ko.wikipedia.org/wiki/윈도_폰 "wikilink") [스마트폰](../Page/스마트폰.md "wikilink")이다.
@@ -35,6 +35,6 @@
   - [삼성 갤럭시 S III](../Page/삼성_갤럭시_S_III.md "wikilink")
   - [삼성 아티브 오디세이](https://ko.wikipedia.org/wiki/삼성_아티브_오디세이 "wikilink")
 
-[분류:2012년 출시](https://ko.wikipedia.org/wiki/분류:2012년_출시 "wikilink") [분류:윈도우 폰 장치](https://ko.wikipedia.org/wiki/분류:윈도우_폰_장치 "wikilink") [아티브 S](https://ko.wikipedia.org/wiki/분류:삼성_휴대_전화기 "wikilink") [아티브 S](https://ko.wikipedia.org/wiki/분류:삼성전자의_스마트폰 "wikilink") [분류:스마트폰](https://ko.wikipedia.org/wiki/분류:스마트폰 "wikilink")
+[분류:2012년 출시](https://ko.wikipedia.org/wiki/분류:2012년_출시 "wikilink") [분류:윈도우 폰 장치](https://ko.wikipedia.org/wiki/분류:윈도우_폰_장치 "wikilink") [아티브 S](https://ko.wikipedia.org/wiki/분류:삼성_휴대_전화기 "wikilink") [아티브 S](https://ko.wikipedia.org/wiki/분류:삼성전자의_스마트폰 "wikilink") [분류:스마트폰](https://ko.wikipedia.org/wiki/분류:스마트폰 "wikilink") [분류:화상 통화](https://ko.wikipedia.org/wiki/분류:화상_통화 "wikilink")
 
 [de:Samsung Ativ\#Ativ S](https://ko.wikipedia.org/wiki/de:Samsung_Ativ#Ativ_S "wikilink")

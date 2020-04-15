@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ CC](https://ko.wikipedia.org/wiki/_CC).
+> This article is converted from Wikipedia: [폭스바겐 CC](https://ko.wikipedia.org/wiki/폭스바겐_CC).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:VW_Passat_CC_R-Line_–_Frontansicht,_7._April_2011,_Velbert.jpg "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:VW_Passat_CC_R-Line_–_Heckansicht,_7._April_2011,_Velbert.jpg "wikilink")

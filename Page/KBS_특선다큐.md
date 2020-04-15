@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KBS ](https://ko.wikipedia.org/wiki/KBS_).
+> This article is converted from Wikipedia: [KBS 특선다큐](https://ko.wikipedia.org/wiki/KBS_특선다큐).
 
 
 **KBS 특선다큐**는 매주 [목요일](../Page/목요일.md "wikilink") 밤 11시 40분에 [KBS 1TV로](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink") 방송되었던 [다큐멘터리 텔레비전 프로그램이다](../Page/다큐멘터리_텔레비전_프로그램.md "wikilink").

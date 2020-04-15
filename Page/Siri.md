@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Siri](https://ko.wikipedia.org/wiki/Siri).
 
 
-**Siri**(시리)는 [iOS](https://ko.wikipedia.org/wiki/iOS "wikilink")용 개인 단말 응용 소프트웨어이며, 질문에 답변하고, 권고하며, 동작을 실행하는 [자연어 처리를](../Page/자연어_처리.md "wikilink") 이용한다. 원래 시작은 [미국 국방부의](../Page/미국_국방부.md "wikilink") [DARPA](https://ko.wikipedia.org/wiki/DARPA "wikilink")에서 진행한 일종의 인공지능프로그램개발 프로젝트였던 Personalized Assistant that Learns (PAL)의 기능중 하나인 Cognitive Assistant that Learns and Organizes (CALO) 였다. 실제로 PAL은 미국 국방부의 CPOF라는 시스템에 성공적으로 접목이 되었고, 이에 고무받은 개발자 [노만 위나스키는](https://ko.wikipedia.org/wiki/노만_위나스키 "wikilink") [SRI 인터내셔널을](https://ko.wikipedia.org/wiki/SRI_인터내셔널 "wikilink") 설립을 하였고, 이를 [2010년](../Page/2010년.md "wikilink") [4월 28일에](../Page/4월_28일.md "wikilink") [애플이](https://ko.wikipedia.org/wiki/애플_\(기업\) "wikilink") 인수하여 애플이 소유하였다.\[1\] 원래는 이 소프트웨어가 블랙베리와 안드로이드 폰에도 사용할 수 있을 것이라 발표하였으나 애플의 인수 이후 비 애플 플랫폼에 대한 개발은 모두 취소되었다.\[2\]
+**Siri**(시리)는 [iO에스용](https://ko.wikipedia.org/wiki/iOS "wikilink") 개인 단말 응용 소프트웨어이며, 질문에 답변하고, 권고하며, 동작을 실행하는 [자연어 처리를](../Page/자연어_처리.md "wikilink") 이용한다. 원래 시작은 [미국 국방부의](../Page/미국_국방부.md "wikilink") [DARPA](https://ko.wikipedia.org/wiki/DARPA "wikilink")에서 진행한 일종의 인공지능프로그램개발 프로젝트였던 Personalized Assistant that Learns (PAL)의 기능중 하나인 Cognitive Assistant that Learns and Organizes (CALO) 였다. 실제로 PAL은 미국 국방부의 CPOF라는 시스템에 성공적으로 접목이 되었고, 이에 고무받은 개발자 [노만 위나스키는](https://ko.wikipedia.org/wiki/노만_위나스키 "wikilink") [SRI 인터내셔널을](https://ko.wikipedia.org/wiki/SRI_인터내셔널 "wikilink") 설립을 하였고, 이를 [2010년](../Page/2010년.md "wikilink") [4월 28일에](../Page/4월_28일.md "wikilink") [애플이](https://ko.wikipedia.org/wiki/애플_\(기업\) "wikilink") 인수하여 애플이 소유하였다.\[1\] 원래는 이 소프트웨어가 블랙베리와 안드로이드 폰에도 사용할 수 있을 것이라 발표하였으나 애플의 인수 이후 비 애플 플랫폼에 대한 개발은 모두 취소되었다.\[2\]
 
 Siri는 [iOS 5](https://ko.wikipedia.org/wiki/iOS "wikilink") 이상의 iOS에 포함되어 있으며, [아이폰 4S](../Page/아이폰_4S.md "wikilink") 이상 기기에서 사용할 수 있다. 또 Siri는 독일어, 영어, 일본어, 프랑스어, 중국어, 한국어, 이탈리아어, 스페인어 등을 지원하나, 언어 또는 국가별로 일부 지원되지 않는 기능이 있다.\[3\]
 
@@ -197,7 +197,7 @@ Siri는 세계 1위 음성인식 회사인 [뉘앙스 커뮤니케이션의](htt
 
 ## 같이 보기
 
-  - [뉘앙스 커뮤니케이션](https://ko.wikipedia.org/wiki/뉘앙스_커뮤니케이션 "wikilink") - 세계 1위 음성인식 회사
+  - [뉘앙스 커뮤니케이션](https://ko.wikipedia.org/wiki/뉘앙스_커뮤니케이션 "wikilink") - 세계 1위 음성인식 회사................
 
 ## 외부 링크
 

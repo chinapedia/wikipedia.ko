@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ SC \(\)](https://ko.wikipedia.org/wiki/_SC_\(\)).
+> This article is converted from Wikipedia: [알아라비 SC \(카타르\)](https://ko.wikipedia.org/wiki/알아라비_SC_\(카타르\)).
 
 
 **알아라비 스포츠 클럽**(, )은 [1952년](../Page/1952년.md "wikilink")에 창단된 [카타르](../Page/카타르.md "wikilink") [도하](../Page/도하.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽 팀이다. 알아라비는 [카타르](../Page/카타르.md "wikilink")에 가장 많은 축구 팬을 보유한 팀이기도 하다.

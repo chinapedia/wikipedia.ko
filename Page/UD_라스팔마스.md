@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [UD ](https://ko.wikipedia.org/wiki/UD_).
+> This article is converted from Wikipedia: [UD 라스팔마스](https://ko.wikipedia.org/wiki/UD_라스팔마스).
 
 
 **UD 라스팔마스**(Unión Deportiva Las Palmas, S.A.D.)는 [스페인](../Page/스페인.md "wikilink") [카나리아 제도의](../Page/카나리아_제도.md "wikilink") 도시인 [라스팔마스](../Page/라스팔마스.md "wikilink")를 연고로 하는 [축구](../Page/축구.md "wikilink") 클럽이다. 이 클럽은 [1949년](../Page/1949년.md "wikilink") [8월 22일에](../Page/8월_22일.md "wikilink") 창단되었으며 현재 [세군다 디비시온에서](../Page/세군다_디비시온.md "wikilink") 활동하고 있다. [CD 테네리페와](../Page/CD_테네리페.md "wikilink") 라이벌 관계이며, 이 두 팀이 맞붙는 경기를 카나리아 더비라고 하기도 한다.

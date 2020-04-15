@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [HIM \(\)](https://ko.wikipedia.org/wiki/HIM_\(\)).
+> This article is converted from Wikipedia: [HIM \(밴드\)](https://ko.wikipedia.org/wiki/HIM_\(밴드\)).
 
 
 **HIM**은 핀란드 록 밴드이다.

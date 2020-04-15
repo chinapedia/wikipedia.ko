@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [BFC ](https://ko.wikipedia.org/wiki/BFC_).
+> This article is converted from Wikipedia: [BFC 뒤나모](https://ko.wikipedia.org/wiki/BFC_뒤나모).
 
 
 **베를리너 푸스발 클루프 뒤나모**()는 [독일](../Page/독일.md "wikilink") [베를린](../Page/베를린.md "wikilink")의 축구 클럽이다. 흔히 **BFC 뒤나모**(BFC Dynamo)라는 약칭으로 불린다.

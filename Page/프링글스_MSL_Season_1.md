@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ MSL Season 1](https://ko.wikipedia.org/wiki/_MSL_Season_1).
+> This article is converted from Wikipedia: [프링글스 MSL Season 1](https://ko.wikipedia.org/wiki/프링글스_MSL_Season_1).
 
 
 **프링글스 MSL Season 1**(Pringles MSL 2006 Season 1)은 KPGA투어를 포함하면 12번째이자, 8차 MSL이다. 바뀐 16강 방식과 스틸드래프트 조지명방식이 도입된 첫 시즌이다.

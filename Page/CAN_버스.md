@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [CAN ](https://ko.wikipedia.org/wiki/CAN_).
+> This article is converted from Wikipedia: [CAN 버스](https://ko.wikipedia.org/wiki/CAN_버스).
 
 
 **CAN 통신**(**Controller Area Network**)은 차량 내에서 호스트 컴퓨터 없이 마이크로 콘트롤러나 장치들이 서로 통신하기 위해 설계된 표준 통신 규격이다. CAN 통신은 메시지 기반 프로토콜이며 최근에는 차량 뿐만 아니라 산업용 자동화기기나 의료용 장비에서도 종종 사용되고 있다. **Controller Area Network** (CAN)은 각 제어기들 간의 통신을 위해 주로 사용되는 non-host 버스 방식의 메시지 기반 네트워크 프로토콜이다.

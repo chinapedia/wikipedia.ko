@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ P. ](https://ko.wikipedia.org/wiki/_P._).
+> This article is converted from Wikipedia: [터라지 P. 헨슨](https://ko.wikipedia.org/wiki/터라지_P._헨슨).
 
 
 **타라지 P. 헨슨**(Taraji P. Henson, [1970년](../Page/1970년.md "wikilink") [9월 11일](../Page/9월_11일.md "wikilink") \~ )은 [미국](../Page/미국.md "wikilink")의 [배우](../Page/배우.md "wikilink")이다.

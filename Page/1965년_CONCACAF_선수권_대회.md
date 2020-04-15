@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [1965 CONCACAF  ](https://ko.wikipedia.org/wiki/1965_CONCACAF__).
+> This article is converted from Wikipedia: [1965년 CONCACAF 선수권 대회](https://ko.wikipedia.org/wiki/1965년_CONCACAF_선수권_대회).
 
 
 **1965년 CONCACAF 선수권 대회**는 [1965년](../Page/1965년.md "wikilink") [3월 28일부터](../Page/3월_28일.md "wikilink") [4월 11일까지](../Page/4월_11일.md "wikilink") [과테말라](../Page/과테말라.md "wikilink")에서 열린 2번째 [CONCACAF 선수권 대회이다](../Page/CONCACAF_선수권_대회.md "wikilink").

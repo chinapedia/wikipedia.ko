@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ 3DS  ](https://ko.wikipedia.org/wiki/_3DS__).
+> This article is converted from Wikipedia: [닌텐도 3DS 게임 목록](https://ko.wikipedia.org/wiki/닌텐도_3DS_게임_목록).
 
 
 이 문서는 대한민국에서 정식 발매된 [닌텐도 3DS](../Page/닌텐도_3DS.md "wikilink") [소프트웨어](../Page/소프트웨어.md "wikilink") 목록이다. 직수입 형태로 발매된 소프트웨어는 제외한다. 또한 [닌텐도 eShop을](https://ko.wikipedia.org/wiki/닌텐도_eShop "wikilink") 통해 외국어 다운로드 소프트웨어로 정식 발매된 작품의 경우에는 제목 뒤에 DL표기로 구분한다. 2014년 5월 2일을 이후로 기존 패키지로 발매된 한글화 소프트들이 닌텐도 eShop에 발매되었기에 그 작품들에는 제목 뒤에 DL을 표기한다.
@@ -209,7 +209,5 @@
 | 9월 21일 | [Cube Creator DX](https://ko.wikipedia.org/wiki/Cube_Creator_DX "wikilink")                                 | ARC System Works        | 한국어    | \-                                               |
 | 9월 21일 | [레이튼 미스터리 저니: 일곱 대부호의 음모](../Page/레이튼_미스터리_저니:_일곱_대부호의_음모.md "wikilink")                                    | Level-5                 | 한국어    | \-                                               |
 | 9월 21일 | [요괴워치 2](https://ko.wikipedia.org/wiki/요괴워치_2 "wikilink") 끝판왕                                               | Level-5                 | 한국어    | \-                                               |
-
-2018년 발매작:전진\!키노피오 대장 for 닌텐도 3ds 와리오웨어 골드 등
 
 [닌텐도_3DS_게임](https://ko.wikipedia.org/wiki/분류:닌텐도_3DS_게임 "wikilink") [분류:닌텐도 게임 목록](https://ko.wikipedia.org/wiki/분류:닌텐도_게임_목록 "wikilink") [분류:플랫폼별 비디오 게임 목록](https://ko.wikipedia.org/wiki/분류:플랫폼별_비디오_게임_목록 "wikilink")

@@ -8,11 +8,11 @@
 ### CD
 
 1.  **FEVER**
-2.  **GO\!GO\! 고다** ()
-3.  **[첫사랑 사이다](https://ko.wikipedia.org/wiki/첫사랑_사이다/DEEP_MIND "wikilink")** () **(Album version)**
-4.  **미래 드라이브** ()
+2.  **GO\!GO\! 고다**()
+3.  **[첫사랑 사이다](https://ko.wikipedia.org/wiki/첫사랑_사이다/DEEP_MIND "wikilink")**() **(Album version)**
+4.  **미래 드라이브**()
 5.  **BELIEVE★★★**
-6.  **여름의 성공** ()
+6.  **여름의 성공**()
 7.  **Never gonna stop\!**
       -
         [BS JAPAN](https://ko.wikipedia.org/wiki/BS_JAPAN "wikilink")《볼링혁명 P★LEAGUE》의 엔딩 테마

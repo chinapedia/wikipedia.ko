@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ SC](https://ko.wikipedia.org/wiki/_SC).
+> This article is converted from Wikipedia: [세파한 SC](https://ko.wikipedia.org/wiki/세파한_SC).
 
 
 **풀라드 모바라케 세파한 스포츠 클럽**()은 [이란](../Page/이란.md "wikilink")의 프로 [축구](../Page/축구.md "wikilink") 클럽으로 [이스파한](../Page/이스파한.md "wikilink")을 연고로 하고 있다. 이란의 철강 회사인 [모바라케 스틸이](https://ko.wikipedia.org/wiki/모바라케_스틸 "wikilink") 운영하고 있으며, 현재 [이란 프로 리그에](https://ko.wikipedia.org/wiki/이란_프로_리그 "wikilink") 출전하고 있다.

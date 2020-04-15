@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [M.  ](https://ko.wikipedia.org/wiki/M.__).
+> This article is converted from Wikipedia: [M. 나이트 샤말란](https://ko.wikipedia.org/wiki/M._나이트_샤말란).
 
 
 **마노즈 넬리야투 "M. 나이트" 샤말란**(Manoj Nelliyattu "M. Night" Shyamalan, 1970년 8월 6일 \~ )은 인도계 미국인 [영화 감독이자](../Page/영화_감독.md "wikilink") 각본가, 프로듀서, 배우이다.

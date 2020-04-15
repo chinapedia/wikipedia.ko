@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [U make  dream](https://ko.wikipedia.org/wiki/U_make__dream).
+> This article is converted from Wikipedia: [U make 아이 dream](https://ko.wikipedia.org/wiki/U_make_아이_dream).
 
 
 《**U make 愛 dream**》()은 [KOTOKO](../Page/KOTOKO.md "wikilink")의 [싱글](https://ko.wikipedia.org/wiki/싱글 "wikilink")을 말한다.

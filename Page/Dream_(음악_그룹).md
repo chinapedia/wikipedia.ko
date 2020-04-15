@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Dream \( \)](https://ko.wikipedia.org/wiki/Dream_\(_\)).
+> This article is converted from Wikipedia: [Dream \(음악 그룹\)](https://ko.wikipedia.org/wiki/Dream_\(음악_그룹\)).
 
 
 **Dream**(드림)은 [일본](../Page/일본.md "wikilink")의 여성 3인조 음악 그룹이다. 소속 사무소는 [LDH](../Page/LDH_\(기업\).md "wikilink"), 레이블은 [rhythm zone이다](../Page/리듬존.md "wikilink").

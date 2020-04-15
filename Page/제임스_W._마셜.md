@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ W. ](https://ko.wikipedia.org/wiki/_W._).
+> This article is converted from Wikipedia: [제임스 W. 마셜](https://ko.wikipedia.org/wiki/제임스_W._마셜).
 
 
 **제임스 윌리엄 마셜**(James William Marshall, [1810년](../Page/1810년.md "wikilink") [10월 8일](../Page/10월_8일.md "wikilink") \~ [1885년](../Page/1885년.md "wikilink") [8월 10일](../Page/8월_10일.md "wikilink"))은 미국의 목수이다. [1848년](../Page/1848년.md "wikilink") [1월 24일](../Page/1월_24일.md "wikilink"), [캘리포니아](https://ko.wikipedia.org/wiki/캘리포니아 "wikilink")의 [아메리칸 강을](https://ko.wikipedia.org/wiki/아메리칸_강 "wikilink") 따라 사금을 발견하여, [캘리포니아 골드 러시의](../Page/캘리포니아_골드_러시.md "wikilink") 계기가 되었다. 당시 제제소는 [존 서터의](../Page/존_서터.md "wikilink") 소유였는데 그는 제제소를 건설하기 위해 마셜을 고용하고 있었다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FC  ](https://ko.wikipedia.org/wiki/FC__).
+> This article is converted from Wikipedia: [FC 모르도비야 사란스크](https://ko.wikipedia.org/wiki/FC_모르도비야_사란스크).
 
 
 **FC 모르도비야 사란스크**()는 [러시아](../Page/러시아.md "wikilink") [모르도바 공화국](../Page/모르도바_공화국.md "wikilink") [사란스크](../Page/사란스크.md "wikilink")를 연고로 하는 축구 클럽이다. 이 클럽은 1961년에 창단되었으며 2005년 비오히미크 모르도비야(Биохимик‑Мордовия)를 합병하면서 오늘에 이른다.

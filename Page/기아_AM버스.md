@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ AM](https://ko.wikipedia.org/wiki/_AM).
+> This article is converted from Wikipedia: [기아 AM버스](https://ko.wikipedia.org/wiki/기아_AM버스).
 
 
 **기아 AM버스**는 [기아자동차](../Page/기아자동차.md "wikilink")와 전신인 [아시아자동차](https://ko.wikipedia.org/wiki/아시아자동차 "wikilink")에서 제작했던 버스 차종들이다. 주로 대형버스 차종들 위주로 AM 시리즈 네이밍이 사용되었기 때문에, 이 문서에서는 AM 시리즈 대형버스 차종들을 기술한다. [1978년](../Page/1978년.md "wikilink")에 출시되어서 [2004년](../Page/2004년.md "wikilink")에 후속 차종 없이 단종되었다. AM707, AM807, AM808, AM907, AM908, AM909, AM917, AM918, AM919, AM927, AM928, AM929, AM937, AM938, AM939 등이 주요 모델이다. AM707, AM807은 [1978년](../Page/1978년.md "wikilink")에 출시되어서 [1983년](../Page/1983년.md "wikilink")에 단종되었으며, AM808은 [1978년](../Page/1978년.md "wikilink")에 출시되어서 [1989년](../Page/1989년.md "wikilink")에 단종되었다.

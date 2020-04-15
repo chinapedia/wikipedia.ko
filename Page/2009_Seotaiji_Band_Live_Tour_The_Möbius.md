@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [2009 Seotaiji Band Live Tour The Mbius](https://ko.wikipedia.org/wiki/2009_Seotaiji_Band_Live_Tour_The_Mbius).
+> This article is converted from Wikipedia: [2009 Seotaiji Band Live Tour The Möbius](https://ko.wikipedia.org/wiki/2009_Seotaiji_Band_Live_Tour_The_Möbius).
 
 
 《**2009 Seotaiji Band Live Tour The Möbius**》는 [서태지 밴드의](https://ko.wikipedia.org/wiki/서태지_밴드 "wikilink") 전국 투어 《The Möbius》공연 실황 음반으로,  발매되었다.

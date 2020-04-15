@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ATC  L04](https://ko.wikipedia.org/wiki/ATC__L04).
+> This article is converted from Wikipedia: [ATC 코드 L04](https://ko.wikipedia.org/wiki/ATC_코드_L04).
 
 
 **ATC 코드 L04**는 [ATC 코드의](https://ko.wikipedia.org/wiki/ATC_코드 "wikilink") 면역억제제로 작용하는 약물을 정리한 코드이다. \[1\] **ATC 코드** L 항종양제 및 면역조절제의 하위그룹을 이룬다.

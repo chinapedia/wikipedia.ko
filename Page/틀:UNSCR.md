@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:UNSCR](https://ko.wikipedia.org/wiki/:UNSCR).
+> This article is converted from Wikipedia: [틀:UNSCR](https://ko.wikipedia.org/wiki/틀:UNSCR).
 
 
 <table>

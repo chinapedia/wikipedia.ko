@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FK ](https://ko.wikipedia.org/wiki/FK_).
+> This article is converted from Wikipedia: [FK 야블로네츠](https://ko.wikipedia.org/wiki/FK_야블로네츠).
 
 
 **FK 야블로네츠**()는 [야블로네츠나트니소우](https://ko.wikipedia.org/wiki/야블로네츠나트니소우 "wikilink")를 연고로 하는 [체코](../Page/체코.md "wikilink")의 축구 클럽으로, 현재 [감브리누스리가](https://ko.wikipedia.org/wiki/감브리누스리가 "wikilink")에서 활동하고 있다.

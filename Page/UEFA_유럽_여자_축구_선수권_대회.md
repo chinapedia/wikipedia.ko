@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [UEFA     ](https://ko.wikipedia.org/wiki/UEFA_____).
+> This article is converted from Wikipedia: [UEFA 유럽 여자 축구 선수권 대회](https://ko.wikipedia.org/wiki/UEFA_유럽_여자_축구_선수권_대회).
 
 
 **UEFA 유럽 여자 축구 선수권 대회**()는 [유럽 축구 연맹](../Page/유럽_축구_연맹.md "wikilink")(UEFA)의 주관으로 개최되는 [여자 축구](../Page/여자_축구.md "wikilink") 대회로 유럽에서 규모가 가장 큰 국가 대항 성인 여자 축구 대회이다. 흔히 **여자 유로 ○○○○**(개최 연도)이라 불린다. [1984년](../Page/1984년.md "wikilink")에 창설되었으며 남자 [UEFA 유럽 축구 선수권 대회가](https://ko.wikipedia.org/wiki/UEFA_유럽_축구_선수권_대회 "wikilink") 열린 해의 다음 해에 열린다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ KB ](https://ko.wikipedia.org/wiki/_KB_).
+> This article is converted from Wikipedia: [청주 KB 스타즈](https://ko.wikipedia.org/wiki/청주_KB_스타즈).
 
 
 **청주 KB 스타즈**(Cheongju KB Stars)는 [한국여자프로농구](https://ko.wikipedia.org/wiki/한국여자프로농구 "wikilink")(WKBL) 소속의 프로농구단으로 [충청북도](https://ko.wikipedia.org/wiki/충청북도 "wikilink") [청주시](../Page/청주시.md "wikilink")를 연고지로 한다. [1963년](../Page/1963년.md "wikilink")에 '국민은행 여자농구단'이란 이름으로 창단되었으며, 구단은 당시 실업농구대회인 [농구대잔치](../Page/농구대잔치.md "wikilink")에 참가하였다. [1997년](../Page/1997년.md "wikilink")에 [한국여자농구연맹](../Page/한국여자농구연맹.md "wikilink")의 출범으로 구단은 프로화를 거쳤으며, [1998년](../Page/1998년.md "wikilink")부터 프로농구대회인 [한국여자프로농구](https://ko.wikipedia.org/wiki/한국여자프로농구 "wikilink")에 참가하고 있다. 프로화 이후 [2011년](../Page/2011년.md "wikilink") 초까지는 [성남시](../Page/성남시.md "wikilink"), [천안시](../Page/천안시.md "wikilink")에서 활동하면서 2002년 겨울리그 및 2006년 여름리그에서 [WKBL 정규시즌](https://ko.wikipedia.org/wiki/한국여자프로농구 "wikilink") 우승을 차지했다. 구단은 [2011년](../Page/2011년.md "wikilink") [1월 12일](../Page/1월_12일.md "wikilink") [청주시](../Page/청주시.md "wikilink")와 연고지 협약을 맺어 동년 [2월 20일부터](../Page/2월_20일.md "wikilink") [청주체육관](../Page/청주체육관.md "wikilink")을 홈 경기장으로 사용하고 있다. [2011년](../Page/2011년.md "wikilink") [10월 4일에는](../Page/10월_4일.md "wikilink") 구단의 새로운 공식명칭을 '청주 KB 스타즈'로 확정하였다.\[1\]
@@ -116,6 +116,8 @@
 | 2016-2017 | 35   | 14    | 21 |
 | 2017-2018 | 35   | 27    | 8  |
 | 2018-2019 | 35   | 28    | 7  |
+
+|- | 2019-2020 || 28 || 21 || 7 || 0.714 ||bgcolor="\#SILVER"|**2위** | 9 ||bgcolor="\#CCFFCC"|<small>*미시행*</small> || 미시행 || 미시행 ||bgcolor="SILVER"|**2위**
 
 ## 우승 기록
 

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [A\&C](https://ko.wikipedia.org/wiki/A\&C).
+> This article is converted from Wikipedia: [포스코A\&C](https://ko.wikipedia.org/wiki/포스코A\&C).
 
 
 **포스코A\&C**는 "Beyond One-Stop Service For a Better Space"이다.

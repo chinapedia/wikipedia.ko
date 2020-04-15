@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
+> This article is converted from Wikipedia: [폴커크 FC](https://ko.wikipedia.org/wiki/폴커크_FC).
 
 
 **폴커크 FC**(Falkirk Football Club, Falkirk F.C.)는 [스코틀랜드](../Page/스코틀랜드.md "wikilink") [폴커크](../Page/폴커크.md "wikilink")의 축구 클럽으로, 현재 [스코틀랜드 풋볼 리그 1부에서](https://ko.wikipedia.org/wiki/스코틀랜드_풋볼_리그_1부 "wikilink") 활동하고 있다. 2009–10 [스코틀랜드 프리미어리그](https://ko.wikipedia.org/wiki/스코틀랜드_프리미어리그 "wikilink") 시즌에서 12위를 기록하면서 강등되었다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ t ](https://ko.wikipedia.org/wiki/_t_).
+> This article is converted from Wikipedia: [스튜던트 t 분포](https://ko.wikipedia.org/wiki/스튜던트_t_분포).
 
 
 {\\Gamma(\\nu/2)2^{\\nu/2-1}},\\;\\nu\>0</math>, \(K_{\nu}(x)\)는 [베셀 함수](../Page/베셀_함수.md "wikilink") }} **스튜던트 t 분포**(Student t分布, )는 [정규 분포의](../Page/정규_분포.md "wikilink") 평균을 측정할 때 주로 사용되는 분포이다.

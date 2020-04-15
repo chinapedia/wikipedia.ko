@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ FCO](https://ko.wikipedia.org/wiki/_FCO).
+> This article is converted from Wikipedia: [디종 FCO](https://ko.wikipedia.org/wiki/디종_FCO).
 
 
 **디종 풋볼 코트도르**(Dijon Football Côte d'Or, Dijon FCO)는 [1998년](../Page/1998년.md "wikilink")에 창단된 [프랑스](../Page/프랑스.md "wikilink") [디종](../Page/디종.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽으로, 현재 [리그 1에서](https://ko.wikipedia.org/wiki/리그_1 "wikilink") 활동하고 있다.

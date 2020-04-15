@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [    VI](https://ko.wikipedia.org/wiki/____VI).
+> This article is converted from Wikipedia: [마이트 앤 매직 히어로즈 VI](https://ko.wikipedia.org/wiki/마이트_앤_매직_히어로즈_VI).
 
 
 **마이트 앤 매직 히어로즈 VI**(Might & Magic Heroes VI, MMH6)는 패키지형태로 출시되는 턴 기반 전략게임이며 [마이트 앤 매직 히어로즈 오브 마이트 앤 매직 시리즈의](https://ko.wikipedia.org/wiki/마이트_앤_매직_히어로즈_시리즈 "wikilink") 여섯 번째 작품이다. 마이트 앤 매직 히어로즈 VI는 2011년 초에 발매하기 위해 개발중이다. 개발사는 블랙홀 엔터테이먼트이며 [유비소프트](../Page/유비소프트.md "wikilink")가 발행한다. 한국에서는 [인트라링스](https://ko.wikipedia.org/wiki/인트라링스 "wikilink")가 유통을 담당한다.

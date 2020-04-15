@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TV](https://ko.wikipedia.org/wiki/TV).
+> This article is converted from Wikipedia: [TV시티](https://ko.wikipedia.org/wiki/TV시티).
 
 
 《**TV시티**》는 [1995년](../Page/1995년.md "wikilink") [6월 5일](../Page/6월_5일.md "wikilink") \~ [1995년](../Page/1995년.md "wikilink") [7월 25일까지](../Page/7월_25일.md "wikilink") 방영된 [MBC](../Page/문화방송.md "wikilink") 월화드라마이다.

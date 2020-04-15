@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:SBS TV](https://ko.wikipedia.org/wiki/:SBS_TV).
+> This article is converted from Wikipedia: [틀:SBS TV](https://ko.wikipedia.org/wiki/틀:SBS_TV).
 
 
 <onlyinclude></onlyinclude>

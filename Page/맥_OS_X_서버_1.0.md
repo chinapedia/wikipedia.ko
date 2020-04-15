@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ OS X  1.0](https://ko.wikipedia.org/wiki/_OS_X__1.0).
+> This article is converted from Wikipedia: [맥 OS X 서버 1.0](https://ko.wikipedia.org/wiki/맥_OS_X_서버_1.0).
 
 
 **맥 OS X 서버 1.0**은 [애플 컴퓨터가](https://ko.wikipedia.org/wiki/애플_\(기업\) "wikilink") [넥스트 사를](https://ko.wikipedia.org/wiki/넥스트_사 "wikilink") 인수하면서 얻은 기술을 토대로 한 첫 [운영 체제이다](../Page/운영_체제.md "wikilink"). [1999년](../Page/1999년.md "wikilink") 3월 16일 출시되었고,\[1\] 개발자 릴리즈에서는 [랩소디로](../Page/랩소디_\(운영_체제\).md "wikilink") 불렸다. 맥 OS X 서버 1.0은 [맥 OS 8의](https://ko.wikipedia.org/wiki/맥_OS_8 "wikilink") 플래티넘 테마를 포함하고 있지만, [오픈스텝](https://ko.wikipedia.org/wiki/넥스트스텝 "wikilink") [운영 체제를](../Page/운영_체제.md "wikilink") 기반으로 했다. 이 [운영 체제는](../Page/운영_체제.md "wikilink") 미래 [맥 OS X의](https://ko.wikipedia.org/wiki/맥_OS_X "wikilink") 대략적 모습을 보여줬으며, [2001년](../Page/2001년.md "wikilink") [맥 OS X v10.0으로](https://ko.wikipedia.org/wiki/맥_OS_X_v10.0 "wikilink") 대체되었다.

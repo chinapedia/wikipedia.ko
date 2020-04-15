@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [CD ](https://ko.wikipedia.org/wiki/CD_).
+> This article is converted from Wikipedia: [CD 나시오날](https://ko.wikipedia.org/wiki/CD_나시오날).
 
 
 **클루브 데스포르티부 나시오날**(Clube Desportivo Nacional) 또는 **CD 나시오날**(C.D. Nacional)은 [포르투갈](../Page/포르투갈.md "wikilink") [마데이라 제도](../Page/마데이라_제도.md "wikilink") [푼샬](../Page/푼샬.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽으로, 현재 [포르투갈 리가](https://ko.wikipedia.org/wiki/포르투갈_리가 "wikilink") 소속으로 활동하고 있다. 흔히 **나시오날 다 마데이라**(Nacional da Madeira)라고 부르기도 한다.

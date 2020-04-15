@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [PGP \(\)](https://ko.wikipedia.org/wiki/PGP_\(\)).
+> This article is converted from Wikipedia: [PGP \(소프트웨어\)](https://ko.wikipedia.org/wiki/PGP_\(소프트웨어\)).
 
 
 **PGP**는 'Pretty Good Privacy'의 약자로서, 컴퓨터 파일을 [암호화](../Page/암호화.md "wikilink")하고 [복호화](../Page/복호화.md "wikilink")하는 프로그램이다. 1991년 [필립 짐머만이](https://ko.wikipedia.org/wiki/필립_짐머만 "wikilink") 개발하였으며, 현재 전 세계적으로 이메일 보안의 표준으로 자리잡았다.

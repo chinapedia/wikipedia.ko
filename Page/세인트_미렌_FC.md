@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  FC](https://ko.wikipedia.org/wiki/__FC).
+> This article is converted from Wikipedia: [세인트 미렌 FC](https://ko.wikipedia.org/wiki/세인트_미렌_FC).
 
 
 **세인트 미렌 FC**(Saint Mirren Football Club), 약칭 **세인트 미렌**(St. Mirren)은 [스코틀랜드](../Page/스코틀랜드.md "wikilink") [페이즐리](../Page/페이즐리.md "wikilink")를 연고로 하는 [축구](../Page/축구.md "wikilink") 클럽으로, [1877년](../Page/1877년.md "wikilink")에 창단했다. 이 클럽은 2017–18 [챔피언십](https://ko.wikipedia.org/wiki/스코티시_챔피언십 "wikilink") 시즌에서 우승을 차지하면서 [스코틀랜드 프리미어십로](https://ko.wikipedia.org/wiki/스코틀랜드_프리미어십 "wikilink") 승격되었다.

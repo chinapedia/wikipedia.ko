@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [UEFA  ](https://ko.wikipedia.org/wiki/UEFA__).
+> This article is converted from Wikipedia: [UEFA 올해의 선수](https://ko.wikipedia.org/wiki/UEFA_올해의_선수).
 
 
 **UEFA 올해의 선수**()는 매년 유럽의 축구 클럽에서 뛰고 있는 축구 선수들 중에서 가장 훌륭한 활약을 보여준 선수에게 수여하는 [유럽 축구 연맹](../Page/유럽_축구_연맹.md "wikilink")(UEFA)의 상이다.

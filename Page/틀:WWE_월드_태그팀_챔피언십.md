@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:WWE   ](https://ko.wikipedia.org/wiki/:WWE___).
+> This article is converted from Wikipedia: [틀:WWE 월드 태그팀 챔피언십](https://ko.wikipedia.org/wiki/틀:WWE_월드_태그팀_챔피언십).
 
 
 <onlyinclude></onlyinclude>

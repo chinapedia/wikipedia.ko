@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  AG:     ](https://ko.wikipedia.org/wiki/__AG:_____).
+> This article is converted from Wikipedia: [극장판 포켓몬스터 AG: 포켓몬 레인저와 바다의 왕자 마나피](https://ko.wikipedia.org/wiki/극장판_포켓몬스터_AG:_포켓몬_레인저와_바다의_왕자_마나피).
 
 
 《**극장판 포켓몬스터 포켓몬 레인저와 바다의 왕자 마나피**》()는 [2006년](../Page/2006년.md "wikilink") [7월 15일에](../Page/7월_15일.md "wikilink") 개봉된 [TV 애니메이션](../Page/애니메이션.md "wikilink") [포켓몬스터](../Page/포켓몬스터.md "wikilink")의 [극장판](https://ko.wikipedia.org/wiki/포켓몬스터_\(극장판\) "wikilink") 제9기이다. 대한민국에서는 [2006년](../Page/2006년.md "wikilink") [7월 20일에](../Page/7월_20일.md "wikilink") 개봉하였다. [2015년](../Page/2015년.md "wikilink") [7월 22일에](../Page/7월_22일.md "wikilink") 재개봉하였다.
@@ -64,4 +64,4 @@
   - [가이오가](../Page/가이오가.md "wikilink")
     먼 옛날 바다를 창조했다는 전설의 포켓몬으로 등장한다.
 
-[분류:2006년 애니메이션 영화](https://ko.wikipedia.org/wiki/분류:2006년_애니메이션_영화 "wikilink") [분류:포켓몬스터 극장판](https://ko.wikipedia.org/wiki/분류:포켓몬스터_극장판 "wikilink") [분류:일본어 영화 작품](https://ko.wikipedia.org/wiki/분류:일본어_영화_작품 "wikilink") [분류:인격의 교체를 소재로 한 영화](https://ko.wikipedia.org/wiki/분류:인격의_교체를_소재로_한_영화 "wikilink") [분류:이탈리아를 배경으로 한 영화](https://ko.wikipedia.org/wiki/분류:이탈리아를_배경으로_한_영화 "wikilink") [분류:쇼박스 애니메이션 영화](https://ko.wikipedia.org/wiki/분류:쇼박스_애니메이션_영화 "wikilink") [분류:이수C\&E 애니메이션 영화](https://ko.wikipedia.org/wiki/분류:이수C&E_애니메이션_영화 "wikilink")
+[분류:2006년 애니메이션 영화](https://ko.wikipedia.org/wiki/분류:2006년_애니메이션_영화 "wikilink") [분류:포켓몬스터 극장판](https://ko.wikipedia.org/wiki/분류:포켓몬스터_극장판 "wikilink") [분류:일본어 영화 작품](https://ko.wikipedia.org/wiki/분류:일본어_영화_작품 "wikilink") [분류:인격의 교체를 소재로 한 영화](https://ko.wikipedia.org/wiki/분류:인격의_교체를_소재로_한_영화 "wikilink") [분류:이탈리아를 배경으로 한 영화](https://ko.wikipedia.org/wiki/분류:이탈리아를_배경으로_한_영화 "wikilink") [분류:쇼박스 애니메이션 영화](https://ko.wikipedia.org/wiki/분류:쇼박스_애니메이션_영화 "wikilink") [분류:이수C\&E 애니메이션 영화](https://ko.wikipedia.org/wiki/분류:이수C&E_애니메이션_영화 "wikilink") [분류:일본의 애니메이션 영화](https://ko.wikipedia.org/wiki/분류:일본의_애니메이션_영화 "wikilink")

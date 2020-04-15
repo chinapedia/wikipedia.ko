@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [S-](https://ko.wikipedia.org/wiki/S-).
+> This article is converted from Wikipedia: [S-이중성](https://ko.wikipedia.org/wiki/S-이중성).
 
 
 [이론물리학](https://ko.wikipedia.org/wiki/이론물리학 "wikilink")에서, **S-이중성**(S-二重性, )은 서로 다른 듯한 두 물리 이론이 [결합 상수의](../Page/결합_상수.md "wikilink") [역수](https://ko.wikipedia.org/wiki/역수 "wikilink")를 취하는 변환에 의하여 서로 동등한 현상이다. 즉, 결합 상수가 작은 한 이론은 결합 상수가 큰 다른 이론과 동등하게 된다. [양자장론](../Page/양자장론.md "wikilink")과 [끈 이론에서](../Page/끈_이론.md "wikilink") 나타난다.

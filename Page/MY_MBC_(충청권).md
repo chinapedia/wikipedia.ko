@@ -1,20 +1,45 @@
-> This article is converted from Wikipedia: [MY MBC \(\)](https://ko.wikipedia.org/wiki/MY_MBC_\(\)).
+> This article is converted from Wikipedia: [MY MBC \(충청권\)](https://ko.wikipedia.org/wiki/MY_MBC_\(충청권\)).
 
 
 **MY MBC**는 [대전,세종,충남](https://ko.wikipedia.org/wiki/대전충남 "wikilink"), [충북](https://ko.wikipedia.org/wiki/충청북도 "wikilink") 전역을 가시청권역으로 하는 대한민국의 [지상파DMB](https://ko.wikipedia.org/wiki/지상파DMB "wikilink") 방송국으로, [2007년](../Page/2007년.md "wikilink") [11월 16일](../Page/11월_16일.md "wikilink") 개국하였다. [대전문화방송](../Page/대전문화방송.md "wikilink")이 주사업자이며, [MBC충북](../Page/MBC충북.md "wikilink")과 공동으로 운영중이다. 현재 비디오채널 3개 · 데이터채널 1개를 송출중이다.
 
 ## 개요
 
-**MY MBC**는 대전문화방송·MBC충북이 공동으로 투자하여 설립, 대전문화방송이 주사업자로서 운영하는 충청권의 지상파DMB방송국이다. [2007년](../Page/2007년.md "wikilink") [4월](../Page/4월.md "wikilink") 정보통신부(現 방통위)로부터 방송국 허가를 받고 2007년 [11월 16일](../Page/11월_16일.md "wikilink") 식장산송신소를 개국함으로써, 비디오채널 3채널과 데이터채널 1채널 그리고 데이터채널로 채널 패키지를 구성하여 본방송을 시작하였다. [2008년](../Page/2008년.md "wikilink") [1월](../Page/1월.md "wikilink")에는 가엽산중계소, 우암산중계소, 원효봉중계소, 계룡산중계소 등 대출력 중계시설들을 준공함으로써 충청권 내에서 다른 지상파DMB방송사들에 비하여 가장 빠르게 방송권역을 확장해 나갔다. 또한 [2011년](../Page/2011년.md "wikilink")에는 옥마산중계소, 금적산중계소, 용두산중계소, 단양중계소 등 90W급 중계소등을 구축하는 등 [U-KBS](../Page/U-KBS.md "wikilink") 못지않은 충청권 내의 높은 지상파DMB 가시청률을 달성하여 충청권 전역 가시청을 목표로 방송망을 늘려나가고 있다.
+**MY MBC**는 대전문화방송·MBC충북이 공동으로 투자하여 설립, 대전문화방송이 주사업자로서 운영하는 충청권의 지상파DMB방송국이다. [2007년](../Page/2007년.md "wikilink") [4월](../Page/4월.md "wikilink") 정보통신부(現 방통위)로부터 방송국 허가를 받고 2007년 [11월 16일](../Page/11월_16일.md "wikilink") 식장산송신소를 개국함으로써, 비디오 채널 2채널과 데이터 채널 1채널로 구성하여 본방송을 시작하였다. [2008년](../Page/2008년.md "wikilink") [1월](../Page/1월.md "wikilink")에는 가엽산중계소, 우암산중계소, 원효봉중계소, 계룡산중계소 등 대출력 중계시설들을 준공함으로써 충청권 내에서 다른 지상파 DMB 사업자들에 비하여 가장 빠르게 방송권역을 확장해 나갔다. 또한 [2011년](../Page/2011년.md "wikilink")에는 옥마산중계소, 금적산중계소, 용두산중계소, 단양중계소 등 90W급 중계소등을 구축하는 등 [U-KBS](../Page/U-KBS.md "wikilink") 못지않은 충청권 내의 높은 지상파DMB 가시청률을 달성하여 충청권 전역 가시청을 목표로 방송망을 늘려나가고 있다.
 
 ## 채널 구성
 
-| 앙상블명        | 채널명          | 송출형식         | 자체/임대 |
-| ----------- | ------------ | ------------ | ----- |
-| MY MBC      | my MBC 11    | 비디오 채널 (DMB) | 자체    |
-| CJ OSHOP    | 비디오 채널 (DMB) | 임대           |       |
-| MY MBC DATA | 데이터 채널       | 자체           |       |
-|             |              |              |       |
+<table>
+<thead>
+<tr class="header">
+<th><p>조합명</p></th>
+<th><p>채널명</p></th>
+<th><p>송출 형식</p></th>
+<th><p>운영 방식</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>MY MBC</p></td>
+<td><p>my MBC 11</p></td>
+<td><p>비디오 채널<br />
+(DMB)</p></td>
+<td><p>자체</p></td>
+</tr>
+<tr class="even">
+<td><p>CJ OSHOP</p></td>
+<td><p>임대</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>MY MBC DATA</p></td>
+<td><p>데이터 채널</p></td>
+<td><p>자체</p></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 ### 비디오채널
 
@@ -32,7 +57,7 @@
 <!-- end list -->
 
   -
-    CJ 오쇼핑이 임대받아 송출하는 홈쇼핑 채널이다.
+    CJ오쇼핑이 임대받아 송출하는 홈쇼핑 채널이다.
 
 ### 데이터 채널
 

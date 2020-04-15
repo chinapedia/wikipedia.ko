@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [HDC](https://ko.wikipedia.org/wiki/HDC).
+> This article is converted from Wikipedia: [HDC아이파크몰](https://ko.wikipedia.org/wiki/HDC아이파크몰).
 
 
-**HDC아이파크몰**은 쇼핑몰과 생활편의시설, 상점 등을 모아놓은 복합 시설이다. [서울특별시](../Page/서울특별시.md "wikilink") [용산구](https://ko.wikipedia.org/wiki/용산구 "wikilink") 한강대로23길 55(한강로3가, [용산역](../Page/용산역.md "wikilink")사)에 위치한 아이파크몰은 연면적 240,110 m<sup>2</sup> 로 [코엑스몰](https://ko.wikipedia.org/wiki/코엑스몰 "wikilink")의 119,000 m<sup>2</sup> 보다 넓다. 지하 3층, 지상 9층으로 이루어져있으며 패션파크, 리빙파크, 테이스트파크, 에어쉽으로 구성되어 있다. 또한 [CGV](https://ko.wikipedia.org/wiki/CGV "wikilink")와 [이마트](../Page/이마트.md "wikilink"), 신라아이파크면세점, [영풍문고](../Page/영풍문고.md "wikilink")등이 입점해 있고, 3층은 [용산역](../Page/용산역.md "wikilink")과 연결돼 있으며, 9층에 HDC[현대산업개발](https://ko.wikipedia.org/wiki/현대산업개발 "wikilink") 본사가 입주해 있다. 과거에는 패션관과 리빙관, 문화관에 대해서는 아이파크백화점이라는 명칭을 사용했으나, 2018년 2월 부로 아이파크백화점이라는 명칭을 폐기하고 아이파크몰 단일 브랜드를 사용중이다.
+**HDC아이파크몰**은 쇼핑몰과 생활편의시설, 상점 등을 모아놓은 복합 시설이다. [서울특별시](../Page/서울특별시.md "wikilink") [용산구](https://ko.wikipedia.org/wiki/용산구 "wikilink") 한강대로23길 55(한강로3가, [용산역](../Page/용산역.md "wikilink")사)에 위치한 아이파크몰은 연면적 240,110 m<sup>2</sup> 로 [코엑스몰](https://ko.wikipedia.org/wiki/코엑스몰 "wikilink")의 119,000 m<sup>2</sup> 보다 넓다. 지하 3층, 지상 9층으로 이루어져있으며 패션파크, 리빙파크, 테이스트파크, 더센터로 구성되어 있다. 또한 [CGV](https://ko.wikipedia.org/wiki/CGV "wikilink")와 [이마트](../Page/이마트.md "wikilink"), 신라아이파크면세점, [영풍문고](../Page/영풍문고.md "wikilink")등이 입점해 있고, 3층은 [용산역](../Page/용산역.md "wikilink")과 연결돼 있으며, 9층에 HDC[현대산업개발](https://ko.wikipedia.org/wiki/현대산업개발 "wikilink") 본사가 입주해 있다. 과거에는 패션관과 리빙관, 문화관에 대해서는 아이파크백화점이라는 명칭을 사용했으나, 2018년 2월 부로 아이파크백화점이라는 명칭을 폐기하고 아이파크몰 단일 브랜드를 사용중이다.
 
 ## HDC아이파크몰
 
@@ -112,15 +112,17 @@ FASHION PARK & TASTE PARK 6\~7층 위치. 20관 3788석. 4DX with ScreenX, IMAX 
 
 ## 영업 시간
 
-  - FASHION PARK / LIVING PARK / 디지털전문점 : 오전 10:30 \~ 오후 8:30 / 오전 10:30 \~ 오후 9:00 (연장영업)
+\*한시적 영업시간 변경 운영
+
+  - FASHION PARK / LIVING PARK / 디지털전문점 : 오전 11:00 \~ 오후 8:00(평일) / 오전 11:00 \~ 오후 8:30 (금\~일)
 
 <!-- end list -->
 
-  - SPA 브랜드 : 오전 10:30 \~ 오후 22:00
+  - SPA 브랜드 : 오전 11:00 \~ 오후 22:00
 
 <!-- end list -->
 
-  - TASTE PARK 오전 10:3 0\~ 오후 22:00 (매장 별 상이)
+  - TASTE PARK 오전 11:00\~ 오후 22:00 (매장 별 상이)
 
 <!-- end list -->
 

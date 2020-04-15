@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Teenage Dream \(\)](https://ko.wikipedia.org/wiki/Teenage_Dream_\(\)).
+> This article is converted from Wikipedia: [Teenage Dream \(노래\)](https://ko.wikipedia.org/wiki/Teenage_Dream_\(노래\)).
 
 
 "**Teenage Dream**"은 미국의 음악가 [케이티 페리의](../Page/케이티_페리.md "wikilink") 노래이다. 이 노래는 동명의 음반 *[Teenage Dream](https://ko.wikipedia.org/wiki/Teenage_Dream "wikilink")*의 두 번째 싱글로 2010년 7월 23일 디지털로 처음 발매되었다. 프로듀서로는 맥스 마틴, 닥터 루크, 베니 블랑코 등 유명한 프로듀서들과 함께 했다.

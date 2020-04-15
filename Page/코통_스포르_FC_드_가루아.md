@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  FC  ](https://ko.wikipedia.org/wiki/__FC__).
+> This article is converted from Wikipedia: [코통 스포르 FC 드 가루아](https://ko.wikipedia.org/wiki/코통_스포르_FC_드_가루아).
 
 
 **코통 스포르 FC 드 가루아**()는 [카메룬](../Page/카메룬.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽 팀으로, [가루아](../Page/가루아.md "wikilink")를 연고로 한다.

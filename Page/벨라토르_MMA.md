@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ MMA](https://ko.wikipedia.org/wiki/_MMA).
+> This article is converted from Wikipedia: [벨라토르 MMA](https://ko.wikipedia.org/wiki/벨라토르_MMA).
 
 
 **벨라토르 MMA**(Bellator MMA)은 [미국](../Page/미국.md "wikilink")의 [종합격투기](../Page/종합격투기.md "wikilink") 2위 단체다. [일리노이](https://ko.wikipedia.org/wiki/일리노이 "wikilink") [시카고](../Page/시카고.md "wikilink")에 본부를 두고 있으며, 벨라토르 스포트 월드와이드 LLC가 소유하고 있다. 벨라토르는 라틴어로 '전사'라는 뜻이다.

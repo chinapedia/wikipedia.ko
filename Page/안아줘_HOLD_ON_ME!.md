@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ HOLD ON ME!](https://ko.wikipedia.org/wiki/_HOLD_ON_ME!).
+> This article is converted from Wikipedia: [안아줘 HOLD ON ME!](https://ko.wikipedia.org/wiki/안아줘_HOLD_ON_ME!).
 
 
 **안아줘 HOLD ON ME\!**()는 [1998년](../Page/1998년.md "wikilink") [9월 9일에](../Page/9월_9일.md "wikilink") 발매 된 [모닝구무스메](../Page/모닝구무스메.md "wikilink")의 세 번째 싱글이다.

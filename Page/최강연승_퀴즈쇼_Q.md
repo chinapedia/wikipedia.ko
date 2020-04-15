@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  Q](https://ko.wikipedia.org/wiki/__Q).
+> This article is converted from Wikipedia: [최강연승 퀴즈쇼 Q](https://ko.wikipedia.org/wiki/최강연승_퀴즈쇼_Q).
 
 
 《**최강연승 퀴즈쇼 Q**》는 2012년 [MBC](https://ko.wikipedia.org/wiki/MBC "wikilink")에서 방송되었던 대한민국의 텔레비전 퀴즈 프로그램이다.

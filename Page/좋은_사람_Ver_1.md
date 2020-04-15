@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  Ver 1](https://ko.wikipedia.org/wiki/__Ver_1).
+> This article is converted from Wikipedia: [좋은 사람 Ver 1](https://ko.wikipedia.org/wiki/좋은_사람_Ver_1).
 
 
 〈**좋은 사람 Ver 1**〉은 [티아라의](../Page/티아라_\(음악_그룹\).md "wikilink") 노래이다. 또한 MBC 드라마 《[신데렐라 맨](../Page/신데렐라_맨_\(드라마\).md "wikilink")》의 메인 OST이기도 하다.

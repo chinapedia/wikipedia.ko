@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ USB](https://ko.wikipedia.org/wiki/_USB).
+> This article is converted from Wikipedia: [라이브 USB](https://ko.wikipedia.org/wiki/라이브_USB).
 
 
 **라이브 USB**(Live USB)는 [USB 플래시 드라이브나](../Page/USB_플래시_드라이브.md "wikilink") USB [외장 하드 디스크를](https://ko.wikipedia.org/wiki/외장_하드_디스크 "wikilink") 이용한 일종의 '시동 디스크'이다. 읽기 전용인 [라이브 CD나](../Page/라이브_CD.md "wikilink") 라이브 DVD와 달리 비휘발성 메모리인 [플래시 메모리를](../Page/플래시_메모리.md "wikilink") 사용하므로 작업한 내용을 저장할 수 있다. USB를 지원하는 컴퓨터에서는 어디서든지 이용할 수 있다. 특정 [리눅스 배포판에서는](../Page/리눅스_배포판.md "wikilink") 라이브 USB를 이용한 설치도 가능하다.\[1\]

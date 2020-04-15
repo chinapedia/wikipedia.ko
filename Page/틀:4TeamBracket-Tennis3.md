@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:4TeamBracket-Tennis3](https://ko.wikipedia.org/wiki/:4TeamBracket-Tennis3).
+> This article is converted from Wikipedia: [틀:4TeamBracket-Tennis3](https://ko.wikipedia.org/wiki/틀:4TeamBracket-Tennis3).
 
 
 <onlyinclude>{| border=0 cellpadding=0 cellspacing=0 style="font-size: 90%; margin:1em 2em 1em 1em;" |   | align="center" colspan="5" style="border:1px solid \#aaa;" bgcolor=\#f2f2f2| | colspan=2| | align="center" colspan="5" style="border:1px solid \#aaa;" bgcolor=\#f2f2f2|

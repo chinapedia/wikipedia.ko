@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [AOE-57 ](https://ko.wikipedia.org/wiki/AOE-57_).
+> This article is converted from Wikipedia: [AOE-57 천지](https://ko.wikipedia.org/wiki/AOE-57_천지).
 
 
 **AOE-57 천지**(天池)는 [대한민국 해군의](../Page/대한민국_해군.md "wikilink") 기동군수지원함([천지급 군수지원함](../Page/천지급_군수지원함.md "wikilink"))이다. 이름은 백두산 천지에서 유래되었다. 유류·탄약 등 전투 기동군수작전을 주 임무로 하고 해상 경비 작전과 기타 해상 작전을 지원한다.

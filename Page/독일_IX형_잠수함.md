@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ IX ](https://ko.wikipedia.org/wiki/_IX_).
+> This article is converted from Wikipedia: [독일 IX형 잠수함](https://ko.wikipedia.org/wiki/독일_IX형_잠수함).
 
 
 [300px](https://ko.wikipedia.org/wiki/파일:U-161_Bomben.jpg "wikilink")

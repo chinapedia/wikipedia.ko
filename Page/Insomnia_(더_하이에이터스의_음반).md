@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Insomnia \(  \)](https://ko.wikipedia.org/wiki/Insomnia_\(__\)).
+> This article is converted from Wikipedia: [Insomnia \(더 하이에이터스의 음반\)](https://ko.wikipedia.org/wiki/Insomnia_\(더_하이에이터스의_음반\)).
 
 
 『**Insomnia**』(인섬니아)는 [2009년](../Page/2009년.md "wikilink") [11월 18일에](../Page/11월_18일.md "wikilink") 발매한 [더 하이에이터스의](https://ko.wikipedia.org/wiki/더_하이에이터스 "wikilink") 1번째 [EP](../Page/익스텐디드_플레이.md "wikilink")([싱글](../Page/싱글_\(음악\).md "wikilink"))이다. 일본 내 시디번호는 FLCF-4309 이며 한국에서는 발매된 바 없다.

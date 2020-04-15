@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [: SV  ](https://ko.wikipedia.org/wiki/:_SV__).
+> This article is converted from Wikipedia: [틀:함부르크 SV 선수 명단](https://ko.wikipedia.org/wiki/틀:함부르크_SV_선수_명단).
 
 
 <onlyinclude></onlyinclude>

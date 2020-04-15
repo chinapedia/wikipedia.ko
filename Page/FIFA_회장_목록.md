@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FIFA  ](https://ko.wikipedia.org/wiki/FIFA__).
+> This article is converted from Wikipedia: [FIFA 회장 목록](https://ko.wikipedia.org/wiki/FIFA_회장_목록).
 
 
 다음은 [국제 축구 연맹](../Page/국제_축구_연맹.md "wikilink")([FIFA](https://ko.wikipedia.org/wiki/FIFA "wikilink"))의 역대 회장 목록이다.

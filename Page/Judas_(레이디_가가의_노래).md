@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Judas \(  \)](https://ko.wikipedia.org/wiki/Judas_\(__\)).
+> This article is converted from Wikipedia: [Judas \(레이디 가가의 노래\)](https://ko.wikipedia.org/wiki/Judas_\(레이디_가가의_노래\)).
 
 
 "**Judas**"는 미국의 가수 [레이디 가가의](../Page/레이디_가가.md "wikilink") 노래로 두 번째 정규 음반 *[Born This Way](https://ko.wikipedia.org/wiki/Born_This_Way "wikilink")* (2011)의 두 번째 싱글로 발매되었다. 싱글은 2011년 4월 15일 [인터스코프 레코드를](../Page/인터스코프_레코드.md "wikilink") 통해 세계적으로 발매했다.

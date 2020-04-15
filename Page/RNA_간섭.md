@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [RNA ](https://ko.wikipedia.org/wiki/RNA_).
+> This article is converted from Wikipedia: [RNA 간섭](https://ko.wikipedia.org/wiki/RNA_간섭).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:ShRNA_Lentivirus.svg "wikilink")

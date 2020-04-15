@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Rain \(YUI \)](https://ko.wikipedia.org/wiki/Rain_\(YUI_\)).
+> This article is converted from Wikipedia: [Rain \(YUI의 노래\)](https://ko.wikipedia.org/wiki/Rain_\(YUI의_노래\)).
 
 
 〈**Rain**〉(레인)은 [일본](../Page/일본.md "wikilink") [싱어송라이터](https://ko.wikipedia.org/wiki/싱어송라이터 "wikilink") [YUI](https://ko.wikipedia.org/wiki/YUI "wikilink")의 열 일곱 번째 싱글이다. 이 싱글은 2010년 11월 24일에 발매되었다. 〈[to Mother](https://ko.wikipedia.org/wiki/to_Mother "wikilink")〉가 〈[Summer Song](https://ko.wikipedia.org/wiki/Summer_Song "wikilink")〉, 〈[again](https://ko.wikipedia.org/wiki/again_\(싱글\) "wikilink")〉,〈[It's all too much/Never say die](https://ko.wikipedia.org/wiki/It's_all_too_much/Never_say_die "wikilink")〉,〈[GLORIA](https://ko.wikipedia.org/wiki/GLORIA "wikilink")〉에 이어 5작 연속으로 오리콘 주간 차트 1위를 달성한 기록이, 이 싱글이 오리콘 주간 차트 2위를 기록하면서, 깨지고 말았다.

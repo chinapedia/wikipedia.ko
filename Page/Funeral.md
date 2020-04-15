@@ -5,7 +5,7 @@
 
 초기 녹음이 2003년 8월 1주일간 [퀘벡주](../Page/퀘벡주.md "wikilink") [몬트리얼](https://ko.wikipedia.org/wiki/몬트리얼 "wikilink")의 호텔2탱고(Hotel2Tango)에서 이뤄졌으며, 같은 해 말에 녹음을 마쳤다.
 
-음반에서 5개의 싱글이 발매됐는데 가장 반응이 좋았던 싱글은 UK 싱글 차트에서 19위를 기록한 〈Rebellion (Lies)〉였다. 음반은 2005년 [그래미상](https://ko.wikipedia.org/wiki/그래미상 "wikilink") 최우수 얼터너티브 음반상에 후보로 올랐으며 평단으로부터 높은 지지를 받으며 연말 순위 및 지난 2000년대 음반 순위에서 1위를 차지했다. 웹사이트 [메타크리틱](https://ko.wikipedia.org/wiki/메타크리틱 "wikilink")에 따르면 이 음반은 [라디오헤드](../Page/라디오헤드.md "wikilink")의 《[OK Computer](../Page/OK_Computer.md "wikilink")》에 이어 두 번째로 2000년대 명반 순위에 많이 등장한 음반이며\[2\], [롤링 스톤의](../Page/롤링_스톤.md "wikilink") 역대 명반 500선에서 151위를 차지했다.
+음반에서 5개의 싱글이 발매됐는데 가장 반응이 좋았던 싱글은 UK 싱글 차트에서 19위를 기록한 〈Rebellion (Lies)〉였다. 음반은 2005년 [그래미상](https://ko.wikipedia.org/wiki/그래미상 "wikilink") 최우수 얼터너티브 음반상에 후보로 올랐으며 평단으로부터 높은 지지를 받으며 연말 순위 및 지난 2000년대 음반 순위에서 1위를 차지했다. 웹사이트 [메타크리틱](../Page/메타크리틱.md "wikilink")에 따르면 이 음반은 [라디오헤드](../Page/라디오헤드.md "wikilink")의 《[OK Computer](../Page/OK_Computer.md "wikilink")》에 이어 두 번째로 2000년대 명반 순위에 많이 등장한 음반이며\[2\], [롤링 스톤의](../Page/롤링_스톤.md "wikilink") 역대 명반 500선에서 151위를 차지했다.
 
 ## 평가
 
@@ -30,7 +30,7 @@
 
 ## 외부 링크
 
-  - [Funeral](http://www.metacritic.com/music/funeral) [메타크리틱](https://ko.wikipedia.org/wiki/메타크리틱 "wikilink")
+  - [Funeral](http://www.metacritic.com/music/funeral) [메타크리틱](../Page/메타크리틱.md "wikilink")
 
 [분류:2004년 음반](https://ko.wikipedia.org/wiki/분류:2004년_음반 "wikilink") [분류:2004년 데뷔 음반](https://ko.wikipedia.org/wiki/분류:2004년_데뷔_음반 "wikilink") [분류:아케이드 파이어의 음반](https://ko.wikipedia.org/wiki/분류:아케이드_파이어의_음반 "wikilink")
 

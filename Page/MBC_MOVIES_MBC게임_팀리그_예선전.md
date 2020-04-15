@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [MBC MOVIES MBC  ](https://ko.wikipedia.org/wiki/MBC_MOVIES_MBC__).
+> This article is converted from Wikipedia: [MBC MOVIES MBC게임 팀리그 예선전](https://ko.wikipedia.org/wiki/MBC_MOVIES_MBC게임_팀리그_예선전).
 
 
 ## 경기방식

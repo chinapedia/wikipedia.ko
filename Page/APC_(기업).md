@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [APC \(\)](https://ko.wikipedia.org/wiki/APC_\(\)).
+> This article is converted from Wikipedia: [APC \(기업\)](https://ko.wikipedia.org/wiki/APC_\(기업\)).
 
 
 **APC**는 전원 및 냉각 솔루션을 제공하는 [미국](../Page/미국.md "wikilink")의 기업이다. 가정용 데스크탑에서부터 데이터센터의 공장에서 사용되는 애플리케이션을 판매한다.

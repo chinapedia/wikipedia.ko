@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  I](https://ko.wikipedia.org/wiki/__I).
+> This article is converted from Wikipedia: [코리아뮤직 옴니버스 I](https://ko.wikipedia.org/wiki/코리아뮤직_옴니버스_I).
 
 
 **코리아뮤직 옴니버스 I**은 [대한민국](../Page/대한민국.md "wikilink")의 가수 [민해경](../Page/민해경.md "wikilink"), [이범학](../Page/이범학.md "wikilink"), 윤영로, [강인원](../Page/강인원_\(가수\).md "wikilink") 등 코리아뮤직 소속사 가수들이 뭉쳐 1992년 발매한 옴니버스 앨범이다.\[1\]

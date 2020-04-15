@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ Forever](https://ko.wikipedia.org/wiki/_Forever).
+> This article is converted from Wikipedia: [이정선 Forever](https://ko.wikipedia.org/wiki/이정선_Forever).
 
 
 《**이정선 Forever**》은 [이정선의](../Page/이정선_\(가수\).md "wikilink") 리메이크 앨범이다. 신 걸작품으로 동명의 노래 타이틀로 결성되었다. 한국적 포크와 블루스를 추구했으나, '기타' 연주의 스승으로 인정을 받았다. 리메이크 시절에 발매 최초로 압도적인 지질을 받았다.

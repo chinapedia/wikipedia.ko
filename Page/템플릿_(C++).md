@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ \(C++\)](https://ko.wikipedia.org/wiki/_\(C++\)).
+> This article is converted from Wikipedia: [템플릿 \(C++\)](https://ko.wikipedia.org/wiki/템플릿_\(C++\)).
 
 
 **템플릿**()은 [C++](https://ko.wikipedia.org/wiki/C++ "wikilink") 프로그래밍 언어의 한 기능으로, 함수와 클래스가 [제네릭 형과](https://ko.wikipedia.org/wiki/제네릭_프로그래밍 "wikilink") 동작할 수 있게 도와 준다. 함수나 클래스가 개별적으로 다시 작성하지 않고도 각기 다른 수많은 [자료형](../Page/자료형.md "wikilink")에서 동작할 수 있게 한다. 이는 [튜링 완전](https://ko.wikipedia.org/wiki/튜링_완전 "wikilink") 언어로 볼 수 있다.

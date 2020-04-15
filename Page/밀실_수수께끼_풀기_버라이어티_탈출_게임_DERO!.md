@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [      DERO!](https://ko.wikipedia.org/wiki/______DERO!).
+> This article is converted from Wikipedia: [밀실 수수께끼 풀기 버라이어티 탈출 게임 DERO!](https://ko.wikipedia.org/wiki/밀실_수수께끼_풀기_버라이어티_탈출_게임_DERO!).
 
 
 **밀실 수수께끼 풀기 버라이어티 탈출 게임 DERO\!**()는 [닛폰 TV 방송망에서](../Page/닛폰_TV_방송망.md "wikilink") 방송된 퀴즈, 버라이어티 프로그램이다.

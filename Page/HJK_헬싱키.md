@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [HJK ](https://ko.wikipedia.org/wiki/HJK_).
+> This article is converted from Wikipedia: [HJK 헬싱키](https://ko.wikipedia.org/wiki/HJK_헬싱키).
 
 
 **헬싱인 얄카팔로클루비**(Helsingin Jalkapalloklubi, 약칭 **HJK**) 또는 **HJK 헬싱키**(HJK Helsinki)는 [핀란드](../Page/핀란드.md "wikilink") [헬싱키](../Page/헬싱키.md "wikilink")의 축구 클럽이다.

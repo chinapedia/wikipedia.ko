@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SUPERGiRLS](https://ko.wikipedia.org/wiki/SUPERGiRLS).
+> This article is converted from Wikipedia: [SUPER☆GiRLS](https://ko.wikipedia.org/wiki/SUPER☆GiRLS).
 
 
 **SUPER☆GiRLS**는 [2010년](../Page/2010년.md "wikilink")에 결성된 일본의 [여성](../Page/여성.md "wikilink") [아이돌](https://ko.wikipedia.org/wiki/아이돌 "wikilink") 그룹이다. 소속 사무소는 [에이벡스](https://ko.wikipedia.org/wiki/에이벡스 "wikilink").

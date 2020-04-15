@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [IATA     ](https://ko.wikipedia.org/wiki/IATA_____).
+> This article is converted from Wikipedia: [IATA 공항 코드가 부여된 역 목록](https://ko.wikipedia.org/wiki/IATA_공항_코드가_부여된_역_목록).
 
 
 **IATA 공항 코드가 부여된 역 목록**은 [IATA 공항 코드가](../Page/IATA_공항_코드.md "wikilink") 부여되어 있는 [철도역](../Page/철도역.md "wikilink")의 목록이다. 공항과 가까워 [연락 운송이](https://ko.wikipedia.org/wiki/연락_운송 "wikilink") 이루어지고 있거나, 또는 열차가 항공편과 코드 셰어로 운행([공동운항](../Page/공동운항.md "wikilink"))되는 등의 경우의 필요로 인해 부여되어 있다.

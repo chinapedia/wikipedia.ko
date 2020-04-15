@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  AG:   ](https://ko.wikipedia.org/wiki/__AG:___).
+> This article is converted from Wikipedia: [극장판 포켓몬스터 AG: 열공의 방문자 테오키스](https://ko.wikipedia.org/wiki/극장판_포켓몬스터_AG:_열공의_방문자_테오키스).
 
 
 〈**극장판 포켓몬스터 열공의 방문자 테오키스**〉(劇場版ポケットモンスター アドバンスジェネレーション 裂空の訪問者 デオキシス)는 [2004년](../Page/2004년.md "wikilink") [7월 17일에](../Page/7월_17일.md "wikilink") 개봉된 [TV 애니메이션](../Page/애니메이션.md "wikilink")〈[포켓몬스터](../Page/포켓몬스터.md "wikilink")〉의 [극장판](https://ko.wikipedia.org/wiki/포켓몬스터_\(극장판\) "wikilink") 제7기이다.
@@ -62,4 +62,4 @@
   - [레쿠쟈](../Page/레쿠쟈.md "wikilink")
     오존층을 지키는 포켓몬으로써 자신의 영역 침범을 아주 싫어한다. 테오키스를 감지하고 랄스시티로 향한다. 특기는 파괴광선. 하늘을 나는 초록색 드레곤이다.
 
-[분류:2004년 애니메이션 영화](https://ko.wikipedia.org/wiki/분류:2004년_애니메이션_영화 "wikilink") [분류:포켓몬스터 극장판](https://ko.wikipedia.org/wiki/분류:포켓몬스터_극장판 "wikilink") [분류:일본어 영화 작품](https://ko.wikipedia.org/wiki/분류:일본어_영화_작품 "wikilink") [분류:미래를 배경으로 한 영화](https://ko.wikipedia.org/wiki/분류:미래를_배경으로_한_영화 "wikilink")
+[분류:2004년 애니메이션 영화](https://ko.wikipedia.org/wiki/분류:2004년_애니메이션_영화 "wikilink") [분류:포켓몬스터 극장판](https://ko.wikipedia.org/wiki/분류:포켓몬스터_극장판 "wikilink") [분류:일본어 영화 작품](https://ko.wikipedia.org/wiki/분류:일본어_영화_작품 "wikilink") [분류:미래를 배경으로 한 영화](https://ko.wikipedia.org/wiki/분류:미래를_배경으로_한_영화 "wikilink") [분류:일본의 애니메이션 영화](https://ko.wikipedia.org/wiki/분류:일본의_애니메이션_영화 "wikilink")

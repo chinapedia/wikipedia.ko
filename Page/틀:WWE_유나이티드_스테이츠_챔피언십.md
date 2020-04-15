@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:WWE   ](https://ko.wikipedia.org/wiki/:WWE___).
+> This article is converted from Wikipedia: [틀:WWE 유나이티드 스테이츠 챔피언십](https://ko.wikipedia.org/wiki/틀:WWE_유나이티드_스테이츠_챔피언십).
 
 
 <onlyinclude></onlyinclude>

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FK  ](https://ko.wikipedia.org/wiki/FK__).
+> This article is converted from Wikipedia: [FK 젤레즈니차르 사라예보](https://ko.wikipedia.org/wiki/FK_젤레즈니차르_사라예보).
 
 
 **FK 젤레즈니차르 사라예보**(FK Željezničar Sarajevo), 약칭 **FK 젤레즈니차르**(FK Željezničar)는 [보스니아 헤르체고비나](../Page/보스니아_헤르체고비나.md "wikilink") [사라예보](../Page/사라예보.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다. 클럽 이름에서 "젤레즈니차르"는 [보스니아어](../Page/보스니아어.md "wikilink")로 "철도 종업원"을 뜻하는데 이는 철도 종업원들을 주축으로 창단된 클럽임을 뜻한다. 보스니아 헤르체고비나의 대표적인 축구 클럽 가운데 하나로 꼽히고 있으며 [사라예보](../Page/사라예보.md "wikilink")를 연고로 하는 [축구](../Page/축구.md "wikilink") 클럽인 [FK 사라예보와](../Page/FK_사라예보.md "wikilink") 라이벌 관계에 있다.

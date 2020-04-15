@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ EP-3](https://ko.wikipedia.org/wiki/_EP-3).
+> This article is converted from Wikipedia: [록히드 EP-3](https://ko.wikipedia.org/wiki/록히드_EP-3).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:EP-3E_VQ-1_2001.jpg "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:Lockheed_EP-3E_Orion_\(ARIES\),_USA_-_Navy_AN1267652.jpg "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:EP-3E_DN-SD-07-09322.JPEG "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:Ep-3_01l.jpg "wikilink")

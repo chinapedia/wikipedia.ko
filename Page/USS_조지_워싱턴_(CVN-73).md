@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [USS   \(CVN-73\)](https://ko.wikipedia.org/wiki/USS___\(CVN-73\)).
+> This article is converted from Wikipedia: [USS 조지 워싱턴 \(CVN-73\)](https://ko.wikipedia.org/wiki/USS_조지_워싱턴_\(CVN-73\)).
 
 
 **USS 조지 워싱턴 (CVN-73)**은 [미 해군의](https://ko.wikipedia.org/wiki/미_해군 "wikilink") 핵추진 [항공모함](../Page/항공모함.md "wikilink")으로 [니미츠급](../Page/니미츠급_항공모함.md "wikilink")(Nimiz Class)의 6번함이자 미 해군 7함대의 핵심전력이다. 함명인 [조지 워싱턴은](../Page/조지_워싱턴.md "wikilink") [미국의 초대 대통령이다](../Page/미국의_대통령.md "wikilink"). 지난 1992년 실전 배치된 이후 2008년 8월 일본 요코스카 해군기지에 영구배치돼 일본은 물론 한반도 주변 해역에서 작전임무를 수행해왔다.

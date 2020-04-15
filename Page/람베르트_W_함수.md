@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ W ](https://ko.wikipedia.org/wiki/_W_).
+> This article is converted from Wikipedia: [람베르트 W 함수](https://ko.wikipedia.org/wiki/람베르트_W_함수).
 
 
 [thumb](https://ko.wikipedia.org/wiki/파일:Lambert-w.svg "wikilink") [수학](../Page/수학.md "wikilink")에서, **람베르트 W 함수**()는 [복소함수](../Page/복소함수.md "wikilink") \(f(w)=we^w\)의 [역관계의](../Page/관계_\(수학\).md "wikilink") 일부인 함수들의 [집합](../Page/집합.md "wikilink")이며, 다음과 같은 공식을 가진다.

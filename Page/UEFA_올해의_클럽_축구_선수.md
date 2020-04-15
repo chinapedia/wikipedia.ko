@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [UEFA    ](https://ko.wikipedia.org/wiki/UEFA____).
+> This article is converted from Wikipedia: [UEFA 올해의 클럽 축구 선수](https://ko.wikipedia.org/wiki/UEFA_올해의_클럽_축구_선수).
 
 
 **UEFA 올해의 클럽 축구 선수**(UEFA Club Footballer of the Year)는 [UEFA 챔피언스리그](../Page/UEFA_챔피언스리그.md "wikilink") 시즌에서 최고의 활약을 보여준 선수에게 수여했던 상이다. 2009-10 시즌을 끝으로 폐지되었으며 현재는 [UEFA 올해의 선수가](../Page/UEFA_올해의_선수.md "wikilink") 대신하고 있다.

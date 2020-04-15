@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  TEKKEN CRASH Season1](https://ko.wikipedia.org/wiki/__TEKKEN_CRASH_Season1).
+> This article is converted from Wikipedia: [오뚜기 뿌셔뿌셔배 TEKKEN CRASH Season1](https://ko.wikipedia.org/wiki/오뚜기_뿌셔뿌셔배_TEKKEN_CRASH_Season1).
 
 
 **오뚜기 뿌셔뿌셔배 TEKKEN CRASH**는 대한민국의 이스포츠 대회 중 하나로,\[1\] 격투 게임인 [철권](../Page/철권.md "wikilink")이 주종목이다.

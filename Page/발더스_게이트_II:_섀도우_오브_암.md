@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  II:   ](https://ko.wikipedia.org/wiki/__II:___).
+> This article is converted from Wikipedia: [발더스 게이트 II: 섀도우 오브 암](https://ko.wikipedia.org/wiki/발더스_게이트_II:_섀도우_오브_암).
 
 
 《**발더스 게이트 II: 섀도우 오브 암**》(Baldur's Gate II: Shadows of Amn)는 [바이오웨어](../Page/바이오웨어.md "wikilink")가 제작하고 [블랙 아일 스튜디오가](../Page/블랙_아일_스튜디오.md "wikilink") 배급한 액션 롤플레잉 게임으로, 《[발더스 게이트](../Page/발더스_게이트.md "wikilink")》의 후속작이다.

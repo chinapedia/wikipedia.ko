@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Goodbye \( \)](https://ko.wikipedia.org/wiki/Goodbye_\(_\)).
+> This article is converted from Wikipedia: [Goodbye \(김사랑의 노래\)](https://ko.wikipedia.org/wiki/Goodbye_\(김사랑의_노래\)).
 
 
 \<**Goodbye**\>는 대한민국의 가수 [김사랑의](../Page/김사랑_\(가수\).md "wikilink") 첫 디지털 싱글이다.

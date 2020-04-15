@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ BEST 50](https://ko.wikipedia.org/wiki/_BEST_50).
+> This article is converted from Wikipedia: [인기가요 BEST 50](https://ko.wikipedia.org/wiki/인기가요_BEST_50).
 
 
 **인기가요 BEST 50**은 [MBC](https://ko.wikipedia.org/wiki/MBC "wikilink")에서 1995년 4월 21일부터 1998년 1월 17일까지 방영되었던 가요 프로그램으로 [생방송 음악캠프와](../Page/생방송_음악캠프.md "wikilink") [쇼\! 음악중심의](https://ko.wikipedia.org/wiki/쇼!_음악중심 "wikilink") 전신이다.

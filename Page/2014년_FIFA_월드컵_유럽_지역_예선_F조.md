@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [2014 FIFA     F](https://ko.wikipedia.org/wiki/2014_FIFA_____F).
+> This article is converted from Wikipedia: [2014년 FIFA 월드컵 유럽 지역 예선 F조](https://ko.wikipedia.org/wiki/2014년_FIFA_월드컵_유럽_지역_예선_F조).
 
 
 **[2014년 FIFA 월드컵 유럽 지역 예선](../Page/2014년_FIFA_월드컵_유럽_지역_예선.md "wikilink") F조**는 [포르투갈을](../Page/포르투갈_축구_국가대표팀.md "wikilink") 비롯하여 [러시아](../Page/러시아_축구_국가대표팀.md "wikilink"), [이스라엘](../Page/이스라엘_축구_국가대표팀.md "wikilink"), [북아일랜드](../Page/북아일랜드_축구_국가대표팀.md "wikilink"), [아제르바이잔](../Page/아제르바이잔_축구_국가대표팀.md "wikilink"), [룩셈부르크로](../Page/룩셈부르크_축구_국가대표팀.md "wikilink") 구성되어 있다.

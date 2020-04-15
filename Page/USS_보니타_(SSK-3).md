@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [USS  \(SSK-3\)](https://ko.wikipedia.org/wiki/USS__\(SSK-3\)).
+> This article is converted from Wikipedia: [USS 보니타 \(SSK-3\)](https://ko.wikipedia.org/wiki/USS_보니타_\(SSK-3\)).
 
 
 **USS 보니타 (SSK-3/SS-552)**는 [바라쿠다급 잠수함의](https://ko.wikipedia.org/wiki/바라쿠다급_잠수함_\(1951년 "wikilink") 세 번째 함이다. 이 이름이 사용된 함선으로는 네 번째 함선이며, 함명은 어류의 하나인 [가다랑어](../Page/가다랑어.md "wikilink")에서 따왔다.

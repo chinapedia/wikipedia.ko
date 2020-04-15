@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TPE \( \)](https://ko.wikipedia.org/wiki/TPE_\(_\)).
+> This article is converted from Wikipedia: [TPE \(케이블 시스템\)](https://ko.wikipedia.org/wiki/TPE_\(케이블_시스템\)).
 
 
 **TPE**(Trans-Pacific Express)는 [중화인민공화국](../Page/중화인민공화국.md "wikilink"), [중화민국](../Page/중화민국.md "wikilink"), [대한민국](../Page/대한민국.md "wikilink"), [미국](../Page/미국.md "wikilink")을 잇는 해저 케이블이다. [중국전신](https://ko.wikipedia.org/wiki/중국전신 "wikilink"), [차이나 넷콤](https://ko.wikipedia.org/wiki/차이나_넷콤 "wikilink"), [차이나 유니콤](https://ko.wikipedia.org/wiki/차이나_유니콤 "wikilink"), [청화 텔레콤](https://ko.wikipedia.org/wiki/청화_텔레콤 "wikilink"), [KT](../Page/KT.md "wikilink"), [버라이즌 커뮤니케이션스가](../Page/버라이즌_커뮤니케이션스.md "wikilink") 500만 달러를 들인 공동 사업이다.\[1\] (2008년 3월에 [AT\&T](../Page/AT&T.md "wikilink")와 [NTT](https://ko.wikipedia.org/wiki/NTT "wikilink")가 뒤늦게 참여하였다.\[2\]) 케이블 소유권은 여섯 회사가 고르게 나누어 가진다. 2008년 9월에 완공하였는데, 케이블 길이는 약 17,700 킬로미터다.\[3\]

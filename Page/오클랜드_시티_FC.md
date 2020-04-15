@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  FC](https://ko.wikipedia.org/wiki/__FC).
+> This article is converted from Wikipedia: [오클랜드 시티 FC](https://ko.wikipedia.org/wiki/오클랜드_시티_FC).
 
 
 **오클랜드 시티 FC**()는 [뉴질랜드](../Page/뉴질랜드.md "wikilink") [오클랜드 시티를](https://ko.wikipedia.org/wiki/오클랜드_시 "wikilink") 연고로 하는 [축구](../Page/축구.md "wikilink") 클럽 팀으로, [뉴질랜드 축구 선수권 대회에](../Page/뉴질랜드_축구_선수권_대회.md "wikilink") 참가하고 있다.

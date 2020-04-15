@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  II](https://ko.wikipedia.org/wiki/__II).
+> This article is converted from Wikipedia: [보루시아 도르트문트 II](https://ko.wikipedia.org/wiki/보루시아_도르트문트_II).
 
 
 **보루시아 도르트문트 II**(Borussia Dortmund II)는 [독일](../Page/독일.md "wikilink") [도르트문트](../Page/도르트문트.md "wikilink")의 축구 클럽으로, [보루시아 도르트문트의](../Page/보루시아_도르트문트.md "wikilink") 2군 팀이다. 현재 [3 리가에서](https://ko.wikipedia.org/wiki/3_리가 "wikilink") 활동하고 있다.

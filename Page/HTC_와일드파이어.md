@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [HTC ](https://ko.wikipedia.org/wiki/HTC_).
+> This article is converted from Wikipedia: [HTC 와일드파이어](https://ko.wikipedia.org/wiki/HTC_와일드파이어).
 
 
 **HTC 와일드파이어**()는 [HTC에서](../Page/HTC_\(기업\).md "wikilink") [2010년](../Page/2010년.md "wikilink")에 발표한 보급형 스마트폰이다. [2010년](../Page/2010년.md "wikilink") 6월 [유럽](../Page/유럽.md "wikilink")에서 처음 시판되었으며, [대한민국](../Page/대한민국.md "wikilink")에는 [2010년](../Page/2010년.md "wikilink") [10월 11일](../Page/10월_11일.md "wikilink") [SK텔레콤](../Page/SK텔레콤.md "wikilink")을 통하여 **디자이어 팝**이라는 이름으로 출시되었다. SK텔레콤에서는 디자이어 팝이라고 부르고 있으나, HTC 한국어 홈페이지에서는 Wildfire라고 정식 호칭하고 있으며\[1\] 대한민국 판매용 제품의 포장에도 Wildfire라는 명칭이 명기되어 있다.

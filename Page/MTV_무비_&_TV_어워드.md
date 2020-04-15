@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [MTV  \& TV ](https://ko.wikipedia.org/wiki/MTV__\&_TV_).
+> This article is converted from Wikipedia: [MTV 무비 \& TV 어워드](https://ko.wikipedia.org/wiki/MTV_무비_\&_TV_어워드).
 
 
 **MTV 무비 & TV 어워드**(, 이전 이름은 **MTV 무비 어워드**\[1\])는 매년 [MTV](../Page/MTV.md "wikilink")가 주최하는 [영화](../Page/영화.md "wikilink")과 [텔레비전](../Page/텔레비전.md "wikilink") 시상식이다. 후보는 MTV의 제작자와 임원에 의해 결정된다. 수상자는 일반 대중이 온라인으로 결정 되고, 현재 투표는 Movie & TV Awards 투표 웹 사이트를 통해 MTV의 공식 웹 사이트를 통해 이루어진다.\[2\] 2017년 5월 7일 MTV 무비 & TV 어워드(MTV Movie & TV Awards)가 처음 열렸고, 그동안 각각 수상자가 결정 된 연기 부문에서는 남성과 여성이 처음으로 경쟁하고 있다. 수상자에게는 뉴욕 영화 비평가상에서 제작한 '황금 팝콘' 동상이 주어진다.\[3\]

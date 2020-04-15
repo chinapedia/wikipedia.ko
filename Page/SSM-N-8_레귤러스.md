@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SSM-N-8 ](https://ko.wikipedia.org/wiki/SSM-N-8_).
+> This article is converted from Wikipedia: [SSM-N-8 레귤러스](https://ko.wikipedia.org/wiki/SSM-N-8_레귤러스).
 
 
 **SSM-N-8 Regulus**는 1950년대 미국 [보우트](https://ko.wikipedia.org/wiki/보우트 "wikilink")가 개발한 핵 순항미사일이다.

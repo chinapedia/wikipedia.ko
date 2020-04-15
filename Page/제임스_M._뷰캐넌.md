@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ M. ](https://ko.wikipedia.org/wiki/_M._).
+> This article is converted from Wikipedia: [제임스 M. 뷰캐넌](https://ko.wikipedia.org/wiki/제임스_M._뷰캐넌).
 
 
 **제임스 맥길 뷰캐넌 주니어**(James McGill Buchanan, Jr. 1919년 10월 3일\~2013년 1월 9일) 교수는 공공선택론으로 1986년 [노벨경제학상](https://ko.wikipedia.org/wiki/노벨경제학상 "wikilink")을 수상한 [미국](../Page/미국.md "wikilink")의 경제학자이다. 뷰캐넌은 1919년 테네시주 머프리즈버러에서 태어났다. [미들 테네시 주립 대학교와](https://ko.wikipedia.org/wiki/미들_테네시_주립_대학교 "wikilink") 테네시 대학교에서 해사,석사학위를 취득했으며 2차대전에서 해군 장교로 복무했다.\[1\] 자유시장주의를 대표하는 [시카고 대학교에서](../Page/시카고_대학교.md "wikilink") 1948년 박사 학위를 받고 테네시 대학교에서 교수가 됐다. 조지메이슨 대학교의 명예교수였던 뷰캐넌은 공공선택론으로 유명하다. 이 이론은 정치인과 정부 관리가 다른 사람과 마찬가지로 개인의 이익을 좇는다고 가정한다. 재선을 하거나 더 큰 권력을 얻으려고 하지 항상 공공의 이익을 위해 행동하지는 않는다는 설명이다. 뷰캐넌은 \`동의의 산술\`, \`공공부문의 선택이론\` 등 30권 넘는 저서와 강의 등을 통해 공공선택론을 설파하며 작은 정부와 적자 축소, 규제 완화를 주장했다.\[2\]\[3\]

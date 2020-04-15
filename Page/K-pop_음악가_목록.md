@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [K-pop  ](https://ko.wikipedia.org/wiki/K-pop__).
+> This article is converted from Wikipedia: [K-pop 음악가 목록](https://ko.wikipedia.org/wiki/K-pop_음악가_목록).
 
 
 다음은 [K-pop](../Page/K-pop.md "wikilink") [음악가](https://ko.wikipedia.org/wiki/음악가 "wikilink") 목록이다.

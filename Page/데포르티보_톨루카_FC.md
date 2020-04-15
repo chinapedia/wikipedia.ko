@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  FC](https://ko.wikipedia.org/wiki/__FC).
+> This article is converted from Wikipedia: [데포르티보 톨루카 FC](https://ko.wikipedia.org/wiki/데포르티보_톨루카_FC).
 
 
 **데포르티보 톨루카 풋볼 클럽**(Deportivo Toluca Fútbol Club)은 [멕시코](../Page/멕시코.md "wikilink") [멕시코주](https://ko.wikipedia.org/wiki/멕시코주 "wikilink") [톨루카](../Page/톨루카.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다.

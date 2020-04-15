@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TAAG    ](https://ko.wikipedia.org/wiki/TAAG____).
+> This article is converted from Wikipedia: [TAAG 앙골라 항공의 운항 노선](https://ko.wikipedia.org/wiki/TAAG_앙골라_항공의_운항_노선).
 
 
 **[TAAG 앙골라 항공](../Page/TAAG_앙골라_항공.md "wikilink")**은 [2012년](../Page/2012년.md "wikilink") [2월](../Page/2월.md "wikilink") 기준으로 다음과 같은 노선들을 운항하고 있다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TNA ](https://ko.wikipedia.org/wiki/TNA_).
+> This article is converted from Wikipedia: [TNA 동창생](https://ko.wikipedia.org/wiki/TNA_동창생).
 
 
 **TNA 동창생(TNA Alumni)**는 예전에 [TNA에서](https://ko.wikipedia.org/wiki/토탈_논스톱_액션_레슬링 "wikilink") 활약했던 레슬러 및 임직원들이다.

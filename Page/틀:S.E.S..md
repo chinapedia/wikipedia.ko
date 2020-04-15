@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:S.E.S.](https://ko.wikipedia.org/wiki/:S.E.S.).
+> This article is converted from Wikipedia: [틀:S.E.S.](https://ko.wikipedia.org/wiki/틀:S.E.S.).
 
 
 <onlyinclude></onlyinclude>

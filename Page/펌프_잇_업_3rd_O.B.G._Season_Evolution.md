@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [   3rd O.B.G. Season Evolution](https://ko.wikipedia.org/wiki/___3rd_O.B.G._Season_Evolution).
+> This article is converted from Wikipedia: [펌프 잇 업 3rd O.B.G. Season Evolution](https://ko.wikipedia.org/wiki/펌프_잇_업_3rd_O.B.G._Season_Evolution).
 
 
 **펌프 잇 업 3rd O.B.G. Season Evolution**은 펌프 잇 업의 네번째 버전이다. 원래 Summer Edition이라고 나올 뻔 했다가 출시 시기가 약간 늦어져서 Season Evolution이라고 나왔다. 신곡 14곡과 리믹스 1곡이 추가. 곡 수가 늘어남에 따라 더이상 4x4로 곡을 나열할 수 없어 이 버전부터 처음부터 기본적으로 올송상태로 게임을 진행시킬 수 있다. 또한 반야의 곡에 유명 아티스트가 참여했다. (무혼에서 유진박이 바이올린 연주, 사랑가의 랩은 드렁큰타이거) 이 버전부터 이지가 노멀로 변경되었다. 그리고 1p, 2p가 같은 스텝이 나오게 된다. 3rd 패치판에서 추가된 크레이지 모드의 평가가 좋아 강화되어 종전에 하드 모드의 부분적 히든이 아닌 아예 히든 모드로 분리. 그리고 이 시리즈부터 추가된 신곡은 왠만해선 모두 크레이지 스텝을 넣는 전통이 생겼다. 그리고 곡 수가 늘어남에 따라 음악 출력방식도 CD트랙에서 MP3를 사용하는 방식으로 변경. 그덕분에 음악 곡 프리뷰를 할때 살짝 로딩시간이 생겼다. 여담으로 당시에는 잘 안알려졌지만 엔딩이 존재하였다고 한다. 그러나 출현방법이 난감하였는데 이지모드를 제외한 모드에서 올S을 받아야한다. 애당초 Ez2dj처럼 판정존이 지정되어 있는 것이기 아니기 때문에 거의 출현 불가능한 수준. SE에 수록된 컨츄리꼬꼬의 'Kiss'는 저작권 문제때문에 삭제되어 이후의 버전에서는 영원히 등장하지 못한다.

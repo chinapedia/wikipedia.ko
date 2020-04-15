@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Geobox2 map](https://ko.wikipedia.org/wiki/:Geobox2_map).
+> This article is converted from Wikipedia: [틀:Geobox2 map](https://ko.wikipedia.org/wiki/틀:Geobox2_map).
 
 
 <includeonly> {{\#if:|

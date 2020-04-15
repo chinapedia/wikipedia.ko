@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  FC](https://ko.wikipedia.org/wiki/__FC).
+> This article is converted from Wikipedia: [부다페스트 혼베드 FC](https://ko.wikipedia.org/wiki/부다페스트_혼베드_FC).
 
 
 **부다페스트 혼베드 FC**()는 [부다페스트](../Page/부다페스트.md "wikilink")를 연고로 하는 [헝가리](../Page/헝가리.md "wikilink")의 축구 클럽으로, 현재 [헝가리 리그에서](../Page/넴제티_버이녹샤그_I.md "wikilink") 활동하고 있다. 혼베드(Honved)는 [헝가리어](../Page/헝가리어.md "wikilink")로 "군인"을 뜻한다.

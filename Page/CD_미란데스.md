@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [CD ](https://ko.wikipedia.org/wiki/CD_).
+> This article is converted from Wikipedia: [CD 미란데스](https://ko.wikipedia.org/wiki/CD_미란데스).
 
 
 **CD 미란데스**(Club Deportivo Mirandés S.A.D.)는 [부르고스 주](https://ko.wikipedia.org/wiki/부르고스_주 "wikilink") [미란다데에브로](../Page/미란다데에브로.md "wikilink")를 연고로 하는 [스페인](../Page/스페인.md "wikilink")의 축구 클럽이다.

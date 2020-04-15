@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ AMOLED](https://ko.wikipedia.org/wiki/_AMOLED).
+> This article is converted from Wikipedia: [슈퍼 AMOLED](https://ko.wikipedia.org/wiki/슈퍼_AMOLED).
 
 
 **슈퍼 AMOLED**(Super AMOLED) 는 [삼성SDI](../Page/삼성SDI.md "wikilink")에서 만든 [능동형 유기 발광 다이오드](../Page/능동형_유기_발광_다이오드.md "wikilink") (AM OLED) 계열 디스플레이로, [ITO](https://ko.wikipedia.org/wiki/ITO "wikilink") 터치 스크린 패널을 디스플레이 위에 직접 증착한 OCTA (On-Cell Touch AMOLED)라고 명명한 온셀방식의 디스플레이로, 기존의 애드온방식과 달리 외부유리와 디스플레이 사이에 유리가 없어 AMOLED 플러스보다 선명도와 시야각이 개선되었으며\[1\], 색재현률이 개선되었다.

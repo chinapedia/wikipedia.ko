@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [LG  Q2](https://ko.wikipedia.org/wiki/LG__Q2).
+> This article is converted from Wikipedia: [LG 옵티머스 Q2](https://ko.wikipedia.org/wiki/LG_옵티머스_Q2).
 
 
 **LG 옵티머스 Q2**()는 [LG전자](../Page/LG전자.md "wikilink")가 [2011년](../Page/2011년.md "wikilink") [9월 24일에](../Page/9월_24일.md "wikilink") 출시한 [스마트폰](../Page/스마트폰.md "wikilink")이다.\[1\] 전작 옵티머스 Q와는 달리 [구글 플레이에서](../Page/구글_플레이.md "wikilink") 내려받을 수 있는 앱들을 최대한 제거하고 출시하였으며 [NVIDIA](https://ko.wikipedia.org/wiki/NVIDIA "wikilink")의 AP25 1.2 GHz [CPU를](../Page/중앙_처리_장치.md "wikilink") 장착하였으며, [QWERTY 자판을](../Page/QWERTY_자판.md "wikilink") 탑재하였다. 옵티머스 Q2는 안드로이드 애플리케이션뿐만 아니라 OZ 애플리케이션, LG 애플리케이션 등을 다운로드할 수 있다. 전작 [싸이언 옵티머스 Q가](../Page/싸이언_옵티머스_Q.md "wikilink") 있다.

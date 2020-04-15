@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TV    ](https://ko.wikipedia.org/wiki/TV____).
+> This article is converted from Wikipedia: [나이스게임TV 리그 오브 레전드 배틀](https://ko.wikipedia.org/wiki/나이스게임TV_리그_오브_레전드_배틀).
 
 
 **나이스게임TV 리그 오브 레전드 배틀** (NicegameTV League of legends Battle, **NLB**)은 라이엇게임즈가 주최하고 [나이스게임TV](https://ko.wikipedia.org/wiki/나이스게임TV "wikilink")가 주관한 대회이다. 온게임넷의 리그 오브 레전드 주관 대회인 [리그 오브 레전드 챔피언스의](https://ko.wikipedia.org/wiki/리그_오브_레전드_챔피언스 "wikilink") 하부리그로 진행되었다. 연간리그로 진행되는 챔피언스의 각 계절별 시즌과 맞춰서 진행되었으며 이 대회는 2015년부터 [리그 오브 레전드 챌린저스 코리아로](../Page/리그_오브_레전드_챌린저스_코리아.md "wikilink") 기능이 이전되어 진행된다.

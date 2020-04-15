@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [AIDC ](https://ko.wikipedia.org/wiki/AIDC_).
+> This article is converted from Wikipedia: [AIDC 경국호](https://ko.wikipedia.org/wiki/AIDC_경국호).
 
 
 **경국호(經國號)** (AIDC F-CK-1 Ching-kuo)는 흔히 [IDF](https://ko.wikipedia.org/wiki/IDF "wikilink") (국산 방위 전투기)로 불리며, [중화민국](../Page/중화민국.md "wikilink")에서 개발한 전투기이다. 외형이 [F-16](https://ko.wikipedia.org/wiki/F-16 "wikilink")과 [F-18](https://ko.wikipedia.org/wiki/F-18 "wikilink")이 혼합된 모습이다.

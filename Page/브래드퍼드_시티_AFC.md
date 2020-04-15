@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  AFC](https://ko.wikipedia.org/wiki/__AFC).
+> This article is converted from Wikipedia: [브래드퍼드 시티 AFC](https://ko.wikipedia.org/wiki/브래드퍼드_시티_AFC).
 
 
 **브래드퍼드 시티 AFC**(Bradford City A.F.C.)는 [잉글랜드](../Page/잉글랜드.md "wikilink")의 축구 클럽으로, [웨스트요크셔주](../Page/웨스트요크셔주.md "wikilink")의 [브래드퍼드](../Page/브래드퍼드.md "wikilink")를 연고지로 한다.

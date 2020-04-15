@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  FC](https://ko.wikipedia.org/wiki/__FC).
+> This article is converted from Wikipedia: [알아흘리 사우디 FC](https://ko.wikipedia.org/wiki/알아흘리_사우디_FC).
 
 
 **알아흘리 사우디 FC**(, )는 [지다](../Page/지다.md "wikilink")에 위치한 [사우디아라비아](../Page/사우디아라비아.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다.

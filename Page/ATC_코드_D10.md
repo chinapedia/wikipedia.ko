@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ATC  D10](https://ko.wikipedia.org/wiki/ATC__D10).
+> This article is converted from Wikipedia: [ATC 코드 D10](https://ko.wikipedia.org/wiki/ATC_코드_D10).
 
 
 **ATC 코드 D10**은 [ATC 코드의](https://ko.wikipedia.org/wiki/ATC_코드 "wikilink") 여드름 치료제로 작용하는 약물을 정리한 코드이다. \[1\] **ATC 코드** D 피부과의 하위그룹을 이룬다.

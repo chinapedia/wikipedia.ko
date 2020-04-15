@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [GREATEST HITS \(OLIVIA \)](https://ko.wikipedia.org/wiki/GREATEST_HITS_\(OLIVIA_\)).
+> This article is converted from Wikipedia: [GREATEST HITS \(OLIVIA의 음반\)](https://ko.wikipedia.org/wiki/GREATEST_HITS_\(OLIVIA의_음반\)).
 
 
 『**GREATEST HITS**』(그레이티스트 히트)는 [OLIVIA](../Page/OLIVIA.md "wikilink")의 베스트 앨범이다. [2010년](../Page/2010년.md "wikilink")[10월 13일에](../Page/10월_13일.md "wikilink") [cutting edge에](https://ko.wikipedia.org/wiki/커팅_엣지 "wikilink") 의해 발매되었다.

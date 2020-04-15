@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Bj ](https://ko.wikipedia.org/wiki/Bj_).
+> This article is converted from Wikipedia: [Bj 리그](https://ko.wikipedia.org/wiki/Bj_리그).
 
 
 **BJ 리그**(**BJ League** 또는 **Basketball Japan League**)는 [일본](../Page/일본.md "wikilink")의 프로 [농구](../Page/농구.md "wikilink") 리그이다. 2005년 11월 5일 처음으로 시작되었으며, 경기는 22개의 팀으로 구성된다.

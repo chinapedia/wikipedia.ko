@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [! FM](https://ko.wikipedia.org/wiki/!_FM).
+> This article is converted from Wikipedia: [출발! 해피FM](https://ko.wikipedia.org/wiki/출발!_해피FM).
 
 
 **출발\! 해피FM 김성은입니다**는 [한국방송공사](../Page/한국방송공사.md "wikilink")의 라디오 채널 [KBS 제2라디오](../Page/KBS_제2라디오.md "wikilink")(수도권 기준 FM 106.1㎒, AM 603㎑)에서 매일 새벽 5시부터 아침 6시까지 방송하는 라디오 방송이다. 기존 오전 5시부터 6시까지 방송하던 [활기찬 새아침 김성은입니다에서](../Page/활기찬_새아침.md "wikilink") [2013년](../Page/2013년.md "wikilink") KBS 라디오 봄 개편으로 개편된 프로그램이다. [2011년](../Page/2011년.md "wikilink") 방송하던 [출발\! 해피FM 이광용입니다와](https://ko.wikipedia.org/wiki/출발!_해피FM_이광용입니다 "wikilink") 이름이 같다.

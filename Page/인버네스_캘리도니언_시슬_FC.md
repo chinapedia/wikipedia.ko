@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [   FC](https://ko.wikipedia.org/wiki/___FC).
+> This article is converted from Wikipedia: [인버네스 캘리도니언 시슬 FC](https://ko.wikipedia.org/wiki/인버네스_캘리도니언_시슬_FC).
 
 
 **인버네스 캘리도니언 시슬 FC**(Inverness Caledonian Thistle Football Club)는 [스코틀랜드](../Page/스코틀랜드.md "wikilink") [인버네스](../Page/인버네스.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽으로, 줄여서 **캘리 시슬**(Caley Thistle), **캘리 재그스**(Caley Jags) 또는 **ICT**라고 부르기도 한다.

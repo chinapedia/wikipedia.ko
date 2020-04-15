@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [S\&M \(\)](https://ko.wikipedia.org/wiki/S\&M_\(\)).
+> This article is converted from Wikipedia: [S\&M \(음반\)](https://ko.wikipedia.org/wiki/S\&M_\(음반\)).
 
 
 《**S\&M** (Symphony and Metallica)》은 1999년 4월 21일과 22일 버클리 커뮤니티 극장에서 열렸던 [미국](../Page/미국.md "wikilink") [헤비메탈](https://ko.wikipedia.org/wiki/헤비메탈 "wikilink") 밴드인 메탈리카와 [마이클 케이먼이](https://ko.wikipedia.org/wiki/마이클_케이먼 "wikilink") 지휘하던 [샌프란시스코 심포니의](https://ko.wikipedia.org/wiki/샌프란시스코_심포니 "wikilink") 협연 라이브 음반이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SOPA PIPA  ](https://ko.wikipedia.org/wiki/SOPA_PIPA__).
+> This article is converted from Wikipedia: [SOPA와 PIPA 반대 시위](https://ko.wikipedia.org/wiki/SOPA와_PIPA_반대_시위).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:History_Wikipedia_English_SOPA_2012_Blackout2.jpg "wikilink")

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [AON   ](https://ko.wikipedia.org/wiki/AON___).
+> This article is converted from Wikipedia: [AON 하노이 랜드마크 타워](https://ko.wikipedia.org/wiki/AON_하노이_랜드마크_타워).
 
 
 **AON 하노이 랜드마크타워 (랜드마크72)**(AON Hanoi Landmark Tower(Landmark72))는 높이 350m로 [베트남](../Page/베트남.md "wikilink")의 [마천루](../Page/마천루.md "wikilink")로, 연면적은 세계최대인 60만 8946m<sup>2</sup>로 [경남기업](../Page/경남기업.md "wikilink")이 시공한 베트남 최대의 콤플렉스 빌딩이다. 총 사업비 10억 5000만달러로 베트남 단일 투자로는 최대규모이다. 72층 복합빌딩(350m) 1개동과 48층(212m) 주상복합 2개동 총 3개동으로 이뤄졌으며 복합빌딩엔 최고급 서비스 레지던스인 [칼리다스](https://ko.wikipedia.org/wiki/칼리다스 "wikilink")와 인터컨티넨탈호텔, 팍슨백화점, [롯데시네마](../Page/롯데시네마.md "wikilink")등 최첨단 몰링(malling) 시스템이 고루 갖춰져 있다.

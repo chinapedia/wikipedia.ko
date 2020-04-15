@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FIFA ](https://ko.wikipedia.org/wiki/FIFA_).
+> This article is converted from Wikipedia: [FIFA 발롱도르](https://ko.wikipedia.org/wiki/FIFA_발롱도르).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Sepp_Blatter_at_signing_of_agreement_creating_FIFA_Ballon_d’Or_in_Johannesburg_2010-07-05_2.jpg "wikilink") 회장 [제프 블라터가](../Page/제프_블라터.md "wikilink") FIFA 발롱도르상 제정 협의서를 들어보이고 있다.\]\] **FIFA 발롱도르**(FIFA Ballon d'or)는 매년 세계에서 가장 훌륭한 활약을 보여준 축구 선수에게 수여하던 [국제 축구 연맹](../Page/국제_축구_연맹.md "wikilink")(FIFA)의 축구상이다.
@@ -982,7 +982,7 @@
 </tr>
 <tr class="even">
 <td><p><strong>1위</strong></p></td>
-<td><p><strong><a href="../Page/사사키_노리오.md" title="wikilink">사사키 노리오</a></strong></p></td>
+<td><p><strong><a href="https://ko.wikipedia.org/wiki/사사키_노리오_(축구인)" title="wikilink">사사키 노리오</a></strong></p></td>
 <td><p><strong></strong></p></td>
 <td><p><strong></strong></p></td>
 <td></td>
@@ -1017,7 +1017,7 @@
 </tr>
 <tr class="odd">
 <td><p>2위</p></td>
-<td><p><a href="../Page/사사키_노리오.md" title="wikilink">사사키 노리오</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/사사키_노리오_(축구인)" title="wikilink">사사키 노리오</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1080,7 +1080,7 @@
 </tr>
 <tr class="even">
 <td><p>3위</p></td>
-<td><p><a href="../Page/사사키_노리오.md" title="wikilink">사사키 노리오</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/사사키_노리오_(축구인)" title="wikilink">사사키 노리오</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1101,7 +1101,7 @@
 </tr>
 <tr class="odd">
 <td><p>2위</p></td>
-<td><p><a href="../Page/사사키_노리오.md" title="wikilink">사사키 노리오</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/사사키_노리오_(축구인)" title="wikilink">사사키 노리오</a></p></td>
 <td></td>
 <td></td>
 <td></td>

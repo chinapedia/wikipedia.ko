@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  FC](https://ko.wikipedia.org/wiki/__FC).
+> This article is converted from Wikipedia: [마멜로디 선다운스 FC](https://ko.wikipedia.org/wiki/마멜로디_선다운스_FC).
 
 
 **마멜로디 선다운스 FC**()는 [남아프리카 공화국](../Page/남아프리카_공화국.md "wikilink") [프리토리아](../Page/프리토리아.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다.

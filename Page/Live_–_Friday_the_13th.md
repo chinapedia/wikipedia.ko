@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Live  Friday the 13th](https://ko.wikipedia.org/wiki/Live__Friday_the_13th).
+> This article is converted from Wikipedia: [Live – Friday the 13th](https://ko.wikipedia.org/wiki/Live_–_Friday_the_13th).
 
 
 ***Live – Friday The 13th***는 [마룬 5의](../Page/마룬_5.md "wikilink") [라이브 음반으로](https://ko.wikipedia.org/wiki/라이브_음반 "wikilink") DVD와 CD로 구성된다. 2005년 7월 13일 [미국](../Page/미국.md "wikilink") [캘리포니아주](../Page/캘리포니아주.md "wikilink") [샌타바버라](https://ko.wikipedia.org/wiki/샌타바버라 "wikilink")의 샌타바버라 볼(Santa Barbara Bowl)에서 녹음 되었다. [제5회 혼다 시빅 투어의](https://ko.wikipedia.org/wiki/제5회_혼다_시빅_투어 "wikilink") 일환이었다.

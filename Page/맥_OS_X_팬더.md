@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ OS X ](https://ko.wikipedia.org/wiki/_OS_X_).
+> This article is converted from Wikipedia: [맥 OS X 팬더](https://ko.wikipedia.org/wiki/맥_OS_X_팬더).
 
 
 **맥 OS X 팬서 (Mac OS X Panther, 버전 10.3)**는 애플의 [데스크톱](../Page/데스크톱_컴퓨터.md "wikilink") 및 [서버](../Page/서버.md "wikilink")용 [운영 체제인](../Page/운영_체제.md "wikilink") [맥 OS X의](https://ko.wikipedia.org/wiki/맥_OS_X "wikilink") 네번째 주요 릴리즈이다. 이 버전은 [맥 OS X 재규어의](https://ko.wikipedia.org/wiki/맥_OS_X_재규어 "wikilink") 다음 버전이고, 이 버전의 다음 버전은 [맥 OS X 타이거이다](../Page/맥_OS_X_타이거.md "wikilink"). 애플은 팬더를 [2003년](../Page/2003년.md "wikilink") 10월 24일 출시했다.

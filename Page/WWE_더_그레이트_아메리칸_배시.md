@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [WWE    ](https://ko.wikipedia.org/wiki/WWE____).
+> This article is converted from Wikipedia: [WWE 더 그레이트 아메리칸 배시](https://ko.wikipedia.org/wiki/WWE_더_그레이트_아메리칸_배시).
 
 
 **그레이트 아메리칸 배시/ 더 배시**(The Great American Bash/The Bash)는 [WWE](https://ko.wikipedia.org/wiki/WWE "wikilink")가 주관하였고, 2009년 끝으로 폐지된 페이퍼뷰이다. 원래는 [NWA와](../Page/내셔널_레슬링_얼라이언스.md "wikilink") [WCW가](https://ko.wikipedia.org/wiki/월드_챔피언십_레슬링 "wikilink") 2000년까지 개최하던 페이퍼뷰였다. WWE에서는 2004년 부활해서 2009년까지 개최되었다.

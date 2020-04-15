@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [MBN  ](https://ko.wikipedia.org/wiki/MBN__).
+> This article is converted from Wikipedia: [MBN 수목 미니시리즈](https://ko.wikipedia.org/wiki/MBN_수목_미니시리즈).
 
 
 **MBN 수목 미니시리즈**는 [대한민국](../Page/대한민국.md "wikilink")의 [종합편성채널](https://ko.wikipedia.org/wiki/종합편성채널 "wikilink")인 [MBN](https://ko.wikipedia.org/wiki/MBN "wikilink")을 통해 매주 [수요일](../Page/수요일.md "wikilink")과 [목요일](../Page/목요일.md "wikilink") [밤](https://ko.wikipedia.org/wiki/밤_\(시간\) "wikilink") 11시에 방송한 [텔레비전](../Page/텔레비전.md "wikilink") [드라마이다](../Page/텔레비전_드라마.md "wikilink"). 원래 [2012년](../Page/2012년.md "wikilink") [5월 9일부터](../Page/5월_9일.md "wikilink") [2012년](../Page/2012년.md "wikilink") [6월 28일까지](../Page/6월_28일.md "wikilink") 밤 8시 45분에 편성되었다가 폐지되었다. 이후 [2018년](../Page/2018년.md "wikilink")부터 봄 개편으로 밤 11시로 재편성되었다가 [2019년](../Page/2019년.md "wikilink") [7월10일](https://ko.wikipedia.org/wiki/7월10일 "wikilink") 다시 부활되었다.

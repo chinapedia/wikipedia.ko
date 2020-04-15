@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [USS  \(CV-2\)](https://ko.wikipedia.org/wiki/USS__\(CV-2\)).
+> This article is converted from Wikipedia: [USS 렉싱턴 \(CV-2\)](https://ko.wikipedia.org/wiki/USS_렉싱턴_\(CV-2\)).
 
 
 **USS 렉싱턴 (CV-2)**()은 미 해군의 [항공모함](../Page/항공모함.md "wikilink")이다. 또한 [렉싱턴급 항공모함의](../Page/렉싱턴급_항공모함.md "wikilink") [네임쉽](https://ko.wikipedia.org/wiki/네임쉽 "wikilink")이다. 미 해군에서 렉싱턴의 이름을 계승한 함으로는 이 함으로 4척이다. 애칭으로 "Gray Lady" 또는 "Lady Lex"로 부르기도 했다. [순양전함으로](https://ko.wikipedia.org/wiki/렉싱턴급_순양전함 "wikilink") 건조되었지만, [워싱턴 해군 조약으로](https://ko.wikipedia.org/wiki/워싱턴_해군_조약 "wikilink") 인해 그 계획은 취소되고, 항공모함으로 개조되었다. 1942년, [산호해 해전에서](../Page/산호해_해전.md "wikilink") 침몰했다.

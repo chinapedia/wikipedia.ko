@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Everyday, ](https://ko.wikipedia.org/wiki/Everyday,_).
+> This article is converted from Wikipedia: [Everyday, 카추샤](https://ko.wikipedia.org/wiki/Everyday,_카추샤).
 
 
 〈**Everyday, 카추샤**〉()는 [일본](../Page/일본.md "wikilink")의 [아이돌](https://ko.wikipedia.org/wiki/아이돌 "wikilink") [AKB48](../Page/AKB48.md "wikilink")의 21번째 [싱글이다](../Page/싱글_\(음악\).md "wikilink"). [2011년](../Page/2011년.md "wikilink") [5월 25일에](../Page/5월_25일.md "wikilink") 발매됐다.

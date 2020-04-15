@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ZX ](https://ko.wikipedia.org/wiki/ZX_).
+> This article is converted from Wikipedia: [ZX 스펙트럼](https://ko.wikipedia.org/wiki/ZX_스펙트럼).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:ZXSpectrum48k.jpg "wikilink") **제드엑스 스펙트럼**()은 1982년 [싱클레어 리서치가](../Page/싱클레어_리서치.md "wikilink") 영국에 출시한 [8비트](../Page/8비트.md "wikilink") 개인 [가정용 컴퓨터이다](../Page/가정용_컴퓨터.md "wikilink").

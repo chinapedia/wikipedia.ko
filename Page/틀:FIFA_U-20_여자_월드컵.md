@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:FIFA U-20  ](https://ko.wikipedia.org/wiki/:FIFA_U-20__).
+> This article is converted from Wikipedia: [틀:FIFA U-20 여자 월드컵](https://ko.wikipedia.org/wiki/틀:FIFA_U-20_여자_월드컵).
 
 
 <onlyinclude></onlyinclude>

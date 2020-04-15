@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [: AFC  ](https://ko.wikipedia.org/wiki/:_AFC__).
+> This article is converted from Wikipedia: [틀:선덜랜드 AFC 선수 명단](https://ko.wikipedia.org/wiki/틀:선덜랜드_AFC_선수_명단).
 
 
 <onlyinclude></onlyinclude>

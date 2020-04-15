@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ X](https://ko.wikipedia.org/wiki/_X).
+> This article is converted from Wikipedia: [소닉 X](https://ko.wikipedia.org/wiki/소닉_X).
 
 
 《**소닉 X**》는 [소닉 더 헤지호그](https://ko.wikipedia.org/wiki/소닉_더_헤지호그 "wikilink") 시리즈의 [애니메이션](../Page/애니메이션.md "wikilink")이다. [2003년](../Page/2003년.md "wikilink") [4월 6일부터](../Page/4월_6일.md "wikilink") [TV 도쿄](../Page/TV_도쿄.md "wikilink") 계열 방송국을 통해 방송 개시되어 이듬해인 [2004년](../Page/2004년.md "wikilink") 3월에 52화를 끝으로 방송이 종료된 후 [미국](../Page/미국.md "wikilink") 등의 해외 방영 시에는 에피소드를 덧붙여 78화를 최후 에피소드로 방영하였다. [대한민국](../Page/대한민국.md "wikilink")에서 [일본](../Page/일본.md "wikilink") 방영 6년 만인 [2009년](../Page/2009년.md "wikilink") [7월 6일부터](../Page/7월_6일.md "wikilink") [재능TV](../Page/재능TV.md "wikilink")를 통해 방영이 된 적이 있다.

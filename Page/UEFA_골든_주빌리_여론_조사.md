@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [UEFA    ](https://ko.wikipedia.org/wiki/UEFA____).
+> This article is converted from Wikipedia: [UEFA 골든 주빌리 여론 조사](https://ko.wikipedia.org/wiki/UEFA_골든_주빌리_여론_조사).
 
 
 **UEFA 골든 주빌리 여론 조사**는 2004년 [유럽 축구 연맹](../Page/유럽_축구_연맹.md "wikilink")(UEFA)이 창립 50주년을 기념하기 위한 행사 차원에서 실시한 [여론 조사이다](../Page/여론_조사.md "wikilink"). 1954년부터 2003년까지 지난 50년 동안 최고의 활약을 보여준 유럽의 축구 선수를 묻는 여론 조사였으며 UEFA 공식 홈페이지를 통해 진행되었다. 여론 조사에 언급된 선수 50명은 전체 후보 명단 250명 중에서 선정되었으며 10년 단위를 기준으로 하였다. 여론 조사에 참가한 전체 인원 수는 134,796명이었으며 전체 득표 수는 6,739,800표였다.

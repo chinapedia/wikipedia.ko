@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Boys \(  \)](https://ko.wikipedia.org/wiki/Boys_\(__\)).
+> This article is converted from Wikipedia: [Boys \(브리트니 스피어스의 노래\)](https://ko.wikipedia.org/wiki/Boys_\(브리트니_스피어스의_노래\)).
 
 
 "**Boys**"는 미국의 가수 [브리트니 스피어스의](../Page/브리트니_스피어스.md "wikilink") 세 번째 음반 *[Britney](../Page/Britney_\(음반\).md "wikilink")*의 싱글이다. 영화 [오스틴 파워 골드멤버의](https://ko.wikipedia.org/wiki/오스틴_파워_골드멤버 "wikilink") 삽입곡으로도 알려져 있다.

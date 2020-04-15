@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:SDN48](https://ko.wikipedia.org/wiki/:SDN48).
+> This article is converted from Wikipedia: [틀:SDN48](https://ko.wikipedia.org/wiki/틀:SDN48).
 
 
 <onlyinclude></onlyinclude>

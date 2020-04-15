@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FT  ](https://ko.wikipedia.org/wiki/FT__).
+> This article is converted from Wikipedia: [FT아일랜드의 음반 목록](https://ko.wikipedia.org/wiki/FT아일랜드의_음반_목록).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:FT_Island_from_acrofan.jpg "wikilink") 다음은 [대한민국](../Page/대한민국.md "wikilink")의 남성 그룹 **[FT아일랜드](../Page/FT아일랜드.md "wikilink")**가 발매한 **음반 목록**이다. 데뷔 후, 2007년부터 현재까지 총 6장의 정규 음반과 스페셜 음반 3장, 미니 음반(EP) 7장을 발매하였다.

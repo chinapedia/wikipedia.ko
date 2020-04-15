@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Ubc ](https://ko.wikipedia.org/wiki/Ubc_).
+> This article is converted from Wikipedia: [Ubc 뉴스라인](https://ko.wikipedia.org/wiki/Ubc_뉴스라인).
 
 
 **ubc 뉴스라인**은 [SBS](../Page/SBS.md "wikilink")의 울산권 네트워크 방송사인 [울산방송](../Page/울산방송.md "wikilink")(ubc)의 오후 시간대 뉴스 프로그램이다.

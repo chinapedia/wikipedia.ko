@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [V.](https://ko.wikipedia.org/wiki/V.).
+> This article is converted from Wikipedia: [V.프리미어리그](https://ko.wikipedia.org/wiki/V.프리미어리그).
 
 
 **V.프리미어 리그**(**プレミアリーグ**, **V.Premier League**)는 1994년 시작한 [일본](../Page/일본.md "wikilink") 실업 [배구](../Page/배구.md "wikilink")의 1부 리그이다. 일본배구협회 및 일본배구리그기구에서 개최하며 남자부, 여자부 각각 8팀이 참가한다. V.프리미어리그는 2017-2018 시즌을 끝으로 종료되었으며, 2018-2019 시즌부터는 **V.리그**라는 이름으로 개최될 예정이다.

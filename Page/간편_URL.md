@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ URL](https://ko.wikipedia.org/wiki/_URL).
+> This article is converted from Wikipedia: [간편 URL](https://ko.wikipedia.org/wiki/간편_URL).
 
 
 **간편 URL**()은 질의어 없이, 경로만 가진 간단한 구조의 URL을 말한다. **사용자 친화적 URL**(), **검색엔진 친화적 URL**() 또는 간단히 **친화적 URL**이라고도 한다. 깔끔하지 않은 URL에 비해 기억하기 쉽고, 입력하기 쉽다는 장점이 있다.

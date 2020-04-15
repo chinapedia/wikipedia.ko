@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [AKB48 ](https://ko.wikipedia.org/wiki/AKB48_).
+> This article is converted from Wikipedia: [AKB48 그룹](https://ko.wikipedia.org/wiki/AKB48_그룹).
 
 
 **AKB48 그룹**(, )은 [아키모토 야스시가](../Page/아키모토_야스시.md "wikilink") 제작한 여성 아이돌 그룹 [AKB48](../Page/AKB48.md "wikilink")과 자매 그룹에서 형성되는 아이돌 프로젝트 브랜드로, AKB48과 자매 그룹의 총칭이다.

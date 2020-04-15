@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [EXO](https://ko.wikipedia.org/wiki/EXO).
 
 
-**엑소** () 는 [SM 엔터테인먼트](../Page/SM_엔터테인먼트.md "wikilink") 소속의 [대한민국](../Page/대한민국.md "wikilink") 9인조 [보이 그룹이다](https://ko.wikipedia.org/wiki/보이_그룹 "wikilink"). 데뷔 미니앨범인 《MAMA》는 2012년 4월 8일에 발매되었고,[EXO-M](https://ko.wikipedia.org/wiki/EXO-M "wikilink")의 버전은 출시 하루만에 [중국의](../Page/중화인민공화국.md "wikilink") 음악 차트 정상을 차지했으며, [EXO-K](https://ko.wikipedia.org/wiki/EXO-K "wikilink")의 《MAMA》 뮤직비디오는 [유튜브](../Page/유튜브.md "wikilink")의 글로벌 차트에서 7위를 기록했다. 2012년 데뷔《MAMA》와 2013년 정규 앨범 《XOXO》는 전 세계적으로 총 150만장의 판매량을 기록, 상업적으로 크게 성공했다. 또한 《XOXO》로 데뷔 이후 단기간에 [엠넷 아시안 뮤직 어워드에서](https://ko.wikipedia.org/wiki/엠넷_아시안_뮤직_어워드 "wikilink") 올해의 앨범상을 수상한 [음악 그룹이기도](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink") 하며, 12년 만에 가장 빠른 속도로 높은 판매량을 기록한 [K-POP](https://ko.wikipedia.org/wiki/K-POP "wikilink") [아티스트](https://ko.wikipedia.org/wiki/아티스트 "wikilink")이다. EXO는 100만장 판매를 5회 연속으로 달성하여 [보이그룹](https://ko.wikipedia.org/wiki/보이그룹 "wikilink") 최초로 "퀸터플 밀리언셀러"라는 기록을 세웠으며, 정규 5집 《DON'T MESS UP MY TEMPO》로 21세기에 데뷔한 가수들 중 최초로 누적 음반 판매량 1000만장을 달성하였다. 또한 한 시상식에서 5년 연속 대상을 받기도 했다. 또한, 엑소의 《POWER》는 두바이 시내에 울려 퍼졌으며, 엑소는 부르즈 칼리파에 얼굴을 올렸다.
+**엑소**()는 [SM 엔터테인먼트](../Page/SM_엔터테인먼트.md "wikilink") 소속의 [대한민국](../Page/대한민국.md "wikilink") 9인조 [보이 그룹이다](https://ko.wikipedia.org/wiki/보이_그룹 "wikilink"). 데뷔 미니앨범인 《MAMA》는 2012년 4월 8일에 발매되었고,[EXO-M](https://ko.wikipedia.org/wiki/EXO-M "wikilink")의 버전은 출시 하루만에 [중국의](../Page/중화인민공화국.md "wikilink") 음악 차트 정상을 차지했으며, [EXO-K](https://ko.wikipedia.org/wiki/EXO-K "wikilink")의 《MAMA》 뮤직비디오는 [유튜브](../Page/유튜브.md "wikilink")의 글로벌 차트에서 7위를 기록했다. 2012년 데뷔《MAMA》와 2013년 정규 앨범 《XOXO》는 전 세계적으로 총 150만장의 판매량을 기록, 상업적으로 크게 성공했다. 또한 《XOXO》로 데뷔 이후 단기간에 [엠넷 아시안 뮤직 어워드에서](https://ko.wikipedia.org/wiki/엠넷_아시안_뮤직_어워드 "wikilink") 올해의 앨범상을 수상한 [음악 그룹이기도](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink") 하며, 12년 만에 가장 빠른 속도로 높은 판매량을 기록한 [K-POP](https://ko.wikipedia.org/wiki/K-POP "wikilink") [아티스트](https://ko.wikipedia.org/wiki/아티스트 "wikilink")이다. EXO는 100만장 판매를 5회 연속으로 달성하여 [보이그룹](https://ko.wikipedia.org/wiki/보이그룹 "wikilink") 최초로 "퀸터플 밀리언셀러"라는 기록을 세웠으며, 정규 5집 《DON'T MESS UP MY TEMPO》로 21세기에 데뷔한 가수들 중 최초로 누적 음반 판매량 1000만장을 달성하였다. 또한 한 시상식에서 5년 연속 대상을 받기도 했다. 또한, 엑소의 《[POWER](https://ko.wikipedia.org/wiki/POWER "wikilink")》는 두바이 시내에 울려 퍼졌으며, 엑소는 부르즈 칼리파에 얼굴을 올렸다.
 
 EXO는 정규 1집의 타이틀곡 《늑대와 미녀》이고, 정규 1집 리패키지 앨범 타이틀곡 《[으르렁](../Page/으르렁.md "wikilink")》이었다. 이후 《중독》, 《CALL ME BABY》, 《LOVE ME RIGHT》, 《Monster》, 《Lucky one》, 《Lotto》, 《Ko Ko Bop》, 《Power》, 《Tempo》, 《Love Shot》, 《Obsession》등 매년 히트곡을 발표하였다. 현재 멤버 [시우민](../Page/시우민.md "wikilink"), [디오](https://ko.wikipedia.org/wiki/디오 "wikilink")는 병역을 이행 중에 있다. ([2020년](../Page/2020년.md "wikilink") [1월 13일](../Page/1월_13일.md "wikilink") 기준)
 
@@ -213,24 +213,24 @@ EXO는 5년 연속 대상을 수상하였으며, 2013년부터 현재까지 총 
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><strong><a href="../Page/수호_(가수).md" title="wikilink">수호</a></strong></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/파일:&#39;귀공자_미소&#39;_김준면(엑소_수호),_반듯한_잘생김_속_반전_귀여움_EXO_(디패짤).jpg" title="wikilink">100px</a></p></td>
-<td><ul>
-<li>본명 : 김준면 (金俊勉)</li>
-<li>생년월일 : (30세)</li>
-<li>출생지 :  <a href="../Page/서울특별시.md" title="wikilink">서울특별시</a></li>
-<li>유닛그룹 : EXO-K</li>
-<li>활동기간 : <a href="../Page/2012년.md" title="wikilink">2012년</a> <a href="../Page/4월_8일.md" title="wikilink">4월 8일</a> ~ <strong>현재</strong></li>
-</ul></td>
-</tr>
-<tr class="even">
 <td><p><strong><a href="../Page/시우민.md" title="wikilink">시우민</a></strong></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:180811_엘리시온_닷_in_마카오_(시우민)_1.png" title="wikilink">100px</a></p></td>
 <td><ul>
 <li>본명 : 김민석 (金珉錫)</li>
-<li>생년월일 : (31세)</li>
+<li>생년월일 : </li>
 <li>출생지 :  <a href="https://ko.wikipedia.org/wiki/경기도" title="wikilink">경기도</a> <a href="../Page/구리시.md" title="wikilink">구리시</a></li>
 <li>유닛그룹 : EXO-M, <a href="../Page/EXO-CBX.md" title="wikilink">EXO-CBX</a></li>
+<li>활동기간 : <a href="../Page/2012년.md" title="wikilink">2012년</a> <a href="../Page/4월_8일.md" title="wikilink">4월 8일</a> ~ <strong>현재</strong></li>
+</ul></td>
+</tr>
+<tr class="even">
+<td><p><strong><a href="../Page/수호_(가수).md" title="wikilink">수호</a></strong></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/파일:&#39;귀공자_미소&#39;_김준면(엑소_수호),_반듯한_잘생김_속_반전_귀여움_EXO_(디패짤).jpg" title="wikilink">100px</a></p></td>
+<td><ul>
+<li>본명 : 김준면 (金俊勉)</li>
+<li>생년월일 : </li>
+<li>출생지 :  <a href="../Page/서울특별시.md" title="wikilink">서울특별시</a></li>
+<li>유닛그룹 : EXO-K</li>
 <li>활동기간 : <a href="../Page/2012년.md" title="wikilink">2012년</a> <a href="../Page/4월_8일.md" title="wikilink">4월 8일</a> ~ <strong>현재</strong></li>
 </ul></td>
 </tr>
@@ -239,10 +239,10 @@ EXO는 5년 연속 대상을 수상하였으며, 2013년부터 현재까지 총 
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Lay_Zhang_at_the_Exo_Planet_3_–_The_Exo&#39;rdium_in_Bangkok,_September_2016_01.png" title="wikilink">132x132픽셀</a></p></td>
 <td><ul>
 <li>본명 : 장이씽 ()</li>
-<li>생년월일 : (30세)</li>
+<li>생년월일 : </li>
 <li>출생지 :  <a href="../Page/후난성.md" title="wikilink">후난 성</a> <a href="../Page/창사시.md" title="wikilink">창사 시</a></li>
 <li>유닛그룹 : EXO-M</li>
-<li>활동기간 : <a href="../Page/2012년.md" title="wikilink">2012년</a> <a href="../Page/4월_8일.md" title="wikilink">4월 8일</a> ~ (중국 활동으로 그룹 활동 중단)</li>
+<li>활동기간 : <a href="../Page/2012년.md" title="wikilink">2012년</a> <a href="../Page/4월_8일.md" title="wikilink">4월 8일</a> ~ <strong>현재</strong>[65]</li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -250,7 +250,7 @@ EXO는 5년 연속 대상을 수상하였으며, 2013년부터 현재까지 총 
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:181220_0_X_FESTA_with_EXO_백현_2-1.jpg" title="wikilink">100px</a></p></td>
 <td><ul>
 <li>본명 : 변백현 (邊伯賢)</li>
-<li>생년월일 : (29세)</li>
+<li>생년월일 : </li>
 <li>출생지 :  <a href="https://ko.wikipedia.org/wiki/경기도" title="wikilink">경기도</a> <a href="https://ko.wikipedia.org/wiki/부천시" title="wikilink">부천시</a></li>
 <li>유닛그룹 : EXO-K, <a href="../Page/EXO-CBX.md" title="wikilink">EXO-CBX</a>, <a href="https://ko.wikipedia.org/wiki/SuperM" title="wikilink">SuperM</a></li>
 <li>활동기간 : <a href="../Page/2012년.md" title="wikilink">2012년</a> <a href="../Page/4월_8일.md" title="wikilink">4월 8일</a> ~ <strong>현재</strong></li>
@@ -261,7 +261,7 @@ EXO는 5년 연속 대상을 수상하였으며, 2013년부터 현재까지 총 
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Chen_at_The_ElyXiOn_in_Bangkok_on_March_16,_2018.jpg" title="wikilink">100px</a></p></td>
 <td><ul>
 <li>본명 : 김종대 (金鍾大)</li>
-<li>생년월일 : (29세)</li>
+<li>생년월일 : </li>
 <li>출생지 :  <a href="https://ko.wikipedia.org/wiki/대전광역시" title="wikilink">대전광역시</a></li>
 <li>유닛그룹 : EXO-M, <a href="../Page/EXO-CBX.md" title="wikilink">EXO-CBX</a></li>
 <li>활동기간 : <a href="../Page/2012년.md" title="wikilink">2012년</a> <a href="../Page/4월_8일.md" title="wikilink">4월 8일</a> ~ <strong>현재</strong></li>
@@ -272,7 +272,7 @@ EXO는 5년 연속 대상을 수상하였으며, 2013년부터 현재까지 총 
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Park_Chan-yeol_at_Lotte_Fancon_on_September_15,_2017.jpg" title="wikilink">100px</a></p></td>
 <td><ul>
 <li>본명 : 박찬열 (朴찬열)</li>
-<li>생년월일 : (29세)</li>
+<li>생년월일 : </li>
 <li>출생지 :  <a href="../Page/서울특별시.md" title="wikilink">서울특별시</a></li>
 <li>유닛그룹 : EXO-K, <a href="https://ko.wikipedia.org/wiki/EXO-SC" title="wikilink">EXO-SC</a></li>
 <li>활동기간 : <a href="../Page/2012년.md" title="wikilink">2012년</a> <a href="../Page/4월_8일.md" title="wikilink">4월 8일</a> ~ <strong>현재</strong></li>
@@ -283,7 +283,7 @@ EXO는 5년 연속 대상을 수상하였으며, 2013년부터 현재까지 총 
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:D.O._at_the_press_conference_of_the_film_Underdog_in_January_2019.png" title="wikilink">100px</a></p></td>
 <td><ul>
 <li>본명 : 도경수 (都暻秀)</li>
-<li>생년월일 : (28세)</li>
+<li>생년월일 : </li>
 <li>출생지 :  <a href="../Page/서울특별시.md" title="wikilink">서울특별시</a></li>
 <li>유닛그룹 : EXO-K</li>
 <li>활동기간 : <a href="../Page/2012년.md" title="wikilink">2012년</a> <a href="../Page/4월_8일.md" title="wikilink">4월 8일</a> ~ <strong>현재</strong></li>
@@ -294,7 +294,7 @@ EXO는 5년 연속 대상을 수상하였으며, 2013년부터 현재까지 총 
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Kai_during_The_EℓyXiOn_in_Macau_10.png" title="wikilink">100px</a></p></td>
 <td><ul>
 <li>본명 : 김종인 (金鍾仁)</li>
-<li>생년월일 : (28세)</li>
+<li>생년월일 : </li>
 <li>출생지 :  <a href="https://ko.wikipedia.org/wiki/전라남도" title="wikilink">전라남도</a> <a href="https://ko.wikipedia.org/wiki/순천시" title="wikilink">순천시</a></li>
 <li>유닛그룹 : EXO-K, <a href="https://ko.wikipedia.org/wiki/SuperM" title="wikilink">SuperM</a></li>
 <li>활동기간 : <a href="../Page/2012년.md" title="wikilink">2012년</a> <a href="../Page/4월_8일.md" title="wikilink">4월 8일</a> ~ <strong>현재</strong></li>
@@ -305,7 +305,7 @@ EXO는 5년 연속 대상을 수상하였으며, 2013년부터 현재까지 총 
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Oh_Se-hun_during_The_EℓyXiOn_in_Macau_06.png" title="wikilink">100px</a></p></td>
 <td><ul>
 <li>본명 : 오세훈 (吳世勳)</li>
-<li>생년월일 : (27세)</li>
+<li>생년월일 : </li>
 <li>출생지 :  <a href="../Page/서울특별시.md" title="wikilink">서울특별시</a></li>
 <li>유닛그룹 : EXO-K, <a href="https://ko.wikipedia.org/wiki/EXO-SC" title="wikilink">EXO-SC</a></li>
 <li>활동기간 : <a href="../Page/2012년.md" title="wikilink">2012년</a> <a href="../Page/4월_8일.md" title="wikilink">4월 8일</a> ~ <strong>현재</strong></li>
@@ -326,25 +326,26 @@ EXO는 5년 연속 대상을 수상하였으며, 2013년부터 현재까지 총 
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="../Page/우이판.md" title="wikilink">크리스</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/파일:咪咕音乐盛典_(24).jpg" title="wikilink">100px</a></p></td>
-<td><ul>
-<li>본명 : 우이판 ()</li>
-<li>생년월일 : (30세)</li>
-<li>출생지 :  <a href="../Page/광둥성.md" title="wikilink">광둥 성</a> <a href="../Page/광저우시.md" title="wikilink">광저우 시</a></li>
-<li>유닛그룹 : EXO-M</li>
-<li>활동기간 : <a href="../Page/2012년.md" title="wikilink">2012년</a> <a href="../Page/4월_8일.md" title="wikilink">4월 8일</a> ~ <a href="../Page/2014년.md" title="wikilink">2014년</a> <a href="../Page/5월_15일.md" title="wikilink">5월 15일</a>[65]</li>
-</ul></td>
-</tr>
-<tr class="even">
 <td><p><a href="../Page/루한.md" title="wikilink">루한</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Lu_Han_performing_&quot;Our_Tomorrow&quot;_at_Dream_Star_Partner,_January_2015_01.png" title="wikilink">100px</a></p></td>
 <td><ul>
 <li>본명 : 루한 ()</li>
-<li>생년월일 : (31세)</li>
+<li>생년월일 : </li>
 <li>출생지 :  <a href="../Page/베이징시.md" title="wikilink">베이징 시</a></li>
 <li>유닛그룹 : EXO-M</li>
-<li>활동기간 : <a href="../Page/2012년.md" title="wikilink">2012년</a> <a href="../Page/4월_8일.md" title="wikilink">4월 8일</a> ~ <a href="../Page/2014년.md" title="wikilink">2014년</a> <a href="../Page/10월_10일.md" title="wikilink">10월 10일</a>[66]</li>
+<li>활동기간 : <a href="../Page/2012년.md" title="wikilink">2012년</a> <a href="../Page/4월_8일.md" title="wikilink">4월 8일</a> ~ <a href="../Page/2016년.md" title="wikilink">2016년</a> <a href="../Page/7월_21일.md" title="wikilink">7월 21일</a>[66]</li>
+</ul></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/우이판.md" title="wikilink">크리스</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/파일:咪咕音乐盛典_(24).jpg" title="wikilink">100px</a></p></td>
+<td><ul>
+<li>본명 : 우이판 ()</li>
+<li>생년월일 : </li>
+<li>국적 :  → </li>
+<li>출생지 :  <a href="../Page/광둥성.md" title="wikilink">광둥 성</a> <a href="../Page/광저우시.md" title="wikilink">광저우 시</a></li>
+<li>유닛그룹 : EXO-M</li>
+<li>활동기간 : <a href="../Page/2012년.md" title="wikilink">2012년</a> <a href="../Page/4월_8일.md" title="wikilink">4월 8일</a> ~ <a href="../Page/2016년.md" title="wikilink">2016년</a> <a href="../Page/7월_21일.md" title="wikilink">7월 21일</a>[67]</li>
 </ul></td>
 </tr>
 <tr class="odd">
@@ -352,10 +353,10 @@ EXO는 5년 연속 대상을 수상하였으며, 2013년부터 현재까지 총 
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Huang_Zitao_at_Ports_1961_Shanghai.jpg" title="wikilink">100px</a></p></td>
 <td><ul>
 <li>본명 : 황쯔타오 ()</li>
-<li>생년월일 : (28세)</li>
+<li>생년월일 : </li>
 <li>출생지 :  <a href="../Page/산둥성.md" title="wikilink">산둥 성</a> <a href="../Page/칭다오시.md" title="wikilink">칭다오 시</a></li>
 <li>유닛그룹 : EXO-M</li>
-<li>활동기간 : <a href="../Page/2012년.md" title="wikilink">2012년</a> <a href="../Page/4월_8일.md" title="wikilink">4월 8일</a> ~ <a href="../Page/2015년.md" title="wikilink">2015년</a> <a href="../Page/8월_24일.md" title="wikilink">8월 24일</a>[67]</li>
+<li>활동기간 : <a href="../Page/2012년.md" title="wikilink">2012년</a> <a href="../Page/4월_8일.md" title="wikilink">4월 8일</a> ~ <a href="../Page/2018년.md" title="wikilink">2018년</a> <a href="../Page/3월_16일.md" title="wikilink">3월 16일</a>[68]</li>
 </ul></td>
 </tr>
 </tbody>
@@ -452,6 +453,7 @@ EXO는 5년 연속 대상을 수상하였으며, 2013년부터 현재까지 총 
 62.
 63. <https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=003&aid=0008495246>
 64. <https://entertain.naver.com/read?oid=241&aid=0002996571>
-65. [2014년](../Page/2014년.md "wikilink") [5월 15일에](../Page/5월_15일.md "wikilink") SM을 상대로 전속 계약 소송을 제기하여 [2016년](../Page/2016년.md "wikilink") [7월 21일](../Page/7월_21일.md "wikilink") 소송에서 합의하면서 전속 계약이 2022년까지 유지되는 동시에 EXO에서 정식으로 탈퇴하였다.
+65. 최근 [중화권](https://ko.wikipedia.org/wiki/중화권 "wikilink") 개인 활동에 집중하면서 그룹 활동에는 불참 중이다.
 66. [2014년](../Page/2014년.md "wikilink") [10월 10일에](../Page/10월_10일.md "wikilink") SM을 상대로 전속 계약 소송을 제기하여 [2016년](../Page/2016년.md "wikilink") [7월 21일](../Page/7월_21일.md "wikilink") 소송에서 합의하면서 전속 계약이 2022년까지 유지되는 동시에 EXO에서 정식으로 탈퇴하였다.
-67. [2015년](../Page/2015년.md "wikilink") [8월 24일에](../Page/8월_24일.md "wikilink") SM을 상대로 전속 계약 소송을 제기하여 [2018년](../Page/2018년.md "wikilink") [3월 16일](../Page/3월_16일.md "wikilink") 소송에서 패소하면서 전속 계약이 2022년까지 유지되는 동시에 EXO에서 정식으로 탈퇴하였다.
+67. [2014년](../Page/2014년.md "wikilink") [5월 15일에](../Page/5월_15일.md "wikilink") SM을 상대로 전속 계약 소송을 제기하여 [2016년](../Page/2016년.md "wikilink") [7월 21일](../Page/7월_21일.md "wikilink") 소송에서 합의하면서 전속 계약이 2022년까지 유지되는 동시에 EXO에서 정식으로 탈퇴하였다.
+68. [2015년](../Page/2015년.md "wikilink") [8월 24일에](../Page/8월_24일.md "wikilink") SM을 상대로 전속 계약 소송을 제기하여 [2018년](../Page/2018년.md "wikilink") [3월 16일](../Page/3월_16일.md "wikilink") 소송에서 패소하면서 전속 계약이 2022년까지 유지되는 동시에 EXO에서 정식으로 탈퇴하였다.

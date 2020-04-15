@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [    II  January](https://ko.wikipedia.org/wiki/____II__January).
+> This article is converted from Wikipedia: [소니 에릭슨 글로벌 스타크래프트 II 리그 January](https://ko.wikipedia.org/wiki/소니_에릭슨_글로벌_스타크래프트_II_리그_January).
 
 
 **소니 에릭슨 글로벌 스타크래프트 II 리그 January**(Sony Ericsson Global StarCraft II League January)는 [글로벌 스타크래프트 II 리그](https://ko.wikipedia.org/wiki/글로벌_스타크래프트_II_리그 "wikilink") 2011 GSL 투어의 첫 번째 대회로 [2011년](../Page/2011년.md "wikilink") [1월 2일에](../Page/1월_2일.md "wikilink") 개막하였다.

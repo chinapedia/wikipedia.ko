@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [A ](https://ko.wikipedia.org/wiki/A_).
+> This article is converted from Wikipedia: [채널A 아침뉴스](https://ko.wikipedia.org/wiki/채널A_아침뉴스).
 
 
 **채널A 아침뉴스**는 [대한민국](../Page/대한민국.md "wikilink")에서 평일 6시 40분 \~ 8시에 [텔레비전](../Page/텔레비전.md "wikilink")으로 방송하는 [채널A](../Page/채널A.md "wikilink")의 주중 아침의 [채널A의 뉴스 프로그램이다](../Page/채널A의_뉴스_프로그램.md "wikilink").

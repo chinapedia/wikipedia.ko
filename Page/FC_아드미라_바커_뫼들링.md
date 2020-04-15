@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FC   ](https://ko.wikipedia.org/wiki/FC___).
+> This article is converted from Wikipedia: [FC 아드미라 바커 뫼들링](https://ko.wikipedia.org/wiki/FC_아드미라_바커_뫼들링).
 
 
 **FC 아드미라 바커 뫼들링**(FC Admira Wacker Mödling)은 [오스트리아](../Page/오스트리아.md "wikilink") [뫼들링](https://ko.wikipedia.org/wiki/뫼들링 "wikilink")의 축구 클럽으로 현재는 [오스트리아 분데스리가에](https://ko.wikipedia.org/wiki/오스트리아_분데스리가 "wikilink") 참가하고 있다. [1905년](../Page/1905년.md "wikilink") 수도 [빈](../Page/빈.md "wikilink")을 연고로 한 **SK 아드미라 빈**(SK Admira Wien)으로 창단되었으며 [1971년](../Page/1971년.md "wikilink") SC 바커 빈(SC Wacker Wien), [1997년](../Page/1997년.md "wikilink") VfB 뫼들링(VfB Mödling), [2008년](../Page/2008년.md "wikilink") SK 슈바도르프(SK Schwadorf)를 합병하여 오늘에 이른다.

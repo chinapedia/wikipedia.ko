@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ GPS ](https://ko.wikipedia.org/wiki/_GPS_).
+> This article is converted from Wikipedia: [한국형 GPS 유도폭탄](https://ko.wikipedia.org/wiki/한국형_GPS_유도폭탄).
 
 
 **한국형 GPS 유도폭탄**(KGGB, Korea GPS Guide Bomb)는 [국방과학연구소](../Page/국방과학연구소.md "wikilink")(ADD)가 개발한 무기체계로 재래식 폭탄에 추가 장착하여 첨단 유도무기로 개조할 수 있는 장치이다. 2006년부터 [LIG넥스원](../Page/LIG넥스원.md "wikilink")과 [국방과학연구소](../Page/국방과학연구소.md "wikilink")(ADD)가 공동으로 개발한 유도폭탄으로, 공중에서 표적 근처로 투하하는 것만 가능한 일반 폭탄에 중거리 GPS 유도키트를 장착하면 보다 원거리에서 공격할 수 있을 뿐만 아니라 주·야간 전천후 정밀 공격도 할 수 있고 [F-4](https://ko.wikipedia.org/wiki/F-4 "wikilink"), [F-5](https://ko.wikipedia.org/wiki/F-5 "wikilink")와 같이 노후한 전투기에서 운용할 수 있는 점도 특징이다.\[1\] 한국형 [JDAM](https://ko.wikipedia.org/wiki/JDAM "wikilink")이라고 불리기도 한다.

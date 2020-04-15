@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [: Q](https://ko.wikipedia.org/wiki/:_Q).
+> This article is converted from Wikipedia: [에반게리온: Q](https://ko.wikipedia.org/wiki/에반게리온:_Q).
 
 
 

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [IPISD ](https://ko.wikipedia.org/wiki/IPISD_).
+> This article is converted from Wikipedia: [IPISD 모델](https://ko.wikipedia.org/wiki/IPISD_모델).
 
 
 **IPISD**(intersevice Procedures for instructional Systems Development)는 [1873년](../Page/1873년.md "wikilink") [미국](../Page/미국.md "wikilink") [플로리다 주립대학의](https://ko.wikipedia.org/wiki/플로리다_주립대학 "wikilink") 수행공학센터는 군사훈련을 지속적으로 향상시키기 위한 과정을 개발한 것이다. Branson(1978)는 교수설계자들이 육군, 공군, 해군에 적용할 수 있는 모듈을 설계했다. 전 미국뿐만 아니라 국방업체에서도 의무적으로 사용하여 군대 및 산업 훈련에 거대한 영향을 끼쳤다.

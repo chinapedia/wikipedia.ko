@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ vs.  \( \)](https://ko.wikipedia.org/wiki/_vs.__\(_\)).
+> This article is converted from Wikipedia: [에일리언 vs. 프레데터 \(아케이드 게임\)](https://ko.wikipedia.org/wiki/에일리언_vs._프레데터_\(아케이드_게임\)).
 
 
 '''에일리언 vs. 프레데터 '''(Alien vs. Predator)는 [캡콤](../Page/캡콤.md "wikilink")이 [1994년](../Page/1994년.md "wikilink")에 발매한 [아케이드](../Page/아케이드_게임.md "wikilink") [진행형 격투 게임이다](https://ko.wikipedia.org/wiki/진행형_격투_게임 "wikilink").

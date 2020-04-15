@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [EA ](https://ko.wikipedia.org/wiki/EA_).
+> This article is converted from Wikipedia: [EA 갱강](https://ko.wikipedia.org/wiki/EA_갱강).
 
 
 **EA 갱강**(En Avant de Guingamp, EA Guingamp)은 [갱강](https://ko.wikipedia.org/wiki/갱강 "wikilink")을 연고로 하는 [프랑스](../Page/프랑스.md "wikilink")의 [축구](../Page/축구.md "wikilink") 팀이다. 1912년에 창단되었고, 2012-13 시즌 리그 2에서 승격하여 현재는 프랑스의 최상위 축구 리그인 [리그 1에서](https://ko.wikipedia.org/wiki/리그_1 "wikilink") 활동하고 있다. 홈 구장은 도시내에 위치한 [스타드 뒤 루두루이며](https://ko.wikipedia.org/wiki/스타드_뒤_루두루 "wikilink") 18,000명 이상 수용이 가능하다.

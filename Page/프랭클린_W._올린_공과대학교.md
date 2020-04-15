@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ W.  ](https://ko.wikipedia.org/wiki/_W.__).
+> This article is converted from Wikipedia: [프랭클린 W. 올린 공과대학교](https://ko.wikipedia.org/wiki/프랭클린_W._올린_공과대학교).
 
 
 **프랭클린 W. 올린 공과대학교** (Franklin W. Olin College of Engineering)는 [미국](../Page/미국.md "wikilink") [매사추세츠주](../Page/매사추세츠주.md "wikilink") [보스턴](../Page/보스턴.md "wikilink") 근교의 소도시 니덤에 위치한 사립 공과대학교이다. 올린은 1997년 혁신적인 공대 교육에 뜻을 가진 프랭클린 W. 올린의 기부로 설립되었으며, 2002년 부터 매년 70여명을 선발하여 현재 300여명의 학부생과 30여명의 교수진으로 구성된 소규모의 학교이지만 기존의 공대 교육과는 차별화된 독특한 커리큘럼을 내세워 현재 이공계에서 많은 주목을 받고 있다. 또한 학생들 대부분이 학교 설립자가 세운 프랭클린 올린 재단으로부터 장학금을 받고 교수들에게는 종신재직권이 보장되지 않는다는 것도 올린이 가진 특이점 중 하나이다.\[1\]

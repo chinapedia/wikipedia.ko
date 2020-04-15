@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [LATAM   ](https://ko.wikipedia.org/wiki/LATAM___).
+> This article is converted from Wikipedia: [LATAM 브라질의 운항 노선](https://ko.wikipedia.org/wiki/LATAM_브라질의_운항_노선).
 
 
 아래는 **[LATAM 브라질](../Page/LATAM_브라질.md "wikilink")**의 취항지 목록으로 자회사인 [LATAM 파라과이도](../Page/LATAM_파라과이.md "wikilink") 포함된다.([2016년](../Page/2016년.md "wikilink") [3월](../Page/3월.md "wikilink") 현재)\[1\]

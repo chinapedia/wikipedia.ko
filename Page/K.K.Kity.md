@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [K.K.Kity](https://ko.wikipedia.org/wiki/K.K.Kity).
 
 
-**K.K.Kity**는, [일본](../Page/일본.md "wikilink")의 [남성](https://ko.wikipedia.org/wiki/남성 "wikilink") [아이돌](https://ko.wikipedia.org/wiki/아이돌 "wikilink") 그룹이다. [쟈니즈 사무소에](../Page/자니스_사무소.md "wikilink") 소속하는, [쟈니즈 Jr.로](../Page/자니스_주니어.md "wikilink") 구성된다. 구 명은 〈**J-Support**〉. 2001년 10월부터 약 2년간 활동했다.
+**K.K.Kity**는 [일본](../Page/일본.md "wikilink")의 [남성](https://ko.wikipedia.org/wiki/남성 "wikilink") [아이돌](https://ko.wikipedia.org/wiki/아이돌 "wikilink") 그룹이다. [쟈니즈 사무소에](../Page/자니스_사무소.md "wikilink") 소속하는 [쟈니즈 Jr.로](../Page/자니스_주니어.md "wikilink") 구성된다. 구 명은 〈**J-Support**〉. 2001년 10월부터 약 2년 간 활동했다.
 
 ## 멤버
 

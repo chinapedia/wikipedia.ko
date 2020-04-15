@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [I  U](https://ko.wikipedia.org/wiki/I__U).
+> This article is converted from Wikipedia: [I ♥ U](https://ko.wikipedia.org/wiki/I_♥_U).
 
 
 《**I ♥ U**》 (아이 러브 유)는 일본의 록 밴드 [Mr.Children](../Page/Mr.Children.md "wikilink")의 11번째 [스튜디오 음반이다](https://ko.wikipedia.org/wiki/스튜디오_음반 "wikilink"). 2005년 9월 21일 [토이즈 팩토리를](https://ko.wikipedia.org/wiki/토이즈_팩토리 "wikilink") 통해 발매되었다.

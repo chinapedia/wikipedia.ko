@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [CJ](https://ko.wikipedia.org/wiki/CJ).
+> This article is converted from Wikipedia: [CJ올리브네트웍스](https://ko.wikipedia.org/wiki/CJ올리브네트웍스).
 
 
 **CJ올리브네트웍스**는 1995년 "제일CnC"로 설립됐다. 제조, 유통, 물류, 미디어 등 생활/문화 기반의 IT서비스를 성공적으로 제공하고, 끊임없는 변화와 혁신을 통해 IT트렌드에 부합하는 미래 신기술 개발로 시장의 요구에 빠르게 대응하는 ICT 전문기업이다. 2014년 12월 CJ올리브영과 합병 후 CJ올리브네트웍스로 사명이 변경됐다.

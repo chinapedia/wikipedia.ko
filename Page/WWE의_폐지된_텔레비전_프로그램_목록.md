@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [WWE    ](https://ko.wikipedia.org/wiki/WWE____).
+> This article is converted from Wikipedia: [WWE의 폐지된 텔레비전 프로그램 목록](https://ko.wikipedia.org/wiki/WWE의_폐지된_텔레비전_프로그램_목록).
 
 
 다음은 [월드 레슬링 엔터테인먼트](https://ko.wikipedia.org/wiki/월드_레슬링_엔터테인먼트 "wikilink") (WWE)의 과거 프로그램의 목록이다. 여기에는 월드 와일드 레슬링 패더레이션 시절과 월드 레슬링 패더레이션 시절 프로그램을 포함한다.

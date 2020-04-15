@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ACBD  ](https://ko.wikipedia.org/wiki/ACBD__).
+> This article is converted from Wikipedia: [ACBD 평론 대상](https://ko.wikipedia.org/wiki/ACBD_평론_대상).
 
 
 ‘**ACBD 비평 대상**’은 매년 프랑스어권 지역에서 출판된 작품들 중에 내용과 그림에 있어 가장 뛰어난 작품에게 '프랑스 교양만화 비평가ㆍ저널리스트 협회'([ACBD](https://ko.wikipedia.org/wiki/ACBD "wikilink"): Association des critiques et des journalistes de bande dessinée)가 수여하는 상이다.

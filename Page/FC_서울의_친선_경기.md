@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FC   ](https://ko.wikipedia.org/wiki/FC___).
+> This article is converted from Wikipedia: [FC 서울의 친선 경기](https://ko.wikipedia.org/wiki/FC_서울의_친선_경기).
 
 
 [FC 서울은](https://ko.wikipedia.org/wiki/FC_서울 "wikilink") 태국축구협회의 초청으로 1985년 2월 태국 투어를 진행하여 [태국 축구 국가대표팀과](../Page/태국_축구_국가대표팀.md "wikilink") 친선경기를 가졌으며 그 후 국내에서는 1987년 [홍콩 프로축구의](../Page/홍콩_1부_리그.md "wikilink") [해봉](https://ko.wikipedia.org/wiki/해봉 "wikilink") 축구단을 초청하여 친선경기를 개최하였다.\[1\]

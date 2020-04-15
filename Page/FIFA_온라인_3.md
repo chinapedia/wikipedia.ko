@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FIFA  3](https://ko.wikipedia.org/wiki/FIFA__3).
+> This article is converted from Wikipedia: [FIFA 온라인 3](https://ko.wikipedia.org/wiki/FIFA_온라인_3).
 
 
 《**FIFA 온라인 3**》()는 스피어헤드(전 EA 서울 스튜디오)가 개발하고 [넥슨](../Page/넥슨.md "wikilink")이 배급하는 [온라인](https://ko.wikipedia.org/wiki/온라인 "wikilink") [축구](../Page/축구.md "wikilink") 게임이다. 피파 온라인 3는 이전 피파 시리즈를 기반으로 만든 전작들보다 여러 방면으로 나아졌지만, 이 역시 EA가 판매 중단한 버전의 엔진에 최신 그래픽만을 입히기 때문에 플레이에 한계가 있다.

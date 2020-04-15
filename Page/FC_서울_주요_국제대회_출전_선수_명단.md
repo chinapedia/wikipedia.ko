@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FC      ](https://ko.wikipedia.org/wiki/FC______).
+> This article is converted from Wikipedia: [FC 서울 주요 국제대회 출전 선수 명단](https://ko.wikipedia.org/wiki/FC_서울_주요_국제대회_출전_선수_명단).
 
 
 [FC 서울](https://ko.wikipedia.org/wiki/FC_서울 "wikilink") 소속으로 각급 국제대회에 출전한 선수들의 명단이다.

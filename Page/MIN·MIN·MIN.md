@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [MINMINMIN](https://ko.wikipedia.org/wiki/MINMINMIN).
+> This article is converted from Wikipedia: [MIN·MIN·MIN](https://ko.wikipedia.org/wiki/MIN·MIN·MIN).
 
 
 〈**MIN・MIN・MIN**〉(민・민・민, )는 [SDN48](../Page/SDN48.md "wikilink")의 3번째 [싱글](https://ko.wikipedia.org/wiki/싱글 "wikilink")이다. 2011년 8월 17일, [유니버설 뮤직을](../Page/유니버설_뮤직_그룹.md "wikilink") 통해 발매되었다.

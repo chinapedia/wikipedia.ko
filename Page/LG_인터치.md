@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [LG ](https://ko.wikipedia.org/wiki/LG_).
+> This article is converted from Wikipedia: [LG 인터치](https://ko.wikipedia.org/wiki/LG_인터치).
 
 
 **LG 인터치**(, LG KS360)는 [LG전자](../Page/LG전자.md "wikilink")가 2008년 7월에 출시한 [휴대 전화기이다](https://ko.wikipedia.org/wiki/휴대_전화기 "wikilink").\[1\]

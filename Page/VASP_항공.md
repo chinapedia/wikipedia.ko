@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [VASP ](https://ko.wikipedia.org/wiki/VASP_).
+> This article is converted from Wikipedia: [VASP 항공](https://ko.wikipedia.org/wiki/VASP_항공).
 
 
 **VASP 항공**(, )은 [1933년](../Page/1933년.md "wikilink")에 설립되어 [2005년](../Page/2005년.md "wikilink")에 운항이 중지된 이후 [2008년](../Page/2008년.md "wikilink")에 파산된 [브라질](../Page/브라질.md "wikilink")의 항공사로 본사는 [브라질](../Page/브라질.md "wikilink") [상파울루](../Page/상파울루.md "wikilink")에 위치해 있었다.

@@ -23,10 +23,10 @@
 
 ### CD
 
-### DVD(첫회반 A만)
+### DVD
 
 1.  **Why? (Keep Your Head Down)** MV
-2.  오프 쇼트 무비
+2.  오프 쇼트 무비 (초회한정판 한정)
 
 ## 타이업
 
@@ -44,5 +44,11 @@
 | 오리콘 연간 싱글 차트       | 16위   |          |
 | **차트 진입 기간 - 20주** |       |          |
 |                    |       |          |
+
+## 릴리즈기념 구입자 한정 이벤트
+
+| <font size=2>|개최일                 | <font size=2>|도시                                                  | <font size=2>|개최지           |
+| --------------------------------- | ----------------------------------------------------------------- | --------------------------- |
+| <font size=2>|2011년 2월 8일 (1일 2회) | <font size=2>|[천엽현](https://ko.wikipedia.org/wiki/천엽현 "wikilink") | <font size=2>|마쿠하리 멧세 이벤트 홀 |
 
 [분류:동방신기의 노래](https://ko.wikipedia.org/wiki/분류:동방신기의_노래 "wikilink") [분류:2011년 싱글](https://ko.wikipedia.org/wiki/분류:2011년_싱글 "wikilink") [분류:드라마 주제가](https://ko.wikipedia.org/wiki/분류:드라마_주제가 "wikilink") [분류:일본어 노래](https://ko.wikipedia.org/wiki/분류:일본어_노래 "wikilink") [분류:2011년 오리콘 싱글 차트 1위 작품](https://ko.wikipedia.org/wiki/분류:2011년_오리콘_싱글_차트_1위_작품 "wikilink")

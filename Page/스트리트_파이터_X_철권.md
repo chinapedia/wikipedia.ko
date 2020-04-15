@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  X ](https://ko.wikipedia.org/wiki/__X_).
+> This article is converted from Wikipedia: [스트리트 파이터 X 철권](https://ko.wikipedia.org/wiki/스트리트_파이터_X_철권).
 
 
 **스트리트 파이터 X 철권**(Street Fighter X Tekken)은 [캡콤](../Page/캡콤.md "wikilink")에서 제작한 [플레이스테이션 3](../Page/플레이스테이션_3.md "wikilink"), [엑스박스 360](../Page/엑스박스_360.md "wikilink"), [플레이스테이션 비타](https://ko.wikipedia.org/wiki/플레이스테이션_비타 "wikilink") 전용 대전 격투 게임이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [J.   ](https://ko.wikipedia.org/wiki/J.___).
+> This article is converted from Wikipedia: [J. 폴 게티 미술관](https://ko.wikipedia.org/wiki/J._폴_게티_미술관).
 
 
 [right](https://ko.wikipedia.org/wiki/파일:Aerial_Getty_Museum.jpg "wikilink") **J. 폴 게티 미술관**(J. Paul Getty Museum)은 게티 재단이 운영하는 미술관으로, [게티 센터](https://ko.wikipedia.org/wiki/게티_센터 "wikilink"), [게티 빌라의](https://ko.wikipedia.org/wiki/게티_빌라 "wikilink") 총칭이다. 캘리포니아 주 로스앤젤레스에 위치하고 있다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [OD](https://ko.wikipedia.org/wiki/OD).
+> This article is converted from Wikipedia: [OD뮤지컬컴퍼니](https://ko.wikipedia.org/wiki/OD뮤지컬컴퍼니).
 
 
 **(주)오디뮤지컬컴퍼니**(OD MUSICAL COMPANY)는 [뮤지컬](../Page/뮤지컬.md "wikilink"), [연극](../Page/연극.md "wikilink") 등의 공연예술작품을 기획, 제작하는 대한민국의 프로듀싱 컴퍼니이다.

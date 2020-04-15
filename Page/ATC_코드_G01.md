@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ATC  G01](https://ko.wikipedia.org/wiki/ATC__G01).
+> This article is converted from Wikipedia: [ATC 코드 G01](https://ko.wikipedia.org/wiki/ATC_코드_G01).
 
 
 **ATC 코드 G01**은 [ATC 코드의](https://ko.wikipedia.org/wiki/ATC_코드 "wikilink") 비뇨생식기계에 작용하는 감염방지제 및 부패방지제로 작용하는 약물을 정리한 코드이다. \[1\] **ATC 코드** G 비뇨생식기계 및 성호르몬의 하위그룹을 이룬다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [LTE ](https://ko.wikipedia.org/wiki/LTE_).
+> This article is converted from Wikipedia: [LTE 어드밴스트](https://ko.wikipedia.org/wiki/LTE_어드밴스트).
 
 
 [섬네일의](https://ko.wikipedia.org/wiki/파일:Android_LTE_Advanced_signal_indicator.png "wikilink") 캐리어 애그리게이션을 포함하는 LTE 어드밴스드\]\] **LTE 어드밴스드** (LTE Advanced)는 2009년 [국제 전기 통신 연합에서](https://ko.wikipedia.org/wiki/국제_전기_통신_연합 "wikilink") [ITU-T](../Page/ITU-T.md "wikilink") 표준 [4G](https://ko.wikipedia.org/wiki/4G "wikilink") 시스템 후보로 제출되어, IMT-어드밴스드로 승인되어, 2011년 3월에 [3GPP](../Page/3GPP.md "wikilink")가 릴리즈 10을 기반으로\[1\] 완성한 [WCDMA](https://ko.wikipedia.org/wiki/WCDMA "wikilink") 계열의 [4세대 이동 통신으로](https://ko.wikipedia.org/wiki/4세대_이동_통신 "wikilink"), [롱 텀 에볼루션](https://ko.wikipedia.org/wiki/롱_텀_에볼루션 "wikilink") (Long Term Evolution, LTE)의 본래 규격이다.

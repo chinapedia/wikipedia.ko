@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [   The MOVIE 1st](https://ko.wikipedia.org/wiki/___The_MOVIE_1st).
+> This article is converted from Wikipedia: [마법소녀 리리컬 나노하 The MOVIE 1st](https://ko.wikipedia.org/wiki/마법소녀_리리컬_나노하_The_MOVIE_1st).
 
 
 《**마법소녀 리리컬 나노하 The MOVIE 1st**》(/Magical Girl Lyrical NANOHA The MOVIE 1st) 는 [2010년](../Page/2010년.md "wikilink") [1월 23일에](../Page/1월_23일.md "wikilink") 공개된 [애니메이션 영화](../Page/애니메이션_영화.md "wikilink") 작품이다.

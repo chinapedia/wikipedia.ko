@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [YOU \(\)](https://ko.wikipedia.org/wiki/YOU_\(\)).
+> This article is converted from Wikipedia: [YOU \(배우\)](https://ko.wikipedia.org/wiki/YOU_\(배우\)).
 
 
-**YOU**([1964년](../Page/1964년.md "wikilink") [8월 29일](../Page/8월_29일.md "wikilink") \~)는 [일본](../Page/일본.md "wikilink")의 [배우](../Page/배우.md "wikilink")이자 [가수](https://ko.wikipedia.org/wiki/가수 "wikilink")이다. 본명은 **에하라 유키코** ()이며, 소속사는 서클 라인이다.
+**YOU**([1964년](../Page/1964년.md "wikilink") [8월 29일](../Page/8월_29일.md "wikilink") \~)는 [일본](../Page/일본.md "wikilink")의 [배우](../Page/배우.md "wikilink")이자 [가수](https://ko.wikipedia.org/wiki/가수 "wikilink")이다. 본명은 **에하라 유키코**()이며, 소속사는 서클 라인이다.
 
 ## 출연
 

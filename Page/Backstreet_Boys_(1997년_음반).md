@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Backstreet Boys \(1997 \)](https://ko.wikipedia.org/wiki/Backstreet_Boys_\(1997_\)).
+> This article is converted from Wikipedia: [Backstreet Boys \(1997년 음반\)](https://ko.wikipedia.org/wiki/Backstreet_Boys_\(1997년_음반\)).
 
 
 **Backstreet Boys**는 [백스트리트 보이즈의](https://ko.wikipedia.org/wiki/백스트리트_보이즈 "wikilink") 음반으로, [1997년](../Page/1997년.md "wikilink") 발매되었다.

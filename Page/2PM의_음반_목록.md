@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [2PM  ](https://ko.wikipedia.org/wiki/2PM__).
+> This article is converted from Wikipedia: [2PM의 음반 목록](https://ko.wikipedia.org/wiki/2PM의_음반_목록).
 
 
 다음은 대한민국의 음악 그룹 [2PM](https://ko.wikipedia.org/wiki/2PM "wikilink")의 **음반 목록**이다. 2PM은 지금까지 6장의 정규 음반과 1장의 EP 음반, 9장의 싱글 음반 (디지털 싱글 포함)을 발매하였다.

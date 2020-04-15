@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Ubc ](https://ko.wikipedia.org/wiki/Ubc_).
+> This article is converted from Wikipedia: [Ubc 굿모닝울산](https://ko.wikipedia.org/wiki/Ubc_굿모닝울산).
 
 
 **ubc 굿모닝울산**은 [SBS](../Page/SBS.md "wikilink")의 울산권 네트워크 방송사인 [울산방송](../Page/울산방송.md "wikilink")(ubc)의 아침 뉴스 프로그램이다. 개국 초기부터 방송된 뉴스 타이틀이 **ubc 아침뉴스**였다.
@@ -10,7 +10,7 @@
 
 ## 앵커
 
-  - [박지혜](https://ko.wikipedia.org/wiki/박지혜 "wikilink") 아나운서 (여)
+  - 김빅토리아노 아나운서 (남)
 
 ## 관련 항목
 

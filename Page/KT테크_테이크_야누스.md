@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KT  ](https://ko.wikipedia.org/wiki/KT__).
+> This article is converted from Wikipedia: [KT테크 테이크 야누스](https://ko.wikipedia.org/wiki/KT테크_테이크_야누스).
 
 
 **KT테크 테이크 야누스**()는 [KT테크](../Page/KT테크.md "wikilink")가 2011년 6월 7일에 출시한 [스마트폰](../Page/스마트폰.md "wikilink")이다.\[1\] [KT테크](../Page/KT테크.md "wikilink")의 스마트폰 중 최초로 [퀄컴](../Page/퀄컴.md "wikilink") [스냅드래곤](../Page/스냅드래곤.md "wikilink") 듀얼 코어 CPU와 [구글](../Page/구글.md "wikilink") [안드로이드](../Page/안드로이드_\(운영_체제\).md "wikilink") 2.3.3 진저브레드를 탑재하였으며, [독일](../Page/독일.md "wikilink") [젠하이저](../Page/젠하이저.md "wikilink")의 이어폰을 번들로 제공한다.\[2\]

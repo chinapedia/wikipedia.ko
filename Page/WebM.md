@@ -28,7 +28,7 @@ WebM 파일은 [VP8](https://ko.wikipedia.org/wiki/VP8 "wikilink") 비디오와 
   - [공식 웹사이트](http://www.webmproject.org/)
   - [WebM 컨테이너 가이드라인](http://www.webmproject.org/code/specs/container/)
 
-[분류:구글](https://ko.wikipedia.org/wiki/분류:구글 "wikilink") [분류:자유 멀티미디어 코덱](https://ko.wikipedia.org/wiki/분류:자유_멀티미디어_코덱 "wikilink") [분류:오픈 포맷](https://ko.wikipedia.org/wiki/분류:오픈_포맷 "wikilink")
+[분류:구글](https://ko.wikipedia.org/wiki/분류:구글 "wikilink") [분류:자유 멀티미디어 코덱](https://ko.wikipedia.org/wiki/분류:자유_멀티미디어_코덱 "wikilink") [분류:오픈 포맷](https://ko.wikipedia.org/wiki/분류:오픈_포맷 "wikilink") [분류:화상 통화](https://ko.wikipedia.org/wiki/분류:화상_통화 "wikilink")
 
 1.  [Google launches open WebM web video format based on VP8 (update: hardware partners and Microsoft statement) - Engadget](http://www.engadget.com/2010/05/19/google-launches-open-webm-web-video-format-based-on-vp8/)
 2.  [Introducing WebM, an open web media project - The WebM Open Media Project Blog](http://webmproject.blogspot.com/2010/05/introducing-webm-open-web-media-project.html)

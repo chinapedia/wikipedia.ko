@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [IB  \( \)](https://ko.wikipedia.org/wiki/IB__\(_\)).
+> This article is converted from Wikipedia: [IB 스포츠 \(텔레비전 채널\)](https://ko.wikipedia.org/wiki/IB_스포츠_\(텔레비전_채널\)).
 
 
 **IB 스포츠**(IB SPORTS)는 [대한민국](../Page/대한민국.md "wikilink")의 종합 스포츠 전문 [유료 방송 채널이다](../Page/대한민국의_케이블TV_방송.md "wikilink").

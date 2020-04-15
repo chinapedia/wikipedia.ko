@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [4th!](https://ko.wikipedia.org/wiki/4th!).
+> This article is converted from Wikipedia: [4th「이키맛쇼이!」](https://ko.wikipedia.org/wiki/4th「이키맛쇼이!」).
 
 
-**4th「이키맛쇼이\!」** (, Fourth \~ )는 [2002년](../Page/2002년.md "wikilink") [3월 27일에](../Page/3월_27일.md "wikilink") 발매 된 [모닝구무스메](../Page/모닝구무스메.md "wikilink")의 네 번째 정규 앨범이다.
+**4th「이키맛쇼이\!」**(, Fourth \~ )는 [2002년](../Page/2002년.md "wikilink") [3월 27일에](../Page/3월_27일.md "wikilink") 발매 된 [모닝구무스메](../Page/모닝구무스메.md "wikilink")의 네 번째 정규 앨범이다.
 
 ## 개요
 

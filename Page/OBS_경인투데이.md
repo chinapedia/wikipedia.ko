@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [OBS ](https://ko.wikipedia.org/wiki/OBS_).
+> This article is converted from Wikipedia: [OBS 경인투데이](https://ko.wikipedia.org/wiki/OBS_경인투데이).
 
 
 《**OBS 경인투데이**》는 [OBS경인TV](../Page/OBS경인TV.md "wikilink")의 [뉴스](../Page/뉴스.md "wikilink") [프로그램이다](../Page/텔레비전_프로그램.md "wikilink").

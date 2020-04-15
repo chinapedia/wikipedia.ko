@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [First Step \( \)](https://ko.wikipedia.org/wiki/First_Step_\(_\)).
+> This article is converted from Wikipedia: [First Step \(씨엔블루의 음반\)](https://ko.wikipedia.org/wiki/First_Step_\(씨엔블루의_음반\)).
 
 
 ***First Step***은 2011년 3월 21일 발매된 [씨엔블루](../Page/씨엔블루.md "wikilink")의 첫 정규 음반이다. 총 12곡이 수록된 이 앨범의 타이틀 곡은 〈직감〉으로 각종 음악 프로그램에서 1위를 석권하였다.\[1\]

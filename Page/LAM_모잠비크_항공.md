@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [LAM  ](https://ko.wikipedia.org/wiki/LAM__).
+> This article is converted from Wikipedia: [LAM 모잠비크 항공](https://ko.wikipedia.org/wiki/LAM_모잠비크_항공).
 
 
 **LAM 모잠비크 항공**()은 [마푸투](../Page/마푸투.md "wikilink")에 본사를 두고 있는 항공사로 [허브 공항은](../Page/허브_공항.md "wikilink") [마푸투 국제공항이](https://ko.wikipedia.org/wiki/마푸투_국제공항 "wikilink") 있다.

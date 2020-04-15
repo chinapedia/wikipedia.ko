@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  \(AV \)](https://ko.wikipedia.org/wiki/__\(AV_\)).
+> This article is converted from Wikipedia: [스즈키 사토미 \(AV 배우\)](https://ko.wikipedia.org/wiki/스즈키_사토미_\(AV_배우\)).
 
 
 **스즈키 사토미**(, [1988년](../Page/1988년.md "wikilink") [9월 9일](../Page/9월_9일.md "wikilink")? \~ )는 일본의 [성인 비디오 여배우다](https://ko.wikipedia.org/wiki/성인_비디오_여배우 "wikilink"). 생년월일이 다양하게 표기되는 인물이며, 그녀의 공식적인 생년월일은 88년 9월 9일이지만 [DMM.com](../Page/DMM.com.md "wikilink")이 기록하는 AV 여배우 정보는 스즈키의 생년월일을 다음과 같이 변해왔다:

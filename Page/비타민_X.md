@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ X](https://ko.wikipedia.org/wiki/_X).
+> This article is converted from Wikipedia: [비타민 X](https://ko.wikipedia.org/wiki/비타민_X).
 
 
 《**비타민 X**》()는 [2007년](../Page/2007년.md "wikilink") [3월 29일에](../Page/3월_29일.md "wikilink") [플레이스테이션 2용으로](../Page/플레이스테이션_2.md "wikilink") [D3 퍼블리셔에서](../Page/D3_퍼블리셔.md "wikilink") 발매된 [연애 어드벤처 게임](../Page/연애_어드벤처_게임.md "wikilink"), [여성향 게임이자](https://ko.wikipedia.org/wiki/여성향_게임 "wikilink") [오토메 게임이다](../Page/오토메_게임.md "wikilink").

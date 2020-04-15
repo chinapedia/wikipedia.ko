@@ -3,7 +3,7 @@
 
 **KNN DMB**는 부산·울산·경남 등 동남권을 가시청권으로 하는 [지상파DMB](https://ko.wikipedia.org/wiki/지상파DMB "wikilink") 방송국으로, [2008년](../Page/2008년.md "wikilink") 6월 개국하였다. [KNN](../Page/KNN.md "wikilink") 부산경남방송이 사업자이며, [ubc울산방송과](../Page/울산방송.md "wikilink") 공동으로 운영하고 있다.
 
-2007년 11월 14일부터 [황령산](../Page/황령산.md "wikilink")송신소에서, 11월 15일부터는 불모산중계소에서 시험 방송에 들어가 2008년 7월 7일부터 본방송을 시작했다. 한편 진주 지역은 그동안 3사의 송신소 위치를 놓고 타 방송사와 함께 [망진산](https://ko.wikipedia.org/wiki/망진산 "wikilink")이냐, [장군대산](https://ko.wikipedia.org/wiki/장군대산 "wikilink")이냐에 갈등을 지속해오다가 [장군대산](https://ko.wikipedia.org/wiki/장군대산 "wikilink")으로 최종 결정되면서 2012년에 방송 송출이 확정되었다.
+2007년 11월 14일부터 [황령산](../Page/황령산.md "wikilink")송신소에서, 11월 15일부터는 불모산중계소에서 시험 방송에 들어가 2008년 7월 7일부터 본방송을 시작했다. 한편 진주 지역은 그동안 3사의 송신소 위치를 놓고 타 방송사와 함께 [망진산](../Page/망진산.md "wikilink")이냐, [장군대산](../Page/장군대산.md "wikilink")이냐에 갈등을 지속해오다가 [장군대산](../Page/장군대산.md "wikilink")으로 최종 결정되면서 2012년에 방송 송출이 확정되었다.
 
 ## 연혁
 

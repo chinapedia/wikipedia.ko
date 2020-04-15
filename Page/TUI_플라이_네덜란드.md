@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TUI  ](https://ko.wikipedia.org/wiki/TUI__).
+> This article is converted from Wikipedia: [TUI 플라이 네덜란드](https://ko.wikipedia.org/wiki/TUI_플라이_네덜란드).
 
 
 **TUI 플라이 네덜란드**()은 [네덜란드](../Page/네덜란드.md "wikilink")의 지역 항공사로 총 70개 노선을 취항하고 있다. 본사는 [네덜란드](../Page/네덜란드.md "wikilink") [암스테르담](../Page/암스테르담.md "wikilink")에 위치해 있다. 또한 사용하고 있는 [허브 공항으로](../Page/허브_공항.md "wikilink") [스히폴 국제공항이](https://ko.wikipedia.org/wiki/스히폴_국제공항 "wikilink") 있으며 계열사는 [벨기에](../Page/벨기에.md "wikilink")의 항공사인 [TUI 트러블이](https://ko.wikipedia.org/wiki/TUI_트러블 "wikilink") 있다.

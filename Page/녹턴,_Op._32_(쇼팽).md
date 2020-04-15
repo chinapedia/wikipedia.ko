@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [, Op. 32 \(\)](https://ko.wikipedia.org/wiki/,_Op._32_\(\)).
+> This article is converted from Wikipedia: [녹턴, Op. 32 \(쇼팽\)](https://ko.wikipedia.org/wiki/녹턴,_Op._32_\(쇼팽\)).
 
 
 **쇼팽의 녹턴 작품번호 제32번**(2 Nocturnes, Op. 32)은 [프레데리크 쇼팽이](../Page/프레데리크_쇼팽.md "wikilink") [1837년](../Page/1837년.md "wikilink")에 작곡한 곡으로 녹턴 9번과 녹턴 10번으로 구성되어 있다. 또한 첫 출판도 같은 해인 [1837년](../Page/1837년.md "wikilink")에 이루어졌다. 작품번호 제32번의 두 곡은 전작(前作)인 [녹턴, Op. 27보다](../Page/녹턴,_Op._27_\(쇼팽\).md "wikilink") 인기가 떨어졌으나 녹턴의 형식에 새로운 작곡방식을 개척했다는 평을 듣는다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [HTC  Z](https://ko.wikipedia.org/wiki/HTC__Z).
+> This article is converted from Wikipedia: [HTC 디자이어 Z](https://ko.wikipedia.org/wiki/HTC_디자이어_Z).
 
 
 **디자이어 Z**는 [HTC에서](../Page/HTC_\(기업\).md "wikilink") 만든 스마트폰의 이름이다. 2010년 9월 15일 발표를 했고, 'HTC 디자이어Z'라는 이름으로 10월에 유럽과 아시아, 캐나다 등에 출시되었으며, 2010년 11월 1일 'HTC G2'라는 이름으로 [미국](../Page/미국.md "wikilink")에 [T-모바일](../Page/T-모바일.md "wikilink")을 통해 출시되었다. 사양은 HTC 디자이어와 HTC 디자이어 HD의 중간급이나, 쿼티 슬라이드 형태라는 점이 큰 차이를 보인다. 국내에는 쿼티 시장이 좁다는 이유로 같은날 발표된 디자이어 HD만 출시되었고, 현재로서 디자이어Z의 출시 가능성은 미미하다.

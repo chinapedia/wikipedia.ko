@@ -5,7 +5,7 @@
 
 ## 멤버
 
-  - **[타니우치 신야](https://ko.wikipedia.org/wiki/다니우치_신야 "wikilink")** (, [1987년](../Page/1987년.md "wikilink") [9월 23일](../Page/9월_23일.md "wikilink") \~ )
+  - **[타니우치 신야](https://ko.wikipedia.org/wiki/다니우치_신야 "wikilink")**(, [1987년](../Page/1987년.md "wikilink") [9월 23일](../Page/9월_23일.md "wikilink") \~ )
 
 <!-- end list -->
 
@@ -14,7 +14,7 @@
 
 <!-- end list -->
 
-  - **[후루야 케이타](https://ko.wikipedia.org/wiki/후루야_게이타 "wikilink")** (, [1988년](../Page/1988년.md "wikilink") [6월 13일](../Page/6월_13일.md "wikilink") \~ )
+  - **[후루야 케이타](https://ko.wikipedia.org/wiki/후루야_게이타 "wikilink")**(, [1988년](../Page/1988년.md "wikilink") [6월 13일](../Page/6월_13일.md "wikilink") \~ )
 
 <!-- end list -->
 
@@ -23,7 +23,7 @@
 
 <!-- end list -->
 
-  - **[카기모토 아키라](https://ko.wikipedia.org/wiki/가기모토_아키라 "wikilink")** (, 1988년 [8월 20일](../Page/8월_20일.md "wikilink") \~ )
+  - **[카기모토 아키라](https://ko.wikipedia.org/wiki/가기모토_아키라 "wikilink")**(, 1988년 [8월 20일](../Page/8월_20일.md "wikilink") \~ )
 
 <!-- end list -->
 
@@ -32,7 +32,7 @@
 
 ### 이전 멤버
 
-  - **[나카도이 히로키](https://ko.wikipedia.org/wiki/나카도이_히로키 "wikilink")** (, [1985년](../Page/1985년.md "wikilink") [7월 26일](../Page/7월_26일.md "wikilink") \~ )
+  - **[나카도이 히로키](https://ko.wikipedia.org/wiki/나카도이_히로키 "wikilink")**(, [1985년](../Page/1985년.md "wikilink") [7월 26일](../Page/7월_26일.md "wikilink") \~ )
 
 <!-- end list -->
 
@@ -494,11 +494,75 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>style="text-align:right; background-color:| 27th</p></td>
+<td><p>27th</p></td>
 <td><p><strong><a href="https://ko.wikipedia.org/wiki/도쿄피버" title="wikilink">도쿄피버</a></strong></p></td>
 <td><p>3월 8일</p></td>
 <td></td>
+<td><p>5위</p></td>
 <td></td>
+</tr>
+<tr class="even">
+<td><p>28th</p></td>
+<td><p><strong><a href="https://ko.wikipedia.org/wiki/Beautiful_Day" title="wikilink">Beautiful Day</a></strong></p></td>
+<td><p>8월 23일</p></td>
+<td></td>
+<td><p>6위</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2018년</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>29th</p></td>
+<td><p><strong><a href="https://ko.wikipedia.org/wiki/Bumblebee" title="wikilink">Bumblebee</a></strong></p></td>
+<td><p>4월 25일</p></td>
+<td></td>
+<td><p>4위</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2019년</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>30th</p></td>
+<td><p><strong><a href="https://ko.wikipedia.org/wiki/Be_the_NAKED" title="wikilink">Be the NAKED</a></strong></p></td>
+<td><p>1월 30일</p></td>
+<td></td>
+<td><p>9위</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>31th</p></td>
+<td><p><strong><a href="https://ko.wikipedia.org/wiki/Summer_Vacation" title="wikilink">Summer Vacation</a></strong></p></td>
+<td><p>7월 24일</p></td>
+<td></td>
+<td><p>8위</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2020년</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>32th</p></td>
+<td><p><strong><a href="https://ko.wikipedia.org/wiki/HIDE_and_SEEK/선셋_리후레인" title="wikilink">HIDE and SEEK/선셋 리후레인</a></strong></p></td>
+<td><p>2월 19일</p></td>
+<td></td>
+<td><p>3위</p></td>
 <td></td>
 </tr>
 </tbody>

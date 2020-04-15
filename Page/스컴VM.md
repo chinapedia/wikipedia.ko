@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [VM](https://ko.wikipedia.org/wiki/VM).
+> This article is converted from Wikipedia: [스컴VM](https://ko.wikipedia.org/wiki/스컴VM).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:ScummVM_Windows_Screenshot.png "wikilink").\]\] **스컴VM**(ScummVM, Script Creation Utility for Maniac Mansion Virtual Machine)은 [게임 엔진 레크리에이션의](https://ko.wikipedia.org/wiki/게임_엔진_레크리에이션 "wikilink") 총집합이다. 원래 [스컴](../Page/스컴.md "wikilink")(SCUMM) 시스템을 이용하는 [루카스아츠 어드벤처 게임을](https://ko.wikipedia.org/wiki/루카스아츠_어드벤처_게임 "wikilink") 즐기기 위해 설계되었으나(여기서 VM은 [가상 머신의](../Page/가상_머신.md "wikilink") 이름에서 따온 것) 이제는 SCUMM 게임이 아니더라도 [레볼루션 소프트웨어와](https://ko.wikipedia.org/wiki/레볼루션_소프트웨어 "wikilink") [어드벤처 소프트와](https://ko.wikipedia.org/wiki/어드벤처_소프트 "wikilink") 같은 기업의 게임도 지원한다. [루드윅 스트라이저스](https://ko.wikipedia.org/wiki/루드윅_스트라이저스 "wikilink")(Ludvig Strigeus)가 처음 개발하였다.\[1\] [GNU 일반 공중 사용 허가서로](../Page/GNU_일반_공중_사용_허가서.md "wikilink") 배포된 스컴VM은 [자유 소프트웨어이다](../Page/자유_소프트웨어.md "wikilink").
@@ -169,9 +169,9 @@
   - [Pajama Sam: No Need to Hide When It's Dark Outside](https://ko.wikipedia.org/wiki/Pajama_Sam:_No_Need_to_Hide_When_It's_Dark_Outside "wikilink")
   - [Pajama Sam 2: Thunder and Lightning Aren't so Frightening](https://ko.wikipedia.org/wiki/Pajama_Sam_2:_Thunder_and_Lightning_Aren't_so_Frightening "wikilink")
   - [Pajama Sam 3: You Are What You Eat from Your Head to Your Feet](https://ko.wikipedia.org/wiki/Pajama_Sam_3:_You_Are_What_You_Eat_from_Your_Head_to_Your_Feet "wikilink")
-  - [Pajama Sam's Lost & Found](https://ko.wikipedia.org/wiki/파자마_샘 "wikilink")
-  - [Pajama Sam's Sock Works](https://ko.wikipedia.org/wiki/파자마_샘 "wikilink")
-  - [Pajama Sam: Games to Play on Any Day](https://ko.wikipedia.org/wiki/파자마_샘 "wikilink")
+  - [Pajama Sam's Lost & Found](../Page/파자마_샘.md "wikilink")
+  - [Pajama Sam's Sock Works](../Page/파자마_샘.md "wikilink")
+  - [Pajama Sam: Games to Play on Any Day](../Page/파자마_샘.md "wikilink")
   - [Putt-Putt & Fatty Bear's Activity Pack](https://ko.wikipedia.org/wiki/풋풋#Other_games "wikilink")
   - [Putt-Putt and Pep's Balloon-O-Rama](https://ko.wikipedia.org/wiki/풋풋#Other_games "wikilink")
   - [Putt-Putt and Pep's Dog on a Stick](https://ko.wikipedia.org/wiki/풋풋#Other_games "wikilink")
@@ -218,7 +218,7 @@
   - [Blue Force](https://ko.wikipedia.org/wiki/Blue_Force "wikilink")
   - [Broken Sword: The Shadow of the Templars](https://ko.wikipedia.org/wiki/Broken_Sword:_The_Shadow_of_the_Templars "wikilink")
   - [Broken Sword II: The Smoking Mirror](https://ko.wikipedia.org/wiki/Broken_Sword_II:_The_Smoking_Mirror "wikilink")
-  - [브로큰 소드](https://ko.wikipedia.org/wiki/브로큰_소드 "wikilink")
+  - [브로큰 소드](../Page/브로큰_소드.md "wikilink")
   - [Bud Tucker in Double Trouble](https://ko.wikipedia.org/wiki/Bud_Tucker_in_Double_Trouble "wikilink")
   - [Chivalry is Not Dead](https://ko.wikipedia.org/wiki/Chivalry_is_Not_Dead "wikilink")
   - [Cruise for a Corpse](https://ko.wikipedia.org/wiki/Cruise_for_a_Corpse "wikilink")
@@ -311,7 +311,7 @@
   - [Moonbase Commander](https://ko.wikipedia.org/wiki/Moonbase_Commander "wikilink")
   - [Noctropolis](https://ko.wikipedia.org/wiki/Noctropolis "wikilink")
   - [Operation Stealth](https://ko.wikipedia.org/wiki/Operation_Stealth "wikilink")
-  - [파자마 샘](https://ko.wikipedia.org/wiki/파자마_샘 "wikilink")
+  - [파자마 샘](../Page/파자마_샘.md "wikilink")
   - [The Pink Panther: Hokus Pokus Pink](https://ko.wikipedia.org/wiki/The_Pink_Panther:_Hokus_Pokus_Pink "wikilink")
   - [The Pink Panther: Passport to Peril](https://ko.wikipedia.org/wiki/The_Pink_Panther:_Passport_to_Peril "wikilink")
   - [Playtoons](https://ko.wikipedia.org/wiki/Playtoons "wikilink") series

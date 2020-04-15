@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [DS ](https://ko.wikipedia.org/wiki/DS_).
+> This article is converted from Wikipedia: [DS 커넥션](https://ko.wikipedia.org/wiki/DS_커넥션).
 
 
 **DS 커넥션** (DS Connexion)은 [대한민국](../Page/대한민국.md "wikilink")의 [힙합](../Page/힙합.md "wikilink") 그룹이다. 2001년 결성되었으며, 현재 멤버는 [와디](../Page/와디_\(가수\).md "wikilink"), [팻두](../Page/팻두.md "wikilink"), [면](../Page/면_\(가수\).md "wikilink") 셋이다. 현재까지 두 장의 앨범을 냈으며 현재는 각자의 활동에 더 치중하고 있다.

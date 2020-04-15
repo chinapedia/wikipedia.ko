@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ eTL](https://ko.wikipedia.org/wiki/_eTL).
+> This article is converted from Wikipedia: [서울대학교 eTL](https://ko.wikipedia.org/wiki/서울대학교_eTL).
 
 
 **서울대학교 eTL**(Seoul National University e-Teaching & Learning)은 [서울대학교](https://ko.wikipedia.org/wiki/서울대학교 "wikilink")에서 운영 중인 [전자 학습](../Page/전자_학습.md "wikilink") 서비스이다.

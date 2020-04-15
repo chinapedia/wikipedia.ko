@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [BFC  ](https://ko.wikipedia.org/wiki/BFC__).
+> This article is converted from Wikipedia: [BFC 대회 목록](https://ko.wikipedia.org/wiki/BFC_대회_목록).
 
 
 아래는 종합격투기 단체인 **[BFC](https://ko.wikipedia.org/wiki/벨라토르_파이팅_챔피언십 "wikilink")**의 대회 목록이다. 2009년 4월 3일 Bellator I을 시작으로 현재까지 대회를 이어오고 있다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TV ](https://ko.wikipedia.org/wiki/TV_).
+> This article is converted from Wikipedia: [TV조선 주말드라마](https://ko.wikipedia.org/wiki/TV조선_주말드라마).
 
 
 **TV조선 주말드라마**는 [2011년](../Page/2011년.md "wikilink") [12월 17일부터](../Page/12월_17일.md "wikilink") [종합편성채널](https://ko.wikipedia.org/wiki/종합편성채널 "wikilink") [TV조선](../Page/TV조선.md "wikilink")을 통해 방송된 [텔레비전](../Page/텔레비전.md "wikilink") [드라마이다](../Page/텔레비전_드라마.md "wikilink").
@@ -123,7 +123,6 @@
   - 《[바벨](../Page/바벨_\(드라마\).md "wikilink")》 : 2019년 1월 27일 \~ 2019년 3월 24일
   - 《[조선생존기](../Page/조선생존기.md "wikilink")》 : 2019년 6월 8일 \~ 2019년 8월 17일
   - 《[간택 - 여인들의 전쟁](https://ko.wikipedia.org/wiki/간택_-_여인들의_전쟁 "wikilink")》 : 2019년 12월 14일 \~ 2020년 2월 9일
-  - 《[바람과 구름과 비](https://ko.wikipedia.org/wiki/바람과_구름과_비_\(2020년_드라마\) "wikilink")》 : 2020년 5월 (예정) \~
 
 ## 토요드라마
 

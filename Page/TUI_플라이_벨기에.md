@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [TUI  ](https://ko.wikipedia.org/wiki/TUI__).
+> This article is converted from Wikipedia: [TUI 플라이 벨기에](https://ko.wikipedia.org/wiki/TUI_플라이_벨기에).
 
 
-**TUI 플라이 벨기에** ()는 [벨기에](../Page/벨기에.md "wikilink")의 전세 항공사로 총 84개 노선을 취항하고 있다. 본사는 [벨기에](../Page/벨기에.md "wikilink") [오스텐더](../Page/오스텐더.md "wikilink")에 위치해 있으며 [2004년](../Page/2004년.md "wikilink")에 설립했다. 또한 사용하고 있는 [허브 공항으로](../Page/허브_공항.md "wikilink") [모하마드 V 국제공항](https://ko.wikipedia.org/wiki/모하마드_V_국제공항 "wikilink"), [브뤼셀 공항이](https://ko.wikipedia.org/wiki/브뤼셀_공항 "wikilink") 있다.
+**TUI 플라이 벨기에**()는 [벨기에](../Page/벨기에.md "wikilink")의 전세 항공사로 총 84개 노선을 취항하고 있다. 본사는 [벨기에](../Page/벨기에.md "wikilink") [오스텐더](../Page/오스텐더.md "wikilink")에 위치해 있으며 [2004년](../Page/2004년.md "wikilink")에 설립했다. 또한 사용하고 있는 [허브 공항으로](../Page/허브_공항.md "wikilink") [모하마드 V 국제공항](https://ko.wikipedia.org/wiki/모하마드_V_국제공항 "wikilink"), [브뤼셀 공항이](https://ko.wikipedia.org/wiki/브뤼셀_공항 "wikilink") 있다.
 
 ## 역사
 

@@ -11,7 +11,6 @@
   - [2011년](../Page/2011년.md "wikilink") [12월 15일](../Page/12월_15일.md "wikilink") : G1 DMB 백운산 중계소, 괘방산 중계소 개국
   - [2014년](../Page/2014년.md "wikilink") [8월 18일](../Page/8월_18일.md "wikilink") : 현대 홈쇼핑, G1 DMB로 송출
   - [2016년](../Page/2016년.md "wikilink") : G1 DMB 청대산 중계소, 봉황산 중계소 개국
-  - [2020년](../Page/2020년.md "wikilink") [3월 4일](../Page/3월_4일.md "wikilink") : SBS U HD, 아리랑 라디오, SBS V RADIO가 추가 된다.
 
 ## 비디오 채널
 
@@ -20,7 +19,7 @@
 <!-- end list -->
 
   -
-    전 시간대에 G1 TV 였다. 2019년 3월 4일 부터 평일 저녁 시간대 자체 편성 이다. 2020년 3월 4일 부터 SBS U HD,아리랑 라디오,SBS V RADIO가 삽입 된다
+    전 시간대에 G1 TV가 송출 된다
 
 <!-- end list -->
 
@@ -29,7 +28,7 @@
 <!-- end list -->
 
   -
-    YTN의 DMB 채널인 mYTN를 내보낸다.2020년 3월 4일 부터 수도권 mYTN HD도 같이 삽입 된다
+    YTN의 DMB 채널인 mYTN를 내보낸다.
 
 ## 데이터 채널
 

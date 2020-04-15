@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [N](https://ko.wikipedia.org/wiki/N).
+> This article is converted from Wikipedia: [N포세대](https://ko.wikipedia.org/wiki/N포세대).
 
 
 **N포세대**(N抛世代)는 N가지를 포기한 사람들의 세대를 말하는 신조어이다. 처음 삼포세대로 시작되어 'N가지를 포기한 세대'로 확장되었다. **삼포세대**(三抛世代)는 연애, 결혼, 출산 3가지를 포기한 세대를 말하며, **오포세대**(五抛世代)는 집과 경력을 포함하여 5가지를 포기한 것을 말한다. **칠포세대**(七抛世代)는 여기에 희망/취미와 인간관계까지 포함하여 7가지를 포기한 세대를 일컫는다.

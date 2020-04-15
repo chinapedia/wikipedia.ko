@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ NSX](https://ko.wikipedia.org/wiki/_NSX).
+> This article is converted from Wikipedia: [혼다 NSX](https://ko.wikipedia.org/wiki/혼다_NSX).
 
 
 **혼다 NSX**는 [혼다 기연 공업이](https://ko.wikipedia.org/wiki/혼다_기연_공업 "wikilink") 제조하고 있던 2인승의 미드십 [스포츠카](../Page/스포츠카.md "wikilink")이다.

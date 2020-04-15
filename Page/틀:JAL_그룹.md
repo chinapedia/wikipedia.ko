@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:JAL ](https://ko.wikipedia.org/wiki/:JAL_).
+> This article is converted from Wikipedia: [틀:JAL 그룹](https://ko.wikipedia.org/wiki/틀:JAL_그룹).
 
 
 <noinclude>

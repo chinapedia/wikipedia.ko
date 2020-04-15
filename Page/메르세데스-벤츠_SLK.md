@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [- SLK](https://ko.wikipedia.org/wiki/-_SLK).
+> This article is converted from Wikipedia: [메르세데스-벤츠 SLK](https://ko.wikipedia.org/wiki/메르세데스-벤츠_SLK).
 
 
 **메르세데스-벤츠 SLK**(Mercedes-Benz SLK)는 [다임러 AG가](../Page/다임러_AG.md "wikilink") 제조해 [메르세데스-벤츠](../Page/메르세데스-벤츠.md "wikilink")로 판매하는 [로드스터](https://ko.wikipedia.org/wiki/로드스터 "wikilink")이다.

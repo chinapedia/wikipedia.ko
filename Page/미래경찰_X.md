@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ X](https://ko.wikipedia.org/wiki/_X).
+> This article is converted from Wikipedia: [미래경찰 X](https://ko.wikipedia.org/wiki/미래경찰_X).
 
 
 **미래경찰 X**(未來警察)는 [2010년](../Page/2010년.md "wikilink") 개봉한 SF 액션 영화이다.

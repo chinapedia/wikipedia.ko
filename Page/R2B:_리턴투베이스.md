@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [R2B: ](https://ko.wikipedia.org/wiki/R2B:_).
+> This article is converted from Wikipedia: [R2B: 리턴투베이스](https://ko.wikipedia.org/wiki/R2B:_리턴투베이스).
 
 
 《**R2B: 리턴투베이스**》는 [2012년](../Page/2012년.md "wikilink") 개봉한 [대한민국](../Page/대한민국.md "wikilink")의 액션 영화이다. 한국 영화이지만 [영어](../Page/영어.md "wikilink")도 일부 존재한다.

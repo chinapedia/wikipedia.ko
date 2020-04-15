@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [LNG](https://ko.wikipedia.org/wiki/LNG).
+> This article is converted from Wikipedia: [LNG선](https://ko.wikipedia.org/wiki/LNG선).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:LNG_Tanker_001.JPG "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:Lng_tanker.jpg "wikilink")

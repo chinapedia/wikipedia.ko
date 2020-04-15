@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ \~ Undefined Fantastic Object](https://ko.wikipedia.org/wiki/_\~_Undefined_Fantastic_Object).
+> This article is converted from Wikipedia: [동방성련선 \~ Undefined Fantastic Object](https://ko.wikipedia.org/wiki/동방성련선_\~_Undefined_Fantastic_Object).
 
 
 《**동방성련선 \~ Undefined Fantastic Object**》()은 [동방 프로젝트의](../Page/동방_프로젝트.md "wikilink") 열두번째 시리즈 게임이다.

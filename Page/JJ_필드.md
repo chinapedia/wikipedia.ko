@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [JJ ](https://ko.wikipedia.org/wiki/JJ_).
+> This article is converted from Wikipedia: [JJ 필드](https://ko.wikipedia.org/wiki/JJ_필드).
 
 
 **J. J. 필드**(J. J. Feild, [1978년](../Page/1978년.md "wikilink") [4월](../Page/4월.md "wikilink") \~ )는 [미국](../Page/미국.md "wikilink")의 [배우](../Page/배우.md "wikilink")이다.

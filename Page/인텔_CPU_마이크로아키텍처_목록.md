@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ CPU  ](https://ko.wikipedia.org/wiki/_CPU__).
+> This article is converted from Wikipedia: [인텔 CPU 마이크로아키텍처 목록](https://ko.wikipedia.org/wiki/인텔_CPU_마이크로아키텍처_목록).
 
 
 아래 목록은 [인텔](../Page/인텔.md "wikilink") [CPU](../Page/중앙_처리_장치.md "wikilink") [마이크로아키텍처](../Page/마이크로아키텍처.md "wikilink")의 일부이다.

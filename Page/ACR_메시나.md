@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ACR ](https://ko.wikipedia.org/wiki/ACR_).
+> This article is converted from Wikipedia: [ACR 메시나](https://ko.wikipedia.org/wiki/ACR_메시나).
 
 
 **ACR 메시나**(Associazione Calcio Rinascita Messina SRL)는 [1900년](../Page/1900년.md "wikilink")에 창단된 [이탈리아](../Page/이탈리아.md "wikilink")의 축구 클럽으로, [시칠리아](https://ko.wikipedia.org/wiki/시칠리아 "wikilink") [메시나](../Page/메시나.md "wikilink")를 연고지로 한다. 현재 [레가 프로에서](https://ko.wikipedia.org/wiki/레가_프로 "wikilink") 활약하고 있다.

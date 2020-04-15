@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [I WISH \( \)](https://ko.wikipedia.org/wiki/I_WISH_\(_\)).
+> This article is converted from Wikipedia: [I WISH \(모닝구무스메의 노래\)](https://ko.wikipedia.org/wiki/I_WISH_\(모닝구무스메의_노래\)).
 
 
 **I WISH**(아이 위시)는 [2000년](../Page/2000년.md "wikilink") [9월 6일에](../Page/9월_6일.md "wikilink") 발매 된 [모닝구무스메](../Page/모닝구무스메.md "wikilink")의 열 번째 싱글이다.

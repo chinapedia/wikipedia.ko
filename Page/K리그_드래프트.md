@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [K ](https://ko.wikipedia.org/wiki/K_).
+> This article is converted from Wikipedia: [K리그 드래프트](https://ko.wikipedia.org/wiki/K리그_드래프트).
 
 
 여기서 설명하고자 하는 것은 **K 리그 드래프트 제도**이다.

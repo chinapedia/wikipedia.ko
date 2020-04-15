@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [MBC MOVIES 7 MSL ](https://ko.wikipedia.org/wiki/MBC_MOVIES_7_MSL_).
+> This article is converted from Wikipedia: [MBC MOVIES배 7차 MSL 서바이버리그](https://ko.wikipedia.org/wiki/MBC_MOVIES배_7차_MSL_서바이버리그).
 
 
 **MBC MOVIES배 7차 MSL 서바이버리그**는 2005년에 개최된 MSL 서바이버리그이다.

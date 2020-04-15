@@ -5,9 +5,9 @@
 
 ## 구성원
 
-  - **MEEKO** (, [1월 27일](../Page/1월_27일.md "wikilink") 출생) O형, 보컬 (20세)
-  - **MAICO** (, [10월 13일](../Page/10월_13일.md "wikilink") 출생) B형, 보컬 (24세)
-  - **83** (, [6월 8일](../Page/6월_8일.md "wikilink") 출생) A형, 베이스 (30세)
+  - **MEEKO**(, [1월 27일](../Page/1월_27일.md "wikilink") 출생) O형, 보컬 (20세)
+  - **MAICO**(, [10월 13일](../Page/10월_13일.md "wikilink") 출생) B형, 보컬 (24세)
+  - **83**(, [6월 8일](../Page/6월_8일.md "wikilink") 출생) A형, 베이스 (30세)
   - **윳치**（, [1월 21일](../Page/1월_21일.md "wikilink") 출생) AB형, 드럼 (26세)
 
 윳치를 제외한 나머지 구성원은 [나고야](https://ko.wikipedia.org/wiki/나고야_시 "wikilink") 출신이며, 윳치는 [니가타현](../Page/니가타현.md "wikilink") 출신이다. KUPPA는 2009년 3월을 기해 개인적인 사정으로 밴드를 탈퇴했다. 현재는 객원 멤버로 예전 midnightPumpkin(베이스 83(야스)가 활동했었던 밴드)의 기타 담당 YU-ICHI가 참가하고 있다.

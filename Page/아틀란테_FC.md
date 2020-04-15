@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
+> This article is converted from Wikipedia: [아틀란테 FC](https://ko.wikipedia.org/wiki/아틀란테_FC).
 
 
 **아틀란테 풋볼 클럽**() 또는 **아틀란테**()는 [멕시코](../Page/멕시코.md "wikilink")의 축구 클럽으로, [캉쿤](https://ko.wikipedia.org/wiki/캉쿤 "wikilink")을 연고로 한다. 이 클럽은 [1916년](../Page/1916년.md "wikilink")에 창단되었으며 2007년 [멕시코 시티에서](https://ko.wikipedia.org/wiki/멕시코_시티 "wikilink") 현재의 연고지인 [캉쿤](https://ko.wikipedia.org/wiki/캉쿤 "wikilink")으로 연고지 이전을 하였다.

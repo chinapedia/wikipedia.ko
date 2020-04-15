@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [WWE  ](https://ko.wikipedia.org/wiki/WWE__).
+> This article is converted from Wikipedia: [WWE 인터콘티넨털 챔피언십](https://ko.wikipedia.org/wiki/WWE_인터콘티넨털_챔피언십).
 
 
 **WWE 인터콘티넨털 챔피언십**(WWE Intercontinental championship)은 [WWE](https://ko.wikipedia.org/wiki/WWE "wikilink")의 챔피언십 중 하나이다. 원레 노스 아메리카 챔피언십이 있었으나 통합되었다.
@@ -141,7 +141,8 @@ WWF가 현재 WWE로 변경해 브랜드 확장한 이후, [랍 밴 댐이](../P
   - 바비 래쉴리
   - 핀 베일러
   - 나카무라 신스케
-  - ''' 브라운 스트로우먼 ''' (현 챔피언)
+  - 브라운 스트로우먼
+  - **새미 제인** (현 챔피언)
 
 ## 함께 보기
 

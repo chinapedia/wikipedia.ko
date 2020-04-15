@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SV  ](https://ko.wikipedia.org/wiki/SV__).
+> This article is converted from Wikipedia: [SV 쥘터 바레험](https://ko.wikipedia.org/wiki/SV_쥘터_바레험).
 
 
 **SV 쥘터 바레험**(Sportvereniging Zulte Waregem)은 [벨기에](../Page/벨기에.md "wikilink") [바레험](https://ko.wikipedia.org/wiki/바레험 "wikilink")의 축구 클럽이다. 이 팀은 [1950년](../Page/1950년.md "wikilink")에 창단되었으며, 현재 [주필러리그](https://ko.wikipedia.org/wiki/주필러리그 "wikilink")에서 활동하고 있다.

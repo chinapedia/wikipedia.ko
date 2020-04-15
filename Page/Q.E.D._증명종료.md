@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Q.E.D. ](https://ko.wikipedia.org/wiki/Q.E.D._).
+> This article is converted from Wikipedia: [Q.E.D. 증명종료](https://ko.wikipedia.org/wiki/Q.E.D._증명종료).
 
 
 《**Q.E.D. 증명종료**》()는 [가토 모토히로의](../Page/가토_모토히로.md "wikilink") [소년 만화](../Page/소년_만화.md "wikilink") 작품으로, 매거진 Great에서 연재되고 있는 추리 만화이다. [2009년](../Page/2009년.md "wikilink")에는 [텔레비전 드라마화](../Page/텔레비전_드라마.md "wikilink") 되었다. 격월 연재 만화작품으로는 현재 세계에서 최장기간 연재되었으며 기네스에 등록되어 있다. 매 화마다 기록을 새로이 경신하는 중이다.

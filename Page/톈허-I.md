@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [-I](https://ko.wikipedia.org/wiki/-I).
+> This article is converted from Wikipedia: [톈허-I](https://ko.wikipedia.org/wiki/톈허-I).
 
 
 **톈허-I**() 혹은 **톈허-1**, **TH-1**는 [중화인민공화국](../Page/중화인민공화국.md "wikilink") [톈진](https://ko.wikipedia.org/wiki/톈진 "wikilink")의 [국립슈퍼컴퓨터센터](https://ko.wikipedia.org/wiki/국립슈퍼컴퓨터센터 "wikilink")에 있는 [슈퍼컴퓨터](../Page/슈퍼컴퓨터.md "wikilink")를 말한다. 이것은 세계에서 몇 안되는 [페타 플롭스급](../Page/플롭스.md "wikilink") 슈퍼컴퓨터 중 하나이다.\[1\]\[2\]

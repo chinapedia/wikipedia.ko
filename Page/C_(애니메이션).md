@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [C \(\)](https://ko.wikipedia.org/wiki/C_\(\)).
+> This article is converted from Wikipedia: [C \(애니메이션\)](https://ko.wikipedia.org/wiki/C_\(애니메이션\)).
 
 
 《**C**》(**)는 [타츠노코 프로덕션에서](https://ko.wikipedia.org/wiki/타츠노코_프로덕션 "wikilink") 제작한 [일본](../Page/일본.md "wikilink")의 [텔레비전 애니메이션이다](../Page/애니메이션.md "wikilink"). [2011년](../Page/2011년.md "wikilink") 4월부터 [후지 텔레비전](../Page/후지_TV.md "wikilink")·[노이타미나](../Page/노이타미나.md "wikilink") 채널을 통해 방영되고 있으며, [대한민국](../Page/대한민국.md "wikilink")에서는 [애니플러스](../Page/애니플러스.md "wikilink")가 일본어 음성에 한국어 자막을 덧씌운 채로 제공하고 있다.

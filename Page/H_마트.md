@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [H ](https://ko.wikipedia.org/wiki/H_).
+> This article is converted from Wikipedia: [H 마트](https://ko.wikipedia.org/wiki/H_마트).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:SuperHMartHoustonTX.JPG "wikilink") [휴스턴](../Page/휴스턴.md "wikilink") [스프링브랜치의](https://ko.wikipedia.org/wiki/스프링브랜치_\(휴스턴\) "wikilink") 슈퍼 H 마트\]\] **H 마트**(, 한아름 마트, 한아룡, 韓亞龍)는 한아름 그룹이 운영하는 [미국](../Page/미국.md "wikilink")의 슈퍼마켓 체인점으로\[1\], 본사는 [뉴저지주](../Page/뉴저지주.md "wikilink") [린드허스트](https://ko.wikipedia.org/wiki/린드허스트 "wikilink")에 위치해 있다.\[2\] 미국 내 여러 곳에 위치한 이 체인점은 아시아 음식을 전문으로 제공한다.\[3\] 이 체인점은 슈퍼 H 마트 스토어를 운영한다.\[4\] H 마트의 H는 "두 팔을 벌여 감싸안을 만함"을 가리키는 "한아름"을 의미한다.\[5\]

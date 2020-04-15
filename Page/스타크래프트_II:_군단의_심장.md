@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ II:  ](https://ko.wikipedia.org/wiki/_II:__).
+> This article is converted from Wikipedia: [스타크래프트 II: 군단의 심장](https://ko.wikipedia.org/wiki/스타크래프트_II:_군단의_심장).
 
 
 《**스타크래프트 II: 군단의 심장**》 ()은 《**[스타크래프트 II: 자유의 날개](../Page/스타크래프트_II:_자유의_날개.md "wikilink")**》의 확장팩이다. 확장팩이므로 기존 《스타크래프트 II: 자유의 날개》원본이 설치되어 있어야 했으나 《스타크래프트 II: 공허의 유산》출시 전 스탠드 얼론(Stand Alone)으로 변경되어 군단의 심장 하나로 독립 실행이 가능해졌다.\[1\]

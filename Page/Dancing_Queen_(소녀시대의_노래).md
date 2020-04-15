@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Dancing Queen \( \)](https://ko.wikipedia.org/wiki/Dancing_Queen_\(_\)).
+> This article is converted from Wikipedia: [Dancing Queen \(소녀시대의 노래\)](https://ko.wikipedia.org/wiki/Dancing_Queen_\(소녀시대의_노래\)).
 
 
 "**Dancing Queen**"은 대한민국의 걸 그룹 [소녀시대](../Page/소녀시대.md "wikilink")의 노래로, 소녀시대의 네 번째 정규 앨범 *[I Got a Boy](../Page/I_Got_a_Boy.md "wikilink")* 발매에 앞서 2012년 12월 21일 선공개한 노래이다. 이 노래는 2008년 [더피](../Page/더피.md "wikilink")의 노래 "[Mercy](https://ko.wikipedia.org/wiki/Mercy_\(더피의_노래\) "wikilink")"를 리메이크한 노래이다. [2008년](../Page/2008년.md "wikilink")에 사전제작이 되었다고 한다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ TV](https://ko.wikipedia.org/wiki/_TV).
+> This article is converted from Wikipedia: [네트워크 참TV](https://ko.wikipedia.org/wiki/네트워크_참TV).
 
 
 **네트워크 참TV**는 매주 [토요일](../Page/토요일.md "wikilink") 오전 5시 10분에 [KBS 1TV로](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink") 방송되는 [지역총국](https://ko.wikipedia.org/wiki/한국방송공사#지역방송국 "wikilink") 프로그램이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [PRICELESS\~  ,  !\~](https://ko.wikipedia.org/wiki/PRICELESS\~__,__!\~).
+> This article is converted from Wikipedia: [PRICELESS\~있을 리 없잖아, 그런 거!\~](https://ko.wikipedia.org/wiki/PRICELESS\~있을_리_없잖아,_그런_거!\~).
 
 
 《**PRICELESS\~있을 리 없잖아, 그런 거\!\~**》()는, [2012년](../Page/2012년.md "wikilink") [10월 22일부터](../Page/10월_22일.md "wikilink") [12월 24일까지](../Page/12월_24일.md "wikilink") [후지 TV](../Page/후지_TV.md "wikilink") [계열의](../Page/후지_네트워크.md "wikilink") 매주 [월요일](../Page/월요일.md "wikilink") 21:00 \~ 22:54의 〈[게츠쿠](../Page/후지_TV_월요일_밤_9시_드라마.md "wikilink")〉 시간대에 방송된 [일본](../Page/일본.md "wikilink")의 [텔레비전 드라마이다](https://ko.wikipedia.org/wiki/일본_드라마 "wikilink"). 주연은 [키무라 타쿠야](../Page/기무라_타쿠야.md "wikilink"). 공식 사이트의 로고 디자인에서는, 〈**PRICELE$S**〉로, S의 1자가 〈$〉의 표기이다.

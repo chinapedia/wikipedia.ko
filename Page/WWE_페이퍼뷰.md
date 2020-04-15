@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [WWE ](https://ko.wikipedia.org/wiki/WWE_).
+> This article is converted from Wikipedia: [WWE 페이퍼뷰](https://ko.wikipedia.org/wiki/WWE_페이퍼뷰).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:WMXXVIlive.jpg "wikilink") **WWE 페이퍼뷰**는 [WWE](https://ko.wikipedia.org/wiki/WWE "wikilink")에서 진행하는 [페이퍼뷰](https://ko.wikipedia.org/wiki/페이퍼뷰 "wikilink")를 말한다. 거의 한 달에 1회씩 진행되며, 레슬매니아를 제외한 나머지 페이퍼뷰는 모두 2시간 이상 진행이 된다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [   FC](https://ko.wikipedia.org/wiki/___FC).
+> This article is converted from Wikipedia: [웨스턴 시드니 원더러스 FC](https://ko.wikipedia.org/wiki/웨스턴_시드니_원더러스_FC).
 
 
 **웨스턴 시드니 원더러스 FC**(Western Sydney Wanderers FC)는 [오스트레일리아](../Page/오스트레일리아.md "wikilink")의 [A리그](../Page/A리그.md "wikilink") 소속 프로축구단으로 [뉴사우스웨일스주](../Page/뉴사우스웨일스주.md "wikilink")의 [시드니](../Page/시드니.md "wikilink")의 서부 지역을 연고로 한다. 2012-13 시즌부터 A리그에 참가하기 시작하였다.

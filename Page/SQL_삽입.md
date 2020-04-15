@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SQL ](https://ko.wikipedia.org/wiki/SQL_).
+> This article is converted from Wikipedia: [SQL 삽입](https://ko.wikipedia.org/wiki/SQL_삽입).
 
 
 **SQL 삽입**(, SQL 인젝션, SQL 주입)은 응용 프로그램 보안 상의 허점을 의도적으로 이용해, 악의적인 [SQL](../Page/SQL.md "wikilink")문을 실행되게 함으로써 데이터베이스를 비정상적으로 조작하는 [코드 인젝션](../Page/코드_인젝션.md "wikilink") 공격 방법이다.
@@ -84,7 +84,7 @@ $mysqli->query("SELECT * FROM users WHERE username='{$username}' AND password='{
   - [WASC Threat Classification - SQL Injection Entry](http://projects.webappsec.org/SQL-Injection), by the Web Application Security Consortium.
   - [Why SQL Injection Won't Go Away](https://web.archive.org/web/20121109235333/http://docs.google.com/leaf?id=0BykNNUTb95yzYTRjMjNjMWEtODBmNS00YzgwLTlmMGYtNWZmODI2MTNmZWYw&sort=name&layout=list&num=50), by Stuart Thomas.
   - [SQL Injection Attacks by Example](https://web.archive.org/web/20151107080700/http://www.unixwiz.net/techtips/sql-injection.html), by Steve Friedl
-  - [SQL Injection Prevention Cheat Sheet](http://www.owasp.org/index.php/SQL_Injection_Prevention_Cheat_Sheet), by OWASP.
+  - [SQL Injection Prevention Cheat Sheet](https://web.archive.org/web/20151116090859/https://www.owasp.org/index.php/SQL_Injection_Prevention_Cheat_Sheet), by OWASP.
   - [SQL Injection Tutorial](https://web.archive.org/web/20141211215029/http://www.breakthesecurity.com/2010/12/hacking-website-using-sql-injection.html), by BTS.
   - [SQL 인젝션 공격 방어 방법](https://web.archive.org/web/20190403053150/https://codeclu.com/questions/43/mysql-sql-%EC%9D%B8%EC%A0%9D%EC%85%98-%EA%B3%B5%EA%B2%A9-%EB%B0%A9%EC%96%B4-%EB%B0%A9%EB%B2%95)
   - [sqlmap: automatic SQL injection and database takeover tool](http://sqlmap.org/)

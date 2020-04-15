@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [UGM-27 ](https://ko.wikipedia.org/wiki/UGM-27_).
+> This article is converted from Wikipedia: [UGM-27 폴라리스](https://ko.wikipedia.org/wiki/UGM-27_폴라리스).
 
 
 **UGM-27 폴라리스**는 [미국](../Page/미국.md "wikilink")이 최초로 개발한 잠수함 발사용 탄도 미사일([SLBM](https://ko.wikipedia.org/wiki/SLBM "wikilink"))이다.

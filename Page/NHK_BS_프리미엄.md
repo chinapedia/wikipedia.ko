@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [NHK BS ](https://ko.wikipedia.org/wiki/NHK_BS_).
+> This article is converted from Wikipedia: [NHK BS 프리미엄](https://ko.wikipedia.org/wiki/NHK_BS_프리미엄).
 
 
 **NHK BS 프리미엄**은 [NHK의](../Page/일본방송협회.md "wikilink") 위성방송국 중 하나이다.

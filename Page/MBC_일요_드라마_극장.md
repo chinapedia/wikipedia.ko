@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [MBC   ](https://ko.wikipedia.org/wiki/MBC___).
+> This article is converted from Wikipedia: [MBC 일요 드라마 극장](https://ko.wikipedia.org/wiki/MBC_일요_드라마_극장).
 
 
 **MBC 일요 드라마 극장**은 [MBC](https://ko.wikipedia.org/wiki/MBC "wikilink")에서 [2010년](../Page/2010년.md "wikilink") [9월 22일부터](../Page/9월_22일.md "wikilink") [2010년](../Page/2010년.md "wikilink") [10월 17일까지](../Page/10월_17일.md "wikilink") 총 5회에 걸쳐 방영된 단막극 프로그램이다. 추석특집으로 《주부 김광자의 제3활동》이 연휴기간인 수요일 방송으로 먼저 방영된 이후, 그후부터는 매주 일요일에 방영되었다.

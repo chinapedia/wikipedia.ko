@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ FA  ](https://ko.wikipedia.org/wiki/_FA__).
+> This article is converted from Wikipedia: [대한민국 FA컵 우승 기록](https://ko.wikipedia.org/wiki/대한민국_FA컵_우승_기록).
 
 
 ## 역사

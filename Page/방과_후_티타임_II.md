@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [   II](https://ko.wikipedia.org/wiki/___II).
+> This article is converted from Wikipedia: [방과 후 티타임 II](https://ko.wikipedia.org/wiki/방과_후_티타임_II).
 
 
 **방과 후 티타임 II**()은 방과 후 티타임의 앨범으로, [2010년](../Page/2010년.md "wikilink") [10월 27일에](../Page/10월_27일.md "wikilink") [포니 캐니언을](https://ko.wikipedia.org/wiki/포니_캐니언 "wikilink") 통해 발매되었다.

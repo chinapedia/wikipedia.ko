@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
+> This article is converted from Wikipedia: [밀월 FC](https://ko.wikipedia.org/wiki/밀월_FC).
 
 
 **밀월 FC**(Millwall Football Club)는 [잉글랜드](../Page/잉글랜드.md "wikilink") [런던](../Page/런던.md "wikilink")을 연고로 하는 축구 클럽이다. 1885년 창단되었으며 현재 [EFL 챔피언십에](../Page/EFL_챔피언십.md "wikilink") 참가중이다.

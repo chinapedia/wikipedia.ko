@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [UA \(\)](https://ko.wikipedia.org/wiki/UA_\(\)).
+> This article is converted from Wikipedia: [UA \(가수\)](https://ko.wikipedia.org/wiki/UA_\(가수\)).
 
 
 **UA** (우아, [1972년](../Page/1972년.md "wikilink") [3월 11일](../Page/3월_11일.md "wikilink") \~)는 [일본](../Page/일본.md "wikilink")의 [가수](https://ko.wikipedia.org/wiki/가수 "wikilink")이다. 1995년, [스피드스타 레코드를](https://ko.wikipedia.org/wiki/스피드스타_레코드 "wikilink") 통해 발매한 싱글 〈Horizon〉으로 데뷔했다.

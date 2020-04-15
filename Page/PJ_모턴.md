@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [PJ ](https://ko.wikipedia.org/wiki/PJ_).
+> This article is converted from Wikipedia: [PJ 모턴](https://ko.wikipedia.org/wiki/PJ_모턴).
 
 
 **PJ 모턴**(PJ Morton, 피제이 모턴, 1981년 3월 29일 \~ )은 [미국](../Page/미국.md "wikilink") [루이지애나주](../Page/루이지애나주.md "wikilink") [뉴올리언스](../Page/뉴올리언스.md "wikilink") 출신의 가수이자 프로듀서, 키보디스트이다.

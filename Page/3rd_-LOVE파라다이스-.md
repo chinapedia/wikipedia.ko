@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [3rd -LOVE-](https://ko.wikipedia.org/wiki/3rd_-LOVE-).
+> This article is converted from Wikipedia: [3rd -LOVE파라다이스-](https://ko.wikipedia.org/wiki/3rd_-LOVE파라다이스-).
 
 
-**3rd -LOVE파라다이스-** (, Third Love Paradise)는 [2000년](../Page/2000년.md "wikilink") [3월 29일에](../Page/3월_29일.md "wikilink") 발매 된 [모닝구무스메](../Page/모닝구무스메.md "wikilink")의 세 번째 정규 앨범이다.
+**3rd -LOVE파라다이스-**(, Third Love Paradise)는 [2000년](../Page/2000년.md "wikilink") [3월 29일에](../Page/3월_29일.md "wikilink") 발매 된 [모닝구무스메](../Page/모닝구무스메.md "wikilink")의 세 번째 정규 앨범이다.
 
 ## 개요
 

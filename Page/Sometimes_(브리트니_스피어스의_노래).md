@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Sometimes \(  \)](https://ko.wikipedia.org/wiki/Sometimes_\(__\)).
+> This article is converted from Wikipedia: [Sometimes \(브리트니 스피어스의 노래\)](https://ko.wikipedia.org/wiki/Sometimes_\(브리트니_스피어스의_노래\)).
 
 
 "**Sometimes**"는 미국의 팝 가수 [브리트니 스피어스의](../Page/브리트니_스피어스.md "wikilink") 노래이자 첫 정규 음반인 *[...Baby One More Time](../Page/...Baby_One_More_Time.md "wikilink")*의 두 번째 싱글이다. 이 싱글은 1999년 4월 30일 발매되었다.

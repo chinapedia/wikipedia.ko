@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [C C++ ](https://ko.wikipedia.org/wiki/C_C++_).
+> This article is converted from Wikipedia: [C와 C++의 연산자](https://ko.wikipedia.org/wiki/C와_C++의_연산자).
 
 
 이것은 [C와](../Page/C_\(프로그래밍_언어\).md "wikilink") [C++](https://ko.wikipedia.org/wiki/C++ "wikilink") [프로그래밍 언어의](../Page/프로그래밍_언어.md "wikilink") [연산자의](https://ko.wikipedia.org/wiki/연산자_\(프로그래밍\) "wikilink") 목록이다. 나열된 모든 연산자는 C++에 존재한다. 네번째 열("C에 포함됨")은 해당 연산자가 C에 존재하는지를 표시한다. C는 연산자 오버로딩을 지원하지 않는다.

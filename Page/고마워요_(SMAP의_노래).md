@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ \(SMAP \)](https://ko.wikipedia.org/wiki/_\(SMAP_\)).
+> This article is converted from Wikipedia: [고마워요 \(SMAP의 노래\)](https://ko.wikipedia.org/wiki/고마워요_\(SMAP의_노래\)).
 
 
 **고마워요**()는 [SMAP](../Page/SMAP.md "wikilink")의 40번째 싱글이다. [2006년](../Page/2006년.md "wikilink") [10월 11일에](../Page/10월_11일.md "wikilink") [빅터 엔터테인먼트에서](https://ko.wikipedia.org/wiki/빅터_엔터테인먼트 "wikilink") 발매되었다.
@@ -17,7 +17,7 @@
 
 ## 수록곡
 
-1.  **고마워요** ()
+1.  **고마워요**()
       - 작사·작곡 : MORISHINS' / 편곡 : REO
 2.  **show your smile**
       - 작사 : 타이치 / 작곡 : 타이치, 미야자키 마코토 / 편곡 : 모리 다이스케

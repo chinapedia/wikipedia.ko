@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:PASO](https://ko.wikipedia.org/wiki/:PASO).
+> This article is converted from Wikipedia: [틀:PASO](https://ko.wikipedia.org/wiki/틀:PASO).
 
 
 <onlyinclude>{{둘러보기 상자 |이름 = PASO |제목 = \[\[범아메리카_스포츠_기구|</onlyinclude>

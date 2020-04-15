@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  SAI](https://ko.wikipedia.org/wiki/__SAI).
+> This article is converted from Wikipedia: [페인트 툴 SAI](https://ko.wikipedia.org/wiki/페인트_툴_SAI).
 
 
 **SAI**(사이) 또는 **이지 페인트 툴 SAI**(, )는 SYSTEMAX 소프트웨어가 개발하고 출시한 [마이크로소프트 윈도용](https://ko.wikipedia.org/wiki/마이크로소프트_윈도 "wikilink") 가벼운 [래스터 그래픽스 편집기이자](https://ko.wikipedia.org/wiki/래스터_그래픽스_편집기 "wikilink") [도색](../Page/회화.md "wikilink") 소프트웨어이다. 소프트웨어 개발은 2004년 8월 2일 시작하여, 첫 알파 버전이 2006년 10월 13일에 출시되었다. SAI의 공식 버전 (1.0.0)은 2008년 2월 25일에 출시되었으며 얼마 지나지 않아 업데이트 프리뷰가 출시되었다. 2008년에 1.1.0 버전이 출시되고 한동안 업데이트가 없다가 2011년에 1.2.0 알파 버전이 출시되었다. 2012년부터 2013년까지 베타 버전이 출시되었으며 2014년 1.2.0 공식 버전이 출시되었다.

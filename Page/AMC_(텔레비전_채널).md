@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [AMC \( \)](https://ko.wikipedia.org/wiki/AMC_\(_\)).
+> This article is converted from Wikipedia: [AMC \(텔레비전 채널\)](https://ko.wikipedia.org/wiki/AMC_\(텔레비전_채널\)).
 
 
 **AMC**는 미국의 케이블 텔레비전 채널로, 영화 관련 채널이다.

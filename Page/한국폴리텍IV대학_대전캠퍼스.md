@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [IV ](https://ko.wikipedia.org/wiki/IV_).
+> This article is converted from Wikipedia: [한국폴리텍IV대학 대전캠퍼스](https://ko.wikipedia.org/wiki/한국폴리텍IV대학_대전캠퍼스).
 
 
 **한국폴리텍IV대학 대전캠퍼스**(韓國폴리텍四大學 大田캠퍼스,)는 [한국폴리텍IV대학](https://ko.wikipedia.org/wiki/한국폴리텍IV대학 "wikilink")의 본부대학이며, 1994년 2월 전신인 대전기능대학으로 설립 이후, [2011년](../Page/2011년.md "wikilink"), 취업률이 98%로 충청권에 있는 대학 중에서 1위이며, 아산캠퍼스, 청주캠퍼스, 홍성캠퍼스, 바이오대학과 같이 취업률이 상위권에 있는 대학이다. 슬로건은 '평생기술로 평생직업을'이고, 한국폴리텍대학 최초로 F·L System을 개발하고 최초로 사용한 지역이다.

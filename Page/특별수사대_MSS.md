@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ MSS](https://ko.wikipedia.org/wiki/_MSS).
+> This article is converted from Wikipedia: [특별수사대 MSS](https://ko.wikipedia.org/wiki/특별수사대_MSS).
 
 
 《**특별수사대 MSS**》는 [2011년](../Page/2011년.md "wikilink") [1월 2일부터](../Page/1월_2일.md "wikilink") 2011년 [1월 23일까지](../Page/1월_23일.md "wikilink") 방영된 [KBS 드라마 스페셜 연작 시리즈의](../Page/KBS_드라마_스페셜_연작_시리즈.md "wikilink") 두 번째 [작품이다](../Page/텔레비전_드라마.md "wikilink").

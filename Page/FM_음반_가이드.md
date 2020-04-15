@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FM  ](https://ko.wikipedia.org/wiki/FM__).
+> This article is converted from Wikipedia: [FM 음반 가이드](https://ko.wikipedia.org/wiki/FM_음반_가이드).
 
 
 《**FM 음반 가이드**》는 [KBS Classic FM에서](https://ko.wikipedia.org/wiki/KBS_Classic_FM "wikilink") 방송 중인, 연주자와 음반을 해설하고 음악을 심도 있게 감상하기 위한 프로그램이다. 주말에만 방송한다.

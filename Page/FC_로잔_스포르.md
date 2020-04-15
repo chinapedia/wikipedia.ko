@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FC  ](https://ko.wikipedia.org/wiki/FC__).
+> This article is converted from Wikipedia: [FC 로잔 스포르](https://ko.wikipedia.org/wiki/FC_로잔_스포르).
 
 
 **FC 로잔 스포르**(FC Lausanne-Sport)는 [스위스](https://ko.wikipedia.org/wiki/스위스 "wikilink") [로잔](../Page/로잔.md "wikilink")의 축구 클럽 팀으로, 현재 스위스의 1부 리그인 [스위스 슈퍼리그에서](../Page/스위스_슈퍼리그.md "wikilink") 활동하고 있다.

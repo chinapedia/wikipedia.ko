@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ W.K.](https://ko.wikipedia.org/wiki/_W.K.).
+> This article is converted from Wikipedia: [앤드루 W.K.](https://ko.wikipedia.org/wiki/앤드루_W.K.).
 
 
 **앤드루 W.K.**(Andrew Wilkes Krier, [1979년](../Page/1979년.md "wikilink") [5월 9일](../Page/5월_9일.md "wikilink") \~ )는 미국 캘리포니아 스탠포드에서 태어났다. 4살때 부터 피아노를 익히기 시작해다고 하며, 10대 시절에는 디트로이트의 록 씬에 직접 뛰어들어 여러 펑크 및 헤비메탈 스타일 밴드들에서 일단 드러머로 활동했다고 전해진다.

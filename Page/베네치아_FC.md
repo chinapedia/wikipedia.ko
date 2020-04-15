@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
+> This article is converted from Wikipedia: [베네치아 FC](https://ko.wikipedia.org/wiki/베네치아_FC).
 
 
 **베네치아 FC**()는 [1907년](../Page/1907년.md "wikilink") [12월 14일에](../Page/12월_14일.md "wikilink") 창단된 [이탈리아](../Page/이탈리아.md "wikilink")의 축구 클럽으로 [베네치아](../Page/베네치아.md "wikilink")를 연고지로 한다. 현재는 [세리에 B에](../Page/세리에_B.md "wikilink") 참가하고 있으며, 2002년 [세리에 A로](../Page/세리에_A.md "wikilink") 승격된 경력이 있다.

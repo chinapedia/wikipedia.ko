@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FK  ](https://ko.wikipedia.org/wiki/FK__).
+> This article is converted from Wikipedia: [FK 잘기리스 빌뉴스](https://ko.wikipedia.org/wiki/FK_잘기리스_빌뉴스).
 
 
 **FK 잘기리스 빌뉴스**(Vilniaus futbolo klubas Žalgiris)는 [빌뉴스](../Page/빌뉴스.md "wikilink")를 연고로 하는 [리투아니아](../Page/리투아니아.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다. 현재는 [A 리가에](../Page/A_리가.md "wikilink") 참가하고 있다.
@@ -10,7 +10,7 @@
   - **[리투아니아 컵](https://ko.wikipedia.org/wiki/리투아니아_컵 "wikilink")**
       - 우승 5회 (1991, 1993, 1994, 1997, 2003)
   - **[리투아니아 슈퍼컵](https://ko.wikipedia.org/wiki/리투아니아_슈퍼컵 "wikilink")**
-      - 우승 6회 (2003, 2013, 2014, 2015, 2016, 2017)
+      - 우승 7회 (2003, 2013, 2014, 2015, 2016, 2017, 2020)
 
 ## 유명 선수
 

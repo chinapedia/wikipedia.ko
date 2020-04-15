@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  PNF](https://ko.wikipedia.org/wiki/__PNF).
+> This article is converted from Wikipedia: [스타디오 나치오날레 PNF](https://ko.wikipedia.org/wiki/스타디오_나치오날레_PNF).
 
 
 **스타디오 나치오날레 PNF**(, [국가 파시스트당](../Page/국가_파시스트당.md "wikilink") 국립경기장)는 [이탈리아](../Page/이탈리아.md "wikilink") [로마](../Page/로마.md "wikilink")에 있던 다목적 경기장이다. [1927년](../Page/1927년.md "wikilink")에 개장했으며 50,000명을 수용할 수 있었다. 과거 [SS 라치오와](../Page/SS_라치오.md "wikilink") [AS 로마의](../Page/AS_로마.md "wikilink") 홈 구장으로 사용되었으며 [1953년](../Page/1953년.md "wikilink")에 철거되었다. [1934년 FIFA 월드컵](https://ko.wikipedia.org/wiki/1934년_FIFA_월드컵 "wikilink") 결승전 경기가 열린 경기장이다.

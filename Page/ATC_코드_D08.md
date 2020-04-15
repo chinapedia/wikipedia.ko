@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ATC  D08](https://ko.wikipedia.org/wiki/ATC__D08).
+> This article is converted from Wikipedia: [ATC 코드 D08](https://ko.wikipedia.org/wiki/ATC_코드_D08).
 
 
 **ATC 코드 D08**은 [ATC 코드의](https://ko.wikipedia.org/wiki/ATC_코드 "wikilink") 부패방지약 및 소독약으로 사용하는 약물을 정리한 코드이다. \[1\] **ATC 코드** D 피부과의 하위그룹을 이룬다.

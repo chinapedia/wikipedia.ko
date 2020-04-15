@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [IWGP   ](https://ko.wikipedia.org/wiki/IWGP___).
+> This article is converted from Wikipedia: [IWGP 월드 헤비웨이트 챔피언십](https://ko.wikipedia.org/wiki/IWGP_월드_헤비웨이트_챔피언십).
 
 
 **IWGP 월드 헤비웨이트 챔피언십**(IWGP World Heavyweight championship)은 [신일본 프로레슬링의](../Page/신일본_프로레슬링.md "wikilink") 챔피언십중 하나다. 신일본 프로레슬링에서는 월드 챔피언십을 나타낸다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [The Boys \( \)](https://ko.wikipedia.org/wiki/The_Boys_\(_\)).
+> This article is converted from Wikipedia: [The Boys \(소녀시대의 노래\)](https://ko.wikipedia.org/wiki/The_Boys_\(소녀시대의_노래\)).
 
 
 "**The Boys**"는 대한민국의 [걸 그룹](../Page/걸_그룹.md "wikilink") 소녀시대의 세 번째 정규 앨범 *[The Boys](../Page/The_Boys_\(소녀시대의_음반\).md "wikilink")*의 타이틀곡이다. 한국에서는 2011년 10월 19일 공개되었지만, 나중에 맥시 싱글로 다른 나라에서도 2011년 12월 21일 발매되었다. 맥시 싱글에는 여러 리믹스 곡들이 수록되었다.

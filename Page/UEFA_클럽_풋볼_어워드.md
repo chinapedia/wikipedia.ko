@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [UEFA   ](https://ko.wikipedia.org/wiki/UEFA___).
+> This article is converted from Wikipedia: [UEFA 클럽 풋볼 어워드](https://ko.wikipedia.org/wiki/UEFA_클럽_풋볼_어워드).
 
 
 **UEFA 클럽 풋볼 어워드**(UEFA Club Football Awards)는 [유럽 축구 연맹](../Page/유럽_축구_연맹.md "wikilink")(UEFA)이 수여하는 축구상 가운데 하나이다. 1998년부터 매년 유럽 클럽에서 뛰고 있는 선수 가운데 최고의 활약을 보여준 선수에게 수여하고 있다. 매년 8월에 시상식이 개최된다.

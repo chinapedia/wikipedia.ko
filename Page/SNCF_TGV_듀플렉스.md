@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SNCF TGV ](https://ko.wikipedia.org/wiki/SNCF_TGV_).
+> This article is converted from Wikipedia: [SNCF TGV 듀플렉스](https://ko.wikipedia.org/wiki/SNCF_TGV_듀플렉스).
 
 
 **SNCF TGV 듀플렉스**()는 프랑스의 국철인 [SNCF](https://ko.wikipedia.org/wiki/SNCF "wikilink")와 [OUIGO](../Page/OUIGO.md "wikilink")에서 운영하는 [TGV](../Page/TGV.md "wikilink") 계열의 [프랑스](../Page/프랑스.md "wikilink") [고속철도](../Page/고속철도.md "wikilink")이다. TGV계열 열차들 중에서는 독특한 2층 열차구조로 되어 있다. TGV 듀플렉스는 3세대 TGV 열차 시대의 시작을 알리는 열차이자, 포화된 고속선에서의 수용 능력을 향상시키기 위해 특별 설계된 열차이다. 듀플렉스는 정원 545명인 2층 열차구조를 채용하여 열차 하나가 수송할 수 있는 승객의 수를 최대화했다. 비록 TGV 듀플렉스는 TGV 열차들의 한 부분으로 시작했지만, 시간이 지나면서 TGV 체계에서 큰 축을 담당하는 열차가 되었다. 현재 운행 구간은 [LGV 에스트선을](https://ko.wikipedia.org/wiki/LGV_에스트 "wikilink") 제외한 전 [TGV](../Page/TGV.md "wikilink") 노선이다.

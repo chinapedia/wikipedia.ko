@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:BS-](https://ko.wikipedia.org/wiki/:BS-).
+> This article is converted from Wikipedia: [틀:BS-지도](https://ko.wikipedia.org/wiki/틀:BS-지도).
 
 
 <onlyinclude>{| class="infobox {{\#switch: |0 |no = |1 |yes |\#default = mw-collapsible {{\#switch: |0 |no |\#default = no |1 |yes |collapsed = mw-collapsed autocollapse }} }}" style="width: ; padding:0; " cellpadding=0 cellspacing=0 |- {{\#if:| \! style="padding:.2em; text-align:center; vertical-align:center; {{\#if:|color:;|color:black;}} background-color: " {{\!}}{{\#if:|}}}} {{\#if:|<span style="font-size:110%; padding:0 5px;"></span>}} }} |- {{\#if: | {{\!}}style="padding:0 .5em"{{\!}} }} |- {{\#switch:  | 0 | no = | track = {{\!}}

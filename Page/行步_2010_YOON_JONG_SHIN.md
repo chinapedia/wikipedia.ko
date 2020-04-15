@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ 2010 YOON JONG SHIN](https://ko.wikipedia.org/wiki/_2010_YOON_JONG_SHIN).
+> This article is converted from Wikipedia: [行步 2010 YOON JONG SHIN](https://ko.wikipedia.org/wiki/行步_2010_YOON_JONG_SHIN).
 
 
 《**行步 2010 YOON JONG SHIN**》(행보 2010 윤종신)은 가수 [윤종신](../Page/윤종신.md "wikilink")의 정규 12집 음반이다. 정규 11집 음반 《[동네 한 바퀴](../Page/동네_한_바퀴_\(윤종신의_음반\).md "wikilink")》 이후에 약 1년 11개월만의 발매된 음반이다. 정규 음반 발매일은 [2010년](../Page/2010년.md "wikilink") [10월 28일이다](../Page/10월_28일.md "wikilink"). 이번 음반은 금년 《[월간 윤종신](../Page/월간_윤종신.md "wikilink")》 프로젝트에 수록되었던 음반들을 합쳐서 정규 음반으로 발매되었다. 동시에 월간 윤종신의 11월과 12월에 수록될 곡과 1월에 [Mnet](https://ko.wikipedia.org/wiki/Mnet "wikilink")에서 방송된 《[Director's Cut](https://ko.wikipedia.org/wiki/Director's_Cut "wikilink") 시즌 1》에서 나온 싱글들도 포함이 되어 동시에 발매가 되었다. 이번 음반의 타이틀 곡은 〈이별의 온도〉이다.

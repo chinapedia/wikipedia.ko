@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FC ](https://ko.wikipedia.org/wiki/FC_).
+> This article is converted from Wikipedia: [FC 크라스노다르](https://ko.wikipedia.org/wiki/FC_크라스노다르).
 
 
 **FC 크라스노다르**(, )는 [2008년](../Page/2008년.md "wikilink")에 창단된 [러시아](../Page/러시아.md "wikilink") [크라스노다르](../Page/크라스노다르.md "wikilink")의 [축구](../Page/축구.md "wikilink") 팀이다. 2008년 [러시아 2부 리그](https://ko.wikipedia.org/wiki/러시아_2부_리그 "wikilink") 시즌에서 3위를 차지하면서 [러시아 1부 리그로](https://ko.wikipedia.org/wiki/러시아_1부_리그 "wikilink") 승격되었으며 [2010년](../Page/2010년.md "wikilink") 러시아 1부 리그 시즌에서 5위를 차지하면서 [러시아 프리미어리그로](../Page/러시아_프리미어리그.md "wikilink") 승격되었다.

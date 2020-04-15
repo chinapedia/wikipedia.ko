@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [BBC ](https://ko.wikipedia.org/wiki/BBC_).
+> This article is converted from Wikipedia: [BBC 온라인](https://ko.wikipedia.org/wiki/BBC_온라인).
 
 
 **BBC 온라인**(BBC Online, 과거 이름: BBCi)은 [BBC의](../Page/영국방송공사.md "wikilink") UK 온라인 서비스이다. [BBC 뉴스](../Page/BBC_뉴스.md "wikilink"), [스포츠](../Page/BBC_스포츠.md "wikilink"), 주문형 비디오, 라디오 서비스([BBC iPlayer](https://ko.wikipedia.org/wiki/BBC_iPlayer "wikilink")), 어린이 사이트 [CBBC](https://ko.wikipedia.org/wiki/CBBC "wikilink")와 [Cbeebies](https://ko.wikipedia.org/wiki/Cbeebies "wikilink"), 또 [Bitesize](https://ko.wikipedia.org/wiki/Bitesize "wikilink") 등의 러닝 서비스를 포함하는 대형 네트워크의 웹사이트이다. BBC는 1994년 5월 11이리 이후 TV, 라디오 프로그램 및 웹 전용 이니셔티브를 지원하는 온라인 상의 존재감이 있었으나 1997년 4월 28일이 되어서야 공식 런칭되었다.

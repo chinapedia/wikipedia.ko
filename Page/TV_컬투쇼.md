@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TV ](https://ko.wikipedia.org/wiki/TV_).
+> This article is converted from Wikipedia: [TV 컬투쇼](https://ko.wikipedia.org/wiki/TV_컬투쇼).
 
 
 **《TV 컬투쇼》**는 [2009년](../Page/2009년.md "wikilink") [11월 9일부터](../Page/11월_9일.md "wikilink") [2012년](../Page/2012년.md "wikilink") [12월 31일까지](../Page/12월_31일.md "wikilink") [SBS E\!에서](https://ko.wikipedia.org/wiki/SBS_E! "wikilink") 방영된 《[두시 탈출 컬투 쇼](https://ko.wikipedia.org/wiki/두시_탈출_컬투_쇼 "wikilink")》의 라디오 실황 TV판 프로그램이다.

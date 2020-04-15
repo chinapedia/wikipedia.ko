@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SZ \( \)](https://ko.wikipedia.org/wiki/SZ_\(_\)).
+> This article is converted from Wikipedia: [SZ \(음악 그룹\)](https://ko.wikipedia.org/wiki/SZ_\(음악_그룹\)).
 
 
 **SZ**는 [2000년](../Page/2000년.md "wikilink")에 활동한 [대한민국](../Page/대한민국.md "wikilink") 여성 3인조 음악그룹이다. 그룹명 SZ는 "Street"와 "Magazine"의 합성어인 "Streetzine"의 약자로서 대중들이 좋아하는 거리의 유행하는 모든 것들을 음악으로 표현하겠다는 뜻을 담고 있다.

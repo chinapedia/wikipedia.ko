@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [C   ](https://ko.wikipedia.org/wiki/C___).
+> This article is converted from Wikipedia: [C 언어 정수형 변수](https://ko.wikipedia.org/wiki/C_언어_정수형_변수).
 
 
 [C/C++에서](https://ko.wikipedia.org/wiki/C와_C++에서의_연산자 "wikilink") **정수형 변수**는 [정수](../Page/정수.md "wikilink")를 처리하기 위한 변수이다. 정수형 변수를 [마이크로프로세서](../Page/마이크로프로세서.md "wikilink")가 처리할 때, 부호와 숫자범위를 결정해야 한다. C/C++로 작성 된 코드는 결국 해당 마이크로프로세서의 기계어 코드로 변환하는데, 마이크로프로세서의 숫자체계(ALU 등 이용)를 사용하기 때문이다.

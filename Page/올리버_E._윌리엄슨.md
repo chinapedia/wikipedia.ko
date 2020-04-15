@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ E. ](https://ko.wikipedia.org/wiki/_E._).
+> This article is converted from Wikipedia: [올리버 E. 윌리엄슨](https://ko.wikipedia.org/wiki/올리버_E._윌리엄슨).
 
 
 **올리버 윌리엄슨**(Oliver E. Williamson, [1932년](../Page/1932년.md "wikilink") [9월 27일](../Page/9월_27일.md "wikilink") \~ )은 미국의 경제학자로, 현재 [버클리대학교](https://ko.wikipedia.org/wiki/버클리대학교 "wikilink") 교수로 재직 중이다. 2009년 [엘리노어 오스트롬과](https://ko.wikipedia.org/wiki/엘리노어_오스트롬 "wikilink") 함께 [노벨 경제학상을](../Page/노벨_경제학상.md "wikilink") 수상했다.

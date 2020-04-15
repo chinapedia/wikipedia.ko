@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [AFC ](https://ko.wikipedia.org/wiki/AFC_).
+> This article is converted from Wikipedia: [AFC 본머스](https://ko.wikipedia.org/wiki/AFC_본머스).
 
 
 **AFC 본머스**(A.F.C. Bournemouth)는 [잉글랜드](../Page/잉글랜드.md "wikilink") [도싯주](../Page/도싯주.md "wikilink") [본머스](../Page/본머스.md "wikilink")를 본거지로 하는 프로 축구 클럽이다. 잉글랜드 축구 리그 톱티어인 [프리미어리그](https://ko.wikipedia.org/wiki/프리미어리그 "wikilink")에 소속되어있다. 홈구장은 [바이탈리티 스타디움](https://ko.wikipedia.org/wiki/바이탈리티_스타디움 "wikilink"), [딘 코트이며](../Page/딘_코트.md "wikilink") 1890년 보스컴 세인트 존스 FC로 창단 되었다가 1972년에 현재 AFC 본머스로 팀의 이름으로 변경되었다. 팀의 별명은 The Cherries(체리)이며, 팀의 홈 유니폼 컬러는 레드와 블랙 줄무늬 셔츠와 블랙 반바지와 양말이다.

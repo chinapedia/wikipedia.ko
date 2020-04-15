@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [LATAM ](https://ko.wikipedia.org/wiki/LATAM_).
+> This article is converted from Wikipedia: [LATAM 콜롬비아](https://ko.wikipedia.org/wiki/LATAM_콜롬비아).
 
 
 **LATAM 콜롬비아**()는 [콜롬비아](../Page/콜롬비아.md "wikilink")의 항공사로 총 31개 노선을 취항하고 있다. 본사는 [콜롬비아](../Page/콜롬비아.md "wikilink") [보고타](../Page/보고타.md "wikilink") 위치해 있으며 [1981년](../Page/1981년.md "wikilink")에 **아이레스 항공**()으로 설립했다. 또한 사용하고 있는 [허브 공항으로](../Page/허브_공항.md "wikilink") [엘도라도 국제공항](https://ko.wikipedia.org/wiki/엘도라도_국제공항 "wikilink"), [올리비아 하리야 공항이](https://ko.wikipedia.org/wiki/올리비아_하리야_공항 "wikilink") 있다.\[1\] [2010년](../Page/2010년.md "wikilink") [10월](../Page/10월.md "wikilink") [칠레](../Page/칠레.md "wikilink")의 최대 항공사인 [란 항공이](https://ko.wikipedia.org/wiki/란_항공 "wikilink") 지분을 인수해 현재의 사명으로 변경했다. [2013년](../Page/2013년.md "wikilink")에 [항공 동맹인](https://ko.wikipedia.org/wiki/항공_동맹 "wikilink") [원월드](../Page/원월드.md "wikilink")에 가입했다.\[2\]

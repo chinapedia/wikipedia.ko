@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [    A](https://ko.wikipedia.org/wiki/____A).
+> This article is converted from Wikipedia: [한중일 통합 한자 확장 A](https://ko.wikipedia.org/wiki/한중일_통합_한자_확장_A).
 
 
 **한중일 통합 한자 확장 A**는 사용 빈도가 비교적 낮은 한자들을 모아 놓은 [유니코드 블록이다](https://ko.wikipedia.org/wiki/유니코드_블록 "wikilink").

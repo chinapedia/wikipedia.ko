@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ ST](https://ko.wikipedia.org/wiki/_ST).
+> This article is converted from Wikipedia: [아타리 ST](https://ko.wikipedia.org/wiki/아타리_ST).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Atari_1040STf.jpg "wikilink") **아타리 ST**(Atari ST)는 1985년 6월에 [아타리](../Page/아타리.md "wikilink")가 출시한 [가정용 컴퓨터이다](../Page/가정용_컴퓨터.md "wikilink").\[1\] 1985년 5월 즈음에 시제품이 배포되었고\[2\] 1990년대 초 여름부터 상용화되었다. "ST"는 "Sixteen/Thirty-two"\[3\](16/32)를 뜻하는데 이는 [모토로라 68000의](../Page/모토로라_68000.md "wikilink") 16비트 외부 버스와 32비트 내부 버스를 가리킨다. 저만의 [그래픽 사용자 인터페이스로](../Page/그래픽_사용자_인터페이스.md "wikilink") 인해 [잭 트라미엘의](https://ko.wikipedia.org/wiki/잭_트라미엘 "wikilink") 이름을 따서 재킨토시(Jackintosh)로 불리기도 했다.

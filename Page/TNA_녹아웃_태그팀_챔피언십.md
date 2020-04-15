@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TNA   ](https://ko.wikipedia.org/wiki/TNA___).
+> This article is converted from Wikipedia: [TNA 녹아웃 태그팀 챔피언십](https://ko.wikipedia.org/wiki/TNA_녹아웃_태그팀_챔피언십).
 
 
 **TNA 녹아웃 태그팀 챔피언십**(TNA Knockout Tag Team Championship)은 [TNA](https://ko.wikipedia.org/wiki/TNA "wikilink")의 여성 태그팀 챔피언십이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:KBO  ](https://ko.wikipedia.org/wiki/:KBO__).
+> This article is converted from Wikipedia: [틀:KBO 리그 시즌](https://ko.wikipedia.org/wiki/틀:KBO_리그_시즌).
 
 
 <onlyinclude></onlyinclude>

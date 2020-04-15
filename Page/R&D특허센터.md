@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [R\&D](https://ko.wikipedia.org/wiki/R\&D).
+> This article is converted from Wikipedia: [R\&D특허센터](https://ko.wikipedia.org/wiki/R\&D특허센터).
 
 
 **R\&D특허센터**(R\&D Patent Center)는 지식재산권 중심의 기술획득지원 사업, 첨단부품·소재 IP-R\&D 연계전략지원 사업, 국가R\&D 특허기술동향조사사업, 국가R\&D 특허성과관리사업, 특허관리전문가 파견사업 등의 체계적인 수행을 통하여 국가R\&D의 효율성을 높이고, 정부의 IP-R\&D 정책개발을 지원함으로써 국가경쟁력 제고에 기여하기 위하여 설립된 [대한민국 특허청](../Page/대한민국_특허청.md "wikilink") 산하 [한국지식재산연구원](https://ko.wikipedia.org/wiki/한국지식재산연구원 "wikilink") 부설기관이다.\[1\]\[2\]\[3\]\[4\] [서울특별시](../Page/서울특별시.md "wikilink") [강남구](https://ko.wikipedia.org/wiki/강남구 "wikilink") 테헤란로 131 (역삼동 647-9) [한국지식재산센터](https://ko.wikipedia.org/wiki/한국지식재산센터 "wikilink") 8층에 위치하고 있다.

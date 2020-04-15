@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
+> This article is converted from Wikipedia: [사뭇송크람 FC](https://ko.wikipedia.org/wiki/사뭇송크람_FC).
 
 
 **사뭇송크람 FC**(, )는 [2004년](../Page/2004년.md "wikilink")에 창단된 [태국](https://ko.wikipedia.org/wiki/타이 "wikilink") [사뭇송크람 주의](https://ko.wikipedia.org/wiki/사뭇송크람_주 "wikilink") 축구 클럽으로, 현재 [태국 프리미어리그에서](https://ko.wikipedia.org/wiki/타이_프리미어리그 "wikilink") 활동하고 있다.

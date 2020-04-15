@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [RoH   ](https://ko.wikipedia.org/wiki/RoH___).
+> This article is converted from Wikipedia: [RoH 월드 태그팀 챔피언십](https://ko.wikipedia.org/wiki/RoH_월드_태그팀_챔피언십).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:ROH_World_Tag_Team_Championship.jpg "wikilink")

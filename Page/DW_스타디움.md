@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [DW ](https://ko.wikipedia.org/wiki/DW_).
+> This article is converted from Wikipedia: [DW 스타디움](https://ko.wikipedia.org/wiki/DW_스타디움).
 
 
 **데이브 웰런 스타디움**(Dave Whelan Stadium), 줄여서 **DW 스타디움**(DW Stadium)은 [잉글랜드](../Page/잉글랜드.md "wikilink")에 있는 다목적 스포츠 경기장이다. 영국의 서북부 [그레이터맨체스터주](../Page/그레이터맨체스터주.md "wikilink")에 있는 도시 위건에 있으며 수용인원은 25,138명이다.

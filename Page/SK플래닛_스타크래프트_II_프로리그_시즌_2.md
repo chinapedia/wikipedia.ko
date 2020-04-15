@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SK  II   2](https://ko.wikipedia.org/wiki/SK__II___2).
+> This article is converted from Wikipedia: [SK플래닛 스타크래프트 II 프로리그 시즌 2](https://ko.wikipedia.org/wiki/SK플래닛_스타크래프트_II_프로리그_시즌_2).
 
 
 **SK플래닛 스타크래프트 II 프로리그 시즌 2**(SK Planet StarCraft II Proleague Season 2)는 [프로리그의](../Page/스타크래프트_프로리그.md "wikilink") 17번째 시즌이고 [KeSPA](https://ko.wikipedia.org/wiki/KeSPA "wikilink") 주관 대한민국 스타크래프트 [프로리그로는](../Page/스타크래프트_프로리그.md "wikilink") 9번째 시즌이자, 마지막 시즌이며 [KeSPA](https://ko.wikipedia.org/wiki/KeSPA "wikilink") 주관 대한민국 스타크래프트 II [프로리그로는](../Page/스타크래프트_프로리그.md "wikilink") 1번째시즌이기도 하며, [SK플래닛](../Page/SK플래닛.md "wikilink")의 스폰서로 진행 되는 두 번째 시즌이다.
@@ -82,7 +82,7 @@
 | 4  | [SK텔레콤 T1](https://ko.wikipedia.org/wiki/SK텔레콤_T1 "wikilink") | 21  | 12 | 9  | 57.1% | \-1  | 54  | 55  | 0  |                             |
 | 5  | [웅진 스타즈](../Page/웅진_스타즈.md "wikilink")                        | 21  | 11 | 10 | 52.4% | 19   | 66  | 47  | 0  |                             |
 | 6  | [STX SouL](https://ko.wikipedia.org/wiki/STX_SouL "wikilink") | 21  | 11 | 10 | 52.4% | 0    | 60  | 60  | 0  |                             |
-| 7  | [KT 롤스터](https://ko.wikipedia.org/wiki/KT_롤스터 "wikilink")     | 21  | 9  | 12 | 42.9% | \-5  | 57  | 62  | 0  |                             |
+| 7  | [KT 롤스터](../Page/KT_롤스터.md "wikilink")                        | 21  | 9  | 12 | 42.9% | \-5  | 57  | 62  | 0  |                             |
 | 8  | [공군 ACE](../Page/공군_ACE.md "wikilink")                        | 21  | 5  | 16 | 25.0% | \-32 | 36  | 68  | 0  |                             |
 |    |                                                               |     |    |    |       |      |     |     |    |                             |
 
@@ -105,7 +105,7 @@
 | 2  | [삼성전자 칸](https://ko.wikipedia.org/wiki/삼성전자_칸 "wikilink")     | 7   | 5 | 2 | \+2  | 71.4% | 22  | 22  | 2| |
 | 3  | [CJ 엔투스](https://ko.wikipedia.org/wiki/CJ_엔투스 "wikilink")     | 7   | 4 | 3 | \+4  | 57.1% | 21  | 17  | 0| |
 | 4  | [STX SouL](https://ko.wikipedia.org/wiki/STX_SouL "wikilink") | 7   | 4 | 3 | \+1  | 57.1% | 21  | 20  | 0| |
-| 5  | [KT 롤스터](https://ko.wikipedia.org/wiki/KT_롤스터 "wikilink")     | 7   | 3 | 4 | 0    | 42.9% | 20  | 20  | 0| |
+| 5  | [KT 롤스터](../Page/KT_롤스터.md "wikilink")                        | 7   | 3 | 4 | 0    | 42.9% | 20  | 20  | 0| |
 | 6  | [SK텔레콤 T1](https://ko.wikipedia.org/wiki/SK텔레콤_T1 "wikilink") | 7   | 3 | 4 | \-3  | 42.9% | 18  | 21  | 0| |
 | 7  | [제8프로게임단](https://ko.wikipedia.org/wiki/제8프로게임단 "wikilink")   | 7   | 2 | 5 | \-8  | 28.6% | 14  | 22  | 0| |
 | 8  | [공군 ACE](../Page/공군_ACE.md "wikilink")                        | 7   | 1 | 6 | \-13 | 16.7% | 11  | 24  | 0| |
@@ -120,7 +120,7 @@
 | 3  | [CJ 엔투스](https://ko.wikipedia.org/wiki/CJ_엔투스 "wikilink")     | 7   | 4 | 3 | \-1 | 57.1% | 19  | 20  | 0| |
 | 4  | [삼성전자 칸](https://ko.wikipedia.org/wiki/삼성전자_칸 "wikilink")     | 7   | 3 | 4 | \+3 | 42.9% | 21  | 18  | 0| |
 | 5  | [STX 소울](https://ko.wikipedia.org/wiki/STX_소울 "wikilink")     | 7   | 3 | 4 | \-1 | 42.9% | 20  | 21  | 0| |
-| 6  | [KT 롤스터](https://ko.wikipedia.org/wiki/KT_롤스터 "wikilink")     | 7   | 3 | 4 | \-3 | 42.9% | 16  | 22  | 0| |
+| 6  | [KT 롤스터](../Page/KT_롤스터.md "wikilink")                        | 7   | 3 | 4 | \-3 | 42.9% | 16  | 22  | 0| |
 | 7  | [공군 ACE](../Page/공군_ACE.md "wikilink")                        | 7   | 3 | 4 | \-6 | 42.9% | 16  | 22  | 0| |
 | 8  | [SK텔레콤 T1](https://ko.wikipedia.org/wiki/SK텔레콤_T1 "wikilink") | 7   | 2 | 5 | \-6 | 28.6% | 15  | 21  | 0| |
 |    |                                                               |     |   |   |     |       |     |     |    |

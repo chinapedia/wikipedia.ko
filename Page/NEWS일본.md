@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [NEWS](https://ko.wikipedia.org/wiki/NEWS).
+> This article is converted from Wikipedia: [NEWS일본](https://ko.wikipedia.org/wiki/NEWS일본).
 
 
 〈**NEWS일본**〉()은, [NEWS](https://ko.wikipedia.org/wiki/NEWS "wikilink")의 [데뷔](https://ko.wikipedia.org/wiki/데뷔 "wikilink") [싱글이다](../Page/싱글_\(음악\).md "wikilink").

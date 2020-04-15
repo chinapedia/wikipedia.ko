@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ATC  N06](https://ko.wikipedia.org/wiki/ATC__N06).
+> This article is converted from Wikipedia: [ATC 코드 N06](https://ko.wikipedia.org/wiki/ATC_코드_N06).
 
 
 **ATC 코드 N06**은 [ATC 코드의](https://ko.wikipedia.org/wiki/ATC_코드 "wikilink") 정신흥분제로 작용하는 약물을 정리한 코드이다. \[1\] **ATC 코드** N 신경계의 하위그룹을 이룬다.

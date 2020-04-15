@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:NHK ](https://ko.wikipedia.org/wiki/:NHK_).
+> This article is converted from Wikipedia: [틀:NHK 대하드라마](https://ko.wikipedia.org/wiki/틀:NHK_대하드라마).
 
 
 <noinclude>

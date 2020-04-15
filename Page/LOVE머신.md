@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [LOVE](https://ko.wikipedia.org/wiki/LOVE).
+> This article is converted from Wikipedia: [LOVE머신](https://ko.wikipedia.org/wiki/LOVE머신).
 
 
 **LOVE머신**(, Love Machine)은 [1999년](../Page/1999년.md "wikilink") [9월 9일에](../Page/9월_9일.md "wikilink") 발매 된 [모닝구무스메](../Page/모닝구무스메.md "wikilink")의 일곱 번째 싱글이다.

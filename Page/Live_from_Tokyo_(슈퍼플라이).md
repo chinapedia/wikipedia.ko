@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Live from Tokyo \(\)](https://ko.wikipedia.org/wiki/Live_from_Tokyo_\(\)).
+> This article is converted from Wikipedia: [Live from Tokyo \(슈퍼플라이\)](https://ko.wikipedia.org/wiki/Live_from_Tokyo_\(슈퍼플라이\)).
 
 
 《**Live from Tokyo** (라이브 프롬 도쿄)》는 [슈퍼플라이](https://ko.wikipedia.org/wiki/슈퍼플라이 "wikilink")가 [아이튠즈 스토어에서](https://ko.wikipedia.org/wiki/아이튠즈_스토어 "wikilink") 배신 한정으로 발매한 [라이브](https://ko.wikipedia.org/wiki/라이브 "wikilink") [싱글](https://ko.wikipedia.org/wiki/싱글 "wikilink").\[1\]

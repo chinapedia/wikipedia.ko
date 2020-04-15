@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ SOA ](https://ko.wikipedia.org/wiki/_SOA_).
+> This article is converted from Wikipedia: [오라클 SOA 스위트](https://ko.wikipedia.org/wiki/오라클_SOA_스위트).
 
 
 **오라클 SOA 스위트**(Oracle SOA Suite)는 [오라클 퓨전 미들웨어](../Page/오라클_퓨전_미들웨어.md "wikilink") 소프트웨어 제품군의 일부이다.

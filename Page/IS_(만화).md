@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [IS \(\)](https://ko.wikipedia.org/wiki/IS_\(\)).
+> This article is converted from Wikipedia: [IS \(만화\)](https://ko.wikipedia.org/wiki/IS_\(만화\)).
 
 
 《**IS (아이에스) 남자도 여자도 아닌 성**》 (IS: )은 [로쿠하나 지요의](https://ko.wikipedia.org/wiki/로쿠하나_지요 "wikilink") [일본](../Page/일본.md "wikilink") [만화](../Page/만화.md "wikilink")이다. 2011년엔 [텔레비전 드라마로](../Page/텔레비전_드라마.md "wikilink") 만들어졌다.

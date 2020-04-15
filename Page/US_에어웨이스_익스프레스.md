@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [US  ](https://ko.wikipedia.org/wiki/US__).
+> This article is converted from Wikipedia: [US 에어웨이스 익스프레스](https://ko.wikipedia.org/wiki/US_에어웨이스_익스프레스).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:UsairwaysN419aw_07302009.jpg "wikilink") 항공기 (퇴역)|대체글=\]\] **US 에어웨이즈 익스프레스**()는 [1967년](../Page/1967년.md "wikilink")에 설립된 [US 에어웨이즈의](https://ko.wikipedia.org/wiki/US_에어웨이즈 "wikilink") 자회사이자 지역 항공사의 브랜드로 [US 에어웨이즈의](https://ko.wikipedia.org/wiki/US_에어웨이즈 "wikilink") [허브 공항과](../Page/허브_공항.md "wikilink") 지방 공항을 연결하며 8개의 업체가 참여하고 있으며 [캐나다](../Page/캐나다.md "wikilink")와 [바하마](../Page/바하마.md "wikilink")로 연결하는 국제선도 운항하고 있다.

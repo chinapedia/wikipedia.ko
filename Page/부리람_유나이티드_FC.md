@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  FC](https://ko.wikipedia.org/wiki/__FC).
+> This article is converted from Wikipedia: [부리람 유나이티드 FC](https://ko.wikipedia.org/wiki/부리람_유나이티드_FC).
 
 
 **부리람 유나이티드 FC**(, )는 [1970년](../Page/1970년.md "wikilink")에 창단된 [태국](../Page/태국.md "wikilink") [부리람 주의](https://ko.wikipedia.org/wiki/부리람_주 "wikilink") [축구](../Page/축구.md "wikilink") 클럽으로 현재는 [타이 리그1에](https://ko.wikipedia.org/wiki/타이_리그1 "wikilink") 참가하고 있다. 2012년까지는 **부리람 PEA FC**(, )라는 이름을 사용했다. PEA FC 당시에는 [아유타야](https://ko.wikipedia.org/wiki/아유타야 "wikilink")에 연고지를 두고 있었으며, [2010년](../Page/2010년.md "wikilink")에 현재 [부리람 주로](https://ko.wikipedia.org/wiki/부리람_주 "wikilink") 연고지를 옮겼다.

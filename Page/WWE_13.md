@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [WWE 13](https://ko.wikipedia.org/wiki/WWE_13).
 
 
-《**WWE 13**》()는 [THQ](../Page/THQ.md "wikilink")가 발매할 예정인 [프로 레슬링](https://ko.wikipedia.org/wiki/프로_레슬링 "wikilink") 게임이다. [2012년](../Page/2012년.md "wikilink") [10월 30일에](../Page/10월_30일.md "wikilink") 미국에 먼저 발매될 예정이며 [플레이스테이션 3](../Page/플레이스테이션_3.md "wikilink"), [엑스박스 360](../Page/엑스박스_360.md "wikilink"), [Wii](../Page/Wii.md "wikilink") 용으로 개발되었다. 이 게임에는 전•현직 WWE 슈퍼스타들이 총출동하며, 기존의 WWE 게임과는 달리 빠른 속도의 레슬링 경기를 즐길 수 있다.
+《**WWE 13**》()는 [THQ](../Page/THQ.md "wikilink")가 2012년에 발매했던 [프로 레슬링](https://ko.wikipedia.org/wiki/프로_레슬링 "wikilink") 게임이다. [2012년](../Page/2012년.md "wikilink") [10월 30일에](../Page/10월_30일.md "wikilink") 미국에 먼저 발매됬으며 [플레이스테이션 3](../Page/플레이스테이션_3.md "wikilink"), [엑스박스 360](../Page/엑스박스_360.md "wikilink"), [Wii](../Page/Wii.md "wikilink") 용으로 개발되었다. 이 게임에는 전•현직(2012) WWE 슈퍼스타들이 총출동하며, 기존의 WWE 게임(wwe13 전게임)과는 달리 빠른 속도의 레슬링 경기를 즐길 수 있다.
 
 ## 게임 개발
 

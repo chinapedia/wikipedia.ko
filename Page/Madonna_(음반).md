@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Madonna \(\)](https://ko.wikipedia.org/wiki/Madonna_\(\)).
+> This article is converted from Wikipedia: [Madonna \(음반\)](https://ko.wikipedia.org/wiki/Madonna_\(음반\)).
 
 
 ***Madonna***는 미국의 가수 [마돈나](../Page/마돈나.md "wikilink")의 셀프 타이틀 데뷔 음반으로, [시어 레코드를](https://ko.wikipedia.org/wiki/시어_레코드 "wikilink") 통해 1983년 7월 27일 발매되었다. 음반은 1985년 유럽 시장을 위해 *Madonna – The First Album*이라는 제목의 리패키지 앨범으로 재발매 했다. 1982년 마돈나는 뉴욕 시내에서 자신을 가수로 만드는동안 시어 레코드의 사장 시모어 스타인을 만났고, 마돈나의 노래 "[Everybody](https://ko.wikipedia.org/wiki/Everybody "wikilink")"를 듣고 바로 레이블 계약을 체결했다. 마돈나는 시어와 계약을 체결한 후, 워너 브라더스의 프로듀서인 레지 루카스와 앨범 작업을 시작했다. 그러나, 루카스가 작업이 끝나기 전 작업을 그만둬 추가적인 도움을 요청하기로 결정했다.

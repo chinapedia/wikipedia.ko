@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ LNG ](https://ko.wikipedia.org/wiki/_LNG_).
+> This article is converted from Wikipedia: [송도 LNG 야구장](https://ko.wikipedia.org/wiki/송도_LNG_야구장).
 
 
 **송도 LNG 야구장**(Songdo LNG Baseball Stadium)는 [인천광역시](https://ko.wikipedia.org/wiki/인천광역시 "wikilink") [연수구](../Page/연수구.md "wikilink") [동춘동](../Page/동춘동.md "wikilink") 송도LNG스포츠타운 내에 위치한 야구장이다. [SK 와이번스가](../Page/SK_와이번스.md "wikilink") 기존에 사용하던 [용현동](../Page/용현동_\(인천\).md "wikilink") [SK드림파크](../Page/SK드림파크.md "wikilink")의 철거로 인해 현재 [인천광역시](https://ko.wikipedia.org/wiki/인천광역시 "wikilink") [강화군](../Page/강화군.md "wikilink") [길상면](../Page/길상면.md "wikilink")에 건설 중인 새로운 [SK퓨처스파크](../Page/SK퓨처스파크.md "wikilink")가 완공될 때까지 사용하는 [SK 와이번스의](../Page/SK_와이번스.md "wikilink") 임시 퓨처스팀, 재활군 홈 구장 및 구단 전용 훈련장이었다.

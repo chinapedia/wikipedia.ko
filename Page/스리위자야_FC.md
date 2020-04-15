@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
+> This article is converted from Wikipedia: [스리위자야 FC](https://ko.wikipedia.org/wiki/스리위자야_FC).
 
 
 **스리위쟈야 FC**(Sriwijaya Football Club)는 [인도네시아](../Page/인도네시아.md "wikilink") [팔렘방](../Page/팔렘방.md "wikilink")을 연고로 하는 [축구](../Page/축구.md "wikilink") 클럽이다. 현재는 [리가 슈퍼 인도네시아에](https://ko.wikipedia.org/wiki/리가_슈퍼_인도네시아 "wikilink") 참가하고 있다. 클럽 이름은 [7세기](https://ko.wikipedia.org/wiki/7세기 "wikilink")부터 [13세기](https://ko.wikipedia.org/wiki/13세기 "wikilink")까지 [수마트라 섬에](https://ko.wikipedia.org/wiki/수마트라_섬 "wikilink") 있던 옛 왕국인 [스리비자야](https://ko.wikipedia.org/wiki/스리비자야 "wikilink") 왕국에서 유래된 이름이다.

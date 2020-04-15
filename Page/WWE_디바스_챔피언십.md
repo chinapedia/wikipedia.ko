@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [WWE  ](https://ko.wikipedia.org/wiki/WWE__).
+> This article is converted from Wikipedia: [WWE 디바스 챔피언십](https://ko.wikipedia.org/wiki/WWE_디바스_챔피언십).
 
 
 **WWE 디바스 챔피언십**(WWE Divas championship)은 [WWE](https://ko.wikipedia.org/wiki/WWE "wikilink")에 속했던 챔피언십중 하나이며, 구 [WWE 위민스 챔피언십이](https://ko.wikipedia.org/wiki/WWE_위민스_챔피언십 "wikilink") 폐지된 이후 하나만 남게된 여성 챔피언십이기도 하다. 하지만 새로운 위민스챔피언 나타난이후 폐지하게 된다.

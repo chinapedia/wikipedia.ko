@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [HMS  \(I49\)](https://ko.wikipedia.org/wiki/HMS__\(I49\)).
+> This article is converted from Wikipedia: [HMS 아거스 \(I49\)](https://ko.wikipedia.org/wiki/HMS_아거스_\(I49\)).
 
 
 **HMS 아거스**()는 [영국 해군에서](https://ko.wikipedia.org/wiki/영국_해군 "wikilink") 1918년에서 1944년까지 사용된 [항공모함](../Page/항공모함.md "wikilink")이다. 이 함선은 최초로 현대 항모의 표준을 보여주는 항공모함이다. 그에 걸맞게 평갑판에서 항공기를 이,착륙 시킬 수 있는 특징을 지녔다. 별칭은 "Ditty Box"로 선원들의 도구와 비슷하기 때문이었다.

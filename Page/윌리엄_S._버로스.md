@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ S. ](https://ko.wikipedia.org/wiki/_S._).
+> This article is converted from Wikipedia: [윌리엄 S. 버로스](https://ko.wikipedia.org/wiki/윌리엄_S._버로스).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Tonnis_-_William_S._Burroughs_3.jpg "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:William_S_Burroughs_signature.svg "wikilink") **윌리엄 S. 버로스**(William Seward Burroughs II, 윌리엄 리/William Lee, [1914년](../Page/1914년.md "wikilink") [2월 5일](../Page/2월_5일.md "wikilink") \~ [1997년](../Page/1997년.md "wikilink") [8월 2일](../Page/8월_2일.md "wikilink"))는 [미국](../Page/미국.md "wikilink")의 [소설가](https://ko.wikipedia.org/wiki/소설가 "wikilink")이다. 그는 1997년 8월 2일 [캔자스 주](https://ko.wikipedia.org/wiki/캔자스_주 "wikilink") [로렌스](https://ko.wikipedia.org/wiki/로렌스 "wikilink")에서 [심장마비](https://ko.wikipedia.org/wiki/심장마비 "wikilink")로 사망했다.

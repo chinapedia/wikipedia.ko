@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ MiG-29K](https://ko.wikipedia.org/wiki/_MiG-29K).
+> This article is converted from Wikipedia: [미코얀 MiG-29K](https://ko.wikipedia.org/wiki/미코얀_MiG-29K).
 
 
 **미코얀 MiG-29K**는 MiG-29의 항공모함용 버전이다. 쌍발식 엔진을 장착한 최대이륙중량 24톤의 항공모함용 다목적 전투기라는 점에서, 미국의 [F/A-18 호넷과](https://ko.wikipedia.org/wiki/F/A-18_호넷 "wikilink") 프랑스의 [라팔](https://ko.wikipedia.org/wiki/라팔 "wikilink")과 같다.

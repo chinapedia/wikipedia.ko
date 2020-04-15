@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [G   ](https://ko.wikipedia.org/wiki/G___).
+> This article is converted from Wikipedia: [G 단백질 연결 수용체](https://ko.wikipedia.org/wiki/G_단백질_연결_수용체).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:PDB_1hzx_7TM_Sketch_Membrane.png "wikilink")

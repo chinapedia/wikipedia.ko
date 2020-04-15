@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  II](https://ko.wikipedia.org/wiki/__II).
+> This article is converted from Wikipedia: [나쁜 녀석들 II](https://ko.wikipedia.org/wiki/나쁜_녀석들_II).
 
 
 《**나쁜 녀석들 II**》()는 [2003년](../Page/2003년.md "wikilink") 개봉한 [미국](../Page/미국.md "wikilink")의 액션 영화이다.

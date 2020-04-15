@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SPEC\~   5     \~](https://ko.wikipedia.org/wiki/SPEC\~___5_____\~).
+> This article is converted from Wikipedia: [SPEC\~경시청 공안부 공안 제5과 미상 사건 특별 대책계 사건부\~](https://ko.wikipedia.org/wiki/SPEC\~경시청_공안부_공안_제5과_미상_사건_특별_대책계_사건부\~).
 
 
 《**SPEC\~경시청 공안부 공안 제5과 미상 사건 특별 대책계 사건부\~**》 ()는 [2010년](../Page/2010년.md "wikilink") [10월 8일부터](../Page/10월_8일.md "wikilink") [12월 17일까지](../Page/12월_17일.md "wikilink") [TBS](../Page/도쿄_방송_홀딩스.md "wikilink") [계열에서](../Page/재팬_뉴스_네트워크.md "wikilink") 매주 [금요일](../Page/금요일.md "wikilink") 22:00 \~ 22:54([JST](../Page/일본_표준시.md "wikilink"))에 〈[금요드라마](../Page/TBS_금요드라마.md "wikilink")〉 시간대로 방송된 [토다 에리카](../Page/토다_에리카.md "wikilink")·[카세 료](../Page/카세_료.md "wikilink") 공동 주연의 [일본](../Page/일본.md "wikilink")의 [텔레비전 드라마이다](https://ko.wikipedia.org/wiki/일본_드라마 "wikilink").

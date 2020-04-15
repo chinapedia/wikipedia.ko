@@ -82,7 +82,7 @@
 <td><p><a href="../Page/타이베이시.md" title="wikilink">타이베이</a></p></td>
 <td></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/타이베이_아레나" title="wikilink">타이베이 아레나</a>[7]</p></td>
-<td><p>통산 46,191명</p></td>
+<td><p>통산 46,491명</p></td>
 </tr>
 <tr class="odd">
 <td><p>2012년 2월 3일</p></td>
@@ -109,7 +109,7 @@
 <td><p>2012년 2월 18일</p></td>
 <td></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/싱가포르_인도어_스타디움" title="wikilink">싱가포르 인도어 스타디움</a>[8]</p></td>
-<td><p>통산 22,197명</p></td>
+<td><p>통산 22,597명</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -138,7 +138,7 @@
 <td><p><a href="../Page/방콕.md" title="wikilink">방콕</a></p></td>
 <td></td>
 <td><p>임펙트 아레나 무앙 통 타니[10]</p></td>
-<td><p>통산 43,946명</p></td>
+<td><p>통산 44,396명</p></td>
 </tr>
 <tr class="odd">
 <td><p>2012년 3월 17일</p></td>
@@ -187,7 +187,7 @@
 <td><p><a href="../Page/자카르타.md" title="wikilink">자카르타</a></p></td>
 <td></td>
 <td><p>마타 일랑 인터네셔널 스타디움[13]</p></td>
-<td><p>통산 35,172명</p></td>
+<td><p>통산 35,286명</p></td>
 </tr>
 <tr class="even">
 <td><p>2012년 4월 28일</p></td>
@@ -222,7 +222,7 @@
 <td><p><a href="../Page/서울특별시.md" title="wikilink">서울</a></p></td>
 <td></td>
 <td><p>올림픽체조경기장[15]<small>(앙코르)</small></p></td>
-<td><p>통산 27,152명</p></td>
+<td><p>통산 27,512명</p></td>
 </tr>
 <tr class="odd">
 <td><p>2012년 5월 27일</p></td>
@@ -232,7 +232,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>총 누적 관객 450,792명</p></td>
+<td><p>총 누적 관객 452,416명</p></td>
 <td></td>
 <td></td>
 <td></td>

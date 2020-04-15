@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ L. ](https://ko.wikipedia.org/wiki/_L._).
+> This article is converted from Wikipedia: [새뮤얼 L. 잭슨](https://ko.wikipedia.org/wiki/새뮤얼_L._잭슨).
 
 
 **새뮤얼 리로이 잭슨**(, [1948년](../Page/1948년.md "wikilink") [12월 21일](../Page/12월_21일.md "wikilink") \~ )은 **사무엘 L. 잭슨**()으로 잘 알려진 [미국](../Page/미국.md "wikilink")의 [배우](../Page/배우.md "wikilink")이다. 그는 《[좋은 친구들](https://ko.wikipedia.org/wiki/좋은_친구들 "wikilink")》(1990), 《정글 피버》(1991), 《패트리어트 게임》(1992), 《흑백 소동》(1993), 《트루 로맨스》(1993), 《[쥬라기 공원](https://ko.wikipedia.org/wiki/쥬라기_공원 "wikilink")》(1993)등의 영화로 1990년대 초반 유명세를 얻었고, [쿠엔틴 타란티노](../Page/쿠엔틴_타란티노.md "wikilink") 감독과 협연한 《[펄프 픽션](../Page/펄프_픽션.md "wikilink")》(1994), 《재키 브라운》(1994), 《[장고: 분노의 추적자](../Page/장고:_분노의_추적자.md "wikilink")》(2012), 《[헤이트풀8](../Page/헤이트풀8.md "wikilink")》(2015)로 찬사를 받았다. 그는 《[다이 하드 3](https://ko.wikipedia.org/wiki/다이_하드_3 "wikilink")》(1995), 《언브레이커블》(2000), 《샤프트》(2000), 《51번째 주》(2001), 《사무엘 잭슨의 블랙스네이크》(2006), 《스네이크 온 어 플레인》(2006)과 《[스타 워즈](https://ko.wikipedia.org/wiki/스타_워즈 "wikilink") 프리퀄 3부작》(1999-2005)을 포함한 100여 편의 영화에 출연했다.

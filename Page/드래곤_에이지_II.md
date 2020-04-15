@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  II](https://ko.wikipedia.org/wiki/__II).
+> This article is converted from Wikipedia: [드래곤 에이지 II](https://ko.wikipedia.org/wiki/드래곤_에이지_II).
 
 
 《**드래곤 에이지 II**》(Dragon Age II)는 [바이오웨어](../Page/바이오웨어.md "wikilink")가 제작하고 [일렉트로닉 아츠가](../Page/일렉트로닉_아츠.md "wikilink") 배급한 롤플레잉 게임으로, 《[드래곤 에이지: 오리진](../Page/드래곤_에이지:_오리진.md "wikilink")》의 속편이다.

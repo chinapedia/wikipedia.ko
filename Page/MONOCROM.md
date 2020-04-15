@@ -11,7 +11,7 @@
 
 ### 크리스 샹그리디의 신해철 곡 표절논란
 
-크리스 샹그리디는 이후 [영국](../Page/영국.md "wikilink")의 [헤비 메탈](../Page/헤비_메탈.md "wikilink") 밴드 [주다스 프리스트의](../Page/주다스_프리스트.md "wikilink") [2001년](../Page/2001년.md "wikilink")작 《[Demolition](https://ko.wikipedia.org/wiki/:en:Demolition_\(Judas_Priest_album\) "wikilink")》앨범을 프로듀싱 하면서 수록곡이었던 〈Metal Messiah〉에 모노크롬 앨범의 신해철 작품 〈Machine Messiah〉와 히든트랙인 〈Demo No.69〉의 리프를 무단으로 가져다 사용하면서 표절논란이 일었는데 현재는 무단 표절을 했음이 정설로 굳어진 상황이다.\[1\]\[2\]
+크리스 샹그리디는 이후 [영국](../Page/영국.md "wikilink")의 [헤비 메탈](../Page/헤비_메탈.md "wikilink") 밴드 [주다스 프리스트의](../Page/주다스_프리스트.md "wikilink") [2001년](../Page/2001년.md "wikilink")작 《[Demolition](https://ko.wikipedia.org/wiki/:en:Demolition_\(Judas_Priest_album\) "wikilink")》앨범을 프로듀싱 하면서 수록곡이었던 〈Metal Messiah〉에 모노크롬 앨범의 신해철 작품 〈Machine Messiah〉와 히든트랙인 〈Demo No.69〉의 리프를 무단으로 가져다 사용하면서 표절논란이 일었는데, 현재는 무단 표절을 했음이 정설로 굳어진 상황이다.\[1\]\[2\]
 
 ## 수록곡
 

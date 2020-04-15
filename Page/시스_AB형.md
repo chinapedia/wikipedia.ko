@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ AB](https://ko.wikipedia.org/wiki/_AB).
+> This article is converted from Wikipedia: [시스 AB형](https://ko.wikipedia.org/wiki/시스_AB형).
 
 
 **시스 AB형**(Cis-AB)은 [ABO식 혈액형의](../Page/ABO식_혈액형.md "wikilink") 돌연변이의 하나로, A형 인자와 B형 인자가 모두 하나의 [염색체](../Page/염색체.md "wikilink")에 존재하게 되는 비정형 혈액형으로, [혈액형](../Page/혈액형.md "wikilink")이 O형인 사람과 결혼해도 AB형이나 O형으로만 나타나는 특성이 있다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KB](https://ko.wikipedia.org/wiki/KB).
+> This article is converted from Wikipedia: [KB저축은행](https://ko.wikipedia.org/wiki/KB저축은행).
 
 
 **KB저축은행**은 [대한민국](../Page/대한민국.md "wikilink")의 [저축은행](https://ko.wikipedia.org/wiki/저축은행 "wikilink")이자 [KB금융지주](https://ko.wikipedia.org/wiki/KB금융지주 "wikilink")의 계열사이다.

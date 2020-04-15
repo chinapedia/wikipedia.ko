@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [CMYK \( \)](https://ko.wikipedia.org/wiki/CMYK_\(_\)).
+> This article is converted from Wikipedia: [CMYK \(음악 그룹\)](https://ko.wikipedia.org/wiki/CMYK_\(음악_그룹\)).
 
 
 **CMYK**는 [대한민국](../Page/대한민국.md "wikilink")의 3인조 [힙합](../Page/힙합.md "wikilink") 그룹이다. 2003년 겨울, **선데이 2PM** (Sunday 2PM)이란 이름으로 결성되었으며, 멤버는 [데피닛](../Page/데피닛.md "wikilink") (**Deffinite**, , [1986년](../Page/1986년.md "wikilink") [2월 20일](../Page/2월_20일.md "wikilink") \~ ), **지백** (**Jeebag**, , [1986년](../Page/1986년.md "wikilink") [9월 2일](../Page/9월_2일.md "wikilink") \~ ), **투덱스** (**Twodeckz**, , [1985년](../Page/1985년.md "wikilink") [2월 27일](../Page/2월_27일.md "wikilink") \~ )로 구성되어 총 3명이다.\[1\] [Blockbuster Records](../Page/블록버스터_레코드.md "wikilink") 해체 전까지 소속이었으며 현재는 [FactoryBOi Records](https://ko.wikipedia.org/wiki/팩토리보이_레코즈 "wikilink") 소속이다. 2012년 10월, 팩토리보이 프로덕션(현 팩토리보이 레코즈)에 합류하면서 Sunday 2PM 대신 CMYK를 팀네임으로 사용하기 시작하였다.

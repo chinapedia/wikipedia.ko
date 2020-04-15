@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ S. ](https://ko.wikipedia.org/wiki/_S._).
+> This article is converted from Wikipedia: [리언 S. 케네디](https://ko.wikipedia.org/wiki/리언_S._케네디).
 
 
 **레온 S. 케네디**(Leon Scott Kennedy)는 [캡콤](../Page/캡콤.md "wikilink")의 게임 [바이오하자드 시리즈에](https://ko.wikipedia.org/wiki/바이오하자드_시리즈 "wikilink") 등장하는 인물이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SKASUCKS \(\)](https://ko.wikipedia.org/wiki/SKASUCKS_\(\)).
+> This article is converted from Wikipedia: [SKASUCKS \(음반\)](https://ko.wikipedia.org/wiki/SKASUCKS_\(음반\)).
 
 
 《**SKASUCKS(Self-Titled)**》는 [2010년](../Page/2010년.md "wikilink") [7월 7일에](../Page/7월_7일.md "wikilink") [도프뮤직](https://ko.wikipedia.org/wiki/도프뮤직 "wikilink")에서 발매된 [스카썩스](../Page/스카썩스.md "wikilink")(SKASUCKS)의 첫 번째 [정규이다](https://ko.wikipedia.org/wiki/정규앨범_\(음악\) "wikilink").

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ BC](https://ko.wikipedia.org/wiki/_BC).
+> This article is converted from Wikipedia: [발렌시아 BC](https://ko.wikipedia.org/wiki/발렌시아_BC).
 
 
 **발렌시아 바스켓 클럽**(Valencia Basket Club)은 [스페인](../Page/스페인.md "wikilink") [발렌시아](../Page/발렌시아.md "wikilink")를 연고로 하는 프로농구단이다.

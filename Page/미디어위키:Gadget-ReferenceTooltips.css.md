@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Gadget-ReferenceTooltips.css](https://ko.wikipedia.org/wiki/:Gadget-ReferenceTooltips.css).
+> This article is converted from Wikipedia: [미디어위키:Gadget-ReferenceTooltips.css](https://ko.wikipedia.org/wiki/미디어위키:Gadget-ReferenceTooltips.css).
 
 
 /\* Copied from [en:MediaWiki:Gadget-ReferenceTooltips.css](https://ko.wikipedia.org/wiki/en:MediaWiki:Gadget-ReferenceTooltips.css "wikilink") \*/ /\* See [mw:Reference Tooltips](https://ko.wikipedia.org/wiki/mw:Reference_Tooltips "wikilink") \*/

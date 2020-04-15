@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ Mi-8](https://ko.wikipedia.org/wiki/_Mi-8).
+> This article is converted from Wikipedia: [밀 Mi-8](https://ko.wikipedia.org/wiki/밀_Mi-8).
 
 
 **밀 Mi-8**은 러시아 [밀사](https://ko.wikipedia.org/wiki/밀사 "wikilink")가 생산하는 다목적 헬리콥터이다. 17,000여대가 생산, 50여개국에 수출되어, 세계에서 가장 많이 생산된 헬기 중 하나이다.\[1\] 남북한이 모두 사용 중이다. 24명 승객을 태울 수 있으며, 최대이륙중량은 [블랙호크](https://ko.wikipedia.org/wiki/블랙호크 "wikilink"), [아파치](https://ko.wikipedia.org/wiki/아파치 "wikilink")(10톤)와 비슷한 12톤이다. [아비아 자보드‎에서](https://ko.wikipedia.org/wiki/아비아_자보드‎ "wikilink") 생산된다.

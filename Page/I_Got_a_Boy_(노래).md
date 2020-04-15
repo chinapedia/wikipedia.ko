@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [I Got a Boy \(\)](https://ko.wikipedia.org/wiki/I_Got_a_Boy_\(\)).
+> This article is converted from Wikipedia: [I Got a Boy \(노래\)](https://ko.wikipedia.org/wiki/I_Got_a_Boy_\(노래\)).
 
 
 《**I Got a Boy**》는 [소녀시대](../Page/소녀시대.md "wikilink")의 4집 정규 음반의 타이틀 곡이다. 2013년 1월 1일에 발표하였다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [BBC  1](https://ko.wikipedia.org/wiki/BBC__1).
+> This article is converted from Wikipedia: [BBC 라디오 1](https://ko.wikipedia.org/wiki/BBC_라디오_1).
 
 
 [오른쪽](https://ko.wikipedia.org/wiki/파일:BBC_Radio_1.svg "wikilink") **BBC 라디오 1**(BBC Radio 1)은 [BBC의](../Page/영국방송공사.md "wikilink") 라디오 방송 중 하나로, 청년층 대중 가요 및 토크 프로그램을 주로 방송한다. 대부분의 프로그램이 연속적으로 디제잉하듯 음악과 멘트를 보내는 것이 특징이다.

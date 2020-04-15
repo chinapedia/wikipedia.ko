@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ SC](https://ko.wikipedia.org/wiki/_SC).
+> This article is converted from Wikipedia: [알사드 SC](https://ko.wikipedia.org/wiki/알사드_SC).
 
 
 **알사드 스포츠 클럽**()은 [카타르](../Page/카타르.md "wikilink")의 수도 [도하](../Page/도하.md "wikilink")를 연고로 하는 [축구](../Page/축구.md "wikilink") 클럽이다. 1969년 10월 21일 창단되었으며 카타르에서 가장 성공적인 축구 클럽으로 평가받고 있다. 축구 외에 [핸드볼](../Page/핸드볼.md "wikilink")과 [농구](../Page/농구.md "wikilink"), [배구](../Page/배구.md "wikilink"), [탁구](../Page/탁구.md "wikilink"), [육상](../Page/육상_경기.md "wikilink") 선수단도 운영한다.
@@ -7,7 +7,7 @@
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Al_Sadd_AFC_Champions_League.jpg "wikilink") 알사드는 축구를 좋아하는 네 명의 학생들로부터 만들어졌다. 그들은 다른 클럽에 입단하는 것을 거부하고 자신들 스스로 클럽을 만들었는데 이는 알사드 창단의 모태가 된다.
 
-1973-74 [카타르 리그에서](../Page/카타르_스타스_리그.md "wikilink") 처음으로 우승을 차지하였으며 [알아라비](https://ko.wikipedia.org/wiki/알아라비_스포츠_클럽 "wikilink"), [알라얀과](https://ko.wikipedia.org/wiki/알라얀_스포츠_클럽 "wikilink") 함께 1970년대와 1980년대 카타르 축구 리그를 호령하였다. 1989년 [이라크](../Page/이라크.md "wikilink")의 [알라시드를](https://ko.wikipedia.org/wiki/알카르크흐_SC "wikilink") 꺾으면서 아랍 클럽으로는 처음으로 [아시안 클럽 챔피언십](../Page/AFC_챔피언스리그.md "wikilink")([AFC 챔피언스리그의](../Page/AFC_챔피언스리그.md "wikilink") 전신)에서 우승을 차지하였다.
+1973-74 [카타르 리그에서](../Page/카타르_스타스_리그.md "wikilink") 처음으로 우승을 차지하였으며 [알아라비](https://ko.wikipedia.org/wiki/알아라비_스포츠_클럽 "wikilink"), [알라얀과](https://ko.wikipedia.org/wiki/알라얀_스포츠_클럽 "wikilink") 함께 1970년대와 1980년대 카타르 축구 리그를 호령하였다. 1989년 [이라크](../Page/이라크.md "wikilink")의 [알라시드를](../Page/알카르흐_SC.md "wikilink") 꺾으면서 아랍 클럽으로는 처음으로 [아시안 클럽 챔피언십](../Page/AFC_챔피언스리그.md "wikilink")([AFC 챔피언스리그의](../Page/AFC_챔피언스리그.md "wikilink") 전신)에서 우승을 차지하였다.
 
 1990년대에는 카타르 리그에서 한 번도 우승을 차지하지 못하였지만 1991년 [걸프 클럽 챔피언스컵과](https://ko.wikipedia.org/wiki/걸프_클럽_챔피언스컵 "wikilink") 1998년 [카타르 크라운 프린스 컵에서](../Page/카타르_크라운_프린스_컵.md "wikilink") 우승을 차지하였다.
 
@@ -58,4 +58,4 @@
 
   - [공식 웹사이트](https://web.archive.org/web/20110707102354/http://www.al-saddclub.com/)
 
-[분류:1969년 설립된 축구단](https://ko.wikipedia.org/wiki/분류:1969년_설립된_축구단 "wikilink") [알사드_SC](https://ko.wikipedia.org/wiki/분류:알사드_SC "wikilink") [분류:카타르의 축구단](https://ko.wikipedia.org/wiki/분류:카타르의_축구단 "wikilink")
+[알사드_SC](https://ko.wikipedia.org/wiki/분류:알사드_SC "wikilink") [분류:1969년 설립된 축구단](https://ko.wikipedia.org/wiki/분류:1969년_설립된_축구단 "wikilink") [분류:카타르의 축구단](https://ko.wikipedia.org/wiki/분류:카타르의_축구단 "wikilink")

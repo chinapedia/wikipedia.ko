@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [-hane-](https://ko.wikipedia.org/wiki/-hane-).
+> This article is converted from Wikipedia: [하네-hane-](https://ko.wikipedia.org/wiki/하네-hane-).
 
 
 《**날개-hane-**》()란 [KOTOKO](../Page/KOTOKO.md "wikilink")의 1집 앨범을 말한다.

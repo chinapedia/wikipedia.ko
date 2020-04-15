@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:6TeamBracket-repechage](https://ko.wikipedia.org/wiki/:6TeamBracket-repechage).
+> This article is converted from Wikipedia: [틀:6TeamBracket-repechage](https://ko.wikipedia.org/wiki/틀:6TeamBracket-repechage).
 
 
 |         |        |  |

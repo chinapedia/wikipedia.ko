@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KFC  05](https://ko.wikipedia.org/wiki/KFC__05).
+> This article is converted from Wikipedia: [KFC 위어딩겐 05](https://ko.wikipedia.org/wiki/KFC_위어딩겐_05).
 
 
 **KFC 위어딩엔 05**(KFC Uerdingen 05)는 [독일](../Page/독일.md "wikilink") [노르트라인베스트팔렌주](../Page/노르트라인베스트팔렌주.md "wikilink")의 도시 [크레펠트](../Page/크레펠트.md "wikilink")의 축구 클럽으로, 현재 독일 3.Liga에서 활동하고 있다.

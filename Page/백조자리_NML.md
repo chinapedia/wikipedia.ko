@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ NML](https://ko.wikipedia.org/wiki/_NML).
+> This article is converted from Wikipedia: [백조자리 NML](https://ko.wikipedia.org/wiki/백조자리_NML).
 
 
 **백조자리 NML** 또는 **백조자리 V1489**는 [백조자리](../Page/백조자리.md "wikilink") 방향에 있는 [적색 극대거성이다](https://ko.wikipedia.org/wiki/적색_극대거성 "wikilink"). 백조자리 NML은 지구에서 5250광년 떨어져 있으며, [백조자리 OB2](../Page/백조자리_OB2.md "wikilink") 성협의 구성원이기도 하다.\[1\]

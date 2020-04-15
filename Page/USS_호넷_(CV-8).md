@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [USS  \(CV-8\)](https://ko.wikipedia.org/wiki/USS__\(CV-8\)).
+> This article is converted from Wikipedia: [USS 호넷 \(CV-8\)](https://ko.wikipedia.org/wiki/USS_호넷_\(CV-8\)).
 
 
 **USS 호넷 (CV-8)**()은 미 해군의 항공모함이다. 요크타운급 항공모함의 3번함으로 건조되었는데, 워싱턴 군축 조약의 배수량 제한 때문에 USS 요크타운과 USS 엔터프라이즈보다 조금 늦게 건조되었다. [2차 세계대전](https://ko.wikipedia.org/wiki/2차_세계대전 "wikilink") 초기, 일본의 [도쿄](../Page/도쿄.md "wikilink")를 기습 공격하여 혼란을 준 둘리틀 특공대와 작전에 사용된 B-25 미첼 중폭격기들을 이함시키기도 하였다. 또한 전쟁의 주도권을 결정지은 전투인 [미드웨이 해전에도](../Page/미드웨이_해전.md "wikilink") 참전했다. [산타 크루즈 해전에서](https://ko.wikipedia.org/wiki/:en:Battle_of_the_Santa_Cruz_Islands "wikilink") 일본의 급강하 폭격기(dive bomber)의 공격을 받아 침몰했다. 같이 전투에 참가한 USS 엔터프라이즈는 스콜이 발생하여 피해를 면하였다. 이 전투에서 구축함 [포터는](https://ko.wikipedia.org/wiki/:en:USS_Porter_\(DD-356\) "wikilink") 일본군 잠수함 [I-21에서](https://ko.wikipedia.org/wiki/:en:Japanese_submarine_I-21_\(1940\) "wikilink") 발사된 어뢰를 맞고 격침되었다. 일본군은 원래 호넷을 노획하려 하였으나 손상이 심하여 뇌격으로 처리하였다. 방뢰능력이 약한 요크타운급임에도 불구하고 가라앉기 까지는 오랜 시간이 걸렸다고 한다.

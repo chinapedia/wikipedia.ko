@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KBS  ](https://ko.wikipedia.org/wiki/KBS__).
+> This article is converted from Wikipedia: [KBS 걸작 다큐멘터리](https://ko.wikipedia.org/wiki/KBS_걸작_다큐멘터리).
 
 
 **KBS 걸작 다큐멘터리**는 매주 [수요일](../Page/수요일.md "wikilink") 밤 12시 40분에 [KBS 1TV에서](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink") 방송되는 [다큐멘터리 텔레비전 프로그램이다](../Page/다큐멘터리_텔레비전_프로그램.md "wikilink").

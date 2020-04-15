@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [ A\&M ](https://ko.wikipedia.org/wiki/_A\&M_).
+> This article is converted from Wikipedia: [텍사스 A\&M 대학교](https://ko.wikipedia.org/wiki/텍사스_A\&M_대학교).
 
 
-**텍사스 A\&M 대학교** (Texas A\&M University)는 미국 [텍사스주](../Page/텍사스주.md "wikilink") 칼리지스테이션(College Station)에 위치한 주립 대학으로 A\&M 또는 TAMU라고도 부른다. Commerce, Corpus Christi, Galvestone 및 San Antonio에 분교를 두고있는데, College Station 캠퍼스(휴스턴에서 2시간 거리)가 텍사스 A\&M 대학 시스템(Texas A\&M University System)의 주력기관이다. 미국에서 6번째로 큰 대학으로, 텍사스주를 대표하는 플랙십(flagship) 대학이면서 미국에서 가장 넓은 캠퍼스를 가지고 있다. 2016년 5월 학교 당국은 College Station 외곽지역에 2천 에이커 (여의도 면적의 3배)에 달하는 연구 단지를 짓는다는 계획을 발표했다. 학교 안에 공항과 철로 및 석유채굴시설이 있다.
+**텍사스 A\&M 대학교**(Texas A\&M University)는 미국 [텍사스주](../Page/텍사스주.md "wikilink") 칼리지스테이션(College Station)에 위치한 주립 대학으로 A\&M 또는 TAMU라고도 부른다. Commerce, Corpus Christi, Galvestone 및 San Antonio에 분교를 두고있는데, College Station 캠퍼스(휴스턴에서 2시간 거리)가 텍사스 A\&M 대학 시스템(Texas A\&M University System)의 주력기관이다. 미국에서 6번째로 큰 대학으로, 텍사스주를 대표하는 플랙십(flagship) 대학이면서 미국에서 가장 넓은 캠퍼스를 가지고 있다. 2016년 5월 학교 당국은 College Station 외곽지역에 2천 에이커 (여의도 면적의 3배)에 달하는 연구 단지를 짓는다는 계획을 발표했다. 학교 안에 공항과 철로 및 석유채굴시설이 있다.
 
 미국에서 6번째, 세계에선 9번째로 기부금을 많이 받는 부자 대학으로 1980년대 이래 미국에서 가장 빠르게 성장하는 대학이다. (College Station 캠퍼스 만을 놓고 보았을 때 2014년 105억 달러의 기부금을 받아 전국대학중 6위를 차지했다. College Station 캠퍼스 보다 기부금을 더 많이 받는 대학은 하버드, 예일, 스탠포드, 프린스턴, MIT 뿐이다.)
 

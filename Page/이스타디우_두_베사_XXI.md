@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [   XXI](https://ko.wikipedia.org/wiki/___XXI).
+> This article is converted from Wikipedia: [이스타디우 두 베사 XXI](https://ko.wikipedia.org/wiki/이스타디우_두_베사_XXI).
 
 
 **이스타디우 두 베사 XXI**()는 [포르투갈](../Page/포르투갈.md "wikilink") [포르투](../Page/포르투.md "wikilink")에 위치한 [축구](../Page/축구.md "wikilink") 경기장으로, [보아비스타 FC의](../Page/보아비스타_FC.md "wikilink") 홈구장으로 사용되고 있으며 28,263명을 수용할 수 있다. [UEFA 유로 2004](https://ko.wikipedia.org/wiki/UEFA_유로_2004 "wikilink") 경기장으로 선정되었다.

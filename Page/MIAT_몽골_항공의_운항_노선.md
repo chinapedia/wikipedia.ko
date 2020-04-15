@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [MIAT    ](https://ko.wikipedia.org/wiki/MIAT____).
+> This article is converted from Wikipedia: [MIAT 몽골 항공의 운항 노선](https://ko.wikipedia.org/wiki/MIAT_몽골_항공의_운항_노선).
 
 
 **[MIAT 몽골 항공](../Page/MIAT_몽골_항공.md "wikilink")**은 다음과 같은 노선들을 운항하고 있다.

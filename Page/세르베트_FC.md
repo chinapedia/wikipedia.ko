@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
+> This article is converted from Wikipedia: [세르베트 FC](https://ko.wikipedia.org/wiki/세르베트_FC).
 
 
 **세르베트 FC**(Servette FC)는 [스위스](https://ko.wikipedia.org/wiki/스위스 "wikilink") [제네바](../Page/제네바.md "wikilink")의 축구 클럽 팀으로, 현재 스위스의 1부 리그인 [스위스 슈퍼리그에서](../Page/스위스_슈퍼리그.md "wikilink") 활동하고 있다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [CONCACAF  ](https://ko.wikipedia.org/wiki/CONCACAF__).
+> This article is converted from Wikipedia: [CONCACAF 선수권 대회](https://ko.wikipedia.org/wiki/CONCACAF_선수권_대회).
 
 
 **CONCACAF 선수권 대회**(CONCACAF Championship)는 [1963년](../Page/1963년.md "wikilink")부터 [1989년](../Page/1989년.md "wikilink")까지 [북중미카리브 축구 연맹](../Page/북중미카리브_축구_연맹.md "wikilink")(CONCACAF)의 주관으로 개최된 국가 대항 [축구](../Page/축구.md "wikilink") 대회이다.

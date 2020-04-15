@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [MBC ](https://ko.wikipedia.org/wiki/MBC_).
+> This article is converted from Wikipedia: [MBC 퀸](https://ko.wikipedia.org/wiki/MBC_퀸).
 
 
 **MBC 퀸**(MBC QueeN)은 [대한민국](../Page/대한민국.md "wikilink")의 [MBC 플러스 미디어가](https://ko.wikipedia.org/wiki/엠비씨플러스 "wikilink") 운영하는 여성 라이프스타일 채널이다. 2013년 1월 1일 기존 [MBC LIFE가](../Page/MBC_라이프.md "wikilink") 장르를 전환하여 재개국한 채널이다. 채널의 [표어](https://ko.wikipedia.org/wiki/표어 "wikilink")는 'What Women Want'이다. MBC QueeN의 주타깃은 25세에서 45세 사이의 여성 시청층이며, 뷰티·패션·연예·드라마·오락 등 다양한 장르의 콘텐츠를 방송한다. MBC 퀸에서는 [MLB](https://ko.wikipedia.org/wiki/메이저리그_베이스볼 "wikilink") 경기 중계 역시 [MBC 스포츠플러스와](../Page/MBC_스포츠플러스.md "wikilink") 함께 수시로 편성한다.

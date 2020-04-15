@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [NOVASONIC \(\)](https://ko.wikipedia.org/wiki/NOVASONIC_\(\)).
+> This article is converted from Wikipedia: [NOVASONIC \(음반\)](https://ko.wikipedia.org/wiki/NOVASONIC_\(음반\)).
 
 
 **《NOVASONIC》**은 [대한민국](../Page/대한민국.md "wikilink")의 록 그룹 [노바소닉](../Page/노바소닉.md "wikilink")의 첫 정규 앨범이다.

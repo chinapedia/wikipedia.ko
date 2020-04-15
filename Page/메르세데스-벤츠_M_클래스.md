@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [- M ](https://ko.wikipedia.org/wiki/-_M_).
+> This article is converted from Wikipedia: [메르세데스-벤츠 M 클래스](https://ko.wikipedia.org/wiki/메르세데스-벤츠_M_클래스).
 
 
 [right](https://ko.wikipedia.org/wiki/파일:AA_Vision.jpg "wikilink")  **메르세데스-벤츠 M 클래스**(Mercedes-Benz M-Class)는 [다임러 AG가](../Page/다임러_AG.md "wikilink") 제조해 [메르세데스-벤츠](../Page/메르세데스-벤츠.md "wikilink") 브랜드로 판매하는 준대형 [SUV이다](../Page/스포츠_유틸리티_자동차.md "wikilink"). [BMW](../Page/BMW.md "wikilink")의 고성능 브랜드인 M과 구별하기 위해 테일 게이트에 ML이라고 붙여지기도 한다. [메르세데스-벤츠](../Page/메르세데스-벤츠.md "wikilink")의 차종 중 최초의 해외 생산 차종이다.

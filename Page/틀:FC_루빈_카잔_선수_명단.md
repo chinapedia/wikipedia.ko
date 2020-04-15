@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:FC    ](https://ko.wikipedia.org/wiki/:FC____).
+> This article is converted from Wikipedia: [틀:FC 루빈 카잔 선수 명단](https://ko.wikipedia.org/wiki/틀:FC_루빈_카잔_선수_명단).
 
 
 <onlyinclude></onlyinclude>

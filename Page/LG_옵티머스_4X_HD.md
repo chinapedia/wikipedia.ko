@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [LG  4X HD](https://ko.wikipedia.org/wiki/LG__4X_HD).
+> This article is converted from Wikipedia: [LG 옵티머스 4X HD](https://ko.wikipedia.org/wiki/LG_옵티머스_4X_HD).
 
 
 **LG 옵티머스 4X HD**(LG Optimus 4X HD)는 [LG전자](../Page/LG전자.md "wikilink")에서 제조/판매하는 [안드로이드](../Page/안드로이드_\(운영_체제\).md "wikilink") [스마트폰](../Page/스마트폰.md "wikilink")이다.

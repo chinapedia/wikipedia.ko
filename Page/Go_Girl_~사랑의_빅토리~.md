@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Go Girl \~ \~](https://ko.wikipedia.org/wiki/Go_Girl_\~_\~).
+> This article is converted from Wikipedia: [Go Girl \~사랑의 빅토리\~](https://ko.wikipedia.org/wiki/Go_Girl_\~사랑의_빅토리\~).
 
 
 **Go Girl \~사랑의 빅토리\~**()는 [2003년](../Page/2003년.md "wikilink") [11월 6일에](../Page/11월_6일.md "wikilink") 발매 된 [모닝구무스메](../Page/모닝구무스메.md "wikilink")의 스물 번째 싱글이다.

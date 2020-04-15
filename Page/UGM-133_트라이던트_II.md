@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [UGM-133  II](https://ko.wikipedia.org/wiki/UGM-133__II).
+> This article is converted from Wikipedia: [UGM-133 트라이던트 II](https://ko.wikipedia.org/wiki/UGM-133_트라이던트_II).
 
 
 **UGM-133 트라이던트 II**(UGM-133 Trident II)또는 **트라이던트 D5**는 미국과 영국의 [SLBM](https://ko.wikipedia.org/wiki/SLBM "wikilink") (submarine-launched ballistic missile 잠수함 발사 탄도 미사일) 이다.

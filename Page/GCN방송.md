@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [GCN](https://ko.wikipedia.org/wiki/GCN).
+> This article is converted from Wikipedia: [GCN방송](https://ko.wikipedia.org/wiki/GCN방송).
 
 
 **GCN방송**(지씨엔방송)는 대한민국 선교 방송 채널이다. (만민중앙교회가 대주주로 있다 - 이재록)

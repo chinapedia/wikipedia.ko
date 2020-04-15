@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [S.  ](https://ko.wikipedia.org/wiki/S.__).
+> This article is converted from Wikipedia: [S. 이페서 메커슨](https://ko.wikipedia.org/wiki/S._이페서_메커슨).
 
 
 **S. 이페서 메커슨**(S. Epatha Merkerson, [1952년](../Page/1952년.md "wikilink") [11월 28일](../Page/11월_28일.md "wikilink") \~ )은 [미국](../Page/미국.md "wikilink")의 [배우](../Page/배우.md "wikilink")이다.

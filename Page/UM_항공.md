@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [UM ](https://ko.wikipedia.org/wiki/UM_).
+> This article is converted from Wikipedia: [UM 항공](https://ko.wikipedia.org/wiki/UM_항공).
 
 
 **UM 항공**()는 [우크라이나](../Page/우크라이나.md "wikilink")의 항공사로 본사는 [우크라이나](../Page/우크라이나.md "wikilink") [키예프](../Page/키예프.md "wikilink") 위치해 있으며 [1998년](../Page/1998년.md "wikilink")에 설립했다. 또한 사용하고 있는 [허브 공항으로](../Page/허브_공항.md "wikilink") [보리스필 국제공항이](../Page/보리스필_국제공항.md "wikilink") 있다.
@@ -26,7 +26,7 @@
 
 ## 외부 링크
 
-  - [공식 홈페이지](http://www.umair.com.ua/)
+  - [공식 홈페이지](https://web.archive.org/web/20120520015638/http://umair.com.ua/)
 
   - [UM 항공의 보유 기종](https://web.archive.org/web/20120210095023/http://www.ch-aviation.ch/aircraft.php?search=set&airline=UF&al_op=1)
 

@@ -1,13 +1,13 @@
-> This article is converted from Wikipedia: [ XY](https://ko.wikipedia.org/wiki/_XY).
+> This article is converted from Wikipedia: [포켓몬스터 X·Y](https://ko.wikipedia.org/wiki/포켓몬스터_X·Y).
 
 
-《**포켓몬스터 X·Y**》()는 [게임 프리크가](https://ko.wikipedia.org/wiki/게임_프리크 "wikilink") 개발하고 [주식회사 포켓몬과](https://ko.wikipedia.org/wiki/포켓몬_\(기업\) "wikilink") [닌텐도](../Page/닌텐도.md "wikilink")가 발매한 [닌텐도 3DS](../Page/닌텐도_3DS.md "wikilink") 게임 소프트다.
+《**포켓몬스터 X·Y**》()는 [게임 프리크가](https://ko.wikipedia.org/wiki/게임_프리크 "wikilink") 개발하고 [주식회사 포켓몬과](../Page/포켓몬_\(기업\).md "wikilink") [닌텐도](../Page/닌텐도.md "wikilink")가 발매한 [닌텐도 3DS](../Page/닌텐도_3DS.md "wikilink") 게임 소프트다.
 
 ## 개요
 
-[2013년](../Page/2013년.md "wikilink") [1월 8일에](../Page/1월_8일.md "wikilink") 인터넷으로 중계된「[Pokémon Direct](https://ko.wikipedia.org/wiki/닌텐도_다이렉트 "wikilink") 2013.1.8」에서 닌텐도의 사장인 [이와타 사토루가](../Page/이와타_사토루.md "wikilink") 발표하였다\[1\]\[2\]. 이와타 사토루 사장은 시리즈 최초로 세계 동시 발매를 예고하였다. [주식회사 포켓몬의](https://ko.wikipedia.org/wiki/포켓몬_\(기업\) "wikilink") 사장인 [이시하라 츠네카즈는](https://ko.wikipedia.org/wiki/이시하라_츠네카즈 "wikilink") **X · Y**의 명칭에 대해, "지금까지의 시리즈와는 다른 새로운 차원의 작품이라는 의미도 담을 수 있다"고 설명했다.\[3\]
+[2013년](../Page/2013년.md "wikilink") [1월 8일에](../Page/1월_8일.md "wikilink") 인터넷으로 중계된「[Pokémon Direct](https://ko.wikipedia.org/wiki/닌텐도_다이렉트 "wikilink") 2013.1.8」에서 닌텐도의 사장인 [이와타 사토루가](../Page/이와타_사토루.md "wikilink") 발표하였다\[1\]\[2\]. 이와타 사토루 사장은 시리즈 최초로 세계 동시 발매를 예고하였다. [주식회사 포켓몬의](../Page/포켓몬_\(기업\).md "wikilink") 사장인 [이시하라 츠네카즈는](https://ko.wikipedia.org/wiki/이시하라_츠네카즈 "wikilink") **X · Y**의 명칭에 대해, "지금까지의 시리즈와는 다른 새로운 차원의 작품이라는 의미도 담을 수 있다"고 설명했다.\[3\]
 
-본작에 등장하는 [포켓몬은](https://ko.wikipedia.org/wiki/포켓몬_목록 "wikilink") 새로 추가되는 포켓몬을 포함하여 700마리 이상이 되었고\[4\], 게임을 시작할 때 선택하게 되는 3마리의 포켓몬은 각각 도치마론, 푸호꼬, 개구마르이다.\[5\] 시리즈를 대표하는 전설의 포켓몬으로는 제르네아스와 이벨타르가 예정되었다.\[6\]
+본작에 등장하는 [포켓몬은](https://ko.wikipedia.org/wiki/포켓몬_목록 "wikilink") 새로 추가되는 포켓몬을 포함하여 700마리 이상이 되었고\[4\], 게임을 시작할 때 선택하게 되는 3마리의 포켓몬은 각각 도치마론, 푸호꼬, 개구마르이다.\[5\] 시리즈를 대표하는 전설의 포켓몬으로는 제르네아스와 이벨타르이다.\[6\]
 
 또한 포켓몬의 모습이 시리즈 처음으로 [2D가](https://ko.wikipedia.org/wiki/2차원_컴퓨터_그래픽 "wikilink") 아닌 [3D로](https://ko.wikipedia.org/wiki/3차원_컴퓨터_그래픽 "wikilink") 표현되었다.\[7\]
 
@@ -25,21 +25,21 @@
 
 ### 스타팅 포켓몬
 
-  - 풀 타입 : [도치마론](https://ko.wikipedia.org/wiki/도치마론 "wikilink")
-  - 불꽃 타입 : [푸호꼬](https://ko.wikipedia.org/wiki/푸호꼬 "wikilink")
-  - 물 타입 : [개구마르](https://ko.wikipedia.org/wiki/개구마르 "wikilink")
+  - [풀](../Page/풀.md "wikilink") 타입 : [도치마론](https://ko.wikipedia.org/wiki/도치마론 "wikilink")
+  - [불꽃](https://ko.wikipedia.org/wiki/불꽃 "wikilink") 타입 : [푸호꼬](https://ko.wikipedia.org/wiki/푸호꼬 "wikilink")
+  - [물](https://ko.wikipedia.org/wiki/물 "wikilink") 타입 : [개구마르](https://ko.wikipedia.org/wiki/개구마르 "wikilink")
 
 ### 환상의 포켓몬
 
-  - [디안시](../Page/디안시.md "wikilink")
-  - [후파](https://ko.wikipedia.org/wiki/후파 "wikilink")
-  - [볼케니온](https://ko.wikipedia.org/wiki/볼케니온 "wikilink")
+  - [페어리](../Page/페어리.md "wikilink"),[바위](https://ko.wikipedia.org/wiki/바위 "wikilink") 타입:[디안시](../Page/디안시.md "wikilink")
+  - [에스퍼](https://ko.wikipedia.org/wiki/에스퍼 "wikilink"),[고스트](https://ko.wikipedia.org/wiki/고스트 "wikilink") 타입:[후파](https://ko.wikipedia.org/wiki/후파 "wikilink")(굴레를 벗어난 모습)/[에스퍼](https://ko.wikipedia.org/wiki/에스퍼 "wikilink"),[악](https://ko.wikipedia.org/wiki/악 "wikilink") 타입 (굴레에 빠진 모습)
+  - [불꽃](https://ko.wikipedia.org/wiki/불꽃 "wikilink"),[물](https://ko.wikipedia.org/wiki/물 "wikilink") 타입:[볼케니온](https://ko.wikipedia.org/wiki/볼케니온 "wikilink")
 
 ### 전설의 포켓몬
 
-  - [제르네아스](https://ko.wikipedia.org/wiki/제르네아스 "wikilink") (포켓몬스터 X)
-  - [이벨타르](https://ko.wikipedia.org/wiki/이벨타르 "wikilink") (포켓몬스터 Y)
-  - [지가르데](https://ko.wikipedia.org/wiki/지가르데 "wikilink") (포켓몬스터 X, Y)
+  - [페어리](../Page/페어리.md "wikilink") 타입:[제르네아스](https://ko.wikipedia.org/wiki/제르네아스 "wikilink") (포켓몬스터 X)
+  - [악](https://ko.wikipedia.org/wiki/악 "wikilink"),[비행](../Page/비행.md "wikilink") 타입:[이벨타르](https://ko.wikipedia.org/wiki/이벨타르 "wikilink") (포켓몬스터 Y)
+  - [드래곤](../Page/드래곤.md "wikilink"),[땅](https://ko.wikipedia.org/wiki/땅 "wikilink") 타입:[지가르데](https://ko.wikipedia.org/wiki/지가르데 "wikilink") (포켓몬스터 X, Y)
 
 ## 각주
 
@@ -47,7 +47,7 @@
 
   - [Pokémon Direct 2013.1.8](https://web.archive.org/web/20130213091334/http://www.nintendo.co.jp/pokemon/direct20130108/) （동영상 전달、[닌텐도](../Page/닌텐도.md "wikilink")）
       - Nintendo Direct Channel
-  - [포켓몬스터 X·Y 공식 홈페이지](https://web.archive.org/web/20150317170114/http://pokemonxy.pokemonkorea.co.kr/)（[주식회사 포켓몬](https://ko.wikipedia.org/wiki/포켓몬_\(기업\) "wikilink")）
+  - [포켓몬스터 X·Y 공식 홈페이지](https://web.archive.org/web/20150317170114/http://pokemonxy.pokemonkorea.co.kr/)（[주식회사 포켓몬](../Page/포켓몬_\(기업\).md "wikilink")）
       - [한국닌텐도 포켓몬스터 X·Y 공식 홈페이지](http://nintendo.co.kr/3DS/software/pokemonXY/index.html)（[한국닌텐도 주식회사](../Page/한국닌텐도.md "wikilink")）
 
       - Pokémon YouTube Channel

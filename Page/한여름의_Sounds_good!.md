@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ Sounds good!](https://ko.wikipedia.org/wiki/_Sounds_good!).
+> This article is converted from Wikipedia: [한여름의 Sounds good!](https://ko.wikipedia.org/wiki/한여름의_Sounds_good!).
 
 
 〈**한여름의 Sounds good \!**〉()은 [일본](../Page/일본.md "wikilink")의 아이돌 그룹 [AKB48](../Page/AKB48.md "wikilink")의 26번째 [싱글이다](../Page/싱글_\(음악\).md "wikilink").

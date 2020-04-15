@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:SKE48](https://ko.wikipedia.org/wiki/:SKE48).
+> This article is converted from Wikipedia: [틀:SKE48](https://ko.wikipedia.org/wiki/틀:SKE48).
 
 
 <onlyinclude> }}</onlyinclude>

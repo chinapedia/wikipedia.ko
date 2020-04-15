@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [GEOS \(16  \)](https://ko.wikipedia.org/wiki/GEOS_\(16__\)).
+> This article is converted from Wikipedia: [GEOS \(16비트 운영 체제\)](https://ko.wikipedia.org/wiki/GEOS_\(16비트_운영_체제\)).
 
 
 **GEOS**는 컴퓨터 운영 환경, [그래픽 사용자 인터페이스](../Page/그래픽_사용자_인터페이스.md "wikilink") 및 [응용 소프트웨어](../Page/응용_소프트웨어.md "wikilink") 모음집이다. 이 응용 소프트웨어는 도스 기반 [IBM 호환 PC에서](https://ko.wikipedia.org/wiki/IBM_호환_PC "wikilink") 작동된다. 원래 PC/GEOS라는 이름으로 출시되었다. 이 패키지는 나중에 **지오웍스 앙상블**(GeoWorks Ensemble)로 바뀌었고, 그 후 **뉴딜 오피스**(NewDeal Office), 그리고 현재는 **브레드박스 앙상블**(Breadbox Ensemble)로 이름이 바뀌었다. 핸드헬드 플랫폼을 위한 버전도 출시되었다.
@@ -61,7 +61,7 @@ GEOS-SC는 [일본](../Page/일본.md "wikilink") 휴대전화 시장을 위한 
 
 ## 각주
 
-[분류:모바일 운영 체제](https://ko.wikipedia.org/wiki/분류:모바일_운영_체제 "wikilink") [분류:도스용 소프트웨어](https://ko.wikipedia.org/wiki/분류:도스용_소프트웨어 "wikilink") [분류:운영 체제 API](https://ko.wikipedia.org/wiki/분류:운영_체제_API "wikilink")
+[분류:모바일 운영 체제](https://ko.wikipedia.org/wiki/분류:모바일_운영_체제 "wikilink") [분류:도스 소프트웨어](https://ko.wikipedia.org/wiki/분류:도스_소프트웨어 "wikilink") [분류:운영 체제 API](https://ko.wikipedia.org/wiki/분류:운영_체제_API "wikilink")
 
 1.
 2.  <http://www.breadbox.com/newsdetail.asp?id=40>{{

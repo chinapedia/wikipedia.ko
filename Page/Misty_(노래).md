@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Misty \(\)](https://ko.wikipedia.org/wiki/Misty_\(\)).
+> This article is converted from Wikipedia: [Misty \(노래\)](https://ko.wikipedia.org/wiki/Misty_\(노래\)).
 
 
 **Misty**는 [1954년에](https://ko.wikipedia.org/wiki/1954년_싱글 "wikilink") 피아니스트 [에롤 가너에](../Page/에롤_가너.md "wikilink") 의해 쓰여진 재즈 스탠다드 곡이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ A. ](https://ko.wikipedia.org/wiki/_A._).
+> This article is converted from Wikipedia: [개릿 A. 호바트](https://ko.wikipedia.org/wiki/개릿_A._호바트).
 
 
 **개릿 어거스터스 호바트**(, [1844년](../Page/1844년.md "wikilink") [6월 3일](../Page/6월_3일.md "wikilink") \~ [1899년](../Page/1899년.md "wikilink") [11월 21일](../Page/11월_21일.md "wikilink"))는 [미국](../Page/미국.md "wikilink")의 제24대 부통령이었다.그는 [1897년](../Page/1897년.md "wikilink")부터 [1899년](../Page/1899년.md "wikilink")까지 [미국의 부통령이었다](../Page/미국의_부통령.md "wikilink"). 재임 중인 [1899년](../Page/1899년.md "wikilink") [11월 21일](../Page/11월_21일.md "wikilink") 병사하여 [1900년 미국 대통령 선거에서](../Page/1900년_미국_대통령_선거.md "wikilink") 당시 뉴욕 주 주지사였던 [시어도어 루스벨트가](../Page/시어도어_루스벨트.md "wikilink") [윌리엄 매킨리의](../Page/윌리엄_매킨리.md "wikilink") 러닝메이트가 되었다.

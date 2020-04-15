@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ q](https://ko.wikipedia.org/wiki/_q).
+> This article is converted from Wikipedia: [토빈의 q이론](https://ko.wikipedia.org/wiki/토빈의_q이론).
 
 
 **토빈의 q이론**(Tobin's q theory)은 전통적 투자함수의 주요 변수인 이자율 외에 투자유인에 대한 포괄적 정보를 고려하여 투자가 결정된다는 이론이다. [미국](../Page/미국.md "wikilink")의 경제학자 [제임스 토빈이](../Page/제임스_토빈.md "wikilink") 창시한 [투자](../Page/투자.md "wikilink") 이론이다.\[1\]

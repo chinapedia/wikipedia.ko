@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TP ](https://ko.wikipedia.org/wiki/TP_).
+> This article is converted from Wikipedia: [TP 마젬베](https://ko.wikipedia.org/wiki/TP_마젬베).
 
 
 **투 퓌이상 마젬베**(), 약칭 **TP 마젬베**()는 [콩고 민주 공화국](../Page/콩고_민주_공화국.md "wikilink") [루붐바시](https://ko.wikipedia.org/wiki/루붐바시 "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽 팀으로, 이전에는 **앙글레베르**()라는 이름으로 알려지기도 했다. 클럽 이름은 [프랑스어](../Page/프랑스어.md "wikilink")로 "전지전능한 마젬베"를 뜻한다.

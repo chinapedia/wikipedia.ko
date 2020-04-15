@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:32TeamBracket-Compact-NoSeeds](https://ko.wikipedia.org/wiki/:32TeamBracket-Compact-NoSeeds).
+> This article is converted from Wikipedia: [틀:32TeamBracket-Compact-NoSeeds](https://ko.wikipedia.org/wiki/틀:32TeamBracket-Compact-NoSeeds).
 
 
 <table>

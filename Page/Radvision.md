@@ -32,7 +32,7 @@
 
   - [라드비전](https://web.archive.org/web/20110317103640/http://www.radvision.co.kr/)
 
-[분류:화상 통화](https://ko.wikipedia.org/wiki/분류:화상_통화 "wikilink")
+[분류:화상 통화](https://ko.wikipedia.org/wiki/분류:화상_통화 "wikilink") [분류:원격 회의](https://ko.wikipedia.org/wiki/분류:원격_회의 "wikilink")
 
 1.  <http://finance.yahoo.com/q?s=rvsn> RADVision Ltd. Finance.yahoo.com
 2.  <http://www.thefreelibrary.com/RADVision+and+Intel+Target+Compatibility+Between+RADVision%27s+>...-a019467970 RADVision and Intel Target Compatibility Between RADVision's H.323/320 Videoconferencing Gateway And Intel's Business Video Conferencing And TeamStation Products

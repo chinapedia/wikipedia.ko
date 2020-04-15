@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  \(macOS\)](https://ko.wikipedia.org/wiki/__\(macOS\)).
+> This article is converted from Wikipedia: [앱 스토어 \(macOS\)](https://ko.wikipedia.org/wiki/앱_스토어_\(macOS\)).
 
 
 **맥 앱 스토어**(Mac App Store)는 [애플이](https://ko.wikipedia.org/wiki/애플_\(기업\) "wikilink") 운영하는 온라인 [OS X용](https://ko.wikipedia.org/wiki/OS_X "wikilink") [응용 프로그램](https://ko.wikipedia.org/wiki/응용_프로그램 "wikilink") 상점이다. [iOS](https://ko.wikipedia.org/wiki/iOS "wikilink")용 앱 스토어와 마찬가지로 애플리케이션 개발을 위해 연간 99달러의 애플 개발자 프로그램에 가입해야하며, 맥 앱 스토어를 통해 유통시킬 수 있다.

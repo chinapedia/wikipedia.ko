@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [      TORE!](https://ko.wikipedia.org/wiki/______TORE!).
+> This article is converted from Wikipedia: [보물 찾기 어드벤처 수수께끼 풀기 배틀 TORE!](https://ko.wikipedia.org/wiki/보물_찾기_어드벤처_수수께끼_풀기_배틀_TORE!).
 
 
 **보물 찾기 어드벤처 수수께끼 풀기 배틀 TORE\!**()는 [닛폰 TV 방송망에서](../Page/닛폰_TV_방송망.md "wikilink") 방송중인 퀴즈, 버라이어티 프로그램이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ RC420TP](https://ko.wikipedia.org/wiki/_RC420TP).
+> This article is converted from Wikipedia: [신진 RC420TP](https://ko.wikipedia.org/wiki/신진_RC420TP).
 
 
 **신진 RC420TP**는 [신진자동차공업](../Page/신진자동차공업.md "wikilink")(現 [대우버스](https://ko.wikipedia.org/wiki/대우버스 "wikilink"))이 [일본](../Page/일본.md "wikilink") [히노와의](https://ko.wikipedia.org/wiki/히노자동차 "wikilink") 기술 제휴로 RC320P 터보 사양을 도입하여 [1971년](../Page/1971년.md "wikilink")부터 [1972년](../Page/1972년.md "wikilink")까지 면허 생산한 대형 리어엔진 고속 버스이다.

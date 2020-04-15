@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Daum TEKKEN CRASH Season2](https://ko.wikipedia.org/wiki/Daum_TEKKEN_CRASH_Season2).
+> This article is converted from Wikipedia: [Daum배 TEKKEN CRASH Season2](https://ko.wikipedia.org/wiki/Daum배_TEKKEN_CRASH_Season2).
 
 
 **Daum배 TEKKEN CRASH Season2**는 대한민국의 이스포츠 대회 중 하나로 격투 게임인 [철권](../Page/철권.md "wikilink")이 주종목이다.

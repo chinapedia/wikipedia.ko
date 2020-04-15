@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [ABX ](https://ko.wikipedia.org/wiki/ABX_).
+> This article is converted from Wikipedia: [ABX 에어](https://ko.wikipedia.org/wiki/ABX_에어).
 
 
-**ABX 에어** ()는 [미국](../Page/미국.md "wikilink")의 화물 항공사로 총 183개 노선을 취항하고 있다. 본사는 [미국](../Page/미국.md "wikilink") [오하이오주](../Page/오하이오주.md "wikilink") 클린턴 카운티에 위치해 있으며 [1980년](../Page/1980년.md "wikilink")에 설립했다. 계열사는 [미국](../Page/미국.md "wikilink")의 화물 항공사인 [에어 트랜스포트 인터내셔널](../Page/에어_트랜스포트_인터내셔널.md "wikilink"), [캐피탈 카고 인터내셔널이](https://ko.wikipedia.org/wiki/캐피탈_카고_인터내셔널 "wikilink") 있다.
+**ABX 에어**()는 [미국](../Page/미국.md "wikilink")의 화물 항공사로 총 183개 노선을 취항하고 있다. 본사는 [미국](../Page/미국.md "wikilink") [오하이오주](../Page/오하이오주.md "wikilink") 클린턴 카운티에 위치해 있으며 [1980년](../Page/1980년.md "wikilink")에 설립했다. 계열사는 [미국](../Page/미국.md "wikilink")의 화물 항공사인 [에어 트랜스포트 인터내셔널](../Page/에어_트랜스포트_인터내셔널.md "wikilink"), [캐피탈 카고 인터내셔널이](https://ko.wikipedia.org/wiki/캐피탈_카고_인터내셔널 "wikilink") 있다.
 
 ## 역사
 

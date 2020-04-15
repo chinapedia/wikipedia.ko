@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ FC  ](https://ko.wikipedia.org/wiki/_FC__).
+> This article is converted from Wikipedia: [첼시 FC의 감독 목록](https://ko.wikipedia.org/wiki/첼시_FC의_감독_목록).
 
 
 이 목록은 **[첼시 FC의](../Page/첼시_FC.md "wikilink") 감독 목록**이다.

@@ -71,7 +71,7 @@
 <tr class="even">
 <td><p>6회</p></td>
 <td><p><a href="../Page/1월_10일.md" title="wikilink">1월 10일</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/트러블메이커" title="wikilink">트러블메이커</a>, <a href="../Page/캔_(음악_그룹).md" title="wikilink">캔</a>, <a href="https://ko.wikipedia.org/wiki/코요태" title="wikilink">코요태</a>, 서영은, 김조한<br />
+<td><p><a href="https://ko.wikipedia.org/wiki/트러블메이커" title="wikilink">트러블메이커</a>, <a href="../Page/캔_(음악_그룹).md" title="wikilink">캔</a>, <a href="../Page/코요태.md" title="wikilink">코요태</a>, 서영은, 김조한<br />
 더블에이, 쇼콜라, BOM, 퍼스트, F.I.X, X-5</p></td>
 </tr>
 <tr class="odd">

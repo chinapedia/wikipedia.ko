@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:SSC   ](https://ko.wikipedia.org/wiki/:SSC___).
+> This article is converted from Wikipedia: [틀:SSC 나폴리 선수 명단](https://ko.wikipedia.org/wiki/틀:SSC_나폴리_선수_명단).
 
 
 <onlyinclude></onlyinclude>

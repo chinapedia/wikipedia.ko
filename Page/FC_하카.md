@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FC ](https://ko.wikipedia.org/wiki/FC_).
+> This article is converted from Wikipedia: [FC 하카](https://ko.wikipedia.org/wiki/FC_하카).
 
 
 **FC 하카**(FC Haka)는 [핀란드](../Page/핀란드.md "wikilink") [피르칸마 지역의](https://ko.wikipedia.org/wiki/피르칸마_지역 "wikilink") [발케아코스키](https://ko.wikipedia.org/wiki/발케아코스키 "wikilink") 지구를 연고로 하는 [축구](../Page/축구.md "wikilink") 클럽이다. 이 팀은 [핀란드](../Page/핀란드.md "wikilink")에서 성공한 [축구](../Page/축구.md "wikilink") 클럽 가운데 하나로 꼽히고 있으며 [베이카우스리가](../Page/베이카우스리가.md "wikilink") 우승 9회, [핀란드 컵](https://ko.wikipedia.org/wiki/핀란드_컵 "wikilink") 우승 12회의 기록을 갖고 있다.
@@ -17,6 +17,6 @@
 
 ## 외부 링크
 
-  - [공식 홈페이지](http://www.fchaka.fi/)
+  - [공식 홈페이지](https://web.archive.org/web/20200116013301/http://fchaka.fi/)
 
 [분류:1934년 설립된 축구단](https://ko.wikipedia.org/wiki/분류:1934년_설립된_축구단 "wikilink") [분류:핀란드의 축구단](https://ko.wikipedia.org/wiki/분류:핀란드의_축구단 "wikilink") [\*](https://ko.wikipedia.org/wiki/분류:FC_하카 "wikilink")

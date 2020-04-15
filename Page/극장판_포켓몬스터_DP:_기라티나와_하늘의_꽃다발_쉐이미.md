@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  DP:    ](https://ko.wikipedia.org/wiki/__DP:____).
+> This article is converted from Wikipedia: [극장판 포켓몬스터 DP: 기라티나와 하늘의 꽃다발 쉐이미](https://ko.wikipedia.org/wiki/극장판_포켓몬스터_DP:_기라티나와_하늘의_꽃다발_쉐이미).
 
 
 〈**극장판 포켓몬스터 기라티나와 하늘의 꽃다발 쉐이미**〉(劇場版ポケットモンスター ダイヤモンド&パール ギラティナと氷空の花束 シェイミ)는 [2008년](../Page/2008년.md "wikilink") [7월 19일에](../Page/7월_19일.md "wikilink") 개봉된 [TV 애니메이션](../Page/애니메이션.md "wikilink")〈[포켓몬스터](../Page/포켓몬스터.md "wikilink")〉의 [극장판](https://ko.wikipedia.org/wiki/포켓몬스터_\(극장판\) "wikilink") 제11기이다.
@@ -46,4 +46,4 @@
   - [레지기가스](https://ko.wikipedia.org/wiki/레지기가스 "wikilink")
     제로가 반전 세계에서 현실 세계를 공격하자 위기를 느껴 깨어났다. [맘모꾸리](../Page/맘모꾸리.md "wikilink") 무리들과 힘을 합쳐 현실 세계의 균형 붕괴를 막는다.
 
-[분류:2008년 애니메이션 영화](https://ko.wikipedia.org/wiki/분류:2008년_애니메이션_영화 "wikilink") [분류:포켓몬스터 극장판](https://ko.wikipedia.org/wiki/분류:포켓몬스터_극장판 "wikilink") [분류:일본어 영화 작품](https://ko.wikipedia.org/wiki/분류:일본어_영화_작품 "wikilink")
+[분류:2008년 애니메이션 영화](https://ko.wikipedia.org/wiki/분류:2008년_애니메이션_영화 "wikilink") [분류:포켓몬스터 극장판](https://ko.wikipedia.org/wiki/분류:포켓몬스터_극장판 "wikilink") [분류:일본어 영화 작품](https://ko.wikipedia.org/wiki/분류:일본어_영화_작품 "wikilink") [분류:일본의 애니메이션 영화](https://ko.wikipedia.org/wiki/분류:일본의_애니메이션_영화 "wikilink")

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [C  ](https://ko.wikipedia.org/wiki/C__).
+> This article is converted from Wikipedia: [C 문자 분류](https://ko.wikipedia.org/wiki/C_문자_분류).
 
 
 **C 문자 분류**는 [C 프로그래밍 언어에서](https://ko.wikipedia.org/wiki/C_프로그래밍_언어 "wikilink") [ANSI C 표준 라이브러리의](../Page/C_표준_라이브러리.md "wikilink") 함수에 의해 제공되는 명령의 하나이다.

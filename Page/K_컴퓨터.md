@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [K ](https://ko.wikipedia.org/wiki/K_).
+> This article is converted from Wikipedia: [K 컴퓨터](https://ko.wikipedia.org/wiki/K_컴퓨터).
 
 
 [thumb](https://ko.wikipedia.org/wiki/파일:Keisoku-Fujitsu.jpg "wikilink") 제조.\]\] **K 컴퓨터**(K computer, 케이 컴퓨터\[1\])는 [후지쯔](../Page/후지쯔.md "wikilink")가 생산한 [슈퍼컴퓨터](../Page/슈퍼컴퓨터.md "wikilink")로, [일본](../Page/일본.md "wikilink") [고베 시](https://ko.wikipedia.org/wiki/고베_시 "wikilink") [이화학연구소](../Page/이화학연구소.md "wikilink") 캠퍼스에 설치되어 있다.\[2\]\[3\]\[4\] K 컴퓨터는 80,000개 이상의 계사나 노드와 더불어 [분산 메모리](https://ko.wikipedia.org/wiki/분산_메모리 "wikilink") 구조에 기반을 둔다.\[5\]
@@ -19,7 +19,7 @@
 
   - [RIKEN Advanced Institute for Computational Science](https://web.archive.org/web/20111105014401/http://www.aics.riken.jp/index_e.html)
   - [RIKEN Next-Generation Supercomputer R\&D Center](http://www.nsc.riken.jp/index-eng.html)
-  - [K computer: Fujitsu Global](http://www.fujitsu.com/global/about/tech/k/)
+  - [K computer: Fujitsu Global](https://web.archive.org/web/20120316135423/http://www.fujitsu.com/global/about/tech/k/)
   - [Special Interview: Taking on the Challenge of a 10-Petaflop Computer, RIKEN News, No. 298, April 2006.](https://web.archive.org/web/20120311072800/http://www.riken.go.jp/engn/r-world/info/release/news/2006/apr/index.html#frol_01)
 
 [분류:슈퍼컴퓨터](https://ko.wikipedia.org/wiki/분류:슈퍼컴퓨터 "wikilink") [분류:2011년 과학](https://ko.wikipedia.org/wiki/분류:2011년_과학 "wikilink") [분류:후지쯔](https://ko.wikipedia.org/wiki/분류:후지쯔 "wikilink") [분류:이화학연구소](https://ko.wikipedia.org/wiki/분류:이화학연구소 "wikilink")

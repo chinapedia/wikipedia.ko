@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KBS ](https://ko.wikipedia.org/wiki/KBS_).
+> This article is converted from Wikipedia: [KBS 한국어능력시험](https://ko.wikipedia.org/wiki/KBS_한국어능력시험).
 
 
 **KBS 한국어능력시험**은 [한국방송공사](../Page/한국방송공사.md "wikilink")가 주관하는 한국어 능력 시험이다. [문화체육관광부](https://ko.wikipedia.org/wiki/문화체육관광부 "wikilink")가 공인하는 국가공인 자격증 시험으로\[1\] 시험 결과로 나온 자격증은 공무원 임용 승진, 언론 직종 입사, 기업 취업에 활용된다.\[2\]\[3\] 처음으로 실시된 2004년에 2번 시험이 주최되었고, 2006년부터 해마다 4회 정도 주최된다.\[4\] 한국어교원자격\[5\]심사와는 무관한 시험이며 응시자격에는 제한이 없으나 외국인 혹은 한국어를 [모국어](https://ko.wikipedia.org/wiki/모국어 "wikilink")로 하지 않는 사람들을 대상으로 한 한국어능력시험(TOPIK)\[6\]과는 별개다. 성적은 성적 발표일로부터 2년간 유효하다.

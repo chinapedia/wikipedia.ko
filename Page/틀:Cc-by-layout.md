@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Cc-by-layout](https://ko.wikipedia.org/wiki/:Cc-by-layout).
+> This article is converted from Wikipedia: [틀:Cc-by-layout](https://ko.wikipedia.org/wiki/틀:Cc-by-layout).
 
 
 <includeonly>

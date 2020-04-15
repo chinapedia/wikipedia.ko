@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Eyes On Me \(\)](https://ko.wikipedia.org/wiki/Eyes_On_Me_\(\)).
+> This article is converted from Wikipedia: [Eyes On Me \(슈퍼플라이\)](https://ko.wikipedia.org/wiki/Eyes_On_Me_\(슈퍼플라이\)).
 
 
 《**Eyes On Me**》는 [슈퍼플라이](https://ko.wikipedia.org/wiki/슈퍼플라이 "wikilink")가 [2010년](../Page/2010년.md "wikilink") [12월 15일에](../Page/12월_15일.md "wikilink") 발매한 CD+DVD 싱글이다.
