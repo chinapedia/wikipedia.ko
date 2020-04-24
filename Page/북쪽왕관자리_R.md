@@ -13,7 +13,7 @@
 
 ## 각주
 
-[분류:G형 초거성](https://ko.wikipedia.org/wiki/분류:G형_초거성 "wikilink") [분류:북쪽왕관자리](https://ko.wikipedia.org/wiki/분류:북쪽왕관자리 "wikilink") [분류:헨리 드레이퍼 목록 천체](https://ko.wikipedia.org/wiki/분류:헨리_드레이퍼_목록_천체 "wikilink") [분류:HR 천체](https://ko.wikipedia.org/wiki/분류:HR_천체 "wikilink") [분류:히파르코스 천체](https://ko.wikipedia.org/wiki/분류:히파르코스_천체 "wikilink")
+[분류:G형 초거성](https://ko.wikipedia.org/wiki/분류:G형_초거성 "wikilink") [분류:북쪽왕관자리](https://ko.wikipedia.org/wiki/분류:북쪽왕관자리 "wikilink") [분류:헨리 드레이퍼 목록 천체](https://ko.wikipedia.org/wiki/분류:헨리_드레이퍼_목록_천체 "wikilink") [분류:HR 천체](https://ko.wikipedia.org/wiki/분류:HR_천체 "wikilink") [분류:히파르코스 천체](https://ko.wikipedia.org/wiki/분류:히파르코스_천체 "wikilink") [분류:2MASS 천체](https://ko.wikipedia.org/wiki/분류:2MASS_천체 "wikilink")
 
 1.
 2.

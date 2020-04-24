@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [THYME](https://ko.wikipedia.org/wiki/THYME).
 
 
-**THYME**(타임)은, [일본](../Page/일본.md "wikilink")의 락밴드이다.“[THYME](https://ko.wikipedia.org/wiki/Thyme_\(식물\) "wikilink")”은 [허브의](https://ko.wikipedia.org/wiki/허브_\(식물\) "wikilink") 한 종으로「용기」라는 [꽃말](../Page/꽃말.md "wikilink")을 가지고있다.
+**THYME**(타임)은 [일본](../Page/일본.md "wikilink")의 락밴드이다.“[THYME](https://ko.wikipedia.org/wiki/Thyme_\(식물\) "wikilink")”은 [허브의](https://ko.wikipedia.org/wiki/허브_\(식물\) "wikilink") 한 종으로「용기」라는 [꽃말](../Page/꽃말.md "wikilink")을 가지고있다.
 
 ## 개요
 

@@ -26,9 +26,7 @@
 
 ## 외부 링크
 
-  - [공식 웹사이트](http://www.chromium.org/chromium-os)
-  - [크로미엄 OS Hexxeh판](https://web.archive.org/web/20111105230536/http://chromeos.hexxeh.net/)
-
+  -
 [분류:리눅스 배포판](https://ko.wikipedia.org/wiki/분류:리눅스_배포판 "wikilink") [분류:구글 크롬](https://ko.wikipedia.org/wiki/분류:구글_크롬 "wikilink") [분류:구글의 소프트웨어](https://ko.wikipedia.org/wiki/분류:구글의_소프트웨어 "wikilink") [분류:ARM 운영 체제](https://ko.wikipedia.org/wiki/분류:ARM_운영_체제 "wikilink") [분류:X86 운영 체제](https://ko.wikipedia.org/wiki/분류:X86_운영_체제 "wikilink")
 
 1.  [Official Google Blog: Releasing the Chromium OS open source project](http://googleblog.blogspot.com/2009/11/releasing-chromium-os-open-source.html)

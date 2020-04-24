@@ -3,7 +3,7 @@
 
 **미코얀구레비치 MiG-15**(, )는 [소련](../Page/소련.md "wikilink")의 [제트 전투기이다](https://ko.wikipedia.org/wiki/전투기#제트_전투기 "wikilink"). 흔히 **미그-15**라고 줄여 부른다.
 
-미그-15는 [후퇴익](https://ko.wikipedia.org/wiki/후퇴익 "wikilink")을 도입한 최초의 제트기들 가운데 하나로 [한국 전쟁](../Page/한국_전쟁.md "wikilink") 초기에 뛰어난 성능을 자랑하였다. 1960년대 [베트남 전쟁에](../Page/베트남_전쟁.md "wikilink") [미코얀-구레비치 MiG-17이](../Page/미코얀-구레비치_MiG-17.md "wikilink") 투입될 때 까지 소련을 비롯한 [공산주의](../Page/공산주의.md "wikilink") 국가의 주력 [전투기](https://ko.wikipedia.org/wiki/전투기 "wikilink")였다. 미그-15는 소련에서 12,000 대 이상이 생산된 것으로 알려져 있으며, 다른 나라의 라이선스 생산까지 합하면 총 생산대수는 18,000대 이상으로 추정된다. Mig-15는 [미국 공군의](../Page/미국_공군.md "wikilink") [F-86 세이버와](../Page/F-86_세이버.md "wikilink") 함께 한국 전쟁에 투입된 전투기 중 가장 성능이 우수했던 기종으로 평가받고 있다.\[1\]
+미그-15는 [후퇴익](https://ko.wikipedia.org/wiki/후퇴익 "wikilink")을 도입한 최초의 제트기들 가운데 하나로 [한국 전쟁](../Page/한국_전쟁.md "wikilink") 초기에 뛰어난 성능을 자랑하였다. 1960년대 [베트남 전쟁에](../Page/베트남_전쟁.md "wikilink") [미코얀-구레비치 MiG-17이](../Page/미코얀-구레비치_MiG-17.md "wikilink") 투입될 때까지 소련을 비롯한 [공산주의](../Page/공산주의.md "wikilink") 국가의 주력 [전투기](https://ko.wikipedia.org/wiki/전투기 "wikilink")였다. 미그-15는 소련에서 12,000 대 이상이 생산된 것으로 알려져 있으며, 다른 나라의 라이선스 생산까지 합하면 총 생산대수는 18,000대 이상으로 추정된다. Mig-15는 [미국 공군의](../Page/미국_공군.md "wikilink") [F-86 세이버와](../Page/F-86_세이버.md "wikilink") 함께 한국 전쟁에 투입된 전투기 중 가장 성능이 우수했던 기종으로 평가받고 있다.\[1\]
 
 ## 개발
 

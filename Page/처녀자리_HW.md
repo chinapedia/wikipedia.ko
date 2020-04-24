@@ -61,7 +61,7 @@
 ## 외부 링크
 
   -
-[분류:처녀자리](https://ko.wikipedia.org/wiki/분류:처녀자리 "wikilink") [분류:B형 준왜성](https://ko.wikipedia.org/wiki/분류:B형_준왜성 "wikilink") [분류:M형 주계열성](https://ko.wikipedia.org/wiki/분류:M형_주계열성 "wikilink") [분류:이중성](https://ko.wikipedia.org/wiki/분류:이중성 "wikilink") [분류:외계 행성](https://ko.wikipedia.org/wiki/분류:외계_행성 "wikilink") [분류:행성계](https://ko.wikipedia.org/wiki/분류:행성계 "wikilink") [분류:알골형 변광성](https://ko.wikipedia.org/wiki/분류:알골형_변광성 "wikilink") [분류:히파르코스 천체](https://ko.wikipedia.org/wiki/분류:히파르코스_천체 "wikilink")
+[분류:처녀자리](https://ko.wikipedia.org/wiki/분류:처녀자리 "wikilink") [분류:B형 준왜성](https://ko.wikipedia.org/wiki/분류:B형_준왜성 "wikilink") [분류:M형 주계열성](https://ko.wikipedia.org/wiki/분류:M형_주계열성 "wikilink") [분류:이중성](https://ko.wikipedia.org/wiki/분류:이중성 "wikilink") [분류:외계 행성](https://ko.wikipedia.org/wiki/분류:외계_행성 "wikilink") [분류:행성계](https://ko.wikipedia.org/wiki/분류:행성계 "wikilink") [분류:알골형 변광성](https://ko.wikipedia.org/wiki/분류:알골형_변광성 "wikilink") [분류:히파르코스 천체](https://ko.wikipedia.org/wiki/분류:히파르코스_천체 "wikilink") [분류:2MASS 천체](https://ko.wikipedia.org/wiki/분류:2MASS_천체 "wikilink")
 
 1.  168분 또는 2시간 48분.
 2.

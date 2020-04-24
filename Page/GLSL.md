@@ -51,7 +51,7 @@ GLSL 버전은 OpenGL API의 특정 버전과 함께 진화해왔다. GLSL과 Op
  }
 ```
 
-ftransform() 는 GLSL 1.40과 GLSL ES 1.0에서 지원되지 않는다. 대신, 프로그래머는 새로운 OpenGL 3.1 표준에 따라 모델 뷰 행렬과 투영 행렬을 명시적으로 지정할 필요가 있다.
+ftransform()는 GLSL 1.40과 GLSL ES 1.0에서 지원되지 않는다. 대신, 프로그래머는 새로운 OpenGL 3.1 표준에 따라 모델 뷰 행렬과 투영 행렬을 명시적으로 지정할 필요가 있다.
 
 ``` glsl
  # version 140

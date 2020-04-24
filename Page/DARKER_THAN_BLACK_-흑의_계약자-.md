@@ -282,7 +282,7 @@ Physicalquantity Alternation Natural Deconstruction Organized Research Agency
 신주쿠를 중심으로 활동하고 있는 홍콩계 마피아. 계약자(웨이 치쥰)에 의해 보스 및 간부가 몰살되었기 때문에 사실상 괴멸한다.
 
   - 웨이 즈쥔()
-    성 - [쿠사오 타케시](https://ko.wikipedia.org/wiki/쿠사오_타케시 "wikilink") / [위훈](../Page/위훈.md "wikilink") / [로버트 매컬럼](https://ko.wikipedia.org/wiki/로버트_매컬럼 "wikilink")
+    성 - [쿠사오 타케시](../Page/쿠사오_타케시.md "wikilink") / [위훈](../Page/위훈.md "wikilink") / [로버트 매컬럼](https://ko.wikipedia.org/wiki/로버트_매컬럼 "wikilink")
     청룡당의 구성원. 앨리스 왕의 호위 겸 운전기사.
     계약자이며, 청룡당 괴멸을 목표로 앨리스와 공모, 그 능력을 사용해 간부를 차례차례로 살해한다. 그러나, 그의 진짜 목적은 스스로가 청룡당을 장악하는 것이었고, 결국은 앨리스를 배반해 죽인다.
     메시에 코드는 VI-952. 계약 능력은 〈물질 교환형 텔레포테이션〉의 일종. 자신의 혈액을 대상에게 묻힌 상태로 손가락을 튀기면, 피가 묻은 부분만큼이 잘린 것처럼 되어 어딘가에 전송된다. 능력의 매개가 되는 자신의 혈액을 튀기기 위해 매번 자해행위가 있어, 〈스스로 피를 흘린다〉라는 행위 그 자체가 그의 계약 대가이다. 능력과 함께, 체술·스피드에도 우수하지만, 헤이에게 져서 도주해 이브닝 프림로즈에 참가한다. 이후의 그에 관해서는 〈이브닝 프림로즈 (Evening Primrose/EPR)〉를 참조.
@@ -364,7 +364,7 @@ Physicalquantity Alternation Natural Deconstruction Organized Research Agency
 <!-- end list -->
 
   - 웨이 즈쥔()
-    성우 - [쿠사오 타케시](https://ko.wikipedia.org/wiki/쿠사오_타케시 "wikilink") / [위훈](../Page/위훈.md "wikilink") / [로버트 매컬럼](https://ko.wikipedia.org/wiki/로버트_매컬럼 "wikilink")
+    성우 - [쿠사오 타케시](../Page/쿠사오_타케시.md "wikilink") / [위훈](../Page/위훈.md "wikilink") / [로버트 매컬럼](https://ko.wikipedia.org/wiki/로버트_매컬럼 "wikilink")
     청룡당의 원구성원. 그 때의 에피소드는 〈청룡당〉을 참조.
     헤이와의 전투에 진 후, 다시 그와 만나 싸우기 위해 앰버의 권유에 응해 EPR에 참가한다. 얼굴의 왼쪽 반에는 헤이와 전투시에 생긴 화상의 흉터가 남아 있다. 앰버의 사자로서 헤이를 지옥문 아래로 안내한 후, 그에게 진 굴욕을 풀려고 재전투에 들어가지만 패배해 사망. 임종 때 게이트를 파괴해 헤이에게 길을 열어주었다.
 

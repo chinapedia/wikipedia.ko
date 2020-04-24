@@ -1466,7 +1466,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/1998년_FIFA_월드컵" title="wikilink">1998</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/이상헌" title="wikilink">이상헌</a> (),  <a href="https://ko.wikipedia.org/wiki/최용수_(축구인)" title="wikilink">최용수</a> ()</p></td>
+<td><p><a href="../Page/이상헌_(1975년).md" title="wikilink">이상헌</a> (),  <a href="https://ko.wikipedia.org/wiki/최용수_(축구인)" title="wikilink">최용수</a> ()</p></td>
 <td><div style="text-align: center;">
 <p>2</p>
 </div></td>

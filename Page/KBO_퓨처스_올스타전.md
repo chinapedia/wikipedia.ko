@@ -11,16 +11,16 @@
 
   -
     퓨처스 나눔 - [SK 와이번스](../Page/SK_와이번스.md "wikilink"), [LG 트윈스](../Page/LG_트윈스.md "wikilink"), [두산 베어스](../Page/두산_베어스.md "wikilink"), [고양 히어로즈](../Page/고양_히어로즈.md "wikilink"), [경찰](../Page/경찰_야구단.md "wikilink"), [kt 위즈](https://ko.wikipedia.org/wiki/kt_위즈 "wikilink")
-    퓨처스 드림 - [KIA 타이거즈](https://ko.wikipedia.org/wiki/KIA_타이거즈 "wikilink"), [삼성 라이온즈](https://ko.wikipedia.org/wiki/삼성_라이온즈 "wikilink"), [롯데 자이언츠](../Page/롯데_자이언츠.md "wikilink"), [상무](../Page/상무_피닉스_\(야구\).md "wikilink"), [한화 이글스](../Page/한화_이글스.md "wikilink"), [NC 다이노스](../Page/NC_다이노스.md "wikilink")
+    퓨처스 드림 - [KIA 타이거즈](https://ko.wikipedia.org/wiki/KIA_타이거즈 "wikilink"), [삼성 라이온즈](../Page/삼성_라이온즈.md "wikilink"), [롯데 자이언츠](../Page/롯데_자이언츠.md "wikilink"), [상무](../Page/상무_피닉스_\(야구\).md "wikilink"), [한화 이글스](../Page/한화_이글스.md "wikilink"), [NC 다이노스](../Page/NC_다이노스.md "wikilink")
 
 ## 퓨처스 올스타전 MVP
 
 | 시즌    | MVP                                                           | 소속팀                                                           | 소속리그   |
 | ----- | ------------------------------------------------------------- | ------------------------------------------------------------- | ------ |
-| 2007년 | [채태인](../Page/채태인.md "wikilink")                              | [삼성 라이온즈](https://ko.wikipedia.org/wiki/삼성_라이온즈 "wikilink")   | 남부리그   |
+| 2007년 | [채태인](../Page/채태인.md "wikilink")                              | [삼성 라이온즈](../Page/삼성_라이온즈.md "wikilink")                      | 남부리그   |
 | 2008년 | [전준우](../Page/전준우.md "wikilink")                              | [롯데 자이언츠](../Page/롯데_자이언츠.md "wikilink")                      |        |
 | 2009년 | [이명환](https://ko.wikipedia.org/wiki/이명환_\(야구_선수\) "wikilink") | [KIA 타이거즈](https://ko.wikipedia.org/wiki/KIA_타이거즈 "wikilink") |        |
-| 2010년 | [김종호](../Page/김종호_\(1984년\).md "wikilink")                    | [삼성 라이온즈](https://ko.wikipedia.org/wiki/삼성_라이온즈 "wikilink")   |        |
+| 2010년 | [김종호](../Page/김종호_\(1984년\).md "wikilink")                    | [삼성 라이온즈](../Page/삼성_라이온즈.md "wikilink")                      |        |
 | 2011년 | [김남석](../Page/김재율.md "wikilink")                              | [경찰 야구단](../Page/경찰_야구단.md "wikilink")                        | 북부리그   |
 | 2012년 | 우천으로 취소됨                                                      |                                                               |        |
 | 2013년 | [정진호](../Page/정진호_\(1988년\).md "wikilink")                    | [상무](../Page/상무_피닉스_\(야구\).md "wikilink")                     | 남부리그   |
@@ -37,7 +37,7 @@
 
 당시 이벤트 경기로 올드스타 팀과 조마조마 팀이 겨루었다. 이 경기에서는 올드스타 팀이 8:2로 승리했다.
 
-홈런 레이스에서는 [채태인](../Page/채태인.md "wikilink")([삼성 라이온즈](https://ko.wikipedia.org/wiki/삼성_라이온즈 "wikilink"))과 [조평호](https://ko.wikipedia.org/wiki/조평호 "wikilink")([현대 유니콘스](../Page/현대_유니콘스.md "wikilink"))가 결승에서 겨루어 [조평호](https://ko.wikipedia.org/wiki/조평호 "wikilink")가 우승을 거머쥐었다.
+홈런 레이스에서는 [채태인](../Page/채태인.md "wikilink")([삼성 라이온즈](../Page/삼성_라이온즈.md "wikilink"))과 [조평호](https://ko.wikipedia.org/wiki/조평호 "wikilink")([현대 유니콘스](../Page/현대_유니콘스.md "wikilink"))가 결승에서 겨루어 [조평호](https://ko.wikipedia.org/wiki/조평호 "wikilink")가 우승을 거머쥐었다.
 
 경기는 3:3 무승부로 종료되었다.
 
@@ -47,7 +47,7 @@
 
 [2008년](../Page/2008년.md "wikilink") [8월 17일](../Page/8월_17일.md "wikilink") 제2회도 [의암야구장](../Page/의암야구장.md "wikilink")에서 열렸다.
 
-홈런 레이스에서는 [모상기](../Page/모상기.md "wikilink")([삼성 라이온즈](https://ko.wikipedia.org/wiki/삼성_라이온즈 "wikilink"))와 [조평호](https://ko.wikipedia.org/wiki/조평호 "wikilink")([서울 히어로즈](https://ko.wikipedia.org/wiki/넥센_히어로즈 "wikilink"))가 결승에서 겨루어 [모상기](../Page/모상기.md "wikilink")가 우승을 거머쥐었다.
+홈런 레이스에서는 [모상기](../Page/모상기.md "wikilink")([삼성 라이온즈](../Page/삼성_라이온즈.md "wikilink"))와 [조평호](https://ko.wikipedia.org/wiki/조평호 "wikilink")([서울 히어로즈](https://ko.wikipedia.org/wiki/넥센_히어로즈 "wikilink"))가 결승에서 겨루어 [모상기](../Page/모상기.md "wikilink")가 우승을 거머쥐었다.
 
 경기는 2회 말 남부의 대거 득점(10점)에 힘입어 12:2로 남부리그의 승리로 종료되었다.
 
@@ -67,7 +67,7 @@
 
 [2010년](../Page/2010년.md "wikilink") [7월 19일](../Page/7월_19일.md "wikilink") 제4회는 [제주오라종합경기장 야구장에서](../Page/제주오라종합경기장_야구장.md "wikilink") 열렸다.
 
-최우수 선수로는 상무에서 갓 제대하고 복귀한 [외야수](https://ko.wikipedia.org/wiki/외야수 "wikilink") [김종호](../Page/김종호_\(1984년\).md "wikilink")([삼성 라이온즈](https://ko.wikipedia.org/wiki/삼성_라이온즈 "wikilink"))가 뽑혔다.
+최우수 선수로는 상무에서 갓 제대하고 복귀한 [외야수](https://ko.wikipedia.org/wiki/외야수 "wikilink") [김종호](../Page/김종호_\(1984년\).md "wikilink")([삼성 라이온즈](../Page/삼성_라이온즈.md "wikilink"))가 뽑혔다.
 
 이후 [김종호는](../Page/김종호_\(1984년\).md "wikilink") [NC 다이노스의](../Page/NC_다이노스.md "wikilink") 전력보강 선수로 이적하여, 붙박이 리드오프가 된다.
 

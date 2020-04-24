@@ -157,7 +157,7 @@
 <td><p><a href="../Page/2012년.md" title="wikilink">2012년</a><br />
 <small><em><a href="../Page/2012년_AFC_프레지던트컵.md" title="wikilink">상세정보</a></em></small></p></td>
 <td></td>
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/FC_이스티클롤" title="wikilink">이스티클롤</a></strong></p></td>
+<td><p><strong><a href="../Page/FC_이스티클롤.md" title="wikilink">이스티클롤</a></strong></p></td>
 <td><p><strong>2 - 1</strong></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/마르카즈_샤바브_알아마리" title="wikilink">마르카즈 샤바브 알아마리</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/FC_도르도이_비슈케크" title="wikilink">도르도이 비슈케크</a><br />
@@ -231,7 +231,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/FC_이스티클롤" title="wikilink">이스티클롤</a></p></td>
+<td><p><a href="../Page/FC_이스티클롤.md" title="wikilink">이스티클롤</a></p></td>
 <td><p>1</p></td>
 <td><p>0</p></td>
 <td><p>2012</p></td>

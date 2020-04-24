@@ -3,7 +3,7 @@
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Daewoo_Rezzo_2.0_CDX_2003_\(11845548826\).jpg "wikilink")
 
-**GM대우 레조**(GM Daewoo Rezzo)는 [대우자동차(한국GM의 전신)가](https://ko.wikipedia.org/wiki/한국GM "wikilink") [2000년 1월부터](https://ko.wikipedia.org/wiki/2000년_1월 "wikilink") [2007년 6월까지](../Page/2007년_6월.md "wikilink") 생산한 중형 [미니밴](../Page/미니밴.md "wikilink")이다. 디자인이 기아 파크타운과 비슷하다.
+**GM대우 레조**(GM Daewoo Rezzo)는 [대우자동차(한국GM의 전신)가](https://ko.wikipedia.org/wiki/한국GM "wikilink") [2000년 1월부터](https://ko.wikipedia.org/wiki/2000년_1월 "wikilink") [2007년 6월까지](../Page/2007년_6월.md "wikilink") 생산한 중형 [미니밴](../Page/미니밴.md "wikilink")이다.
 
 {{-}}
 

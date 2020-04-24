@@ -108,7 +108,7 @@ o</p></td>
 토 07:00<br />
 일 07:00</br>일 07:30</p></td>
 <td><p><a href="../Page/김현정의_뉴스쇼.md" title="wikilink">김현정의 뉴스쇼</a><br />
-<a href="https://ko.wikipedia.org/wiki/주말_뉴스쇼_(라디오_프로그램)" title="wikilink">주말 뉴스쇼</a><br />
+<a href="https://ko.wikipedia.org/wiki/주말_뉴스쇼_(라디오_프로그램)" title="wikilink">신지혜의 주말 뉴스쇼</a><br />
 <a href="https://ko.wikipedia.org/wiki/영락의_강단" title="wikilink">영락의 강단</a></br><a href="../Page/진리의_말씀.md" title="wikilink">진리의 말씀</a></br></p></td>
 <td><p>o o<br />
 o</p></td>

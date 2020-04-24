@@ -11,7 +11,7 @@
 
 <references/>
 
-[분류:용골자리](https://ko.wikipedia.org/wiki/분류:용골자리 "wikilink") [분류:거문고자리 베타형 변광성](https://ko.wikipedia.org/wiki/분류:거문고자리_베타형_변광성 "wikilink") [분류:볼프-레이에별](https://ko.wikipedia.org/wiki/분류:볼프-레이에별 "wikilink") [분류:분광쌍성](https://ko.wikipedia.org/wiki/분류:분광쌍성 "wikilink")
+[분류:용골자리](https://ko.wikipedia.org/wiki/분류:용골자리 "wikilink") [분류:거문고자리 베타형 변광성](https://ko.wikipedia.org/wiki/분류:거문고자리_베타형_변광성 "wikilink") [분류:볼프-레이에별](https://ko.wikipedia.org/wiki/분류:볼프-레이에별 "wikilink") [분류:분광쌍성](https://ko.wikipedia.org/wiki/분류:분광쌍성 "wikilink") [분류:2MASS 천체](https://ko.wikipedia.org/wiki/분류:2MASS_천체 "wikilink")
 
 1.
 2.  [WR 20a](http://jumk.de/astronomie/big-stars/wr20a.shtml). umk.de/astronomie. 2009-07-24 확인.

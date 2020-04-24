@@ -82,9 +82,9 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/수도권_(대한민국)" title="wikilink">수도권</a><br />
 (<a href="../Page/서울특별시.md" title="wikilink">서울</a>·<a href="https://ko.wikipedia.org/wiki/인천광역시" title="wikilink">인천</a>·<a href="https://ko.wikipedia.org/wiki/경기도" title="wikilink">경기</a>)</p></td>
 <td><p><a href="../Page/SBS_(대한민국의_방송사).md" title="wikilink">SBS</a></p></td>
-<td><p>매년 12월 마지막주 방송(9개 지역 민방 네트워크로 동시 송출)<br />
+<td><p>매년 12월 마지막주 방송(9개 지역 민방 네트워크로 릴레이 송출)<br />
 (방송 일정 및 시간은 편성 상황에 따라 유동적으로 달라질 수 있음)</p></td>
-<td><p>프로그램 제작국</p></td>
+<td><p>키국(프로그램 제작국)</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/부산광역시" title="wikilink">부산</a>·<a href="https://ko.wikipedia.org/wiki/경상남도" title="wikilink">경남</a></p></td>

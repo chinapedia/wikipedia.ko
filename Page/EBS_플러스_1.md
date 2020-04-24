@@ -41,7 +41,7 @@
   - [한국교육방송공사](../Page/한국교육방송공사.md "wikilink")
   - [EBS 플러스 2](../Page/EBS_플러스_2.md "wikilink")
   - [EBSi](../Page/EBSi.md "wikilink")
-  - [EBS english](https://ko.wikipedia.org/wiki/EBS_english "wikilink")
+  - [EBS english](../Page/EBS_english.md "wikilink")
 
 ## 외부 링크
 

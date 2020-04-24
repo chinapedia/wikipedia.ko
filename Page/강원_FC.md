@@ -273,11 +273,16 @@
 <td></td>
 </tr>
 <tr class="even">
+<td><p>의무트레이너</p></td>
+<td><p>민대홍</p></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p>U-18팀 의무트레이너</p></td>
 <td><p>최규호</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>

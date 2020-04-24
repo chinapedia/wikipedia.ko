@@ -20,7 +20,7 @@
 | 순위 | 팀                                                             | 승패   | 승점   |
 | -- | ------------------------------------------------------------- | ---- | ---- |
 | 1  | [SK텔레콤 T1](https://ko.wikipedia.org/wiki/SK텔레콤_T1 "wikilink") | 7승2패 | \+10 |
-| 2  | [KTF 매직엔스](https://ko.wikipedia.org/wiki/KT_롤스터 "wikilink")   | 6승3패 | \+3  |
+| 2  | [KTF 매직엔스](../Page/KT_롤스터.md "wikilink")                      | 6승3패 | \+3  |
 | 3  | [MBC게임 히어로](../Page/MBC게임_히어로.md "wikilink")                  | 5승4패 | \+2  |
 | 4  | [CJ 엔투스](https://ko.wikipedia.org/wiki/CJ_엔투스 "wikilink")     | 5승4패 | \+1  |
 | 5  | [한빛 스타즈](../Page/웅진_스타즈.md "wikilink")                        | 4승5패 | \+3  |
@@ -41,7 +41,7 @@
 
 | 순위 | 팀                                                             | 승패     | 승점   |
 | -- | ------------------------------------------------------------- | ------ | ---- |
-| 1  | [KTF 매직엔스](https://ko.wikipedia.org/wiki/KT_롤스터 "wikilink")   | 13승7패  | \+13 |
+| 1  | [KTF 매직엔스](../Page/KT_롤스터.md "wikilink")                      | 13승7패  | \+13 |
 | 2  | [CJ 엔투스](https://ko.wikipedia.org/wiki/CJ_엔투스 "wikilink")     | 13승7패  | \+6  |
 | 3  | [STX SouL](../Page/SouL_\(e스포츠\).md "wikilink")               | 12승8패  | \+13 |
 | 4  | [한빛 스타즈](../Page/웅진_스타즈.md "wikilink")                        | 12승8패  | \+9  |
@@ -69,7 +69,7 @@
 | 3  | [하이트 스파키즈](https://ko.wikipedia.org/wiki/하이트_스파키즈 "wikilink") | 12승6패 | \-3  |
 | 4  | [이스트로](../Page/이스트로.md "wikilink")                            | 10승8패 | \+13 |
 | 5  | [웅진 스타즈](../Page/웅진_스타즈.md "wikilink")                        | 10승8패 | \+4  |
-| 6  | [KT 매직엔스](https://ko.wikipedia.org/wiki/KT_롤스터 "wikilink")    | 10승8패 | \-2  |
+| 6  | [KT 매직엔스](../Page/KT_롤스터.md "wikilink")                       | 10승8패 | \-2  |
 | 7  | [MBC게임 히어로](../Page/MBC게임_히어로.md "wikilink")                  | 7승11패 | \-10 |
 | 8  | [위메이드 폭스](../Page/위메이드_폭스.md "wikilink")                      | 7승11패 | \-10 |
 | 9  | [화승 OZ](../Page/화승_OZ.md "wikilink")                          | 6승12패 | \-8  |
@@ -92,7 +92,7 @@
 | 1  | [CJ 엔투스](https://ko.wikipedia.org/wiki/CJ_엔투스 "wikilink")     | 10  | 8 | 2 | 80% | \-  | 14   | 27 | 13 | 0  | 0  | 0  |
 | 2  | [웅진 스타즈](../Page/웅진_스타즈.md "wikilink")                        | 10  | 8 | 2 | 80% | \-  | 10   | 26 | 16 | 0  | 1  | 0  |
 | 3  | [SK텔레콤 T1](https://ko.wikipedia.org/wiki/SK텔레콤_T1 "wikilink") | 10  | 7 | 3 | 70% | 1.0 | 11   | 25 | 13 | 1  | 3  | 1  |
-| 4  | [KT 롤스터](https://ko.wikipedia.org/wiki/KT_롤스터 "wikilink")     | 10  | 6 | 4 | 60% | 1.0 | 6    | 22 | 16 | 0  | 0  | 0  |
+| 4  | [KT 롤스터](../Page/KT_롤스터.md "wikilink")                        | 10  | 6 | 4 | 60% | 1.0 | 6    | 22 | 16 | 0  | 0  | 0  |
 | 5  | [화승 OZ](../Page/화승_OZ.md "wikilink")                          | 10  | 5 | 5 | 50% | 1.0 | 3    | 20 | 16 | 1  | 2  | 1  |
 | 6  | [위메이드 폭스](../Page/위메이드_폭스.md "wikilink")                      | 10  | 5 | 5 | 50% | 0.0 | \-3  | 19 | 22 | 0  | 1  | 0  |
 | 6  | [MBC게임 히어로](../Page/MBC게임_히어로.md "wikilink")                  | 10  | 5 | 5 | 50% | 0.0 | \-3  | 20 | 22 | 1  | 2  | 1  |
@@ -110,7 +110,7 @@
 | 3  | [장민철](../Page/장민철.md "wikilink")                              | Protoss | [MBC게임 히어로](../Page/MBC게임_히어로.md "wikilink")                  | 11  | 10 | 1 | 91%  |
 | 3  | [정우용](https://ko.wikipedia.org/wiki/정우용_\(프로게이머\) "wikilink") | Terran  | [CJ 엔투스](https://ko.wikipedia.org/wiki/CJ_엔투스 "wikilink")     | 14  | 10 | 4 | 71%  |
 | 5  | [최호선](../Page/최호선.md "wikilink")                              | Terran  | [SK텔레콤 T1](https://ko.wikipedia.org/wiki/SK텔레콤_T1 "wikilink") | 12  | 9  | 3 | 75%  |
-| 6  | [황병영](https://ko.wikipedia.org/wiki/황병영 "wikilink")           | Terran  | [KT 롤스터](https://ko.wikipedia.org/wiki/KT_롤스터 "wikilink")     | 16  | 9  | 7 | 56%  |
+| 6  | [황병영](https://ko.wikipedia.org/wiki/황병영 "wikilink")           | Terran  | [KT 롤스터](../Page/KT_롤스터.md "wikilink")                        | 16  | 9  | 7 | 56%  |
 | 7  | [이승석](../Page/이승석.md "wikilink")                              | Zerg    | [SK텔레콤 T1](https://ko.wikipedia.org/wiki/SK텔레콤_T1 "wikilink") | 10  | 8  | 2 | 80%  |
 | 8  | [유영진](https://ko.wikipedia.org/wiki/유영진 "wikilink")           | Terran  | [CJ 엔투스](https://ko.wikipedia.org/wiki/CJ_엔투스 "wikilink")     | 11  | 8  | 3 | 73%  |
 | 9  | [한두열](https://ko.wikipedia.org/wiki/한두열 "wikilink")           | Zerg    | [CJ 엔투스](https://ko.wikipedia.org/wiki/CJ_엔투스 "wikilink")     | 13  | 8  | 5 | 62%  |
@@ -139,7 +139,7 @@
 | 2  | [화승 OZ](../Page/화승_OZ.md "wikilink")                          | 14  | 10 | 4  | 71.4% | 1.0 | 13   | 60 | 46 | 1  | 2  | 1  |
 | 3  | [STX SouL](../Page/SouL_\(e스포츠\).md "wikilink")               | 14  | 9  | 5  | 64.3% | 2.0 | 11   | 60 | 48 | 1  | 2  | 1  |
 | 4  | [웅진 스타즈](../Page/웅진_스타즈.md "wikilink")                        | 14  | 7  | 7  | 50%   | 4.0 | 0    | 51 | 51 | 0  | 0  | 0  |
-| 5  | [KT 롤스터](https://ko.wikipedia.org/wiki/KT_롤스터 "wikilink")     | 14  | 6  | 8  | 42.9% | 5.0 | \-9  | 49 | 57 | 1  | 2  | 1  |
+| 5  | [KT 롤스터](../Page/KT_롤스터.md "wikilink")                        | 14  | 6  | 8  | 42.9% | 5.0 | \-9  | 49 | 57 | 1  | 2  | 1  |
 | 6  | [MBC게임 히어로](../Page/MBC게임_히어로.md "wikilink")                  | 14  | 5  | 9  | 35.7% | 6.0 | \-11 | 44 | 55 | 0  | 1  | 0  |
 | 7  | [SK텔레콤 T1](https://ko.wikipedia.org/wiki/SK텔레콤_T1 "wikilink") | 14  | 5  | 9  | 35.7% | 6.0 | \-17 | 42 | 57 | 2  | 2  | 2  |
 | 8  | [삼성전자 칸](../Page/삼성_갤럭시_\(e스포츠\).md "wikilink")               | 14  | 3  | 11 | 21.4% | 8.0 | \-18 | 49 | 66 | 1  | 3  | 1  |

@@ -9,7 +9,7 @@
 
 ## 줄거리
 
-[마리오](../Page/마리오.md "wikilink"), [루이지](../Page/루이지.md "wikilink"), 노랑 [키노피오](../Page/키노피오.md "wikilink"), 파랑 키노피오가 [피치 공주의](../Page/피치_공주.md "wikilink") 생일을 축하하는 파티를 열었다. 그 때, 거대한 케이크 하나가 성 안에 들어왔고, 그 안에서 쿠파주니어와 부하들이 튀어나와 피치 공주를 납치해 갔다.
+[마리오](../Page/마리오.md "wikilink"), [루이지](../Page/루이지.md "wikilink"), 노랑 [키노피오](../Page/키노피오.md "wikilink"), 파랑 [키노피오](../Page/키노피오.md "wikilink")가 [피치 공주의](../Page/피치_공주.md "wikilink") 생일을 축하하는 파티를 열었다. 그 때, 거대한 케이크 하나가 성 안에 들어왔고, 그 안에서 [쿠파주니어](https://ko.wikipedia.org/wiki/쿠파주니어 "wikilink")와 부하들이 튀어나와 피치 공주를 납치해 가는 배경이다.
 
 ## 아이템
 

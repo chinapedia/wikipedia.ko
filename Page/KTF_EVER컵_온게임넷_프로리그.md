@@ -50,7 +50,7 @@
 | -- | ----------------------------------------------------------- | --- | - | - | ----- | ------ |
 | 1  | [한빛 스타즈](../Page/웅진_스타즈.md "wikilink")                      | 12  | 9 | 3 | 75%   | **25** |
 | 2  | [동양 오리온](https://ko.wikipedia.org/wiki/SK텔레콤_T1 "wikilink") | 12  | 8 | 4 | 66.7% | **23** |
-| 3  | [KTF 매직엔스](https://ko.wikipedia.org/wiki/KT_롤스터 "wikilink") | 12  | 8 | 4 | 66.7% | **20** |
+| 3  | [KTF 매직엔스](../Page/KT_롤스터.md "wikilink")                    | 12  | 8 | 4 | 66.7% | **20** |
 | 4  | [G.O](https://ko.wikipedia.org/wiki/CJ_엔투스 "wikilink")      | 12  | 7 | 5 | 58.3% | **18** |
 | 5  | [IS](../Page/화승_OZ.md "wikilink")                           | 12  | 4 | 8 | 33.3% | **16** |
 | 6  | [AMD 드림팀](../Page/이스트로.md "wikilink")                       | 12  | 3 | 9 | 25%   | **11** |
@@ -64,7 +64,7 @@
 | 순위 | 팀                                                               | 경기수 | 승 | 패 | 승률    | 승점     | 진출여부        |
 | -- | --------------------------------------------------------------- | --- | - | - | ----- | ------ | ----------- |
 |    |                                                                 |     |   |   |       |        |             |
-| 1  | **[KTF 매직엔스](https://ko.wikipedia.org/wiki/KT_롤스터 "wikilink")** | 7   | 6 | 1 | 85.7% | **14** | **2라운드 진출** |
+| 1  | **[KTF 매직엔스](../Page/KT_롤스터.md "wikilink")**                    | 7   | 6 | 1 | 85.7% | **14** | **2라운드 진출** |
 |    |                                                                 |     |   |   |       |        |             |
 | 2  | **[동양 오리온](https://ko.wikipedia.org/wiki/SK텔레콤_T1 "wikilink")** | 7   | 5 | 2 | 71.4% | **13** | **2라운드 진출** |
 |    |                                                                 |     |   |   |       |        |             |
@@ -216,7 +216,7 @@
 
 <!-- end list -->
 
-  - 우승 : [동양 오리온](https://ko.wikipedia.org/wiki/SK텔레콤_T1 "wikilink") , 준우승 : [한빛 스타즈](../Page/웅진_스타즈.md "wikilink") , 3위 : [KTF 매직엔스](https://ko.wikipedia.org/wiki/KT_롤스터 "wikilink") , 4위 : [GO](https://ko.wikipedia.org/wiki/CJ_엔투스 "wikilink")
+  - 우승 : [동양 오리온](https://ko.wikipedia.org/wiki/SK텔레콤_T1 "wikilink") , 준우승 : [한빛 스타즈](../Page/웅진_스타즈.md "wikilink") , 3위 : [KTF 매직엔스](../Page/KT_롤스터.md "wikilink") , 4위 : [GO](https://ko.wikipedia.org/wiki/CJ_엔투스 "wikilink")
 
 ## 각주
 

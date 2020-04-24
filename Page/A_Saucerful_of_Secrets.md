@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [A Saucerful of Secrets](https://ko.wikipedia.org/wiki/A_Saucerful_of_Secrets).
 
 
-《A Saucerful of Secrets》는 [영국](../Page/영국.md "wikilink") 밴드 [핑크 플로이드가](../Page/핑크_플로이드.md "wikilink") [1968년](../Page/1968년.md "wikilink") 발매한 앨범이다. 밴드 통산 두 번째 앨범으로, 초기 리더였던 [시드 배릿이](https://ko.wikipedia.org/wiki/시드_배릿 "wikilink") 마지막으로 참여한 앨범이다. 또한 이 앨범에는 [데이빗 길모어가](https://ko.wikipedia.org/wiki/데이빗_길모어 "wikilink") 가입후 처음으로 참여했다.
+《**A Saucerful of Secrets**》는 [영국](../Page/영국.md "wikilink") 밴드 [핑크 플로이드가](../Page/핑크_플로이드.md "wikilink") [1968년](../Page/1968년.md "wikilink") 발매한 앨범이다. 밴드 통산 두 번째 앨범으로, 초기 리더였던 [시드 배릿이](https://ko.wikipedia.org/wiki/시드_배릿 "wikilink") 마지막으로 참여한 앨범이다. 또한 이 앨범에는 [데이빗 길모어가](https://ko.wikipedia.org/wiki/데이빗_길모어 "wikilink") 가입후 처음으로 참여했다.
 
 영국 차트 9위를 기록했다.
 

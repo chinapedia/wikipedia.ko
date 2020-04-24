@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [FUNKY MONKEY BABYS](https://ko.wikipedia.org/wiki/FUNKY_MONKEY_BABYS).
 
 
-**FUNKY MONKEY BABYS**([일본어](../Page/일본어.md "wikilink"):ファンキー・モンキー・ベイビーズ,[한국어](../Page/한국어.md "wikilink"):펑키 몽키 베이비즈)는, [2004년](../Page/2004년.md "wikilink")에 결성된 [일본](../Page/일본.md "wikilink")의 [남성](https://ko.wikipedia.org/wiki/남성 "wikilink") [음악 그룹이다](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink"). 통칭은 펑몽.
+**FUNKY MONKEY BABYS**([일본어](../Page/일본어.md "wikilink"):ファンキー・モンキー・ベイビーズ,[한국어](../Page/한국어.md "wikilink"):펑키 몽키 베이비즈)는 [2004년](../Page/2004년.md "wikilink")에 결성된 [일본](../Page/일본.md "wikilink")의 [남성](https://ko.wikipedia.org/wiki/남성 "wikilink") [음악 그룹이다](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink"). 통칭은 펑몽.
 
 2013년 6월 1,2일에 도쿄 돔 라스트 콘서트를 가진 후 해산했다.\[1\].
 

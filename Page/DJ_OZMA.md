@@ -19,7 +19,7 @@
 ### 싱글
 
   - 《アゲ ♂ アゲ ♂ EVERY ☆ 騎士》 (2006년 3월 22일) : [DJ DOC의](../Page/DJ_DOC.md "wikilink") 〈Run to you〉를 리메이크(원곡은 [Boney M의](https://ko.wikipedia.org/wiki/보니_M "wikilink") 〈Daddy Cool〉.).
-  - 《純情 〜スンジョン〜》 (2006년 [7월 12일](../Page/7월_12일.md "wikilink")) : [한국의](../Page/대한민국.md "wikilink") 혼성 그룹 [코요태](https://ko.wikipedia.org/wiki/코요태 "wikilink")의 〈순정〉을 리메이크.
+  - 《純情 〜スンジョン〜》 (2006년 [7월 12일](../Page/7월_12일.md "wikilink")) : [한국의](../Page/대한민국.md "wikilink") 혼성 그룹 [코요태](../Page/코요태.md "wikilink")의 〈순정〉을 리메이크.
   - 《One Night》 (2006년 [9월 27일](../Page/9월_27일.md "wikilink")) : [DJ DOC의](../Page/DJ_DOC.md "wikilink") 〈One Night〉를 리메이크.
   - 《疾風迅雷命 \~ BOM-BA-YE \~》 ([2007년](../Page/2007년.md "wikilink") [4월 25일](../Page/4월_25일.md "wikilink")) : [한국의](../Page/대한민국.md "wikilink") 힙합 그룹 [사이드 비의](../Page/사이드_비.md "wikilink") <봄바예>를 리메이크.
   - 《E.YO.NE\!\!》 (2007년 [6월 13일](../Page/6월_13일.md "wikilink"))
@@ -40,7 +40,7 @@
 
   - [기시단](../Page/기시단.md "wikilink")
   - [DJ DOC](../Page/DJ_DOC.md "wikilink")
-  - [코요태](https://ko.wikipedia.org/wiki/코요태 "wikilink")
+  - [코요태](../Page/코요태.md "wikilink")
 
 ## 외부 링크
 

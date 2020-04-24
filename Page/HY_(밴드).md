@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [HY \(밴드\)](https://ko.wikipedia.org/wiki/HY_\(밴드\)).
 
 
-**HY** (에이치와이)는, 일본의 혼성 5인조 [록 밴드이다](https://ko.wikipedia.org/wiki/록_밴드 "wikilink"). 구성원 모두 [오키나와현](../Page/오키나와현.md "wikilink") [우루마 시출신이다](https://ko.wikipedia.org/wiki/우루마_시 "wikilink").
+**HY** (에이치와이)는 일본의 혼성 5인조 [록 밴드이다](https://ko.wikipedia.org/wiki/록_밴드 "wikilink"). 구성원 모두 [오키나와현](../Page/오키나와현.md "wikilink") [우루마 시출신이다](https://ko.wikipedia.org/wiki/우루마_시 "wikilink").
 
 2000년 결성이래, 인디즈로 활동하고 있다. 레이블은 개인 레이블인 ‘히가시야케나건설’()이고, (레이블명이며 실제 건설회사는 아니다).
 

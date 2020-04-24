@@ -54,7 +54,7 @@
 <!-- end list -->
 
   - 카나보우 박사(금봉 박사)
-    성우 : [이상헌](https://ko.wikipedia.org/wiki/이상헌 "wikilink")
+    성우 : [이상헌](../Page/이상헌_\(성우\).md "wikilink")
     [오니마루의](https://ko.wikipedia.org/wiki/오니마루_타케시 "wikilink") 부하인 [매드 사이언티스트](https://ko.wikipedia.org/wiki/매드_사이언티스트 "wikilink").
 
 ### 달

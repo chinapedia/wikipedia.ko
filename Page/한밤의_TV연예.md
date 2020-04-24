@@ -88,7 +88,7 @@
   - [2007년](../Page/2007년.md "wikilink") [3월 28일](../Page/3월_28일.md "wikilink") : 7시 45분부터 [2008년 하계 올림픽](https://ko.wikipedia.org/wiki/2008년_하계_올림픽 "wikilink") 축구예선 [대한민국](../Page/대한민국.md "wikilink") VS [우즈베키스탄](../Page/우즈베키스탄.md "wikilink") 중계 방송에 따른 결방
   - [2007년](../Page/2007년.md "wikilink") [9월 26일](../Page/9월_26일.md "wikilink") : [추석](../Page/추석.md "wikilink")특집 방송으로 인한 결방
   - [2007년](../Page/2007년.md "wikilink") [10월 17일](../Page/10월_17일.md "wikilink") : 2007 프로야구플레이오프3차전 [두산 베어스](../Page/두산_베어스.md "wikilink") VS [한화 이글스](../Page/한화_이글스.md "wikilink") 야구 중계 방송에 따른 결방
-  - [2007년](../Page/2007년.md "wikilink") [12월 19일](../Page/12월_19일.md "wikilink") : [대통령 선거개표방송으로](https://ko.wikipedia.org/wiki/대통령_선거 "wikilink") 인한 결방
+  - [2007년](../Page/2007년.md "wikilink") [12월 19일](../Page/12월_19일.md "wikilink") : [대통령 선거개표방송으로](../Page/대통령_선거.md "wikilink") 인한 결방
   - [2008년](../Page/2008년.md "wikilink") [1월 30일](../Page/1월_30일.md "wikilink") : [2008 베이징 올림픽](https://ko.wikipedia.org/wiki/2008_베이징_올림픽 "wikilink") 남자핸드볼 최종예선 [대한민국](../Page/대한민국.md "wikilink") VS [일본](../Page/일본.md "wikilink") 중계 방송에 따른 결방
   - [2008년](../Page/2008년.md "wikilink") [3월 26일](../Page/3월_26일.md "wikilink") : [2010 남아공 월드컵아시아지역](https://ko.wikipedia.org/wiki/2010_남아공_월드컵 "wikilink") 3차예선[대한민국](../Page/대한민국.md "wikilink") VS [북한](https://ko.wikipedia.org/wiki/북한 "wikilink") 중계 방송에 따른 결방
   - [2008년](../Page/2008년.md "wikilink") [4월 9일](../Page/4월_9일.md "wikilink") : 제18대 [국회의원](../Page/국회의원.md "wikilink") 선거 개표방송으로 인한 결방
@@ -103,7 +103,7 @@
   - [2012년](../Page/2012년.md "wikilink") [2월 29일](../Page/2월_29일.md "wikilink") : [2014 브라질 월드컵](https://ko.wikipedia.org/wiki/브라질_월드컵 "wikilink") 아시아지역 3차예선 [대한민국](../Page/대한민국.md "wikilink") VS [쿠웨이트](../Page/쿠웨이트.md "wikilink") 중계 방송에 따른 결방
   - [2012년](../Page/2012년.md "wikilink") [4월 11일](../Page/4월_11일.md "wikilink") : 제19대 [국회의원](../Page/국회의원.md "wikilink") 선거 개표방송으로 인한 결방
   - [2012년](../Page/2012년.md "wikilink") [8월 8일](../Page/8월_8일.md "wikilink") : [2012 런던올림픽](https://ko.wikipedia.org/wiki/런던올림픽 "wikilink") 중계 방송에 따른 결방
-  - [2012년](../Page/2012년.md "wikilink") [10월 24일](../Page/10월_24일.md "wikilink") :2012 프로야구[한국시리즈](https://ko.wikipedia.org/wiki/한국시리즈 "wikilink") 1차전 [SK 와이번스](../Page/SK_와이번스.md "wikilink") VS [삼성 라이온즈](https://ko.wikipedia.org/wiki/삼성_라이온즈 "wikilink") 야구 중계 방송에 따른 결방
+  - [2012년](../Page/2012년.md "wikilink") [10월 24일](../Page/10월_24일.md "wikilink") :2012 프로야구[한국시리즈](https://ko.wikipedia.org/wiki/한국시리즈 "wikilink") 1차전 [SK 와이번스](../Page/SK_와이번스.md "wikilink") VS [삼성 라이온즈](../Page/삼성_라이온즈.md "wikilink") 야구 중계 방송에 따른 결방
   - [2012년](../Page/2012년.md "wikilink") [12월 19일](../Page/12월_19일.md "wikilink") : [대통령](../Page/대통령.md "wikilink")선거 개표방송으로 인한 결방
   - [2014년](../Page/2014년.md "wikilink") [4월 16일](../Page/4월_16일.md "wikilink") \~ [4월 23일](../Page/4월_23일.md "wikilink") : [세월호 침몰 사고의](../Page/세월호_침몰_사고.md "wikilink") 여파로 2주간 결방
   - [2014년](../Page/2014년.md "wikilink") [6월 4일](../Page/6월_4일.md "wikilink") : 지방선거 개표방송으로 인한 결방

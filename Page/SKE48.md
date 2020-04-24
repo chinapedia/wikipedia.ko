@@ -335,18 +335,6 @@ SKE48는 오프닝 멤버 오디션 합격자 22명과 AKB 연구생에서부터
 <td><p>리더</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/카타오카_나루미" title="wikilink">카타오카 나루미</a></p></td>
-<td><p>片岡成美</p></td>
-<td><p>かたおか なるみ</p></td>
-<td></td>
-<td><p>7기</p></td>
-<td><p>제스트</p></td>
-<td></td>
-<td><p>최연소<br />
-2020년 4월 2일 졸업예정</p></td>
-<td></td>
-</tr>
-<tr class="odd">
 <td><p><strong><a href="https://ko.wikipedia.org/wiki/키타노_루카" title="wikilink">키타노 루카</a></strong></p></td>
 <td><p><strong>北野瑠華</strong></p></td>
 <td><p><strong>きたの るか</strong></p></td>
@@ -357,7 +345,7 @@ SKE48는 오프닝 멤버 오디션 합격자 22명과 AKB 연구생에서부터
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/시라이_코토노" title="wikilink">시라이 코토노</a></p></td>
 <td><p>白井琴望</p></td>
 <td><p>しらい ことの</p></td>
@@ -369,7 +357,7 @@ SKE48는 오프닝 멤버 오디션 합격자 22명과 AKB 연구생에서부터
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/소다_사리나" title="wikilink">소다 사리나</a></p></td>
 <td><p>惣田紗莉渚</p></td>
 <td><p>そうだ さりな</p></td>
@@ -381,7 +369,7 @@ SKE48는 오프닝 멤버 오디션 합격자 22명과 AKB 연구생에서부터
 <td><p>-</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/다카야나기_아카네" title="wikilink">다카야나기 아카네</a></p></td>
 <td><p>高柳明音</p></td>
 <td><p>たかやなぎ あかね</p></td>
@@ -393,7 +381,7 @@ SKE48는 오프닝 멤버 오디션 합격자 22명과 AKB 연구생에서부터
 졸업예정 (시기미정)</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/타케우치_사키" title="wikilink">타케우치 사키</a></p></td>
 <td><p>竹内彩姫</p></td>
 <td><p>たけうち さき</p></td>
@@ -404,7 +392,7 @@ SKE48는 오프닝 멤버 오디션 합격자 22명과 AKB 연구생에서부터
 <td><p>-</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/나카노_아이리" title="wikilink">나카노 아이리</a></p></td>
 <td><p>中野愛理</p></td>
 <td><p>なかの あいり</p></td>
@@ -416,7 +404,7 @@ SKE48는 오프닝 멤버 오디션 합격자 22명과 AKB 연구생에서부터
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/히다카_유즈키" title="wikilink">히다카 유즈키</a></p></td>
 <td><p>日高優月</p></td>
 <td><p>ひだか ゆづき</p></td>
@@ -427,7 +415,7 @@ SKE48는 오프닝 멤버 오디션 합격자 22명과 AKB 연구생에서부터
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/후루하타_나오" title="wikilink">후루하타 나오</a></p></td>
 <td><p>古畑奈和</p></td>
 <td><p>ふるはた なお</p></td>
@@ -438,7 +426,7 @@ SKE48는 오프닝 멤버 오디션 합격자 22명과 AKB 연구생에서부터
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/미즈노_아이리" title="wikilink">미즈노 아이리</a></p></td>
 <td><p>水野愛理</p></td>
 <td><p>みずの あいり</p></td>
@@ -450,7 +438,7 @@ SKE48는 오프닝 멤버 오디션 합격자 22명과 AKB 연구생에서부터
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -1058,22 +1046,21 @@ SKE48 극장 지배인</p></td>
 <td><p>高井つき奈</p></td>
 <td><p>たかい つきな</p></td>
 <td><p>2009년 8월 31일</p></td>
-<td><p>(<a href="../Page/스타더스트_프로모션.md" title="wikilink">스타더스트 프로모션</a>)</p></td>
-<td><p>전 <a href="https://ko.wikipedia.org/wiki/모모이로_클로버_Z" title="wikilink">모모이로 클로버</a></p></td>
+<td><p>-</p></td>
+<td><p>전<a href="https://ko.wikipedia.org/wiki/모모이로_클로버_Z" title="wikilink">모모이로 클로버멤버</a></p></td>
 <td><p>-</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/테즈카_마치코" title="wikilink">마에다 에이코</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/테즈카_마치코" title="wikilink">테즈카 마치코</a></p></td>
 <td><p>前田栄子</p></td>
 <td><p>まえだ えいこ</p></td>
 <td><p>2기</p></td>
 <td><p>2009년 11월 29일</p></td>
 <td><p>KII</p></td>
-<td><p>(AKS)</p></td>
-<td><p><a href="../Page/SDN48.md" title="wikilink">SDN48</a> 이적<br />
-현예명 : <a href="https://ko.wikipedia.org/wiki/테즈카_마치코" title="wikilink">테즈카 마치코</a> (手束真知子)</p></td>
+<td><p>-</p></td>
+<td><p>-</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="even">
@@ -1082,7 +1069,7 @@ SKE48 극장 지배인</p></td>
 <td><p>いちはら ゆり</p></td>
 <td><p>2009년 11월 30일</p></td>
 <td><p>선즈 엔터테인먼트</p></td>
-<td><p>전 디스커버리 엔터테인먼트 소속</p></td>
+<td><p>-</p></td>
 <td><p>-</p></td>
 <td></td>
 <td></td>
@@ -1105,8 +1092,7 @@ SKE48 극장 지배인</p></td>
 <td><p>2010년 5월 8일</p></td>
 <td><p>연</p></td>
 <td><p>-</p></td>
-<td><p>전 팀S<br />
-2010년 4월 1일에 연구생 강등</p></td>
+<td><p>-</p></td>
 <td><p>-</p></td>
 <td></td>
 </tr>
@@ -1115,8 +1101,7 @@ SKE48 극장 지배인</p></td>
 <td><p>森紗雪</p></td>
 <td><p>もり さゆき</p></td>
 <td><p>-</p></td>
-<td><p>전 팀S<br />
-2010년 4월 1일에 연구생 강등</p></td>
+<td><p>-</p></td>
 <td><p>-</p></td>
 <td></td>
 <td></td>
@@ -1128,7 +1113,7 @@ SKE48 극장 지배인</p></td>
 <td><p>まつした ゆい</p></td>
 <td><p>2011년 9월 30일</p></td>
 <td><p>S</p></td>
-<td><p>(비너스 엔터테인먼트)</p></td>
+<td><p>-</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td></td>
@@ -1152,7 +1137,7 @@ SKE48 극장 지배인</p></td>
 <td><p>2012년 3월 31일</p></td>
 <td><p>S</p></td>
 <td><p>미라이쿠루</p></td>
-<td><p>전 빅파파 소속</p></td>
+<td><p>-</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
@@ -1195,8 +1180,8 @@ SKE48 극장 지배인</p></td>
 <td><p>1기</p></td>
 <td><p>2012년 10월 23일</p></td>
 <td><p>S</p></td>
-<td><p>(<a href="http://joinus-ent.co.jp/">조이너스 엔터테인먼트</a>)</p></td>
-<td><p>전 팀S 리더</p></td>
+<td><p>-</p></td>
+<td><p>-</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
@@ -1225,8 +1210,8 @@ SKE48 극장 지배인</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/다카다_시오리" title="wikilink">다카다 시오리</a></p></td>
 <td><p>高田志織</p></td>
 <td><p>たかだ しおり</p></td>
-<td><p>(빅파파)</p></td>
-<td><p>언니는 <a href="https://ko.wikipedia.org/wiki/다카다_아야나" title="wikilink">다카다 아야나</a> (전 <a href="../Page/AKB48.md" title="wikilink">AKB48</a>)</p></td>
+<td><p>-</p></td>
+<td><p>언니는<a href="https://ko.wikipedia.org/wiki/다카다_아야나" title="wikilink">다카다 아야나</a>(전<a href="../Page/AKB48.md" title="wikilink">AKB48</a>졸업생)/현재는사업중</p></td>
 <td><p>-</p></td>
 <td></td>
 <td></td>
@@ -1237,7 +1222,7 @@ SKE48 극장 지배인</p></td>
 <td><p>平松可奈子</p></td>
 <td><p>ひらまつ かなこ</p></td>
 <td><p><a href="../Page/오스카_프로모션.md" title="wikilink">오스카 프로모션</a></p></td>
-<td><p>전 빅파파 소속</p></td>
+<td><p>-</p></td>
 <td><p>-</p></td>
 <td></td>
 <td></td>
@@ -1316,8 +1301,7 @@ SKE48 극장 지배인</p></td>
 <td><p>5기</p></td>
 <td><p>승</p></td>
 <td><p>-</p></td>
-<td><p>신 내정 팀KII<br />
-사퇴</p></td>
+<td><p>-</p></td>
 <td><p>-</p></td>
 <td></td>
 </tr>
@@ -1372,8 +1356,7 @@ SKE48 극장 지배인</p></td>
 <td><p>3기</p></td>
 <td><p>2014년 4월 24일</p></td>
 <td><p>트라이스톤 엔터테인먼트</p></td>
-<td><p><a href="../Page/AKB48.md" title="wikilink">AKB48</a> 팀4 이적<br />
-아사이 유우카 (팀E)의 고종 사촌 언니</p></td>
+<td><p>아사이 유우카 (팀E)의 고종 사촌 언니</p></td>
 <td><p>22위</p></td>
 <td></td>
 </tr>
@@ -1404,9 +1387,9 @@ SKE48 극장 지배인</p></td>
 <td><p>鬼頭桃菜</p></td>
 <td><p>きとう ももな</p></td>
 <td><p>원즈 더블</p></td>
-<td><p>현예명 : <a href="../Page/미카미_유아.md" title="wikilink">미카미 유아</a> (三上悠亜)<br />
-<a href="../Page/에비스_마스캇츠_1.5.md" title="wikilink">에비스 마스캇츠 1.5의</a> 멤버<br />
-<a href="../Page/허니팝콘.md" title="wikilink">허니팝콘</a>의 리더</p></td>
+<td><p>현예명:<a href="../Page/미카미_유아.md" title="wikilink">미카미 유아</a>(三上悠亜)<br />
+<a href="../Page/에비스_마스캇츠_1.5.md" title="wikilink">에비스 마스캇츠 1.5의멤버</a><br />
+<a href="../Page/허니팝콘.md" title="wikilink">허니팝콘</a>의리더</p></td>
 <td><p>-</p></td>
 <td></td>
 <td></td>
@@ -1453,8 +1436,7 @@ SKE48 극장 지배인</p></td>
 <td><p>2014년 9월 29일</p></td>
 <td><p>KII</p></td>
 <td><p>스카이 코퍼레이션</p></td>
-<td><p>전 TWIN PLANET 소속<br />
-전 킵스마일링 소속</p></td>
+<td><p>-</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="even">
@@ -1464,8 +1446,7 @@ SKE48 극장 지배인</p></td>
 <td><p>3기</p></td>
 <td><p>2014년 11월 27일</p></td>
 <td><p>센트럴 재팬</p></td>
-<td><p>전 팀S→E<br />
-현예명 : 키노시타 미쉘 (木下ミシェル)</p></td>
+<td><p>현예명 :키노시타 미쉘(木下ミシェル)</p></td>
 <td><p>40위</p></td>
 <td></td>
 </tr>
@@ -1477,8 +1458,7 @@ SKE48 극장 지배인</p></td>
 <td><p>2014년 12월 31일</p></td>
 <td><p>E</p></td>
 <td><p>알칸셸</p></td>
-<td><p>전 팀KII<br />
-아버지는 경륜 선수 야마다 유지</p></td>
+<td><p>아버지는경륜선수야마다 유지</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="even">
@@ -1488,9 +1468,7 @@ SKE48 극장 지배인</p></td>
 <td><p>4기</p></td>
 <td><p>KII</p></td>
 <td><p>피토네</p></td>
-<td><p>전 팀E<br />
-현예명 : honoka<br />
-전 스타레이 프로모션 소속</p></td>
+<td><p>현예명:honoka</p></td>
 <td><p>-</p></td>
 <td></td>
 </tr>
@@ -1524,8 +1502,7 @@ SKE48 극장 지배인</p></td>
 <td><p>2015년 3월 31일</p></td>
 <td><p>S</p></td>
 <td><p>센트럴 재팬</p></td>
-<td><p>전 팀S 부리더<br />
-전 팀S→연→KII</p></td>
+<td><p>-</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="even">
@@ -1533,9 +1510,7 @@ SKE48 극장 지배인</p></td>
 <td><p>中西優香</p></td>
 <td><p>なかにし ゆうか</p></td>
 <td><p>아크로스 엔터테인먼트</p></td>
-<td><p>전 AKB48 4기 연구생<br />
-전 SKE48 캡틴<br />
-전 팀S 리더</p></td>
+<td><p>-</p></td>
 <td><p>63위</p></td>
 <td></td>
 <td></td>
@@ -1548,8 +1523,7 @@ SKE48 극장 지배인</p></td>
 <td><p>2기</p></td>
 <td><p>KII</p></td>
 <td><p>-</p></td>
-<td><p>전 팀KII 리더<br />
-본명 : 春川瑠花</p></td>
+<td><p>본명 : 春川瑠花</p></td>
 <td><p>27위</p></td>
 <td></td>
 </tr>
@@ -1560,7 +1534,7 @@ SKE48 극장 지배인</p></td>
 <td><p>4기</p></td>
 <td><p>E</p></td>
 <td><p>ABP inc.</p></td>
-<td><p>전 팀KII</p></td>
+<td><p>-</p></td>
 <td><p>47위</p></td>
 <td></td>
 </tr>
@@ -1572,8 +1546,7 @@ SKE48 극장 지배인</p></td>
 <td><p>2015년 4월 3일</p></td>
 <td><p>KII</p></td>
 <td><p>Showtitle</p></td>
-<td><p>재적시는 <a href="../Page/NMB48.md" title="wikilink">NMB48</a> 팀M 겸임<br />
-본명 : 나카야마 나나 (中山菜々)</p></td>
+<td><p>본명:나카야마 나나(中山菜々)</p></td>
 <td><p>28위</p></td>
 </tr>
 <tr class="even">
@@ -1583,9 +1556,7 @@ SKE48 극장 지배인</p></td>
 <td><p>2기</p></td>
 <td><p>2015년 4월 30일</p></td>
 <td><p>스타레이 프로모션</p></td>
-<td><p>전 팀S<br />
-전 Unieek 소속<br />
-현예명 : あびる李帆</p></td>
+<td><p>현예명:あびる李帆</p></td>
 <td><p>74위</p></td>
 <td></td>
 </tr>
@@ -1597,7 +1568,7 @@ SKE48 극장 지배인</p></td>
 <td><p>2015년 5월 21일</p></td>
 <td><p>S</p></td>
 <td><p>roundcell</p></td>
-<td><p>재적시는 NMB48 팀BII 겸임</p></td>
+<td><p>현재는개인활동중</p></td>
 <td><p>15위</p></td>
 </tr>
 <tr class="even">
@@ -1605,8 +1576,8 @@ SKE48 극장 지배인</p></td>
 <td><p>田中菜津美</p></td>
 <td><p>たなか なつみ</p></td>
 <td><p>2015년 5월 28일</p></td>
-<td><p>AKS</p></td>
-<td><p>재적시는 <a href="../Page/HKT48.md" title="wikilink">HKT48</a> 팀H 겸임</p></td>
+<td><p>-</p></td>
+<td><p>-</p></td>
 <td><p>-</p></td>
 <td></td>
 <td></td>
@@ -1619,9 +1590,7 @@ SKE48 극장 지배인</p></td>
 <td><p>2015년 8월 31일</p></td>
 <td><p>E</p></td>
 <td><p>Grick</p></td>
-<td><p>전 팀S<br />
-전 팀E 리더<br />
-전 <a href="../Page/노기자카46.md" title="wikilink">노기자카46</a> 겸임</p></td>
+<td><p>현재는개인활동중</p></td>
 <td><p>5위</p></td>
 </tr>
 <tr class="even">
@@ -1644,7 +1613,7 @@ SKE48 극장 지배인</p></td>
 <td><p>2016년 1월 31일</p></td>
 <td><p>E</p></td>
 <td><p>박스 코퍼레이션</p></td>
-<td><p>전 팀E→S</p></td>
+<td><p>-</p></td>
 <td><p>53위</p></td>
 </tr>
 <tr class="even">
@@ -1654,8 +1623,7 @@ SKE48 극장 지배인</p></td>
 <td><p>4기</p></td>
 <td><p>2016년 2월 29일</p></td>
 <td><p>Mousa</p></td>
-<td><p>전 팀E 부리더<br />
-전 팀E 초대 리더</p></td>
+<td><p>-</p></td>
 <td><p>39위</p></td>
 <td></td>
 </tr>
@@ -1678,10 +1646,8 @@ SKE48 극장 지배인</p></td>
 <td><p>-</p></td>
 <td><p>2016년 3월 31일</p></td>
 <td><p>S</p></td>
-<td><p>(플레이브 엔터테인먼트)</p></td>
-<td><p>전 <a href="../Page/SNH48.md" title="wikilink">SNH48</a> 팀SII 겸임<br />
-전 팀S 리더<br />
-전 AKB48 팀K</p></td>
+<td><p>-</p></td>
+<td><p>-</p></td>
 <td><p>8위</p></td>
 </tr>
 <tr class="odd">
@@ -1703,7 +1669,7 @@ SKE48 극장 지배인</p></td>
 <td><p>2016년 5월 31일</p></td>
 <td><p>E</p></td>
 <td><p>선 뮤직 프로덕션</p></td>
-<td><p>전 팀S→KII</p></td>
+<td><p>-</p></td>
 <td><p>62위</p></td>
 </tr>
 <tr class="odd">
@@ -1713,7 +1679,7 @@ SKE48 극장 지배인</p></td>
 <td><p>4기</p></td>
 <td><p>2016년 8월 31일</p></td>
 <td><p>센트 포스</p></td>
-<td><p>전 E→KII</p></td>
+<td><p>-</p></td>
 <td><p>15위</p></td>
 <td></td>
 </tr>
@@ -1725,8 +1691,7 @@ SKE48 극장 지배인</p></td>
 <td><p>2016년 9월 30일</p></td>
 <td><p>S</p></td>
 <td><p>쓰리에스 스타일 프로</p></td>
-<td><p>전 팀E<br />
-전 산 오피스 소속</p></td>
+<td><p>-</p></td>
 <td><p>45위</p></td>
 </tr>
 <tr class="odd">
@@ -1737,9 +1702,7 @@ SKE48 극장 지배인</p></td>
 <td><p>2017년 2월 28일</p></td>
 <td><p>S</p></td>
 <td><p>TYK 프로모션</p></td>
-<td><p>전 팀KII<br />
-전 팀S 부리더<br />
-전 팀S 리더</p></td>
+<td><p>-</p></td>
 <td><p>62위</p></td>
 </tr>
 <tr class="even">
@@ -1759,7 +1722,7 @@ SKE48 극장 지배인</p></td>
 <td><p>あずま りおん</p></td>
 <td><p>2017년 3월 31일</p></td>
 <td><p>CREATIVE OFFICE CUE</p></td>
-<td><p>전 팀E</p></td>
+<td><p>-</p></td>
 <td><p>61위</p></td>
 <td></td>
 <td></td>
@@ -1783,8 +1746,7 @@ SKE48 극장 지배인</p></td>
 <td><p>2017년 5월 31일</p></td>
 <td><p>KII</p></td>
 <td><p>호리프로</p></td>
-<td><p>전 팀S<br />
-전 AKB48 팀B 겸임</p></td>
+<td><p>현재는개인활동중</p></td>
 <td><p>77위</p></td>
 </tr>
 <tr class="even">
@@ -1794,7 +1756,7 @@ SKE48 극장 지배인</p></td>
 <td><p>4기</p></td>
 <td><p>S</p></td>
 <td><p>Am-bitioN</p></td>
-<td><p>전 팀E→KII</p></td>
+<td><p>현재는개인활동중</p></td>
 <td><p>54위</p></td>
 <td></td>
 </tr>
@@ -1805,7 +1767,7 @@ SKE48 극장 지배인</p></td>
 <td><p>5기</p></td>
 <td><p>2017년 7월 31일</p></td>
 <td><p>-</p></td>
-<td><p>전 팀KII</p></td>
+<td><p>-</p></td>
 <td><p>34위</p></td>
 <td></td>
 </tr>
@@ -1817,7 +1779,7 @@ SKE48 극장 지배인</p></td>
 <td><p>2017년 11월 30일</p></td>
 <td><p>S</p></td>
 <td><p>산 오피스</p></td>
-<td><p>-</p></td>
+<td><p>현재는개인활동중</p></td>
 <td><p>22위</p></td>
 </tr>
 <tr class="odd">
@@ -1828,7 +1790,7 @@ SKE48 극장 지배인</p></td>
 <td><p>2017년 12월 1일</p></td>
 <td><p>E</p></td>
 <td><p>-</p></td>
-<td><p>전 <a href="../Page/HKT48.md" title="wikilink">HKT48</a> 팀KIV 겸임</p></td>
+<td><p>-</p></td>
 <td><p>31위</p></td>
 </tr>
 <tr class="even">
@@ -1839,7 +1801,7 @@ SKE48 극장 지배인</p></td>
 <td><p>2017년 12월 31일</p></td>
 <td><p>S</p></td>
 <td><p>센트럴 재팬</p></td>
-<td><p>전 팀KII</p></td>
+<td><p>현재는개인활동중</p></td>
 <td><p>52위</p></td>
 </tr>
 <tr class="odd">
@@ -1848,8 +1810,8 @@ SKE48 극장 지배인</p></td>
 <td><p>さとう すみれ</p></td>
 <td><p>-</p></td>
 <td><p>E</p></td>
-<td><p>(호리프로)</p></td>
-<td><p>전 AKB48 팀B→A</p></td>
+<td><p>-</p></td>
+<td><p>-</p></td>
 <td><p>31위</p></td>
 <td></td>
 </tr>
@@ -1896,7 +1858,7 @@ SKE48 극장 지배인</p></td>
 <td><p>2018년 6월 30일</p></td>
 <td><p>S</p></td>
 <td><p>마이무프로</p></td>
-<td><p>전 팀S 부리더</p></td>
+<td><p>현재는개인활동중</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="even">
@@ -1907,7 +1869,7 @@ SKE48 극장 지배인</p></td>
 <td><p>2018년 11월 10일</p></td>
 <td><p>KII</p></td>
 <td><p>-</p></td>
-<td><p>동생은 <a href="https://ko.wikipedia.org/wiki/야하기_모에카" title="wikilink">야하기 모에카</a> (전 <a href="../Page/AKB48.md" title="wikilink">AKB48</a> 팀K)</p></td>
+<td><p>동생은<a href="https://ko.wikipedia.org/wiki/야하기_모에카" title="wikilink">야하기 모에카</a>(전<a href="../Page/AKB48.md" title="wikilink">AKB48</a>팀K멤버)</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
@@ -1929,8 +1891,7 @@ SKE48 극장 지배인</p></td>
 2기</p></td>
 <td><p>|2018년 12월 28일</p></td>
 <td><p>-</p></td>
-<td><p>제2회 AKB48 그룹 드래프트 회장에서 가입 (2위 지명)<br />
-전 바이트 AKB</p></td>
+<td><p>제2회 AKB48 그룹 드래프트 회장에서 가입 (2위 지명)</p></td>
 <td><p>56위</p></td>
 <td></td>
 </tr>
@@ -1986,8 +1947,7 @@ SKE48 극장 지배인</p></td>
 <td><p>2019년 5월 2일</p></td>
 <td><p>KII</p></td>
 <td><p>-</p></td>
-<td><p>전 AKB48 그룹 연구생회 회장<br />
-전 SKE48 종신명예 연구생</p></td>
+<td><p>현재는<a href="../Page/유튜버.md" title="wikilink">유튜버</a></p></td>
 <td><p>13위</p></td>
 </tr>
 <tr class="even">
@@ -1997,8 +1957,7 @@ SKE48 극장 지배인</p></td>
 <td><p>2기</p></td>
 <td><p>2019년 5월 31일</p></td>
 <td><p>-</p></td>
-<td><p>전 팀KII 부리더<br />
-전 팀E</p></td>
+<td><p>-</p></td>
 <td><p>42위</p></td>
 <td></td>
 </tr>
@@ -2008,7 +1967,7 @@ SKE48 극장 지배인</p></td>
 <td><p>たかぎ ゆまな</p></td>
 <td><p>4기</p></td>
 <td><p>-</p></td>
-<td><p>전 팀E</p></td>
+<td><p>-</p></td>
 <td><p>-</p></td>
 <td></td>
 <td></td>
@@ -2021,8 +1980,7 @@ SKE48 극장 지배인</p></td>
 <td><p>2019년 9월 30일</p></td>
 <td><p>S</p></td>
 <td><p>-</p></td>
-<td><p>전 팀S 리더<br />
-전 AKB48 팀4 겸임</p></td>
+<td><p>-</p></td>
 <td><p>27위</p></td>
 </tr>
 <tr class="odd">
@@ -2032,7 +1990,7 @@ SKE48 극장 지배인</p></td>
 <td><p>7기</p></td>
 <td><p>E</p></td>
 <td><p>스프라운드</p></td>
-<td><p>-</p></td>
+<td><p>현재는개인활동중</p></td>
 <td><p>46위</p></td>
 <td></td>
 </tr>
@@ -2048,6 +2006,17 @@ SKE48 극장 지배인</p></td>
 <td></td>
 </tr>
 <tr class="odd">
+<td><p><a href="https://ko.wikipedia.org/wiki/카타오카_나루미" title="wikilink">카타오카 나루미</a></p></td>
+<td><p>片岡成美</p></td>
+<td><p>かたおか なるみ</p></td>
+<td><p>7기</p></td>
+<td><p>KII</p></td>
+<td><p>2020년 4월 2일</p></td>
+<td><p>-</p></td>
+<td><p>-</p></td>
+<td><p>-</p></td>
+</tr>
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>

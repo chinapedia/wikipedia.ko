@@ -259,7 +259,7 @@
   - [LAN Airlines inflight magazine](http://in-lan.com/)
   - [LAN Airlines Facebook](https://www.facebook.com/LANAirlinesUSA/)
   - [LAN Airlines YouTube Channel](https://www.youtube.com/user/lanairlines/)
-  - [About LAN Airpasses](http://bigtravelweb.com/travel/2008/10/13/lan-south-america-airpass/)
+  - [About LAN Airpasses](https://web.archive.org/web/20171014035032/http://bigtravelweb.com/travel/2008/10/13/lan-south-america-airpass/)
 
 [분류:1929년 설립](https://ko.wikipedia.org/wiki/분류:1929년_설립 "wikilink") [분류:칠레의 항공사](https://ko.wikipedia.org/wiki/분류:칠레의_항공사 "wikilink") [분류:IATA 회원](https://ko.wikipedia.org/wiki/분류:IATA_회원 "wikilink") [분류:LAN 항공](https://ko.wikipedia.org/wiki/분류:LAN_항공 "wikilink") [분류:국영 항공사](https://ko.wikipedia.org/wiki/분류:국영_항공사 "wikilink") [분류:칠레의 다국적 기업](https://ko.wikipedia.org/wiki/분류:칠레의_다국적_기업 "wikilink") [분류:칠레의 브랜드](https://ko.wikipedia.org/wiki/분류:칠레의_브랜드 "wikilink")
 

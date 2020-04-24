@@ -2938,7 +2938,7 @@
 <td><p>372회</p></td>
 <td><p>7월 23일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/내_딸아이의_사랑_이야기" title="wikilink">내 딸아이의 사랑 이야기</a></p></td>
-<td><p><a href="../Page/이제니.md" title="wikilink">이제니</a>, <a href="../Page/선우은숙.md" title="wikilink">선우은숙</a>, <a href="https://ko.wikipedia.org/wiki/김승수" title="wikilink">김승수</a></p></td>
+<td><p><a href="../Page/이제니.md" title="wikilink">이제니</a>, <a href="../Page/선우은숙.md" title="wikilink">선우은숙</a>, <a href="../Page/김승수_(배우).md" title="wikilink">김승수</a></p></td>
 <td><p>고은선</p></td>
 <td><p>임화민</p></td>
 </tr>
@@ -4795,7 +4795,7 @@
 <td><p>6월 25일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/이영숙_사진관" title="wikilink">이영숙 사진관</a></p></td>
 <td><p><a href="../Page/예지원.md" title="wikilink">예지원</a>, <a href="../Page/박철민_(배우).md" title="wikilink">박철민</a>, <a href="../Page/이한위.md" title="wikilink">이한위</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/김수정" title="wikilink">김수정</a></p></td>
+<td><p><a href="../Page/김수정.md" title="wikilink">김수정</a></p></td>
 <td><p><a href="../Page/이재규.md" title="wikilink">이재규</a></p></td>
 </tr>
 <tr class="odd">

@@ -40,7 +40,7 @@
 <td></td>
 <td><p><strong><br />
 <a href="../Page/사우디아라비아_축구_국가대표팀.md" title="wikilink">사우디아라비아</a></strong></p></td>
-<td><p><strong>4 : 3</strong></p></td>
+<td><p><strong>4 – 3</strong></p></td>
 <td><p><br />
 <a href="../Page/카타르_축구_국가대표팀.md" title="wikilink">카타르</a></p></td>
 <td><p><br />
@@ -51,8 +51,8 @@
 <td></td>
 <td><p><strong><br />
 <a href="../Page/대한민국_축구_국가대표팀.md" title="wikilink">대한민국</a></strong></p></td>
-<td><p><strong>0 : 0</strong><br />
-<strong>5 : 4</strong> (<a href="../Page/승부차기.md" title="wikilink">승부차기</a>)</p></td>
+<td><p><strong>0 – 0</strong><br />
+<strong>5 – 4</strong> (<a href="../Page/승부차기.md" title="wikilink">승부차기</a>)</p></td>
 <td><p><br />
 <a href="../Page/카타르_축구_국가대표팀.md" title="wikilink">카타르</a></p></td>
 <td><p><br />
@@ -63,7 +63,7 @@
 <td></td>
 <td><p><strong><br />
 <a href="../Page/사우디아라비아_축구_국가대표팀.md" title="wikilink">사우디아라비아</a></strong></p></td>
-<td><p><strong>2 : 0</strong></p></td>
+<td><p><strong>2 – 0</strong></p></td>
 <td><p><br />
 <a href="../Page/바레인_축구_국가대표팀.md" title="wikilink">바레인</a></p></td>
 <td><p><br />
@@ -74,7 +74,7 @@
 <td></td>
 <td><p><strong><br />
 <a href="../Page/카타르_축구_국가대표팀.md" title="wikilink">카타르</a></strong></p></td>
-<td><p><strong>2 : 0</strong></p></td>
+<td><p><strong>2 – 0</strong></p></td>
 <td><p><br />
 <a href="../Page/아랍에미리트_축구_국가대표팀.md" title="wikilink">아랍에미리트</a></p></td>
 <td><p><br />
@@ -85,8 +85,8 @@
 <td></td>
 <td><p><strong><br />
 <a href="https://ko.wikipedia.org/wiki/중국_축구_국가대표팀" title="wikilink">중국</a></strong></p></td>
-<td><p><strong>2 : 2</strong><br />
-8 : 7 (<a href="../Page/승부차기.md" title="wikilink">승부차기</a>)</p></td>
+<td><p><strong>2 – 2</strong><br />
+8 – 7 (<a href="../Page/승부차기.md" title="wikilink">승부차기</a>)</p></td>
 <td><p><br />
 <a href="../Page/카타르_축구_국가대표팀.md" title="wikilink">카타르</a></p></td>
 <td><p><br />
@@ -97,7 +97,7 @@
 <td></td>
 <td><p><strong><br />
 <a href="https://ko.wikipedia.org/wiki/일본_축구_국가대표팀" title="wikilink">일본</a></strong></p></td>
-<td><p><strong>1 : 0</strong><br />
+<td><p><strong>1 – 0</strong><br />
 (<a href="../Page/연장전.md" title="wikilink">연장전</a>)</p></td>
 <td><p><br />
 <a href="../Page/카타르_축구_국가대표팀.md" title="wikilink">카타르</a></p></td>
@@ -109,7 +109,7 @@
 <td></td>
 <td><p><strong><br />
 <a href="../Page/오만_축구_국가대표팀.md" title="wikilink">오만</a></strong></p></td>
-<td><p><strong>1 : 0</strong></p></td>
+<td><p><strong>1 – 0</strong></p></td>
 <td><p><br />
 <a href="../Page/태국_축구_국가대표팀.md" title="wikilink">태국</a></p></td>
 <td><p><br />
@@ -120,8 +120,8 @@
 <td></td>
 <td><p><strong><br />
 <a href="../Page/태국_축구_국가대표팀.md" title="wikilink">태국</a></strong></p></td>
-<td><p><strong>1 : 1</strong><br />
-<strong>3 : 2</strong> (<a href="../Page/승부차기.md" title="wikilink">승부차기</a>)</p></td>
+<td><p><strong>1 – 1</strong><br />
+<strong>3 – 2</strong> (<a href="../Page/승부차기.md" title="wikilink">승부차기</a>)</p></td>
 <td><p><br />
 <a href="../Page/카타르_축구_국가대표팀.md" title="wikilink">카타르</a></p></td>
 <td><p><br />
@@ -132,7 +132,7 @@
 <td></td>
 <td><p><strong><br />
 <a href="../Page/오만_축구_국가대표팀.md" title="wikilink">오만</a></strong></p></td>
-<td><p><strong>1 : 0</strong></p></td>
+<td><p><strong>1 – 0</strong></p></td>
 <td><p><br />
 <a href="../Page/이란_축구_국가대표팀.md" title="wikilink">이란</a></p></td>
 <td><p><br />
@@ -143,8 +143,8 @@
 <td></td>
 <td><p><strong><br />
 <a href="../Page/대한민국_축구_국가대표팀.md" title="wikilink">대한민국</a></strong></p></td>
-<td><p><strong>1 : 1</strong><br />
-<strong>5 : 3</strong> (<a href="../Page/승부차기.md" title="wikilink">승부차기</a>)</p></td>
+<td><p><strong>1 – 1</strong><br />
+<strong>5 – 3</strong> (<a href="../Page/승부차기.md" title="wikilink">승부차기</a>)</p></td>
 <td><p><br />
 <a href="../Page/예멘_축구_국가대표팀.md" title="wikilink">예멘</a></p></td>
 <td><p><br />
@@ -155,7 +155,7 @@
 <td></td>
 <td><p><strong><br />
 <a href="https://ko.wikipedia.org/wiki/중국_축구_국가대표팀" title="wikilink">중국</a></strong></p></td>
-<td><p><strong>1 : 0</strong></p></td>
+<td><p><strong>1 – 0</strong></p></td>
 <td><p><br />
 <a href="../Page/조선민주주의인민공화국_축구_국가대표팀.md" title="wikilink">조선민주주의인민공화국</a></p></td>
 <td><p><br />
@@ -166,7 +166,7 @@
 <td></td>
 <td><p><strong><br />
 <a href="https://ko.wikipedia.org/wiki/일본_축구_국가대표팀" title="wikilink">일본</a></strong></p></td>
-<td><p><strong>4 : 2</strong><br />
+<td><p><strong>4 – 2</strong><br />
 (<a href="../Page/연장전.md" title="wikilink">연장전</a>)</p></td>
 <td><p><br />
 <a href="../Page/조선민주주의인민공화국_축구_국가대표팀.md" title="wikilink">조선민주주의인민공화국</a></p></td>
@@ -178,7 +178,7 @@
 <td></td>
 <td><p><strong><br />
 <a href="../Page/이란_축구_국가대표팀.md" title="wikilink">이란</a></strong></p></td>
-<td><p><strong>2 : 1</strong></p></td>
+<td><p><strong>2 – 1</strong></p></td>
 <td><p><br />
 <a href="../Page/대한민국_축구_국가대표팀.md" title="wikilink">대한민국</a></p></td>
 <td><p><br />
@@ -189,7 +189,7 @@
 <td></td>
 <td><p><strong><br />
 <a href="../Page/조선민주주의인민공화국_축구_국가대표팀.md" title="wikilink">조선민주주의인민공화국</a></strong></p></td>
-<td><p><strong>2 : 0</strong></p></td>
+<td><p><strong>2 – 0</strong></p></td>
 <td><p><br />
 <a href="../Page/우즈베키스탄_축구_국가대표팀.md" title="wikilink">우즈베키스탄</a></p></td>
 <td><p><br />
@@ -200,8 +200,8 @@
 <td></td>
 <td><p><strong><br />
 <a href="../Page/우즈베키스탄_축구_국가대표팀.md" title="wikilink">우즈베키스탄</a></strong></p></td>
-<td><p><strong>1 : 1</strong><br />
-<strong>3 : 1</strong> (<a href="../Page/승부차기.md" title="wikilink">승부차기</a>)</p></td>
+<td><p><strong>1 – 1</strong><br />
+<strong>3 – 1</strong> (<a href="../Page/승부차기.md" title="wikilink">승부차기</a>)</p></td>
 <td><p><br />
 <a href="https://ko.wikipedia.org/wiki/일본_축구_국가대표팀" title="wikilink">일본</a></p></td>
 <td><p><br />
@@ -212,7 +212,7 @@
 <td></td>
 <td><p><strong><br />
 <a href="../Page/조선민주주의인민공화국_축구_국가대표팀.md" title="wikilink">조선민주주의인민공화국</a></strong></p></td>
-<td><p><strong>2 : 1</strong></p></td>
+<td><p><strong>2 – 1</strong></p></td>
 <td><p><br />
 <a href="../Page/대한민국_축구_국가대표팀.md" title="wikilink">대한민국</a></p></td>
 <td><p><br />
@@ -223,8 +223,8 @@
 <td></td>
 <td><p><br />
 <strong><a href="../Page/이라크_축구_국가대표팀.md" title="wikilink">이라크</a></strong></p></td>
-<td><p><strong>0 : 0</strong><br />
-<strong>4 : 3</strong> (<a href="../Page/승부차기.md" title="wikilink">승부차기</a>)</p></td>
+<td><p><strong>0 – 0</strong><br />
+<strong>4 – 3</strong> (<a href="../Page/승부차기.md" title="wikilink">승부차기</a>)</p></td>
 <td><p><br />
 <a href="../Page/이란_축구_국가대표팀.md" title="wikilink">이란</a></p></td>
 <td><p><br />
@@ -235,7 +235,7 @@
 <td></td>
 <td><p><br />
 <strong><a href="https://ko.wikipedia.org/wiki/일본_축구_국가대표팀" title="wikilink">일본</a></strong></p></td>
-<td><p><strong>1 : 0</strong></p></td>
+<td><p><strong>1 – 0</strong></p></td>
 <td><p><br />
 <a href="../Page/타지키스탄_축구_국가대표팀.md" title="wikilink">타지키스탄</a></p></td>
 <td><p><br />

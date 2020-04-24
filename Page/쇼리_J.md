@@ -36,7 +36,7 @@
 
 ### 뮤직비디오
 
-  - [신지](https://ko.wikipedia.org/wiki/신지_\(가수\) "wikilink") - 해뜰날 (Feat. **마이티 마우스**)
+  - [신지](../Page/신지_\(가수\).md "wikilink") - 해뜰날 (Feat. **마이티 마우스**)
   - [견미리](../Page/견미리.md "wikilink") - 행복한 여자
   - Cry With Us (함께 울어요)
   - 홀로 크리스마스

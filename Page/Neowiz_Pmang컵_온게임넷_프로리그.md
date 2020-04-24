@@ -39,16 +39,16 @@
 
   - 순위기준: **다승 → 승점 → 승자승 순**
 
-| 순위 | 팀                                                           | 경기수 | 승 | 패 | 승률    | 승점     |
-| -- | ----------------------------------------------------------- | --- | - | - | ----- | ------ |
-| 1  | [한빛 스타즈](../Page/웅진_스타즈.md "wikilink")                      | 10  | 8 | 2 | 80%   | **19** |
-| 2  | [투나 SG](../Page/위메이드_폭스.md "wikilink")                      | 10  | 6 | 4 | 60%   | **17** |
-| 3  | [슈마 GO](https://ko.wikipedia.org/wiki/CJ_엔투스 "wikilink")    | 10  | 6 | 4 | 60%   | **17** |
-| 4  | [SouL](../Page/SouL_\(e스포츠\).md "wikilink")                 | 10  | 5 | 5 | 50%   | **16** |
-| 5  | [KOR](../Page/온게임넷_스파키즈.md "wikilink")                      | 7   | 4 | 3 | 57.1% | **10** |
-| 6  | [KTF 매직엔스](https://ko.wikipedia.org/wiki/KT_롤스터 "wikilink") | 7   | 2 | 5 | 28.6% | **9**  |
-| 7  | [4U](https://ko.wikipedia.org/wiki/SK텔레콤_T1 "wikilink")     | 7   | 2 | 5 | 28.6% | **9**  |
-| 8  | [AMD 드림팀](../Page/이스트로.md "wikilink")                       | 7   | 1 | 6 | 14.3% | **5**  |
+| 순위 | 팀                                                        | 경기수 | 승 | 패 | 승률    | 승점     |
+| -- | -------------------------------------------------------- | --- | - | - | ----- | ------ |
+| 1  | [한빛 스타즈](../Page/웅진_스타즈.md "wikilink")                   | 10  | 8 | 2 | 80%   | **19** |
+| 2  | [투나 SG](../Page/위메이드_폭스.md "wikilink")                   | 10  | 6 | 4 | 60%   | **17** |
+| 3  | [슈마 GO](https://ko.wikipedia.org/wiki/CJ_엔투스 "wikilink") | 10  | 6 | 4 | 60%   | **17** |
+| 4  | [SouL](../Page/SouL_\(e스포츠\).md "wikilink")              | 10  | 5 | 5 | 50%   | **16** |
+| 5  | [KOR](../Page/온게임넷_스파키즈.md "wikilink")                   | 7   | 4 | 3 | 57.1% | **10** |
+| 6  | [KTF 매직엔스](../Page/KT_롤스터.md "wikilink")                 | 7   | 2 | 5 | 28.6% | **9**  |
+| 7  | [4U](https://ko.wikipedia.org/wiki/SK텔레콤_T1 "wikilink")  | 7   | 2 | 5 | 28.6% | **9**  |
+| 8  | [AMD 드림팀](../Page/이스트로.md "wikilink")                    | 7   | 1 | 6 | 14.3% | **5**  |
 
 ## 라운드 별 순위
 
@@ -65,7 +65,7 @@
 |    |                                                               |     |   |   |       |        |             |
 | 4  | **[투나 SG](../Page/위메이드_폭스.md "wikilink")**                    | 7   | 4 | 3 | 57.1% | **11** | **2라운드 진출** |
 | 5  | [KOR](https://ko.wikipedia.org/wiki/하이트_스파키즈 "wikilink")      | 7   | 4 | 3 | 57.1% | **10** |             |
-| 6  | [KTF 매직엔스](https://ko.wikipedia.org/wiki/KT_롤스터 "wikilink")   | 7   | 2 | 5 | 28.6% | **9**  |             |
+| 6  | [KTF 매직엔스](../Page/KT_롤스터.md "wikilink")                      | 7   | 2 | 5 | 28.6% | **9**  |             |
 | 7  | [4U](https://ko.wikipedia.org/wiki/SK텔레콤_T1 "wikilink")       | 7   | 2 | 5 | 28.6% | **9**  |             |
 | 8  | [AMD 드림팀](../Page/이스트로.md "wikilink")                         | 7   | 1 | 6 | 14.3% | **5**  |             |
 
@@ -127,18 +127,18 @@
 
 ### 종합 순위
 
-| 순위 | 선수 이름                                                  | 소속팀                                                                                       | 경기수 | 종합승 | 종합패   | 승률    |
-| -- | ------------------------------------------------------ | ----------------------------------------------------------------------------------------- | --- | --- | ----- | ----- |
-| 1  | [강도경](../Page/강도경.md "wikilink")(Z)                    | [한빛 스타즈](https://ko.wikipedia.org/wiki/한빛_스타즈 "wikilink")                                 | 9   | 8   | 1     | 88.8% |
-| 2  | [이병민](https://ko.wikipedia.org/wiki/이병민 "wikilink")(T) | [투나 SG](https://ko.wikipedia.org/wiki/투나_SG "wikilink")                                   | 10  | 8   | 2     | 80%   |
-| 3  | [강민](../Page/강민_\(프로게이머\).md "wikilink")(P)            | [슈마 GO](https://ko.wikipedia.org/wiki/슈마_GO "wikilink")                                   | 10  | 7   | 3     | 70%   |
-| 4  | [박상익](https://ko.wikipedia.org/wiki/박상익 "wikilink")(Z) | [SouL](https://ko.wikipedia.org/wiki/SouL "wikilink")                                     | 14  | 7   | 7     | 50%   |
-| 5  | [박정석](../Page/박정석_\(프로게이머\).md "wikilink")(P)          | [한빛](../Page/웅진_스타즈.md "wikilink")→[KTF](https://ko.wikipedia.org/wiki/KT_롤스터 "wikilink") | 7   | 6   | 1     | 85.7% |
-| 6  | [나경보](../Page/나경보.md "wikilink")(Z)                    | [SouL](https://ko.wikipedia.org/wiki/SouL "wikilink")                                     | 11  | 6   | 5     | 54.5% |
-| 7  | [박영민](https://ko.wikipedia.org/wiki/박영민 "wikilink")(P) | [한빛 스타즈](https://ko.wikipedia.org/wiki/한빛_스타즈 "wikilink")                                 | 6   | 5   | 1     | 83.3% |
-| 8  | *2명의 선수*                                               | 7                                                                                         | 5   | 2   | 71.4% |       |
-| 9  | *2명의 선수*                                               | 8                                                                                         | 5   | 3   | 62.5% |       |
-| 10 | [주진철](../Page/주진철.md "wikilink")                       | [KOR](https://ko.wikipedia.org/wiki/하이트_스파키즈 "wikilink")                                  | 10  | 5   | 5     | 50%   |
+| 순위 | 선수 이름                                                  | 소속팀                                                                    | 경기수 | 종합승 | 종합패   | 승률    |
+| -- | ------------------------------------------------------ | ---------------------------------------------------------------------- | --- | --- | ----- | ----- |
+| 1  | [강도경](../Page/강도경.md "wikilink")(Z)                    | [한빛 스타즈](https://ko.wikipedia.org/wiki/한빛_스타즈 "wikilink")              | 9   | 8   | 1     | 88.8% |
+| 2  | [이병민](https://ko.wikipedia.org/wiki/이병민 "wikilink")(T) | [투나 SG](https://ko.wikipedia.org/wiki/투나_SG "wikilink")                | 10  | 8   | 2     | 80%   |
+| 3  | [강민](../Page/강민_\(프로게이머\).md "wikilink")(P)            | [슈마 GO](https://ko.wikipedia.org/wiki/슈마_GO "wikilink")                | 10  | 7   | 3     | 70%   |
+| 4  | [박상익](https://ko.wikipedia.org/wiki/박상익 "wikilink")(Z) | [SouL](https://ko.wikipedia.org/wiki/SouL "wikilink")                  | 14  | 7   | 7     | 50%   |
+| 5  | [박정석](../Page/박정석_\(프로게이머\).md "wikilink")(P)          | [한빛](../Page/웅진_스타즈.md "wikilink")→[KTF](../Page/KT_롤스터.md "wikilink") | 7   | 6   | 1     | 85.7% |
+| 6  | [나경보](../Page/나경보.md "wikilink")(Z)                    | [SouL](https://ko.wikipedia.org/wiki/SouL "wikilink")                  | 11  | 6   | 5     | 54.5% |
+| 7  | [박영민](https://ko.wikipedia.org/wiki/박영민 "wikilink")(P) | [한빛 스타즈](https://ko.wikipedia.org/wiki/한빛_스타즈 "wikilink")              | 6   | 5   | 1     | 83.3% |
+| 8  | *2명의 선수*                                               | 7                                                                      | 5   | 2   | 71.4% |       |
+| 9  | *2명의 선수*                                               | 8                                                                      | 5   | 3   | 62.5% |       |
+| 10 | [주진철](../Page/주진철.md "wikilink")                       | [KOR](https://ko.wikipedia.org/wiki/하이트_스파키즈 "wikilink")               | 10  | 5   | 5     | 50%   |
 
 ### 개인전 순위
 
@@ -157,18 +157,18 @@
 
 ### 팀플전 순위
 
-| 순위 | 선수 이름                                                  | 소속팀                                                                                         | 경기수 | 팀플승 | 팀플패 | 승률    |
-| -- | ------------------------------------------------------ | ------------------------------------------------------------------------------------------- | --- | --- | --- | ----- |
-| 1  | [강도경](../Page/강도경.md "wikilink")(Z)                    | [한빛 스타즈](https://ko.wikipedia.org/wiki/한빛_스타즈 "wikilink")                                   | 9   | 8   | 1   | 88.8% |
-| 2  | [강민](../Page/강민_\(프로게이머\).md "wikilink")(P)            | [슈마 GO](https://ko.wikipedia.org/wiki/슈마_GO "wikilink")                                     | 9   | 6   | 3   | 66.6% |
-| 3  | [박정석](https://ko.wikipedia.org/wiki/박정석 "wikilink")(P) | [한빛](../Page/웅진_스타즈.md "wikilink") → [KTF](https://ko.wikipedia.org/wiki/KT_롤스터 "wikilink") | 6   | 5   | 1   | 83.3% |
-| 4  | [박영민](https://ko.wikipedia.org/wiki/박영민 "wikilink")(P) | [한빛 스타즈](https://ko.wikipedia.org/wiki/한빛_스타즈 "wikilink")                                   | 6   | 5   | 1   | 83.3% |
-| 5  | [나경보](../Page/나경보.md "wikilink")(Z)                    | [SouL](https://ko.wikipedia.org/wiki/SouL "wikilink")                                       | 10  | 5   | 5   | 50%   |
-| 6  | [조병호](https://ko.wikipedia.org/wiki/조병호 "wikilink")(P) | [KTF 매직엔스](https://ko.wikipedia.org/wiki/KTF_매직엔스 "wikilink")                               | 7   | 4   | 3   | 57.1% |
-| 7  | [주진철](../Page/주진철.md "wikilink")(Z)                    | [KOR](https://ko.wikipedia.org/wiki/하이트_스파키즈 "wikilink")                                    | 7   | 4   | 3   | 57.1% |
-| 8  | [박상익](https://ko.wikipedia.org/wiki/박상익 "wikilink")(Z) | [SouL](https://ko.wikipedia.org/wiki/SouL "wikilink")                                       | 9   | 4   | 5   | 44.4% |
-| 9  | [서지훈](https://ko.wikipedia.org/wiki/서지훈 "wikilink")(T) | [슈마 GO](https://ko.wikipedia.org/wiki/슈마_GO "wikilink")                                     | 4   | 3   | 1   | 75%   |
-| 10 | [박태민](https://ko.wikipedia.org/wiki/박태민 "wikilink")(Z) | [슈마 GO](https://ko.wikipedia.org/wiki/슈마_GO "wikilink")                                     | 5   | 3   | 2   | 60%   |
+| 순위 | 선수 이름                                                  | 소속팀                                                                      | 경기수 | 팀플승 | 팀플패 | 승률    |
+| -- | ------------------------------------------------------ | ------------------------------------------------------------------------ | --- | --- | --- | ----- |
+| 1  | [강도경](../Page/강도경.md "wikilink")(Z)                    | [한빛 스타즈](https://ko.wikipedia.org/wiki/한빛_스타즈 "wikilink")                | 9   | 8   | 1   | 88.8% |
+| 2  | [강민](../Page/강민_\(프로게이머\).md "wikilink")(P)            | [슈마 GO](https://ko.wikipedia.org/wiki/슈마_GO "wikilink")                  | 9   | 6   | 3   | 66.6% |
+| 3  | [박정석](https://ko.wikipedia.org/wiki/박정석 "wikilink")(P) | [한빛](../Page/웅진_스타즈.md "wikilink") → [KTF](../Page/KT_롤스터.md "wikilink") | 6   | 5   | 1   | 83.3% |
+| 4  | [박영민](https://ko.wikipedia.org/wiki/박영민 "wikilink")(P) | [한빛 스타즈](https://ko.wikipedia.org/wiki/한빛_스타즈 "wikilink")                | 6   | 5   | 1   | 83.3% |
+| 5  | [나경보](../Page/나경보.md "wikilink")(Z)                    | [SouL](https://ko.wikipedia.org/wiki/SouL "wikilink")                    | 10  | 5   | 5   | 50%   |
+| 6  | [조병호](https://ko.wikipedia.org/wiki/조병호 "wikilink")(P) | [KTF 매직엔스](https://ko.wikipedia.org/wiki/KTF_매직엔스 "wikilink")            | 7   | 4   | 3   | 57.1% |
+| 7  | [주진철](../Page/주진철.md "wikilink")(Z)                    | [KOR](https://ko.wikipedia.org/wiki/하이트_스파키즈 "wikilink")                 | 7   | 4   | 3   | 57.1% |
+| 8  | [박상익](https://ko.wikipedia.org/wiki/박상익 "wikilink")(Z) | [SouL](https://ko.wikipedia.org/wiki/SouL "wikilink")                    | 9   | 4   | 5   | 44.4% |
+| 9  | [서지훈](https://ko.wikipedia.org/wiki/서지훈 "wikilink")(T) | [슈마 GO](https://ko.wikipedia.org/wiki/슈마_GO "wikilink")                  | 4   | 3   | 1   | 75%   |
+| 10 | [박태민](https://ko.wikipedia.org/wiki/박태민 "wikilink")(Z) | [슈마 GO](https://ko.wikipedia.org/wiki/슈마_GO "wikilink")                  | 5   | 3   | 2   | 60%   |
 
 ### 팀플 조합 순위
 

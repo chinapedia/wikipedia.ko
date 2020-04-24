@@ -144,7 +144,7 @@
   -
     프로그램 설명: 온가족이 편안히 시청할 수 있는 친절한 뉴스쇼\!
     방송시간: 19:30\~20:50
-    진행: [변상욱](../Page/변상욱.md "wikilink"), [안보라](https://ko.wikipedia.org/wiki/안보라 "wikilink")
+    진행: [변상욱](../Page/변상욱.md "wikilink"), [안귀령](https://ko.wikipedia.org/wiki/안귀령 "wikilink")
 
 <!-- end list -->
 

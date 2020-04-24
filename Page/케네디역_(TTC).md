@@ -45,192 +45,39 @@
 
 2016년, 토론토 시장 존 토리는 블루어-댄포스 선을 스카버러센터까지 한 정거장 연장하고 에글린턴-맬번 선의 부활을 추진하였다.\[21\] 그와 동시에, 메트로링스는 케네디역에서 지하 승강장으로 진입하는 에글린턴 크로스타운 선을 계속 짓는 데 주목하였다. 에글린턴 크로스타운 경전철은 2021년에 개통할 예정이다.\[22\] 한편 존 토리 시장은 스토우빌 통근열차 노선을 복선 전철화해 양방향 상시 운행하는 스마트트랙 계획안을 추진하게 됨으로써 케네디역은 앞으로 토론토 동부의 교통 요지로 자리잡게 될 예정이다.\[23\]
 
-## 근처 명소
-
-근처 명소로는 돈 몽고메리 커뮤니티 센터(前 미드-스카버러 커뮤니티 센터)가 있다.
-
 ## 대중교통 연결편
 
-2019년 4월 29일 기준 케네디역에서 갈아탈 수 있는 버스 편은 아래와 같다. 또한 평일 러시아워에 지하철역 밖에 있는 [통근열차역에서](../Page/케네디역_\(GO\).md "wikilink") [GO 트랜싯의](../Page/GO_트랜싯.md "wikilink") [스토우빌선](../Page/스토우빌선.md "wikilink") 열차를 탈 수 있다. 주간에 운행하는 모든 버스 노선은 역 안에 있는 버스 승강장에서 갈아탈 수 있고, 심야 버스는 역 밖에 있는 버스 정류장에서 승차해야 한다. GO 트랜싯과 TTC를 동시에 이용하는 [프레스토 카드](https://ko.wikipedia.org/wiki/프레스토_카드 "wikilink") 승객은 1달러 50센트의 환승 할인을 받을 수 있다. 2019년 11월 23일부터 18개월 동안 케네디역에서 [유니언역까지](../Page/유니언역_\(토론토\).md "wikilink") GO 트랜싯의 통근 열차 요금이 기존 4달러 75센트에서 3달러 70센트로 할인된다.\[24\]
+2020년 4월 기준 케네디역에서 갈아탈 수 있는 버스 편은 아래와 같다. 또한 평일 러시아워에 지하철역 밖에 있는 [통근열차역에서](../Page/케네디역_\(GO\).md "wikilink") [GO 트랜싯의](../Page/GO_트랜싯.md "wikilink") [스토우빌선](../Page/스토우빌선.md "wikilink") 열차를 탈 수 있다. 주간에 운행하는 모든 버스 노선은 역 안에 있는 버스 승강장에서 갈아탈 수 있고, 심야 버스는 역 밖에 있는 버스 정류장에서 승차해야 한다. 2019년 11월 23일부터 18개월 동안 케네디역에서 [유니언역까지](../Page/유니언역_\(토론토\).md "wikilink") GO 트랜싯의 통근 열차 요금이 기존 4달러 75센트에서 3달러 70센트로 할인된다.\[24\]
 
 
 
-<table>
-<colgroup>
-<col style="width: 20%" />
-<col style="width: 20%" />
-<col style="width: 40%" />
-<col style="width: 19%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th><p>노선</p></th>
-<th><p>종점</p></th>
-<th><p>경유지</p></th>
-<th><p>비고</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>12A</p></td>
-<td><p>킹스턴 로드</p></td>
-<td><p>Kingston Road</p></td>
-<td><p><a href="../Page/빅토리아파크역_(토론토).md" title="wikilink">빅토리아파크역</a></p></td>
-</tr>
-<tr class="even">
-<td><p>12B</p></td>
-<td><p><span style="font-size:140%;">↔︎</span></p></td>
-<td><p> 케네디역</br> 에글린턴 / 미들랜드</br> 에글린턴 / 브림리</br> 브림리 / 댄포스 로드</br> 브림리 / 세인트클레어</br> 킹스턴 로드 / 미들랜드</br> 킹스턴 로드 / 글렌에버레스트</br> 버치마운트 공원</br> 킹스턴 로드 / 버치마운트</br> 킹스턴 로드 / 워든</br> 빙햄 루프</br> 빅토리아파크 / 제럴드</br>  <a href="../Page/빅토리아파크역_(토론토).md" title="wikilink">빅토리아파크역</a> </p></td>
-<td><p>토/일/공휴일 점심 시간대와 이른 저녁에 운행</p></td>
-</tr>
-<tr class="odd">
-<td><p>20</p></td>
-<td><p>클리프사이드</p></td>
-<td><p>Cliffside</p></td>
-<td><p><a href="../Page/메인_스트리트역_(토론토).md" title="wikilink">메인 스트리트역</a></p></td>
-</tr>
-<tr class="even">
-<td><p>21A</p></td>
-<td><p>브림리</p></td>
-<td><p>Brimley</p></td>
-<td><p><a href="../Page/스카버러센터역.md" title="wikilink">스카버러센터역</a></p></td>
-</tr>
-<tr class="odd">
-<td><p>21C</p></td>
-<td><p>브림리 / 스틸즈</p></td>
-<td><p><span style="font-size:140%;">↔︎</span></p></td>
-<td><p> 케네디역</br> 브림리 / 에글린턴</br> 브림리 / 로렌스</br> 브림리 / 엘즈미어</br>   <a href="../Page/스카버러센터역.md" title="wikilink">스카버러센터역</a></br> 브림리 / 셰퍼드</br> 브림리 / 헌팅우드</br> 브림리 / 핀치</br> 브림리 / 맥니콜</br> 브림리 / 스틸즈</br> </p></td>
-</tr>
-<tr class="even">
-<td><p>34A</p></td>
-<td><p>에글린턴 이스트</p></td>
-<td><p>Eglinton East</p></td>
-<td><p><a href="../Page/에글린턴역_(TTC).md" title="wikilink">에글린턴역</a></p></td>
-</tr>
-<tr class="odd">
-<td><p>34B</p></td>
-<td><p>윈포드 / 돈밀스</p></td>
-<td><p><span style="font-size:140%;">↔︎</span></p></td>
-<td><p> 케네디역</br> 에글린턴 / 버치마운트</br> 에글린턴 / 워든</br> 에글린턴 / 파머시</br> 에글린턴 / 빅토리아파크</br> 에글린턴 / 슬로언</br> 에글린턴 / 윈포드</br> 윈포드 / 돈밀스 </p></td>
-</tr>
-<tr class="even">
-<td><p>43A</p></td>
-<td><p>케네디</p></td>
-<td><p>Kennedy</p></td>
-<td><p>미들랜드 / 스틸즈</p></td>
-</tr>
-<tr class="odd">
-<td><p>43B</p></td>
-<td><p><a href="../Page/스카버러센터역.md" title="wikilink">스카버러센터역</a></p></td>
-<td><p><span style="font-size:140%;">↔︎</span></p></td>
-<td><p>  케네디역</br>  케네디 / 로렌스 (<a href="../Page/로렌스_이스트역.md" title="wikilink">로렌스 이스트역</a>)</br>  케네디 / 엘즈미어 (<a href="../Page/엘즈미어역.md" title="wikilink">엘즈미어역</a>)</br> 프로그레스 / 미들랜드</br>   <a href="../Page/스카버러센터역.md" title="wikilink">스카버러센터역</a> </p></td>
-</tr>
-<tr class="even">
-<td><p>57</p></td>
-<td><p>미들랜드</p></td>
-<td><p>Midland</p></td>
-<td><p>스틸즈 / 미들랜드</p></td>
-</tr>
-<tr class="odd">
-<td><p>86A</p></td>
-<td><p>스카버러</p></td>
-<td><p>Scarborough</p></td>
-<td><p>케네디역</p></td>
-</tr>
-<tr class="even">
-<td><p>86B</p></td>
-<td><p><span style="font-size:140%;">↔︎</span></p></td>
-<td><p>하이랜드크리크 / 킹스턴 로드</p></td>
-<td><p>  케네디역</br> 에글린턴 / 미들랜드</br> 에글린턴 / 브림리</br> 에글린턴 / 댄포스 로드</br>  <a href="../Page/에글린턴역_(GO).md" title="wikilink">에글린턴역</a></br> 에글린턴 / 마컴 로드</br> 에글린턴 / 킹스턴 로드</br> 킹스턴 로드 / 길드우드 파크웨이</br>   <a href="../Page/길드우드역.md" title="wikilink">길드우드역</a></br> 킹스턴 로드 / 로렌스</br> 킹스턴 로드 / 모닝사이드</br> 하이랜드크리크 / 킹스턴 로드 </p></td>
-</tr>
-<tr class="odd">
-<td><p>86C</p></td>
-<td><p><span style="font-size:140%;">↔︎</span></p></td>
-<td><p>메도우베일 / 셰퍼드</p></td>
-<td><p>  케네디역</br> 에글린턴 / 미들랜드</br> 에글린턴 / 브림리</br> 에글린턴 / 댄포스 로드</br>  <a href="../Page/에글린턴역_(GO).md" title="wikilink">에글린턴역</a></br> 에글린턴 / 마컴 로드</br> 에글린턴 / 킹스턴 로드</br> 킹스턴 로드 / 길드우드 파크웨이</br>   <a href="../Page/길드우드역.md" title="wikilink">길드우드역</a></br> 킹스턴 로드 / 로렌스</br> 킹스턴 로드 / 모닝사이드</br> 킹스턴 로드 / 밀리터리 트레일</br> 메도우베일 / 엘즈미어</br> 메도우베일 / 셰퍼드</br> </p></td>
-</tr>
-<tr class="even">
-<td><p>86D</p></td>
-<td><p><span style="font-size:140%;">↔︎</span></p></td>
-<td><p>코로네이션 / 월센드</p></td>
-<td><p>  케네디역</br> 에글린턴 / 미들랜드</br> 에글린턴 / 브림리</br> 에글린턴 / 댄포스 로드</br>  <a href="../Page/에글린턴역_(GO).md" title="wikilink">에글린턴역</a></br> 에글린턴 / 마컴 로드</br> 에글린턴 / 킹스턴 로드</br> 킹스턴 로드 / 길드우드 파크웨이</br>   <a href="../Page/길드우드역.md" title="wikilink">길드우드역</a></br> 킹스턴 로드 / 로렌스</br> 로렌스 / 모닝사이드</br> 로렌스 / 비치그로브</br> 코로네이션 / 월센드 </p></td>
-</tr>
-<tr class="odd">
-<td><p>86E</p></td>
-<td><p><span style="font-size:140%;">↔︎</span></p></td>
-<td><p>메도우베일 / 셰퍼드</p></td>
-<td><p>  케네디역</br> 에글린턴 / 마컴 로드</br>   <a href="../Page/길드우드역.md" title="wikilink">길드우드역</a></br> 킹스턴 로드 / 로렌스</br> 킹스턴 로드 / 모닝사이드</br> 킹스턴 로드 / 밀리터리 트레일</br> 메도우베일 / 엘즈미어</br> 메도우베일 / 셰퍼드</br> </p></td>
-</tr>
-<tr class="even">
-<td><p>113</p></td>
-<td><p>댄포스</p></td>
-<td><p>Danforth</p></td>
-<td><p><a href="../Page/메인_스트리트역_(토론토).md" title="wikilink">메인 스트리트역</a></p></td>
-</tr>
-<tr class="odd">
-<td><p>116A</p></td>
-<td><p>모닝사이드</p></td>
-<td><p>Morningside</p></td>
-<td><p>케네디역</p></td>
-</tr>
-<tr class="even">
-<td><p>116B</p></td>
-<td><p><span style="font-size:140%;">↔︎</span></p></td>
-<td><p>에글린턴 / 킹스턴 로드</p></td>
-<td><p>  케네디역</br> 에글린턴 / 미들랜드</br> 에글린턴 / 브림리</br> 에글린턴 / 댄포스 로드</br> 에글린턴 / 매코원</br>  <a href="../Page/에글린턴역_(GO).md" title="wikilink">에글린턴역</a></br> 에글린턴 / 마컴 로드</br> 에글린턴 / 킹스턴 로드 </p></td>
-</tr>
-<tr class="odd">
-<td><p>116C</p></td>
-<td><p><span style="font-size:140%;">↔︎</span></p></td>
-<td><p>나이트스타 / 모닝사이드</p></td>
-<td><p>  케네디역</br> 에글린턴 / 미들랜드</br> 에글린턴 / 브림리</br> 에글린턴 / 댄포스 로드</br> 에글린턴 / 매코원</br>  <a href="../Page/에글린턴역_(GO).md" title="wikilink">에글린턴역</a></br> 에글린턴 / 마컴 로드</br> 에글린턴 / 킹스턴 로드</br> 길드우드 / 킹스턴 로드</br> 모닝사이드 / 로렌스</br> 모닝사이드 / 킹스턴 로드</br> 모닝사이드 / 엘즈미어</br> 모닝사이드 / 셰퍼드</br> 모닝사이드 / 케이스브릿지</br> 모닝사이드 / 올드핀치</br> 모닝사이드 / 스테인즈</br> 모닝사이드 / 나이트스타 </p></td>
-</tr>
-<tr class="even">
-<td><p>175</p></td>
-<td><p>블러퍼스 공원</p></td>
-<td><p>Bluffer's Park</p></td>
-<td><p>케네디역</p></td>
-</tr>
-<tr class="odd">
-<td><p>300B</p></td>
-<td><p>블루어-댄포스</p></td>
-<td><p>Bloor-Danforth</p></td>
-<td><p>블루어 / 이스트몰</p></td>
-</tr>
-<tr class="even">
-<td><p>334</p></td>
-<td><p>에글린턴 이스트</p></td>
-<td><p>Eglinton East</p></td>
-<td><p><a href="../Page/에글린턴역_(TTC).md" title="wikilink">에글린턴역</a></p></td>
-</tr>
-<tr class="odd">
-<td><p>343</p></td>
-<td><p>케네디</p></td>
-<td><p>Kennedy</p></td>
-<td><p>미들랜드 / 스틸즈</p></td>
-</tr>
-<tr class="even">
-<td><p>903</p></td>
-<td><p>케네디-스카버러센터 급행</p></td>
-<td><p>Kennedy-Scarborough Centre Express</p></td>
-<td><p><a href="../Page/스카버러센터역.md" title="wikilink">스카버러센터역</a></p></td>
-</tr>
-<tr class="odd">
-<td><p>905</p></td>
-<td><p>에글린턴 이스트 급행</p></td>
-<td><p>Eglinton East Express</p></td>
-<td><p>케네디역</p></td>
-</tr>
-</tbody>
-</table>
-
-## 승차량 변동
-
-| 역 노선                                                            | 승차 인원       |
-| --------------------------------------------------------------- | ----------- |
-| 2007-2008년                                                      | 2008-2009년  |
-| [블루어-댄포스 선](https://ko.wikipedia.org/wiki/블루어-댄포스_선 "wikilink") | 74830\[25\] |
-| [스카버러 RT](../Page/스카버러_RT.md "wikilink")                        | 40440\[26\] |
+| 노선   | 종점                                       | 경유지                                    | 비고                                                                                   |
+| ---- | ---------------------------------------- | -------------------------------------- | ------------------------------------------------------------------------------------ |
+| 12A  | 킹스턴 로드                                   | Kingston Road                          | [빅토리아파크역](../Page/빅토리아파크역_\(토론토\).md "wikilink")                                     |
+| 12B  | <span style="font-size:140%;">↔</span>   | 토/일/공휴일 점심 시간대와 이른 저녁에 운행              |                                                                                      |
+| 20   | 클리프사이드                                   | Cliffside                              | [메인 스트리트역](../Page/메인_스트리트역_\(토론토\).md "wikilink")                                   |
+| 21A  | 브림리                                      | Brimley                                | [스카버러센터역](../Page/스카버러센터역.md "wikilink")                                             |
+| 21C  | 브림리 / 스틸즈                                | <span style="font-size:140%;">↔</span> | 평일 러시 아워를 제외하고 매일 상시 운행                                                              |
+| 34A  | 에글린턴 이스트                                 | Eglinton East                          | [에글린턴역](../Page/에글린턴역_\(TTC\).md "wikilink")                                         |
+| 34B  | 윈포드 / 돈밀스                                | <span style="font-size:140%;">↔</span> | 토요일 주간 운행. [에글린턴역](../Page/에글린턴역_\(TTC\).md "wikilink") 방면 환승 표 들고 34A, 34C번 버스로 환승. |
+| 43A  | 케네디                                      | Kennedy                                | 미들랜드 / 스틸즈                                                                           |
+| 43B  | [스카버러센터역](../Page/스카버러센터역.md "wikilink") | <span style="font-size:140%;">↔</span> | 평일 러시 아워에만 운행                                                                        |
+| 57   | 미들랜드                                     | Midland                                | 미들랜드 / 스틸즈                                                                           |
+| 86A  | 스카버러                                     | Scarborough                            | 케네디역                                                                                 |
+| 86B  | <span style="font-size:140%;">↔</span>   | 하이랜드크리크 / 킹스턴 로드                       | 평일 아침 러시 아워에만 운행                                                                     |
+| 86C  | <span style="font-size:140%;">↔</span>   | 메도우베일 / 셰퍼드                            | 평일 저녁, 토/일/공휴일 상시 운행                                                                 |
+| 86D  | <span style="font-size:140%;">↔</span>   | 코로네이션 / 월센드                            | 평일 러시 아워, 토요일 주간 운행                                                                  |
+| 113  | 댄포스                                      | Danforth                               | [메인 스트리트역](../Page/메인_스트리트역_\(토론토\).md "wikilink")                                   |
+| 116A | 모닝사이드                                    | Morningside                            | 케네디역                                                                                 |
+| 116B | <span style="font-size:140%;">↔</span>   | 에글린턴 / 킹스턴 로드                          | 평일 러시 아워에만 운행                                                                        |
+| 116C | <span style="font-size:140%;">↔</span>   | 나이트스타 / 모닝사이드                          | 매일 상시 운행                                                                             |
+| 175  | 블러퍼스 공원                                  | Bluffer's Park                         | 케네디역                                                                                 |
+| 300B | 블루어-댄포스                                  | Bloor-Danforth                         | 블루어 / 이스트몰                                                                           |
+| 334  | 에글린턴 이스트                                 | Eglinton East                          | [에글린턴역](../Page/에글린턴역_\(TTC\).md "wikilink")                                         |
+| 343  | 케네디                                      | Kennedy                                | 미들랜드 / 스틸즈                                                                           |
+| 903  | 케네디-스카버러센터 급행                            | Kennedy-Scarborough Centre Express     | [스카버러센터역](../Page/스카버러센터역.md "wikilink")                                             |
+| 905  | 에글린턴 이스트 급행                              | Eglinton East Express                  | 케네디역                                                                                 |
+| 986  | 스카버러 급행                                  | Scarborough Express                    | 케네디역                                                                                 |
 
 ## 인접한 역
 
@@ -266,5 +113,3 @@
 22.
 23.
 24.
-25. [Toronto Transit Commission Subway ridership, 2007-2008](http://www3.ttc.ca/PDF/Transit_Planning/subway_ridership_2007-2008.pdf)
-26.

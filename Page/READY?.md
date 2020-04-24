@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [READY\?](https://ko.wikipedia.org/wiki/READY\?).
 
 
-《**READY?**》(레디)는, [V6의](../Page/V6_\(음악_그룹\).md "wikilink") 11번째 [정규 음반이다](../Page/정규_음반.md "wikilink").
+《**READY?**》(레디)는 [V6의](../Page/V6_\(음악_그룹\).md "wikilink") 11번째 [정규 음반이다](../Page/정규_음반.md "wikilink").
 
 ## 설명
 

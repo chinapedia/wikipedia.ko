@@ -737,7 +737,7 @@
 
   - [산티노 카란타](https://ko.wikipedia.org/wiki/산티노_카란타 "wikilink")
 
-  - [로비 로저스](https://ko.wikipedia.org/wiki/로비_로저스 "wikilink")
+  - [로비 로저스](../Page/로비_로저스.md "wikilink")
 
 ## 최종 순위
 

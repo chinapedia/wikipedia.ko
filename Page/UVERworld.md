@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [UVERworld](https://ko.wikipedia.org/wiki/UVERworld).
 
 
-**UVERworld**(우버월드)는, [일본](../Page/일본.md "wikilink")의 [시가현](../Page/시가현.md "wikilink") 출신 [남성](https://ko.wikipedia.org/wiki/남성 "wikilink") 6인조 [록 밴드이다](https://ko.wikipedia.org/wiki/록_밴드 "wikilink").
+**UVERworld**(우버월드)는 [일본](../Page/일본.md "wikilink")의 [시가현](../Page/시가현.md "wikilink") 출신 [남성](https://ko.wikipedia.org/wiki/남성 "wikilink") 6인조 [록 밴드이다](https://ko.wikipedia.org/wiki/록_밴드 "wikilink").
 
 ## 개요
 

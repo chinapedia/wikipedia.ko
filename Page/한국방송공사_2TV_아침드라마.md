@@ -7,8 +7,8 @@
 
 ## 시보 광고주
 
-  - [LG생활건강](../Page/LG생활건강.md "wikilink") - 노비드, 드봉비누, 자연퐁
-  - [만도위니아](../Page/위니아대우.md "wikilink")
+  - [LG생활건강](../Page/LG생활건강.md "wikilink") (노비드, 드봉비누, 자연퐁 등)
+  - [위니아대우](../Page/위니아대우.md "wikilink")
   - [KBS 2TV](../Page/KBS_2TV.md "wikilink") 아침 9시 시보
   - [쿠첸](https://ko.wikipedia.org/wiki/쿠첸 "wikilink")
   - [현대자동차](https://ko.wikipedia.org/wiki/현대자동차 "wikilink")
@@ -30,7 +30,7 @@
   - 《[아내의 뜰](https://ko.wikipedia.org/wiki/아내의_뜰 "wikilink")》 : 1990년 4월 16일 \~ 1990년 9월 15일
   - 《[가을에 온 손님](https://ko.wikipedia.org/wiki/가을에_온_손님 "wikilink")》 : 1990년 9월 17일 \~ 1991년 3월 2일
   - 《[하늬바람](https://ko.wikipedia.org/wiki/하늬바람 "wikilink")》 : 1991년 3월 4일 \~ 1991년 7월 27일
-  - 《[그리고 흔들리는 배](../Page/그리고_흔들리는_배.md "wikilink")》 : 1991년 7월 29일 \~ 1991년 10월 5일 (**전체 기간** : 1991년 7월 29일 \~ 1992년 2월 28일) (**[2TV 일일드라마](https://ko.wikipedia.org/wiki/한국방송공사_2TV_일일드라마 "wikilink")**으로 변경)
+  - 《[그리고 흔들리는 배](../Page/그리고_흔들리는_배.md "wikilink")》 : 1991년 7월 29일 \~ 1991년 10월 5일 (**전체 기간** : 1991년 7월 29일 \~ 1992년 2월 28일) (**[2TV 일일드라마](https://ko.wikipedia.org/wiki/한국방송공사_2TV_일일드라마 "wikilink")**로 변경)
   - 《[비 오는 날 오후](https://ko.wikipedia.org/wiki/비_오는_날_오후 "wikilink")》 : 1992년 10월 5일 \~ 1993년 2월 27일
   - 《[서있는 여자](https://ko.wikipedia.org/wiki/서있는_여자 "wikilink")》 : 1993년 3월 1일 \~ 1993년 6월 19일
   - 《[서른한 살의 반란](https://ko.wikipedia.org/wiki/서른한_살의_반란 "wikilink")》 : 1993년 6월 21일 \~ 1993년 10월 30일

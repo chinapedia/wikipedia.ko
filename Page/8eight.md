@@ -320,8 +320,9 @@
   - 작사 및 작곡 : 8eight 앨범 수록곡 다수.
   - 피쳐링 : [디기리](../Page/디기리.md "wikilink"), [스퀘어](https://ko.wikipedia.org/wiki/스퀘어 "wikilink"), [제이스](../Page/제이스.md "wikilink"), [바나나걸](../Page/바나나걸.md "wikilink"), [전진](https://ko.wikipedia.org/wiki/전진 "wikilink"), [다이나믹듀오](https://ko.wikipedia.org/wiki/다이나믹듀오 "wikilink"), [H-유진](https://ko.wikipedia.org/wiki/H-유진 "wikilink"), [one sun](https://ko.wikipedia.org/wiki/one_sun "wikilink"), [2AM](https://ko.wikipedia.org/wiki/2AM "wikilink"), [Vibe](https://ko.wikipedia.org/wiki/Vibe "wikilink"), [이루](../Page/이루.md "wikilink"), [Eden Beatz](https://ko.wikipedia.org/wiki/Eden_Beatz "wikilink"), [지조](../Page/지조.md "wikilink"), [주석](https://ko.wikipedia.org/wiki/주석 "wikilink"), [이세준](../Page/이세준.md "wikilink")
 
-### 백찬(BAEK Chan)
+### [백찬 Chan)](../Page/백찬.md "wikilink")(BAEK
 
+  - 정규 1집 \[BAEKCHAN01\]
   - 1st Solo Mini Album <The Analogueman In This Digital World>
   - SBS 월화드라마 '아테나' OST Part.8 '주문'
   - M.net 2009 슈퍼스타K 프로듀서 참여
@@ -333,5 +334,6 @@
 
   - [공식 팬카페 **고운음**](http://cafe.daum.net/ForEight)
   - [에이트 이현 공식페이지](https://web.archive.org/web/20110217131326/http://hyun.ibighit.com/)
+  - [에이트 백찬 공식유튜브](https://www.youtube.com/channel/UCgsxlVmyGPTqWfGvOoKEnOg)
 
 [분류:2007년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2007년_결성된_음악_그룹 "wikilink") [분류:2000년대 음악 그룹](https://ko.wikipedia.org/wiki/분류:2000년대_음악_그룹 "wikilink") [분류:2010년대 음악 그룹](https://ko.wikipedia.org/wiki/분류:2010년대_음악_그룹 "wikilink") [분류:대한민국의 보이 밴드](https://ko.wikipedia.org/wiki/분류:대한민국의_보이_밴드 "wikilink") [분류:한국어 음악 그룹](https://ko.wikipedia.org/wiki/분류:한국어_음악_그룹 "wikilink") [분류:3인조 음악 그룹](https://ko.wikipedia.org/wiki/분류:3인조_음악_그룹 "wikilink") [분류:대한민국의 R\&B 음악 그룹](https://ko.wikipedia.org/wiki/분류:대한민국의_R&B_음악_그룹 "wikilink") [분류:혼성 음악 그룹](https://ko.wikipedia.org/wiki/분류:혼성_음악_그룹 "wikilink") [분류:Mnet 아시안 뮤직 어워드 수상 음악가](https://ko.wikipedia.org/wiki/분류:Mnet_아시안_뮤직_어워드_수상_음악가 "wikilink")

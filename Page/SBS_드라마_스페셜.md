@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [SBS 드라마 스페셜](https://ko.wikipedia.org/wiki/SBS_드라마_스페셜).
 
 
-**SBS 수목드라마**는 [SBS](../Page/SBS.md "wikilink")에서 매주 [수요일](../Page/수요일.md "wikilink")과 [목요일](../Page/목요일.md "wikilink") 밤 10시에 방송되는 [텔레비전 드라마이다](../Page/텔레비전_드라마.md "wikilink"). 대부분 16부작에서 30부작 사이의 미니시리즈 형식으로 현재 방영되고 있으나, 50부작에서 120부작이 넘는 장편 드라마도 방영되었다.
+**SBS 수목드라마**는 [SBS](../Page/SBS.md "wikilink")에서 매주 [수요일](../Page/수요일.md "wikilink")과 [목요일](../Page/목요일.md "wikilink") 밤 10시에 방송되는 [텔레비전 드라마이다](../Page/텔레비전_드라마.md "wikilink"). 대부분 16부작에서 30부작 사이의 미니시리즈 형식으로 현재 방영되고 있으나, 50부작에서 120부작이 넘는 장편 드라마도 방영되었다. 2020년부터 밤 11시에 수목드라마를 다시 부활될 예정이다.
 
 ## 개요
 
@@ -90,13 +90,34 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>2020년 4월 29일 ~ 예정</p></td>
-<td><p>수, 목 밤 9시 40분 ~ 11시</p></td>
-<td><p>80분<br />
-(1부 40분, 2부 40분 분할 방송)</p></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
+</tbody>
+</table>
+
+### 23시대
+
+<table>
+<thead>
+<tr class="header">
+<th><p>방송 채널</p></th>
+<th><p>방송 기간</p></th>
+<th><p>방송 시간</p></th>
+<th><p>방송 분량</p></th>
+</tr>
+</thead>
+<tbody>
 <tr class="odd">
+<td><p><a href="../Page/SBS_TV.md" title="wikilink">SBS TV</a></p></td>
+<td><p>2020년 ~ <strong>예정</strong></p></td>
+<td><p>수, 목 밤 11시 ~ 12시 20분</p></td>
+<td><p>80분<br />
+(1부 40분, 2부 40분 분할 방송)</p></td>
+</tr>
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -163,7 +184,7 @@
 
 #### [<span style="color:black">1996년</span>](../Page/1996년.md "wikilink")
 
-  - 《[사랑의 이름으로](https://ko.wikipedia.org/wiki/사랑의_이름으로_\(드라마\) "wikilink")》 : 1996년 1월 10일 \~ 1996년 4월 10일
+  - 《[사랑의 이름으로](../Page/사랑의_이름으로_\(드라마\).md "wikilink")》 : 1996년 1월 10일 \~ 1996년 4월 10일
   - 《[도둑](../Page/도둑_\(드라마\).md "wikilink")》 : 1996년 4월 17일 \~ 1996년 6월 6일
   - 《[남자대탐험](../Page/남자대탐험.md "wikilink")》 : 1996년 6월 12일 \~ 1996년 8월 1일
   - 《[8월의 신부](../Page/8월의_신부.md "wikilink")》 : 1996년 8월 7일 \~ 1996년 9월 25일

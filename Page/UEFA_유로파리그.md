@@ -1576,7 +1576,7 @@ UEFA 챔피언스리그 예선에 참가하는 각국 리그 우승팀들이 예
 <td><p><a href="../Page/2010-11년_UEFA_유로파리그.md" title="wikilink">2011</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/FC_드니프로" title="wikilink">드니프로</a></p></td>
+<td><p><a href="../Page/FC_드니프로.md" title="wikilink">드니프로</a></p></td>
 <td><p>0</p></td>
 <td><p>1</p></td>
 <td><p>—</p></td>

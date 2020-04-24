@@ -129,7 +129,7 @@ __NOTOC__ 다음은 **[JTBC](../Page/JTBC.md "wikilink")의 [텔레비전](../Pa
 
 ## ㅁ
 
-  - [마녀보감](https://ko.wikipedia.org/wiki/마녀보감 "wikilink")   ([2016년](../Page/2016년.md "wikilink") [5월 13일](../Page/5월_13일.md "wikilink") \~ [2016년](../Page/2016년.md "wikilink") [7월 16일](../Page/7월_16일.md "wikilink"))
+  - [마녀보감](../Page/마녀보감.md "wikilink")   ([2016년](../Page/2016년.md "wikilink") [5월 13일](../Page/5월_13일.md "wikilink") \~ [2016년](../Page/2016년.md "wikilink") [7월 16일](../Page/7월_16일.md "wikilink"))
 
   - [마녀사냥](https://ko.wikipedia.org/wiki/마녀사냥_\(JTBC\) "wikilink")   ([2013년](../Page/2013년.md "wikilink") [8월 2일](../Page/8월_2일.md "wikilink") \~ [2015년](../Page/2015년.md "wikilink") [12월 18일](../Page/12월_18일.md "wikilink"))
 

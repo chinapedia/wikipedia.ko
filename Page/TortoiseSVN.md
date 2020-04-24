@@ -13,7 +13,7 @@
 Command line 의 경우 다음 명령어를 사용한다.
 
 ``` bash
-    $ svnadmin create [대상 path 이름]
+   $ svnadmin create [대상 path 이름]
 ```
 
   - Subversion에 새 프로젝트를 import하는 법?
@@ -51,7 +51,7 @@ Command line 의 경우 다음 명령어를 사용한다.
 예를 들어 저장소 안에서 check-out할 file들의 위치가 다음과 같다고 하자.
 
 ``` bash
-    file:///c:/svn_repository/Project01/trunk/
+   file:///c:/svn_repository/Project01/trunk/
 ```
 
 여기서 Project01이 project 이름이고 trunk는 주류 file이라는 의미이다.
@@ -161,7 +161,7 @@ int main ()
 <!-- end list -->
 
 ``` bash
-    $ svn propset svn:keywords "Date Author Revision" [대상 file 이름]
+   $ svn propset svn:keywords "Date Author Revision" [대상 file 이름]
 ```
 
 ### Branch, Tag, Merge
@@ -179,19 +179,19 @@ int main ()
       -
 
         ``` bash
-           file:///c:/svn_repository/Project01/trunk/
+          file:///c:/svn_repository/Project01/trunk/
         ```
 
         였다면 branch 위치는
 
         ``` bash
-           file:///c:/svn_repository/Project01/branch/
+          file:///c:/svn_repository/Project01/branch/
         ```
 
         와 같은 형식, Tag 위치는
 
         ``` bash
-           file:///c:/svn_repository/Project01/tags/Success_LED_On/
+          file:///c:/svn_repository/Project01/tags/Success_LED_On/
         ```
 
         와 같은 형식으로 한다.

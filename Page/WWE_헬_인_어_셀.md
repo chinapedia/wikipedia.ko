@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [WWE 헬 인 어 셀](https://ko.wikipedia.org/wiki/WWE_헬_인_어_셀).
 
 
-**헬 인 어 셀**(Hell in a Cell)는 미국 프로레슬링 단체 [WWE](https://ko.wikipedia.org/wiki/WWE "wikilink") 에서 2009년부터 시행 중인 페이 퍼 뷰이다.
+**헬 인 어 셀**(Hell in a Cell)는 미국 프로레슬링 단체 [WWE](../Page/WWE.md "wikilink") 에서 2009년부터 시행 중인 페이 퍼 뷰이다.
 
 ## 헬 인 어 셀 개최한 곳
 

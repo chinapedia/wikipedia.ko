@@ -222,7 +222,7 @@ EBS FM은 [KBS 제1라디오와](../Page/KBS_제1라디오.md "wikilink") 함께
   - [MBC FM4U](../Page/MBC_FM4U.md "wikilink")
   - [SBS 파워FM](../Page/SBS_파워FM.md "wikilink")
   - [CBS 음악FM](../Page/CBS_음악FM.md "wikilink")
-  - [TBS FM](https://ko.wikipedia.org/wiki/TBS_\(대한민국의_방송사\) "wikilink")
+  - [TBS FM](../Page/TBS_\(대한민국의_방송사\).md "wikilink")
   - [EBS 1TV](../Page/EBS_1TV.md "wikilink")
   - [극동방송](../Page/극동방송.md "wikilink")
 

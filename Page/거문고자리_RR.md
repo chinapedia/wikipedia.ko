@@ -16,4 +16,4 @@
 
   - [거문고자리 RR형 변광성](../Page/거문고자리_RR형_변광성.md "wikilink")
 
-[분류:거문고자리](https://ko.wikipedia.org/wiki/분류:거문고자리 "wikilink") [분류:거문고자리 RR형 변광성](https://ko.wikipedia.org/wiki/분류:거문고자리_RR형_변광성 "wikilink") [분류:A형 거성](https://ko.wikipedia.org/wiki/분류:A형_거성 "wikilink") [분류:F형 거성](https://ko.wikipedia.org/wiki/분류:F형_거성 "wikilink") [분류:헨리 드레이퍼 목록 천체](https://ko.wikipedia.org/wiki/분류:헨리_드레이퍼_목록_천체 "wikilink") [분류:히파르코스 천체](https://ko.wikipedia.org/wiki/분류:히파르코스_천체 "wikilink")
+[분류:거문고자리](https://ko.wikipedia.org/wiki/분류:거문고자리 "wikilink") [분류:거문고자리 RR형 변광성](https://ko.wikipedia.org/wiki/분류:거문고자리_RR형_변광성 "wikilink") [분류:A형 거성](https://ko.wikipedia.org/wiki/분류:A형_거성 "wikilink") [분류:F형 거성](https://ko.wikipedia.org/wiki/분류:F형_거성 "wikilink") [분류:헨리 드레이퍼 목록 천체](https://ko.wikipedia.org/wiki/분류:헨리_드레이퍼_목록_천체 "wikilink") [분류:히파르코스 천체](https://ko.wikipedia.org/wiki/분류:히파르코스_천체 "wikilink") [분류:2MASS 천체](https://ko.wikipedia.org/wiki/분류:2MASS_천체 "wikilink")

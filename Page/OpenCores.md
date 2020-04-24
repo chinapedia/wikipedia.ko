@@ -36,7 +36,7 @@ OpenCores에서 개발하는 컴포넌트들은 [GNU 일반 공중 사용 허가
 
 ## 외부 링크
 
-  - [공식 사이트](http://www.opencores.org/)
+  - [공식 사이트](https://web.archive.org/web/20110226000636/http://opencores.org/)
 
 [분류:회로 설계](https://ko.wikipedia.org/wiki/분류:회로_설계 "wikilink")
 

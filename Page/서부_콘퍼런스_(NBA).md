@@ -101,7 +101,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/피닉스_선스.md" title="wikilink">피닉스 선스</a></p></td>
-<td><p><a href="../Page/애리조나주.md" title="wikilink">애리조나주</a> <a href="https://ko.wikipedia.org/wiki/피닉스" title="wikilink">피닉스</a></p></td>
+<td><p><a href="../Page/애리조나주.md" title="wikilink">애리조나주</a> <a href="../Page/피닉스.md" title="wikilink">피닉스</a></p></td>
 <td><p><a href="../Page/토킹_스틱_리조트_아레나.md" title="wikilink">토킹 스틱 리조트 아레나</a></p></td>
 <td><p>18,422명</p></td>
 <td><p>1968년</p></td>

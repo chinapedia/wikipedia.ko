@@ -99,7 +99,7 @@
 
 1.  영상 ([DJ 투컷](../Page/DJ_투컷.md "wikilink") 솔로 무대)
 2.  잊지 말아요 ([아이리스](../Page/아이리스_\(드라마\).md "wikilink") 주제곡, [미쓰라 진](../Page/미쓰라_진.md "wikilink") 솔로)
-3.  I will always love you ([휘트니 휴스턴](https://ko.wikipedia.org/wiki/휘트니_휴스턴 "wikilink") 커버, [타블로](../Page/타블로.md "wikilink") 솔로)
+3.  I will always love you ([휘트니 휴스턴](../Page/휘트니_휴스턴.md "wikilink") 커버, [타블로](../Page/타블로.md "wikilink") 솔로)
 4.  그땐 그랬지 ([카니발](../Page/카니발_\(음악_그룹\).md "wikilink") 커버)
 5.  [도끼](../Page/도끼_\(가수\).md "wikilink") 무대
 

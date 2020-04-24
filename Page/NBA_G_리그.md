@@ -296,7 +296,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/텍사스_레전즈.md" title="wikilink">텍사스 레전즈</a></p></td>
-<td><p><a href="../Page/텍사스주.md" title="wikilink">텍사스주</a> <a href="https://ko.wikipedia.org/wiki/프리스코_(텍사스주)" title="wikilink">프리스코</a></p></td>
+<td><p><a href="../Page/텍사스주.md" title="wikilink">텍사스주</a> <a href="../Page/프리스코_(텍사스주).md" title="wikilink">프리스코</a></p></td>
 <td><p><a href="../Page/코메리카_센터.md" title="wikilink">코메리카 센터</a></p></td>
 <td><p>4,500명</p></td>
 <td><p>2006년</p></td>

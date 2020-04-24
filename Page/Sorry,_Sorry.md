@@ -40,7 +40,7 @@
 ## 에피소드
 
   - [2009년](../Page/2009년.md "wikilink") [3월 9일](../Page/3월_9일.md "wikilink"), 선공개를 시작으로 [12일에](../Page/3월_12일.md "wikilink") 전격 발매된 후 [13일에](../Page/3월_13일.md "wikilink") [뮤직뱅크](../Page/뮤직뱅크.md "wikilink"), [14일엔](../Page/3월_14일.md "wikilink") [쇼\! 음악중심](https://ko.wikipedia.org/wiki/쇼!_음악중심 "wikilink"), [15일](../Page/3월_15일.md "wikilink") [인기가요](https://ko.wikipedia.org/wiki/인기가요 "wikilink")에서 컴백무대를 가졌다.
-  - [기범은](https://ko.wikipedia.org/wiki/김기범_\(1987년\) "wikilink") 뮤직비디오에 출연했으나 연기자 활동 전념으로 활동에 참여하지 못했지만 사실상 기범의 공식적인 마지막 앨범이다.
+  - [기범은](https://ko.wikipedia.org/wiki/김기범_\(1987년\) "wikilink") 뮤직비디오에 출연했으나 연기자 활동 전념으로 활동에 참여하지 못했고, 사실상 [기범](https://ko.wikipedia.org/wiki/기범 "wikilink")의 공식적인 마지막 앨범이다.
   - [한경](../Page/한경.md "wikilink")은 2009년 12월 전속계약 효력부존재 확인 소송 발생 전에 한경의 공식적인 마지막 앨범이다.
   - 3집 일본 발매 앨범 A, B버전에 13번 트랙으로〈Sorry, Sorry〉의 일본어 버전이 수록되어 있다.
   - C버전 5번 트랙 **첫 번째 이야기 (Love U More)**는 멤버 [려욱](../Page/려욱.md "wikilink")이 작곡하고 [성민이](../Page/성민_\(1986년\).md "wikilink") 작사한 노래이다.

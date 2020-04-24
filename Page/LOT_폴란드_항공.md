@@ -35,7 +35,6 @@
 <li><a href="../Page/스위스_국제항공.md" title="wikilink">스위스 국제항공</a> <small>(<a href="../Page/스타얼라이언스.md" title="wikilink">스타얼라이언스</a>)</small></li>
 <li><a href="../Page/스칸디나비아_항공.md" title="wikilink">스칸디나비아 항공</a> <small>(<a href="../Page/스타얼라이언스.md" title="wikilink">스타얼라이언스</a>)</small></li>
 <li><a href="../Page/싱가포르_항공.md" title="wikilink">싱가포르 항공</a> <small>(<a href="../Page/스타얼라이언스.md" title="wikilink">스타얼라이언스</a>)</small></li>
-<li><a href="../Page/아드리아_항공.md" title="wikilink">아드리아 항공</a> <small>(<a href="../Page/스타얼라이언스.md" title="wikilink">스타얼라이언스</a>)</small></li>
 <li><a href="https://ko.wikipedia.org/wiki/아시아나항공" title="wikilink">아시아나항공</a> <small>(<a href="../Page/스타얼라이언스.md" title="wikilink">스타얼라이언스</a>)</small></li>
 <li><a href="../Page/아에로플로트.md" title="wikilink">아에로플로트</a> <small>(<a href="../Page/스카이팀.md" title="wikilink">스카이팀</a>)</small></li>
 <li><a href="../Page/오스트리아_항공.md" title="wikilink">오스트리아 항공</a> <small>(<a href="../Page/스타얼라이언스.md" title="wikilink">스타얼라이언스</a>)</small></li>
@@ -59,7 +58,7 @@
 
 ## 보유 기종
 
-  - [2020년](../Page/2020년.md "wikilink") [2월](../Page/2월.md "wikilink") 기준으로 LOT 폴란드 항공은 다음과 같은 기종을 보유하고 있다. 평균 기령은 6.5년인 반면 [유로 LOT와](https://ko.wikipedia.org/wiki/유로_LOT "wikilink") [LOT 차터의](https://ko.wikipedia.org/wiki/LOT_차터 "wikilink") 경우 평균 기령이 12.8년이다.\[3\] 대부분 [보잉](../Page/보잉.md "wikilink")제 여객기를 운용하고 있으나, [보잉 787의](../Page/보잉_787_드림라이너.md "wikilink") 초기 기체 결함 및 [보잉 737 MAX의](../Page/보잉_737_MAX.md "wikilink") 운용금지 조치에 따라 [에어버스](../Page/에어버스.md "wikilink")의 기종도 조금씩 임차하여 운용하기로 했다. [보잉 787용](../Page/보잉_787_드림라이너.md "wikilink") 엔진은 [롤스로이스의](../Page/롤스로이스_홀딩스.md "wikilink") 트렌트 1000을 이용한다.
+  - [2020년](../Page/2020년.md "wikilink") [2월](../Page/2월.md "wikilink") 기준으로 LOT 폴란드 항공은 다음과 같은 기종을 보유하고 있다. 평균 기령은 6.5년인 반면 [유로 LOT와](https://ko.wikipedia.org/wiki/유로_LOT "wikilink") [LOT 차터의](https://ko.wikipedia.org/wiki/LOT_차터 "wikilink") 경우 평균 기령이 12.8년이다.\[3\]\[4\]
 
 ### 현재 사용하는 기종
 
@@ -94,7 +93,7 @@
 <p>TBA</p>
 </div>
 <p></abbr></p></td>
-<td><p><a href="../Page/2020년.md" title="wikilink">2020년</a>부터 임차 운항 예정[4][5]</p></td>
+<td><p><a href="../Page/2020년.md" title="wikilink">2020년</a>부터 임차 운항[5][6]</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/에어버스_A340.md" title="wikilink">에어버스 A340-300</a></p></td>
@@ -106,19 +105,19 @@
 <p>TBA</p>
 </div>
 <p></abbr></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/에어_벨기에_(2016년)" title="wikilink">에어 벨기에</a> 임차 운항</br><a href="../Page/2020년.md" title="wikilink">2020년</a> <a href="../Page/10월_24일.md" title="wikilink">10월 24일까지</a> 임차 운항 예정[6]</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/에어_벨기에_(2016년)" title="wikilink">에어 벨기에</a> 임차 운항</br><a href="../Page/2020년.md" title="wikilink">2020년</a> <a href="../Page/10월_24일.md" title="wikilink">10월 24일까지</a> 임차 운항 예정[7]</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/보잉_737.md" title="wikilink">보잉 737-400</a></p></td>
 <td><p>1</p></td>
 <td><p>0</p></td>
 <td><p>0</p></td>
-<td><p>18</p></td>
-<td><p>18</p></td>
+<td><p>20</p></td>
+<td><p>9</p></td>
 </tr>
 <tr class="odd">
 <td><p>2</p></td>
-<td><p>순차적으로 퇴역 예정[7]</p></td>
+<td><p>순차적으로 퇴역 예정[8]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -137,16 +136,16 @@
 <td><p>7</p></td>
 <td><p>0</p></td>
 <td><p>0</p></td>
-<td><p>4</p></td>
-<td><p>6</p></td>
+<td><p>18</p></td>
+<td><p>18</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/보잉_737_MAX.md" title="wikilink">보잉 737 MAX 8</a></p></td>
 <td><p>5</p></td>
 <td><p>7</p></td>
 <td><p>5</p></td>
-<td><p>0</p></td>
-<td><p>0</p></td>
+<td><p>20</p></td>
+<td><p>18</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/보잉_787_드림라이너.md" title="wikilink">보잉 787-8</a></p></td>
@@ -169,16 +168,16 @@
 <td><p>6</p></td>
 <td><p>0</p></td>
 <td><p>0</p></td>
-<td><p>14</p></td>
-<td><p>10</p></td>
+<td><p>5</p></td>
+<td><p>12</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/엠브라에르_E-Jets.md" title="wikilink">엠브라에르 ERJ-175</a></p></td>
 <td><p>14</p></td>
 <td><p>0</p></td>
 <td><p>0</p></td>
-<td><p>22</p></td>
-<td><p>10</p></td>
+<td><p>7</p></td>
+<td><p>16</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/엠브라에르_E-Jets.md" title="wikilink">엠브라에르 ERJ-190</a></p></td>
@@ -193,7 +192,7 @@
 <td><p>15</p></td>
 <td><p>0</p></td>
 <td><p>0</p></td>
-<td><p>20</p></td>
+<td><p>10</p></td>
 <td><p>12</p></td>
 </tr>
 <tr class="odd">
@@ -284,9 +283,9 @@
 
 ## 사건 및 사고
 
-  - [2011년](../Page/2011년.md "wikilink") [11월 1일](../Page/11월_1일.md "wikilink"), [뉴어크 리버티 국제공항에서](https://ko.wikipedia.org/wiki/뉴어크_리버티_국제공항 "wikilink") [쇼팽 국제공항으로](../Page/바르샤바_쇼팽_국제공항.md "wikilink") 오던 LOT 항공기가 바퀴가 내려오지 않아 동체착륙을 시도하였으나, 부상자은 없었다.\[8\]
-  - [2018년](../Page/2018년.md "wikilink") [1월 10일](../Page/1월_10일.md "wikilink"), LOT 항공의 자회사인 [유로 LOT의](https://ko.wikipedia.org/wiki/유로_LOT "wikilink") 항공기의 앞바퀴가 내려오지 않아 동체착륙을 하였지만, 부상자는 없었다.\[9\]
-  - [2020년](../Page/2020년.md "wikilink") [3월 13일](../Page/3월_13일.md "wikilink"), [인천국제공항](https://ko.wikipedia.org/wiki/인천국제공항 "wikilink")에서 [쇼팽 국제공항으로](../Page/바르샤바_쇼팽_국제공항.md "wikilink") 가던 LOT 항공기에 [코로나 19](https://ko.wikipedia.org/wiki/코로나_19 "wikilink") 확진자가 탑승해 승객들을 태우지 않고 이륙하였고, 대신에 대체 항공기를 띄웠다.\[10\]
+  - [2011년](../Page/2011년.md "wikilink") [11월 1일](../Page/11월_1일.md "wikilink"), [뉴어크 리버티 국제공항에서](https://ko.wikipedia.org/wiki/뉴어크_리버티_국제공항 "wikilink") [쇼팽 국제공항으로](../Page/바르샤바_쇼팽_국제공항.md "wikilink") 오던 LOT 항공기가 바퀴가 내려오지 않아 동체착륙을 시도하였으나, 부상자은 없었다.\[9\]
+  - [2018년](../Page/2018년.md "wikilink") [1월 10일](../Page/1월_10일.md "wikilink"), LOT 항공의 자회사인 [유로 LOT의](https://ko.wikipedia.org/wiki/유로_LOT "wikilink") 항공기의 앞바퀴가 내려오지 않아 동체착륙을 하였지만, 부상자는 없었다.\[10\]
+  - [2020년](../Page/2020년.md "wikilink") [3월 13일](../Page/3월_13일.md "wikilink"), [인천국제공항](https://ko.wikipedia.org/wiki/인천국제공항 "wikilink")에서 [쇼팽 국제공항으로](../Page/바르샤바_쇼팽_국제공항.md "wikilink") 가던 LOT 항공기에 [코로나 19](https://ko.wikipedia.org/wiki/코로나_19 "wikilink") 확진자가 탑승해 승객들을 태우지 않고 이륙하였고, 대신에 대체 항공기를 띄웠다.\[11\]
 
 ## 각주
 
@@ -312,3 +311,4 @@
 8.
 9.
 10.
+11.

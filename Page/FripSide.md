@@ -592,7 +592,7 @@ fripSide라는 단어는 sat이 만든 단어로, [레코드의 B면을](https:/
 
   - [fripSide NBC UNIVERSAL Entertainment Japan 공식 웹사이트](https://web.archive.org/web/20140302055607/http://www.nbcuni.co.jp/music/artist/fripside/) (바로 프로모션 TV스팟이 재생되므로 주의)
 
-  - [야기누마 사토시 공식 웹사이트](http://blog.livedoor.jp/fripside_sat/)
+  - [야기누마 사토시 공식 웹사이트](https://web.archive.org/web/20100211023720/http://blog.livedoor.jp/fripside_sat/)
 
   - [난죠 요시노 공식 블로그](http://nanjolno.jugem.jp/)
 

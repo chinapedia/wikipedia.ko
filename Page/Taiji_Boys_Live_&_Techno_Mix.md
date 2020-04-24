@@ -26,10 +26,14 @@
 <!-- end list -->
 
   - 김희연, 김민기 - 드럼
-  - 최태환 - 건반
+  - 최태환\[1\] - 건반
   - [이정식](https://ko.wikipedia.org/wiki/이정식_\(음악가\) "wikilink") - [색소폰](../Page/색소폰.md "wikilink")
   - 이태윤, 허준석 - [베이스 기타](../Page/베이스_기타.md "wikilink")
   - 유태준, 이태섭 - [기타](../Page/기타.md "wikilink")
   - 코러스 팀, No People Break Dance Team, Jazz Dance Team, Black Sheep
 
+## 각주
+
 [분류:팝 음반](https://ko.wikipedia.org/wiki/분류:팝_음반 "wikilink") [분류:힙합 음반](https://ko.wikipedia.org/wiki/분류:힙합_음반 "wikilink") [분류:전자 음악 음반](https://ko.wikipedia.org/wiki/분류:전자_음악_음반 "wikilink") [분류:서태지와 아이들의 음반](https://ko.wikipedia.org/wiki/분류:서태지와_아이들의_음반 "wikilink") [분류:대한민국의 음반](https://ko.wikipedia.org/wiki/분류:대한민국의_음반 "wikilink") [분류:한국어 음반](https://ko.wikipedia.org/wiki/분류:한국어_음반 "wikilink") [분류:1992년 라이브 음반](https://ko.wikipedia.org/wiki/분류:1992년_라이브_음반 "wikilink")
+
+1.  이 건반 연주자의 올바른 이름은 최태완이다.

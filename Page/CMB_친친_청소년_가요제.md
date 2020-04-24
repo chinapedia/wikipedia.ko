@@ -55,12 +55,12 @@
 ### 2011 친친스타페스티벌
 
   - 개최 : [2011년](../Page/2011년.md "wikilink") [9월 17일](../Page/9월_17일.md "wikilink") [토요일](../Page/토요일.md "wikilink") 오후 7시 / 대전광역시청 남문광장
-  - 사회자 : [김성주](../Page/김성주_\(방송인\).md "wikilink"), [코요태](https://ko.wikipedia.org/wiki/코요태 "wikilink") [신지](https://ko.wikipedia.org/wiki/신지_\(가수\) "wikilink")
+  - 사회자 : [김성주](../Page/김성주_\(방송인\).md "wikilink"), [코요태](../Page/코요태.md "wikilink") [신지](../Page/신지_\(가수\).md "wikilink")
 
 ### 2012 친친스타페스티벌
 
   - 개최 : [2012년](../Page/2012년.md "wikilink") [9월 15일](../Page/9월_15일.md "wikilink") [토요일](../Page/토요일.md "wikilink") 오후 7시 / 대전시청사 남쪽 광장
-  - 사회자 : [코요태](https://ko.wikipedia.org/wiki/코요태 "wikilink") [신지](https://ko.wikipedia.org/wiki/신지_\(가수\) "wikilink"), [토니 안](../Page/토니_안.md "wikilink")
+  - 사회자 : [코요태](../Page/코요태.md "wikilink") [신지](../Page/신지_\(가수\).md "wikilink"), [토니 안](../Page/토니_안.md "wikilink")
 
 ## 역대 수상자
 
@@ -112,7 +112,7 @@
   - **은상, 대전광역시교육감상** : 김영균 - [이적](../Page/이적_\(가수\).md "wikilink") <다행이다>, 로리타 - [크리스티나 아길레라](../Page/크리스티나_아길레라.md "wikilink") \<Ain't no Other Man\>
   - **동상** : 성유진 - [박정현](../Page/박정현.md "wikilink") \<p.s I Love You\>, 더블케이 (KK) - [먼데이 키즈](../Page/먼데이_키즈.md "wikilink") <새살>, 조우찡 - <고원홍>
   - **국가청소년위원장상, Etn 사장상** : S.Y - 거미 <어른아이>
-  - **MTV 사장상** : 석지영 - [휘트니 휴스턴](https://ko.wikipedia.org/wiki/휘트니_휴스턴 "wikilink") <The Great Love of All>
+  - **MTV 사장상** : 석지영 - [휘트니 휴스턴](../Page/휘트니_휴스턴.md "wikilink") <The Great Love of All>
   - **CNTV 사장상** : 김지혜 - 지영선 <소원>
   - **온미디어 사장상** : 백지연 - [윤하](../Page/윤하.md "wikilink") \<비밀번호 496\>
   - **앨리스 TV 사장상** : How - [브라운 아이드 소울](../Page/브라운_아이드_소울.md "wikilink") <My Everything>

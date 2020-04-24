@@ -50,7 +50,7 @@
 | 12회 | [2013년](../Page/2013년.md "wikilink") | [김준호](../Page/김준호_\(희극인\).md "wikilink")                                                       | [개그콘서트](https://ko.wikipedia.org/wiki/개그콘서트 "wikilink"), [해피선데이](../Page/해피선데이.md "wikilink") - [1박 2일](../Page/1박_2일.md "wikilink"), [인간의 조건](../Page/인간의_조건.md "wikilink") |
 | 13회 | [2014년](../Page/2014년.md "wikilink") | [유재석](https://ko.wikipedia.org/wiki/유재석 "wikilink")                                            | [해피투게더](../Page/해피투게더_\(텔레비전_프로그램\).md "wikilink"), [나는 남자다](../Page/나는_남자다.md "wikilink")                                                                                   |
 | 14회 | [2015년](../Page/2015년.md "wikilink") | [이휘재](../Page/이휘재.md "wikilink")                                                               | [해피선데이](../Page/해피선데이.md "wikilink") - [슈퍼맨이 돌아왔다](../Page/슈퍼맨이_돌아왔다.md "wikilink"), [비타민](../Page/비타민_\(텔레비전_프로그램\).md "wikilink")                                          |
-| 15회 | [2016년](../Page/2016년.md "wikilink") | [김종민](https://ko.wikipedia.org/wiki/김종민 "wikilink")                                            | [해피선데이](../Page/해피선데이.md "wikilink") - [1박 2일](../Page/1박_2일.md "wikilink")                                                                                                  |
+| 15회 | [2016년](../Page/2016년.md "wikilink") | [김종민](../Page/김종민.md "wikilink")                                                               | [해피선데이](../Page/해피선데이.md "wikilink") - [1박 2일](../Page/1박_2일.md "wikilink")                                                                                                  |
 | 16회 | [2018년](../Page/2018년.md "wikilink") | [이영자](../Page/이영자.md "wikilink")                                                               | [대국민 토크쇼 안녕하세요](../Page/대국민_토크쇼_안녕하세요.md "wikilink"), [볼 빨간 당신](../Page/볼_빨간_당신.md "wikilink")                                                                               |
 | 17회 | [2019년](../Page/2019년.md "wikilink") | [슈퍼맨이 돌아왔다](../Page/슈퍼맨이_돌아왔다.md "wikilink") 아빠들                                               | [슈퍼맨이 돌아왔다](../Page/슈퍼맨이_돌아왔다.md "wikilink")                                                                                                                                 |
 |     |                                      |                                                                                                |                                                                                                                                                                              |
@@ -297,7 +297,7 @@
 </tr>
 <tr class="even">
 <td><p>14회 <a href="../Page/2015년.md" title="wikilink">2015년</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/김종민" title="wikilink">김종민</a><br />
+<td><p><a href="../Page/김종민.md" title="wikilink">김종민</a><br />
 <a href="../Page/박명수.md" title="wikilink">박명수</a></p></td>
 <td><p><a href="../Page/1박_2일.md" title="wikilink">1박 2일</a><br />
 <a href="https://ko.wikipedia.org/wiki/해피투게더" title="wikilink">해피투게더</a>, <a href="../Page/나를_돌아봐.md" title="wikilink">나를 돌아봐</a></p></td>
@@ -814,7 +814,7 @@
 </tr>
 <tr class="even">
 <td><p>5회 <a href="../Page/2006년.md" title="wikilink">2006년</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/김종민" title="wikilink">김종민</a> (<a href="../Page/해피선데이.md" title="wikilink">해피선데이</a>-<a href="https://ko.wikipedia.org/wiki/여걸_6" title="wikilink">여걸 6</a>)</p></td>
+<td><p><a href="../Page/김종민.md" title="wikilink">김종민</a> (<a href="../Page/해피선데이.md" title="wikilink">해피선데이</a>-<a href="https://ko.wikipedia.org/wiki/여걸_6" title="wikilink">여걸 6</a>)</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -944,7 +944,7 @@
 <td><p>16회</p></td>
 <td><p><a href="../Page/2018년.md" title="wikilink">2018년</a></p></td>
 <td><p>김언중, 백옥자 (<a href="../Page/김승현_(배우).md" title="wikilink">김승현의</a> 父母) (<a href="../Page/살림하는_남자들.md" title="wikilink">살림하는 남자들</a>)<br />
-<a href="../Page/김준호_(희극인).md" title="wikilink">김준호</a>, <a href="https://ko.wikipedia.org/wiki/김종민" title="wikilink">김종민</a> (<a href="../Page/해피선데이.md" title="wikilink">해피선데이</a> - <a href="../Page/1박_2일.md" title="wikilink">1박 2일</a>)</p></td>
+<a href="../Page/김준호_(희극인).md" title="wikilink">김준호</a>, <a href="../Page/김종민.md" title="wikilink">김종민</a> (<a href="../Page/해피선데이.md" title="wikilink">해피선데이</a> - <a href="../Page/1박_2일.md" title="wikilink">1박 2일</a>)</p></td>
 </tr>
 <tr class="even">
 <td><p>17회</p></td>
@@ -1303,7 +1303,7 @@
 | 8  | 2009년 | [이경규](../Page/이경규.md "wikilink"), [이지애](../Page/이지애.md "wikilink"), [윤아](../Page/윤아.md "wikilink")                                                       |
 | 9  | 2010년 | [신동엽](../Page/신동엽_\(희극인\).md "wikilink"), [이지애](../Page/이지애.md "wikilink"), [신봉선](../Page/신봉선.md "wikilink")                                             |
 | 10 | 2011년 | [신동엽](../Page/신동엽_\(희극인\).md "wikilink"), [이지애](../Page/이지애.md "wikilink"), [윤아](../Page/윤아.md "wikilink")                                               |
-| 11 | 2012년 | [신동엽](../Page/신동엽_\(희극인\).md "wikilink"), [이지애](../Page/이지애.md "wikilink"), [수지](https://ko.wikipedia.org/wiki/수지_\(1994년\) "wikilink")                  |
+| 11 | 2012년 | [신동엽](../Page/신동엽_\(희극인\).md "wikilink"), [이지애](../Page/이지애.md "wikilink"), [수지](../Page/수지_\(1994년\).md "wikilink")                                     |
 | 12 | 2013년 | [신동엽](../Page/신동엽_\(희극인\).md "wikilink"), [서인국](https://ko.wikipedia.org/wiki/서인국 "wikilink"), [구하라](../Page/구하라.md "wikilink")                          |
 | 13 | 2014년 | [신동엽](../Page/신동엽_\(희극인\).md "wikilink"), [성시경](https://ko.wikipedia.org/wiki/성시경 "wikilink"), [유희열](https://ko.wikipedia.org/wiki/유희열 "wikilink")       |
 | 14 | 2015년 | [신동엽](../Page/신동엽_\(희극인\).md "wikilink"), [성시경](https://ko.wikipedia.org/wiki/성시경 "wikilink"), [설현](../Page/설현.md "wikilink")                            |
@@ -1460,8 +1460,8 @@
       - [강호동](../Page/강호동.md "wikilink") - [2008년](../Page/2008년.md "wikilink") KBS, MBC **연예대상**
       - [유재석](https://ko.wikipedia.org/wiki/유재석 "wikilink") - [2009년](../Page/2009년.md "wikilink") MBC, SBS **연예대상**, [2014년](../Page/2014년.md "wikilink") KBS, MBC **연예대상**
       - [이영자](../Page/이영자.md "wikilink") - [2018년](../Page/2018년.md "wikilink") KBS, MBC **연예대상**
-  - **KBS 연예대상 최다 수상자**로는 [신동엽](../Page/신동엽_\(희극인\).md "wikilink") (2002년, 2012년), [유재석](https://ko.wikipedia.org/wiki/유재석 "wikilink") (2005년, 2014년), [강호동](../Page/강호동.md "wikilink") (2008년, 2009년), [김종민](https://ko.wikipedia.org/wiki/김종민 "wikilink") (2011년, 2016년) 이 있다.
-  - [2011년](../Page/2011년.md "wikilink") **연예대상**은 프로그램 멤버 단체가 대상을 수상하였다. (당시 멤버 : [이수근](../Page/이수근_\(희극인\).md "wikilink"), [엄태웅](../Page/엄태웅.md "wikilink"), [김종민](https://ko.wikipedia.org/wiki/김종민 "wikilink"), [은지원](../Page/은지원.md "wikilink"), [이승기](../Page/이승기.md "wikilink"))
+  - **KBS 연예대상 최다 수상자**로는 [신동엽](../Page/신동엽_\(희극인\).md "wikilink") (2002년, 2012년), [유재석](https://ko.wikipedia.org/wiki/유재석 "wikilink") (2005년, 2014년), [강호동](../Page/강호동.md "wikilink") (2008년, 2009년), [김종민](../Page/김종민.md "wikilink") (2011년, 2016년) 이 있다.
+  - [2011년](../Page/2011년.md "wikilink") **연예대상**은 프로그램 멤버 단체가 대상을 수상하였다. (당시 멤버 : [이수근](../Page/이수근_\(희극인\).md "wikilink"), [엄태웅](../Page/엄태웅.md "wikilink"), [김종민](../Page/김종민.md "wikilink"), [은지원](../Page/은지원.md "wikilink"), [이승기](../Page/이승기.md "wikilink"))
   - [2011년](../Page/2011년.md "wikilink") **연예대상** 수상자 선정 시 대상 후보에 없었던 팀에게 대상을 시상하면서 많은 비판을 받았다. 당초 [이경규](../Page/이경규.md "wikilink"), [김병만](../Page/김병만.md "wikilink"), [신동엽](../Page/신동엽_\(희극인\).md "wikilink"), [유재석](https://ko.wikipedia.org/wiki/유재석 "wikilink"), [이승기](../Page/이승기.md "wikilink") 등 총 5명의 후보였으며, 이 중 《[개그콘서트](https://ko.wikipedia.org/wiki/개그콘서트 "wikilink")》에서 화제을 모은 코너인 〈달인〉에서 뜨거운 인기를 얻은 김병만이 유력한 후보였지만 아무도 예상치 못한 《[1박 2일](../Page/1박_2일.md "wikilink")》이 단체로 대상을 수상하면서 급조된 시상이 아니냐는 의혹을 샀다.\[5\]
   - [2018년](../Page/2018년.md "wikilink") **연예대상**은 [2002년](../Page/2002년.md "wikilink") 연예대상 시상식 개최 이후 최초로 여성이 대상을 수상하였다.
   - [2019년](../Page/2019년.md "wikilink") **연예대상**은 [2011년](../Page/2011년.md "wikilink") 연예대상 시상식에 이어 역대 두번째로 프로그램 멤버 단체가 대상을 수상하였다. (당시 멤버 : [샘 해밍턴](../Page/샘_해밍턴.md "wikilink"), [박주호](../Page/박주호.md "wikilink"), [문희준](../Page/문희준.md "wikilink"), [홍경민](../Page/홍경민.md "wikilink"), [도경완](../Page/도경완.md "wikilink"))\[6\]
@@ -1469,14 +1469,14 @@
 ## 패러디
 
   - 2011년 : [1박 2일팀](../Page/1박_2일.md "wikilink") (시즌1)이 [감사합니다를](https://ko.wikipedia.org/wiki/개그콘서트 "wikilink") 패러디하였다.
-      - 당시 멤버 : [엄태웅](../Page/엄태웅.md "wikilink"), [이수근](../Page/이수근_\(희극인\).md "wikilink"), [은지원](../Page/은지원.md "wikilink"), [김종민](https://ko.wikipedia.org/wiki/김종민 "wikilink"), [이승기](../Page/이승기.md "wikilink")
+      - 당시 멤버 : [엄태웅](../Page/엄태웅.md "wikilink"), [이수근](../Page/이수근_\(희극인\).md "wikilink"), [은지원](../Page/은지원.md "wikilink"), [김종민](../Page/김종민.md "wikilink"), [이승기](../Page/이승기.md "wikilink")
   - 2012년 : [1박 2일팀](../Page/1박_2일.md "wikilink") (시즌2)이 [네가지(7가지)](https://ko.wikipedia.org/wiki/개그콘서트 "wikilink")\[7\]를 패러디 하였다.
-      - 당시 멤버 : [김승우](../Page/김승우.md "wikilink"), [엄태웅](../Page/엄태웅.md "wikilink"), [이수근](../Page/이수근_\(희극인\).md "wikilink"), [차태현](../Page/차태현.md "wikilink"), [성시경](https://ko.wikipedia.org/wiki/성시경 "wikilink"), [김종민](https://ko.wikipedia.org/wiki/김종민 "wikilink"), [주원](https://ko.wikipedia.org/wiki/주원 "wikilink")
+      - 당시 멤버 : [김승우](../Page/김승우.md "wikilink"), [엄태웅](../Page/엄태웅.md "wikilink"), [이수근](../Page/이수근_\(희극인\).md "wikilink"), [차태현](../Page/차태현.md "wikilink"), [성시경](https://ko.wikipedia.org/wiki/성시경 "wikilink"), [김종민](../Page/김종민.md "wikilink"), [주원](https://ko.wikipedia.org/wiki/주원 "wikilink")
   - 2013년 : [1박 2일팀](../Page/1박_2일.md "wikilink") (시즌3)이 [시청률의 제왕을](https://ko.wikipedia.org/wiki/개그콘서트 "wikilink") 패러디하였다.
-      - 당시 멤버 : [김주혁](../Page/김주혁.md "wikilink"), [김준호](../Page/김준호_\(희극인\).md "wikilink"), [차태현](../Page/차태현.md "wikilink"), [데프콘](../Page/데프콘_\(가수\).md "wikilink"), [김종민](https://ko.wikipedia.org/wiki/김종민 "wikilink"), [정준영](../Page/정준영.md "wikilink")
+      - 당시 멤버 : [김주혁](../Page/김주혁.md "wikilink"), [김준호](../Page/김준호_\(희극인\).md "wikilink"), [차태현](../Page/차태현.md "wikilink"), [데프콘](../Page/데프콘_\(가수\).md "wikilink"), [김종민](../Page/김종민.md "wikilink"), [정준영](../Page/정준영.md "wikilink")
   - 2014년 : [1박 2일](../Page/1박_2일.md "wikilink"), [우리동네 예체능](../Page/우리동네_예체능.md "wikilink"), [불후의 명곡에서](../Page/불후의_명곡.md "wikilink") [개그콘서트](https://ko.wikipedia.org/wiki/개그콘서트 "wikilink")의 코너 [렛잇비를](https://ko.wikipedia.org/wiki/개그콘서트 "wikilink") 패러디하였다.
       - 당시 멤버
-          - [1박 2일](../Page/1박_2일.md "wikilink") (시즌3) : [김주혁](../Page/김주혁.md "wikilink"), [김준호](../Page/김준호_\(희극인\).md "wikilink") [차태현](../Page/차태현.md "wikilink"), [데프콘](../Page/데프콘_\(가수\).md "wikilink"), [김종민](https://ko.wikipedia.org/wiki/김종민 "wikilink"), [정준영](../Page/정준영.md "wikilink")
+          - [1박 2일](../Page/1박_2일.md "wikilink") (시즌3) : [김주혁](../Page/김주혁.md "wikilink"), [김준호](../Page/김준호_\(희극인\).md "wikilink") [차태현](../Page/차태현.md "wikilink"), [데프콘](../Page/데프콘_\(가수\).md "wikilink"), [김종민](../Page/김종민.md "wikilink"), [정준영](../Page/정준영.md "wikilink")
           - [우리동네 예체능](../Page/우리동네_예체능.md "wikilink") : [강호동](../Page/강호동.md "wikilink"), [신현준](../Page/신현준_\(배우\).md "wikilink"), [정형돈](../Page/정형돈.md "wikilink"), [성시경](https://ko.wikipedia.org/wiki/성시경 "wikilink"), [양상국](../Page/양상국.md "wikilink"), [차유람](../Page/차유람.md "wikilink")
           - [불후의 명곡](../Page/불후의_명곡.md "wikilink") : [효린](../Page/효린.md "wikilink"), [알리](../Page/알리_\(가수\).md "wikilink"), [홍경민](../Page/홍경민.md "wikilink") 외
 

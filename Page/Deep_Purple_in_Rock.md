@@ -6,7 +6,7 @@
 ## 성향의 변화
 
 이전 앨범들은 [비틀즈](../Page/비틀즈.md "wikilink")나 [닐 다이아몬드](../Page/닐_다이아몬드.md "wikilink") 등의 [커버곡](https://ko.wikipedia.org/wiki/커버곡 "wikilink")들이 수록되어 있었지만, 이번 앨범부터는 모든 트랙이 전적으로 맴버들에 의해 작곡된 오리지널한 곡이다. "[Speed King](https://ko.wikipedia.org/wiki/Speed_King "wikilink")"이나 "[Flight of the Rat](https://ko.wikipedia.org/wiki/Flight_of_the_Rat "wikilink")"은 하드 록 곡이며, 10분에 달하는 대곡이자 이 앨범에서 가장 유명한 곡이라고 할 수도 있는 "[Child in Time](https://ko.wikipedia.org/wiki/Child_in_Time "wikilink")" 같은 곡의 경우 여러 해 동안 공연에서 불리기도 했다.
-"[Into the Fire](https://ko.wikipedia.org/wiki/Into_the_Fire "wikilink")"와 "Speed King"이 당시 공연에서 자주 불리는 곡이었음에도 불구하고, 이 앨범에서 1972년 실황앨범인 [Made In Japan에](https://ko.wikipedia.org/wiki/Made_In_Japan "wikilink") 수록된 곡은 "Child in Time"뿐이다.(Made In Japan의 [앙코르](https://ko.wikipedia.org/wiki/앙코르 "wikilink") 연주에서 불린 "Speed King"은 오리지널 [LP](https://ko.wikipedia.org/wiki/LP "wikilink")가 아닌 CD버전에만 수록되었다.)
+"[Into the Fire](../Page/Into_the_Fire.md "wikilink")"와 "Speed King"이 당시 공연에서 자주 불리는 곡이었음에도 불구하고, 이 앨범에서 1972년 실황앨범인 [Made In Japan에](https://ko.wikipedia.org/wiki/Made_In_Japan "wikilink") 수록된 곡은 "Child in Time"뿐이다.(Made In Japan의 [앙코르](https://ko.wikipedia.org/wiki/앙코르 "wikilink") 연주에서 불린 "Speed King"은 오리지널 [LP](https://ko.wikipedia.org/wiki/LP "wikilink")가 아닌 CD버전에만 수록되었다.)
 이 앨범 커버는 [러시모어 산의](https://ko.wikipedia.org/wiki/러시모어_산 "wikilink") 조각을 따라한 것이다.
 2000년에, 잡지 [Q는](https://ko.wikipedia.org/wiki/Q_\(잡지\) "wikilink") 이 앨범을 영국 100대 앨범중 78위로 선정했다.
 존 로드는 [오르간](https://ko.wikipedia.org/wiki/해먼드_오르간 "wikilink") 소리를 다양화하기 위해 [레슬리 스피커와](https://ko.wikipedia.org/wiki/레슬리_스피커 "wikilink") [마샬 증폭기를](https://ko.wikipedia.org/wiki/마샬_증폭 "wikilink") 사용했다.("Living Wreck - 레슬리 스피커, "Hard Lovin' Man" - 마샬 증폭기)
@@ -28,7 +28,7 @@
 2.  "Bloodsucker" - 4:10
 3.  "[Child in Time](https://ko.wikipedia.org/wiki/Child_in_Time "wikilink")" - 10:14
 4.  "[Flight of the Rat](https://ko.wikipedia.org/wiki/Flight_of_the_Rat "wikilink")" - 7:51
-5.  "[Into the Fire](https://ko.wikipedia.org/wiki/Into_the_Fire "wikilink")" - 3:28
+5.  "[Into the Fire](../Page/Into_the_Fire.md "wikilink")" - 3:28
 6.  "Living Wreck" - 4:27
 7.  "Hard Lovin' Man" - 7:11
 

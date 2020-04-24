@@ -50,6 +50,8 @@
 
 S 비디오는 2 개의 병렬 모노크롬 컴포지트 비디오 신호를 사용하여 크로마와 루마를 각각 표현한다.
 
+{{-}}
+
 ## 같이 보기
 
   - [S-VHS](https://ko.wikipedia.org/wiki/S-VHS "wikilink")

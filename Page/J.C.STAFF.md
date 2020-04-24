@@ -44,7 +44,7 @@
   - 《[사모님은 마법소녀](https://ko.wikipedia.org/wiki/사모님은_마법소녀 "wikilink")》 (2005)
   - 《[스타쉽 오퍼레이터즈](https://ko.wikipedia.org/wiki/스타쉽_오퍼레이터즈 "wikilink")》 (2005)
   - 《[작안의 샤나](../Page/작안의_샤나.md "wikilink")》 (2005)
-  - 《[카린](https://ko.wikipedia.org/wiki/카린 "wikilink")》 (2005)
+  - 《[카린](../Page/카린.md "wikilink")》 (2005)
   - 《[허니와 클로버](../Page/허니와_클로버.md "wikilink")》 (2005)
   - 《[고스트 헌트](../Page/고스트_헌트.md "wikilink")》 (2005)
   - 《[모레의 방향](https://ko.wikipedia.org/wiki/모레의_방향 "wikilink")》 (2005)

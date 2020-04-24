@@ -16,7 +16,7 @@
   - [서태지](../Page/서태지.md "wikilink")([서태지컴퍼니](https://ko.wikipedia.org/wiki/서태지컴퍼니 "wikilink")): [프로듀서](../Page/음악_프로듀서.md "wikilink"), [이그제큐티브 프로듀서](https://ko.wikipedia.org/wiki/이그제큐티브_프로듀서 "wikilink") [보컬](https://ko.wikipedia.org/wiki/보컬 "wikilink"), [작사](https://ko.wikipedia.org/wiki/작사 "wikilink")·[작곡](https://ko.wikipedia.org/wiki/작곡 "wikilink")·[편곡](../Page/편곡.md "wikilink"), [기타](../Page/기타.md "wikilink"), [베이스 기타](../Page/베이스_기타.md "wikilink"), 프로그래밍, 디지털 에디트, 녹음, 믹싱
   - [Top](../Page/안성훈.md "wikilink"): 기타, 편곡
   - 김석중: 편곡, 프로그래밍, 디지털 에디트
-  - [혜승](https://ko.wikipedia.org/wiki/양혜승_\(드러머\) "wikilink")([피아](https://ko.wikipedia.org/wiki/피아 "wikilink")): [드럼](https://ko.wikipedia.org/wiki/드럼 "wikilink")
+  - [혜승](https://ko.wikipedia.org/wiki/양혜승_\(드러머\) "wikilink")([피아](../Page/피아_\(음악_그룹\).md "wikilink")): [드럼](https://ko.wikipedia.org/wiki/드럼 "wikilink")
   - 녹음·믹싱 스튜디오: Techno T
   - 최효영(Sonic Korea): [마스터링](https://ko.wikipedia.org/wiki/마스터링 "wikilink")
   - day-z: [아트 디렉터](https://ko.wikipedia.org/wiki/아트_디렉터 "wikilink"), 디자인

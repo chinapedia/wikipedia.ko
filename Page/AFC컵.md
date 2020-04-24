@@ -246,7 +246,7 @@ AFC컵의 형식은 [AFC 챔피언스리그와](../Page/AFC_챔피언스리그.m
 <td><p>2</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/FC_이스티클롤" title="wikilink">이스티클롤</a></p></td>
+<td><p><a href="../Page/FC_이스티클롤.md" title="wikilink">이스티클롤</a></p></td>
 <td><p>0</p></td>
 <td><p>2</p></td>
 <td></td>

@@ -32,7 +32,7 @@
   - [Top](../Page/안성훈.md "wikilink"): [기타](../Page/기타.md "wikilink"), 공동 편곡([난 알아요](../Page/난_알아요.md "wikilink"), 죽음의 늪, 이 밤이 깊어가지만)
   - Rock(, [디아블로](../Page/디아블로_\(밴드\).md "wikilink")): 기타
   - Monkey(): [베이스 기타](../Page/베이스_기타.md "wikilink")
-  - 헤프 홀터: [드럼](https://ko.wikipedia.org/wiki/드럼셋 "wikilink")
+  - 헤프 홀터: [드럼](https://ko.wikipedia.org/wiki/드럼 "wikilink")
 
 <!-- end list -->
 
@@ -49,7 +49,7 @@
 
 <!-- end list -->
 
-  - 서태지([서태지컴퍼니](https://ko.wikipedia.org/wiki/서태지컴퍼니 "wikilink")): [프로듀서](https://ko.wikipedia.org/wiki/프로듀서 "wikilink"), [이그제큐티브 프로듀서](https://ko.wikipedia.org/wiki/이그제큐티브_프로듀서 "wikilink")
+  - 서태지([서태지컴퍼니](https://ko.wikipedia.org/wiki/서태지컴퍼니 "wikilink")): [프로듀서](../Page/음악_프로듀서.md "wikilink"), [이그제큐티브 프로듀서](https://ko.wikipedia.org/wiki/이그제큐티브_프로듀서 "wikilink")
   - Techno T: 믹싱 스튜디오
       - 서태지: 믹싱
   - 전정훈: 녹음

@@ -77,7 +77,7 @@
   - 아카기 \~어둠에 춤추듯 내려온 천재\~ （제작요청：매드하우스, 제작협력, 2005년-2006년）
   - [BLACK CAT](https://ko.wikipedia.org/wiki/BLACK_CAT "wikilink") （제작요청：GONZO, 각화 동화・채색설정・배경, 2005-2006년）
   - 유메츠카이 （제작요청：매드하우스, 발주처：DR TOKYO, 각화 제작협력, 2006년）
-  - [나나](https://ko.wikipedia.org/wiki/나나 "wikilink") （제작요청：매드하우스, 각화 제작협력, 2006년-2007년）
+  - [나나](../Page/나나.md "wikilink") （제작요청：매드하우스, 각화 제작협력, 2006년-2007년）
   - [은혼](https://ko.wikipedia.org/wiki/은혼 "wikilink") （제작요청: [선라이즈](https://ko.wikipedia.org/wiki/선라이즈 "wikilink"), 각화 제작협력, 2006년-）
   - BLACK LAGOON 시리즈
       - BLACK LAGOON （제작요청：매드하우스, 각화 원화・제2원화・동화・채색설정・촬영, 2006년）
@@ -139,9 +139,10 @@
 
 출처: [문화창작위원회](http://munhwacreative.tistory.com/) 추가
 
-  - 카구야 님은 고백받고 싶어\~천재들의 연애 두뇌전\~
-
-(제작요청: A-1 Pictures)2019
+  - 카구야 님은 고백받고 싶어 시리즈
+      - 카구야 님은 고백받고 싶어\~천재들의 연애 두뇌전\~ (제작요청: A-1 Pictures, 2019년)
+      - 카구야 님은 고백받고 싶어? <s>\~천재들의 연애 두뇌전\~</s> (제작요청: A-1 Pictures, 2020년)
+  - 천청난만\! (제작요청: P.A.WORKS, 2020년)
 
 #### 극장판 애니메이션
 

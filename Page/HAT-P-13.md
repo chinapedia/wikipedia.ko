@@ -17,7 +17,7 @@
 <th><p>질량<br />
 <small>(<a href="../Page/목성질량.md" title="wikilink">M<sub>J</sub></a>)</small></p></th>
 <th><p>공전주기<br />
-<small>(<a href="https://ko.wikipedia.org/wiki/날" title="wikilink">일</a>)</small></p></th>
+<small>(<a href="../Page/날.md" title="wikilink">일</a>)</small></p></th>
 <th><p>공전궤도 반지름<br />
 <small>(<a href="https://ko.wikipedia.org/wiki/천문_단위" title="wikilink">AU</a>)</small></p></th>
 <th><p>이심률</p></th>

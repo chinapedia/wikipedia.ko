@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [SUMMER SONG](https://ko.wikipedia.org/wiki/SUMMER_SONG).
 
 
-〈**SUMMER SONG**〉(서머 송)은, 일본의 [싱어송라이터](https://ko.wikipedia.org/wiki/싱어송라이터 "wikilink") [YUI](https://ko.wikipedia.org/wiki/YUI "wikilink")가 [2008년](../Page/2008년.md "wikilink") [7월 2일에](../Page/7월_2일.md "wikilink") [스튜디오세븐 레코딩에서](https://ko.wikipedia.org/wiki/소니_뮤직_레코드 "wikilink") 발매한 12번째 싱글이다. 광고 문구는 ‘2008년 YUI의 청춘 여름 송이 완성\!’이다.
+〈**SUMMER SONG**〉(서머 송)은 일본의 [싱어송라이터](https://ko.wikipedia.org/wiki/싱어송라이터 "wikilink") [YUI](https://ko.wikipedia.org/wiki/YUI "wikilink")가 [2008년](../Page/2008년.md "wikilink") [7월 2일에](../Page/7월_2일.md "wikilink") [스튜디오세븐 레코딩에서](https://ko.wikipedia.org/wiki/소니_뮤직_레코드 "wikilink") 발매한 12번째 싱글이다. 광고 문구는 ‘2008년 YUI의 청춘 여름 송이 완성\!’이다.
 
 ## 수록곡
 

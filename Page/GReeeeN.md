@@ -455,7 +455,7 @@
 <td><p>6</p></td>
 <td><p>(今から親指が消える手品しまーす。)</p>
 <ul>
-<li><small><a href="../Page/2014년.md" title="wikilink">2014 년</a> <a href="../Page/8월_6일.md" title="wikilink">8 월 6 일</a> 발매</small></li>
+<li><small><a href="../Page/2014년.md" title="wikilink">2014 년</a> <a href="../Page/8월_6일.md" title="wikilink">8월 6일</a> 발매</small></li>
 </ul></td>
 <td><p>2</p></td>
 <td></td>
@@ -464,7 +464,7 @@
 <td><p>7</p></td>
 <td><p>(縁)</p>
 <ul>
-<li><small><a href="../Page/2016년.md" title="wikilink">2016 년</a> <a href="../Page/9월_14일.md" title="wikilink">9 월 14 일</a> 발매</small></li>
+<li><small><a href="../Page/2016년.md" title="wikilink">2016 년</a> <a href="../Page/9월_14일.md" title="wikilink">9월 14일</a> 발매</small></li>
 </ul></td>
 <td><p>4</p></td>
 <td></td>
@@ -473,7 +473,7 @@
 <td><p>8</p></td>
 <td><p>(うれD)</p>
 <ul>
-<li><small><a href="../Page/2018년.md" title="wikilink">2018 년</a> <a href="../Page/4월_11일.md" title="wikilink">4 월 11 일</a> 발매</small></li>
+<li><small><a href="../Page/2018년.md" title="wikilink">2018 년</a> <a href="../Page/4월_11일.md" title="wikilink">4월 11일</a> 발매</small></li>
 </ul></td>
 <td><p>3</p></td>
 <td></td>
@@ -519,7 +519,7 @@
 <td><p>베스트</p></td>
 <td><p>(C、Dですと!?)</p>
 <ul>
-<li><small><a href="../Page/2015년.md" title="wikilink">2015 년</a> <a href="../Page/6월_24일.md" title="wikilink">6 월 24 일</a> 발매</small></li>
+<li><small><a href="../Page/2015년.md" title="wikilink">2015 년</a> <a href="../Page/6월_24일.md" title="wikilink">6월 24일</a> 발매</small></li>
 </ul></td>
 <td><p>2</p></td>
 <td><p>47</p></td>
@@ -528,7 +528,7 @@
 <td><p>베스트</p></td>
 <td><p>(ALL SINGLeeeeS 〜&amp; New Beginning〜)</p>
 <ul>
-<li><small><a href="../Page/2017년.md" title="wikilink">2017</a> 년 <a href="../Page/1월_24일.md" title="wikilink">1 월 24 일</a> 발매</small></li>
+<li><small><a href="../Page/2017년.md" title="wikilink">2017</a> 년 <a href="../Page/1월_24일.md" title="wikilink">1월 24일</a> 발매</small></li>
 </ul></td>
 <td><p>1</p></td>
 <td><p>25</p></td>

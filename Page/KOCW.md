@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [KOCW](https://ko.wikipedia.org/wiki/KOCW).
 
 
-**KOCW**(Korea Open Course Ware)는 국내 대학 및 해외 [오픈교육자료](https://ko.wikipedia.org/wiki/오픈교육자료 "wikilink")(OER : Open Education Recourses)의 [OCW](https://ko.wikipedia.org/wiki/오픈코스웨어 "wikilink")(Open Course Ware)와 연계하여 강의자료 정보를 공유하는 고등교육 교수학습자료 공동활용 서비스로 [한국교육학술정보원](../Page/한국교육학술정보원.md "wikilink")(KERIS)에서 제공하고 있다. KOCW를 통해 국내 일반대학 및 원격대학에서 개발한 우수 고등교육 [이러닝](https://ko.wikipedia.org/wiki/이러닝 "wikilink") 콘텐츠와 해외 고등교육기관들의 강의자료를 무료로 이용할 수 있다.\[1\] KOCW는 대학평가 공시항목으로 선정되어, 각 대학들의 활발한 참여를 독려하고 있다.\[2\] 특히 2014년 연말부터 한국형 온라인 대중공개강좌가 시범운영될 예정이며, 운영에 필요한 컨텐츠들은 KOCW를 통해 공개중인 강의를 이용하여 시범 서비스를 계획 하고 있다.\[3\]
+**KOCW**(Korea Open Course Ware)는 국내 대학 및 해외 [오픈교육자료](https://ko.wikipedia.org/wiki/오픈교육자료 "wikilink")(OER : Open Education Recourses)의 [OCW](https://ko.wikipedia.org/wiki/오픈코스웨어 "wikilink")(Open Course Ware)와 연계하여 강의자료 정보를 공유하는 고등교육 교수학습자료 공동활용 서비스로 [한국교육학술정보원](../Page/한국교육학술정보원.md "wikilink")(KERIS)에서 제공하고 있다. KOCW를 통해 국내 일반대학 및 원격대학에서 개발한 우수 고등교육 [이러닝](https://ko.wikipedia.org/wiki/이러닝 "wikilink") 콘텐츠와 해외 고등교육기관들의 강의자료를 무료로 이용할 수 있다.\[1\] KOCW는 대학평가 공시항목으로 선정되어, 각 대학들의 활발한 참여를 독려하고 있다.\[2\] 특히 분야별, 주제별 테마에 맞게 맞춤형 큐레이션 서비스를 제공하고 있다.\[3\]
 
 ## 서비스 목표
 
@@ -89,7 +89,7 @@ KOCW는 다음과 같은 목표를 갖고 서비스를 수행하고 있다.
 
 **다**
 
-[단국대학교](../Page/단국대학교.md "wikilink"){{·}} [대구가톨릭대학교](https://ko.wikipedia.org/wiki/대구가톨릭대학교 "wikilink"){{·}} [대구사이버대학교](../Page/대구사이버대학교.md "wikilink"){{·}} [대구대학교](https://ko.wikipedia.org/wiki/대구대학교 "wikilink"){{·}} [대구예술대학교](https://ko.wikipedia.org/wiki/대구예술대학교 "wikilink"){{·}} [대구한의대학교](../Page/대구한의대학교.md "wikilink"){{·}} [대전대학교](../Page/대전대학교.md "wikilink"){{·}} [덕성여자대학교](../Page/덕성여자대학교.md "wikilink"){{·}} [동국대학교](https://ko.wikipedia.org/wiki/동국대학교 "wikilink"){{·}} [동덕여자대학교](../Page/동덕여자대학교.md "wikilink"){{·}} [동명대학교](../Page/동명대학교.md "wikilink"){{·}} [동서대학교](../Page/동서대학교.md "wikilink"){{·}} [동서울대학교](../Page/동서울대학교.md "wikilink"){{·}} [동신대학교](../Page/동신대학교.md "wikilink"){{·}} [동아대학교](../Page/동아대학교.md "wikilink"){{·}} [동의과학대학교](../Page/동의과학대학교.md "wikilink"){{·}} [동의대학교](../Page/동의대학교.md "wikilink"){{·}} [디지털서울문화예술대학교](../Page/디지털서울문화예술대학교.md "wikilink")
+[단국대학교](../Page/단국대학교.md "wikilink"){{·}} [대구가톨릭대학교](https://ko.wikipedia.org/wiki/대구가톨릭대학교 "wikilink"){{·}} [대구사이버대학교](../Page/대구사이버대학교.md "wikilink"){{·}} [대구대학교](https://ko.wikipedia.org/wiki/대구대학교 "wikilink"){{·}} [대구예술대학교](../Page/대구예술대학교.md "wikilink"){{·}} [대구한의대학교](../Page/대구한의대학교.md "wikilink"){{·}} [대전대학교](../Page/대전대학교.md "wikilink"){{·}} [덕성여자대학교](../Page/덕성여자대학교.md "wikilink"){{·}} [동국대학교](https://ko.wikipedia.org/wiki/동국대학교 "wikilink"){{·}} [동덕여자대학교](../Page/동덕여자대학교.md "wikilink"){{·}} [동명대학교](../Page/동명대학교.md "wikilink"){{·}} [동서대학교](../Page/동서대학교.md "wikilink"){{·}} [동서울대학교](../Page/동서울대학교.md "wikilink"){{·}} [동신대학교](../Page/동신대학교.md "wikilink"){{·}} [동아대학교](../Page/동아대학교.md "wikilink"){{·}} [동의과학대학교](../Page/동의과학대학교.md "wikilink"){{·}} [동의대학교](../Page/동의대학교.md "wikilink"){{·}} [디지털서울문화예술대학교](../Page/디지털서울문화예술대학교.md "wikilink")
 
 **마**
 
@@ -154,6 +154,10 @@ KOCW는 다음과 같은 목표를 갖고 서비스를 수행하고 있다.
   - 2013년 10월, 영어재능기부봉사단 OES 4기 발대식
   - 2013년 11월, 앱어워드 코리아 2013’ 공공서비스 부문 KOCW 앱 대상 수상
   - 2013년 12월, 권역별 센터 만족도 조사 및 이러닝 데이터‧평가 결과 연계
+  - 2014년 2월, 전문대학을 위한 KOCWC 서비스 개시
+  - 2016년 6월, 휴먼테크놀로지 사회공공부문 우수상 수상(한겨레신문)
+  - 2016년 12월, 「2016 웹어워드 코리아」 전문교육분야 대상 수상(한국인터넷전문가협회)
+  - 2018년 1월, 강의클립(분절)기능 서비스 제공
 
 ## CCL 라이센스
 

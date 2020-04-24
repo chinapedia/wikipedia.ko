@@ -90,25 +90,22 @@
 
 ### 이사진
 
-  - 구단주 : 이두영
-  - 단장 : 오영근
-  - 부단장 : 김진균
+  - 구단주 : 김현주
+  - 단장 : 김현덕
 
 ### 코칭 스태프
 
   - 감독 : [서원상](https://ko.wikipedia.org/wiki/서원상 "wikilink")
-  - 수석코치 : [서정원](../Page/서정원.md "wikilink")
-  - 코치 : [고기구](../Page/고기구.md "wikilink")
-  - 골키퍼 코치 : [차상광](../Page/차상광.md "wikilink")
-  - 피지컬 코치 : [신상규](https://ko.wikipedia.org/wiki/신상규 "wikilink")
+  - 수석코치 : 최상현
+  - 코치 : 류형렬
+  - 의무트레이너 : 양영재
 
 ### 사무국
 
-  - 사무국장 : 조석호
-  - 기획실장 : 신준용
-  - 사업운영팀장 : 김광진
-  - 경기지원팀장 : 이명철
-  - 마케팅팀장 : 김성관
+  - 사무국장 : 윤지현
+  - 홍보과장 : 정욱희
+  - 총무팀 대리 : 박한결
+  - 선수지원팀 주임 : 변재용
 
 ### 감독 연혁
 
@@ -118,13 +115,9 @@
 
 ## 유니폼 스폰서와 메인 스폰서
 
-| 년도        | 유니폼 스폰서                                               | 메인 스폰서                                                                                    |
-| --------- | ----------------------------------------------------- | ----------------------------------------------------------------------------------------- |
-| 2009      | [프로월드컵](../Page/프로월드컵.md "wikilink")                  | [CJB](https://ko.wikipedia.org/wiki/CJB "wikilink")                                       |
-| 2010      | [디아도라](https://ko.wikipedia.org/wiki/디아도라 "wikilink") | [CJB](https://ko.wikipedia.org/wiki/CJB "wikilink"), 충북농협                                 |
-| 2011-2013 | [울스포츠](https://ko.wikipedia.org/wiki/울스포츠 "wikilink") | [CJB](https://ko.wikipedia.org/wiki/CJB "wikilink"), [OB 맥주](../Page/OB_맥주.md "wikilink") |
-| 2014      | [조마](https://ko.wikipedia.org/wiki/조마 "wikilink")     | [CJB](https://ko.wikipedia.org/wiki/CJB "wikilink"), [OB 맥주](../Page/OB_맥주.md "wikilink") |
-|           |                                                       |                                                                                           |
+2019 / 유니폼 : 아스토레 / 메인스폰서 : 신한은행
+
+2020 / 유니폼 : 싸커애플라인드 / 메인스폰서 : 더팜홈쿡
 
 ## 역대 기록
 

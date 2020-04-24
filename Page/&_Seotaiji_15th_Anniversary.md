@@ -15,7 +15,7 @@
 
 ## 활동
 
-서태지가 직접 활동한 것은 전무하며 음반 발매 이후 [삼성전자](https://ko.wikipedia.org/wiki/삼성전자 "wikilink")에서 서태지 기념앨범 음원 14곡과 뮤직비디오, 미공개 동영상 등 스페셜 에디션에 내장된 MP3 ‘옙 P2 서태지 스페셜 에디션’을 판매했다.\[3\] 이후 [2007년](../Page/2007년.md "wikilink") [12월 1일에는](../Page/12월_1일.md "wikilink") 서태지의 데뷔 15주년을 기념하는 콘서트가 열려 45RPM, 나윤권, 에픽하이, 피아, 스윗소로우 등이 서태지의 노래를 불렀으며, 빅뱅은 〈[필승](https://ko.wikipedia.org/wiki/필승 "wikilink")〉으로 게릴라 콘서트를 했다.\[4\] 모든 공연 순서가 끝난 뒤 서태지의 최근 모습이 담긴 영상을 공개하고 팬들을 향한 편지를 보내기도 했다.\[5\] 이 공연은 [12월 25일에](../Page/12월_25일.md "wikilink") [엠넷](../Page/엠넷.md "wikilink")을 통해 방송했으며, [12월 31일에는](../Page/12월_31일.md "wikilink") [포털사이트](https://ko.wikipedia.org/wiki/포털사이트 "wikilink") [네이버](../Page/네이버.md "wikilink")를 통해 [15주년 기념 온라인 전시관](http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=106&oid=076&aid=0000088044) 을 열었다..
+서태지가 직접 활동한 것은 전무하며 음반 발매 이후 [삼성전자](https://ko.wikipedia.org/wiki/삼성전자 "wikilink")에서 서태지 기념앨범 음원 14곡과 뮤직비디오, 미공개 동영상 등 스페셜 에디션에 내장된 MP3 ‘[옙 P2](../Page/옙_P2.md "wikilink") 서태지 스페셜 에디션’을 판매했다.\[3\] 이후 [2007년](../Page/2007년.md "wikilink") [12월 1일에는](../Page/12월_1일.md "wikilink") 서태지의 데뷔 15주년을 기념하는 콘서트가 열려 [45RPM](../Page/45RPM.md "wikilink"), [나윤권](../Page/나윤권.md "wikilink"), [에픽하이](https://ko.wikipedia.org/wiki/에픽하이 "wikilink"), [피아](../Page/피아_\(음악_그룹\).md "wikilink"), [스윗소로우](https://ko.wikipedia.org/wiki/스윗소로우 "wikilink") 등이 서태지의 노래를 불렀으며, [빅뱅은](../Page/빅뱅_\(음악_그룹\).md "wikilink") 〈필승〉으로 게릴라 콘서트를 했다.\[4\] 모든 공연 순서가 끝난 뒤 서태지의 최근 모습이 담긴 영상을 공개하고 팬들을 향한 편지를 보내기도 했다.\[5\] 이 공연은 [12월 25일에](../Page/12월_25일.md "wikilink") [엠넷](../Page/엠넷.md "wikilink")을 통해 방송했으며, [12월 31일에는](../Page/12월_31일.md "wikilink") [포털사이트](https://ko.wikipedia.org/wiki/포털사이트 "wikilink") [네이버](../Page/네이버.md "wikilink")를 통해 [15주년 기념 온라인 전시관](http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=106&oid=076&aid=0000088044) 을 열었다.
 
 ## CD/DVD
 
@@ -27,11 +27,11 @@
 
 ## 참여
 
-  - [서태지](../Page/서태지.md "wikilink")([서태지컴퍼니](https://ko.wikipedia.org/wiki/서태지컴퍼니 "wikilink")) - [프로듀서](https://ko.wikipedia.org/wiki/프로듀서 "wikilink"), [이그제큐티브 프로듀서](https://ko.wikipedia.org/wiki/이그제큐티브_프로듀서 "wikilink"), '07 리믹스
+  - [서태지](../Page/서태지.md "wikilink")([서태지컴퍼니](https://ko.wikipedia.org/wiki/서태지컴퍼니 "wikilink")) - [프로듀서](../Page/음악_프로듀서.md "wikilink"), [이그제큐티브 프로듀서](https://ko.wikipedia.org/wiki/이그제큐티브_프로듀서 "wikilink"), '07 리믹스
   - 김석중 - '07 리믹스
   - Tower Mastering 스튜디오, Techno-T - [마스터링](https://ko.wikipedia.org/wiki/마스터링 "wikilink") 스튜디오
   - Eizenshtein Project NO.2 - 영상, 뮤직비디오 프로덕션
-      - 한동욱 - [디렉터](https://ko.wikipedia.org/wiki/디렉터 "wikilink")
+      - 한동욱 - 디렉터
       - 박현주, 최보란 - 보조 디렉터
   - Geneal Ideas - DVD 프로덕션
       - 임종현 - 프로듀서

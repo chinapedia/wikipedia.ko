@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [MALICE MIZER](https://ko.wikipedia.org/wiki/MALICE_MIZER).
 
 
-**MALICE MIZER**(마리스 미제르)는, [1992년](../Page/1992년.md "wikilink") [8월](../Page/8월.md "wikilink") [Mana와](../Page/Mana_\(일본의_가수\).md "wikilink") Közi에 의하여 결성된 [비주얼계](../Page/비주얼계.md "wikilink") [밴드로](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink") [2001년](../Page/2001년.md "wikilink") [12월 11일부로](../Page/12월_11일.md "wikilink") 활동을 정지하였다. 밴드명은 "악의와 비극"으로부터 만들어진 조어이다.
+**MALICE MIZER**(마리스 미제르)는 [1992년](../Page/1992년.md "wikilink") [8월](../Page/8월.md "wikilink") [Mana와](../Page/Mana_\(일본의_가수\).md "wikilink") Közi에 의하여 결성된 [비주얼계](../Page/비주얼계.md "wikilink") [밴드로](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink") [2001년](../Page/2001년.md "wikilink") [12월 11일부로](../Page/12월_11일.md "wikilink") 활동을 정지하였다. 밴드명은 "악의와 비극"으로부터 만들어진 조어이다.
 
 ## 멤버
 

@@ -57,7 +57,7 @@
   - [대우 BS106 로얄시티](../Page/자일대우_BS.md "wikilink")
   - [대우 BS110CN 로얄논스텝](../Page/자일대우_BS.md "wikilink")
   - [대우 레스타](../Page/자일대우_레스타.md "wikilink")
-  - [대우 NEW BS090 뉴로얄미디](../Page/자일대우_BS.md "wikilink")
+  - [대우 NEW BS090](../Page/자일대우_BS.md "wikilink")
 
 <!-- end list -->
 
@@ -65,6 +65,7 @@
 
 <!-- end list -->
 
+  - [현대 그랜드스타렉스](../Page/현대_스타렉스.md "wikilink")
   - [현대 글로벌900](../Page/현대_그린시티.md "wikilink")
   - [현대 그린시티](../Page/현대_그린시티.md "wikilink")
   - [현대 뉴 슈퍼 에어로시티](../Page/현대_에어로시티.md "wikilink")

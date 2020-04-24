@@ -12,7 +12,7 @@
       - 작사: [정광필](../Page/정광필.md "wikilink"), [이형석](https://ko.wikipedia.org/wiki/이형석 "wikilink")
       - 작곡: [윤건](../Page/윤건.md "wikilink")
 3.  떠나지마
-      - 작사: [윤명선](https://ko.wikipedia.org/wiki/윤명선 "wikilink"), [백찬](https://ko.wikipedia.org/wiki/백찬 "wikilink")
+      - 작사: [윤명선](https://ko.wikipedia.org/wiki/윤명선 "wikilink"), [백찬](../Page/백찬.md "wikilink")
       - 작곡: 윤명선
 4.  사랑을 못해 이별을 못해
       - 작사: 김도훈, [김기범](https://ko.wikipedia.org/wiki/김기범 "wikilink")

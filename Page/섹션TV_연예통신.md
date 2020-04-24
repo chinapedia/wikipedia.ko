@@ -8,7 +8,6 @@
   - [1999년](../Page/1999년.md "wikilink") [5월 9일](../Page/5월_9일.md "wikilink") : '섹션TV 파워통신' 이라는 제목으로 첫방송을 했다.
   - [1999년](../Page/1999년.md "wikilink") [10월 20일](../Page/10월_20일.md "wikilink") : 프로그램명이 섹션TV 파워통신에서 섹션TV 연예통신으로 변경되었다.
   - [2020년](../Page/2020년.md "wikilink") [1월 23일](../Page/1월_23일.md "wikilink") : 마지막 방송으로서, 21년간 방송된 프로그램의 막을 내렸다.
-  - [2020년](../Page/2020년.md "wikilink") [4월 23일](../Page/4월_25일.md "wikilink") : 후속작으로 섹션TV 연예정보통신이 계속 방영될 예정이다.
 
 ## 방송 시간
 
@@ -319,7 +318,7 @@
 <!-- end list -->
 
   - [2010년](../Page/2010년.md "wikilink") [6월 25일](../Page/6월_25일.md "wikilink") : MBC 현대사 연속기획 6.25 특집 다큐멘터리 코레아일라 편성
-  - [2010년](../Page/2010년.md "wikilink") [10월 8일](../Page/10월_8일.md "wikilink") : MBC 스포츠 [프로야구](../Page/2010년_한국프로야구.md "wikilink") 플레이오프 2차전 [두산 베어스](../Page/두산_베어스.md "wikilink") VS [삼성 라이온즈](https://ko.wikipedia.org/wiki/삼성_라이온즈 "wikilink") 중계방송으로 예정보다 30분 지연방송
+  - [2010년](../Page/2010년.md "wikilink") [10월 8일](../Page/10월_8일.md "wikilink") : MBC 스포츠 [프로야구](../Page/2010년_한국프로야구.md "wikilink") 플레이오프 2차전 [두산 베어스](../Page/두산_베어스.md "wikilink") VS [삼성 라이온즈](../Page/삼성_라이온즈.md "wikilink") 중계방송으로 예정보다 30분 지연방송
   - [2010년](../Page/2010년.md "wikilink") [11월 14일](../Page/11월_14일.md "wikilink") \~ [11월 21일](../Page/11월_21일.md "wikilink") : [광저우 아시안게임](https://ko.wikipedia.org/wiki/광저우_아시안게임 "wikilink") 주요경기 중계
 
 <!-- end list -->

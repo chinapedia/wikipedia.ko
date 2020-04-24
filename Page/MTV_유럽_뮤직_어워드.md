@@ -147,7 +147,7 @@ MTV 유럽 뮤직 어워드는 매 회 개최 장소를 바꾸는데, [독일](.
   - Best Pop: [브리트니 스피어스](../Page/브리트니_스피어스.md "wikilink")
   - Best Dance: [팻보이 슬림](https://ko.wikipedia.org/wiki/팻보이_슬림 "wikilink")
   - Best Rock: [오프스프링](../Page/오프스프링.md "wikilink")
-  - Best R\&B: [휘트니 휴스턴](https://ko.wikipedia.org/wiki/휘트니_휴스턴 "wikilink")
+  - Best R\&B: [휘트니 휴스턴](../Page/휘트니_휴스턴.md "wikilink")
   - Best Hip-Hop: [에미넴](https://ko.wikipedia.org/wiki/에미넴 "wikilink")
   - Free Your Mind: [보노](../Page/보노.md "wikilink")
 
@@ -370,7 +370,7 @@ MTV 유럽 뮤직 어워드는 매 회 개최 장소를 바꾸는데, [독일](.
   - Best Push Act: [칼리 레이 젭슨](../Page/칼리_레이_젭슨.md "wikilink")
   - Biggest Fans: [원 디렉션](../Page/원_디렉션.md "wikilink")
   - Best Worldwide Act:  [한경](../Page/한경.md "wikilink")
-  - Global Icon: [휘트니 휴스턴](https://ko.wikipedia.org/wiki/휘트니_휴스턴 "wikilink")
+  - Global Icon: [휘트니 휴스턴](../Page/휘트니_휴스턴.md "wikilink")
 
 ### 2013 Amsterdam, Nederland
 

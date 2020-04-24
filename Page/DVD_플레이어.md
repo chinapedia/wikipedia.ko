@@ -18,7 +18,7 @@ DVD 플레이어는 다음과 같은 기능을 제공한다.
 
 ## 같이 보기
 
-  - [CD 플레이어](https://ko.wikipedia.org/wiki/CD_플레이어 "wikilink")
+  - [CD 플레이어](../Page/CD_플레이어.md "wikilink")
   - [CD](../Page/콤팩트_디스크.md "wikilink"), [CD-ROM](../Page/CD-ROM.md "wikilink")
   - [DVD 오디오](../Page/DVD_오디오.md "wikilink")
   - [HD DVD](https://ko.wikipedia.org/wiki/HD_DVD "wikilink")

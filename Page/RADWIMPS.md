@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [RADWIMPS](https://ko.wikipedia.org/wiki/RADWIMPS).
 
 
-**RADWIMPS**(래드윔프스, )는, 일본의 [록 밴드이다](https://ko.wikipedia.org/wiki/록_밴드 "wikilink"). 소속 음반사는 [EMI 뮤직 재팬이고](../Page/EMI_뮤직_재팬.md "wikilink") 소속사는 voque ting이다. 줄여서 〈랏도〉라고 불리기도 한다.
+**RADWIMPS**(래드윔프스, )는 일본의 [록 밴드이다](https://ko.wikipedia.org/wiki/록_밴드 "wikilink"). 소속 음반사는 [EMI 뮤직 재팬이고](../Page/EMI_뮤직_재팬.md "wikilink") 소속사는 voque ting이다. 줄여서 〈랏도〉라고 불리기도 한다.
 
 ## 구성원
 

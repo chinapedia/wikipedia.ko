@@ -84,6 +84,47 @@
   - 2013.05.23 대표이사 문화체육관광부장관 표창 수상
   - 2013.12.07 송년기획 어린이인형극 ‘해님달님’ ‘엄마를찾아주세요’ 개최
 
+## 프로그램
+
+  - 푸른방송 뉴스
+  - 유성의 가요교실
+  - 버스킹으로 떠나는 시간여행
+  - 유성의가요교실
+  - 사랑의 메시지
+  - 우리동네 우리방송 푸른방송
+  - 우리학교 최고
+  - 열린마당
+  - 고수의 비법
+  - 시청자 참여 비디오
+  - 정겨운 우라동네
+  - 달슐랭가이드
+  - 내고장 문화유산
+  - TV속의라디오
+
+## HD알뜰케이블 TV
+
+  - 1-1번 [푸른방송](../Page/한국케이블TV푸른방송.md "wikilink")
+  - 2-1번 [EBS플러스1](https://ko.wikipedia.org/wiki/EBS플러스1 "wikilink")
+  - 3-1번 [EBS플러스2](https://ko.wikipedia.org/wiki/EBS플러스2 "wikilink")
+  - 5-1번 [tvN](https://ko.wikipedia.org/wiki/tvN "wikilink")
+  - 6-1번 [EBS](https://ko.wikipedia.org/wiki/EBS "wikilink")
+  - 6-2번 [EBS2](https://ko.wikipedia.org/wiki/EBS2 "wikilink")
+  - 7-1번 [KBS2](https://ko.wikipedia.org/wiki/KBS2 "wikilink")
+  - 8-1번 [CJ오쇼핑](../Page/CJ오쇼핑.md "wikilink")
+  - 9-1번 [KBS1](https://ko.wikipedia.org/wiki/KBS1 "wikilink")
+  - 10-1번 [롯데홈쇼핑](https://ko.wikipedia.org/wiki/롯데홈쇼핑 "wikilink")
+  - 11-1번 [대구 MBC](https://ko.wikipedia.org/wiki/대구_MBC "wikilink")
+  - 12-1번 [GS SHOP](https://ko.wikipedia.org/wiki/GS홈쇼핑 "wikilink")
+  - 13-1번 [TBC/SBS](https://ko.wikipedia.org/wiki/대구방송 "wikilink")
+  - 14-1번 [NS홈쇼핑](../Page/NS홈쇼핑.md "wikilink")
+  - 15-1번 [현대홈쇼핑](../Page/현대홈쇼핑.md "wikilink")
+  - 16-1번 [홈앤쇼핑](../Page/홈&쇼핑.md "wikilink")
+  - 17-1번 [JTBC](../Page/JTBC.md "wikilink")
+  - 18-1번 [채널A](../Page/채널A.md "wikilink")
+  - 19-1번 [TV조선](../Page/TV조선.md "wikilink")
+
+## 디지털케이블TV
+
 ## 본점 및 지점 현황
 
   - 본점: 대구광역시 달서구 달구벌대로 1611 (감삼동)

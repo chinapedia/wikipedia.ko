@@ -9,7 +9,7 @@
   - 12월 3일 - 'Pretty Girl' 뮤직비디오 공개
   - 12월 4일 - 두 번째 미니앨범 《[Pretty Girl (2nd Mini Album)](https://ko.wikipedia.org/wiki/Pretty_Girl_\(2nd_Mini_Album\) "wikilink")》 발매
   - 12월 4일 - [Mnet](https://ko.wikipedia.org/wiki/Mnet "wikilink") [엠 카운트다운](https://ko.wikipedia.org/wiki/엠_카운트다운 "wikilink"), 'Pretty Girl' 첫 무대
-  - 12월 29일 - [SBS 가요대전에서](../Page/SBS_가요대전.md "wikilink") 'Pretty Girl (Bani Ver.)' 스페셜 스테이지, [브라운 아이드 걸스](../Page/브라운_아이드_걸스.md "wikilink") & [쥬얼리](../Page/쥬얼리.md "wikilink")와 Dance Break 공연
+  - 12월 29일 - [SBS 가요대전에서](../Page/SBS_가요대전.md "wikilink") 'Pretty Girl (Bani Ver.)' 스페셜 스테이지
   - 1월 4일 - [SBS 인기가요에서](../Page/SBS_인기가요.md "wikilink") 'Pretty Girl (Bani Ver.)' 스페셜 스테이지
 
 ## 특징과 대표곡

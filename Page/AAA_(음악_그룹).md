@@ -6,45 +6,44 @@
 **AAA**(, **Attack All Around**)는 5명의 멤버로 구성된 일본의 혼성 [음악 그룹이다](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink"). 에이벡스 (avex trax) 소속. [2005년](../Page/2005년.md "wikilink") [9월 14일](../Page/9월_14일.md "wikilink"), [싱글](../Page/싱글_\(음악\).md "wikilink") 《BLOOD on FlRE》로 데뷔했다.
 그룹의 정식 명칭인 Attack All Around는 “모든 것에 도전한다”라는 의미가 담겨있다.
 
-## 멤버
+## 구성원
 
-### 현 멤버
-
-  - [니시지마 타카히로](../Page/니시지마_타카히로.md "wikilink") (西島隆弘, Takahiro Nishijima)
-      - 1986년 9월 30일생
-      - 일본 홋카이도 삿포로시 출신
-      - AAA의 센터·메인 보컬
-  - [우노 미사코](../Page/우노_미사코.md "wikilink") (宇野実彩子, Misako Uno)
-      - 1986년 7월 16일생
-      - 일본 도쿄도 에도가와구 출신
-      - AAA의 메인 보컬
-  - [히다카 미츠히로](https://ko.wikipedia.org/wiki/히다카_미츠히로 "wikilink") (日高光啓, Mitsuhiro Hidaka)
-      - 1986년 12월 12일생
-      - 일본 치바현 출신
-      - AAA의 래퍼
-  - [아타에 신지로](https://ko.wikipedia.org/wiki/아타에_신지로 "wikilink") (與真司郎, Shinjiro Atae)
-      - 1988년 11월 26일생
-      - 일본 교토부 출신
-      - AAA의 서브 래퍼
-  - [스에요시 슈타](../Page/스에요시_슈타.md "wikilink") (末吉秀太, Shuta Sueyoshi)
-      - 1986년 12월 11일생
-      - 일본 나가사키현 사세보시 출신
-      - AAA의 서브 래퍼
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
 
 ### 전 멤버
 
-  - [고토 유카리](https://ko.wikipedia.org/wiki/고토_유카리 "wikilink") (後藤友香里, Yukari Goto)
-      - 1988년 1월 14일생
-      - 일본 도쿄도 아다치구 출신
-      - AAA의 서브 보컬
-  - [이토 치아키](https://ko.wikipedia.org/wiki/이토_치아키 "wikilink") (伊藤千晃, Chiaki Ito)
-      - 1987년 1월 10일생
-      - 일본 아이치현 나고야시 출신
-      - AAA의 서브 보컬
-  - [우라타 나오야](../Page/우라타_나오야.md "wikilink") (浦田直也, Naoya Urata)
-      - 1982년 11월 10일생
-      - 일본 도쿄도 오우메시 출신
-      - AAA의 리더·메인 보컬
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+
+### 멤버 변천사
+
+| 멤버                                                            | 2005년 | 2007년 | 2016년 | 2019년 | 현재 |
+| ------------------------------------------------------------- | :---: | :---: | :---: | :---: | :-: |
+| 9월                                                            |  6월   |  3월   |  12월  |       |    |
+| [니시지마 타카히로](../Page/니시지마_타카히로.md "wikilink")                  |       |       |       |       |    |
+| [우노 미사코](../Page/우노_미사코.md "wikilink")                        |       |       |       |       |    |
+| [히다카 미츠히로](https://ko.wikipedia.org/wiki/히다카_미츠히로 "wikilink") |       |       |       |       |    |
+| [아타에 신지로](https://ko.wikipedia.org/wiki/아타에_신지로 "wikilink")   |       |       |       |       |    |
+| [스에요시 슈타](../Page/스에요시_슈타.md "wikilink")                      |       |       |       |       |    |
+| [고토 유카리](https://ko.wikipedia.org/wiki/고토_유카리 "wikilink")     |       |       |       |       |    |
+| [이토 치아키](https://ko.wikipedia.org/wiki/이토_치아키 "wikilink")     |       |       |       |       |    |
+| [우라타 나오야](../Page/우라타_나오야.md "wikilink")                      |       |       |       |       |    |
+|                                                               |       |       |       |       |    |
 
 ## 음반 목록
 
@@ -117,19 +116,19 @@
 
 #### 오리지널 앨범
 
-|    | 발매일           | 타이틀                                                                                     | 순위  |
-| -- | ------------- | --------------------------------------------------------------------------------------- | --- |
-| 1  | 2006년 1월 1일   | **[ATTACK](../Page/ATTACK.md "wikilink")**                                              | 16위 |
-| 2  | 2007년 1월 1일   | **[ALL](https://ko.wikipedia.org/wiki/ALL_\(AAA의_앨범\) "wikilink")**                     | 24위 |
-| 3  | 2007년 9월 19일  | **[AROUND](https://ko.wikipedia.org/wiki/AROUND "wikilink")**                           | 8위  |
-| 4  | 2009년 2월 11일  | **[depArture](https://ko.wikipedia.org/wiki/depArture "wikilink")**                     | 4위  |
-| 5  | 2010년 2월 17일  | **[HEARTFUL](https://ko.wikipedia.org/wiki/HEARTFUL "wikilink")**                       | 3위  |
-| 6  | 2011년 2월 16일  | **[Buzz Communication](https://ko.wikipedia.org/wiki/Buzz_Communication "wikilink")**   | 2위  |
-| 7  | 2012년 8월 22일  | **[777 \~TRIPLE SEVEN\~](https://ko.wikipedia.org/wiki/777_~TRIPLE_SEVEN~ "wikilink")** | 2위  |
-| 8  | 2013년 9월 18일  | **[Eighth Wonder](https://ko.wikipedia.org/wiki/Eighth_Wonder "wikilink")**             | 1위  |
-| 9  | 2014년 10월 01일 | **[GOLD SYMPHONY](https://ko.wikipedia.org/wiki/GOLD_SYMPHONY "wikilink")**             | 1위  |
-| 10 | 2017년 2월 22일  | **[WAY OF GLORY](https://ko.wikipedia.org/wiki/WAY_OF_GLORY "wikilink")**               | 1위  |
-| 11 | 2018년 8월 29일  | **COLOR A LIFE**                                                                        | 1위  |
+|    | 발매일          | 타이틀                                                                                     | 순위  |
+| -- | ------------ | --------------------------------------------------------------------------------------- | --- |
+| 1  | 2006년 1월 1일  | **[ATTACK](../Page/ATTACK.md "wikilink")**                                              | 16위 |
+| 2  | 2007년 1월 1일  | **[ALL](https://ko.wikipedia.org/wiki/ALL_\(AAA의_앨범\) "wikilink")**                     | 24위 |
+| 3  | 2007년 9월 19일 | **[AROUND](https://ko.wikipedia.org/wiki/AROUND "wikilink")**                           | 8위  |
+| 4  | 2009년 2월 11일 | **[depArture](https://ko.wikipedia.org/wiki/depArture "wikilink")**                     | 4위  |
+| 5  | 2010년 2월 17일 | **[HEARTFUL](https://ko.wikipedia.org/wiki/HEARTFUL "wikilink")**                       | 3위  |
+| 6  | 2011년 2월 16일 | **[Buzz Communication](https://ko.wikipedia.org/wiki/Buzz_Communication "wikilink")**   | 2위  |
+| 7  | 2012년 8월 22일 | **[777 \~TRIPLE SEVEN\~](https://ko.wikipedia.org/wiki/777_~TRIPLE_SEVEN~ "wikilink")** | 2위  |
+| 8  | 2013년 9월 18일 | **[Eighth Wonder](https://ko.wikipedia.org/wiki/Eighth_Wonder "wikilink")**             | 1위  |
+| 9  | 2014년 10월 1일 | **[GOLD SYMPHONY](https://ko.wikipedia.org/wiki/GOLD_SYMPHONY "wikilink")**             | 1위  |
+| 10 | 2017년 2월 22일 | **[WAY OF GLORY](https://ko.wikipedia.org/wiki/WAY_OF_GLORY "wikilink")**               | 1위  |
+| 11 | 2018년 8월 29일 | **COLOR A LIFE**                                                                        | 1위  |
 
 #### 미니 앨범
 
@@ -372,5 +371,7 @@
   - [AAA 오피셜 웹사이트 (avex)](http://www.avexnet.or.jp/aaa/)
 
   - [다음카페 ATTACK ALL AROUND](http://cafe.daum.net/AvexAAA/)
+
+## 각주
 
 [AAA](https://ko.wikipedia.org/wiki/분류:AAA "wikilink") [분류:일본의 댄스 음악 그룹](https://ko.wikipedia.org/wiki/분류:일본의_댄스_음악_그룹 "wikilink") [분류:일본의 팝 음악 그룹](https://ko.wikipedia.org/wiki/분류:일본의_팝_음악_그룹 "wikilink") [분류:혼성 음악 그룹](https://ko.wikipedia.org/wiki/분류:혼성_음악_그룹 "wikilink") [분류:2005년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2005년_결성된_음악_그룹 "wikilink") [분류:에이벡스 그룹 음악가](https://ko.wikipedia.org/wiki/분류:에이벡스_그룹_음악가 "wikilink") [분류:일본의 아이돌 그룹](https://ko.wikipedia.org/wiki/분류:일본의_아이돌_그룹 "wikilink") [분류:일본어 음악 그룹](https://ko.wikipedia.org/wiki/분류:일본어_음악_그룹 "wikilink") [분류:NHK 홍백가합전 출연자](https://ko.wikipedia.org/wiki/분류:NHK_홍백가합전_출연자 "wikilink") [분류:5인조 음악 그룹](https://ko.wikipedia.org/wiki/분류:5인조_음악_그룹 "wikilink")

@@ -24,7 +24,7 @@
 ## 외부 링크
 
   - [Grand Theft Auto IV 북미판 공식 사이트](http://www.rockstargames.com/IV/)
-  - [대한민국 유통사 위즈핸즈 공식 사이트](http://www.wizhands.com/)
+  - [대한민국 유통사 위즈핸즈 공식 사이트](https://web.archive.org/web/20080801013359/http://www.wizhands.com/)
 
 [4](https://ko.wikipedia.org/wiki/분류:그랜드_테프트_오토 "wikilink") [분류:2008년 비디오 게임](https://ko.wikipedia.org/wiki/분류:2008년_비디오_게임 "wikilink") [분류:액션 어드벤처 게임](https://ko.wikipedia.org/wiki/분류:액션_어드벤처_게임 "wikilink") [분류:오픈 월드 게임](https://ko.wikipedia.org/wiki/분류:오픈_월드_게임 "wikilink") [분류:플레이스테이션 3 게임](https://ko.wikipedia.org/wiki/분류:플레이스테이션_3_게임 "wikilink") [분류:록스타 게임스](https://ko.wikipedia.org/wiki/분류:록스타_게임스 "wikilink") [분류:비디오 게임 검열](https://ko.wikipedia.org/wiki/분류:비디오_게임_검열 "wikilink") [분류:캐나다의 비디오 게임](https://ko.wikipedia.org/wiki/분류:캐나다의_비디오_게임 "wikilink") [분류:영국의 비디오 게임](https://ko.wikipedia.org/wiki/분류:영국의_비디오_게임 "wikilink") [분류:뉴욕을 배경으로 한 비디오 게임](https://ko.wikipedia.org/wiki/분류:뉴욕을_배경으로_한_비디오_게임 "wikilink") [분류:윈도우 게임](https://ko.wikipedia.org/wiki/분류:윈도우_게임 "wikilink") [분류:엑스박스 360 게임](https://ko.wikipedia.org/wiki/분류:엑스박스_360_게임 "wikilink") [분류:2008년을 배경으로 한 비디오 게임](https://ko.wikipedia.org/wiki/분류:2008년을_배경으로_한_비디오_게임 "wikilink")
 

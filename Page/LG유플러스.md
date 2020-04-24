@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [LG유플러스](https://ko.wikipedia.org/wiki/LG유플러스).
 
 
-**주식회사 LG유플러스**(**LG U⁺** ; )는 [대한민국](../Page/대한민국.md "wikilink")의 유무선 통신 서비스 후발 업체로 [LG그룹](../Page/LG그룹.md "wikilink")의 계열사다. 2010년 1월 1일에 기존의 [LG텔레콤](../Page/LG텔레콤.md "wikilink")이 [LG데이콤](../Page/LG데이콤.md "wikilink")과 그 자회사인 [LG파워콤](../Page/LG파워콤.md "wikilink")을 인수 합병 기업으로 출범하였으며, 그 해 6월 30일까지는 대외적으로 "통합LG텔레콤"이란 임시명칭을 사용하였다. 이사회는 7인의 이사로 구성된다. 2017년 12월 기준 이사진은 권영수, 이혁주, 하현회, 박상수, 선우명호, 정병두, 정하봉, 곽해영 등이다. 본사는 [서울특별시](../Page/서울특별시.md "wikilink") [용산구](https://ko.wikipedia.org/wiki/용산구 "wikilink") 한강대로 32 ([한강로3가](https://ko.wikipedia.org/wiki/한강로3가 "wikilink"))에 있다.
+**주식회사 LG유플러스**(**LG U⁺** ; )는 [대한민국](../Page/대한민국.md "wikilink")의 유무선 통신 서비스 후발 업체로 [LG그룹](../Page/LG그룹.md "wikilink")의 계열사다. 2010년 1월 1일에 기존의 [LG텔레콤](../Page/LG텔레콤.md "wikilink")이 [LG데이콤](../Page/LG데이콤.md "wikilink")과 그 자회사인 [LG파워콤](../Page/LG파워콤.md "wikilink")을 인수한 합병 기업으로 출범하였으며, 그 해 6월 30일까지는 대외적으로 "통합LG텔레콤"이란 임시명칭을 사용하였다. 이사회는 7인의 이사로 구성된다. 2017년 12월 기준 이사진은 권영수, 이혁주, 하현회, 박상수, 선우명호, 정병두, 정하봉, 곽해영 등이다. 본사는 [서울특별시](../Page/서울특별시.md "wikilink") [용산구](https://ko.wikipedia.org/wiki/용산구 "wikilink") 한강대로 32 ([한강로3가](https://ko.wikipedia.org/wiki/한강로3가 "wikilink"))에 있다.
 
 ## 역사
 

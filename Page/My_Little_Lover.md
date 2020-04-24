@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [My Little Lover](https://ko.wikipedia.org/wiki/My_Little_Lover).
 
 
-**마이 리틀 러버**(My Little Lover)는, [일본](../Page/일본.md "wikilink")의 [음악 그룹이다](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink"). 이전에는 [고바야시 다케시와](https://ko.wikipedia.org/wiki/고바야시_다케시 "wikilink") [후지이 겐지가](https://ko.wikipedia.org/wiki/후지이_겐지 "wikilink") 소속해 있었지만, 현재는 보컬 akko의 솔로프로젝트로 활동하고 있다. 소속사는 [우롱샤](https://ko.wikipedia.org/wiki/우롱샤 "wikilink"), 소속 음반사는 [avex trax이다](https://ko.wikipedia.org/wiki/avex_trax "wikilink"). 별명은 〈마이라바〉이다. .
+**마이 리틀 러버**(My Little Lover)는 [일본](../Page/일본.md "wikilink")의 [음악 그룹이다](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink"). 이전에는 [고바야시 다케시와](https://ko.wikipedia.org/wiki/고바야시_다케시 "wikilink") [후지이 겐지가](https://ko.wikipedia.org/wiki/후지이_겐지 "wikilink") 소속해 있었지만, 현재는 보컬 akko의 솔로프로젝트로 활동하고 있다. 소속사는 [우롱샤](https://ko.wikipedia.org/wiki/우롱샤 "wikilink"), 소속 음반사는 [avex trax이다](https://ko.wikipedia.org/wiki/avex_trax "wikilink"). 별명은 〈마이라바〉이다. .
 
 ## 멤버
 

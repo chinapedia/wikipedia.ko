@@ -85,4 +85,4 @@ UUOC\[1\]은 "Useless Use of cat(cat의 쓸모없는 사용)"을 의미한다. *
 [분류:유닉스 텍스트 처리 유틸리티](https://ko.wikipedia.org/wiki/분류:유닉스_텍스트_처리_유틸리티 "wikilink") [분류:표준 유닉스 프로그램](https://ko.wikipedia.org/wiki/분류:표준_유닉스_프로그램 "wikilink") [분류:유닉스 SUS2008 유틸리티](https://ko.wikipedia.org/wiki/분류:유닉스_SUS2008_유틸리티 "wikilink")
 
 1.  [유즈넷](../Page/유즈넷.md "wikilink")의 *comp.unix.shell*에서 나온 말
-2.  \[[http://www.freebsd.org/cgi/man.cgi?query=zcat\&apropos=0\&sektion=1\&manpath=FreeBSD+7.0-RELEASE\&format=html\]zcat](http://www.freebsd.org/cgi/man.cgi?query=zcat&apropos=0&sektion=1&manpath=FreeBSD+7.0-RELEASE&format=html%5Dzcat) manual page in FreeBSD 7.0
+2.  [1](http://www.freebsd.org/cgi/man.cgi?query=zcat&apropos=0&sektion=1&manpath=FreeBSD+7.0-RELEASE&format=html) zcat manual page in FreeBSD 7.0

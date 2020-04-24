@@ -16,6 +16,6 @@
   - [Over 6000 images from Resurs-DK1](https://web.archive.org/web/20070528070607/http://sun.ntsomz.ru/data_new/granule/main.php)
   - [26 high resolution images from Resurs-DK1](https://web.archive.org/web/20070927063509/http://www.geodesign.com.br/Htmls/resurs_dk1_samples.html)
   - [Why do satellite images look so different?](https://web.archive.org/web/20100325093705/http://landsat.gsfc.nasa.gov/education/compositor/)
-  - <http://www.sovinformsputnik.com/>
+  - <https://web.archive.org/web/20090730001923/http://www.sovinformsputnik.com/>
 
 [분류:지구 관측 위성](https://ko.wikipedia.org/wiki/분류:지구_관측_위성 "wikilink") [분류:정찰위성](https://ko.wikipedia.org/wiki/분류:정찰위성 "wikilink")

@@ -32,7 +32,7 @@
 | 2대 | [딘딘](../Page/딘딘.md "wikilink")                                                                    | [2018년](../Page/2018년.md "wikilink") [6월 10일](../Page/6월_10일.md "wikilink") / [6월 17일](../Page/6월_17일.md "wikilink")                                                                                                                         |                                                                                                                                                              |
 | 2대 | [주시은](../Page/주시은.md "wikilink")                                                                  | [2018년](../Page/2018년.md "wikilink") [6월 24일](../Page/6월_24일.md "wikilink") / [7월 1일](../Page/7월_1일.md "wikilink")                                                                                                                           |                                                                                                                                                              |
 | 2대 | [토니안](https://ko.wikipedia.org/wiki/토니안 "wikilink")                                               | [2018년](../Page/2018년.md "wikilink") [5월 27일](../Page/5월_27일.md "wikilink") / [6월 3일](../Page/6월_3일.md "wikilink"), [2018년](../Page/2018년.md "wikilink") [7월 8일](../Page/7월_8일.md "wikilink") \~ **현재**                                      | 미투 논란으로 자진 하차하게 된 [김생민](../Page/김생민.md "wikilink")의 빈 자리를 채우기 위해 김생민의 후임 MC로 봐야 함.                                                                           |
-| 2대 | [신지](https://ko.wikipedia.org/wiki/신지_\(가수\) "wikilink")                                          | [2008년](../Page/2008년.md "wikilink") [11월 23일](../Page/11월_23일.md "wikilink") \~ [2011년](../Page/2011년.md "wikilink") [5월 1일](../Page/5월_1일.md "wikilink")                                                                                   |                                                                                                                                                              |
+| 2대 | [신지](../Page/신지_\(가수\).md "wikilink")                                                             | [2008년](../Page/2008년.md "wikilink") [11월 23일](../Page/11월_23일.md "wikilink") \~ [2011년](../Page/2011년.md "wikilink") [5월 1일](../Page/5월_1일.md "wikilink")                                                                                   |                                                                                                                                                              |
 | 2대 | [이윤아](../Page/이윤아.md "wikilink")                                                                  | [2008년](../Page/2008년.md "wikilink") [6월 22일](../Page/6월_22일.md "wikilink") \~ [2013년](../Page/2013년.md "wikilink") [12월 29일](../Page/12월_29일.md "wikilink")                                                                                 |                                                                                                                                                              |
 | 2대 | [리지](../Page/박수아.md "wikilink"), [이효리](../Page/이효리.md "wikilink"), [가희](../Page/가희.md "wikilink") | [2011년](../Page/2011년.md "wikilink") [6월 12일](../Page/6월_12일.md "wikilink")                                                                                                                                                                  |                                                                                                                                                              |
 | 2대 | [설리](../Page/설리_\(배우\).md "wikilink")                                                             | [2011년](../Page/2011년.md "wikilink") [6월 19일](../Page/6월_19일.md "wikilink")                                                                                                                                                                  |                                                                                                                                                              |
@@ -106,17 +106,24 @@
   - [2016년](../Page/2016년.md "wikilink") [2월 7일](../Page/2월_7일.md "wikilink") : **설날 특선 [UHD](../Page/초고선명_텔레비전.md "wikilink") [드라마](https://ko.wikipedia.org/wiki/드라마 "wikilink") 《[영주](../Page/영주_\(드라마\).md "wikilink")》** 편성으로 인한 결방.\[17\]
   - [2018년](../Page/2018년.md "wikilink") [2월 11일](../Page/2월_11일.md "wikilink") / [2월 25일](../Page/2월_25일.md "wikilink") : **[2018 평창 동계 올림픽](../Page/2018년_동계_올림픽.md "wikilink") 중계 방송**
   - [2020년](../Page/2020년.md "wikilink") [3월 1일](../Page/3월_1일.md "wikilink") : **[3·1절](../Page/3·1절.md "wikilink") 경축식 중계 방송**\[18\]
-  - [2020년](../Page/2020년.md "wikilink") [7월](../Page/7월.md "wikilink") 이후 : **[2020년 도쿄 하계 올림픽](../Page/2020년_하계_올림픽.md "wikilink") 중계 방송**에 따른 결방 가능성이 있음.
+
+## 편성 변경 사유
+
+  - [2020년](../Page/2020년.md "wikilink") [4월 19일](../Page/4월_19일.md "wikilink") : **[4·19혁명 기념일](https://ko.wikipedia.org/wiki/4·19혁명_기념일 "wikilink") 관련 중계 방송에 따른 지연 편성**\[19\]
 
 ## 비판
 
 ## 소개되었던 국가
 
-TV 동물농장의 경우 [미국](../Page/미국.md "wikilink"), [일본](../Page/일본.md "wikilink"), [브라질](../Page/브라질.md "wikilink"), [아프리카](../Page/아프리카.md "wikilink"), [중국](../Page/중국.md "wikilink"), [인도](../Page/인도.md "wikilink")\[19\], [헝가리](../Page/헝가리.md "wikilink")\[20\] 등과 같은 나라를 위주로 소개되었던 것으로 보인다. 미국 같은 경우는 [2010년](../Page/2010년.md "wikilink")과 [2012년](../Page/2012년.md "wikilink")에 소개되었으며, 일본의 경우 [2011년](../Page/2011년.md "wikilink")과 [2012년](../Page/2012년.md "wikilink"), [2015년](../Page/2015년.md "wikilink") 그리고 [2017년](../Page/2017년.md "wikilink")에도 소개된 것으로 드러나고 있다.
+TV 동물농장의 경우 [미국](../Page/미국.md "wikilink"), [일본](../Page/일본.md "wikilink"), [브라질](../Page/브라질.md "wikilink"), [아프리카](../Page/아프리카.md "wikilink"), [중국](../Page/중국.md "wikilink"), [인도](../Page/인도.md "wikilink")\[20\], [헝가리](../Page/헝가리.md "wikilink")\[21\] 등과 같은 나라를 위주로 소개되었던 것으로 보인다. 미국 같은 경우는 [2010년](../Page/2010년.md "wikilink")과 [2012년](../Page/2012년.md "wikilink")에 소개되었으며, 일본의 경우 [2011년](../Page/2011년.md "wikilink")과 [2012년](../Page/2012년.md "wikilink"), [2015년](../Page/2015년.md "wikilink") 그리고 [2017년](../Page/2017년.md "wikilink")에도 소개된 것으로 드러나고 있다.
+
+## 주요 협찬사
+
+주요 협찬사는 [DB그룹](../Page/DB그룹.md "wikilink")에서 주로 협찬하고 있는 것으로 보인다.
 
 ## 모바일, PC 등으로 시청하는 방법
 
-현재 TV 동물농장을 모바일 기기, PC로 이용할 수 있는 방법은 [WAVVE](https://ko.wikipedia.org/wiki/WAVVE "wikilink"), [현대HCN 모바일TV](../Page/에브리온_TV.md "wikilink") 등으로만 이용 가능하다. 그러나 [시즌](https://ko.wikipedia.org/wiki/시즌_\(플랫폼\) "wikilink"), U+모바일 TV와 [TVING](../Page/티빙.md "wikilink")\[21\]에서는 시청할 수 없으며, 다만, PC나 모바일 기기를 활용한 시청 가능 채널의 경우 [SBS TV](../Page/SBS_TV.md "wikilink"), [SBS 플러스](../Page/SBS_플러스.md "wikilink"), [SBS funE](../Page/SBS_funE.md "wikilink"), [SBS CNBC](../Page/SBS_CNBC.md "wikilink"), [리얼TV](https://ko.wikipedia.org/wiki/리얼TV "wikilink") 등 5개의 채널만 가능하나 [ONCE](https://ko.wikipedia.org/wiki/ONCE "wikilink"), [채널J](../Page/채널J.md "wikilink"), AsiaN 등과 같은 일부 채널에서는 프로그램 제목이나 자리에 **방송사의 사정으로 제공할 수 없습니다**라는 이름 혹은 **방송 불가 안내** 등과 같은 안내 문구가 달게 된다. 이유는 [저작권](../Page/저작권.md "wikilink")이 아예 없기 때문이다.\[22\] 그 외에도 [WAVVE](https://ko.wikipedia.org/wiki/WAVVE "wikilink")에서는 동물농장 정주행 채널을 사용해야 24시간 내내 언제든지 사용할 수 있다.
+현재 TV 동물농장을 모바일 기기, PC로 이용할 수 있는 방법은 [WAVVE](https://ko.wikipedia.org/wiki/WAVVE "wikilink"), [현대HCN 모바일TV](../Page/에브리온_TV.md "wikilink") 등으로만 이용 가능하다. 그러나 [시즌](https://ko.wikipedia.org/wiki/시즌_\(플랫폼\) "wikilink"), U+모바일 TV와 [TVING](../Page/티빙.md "wikilink")\[22\]에서는 시청할 수 없으며, 다만, PC나 모바일 기기를 활용한 시청 가능 채널의 경우 [SBS TV](../Page/SBS_TV.md "wikilink"), [SBS 플러스](../Page/SBS_플러스.md "wikilink"), [SBS funE](../Page/SBS_funE.md "wikilink"), [SBS CNBC](../Page/SBS_CNBC.md "wikilink"), [리얼TV](https://ko.wikipedia.org/wiki/리얼TV "wikilink") 등 5개의 채널만 가능하나 [ONCE](https://ko.wikipedia.org/wiki/ONCE "wikilink"), [채널J](../Page/채널J.md "wikilink"), AsiaN 등과 같은 일부 채널에서는 프로그램 제목이나 자리에 **방송사의 사정으로 제공할 수 없습니다**라는 이름 혹은 **방송 불가 안내** 등과 같은 안내 문구가 달게 된다. 이유는 [저작권](../Page/저작권.md "wikilink")이 아예 없기 때문이다.\[23\] 그 외에도 [WAVVE](https://ko.wikipedia.org/wiki/WAVVE "wikilink")에서는 동물농장 정주행 채널을 사용해야 24시간 내내 언제든지 사용할 수 있다.
 
 ## 동시간대 경쟁 프로그램
 
@@ -129,7 +136,7 @@ TV 동물농장의 경우 [미국](../Page/미국.md "wikilink"), [일본](../Pa
   - [주주클럽](../Page/주주클럽_\(텔레비전_프로그램\).md "wikilink"), [단짝](https://ko.wikipedia.org/wiki/단짝 "wikilink"), [은밀하고 위대한 동물의 사생활](../Page/은밀하고_위대한_동물의_사생활.md "wikilink"), [개는 훌륭하다](https://ko.wikipedia.org/wiki/개는_훌륭하다 "wikilink") (KBS 2TV)
   - [동물일기](https://ko.wikipedia.org/wiki/동물일기 "wikilink"), [야옹멍멍 귀여워](../Page/야옹멍멍_귀여워.md "wikilink"), [세상에 나쁜 개는 없다](../Page/세상에_나쁜_개는_없다.md "wikilink"), [고양이를 부탁해](../Page/고양이를_부탁해_\(텔레비전_프로그램\).md "wikilink"), [아기 동물 귀여워](https://ko.wikipedia.org/wiki/아기_동물_귀여워 "wikilink"), [펫하트](https://ko.wikipedia.org/wiki/펫하트 "wikilink") (EBS 1TV)
   - [와우\! 동물천하](https://ko.wikipedia.org/wiki/와우!_동물천하 "wikilink"), [애니멀즈](../Page/애니멀즈_\(텔레비전_프로그램\).md "wikilink"), [하하랜드](https://ko.wikipedia.org/wiki/하하랜드 "wikilink"), [오래봐도 예쁘다](https://ko.wikipedia.org/wiki/오래봐도_예쁘다 "wikilink") (MBC TV)
-  - [마리와 나](../Page/마리와_나.md "wikilink"), [그랜드 부다개스트](https://ko.wikipedia.org/wiki/그랜드_부다개스트 "wikilink")\[23\] (JTBC)
+  - [마리와 나](../Page/마리와_나.md "wikilink"), [그랜드 부다개스트](https://ko.wikipedia.org/wiki/그랜드_부다개스트 "wikilink")\[24\] (JTBC)
   - 기막힌 동물원, 우리집에 해피가 왔다 (MBN)
   - 동고동락, 개먼드라마 파트라슈 (TV조선)
   - [대화가 필요한 개냥](https://ko.wikipedia.org/wiki/대화가_필요한_개냥 "wikilink"), [냐옹은 페이크다](https://ko.wikipedia.org/wiki/냐옹은_페이크다 "wikilink"), 캣츠 앤 독스 (tvN)
@@ -167,8 +174,9 @@ TV 동물농장의 경우 [미국](../Page/미국.md "wikilink"), [일본](../Pa
 16.
 17. 설날특선 [UHD](../Page/초고선명_텔레비전.md "wikilink") [드라마](https://ko.wikipedia.org/wiki/드라마 "wikilink")인 [영주는](../Page/영주_\(드라마\).md "wikilink") [SBS 뉴스특보](../Page/SBS_뉴스특보.md "wikilink") 중 북한 미사일 발사 관련 특보를 보도하는 관계상 지연 편성된 것으로 나와 있으며, [UHD](../Page/초고선명_텔레비전.md "wikilink") [드라마](https://ko.wikipedia.org/wiki/드라마 "wikilink") [영주는](../Page/영주_\(드라마\).md "wikilink") 결방되지 않는 것으로 드러나고 있다.
 18. 당초에는 코로나-19로 인한 결방이었으나, 코로나보다는 삼일절 경축식 중계에 따라 결방되어 있는 것으로 보인다.
-19. [아그라](../Page/아그라.md "wikilink")에서도 소개된 이력이 오래 전에 있었다.
-20. 헝가리는 자몽이와 함께 풀러 대회에 출전시키기 위해 [쇼프론](../Page/쇼프론.md "wikilink")까지 나간 것으로 보인다.
-21. 티빙의 경우 동물농장을 방영하는 채널이 아예 없다.
-22. 단, [skyPetPark](https://ko.wikipedia.org/wiki/skyPetPark "wikilink") 같은 경우 **개과천선**이라는 프로그램이 올레tv 모바일에서도 기존에 지원이 가능하였으나, 최근에 그것 마저도 제공될 수 없다. 하지만 하루뉴스나 펫투게더 같은 경우는 올레tv 모바일에서는 당연히 제공할 수 없게 된다. 따라서 동물농장과 관계되어 있는 프로그램은 전부 이용할 수 없게 되며, 추후 저작권을 형식상 공식적으로 완전히 확보될 때까지는 당분간 방송 채널의 사정상 제공시키지 않는 것으로 봐야 한다.
-23. [그랜드 부다개스트는](https://ko.wikipedia.org/wiki/그랜드_부다개스트 "wikilink") JTBC2에서 본방 편성되었던 것으로 보이게 되며, JTBC 소속은 맞지만 JTBC2의 오리지널 프로그램으로 취급한다.
+19. 지연 편성된 사례는 이날이 유일하며, 과거에도 몇 차례 있었다. 그래서 이날 오전 11시에 [신비한TV 서프라이즈와](../Page/신비한TV_서프라이즈.md "wikilink") 동시에 편성된 것으로 보인다.
+20. [아그라](../Page/아그라.md "wikilink")에서도 소개된 이력이 오래 전에 있었다.
+21. 헝가리는 자몽이와 함께 풀러 대회에 출전시키기 위해 [쇼프론](../Page/쇼프론.md "wikilink")까지 나간 것으로 보인다.
+22. 티빙의 경우 동물농장을 방영하는 채널이 아예 없다.
+23. 단, [skyPetPark](https://ko.wikipedia.org/wiki/skyPetPark "wikilink") 같은 경우 **개과천선**이라는 프로그램이 올레tv 모바일에서도 기존에 지원이 가능하였으나, 최근에 그것 마저도 제공될 수 없다. 하지만 하루뉴스나 펫투게더 같은 경우는 올레tv 모바일에서는 당연히 제공할 수 없게 된다. 따라서 동물농장과 관계되어 있는 프로그램은 전부 이용할 수 없게 되며, 추후 저작권을 형식상 공식적으로 완전히 확보될 때까지는 당분간 방송 채널의 사정상 제공시키지 않는 것으로 봐야 한다.
+24. [그랜드 부다개스트는](https://ko.wikipedia.org/wiki/그랜드_부다개스트 "wikilink") JTBC2에서 본방 편성되었던 것으로 보이게 되며, JTBC 소속은 맞지만 JTBC2의 오리지널 프로그램으로 취급한다.

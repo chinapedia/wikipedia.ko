@@ -22,7 +22,7 @@
 <td><p><a href="../Page/스테이플스_센터.md" title="wikilink">스테이플스 센터</a><br />
 (<a href="../Page/캘리포니아주.md" title="wikilink">캘리포니아주</a> <a href="https://ko.wikipedia.org/wiki/로스앤젤레스" title="wikilink">로스앤젤레스</a>)</p></td>
 <td><p><a href="../Page/토킹_스틱_리조트_아레나.md" title="wikilink">토킹 스틱 리조트 아레나</a><br />
-(<a href="../Page/애리조나주.md" title="wikilink">애리조나주</a> <a href="https://ko.wikipedia.org/wiki/피닉스" title="wikilink">피닉스</a>)</p></td>
+(<a href="../Page/애리조나주.md" title="wikilink">애리조나주</a> <a href="../Page/피닉스.md" title="wikilink">피닉스</a>)</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/골든_1_센터" title="wikilink">골든 1 센터</a><br />
 (<a href="../Page/캘리포니아주.md" title="wikilink">캘리포니아주</a> <a href="../Page/새크라멘토.md" title="wikilink">새크라멘토</a>)</p></td>
 </tr>

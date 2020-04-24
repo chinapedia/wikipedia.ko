@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [KNN 뉴스아이](https://ko.wikipedia.org/wiki/KNN_뉴스아이).
 
 
-**KNN 뉴스아이**()는 [SBS의](../Page/SBS_\(대한민국의_방송사\).md "wikilink") 부산/경남권 지역 민방 네트워크인 [KNN](../Page/KNN.md "wikilink") 부산경남방송의 대표적인 지역 민방 뉴스프로그램으로, 1995년 5월 14일부터 **PSB 뉴스아이**란 타이틀로 방송을 개시하여 방송국명 변경을 제외하곤 별도의 타이틀 변경없이 현재까지 방송중인 프로그램이다. [SBS 8 뉴스의](../Page/SBS_8_뉴스.md "wikilink") 릴레이 형태로 방송되며, 지역민방의 모든 프로그램 가운데 가장 오랫동안 방송되어온 프로그램이다. 2009년 4월 13일부터는 다른 보도프로그램과 함께 [HD화질로](../Page/고선명_텔레비전.md "wikilink") 프로그램이 방송되고 있다.
+**KNN 뉴스아이**()는 [SBS의](../Page/SBS_\(대한민국의_방송사\).md "wikilink") 부산/경남권 지역 민방 네트워크인 [KNN](../Page/KNN.md "wikilink") 부산경남방송의 대표적인 지역 민방 뉴스프로그램으로, 1995년 5월 14일부터 **PSB 뉴스아이**란 타이틀로 방송을 개시하여 방송국명 변경을 제외하곤 별도의 타이틀 변경없이 현재까지 방송중인 프로그램이다. [SBS 8 뉴스의](../Page/SBS_8_뉴스.md "wikilink") 릴레이 형태로 방송되며, 지역민방의 모든 프로그램 가운데 가장 오랫동안 방송되어온 프로그램이다. 2009년 4월 13일부터는 다른 보도프로그램과 함께 [HD화질로](../Page/고선명_텔레비전.md "wikilink") 프로그램이 방송되고 있다. Ramlah ram-Insafilah, Karoline Kruger-You Call It Love, Tommy Page-I Il Be Your Everything(2005.3.2\~2006.4.21 PSB(부산방송) Broadcasting Oder Guide BGM)
 
 ## 방송시간
 

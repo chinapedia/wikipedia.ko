@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [IBM 왓슨 연구소](https://ko.wikipedia.org/wiki/IBM_왓슨_연구소).
 
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:IBM_Yorktown_Heights.jpg "wikilink") [300px](https://ko.wikipedia.org/wiki/파일:IBM_Yorktown.jpg "wikilink") **IBM 왓슨 연구소**(, **토머스 J. 왓슨 리서치 센터**) 는 [IBM](../Page/IBM.md "wikilink") 연구 부문을 총괄하는 IBM 내 조직이자 본부 연구 센터이다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:IBM_Yorktown_Heights.jpg "wikilink") [300px](https://ko.wikipedia.org/wiki/파일:IBM_Yorktown.jpg "wikilink") **IBM 왓슨 연구소**(, **토머스 J. 왓슨 리서치 센터**)는 [IBM](../Page/IBM.md "wikilink") 연구 부문을 총괄하는 IBM 내 조직이자 본부 연구 센터이다.
 
 IBM 왓슨 연구소는 세 곳에 나뉘어 위치한다. 하나는 뉴욕 시에서 약 61 km 북쪽에 있는 뉴욕 주 요크타운 하이츠에 있고, 다른 하나는 뉴욕 주 호손에 있으며, 나머지 하나는 [매사추세츠주](../Page/매사추세츠주.md "wikilink") [케임브리지에](../Page/케임브리지_\(매사추세츠주\).md "wikilink") 있다.
 

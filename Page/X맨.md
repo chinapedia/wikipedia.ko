@@ -13,7 +13,7 @@
 
 ### 《실제상황 토요일》 편성 시기
 
-  - 1기 당시 메인 MC는 [김제동](../Page/김제동.md "wikilink")이었고, [강호동](../Page/강호동.md "wikilink")과 [유재석](https://ko.wikipedia.org/wiki/유재석 "wikilink")이 각각 강팀과 유팀의 팀장을 맡았다. 1기 출연자는 [윤현진](https://ko.wikipedia.org/wiki/윤현진_\(1978년\) "wikilink") SBS 아나운서(X맨), [은지원](../Page/은지원.md "wikilink"), [박예진](https://ko.wikipedia.org/wiki/박예진 "wikilink"), [김C](../Page/김C.md "wikilink"), [토니 안](../Page/토니_안.md "wikilink"), [김종민](https://ko.wikipedia.org/wiki/김종민 "wikilink"), [김경호](../Page/김경호_\(가수\).md "wikilink"), 애니(전 타샤니 멤버)였다.
+  - 1기 당시 메인 MC는 [김제동](../Page/김제동.md "wikilink")이었고, [강호동](../Page/강호동.md "wikilink")과 [유재석](https://ko.wikipedia.org/wiki/유재석 "wikilink")이 각각 강팀과 유팀의 팀장을 맡았다. 1기 출연자는 [윤현진](https://ko.wikipedia.org/wiki/윤현진_\(1978년\) "wikilink") SBS 아나운서(X맨), [은지원](../Page/은지원.md "wikilink"), [박예진](https://ko.wikipedia.org/wiki/박예진 "wikilink"), [김C](../Page/김C.md "wikilink"), [토니 안](../Page/토니_안.md "wikilink"), [김종민](../Page/김종민.md "wikilink"), [김경호](../Page/김경호_\(가수\).md "wikilink"), 애니(전 타샤니 멤버)였다.
   - 2기부터 메인 MC가 김제동에서 유재석으로 바뀌었고, 김제동은 김팀(1기에는 유팀)의 팀장을 맡게 되었다.
   - 초창기에 출시된 '단결 말타기', '줄줄이 말해요', '날아라 프라이팬' 등의 게임들이 히트했고, 특히 2004년 5월에 출시된 '당연하지\!'가 메가히트하면서 큰 화제를 불러일으켰다.
 
@@ -87,7 +87,7 @@
 
 ### 고정 게스트
 
-  - [김종민](https://ko.wikipedia.org/wiki/김종민 "wikilink") (2003년 11월\~2005년 12월)
+  - [김종민](../Page/김종민.md "wikilink") (2003년 11월\~2005년 12월)
       - 줄줄이 교수님: 어리바리함으로 줄줄이 말해요 게임에서 항상 틀리지만 명언은 많이 해서 붙여진 별명이다.
   - [신정환](../Page/신정환.md "wikilink") (2004년 4월\~2005년 5월)
       - Miss 신: 2004년 5월 제주도 특집 당시 뒷모습이 조신한 여자 같아 붙여진 별명이다.
@@ -125,7 +125,7 @@
 | 3    | [이범수](../Page/이범수.md "wikilink")                                   |
 | 4    | [이진](../Page/이진_\(1980년\).md "wikilink")                           |
 | 5    | [앤디](../Page/앤디_\(가수\).md "wikilink")                              |
-| 6    | [김종민](https://ko.wikipedia.org/wiki/김종민 "wikilink")                |
+| 6    | [김종민](../Page/김종민.md "wikilink")                                   |
 | 7    | [강호동](../Page/강호동.md "wikilink")                                   |
 | 8    | [신혜성](../Page/신혜성.md "wikilink")                                   |
 | 9    | [박정아](../Page/박정아_\(연예인\).md "wikilink")                           |
@@ -135,7 +135,7 @@
 | 13   | [황보](../Page/황보_\(1980년\).md "wikilink")                           |
 | 14   | [김동완](../Page/김동완_\(가수\).md "wikilink")                            |
 | 15   | [유노윤호](../Page/유노윤호.md "wikilink")                                 |
-| 16   | [김종민](https://ko.wikipedia.org/wiki/김종민 "wikilink") (2회)           |
+| 16   | [김종민](../Page/김종민.md "wikilink") (2회)                              |
 | 17   | [윤은혜](../Page/윤은혜.md "wikilink")                                   |
 | 18   | [신정환](../Page/신정환.md "wikilink")                                   |
 | 19   | [공형진](../Page/공형진.md "wikilink")                                   |
@@ -184,7 +184,7 @@
 | 62   | [전진](../Page/전진_\(가수\).md "wikilink")                              |
 | 63   | [이종수](../Page/이종수_\(배우\).md "wikilink")                            |
 | 64   | [이승기](../Page/이승기.md "wikilink") (2회)                              |
-| 65   | [신지](https://ko.wikipedia.org/wiki/신지_\(가수\) "wikilink")           |
+| 65   | [신지](../Page/신지_\(가수\).md "wikilink")                              |
 | 66   | [이민우](../Page/이민우_\(가수\).md "wikilink") (2회)                       |
 | 67   | [윤종신](../Page/윤종신.md "wikilink")                                   |
 | 68   | [싸이](../Page/싸이.md "wikilink")                                     |

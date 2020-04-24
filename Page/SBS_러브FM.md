@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [SBS 러브FM](https://ko.wikipedia.org/wiki/SBS_러브FM).
 
 
-**SBS 러브FM**은 대한민국 수도권의 민영 방송사인 [SBS의](../Page/SBS_\(대한민국의_방송사\).md "wikilink") 종합 [라디오](../Page/라디오.md "wikilink") 편성책임 광고책임 방송 채널이다.
+**SBS 러브FM**은 대한민국 수도권의 민영 방송사인 [SBS의](../Page/SBS_\(대한민국의_방송사\).md "wikilink") 종합 [라디오](../Page/라디오.md "wikilink") 광고 방송 채널이다.
 
 ## 개요
 
@@ -325,8 +325,6 @@ SBS 러브FM의 경우 [SBS](../Page/SBS_\(대한민국의_방송사\).md "wikil
   - 사랑해요 사랑해요 103.5 러브FM [2017년](../Page/2017년.md "wikilink") \~ **현재**
 
 ## 같이 보기
-
-※ 주의사항 ※ 이 방송 채널은 행정안전부, 현대캐피탈, 공익광고협의회가 지정한 경제형 방송 채널입니다. 같이 보기 부분을 함부로 수정하지 마시고, 늘 눈으로 봐 주시기 바랍니다.
 
   - [KBS 제3라디오](../Page/KBS_제3라디오.md "wikilink")
   - [CBS 표준FM](../Page/CBS_표준FM.md "wikilink")

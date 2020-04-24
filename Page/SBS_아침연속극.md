@@ -18,43 +18,43 @@
 <tr class="odd">
 <td><p><a href="../Page/SBS_TV.md" title="wikilink">SBS TV</a></p></td>
 <td><p>1991년 12월 10일 ~ 1995년 5월 13일</p></td>
-<td><p><a href="../Page/월요일.md" title="wikilink">월요일</a> ~ <a href="../Page/토요일.md" title="wikilink">토요일</a> 오전 8시 40분</p></td>
+<td><p><a href="../Page/월요일.md" title="wikilink">월요일</a> ~ <a href="../Page/토요일.md" title="wikilink">토요일</a> 오전 8시 40분 ~ 9시 5분</p></td>
 <td><p>25분</p></td>
 </tr>
 <tr class="even">
 <td><p>1995년 5월 15일 ~ 2008년 10월 25일</p></td>
-<td><p><a href="../Page/월요일.md" title="wikilink">월요일</a> ~ <a href="../Page/토요일.md" title="wikilink">토요일</a> 오전 8시 30분</p></td>
+<td><p><a href="../Page/월요일.md" title="wikilink">월요일</a> ~ <a href="../Page/토요일.md" title="wikilink">토요일</a> 오전 8시 30분 ~ 9시</p></td>
 <td><p>30분</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2008년 10월 27일 ~ 2009년 7월 11일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/평일" title="wikilink">평일</a> 오전 8시 30분<br />
-<a href="../Page/토요일.md" title="wikilink">토요일</a> 오전 8시 25분</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/평일" title="wikilink">평일</a> 오전 8시 30분 ~ 9시 5분<br />
+<a href="../Page/토요일.md" title="wikilink">토요일</a> 오전 8시 25분 ~ 9시</p></td>
 <td><p>35분</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2009년 7월 13일 ~ 2010년 12월 31일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/평일" title="wikilink">평일</a> 오전 8시 40분</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/평일" title="wikilink">평일</a> 오전 8시 40분 ~ 9시 20분</p></td>
 <td><p>40분</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2011년 1월 3일 ~ 2018년 6월 8일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/평일" title="wikilink">평일</a> 오전 8시 30분</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/평일" title="wikilink">평일</a> 오전 8시 30분 ~ 9시 10분</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2018년 6월 11일 ~ 2019년 5월 17일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/평일" title="wikilink">평일</a> 오전 8시 40분</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/평일" title="wikilink">평일</a> 오전 8시 40분 ~ 9시 10분</p></td>
 <td><p>30분</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2019년 5월 20일 ~ <strong>현재</strong></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/평일" title="wikilink">평일</a> 오전 8시 35분</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/평일" title="wikilink">평일</a> 오전 8시 35분 ~ 9시 10분</p></td>
 <td><p>35분</p></td>
 <td></td>
 </tr>
@@ -155,7 +155,7 @@
 
 ### [2020년대](https://ko.wikipedia.org/wiki/2020년대 "wikilink") 전반
 
-  - 《[엄마가 바람났다](https://ko.wikipedia.org/wiki/엄마가_바람났다 "wikilink")》 : 2020년 5월 4일 \~ 방영예정
+  - 《[엄마가 바람났다](https://ko.wikipedia.org/wiki/엄마가_바람났다 "wikilink")》 : 2020년 5월 4일 \~ 2020년 10월 16일
 
 ## 같이 보기
 

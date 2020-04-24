@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [AKIRA \(가수\)](https://ko.wikipedia.org/wiki/AKIRA_\(가수\)).
 
 
-**AKIRA**(아키라, [1981년](../Page/1981년.md "wikilink") [8월 23일](../Page/8월_23일.md "wikilink") \~ )는, [일본](../Page/일본.md "wikilink")의 [배우](../Page/배우.md "wikilink"), 댄서이며, [EXILE](../Page/EXILE.md "wikilink"), [EXILE THE SECOND의](../Page/EXILE_THE_SECOND.md "wikilink") 퍼포머이다. 본명, **쿠로사와 료헤이**().
+**AKIRA**(아키라, [1981년](../Page/1981년.md "wikilink") [8월 23일](../Page/8월_23일.md "wikilink") \~ )는 [일본](../Page/일본.md "wikilink")의 [배우](../Page/배우.md "wikilink"), 댄서이며, [EXILE](../Page/EXILE.md "wikilink"), [EXILE THE SECOND의](../Page/EXILE_THE_SECOND.md "wikilink") 퍼포머이다. 본명, **쿠로사와 료헤이**().
 
 [카나가와 현](../Page/가나가와현.md "wikilink") [요코하마 시](https://ko.wikipedia.org/wiki/요코하마_시 "wikilink") 출생\[1\]. [시즈오카현](../Page/시즈오카현.md "wikilink") [이와타 시](https://ko.wikipedia.org/wiki/이와타_시 "wikilink") 성장. [LDH](https://ko.wikipedia.org/wiki/LDH "wikilink") 소속.
 

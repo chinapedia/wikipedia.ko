@@ -76,7 +76,7 @@
 
   - 스포츠 실험실
   - [잉글리시 프리미어리그](https://ko.wikipedia.org/wiki/프리미어리그 "wikilink")
-  - [WWE](https://ko.wikipedia.org/wiki/WWE "wikilink")\[1\] → 2018년 2월 IB SPORT에 프로그램 공급편성
+  - [WWE](../Page/WWE.md "wikilink")\[1\] → 2018년 2월 IB SPORT에 프로그램 공급편성
   - 스포츠 위기 일발의 순간들
   - [UFC](../Page/얼티밋_파이팅_챔피언십.md "wikilink")
   - [신일본 프로레슬링](../Page/신일본_프로레슬링.md "wikilink")

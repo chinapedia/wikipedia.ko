@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Brown Eyes \(음반\)](https://ko.wikipedia.org/wiki/Brown_Eyes_\(음반\)).
 
 
-**《Brown Eyes》**는 [2001년](../Page/2001년.md "wikilink") [6월 7일에](../Page/6월_7일.md "wikilink") 발매된 남성 듀오 [브라운 아이즈의](../Page/브라운_아이즈.md "wikilink") 1집 정규 앨범이다. 2번 트랙의 〈[벌써 일년](https://ko.wikipedia.org/wiki/벌써_일년 "wikilink")〉과 6번 트랙의 〈With Coffee〉이 타이틀 곡이다.
+《**Brown Eyes**》는 2001년 6월 7일에 발매된 남성 듀오 [브라운 아이즈의](../Page/브라운_아이즈.md "wikilink") 1집 정규 앨범이다. 2번 트랙의 〈[벌써 일년](https://ko.wikipedia.org/wiki/벌써_일년 "wikilink")〉과 6번 트랙의 〈With Coffee〉이 타이틀 곡이다.
 
 윤건이 노래의 작곡과 작사, 프로듀스, 편곡까지 음악에 관한 작업을 맡고, 나얼이 앨범 제작과 자켓 디자인, 의상 디자인 등의 컨셉 작업을 맡았다.
 

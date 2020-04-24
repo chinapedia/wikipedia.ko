@@ -79,7 +79,7 @@
 <td><ul>
 <li>본명 : 정수정 (鄭秀晶)</li>
 <li>생년월일 : </li>
-<li>출생지 : <a href="https://ko.wikipedia.org/wiki/미" title="wikilink">미</a> <a href="../Page/샌프란시스코.md" title="wikilink">샌프란시스코</a></li>
+<li>출생지 : <a href="../Page/미국.md" title="wikilink">미국</a> <a href="../Page/샌프란시스코.md" title="wikilink">샌프란시스코</a></li>
 <li>활동기간 : <a href="../Page/2009년.md" title="wikilink">2009년</a> <a href="../Page/9월_5일.md" title="wikilink">9월 5일</a> ~ 현재</li>
 </ul></td>
 </tr>
@@ -97,8 +97,9 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="../Page/설리_(배우).md" title="wikilink">설리</a></p></td>
-<td><ul>
+<td><p>'''<a href="../Page/설리_(배우).md" title="wikilink">설리</a></p></td>
+<td><p>'''</p>
+<ul>
 <li>본명 : 최진리 (崔眞理)</li>
 <li>생년월일 : </li>
 <li>출생지 : <a href="../Page/대한민국.md" title="wikilink">대한민국</a> <a href="https://ko.wikipedia.org/wiki/부산광역시" title="wikilink">부산광역시</a></li>

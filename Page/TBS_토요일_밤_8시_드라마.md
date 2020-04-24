@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [TBS 토요일 밤 8시 드라마](https://ko.wikipedia.org/wiki/TBS_토요일_밤_8시_드라마).
 
 
-**TBS 토요일 밤 8시 드라마**(TBS土曜8時枠の連続ドラマ)는, [2008년](../Page/2008년.md "wikilink") [4월 19일부터](../Page/4월_19일.md "wikilink") [2010년](../Page/2010년.md "wikilink") [9월 18일까지](../Page/9월_18일.md "wikilink") 일본 [TBS에서](https://ko.wikipedia.org/wiki/도쿄_방송 "wikilink") 매주 [토요일](../Page/토요일.md "wikilink") [저녁](https://ko.wikipedia.org/wiki/저녁 "wikilink") 7시56분부터 8시 54분까지 방송되었던 TV 드라마 방송범위이다. 통칭 ****.
+**TBS 토요일 밤 8시 드라마**(TBS土曜8時枠の連続ドラマ)는 [2008년](../Page/2008년.md "wikilink") [4월 19일부터](../Page/4월_19일.md "wikilink") [2010년](../Page/2010년.md "wikilink") [9월 18일까지](../Page/9월_18일.md "wikilink") 일본 [TBS에서](https://ko.wikipedia.org/wiki/도쿄_방송 "wikilink") 매주 [토요일](../Page/토요일.md "wikilink") [저녁](https://ko.wikipedia.org/wiki/저녁 "wikilink") 7시56분부터 8시 54분까지 방송되었던 TV 드라마 방송범위이다. 통칭 ****.
 
 ## 설명
 

@@ -203,17 +203,17 @@
 | 특별상     | [문성근](../Page/문성근.md "wikilink"), [김승규](https://ko.wikipedia.org/wiki/김승규 "wikilink"), [이선우](https://ko.wikipedia.org/wiki/이선우 "wikilink"), [이주연](https://ko.wikipedia.org/wiki/이주연 "wikilink"), [성성모](https://ko.wikipedia.org/wiki/성성모 "wikilink") |
 |         |                                                                                                                                                                                                                                                      |
 
-| 부문                                      | 수상자                                                                   | 출연작                                                         |
-| --------------------------------------- | --------------------------------------------------------------------- | ----------------------------------------------------------- |
-| 드라마 부문 최우수 연기상                          | [박중훈](../Page/박중훈.md "wikilink")                                      | [머나먼 쏭바강](../Page/머나먼_쏭바강.md "wikilink")                    |
-| [김혜선](../Page/김혜선_\(배우\).md "wikilink") | [친애하는 기타 여러분](../Page/친애하는_기타_여러분.md "wikilink")                      |                                                             |
-| 드라마 부문 신인 연기상                           | [오대규](../Page/오대규.md "wikilink")                                      | [머나먼 쏭바강](../Page/머나먼_쏭바강.md "wikilink")                    |
-| [이영애](../Page/이영애.md "wikilink")        | [댁의 남편은 어떠십니까](https://ko.wikipedia.org/wiki/댁의_남편은_어떠십니까 "wikilink") |                                                             |
-| 코미디 부문 최우수 연기상                          | [김미화](../Page/김미화.md "wikilink")                                      |                                                             |
-| 코미디 부문 우수 연기상                           | [신동엽](../Page/신동엽_\(희극인\).md "wikilink")                              |                                                             |
-| 코미디 부문 신인 연기상                           | [틴틴파이브](https://ko.wikipedia.org/wiki/틴틴파이브 "wikilink")               |                                                             |
-| MC 부문 MC상                               | [임백천](../Page/임백천.md "wikilink")                                      | [대결20/40](https://ko.wikipedia.org/wiki/대결20/40 "wikilink") |
-|                                         |                                                                       |                                                             |
+| 부문                                      | 수상자                                                                                      | 출연작                                                         |
+| --------------------------------------- | ---------------------------------------------------------------------------------------- | ----------------------------------------------------------- |
+| 탤런트 부문 최우수 연기상                          | [박중훈](../Page/박중훈.md "wikilink")                                                         | [머나먼 쏭바강](../Page/머나먼_쏭바강.md "wikilink")                    |
+| [김혜선](../Page/김혜선_\(배우\).md "wikilink") | [산다는 것은](../Page/산다는_것은.md "wikilink"), [친애하는 기타 여러분](../Page/친애하는_기타_여러분.md "wikilink") |                                                             |
+| 탤런트 부문 신인 연기상                           | [오대규](../Page/오대규.md "wikilink")                                                         | [머나먼 쏭바강](../Page/머나먼_쏭바강.md "wikilink")                    |
+| [이영애](../Page/이영애.md "wikilink")        | [댁의 남편은 어떠십니까](https://ko.wikipedia.org/wiki/댁의_남편은_어떠십니까 "wikilink")                    |                                                             |
+| 코미디 부문 최우수 연기상                          | [김미화](../Page/김미화.md "wikilink")                                                         |                                                             |
+| 코미디 부문 우수 연기상                           | [신동엽](../Page/신동엽_\(희극인\).md "wikilink")                                                 |                                                             |
+| 코미디 부문 신인 연기상                           | [틴틴파이브](https://ko.wikipedia.org/wiki/틴틴파이브 "wikilink")                                  |                                                             |
+| MC 부문 MC상                               | [임백천](../Page/임백천.md "wikilink")                                                         | [대결20/40](https://ko.wikipedia.org/wiki/대결20/40 "wikilink") |
+|                                         |                                                                                          |                                                             |
 
 | 부문                                                  | 수상자                                                 | 출연작                                            |
 | --------------------------------------------------- | --------------------------------------------------- | ---------------------------------------------- |
@@ -1328,7 +1328,7 @@
 <tr class="even">
 <td><p>수목드라마 부문 우수 연기상</p></td>
 <td><p><a href="../Page/이상엽.md" title="wikilink">이상엽</a><br />
-<a href="../Page/남지현_(1995년).md" title="wikilink">남지현</a></p></td>
+<a href="../Page/남지현_(배우).md" title="wikilink">남지현</a></p></td>
 <td><p><a href="../Page/당신이_잠든_사이에_(드라마).md" title="wikilink">당신이 잠든 사이에</a><br />
 <a href="../Page/수상한_파트너.md" title="wikilink">수상한 파트너</a></p></td>
 </tr>
@@ -1630,8 +1630,8 @@
   - [2010년](../Page/2010년.md "wikilink") **연기대상**에서 배우 [고현정](../Page/고현정.md "wikilink")이 대상을 수상했으나 이미 연기대상 대상 수상자가 정해졌다는 이른바 [고현정](../Page/고현정.md "wikilink") 빅딜설이라는 소문이 나돌면서 논란이 있으며\[2\]\[3\]\[4\] 또한, [고현정](../Page/고현정.md "wikilink")의 수상소감에 대해서도 비판이 있다.\[5\]\[6\] [2011년](../Page/2011년.md "wikilink") [1월 2일](../Page/1월_2일.md "wikilink") 2010년 SBS 연기대상 재방송 방송에서 [고현정](../Page/고현정.md "wikilink")의 수상소감은 편집되었고\[7\] 그 이후 2012년 4월 고현정이 진행하는 GO쇼가 방송되었다.
   - [2010년](../Page/2010년.md "wikilink") [12월 26일](../Page/12월_26일.md "wikilink") [김수현](../Page/김수현_\(작가\).md "wikilink") 작가는 [트위터](../Page/트위터.md "wikilink")에서 “SBS 연말 연기상, '[인생은 아름다워](../Page/인생은_아름다워_\(2010년_드라마\).md "wikilink")' 팬들은 기대를 접으시기 바랍니다. 상은 받을 만한 가치가 있을 때 '상'이라는 생각 변함없고, 아마도 인아는 찬밥일 겁니다. 괜찮습니다. 잔칫상 구색 맞추기 동원보다는 아예 찬밥이 깔끔”이라고 말했다.\[8\]
   - [2001년](../Page/2001년.md "wikilink") **연기대상**부터 대상 후보를 포함하여 한 해 최고의 연기자 다수에게 수여하던 "10대 스타상"은 SBS의 시상식 개편으로 인하여 [2017년](../Page/2017년.md "wikilink") **연기대상**부터 폐지되었다.
-  - 한 해 신인 다수에게 수여했던 **SBS 연기대상**의 신인상인 "뉴스타상"은 SBS의 시상식 개편으로 인하여 [2017년](../Page/2017년.md "wikilink")부터 "신인연기상"으로 명칭이 변경되었다.
-  - [지성](../Page/지성_\(배우\).md "wikilink"), [이보영은](../Page/이보영_\(배우\).md "wikilink") [2017년](../Page/2017년.md "wikilink") **SBS 연기대상** 최초로 부부가 함께 연기대상에 참석하였으며 같이 대상후보에 오르기도 하였다.
+  - 한 해 신인 다수에게 수여했던 **연기대상**의 신인상인 "뉴스타상"은 SBS의 시상식 개편으로 인하여 [2017년](../Page/2017년.md "wikilink")부터 "신인연기상"으로 명칭이 변경되었다.
+  - [2017년](../Page/2017년.md "wikilink") **연기대상**에서 [지성](../Page/지성_\(배우\).md "wikilink"), [이보영은](../Page/이보영_\(배우\).md "wikilink") 최초로 부부가 함께 연기대상에 참석하였으며 같이 대상후보에 오르기도 하였다.
 
 ## 네트워크 방송사
 
@@ -1651,9 +1651,9 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/수도권_(대한민국)" title="wikilink">수도권</a><br />
 (<a href="../Page/서울특별시.md" title="wikilink">서울</a>·<a href="https://ko.wikipedia.org/wiki/인천광역시" title="wikilink">인천</a>·<a href="https://ko.wikipedia.org/wiki/경기도" title="wikilink">경기</a>)</p></td>
 <td><p><a href="../Page/SBS_(대한민국의_방송사).md" title="wikilink">SBS</a></p></td>
-<td><p>매년 <a href="../Page/12월_31일.md" title="wikilink">12월 31일</a> 방송(9개 지역 민방 네트워크로 수중계)<br />
+<td><p>매년 <a href="../Page/12월_31일.md" title="wikilink">12월 31일</a> 방송(9개 지역 민방 네트워크로 릴레이 송출)<br />
 (방송 시간은 편성 상황에 따라 유동적으로 달라질 수 있음)</p></td>
-<td><p>프로그램 제작국</p></td>
+<td><p>키국(프로그램 제작국)</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/대전광역시" title="wikilink">대전</a>·<a href="https://ko.wikipedia.org/wiki/충청남도" title="wikilink">충남</a>·<a href="../Page/세종특별자치시.md" title="wikilink">세종</a></p></td>

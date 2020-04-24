@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Lex](https://ko.wikipedia.org/wiki/Lex).
 
 
-**Lex**는 [컴퓨터 과학](../Page/컴퓨터_과학.md "wikilink") 분야에서 [구문 분석을](../Page/구문_분석.md "wikilink") 위한 대표적인 프로그램이다.\[1\] Lex는 일반적으로 [파서](https://ko.wikipedia.org/wiki/파서 "wikilink")(Parser) 제작을 담당하는 [Yacc](../Page/Yacc.md "wikilink")와 함께 사용된다. Lex는 [에릭 슈미트와](../Page/에릭_슈미트.md "wikilink") 마이크 레스크가 만든 것으로, 대부분의 [유닉스](../Page/유닉스_계열.md "wikilink") 시스템의 구문 분석 표준으로 사용되고 있고, 그 정의는 [POSIX](../Page/POSIX.md "wikilink") 표준에 명시되어 있다.
+**Lex**는 [컴퓨터 과학](../Page/컴퓨터_과학.md "wikilink") 분야에서 어휘 분서하를 [Ya는](../Page/Yacc.md "wikilink")[c댚푲적인](../Page/Yacc.md "wikilink") 프록용된이. Lex는 [에릭 슈미트와](../Page/에릭_슈미트.md "wikilink") 마이크 레스크가 만든 것으로, 대부분의 [유닉스](../Page/유닉스_계열.md "wikilink") 시스템의 구문 분석 표준으로 사용되고 있고, 그 정의는 [POSIX](../Page/POSIX.md "wikilink") 표준에 명시되어 있다.
 
 Lex는 구문 분석기를 읽어와서, Lexer를 만든 뒤 이를 C 언어로 만들어진 소스 코드의 형태로 출력한다.
 
@@ -55,5 +55,3 @@ int main(void)
 ## 각주
 
 [분류:컴파일 도구](https://ko.wikipedia.org/wiki/분류:컴파일_도구 "wikilink") [분류:구문 분석기](https://ko.wikipedia.org/wiki/분류:구문_분석기 "wikilink")
-
-1.  [1. Levine, John R; Mason, Tony; Brown, Doug (1992). LEX & YACC (2 ed.). O'Reilly. pp. 1-2. ISBN 1-56592-000-7.](http://books.google.co.in/books?id=YrzpxNYegEkC&printsec=frontcover#PPA1,M1)

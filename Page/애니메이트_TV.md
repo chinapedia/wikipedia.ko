@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [애니메이트 TV](https://ko.wikipedia.org/wiki/애니메이트_TV).
 
 
-**애니메이트 TV**(, )는, 일본의 [애니메이션](../Page/애니메이션.md "wikilink") 상품 판매점 [애니메이트](../Page/애니메이트.md "wikilink") 및 주식회사 [프론티어 웍스에](https://ko.wikipedia.org/wiki/프론티어_웍스 "wikilink") 의한 애니메이션 관련 정보 사이트.
+**애니메이트 TV**(, )는 일본의 [애니메이션](../Page/애니메이션.md "wikilink") 상품 판매점 [애니메이트](../Page/애니메이트.md "wikilink") 및 주식회사 [프론티어 웍스에](https://ko.wikipedia.org/wiki/프론티어_웍스 "wikilink") 의한 애니메이션 관련 정보 사이트.
 
 애니메이션·[게임](../Page/게임.md "wikilink")·[성우](../Page/성우.md "wikilink")에 관한 뉴스나 프로모션 영상, [인터넷 라디오](../Page/인터넷_라디오.md "wikilink") 프로그램 방송, 텔레비전 애니메이션의 [인터넷 방송](https://ko.wikipedia.org/wiki/인터넷_프로토콜_텔레비전 "wikilink"), CD·DVD등 각종 애니메이션 관련 상품의 통신 판매, 성우의 블로그 운영이나 칼럼 연재를 실시하고 있다.
 

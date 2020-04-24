@@ -9,7 +9,7 @@ AFKN은 [한국 전쟁](../Page/한국_전쟁.md "wikilink") [서울 수복](../
 
 AFKN은 영어 학습에 이용되기도 하였다. 대한민국의 시청자들은 AFKN을 통하여 미국의 다양한 문화를 접할 수 있었고, 반대로 한국문화를 전달하는 창구가 되기도 했다고 평가된다.\[3\] AFKN은 1966년의 [한미행정협정](https://ko.wikipedia.org/wiki/한미행정협정 "wikilink") 제3조 2항에 의거하여 [대한민국 정부의](../Page/대한민국_정부.md "wikilink") 통제 없이 자유롭게 방송할 수 있었기에 [군사정권](https://ko.wikipedia.org/wiki/군사정권 "wikilink") 당시 한국 언론에 드러나지 못했던 내용들이 보도될 수 있었던 반면, [대한민국](../Page/대한민국.md "wikilink")의 [대중문화](../Page/대중문화.md "wikilink")가 [미국](../Page/미국.md "wikilink")의 대중문화에 영향을 받는다는 우려를 낳았다.\[4\] 이러한 문제 때문에 1996년에 수신 가능지역을 줄이고자 서울의 [TV 채널을](../Page/텔레비전.md "wikilink") 기존의 [VHF](https://ko.wikipedia.org/wiki/VHF "wikilink") 2번에서 [UHF](https://ko.wikipedia.org/wiki/UHF "wikilink") 34번으로 변경한 바 있으며, [서울](https://ko.wikipedia.org/wiki/서울 "wikilink") 지역의 [AM 방송](../Page/진폭_변조.md "wikilink") [주파수](https://ko.wikipedia.org/wiki/주파수 "wikilink")도 이와 같은 맥락에서 549㎑에서 1530㎑로 옮겨진 것으로 보인다.\[5\]
 
-AFKN은 80년대 후반 [WWF](https://ko.wikipedia.org/wiki/WWE "wikilink")(World Wrestling Federation) 미국 프로레슬링 방영을 시작하여 어린이, 청소년층에서 선풍적인 인기를 끌었다. 91년까지 이어진 WWF 열풍은 90년대 후반 이후 WWE(World Wrestling Entertainment), WCW(World Championship Wrestling), TNA(Total Nonstop Action) 프로레슬링 경기가 케이블 방송을 통해 국내에 정식방영이 되고, 2003년 역사적인 첫 WWE 월드투어 한국경기가 개최되는데 큰 영향력을 주었다.
+AFKN은 80년대 후반 [WWF](../Page/WWE.md "wikilink")(World Wrestling Federation) 미국 프로레슬링 방영을 시작하여 어린이, 청소년층에서 선풍적인 인기를 끌었다. 91년까지 이어진 WWF 열풍은 90년대 후반 이후 WWE(World Wrestling Entertainment), WCW(World Championship Wrestling), TNA(Total Nonstop Action) 프로레슬링 경기가 케이블 방송을 통해 국내에 정식방영이 되고, 2003년 역사적인 첫 WWE 월드투어 한국경기가 개최되는데 큰 영향력을 주었다.
 
 2001년 4월에 명칭을 AFKN에서 AFN Korea로 바꾸었다.
 

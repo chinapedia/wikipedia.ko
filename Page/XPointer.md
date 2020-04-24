@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [XPointer](https://ko.wikipedia.org/wiki/XPointer).
 
 
-**XPointer**(XML Pointer Language) 는 웹 상에 존재하는 [XML](../Page/XML.md "wikilink") 문서의 일부분에 주소를 부여할 수 있는 방법을 제공하는 [W3C](../Page/W3C.md "wikilink") 표준 언어이다.
+**XPointer**(XML Pointer Language)는 웹 상에 존재하는 [XML](../Page/XML.md "wikilink") 문서의 일부분에 주소를 부여할 수 있는 방법을 제공하는 [W3C](../Page/W3C.md "wikilink") 표준 언어이다.
 
 ## XPointer의 사용 의의
 

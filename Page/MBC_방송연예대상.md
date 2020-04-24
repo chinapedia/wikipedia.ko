@@ -672,7 +672,7 @@
 <td><p><a href="../Page/박명수.md" title="wikilink">박명수</a><br />
 <a href="../Page/조혜련.md" title="wikilink">조혜련</a></p></td>
 <td><p>-</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/정성호" title="wikilink">정성호</a><br />
+<td><p><a href="../Page/정성호_(희극인).md" title="wikilink">정성호</a><br />
 <a href="../Page/정선희.md" title="wikilink">정선희</a></p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
@@ -1147,7 +1147,7 @@
 <td><p>7회</p></td>
 <td><p><a href="../Page/2007년.md" title="wikilink">2007년</a></p></td>
 <td></td>
-<td><p>정복기, <a href="../Page/김병욱_(연출가).md" title="wikilink">김병욱</a>, <a href="https://ko.wikipedia.org/wiki/신지_(가수)" title="wikilink">신지</a></p></td>
+<td><p>정복기, <a href="../Page/김병욱_(연출가).md" title="wikilink">김병욱</a>, <a href="../Page/신지_(가수).md" title="wikilink">신지</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -2228,7 +2228,7 @@ MC<br />
 <td><p><a href="../Page/양철수.md" title="wikilink">양철수</a>, <a href="../Page/오상진.md" title="wikilink">오상진</a><br />
 <a href="../Page/김새롬.md" title="wikilink">김새롬</a></p></td>
 <td><p>-</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/김철민" title="wikilink">김철민</a>, <a href="https://ko.wikipedia.org/wiki/김주철_(희극인)" title="wikilink">김주철</a><br />
+<td><p><a href="../Page/김철민_(1984년).md" title="wikilink">김철민</a>, <a href="https://ko.wikipedia.org/wiki/김주철_(희극인)" title="wikilink">김주철</a><br />
 <a href="../Page/김미려.md" title="wikilink">김미려</a>, <a href="https://ko.wikipedia.org/wiki/김주연" title="wikilink">김주연</a></p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
@@ -2708,7 +2708,7 @@ MC<br />
 <td><p><a href="../Page/이철용_(성우).md" title="wikilink">이철용</a><br />
 <small>(<a href="../Page/출발!_비디오_여행.md" title="wikilink">출발! 비디오 여행</a>)</small><br />
 <a href="../Page/이진_(아나운서).md" title="wikilink">이진</a><br />
-<small>(<a href="https://ko.wikipedia.org/wiki/생방송_오늘저녁" title="wikilink">생방송 오늘저녁</a>)</small></p></td>
+<small>(<a href="../Page/생방송_오늘저녁.md" title="wikilink">생방송 오늘저녁</a>)</small></p></td>
 <td><p>이소영<br />
 <small>(<a href="https://ko.wikipedia.org/wiki/MBC_스페셜" title="wikilink">MBC 스페셜</a>)</p></td>
 </tr>
@@ -2824,7 +2824,7 @@ MC<br />
   - [2011년](../Page/2011년.md "wikilink")에는 시상식 개편으로 인하여 **연예대상** 대신 **올해의 예능 프로그램상**이라는 이름으로 시상되었다.
   - [2013년](../Page/2013년.md "wikilink")에는 프로그램이 대상을 수상하였다.
   - [2017년](../Page/2017년.md "wikilink")에는 방송 3사 최초로 타방송사 출신의 아나운서가 대상을 수상하였다.
-  - [2018년](../Page/2018년.md "wikilink")에는 [2001년](../Page/2001년.md "wikilink") 시상식 이후 17년만에 여자 대상 수상자를 배출하였으며, [2019년](../Page/2019년.md "wikilink")에는 방송 3사 연예대상 최초로 2년 연속 여자 대상 수상자를 배출하였다.
+  - [2018년](../Page/2018년.md "wikilink")에는 [2001년](../Page/2001년.md "wikilink") 시상식 이후 17년만에 여성 예능인이 대상을 수상하였으며, [2019년](../Page/2019년.md "wikilink")에는 방송 3사 연예대상 최초로 2년 연속 여성 예능인이 대상을 수상하였다.
 
 ## 시청률
 

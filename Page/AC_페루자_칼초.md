@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [AC 페루자 칼초](https://ko.wikipedia.org/wiki/AC_페루자_칼초).
 
 
-**AC 페루자 칼초**(Associazione Calcistica Perugia Calcio) 는 [이탈리아](../Page/이탈리아.md "wikilink")의 축구 클럽으로, [움브리아주](../Page/움브리아주.md "wikilink")의 [페루자](../Page/페루자.md "wikilink")를 연고로 한다. 팀의 유니폼은 빨간색과 하얀색으로 구성되어 있다.
+**AC 페루자 칼초**(Associazione Calcistica Perugia Calcio)는 [이탈리아](../Page/이탈리아.md "wikilink")의 축구 클럽으로, [움브리아주](../Page/움브리아주.md "wikilink")의 [페루자](../Page/페루자.md "wikilink")를 연고로 한다. 팀의 유니폼은 빨간색과 하얀색으로 구성되어 있다.
 
 페루자는 2003년에 열린 [인터토토컵](https://ko.wikipedia.org/wiki/인터토토컵 "wikilink")에서 우승한 경력을 가지고 있으며 이 팀 출신의 유명 선수로 [일본](../Page/일본.md "wikilink")의 [나카타 히데토시와](../Page/나카타_히데토시.md "wikilink") [대한민국](../Page/대한민국.md "wikilink")의 [안정환](../Page/안정환.md "wikilink"), [이란](../Page/이란.md "wikilink")의 [라만 레자에이](../Page/라만_레자에이.md "wikilink"), 그리고 이 팀에 잠시 동안 몸 담았던 [리비아](../Page/리비아.md "wikilink")의 알사디 카다피는 리비아의 정부 수반 [무아마르 알카다피의](https://ko.wikipedia.org/wiki/무아마르_알카다피 "wikilink") 아들로 잘 알려져 있다.
 
@@ -55,4 +55,4 @@
 
   -
 
-[분류:이탈리아의 축구단](https://ko.wikipedia.org/wiki/분류:이탈리아의_축구단 "wikilink") [AC_페루자_칼초](https://ko.wikipedia.org/wiki/분류:AC_페루자_칼초 "wikilink") [분류:세리에 A 구단](https://ko.wikipedia.org/wiki/분류:세리에_A_구단 "wikilink") [분류:1905년 설립된 축구단](https://ko.wikipedia.org/wiki/분류:1905년_설립된_축구단 "wikilink") [분류:세리에 B 구단](https://ko.wikipedia.org/wiki/분류:세리에_B_구단 "wikilink") [분류:세리에 C 구단](https://ko.wikipedia.org/wiki/분류:세리에_C_구단 "wikilink")
+[분류:이탈리아의 축구단](https://ko.wikipedia.org/wiki/분류:이탈리아의_축구단 "wikilink") [AC_페루자_칼초](https://ko.wikipedia.org/wiki/분류:AC_페루자_칼초 "wikilink") [분류:세리에 A 구단](https://ko.wikipedia.org/wiki/분류:세리에_A_구단 "wikilink") [분류:1905년 설립된 축구단](https://ko.wikipedia.org/wiki/분류:1905년_설립된_축구단 "wikilink") [분류:세리에 B 구단](https://ko.wikipedia.org/wiki/분류:세리에_B_구단 "wikilink") [분류:세리에 C 구단](https://ko.wikipedia.org/wiki/분류:세리에_C_구단 "wikilink") [분류:세리에 D 구단](https://ko.wikipedia.org/wiki/분류:세리에_D_구단 "wikilink")

@@ -54,7 +54,7 @@
 
   -
 
-  - [chown manual page](http://nersp.nerdc.ufl.edu/~dicke3/nerspcs/chown.html)
+  - [chown manual page](https://web.archive.org/web/20170623021906/http://nersp.nerdc.ufl.edu/~dicke3/nerspcs/chown.html)
 
   - [The chown Command](http://www.linfo.org/chown.html) by The Linux Information Project (LINFO)
 

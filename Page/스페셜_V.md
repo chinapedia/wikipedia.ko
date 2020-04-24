@@ -20,11 +20,17 @@
   - [최희](../Page/최희.md "wikilink") ([KBS N](https://ko.wikipedia.org/wiki/KBS_N "wikilink") 아나운서)
   - [장새별](https://ko.wikipedia.org/wiki/장새별 "wikilink") ([KBS N](https://ko.wikipedia.org/wiki/KBS_N "wikilink") 아나운서)
 
+### 해설위원
+
+  - [김상우](../Page/김상우_\(배구인\).md "wikilink") (해설위원)
+  - [이숙자](../Page/이숙자.md "wikilink") (해설위원)
+  - [한유미](../Page/한유미.md "wikilink") (해설위원)
+
 ## 방송 목록
 
 | 시즌      | 출연                                                                                                                                                                                                                               |
 | ------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 진행자     | 게스트                                                                                                                                                                                                                              |
+| 진행자     | 게스트, 해설위원                                                                                                                                                                                                                        |
 | 2006-07 | [권성욱](../Page/권성욱.md "wikilink"), [한지연](https://ko.wikipedia.org/wiki/한지연 "wikilink")                                                                                                                                            |
 | 2014-15 | [신승준](https://ko.wikipedia.org/wiki/신승준 "wikilink"), [정인영](../Page/정인영_\(방송인\).md "wikilink")                                                                                                                                    |
 | 2016-17 | [신승준](https://ko.wikipedia.org/wiki/신승준 "wikilink")\[1\], [이호근](https://ko.wikipedia.org/wiki/이호근_\(아나운서\) "wikilink")\[2\], [조은지](https://ko.wikipedia.org/wiki/조은지_\(아나운서\) "wikilink"), [홍진호](../Page/홍진호.md "wikilink")\[3\] |
@@ -130,8 +136,8 @@
 </tr>
 <tr class="odd">
 <td><p>2019-20</p></td>
-<td><p>2019년 10월 28일–</p></td>
-<td><p>방송 중</p></td>
+<td><p>2019년 10월 28일–2020년 4월 3일[4]</p></td>
+<td><p>23</p></td>
 </tr>
 </tbody>
 </table>
@@ -152,3 +158,4 @@
 1.  20회
 2.  11회–19회, 21회–24회
 3.  1회–10회
+4.  2019-20시즌 매주 월요일 밤 9시 방송이었지만 코로나19로 V리그가 조기 종영되면서 마지막 4회 분량을 한 주에 두 번씩 방영했다. 그래서 월요일이 아닌 금요일 종영

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [신비한TV 서프라이즈](https://ko.wikipedia.org/wiki/신비한TV_서프라이즈).
 
 
-《**신비한TV 서프라이즈**》는 [MBC TV에서](../Page/MBC_TV.md "wikilink") [2002년](../Page/2002년.md "wikilink") [4월 7일부터](../Page/4월_7일.md "wikilink") 방송되는 [교양](../Page/교양.md "wikilink"), [예능](https://ko.wikipedia.org/wiki/예능 "wikilink") 프로그램이며, 문화방송 예능프로그램중 최장수 프로그램이다.
+《**신비한TV 서프라이즈**》는 [MBC TV에서](../Page/MBC_TV.md "wikilink") 방송되는 텔레비전 프로그램이며 [2002년](../Page/2002년.md "wikilink") [4월 7일부터](../Page/4월_7일.md "wikilink") 방영되고 있다.
 
 ## 신비한TV 서프라이즈 역사
 
@@ -13,17 +13,17 @@
 
 ## 방송 시간
 
-  - 방송시간은 지금까지 미세한 시간조정이외는 단 한번도 변경한적이 없으며, 매주 일요일마다 나오고 있다.
+  - 방송 시간은 지금까지 미세한 시간조정이외는 단 한번도 변경한적이 없으며, 매주 일요일마다 나오고 있다.
 
 | 방송 기간                                                                                                                                                          | 방송 시간                      | 방송 분량 |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------- | ----- |
-| [2002년](../Page/2002년.md "wikilink") [4월 7일](../Page/4월_7일.md "wikilink") \~ [2009년](../Page/2009년.md "wikilink") [4월 26일](../Page/4월_26일.md "wikilink")       | 매주 일요일 오전 10:50 \~ 낮 12:00 | 70분   |
-| [2009년](../Page/2009년.md "wikilink") [5월 3일](../Page/5월_3일.md "wikilink") \~ [2012년](../Page/2012년.md "wikilink") [1월 29일](../Page/1월_29일.md "wikilink")       | 매주 일요일 오전 10:45 \~ 낮 12:00 | 75분   |
+| [2002년](../Page/2002년.md "wikilink") [4월 7일](../Page/4월_7일.md "wikilink") \~ [2008년](../Page/2008년.md "wikilink") [12월 29일](../Page/12월_29일.md "wikilink")     | 매주 일요일 오전 10:50 \~ 낮 12:00 | 70분   |
+| [2009년](../Page/2009년.md "wikilink") [1월 5일](../Page/1월_5일.md "wikilink") \~ [2011년](../Page/2011년.md "wikilink") [12월 25일](../Page/12월_25일.md "wikilink")     | 매주 일요일 오전 10:45 \~ 낮 12:00 | 75분   |
 | [2012년](../Page/2012년.md "wikilink") [7월 29일](../Page/7월_29일.md "wikilink") \~ [2012년](../Page/2012년.md "wikilink") [8월 5일](../Page/8월_5일.md "wikilink")       |                            |       |
 | [2014년](../Page/2014년.md "wikilink") [8월 24일](../Page/8월_24일.md "wikilink") \~ [2015년](../Page/2015년.md "wikilink") [10월 11일](../Page/10월_11일.md "wikilink")   |                            |       |
 | [2015년](../Page/2015년.md "wikilink") [10월 25일](../Page/10월_25일.md "wikilink") \~ [2015년](../Page/2015년.md "wikilink") [11월 22일](../Page/11월_22일.md "wikilink") |                            |       |
 | [2015년](../Page/2015년.md "wikilink") [12월 6일](../Page/12월_6일.md "wikilink") \~ [2016년](../Page/2016년.md "wikilink") [2월 21일](../Page/2월_21일.md "wikilink")     |                            |       |
-| [2012년](../Page/2012년.md "wikilink") [2월 5일](../Page/2월_5일.md "wikilink") \~ [2012년](../Page/2012년.md "wikilink") [7월 22일](../Page/7월_22일.md "wikilink")       | 매주 일요일 오전 10:45 \~ 11:55   | 70분   |
+| [2012년](../Page/2012년.md "wikilink") [1월 1일](../Page/1월_1일.md "wikilink") \~ [2012년](../Page/2012년.md "wikilink") [6월 25일](../Page/6월_25일.md "wikilink")       | 매주 일요일 오전 10:45 \~ 11:55   | 70분   |
 | [2012년](../Page/2012년.md "wikilink") [8월 12일](../Page/8월_12일.md "wikilink")                                                                                    | 매주 일요일 오전 10:40 \~ 11:55   | 75분   |
 | [2012년](../Page/2012년.md "wikilink") [8월 19일](../Page/8월_19일.md "wikilink") \~ [2014년](../Page/2014년.md "wikilink") [8월 17일](../Page/8월_17일.md "wikilink")     | 매주 일요일 오전 10:35 \~ 11:50   |       |
 | [2015년](../Page/2015년.md "wikilink") [11월 29일](../Page/11월_29일.md "wikilink")                                                                                  |                            |       |
@@ -220,7 +220,7 @@
 
 [분류:문화방송의 시사교양 프로그램](https://ko.wikipedia.org/wiki/분류:문화방송의_시사교양_프로그램 "wikilink") [분류:문화방송의 예능 프로그램](https://ko.wikipedia.org/wiki/분류:문화방송의_예능_프로그램 "wikilink") [분류:2002년에 시작한 대한민국 TV 프로그램](https://ko.wikipedia.org/wiki/분류:2002년에_시작한_대한민국_TV_프로그램 "wikilink") [분류:2000년대 대한민국의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:2000년대_대한민국의_텔레비전_프로그램 "wikilink") [분류:2010년대 대한민국의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:2010년대_대한민국의_텔레비전_프로그램 "wikilink") [분류:2020년대 대한민국의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:2020년대_대한민국의_텔레비전_프로그램 "wikilink")
 
-1.  [2019년 세계 수영 선수권 대회](../Page/2019년_세계_수영_선수권_대회.md "wikilink") 으로 인한 지연편성
+1.  [2019년 세계 수영 선수권 대회에서](../Page/2019년_세계_수영_선수권_대회.md "wikilink") 인한 지연편성
 2.  ['서프라이즈' 2014년 소행성충돌 일어날까?](http://sstv.freechal.com/index.html?page=news/flypage&od=1&cid=1&nid=55123)  《SSTV》 [2009년](../Page/2009년.md "wikilink") [6월 28일](../Page/6월_28일.md "wikilink") 작성.
 3.  [서프라이즈 지구멸망설 '2012년 그날이 오나'](http://www.todaykorea.co.kr/news/articleView.html?idxno=80583) 《투데이 코리아》 [2009년](../Page/2009년.md "wikilink") [9월 7일](../Page/9월_7일.md "wikilink") 작성.
 4.  [신비한 TV 서프라이즈, \`진실 혹은 거짓\` 폐지…새 코너 선봬](http://www.hankyung.com/news/app/newsview.php?aid=2010072948037&sid=83&nid=105&ltype=1&pkind=all) 《[한국경제](https://ko.wikipedia.org/wiki/한국경제 "wikilink")》 [2010년](../Page/2010년.md "wikilink") [7월 29일](../Page/7월_29일.md "wikilink") 작성.

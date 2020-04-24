@@ -20,7 +20,7 @@
       - [W 보존을](https://ko.wikipedia.org/wiki/W_보존 "wikilink") 나타낸다.
   - [유전학](../Page/유전학.md "wikilink")에서 W 염색체는 [성염색체](https://ko.wikipedia.org/wiki/성염색체 "wikilink")의 일종이다. ZZ는 남성, WZ는 여성에 해당한다.
   - [화학](../Page/화학.md "wikilink")에서 [텅스텐](../Page/텅스텐.md "wikilink")의 [원자 기호](https://ko.wikipedia.org/wiki/원자_기호 "wikilink"). 독일어 Wolfram에서 왔다.
-  - [w는](https://ko.wikipedia.org/wiki/W_\(유닉스\) "wikilink") [유닉스](../Page/유닉스.md "wikilink")에서 시스템의 사용자와 작업 목록을 보여주는 명령어이다.
+  - [w는](../Page/W_\(유닉스\).md "wikilink") [유닉스](../Page/유닉스.md "wikilink")에서 시스템의 사용자와 작업 목록을 보여주는 명령어이다.
 
 ### 문화
 

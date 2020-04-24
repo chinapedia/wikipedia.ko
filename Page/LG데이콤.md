@@ -5,11 +5,11 @@
 
 ## 역사
 
-1981년 [체신부가](../Page/대한민국_정보통신부.md "wikilink") 수립한 ‘데이터통신 육성추진계획’에 의해 [1982년](../Page/1982년.md "wikilink") [3월 29일](../Page/3월_29일.md "wikilink") **한국데이터통신**이 설립되었다. 그해 4월 대한민국 최초로 부가가치 통신사업자가 되었다.\[1\]
+1981년 [체신부가](../Page/대한민국_정보통신부.md "wikilink") 수립한 ‘데이터통신 육성추진계획’에 의해 [1982년](../Page/1982년.md "wikilink") [3월 29일](../Page/3월_29일.md "wikilink") **한국데이터통신**이 설립되었다. 그해 4월 대한민국 최초로 부가가치 통신사업자가 되었다.\[1\] [삼성그룹](../Page/삼성그룹.md "wikilink")과 [LG그룹](../Page/LG그룹.md "wikilink")이 합작하여 두회사의 지분을 균등하게 유지하였기에 [대기업집단과](https://ko.wikipedia.org/wiki/복합기업 "wikilink") 무관하게 경영권을 유지하던 통신 전문업체였다.
 
 1990년 9월 PC통신 [천리안](../Page/천리안_\(포털_사이트\).md "wikilink")(舊 PC-Serve) 서비스를 개시하였으며, 1991년 11월 법인명을 (주)데이콤으로 변경, 같은 해 12월에는 미국, 홍콩, 일본으로의 국제 전화 사업을 시작하였고, 1996년 1월 시외 전화 사업권을 획득하였다.
 
-2000년 1월 [LG그룹](../Page/LG그룹.md "wikilink")으로 편입되었다. 2002년 12월 16일 [LG파워콤](../Page/LG파워콤.md "wikilink") 지분 45.5%를 취득하여 자회사로 편입하였고, 2006년 9월 22일 법인명을 (주)LG데이콤으로 변경하였다. 기업용 인터넷 서비스 [보라넷](../Page/보라넷.md "wikilink"), 인터넷 스토리지 서비스 [웹하드](https://ko.wikipedia.org/wiki/웹하드 "wikilink"), 인터넷 데이터센터 [KIDC](https://ko.wikipedia.org/wiki/KIDC "wikilink")를 운영하였으며, 가정용 결합상품의 일환으로 LG파워콤과 초고속인터넷서비스 XPEED, [인터넷 전화](../Page/음성_인터넷_프로토콜.md "wikilink") myLG070, [IPTV](../Page/IPTV.md "wikilink") myLGtv를 운영하였다. 2010년 1월 1일에 [LG파워콤](../Page/LG파워콤.md "wikilink")과 함께 [LG텔레콤](../Page/LG텔레콤.md "wikilink")으로 합병되면서, 기존의 서비스는 [새로운 통합법인으로](../Page/LG유플러스.md "wikilink") 흡수되었다. 그 이후 2010년 7월 1일 사명을 LG유플러스로 변경하였다.
+2000년 1월에는 [LG그룹](../Page/LG그룹.md "wikilink")이 소유 지분을 늘리며 회사의 경영권을 소유하게 된다. 2002년 12월 16일 [LG파워콤](../Page/LG파워콤.md "wikilink") 지분 45.5%를 취득하여 자회사로 편입하였고, 2006년 9월 22일 법인명을 (주)LG데이콤으로 변경하여 LG그룹의 계열사가 된다. 기업용 인터넷 서비스 [보라넷](../Page/보라넷.md "wikilink"), 인터넷 스토리지 서비스 [웹하드](https://ko.wikipedia.org/wiki/웹하드 "wikilink"), 인터넷 데이터센터 [KIDC](https://ko.wikipedia.org/wiki/KIDC "wikilink")를 운영하였으며, 가정용 결합상품의 일환으로 LG파워콤과 초고속인터넷서비스 XPEED, [인터넷 전화](../Page/음성_인터넷_프로토콜.md "wikilink") myLG070, [IPTV](../Page/IPTV.md "wikilink") myLGtv를 운영하였다. 2010년 1월 1일에 [LG파워콤](../Page/LG파워콤.md "wikilink")과 함께 [LG텔레콤](../Page/LG텔레콤.md "wikilink")으로 합병되면서, 기존의 서비스는 [새로운 통합법인으로](../Page/LG유플러스.md "wikilink") 흡수되었다. 그 이후 2010년 7월 1일 사명을 LG유플러스로 변경하였다.
 
 ## MyLG070
 

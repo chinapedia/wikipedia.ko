@@ -12,7 +12,7 @@
 
 ## 외부 링크
 
-  - [GTV 홈페이지](http://www.berrymedia.co.kr/GTV)
+  - [GTV 홈페이지](https://web.archive.org/web/20171109022854/http://www.berrymedia.co.kr/GTV/)
 
 [분류:대한민국의 텔레비전 케이블 방송국](https://ko.wikipedia.org/wiki/분류:대한민국의_텔레비전_케이블_방송국 "wikilink") [분류:1995년 설립된 텔레비전 방송국과 채널](https://ko.wikipedia.org/wiki/분류:1995년_설립된_텔레비전_방송국과_채널 "wikilink") [분류:생활 텔레비전 네트워크](https://ko.wikipedia.org/wiki/분류:생활_텔레비전_네트워크 "wikilink")
 

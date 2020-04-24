@@ -10,7 +10,7 @@
 일어&한국어 더빙판
 
   - 손오공 : [노자와 마사코](../Page/노자와_마사코.md "wikilink"), [박영남](../Page/박영남.md "wikilink")/[김환진](../Page/김환진.md "wikilink")
-  - 트랭크스 : [쿠사오 타케시](https://ko.wikipedia.org/wiki/쿠사오_타케시 "wikilink"), [최원형](../Page/최원형.md "wikilink")
+  - 트랭크스 : [쿠사오 타케시](../Page/쿠사오_타케시.md "wikilink"), [최원형](../Page/최원형.md "wikilink")
   - 팡 : [미나구치 유코](../Page/미나구치_유코.md "wikilink"), [김현지](https://ko.wikipedia.org/wiki/김현지 "wikilink")
   - 치치 : [쇼 마유미](https://ko.wikipedia.org/wiki/쇼_마유미 "wikilink"), [윤여진](../Page/윤여진.md "wikilink")
   - 부르마 : [츠루 히로미](../Page/츠루_히로미.md "wikilink"), [지미애](../Page/지미애.md "wikilink")

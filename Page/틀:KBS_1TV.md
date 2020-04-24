@@ -11,7 +11,7 @@
   - 《[노래가 좋아](../Page/노래가_좋아.md "wikilink")》
   - 《[전국노래자랑](../Page/전국노래자랑.md "wikilink")》
   - 《[열린음악회](../Page/열린음악회.md "wikilink")》
-  - [일일연속극](../Page/한국방송공사_1TV_일일연속극.md "wikilink") (《[꽃길만 걸어요](https://ko.wikipedia.org/wiki/꽃길만_걸어요 "wikilink")》)
+  - [일일연속극](../Page/한국방송공사_1TV_일일연속극.md "wikilink") 《[기막힌 유산](https://ko.wikipedia.org/wiki/기막힌_유산 "wikilink")》
 
 |묶음2 = 시사교양 |내용2=
 
@@ -87,7 +87,8 @@
   - 《[KBS 뉴스 (2430)](../Page/KBS_뉴스_\(2430\).md "wikilink")》&
   - 《[KBS 뉴스 (주말)](../Page/KBS_뉴스_\(주말\).md "wikilink")》&
   - 《[KBS 뉴스특보](../Page/KBS_뉴스특보.md "wikilink")》¹ &
-  - 《[KBS K 개표방송](https://ko.wikipedia.org/wiki/KBS_K_개표방송 "wikilink")》³ &
+  - 《[KBS 선거개표방송](https://ko.wikipedia.org/wiki/KBS_선거개표방송 "wikilink")》³ &
+  - 《[코로나19 통합뉴스룸](https://ko.wikipedia.org/wiki/코로나19_통합뉴스룸 "wikilink")》¹ &
 
 |묶음4 = 스포츠 |내용4 =
 
@@ -97,8 +98,6 @@
 
   - 《[롱롱죽겠지?](https://ko.wikipedia.org/wiki/롱롱죽겠지? "wikilink")》
   - 《[버추얼 가디언즈](https://ko.wikipedia.org/wiki/버추얼_가디언즈 "wikilink")》
-  - 《[비밀의 바람숲](https://ko.wikipedia.org/wiki/비밀의_바람숲 "wikilink")》
-  - 《[테테루](https://ko.wikipedia.org/wiki/테테루 "wikilink")》
   - 《[KBS 창작동요대회](../Page/KBS_창작동요대회.md "wikilink")》²
   - 《[국악동요제](../Page/국악동요제.md "wikilink")》²
 

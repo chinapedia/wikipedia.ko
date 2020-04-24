@@ -4198,7 +4198,7 @@
 <tr class="odd">
 <td><p>638</p></td>
 <td><p><a href="../Page/8월_11일.md" title="wikilink">8월 11일</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/아베" title="wikilink">아베</a>의 전쟁, 시민의 전쟁</p></td>
+<td><p><a href="../Page/아베.md" title="wikilink">아베</a>의 전쟁, 시민의 전쟁</p></td>
 <td></td>
 </tr>
 <tr class="even">

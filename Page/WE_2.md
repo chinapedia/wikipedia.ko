@@ -109,7 +109,7 @@
       - 엔지니어 : 박찬민
       - 녹음실 : M\&F Studio
 11. 너에게만
-      - [미소의 세상](https://ko.wikipedia.org/wiki/미소의_세상 "wikilink") 여는 노래
+      - [미소의 세상](../Page/미소의_세상.md "wikilink") 여는 노래
       - 작곡, 편곡, 프로그래밍 : [이창희](https://ko.wikipedia.org/wiki/이창희 "wikilink")
       - 작사 : [신동식](../Page/신동식.md "wikilink")
       - 영어 코러스 작사 : 손유진

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [SUPERMARKET FANTASY](https://ko.wikipedia.org/wiki/SUPERMARKET_FANTASY).
 
 
-《**SUPERMARKET FANTASY**》(슈퍼마켓 판타지)는, [Mr.Children](../Page/Mr.Children.md "wikilink")의 열세 번째 정규 [음반](../Page/음반.md "wikilink")이다. [2008년](../Page/2008년.md "wikilink") [12월 10일](../Page/12월_10일.md "wikilink") [토이즈팩토리](https://ko.wikipedia.org/wiki/토이즈팩토리 "wikilink")에서 발매했다.
+《**SUPERMARKET FANTASY**》(슈퍼마켓 판타지)는 [Mr.Children](../Page/Mr.Children.md "wikilink")의 열세 번째 정규 [음반](../Page/음반.md "wikilink")이다. [2008년](../Page/2008년.md "wikilink") [12월 10일](../Page/12월_10일.md "wikilink") [토이즈팩토리](https://ko.wikipedia.org/wiki/토이즈팩토리 "wikilink")에서 발매했다.
 
 ## 개요
 

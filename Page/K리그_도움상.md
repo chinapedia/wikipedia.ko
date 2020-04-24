@@ -633,7 +633,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/리그컵_1998.md" title="wikilink">1998</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/장철민" title="wikilink">장철민</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/장철민_(축구_선수)" title="wikilink">장철민</a></p></td>
 <td><p><a href="../Page/울산_현대_축구단.md" title="wikilink">울산 현대 호랑이</a></p></td>
 <td><div style="text-align: center;">
 <p>3</p></td>

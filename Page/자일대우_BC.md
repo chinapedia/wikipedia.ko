@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [자일대우 BC](https://ko.wikipedia.org/wiki/자일대우_BC).
 
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:Daejeon_Bus_Route_316.jpg "wikilink") **자일대우 BC**는 [자일대우상용차](../Page/자일대우상용차.md "wikilink")의 중저상 (one-step) 대형 [도시형버스](../Page/입석형_버스.md "wikilink") 차종이며 현재 출시된 종류는 **New BC211 뉴로얄하이시티** 모델이 유일하다. [2006년](../Page/2006년.md "wikilink") [6월](../Page/6월.md "wikilink")에 출시되었다. New BC211은 현재까지 생산되었다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:Daejeon_Bus_Route_316.jpg "wikilink") **자일대우 BC**는 [자일대우상용차](../Page/자일대우상용차.md "wikilink")의 중저상 (one-step) 대형 [도시형버스](../Page/입석형_버스.md "wikilink") 차종이며 현재 출시된 종류는 **New BC211 뉴로얄하이시티** 모델이 유일하다. [2006년](../Page/2006년.md "wikilink") [6월](../Page/6월.md "wikilink")에 출시되었다. BC211은 현재까지 생산되었다.
 
 ## 특징
 

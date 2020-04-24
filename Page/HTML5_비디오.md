@@ -17,9 +17,9 @@
 
 ``` html5
 <video poster="movie.jpg" controls>
-    <source src="movie.webm" type='video/webm; codecs="vp8.0, vorbis"' />
-    <source src="movie.ogv" type='video/ogg; codecs="theora, vorbis"' />
-    <source src="movie.mp4" type='video/mp4; codecs="avc1.4D401E, mp4a.40.2"' />
+    <syntaxhighlight src="movie.webm" type='video/webm; codecs="vp8.0, vorbis"' />
+    <syntaxhighlight src="movie.ogv" type='video/ogg; codecs="theora, vorbis"' />
+    <syntaxhighlight src="movie.mp4" type='video/mp4; codecs="avc1.4D401E, mp4a.40.2"' />
     <p>브라우저가 비디오 태그를 지원하지 않으면 이 문자열이 나타납니다.</p>
 </video>
 ```

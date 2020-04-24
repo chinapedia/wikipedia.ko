@@ -26,7 +26,7 @@
 
 또한, 이제까지 나온 넥스트의 앨범 부클릿 중 낙서가 많고, 성의 없어보이는 것은 《PART II》에서 조금 더 정교한 그림으로 바뀌고, 《PART III》가 되면 완성된 작품이 된다고 한다. 세 파트가 합쳐지면서 스토리를 만들어 내기 때문이다. CD 케이스의 옆면도 세 작품을 다 이어 붙여야 완성된 디지털 숫자 666이 보이도록 만들었다.\[3\]
 
-하지만 《666 Trilogy》의 《PART II》와 《PART III》 제작은 취소 되었다. 하여 당초 계획과 달리 《PART I》 발매 6년 후 신해철 솔로 앨범 《[REBOOT MYSELF》이](https://ko.wikipedia.org/wiki/Reboot_Myself "wikilink") 발매 하게 되었다. 《[REBOOT MYSELF》](https://ko.wikipedia.org/wiki/Reboot_Myself "wikilink") 앨범의 쇼케이스 공연에서 신해철은 《666 PART II》의 전 곡이 녹음 되었으나 발매 하지 않았다고 말했고, 그 이유는 정확히 알리지 않았다. 하지만 《[REBOOT MYSELF》의](https://ko.wikipedia.org/wiki/Reboot_Myself "wikilink") 수록곡 중 \<catch me if you can (바퀴벌레)\>등의 곡은 《666 PART II》에 수록하기 위해 만들었던 곡이라고 밝히기도 했다. 그 후 [N.EX.T](../Page/N.EX.T.md "wikilink")도 [N.EX.T United로](https://ko.wikipedia.org/wiki/N.EX.T_United "wikilink") 재편되어 별도의 새로운 앨범 발매를 준비 하고 있음을 알리지만\[4\]\[5\], 리더 신해철의 사망으로 《[REBOOT MYSELF》가](https://ko.wikipedia.org/wiki/Reboot_Myself "wikilink") 그의 생전 마지막 발표 앨범이 된다.
+하지만 《666 Trilogy》의 《PART II》와 《PART III》 제작은 취소되었다. 하여 당초 계획과 달리 《PART I》 발매 6년 후 신해철 솔로 앨범 《[REBOOT MYSELF》이](https://ko.wikipedia.org/wiki/Reboot_Myself "wikilink") 발매 하게 되었다. 《[REBOOT MYSELF》](https://ko.wikipedia.org/wiki/Reboot_Myself "wikilink") 앨범의 쇼케이스 공연에서 신해철은 《666 PART II》의 전 곡이 녹음 되었으나 발매 하지 않았다고 말했고, 그 이유는 정확히 알리지 않았다. 하지만 《[REBOOT MYSELF》의](https://ko.wikipedia.org/wiki/Reboot_Myself "wikilink") 수록곡 중 \<catch me if you can (바퀴벌레)\>등의 곡은 《666 PART II》에 수록하기 위해 만들었던 곡이라고 밝히기도 했다. 그 후 [N.EX.T](../Page/N.EX.T.md "wikilink")도 [N.EX.T United로](https://ko.wikipedia.org/wiki/N.EX.T_United "wikilink") 재편되어 별도의 새로운 앨범 발매를 준비 하고 있음을 알리지만\[4\]\[5\], 리더 신해철의 사망으로 《[REBOOT MYSELF》가](https://ko.wikipedia.org/wiki/Reboot_Myself "wikilink") 그의 생전 마지막 발표 앨범이 된다.
 
 ## 곡 목록
 

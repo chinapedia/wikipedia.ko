@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [S.I.D-Sound on PopStage: the Collection](https://ko.wikipedia.org/wiki/S.I.D-Sound_on_PopStage:_the_Collection).
 
 
-**S.I.D-Sound on PopStage : the Collection**(일명 팝스테이지)는, 온라인 게임 [팝스테이지](../Page/팝스테이지.md "wikilink")에 수록되었던, [시드 사운드의](https://ko.wikipedia.org/wiki/시드_사운드 "wikilink") 음악들로 이루어져 있는, 비정규 음반이다.
+**S.I.D-Sound on PopStage : the Collection**(일명 팝스테이지)는 온라인 게임 [팝스테이지](../Page/팝스테이지.md "wikilink")에 수록되었던, [시드 사운드의](https://ko.wikipedia.org/wiki/시드_사운드 "wikilink") 음악들로 이루어져 있는, 비정규 음반이다.
 
 ## 수록곡
 

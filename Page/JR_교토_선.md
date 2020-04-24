@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [JR 교토 선](https://ko.wikipedia.org/wiki/JR_교토_선).
 
 
-**JR 교토 선**()은, [서일본 여객철도](https://ko.wikipedia.org/wiki/서일본_여객철도 "wikilink") (JR 서일본) [도카이도 본선의](../Page/도카이도_본선.md "wikilink") [교토 역부터](../Page/교토_역.md "wikilink") [오사카 역](../Page/오사카_역.md "wikilink") 간을 부르는 운행 계통이다. [1988년](../Page/1988년.md "wikilink") [3월 13일부터](../Page/3월_13일.md "wikilink") 사용하였으며, [한큐 전철 교토 본선](https://ko.wikipedia.org/wiki/한큐_전철_교토_본선 "wikilink") 이나 [긴키 닛폰 철도 교토 선](https://ko.wikipedia.org/wiki/긴키_닛폰_철도_교토_선 "wikilink") 과 명칭 충돌을 막기 위하여 JR을 앞에 붙이고 있다.
+**JR 교토 선**()은 [서일본 여객철도](https://ko.wikipedia.org/wiki/서일본_여객철도 "wikilink") (JR 서일본) [도카이도 본선의](../Page/도카이도_본선.md "wikilink") [교토 역부터](../Page/교토_역.md "wikilink") [오사카 역](../Page/오사카_역.md "wikilink") 간을 부르는 운행 계통이다. [1988년](../Page/1988년.md "wikilink") [3월 13일부터](../Page/3월_13일.md "wikilink") 사용하였으며, [한큐 전철 교토 본선](https://ko.wikipedia.org/wiki/한큐_전철_교토_본선 "wikilink") 이나 [긴키 닛폰 철도 교토 선](https://ko.wikipedia.org/wiki/긴키_닛폰_철도_교토_선 "wikilink") 과 명칭 충돌을 막기 위하여 JR을 앞에 붙이고 있다.
 
 운행 계통의 색상은 청색(<span style="color:#0072bc;">■</span>) 이며, [JR 고베 선과](../Page/JR_고베_선.md "wikilink") 같이 서일본 여객철도의 CI 컬러를 색상으로 채용하고 있다.
 

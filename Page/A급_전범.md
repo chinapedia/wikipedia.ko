@@ -154,7 +154,7 @@
 
 처형된 전범 7명의 사체는 [요코하마의](https://ko.wikipedia.org/wiki/요코하마_시 "wikilink") 구보야마 화장터 (久保山火葬場) 에서 화장되었고, 유골은 미군에 의해 [도쿄만](https://ko.wikipedia.org/wiki/도쿄만 "wikilink")에 버려졌다. 하지만, [12월 25일에](../Page/12월_25일.md "wikilink") [고이소 구니아키의](../Page/고이소_구니아키.md "wikilink") 변호사였던 자가 [화장장](https://ko.wikipedia.org/wiki/화장_\(장례\) "wikilink") 노동자들을 시켜 은밀히 빼돌렸다가 가까이에 있는 고젠지 (興禅寺) 라는 절에 맡겼고, [1949년](../Page/1949년.md "wikilink") [5월](../Page/5월.md "wikilink") 이즈 산의 고아 관음에 은밀하게 매장되었다.
 
-그 후 [1960년](../Page/1960년.md "wikilink") [8월 16일에](../Page/8월_16일.md "wikilink") [아이치현](../Page/아이치현.md "wikilink") 하즈 군 (幡豆郡) 하즈 정 (幡豆町) 에 위치한 산가네 산 (三ヶ根山) 의 산꼭대기 부근에 옮겨졌다. 산가네 산에는 [순국7사묘](https://ko.wikipedia.org/wiki/순국7사묘 "wikilink")가 설치되었고, 무덤에는 뼈가 분골되어 안치되었다.
+그 후 [1960년](../Page/1960년.md "wikilink") [8월 16일에](../Page/8월_16일.md "wikilink") [아이치현](../Page/아이치현.md "wikilink") 하즈 군 (幡豆郡) 하즈 정 (幡豆町) 에 위치한 산가네 산 (三ヶ根山)의 산꼭대기 부근에 옮겨졌다. 산가네 산에는 [순국7사묘](https://ko.wikipedia.org/wiki/순국7사묘 "wikilink")가 설치되었고, 무덤에는 뼈가 분골되어 안치되었다.
 
 ## 쇼와 순난자
 

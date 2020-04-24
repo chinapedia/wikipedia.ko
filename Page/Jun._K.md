@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Jun. K](https://ko.wikipedia.org/wiki/Jun._K).
 
 
-**Jun. K**(, [1988년](../Page/1988년.md "wikilink") [1월 15일](../Page/1월_15일.md "wikilink") \~ )는 [대한민국](../Page/대한민국.md "wikilink")의 [보이 그룹](https://ko.wikipedia.org/wiki/보이_그룹 "wikilink") [2PM](https://ko.wikipedia.org/wiki/2PM "wikilink")의\[1\]\[2\], 메인보컬이다.
+**Jun. K**(, [1988년](../Page/1988년.md "wikilink") [1월 15일](../Page/1월_15일.md "wikilink") \~ )는 [대한민국](../Page/대한민국.md "wikilink")의 [보이 그룹](https://ko.wikipedia.org/wiki/보이_그룹 "wikilink") [2PM](https://ko.wikipedia.org/wiki/2PM "wikilink")의\[1\]\[2\] 메인보컬이다.
 
 ## 생애
 
@@ -12,6 +12,8 @@
 데뷔 전부터 작곡활동을 할 때마다 써왔던 예명 Jun. K를 내건 첫 솔로 활동은 2011년 10월 7일 디지털 싱글로만 발매된 'Alive'다. 직접 작사 작곡하고 랩과 보컬을 모두 소화한 이 곡은 일본 벨소리 챠트 '레코쵸크' 1위를 기록했다.\[8\]
 
 2013년 [경희대학교](https://ko.wikipedia.org/wiki/경희대학교 "wikilink")에 최종 합격해 3월부터 석사과정을 밟고 있다.\[9\] 2012년 10월 17일 집안 권유로 이름을 '김민준'으로 개명했다는 사실을 공표했다.\[10\] 활동명은 가수 · 작곡가 · 뮤지컬배우로서 모두 'Jun. K'로 통일해 쓴다.\[11\]\[12\]
+
+2015년 6월에 발매했던 정규5집 타이틀곡인 우리집이 2020년에 역주행 하면서 작사·작곡 했던게 다시 화제되고 있다.
 
 ## 학력
 
@@ -1992,6 +1994,11 @@ ENTERTAINMENT</p></td>
 <td><p>웹예능 《셀럽티비 (Celuv.TV)》: <a href="http://www.vlive.tv/video/51593?channelCode=EF7F">Jun. K</a></p></td>
 </tr>
 <tr class="even">
+<td><p><a href="../Page/2020년.md" title="wikilink">2020년</a></p></td>
+<td><p><a href="../Page/플레이리스트.md" title="wikilink">뮤플리</a></p></td>
+<td><p>《올때믹》 : 우영, Jun. K</p></td>
+</tr>
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -2122,6 +2129,10 @@ ENTERTAINMENT</p></td>
 |      |                                                                                                           |    |                                                |                           |                                                                                                           |
 
 ## 음악 방송
+
+### 2PM
+
+### Jun. K
 
 <table>
 <thead>

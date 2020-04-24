@@ -38,7 +38,7 @@
   - 영상포엠 - 한국 100경
   - 우리땅 속살 보기 - 오지(이상 [한국정책방송](https://ko.wikipedia.org/wiki/한국정책방송 "wikilink") 제작)
 
-## 함께 보기
+## 같이 보기
 
   - [장애인신문](https://ko.wikipedia.org/wiki/장애인신문 "wikilink")
 

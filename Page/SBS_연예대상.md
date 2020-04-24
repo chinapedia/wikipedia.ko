@@ -69,7 +69,7 @@
 <td><p>12회</p></td>
 <td><p><a href="../Page/2018년.md" title="wikilink">2018년</a></p></td>
 <td><p><a href="../Page/이승기.md" title="wikilink">이승기</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/집사부일체" title="wikilink">집사부일체</a></p></td>
+<td><p><a href="../Page/집사부일체.md" title="wikilink">집사부일체</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -838,7 +838,7 @@ TV - 김남경</p></td>
 <tr class="odd">
 <td><p>베스트 엔터테이너상</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/박준규" title="wikilink">박준규</a><br />
-<a href="https://ko.wikipedia.org/wiki/김종민" title="wikilink">김종민</a><br />
+<a href="../Page/김종민.md" title="wikilink">김종민</a><br />
 <a href="../Page/황광희.md" title="wikilink">황광희</a></p></td>
 </tr>
 <tr class="even">
@@ -1475,7 +1475,7 @@ TV - 김남경</p></td>
 <tr class="odd">
 <td><p>최우수상 (쇼 · 토크 부문)</p></td>
 <td><p><a href="../Page/양세형.md" title="wikilink">양세형</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/집사부일체" title="wikilink">집사부일체</a>, <a href="../Page/가로채널.md" title="wikilink">가로채널</a>, <a href="../Page/미추리_8-1000.md" title="wikilink">미추리 8-1000</a></p></td>
+<td><p><a href="../Page/집사부일체.md" title="wikilink">집사부일체</a>, <a href="../Page/가로채널.md" title="wikilink">가로채널</a>, <a href="../Page/미추리_8-1000.md" title="wikilink">미추리 8-1000</a></p></td>
 </tr>
 <tr class="even">
 <td><p>최우수상 (버라이어티 부문)</p></td>
@@ -1493,14 +1493,14 @@ TV - 김남경</p></td>
 <td><p>우수상 (버라이어티 부문)</p></td>
 <td><p><a href="../Page/육성재.md" title="wikilink">육성재</a><br />
 <a href="../Page/조보아.md" title="wikilink">조보아</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/집사부일체" title="wikilink">집사부일체</a><br />
+<td><p><a href="../Page/집사부일체.md" title="wikilink">집사부일체</a><br />
 <a href="../Page/백종원의_골목식당.md" title="wikilink">백종원의 골목식당</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>신인상</p></td>
 <td><p><a href="../Page/이상윤_(배우).md" title="wikilink">이상윤</a><br />
 <a href="../Page/강경헌.md" title="wikilink">강경헌</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/집사부일체" title="wikilink">집사부일체</a><br />
+<td><p><a href="../Page/집사부일체.md" title="wikilink">집사부일체</a><br />
 <a href="../Page/불타는_청춘_(텔레비전_프로그램).md" title="wikilink">불타는 청춘</a></p></td>
 </tr>
 <tr class="even">
@@ -1515,7 +1515,7 @@ TV - 김남경</p></td>
 김명정 (예능 부문)</p></td>
 <td><p><a href="../Page/최화정의_파워타임.md" title="wikilink">최화정의 파워타임</a><br />
 <a href="../Page/TV_동물농장.md" title="wikilink">TV 동물농장</a><br />
-<a href="https://ko.wikipedia.org/wiki/집사부일체" title="wikilink">집사부일체</a></p></td>
+<a href="../Page/집사부일체.md" title="wikilink">집사부일체</a></p></td>
 </tr>
 <tr class="even">
 <td><p>라디오 DJ상</p></td>
@@ -1629,7 +1629,7 @@ TV - 김남경</p></td>
 <td><p><a href="../Page/양세찬.md" title="wikilink">양세찬</a><br />
 <a href="../Page/이상윤_(배우).md" title="wikilink">이상윤</a></p></td>
 <td><p><a href="../Page/런닝맨_(텔레비전_프로그램).md" title="wikilink">런닝맨</a><br />
-<a href="https://ko.wikipedia.org/wiki/집사부일체" title="wikilink">집사부일체</a></p></td>
+<a href="../Page/집사부일체.md" title="wikilink">집사부일체</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>우수상 {{-}} (리얼리티쇼 부문)</p></td>
@@ -1648,7 +1648,7 @@ TV - 김남경</p></td>
 <tr class="odd">
 <td><p>프로듀서상</p></td>
 <td><p><a href="../Page/이승기.md" title="wikilink">이승기</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/집사부일체" title="wikilink">집사부일체</a>, <a href="https://ko.wikipedia.org/wiki/리틀_포레스트_(예능_프로그램)" title="wikilink">리틀 포레스트</a></p></td>
+<td><p><a href="../Page/집사부일체.md" title="wikilink">집사부일체</a>, <a href="https://ko.wikipedia.org/wiki/리틀_포레스트_(예능_프로그램)" title="wikilink">리틀 포레스트</a></p></td>
 </tr>
 <tr class="even">
 <td><p>공로상</p></td>
@@ -1678,8 +1678,8 @@ TV - 김남경</p></td>
 </tr>
 <tr class="even">
 <td><p>베스트 팀워크상</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/집사부일체" title="wikilink">집사부일체</a> 팀</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/집사부일체" title="wikilink">집사부일체</a></p></td>
+<td><p><a href="../Page/집사부일체.md" title="wikilink">집사부일체</a> 팀</p></td>
+<td><p><a href="../Page/집사부일체.md" title="wikilink">집사부일체</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>SBS 패밀리상</p></td>
@@ -1694,7 +1694,7 @@ TV - 김남경</p></td>
 <tr class="odd">
 <td><p>SBS 명예사원상</p></td>
 <td><p><a href="../Page/양세형.md" title="wikilink">양세형</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/집사부일체" title="wikilink">집사부일체</a>, <a href="https://ko.wikipedia.org/wiki/맛남의_광장" title="wikilink">맛남의 광장</a>,<br />
+<td><p><a href="../Page/집사부일체.md" title="wikilink">집사부일체</a>, <a href="https://ko.wikipedia.org/wiki/맛남의_광장" title="wikilink">맛남의 광장</a>,<br />
 <a href="../Page/미추리_8-1000.md" title="wikilink">미추리 8-1000</a>, <a href="../Page/가로채널.md" title="wikilink">가로채널</a></p></td>
 </tr>
 <tr class="even">
@@ -1718,7 +1718,7 @@ TV - 김남경</p></td>
 <a href="../Page/박나래.md" title="wikilink">박나래</a><br />
 <a href="../Page/이광수_(배우).md" title="wikilink">이광수</a></p></td>
 <td><p><a href="../Page/동상이몽_2_-_너는_내_운명.md" title="wikilink">동상이몽 2 - 너는 내 운명</a><br />
-<a href="https://ko.wikipedia.org/wiki/집사부일체" title="wikilink">집사부일체</a><br />
+<a href="../Page/집사부일체.md" title="wikilink">집사부일체</a><br />
 <a href="https://ko.wikipedia.org/wiki/리틀_포레스트_(예능_프로그램)" title="wikilink">리틀 포레스트</a><br />
 <a href="../Page/런닝맨_(텔레비전_프로그램).md" title="wikilink">런닝맨</a></p></td>
 </tr>

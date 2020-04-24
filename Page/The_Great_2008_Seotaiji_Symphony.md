@@ -45,7 +45,7 @@
 
 </dl>
 <ul>
-<li>서태지(<a href="https://ko.wikipedia.org/wiki/서태지컴퍼니" title="wikilink">서태지컴퍼니</a>): <a href="https://ko.wikipedia.org/wiki/프로듀서" title="wikilink">프로듀서</a>, <a href="https://ko.wikipedia.org/wiki/이그제큐티브_프로듀서" title="wikilink">이그제큐티브 프로듀서</a>, <a href="https://ko.wikipedia.org/wiki/작사" title="wikilink">작사</a>, <a href="https://ko.wikipedia.org/wiki/작곡" title="wikilink">작곡</a>, <a href="../Page/편곡.md" title="wikilink">편곡</a>, 믹싱/<a href="https://ko.wikipedia.org/wiki/마스터링" title="wikilink">마스터링</a>(Techno T 스튜디오)</li>
+<li>서태지(<a href="https://ko.wikipedia.org/wiki/서태지컴퍼니" title="wikilink">서태지컴퍼니</a>): <a href="../Page/음악_프로듀서.md" title="wikilink">프로듀서</a>, <a href="https://ko.wikipedia.org/wiki/이그제큐티브_프로듀서" title="wikilink">이그제큐티브 프로듀서</a>, <a href="https://ko.wikipedia.org/wiki/작사" title="wikilink">작사</a>, <a href="https://ko.wikipedia.org/wiki/작곡" title="wikilink">작곡</a>, <a href="../Page/편곡.md" title="wikilink">편곡</a>, 믹싱/<a href="https://ko.wikipedia.org/wiki/마스터링" title="wikilink">마스터링</a>(Techno T 스튜디오)</li>
 <li>톨가 카쉬프(Tolga Kashif): 음악 감독, 편곡, <a href="https://ko.wikipedia.org/wiki/지휘자" title="wikilink">지휘자</a></li>
 <li>로얄 필하모닉: <a href="https://ko.wikipedia.org/wiki/오케스트라" title="wikilink">오케스트라</a>
 <ul>

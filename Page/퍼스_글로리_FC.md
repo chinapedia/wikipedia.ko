@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [퍼스 글로리 FC](https://ko.wikipedia.org/wiki/퍼스_글로리_FC).
 
 
-**퍼스 글로리 FC**(Perth Glory FC)는 [A리그](../Page/A리그.md "wikilink")에 소속된 [오스트레일리아](../Page/오스트레일리아.md "wikilink")의 프로축구단으로 [웨스턴오스트레일리아주](../Page/웨스턴오스트레일리아주.md "wikilink")의 [퍼스를](../Page/퍼스_\(웨스턴오스트레일리아주\).md "wikilink") 연고지로 한다. 코로나 19로 인한 선수단 운영 불가피로 2020년 4월1일 해단
+**퍼스 글로리 FC**(Perth Glory FC)는 [A리그](../Page/A리그.md "wikilink")에 소속된 [오스트레일리아](../Page/오스트레일리아.md "wikilink")의 프로축구단으로 [웨스턴오스트레일리아주](../Page/웨스턴오스트레일리아주.md "wikilink")의 [퍼스를](../Page/퍼스_\(웨스턴오스트레일리아주\).md "wikilink") 연고지로 한다.
 
 ## 우승 기록
 

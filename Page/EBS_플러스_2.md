@@ -47,7 +47,7 @@
   - [EBS 2TV](../Page/EBS_2TV.md "wikilink")
   - [EBS FM](../Page/EBS_FM.md "wikilink")
   - [EBS 플러스 1](../Page/EBS_플러스_1.md "wikilink")
-  - [EBS english](https://ko.wikipedia.org/wiki/EBS_english "wikilink")
+  - [EBS english](../Page/EBS_english.md "wikilink")
 
 ## 외부 링크
 

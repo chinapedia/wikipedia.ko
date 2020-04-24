@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ONE OK ROCK](https://ko.wikipedia.org/wiki/ONE_OK_ROCK).
 
 
-**ONE OK ROCK**(원 오크 록)은, [일본](../Page/일본.md "wikilink")의 [록 밴드이다](https://ko.wikipedia.org/wiki/록_밴드 "wikilink").
+**ONE OK ROCK**(원 오크 록)은 [일본](../Page/일본.md "wikilink")의 [록 밴드이다](https://ko.wikipedia.org/wiki/록_밴드 "wikilink").
 
 ## 밴드 활동 내력
 
@@ -27,7 +27,7 @@
 
 또한 원오크락은 2012년 5월에서 6월까지 일본을 포함한 대한민국, 대만, 싱가폴에서의 월드 투어 (Start Walking The World)를 했는데, [9mm 파라블럼 블릿](http://www.9mm.jp/)\], [아베 마오](../Page/아베_마오.md "wikilink"), [헬로 슬립워커스](http://www.hellosleepwalkers.com/), 그리고 [크로스페이스](http://www.crossfaith.jp/)가 게스트 무대를 섰다. 또한 2012년 [그린데이](https://ko.wikipedia.org/wiki/그린데이 "wikilink"), [프란츠 퍼디난드](../Page/프란츠_퍼디난드.md "wikilink") ,[리한나](../Page/리한나.md "wikilink")와 함께 [ROCK IN JAPAN FESTIVAL](https://ko.wikipedia.org/wiki/ROCK_IN_JAPAN_FESTIVAL "wikilink") 메인 무대에 섰고, 또한 오가 나마하게 록 페스티벌(Oga Namahage Rock Festival) 과 [스위트 러브 샤워](http://www.sweetloveshower.com/) ( Sweet Love shower 2012)에서도 메인 무대에 섰다.
 
-2012년 8월 22일 싱글 “The Beginning”을 발표했고, 이 싱글은 영화 [바람의 검심](https://en.wikipedia.org/wiki/Rurouni_Kenshin_\(film\))( Rurouni Kenshin , 2012) 의 테마 노래로 사용되었으며, [오리콘](../Page/오리콘.md "wikilink") 차트 5위를 기록하였다.
+2012년 8월 22일 싱글 “The Beginning”을 발표했고, 이 싱글은 영화 [바람의 검심](https://en.wikipedia.org/wiki/Rurouni_Kenshin_\(film\))( Rurouni Kenshin , 2012)의 테마 노래로 사용되었으며, [오리콘](../Page/오리콘.md "wikilink") 차트 5위를 기록하였다.
 
 \=== 人生×僕= (Jinsei×Boku) 와 월드 투어(2013-2014)===
 

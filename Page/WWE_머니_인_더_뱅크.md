@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [WWE 머니 인 더 뱅크](https://ko.wikipedia.org/wiki/WWE_머니_인_더_뱅크).
 
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:Professional_wrestling_ladder_match.jpg "wikilink") **머니 인 더 뱅크**(Money in the Bank)는 미국 프로레슬링 단체 [WWE](https://ko.wikipedia.org/wiki/WWE "wikilink")의 페이퍼뷰이다. 이 경기는 2005년 WWE의 5대 페이 퍼 뷰중 하나인 WWE 레슬매니아(WrestleMania)21 에서 처음 시도되었으며, 맨 처음 열렸던 2005년과 2006년은 6인 경기로 이루어졌으나 2007년부터 2009년까지는 8인 경기로, 2010년 WWE 레슬매니아 26에서 벌어진 경기에서는 10인의 선수가 출전하여 경기를 치렀다. 또한 같은 해 인 2010년에는 페이 퍼 뷰인 WWE 머니 인 더 뱅크 (2010)이 신설되어 2010년엔 WWE 레슬매니아 26에서 머니 인 더 뱅크 한번 WWE 머니 인 더 뱅크 (2010)에서 세분화된 RAW와 스맥다운 머니 인 더 뱅크 2번 총 3번이 열렸고 2011년 부터 2013년 까지는 레슬매니아에선 열리지 않고 머니 인 더 뱅크 페이 퍼 뷰 에서 만 두 번(WWE 챔피언십 머니 인 더 뱅크 경기,WWE 월드 헤비웨이트 챔피언십 머니 인 더 뱅크 경기) 열리게 된다. 2014년 부터 머니 인 더 뱅크 페이 퍼 뷰에서만 한 번(WWE 챔피언십 머니 인 더 뱅크 경기) 열리고, 2017년에는 스맥다운 독점 페이 퍼 뷰 로 진행되었고 역사상 최초로 위민스 머니 인 더 뱅크가 신설되었다. 2018년부터는 양대 브랜드 페이 퍼 뷰 로 개최된다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:Professional_wrestling_ladder_match.jpg "wikilink") **머니 인 더 뱅크**(Money in the Bank)는 미국 프로레슬링 단체 [WWE](../Page/WWE.md "wikilink")의 페이퍼뷰이다. 이 경기는 2005년 WWE의 5대 페이 퍼 뷰중 하나인 WWE 레슬매니아(WrestleMania)21 에서 처음 시도되었으며, 맨 처음 열렸던 2005년과 2006년은 6인 경기로 이루어졌으나 2007년부터 2009년까지는 8인 경기로, 2010년 WWE 레슬매니아 26에서 벌어진 경기에서는 10인의 선수가 출전하여 경기를 치렀다. 또한 같은 해 인 2010년에는 페이 퍼 뷰인 WWE 머니 인 더 뱅크 (2010)이 신설되어 2010년엔 WWE 레슬매니아 26에서 머니 인 더 뱅크 한번 WWE 머니 인 더 뱅크 (2010)에서 세분화된 RAW와 스맥다운 머니 인 더 뱅크 2번 총 3번이 열렸고 2011년 부터 2013년 까지는 레슬매니아에선 열리지 않고 머니 인 더 뱅크 페이 퍼 뷰 에서 만 두 번(WWE 챔피언십 머니 인 더 뱅크 경기,WWE 월드 헤비웨이트 챔피언십 머니 인 더 뱅크 경기) 열리게 된다. 2014년 부터 머니 인 더 뱅크 페이 퍼 뷰에서만 한 번(WWE 챔피언십 머니 인 더 뱅크 경기) 열리고, 2017년에는 스맥다운 독점 페이 퍼 뷰 로 진행되었고 역사상 최초로 위민스 머니 인 더 뱅크가 신설되었다. 2018년부터는 양대 브랜드 페이 퍼 뷰 로 개최된다.
 
 ## 경기 규칙
 
@@ -94,6 +94,13 @@
 <td><p><a href="../Page/XL_센터.md" title="wikilink">XL 센터</a></p></td>
 <td><p>15,700</p></td>
 <td><p><a href="../Page/브록_레스너.md" title="wikilink">브록 레스너</a> vs. <a href="../Page/드루_매킨타이어.md" title="wikilink">드루 매킨타이어</a> vs. <a href="../Page/배런_코빈.md" title="wikilink">배런 코빈</a> vs. <a href="../Page/리코셰.md" title="wikilink">리코셰</a> vs. <a href="../Page/랜디_오턴.md" title="wikilink">랜디 오턴</a> vs. <a href="../Page/핀_베일러.md" title="wikilink">핀 베일러</a> vs. <a href="../Page/안드라데_시엔_알마스.md" title="wikilink">안드라데</a> vs. 알리 (머니 인 더 뱅크 레더 매치)</p></td>
+</tr>
+<tr class="odd">
+<td><p>2020년 5월 10일</p></td>
+<td><p><a href="../Page/스탬퍼드_(코네티컷주).md" title="wikilink">스탬퍼드</a></p></td>
+<td><p>WWE 타이탄 타워</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/무관중_경기" title="wikilink">무관중 경기</a></p></td>
+<td></td>
 </tr>
 </tbody>
 </table>

@@ -903,7 +903,7 @@
 ## 역대 진행자
 
   -
-  - 해설 :김수영 六단 : ([1980년](../Page/1980년.md "wikilink") [1월 6일](../Page/1월_6일.md "wikilink") \~ [1984년](../Page/1984년.md "wikilink") [1월 8일](../Page/1월_8일.md "wikilink"))
+  - 해설 : 故 [김수영](https://ko.wikipedia.org/wiki/김수영_\(바둑_기사\) "wikilink") 六단 : ([1980년](../Page/1980년.md "wikilink") [1월 6일](../Page/1월_6일.md "wikilink") \~ [1984년](../Page/1984년.md "wikilink") [1월 8일](../Page/1월_8일.md "wikilink"))
 
   - 해설 :[노영하](../Page/노영하.md "wikilink") 七단 : ([1984년](../Page/1984년.md "wikilink") [1월 15일](../Page/1월_15일.md "wikilink") \~ [1986년](../Page/1986년.md "wikilink") 일자 미상)
 

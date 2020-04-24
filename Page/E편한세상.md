@@ -65,7 +65,9 @@ BI에서 주황색 땅콩모양은 구름을 형상화 한다. e편한세상이 
 
 ## 아파트 브랜드 순위
 
-아파트 브랜드 BSTI순위에서 [래미안](../Page/래미안.md "wikilink"), [힐스테이트](../Page/힐스테이트.md "wikilink"), [롯데캐슬](https://ko.wikipedia.org/wiki/롯데캐슬 "wikilink")과 함께 1위를 번갈아가며 하고 있다.
+아파트 브랜드 BSTI순위에서
+
+[`자이`](https://ko.wikipedia.org/wiki/자이 "wikilink")`, `[`래미안`](../Page/래미안.md "wikilink")`, `[`힐스테이트`](../Page/힐스테이트.md "wikilink")`, `[`롯데캐슬`](https://ko.wikipedia.org/wiki/롯데캐슬 "wikilink")과` 함께 1위를 번갈아가며 하고 있다.`
 
 ## 같이 보기
 

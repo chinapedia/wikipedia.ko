@@ -29,7 +29,7 @@
       - 이외 구간 110 km/h
   - 운전 지령소: [도쿄 종합 지령실](https://ko.wikipedia.org/wiki/도쿄_종합_지령실 "wikilink")
 
-[도쿄](https://ko.wikipedia.org/wiki/도쿄_역 "wikilink") - [시나가와](https://ko.wikipedia.org/wiki/시나가와_역 "wikilink") 구간은 도쿄 지사가, [가와사키](../Page/가와사키_역.md "wikilink") - [아타미](../Page/아타미_역.md "wikilink") 구간은 요코하마 지사가 관할하고 있다. [도쿄](https://ko.wikipedia.org/wiki/도쿄_역 "wikilink") - [유가와라](../Page/유가와라_역.md "wikilink") 간에는 [2001년](../Page/2001년.md "wikilink")부터 [도쿄 권 수송 관리 시스템](https://ko.wikipedia.org/wiki/도쿄_권_수송_관리_시스템 "wikilink") (ATOS)이 도입되었다.
+[도쿄](https://ko.wikipedia.org/wiki/도쿄_역 "wikilink") - [시나가와](../Page/시나가와_역.md "wikilink") 구간은 도쿄 지사가, [가와사키](../Page/가와사키_역.md "wikilink") - [아타미](../Page/아타미_역.md "wikilink") 구간은 요코하마 지사가 관할하고 있다. [도쿄](https://ko.wikipedia.org/wiki/도쿄_역 "wikilink") - [유가와라](../Page/유가와라_역.md "wikilink") 간에는 [2001년](../Page/2001년.md "wikilink")부터 [도쿄 권 수송 관리 시스템](https://ko.wikipedia.org/wiki/도쿄_권_수송_관리_시스템 "wikilink") (ATOS)이 도입되었다.
 
 ## 운행 형태
 
@@ -67,7 +67,7 @@
 
 ### 보통
 
-**보통**()은 [도카이도 본선](../Page/도카이도_본선.md "wikilink") 상의 모든 역에 정차하는 열차이다. 낮 시간대에는 시간당 6편이 운행되며, 하행 열차는 10분 간격으로 [도쿄 역에서](https://ko.wikipedia.org/wiki/도쿄_역 "wikilink") 발차한다. 주로 [도쿄 역](https://ko.wikipedia.org/wiki/도쿄_역 "wikilink") \~ 히라쓰카 역{{·}} 고즈 역{{·}} 오다와라 역{{·}} 아타미 역 구간을 운행하지만, 일부 열차는 [이토 선](../Page/이토_선.md "wikilink") [이토 역까지](../Page/이토_역.md "wikilink") 운행하며, 아침 및 저녁 시간대에는 [도카이 여객철도](https://ko.wikipedia.org/wiki/도카이_여객철도 "wikilink") [누마즈 역](../Page/누마즈_역.md "wikilink") (하루 9왕복){{·}} [고텐바 선](../Page/고텐바_선.md "wikilink") [야마키타 역](../Page/야마키타_역.md "wikilink") (저녁 하행 1편)까지 운행하는 열차도 있으며, 조조 및 심야 시간대에는 [시나가와 역](https://ko.wikipedia.org/wiki/시나가와_역 "wikilink") 시종착 열차도 있다. 평일 아침 출근 시간대의 상행 열차는 3분 간격으로 운행되며, 이 중 [후지사와 역](../Page/후지사와_역.md "wikilink"){{·}} [니노미야 역에서](../Page/니노미야_역.md "wikilink") 발차하는 열차도 있다.
+**보통**()은 [도카이도 본선](../Page/도카이도_본선.md "wikilink") 상의 모든 역에 정차하는 열차이다. 낮 시간대에는 시간당 6편이 운행되며, 하행 열차는 10분 간격으로 [도쿄 역에서](https://ko.wikipedia.org/wiki/도쿄_역 "wikilink") 발차한다. 주로 [도쿄 역](https://ko.wikipedia.org/wiki/도쿄_역 "wikilink") \~ 히라쓰카 역{{·}} 고즈 역{{·}} 오다와라 역{{·}} 아타미 역 구간을 운행하지만, 일부 열차는 [이토 선](../Page/이토_선.md "wikilink") [이토 역까지](../Page/이토_역.md "wikilink") 운행하며, 아침 및 저녁 시간대에는 [도카이 여객철도](https://ko.wikipedia.org/wiki/도카이_여객철도 "wikilink") [누마즈 역](../Page/누마즈_역.md "wikilink") (하루 9왕복){{·}} [고텐바 선](../Page/고텐바_선.md "wikilink") [야마키타 역](../Page/야마키타_역.md "wikilink") (저녁 하행 1편)까지 운행하는 열차도 있으며, 조조 및 심야 시간대에는 [시나가와 역](../Page/시나가와_역.md "wikilink") 시종착 열차도 있다. 평일 아침 출근 시간대의 상행 열차는 3분 간격으로 운행되며, 이 중 [후지사와 역](../Page/후지사와_역.md "wikilink"){{·}} [니노미야 역에서](../Page/니노미야_역.md "wikilink") 발차하는 열차도 있다.
 
 쾌속과 함께 [일본국유철도 211계 전동차](../Page/일본국유철도_211계_전동차.md "wikilink"), [동일본 여객철도 E231계 전동차](../Page/동일본_여객철도_E231계_전동차.md "wikilink"), [동일본 여객철도 E233계 전동차가](../Page/동일본_여객철도_E233계_전동차.md "wikilink") 투입되고 있지만, [요코스카 선에서](../Page/요코스카_선.md "wikilink") 운행되는 [동일본 여객철도 E217계 전동차도](../Page/동일본_여객철도_E217계_전동차.md "wikilink") 투입된다. 출퇴근 시간대를 중심으로 15량 편성으로 운행되는 열차가 대다수이지만 10량 편성으로 운행되는 열차도 있으며, 일부 구간을 운행하는 열차는 그린차를 연결하지 않은 5량 편성으로 운행한다.
 
@@ -169,7 +169,7 @@
 <tr class="odd">
 <td><p>SGW</p></td>
 <td><p>JT 03</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/시나가와_역" title="wikilink">시나가와</a></p></td>
+<td><p><a href="../Page/시나가와_역.md" title="wikilink">시나가와</a></p></td>
 <td></td>
 <td><p>●</p></td>
 <td><p>●</p></td>

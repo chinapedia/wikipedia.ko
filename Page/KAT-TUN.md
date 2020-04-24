@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [KAT-TUN](https://ko.wikipedia.org/wiki/KAT-TUN).
 
 
-**KAT-TUN**(캇툰)은, [일본](../Page/일본.md "wikilink")의 [남성](https://ko.wikipedia.org/wiki/남성 "wikilink") [아이돌](https://ko.wikipedia.org/wiki/아이돌 "wikilink") 그룹이다. 소속 사무소는 [쟈니즈 사무소](../Page/자니스_사무소.md "wikilink"). 소속 레코드 회사는 [J-One Records이다](../Page/제이_스톰.md "wikilink").
+**KAT-TUN**(캇툰)은 [일본](../Page/일본.md "wikilink")의 [남성](https://ko.wikipedia.org/wiki/남성 "wikilink") [아이돌](https://ko.wikipedia.org/wiki/아이돌 "wikilink") 그룹이다. 소속 사무소는 [쟈니즈 사무소](../Page/자니스_사무소.md "wikilink"). 소속 레코드 회사는 [J-One Records이다](../Page/제이_스톰.md "wikilink").
 
 ## 개요
 

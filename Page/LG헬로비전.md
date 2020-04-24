@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [LG헬로비전](https://ko.wikipedia.org/wiki/LG헬로비전).
 
 
-**주식회사 엘지헬로비젼**(LG HelloVision)는 [대한민국](../Page/대한민국.md "wikilink")의 종합유선방송사업자(MSO)로 [LG그룹](../Page/LG그룹.md "wikilink") 내 엔터테인먼트 및 미디어 부문의 업체이다.
+**주식회사 LG헬로비전**(LG HelloVision)는 [대한민국](../Page/대한민국.md "wikilink")의 종합유선방송사업자(MSO)로 [LG그룹](../Page/LG그룹.md "wikilink") 내 엔터테인먼트 및 미디어 부문의 업체이다.
 
 1995년 4월 1일 종합유선방송법에 의해\[1\] ㈜한국통신케이블텔레비전을 설립했다. [2002년](../Page/2002년.md "wikilink") 11월 구 ㈜씨제이케이블넷으로 상호명을 변경하며 10년 만에 [대한민국](../Page/대한민국.md "wikilink") 증권 거래소에 상장했다. 현재 케이블TV 업계 최다 가입자를 확보\[2\] 하고 있으며, 동시에 N스크린서비스 MVNO서비스 구 [헬로모바일](../Page/헬로모바일.md "wikilink") 사업을 진행 중이다.
 

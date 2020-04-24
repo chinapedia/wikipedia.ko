@@ -124,7 +124,7 @@
       - Arenaviridae과
       - Bunyaviridae과
       - Ophioviridae과
-      - [오르토믹소바이러스과](https://ko.wikipedia.org/wiki/오르토믹소바이러스과 "wikilink")(Orthomyxoviridae)
+      - [오르토믹소바이러스과](../Page/오르토믹소바이러스과.md "wikilink")(Orthomyxoviridae)
 
 <!-- end list -->
 
