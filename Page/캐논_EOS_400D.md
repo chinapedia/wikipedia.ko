@@ -30,7 +30,7 @@ dpreview.com의 실험 결과\[1\] 에 따르면, 400D [JPEG](../Page/JPEG.md "w
 
   - [400D 백서](https://web.archive.org/web/20130202051556/http://www.robgalbraith.com/public_files/Canon_Rebel_XTi_White_Paper.pdf) [400D 백서](http://www.usa.canon.com/uploadedimages/FCK/Image/White%20Papers/Rebel_XTi_WP.pdf)
 
-  - [dpreview.com의 리뷰](http://www.dpreview.com/reviews/canoneos400d/)
+  - [dpreview.com의 리뷰](https://web.archive.org/web/20070203003018/http://www.dpreview.com/reviews/canoneos400d/)
 
   - [cameralabs.com의 리뷰](http://www.cameralabs.com/reviews/Canon400D/)
 

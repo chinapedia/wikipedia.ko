@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ATI 테크놀로지스](https://ko.wikipedia.org/wiki/ATI_테크놀로지스).
 
 
-**ATI 테크놀로지스**()는 과거에 [개인용 컴퓨터용](../Page/개인용_컴퓨터.md "wikilink") [GPU와](../Page/그래픽_처리_장치.md "wikilink") [그래픽 카드를](../Page/그래픽_카드.md "wikilink") 생산했던 기업이다. ATI의 주 수입원은 컴퓨터 제조사에 판매하는 보드 통합형 그래픽 [칩셋](../Page/칩셋.md "wikilink")과 개인에게 판매하는 그래픽 카드였다. ATI는 한때 대만의 TSENG을 인수하기도 하였다. TSENG은 ET3000, ET4000, ET6000, ET6100등의 칩셋을 개발 한 업체이다.
+**ATI 테크놀로지스**()는 과거에 [개인용 컴퓨터용](../Page/개인용_컴퓨터.md "wikilink") [GPU와](../Page/그래픽_처리_장치.md "wikilink") [그래픽 카드를](../Page/그래픽_카드.md "wikilink") 생산했던 기업이다. ATI의 주 수입원은 컴퓨터 제조사에 판매하는 보드 통합형 그래픽 [칩셋](../Page/칩셋.md "wikilink")과 개인에게 판매하는 그래픽 카드였다. ATI는 한때 대만의 TSENG을 인수하기도 하였다. TSENG은 ET3000, ET4000, ET6000, ET6100등의 칩셋을 개발한 업체이다.
 
 [1985년](../Page/1985년.md "wikilink") [캐나다](../Page/캐나다.md "wikilink")에서 설립되었으며 [2006년](../Page/2006년.md "wikilink") [AMD에](../Page/어드밴스트_마이크로_디바이시스.md "wikilink") 인수, 합병되었다.
 

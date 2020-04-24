@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [도야마 TV 방송](https://ko.wikipedia.org/wiki/도야마_TV_방송).
 
 
-[120px](https://ko.wikipedia.org/wiki/파일:Bbt_logo.svg "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:Toyama_Television_Broadcasting.jpg "wikilink") **도야마 TV 방송 주식회사**(, )는, [도야마현](../Page/도야마현.md "wikilink")을 방송대상 지역으로 하는 [방송국으로](https://ko.wikipedia.org/wiki/방송#방송국 "wikilink") 약칭은 BBT로 Best Broadcasting Toyama Terevison의 약자이다.
+[120px](https://ko.wikipedia.org/wiki/파일:Bbt_logo.svg "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:Toyama_Television_Broadcasting.jpg "wikilink") **도야마 TV 방송 주식회사**(, )는 [도야마현](../Page/도야마현.md "wikilink")을 방송대상 지역으로 하는 [방송국으로](https://ko.wikipedia.org/wiki/방송#방송국 "wikilink") 약칭은 BBT로 Best Broadcasting Toyama Terevison의 약자이다.
 
 ## 개요
 

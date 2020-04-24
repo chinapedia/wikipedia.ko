@@ -1027,27 +1027,27 @@ UZOO MSL부터 [온게임넷 스타리그와](../Page/온게임넷_스타리그.
 ### 해설자
 
   - **2001년 KPGA 8월 투어** \~ **2001년 KPGA 12월 챔피언십**
-      - 캐스터 : [김철민](https://ko.wikipedia.org/wiki/김철민 "wikilink")
+      - 캐스터 : [김철민](../Page/김철민_\(방송인\).md "wikilink")
       - 해설 : [이현주](../Page/이현주_\(방송인\).md "wikilink") 임영수
   - **2002년 1차 KPGA** \~ **2002년 펩시트위스트배 3차 KPGA**
-      - 캐스터 : [김철민](https://ko.wikipedia.org/wiki/김철민 "wikilink")
+      - 캐스터 : [김철민](../Page/김철민_\(방송인\).md "wikilink")
       - 해설 : [이승원](https://ko.wikipedia.org/wiki/이승원 "wikilink") [이현주](../Page/이현주_\(방송인\).md "wikilink")
   - **2002년 스타우트 & 배스킨라빈스배 4차 KPGA**
       - 엑스트라 매치
-          - 캐스터 : [김철민](https://ko.wikipedia.org/wiki/김철민 "wikilink")
+          - 캐스터 : [김철민](../Page/김철민_\(방송인\).md "wikilink")
           - 해설 : [이승원](https://ko.wikipedia.org/wiki/이승원 "wikilink") 성상훈
       - 매가 매치
           - 캐스터 : [최상용](../Page/최상용.md "wikilink")
           - 해설 : [이승원](https://ko.wikipedia.org/wiki/이승원 "wikilink") 이준호
   - **KTEC KPGA 위너스 챔피언십** \~ **곰TV MSL 시즌4**
-      - 캐스터 : [김철민](https://ko.wikipedia.org/wiki/김철민 "wikilink")
+      - 캐스터 : [김철민](../Page/김철민_\(방송인\).md "wikilink")
       - 해설 : [이승원](https://ko.wikipedia.org/wiki/이승원 "wikilink") [김동준](https://ko.wikipedia.org/wiki/김동준_\(방송인\) "wikilink")
   - **아레나 MSL 2008** \~ **아발론 온라인 MSL 2009**
-      - 캐스터 : [김철민](https://ko.wikipedia.org/wiki/김철민 "wikilink")
+      - 캐스터 : [김철민](../Page/김철민_\(방송인\).md "wikilink")
       - 해설 : [이승원](https://ko.wikipedia.org/wiki/이승원 "wikilink") [강민](../Page/강민_\(프로게이머\).md "wikilink")
   - **NATE MSL 2009**
   - 목요일 저녁 5시 30분, 토요일 저녁 5시
-      - 캐스터 : [김철민](https://ko.wikipedia.org/wiki/김철민 "wikilink")
+      - 캐스터 : [김철민](../Page/김철민_\(방송인\).md "wikilink")
       - 해설 : [이승원](https://ko.wikipedia.org/wiki/이승원 "wikilink") [유대현](../Page/유대현.md "wikilink")
   - 목요일 저녁 7시 30분
       - 캐스터 : [박상현](../Page/박상현_\(1981년\).md "wikilink")
@@ -1056,10 +1056,10 @@ UZOO MSL부터 [온게임넷 스타리그와](../Page/온게임넷_스타리그.
       - 캐스터 : [김철민](../Page/김철민_\(방송인\).md "wikilink")
       - 해설 : [이승원](https://ko.wikipedia.org/wiki/이승원 "wikilink") [한승엽](https://ko.wikipedia.org/wiki/한승엽 "wikilink")
   - **피디팝 MSL 2010**
-      - 캐스터 : [김철민](https://ko.wikipedia.org/wiki/김철민 "wikilink")
+      - 캐스터 : [김철민](../Page/김철민_\(방송인\).md "wikilink")
       - 해설 : [이승원](https://ko.wikipedia.org/wiki/이승원 "wikilink") [유대현](../Page/유대현.md "wikilink") [임성춘](../Page/임성춘.md "wikilink")
   - **ABC마트 MSL 2011**
-      - 캐스터 : [김철민](https://ko.wikipedia.org/wiki/김철민 "wikilink")
+      - 캐스터 : [김철민](../Page/김철민_\(방송인\).md "wikilink")
       - 해설 : [이승원](https://ko.wikipedia.org/wiki/이승원 "wikilink") [김동준](https://ko.wikipedia.org/wiki/김동준_\(방송인\) "wikilink")
 
 ## MSL 우승자 상징

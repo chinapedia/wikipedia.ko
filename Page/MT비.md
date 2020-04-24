@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [MT비](https://ko.wikipedia.org/wiki/MT비).
 
 
-**MT비**(MT比)는, [동력분산식](../Page/동력분산식_열차.md "wikilink") [철도 차량의](../Page/철도_차량.md "wikilink") 동력차(M)와 부수차(T) 구성비를 가리킨다. **전동차 비율**이라고도 한다
+**MT비**(MT比)는 [동력분산식](../Page/동력분산식_열차.md "wikilink") [철도 차량의](../Page/철도_차량.md "wikilink") 동력차(M)와 부수차(T) 구성비를 가리킨다. **전동차 비율**이라고도 한다
 
 ## 정의와 특성
 

@@ -189,7 +189,6 @@
 ## 아나운서
 
   - [2015년](../Page/2015년.md "wikilink")(프리랜서) 입사 : [이현정](https://ko.wikipedia.org/wiki/이현정 "wikilink")
-  - [2018년](../Page/2018년.md "wikilink")(프리랜서) 입사 : [박철규](https://ko.wikipedia.org/wiki/박철규 "wikilink")
 
 ## 전직 아나운서
 
@@ -223,6 +222,7 @@
   - [조학승](https://ko.wikipedia.org/wiki/조학승 "wikilink")(현 KTV 아나운서)
   - [최남숙](https://ko.wikipedia.org/wiki/최남숙 "wikilink")
   - [정다운](https://ko.wikipedia.org/wiki/정다운 "wikilink")
+  - [박철규](https://ko.wikipedia.org/wiki/박철규 "wikilink") (2018.2\~2020.4, 현 KNN MC)
 
 ## 기자
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Crystallize \~기미토이우히카리\~](https://ko.wikipedia.org/wiki/Crystallize_\~기미토이우히카리\~).
 
 
-**Crystallize \~너라는 빛\~**() 는 [GARNET CROW의](../Page/GARNET_CROW.md "wikilink") 세 번째 앨범이다. [2003년](../Page/2003년.md "wikilink") [11월 12일](../Page/11월_12일.md "wikilink") [GIZA studio에서](../Page/GIZA_studio.md "wikilink") 발매되었다.
+**Crystallize \~너라는 빛\~**()는 [GARNET CROW의](../Page/GARNET_CROW.md "wikilink") 세 번째 앨범이다. [2003년](../Page/2003년.md "wikilink") [11월 12일](../Page/11월_12일.md "wikilink") [GIZA studio에서](../Page/GIZA_studio.md "wikilink") 발매되었다.
 
 전곡의 작곡은 [나카무라 유리](https://ko.wikipedia.org/wiki/나카무라_유리 "wikilink"), 작사는 [아즈키 나나](../Page/아즈키_나나.md "wikilink"), 편곡은 [후루이 히로히토](../Page/후루이_히로히토.md "wikilink") (〈영원을 앞서 나가는 한 순간의 우리들〉은 Miguel sa Pessoa·후루이 히로히토,〈[꿈 꾼 후에](../Page/유메미타아토데.md "wikilink") -lightin' grooves True meaning of love mix-〉는 [이케다 다이스케](https://ko.wikipedia.org/wiki/이케다_다이스케 "wikilink") 편곡) 가 맡았다.
 

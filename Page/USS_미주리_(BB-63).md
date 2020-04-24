@@ -71,7 +71,7 @@
 
   - [Mighty Mo: The Rest Of The Story](http://www.midweek.com/coverstory/coverstory052505.html)
 
-  - [Memorial museum site](http://www.ussmissouri.com/)
+  - [Memorial museum site](https://web.archive.org/web/20140721235641/http://www.ussmissouri.com/)
 
   - [Photo gallery](http://www.history.navy.mil/photos/sh-usn/usnsh-m/bb63.htm)
 

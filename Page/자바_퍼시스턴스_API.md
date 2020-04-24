@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [자바 퍼시스턴스 API](https://ko.wikipedia.org/wiki/자바_퍼시스턴스_API).
 
 
-**자바 퍼시스턴스 API**또는 **자바 [지속성](../Page/지속성.md "wikilink") API**(Java Persistence API, **JPA**) 는 [자바 플랫폼 SE와](../Page/자바_플랫폼,_스탠더드_에디션.md "wikilink") [자바 플랫폼 EE를](../Page/자바_플랫폼,_엔터프라이즈_에디션.md "wikilink") 사용하는 응용프로그램에서 관계형 [데이터베이스](../Page/데이터베이스.md "wikilink")의 관리를 표현하는 자바 [API](../Page/API.md "wikilink")이다.
+**자바 퍼시스턴스 API**또는 **자바 [지속성](../Page/지속성.md "wikilink") API**(Java Persistence API, **JPA**)는 [자바 플랫폼 SE와](../Page/자바_플랫폼,_스탠더드_에디션.md "wikilink") [자바 플랫폼 EE를](../Page/자바_플랫폼,_엔터프라이즈_에디션.md "wikilink") 사용하는 응용프로그램에서 관계형 [데이터베이스](../Page/데이터베이스.md "wikilink")의 관리를 표현하는 자바 [API](../Page/API.md "wikilink")이다.
 
 기존에 [EJB](https://ko.wikipedia.org/wiki/EJB "wikilink")에서 제공되던 엔터티 빈(Entity Bean)을 대체하는 기술이다. **자바 퍼시스턴스 API**는 JSR 220에서 정의된 EJB 3.0 스펙의 일부로 정의가 되어 있지만 EJB 컨테이너에 의존하지 않으며 EJB, 웹 모듈 및 [Java SE](https://ko.wikipedia.org/wiki/Java_SE "wikilink") 클라이언트에서 모두 사용이 가능하다. 또한, 사용자가 원하는 퍼시스턴스 프로바이더 구현체를 선택해서 사용할 수 있다.
 

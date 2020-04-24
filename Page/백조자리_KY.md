@@ -19,7 +19,7 @@
 
 ## 각주
 
-[분류:백조자리](https://ko.wikipedia.org/wiki/분류:백조자리 "wikilink") [분류:M형 초거성](https://ko.wikipedia.org/wiki/분류:M형_초거성 "wikilink") [분류:M형 극대거성](https://ko.wikipedia.org/wiki/분류:M형_극대거성 "wikilink") [분류:느린 불규칙 변광성](https://ko.wikipedia.org/wiki/분류:느린_불규칙_변광성 "wikilink")
+[분류:백조자리](https://ko.wikipedia.org/wiki/분류:백조자리 "wikilink") [분류:M형 초거성](https://ko.wikipedia.org/wiki/분류:M형_초거성 "wikilink") [분류:M형 극대거성](https://ko.wikipedia.org/wiki/분류:M형_극대거성 "wikilink") [분류:느린 불규칙 변광성](https://ko.wikipedia.org/wiki/분류:느린_불규칙_변광성 "wikilink") [분류:2MASS 천체](https://ko.wikipedia.org/wiki/분류:2MASS_천체 "wikilink")
 
 1.
 2.

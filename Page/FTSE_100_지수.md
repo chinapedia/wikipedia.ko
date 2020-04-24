@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [FTSE 100 지수](https://ko.wikipedia.org/wiki/FTSE_100_지수).
 
 
-**FTSE 100 지수**(, , "풋시ː 원 헌드레드 인덱스", 보통 줄여서 **FTSE 100**)는 [런던 증권거래소에](https://ko.wikipedia.org/wiki/런던_증권거래소 "wikilink") 상장되어 있는 주식 중, [시가총액](https://ko.wikipedia.org/wiki/시가총액 "wikilink") 순서대로 100개 기업의 주가를 지수화한 [종합 주가 지수이다](https://ko.wikipedia.org/wiki/주가_지수 "wikilink"). 영국 주식 시장의 대표 지수이다.
+**FTSE 100 지수**(, , "풋시ː 원 헌드레드 인덱스", 보통 줄여서 **FTSE 100**)는 [런던 증권거래소에](https://ko.wikipedia.org/wiki/런던_증권거래소 "wikilink") 상장되어 있는 주식 중, [시가총액](../Page/시가총액.md "wikilink") 순서대로 100개 기업의 주가를 지수화한 [종합 주가 지수이다](https://ko.wikipedia.org/wiki/주가_지수 "wikilink"). 영국 주식 시장의 대표 지수이다.
 
 FTSE는 의 약어이다. 이 주가 지수는 FTSE 그룹이 관리하는데, FTSE 그룹은 [파이낸셜 타임즈](https://ko.wikipedia.org/wiki/파이낸셜_타임즈 "wikilink") 및 런던 증권거래소가 합작 투자한 기업으로서 현재는 독립 기업이다.
 

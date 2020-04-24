@@ -5,7 +5,7 @@
 
 ## 구단 역사
 
-[20200326_코로나19_극복을_위한_BNK썸_여자프로농구단_성금_전달식(접견실)_01.jpg](https://ko.wikipedia.org/wiki/File:20200326_코로나19_극복을_위한_BNK썸_여자프로농구단_성금_전달식\(접견실\)_01.jpg "fig:20200326_코로나19_극복을_위한_BNK썸_여자프로농구단_성금_전달식(접견실)_01.jpg")
+[섬네일](https://ko.wikipedia.org/wiki/파일:20200326_코로나19_극복을_위한_BNK썸_여자프로농구단_성금_전달식\(접견실\)_01.jpg "wikilink")
 
 ### 연혁
 
@@ -161,8 +161,8 @@
 <td><p>9</p></td>
 <td><p>.550</p></td>
 <td><p>3</p></td>
-<td><p>플레이오프 <strong>승리</strong> (<a href="../Page/청주_KB_스타즈.md" title="wikilink">국민은행</a>) 2–1<br />
-챔피언결정전 <strong>승리</strong> (<a href="https://ko.wikipedia.org/wiki/용인_삼성생명_블루밍스" title="wikilink">삼성생명</a>) 3–1</p></td>
+<td><p>플레이오프 <strong>승리</strong>(<a href="../Page/청주_KB_스타즈.md" title="wikilink">국민은행</a>) 2–1<br />
+챔피언결정전 <strong>승리</strong>(<a href="https://ko.wikipedia.org/wiki/용인_삼성생명_블루밍스" title="wikilink">삼성생명</a>) 3–1</p></td>
 </tr>
 <tr class="odd">
 <td><p>2005 겨울</p></td>
@@ -270,7 +270,7 @@
 <td><p>17</p></td>
 <td><p>.514</p></td>
 <td><p>11</p></td>
-<td><p>플레이오프 <strong>승리</strong> (<a href="https://ko.wikipedia.org/wiki/용인_삼성생명_블루밍스" title="wikilink">삼성생명</a>) 3–1<br />
+<td><p>플레이오프 <strong>승리</strong>(<a href="https://ko.wikipedia.org/wiki/용인_삼성생명_블루밍스" title="wikilink">삼성생명</a>) 3–1<br />
 챔피언결정전 패배 (<a href="../Page/인천_신한은행_에스버드.md" title="wikilink">신한은행</a>) 0–3</p></td>
 </tr>
 <tr class="odd">
@@ -365,11 +365,11 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/한국여자프로농구_2019-20.md" title="wikilink">2019-20</a></p></td>
+<td><p>5위</p></td>
+<td><p>10</p></td>
+<td><p>17</p></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p>11</p></td>
 <td></td>
 </tr>
 </tbody>

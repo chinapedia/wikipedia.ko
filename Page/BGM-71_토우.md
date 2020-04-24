@@ -9,7 +9,7 @@ BGM-71 TOW(Tube launched-Optically tracked-Wire/Wireless guided, 광학추적형
 
 향상된 버전이 1978년 등장했고, 토우2가 1983년, TOW 2A/B가 1987년에 개발되었으며 현재에도 계속 업그레이드 되고 있다.
 
-2002년 3세대 자동인 [파이어 앤 포겟](https://ko.wikipedia.org/wiki/파이어_앤_포겟 "wikilink") 버전의 TOW-FF (TOW-Fire and Forget)의 개발이 취소되었다. 그래서 토우 미사일은 2세대 반자동 [대전차유도탄](../Page/대전차유도탄.md "wikilink")으로 남게 되었다. 반자동이므로 목표물에 명중할 때 까지 반드시 사수가 조준경으로 조준을 해주어야만 한다.
+2002년 3세대 자동인 [파이어 앤 포겟](https://ko.wikipedia.org/wiki/파이어_앤_포겟 "wikilink") 버전의 TOW-FF (TOW-Fire and Forget)의 개발이 취소되었다. 그래서 토우 미사일은 2세대 반자동 [대전차유도탄](../Page/대전차유도탄.md "wikilink")으로 남게 되었다. 반자동이므로 목표물에 명중할 때까지 반드시 사수가 조준경으로 조준을 해주어야만 한다.
 
 2003년 7월 22일, 미군은 이라크에서 [우다이 후세인과](../Page/우다이_후세인.md "wikilink") [쿠사이 후세인을](../Page/쿠사이_후세인.md "wikilink") 사살하는데 다수의 토우 미사일을 사용했다.\[1\]
 

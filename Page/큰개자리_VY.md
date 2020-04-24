@@ -13,7 +13,7 @@
 
 [섬네일의](https://ko.wikipedia.org/wiki/파일:Sun_and_VY_Canis_Majoris.svg "wikilink") 크기 비교.\]\] 큰개자리 VY는 분광형 M에 표면 온도는 약 3,500 켈빈이다. 따라서 [헤르츠스프룽-러셀 도표](https://ko.wikipedia.org/wiki/헤르츠스프룽-러셀_도표 "wikilink") 위에서도 우측 최상단에 위치하며, 이로써 이 별은 진화가 매우 진척되었음을 알 수 있다. 질량으로 미루어 보아 큰개자리 VY는 [주계열성](https://ko.wikipedia.org/wiki/주계열성 "wikilink") 시절 분광형 [O형에](../Page/O형_주계열성.md "wikilink")\[5\] 질량은 태양의 최소 15 \~ 최대 35배는 되었을 것이다.\[6\]
 
-[미네소타 대학교](../Page/미네소타_대학교.md "wikilink") 교수 로버타 험프리 (2006) 는 큰개자리 VY의 반경을 대략 [태양](../Page/태양.md "wikilink")의 1800-2100배 정도로 추정하였다. 이 크기에서 만약 태양 대신 큰개자리 VY를 [태양계](../Page/태양계.md "wikilink") 중심에 놓는다고 가정하면, 큰개자리 VY는 [목성](../Page/목성.md "wikilink")을 삼키고 [토성](../Page/토성.md "wikilink") 궤도 근처까지 미칠 것이다. 예를 들어, 만약 어떤 사람이 큰개자리 VY의 표면을 걷기 시작한다면(여기에서 사람은 하루에 시속 3마일 (약 4.83 km)의 속도로 8시간을 걸을 수 있다고 가정한다.) 완전히 횡단하기 위해 65만년의 시간이 필요하다. (같은 조건으로 [지구](../Page/지구.md "wikilink") 둘레를 통과하는데는 2년 11개월, 태양의 둘레를 통과하는 데는 310년 7개월이 걸린다.) 빛의 속도로도 별을 일주하는 데에 8시간이 걸린다. 관측 사상 가장 큰 별로 알려지기도 했으나 2012년 VLTI로 보다 정교하게 관측한 결과 수정된 반지름은 태양의 1420 ± 120배로 이전보다 많이 하향되었다.\[7\]
+[미네소타 대학교](../Page/미네소타_대학교.md "wikilink") 교수 로버타 험프리 (2006)는 큰개자리 VY의 반경을 대략 [태양](../Page/태양.md "wikilink")의 1800-2100배 정도로 추정하였다. 이 크기에서 만약 태양 대신 큰개자리 VY를 [태양계](../Page/태양계.md "wikilink") 중심에 놓는다고 가정하면, 큰개자리 VY는 [목성](../Page/목성.md "wikilink")을 삼키고 [토성](../Page/토성.md "wikilink") 궤도 근처까지 미칠 것이다. 예를 들어, 만약 어떤 사람이 큰개자리 VY의 표면을 걷기 시작한다면(여기에서 사람은 하루에 시속 3마일 (약 4.83 km)의 속도로 8시간을 걸을 수 있다고 가정한다.) 완전히 횡단하기 위해 65만년의 시간이 필요하다. (같은 조건으로 [지구](../Page/지구.md "wikilink") 둘레를 통과하는데는 2년 11개월, 태양의 둘레를 통과하는 데는 310년 7개월이 걸린다.) 빛의 속도로도 별을 일주하는 데에 8시간이 걸린다. 관측 사상 가장 큰 별로 알려지기도 했으나 2012년 VLTI로 보다 정교하게 관측한 결과 수정된 반지름은 태양의 1420 ± 120배로 이전보다 많이 하향되었다.\[7\]
 
 ### 크기에 관한 논쟁
 
@@ -70,7 +70,7 @@
 
   - [VY Canis Majoris](https://web.archive.org/web/20120326160544/http://webusers.astro.umn.edu/~ahelton/research/VYCMa/)
 
-[분류:M형 극대거성](https://ko.wikipedia.org/wiki/분류:M형_극대거성 "wikilink") [분류:M형 초거성](https://ko.wikipedia.org/wiki/분류:M형_초거성 "wikilink") [분류:준규칙 변광성](https://ko.wikipedia.org/wiki/분류:준규칙_변광성 "wikilink") [분류:큰개자리](https://ko.wikipedia.org/wiki/분류:큰개자리 "wikilink") [분류:헨리 드레이퍼 목록 천체](https://ko.wikipedia.org/wiki/분류:헨리_드레이퍼_목록_천체 "wikilink") [분류:히파르코스 천체](https://ko.wikipedia.org/wiki/분류:히파르코스_천체 "wikilink") [분류:느린 불규칙 변광성](https://ko.wikipedia.org/wiki/분류:느린_불규칙_변광성 "wikilink")
+[분류:M형 극대거성](https://ko.wikipedia.org/wiki/분류:M형_극대거성 "wikilink") [분류:M형 초거성](https://ko.wikipedia.org/wiki/분류:M형_초거성 "wikilink") [분류:준규칙 변광성](https://ko.wikipedia.org/wiki/분류:준규칙_변광성 "wikilink") [분류:큰개자리](https://ko.wikipedia.org/wiki/분류:큰개자리 "wikilink") [분류:헨리 드레이퍼 목록 천체](https://ko.wikipedia.org/wiki/분류:헨리_드레이퍼_목록_천체 "wikilink") [분류:히파르코스 천체](https://ko.wikipedia.org/wiki/분류:히파르코스_천체 "wikilink") [분류:느린 불규칙 변광성](https://ko.wikipedia.org/wiki/분류:느린_불규칙_변광성 "wikilink") [분류:2MASS 천체](https://ko.wikipedia.org/wiki/분류:2MASS_천체 "wikilink")
 
 1.
 2.

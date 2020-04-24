@@ -32,7 +32,7 @@
 
 ## 외부 링크
 
-  - [요시키](http://www.yoshiki.net) - 공식 웹사이트
+  - [요시키](https://web.archive.org/web/20150718023400/http://www.yoshiki.net/) - 공식 웹사이트
 
   -
   - [요시키 재단의 미국 웹 사이트](http://www.yoshikifoundation.org/)

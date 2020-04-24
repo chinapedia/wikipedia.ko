@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [SBS 8 뉴스](https://ko.wikipedia.org/wiki/SBS_8_뉴스).
 
 
-《**SBS 8 뉴스**》**()**는 매일 저녁 7시 50분에 방송되는 [SBS의 메인뉴스 프로그램이다](../Page/SBS의_뉴스_프로그램.md "wikilink").
+《**SBS 8 뉴스**》**()**는 [평일](https://ko.wikipedia.org/wiki/평일 "wikilink") [주말](https://ko.wikipedia.org/wiki/주말 "wikilink") 저녁 8시에 방송되는 [SBS의 메인뉴스 프로그램이다](../Page/SBS의_뉴스_프로그램.md "wikilink").
 
-## 프로그램 역사
+## SBS 8 뉴스 역사
 
   - [2000년](../Page/2000년.md "wikilink") : [평양](https://ko.wikipedia.org/wiki/평양 "wikilink")에서 뉴스 스튜디오 중계하였다.
   - [2017년](../Page/2017년.md "wikilink") [1월 2일](../Page/1월_2일.md "wikilink") \~ [1월 29일](../Page/1월_29일.md "wikilink") : 본래 메인 스튜디오에서 진행하였지만, 2017년 [SBS](../Page/SBS_\(대한민국의_방송사\).md "wikilink") 새해 개편으로 인하여 새로운 메인 스튜디오 공사에 들어감에 따라 [모닝와이드](../Page/모닝와이드.md "wikilink")와 [SBS 1010 뉴스](https://ko.wikipedia.org/wiki/SBS_1010_뉴스 "wikilink"), [SBS 12 뉴스](../Page/SBS_12_뉴스.md "wikilink"), [주영진의 뉴스브리핑](../Page/주영진의_뉴스브리핑.md "wikilink"), [SBS 오 뉴스](../Page/SBS_오_뉴스.md "wikilink"), [SBS 나이트라인](../Page/SBS_나이트라인.md "wikilink"), [SBS 주말뉴스](https://ko.wikipedia.org/wiki/SBS_주말뉴스 "wikilink"), [SBS 뉴스특보와](../Page/SBS_뉴스특보.md "wikilink") 함께 [주영진의 뉴스브리핑](../Page/주영진의_뉴스브리핑.md "wikilink") 전용 스튜디오에서 임시로 진행하였다.
@@ -15,6 +15,7 @@
   - [2019년](../Page/2019년.md "wikilink") [7월 15일](../Page/7월_15일.md "wikilink") : 평일 클로징에서 앵커가 그 날의 주요뉴스 관련 사진을 보여주며 설명하는 방식으로 변경되었다.
   - [2019년](../Page/2019년.md "wikilink") [8월 6일](../Page/8월_6일.md "wikilink") : 제 8호 태풍 **프란시스코**로 인하여 잠시 태풍관련 하단 뉴스티커를 추가하였다.
   - [2020년](../Page/2020년.md "wikilink") [3월 30일](../Page/3월_30일.md "wikilink") : **스포츠 뉴스** 클로징 시 [이승기](../Page/이승기.md "wikilink")가 **일일 아나운서**로 출연하였다.
+  - [2020년](../Page/2020년.md "wikilink") [3월 30일](../Page/3월_30일.md "wikilink") \~ [4월 17일](../Page/4월_17일.md "wikilink") : 3주간 [평일](https://ko.wikipedia.org/wiki/평일 "wikilink")만 방송시간을 10분 앞당겨서 **저녁 7시 50분**에 방송되었다.
 
 ## 방송 시간
 
@@ -330,7 +331,8 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/2013년.md" title="wikilink">2013년</a> <a href="../Page/7월_1일.md" title="wikilink">7월 1일</a> ~ <a href="../Page/2019년.md" title="wikilink">2019년</a> <a href="../Page/4월_14일.md" title="wikilink">4월 14일</a><br />
-<a href="../Page/2019년.md" title="wikilink">2019년</a> <a href="../Page/5월_13일.md" title="wikilink">5월 13일</a> ~ <a href="../Page/2020년.md" title="wikilink">2020년</a> <a href="../Page/3월_29일.md" title="wikilink">3월 29일</a></p></td>
+<a href="../Page/2019년.md" title="wikilink">2019년</a> <a href="../Page/5월_13일.md" title="wikilink">5월 13일</a> ~ <a href="../Page/2020년.md" title="wikilink">2020년</a> <a href="../Page/3월_29일.md" title="wikilink">3월 29일</a><br />
+<a href="../Page/2020년.md" title="wikilink">2020년</a> <a href="../Page/4월_20일.md" title="wikilink">4월 20일</a> ~ <strong>현재</strong></p></td>
 <td><p>매주 평일 밤 8:00 ~ 8:50</p></td>
 <td><p>50분</p></td>
 <td></td>
@@ -354,9 +356,9 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/2020년.md" title="wikilink">2020년</a> <a href="../Page/3월_30일.md" title="wikilink">3월 30일</a> ~ <a href="../Page/2019년.md" title="wikilink">2019년</a> <a href="../Page/5월_12일.md" title="wikilink">5월 12일</a></p></td>
-<td><p>매주 평일 저녁 7:50 ~ 8:55</p></td>
-<td><p>65분</p></td>
+<td><p><a href="../Page/2020년.md" title="wikilink">2020년</a> <a href="../Page/3월_30일.md" title="wikilink">3월 30일</a> ~ <a href="../Page/2020년.md" title="wikilink">2020년</a> <a href="../Page/4월_17일.md" title="wikilink">4월 17일</a></p></td>
+<td><p>매주 평일 저녁 7:50 ~ 8:50</p></td>
+<td><p>60분</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -391,7 +393,7 @@
 | 이슈리포트 깊이있게 본다                                |                                                                                                                                                                                                                                      |                 |
 | 현장리포트 거침없이 간다                                |                                                                                                                                                                                                                                      |                 |
 | [SBS 스포츠뉴스](../Page/SBS_스포츠뉴스.md "wikilink") | 평일 : [김윤상](../Page/김윤상.md "wikilink") 아나운서</br>주말 : [주시은](../Page/주시은.md "wikilink") 아나운서                                                                                                                                            |                 |
-| SBS 날씨                                       | 평일, 토요일 : [이여진](https://ko.wikipedia.org/wiki/이여진_\(방송인\) "wikilink")</br>일요일 : [정주희](https://ko.wikipedia.org/wiki/정주희 "wikilink")                                                                                                  | \[4\]           |
+| SBS 날씨                                       | 평일 : [이여진](https://ko.wikipedia.org/wiki/이여진_\(방송인\) "wikilink")</br>토요일 : [양태빈](https://ko.wikipedia.org/wiki/양태빈 "wikilink")</br>일요일 : [정주희](https://ko.wikipedia.org/wiki/정주희 "wikilink")                                         | \[4\]           |
 | 클로징                                          | 월, 수, 금 : [김현우](../Page/김현우_\(기자\).md "wikilink") 정치부 기자</br>화, 목 : [최혜림](../Page/최혜림.md "wikilink") 아나운서</br>주말 : [김범주](https://ko.wikipedia.org/wiki/김범주_\(기자\) "wikilink") 경제부 기자, [김민형](../Page/김민형_\(아나운서\).md "wikilink") 아나운서 | \[5\]\[6\]      |
 
 ## 앵커
@@ -718,13 +720,13 @@
 <td><p>27기</p></td>
 <td><p><a href="../Page/김현우_(기자).md" title="wikilink">김현우</a></p></td>
 <td><p><a href="../Page/장예원_(아나운서).md" title="wikilink">장예원</a></p></td>
-<td><p><a href="../Page/2016년.md" title="wikilink">2016년</a> <a href="../Page/12월_24일.md" title="wikilink">12월 24일</a> ~ 2017년 <a href="../Page/12월_31일.md" title="wikilink">12월 31일</a></p></td>
+<td><p><a href="../Page/2016년.md" title="wikilink">2016년</a> <a href="../Page/12월_24일.md" title="wikilink">12월 24일</a> ~ 2017년 <a href="../Page/5월_21일.md" title="wikilink">5월 21일</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>28기</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/김용태" title="wikilink">김용태</a></p></td>
 <td><p><a href="../Page/정미선.md" title="wikilink">정미선</a></p></td>
-<td><p><a href="../Page/2018년.md" title="wikilink">2018년</a> <a href="../Page/1월_7일.md" title="wikilink">1월 7일</a> ~ 2018년 <a href="../Page/7월_1일.md" title="wikilink">7월 1일</a></p></td>
+<td><p><a href="../Page/2017년.md" title="wikilink">2017년</a> <a href="../Page/5월_27일.md" title="wikilink">5월 27일</a> ~ 2018년 <a href="../Page/7월_1일.md" title="wikilink">7월 1일</a></p></td>
 </tr>
 <tr class="even">
 <td><p>29기</p></td>
@@ -774,7 +776,8 @@
 
 ### 현재
 
-  - **평일, 토요일** : [이여진](https://ko.wikipedia.org/wiki/이여진_\(방송인\) "wikilink")
+  - **평일** : [이여진](https://ko.wikipedia.org/wiki/이여진_\(방송인\) "wikilink")
+  - **토요일** : [양태빈](https://ko.wikipedia.org/wiki/양태빈 "wikilink")
   - **일요일** : [정주희](https://ko.wikipedia.org/wiki/정주희 "wikilink")
 
 ## 캐치프레이즈
@@ -1004,11 +1007,17 @@ SBS 뉴스 2000 (주말)</p></td>
 
 ## SBS 날씨
 
-#### 평일, 토요일
+#### 평일
 
   - [이여진](https://ko.wikipedia.org/wiki/이여진_\(방송인\) "wikilink") (여) - [SBS의](../Page/SBS_\(대한민국의_방송사\).md "wikilink") 기상캐스터
 
-※ 평일, 토요일 기상캐스터가 휴가 또는 출장 시에는 일요일 기상캐스터가 대신 진행.
+※ 평일 기상캐스터가 휴가 또는 출장 시에는 일요일 기상캐스터가 대신 진행.
+
+#### 토요일
+
+  - [양태빈](https://ko.wikipedia.org/wiki/양태빈 "wikilink") (여) -[SBS의](../Page/SBS_\(대한민국의_방송사\).md "wikilink") 기상캐스터
+
+※ 토요일 기상캐스터가 휴가 또는 출장 시에는 일요일 기상캐스터가 대신 진행.
 
 #### 일요일
 

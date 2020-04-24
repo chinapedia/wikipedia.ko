@@ -1,11 +1,7 @@
 > This article is converted from Wikipedia: [KBS 제3라디오](https://ko.wikipedia.org/wiki/KBS_제3라디오).
 
 
-**KBS 제3라디오**([호출부호](https://ko.wikipedia.org/wiki/호출부호 "wikilink"): **HLKC**, 별칭: **사랑의 소리 방송**)는 [한국방송공사](../Page/한국방송공사.md "wikilink")에서 운영·방송하는 [라디오](../Page/라디오.md "wikilink") 편성책임 채널이다. [장애인](../Page/장애인.md "wikilink") 등 소외계층을 위한 [복지](https://ko.wikipedia.org/wiki/사회복지 "wikilink") 정보, [정책](https://ko.wikipedia.org/wiki/정책 "wikilink"), 일상 정보 등을 방송한다. [1995년](../Page/1995년.md "wikilink") [12월 20일에](../Page/12월_20일.md "wikilink") [KBS 제1라디오](../Page/KBS_제1라디오.md "wikilink") FM 방송의 부가 음성으로 시작하여 [2000년](../Page/2000년.md "wikilink") [1월 1일에](../Page/1월_1일.md "wikilink") [KBS 제2라디오의](../Page/KBS_제2라디오.md "wikilink") 중파 주파수를 편입, 별도의 AM 라디오 방송망을 구축하며 KBS 제3라디오라는 이름을 얻었다. 방송되는 프로그램 중 [내일은 푸른하늘은](../Page/내일은_푸른하늘.md "wikilink") [2003년](../Page/2003년.md "wikilink") [7월 14일부터](../Page/7월_14일.md "wikilink") [KBS 제1라디오에서](../Page/KBS_제1라디오.md "wikilink") 넘어온 프로그램이다. 라디오 채널 특성상 재방송 편성 비율이 많은 채널이다.
-
-## 정규방송 시간
-
-  - 매일 오전 06:00 \~ 다음 날 오전 03:00 (21시간)
+**KBS 제3라디오**([호출부호](https://ko.wikipedia.org/wiki/호출부호 "wikilink"): **HLKC**, 별칭: **사랑의 소리 방송**)는 [한국방송공사](../Page/한국방송공사.md "wikilink")에서 운영·방송하는 [라디오](../Page/라디오.md "wikilink") 채널이다. [장애인](../Page/장애인.md "wikilink") 등 소외계층을 위한 [복지](https://ko.wikipedia.org/wiki/사회복지 "wikilink") 정보, [정책](https://ko.wikipedia.org/wiki/정책 "wikilink"), 일상 정보 등을 방송한다. [1995년](../Page/1995년.md "wikilink") [12월 20일에](../Page/12월_20일.md "wikilink") [KBS 제1라디오](../Page/KBS_제1라디오.md "wikilink") FM 방송의 부가 음성으로 시작하여 [2000년](../Page/2000년.md "wikilink") [1월 1일에](../Page/1월_1일.md "wikilink") [KBS 제2라디오의](../Page/KBS_제2라디오.md "wikilink") 중파 주파수를 편입, 별도의 AM 라디오 방송망을 구축하며 KBS 제3라디오라는 이름을 얻었다. 방송되는 프로그램 중 [내일은 푸른하늘은](../Page/내일은_푸른하늘.md "wikilink") [2003년](../Page/2003년.md "wikilink") [7월 14일부터](../Page/7월_14일.md "wikilink") [KBS 제1라디오에서](../Page/KBS_제1라디오.md "wikilink") 넘어온 프로그램이다. 라디오 채널 특성상 재방송 편성 비율이 많은 채널이다.
 
 ## 역사
 
@@ -16,6 +12,10 @@
 [2003년](../Page/2003년.md "wikilink") [7월 14일에는](../Page/7월_14일.md "wikilink") [KBS 제1라디오에서](../Page/KBS_제1라디오.md "wikilink") 방송됐던 [내일은 푸른하늘이](../Page/내일은_푸른하늘.md "wikilink") **KBS 제3라디오**로 이관되었다.
 
 [2010년](../Page/2010년.md "wikilink") [1월 1일에는](../Page/1월_1일.md "wikilink") 수도권 지역의 AM 주파수를 639㎑에서 화성 송신소의 1134㎑로 변경되면서 639㎑는 폐국되었고,\[4\] [같은 해](../Page/2010년.md "wikilink") [4월 20일에는](../Page/4월_20일.md "wikilink") 639㎑ 방송을 내보냈던 개봉 송신소가 폐쇄되었다. 그와 동시에 FM 104.9㎒로 수도권 지역의 표준FM 라디오 방송을 개국하였다.\[5\]
+
+## 방송 시간
+
+  - 매일 오전 06:00 \~ 다음 날 오전 03:00 (21시간)
 
 ## 방송 프로그램
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [UBS](https://ko.wikipedia.org/wiki/UBS).
 
 
-[섬네일에](https://ko.wikipedia.org/wiki/파일:Ubs_flickr_1574167120_bonatto.jpg "wikilink") 있는 UBS 점포.\]\] **UBS AG**(; ; )은 [스위스](https://ko.wikipedia.org/wiki/스위스 "wikilink") [바젤](../Page/바젤.md "wikilink") 및 [취리히](../Page/취리히.md "wikilink")에 본사를 둔 글로벌 금융 기업이다. [시가총액](https://ko.wikipedia.org/wiki/시가총액 "wikilink")과 [영업이익률](https://ko.wikipedia.org/wiki/영업이익률 "wikilink")로 따졌을 때 [유럽](../Page/유럽.md "wikilink")에서 두 번째로 큰 [은행](../Page/은행.md "wikilink")이다.
+[섬네일에](https://ko.wikipedia.org/wiki/파일:Ubs_flickr_1574167120_bonatto.jpg "wikilink") 있는 UBS 점포.\]\] **UBS AG**(; ; )은 [스위스](https://ko.wikipedia.org/wiki/스위스 "wikilink") [바젤](../Page/바젤.md "wikilink") 및 [취리히](../Page/취리히.md "wikilink")에 본사를 둔 글로벌 금융 기업이다. [시가총액](../Page/시가총액.md "wikilink")과 [영업이익률](https://ko.wikipedia.org/wiki/영업이익률 "wikilink")로 따졌을 때 [유럽](../Page/유럽.md "wikilink")에서 두 번째로 큰 [은행](../Page/은행.md "wikilink")이다.
 
 **UBS**는 병합하기 전 기업인 [유니언 뱅크 스위스](https://ko.wikipedia.org/wiki/유니언_뱅크_스위스 "wikilink")()의 약자이다. [1998년](../Page/1998년.md "wikilink") [스위스 뱅크 코포레이션과](https://ko.wikipedia.org/wiki/스위스_뱅크_코포레이션 "wikilink") [합병](https://ko.wikipedia.org/wiki/합병 "wikilink")하고 나서는 이것을 더 이상 약자로 간주하지 않는다는 자세를 취하고 있다.\[1\]
 
@@ -9,7 +9,7 @@
 
 ## 글로벌 비즈니스
 
-UBS는 [프라이빗 뱅킹](https://ko.wikipedia.org/wiki/프라이빗_뱅킹 "wikilink"), 투자 은행 (업무), [자산 관리](https://ko.wikipedia.org/wiki/자산_관리 "wikilink") 분야에서 글로벌 비즈니스 그룹을 갖고 있다. 또한, 전 세계 [소매금융](https://ko.wikipedia.org/wiki/소매금융 "wikilink")업 분야에서 및 스위스 내의 금융 분야에서도 매출을 꽤 기록하고 있다. 2007년 2사분기 현재, 총 투자자산은 3조 2650억 [스위스 프랑](../Page/스위스_프랑.md "wikilink")(CHF)에 달하며, 보유 주식 총액은 478억 5천만 CHF에 달하고, [시가총액](https://ko.wikipedia.org/wiki/시가총액 "wikilink")은 1512억 300만 CHF에 이르고 있다.
+UBS는 [프라이빗 뱅킹](https://ko.wikipedia.org/wiki/프라이빗_뱅킹 "wikilink"), 투자 은행 (업무), [자산 관리](https://ko.wikipedia.org/wiki/자산_관리 "wikilink") 분야에서 글로벌 비즈니스 그룹을 갖고 있다. 또한, 전 세계 [소매금융](https://ko.wikipedia.org/wiki/소매금융 "wikilink")업 분야에서 및 스위스 내의 금융 분야에서도 매출을 꽤 기록하고 있다. 2007년 2사분기 현재, 총 투자자산은 3조 2650억 [스위스 프랑](../Page/스위스_프랑.md "wikilink")(CHF)에 달하며, 보유 주식 총액은 478억 5천만 CHF에 달하고, [시가총액](../Page/시가총액.md "wikilink")은 1512억 300만 CHF에 이르고 있다.
 
 ## 점포
 

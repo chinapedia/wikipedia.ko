@@ -13,7 +13,7 @@ EMC 는 1979년에 Richard Egan, Roger Marino 그리고 John Curly에 의하여 
 
 2015년 10월 12일, [델 (Dell Inc.)](https://ko.wikipedia.org/wiki/Dell "wikilink") 이 현금과 주식 670억 달러에 EMC를 인수 한다고 발표하였다\[2\]. 이는 기술 분야에서의 최대규모 인수이다.
 
-2016년 9월 7일에 Dell과 EMC의 합병이 완료 되었다\[3\], 이로써 EMC 의 자회사였던 [VMware](../Page/VM웨어.md "wikilink"), RSA Security, Pivotal 도 함께 인수가 되고, Dell Technologies 가 모회사로 설립 되었다\[4\].
+2016년 9월 7일에 Dell과 EMC의 합병이 완료되었다\[3\], 이로써 EMC 의 자회사였던 [VMware](../Page/VM웨어.md "wikilink"), RSA Security, Pivotal 도 함께 인수가 되고, Dell Technologies 가 모회사로 설립 되었다\[4\].
 
 
 

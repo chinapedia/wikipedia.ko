@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [TVE](https://ko.wikipedia.org/wiki/TVE).
 
 
-**TVE**(, ) 는 스페인의 [공영 방송](../Page/공영_방송.md "wikilink") [RTVE](https://ko.wikipedia.org/wiki/RTVE "wikilink")의 [텔레비전](../Page/텔레비전.md "wikilink") 전담 방송국이다. 광고 수익과 정부 조성금에 의해 운영되고 있다.
+**TVE**(, )는 스페인의 [공영 방송](../Page/공영_방송.md "wikilink") [RTVE](https://ko.wikipedia.org/wiki/RTVE "wikilink")의 [텔레비전](../Page/텔레비전.md "wikilink") 전담 방송국이다. 광고 수익과 정부 조성금에 의해 운영되고 있다.
 
 ## 채널 목록
 

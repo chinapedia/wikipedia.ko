@@ -11,13 +11,13 @@ MBC게임 히어로의 전신인 **POS**(*Pirates Of Space*)는 [2002년](../Pag
 
 POS는 창단 초기 별다른 성과를 거두지 못했다. 개인리그는 물론이고, 2003년 8강 체제로 진행됐던 KTF EVER 프로리그와 네오위즈 피망컵 프로리그 예선에서 탈락하는 고난을 겪기도 했다.
 
-하지만 POS는 2004년부터 서서히 강팀으로 부상하기 시작했다. 연습생 시절부터 2년간 공을 들인 ‘투신’ [박성준](https://ko.wikipedia.org/wiki/박성준 "wikilink")이 질레트 스타리그에서 우승을 차지하며 팬들에게 깊은 인상을 남겼다. 이후 2005년 ‘스피릿’ [박지호](https://ko.wikipedia.org/wiki/박지호 "wikilink")를 영입한 POS는 스카이 프로리그 2005를 통해 만년 하위권이 아님을 증명했다. 후기리그 막판까지 [삼성전자 칸](https://ko.wikipedia.org/wiki/삼성전자_칸 "wikilink"), [팬택&큐리텔](https://ko.wikipedia.org/wiki/팬택&큐리텔 "wikilink") 등 대기업 팀들과 당당히 어깨를 나란히 하며 2006 시즌 창단 0순위로 떠올랐다.
+하지만 POS는 2004년부터 서서히 강팀으로 부상하기 시작했다. 연습생 시절부터 2년간 공을 들인 ‘투신’ [박성준이](../Page/박성준_\(1986년\).md "wikilink") 질레트 스타리그에서 우승을 차지하며 팬들에게 깊은 인상을 남겼다. 이후 2005년 ‘스피릿’ [박지호](https://ko.wikipedia.org/wiki/박지호 "wikilink")를 영입한 POS는 스카이 프로리그 2005를 통해 만년 하위권이 아님을 증명했다. 후기리그 막판까지 [삼성전자 칸](https://ko.wikipedia.org/wiki/삼성전자_칸 "wikilink"), [팬택&큐리텔](https://ko.wikipedia.org/wiki/팬택&큐리텔 "wikilink") 등 대기업 팀들과 당당히 어깨를 나란히 하며 2006 시즌 창단 0순위로 떠올랐다.
 
 [2004년 11월부터](https://ko.wikipedia.org/wiki/2004년_11월 "wikilink") [2005년 10월까지](../Page/2005년_10월.md "wikilink") 이고시스템과의 스폰서계약으로 **이고시스 POS**로 활동하기도 했다.
 
 박성준과 박지호를 중심으로 2005 시즌을 끌어가던 POS는 염보성과 김택용 등 신인 발굴에 성공하며 탄탄한 전력을 갖추었고, [2006년 3월](../Page/2006년_3월.md "wikilink") 게임 전문 채널 [MBC 게임에](../Page/MBC_게임.md "wikilink") 인수 창단 되었다.
 
-2006년 3월 창단 이후 전기리그에서 창단효과를 누리며 중상위권의 성적으로 포스트 시즌에 진출하여 [KT 롤스터](https://ko.wikipedia.org/wiki/KT_롤스터 "wikilink")(당시 KTF 매직엔스)를 4:0으로 제압하고 [CJ 엔투스를](https://ko.wikipedia.org/wiki/CJ_엔투스 "wikilink") 4:2로 격파 했으나 결승에서 [SK텔레콤 T1에게](https://ko.wikipedia.org/wiki/SK텔레콤_T1 "wikilink") 4:1로 패배하고 말았다.
+2006년 3월 창단 이후 전기리그에서 창단효과를 누리며 중상위권의 성적으로 포스트 시즌에 진출하여 [KT 롤스터](../Page/KT_롤스터.md "wikilink")(당시 KTF 매직엔스)를 4:0으로 제압하고 [CJ 엔투스를](https://ko.wikipedia.org/wiki/CJ_엔투스 "wikilink") 4:2로 격파 했으나 결승에서 [SK텔레콤 T1에게](https://ko.wikipedia.org/wiki/SK텔레콤_T1 "wikilink") 4:1로 패배하고 말았다.
 
 후기리그에서 초반 패배를 경험했지만 [위메이드 폭스](../Page/위메이드_폭스.md "wikilink")(당시 팬택EX)의 [심소명](../Page/심소명.md "wikilink")이 [STX SouL의](https://ko.wikipedia.org/wiki/STX_SouL "wikilink") [진영수](../Page/진영수.md "wikilink")를 잡으면서 기적적으로 포스트 진출에 성공하였다. 포스트시즌에서 [웅진 스타즈](../Page/웅진_스타즈.md "wikilink")(당시 한빛 스타즈)를 4:3으로 역전승 하고 [화승 OZ](../Page/화승_OZ.md "wikilink")(당시 르까프 OZ)를 4:3으로 격파하며 결승에 진출하였다.
 
@@ -35,7 +35,7 @@ MBC게임은 [2008년](../Page/2008년.md "wikilink") [2월 26일](https://ko.wi
 
 [2010년 1월](../Page/2010년_1월.md "wikilink") MBC게임 소속이던 한규종 선수가 수습코치로 등록되었다.
 
-[2010년 4월](../Page/2010년_4월.md "wikilink") [신한은행 위너스리그 09-10](https://ko.wikipedia.org/wiki/신한은행_위너스리그_09-10 "wikilink") 결승전에서 [KT 롤스터에게](https://ko.wikipedia.org/wiki/KT_롤스터 "wikilink") 4:3으로 패배하며 준우승을 기록했다.
+[2010년 4월](../Page/2010년_4월.md "wikilink") [신한은행 위너스리그 09-10](https://ko.wikipedia.org/wiki/신한은행_위너스리그_09-10 "wikilink") 결승전에서 [KT 롤스터에게](../Page/KT_롤스터.md "wikilink") 4:3으로 패배하며 준우승을 기록했다.
 
 [2010년 8월](../Page/2010년_8월.md "wikilink") 한규종 수습코치가 스타크래프트 2 전향을 위해 사퇴했다.
 

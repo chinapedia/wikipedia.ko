@@ -73,6 +73,6 @@
 
 ## 외부 링크
 
-  - [PS2판 3LDK♥ \~행복하세요\~(프린세스 소프트) 공식 사이트](http://www.oaks-soft.co.jp/princess-soft/3ldk/)
+  - [PS2판 3LDK♥ \~행복하세요\~(프린세스 소프트) 공식 사이트](https://web.archive.org/web/20071011203431/http://www.oaks-soft.co.jp/princess-soft/3ldk/)
 
 [분류:2003년 성인 비디오 게임](https://ko.wikipedia.org/wiki/분류:2003년_성인_비디오_게임 "wikilink") [분류:프린세스 소프트](https://ko.wikipedia.org/wiki/분류:프린세스_소프트 "wikilink") [분류:플레이스테이션 2 게임](https://ko.wikipedia.org/wiki/분류:플레이스테이션_2_게임 "wikilink") [분류:미소녀 게임](https://ko.wikipedia.org/wiki/분류:미소녀_게임 "wikilink") [분류:연애 어드벤처 게임](https://ko.wikipedia.org/wiki/분류:연애_어드벤처_게임 "wikilink")

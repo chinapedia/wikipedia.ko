@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [닛폰 TV 방송망](https://ko.wikipedia.org/wiki/닛폰_TV_방송망).
 
 
-**닛폰 TV 방송망 주식회사**(, )는 [1952년](../Page/1952년.md "wikilink")에 설립된 [간토 광역권을](../Page/간토_지방.md "wikilink") 대상으로 방송하는 [일본](../Page/일본.md "wikilink")의 [민영방송사이다](../Page/민영_방송.md "wikilink"). [일본](../Page/일본.md "wikilink")의 [민영방송](https://ko.wikipedia.org/wiki/민영방송 "wikilink")사 중 최초로 설립되었다. 약칭은 **니혼테레비** (日本テレビ), 더 줄여서 **닛테레**(日テレ)라고 부르기도 한다.
+**닛폰 TV 방송망 주식회사**(, )는 [1952년](../Page/1952년.md "wikilink")에 설립된 [간토 광역권을](../Page/간토_지방.md "wikilink") 대상으로 방송하는 [일본](../Page/일본.md "wikilink")의 [민영방송사이다](../Page/민영_방송.md "wikilink"). [일본](../Page/일본.md "wikilink")의 [민영방송](https://ko.wikipedia.org/wiki/민영방송 "wikilink")사 중 최초로 설립되었다. 약칭은 **니혼테레비**(日本テレビ), 더 줄여서 **닛테레**(日テレ)라고 부르기도 한다.
 
 ## 개설
 

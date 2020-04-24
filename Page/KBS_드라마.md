@@ -19,7 +19,7 @@
 
 ## 역사
 
-  - 1996년 (구) SKY KBS 드라마 개국 폐국
+  - 1996년 (구) **SKY KBS 드라마** 개국 폐국
   - [2002년](../Page/2002년.md "wikilink") [2월 2일](../Page/2월_2일.md "wikilink") (구) **KBS SKY 드라마**로 폐국
   - [2006년](../Page/2006년.md "wikilink") [11월 1일](../Page/11월_1일.md "wikilink") **KBS 드라마**로 채널 변경 개국
 

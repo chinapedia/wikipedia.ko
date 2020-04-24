@@ -9,7 +9,7 @@
 </tbody>
 </table>
 
-**BL**(, )은 남성의 [동성애](../Page/동성애.md "wikilink")를 소재로 한 [여성향](https://ko.wikipedia.org/wiki/여성향 "wikilink") 만화, 소설, 게임 등의 장르이다. 10대의 [소년](https://ko.wikipedia.org/wiki/소년 "wikilink"), 특히 [미소년](https://ko.wikipedia.org/wiki/미소년 "wikilink") 사이의 연애(중년 사이도 포함)를 나타내는 단어로서, 성인의 연애의 경우 멘즈 러브(Men's love)라고 불리는 경우가 있었지만, 최근에는 포괄적으로 '여성향의 남성간 연애'를 가리킨다. 동양권에서는 **BL** 또는 '보이즈 러브(Boys love)', 영문권에서는 **Shonen-ai**()로 불리고 있다. 인터넷서점에서도 bl장르가 따로 생길정도로 10대 20대 사이의 여성들에게 인기를 끌고 있는 장르.
+**BL**(, )은 남성의 [동성애](../Page/동성애.md "wikilink")를 소재로 한 [여성향](https://ko.wikipedia.org/wiki/여성향 "wikilink") 만화, 소설, 게임 등의 장르이다. 10대의 [소년](https://ko.wikipedia.org/wiki/소년 "wikilink"), 특히 [미소년](https://ko.wikipedia.org/wiki/미소년 "wikilink") 사이의 연애를 나타내는 단어로서, 성인의 연애의 경우 멘즈 러브(Men's love)라고 불리는 경우가 있었지만, 최근에는 포괄적으로 '여성향의 남성간 연애'를 가리킨다. 동양권에서는 **BL** 또는 '보이즈 러브(Boys love)', 영문권에서는 **Shonen-ai**()로 불리고 있다. 인터넷서점에서도 bl장르가 따로 생길정도.
 
 ## 용어
 

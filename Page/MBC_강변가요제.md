@@ -152,8 +152,8 @@
 
 ## 역대 MC
 
-  - [1979년](../Page/1979년.md "wikilink") : [박원웅](https://ko.wikipedia.org/wiki/박원웅 "wikilink")
-  - [1981년](../Page/1981년.md "wikilink") : [박원웅](https://ko.wikipedia.org/wiki/박원웅 "wikilink")
+  - [1979년](../Page/1979년.md "wikilink") : [박원웅](../Page/박원웅.md "wikilink")
+  - [1981년](../Page/1981년.md "wikilink") : [박원웅](../Page/박원웅.md "wikilink")
   - [1982년](../Page/1982년.md "wikilink") : [이택림](../Page/이택림.md "wikilink"), [임예진](../Page/임예진.md "wikilink")
   - [1983년](../Page/1983년.md "wikilink") : [차인태](../Page/차인태.md "wikilink"), [홍광은](https://ko.wikipedia.org/wiki/홍광은 "wikilink")
   - [1984년](../Page/1984년.md "wikilink") : [이문세](../Page/이문세.md "wikilink"), [길은정](../Page/길은정.md "wikilink")

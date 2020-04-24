@@ -276,6 +276,6 @@
 
   - [MIX LEMONed JELLY 2008★feat.hide Birthday Party\!\!](https://web.archive.org/web/20161220193225/http://www.musicjapanplus.jp/articles/?action=article_data_list&articles_id=34%2F)
 
-  - [Yoshiki.net](http://www.yoshiki.net/)
+  - [Yoshiki.net](https://web.archive.org/web/20150718023400/http://www.yoshiki.net/)
 
 [X_JAPAN](https://ko.wikipedia.org/wiki/분류:X_JAPAN "wikilink") [분류:프로그레시브 메탈](https://ko.wikipedia.org/wiki/분류:프로그레시브_메탈 "wikilink") [분류:비주얼계 밴드](https://ko.wikipedia.org/wiki/분류:비주얼계_밴드 "wikilink") [분류:일본의 하드 록 밴드](https://ko.wikipedia.org/wiki/분류:일본의_하드_록_밴드 "wikilink") [분류:일본의 헤비 메탈 밴드](https://ko.wikipedia.org/wiki/분류:일본의_헤비_메탈_밴드 "wikilink") [분류:1982년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:1982년_결성된_음악_그룹 "wikilink") [분류:1997년 해체된 음악 그룹](https://ko.wikipedia.org/wiki/분류:1997년_해체된_음악_그룹 "wikilink") [분류:2007년 재결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2007년_재결성된_음악_그룹 "wikilink") [분류:일본의 록 밴드](https://ko.wikipedia.org/wiki/분류:일본의_록_밴드 "wikilink") [분류:일본의 음악 그룹](https://ko.wikipedia.org/wiki/분류:일본의_음악_그룹 "wikilink") [분류:NHK 홍백가합전 출연자](https://ko.wikipedia.org/wiki/분류:NHK_홍백가합전_출연자 "wikilink") [분류:소니 뮤직 엔터테인먼트 (일본)의 음악가](https://ko.wikipedia.org/wiki/분류:소니_뮤직_엔터테인먼트_\(일본\)의_음악가 "wikilink") [분류:워너 뮤직 재팬의 음악가](https://ko.wikipedia.org/wiki/분류:워너_뮤직_재팬의_음악가 "wikilink") [분류:유니버설 뮤직 (일본) 소속](https://ko.wikipedia.org/wiki/분류:유니버설_뮤직_\(일본\)_소속 "wikilink") [분류:일본 컬럼비아](https://ko.wikipedia.org/wiki/분류:일본_컬럼비아 "wikilink")

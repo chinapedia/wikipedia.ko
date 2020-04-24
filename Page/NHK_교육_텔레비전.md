@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [NHK 교육 텔레비전](https://ko.wikipedia.org/wiki/NHK_교육_텔레비전).
 
 
-[오른쪽](https://ko.wikipedia.org/wiki/파일:NHK_Educational_TV_logo.svg "wikilink") **NHK 교육 텔레비전**(NHK教育テレビジョン, NHK Eテレ)은 [일본방송협회](../Page/일본방송협회.md "wikilink")에서 운영하는 텔레비전 방송국중 하나이다.
+[오른쪽](https://ko.wikipedia.org/wiki/파일:NHKEテレロゴ2020-.png "wikilink") **NHK 교육 텔레비전**(NHK教育テレビジョン, NHK Eテレ)은 [일본방송협회](../Page/일본방송협회.md "wikilink")에서 운영하는 텔레비전 방송국중 하나이다.
 
 ## 개요
 

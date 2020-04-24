@@ -19,8 +19,9 @@
   - [꼬마숙녀 스트로베리](https://ko.wikipedia.org/wiki/꼬마숙녀_스트로베리 "wikilink") (EBS) - 애플
   - [놀이터 구조대, 뽀잉](https://ko.wikipedia.org/wiki/놀이터_구조대,_뽀잉 "wikilink") (EBS) - 엘루
   - [데스노트](../Page/데스노트.md "wikilink") (애니원) - 여학생, 여자
+  - [레고 시티 어드벤처](https://ko.wikipedia.org/wiki/레고_시티_어드벤처 "wikilink") - 개비
   - [레미제라블 소녀 코제트](https://ko.wikipedia.org/wiki/레미제라블_소녀_코제트 "wikilink") (애니원) - 샬롯
-  - [미라큘러스 레이디버그](https://ko.wikipedia.org/wiki/미라큘러스_레이디버그 "wikilink") - 알리야
+  - [미라큘러스: 레이디버그와 블랙캣](../Page/미라큘러스:_레이디버그와_블랙캣.md "wikilink") - 알리야
   - [디지몬 크로스워즈](../Page/디지몬_크로스워즈.md "wikilink") ([챔프](https://ko.wikipedia.org/wiki/챔프 "wikilink")) - 고마몬
   - [마스크 마스터즈](https://ko.wikipedia.org/wiki/마스크_마스터즈 "wikilink") (KBS) - 키로
   - [막내둥이 또또](https://ko.wikipedia.org/wiki/막내둥이_또또 "wikilink") (EBS)
@@ -102,6 +103,19 @@
   - [템플 기사단의 잃어버린 보물](https://ko.wikipedia.org/wiki/템플_기사단의_잃어버린_보물 "wikilink") (EBS) - 피 ([프리드리케 토마슨](https://ko.wikipedia.org/wiki/프리드리케_토마슨 "wikilink"))
   - [엘로이즈 크리스마스 대소동](https://ko.wikipedia.org/wiki/엘로이즈_크리스마스_대소동 "wikilink") (EBS) - 레이첼 ([사라 톱햄](https://ko.wikipedia.org/wiki/사라_톱햄 "wikilink"))
   - [뽀로로 극장판 공룡섬 대모험](../Page/뽀로로_극장판_공룡섬_대모험.md "wikilink") - 브리
+
+### 게임
+
+  - [그랜드체이스 오리진](../Page/그랜드체이스.md "wikilink") - 증오하는 자
+  - 데스티니 차일드 for Kakao- 타르타로스, 발키리, 페르세포네
+  - 디아블로 3 - 카달라
+  - [메이플스토리](../Page/메이플스토리.md "wikilink") - 에피네아, 아린, 용병(여), 무사(여), 엘레오노
+  - [엘소드](../Page/엘소드.md "wikilink") - 에코, 홍염의 요람 보스
+  - [월드 오브 워크래프트](../Page/월드_오브_워크래프트.md "wikilink") - 모이라 타우릿산, 알시아 이본로크
+  - 히어로즈 오브 더 스톰 - 정원 여왕, 카시아, 카티야 볼스카야
+  - 하얀고양이 프로젝트 - 제나 이시리스, 카렌 파블로바
+  - 오버워치 - 카티야 볼스카야
+  - 커츠펠
 
 ## 같이 보기
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [NBC](https://ko.wikipedia.org/wiki/NBC).
 
 
-**전미방송회사**()는 [미국](../Page/미국.md "wikilink")의 방송사로 [뉴욕 시](https://ko.wikipedia.org/wiki/뉴욕_시 "wikilink") [록펠러 센터의](../Page/록펠러_센터.md "wikilink") [GE 빌딩에](../Page/GE_빌딩.md "wikilink") 본사를 두고 있다. 현재 미디어 회사 [NBC유니버설](../Page/NBC유니버설.md "wikilink")에 속해있다. [1926년](../Page/1926년.md "wikilink") [11월 15일](../Page/11월_15일.md "wikilink") 라디오 방송을 시작했으며, [1938년](../Page/1938년.md "wikilink") [7월 1일](../Page/7월_1일.md "wikilink") 텔레비전 방송을 시작했다.
+**전미 방송 회사**(全美放送會社, )는 [미국](../Page/미국.md "wikilink")의 방송사로 [뉴욕 시](https://ko.wikipedia.org/wiki/뉴욕_시 "wikilink") [록펠러 센터의](../Page/록펠러_센터.md "wikilink") [GE 빌딩에](../Page/GE_빌딩.md "wikilink") 본사를 두고 있다. 현재 미디어 회사 [NBC유니버설](../Page/NBC유니버설.md "wikilink")에 속해있다. [1926년](../Page/1926년.md "wikilink") [11월 15일](../Page/11월_15일.md "wikilink") 라디오 방송을 시작했으며, [1938년](../Page/1938년.md "wikilink") [7월 1일](../Page/7월_1일.md "wikilink") 텔레비전 방송을 시작했다.
 
 ## 역사
 

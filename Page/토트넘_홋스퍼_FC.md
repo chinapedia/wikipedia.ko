@@ -132,7 +132,7 @@ Glory Glory Tottenham Hotspur 잉글랜드의 록밴드 Chas & Dave가 연주하
   - 2012  [안드레 빌라스-보아스](https://ko.wikipedia.org/wiki/안드레_빌라스-보아스 "wikilink")
   - 2013  [팀 셔우드](../Page/팀_셔우드.md "wikilink")
   - 2014  [마우리시오 포체티노](../Page/마우리시오_포체티노.md "wikilink")
-  - 2019  [조세 무리뉴](https://ko.wikipedia.org/wiki/조세_무리뉴 "wikilink")
+  - 2019  [조제 모리뉴](../Page/조제_모리뉴.md "wikilink")
 
 [섬네일로](https://ko.wikipedia.org/wiki/파일:Harry_Redknapp_2011_\(cropped\).jpg "wikilink") 진출시켰던 [해리 레드냅](../Page/해리_레드냅.md "wikilink") 전 감독.\]\]
 

@@ -63,6 +63,6 @@
 
 [분류:W3C 표준](https://ko.wikipedia.org/wiki/분류:W3C_표준 "wikilink") [분류:XML 기반 표준](https://ko.wikipedia.org/wiki/분류:XML_기반_표준 "wikilink") [분류:데이터 직렬화 포맷](https://ko.wikipedia.org/wiki/분류:데이터_직렬화_포맷 "wikilink")
 
-1.  [IBM 데이터파워](http://www-306.ibm.com/software/integration/datapower/xa35/)
+1.
 2.  [IBM 취리히 XML 가속 엔진](http://www.research.ibm.com/XML/IBM_Zurich_XML_Accelerator_Engine_paper_2004May04.pdf)
 3.  이수상, 디지털도서관 운영론. 서울: 한국도서관 협회. 2013. P.281

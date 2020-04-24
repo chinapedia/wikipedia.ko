@@ -47,7 +47,7 @@ CUDA 수준의 지원 GPU 및 카드이다. [엔비디아 웹사이트](http://d
 <th><p>지포스</p></th>
 <th><p>쿼드로</p></th>
 <th><p>테슬라</p></th>
-<th><p>Tegra</p></th>
+<th><p>기타</p></th>
 </tr>
 </thead>
 <tbody>
@@ -100,7 +100,7 @@ CUDA 수준의 지원 GPU 및 카드이다. [엔비디아 웹사이트](http://d
 <td><p>2.1</p></td>
 <td><p>GF104, GF106 GF108, GF114, GF116, GF117, GF119</p></td>
 <td><p>지포스 GTX 560 Ti, 지포스 GTX 550 Ti, 지포스 GTX 460, 지포스 GTS 450, 지포스 GTS 450*, 지포스 GT 640 (GDDR3), 지포스 GT 630, 지포스 GT 620, 지포스 GT 610, 지포스 GT 520, 지포스 GT 440, 지포스 GT 440*, 지포스 GT 430, 지포스 GT 430*, 지포스 GT 420*, 지포스 GTX 675M, 지포스 GTX 670M, 지포스 GT 635M, 지포스 GT 630M, 지포스 GT 625M, 지포스 GT 720M, 지포스 GT 620M, 지포스 710M, 지포스 610M, 지포스 820M, 지포스 GTX 580M, 지포스 GTX 570M, 지포스 GTX 560M, 지포스 GT 555M, 지포스 GT 550M, 지포스 GT 540M, 지포스 GT 525M, 지포스 GT 520MX, 지포스 GT 520M, 지포스 GTX 485M, 지포스 GTX 470M, 지포스 GTX 460M, 지포스 GT 445M, 지포스 GT 435M, 지포스 GT 420M, 지포스 GT 415M, 지포스 710M, 지포스 410M</p></td>
-<td><p>쿼드로 2000, 쿼드로 2000D, 쿼드로 600, 쿼드로 410, 쿼드로 4000M, 쿼드로 3000M, 쿼드로 2000M, 쿼드로 1000M, NVS 5400M, NVS 5200M, NVS 4200M</p></td>
+<td><p>쿼드로 2000, 쿼드로 2000D, 쿼드로 600, 쿼드로 410, 쿼드로 4000M, 쿼드로 3000M, 쿼드로 2000M, 쿼드로 1000M, NVS 5400M, NVS 5200M, NVS 4200M, 엔비디아 NVS 315, 엔비디아 NVS 310</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -110,7 +110,7 @@ CUDA 수준의 지원 GPU 및 카드이다. [엔비디아 웹사이트](http://d
 <td><p><a href="https://ko.wikipedia.org/wiki/케플러_(마이크로아키텍처)" title="wikilink">케플러</a></p></td>
 <td><p>GK104, GK106, GK107</p></td>
 <td><p>지포스 GTX 770, 지포스 GTX 760, 지포스 GT 740, 지포스 GTX 690, 지포스 GTX 680, 지포스 GTX 670, 지포스 GTX 660 Ti, 지포스 GTX 660, 지포스 GTX 650 Ti BOOST, 지포스 GTX 650 Ti, 지포스 GTX 650, 지포스 GTX 880M, 지포스 GTX 780M, 지포스 GTX 770M, 지포스 GTX 765M, 지포스 GTX 760M, 지포스 GTX 680MX, 지포스 GTX 680M, 지포스 GTX 675MX, 지포스 GTX 670MX, 지포스 GTX 660M, 지포스 GT 750M, 지포스 GT 650M, 지포스 GT 745M, 지포스 GT 645M, 지포스 GT 740M, 지포스 GT 730M, 지포스 GT 640M, 지포스 GT 640M LE, 지포스 GT 735M, 지포스 GT 730M</p></td>
-<td><p>쿼드로 K5000, 쿼드로 K4200, 쿼드로 K4000, 쿼드로 K2000, 쿼드로 K2000D, 쿼드로 K600, 쿼드로 K420, 쿼드로 K500M, 쿼드로 K510M, 쿼드로 K610M, 쿼드로 K1000M, 쿼드로 K2000M, 쿼드로 K1100M, 쿼드로 K2100M, 쿼드로 K3000M, 쿼드로 K3100M, 쿼드로 K4000M, 쿼드로 K5000M, 쿼드로 K4100M, 쿼드로 K5100M</p></td>
+<td><p>쿼드로 K5000, 쿼드로 K4200, 쿼드로 K4000, 쿼드로 K2000, 쿼드로 K2000D, 쿼드로 K600, 쿼드로 K420, 쿼드로 K500M, 쿼드로 K510M, 쿼드로 K610M, 쿼드로 K1000M, 쿼드로 K2000M, 쿼드로 K1100M, 쿼드로 K2100M, 쿼드로 K3000M, 쿼드로 K3100M, 쿼드로 K4000M, 쿼드로 K5000M, 쿼드로 K4100M, 쿼드로 K5100M, 엔비디아 NVS 510</p></td>
 <td><p>테슬라 K10, GRID K340, GRID K520</p></td>
 <td></td>
 </tr>
@@ -120,7 +120,7 @@ CUDA 수준의 지원 GPU 및 카드이다. [엔비디아 웹사이트](http://d
 <td></td>
 <td></td>
 <td></td>
-<td><p>Tegra K1</p></td>
+<td><p>Tegra K1, Jetson TK1</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -146,7 +146,7 @@ CUDA 수준의 지원 GPU 및 카드이다. [엔비디아 웹사이트](http://d
 <td><p><a href="https://ko.wikipedia.org/wiki/맥스웰_(마이크로아키텍처)" title="wikilink">맥스웰</a></p></td>
 <td><p>GM107, GM108</p></td>
 <td><p>지포스 GTX 750 Ti, 지포스 GTX 750, 지포스 GTX 960M, 지포스 GTX 950M, 지포스 940M, 지포스 930M, 지포스 GTX 860M, 지포스 GTX 850M, 지포스 845M, 지포스 840M, 지포스 830M</p></td>
-<td><p>쿼드로 K2200, 쿼드로 K1200, 쿼드로 K620, 쿼드로 M2000M, 쿼드로 M1000M, 쿼드로 M600M, 쿼드로 K620M</p></td>
+<td><p>쿼드로 K2200, 쿼드로 K1200, 쿼드로 K620, 쿼드로 M2000M, 쿼드로 M1000M, 쿼드로 M600M, 쿼드로 K620M, 엔비디아 NVS 810</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -173,44 +173,45 @@ CUDA 수준의 지원 GPU 및 카드이다. [엔비디아 웹사이트](http://d
 <td><p><a href="https://ko.wikipedia.org/wiki/파스칼_(마이크로아키텍처)" title="wikilink">파스칼</a></p></td>
 <td><p>GP100</p></td>
 <td></td>
-<td></td>
+<td><p>쿼드로 GP100</p></td>
 <td><p>테슬라 P100</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>6.1</p></td>
-<td><p>GP102, GP104, GP106</p></td>
-<td><p>엔비디아 타이탄 X, 지포스 GTX 1080, GTX 1070, GTX 1070 Ti, GTX 1060, GTX 1050, GTX 1050 Ti</p></td>
-<td><p>쿼드로 P6000, 쿼드로 P5000</p></td>
-<td></td>
+<td><p>GP102, GP104, GP106, GP107,</p>
+<p>GP108</p></td>
+<td><p>엔비디아 타이탄 X, 지포스 GTX 1080, GTX 1070, GTX 1070 Ti, GTX 1060, GTX 1050 Ti, GTX 1050</p></td>
+<td><p>쿼드로 P6000, 쿼드로 P5000, 쿼드로 P4000, 쿼드로 P2200, 쿼드로 P2000, 쿼드로 1000, 쿼드로 P620, 쿼드로 P600, 쿼드로 P400</p></td>
+<td><p>테슬라 P40, 테슬라 P4</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>6.2</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p>7.0</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/볼타_(마이크로아키텍처)" title="wikilink">볼타</a></p></td>
+<td><p>GV100</p></td>
+<td><p>엔비디아 타이탄 V</p></td>
+<td><p>쿼드로 GV100</p></td>
+<td><p>테슬라 V100</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>7.0</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/볼타_(마이크로아키텍처)" title="wikilink">볼타</a></p></td>
+<td><p>7.2</p></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
+<td><p>Jetson AGX Xavier</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>7.1</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p>7.5</p></td>
+<td><p>튜링</p></td>
+<td><p>TU102, TU104, TU106, TU116, TU117</p></td>
+<td><p>엔베디아 타이탄 RTX, 지포스 RTX 2080Ti, RTX 2080, RTX 2070, RTX 2060, 지포스 GTX 1660 Ti, GTX 1660, GTX 1650</p></td>
+<td><p>쿼드로 RTX 8000, 쿼드로 RTX 6000, 쿼드로 RTX 5000, 쿼드로 RTX 4000</p></td>
+<td><p>테슬라 T4</p></td>
 <td></td>
 </tr>
 <tr class="odd">

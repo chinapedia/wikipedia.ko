@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [R \(프로그래밍 언어\)](https://ko.wikipedia.org/wiki/R_\(프로그래밍_언어\)).
 
 
-**R**는 통계 계산과 그래픽을 위한 [프로그래밍 언어이자](../Page/프로그래밍_언어.md "wikilink") 소프트웨어 환경이다. [뉴질랜드](../Page/뉴질랜드.md "wikilink") [오클랜드 대학의](../Page/오클랜드_대학교.md "wikilink") 로버트 젠틀맨(Robert Gentleman)과 로스 이하카(Ross Ihaka)에 의해 시작되어 현재는 R 코어 팀이 개발하고 있다. R는 [GPL](https://ko.wikipedia.org/wiki/GPL "wikilink") 하에 배포되는 [S 프로그래밍 언어의](https://ko.wikipedia.org/wiki/S_\(프로그래밍_언어\) "wikilink") 구현으로 [GNU](../Page/GNU.md "wikilink") [S라고도](https://ko.wikipedia.org/wiki/S_\(프로그래밍_언어\) "wikilink") 한다. R는 통계 소프트웨어 개발과 자료 분석에 널리 사용되고 있으며, 패키지 개발이 용이해 통계 소프트웨어 개발에 많이 쓰이고 있다.
+**R**은 통계 계산과 그래픽을 위한 [프로그래밍 언어이자](../Page/프로그래밍_언어.md "wikilink") 소프트웨어 환경이자 [프리웨어](../Page/프리웨어.md "wikilink")이다. [뉴질랜드](../Page/뉴질랜드.md "wikilink") [오클랜드 대학의](../Page/오클랜드_대학교.md "wikilink") 로버트 젠틀맨(Robert Gentleman)과 로스 이하카(Ross Ihaka)에 의해 시작되어 현재는 R 코어 팀이 개발하고 있다. R는 [GPL](https://ko.wikipedia.org/wiki/GPL "wikilink") 하에 배포되는 [S 프로그래밍 언어의](https://ko.wikipedia.org/wiki/S_\(프로그래밍_언어\) "wikilink") 구현으로 [GNU](../Page/GNU.md "wikilink") [S라고도](https://ko.wikipedia.org/wiki/S_\(프로그래밍_언어\) "wikilink") 한다. R는 통계 소프트웨어 개발과 자료 분석에 널리 사용되고 있으며, 패키지 개발이 용이해 통계 소프트웨어 개발에 많이 쓰이고 있다.
 
 ## 소개
 
@@ -13,7 +13,7 @@ R의 또 다른 강점은 그래픽 기능으로 수학 기호를 포함할 수 
 
 R는 통계 계산과 소프트웨어 개발을 위한 환경이 필요한 통계학자와 연구자들 뿐만 아니라, [행렬](../Page/행렬.md "wikilink") 계산을 위한 도구로서도 사용될 수 있으며 이 부분에서 GNU Octave나 [MATLAB](../Page/MATLAB.md "wikilink")에 견줄 만한 결과를 보여준다.
 
-R는 윈도, 맥 OS 및 리눅스를 포함한 UNIX 플랫폼에서 이용 가능하다.
+R는 윈도, [맥 OS](https://ko.wikipedia.org/wiki/MacOS "wikilink") 및 [리눅스](../Page/리눅스.md "wikilink")를 포함한 [UNIX](../Page/유닉스.md "wikilink") 플랫폼에서 이용 가능하다.
 
 ### 처리속도
 

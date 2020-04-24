@@ -13,7 +13,7 @@
 
 ## 존속 당시 소속 방송인
 
-  - [김철민](https://ko.wikipedia.org/wiki/김철민 "wikilink") 캐스터
+  - [김철민](../Page/김철민_\(방송인\).md "wikilink") 캐스터
   - [이현주](https://ko.wikipedia.org/wiki/이현주 "wikilink") 캐스터
   - [박상현](../Page/박상현_\(1981년\).md "wikilink") 캐스터
   - [최상용](../Page/최상용.md "wikilink") 캐스터

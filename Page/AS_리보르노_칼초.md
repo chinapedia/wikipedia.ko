@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [AS 리보르노 칼초](https://ko.wikipedia.org/wiki/AS_리보르노_칼초).
 
 
-**AS 리보르노 칼초**(Associazione Sportiva Livorno Calcio SrL)는 [리보르노](../Page/리보르노.md "wikilink")에 위치한 [스타디오 아르만도 피키를](https://ko.wikipedia.org/wiki/스타디오_아르만도_피키 "wikilink") 근거로 하는 [이탈리아](../Page/이탈리아.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다. 현재 감독은 [다비데 니콜라이다](https://ko.wikipedia.org/wiki/다비데_니콜라 "wikilink"). 이 축구단은 [1915년](../Page/1915년.md "wikilink") 창단되었고 최근에는 [세리에 A에](../Page/세리에_A.md "wikilink") 참가중이다. 팀의 색깔은 암적색과 고동색(팀의 별명인 Amaranto도 여기서 유래함)이다. 세리에 A에서의 최고 성적은 선두였던 [토리노외](../Page/토리노_FC.md "wikilink") 경쟁하여 2위를 기록했던 1942-43 시즌이다.
+**A.S. 리보르노 칼초**(Associazione Sportiva Livorno Calcio S.r.l. )는 [리보르노](../Page/리보르노.md "wikilink")에 위치한 [스타디오 아르만도 피키를](https://ko.wikipedia.org/wiki/스타디오_아르만도_피키 "wikilink") 근거로 하는 [이탈리아](../Page/이탈리아.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다. 이 축구단은 [1915년](../Page/1915년.md "wikilink") 창단되었고 최근에는 [세리에 B에](../Page/세리에_B.md "wikilink") 참가중이다. 팀의 색깔은 암적색과 고동색(팀의 별명인 Amaranto도 여기서 유래함)이다. 세리에 A에서의 최고 성적은 선두였던 [토리노외](../Page/토리노_FC.md "wikilink") 경쟁하여 2위를 기록했던 1942-43 시즌이다.
 
 ## 역사
 

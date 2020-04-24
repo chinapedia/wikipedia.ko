@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [HEMU-430X](https://ko.wikipedia.org/wiki/HEMU-430X).
 
 
-**HEMU-430X**(**H**ighspeed **E**lectric **M**ultiple **U**nit - **430**km/h e**X**periment)는, [한국철도기술연구원](../Page/한국철도기술연구원.md "wikilink")(KRRI)의 주도로 [한국건설교통기술평가원](https://ko.wikipedia.org/wiki/한국건설교통기술평가원 "wikilink") 등이 참여하여 진행 중인 차기 [고속철도](../Page/고속철도.md "wikilink") 시제차량 제작 및 기술 개발 프로젝트다. 이전에는 **HEMU-400X**라는 이름을 사용하였으나, 이후 설계최고속도가 30 km/h 증가하면서 현재의 이름으로 바뀌었다.
+**HEMU-430X**(**H**ighspeed **E**lectric **M**ultiple **U**nit - **430**km/h e**X**periment)는 [한국철도기술연구원](../Page/한국철도기술연구원.md "wikilink")(KRRI)의 주도로 [한국건설교통기술평가원](https://ko.wikipedia.org/wiki/한국건설교통기술평가원 "wikilink") 등이 참여하여 진행 중인 차기 [고속철도](../Page/고속철도.md "wikilink") 시제차량 제작 및 기술 개발 프로젝트다. 이전에는 **HEMU-400X**라는 이름을 사용하였으나, 이후 설계최고속도가 30 km/h 증가하면서 현재의 이름으로 바뀌었다.
 
 영어로는 **HEMU**라고 쓰고, [한글](https://ko.wikipedia.org/wiki/한글 "wikilink")로는 **해무**라 쓴다. 한글 표기 **해무**에 대응되는 [한자](../Page/한자.md "wikilink") 표기에는 두 가지가 있다. 먼저 상서로운 바다 안개를 뜻하는 海霧와 빠르게 달린다는 韰騖가 그 뜻에 해당한다.\[1\]
 

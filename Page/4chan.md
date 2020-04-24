@@ -47,7 +47,7 @@
 
 ### /pol/
 
-/pol/ ([정치적 올바름](../Page/정치적_올바름.md "wikilink") (political correct)) 는 4chan의 [정치에](https://ko.wikipedia.org/wiki/정치_비판 "wikilink") 관해 토론하는 게시판이다. 이 게시판에 메인에 걸린 스레드에는 본 게시판의 의도된 목적은 뉴스, 월드 토픽, 정치적 이슈, 기타 관련 주제에 관해 토론하는 것이라 소개한다.\[57\] /pol/ 게시판은 이전에 존재했던 인종주의 관련 게시물이 너무 많아 2011년 1월에 삭제되었던 /new/ 게시판을\[58\] 10월에 4chan의 뉴스 게시판으로 재단장하여 만들어졌다.
+/pol/ ([정치적 올바름](../Page/정치적_올바름.md "wikilink") (political correct))는 4chan의 [정치에](https://ko.wikipedia.org/wiki/정치_비판 "wikilink") 관해 토론하는 게시판이다. 이 게시판에 메인에 걸린 스레드에는 본 게시판의 의도된 목적은 뉴스, 월드 토픽, 정치적 이슈, 기타 관련 주제에 관해 토론하는 것이라 소개한다.\[57\] /pol/ 게시판은 이전에 존재했던 인종주의 관련 게시물이 너무 많아 2011년 1월에 삭제되었던 /new/ 게시판을\[58\] 10월에 4chan의 뉴스 게시판으로 재단장하여 만들어졌다.
 
 언론들은 이 /pol/ 게시판을 거의 [인종차별주의](https://ko.wikipedia.org/wiki/인종차별주의 "wikilink")와 [성차별주의](https://ko.wikipedia.org/wiki/성차별주의 "wikilink") 성향을 띄며 [네오나치](https://ko.wikipedia.org/wiki/네오나치 "wikilink") 성향의 글들이 많이 올라온다고 규정한다.\[59\]\[60\]\[61\]\[62\] [남부빈곤법률센터](../Page/남부빈곤법률센터.md "wikilink")는 /pol/의 수사적 스타일을 [데일리 스토머와](https://ko.wikipedia.org/wiki/데일리_스토머 "wikilink") 같은 [백인지상주의](https://ko.wikipedia.org/wiki/백인지상주의 "wikilink") 웹사이트에서 영향을 받았다고 하였고 데일리 스토머의 편집자 앤드류 엔글린도 이에 동의하였다.\[63\]
 

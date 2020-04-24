@@ -11,7 +11,7 @@
 
 /\* global mw, $ \*/ /\* jshint strict:false, browser:true \*/
 
-mw.loader.using( \['mediawiki.user', 'mediawiki.util', 'mediawiki.notify'\] ).done( function () { /\* Begin of mw.loader.using callback \*/
+mw.loader.using( \['mediawiki.user', 'mediawiki.util'\] ).done( function () { /\* Begin of mw.loader.using callback \*/
 
 /\*\*
 

@@ -53,10 +53,10 @@
 <tr class="even">
 <td><p>4</p></td>
 <td><p>6월 7일</p></td>
-<td><p>누가 백만장자와 결혼하는가?</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/누가_백만장자와_결혼하는가?" title="wikilink">누가 백만장자와 결혼하는가</a></p></td>
 <td><p><a href="../Page/김상경.md" title="wikilink">김상경</a>, <a href="../Page/권이지_(배우).md" title="wikilink">권이지</a>, <a href="../Page/허영란.md" title="wikilink">허영란</a>, <a href="../Page/장태성_(배우).md" title="wikilink">장태성</a></p></td>
 <td><p>김윤영</p></td>
-<td></td>
+<td><p><a href="../Page/신창석.md" title="wikilink">신창석</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>5</p></td>
@@ -519,7 +519,7 @@
 <td><p>58</p></td>
 <td><p>8월 12일</p></td>
 <td><p>도시괴담 - 비명</p></td>
-<td><p><a href="../Page/박용우.md" title="wikilink">박용우</a>, <a href="../Page/김채연.md" title="wikilink">김채연</a>, <a href="../Page/안재환_(배우).md" title="wikilink">안재환</a>, <a href="https://ko.wikipedia.org/wiki/송수영_(배우)" title="wikilink">송수영</a>,<br />
+<td><p><a href="../Page/박용우.md" title="wikilink">박용우</a>, <a href="../Page/김채연.md" title="wikilink">김채연</a>, <a href="../Page/안재환_(배우).md" title="wikilink">안재환</a>, <a href="../Page/송수영_(배우).md" title="wikilink">송수영</a>,<br />
 <a href="../Page/재희.md" title="wikilink">이현균</a>, <a href="../Page/고호경.md" title="wikilink">고호경</a>, <a href="../Page/장태성_(배우).md" title="wikilink">장태성</a>, <a href="../Page/김재인.md" title="wikilink">김재인</a>,<br />
 <a href="../Page/김기현_(성우).md" title="wikilink">김기현</a>, <a href="../Page/유태웅.md" title="wikilink">유태웅</a></p></td>
 <td></td>
@@ -644,7 +644,7 @@
 <td><p>12월 2일</p></td>
 <td><p>동행</p></td>
 <td><p><a href="../Page/최수린.md" title="wikilink">최수린</a>, <a href="../Page/김승환_(배우).md" title="wikilink">김승환</a>, <a href="../Page/임채원.md" title="wikilink">임경옥</a>, <a href="../Page/이한위.md" title="wikilink">이한위</a>,<br />
-<a href="https://ko.wikipedia.org/wiki/이원희_(배우)" title="wikilink">이원희</a>, <a href="https://ko.wikipedia.org/wiki/송수영_(배우)" title="wikilink">송수영</a></p></td>
+<a href="https://ko.wikipedia.org/wiki/이원희_(배우)" title="wikilink">이원희</a>, <a href="../Page/송수영_(배우).md" title="wikilink">송수영</a></p></td>
 <td><p>전보경</p></td>
 <td><p>전기상</p></td>
 </tr>
@@ -853,7 +853,7 @@
 <td><p>95</p></td>
 <td><p>5월 26일</p></td>
 <td><p><a href="../Page/잘가요_내_사랑.md" title="wikilink">잘가요 내사랑</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/김승수" title="wikilink">김승수</a>, <a href="../Page/김현수.md" title="wikilink">김현수</a>, <a href="https://ko.wikipedia.org/wiki/우승" title="wikilink">우승</a>, <a href="../Page/이휘향.md" title="wikilink">이휘향</a>,<br />
+<td><p><a href="../Page/김승수_(배우).md" title="wikilink">김승수</a>, <a href="../Page/김현수.md" title="wikilink">김현수</a>, <a href="https://ko.wikipedia.org/wiki/우승" title="wikilink">우승</a>, <a href="../Page/이휘향.md" title="wikilink">이휘향</a>,<br />
 <a href="../Page/이재포.md" title="wikilink">이재포</a>, <a href="https://ko.wikipedia.org/wiki/지우" title="wikilink">지우</a>, <a href="../Page/윤혜경.md" title="wikilink">윤혜경</a></p></td>
 <td><p>김현수</p></td>
 <td><p>지영수</p></td>
@@ -1783,7 +1783,7 @@
 <td><p>194</p></td>
 <td><p>6월 20일</p></td>
 <td><p>행운 반납</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/이상우" title="wikilink">이상우</a>, <a href="../Page/조은숙.md" title="wikilink">조은숙</a>, <a href="../Page/조병기.md" title="wikilink">조병기</a>, <a href="https://ko.wikipedia.org/wiki/김기현" title="wikilink">김기현</a>,<br />
+<td><p><a href="https://ko.wikipedia.org/wiki/이상우" title="wikilink">이상우</a>, <a href="../Page/조은숙.md" title="wikilink">조은숙</a>, <a href="../Page/조병기.md" title="wikilink">조병기</a>, <a href="../Page/김기현_(성우).md" title="wikilink">김기현</a>,<br />
 <a href="../Page/노현희.md" title="wikilink">노현희</a></p></td>
 <td><p>송예진</p></td>
 <td><p>한철경</p></td>
@@ -2814,7 +2814,7 @@
 <td><p>308</p></td>
 <td><p>12월 9일</p></td>
 <td><p>일주일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/윤상현" title="wikilink">윤상현</a>, <a href="../Page/김상원_(1974년).md" title="wikilink">김상원</a>, <a href="https://ko.wikipedia.org/wiki/이승채" title="wikilink">이승채</a>, <a href="../Page/김효원.md" title="wikilink">김효원</a>,<br />
+<td><p><a href="../Page/윤상현_(배우).md" title="wikilink">윤상현</a>, <a href="../Page/김상원_(1974년).md" title="wikilink">김상원</a>, <a href="https://ko.wikipedia.org/wiki/이승채" title="wikilink">이승채</a>, <a href="../Page/김효원.md" title="wikilink">김효원</a>,<br />
 <a href="https://ko.wikipedia.org/wiki/이승호" title="wikilink">이승호</a>, <a href="../Page/조경희.md" title="wikilink">조경희</a>, <a href="../Page/윤순홍.md" title="wikilink">윤순홍</a></p></td>
 <td><p>김의권</p></td>
 <td><p>문영진</p></td>

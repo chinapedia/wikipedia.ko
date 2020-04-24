@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [자바 EE 버전 역사](https://ko.wikipedia.org/wiki/자바_EE_버전_역사).
 
 
-[자바 플랫폼, 엔터프라이즈 에디션](../Page/자바_플랫폼,_엔터프라이즈_에디션.md "wikilink") 또는 Java EE (이전에는 J2EE라 불리었음) 는 버전 1.0 부터 수많은 새로운 사양의 추가로 인해 여러 번의 개정이 있었다.
+[자바 플랫폼, 엔터프라이즈 에디션](../Page/자바_플랫폼,_엔터프라이즈_에디션.md "wikilink") 또는 Java EE (이전에는 J2EE라 불리었음)는 버전 1.0 부터 수많은 새로운 사양의 추가로 인해 여러 번의 개정이 있었다.
 
 ## JPE (1998년 5월)
 
@@ -110,7 +110,7 @@ JPE 프로젝트 선언
   - [JAXB](../Page/JAXB.md "wikilink") (Java Architecture for XML Binding, JAXB), 버전 2.0
   - [SAAJ](https://ko.wikipedia.org/wiki/SAAJ "wikilink") (SOAP with Attachments API for Java, SAAJ), 버전 1.3
   - Web Services Metadata for the Java Platform, 버전 2.0
-  - [StAX](https://ko.wikipedia.org/wiki/StAX "wikilink") (Streaming API for XML, StAX), 버전 1.0
+  - [StAX](../Page/StAX.md "wikilink") (Streaming API for XML, StAX), 버전 1.0
 
 ## Java EE 6 (2008년)
 

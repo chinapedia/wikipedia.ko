@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [J-pop](https://ko.wikipedia.org/wiki/J-pop).
 
 
-[섬네일은](https://ko.wikipedia.org/wiki/파일:130413_AKB48_at_Tokyo_Auto_Salon_Singapore_Meet_&_Greet_2_and_Performance_\(7\).jpg "wikilink") 2010년 이후 발매하는 모든 싱글 앨범을 [오리콘](../Page/오리콘.md "wikilink") 주간 싱글차트 1위에 올리고 있다.\]\] **J-POP**은 일본 대중가요에서 비교적 쉽게 감상할 수 있도록 제작된 음악기획물을 총칭한 [장르](https://ko.wikipedia.org/wiki/장르 "wikilink")이다. [라디오](../Page/라디오.md "wikilink") 방송국 [J-WAVE](../Page/J-WAVE.md "wikilink")에서 만들어진 용어다.
+[섬네일은](https://ko.wikipedia.org/wiki/파일:130413_AKB48_at_Tokyo_Auto_Salon_Singapore_Meet_&_Greet_2_and_Performance_\(7\).jpg "wikilink") 2010년 이후 발매하는 모든 싱글 앨범을 [오리콘](../Page/오리콘.md "wikilink") 주간 싱글차트 1위에 올리고 있다.\]\] **J-pop**은 일본 대중가요에서 비교적 쉽게 감상할 수 있도록 제작된 음악기획물을 총칭한 [장르](https://ko.wikipedia.org/wiki/장르 "wikilink")이다. [라디오](../Page/라디오.md "wikilink") 방송국 [J-WAVE](../Page/J-WAVE.md "wikilink")에서 만들어진 용어다.
 
 ## 역사와 개념
 

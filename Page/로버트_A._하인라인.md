@@ -93,7 +93,7 @@
 <td><p>1950</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/우주의_개척자" title="wikilink">우주의 개척자</a></p></td>
 <td><p><em>Farmer in the Sky</em></p></td>
-<td><p>2014년 <a href="https://ko.wikipedia.org/wiki/불새" title="wikilink">불새</a>에서 <a href="https://ko.wikipedia.org/wiki/안태민" title="wikilink">안태민</a> 번역으로 출간</p></td>
+<td><p>2014년 <a href="https://ko.wikipedia.org/wiki/불새_(출판사)" title="wikilink">불새에서</a> <a href="https://ko.wikipedia.org/wiki/안태민" title="wikilink">안태민</a> 번역으로 출간</p></td>
 </tr>
 <tr class="even">
 <td><p>1951</p></td>

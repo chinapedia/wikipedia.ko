@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [AUTS](https://ko.wikipedia.org/wiki/AUTS).
 
 
-**AUTS**(**A**dvanced **U**rban **T**ransit **S**ystem, 가칭)는, [한국철도기술연구원](../Page/한국철도기술연구원.md "wikilink")의 주도로 개발된 한국형 차세대 [전동차](https://ko.wikipedia.org/wiki/전동차 "wikilink") 혹은 그 시스템을 뜻한다. 이하에서는 차량에 대해 서술한다.
+**AUTS**(**A**dvanced **U**rban **T**ransit **S**ystem, 가칭)는 [한국철도기술연구원](../Page/한국철도기술연구원.md "wikilink")의 주도로 개발된 한국형 차세대 [전동차](https://ko.wikipedia.org/wiki/전동차 "wikilink") 혹은 그 시스템을 뜻한다. 이하에서는 차량에 대해 서술한다.
 
 ## 개요
 

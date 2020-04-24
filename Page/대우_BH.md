@@ -9,7 +9,7 @@
 
 ## 세부 종류
 
-#### BH090 로얄 스타 ([2002년](../Page/2002년.md "wikilink") \~ [2020년](../Page/2020년.md "wikilink"))
+#### BH090 로얄 스타 ([2002년](../Page/2002년.md "wikilink") \~ 현재)
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:BH090.JPG "wikilink") [2000년](../Page/2000년.md "wikilink") [대우 BM090 로얄미디를](../Page/대우_BM.md "wikilink") 고급형과 도시형([BS090 로얄미디](../Page/자일대우_BS.md "wikilink"))으로 나누면서 생산된 모델로, 국내에서 유일한 9m짜리 미디엄급 고급 [버스](../Page/버스.md "wikilink") 모델이다. 출시 당시 DE08Tis [엔진](https://ko.wikipedia.org/wiki/엔진 "wikilink")을 장착하였으나, [2004년](../Page/2004년.md "wikilink") 유로3 환경규제에 대응하기 위해 DL08 [엔진](https://ko.wikipedia.org/wiki/엔진 "wikilink")으로 변경하였고, [2008년](../Page/2008년.md "wikilink") 유로4 환경규제에 대응하기 위해 DL06[엔진](https://ko.wikipedia.org/wiki/엔진 "wikilink")을 기본으로 하되, DL08 [엔진](https://ko.wikipedia.org/wiki/엔진 "wikilink")을 옵션사향으로 선택할 수 있도록 변경하였다. [2011년 3월](../Page/2011년_3월.md "wikilink") 가격표 개정에도 불구하고 여전히 DL06K [엔진](https://ko.wikipedia.org/wiki/엔진 "wikilink")을 기본으로 하되, 옵션으로 DL08K [엔진](https://ko.wikipedia.org/wiki/엔진 "wikilink")을 적용할 수 있다. [2015년](../Page/2015년.md "wikilink")부터는 두산인프라코어가 유로6 엔진 개발을 중지하였기에 커민스 ISBe엔진을 사용하고 있다.
 
@@ -117,7 +117,7 @@ BV113 시리즈의 대체 모델\[1\]로 [1987년](../Page/1987년.md "wikilink"
 
 ##### BH115E 로얄이코노미
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:Daewoo_BH115E_53N-4135.JPG "wikilink") BH113 로얄 에이스의 대체모델로, [1998년](../Page/1998년.md "wikilink")부터 [2007년](../Page/2007년.md "wikilink")까지 생산된 11.5미터급 스탠더드 데크 최하급 모델이다. 판 스프링 서스펜션을 사용하였으며, [2004년](../Page/2004년.md "wikilink") 후반부터는 DL08 커먼레일 엔진으로, [2006년](../Page/2006년.md "wikilink")부터 후면 디자인을 변경한 **BH115E 로얄이코노미Ⅱ** 모델로 단종될 때 까지 출고되었다. [BS106 로얄 시티와](../Page/자일대우_BS.md "wikilink") 함께 장의차 업계에서 많이 찾던 차종이다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:Daewoo_BH115E_53N-4135.JPG "wikilink") BH113 로얄 에이스의 대체모델로, [1998년](../Page/1998년.md "wikilink")부터 [2007년](../Page/2007년.md "wikilink")까지 생산된 11.5미터급 스탠더드 데크 최하급 모델이다. 판 스프링 서스펜션을 사용하였으며, [2004년](../Page/2004년.md "wikilink") 후반부터는 DL08 커먼레일 엔진으로, [2006년](../Page/2006년.md "wikilink")부터 후면 디자인을 변경한 **BH115E 로얄이코노미Ⅱ** 모델로 단종될 때까지 출고되었다. [BS106 로얄 시티와](../Page/자일대우_BS.md "wikilink") 함께 장의차 업계에서 많이 찾던 차종이다.
 
 ###### 천연가스 모델을 운영중이거나 과거에 보유했던 업체
 
@@ -242,7 +242,7 @@ BV113 시리즈의 대체 모델\[1\]로 [1987년](../Page/1987년.md "wikilink"
 
 #### BH119H 로얄 스페셜 ([2003년](../Page/2003년.md "wikilink") \~ [2007년](../Page/2007년.md "wikilink"))
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:경원여행사_대우버스_BH119_로얄스페셜Ⅱ_디젤_2007년식_앞면.JPG "wikilink") [2003년](../Page/2003년.md "wikilink") [대우버스](https://ko.wikipedia.org/wiki/대우버스 "wikilink") 출범 이후 출시한 12미터급 준고상형 모델이다. [2003년](../Page/2003년.md "wikilink")부터 [2007년](../Page/2007년.md "wikilink")까지 짧은 기간 동안 생산되었기 때문에 그 수는 많지 않다. 초기 모델은 DE12Tis (360마력) 엔진을 얹었으나, [2004년](../Page/2004년.md "wikilink") 후반부터 유로3 기준이 적용된 커먼레일 엔진인 DV11 (360마력) 엔진을 얹었다. [2006년](../Page/2006년.md "wikilink") [4월](../Page/4월.md "wikilink")부터 **로얄 스페셜Ⅱ**로 페이스리프트해서 판매하다가 이는 일명 **팬더곰**이라고 불렸고, 후속인 **FX120 크루징스타**의 등장으로 [2007년](../Page/2007년.md "wikilink") [12월](../Page/12월.md "wikilink") 에 단종되었다. 현재 이 차종을 운행하는 회사는 [코리아와이드경북](../Page/코리아와이드경북.md "wikilink"), [삼흥고속](../Page/삼흥고속.md "wikilink"), [강원여객](../Page/강원여객.md "wikilink"), [태화상운이다](../Page/태화상운_\(안산시\).md "wikilink")
+[섬네일](https://ko.wikipedia.org/wiki/파일:경원여행사_대우버스_BH119_로얄스페셜Ⅱ_디젤_2007년식_앞면.JPG "wikilink") [2003년](../Page/2003년.md "wikilink") [대우버스](https://ko.wikipedia.org/wiki/대우버스 "wikilink") 출범 이후 출시한 12미터급 준고상형 모델이다. [2003년](../Page/2003년.md "wikilink")부터 [2007년](../Page/2007년.md "wikilink")까지 짧은 기간 동안 생산되었기 때문에 그 수는 많지 않다. 초기 모델은 DE12Tis (360마력) 엔진을 얹었으나, [2004년](../Page/2004년.md "wikilink") 후반부터 유로3 기준이 적용된 커먼레일 엔진인 DV11 (360마력) 엔진을 얹었다. [2006년](../Page/2006년.md "wikilink") [4월](../Page/4월.md "wikilink")부터 **로얄 스페셜Ⅱ**로 페이스리프트해서 판매하다가 이는 일명 **팬더곰**이라고 불렸고, 후속인 **FX120 크루징스타**의 등장으로 [2007년](../Page/2007년.md "wikilink") [12월](../Page/12월.md "wikilink")에 단종되었다. 현재 이 차종을 운행하는 회사는 [코리아와이드경북](../Page/코리아와이드경북.md "wikilink"), [삼흥고속](../Page/삼흥고속.md "wikilink"), [강원여객](../Page/강원여객.md "wikilink"), [태화상운이다](../Page/태화상운_\(안산시\).md "wikilink")
 
 {{-}}
 

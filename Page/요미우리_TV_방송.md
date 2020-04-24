@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [요미우리 TV 방송](https://ko.wikipedia.org/wiki/요미우리_TV_방송).
 
 
-**요미우리 TV 방송**(読売テレビ放送, Yomiuri Telecasting Corporation, Inc.)는 [긴키](https://ko.wikipedia.org/wiki/긴키 "wikilink") 광역권의 민영 텔레비전 [방송사](https://ko.wikipedia.org/wiki/방송사 "wikilink")로 약칭은 **ytv**,호출부호는 **JOIX-DTV**이다.
+**요미우리 TV 방송**(読売テレビ放送, Yomiuri Telecasting Corporation, Inc.)는 [긴키](https://ko.wikipedia.org/wiki/긴키 "wikilink") 광역권의 민영 텔레비전 [방송사](https://ko.wikipedia.org/wiki/방송사 "wikilink")로 약칭은 **ytv**, 호출부호는 **JOIX-DTV**이다.
 
 ## 연혁
 

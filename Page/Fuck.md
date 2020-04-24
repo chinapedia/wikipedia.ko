@@ -42,7 +42,7 @@
 
 ### [한국어](../Page/한국어.md "wikilink")
 
-[대한민국](../Page/대한민국.md "wikilink")에서는 영어와 달리 Fuck 으로만 쓰이는 경우는 극히 드물며 공식적으로 국어사전에 등재된 표현도 아니다.\[4\] 또한 공식적인 한글 표기도 정해지지 않았다. Fuck으로 쓰이는 대신 뒤에 You를 붙여서 **퍽큐**, **퍼크유**, **퍽유**, **뻑큐**, **뻐크유**, **뻑유**, **뻐큐**, **빡큐**, **빡유**, **빠큐**, **빠크유**, **박규**, **법규**, **벅규** 등으로 부르는 것이 일반적이다. 약한 표현으로는 ‘엿 먹이다’를 사용하며, 인터넷 문화에서는 '[ㅗ](https://ko.wikipedia.org/wiki/ㅗ#인터넷_은어 "wikilink")', '凸', '昌'과 그에 따른 변형 [이모티콘](../Page/이모티콘.md "wikilink")이나, 특수 문자가 쓰인다. 그리고 유사한 표현으로 씨발이 있다.
+[대한민국](../Page/대한민국.md "wikilink")에서는 영어와 달리 Fuck으로만 쓰이는 경우는 극히 드물며 공식적으로 [표준국어대사전](../Page/표준국어대사전.md "wikilink")에 등재된 표현도 아니다. 공식적인 한글 표기도 정해지지 않았다.\[4\] 대신 ‘Fuck you’를 [음차](https://ko.wikipedia.org/wiki/음차 "wikilink")하여 **퍽큐**, **뻑큐**, **뻐큐**, **법규** 등으로 부르는 것이 일반적이다. 약한 표현으로는 ‘엿 먹이다’를 사용하며, 인터넷 문화에서는 '[ㅗ](https://ko.wikipedia.org/wiki/ㅗ#인터넷_은어 "wikilink")', '凸', '昌'과 그에 따른 변형 [이모티콘](../Page/이모티콘.md "wikilink")이나, 특수 문자가 쓰인다. 유사한 표현으로 ‘씨발’이 있다.
 
 ### [프랑스어](../Page/프랑스어.md "wikilink")
 
@@ -86,6 +86,7 @@ mierda, cabron
 
   - [가운뎃손가락](https://ko.wikipedia.org/wiki/가운뎃손가락 "wikilink")
   - [가운뎃손가락 (제스처)](https://ko.wikipedia.org/wiki/가운뎃손가락_\(제스처\) "wikilink")
+  - [Fucking](../Page/푸킹.md "wikilink") (지명)
 
 ## 각주
 
@@ -100,5 +101,5 @@ mierda, cabron
 1.
 2.  Expletive Deleted - A good look at bad language" by Ruth Wajnryb, Copyright 2005, published by Freedom of the press
 3.  [Fuck - Definition: WordIQ.com](http://www.wordiq.com/definition/Fuck)
-4.  [네이버 국어사전 검색 결과](http://dic.naver.com/search.nhn?target=dic&query=%ED%8D%BD&ie=utf8&query_utf=&isOnlyViewEE=)
+4.
 5.

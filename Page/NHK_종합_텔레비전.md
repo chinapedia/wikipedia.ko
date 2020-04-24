@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [NHK 종합 텔레비전](https://ko.wikipedia.org/wiki/NHK_종합_텔레비전).
 
 
-[오른쪽](https://ko.wikipedia.org/wiki/파일:NHK_General_TV_logo.svg "wikilink") **NHK 종합 텔레비전**(, )은 [일본방송협회](../Page/일본방송협회.md "wikilink")에서 운영하는 텔레비전 방송국중 하나이다.
+[오른쪽](https://ko.wikipedia.org/wiki/파일:NHK総合ロゴ2020-.png "wikilink") **NHK 종합 텔레비전**(, )은 [일본방송협회](../Page/일본방송협회.md "wikilink")에서 운영하는 텔레비전 방송국중 하나이다.
 
 ## 개요
 

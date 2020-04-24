@@ -225,7 +225,7 @@
 주말 10분</p></td>
 <td><p>평일 밤 9시 30분 ~ 9시 45분<br />
 주말 밤 9시 20분 ~ 9시 30분</p></td>
-<td><p><a href="../Page/김평래.md" title="wikilink">김평래</a> 주말 무작위</p></td>
+<td><p><a href="../Page/김평래.md" title="wikilink">김평래</a>, <a href="https://ko.wikipedia.org/wiki/배소빈" title="wikilink">배소빈</a> 주말 무작위</p></td>
 </tr>
 </tbody>
 </table>
@@ -300,23 +300,24 @@
 
 ### 남성
 
-  - [김무중](https://ko.wikipedia.org/wiki/김무중 "wikilink") (퇴사)
-  - [박인필](https://ko.wikipedia.org/wiki/박인필 "wikilink") (퇴사)
-  - [송기만](https://ko.wikipedia.org/wiki/송기만 "wikilink") (퇴사)
-  - [김경동](../Page/김경동.md "wikilink") (퇴사)
+  - 김무중 (퇴사)
+  - 박인필 (퇴사)
+  - 송기만 (퇴사)
+  - 김경동 (퇴사)
   - (故)[장기범](../Page/장기범.md "wikilink") (퇴사)
-  - [김병래](https://ko.wikipedia.org/wiki/김병래 "wikilink")(1969 \~ 2007, 아나운서부장,전 심의실 부장, 정년퇴직)
+  - 김운대 (퇴사)
   - [박용호](../Page/박용호_\(1947년\).md "wikilink")(1974 \~ 1975, 전 KBS서울본국, 전 정치인, 전 국회의원)
+  - 김병래(1976 \~ 2004, 아나운서부장, 전 심의실 부장, 정년퇴직)
   - [왕종근](../Page/왕종근.md "wikilink")(1980 \~ 1994, 전 [동양방송](../Page/동양방송.md "wikilink") 부산지국 아나운서, 전 KBS서울본국, 현 방송인)
-  - [조계식](https://ko.wikipedia.org/wiki/조계식 "wikilink")(1980 \~ 1998, 아나운서부장 정년퇴임, 전 [동양방송](../Page/동양방송.md "wikilink") 부산지국 아나운서)
-  - [김석재](https://ko.wikipedia.org/wiki/김석재 "wikilink")(1991 \~ 2000, 현 SBS기자)
+  - 조계식(1980 \~ 1998, 전 [동양방송](../Page/동양방송.md "wikilink") 부산지국 아나운서, 아나운서부장 정년퇴임)
+  - 김석재(1991 \~ 2000, 현 SBS기자)
   - [정용조](https://ko.wikipedia.org/wiki/정용조 "wikilink")(1993 \~ 1999, 전 KBS울산)
   - [성세정](../Page/성세정.md "wikilink")(1993 \~ 1994, 현 KBS서울본국)
   - [장두희](https://ko.wikipedia.org/wiki/장두희 "wikilink")(1993 \~ 1994, 현 KBS서울본국, 타 부서 이동)
   - [조건진](../Page/조건진.md "wikilink")(1994 \~ 1995, 전 KBS서울본국)
   - [한상권](../Page/한상권_\(방송인\).md "wikilink")(1995 \~ 1996, 현 KBS서울본국)
   - [오태훈](../Page/오태훈.md "wikilink")(1997 \~ 1998, 현 KBS서울본국)
-  - [이형걸](../Page/이형걸.md "wikilink")(1997 \~ 1998, 현 KBS춘천총국)
+  - [이형걸](../Page/이형걸.md "wikilink")(1997 \~ 1998, 현 KBS서울총국)
   - (故)[박태남](../Page/박태남.md "wikilink")(2000 \~ 2001, 전 KBS서울본국)
   - [김현욱](../Page/김현욱_\(방송인\).md "wikilink")(2000 \~ 2001, 전 KBS서울본국)
   - [김홍성](../Page/김홍성.md "wikilink")(2001 \~ 2002, 현 KBS서울본국)
@@ -326,11 +327,12 @@
 
 ### 여성
 
-  - [김정림](https://ko.wikipedia.org/wiki/김정림 "wikilink") (퇴사)
-  - [김경자](https://ko.wikipedia.org/wiki/김경자 "wikilink") (퇴사)
-  - [채연식](https://ko.wikipedia.org/wiki/채연식 "wikilink") (퇴사)
-  - [이해선](https://ko.wikipedia.org/wiki/이해선_\(아나운서\) "wikilink") (퇴사)
+  - 김정림 (퇴사)
+  - 김경자 (퇴사)
+  - 채연식 (퇴사)
+  - 이해선 (퇴사)
   - 강미란 (퇴사)
+  - 송광자 (퇴사)
   - 전옥수(1980 \~ 1991, 전 [동양방송](../Page/동양방송.md "wikilink") 부산지국 아나운서, 전 KBS청주총국)
   - [김미균](https://ko.wikipedia.org/wiki/김미균 "wikilink")(1985 \~ 1990, 전 KBS진주)
   - [선우경](https://ko.wikipedia.org/wiki/선우경 "wikilink")(1994 \~ 1997, 전 [iTV 경인방송](../Page/경인방송.md "wikilink") 아나운서, 현 방송인)
@@ -352,7 +354,7 @@
   - [장수연](../Page/장수연.md "wikilink")(2007 \~ 2012, 현 KBS서울본국)
   - [손지민](https://ko.wikipedia.org/wiki/손지민 "wikilink")(2010 \~ 2011, 전 KBS포항국, 현 KBS대구총국)
   - [김민정](../Page/김민정_\(1987년\).md "wikilink")(2012 \~ 2013, 전 KBS서울본국, 현 방송인)
-  - [문명희](https://ko.wikipedia.org/wiki/문명희 "wikilink")(2012 \~ 2013, 현 KBS대전총국 작가)
+  - 문명희(2012 \~ 2013, 현 KBS대전총국 작가)
 
 ## [기상캐스터](https://ko.wikipedia.org/wiki/기상캐스터 "wikilink")
 

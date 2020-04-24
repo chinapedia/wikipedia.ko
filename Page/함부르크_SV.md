@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [함부르크 SV](https://ko.wikipedia.org/wiki/함부르크_SV).
 
 
-**함부르거 슈포르트-페어라인 e. V.** (Hamburger Sport-Verein e. V.)는 [독일](../Page/독일.md "wikilink") [함부르크](../Page/함부르크.md "wikilink")에 위치한 스포츠 클럽이며, 가장 큰 부서는 [축구](../Page/축구.md "wikilink")이다. 이 팀은 [독일](../Page/독일.md "wikilink") 내에서 가장 오래되고, 가장 잘 알려져 있고, 가장 좋은 역량을 가지고 있었다. 1차 세계대전 이후 줄곧 1부리그에만 속해 있었으며, 1963년 [분데스리가](../Page/분데스리가.md "wikilink")가 출범한 이래 2018년 구단 사상 최초로 [2. 분데스리가로](../Page/2._분데스리가.md "wikilink") 강등될 때 까지 [1. 분데스리가에만](https://ko.wikipedia.org/wiki/1._분데스리가 "wikilink") 머물러 있었던 유일한 클럽이기도 하였다.
+**함부르거 슈포르트-페어라인 e. V.** (Hamburger Sport-Verein e. V.)는 [독일](../Page/독일.md "wikilink") [함부르크](../Page/함부르크.md "wikilink")에 위치한 스포츠 클럽이며, 가장 큰 부서는 [축구](../Page/축구.md "wikilink")이다. 이 팀은 [독일](../Page/독일.md "wikilink") 내에서 가장 오래되고, 가장 잘 알려져 있고, 가장 좋은 역량을 가지고 있었다. 1차 세계대전 이후 줄곧 1부리그에만 속해 있었으며, 1963년 [분데스리가](../Page/분데스리가.md "wikilink")가 출범한 이래 2018년 구단 사상 최초로 [2. 분데스리가로](../Page/2._분데스리가.md "wikilink") 강등될 때까지 [1. 분데스리가에만](https://ko.wikipedia.org/wiki/1._분데스리가 "wikilink") 머물러 있었던 유일한 클럽이기도 하였다.
 
 1970년 이래, HSV는 여러 차례의 우승 경력을 쌓아 올렸다. 1976년, 그들은 [DFB-포칼](../Page/DFB-포칼.md "wikilink") 우승 뒤 [UEFA 컵 위너스 컵](https://ko.wikipedia.org/wiki/UEFA_컵_위너스_컵 "wikilink") 우승을 쟁취하였다. 1979년 첫 분데스리가 타이틀 획득 뒤, 1980년에 [FC 바이에른 뮌헨에](../Page/FC_바이에른_뮌헨.md "wikilink") 승점 2점차로 준우승한뒤 팀의 슈퍼스타 [펠릭스 마가트에](../Page/펠릭스_마가트.md "wikilink") 힘입어 1982년과 1983년에 2연패를 하였다. 1983년에는 리그 타이틀 외에도 [유벤투스 FC를](../Page/유벤투스_FC.md "wikilink") [유러피언컵](../Page/UEFA_챔피언스리그.md "wikilink") 결승에서 1-0으로 물리치며 첫 빅이어를 들어올렸고, 1987년에는 또다른 [DFB-포칼](../Page/DFB-포칼.md "wikilink")을 들어올렸다.
 

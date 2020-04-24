@@ -8,7 +8,7 @@ CTV가 소유한 방송국 중에 CTV 글로브 미디어는 캐나다에서 가
 ## 외부 링크
 
   - [CTV 공식 웹사이트](http://www.ctv.ca)
-  - [CTV 글로브 미디어](http://www.ctvglobemedia.com)
+  - [CTV 글로브 미디어](https://web.archive.org/web/20080808142347/http://www.ctvglobemedia.com/)
   - [CTV 미디어 사이트](https://web.archive.org/web/20140327022945/http://ctvmedia.ca/)
   - [CTV on MBC](https://web.archive.org/web/20071221210253/http://www.museum.tv/archives/etv/C/htmlC/canadiantele/canadiantele.htm)
   - [CTV의 50년 뉴스](https://web.archive.org/web/20120530005959/http://50yearsofnews.ctv.ca/)

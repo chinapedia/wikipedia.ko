@@ -68,17 +68,15 @@
 | 6   | 레프트  | [김정호](../Page/김정호_\(배구_선수\).md "wikilink")                      | 2017  | 2018([삼성화재](https://ko.wikipedia.org/wiki/대전_삼성화재_블루팡스 "wikilink")) |
 | 7   | 라이트  | [마테우스 크라우척](https://ko.wikipedia.org/wiki/마테우스_크라우척 "wikilink") | 2019  |                                                                     |
 | 8   | 레프트  | [김학민](../Page/김학민.md "wikilink")                                | 2006  | 2019([대한항공](../Page/인천_대한항공_점보스.md "wikilink"))                     |
+| 9   | 라이트  | [정수용](https://ko.wikipedia.org/wiki/정수용 "wikilink")             | 2017  |                                                                     |
 | 10  | 리베로  | [곽동혁](https://ko.wikipedia.org/wiki/곽동혁 "wikilink")             | 2005  | 2016([삼성화재](https://ko.wikipedia.org/wiki/대전_삼성화재_블루팡스 "wikilink")) |
 | 11  | 센터   | [김홍정](https://ko.wikipedia.org/wiki/김홍정 "wikilink")             | 2009  | 2017([OK저축은행](../Page/안산_OK저축은행_러시앤캐시.md "wikilink"))               |
 | 12  | 레프트  | [김정환](https://ko.wikipedia.org/wiki/김정환 "wikilink")             | 2010  | 2019([우리카드](../Page/서울_우리카드_위비.md "wikilink"))                      |
 | 13  | 센터   | [박진우](https://ko.wikipedia.org/wiki/박진우 "wikilink")             | 2012  | 2019([우리카드](../Page/서울_우리카드_위비.md "wikilink"))                      |
 | 14  | 리베로  | [이수범](https://ko.wikipedia.org/wiki/이수범 "wikilink")             | 2018  | 2019([우리카드](../Page/서울_우리카드_위비.md "wikilink"))                      |
-| 15  | 센터   | [우상조](https://ko.wikipedia.org/wiki/우상조 "wikilink")             | 2017  | 2019([우리카드](../Page/서울_우리카드_위비.md "wikilink"))                      |
 | 16  | 레프트  | [홍상혁](https://ko.wikipedia.org/wiki/홍상혁 "wikilink")             | 2019  |                                                                     |
-| 17  | 세터   | [양준식](https://ko.wikipedia.org/wiki/양준식 "wikilink")             | 2012  | 2014([한국전력](../Page/수원_한국전력_빅스톰.md "wikilink"))                     |
 | 18  | 센터   | [구도현](https://ko.wikipedia.org/wiki/구도현 "wikilink")             | 2014  | 2019([우리카드](../Page/서울_우리카드_위비.md "wikilink"))                      |
 | 19  | 레프트  | [김동민](https://ko.wikipedia.org/wiki/김동민_\(배구_선수\) "wikilink")   | 2019  |                                                                     |
-| 20  | 세터   | [김지승](https://ko.wikipedia.org/wiki/김지승 "wikilink")             | 2019  |                                                                     |
 | 21  | 센터   | [김승태](https://ko.wikipedia.org/wiki/김승태_\(배구_선수\) "wikilink")   | 2019  |                                                                     |
 |     |      |                                                                 |       |                                                                     |
 
@@ -86,7 +84,8 @@
 
 | |포지션 | |이름 | |데뷔년도 | |이적년도 | |군 입대년도  |
 | ---- | --- | ----- | ----- | -------- |
-| 레프트  | 정수용 | 2017  |       | 2018(상무) |
+| 센터   | 우상조 | 2014  |       | 2020(상무) |
+| 세터   | 양준식 | 2012  |       | 2020(상무) |
 | 레프트  | 황두연 | 2015  |       | 2019(상무) |
 |      |     |       |       |          |
 
@@ -103,7 +102,7 @@
 
   - 아나운서 : 한성규
   - 응원단장 : 정영석
-  - 치어리더 : 이미래, 배수현, 오지연, 김도아, 이다연, 이지현, 김유정, 김희진, 이새별, 남민정,이민경
+  - 치어리더 : 이미래, 배수현, 오지연, 김도아, 이다연, 이지현, 김유정, 김희진, 이새별, 남민정, 이민경
 
 ## 같이 보기
 

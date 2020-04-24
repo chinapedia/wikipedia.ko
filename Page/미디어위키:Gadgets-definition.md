@@ -28,7 +28,7 @@
   - charinsert\[ResourceLoader|peers=charinsert-styles\]|charinsert.js
   - charinsert-core\[ResourceLoader|hidden|dependencies=jquery.textSelection,user,mediawiki.storage\]|charinsert-core.js
   - charinsert-styles\[ResourceLoader|hidden|type=styles\]|charinsert-styles.css
-  - purgetab\[ResourceLoader|dependencies=mediawiki.util,mediawiki.api,mediawiki.notify\]|purgetab.js
+  - purgetab\[ResourceLoader|dependencies=mediawiki.util,mediawiki.api\]|purgetab.js
 
 ## interface-gadgets
 
@@ -51,7 +51,7 @@
   - widensearch\[ResourceLoader|skins=vector|type=styles\]|widensearch.css
   - NoAnimations\[ResourceLoader\]|NoAnimations.js
   - OldDiff\[ResourceLoader|type=styles\]|OldDiff.css
-  - siteNotice\[ResourceLoader|default|targets=desktop,mobile\]|siteNotice.js
+  - siteNotice\[ResourceLoader|default|dependencies=mediawiki.api|targets=desktop,mobile\]|siteNotice.js
   - CollapsibleSidebar\[ResourceLoader|default|targets=desktop\]|CollapsibleSidebar.js
   - UrlShortener\[ResourceLoader\]|UrlShortener.js
   - scrollUpButton\[ResourceLoader|default\]|scrollUpButton.js

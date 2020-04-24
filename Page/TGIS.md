@@ -36,7 +36,7 @@ TGIS는 현재 아래와 같은 차량에 채용되었다.
   - [한국철도공사 311000호대 전동차](../Page/한국철도공사_311000호대_전동차.md "wikilink")([수도권 전철 1호선용](https://ko.wikipedia.org/wiki/수도권_전철_1호선 "wikilink"))
   - [한국철도공사 321000호대 전동차](../Page/한국철도공사_321000호대_전동차.md "wikilink")/[한국철도공사 331000호대 전동차](../Page/한국철도공사_331000호대_전동차.md "wikilink")([경의·중앙선용](../Page/수도권_전철_경의·중앙선.md "wikilink"))
   - [한국철도공사 341000호대 전동차](../Page/한국철도공사_341000호대_전동차.md "wikilink")([수도권 전철 4호선용](../Page/수도권_전철_4호선.md "wikilink"))
-  - [한국철도공사 351000호대 전동차](../Page/한국철도공사_351000호대_전동차.md "wikilink")([분당선](../Page/분당선.md "wikilink"), [수인선](https://ko.wikipedia.org/wiki/수인선 "wikilink")용)
+  - [한국철도공사 351000호대 전동차](../Page/한국철도공사_351000호대_전동차.md "wikilink")([분당선](../Page/분당선.md "wikilink"), [수인선](../Page/수인선.md "wikilink")용)
   - [한국철도공사 361000호대 전동차](../Page/한국철도공사_361000호대_전동차.md "wikilink")([경춘선](https://ko.wikipedia.org/wiki/경춘선 "wikilink")용)
   - [한국철도공사 371000호대 전동차](../Page/한국철도공사_371000호대_전동차.md "wikilink")([경강선](../Page/경강선.md "wikilink")용)
   - [한국철도공사 381000호대 전동차](../Page/한국철도공사_381000호대_전동차.md "wikilink")([동해선](https://ko.wikipedia.org/wiki/동해선 "wikilink")용)

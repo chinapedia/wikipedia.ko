@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [USAS-12](https://ko.wikipedia.org/wiki/USAS-12).
 
 
-**USAS-12**는 [맥스웰 아치슨](https://ko.wikipedia.org/wiki/맥스웰_아치슨 "wikilink") 사는 탈착식 탄창을 사용하는 자동사격이 가능한 산탄총을 제작하려고 하였다.하지만 독자적으로 제작하기에 무리가 있었던 탓에 다른 총기 회사들에게 총기를 제작해보자는 제의를 하지만 어떤 회사에도 이 제의에 흥미를 느끼지 않고 나중에 간신히 대한민국 [대우정밀](https://ko.wikipedia.org/wiki/대우정밀 "wikilink")이라는 회사에서 같이 제작하기로 하였다.
+**USAS-12**는 [맥스웰 아치슨](https://ko.wikipedia.org/wiki/맥스웰_아치슨 "wikilink") 사는 탈착식 탄창을 사용하는 자동사격이 가능한 산탄총을 제작하려고 하였다.하지만 독자적으로 제작하기에 무리가 있었던 탓에 다른 총기 회사들에게 총기를 제작해보자는 제의를 하지만 어떤 회사에도 이 제의에 흥미를 느끼지 않고 나중에 간신히 대한민국 [대우정밀](https://ko.wikipedia.org/wiki/대우정밀 "wikilink")에서 같이 제작하기로 하였다.
 
 미국과 대한민국의 합작 총기다.
 
@@ -12,7 +12,7 @@
 ## 제원
 
   - 구경 = 18.53mm
-  - 강선 =
+  - 강선 = (x)
   - 탄약 = [12게이지](https://ko.wikipedia.org/wiki/12게이지 "wikilink")
   - 장탄 = 10발들이 탈착식 박스탄창 , 20발들이 드럼탄창
   - 작동방식 = [가스 작동식](../Page/가스_작동식.md "wikilink")

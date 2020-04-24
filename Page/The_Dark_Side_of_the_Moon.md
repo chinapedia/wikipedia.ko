@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [The Dark Side of the Moon](https://ko.wikipedia.org/wiki/The_Dark_Side_of_the_Moon).
 
 
-《**The Dark Side of the Moon**》은 [영국](../Page/영국.md "wikilink") 밴드 [핑크 플로이드가](../Page/핑크_플로이드.md "wikilink") 1973년 3월 발매한 앨범이다. 940주 연속 [빌보드](../Page/빌보드.md "wikilink") 앨범 차트 200위 안에 오르는 기록을 세웠다.또한 현재 진행형이다.\[1\] 이 앨범은 핑크 플로이드가 미국에서 대중적인 성공을 거둔 첫 번째 앨범으로, 이는 이전 앨범에 비해 사이키델릭적인 요소를 줄이고 블루스적인 요소를 부각시켰기 때문이라 평가받는다.
+《**The Dark Side of the Moon**》은 [영국](../Page/영국.md "wikilink") 밴드 [핑크 플로이드가](../Page/핑크_플로이드.md "wikilink") 1973년 3월 발매한 앨범이다. 누적으로 949주 동안 [빌보드](../Page/빌보드.md "wikilink") 앨범 차트 200위 안에 오르는 기록을 세웠다.\[1\] 이 앨범은 핑크 플로이드가 미국에서 대중적인 성공을 거둔 첫 번째 앨범으로, 이는 이전 앨범에 비해 사이키델릭적인 요소를 줄이고 블루스적인 요소를 부각시켰기 때문이라 평가받는다.
 
 이 앨범은 '광기'를 주제로 한 [컨셉트 앨범으로서](https://ko.wikipedia.org/wiki/컨셉트_앨범 "wikilink"), 이는 밴드의 정신적인 지주였던 [시드 배럿를](../Page/시드_배럿.md "wikilink") 반영시킨 결과이다. 이러한 구상은 베이시스트 [로저 워터스가](../Page/로저_워터스.md "wikilink") 주도한 것으로서, 이 앨범부터 워터스는 밴드의 주도권을 잡게 되었다.
 

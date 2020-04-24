@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [HERO](https://ko.wikipedia.org/wiki/HERO).
 
 
-《**HERO**》(히어로)는, [후지 TV](../Page/후지_TV.md "wikilink") [계열에서](../Page/후지_네트워크.md "wikilink") 방송된 [일본](../Page/일본.md "wikilink")의 [텔레비전 드라마이다](https://ko.wikipedia.org/wiki/일본_드라마 "wikilink"). 주연은 [키무라 타쿠야](../Page/기무라_타쿠야.md "wikilink").
+《**HERO**》(히어로)는 [후지 TV](../Page/후지_TV.md "wikilink") [계열에서](../Page/후지_네트워크.md "wikilink") 방송된 [일본](../Page/일본.md "wikilink")의 [텔레비전 드라마이다](https://ko.wikipedia.org/wiki/일본_드라마 "wikilink"). 주연은 [키무라 타쿠야](../Page/기무라_타쿠야.md "wikilink").
 
 [2001년](../Page/2001년.md "wikilink")에 〈[게츠9](../Page/후지_TV_월요일_밤_9시_드라마.md "wikilink")〉 시간대에 방송된 후, [2006년](../Page/2006년.md "wikilink")에 단발 드라마가 방송되어, 영화화도 되었다. [2014년](../Page/2014년.md "wikilink")에 속편이 〈게츠9〉 시간대에서 방송되어, 영화화도 되었다.
 

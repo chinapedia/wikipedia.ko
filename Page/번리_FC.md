@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [번리 FC](https://ko.wikipedia.org/wiki/번리_FC).
 
 
-**번리 FC**(Burnley FC)는 [잉글랜드](../Page/잉글랜드.md "wikilink") [번리](https://ko.wikipedia.org/wiki/번리 "wikilink")에 연고로 하는 프로 [축구](../Page/축구.md "wikilink") 클럽으로, 1882년에 창단하여 1888년에 설립된 [풋볼 리그에](https://ko.wikipedia.org/wiki/풋볼_리그 "wikilink") 가입하였다.
+**번리 F.C.**(Burnley Football Club)는 [잉글랜드](../Page/잉글랜드.md "wikilink") [번리](https://ko.wikipedia.org/wiki/번리 "wikilink")에 연고로 하는 프로 [축구](../Page/축구.md "wikilink") 클럽으로, 1882년에 창단하여 1888년에 설립된 [풋볼 리그에](https://ko.wikipedia.org/wiki/풋볼_리그 "wikilink") 가입하였다.
 
 1920-21 시즌과 1959-60 시즌에 1부리그 우승을 차지한 적이 있으며 1914년 리버풀을 꺾고 [FA컵](https://ko.wikipedia.org/wiki/FA컵_\(잉글랜드\) "wikilink") 우승도 차지하였다. 또한 1부 리그에서 4부 리그까지 잉글랜드 프로 축구 모든 레벨에서의 우승 기록을 가지고 있는 세 클럽 (번리, 프레스턴 노스 엔드, 울버햄프턴 원더러스) 중 하나이기도 하다. 유럽 대회에서의 최고 성적은 1961년 [유로피언 컵](https://ko.wikipedia.org/wiki/유로피언_컵 "wikilink") (현 [UEFA 챔피언스리그](../Page/UEFA_챔피언스리그.md "wikilink")) 8강에 오른 것이다.
 

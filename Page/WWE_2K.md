@@ -6,15 +6,15 @@
 ## 게임모드
 
   - 연습모드(Exhibition Mode): 자기가 원하는 경기 방식과 캐릭터를 골라 자유롭게 대전하는 모드이다.
-  - 시즌모드: 자신의 캐릭터를 골라 실제 [WWE](https://ko.wikipedia.org/wiki/WWE "wikilink")를 체험하는 모드로, 일정한 스토리 라인을 따르게 된다.
+  - 시즌모드: 자신의 캐릭터를 골라 실제 [WWE](../Page/WWE.md "wikilink")를 체험하는 모드로, 일정한 스토리 라인을 따르게 된다.
   - Create A Wrestler: 일명 CAW모드로 자신만의 캐릭터를 창조하는 모드이다.
-  - 킹 오브 더 링: 실제 [WWE](https://ko.wikipedia.org/wiki/WWE "wikilink")의 PPV를 배경으로 한 일종의 토너먼트 모드이다.
+  - 킹 오브 더 링: 실제 [WWE](../Page/WWE.md "wikilink")의 PPV를 배경으로 한 일종의 토너먼트 모드이다.
   - 레슬매니아 모드 : WWE2k14에 있는 모드로 레슬매니아1부터 30까지 주요 경기들을 직접 플레이 할 수 있는 모드이다.
   - ※이 외에도 게임별로 여러가지 모드가 존재하고 있다.
 
 ## 경기방식
 
-경기방식은 실제 [WWE](https://ko.wikipedia.org/wiki/WWE "wikilink")에서 따온 것들로 이러한 것들이 있다. 싱글 매치, 태그팀 매치, 트리플 쓰렛 매치, 특별 심판 매치, 테이블 매치, TLC 매치, 배틀 로얄 매치, 로얄 럼블 매치등이 있다.
+경기방식은 실제 [WWE](../Page/WWE.md "wikilink")에서 따온 것들로 이러한 것들이 있다. 싱글 매치, 태그팀 매치, 트리플 쓰렛 매치, 특별 심판 매치, 테이블 매치, TLC 매치, 배틀 로얄 매치, 로얄 럼블 매치등이 있다.
 
 ## 시리즈
 
@@ -44,7 +44,7 @@
 
 ## 그외
 
-WWE 스맥다운\! Shut your mouth는 많은 변화가 있었던 작품이다. WWF가 [WWE](https://ko.wikipedia.org/wiki/WWE "wikilink")로 바뀜에 따라 게임제목도 WWE 스맥다운으로 바뀌었으며, [WCW가](https://ko.wikipedia.org/wiki/월드_챔피언십_레슬링 "wikilink") WWF에 합병됨에 따라 게임에도 WCW선수들이 등장하게 되었다.
+WWE 스맥다운\! Shut your mouth는 많은 변화가 있었던 작품이다. WWF가 [WWE](../Page/WWE.md "wikilink")로 바뀜에 따라 게임제목도 WWE 스맥다운으로 바뀌었으며, [WCW가](https://ko.wikipedia.org/wiki/월드_챔피언십_레슬링 "wikilink") WWF에 합병됨에 따라 게임에도 WCW선수들이 등장하게 되었다.
 
 우리나라에서는 4번째 시리즈부터 THQ 코리아에 의해 발매되었고 버티고 게임즈와 공동개발 체결하여 온라인 게임으로 개발하려고 했으나 THQ가 사업부진과 적자등을 이유로 온라인화는 무산되고 한국지사를 없앴고 현재 THQ자체가 파산됨에 따라 2k스포츠의 유통협력사 에이치투 인터렉티브가 맡게 되었다.
 

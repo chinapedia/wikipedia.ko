@@ -361,7 +361,7 @@
 <tr class="odd">
 <td><p>8기</p></td>
 <td><p><a href="../Page/권재홍.md" title="wikilink">권재홍</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/황선숙" title="wikilink">황선숙</a></p></td>
+<td><p><a href="../Page/황선숙.md" title="wikilink">황선숙</a></p></td>
 <td><p><a href="../Page/1994년.md" title="wikilink">1994년</a> <a href="../Page/4월_11일.md" title="wikilink">4월 11일</a> ~ <a href="../Page/1994년.md" title="wikilink">1994년</a> <a href="../Page/10월_14일.md" title="wikilink">10월 14일</a></p></td>
 </tr>
 <tr class="even">

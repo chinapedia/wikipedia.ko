@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [GARNET CROW](https://ko.wikipedia.org/wiki/GARNET_CROW).
 
 
-**가넷 크로우**(GARNET CROW, )는, 1999년에 결성된 [기자 스튜디오](https://ko.wikipedia.org/wiki/기자_스튜디오 "wikilink") 소속의 밴드로 2013년 상반기까지 멤버 변동 없이 13년간 명맥을 유지해 온 크리에이터 밴드이다. 음악 제작 회사 빙(BEING) 그룹 소속의 4명의 멤버가 있었다. 처음 데뷔했을 때에는 텔레비전 프로그램 출연을 잘 하려 하지 않는 등 외적으로 가넷 크로우를 잘 드러내려 하지 않았지만, 2002년 이후에는 텔레비전 프로그램에 출연하고 있다. 2013년 6월 9일 **GARNET CROW livescope THE FINAL**을 끝으로 공식적인 밴드 활동을 중지 및 해체하였다.
+**가넷 크로우**(GARNET CROW, )는 1999년에 결성된 [기자 스튜디오](https://ko.wikipedia.org/wiki/기자_스튜디오 "wikilink") 소속의 밴드로 2013년 상반기까지 멤버 변동 없이 13년간 명맥을 유지해 온 크리에이터 밴드이다. 음악 제작 회사 빙(BEING) 그룹 소속의 4명의 멤버가 있었다. 처음 데뷔했을 때에는 텔레비전 프로그램 출연을 잘 하려 하지 않는 등 외적으로 가넷 크로우를 잘 드러내려 하지 않았지만, 2002년 이후에는 텔레비전 프로그램에 출연하고 있다. 2013년 6월 9일 **GARNET CROW livescope THE FINAL**을 끝으로 공식적인 밴드 활동을 중지 및 해체하였다.
 
 ## 개요
 

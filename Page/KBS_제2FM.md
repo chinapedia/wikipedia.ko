@@ -3,7 +3,7 @@
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:KBS_2FM_studio-Seoul.jpg "wikilink")
 
-**KBS 제2FM** 혹은 **KBS 쿨FM**()\[1\] 은 [한국방송공사](../Page/한국방송공사.md "wikilink")에서 운영·방송하는 [연예](https://ko.wikipedia.org/wiki/연예 "wikilink")오락・음악 전문 [라디오](../Page/라디오.md "wikilink") 편성책임 광고책임 채널이다.
+**KBS 제2FM** 혹은 **KBS 쿨FM**()\[1\] 은 [한국방송공사](../Page/한국방송공사.md "wikilink")에서 운영·방송하는 [연예](https://ko.wikipedia.org/wiki/연예 "wikilink")오락・음악 전문 [라디오](../Page/라디오.md "wikilink") 채널이다.
 
 ## 역사
 
@@ -105,14 +105,14 @@
 <td><p><a href="../Page/음악앨범_(라디오_프로그램).md" title="wikilink">이현우의 음악앨범</a></p></td>
 <td><p>o</p></td>
 <td><p>o</p></td>
-<td><p>월~목 : 생방송 / 금~일 : 녹음방송</p></td>
+<td><p>월~일 : 생방송</p></td>
 </tr>
 <tr class="odd">
 <td><p>11:00</p></td>
 <td><p><a href="../Page/박명수의_라디오쇼.md" title="wikilink">박명수의 라디오쇼</a></p></td>
 <td><p>o</p></td>
 <td><p>x</p></td>
-<td><p>각 지역총국 <a href="https://ko.wikipedia.org/wiki/해피FM" title="wikilink">해피FM</a>을 통해 송출 (일부지역 자체방송) 월,화,수,금 : 생방송 / 목,토,일 : 녹음방송<br />
+<td><p>각 지역총국 <a href="https://ko.wikipedia.org/wiki/해피FM" title="wikilink">해피FM</a>을 통해 송출 (일부지역 자체방송) 월~금 : 생방송 / ,토,일 : 녹음방송<br />
 DMB에서는 <a href="https://ko.wikipedia.org/wiki/누군가_어딘가에" title="wikilink">누군가 어딘가에가</a> 방송</p></td>
 </tr>
 <tr class="even">
@@ -127,42 +127,42 @@ DMB에서는 <a href="https://ko.wikipedia.org/wiki/누군가_어딘가에" titl
 <td><p><a href="../Page/뮤직쇼.md" title="wikilink">황정민의 뮤직쇼</a></p></td>
 <td><p>o</p></td>
 <td><p>o</p></td>
-<td><p>월,수,목 : 생방송 / 화,금,토,일 : 녹음방송</p></td>
+<td><p>월~금: 생방송 / 토,일 : 녹음방송</p></td>
 </tr>
 <tr class="even">
 <td><p>16:00 03:00(재)</p></td>
 <td><p><a href="../Page/미스터_라디오.md" title="wikilink">윤정수, 남창희의 미스터 라디오</a></p></td>
 <td><p>o</p></td>
 <td><p>o</p></td>
-<td></td>
+<td><p>월~금 생방송/ 주말: 녹음방송</p></td>
 </tr>
 <tr class="odd">
 <td><p>18:00</p></td>
 <td><p><a href="../Page/사랑하기_좋은_날_이금희입니다.md" title="wikilink">사랑하기 좋은 날 이금희입니다</a></p></td>
 <td><p>o</p></td>
 <td><p>o</p></td>
-<td><p>평일 : 생방송 / 토요일 : 녹음방송 / 일요일 : 생방송</p></td>
+<td><p>월~일 생방송</p></td>
 </tr>
 <tr class="even">
 <td><p>20:00</p></td>
 <td><p><a href="../Page/볼륨을_높여요.md" title="wikilink">강한나의 볼륨을 높여요</a></p></td>
 <td><p>o</p></td>
 <td><p>o</p></td>
-<td></td>
+<td><p>월~금 생방송</p></td>
 </tr>
 <tr class="odd">
 <td><p>22:00</p></td>
 <td><p><a href="../Page/키스_더_라디오.md" title="wikilink">박원의 키스 더 라디오</a></p></td>
 <td><p>o</p></td>
 <td><p>o</p></td>
-<td></td>
+<td><p>월~금 생방송</p></td>
 </tr>
 <tr class="even">
 <td><p>00:00</p></td>
 <td><p><a href="../Page/설레는_밤.md" title="wikilink">설레는 밤, 이혜성입니다</a></p></td>
 <td><p>o</p></td>
 <td><p>o</p></td>
-<td></td>
+<td><p>월~금 생방송</p></td>
 </tr>
 <tr class="odd">
 <td><p>02:00</p></td>
@@ -215,7 +215,7 @@ DMB에서는 <a href="https://ko.wikipedia.org/wiki/누군가_어딘가에" titl
   - [강성연](../Page/강성연.md "wikilink") - [가요광장](../Page/가요광장.md "wikilink")
   - [강수지](../Page/강수지.md "wikilink") - [가요광장](../Page/가요광장.md "wikilink")
   - [김구라](../Page/김구라.md "wikilink") - [가요광장](../Page/가요광장.md "wikilink")
-  - [홍진경](../Page/홍진경.md "wikilink") - [가요광장](../Page/가요광장.md "wikilink"), [홍진경의 2시](https://ko.wikipedia.org/wiki/2시_\(라디오_프로그램\) "wikilink")
+  - [홍진경](../Page/홍진경.md "wikilink") - [가요광장](../Page/가요광장.md "wikilink"), [홍진경의 2시](../Page/2시.md "wikilink")
   - [옥주현](../Page/옥주현.md "wikilink") - [가요광장](../Page/가요광장.md "wikilink")
   - [전현무](../Page/전현무.md "wikilink") - [가요광장](../Page/가요광장.md "wikilink")
   - [김범수](../Page/김범수_\(가수\).md "wikilink") - [가요광장](../Page/가요광장.md "wikilink")
@@ -289,32 +289,32 @@ DMB에서는 <a href="https://ko.wikipedia.org/wiki/누군가_어딘가에" titl
   - [성민](../Page/성민_\(1986년\).md "wikilink"), [려욱](../Page/려욱.md "wikilink") - [키스 더 라디오](../Page/키스_더_라디오.md "wikilink")
   - [이홍기](https://ko.wikipedia.org/wiki/이홍기 "wikilink") - [키스 더 라디오](../Page/키스_더_라디오.md "wikilink")
   - [버벌진트](../Page/버벌진트.md "wikilink") - [팝스 팝스](https://ko.wikipedia.org/wiki/팝스_팝스 "wikilink")
-  - [하림](../Page/하림_\(가수\).md "wikilink") - [하림, 조정치의 2시](https://ko.wikipedia.org/wiki/2시_\(라디오_프로그램\) "wikilink")
-  - [조정치](../Page/조정치.md "wikilink") - [하림, 조정치의 2시 / 조정치, 장동민의 2시](https://ko.wikipedia.org/wiki/2시_\(라디오_프로그램\) "wikilink")
+  - [하림](../Page/하림_\(가수\).md "wikilink") - [하림, 조정치의 2시](../Page/2시.md "wikilink")
+  - [조정치](../Page/조정치.md "wikilink") - [하림, 조정치의 2시 / 조정치, 장동민의 2시](../Page/2시.md "wikilink")
   - [최다니엘](../Page/최다니엘.md "wikilink") - [팝스 팝스](https://ko.wikipedia.org/wiki/팝스_팝스 "wikilink")
   - [박준형](../Page/박준형_\(희극인\).md "wikilink"), [김다래](../Page/김다래_\(희극인\).md "wikilink") - 라디오 천하무적
   - [김현철](../Page/김현철_\(가수\).md "wikilink") - 뮤직플러스
   - [장윤주](../Page/장윤주.md "wikilink") - [옥탑방 라디오](../Page/옥탑방_라디오.md "wikilink")
   - [오유경](../Page/오유경.md "wikilink") - 상쾌한 아침입니다
-  - [장동민](../Page/장동민.md "wikilink") - [장동민,레이디제인의 2시](https://ko.wikipedia.org/wiki/2시_\(라디오_프로그램\) "wikilink")
-  - [레이디제인](https://ko.wikipedia.org/wiki/레이디제인 "wikilink") - [장동민,레이디제인의 2시 / 레이디제인의 2시](https://ko.wikipedia.org/wiki/2시_\(라디오_프로그램\) "wikilink")
+  - [장동민](../Page/장동민.md "wikilink") - [장동민,레이디제인의 2시](../Page/2시.md "wikilink")
+  - [레이디제인](https://ko.wikipedia.org/wiki/레이디제인 "wikilink") - [장동민,레이디제인의 2시 / 레이디제인의 2시](../Page/2시.md "wikilink")
   - [황인용](../Page/황인용.md "wikilink") - 황인용의 영팝스
 
 ## 방송 시작 멘트
 
-\- [박노원](../Page/박노원.md "wikilink") [아나운서](../Page/아나운서.md "wikilink")  -광고가 없는 경우에 사용했지만, 현재는 새벽 4시 시보에만 사용함.  (KBS 쿨 FM 로고송 후 시보)      (로고송 후 시보)  (로고송 후 시보)  (로고송 없이 시보)  (로고송후 시보)  (로고송 없이 시보)
+\- [정다은](../Page/정다은_\(아나운서\).md "wikilink") [아나운서](../Page/아나운서.md "wikilink")  -광고가 없는 경우에 사용했지만, 현재는 새벽 4시 시보에만 사용함.  (KBS 쿨 FM 로고송 후 시보)      (로고송 후 시보)  (로고송 후 시보)  (로고송 없이 시보)  (로고송후 시보)  (로고송 없이 시보)
 
 ## 제공 시보
 
 ### 현재
 
-  - [현대자동차](https://ko.wikipedia.org/wiki/현대자동차 "wikilink") (시보 알림 : 08시, 11시, 16시, 21시 시보 광고 제공)
-  - [르노삼성자동차](../Page/르노삼성자동차.md "wikilink") (시보 알림 : 짝수 30분 시보 광고 제공)
-  - Next 프로그램 안내 (시보 알림 : 00시, 01시, 02시, 03시, 04시, 05시, 06시, 07시, 09시, 10시, 12시, 13시, 14시, 15시, 17시, 18시, 19시, 20시, 22시, 23시 무광고 시보 제공)
-  -
+  - [가네시](https://ko.wikipedia.org/wiki/가네시 "wikilink") (시보 알림 : 10시, 16시 시보 광고 제공)
+  - [현대자동차](https://ko.wikipedia.org/wiki/현대자동차 "wikilink") (시보 알림 : 00시, 08시, 12시, 14시, 19시, 23시 시보 광고 제공)
+  - [르노삼성자동차](../Page/르노삼성자동차.md "wikilink") (시보 알림 : 20시 시보 광고 제공)
+
 ### 과거
 
-  - [현대해상](https://ko.wikipedia.org/wiki/현대해상 "wikilink")
+  - [현대해상](../Page/현대해상화재보험.md "wikilink")
   - [SK텔레콤](../Page/SK텔레콤.md "wikilink")
   - [현대카드](../Page/현대카드.md "wikilink")
   - [일동후디스](../Page/일동후디스.md "wikilink")
@@ -356,6 +356,7 @@ DMB에서는 <a href="https://ko.wikipedia.org/wiki/누군가_어딘가에" titl
   - [KBS 제1FM](../Page/KBS_제1FM.md "wikilink")
   - [국악방송](../Page/국악방송.md "wikilink")
   - [경기방송](../Page/경기방송.md "wikilink")
+  - [국방FM](../Page/국방FM.md "wikilink")
 
 ## 각주
 

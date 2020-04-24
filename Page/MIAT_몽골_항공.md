@@ -130,7 +130,7 @@
 
 ## 사진
 
-파일:MIAT Boeing 737-800 at ULN.jpg|MIAT 몽골 항공의 [보잉 737-800](../Page/보잉_737.md "wikilink") 파일:Mongolian Airlines Boeing 767-300.jpg|MIAT 몽골 항공의 [보잉 767-300ER](../Page/보잉_767.md "wikilink") 파일:MIAT Mongolian Airlines Boeing 767-300ER JU-1011 SVO Jan 2012.png|MIAT 몽골 항공의 [보잉 767-300ER](../Page/보잉_767.md "wikilink")
+파일:MIAT Boeing 737-800 at ULN.jpg|MIAT 몽골 항공의 [보잉 737-800](../Page/보잉_737.md "wikilink") 파일:Mongolian Airlines Boeing 767-300.jpg|MIAT 몽골 항공의 [보잉 767-300ER](../Page/보잉_767.md "wikilink") 파일:MIAT Mongolian Airlines Boeing 767-300ER JU-1011 SVO Jan 2012.png|MIAT 몽골 항공의 [보잉 767-300ER](../Page/보잉_767.md "wikilink") [File:MIAT_Mongolian_Airlines,_EI-CXV,_Boeing_737-8CX_(37917061824).jpg|MIAT](File:MIAT_Mongolian_Airlines,_EI-CXV,_Boeing_737-8CX_\(37917061824\).jpg%7CMIAT) 몽골 항공의 [보잉 737-800](https://ko.wikipedia.org/wiki/보잉_737-800 "wikilink") 파일:Mongolian_Airlines_Boeing_767_Kustov.jpg|MIAT 몽골 항공의 [보잉 767-300ER](../Page/보잉_767.md "wikilink")
 
 ## 외부 링크
 

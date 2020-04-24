@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [SK하이닉스](https://ko.wikipedia.org/wiki/SK하이닉스).
 
 
-**SK하이닉스**는 [대한민국](../Page/대한민국.md "wikilink")의 메모리 반도체 제조사로 [SK그룹](../Page/SK그룹.md "wikilink")의 계열사다. 본사는 [경기도](https://ko.wikipedia.org/wiki/경기도 "wikilink") [이천시](../Page/이천시.md "wikilink") [부발읍](../Page/부발읍.md "wikilink") 아미리에 있으며, 주요 제품은 [디램](https://ko.wikipedia.org/wiki/디램 "wikilink"), [플래시 메모리 칩이다](../Page/플래시_메모리.md "wikilink"). [미국](../Page/미국.md "wikilink"), [영국](../Page/영국.md "wikilink"), [독일](../Page/독일.md "wikilink"), [일본](../Page/일본.md "wikilink"), [타이완](../Page/중화민국.md "wikilink"), [중국](../Page/중화인민공화국.md "wikilink"), [싱가포르](../Page/싱가포르.md "wikilink"), [인도](../Page/인도.md "wikilink") 등에서 판매망을 운영한다. 제조 설비는 [대한민국](../Page/대한민국.md "wikilink"), [중국에](../Page/중화인민공화국.md "wikilink") 있다.
+**SK하이닉스**는 [대한민국](../Page/대한민국.md "wikilink")의 메모리 반도체 제조사로 [SK그룹](../Page/SK그룹.md "wikilink")의 계열사다. 본사는 [경기도](https://ko.wikipedia.org/wiki/경기도 "wikilink") [이천시](../Page/이천시.md "wikilink") [부발읍](../Page/부발읍.md "wikilink") 아미리에 있으며, 주요 제품은 [디램](https://ko.wikipedia.org/wiki/디램 "wikilink"), [플래시 메모리 칩이다](../Page/플래시_메모리.md "wikilink"). [미국](../Page/미국.md "wikilink"), [영국](../Page/영국.md "wikilink"), [독일](../Page/독일.md "wikilink"), [일본](../Page/일본.md "wikilink"), [타이완](../Page/중화민국.md "wikilink"), [중국](../Page/중화인민공화국.md "wikilink"), [싱가포르](../Page/싱가포르.md "wikilink"), [인도](../Page/인도.md "wikilink"), [베트남](../Page/베트남.md "wikilink") 등에서 판매망을 운영한다. 제조 설비는 [대한민국](../Page/대한민국.md "wikilink"), [중국에](../Page/중화인민공화국.md "wikilink") 있다.
 
 SK하이닉스의 주식은 [한국증권거래소](https://ko.wikipedia.org/wiki/한국증권거래소 "wikilink")에 상장되어 있으며, 동 상장주식을 원주로 하는 DR은 [룩셈부르크](../Page/룩셈부르크.md "wikilink") 증권거래소에도 상장되어 있다. 2015년 매출 규모 기준으로 세계 메모리 기업 중 2번째, 반도체 기업 중 3번째로 큰 기업이다.
 

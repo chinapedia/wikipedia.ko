@@ -609,7 +609,7 @@
 
   - [FOOTBALL Nippon 별책『Sals』공식 페이지](https://web.archive.org/web/20070927015953/http://shop.kodansha.jp/bc/fbn/sals/)
 
-  - [사토다 마이 (컨트리무스메。) 의 Viva\!Futsal](https://web.archive.org/web/20070927195212/http://www.soccer-m.ne.jp/satoda/)
+  - [사토다 마이 (컨트리무스메。)의 Viva\!Futsal](https://web.archive.org/web/20070927195212/http://www.soccer-m.ne.jp/satoda/)
 
   - [Sapporo CERBIES Official Site](https://web.archive.org/web/20070514210838/http://www.cerbies.net/)
 

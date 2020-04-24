@@ -25,7 +25,7 @@ IrLMP(Infrared Link Management Protocol)는 IrDA 사양의 3번째 계층이다.
 
 ### Tiny TP
 
-Tiny TP(Tiny Transport Protocol) 는 IrLMP 계층의 최상위에 위치한다. 이 사양은 선택사항이다.
+Tiny TP(Tiny Transport Protocol)는 IrLMP 계층의 최상위에 위치한다. 이 사양은 선택사항이다.
 
 ### IrCOMM
 

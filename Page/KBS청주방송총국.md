@@ -312,6 +312,7 @@
 
   - [김홍식](https://ko.wikipedia.org/wiki/김홍식_\(방송인\) "wikilink")(현 퇴사)
   - [허주](https://ko.wikipedia.org/wiki/허주_\(아나운서\) "wikilink") (1991\~1992,아나운서부장, 전 KBS 서울본국)
+  - [김홍성](../Page/김홍성.md "wikilink")(1995\~1996, 현 KBS 서울본국)
   - [원석현](../Page/원석현.md "wikilink")(1995\~2002, 현 KBS 서울본국)
   - [이영진](https://ko.wikipedia.org/wiki/이영진_\(방송인\) "wikilink")(1996\~2010, 현 퇴사)
   - [박찬민](../Page/박찬민.md "wikilink")(1998\~2000, 현 SBS 아나운서)

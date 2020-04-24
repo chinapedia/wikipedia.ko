@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [A Whole New World](https://ko.wikipedia.org/wiki/A_Whole_New_World).
 
 
-《***A Whole New World***》(아름다운 세상) 는 [1992년](../Page/1992년.md "wikilink") [월트 디즈니 회사](https://ko.wikipedia.org/wiki/월트_디즈니_회사 "wikilink") 만화영화 [알라딘에](https://ko.wikipedia.org/wiki/알라딘_\(1992년_디즈니_영화\) "wikilink") 실린 사운드트랙에 나온 [팝](https://ko.wikipedia.org/wiki/팝 "wikilink") [싱글작](../Page/싱글_\(음악\).md "wikilink") 이름이다. [엘런 멘켄이](https://ko.wikipedia.org/wiki/엘런_멘켄 "wikilink") 작곡하고 [팀 라이스가](../Page/팀_라이스.md "wikilink") 작사하였다. 이 노래는 알라딘이라는 주인공과, 그와 함께 새로운 세계를 발견하고자 하는 자스민 사이의 [발라드이다](https://ko.wikipedia.org/wiki/발라드_\(대중_음악\) "wikilink"). 이 싱글 버전은 [피보 브라이슨과](https://ko.wikipedia.org/wiki/피보_브라이슨 "wikilink") [레지나 벨이](https://ko.wikipedia.org/wiki/레지나_벨 "wikilink") 연주하였으며 엔딩 크레딧에 삽입되었다.
+《***A Whole New World***》(아름다운 세상)는 [1992년](../Page/1992년.md "wikilink") [월트 디즈니 회사](https://ko.wikipedia.org/wiki/월트_디즈니_회사 "wikilink") 만화영화 [알라딘에](https://ko.wikipedia.org/wiki/알라딘_\(1992년_디즈니_영화\) "wikilink") 실린 사운드트랙에 나온 [팝](https://ko.wikipedia.org/wiki/팝 "wikilink") [싱글작](../Page/싱글_\(음악\).md "wikilink") 이름이다. [엘런 멘켄이](https://ko.wikipedia.org/wiki/엘런_멘켄 "wikilink") 작곡하고 [팀 라이스가](../Page/팀_라이스.md "wikilink") 작사하였다. 이 노래는 알라딘이라는 주인공과, 그와 함께 새로운 세계를 발견하고자 하는 자스민 사이의 [발라드이다](https://ko.wikipedia.org/wiki/발라드_\(대중_음악\) "wikilink"). 이 싱글 버전은 [피보 브라이슨과](https://ko.wikipedia.org/wiki/피보_브라이슨 "wikilink") [레지나 벨이](https://ko.wikipedia.org/wiki/레지나_벨 "wikilink") 연주하였으며 엔딩 크레딧에 삽입되었다.
 
 [대한민국](../Page/대한민국.md "wikilink")에서 출시한 디즈니 애니메이션 시리즈에서는 가사가 한국어에 맞게 수정되어 번역되었으며 [남경주](../Page/남경주.md "wikilink")와 [이정화](https://ko.wikipedia.org/wiki/이정화 "wikilink")가 "아름다운 세상"이라는 제목으로 노래를 불렀다.
 

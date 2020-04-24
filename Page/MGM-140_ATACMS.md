@@ -21,7 +21,7 @@
 
 ### 블록 2A (Block 2A)
 
-6개의 P3I [BAT자탄을](https://ko.wikipedia.org/wiki/BAT_\(무기\) "wikilink") 탑재하는 모델로 실전 배치 될 경우 사정거리는 300km로 추정되는 모델이다. 이 모델은 P3I BAT자탄이 개발 완료 될 경우 후속하여 등장하게 될 모델이기도 하다.
+6개의 P3I [BAT자탄을](https://ko.wikipedia.org/wiki/BAT_\(무기\) "wikilink") 탑재하는 모델로 실전 배치 될 경우 사정거리는 300km로 추정되는 모델이다. 이 모델은 P3I BAT자탄의 개발이 완료될 경우 후속하여 등장하게 될 모델이기도 하다.
 
 ### 블록 3 (Block 3)
 

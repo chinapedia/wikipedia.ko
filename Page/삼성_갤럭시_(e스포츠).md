@@ -13,7 +13,7 @@
 
 [2008년](../Page/2008년.md "wikilink") [11월 1일에는](../Page/11월_1일.md "wikilink") 인크루트 스타리그에서 [송병구](../Page/송병구.md "wikilink")가 우승, 창단 8년 5개월 이래 최초의 개인리그 우승자를 배출시켰다.
 
-[신한은행 프로리그 10-11시즌에](https://ko.wikipedia.org/wiki/신한은행_프로리그_10-11 "wikilink") 들어선 삼성전자는 에이스 [송병구](../Page/송병구.md "wikilink")의 부활과, [박대호](../Page/박대호.md "wikilink"), [유준희](../Page/유준희.md "wikilink"), [김기현](https://ko.wikipedia.org/wiki/김기현 "wikilink"), [유병준](https://ko.wikipedia.org/wiki/유병준 "wikilink"), [임태규](../Page/임태규.md "wikilink")등 신인들의 활약으로 프로리그 성적을 상위권으로 기록한다.
+[신한은행 프로리그 10-11시즌에](https://ko.wikipedia.org/wiki/신한은행_프로리그_10-11 "wikilink") 들어선 삼성전자는 에이스 [송병구](../Page/송병구.md "wikilink")의 부활과, [박대호](../Page/박대호.md "wikilink"), [유준희](../Page/유준희.md "wikilink"), [김기현](../Page/김기현_\(프로게이머\).md "wikilink"), [유병준](https://ko.wikipedia.org/wiki/유병준 "wikilink"), [임태규](../Page/임태규.md "wikilink")등 신인들의 활약으로 프로리그 성적을 상위권으로 기록한다.
 
 [2011년 11월](../Page/2011년_11월.md "wikilink") 해체된 3개의 게임단 공개 포스팅을 통해 [신노열](../Page/신노열.md "wikilink")을 영입하였고 이후 2차 협상을 통해 [이영한](../Page/이영한.md "wikilink")을 영입하였다. 또한 [화승 OZ에서](../Page/화승_OZ.md "wikilink") 코치직을 맡았던 [오상택](../Page/오상택.md "wikilink") 코치도 영입, [2005년](../Page/2005년.md "wikilink") [변은종](../Page/변은종.md "wikilink"), [이창훈](../Page/이창훈_\(프로게이머\).md "wikilink"), [박성준을](../Page/박성준_\(1984년\).md "wikilink") 영입한 이래로 최대 전력 보강을 하였다.
 

@@ -270,6 +270,7 @@
   - [김날해](https://ko.wikipedia.org/wiki/김날해 "wikilink") (2001년\~2009년, 현 SBS CNBC기자)
   - [김진경](https://ko.wikipedia.org/wiki/김진경_\(아나운서\) "wikilink") (퇴사)
   - [염정원](https://ko.wikipedia.org/wiki/염정원_\(아나운서\) "wikilink") (퇴사)
+  - [한기영](https://ko.wikipedia.org/wiki/한기영 "wikilink") (퇴사)
   - [이지연](../Page/이지연_\(1975년\).md "wikilink") (2001년, 전 KBS 서울본국)
   - [강영은](https://ko.wikipedia.org/wiki/강영은 "wikilink") (2003년, 현 MBC 아나운서)
   - [김진희](../Page/김진희_\(아나운서\).md "wikilink") (2004년\~2005년, 현 KBS 서울본국)

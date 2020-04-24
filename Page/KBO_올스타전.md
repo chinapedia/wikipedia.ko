@@ -74,7 +74,7 @@
   - 1982년 [김용희](../Page/김용희_\(야구인\).md "wikilink") ([롯데 자이언츠](../Page/롯데_자이언츠.md "wikilink"), 동군) - 타자
   - 1983년 [신경식](../Page/신경식_\(야구인\).md "wikilink") ([OB 베어스](../Page/두산_베어스.md "wikilink"), 동군) - 타자
   - 1984년 [김용희](../Page/김용희_\(야구인\).md "wikilink") ([롯데 자이언츠](../Page/롯데_자이언츠.md "wikilink"), 동군) - 타자
-  - 1985년 [김시진](../Page/김시진.md "wikilink") ([삼성 라이온즈](https://ko.wikipedia.org/wiki/삼성_라이온즈 "wikilink"), 동군) - 투수
+  - 1985년 [김시진](../Page/김시진.md "wikilink") ([삼성 라이온즈](../Page/삼성_라이온즈.md "wikilink"), 동군) - 투수
   - 1986년 [김무종](../Page/김무종.md "wikilink") ([해태 타이거즈](https://ko.wikipedia.org/wiki/KIA_타이거즈 "wikilink"), 서군) - 타자
   - 1987년 [김종모](../Page/김종모.md "wikilink") ([해태 타이거즈](https://ko.wikipedia.org/wiki/KIA_타이거즈 "wikilink"), 서군) - 타자
   - 1988년 [한대화](../Page/한대화.md "wikilink") ([해태 타이거즈](https://ko.wikipedia.org/wiki/KIA_타이거즈 "wikilink"), 서군) - 타자
@@ -117,26 +117,26 @@
   - 4회 - [두산 베어스](../Page/두산_베어스.md "wikilink") (1983년, 2001년, 2006년, 2016년)
   - 3회 - [한화 이글스](../Page/한화_이글스.md "wikilink") (1993년, 1995년, 2000년)
   - 2회 - [LG 트윈스](../Page/LG_트윈스.md "wikilink") (1997년, 2011년), [현대 유니콘스](../Page/현대_유니콘스.md "wikilink") (1994년, 2002년), [키움 히어로즈](../Page/키움_히어로즈.md "wikilink") (2014년, 2018년), [SK 와이번스](../Page/SK_와이번스.md "wikilink") (2017년, 2019년)
-  - 1회 - [삼성 라이온즈](https://ko.wikipedia.org/wiki/삼성_라이온즈 "wikilink") (1985년), [쌍방울 레이더스](../Page/쌍방울_레이더스.md "wikilink") (1996년)
+  - 1회 - [삼성 라이온즈](../Page/삼성_라이온즈.md "wikilink") (1985년), [쌍방울 레이더스](../Page/쌍방울_레이더스.md "wikilink") (1996년)
 
 ## 홈런 레이스
 
 홈런 레이스는 올스타전 직전에 진행되는 일종의 미니 대회로, [1993년](../Page/1993년.md "wikilink")부터 시작되었다. [2015년](../Page/2015년.md "wikilink")을 기준으로 이 대회에는 인터파크에서 후원하고 있으며, 우승시에는 별도의 상금이 지급된다. 2012년까지는 올스타전 중간에 실시되었으나 2013년부터 올스타전 이전으로 바뀌었다.
 
-경기 진행방식은 [2009년](../Page/2009년.md "wikilink") 기준으로 각 선수들마다 아웃카운트가 7개씩 지급되며, 선수별로 각 한번씩만의 기회가 주어진다. 파울이 선언되거나 타구가 뻗지 못하고 경기장 내부에 떨어지면 아웃카운트가 하나씩 추가되는 형태이며, 투수가 던진 공을 치지 않고 그대로 흘려보내는 경우는 아웃카운트가 추가되지 않는다. 먼저 예선전에서 가장 많은 홈런 기능을 기록한 선수 가운데 2명이 결선 대결에 진출하게 되며, 이 선수들에 한해 아웃카운트를 각 10개씩 지급하여 한번씩만의 기회가 주어지게 된다. 이 가운데 홈런을 가장 많이 기록한 선수가 우승하게 되며, 여기서도 승부가 결정 나지 않을 경우 타격 1회씩 번갈아가며 재대결을 하게하여 최종 우승자를 가려낸다. [1993년](../Page/1993년.md "wikilink") [양준혁](../Page/양준혁.md "wikilink")이 초대 우승을 차지했으며 최다 횟수는 3회로 [한화 이글스](../Page/한화_이글스.md "wikilink") [김태균](../Page/김태균_\(1982년\).md "wikilink"), [SK 와이번스](../Page/SK_와이번스.md "wikilink") [박재홍](https://ko.wikipedia.org/wiki/박재홍_\(야구인\) "wikilink"), [삼성 라이온즈](https://ko.wikipedia.org/wiki/삼성_라이온즈 "wikilink") [양준혁](../Page/양준혁.md "wikilink")이다.
+경기 진행방식은 [2009년](../Page/2009년.md "wikilink") 기준으로 각 선수들마다 아웃카운트가 7개씩 지급되며, 선수별로 각 한번씩만의 기회가 주어진다. 파울이 선언되거나 타구가 뻗지 못하고 경기장 내부에 떨어지면 아웃카운트가 하나씩 추가되는 형태이며, 투수가 던진 공을 치지 않고 그대로 흘려보내는 경우는 아웃카운트가 추가되지 않는다. 먼저 예선전에서 가장 많은 홈런 기능을 기록한 선수 가운데 2명이 결선 대결에 진출하게 되며, 이 선수들에 한해 아웃카운트를 각 10개씩 지급하여 한번씩만의 기회가 주어지게 된다. 이 가운데 홈런을 가장 많이 기록한 선수가 우승하게 되며, 여기서도 승부가 결정 나지 않을 경우 타격 1회씩 번갈아가며 재대결을 하게하여 최종 우승자를 가려낸다. [1993년](../Page/1993년.md "wikilink") [양준혁](../Page/양준혁.md "wikilink")이 초대 우승을 차지했으며 최다 횟수는 3회로 [한화 이글스](../Page/한화_이글스.md "wikilink") [김태균](../Page/김태균_\(1982년\).md "wikilink"), [SK 와이번스](../Page/SK_와이번스.md "wikilink") [박재홍](https://ko.wikipedia.org/wiki/박재홍_\(야구인\) "wikilink"), [삼성 라이온즈](../Page/삼성_라이온즈.md "wikilink") [양준혁](../Page/양준혁.md "wikilink")이다.
 
 ### 역대 홈런레이스 우승자
 
-  - 1993년([사직 야구장](../Page/사직야구장.md "wikilink")) [양준혁](../Page/양준혁.md "wikilink")([삼성 라이온즈](https://ko.wikipedia.org/wiki/삼성_라이온즈 "wikilink")) - 10회 타격 5홈런
+  - 1993년([사직 야구장](../Page/사직야구장.md "wikilink")) [양준혁](../Page/양준혁.md "wikilink")([삼성 라이온즈](../Page/삼성_라이온즈.md "wikilink")) - 10회 타격 5홈런
   - 1994년([잠실 야구장](https://ko.wikipedia.org/wiki/잠실_야구장 "wikilink")) [김기태](https://ko.wikipedia.org/wiki/김기태_\(1969년\) "wikilink")([쌍방울 레이더스](../Page/쌍방울_레이더스.md "wikilink")) - 10회 타격 3홈런
   - 1995년([사직 야구장](../Page/사직야구장.md "wikilink")) [마해영](../Page/마해영.md "wikilink")([롯데 자이언츠](../Page/롯데_자이언츠.md "wikilink")) - 10회 타격 6홈런
   - 1996년([잠실 야구장](https://ko.wikipedia.org/wiki/잠실_야구장 "wikilink")) [심재학](../Page/심재학.md "wikilink")([LG 트윈스](../Page/LG_트윈스.md "wikilink")) - 10회 타격 2홈런 (비고 - 연장전 우승)
   - 1997년([대구 야구장](../Page/대구시민운동장_야구장.md "wikilink")) [박재홍](https://ko.wikipedia.org/wiki/박재홍_\(야구인\) "wikilink")([현대 유니콘스](../Page/현대_유니콘스.md "wikilink")) - 5아웃 2홈런
-  - 1998년([광주 야구장](../Page/광주무등경기장_야구장.md "wikilink")) [양준혁](../Page/양준혁.md "wikilink")([삼성 라이온즈](https://ko.wikipedia.org/wiki/삼성_라이온즈 "wikilink")) - 10회 타격 5홈런
+  - 1998년([광주 야구장](../Page/광주무등경기장_야구장.md "wikilink")) [양준혁](../Page/양준혁.md "wikilink")([삼성 라이온즈](../Page/삼성_라이온즈.md "wikilink")) - 10회 타격 5홈런
   - 1999년([수원 야구장](https://ko.wikipedia.org/wiki/수원_야구장 "wikilink")) [박재홍](https://ko.wikipedia.org/wiki/박재홍_\(야구인\) "wikilink")([현대 유니콘스](../Page/현대_유니콘스.md "wikilink")) - 11회 타격 4홈런
   - 2000년([마산 야구장](https://ko.wikipedia.org/wiki/마산_야구장 "wikilink"),제주 야구장) [타이론 우즈](../Page/타이론_우즈.md "wikilink")([두산 베어스](../Page/두산_베어스.md "wikilink")) - 10아웃 9홈런 (비고 - 내,외국인 홈런레이스 승자끼리 결승전. 내국인 승자는 [심정수](../Page/심정수.md "wikilink"),[이승엽](https://ko.wikipedia.org/wiki/이승엽 "wikilink"))
   - 2001년([잠실 야구장](https://ko.wikipedia.org/wiki/잠실_야구장 "wikilink")) [양준혁](../Page/양준혁.md "wikilink")([LG 트윈스](../Page/LG_트윈스.md "wikilink")) - 7아웃 4홈런 (비고 - 연장전 우승)
-  - 2002년([문학 야구장](https://ko.wikipedia.org/wiki/문학_야구장 "wikilink")) [틸슨 브리또](https://ko.wikipedia.org/wiki/틸슨_브리또 "wikilink")([삼성 라이온즈](https://ko.wikipedia.org/wiki/삼성_라이온즈 "wikilink")) - 5아웃 2홈런
+  - 2002년([문학 야구장](https://ko.wikipedia.org/wiki/문학_야구장 "wikilink")) [틸슨 브리또](https://ko.wikipedia.org/wiki/틸슨_브리또 "wikilink")([삼성 라이온즈](../Page/삼성_라이온즈.md "wikilink")) - 5아웃 2홈런
   - 2003년([대전 야구장](https://ko.wikipedia.org/wiki/대전야구장 "wikilink")) [김동주](../Page/김동주_\(야구인\).md "wikilink")([두산 베어스](../Page/두산_베어스.md "wikilink")) - 10아웃 5홈런
   - 2004년([사직 야구장](https://ko.wikipedia.org/wiki/사직_야구장 "wikilink")) [박용택](../Page/박용택.md "wikilink")([LG 트윈스](../Page/LG_트윈스.md "wikilink")) - 7아웃 4홈런
   - 2005년([문학 야구장](https://ko.wikipedia.org/wiki/문학_야구장 "wikilink")) [김태균](../Page/김태균_\(1982년\).md "wikilink")([한화 이글스](../Page/한화_이글스.md "wikilink")) - 7아웃 5홈런
@@ -147,7 +147,7 @@
   - 2010년([대구 야구장](../Page/대구시민운동장_야구장.md "wikilink")) [김현수](https://ko.wikipedia.org/wiki/김현수_\(야구_선수\) "wikilink")([두산 베어스](../Page/두산_베어스.md "wikilink")) - 7아웃 10홈런 (비고 - 역대 홈런레이스 결승 사상 최다 홈런)
   - 2011년([잠실 야구장](https://ko.wikipedia.org/wiki/잠실_야구장 "wikilink")) [박정권](../Page/박정권.md "wikilink")([SK 와이번스](../Page/SK_와이번스.md "wikilink")) - 10아웃 7홈런 (비고 - 예선에서는 7아웃 6홈런을 기록)
   - 2012년([대전 야구장](https://ko.wikipedia.org/wiki/대전야구장 "wikilink")) [김태균](../Page/김태균_\(1982년\).md "wikilink")([한화 이글스](../Page/한화_이글스.md "wikilink")) - 10아웃 6홈런 (비고 - 예선에서는 14개 홈런으로 예선부문 신기록)
-  - 2013년([포항 야구장](https://ko.wikipedia.org/wiki/포항_야구장 "wikilink")) [이승엽](https://ko.wikipedia.org/wiki/이승엽 "wikilink")([삼성 라이온즈](https://ko.wikipedia.org/wiki/삼성_라이온즈 "wikilink")) - 10아웃 6홈런
+  - 2013년([포항 야구장](https://ko.wikipedia.org/wiki/포항_야구장 "wikilink")) [이승엽](https://ko.wikipedia.org/wiki/이승엽 "wikilink")([삼성 라이온즈](../Page/삼성_라이온즈.md "wikilink")) - 10아웃 6홈런
   - 2014년([광주-기아 챔피언스 필드](../Page/광주-기아_챔피언스_필드.md "wikilink")) [김현수](https://ko.wikipedia.org/wiki/김현수_\(야구_선수\) "wikilink") ([두산 베어스](../Page/두산_베어스.md "wikilink")) - 10아웃 14홈런 (비고 - 자신의 역대 홈런레이스 결승 사상 최다 홈런 보유 기록 갱신)
   - 2015년([수원 kt 위즈 파크](https://ko.wikipedia.org/wiki/수원_kt_위즈_파크 "wikilink")) [황재균](../Page/황재균.md "wikilink")([롯데 자이언츠](../Page/롯데_자이언츠.md "wikilink")) - 10아웃 11홈런
   - 2016년([고척스카이돔](../Page/고척스카이돔.md "wikilink")) [히메네스](../Page/루이스_히메네스_\(1988년\).md "wikilink")([LG 트윈스](../Page/LG_트윈스.md "wikilink")) - 10아웃 5홈런
@@ -177,9 +177,9 @@
 
 ### 역대 퍼펙트 피쳐 우승자
 
-  - 2013년([포항 야구장](../Page/포항야구장.md "wikilink")) [오승환](https://ko.wikipedia.org/wiki/오승환 "wikilink")([삼성 라이온즈](https://ko.wikipedia.org/wiki/삼성_라이온즈 "wikilink")) - 3점
+  - 2013년([포항 야구장](../Page/포항야구장.md "wikilink")) [오승환](https://ko.wikipedia.org/wiki/오승환 "wikilink")([삼성 라이온즈](../Page/삼성_라이온즈.md "wikilink")) - 3점
   - 2014년([광주-기아 챔피언스 필드](../Page/광주-기아_챔피언스_필드.md "wikilink")) [이동현](../Page/이동현_\(1983년\).md "wikilink") ([LG 트윈스](../Page/LG_트윈스.md "wikilink")) - 8점
-  - 2015년([수원 kt 위즈 파크](../Page/수원야구장.md "wikilink")) [안지만](../Page/안지만.md "wikilink")([삼성 라이온즈](https://ko.wikipedia.org/wiki/삼성_라이온즈 "wikilink")) - 5점
+  - 2015년([수원 kt 위즈 파크](../Page/수원야구장.md "wikilink")) [안지만](../Page/안지만.md "wikilink")([삼성 라이온즈](../Page/삼성_라이온즈.md "wikilink")) - 5점
   - 2016년([고척스카이돔](../Page/고척스카이돔.md "wikilink")) [오재원](../Page/오재원.md "wikilink")([두산 베어스](../Page/두산_베어스.md "wikilink")) - 9점
   - 2017년([대구 삼성 라이온즈 파크](https://ko.wikipedia.org/wiki/대구_삼성_라이온즈_파크 "wikilink")) [이현승](../Page/이현승_\(야구_선수\).md "wikilink") ([두산 베어스](../Page/두산_베어스.md "wikilink"))
   - 2018년([울산 문수야구장](../Page/울산문수야구장.md "wikilink")) [양의지](../Page/양의지.md "wikilink") ([두산 베어스](../Page/두산_베어스.md "wikilink"))
@@ -201,7 +201,7 @@
 ### 역대 슈퍼레이스 우승팀
 
   - 2019년([창원NC파크](../Page/창원NC파크.md "wikilink")) [키움 히어로즈](../Page/키움_히어로즈.md "wikilink") ([이정후](../Page/이정후.md "wikilink"),[제리 샌즈](../Page/제리_샌즈.md "wikilink")) - 초대우승
-  - 2019년([창원NC파크](../Page/창원NC파크.md "wikilink")) [삼성 라이온즈](https://ko.wikipedia.org/wiki/삼성_라이온즈 "wikilink")([이학주](https://ko.wikipedia.org/wiki/이학주 "wikilink"),[김상수](https://ko.wikipedia.org/wiki/김상수 "wikilink")) - 초대준우승
+  - 2019년([창원NC파크](../Page/창원NC파크.md "wikilink")) [삼성 라이온즈](../Page/삼성_라이온즈.md "wikilink")([이학주](https://ko.wikipedia.org/wiki/이학주 "wikilink"),[김상수](https://ko.wikipedia.org/wiki/김상수 "wikilink")) - 초대준우승
 
 ## 각주
 

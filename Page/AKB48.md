@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [AKB48](https://ko.wikipedia.org/wiki/AKB48).
 
 
-[팝](../Page/팝_음악.md "wikilink"){{·w}} [일렉트로팝](../Page/전자_음악.md "wikilink"){{·w}} [팝 록](../Page/팝_록.md "wikilink"){{·w}} [댄스 팝](../Page/댄스_팝.md "wikilink") |활동 시기 = [2005년](../Page/2005년.md "wikilink") \~ 현재 |레이블 =  |소속사 = [AKS](../Page/AKS_\(기업\).md "wikilink") |관련 활동 =
+[팝](../Page/팝_음악.md "wikilink"){{·w}} [일렉트로팝](../Page/전자_음악.md "wikilink"){{·w}} [팝 록](../Page/팝_록.md "wikilink"){{·w}} [댄스 팝](../Page/댄스_팝.md "wikilink") |활동 시기 = [2005년](../Page/2005년.md "wikilink") \~ 현재 |레이블 =  |소속사 = DH <small>(2020.4 \~ )</small> |관련 활동 =
 
   - **[자매 그룹](../Page/AKB48_그룹.md "wikilink")**
     [SKE48](../Page/SKE48.md "wikilink")

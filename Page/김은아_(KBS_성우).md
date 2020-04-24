@@ -62,6 +62,7 @@
   - [스텝맘](../Page/스텝맘.md "wikilink") ([KBS](https://ko.wikipedia.org/wiki/KBS "wikilink")) - 안나 해리슨 ([지나 말론](https://ko.wikipedia.org/wiki/지나_말론 "wikilink"))
   - [엑시덴탈 스파이](../Page/엑시덴탈_스파이.md "wikilink") ([KBS](https://ko.wikipedia.org/wiki/KBS "wikilink"))
   - [영 건 2](../Page/영_건_2.md "wikilink") ([KBS](https://ko.wikipedia.org/wiki/KBS "wikilink"))
+  - [용서받지 못한 자](../Page/용서받지_못한_자_\(1992년_영화\).md "wikilink") ([KBS](https://ko.wikipedia.org/wiki/KBS "wikilink")) - 실키(베벌리 엘리어트)
   - [왕의 춤](https://ko.wikipedia.org/wiki/왕의_춤 "wikilink") ([KBS](https://ko.wikipedia.org/wiki/KBS "wikilink")) - 줄리 ([클레르 케임](https://ko.wikipedia.org/wiki/클레르_케임 "wikilink"))
   - [용행천하](https://ko.wikipedia.org/wiki/용행천하 "wikilink") ([KBS](https://ko.wikipedia.org/wiki/KBS "wikilink")) - 안나 ([앤 리케츠](https://ko.wikipedia.org/wiki/앤_리케츠 "wikilink"))
   - [음식남녀](../Page/음식남녀.md "wikilink") ([KBS](https://ko.wikipedia.org/wiki/KBS "wikilink"))

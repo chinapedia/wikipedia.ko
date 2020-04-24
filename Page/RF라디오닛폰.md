@@ -24,7 +24,7 @@
   - [1971년](../Page/1971년.md "wikilink") [11월](../Page/11월.md "wikilink") - 30kW로 증력
   - [1977년](../Page/1977년.md "wikilink") [11월](../Page/11월.md "wikilink") - [요미우리 신문과](../Page/요미우리_신문.md "wikilink") 자이언츠전 라디오 중계 독점 계약을 체결
   - [1978년](../Page/1978년.md "wikilink") [1월](../Page/1월.md "wikilink") - 뉴스 제공처를 [마이니치 신문에서](../Page/마이니치_신문.md "wikilink") 요미우리 신문사로 변경
-  - [1978년](../Page/1978년.md "wikilink") [11월 23일](../Page/11월_23일.md "wikilink") - ITU(국제 전기통신 연합) 의 결정으로 주파수가 오전 5시를 기해 주파수가 1422 kHz로 변경되었다.
+  - [1978년](../Page/1978년.md "wikilink") [11월 23일](../Page/11월_23일.md "wikilink") - ITU(국제 전기통신 연합)의 결정으로 주파수가 오전 5시를 기해 주파수가 1422 kHz로 변경되었다.
   - [1981년](../Page/1981년.md "wikilink") [7월 20일](../Page/7월_20일.md "wikilink") - 오다와라 방송국 방송 개시
   - [1981년](../Page/1981년.md "wikilink") [10월 1일](../Page/10월_1일.md "wikilink") - 50kW로 출력을 키우면서 현재의 회사명으로 변경
   - [1982년](../Page/1982년.md "wikilink") [4월](../Page/4월.md "wikilink") - 「사회의 목탁」선언(아이돌 라디오나 팝 프로그램이 줄어 들기 시작한다)

@@ -5,13 +5,13 @@
 
 ## 음반 정보
 
-3집은 [1집](../Page/Seotaiji_and_Boys_1.md "wikilink"), [2집과](../Page/Seotaiji_and_Boys_2.md "wikilink") 달리 댄스 곡이 단 한 곡도 없고, 서태지가 선호하는 락 장르의 음악과 발라드로만 채워져 있다. 또한 수록곡의 많은 수가 강한 사회적 메시지를 담고 있었다. 서태지의 마지막 LP 발매음반이기도 하다.
+3집은 [1집](../Page/Seotaiji_and_Boys_1.md "wikilink"), [2집과](../Page/Seotaiji_and_Boys_2.md "wikilink") 달리 댄스 곡이 단 한 곡도 없고, 서태지가 선호하는 락 장르의 음악과 발라드로만 채워져 있다. 또한 수록곡의 많은 수가 강한 사회적 메시지를 담고 있었다. 서태지와 아이들의 마지막 LP 발매음반이기도 하다.
 
 ### 수록곡 소개
 
 1.  발해를 꿈꾸며 : 3집의 타이틀 곡, [분단과](../Page/분단국가.md "wikilink") [남북통일](../Page/남북통일.md "wikilink")을 주제로 다루었으며, 뮤직비디오로 제작되었다.
 2.  아이들의 눈으로 : 제목 그대로 아이들의 마음, 즉 동심을 노래한 곡, [태지의 화에도](https://ko.wikipedia.org/wiki/태지의_화 "wikilink") 수록되어 있다.
-3.  교실 이데아 : 대한민국 교육의 문제를 날카롭게 꼬집었다. [크래쉬의](https://ko.wikipedia.org/wiki/크래쉬_\(대한민국의_음악_그룹\) "wikilink") [안흥찬](https://ko.wikipedia.org/wiki/안흥찬 "wikilink")이 참여한 이 곡은 당시 10대 청소년들의 전폭적인 지지를 받았다. 2007년 리믹스되어 15주년 기념음반에 수록되었으며, 2013년에는 [tvN](https://ko.wikipedia.org/wiki/tvN "wikilink")의 드라마 《[응답하라 1994](../Page/응답하라_1994.md "wikilink")》에서 [교실이데아 소동이](https://ko.wikipedia.org/wiki/교실이데아_소동 "wikilink") 그려지는 부분에 삽입되었다.
+3.  교실 이데아 : 대한민국 교육의 문제를 날카롭게 꼬집었다. [크래쉬의](../Page/크래쉬_\(대한민국의_밴드\).md "wikilink") [안흥찬](https://ko.wikipedia.org/wiki/안흥찬 "wikilink")이 참여한 이 곡은 당시 10대 청소년들의 전폭적인 지지를 받았다. 2007년 리믹스되어 15주년 기념음반에 수록되었으며, 2013년에는 [tvN](https://ko.wikipedia.org/wiki/tvN "wikilink")의 드라마 《[응답하라 1994](../Page/응답하라_1994.md "wikilink")》에서 [교실이데아 소동이](https://ko.wikipedia.org/wiki/교실이데아_소동 "wikilink") 그려지는 부분에 삽입되었다.
 4.  내 맘이야 : [펑크적인](../Page/펑크_록.md "wikilink") 색채가 농후하다.
 5.  제킬 박사와 하이드: 2집의 〈죽음의 늪〉에 이어 다시 한번 마약 문제를 다루었다.
 6.  영원 : 현악 반주로 구성된 발라드이며, 후에 가수 [김동률](../Page/김동률.md "wikilink")이 극찬한 곡
@@ -19,19 +19,21 @@
 
 ### 일본 발매판
 
-서태지와 아이들의 일본 진출 앨범이후로 3집이 1995년 1월에 일본에서 발매되었다. 초회 한정판에는 스티커가 포함되어 있다.
+서태지와 아이들의 일본 진출 앨범 이후로 3집이 1995년 1월에 일본에서 발매되었다. 초회 한정판에는 스티커가 포함되어 있다.
 
 ### 재발매판
 
-2007년 발매된 서태지 15주년 기념 박스세트에 포함된 버전이 2009년에 또 다시 개별적으로 재발매 되었다. 앨범의 히든트랙으로는 《[다른 하늘이 열리고](../Page/다른_하늘이_열리고.md "wikilink")》의 라이브 음원과 2007년에 새롭게 리믹스 한 버전의 〈교실 이데아〉가 수록되었다.
+2007년 발매된 서태지 15주년 기념 박스세트에 포함된 버전이 2009년에 또다시 개별적으로 재발매되었다. 앨범의 히든트랙으로는 《[다른 하늘이 열리고](../Page/다른_하늘이_열리고.md "wikilink")》의 라이브 음원과 2007년에 새롭게 리믹스 한 버전의 〈교실 이데아〉가 수록되었다.
 
-## 갖가지 괴담
+## 기타 사항
+
+### 갖가지 괴담
 
 3집 활동 당시 [사탄](../Page/사탄.md "wikilink")과 서태지와 아이들이 연관되어 있다는 괴소문이 한동안 떠돌았다. 당시 [PC 통신상에는](https://ko.wikipedia.org/wiki/PC_통신 "wikilink") 〈교실 이데아〉를 거꾸로 들어보면 "피가 모자라"라고 외치는 사탄의 메시지가 들어 있다는 이야기가 퍼졌다. 심지어 이런 소문들은 공중파의 뉴스의 보도를 통해 전국으로 알려졌다. 이러한 괴소문들은 MBC 뉴스데스크, KBS 추적 60분, SBS 그것이 알고 싶다에서 〈교실 이데아〉를 직접 돌려 틀어 사실무근임을 밝혀내면서 잠잠해졌다. 공중파의 메인 뉴스 방송에서 특정 연예인에 대한 괴소문을 직접 파고든 일은 전례가 없는 것으로 당시 서태지와 아이들의 영향력을 실감케 한다. 뿐만 아니라 당시 임신설, 동성애설 등의 루머가 떠돌았다.
 
 훗날 서태지는 8집 활동을 시작할 때에 있었던 인터뷰에서 사탄설에 많이 놀랐지만, 임신설 등의 루머는 재미있었다고 답했다.\[5\]\[6\]
 
-## 고등학교 교과서 수록
+### 고등학교 교과서 수록
 
 대한민국 100대 명반에 포함되는 등 3집 앨범은 상당한 음악적 성과를 거둔 것으로 평가되고 있다. 특히 고등학교 [7차교육과정](https://ko.wikipedia.org/wiki/7차교육과정 "wikilink") '음악과생활' 교과서에 90년대를 대표하는 곡으로 〈발해를 꿈꾸며〉가 수록되어 화제가 되었다.
 
@@ -57,7 +59,7 @@
 
 </dl>
 <ul>
-<li><a href="../Page/서태지.md" title="wikilink">서태지</a>: <a href="../Page/음악_프로듀서.md" title="wikilink">프로듀서</a>, 녹음(Techno Taiji Studio - 3, 4, 6, 9), <a href="https://ko.wikipedia.org/wiki/메인_보컬" title="wikilink">메인 보컬</a>, <a href="https://ko.wikipedia.org/wiki/랩_(음악)" title="wikilink">랩</a>, <a href="https://ko.wikipedia.org/wiki/작사" title="wikilink">작사</a>(트랙 9 제외)·<a href="https://ko.wikipedia.org/wiki/작곡" title="wikilink">작곡</a>·<a href="../Page/편곡.md" title="wikilink">편곡</a>, <a href="https://ko.wikipedia.org/wiki/건반" title="wikilink">건반</a>(2~5, 8, 9), 컴퓨터 프로그래밍(3, 9), <a href="../Page/전기_기타.md" title="wikilink">전기 기타</a>(4, 6), <a href="../Page/베이스_기타.md" title="wikilink">베이스 기타</a>(4~6), <a href="https://ko.wikipedia.org/wiki/드럼셋" title="wikilink">드럼</a> 프로그래밍(5)</li>
+<li><a href="../Page/서태지.md" title="wikilink">서태지</a>: <a href="../Page/음악_프로듀서.md" title="wikilink">프로듀서</a>, 녹음(Techno Taiji Studio - 3, 4, 6, 9), <a href="https://ko.wikipedia.org/wiki/메인_보컬" title="wikilink">메인 보컬</a>, <a href="https://ko.wikipedia.org/wiki/랩_(음악)" title="wikilink">랩</a>, <a href="https://ko.wikipedia.org/wiki/작사" title="wikilink">작사</a>(트랙 9 제외)·<a href="https://ko.wikipedia.org/wiki/작곡" title="wikilink">작곡</a>·<a href="../Page/편곡.md" title="wikilink">편곡</a>, <a href="https://ko.wikipedia.org/wiki/건반" title="wikilink">건반</a>(2~5, 8, 9), 컴퓨터 프로그래밍(3, 9), <a href="../Page/전기_기타.md" title="wikilink">전기 기타</a>(4, 6), <a href="../Page/베이스_기타.md" title="wikilink">베이스 기타</a>(4~6), <a href="https://ko.wikipedia.org/wiki/드럼" title="wikilink">드럼</a> 프로그래밍(5)</li>
 <li><a href="../Page/양현석.md" title="wikilink">양현석</a>: 작사(트랙 9), 랩, <a href="https://ko.wikipedia.org/wiki/보컬" title="wikilink">보컬</a>, 백킹보컬, 안무</li>
 <li><a href="../Page/이주노.md" title="wikilink">이주노</a>: 랩, 보컬, 백킹보컬, 안무</li>
 </ul>

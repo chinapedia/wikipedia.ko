@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Hyde \(음악가\)](https://ko.wikipedia.org/wiki/Hyde_\(음악가\)).
 
 
-**하이도** (*hyde*, [1969년](../Page/1969년.md "wikilink") [1월 29일](../Page/1월_29일.md "wikilink") \~ ) 는 [와카야마 시에서](https://ko.wikipedia.org/wiki/와카야마_시 "wikilink") 독자로 태어났다. 일본 락밴드 [라르크 앙 시엘의](https://ko.wikipedia.org/wiki/라르크_앙_시엘 "wikilink") 보컬리스트이다. 2001년 10월부터 HYDE라는 이름으로 솔로 활동을 시작했다. 2008년 OBLIVION DUST의 기타리스트 K.A.Z와 [VAMPS라는](https://ko.wikipedia.org/wiki/뱀프스 "wikilink") 유닛을 결성하여 활동하고 있다. 기상캐스터 출신 탤런트 [오오이시 메구미와](https://ko.wikipedia.org/wiki/오오이시_메구미 "wikilink") 2000년 12월 25일 결혼하여 슬하에 2003년 11월 11일 출생한 1남을 두고 있다．
+**하이도**(*hyde*, [1969년](../Page/1969년.md "wikilink") [1월 29일](../Page/1월_29일.md "wikilink") \~ )는 [와카야마 시에서](https://ko.wikipedia.org/wiki/와카야마_시 "wikilink") 독자로 태어났다. 일본 락밴드 [라르크 앙 시엘의](https://ko.wikipedia.org/wiki/라르크_앙_시엘 "wikilink") 보컬리스트이다. 2001년 10월부터 HYDE라는 이름으로 솔로 활동을 시작했다. 2008년 OBLIVION DUST의 기타리스트 K.A.Z와 [VAMPS라는](https://ko.wikipedia.org/wiki/뱀프스 "wikilink") 유닛을 결성하여 활동하고 있다. 기상캐스터 출신 탤런트 [오오이시 메구미와](https://ko.wikipedia.org/wiki/오오이시_메구미 "wikilink") 2000년 12월 25일 결혼하여 슬하에 2003년 11월 11일 출생한 1남을 두고 있다．
 
 ## 음반
 
@@ -93,4 +93,4 @@ HYDE (2009년 3월 18일)
 
   -
   -
-[분류:1969년 태어남](https://ko.wikipedia.org/wiki/분류:1969년_태어남 "wikilink") [분류:살아있는 사람](https://ko.wikipedia.org/wiki/분류:살아있는_사람 "wikilink") [분류:일본의 남자 가수](https://ko.wikipedia.org/wiki/분류:일본의_남자_가수 "wikilink") [분류:일본의 록 가수](https://ko.wikipedia.org/wiki/분류:일본의_록_가수 "wikilink") [분류:일본의 남자 영화 배우](https://ko.wikipedia.org/wiki/분류:일본의_남자_영화_배우 "wikilink") [분류:일본의 남자 싱어송라이터](https://ko.wikipedia.org/wiki/분류:일본의_남자_싱어송라이터 "wikilink")
+[분류:1969년 태어남](https://ko.wikipedia.org/wiki/분류:1969년_태어남 "wikilink") [분류:살아있는 사람](https://ko.wikipedia.org/wiki/분류:살아있는_사람 "wikilink") [분류:일본의 남자 가수](https://ko.wikipedia.org/wiki/분류:일본의_남자_가수 "wikilink") [분류:일본의 록 가수](https://ko.wikipedia.org/wiki/분류:일본의_록_가수 "wikilink") [분류:일본의 남자 영화 배우](https://ko.wikipedia.org/wiki/분류:일본의_남자_영화_배우 "wikilink") [분류:일본의 남자 싱어송라이터](https://ko.wikipedia.org/wiki/분류:일본의_남자_싱어송라이터 "wikilink") [분류:20세기 사람](https://ko.wikipedia.org/wiki/분류:20세기_사람 "wikilink") [분류:21세기 사람](https://ko.wikipedia.org/wiki/분류:21세기_사람 "wikilink")

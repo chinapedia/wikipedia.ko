@@ -156,8 +156,7 @@ PC,모바일 MY K로 실시간 시청 가능
 <td><p><a href="../Page/KBS_뉴스광장.md" title="wikilink">KBS 뉴스광장 광주·전남</a></p></td>
 <td><p>15분</p></td>
 <td><p>월요일 ~ 금요일 오전 7시 35분 ~ 7시 45분</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/김한별_(아나운서)" title="wikilink">김한별</a><br />
-<a href="https://ko.wikipedia.org/wiki/임진숙" title="wikilink">임진숙</a>(주말)</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/김한별_(아나운서)" title="wikilink">김한별</a>(평일)</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/KBS_뉴스_(930)" title="wikilink">KBS 뉴스 (930) 광주·전남</a></p></td>
@@ -346,7 +345,6 @@ PC,모바일 MY K로 실시간 시청 가능
 #### 여성
 
   - [양율희](https://ko.wikipedia.org/wiki/양율희 "wikilink") (퇴사)
-  - [홍소연](../Page/홍소연.md "wikilink") (현 KBS 서울본국)
   - [임지현](https://ko.wikipedia.org/wiki/임지현 "wikilink") ([2006년](../Page/2006년.md "wikilink") 전 KNN 아나운서, 전 청주MBC 아나운서, 전 MBC 라디오 뉴스캐스터)
   - [이혜성](../Page/이혜성.md "wikilink") (2016\~2018, 현 KBS 서울본국)
   - [채윤아](https://ko.wikipedia.org/wiki/채윤아 "wikilink") (현 KBS순천방송국)

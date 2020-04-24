@@ -29,7 +29,7 @@ PC 게임의 첫 세대는 보통 플레이어가 [컴퓨터 키보드로](https
 
 빠른 그래픽 가속기와 [CPU](../Page/중앙_처리_장치.md "wikilink") 기술의 발전은 컴퓨터 게임의 사실도를 높였다. [ATI](https://ko.wikipedia.org/wiki/ATI "wikilink")의 [레이디언 R300과](https://ko.wikipedia.org/wiki/레이디언_R300 "wikilink") [엔비디아](../Page/엔비디아.md "wikilink")의 [지포스 6 시리즈는](../Page/지포스_6_시리즈.md "wikilink") 개발자들이 현대 [게임 엔진의](../Page/게임_엔진.md "wikilink") 복잡한 작업을 증가할 수 있도록 하였다. PC 게임은 현재도 3D 그래픽을 향상시키기 위해 노력하고 있다.
 
-또한 최근에 개발되는 게임은 대부분 그래픽 이외에도 물리학적 연산의 수행으로 게임 내 등장하는 모든 객체의 사실적인 묘사를 위해 [하복 물리 엔진](https://ko.wikipedia.org/wiki/하복_물리_엔진 "wikilink") 같은 [물리 엔진](https://ko.wikipedia.org/wiki/물리_엔진 "wikilink") 소프트웨어도 사용하고 있다.
+또한 최근에 개발되는 게임은 거의 대부분 그래픽 이외에도 물리학적 연산의 수행으로 게임 내 등장하는 모든 객체의 사실적인 묘사를 위해 [하복 물리 엔진](https://ko.wikipedia.org/wiki/하복_물리_엔진 "wikilink") 같은 [물리 엔진](https://ko.wikipedia.org/wiki/물리_엔진 "wikilink") 소프트웨어도 사용하고 있다.
 
 2000년대 들어서 광대역 인터넷이 널리 보급되면서 여러 사람이 한 곳에 동시접속해 즐기는 [온라인 게임](../Page/온라인_게임.md "wikilink") 시장이 최근 발달하고 있다.
 

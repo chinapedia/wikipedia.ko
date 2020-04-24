@@ -15,11 +15,13 @@
 
 2007년 발매된 [서태지](../Page/서태지.md "wikilink") 15주년 기념 박스세트에 포함된 버전이 2009년에 또 다시 개별적으로 재발매 되었다. 초판에서 연주곡만 수록됐던 〈시대유감〉과 〈Good Bye〉는 서태지의 보컬이 삽입된 버전으로 교체되었고, 앨범의 히든트랙으로는 2004년 제로 투어 앨범의 라이브 음원과 2007년에 새롭게 리믹스 한 〈컴백홈〉이 수록되었다.
 
-## 사전심의제도와 마찰
+## 논란
 
-### 앨범 발매전(시대유감 가사)
+### 사전심의제도와 마찰
 
-### 4집 발매 후
+#### 앨범 발매전(시대유감 가사)
+
+#### 4집 발매 후
 
 1995년 10월 27일 한국공연윤리위원회는 〈Come Back Home〉, 〈필승〉, 〈1996, 그들이 지구를 지배했을 때〉의 일부 가사가 심의때 제출한 가사와 다르다며 문체부에 제작사인 반도음반에 대한 행정조치를 의뢰하는 한편 불법음반 제작, 배포했다는 혐의로 검찰에 고발하기도 했다.\[5\] [작곡가](https://ko.wikipedia.org/wiki/작곡가 "wikilink") [정태춘](../Page/정태춘.md "wikilink") 등 여러 인물들의 노력 끝에 1996년 6월 7일 사전심의제도가 폐지되었고, 이를 기리는 의미로 서태지와 아이들 세 멤버의 보컬이 들어간 〈[시대유감](https://ko.wikipedia.org/wiki/시대유감_\(노래\) "wikilink")〉의 싱글이 제작되어 7월에 발매되었다.\[6\]
 
@@ -67,7 +69,7 @@
 <li><a href="../Page/김종서_(가수).md" title="wikilink">김종서</a>: 작곡(트랙 9 공동작곡), 보컬(9)</li>
 <li>Michael Landau: 기타(1, 5)</li>
 <li>Tim Pierce: 기타(2, 3, 9)</li>
-<li><a href="https://ko.wikipedia.org/wiki/조시_프리스" title="wikilink">조시 프리스</a>: <a href="https://ko.wikipedia.org/wiki/드럼_세트" title="wikilink">드럼</a>(1, 2, 3, 5)</li>
+<li><a href="https://ko.wikipedia.org/wiki/조시_프리스" title="wikilink">조시 프리스</a>: <a href="https://ko.wikipedia.org/wiki/드럼" title="wikilink">드럼</a>(1, 2, 3, 5)</li>
 <li>Neil Stubenhaus: <a href="../Page/베이스_기타.md" title="wikilink">베이스</a>(1, 2, 3, 5)</li>
 <li>DJ Ralph M: <a href="../Page/디스크_자키.md" title="wikilink">스크래치</a>(4, 9)</li>
 <li><a href="https://ko.wikipedia.org/wiki/이정식_(음악가)" title="wikilink">이정식</a>: <a href="../Page/색소폰.md" title="wikilink">색소폰</a>(트랙 8)</li>

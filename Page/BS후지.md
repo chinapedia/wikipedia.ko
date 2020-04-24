@@ -35,6 +35,6 @@
 
 ## 외부 링크
 
-  - [BS후지 공식 사이트](http://www.bsfuji.tv/top/)
+  - [BS후지 공식 사이트](https://web.archive.org/web/20080220190105/http://www.bsfuji.tv/top/)
 
 [분류:일본의 위성방송국](https://ko.wikipedia.org/wiki/분류:일본의_위성방송국 "wikilink") [분류:2000년 설립된 텔레비전 방송국과 채널](https://ko.wikipedia.org/wiki/분류:2000년_설립된_텔레비전_방송국과_채널 "wikilink") [분류:후지 TV](https://ko.wikipedia.org/wiki/분류:후지_TV "wikilink")

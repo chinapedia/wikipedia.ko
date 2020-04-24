@@ -5,7 +5,7 @@
 
 ## 배경
 
-IIGS는 [9월 15일에](../Page/9월_15일.md "wikilink") 발표되었다. 기존까지 애플 II에 사용했던 CPU는 8비트의 6502 였는데, 기존 애플 II 제품과의 호환성을 유지하기 위해 당시 [아미가](../Page/아미가.md "wikilink")와 [아타리 ST등의](../Page/아타리_ST.md "wikilink") 16비트 컴퓨터에서 사용하던 [모토로라 68000이](../Page/모토로라_68000.md "wikilink") 아닌 웨스턴 디자인 센터(Western Design Center)의 65C816 프로세서를 사용하였다.
+IIGS는 [9월 15일에](../Page/9월_15일.md "wikilink") 발표되었다. 기존까지 애플 II에 사용했던 CPU는 8비트의 6502 였는데, 기존 애플 II 제품과의 호환성을 유지하기 위해 당시 [아미가](../Page/아미가.md "wikilink")와 [아타리 ST등의](../Page/아타리_ST.md "wikilink") 16비트 컴퓨터에서 사용하던 [모토로라 68000이](../Page/모토로라_68000.md "wikilink") 아닌 웨스턴 디자인 센터(Western Design Center)의 [65C816](https://ko.wikipedia.org/wiki/WDC_65C816 "wikilink") 프로세서를 사용하였다.
 
 ## 하드웨어
 
@@ -23,15 +23,15 @@ IIGS는 640x200 [해상도](../Page/해상도.md "wikilink")의 [2비트](https:
 
 ## 소프트웨어
 
-애플 IIGS는 기존 애플 II 소프트웨어의 대부분을 실행할 수 있는데, 초기 애플 II의 [운영체제](https://ko.wikipedia.org/wiki/운영체제 "wikilink")로 Apple DOS, ProDOS 8, Apple Pascal를 모두 실행할 수 있으며, [애플 II+](https://ko.wikipedia.org/wiki/애플_II+ "wikilink"), IIe, IIc와 마찬가지로 IIGS도 Applesoft BASIC이 내장되어 있어 간단한 [어셈블리](https://ko.wikipedia.org/wiki/어셈블리 "wikilink") 언어 프로그래밍을 사용할 수 있다. 디스크에서 로드된 운영체제 역시 가능하다.
+애플 IIGS는 기존 애플 II 소프트웨어의 대부분을 실행할 수 있는데, 초기 애플 II의 [운영체제](https://ko.wikipedia.org/wiki/운영체제 "wikilink")로 [Apple DOS](../Page/애플_도스.md "wikilink"), [ProDOS 8](../Page/애플_프로도스.md "wikilink"), Apple Pascal를 모두 실행할 수 있으며, [애플 II+](https://ko.wikipedia.org/wiki/애플_II+ "wikilink"), [IIe](https://ko.wikipedia.org/wiki/애플_IIe "wikilink"), [IIc와](https://ko.wikipedia.org/wiki/애플_IIc "wikilink") 마찬가지로 IIGS도 [Applesoft BASIC이](../Page/애플소프트_베이직.md "wikilink") 내장되어 있어 간단한 [어셈블리](https://ko.wikipedia.org/wiki/어셈블리 "wikilink") 언어 프로그래밍을 사용할 수 있다. 디스크에서 로드된 운영체제 역시 가능하다.
 
 애플 IIGS의 [시스템 소프트웨어는](../Page/시스템_소프트웨어.md "wikilink") [그래픽 사용자 인터페이스](../Page/그래픽_사용자_인터페이스.md "wikilink")(GUI)를 채용하였으며 매킨토시의 [시스템 소프트웨어와](https://ko.wikipedia.org/wiki/Mac_OS "wikilink") 닮아 있다.
 
-시스템 소프트웨어의 초기 버전은 ProDOS 16 운영체제를 기반으로 하였는데 이것은 8비트 애플 II의 ProDOS를 기초로 만들어졌다. ProDOS 16이 8비트 코드 기반으로 작성되어서 IIGS의 기능을 충분히 활동하지 못하였으나, 새로운 16비트 시스템 소프트웨어인 GS/OS로 교체하면서 IIGS의 고유한 기능을 많이 활용할 수 있었다. 버전은 4.0부터 시작하였으며, 최종적으로는 1993년에 출시된 6.0.1이다.
+시스템 소프트웨어의 초기 버전은 ProDOS 16 운영체제를 기반으로 하였는데 이것은 8비트 애플 II의 [ProDOS를](../Page/애플_프로도스.md "wikilink") 기초로 만들어졌다. ProDOS 16이 8비트 코드 기반으로 작성되어서 IIGS의 기능을 충분히 활동하지 못하였으나, 새로운 16비트 시스템 소프트웨어인 [GS/OS](https://ko.wikipedia.org/wiki/GS/OS "wikilink")로 교체하면서 IIGS의 고유한 기능을 많이 활용할 수 있었다. 버전은 4.0부터 시작하였으며, 최종적으로는 1993년에 출시된 6.0.1이다.
 
-GUI 방식을 채용하였기 때문에 [윈도와](../Page/창_\(컴퓨팅\).md "wikilink") [메뉴](https://ko.wikipedia.org/wiki/메뉴 "wikilink"), [아이콘](../Page/아이콘.md "wikilink") 등의 개념을 이용하여 [마우스](../Page/마우스.md "wikilink")를 이용한 조작이 가능하다. 시스템 소프트웨어는 컴퓨터의 ROM에 일부를 저장하고 일부는 디스크로 읽어내는 "툴박스(toolbox)"라는 코드에 의해 구현하였다.
+GUI 방식을 채용하였기 때문에 [윈도와](../Page/창_\(컴퓨팅\).md "wikilink") [메뉴](https://ko.wikipedia.org/wiki/메뉴_\(컴퓨팅\) "wikilink"), [아이콘](../Page/아이콘.md "wikilink") 등의 개념을 이용하여 [마우스](../Page/마우스.md "wikilink")를 이용한 조작이 가능하다. 시스템 소프트웨어는 컴퓨터의 ROM에 일부를 저장하고 일부는 디스크로 읽어내는 "툴박스(toolbox)"라는 코드에 의해 구현하였다.
 
-대부분의 소프트웨어 회사들이 IIGS 소프트웨어 개발에 소극적인 반면 게임 회사인 [시에라 엔터테인먼트](../Page/시에라_엔터테인먼트.md "wikilink")(Sierra Entertainment)는 다양한 IIGS 게임 소프트웨어를 개발해내었다. 이것은 시에라가 애플과 긴밀한 관계에 있었다는 것을 가장 큰 이유로 보고 있다. 시에라에서는 [1984](https://ko.wikipedia.org/wiki/1984 "wikilink")\~[1988년](../Page/1988년.md "wikilink")에 \[\[어드벤처_게임\[\[에_사용했던_AGI_엔진을_가지고_있었는데_원래_\[\[IBM_PC|어드벤처 게임[에 사용했던 AGI 엔진을 가지고 있었는데 원래 \[\[IBM PC을](https://ko.wikipedia.org/wiki/에_사용했던_AGI_엔진을_가지고_있었는데_원래_[[IBM_PC "wikilink") 기반으로 만들어졌으나 당시 IBM의 성능이 매우 좋지 못하여 엔진 성능이 제대로 활용되지 못하였다. 그래서 고성능의 IIGS에 이 엔진을 적극적으로 활용하였으며, [킹스 퀘스트](https://ko.wikipedia.org/wiki/킹스_퀘스트 "wikilink"), [스페이스 퀘스트](https://ko.wikipedia.org/wiki/스페이스_퀘스트 "wikilink") 등의 초기 시리즈들이 IIGS버전에서 높은 성능을 보여준바 있다. 그러나, [1988년](../Page/1988년.md "wikilink") 이후 고해상도 그래픽과 사운드를 지원하는 SCI 엔진으로 바꾸면서 더이상 IIGS버전으로 내놓지 않게 되었다.
+대부분의 소프트웨어 회사들이 IIGS 소프트웨어 개발에 소극적인 반면 게임 회사인 [시에라 엔터테인먼트](../Page/시에라_엔터테인먼트.md "wikilink")(Sierra Entertainment)는 다양한 IIGS 게임 소프트웨어를 개발해내었다. 이것은 시에라가 애플과 긴밀한 관계에 있었다는 것을 가장 큰 이유로 보고 있다. 시에라에서는 [1984](https://ko.wikipedia.org/wiki/1984 "wikilink")\~[1988년](../Page/1988년.md "wikilink")에 [어드벤처 게임에](../Page/어드벤처_게임.md "wikilink") 사용했던 AGI 엔진을 가지고 있었는데 원래 [IBM PC을](../Page/IBM_PC.md "wikilink") 기반으로 만들어졌으나 당시 IBM의 성능이 매우 좋지 못하여 엔진 성능이 제대로 활용되지 못하였다. 그래서 고성능의 IIGS에 이 엔진을 적극적으로 활용하였으며, [킹스 퀘스트](https://ko.wikipedia.org/wiki/킹스_퀘스트 "wikilink"), [스페이스 퀘스트](https://ko.wikipedia.org/wiki/스페이스_퀘스트 "wikilink") 등의 초기 시리즈들이 IIGS버전에서 높은 성능을 보여준바 있다. 그러나, [1988년](../Page/1988년.md "wikilink") 이후 고해상도 그래픽과 사운드를 지원하는 SCI 엔진으로 바꾸면서 더이상 IIGS버전으로 내놓지 않게 되었다.
 
 ## 사양
 
@@ -100,9 +100,9 @@ GUI 방식을 채용하였기 때문에 [윈도와](../Page/창_\(컴퓨팅\).md
 
 ### 전문 칩 컨트롤러
 
-  - 플로피 드라이브용 IWM (Integrated Wozniak Machine, 통합 워즈니악 기계)
+  - 플로피 드라이브용 IWM (Integrated Wozniak Machine, [통합 워즈니악 기계](https://ko.wikipedia.org/wiki/통합_워즈니악_기계 "wikilink"))
   - 비디오용 VGC (Video Graphics Controller, 비디오 그래픽 컨트롤러)
-  - MEGA II (애플 IIe 컴퓨터의 칩)
+  - [MEGA II](https://ko.wikipedia.org/wiki/MEGA_II "wikilink") (애플 IIe 컴퓨터의 칩)
   - Ensoniq DOC (웨이브테이블 신디사이저)
   - Zilog Z8530 SCC (시리얼 포트 컨트롤러)
   - 애플 데스크톱 버스 마이크로 컨트롤러
@@ -124,6 +124,7 @@ GUI 방식을 채용하였기 때문에 [윈도와](../Page/창_\(컴퓨팅\).md
 ## 같이 보기
 
   - [애플 II](../Page/애플_II.md "wikilink")
+  - [애플 GS/OS](https://ko.wikipedia.org/wiki/애플_GS/OS "wikilink")
 
 [분류:애플 II](https://ko.wikipedia.org/wiki/분류:애플_II "wikilink")
 

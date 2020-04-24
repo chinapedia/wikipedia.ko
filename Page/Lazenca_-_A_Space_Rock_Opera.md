@@ -19,7 +19,7 @@
 
 ### 특징
 
-이 앨범에 수록된 곡 〈Lazenca, save Us〉 는 [오승환](https://ko.wikipedia.org/wiki/오승환 "wikilink")이 [삼성 라이온즈에서](https://ko.wikipedia.org/wiki/삼성_라이온즈 "wikilink") 활동하면서 등판할때 자주 쓰였다.\[6\]\[7\]
+이 앨범에 수록된 곡 〈Lazenca, save Us〉 는 [오승환](https://ko.wikipedia.org/wiki/오승환 "wikilink")이 [삼성 라이온즈에서](../Page/삼성_라이온즈.md "wikilink") 활동하면서 등판할때 자주 쓰였다.\[6\]\[7\]
 
 ## 곡 목록
 

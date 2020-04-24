@@ -42,6 +42,7 @@
   - FRESH : K-POP - **Non-Stop**
   - LIVE 4 U - **Non-Stop**
   - 아이돌 대백과 - **Non-Stop**
+  - 소나무의 펫하우스
 
 ### 해외 프로그램
 

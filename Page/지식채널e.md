@@ -295,6 +295,11 @@
 <td><p>매주 <a href="../Page/월요일.md" title="wikilink">월요일</a> ~ <a href="../Page/목요일.md" title="wikilink">목요일</a> 새벽 1:00 ~ 1:05 (5분)</p></td>
 <td></td>
 </tr>
+<tr class="odd">
+<td><p>rowspan"3" |<a href="../Page/2020년.md" title="wikilink">2020년</a> <a href="../Page/3월_30일.md" title="wikilink">3월 30일</a> ~ <strong>현재</strong></p></td>
+<td><p>매주 <a href="../Page/월요일.md" title="wikilink">월요일</a> ~ <a href="../Page/목요일.md" title="wikilink">목요일</a> 새벽 1:00 ~ 1:05 (5분)</p></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 

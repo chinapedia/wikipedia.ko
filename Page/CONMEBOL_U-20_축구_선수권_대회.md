@@ -29,7 +29,7 @@
 <tbody>
 <tr class="odd">
 <td><p>1954년<br />
-<em><a href="https://ko.wikipedia.org/wiki/1954년_CONMEBOL_U-20_축구_선수권_대회" title="wikilink">자세히</a></em></p></td>
+<em><a href="https://ko.wikipedia.org/wiki/1954년_CONMEBOL_U-20_챔피언십" title="wikilink">자세히</a></em></p></td>
 <td></td>
 <td><p><strong></strong></p></td>
 <td></td>
@@ -38,7 +38,7 @@
 </tr>
 <tr class="even">
 <td><p>1958년<br />
-<em><a href="https://ko.wikipedia.org/wiki/1958년_CONMEBOL_U-20_축구_선수권_대회" title="wikilink">자세히</a></em></p></td>
+<em><a href="https://ko.wikipedia.org/wiki/1958년_CONMEBOL_U-20_챔피언십" title="wikilink">자세히</a></em></p></td>
 <td></td>
 <td><p><strong></strong></p></td>
 <td></td>
@@ -47,7 +47,7 @@
 </tr>
 <tr class="odd">
 <td><p>1964년<br />
-<em><a href="https://ko.wikipedia.org/wiki/1964년_CONMEBOL_U-20_축구_선수권_대회" title="wikilink">자세히</a></em></p></td>
+<em><a href="https://ko.wikipedia.org/wiki/1964년_CONMEBOL_U-20_챔피언십" title="wikilink">자세히</a></em></p></td>
 <td></td>
 <td><p><strong></strong></p></td>
 <td></td>
@@ -83,7 +83,7 @@
 <tbody>
 <tr class="odd">
 <td><p>1967년<br />
-<em><a href="https://ko.wikipedia.org/wiki/1967년_CONMEBOL_U-20_축구_선수권_대회" title="wikilink">자세히</a></em></p></td>
+<em><a href="https://ko.wikipedia.org/wiki/1967년_CONMEBOL_U-20_챔피언십" title="wikilink">자세히</a></em></p></td>
 <td></td>
 <td><p><strong></strong><sup>1</sup></p></td>
 <td><p><strong>2–2</strong></p></td>
@@ -95,7 +95,7 @@
 </tr>
 <tr class="even">
 <td><p>1971년<br />
-<em><a href="https://ko.wikipedia.org/wiki/1971년_CONMEBOL_U-20_축구_선수권_대회" title="wikilink">자세히</a></em></p></td>
+<em><a href="https://ko.wikipedia.org/wiki/1971년_CONMEBOL_U-20_챔피언십" title="wikilink">자세히</a></em></p></td>
 <td></td>
 <td><p><strong></strong><sup>2</sup></p></td>
 <td><p><strong>1–1</strong></p></td>
@@ -107,7 +107,7 @@
 </tr>
 <tr class="odd">
 <td><p>1974년<br />
-<em><a href="https://ko.wikipedia.org/wiki/1974년_CONMEBOL_U-20_축구_선수권_대회" title="wikilink">자세히</a></em></p></td>
+<em><a href="https://ko.wikipedia.org/wiki/1974년_CONMEBOL_U-20_챔피언십" title="wikilink">자세히</a></em></p></td>
 <td></td>
 <td><p><strong></strong></p></td>
 <td><p><strong>2–1</strong></p></td>
@@ -144,7 +144,7 @@
 <tbody>
 <tr class="odd">
 <td><p>1975년<br />
-<em><a href="https://ko.wikipedia.org/wiki/1975년_CONMEBOL_U-20_축구_선수권_대회" title="wikilink">자세히</a></em></p></td>
+<em><a href="https://ko.wikipedia.org/wiki/1975년_CONMEBOL_U-20_챔피언십" title="wikilink">자세히</a></em></p></td>
 <td></td>
 <td><p><strong></strong></p></td>
 <td></td>
@@ -153,7 +153,7 @@
 </tr>
 <tr class="even">
 <td><p>1977년<br />
-<em><a href="https://ko.wikipedia.org/wiki/1977년_CONMEBOL_U-20_축구_선수권_대회" title="wikilink">자세히</a></em></p></td>
+<em><a href="https://ko.wikipedia.org/wiki/1977년_CONMEBOL_U-20_챔피언십" title="wikilink">자세히</a></em></p></td>
 <td></td>
 <td><p><strong></strong></p></td>
 <td></td>
@@ -162,7 +162,7 @@
 </tr>
 <tr class="odd">
 <td><p>1979년<br />
-<em><a href="https://ko.wikipedia.org/wiki/1979년_CONMEBOL_U-20_축구_선수권_대회" title="wikilink">자세히</a></em></p></td>
+<em><a href="https://ko.wikipedia.org/wiki/1979년_CONMEBOL_U-20_챔피언십" title="wikilink">자세히</a></em></p></td>
 <td></td>
 <td><p><strong></strong></p></td>
 <td></td>
@@ -171,7 +171,7 @@
 </tr>
 <tr class="even">
 <td><p>1981년<br />
-<em><a href="https://ko.wikipedia.org/wiki/1981년_CONMEBOL_U-20_축구_선수권_대회" title="wikilink">자세히</a></em></p></td>
+<em><a href="https://ko.wikipedia.org/wiki/1981년_CONMEBOL_U-20_챔피언십" title="wikilink">자세히</a></em></p></td>
 <td></td>
 <td><p><strong></strong></p></td>
 <td></td>
@@ -180,7 +180,7 @@
 </tr>
 <tr class="odd">
 <td><p>1983년<br />
-<em><a href="https://ko.wikipedia.org/wiki/1983년_CONMEBOL_U-20_축구_선수권_대회" title="wikilink">자세히</a></em></p></td>
+<em><a href="https://ko.wikipedia.org/wiki/1983년_CONMEBOL_U-20_챔피언십" title="wikilink">자세히</a></em></p></td>
 <td></td>
 <td><p><strong></strong></p></td>
 <td></td>
@@ -189,7 +189,7 @@
 </tr>
 <tr class="even">
 <td><p>1985년<br />
-<em><a href="https://ko.wikipedia.org/wiki/1985년_CONMEBOL_U-20_축구_선수권_대회" title="wikilink">자세히</a></em></p></td>
+<em><a href="https://ko.wikipedia.org/wiki/1985년_CONMEBOL_U-20_챔피언십" title="wikilink">자세히</a></em></p></td>
 <td></td>
 <td><p><strong></strong></p></td>
 <td></td>
@@ -198,7 +198,7 @@
 </tr>
 <tr class="odd">
 <td><p>1987년<br />
-<em><a href="https://ko.wikipedia.org/wiki/1987년_CONMEBOL_U-20_축구_선수권_대회" title="wikilink">자세히</a></em></p></td>
+<em><a href="https://ko.wikipedia.org/wiki/1987년_CONMEBOL_U-20_챔피언십" title="wikilink">자세히</a></em></p></td>
 <td></td>
 <td><p><strong></strong></p></td>
 <td></td>
@@ -207,7 +207,7 @@
 </tr>
 <tr class="even">
 <td><p>1988년<br />
-<em><a href="https://ko.wikipedia.org/wiki/1988년_CONMEBOL_U-20_축구_선수권_대회" title="wikilink">자세히</a></em></p></td>
+<em><a href="https://ko.wikipedia.org/wiki/1988년_CONMEBOL_U-20_챔피언십" title="wikilink">자세히</a></em></p></td>
 <td></td>
 <td><p><strong></strong></p></td>
 <td></td>
@@ -216,7 +216,7 @@
 </tr>
 <tr class="odd">
 <td><p>1991년<br />
-<em><a href="https://ko.wikipedia.org/wiki/1991년_CONMEBOL_U-20_축구_선수권_대회" title="wikilink">자세히</a></em></p></td>
+<em><a href="https://ko.wikipedia.org/wiki/1991년_CONMEBOL_U-20_챔피언십" title="wikilink">자세히</a></em></p></td>
 <td></td>
 <td><p><strong></strong></p></td>
 <td></td>
@@ -225,7 +225,7 @@
 </tr>
 <tr class="even">
 <td><p>1992년<br />
-<em><a href="https://ko.wikipedia.org/wiki/1992년_CONMEBOL_U-20_축구_선수권_대회" title="wikilink">자세히</a></em></p></td>
+<em><a href="https://ko.wikipedia.org/wiki/1992년_CONMEBOL_U-20_챔피언십" title="wikilink">자세히</a></em></p></td>
 <td></td>
 <td><p><strong></strong></p></td>
 <td></td>
@@ -234,7 +234,7 @@
 </tr>
 <tr class="odd">
 <td><p>1995년<br />
-<em><a href="https://ko.wikipedia.org/wiki/1995년_CONMEBOL_U-20_축구_선수권_대회" title="wikilink">자세히</a></em></p></td>
+<em><a href="https://ko.wikipedia.org/wiki/1995년_CONMEBOL_U-20_챔피언십" title="wikilink">자세히</a></em></p></td>
 <td></td>
 <td><p><strong></strong></p></td>
 <td></td>
@@ -243,7 +243,7 @@
 </tr>
 <tr class="even">
 <td><p>1997년<br />
-<em><a href="https://ko.wikipedia.org/wiki/1997년_CONMEBOL_U-20_축구_선수권_대회" title="wikilink">자세히</a></em></p></td>
+<em><a href="https://ko.wikipedia.org/wiki/1997년_CONMEBOL_U-20_챔피언십" title="wikilink">자세히</a></em></p></td>
 <td></td>
 <td><p><strong></strong></p></td>
 <td></td>
@@ -252,7 +252,7 @@
 </tr>
 <tr class="odd">
 <td><p>1999년<br />
-<em><a href="https://ko.wikipedia.org/wiki/1999년_CONMEBOL_U-20_축구_선수권_대회" title="wikilink">자세히</a></em></p></td>
+<em><a href="https://ko.wikipedia.org/wiki/1999년_CONMEBOL_U-20_챔피언십" title="wikilink">자세히</a></em></p></td>
 <td></td>
 <td><p><strong></strong></p></td>
 <td></td>
@@ -261,7 +261,7 @@
 </tr>
 <tr class="even">
 <td><p>2001년<br />
-<em><a href="https://ko.wikipedia.org/wiki/2001년_CONMEBOL_U-20_축구_선수권_대회" title="wikilink">자세히</a></em></p></td>
+<em><a href="https://ko.wikipedia.org/wiki/2001년_CONMEBOL_U-20_챔피언십" title="wikilink">자세히</a></em></p></td>
 <td></td>
 <td><p><strong></strong></p></td>
 <td></td>
@@ -270,7 +270,7 @@
 </tr>
 <tr class="odd">
 <td><p>2003년<br />
-<em><a href="https://ko.wikipedia.org/wiki/2003년_CONMEBOL_U-20_축구_선수권_대회" title="wikilink">자세히</a></em></p></td>
+<em><a href="https://ko.wikipedia.org/wiki/2003년_CONMEBOL_U-20_챔피언십" title="wikilink">자세히</a></em></p></td>
 <td></td>
 <td><p><strong></strong></p></td>
 <td></td>
@@ -279,7 +279,7 @@
 </tr>
 <tr class="even">
 <td><p>2005년<br />
-<em><a href="https://ko.wikipedia.org/wiki/2005년_CONMEBOL_U-20_축구_선수권_대회" title="wikilink">자세히</a></em></p></td>
+<em><a href="https://ko.wikipedia.org/wiki/2005년_CONMEBOL_U-20_챔피언십" title="wikilink">자세히</a></em></p></td>
 <td></td>
 <td><p><strong></strong></p></td>
 <td></td>
@@ -288,7 +288,7 @@
 </tr>
 <tr class="odd">
 <td><p>2007년<br />
-<em><a href="https://ko.wikipedia.org/wiki/2007년_CONMEBOL_U-20_축구_선수권_대회" title="wikilink">자세히</a></em></p></td>
+<em><a href="https://ko.wikipedia.org/wiki/2007년_CONMEBOL_U-20_챔피언십" title="wikilink">자세히</a></em></p></td>
 <td></td>
 <td><p><strong></strong></p></td>
 <td></td>
@@ -297,7 +297,7 @@
 </tr>
 <tr class="even">
 <td><p>2009년<br />
-<em><a href="https://ko.wikipedia.org/wiki/2009년_CONMEBOL_U-20_축구_선수권_대회" title="wikilink">자세히</a></em></p></td>
+<em><a href="https://ko.wikipedia.org/wiki/2009년_CONMEBOL_U-20_챔피언십" title="wikilink">자세히</a></em></p></td>
 <td></td>
 <td><p><strong></strong></p></td>
 <td></td>
@@ -306,7 +306,7 @@
 </tr>
 <tr class="odd">
 <td><p>2011년<br />
-<em><a href="https://ko.wikipedia.org/wiki/2011년_CONMEBOL_U-20_축구_선수권_대회" title="wikilink">자세히</a></em></p></td>
+<em><a href="https://ko.wikipedia.org/wiki/2011년_CONMEBOL_U-20_챔피언십" title="wikilink">자세히</a></em></p></td>
 <td></td>
 <td><p><strong></strong></p></td>
 <td></td>

@@ -66,14 +66,14 @@
 <td><p>심현우</p></td>
 <td><p><a href="../Page/장미희.md" title="wikilink">장미희</a> <a href="../Page/백윤식.md" title="wikilink">백윤식</a> <a href="../Page/임동진.md" title="wikilink">임동진</a> <a href="../Page/신구_(배우).md" title="wikilink">신구</a><br />
 최정훈 <a href="https://ko.wikipedia.org/wiki/박주아" title="wikilink">박주아</a> 서우림 김순철<br />
-민지환 <a href="../Page/여운계.md" title="wikilink">여운계</a> 최선자 <a href="https://ko.wikipedia.org/wiki/김난영" title="wikilink">김난영</a><br />
-<a href="../Page/전원주.md" title="wikilink">전원주</a> 서승현 장미자 김동완<br />
-<a href="https://ko.wikipedia.org/wiki/김성환" title="wikilink">김성환</a> 안대선 이진숙 조윤숙<br />
-홍순녀 신수강 봉혜선 <a href="../Page/남윤정.md" title="wikilink">남윤정</a><br />
-박현정 정재순 신소영 전병옥<br />
-공경구 박양례 박재주 장광비<br />
-한정국 김소유 김혜숙 김정환<br />
-김희진 <a href="../Page/배한성.md" title="wikilink">배한성</a></p></td>
+오현경 민지환 <a href="../Page/여운계.md" title="wikilink">여운계</a> 최선자<br />
+김난영 <a href="../Page/전원주.md" title="wikilink">전원주</a> 서승현 장미자<br />
+김동완 <a href="https://ko.wikipedia.org/wiki/김성환" title="wikilink">김성환</a> 안대선 이진숙<br />
+조윤숙 홍순녀 신수강 봉혜선<br />
+<a href="../Page/남윤정.md" title="wikilink">남윤정</a> 박현정 정재순 신소영<br />
+전병옥 공경구 박양례 박재주<br />
+장광비 한정국 김소유 김혜숙<br />
+김정환 김희진 <a href="../Page/배한성.md" title="wikilink">배한성</a></p></td>
 <td><p><a href="https://www.youtube.com/watch?v=Hh9InLH7W0E"><a href="https://ko.wikipedia.org/wiki/파일:Open_Iconic_video.svg" title="wikilink">30px</a></a></p></td>
 <td></td>
 </tr>
@@ -748,7 +748,7 @@
 <td><p>33화</p></td>
 <td><p>3월 6일</p></td>
 <td><p>돌의 초상</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/최인호" title="wikilink">최인호</a></p></td>
+<td><p><a href="../Page/최인호_(작가).md" title="wikilink">최인호</a></p></td>
 <td><p>김하림</p></td>
 <td><p>장기오</p></td>
 <td><p><a href="../Page/신구_(배우).md" title="wikilink">신구</a> <a href="../Page/이경진.md" title="wikilink">이경진</a> <a href="../Page/백윤식.md" title="wikilink">백윤식</a> <a href="../Page/송재호.md" title="wikilink">송재호</a><br />
@@ -1063,7 +1063,7 @@
 <tr class="odd">
 <td><p>50화</p></td>
 <td><p>7월 24일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/불새" title="wikilink">불새</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/불새_(유홍종의_소설)" title="wikilink">불새</a></p></td>
 <td><p>유홍종</p></td>
 <td><p>김하림</p></td>
 <td><p>장형일</p></td>
@@ -3336,7 +3336,7 @@ Rayfield.Brittenum Tim.Gilder<br />
 박인환 김하림 박재주 송희남<br />
 이종우 김소유 전원주 강양례<br />
 곽정희 김동완 정인철 이제신<br />
-박현정 방순례 김상훈 박용식<br />
+박현정 방숙례 김상훈 박용식<br />
 오기환 최주봉 홍유진 임찬호<br />
 김희윤 이배국</p></td>
 <td><p><a href="https://www.youtube.com/watch?v=Sq2r3wYNiek"><a href="https://ko.wikipedia.org/wiki/파일:Open_Iconic_video.svg" title="wikilink">30px</a></a></p></td>
@@ -3659,8 +3659,9 @@ Rayfield.Brittenum Tim.Gilder<br />
 <td><p>윤춘택</p></td>
 <td><p>박병우</p></td>
 <td><p>박진수</p></td>
-<td><p>정동환 최호창 하미혜 전원주<br />
-김을동 장항선</p></td>
+<td><p>정동환 최호창 하미혜 안영주<br />
+전원주 김을동 장항선 황범식<br />
+봉혜선 김종구</p></td>
 <td><p><a href="https://www.youtube.com/watch?v=36877LOSJAw"><a href="https://ko.wikipedia.org/wiki/파일:Open_Iconic_video.svg" title="wikilink">30px</a></a></p></td>
 <td><p>한 가족이 정신적 교감의 결핍으로 인해 붕괴되는 과정을 보여주는 드라마이다. 기수의 아버지 승남이 중동에서<br />
 돌아오는 날 어머니 옥희는 전재산을 가지고 잠적한다. 승남은 표창을 만들어 옥희를 찾아다닌다. 기수는 옥희가<br />
@@ -3695,7 +3696,7 @@ Rayfield.Brittenum Tim.Gilder<br />
 <td><p>홍요섭 박경득 박규식 안대용<br />
 김창봉 사미자 김혜숙 임성원<br />
 이미경 기정수 장희진 민욱<br />
-김영철 태일 이한수 이두섭<br />
+김영철 한태일 이한수 이두섭<br />
 김봉근 노영국 김덕수 남성식<br />
 한정국 손영춘 정서임 최정실<br />
 장정희 장혜숙 최정화</p></td>
@@ -3706,7 +3707,7 @@ Rayfield.Brittenum Tim.Gilder<br />
 <td><p>193화</p></td>
 <td><p>8월 17일</p></td>
 <td><p>휴가 연습</p></td>
-<td><p><a href="../Page/김주영_(소설가).md" title="wikilink">김주영</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/김주영_(1939년)" title="wikilink">김주영</a></p></td>
 <td><p>박성조</p></td>
 <td><p>맹만재</p></td>
 <td><p>최화정 강태기 김소원 김미영<br />
@@ -3769,8 +3770,8 @@ Rayfield.Brittenum Tim.Gilder<br />
 황범식 박규식 김윤형 유순철<br />
 김일란 임성원 정종준 이화영<br />
 이종남 오욱철</p></td>
-<td></td>
-<td></td>
+<td><p><a href="https://www.youtube.com/watch?v=fM2mJXa6DUU"><a href="https://ko.wikipedia.org/wiki/파일:Open_Iconic_video.svg" title="wikilink">30px</a></a></p></td>
+<td><p>현대도시 샐러리맨의 하루 일과를 통해 인간이 가지는 권태, 방황, 그리고 다시 질서로의 귀착을 그린다.</p></td>
 </tr>
 <tr class="odd">
 <td><p>197화</p></td>
@@ -3784,23 +3785,26 @@ Rayfield.Brittenum Tim.Gilder<br />
 양영준 하대경 남성식 최재성<br />
 이환지 류대성 김희윤 이경영<br />
 이예자</p></td>
-<td></td>
-<td></td>
+<td><p><a href="https://www.youtube.com/watch?v=3H3lwT072tI"><a href="https://ko.wikipedia.org/wiki/파일:Open_Iconic_video.svg" title="wikilink">30px</a></a></p></td>
+<td><p>고3때 화재로 부모도 잃고 자신도 심한 화상으로 추한 몰골이 되어버린 수화는<br />
+신문사의 50주년 창립기념 장편소설 현상 공모에 동생 수빈의 이름으로 응모, 장원이 된다.</p></td>
 </tr>
 <tr class="even">
 <td><p>198화</p></td>
 <td><p>9월 28일</p></td>
 <td><p>우리들의 불꽃</p></td>
 <td><p>백도기</p></td>
-<td><p>이희우</p></td>
+<td><p>이유일</p></td>
 <td><p>맹만재</p></td>
 <td><p>정운용 이낙훈 고아라 김성겸<br />
 안해숙 전원주 주현 박칠용<br />
 박규식 신수강 김창봉 김상훈<br />
 이성호 최정실 문수화 김지선<br />
 김희윤 이정원 이주원 이민우</p></td>
-<td></td>
-<td></td>
+<td><p><a href="https://www.youtube.com/watch?v=g6wnp5Xs_Mc"><a href="https://ko.wikipedia.org/wiki/파일:Open_Iconic_video.svg" title="wikilink">30px</a></a></p></td>
+<td><p>한기표는 중고품 교환소 주인. 그는 우연히 근처 다방에서 60대의 노신사 이충을 만난다.<br />
+돈 2천원을 빌려준 것을 계기로 이루어진 그들의 관계는 점점 깊어지지만, 이충의 요구는 그칠 줄 모르는데...<br />
+신뢰와 오해를 통해 진정한 만남이란 가능한 것인가를 파헤친 작품.</p></td>
 </tr>
 <tr class="odd">
 <td><p>199화</p></td>
@@ -3816,8 +3820,10 @@ Rayfield.Brittenum Tim.Gilder<br />
 고희준 정주현 안광진 김동완<br />
 전병옥 박해상 김윤형 최용욱<br />
 최동균 김성철</p></td>
-<td></td>
-<td></td>
+<td><p><a href="https://www.youtube.com/watch?v=U61p_Tl-vR4"><a href="https://ko.wikipedia.org/wiki/파일:Open_Iconic_video.svg" title="wikilink">30px</a></a></p></td>
+<td><p>기구한 운명을 안고 태어난 주인공은 부모가 누구인지 모른 채 절에서 자라<br />
+군에 가게 되고 제대한 후 환속한다. 공사판 같은 속세에서 떠돌이 생활을 하다 어느 과수원에 들어가<br />
+일을 하게 되는데…</p></td>
 </tr>
 <tr class="even">
 <td><p>200화</p></td>
@@ -3832,10 +3838,11 @@ Rayfield.Brittenum Tim.Gilder<br />
 윤성국 손영춘 김봉근 여운계<br />
 장미자 전원주 박정웅 김동완<br />
 김상락 한현배 조은덕 장정희<br />
-이용진 안영아 김남호 이주원<br />
+백인철 안영아 김남호 이주원<br />
 문성재 황길상</p></td>
-<td></td>
-<td></td>
+<td><p><a href="https://www.youtube.com/watch?v=OuXMuhDUprE"><a href="https://ko.wikipedia.org/wiki/파일:Open_Iconic_video.svg" title="wikilink">30px</a></a></p></td>
+<td><p>우리 문단의 대표적 장편소설인 심훈의 ‘상록수’를 영상화했다. 일제의 학정 속에서 민족혼을 일깨우기 위해<br />
+농촌으로 뛰어든 젊은이들의 민족애와 우정, 아름다운 사랑의 이야기가 밀도있게 펼쳐진다.</p></td>
 </tr>
 <tr class="odd">
 <td><p>201화</p></td>
@@ -3849,14 +3856,16 @@ Rayfield.Brittenum Tim.Gilder<br />
 박건식 박용식 곽정희 서상익<br />
 백준기 황민 김동완 최용욱<br />
 김재만 최건호 차두옥 임인희</p></td>
-<td></td>
-<td></td>
+<td><p><a href="https://www.youtube.com/watch?v=ARUQYqQS6ro"><a href="https://ko.wikipedia.org/wiki/파일:Open_Iconic_video.svg" title="wikilink">30px</a></a></p></td>
+<td><p>해방의 여명기를 지내고 6.25 격동기를 거치는 동안 지리산 기슭의 순박한 마을 마뜰촌 사람들이 여순반란의<br />
+잔당들을 쫓아 무지한 빨치산이 되는 과정과 끝내 허망한 몰락을 맞이하는 비극의 순간들을 그려 공산주의의<br />
+허구성과 실체를 조명해 본 작품.</p></td>
 </tr>
 <tr class="even">
 <td><p>202화</p></td>
 <td><p>10월 26일</p></td>
 <td><p>천상의 계곡</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/최인호" title="wikilink">최인호</a></p></td>
+<td><p><a href="../Page/최인호_(작가).md" title="wikilink">최인호</a></p></td>
 <td><p>박평일</p></td>
 <td><p>김충길</p></td>
 <td><p>여운계 김성겸 김세윤 김창숙<br />
@@ -3864,8 +3873,9 @@ Rayfield.Brittenum Tim.Gilder<br />
 강계식 김동완 박재주 송희남<br />
 방숙례 장광비 이형진 홍순석<br />
 박연은 손정훈 이미나</p></td>
-<td></td>
-<td></td>
+<td><p><a href="https://www.youtube.com/watch?v=2jH3hm9xuVc"><a href="https://ko.wikipedia.org/wiki/파일:Open_Iconic_video.svg" title="wikilink">30px</a></a></p></td>
+<td><p>노후의 자식과 부모관계, 노인끼리의 만남, 노인들의 사랑과 이별을 통해 외로움에 대한 인간 본연의 모습을<br />
+그린 작품.</p></td>
 </tr>
 <tr class="odd">
 <td><p>203화</p></td>
@@ -3877,7 +3887,7 @@ Rayfield.Brittenum Tim.Gilder<br />
 <td><p>황정아 최종원 이성호 최화정<br />
 이신재 박규식 김진태 강영아<br />
 고아라</p></td>
-<td></td>
+<td><p><a href="https://www.youtube.com/watch?v=lIDvMLx0Hps"><a href="https://ko.wikipedia.org/wiki/파일:Open_Iconic_video.svg" title="wikilink">30px</a></a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -3893,13 +3903,13 @@ Rayfield.Brittenum Tim.Gilder<br />
 김창봉 이두섭 곽정희 정인철<br />
 신원균 장정희 홍순석 양형호<br />
 최용팔 안대선</p></td>
-<td></td>
+<td><p><a href="https://www.youtube.com/watch?v=cuUMHwk5-00"><a href="https://ko.wikipedia.org/wiki/파일:Open_Iconic_video.svg" title="wikilink">30px</a></a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>205화</p></td>
 <td><p>11월 16일</p></td>
-<td><p>아네모네 마담</p></td>
+<td><p>아네모네 마담[25]</p></td>
 <td><p><a href="../Page/주요섭.md" title="wikilink">주요섭</a></p></td>
 <td><p>박병우</p></td>
 <td><p>이윤선</p></td>
@@ -3907,7 +3917,7 @@ Rayfield.Brittenum Tim.Gilder<br />
 김종결 양재성 김진태 권성덕<br />
 황범식 반석진 김기복 이원발<br />
 강양례 홍순석 유영희 고아라</p></td>
-<td></td>
+<td><p><a href="https://www.youtube.com/watch?v=53LiwGXGs6s"><a href="https://ko.wikipedia.org/wiki/파일:Open_Iconic_video.svg" title="wikilink">30px</a></a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -4167,7 +4177,7 @@ Rayfield.Brittenum Tim.Gilder<br />
 <td><p>임동진 김영애 김길호 김지숙<br />
 김영철 임혁주 전원주 김시원<br />
 이신재 이진숙 박용식 현호진<br />
-박영목 고광우 전광열 고아라<br />
+박영목 고광우 전광렬 고아라<br />
 최용욱 조은덕 장혜숙 강영아<br />
 고희준 안광진 차기환 이기홍</p></td>
 <td></td>
@@ -4289,7 +4299,7 @@ Rayfield.Brittenum Tim.Gilder<br />
 <td><p><a href="../Page/한운사.md" title="wikilink">한운사</a></p></td>
 <td><p>김옥수</p></td>
 <td><p>맹만재</p></td>
-<td><p>김자옥 전광열 이진선 최정훈<br />
+<td><p>김자옥 전광렬 이진선 최정훈<br />
 김진애 정운용 이영 김영선<br />
 신종섭 오기환 임택선 김일우<br />
 오욱철 문수화 이동진 최석구<br />
@@ -4573,7 +4583,7 @@ Rayfield.Brittenum Tim.Gilder<br />
 <td><p>246화</p></td>
 <td><p>2월 7일</p></td>
 <td><p>외촌장 기행</p></td>
-<td><p><a href="../Page/김주영_(소설가).md" title="wikilink">김주영</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/김주영_(1939년)" title="wikilink">김주영</a></p></td>
 <td><p>박평일</p></td>
 <td><p>이영국</p></td>
 <td><p>이종남 <a href="../Page/김희라.md" title="wikilink">김희라</a> 이성호 고희준<br />
@@ -4913,7 +4923,7 @@ Rayfield.Brittenum Tim.Gilder<br />
 <td><p>269화</p></td>
 <td><p>7월 25일</p></td>
 <td><p>겨울새</p></td>
-<td><p><a href="../Page/김주영_(소설가).md" title="wikilink">김주영</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/김주영_(1939년)" title="wikilink">김주영</a></p></td>
 <td><p>이은교</p></td>
 <td><p>이영국</p></td>
 <td><p>이종남 <a href="../Page/김희라.md" title="wikilink">김희라</a> <a href="../Page/박용식.md" title="wikilink">박용식</a> 남성식<br />
@@ -4992,7 +5002,7 @@ Rayfield.Brittenum Tim.Gilder<br />
 <tr class="odd">
 <td><p>274화</p></td>
 <td><p>9월 5일</p></td>
-<td><p>점점점[25]</p></td>
+<td><p>점점점[26]</p></td>
 <td><p>박진숙</p></td>
 <td><p>박진숙</p></td>
 <td><p>박진수</p></td>
@@ -5056,18 +5066,18 @@ Rayfield.Brittenum Tim.Gilder<br />
 
 #### 1987년
 
-| 회차  | 방송일     | 작품명      | 원작                                                  | 극본                                                  | 연출  | 출연자 |
-| --- | ------- | -------- | --------------------------------------------------- | --------------------------------------------------- | --- | --- |
-| 1화  | 10월 17일 | 해산 바가지   | [박완서](../Page/박완서.md "wikilink")                    | 이국자                                                 | 임학송 |     |
-| 2화  | 10월 24일 | 목마 위의 여자 | [김주영](../Page/김주영_\(소설가\).md "wikilink")            |                                                     | 심현우 |     |
-| 3화  | 10월 31일 | 인간의 계곡   | 김준일                                                 |                                                     | 김현준 |     |
-| 4화  | 11월 7일  | 가을비      | [서정인](https://ko.wikipedia.org/wiki/서정인 "wikilink") | [김운경](https://ko.wikipedia.org/wiki/김운경 "wikilink") | 엄기백 |     |
-| 5화  | 11월 14일 | 폭염       | 천승제                                                 | 이진모                                                 | 차성호 |     |
-| 6화  | 11월 21일 | 연극       | [유재용](https://ko.wikipedia.org/wiki/유재용 "wikilink") | 홍종원                                                 | 이형표 |     |
-| 7화  | 11월 28일 | 황혼       | [이환경](../Page/이환경_\(작가\).md "wikilink")             |                                                     | 이동휘 |     |
-| 8화  | 12월 5일  | 숨은 손가락   | [이청준](../Page/이청준.md "wikilink")                    | 박구홍                                                 | 임학송 |     |
-| 9화  | 12월 19일 | 둘째 사위    | [최일남](https://ko.wikipedia.org/wiki/최일남 "wikilink") | 김금주                                                 | 조문진 |     |
-| 10화 | 12월 26일 | 아버지의 강   | 안장환                                                 | 박찬호                                                 | 심현우 |     |
+| 회차  | 방송일     | 작품명      | 원작                                                            | 극본                                                  | 연출  | 출연자 |
+| --- | ------- | -------- | ------------------------------------------------------------- | --------------------------------------------------- | --- | --- |
+| 1화  | 10월 17일 | 해산 바가지   | [박완서](../Page/박완서.md "wikilink")                              | 이국자                                                 | 임학송 |     |
+| 2화  | 10월 24일 | 목마 위의 여자 | [김주영](https://ko.wikipedia.org/wiki/김주영_\(1939년\) "wikilink") |                                                     | 심현우 |     |
+| 3화  | 10월 31일 | 인간의 계곡   | 김준일                                                           |                                                     | 김현준 |     |
+| 4화  | 11월 7일  | 가을비      | [서정인](https://ko.wikipedia.org/wiki/서정인 "wikilink")           | [김운경](https://ko.wikipedia.org/wiki/김운경 "wikilink") | 엄기백 |     |
+| 5화  | 11월 14일 | 폭염       | 천승제                                                           | 이진모                                                 | 차성호 |     |
+| 6화  | 11월 21일 | 연극       | [유재용](https://ko.wikipedia.org/wiki/유재용 "wikilink")           | 홍종원                                                 | 이형표 |     |
+| 7화  | 11월 28일 | 황혼       | [이환경](../Page/이환경_\(작가\).md "wikilink")                       |                                                     | 이동휘 |     |
+| 8화  | 12월 5일  | 숨은 손가락   | [이청준](../Page/이청준.md "wikilink")                              | 박구홍                                                 | 임학송 |     |
+| 9화  | 12월 19일 | 둘째 사위    | [최일남](https://ko.wikipedia.org/wiki/최일남 "wikilink")           | 김금주                                                 | 조문진 |     |
+| 10화 | 12월 26일 | 아버지의 강   | 안장환                                                           | 박찬호                                                 | 심현우 |     |
 
 #### 1988년
 
@@ -5099,7 +5109,7 @@ Rayfield.Brittenum Tim.Gilder<br />
 | 3화 | 8월 11일  | 유년의 뜰      | 오정희                                                 | 김혜수                              | 이현석 |                                                                                                                                   |
 | 4화 | 9월 8일   | 검은 양복      | 채희문                                                 | [문영남](../Page/문영남.md "wikilink") | 김충길 | [문미봉](../Page/문미봉.md "wikilink") [변영훈](../Page/변영훈.md "wikilink") [이주경](../Page/이주경.md "wikilink") [최란](../Page/최란.md "wikilink") |
 | 5화 | 10월 13일 | 저 깊푸른 강    | 김영현                                                 | 이환경                              | 김재현 |                                                                                                                                   |
-| 6화 | 11월 10일 | 불항아리\[26\] | [이청준](../Page/이청준.md "wikilink")                    | 이환경                              | 이녹영 | [신구](../Page/신구_\(배우\).md "wikilink") [윤승원](../Page/윤승원_\(배우\).md "wikilink")                                                     |
+| 6화 | 11월 10일 | 불항아리\[27\] | [이청준](../Page/이청준.md "wikilink")                    | 이환경                              | 이녹영 | [신구](../Page/신구_\(배우\).md "wikilink") [윤승원](../Page/윤승원_\(배우\).md "wikilink")                                                     |
 |    |         |            |                                                     |                                  |     |                                                                                                                                   |
 
 #### 1992년
@@ -5120,7 +5130,7 @@ Rayfield.Brittenum Tim.Gilder<br />
 <tr class="odd">
 <td><p>7화</p></td>
 <td><p>1월 12일</p></td>
-<td><p>밤주막[27]</p></td>
+<td><p>밤주막[28]</p></td>
 <td><p><a href="../Page/고은.md" title="wikilink">고은</a></p></td>
 <td><p>유우재</p></td>
 <td><p>김홍종</p></td>
@@ -5187,7 +5197,7 @@ Rayfield.Brittenum Tim.Gilder<br />
 <tr class="even">
 <td><p>14화</p></td>
 <td><p>8월 27일</p></td>
-<td><p>미개인 (방영 취소[28][29])</p></td>
+<td><p>미개인 (방영 취소[29][30])</p></td>
 <td><p><a href="../Page/최인호_(작가).md" title="wikilink">최인호</a></p></td>
 <td><p><a href="../Page/문영남.md" title="wikilink">문영남</a></p></td>
 <td><p>김충길</p></td>
@@ -5259,7 +5269,7 @@ Rayfield.Brittenum Tim.Gilder<br />
 <td><p>길위의 날들</p></td>
 <td><p><a href="../Page/오정희_(소설가).md" title="wikilink">오정희</a><br />
 외 3명<br />
-[30][31]</p></td>
+[31][32]</p></td>
 <td><p>김옥영</p></td>
 <td><p>김홍종</p></td>
 <td><p>김영기 정애란</p></td>
@@ -5457,7 +5467,7 @@ Rayfield.Brittenum Tim.Gilder<br />
 <td><p>8화</p></td>
 <td><p>3월 21일</p></td>
 <td><p>홍어</p></td>
-<td><p><a href="../Page/김주영_(소설가).md" title="wikilink">김주영</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/김주영_(1939년)" title="wikilink">김주영</a></p></td>
 <td><p>김병수</p></td>
 <td><p>장기오</p></td>
 <td><p>김수동 김해숙 정다빈 임동진<br />
@@ -5688,7 +5698,7 @@ Rayfield.Brittenum Tim.Gilder<br />
 <tr class="even">
 <td><p>10화</p></td>
 <td><p>3월 5일</p></td>
-<td><p>노래여! 마지막 노래여![32]</p></td>
+<td><p>노래여! 마지막 노래여![33]</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/유익서" title="wikilink">유익서</a></p></td>
 <td><p>김병수</p></td>
 <td><p>장기오</p></td>
@@ -5757,7 +5767,7 @@ Rayfield.Brittenum Tim.Gilder<br />
 <tr class="odd">
 <td><p>14화</p></td>
 <td><p>3월 3일</p></td>
-<td><p><a href="../Page/난장이가_쏘아올린_작은_공_(드라마).md" title="wikilink">난장이가 쏘아올린 작은공</a>[33]</p></td>
+<td><p><a href="../Page/난장이가_쏘아올린_작은_공_(드라마).md" title="wikilink">난장이가 쏘아올린 작은공</a>[34]</p></td>
 <td><p><a href="../Page/조세희.md" title="wikilink">조세희</a></p></td>
 <td><p>박진숙</p></td>
 <td><p>김형일</p></td>
@@ -5767,7 +5777,7 @@ Rayfield.Brittenum Tim.Gilder<br />
 <tr class="even">
 <td><p>15화</p></td>
 <td><p>3월 4일</p></td>
-<td><p>랍스터를 먹는 시간[34]</p></td>
+<td><p>랍스터를 먹는 시간[35]</p></td>
 <td><p><a href="../Page/방현석.md" title="wikilink">방현석</a><br />
 <a href="../Page/김미라.md" title="wikilink">김미라</a></p></td>
 <td><p>권민수</p></td>
@@ -5777,7 +5787,7 @@ Rayfield.Brittenum Tim.Gilder<br />
 <tr class="odd">
 <td><p>16화</p></td>
 <td><p>3월 4일</p></td>
-<td><p>카스테라[35]</p></td>
+<td><p>카스테라[36]</p></td>
 <td><p><a href="../Page/박민규_(작가).md" title="wikilink">박민규</a></p></td>
 <td><p>고은선</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/김용수" title="wikilink">김용수</a></p></td>
@@ -5805,7 +5815,7 @@ Rayfield.Brittenum Tim.Gilder<br />
 <tr class="odd">
 <td><p>17화</p></td>
 <td><p>3월 3일</p></td>
-<td><p>봄, 봄봄[36]</p></td>
+<td><p>봄, 봄봄[37]</p></td>
 <td><p><a href="../Page/김유정_(소설가).md" title="wikilink">김유정</a></p></td>
 <td><p>박지숙<br />
 이수인<br />
@@ -5817,7 +5827,7 @@ Rayfield.Brittenum Tim.Gilder<br />
 <tr class="even">
 <td><p>18화</p></td>
 <td><p>3월 4일</p></td>
-<td><p>나의 피투성이 연인[37]</p></td>
+<td><p>나의 피투성이 연인[38]</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/정미경_(소설가)" title="wikilink">정미경</a></p></td>
 <td><p>이윤영<br />
 김순덕<br />
@@ -5924,7 +5934,7 @@ Rayfield.Brittenum Tim.Gilder<br />
 
 | 회차 | 방송일   | 작품명        | 원작 | 극본 | 연출  | 출연자                                                                              |
 | -- | ----- | ---------- | -- | -- | --- | -------------------------------------------------------------------------------- |
-| 4화 | 3월 2일 | 강산무진\[38\] | 김훈 | 이인 | 김홍종 | [서인석](../Page/서인석_\(배우\).md "wikilink"), [안재모](../Page/안재모.md "wikilink"), 황세정 외 |
+| 4화 | 3월 2일 | 강산무진\[39\] | 김훈 | 이인 | 김홍종 | [서인석](../Page/서인석_\(배우\).md "wikilink"), [안재모](../Page/안재모.md "wikilink"), 황세정 외 |
 
 ## 수상 경력
 
@@ -5972,17 +5982,18 @@ Rayfield.Brittenum Tim.Gilder<br />
 22. 원제: 객사(客死)
 23. 원제: 횡액(橫厄)
 24. 원제: 반행
-25. 원제: 필드
-26. 이청춘의 《불먹은 항아리》가 원작이다.
-27. 고은의 단편소설 〈밤주막〉, 〈만월〉, 〈만추〉 등 세 편을 재구성한 작품이다.
-28. 한센병(나병) 병력자들의 권익단체인 한성협동회의 항의를 받고 방영 취소되었다.
-29.
-30. 오정희의 ‘구부러진 길 저쪽’, 김동곤의 ‘철이 아버지’, 윤정모의 ‘아들’, 임철우의 ‘사평역’의 에피소드를 가지고, 귀휴에 나선 장기수와 어머니의 이야기로 새롭게 꾸몄다.
-31.
-32. [유익서](https://ko.wikipedia.org/wiki/유익서 "wikilink")의 단편들을 소재로 재구성한 작품이다.
-33. [조세희](../Page/조세희.md "wikilink")의 연작 소설집 《[난장이가 쏘아올린 작은공](https://ko.wikipedia.org/wiki/난장이가_쏘아올린_작은공 "wikilink")》의 단편 〈뫼비우스의 띠〉, 〈칼날〉, 〈난장이가 쏘아올린 작은 공〉을 재구성하였다.
-34. [방현석](../Page/방현석.md "wikilink")의 〈랍스터를 먹는 시간〉과 [김미라](../Page/김미라.md "wikilink")의 〈터널을 벗어나며〉를 두 개의 옴니버스 드라마로 재구성하였다.
-35. [박민규의](../Page/박민규_\(작가\).md "wikilink") 단편집 《카스테라》의 작품 중 〈그렇습니까, 기린입니다〉와 〈고마워, 과연 너구리야〉를 재구성하였다.
-36. 이 작품은 《봄, 봄》을 토대로 시간적 배경을 현대로 바꿔놓은, 거의 개작해서 방영되었다.
-37. 정미경의 단편 〈나의 보랏빛 사진〉, 〈밤이여 나뉘어라〉, 〈나의 피투성이 연인〉을 3개의 옴니버스 드라마로 재구성하였다.
-38. 1부 강산무진, 2부 고향의 그림자, 3부 머나먼 속세 등 3편으로 이루어져 있다.
+25. 원제: 아네모네의 마담
+26. 원제: 필드
+27. 이청춘의 《불먹은 항아리》가 원작이다.
+28. 고은의 단편소설 〈밤주막〉, 〈만월〉, 〈만추〉 등 세 편을 재구성한 작품이다.
+29. 한센병(나병) 병력자들의 권익단체인 한성협동회의 항의를 받고 방영 취소되었다.
+30.
+31. 오정희의 ‘구부러진 길 저쪽’, 김동곤의 ‘철이 아버지’, 윤정모의 ‘아들’, 임철우의 ‘사평역’의 에피소드를 가지고, 귀휴에 나선 장기수와 어머니의 이야기로 새롭게 꾸몄다.
+32.
+33. [유익서](https://ko.wikipedia.org/wiki/유익서 "wikilink")의 단편들을 소재로 재구성한 작품이다.
+34. [조세희](../Page/조세희.md "wikilink")의 연작 소설집 《[난장이가 쏘아올린 작은공](https://ko.wikipedia.org/wiki/난장이가_쏘아올린_작은공 "wikilink")》의 단편 〈뫼비우스의 띠〉, 〈칼날〉, 〈난장이가 쏘아올린 작은 공〉을 재구성하였다.
+35. [방현석](../Page/방현석.md "wikilink")의 〈랍스터를 먹는 시간〉과 [김미라](../Page/김미라.md "wikilink")의 〈터널을 벗어나며〉를 두 개의 옴니버스 드라마로 재구성하였다.
+36. [박민규의](../Page/박민규_\(작가\).md "wikilink") 단편집 《카스테라》의 작품 중 〈그렇습니까, 기린입니다〉와 〈고마워, 과연 너구리야〉를 재구성하였다.
+37. 이 작품은 《봄, 봄》을 토대로 시간적 배경을 현대로 바꿔놓은, 거의 개작해서 방영되었다.
+38. 정미경의 단편 〈나의 보랏빛 사진〉, 〈밤이여 나뉘어라〉, 〈나의 피투성이 연인〉을 3개의 옴니버스 드라마로 재구성하였다.
+39. 1부 강산무진, 2부 고향의 그림자, 3부 머나먼 속세 등 3편으로 이루어져 있다.

@@ -14,7 +14,7 @@ JVC(Japan Victor Company)는 일본에서 **Victor** (빅터) 상호를 HMV의 �
       - [S-VHS](https://ko.wikipedia.org/wiki/S-VHS "wikilink")
       - [W-VHS](https://ko.wikipedia.org/wiki/W-VHS "wikilink")
       - [비디오테이프](../Page/비디오테이프.md "wikilink")
-      - [비디오 테이프 레코더](https://ko.wikipedia.org/wiki/비디오_테이프_레코더 "wikilink")
+      - [비디오 테이프 레코더](../Page/비디오_테이프_레코더.md "wikilink")
       - [비디오테이프 표준 전쟁](../Page/비디오테이프_표준_전쟁.md "wikilink")
       - [비디오카세트 레코더](../Page/비디오카세트_레코더.md "wikilink")
       - [D-ILA](https://ko.wikipedia.org/wiki/LCOS "wikilink")

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [CJ CGV](https://ko.wikipedia.org/wiki/CJ_CGV).
 
 
-**CJCGV주식회사**\[1\](\[2\] 씨제이씨지브이 주식회사)는 [대한민국](../Page/대한민국.md "wikilink")에서 [멀티플렉스 영화관](../Page/복합_상영관.md "wikilink") 프랜차이즈 **CGV**를 운영하는 [CJ그룹](../Page/CJ그룹.md "wikilink")의 엔터테인먼트 및 미디어 부문 계열사이다. [1999년](../Page/1999년.md "wikilink") [씨제이빌리지](https://ko.wikipedia.org/wiki/씨제이빌리지 "wikilink")(주)로 설립하여 12월에 CGV강변11을 설립하였다. 2001년 씨지브이(주)로 상호 변경하였으며 2002년 10월 10일 주주가 변경되며 현재의 상호로 변경하였다. 본사는 [서울특별시](../Page/서울특별시.md "wikilink") [용산구](https://ko.wikipedia.org/wiki/용산구 "wikilink") 한강대로23길 55, 아이파크몰 6층 (한강로3가)에 있다. 또한 2019년01월14일 기준 cgv는 전국 총 218개의 관을 가지고있다.
+**CJCGV주식회사**\[1\](\[2\] 씨제이씨지브이 주식회사)는 [대한민국](../Page/대한민국.md "wikilink")에서 [멀티플렉스 영화관](../Page/복합_상영관.md "wikilink") 프랜차이즈 **CGV**를 운영하는 [CJ그룹](../Page/CJ그룹.md "wikilink")의 엔터테인먼트 및 미디어 부문 계열사이다. 1999년 [씨제이빌리지](https://ko.wikipedia.org/wiki/씨제이빌리지 "wikilink")(주)로 설립하여 12월에 CGV강변11을 설립하였다. 2001년 씨지브이(주)로 상호 변경하였으며 2002년 10월 10일 주주가 변경되며 현재의 상호로 변경하였다. 본사는 [서울특별시](../Page/서울특별시.md "wikilink") [용산구](https://ko.wikipedia.org/wiki/용산구 "wikilink") 한강대로23길 55, 아이파크몰 6층 (한강로3가)에 있다. 또한 2019년01월14일 기준 cgv는 전국 총 218개의 관을 가지고있다.
 
 ## 역사
 

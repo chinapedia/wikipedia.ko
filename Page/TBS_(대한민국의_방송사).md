@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [TBS \(대한민국의 방송사\)](https://ko.wikipedia.org/wiki/TBS_\(대한민국의_방송사\)).
 
 
-**TBS**(**T**raffic\[1\] **B**roadcasting **S**ystem, TBS)는 [서울특별시청](../Page/서울특별시청.md "wikilink") 산하 출연기관인 미디어 재단이다. 교통 정보는 물론 서울 시민을 대상으로 다양한 정보를 전달하는 지역 공영 방송국이다. [1990년](../Page/1990년.md "wikilink") [3월 20일](../Page/3월_20일.md "wikilink") 설립되었고 본사는 [서울특별시](../Page/서울특별시.md "wikilink") 마포구 상암동 에스플렉스 센터이다.
+**TBS 교통방송**(交通放送, **T**raffic\[1\] **B**roadcasting **S**ystem, TBS)는 [서울특별시청](../Page/서울특별시청.md "wikilink") 산하 출연기관인 미디어 재단이다. 교통 정보는 물론 서울 시민을 대상으로 다양한 정보를 전달하는 지역 공영 방송국이다. [1990년](../Page/1990년.md "wikilink") [3월 20일](../Page/3월_20일.md "wikilink") 설립되었고 본사는 [서울특별시](../Page/서울특별시.md "wikilink") 마포구 상암동 에스플렉스 센터이다.
 
 처음에는 라디오 방송만 송출하다가 15년 후 텔레비전 방송이 개국되었고 텔레비전 방송 개국 3년 후 영어 전문 라디오 방송 채널이 개국되었다. 이 영어 전문 라디오 방송 채널은 대한민국 최초로 개국한 것으로, 시청자들의 높은 호응을 받았다.\[2\]
 
@@ -9,51 +9,51 @@
 
 교통 관련 방송 이외에도 2011년부터 프로축구 서울 연고 구단인 [FC 서울의](https://ko.wikipedia.org/wiki/FC_서울 "wikilink") 스포츠 경기를 중계하는 등 [서울특별시](../Page/서울특별시.md "wikilink"), [인천광역시](https://ko.wikipedia.org/wiki/인천광역시 "wikilink"), [경기도](https://ko.wikipedia.org/wiki/경기도 "wikilink") 지역에 관련된 여러 가지 방송 프로그램을 내보낸다. [2020년](../Page/2020년.md "wikilink") [2월 17일부터](../Page/2월_17일.md "wikilink") 서울시 산하 사업소에서 서울특별시 출연 기관인 미디어재단으로 전환했다. 서울시 산하 사업소 시절에는 대표는 지방부이사관, 또는 개방형 임기제 공무원으로 보했으나\[4\], 미디어재단으로 전환한 이후에는 대표와 직원 모두 민간인 신분이 되었다.
 
-TBS가 재단법인과 출범함과 동시에 영문명도 "Seoul Traffic Broadcasting"으로 변경되었다. TBS는 새로운 CI에 대해 "교통, 기상 정보 중심의 교통방송 (Traffic Broadcasting System)의 좁은 의미에서 벗어나 "시민들에게 더 가까이, 보다 진실되고 정의로운, 미래 혁신 미디어로 거듭나겠다"고 강조했다.\[5\]
+TBS가 재단법인과 출범함과 동시에 영문명도 "Seoul Traffic Broadcasting"으로 변경되었다. TBS는 새로운 CI에 대해 "교통, 기상 정보 중심의 TBS 교통방송 (Traffic Broadcasting System)의 좁은 의미에서 벗어나 "시민들에게 더 가까이, 보다 진실되고 정의로운, 미래 혁신 미디어로 거듭나겠다"고 강조했다.\[5\]
 
 ## 연혁
 
-  - [1988년](../Page/1988년.md "wikilink") [3월 29일](../Page/3월_29일.md "wikilink"): [1988 서울 올림픽](../Page/1988년_하계_올림픽.md "wikilink") 대비 교통방송 설치 계획 수립([경찰청](../Page/대한민국_경찰청.md "wikilink"))
-  - [1990년](../Page/1990년.md "wikilink") [3월 20일](../Page/3월_20일.md "wikilink"): 교통방송 본부 설치조례 공포(서울시)
+  - [1988년](../Page/1988년.md "wikilink") [3월 29일](../Page/3월_29일.md "wikilink"): [1988 서울 올림픽](../Page/1988년_하계_올림픽.md "wikilink") 대비 TBS 교통방송 설치 계획 수립([경찰청](../Page/대한민국_경찰청.md "wikilink"))
+  - [1990년](../Page/1990년.md "wikilink") [3월 20일](../Page/3월_20일.md "wikilink"): TBS 교통방송 본부 설치조례 공포(서울시)
   - [1990년](../Page/1990년.md "wikilink") [5월 1일](../Page/5월_1일.md "wikilink"): 시험 방송 실시
   - [1990년](../Page/1990년.md "wikilink") [6월 11일](../Page/6월_11일.md "wikilink"): [종로구](../Page/종로구.md "wikilink") [도렴동에서](../Page/종로동_\(서울\).md "wikilink") 9시 51분에 tbs FM 개국(호출부호: HLST, 주파수: 95.1㎒, 출력: 5㎾)
-  - [1991년](../Page/1991년.md "wikilink") [1월 1일](../Page/1월_1일.md "wikilink"): 교통방송 지역방송실 운영 개시(5개 지역)
-  - [1995년](../Page/1995년.md "wikilink") [6월 11일](../Page/6월_11일.md "wikilink"): 교통방송 개국 5주년
+  - [1991년](../Page/1991년.md "wikilink") [1월 1일](../Page/1월_1일.md "wikilink"): TBS 교통방송 지역방송실 운영 개시(5개 지역)
+  - [1995년](../Page/1995년.md "wikilink") [6월 11일](../Page/6월_11일.md "wikilink"): TBS 교통방송 개국 5주년
   - [1996년](../Page/1996년.md "wikilink") [12월 17일](../Page/12월_17일.md "wikilink"): 교통정보 서비스용 TRS (주파수 공용 무선 통신 시스템)운영
   - [1997년](../Page/1997년.md "wikilink") [5월 17일](../Page/5월_17일.md "wikilink"): 방송국 청사 이전 [종로구](../Page/종로구.md "wikilink") [도렴동](../Page/종로동_\(서울\).md "wikilink") → [중구](../Page/중구_\(서울특별시\).md "wikilink") [예장동](../Page/필동.md "wikilink")
-  - [1997년](../Page/1997년.md "wikilink") [6월 10일](../Page/6월_10일.md "wikilink"): 교통방송 남산시대 개막
+  - [1997년](../Page/1997년.md "wikilink") [6월 10일](../Page/6월_10일.md "wikilink"): TBS 교통방송 남산시대 개막
   - [1997년](../Page/1997년.md "wikilink") [9월 5일](../Page/9월_5일.md "wikilink"): 교통정보 ARS 서비스 개시
   - [2000년](../Page/2000년.md "wikilink") [4월 14일](../Page/4월_14일.md "wikilink"): ㈜로티스와 교통정보 제휴 협약 체결
-  - 2000년 6월 11일: 교통방송 개국 10주년
-  - 2000년 [7월 24일](../Page/7월_24일.md "wikilink"): 교통방송 인터넷 방송 개시(실시간 오디오 서비스)
+  - 2000년 6월 11일: TBS 교통방송 개국 10주년
+  - 2000년 [7월 24일](../Page/7월_24일.md "wikilink"): TBS 교통방송 인터넷 방송 개시(실시간 오디오 서비스)
   - 2000년 [11월 5일](../Page/11월_5일.md "wikilink"): 송신소를 [남산 송신소에서](../Page/N서울타워.md "wikilink") [관악산 송신소로](../Page/관악산.md "wikilink") 이전
-  - [2003년](../Page/2003년.md "wikilink") [10월 21일](../Page/10월_21일.md "wikilink"): 인터넷 교통방송 (iTBS) 개국
+  - [2003년](../Page/2003년.md "wikilink") [10월 21일](../Page/10월_21일.md "wikilink"): 인터넷 TBS 교통방송 (iTBS) 개국
   - [2004년](../Page/2004년.md "wikilink") [3월 25일](../Page/3월_25일.md "wikilink"): ㈜[NHN](../Page/NHN.md "wikilink")과 업무제휴
   - 2004년 [3월 31일](../Page/3월_31일.md "wikilink"): [KBS 인터넷과](../Page/한국방송공사.md "wikilink") 동영상 교통정보 모바일 서비스 제휴
-  - 2004년 [6월 17일](../Page/6월_17일.md "wikilink"): 인터넷 교통방송 휴대폰 서비스 개시
+  - 2004년 [6월 17일](../Page/6월_17일.md "wikilink"): 인터넷 TBS 교통방송 휴대폰 서비스 개시
   - [2005년](../Page/2005년.md "wikilink") [3월 3일](../Page/3월_3일.md "wikilink"): [유료 방송](../Page/대한민국의_케이블TV_방송.md "wikilink") 채널 tbs TV서울(현 tbs TV) 개국
-  - 2005년 6월 11일: 교통방송 개국 15주년
+  - 2005년 6월 11일: TBS 교통방송 개국 15주년
   - 2005년 [12월 1일](../Page/12월_1일.md "wikilink"): 지상파 [DMB](../Page/디지털_멀티미디어_방송.md "wikilink") 오디오 채널 tbs DMB(tbs V-Radio) 개국
-  - [2007년](../Page/2007년.md "wikilink") [7월 30일](../Page/7월_30일.md "wikilink"): 기관명을 교통방송본부에서 교통방송으로 변경
+  - [2007년](../Page/2007년.md "wikilink") [7월 30일](../Page/7월_30일.md "wikilink"): 기관명을 TBS 교통방송본부에서 TBS 교통방송으로 변경
   - [2008년](../Page/2008년.md "wikilink") [7월 23일](../Page/7월_23일.md "wikilink"): 영어 [FM](../Page/주파수_변조.md "wikilink") 방송 허가 승인([남산 송신소](../Page/N서울타워.md "wikilink"))
   - [2008년](../Page/2008년.md "wikilink") [12월 1일](../Page/12월_1일.md "wikilink"): 영어 FM 방송 [tbs eFM](https://ko.wikipedia.org/wiki/tbs_eFM "wikilink") 개국(호출부호: HLSW, 주파수: 101.3㎒, 출력: 1㎾)
   - [2009년](../Page/2009년.md "wikilink") [10월 1일](../Page/10월_1일.md "wikilink"): 지상파 DMB Radio tbs DMB(현 TBS World) 비주얼 라디오 방송으로 전환
   - [2009년](../Page/2009년.md "wikilink") [10월 1일](../Page/10월_1일.md "wikilink"): 지상파 DMB TV(\#Love tbs) 개국
-  - [2010년](../Page/2010년.md "wikilink") 6월 11일: 교통방송 개국 20주년
-  - [2011년](../Page/2011년.md "wikilink") 6월 11일: 교통방송 개국 21주년
+  - [2010년](../Page/2010년.md "wikilink") 6월 11일: TBS 교통방송 개국 20주년
+  - [2011년](../Page/2011년.md "wikilink") 6월 11일: TBS 교통방송 개국 21주년
   - [2011년](../Page/2011년.md "wikilink") [11월 30일](../Page/11월_30일.md "wikilink"): 지상파 [DMB](../Page/디지털_멀티미디어_방송.md "wikilink") 오디오 채널 tbs DMB(TBS World) 방송 종료
-  - [2012년](../Page/2012년.md "wikilink") 6월 11일: 교통방송 개국 22주년
-  - [2013년](../Page/2013년.md "wikilink") 6월 11일: 교통방송 개국 23주년
+  - [2012년](../Page/2012년.md "wikilink") 6월 11일: TBS 교통방송 개국 22주년
+  - [2013년](../Page/2013년.md "wikilink") 6월 11일: TBS 교통방송 개국 23주년
   - [2013년](../Page/2013년.md "wikilink") [10월 14일](../Page/10월_14일.md "wikilink") tbs eFM 중국어방송 개시
-  - [2014년](../Page/2014년.md "wikilink") [1월 2일](../Page/1월_2일.md "wikilink"): 지상파 DMB TV(\#Love TBS) 종료
-  - [2014년](../Page/2014년.md "wikilink") 6월 11일: 교통방송 개국 24주년
-  - [2015년](../Page/2015년.md "wikilink") 6월 11일: 교통방송 개국 25주년
-  - [2016년](../Page/2016년.md "wikilink") 6월 11일: 교통방송 개국 26주년
+  - [2013년](../Page/2013년.md "wikilink") [12월 31일](../Page/12월_31일.md "wikilink"): 지상파 DMB TV(\#Love TBS) 종료
+  - [2014년](../Page/2014년.md "wikilink") 6월 11일: TBS 교통방송 개국 24주년
+  - [2015년](../Page/2015년.md "wikilink") 6월 11일: TBS 교통방송 개국 25주년
+  - [2016년](../Page/2016년.md "wikilink") 6월 11일: TBS 교통방송 개국 26주년
   - [2016년](../Page/2016년.md "wikilink") [7월 4일](../Page/7월_4일.md "wikilink"): 방송사 신청사 이전 [중구](../Page/중구_\(서울특별시\).md "wikilink") [예장동](../Page/필동.md "wikilink") → [마포구](../Page/마포구.md "wikilink") [상암동](../Page/상암동_\(서울\).md "wikilink") 에스플렉스센터로 이전
-  - [2017년](../Page/2017년.md "wikilink") 6월 11일: 교통방송 개국 27주년
+  - [2017년](../Page/2017년.md "wikilink") 6월 11일: TBS 교통방송 개국 27주년
   - [2017년](../Page/2017년.md "wikilink") [6월 12일](../Page/6월_12일.md "wikilink"): 라디오 계획 정파 주기 변경(매주 화요일 02시\~05시 → 매월 첫째 주 화요일 02시\~05시)
-  - [2018년](../Page/2018년.md "wikilink") 6월 11일: 교통방송 개국 28주년
-  - [2019년](../Page/2019년.md "wikilink") 6월 11일: 교통방송 개국 29주년
+  - [2018년](../Page/2018년.md "wikilink") 6월 11일: TBS 교통방송 개국 28주년
+  - [2019년](../Page/2019년.md "wikilink") 6월 11일: TBS 교통방송 개국 29주년
   - [2020년](../Page/2020년.md "wikilink") [2월 17일](../Page/2월_17일.md "wikilink"): '서울특별시 미디어재단 TBS'로 재단법인 출범
 
 ## 방송 현황
@@ -214,6 +214,7 @@ FM 95.1㎒ 시민의 방송 TBS에서 OO를 알려드립니다
   - [강지연](https://ko.wikipedia.org/wiki/강지연 "wikilink")
   - [정세현](https://ko.wikipedia.org/wiki/정세현 "wikilink")
   - [김상아](https://ko.wikipedia.org/wiki/김상아 "wikilink")
+  - [손승희](https://ko.wikipedia.org/wiki/손승희 "wikilink")
 
 ## 기자
 
@@ -258,8 +259,8 @@ FM 95.1㎒ 시민의 방송 TBS에서 OO를 알려드립니다
 
 ## 외부 링크
 
-  - [TBS 방송 홈페이지](http://tbs.seoul.kr)
-  - [TBS 방송 모바일 홈페이지](http://m.tbs.seoul.kr/fm/onair.do)
+  - [TBS 교통방송 홈페이지](http://tbs.seoul.kr)
+  - [TBS 교통방송 모바일 홈페이지](http://m.tbs.seoul.kr/fm/onair.do)
 
 [분류:교통방송](https://ko.wikipedia.org/wiki/분류:교통방송 "wikilink") [분류:대한민국의 라디오 방송국](https://ko.wikipedia.org/wiki/분류:대한민국의_라디오_방송국 "wikilink") [분류:대한민국의 텔레비전 케이블 방송국](https://ko.wikipedia.org/wiki/분류:대한민국의_텔레비전_케이블_방송국 "wikilink") [분류:대한민국의 디지털 멀티미디어 방송국](https://ko.wikipedia.org/wiki/분류:대한민국의_디지털_멀티미디어_방송국 "wikilink") [분류:서울특별시청](https://ko.wikipedia.org/wiki/분류:서울특별시청 "wikilink") [분류:1990년 설립된 라디오 방송국](https://ko.wikipedia.org/wiki/분류:1990년_설립된_라디오_방송국 "wikilink") [분류:2005년 설립된 텔레비전 방송국과 채널](https://ko.wikipedia.org/wiki/분류:2005년_설립된_텔레비전_방송국과_채널 "wikilink")
 

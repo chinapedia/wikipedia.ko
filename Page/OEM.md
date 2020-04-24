@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [OEM](https://ko.wikipedia.org/wiki/OEM).
 
 
-**OEM**(**O**riginal **E**quipment **M**anufacturer)은, 주문자의 의뢰에 따라 주문자의 상표를 부착하여 판매할 상품을 제작하는 업체를 의미한다. [대한민국](../Page/대한민국.md "wikilink")에서는 Original Equipment Manufacturing이라고 쓰고 '주문자 상표 부착 생산'이라고 번역하는 경우가 많다. 짧게 위탁생산이라고 부르기도 한다.
+**OEM**(**O**riginal **E**quipment **M**anufacturer)은 주문자의 의뢰에 따라 주문자의 상표를 부착하여 판매할 상품을 제작하는 업체를 의미한다. [대한민국](../Page/대한민국.md "wikilink")에서는 Original Equipment Manufacturing이라고 쓰고 '주문자 상표 부착 생산'이라고 번역하는 경우가 많다. 짧게 위탁생산이라고 부르기도 한다.
 
 ## 개념
 

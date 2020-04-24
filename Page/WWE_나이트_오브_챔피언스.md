@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [WWE 나이트 오브 챔피언스](https://ko.wikipedia.org/wiki/WWE_나이트_오브_챔피언스).
 
 
-**WWE 벤전스**(Vengeance) 또는 **WWE 나이트 오브 챔피언스**(Night of Champions)는 [WWE](https://ko.wikipedia.org/wiki/WWE "wikilink")가 주관하는 페이 퍼 뷰이다.
+**WWE 벤전스**(Vengeance) 또는 **WWE 나이트 오브 챔피언스**(Night of Champions)는 [WWE](../Page/WWE.md "wikilink")가 주관하는 페이 퍼 뷰이다.
 
 이 행사는 1999년 **아마겟돈**(Armageddon)란 이름을 걸고 시작하였으며, 본래 12월에 개최될 예정이었던 페이 퍼 뷰 아마겟돈이 2001년 당시 [9·11 테러로](https://ko.wikipedia.org/wiki/9·11_테러 "wikilink") 인해 대회명이 문제가 되어, **벤젼스**(Vengeance)로 대체가 되어 지금까지 계속되고 있다. 아마겟돈은 2002년에 부활했으며, 벤젼스는 개최 시기를 7월로 변경한 이후 계속되고 있다. 이 행사는 2003년까지만 해도 스맥다운의 행사였으나 2004에서 2006년까진 러의 행사로 진행되었다. 2005년 〈더 그레이트 아메리칸 배쉬〉와 페이 퍼 뷰 진행시기를 교체하여 6월로 변경되어 되었다.
 

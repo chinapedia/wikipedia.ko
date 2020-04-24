@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [제노아 CFC](https://ko.wikipedia.org/wiki/제노아_CFC).
 
 
-**제노아 크리켓 앤 풋볼 클럽**(Genoa Cricket and Football Club SpA)는 [제노바](../Page/제노바.md "wikilink")에 위치한 [루이지 페라리스](https://ko.wikipedia.org/wiki/루이지_페라리스 "wikilink") 경기장을 근거로 하는 [이탈리아](../Page/이탈리아.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다.
+**제노아 크리켓 앤 풋볼 클럽**(Genoa Cricket and Football Club S.p.A.)는 [제노바](../Page/제노바.md "wikilink")에 위치한 [루이지 페라리스](https://ko.wikipedia.org/wiki/루이지_페라리스 "wikilink") 경기장을 근거로 하는 [이탈리아](../Page/이탈리아.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다.
 
 그들의 오래된 역사 동안에, 제노아는 9번의 세리에 A 우승을 하였다. 그들의 첫 우승 타이틀은 1898년에 열린 이탈리아 풋볼 챔피언쉽 1회였고 마지막 우승은 1923-24 시즌이다. 또한 제노아는 [코파 이탈리아를](../Page/코파_이탈리아.md "wikilink") 한 차례 우승하였다. 역사적으로, 제노아는 리그 우승 횟수로만 보았을 때 이탈리아 내에서 4번째로 성공적인 클럽이다.\[1\]
 

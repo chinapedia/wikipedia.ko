@@ -42,7 +42,7 @@ A가 B에 근접할 경우 A는 [로슈 한계](../Page/로슈_한계.md "wikili
 
   - [Universe Today](http://www.universetoday.com/am/publish/three_largest_stars.html)
 
-[분류:세페우스자리](https://ko.wikipedia.org/wiki/분류:세페우스자리 "wikilink") [분류:준규칙 변광성](https://ko.wikipedia.org/wiki/분류:준규칙_변광성 "wikilink") [분류:쌍성](https://ko.wikipedia.org/wiki/분류:쌍성 "wikilink") [분류:M형 초거성](https://ko.wikipedia.org/wiki/분류:M형_초거성 "wikilink") [분류:B형 주계열성](https://ko.wikipedia.org/wiki/분류:B형_주계열성 "wikilink") [분류:식쌍성](https://ko.wikipedia.org/wiki/분류:식쌍성 "wikilink") [분류:헨리 드레이퍼 목록 천체](https://ko.wikipedia.org/wiki/분류:헨리_드레이퍼_목록_천체 "wikilink") [분류:HR 천체](https://ko.wikipedia.org/wiki/분류:HR_천체 "wikilink") [분류:히파르코스 천체](https://ko.wikipedia.org/wiki/분류:히파르코스_천체 "wikilink")
+[분류:세페우스자리](https://ko.wikipedia.org/wiki/분류:세페우스자리 "wikilink") [분류:준규칙 변광성](https://ko.wikipedia.org/wiki/분류:준규칙_변광성 "wikilink") [분류:쌍성](https://ko.wikipedia.org/wiki/분류:쌍성 "wikilink") [분류:M형 초거성](https://ko.wikipedia.org/wiki/분류:M형_초거성 "wikilink") [분류:B형 주계열성](https://ko.wikipedia.org/wiki/분류:B형_주계열성 "wikilink") [분류:식쌍성](https://ko.wikipedia.org/wiki/분류:식쌍성 "wikilink") [분류:헨리 드레이퍼 목록 천체](https://ko.wikipedia.org/wiki/분류:헨리_드레이퍼_목록_천체 "wikilink") [분류:HR 천체](https://ko.wikipedia.org/wiki/분류:HR_천체 "wikilink") [분류:히파르코스 천체](https://ko.wikipedia.org/wiki/분류:히파르코스_천체 "wikilink") [분류:2MASS 천체](https://ko.wikipedia.org/wiki/분류:2MASS_천체 "wikilink")
 
 1.
 2.  짐 케일러의 주장에 따르면 이 항성계에 대한 정보가 충분하지 않아 세페우스자리 VV 계 구성원의 질량, 크기, 광도 예측치 모두 매우 불확실하다.
