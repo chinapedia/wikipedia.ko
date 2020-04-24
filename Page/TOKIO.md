@@ -9,7 +9,7 @@
 | 〈**AMBITIOUS JAPAN\!**〉 |
 | 〈**宙船**〉                |
 
-**TOKIO**(토키오)는, [자니즈 사무소](https://ko.wikipedia.org/wiki/자니즈_사무소 "wikilink") 소속의 [일본](../Page/일본.md "wikilink")의 남성 아이돌 그룹·록 밴드이다. 소속 레코드 회사는 [J Storm](https://ko.wikipedia.org/wiki/제이스톰 "wikilink").
+**TOKIO**(토키오)는 [자니즈 사무소](https://ko.wikipedia.org/wiki/자니즈_사무소 "wikilink") 소속의 [일본](../Page/일본.md "wikilink")의 남성 아이돌 그룹·록 밴드이다. 소속 레코드 회사는 [J Storm](https://ko.wikipedia.org/wiki/제이스톰 "wikilink").
 
 ## 멤버
 

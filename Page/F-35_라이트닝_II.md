@@ -51,6 +51,7 @@ F-35로 교체될 기종은 다음과 같다.
   - [A-10 선더볼트 II](../Page/A-10_선더볼트_II.md "wikilink")
   - [맥도널 더글러스 F/A-18 호넷](https://ko.wikipedia.org/wiki/맥도널_더글러스_F/A-18_호넷 "wikilink")
   - [제너럴 다이내믹스 F-16 파이팅 팰컨](../Page/제너럴_다이내믹스_F-16_파이팅_팰컨.md "wikilink")
+  - [맥도널 더글러스 F-4 팬텀](../Page/맥도널_더글러스_F-4_팬텀.md "wikilink")(일본, 대한민국)
 
 ## 파생형
 

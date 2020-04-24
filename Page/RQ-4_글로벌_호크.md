@@ -90,7 +90,7 @@ SAR 레이다는 3가지 모드가 있다:
 
   - 0.3 m 해상도(가로세로 0.3미터의 물체가 1개의 점으로 표시된다)의 Spot mode
   - 1 meter 해상도의 Wide Area Search mode
-  - 2.1 m/s (7.5 km/h 또는 4 kn) 의 최저 속도를 가지는 이동물체를 탐색하는 Moving Target Indicator mode
+  - 2.1 m/s (7.5 km/h 또는 4 kn)의 최저 속도를 가지는 이동물체를 탐색하는 Moving Target Indicator mode
 
 1대의 글로벌 호크는, 1미터 해상도인 Wide Area Search mode를 사용했을 경우, 24시간 동안 138,000 [평방킬로미터](https://ko.wikipedia.org/wiki/평방킬로미터 "wikilink")의 지역을 스캐닝할 수 있다.
 

@@ -549,6 +549,12 @@
 
   - 살아있는 뉴스\~ 깨어있는 방송\~ 한국의 뉴스채널 YTN\~ [2008년](../Page/2008년.md "wikilink") [4월 30일](../Page/4월_30일.md "wikilink")\[2\]
 
+
+
+## 마녀사냥
+
+세월호에 대한 정당한 비판을 한 차명진을 정당한 이유를 대지 못한채 마녀사냥하였다\[3\]. 차명진의 발언이 허위 사실이라는 근거는 대지 못한채, 무턱 대고 막말이라고 몰아붙인 것이다.
+
 ## 갤러리
 
 파일:Sungnyemun back through gate.jpg 파일:YTN NEWSQUARE.jpg
@@ -570,7 +576,7 @@
 ## 기타
 
   - 매년 [12월 31일](../Page/12월_31일.md "wikilink") 열리는 [제야의 종](../Page/제야의_종.md "wikilink") 타종 행사에 생중계한다.
-  - 하단 자막에 왼쪽은 [현재 시간과](../Page/시간.md "wikilink") 가운데는 실시간 [주요 뉴스](../Page/뉴스.md "wikilink"), 오른쪽은 [날씨](https://ko.wikipedia.org/wiki/날씨 "wikilink")\[3\] 위젯 표시가 있다.
+  - 하단 자막에 왼쪽은 [현재 시간과](../Page/시간.md "wikilink") 가운데는 실시간 [주요 뉴스](../Page/뉴스.md "wikilink"), 오른쪽은 [날씨](https://ko.wikipedia.org/wiki/날씨 "wikilink")\[4\] 위젯 표시가 있다.
 
 ## 각주
 
@@ -585,4 +591,5 @@
 
 1.  간혹, 뉴스 보도중에 종료되는 경우도 있다.
 2.  간혹 남성 아나운서가 "FM"이라거나 록 버전, 어린이 버전 두 가지 버전이 있다.
-3.  평일 9시부터 18시까지 [증권](https://ko.wikipedia.org/wiki/증권 "wikilink") 정보를 표시되었다.
+3.
+4.  평일 9시부터 18시까지 [증권](https://ko.wikipedia.org/wiki/증권 "wikilink") 정보를 표시되었다.

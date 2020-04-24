@@ -60,8 +60,8 @@ AGM-84A은 [1977년](../Page/1977년.md "wikilink")에 최초로 도입되었고
 
   - **주요기능**: 공중,지상,잠수함 발사식 대지, 대함 순항 미사일
   - **계약자**: 보잉 IDS
-  - **엔진**: Teledyne 터보젯과 지상, 잠수함 발사용 고체추진 부스터
-  - **추력**: 2.9 [kN](https://ko.wikipedia.org/wiki/뉴턴_\(단위\) "wikilink") (660 [lbf](../Page/파운드힘.md "wikilink"))
+  - **엔진**: Teledyne [터보젯](https://ko.wikipedia.org/wiki/터보젯 "wikilink")과 지상, [잠수함](../Page/잠수함.md "wikilink") 발사용 고체추진 [부스터](https://ko.wikipedia.org/wiki/부스터 "wikilink")
+  - **추력**: 2.9 [kN](../Page/뉴턴_\(단위\).md "wikilink") (660 [lbf](../Page/파운드힘.md "wikilink"))
   - **길이**:
       - 공중 발사식: 3.8 m (12 ft 7 in)
       - 지상과 잠수함 발사식: 4.6 m (15 ft)
@@ -70,7 +70,7 @@ AGM-84A은 [1977년](../Page/1977년.md "wikilink")에 최초로 도입되었고
       - 잠수함과 수상함 발사식: 628 kg (1,523 lb)
   - **직경**: 340 mm (13.5 in)
   - **날개폭**: 910 mm (3 ft) 부스터 포함
-  - **사거리**: 초수평선, 110 km 이상 (60 [해리](https://ko.wikipedia.org/wiki/해리_\(단위\) "wikilink"), 70 mi)
+  - **사거리**: 초수평선, 110 km 이상 (60 [해리](../Page/해리_\(단위\).md "wikilink"), 70 mi)
   - **속도**: 아음속, 대략 850 km/h (460 [노트](https://ko.wikipedia.org/wiki/노트_\(속력\) "wikilink"), 240 m/s, 530 mph)
   - **유도방식**: 레이다 고도계에 의한 시스키밍 순항, 액티브 레이다 종말유도
   - **탄두**: 221 kg (488 lb), penetration high-explosive blast

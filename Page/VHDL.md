@@ -171,7 +171,7 @@ begin
     wait until rising_edge(CLK);
   end loop;
 
-  -- 출력이 변할 때 까지 기다림.
+  -- 출력이 변할 때까지 기다림.
   wait on RESULT;
 
   -- 한 클럭 주기 동안 ACK 펄스를 만든다.

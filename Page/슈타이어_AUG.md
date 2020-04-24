@@ -5,7 +5,7 @@
 
 ## 사용국
 
-AUG를 사용하는 병사들의 평가는 좋은 편이다. AUG는 [영국 SAS](https://ko.wikipedia.org/wiki/영국_SAS "wikilink") 및 다른 대테러 관련 기관들에 의해 사용되며, [미국 세관에서도](https://ko.wikipedia.org/wiki/미국_세관 "wikilink") 사용 중이다.
+AUG를 사용하는 병사들의 평가는 좋은 편이다. AUG는 [영국 SAS](https://ko.wikipedia.org/wiki/영국_SAS "wikilink") 및 다른 대테러 관련 기관들에 의해 사용되며, [미국 세관에서도](https://ko.wikipedia.org/wiki/미국_세관 "wikilink") 사용 했었다. (현재 M4카빈으로 교체됨.)
 
 [오스트리아](../Page/오스트리아.md "wikilink") 군은 1977년에 StG-77 (Sturmgewehr 77, [돌격소총](../Page/돌격소총.md "wikilink") 77)이라는 제식명으로 AUG를 제식 채용했다. AUG와 AUG HB (HBAR)는 [룩셈부르크](../Page/룩셈부르크.md "wikilink") 군에 의해 사용 중이다. [필리핀](../Page/필리핀.md "wikilink")에서는 정예 [특수부대](../Page/특수부대.md "wikilink")(Scout Rangers)가 AUG를 주력 소총으로 사용 중이다. [파키스탄](../Page/파키스탄.md "wikilink")에서는 [육군](../Page/육군.md "wikilink")과 [해군](../Page/해군.md "wikilink")의 특수부대(Special Service Groups)는 AUG를 주력 [돌격소총](../Page/돌격소총.md "wikilink")으로 사용 중이며, 공항 경비대(Airports Security Force)도 AUG를 사용 중이다.
 
@@ -29,7 +29,11 @@ AUG를 사용하는 병사들의 평가는 좋은 편이다. AUG는 [영국 SAS]
 <!-- end list -->
 
   - **슈타이어 AUG A3** - A2와 유사하나 외부 노리쇠 전진기(external bolt release)와 함께, 리시버 위에 MIL-STD-1913 레일이 기본으로 장착되어 있다.
+
+<!-- end list -->
+
   - **슈타이어 AUG HBAR** - 슈타이어 AUG 돌격소총의 [총열](https://ko.wikipedia.org/wiki/총열 "wikilink")을 보다 무거운 것(Heavy-Barreled Automatic Rifle)으로 변경하고 [양각대](https://ko.wikipedia.org/wiki/양각대 "wikilink")를 부착하여 개조한 소총 개조 [분대지원화기](https://ko.wikipedia.org/wiki/분대지원화기 "wikilink")다. 슈타이어 AUG 돌격소총이 본래 총열을 쉽게 바꿀 수 있다는 점에 착안한 것이나, 큰 성공을 거두지는 못했다.
+  - **F88 오슈타이어(Austeyr)** - AUG의 호주/뉴질랜드의 사양이다. F88SA1, F88SA2와 차기 소총인 EF88(F90)이 있으며 카빈형으로 F88C가 있다. 현재 다산기공에서 EF88을 라이센스 생산중이다.
 
 ## 사용 국가
 
@@ -79,6 +83,7 @@ AUG를 사용하는 병사들의 평가는 좋은 편이다. AUG는 [영국 SAS]
   - 게임 [스페셜솔져](https://ko.wikipedia.org/wiki/스페셜솔져 "wikilink")에서 등장한다. 인기있는 총기이며, 게임안에서는 AUG A3로 등록되어 있다.
   - 게임 Bullet Force에서 등장한다. 아쉬운 발속과 낮은 데미지가 단점이었지만 현재는 발속과 데미지 상향으로 매우 쓸만해진 총이다.
   - 로블록스의 phantom fores라는 슈팅게임에 등장한다. 낮은 랭크에 잠금 해제 되면서도 높은 데미지와 연사력으로 인해 좋은 총으로 평가받는다.
+  - 게임 [배틀필드 3](../Page/배틀필드_3.md "wikilink"), [배틀필드 4](../Page/배틀필드_4.md "wikilink"), [배틀필드: 하드라인에](../Page/배틀필드:_하드라인.md "wikilink") 등장한다 세 게임 모두 A3모델이 나오며 700RPM대의 적당한 연사속도, 적은반동으로 중거리에 특화된 모습을 보인다.
 
 ## 같이 보기
 

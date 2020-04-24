@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [아널드 J. 토인비](https://ko.wikipedia.org/wiki/아널드_J._토인비).
 
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:Arnold_J._Toynbee_Anefo.jpg "wikilink") **아널드 조지프 토인비**(Arnold Joseph Toynbee, [CH](https://ko.wikipedia.org/wiki/:en:Order_of_the_Companions_of_Honour "wikilink"), [1889년](../Page/1889년.md "wikilink") [4월 14일](../Page/4월_14일.md "wikilink")\~[1975년](../Page/1975년.md "wikilink") [10월 22일](../Page/10월_22일.md "wikilink"))는 [영국](../Page/영국.md "wikilink")의 [역사가](https://ko.wikipedia.org/wiki/역사가 "wikilink")이다. [1973년](../Page/1973년.md "wikilink") [9월](../Page/9월.md "wikilink") 영국 정부의 초청으로 런던을 방문한 자리에서 토인비는 [한국](../Page/한국.md "wikilink")의 효(孝)사상과 경로사상, 가족 제도 등의 설명을 듣고 당시 86세였던 토인비는 눈물을 흘리면서 “한국의 효 사상에 대한 설명을 듣고 보니 효 사상은 인류를 위해서 가장 필요한 사상”이라며 “한국뿐만 아니라 서양에도 ‘효’ 문화를 전파해 달라”고 부탁하였던 것으로 유명하다.\[1\] \[2\]
+[섬네일](https://ko.wikipedia.org/wiki/파일:Arnold_J._Toynbee_Anefo.jpg "wikilink") **아널드 조지프 토인비**(Arnold Joseph Toynbee, [CH](https://ko.wikipedia.org/wiki/:en:Order_of_the_Companions_of_Honour "wikilink"), [1889년](../Page/1889년.md "wikilink") [4월 14일](../Page/4월_14일.md "wikilink")\~[1975년](../Page/1975년.md "wikilink") [10월 22일](../Page/10월_22일.md "wikilink"))는 [영국](../Page/영국.md "wikilink")의 [역사가](https://ko.wikipedia.org/wiki/역사가 "wikilink")이다. [한국](../Page/한국.md "wikilink")의 효(孝)사상과 경로사상, 가족 제도 등의 설명을 듣고 당시 86세였던 토인비는 눈물을 흘리면서 “한국의 효 사상에 대한 설명을 듣고 보니 효 사상은 인류를 위해서 가장 필요한 사상”이라며 “한국뿐만 아니라 서양에도 ‘효’ 문화를 전파해 달라”고 부탁하였던 것으로 유명하다.\[1\] \[2\]
 
 ## 생애
 

@@ -1175,6 +1175,7 @@ SMAP의 투어는 앨범 발매와 동시에 실시한다. 초기에는 1년에 
 
 ## 외부 링크
 
+  -
   - [자니즈 사무소 공식 웹사이트](https://web.archive.org/web/20161126182408/http://www.johnnys-net.jp/page?id=artistTop&artist=6)
 
   - [빅터 엔터테인먼트 공식 웹사이트](http://www.jvcmusic.co.jp/-/Discography/A002763/-.html)

@@ -211,10 +211,11 @@ cite, .citation cite.article, .citation cite.contribution {
 /\* Article message box styles \*/ table.ambox {
 
 `   margin: 0 10%;                  /* 10% = Will not overlap with other elements */`
-`   border: 1px solid #aaa;`
+`   border: 1px solid #a2a9b1;`
 `   /* @noflip */`
-`   border-left: 10px solid #1e90ff;  /* Default "notice" blue */`
-`   background: #fbfbfb;`
+`   border-left: 10px solid #36c;  /* Default "notice" blue */`
+`   background-color: #fbfbfb;`
+`   box-sizing: border-box;`
 
 } table.ambox + table.ambox { /\* Single border between stacked boxes. \*/
 
@@ -239,18 +240,18 @@ cite, .citation cite.article, .citation cite.contribution {
 table.ambox-notice {
 
 `   /* @noflip */`
-`   border-left: 10px solid #1e90ff;    /* Blue */`
+`   border-left: 10px solid #36c;       /* Blue */`
 
 } table.ambox-speedy {
 
 `   /* @noflip */`
-`   border-left: 10px solid #b22222;    /* Red */`
-`   background: #fee;                   /* Pink */`
+`   border-left: 10px solid #b32424;    /* Red */`
+`   background-color: #fee7e6;          /* Pink */`
 
 } table.ambox-delete {
 
 `   /* @noflip */`
-`   border-left: 10px solid #b22222;    /* Red */`
+`   border-left: 10px solid #b32424;    /* Red */`
 
 } table.ambox-content {
 
@@ -260,7 +261,7 @@ table.ambox-notice {
 } table.ambox-style {
 
 `   /* @noflip */`
-`   border-left: 10px solid #f4c430;    /* Yellow */`
+`   border-left: 10px solid #fc3;       /* Yellow */`
 
 } table.ambox-move {
 
@@ -270,7 +271,7 @@ table.ambox-notice {
 } table.ambox-protection {
 
 `   /* @noflip */`
-`   border-left: 10px solid #bba;       /* Gray-gold */`
+`   border-left: 10px solid #a2a9b1;    /* Gray-gold */`
 
 }
 
@@ -278,8 +279,9 @@ table.ambox-notice {
 
 `   margin: 4px 10%;`
 `   border-collapse: collapse;`
-`   border: 3px solid #1e90ff;    /* Default "notice" blue */`
-`   background: #fbfbfb;`
+`   border: 3px solid #36c;    /* Default "notice" blue */`
+`   background-color: #fbfbfb;`
+`   box-sizing: border-box;`
 
 } .imbox .mbox-text .imbox { /\* For imboxes inside imbox-text cells. \*/
 
@@ -294,16 +296,16 @@ table.ambox-notice {
 
 table.imbox-notice {
 
-`   border: 3px solid #1e90ff;    /* Blue */`
+`   border: 3px solid #36c;       /* Blue */`
 
 } table.imbox-speedy {
 
-`   border: 3px solid #b22222;    /* Red */`
-`   background: #fee;             /* Pink */`
+`   border: 3px solid #b32424;    /* Red */`
+`   background-color: #fee7e6;    /* Pink */`
 
 } table.imbox-delete {
 
-`   border: 3px solid #b22222;    /* Red */`
+`   border: 3px solid #b32424;    /* Red */`
 
 } table.imbox-content {
 
@@ -311,7 +313,7 @@ table.imbox-notice {
 
 } table.imbox-style {
 
-`   border: 3px solid #f4c430;    /* Yellow */`
+`   border: 3px solid #fc3;       /* Yellow */`
 
 } table.imbox-move {
 
@@ -319,12 +321,12 @@ table.imbox-notice {
 
 } table.imbox-protection {
 
-`   border: 3px solid #bba;       /* Gray-gold */`
+`   border: 3px solid #a2a9b1;    /* Gray-gold */`
 
 } table.imbox-license {
 
 `   border: 3px solid #88a;       /* Dark gray */`
-`   background: #f7f8ff;          /* Light gray */`
+`   background-color: #f7f8ff;    /* Light gray */`
 
 } table.imbox-featured {
 
@@ -336,41 +338,42 @@ table.imbox-notice {
 
 `   margin: 3px 10%;`
 `   border-collapse: collapse;`
-`   border: 1px solid #aaa;`
-`   background: #DFE8FF;    /* Default "notice" blue */`
+`   border: 1px solid #a2a9b1;`
+`   background-color: #dfe8ff;    /* Default "notice" blue */`
+`   box-sizing: border-box;`
 
 }
 
 table.cmbox-notice {
 
-`   background: #D8E8FF;    /* Blue */`
+`   background-color: #d8e8ff;    /* Blue */`
 
 } table.cmbox-speedy {
 
 `   margin-top: 4px;`
 `   margin-bottom: 4px;`
-`   border: 4px solid #b22222;    /* Red */`
-`   background: #FFDBDB;          /* Pink */`
+`   border: 4px solid #b32424;    /* Red */`
+`   background-color: #ffdbdb;    /* Pink */`
 
 } table.cmbox-delete {
 
-`   background: #FFDBDB;    /* Red */`
+`   background-color: #ffdbdb;    /* Pink */`
 
 } table.cmbox-content {
 
-`   background: #FFE7CE;    /* Orange */`
+`   background-color: #ffe7ce;    /* Orange */`
 
 } table.cmbox-style {
 
-`   background: #FFF9DB;    /* Yellow */`
+`   background-color: #fff9db;    /* Yellow */`
 
 } table.cmbox-move {
 
-`   background: #E4D8FF;    /* Purple */`
+`   background-color: #e4d8ff;    /* Purple */`
 
 } table.cmbox-protection {
 
-`   background: #EFEFE1;    /* Gray-gold */`
+`   background-color: #efefe1;    /* Gray-gold */`
 
 }
 
@@ -378,23 +381,24 @@ table.cmbox-notice {
 
 `   margin: 4px 10%;`
 `   border-collapse: collapse;`
-`   border: 1px solid #aaa;       /* Default "notice" gray */`
-`   background: #f9f9f9;`
+`   border: 1px solid #a2a9b1;    /* Default "notice" gray */`
+`   background-color: #f8f9fa;`
+`   box-sizing: border-box;`
 
 }
 
 table.ombox-notice {
 
-`   border: 1px solid #aaa;       /* Gray */`
+`   border: 1px solid #a2a9b1;    /* Gray */`
 
 } table.ombox-speedy {
 
-`   border: 2px solid #b22222;    /* Red */`
-`   background: #fee;             /* Pink */`
+`   border: 2px solid #b32424;    /* Red */`
+`   background-color: #fee7e6;    /* Pink */`
 
 } table.ombox-delete {
 
-`   border: 2px solid #b22222;    /* Red */`
+`   border: 2px solid #b32424;    /* Red */`
 
 } table.ombox-content {
 
@@ -402,7 +406,7 @@ table.ombox-notice {
 
 } table.ombox-style {
 
-`   border: 1px solid #f4c430;    /* Yellow */`
+`   border: 1px solid #fc3;       /* Yellow */`
 
 } table.ombox-move {
 
@@ -410,7 +414,7 @@ table.ombox-notice {
 
 } table.ombox-protection {
 
-`   border: 2px solid #bba;       /* Gray-gold */`
+`   border: 2px solid #a2a9b1;    /* Gray-gold */`
 
 }
 
@@ -419,7 +423,13 @@ table.ombox-notice {
 `   margin: 4px 10%;`
 `   border-collapse: collapse;`
 `   border: 1px solid #c0c090;    /* Default "notice" gray-brown */`
-`   background: #f8eaba;`
+`   background-color: #f8eaba;`
+`   min-width: 80%;`
+`   box-sizing: border-box;`
+
+} .tmbox.mbox-small {
+
+`   min-width: 0;                /* reset the min-width of tmbox above        */`
 
 } .mediawiki .mbox-inside .tmbox { /\* For tmboxes inside other templates. The "mediawiki" class ensures that \*/
 
@@ -435,12 +445,12 @@ table.ombox-notice {
 
 table.tmbox-speedy {
 
-`   border: 2px solid #b22222;    /* Red */`
-`   background: #fee;             /* Pink */`
+`   border: 2px solid #b32424;    /* Red */`
+`   background-color: #fee7e6;    /* Pink */`
 
 } table.tmbox-delete {
 
-`   border: 2px solid #b22222;    /* Red */`
+`   border: 2px solid #b32424;    /* Red */`
 
 } table.tmbox-content {
 
@@ -448,7 +458,7 @@ table.tmbox-speedy {
 
 } table.tmbox-style {
 
-`   border: 2px solid #f4c430;    /* Yellow */`
+`   border: 2px solid #fc3;       /* Yellow */`
 
 } table.tmbox-move {
 
@@ -475,23 +485,26 @@ table.tmbox-speedy {
 `   clear: both;`
 `   margin: 0.2em 0;`
 `   width: 100%;`
-`   border: 1px solid #aaa;`
-`   background: #f9f9f9;     /* Default "system" gray */`
+`   border: 1px solid #a2a9b1;`
+`   background-color: #f8f9fa;     /* Default "system" gray */`
+`   box-sizing: border-box;`
 
 } table.fmbox-system {
 
-`   background: #f9f9f9;`
+`   background-color: #f8f9fa;`
 
 } table.fmbox-warning {
 
 `   border: 1px solid #bb7070;  /* Dark pink */`
-`   background: #ffdbdb;        /* Pink */`
+`   background-color: #ffdbdb;  /* Pink */`
 
 } table.fmbox-editnotice {
 
-`   background: transparent;`
+`   background-color: transparent;`
 
-} /\* Div based "warning" style fmbox messages. \*/ div.mw-warning-with-logexcerpt, div.mw-lag-warn-high, div.mw-cascadeprotectedwarning, div\#mw-protect-cascadeon, div.titleblacklist-warning, div.locked-warning {
+}
+
+/\* Div based "warning" style fmbox messages. \*/ div.mw-warning-with-logexcerpt, div.mw-lag-warn-high, div.mw-cascadeprotectedwarning, div\#mw-protect-cascadeon, div.titleblacklist-warning, div.locked-warning {
 
 `   clear: both;`
 `   margin: 0.2em 0;`

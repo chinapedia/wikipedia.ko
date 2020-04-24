@@ -111,7 +111,7 @@
 37. **GOOD LUCK MY WAY** (2011년 [6월 29일](../Page/6월_29일.md "wikilink"))
 38. **X X X** (2011년 [10월 12일](../Page/10월_12일.md "wikilink"))
 39. **CHASE** (2011년 [12월 21일](../Page/12월_21일.md "wikilink"))
-40. **EVERLASTING** (2014년 [08월 13일](https://ko.wikipedia.org/wiki/08월_13일 "wikilink"))
+40. **EVERLASTING** (2014년 [8월 13일](../Page/8월_13일.md "wikilink"))
 41. **Wings Flap** (2015년 [12월 23일](../Page/12월_23일.md "wikilink"))
 42. **Don't be Afraid** (2016년 [12월 21일](../Page/12월_21일.md "wikilink"))
 
@@ -140,7 +140,7 @@
   - **The Best Of L'Arc\~en\~Ciel c/w** ([2003년](../Page/2003년.md "wikilink") [3월 19일](../Page/3월_19일.md "wikilink")) , (*CD+DVD*) \[한정판\] ([2003년](../Page/2003년.md "wikilink") [3월 19일](../Page/3월_19일.md "wikilink")) (*best album*)
   - **QUADRINITY \~MEMBERS'S BEST SELECTIONS\~** ([2010년](../Page/2010년.md "wikilink") [3월 10일](../Page/3월_10일.md "wikilink")) , (*CD+DVD*) \[한정판\] ([2010년](../Page/2010년.md "wikilink") [3월 10일](../Page/3월_10일.md "wikilink"))(*best album*)
   - **20th L'Anniversary Best Album "TWENITY"** ([2011년](../Page/2011년.md "wikilink") [2월 16일](../Page/2월_16일.md "wikilink")) (*best album*)
-  - **20th L'Anniversary Best Album "TWENITY BOX"** ([2011년](../Page/2011년.md "wikilink") [3월 09일](https://ko.wikipedia.org/wiki/3월_09일 "wikilink")) , \[완전 생산 한정판\] (*best album*)
+  - **20th L'Anniversary Best Album "TWENITY BOX"** ([2011년](../Page/2011년.md "wikilink") [3월 9일](../Page/3월_9일.md "wikilink")) , \[완전 생산 한정판\] (*best album*)
 
 #### 다른 앨범
 

@@ -5,16 +5,16 @@
 
 ## 정의
 
-| 차원                                                  | 단위                                                       | 정의                             | SI 단위계                                                                     |
-| --------------------------------------------------- | -------------------------------------------------------- | ------------------------------ | -------------------------------------------------------------------------- |
-| [길이](https://ko.wikipedia.org/wiki/길이 "wikilink")   | [센티미터](https://ko.wikipedia.org/wiki/센티미터 "wikilink")    | 1 cm                           | \= 10<sup>−2</sup> [m](../Page/미터.md "wikilink")                           |
-| [질량](https://ko.wikipedia.org/wiki/질량 "wikilink")   | [그램](../Page/그램.md "wikilink")                           | 1 g                            | \= 10<sup>−3</sup> [kg](../Page/킬로그램.md "wikilink")                        |
-| [시간](../Page/시간.md "wikilink")                      | [초](https://ko.wikipedia.org/wiki/초_\(시간\) "wikilink")   | 1 s                            |                                                                            |
-| [힘](../Page/힘_\(물리\).md "wikilink")                 | [다인](../Page/다인.md "wikilink")                           | 1 dyn = 1 g·cm/s²              | \= 10<sup>−5</sup> [N](https://ko.wikipedia.org/wiki/뉴턴_\(단위\) "wikilink") |
-| [에너지](../Page/에너지.md "wikilink")                    | [에르그](https://ko.wikipedia.org/wiki/에르그 "wikilink")      | 1 erg = 1 g·cm²/s²             | \= 10<sup>−7</sup> [J](https://ko.wikipedia.org/wiki/줄_\(단위\) "wikilink")  |
-| [일률](https://ko.wikipedia.org/wiki/일률 "wikilink")   | 에르그 퍼 초                                                  | 1 erg/s = 1 g·cm²/s³           | \= 10<sup>−7</sup> [W](../Page/와트.md "wikilink")                           |
-| [압력](../Page/압력.md "wikilink")                      | [바리](https://ko.wikipedia.org/wiki/바리_\(단위\) "wikilink") | 1 Ba = 1 dyn/cm² = 1 g/(cm·s²) | \= 10<sup>−1</sup> [Pa](../Page/파스칼_\(단위\).md "wikilink")                  |
-| [점성도](https://ko.wikipedia.org/wiki/점성도 "wikilink") | [푸아즈](https://ko.wikipedia.org/wiki/푸아즈 "wikilink")      | 1 P = 1 g/(cm·s)               | \= 10<sup>−1</sup> [Pa·s](https://ko.wikipedia.org/wiki/파스칼_초 "wikilink")  |
+| 차원                                                  | 단위                                                       | 정의                             | SI 단위계                                                                    |
+| --------------------------------------------------- | -------------------------------------------------------- | ------------------------------ | ------------------------------------------------------------------------- |
+| [길이](https://ko.wikipedia.org/wiki/길이 "wikilink")   | [센티미터](https://ko.wikipedia.org/wiki/센티미터 "wikilink")    | 1 cm                           | \= 10<sup>−2</sup> [m](../Page/미터.md "wikilink")                          |
+| [질량](https://ko.wikipedia.org/wiki/질량 "wikilink")   | [그램](../Page/그램.md "wikilink")                           | 1 g                            | \= 10<sup>−3</sup> [kg](../Page/킬로그램.md "wikilink")                       |
+| [시간](../Page/시간.md "wikilink")                      | [초](https://ko.wikipedia.org/wiki/초_\(시간\) "wikilink")   | 1 s                            |                                                                           |
+| [힘](../Page/힘_\(물리\).md "wikilink")                 | [다인](../Page/다인.md "wikilink")                           | 1 dyn = 1 g·cm/s²              | \= 10<sup>−5</sup> [N](../Page/뉴턴_\(단위\).md "wikilink")                   |
+| [에너지](../Page/에너지.md "wikilink")                    | [에르그](https://ko.wikipedia.org/wiki/에르그 "wikilink")      | 1 erg = 1 g·cm²/s²             | \= 10<sup>−7</sup> [J](https://ko.wikipedia.org/wiki/줄_\(단위\) "wikilink") |
+| [일률](https://ko.wikipedia.org/wiki/일률 "wikilink")   | 에르그 퍼 초                                                  | 1 erg/s = 1 g·cm²/s³           | \= 10<sup>−7</sup> [W](../Page/와트.md "wikilink")                          |
+| [압력](../Page/압력.md "wikilink")                      | [바리](https://ko.wikipedia.org/wiki/바리_\(단위\) "wikilink") | 1 Ba = 1 dyn/cm² = 1 g/(cm·s²) | \= 10<sup>−1</sup> [Pa](../Page/파스칼_\(단위\).md "wikilink")                 |
+| [점성도](https://ko.wikipedia.org/wiki/점성도 "wikilink") | [푸아즈](https://ko.wikipedia.org/wiki/푸아즈 "wikilink")      | 1 P = 1 g/(cm·s)               | \= 10<sup>−1</sup> [Pa·s](https://ko.wikipedia.org/wiki/파스칼_초 "wikilink") |
 
 CGS 단위계
 

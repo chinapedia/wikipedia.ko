@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [만우절 RFC](https://ko.wikipedia.org/wiki/만우절_RFC).
 
 
-[1989년](../Page/1989년.md "wikilink") 이래로 매 년 [만우절](../Page/만우절.md "wikilink")([4월 1일](../Page/4월_1일.md "wikilink"))에는 [국제 인터넷 표준화 기구는](../Page/국제_인터넷_표준화_기구.md "wikilink") 하나 이상의 농담조의 [RFC](../Page/RFC.md "wikilink")를 발표하고 있다. 최초의 장난 RFC는 [1973년](../Page/1973년.md "wikilink") 6월의 **ARPAWOCKY**라는 이름의 RFC 527이며, 기타 장난 RFC의 목록은 다음과 같다.
+**만우절 RFC**()는 [1989년](../Page/1989년.md "wikilink") 이래로 매 년 [만우절](../Page/만우절.md "wikilink")([4월 1일](../Page/4월_1일.md "wikilink"))에는 [국제 인터넷 표준화 기구는](../Page/국제_인터넷_표준화_기구.md "wikilink") 하나 이상의 농담조의 [RFC](../Page/RFC.md "wikilink")를 발표하고 있다. 최초의 장난 RFC는 [1973년](../Page/1973년.md "wikilink") 6월의 **ARPAWOCKY**라는 이름의 RFC 527이며, 기타 장난 RFC의 목록은 다음과 같다.
 
 ## 모든 만우절 RFC 및 장난 RFC 목록
 

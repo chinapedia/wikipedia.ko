@@ -63,7 +63,7 @@
   - [History of KROQ 1968-1979](https://web.archive.org/web/19991012041238/http://www.geocities.com/SiliconValley/1008/kroqhist.html)
   - [History of KROQ 1980-1990](http://earlhoward.com/kroq.htm)
   - [KROQ Classics](https://web.archive.org/web/20051106030313/http://www.kroqclassics.com/) [Webcast](https://ko.wikipedia.org/wiki/Webcast "wikilink") - A Tribute to KROQ 1980-1990
-  - [List of KROQ Top 106.7 countdowns with a searchable archive](http://www.radiohitlist.com)
+  - [List of KROQ Top 106.7 countdowns with a searchable archive](https://web.archive.org/web/20190923045832/http://radiohitlist.com/)
   - [KROQ: an oral history](http://www.findarticles.com/cf_dls/m1346/11_46/79396173/p1/article.jhtml) Article from November 2001 *Los Angeles Magazine*.
   - [KROQ](https://myspace.com/KROQ) or [World Famous (myspace.com)](https://www.myspace.com/worldfamouskroq)
 
