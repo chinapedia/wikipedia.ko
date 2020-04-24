@@ -7,7 +7,7 @@ HTTPS는 소켓 통신에서 일반 텍스트를 이용하는 대신에, [SSL](h
 
 보호의 수준은 [웹 브라우저에서의](../Page/웹_브라우저.md "wikilink") [구현](../Page/구현.md "wikilink") 정확도와 서버 소프트웨어, 지원하는 [암호화 알고리즘에](../Page/암호학.md "wikilink") 달려있다.
 
-HTTPS를 사용하는 웹페이지의 [URI은](../Page/통합_자원_식별자.md "wikilink") 'http://'대신 'https://'로 시작한다.
+HTTPS를 사용하는 웹페이지의 [URI는](../Page/통합_자원_식별자.md "wikilink") 'http://'대신 'https://'로 시작한다.
 
 ## 역사
 

@@ -106,7 +106,7 @@
 
 ## 그룹 경영 체계 및 자회사
 
-유무선 통신 전문 공기업에서 출발한 KT는 민영화 이후 [2015년](../Page/2015년.md "wikilink") 그룹 매출 40조원 달성을 목표로 렌탈, 부동산, 경비, 교육, 신용카드 등 다양한 비통신 시장으로 진입하고 있다. 2015년 9월 30일 기준으로 [BC카드](https://ko.wikipedia.org/wiki/BC카드 "wikilink") 등 41개의 자회사\[23\] 를 운영중이다.
+유무선 통신 전문 공기업에서 출발한 KT는 민영화 이후 [2015년](../Page/2015년.md "wikilink") 그룹 매출 40조원 달성을 목표로 렌탈, 부동산, 경비, 교육, 신용카드 등 다양한 비통신 시장으로 진입하고 있다. 2015년 9월 30일 기준으로 [BC카드](https://ko.wikipedia.org/wiki/BC카드 "wikilink") 등 41개의 자회사\[23\] 를 운영 중이다.
 
 <table style="width:40%;">
 <colgroup>
@@ -159,7 +159,7 @@
 <li><a href="https://ko.wikipedia.org/wiki/KT스포츠" title="wikilink">KT스포츠</a>[48]
 <ul>
 <li><a href="https://ko.wikipedia.org/wiki/부산_KT_소닉붐" title="wikilink">부산 KT 소닉붐</a> 농구단</li>
-<li><a href="https://ko.wikipedia.org/wiki/KT_롤스터" title="wikilink">KT 롤스터</a> 게임단</li>
+<li><a href="../Page/KT_롤스터.md" title="wikilink">KT 롤스터</a> 게임단</li>
 <li>KT 사격단</li>
 <li>KT 하키단</li>
 <li>KT 골프단</li>

@@ -555,7 +555,7 @@ PlotData=
 
 MySQL 서버 6.0.11-알파가 6.0 라인의 최신 판으로 2009년 5월 22일 발표되었다.\[40\] 이후의 MySQL 서버 개발은 새로운 릴리스 모델을 사용할 것이다. 6.0은 미리 출시판으로 통합될 것이다.
 
-MySQL 5.6은 새로운 출시판의 시금석이 될 예정으로 2011년 MySQL 이용자 컨퍼런스에서 소개되었다. 새로운 특징으로 쿼리 옵티마이저에 대한 성능 향상과 InnoDB의 고성능 트랜잰션 결과, 새로운 [NoSQL](https://ko.wikipedia.org/wiki/NoSQL_\(concept\) "wikilink")-스타일 메모리 캐시된 API, 대용량 테이블의 조작과 퀘리를 위한 파티셔닝의 성능 향상, 복제와 성능 모니터링 개선을 PERFORMANCE_SCHEMA를 통해 데이터 확장으로 나은 성능을 보여줄 수 있게 되었다.\[41\]
+MySQL 5.6은 새로운 출시판의 시금석이 될 예정으로 2011년 MySQL 이용자 컨퍼런스에서 소개되었다. 새로운 특징으로 쿼리 옵티마이저에 대한 성능 향상과 [InnoDB](../Page/InnoDB.md "wikilink")의 고성능 트랜잰션 결과, 새로운 [NoSQL](https://ko.wikipedia.org/wiki/NoSQL_\(concept\) "wikilink")-스타일 메모리 캐시된 API, 대용량 테이블의 조작과 퀘리를 위한 파티셔닝의 성능 향상, 복제와 성능 모니터링 개선을 PERFORMANCE_SCHEMA를 통해 데이터 확장으로 나은 성능을 보여줄 수 있게 되었다.\[41\]
 
 ## 같이 보기
 

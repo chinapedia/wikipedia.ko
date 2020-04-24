@@ -262,13 +262,13 @@
 
 ## 건물
 
-  - **시어터몰** (1층)
-  - **스튜디오 프롬나드** (5층): [어린이](../Page/어린이.md "wikilink")들에게 인기 만점된 후지 TV의 인기 프로그램 세트와 활영이 없을 때는 [스튜디오](https://ko.wikipedia.org/wiki/스튜디오 "wikilink") 안을 자유롭게 구경할 수 있다.
-  - **후지TV 캐릭터 숍** (7층): 오리지널 상품을 판매하는 3개의 숍이 있다.
+  - **시어터몰**(1층)
+  - **스튜디오 프롬나드**(5층): [어린이](../Page/어린이.md "wikilink")들에게 인기 만점된 후지 TV의 인기 프로그램 세트와 활영이 없을 때는 [스튜디오](https://ko.wikipedia.org/wiki/스튜디오 "wikilink") 안을 자유롭게 구경할 수 있다.
+  - **후지TV 캐릭터 숍**(7층): 오리지널 상품을 판매하는 3개의 숍이 있다.
       - **Fishland**: 현재 방영 중인 인기 TV프로그램의 [오리지널](https://ko.wikipedia.org/wiki/오리지널 "wikilink") 용품이 판매되고 있다.
       - **CX JOCX-TV Store**: [사자에상](../Page/사자에상.md "wikilink"), [치비 마루코쨩](../Page/마루코는_아홉살.md "wikilink"), [드래곤볼 시리즈](../Page/드래곤볼.md "wikilink"), [원피스](../Page/원피스.md "wikilink"), 라후쿤\[3\] 등의 인기 [캐릭터](https://ko.wikipedia.org/wiki/캐릭터 "wikilink")가 수록하다.
       - **드림 메이커**(Dream Maker)
-  - **규타이 덴보시쓰** (25층): 전망대에 [날씨](https://ko.wikipedia.org/wiki/날씨 "wikilink")가 좋으면 멀리 [후지산](../Page/후지산.md "wikilink")까지 보인다.
+  - **규타이 덴보시쓰**(25층): 전망대에 [날씨](https://ko.wikipedia.org/wiki/날씨 "wikilink")가 좋으면 멀리 [후지산](../Page/후지산.md "wikilink")까지 보인다.
 
 ## [도쿄도](../Page/도쿄도.md "wikilink")에 있는 다른 방송국
 

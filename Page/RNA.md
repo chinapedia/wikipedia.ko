@@ -77,18 +77,18 @@ RNA는 분자구조와 생물학적 기능에 따라 9가지로 나뉜다.\[4\]
 
 [코돈](https://ko.wikipedia.org/wiki/코돈 "wikilink")은 mRNA에서 하나의 [아미노산](../Page/아미노산.md "wikilink")을 지정하는 세개의 뉴클리오드 염기 순열이다. 생물의 단백질을 이루는 아미노산은 모두 20종으로 이를 지정하는 mRNA의 코돈은 아래의 표와 같다.\[8\]
 
-| 아미노산                                                      | 코돈                           | 아미노산                                                  | 코돈                           |
-| --------------------------------------------------------- | ---------------------------- | ----------------------------------------------------- | ---------------------------- |
-| [페닐알라닌](https://ko.wikipedia.org/wiki/페닐알라닌 "wikilink")   | UUU, UUC                     | [류신](../Page/류신.md "wikilink")                        | UUA, UUG, CUU, CUC, CUA, CUG |
-| [이소류신](https://ko.wikipedia.org/wiki/이소류신 "wikilink")     | AUU, AUC, AUA                | [메티오닌](https://ko.wikipedia.org/wiki/메티오닌 "wikilink") | AUG                          |
-| [발린](https://ko.wikipedia.org/wiki/발린 "wikilink")         | GUU, GUC, GUA, GUG           | [세린](../Page/세린.md "wikilink")                        | UCU, UCC, UCA, UCG, AGU, AGC |
-| [프롤린](https://ko.wikipedia.org/wiki/프롤린 "wikilink")       | CCU, CCC, CCA, CCG           | [트레오닌](https://ko.wikipedia.org/wiki/트레오닌 "wikilink") | ACU, ACC, ACA, ACG           |
-| [알라닌](../Page/알라닌.md "wikilink")                          | GCU, GCC, GCA, GCG           | [티로신](https://ko.wikipedia.org/wiki/티로신 "wikilink")   | UAU, UAC                     |
-| [히스티딘](https://ko.wikipedia.org/wiki/히스티딘 "wikilink")     | CAU, CAC                     | [글루타민](https://ko.wikipedia.org/wiki/글루타민 "wikilink") | CAA, CAG                     |
-| [아스파라긴](https://ko.wikipedia.org/wiki/아스파라긴 "wikilink")   | AAU, AAC                     | [리신](https://ko.wikipedia.org/wiki/리신 "wikilink")     | AAA, AAG                     |
-| [아스파르트산](https://ko.wikipedia.org/wiki/아스파르트산 "wikilink") | GAU, GAC                     | [글루탐산](https://ko.wikipedia.org/wiki/글루탐산 "wikilink") | GAA, GAG                     |
-| [시스테인](../Page/시스테인.md "wikilink")                        | UGU, UGC                     | [트립토판](../Page/트립토판.md "wikilink")                    | UGG                          |
-| [아르기닌](../Page/아르기닌.md "wikilink")                        | CGU, CGC, CGA, CGG, AGA, AGG | [글리신](https://ko.wikipedia.org/wiki/글리신 "wikilink")   | GGU, GGC, GGA, GGG           |
+| 아미노산                                                    | 코돈                           | 아미노산                                                  | 코돈                           |
+| ------------------------------------------------------- | ---------------------------- | ----------------------------------------------------- | ---------------------------- |
+| [페닐알라닌](https://ko.wikipedia.org/wiki/페닐알라닌 "wikilink") | UUU, UUC                     | [류신](../Page/류신.md "wikilink")                        | UUA, UUG, CUU, CUC, CUA, CUG |
+| [이소류신](https://ko.wikipedia.org/wiki/이소류신 "wikilink")   | AUU, AUC, AUA                | [메티오닌](https://ko.wikipedia.org/wiki/메티오닌 "wikilink") | AUG                          |
+| [발린](https://ko.wikipedia.org/wiki/발린 "wikilink")       | GUU, GUC, GUA, GUG           | [세린](../Page/세린.md "wikilink")                        | UCU, UCC, UCA, UCG, AGU, AGC |
+| [프롤린](https://ko.wikipedia.org/wiki/프롤린 "wikilink")     | CCU, CCC, CCA, CCG           | [트레오닌](https://ko.wikipedia.org/wiki/트레오닌 "wikilink") | ACU, ACC, ACA, ACG           |
+| [알라닌](../Page/알라닌.md "wikilink")                        | GCU, GCC, GCA, GCG           | [티로신](https://ko.wikipedia.org/wiki/티로신 "wikilink")   | UAU, UAC                     |
+| [히스티딘](https://ko.wikipedia.org/wiki/히스티딘 "wikilink")   | CAU, CAC                     | [글루타민](https://ko.wikipedia.org/wiki/글루타민 "wikilink") | CAA, CAG                     |
+| [아스파라긴](https://ko.wikipedia.org/wiki/아스파라긴 "wikilink") | AAU, AAC                     | [리신](https://ko.wikipedia.org/wiki/리신 "wikilink")     | AAA, AAG                     |
+| [아스파르트산](../Page/아스파르트산.md "wikilink")                  | GAU, GAC                     | [글루탐산](https://ko.wikipedia.org/wiki/글루탐산 "wikilink") | GAA, GAG                     |
+| [시스테인](../Page/시스테인.md "wikilink")                      | UGU, UGC                     | [트립토판](../Page/트립토판.md "wikilink")                    | UGG                          |
+| [아르기닌](../Page/아르기닌.md "wikilink")                      | CGU, CGC, CGA, CGG, AGA, AGG | [글리신](https://ko.wikipedia.org/wiki/글리신 "wikilink")   | GGU, GGC, GGA, GGG           |
 
 mRNA 순열중 UAA, UAG, UGA 는 아미노산 연결 종료를 지시한다.
 

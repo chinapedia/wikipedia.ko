@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [F](https://ko.wikipedia.org/wiki/F).
 
 
-**F**, **f**는 [로마자](../Page/로마자.md "wikilink")의 여섯 번째 글자이다. [한국어](../Page/한국어.md "wikilink")에 없는 발음이며, [한글](https://ko.wikipedia.org/wiki/한글 "wikilink")로는 보통 [ㅍ](https://ko.wikipedia.org/wiki/ㅍ "wikilink")으로 표기한다.
+**F**, **f**는 [로마자](../Page/로마자.md "wikilink")의 여섯 번째 글자이다. [한국어](../Page/한국어.md "wikilink")에 없는 발음이며, [한글](https://ko.wikipedia.org/wiki/한글 "wikilink")로는 보통 [ㅍ](../Page/ㅍ.md "wikilink")으로 표기한다.
 
 ## 이름
 

@@ -17,7 +17,7 @@
 
 \[e^x = \sum_{n=0}^\infty {{x^n}\over{n!}}\]
 
-\[\therefore \;\; e\]은 \(e^x\)에서 \(x=1\)인 \(e^1\)이다. \(e\)는 무리수이기 때문에 [십진법](https://ko.wikipedia.org/wiki/십진법 "wikilink")으로 표현할 수 없고 [근삿값](https://ko.wikipedia.org/wiki/근삿값 "wikilink")만을 추정할 수 있다. 소수로 나타낸 \(e\)의 근삿값은 대략 다음과 같다.
+\[\therefore \;\; e\]은 \(e^x\)에서 \(x=1\)인 \(e^1\)이다. \(e\)의 근삿값은 대략 다음과 같다.
 
   -
     \(e = 2.71828\ 18284\ 59045\ 23536\ 02874\ \cdots\)

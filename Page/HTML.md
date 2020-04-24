@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [HTML](https://ko.wikipedia.org/wiki/HTML).
 
 
-**HTML**은 **하이퍼텍스트 마크업 언어**(, )라는 의미의 [웹 페이지를](../Page/웹_페이지.md "wikilink") 위한 지배적인 [마크업 언어다](../Page/마크업_언어.md "wikilink"). HTML은 제목, 단락, 목록 등과 같은 본문을 위한 구조적 의미를 나타내는 것뿐만 아니라 링크, 인용과 그 밖의 항목으로 [구조적 문서를](https://ko.wikipedia.org/wiki/구조적_문서 "wikilink") 만들 수 있는 방법을 제공한다. 그리고 이미지와 객체를 내장하고 대화형 양식을 생성하는 데 사용될 수 있다. HTML은 웹 페이지 콘텐츠 안의 [꺾쇠 괄호에](https://ko.wikipedia.org/wiki/괄호#꺾쇠_괄호 "wikilink") 둘러싸인 "태그"로 되어있는 [HTML 요소](../Page/HTML_요소.md "wikilink") 형태로 작성한다. HTML은 [웹 브라우저와](../Page/웹_브라우저.md "wikilink") 같은 HTML 처리 장치의 행동에 영향을 주는 [자바스크립트](../Page/자바스크립트.md "wikilink")와 본문과 그 밖의 항목의 외관과 배치를 정의하는 [CSS](https://ko.wikipedia.org/wiki/CSS "wikilink") 같은 [스크립트를](../Page/스크립트_언어.md "wikilink") 포함하거나 불러올 수 있다. HTML과 CSS 표준의 공동 책임자인 [W3C](../Page/W3C.md "wikilink")는 명확하고 표상적인 마크업을 위하여 CSS의 사용을 권장한다.\[1\]
+**HTML**또는 **하이퍼텍스트 마크업 언어**(, )는 [웹 페이지를](../Page/웹_페이지.md "wikilink") 위한 지배적인 [마크업 언어다](../Page/마크업_언어.md "wikilink"). HTML은 제목, 단락, 목록 등과 같은 본문을 위한 구조적 의미를 나타내는 것뿐만 아니라 링크, 인용과 그 밖의 항목으로 [구조적 문서를](https://ko.wikipedia.org/wiki/구조적_문서 "wikilink") 만들 수 있는 방법을 제공한다. 그리고 이미지와 객체를 내장하고 대화형 양식을 생성하는 데 사용될 수 있다. HTML은 웹 페이지 콘텐츠 안의 [꺾쇠 괄호에](https://ko.wikipedia.org/wiki/괄호#꺾쇠_괄호 "wikilink") 둘러싸인 "태그"로 되어있는 [HTML 요소](../Page/HTML_요소.md "wikilink") 형태로 작성한다. HTML은 [웹 브라우저와](../Page/웹_브라우저.md "wikilink") 같은 HTML 처리 장치의 행동에 영향을 주는 [자바스크립트](../Page/자바스크립트.md "wikilink")와 본문과 그 밖의 항목의 외관과 배치를 정의하는 [CSS](https://ko.wikipedia.org/wiki/CSS "wikilink") 같은 [스크립트를](../Page/스크립트_언어.md "wikilink") 포함하거나 불러올 수 있다. HTML과 CSS 표준의 공동 책임자인 [W3C](../Page/W3C.md "wikilink")는 명확하고 표상적인 마크업을 위하여 CSS의 사용을 권장한다.\[1\]
 
 ## 역사
 
@@ -452,7 +452,7 @@ HTML 애플리케이션 (HTA; 파일 확장자 ".hta")는 애플리케이션의 
 
   - [Tim Berners-Lee Gives the Web a New Definition](https://web.archive.org/web/20110412130543/http://computemagazine.com/man-who-invented-world-wide-web-gives-new-definition)
 
-  - [HTML4.01 규격 한국어 번역본](http://trio.co.kr/webrefer/html/)
+  - [HTML4.01 규격 한국어 번역본](https://web.archive.org/web/20110510004632/http://trio.co.kr/webrefer/html/)
 
 [분류:마크업 언어](https://ko.wikipedia.org/wiki/분류:마크업_언어 "wikilink") [HTML](https://ko.wikipedia.org/wiki/분류:HTML "wikilink") [분류:W3C 표준](https://ko.wikipedia.org/wiki/분류:W3C_표준 "wikilink") [분류:ISO 표준](https://ko.wikipedia.org/wiki/분류:ISO_표준 "wikilink") [분류:1990년 도입](https://ko.wikipedia.org/wiki/분류:1990년_도입 "wikilink") [분류:오픈 포맷](https://ko.wikipedia.org/wiki/분류:오픈_포맷 "wikilink")
 

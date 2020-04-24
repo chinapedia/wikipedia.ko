@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [GS그룹](https://ko.wikipedia.org/wiki/GS그룹).
 
 
-**GS그룹**은 [LG그룹](../Page/LG그룹.md "wikilink")의 4개 회사가 분리·독립하여 이루어진 대한민국의 [대규모 기업집단으로](https://ko.wikipedia.org/wiki/대규모_기업집단 "wikilink") 2004년 7월 1일 GS홀딩스(현 주식회사 GS)가 출범하여 [LG그룹](../Page/LG그룹.md "wikilink")에서 분리 작업을 시작하여\[1\][2005년](../Page/2005년.md "wikilink") [1월 27일](../Page/1월_27일.md "wikilink") GS홀딩스 외 13개사의 계열분리가 [공정위에](../Page/대한민국_공정거래위원회.md "wikilink") 의해 승인되어 법적 계열분리가 완료되었다.\[2\][2005년](../Page/2005년.md "wikilink") [3월 31일](../Page/3월_31일.md "wikilink")‘GS CI및 경영이념선포식' 행사와 함께 공식 출범하였다.\[3\]
+**GS그룹**은 [LG그룹](../Page/LG그룹.md "wikilink")의 4개 회사가 분리·독립하여 이루어진 대한민국의 [대규모 기업집단으로](https://ko.wikipedia.org/wiki/대규모_기업집단 "wikilink") 2004년 7월 1일 GS홀딩스(현 [주식회사 GS](../Page/GS_\(기업\).md "wikilink"))가 출범하여 [LG그룹](../Page/LG그룹.md "wikilink")에서 분리 작업을 시작하여\[1\][2005년](../Page/2005년.md "wikilink") [1월 27일](../Page/1월_27일.md "wikilink") GS홀딩스 외 13개사의 계열분리가 [공정위에](../Page/대한민국_공정거래위원회.md "wikilink") 의해 승인되어 법적 계열분리가 완료되었다.\[2\][2005년](../Page/2005년.md "wikilink") [3월 31일](../Page/3월_31일.md "wikilink")‘GS CI및 경영이념선포식' 행사와 함께 공식 출범하였다.\[3\]
 
 [지주회사](https://ko.wikipedia.org/wiki/지주회사 "wikilink")인 [주식회사 GS가](../Page/GS_\(기업\).md "wikilink") [GS칼텍스](../Page/GS칼텍스.md "wikilink"), [GS리테일](../Page/GS리테일.md "wikilink"), [GS홈쇼핑](https://ko.wikipedia.org/wiki/GS홈쇼핑 "wikilink") 등을 자회사로 거느리고 있으며, [GS건설](../Page/GS건설.md "wikilink")과는 계열사 관계이다. 현 회장은 [허준구](https://ko.wikipedia.org/wiki/허준구 "wikilink")의 장남 [허창수](../Page/허창수.md "wikilink")이다. 허씨 가문은 만석군 집안으로 [함안](../Page/함안군.md "wikilink") 사람이다.\[4\]
 
@@ -38,7 +38,7 @@ LG그룹은 구인회상점으로 창업당시에는 동생인 [구철회](https
       - [GS파크24](https://ko.wikipedia.org/wiki/GS파크24 "wikilink")
   - [GS SHOP](../Page/GS_SHOP.md "wikilink")
   - [GS글로벌](../Page/GS글로벌.md "wikilink")
-      - 이사회는 사내이사 4인, 사외이사 5인으로 구성된다. 2010년 현재, 사내이사는 허창수(회장), 허명수(CEO), 우상룡, 이휘성이고 사외이사는 김종빈, 김정만, 이덕훈, 편종근, [박경서](https://ko.wikipedia.org/wiki/박경서 "wikilink") 이사이다.
+      - 이사회는 사내이사 4인, 사외이사 5인으로 구성된다. 2010년 현재, 사내이사는 허창수(회장), 허명수(CEO), 우상룡, 이휘성이고 사외이사는 김종빈, 김정만, 이덕훈, 편종근, 박경서 이사이다.
   - [GS스포츠](https://ko.wikipedia.org/wiki/GS스포츠 "wikilink")
       - [FC 서울](https://ko.wikipedia.org/wiki/FC_서울 "wikilink")
       - [GS칼텍스 서울 KIXX](../Page/GS칼텍스_서울_KIXX.md "wikilink")
@@ -51,13 +51,12 @@ LG그룹은 구인회상점으로 창업당시에는 동생인 [구철회](https
       - [의정부경전철](../Page/의정부경전철_\(기업\).md "wikilink")
       - [서울문산고속도로](https://ko.wikipedia.org/wiki/서울문산고속도로_\(기업\) "wikilink")
       - [옥산오창고속도로](../Page/옥산오창고속도로_\(기업\).md "wikilink")
-  - [GS네오텍](https://ko.wikipedia.org/wiki/GS네오텍 "wikilink")
-      - [GS CDN](https://ko.wikipedia.org/wiki/GS_CDN "wikilink")
+  - GS네오텍
+      - GS CDN
 
 ### 구 계열사
 
-  - [GS ITM](https://ko.wikipedia.org/wiki/GS_ITM "wikilink")
-      - GS그룹의 IT 회사였다. GS그룹의 상호출자제한기업에 속했던 계열사였으므로 SI, IT아웃소싱, Plant IT, IT서비스를 주 사업으로 하고 있으며, 2018년에는 JKL파트너스-IMM인베스트먼트 컨소시엄에 매각되었다.
+  - GS ITM:GS그룹의 IT 회사였다. GS그룹의 상호출자제한기업에 속했던 계열사였으므로 SI, IT아웃소싱, Plant IT, IT서비스를 주 사업으로 하고 있으며, 2018년에는 JKL파트너스-IMM인베스트먼트 컨소시엄에 매각되었다.
 
 ## 같이 보기
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [A](https://ko.wikipedia.org/wiki/A).
 
 
-**A**, **a**는 [로마자](../Page/로마자.md "wikilink")의 첫 번째 글자이다. a(아르)는 100m²(제곱미터)와 같은 넓이이다.
+**A**, **a**(에이)는 [로마자](../Page/로마자.md "wikilink")의 첫 번째 글자이다. a(아르)는 100m²(제곱미터)와 같은 넓이이다.
 
 ## 이름
 

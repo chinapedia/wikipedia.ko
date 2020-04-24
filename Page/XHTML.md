@@ -153,8 +153,8 @@ XHTML 1.0 Strict 문서의 한 예이다.
   - [XHTML 1.1 기술 규격](http://www.w3.org/TR/xhtml11/)
   - [XHTML을 text/html로 보내는 것은 위험하다](http://hixie.ch/advocacy/xhtml)
   - [XHTML 평가 - XHTML의 장단점](http://www.alistapart.com/articles/xhtml/)
-  - [Trio의 HTML 4.01 기술 규격(한글)](http://trio.co.kr/webrefer/html/cover.html)
-  - [Trio의 XHTML 1.0 기술 규격(한글)](http://trio.co.kr/webrefer/xhtml/overview.html)
+  - [Trio의 HTML 4.01 기술 규격(한글)](https://web.archive.org/web/20060904095406/http://trio.co.kr/webrefer/html/cover.html)
+  - [Trio의 XHTML 1.0 기술 규격(한글)](https://web.archive.org/web/20091015072715/http://trio.co.kr/webrefer/xhtml/overview.html)
 
 ### 유효성 검사 프로그램
 

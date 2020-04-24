@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [C](https://ko.wikipedia.org/wiki/C).
 
 
-**C**, **c**는 [로마자](../Page/로마자.md "wikilink")의 세([3](../Page/3.md "wikilink")) 번째 글자이다. 빈도:2.782%/전체 12위/자음 8위 ([Letter frequency](https://ko.wikipedia.org/wiki/:en:Letter_frequency "wikilink"))
+**C**, **c**(씨)는 [로마자](../Page/로마자.md "wikilink")의 세([3](../Page/3.md "wikilink")) 번째 글자이다. 빈도:2.782%/전체 12위/자음 8위 ([Letter frequency](https://ko.wikipedia.org/wiki/:en:Letter_frequency "wikilink"))
 
 ## 이름
 

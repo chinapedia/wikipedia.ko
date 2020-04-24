@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Key \(기업\)](https://ko.wikipedia.org/wiki/Key_\(기업\)).
 
 
-**Key**는 [일본](../Page/일본.md "wikilink") 소재 [미소녀 게임](../Page/미소녀_게임.md "wikilink")(또는 [비주얼 노벨](../Page/비주얼_노벨.md "wikilink")) 제작사인 주식회사 Visual Art's(이하 "비주얼 아츠") 의 브랜드 팀 중 하나이다.
+**Key**는 [일본](../Page/일본.md "wikilink") 소재 [미소녀 게임](../Page/미소녀_게임.md "wikilink")(또는 [비주얼 노벨](../Page/비주얼_노벨.md "wikilink")) 제작사인 주식회사 Visual Art's(이하 "비주얼 아츠")의 브랜드 팀 중 하나이다.
 
 ## 역사
 

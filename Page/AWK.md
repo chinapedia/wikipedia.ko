@@ -187,7 +187,7 @@ X(X는 숫자)번째 필드는 *`$X`* 로 표시되며, 특별히 *`$0`*은 줄 
 
   - [KLDP의 간단한 한국어 설명 문서](http://wiki.kldp.org/wiki.php/Awk)
 
-  - [The Amazing Awk Assembler](http://doc.cat-v.org/henry_spencer/amazing_awk_assembler/) - [Henry Spencer](https://ko.wikipedia.org/wiki/:en:Henry_Spencer "wikilink").
+  - [The Amazing Awk Assembler](https://web.archive.org/web/20120207095326/http://doc.cat-v.org/henry_spencer/amazing_awk_assembler/) - [Henry Spencer](https://ko.wikipedia.org/wiki/:en:Henry_Spencer "wikilink").
 
   - [Awk Community Portal](http://awk.info/)
 

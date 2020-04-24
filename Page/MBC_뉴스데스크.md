@@ -258,7 +258,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/2019년.md" title="wikilink">2019년</a> <a href="../Page/3월_18일.md" title="wikilink">3월 18일</a> ~ <a href="../Page/2020년.md" title="wikilink">2020년</a> <a href="../Page/3월_20일.md" title="wikilink">3월 20일</a></p></td>
+<td><p><a href="../Page/2019년.md" title="wikilink">2019년</a> <a href="../Page/3월_18일.md" title="wikilink">3월 18일</a> ~ <a href="../Page/2020년.md" title="wikilink">2020년</a> <a href="../Page/3월_24일.md" title="wikilink">3월 24일</a></p></td>
 <td><p>매주 <a href="../Page/월요일.md" title="wikilink">월요일</a> ~ <a href="../Page/목요일.md" title="wikilink">목요일</a> 저녁 7:30 ~ 8:55</p></td>
 <td><p>1시간 25분[1]</p></td>
 </tr>
@@ -268,7 +268,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/2020년.md" title="wikilink">2020년</a> <a href="../Page/3월_23일.md" title="wikilink">3월 23일</a> ~ <strong>현재</strong></p></td>
+<td><p><a href="../Page/2020년.md" title="wikilink">2020년</a> <a href="../Page/3월_25일.md" title="wikilink">3월 25일</a> ~ <strong>현재</strong></p></td>
 <td><p>매주 <a href="../Page/월요일.md" title="wikilink">월요일</a> ~ <a href="../Page/목요일.md" title="wikilink">목요일</a> 저녁 7:35 ~ 8:55</p></td>
 <td><p>1시간 20분</p></td>
 </tr>
@@ -924,12 +924,12 @@
 ### [MBC 스포츠뉴스](../Page/MBC_스포츠뉴스.md "wikilink")
 
 허일후 아나운서
-박연경 아나운서
+이선영 아나운서
 
 ### MBC 날씨
 
-최아리 기상캐스터
-이서경 기상캐스터
+최아리 기상캐스터 (평일, 토요일)
+이서경 기상캐스터 (일요일)
 
 ### MBC 뉴스데스크 클로징
 
@@ -986,7 +986,7 @@
   - [1996년](../Page/1996년.md "wikilink") [8월 12일](../Page/8월_12일.md "wikilink") \~ [8월 16일](../Page/8월_16일.md "wikilink"): 조정민, 김은주\[10\]
   - [1992년](../Page/1992년.md "wikilink") [8월 24일](../Page/8월_24일.md "wikilink") \~ [8월 28일](../Page/8월_28일.md "wikilink"), [1995년](../Page/1995년.md "wikilink") [12월 15일](../Page/12월_15일.md "wikilink"), [1996년](../Page/1996년.md "wikilink") [5월 13일](../Page/5월_13일.md "wikilink") \~ [5월 17일](../Page/5월_17일.md "wikilink") , [8월 19일](../Page/8월_19일.md "wikilink") \~ [11월 8일](../Page/11월_8일.md "wikilink"): 엄기영, 김은주\[11\]
   - [1996년](../Page/1996년.md "wikilink") [11월 11일](../Page/11월_11일.md "wikilink") \~ [1997년](../Page/1997년.md "wikilink") [1월 6일](../Page/1월_6일.md "wikilink"), [1997년](../Page/1997년.md "wikilink") [1월 20일](../Page/1월_20일.md "wikilink") \~ [6월 27일](../Page/6월_27일.md "wikilink"), [1997년](../Page/1997년.md "wikilink") [7월 2일](../Page/7월_2일.md "wikilink") \~ [8월 1일](../Page/8월_1일.md "wikilink"), [1997년](../Page/1997년.md "wikilink") [8월 11일](../Page/8월_11일.md "wikilink") \~ [8월 22일](../Page/8월_22일.md "wikilink"), [1997년](../Page/1997년.md "wikilink") [9월 8일](../Page/9월_8일.md "wikilink") \~ [9월 9일](../Page/9월_9일.md "wikilink"): 이인용, 김지은
-  - [1996년](../Page/1996년.md "wikilink") [12월 2일](../Page/12월_2일.md "wikilink"), [1997년](../Page/1997년.md "wikilink") [1월 7일](../Page/1월_7일.md "wikilink") \~ [1월 17일](../Page/1월_17일.md "wikilink"), [1999년](../Page/1999년.md "wikilink") [7월 13일](../Page/7월_13일.md "wikilink") \~ [7월 27일](../Page/7월_27일.md "wikilink"), [2000년](../Page/2000년.md "wikilink") [10월 19일](../Page/10월_19일.md "wikilink") \~ [10월 20일](../Page/10월_20일.md "wikilink"): 이인용\[12\]
+  - [1997년](../Page/1997년.md "wikilink") [1월 7일](../Page/1월_7일.md "wikilink") \~ [1월 17일](../Page/1월_17일.md "wikilink"), [1999년](../Page/1999년.md "wikilink") [7월 13일](../Page/7월_13일.md "wikilink") \~ [7월 27일](../Page/7월_27일.md "wikilink"), [2000년](../Page/2000년.md "wikilink") [10월 19일](../Page/10월_19일.md "wikilink") \~ [10월 20일](../Page/10월_20일.md "wikilink"): 이인용\[12\]
   - [1997년](../Page/1997년.md "wikilink") [6월 30일](../Page/6월_30일.md "wikilink") \~ [1997년](../Page/1997년.md "wikilink") [7월 1일](../Page/7월_1일.md "wikilink"): 이인용, 김지은, 권재홍\[13\]
   - [1997년](../Page/1997년.md "wikilink") [8월 4일](../Page/8월_4일.md "wikilink") \~ [8월 8일](../Page/8월_8일.md "wikilink"): 권재홍, 김지은\[14\]
   - [1997년](../Page/1997년.md "wikilink") [8월 25일](../Page/8월_25일.md "wikilink") \~ [9월 5일](../Page/9월_5일.md "wikilink"), [1997년](../Page/1997년.md "wikilink") [9월 10일](../Page/9월_10일.md "wikilink") \~ [9월 19일](../Page/9월_19일.md "wikilink") : 이인용, 최율미\[15\]
@@ -1120,7 +1120,7 @@
 각 지역별로 매주 월요일 \~ 목요일 & 토요일 \~ 일요일 오후 8시 25분, 매주 금요일 오후 8시 10분 경부터 다음의 지역 뉴스를 자체적으로 방송하고 있다.
 
   - 강원(춘천, 원주, 강원영동 (강릉·삼척) 등은 주말에 한 달씩 방송국마다 돌아가면서 뉴스를 진행했었다. 토요일에는 방송하지 않고 일요일에만 방송 된다.
-  - 각 지역별 뉴스 데스크 예고 자막은 MBC FM 4U TV의 배철수의 음악 캠프 방송중 매일 내 보내고 있다.본사 뉴스 데스크 예고 자막도 같이 지역별 FM 4U의 TV로 매일 내 보내고 있다.표준 FM TV서 자체 때만 각 지역별 뉴스 데스크 예고 자막 이다 목포.여수.제주만 이승원의 세계는 우리는 방송 중 본사 뉴스 데스크 예고 자막을 내 보내고 있다. 주말의 경우 자체 때만 각 지역별 뉴스 데스크 예고 자막 이다.이윤석.신아영의 좋은 주말 방송 중 본사 뉴스 데스크 예고 자막을 내 보낸다.
+  - 각 지역별 뉴스 데스크 예고 자막은 MBC FM 4U TV의 배철수의 음악 캠프 방송중 매일 내 보내고 있다.본사 뉴스 데스크 예고 자막도 같이 지역별 FM 4U의 TV로 매일 내 보내고 있다.표준 FM TV서 평일 자체 때만 각 지역별 뉴스 데스크 예고 자막 이다.주말의 경우 자체 때만 각 지역별 뉴스 데스크 예고 자막 이다.이윤석.신아영의 좋은 주말 방송 중 주말 뉴스 데스크 예고 자막을 내 보내며.나머지 지역 서도 같이 내 보낸다.
 
 <!-- end list -->
 
@@ -1174,7 +1174,7 @@
 <td><p><a href="../Page/대전문화방송.md" title="wikilink">대전MBC</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/대전광역시" title="wikilink">대전</a>·<a href="../Page/세종특별자치시.md" title="wikilink">세종</a>·<a href="https://ko.wikipedia.org/wiki/충청남도" title="wikilink">충남</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/MBC_뉴스데스크_대전·세종·충남" title="wikilink">MBC 뉴스데스크 대전·세종·충남</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/남유식" title="wikilink">남유식</a>, <a href="https://ko.wikipedia.org/wiki/임보라" title="wikilink">임보라</a></p></td>
+<td><p><a href="../Page/남유식.md" title="wikilink">남유식</a>, <a href="https://ko.wikipedia.org/wiki/임보라" title="wikilink">임보라</a></p></td>
 <td><p>무작위</p></td>
 </tr>
 <tr class="even">
@@ -1277,9 +1277,9 @@
   - [1970년](../Page/1970년.md "wikilink") [10월 5일부터](../Page/10월_5일.md "wikilink") [1976년](../Page/1976년.md "wikilink") [4월 22일까지](../Page/4월_22일.md "wikilink") 오프닝은 윤전기 소리가 전부였다.
   - [1976년](../Page/1976년.md "wikilink") [4월 23일부터](../Page/4월_23일.md "wikilink") [1980년](../Page/1980년.md "wikilink") [12월 14일까지](../Page/12월_14일.md "wikilink") 명칭을 MBC 뉴스의 현장으로 변경하면서 [스트라빈스키](https://ko.wikipedia.org/wiki/스트라빈스키 "wikilink")의 "봄의 제전" 곡 앞 부분을 오프닝으로 사용했다.
   - [1980년](../Page/1980년.md "wikilink") [12월 15일부터](../Page/12월_15일.md "wikilink") [1981년](../Page/1981년.md "wikilink") [3월 15일까지는](../Page/3월_15일.md "wikilink") [보스턴 팝스의](https://ko.wikipedia.org/wiki/보스턴_팝스 "wikilink") "Man of la mancha medley" 곡 맨앞 부분을 사용했다 .
-  - [1981년](../Page/1981년.md "wikilink") [3월 16일부터](../Page/3월_16일.md "wikilink") [토미타 이사오의](../Page/토미타_이사오.md "wikilink") 목성이라는 곡으로 [1988년](../Page/1988년.md "wikilink") [9월 16일까지](../Page/9월_16일.md "wikilink") 사용하였다.
+  - [1981년](../Page/1981년.md "wikilink") [3월 16일부터](../Page/3월_16일.md "wikilink") [토미타 이사오의](../Page/토미타_이사오.md "wikilink") 목성이라는 곡으로 [1988년](../Page/1988년.md "wikilink") [4월 10일까지](../Page/4월_10일.md "wikilink") 사용하였다.
   - 이 곡은 [1989년](../Page/1989년.md "wikilink")부터 [MBC 스포츠 뉴스와](https://ko.wikipedia.org/wiki/MBC_스포츠_뉴스 "wikilink") [MBC 뉴스에서도](https://ko.wikipedia.org/wiki/MBC_뉴스 "wikilink") 사용하였으나 [1993년](../Page/1993년.md "wikilink") [10월 18일](../Page/10월_18일.md "wikilink") 개편 이후로 완전히 폐지되었다.
-  - 이후 [1988년](../Page/1988년.md "wikilink") [9월 17일부터](../Page/9월_17일.md "wikilink") [1991년](../Page/1991년.md "wikilink") [4월 21일까지는](../Page/4월_21일.md "wikilink") <파이널 카운트다운>의 음악을 사용하였다.
+  - 이후 [1988년](../Page/1988년.md "wikilink") [4월 11일부터](../Page/4월_11일.md "wikilink") [1991년](../Page/1991년.md "wikilink") [4월 21일까지는](../Page/4월_21일.md "wikilink") <파이널 카운트다운>의 음악을 사용하였다.
   - [1991년](../Page/1991년.md "wikilink") [4월 22일부터](../Page/4월_22일.md "wikilink") 작곡가 [임택수](https://ko.wikipedia.org/wiki/임택수 "wikilink")가 작곡한 내림 나장조의 곡이 처음으로 선보였는데 첫 부분만 나오고 제공 자막 시점에는 여전히 윤전기 소리였다.
   - [1993년](../Page/1993년.md "wikilink") [10월 18일](../Page/10월_18일.md "wikilink") 방송부터 앞부분에 효과음이 들어갔으며, 제공 자막 시점에 나오는 시그널은 기존의 윤전기 소리였으며, 내림 나장조의 뒷부분 곡은 중간 오프닝 음악으로 잠시 사용하다가 [1993년](../Page/1993년.md "wikilink") [10월 22일](../Page/10월_22일.md "wikilink") 방송분부터 본격적으로 삽입하면서 유명해졌다.
   - 이 음악은 [1998년](../Page/1998년.md "wikilink") [4월 19일까지](../Page/4월_19일.md "wikilink") 5년 동안 사용하였으며, 앞부분은 [2014년](../Page/2014년.md "wikilink") [8월 3일까지](../Page/8월_3일.md "wikilink") 예고방송에 삽입되어 나왔다.
@@ -1362,7 +1362,7 @@
 
 [분류:문화방송의 뉴스 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:문화방송의_뉴스_텔레비전_프로그램 "wikilink") [분류:2010년대 대한민국의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:2010년대_대한민국의_텔레비전_프로그램 "wikilink") [분류:1970년에 시작한 대한민국 TV 프로그램](https://ko.wikipedia.org/wiki/분류:1970년에_시작한_대한민국_TV_프로그램 "wikilink") [분류:대한민국의 뉴스 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:대한민국의_뉴스_텔레비전_프로그램 "wikilink")
 
-1.  [ |MBC '뉴스데스크' 3사 중 가장 빨리, 더 길게 방송](https://www.msn.com/ko-kr/news/national/mbc-%EB%89%B4%EC%8A%A4%EB%8D%B0%EC%8A%A4%ED%81%AC-3%EC%82%AC-%EC%A4%91-%EA%B0%80%EC%9E%A5-%EB%B9%A8%EB%A6%AC-%EB%8D%94-%EA%B8%B8%EA%B2%8C-%EB%B0%A9%EC%86%A1/ar-BBSmxwj)
+1.  [MBC '뉴스데스크' 3사 중 가장 빨리, 더 길게 방송](https://www.msn.com/ko-kr/news/national/mbc-%EB%89%B4%EC%8A%A4%EB%8D%B0%EC%8A%A4%ED%81%AC-3%EC%82%AC-%EC%A4%91-%EA%B0%80%EC%9E%A5-%EB%B9%A8%EB%A6%AC-%EB%8D%94-%EA%B8%B8%EA%B2%8C-%EB%B0%A9%EC%86%A1/ar-BBSmxwj)
 2.  단, 상황에 따라서 진행자가 아닌 기자나 아나운서가 맡는 경우도 있다.
 3.  초대 보도국장(앵커)
 4.  강성구 前 앵커의 갑작스러운 하차로 인하여, 1988년 11월 2일 \~ 11월 4일 방송분은 송도균 前 앵커가 진행.

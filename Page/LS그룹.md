@@ -13,7 +13,7 @@
           - [GCI](https://ko.wikipedia.org/wiki/GCI "wikilink")
           - [파운텍](https://ko.wikipedia.org/wiki/파운텍 "wikilink")
           - [코스페이스](https://ko.wikipedia.org/wiki/코스페이스 "wikilink")
-      - [LS일렉트릭](https://ko.wikipedia.org/wiki/LS일렉트릭 "wikilink")
+      - [LS일렉트릭](../Page/LS일렉트릭.md "wikilink")
           - [플레넷](https://ko.wikipedia.org/wiki/플레넷 "wikilink")
           - [LS파워 세미텍](https://ko.wikipedia.org/wiki/LS파워_세미텍 "wikilink")
           - [LS메카피온](https://ko.wikipedia.org/wiki/LS메카피온 "wikilink")
