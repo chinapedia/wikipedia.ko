@@ -18,6 +18,7 @@
 | [원위](https://ko.wikipedia.org/wiki/원위 "wikilink")              | 가수     | 용훈 (리더, 메인보컬), 강현 (기타), 하린 (드럼), 동명 (보컬, 키보드), 키아                                                                                     | 용훈                                    | 2015년 |
 | [김유나](https://ko.wikipedia.org/wiki/김유나_\(싱어송라이터\) "wikilink") | 가수     | \-                                                                                                                                    | \-                                    | 2018년 |
 | [호연주](https://ko.wikipedia.org/wiki/호연주 "wikilink")            | 가수     | \-                                                                                                                                    | \-                                    | 2007년 |
+| [오브제](https://ko.wikipedia.org/wiki/오브제_\(가수\) "wikilink")     | 가수     | \-                                                                                                                                    | \-                                    | 2019년 |
 | [오연](https://ko.wikipedia.org/wiki/오연_\(가수\) "wikilink")       | 가수     | \-                                                                                                                                    | \-                                    | 2019년 |
 
 ## 소속 연습생
@@ -28,6 +29,8 @@
   - 이예솔
   - 모리 코유키
   - 박수진
+  - 조서영
+  - 이채영
 
 ## 아티스트 인큐베이팅 참여 내역
 

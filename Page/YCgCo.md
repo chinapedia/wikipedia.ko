@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [YCgCo](https://ko.wikipedia.org/wiki/YCgCo).
 
 
-**YCgCo** (또는 *YCoCg*) 색상 모형은 휘도 Y, 녹색 색차 CG 및 주황색 색차 CO로 구성된 [색공간](https://ko.wikipedia.org/wiki/색공간 "wikilink")이다. 다른 색상 모형들보다 각 색평면 사이에 상관성이 매우 낮기 때문에 [H.264/MPEG-4 AVC](https://ko.wikipedia.org/wiki/H.264/MPEG-4_AVC "wikilink") 및 [디랙](https://ko.wikipedia.org/wiki/디랙_\(코덱\) "wikilink")\[1\] 등에 채용된 바 있다. [thumb](https://ko.wikipedia.org/wiki/파일:Barns_grand_tetons_YCgCo_separation.jpg "wikilink")
+**YCgCo** (또는 *YCoCg*) 색상 모형은 휘도 Y, 녹색 색차 CG 및 주황색 색차 CO로 구성된 [색공간](https://ko.wikipedia.org/wiki/색공간 "wikilink")이다. 다른 색상 모형들보다 각 색평면 사이에 상관성이 매우 낮기 때문에 [H.264/MPEG-4 AVC](https://ko.wikipedia.org/wiki/H.264/MPEG-4_AVC "wikilink") 및 [디랙](https://ko.wikipedia.org/wiki/디랙_\(코덱\) "wikilink")\[1\] 등에 채용된 바 있다. [섬네일](https://ko.wikipedia.org/wiki/파일:Barns_grand_tetons_YCgCo_separation.jpg "wikilink")
 
 ## 다른 색상 모형과 비교
 

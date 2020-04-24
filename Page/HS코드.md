@@ -133,7 +133,7 @@ HS코드는 국제적으로 6자리로 구성되며 대한민국에서 사용하
 ## 같이 보기
 
   - [대한민국 관세청 세계 HS 정보시스템 웹사이트](https://web.archive.org/web/20140304123019/http://www.customs.go.kr/kcshome/wtm_index.po)
-  - [HS코드 품목분류](http://www.hscode.co.kr/)
+  - [HS코드 품목분류](https://web.archive.org/web/20140212121625/http://hscode.co.kr/)
   - [HS코드 조회](https://www.tradlinx.com/hscode)
 
 [분류:무역](https://ko.wikipedia.org/wiki/분류:무역 "wikilink")

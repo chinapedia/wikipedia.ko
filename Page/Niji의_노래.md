@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Niji의 노래](https://ko.wikipedia.org/wiki/Niji의_노래).
 
 
-〈**Niji의 노래**〉()는, [도모토 쯔요시의](../Page/도모토_츠요시.md "wikilink") 통산 10번째 [싱글이다](../Page/싱글_\(음악\).md "wikilink").
+〈**Niji의 노래**〉()는 [도모토 쯔요시의](../Page/도모토_츠요시.md "wikilink") 통산 10번째 [싱글이다](../Page/싱글_\(음악\).md "wikilink").
 
 ## 개요
 

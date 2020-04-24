@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [LU 분해](https://ko.wikipedia.org/wiki/LU_분해).
 
 
-**LU 분해**()는 [수치 해석](https://ko.wikipedia.org/wiki/수치_해석 "wikilink") 분야에서 [하삼각행렬](https://ko.wikipedia.org/wiki/하삼각행렬 "wikilink")과 [상삼각행렬](https://ko.wikipedia.org/wiki/상삼각행렬 "wikilink")의 곱으로 표현하는 것이다. L과 U는 각각 Lower와 Upper를 의미한다. 때때로 [치환행렬](https://ko.wikipedia.org/wiki/치환행렬 "wikilink")(permutation matrix)도 함께 곱으로 나타내기도 한다. LU 분해는 [가우스 소거법에서](../Page/가우스_소거법.md "wikilink") 많이 이용된다. LU 분해는 [앨런 튜링에](../Page/앨런_튜링.md "wikilink") 의해 소개됐다.
+**LU 분해**()는 [수치 해석](https://ko.wikipedia.org/wiki/수치_해석 "wikilink") 분야에서 [하삼각행렬](https://ko.wikipedia.org/wiki/하삼각행렬 "wikilink")과 [상삼각행렬](https://ko.wikipedia.org/wiki/상삼각행렬 "wikilink")의 곱으로 표현하는 것이다. L과 U는 각각 Lower와 Upper를 의미한다. 때때로 [치환행렬](../Page/치환행렬.md "wikilink")(permutation matrix)도 함께 곱으로 나타내기도 한다. LU 분해는 [가우스 소거법에서](../Page/가우스_소거법.md "wikilink") 많이 이용된다. LU 분해는 [앨런 튜링에](../Page/앨런_튜링.md "wikilink") 의해 소개됐다.
 
 일반적인 행렬 \(\, A \,\)를 예약한다면,
 
@@ -352,7 +352,7 @@ U=   \begin{pmatrix}
 
 다음 선형 연립방정식이 주어져 있다.
 
-\[Ax=b\] 계수 행렬 \(A\)를 행 교환을 허용한 가우스 소거법을 통해 LU 분해하면 다음과 같은 꼴로 분해된다. 여기서 \(P\)는 [치환행렬](https://ko.wikipedia.org/wiki/치환행렬 "wikilink")이다.
+\[Ax=b\] 계수 행렬 \(A\)를 행 교환을 허용한 가우스 소거법을 통해 LU 분해하면 다음과 같은 꼴로 분해된다. 여기서 \(P\)는 [치환행렬](../Page/치환행렬.md "wikilink")이다.
 
 \[PA=LU\] 따라서 연립방정식은 다음과 같이 나타낼 수 있다.
 

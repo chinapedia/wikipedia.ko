@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [AC 프라토](https://ko.wikipedia.org/wiki/AC_프라토).
 
 
-**AC 프라토**(Associazione Calcio Prato SpA)는 [이탈리아](../Page/이탈리아.md "wikilink") [토스카나주](https://ko.wikipedia.org/wiki/토스카나주 "wikilink") [프라토](../Page/프라토.md "wikilink")를 연고로 하는 이탈리아의 축구 클럽이다.
+**AC 프라토 SSD**(Associazione Calcio Prato Società Sportiva Dilettantistica a r.l.)는 [이탈리아](../Page/이탈리아.md "wikilink") [토스카나주](https://ko.wikipedia.org/wiki/토스카나주 "wikilink") [프라토](../Page/프라토.md "wikilink")를 연고로 하는 이탈리아의 축구 클럽이다.
 
-프라토는 1964년에 [세리에 B에](../Page/세리에_B.md "wikilink") 있던것이 마지막이며, 최근에는 [세리에 C에](../Page/세리에_C.md "wikilink") 참가중이다.
+프라토는 1964년에 [세리에 B에](../Page/세리에_B.md "wikilink") 있던것이 마지막이며, 최근에는 [세리에 D에](https://ko.wikipedia.org/wiki/세리에_D "wikilink") 참가중이다.
 
 ## 역사
 
@@ -31,7 +31,7 @@
 
   - [페루초 발카레지](https://ko.wikipedia.org/wiki/페루초_발카레지 "wikilink")
 
-  - [빈첸초 베아르초트](https://ko.wikipedia.org/wiki/빈첸초_베아르초트 "wikilink")
+  - [엔초 베아르초트](../Page/엔초_베아르초트.md "wikilink")
 
 ## 각주
 

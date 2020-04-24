@@ -33,7 +33,7 @@ SMPTE는 1999년 디지털 시네마 : DC28 설립을 위한 기술 위원회를
 
   - [GXF](https://ko.wikipedia.org/wiki/GXF "wikilink")
   - [MXF](../Page/MXF.md "wikilink")
-  - [비디오 테이프 레코더](https://ko.wikipedia.org/wiki/비디오_테이프_레코더 "wikilink") (VTR): SMPTE가 정의한 표준
+  - [비디오 테이프 레코더](../Page/비디오_테이프_레코더.md "wikilink") (VTR): SMPTE가 정의한 표준
 
 ## 각주
 

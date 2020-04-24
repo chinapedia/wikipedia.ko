@@ -7,7 +7,7 @@
 
 2000년대 초반까지 대부분의 [K리그](../Page/K리그.md "wikilink") 클럽들과 마찬가지로 [유스 시스템을](https://ko.wikipedia.org/wiki/유스_시스템 "wikilink") 구축하지 못한 채 연고지 지명 고등학교을 두고 [드래프트에서](../Page/K리그_드래프트.md "wikilink") 연고지명으로 고등학교 선수들을 선발하고 취미 목적의 유소년 축구교실을 운영하는 수준이었다.
 
-2001 시즌을 마지막으로 [드래프트가](../Page/K리그_드래프트.md "wikilink") 폐지되고 [자유계약선수제도](../Page/자유계약선수제도.md "wikilink")가 시행되자 2002 시즌부터 2005 시즌 동안\[2\] [이청용](https://ko.wikipedia.org/wiki/이청용 "wikilink"), [송진형](../Page/송진형.md "wikilink"), [고명진](../Page/고명진.md "wikilink"), [안상현](../Page/안상현.md "wikilink"), [한동원](../Page/한동원.md "wikilink"), [기성용](../Page/기성용.md "wikilink")\[3\] 등의 10대 선수들을 영입하여 [2군에서](../Page/FC_서울_2군.md "wikilink") 체계적인 훈련을 거쳐 1군 선수로 성장 시키기도 하였지만 체계적인 유스 시스템에 의한 성과는 아니었다.
+2001 시즌을 마지막으로 [드래프트가](../Page/K리그_드래프트.md "wikilink") 폐지되고 [자유계약선수제도](../Page/자유계약선수제도.md "wikilink")가 시행되자 2002 시즌부터 2005 시즌 동안\[2\] [이청용](https://ko.wikipedia.org/wiki/이청용 "wikilink"), [송진형](../Page/송진형.md "wikilink"), [고명진](../Page/고명진.md "wikilink"), [안상현](https://ko.wikipedia.org/wiki/안상현_\(축구_선수\) "wikilink"), [한동원](../Page/한동원.md "wikilink"), [기성용](../Page/기성용.md "wikilink")\[3\] 등의 10대 선수들을 영입하여 [2군에서](../Page/FC_서울_2군.md "wikilink") 체계적인 훈련을 거쳐 1군 선수로 성장 시키기도 하였지만 체계적인 유스 시스템에 의한 성과는 아니었다.
 
 2006년 말 축구 명문 [동북고등학교와](../Page/동북고등학교_축구부.md "wikilink") 협약을 맺고 [2007년](../Page/2007년.md "wikilink")부터 FC 서울에서 직접 U-18팀을 운영하며\[4\]본격적인 유스 시스템 구축에 첫발을 내딛게 된다.\[5\]
 

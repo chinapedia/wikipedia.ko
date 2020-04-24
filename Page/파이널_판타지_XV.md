@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [파이널 판타지 XV](https://ko.wikipedia.org/wiki/파이널_판타지_XV).
 
 
-《**파이널 판타지 XV**》(파이널 판타지 15, FINAL FANTASY XV, final fantasy 15, 약칭：**FFXV**、**FF15**)는, [스퀘어 에닉스에서](../Page/스퀘어_에닉스.md "wikilink") 발매한 [플레이스테이션 4](../Page/플레이스테이션_4.md "wikilink"), [엑스박스 원](../Page/엑스박스_원.md "wikilink") 용의 [RPG로](https://ko.wikipedia.org/wiki/컴퓨터_롤플레잉_게임 "wikilink") [파이널 판타지 시리즈](https://ko.wikipedia.org/wiki/파이널_판타지_시리즈 "wikilink")(이하, FF시리즈), 「[파브라 노바 크리스탈리스 파이널 판타지](../Page/파브라_노바_크리스탈리스_파이널_판타지.md "wikilink")」의 하나이다. \< 2016년 [파브라 노바 크리스탈리스 파이널 판타지에서](../Page/파브라_노바_크리스탈리스_파이널_판타지.md "wikilink") 독립된 게임이라고 공식 적인 발언이 있었다.
+《**파이널 판타지 XV**》(파이널 판타지 15, FINAL FANTASY XV, final fantasy 15, 약칭：**FFXV**、**FF15**)는 [스퀘어 에닉스에서](../Page/스퀘어_에닉스.md "wikilink") 발매한 [플레이스테이션 4](../Page/플레이스테이션_4.md "wikilink"), [엑스박스 원](../Page/엑스박스_원.md "wikilink") 용의 [RPG로](https://ko.wikipedia.org/wiki/컴퓨터_롤플레잉_게임 "wikilink") [파이널 판타지 시리즈](https://ko.wikipedia.org/wiki/파이널_판타지_시리즈 "wikilink")(이하, FF시리즈), 「[파브라 노바 크리스탈리스 파이널 판타지](../Page/파브라_노바_크리스탈리스_파이널_판타지.md "wikilink")」의 하나이다. \< 2016년 [파브라 노바 크리스탈리스 파이널 판타지에서](../Page/파브라_노바_크리스탈리스_파이널_판타지.md "wikilink") 독립된 게임이라고 공식 적인 발언이 있었다.
 
 ## 개요
 

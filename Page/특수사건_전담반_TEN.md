@@ -147,7 +147,7 @@
   - [배민희](https://ko.wikipedia.org/wiki/배민희_\(배우\) "wikilink") : 정희연 역. 민채원 엄마
   - [김기현](../Page/김기현_\(성우\).md "wikilink") : 민채원 할아버지 역
   - [장소연](../Page/장소연_\(배우\).md "wikilink") : 임유경 역. 민채원 생모
-  - [김지영](https://ko.wikipedia.org/wiki/김지영_\(2005년\) "wikilink") : 민채원 역
+  - [김지영](../Page/김지영_\(2005년\).md "wikilink") : 민채원 역
   - [이현걸](../Page/이현걸.md "wikilink")
   - 윤현길
   - 박종상

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Hex dump](https://ko.wikipedia.org/wiki/Hex_dump).
 
 
-[thumb의](https://ko.wikipedia.org/wiki/파일:Wikipedia_favicon_hexdump.svg "wikilink") hex dump\]\] **hex dump**는 램 또는 파일이나 저장장치에 있는 컴퓨터 데이터의 [십육진법](../Page/십육진법.md "wikilink")적인 보임새이다. 데이터의 hex dump를 보는 것은 주로 [디버깅이나](../Page/디버그.md "wikilink") [리버스 엔지니어링의](../Page/리버스_엔지니어링.md "wikilink") 한 부분이다.
+[섬네일의](https://ko.wikipedia.org/wiki/파일:Wikipedia_favicon_hexdump.svg "wikilink") hex dump\]\] **hex dump**는 램 또는 파일이나 저장장치에 있는 컴퓨터 데이터의 [십육진법](../Page/십육진법.md "wikilink")적인 보임새이다. 데이터의 hex dump를 보는 것은 주로 [디버깅이나](../Page/디버그.md "wikilink") [리버스 엔지니어링의](../Page/리버스_엔지니어링.md "wikilink") 한 부분이다.
 
 hex dump에서, 각 바이트는 2 숫자의 16진법 수로 표현된다. Hex dumps는 주로 8 또는 16바이트의 행으로 조직되며, 가끔은 흰 공간으로 분리된다. 몇몇 hex dump들은 시작에서나 마지막 라인의 [체크섬](../Page/체크섬.md "wikilink") 바이트에서 16진법의 [메모리 주소를](../Page/메모리_주소.md "wikilink") 갖는다.
 

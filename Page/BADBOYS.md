@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [BADBOYS](https://ko.wikipedia.org/wiki/BADBOYS).
 
 
-《**BADBOYS**》(배드 보이즈)는, 타나카 히로시의 [만화](../Page/만화.md "wikilink") 작품이다.
+《**BADBOYS**》(배드 보이즈)는 타나카 히로시의 [만화](../Page/만화.md "wikilink") 작품이다.
 
 ## 개요
 
@@ -286,7 +286,7 @@
 
 ## 극장판 BAD BOYS J -최후에 지킬 것-
 
-《**극장판 BAD BOYS J -최후에 지킬 것-**》()는, [일본](../Page/일본.md "wikilink")에서 [2013년](../Page/2013년.md "wikilink") [11월 9일에](../Page/11월_9일.md "wikilink") 개봉한 [영화이다](../Page/일본의_영화.md "wikilink").
+《**극장판 BAD BOYS J -최후에 지킬 것-**》()는 [일본](../Page/일본.md "wikilink")에서 [2013년](../Page/2013년.md "wikilink") [11월 9일에](../Page/11월_9일.md "wikilink") 개봉한 [영화이다](../Page/일본의_영화.md "wikilink").
 
 캐치프레이즈는, 〈**누군가를 지키려고 했을 때, 사람은 처음으로 강해진다―　강하고, 멋있게, Sweet한 놈들이 보내는, 감동의 청춘 엔터테인먼트\!**〉.
 

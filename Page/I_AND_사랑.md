@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [I AND 사랑](https://ko.wikipedia.org/wiki/I_AND_사랑).
 
 
-《**I AND 사랑**》()은, [도모토 쯔요시가](../Page/도모토_츠요시.md "wikilink") [244 ENDLI-x로서](../Page/도모토_츠요시.md "wikilink") 발매한 음반으로, 도모토 쯔요시 통상 5번째 [정규 음반이다](../Page/정규_음반.md "wikilink").
+《**I AND 사랑**》()은 [도모토 쯔요시가](../Page/도모토_츠요시.md "wikilink") [244 ENDLI-x로서](../Page/도모토_츠요시.md "wikilink") 발매한 음반으로, 도모토 쯔요시 통상 5번째 [정규 음반이다](../Page/정규_음반.md "wikilink").
 
 ## 개요
 

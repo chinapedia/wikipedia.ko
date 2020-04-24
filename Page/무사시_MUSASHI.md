@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [무사시 MUSASHI](https://ko.wikipedia.org/wiki/무사시_MUSASHI).
 
 
-《**무사시 MUSASHI**》() 는 [NHK에서](../Page/일본방송협회.md "wikilink") 2003년 1월 5일부터 12월 7일까지 방영된 [대하드라마로서](../Page/NHK_대하드라마.md "wikilink") 대하드라마 40주년 기념방송이다.
+《**무사시 MUSASHI**》()는 [NHK에서](../Page/일본방송협회.md "wikilink") 2003년 1월 5일부터 12월 7일까지 방영된 [대하드라마로서](../Page/NHK_대하드라마.md "wikilink") 대하드라마 40주년 기념방송이다.
 
 ## 개요
 
@@ -425,5 +425,7 @@
 ## 외부 링크
 
   - [대하드라마 무사시 MUSASHI 방송정보](https://web.archive.org/web/20140905235147/http://www.nhk.or.jp/drama/pastprog/taiga42.html)
+
+（利家とまつ〜加賀百万石物語〜）{{-}}〔2002년〕 |작품명=무사시 MUSASHI{{-}}（武蔵 MUSASHI）{{-}}〔2003년〕 |다음 작품=[신센구미\!](../Page/신센구미!.md "wikilink"){{-}}（新選組\!）{{-}}〔2004년〕 }}
 
 [분류:NHK 대하드라마](https://ko.wikipedia.org/wiki/분류:NHK_대하드라마 "wikilink") [분류:2003년 드라마](https://ko.wikipedia.org/wiki/분류:2003년_드라마 "wikilink") [분류:소설의 텔레비전 프로그램화 작품](https://ko.wikipedia.org/wiki/분류:소설의_텔레비전_프로그램화_작품 "wikilink") [분류:미야모토 무사시를 소재로 한 작품](https://ko.wikipedia.org/wiki/분류:미야모토_무사시를_소재로_한_작품 "wikilink")

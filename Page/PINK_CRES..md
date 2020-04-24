@@ -33,6 +33,31 @@
 <!-- end list -->
 
   - [6월 28일](../Page/6월_28일.md "wikilink"), 첫 음반 crescendo를 발매.
+  - [12월 1일](../Page/12월_1일.md "wikilink"), 착신 한정 음원인 Sweet Girl's Night 발표.
+
+<!-- end list -->
+
+  - [2018년](../Page/2018년.md "wikilink")
+
+<!-- end list -->
+
+  - [6월 27일](../Page/6월_27일.md "wikilink"), 두번째 음반 えとせとら를 발매.
+
+<!-- end list -->
+
+  - [2019년](../Page/2019년.md "wikilink")
+
+<!-- end list -->
+
+  - [5월 22일](../Page/5월_22일.md "wikilink"), 첫번째 싱글 トウキョウ・コンフュージョン／宇宙の女は甘くない를 발매.
+
+<!-- end list -->
+
+  - [2020년](../Page/2020년.md "wikilink")
+
+<!-- end list -->
+
+  - [2월 26일](https://ko.wikipedia.org/wiki/2월_26일 "wikilink"), 두번째 싱글 ルーレット를 발매.
 
 ## 음악
 

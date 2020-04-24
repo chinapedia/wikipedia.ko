@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [OK저축은행](https://ko.wikipedia.org/wiki/OK저축은행).
 
 
-**OK저축은행**(Original Korean Savings Bank of Korea)은 2014년 7월 [러시앤캐시](https://ko.wikipedia.org/wiki/러시앤캐시 "wikilink")가 가교저축은행이었던 예주저축은행과 예나래저축은행을 인수하여 출범시킨 저축은행이다.
+**OK저축은행**(Original Korean Savings Bank of Korea)은 2014년 7월 [러시앤캐시](https://ko.wikipedia.org/wiki/러시앤캐시 "wikilink")가 가교저축은행이었던 예주저축은행과 예나래저축은행을 인수하여 출범시킨 저축은행이다. "OK저축은챙"에서 "OK"를 따와 오른쪽으로 90° 돌리면 "읏" 모양이 된다. 그래서 OK저축은행 마스코트인 읏맨이 있다. 이걸로 [유튜브](../Page/유튜브.md "wikilink") 광고에 옛날이야기, 돈 관련 사건들, 읏맨이 합쳐져 새로운 이야기가 가끔씩 나온다.
 
 ## 역사
 

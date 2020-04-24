@@ -16,6 +16,7 @@
   - [임경진](../Page/임경진.md "wikilink") ([JTBC](../Page/JTBC.md "wikilink") 소속)
   - [이진욱](../Page/이진욱.md "wikilink") ([JTBC](../Page/JTBC.md "wikilink") 소속)
   - [송민교](../Page/송민교.md "wikilink") ([JTBC](../Page/JTBC.md "wikilink") 소속)
+  - [정순주](../Page/정순주.md "wikilink") (프리랜서)
   - 이인환 (프리랜서)
   - 박기덕 (프리랜서)
   - 박용식 (프리랜서)

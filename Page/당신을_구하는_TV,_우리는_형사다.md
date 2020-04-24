@@ -34,7 +34,7 @@
 
 ## 외부 링크
 
-  - [당신을 구하는 TV, 우리는 형사다 홈페이지](http://enter.jtbc.co.kr/detectives/)
+  - [당신을 구하는 TV, 우리는 형사다 홈페이지](https://web.archive.org/web/20130205021820/http://enter.jtbc.co.kr/detectives/)
 
 [분류:JTBC의 시사교양 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:JTBC의_시사교양_텔레비전_프로그램 "wikilink") [분류:2012년에 시작한 대한민국 TV 프로그램](https://ko.wikipedia.org/wiki/분류:2012년에_시작한_대한민국_TV_프로그램 "wikilink") [분류:2013년에 종료한 대한민국 TV 프로그램](https://ko.wikipedia.org/wiki/분류:2013년에_종료한_대한민국_TV_프로그램 "wikilink")
 

@@ -16,7 +16,7 @@
 <tbody>
 <tr class="odd">
 <td><p><a href="../Page/6월_19일.md" title="wikilink">6월 19일</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/WWE" title="wikilink">WWE</a></p></td>
+<td><p><a href="../Page/WWE.md" title="wikilink">WWE</a></p></td>
 <td><p><a href="../Page/WWE_머니_인_더_뱅크.md" title="wikilink">머니 인 더 뱅크</a></p></td>
 </tr>
 <tr class="even">

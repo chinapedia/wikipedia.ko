@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [입술에 Be My Baby](https://ko.wikipedia.org/wiki/입술에_Be_My_Baby).
 
 
-〈**입술에 Be My Baby**〉()는, [AKB48](../Page/AKB48.md "wikilink")의 42번째 [싱글이다](../Page/싱글_\(음악\).md "wikilink").
+〈**입술에 Be My Baby**〉()는 [AKB48](../Page/AKB48.md "wikilink")의 42번째 [싱글이다](../Page/싱글_\(음악\).md "wikilink").
 
 ## 개요
 

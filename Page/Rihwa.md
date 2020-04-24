@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Rihwa](https://ko.wikipedia.org/wiki/Rihwa).
 
 
-**Rihwa**(리화, 본명:**박리화**(朴梨華), [1989년](../Page/1989년.md "wikilink") [10월 4일](../Page/10월_4일.md "wikilink") \~ )는, [일본](../Page/일본.md "wikilink")의 [여성](../Page/여성.md "wikilink") [싱어송라이터](https://ko.wikipedia.org/wiki/싱어송라이터 "wikilink")이다. 소속 예능 사무소는 [아뮤즈](../Page/아뮤즈.md "wikilink"), 소속 레코드 회사는 [토이즈 팩토리](../Page/토이스_팩토리.md "wikilink").
+**Rihwa**(리화, 본명:**박리화**(朴梨華), [1989년](../Page/1989년.md "wikilink") [10월 4일](../Page/10월_4일.md "wikilink") \~ )는 [일본](../Page/일본.md "wikilink")의 [여성](../Page/여성.md "wikilink") [싱어송라이터](https://ko.wikipedia.org/wiki/싱어송라이터 "wikilink")이다. 소속 예능 사무소는 [아뮤즈](../Page/아뮤즈.md "wikilink"), 소속 레코드 회사는 [토이즈 팩토리](../Page/토이스_팩토리.md "wikilink").
 
 ## 내력
 

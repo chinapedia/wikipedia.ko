@@ -1279,7 +1279,7 @@
 <tr class="even">
 <td><p>70회</p></td>
 <td><p><a href="../Page/7월_13일.md" title="wikilink">7월 13일</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/자객_섭은낭" title="wikilink">자객 섭은낭</a></p></td>
+<td><p><a href="../Page/자객_섭은낭.md" title="wikilink">자객 섭은낭</a></p></td>
 <td><p><a href="../Page/금요일.md" title="wikilink">금요일</a> 새벽 1:15 ~ 3:15 (110분)</p></td>
 </tr>
 <tr class="odd">

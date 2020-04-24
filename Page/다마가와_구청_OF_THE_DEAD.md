@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [다마가와 구청 OF THE DEAD](https://ko.wikipedia.org/wiki/다마가와_구청_OF_THE_DEAD).
 
 
-《**타마가와 구청 OF THE DEAD**》()는, [2014년](../Page/2014년.md "wikilink") [10월 3일부터](../Page/10월_3일.md "wikilink") [12월 19일까지](../Page/12월_19일.md "wikilink") 매주 [금요일](../Page/금요일.md "wikilink") 24:12 \~ 24:52(〈[드라마 24](../Page/드라마_24.md "wikilink")〉 시간대)에 [TV 도쿄에서](../Page/TV_도쿄.md "wikilink") 방송된 [텔레비전 드라마이다](https://ko.wikipedia.org/wiki/일본_드라마 "wikilink"). 주연은 [하야시 켄토](../Page/하야시_켄토.md "wikilink").
+《**타마가와 구청 OF THE DEAD**》()는 [2014년](../Page/2014년.md "wikilink") [10월 3일부터](../Page/10월_3일.md "wikilink") [12월 19일까지](../Page/12월_19일.md "wikilink") 매주 [금요일](../Page/금요일.md "wikilink") 24:12 \~ 24:52(〈[드라마 24](../Page/드라마_24.md "wikilink")〉 시간대)에 [TV 도쿄에서](../Page/TV_도쿄.md "wikilink") 방송된 [텔레비전 드라마이다](https://ko.wikipedia.org/wiki/일본_드라마 "wikilink"). 주연은 [하야시 켄토](../Page/하야시_켄토.md "wikilink").
 
 ## 줄거리
 

@@ -69,7 +69,7 @@
 ### [TBC Dream FM](../Page/TBC_\(대한민국의_방송사\).md "wikilink")
 
   - [TBC 낮 종합뉴스](../Page/TBC_낮_종합뉴스.md "wikilink") 매일 오전 11시 50분에 방영
-  - [TBC 저녁종합뉴스](https://ko.wikipedia.org/wiki/TBC_저녁종합뉴스 "wikilink") 평일 오후 5시 50분에 방영
+  - [TBC 저녁종합뉴스](../Page/TBC_저녁종합뉴스.md "wikilink") 평일 오후 5시 50분에 방영
 
 ## 관련 보기
 

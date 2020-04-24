@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Smart \(Hey! Say! JUMP의 음반\)](https://ko.wikipedia.org/wiki/Smart_\(Hey!_Say!_JUMP의_음반\)).
 
 
-《**smart**》(스마트)는, [Hey\! Say\! JUMP](../Page/Hey!_Say!_JUMP.md "wikilink")(헤이\! 세이\! 점프)의 3번째 [정규 음반이다](../Page/정규_음반.md "wikilink").
+《**smart**》(스마트)는 [Hey\! Say\! JUMP](../Page/Hey!_Say!_JUMP.md "wikilink")(헤이\! 세이\! 점프)의 3번째 [정규 음반이다](../Page/정규_음반.md "wikilink").
 
 ## 개요
 

@@ -5,7 +5,7 @@
 
 ## 개요
 
-타이틀곡은 [후지 TV](../Page/후지_TV.md "wikilink") 계열 드라마로 [오카다 마사키](../Page/오카다_마사키.md "wikilink") 주연의 드라마 《[미래일기-ANOTHER:WORLD-](../Page/미래일기-ANOTHER:WORLD-.md "wikilink")》의 주제곡으로 결정되었다\[2\]\[3\]. 드라마 《[미래일기-ANOTHER:WORLD-](../Page/미래일기-ANOTHER:WORLD-.md "wikilink")》를 위하여 [시바사키 코우가](../Page/시바사키_코우.md "wikilink") 작사를 하였으며\[4\], [후지 TV](../Page/후지_TV.md "wikilink") 계열 드라마인 《[오토멘](../Page/오토멘.md "wikilink")》() 의 주제곡이었던 「[러버 소울 \~lover soul\~](https://ko.wikipedia.org/wiki/러버_소울_~lover_soul~ "wikilink")」() 이후로 2년 만에 [오카다 마사키가](../Page/오카다_마사키.md "wikilink") 주연으로 출연하는 드라마의 주제곡을 담당하게 되었다\[5\].
+타이틀곡은 [후지 TV](../Page/후지_TV.md "wikilink") 계열 드라마로 [오카다 마사키](../Page/오카다_마사키.md "wikilink") 주연의 드라마 《[미래일기-ANOTHER:WORLD-](../Page/미래일기-ANOTHER:WORLD-.md "wikilink")》의 주제곡으로 결정되었다\[2\]\[3\]. 드라마 《[미래일기-ANOTHER:WORLD-](../Page/미래일기-ANOTHER:WORLD-.md "wikilink")》를 위하여 [시바사키 코우가](../Page/시바사키_코우.md "wikilink") 작사를 하였으며\[4\], [후지 TV](../Page/후지_TV.md "wikilink") 계열 드라마인 《[오토멘](../Page/오토멘.md "wikilink")》()의 주제곡이었던 「[러버 소울 \~lover soul\~](https://ko.wikipedia.org/wiki/러버_소울_~lover_soul~ "wikilink")」() 이후로 2년 만에 [오카다 마사키가](../Page/오카다_마사키.md "wikilink") 주연으로 출연하는 드라마의 주제곡을 담당하게 되었다\[5\].
 
 [시바사키 코우의](../Page/시바사키_코우.md "wikilink") 24번째 [싱글인](../Page/싱글_\(음악\).md "wikilink") 「[Strength](https://ko.wikipedia.org/wiki/Strength "wikilink")」()에 이어 [나와타 히사시](https://ko.wikipedia.org/wiki/나와타_히사시 "wikilink"), [와타나베 슌스케와](https://ko.wikipedia.org/wiki/와타나베_슌스케_\(음악인\) "wikilink") 태그를 이루었다.
 

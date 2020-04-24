@@ -48,7 +48,7 @@ cD은하는 은하단을 정의하는데 이용되기도 한다. 중심에 cD은
 [분류:은하](https://ko.wikipedia.org/wiki/분류:은하 "wikilink")
 
 1.  타원은하의 표면측광과 구조, ["11장. cD은하와 가장 밝은 은하단 은하"](http://nedwww.ipac.caltech.edu/level5/Sept01/Kormendy/Kormendy11.html), **John Kormendy, S. Djorgovski**, *1989*
-2.  천문학 사전, ["cD 은하"](http://www.highbeam.com/doc/1O80-cDgalaxy.html) (2010년 4월 14일 확인)
+2.  천문학 사전, ["cD 은하"](http://www.highbeam.com/doc/1O80-cDgalaxy.html)  (2010년 4월 14일 확인)
 3.  encyclopedia.com ["초거대타원은하"](http://www.encyclopedia.com/doc/1O80-supergiantelliptical.html)
 4.
 5.  DRAGN의 하늘지도, ["용어사전"](http://www.jb.man.ac.uk/atlas/gloss.html#cD), **J. P. Leahy**, *1997년 3월 15일* (2010년 4월 14일 확인)

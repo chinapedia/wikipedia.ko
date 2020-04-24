@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [WWE 페이백](https://ko.wikipedia.org/wiki/WWE_페이백).
 
 
-**WWE 페이백**(Payback)은 [WWE](https://ko.wikipedia.org/wiki/WWE "wikilink")가 주관하는 페이 퍼 뷰이다. 2013년 신설된 페이 퍼 뷰이다
+**WWE 페이백**(Payback)은 [WWE](../Page/WWE.md "wikilink")가 주관하는 페이 퍼 뷰이다. 2013년 신설된 페이 퍼 뷰이다
 
 ## 페이백 개최한 곳
 

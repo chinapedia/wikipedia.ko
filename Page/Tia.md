@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Tia](https://ko.wikipedia.org/wiki/Tia).
 
 
-**Tia**(티아)는, 일본의 [가수](https://ko.wikipedia.org/wiki/가수 "wikilink") 및 [성우](../Page/성우.md "wikilink")다. [사이타마현](https://ko.wikipedia.org/wiki/사이타마현 "wikilink") 출신. 가수 활동은 [supercell](https://ko.wikipedia.org/wiki/supercell "wikilink")의 ryo에 의해서 프로듀스 되고 있다.
+**Tia**(티아)는 일본의 [가수](https://ko.wikipedia.org/wiki/가수 "wikilink") 및 [성우](../Page/성우.md "wikilink")다. [사이타마현](https://ko.wikipedia.org/wiki/사이타마현 "wikilink") 출신. 가수 활동은 [supercell](https://ko.wikipedia.org/wiki/supercell "wikilink")의 ryo에 의해서 프로듀스 되고 있다.
 
 ## 인물
 

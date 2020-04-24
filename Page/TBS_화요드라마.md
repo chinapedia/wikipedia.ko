@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [TBS 화요드라마](https://ko.wikipedia.org/wiki/TBS_화요드라마).
 
 
-《**화요드라마**》()는, [2014년](../Page/2014년.md "wikilink") [4월](../Page/4월.md "wikilink")부터 [TBS](../Page/도쿄_방송_홀딩스.md "wikilink") [계열에서](../Page/재팬_뉴스_네트워크.md "wikilink"), 매주 [화요일](https://ko.wikipedia.org/wiki/화요일 "wikilink") 22:00 \~ 22:54에 방송되고 있는 [텔레비전 드라마](https://ko.wikipedia.org/wiki/일본_드라마 "wikilink") 시간대이다\[1\].
+《**화요드라마**》()는 [2014년](../Page/2014년.md "wikilink") [4월](../Page/4월.md "wikilink")부터 [TBS](../Page/도쿄_방송_홀딩스.md "wikilink") [계열에서](../Page/재팬_뉴스_네트워크.md "wikilink"), 매주 [화요일](https://ko.wikipedia.org/wiki/화요일 "wikilink") 22:00 \~ 22:54에 방송되고 있는 [텔레비전 드라마](https://ko.wikipedia.org/wiki/일본_드라마 "wikilink") 시간대이다\[1\].
 
 ## 작품 목록
 

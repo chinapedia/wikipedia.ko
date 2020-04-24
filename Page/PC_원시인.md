@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [PC 원시인](https://ko.wikipedia.org/wiki/PC_원시인).
 
 
-《**PC 원시인**》(ピーシーげんじん, Bonk's Adventure)은 1989 년 12 월 15 일에 [허드슨](https://ko.wikipedia.org/wiki/허드슨 "wikilink")에서 발매 된 [PC 엔진용](https://ko.wikipedia.org/wiki/PC_엔진 "wikilink") [액션 게임이다](https://ko.wikipedia.org/wiki/액션_게임 "wikilink"). 레드 컴퍼니 (현재 레드 엔터테인먼트)와 [아틀라스](https://ko.wikipedia.org/wiki/아틀라스 "wikilink")도 제작에 참여했다. PC 엔진의 게임에서 가장 큰 히트를 기록하여\[1\] 나중에 시리즈화되었다. 원래는 쇼가쿠칸의 월간 PC 엔진에 연재되고 있던 4 컷 만화를 게임화 한 것이다.
+《**PC 원시인**》(ピーシーげんじん, Bonk's Adventure)은 1989년 12월 15일에 [허드슨](https://ko.wikipedia.org/wiki/허드슨 "wikilink")에서 발매 된 [PC 엔진용](https://ko.wikipedia.org/wiki/PC_엔진 "wikilink") [액션 게임이다](https://ko.wikipedia.org/wiki/액션_게임 "wikilink"). 레드 컴퍼니 (현재 레드 엔터테인먼트)와 [아틀라스](https://ko.wikipedia.org/wiki/아틀라스 "wikilink")도 제작에 참여했다. PC 엔진의 게임에서 가장 큰 히트를 기록하여\[1\] 나중에 시리즈화되었다. 원래는 쇼가쿠칸의 월간 PC 엔진에 연재되고 있던 4 컷 만화를 게임화 한 것이다.
 
-2003 년 12 월 4 일에, 허드슨 셀렉션의 제 3 탄으로 3D 화되어 발매되었다. 또한 2006 년 12 월 2 일에 Wii 의 버추얼 콘솔 다운로드 판매가 시작되어 2007 년 12 월에는 휴대 전화용 게임앱으로 배달되었다. 2010 년에 "Bonk : Brink of Extinction" 북미 허드슨에 의해 XBox LIVE 아케이드 , Wii웨어 , PSN 용으로 발표되며 2013 년 12 월 25 일에는 Wii U 의 가상 콘솔로 전달되었다.
+2003년 12월 4일에, 허드슨 셀렉션의 제 3 탄으로 3D 화되어 발매되었다. 또한 2006년 12월 2일에 Wii 의 버추얼 콘솔 다운로드 판매가 시작되어 2007년 12월에는 휴대 전화용 게임앱으로 배달되었다. 2010 년에 "Bonk : Brink of Extinction" 북미 허드슨에 의해 XBox LIVE 아케이드 , Wii웨어 , PSN 용으로 발표되며 2013년 12월 25일에는 Wii U 의 가상 콘솔로 전달되었다.
 
 제목의 유래는 물론 PC 엔진을 모방한 말장난이다. 덧붙여서 PC의 의미는 작중의 로고에서 " P ithecanthropus C omputerurus "( Pithecanthropus 은 원숭이 사람 속 , Computerurus 컴퓨터를 모방 한 조어) 및 유형과 같은 것이 쓰여져있다.
 

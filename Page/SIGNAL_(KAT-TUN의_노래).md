@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [SIGNAL \(KAT-TUN의 노래\)](https://ko.wikipedia.org/wiki/SIGNAL_\(KAT-TUN의_노래\)).
 
 
-〈**SIGNAL**〉(시그널)은, [KAT-TUN](../Page/KAT-TUN.md "wikilink")의 2번째 [싱글이다](../Page/싱글_\(음악\).md "wikilink").
+〈**SIGNAL**〉(시그널)은 [KAT-TUN](../Page/KAT-TUN.md "wikilink")의 2번째 [싱글이다](../Page/싱글_\(음악\).md "wikilink").
 
 ## 개요
 

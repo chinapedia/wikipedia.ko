@@ -10,6 +10,6 @@
 
 ## 동시 시간대 뉴스 프로그램
 
-  - 경인방송 뉴스 7 ([경인방송](../Page/경인방송.md "wikilink"))
+  - [경인방송 뉴스7](https://ko.wikipedia.org/wiki/경인방송_뉴스7 "wikilink") ([경인방송](../Page/경인방송.md "wikilink"))
 
 [분류:한국방송공사의 뉴스 라디오 프로그램](https://ko.wikipedia.org/wiki/분류:한국방송공사의_뉴스_라디오_프로그램 "wikilink")

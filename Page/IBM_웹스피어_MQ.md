@@ -37,7 +37,7 @@ IBM이 직접 지원하는 API 중 일부는 다음과 같다:
 
 ## 외부 링크
 
-  - [IBM 제품 개요](http://www-306.ibm.com/software/integration/wsesb/about/?S_CMP=wspace)
+  - [IBM 제품 개요](https://web.archive.org/web/20070910201712/http://www-306.ibm.com/software/integration/wsesb/about/?S_CMP=wspace)
 
 [분류:메시지 지향 미들웨어](https://ko.wikipedia.org/wiki/분류:메시지_지향_미들웨어 "wikilink")
 

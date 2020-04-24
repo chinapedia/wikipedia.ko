@@ -32,7 +32,7 @@
 <tbody>
 <tr class="odd">
 <td><p>2014년 12월 6일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/서울" title="wikilink">서울</a></p></td>
+<td><p><a href="../Page/서울특별시.md" title="wikilink">서울</a></p></td>
 <td></td>
 <td><p><a href="../Page/올림픽체조경기장.md" title="wikilink">올림픽체조경기장</a>[2]</p></td>
 <td><p>통산 24,000명</p></td>
@@ -46,28 +46,28 @@
 </tr>
 <tr class="odd">
 <td><p>2014년 12월 13일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/타이베이" title="wikilink">타이베이</a></p></td>
+<td><p><a href="../Page/타이베이시.md" title="wikilink">타이베이</a></p></td>
 <td></td>
 <td><p>타이베이 아레나[3]</p></td>
 <td><p>8,000명</p></td>
 </tr>
 <tr class="even">
 <td><p>2014년 12월 19일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/베이징" title="wikilink">베이징</a></p></td>
+<td><p><a href="../Page/베이징시.md" title="wikilink">베이징</a></p></td>
 <td></td>
 <td><p>마스터 카드 센터[4]</p></td>
 <td><p>10,000명</p></td>
 </tr>
 <tr class="odd">
 <td><p>2015년 1월 24일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/상하이" title="wikilink">상하이</a></p></td>
+<td><p><a href="../Page/상하이시.md" title="wikilink">상하이</a></p></td>
 <td><p>메르세데스 벤츠 아레나[5]</p></td>
 <td><p>10,000명</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2015년 4월 25일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/심천" title="wikilink">심천</a></p></td>
+<td><p><a href="../Page/선전시.md" title="wikilink">선전</a></p></td>
 <td><p>선전 베이 스포츠 센터</p></td>
 <td><p>통산 18,000명</p></td>
 <td></td>

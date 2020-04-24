@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [NAOTO](https://ko.wikipedia.org/wiki/NAOTO).
 
 
-**NAOTO**(나오토, [1983년](../Page/1983년.md "wikilink") [8월 30일](../Page/8월_30일.md "wikilink") \~ )는, [일본](../Page/일본.md "wikilink")의 댄서이며, [EXILE](../Page/EXILE.md "wikilink"), [3대째 J Soul Brothers의](../Page/J_Soul_Brothers.md "wikilink") 멤버이다. 본명, **카타오카 나오토**().
+**NAOTO**(나오토, [1983년](../Page/1983년.md "wikilink") [8월 30일](../Page/8월_30일.md "wikilink") \~ )는 [일본](../Page/일본.md "wikilink")의 댄서이며, [EXILE](../Page/EXILE.md "wikilink"), [3대째 J Soul Brothers의](../Page/J_Soul_Brothers.md "wikilink") 멤버이다. 본명, **카타오카 나오토**().
 
 [사이타마현](https://ko.wikipedia.org/wiki/사이타마현 "wikilink") [토코로자와 시](https://ko.wikipedia.org/wiki/도코로자와_시 "wikilink") 출신. [LDH](https://ko.wikipedia.org/wiki/LDH "wikilink") 소속.
 

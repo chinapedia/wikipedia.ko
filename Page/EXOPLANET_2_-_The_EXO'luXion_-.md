@@ -27,7 +27,7 @@
 
 ### 찬열 물병 테러
 
-8월 1일 열렸던 [성도](https://ko.wikipedia.org/wiki/청두 "wikilink") 공연에서 멤버 [찬열](../Page/찬열.md "wikilink")이 공연을 관람하던 한 팬이 던진 물병에 다리 부위를 맞았으며 통증을 느끼는 표정을 지었다고 현지 매체들이 전했다. 이에 [레이가](https://ko.wikipedia.org/wiki/레이_\(1991년\) "wikilink") 공연 당일 멘트 중 "물병을 무대 위로 던지지 말아달라. 이러하면 여러분의 오빠들이 다칠 수 있다"며 팬들에게 주의를 당부했고 무대 아래에서 "알았어요(好\!)"라는 함성이 잇달아 터지며 이같은 상황이 재발하지 않았다.\[8\]
+8월 1일 열렸던 [청두](../Page/청두시.md "wikilink") 공연에서 멤버 [찬열](../Page/찬열.md "wikilink")이 공연을 관람하던 한 팬이 던진 물병에 다리 부위를 맞았으며 통증을 느끼는 표정을 지었다고 현지 매체들이 전했다. 이에 [레이가](https://ko.wikipedia.org/wiki/레이_\(1991년\) "wikilink") 공연 당일 멘트 중 "물병을 무대 위로 던지지 말아달라. 이러하면 여러분의 오빠들이 다칠 수 있다"며 팬들에게 주의를 당부했고 무대 아래에서 "알았어요(好\!)"라는 함성이 잇달아 터지며 이같은 상황이 재발하지 않았다.\[8\]
 
 ## 투어 일정
 
@@ -51,7 +51,7 @@
 </tr>
 <tr class="even">
 <td><p>2015년 3월 7일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/서울" title="wikilink">서울</a></p></td>
+<td><p><a href="../Page/서울특별시.md" title="wikilink">서울</a></p></td>
 <td></td>
 <td><p><a href="../Page/올림픽체조경기장.md" title="wikilink">올림픽체조경기장</a>[9]</p></td>
 <td><p>통산 67,040명</p></td>
@@ -86,7 +86,7 @@
 </tr>
 <tr class="odd">
 <td><p>2015년 5월 30일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/상해" title="wikilink">상해</a></p></td>
+<td><p><a href="../Page/상하이시.md" title="wikilink">상하이</a></p></td>
 <td></td>
 <td><p><a href="../Page/메르세데스-벤츠_아레나.md" title="wikilink">메르세데스-벤츠 아레나</a>[10]</p></td>
 <td><p>통산 21,248명</p></td>
@@ -100,7 +100,7 @@
 </tr>
 <tr class="odd">
 <td><p>2015년 6월 12일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/타이베이" title="wikilink">대북</a></p></td>
+<td><p><a href="../Page/타이베이시.md" title="wikilink">타이베이</a></p></td>
 <td></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/타이베이_아레나" title="wikilink">타이베이 아레나</a>[11]</p></td>
 <td><p>통산 23,180명</p></td>
@@ -128,7 +128,7 @@
 </tr>
 <tr class="odd">
 <td><p>2015년 7월 18일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/북경" title="wikilink">북경</a></p></td>
+<td><p><a href="../Page/베이징시.md" title="wikilink">베이징</a></p></td>
 <td></td>
 <td><p>마스터 카드 센터[13]</p></td>
 <td><p>통산 23,512명</p></td>
@@ -142,14 +142,14 @@
 </tr>
 <tr class="odd">
 <td><p>2015년 8월 1일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/청두" title="wikilink">성도</a></p></td>
+<td><p><a href="../Page/청두시.md" title="wikilink">청두</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/청두_스포츠_센터" title="wikilink">청두 스포츠 센터</a></p></td>
 <td><p>16,318명</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2015년 8월 16일</p></td>
-<td></td>
+<td><p><a href="../Page/홍콩.md" title="wikilink">홍콩</a></p></td>
 <td><p>아시아 월드 아레나[14]</p></td>
 <td><p>통산 27,308명</p></td>
 <td></td>
@@ -163,28 +163,28 @@
 </tr>
 <tr class="even">
 <td><p>2015년 8월 22일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/시안_시" title="wikilink">서안</a></p></td>
-<td></td>
+<td><p><a href="../Page/시안시.md" title="wikilink">시안</a></p></td>
 <td><p>서안 산시성 체육관</p></td>
 <td><p>13,759명</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>2015년 9월 12일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/충칭_시" title="wikilink">중경</a></p></td>
+<td><p><a href="../Page/충칭시.md" title="wikilink">충칭</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/충칭_올림픽_스포츠_센터" title="wikilink">충칭 올림픽 스포츠 센터</a></p></td>
 <td><p>15,342명</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2015년 10월 17일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/광저우" title="wikilink">광주</a></p></td>
+<td><p><a href="../Page/광저우시.md" title="wikilink">광저우</a></p></td>
 <td><p>광저우 인터네셔널 스포츠 아레나[15]</p></td>
 <td><p>12,373명</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2015년 10월 31일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/후쿠오카" title="wikilink">복강</a></p></td>
+<td><p><a href="../Page/후쿠오카시.md" title="wikilink">후쿠오카</a></p></td>
 <td></td>
 <td><p>마린 멧세 후쿠오카</p></td>
 <td><p>통산 23,896명</p></td>
@@ -198,7 +198,7 @@
 </tr>
 <tr class="odd">
 <td><p>2015년 11월 6일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/동경" title="wikilink">동경</a></p></td>
+<td><p><a href="../Page/도쿄.md" title="wikilink">도쿄</a></p></td>
 <td><p><a href="../Page/도쿄_돔.md" title="wikilink">도쿄 돔</a>[16]</p></td>
 <td><p>통산 147,382명</p></td>
 <td></td>
@@ -219,7 +219,7 @@
 </tr>
 <tr class="even">
 <td><p>2015년 11월 13일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/대판" title="wikilink">대판</a></p></td>
+<td><p><a href="../Page/오사카시.md" title="wikilink">오사카</a></p></td>
 <td><p><a href="../Page/오사카_돔.md" title="wikilink">쿄세라 돔 오사카</a>[17]</p></td>
 <td><p>통산 134,830명</p></td>
 <td></td>
@@ -240,17 +240,17 @@
 </tr>
 <tr class="odd">
 <td><p>2015년 11월 21일</p></td>
+<td><p><a href="../Page/마카오.md" title="wikilink">마카오</a></p></td>
 <td></td>
 <td><p>베네시안 호텔 코타이 아레나</p></td>
 <td><p>13,108명</p></td>
-<td></td>
 </tr>
 <tr class="even">
 <td><p>2015년 12월 12일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/남경" title="wikilink">남경</a></p></td>
-<td></td>
+<td><p><a href="../Page/난징시.md" title="wikilink">난징</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/난징_올림픽_스포츠_센터" title="wikilink">난징 올림픽 스포츠 센터</a>[18]</p></td>
 <td><p>11,612명</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>2016년 1월 9일</p></td>
@@ -338,7 +338,7 @@
 </tr>
 <tr class="odd">
 <td><p>2016년 3월 5일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/다롄_시" title="wikilink">대련</a></p></td>
+<td><p><a href="../Page/다롄시.md" title="wikilink">다롄</a></p></td>
 <td></td>
 <td><p>대련 스포츠 센터</p></td>
 <td><p>15,702명</p></td>

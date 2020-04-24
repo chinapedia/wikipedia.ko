@@ -5,7 +5,7 @@
 
 지원 범위가 넓고 유비쿼터스 환경에서도 사용이 가능하기에 ISP와 기업들이 [인터넷](../Page/인터넷.md "wikilink")이나 인트라넷 접근을 관리하거나 무선 네트워크 인증, 통합 메일 서비스 등에 자주 쓰인다. [모뎀](../Page/모뎀.md "wikilink"), [무선 액세스 포인트](../Page/무선_액세스_포인트.md "wikilink"), [디지털 가입자 회선](../Page/디지털_가입자_회선.md "wikilink"), [가상 사설망](https://ko.wikipedia.org/wiki/가상_사설망 "wikilink"), [TCP 및 UDP 포트](https://ko.wikipedia.org/wiki/TCP_및_UDP_포트 "wikilink"), [웹 서버](../Page/웹_서버.md "wikilink") 등에 사용된다.\[2\]
 
-RADIUS는 [응용 계층에서](../Page/응용_계층.md "wikilink") 작동하는 클라이언트 및 서버 프로토콜이며 [사용자 데이터그램 프로토콜을](../Page/사용자_데이터그램_프로토콜.md "wikilink") 통해서 전송된다. 원격 접속 서버, [가상 사설망](https://ko.wikipedia.org/wiki/가상_사설망 "wikilink"), [네트워크 스위치의](https://ko.wikipedia.org/wiki/네트워크_스위치 "wikilink") 포트 인증, 네트워크 엑세스 서버(NAS) 이들 모두는 RADIUS서버와 통신하는 컴포넌트를 가진다.\[3\] RADIUS는 종종 [IEEE 802.1X](https://ko.wikipedia.org/wiki/IEEE_802.1X "wikilink") 인증의 기반이 되기도 한다.\[4\]
+RADIUS는 [응용 계층에서](../Page/응용_계층.md "wikilink") 작동하는 클라이언트 및 서버 프로토콜이며 [사용자 데이터그램 프로토콜을](../Page/사용자_데이터그램_프로토콜.md "wikilink") 통해서 전송된다. 원격 접속 서버, [가상 사설망](https://ko.wikipedia.org/wiki/가상_사설망 "wikilink"), [네트워크 스위치의](../Page/네트워크_스위치.md "wikilink") 포트 인증, 네트워크 엑세스 서버(NAS) 이들 모두는 RADIUS서버와 통신하는 컴포넌트를 가진다.\[3\] RADIUS는 종종 [IEEE 802.1X](https://ko.wikipedia.org/wiki/IEEE_802.1X "wikilink") 인증의 기반이 되기도 한다.\[4\]
 
 RADIUS 서버는 [유닉스](../Page/유닉스.md "wikilink") 시스템이나 [윈도 서버에서](https://ko.wikipedia.org/wiki/윈도_서버 "wikilink") 자주 백그라운드 프로세스로 실행된다.\[5\]
 

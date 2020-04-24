@@ -27,7 +27,7 @@
 
 ### Class II 아미노산 계열
 
-[알라닌](../Page/알라닌.md "wikilink"), [아스파르트산](https://ko.wikipedia.org/wiki/아스파르트산 "wikilink"), [아스파라긴](https://ko.wikipedia.org/wiki/아스파라긴 "wikilink"), [글리신](https://ko.wikipedia.org/wiki/글리신 "wikilink"), [히스티딘](https://ko.wikipedia.org/wiki/히스티딘 "wikilink"), [리신](https://ko.wikipedia.org/wiki/리신 "wikilink"), [페닐알라닌](https://ko.wikipedia.org/wiki/페닐알라닌 "wikilink"), [프롤린](https://ko.wikipedia.org/wiki/프롤린 "wikilink"), [트레오닌](https://ko.wikipedia.org/wiki/트레오닌 "wikilink"), [세린](../Page/세린.md "wikilink")
+[알라닌](../Page/알라닌.md "wikilink"), [아스파르트산](../Page/아스파르트산.md "wikilink"), [아스파라긴](https://ko.wikipedia.org/wiki/아스파라긴 "wikilink"), [글리신](https://ko.wikipedia.org/wiki/글리신 "wikilink"), [히스티딘](https://ko.wikipedia.org/wiki/히스티딘 "wikilink"), [리신](https://ko.wikipedia.org/wiki/리신 "wikilink"), [페닐알라닌](https://ko.wikipedia.org/wiki/페닐알라닌 "wikilink"), [프롤린](https://ko.wikipedia.org/wiki/프롤린 "wikilink"), [트레오닌](https://ko.wikipedia.org/wiki/트레오닌 "wikilink"), [세린](../Page/세린.md "wikilink")
 
 ## 아미노아실 tRNA 합성효소 다량체 MSC(MULTI-AMINOACYL-TRNA SYNTHETASE COMPLEXES)의 존재
 

@@ -100,4 +100,4 @@
 
 [분류:K리그 승강 플레이오프](https://ko.wikipedia.org/wiki/분류:K리그_승강_플레이오프 "wikilink") [분류:2013년 설립](https://ko.wikipedia.org/wiki/분류:2013년_설립 "wikilink")
 
-1.  [원정 다득점 원칙에](https://ko.wikipedia.org/wiki/원정_다득점_원칙 "wikilink") 의해 강원이 승격
+1.  [원정 다득점 원칙에](../Page/원정_다득점_원칙.md "wikilink") 의해 강원이 승격

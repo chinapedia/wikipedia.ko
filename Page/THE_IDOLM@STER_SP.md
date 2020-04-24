@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [THE IDOLM@STER SP](https://ko.wikipedia.org/wiki/THE_IDOLM@STER_SP).
 
 
-\<**THE IDOLM@STER SP**\>(**아이돌마스터 에스피**) 는 [반다이 남코 게임스가](https://ko.wikipedia.org/wiki/반다이_남코_게임스 "wikilink") [2008년](../Page/2008년.md "wikilink") 7월에 발표해, [2009년](../Page/2009년.md "wikilink") [2월 19일에](../Page/2월_19일.md "wikilink") 발매된 [PlayStation Portable](https://ko.wikipedia.org/wiki/PlayStation_Portable "wikilink") (PSP) 용 [육성 시뮬레이션 게임](https://ko.wikipedia.org/wiki/육성_시뮬레이션_게임 "wikilink") (공칭 <아이돌 프로듀스>). \<[일본 게임 대상](https://ko.wikipedia.org/wiki/일본_게임_대상 "wikilink") 2008\>퓨처 부문 수상\[1\]. PSP the Best판 ([염가판](https://ko.wikipedia.org/wiki/염가판 "wikilink")) 은 UMD에서는 [2010년](../Page/2010년.md "wikilink") [1월 28일에](../Page/1월_28일.md "wikilink")\[2\], PlayStation Store으로부터의 다운로드에서는 동년 10월 28일\[3\]에 발매되었다.
+\<**THE IDOLM@STER SP**\>(**아이돌마스터 에스피**)는 [반다이 남코 게임스가](https://ko.wikipedia.org/wiki/반다이_남코_게임스 "wikilink") [2008년](../Page/2008년.md "wikilink") 7월에 발표해, [2009년](../Page/2009년.md "wikilink") [2월 19일에](../Page/2월_19일.md "wikilink") 발매된 [PlayStation Portable](https://ko.wikipedia.org/wiki/PlayStation_Portable "wikilink") (PSP) 용 [육성 시뮬레이션 게임](https://ko.wikipedia.org/wiki/육성_시뮬레이션_게임 "wikilink") (공칭 <아이돌 프로듀스>). \<[일본 게임 대상](https://ko.wikipedia.org/wiki/일본_게임_대상 "wikilink") 2008\>퓨처 부문 수상\[1\]. PSP the Best판 ([염가판](https://ko.wikipedia.org/wiki/염가판 "wikilink")) 은 UMD에서는 [2010년](../Page/2010년.md "wikilink") [1월 28일에](../Page/1월_28일.md "wikilink")\[2\], PlayStation Store으로부터의 다운로드에서는 동년 10월 28일\[3\]에 발매되었다.
 
 ## 개요
 
-본작으로의 특징은, 신규 신작 스토리와 신캐릭터에 의해 이야기성을 중시한 **스토리 프로듀스** 모드라고 말할 수 있다 (덧붙여 Xbox 360판과 거의 같은 형태와 내용·볼륨의 **프리 프로듀스** 모드도 탑재되고 있다). 또 지금까지의 [아케이드판이나](../Page/THE_IDOLM@STER.md "wikilink") [Xbox 360판과는](../Page/THE_IDOLM@STER_\(2007년_비디오_게임\).md "wikilink") 다른 개변이 이루어지고 있어 정통 시리즈 중 최신의 시스템이 된다. 스토리 프로듀스 모드에서는, 각 아이돌이 여러가지 이유로 <아이돌 얼티메이트>(이후 \<**IU**\>라고 기술) 의 우승을 목표로 하는 모습이 그려지고 있어 등장하는 새로운 라이벌 캐릭터와 우승을 둘러싸 공사에 걸쳐 싸우게 된다.
+본작으로의 특징은, 신규 신작 스토리와 신캐릭터에 의해 이야기성을 중시한 **스토리 프로듀스** 모드라고 말할 수 있다 (덧붙여 Xbox 360판과 거의 같은 형태와 내용·볼륨의 **프리 프로듀스** 모드도 탑재되고 있다). 또 지금까지의 [아케이드판이나](../Page/THE_IDOLM@STER.md "wikilink") [Xbox 360판과는](../Page/THE_IDOLM@STER_\(2007년_비디오_게임\).md "wikilink") 다른 개변이 이루어지고 있어 정통 시리즈 중 최신의 시스템이 된다. 스토리 프로듀스 모드에서는, 각 아이돌이 여러가지 이유로 <아이돌 얼티메이트>(이후 \<**IU**\>라고 기술)의 우승을 목표로 하는 모습이 그려지고 있어 등장하는 새로운 라이벌 캐릭터와 우승을 둘러싸 공사에 걸쳐 싸우게 된다.
 
 아케이드판이나 Xbox 360판 (함 [L4U\!](../Page/THE_IDOLM@STER_LIVE_FOR_YOU!.md "wikilink")) 과 같이, 각각의 시간축의 연결은 설정되어 있지 않다\[4\]. 덧붙여 \<[아이돌마스터 디어리 스타즈](https://ko.wikipedia.org/wiki/아이돌마스터_디어리_스타즈 "wikilink")\>의 작중에서도 본작의 중심 이벤트인 IU에 관한 언급이 있지만, 이쪽도 시간축의 연결은 전혀 없다\[5\].
 

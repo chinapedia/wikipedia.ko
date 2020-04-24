@@ -22,7 +22,7 @@
 <em><a href="../Page/1983년_OFC_여자_축구_선수권_대회.md" title="wikilink">자세히</a></em></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p><strong></strong></p></td>
-<td style="text-align: center;"><p><strong>3 : 2</strong> (<a href="../Page/연장전.md" title="wikilink">연장</a>)</p></td>
+<td style="text-align: center;"><p><strong>3 – 2</strong> (<a href="../Page/연장전.md" title="wikilink">연장</a>)</p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p>(라운드 로빈)</p></td>
@@ -33,11 +33,11 @@
 <em><a href="../Page/1986년_OFC_여자_축구_선수권_대회.md" title="wikilink">자세히</a></em></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p><strong></strong></p></td>
-<td style="text-align: center;"><p><strong>4 : 1</strong></p></td>
+<td style="text-align: center;"><p><strong>4 – 1</strong></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
-<td style="text-align: center;"><p><strong>0 : 0</strong><br />
-(<a href="../Page/승부차기.md" title="wikilink">승부차기</a> 3 : 1)</p></td>
+<td style="text-align: center;"><p><strong>0 – 0</strong><br />
+(<a href="../Page/승부차기.md" title="wikilink">승부차기</a> 3 – 1)</p></td>
 <td style="text-align: center;"><p>B팀</p></td>
 </tr>
 <tr class="even">
@@ -45,7 +45,7 @@
 <em><a href="../Page/1989년_OFC_여자_축구_선수권_대회.md" title="wikilink">자세히</a></em></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p><strong></strong></p></td>
-<td style="text-align: center;"><p><strong>1 : 0</strong></p></td>
+<td style="text-align: center;"><p><strong>1 – 0</strong></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p>(라운드 로빈)<sup>1</sup></p></td>
@@ -78,10 +78,10 @@
 <em><a href="../Page/1998년_OFC_여자_축구_선수권_대회.md" title="wikilink">자세히</a></em></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p><strong></strong></p></td>
-<td style="text-align: center;"><p><strong>3 : 1</strong></p></td>
+<td style="text-align: center;"><p><strong>3 – 1</strong></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
-<td style="text-align: center;"><p><strong>7 : 1</strong></p></td>
+<td style="text-align: center;"><p><strong>7 – 1</strong></p></td>
 <td style="text-align: center;"></td>
 </tr>
 <tr class="even">
@@ -111,10 +111,10 @@
 <em><a href="../Page/2010년_OFC_여자_축구_선수권_대회.md" title="wikilink">자세히</a></em></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p><strong></strong></p></td>
-<td style="text-align: center;"><p><strong>11 : 0</strong></p></td>
+<td style="text-align: center;"><p><strong>11 – 0</strong></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
-<td style="text-align: center;"><p><strong>2 : 0</strong></p></td>
+<td style="text-align: center;"><p><strong>2 – 0</strong></p></td>
 <td style="text-align: center;"></td>
 </tr>
 <tr class="odd">
@@ -133,10 +133,10 @@
 <em><a href="../Page/2018년_OFC_여자_네이션스컵.md" title="wikilink">자세히</a></em></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p><strong></strong></p></td>
-<td style="text-align: center;"><p><strong>8 : 0</strong></p></td>
+<td style="text-align: center;"><p><strong>8 – 0</strong></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
-<td style="text-align: center;"><p><strong>7 : 1</strong></p></td>
+<td style="text-align: center;"><p><strong>7 – 1</strong></p></td>
 <td style="text-align: center;"></td>
 </tr>
 </tbody>

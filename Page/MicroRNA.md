@@ -3,7 +3,7 @@
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:MiRNA.svg "wikilink")\]\] [섬네일](https://ko.wikipedia.org/wiki/파일:Examples_of_microRNA_stem-loops.jpg "wikilink")
 
-**마이크로 RNA**(MicroRNA, miRNA)는 식물, 동물, 바이러스 등에서 발견되는, 약 22개의 뉴클레오타이드로 구성된 작은 비발현 RNA 분자로, RNA 침묵과 전사 이후의 유전자 발현 조절 등의 기능을 한다.\[1\]\[2\] 마이크로 RNA는 식물과 동물 등 진핵 생물의 핵에 있는 DNA와, 게놈이 DNA에 기초한 특정 바이러스에 있는 바이러스성 DNA에 의해 암호화되면서, mRNA 분자에 있는 상호보완적인 염기쌍을 통해 기능을 한다. 그 결과, 이 mRNA 분자들은 하나 이상의 다음 과정들에 의해 침묵된다.\[3\]
+**마이크로 RNA**(MicroRNA, miRNA)는 식물, 동물, 바이러스 등에서 발견되는, 약 22개의 [뉴클레오타이드](../Page/뉴클레오타이드.md "wikilink")로 구성된 작은 비발현 RNA 분자로, RNA 침묵과 전사 이후의 유전자 발현 조절 등의 기능을 한다.\[1\]\[2\] 마이크로 RNA는 식물과 동물 등 진핵 생물의 핵에 있는 DNA와, 게놈이 DNA에 기초한 특정 바이러스에 있는 바이러스성 DNA에 의해 암호화되면서, mRNA 분자에 있는 상호보완적인 염기쌍을 통해 기능을 한다. 그 결과, 이 mRNA 분자들은 하나 이상의 다음 과정들에 의해 침묵된다.\[3\]
 
 1.  mRNA 가닥이 두 개의 조각으로 분리,
 2.  mRNA의 폴리 A꼬리의 축소를 통한 불안정화
@@ -20,6 +20,10 @@
 ## RNA-induced silencing complex
 
 miRNA는 RNA 발현의 억제에 관여한다. 이런 유전자 침묵은 miRNA가 mRNA를 퇴화시키거나 mRNA가 전사되는 것을 억제함으로써 이루어진다.
+
+## 함께보기
+
+  - [중합효소 연쇄 반응](../Page/중합효소_연쇄_반응.md "wikilink")
 
 ## 각주
 

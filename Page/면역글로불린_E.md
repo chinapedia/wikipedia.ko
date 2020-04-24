@@ -7,7 +7,7 @@
 
 IgE는 [제1형 과민증에도](https://ko.wikipedia.org/wiki/제1형_과민증 "wikilink") 중요한 역할을 한다.\[7\] 제1형 과민증이란 알레르기성 [천식](../Page/천식.md "wikilink"), 대부분의 [부비강염](../Page/부비강염.md "wikilink"), [알레르기 비염](../Page/알레르기_비염.md "wikilink"), 음식 알레르기, 몇몇 만성 [두드러기](https://ko.wikipedia.org/wiki/두드러기 "wikilink")와 [아토피 피부염](../Page/아토피_피부염.md "wikilink") 등 여러 알레르기성 질환을 말한다. 특정한 약물, 벌침, 탈민감 면역요법에 사용되는 항원 제제에 [과민](../Page/과민증.md "wikilink") 반응을 일으키는 알레르기 조건에서도 IgE가 기능을 한다.
 
-일반적으로 IgE는 [혈청](https://ko.wikipedia.org/wiki/혈청 "wikilink")에 가장 적은 동종형이다. 고전적인 [적응 면역반응에](https://ko.wikipedia.org/wiki/적응_면역반응 "wikilink") 관여하는 [IgG](https://ko.wikipedia.org/wiki/IgG "wikilink")의 경우 전체 면역글로불린의 75%를 차지하며 혈청 내 정상 농도는 10 mg/ml인 것에 반하여, IgE는 0.05%를 차지한다.\[8\] 하지만 IgE는 가장 강력한 염증 반응을 유도하는 능력이 있다.
+일반적으로 IgE는 [혈청](../Page/혈청.md "wikilink")에 가장 적은 동종형이다. 고전적인 [적응 면역반응에](https://ko.wikipedia.org/wiki/적응_면역반응 "wikilink") 관여하는 [IgG](https://ko.wikipedia.org/wiki/IgG "wikilink")의 경우 전체 면역글로불린의 75%를 차지하며 혈청 내 정상 농도는 10 mg/ml인 것에 반하여, IgE는 0.05%를 차지한다.\[8\] 하지만 IgE는 가장 강력한 염증 반응을 유도하는 능력이 있다.
 
 IgE는 1966년 [존스홉킨스](https://ko.wikipedia.org/wiki/존스홉킨스 "wikilink")의 로렌스 리히텐슈타인()\[9\]과 필립 노만()이 발견하였다.\[10\]
 

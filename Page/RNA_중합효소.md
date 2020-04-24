@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [RNA 중합효소](https://ko.wikipedia.org/wiki/RNA_중합효소).
 
 
-**RNA 중합효소**(RNAP 혹은 RNApol)는 **DNA 의존 RNA 중합효소**로도 불리며 [DNA](../Page/DNA.md "wikilink")로부터 [1차 전사물](https://ko.wikipedia.org/wiki/1차_전사물 "wikilink")([primary transcript](https://ko.wikipedia.org/wiki/:en:primary_transcript "wikilink")) [RNA](../Page/RNA.md "wikilink")를 합성하는 [효소](../Page/효소.md "wikilink")이다. RNA 중합효소는 DNA를 이용하여 RNA 사슬을 만드는 [전사과정에](../Page/전사_\(생물학\).md "wikilink") 필수적이므로 모든 생물과 많은 [바이러스](../Page/바이러스.md "wikilink")에 존재한다. 화학적으로 RNA 중합효소는 뉴클레오티딜 [전이효소](https://ko.wikipedia.org/wiki/전이효소 "wikilink")로 [뉴클레오타이드](../Page/뉴클레오타이드.md "wikilink")를 RNA 전사물의 3' 말단에 중합한다.
+**RNA 중합효소**(RNAP 혹은 RNApol)는 **DNA 의존 RNA 중합효소**로도 불리며 [DNA](../Page/DNA.md "wikilink")로부터 [1차 전사체](https://ko.wikipedia.org/wiki/1차_전사체 "wikilink")(primary transcript) [RNA](../Page/RNA.md "wikilink")를 합성하는 [효소](../Page/효소.md "wikilink")이다. RNA 중합효소는 DNA를 이용하여 RNA 사슬을 만드는 [전사과정에](../Page/전사_\(생물학\).md "wikilink") 필수적이므로 모든 생물과 많은 [바이러스](../Page/바이러스.md "wikilink")에 존재한다. 화학적으로 RNA 중합효소는 뉴클레오티딜 [전이효소](https://ko.wikipedia.org/wiki/전이효소 "wikilink")로 [뉴클레오타이드](../Page/뉴클레오타이드.md "wikilink")를 RNA 전사물의 3' 말단에 중합한다.
 
 ## 역사
 
@@ -51,7 +51,7 @@ RNA 중합효소는 [프로모터](https://ko.wikipedia.org/wiki/프로모터_\(
 
 17 bp 길이의 전사 복합체에는 8 bp DNA-RNA 이형이중가닥이 포함되어 있다. [리보뉴클레오타이드](https://ko.wikipedia.org/wiki/리보뉴클레오타이드 "wikilink")가 RNA 전사물의 3' 말단에 중합되고 RNA 중합효소는 DNA 가닥을 따라 움직인다. RNA 중합효소는 DNA 중합효소가 가지고 있는 3' [핵산 외부 가수분해 효소](https://ko.wikipedia.org/wiki/핵산_외부_가수분해_효소 "wikilink") 활성, 즉 교정() 활성을 가지고 있다.\[11\]
 
-RNA 중합효소의 [아스파르트산](https://ko.wikipedia.org/wiki/아스파르트산 "wikilink") 잔기는 Mg<sup>2+</sup> 이온과 결합하여 리보뉴클레오타이드의 인산기와 배위한다. 처음 Mg<sup>2+</sup>는 중합될 리보뉴클레오타이드(NTP)의 α-인산기에 결합하여 RNA 전사물 3' 말단의 -OH기가 친핵성 공격을 할 수 있게 한다. 두 번째 Mg<sup>2+</sup>는 NTP의 파이로인산에 결합한다. 전체 반응식은 다음과 같다.
+RNA 중합효소의 [아스파르트산](../Page/아스파르트산.md "wikilink") 잔기는 Mg<sup>2+</sup> 이온과 결합하여 리보뉴클레오타이드의 인산기와 배위한다. 처음 Mg<sup>2+</sup>는 중합될 리보뉴클레오타이드(NTP)의 α-인산기에 결합하여 RNA 전사물 3' 말단의 -OH기가 친핵성 공격을 할 수 있게 한다. 두 번째 Mg<sup>2+</sup>는 NTP의 파이로인산에 결합한다. 전체 반응식은 다음과 같다.
 
 (NMP)<sub>n</sub> + NTP --\> (NMP)<sub>n+1</sub> + PP<sub>i</sub>
 

@@ -49,8 +49,7 @@ The following lists users who are able to help you:
 22. [Triple.Rhu](https://ko.wikipedia.org/wiki/사:트리플루 "wikilink") ([Talk](https://ko.wikipedia.org/wiki/사토:트리플루 "wikilink")) **
 23. [Ykhwong](https://ko.wikipedia.org/wiki/사:Ykhwong "wikilink") ([Talk](https://ko.wikipedia.org/wiki/사토:Ykhwong "wikilink"))
 24. [Propheceer](https://ko.wikipedia.org/wiki/사:Propheceer "wikilink") ([Talk](https://ko.wikipedia.org/wiki/사토:Propheceer "wikilink"))
-25. [대기만성](https://ko.wikipedia.org/wiki/사:대기만성 "wikilink") ([Talk](https://ko.wikipedia.org/wiki/사토:대기만성 "wikilink"))
-26. [강남 학생](https://ko.wikipedia.org/wiki/사:강남_학생 "wikilink") ([토론](https://ko.wikipedia.org/wiki/사토:강남_학생 "wikilink"))
+25. [강남 학생](https://ko.wikipedia.org/wiki/사:강남_학생 "wikilink") ([Talk](https://ko.wikipedia.org/wiki/사토:강남_학생 "wikilink"))
 
 ### **Comment Section**
 

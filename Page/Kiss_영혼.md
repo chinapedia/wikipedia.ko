@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Kiss 영혼](https://ko.wikipedia.org/wiki/Kiss_영혼).
 
 
-〈**Kiss 영혼**〉()은, [Kis-My-Ft2](../Page/Kis-My-Ft2.md "wikilink")의 13번째 [싱글이다](../Page/싱글_\(음악\).md "wikilink").
+〈**Kiss 영혼**〉()은 [Kis-My-Ft2](../Page/Kis-My-Ft2.md "wikilink")의 13번째 [싱글이다](../Page/싱글_\(음악\).md "wikilink").
 
 ## 개요
 

@@ -257,7 +257,7 @@
 <tr class="odd">
 <td><p>20</p></td>
 <td><p>2014년 01월 17일</p></td>
-<td><p><a href="../Page/김형중.md" title="wikilink">김형중</a>, <a href="https://ko.wikipedia.org/wiki/김명훈_(가수)" title="wikilink">김명훈</a>, <a href="../Page/나비_(1986년).md" title="wikilink">나비</a>, <a href="../Page/혜이니.md" title="wikilink">혜이니</a>, <a href="../Page/이정_(가수).md" title="wikilink">이정</a></p></td>
+<td><p><a href="../Page/김형중.md" title="wikilink">김형중</a>, <a href="../Page/김명훈_(가수).md" title="wikilink">김명훈</a>, <a href="../Page/나비_(1986년).md" title="wikilink">나비</a>, <a href="../Page/혜이니.md" title="wikilink">혜이니</a>, <a href="../Page/이정_(가수).md" title="wikilink">이정</a></p></td>
 <td><p><a href="../Page/정수영_(배우).md" title="wikilink">정수영</a>, <a href="../Page/김인석.md" title="wikilink">김인석</a>, <a href="../Page/김현균.md" title="wikilink">김현균</a>, <a href="https://ko.wikipedia.org/wiki/박채원" title="wikilink">박채원</a>, <a href="../Page/나아람.md" title="wikilink">나아람</a></p></td>
 <td><p>가수군단</p></td>
 <td><p><a href="../Page/혜이니.md" title="wikilink">혜이니</a></p></td>

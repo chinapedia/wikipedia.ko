@@ -9,29 +9,33 @@
   - 역대 45%를 초과한 시청률은 <span style=color:red>빨간색</span>, 20% 미만의 시청률은 <span style=color:blue>파란색</span>
   - 간사이 시청률은 <span style=color:purple>**보라색**</span>
 
-### 1960년대
+### 2000년대 이전
 
-### 1970년대 초반
+#### 1960년대
 
-### 1970년대 후반
+#### 1970년대 초반
+
+#### 1970년대 후반
 
   - 1977년 작품 '가장 먼저 보이는 별'의 주인공인 '타카세 하루나'씨는 건강과 관련된 사정으로 인해 중도하차 함.
 
-### 1980년대 초반
+#### 1980년대 초반
 
-### 1980년대 후반
+#### 1980년대 후반
 
-### 1990년대 초반
+#### 1990년대 초반
 
-### 1990년대 후반
+#### 1990년대 후반
 
-### 2000년대 초반
+### 2000년대 이후
 
-### 2000년대 후반
+#### 2000년대 초반
 
-### 2010년대 초반
+#### 2000년대 후반
 
-### 2010년대 후반
+#### 2010년대 초반
+
+#### 2010년대 후반
 
 <table>
 <thead>
@@ -126,7 +130,7 @@
 </tr>
 <tr class="odd">
 <td><p>100</p></td>
-<td><p>《<a href="https://ko.wikipedia.org/wiki/여름_하늘" title="wikilink">여름 하늘</a>》(なつぞら)</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/나츠조라" title="wikilink">나츠조라</a>》(なつぞら)</p></td>
 <td><p>2019년 4월 1일 ~ 2019년 9월 28일</p></td>
 <td><p><a href="../Page/히로세_스즈.md" title="wikilink">히로세 스즈</a>(広瀬すず)</p></td>
 <td><p>오쿠하라 나츠(奥原なつ)</p></td>
@@ -136,8 +140,7 @@
 <tr class="even">
 <td><p>101</p></td>
 <td><p>《<a href="https://ko.wikipedia.org/wiki/스칼릿_(드라마)" title="wikilink">스칼릿</a>》(スカーレット)</p></td>
-<td><p>2019년 9월 30일 ~ 2020년 3월 28일<br />
-(예정)</p></td>
+<td><p>2019년 9월 30일 ~ 2020년 3월 28일</p></td>
 <td><p><a href="../Page/토다_에리카.md" title="wikilink">토다 에리카</a>(戸田恵梨香)</p></td>
 <td><p>카와하라 키미코(川原喜美子)</p></td>
 <td></td>
@@ -146,7 +149,7 @@
 </tbody>
 </table>
 
-### 2020년대 초반
+#### 2020년대 초반
 
 <table>
 <thead>
@@ -165,7 +168,7 @@
 <td><p>102</p></td>
 <td><p>《<a href="https://ko.wikipedia.org/wiki/옐_(드라마)" title="wikilink">옐</a>》(エール)</p></td>
 <td><p>2020년 3월 30일 ~ 2020년 9월 25일<br />
-(예정)</p></td>
+(진행 중)</p></td>
 <td><p><a href="../Page/쿠보타_마사타카.md" title="wikilink">쿠보타 마사타카</a>(窪田正孝)<br />
 <a href="../Page/니카이도_후미.md" title="wikilink">니카이도 후미</a>(二階堂ふみ)</p></td>
 <td><p>후루야마 유우이치(古山裕一)<br />

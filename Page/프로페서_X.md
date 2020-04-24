@@ -7,7 +7,7 @@
 
 ## 담당 배우
 
-제임스 맥어보이
+[제임스 맥어보이](https://ko.wikipedia.org/wiki/제임스_맥어보이 "wikilink")
 
 ### 영화
 

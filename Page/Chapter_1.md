@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Chapter 1](https://ko.wikipedia.org/wiki/Chapter_1).
 
 
-《**Chapter 1**》(챕터 원)은, [나카야마 유마의](../Page/나카야마_유마.md "wikilink") 1번째 [정규 음반이다](../Page/정규_음반.md "wikilink").
+《**Chapter 1**》(챕터 원)은 [나카야마 유마의](../Page/나카야마_유마.md "wikilink") 1번째 [정규 음반이다](../Page/정규_음반.md "wikilink").
 
 ## 개요
 

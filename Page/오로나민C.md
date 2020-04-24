@@ -55,6 +55,7 @@
 
   - 컨피던스
   - [포카리 스웨트](../Page/포카리_스웨트.md "wikilink")
+  - [리얼골드](https://ko.wikipedia.org/wiki/리얼골드 "wikilink")
 
 [분류:에너지 음료](https://ko.wikipedia.org/wiki/분류:에너지_음료 "wikilink") [분류:1965년 도입](https://ko.wikipedia.org/wiki/분류:1965년_도입 "wikilink") [분류:일본의 음료](https://ko.wikipedia.org/wiki/분류:일본의_음료 "wikilink")
 

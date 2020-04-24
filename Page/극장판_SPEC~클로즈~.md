@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [극장판 SPEC\~클로즈\~](https://ko.wikipedia.org/wiki/극장판_SPEC\~클로즈\~).
 
 
-《**극장판 SPEC\~클로즈\~**》()는, [2013년](../Page/2013년.md "wikilink") [11월](../Page/11월.md "wikilink")에 [일본](../Page/일본.md "wikilink")에서 개봉된 [일본 영화이다](../Page/일본의_영화.md "wikilink"). 《**전편()**》·《**후편()**》으로, 전편은 [11월 1일](../Page/11월_1일.md "wikilink"), 후편은 [11월 29일에](../Page/11월_29일.md "wikilink") 개봉되었다. [TBS의](../Page/도쿄_방송_홀딩스.md "wikilink") [텔레비전 드라마](https://ko.wikipedia.org/wiki/일본_드라마 "wikilink") 《[SPEC\~경시청 공안부 공안 제5과 미상 사건 특별 대책계 사건부\~](../Page/SPEC~경시청_공안부_공안_제5과_미상_사건_특별_대책계_사건부~.md "wikilink")》의 극장판으로, 전작의 영화로 흥행 수입 23.9억 엔을 기록한 《[극장판 SPEC\~천\~](../Page/극장판_SPEC~천~.md "wikilink")》에 계속되는 작품이며, 시리즈의 완결편이다.
+《**극장판 SPEC\~클로즈\~**》()는 [2013년](../Page/2013년.md "wikilink") [11월](../Page/11월.md "wikilink")에 [일본](../Page/일본.md "wikilink")에서 개봉된 [일본 영화이다](../Page/일본의_영화.md "wikilink"). 《**전편()**》·《**후편()**》으로, 전편은 [11월 1일](../Page/11월_1일.md "wikilink"), 후편은 [11월 29일에](../Page/11월_29일.md "wikilink") 개봉되었다. [TBS의](../Page/도쿄_방송_홀딩스.md "wikilink") [텔레비전 드라마](https://ko.wikipedia.org/wiki/일본_드라마 "wikilink") 《[SPEC\~경시청 공안부 공안 제5과 미상 사건 특별 대책계 사건부\~](../Page/SPEC~경시청_공안부_공안_제5과_미상_사건_특별_대책계_사건부~.md "wikilink")》의 극장판으로, 전작의 영화로 흥행 수입 23.9억 엔을 기록한 《[극장판 SPEC\~천\~](../Page/극장판_SPEC~천~.md "wikilink")》에 계속되는 작품이며, 시리즈의 완결편이다.
 
 개봉 전 [10월 23일에는](../Page/10월_23일.md "wikilink"), SPEC 시리즈의 스핀오프 작품 《[SPEC\~제로\~](https://ko.wikipedia.org/wiki/SPEC~제로~#텔레비전_드라마 "wikilink")》가 스페셜 드라마로 방송되었다.
 

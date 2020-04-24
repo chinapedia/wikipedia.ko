@@ -8,6 +8,6 @@
 ## 외부 링크
 
   -
-[분류:백조자리](https://ko.wikipedia.org/wiki/분류:백조자리 "wikilink") [분류:O형 초거성](https://ko.wikipedia.org/wiki/분류:O형_초거성 "wikilink") [분류:O형 거성](https://ko.wikipedia.org/wiki/분류:O형_거성 "wikilink") [분류:분광쌍성](https://ko.wikipedia.org/wiki/분류:분광쌍성 "wikilink") [분류:히파르코스 천체](https://ko.wikipedia.org/wiki/분류:히파르코스_천체 "wikilink")
+[분류:백조자리](https://ko.wikipedia.org/wiki/분류:백조자리 "wikilink") [분류:O형 초거성](https://ko.wikipedia.org/wiki/분류:O형_초거성 "wikilink") [분류:O형 거성](https://ko.wikipedia.org/wiki/분류:O형_거성 "wikilink") [분류:분광쌍성](https://ko.wikipedia.org/wiki/분류:분광쌍성 "wikilink") [분류:히파르코스 천체](https://ko.wikipedia.org/wiki/분류:히파르코스_천체 "wikilink") [분류:2MASS 천체](https://ko.wikipedia.org/wiki/분류:2MASS_천체 "wikilink")
 
 1.

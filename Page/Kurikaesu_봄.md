@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Kurikaesu 봄](https://ko.wikipedia.org/wiki/Kurikaesu_봄).
 
 
-〈**Kurikaesu<small>(되풀이하는)</small> 봄**〉()은, [도모토 쯔요시가](../Page/도모토_츠요시.md "wikilink") [244 ENDLI-x로서](../Page/도모토_츠요시.md "wikilink") 발매한 싱글로, 도모토 쯔요시의 통산 6번째 [싱글이다](../Page/싱글_\(음악\).md "wikilink").
+〈**Kurikaesu<small>(되풀이하는)</small> 봄**〉()은 [도모토 쯔요시가](../Page/도모토_츠요시.md "wikilink") [244 ENDLI-x로서](../Page/도모토_츠요시.md "wikilink") 발매한 싱글로, 도모토 쯔요시의 통산 6번째 [싱글이다](../Page/싱글_\(음악\).md "wikilink").
 
 ## 개요
 

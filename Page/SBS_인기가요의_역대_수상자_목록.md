@@ -1841,9 +1841,9 @@
 
   - 1월 3일 (845회) - [터보](../Page/터보_\(음악_그룹\).md "wikilink") 다시
   - 1월 10일 (846회) - [개리](https://ko.wikipedia.org/wiki/개리_\(가수\) "wikilink") 또 하루
-  - 1월 17일 (847회) - [수지](https://ko.wikipedia.org/wiki/수지_\(1994년\) "wikilink")·[백현](https://ko.wikipedia.org/wiki/백현_\(가수\) "wikilink") Dream
-  - 1월 24일 (848회) - [수지](https://ko.wikipedia.org/wiki/수지_\(1994년\) "wikilink")·[백현](https://ko.wikipedia.org/wiki/백현_\(가수\) "wikilink") Dream (2주 연속)\[90\]
-  - 1월 31일 (849회) - **[수지](https://ko.wikipedia.org/wiki/수지_\(1994년\) "wikilink")·[백현](https://ko.wikipedia.org/wiki/백현_\(가수\) "wikilink") Dream (3주 연속)**
+  - 1월 17일 (847회) - [수지](../Page/수지_\(1994년\).md "wikilink")·[백현](https://ko.wikipedia.org/wiki/백현_\(가수\) "wikilink") Dream
+  - 1월 24일 (848회) - [수지](../Page/수지_\(1994년\).md "wikilink")·[백현](https://ko.wikipedia.org/wiki/백현_\(가수\) "wikilink") Dream (2주 연속)\[90\]
+  - 1월 31일 (849회) - **[수지](../Page/수지_\(1994년\).md "wikilink")·[백현](https://ko.wikipedia.org/wiki/백현_\(가수\) "wikilink") Dream (3주 연속)**
 
 **2월**
 
@@ -2222,9 +2222,9 @@
 
 **4월**
 
-  - 4월 5일 (1041회) -
-  - 4월 12일 (1042회) -
-  - 4월 19일 (1043회) -
+  - 4월 5일 (1041회) - **[ITZY](../Page/ITZY.md "wikilink") WANNABE (3주 연속)**
+  - 4월 12일 (1042회) - [수호](../Page/수호_\(가수\).md "wikilink") 사랑, 하자
+  - 4월 19일 (1043회) - [(여자)아이들](../Page/\(여자\)아이들.md "wikilink") Oh my god
   - 4월 26일 (1044회) -
 
 ## 인기가요 CHART 트리플 크라운 Top Artist
@@ -2283,11 +2283,14 @@
       - 40대: [레드벨벳](../Page/레드벨벳_\(음악_그룹\).md "wikilink") Psycho (2020.01.19)
       - 41대: [지코](../Page/지코.md "wikilink") 아무노래 (2020.02.09)
       - 42대: [방탄소년단](../Page/방탄소년단.md "wikilink") ON (2020.03.15)\[138\]
-      - 43대: **미 정**
+      - 43대: [ITZY](../Page/ITZY.md "wikilink") WANNABE (2020.04.05)\[139\]
       - 44대: **미 정**
       - 45대: **미 정**
       - 46대: **미 정**
       - 47대: **미 정**
+      - 48대: **미 정**
+      - 49대: **미 정**
+      - 50대: **미 정**
 
 ## 같이 보기
 
@@ -2327,7 +2330,7 @@
 24. 2010 [드림콘서트](../Page/드림콘서트.md "wikilink") 특집 편성.
 25. 2010 남아공월드컵 특집다큐 - "붉은악마 다시 심장이 뛴다" 대체 편성.
 26. 2010 한류 드림콘서트 특집 편성.
-27. 2010 마구마구 프로야구 플레이오프 3차전 [두산 베어스](../Page/두산_베어스.md "wikilink"):[삼성 라이온즈](https://ko.wikipedia.org/wiki/삼성_라이온즈 "wikilink") 중계방송으로 인한 결방.
+27. 2010 마구마구 프로야구 플레이오프 3차전 [두산 베어스](../Page/두산_베어스.md "wikilink"):[삼성 라이온즈](../Page/삼성_라이온즈.md "wikilink") 중계방송으로 인한 결방.
 28. 2010 [사랑 나눔 콘서트](../Page/사랑_나눔_콘서트.md "wikilink") 특집 편성 및 대체 방송의 회차 합산으로 인한 SBS 측의 회차 집계 오류.
 29. 신년특집 서울-도쿄 뮤직페스티벌 대체 편성.
 30. 〈[SMTOWN Live '10 World Tour](../Page/SMTOWN_Live_'10_World_Tour.md "wikilink")〉 일본 공연 참석 차 불참.
@@ -2439,3 +2442,4 @@
 136.
 137.
 138.
+139.

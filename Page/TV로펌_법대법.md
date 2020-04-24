@@ -22,7 +22,7 @@
   - [양소영](https://ko.wikipedia.org/wiki/양소영 "wikilink")
   - [박지훈](https://ko.wikipedia.org/wiki/박지훈 "wikilink")
   - [이인철](https://ko.wikipedia.org/wiki/이인철 "wikilink")
-  - [장진영](https://ko.wikipedia.org/wiki/장진영_\(1971년\) "wikilink")
+  - [장진영](../Page/장진영_\(1971년\).md "wikilink")
   - [임방글](https://ko.wikipedia.org/wiki/임방글 "wikilink")
   - [정경준](https://ko.wikipedia.org/wiki/정경준 "wikilink")
   - [오수진](https://ko.wikipedia.org/wiki/오수진_\(1986년_10월\) "wikilink") : 2015.1.10 \~ 3.28

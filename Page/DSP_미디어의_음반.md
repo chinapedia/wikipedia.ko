@@ -158,6 +158,10 @@
   - 2012년 11월 30일 카라 - **[Kara Solo Collection](https://ko.wikipedia.org/wiki/Kara_Solo_Collection "wikilink")**
   - 2013년 1월 30일 퓨리티 - **\[Japan Digital Single\] 슈와슈와BABY**
   - 2013년 2월 13일 레인보우 - **Rainbow Syndrome**
+  - 2013년 3월 27일 카라 - '''\[Japan Digital Single\] \[\[바이 바이 해피 데이즈\!|バイバイ ハッピーデイズ\!
+
+\]\]'''
+
   - 2013년 5월 10일 박규리 - **네일샵 파리스 OST Part.1**
   - 2013년 6월 4일 레인보우 - **Rainbow Syndrome Part.2**
   - 2013년 7월 11일 에이젝스 - **[Insane](https://ko.wikipedia.org/wiki/Insane_\(EP\) "wikilink")**
@@ -258,8 +262,9 @@
 
   - 2020년 1월 20일 이진솔 - **\[Digital Single\] 이대로**\[31\]
   - 2020년 2월 12일 카드 - *' [RED MOON](https://ko.wikipedia.org/wiki/RED_MOON_\(카드의_EP\) "wikilink")*'
-  - 2020년 3월 1일 이나은,이진솔 - **\[Digital Single\] 나은&진솔 X 김형석 사계**
+  - 2020년 3월 1일 이나은, 이진솔 - **\[Digital Single\] [나은&진솔 X 김형석 사계](https://ko.wikipedia.org/wiki/시간차 "wikilink")**
   - 2020년 4월 2일 이진솔 - **어서와 OST Part.5**
+  - 2020년 4월 22일 에이프릴 - **[Da Capo](https://ko.wikipedia.org/wiki/Da_Capo_\(에이프릴의_EP\) "wikilink")**
 
 ## 각주
 
@@ -292,7 +297,7 @@
 25. [트로이의](../Page/트로이_\(음악_그룹\).md "wikilink") 멤버 [칸토](https://ko.wikipedia.org/wiki/칸토 "wikilink"), [임팩트](../Page/임팩트_\(음악_그룹\).md "wikilink") 외 55명도 앨범 참여.
 26. [JOO](https://ko.wikipedia.org/wiki/주_\(가수\) "wikilink"), [굿데이](../Page/굿데이_\(음악_그룹\).md "wikilink") 외 51명도 앨범 참여.
 27. [자이언트 핑크](https://ko.wikipedia.org/wiki/자이언트_핑크 "wikilink"),[트로이의](../Page/트로이_\(음악_그룹\).md "wikilink") 멤버 [칸토](https://ko.wikipedia.org/wiki/칸토 "wikilink"),[위너와](../Page/위너_\(음악_그룹\).md "wikilink") [사우스클럽](../Page/사우스클럽.md "wikilink")의 멤버 [남태현](../Page/남태현.md "wikilink")도 앨범 참여.
-28. [빅톤의](../Page/빅톤_\(음악_그룹\).md "wikilink") 두 멤버 [한승우](https://ko.wikipedia.org/wiki/한승우_\(가수\) "wikilink"),[최병찬](https://ko.wikipedia.org/wiki/최병찬 "wikilink"),[유니크의](../Page/유니크_\(음악_그룹\).md "wikilink") 멤버 [조승연](https://ko.wikipedia.org/wiki/조승연_\(가수\) "wikilink") 외 95명도 앨범 참여.
+28. [빅톤의](../Page/빅톤_\(음악_그룹\).md "wikilink") 두 멤버 [한승우](../Page/한승우_\(가수\).md "wikilink"),[최병찬](https://ko.wikipedia.org/wiki/최병찬 "wikilink"),[유니크의](../Page/유니크_\(음악_그룹\).md "wikilink") 멤버 [조승연](https://ko.wikipedia.org/wiki/조승연_\(가수\) "wikilink") 외 95명도 앨범 참여.
 29. [매드타운](../Page/매드타운.md "wikilink")의 멤버 [대원도](../Page/대원_\(가수\).md "wikilink") 앨범 참여.
 30. [보이스퍼](../Page/보이스퍼.md "wikilink")도 앨범 참여.
 31. 차우도 앨범 참여.

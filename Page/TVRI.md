@@ -3,7 +3,7 @@
 
 **TVRI**()은 [인도네시아](../Page/인도네시아.md "wikilink")의 [공영](../Page/공영_방송.md "wikilink") [텔레비전 방송국으로](https://ko.wikipedia.org/wiki/텔레비전_방송국 "wikilink"), 인도네시아에서 가장 오래된 텔레비전 네트워크이다. 본사는 [중앙 자카르타의](https://ko.wikipedia.org/wiki/중앙_자카르타 "wikilink") [세나얀](https://ko.wikipedia.org/wiki/세나얀 "wikilink")에 있다.\[1\]
 
-TVRI는 1989년 인도네시아 최초의 민영 텔레비전 방송국인 [RCTI](../Page/RCTI.md "wikilink")가 개국할 때 까지 인도네시아의 텔레비전 방송을 독점하였다.
+TVRI는 1989년 인도네시아 최초의 민영 텔레비전 방송국인 [RCTI](../Page/RCTI.md "wikilink")가 개국할 때까지 인도네시아의 텔레비전 방송을 독점하였다.
 
 ## 역사
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [HOPE \~기대 제로의 신입사원\~](https://ko.wikipedia.org/wiki/HOPE_\~기대_제로의_신입사원\~).
 
 
-《**HOPE \~기대 제로의 신입사원\~**》()은, [2016년](../Page/2016년.md "wikilink") [7월 17일부터](../Page/7월_17일.md "wikilink") [9월 18일까지](../Page/9월_18일.md "wikilink") 매주 [일요일](../Page/일요일.md "wikilink") 21:00 \~ 21:54에 [후지 TV](../Page/후지_TV.md "wikilink") [계열에서](../Page/후지_네트워크.md "wikilink") 방송된 [텔레비전 드라마이다](https://ko.wikipedia.org/wiki/일본_드라마 "wikilink"). 주연은 [나카지마 유토](../Page/나카지마_유토.md "wikilink").
+《**HOPE \~기대 제로의 신입사원\~**》()은 [2016년](../Page/2016년.md "wikilink") [7월 17일부터](../Page/7월_17일.md "wikilink") [9월 18일까지](../Page/9월_18일.md "wikilink") 매주 [일요일](../Page/일요일.md "wikilink") 21:00 \~ 21:54에 [후지 TV](../Page/후지_TV.md "wikilink") [계열에서](../Page/후지_네트워크.md "wikilink") 방송된 [텔레비전 드라마이다](https://ko.wikipedia.org/wiki/일본_드라마 "wikilink"). 주연은 [나카지마 유토](../Page/나카지마_유토.md "wikilink").
 
 ## 개요
 
@@ -18,7 +18,7 @@
 
 ## 스태프
 
-  - 원작 - 제작 [CJ E\&M](../Page/CJ_E&M.md "wikilink")·각본 정윤정·연출 김원석 《[미생](../Page/미생_\(드라마\).md "wikilink")》 (드라마) 및 [윤태호](https://ko.wikipedia.org/wiki/윤태호 "wikilink") 〈[미생](../Page/미생_\(만화\).md "wikilink")〉 (웹툰)
+  - 원작 - 제작 [CJ E\&M](../Page/CJ_E&M.md "wikilink")·각본 정윤정·연출 김원석 《[미생](../Page/미생_\(드라마\).md "wikilink")》 (드라마) 및 [윤태호](../Page/윤태호.md "wikilink") 〈[미생](../Page/미생_\(만화\).md "wikilink")〉 (웹툰)
   - 각본 - 토쿠나가 유이치
   - 음악 - 마나베 아키히로, MAYUKO
   - 주제가 - [스피츠](../Page/스피츠_\(밴드\).md "wikilink") 〈코멧〉 ([유니버설 J](https://ko.wikipedia.org/wiki/유니버설_뮤직_\(일본\) "wikilink"))

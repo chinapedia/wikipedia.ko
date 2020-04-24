@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ELLY](https://ko.wikipedia.org/wiki/ELLY).
 
 
-**ELLY**(엘리, [1987년](../Page/1987년.md "wikilink") [9월 21일](../Page/9월_21일.md "wikilink") \~ )는, [일본](../Page/일본.md "wikilink")의 댄서이며, [3대째 J Soul Brothers의](../Page/J_Soul_Brothers.md "wikilink") 멤버이다.
+**ELLY**(엘리, [1987년](../Page/1987년.md "wikilink") [9월 21일](../Page/9월_21일.md "wikilink") \~ )는 [일본](../Page/일본.md "wikilink")의 댄서이며, [3대째 J Soul Brothers의](../Page/J_Soul_Brothers.md "wikilink") 멤버이다.
 
 [아오모리현](../Page/아오모리현.md "wikilink") [미사와 시](https://ko.wikipedia.org/wiki/미사와_시 "wikilink") 출신. [LDH](https://ko.wikipedia.org/wiki/LDH "wikilink") 소속.
 

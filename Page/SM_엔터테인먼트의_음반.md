@@ -1116,8 +1116,12 @@
   - 2020년 3월 16일 규현 - **날씨가 좋으면 찾아가겠어요 OST Part.3**
   - 2020년 3월 20일 조이 - **슬기로운 의사생활 OST Part.2**
   - 2020년 3월 30일 수호 - **자화상**
+  - 2020년 4월 3일 규현 - **슬기로운 의사생활 OST Part.4**
   - 2020년 4월 6일 최강창민 - **Chocolate**
-  - 2020년 ?월 ?일 태연 - **\[Digital Single\] Happy**
+  - 2020년 4월 21일 EXO - **EXO PLANET \#5 –EXplOration– Live Album**
+  - 2020년 4월 29일 NCT DREAM - **Reload**
+  - 2020년 5월 ?일 NCT 127 - **미정**
+  - 2020년 ?월 ?일 태연 - **Happy**
 
 ## 각주
 
@@ -1163,7 +1167,7 @@
 38. [엠블랙](../Page/엠블랙.md "wikilink"), [언터쳐블](../Page/언터쳐블_\(음악_그룹\).md "wikilink"), [AOA도](../Page/AOA_\(음악_그룹\).md "wikilink") 앨범 참여.
 39. [정승환도](https://ko.wikipedia.org/wiki/정승환_\(가수\) "wikilink") 앨범 참여.
 40. [마마무](../Page/마마무.md "wikilink")의 멤버 [솔라](../Page/솔라_\(가수\).md "wikilink"), [문별](../Page/문별.md "wikilink")도 앨범 참여.
-41. [미쓰에이](../Page/미쓰에이.md "wikilink")의 멤버 [수지도](https://ko.wikipedia.org/wiki/수지_\(1994년\) "wikilink") 앨범 참여.
+41. [미쓰에이](../Page/미쓰에이.md "wikilink")의 멤버 [수지도](../Page/수지_\(1994년\).md "wikilink") 앨범 참여.
 42. [애프터스쿨](../Page/애프터스쿨.md "wikilink")의 멤버 [레이나와](../Page/레이나_\(가수\).md "wikilink") [리지도](../Page/박수아.md "wikilink") 앨범 참여.
 43. 펀치도 앨범 참여.
 44. [에릭 남도](../Page/에릭_남.md "wikilink") 앨범 참여.

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [White \(NEWS의 음반\)](https://ko.wikipedia.org/wiki/White_\(NEWS의_음반\)).
 
 
-《**White**》(화이트)는, [NEWS](https://ko.wikipedia.org/wiki/NEWS "wikilink")의 6번째 [정규 음반이다](../Page/정규_음반.md "wikilink").
+《**White**》(화이트)는 [NEWS](https://ko.wikipedia.org/wiki/NEWS "wikilink")의 6번째 [정규 음반이다](../Page/정규_음반.md "wikilink").
 
 ## 개요
 

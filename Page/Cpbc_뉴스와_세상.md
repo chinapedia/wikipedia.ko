@@ -23,4 +23,4 @@
 
   - [cpbc 뉴스와 세상 공식 홈페이지](http://www.cpbc.co.kr/RADIO/795/)
 
-[분류:가톨릭평화방송의 라디오 프로그램](https://ko.wikipedia.org/wiki/분류:가톨릭평화방송의_라디오_프로그램 "wikilink")
+[분류:가톨릭평화방송의 라디오 프로그램](https://ko.wikipedia.org/wiki/분류:가톨릭평화방송의_라디오_프로그램 "wikilink") [분류:대한민국의 뉴스 라디오 프로그램](https://ko.wikipedia.org/wiki/분류:대한민국의_뉴스_라디오_프로그램 "wikilink")

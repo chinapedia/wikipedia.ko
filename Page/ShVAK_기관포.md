@@ -94,7 +94,7 @@ ShVAK의 탄약은 파편-소이탄*fragmentation-incendiary*과 장갑-관통(�
 
   - [20mm TNSh Tank Gun](https://web.archive.org/web/20110716155910/http://battlefield.ru/index.php?option=com_content&task=view&id=104&Itemid=49&lang=en) at battlefield.ru
   - [THE RUSSIAN AMMUNITION PAGE - 20MM TO 25MM](http://russianammo.org/Russian_Ammunition_Page_25mm.html)
-  - <http://www.municion.org/20mm/20x99R.htm>
+  - <https://web.archive.org/web/20140514140322/http://www.municion.org/20mm/20x99R.htm>
 
 [분류:소련의 화기‎](https://ko.wikipedia.org/wiki/분류:소련의_화기‎ "wikilink") [분류:기관포](https://ko.wikipedia.org/wiki/분류:기관포 "wikilink")
 

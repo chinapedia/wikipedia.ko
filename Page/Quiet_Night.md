@@ -54,7 +54,6 @@
   -
   - [소격동 (DIRECTOR'S CUT) 뮤직비디오](https://www.youtube.com/watch?v=E5eA-G7Ib3s)
 
-  -
 [분류:2014년 음반](https://ko.wikipedia.org/wiki/분류:2014년_음반 "wikilink") [분류:서태지의 음반](https://ko.wikipedia.org/wiki/분류:서태지의_음반 "wikilink") [분류:록 음반](https://ko.wikipedia.org/wiki/분류:록_음반 "wikilink") [분류:전자 음악 음반](https://ko.wikipedia.org/wiki/분류:전자_음악_음반 "wikilink") [분류:일렉트로니카 음반](https://ko.wikipedia.org/wiki/분류:일렉트로니카_음반 "wikilink") [분류:대한민국의 음반](https://ko.wikipedia.org/wiki/분류:대한민국의_음반 "wikilink") [분류:한국어 음반](https://ko.wikipedia.org/wiki/분류:한국어_음반 "wikilink")
 
 1.

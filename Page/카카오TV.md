@@ -8,6 +8,8 @@
 ## 같이 보기
 
   - [인터넷 방송인](https://ko.wikipedia.org/wiki/인터넷_방송인 "wikilink")
+  - [네이버TV](../Page/네이버TV.md "wikilink")
+  - [유튜브](../Page/유튜브.md "wikilink")
 
 ## 각주
 

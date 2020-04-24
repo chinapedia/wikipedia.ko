@@ -18,8 +18,8 @@ if ( mw.config.get( 'wgNamespaceNumber', 0 ) \>= 0 ) {
 `       mw.hook( 'wikipage.content' ).add( function ( $content ) {`
 `           var uploadBaseRe = /^(https:)?\/\/upload\.wikimedia\.org\/wikipedia\/commons/,`
 `               localFileNSString = mw.config.get( 'wgFormattedNamespaces' )['6'] + ':',`
-`               localBasePath = new RegExp( '^' + mw.RegExp.escape( mw.util.getUrl( localFileNSString ) ) ),`
-`               localBaseScript = new RegExp( '^' + mw.RegExp.escape(`
+`               localBasePath = new RegExp( '^' + mw.util.escapeRegExp( mw.util.getUrl( localFileNSString ) ) ),`
+`               localBaseScript = new RegExp( '^' + mw.util.escapeRegExp(`
 `                   mw.util.wikiScript() + '?title=' + mw.util.wikiUrlencode( localFileNSString )`
 `               ) ),`
 `               commonsBasePath = '`<https://commons.wikimedia.org/wiki/File>`:',`

@@ -37,7 +37,7 @@
   - [MBC 정오종합뉴스](../Page/MBC_정오종합뉴스.md "wikilink") ([MBC 표준FM](../Page/MBC_표준FM.md "wikilink"))
   - [cpbc 정오종합뉴스](https://ko.wikipedia.org/wiki/cpbc_정오종합뉴스 "wikilink") (평일) ([cpbc 가톨릭평화방송](../Page/가톨릭평화방송.md "wikilink"))
   - [BBS 정오종합뉴스](https://ko.wikipedia.org/wiki/BBS_정오종합뉴스 "wikilink") (평일) ([BBS 불교방송](../Page/불교방송.md "wikilink"))
-  - 경인방송 정오뉴스 (평일) ([경인방송](../Page/경인방송.md "wikilink"))
-  - [TBS 정오종합뉴스](https://ko.wikipedia.org/wiki/TBS_정오종합뉴스 "wikilink") ([TBS 교통방송](https://ko.wikipedia.org/wiki/TBS_\(대한민국의_방송사\) "wikilink"))
+  - [경인방송 정오종합뉴스](https://ko.wikipedia.org/wiki/경인방송_정오종합뉴스 "wikilink") (평일) ([경인방송](../Page/경인방송.md "wikilink"))
+  - [TBS 정오종합뉴스](https://ko.wikipedia.org/wiki/TBS_정오종합뉴스 "wikilink") ([TBS 교통방송](../Page/TBS_\(대한민국의_방송사\).md "wikilink"))
 
 [분류:한국방송공사의 뉴스 라디오 프로그램](https://ko.wikipedia.org/wiki/분류:한국방송공사의_뉴스_라디오_프로그램 "wikilink")

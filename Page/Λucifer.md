@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Λucifer](https://ko.wikipedia.org/wiki/Λucifer).
 
 
-**Λucifer**(루시퍼,リュシフェル)는 일본의 [비주얼계](../Page/비주얼계.md "wikilink") 록 밴드이다. [신조 마유의](https://ko.wikipedia.org/wiki/신조_마유 "wikilink") [소녀 만화](../Page/소녀_만화.md "wikilink")「[두근두근 프레이즈](https://ko.wikipedia.org/wiki/:ja:快感・フレーズ "wikilink")」을 TV 애니메이션화 한 「KAIKAN 프레이즈」에서 파생 된 형태로 밴드 결성되었다.\[1\] 회원의 이름은 물론, 만화 캐릭터와 동일합니다. 보컬의 MAKOTO가 본명을 자칭하고 있지만, 처음 몇 달간은 "SAKUYA"의 이름이었다. "애니메이션의 가상의 밴드가 현실 세계에 데뷔했다"고 주목된다. 1999 년 9 월 싱글 '타락 천사 BLUE'로 데뷔했다. 밴드의 음악 제작과 [프로듀스를](../Page/음악_프로듀서.md "wikilink") 담당하고있는 주요 인물, 그것은 일본에서 폭발적인 인기를 자랑 한 것으로 알려져있는 밴드이다 [쥬디 앤 마리의](https://ko.wikipedia.org/wiki/쥬디_앤_마리 "wikilink") 기타리스트였던 타쿠야이다.\[2\] 그 후에도, 하드 록과 얼터너티브 록의 에센스를 응축 한 싱글과 앨범을 꾸준히 발표했다. 그러나 2003 년 1 월에 해산했다. 해체 후 멤버 각자가 솔로 활동, [스튜디오 뮤지션](https://ko.wikipedia.org/wiki/세션_연주자 "wikilink") 백 밴드로 활약하고 있었다. 2010 년과 2012 년은 짧은 기간이지만 밴드가 부활을 완수하고있다.
+**Λucifer**(루시퍼,リュシフェル)는 일본의 [비주얼계](../Page/비주얼계.md "wikilink") 록 밴드이다. [신조 마유의](https://ko.wikipedia.org/wiki/신조_마유 "wikilink") [소녀 만화](../Page/소녀_만화.md "wikilink")「[두근두근 프레이즈](https://ko.wikipedia.org/wiki/:ja:快感・フレーズ "wikilink")」을 TV 애니메이션화 한 「KAIKAN 프레이즈」에서 파생 된 형태로 밴드 결성되었다.\[1\] 회원의 이름은 물론, 만화 캐릭터와 동일합니다. 보컬의 MAKOTO가 본명을 자칭하고 있지만, 처음 몇 달간은 "SAKUYA"의 이름이었다. "애니메이션의 가상의 밴드가 현실 세계에 데뷔했다"고 주목된다. 1999년 9월 싱글 '타락 천사 BLUE'로 데뷔했다. 밴드의 음악 제작과 [프로듀스를](../Page/음악_프로듀서.md "wikilink") 담당하고있는 주요 인물, 그것은 일본에서 폭발적인 인기를 자랑 한 것으로 알려져있는 밴드이다 [쥬디 앤 마리의](https://ko.wikipedia.org/wiki/쥬디_앤_마리 "wikilink") 기타리스트였던 타쿠야이다.\[2\] 그 후에도, 하드 록과 얼터너티브 록의 에센스를 응축 한 싱글과 앨범을 꾸준히 발표했다. 그러나 2003년 1월에 해산했다. 해체 후 멤버 각자가 솔로 활동, [스튜디오 뮤지션](https://ko.wikipedia.org/wiki/세션_연주자 "wikilink") 백 밴드로 활약하고 있었다. 2010 년과 2012 년은 짧은 기간이지만 밴드가 부활을 완수하고있다.
 
 ## 멤버
 

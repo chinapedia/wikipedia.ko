@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [THE VOC@LOiD M@STER](https://ko.wikipedia.org/wiki/THE_VOC@LOiD_M@STER).
 
 
-**THE VOC@LOiD M@STER**(, 더 보컬로이드 마스터) 는 캐트콤이 주최하는 도쿄를 중심으로 개최되는 [보컬로이드](../Page/보컬로이드.md "wikilink") 중심 [동인지 즉매회이다](../Page/동인지_즉매회.md "wikilink").
+**THE VOC@LOiD M@STER**(, 더 보컬로이드 마스터)는 캐트콤이 주최하는 도쿄를 중심으로 개최되는 [보컬로이드](../Page/보컬로이드.md "wikilink") 중심 [동인지 즉매회이다](../Page/동인지_즉매회.md "wikilink").
 
 ## 개요
 

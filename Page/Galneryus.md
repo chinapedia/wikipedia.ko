@@ -354,6 +354,33 @@ VPCC-81813</p></td>
 　<u>V. The Living And The Dead</u></p></td>
 <td><p>13</p></td>
 </tr>
+<tr class="odd">
+<td><p>12th</p></td>
+<td><p>INTO THE PURGATORY</p></td>
+<td><p><a href="../Page/2019년.md" title="wikilink">2019년</a> <a href="../Page/10월_23일.md" title="wikilink">10월 23일</a></p></td>
+<td><p>WPCL-13136<br />
+WPCL-13137<br />
+WPCL-13151</p></td>
+<td><p>01.PURGATORIAL FLAME<br />
+02.MY HOPE IS GONE<br />
+03.FIGHTING OF ETERNITY<br />
+04.GLORY<br />
+05.NEVER AGAIN<br />
+06.THE FOLLOWERS<br />
+07.COME BACK TO ME AGAIN<br />
+08.REMAIN BEHIND<br />
+09.THE END OF THE LINE<br />
+10.ROAMING IN MY MEMORY</u></p></td>
+<td><p>18</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 

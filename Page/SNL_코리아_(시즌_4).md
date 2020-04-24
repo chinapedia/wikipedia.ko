@@ -30,7 +30,7 @@
 
 ### 콩트
 
-  - SNL 게임즈: [김민교](../Page/김민교_\(배우\).md "wikilink"), [김원해](../Page/김원해.md "wikilink"), [홍진호](../Page/홍진호.md "wikilink"), [권혁수](../Page/권혁수_\(배우\).md "wikilink"), [정성호](https://ko.wikipedia.org/wiki/정성호 "wikilink"), [정이랑](../Page/정이랑.md "wikilink")(출연), [서유리](../Page/서유리.md "wikilink")(내레이션)
+  - SNL 게임즈: [김민교](../Page/김민교_\(배우\).md "wikilink"), [김원해](../Page/김원해.md "wikilink"), [홍진호](../Page/홍진호.md "wikilink"), [권혁수](../Page/권혁수_\(배우\).md "wikilink"), [정성호](../Page/정성호_\(희극인\).md "wikilink"), [정이랑](../Page/정이랑.md "wikilink")(출연), [서유리](../Page/서유리.md "wikilink")(내레이션)
 
 ## 방영 목록
 

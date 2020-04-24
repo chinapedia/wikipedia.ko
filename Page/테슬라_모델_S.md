@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [테슬라 모델 S](https://ko.wikipedia.org/wiki/테슬라_모델_S).
 
 
-[thumb](https://ko.wikipedia.org/wiki/파일:Blue_Tesla_Model_S_Zoutelande_dunes_Holland.jpg "wikilink") [thumb](https://ko.wikipedia.org/wiki/파일:Model_S_Facelift.png "wikilink") [2019년 3분기에 출시되는 테슬라 모델S](https://ko.wikipedia.org/wiki/파일:27398_90658_4725.jpg "wikilink") **테슬라 모델 S**는 [테슬라가](../Page/테슬라_\(기업\).md "wikilink") 생산하는 준대형 세단 형태의 [전기자동차](../Page/전기자동차.md "wikilink")이다.
+[thumb](https://ko.wikipedia.org/wiki/파일:Blue_Tesla_Model_S_Zoutelande_dunes_Holland.jpg "wikilink") [thumb](https://ko.wikipedia.org/wiki/파일:Model_S_Facelift.png "wikilink") **테슬라 모델 S**는 [테슬라가](../Page/테슬라_\(기업\).md "wikilink") 생산하는 준대형 세단 형태의 [전기자동차](../Page/전기자동차.md "wikilink")이다.
 
 ## 역사
 
@@ -27,7 +27,7 @@
 
 [닛산 리프와](../Page/닛산_리프.md "wikilink") 테슬라 모델 S는 전세계 대부분의 [전기자동차](../Page/전기자동차.md "wikilink")에서 사용하는 기존의 배터리를 그대로 사용하고 있다.
 
-[산업연구원](https://ko.wikipedia.org/wiki/산업연구원 "wikilink")(KIET) 이항구 기계·전자산업팀장은 "세계 각국의 환경 규제가 강화되는 탓에 전기 동력으로 움직이는 차량 개발은 피할 수 없는 추세가 됐다"며 "경쟁력 있는 전기차를 양산하지 못하는 업체는 10년 내 글로벌 시장에서 도태될 것"이라고 말했다.\[3\]
+[산업연구원](../Page/산업연구원.md "wikilink")(KIET) 이항구 기계·전자산업팀장은 "세계 각국의 환경 규제가 강화되는 탓에 전기 동력으로 움직이는 차량 개발은 피할 수 없는 추세가 됐다"며 "경쟁력 있는 전기차를 양산하지 못하는 업체는 10년 내 글로벌 시장에서 도태될 것"이라고 말했다.\[3\]
 
 ## 각주
 

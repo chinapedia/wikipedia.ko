@@ -5,6 +5,6 @@
 
 ## 참고문헌
 
-[분류:남십자자리](https://ko.wikipedia.org/wiki/분류:남십자자리 "wikilink") [분류:O형 주계열성](https://ko.wikipedia.org/wiki/분류:O형_주계열성 "wikilink") [분류:볼프-레이에별](https://ko.wikipedia.org/wiki/분류:볼프-레이에별 "wikilink") [분류:식쌍성](https://ko.wikipedia.org/wiki/분류:식쌍성 "wikilink") [분류:헨리 드레이퍼 목록 천체](https://ko.wikipedia.org/wiki/분류:헨리_드레이퍼_목록_천체 "wikilink") [분류:히파르코스 천체](https://ko.wikipedia.org/wiki/분류:히파르코스_천체 "wikilink")
+[분류:남십자자리](https://ko.wikipedia.org/wiki/분류:남십자자리 "wikilink") [분류:O형 주계열성](https://ko.wikipedia.org/wiki/분류:O형_주계열성 "wikilink") [분류:볼프-레이에별](https://ko.wikipedia.org/wiki/분류:볼프-레이에별 "wikilink") [분류:식쌍성](https://ko.wikipedia.org/wiki/분류:식쌍성 "wikilink") [분류:헨리 드레이퍼 목록 천체](https://ko.wikipedia.org/wiki/분류:헨리_드레이퍼_목록_천체 "wikilink") [분류:히파르코스 천체](https://ko.wikipedia.org/wiki/분류:히파르코스_천체 "wikilink") [분류:2MASS 천체](https://ko.wikipedia.org/wiki/분류:2MASS_천체 "wikilink")
 
 1.  [X-ray emission characteristics of two WR binaries : V444 Cyg and CD Cru](http://arxiv.org/abs/0911.1489) Cornell University Library, Himali Bhatt, J. C. Pandey, Brijesh Kumar, K. P. Singh, Ram Sagar, (Submitted on 8 Nov 2009)

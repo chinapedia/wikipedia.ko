@@ -23,7 +23,7 @@ WASP-13의 질량은 태양보다 3% 크며 반지름은 34% 크다. 대기 중 
 
 ## 참고 문헌
 
-[분류:G형 주계열성](https://ko.wikipedia.org/wiki/분류:G형_주계열성 "wikilink") [분류:살쾡이자리](https://ko.wikipedia.org/wiki/분류:살쾡이자리 "wikilink") [분류:행성계](https://ko.wikipedia.org/wiki/분류:행성계 "wikilink") [분류:G형 준거성](https://ko.wikipedia.org/wiki/분류:G형_준거성 "wikilink") [분류:행성 통과 변광성](https://ko.wikipedia.org/wiki/분류:행성_통과_변광성 "wikilink")
+[분류:G형 주계열성](https://ko.wikipedia.org/wiki/분류:G형_주계열성 "wikilink") [분류:살쾡이자리](https://ko.wikipedia.org/wiki/분류:살쾡이자리 "wikilink") [분류:행성계](https://ko.wikipedia.org/wiki/분류:행성계 "wikilink") [분류:G형 준거성](https://ko.wikipedia.org/wiki/분류:G형_준거성 "wikilink") [분류:행성 통과 변광성](https://ko.wikipedia.org/wiki/분류:행성_통과_변광성 "wikilink") [분류:2MASS 천체](https://ko.wikipedia.org/wiki/분류:2MASS_천체 "wikilink")
 
 1.
 2.

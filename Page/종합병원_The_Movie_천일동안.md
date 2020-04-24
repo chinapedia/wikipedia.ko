@@ -10,7 +10,7 @@
   - [신은경](../Page/신은경_\(배우\).md "wikilink") : 강은수 역
   - [진희경](../Page/진희경.md "wikilink") : 이승현 역
   - [최철호](../Page/최철호.md "wikilink") : 박시완 역
-  - [김승수](https://ko.wikipedia.org/wiki/김승수 "wikilink") : 유찬혁 역
+  - [김승수](../Page/김승수_\(배우\).md "wikilink") : 유찬혁 역
   - [윤주상](../Page/윤주상.md "wikilink") : 성태섭 역
   - [박용수](https://ko.wikipedia.org/wiki/박용수 "wikilink") : 김현일 역
   - [최학락](../Page/최학락.md "wikilink") : 오용철 역

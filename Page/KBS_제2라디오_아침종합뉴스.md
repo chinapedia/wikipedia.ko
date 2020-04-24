@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [KBS 제2라디오 아침종합뉴스](https://ko.wikipedia.org/wiki/KBS_제2라디오_아침종합뉴스).
 
 
-**KBS 제2라디오 아침종합뉴스**는 [KBS 해피FM에서](https://ko.wikipedia.org/wiki/KBS_해피FM "wikilink") 평일 아침 7시에 방송되었던 라디오 뉴스 프로그램이다. [2000년](../Page/2000년.md "wikilink") [7월 1일부터](../Page/7월_1일.md "wikilink") 월요일 \~ 토요일 아침 7시에 《**출발 뉴스센터**》로 신설되어 10분간 방송되었다. 그러다가 [2010년](../Page/2010년.md "wikilink") [1월 1일부터](../Page/1월_1일.md "wikilink") 현재의 명칭으로 변경되어 편성이 평일로 축소되었다. [2018년](../Page/2018년.md "wikilink") [9월 28일에](../Page/9월_28일.md "wikilink") 가을 개편으로 종영되었다.
+**KBS 제2라디오 아침종합뉴스**는 [KBS 해피FM에서](https://ko.wikipedia.org/wiki/KBS_해피FM "wikilink") 평일 아침 7시에 방송되었던 라디오 뉴스 프로그램이다. [2000년](../Page/2000년.md "wikilink") [7월 1일부터](../Page/7월_1일.md "wikilink") 월요일 \~ 토요일 아침 7시에 《**출발 뉴스센터**》로 신설되어 10분간 방송되었다. 그러다가 [2010년](../Page/2010년.md "wikilink") [1월 1일부터](../Page/1월_1일.md "wikilink") 현재의 명칭으로 변경되어 편성이 평일로 축소되어 방송됐으나, [2018년](../Page/2018년.md "wikilink") [9월 28일에](../Page/9월_28일.md "wikilink") 가을 개편으로 폐지되었다.
 
 ## 진행자
 

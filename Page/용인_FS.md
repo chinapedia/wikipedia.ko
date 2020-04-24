@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [용인 FS](https://ko.wikipedia.org/wiki/용인_FS).
 
 
-**<big>용인 대흥 FS</big>** ( **Yongin Daeheng Futsal Club** ) 는 [경기도 용인시를](../Page/용인시.md "wikilink") 연고로 하는 [FK 드림리그](../Page/FK_드림리그.md "wikilink") ( 2부 ) 소속 [풋살](../Page/풋살.md "wikilink")구단이다.
+**<big>용인 대흥 FS</big>**( **Yongin Daeheng Futsal Club** )는 [경기도 용인시를](../Page/용인시.md "wikilink") 연고로 하는 [FK 드림리그](../Page/FK_드림리그.md "wikilink") ( 2부 ) 소속 [풋살](../Page/풋살.md "wikilink")구단이다.
 
 ## 역사
 

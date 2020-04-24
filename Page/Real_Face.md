@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Real Face](https://ko.wikipedia.org/wiki/Real_Face).
 
 
-〈**Real Face**〉(리얼 페이스)는, [KAT-TUN](../Page/KAT-TUN.md "wikilink")의 [데뷔](https://ko.wikipedia.org/wiki/데뷔 "wikilink") [싱글이다](../Page/싱글_\(음악\).md "wikilink").
+〈**Real Face**〉(리얼 페이스)는 [KAT-TUN](../Page/KAT-TUN.md "wikilink")의 [데뷔](https://ko.wikipedia.org/wiki/데뷔 "wikilink") [싱글이다](../Page/싱글_\(음악\).md "wikilink").
 
 ## 개요
 
@@ -68,7 +68,7 @@
 
 ## Real Face Film
 
-《Real Face Film 》(리얼 페이스 필름)은, KAT-TUN의 3번째 DVD이다.
+《Real Face Film 》(리얼 페이스 필름)은 KAT-TUN의 3번째 DVD이다.
 
 ### 수록 내용
 

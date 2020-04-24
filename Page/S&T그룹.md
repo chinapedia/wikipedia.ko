@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [S\&T그룹](https://ko.wikipedia.org/wiki/S\&T그룹).
 
 
-**S\&T그룹** (<small>[국문](https://ko.wikipedia.org/wiki/국문 "wikilink"):</small> 에스앤티그룹, )은, [대한민국](../Page/대한민국.md "wikilink")의 기업집단이며 [대기업](../Page/대기업.md "wikilink")([대규모 기업집단](https://ko.wikipedia.org/wiki/대규모_기업집단 "wikilink"))군에 속하는 그룹이다.
+**S\&T그룹** (<small>[국문](https://ko.wikipedia.org/wiki/국문 "wikilink"):</small> 에스앤티그룹, )은 [대한민국](../Page/대한민국.md "wikilink")의 기업집단이며 [대기업](../Page/대기업.md "wikilink")([대규모 기업집단](https://ko.wikipedia.org/wiki/대규모_기업집단 "wikilink"))군에 속하는 그룹이다.
 
 ## 그룹 연혁
 
@@ -23,10 +23,10 @@
   - [2002년](../Page/2002년.md "wikilink") [2월](../Page/2월.md "wikilink") 주식회사 삼영으로 사명 변경
   - [2002년](../Page/2002년.md "wikilink") [10월](../Page/10월.md "wikilink") [유가증권시장](https://ko.wikipedia.org/wiki/코스피 "wikilink")(KOSPI)으로 이전, [상장](https://ko.wikipedia.org/wiki/상장_\(금융\) "wikilink")
   - [2003년](../Page/2003년.md "wikilink") [2월](../Page/2월.md "wikilink") [S\&T중공업](../Page/S&T중공업.md "wikilink") [M\&A](https://ko.wikipedia.org/wiki/M&A "wikilink") (舊 [통일중공업](https://ko.wikipedia.org/wiki/통일중공업 "wikilink"))
-  - [2005년](../Page/2005년.md "wikilink") [7월](../Page/7월.md "wikilink") [S\&TC](https://ko.wikipedia.org/wiki/S&TC "wikilink")로 사명 변경
+  - [2005년](../Page/2005년.md "wikilink") [7월](../Page/7월.md "wikilink") [S\&TC](../Page/S&TC.md "wikilink")로 사명 변경
   - [2006년](../Page/2006년.md "wikilink") [6월](../Page/6월.md "wikilink") [S\&T모티브](../Page/S&T모티브.md "wikilink") [M\&A](https://ko.wikipedia.org/wiki/M&A "wikilink") (舊 [대우정밀](https://ko.wikipedia.org/wiki/대우정밀 "wikilink"))
   - [2006년](../Page/2006년.md "wikilink") [9월](../Page/9월.md "wikilink") S\&T그룹 출범
-  - [2008년](../Page/2008년.md "wikilink") [2월](../Page/2월.md "wikilink") 인적분할(존속법인: S\&T홀딩스, 신설법인: [S\&TC](https://ko.wikipedia.org/wiki/S&TC "wikilink"))
+  - [2008년](../Page/2008년.md "wikilink") [2월](../Page/2월.md "wikilink") 인적분할(존속법인: S\&T홀딩스, 신설법인: [S\&TC](../Page/S&TC.md "wikilink"))
 
 ### 2010년대
 
@@ -41,7 +41,7 @@
 ### 상장사
 
   - S\&T홀딩스([지주회사](https://ko.wikipedia.org/wiki/지주회사 "wikilink"), [유가증권시장](https://ko.wikipedia.org/wiki/코스피 "wikilink")) (S\&T Holdings Co., Ltd.)
-  - [S\&TC](https://ko.wikipedia.org/wiki/S&TC "wikilink")([유가증권시장](https://ko.wikipedia.org/wiki/코스피 "wikilink")) (S\&T Corporation)
+  - [S\&TC](../Page/S&TC.md "wikilink")([유가증권시장](https://ko.wikipedia.org/wiki/코스피 "wikilink")) (S\&T Corporation)
   - [S\&T모티브](../Page/S&T모티브.md "wikilink")([유가증권시장](https://ko.wikipedia.org/wiki/코스피 "wikilink")) (S\&T Motiv Co., Ltd.)
   - [S\&T중공업](../Page/S&T중공업.md "wikilink")([유가증권시장](https://ko.wikipedia.org/wiki/코스피 "wikilink")) (S\&T Dynamics Co.,Ltd.)
 

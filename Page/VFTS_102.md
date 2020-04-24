@@ -11,7 +11,7 @@
 
 ## 각주
 
-[분류:황새치자리](https://ko.wikipedia.org/wiki/분류:황새치자리 "wikilink") [분류:O형 주계열성](https://ko.wikipedia.org/wiki/분류:O형_주계열성 "wikilink") [분류:대마젤란 은하](https://ko.wikipedia.org/wiki/분류:대마젤란_은하 "wikilink") [분류:타란툴라 성운](https://ko.wikipedia.org/wiki/분류:타란툴라_성운 "wikilink")
+[분류:황새치자리](https://ko.wikipedia.org/wiki/분류:황새치자리 "wikilink") [분류:O형 주계열성](https://ko.wikipedia.org/wiki/분류:O형_주계열성 "wikilink") [분류:대마젤란 은하](https://ko.wikipedia.org/wiki/분류:대마젤란_은하 "wikilink") [분류:타란툴라 성운](https://ko.wikipedia.org/wiki/분류:타란툴라_성운 "wikilink") [분류:2MASS 천체](https://ko.wikipedia.org/wiki/분류:2MASS_천체 "wikilink")
 
 1.
 2.

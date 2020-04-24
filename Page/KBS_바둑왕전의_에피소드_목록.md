@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KBS   ](https://ko.wikipedia.org/wiki/KBS___).
+> This article is converted from Wikipedia: [KBS 바둑왕전의 에피소드 목록](https://ko.wikipedia.org/wiki/KBS_바둑왕전의_에피소드_목록).
 
 
   - 아래는 [KBS 1TV](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink") [한국기원](../Page/한국기원.md "wikilink")에서 주관하는 [TV](https://ko.wikipedia.org/wiki/TV "wikilink") 속기 [바둑](../Page/바둑.md "wikilink") 기전인 **《[KBS 바둑왕전](../Page/KBS_바둑왕전.md "wikilink")》**의 기수별 시즌 방영 목록 이다.
@@ -1928,7 +1928,7 @@
 <td></td>
 <td><p><a href="../Page/8월_1일.md" title="wikilink">8월 1일</a></p></td>
 <td><p>본선23국</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/이정우" title="wikilink">이정우</a>九단(백):<strong><a href="../Page/박정환_(바둑_기사).md" title="wikilink">박정환九단</a></strong>(흑)</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/이정우_(바둑_기사)" title="wikilink">이정우九단</a>(백):<strong><a href="../Page/박정환_(바둑_기사).md" title="wikilink">박정환九단</a></strong>(흑)</p></td>
 <td><p>273수 흑1.5집승</p></td>
 <td><p>06/22</p></td>
 <td></td>

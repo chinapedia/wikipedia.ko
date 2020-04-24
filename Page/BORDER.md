@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [BORDER](https://ko.wikipedia.org/wiki/BORDER).
 
 
-《**BORDER**》(보더)는, [일본](../Page/일본.md "wikilink")의 [소설가](https://ko.wikipedia.org/wiki/소설가 "wikilink")·[카네시로 카즈키](../Page/가네시로_가즈키.md "wikilink") 원작에 의해 [2013년](../Page/2013년.md "wikilink")부터 개시된 [만화](../Page/만화.md "wikilink"), [텔레비전 드라마](../Page/텔레비전_드라마.md "wikilink"), [소설](../Page/소설.md "wikilink")의 [미디어 믹스](https://ko.wikipedia.org/wiki/미디어_믹스 "wikilink") 프로젝트이다.
+《**BORDER**》(보더)는 [일본](../Page/일본.md "wikilink")의 [소설가](https://ko.wikipedia.org/wiki/소설가 "wikilink")·[카네시로 카즈키](../Page/가네시로_가즈키.md "wikilink") 원작에 의해 [2013년](../Page/2013년.md "wikilink")부터 개시된 [만화](../Page/만화.md "wikilink"), [텔레비전 드라마](../Page/텔레비전_드라마.md "wikilink"), [소설](../Page/소설.md "wikilink")의 [미디어 믹스](https://ko.wikipedia.org/wiki/미디어_믹스 "wikilink") 프로젝트이다.
 
 프로젝트 전체로서의 [캐치프레이즈](https://ko.wikipedia.org/wiki/캐치프레이즈 "wikilink")는 〈**사람은 죽으면, 어디에 가는 걸까.**〉.
 

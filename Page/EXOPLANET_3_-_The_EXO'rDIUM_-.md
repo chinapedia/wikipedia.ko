@@ -33,7 +33,7 @@
 </tr>
 <tr class="even">
 <td><p>2016년 7월 22일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/서울" title="wikilink">서울</a></p></td>
+<td><p><a href="../Page/서울특별시.md" title="wikilink">서울</a></p></td>
 <td></td>
 <td><p><a href="../Page/올림픽체조경기장.md" title="wikilink">올림픽체조경기장</a>[3]</p></td>
 <td><p>통산 84,696명</p></td>
@@ -89,7 +89,7 @@
 </tr>
 <tr class="even">
 <td><p>2016년 9월 13일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/히로시마_시" title="wikilink">광도</a></p></td>
+<td><p><a href="../Page/히로시마시.md" title="wikilink">히로시마</a></p></td>
 <td></td>
 <td><p><a href="../Page/히로시마_현립_종합_체육관.md" title="wikilink">그린 아레나</a></p></td>
 <td><p>통산 16,396명</p></td>
@@ -103,14 +103,14 @@
 </tr>
 <tr class="even">
 <td><p>2016년 9월 30일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/항주" title="wikilink">항주</a></p></td>
+<td><p><a href="../Page/항저우시.md" title="wikilink">항저우</a></p></td>
 <td></td>
 <td><p><a href="../Page/황룡_스포츠_센터.md" title="wikilink">황룡 경기장</a></p></td>
 <td><p>12,634명</p></td>
 </tr>
 <tr class="odd">
 <td><p>2016년 10월 2일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/복강" title="wikilink">복강</a></p></td>
+<td><p><a href="../Page/후쿠오카시.md" title="wikilink">후쿠오카</a></p></td>
 <td></td>
 <td><p>마린 멧세 후쿠오카</p></td>
 <td><p>통산 32,694명</p></td>
@@ -131,7 +131,7 @@
 </tr>
 <tr class="even">
 <td><p>2016년 10월 12일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/찰황" title="wikilink">찰황</a></p></td>
+<td><p><a href="../Page/삿포로시.md" title="wikilink">삿포로</a></p></td>
 <td><p>마코마나이 세키스이 하임 아이스 아레나</p></td>
 <td><p>통산 18,589명</p></td>
 <td></td>
@@ -145,7 +145,7 @@
 </tr>
 <tr class="even">
 <td><p>2016년 11월 7일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/나고야_시" title="wikilink">나고야 시</a></p></td>
+<td><p><a href="../Page/나고야시.md" title="wikilink">나고야</a></p></td>
 <td><p>니혼 가이시 홀</p></td>
 <td><p>통산 27,371명</p></td>
 <td></td>
@@ -166,7 +166,7 @@
 </tr>
 <tr class="odd">
 <td><p>2016년 11월 26일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/타이베이" title="wikilink">대북</a></p></td>
+<td><p><a href="../Page/타이베이시.md" title="wikilink">타이베이</a></p></td>
 <td></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/타이베이_아레나" title="wikilink">타이베이 아레나</a>[5]</p></td>
 <td><p>통산 23,834명</p></td>
@@ -180,7 +180,7 @@
 </tr>
 <tr class="odd">
 <td><p>2016년 11월 30일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/동경" title="wikilink">동경</a></p></td>
+<td><p><a href="../Page/도쿄.md" title="wikilink">도쿄</a></p></td>
 <td></td>
 <td><p><a href="../Page/도쿄_돔.md" title="wikilink">도쿄 돔</a>[6]</p></td>
 <td><p>통산 104,978명</p></td>
@@ -194,7 +194,7 @@
 </tr>
 <tr class="odd">
 <td><p>2016년 12월 9일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/대판" title="wikilink">대판</a></p></td>
+<td><p><a href="../Page/오사카시.md" title="wikilink">오사카</a></p></td>
 <td><p><a href="../Page/오사카_돔.md" title="wikilink">쿄세라 돔 오사카</a>[7]</p></td>
 <td><p>통산 135,720명</p></td>
 <td></td>
@@ -215,10 +215,10 @@
 </tr>
 <tr class="even">
 <td><p>2017년 2월 11일</p></td>
+<td><p><a href="../Page/홍콩.md" title="wikilink">홍콩</a></p></td>
 <td></td>
 <td><p>아시아 월드 아레나[8]</p></td>
 <td><p>통산 25,784명</p></td>
-<td></td>
 </tr>
 <tr class="odd">
 <td><p>2017년 2월 12일</p></td>

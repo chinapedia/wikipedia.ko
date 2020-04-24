@@ -11,7 +11,7 @@
   - 대상 테이블 단독 잠금을 얻을 수 있다.
   - [외래 키에서](../Page/외래_키.md "wikilink") 참조되는 테이블에서 실행할 수 없다. 외래 키의 무결성을 확인하지 않기 때문이다.
   - [Oracle Database와](https://ko.wikipedia.org/wiki/Oracle_Database "wikilink") [MySQL](../Page/MySQL.md "wikilink")의 일부 스토리지 엔진은 TRUNCATE 후 자동으로 [커밋](https://ko.wikipedia.org/wiki/커밋 "wikilink")을 한다. TRUNCATE의 삭제는 [롤백할](../Page/롤백_\(데이터_관리\).md "wikilink") 수 없다.
-      - [PostgreSQL](../Page/PostgreSQL.md "wikilink") 처럼, TRUNCATE를 트랜잭션 내에서 실행할 수 있으며, 롤백이 가능한 데이터베이스도 존재한다. 대상 테이블을 "이전 버전"으로 트랜잭션이 완료 될 때까지 유지하는 것으로 실현되고 있다.
+      - [PostgreSQL](../Page/PostgreSQL.md "wikilink") 처럼, TRUNCATE를 트랜잭션 내에서 실행할 수 있으며, 롤백이 가능한 데이터베이스도 존재한다. 대상 테이블을 "이전 버전"으로 트랜잭션이 완료될 때까지 유지하는 것으로 실현되고 있다.
   - [Microsoft SQL Server에서는](https://ko.wikipedia.org/wiki/Microsoft_SQL_Server "wikilink") TRUNCATE TABLE 문은 복제 및 로그 전달 대상이 되고 있는 테이블에 대해 실행할 수 없다. 모두 원격 데이터베이스의 일관성을 유지하기 위해 [트랜잭션 로그를](../Page/트랜잭션_로그.md "wikilink") 이용하기 때문이다.\[1\]
 
 ## 구문

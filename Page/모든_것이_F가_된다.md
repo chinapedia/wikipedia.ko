@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [모든 것이 F가 된다](https://ko.wikipedia.org/wiki/모든_것이_F가_된다).
 
 
-《**모든 것이 F가 된다**》()는, [모리 히로시의](https://ko.wikipedia.org/wiki/모리_히로시 "wikilink") 미스터리 소설이다.
+《**모든 것이 F가 된다**》()는 [모리 히로시의](https://ko.wikipedia.org/wiki/모리_히로시 "wikilink") 미스터리 소설이다.
 
 ## 개요
 

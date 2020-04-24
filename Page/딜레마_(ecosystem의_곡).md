@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [딜레마 \(ecosystem의 곡\)](https://ko.wikipedia.org/wiki/딜레마_\(ecosystem의_곡\)).
 
 
-「**딜레마**」(ジレンマ)는, [일본](../Page/일본.md "wikilink")의 [밴드](https://ko.wikipedia.org/wiki/악단 "wikilink"), [ecosystem](https://ko.wikipedia.org/wiki/ecosystem "wikilink")의 음악으로, 첫 번째 [싱글이다](../Page/싱글_\(음악\).md "wikilink"). [2011년](../Page/2011년.md "wikilink") [11월 30일에](../Page/11월_30일.md "wikilink") [SME Records에서](https://ko.wikipedia.org/wiki/SME_Records "wikilink") 발매되었다.
+「**딜레마**」(ジレンマ)는 [일본](../Page/일본.md "wikilink")의 [밴드](https://ko.wikipedia.org/wiki/악단 "wikilink"), [ecosystem](https://ko.wikipedia.org/wiki/ecosystem "wikilink")의 음악으로, 첫 번째 [싱글이다](../Page/싱글_\(음악\).md "wikilink"). [2011년](../Page/2011년.md "wikilink") [11월 30일에](../Page/11월_30일.md "wikilink") [SME Records에서](https://ko.wikipedia.org/wiki/SME_Records "wikilink") 발매되었다.
 
 ## 해설
 

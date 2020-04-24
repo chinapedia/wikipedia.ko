@@ -29,7 +29,7 @@ RTL 그룹은 1924년 룩셈부르크에서 첫 [라디오](../Page/라디오.md
 ####
 
   - M6 그룹 (48.6%)
-      - [M6](../Page/M6_\(프랑스\).md "wikilink")
+      - [M6](../Page/M6_\(텔레비전_채널\).md "wikilink")
       - [M6 Boutique & Co.](https://ko.wikipedia.org/wiki/M6_Boutique_&_Co. "wikilink")
       - [Paris Première](https://ko.wikipedia.org/wiki/Paris_Première "wikilink")
       - [TF6](https://ko.wikipedia.org/wiki/TF6 "wikilink")

@@ -189,7 +189,7 @@
 </tr>
 <tr class="odd">
 <td><p>2008</p></td>
-<td><p><a href="../Page/예스_맨_(영화).md" title="wikilink">예스 맨</a> <em>Yes Man</em></p></td>
+<td><p><a href="../Page/예스맨_(영화).md" title="wikilink">예스 맨</a> <em>Yes Man</em></p></td>
 <td><p><a href="../Page/페이턴_리드.md" title="wikilink">페이턴 리드</a></p></td>
 </tr>
 <tr class="even">

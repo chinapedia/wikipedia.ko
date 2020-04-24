@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [M.2](https://ko.wikipedia.org/wiki/M.2).
 
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:M.2_and_mSATA_SSDs_comparison.jpg "wikilink") (왼쪽) 과 M.2 2242 SSD (오른쪽) 의 크기 비교\]\]
+[섬네일](https://ko.wikipedia.org/wiki/파일:M.2_and_mSATA_SSDs_comparison.jpg "wikilink") (왼쪽) 과 M.2 2242 SSD (오른쪽)의 크기 비교\]\]
 
 **M.2**()는 컴퓨터 내부에 고정된 [확장 카드와](../Page/확장_카드.md "wikilink") 관련된 커넥터의 사양으로, '차세대 폼팩터'(Next Generation Form Factor, NGFF)로 알려지기도 했다. M.2는 [mSATA](https://ko.wikipedia.org/wiki/mSATA "wikilink") 표준을 대체하며, [PCI 익스프레스 미니 카드의](https://ko.wikipedia.org/wiki/PCI_익스프레스_미니_카드 "wikilink") 물리적인 카드 레이아웃과 커넥터를 사용한다. M.2는 물리적 사양이 보다 유연하여 서로 다른 모듈 폭과 길이를 허용하며, 유용성과 함께 보다 발달된 [인터페이스](https://ko.wikipedia.org/wiki/인터페이스 "wikilink") 특징을 갖추어, 일반적으로 mSATA 보다 반도체 저장장치(Solid State Storage) 적용에, 특히 [울트라북](../Page/울트라북.md "wikilink")이나 [태블릿과](../Page/태블릿_컴퓨터.md "wikilink") 같은 소형 기기에서 사용하기에 적합하다.\[1\]\[2\]\[3\]
 

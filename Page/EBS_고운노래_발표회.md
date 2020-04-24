@@ -1653,7 +1653,7 @@
 <td style="text-align: left;"><ul>
 <li>일시 : <a href="../Page/2009년.md" title="wikilink">2009년</a> <a href="../Page/9월_13일.md" title="wikilink">9월 13일</a> (일) 오후 4시</li>
 <li>장소 : 과천시민회관 대극장</li>
-<li>진행 : <a href="../Page/유상무.md" title="wikilink">유상무</a>, <a href="https://ko.wikipedia.org/wiki/스미스" title="wikilink">스미스</a>, <a href="https://ko.wikipedia.org/wiki/서효명" title="wikilink">서효명</a></li>
+<li>진행 : <a href="../Page/유상무.md" title="wikilink">유상무</a>, <a href="../Page/스미스.md" title="wikilink">스미스</a>, <a href="https://ko.wikipedia.org/wiki/서효명" title="wikilink">서효명</a></li>
 <li>방송 : <a href="../Page/2009년.md" title="wikilink">2009년</a> <a href="../Page/10월_4일.md" title="wikilink">10월 4일</a> (일) 오전 10시</li>
 </ul>
 <p><strong>참가팀 :</strong>총 257곡이 응모하여 1, 2차 예선을 거쳐 본선에 12팀이 오름.<br />

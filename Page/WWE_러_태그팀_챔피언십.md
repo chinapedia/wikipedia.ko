@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [WWE 러 태그팀 챔피언십](https://ko.wikipedia.org/wiki/WWE_러_태그팀_챔피언십).
 
 
-**WWE 러 태그팀 챔피언십**(WWE RAW Tag Team Champion)은 [WWE](https://ko.wikipedia.org/wiki/WWE "wikilink")의 챔피언십중 둘이며 태그팀 챔피언십이다.
+**WWE 러 태그팀 챔피언십**(WWE RAW Tag Team Champion)은 [WWE](../Page/WWE.md "wikilink")의 챔피언십중 둘이며 태그팀 챔피언십이다.
 
 현재는 둘의 태그팀 챔피언만 소지하고있으며 현재 챔피언은 스트리트 프로피츠 이다.
 

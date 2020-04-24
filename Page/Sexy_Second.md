@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Sexy Second](https://ko.wikipedia.org/wiki/Sexy_Second).
 
 
-《**Sexy Second**》(섹시 세컨드)는, [Sexy Zone의](https://ko.wikipedia.org/wiki/Sexy_Zone "wikilink") 2번째 [정규 음반이다](../Page/정규_음반.md "wikilink").
+《**Sexy Second**》(섹시 세컨드)는 [Sexy Zone의](https://ko.wikipedia.org/wiki/Sexy_Zone "wikilink") 2번째 [정규 음반이다](../Page/정규_음반.md "wikilink").
 
 ## 개요
 

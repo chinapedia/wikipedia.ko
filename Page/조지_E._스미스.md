@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [조지 E. 스미스](https://ko.wikipedia.org/wiki/조지_E._스미스).
 
 
-**조지 엘우드 스미스** (1930년 5월 10일 출생) 는 [미국](../Page/미국.md "wikilink")인 [응용 물리학자로](https://ko.wikipedia.org/wiki/응용_물리학 "wikilink"), [전하 결합 소자](https://ko.wikipedia.org/wiki/전하_결합_소자 "wikilink") (Charge Coupled Device, CCD)의 공동 발명자이다. 2009년 [노벨 물리학상을](../Page/노벨_물리학상.md "wikilink") 공동수상\[1\]\[2\]하였다.\[3\]
+**조지 엘우드 스미스**(1930년 5월 10일 출생)는 [미국](../Page/미국.md "wikilink")인 [응용 물리학자로](https://ko.wikipedia.org/wiki/응용_물리학 "wikilink"), [전하 결합 소자](https://ko.wikipedia.org/wiki/전하_결합_소자 "wikilink") (Charge Coupled Device, CCD)의 공동 발명자이다. 2009년 [노벨 물리학상을](../Page/노벨_물리학상.md "wikilink") 공동수상\[1\]\[2\]하였다.\[3\]
 
 ## 생애
 

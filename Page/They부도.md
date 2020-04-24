@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [They부도](https://ko.wikipedia.org/wiki/They부도).
 
 
-**They부도**는 [쟈니즈 Jr.의](https://ko.wikipedia.org/wiki/자니즈_주니어 "wikilink") 3인조 유닛. [쟈니즈 사무소](https://ko.wikipedia.org/wiki/쟈니즈_사무소 "wikilink") 소속.
+**They부도**는 [쟈니즈 Jr.의](https://ko.wikipedia.org/wiki/자니즈_주니어 "wikilink") 3인조 유닛이다. [쟈니즈 사무소](https://ko.wikipedia.org/wiki/쟈니즈_사무소 "wikilink") 소속이다.
 
 ## 멤버
 
@@ -20,20 +20,20 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/에다_츠요시" title="wikilink">에다 츠요시</a> (江田剛)</p></td>
 <td><p>, <a href="../Page/오사카부.md" title="wikilink">오사카부</a> 출신, A형</p></td>
 <td><p>퍼플</p></td>
-<td><p>우주Six (宇宙Six)<a href="../Page/2016년.md" title="wikilink">2016년 월 11 일</a>11~</p></td>
+<td><p>우주Six (宇宙Six)<a href="../Page/2016년.md" title="wikilink">2016년 11일</a>11월~</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/야마모토_료타" title="wikilink">야마모토 료타</a> (山本亮太)</p></td>
 <td><p>, <a href="https://ko.wikipedia.org/wiki/치바_현" title="wikilink">치바 현</a> 출신, A형</p></td>
 <td><p>옐로우</p></td>
-<td><p>우주Six (宇宙Six)<a href="../Page/2016년.md" title="wikilink">2016년 월 11 일</a>11~</p></td>
+<td><p>우주Six (宇宙Six)<a href="../Page/2016년.md" title="wikilink">2016년 11일</a>11월~</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/하야시_쇼타" title="wikilink">하야시 쇼타</a> (林翔太)</p></td>
 <td><p>, <a href="https://ko.wikipedia.org/wiki/카나가와_현" title="wikilink">카나가와 현</a> 출신, A형</p></td>
 <td><p>레드</p></td>
-<td><p>원 우주Six (宇宙Six) 과 에코노미<a href="../Page/2016년.md" title="wikilink">2016년 월 11 일</a>11~<a href="../Page/2016년.md" title="wikilink">2018</a></p>
-<p><a href="../Page/2016년.md" title="wikilink">3년</a>~31 일</p></td>
+<td><p>원 우주Six (宇宙Six) 과 에코노미<a href="../Page/2016년.md" title="wikilink">2016년 11일</a>11월~<a href="../Page/2016년.md" title="wikilink">2016년</a></p>
+<p><a href="../Page/2016년.md" title="wikilink">2016년</a>~31 일</p></td>
 </tr>
 </tbody>
 </table>

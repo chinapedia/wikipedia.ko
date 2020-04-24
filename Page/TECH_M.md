@@ -1,9 +1,7 @@
 > This article is converted from Wikipedia: [TECH M](https://ko.wikipedia.org/wiki/TECH_M).
 
 
-**TECH M**(테크엠)은 대한민국에서 발행되는 산업·과학기술 [잡지](../Page/잡지.md "wikilink")(월간지)이다.
-
-2013년 4월 25일 TECH\&beyond(테크앤비욘드)라는 이름으로 창간됐다.\[1\] 창간 당시에는 미디어그룹 머니투데이가 발행했으나, 2016년 2월호부터 미디어그룹 머니투데이방송에서 발행되기 시작했다.\[2\] 2015년 3월호부터 매거진 제호를 TECH M으로 바꾸면서 판형 또한 230X290판에서 205X275판으로 변경했다.\[3\]
+**TECH M**(테크엠)은 2013년 5월 월간지 <테크앤비욘드>로 처음 창간했다. 2015년 3월 제호를 테크M으로 바꾸고, 이듬해 1월 머니투데이방송(MTN)으로 발행처를 이관했다. 2020년 1월 MTN으로부터 완전히 독립해 별도 법인인 주식회사 테크엠을 설립하고 현재 온라인 콘텐츠 생산에 주력하고 있다. 창간 당시에는 미디어그룹 머니투데이가 발행했으나, 2016년 2월호부터 미디어그룹 머니투데이방송에서 발행되기 시작했다.\[1\] 2015년 3월호부터 매거진 제호를 TECH M으로 바꾸면서 판형 또한 230X290판에서 205X275판으로 변경한 바 있다.\[2\]
 
 ## 월별 주제 목록
 
@@ -68,14 +66,6 @@
 | 2월(22호)  | UX          | 사용자 경험을 장악하라             |
 | 1월(21호)  | 스타트업        | 스타트업 코리아의 오늘과 내일         |
 
-## 같이 보기
-
-  - [머니투데이](http://www.mt.co.kr/)
-  - [MTN](http://www.mtn.co.kr/MTN)
-  - [머니위크](http://www.moneyweek.co.kr/)
-  - [더벨](https://web.archive.org/web/20141029201658/http://www.thebell.co.kr/front/free/index.asp)
-  - [뉴스1](https://web.archive.org/web/20140827070140/http://www.news1.kr/)
-
 ## 참조
 
 ## 외부 링크
@@ -86,6 +76,5 @@
 
 [분류:대한민국의 잡지](https://ko.wikipedia.org/wiki/분류:대한민국의_잡지 "wikilink") [분류:2013년 창간](https://ko.wikipedia.org/wiki/분류:2013년_창간 "wikilink") [분류:과학 기술 잡지](https://ko.wikipedia.org/wiki/분류:과학_기술_잡지 "wikilink")
 
-1.  [창간호 관련 기사](http://www.mt.co.kr/view/mtview.php?type=1&no=2013050515082334778&outlink=1)
-2.  [머니투데이방송 테크M 발행 관련 기사](http://news.mtn.co.kr/newscenter/news_viewer.mtn?gidx=2016010414105268580)
-3.  [제호 변경 관련 기사](http://www.mt.co.kr/view/mtview.php?type=1&no=2015022721093338533&outlink=1)
+1.  [머니투데이방송 테크M 발행 관련 기사](http://news.mtn.co.kr/newscenter/news_viewer.mtn?gidx=2016010414105268580)
+2.  [제호 변경 관련 기사](http://www.mt.co.kr/view/mtview.php?type=1&no=2015022721093338533&outlink=1)

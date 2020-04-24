@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Smoking Gun 민간 과수연 조사원 나가레타 에니시](https://ko.wikipedia.org/wiki/Smoking_Gun_민간_과수연_조사원_나가레타_에니시).
 
 
-《**Smoking Gun 민간 과수연 조사원 나가레타 에니시**》()는, 원작:요코마쿠 토모히로, 작화:타케야 슈지에 의한 [일본](../Page/일본.md "wikilink")의 [만화](../Page/만화.md "wikilink") 작품이다.
+《**Smoking Gun 민간 과수연 조사원 나가레타 에니시**》()는 원작:요코마쿠 토모히로, 작화:타케야 슈지에 의한 [일본](../Page/일본.md "wikilink")의 [만화](../Page/만화.md "wikilink") 작품이다.
 
 ## 개요
 
@@ -9,7 +9,7 @@
 
 ## 텔레비전 드라마
 
-《**SMOKING GUN\~결정적 증거\~**》()는, [후지 TV](../Page/후지_TV.md "wikilink")·쿄도 TV 제작으로 [2014년](../Page/2014년.md "wikilink") [4월 9일부터](../Page/4월_9일.md "wikilink") [6월 18일까지](../Page/6월_18일.md "wikilink") [수요일](../Page/수요일.md "wikilink") [22:00 \~ 22:54](../Page/후지_TV_수요일_밤_10시_드라마.md "wikilink") ([JST](../Page/일본_표준시.md "wikilink"))에 방송된 [텔레비전 드라마이다](https://ko.wikipedia.org/wiki/일본_드라마 "wikilink"). 주연은 [카토리 싱고](../Page/카토리_싱고.md "wikilink").
+《**SMOKING GUN\~결정적 증거\~**》()는 [후지 TV](../Page/후지_TV.md "wikilink")·쿄도 TV 제작으로 [2014년](../Page/2014년.md "wikilink") [4월 9일부터](../Page/4월_9일.md "wikilink") [6월 18일까지](../Page/6월_18일.md "wikilink") [수요일](../Page/수요일.md "wikilink") [22:00 \~ 22:54](../Page/후지_TV_수요일_밤_10시_드라마.md "wikilink") ([JST](../Page/일본_표준시.md "wikilink"))에 방송된 [텔레비전 드라마이다](https://ko.wikipedia.org/wiki/일본_드라마 "wikilink"). 주연은 [카토리 싱고](../Page/카토리_싱고.md "wikilink").
 
 [캐치프레이즈](https://ko.wikipedia.org/wiki/캐치프레이즈 "wikilink")는, 〈**우리 회사의 상품은 “결정적 증거”입니다.**〉.
 

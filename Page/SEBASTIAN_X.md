@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [SEBASTIAN X](https://ko.wikipedia.org/wiki/SEBASTIAN_X).
 
 
-**SEBASTIAN X** (セバスチャン・エックス) 는 [일본](../Page/일본.md "wikilink")의 락 밴드이다. 애칭은 セバヌ(세바누).
+**SEBASTIAN X**(セバスチャン・エックス)는 [일본](../Page/일본.md "wikilink")의 락 밴드이다. 애칭은 セバヌ(세바누).
 
 ## 멤버
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Rayark](https://ko.wikipedia.org/wiki/Rayark).
 
 
-**Rayark**()는 2011년 9월 설립하여\[1\] 2013년 타이베이 시 행정부에 등록 승인을 얻은\[2\] [중화민국](../Page/중화민국.md "wikilink")의 모바일 게임 회사이다. [Cytus](../Page/Cytus.md "wikilink"), [Deemo](../Page/Deemo.md "wikilink") 등의 게임을 개발하였다.
+**Rayark**()는 2011년 9월 설립하여\[1\] 2013년 타이베이 시 행정부에 등록 승인을 얻은\[2\] [중화민국](../Page/중화민국.md "wikilink")의 모바일 게임 회사이다. [Cytus](../Page/Cytus.md "wikilink"), [Deemo](../Page/Deemo.md "wikilink") 등의 게임을 개발하였다. [대한민국](../Page/대한민국.md "wikilink")에서는 레이아크라는 발음이 있다.
 
 ## 개발 게임
 
@@ -11,11 +11,11 @@
   - [Deemo](../Page/Deemo.md "wikilink") - 2013년 11월 13일 애플 앱스토어에 처음 나왔고, 12월 26일 안드로이드 버전으로도 발매되었다.\[6\]
       - Deemo \~마지막 리사이틀\~ - [PS Vita](https://ko.wikipedia.org/wiki/PS_Vita "wikilink") 버전 Deemo 시리즈 게임이다.\[7\]
       - Deemo \~reborn\~ - 2019년 11월 21일 발매된 [PS4](https://ko.wikipedia.org/wiki/PS4 "wikilink")/[PS VR](https://ko.wikipedia.org/wiki/PS_VR "wikilink") 버전 게임이다.
-  - [Implosion](https://ko.wikipedia.org/wiki/Implosion "wikilink") - 2015년 4월 9일 iOS 버전으로, 4월 26일 안드로이드 버전으로 발매되었다.\[8\]
+  - [Implosion](https://ko.wikipedia.org/wiki/임플로전 "wikilink") - 2015년 4월 9일 iOS 버전으로, 4월 26일 안드로이드 버전으로 발매되었다.\[8\]
   - [VOEZ](https://ko.wikipedia.org/wiki/VOEZ "wikilink") - 2016년 5월 26일 iOS 버전으로, 6월 2일 안드로이드 버전으로 발매되었다.
   - [Cytus II](https://ko.wikipedia.org/wiki/Cytus_II "wikilink") - 2018년 1월 18일 앱스토어에 처음 나왔다.\[9\]
   - [Sdorica](https://ko.wikipedia.org/wiki/Sdorica "wikilink") - 2018년 4월 19일 앱스토어와 구글 플레이에서 동시 발매되었다.\[10\]
-  - [MO Astray](https://ko.wikipedia.org/wiki/MO_Astray "wikilink") - 2019년 steam에서 발매되었다
+  - [MO Astray](https://ko.wikipedia.org/wiki/MO_Astray "wikilink") - 2019년 Steam에서 발매되었다.
 
 ### 개발중
 

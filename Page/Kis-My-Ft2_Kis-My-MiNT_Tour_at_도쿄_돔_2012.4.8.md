@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Kis-My-Ft2 Kis-My-MiNT Tour at 도쿄 돔 2012.4.8](https://ko.wikipedia.org/wiki/Kis-My-Ft2_Kis-My-MiNT_Tour_at_도쿄_돔_2012.4.8).
 
 
-《**Kis-My-Ft2 Kis-My-MiNT Tour at 도쿄 돔 2012.4.8**》()은, [Kis-My-Ft2](../Page/Kis-My-Ft2.md "wikilink")의 4번째 [DVD](../Page/DVD.md "wikilink")이다.
+《**Kis-My-Ft2 Kis-My-MiNT Tour at 도쿄 돔 2012.4.8**》()은 [Kis-My-Ft2](../Page/Kis-My-Ft2.md "wikilink")의 4번째 [DVD](../Page/DVD.md "wikilink")이다.
 
 ## 개요
 
@@ -67,7 +67,7 @@ Encore
 
 ## 블루레이반
 
-《**Kis-My-Ft2 Kis-My-MiNT Tour at 도쿄 돔 2012.4.8**》()은, [Kis-My-Ft2](../Page/Kis-My-Ft2.md "wikilink")의 [Blu-ray](https://ko.wikipedia.org/wiki/Blu-ray "wikilink") 이다.
+《**Kis-My-Ft2 Kis-My-MiNT Tour at 도쿄 돔 2012.4.8**》()은 [Kis-My-Ft2](../Page/Kis-My-Ft2.md "wikilink")의 [Blu-ray](https://ko.wikipedia.org/wiki/Blu-ray "wikilink") 이다.
 
 ## 개요
 

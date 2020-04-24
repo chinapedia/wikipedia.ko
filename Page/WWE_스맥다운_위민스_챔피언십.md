@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [WWE 스맥다운 위민스 챔피언십](https://ko.wikipedia.org/wiki/WWE_스맥다운_위민스_챔피언십).
 
 
-**WWE 스맥다운 위민스 챔피언십(WWE Smackdown Women's Championship)**은 [WWE](https://ko.wikipedia.org/wiki/WWE "wikilink")에 속한 챔피언십 중 하나의 챔피언십이었다. 2016년 역대 두번째 WWE 브랜드 분리 이후 스맥다운 브랜드의 위민스 디비전 활성화를 위해 신설되었으며, RAW에 있는 [WWE 위민스 챔피언십은](https://ko.wikipedia.org/wiki/WWE_위민스_챔피언십_\(2016년_이후\) "wikilink") 빨간색 버전이고 스맥다운은 파란색 버전이다.
+**WWE 스맥다운 위민스 챔피언십(WWE Smackdown Women's Championship)**은 [WWE](../Page/WWE.md "wikilink")에 속한 챔피언십 중 하나의 챔피언십이었다. 2016년 역대 두번째 WWE 브랜드 분리 이후 스맥다운 브랜드의 위민스 디비전 활성화를 위해 신설되었으며, RAW에 있는 [WWE 위민스 챔피언십은](https://ko.wikipedia.org/wiki/WWE_위민스_챔피언십_\(2016년_이후\) "wikilink") 빨간색 버전이고 스맥다운은 파란색 버전이다.
 
 ## 역사
 

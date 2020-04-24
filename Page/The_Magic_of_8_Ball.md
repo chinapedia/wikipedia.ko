@@ -5,4 +5,4 @@
 
 ## 수록곡
 
-[분류:1995년 음반](https://ko.wikipedia.org/wiki/분류:1995년_음반 "wikilink") [분류:솔리드의 음반](https://ko.wikipedia.org/wiki/분류:솔리드의_음반 "wikilink") [분류:대한민국의 음반](https://ko.wikipedia.org/wiki/분류:대한민국의_음반 "wikilink") [분류:미국의 음반](https://ko.wikipedia.org/wiki/분류:미국의_음반 "wikilink") [분류:팝 음반](https://ko.wikipedia.org/wiki/분류:팝_음반 "wikilink") [분류:댄스 팝 음반](https://ko.wikipedia.org/wiki/분류:댄스_팝_음반 "wikilink") [분류:리듬 앤 블루스 음반](https://ko.wikipedia.org/wiki/분류:리듬_앤_블루스_음반 "wikilink")
+[분류:1995년 음반](https://ko.wikipedia.org/wiki/분류:1995년_음반 "wikilink") [분류:솔리드의 음반](https://ko.wikipedia.org/wiki/분류:솔리드의_음반 "wikilink") [분류:미국의 음반](https://ko.wikipedia.org/wiki/분류:미국의_음반 "wikilink") [분류:팝 음반](https://ko.wikipedia.org/wiki/분류:팝_음반 "wikilink") [분류:댄스 팝 음반](https://ko.wikipedia.org/wiki/분류:댄스_팝_음반 "wikilink") [분류:리듬 앤 블루스 음반](https://ko.wikipedia.org/wiki/분류:리듬_앤_블루스_음반 "wikilink")

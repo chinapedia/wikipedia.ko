@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [THE IDOLM@STER 2](https://ko.wikipedia.org/wiki/THE_IDOLM@STER_2).
 
 
-\<**THE IDOLM@STER 2**\>(아이돌마스터 투) 는 [반다이 남코 게임스로부터](https://ko.wikipedia.org/wiki/반다이_남코_게임스 "wikilink") [2011년](../Page/2011년.md "wikilink") [2월 24일에](../Page/2월_24일.md "wikilink") 발매된 [Xbox 360용](https://ko.wikipedia.org/wiki/Xbox_360 "wikilink") 아이돌 육성 게임. 공식 약칭은 \<**아이마스 2**\>. 2011년 10월 27일에 PlayStation 3판도 발매되었다\[1\].
+\<**THE IDOLM@STER 2**\>(아이돌마스터 투)는 [반다이 남코 게임스로부터](https://ko.wikipedia.org/wiki/반다이_남코_게임스 "wikilink") [2011년](../Page/2011년.md "wikilink") [2월 24일에](../Page/2월_24일.md "wikilink") 발매된 [Xbox 360용](https://ko.wikipedia.org/wiki/Xbox_360 "wikilink") 아이돌 육성 게임. 공식 약칭은 \<**아이마스 2**\>. 2011년 10월 27일에 PlayStation 3판도 발매되었다\[1\].
 
 ## 개요
 

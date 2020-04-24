@@ -163,7 +163,7 @@
 
 ## 외부 링크
 
-  - [Freerice](http://www.freerice.com)
+  - [Freerice](https://web.archive.org/web/20071116052017/http://www.freerice.com/)
   - [WFP on Freerice](https://web.archive.org/web/20120728174234/http://www.wfp.org/how-to-help/individuals/freerice)
 
 [분류:2007년 설립](https://ko.wikipedia.org/wiki/분류:2007년_설립 "wikilink") [분류:자선 행사](https://ko.wikipedia.org/wiki/분류:자선_행사 "wikilink")

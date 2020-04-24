@@ -9,9 +9,9 @@
 
 [1987년](../Page/1987년.md "wikilink") 4 월 인디 레이블에서 앨범 'No More Pain'을 내놓아 5,000 장의 판매고를 올리며, 인디 차트 1 위가 된다. 또한 해외에서도 그 음악성이 높은 평가를 받아 발매 직후부터 전화 문의가 쇄도 할 정도였다. [독일](../Page/독일.md "wikilink")에서 발행한 스래쉬 메탈 잡지에 등장하는 등 [유럽](../Page/유럽.md "wikilink")을 중심으로 [뉴욕](../Page/뉴욕.md "wikilink") 등에서도 큰 주목을 받았다.
 
-[1988년](../Page/1988년.md "wikilink") 2 월 빅터에서 미니 앨범 'Killing Field ... "로 메이저 데뷔. 10 월 14 일 \~ 19 일 미국 뉴욕의 라이브 하우스 PYLAMID, [CBGB를](https://ko.wikipedia.org/wiki/:en:CBGB "wikilink") 포함한 4 곳에서 라이브를 가졌다. 12 월, 앨범 "Complicated Mind"를 냈다. [1989년](../Page/1989년.md "wikilink") 3 \~ 7 월에 앨범 녹음을 위해 다시 뉴욕에 갔다. CBGB를 비롯해 동부의 공연장 십여개를 도는 투어도 가졌다. 8 월에 앨범 "Incompetent ..."를 발매했지만, 귀국 후에 행해진 라이브 투어를 마치고 히로카와는 밴드를 탈퇴했다.
+[1988년](../Page/1988년.md "wikilink") 2 월 빅터에서 미니 앨범 'Killing Field ... "로 메이저 데뷔. 10월 14일 \~ 19 일 미국 뉴욕의 라이브 하우스 PYLAMID, [CBGB를](https://ko.wikipedia.org/wiki/:en:CBGB "wikilink") 포함한 4 곳에서 라이브를 가졌다. 12 월, 앨범 "Complicated Mind"를 냈다. [1989년](../Page/1989년.md "wikilink") 3 \~ 7 월에 앨범 녹음을 위해 다시 뉴욕에 갔다. CBGB를 비롯해 동부의 공연장 십여개를 도는 투어도 가졌다. 8 월에 앨범 "Incompetent ..."를 발매했지만, 귀국 후에 행해진 라이브 투어를 마치고 히로카와는 밴드를 탈퇴했다.
 
-[1991년](../Page/1991년.md "wikilink") 헤비 메탈 밴드[GASTUNK의](https://ko.wikipedia.org/wiki/:en:Gastunk "wikilink") 멤버였던 고바야시 "PAZZ" 시게루가 밴드에 가입한다. 3 월에 앨범 "HUMAN NOISE"를 발매했지만 이후 점차 인디에서 활동하게 되었으며 [1992년](../Page/1992년.md "wikilink") 11 월 앨범 "Illegal Soul"을 내었지만 이후 활동이 침체기로 들어간다. 리더 코우가 1994년에 무단 이탈했으며 결국 1999년 5 월 7 일, 코우가 불의의 사고로 36 세의 젊은 나이로 죽는다. 99년 11 월에 후지타, DEF MASTER의 Yu-mi 두 사람의 공동 작업 앨범 'Where Your Life Lies\! "을 DOOM의 이름 아래 발표했다. 지금까지의 밴드 사운드와는 다른 본격적인 [인더스트리얼 음악이](https://ko.wikipedia.org/wiki/인더스트리얼_음악 "wikilink") 담긴 앨범이다.
+[1991년](../Page/1991년.md "wikilink") 헤비 메탈 밴드[GASTUNK의](https://ko.wikipedia.org/wiki/:en:Gastunk "wikilink") 멤버였던 고바야시 "PAZZ" 시게루가 밴드에 가입한다. 3 월에 앨범 "HUMAN NOISE"를 발매했지만 이후 점차 인디에서 활동하게 되었으며 [1992년](../Page/1992년.md "wikilink") 11 월 앨범 "Illegal Soul"을 내었지만 이후 활동이 침체기로 들어간다. 리더 코우가 1994년에 무단 이탈했으며 결국 1999년 5월 7일, 코우가 불의의 사고로 36 세의 젊은 나이로 죽는다. 99년 11 월에 후지타, DEF MASTER의 Yu-mi 두 사람의 공동 작업 앨범 'Where Your Life Lies\! "을 DOOM의 이름 아래 발표했다. 지금까지의 밴드 사운드와는 다른 본격적인 [인더스트리얼 음악이](https://ko.wikipedia.org/wiki/인더스트리얼_음악 "wikilink") 담긴 앨범이다.
 
 2000년부터는 DOOM은 리더 후지타의 솔로 활동에 가깝게 라이브를 했지만, 모로타 코우의 사망 이후 새로운 음원은 발표되지 않았으나, 2014년 이후 후지타가 밴드를 재결성하여 활동중이다.
 

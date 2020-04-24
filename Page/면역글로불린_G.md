@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [면역글로불린 G](https://ko.wikipedia.org/wiki/면역글로불린_G).
 
 
-**면역글로불린 G**(**IgG**)는 [항체](https://ko.wikipedia.org/wiki/항체 "wikilink") [개별형](https://ko.wikipedia.org/wiki/개별형 "wikilink") 중 하나이다. 동일한 중쇄 두 개와 경쇄 두 개로 된 단량체이고, 일반적인 항체의 형태인 Y형으로 배열되어 있다. 각 IgG에는 항원결합자리가 두 개 있다. 혈류에 가장 많은 항체로, 사람의 경우 [혈청](https://ko.wikipedia.org/wiki/혈청 "wikilink")에 있는 [면역글로불린](https://ko.wikipedia.org/wiki/면역글로불린 "wikilink") 총량 중 75%를 차지한다.\[1\] [형질세포](https://ko.wikipedia.org/wiki/형질세포 "wikilink")가 IgG를 합성하고 분비한다.
+**면역글로불린 G**(**IgG**)는 [항체](https://ko.wikipedia.org/wiki/항체 "wikilink") [개별형](https://ko.wikipedia.org/wiki/개별형 "wikilink") 중 하나이다. 동일한 중쇄 두 개와 경쇄 두 개로 된 단량체이고, 일반적인 항체의 형태인 Y형으로 배열되어 있다. 각 IgG에는 항원결합자리가 두 개 있다. 혈류에 가장 많은 항체로, 사람의 경우 [혈청](../Page/혈청.md "wikilink")에 있는 [면역글로불린](https://ko.wikipedia.org/wiki/면역글로불린 "wikilink") 총량 중 75%를 차지한다.\[1\] [형질세포](https://ko.wikipedia.org/wiki/형질세포 "wikilink")가 IgG를 합성하고 분비한다.
 
 ## 기능
 

@@ -5,7 +5,7 @@
 
 ## 개요
 
-중학 졸업 후 애니메이션계의 전문학교를 거쳐 게임 메이커에 입사, 거기서 캐릭터 디자인을 다룬다. 퇴사 후 프리 일러스트레이터로서 활동을 시작한다. 광고의 일러스트나 디자인을 다룬 후 [메탈 기어 솔리드 시리즈](https://ko.wikipedia.org/wiki/메탈_기어_솔리드_시리즈 "wikilink") ([코나미 디지털 엔터테인먼트](https://ko.wikipedia.org/wiki/코나미_디지털_엔터테인먼트 "wikilink")) 의 일러스트나 만화를 다루면서 개인적으로 블로그나 [pixiv](https://ko.wikipedia.org/wiki/pixiv "wikilink") 등에서 일러스트를 공개한다. 그 중 하나인 [블랙★록 슈터는](../Page/블랙★록_슈터.md "wikilink") [supercell](https://ko.wikipedia.org/wiki/supercell "wikilink") 의 ryo에 의해 곡이 붙여진 후 주목받아 2009년에 피규어화, 2010년에 애니메이션화, 2011년에 게임화되었다.
+중학 졸업 후 애니메이션계의 전문학교를 거쳐 게임 메이커에 입사, 거기서 캐릭터 디자인을 다룬다. 퇴사 후 프리 일러스트레이터로서 활동을 시작한다. 광고의 일러스트나 디자인을 다룬 후 [메탈 기어 솔리드 시리즈](https://ko.wikipedia.org/wiki/메탈_기어_솔리드_시리즈 "wikilink") ([코나미 디지털 엔터테인먼트](https://ko.wikipedia.org/wiki/코나미_디지털_엔터테인먼트 "wikilink"))의 일러스트나 만화를 다루면서 개인적으로 블로그나 [pixiv](https://ko.wikipedia.org/wiki/pixiv "wikilink") 등에서 일러스트를 공개한다. 그 중 하나인 [블랙★록 슈터는](../Page/블랙★록_슈터.md "wikilink") [supercell](https://ko.wikipedia.org/wiki/supercell "wikilink") 의 ryo에 의해 곡이 붙여진 후 주목받아 2009년에 피규어화, 2010년에 애니메이션화, 2011년에 게임화되었다.
 
 블랙★록 슈터가 주목을 끌었던 것이 계기로\[2\] huke가 캐릭터 디자인을 다루게 된 게임 소프트 「[Steins;Gate](../Page/Steins;Gate.md "wikilink")」도 텔레비전 애니메이션화되었다.
 

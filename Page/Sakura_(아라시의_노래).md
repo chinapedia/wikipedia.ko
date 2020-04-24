@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Sakura \(아라시의 노래\)](https://ko.wikipedia.org/wiki/Sakura_\(아라시의_노래\)).
 
 
-〈**Sakura**〉(사쿠라)는, [아라시](../Page/아라시.md "wikilink")의 45번째 [싱글이다](../Page/싱글_\(음악\).md "wikilink").
+〈**Sakura**〉(사쿠라)는 [아라시](../Page/아라시.md "wikilink")의 45번째 [싱글이다](../Page/싱글_\(음악\).md "wikilink").
 
 ## 개요
 

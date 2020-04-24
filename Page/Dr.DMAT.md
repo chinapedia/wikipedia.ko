@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Dr.DMAT](https://ko.wikipedia.org/wiki/Dr.DMAT).
 
 
-《**Dr.DMAT\~잔해 속의 히포크라테스\~**》()는, 원작·타카노 히로시, 작화·키쿠치 아키오에 의한 [일본](../Page/일본.md "wikilink")의 [만화](../Page/만화.md "wikilink") 작품이다.
+《**Dr.DMAT\~잔해 속의 히포크라테스\~**》()는 원작·타카노 히로시, 작화·키쿠치 아키오에 의한 [일본](../Page/일본.md "wikilink")의 [만화](../Page/만화.md "wikilink") 작품이다.
 
 ## 개요
 

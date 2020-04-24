@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Dreaming \(에이프릴의 EP\)](https://ko.wikipedia.org/wiki/Dreaming_\(에이프릴의_EP\)).
 
 
-《**Dreaming**》(드리밍)은 대한민국의 [걸 그룹](../Page/걸_그룹.md "wikilink") [에이프릴의](../Page/에이프릴_\(음악_그룹\).md "wikilink") [미니 앨범이다](https://ko.wikipedia.org/wiki/미니_앨범 "wikilink"). 타이틀 곡은 〈**꿈사탕**〉이며 [2015년](../Page/2015년.md "wikilink") [8월 24일에](../Page/8월_24일.md "wikilink") [로엔 엔터테인먼트에서](https://ko.wikipedia.org/wiki/로엔_엔터테인먼트 "wikilink") 발매되었다.
+《**Dreaming**》(드리밍)은 대한민국의 [걸 그룹](../Page/걸_그룹.md "wikilink") [에이프릴의](../Page/에이프릴_\(음악_그룹\).md "wikilink") 첫 번째 [미니 앨범이자](https://ko.wikipedia.org/wiki/미니_앨범 "wikilink") 데뷔 앨범이다. 타이틀 곡은 〈**꿈사탕**〉이며 [2015년](../Page/2015년.md "wikilink") [8월 24일에](../Page/8월_24일.md "wikilink") [로엔 엔터테인먼트에서](https://ko.wikipedia.org/wiki/로엔_엔터테인먼트 "wikilink") 발매되었다.
 
 ## 트랙 리스트
 

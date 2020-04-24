@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [TETSUYA](https://ko.wikipedia.org/wiki/TETSUYA).
 
 
-**TETSUYA**(테츠야, [1981년](../Page/1981년.md "wikilink") [2월 18일](../Page/2월_18일.md "wikilink") \~ )는, [일본](../Page/일본.md "wikilink")의 [배우](../Page/배우.md "wikilink"), 댄서이며, [EXILE](../Page/EXILE.md "wikilink"), [EXILE THE SECOND의](../Page/EXILE_THE_SECOND.md "wikilink") 멤버이다. 본명, **츠치다 테츠야**(). 현재는 [니시다 시즈카](https://ko.wikipedia.org/wiki/니시다_시즈카 "wikilink")(퍼포머)와[EXILE](../Page/EXILE.md "wikilink")멤버:[우사미 요시히로](https://ko.wikipedia.org/wiki/우사미_요시히로 "wikilink")(퍼포머)와함께 DANCE EARTH PARTY의 멤버이다.
+**TETSUYA**(테츠야, [1981년](../Page/1981년.md "wikilink") [2월 18일](../Page/2월_18일.md "wikilink") \~ )는 [일본](../Page/일본.md "wikilink")의 [배우](../Page/배우.md "wikilink"), 댄서이며, [EXILE](../Page/EXILE.md "wikilink"), [EXILE THE SECOND의](../Page/EXILE_THE_SECOND.md "wikilink") 멤버이다. 본명, **츠치다 테츠야**(). 현재는 [니시다 시즈카](https://ko.wikipedia.org/wiki/니시다_시즈카 "wikilink")(퍼포머)와[EXILE](../Page/EXILE.md "wikilink")멤버:[우사미 요시히로](https://ko.wikipedia.org/wiki/우사미_요시히로 "wikilink")(퍼포머)와함께 DANCE EARTH PARTY의 멤버이다.
 
 [카나가와 현](../Page/가나가와현.md "wikilink") [요코스카 시](https://ko.wikipedia.org/wiki/요코스카_시 "wikilink") 출신. [LDH](https://ko.wikipedia.org/wiki/LDH "wikilink") 소속.
 

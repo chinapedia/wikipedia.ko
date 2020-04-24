@@ -260,7 +260,7 @@
       -
         가: 키쿠치 마코토(히라타 히로미)
         작사: 젓가락도 풍부해 가, 작곡·편곡: 타니구치 나오히사, 편곡: CHOKKAKU
-        오리지널 아티스트: [JUJU](https://ko.wikipedia.org/wiki/JUJU "wikilink")
+        오리지널 아티스트: [JUJU](../Page/JUJU.md "wikilink")
 5.  [지름길로 가고 싶다](https://ko.wikipedia.org/wiki/보노보노#주제가 "wikilink")
       -
         가: 미우라 아즈사(타카하시 치아키)

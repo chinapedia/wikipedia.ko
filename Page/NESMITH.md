@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [NESMITH](https://ko.wikipedia.org/wiki/NESMITH).
 
 
-**NESMITH**(네스미스, [1983년](../Page/1983년.md "wikilink") [8월 1일](../Page/8월_1일.md "wikilink") \~ )는, [일본](../Page/일본.md "wikilink")의 [가수](https://ko.wikipedia.org/wiki/가수 "wikilink")이며, [EXILE](../Page/EXILE.md "wikilink"), [EXILE THE SECOND의](../Page/EXILE_THE_SECOND.md "wikilink") 멤버이다. 본명, **류타 카림 네스미스**().
+**NESMITH**(네스미스, [1983년](../Page/1983년.md "wikilink") [8월 1일](../Page/8월_1일.md "wikilink") \~ )는 [일본](../Page/일본.md "wikilink")의 [가수](https://ko.wikipedia.org/wiki/가수 "wikilink")이며, [EXILE](../Page/EXILE.md "wikilink"), [EXILE THE SECOND의](../Page/EXILE_THE_SECOND.md "wikilink") 멤버이다. 본명, **류타 카림 네스미스**().
 
 [쿠마모토 현](../Page/구마모토현.md "wikilink") 출신. [LDH](https://ko.wikipedia.org/wiki/LDH "wikilink") 소속.
 

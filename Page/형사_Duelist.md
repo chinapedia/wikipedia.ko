@@ -25,7 +25,7 @@
   - [임해림](../Page/임해림.md "wikilink") : 탕촌 노인 역
   - [나갑성](../Page/나갑성.md "wikilink") : 주막 사람들 역
   - [김준배](../Page/김준배_\(1969년\).md "wikilink") : 주막 사람들 역
-  - [박수영](../Page/박수영.md "wikilink") : 주막 사람들 역
+  - [박수영](https://ko.wikipedia.org/wiki/박수영_\(1970년\) "wikilink") : 주막 사람들 역
   - 한동규 : 주막 사람들 역
   - 최용현 : 주막 사람들 역
   - 정선철 : 주막 사람들 역

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [이스탄불 바샥셰히르 FK](https://ko.wikipedia.org/wiki/이스탄불_바샥셰히르_FK).
 
 
-**이스탄불 바샥셰히르 푸트볼 쿨뤼뷔**() 는 [터키](../Page/터키.md "wikilink") [이스탄불](../Page/이스탄불.md "wikilink")시의 [바샥셰히르](https://ko.wikipedia.org/wiki/바샥셰히르 "wikilink")지구를 연고로 하는 프로 [축구](../Page/축구.md "wikilink") 클럽이다. 현재 터키 최상위 리그인 [쉬페르리그](../Page/쉬페르리그.md "wikilink")에 소속되어 있다. [1990년](../Page/1990년.md "wikilink") 설립되었다.
+**이스탄불 바샥셰히르 푸트볼 쿨뤼뷔**()는 [터키](../Page/터키.md "wikilink") [이스탄불](../Page/이스탄불.md "wikilink")시의 [바샥셰히르](https://ko.wikipedia.org/wiki/바샥셰히르 "wikilink")지구를 연고로 하는 프로 [축구](../Page/축구.md "wikilink") 클럽이다. 현재 터키 최상위 리그인 [쉬페르리그](../Page/쉬페르리그.md "wikilink")에 소속되어 있다. [1990년](../Page/1990년.md "wikilink") 설립되었다.
 
 ## 역대 성적
 

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [EXO  ](https://ko.wikipedia.org/wiki/EXO__).
+> This article is converted from Wikipedia: [EXO의 음반 목록](https://ko.wikipedia.org/wiki/EXO의_음반_목록).
 
 
 다음은 대한민국의 음악그룹 [EXO](../Page/EXO.md "wikilink")의 **음반 목록**이다. EXO는 2012년 4월 미니 음반 **[MAMA](../Page/MAMA_\(EP\).md "wikilink")**를 발매하며 데뷔했고, 다섯 장의 정규 음반과 네 장의 미니 음반과 세 장의 스페셜 음반을 발매했다.\[1\]

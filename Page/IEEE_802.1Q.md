@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [IEEE 802.1Q](https://ko.wikipedia.org/wiki/IEEE_802.1Q).
 
 
-**IEEE 802.1Q**는 하나의 [이더넷](../Page/이더넷.md "wikilink") 네트워크에서 [가상 랜](../Page/가상_랜.md "wikilink")(VLAN)을 지원하는 [네트워크](../Page/컴퓨터_네트워크.md "wikilink") 표준이다. 이 표준은 [이더넷 프레임을](https://ko.wikipedia.org/wiki/이더넷_프레임 "wikilink") 위한 VLAN 태그 추가 시스템과 더불어, 이러한 프레임을 관리하는데 동반되는 [브리지와](../Page/네트워크_브리지.md "wikilink") [스위치에](https://ko.wikipedia.org/wiki/네트워크_스위치 "wikilink") 쓰이는 절차들을 정의한다. 또, 이 표준은 [IEEE 802.1p라는](https://ko.wikipedia.org/wiki/IEEE_802.1p "wikilink") [QoS](../Page/QoS.md "wikilink") 우선 순위 스키마를 위한 예비를 포함하고 있으며 [GARP를](https://ko.wikipedia.org/wiki/MRP "wikilink") 정의한다.
+**IEEE 802.1Q**는 하나의 [이더넷](../Page/이더넷.md "wikilink") 네트워크에서 [가상 랜](../Page/가상_랜.md "wikilink")(VLAN)을 지원하는 [네트워크](../Page/컴퓨터_네트워크.md "wikilink") 표준이다. 이 표준은 [이더넷 프레임을](https://ko.wikipedia.org/wiki/이더넷_프레임 "wikilink") 위한 VLAN 태그 추가 시스템과 더불어, 이러한 프레임을 관리하는데 동반되는 [브리지와](../Page/네트워크_브리지.md "wikilink") [스위치에](../Page/네트워크_스위치.md "wikilink") 쓰이는 절차들을 정의한다. 또, 이 표준은 [IEEE 802.1p라는](https://ko.wikipedia.org/wiki/IEEE_802.1p "wikilink") [QoS](../Page/QoS.md "wikilink") 우선 순위 스키마를 위한 예비를 포함하고 있으며 [GARP를](https://ko.wikipedia.org/wiki/MRP "wikilink") 정의한다.
 
 이 표준은 [IEEE 802](../Page/IEEE_802.md "wikilink") 표준 위원회의 [워킹 그룹인](https://ko.wikipedia.org/wiki/워킹_그룹 "wikilink") [IEEE 802.1이](https://ko.wikipedia.org/wiki/IEEE_802.1 "wikilink") 개발한 것으로, 그 뒤로 [IEEE 802.1ak](https://ko.wikipedia.org/wiki/IEEE_802.1ak "wikilink"), [IEEE 802.1Qat](https://ko.wikipedia.org/wiki/IEEE_802.1Qat "wikilink"), [IEEE 802.1Qay를](https://ko.wikipedia.org/wiki/IEEE_802.1Qay "wikilink") 포함한 개정판들을 활발하게 개발하고 있다.
 

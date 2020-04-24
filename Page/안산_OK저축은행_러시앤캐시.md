@@ -29,6 +29,7 @@
 | 2016-17                                                                                                              |
 | 2017-18                                                                                                              |
 | 2018-19                                                                                                              |
+| 2019-20                                                                                                              |
 
 ## 코칭스태프&선수단
 
@@ -61,8 +62,6 @@
 | 4   | 라이트  | [조재성](../Page/조재성.md "wikilink")                              | 2016  |                                                      |
 | 5   | 리베로  | [조국기](../Page/조국기.md "wikilink")                              | 2011  | 2013([대한항공](../Page/인천_대한항공_점보스.md "wikilink"))      |
 | 6   | 세터   | [이민규](../Page/이민규_\(배구_선수\).md "wikilink")                    | 2013  |                                                      |
-| 7   | 레프트  | [이시몬](../Page/이시몬_\(배구_선수\).md "wikilink")                    | 2015  |                                                      |
-| 8   | 세터   | [이효동](../Page/이효동.md "wikilink")                              | 2010  | 2017([KB손해보험](../Page/의정부_KB손해보험_스타즈.md "wikilink")) |
 | 9   | 센터   | [손주형](https://ko.wikipedia.org/wiki/손주형 "wikilink")           | 2017  |                                                      |
 | 10  | 센터   | [정성환](https://ko.wikipedia.org/wiki/정성환_\(배구_선수\) "wikilink") | 2019  |                                                      |
 | 11  | 센터   | [박원빈](../Page/박원빈_\(배구_선수\).md "wikilink")                    | 2014  |                                                      |
@@ -75,6 +74,7 @@
 | 19  | 레프트  | [김웅비](https://ko.wikipedia.org/wiki/김웅비 "wikilink")           | 2019  |                                                      |
 | 20  | 센터   | [전진선](../Page/전진선.md "wikilink")                              | 2018  |                                                      |
 | 21  | 리베로  | [조성찬](https://ko.wikipedia.org/wiki/조성찬 "wikilink")           | 2019  |                                                      |
+| 00  | 센터   | [진상헌](https://ko.wikipedia.org/wiki/진상헌 "wikilink")           | 2007  | 2020([대한항공](../Page/인천_대한항공_점보스.md "wikilink"))      |
 
 ### 군 입대 선수단
 

@@ -5,7 +5,7 @@
 
 <tr>
 
-\<th height="30" \>Career {{\#if:|()}}
+\<th height="30" \>연혁 {{\#if:|()}}
 
 </th>
 

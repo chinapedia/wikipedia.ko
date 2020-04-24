@@ -37,7 +37,7 @@
 | 진에어 그린윙스 Falcons                                                   |                   |
 | [CJ 엔투스](https://ko.wikipedia.org/wiki/CJ_엔투스 "wikilink")          | CJ 엔투스 Frost      |
 | CJ 엔투스 Blaze                                                       |                   |
-| [KT 롤스터](https://ko.wikipedia.org/wiki/KT_롤스터 "wikilink")          | KT 롤스터 Arrows     |
+| [KT 롤스터](../Page/KT_롤스터.md "wikilink")                             | KT 롤스터 Arrows     |
 | KT 롤스터 Bullets                                                     |                   |
 | [SK텔레콤 T1](https://ko.wikipedia.org/wiki/SK텔레콤_T1 "wikilink")      | SK텔레콤 T1 S        |
 | SK텔레콤 T1 K                                                         |                   |

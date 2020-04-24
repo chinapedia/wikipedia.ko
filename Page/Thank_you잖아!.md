@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Thank you잖아!](https://ko.wikipedia.org/wiki/Thank_you잖아!).
 
 
-〈**Thank you잖아\!**〉()는, [Kis-My-Ft2](../Page/Kis-My-Ft2.md "wikilink")의 12번째 [싱글이다](../Page/싱글_\(음악\).md "wikilink").
+〈**Thank you잖아\!**〉()는 [Kis-My-Ft2](../Page/Kis-My-Ft2.md "wikilink")의 12번째 [싱글이다](../Page/싱글_\(음악\).md "wikilink").
 
 ## 개요
 

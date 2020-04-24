@@ -182,7 +182,8 @@
   - 2020년 3월 12일 코드쿤스트 - **\[Digital Single\] JOKE\!**\[62\]
   - 2020년 3월 19일 코드쿤스트 - **\[Digital Single\] Knock**\[63\]
   - 2020년 3월 26일 GRAY - **\[Digital Single\] Digital Lover**
-  - 2020년 ?월 ?일 코드쿤스트 - **PEOPLE**
+  - 2020년 4월 2일 코드쿤스트 - **PEOPLE**
+  - 2020년 4월 9일 Chloe DeVita - **CRÈME**
 
 ## 각주
 
@@ -210,7 +211,7 @@
 20. 박재범 정규 4집의 세번째 선공개곡.
 21. [장미여관](https://ko.wikipedia.org/wiki/장미여관 "wikilink")도 앨범 참여.
 22. [원펀치의](https://ko.wikipedia.org/wiki/원펀치_\(음악_그룹\) "wikilink") 멤버 [원](https://ko.wikipedia.org/wiki/원_\(가수\) "wikilink"),[올 블랙의](../Page/올_블랙.md "wikilink") 멤버 [도끼](../Page/도끼_\(가수\).md "wikilink"),[더 콰이엇](https://ko.wikipedia.org/wiki/더_콰이엇 "wikilink"),[매드 클라운](../Page/매드_클라운.md "wikilink"),[자이언티](../Page/자이언티.md "wikilink"),[씨잼](../Page/씨잼.md "wikilink"),[리듬파워](../Page/리듬파워.md "wikilink")의 멤버 [보이비](https://ko.wikipedia.org/wiki/보이비 "wikilink"),[아지아틱스](https://ko.wikipedia.org/wiki/아지아틱스 "wikilink")의 멤버 [플로식](https://ko.wikipedia.org/wiki/플로식 "wikilink") 외 8명도 앨범 참여.
-23. [원펀치의](https://ko.wikipedia.org/wiki/원펀치_\(음악_그룹\) "wikilink") 멤버 [원](https://ko.wikipedia.org/wiki/원_\(가수\) "wikilink"),[매드 클라운](../Page/매드_클라운.md "wikilink"),[샵건](https://ko.wikipedia.org/wiki/샵건 "wikilink")도 앨범 참여.
+23. [원펀치의](https://ko.wikipedia.org/wiki/원펀치_\(음악_그룹\) "wikilink") 멤버 [원](https://ko.wikipedia.org/wiki/원_\(가수\) "wikilink"),[매드 클라운](../Page/매드_클라운.md "wikilink"),[샵건](../Page/샵건.md "wikilink")도 앨범 참여.
 24. [씨잼](../Page/씨잼.md "wikilink"),[비와이](../Page/비와이.md "wikilink"),[수퍼비](../Page/수퍼비.md "wikilink"),[지투](https://ko.wikipedia.org/wiki/지투 "wikilink"),[해쉬스완](../Page/해쉬스완.md "wikilink"),[매드 클라운](../Page/매드_클라운.md "wikilink"),[도끼](../Page/도끼_\(가수\).md "wikilink"),[더 콰이엇](https://ko.wikipedia.org/wiki/더_콰이엇 "wikilink"),[아지아틱스](https://ko.wikipedia.org/wiki/아지아틱스 "wikilink")의 멤버 [플로식](https://ko.wikipedia.org/wiki/플로식 "wikilink"),전 [스피드의](https://ko.wikipedia.org/wiki/스피드_\(대한민국의_음악_그룹\) "wikilink") 멤버 [우태운](../Page/우태운.md "wikilink"),[리듬파워](../Page/리듬파워.md "wikilink")의 멤버 [보이비](https://ko.wikipedia.org/wiki/보이비 "wikilink")도 앨범 참여.
 25. 박재범 정규 4집의 네번째 선공개곡.
 26. [기린도](../Page/기린_\(가수\).md "wikilink") 앨범 참여.

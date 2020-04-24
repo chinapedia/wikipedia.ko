@@ -33,7 +33,6 @@
   - [드라마](https://ko.wikipedia.org/wiki/드라마 "wikilink") [여왕의 꽃의](../Page/여왕의_꽃.md "wikilink") NBC 방송국이 나온다.
   - [드라마](https://ko.wikipedia.org/wiki/드라마 "wikilink") [내 딸, 금사월의](../Page/내_딸,_금사월.md "wikilink") 보금그룹이 나온다.
   - [쇼\! 음악중심](https://ko.wikipedia.org/wiki/쇼!_음악중심 "wikilink") 생방송이 토요일마다 진행된다.
-  - [나 혼자 산다](../Page/나_혼자_산다.md "wikilink") 방송 시작부분에 나온다.
 
 ## 같이 보기
 

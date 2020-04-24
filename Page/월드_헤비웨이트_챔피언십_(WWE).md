@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [월드 헤비웨이트 챔피언십 \(WWE\)](https://ko.wikipedia.org/wiki/월드_헤비웨이트_챔피언십_\(WWE\)).
 
 
-**월드 헤비웨이트 챔피언십**(World Heavyweight Championship)은 [WWE](https://ko.wikipedia.org/wiki/WWE "wikilink")에서 월드 챔피언 중 하나였으며 [WWE 챔피언십과](https://ko.wikipedia.org/wiki/WWE_월드_헤비웨이트_챔피언십 "wikilink") 같은 급이 되었던 타이틀이다.
+**월드 헤비웨이트 챔피언십**(World Heavyweight Championship)은 [WWE](../Page/WWE.md "wikilink")에서 월드 챔피언 중 하나였으며 [WWE 챔피언십과](https://ko.wikipedia.org/wiki/WWE_월드_헤비웨이트_챔피언십 "wikilink") 같은 급이 되었던 타이틀이다.
 
 벨트 모양은 NWA 월드 헤비웨이트 챔피언십 및 [WCW 월드 헤비웨이트 챔피언십](../Page/WCW_월드_헤비웨이트_챔피언십.md "wikilink") 때와 같았다.
 
@@ -11,7 +11,7 @@
 
 월드 헤비급 챔피언십의 역사는 2002년 9월 18일부터 시작하였다.
 
-2001년 [WWE](https://ko.wikipedia.org/wiki/WWE "wikilink") 가 [WCW](https://ko.wikipedia.org/wiki/WCW "wikilink")(월드 챔피언십 레슬링)와 [ECW](https://ko.wikipedia.org/wiki/ECW "wikilink")(익스트림 챔피언십 레슬링을)를 인수할 때, 인수된 단체들의 챔피언십도 [WWE](https://ko.wikipedia.org/wiki/WWE "wikilink")로 이동하면서([WCW 월드 헤비웨이트 챔피언십](../Page/WCW_월드_헤비웨이트_챔피언십.md "wikilink"), [WWE 유나이티드 스테이츠 챔피언십](../Page/WWE_유나이티드_스테이츠_챔피언십.md "wikilink"), [WWE 크루져웨이트 챔피언십](https://ko.wikipedia.org/wiki/WWE_크루져웨이트_챔피언십 "wikilink")), 2002년 브랜드 확장에 따라 [RAW와](../Page/WWE_러.md "wikilink") [스맥다운](https://ko.wikipedia.org/wiki/스맥다운 "wikilink")으로 두 브랜드로 나뉜다.
+2001년 [WWE](../Page/WWE.md "wikilink") 가 [WCW](https://ko.wikipedia.org/wiki/WCW "wikilink")(월드 챔피언십 레슬링)와 [ECW](https://ko.wikipedia.org/wiki/ECW "wikilink")(익스트림 챔피언십 레슬링을)를 인수할 때, 인수된 단체들의 챔피언십도 [WWE](../Page/WWE.md "wikilink")로 이동하면서([WCW 월드 헤비웨이트 챔피언십](../Page/WCW_월드_헤비웨이트_챔피언십.md "wikilink"), [WWE 유나이티드 스테이츠 챔피언십](../Page/WWE_유나이티드_스테이츠_챔피언십.md "wikilink"), [WWE 크루져웨이트 챔피언십](https://ko.wikipedia.org/wiki/WWE_크루져웨이트_챔피언십 "wikilink")), 2002년 브랜드 확장에 따라 [RAW와](../Page/WWE_러.md "wikilink") [스맥다운](https://ko.wikipedia.org/wiki/스맥다운 "wikilink")으로 두 브랜드로 나뉜다.
 
 2001년 [벤전스에서](https://ko.wikipedia.org/wiki/WWE_벤전스 "wikilink") [크리스 제리코가](../Page/크리스_제리코.md "wikilink") 4인(커트 앵글, 부커 T, 릭 플레어,빈스 맥맨)의 도움으로 [WCW 월드 헤비웨이트 챔피언](../Page/WCW_월드_헤비웨이트_챔피언십.md "wikilink") [더 락과](../Page/드웨인_존슨.md "wikilink") [WWE 챔피언](https://ko.wikipedia.org/wiki/WWE_챔피언 "wikilink") [스티브 오스틴을](../Page/스티브_오스틴.md "wikilink") 각각 이기면서 WWE의 첫 통합 월드 챔피언이 되었다. 그 통합 챔피언으로 [트리플H](https://ko.wikipedia.org/wiki/트리플H "wikilink"), [헐크 호건](../Page/헐크_호건.md "wikilink"), [언더테이커](https://ko.wikipedia.org/wiki/언더테이커 "wikilink"), [더 락](https://ko.wikipedia.org/wiki/더_락 "wikilink") , [브록 레스너](../Page/브록_레스너.md "wikilink") 까지 이어가다가 브랜드 확장 때 브록레스너가 [스맥다운](https://ko.wikipedia.org/wiki/스맥다운 "wikilink")으로 이적하게 되자 통합 챔피언십이 나뉘게 되면서 2002년 9월 18일 [RAW에서](../Page/WWE_러.md "wikilink") WWE 월드 헤비웨이트 챔피언십이 다시 탄생했다.
 

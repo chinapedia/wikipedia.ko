@@ -14,6 +14,11 @@
   - [금요일](../Page/금요일.md "wikilink") : 영화관(觀)(with 영화평론가 서성희)
   - [토요일](../Page/토요일.md "wikilink") : Special 4 U(애청자의 사연과 신청곡)
 
+## 역대 진행자
+
+  - [김선희](https://ko.wikipedia.org/wiki/김선희_\(TBC\) "wikilink") 아나운서
+  - [장진영](https://ko.wikipedia.org/wiki/장진영_\(아나운서\) "wikilink") 아나운서
+
 ## 경쟁 프로그램
 
 ### FM방송 (TBC Dream FM 포함)
@@ -32,7 +37,7 @@
   - 일요법회 (재방송) (일요일) ([WBS 대구원음방송](../Page/대구원음방송.md "wikilink"))
   - 이익선의 아름다운 초대 (평일) ([BBS 대구불교방송](../Page/대구불교방송.md "wikilink"))
   - 김혜옥의 아름다운 초대 (주말) ([BBS 대구불교방송](../Page/대구불교방송.md "wikilink"))
-  - TBN 이슈공감 (평일) ([TBN 대구교통방송](../Page/대구교통방송.md "wikilink")), ([TBN 경북교통방송](https://ko.wikipedia.org/wiki/경북교통방송 "wikilink"))
+  - 시사하는바가 크다 (평일) ([TBN 대구교통방송](../Page/대구교통방송.md "wikilink")), ([TBN 경북교통방송](https://ko.wikipedia.org/wiki/경북교통방송 "wikilink"))
   - TBN 교통시대 (주말) ([TBN 대구교통방송](../Page/대구교통방송.md "wikilink")), ([TBN 경북교통방송](https://ko.wikipedia.org/wiki/경북교통방송 "wikilink"))
 
 ### AM방송

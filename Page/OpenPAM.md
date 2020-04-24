@@ -5,7 +5,7 @@
 
 OpenPAM은 FreeBSD를 위해 개발되었다.
 
-2008년 1월 1일, OpenPAM은 [NSA가](../Page/미국_국토안보부.md "wikilink") 지원하는 오픈 소스 강화 프로젝트(오픈 소스에서 [커버리티](../Page/커버리티.md "wikilink")의 예방 정적 분석 툴을 통해 버그를 찾아내는)의 Rung 2로 승급하기 위해 커버리티에 의해 11개 프로젝트 중 하나로 선택되었다.\[3\]\[4\] 2009년 9월 23일, OpenPAM은 [루비](../Page/루비_\(프로그래밍_언어\).md "wikilink"), [삼바](../Page/삼바_\(소프트웨어\).md "wikilink") 그리고 [토르와](https://ko.wikipedia.org/wiki/토르_\(네트워크\) "wikilink") 함께 Rung 3로 승급되었다.\[5\]
+2008년 1월 1일, OpenPAM은 [NSA가](../Page/미국_국토안보부.md "wikilink") 지원하는 오픈 소스 강화 프로젝트(오픈 소스에서 [커버리티](../Page/커버리티.md "wikilink")의 예방 정적 분석 툴을 통해 버그를 찾아내는)의 Rung 2로 승급하기 위해 커버리티에 의해 11개 프로젝트 중 하나로 선택되었다.\[3\]\[4\] 2009년 9월 23일, OpenPAM은 [루비](../Page/루비_\(프로그래밍_언어\).md "wikilink"), [삼바](../Page/삼바_\(소프트웨어\).md "wikilink") 그리고 [토르와](../Page/토르_\(네트워크\).md "wikilink") 함께 Rung 3로 승급되었다.\[5\]
 
 ## 각주
 

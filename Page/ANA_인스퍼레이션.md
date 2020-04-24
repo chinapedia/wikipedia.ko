@@ -150,7 +150,7 @@
 <tr class="even">
 <td><p>2008</p></td>
 <td><p>4월 3일 – 6일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/로레나_오초아" title="wikilink">로레나 오초아</a></p></td>
+<td><p><a href="../Page/로레나_오초아.md" title="wikilink">로레나 오초아</a></p></td>
 <td></td>
 <td><p>68-71-71-67</p></td>
 <td><p>277</p></td>

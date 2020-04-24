@@ -41,7 +41,7 @@ function p.aagLink( id )
 `   if not id:match( '^%d+$' ) then`
 `       return false`
 `   end`
-`   return '[`<http://www.aucklandartgallery.com/explore-art-and-ideas/artist/>`'..id..'/ '..id..']'..p.getCatForId( 'AAG' )`
+`   return '[`<https://www.aucklandartgallery.com/explore-art-and-ideas/artist/>`'..id..'/ '..id..']'..p.getCatForId( 'AAG' )`
 
 end
 
@@ -518,6 +518,16 @@ function p.nlaLink( id )
 `       return false`
 `   end`
 `   return '[`<https://nla.gov.au/anbd.aut-an>`'..id..' '..id..']'..p.getCatForId( 'NLA' )`
+
+end
+
+function p.nlgLink( id )
+
+`   --P3348's format regex: [1-9]\d* (e.g. 1)`
+`   if not id:match( '^[1-9]%d*$' ) then`
+`       return false`
+`   end`
+`   return '[`<https://data.nlg.gr/resource/authority/record>`'..id..' '..id..']'..p.getCatForId( 'NLG' )`
 
 end
 
@@ -1027,6 +1037,7 @@ end
 `   { 'NGV', '`[`NGV`](https://ko.wikipedia.org/wiki/:en:National_Gallery_of_Victoria "wikilink")`', 2041, p.ngvLink },`
 `   { 'NKC', '`[`NKC`](https://ko.wikipedia.org/wiki/체코_국립도서관 "wikilink")`', 691, p.nkcLink },`
 `   { 'NLA', '`[`NLA`](https://ko.wikipedia.org/wiki/오스트레일리아_국립도서관 "wikilink")`', 409, p.nlaLink },`
+`   { 'NLG', '`[`NLG`](https://ko.wikipedia.org/wiki/그리스_국립도서관 "wikilink")`', 3348, p.nlgLink },`
 `   { 'NLI', '`[`NLI`](https://ko.wikipedia.org/wiki/이스라엘_국립도서관 "wikilink")`', 949, p.nliLink },`
 `   { 'NLK', '`[`NLK`](../Page/국립중앙도서관.md "wikilink")`', 5034, p.nlkLink },`
 `   { 'NLP', '`[`NLP`](../Page/폴란드_국립도서관.md "wikilink")`', 1695, p.nlpLink },`
@@ -1056,6 +1067,7 @@ end
 `   { 'ULAN', '`[`ULAN`](https://ko.wikipedia.org/wiki/:en:Union_List_of_Artist_Names "wikilink")`', 245, p.ulanLink },`
 `   { 'USCongress', '`[`US``   ``Congress`](https://ko.wikipedia.org/wiki/미국_의회_인명사전 "wikilink")`', 1157, p.uscongressLink },`
 `   { 'VIAF', '`[`VIAF`](https://ko.wikipedia.org/wiki/가상_국제_전거_파일 "wikilink")`', 214, p.viafLink },`
+`   { 'WORLDCATID', '`[`WorldCat``   ``Identities`](https://ko.wikipedia.org/wiki/WorldCat_Identities "wikilink")`', 7859, nil },`
 
 }
 
@@ -1068,10 +1080,11 @@ end
 `   { 'MusicBrainz release group', 'MBRG' },`
 `   { 'MusicBrainz work', 'MBW' },`
 `   { 'Leonore', 'Léonore' },`
+`   { 'TDVIA', 'TDVİA' },`
 
 }
 
-\-- Deprecated aliases to p.conf, which also get assigned to a tracking cat -- Format: { deprecated parameter name, replacement parameter name in p.conf } p.deprecated = {
+\-- Deprecated aliases to p.conf; tracked in -- Format: { 'deprecated parameter name', 'replacement parameter name in p.conf' } p.deprecated = {
 
 `   { 'GKD', 'GND' },`
 `   { 'PND', 'GND' },`
@@ -1148,7 +1161,7 @@ function p.authorityControl( frame )
 `   local rct = 0`
 `   for _, params in ipairs( p.conf ) do`
 `       local val = parentArgs[params[1]]`
-`       if val and val ~= '' then`
+`       if val and val ~= '' and type(params[4]) == 'function' then`
 `           table.insert( elements, p.createRow( params[1], params[2]..':', val, params[4]( val ), true, params.category ) )`
 `           rct = rct + 1`
 `       end`
@@ -1157,7 +1170,7 @@ function p.authorityControl( frame )
 `   --WorldCat`
 `   local worldcatId = parentArgs['WORLDCATID']`
 `   if worldcatId and worldcatId ~= '' then --if present & unsuppressed`
-`       table.insert( elements, p.createRow( 'WORLDCATID', '', worldcatId, '`[`WorldCat``   ``Identities`](https://ko.wikipedia.org/wiki/WorldCat_Identities "wikilink")`: [`<https://www.worldcat.org/identities/>`'..worldcatId..' '..worldcatId..']', false ) ) --Validation?`
+`       table.insert( elements, p.createRow( 'WORLDCATID', '', worldcatId, '`[`WorldCat``   ``Identities`](https://ko.wikipedia.org/wiki/WorldCat_Identities "wikilink")`: [`<https://www.worldcat.org/identities/>`'..mw.uri.encode(worldcatId, 'PATH')..' '..worldcatId..']', false ) ) --Validation?`
 `       worldcatCat = '`[`분류:월드캣``   ``식별자를``   ``포함한``   ``위키백과``   ``문서`](https://ko.wikipedia.org/wiki/분류:월드캣_식별자를_포함한_위키백과_문서 "wikilink")`'`
 `   elseif worldcatId == nil then --if absent & unsuppressed`
 `       local viafId = parentArgs['VIAF']`
@@ -1183,9 +1196,9 @@ function p.authorityControl( frame )
 `   `
 `   local Navbox = require('Module:Navbox')`
 `   local elementsCat = ''`
-`   if rct >= 20 then`
-`       local catName = rct..'개의 요소가 포함된 전거 통제'`
-`       elementsCat  = '`[`분류:'..catName..'`](https://ko.wikipedia.org/wiki/분류:'..catName..' "wikilink")`'..p.redCatLink(catName)`
+`   if rct >= 25 then`
+`       local eCat = rct..'개의 요소가 포함된 전거 통제'`
+`       elementsCat  = '`[`분류:'..eCat..'`](https://ko.wikipedia.org/wiki/분류:'..eCat..' "wikilink")`'..p.redCatLink(eCat)`
 `   end`
 `   `
 `   local outString = ''`
@@ -1216,4 +1229,4 @@ end
 
 return p
 
-[Category:Blah](https://ko.wikipedia.org/wiki/Category:Blah "wikilink")
+[Category:Blah](https://ko.wikipedia.org/wiki/Category:Blah "wikilink") [Category:Wikipedia_articles_with_deprecated_authority_control_identifiers](https://ko.wikipedia.org/wiki/Category:Wikipedia_articles_with_deprecated_authority_control_identifiers "wikilink")

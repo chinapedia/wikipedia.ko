@@ -31,7 +31,7 @@
 2.  On My Honor, Boy Scouts of the Philippines, 2001, p. 136-137.
 3.
 4.
-5.  [Jorge B. Vargas Museum](http://www.vargasmuseum.org)
+5.
 6.  "Japan is warned by puppet envoy of Manila's fate," Oakland Tribune, p. 2D, 1945-02-03.
 7.  On My Honor, Boy Scouts of the Philippines, 2001, p. 136-137.
 8.

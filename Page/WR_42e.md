@@ -8,6 +8,6 @@
 
 ## 참고문헌
 
-[분류:용골자리](https://ko.wikipedia.org/wiki/분류:용골자리 "wikilink") [분류:볼프-레이에별](https://ko.wikipedia.org/wiki/분류:볼프-레이에별 "wikilink") [분류:O형 초거성](https://ko.wikipedia.org/wiki/분류:O형_초거성 "wikilink")
+[분류:용골자리](https://ko.wikipedia.org/wiki/분류:용골자리 "wikilink") [분류:볼프-레이에별](https://ko.wikipedia.org/wiki/분류:볼프-레이에별 "wikilink") [분류:O형 초거성](https://ko.wikipedia.org/wiki/분류:O형_초거성 "wikilink") [분류:2MASS 천체](https://ko.wikipedia.org/wiki/분류:2MASS_천체 "wikilink")
 
 1.  <http://pacrowther.staff.shef.ac.uk/WRcat/>

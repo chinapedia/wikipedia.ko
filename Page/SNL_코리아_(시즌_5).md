@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [SNL 코리아 \(시즌 5\)](https://ko.wikipedia.org/wiki/SNL_코리아_\(시즌_5\)).
 
 
-《**[SNL 코리아](../Page/SNL_코리아.md "wikilink")**》의 5번째 시즌은 2014년 3월 1일부터 11월 29일까지 [tvN](https://ko.wikipedia.org/wiki/tvN "wikilink")에서 방송되었다. 이번 시즌부터 시청 등급이 15세 이상 시청가로 하향 조정되었다.
+《**[SNL 코리아](../Page/SNL_코리아.md "wikilink")**》의 다섯 번째 시즌은 2014년 3월 1일부터 11월 29일까지 [tvN](https://ko.wikipedia.org/wiki/tvN "wikilink")에서 방송되었다. 이 시즌부터 시청 등급이 15세 이상 시청가로 하향 조정되었다.
 
 ## 크루
 

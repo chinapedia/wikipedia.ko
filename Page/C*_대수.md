@@ -62,7 +62,7 @@ C\* 대수의 개념은 다양한 방법으로 정의될 수 있다.
   - 만약 \(x=x^*\)라면, \(x\)를 **[자기 수반 원소](https://ko.wikipedia.org/wiki/자기_수반_원소 "wikilink")**라고 한다. 자기 수반 원소의 [스펙트럼은](../Page/스펙트럼_\(함수해석학\).md "wikilink") 모두 실수이다.
   - \(xx^*=x^*x=1\)이라면, \(x\)를 **[유니터리 원소](https://ko.wikipedia.org/wiki/유니터리_원소 "wikilink")**라고 한다. 유니터리 원소의 스펙트럼의 원소들의 [절댓값](../Page/절댓값.md "wikilink")은 항상 1이다.
   - \(x\)의 **[스펙트럼](../Page/스펙트럼_\(함수해석학\).md "wikilink")** \(\sigma(x)\subset\mathbb C\)는 \(\lambda\cdot1-x\)가 [가역원](../Page/가역원.md "wikilink")이 아니게 되는 \(\lambda\in\mathbb C\)들의 집합이다. 일반적으로, \(\sigma(x^*)=\bar\sigma(x)\)이다.
-  - \(x\)의 스펙트럼의 [절댓값](../Page/절댓값.md "wikilink")들의 [상한](https://ko.wikipedia.org/wiki/상한 "wikilink") \(\sup|\sigma(x)|=\nu(x)\)를 \(x\)의 **[스펙트럼 반지름](https://ko.wikipedia.org/wiki/스펙트럼_반지름 "wikilink")**이라고 한다. 스펙트럼 반지름은 다음과 같이 정의할 수도 있다.
+  - \(x\)의 스펙트럼의 [절댓값](../Page/절댓값.md "wikilink")들의 [상한](https://ko.wikipedia.org/wiki/상한 "wikilink") \(\sup|\sigma(x)|=\nu(x)\)를 \(x\)의 **[스펙트럼 반지름](../Page/스펙트럼_반지름.md "wikilink")**이라고 한다. 스펙트럼 반지름은 다음과 같이 정의할 수도 있다.
     \[\nu(x)=\lim_{n\to\infty}\Vert x^n\Vert^{1/n}\]
 
 ## 연산
@@ -117,7 +117,7 @@ C\* 대수의 개념은 다양한 방법으로 정의될 수 있다.
 
 임의의 \(a\in A\)에 대하여, C\* 항등식에 따라
 
-\[\|a\|_A^2=\|a^*a\|_A\] 이다. \(a^*a\)는 음이 아닌 원소이므로, 그 노름은 [스펙트럼 반지름과](https://ko.wikipedia.org/wiki/스펙트럼_반지름 "wikilink") 같다.
+\[\|a\|_A^2=\|a^*a\|_A\] 이다. \(a^*a\)는 음이 아닌 원소이므로, 그 노름은 [스펙트럼 반지름과](../Page/스펙트럼_반지름.md "wikilink") 같다.
 
 \[\|a^*a|_A=\operatorname{sp\,rad}_A(a^*a)\] \(A\)의 [가역원](../Page/가역원.md "wikilink")의 [상은](../Page/상_\(수학\).md "wikilink") \(B\)의 [가역원](../Page/가역원.md "wikilink")이므로 다음이 성립한다.
 

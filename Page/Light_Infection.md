@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Light Infection](https://ko.wikipedia.org/wiki/Light_Infection).
 
 
-「**Light Infection**」 (ライト・インフェクション)은, [일본](../Page/일본.md "wikilink")의 [밴드](https://ko.wikipedia.org/wiki/악단 "wikilink"), [Prague](https://ko.wikipedia.org/wiki/Prague "wikilink")의 음악으로, 2번째 [싱글이다](../Page/싱글_\(음악\).md "wikilink"). [2009년](../Page/2009년.md "wikilink") [12월 9일에](../Page/12월_9일.md "wikilink") [Ki/oon Records에서](../Page/큔_뮤직.md "wikilink") 발매되었다.
+「**Light Infection**」 (ライト・インフェクション)은 [일본](../Page/일본.md "wikilink")의 [밴드](https://ko.wikipedia.org/wiki/악단 "wikilink"), [Prague](https://ko.wikipedia.org/wiki/Prague "wikilink")의 음악으로, 2번째 [싱글이다](../Page/싱글_\(음악\).md "wikilink"). [2009년](../Page/2009년.md "wikilink") [12월 9일에](../Page/12월_9일.md "wikilink") [Ki/oon Records에서](../Page/큔_뮤직.md "wikilink") 발매되었다.
 
 ## 해설
 

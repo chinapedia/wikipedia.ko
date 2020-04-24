@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [CS 에멜레크](https://ko.wikipedia.org/wiki/CS_에멜레크).
 
 
-**클루브 스포르트 에멜레크** (Club Sport Emelec) 는 [에콰도르](../Page/에콰도르.md "wikilink")의 [과야킬](../Page/과야킬.md "wikilink")을 연고로 하는 스포츠 클럽으로, [축구](../Page/축구.md "wikilink") 클럽으로 잘 알려져 있다. 이 축구팀은 국가 1부 리그인 [에콰도르 세리에 A에](../Page/에콰도르_세리에_A.md "wikilink") 속해 있다.
+**클루브 스포르트 에멜레크**(Club Sport Emelec)는 [에콰도르](../Page/에콰도르.md "wikilink")의 [과야킬](../Page/과야킬.md "wikilink")을 연고로 하는 스포츠 클럽으로, [축구](../Page/축구.md "wikilink") 클럽으로 잘 알려져 있다. 이 축구팀은 국가 1부 리그인 [에콰도르 세리에 A에](../Page/에콰도르_세리에_A.md "wikilink") 속해 있다.
 
 에멜레크는 12차례 [에콰도르 세리에 A를](../Page/에콰도르_세리에_A.md "wikilink") 12차례 우승했는데, 이는 에콰도르 세리에 A 출범 이후로는 최다 기록이다. 더 나아가서, 에멜레크는 7차례 지역 리그 우승 (지역 최다 기록) 도 거두었는데, 프로 시대에 5개 부문에서 기록을 세우고 있다.
 

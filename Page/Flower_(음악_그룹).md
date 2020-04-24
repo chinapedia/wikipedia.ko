@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Flower \(음악 그룹\)](https://ko.wikipedia.org/wiki/Flower_\(음악_그룹\)).
 
 
-**Flower**(플라워)는, [일본](../Page/일본.md "wikilink")의 [여성](../Page/여성.md "wikilink") [댄스](../Page/춤.md "wikilink")&[보컬](https://ko.wikipedia.org/wiki/보컬 "wikilink") [그룹이다](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink"). 소속 사무소는 [LDH](../Page/LDH_\(기업\).md "wikilink") 레이블은 [Sony Music Associated Records](https://ko.wikipedia.org/wiki/소니_뮤직_엔터테인먼트_\(일본\) "wikilink").
+**Flower**(플라워)는 [일본](../Page/일본.md "wikilink")의 [여성](../Page/여성.md "wikilink") [댄스](../Page/춤.md "wikilink")&[보컬](https://ko.wikipedia.org/wiki/보컬 "wikilink") [그룹이다](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink"). 소속 사무소는 [LDH](../Page/LDH_\(기업\).md "wikilink") 레이블은 [Sony Music Associated Records](https://ko.wikipedia.org/wiki/소니_뮤직_엔터테인먼트_\(일본\) "wikilink").
 
 ## 약력
 

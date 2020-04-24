@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Xinetd](https://ko.wikipedia.org/wiki/Xinetd).
 
 
-**xinetd** (*extended Internet daemon*) 는 [오픈 소스](../Page/오픈_소스.md "wikilink") [슈퍼 서버](https://ko.wikipedia.org/wiki/슈퍼_서버 "wikilink") [데몬으로서](../Page/데몬_\(컴퓨팅\).md "wikilink") 많은 [유닉스 계열](../Page/유닉스_계열.md "wikilink") 시스템에서 돌아가며 인터넷 기반 연결을 관리한다.
+**xinetd**(*extended Internet daemon*)는 [오픈 소스](../Page/오픈_소스.md "wikilink") [슈퍼 서버](https://ko.wikipedia.org/wiki/슈퍼_서버 "wikilink") [데몬으로서](../Page/데몬_\(컴퓨팅\).md "wikilink") 많은 [유닉스 계열](../Page/유닉스_계열.md "wikilink") 시스템에서 돌아가며 인터넷 기반 연결을 관리한다.
 
 이것은 오래된 [inetd](https://ko.wikipedia.org/wiki/inetd "wikilink")의 대체로서 더 강력한 보안을 제공하며, 대부분의 현대 [리눅스 배포판에서는](../Page/리눅스_배포판.md "wikilink") 이것을 사용한다.\[1\]
 

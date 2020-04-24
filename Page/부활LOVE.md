@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [부활LOVE](https://ko.wikipedia.org/wiki/부활LOVE).
 
 
-〈**부활LOVE**〉()는, [아라시](../Page/아라시.md "wikilink")의 48번째 [싱글이다](../Page/싱글_\(음악\).md "wikilink").
+〈**부활LOVE**〉()는 [아라시](../Page/아라시.md "wikilink")의 48번째 [싱글이다](../Page/싱글_\(음악\).md "wikilink").
 
 ## 개요
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [O!RUL8,2\?](https://ko.wikipedia.org/wiki/O!RUL8,2\?).
 
 
-《**O\!RUL8,2?**》는 대한민국의 남성 그룹 [방탄소년단](../Page/방탄소년단.md "wikilink")의 첫 번째 한국 미니 음반이다.\[1\] 2013년 9월 11일 로엔 엔터테인먼트를 통해 발매되었다.
+《**O\!RUL8,2?**》는 [대한민국](../Page/대한민국.md "wikilink")의 [보이 그룹](https://ko.wikipedia.org/wiki/보이_그룹 "wikilink") [방탄소년단](../Page/방탄소년단.md "wikilink")의 첫 번째 한국 미니 음반이다.\[1\] 2013년 9월 11일 [로엔 엔터테인먼트를](https://ko.wikipedia.org/wiki/로엔_엔터테인먼트 "wikilink") 통해 발매되었다.
 
 ## 수록곡
 

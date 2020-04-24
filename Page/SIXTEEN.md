@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [SIXTEEN](https://ko.wikipedia.org/wiki/SIXTEEN).
 
 
-《**SIXTEEN**》은 2015년 [엠넷](../Page/엠넷.md "wikilink")에서 방영된 리얼리티 프로그램으로서 [JYP 엔터테인먼트의](../Page/JYP_엔터테인먼트.md "wikilink") 걸 그룹 [트와이스](https://ko.wikipedia.org/wiki/트와이스 "wikilink")를 결성하기 위한 경연회이였으나 출연자 대다수가 3세대 아이돌 시대를 이끄는 가수로 데뷔하게 된 전설적 프로그램이다. 최종 합격자는 [임나연](../Page/나연.md "wikilink"), [유정연](../Page/정연_\(가수\).md "wikilink"), [미나토자키 사나](../Page/사나_\(가수\).md "wikilink"), [저우쯔위](../Page/쯔위.md "wikilink"), [김다현](../Page/다현.md "wikilink"), [묘이 미나](../Page/미나_\(일본의_가수\).md "wikilink"), [박지효](../Page/지효.md "wikilink"), [히라이 모모](../Page/모모_\(가수\).md "wikilink"), [손채영이다](../Page/채영_\(가수\).md "wikilink"). 당초 7명만 선발하기로 기획되었으나 저우쯔위는 이 프로그램에 참가한 모든 연습생 중 인기 투표 득표수가 많아 추가 합격 되었고 모모는 JYP A\&R 스탭들에게 성실성을 높게 평가 받아 추가 선발 되었다. 탈락자인 전소미는 프로듀스 101에서 1위를 차지하여 전설의 그룹 아이오아이로 데뷔하였고 그 후 YG로 이적 솔로로 데뷔하였다. 지원은 아이돌 학교를 통해 프로미스9으로 데뷔하였으며 채연은 프로듀스48에서 최종 멤버로 선발 아이즈원으로 데뷔하였다. 그의 여동생 채연은 JYP의 걸그룹인 트와이스 동생 그룹 있지로 데뷔하였다.
+《**SIXTEEN**》은 2015년 [엠넷](../Page/엠넷.md "wikilink")에서 방영된 리얼리티 프로그램으로서 [JYP 엔터테인먼트의](../Page/JYP_엔터테인먼트.md "wikilink") [걸 그룹](../Page/걸_그룹.md "wikilink") [트와이스](https://ko.wikipedia.org/wiki/트와이스 "wikilink")를 결성하기 위한 경연회이였으나 출연자 대다수가 3세대 아이돌 시대를 이끄는 가수로 데뷔하게 된 전설적 프로그램이다. 최종 합격자는 [임나연](../Page/나연.md "wikilink"), [유정연](../Page/정연_\(가수\).md "wikilink"), [미나토자키 사나](../Page/사나_\(가수\).md "wikilink"), [저우쯔위](../Page/쯔위.md "wikilink"), [김다현](../Page/다현.md "wikilink"), [묘이 미나](../Page/미나_\(일본의_가수\).md "wikilink"), [박지효](../Page/지효.md "wikilink"), [히라이 모모](../Page/모모_\(가수\).md "wikilink"), 그리고 [손채영이다](../Page/채영_\(가수\).md "wikilink"). 당초 7명만 선발하기로 기획되었으나 저우쯔위는 이 프로그램에 참가한 모든 연습생 중 인기 투표 득표수가 많아 추가 합격 되었고 모모는 JYP A\&R 스탭들에게 성실성을 높게 평가 받아 추가 선발 되었다. 탈락자인 전소미는 프로듀스 101에서 1위를 차지하여 그룹 아이오아이로 데뷔하였고 그 후 [YG 엔터테인먼트로](../Page/YG_엔터테인먼트.md "wikilink") 이적하여, 솔로로 데뷔하였다. 지원은 아이돌 학교를 통해 [프로미스9](https://ko.wikipedia.org/wiki/프로미스9 "wikilink")으로 데뷔하였으며 채연은 프로듀스48에서 최종 멤버로 선발되어 [아이즈원](../Page/아이즈원.md "wikilink")으로 데뷔하였다. 채연의 여동생 채령은 [JYP 엔터테인먼트의](../Page/JYP_엔터테인먼트.md "wikilink") 걸그룹인 [있지](https://ko.wikipedia.org/wiki/있지 "wikilink")로 데뷔하였다.
 
 ## 참가자
 
@@ -277,10 +277,6 @@
   - 모모는 탈락한 후에도 연습실에 나와 꾸준히 연습하는 모습을 보고 감동한 JYP 스탭들의 강력한 추천을 받아 추가 멤버로 발탁 되었다.
 
 다만 [전소미](../Page/전소미.md "wikilink")의 경우 선발이 유력했음에도 불구하고 탈락했는데 박진영은 [전소미](../Page/전소미.md "wikilink")도 직권으로 선발할 수 있었으나 선발하지 않았다. 이에 대해 박진영은 [전소미](../Page/전소미.md "wikilink")가 아직 "댄스 실력이 다소 부족하여 더 연습을 해야 한다"는 말로 [전소미](../Page/전소미.md "wikilink")를 탈락시킨 이유를 설명했다.
-
-## 방송 이후
-
-최종적으로 트와이스엔 나연, 정연, 모모, 사나, 지효, 미나, 다현, 채영, 쯔위가 합격했다. 민영은 퇴사 이후 학업을 이어가고 있으며, [지원은](../Page/박지원_\(1998년\).md "wikilink") [빅히트 엔터테인먼트에](../Page/빅히트_엔터테인먼트.md "wikilink") 입사했다. 소미는 [2016년](../Page/2016년.md "wikilink")에 방송하는 걸그룹 데뷔 서바이벌 [PRODUCE 101에](https://ko.wikipedia.org/wiki/PRODUCE_101 "wikilink") 출연해 1위의 성적으로 프로젝트 걸 그룹 [아이오아이](../Page/아이오아이.md "wikilink")의 멤버로 데뷔하였다. 이후 [지원](../Page/박지원_\(1998년\).md "wikilink"), 은서, 나띠는 퇴사하여 [아이돌학교](../Page/아이돌학교.md "wikilink")에 출연했다. 이 중 [지원만](../Page/박지원_\(1998년\).md "wikilink") 걸그룹 [프로미스 9의](https://ko.wikipedia.org/wiki/fromis_9 "wikilink") 멤버로 데뷔하였다. [채연은](../Page/이채연_\(가수\).md "wikilink") [WM 엔터테인먼트로](../Page/WM_엔터테인먼트.md "wikilink") 이적 후 [프로듀스 48에](https://ko.wikipedia.org/wiki/프로듀스_48 "wikilink") 참가해 프로젝트 걸그룹 [아이즈원](../Page/아이즈원.md "wikilink")의 멤버로 데뷔하였다. [채연의](../Page/이채연_\(가수\).md "wikilink") 동생인 [채령은](../Page/채령_\(가수\).md "wikilink") [ITZY](../Page/ITZY.md "wikilink")의 멤버로 데뷔하였다.
 
 ## 외부 링크
 

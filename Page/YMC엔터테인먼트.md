@@ -7,6 +7,7 @@
 
   - 소울라이츠 (정은선, 정재훈, 김두현, 손창학)
   - 김지아
+  - [신보라](../Page/신보라.md "wikilink")
 
 ## 이전 소속 연예인
 
@@ -21,7 +22,6 @@
   - [워너원](../Page/워너원.md "wikilink")
   - [제시](../Page/제시_\(가수\).md "wikilink")
   - [에일리](../Page/에일리.md "wikilink")
-  - [신보라](../Page/신보라.md "wikilink")
   - [케이시](https://ko.wikipedia.org/wiki/케이시_\(가수\) "wikilink")
 
 ## 디스코그래피

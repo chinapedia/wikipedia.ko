@@ -129,7 +129,7 @@ JBCZ-9015(통상반)</p></td>
 
   - [애니메이트TV 《VALSHE의 바르토크★RADIO》](https://web.archive.org/web/20130921172904/http://www.animate.tv/radio/VALSHE/)
 
-  - [WRITERZ 공식 사이트](http://writerz.jp/)
+  - [WRITERZ 공식 사이트](https://web.archive.org/web/20150518082137/http://writerz.jp/)
 
   - [VALSHE 5pb. 레코드 공식 사이트](http://5pb.jp/valshe/)
 

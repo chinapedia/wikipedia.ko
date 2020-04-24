@@ -38,7 +38,7 @@
   - 6326 [쿠보타 홀딩스](https://ko.wikipedia.org/wiki/쿠보타_홀딩스 "wikilink")
   - 6367 [다이킨 공업](https://ko.wikipedia.org/wiki/다이킨_공업 "wikilink")
   - 6502 [도시바](../Page/도시바.md "wikilink")
-  - 6503 [미쓰비시 전기](https://ko.wikipedia.org/wiki/미쓰비시_전기 "wikilink")
+  - 6503 [미쓰비시 전기](../Page/미쓰비시_전기.md "wikilink")
   - 6594 [일본전산](../Page/일본전산.md "wikilink")
   - 6702 [후지쯔](../Page/후지쯔.md "wikilink")
   - 6861 [키엔스](../Page/키엔스.md "wikilink")

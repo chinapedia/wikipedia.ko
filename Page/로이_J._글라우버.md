@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [로이 J. 글라우버](https://ko.wikipedia.org/wiki/로이_J._글라우버).
 
 
-**로이 제이 글라우버**(, [1925년](../Page/1925년.md "wikilink") [9월 1일](../Page/9월_1일.md "wikilink")\~) 는 미국인 [물리학자](https://ko.wikipedia.org/wiki/물리학자 "wikilink")이다. 그는 [하버드 대학교](../Page/하버드_대학교.md "wikilink") [물리학](../Page/물리학.md "wikilink")과의 [말린크로트](https://ko.wikipedia.org/wiki/말린크로트 "wikilink") [교수](../Page/교수.md "wikilink")이자 [애리조나 대학교](../Page/애리조나_대학교.md "wikilink") 광학과의 비상근 교수였다. [뉴욕](../Page/뉴욕.md "wikilink")에서 태어난 그는 2005년 [존 홀과](https://ko.wikipedia.org/wiki/존_홀 "wikilink") [테오도어 헨슈와](https://ko.wikipedia.org/wiki/테오도어_헨슈 "wikilink") 함께 [노벨 물리학상을](../Page/노벨_물리학상.md "wikilink") 3인 공동수상하였다. 수상 이유는 "그의 광학 결맞음에 관한 양자론적 공헌을 기리기 위해"서 이다.\[1\]
+**로이 제이 글라우버**(, [1925년](../Page/1925년.md "wikilink") [9월 1일](../Page/9월_1일.md "wikilink")\~)는 미국인 [물리학자](https://ko.wikipedia.org/wiki/물리학자 "wikilink")이다. 그는 [하버드 대학교](../Page/하버드_대학교.md "wikilink") [물리학](../Page/물리학.md "wikilink")과의 [말린크로트](https://ko.wikipedia.org/wiki/말린크로트 "wikilink") [교수](../Page/교수.md "wikilink")이자 [애리조나 대학교](../Page/애리조나_대학교.md "wikilink") 광학과의 비상근 교수였다. [뉴욕](../Page/뉴욕.md "wikilink")에서 태어난 그는 2005년 [존 홀과](https://ko.wikipedia.org/wiki/존_홀 "wikilink") [테오도어 헨슈와](https://ko.wikipedia.org/wiki/테오도어_헨슈 "wikilink") 함께 [노벨 물리학상을](../Page/노벨_물리학상.md "wikilink") 3인 공동수상하였다. 수상 이유는 "그의 광학 결맞음에 관한 양자론적 공헌을 기리기 위해"서 이다.\[1\]
 
 1963년에 발표된 이 논문에서, 그는 [광검파](https://ko.wikipedia.org/wiki/광검파 "wikilink")의 모델을 창시하고, 여러 종류의 빛의 기본적인 성질을 설명하였다. 그의 이론은 [양자광학](https://ko.wikipedia.org/wiki/양자광학 "wikilink")에서 널리 이용된다.
 

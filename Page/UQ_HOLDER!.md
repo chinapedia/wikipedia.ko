@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [UQ HOLDER!](https://ko.wikipedia.org/wiki/UQ_HOLDER!).
 
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:Doujin_Mark_first_usage_on_UQ_Holder!_title_20130831.jpg "wikilink"). 이 작품에서 처음으로 도입되었다\]\] 《**UQ HOLDER\! \~마법선생 네기마\! 2\~**》(ユーキュー ホルダー\! 〜魔法先生ネギま\!2〜) 는 [아카마츠 켄의](https://ko.wikipedia.org/wiki/아카마츠_켄 "wikilink") 만화 작품. 《[주간 소년 매거진](../Page/주간_소년_매거진.md "wikilink")》 [2013년](../Page/2013년.md "wikilink") 39호부터 [2016년](../Page/2016년.md "wikilink") 30호까지 《**UQ HOLDER\!**》의 타이틀로 연재, 《[별책 소년 매거진](https://ko.wikipedia.org/wiki/별책_소년_매거진 "wikilink")》 2016년 11월호부터 연재 이적했다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:Doujin_Mark_first_usage_on_UQ_Holder!_title_20130831.jpg "wikilink"). 이 작품에서 처음으로 도입되었다\]\] 《**UQ HOLDER\! \~마법선생 네기마\! 2\~**》(ユーキュー ホルダー\! 〜魔法先生ネギま\!2〜)는 [아카마츠 켄의](https://ko.wikipedia.org/wiki/아카마츠_켄 "wikilink") 만화 작품. 《[주간 소년 매거진](../Page/주간_소년_매거진.md "wikilink")》 [2013년](../Page/2013년.md "wikilink") 39호부터 [2016년](../Page/2016년.md "wikilink") 30호까지 《**UQ HOLDER\!**》의 타이틀로 연재, 《[별책 소년 매거진](https://ko.wikipedia.org/wiki/별책_소년_매거진 "wikilink")》 2016년 11월호부터 연재 이적했다.
 
 전작 《[마법선생 네기마\!](../Page/마법선생_네기마!.md "wikilink")》의 미래 세계를 무대로 하고 있으며. 불로불사의 힘을 가진 소년 [코노에 토타](https://ko.wikipedia.org/wiki/코노에_토타 "wikilink")\[1\]를 중심으로 이야기가 진행되고 있다.
 

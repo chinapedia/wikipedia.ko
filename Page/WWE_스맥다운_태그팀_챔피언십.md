@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [WWE 스맥다운 태그팀 챔피언십](https://ko.wikipedia.org/wiki/WWE_스맥다운_태그팀_챔피언십).
 
 
-**WWE 스맥다운 태그팀 챔피언십**(WWE Smackdown Tag Team Champion)은 [WWE](https://ko.wikipedia.org/wiki/WWE "wikilink")의 챔피언십 중 하나이며 태그팀 챔피언십이다. RAW에 있는 [WWE RAW 태그팀 챔피언십의](https://ko.wikipedia.org/wiki/WWE_RAW_태그팀_챔피언십 "wikilink") 파란 버전이다.
+**WWE 스맥다운 태그팀 챔피언십**(WWE Smackdown Tag Team Champion)은 [WWE](../Page/WWE.md "wikilink")의 챔피언십 중 하나이며 태그팀 챔피언십이다. RAW에 있는 [WWE RAW 태그팀 챔피언십의](https://ko.wikipedia.org/wiki/WWE_RAW_태그팀_챔피언십 "wikilink") 파란 버전이다.
 
 ## 역사
 

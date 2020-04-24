@@ -10,7 +10,7 @@
 | [1982년](https://ko.wikipedia.org/wiki/1982년_한국프로야구 "wikilink") | [노상수](../Page/노상수.md "wikilink")                              | [롯데 자이언츠](../Page/롯데_자이언츠.md "wikilink")                      | 141 |              |
 | [1983년](../Page/1983년_한국프로야구.md "wikilink")                    | [장명부](https://ko.wikipedia.org/wiki/장명부 "wikilink")           | [삼미 슈퍼스타즈](../Page/삼미_슈퍼스타즈.md "wikilink")                    | 220 |              |
 | [1984년](../Page/1984년_한국프로야구.md "wikilink")                    | [최동원](../Page/최동원.md "wikilink")                              | [롯데 자이언츠](../Page/롯데_자이언츠.md "wikilink")                      | 223 | 단일 시즌 최다 탈삼진 |
-| [1985년](../Page/1985년_한국프로야구.md "wikilink")                    | [김시진](../Page/김시진.md "wikilink")                              | [삼성 라이온즈](https://ko.wikipedia.org/wiki/삼성_라이온즈 "wikilink")   | 201 |              |
+| [1985년](../Page/1985년_한국프로야구.md "wikilink")                    | [김시진](../Page/김시진.md "wikilink")                              | [삼성 라이온즈](../Page/삼성_라이온즈.md "wikilink")                      | 201 |              |
 | [1986년](../Page/1986년_한국프로야구.md "wikilink")                    | [선동열](../Page/선동열.md "wikilink")                              | [해태 타이거즈](../Page/해태_타이거즈.md "wikilink")                      | 214 |              |
 | [1987년](../Page/1987년_한국프로야구.md "wikilink")                    | [최동원](../Page/최동원.md "wikilink")                              | [롯데 자이언츠](../Page/롯데_자이언츠.md "wikilink")                      | 163 |              |
 | [1988년](../Page/1988년_한국프로야구.md "wikilink")                    | [선동열](../Page/선동열.md "wikilink")                              | [해태 타이거즈](../Page/해태_타이거즈.md "wikilink")                      | 200 |              |
@@ -19,7 +19,7 @@
 | [1991년](../Page/1991년_한국프로야구.md "wikilink")                    | [선동열](../Page/선동열.md "wikilink")                              | [해태 타이거즈](../Page/해태_타이거즈.md "wikilink")                      | 210 |              |
 | [1992년](https://ko.wikipedia.org/wiki/1992년_한국프로야구 "wikilink") | [이강철](../Page/이강철_\(야구인\).md "wikilink")                      | [해태 타이거즈](../Page/해태_타이거즈.md "wikilink")                      | 155 |              |
 | 1993년부터 탈삼진상 신설                                                |                                                               |                                                               |     |              |
-| [1993년](https://ko.wikipedia.org/wiki/1993년_한국프로야구 "wikilink") | [김상엽](../Page/김상엽_\(야구인\).md "wikilink")                      | [삼성 라이온즈](https://ko.wikipedia.org/wiki/삼성_라이온즈 "wikilink")   | 170 | 최초의 탈삼진상 수상  |
+| [1993년](https://ko.wikipedia.org/wiki/1993년_한국프로야구 "wikilink") | [김상엽](../Page/김상엽_\(야구인\).md "wikilink")                      | [삼성 라이온즈](../Page/삼성_라이온즈.md "wikilink")                      | 170 | 최초의 탈삼진상 수상  |
 | [1994년](https://ko.wikipedia.org/wiki/1994년_한국프로야구 "wikilink") | [정민철](../Page/정민철.md "wikilink")                              | [한화 이글스](../Page/한화_이글스.md "wikilink")                        | 196 |              |
 | [1995년](https://ko.wikipedia.org/wiki/1995년_한국프로야구 "wikilink") | [이대진](../Page/이대진.md "wikilink")                              | [해태 타이거즈](../Page/해태_타이거즈.md "wikilink")                      | 163 |              |
 | [1996년](https://ko.wikipedia.org/wiki/1996년_한국프로야구 "wikilink") | [주형광](https://ko.wikipedia.org/wiki/주형광 "wikilink")           | [롯데 자이언츠](../Page/롯데_자이언츠.md "wikilink")                      | 221 |              |
@@ -31,7 +31,7 @@
 | [2002년](../Page/2002년_한국프로야구.md "wikilink")                    | [김진우](../Page/김진우_\(1983년_3월\).md "wikilink")                 | [KIA 타이거즈](https://ko.wikipedia.org/wiki/KIA_타이거즈 "wikilink") | 177 |              |
 | [2003년](../Page/2003년_한국프로야구.md "wikilink")                    | [이승호](https://ko.wikipedia.org/wiki/이승호_\(1976년\) "wikilink") | [LG 트윈스](../Page/LG_트윈스.md "wikilink")                        | 157 |              |
 | [2004년](../Page/2004년_한국프로야구.md "wikilink")                    | [박명환](https://ko.wikipedia.org/wiki/박명환_\(야구_선수\) "wikilink") | [두산 베어스](../Page/두산_베어스.md "wikilink")                        | 162 |              |
-| [2005년](../Page/2005년_한국프로야구.md "wikilink")                    | [배영수](../Page/배영수.md "wikilink")                              | [삼성 라이온즈](https://ko.wikipedia.org/wiki/삼성_라이온즈 "wikilink")   | 147 | 최소삼진 탈삼진상 수상 |
+| [2005년](../Page/2005년_한국프로야구.md "wikilink")                    | [배영수](../Page/배영수.md "wikilink")                              | [삼성 라이온즈](../Page/삼성_라이온즈.md "wikilink")                      | 147 | 최소삼진 탈삼진상 수상 |
 | [리오스](../Page/다니엘_리오스.md "wikilink")                           | [두산 베어스](../Page/두산_베어스.md "wikilink")                        | 시즌 중 KIA 타이거즈에서 두산 베어스로 트레이드, 최소삼진 탈삼진상 수상                    |     |              |
 | [2006년](../Page/2006년_한국프로야구.md "wikilink")                    | [류현진](../Page/류현진.md "wikilink")                              | [한화 이글스](../Page/한화_이글스.md "wikilink")                        | 204 | 트리플 크라운 달성   |
 | [2007년](../Page/2007년_한국프로야구.md "wikilink")                    | [류현진](../Page/류현진.md "wikilink")                              | [한화 이글스](../Page/한화_이글스.md "wikilink")                        | 178 |              |
@@ -41,8 +41,8 @@
 | [2011년](../Page/2011년_한국프로야구.md "wikilink")                    | [윤석민](../Page/윤석민_\(1986년\).md "wikilink")                    | [KIA 타이거즈](https://ko.wikipedia.org/wiki/KIA_타이거즈 "wikilink") | 178 | 트리플 크라운 달성   |
 | [2012년](https://ko.wikipedia.org/wiki/2012년_한국프로야구 "wikilink") | [류현진](../Page/류현진.md "wikilink")                              | [한화 이글스](../Page/한화_이글스.md "wikilink")                        | 210 |              |
 | [2013년](https://ko.wikipedia.org/wiki/2013년_한국프로야구 "wikilink") | [리즈](../Page/레다메스_리즈.md "wikilink")                           | [LG 트윈스](../Page/LG_트윈스.md "wikilink")                        | 188 |              |
-| [2014년](../Page/2014년_한국프로야구.md "wikilink")                    | [밴덴헐크](../Page/릭_판_덴_휘르크.md "wikilink")                       | [삼성 라이온즈](https://ko.wikipedia.org/wiki/삼성_라이온즈 "wikilink")   | 180 |              |
-| [2015년](../Page/2015년_KBO_리그.md "wikilink")                    | [차우찬](../Page/차우찬.md "wikilink")                              | [삼성 라이온즈](https://ko.wikipedia.org/wiki/삼성_라이온즈 "wikilink")   | 194 |              |
+| [2014년](../Page/2014년_한국프로야구.md "wikilink")                    | [밴덴헐크](../Page/릭_판_덴_휘르크.md "wikilink")                       | [삼성 라이온즈](../Page/삼성_라이온즈.md "wikilink")                      | 180 |              |
+| [2015년](../Page/2015년_KBO_리그.md "wikilink")                    | [차우찬](../Page/차우찬.md "wikilink")                              | [삼성 라이온즈](../Page/삼성_라이온즈.md "wikilink")                      | 194 |              |
 | [2016년](../Page/2016년_KBO_리그.md "wikilink")                    | [보우덴](../Page/마이클_보우덴.md "wikilink")                          | [두산 베어스](../Page/두산_베어스.md "wikilink")                        | 160 |              |
 | [2017년](../Page/2017년_KBO_리그.md "wikilink")                    | [켈리](../Page/메릴_켈리.md "wikilink")                             | [SK 와이번스](../Page/SK_와이번스.md "wikilink")                      | 189 |              |
 | [2018년](../Page/2018년_KBO_리그.md "wikilink")                    | [샘슨](../Page/키버스_샘슨.md "wikilink")                            | [한화 이글스](../Page/한화_이글스.md "wikilink")                        | 195 |              |

@@ -179,7 +179,7 @@ OB베어스 성인회원</p></td>
 <td><p><a href="../Page/이진삼.md" title="wikilink">이진삼</a><br />
 홍선기<br />
 이해봉<br />
-<a href="https://ko.wikipedia.org/wiki/우병택" title="wikilink">우병택</a></p></td>
+<a href="../Page/우병택.md" title="wikilink">우병택</a></p></td>
 <td><p>체육청소년부장관<br />
 대전시장<br />
 대구시장<br />
@@ -705,7 +705,7 @@ SK vs KT</p></td>
 <td><p>홍성민(시구) / 이희성(시타)<br />
 <a href="../Page/권영진_(정치인).md" title="wikilink">권영진</a><br />
 <a href="../Page/지성_(배우).md" title="wikilink">지성</a><br />
-<a href="https://ko.wikipedia.org/wiki/이대휘" title="wikilink">이대휘</a><br />
+<a href="../Page/이대휘.md" title="wikilink">이대휘</a><br />
 오찬영 / 오다니엘 / 오요셉</p></td>
 <td><p>2017 주니어 다이노스 스프링 챔피언십 최우수선수<br />
 대구시장<br />

@@ -131,7 +131,7 @@
 <tr class="odd">
 <td style="text-align: center;"><p><strong>9</strong></p></td>
 <td style="text-align: center;"><p>《<strong>얼마나 더..</strong>》<br />
-<small>(with <a href="https://ko.wikipedia.org/wiki/신지_(가수)" title="wikilink">신지</a>)</small></p>
+<small>(with <a href="../Page/신지_(가수).md" title="wikilink">신지</a>)</small></p>
 <ul>
 <li>발매일: 2015년 12월 11일</li>
 </ul></td>

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Rail-interchange](https://ko.wikipedia.org/wiki/:Rail-interchange).
+> This article is converted from Wikipedia: [틀:Rail-interchange](https://ko.wikipedia.org/wiki/틀:Rail-interchange).
 
 
 {{\#switch:  | ace=\[\[파일:Altamont_Corridor_Express_logo.svg||}} | bart=\[\[파일:Bart-logo.svg|}}hamilto | berlin= | birmingham=\[\[파일:MidlandMetroGenericSymbol.svg|}} | edinburgh=\[\[파일:EdinburghTramsGeneric.png|}} | glasgow=\[\[파일:Glasgow_Subway.svg|}} | hannover|hanover= | hblr=\[\[파일:BSicon_TRAM.svg||}} | innsbruck= | iran={{\#switch:

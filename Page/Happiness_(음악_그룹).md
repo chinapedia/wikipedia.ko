@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Happiness \(음악 그룹\)](https://ko.wikipedia.org/wiki/Happiness_\(음악_그룹\)).
 
 
-**Happiness**(해피니스)는, [일본](../Page/일본.md "wikilink")의 [여성](../Page/여성.md "wikilink") [댄스](../Page/춤.md "wikilink")&[보컬](https://ko.wikipedia.org/wiki/보컬 "wikilink") [그룹이다](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink"). 소속 사무소는 [LDH](../Page/LDH_\(기업\).md "wikilink"). 레이블은 [rhythm zone](../Page/리듬존.md "wikilink").
+**Happiness**(해피니스)는 [일본](../Page/일본.md "wikilink")의 [여성](../Page/여성.md "wikilink") [댄스](../Page/춤.md "wikilink")&[보컬](https://ko.wikipedia.org/wiki/보컬 "wikilink") [그룹이다](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink"). 소속 사무소는 [LDH](../Page/LDH_\(기업\).md "wikilink"). 레이블은 [rhythm zone](../Page/리듬존.md "wikilink").
 
 ## 약력
 

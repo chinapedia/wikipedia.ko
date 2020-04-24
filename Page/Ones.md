@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Ones](https://ko.wikipedia.org/wiki/Ones).
 
 
-《**Ones**》는 [셀레나](../Page/셀레나.md "wikilink") 첫 베스트 앨범이다. 2002년에 [EMI LATIN에서](../Page/EMI.md "wikilink") 발표하였고, 미국에서 500,000 장을 판매했다. "Buenos Amigos", "Amor Prohibido", "Bidi Bidi Bom Bom", "No Me Queda Mas", "Fotos y Recuerdos", "Tu Solo Tu" 과 "Donde Quiera Que Estes" 유일한 번호를 하나의 곡이었다. 앨범에는 《[Ven Conmigo](https://ko.wikipedia.org/wiki/Ven_Conmigo "wikilink")》(1990), 《[Entre a Mi Mundo](https://ko.wikipedia.org/wiki/Entre_a_Mi_Mundo "wikilink")》(1992), 《[Selena Live\!](https://ko.wikipedia.org/wiki/Selena_Live! "wikilink")》(1993), 《[Amor Prohobido](https://ko.wikipedia.org/wiki/Amor_Prohobido "wikilink")》(1994), 《[Dreaming of You](../Page/Dreaming_of_You.md "wikilink")》(1995) 의 수록곡들, 그리고 "Con Tanto Amor Medley"의 리믹스 버전들이 수록되었다.
+《**Ones**》는 [셀레나](../Page/셀레나.md "wikilink") 첫 베스트 앨범이다. 2002년에 [EMI LATIN에서](../Page/EMI.md "wikilink") 발표하였고, 미국에서 500,000 장을 판매했다. "Buenos Amigos", "Amor Prohibido", "Bidi Bidi Bom Bom", "No Me Queda Mas", "Fotos y Recuerdos", "Tu Solo Tu" 과 "Donde Quiera Que Estes" 유일한 번호를 하나의 곡이었다. 앨범에는 《[Ven Conmigo](https://ko.wikipedia.org/wiki/Ven_Conmigo "wikilink")》(1990), 《[Entre a Mi Mundo](https://ko.wikipedia.org/wiki/Entre_a_Mi_Mundo "wikilink")》(1992), 《[Selena Live\!](https://ko.wikipedia.org/wiki/Selena_Live! "wikilink")》(1993), 《[Amor Prohobido](https://ko.wikipedia.org/wiki/Amor_Prohobido "wikilink")》(1994), 《[Dreaming of You](../Page/Dreaming_of_You.md "wikilink")》(1995)의 수록곡들, 그리고 "Con Tanto Amor Medley"의 리믹스 버전들이 수록되었다.
 
 ## 수록곡
 

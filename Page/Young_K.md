@@ -335,6 +335,44 @@ Featuring : Young K</p></td>
 <td></td>
 <td></td>
 </tr>
+<tr class="odd">
+<td><p><a href="https://ko.wikipedia.org/wiki/2020" title="wikilink">2020</a></p></td>
+<td><p><a href="../Page/MBC_표준FM.md" title="wikilink">MBC 표준FM</a></p></td>
+<td><p>《<a href="../Page/아이돌_라디오.md" title="wikilink">아이돌 라디오</a>》</p></td>
+<td><ul>
+<li>ep#510. 사운드 오브 매직 (스페셜 DJ 데이식스 영케이 &amp; <a href="../Page/원필.md" title="wikilink">원필</a> with 디코이)</li>
+</ul></td>
+<td><p>2020.02.24</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/V_LIVE" title="wikilink">V LIVE</a></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ko.wikipedia.org/wiki/2020" title="wikilink">2020</a></p></td>
+<td><p><a href="../Page/MBC_표준FM.md" title="wikilink">MBC 표준FM</a></p></td>
+<td><p>《<a href="../Page/아이돌_라디오.md" title="wikilink">아이돌 라디오</a>》</p></td>
+<td><ul>
+<li>ep#511. 눈이 부시게 (스페셜 DJ <a href="https://ko.wikipedia.org/wiki/데이식스" title="wikilink">데이식스</a> 영케이 &amp; <a href="../Page/원필.md" title="wikilink">원필</a> with <a href="../Page/위키미키.md" title="wikilink">위키미키</a>)</li>
+</ul></td>
+<td><p>2020.02.25</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/V_LIVE" title="wikilink">V LIVE</a></p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ko.wikipedia.org/wiki/2020" title="wikilink">2020</a></p></td>
+<td><p><a href="../Page/MBC_표준FM.md" title="wikilink">MBC 표준FM</a></p></td>
+<td><p>《<a href="../Page/아이돌_라디오.md" title="wikilink">아이돌 라디오</a>》</p></td>
+<td><ul>
+<li>ep#512. 짱돌의 탄생 (스페셜 DJ <a href="https://ko.wikipedia.org/wiki/데이식스" title="wikilink">데이식스</a> 영케이 &amp; <a href="../Page/원필.md" title="wikilink">원필</a> with <a href="https://ko.wikipedia.org/wiki/다크비" title="wikilink">다크비</a>)</li>
+</ul></td>
+<td><p>2020.02.26</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/V_LIVE" title="wikilink">V LIVE</a></p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -381,15 +419,17 @@ Featuring : Young K</p></td>
 | [2019](https://ko.wikipedia.org/wiki/2019 "wikilink") | [MBC](https://ko.wikipedia.org/wiki/MBC "wikilink")     | 《[복면가왕](https://ko.wikipedia.org/wiki/복면가왕 "wikilink")》                  | 2019.05.26, 2019.06.02 |
 | [2019](https://ko.wikipedia.org/wiki/2019 "wikilink") | [Mnet](https://ko.wikipedia.org/wiki/Mnet "wikilink")   | 《TMI NEWS》                                                               | 2019.11.13             |
 | [2019](https://ko.wikipedia.org/wiki/2019 "wikilink") | [MBC](https://ko.wikipedia.org/wiki/MBC "wikilink") 디지털 | 《먹짱 보이즈》                                                                 | 2019.11.15, 2019.11.22 |
+| [2020](https://ko.wikipedia.org/wiki/2020 "wikilink") | 방언니 - 방송국에 사는 언니들                                       | 《고막메이트》                                                                  | 2020.03.13, 2020.03.20 |
 |                                                       |                                                         |                                                                          |                        |
 
 #### 라디오
 
-| 연도                                                    | 방송사                                        | 프로그램                                       | 비고         |
-| ----------------------------------------------------- | ------------------------------------------ | ------------------------------------------ | ---------- |
-| [2019](https://ko.wikipedia.org/wiki/2019 "wikilink") | [MBC 표준FM](../Page/MBC_표준FM.md "wikilink") | 《[아이돌 라디오](../Page/아이돌_라디오.md "wikilink")》 | 2019.09.15 |
-| [2019](https://ko.wikipedia.org/wiki/2019 "wikilink") | [MBC 표준FM](../Page/MBC_표준FM.md "wikilink") | 《[아이돌 라디오](../Page/아이돌_라디오.md "wikilink")》 | 2019.11.01 |
-|                                                       |                                            |                                            |            |
+| 연도                                                    | 방송사                                        | 프로그램                                                          | 비고         |
+| ----------------------------------------------------- | ------------------------------------------ | ------------------------------------------------------------- | ---------- |
+| [2019](https://ko.wikipedia.org/wiki/2019 "wikilink") | [MBC 표준FM](../Page/MBC_표준FM.md "wikilink") | 《[아이돌 라디오](../Page/아이돌_라디오.md "wikilink")》                    | 2019.09.15 |
+| [2019](https://ko.wikipedia.org/wiki/2019 "wikilink") | [MBC 표준FM](../Page/MBC_표준FM.md "wikilink") | 《[아이돌 라디오](../Page/아이돌_라디오.md "wikilink")》                    | 2019.11.01 |
+| [2020](https://ko.wikipedia.org/wiki/2020 "wikilink") | [EBS FM](../Page/EBS_FM.md "wikilink")     | 《[EBS](https://ko.wikipedia.org/wiki/EBS "wikilink") 정세운의 경청》 | 2020.03.08 |
+|                                                       |                                            |                                                               |            |
 
 ## 자체 콘텐츠
 
@@ -407,18 +447,18 @@ Featuring : Young K</p></td>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>rowspan="3|<a href="https://ko.wikipedia.org/wiki/2020" title="wikilink">2020</a></p></td>
-<td><p>rowspan="3|YOUNG ONE(영원)</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/2020" title="wikilink">2020</a></p></td>
+<td><p>YOUNG ONE(영원)</p></td>
 <td><ul>
-<li><a href="https://www.youtube.com/watch?v=wnePHfUznh8">Young K <Face to Face> (Ruel cover)</a><br />
+<li><a href="https://www.youtube.com/watch?v=wnePHfUznh8">Young K - Face to Face (Ruel cover)</a><br />
 </li>
 </ul></td>
 <td><p>2020.01.19</p></td>
-<td><p>rowspan="3|<a href="../Page/JYP_엔터테인먼트.md" title="wikilink">JYP 엔터테인먼트</a></p></td>
+<td><p><a href="../Page/JYP_엔터테인먼트.md" title="wikilink">JYP 엔터테인먼트</a></p></td>
 </tr>
 <tr class="even">
 <td><ul>
-<li><a href="https://www.youtube.com/watch?v=e3G3ac0Lfj8">Young K <Honesty> (Pink Sweat$ cover)</a><br />
+<li><a href="https://www.youtube.com/watch?v=e3G3ac0Lfj8">Young K - Honesty (Pink Sweat$ cover)</a><br />
 </li>
 </ul></td>
 <td><p>2020.02.06</p></td>
@@ -428,10 +468,48 @@ Featuring : Young K</p></td>
 </tr>
 <tr class="odd">
 <td><ul>
-<li><a href="https://www.youtube.com/watch?v=5K7QcN5yyq0">Young K <What Am I> (Why Don't We cover)</a><br />
+<li><a href="https://www.youtube.com/watch?v=5K7QcN5yyq0">Young K - What Am I (Why Don't We cover)</a><br />
 </li>
 </ul></td>
 <td><p>2020.02.19</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><ul>
+<li><a href="https://www.youtube.com/watch?v=MQEnES9vIBo">Young K - Heartbeat (Christopher cover)</a><br />
+</li>
+</ul></td>
+<td><p>2020.03.07</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><ul>
+<li><a href="https://www.youtube.com/watch?v=0U1qLfux4q4">Young K - Talk (Khalid, Disclosure cover)</a><br />
+</li>
+</ul></td>
+<td><p>2020.03.19</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><ul>
+<li><a href="https://www.youtube.com/watch?v=Wa4LQzmQTeE">Young K - Love Me Less (Max, Quinn Xcii cover)</a></li>
+</ul></td>
+<td><p>2020.04.07</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><ul>
+<li><a href="https://www.youtube.com/watch?v=gZuvVYZjcwQ">Young K - AYAYA (DAY6 cover)</a></li>
+</ul></td>
+<td><p>2020.04.19</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -458,6 +536,20 @@ Featuring : Young K</p></td>
 </thead>
 <tbody>
 <tr class="odd">
+<td><p><a href="https://ko.wikipedia.org/wiki/2019" title="wikilink">2019</a></p></td>
+<td><ul>
+<li><a href="https://www.youtube.com/watch?v=-TXjC9XPDgM">DAY6 〈한 페이지가 될 수 있게〉 (원곡 : DAY6)</a><br />
+</li>
+<li><a href="https://www.youtube.com/watch?v=CnAeuMs-URg">DAY6 〈한 페이지가 될 수 있게〉 (원곡 : DAY6)</a><br />
+</li>
+</ul></td>
+<td><p>2019.07.19<br />
+2019.07.26</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/KBS" title="wikilink">KBS</a></p></td>
+<td><p><a href="../Page/뮤직뱅크.md" title="wikilink">뮤직뱅크</a></p></td>
+<td><p>KBS Kpop</p></td>
+</tr>
+<tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/2018" title="wikilink">2018</a></p></td>
 <td><ul>
 <li><a href="https://www.youtube.com/watch?v=8xJn9xvigCY">DAY6 〈이젠〉 (원곡 : 이상우)</a><br />
@@ -468,7 +560,7 @@ Featuring : Young K</p></td>
 <td><p><a href="../Page/불후의_명곡_-_전설을_노래하다.md" title="wikilink">불후의 명곡</a></p></td>
 <td><p>KBS Kpop</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/2019" title="wikilink">2019</a></p></td>
 <td><ul>
 <li><a href="https://www.youtube.com/watch?v=1IWrhZFAo-Q">DAY6 〈Up &amp; Down〉 (원곡 : 디바)</a><br />
@@ -479,7 +571,7 @@ Featuring : Young K</p></td>
 <td><p><a href="../Page/불후의_명곡_-_전설을_노래하다.md" title="wikilink">불후의 명곡</a></p></td>
 <td><p>KBS Kpop</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/2019" title="wikilink">2019</a></p></td>
 <td><ul>
 <li><a href="https://tv.naver.com/v/8509786">범고래(윤주빈) VS 일각고래(Young K) 〈UFO〉</a></li>
@@ -493,7 +585,7 @@ Featuring : Young K</p></td>
 <td><p>《<a href="https://ko.wikipedia.org/wiki/복면가왕" title="wikilink">복면가왕</a>》</p></td>
 <td><p><a href="../Page/네이버.md" title="wikilink">네이버</a> TV</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>

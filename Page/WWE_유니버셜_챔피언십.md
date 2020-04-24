@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [WWE 유니버셜 챔피언십](https://ko.wikipedia.org/wiki/WWE_유니버셜_챔피언십).
 
 
-**WWE 유니버셜 챔피언십**(WWE Universal Championship)은 [WWE](https://ko.wikipedia.org/wiki/WWE "wikilink")에 속한 타이틀 중 하나이다.
+**WWE 유니버셜 챔피언십**(WWE Universal Championship)은 [WWE](../Page/WWE.md "wikilink")에 속한 타이틀 중 하나이다.
 
 ## 역사
 
@@ -21,7 +21,7 @@
   - 최장수 챔피언 : [브록 레스너](../Page/브록_레스너.md "wikilink") (504일)
   - 최단 기간 챔피언 : [핀 베일러](https://ko.wikipedia.org/wiki/프린스_데빗 "wikilink") (1일)
   - 최다 챔피언 : [브록 레스너](../Page/브록_레스너.md "wikilink") (3회)
-  - 최중량급 챔피언 : [브레이 와이어트](../Page/윈덤_로턴다.md "wikilink") (130kg)
+  - 최중량급 챔피언 : [브라운 스트로우먼](../Page/브라운_스트로우먼.md "wikilink") (175kg)
   - 최경량급 챔피언 : [핀 베일러](../Page/핀_베일러.md "wikilink") (86kg)
   - 최고령 챔피언 : [골드버그](../Page/빌_골드버그.md "wikilink") (53세 62일)
   - 최연소 챔피언 : [케빈 오웬스](../Page/케빈_스틴.md "wikilink") (32세 114일)
@@ -30,11 +30,12 @@
 
   - 핀 베일러 (초대 챔피언)
   - 케빈 오웬스
-  - **골드버그** (현 챔피언)
+  - 골드버그
   - 브록 레스너
   - 로만 레인즈
   - 세스 롤린스
   - 브레이 와이어트
+  - **브라운 스트로우먼** (현 챔피언)
 
 ## 같이 보기
 

@@ -186,7 +186,7 @@
 <tbody>
 <tr class="odd">
 <td><p>러시아</p></td>
-<td><p>《<a href="https://ko.wikipedia.org/wiki/눈의_여왕_3:_눈과_불의_마법대결" title="wikilink">눈의 여왕 3: 눈과 불의 마법대결</a>》</p></td>
+<td><p>《<a href="../Page/눈의_여왕_3:_눈과_불의_마법대결.md" title="wikilink">눈의 여왕 3: 눈과 불의 마법대결</a>》</p></td>
 <td><p>2017.1.4</p></td>
 <td><p>애니메이션</p></td>
 <td><p>배급</p></td>

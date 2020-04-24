@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [YG플러스](https://ko.wikipedia.org/wiki/YG플러스).
 
 
-**YG PLUS**(, )는, [대한민국](../Page/대한민국.md "wikilink")의 [광고 대행업](../Page/광고_대행사.md "wikilink") 기업이며 [YG 엔터테인먼트의](../Page/YG_엔터테인먼트.md "wikilink") 자회사이다. 구 [휘닉스홀딩스](https://ko.wikipedia.org/wiki/휘닉스홀딩스 "wikilink")를 인수해 설립한 회사로 2015년 상반기를 기점으로 본업인 [광고 대행업](../Page/광고_대행사.md "wikilink") 외에 화장품(문샷), 모델(YG케이플러스), 골프 매니지먼트(YG스포츠) 외식사업(YG푸드) MD사업 등 다양한 사업을 진행하고 있으며 본사는 [서울특별시](../Page/서울특별시.md "wikilink") [강남구](https://ko.wikipedia.org/wiki/강남구 "wikilink") [도산대로](../Page/도산대로.md "wikilink") 15길 12에 있다.
+**YG PLUS**(, )는 [대한민국](../Page/대한민국.md "wikilink")의 [광고 대행업](../Page/광고_대행사.md "wikilink") 기업이며 [YG 엔터테인먼트의](../Page/YG_엔터테인먼트.md "wikilink") 자회사이다. 구 [휘닉스홀딩스](https://ko.wikipedia.org/wiki/휘닉스홀딩스 "wikilink")를 인수해 설립한 회사로 2015년 상반기를 기점으로 본업인 [광고 대행업](../Page/광고_대행사.md "wikilink") 외에 화장품(문샷), 모델(YG케이플러스), 골프 매니지먼트(YG스포츠) 외식사업(YG푸드) MD사업 등 다양한 사업을 진행하고 있으며 본사는 [서울특별시](../Page/서울특별시.md "wikilink") [강남구](https://ko.wikipedia.org/wiki/강남구 "wikilink") [도산대로](../Page/도산대로.md "wikilink") 15길 12에 있다.
 
 ## 연혁
 

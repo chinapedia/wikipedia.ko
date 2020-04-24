@@ -18,7 +18,7 @@
 <tbody>
 <tr class="odd">
 <td><p>2007년 2월 23일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/서울" title="wikilink">서울</a></p></td>
+<td><p><a href="../Page/서울특별시.md" title="wikilink">서울</a></p></td>
 <td></td>
 <td><p><a href="../Page/올림픽체조경기장.md" title="wikilink">올림픽체조경기장</a>[1]</p></td>
 <td><p>통산 39,000명</p></td>
@@ -39,7 +39,7 @@
 </tr>
 <tr class="even">
 <td><p>2007년 10월 5일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/타이베이" title="wikilink">대북</a></p></td>
+<td><p><a href="../Page/타이베이시.md" title="wikilink">타이베이</a></p></td>
 <td></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/타이베이_아레나" title="wikilink">타이베이 아레나</a></p></td>
 <td><p>10,000명</p></td>
@@ -88,21 +88,21 @@
 </tr>
 <tr class="odd">
 <td><p>2008년 5월 10일</p></td>
-<td><p>대북</p></td>
+<td><p>타이베이</p></td>
 <td></td>
 <td><p>타이베이 아레나[5]<small>(앙코르)</small></p></td>
 <td><p>10,000명</p></td>
 </tr>
 <tr class="even">
 <td><p>2008년 5월 31일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/상해" title="wikilink">상해</a></p></td>
+<td><p><a href="../Page/상하이시.md" title="wikilink">상하이</a></p></td>
 <td></td>
-<td><p><a href="../Page/훙커우_축구장.md" title="wikilink">홍구 축구장</a>[6]</p></td>
+<td><p><a href="../Page/훙커우_축구장.md" title="wikilink">훙커우 축구장</a>[6]</p></td>
 <td><p>25,000명</p></td>
 </tr>
 <tr class="odd">
 <td><p>2008년 6월 12일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/북경" title="wikilink">북경</a></p></td>
+<td><p><a href="../Page/베이징시.md" title="wikilink">베이징</a></p></td>
 <td><p>펑타 경기장[7]</p></td>
 <td><p>20,000명</p></td>
 <td></td>

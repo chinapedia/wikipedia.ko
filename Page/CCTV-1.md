@@ -9,10 +9,9 @@
   - [1958년](../Page/1958년.md "wikilink") [9월 2일](../Page/9월_2일.md "wikilink") : 베이징전시대의 정식 방송 개시. 일주일에 세 번, 매 30분 방송으로, 방송 권역은 베이징에 한정되었다.
   - [1973년](../Page/1973년.md "wikilink") [5월 1일](../Page/5월_1일.md "wikilink") : 베이징전시대의 [컬러 텔레비전](../Page/컬러_텔레비전.md "wikilink") 시험 방송 개시.
   - [1973년](../Page/1973년.md "wikilink") [10월 1일](../Page/10월_1일.md "wikilink") : 베이징전시대의 [컬러 텔레비전](../Page/컬러_텔레비전.md "wikilink") 정식 방송 개시. 컬러 텔레비전 방식은 [PAL](https://ko.wikipedia.org/wiki/PAL "wikilink")-D이다.
-  - [1978년](../Page/1978년.md "wikilink") [5월 1일](../Page/5월_1일.md "wikilink") : [중국공산당 중앙위원회의](../Page/중국공산당_중앙위원회.md "wikilink") 승인으로 베이징전시대를 [중앙전시대](../Page/중국중앙텔레비전.md "wikilink")(CCTV)이란 이름으로 변경
+  - [1978년](../Page/1978년.md "wikilink") [5월 1일](../Page/5월_1일.md "wikilink") : [중국공산당 중앙위원회의](../Page/중국공산당_중앙위원회.md "wikilink") 승인으로 베이징전시대를 [중국중앙텔레비전](../Page/중국중앙텔레비전.md "wikilink")(CCTV)이란 이름으로 변경
   - [1984년](../Page/1984년.md "wikilink") : 중국중앙텔레비전의 위성 방송 시작.\[1\]
   - [1993년](../Page/1993년.md "wikilink") : 뉴스 기반의 종합 채널(新闻为主的综合频道)로 전환.
-  - [1993년](../Page/1993년.md "wikilink") : 중앙전시대를 중국중앙전시대 전환
   - [1996년](../Page/1996년.md "wikilink") : 공식 채널명을 "뉴스·종합 채널(新闻·综合频道)"로 지정.
   - [2003년](../Page/2003년.md "wikilink") [5월 7일](../Page/5월_7일.md "wikilink") : 뉴스 채널인 [CCTV-13](https://ko.wikipedia.org/wiki/CCTV-13 "wikilink") 개국 이후로 대부분 뉴스 프로그램을 [CCTV-13](https://ko.wikipedia.org/wiki/CCTV-13 "wikilink")으로 옮김.
   - [2004년](../Page/2004년.md "wikilink") [10월 2일](../Page/10월_2일.md "wikilink") : 24시간 종일 방송 실시.
@@ -49,7 +48,7 @@
 
   -
 
-[분류:중국중앙방송](https://ko.wikipedia.org/wiki/분류:중국중앙방송 "wikilink") [분류:국제방송](https://ko.wikipedia.org/wiki/분류:국제방송 "wikilink") [분류:1958년 설립된 텔레비전 방송국과 채널](https://ko.wikipedia.org/wiki/분류:1958년_설립된_텔레비전_방송국과_채널 "wikilink")
+[분류:중국중앙방송](https://ko.wikipedia.org/wiki/분류:중국중앙방송 "wikilink") [분류:1958년 설립된 텔레비전 방송국과 채널](https://ko.wikipedia.org/wiki/분류:1958년_설립된_텔레비전_방송국과_채널 "wikilink")
 
 1.
 2.

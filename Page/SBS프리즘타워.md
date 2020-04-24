@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [SBS프리즘타워](https://ko.wikipedia.org/wiki/SBS프리즘타워).
 
 
-**SBS프리즘타워**()는 [서울특별시](../Page/서울특별시.md "wikilink") [마포구](../Page/마포구.md "wikilink") [상암동](https://ko.wikipedia.org/wiki/상암동 "wikilink")에 위치한 방송국 건물이며, SBS의 모기업인 [태영건설](../Page/태영건설.md "wikilink")에서 건설했다.
+'''SBSBS의 모기업인 [태영건설](../Page/태영건설.md "wikilink")에서 건설했다.
 
 ## 내부 시설
 
-SBS 프리즘타워는 지하 5층, 지상 17층 규모로 구성되어 있으며, 특히 PRISM AUDITORIUM은 SBS 프리즘타워에 있는 오디토리움, 즉 SBS 프리즘타워 공개홀을 말한다. 이곳에서는 [SBS 생활경제를](../Page/SBS_생활경제.md "wikilink") 포함한 SBS의 모든 프로그램들이 녹화되며, SBS MTV의 음악 순위 프로그램 THE SHOW도 이곳에서 생방송된다. 매년 슈퍼모델 선발대회와 SBS 연예대상, SBS 연기대상이 이곳에서 열린다.
+SBS 프리즘타워는 지하 5층, 지상 17층 규모로 구성되어 있으며, 특히 PRISM AUDITORIUM은 SBS 프리즘타워에 있는 오디토리움, 즉 SBS 프리즘타워 공개홀을 말한다. 이곳에서는 [SBS 생활경제를](../Page/SBS_생활경제.md "wikilink") 포함한 SBS의 뉴스를 제외한 거의 모든 프로그램들이 녹화되며, SBS MTV의 음악 순위 프로그램 THE SHOW도 이곳에서 생방송된다. 매년 슈퍼모델 선발대회와 SBS 연예대상, SBS 연기대상이 이곳에서 열린다.
 
 <table>
 <thead>

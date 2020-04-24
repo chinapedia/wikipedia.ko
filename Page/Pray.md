@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Pray](https://ko.wikipedia.org/wiki/Pray).
 
 
-**Pray**(プレイ)는, [Tommy heavenly6의](https://ko.wikipedia.org/wiki/Tommy_heavenly6 "wikilink") 5번째 [싱글이다](../Page/싱글_\(음악\).md "wikilink"). [CD뿐인](../Page/콤팩트_디스크.md "wikilink") 형태와 [DVD](../Page/DVD.md "wikilink")가 부록되어 있는 형태 2가지로 발매되었다. DVD 부록은 초회한정판.
+**Pray**(プレイ)는 [Tommy heavenly6의](https://ko.wikipedia.org/wiki/Tommy_heavenly6 "wikilink") 5번째 [싱글이다](../Page/싱글_\(음악\).md "wikilink"). [CD뿐인](../Page/콤팩트_디스크.md "wikilink") 형태와 [DVD](../Page/DVD.md "wikilink")가 부록되어 있는 형태 2가지로 발매되었다. DVD 부록은 초회한정판.
 
 ## 해설
 

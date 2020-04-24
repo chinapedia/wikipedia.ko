@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [SHOKICHI](https://ko.wikipedia.org/wiki/SHOKICHI).
 
 
-**SHOKICHI**(쇼키치, [1985년](../Page/1985년.md "wikilink") [10월 3일](../Page/10월_3일.md "wikilink") \~ )는, [일본](../Page/일본.md "wikilink")의 [가수](https://ko.wikipedia.org/wiki/가수 "wikilink")이며, [EXILE](../Page/EXILE.md "wikilink"), [EXILE THE SECOND의](../Page/EXILE_THE_SECOND.md "wikilink") 멤버이다. 본명, **야기 쇼키치**().
+**SHOKICHI**(쇼키치, [1985년](../Page/1985년.md "wikilink") [10월 3일](../Page/10월_3일.md "wikilink") \~ )는 [일본](../Page/일본.md "wikilink")의 [가수](https://ko.wikipedia.org/wiki/가수 "wikilink")이며, [EXILE](../Page/EXILE.md "wikilink"), [EXILE THE SECOND의](../Page/EXILE_THE_SECOND.md "wikilink") 멤버이다. 본명, **야기 쇼키치**().
 
 [홋카이도](../Page/홋카이도.md "wikilink") [토마코마이 시](https://ko.wikipedia.org/wiki/도마코마이_시 "wikilink") 출신. [LDH](https://ko.wikipedia.org/wiki/LDH "wikilink") 소속.
 

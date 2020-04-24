@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [NEWS 테고시 유야의 What A Wonderful Music!](https://ko.wikipedia.org/wiki/NEWS_테고시_유야의_What_A_Wonderful_Music!).
 
 
-《**NEWS 테고시 유야의 What A Wonderful Music\!**》(NEWS 手越祐也のWhat A Wonderful Music\!)은, [NEWS](https://ko.wikipedia.org/wiki/NEWS "wikilink")의 [테고시 유야가](../Page/테고시_유야.md "wikilink") 퍼스낼리티를 맡은 [FM NACK5의](https://ko.wikipedia.org/wiki/FM_넥파이브 "wikilink") 라디오 프로그램이다. [2005년](../Page/2005년.md "wikilink") [4월 4일에](../Page/4월_4일.md "wikilink") 개시해, [2006년](../Page/2006년.md "wikilink") [3월 27일에](../Page/3월_27일.md "wikilink") 종료할 때까지, 매주 월요일 밤 11시 30분부터 0시 00분까지 방송되었다.
+《**NEWS 테고시 유야의 What A Wonderful Music\!**》(NEWS 手越祐也のWhat A Wonderful Music\!)은 [NEWS](https://ko.wikipedia.org/wiki/NEWS "wikilink")의 [테고시 유야가](../Page/테고시_유야.md "wikilink") 퍼스낼리티를 맡은 [FM NACK5의](https://ko.wikipedia.org/wiki/FM_넥파이브 "wikilink") 라디오 프로그램이다. [2005년](../Page/2005년.md "wikilink") [4월 4일에](../Page/4월_4일.md "wikilink") 개시해, [2006년](../Page/2006년.md "wikilink") [3월 27일에](../Page/3월_27일.md "wikilink") 종료할 때까지, 매주 월요일 밤 11시 30분부터 0시 00분까지 방송되었다.
 
 ## 개요
 

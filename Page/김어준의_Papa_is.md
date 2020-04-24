@@ -408,7 +408,7 @@
 - 편파 채증 그리고 낙서가 국가보안법?<br />
 - 몸이 편할 때가 가장 힘들어요.</p></td>
 <td><p>이하(팝아티스트)<br />
-<a href="https://ko.wikipedia.org/wiki/김재연_(정치인)" title="wikilink">김재연</a>(국회의원)</p></td>
+<a href="../Page/김재연_(정치인).md" title="wikilink">김재연</a>(국회의원)</p></td>
 <td></td>
 </tr>
 <tr class="odd">

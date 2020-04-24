@@ -47,7 +47,7 @@
 <td><p>그림 그리고 싶은 날</p></td>
 <td><p>이강산</p></td>
 <td><p>오세균</p></td>
-<td><p>박미선(<a href="https://ko.wikipedia.org/wiki/동성초등학교_(부산)" title="wikilink">부산 동성국민학교</a> 5학년)</p></td>
+<td><p>박미선(<a href="../Page/동성초등학교_(부산).md" title="wikilink">부산 동성국민학교</a> 5학년)</p></td>
 </tr>
 <tr class="odd">
 <td><p>제3회</p></td>
@@ -72,7 +72,7 @@
 <td><p>장사경</p></td>
 <td><p>이강산</p></td>
 <td><p>류윤정, 강민정(<a href="https://ko.wikipedia.org/wiki/동래초등학교" title="wikilink">부산 동래국민학교</a> 6,5학년 /<br />
-이현정(<a href="https://ko.wikipedia.org/wiki/부산" title="wikilink">부산</a> <a href="https://ko.wikipedia.org/wiki/동성초등학교_(부산)" title="wikilink">부산 동성국민학교</a> 6학년)</p></td>
+이현정(<a href="https://ko.wikipedia.org/wiki/부산" title="wikilink">부산</a> <a href="../Page/동성초등학교_(부산).md" title="wikilink">부산 동성국민학교</a> 6학년)</p></td>
 </tr>
 <tr class="even">
 <td><p>제6회<br />

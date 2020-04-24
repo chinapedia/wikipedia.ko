@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [REBOOT MYSELF Part.1](https://ko.wikipedia.org/wiki/REBOOT_MYSELF_Part.1).
 
 
-《**REBOOT MYSELF Part. 1**》은 [대한민국](../Page/대한민국.md "wikilink")의 [음악인](https://ko.wikipedia.org/wiki/음악인 "wikilink") [신해철](../Page/신해철.md "wikilink")의 여섯 번째 솔로 정규 [EP로](../Page/익스텐디드_플레이.md "wikilink"), 그 중 첫 번째 파트에 해당한다. 발매는 2014년 6월 26일이다.\[1\]\[2\]
+《**REBOOT MYSELF Part. 1**》은 [대한민국](../Page/대한민국.md "wikilink")의 [음악인](https://ko.wikipedia.org/wiki/음악인 "wikilink") [신해철](../Page/신해철.md "wikilink")의 여섯 번째 솔로 정규 [EP로](../Page/익스텐디드_플레이.md "wikilink"), 그 중 첫 번째 파트에 해당한다. 2014년 6월 26일에 발매되었다.\[1\]\[2\]
 
 ## 앨범
 

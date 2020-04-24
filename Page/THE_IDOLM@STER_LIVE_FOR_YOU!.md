@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [THE IDOLM@STER LIVE FOR YOU!](https://ko.wikipedia.org/wiki/THE_IDOLM@STER_LIVE_FOR_YOU!).
 
 
-\<**THE IDOLM@STER LIVE FOR YOU\!**\>(아이돌마스터 라이브 포 유\!) 는 [반다이 남코 게임스가](https://ko.wikipedia.org/wiki/반다이_남코_게임스 "wikilink") [2008년](../Page/2008년.md "wikilink") [2월 28일에](../Page/2월_28일.md "wikilink") 발매한 [Xbox 360용](https://ko.wikipedia.org/wiki/Xbox_360 "wikilink") 게임 (공칭 <라이브 시뮬레이션>). [THE IDOLM@STER로부터의](../Page/THE_IDOLM@STER.md "wikilink") 파생 작품이며, [PROJECT IM@S의](https://ko.wikipedia.org/wiki/PROJECT_IM@S "wikilink") 1작품이기도 하다.
+\<**THE IDOLM@STER LIVE FOR YOU\!**\>(아이돌마스터 라이브 포 유\!)는 [반다이 남코 게임스가](https://ko.wikipedia.org/wiki/반다이_남코_게임스 "wikilink") [2008년](../Page/2008년.md "wikilink") [2월 28일에](../Page/2월_28일.md "wikilink") 발매한 [Xbox 360용](https://ko.wikipedia.org/wiki/Xbox_360 "wikilink") 게임 (공칭 <라이브 시뮬레이션>). [THE IDOLM@STER로부터의](../Page/THE_IDOLM@STER.md "wikilink") 파생 작품이며, [PROJECT IM@S의](https://ko.wikipedia.org/wiki/PROJECT_IM@S "wikilink") 1작품이기도 하다.
 
 2007년 10월 말, 이벤트 \<Go to the NEXTSTAGE\!\! THE IDOLM@STER GREAT PARTY\>나 동시기 발매의 게임 잡지 등\[1\]에, 아이돌 마스터의 신작 게임을 개발중으로 발표되어 약 4개월 후의 2008년 2월 28일에 발매 개시되었다. [CERO](https://ko.wikipedia.org/wiki/컴퓨터_오락_등급_기구 "wikilink") 레이팅 B (12세 이상 대상). 약칭은 \<L4U\!\>.
 

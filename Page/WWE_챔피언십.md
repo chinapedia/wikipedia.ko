@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [WWE 챔피언십](https://ko.wikipedia.org/wiki/WWE_챔피언십).
 
 
-**WWE 챔피언십**(WWE Championship)은 [WWE](https://ko.wikipedia.org/wiki/WWE "wikilink")에 속한 타이틀 중 하나이다. 현재 타이틀은 [더 락이](https://ko.wikipedia.org/wiki/더_락 "wikilink") 2013년 개조한 형태이다.
+**WWE 챔피언십**(WWE Championship)은 [WWE](../Page/WWE.md "wikilink")에 속한 타이틀 중 하나이다. 현재 타이틀은 [더 락이](https://ko.wikipedia.org/wiki/더_락 "wikilink") 2013년 개조한 형태이다.
 
 ## 역사
 
@@ -139,7 +139,7 @@
   - 빅 쇼
   - 커트 앵글
   - 크리스 제리코
-  - **브록 레스너** (현 챔피언)
+  - 브록 레스너
   - 에디 게레로
   - 존 브래드쇼 레이필드
   - 존 시나
@@ -161,6 +161,7 @@
   - 브레이 와이엇
   - 진더 마할
   - 코피 킹스턴
+  - **드루 매킨타이어** (현 챔피언)
 
 ## 같이 보기
 

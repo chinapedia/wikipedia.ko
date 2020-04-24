@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [V.I.P \(시드의 노래\)](https://ko.wikipedia.org/wiki/V.I.P_\(시드의_노래\)).
 
 
-〈**V.I.P**〉(브이아이피, )는, [시드의](../Page/시드_\(밴드\).md "wikilink") 13번째 싱글로 [2012년](../Page/2012년.md "wikilink") [11월 21일에](../Page/11월_21일.md "wikilink") [Ki/oon Music에서](../Page/큔_뮤직.md "wikilink") 발매되었다.
+〈**V.I.P**〉(브이아이피, )는 [시드의](../Page/시드_\(밴드\).md "wikilink") 13번째 싱글로 [2012년](../Page/2012년.md "wikilink") [11월 21일에](../Page/11월_21일.md "wikilink") [Ki/oon Music에서](../Page/큔_뮤직.md "wikilink") 발매되었다.
 
 ## 개요
 

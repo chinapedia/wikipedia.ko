@@ -23,7 +23,7 @@
   - [2003년](../Page/2003년.md "wikilink") [6월 30일](../Page/6월_30일.md "wikilink") \~ [2003년](../Page/2003년.md "wikilink") [10월 24일](../Page/10월_24일.md "wikilink") : 배해수, [이상희](../Page/이상희_\(아나운서\).md "wikilink")
   - [2003년](../Page/2003년.md "wikilink") [10월 27일](../Page/10월_27일.md "wikilink") \~ [2004년](../Page/2004년.md "wikilink") [11월 12일](../Page/11월_12일.md "wikilink") : 배해수, [조진영](https://ko.wikipedia.org/wiki/조진영 "wikilink")
 
-※ 주말의 경우 임동석, 한명재, [유형서](https://ko.wikipedia.org/wiki/유형서 "wikilink"), [선우경](https://ko.wikipedia.org/wiki/선우경 "wikilink"), [이상희](../Page/이상희_\(아나운서\).md "wikilink"), [조진영](https://ko.wikipedia.org/wiki/조진영 "wikilink") 등 아나운서들이 랜덤으로 진행했고, [2003년](../Page/2003년.md "wikilink") [11월 1일부터](../Page/11월_1일.md "wikilink") [2004년](../Page/2004년.md "wikilink") [7월 4일까지](../Page/7월_4일.md "wikilink") 주말 진행 체제가 잠정적으로 폐지됐다가, [2004년](../Page/2004년.md "wikilink") [7월 10일에](../Page/7월_10일.md "wikilink") 주말 진행 체제가 다시 부활한 이후부터 종영할 때까지 김병길, 문영민 앵커가 진행했다.
+※ 주말의 경우 [임동석](https://ko.wikipedia.org/wiki/임동석 "wikilink"), 한명재, [유형서](https://ko.wikipedia.org/wiki/유형서 "wikilink"), [선우경](https://ko.wikipedia.org/wiki/선우경 "wikilink"), [이상희](../Page/이상희_\(아나운서\).md "wikilink"), [조진영](https://ko.wikipedia.org/wiki/조진영 "wikilink") 등 아나운서들이 랜덤으로 진행했고, [2003년](../Page/2003년.md "wikilink") [11월 1일부터](../Page/11월_1일.md "wikilink") [2004년](../Page/2004년.md "wikilink") [7월 4일까지](../Page/7월_4일.md "wikilink") 주말 진행 체제가 잠정적으로 폐지됐다가, [2004년](../Page/2004년.md "wikilink") [7월 10일에](../Page/7월_10일.md "wikilink") 주말 진행 체제가 다시 부활한 이후부터 종영할 때까지 김병길, [문영민](https://ko.wikipedia.org/wiki/문영민 "wikilink") 앵커가 진행했다.
 
 ## 역대 방송시간
 

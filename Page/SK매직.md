@@ -15,10 +15,6 @@
 
   - [공식 웹사이트](http://www.skmagic.com)
 
-## 각주
-
-<references />
-
 [분류:2013년 설립](https://ko.wikipedia.org/wiki/분류:2013년_설립 "wikilink") [분류:대한민국의 전자 기업](https://ko.wikipedia.org/wiki/분류:대한민국의_전자_기업 "wikilink") [분류:서울특별시의 기업](https://ko.wikipedia.org/wiki/분류:서울특별시의_기업 "wikilink") [SK매직](https://ko.wikipedia.org/wiki/분류:SK의_자회사 "wikilink") [분류:동양의 이전 자회사](https://ko.wikipedia.org/wiki/분류:동양의_이전_자회사 "wikilink")
 
 1.

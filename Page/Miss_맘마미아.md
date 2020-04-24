@@ -18,7 +18,7 @@
   - [김하은](../Page/김하은.md "wikilink") : 강봉숙 역
   - [장은풍](../Page/이원재_\(1978년_1월\).md "wikilink") : 주기찬 역
   - [안승훈](../Page/안승훈.md "wikilink") : 안 사장 역
-  - [박수영](../Page/박수영.md "wikilink") : 심석봉 역
+  - [박수영](../Page/박수영_\(1970년\).md "wikilink") : 심석봉 역
   - [길해연](../Page/길해연.md "wikilink") : 마 여사 역
   - [김하유](../Page/김하유.md "wikilink") : 서하루 역
   - [배강유](https://ko.wikipedia.org/wiki/배강유 "wikilink") : 이종민 역

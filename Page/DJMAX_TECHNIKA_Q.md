@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [DJMAX TECHNIKA Q](https://ko.wikipedia.org/wiki/DJMAX_TECHNIKA_Q).
 
 
-**디제이맥스 테크니카 Q**(DJMAX TECHNIKA Q) 는 [Planet](../Page/펜타비전.md "wikilink") 이 개발하고 [네오위즈 인터넷이](https://ko.wikipedia.org/wiki/네오위즈_인터넷 "wikilink") 배급하는 게임이다.\[1\] 게임 방식은 테크니카와 같다. [대한민국](../Page/대한민국.md "wikilink")에서는 카카오 게임하기로 출시되었고, 해외 버전은 기존 피망플러스 연동으로 출시되었다.
+**디제이맥스 테크니카 Q**(DJMAX TECHNIKA Q)는 [Planet](../Page/펜타비전.md "wikilink") 이 개발하고 [네오위즈 인터넷이](https://ko.wikipedia.org/wiki/네오위즈_인터넷 "wikilink") 배급하는 게임이다.\[1\] 게임 방식은 테크니카와 같다. [대한민국](../Page/대한민국.md "wikilink")에서는 카카오 게임하기로 출시되었고, 해외 버전은 기존 피망플러스 연동으로 출시되었다.
 
 2014년 6월 이후로 한 동안 업데이트가 없었으나 2016년 12월 프로듀서가 XeoN으로 교체되면서 테크니카 Q의 업데이트가 이루어졌다.\[2\]\[3\] 2017년 6월 15일, 테크니카 Q의 로고와 UI, 로그인 방식 및 유저 데이터 저장방식이 변경되는 업데이트를 하였다.\[4\] 또한, 동년 6월 21일, 테크니카 Q의 한국 출시버전인 DJMAX TECHNIKA Q for kakao를 서비스 종료하고 글로벌 버전과 통합함을 알렸다.\[5\]\[6\]
 

@@ -32,43 +32,43 @@
 <td></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Flag_of_United_States.svg" title="wikilink">30px</a><br />
 <strong><a href="https://ko.wikipedia.org/wiki/미국_풋살_국가대표팀" title="wikilink">미국</a></strong></p></td>
-<td><p><strong>7 : 3</strong></p></td>
+<td><p><strong>7 – 3</strong></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/2000년_CONCACAF_풋살_선수권_대회" title="wikilink">2000년</a></p></td>
 <td></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Flag_of_Costa_Rica_(state).svg" title="wikilink">30px</a><br />
 <strong><a href="https://ko.wikipedia.org/wiki/코스타리카_풋살_국가대표팀" title="wikilink">코스타리카</a></strong></p></td>
-<td><p><strong>2 : 0</strong></p></td>
+<td><p><strong>2 – 0</strong></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/2004년_CONCACAF_풋살_선수권_대회" title="wikilink">2004년</a></p></td>
 <td></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Flag_of_United_States.svg" title="wikilink">30px</a><br />
 <strong><a href="https://ko.wikipedia.org/wiki/미국_풋살_국가대표팀" title="wikilink">미국</a></strong></p></td>
-<td><p><strong>2 : 0</strong></p></td>
+<td><p><strong>2 – 0</strong></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/2008년_CONCACAF_풋살_선수권_대회" title="wikilink">2008년</a></p></td>
 <td></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Flag_of_Guatemala.svg" title="wikilink">30px</a><br />
 <strong><a href="https://ko.wikipedia.org/wiki/과테말라_풋살_국가대표팀" title="wikilink">과테말라</a></strong></p></td>
-<td><p><strong>3 : 3</strong><br />
-(5 : 3 <a href="../Page/승부차기.md" title="wikilink">p</a>)</p></td>
+<td><p><strong>3 – 3</strong><br />
+(5 – 3 <a href="../Page/승부차기.md" title="wikilink">p</a>)</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/2012년_CONCACAF_풋살_선수권_대회" title="wikilink">2012년</a></p></td>
 <td></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Flag_of_Costa_Rica_(state).svg" title="wikilink">30px</a><br />
 <strong><a href="https://ko.wikipedia.org/wiki/코스타리카_풋살_국가대표팀" title="wikilink">코스타리카</a></strong></p></td>
-<td><p><strong>3 : 2</strong></p></td>
+<td><p><strong>3 – 2</strong></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/2016년_CONCACAF_풋살_선수권_대회" title="wikilink">2016년</a></p></td>
 <td></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Flag_of_Costa_Rica_(state).svg" title="wikilink">30px</a><br />
 <strong><a href="https://ko.wikipedia.org/wiki/코스타리카_풋살_국가대표팀" title="wikilink">코스타리카</a></strong></p></td>
-<td><p><strong>4 : 0</strong></p></td>
+<td><p><strong>4 – 0</strong></p></td>
 </tr>
 </tbody>
 </table>

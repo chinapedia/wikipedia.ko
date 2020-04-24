@@ -1,7 +1,9 @@
 > This article is converted from Wikipedia: [AS 치타델라](https://ko.wikipedia.org/wiki/AS_치타델라).
 
 
-**AS 치타델라**(Associazione Sportiva Cittadella SpA)는 [이탈리아](../Page/이탈리아.md "wikilink") [베네토주](../Page/베네토주.md "wikilink") [치타델라](https://ko.wikipedia.org/wiki/치타델라 "wikilink")에 위치한 [축구](../Page/축구.md "wikilink") 클럽이다.
+**AS 치타델라**(Associazione Sportiva Cittadella S.p.A.)는 [이탈리아](../Page/이탈리아.md "wikilink") [베네토주](../Page/베네토주.md "wikilink") [치타델라](https://ko.wikipedia.org/wiki/치타델라 "wikilink")에 위치한 [이탈리아](../Page/이탈리아.md "wikilink") [축구](../Page/축구.md "wikilink") 클럽이다.
+
+**AS 치타델라**는 [1973년](../Page/1973년.md "wikilink")에 U.S. 치타델렌세와 A.S. 올림피아의 합병으로 창단되었다. 창단 초기에는 아마추어 리그에서 활동하다가 [1988년](../Page/1988년.md "wikilink")에 프로 축구 리그인 [세리에 C2로](https://ko.wikipedia.org/wiki/세리에_C2 "wikilink") 승격했으며 이후 [1999년](../Page/1999년.md "wikilink")에 처음으로 [세리에 B로](../Page/세리에_B.md "wikilink") 승격하였다.
 
 ## 역사
 

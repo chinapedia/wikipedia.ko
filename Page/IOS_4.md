@@ -5,7 +5,7 @@
 
 ## 새로운 기능
 
-iOS 4 부터는 [멀티태스킹](https://ko.wikipedia.org/wiki/멀티태스킹 "wikilink") 기능, 폴더, 배경화면이 추가되었다. 그러나, [아이폰 3G](../Page/아이폰_3G.md "wikilink") 기종과 아이팟 터치 (2세대) 는 배경화면 변경과 [멀티태스킹](https://ko.wikipedia.org/wiki/멀티태스킹 "wikilink") 기능 사용이 불가능하였다. iOS 4의 업데이트 버전인 iOS 4.1에는 [게임센터](https://ko.wikipedia.org/wiki/게임센터 "wikilink") 앱이 추가되었으며, [아이폰 3G에서는](../Page/아이폰_3G.md "wikilink") [게임센터](https://ko.wikipedia.org/wiki/게임센터 "wikilink") 앱 설치가 불가능하였다.
+iOS 4 부터는 [멀티태스킹](https://ko.wikipedia.org/wiki/멀티태스킹 "wikilink") 기능, 폴더, 배경화면이 추가되었다. 그러나, [아이폰 3G](../Page/아이폰_3G.md "wikilink") 기종과 아이팟 터치 (2세대)는 배경화면 변경과 [멀티태스킹](https://ko.wikipedia.org/wiki/멀티태스킹 "wikilink") 기능 사용이 불가능하였다. iOS 4의 업데이트 버전인 iOS 4.1에는 [게임센터](https://ko.wikipedia.org/wiki/게임센터 "wikilink") 앱이 추가되었으며, [아이폰 3G에서는](../Page/아이폰_3G.md "wikilink") [게임센터](https://ko.wikipedia.org/wiki/게임센터 "wikilink") 앱 설치가 불가능하였다.
 
 ## 문제
 

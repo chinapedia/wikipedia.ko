@@ -35,14 +35,14 @@
 </tr>
 <tr class="even">
 <td><p>2015년 9월 19일</p></td>
-<td><p><a href="../Page/서울특별시.md" title="wikilink">서울</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/서울" title="wikilink">서울</a></p></td>
 <td></td>
 <td><p>고려대학교 화정체육관[1]</p></td>
 <td><p>6,510명</p></td>
 </tr>
 <tr class="odd">
 <td><p>2016년 1월 8일</p></td>
-<td><p><a href="../Page/도쿄.md" title="wikilink">도쿄</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/동경" title="wikilink">동경</a></p></td>
 <td></td>
 <td><p>아리아케 콜로세움</p></td>
 <td><p>통산 54,960명</p></td>
@@ -77,7 +77,7 @@
 </tr>
 <tr class="even">
 <td><p>2016년 2월 13일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/타이베이" title="wikilink">타이베이</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/대북" title="wikilink">대북</a></p></td>
 <td></td>
 <td><p>신장 체육관</p></td>
 <td><p>통산 10,316명</p></td>
@@ -91,15 +91,15 @@
 </tr>
 <tr class="even">
 <td><p>2016년 2월 27일</p></td>
-<td><p><a href="../Page/베이징시.md" title="wikilink">베이징</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/북경" title="wikilink">북경</a></p></td>
 <td></td>
 <td><p>북경 공인체육관</p></td>
 <td><p>9,364명</p></td>
 </tr>
 <tr class="odd">
 <td><p>2016년 3월 5일</p></td>
-<td><p><a href="../Page/상하이시.md" title="wikilink">상하이</a></p></td>
-<td><p>상하이 대무대</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/상해" title="wikilink">상해</a></p></td>
+<td><p>상해 대무대</p></td>
 <td><p>9,295명</p></td>
 <td></td>
 </tr>
@@ -119,7 +119,7 @@
 </tr>
 <tr class="even">
 <td><p>2016년 6월 10일 (1회)</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/오사카" title="wikilink">오사카</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/대판" title="wikilink">대판</a></p></td>
 <td></td>
 <td><p>오사카 국제 회의장 메인 홀</p></td>
 <td><p>통산 44,128명</p></td>

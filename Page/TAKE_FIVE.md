@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [TAKE FIVE](https://ko.wikipedia.org/wiki/TAKE_FIVE).
 
 
-《**TAKE FIVE\~우리는 사랑을 훔칠 수 있을까\~**》()는, [2013년](../Page/2013년.md "wikilink") [4월 19일부터](../Page/4월_19일.md "wikilink") [6월 22일까지](../Page/6월_22일.md "wikilink") [TBS](../Page/도쿄_방송_홀딩스.md "wikilink") [계열의](../Page/재팬_뉴스_네트워크.md "wikilink") [금요드라마](../Page/TBS_금요드라마.md "wikilink") 시간대(매주 [금요일](../Page/금요일.md "wikilink") 20:00 \~ 22:54 〈[JST](../Page/일본_표준시.md "wikilink")〉)에서 방송된 [일본](../Page/일본.md "wikilink")의 [텔레비전 드라마이다](https://ko.wikipedia.org/wiki/일본_드라마 "wikilink"). 주연은 [카라사와 토시아키](../Page/카라사와_토시아키.md "wikilink").
+《**TAKE FIVE\~우리는 사랑을 훔칠 수 있을까\~**》()는 [2013년](../Page/2013년.md "wikilink") [4월 19일부터](../Page/4월_19일.md "wikilink") [6월 22일까지](../Page/6월_22일.md "wikilink") [TBS](../Page/도쿄_방송_홀딩스.md "wikilink") [계열의](../Page/재팬_뉴스_네트워크.md "wikilink") [금요드라마](../Page/TBS_금요드라마.md "wikilink") 시간대(매주 [금요일](../Page/금요일.md "wikilink") 20:00 \~ 22:54 〈[JST](../Page/일본_표준시.md "wikilink")〉)에서 방송된 [일본](../Page/일본.md "wikilink")의 [텔레비전 드라마이다](https://ko.wikipedia.org/wiki/일본_드라마 "wikilink"). 주연은 [카라사와 토시아키](../Page/카라사와_토시아키.md "wikilink").
 
 ## 줄거리
 
-[섬네일의](https://ko.wikipedia.org/wiki/파일:Leonardo_da_Vinci_\(attrib\)-_la_Belle_Ferroniere.jpg "wikilink") 〈루크레치아의 초상(밀라노의 귀부인의 초상)〉([루브르 박물관](../Page/루브르_박물관.md "wikilink") 소장)\]\] 〈TAKE FIVE〉라는 도둑단은, 나쁜 녀석들로부터 거금을 빼앗는 의적 집단이다. 20년 전까지 〈TAKE FIVE〉에서 아버지와 행동을 함께 했던 호무라 마사요시(카라사와 토시아키)는, 한 사건이 계기로 〈TAKE FIVE〉를 인퇴했다. 그 후는 도내의 대학에서, 범죄에 손을 대지 않고 교수로서 교편을 잡고 있었다.
+[섬네일의](https://ko.wikipedia.org/wiki/파일:Leonardo_da_Vinci_\(attrib\)-_la_Belle_Ferroniere.jpg "wikilink") 〈루크레치아의 초상(밀라노의 귀부인의 초상)〉([루브르 박물관](../Page/루브르_박물관.md "wikilink") 소장)\]\] 〈TAKE FIVE〉라는 도둑단은, 나쁜 녀석들로부터 거금을 빼앗는 의적 집단이다. 20년 전까지 〈TAKE FIVE〉에서 아버지와 행동을 함께 했던 호무라 마사요시(카라사와 토시아키)는 한 사건이 계기로 〈TAKE FIVE〉를 인퇴했다. 그 후는 도내의 대학에서, 범죄에 손을 대지 않고 교수로서 교편을 잡고 있었다.
 
 ## 등장인물
 

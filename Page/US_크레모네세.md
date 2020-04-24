@@ -1,7 +1,9 @@
 > This article is converted from Wikipedia: [US 크레모네세](https://ko.wikipedia.org/wiki/US_크레모네세).
 
 
-**US 크레모네세**(Unione Sportiva Cremonese)는 [크레모나](https://ko.wikipedia.org/wiki/크레모나 "wikilink")에 위치한 [스타디오 조반니 치니](https://ko.wikipedia.org/wiki/스타디오_조반니_치니 "wikilink") 경기장을 근거로 하는 [이탈리아](../Page/이탈리아.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다. 1903년 창단되었다.
+**US 크레모네세**(Unione Sportiva Cremonese S.p.A. )는 [1903년](../Page/1903년.md "wikilink")에 창단된 [이탈리아](../Page/이탈리아.md "wikilink") [롬바르디아주](../Page/롬바르디아주.md "wikilink") [크레모나](https://ko.wikipedia.org/wiki/크레모나 "wikilink")에 위치한 [스타디오 조반니 치니](https://ko.wikipedia.org/wiki/스타디오_조반니_치니 "wikilink") 경기장을 근거로 하는 [이탈리아](../Page/이탈리아.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽으로 현재 [세리에 B에](../Page/세리에_B.md "wikilink") 소속되어 있다.
+
+
 
 ## 클럽의 색깔
 
@@ -53,7 +55,7 @@
 
 <!-- end list -->
 
-  - **[안젤로-이탈리아 컵](https://ko.wikipedia.org/wiki/안젤로-이탈리아_컵 "wikilink")**
+  - **[앵글로-이탈리안 컵](https://ko.wikipedia.org/wiki/코파_안글로-이탈리아나_컵 "wikilink")**
 
 <!-- end list -->
 

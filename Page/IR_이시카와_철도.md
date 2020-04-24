@@ -17,8 +17,6 @@
 
   - [521계 전동차를](https://ko.wikipedia.org/wiki/서일본_여객철도_521계_전동차 "wikilink") JR서일본에서부터 양도받는다.
 
-파일:Ishikawa Railway IR521 Series IR05 20190601.jpg|IR 이시카와 철도 521계 전동차 모습
-
 ## 같이 보기
 
   - 호쿠리쿠 신칸센 개통으로 재래선(기존선)을 계승한 철도 사업사

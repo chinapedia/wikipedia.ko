@@ -10,7 +10,7 @@
   - 팀의 리더인 최일권이 록을 시작한 계기는 아주 특별한 데, 고등학교 2학년에 재학 중이던 [1996년](../Page/1996년.md "wikilink") 어느 날, 집 앞에 버려진 [통기타](../Page/통기타.md "wikilink")를 본 최일권이 그것을 주워 와 무작정 퉁겼고, 이를 계기로 [록 음악에](../Page/록_음악.md "wikilink") 관심을 가지게 되었다고 한다.
   - 타이틀곡이었던 《왜 안돼\! 왜 안돼\! (승차거부)》는 2개의 버전으로 나뉘었는데, 이는 심의를 고려한 것이라고 한다.
   - 5번 수록곡인 《1급통지서》는 최일권이 자신의 친구의 권유로 만든 노래인데, [징병제](../Page/징병제.md "wikilink")를 다룬 노래로 국가 제도에 반박하려는 의도는 아니지만, 2년이라는 시간이 인생에서 엄청난 손실이라는 생각을 담았다고 한다.
-  - 6번 수록곡인 《Happy Ending》은 수록곡 중 유일하게 신태권이 작사했는데, 원래는 최일권이 음악의 상업화를 비판하는 가사를 쓰려했으나, 사귀던 여자친구와 헤어져서 상심한 그의 사연을 알게 된 최일권이 특별히 그에게 작사를 양보해주었다. 그리고 이 노래는 [H.O.T.](../Page/H.O.T..md "wikilink")의 리드래퍼인 이재원이 피쳐링에 참여했으며, 11년 뒤인 [2009년 10월에](../Page/2009년_10월.md "wikilink") 신태권이 보컬 파트는 자신의 목소리로, 랩 파트는 [Outsider의](https://ko.wikipedia.org/wiki/아웃사이더_\(가수\) "wikilink") 목소리로 리메이크하여 그의 솔로 1집 EP에 수록했다.
+  - 6번 수록곡인 《Happy Ending》은 [2009년 10월에](../Page/2009년_10월.md "wikilink") 신태권이 보컬 파트는 자신의 목소리로, 랩 파트는 [Outsider의](https://ko.wikipedia.org/wiki/아웃사이더_\(가수\) "wikilink") 목소리로 리메이크하여 그의 솔로 1집 EP에 수록했다.
 
 ## 제작
 
@@ -29,7 +29,7 @@
 </dl>
 <ul>
 <li>최일권 - <a href="https://ko.wikipedia.org/wiki/리드_보컬" title="wikilink">리드 보컬</a>, <a href="https://ko.wikipedia.org/wiki/리드_기타" title="wikilink">리드 기타</a></li>
-<li>신태권 - <a href="https://ko.wikipedia.org/wiki/서브보컬" title="wikilink">서브보컬</a>, <a href="https://ko.wikipedia.org/wiki/드럼" title="wikilink">드럼</a></li>
+<li>신태권 - 보컬, 랩, 드럼</li>
 <li>여인택 - 백 보컬, <a href="../Page/베이스_기타.md" title="wikilink">베이스 기타</a></li>
 <li>송운석 (전 멤버) - 서브보컬, <a href="https://ko.wikipedia.org/wiki/리듬_기타" title="wikilink">리듬 기타</a></li>
 </ul>

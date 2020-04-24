@@ -38,7 +38,7 @@ CD4는 SPG21,\[5\] Lck\[6\]\[7\]\[8\]\[9\]\[10\], 단백질 unc-119 상동체\[1
 
 ### HIV 병리학
 
-[HIV](https://ko.wikipedia.org/wiki/HIV "wikilink")에 감염되면 CD4 T 세포의 수가 급격하게 감소한다. 의료진은 CD4 수를 참고하여 치료를 시작할 시점을 결정한다. [정상적인](https://ko.wikipedia.org/wiki/혈액_검사의_표준_범위 "wikilink") 혈액 검사값은 마이크로리터(혹은 mm<sup>3</sup>) 당 세포의 수로 나타내며, 정상 CD4 세포의 수는 500-1200개/mm<sup>3</sup>이다.\[13\] CD4 세포 수는 직접적인 HIV 검사, 즉 바이러스 DNA나 HIV에 특이적인 [항체](https://ko.wikipedia.org/wiki/항체 "wikilink")를 검사하는 것이 아니고, 환자의 면역력 상태를 파악하기 위한 수치이다. 환자의 CD4 수가 350-500개/mm<sup>3</sup>까지 떨어지면 치료한다. 200개/mm<sup>3</sup> 이하로 떨어지면 [AIDS](https://ko.wikipedia.org/wiki/AIDS "wikilink")로 정의된 질병에 걸린다. [NIH](https://ko.wikipedia.org/wiki/NIH "wikilink")는 HIV 양성인 모든 사람은 CD4 수에 관계없이 치료를 받을 것을 권고한다.\[14\] 의학 전문가는 치료의 효과를 파악하기 위하여 CD4 검사를 참고한다.
+[HIV](https://ko.wikipedia.org/wiki/HIV "wikilink")에 감염되면 CD4 T 세포의 수가 급격하게 감소한다. 의료진은 CD4 수를 참고하여 치료를 시작할 시점을 결정한다.(현대 치료법은 CD4 수와 관련 없이 HIV 감염 이후 혈액 검사에서 확진 후에 바로 치료를 시작한다. 이유는 먼저 치료한 그룹이 그렇지 않은 그룹에 비해서 삶의 질,육체적 정신적 건강 면에서 월등히 높기 때문 즉각 치료는 강제적 의무사항은 아니지만 여러가지 관점으로 봤을 때 하지 않은 근거는 거의 없다고 봐도 무방하다) [정상적인](https://ko.wikipedia.org/wiki/혈액_검사의_표준_범위 "wikilink") 혈액 검사값은 마이크로리터(혹은 mm<sup>3</sup>) 당 세포의 수로 나타내며, 정상 CD4 세포의 수는 500-1200개/mm<sup>3</sup>이다.\[13\] CD4 세포 수는 직접적인 HIV 검사, 즉 바이러스 DNA나 HIV에 특이적인 [항체](https://ko.wikipedia.org/wiki/항체 "wikilink")를 검사하는 것이 아니고, 환자의 면역력 상태를 파악하기 위한 수치이다. 환자의 CD4 수가 350-500개/mm<sup>3</sup>까지 떨어지면 치료한다. 200개/mm<sup>3</sup> 이하로 떨어지면 [AIDS](https://ko.wikipedia.org/wiki/AIDS "wikilink")로 정의된 질병에 걸린다. [NIH](https://ko.wikipedia.org/wiki/NIH "wikilink")는 HIV 양성인 모든 사람은 CD4 수에 관계없이 치료를 받을 것을 권고한다.\[14\] 의학 전문가는 치료의 효과를 파악하기 위하여 CD4 검사를 참고한다.
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Reference_ranges_for_blood_tests_-_white_blood_cells.png "wikilink")
 

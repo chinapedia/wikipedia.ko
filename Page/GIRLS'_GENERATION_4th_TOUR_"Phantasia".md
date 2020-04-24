@@ -5,7 +5,7 @@
 
 ## 개요
 
-2015년 10월 17일, SM 엔터테인먼트는 소녀시대 공식 홈페이지를 통해 소녀시대의 네 번째 단독 콘서트 일정을 발표하였으며, 2회에 걸쳐 열리는 서울 공연의 티켓 예매를 22일부터 YES24를 통해 진행했다.\[1\]
+2015년 10월 17일, SM 엔터테인먼트는 소녀시대 공식 홈페이지를 통해 소녀시대의 네 번째 단독 콘서트 일정을 발표하였으며, 2회에 걸쳐 열리는 서울 공연의 티켓 예매를 22일부터 YES24를 통해 진행했다.\[1\] 이로써 소녀시대는 **모든 콘서트를 통틀어 총 92회 공연 동안 약 113만명을 동원함으로써 이는 역대 한국 여가수 최다 콘서트 관객동원 기록이다.**\[2\] 또한, GIRLS' GENERATION 4th TOUR "Phantasia"의 나고야,고베,사이타마 콘서트 관객수와 도쿄돔 콘서트 관객수까지 합하여 **소녀시대는 통산 약 81만 명의 일본 콘서트 관객수를 동원하며 이 또한 역대 한국 여가수 최다 일본 콘서트 관객동원 기록이다.**\[3\]
 
 ## 투어 일정
 
@@ -24,7 +24,7 @@
 <td><p>2015년 11월 21일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/서울" title="wikilink">서울</a></p></td>
 <td></td>
-<td><p><a href="../Page/올림픽체조경기장.md" title="wikilink">올림픽체조경기장</a>[2]</p></td>
+<td><p><a href="../Page/올림픽체조경기장.md" title="wikilink">올림픽체조경기장</a>[4]</p></td>
 <td><p>통산 20,000명</p></td>
 </tr>
 <tr class="even">
@@ -80,7 +80,7 @@
 <td><p>2016년 1월 30일</p></td>
 <td><p><a href="../Page/방콕.md" title="wikilink">방콕</a></p></td>
 <td></td>
-<td><p>임팩트 아레나 무앙 통 타니[3]</p></td>
+<td><p>임팩트 아레나 무앙 통 타니[5]</p></td>
 <td><p>통산 20,000명</p></td>
 </tr>
 <tr class="even">
@@ -94,14 +94,14 @@
 <td><p>2016년 4월 16일</p></td>
 <td><p><a href="../Page/자카르타.md" title="wikilink">자카르타</a></p></td>
 <td></td>
-<td><p>인도네시아 컨벤션 센터[4]</p></td>
+<td><p>인도네시아 컨벤션 센터[6]</p></td>
 <td><p>통산 5,000명</p></td>
 </tr>
 <tr class="even">
 <td><p>2016년 5월 7일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/타이베이" title="wikilink">대북</a></p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/타이베이_아레나" title="wikilink">타이베이 아레나</a>[5]</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/타이베이_아레나" title="wikilink">타이베이 아레나</a>[7]</p></td>
 <td><p>통산 22,000명</p></td>
 </tr>
 <tr class="odd">
@@ -178,7 +178,9 @@
 [분류:소녀시대의 콘서트 투어](https://ko.wikipedia.org/wiki/분류:소녀시대의_콘서트_투어 "wikilink") [분류:2015년 콘서트 투어](https://ko.wikipedia.org/wiki/분류:2015년_콘서트_투어 "wikilink") [분류:2016년 콘서트 투어](https://ko.wikipedia.org/wiki/분류:2016년_콘서트_투어 "wikilink")
 
 1.
-2.
-3.
+2.  <https://blog.naver.com/snsdcareer/220821960394>
+3.  [3번의 아레나 투어 68만 명+Phantasia 투어 나고야 1만 명+Phantasia 투어 고베 2만4천 명+Phantasia 투어 사이타마 4만4천 명+도쿄돔 5만 명](https://blog.naver.com/snsdcareer/220821960394)
 4.
 5.
+6.
+7.

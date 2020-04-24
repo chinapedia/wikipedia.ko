@@ -18,7 +18,7 @@
 <tbody>
 <tr class="odd">
 <td><p>2009년 2월 20일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/서울" title="wikilink">서울</a></p></td>
+<td><p><a href="../Page/서울특별시.md" title="wikilink">서울</a></p></td>
 <td></td>
 <td><p><a href="../Page/올림픽체조경기장.md" title="wikilink">올림픽체조경기장</a>[1]</p></td>
 <td><p>통산 39,000명</p></td>
@@ -39,7 +39,7 @@
 </tr>
 <tr class="even">
 <td><p>2009년 4월 4일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/남경" title="wikilink">남경</a></p></td>
+<td><p><a href="../Page/난징시.md" title="wikilink">난징</a></p></td>
 <td></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/난징_올림픽_스포츠_센터" title="wikilink">난징 올림픽 스포츠 센터</a>[2]</p></td>
 <td><p>20,000명</p></td>
@@ -60,14 +60,14 @@
 </tr>
 <tr class="odd">
 <td><p>2009년 7월 11일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/북경" title="wikilink">북경</a></p></td>
+<td><p><a href="../Page/베이징시.md" title="wikilink">베이징</a></p></td>
 <td></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/베이징_공인체육장" title="wikilink">베이징 공인체육장</a>[4]</p></td>
 <td><p>40,000명</p></td>
 </tr>
 <tr class="even">
 <td><p>2009년 10월 2일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/상해" title="wikilink">상해</a></p></td>
+<td><p><a href="../Page/상하이시.md" title="wikilink">상하이</a></p></td>
 <td><p><a href="../Page/훙커우_축구장.md" title="wikilink">홍구 축구장</a>[5]</p></td>
 <td><p>20,000명</p></td>
 <td></td>

@@ -35,7 +35,7 @@
 <tr class="even">
 <td><p>4회</p></td>
 <td><p>11월 16일</p></td>
-<td><p><a href="../Page/미생_(만화).md" title="wikilink">미생 - 아직 살아있지 못한 자</a> (저자 : <a href="https://ko.wikipedia.org/wiki/윤태호" title="wikilink">윤태호</a>)</p></td>
+<td><p><a href="../Page/미생_(만화).md" title="wikilink">미생 - 아직 살아있지 못한 자</a> (저자 : <a href="../Page/윤태호.md" title="wikilink">윤태호</a>)</p></td>
 </tr>
 <tr class="odd">
 <td><p>5회</p></td>
@@ -520,7 +520,7 @@
 <tr class="odd">
 <td><p>94회</p></td>
 <td><p>11월 23일</p></td>
-<td><p>나는 나를 기억한다 (<a href="https://ko.wikipedia.org/wiki/최인호" title="wikilink">최인호</a> 著)</p></td>
+<td><p>나는 나를 기억한다 (<a href="../Page/최인호_(작가).md" title="wikilink">최인호</a> 著)</p></td>
 </tr>
 <tr class="even">
 <td><p>95회</p></td>

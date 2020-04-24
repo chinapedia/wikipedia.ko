@@ -92,7 +92,7 @@
 <td><p>예선 B조</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/프리스코_(텍사스주)" title="wikilink">프리스코</a> (<a href="../Page/댈러스.md" title="wikilink">댈러스</a>)</p></td>
+<td><p><a href="../Page/프리스코_(텍사스주).md" title="wikilink">프리스코</a> (<a href="../Page/댈러스.md" title="wikilink">댈러스</a>)</p></td>
 <td><p><a href="../Page/도요타_스타디움_(텍사스주).md" title="wikilink">도요타 스타디움</a></p></td>
 <td><p>20,500</p></td>
 <td><p>예선 A조</p></td>

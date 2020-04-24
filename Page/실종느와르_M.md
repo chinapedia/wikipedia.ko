@@ -37,7 +37,7 @@
   - [서은아](../Page/서은아.md "wikilink") : 은채린 역
   - [박주희](../Page/박주희_\(1987년\).md "wikilink") : 이지수 역
   - [한수연](../Page/한수연.md "wikilink") : 이진영 역
-  - [김지훈](../Page/김지훈_\(1979년\).md "wikilink") : 김윤재 역
+  - [김지훈](../Page/김지훈_\(1979년\).md "wikilink") : 박종명/김윤재 역
   - [유정석](../Page/유정석.md "wikilink") : 고동호 역
   - [한승현](../Page/한승현.md "wikilink") : 김대수 역
   - [김열](../Page/김열_\(배우\).md "wikilink") : 고동주 역
@@ -59,10 +59,10 @@
   - [엘조](https://ko.wikipedia.org/wiki/엘조 "wikilink") : 양정호 역
   - [김선빈](../Page/김선빈_\(배우\).md "wikilink") : 편의점 주인 역
   - [진모](https://ko.wikipedia.org/wiki/진모 "wikilink") : 청부 살인마 역
-  - [이연두](../Page/이연두.md "wikilink") : 정선미 / 장미영 / 김정희 / 이수진 역
+  - [이연두](../Page/이연두.md "wikilink") : 정선미/김정희 역
   - [차수미](https://ko.wikipedia.org/wiki/차수미 "wikilink") : 장미영 역
   - [이영란](../Page/이영란_\(배우\).md "wikilink") : 오정임 역
-  - [양영조](https://ko.wikipedia.org/wiki/양영조 "wikilink")
+  - [양영조](https://ko.wikipedia.org/wiki/양영조 "wikilink") : 박광철 역
   - [허준석](../Page/허준석.md "wikilink")
   - [박귀순](../Page/박귀순.md "wikilink")
   - [지성근](https://ko.wikipedia.org/wiki/지성근 "wikilink")
@@ -73,7 +73,7 @@
   - [이동용](../Page/이동용.md "wikilink")
   - [한국진](../Page/한국진.md "wikilink")
   - [백두산](../Page/미석_\(배우\).md "wikilink")
-  - 권용식
+  - [권용식](https://ko.wikipedia.org/wiki/권용식 "wikilink")
   - [허동원](../Page/허동원.md "wikilink")
   - [김미림](../Page/김미림.md "wikilink")
 

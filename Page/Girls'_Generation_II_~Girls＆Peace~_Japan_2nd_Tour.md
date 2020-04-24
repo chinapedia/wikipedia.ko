@@ -38,4 +38,4 @@
 
 [분류:소녀시대의 콘서트 투어](https://ko.wikipedia.org/wiki/분류:소녀시대의_콘서트_투어 "wikilink") [분류:2013년 콘서트 투어](https://ko.wikipedia.org/wiki/분류:2013년_콘서트_투어 "wikilink")
 
-1.
+1.  기존에 이 문서에 총 관객 20만 동원이라는 자료가 있었으나, 이는 **지나친 축소 발표** 자료다. 이 표의 관객수만 합쳐봐도 총 280,400명으로, 이는 다른 자료에서도 총 278,000명이라는 비슷한 수치로 교차 검증할 수 있다. [Girls' Generation II \~Girls＆Peace\~ Japan 2nd Tour](https://blog.naver.com/snsdcareer/220821960394) 그리고 이는 **한국 걸그룹의 일본 단일 투어 최다 관객 동원 기록**이다. 간혹 TWICE의 Dreamday 돔 투어 관객수가 한국 걸그룹의 일본 단일 투어 최다 관객 동원 기록을 경신했다는 의견이 나오지만, TWICE의 Dreamday 돔 투어 관객수는 215,500명으로 현재까지 해당 기록은 소녀시대가 보유하고 있다.

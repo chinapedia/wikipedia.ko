@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [THE IDOLM@STER SHINY FESTA](https://ko.wikipedia.org/wiki/THE_IDOLM@STER_SHINY_FESTA).
 
 
-\<**THE IDOLM@STER SHINY FESTA**\>(아이돌마스터 샤이니 페스타) 는 [반다이 남코 게임스로부터](https://ko.wikipedia.org/wiki/반다이_남코_게임스 "wikilink") [2012년](../Page/2012년.md "wikilink") [10월 25일에](../Page/10월_25일.md "wikilink") 발매된 [플레이스테이션 포터블](../Page/플레이스테이션_포터블.md "wikilink") (PSP)용 [음악 게임](https://ko.wikipedia.org/wiki/음악_게임 "wikilink") (공칭 <신작 애니메이션 첨부 아이마스리즘 게임>). **허니 사운드** (영문판: *Harmonic Score*), **펑키 노트** (동: *Rhythmic Record*), **그루비 튠** (동: *Melodic Disc*) 의 전3작. 캐치 카피는 \<**가지각색의 우리, 매혹합니다♪**\>(영문판에서는 **Our diverse personalities will enchant you♪**).
+\<**THE IDOLM@STER SHINY FESTA**\>(아이돌마스터 샤이니 페스타)는 [반다이 남코 게임스로부터](https://ko.wikipedia.org/wiki/반다이_남코_게임스 "wikilink") [2012년](../Page/2012년.md "wikilink") [10월 25일에](../Page/10월_25일.md "wikilink") 발매된 [플레이스테이션 포터블](../Page/플레이스테이션_포터블.md "wikilink") (PSP)용 [음악 게임](https://ko.wikipedia.org/wiki/음악_게임 "wikilink") (공칭 <신작 애니메이션 첨부 아이마스리즘 게임>). **허니 사운드**(영문판: *Harmonic Score*), **펑키 노트**(동: *Rhythmic Record*), **그루비 튠**(동: *Melodic Disc*)의 전3작. 캐치 카피는 \<**가지각색의 우리, 매혹합니다♪**\>(영문판에서는 **Our diverse personalities will enchant you♪**).
 
 [2013년](../Page/2013년.md "wikilink") [4월 22일에는](../Page/4월_22일.md "wikilink") iOS용 애플리케이션의 배포가 시작되었다\[1\]. 영어도 지원하고 있으며, 일본, 북아메리카, 프랑스, 타이완, 홍콩, 대한민국 등 6개의 지역에서 배포되고 있다.
 

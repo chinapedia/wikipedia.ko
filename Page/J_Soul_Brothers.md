@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [J Soul Brothers](https://ko.wikipedia.org/wiki/J_Soul_Brothers).
 
 
-**J Soul Brothers**(제이 소울 브라더스)는, [일본](../Page/일본.md "wikilink")의 [댄스](../Page/춤.md "wikilink")&[보컬](https://ko.wikipedia.org/wiki/보컬 "wikilink") [그룹이다](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink").
+**J Soul Brothers**(제이 소울 브라더스)는 [일본](../Page/일본.md "wikilink")의 [댄스](../Page/춤.md "wikilink")&[보컬](https://ko.wikipedia.org/wiki/보컬 "wikilink") [그룹이다](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink").
 
 1999년 초대 J Soul Brothers를 결성. 2001년에 그룹의 이름을 [EXILE](../Page/EXILE.md "wikilink")로 개명한 이후로 초대 J Soul Brothers의 명의로 활동하는 것은 종료되었다. 2007년에 새로운 멤버들로 2대 J Soul Brothers를 결성. 2009년에 2대의 멤버들이 전원 EXILE에 가입하게되어 2대 J Soul Brothers의 명의로 활동하는 것은 종료되었다. 2010년에 새로운 멤버들로 3대 J Soul Brothers를 결성. 현재 **산다이메 J Soul Brothers** 또는 **산다이메 J Soul Brothers from EXILE TRIBE**의 명의로 활동 중이다.
 

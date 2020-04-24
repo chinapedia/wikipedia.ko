@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [BABYMETAL](https://ko.wikipedia.org/wiki/BABYMETAL).
 
 
-**BABYMETAL**(베비메탈)은, [일본](../Page/일본.md "wikilink")의 [여성](../Page/여성.md "wikilink") [아이돌](https://ko.wikipedia.org/wiki/아이돌 "wikilink") 그룹이다. 소속사는 [아뮤즈](../Page/아뮤즈.md "wikilink")이고, 레이블은 [토이스 팩토리이다](../Page/토이스_팩토리.md "wikilink").
+**BABYMETAL**(베비메탈)은 [일본](../Page/일본.md "wikilink")의 [여성](../Page/여성.md "wikilink") [아이돌](https://ko.wikipedia.org/wiki/아이돌 "wikilink") 그룹이다. 소속사는 [아뮤즈](../Page/아뮤즈.md "wikilink")이고, 레이블은 [토이스 팩토리이다](../Page/토이스_팩토리.md "wikilink").
 
 ## 약력
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [THE IDOLM@STER Dearly Stars](https://ko.wikipedia.org/wiki/THE_IDOLM@STER_Dearly_Stars).
 
 
-《**THE IDOLM@STER Dearly Stars**》(아이돌마스터 디어리 스타즈) 는 [반다이 남코 게임스가](https://ko.wikipedia.org/wiki/반다이_남코_게임스 "wikilink") [2009년](../Page/2009년.md "wikilink") [9월 17일에](../Page/9월_17일.md "wikilink") 발매한 [닌텐도 DS용](../Page/닌텐도_DS.md "wikilink") [어드벤쳐 게임](https://ko.wikipedia.org/wiki/어드벤쳐_게임 "wikilink") (공칭 <톱 아이돌 어드벤쳐>). 캐치 카피는 "**빛나는 무대 (스테이지) 에 나도 서고 싶다\!**" "**반드시 될 수 있다\! 톱 아이돌 어드벤처**". 공식의 약칭은 \<**아이마스 DS**\>.
+《**THE IDOLM@STER Dearly Stars**》(아이돌마스터 디어리 스타즈)는 [반다이 남코 게임스가](https://ko.wikipedia.org/wiki/반다이_남코_게임스 "wikilink") [2009년](../Page/2009년.md "wikilink") [9월 17일에](../Page/9월_17일.md "wikilink") 발매한 [닌텐도 DS용](../Page/닌텐도_DS.md "wikilink") [어드벤쳐 게임](https://ko.wikipedia.org/wiki/어드벤쳐_게임 "wikilink") (공칭 <톱 아이돌 어드벤쳐>). 캐치 카피는 "**빛나는 무대 (스테이지) 에 나도 서고 싶다\!**" "**반드시 될 수 있다\! 톱 아이돌 어드벤처**". 공식의 약칭은 \<**아이마스 DS**\>.
 
 ## 개요
 
@@ -19,13 +19,13 @@
 
 한편으로 이 <DS>는 CERO 등급을 'B (12세 이상 대상)'로 한 \<[SP](../Page/THE_IDOLM@STER_SP.md "wikilink")\>보다 높은 'C (15세 이상 대상)'이며, 여아 유저에게도 광고용 프로모션과 등급에 차이가 있다. 실제의 게임 내용도 '플레이 아이돌에 따라 여아 전용이나 고연령 전용이 혼재한다'등의 평이 존재하는 일로부터, 이들의 판촉과 등급의 차이는 기존의 사용자와 신규 사용자 양쪽 모두 배려했기 때문은 아닌지 지적된다. 무엇보다 CERO 등급은 'Z (18세 이상만 대상)' 이외에는, 전연령이 하는 데의 법적 규제는 존재하지 않기 때문에, 이것을 여아 유저가 플레이 하는 것의 법적 문제는 없다.
 
-게재잡지는 앞에서 본 [패미통](../Page/패미통.md "wikilink"), [나카요시](../Page/나카요시.md "wikilink"), [텔레비전 매거진](https://ko.wikipedia.org/wiki/텔레비전_매거진 "wikilink") 외에도, 원래 아이마스를 밀어주는 전격계 게임 잡지도 발표로부터 대대적 특집을 짜는 등 지속적으로 대우하고 있다. 또 [닌텐도](../Page/닌텐도.md "wikilink") 하드 전문지인 \<[닌텐도 드림](https://ko.wikipedia.org/wiki/닌텐도_드림 "wikilink")\>도 좌우 양면의 기사 뿐만이 아니라, 같은 잡지의 [반다이 남코 게임스의](https://ko.wikipedia.org/wiki/반다이_남코_게임스 "wikilink") 팬 페이지로 <아이마스를 모르는 닌텐도 유저용>이라는 취급으로 아케이드판으로부터 \<[SP](https://ko.wikipedia.org/wiki/THE_IDOLM@STER_SP#게임_시스템 "wikilink")\>까지의 시리즈를 모두 소개. 발매월의 호에는 타나카 분케이 (분케이 P) 의 발매 기념 코멘트도 게재하고 있다.
+게재잡지는 앞에서 본 [패미통](../Page/패미통.md "wikilink"), [나카요시](../Page/나카요시.md "wikilink"), [텔레비전 매거진](https://ko.wikipedia.org/wiki/텔레비전_매거진 "wikilink") 외에도, 원래 아이마스를 밀어주는 전격계 게임 잡지도 발표로부터 대대적 특집을 짜는 등 지속적으로 대우하고 있다. 또 [닌텐도](../Page/닌텐도.md "wikilink") 하드 전문지인 \<[닌텐도 드림](https://ko.wikipedia.org/wiki/닌텐도_드림 "wikilink")\>도 좌우 양면의 기사 뿐만이 아니라, 같은 잡지의 [반다이 남코 게임스의](https://ko.wikipedia.org/wiki/반다이_남코_게임스 "wikilink") 팬 페이지로 <아이마스를 모르는 닌텐도 유저용>이라는 취급으로 아케이드판으로부터 \<[SP](https://ko.wikipedia.org/wiki/THE_IDOLM@STER_SP#게임_시스템 "wikilink")\>까지의 시리즈를 모두 소개. 발매월의 호에는 타나카 분케이 (분케이 P)의 발매 기념 코멘트도 게재하고 있다.
 
 또 본작의 타이틀 <Dearly Stars>나 관련 CD <DREAM SYMPHONY>의 약칭이 모두 <DS>인 것, 악곡 \<"HELLO\!\!"\>의 가사에 <Touch>등의 표현이 있는 것, 등장 아이돌의 이미지 컬러 (스플래시 레드, 이노센트 블루, 노이에 그린) 가 [2009년](../Page/2009년.md "wikilink") [3월 20일](../Page/3월_20일.md "wikilink") 발매의 닌텐도 DSi \<봄의 신색 (핑크, 메탈릭 블루, 라임 그린)\>과 비슷한 색인 것에서, 지금까지 없던 **닌텐도 DS라는 <대응 플랫폼>을 강하게 미는 아이마스**를 어필했다. 신규, 특히 여자 아이 유저도 대상의 신작, 한편 \<ProjectIM@S 2ndVision\>의 첫 번째로서 종래의 765 프로 아이돌 시리즈와 다른 자리 매김으로서의 판촉 전개를 하고 있다.
 
 ### 닌텐도 DSi 대응 소프트
 
-본작은 닌텐도 DSi (및 닌텐도 DSi LL, 닌텐도 3DS, 닌텐도 3DS LL) 의 대응 소프트이다. 설명서에도 기재가 있지만, 본작의 상품 제품번호도 종래의 DS소프트의 **'NTR**-P\~'가 아니고, **'TWL**-P-VIMJ'이다. 닌텐도 DSi (DSi LL, 3DS, 3DS LL에서도 가능) 로 본 작품을 플레이 하면 이용할 수 있는 기능은 다음과 같다.
+본작은 닌텐도 DSi (및 닌텐도 DSi LL, 닌텐도 3DS, 닌텐도 3DS LL)의 대응 소프트이다. 설명서에도 기재가 있지만, 본작의 상품 제품번호도 종래의 DS소프트의 **'NTR**-P\~'가 아니고, **'TWL**-P-VIMJ'이다. 닌텐도 DSi (DSi LL, 3DS, 3DS LL에서도 가능) 로 본 작품을 플레이 하면 이용할 수 있는 기능은 다음과 같다.
 
   - 모바일 사이트나 잡지 등의 [QR 코드를](../Page/QR_코드.md "wikilink") DSi 카메라 (및 3DS카메라) 로 읽어내는 것으로, 통상의 플레이에서는 입수하기 어려운 의상이나 악세사리, 및 T셔츠의 디자인 데이터를 입수할 수 있다.
   - 타작품과 같이, [닌텐도 와이파이 커넥션](../Page/닌텐도_와이파이_커넥션.md "wikilink") 접속 시에 상급자 설정 ([WPA](https://ko.wikipedia.org/wiki/WPA "wikilink")) 으로 접속할 수 있다.

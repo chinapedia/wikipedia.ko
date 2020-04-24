@@ -42,7 +42,7 @@
   - 7월 - [후지오카 후지마키와](https://ko.wikipedia.org/wiki/후지오카_후지마키 "wikilink") [오하시 노조미](../Page/오하시_노조미.md "wikilink") 〈崖の上のポニョ〉
   - 8월 - [Lil'B](../Page/Lil'B.md "wikilink") 〈キミに歌ったラブソング〉
   - 9월 - EXILE 〈Ti Amo〉
-  - 10월 - [JUJU](https://ko.wikipedia.org/wiki/JUJU "wikilink") feat. [Spontania](https://ko.wikipedia.org/wiki/Spontania "wikilink") 〈素直になれたら〉
+  - 10월 - [JUJU](../Page/JUJU.md "wikilink") feat. [Spontania](https://ko.wikipedia.org/wiki/Spontania "wikilink") 〈素直になれたら〉
   - 11월 - [나카시마 미카](../Page/나카시마_미카.md "wikilink") 〈ORION〉
   - 12월 - JUJU feat. Spontania 〈素直になれたら〉
 
@@ -62,7 +62,7 @@
 
 **5월**
 
-  - 5월 5일 - [JUJU](https://ko.wikipedia.org/wiki/JUJU "wikilink") with [JAY'ED](https://ko.wikipedia.org/wiki/JAY'ED "wikilink") 《明日がくるなら》
+  - 5월 5일 - [JUJU](../Page/JUJU.md "wikilink") with [JAY'ED](https://ko.wikipedia.org/wiki/JAY'ED "wikilink") 《明日がくるなら》
   - 5월 12일 - JUJU with JAY'ED 《明日がくるなら》
   - 5월 19일 - JUJU with JAY'ED 《明日がくるなら》 (3주 연속)
   - 5월 26일 - [GReeeeN](../Page/GReeeeN.md "wikilink") 《遥か》
@@ -163,7 +163,7 @@
   - 6월 8일 - 힐크라임 《ルーズリーフ》 (2주 연속)
   - 6월 15일 - 기무라 카에라 《Ring a Ding Dong》
   - 6월 22일 - [쿠보타 토시노부](../Page/쿠보타_토시노부.md "wikilink") 《LOVE RAIN \~恋の雨\~》
-  - 6월 29일 - [JUJU](https://ko.wikipedia.org/wiki/JUJU "wikilink") 《Hello, Again \~昔からある場所\~》
+  - 6월 29일 - [JUJU](../Page/JUJU.md "wikilink") 《Hello, Again \~昔からある場所\~》
 
 **7월**
 
@@ -250,7 +250,7 @@
 
 **6월**
 
-  - 6월 7일 - [JUJU](https://ko.wikipedia.org/wiki/JUJU "wikilink") 《また明日...》
+  - 6월 7일 - [JUJU](../Page/JUJU.md "wikilink") 《また明日...》
   - 6월 14일 - 카오루와 토모키, 가끔은 무크. 《マル・マル・モリ・モリ\!》
   - 6월 21일 - 카오루와 토모키, 가끔은 무크. 《マル・マル・モリ・モリ\!》 (2주 연속, 통합 3주)
   - 6월 28일 - 카라 《[GO GO サマー\!](../Page/GO_GO_서머!.md "wikilink")》
@@ -307,7 +307,7 @@
   - 1월 10일 - 니시노 카나 《たとえ どんなに…》 (2주 연속, 통합 3주)
   - 1월 17일 - [EXILE](../Page/EXILE.md "wikilink") 《Rising Sun》 (통합 2주)
   - 1월 24일 - [Sonar Pocket](https://ko.wikipedia.org/wiki/Sonar_Pocket "wikilink") 《世界で一番ステキな君へ。》
-  - 1월 31일 - [JUJU](https://ko.wikipedia.org/wiki/JUJU "wikilink") 《sign》
+  - 1월 31일 - [JUJU](../Page/JUJU.md "wikilink") 《sign》
 
 **2월**
 

@@ -43,7 +43,7 @@
 
   -
     아조트 왕국의 왕자로 키미아 동생. 14세\[1\]. 언니와는 정반대의 차분한 소년. 신비한 과학 연구에 몰두.
-      - 사용 포켓몬 : [나룸퍼프](https://ko.wikipedia.org/wiki/나룸퍼프 "wikilink")
+      - 사용 포켓몬 : [나루림](https://ko.wikipedia.org/wiki/나루림 "wikilink")
 
 <!-- end list -->
 
@@ -80,7 +80,7 @@
 <!-- end list -->
 
   -
-    인간 싫어하는 난폭한 성격. 지우 곁에 있는 경우가 많다. [마기아나](https://ko.wikipedia.org/wiki/마기아나 "wikilink")와 어떤 관계가 있는 듯 하며, [쟈비스](https://ko.wikipedia.org/wiki/쟈비스 "wikilink")에 의해 지우와 소울하트 된다.
+    인간을 싫어하는 난폭한 성격. 지우 곁에 있는 경우가 많다. [마기아나](https://ko.wikipedia.org/wiki/마기아나 "wikilink")와 어떤 관계가 있는 듯 하며, 쟈비스의 야망을 막기 위해 지우와 소울하트를 지킨다.
 
 <!-- end list -->
 

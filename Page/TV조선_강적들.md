@@ -44,7 +44,7 @@
   - [함익병](../Page/함익병.md "wikilink")
   - [이준석](../Page/이준석_\(정치인\).md "wikilink")
   - [강민구](../Page/강민구.md "wikilink")
-  - [이봉규](https://ko.wikipedia.org/wiki/이봉규_\(1958년\) "wikilink")
+  - [이봉규](../Page/이봉규_\(1958년\).md "wikilink")
   - [김진명](../Page/김진명.md "wikilink")
 
 ## 각주

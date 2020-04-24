@@ -43,9 +43,9 @@ NCT 127은 [엠넷 아시안 뮤직 어워드](https://ko.wikipedia.org/wiki/엠
 
 2019년 1월 26일, 27일 양일간 첫 단독 콘서트 NEO CITY: SEOUL - The Origin이 서울 올림픽공원 KSPO 돔에서 개최되었다. 2월 2일 오사카에서 첫 공연을 시작으로 일본 홀 투어 NEO CITY: JAPAN - The Origin 일정이 진행되었다.  2월 27일 월드 투어 NEO CITY - The Origin의 개최 일정을 발표하였다. 2월 28일 일본 공식 트위터 계정을 통해 4월 17일 일본 첫 정규 앨범 Awaken 이 발매된다고 발표하였다. 3월 14일 오피셜 팬클럽 NCTzen 127의 모집을 시작하였다. 무료(BASIC) 회원 기반이며 연간 유료(ACE) 회원 가입 시 추가 혜택이 제공된다. \# 3월 22일 홍콩 香港亞洲流行音樂節 (Hong Kong Asian-Pop Music Festival) 출연하였다. 4월 5일 유니버설 뮤직 그룹 산하 캐피톨 뮤직 그룹과 음악 콘텐츠에 대한 유통 및 프로모션 계약을 체결했으며, 글로벌 유통은 CMG 산하 최대 유통사인 캐롤라인 디스트리뷰션이 담당한다고 밝혔다. 4월 17일 일본 첫 정규 앨범 Awaken이 발매되었다. 4월 18일 ABC의 '굿모닝 아메리카' 에서 'Superhuman'의 무대가 최초 공개되었으며, 토크 프로그램 '스트라한 & 사라'에도 한국 남자 가수 최초로 출연하여 'Superhuman' 을 공연하였다. 5월 24일 네번째 미니앨범 《NCT \#127 WE ARE SUPERHUMAN》으로 컴백을 했다. Superhuman 활동이 끝나고 나서 NEO CITY - The Origin 러시아 콘서트를 개최하였다. 지금은 유럽 투어를 하였으며 7월 26일 마크 졸업 후 첫 NCT DREAM이 WE BOOM으로 컴백했다. 11월 16일, 11월 17일 《THE DREAM SHOW》를 개최함으로써 NCT DREAM의 첫 단독콘서트를 하게 된다.
 
-### 2020: NCT 127 정규 2집 활동
+### 2020: NCT 127 정규 2집 및 NCT DREAM 미니앨범 활동 그리고 NCT 127 리패키지 활동
 
-NCT 127은 2020년 03월 06일 두 번째 정규앨범 《NCT \#127- Neo Zone》으로 컴백을 하였다. 그 전날인 2020년 03월 05일에 타이틀곡인 영웅 (英雄; Kick It)의 정식 뮤직비디오를 공개하였다.
+[NCT 127은](https://ko.wikipedia.org/wiki/NCT_127 "wikilink") [2020년](../Page/2020년.md "wikilink") [3월 6일](../Page/3월_6일.md "wikilink") 두 번째 정규앨범 《NCT \#127- Neo Zone》으로 컴백을 하였다. 그 전날인 [2020년](../Page/2020년.md "wikilink") [3월 5일에](../Page/3월_5일.md "wikilink") 타이틀곡인 영웅 (英雄; Kick It)의 정식 뮤직비디오를 공개하였다. [2020년](../Page/2020년.md "wikilink") [4월 14일](../Page/4월_14일.md "wikilink") [NCT DREAM이](https://ko.wikipedia.org/wiki/NCT_DREAM "wikilink") 졸업제도를 없앤다는 것이 [SM 엔터테인먼트로](../Page/SM_엔터테인먼트.md "wikilink") 부터 밝혀졌고 [4월 29일](../Page/4월_29일.md "wikilink") 《Reload》로 컴백을 앞두고 있다. 그 뒤에는 [NCT DREAM의](https://ko.wikipedia.org/wiki/NCT_DREAM "wikilink") 이름을 유지하며 [NCT U의](https://ko.wikipedia.org/wiki/NCT_U "wikilink") 체제로 졸업을 했던 [마크](../Page/마크.md "wikilink")도 합류하여 활동할 계획이다. 그리고 2020년 5월 [NCT 127이](https://ko.wikipedia.org/wiki/NCT_127 "wikilink") 리패키지 앨범으로 컴백을 앞두고 있다.
 
 ## 구성원
 
@@ -188,7 +188,7 @@ NCT 127은 2020년 03월 06일 두 번째 정규앨범 《NCT \#127- Neo Zone》
 </ul></td>
 </tr>
 <tr class="even">
-<td><p><strong>제노</strong></p></td>
+<td><p><strong><a href="https://ko.wikipedia.org/wiki/제노" title="wikilink">제노</a></strong></p></td>
 <td><ul>
 <li>본명 : 이제노 (李帝努[46][47])</li>
 <li>생년월일 : </li>
@@ -198,7 +198,7 @@ NCT 127은 2020년 03월 06일 두 번째 정규앨범 《NCT \#127- Neo Zone》
 </ul></td>
 </tr>
 <tr class="odd">
-<td><p><strong>해찬</strong></p></td>
+<td><p><strong><a href="https://ko.wikipedia.org/wiki/해찬" title="wikilink">해찬</a></strong></p></td>
 <td><ul>
 <li>본명 : 이동혁 (李東赫)</li>
 <li>생년월일 : </li>
@@ -208,7 +208,7 @@ NCT 127은 2020년 03월 06일 두 번째 정규앨범 《NCT \#127- Neo Zone》
 </ul></td>
 </tr>
 <tr class="even">
-<td><p><strong>재민</strong></p></td>
+<td><p><strong><a href="https://ko.wikipedia.org/wiki/재민" title="wikilink">재민</a></strong></p></td>
 <td><ul>
 <li>본명 : 나재민 (羅渽民[48])</li>
 <li>생년월일 : </li>
@@ -228,7 +228,7 @@ NCT 127은 2020년 03월 06일 두 번째 정규앨범 《NCT \#127- Neo Zone》
 </ul></td>
 </tr>
 <tr class="even">
-<td><p><strong>지성</strong></p></td>
+<td><p><strong><a href="https://ko.wikipedia.org/wiki/지성" title="wikilink">지성</a></strong></p></td>
 <td><ul>
 <li>본명 : 박지성 (朴志晟[49])</li>
 <li>생년월일 : </li>

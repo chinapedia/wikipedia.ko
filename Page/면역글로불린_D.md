@@ -5,7 +5,7 @@
 
 ## 기능
 
-1964년 IgD가 발견된 이래로 IgD의 기능은 정확히 밝혀지지 않았다. IgD는 ([새](../Page/새.md "wikilink")를 제외하고)[연골어류](../Page/연골어류.md "wikilink")에서 사람에 이르기까지 IgD가 존재한다.\[2\] [후천 면역계가](https://ko.wikipedia.org/wiki/후천_면역 "wikilink") 있는 다양한 [종](https://ko.wikipedia.org/wiki/종 "wikilink")에 IgD가 존재한다는 것은 IgD가 [IgM](https://ko.wikipedia.org/wiki/IgM "wikilink")만큼 오래된 분자이며 면역학적으로 중요한 기능을 할 것임을 암시한다.
+1964년 IgD가 발견된 이래로 IgD의 기능은 정확히 밝혀지지 않았다. IgD는 ([새](../Page/새.md "wikilink")를 제외하고)[연골어류](../Page/연골어류.md "wikilink")에서 사람에 이르기까지 IgD가 존재한다.\[2\] [후천 면역계가](../Page/후천_면역.md "wikilink") 있는 다양한 [종](https://ko.wikipedia.org/wiki/종 "wikilink")에 IgD가 존재한다는 것은 IgD가 [IgM](https://ko.wikipedia.org/wiki/IgM "wikilink")만큼 오래된 분자이며 면역학적으로 중요한 기능을 할 것임을 암시한다.
 
 IgD는 [B 세포을](https://ko.wikipedia.org/wiki/B_세포 "wikilink") 활성화하는 신호를 전달한다. B 세포가 분화하는 동안 미성숙 B 세포에는 IgM만 발현된다.\[3\] B 세포가 [골수](../Page/골수.md "wikilink")를 빠져나와서 말초 림프조직에서 증식할 때 IgD가 발현되기 시작한다. B 세포가 성숙 단계에 도달하면 IgM과 IgD를 공동발현한다.\[4\] IgM과 IgD가 기능적으로 다른 항체인지는 정확하게 밝혀지지 않았다. IgD를 생산하지 못하도록 유전적으로 변형된 Cδ [녹아웃](https://ko.wikipedia.org/wiki/녹아웃 "wikilink") [생쥐](../Page/생쥐.md "wikilink")도 B 세포에 특별한 결함이 없다.\[5\]\[6\] IgD는 [알레르기](../Page/알레르기.md "wikilink") 반응에서 특정한 역할을 할 수 있다.
 

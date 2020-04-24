@@ -42,30 +42,30 @@
 
 </dl>
 <ul>
-<li>Sarth Calhoun – 일렉트로닉스</li>
-<li>Jenny Scheinman – <a href="../Page/바이올린.md" title="wikilink">바이올린</a>, <a href="../Page/비올라.md" title="wikilink">비올라</a>, 현악 편곡</li>
-<li>Gabe Witcher – 바이올린</li>
-<li>Megan Gould – 바이올린</li>
-<li>Ron Lawrence – 비올라</li>
-<li>Marika Hughes – <a href="../Page/첼로.md" title="wikilink">첼로</a></li>
-<li>Ulrich Maiss – 첼로(7, 8)</li>
-<li>Rob Wasserman – <a href="https://ko.wikipedia.org/wiki/:en:Electric_upright_bass" title="wikilink">Electric upright bass</a>(10)</li>
-<li>Jessica Troy – 비올라(10)</li>
+<li>세라 캘훈(Sarth Calhoun) – 일렉트로닉스</li>
+<li>제니 샤인먼(Jenny Scheinman) – <a href="../Page/바이올린.md" title="wikilink">바이올린</a>, <a href="../Page/비올라.md" title="wikilink">비올라</a>, 현악 편곡</li>
+<li>게이브 위처Gabe Witcher) – 바이올린</li>
+<li>메건 굴드Megan Gould) – 바이올린</li>
+<li>론 로런스(Ron Lawrence) – 비올라</li>
+<li>머리카 휴스(Marika Hughes) – <a href="../Page/첼로.md" title="wikilink">첼로</a></li>
+<li>울리히 마이스(Ulrich Maiss) – 첼로(7, 8)</li>
+<li>롭 와서먼(Rob Wasserman) – <a href="https://ko.wikipedia.org/wiki/:en:Electric_upright_bass" title="wikilink">Electric upright bass</a>(10)</li>
+<li>제시카 트로이(Jessica Troy) – 비올라(10)</li>
 </ul></td>
 <td><dl>
 <dt>스탭</dt>
 
 </dl>
 <ul>
-<li>루 리드, 메탈리카, Hal Willner, Greg Fidelman - <a href="https://ko.wikipedia.org/wiki/프로듀서" title="wikilink">프로듀서</a></li>
-<li>Jim Monti, Dan Monti, Sara Lynn Killion, Kent Matcke - 녹음</li>
-<li>Greg Fidelman(Sunset Sound) - 믹싱</li>
-<li>Geoff Neal - 보조</li>
-<li>Lindsay Chase - 믹싱 코디네이터</li>
-<li>Vlado Meller(Masterdisk NYC) - <a href="https://ko.wikipedia.org/wiki/마스터링" title="wikilink">마스터링</a></li>
+<li>루 리드, 메탈리카, 핼 윌너(Hal Willner), 그레그 피덜먼(Greg Fidelman) - <a href="https://ko.wikipedia.org/wiki/프로듀서" title="wikilink">프로듀서</a></li>
+<li>짐 몬티(Jim Monti, 댄 몬티(Dan Monti), 세라 린 킬리언(Sara Lynn Killion), 켄트 맷키(Kent Matcke) - 녹음</li>
+<li>그레그 피덜먼(Sunset Sound) - 믹싱</li>
+<li>제프 닐(Geoff Neal) - 보조</li>
+<li>린지 체이스(Lindsay Chase) - 믹싱 코디네이터</li>
+<li>블라도 멜레르(Vlado Meller)(Masterdisk NYC) - <a href="https://ko.wikipedia.org/wiki/마스터링" title="wikilink">마스터링</a></li>
 <li><a href="https://ko.wikipedia.org/wiki/안톤_코르베인" title="wikilink">안톤 코르베인</a> - 아티스트 사진</li>
-<li>David Turner, Turner Duckworth - 컨셉, 디자인</li>
-<li>Stan Musilek - 사진</li>
+<li>데이비드 터너(David Turner), 터너 더크워스(Turner Duckworth) - 컨셉, 디자인</li>
+<li>스탠 뮤질렉(Stan Musilek) - 사진</li>
 </ul></td>
 </tr>
 </tbody>

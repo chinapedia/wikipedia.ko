@@ -99,7 +99,7 @@
 
   - ****
       - [바젤](../Page/바젤.md "wikilink") - [유로 에어포트](../Page/유로_에어포트.md "wikilink")
-      - [제네바](../Page/제네바.md "wikilink") - [제네바 공항](https://ko.wikipedia.org/wiki/제네바_공항 "wikilink")
+      - [제네바](../Page/제네바.md "wikilink") - [제네바 공항](../Page/제네바_공항.md "wikilink")
       - [취리히](../Page/취리히.md "wikilink") - [취리히 국제공항](https://ko.wikipedia.org/wiki/취리히_국제공항 "wikilink")
   - ****
       - [비엔나](https://ko.wikipedia.org/wiki/비엔나 "wikilink") - [비엔나 국제공항](https://ko.wikipedia.org/wiki/비엔나_국제공항 "wikilink")

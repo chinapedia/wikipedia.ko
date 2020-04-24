@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Secret Code](https://ko.wikipedia.org/wiki/Secret_Code).
 
 
-〈**Secret Code**〉(시크릿 코드)는, [KinKi Kids의](https://ko.wikipedia.org/wiki/킨키_키즈 "wikilink") 27번째 [싱글이다](../Page/싱글_\(음악\).md "wikilink").
+〈**Secret Code**〉(시크릿 코드)는 [KinKi Kids의](https://ko.wikipedia.org/wiki/킨키_키즈 "wikilink") 27번째 [싱글이다](../Page/싱글_\(음악\).md "wikilink").
 
 ## 개요
 

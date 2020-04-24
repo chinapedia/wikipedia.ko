@@ -186,7 +186,7 @@
 
 ## 그 외
 
-[2015년](../Page/2015년.md "wikilink") 개최된 [It's Daejeon 축구대회는](../Page/It's_Daejeon_축구대회.md "wikilink") 원래 2014시즌을 끝으로 은퇴한 대전의 레전드 선수였던 [김은중](../Page/김은중.md "wikilink")의 은퇴식을 치르기 위해 김은중이 코치로 있는 [AFC 튀비즈와](../Page/AFC_튀비즈.md "wikilink") [7월 17일](../Page/7월_17일.md "wikilink") 경기로 예정 되어있었으나,\[18\] [메르스](https://ko.wikipedia.org/wiki/메르스 "wikilink") 여파로 취소 되었으며,\[19\] [2016년](../Page/2016년.md "wikilink") [6월 24일](../Page/6월_24일.md "wikilink") 개최되었다. [섬네일](https://ko.wikipedia.org/wiki/파일:은퇴_판넬_앞_김은중.jpg "wikilink")\]\] 이날 경기서 김은중은 전반엔 코치로 튀비즈의 벤치에 있었고, 후반 대전의 선수로 교체출전해 헤딩골을 기록하였다.
+[2015년](../Page/2015년.md "wikilink") 개최된 [It's Daejeon 축구대회는](../Page/It's_Daejeon_축구대회.md "wikilink") 원래 2014시즌을 끝으로 은퇴한 대전의 레전드 선수였던 [김은중](../Page/김은중.md "wikilink")의 은퇴식을 치르기 위해 김은중이 코치로 있는 [AFC 튀비즈와](../Page/AFC_튀비즈.md "wikilink") [7월 17일](../Page/7월_17일.md "wikilink") 경기로 예정 되어있었으나,\[18\] [메르스](https://ko.wikipedia.org/wiki/메르스 "wikilink") 여파로 취소되었으며,\[19\] [2016년](../Page/2016년.md "wikilink") [6월 24일](../Page/6월_24일.md "wikilink") 개최되었다. [섬네일](https://ko.wikipedia.org/wiki/파일:은퇴_판넬_앞_김은중.jpg "wikilink")\]\] 이날 경기서 김은중은 전반엔 코치로 튀비즈의 벤치에 있었고, 후반 대전의 선수로 교체출전해 헤딩골을 기록하였다.
 
 ## 대회 참가한 유명인
 

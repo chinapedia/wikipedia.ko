@@ -279,6 +279,7 @@
   - 2020년 2월 15일 엔플라잉 - **\[Digital Single\] 투유 프로젝트 - 슈가맨3 Part.10**\[52\]
   - 2020년 3월 15일 유나 - **빅픽처 하우스 OST Part.1**
   - 2020년 3월 28일 유재석 - **\[Digital Single\] 이별의 정류장**\[53\]
+  - 2020년 4월 4일 유재석 - **\[Digital Single\] 놀면 뭐하니? 방구석 콘서트**\[54\]
 
 ## 각주
 
@@ -328,7 +329,7 @@
 42. FLY HIGH PROJECT 1번에 앨범
 43. [안영미](../Page/안영미_\(희극인\).md "wikilink"), [신봉선](../Page/신봉선.md "wikilink"), [김신영](../Page/김신영.md "wikilink")도 다시 앨범 참여.
 44. FLY HIGH PROJECT 2번째 앨범.
-45. [빅톤의](../Page/빅톤_\(음악_그룹\).md "wikilink") 두 멤버 [한승우](https://ko.wikipedia.org/wiki/한승우_\(가수\) "wikilink"),[최병찬](https://ko.wikipedia.org/wiki/최병찬 "wikilink"),[유니크의](../Page/유니크_\(음악_그룹\).md "wikilink") 멤버 [조승연](https://ko.wikipedia.org/wiki/조승연_\(가수\) "wikilink") 외 96명도 앨범 참여.
+45. [빅톤의](../Page/빅톤_\(음악_그룹\).md "wikilink") 두 멤버 [한승우](../Page/한승우_\(가수\).md "wikilink"),[최병찬](https://ko.wikipedia.org/wiki/최병찬 "wikilink"),[유니크의](../Page/유니크_\(음악_그룹\).md "wikilink") 멤버 [조승연](https://ko.wikipedia.org/wiki/조승연_\(가수\) "wikilink") 외 96명도 앨범 참여.
 46. [데프콘도](../Page/데프콘_\(가수\).md "wikilink") 앨범 참여.
 47. FLY HIGH PROJECT 3번째 앨범.
 48. [안영미](../Page/안영미_\(희극인\).md "wikilink"), [신봉선](../Page/신봉선.md "wikilink"), [김신영](../Page/김신영.md "wikilink")도 다시 앨범 참여.
@@ -337,3 +338,4 @@
 51. [몽니](../Page/몽니.md "wikilink")도 앨범 참여.
 52. [여자친구도](../Page/여자친구_\(음악_그룹\).md "wikilink") 앨범 참여.
 53. [송가인](../Page/송가인.md "wikilink")도 앨범에 참여.
+54. [패닉의](../Page/패닉_\(음악_그룹\).md "wikilink") 멤버 [이적](https://ko.wikipedia.org/wiki/이적 "wikilink")도 앨범에 참여.

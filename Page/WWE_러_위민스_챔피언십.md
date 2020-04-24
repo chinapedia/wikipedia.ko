@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [WWE 러 위민스 챔피언십](https://ko.wikipedia.org/wiki/WWE_러_위민스_챔피언십).
 
 
-**WWE RAW 위민스 챔피언십(WWE RAW Women's Championship)**은 [WWE](https://ko.wikipedia.org/wiki/WWE "wikilink")에 속한 챔피언십중 하나의 챔피언십이었다. 1956년부터 2010년까지 존하던 동명의 [WWE 위민스 챔피언십와는](https://ko.wikipedia.org/wiki/WWE_위민스_챔피언십_\(2010년_이전\) "wikilink") 명칭만 같고 별도의 역사를 가지고 있었으나, 2016년 9월 5일에 현재의 명칭으로 변경된다.
+**WWE RAW 위민스 챔피언십(WWE RAW Women's Championship)**은 [WWE](../Page/WWE.md "wikilink")에 속한 챔피언십중 하나의 챔피언십이었다. 1956년부터 2010년까지 존하던 동명의 [WWE 위민스 챔피언십와는](https://ko.wikipedia.org/wiki/WWE_위민스_챔피언십_\(2010년_이전\) "wikilink") 명칭만 같고 별도의 역사를 가지고 있었으나, 2016년 9월 5일에 현재의 명칭으로 변경된다.
 
 ## 역사
 

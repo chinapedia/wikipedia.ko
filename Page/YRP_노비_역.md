@@ -17,7 +17,7 @@
 <tr class="even">
 <td><p><strong>2</strong></p></td>
 <td><p><span style="color:red;">■</span> 구리하마 선</p></td>
-<td><p><a href="../Page/요코스카추오_역.md" title="wikilink">요코스카추오</a>・<a href="../Page/요코하마_역.md" title="wikilink">요코하마</a>・<a href="../Page/게이큐_가와사키_역.md" title="wikilink">게이큐 가와사키</a>・<a href="https://ko.wikipedia.org/wiki/시나가와_역" title="wikilink">시나가와</a><br />
+<td><p><a href="../Page/요코스카추오_역.md" title="wikilink">요코스카추오</a>・<a href="../Page/요코하마_역.md" title="wikilink">요코하마</a>・<a href="../Page/게이큐_가와사키_역.md" title="wikilink">게이큐 가와사키</a>・<a href="../Page/시나가와_역.md" title="wikilink">시나가와</a><br />
 <span style="font-size:smaller;"><span style="color:{{일본 지하철 노선색|TO-A}};"><strong>○</strong></span><a href="https://ko.wikipedia.org/wiki/도쿄_도_교통국_지하철_아사쿠사_선" title="wikilink">도영 지하철 아사쿠사 선</a></span> <a href="../Page/니혼바시_역.md" title="wikilink">니혼바시</a>・<a href="../Page/아사쿠사_역.md" title="wikilink">아사쿠사</a>・<a href="../Page/오시아게_역.md" title="wikilink">오시아게</a><br />
 <span style="font-size:smaller;"><a href="../Page/게이세이_전철.md" title="wikilink">게이세이 선</a></span> <a href="../Page/아오토_역.md" title="wikilink">이오토</a>・<a href="../Page/게이세이_다카사고_역.md" title="wikilink">게이세이 다카사고</a> 방면</p></td>
 </tr>

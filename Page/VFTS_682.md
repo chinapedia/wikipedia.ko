@@ -13,7 +13,7 @@ VFTS 682처럼 아주 무거우면서 중원소함량이 대마젤란 성운 구
 
 ## 참고문헌
 
-[분류:볼프-레이에별](https://ko.wikipedia.org/wiki/분류:볼프-레이에별 "wikilink") [분류:황새치자리](https://ko.wikipedia.org/wiki/분류:황새치자리 "wikilink") [분류:대마젤란 은하](https://ko.wikipedia.org/wiki/분류:대마젤란_은하 "wikilink") [분류:타란툴라 성운](https://ko.wikipedia.org/wiki/분류:타란툴라_성운 "wikilink")
+[분류:볼프-레이에별](https://ko.wikipedia.org/wiki/분류:볼프-레이에별 "wikilink") [분류:황새치자리](https://ko.wikipedia.org/wiki/분류:황새치자리 "wikilink") [분류:대마젤란 은하](https://ko.wikipedia.org/wiki/분류:대마젤란_은하 "wikilink") [분류:타란툴라 성운](https://ko.wikipedia.org/wiki/분류:타란툴라_성운 "wikilink") [분류:2MASS 천체](https://ko.wikipedia.org/wiki/분류:2MASS_천체 "wikilink")
 
 1.
 2.

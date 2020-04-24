@@ -3,7 +3,7 @@
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:RatedRKO.jpg "wikilink")
 
-**레이티드 RKO** (Rated RKO)는 [WWE](https://ko.wikipedia.org/wiki/WWE "wikilink")의 태그팀 이었으며 구성원은 [에지와](../Page/에지_\(프로레슬링_선수\).md "wikilink") [랜디 오튼이었다](https://ko.wikipedia.org/wiki/랜디_오튼 "wikilink").
+**레이티드 RKO** (Rated RKO)는 [WWE](../Page/WWE.md "wikilink")의 태그팀 이었으며 구성원은 [에지와](../Page/에지_\(프로레슬링_선수\).md "wikilink") [랜디 오튼이었다](https://ko.wikipedia.org/wiki/랜디_오튼 "wikilink").
 
 ## 활동
 

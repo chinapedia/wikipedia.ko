@@ -98,34 +98,34 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>1기</p></td>
+<td><p>01기</p></td>
 <td><p>kbc 뉴스지금</p></td>
-<td><p><a href="../Page/1995년.md" title="wikilink">1995년</a> <a href="../Page/5월_15일.md" title="wikilink">5월 15일</a> ~ <a href="../Page/2014년.md" title="wikilink">2014년</a> <a href="../Page/3월_29일.md" title="wikilink">3월 29일</a></p></td>
+<td><p><a href="../Page/1993년.md" title="wikilink">1993년</a> <a href="../Page/1월_1일.md" title="wikilink">1월 1일</a> ~ <a href="../Page/2013년.md" title="wikilink">2013년</a> <a href="../Page/12월_29일.md" title="wikilink">12월 29일</a></p></td>
 </tr>
 <tr class="even">
-<td><p>2기</p></td>
+<td><p>02기</p></td>
 <td><p>kbc 모닝와이드 (평일)<br />
 kbc 뉴스 (토요일)</p></td>
-<td><p><a href="../Page/2014년.md" title="wikilink">2014년</a> <a href="../Page/3월_31일.md" title="wikilink">3월 31일</a> ~ <a href="../Page/2016년.md" title="wikilink">2016년</a> <a href="../Page/10월_1일.md" title="wikilink">10월 1일</a></p></td>
+<td><p><a href="../Page/2014년.md" title="wikilink">2014년</a> <a href="../Page/1월_1일.md" title="wikilink">1월 1일</a> ~ <a href="../Page/2015년.md" title="wikilink">2015년</a> <a href="../Page/12월_26일.md" title="wikilink">12월 26일</a></p></td>
 </tr>
 <tr class="odd">
-<td><p>3기</p></td>
+<td><p>03기</p></td>
 <td><p>kbc 모닝와이드</p></td>
-<td><p><a href="../Page/2016년.md" title="wikilink">2016년</a> <a href="../Page/10월_3일.md" title="wikilink">10월 3일</a> ~ <a href="../Page/2016년.md" title="wikilink">2016년</a> <a href="../Page/12월_31일.md" title="wikilink">12월 31일</a></p></td>
+<td><p><a href="../Page/2016년.md" title="wikilink">2016년</a> <a href="../Page/1월_4일.md" title="wikilink">1월 4일</a> ~ <a href="../Page/2016년.md" title="wikilink">2016년</a> <a href="../Page/12월_31일.md" title="wikilink">12월 31일</a></p></td>
 </tr>
 <tr class="even">
-<td><p>4기</p></td>
+<td><p>04기</p></td>
 <td><p>kbc 모닝 730 (평일)<br />
 kbc 모닝와이드 (토요일)</p></td>
 <td><p><a href="../Page/2017년.md" title="wikilink">2017년</a> <a href="../Page/1월_2일.md" title="wikilink">1월 2일</a> ~ <a href="../Page/2018년.md" title="wikilink">2018년</a> <a href="../Page/12월_29일.md" title="wikilink">12월 29일</a></p></td>
 </tr>
 <tr class="odd">
-<td><p>5기</p></td>
+<td><p>05기</p></td>
 <td><p>kbc 모닝 730</p></td>
-<td><p><a href="../Page/2018년.md" title="wikilink">2018년</a> <a href="../Page/12월_31일.md" title="wikilink">12월 31일</a> ~ <a href="../Page/2019년.md" title="wikilink">2019년</a> <a href="../Page/12월_31일.md" title="wikilink">12월 31일</a></p></td>
+<td><p><a href="../Page/2019년.md" title="wikilink">2019년</a> <a href="../Page/1월_1일.md" title="wikilink">1월 1일</a> ~ <a href="../Page/2019년.md" title="wikilink">2019년</a> <a href="../Page/12월_31일.md" title="wikilink">12월 31일</a></p></td>
 </tr>
 <tr class="even">
-<td><p>6기</p></td>
+<td><p>06기</p></td>
 <td><p>kbc 모닝와이드</p></td>
 <td><p><a href="../Page/2020년.md" title="wikilink">2020년</a> <a href="../Page/1월_1일.md" title="wikilink">1월 1일</a> ~ <strong>현재</strong></p></td>
 </tr>

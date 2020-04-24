@@ -41,7 +41,7 @@
 <td><p>2013년 11월 20일</p></td>
 <td><p>data-sort-value="12" | 12회</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/2010년_FIFA_월드컵" title="wikilink">2010년</a></p></td>
-<td><p>data-sort-value="7.2" | <strong>우승</strong> (<a href="https://ko.wikipedia.org/wiki/1930년_FIFA_월드컵" title="wikilink">1930년</a>, <a href="https://ko.wikipedia.org/wiki/1950년_FIFA_월드컵" title="wikilink">1950년</a>)</p></td>
+<td><p>data-sort-value="7.2" | <strong>우승</strong>(<a href="https://ko.wikipedia.org/wiki/1930년_FIFA_월드컵" title="wikilink">1930년</a>, <a href="https://ko.wikipedia.org/wiki/1950년_FIFA_월드컵" title="wikilink">1950년</a>)</p></td>
 <td><p>6위</p></td>
 </tr>
 <tr class="odd">
@@ -63,7 +63,7 @@
 <td><p>2013년 10월 15일</p></td>
 <td><p>data-sort-value="14" | 14회</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/2010년_FIFA_월드컵" title="wikilink">2010년</a></p></td>
-<td><p>data-sort-value="7.1" | <strong>우승</strong> (<a href="https://ko.wikipedia.org/wiki/1966년_FIFA_월드컵" title="wikilink">1966년</a>)</p></td>
+<td><p>data-sort-value="7.1" | <strong>우승</strong>(<a href="https://ko.wikipedia.org/wiki/1966년_FIFA_월드컵" title="wikilink">1966년</a>)</p></td>
 <td><p>10위</p></td>
 </tr>
 <tr class="odd">
@@ -74,7 +74,7 @@
 <td><p>2013년 9월 10일</p></td>
 <td><p>data-sort-value="18" | 18회</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/2010년_FIFA_월드컵" title="wikilink">2010년</a></p></td>
-<td><p>data-sort-value="7.4" | <strong>우승</strong> (<a href="https://ko.wikipedia.org/wiki/1934년_FIFA_월드컵" title="wikilink">1934년</a>, <a href="https://ko.wikipedia.org/wiki/1938년_FIFA_월드컵" title="wikilink">1938년</a>, <a href="https://ko.wikipedia.org/wiki/1982년_FIFA_월드컵" title="wikilink">1982년</a>, <a href="https://ko.wikipedia.org/wiki/2006년_FIFA_월드컵" title="wikilink">2006년</a>)</p></td>
+<td><p>data-sort-value="7.4" | <strong>우승</strong>(<a href="https://ko.wikipedia.org/wiki/1934년_FIFA_월드컵" title="wikilink">1934년</a>, <a href="https://ko.wikipedia.org/wiki/1938년_FIFA_월드컵" title="wikilink">1938년</a>, <a href="https://ko.wikipedia.org/wiki/1982년_FIFA_월드컵" title="wikilink">1982년</a>, <a href="https://ko.wikipedia.org/wiki/2006년_FIFA_월드컵" title="wikilink">2006년</a>)</p></td>
 <td><p>9위</p></td>
 </tr>
 </tbody>
@@ -853,7 +853,7 @@
 
 79분경, 우루과이의 공격수 [루이스 수아레스가](../Page/루이스_알베르토_수아레스.md "wikilink") 이탈리아의 수비수 [조르조 키엘리니의](../Page/조르조_키엘리니.md "wikilink") 왼쪽 어깨를 깨물었다. 키엘리니는 이를 목격하지 못한 멕시코인 주심 [마르코 로드리게스에게](https://ko.wikipedia.org/wiki/마르코_안토니오_로드리게스 "wikilink") 깨문 흔적을 보여주었다. 이탈리아 선수들은 수아레스에게 아무런 조치를 취하지 않은 데에 항의하였고, 우루과이는 코너킥을 얻어 고딘이 결승골을 넣었다.\[22\]\[23\]\[24\] 84분 이탈리아의 감독진들 중 한명은 우루과이의 감독진들과 언쟁을 벌이다가 벤치에서 쫓겨났다.\[25\] 깨물기 사건 이후, 수아레스는 자신이 "\[키엘리니의\] 어깨와 충돌했고, 그것 말건 없다"고 주장하였고, "이 일은 때로 발생하기도 한다"며 덧붙였다.\[26\]\[27\]\[28\]
 
-경기가 열린 날, FIFA는 수아레스의 깨물기 사건을 놓고 징계 상벌위원회를 열었다.\[29\] 위원회에서, FIFA는 수아레스가 이전에 두 차례 깨물기 사건으로 징계를 받은 바 있는 것을 확인 ([아약스에서](../Page/AFC_아약스.md "wikilink") [오트만 바칼을](../Page/오트만_바칼.md "wikilink") 문 것으로 7경기를, [리버풀에서](../Page/리버풀_FC.md "wikilink") [브라니슬라프 이바노비치를](https://ko.wikipedia.org/wiki/브라니슬라프_이바노비치 "wikilink") 문 것으로 10경기를 출전하지 못했다.) 해 고려하였다.\[30\] 경기 이틀 후 [FIFA 상벌위원회는](https://ko.wikipedia.org/wiki/FIFA_상벌위원회 "wikilink") 수아레스가 다음 경기부터 9번의 국제 경기에 출전하지 못하게 되었고, 그는 이번 FIFA 월드컵 경기에 더이상 출전하지 못하게 되었다. 이 징계는 FIFA 월드컵 역사상 최장 기간 출장 정지 징계로, 이탈리아의 [마우로 타소티가](../Page/마우로_타소티.md "wikilink") [1994년 FIFA 월드컵에서](https://ko.wikipedia.org/wiki/1994년_FIFA_월드컵 "wikilink") 스페인의 [루이스 엔리케의](../Page/루이스_엔리케_마르티네스_가르시아.md "wikilink") 코를 깬 것으로 8경기 출장 정지 징계를 받은 기록을 갈아치웠다.\[31\]\[32\]\[33\] 그는 또한 4달간의 모든 축구 활동 (경기장 입장도 포함) 금지 조치를 받고 100,000 [CHF의](../Page/스위스_프랑.md "wikilink") 벌금 (약 [€](../Page/유로.md "wikilink")82,000 / [£](../Page/파운드_스털링.md "wikilink")65,700 / [$](../Page/미국_달러.md "wikilink")119,000) 을 물게 되었다.\[34\]\[35\]\[36\] 단 판정은 수아레스가 타 구단으로 [이적하는](https://ko.wikipedia.org/wiki/이적_\(축구\) "wikilink") 것 만큼은 허용했다.\[37\] 수아레스는 이후에 키엘리니를 깨문 것을 인정했고, "깨물기의 물리적인 결과"는 키엘리니와의 충돌로 야기되었다고 적으면서도 정식적으로 사과했다.\[38\]\[39\] 7월 3일, [우루과이 축구 협회](https://ko.wikipedia.org/wiki/우루과이_축구_협회 "wikilink") (AUF) 는 FIFA에게 판정에 대한 항소를 보냈지만,\[40\]\[41\] 7월 10일에 거절되었다.\[42\]\[43\]\[44\] [스포츠 중재 재판소에](../Page/스포츠_중재_재판소.md "wikilink") 항소를 보낸 후, 수아레스는 이후 이적한 [바르셀로나에서](../Page/FC_바르셀로나.md "wikilink") 친선전 훈련에 참가할 수 있도록 허락받았다.\[45\]
+경기가 열린 날, FIFA는 수아레스의 깨물기 사건을 놓고 징계 상벌위원회를 열었다.\[29\] 위원회에서, FIFA는 수아레스가 이전에 두 차례 깨물기 사건으로 징계를 받은 바 있는 것을 확인 ([아약스에서](../Page/AFC_아약스.md "wikilink") [오트만 바칼을](../Page/오트만_바칼.md "wikilink") 문 것으로 7경기를, [리버풀에서](../Page/리버풀_FC.md "wikilink") [브라니슬라프 이바노비치를](https://ko.wikipedia.org/wiki/브라니슬라프_이바노비치 "wikilink") 문 것으로 10경기를 출전하지 못했다.) 해 고려하였다.\[30\] 경기 이틀 후 [FIFA 상벌위원회는](https://ko.wikipedia.org/wiki/FIFA_상벌위원회 "wikilink") 수아레스가 다음 경기부터 9번의 국제 경기에 출전하지 못하게 되었고, 그는 이번 FIFA 월드컵 경기에 더이상 출전하지 못하게 되었다. 이 징계는 FIFA 월드컵 역사상 최장 기간 출장 정지 징계로, 이탈리아의 [마우로 타소티가](../Page/마우로_타소티.md "wikilink") [1994년 FIFA 월드컵에서](https://ko.wikipedia.org/wiki/1994년_FIFA_월드컵 "wikilink") 스페인의 [루이스 엔리케의](../Page/루이스_엔리케_마르티네스_가르시아.md "wikilink") 코를 깬 것으로 8경기 출장 정지 징계를 받은 기록을 갈아치웠다.\[31\]\[32\]\[33\] 그는 또한 4달간의 모든 축구 활동 (경기장 입장도 포함) 금지 조치를 받고 100,000 [CHF의](../Page/스위스_프랑.md "wikilink") 벌금 (약 [€](../Page/유로.md "wikilink")82,000 / [£](../Page/파운드_스털링.md "wikilink")65,700 / [$](../Page/미국_달러.md "wikilink")119,000) 을 물게 되었다.\[34\]\[35\]\[36\] 단 판정은 수아레스가 타 구단으로 [이적하는](https://ko.wikipedia.org/wiki/이적_\(축구\) "wikilink") 것 만큼은 허용했다.\[37\] 수아레스는 이후에 키엘리니를 깨문 것을 인정했고, "깨물기의 물리적인 결과"는 키엘리니와의 충돌로 야기되었다고 적으면서도 정식적으로 사과했다.\[38\]\[39\] 7월 3일, [우루과이 축구 협회](https://ko.wikipedia.org/wiki/우루과이_축구_협회 "wikilink") (AUF)는 FIFA에게 판정에 대한 항소를 보냈지만,\[40\]\[41\] 7월 10일에 거절되었다.\[42\]\[43\]\[44\] [스포츠 중재 재판소에](../Page/스포츠_중재_재판소.md "wikilink") 항소를 보낸 후, 수아레스는 이후 이적한 [바르셀로나에서](../Page/FC_바르셀로나.md "wikilink") 친선전 훈련에 참가할 수 있도록 허락받았다.\[45\]
 
 #### 상세 정보
 

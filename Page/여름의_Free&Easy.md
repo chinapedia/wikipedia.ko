@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [여름의 Free\&Easy](https://ko.wikipedia.org/wiki/여름의_Free\&Easy).
 
 
-〈**여름의 Free\&Easy**〉()는, [노기자카46](../Page/노기자카46.md "wikilink")의 9번째 [싱글이다](../Page/싱글_\(음악\).md "wikilink").
+〈**여름의 Free\&Easy**〉()는 [노기자카46](../Page/노기자카46.md "wikilink")의 9번째 [싱글이다](../Page/싱글_\(음악\).md "wikilink").
 
 ## 개요
 
