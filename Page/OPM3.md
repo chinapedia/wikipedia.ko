@@ -9,7 +9,7 @@
 
 ## 역사
 
-1998 년 PMI는 OPM3 프로그램이라는 조직을 조직하여 조직 프로젝트 관리 성숙도 모델을 개발하여 조직 프로젝트 관리 (OPM)의 글로벌 표준으로 삼았다. 개발하는 동안, 자원 봉사 팀의 일부는 27 개의 기존 모델을 분석하고 30,000 명의 실무자에게 반복적으로 설문 조사를 전개했다. 성숙 모델의 개념은 1986 년부터 1993 년까지 Carnegie Mellon University의 SEI (Software Engineering Institute)에서 개발 한 소프트웨어 개발을위한 Capability Maturity Model 또는 CMM을 통해 대중화되었다 OPM3 모델 검토 팀은 CMM 및 기타 모델을 검토하여 각 모델의 범위, 각 모델의 기능, 각 모델에 대한 평가를 수행하는 방법론, 각 모델의 구조 및 각 모델의 구현 절차를 이해합니다. 분석에 따르면 기존 모델은 OPM (Organizational Project Management) 성숙도에 대해 많은 중요한 질문을 던지고 팀은 PMI의 후원을 통해 원래 모델 개발을 진행해야한다고 결론지었다.
+1998 년 PMI는 OPM3 프로그램이라는 조직을 조직하여 조직 프로젝트 관리 성숙도 모델을 개발하여 조직 프로젝트 관리 (OPM)의 글로벌 표준으로 삼았다. 개발하는 동안, 자원 봉사 팀의 일부는 27 개의 기존 모델을 분석하고 30,000 명의 실무자에게 반복적으로 설문 조사를 전개했다. 성숙 모델의 개념은 1986 년부터 1993 년까지 Carnegie Mellon University의 SEI (Software Engineering Institute)에서 개발한 소프트웨어 개발을위한 Capability Maturity Model 또는 CMM을 통해 대중화되었다 OPM3 모델 검토 팀은 CMM 및 기타 모델을 검토하여 각 모델의 범위, 각 모델의 기능, 각 모델에 대한 평가를 수행하는 방법론, 각 모델의 구조 및 각 모델의 구현 절차를 이해합니다. 분석에 따르면 기존 모델은 OPM (Organizational Project Management) 성숙도에 대해 많은 중요한 질문을 던지고 팀은 PMI의 후원을 통해 원래 모델 개발을 진행해야한다고 결론지었다.
 
 ## 표준화 내용
 

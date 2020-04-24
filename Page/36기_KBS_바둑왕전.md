@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [36 KBS ](https://ko.wikipedia.org/wiki/36_KBS_).
+> This article is converted from Wikipedia: [36기 KBS 바둑왕전](https://ko.wikipedia.org/wiki/36기_KBS_바둑왕전).
 
 
 **36기 KBS 바둑왕전**은 TV 속기전이 참가한 국내 바둑 기전이다. 결승에서는 [박정환](../Page/박정환_\(바둑_기사\).md "wikilink") 九단 [김지석](../Page/김지석_\(바둑_기사\).md "wikilink") 九단을 2대 0로 꺾고 완봉승으로 우승하며 바둑왕전 통산 5회 우승을 달성했다.

@@ -4565,7 +4565,7 @@
 </tr>
 <tr class="even">
 <td><p>한국</p></td>
-<td><p>《<a href="../Page/극한직업_(영화).md" title="wikilink">극한직업</a>》</p></td>
+<td><p>《<a href="../Page/극한직업.md" title="wikilink">극한직업</a>》</p></td>
 <td><p>2019.1.23</p></td>
 <td><p>실사</p></td>
 <td><p>제공, 배급</p></td>

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [UEFA  ](https://ko.wikipedia.org/wiki/UEFA__).
+> This article is converted from Wikipedia: [UEFA 유로파 컨퍼런스리그](https://ko.wikipedia.org/wiki/UEFA_유로파_컨퍼런스리그).
 
 
 **UEFA 유로파 컨퍼런스리그**(UEFA Europa Conference League)는 2021년에 출범할 예정인 [유럽 축구 연맹](../Page/유럽_축구_연맹.md "wikilink")(UEFA)의 축구 클럽 대회이다. 2021-22 시즌에 첫 시즌이 열릴 예정이며 [UEFA 챔피언스리그](../Page/UEFA_챔피언스리그.md "wikilink"), [UEFA 유로파리그](../Page/UEFA_유로파리그.md "wikilink") 다음으로 3번째에 해당하는 축구 클럽 대회가 될 예정이다.

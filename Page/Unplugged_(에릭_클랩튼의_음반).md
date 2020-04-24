@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [Unplugged \(  \)](https://ko.wikipedia.org/wiki/Unplugged_\(__\)).
+> This article is converted from Wikipedia: [Unplugged \(에릭 클랩튼의 음반\)](https://ko.wikipedia.org/wiki/Unplugged_\(에릭_클랩튼의_음반\)).
 
 
-《**Unplugged**》는 1992년 [에릭 클랩튼의](../Page/에릭_클랩튼.md "wikilink") 음반으로, 영국 브레이 스튜디오에서 [MTV 언플러그드의](https://ko.wikipedia.org/wiki/MTV_언플러그드 "wikilink") 관객들 앞에서 녹음했다.\[1\] 1991년 싱글 〈[Tears in Heaven](../Page/Tears_in_Heaven.md "wikilink")〉과 어쿠스틱 버전인 〈[Layla](../Page/Layla.md "wikilink")〉를 포함한다. 1993년 제35회 그래미상 시상식에서 두 개의 [그래미상](https://ko.wikipedia.org/wiki/그래미상 "wikilink")을 수상했으며, 전 세계에서 2천6백만 장의 라이브 음반을 판매하며 클랩튼의 베스트셀러가 되었다.\[2\]\[3\]
+《**Unplugged**》는 1992년 [에릭 클랩튼의](../Page/에릭_클랩튼.md "wikilink") 음반으로, [영국](../Page/영국.md "wikilink") 브레이 스튜디오에서 [MTV 언플러그드의](https://ko.wikipedia.org/wiki/MTV_언플러그드 "wikilink") 관객들 앞에서 녹음했다.\[1\] 1991년 싱글 〈[Tears in Heaven](../Page/Tears_in_Heaven.md "wikilink")〉과 어쿠스틱 버전인 〈[Layla](../Page/Layla.md "wikilink")〉를 포함한다. 1993년 제35회 그래미 어워드에서 두 개의 [그래미 어워드를](../Page/그래미_어워드.md "wikilink") 수상했으며, 전 세계에서 2천6백만 장의 라이브 음반을 판매하며 클랩튼의 베스트셀러가 되었다.\[2\]\[3\]
 
 ## 녹음
 

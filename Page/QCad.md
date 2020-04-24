@@ -7,7 +7,7 @@ QCAD는 [GNU General Public License](https://ko.wikipedia.org/wiki/GPL "wikilink
 
 [실행파일](https://ko.wikipedia.org/wiki/실행파일 "wikilink")로 컴파일하거나 커스마이징을 위한 소스는 [GPL](https://ko.wikipedia.org/wiki/GPL "wikilink")로 공개되어있으며, 무료이고, 큐캐드(QCAD) 커뮤니티에서 온라인으로 배포하고 있다.
 
-QCAD는 리본소프트사(RibbonSoft社)가 개발했지만 여전히 커뮤니티에의해 공개되고 관리되고 있다. QCAD의 개발은 1999 년 10 월에 CAM Expert의 코드에서부터 시작되었다. QCAD 2은 2003 년 9 월에 버전이 승격되었다. 이것은 "생산성이 뛰어나고 사용자 친화적이고 유연하며 다른 제품과의 호환성이 향상 되었다." QCAD 3은 2012 년 7 월에는 완전하고 강력한 ECMAScript ([JavaScript](https://ko.wikipedia.org/wiki/JavaScript "wikilink")) 인터페이스로 출시되었다.
+QCAD는 리본소프트사(RibbonSoft社)가 개발했지만 여전히 커뮤니티에의해 공개되고 관리되고 있다. QCAD의 개발은 1999년 10월에 CAM Expert의 코드에서부터 시작되었다. QCAD 2은 2003년 9월에 버전이 승격되었다. 이것은 "생산성이 뛰어나고 사용자 친화적이고 유연하며 다른 제품과의 호환성이 향상 되었다." QCAD 3은 2012년 7월에는 완전하고 강력한 ECMAScript ([JavaScript](https://ko.wikipedia.org/wiki/JavaScript "wikilink")) 인터페이스로 출시되었다.
 
 ## 주요 추가 사항
 

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Encyclopaedia of Islam, New Edition](https://ko.wikipedia.org/wiki/:Encyclopaedia_of_Islam,_New_Edition).
+> This article is converted from Wikipedia: [틀:Encyclopaedia of Islam, New Edition](https://ko.wikipedia.org/wiki/틀:Encyclopaedia_of_Islam,_New_Edition).
 
 
 <noinclude></noinclude>

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Citra](https://ko.wikipedia.org/wiki/Citra).
 
 
-[thumb](https://ko.wikipedia.org/wiki/파일:Citra_Logo.svg "wikilink")
+[섬네일](https://ko.wikipedia.org/wiki/파일:Citra_Logo.svg "wikilink")
 
 **Citra**는 Citra 팀이 개발한 [닌텐도 3DS의](../Page/닌텐도_3DS.md "wikilink") 최초의 에뮬레이터이다. [C++](https://ko.wikipedia.org/wiki/C++ "wikilink") 프로그래밍 언어로 개발되었다. Citra는 거의 모든 홈브루 게임과 일부 상용 게임들을 구동할 수 있다. Citra는 구동을 위해 [OpenGL](../Page/OpenGL.md "wikilink") 버전 3.3 이상을 요구한다.\[1\]
 

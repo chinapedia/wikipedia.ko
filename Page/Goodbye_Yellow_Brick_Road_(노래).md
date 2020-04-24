@@ -1,9 +1,9 @@
-> This article is converted from Wikipedia: [Goodbye Yellow Brick Road \(\)](https://ko.wikipedia.org/wiki/Goodbye_Yellow_Brick_Road_\(\)).
+> This article is converted from Wikipedia: [Goodbye Yellow Brick Road \(노래\)](https://ko.wikipedia.org/wiki/Goodbye_Yellow_Brick_Road_\(노래\)).
 
 
 〈**Goodbye Yellow Brick Road**〉는 [영국](../Page/영국.md "wikilink")의 음악가 [엘튼 존에](../Page/엘튼_존.md "wikilink") 의해 연주된 [발라드이다](../Page/발라드_\(문학\).md "wikilink"). 이 곡의 가사는 [버니 토핀이](../Page/버니_토핀.md "wikilink") 작사했고 존에 의해 그의 음반 《[Goodbye Yellow Brick Road](https://ko.wikipedia.org/wiki/Goodbye_Yellow_Brick_Road "wikilink")》로 작곡되었다. 그 곡의 음악 스타일과 제작은 1970년대 [소프트 록의](https://ko.wikipedia.org/wiki/소프트_록 "wikilink") 영향을 많이 받았다. 이 곡은 비평가들로부터 많은 찬사를 받았고, 일부 비평가들은 이 곡을 존의 최고의 곡이라고 불렀다.\[1\]
 
-이 곡은 1973년에 음반의 두 번째 싱글로 발매되었고 [영국](../Page/영국.md "wikilink")과 [미국](../Page/미국.md "wikilink") 모두에서 탑 10에 진입했다. 그 곡은 존의 가장 큰 히트곡 중 하나였으며, 발매 후 빠르게 판매와 인기 면에서 이전의 싱글 〈[Saturday Night's Alright for Fighting](https://ko.wikipedia.org/wiki/Saturday_Night's_Alright_for_Fighting "wikilink")〉을 능가했다. 미국에서 그 곡은 1974년 1월 4일에 골드 인증을 받았고 1995년 9월 13일에 [미국 음반 산업 협회에](../Page/미국_음반_산업_협회.md "wikilink") 의해 플래티넘이 인증을 받았다.\[2\]
+이 곡은 1973년에 음반의 두 번째 싱글로 발매되었고 [영국](../Page/영국.md "wikilink")과 [미국](../Page/미국.md "wikilink") 모두에서 탑 10에 진입했다. 그 곡은 존의 가장 큰 히트곡 중 하나였으며, 발매 후 빠르게 판매와 인기 면에서 이전의 싱글 〈[Saturday Night's Alright for Fighting](../Page/Saturday_Night's_Alright_for_Fighting.md "wikilink")〉을 능가했다. 미국에서 그 곡은 1974년 1월 4일에 골드 인증을 받았고 1995년 9월 13일에 [미국 음반 산업 협회에](../Page/미국_음반_산업_협회.md "wikilink") 의해 플래티넘이 인증을 받았다.\[2\]
 
 [노란 벽돌 길은](https://ko.wikipedia.org/wiki/노란_벽돌_길 "wikilink") 1939년 [라이먼 프랭크 바움의](../Page/라이먼_프랭크_바움.md "wikilink") 《[오즈의 마법사](../Page/오즈의_마법사_\(1939년_영화\).md "wikilink")》를 각색한 영화 이미지이다. 그 영화에서 도로시와 그녀의 어울리지 않는 세 명의 친구들은 오즈의 마법사를 찾기 위해 노란 벽돌 길을 따르도록 지시받았지만, 그들은 그들이 찾고 있던 것을 처음부터 가지고 있었다는 것을 발견했다. 이 길은 오즈의 나라에 있는 에메랄드 시로 이어지며, 종종 "삶의 환상으로 가는 길"이나 "생명의 해답을 얻는 길"을 상징한다. 이 가사는 화자가 좋은 삶이라고 생각한 삶을 살고 난 후 더 단순한 존재로 돌아가고 싶다는 것을 묘사하지만, 그가 부유한 사교적 애인으로부터 애완동물처럼 대접받았다는 것을 깨닫는다.
 

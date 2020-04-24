@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [1 KT  ](https://ko.wikipedia.org/wiki/1_KT__).
+> This article is converted from Wikipedia: [1기 KT배 마스터스 프로기전](https://ko.wikipedia.org/wiki/1기_KT배_마스터스_프로기전).
 
 
 **1회 KT배 마스터스 프로기전**는 [대한민국](../Page/대한민국.md "wikilink")의 국내 TV 속기전이며, [조훈현](../Page/조훈현.md "wikilink") 九단이 [최철한](../Page/최철한.md "wikilink") 四단을 2 대 1로 초대 우승을 차지했다.

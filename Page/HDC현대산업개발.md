@@ -56,7 +56,7 @@ HDC현대산업개발은 과거 [현대그룹](../Page/현대그룹.md "wikilink
 
 ### 항공운수사업
 
-2019년 12월, [금호아시아나그룹](../Page/금호아시아나그룹.md "wikilink")의 핵심이었던 [아시아나항공](https://ko.wikipedia.org/wiki/아시아나항공 "wikilink")을 인수하였다.
+2019년 12월, [금호아시아나그룹](../Page/금호아시아나그룹.md "wikilink")의 핵심이었던 [아시아나항공](https://ko.wikipedia.org/wiki/아시아나항공 "wikilink")을 인수 진행중이다.
 
 ## 본점 및 지점 현황
 

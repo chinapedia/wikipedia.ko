@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FC  ](https://ko.wikipedia.org/wiki/FC__).
+> This article is converted from Wikipedia: [FC 바르셀로나 페메니](https://ko.wikipedia.org/wiki/FC_바르셀로나_페메니).
 
 
 **FC 바르셀로나 페메니**()는 [스페인](../Page/스페인.md "wikilink") [카탈루냐 지방의](https://ko.wikipedia.org/wiki/카탈루냐_지방 "wikilink") [바르셀로나](https://ko.wikipedia.org/wiki/바르셀로나 "wikilink")를 연고로 하는 [여자 축구](../Page/여자_축구.md "wikilink") 클럽이다. 현재 스페인의 여자 축구 최상위 리그인 [프리메라 디비시온 페메니나에](../Page/프리메라_디비시온_페메니나.md "wikilink") 소속되어 있다.

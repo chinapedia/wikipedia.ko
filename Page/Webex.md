@@ -21,7 +21,7 @@
 
 ## 각주
 
-[분류:화상 통화](https://ko.wikipedia.org/wiki/분류:화상_통화 "wikilink") [분류:샌타클래라 (캘리포니아주)의 기업](https://ko.wikipedia.org/wiki/분류:샌타클래라_\(캘리포니아주\)의_기업 "wikilink")
+[분류:화상 통화](https://ko.wikipedia.org/wiki/분류:화상_통화 "wikilink") [분류:샌타클래라 (캘리포니아주)의 기업](https://ko.wikipedia.org/wiki/분류:샌타클래라_\(캘리포니아주\)의_기업 "wikilink") [분류:원격 회의](https://ko.wikipedia.org/wiki/분류:원격_회의 "wikilink")
 
 1.
 2.  [WebEx Selected for New NASDAQ Global Select Market](http://www.webex.com/pr/pr409.html)  WebEx press release June 27, 2006.

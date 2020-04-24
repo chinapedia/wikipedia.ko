@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ H. ](https://ko.wikipedia.org/wiki/_H._).
+> This article is converted from Wikipedia: [존 H. 처치](https://ko.wikipedia.org/wiki/존_H._처치).
 
 
 **존 휴스턴 처치**(John Huston Church, [1892년](../Page/1892년.md "wikilink") [6월 28일](../Page/6월_28일.md "wikilink") \~ [1953년](../Page/1953년.md "wikilink") [11월 3일](../Page/11월_3일.md "wikilink"))는 미국의 군인이다. [제1차 세계대전](https://ko.wikipedia.org/wiki/제1차_세계대전 "wikilink"), [제2차 세계대전](https://ko.wikipedia.org/wiki/제2차_세계대전 "wikilink"), [한국 전쟁에](../Page/한국_전쟁.md "wikilink") 참전했다. 육군 소장으로 퇴역했다.

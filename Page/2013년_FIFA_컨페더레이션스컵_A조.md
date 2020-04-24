@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [2013 FIFA  A](https://ko.wikipedia.org/wiki/2013_FIFA__A).
+> This article is converted from Wikipedia: [2013년 FIFA 컨페더레이션스컵 A조](https://ko.wikipedia.org/wiki/2013년_FIFA_컨페더레이션스컵_A조).
 
 
 **[2013년 FIFA 컨페더레이션스컵](https://ko.wikipedia.org/wiki/2013년_FIFA_컨페더레이션스컵 "wikilink") A조**는 2013년 6월 15일부터 22일까지 열린다. A조는 [브라질](../Page/브라질_축구_국가대표팀.md "wikilink"), [이탈리아](../Page/이탈리아_축구_국가대표팀.md "wikilink"), [일본](https://ko.wikipedia.org/wiki/일본_축구_국가대표팀 "wikilink"), [멕시코로](../Page/멕시코_축구_국가대표팀.md "wikilink") 구성되었다. 4개의 팀들 중 상위 2개의 팀이 4강전에 진출한다.

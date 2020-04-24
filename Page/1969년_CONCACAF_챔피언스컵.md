@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [1969 CONCACAF ](https://ko.wikipedia.org/wiki/1969_CONCACAF_).
+> This article is converted from Wikipedia: [1969년 CONCACAF 챔피언스컵](https://ko.wikipedia.org/wiki/1969년_CONCACAF_챔피언스컵).
 
 
 **1969년 CONCACAF 챔피언스컵**(1969 CONCACAF Champions' Cup)은 [1969년](../Page/1969년.md "wikilink") [4월 25일부터](../Page/4월_25일.md "wikilink") [9월 30일까지](../Page/9월_30일.md "wikilink") 개최된 CONCACAF 챔피언스컵(현재의 [CONCACAF 챔피언스리그](../Page/CONCACAF_챔피언스리그.md "wikilink"))의 5번째 대회이다. [멕시코](../Page/멕시코.md "wikilink")의 [크루스 아술이](../Page/크루스_아술.md "wikilink") 결승전에서 [과테말라](../Page/과테말라.md "wikilink")의 [코무니카시오네스를](../Page/CSD_코무니카시오네스.md "wikilink") 누르고 우승을 차지했다.

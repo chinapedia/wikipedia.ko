@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [WWE 믹스드 매치 챌린지](https://ko.wikipedia.org/wiki/WWE_믹스드_매치_챌린지).
 
 
-**WWE 믹스드 매치 챌린지**(WWE Mixed Match Challenge)는 [WWE](https://ko.wikipedia.org/wiki/WWE "wikilink")의 남녀 선수를 조합해 12회 분량의 태그팀 토너먼트를 치르는 프로그램이다.
+**WWE 믹스드 매치 챌린지**(WWE Mixed Match Challenge)는 [WWE](../Page/WWE.md "wikilink")의 남녀 선수를 조합해 12회 분량의 태그팀 토너먼트를 치르는 프로그램이다.
 
 ## 시즌 1
 

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ SUN](https://ko.wikipedia.org/wiki/_SUN).
+> This article is converted from Wikipedia: [뿌요뿌요 SUN](https://ko.wikipedia.org/wiki/뿌요뿌요_SUN).
 
 
 《**뿌요뿌요 SUN**》()은 [컴파일이](../Page/컴파일_\(기업\).md "wikilink") 개발한 대전 [퍼즐 게임이다](https://ko.wikipedia.org/wiki/퍼즐_게임 "wikilink"). 《[뿌요뿌요](../Page/뿌요뿌요.md "wikilink")》 시리즈의 세번째 작품으로, 제목은 게임의 주제 태양(SUN)과 삼(三)이 일본어 발음으로 비슷하다는 점을 이용한 [언어유희](https://ko.wikipedia.org/wiki/언어유희 "wikilink")로 지어졌다. 전작 《[뿌요뿌요 2](../Page/뿌요뿌요_2.md "wikilink")》의 규칙에서 특정 조건 하에 썬 뿌요가 필드에 떨어지는 새로운 게임플레이를 적용시켰다.

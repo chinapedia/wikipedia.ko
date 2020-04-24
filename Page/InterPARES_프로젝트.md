@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [InterPARES ](https://ko.wikipedia.org/wiki/InterPARES_).
+> This article is converted from Wikipedia: [InterPARES 프로젝트](https://ko.wikipedia.org/wiki/InterPARES_프로젝트).
 
 
 **InterPARES**(International Research on Permanent Authentic Records in Electronic Systems)는 진본성 · 평가 · 보존 및 전략 등 [전자기록](../Page/전자기록.md "wikilink")의 [기록 생애 주기](https://ko.wikipedia.org/wiki/기록_생애_주기 "wikilink") 전반에 걸친 문제를 해결하기 위해 방안을 모색하는 다국적 연구 프로젝트이다. 캐나다 [브리티시 컬럼비아 대학의](https://ko.wikipedia.org/wiki/브리티시_컬럼비아_대학 "wikilink") 듀란티(L. Duranti) 교수가 프로젝트 책임을 맡았으며, 1단계는 1999년에 시작되어 2001년에 완료되었고, 2단계는 2002년에 시작되어 2006년에 종료되었고, 3단계는 2007년에 시작되어 2012년에 종료, 4단계는 2013년에 시작되어 2018년에 종료된다.\[1\]

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Zero Punctuation logo.png](https://ko.wikipedia.org/wiki/:Zero_Punctuation_logo.png).
+> This article is converted from Wikipedia: [파일:Zero Punctuation logo.png](https://ko.wikipedia.org/wiki/파일:Zero_Punctuation_logo.png).
 
 
 ## 파일의 설명

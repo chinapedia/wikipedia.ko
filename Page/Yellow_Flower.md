@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Yellow Flower](https://ko.wikipedia.org/wiki/Yellow_Flower).
 
 
-《**Yellow Flower**》(옐로우 플라워)는 대한민국의 걸 그룹 [마마무](../Page/마마무.md "wikilink")의 여섯 번째 미니 음반으로, 2018년 3월 7일 발매되었다. 타이틀 곡은 〈별이 빛나는 밤 (Starry night)〉이다.\[1\]
+《**Yellow Flower**》(옐로우 플라워)는 [대한민국](../Page/대한민국.md "wikilink")의 [걸 그룹](../Page/걸_그룹.md "wikilink") [마마무](../Page/마마무.md "wikilink")의 여섯 번째 미니 음반으로, 2018년 3월 7일 발매되었다. 타이틀 곡은 〈별이 빛나는 밤 (Starry night)〉이다.\[1\]
 
 ## 개요
 

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Back in Black \(\)](https://ko.wikipedia.org/wiki/Back_in_Black_\(\)).
+> This article is converted from Wikipedia: [Back in Black \(노래\)](https://ko.wikipedia.org/wiki/Back_in_Black_\(노래\)).
 
 
 〈**Back in Black**〉은 [AC/DC](https://ko.wikipedia.org/wiki/AC/DC "wikilink")의 곡으로, [동일한 이름의](../Page/Back_in_Black.md "wikilink") 1980년 음반 중 두 개의 첫 번째 곡으로 표시되었다.

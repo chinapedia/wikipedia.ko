@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  FC](https://ko.wikipedia.org/wiki/__FC).
+> This article is converted from Wikipedia: [사우스 멜버른 FC](https://ko.wikipedia.org/wiki/사우스_멜버른_FC).
 
 
 **사우스 멜버른 FC**()는 [오스트레일리아](../Page/오스트레일리아.md "wikilink")의 [멜버른](../Page/멜버른.md "wikilink") 남부 교외 [앨버트 파크를](https://ko.wikipedia.org/wiki/:en:Albert_Park "wikilink") 연고지로 하는 [세미프로](https://ko.wikipedia.org/wiki/세미프로 "wikilink") 축구 클럽이다.

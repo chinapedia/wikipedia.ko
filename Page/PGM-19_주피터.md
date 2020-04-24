@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [PGM-19 ](https://ko.wikipedia.org/wiki/PGM-19_).
+> This article is converted from Wikipedia: [PGM-19 주피터](https://ko.wikipedia.org/wiki/PGM-19_주피터).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Jupiter_IRBM.jpg "wikilink") **PGM-19 주피터**는 미국 최초의 [준중거리 탄도 미사일](https://ko.wikipedia.org/wiki/준중거리_탄도_미사일 "wikilink")(MRBM)이다. [크라이슬러 (기업)가](../Page/크라이슬러_\(기업\).md "wikilink") 생산했다.
@@ -14,13 +14,13 @@
 
 북한 최초의 MRBM은 2019년 현재에도 매우 위협적으로 알려져 있는 [노동 미사일이다](https://ko.wikipedia.org/wiki/노동_미사일 "wikilink"). 주피터는 미국의 노동 미사일이다.
 
-[미국 육군](../Page/미국_육군.md "wikilink") PGM-19 주피터 미사일은 [미국 해군의](../Page/미국_해군.md "wikilink") 잠수함 발사용 [폴라리스 미사일](https://ko.wikipedia.org/wiki/폴라리스_미사일 "wikilink"), [미국 공군의](../Page/미국_공군.md "wikilink") [PGM-17 토르와](https://ko.wikipedia.org/wiki/PGM-17_토르 "wikilink") 사거리가 비슷하다.
+[미국 육군](../Page/미국_육군.md "wikilink") PGM-19 주피터 미사일은 [미국 해군의](../Page/미국_해군.md "wikilink") 잠수함 발사용 [폴라리스 미사일](https://ko.wikipedia.org/wiki/폴라리스_미사일 "wikilink"), [미국 공군의](../Page/미국_공군.md "wikilink") [PGM-17 토르와](../Page/PGM-17_토르.md "wikilink") 사거리가 비슷하다.
 
   - PGM-19 주피터, 무게 50톤, 사거리 2400 km, [W38](https://ko.wikipedia.org/wiki/W38 "wikilink") 핵탄두(3.75 Mt), [W49](https://ko.wikipedia.org/wiki/W49 "wikilink") 핵탄두(1.44 Mt), 미국 육군
   - [UGM-27 폴라리스](../Page/UGM-27_폴라리스.md "wikilink"), 무게 13톤, 사거리 1900 km, [W47](../Page/W47.md "wikilink") 핵탄두(600 kt), 미국 해군
-  - [PGM-17 토르](https://ko.wikipedia.org/wiki/PGM-17_토르 "wikilink"), 무게 50톤, 사거리 3700 km, [W49](https://ko.wikipedia.org/wiki/W49 "wikilink") 핵탄두(1.44 Mt), 미국 공군
+  - [PGM-17 토르](../Page/PGM-17_토르.md "wikilink"), 무게 50톤, 사거리 3700 km, [W49](https://ko.wikipedia.org/wiki/W49 "wikilink") 핵탄두(1.44 Mt), 미국 공군
 
-미국 공군의 [PGM-17 토르는](https://ko.wikipedia.org/wiki/PGM-17_토르 "wikilink") [C-124 글로브마스터 II로](https://ko.wikipedia.org/wiki/C-124_글로브마스터_II "wikilink") 수송할 수 있는 것이 특징이다.
+미국 공군의 [PGM-17 토르는](../Page/PGM-17_토르.md "wikilink") [C-124 글로브마스터 II로](https://ko.wikipedia.org/wiki/C-124_글로브마스터_II "wikilink") 수송할 수 있는 것이 특징이다.
 
 ## 쿠바 미사일 위기
 
@@ -28,7 +28,7 @@
 
 ## 발사 준비시간
 
-[PGM-17 토르는](https://ko.wikipedia.org/wiki/PGM-17_토르 "wikilink") 주피터와 무게와 연료가 같다. 미국 대통령이 핵미사일 발사를 지시하면, 옆으로 누워져서 보관되어 있는 토르를 수직으로 세운 다음, 액체산소와 등유를 주입하고서 발사하는데, 명령에서 발사까지 대략 10분 정도가 걸린다. 주피터도 동일한 시간으로 추측할 수 있다. 토르는 공군기지에 배치되었으며, 재래식 공습과 날씨로 부터 미사일을 보호하기 위해 소프트한 격납고에 보관되었다.
+[PGM-17 토르는](../Page/PGM-17_토르.md "wikilink") 주피터와 무게와 연료가 같다. 미국 대통령이 핵미사일 발사를 지시하면, 옆으로 누워져서 보관되어 있는 토르를 수직으로 세운 다음, 액체산소와 등유를 주입하고서 발사하는데, 명령에서 발사까지 대략 10분 정도가 걸린다. 주피터도 동일한 시간으로 추측할 수 있다. 토르는 공군기지에 배치되었으며, 재래식 공습과 날씨로 부터 미사일을 보호하기 위해 소프트한 격납고에 보관되었다.
 
 ## 비교
 

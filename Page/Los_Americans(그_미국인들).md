@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Los Americans\( \)](https://ko.wikipedia.org/wiki/Los_Americans\(_\)).
+> This article is converted from Wikipedia: [Los Americans\(그 미국인들\)](https://ko.wikipedia.org/wiki/Los_Americans\(그_미국인들\)).
 
 
 Los Americans(그 미국인들)은 [로스 엔젤레스에](https://ko.wikipedia.org/wiki/로스앤젤레스 "wikilink") 거주하는 다 세대, 중년층의 라틴계 가정에 초점을 맞춘 8 부작 시리즈입니다. 이 쇼는 Dennis Leoni(데니스 레오니)가 쓰고 감독했으며 2011년에 발표되었습니다.\[1\]

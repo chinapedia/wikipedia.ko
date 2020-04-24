@@ -291,8 +291,8 @@
           - [삼성 갤럭시 노트 8](https://ko.wikipedia.org/wiki/삼성_갤럭시_노트_8 "wikilink")
           - [삼성 갤럭시 A8 (2018)](../Page/삼성_갤럭시_A8_\(2018\).md "wikilink")
           - [삼성 갤럭시 J5 (2016)](../Page/삼성_갤럭시_J5_\(2016\).md "wikilink") 누가 업데이트로 적용
-          - [삼성 갤럭시 WIDE 1세대 (2016)](https://ko.wikipedia.org/wiki/삼성_갤럭시_WIDE_1세대_\(2016\) "wikilink") 누가 업데이트로 적용
-          - [삼성 갤럭시 J2 Pro (2018, 공신폰)](https://ko.wikipedia.org/wiki/삼성_갤럭시_J2_Pro_\(2018,_공신폰\) "wikilink") 누가 기본탑재
+          - [삼성 갤럭시 wide](https://ko.wikipedia.org/wiki/삼성_갤럭시_wide "wikilink") 누가 업데이트로 적용
+          - [삼성 갤럭시 J2 Pro (2018, 공신폰)](https://ko.wikipedia.org/wiki/삼성_갤럭시_J2_Pro "wikilink") 누가 기본탑재
 
 ## 같이 보기
 

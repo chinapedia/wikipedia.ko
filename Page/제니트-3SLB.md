@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [-3SLB](https://ko.wikipedia.org/wiki/-3SLB).
+> This article is converted from Wikipedia: [제니트-3SLB](https://ko.wikipedia.org/wiki/제니트-3SLB).
 
 
 **제니트-3SLB** 또는 **제니트-3M**은 [우크라이나](../Page/우크라이나.md "wikilink")의 [소모성 우주 발사체이다](../Page/소모성_우주_발사체.md "wikilink").

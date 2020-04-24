@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Merry Christmas \(  \)](https://ko.wikipedia.org/wiki/Merry_Christmas_\(__\)).
+> This article is converted from Wikipedia: [Merry Christmas \(머라이어 캐리의 음반\)](https://ko.wikipedia.org/wiki/Merry_Christmas_\(머라이어_캐리의_음반\)).
 
 
 《**Merry Christmas**》는 1994년 11월 1일에 발매한 [머라이어 캐리의](../Page/머라이어_캐리.md "wikilink") 첫 번째 크리스마스 캐럴 음반이다.

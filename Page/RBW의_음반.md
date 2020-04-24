@@ -174,16 +174,19 @@
   - 2019년 8월 12일 NFB - **\[Digital Single\] The Artist Diary Project Part.14**
   - 2019년 8월 15일 김유나 - **\[Digital Single\] The Letters**
   - 2019년 8월 15일 런치박스 - **\[Digital Single\] 둘이만**
+  - 2019년 8월 19일 [오브제](https://ko.wikipedia.org/wiki/오브제_\(가수\) "wikilink") - **\[Digital Single\] 아무 생각 없이**
   - 2019년 8월 20일 NFB - **\[Digital Single\] What Am I Thinking**
   - 2019년 8월 21일 [오연](https://ko.wikipedia.org/wiki/오연_\(가수\) "wikilink") - **\[Digital Single\] Stay With Me**
   - 2019년 8월 26일 런치박스 - **\[Digital Single\] 지나가요**
   - 2019년 8월 29일 원위 - **\[Digital Single\] 2/4**
   - 2019년 9월 4일 휘인 - **\[Digital Single\] Soar**
   - 2019년 9월 13일 마마무 - **퀸덤 Part.1**\[41\]
+  - 2019년 9월 13일 오브제 - **\[Digital Single\] 종이접기**
   - 2019년 9월 16일 오연 - **\[Digital Single\] 달빛**
   - 2019년 9월 17일 호연주 - **\[Digital Single\] 재회**
   - 2019년 9월 26일 오브로젝트 - **\[Digital Single\] Drive**
   - 2019년 9월 30일 원어스 - **Fly With Us**
+  - 2019년 10월 5일 오브제 - **\[Digital Single\] In The Moonlight**
   - 2019년 10월 11일 화사 - **\[Digital Single\] 화실**\[42\]
   - 2019년 10월 13일 오연 - **\[Digital Single\] 어떻게 지내**
   - 2019년 10월 18일 마마무 - '''퀸덤 <팬도라의 상자> Part. 1 '''\[43\]
@@ -193,12 +196,14 @@
   - 2019년 10월 25일 마마무 - **\[Digital Single\] 우린 결국 다시 만날 운명이었지**\[44\]
   - 2019년 11월 7일 오연 - **달리는 조사관 OST Part.9**
   - 2019년 11월 14일 마마무 - **reality in BLACK**
+  - 2019년 11월 16일 오브제 - **\[Digital Single\] 달과 함께 걸어요**
   - 2019년 11월 23일 오연 - **\[Digital Single\] 괜찮은 척**
   - 2019년 11월 27일 김유나 - **\[Digital Single\] WBWY**
   - 2019년 12월 8일 오브로젝트 - **\[Digital Single\] Happy**
   - 2019년 12월 15일 브로맨스 - **\[Digital Single\] 치료가 필요한 사람**
   - 2019년 12월 18일 원어스 - **\[Japan Digital Single\] 808**
   - 2019년 12월 21일 김유나 - **\[Digital Single\] Christmas For You**
+  - 2019년 12월 22일 오브제 - **\[Digital Single\] 어서와요, 크리스마스**
 
 ## 2020년 \~ 2022년
 
@@ -215,6 +220,9 @@
   - 2020년 3월 20일 진주 - **\[Digital Single\] 사랑의 끝은 항상 아프죠**
   - 2020년 3월 24일 원어스 - **\[Digital Single\] IN ITS TIME**
   - 2020년 4월 2일 원위 - **\[Digital Single\] 3/4**
+  - 2020년 4월 11일 오브제 - **\[Digital Single\] 지구가 멈춰버렸으면**
+  - 2020년 4월 19일 화사 - **더 킹 : 영원의 군주 OST Part.2**
+  - 2020년 4월 23일 솔라 - **\[Digital Single\] SPIT IT OUT**
 
 ## 각주
 

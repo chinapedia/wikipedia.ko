@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [EDEN \(음악가\)](https://ko.wikipedia.org/wiki/EDEN_\(음악가\)).
 
 
-**EDEN** 으로서 잘 알려진 **Jonathon Ng** (1995년 12월 23일 출생) 는 [더블린](../Page/더블린.md "wikilink") 출신의 가수, 작곡가, [멀티 인스트루멘탈리스트이자](https://ko.wikipedia.org/wiki/멀티_인스트루멘탈리스트 "wikilink") 음반 제작자이다.\[1\]그는 이전에 The Eden Project 로서 활동하였으며, 2015년부터 EDEN 으로 예명이 바뀌었다. The Eden Project 시절의 작품들은 [덥스텝](../Page/덥스텝.md "wikilink"), 드럼 앤 베이스, [일렉트로닉 댄스 뮤직의](https://ko.wikipedia.org/wiki/일렉트로닉_댄스_뮤직 "wikilink") 전통적인 스타일을 특징으로 하였으며, EDEN 으로서는 [인디팝](https://ko.wikipedia.org/wiki/인디팝 "wikilink") 스타일로 진출하였다.\[2\]
+**EDEN** 으로서 잘 알려진 **Jonathon Ng**(1995년 12월 23일 출생)는 [더블린](../Page/더블린.md "wikilink") 출신의 가수, 작곡가, [멀티 인스트루멘탈리스트이자](https://ko.wikipedia.org/wiki/멀티_인스트루멘탈리스트 "wikilink") 음반 제작자이다.\[1\]그는 이전에 The Eden Project 로서 활동하였으며, 2015년부터 EDEN 으로 예명이 바뀌었다. The Eden Project 시절의 작품들은 [덥스텝](../Page/덥스텝.md "wikilink"), 드럼 앤 베이스, [일렉트로닉 댄스 뮤직의](https://ko.wikipedia.org/wiki/일렉트로닉_댄스_뮤직 "wikilink") 전통적인 스타일을 특징으로 하였으며, EDEN 으로서는 [인디팝](https://ko.wikipedia.org/wiki/인디팝 "wikilink") 스타일로 진출하였다.\[2\]
 
 Ng 는 The Eden Project 로서 6개의 앨범과 40개 이상의 곡을 발매하였다. EDEN 으로서, 그의 데뷔 앨범인 End Credit 은 자신의 음반사인 [MCMXCV](https://ko.wikipedia.org/wiki/MCMXCV "wikilink") 에서 발매하였다. 그의 두번째 앨범, I think you think too much of me 는 2016년 8월 발매되었을 때 첫번째 차트 음악으로서 아일랜드 앨범 차트 43위를 차지하였다.\[3\]
 

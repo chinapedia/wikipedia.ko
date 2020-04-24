@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [OS](https://ko.wikipedia.org/wiki/OS).
+> This article is converted from Wikipedia: [옥시즌OS](https://ko.wikipedia.org/wiki/옥시즌OS).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:H2_OS_logo.png "wikilink") **옥시즌OS**(, ()는 중국의 스마트폰 제조업체 [원플러스](../Page/원플러스.md "wikilink")가 자사의 스마트폰에 예외적으로 적용하기 위해 개발한 커스터마이즈된 버전의 [안드로이드](../Page/안드로이드_\(운영_체제\).md "wikilink") [모바일 운영 체제이다](../Page/모바일_운영_체제.md "wikilink").\[1\] **HydrogenOS**()라는 이름의 중국 시장용으로 설계된 다른 버전의 운영 체제도 있다.\[2\]

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [RUSSIAN ROULETTE \(  \)](https://ko.wikipedia.org/wiki/RUSSIAN_ROULETTE_\(__\)).
+> This article is converted from Wikipedia: [RUSSIAN ROULETTE \(호테이 토모야스의 노래\)](https://ko.wikipedia.org/wiki/RUSSIAN_ROULETTE_\(호테이_토모야스의_노래\)).
 
 
 〈**RUSSIAN ROULETTE**〉(러시안 룰렛, )은 [일본](../Page/일본.md "wikilink")의 [록](../Page/록_음악.md "wikilink") 가수 [호테이 토모야스의](../Page/호테이_토모야스.md "wikilink") 23번째 싱글이다. [2002년](../Page/2002년.md "wikilink") [2월 6일에](../Page/2월_6일.md "wikilink") 도시바 EMI(이후 [EMI 뮤직 재팬](../Page/EMI_뮤직_재팬.md "wikilink"))에서 발매되었다. 표제곡 〈**RUSSIAN ROULETTE**〉은 비디오 게임 〈[귀무자 2](../Page/귀무자_2.md "wikilink")〉의 주제곡으로 사용되었다.

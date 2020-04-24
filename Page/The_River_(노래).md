@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [The River \(\)](https://ko.wikipedia.org/wiki/The_River_\(\)).
+> This article is converted from Wikipedia: [The River \(노래\)](https://ko.wikipedia.org/wiki/The_River_\(노래\)).
 
 
 〈**The River**〉는 1979년 [E 스트리트 밴드와](https://ko.wikipedia.org/wiki/E_스트리트_밴드 "wikilink") 함께 [브루스 스프링스틴이](../Page/브루스_스프링스틴.md "wikilink") 작곡하고 녹음한 곡이다. 이 곡은 그의 다섯 번째 음반인 《[The River](../Page/The_River_\(음반\).md "wikilink")》의 타이틀 곡이었고 1981년 유럽 전역에서 히트곡이었다. 이 노래는 [네덜란드](../Page/네덜란드.md "wikilink")에서 25위에 올랐고 [스웨덴](../Page/스웨덴.md "wikilink")과 [노르웨이](../Page/노르웨이.md "wikilink")에서 모두 상위 10위에 올랐다.\[1\] 이 곡의 B 사이드는 국가에 따라 〈[Independence Day](https://ko.wikipedia.org/wiki/Independence_Day_\(브루스_스프링스틴의_노래\) "wikilink")〉 또는 〈[Ramrod](https://ko.wikipedia.org/wiki/Ramrod_\(브루스_스프링스틴의_노래\) "wikilink")〉 중 하나였다.\[2\]

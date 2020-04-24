@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [MBC   3](https://ko.wikipedia.org/wiki/MBC___3).
+> This article is converted from Wikipedia: [목포MBC 즐거운 오후 3시](https://ko.wikipedia.org/wiki/목포MBC_즐거운_오후_3시).
 
 
 **목포MBC 즐거운 오후 3시**는 [목포MBC 표준FM](../Page/목포문화방송.md "wikilink") (AM 1386㎑, 표준FM 89.1㎒)에서 종영 방송되는 목포 등 전남 서남부 지역의 라디오 프로그램이다.

@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [ TV  ](https://ko.wikipedia.org/wiki/_TV__).
+> This article is converted from Wikipedia: [닛폰 TV 방송망 일요드라마](https://ko.wikipedia.org/wiki/닛폰_TV_방송망_일요드라마).
 
 
-**일요드라마** ()는 [일본](../Page/일본.md "wikilink") [NTV에서](../Page/닛폰_TV_방송망.md "wikilink") 매주 [일요일](../Page/일요일.md "wikilink") 22:30 \~ 23:25 ([JST](https://ko.wikipedia.org/wiki/일본표준시 "wikilink"))에 방송되는 [드라마](../Page/텔레비전_드라마.md "wikilink") 시간대를 뜻한다.
+**일요드라마**()는 [일본](../Page/일본.md "wikilink") [NTV에서](../Page/닛폰_TV_방송망.md "wikilink") 매주 [일요일](../Page/일요일.md "wikilink") 22:30 \~ 23:25 ([JST](https://ko.wikipedia.org/wiki/일본표준시 "wikilink"))에 방송되는 [드라마](../Page/텔레비전_드라마.md "wikilink") 시간대를 뜻한다.
 
 ## 작품 리스트
 
@@ -36,7 +36,7 @@
 
 #### [2019년](../Page/2019년.md "wikilink")
 
-  - 《[3학년 A반 -지금부터 여러분은, 인질입니다-](https://ko.wikipedia.org/wiki/3학년_A반_-지금부터_여러분은,_인질입니다- "wikilink")》 (출연 : [스다 마사키](../Page/스다_마사키.md "wikilink") 외)
+  - 《[3학년 A반 -지금부터 여러분은, 인질입니다-](../Page/3학년_A반_-지금부터_여러분은,_인질입니다-.md "wikilink")》 (출연 : [스다 마사키](../Page/스다_마사키.md "wikilink") 외)
   - 《[당신 차례입니다](https://ko.wikipedia.org/wiki/당신_차례입니다 "wikilink")》 (출연 : [하라다 토모요](../Page/하라다_토모요.md "wikilink")·[타나카 케이](https://ko.wikipedia.org/wiki/타나카_케이 "wikilink") 외)
   - 《[닛폰 느와르\~형사 Y의 반란\~](https://ko.wikipedia.org/wiki/닛폰_느와르~형사_Y의_반란~ "wikilink")》(출연 : 카쿠 켄토 외)
 
@@ -51,5 +51,9 @@
   - [간사이 TV 화요일 밤 9시 드라마](../Page/간사이_TV_화요일_밤_9시_드라마.md "wikilink")
   - [요미우리 TV 목요드라마](../Page/요미우리_TV_목요드라마.md "wikilink")
   - [어른의 토드라](../Page/어른의_토드라.md "wikilink")
+
+## 외부 링크
+
+  - [닛폰 TV 방송망 드라마](https://www.ntv.co.jp/drama/)
 
 [\*](https://ko.wikipedia.org/wiki/분류:닛폰_TV_일요일_밤_10시_30분_드라마 "wikilink") [분류:닛폰 TV의 드라마](https://ko.wikipedia.org/wiki/분류:닛폰_TV의_드라마 "wikilink")

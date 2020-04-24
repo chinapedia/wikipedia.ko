@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TvN ](https://ko.wikipedia.org/wiki/TvN_).
+> This article is converted from Wikipedia: [TvN 불금불토드라마](https://ko.wikipedia.org/wiki/TvN_불금불토드라마).
 
 
 **tvN 불금불토드라마**는 [tvN](https://ko.wikipedia.org/wiki/tvN "wikilink")에서 매주 [금요일](../Page/금요일.md "wikilink") 밤 11시에 방영되는 [텔레비전 드라마다](../Page/텔레비전_드라마.md "wikilink").
@@ -31,7 +31,7 @@
 #### 2019년
 
   - 《[막돼먹은 영애씨 17](../Page/막돼먹은_영애씨_17.md "wikilink")》 : 2019년 2월 8일 \~ 2019년 4월 26일
-  - 《[쌉니다 천리마마트](https://ko.wikipedia.org/wiki/쌉니다_천리마마트_\(드라마\) "wikilink")》 : 2019년 9월 20일 \~ 2019년 12월 6일
+  - 《[쌉니다 천리마마트](../Page/쌉니다_천리마마트_\(드라마\).md "wikilink")》 : 2019년 9월 20일 \~ 2019년 12월 6일
 
 #### 2020년
 

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ \(Sunrise\)](https://ko.wikipedia.org/wiki/_\(Sunrise\)).
+> This article is converted from Wikipedia: [해야 \(Sunrise\)](https://ko.wikipedia.org/wiki/해야_\(Sunrise\)).
 
 
 〈**해야 (Sunrise)**〉(해야 (선라이즈))는 2019년 1월 14일 발매된 [여자친구의](../Page/여자친구_\(음악_그룹\).md "wikilink") 두 번째 정규 음반 《[Time for us](../Page/Time_for_us.md "wikilink")》의 타이틀 곡이다. 이 노래는 〈[밤 (Time for the moon night)](../Page/밤_\(Time_for_the_moon_night\).md "wikilink")〉과 이어지는 내용의 곡으로, 좋아하는 사람을 떠오르지 않은 해에 비유한 가사가 특징이다.\[1\] [쏘스뮤직](../Page/쏘스뮤직.md "wikilink") 소속 프로듀서인 노주환과 도로시컴퍼니(Dorothy Company) 소속 작곡가인 이원종\[2\]이 제작하였다.

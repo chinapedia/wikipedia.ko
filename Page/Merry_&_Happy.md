@@ -5,7 +5,7 @@
 
 ## 개요
 
-  - [박진영](../Page/박진영.md "wikilink")이 작사한 [캐럴](https://ko.wikipedia.org/wiki/캐럴 "wikilink")인 'Merry & Happy'가 추가되었다.\<\!--
+  - [박진영](../Page/박진영.md "wikilink")이 작사한 [캐럴](../Page/캐럴.md "wikilink")인 'Merry & Happy'가 추가되었다.\<\!--
 
 \--\>\[1\] \[2\]
 

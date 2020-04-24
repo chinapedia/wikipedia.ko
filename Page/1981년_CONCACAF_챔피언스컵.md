@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [1981 CONCACAF ](https://ko.wikipedia.org/wiki/1981_CONCACAF_).
+> This article is converted from Wikipedia: [1981년 CONCACAF 챔피언스컵](https://ko.wikipedia.org/wiki/1981년_CONCACAF_챔피언스컵).
 
 
 **1981년 CONCACAF 챔피언스컵**(1981 CONCACAF Champions' Cup)은 [1981년](../Page/1981년.md "wikilink") [4월 26일부터](../Page/4월_26일.md "wikilink") [1982년](../Page/1982년.md "wikilink") [2월 2일까지](../Page/2월_2일.md "wikilink") 개최된 CONCACAF 챔피언스컵(현재의 [CONCACAF 챔피언스리그](../Page/CONCACAF_챔피언스리그.md "wikilink"))의 17번째 대회이다. [수리남](../Page/수리남.md "wikilink")의 [트란스발이](../Page/SV_트란스발.md "wikilink") 결승전에서 [엘살바도르](../Page/엘살바도르.md "wikilink")의 [아틀레티코 마르테를](https://ko.wikipedia.org/wiki/CD_아틀레티코_마르테 "wikilink") 누르고 우승을 차지했다.

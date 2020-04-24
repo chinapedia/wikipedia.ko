@@ -39,11 +39,11 @@
 | [2011년](../Page/2011년_한국프로야구.md "wikilink")                    | [오재원](../Page/오재원.md "wikilink")                              | [두산 베어스](../Page/두산_베어스.md "wikilink")                        | 46     |             |
 | [2012년](https://ko.wikipedia.org/wiki/2012년_한국프로야구 "wikilink") | [이용규](../Page/이용규.md "wikilink")                              | [KIA 타이거즈](https://ko.wikipedia.org/wiki/KIA_타이거즈 "wikilink") | 44     |             |
 | [2013년](https://ko.wikipedia.org/wiki/2013년_한국프로야구 "wikilink") | [김종호](../Page/김종호_\(1984년\).md "wikilink")                    | [NC 다이노스](../Page/NC_다이노스.md "wikilink")                      | 50     |             |
-| [2014년](../Page/2014년_한국프로야구.md "wikilink")                    | [김상수](../Page/김상수_\(1990년\).md "wikilink")                    | [삼성 라이온즈](https://ko.wikipedia.org/wiki/삼성_라이온즈 "wikilink")   | 53     |             |
-| [2015년](../Page/2015년_KBO_리그.md "wikilink")                    | [박해민](../Page/박해민.md "wikilink")                              | [삼성 라이온즈](https://ko.wikipedia.org/wiki/삼성_라이온즈 "wikilink")   | 60     |             |
-| [2016년](../Page/2016년_KBO_리그.md "wikilink")                    | [박해민](../Page/박해민.md "wikilink")                              | [삼성 라이온즈](https://ko.wikipedia.org/wiki/삼성_라이온즈 "wikilink")   | 52     |             |
-| [2017년](../Page/2017년_KBO_리그.md "wikilink")                    | [박해민](../Page/박해민.md "wikilink")                              | [삼성 라이온즈](https://ko.wikipedia.org/wiki/삼성_라이온즈 "wikilink")   | 40     |             |
-| [2018년](../Page/2018년_KBO_리그.md "wikilink")                    | [박해민](../Page/박해민.md "wikilink")                              | [삼성 라이온즈](https://ko.wikipedia.org/wiki/삼성_라이온즈 "wikilink")   | 36     |             |
+| [2014년](../Page/2014년_한국프로야구.md "wikilink")                    | [김상수](../Page/김상수_\(1990년\).md "wikilink")                    | [삼성 라이온즈](../Page/삼성_라이온즈.md "wikilink")                      | 53     |             |
+| [2015년](../Page/2015년_KBO_리그.md "wikilink")                    | [박해민](../Page/박해민.md "wikilink")                              | [삼성 라이온즈](../Page/삼성_라이온즈.md "wikilink")                      | 60     |             |
+| [2016년](../Page/2016년_KBO_리그.md "wikilink")                    | [박해민](../Page/박해민.md "wikilink")                              | [삼성 라이온즈](../Page/삼성_라이온즈.md "wikilink")                      | 52     |             |
+| [2017년](../Page/2017년_KBO_리그.md "wikilink")                    | [박해민](../Page/박해민.md "wikilink")                              | [삼성 라이온즈](../Page/삼성_라이온즈.md "wikilink")                      | 40     |             |
+| [2018년](../Page/2018년_KBO_리그.md "wikilink")                    | [박해민](../Page/박해민.md "wikilink")                              | [삼성 라이온즈](../Page/삼성_라이온즈.md "wikilink")                      | 36     |             |
 | [2019년](../Page/2019년_KBO_리그.md "wikilink")                    | [박찬호](https://ko.wikipedia.org/wiki/박찬호_\(내야수\) "wikilink")   | [KIA 타이거즈](https://ko.wikipedia.org/wiki/KIA_타이거즈 "wikilink") | 39     |             |
 
 ## 출처

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [GalliumOS](https://ko.wikipedia.org/wiki/GalliumOS).
 
 
-**GalliumOS**는 [크롬 OS](../Page/크롬_OS.md "wikilink") 장치용 [리눅스 배포판의](../Page/리눅스_배포판.md "wikilink") 하나로, 공동체가 후원하는 GalliumOS 프로젝트에 의해 개발되었다. 이 배포판은 [크롬북](https://ko.wikipedia.org/wiki/크롬북 "wikilink"), [크롬박스](https://ko.wikipedia.org/wiki/크롬박스 "wikilink"), [크롬빗](https://ko.wikipedia.org/wiki/크롬빗 "wikilink"), [크롬북](https://ko.wikipedia.org/wiki/크롬북 "wikilink")을 포함한 크롬 하드웨어용으로 개발되었다. 2015년 11월 10일 GalliumOS 베타1이 출시되었다.
+**GalliumOS**는 [크롬 OS](../Page/크롬_OS.md "wikilink") 장치용 [리눅스 배포판의](../Page/리눅스_배포판.md "wikilink") 하나로, 공동체가 후원하는 GalliumOS 프로젝트에 의해 개발되었다. 이 배포판은 [크롬북](https://ko.wikipedia.org/wiki/크롬북 "wikilink"), [크롬박스](../Page/크롬박스.md "wikilink"), [크롬빗](https://ko.wikipedia.org/wiki/크롬빗 "wikilink"), [크롬북](https://ko.wikipedia.org/wiki/크롬북 "wikilink")을 포함한 크롬 하드웨어용으로 개발되었다. 2015년 11월 10일 GalliumOS 베타1이 출시되었다.
 
 ## 기능
 

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SEPTA 15](https://ko.wikipedia.org/wiki/SEPTA_15).
+> This article is converted from Wikipedia: [SEPTA 15호선](https://ko.wikipedia.org/wiki/SEPTA_15호선).
 
 
 **SEPTA 15호선** 또는 **지라드 애비뉴 선**(Girard Avenue Line)은 [미국](../Page/미국.md "wikilink") [펜실베이니아 주](https://ko.wikipedia.org/wiki/펜실베이니아_주 "wikilink") [북부](https://ko.wikipedia.org/wiki/노스필라델피아 "wikilink") 및 [서부](https://ko.wikipedia.org/wiki/웨스트필라델피아 "wikilink") [필라델피아](../Page/필라델피아.md "wikilink")를 통과하는 지라드 애비뉴(Girard Avenue)에서 운용되는 트롤리 노선으로, 펜실베이니아 남동 교통국([SEPTA](../Page/SEPTA.md "wikilink"))에서 운영하고 있다. 2007년 현재, [지하철-지상 트롤리 노선의](../Page/SEPTA_서브웨이-서페이스_트롤리_선.md "wikilink") 일부가 아닌 유일한 [도시 교통 부문의](https://ko.wikipedia.org/wiki/SEPTA_시티_트랜싯_디비전_서페이스_루트 "wikilink") 지상 트롤리 선이다. (SEPTA의 철도 노선도에서 지정되었지만) SEPTA PCC II 차량이 노선에 사용된다.
@@ -15,7 +15,7 @@
 
 15번 노선은 9번가에서 SEPTA 메인 라인의 동부 구간이 교차하고, 지라드 매디컬 센터(Girard Medical Center)을 지난다. [프론트 스트리트](https://ko.wikipedia.org/wiki/프론트_스트리트 "wikilink")(Front Street)의 15번 구간 아래로 [마켓-프랭크포드 선의](https://ko.wikipedia.org/wiki/마켓-프랭크포드_선 "wikilink") [지라드 역이](https://ko.wikipedia.org/wiki/지라드_역_\(마켓-프랭크포드_선\) "wikilink") 위치한다.
 
-2011년에 SEPTA는 프랭크포드와 델라웨어 애비뉴 교차로에서 15번 노선을 위한 새로운 루프를 완공했으며, 지라드(Girard)에서 프랭크포드를 따라 새로운 경로를 통해 도달한다. 2012년 4월 29일에 SEPTA는 이 루프를 이용하기 시작했다. 이 루프는 2010년 9월에 개장한 슈거하우스 카지노(SugarHouse Casino) 건너편에 있으며, 마켓-프랭크포드 선의 프론트 스트리트 및 지라드에서 높은 승객 이동률로 인한 자연스러운 전환점이기도 하다. 이 루프는 SEPTA가 리치먼드 스트리트(Richmond Street)를 따라 [주간고속도로 제95호선](../Page/주간고속도로_제95호선.md "wikilink") 재건축으로 인해(아래 섹션 참조) 2012년 봄과 2012년 말 사이에 지라드 애비뉴(Girard Ave)와 앤 스트리트(Ann Street) 사이의 리치먼드에서 트랙을 대체가 완료 될 때 까지 15번 노선의 임시 동부 터미널이 될 것이다.\[5\]
+2011년에 SEPTA는 프랭크포드와 델라웨어 애비뉴 교차로에서 15번 노선을 위한 새로운 루프를 완공했으며, 지라드(Girard)에서 프랭크포드를 따라 새로운 경로를 통해 도달한다. 2012년 4월 29일에 SEPTA는 이 루프를 이용하기 시작했다. 이 루프는 2010년 9월에 개장한 슈거하우스 카지노(SugarHouse Casino) 건너편에 있으며, 마켓-프랭크포드 선의 프론트 스트리트 및 지라드에서 높은 승객 이동률로 인한 자연스러운 전환점이기도 하다. 이 루프는 SEPTA가 리치먼드 스트리트(Richmond Street)를 따라 [주간고속도로 제95호선](../Page/주간고속도로_제95호선.md "wikilink") 재건축으로 인해(아래 섹션 참조) 2012년 봄과 2012년 말 사이에 지라드 애비뉴(Girard Ave)와 앤 스트리트(Ann Street) 사이의 리치먼드에서 트랙을 대체가 완료될 때까지 15번 노선의 임시 동부 터미널이 될 것이다.\[5\]
 
 지라드 애비뉴는 [I-95의](../Page/주간고속도로_제95호선.md "wikilink") 23번 출구에서 끝난다. 15번 노선은 고속도로 아래로 리치먼드 스트리트로 I-95와 평행을 이루며 북쪽에서 남쪽으로 25번 출구 건너편 앨리게니 애비뉴(Allegheny Avenue)와 교차한다. 이곳에서 이전 트롤리 라인인 [SEPTA 60호선](https://ko.wikipedia.org/wiki/SEPTA_60호선 "wikilink") 버스에 연결된다. 리치먼드 스트리트와 웨스트모어랜드 스트리트(Westmoreland Street) 교차로의 남서쪽 모퉁이에있는 웨스트모어랜드 루프(Westmoreland Loop)의 15번 노선 동쪽 종점 앞의 리치먼드 운동장(Richmond Playground)을 따라 도로가 이어진다.
 
@@ -27,7 +27,7 @@
 
 1866년에는 파머 스트리트(Palmer Street)의 동쪽 구간이 확장 개통되었다.(파머,비치,샤카막슨 스트리트에 걸쳐서\[9\]) 그리고 1875년 노리스 스트리트까지 확장되었다.\[10\] [피플스 여객 철도](https://ko.wikipedia.org/wiki/피플스_여객_철도 "wikilink")(\[People's Passenger Railway)는 1881년 10월 1일에 노선을 임대했으며, **지라드 애비뉴 철도**(Girard Avenue Railway)를 1896년 6월 22일에 임대했다.(1894년 5월 17일 공인)\[11\] 1900년에 서쪽으로 60번가까지 연장했다.\[12\] 유니언 견인 회사(Union Traction Company)는 1896년 7월 1일 피플스 여객 철도를 임대하여 필라델피아의 거의 모든 노면 철도를 관리하게 되었다.\[13\] 지라드 애비뉴 차량은 1903년에 서쪽으로 63번가, 동쪽으로 앨리게니 애비뉴(Allegheny Avenue) - 전기 견인 회사(Electric Traction Company)의 [브라이즈버그 선](https://ko.wikipedia.org/wiki/브라이즈버그_선 "wikilink")(Bridesburg Line)을 따라 리치먼드 스트리트 후방의 확장 - 로 확장되었고,\[14\] 브라이즈버그 선을 [브라이즈버그](https://ko.wikipedia.org/wiki/브라이즈버그_\(필라델피아\) "wikilink") 행으로 대체하였다. 1992년, SEPTA는 15번, [23번](https://ko.wikipedia.org/wiki/SEPTA_23호선 "wikilink"), [56번의](https://ko.wikipedia.org/wiki/SEPTA_56호선 "wikilink") 트롤리 서비스를 버스로 대체했다.
 
-[PCC 카는](https://ko.wikipedia.org/wiki/PCC_카 "wikilink") 주말에 캘로힐 차량기지에서 전후 차를 사용하여 1948년 일요일(그리고 토요일은 물론 나중에) 15번 노선에 처음으로 도입되었다. 1955 년 6 월 [세인트루이스](../Page/세인트루이스.md "wikilink") 와 [캔자스시티](https://ko.wikipedia.org/wiki/캔자스시티 "wikilink")에서 PCC 카를 구입했을 때 다른 선로에서 온 전후 차가 쏟아져왔고, 이후 15일에 모든 서비스를 제공했다.\[15\] PCC는 1992년 SEPTA가 버스로 교체할 때 까지 모든 트롤리 서비스를 제공했다. 트롤리 서비스는 10번 노선의 [가와사키](https://ko.wikipedia.org/wiki/가와사키_중공업_차량_회사 "wikilink") 차량을 사용하여, 1990년에 15번 노선에 잠시 반환되었는데, 이후 10번 노선의 노선 부분을 따라 수도 본관 교체에 의해 일시적으로 흑자를 기록하기도 했다.
+[PCC 카는](https://ko.wikipedia.org/wiki/PCC_카 "wikilink") 주말에 캘로힐 차량기지에서 전후 차를 사용하여 1948년 일요일(그리고 토요일은 물론 나중에) 15번 노선에 처음으로 도입되었다. 1955년 6월 [세인트루이스](../Page/세인트루이스.md "wikilink") 와 [캔자스시티](https://ko.wikipedia.org/wiki/캔자스시티 "wikilink")에서 PCC 카를 구입했을 때 다른 선로에서 온 전후 차가 쏟아져왔고, 이후 15일에 모든 서비스를 제공했다.\[15\] PCC는 1992년 SEPTA가 버스로 교체할 때까지 모든 트롤리 서비스를 제공했다. 트롤리 서비스는 10번 노선의 [가와사키](https://ko.wikipedia.org/wiki/가와사키_중공업_차량_회사 "wikilink") 차량을 사용하여, 1990년에 15번 노선에 잠시 반환되었는데, 이후 10번 노선의 노선 부분을 따라 수도 본관 교체에 의해 일시적으로 흑자를 기록하기도 했다.
 
 ## 2005년 복원
 

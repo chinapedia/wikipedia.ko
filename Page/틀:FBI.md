@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:FBI](https://ko.wikipedia.org/wiki/:FBI).
+> This article is converted from Wikipedia: [틀:FBI](https://ko.wikipedia.org/wiki/틀:FBI).
 
 
 {{Navbox |name = FBI |title = [{{color](../Page/연방수사국.md "wikilink") |listclass = hlist |image = [Seal_of_the_Federal_Bureau_of_Investigation.svg](https://ko.wikipedia.org/wiki/File:Seal_of_the_Federal_Bureau_of_Investigation.svg "fig:Seal_of_the_Federal_Bureau_of_Investigation.svg")

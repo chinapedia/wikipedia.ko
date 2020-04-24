@@ -33,7 +33,7 @@
 </tr>
 <tr class="even">
 <td><p>2017년 12월 15일</p></td>
-<td><p><a href="../Page/서울특별시.md" title="wikilink">서울</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/서울" title="wikilink">서울</a></p></td>
 <td></td>
 <td><p><a href="../Page/잠실실내체육관.md" title="wikilink">잠실실내체육관</a>[4]</p></td>
 <td><p>통산 33,852명</p></td>
@@ -75,7 +75,7 @@
 </tr>
 <tr class="even">
 <td><p>2018년 3월 31일</p></td>
-<td><p><a href="../Page/타이베이시.md" title="wikilink">타이베이</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/타이베이" title="wikilink">대북</a></p></td>
 <td></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/타이베이_아레나" title="wikilink">타이베이 아레나</a>[6]</p></td>
 <td><p>통산 27,796명</p></td>
@@ -159,7 +159,7 @@
 </tr>
 <tr class="even">
 <td><p>2018년 11월 30일</p></td>
-<td><p><a href="../Page/도쿄.md" title="wikilink">도쿄</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/동경" title="wikilink">동경</a></p></td>
 <td></td>
 <td><p><a href="../Page/도쿄_돔.md" title="wikilink">도쿄 돔</a>[12]</p></td>
 <td><p>통산 114,182명</p></td>

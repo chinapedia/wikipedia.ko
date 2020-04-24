@@ -5,7 +5,7 @@
 
 ## 초기 생애
 
-[1895년](../Page/1895년.md "wikilink") [6월 1일](../Page/6월_1일.md "wikilink") [펜실베이니아주](../Page/펜실베이니아주.md "wikilink") [필라델피아](../Page/필라델피아.md "wikilink")에서 태어났다. 그는 [미국 육군사관학교를](https://ko.wikipedia.org/wiki/미국_육군사관학교 "wikilink") [1917년](../Page/1917년.md "wikilink") 졸업하였으며, 동기로는 [J. 로턴 콜린스](../Page/J._로턴_콜린스.md "wikilink"), [매슈 리지웨이](../Page/매슈_리지웨이.md "wikilink"), [마크 웨인 클라크가](../Page/마크_웨인_클라크.md "wikilink") 있었다.\[1\]
+[1895년](../Page/1895년.md "wikilink") [6월 1일](../Page/6월_1일.md "wikilink") [펜실베이니아주](../Page/펜실베이니아주.md "wikilink") [필라델피아](../Page/필라델피아.md "wikilink")에서 태어났다. 그는 [미국 육군사관학교를](../Page/미국_육군사관학교.md "wikilink") [1917년](../Page/1917년.md "wikilink") 졸업하였으며, 동기로는 [J. 로턴 콜린스](../Page/J._로턴_콜린스.md "wikilink"), [매슈 리지웨이](../Page/매슈_리지웨이.md "wikilink"), [마크 웨인 클라크가](../Page/마크_웨인_클라크.md "wikilink") 있었다.\[1\]
 
 ## 군사 경력
 

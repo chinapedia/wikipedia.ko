@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [RED MOON \(마마무의 음반\)](https://ko.wikipedia.org/wiki/RED_MOON_\(마마무의_음반\)).
 
 
-《**RED MOON**》(레드 문)은 대한민국의 걸 그룹 [마마무](../Page/마마무.md "wikilink")의 일곱 번째 미니 음반으로, 2018년 7월 16일 발매되었다. 타이틀 곡은 〈너나 해 (Egotistic)〉이다.
+《**RED MOON**》(레드 문)은 [대한민국](../Page/대한민국.md "wikilink")의 [걸 그룹](../Page/걸_그룹.md "wikilink") [마마무](../Page/마마무.md "wikilink")의 일곱 번째 미니 음반으로, 2018년 7월 16일 발매되었다. 타이틀 곡은 〈너나 해 (Egotistic)〉이다.
 
 ## 개요
 

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Mixtape \(  \)](https://ko.wikipedia.org/wiki/Mixtape_\(__\)).
+> This article is converted from Wikipedia: [Mixtape \(스트레이 키즈의 음반\)](https://ko.wikipedia.org/wiki/Mixtape_\(스트레이_키즈의_음반\)).
 
 
 《**Mixtape**》는 2018년 1월 8일에 발매한 [스트레이 키즈의](../Page/스트레이_키즈.md "wikilink") 프리 데뷔 음반이다.\[1\]

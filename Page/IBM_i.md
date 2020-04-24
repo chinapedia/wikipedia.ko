@@ -150,7 +150,7 @@
   - [IBM i Software lifecycle](https://www-01.ibm.com/software/support/ibmi/lifecycle/)
   - [IBM i Technology Updates](https://www.ibm.com/developerworks/community/wikis/home?lang=en#!/wiki/IBM%20i%20Technology%20Updates)
   - [IBM i Upgrade planning:Releases](https://www-01.ibm.com/support/docview.wss?uid=nas8N1022027)
-  - [IBM Systems IBM i Magazine](http://ibmsystemsmag.com/ibmi/)
+  - [IBM Systems IBM i Magazine](https://web.archive.org/web/20190315112844/http://ibmsystemsmag.com/ibmi/)
   - [IBM developerWorks: Articles, tutorials, and technical resources for IBM i users](http://www.ibm.com/developerworks/ibmi/)
   - [IBM i Wiki: A collaborative environment for the sharing of technical information related to IBM i](https://www.ibm.com/developerworks/community/wikis/home?lang=en#/wiki/Power%20Systems/page/IBM%20i)
   - [IBM developerWorks Article: New to IBM i](http://www.ibm.com/developerworks/ibmi/newto/)

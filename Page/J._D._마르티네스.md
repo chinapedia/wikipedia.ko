@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [J. D. ](https://ko.wikipedia.org/wiki/J._D._).
+> This article is converted from Wikipedia: [J. D. 마르티네스](https://ko.wikipedia.org/wiki/J._D._마르티네스).
 
 
 **훌리오 다니엘 마르티네스**(Julio Daniel Martinez, [1987년](../Page/1987년.md "wikilink") [8월 21일](../Page/8월_21일.md "wikilink") \~ )는 [미국](../Page/미국.md "wikilink")의 [야구](../Page/야구.md "wikilink") 선수로, 메이저 리그에 소속되어 있는 [보스턴 레드삭스의](../Page/보스턴_레드삭스.md "wikilink") 외야수이다.

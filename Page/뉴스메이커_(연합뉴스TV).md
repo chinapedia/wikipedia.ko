@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ \(TV\)](https://ko.wikipedia.org/wiki/_\(TV\)).
+> This article is converted from Wikipedia: [뉴스메이커 \(연합뉴스TV\)](https://ko.wikipedia.org/wiki/뉴스메이커_\(연합뉴스TV\)).
 
 
 《**뉴스메이커**》는 [연합뉴스TV](../Page/연합뉴스TV.md "wikilink")에서 평일 저녁 6시 30분, 주말 저녁 7시에 방송되는 [연합뉴스TV](../Page/연합뉴스TV.md "wikilink")의 저녁뉴스 프로그램이다. 주말, 공휴일에는 **뉴스 19**라는 타이틀로 방송된다.

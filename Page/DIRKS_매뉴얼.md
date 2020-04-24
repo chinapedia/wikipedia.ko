@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [DIRKS ](https://ko.wikipedia.org/wiki/DIRKS_).
+> This article is converted from Wikipedia: [DIRKS 매뉴얼](https://ko.wikipedia.org/wiki/DIRKS_매뉴얼).
 
 
 **DIRKS 매뉴얼**(, DIRKS manual)은 1996년 [오스트레일리아](../Page/오스트레일리아.md "wikilink") [뉴사우스웨일스주](../Page/뉴사우스웨일스주.md "wikilink")의 보존기록담당부서가 진행한 전자기록관리프로젝트를 통해 개발되기 시작하였고, 이후 호주국립보존기록관(NAA)과 협력하여 2000년에 발표되었다.

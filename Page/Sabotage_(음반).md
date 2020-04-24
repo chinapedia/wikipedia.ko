@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Sabotage \(\)](https://ko.wikipedia.org/wiki/Sabotage_\(\)).
+> This article is converted from Wikipedia: [Sabotage \(음반\)](https://ko.wikipedia.org/wiki/Sabotage_\(음반\)).
 
 
 《**Sabotage**》는 1975년 7월에 발매된 [영국](../Page/영국.md "wikilink")의 록 밴드 [블랙 사바스의](../Page/블랙_사바스.md "wikilink") 여섯 번째 스튜디오 음반이다. 그것은 그들의 전 매니저인 패트릭 미한과 소송 중에 녹음되었고 이 밴드의 계속되는 법적 문제로 인한 스트레스가 녹음 과정에 침투하여 음반의 제목을 고무시켰다. 그리고 이 음반은 기타리스트 [토니 아이오미와](https://ko.wikipedia.org/wiki/토니_아이오미 "wikilink") 마이크 버처가 공동 제작했다.

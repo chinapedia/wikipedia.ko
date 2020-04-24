@@ -29,7 +29,7 @@
 
 [퀸이](../Page/퀸_\(밴드\).md "wikilink") 최소 1970년부터 고전 로큰롤 히트곡을 어른 메들리로서 이 곡을 연예해 왔다고 한다.\[11\] 또한 1979년 [크레이지 투어](https://ko.wikipedia.org/wiki/크레이지_투어 "wikilink") 및 1980년 정규앨범 《[The Game](../Page/The_Game_\(퀸의_음반\).md "wikilink")》의 홍보투어 [노스 아메리카 투어에서](https://ko.wikipedia.org/wiki/노스_아메리카_투어 "wikilink") 개막 공연으로 연예했다.
 
-장편영화 《[블루스 브라더스](https://ko.wikipedia.org/wiki/블루스_브라더스 "wikilink")》의 종막을 장식하는 곡이다. 1995년 영화 《[캐스퍼](../Page/캐스퍼_\(영화\).md "wikilink")》 및 2006년 텔레비전 애니메이션 영화 《[리로이 & 스티치](../Page/리로이_&_스티치.md "wikilink")》에 삽입되었다.
+장편영화 《[블루스 브라더스](../Page/블루스_브라더스.md "wikilink")》의 종막을 장식하는 곡이다. 1995년 영화 《[캐스퍼](../Page/캐스퍼_\(영화\).md "wikilink")》 및 2006년 텔레비전 애니메이션 영화 《[리로이 & 스티치](../Page/리로이_&_스티치.md "wikilink")》에 삽입되었다.
 
 ## 각주
 

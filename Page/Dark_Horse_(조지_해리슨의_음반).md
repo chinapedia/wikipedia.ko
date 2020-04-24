@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Dark Horse \(  \)](https://ko.wikipedia.org/wiki/Dark_Horse_\(__\)).
+> This article is converted from Wikipedia: [Dark Horse \(조지 해리슨의 음반\)](https://ko.wikipedia.org/wiki/Dark_Horse_\(조지_해리슨의_음반\)).
 
 
 《**Dark Horse**》는 1974년 12월 [애플 레코드에](../Page/애플_레코드.md "wikilink") 발매된 [영국](../Page/영국.md "wikilink")의 록 음악가 [조지 해리슨의](../Page/조지_해리슨.md "wikilink") 다섯 번째 스튜디오 음반이다. 《Dark Horse》는 개봉될 예정이었지만 해리슨이 11월과 12월에 [인도](../Page/인도.md "wikilink")의 고전 음악가 [라비 샹카르와](../Page/라비_샹카르.md "wikilink") 무대에 섰던 논란이 많은 북미 투어와 관련이 있다. 이것은 [비틀즈](../Page/비틀즈.md "wikilink")의 한 멤버가 1966년 이후 처음으로 미국 순회공연을 한 후 해리슨이 리허설 중에 [후두염](https://ko.wikipedia.org/wiki/후두염 "wikilink")에 걸리며 일부 음악 비평가들이 샹카르에게 매우 영향력 있는 리뷰를 선택하는 것과 함께 이어졌다.

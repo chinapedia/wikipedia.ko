@@ -186,7 +186,7 @@
 <td><p>y=190|text=<font size=2 color="yellow"><strong><a href="../Page/사샤_오그네노브스키.md" title="wikilink">사샤</a></strong></font>}}{{그림 꼬리표</p></td>
 <td><p>y=170|text=<font size=2 color="yellow"><strong><a href="../Page/김태윤_(축구_선수).md" title="wikilink">김태윤</a></strong></font>}}{{그림 꼬리표</p></td>
 <td><p>y=95|text=<font size=2 color="yellow"><strong><a href="../Page/조재철.md" title="wikilink">조재철</a></strong></font>}}{{그림 꼬리표</p></td>
-<td><p>y=120|text=<font size=2 color="yellow"><strong><a href="https://ko.wikipedia.org/wiki/김성환" title="wikilink">김성환</a></strong></font>}}{{그림 꼬리표</p></td>
+<td><p>y=120|text=<font size=2 color="yellow"><strong><a href="../Page/김성환_(축구_선수).md" title="wikilink">김성환</a></strong></font>}}{{그림 꼬리표</p></td>
 <td><p>y=120|text=<font size=2 color="yellow"><strong><a href="https://ko.wikipedia.org/wiki/김철호" title="wikilink">김철호</a></strong></font>}}{{그림 꼬리표</p></td>
 <td><p>y=95|text=<font size=2 color="yellow"><strong><a href="https://ko.wikipedia.org/wiki/마우리시오_몰리나" title="wikilink">몰리나</a></strong></font>}}{{그림 꼬리표</p></td>
 <td><p>y=50|text=<font size=2 color="yellow"><strong><a href="https://ko.wikipedia.org/wiki/송호영" title="wikilink">송호영</a></strong></font>}}{{그림 꼬리표</p></td>

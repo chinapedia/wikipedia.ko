@@ -7,7 +7,7 @@
 
 ## 역사
 
-Philipp Haller에 의해 작성된 actor 구현은, 2006년 7월에 스칼라의 2.1.7의 일부로 릴리즈 되었다.\[2\] 2008년 스칼라는 복잡한 서버 애플리케이션에서의 사용에 대해 주목하였지만, 동시성은 아직도 [스레드](https://ko.wikipedia.org/wiki/스레드 "wikilink")(thread)-[공유 메모리](../Page/공유_메모리.md "wikilink")(shared memory)와 락(lock)을 필수적으로 사용하여 싱크를 맞추는-를 생성하는 전형적인 방식으로 이뤄지고 있다 . 이러한 접근 방식으로 생겨나는 어려움을 인식하고 [얼랭](../Page/얼랭.md "wikilink") 프로그래밍 언어의 라이브러리가 지원하는 고도의 동시성 쓰기, 이벤트 주도 애플리케이션으로부터 영감을 얻어, Jonas Bonér가 스칼라와 자바에 유사한 기능을 도입하기위해 Akka를 만들었다. Bonér는 2009 년 초부터\[3\] Akka를 작업하기 시작했고, 그 해에 그것에 대한 그의 비전을 작성했다.\[4\] 첫 공식 릴리즈는 Akka 0.5로,\[5\] 2010년 1월에 발표되었다.\[6\] Akka 이제 Play 프레임워크, [스칼라](https://ko.wikipedia.org/wiki/스칼라 "wikilink") 프로그래밍 언어와와 함께 L[ightbend](http://www.lightbend.com/) 플랫폼의 일부이다.
+Philipp Haller에 의해 작성된 actor 구현은, 2006년 7월에 스칼라의 2.1.7의 일부로 릴리즈 되었다.\[2\] 2008년 스칼라는 복잡한 서버 애플리케이션에서의 사용에 대해 주목하였지만, 동시성은 아직도 [스레드](https://ko.wikipedia.org/wiki/스레드 "wikilink")(thread)-[공유 메모리](../Page/공유_메모리.md "wikilink")(shared memory)와 락(lock)을 필수적으로 사용하여 싱크를 맞추는-를 생성하는 전형적인 방식으로 이뤄지고 있다. 이러한 접근 방식으로 생겨나는 어려움을 인식하고 [얼랭](../Page/얼랭.md "wikilink") 프로그래밍 언어의 라이브러리가 지원하는 고도의 동시성 쓰기, 이벤트 주도 애플리케이션으로부터 영감을 얻어, Jonas Bonér가 스칼라와 자바에 유사한 기능을 도입하기위해 Akka를 만들었다. Bonér는 2009 년 초부터\[3\] Akka를 작업하기 시작했고, 그 해에 그것에 대한 그의 비전을 작성했다.\[4\] 첫 공식 릴리즈는 Akka 0.5로,\[5\] 2010년 1월에 발표되었다.\[6\] Akka 이제 Play 프레임워크, [스칼라](https://ko.wikipedia.org/wiki/스칼라 "wikilink") 프로그래밍 언어와와 함께 L[ightbend](http://www.lightbend.com/) 플랫폼의 일부이다.
 
 ## 특징
 

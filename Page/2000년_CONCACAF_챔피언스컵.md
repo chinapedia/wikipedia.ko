@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [2000 CONCACAF ](https://ko.wikipedia.org/wiki/2000_CONCACAF_).
+> This article is converted from Wikipedia: [2000년 CONCACAF 챔피언스컵](https://ko.wikipedia.org/wiki/2000년_CONCACAF_챔피언스컵).
 
 
 **2000년 CONCACAF 챔피언스컵**(2000 CONCACAF Champions' Cup)은 [2001년](../Page/2001년.md "wikilink") [1월 16일부터](../Page/1월_16일.md "wikilink") [1월 21일까지](../Page/1월_21일.md "wikilink") 개최된 CONCACAF 챔피언스컵(현재의 [CONCACAF 챔피언스리그](../Page/CONCACAF_챔피언스리그.md "wikilink"))의 36번째 대회이다. [미국](../Page/미국.md "wikilink")의 [로스앤젤레스 갤럭시가](../Page/로스앤젤레스_갤럭시.md "wikilink") 결승전에서 [온두라스](../Page/온두라스.md "wikilink")의 [올림피아를](https://ko.wikipedia.org/wiki/CD_올림피아 "wikilink") 누르고 우승을 차지했다.

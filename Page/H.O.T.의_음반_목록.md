@@ -84,10 +84,10 @@
 
 ## 참여 음반
 
-  - 2000년 - Winter Vacation In SM Town.com
-  - 2000년 12월 14일 - Christmas In Smtown
-  - 2001년 5월 - SM Best Album 2
-  - 2002년 12월 13일 - Unforgettable
+  - 1999년 12월 1일 - Christmas In SMTOWN.com
+  - 2000년 12월 8일 - Winter Vacation In SMTOWN.com
+  - 2001년 5월 1일 - SM Best Album 2
+  - 2002년 12월 13일 - Unforgettable : Listen To My Word
 
 ## 콘서트 비디오
 

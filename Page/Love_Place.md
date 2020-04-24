@@ -14,6 +14,6 @@
 
 ## 외부 링크
 
-  - [공식 소개 페이지](http://www.nishinokana.com/disco/archive/?SECL-1180)
+  - [공식 소개 페이지](https://web.archive.org/web/20181114060519/http://www.nishinokana.com/disco/archive/?SECL-1180)
 
 [분류:2012년 음반](https://ko.wikipedia.org/wiki/분류:2012년_음반 "wikilink") [분류:니시노 카나의 음반](https://ko.wikipedia.org/wiki/분류:니시노_카나의_음반 "wikilink") [분류:일본어 음반](https://ko.wikipedia.org/wiki/분류:일본어_음반 "wikilink")

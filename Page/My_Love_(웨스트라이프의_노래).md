@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [My Love \( \)](https://ko.wikipedia.org/wiki/My_Love_\(_\)).
+> This article is converted from Wikipedia: [My Love \(웨스트라이프의 노래\)](https://ko.wikipedia.org/wiki/My_Love_\(웨스트라이프의_노래\)).
 
 
 〈**My Love**〉는 [아일랜드](../Page/아일랜드.md "wikilink")의 [보이 밴드](https://ko.wikipedia.org/wiki/보이_밴드 "wikilink") [웨스트라이프](https://ko.wikipedia.org/wiki/웨스트라이프 "wikilink")가 부른 노래다. 이 곡은 2000년 10월 31일 두 번째 스튜디오 음반인 《[Coast to Coast](https://ko.wikipedia.org/wiki/Coast_to_Coast_\(음반\) "wikilink")》의 두 번째 싱글로 발매되었고, [영국 싱글 차트](https://ko.wikipedia.org/wiki/영국_싱글_차트 "wikilink") 1위로 데뷔하여 7번째 영국 1위를 차지했다.\[1\]

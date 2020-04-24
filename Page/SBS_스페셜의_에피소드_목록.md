@@ -861,15 +861,11 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>575</p></td>
-<td><p>12월 22일</p></td>
-<td><p>어디에나 있었고 어디에도 없었던 요한·씨돌·용현 - 다 하지 못한 말 1부</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>576</p></td>
-<td><p>12월 29일</p></td>
-<td><p>어디에나 있었고 어디에도 없었던 요한·씨돌·용현 - 다 하지 못한 말 2부</p></td>
+<td><p>575<br />
+576</p></td>
+<td><p>12월 22일<br />
+12월 29일</p></td>
+<td><p>어디에나 있었고 어디에도 없었던 요한·씨돌·용현 - 다 하지 못한 말</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -947,6 +943,18 @@
 <td><p>587</p></td>
 <td><p>3월 29일</p></td>
 <td><p>2020청년보고서 난 고립을 선택했다.</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>588</p></td>
+<td><p>4월 5일</p></td>
+<td><p>迷路 宗敎에 빠지다.</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>589</p></td>
+<td><p>4월 12일</p></td>
+<td><p><a href="../Page/이철희_(1964년).md" title="wikilink">두</a> <a href="../Page/김영우_(1967년).md" title="wikilink">의원</a></p></td>
 <td></td>
 </tr>
 </tbody>

@@ -5,7 +5,7 @@
 
 ## 유래
 
-영상의 원본이 되는 애니메이션은 [이탈리아](../Page/이탈리아.md "wikilink")의 [애니메이션](../Page/애니메이션.md "wikilink") 제작사인 [딩고 픽처스가](https://ko.wikipedia.org/wiki/딩고_픽처스 "wikilink") 제작한 《Dinosaur Adventure》 (원제: *Abenteuer im Land der Dinosaurier*)이다.\[1\]\[2\] 'Yee' 영상은 애니메이션의 [독일어](../Page/독일어.md "wikilink") [더빙판의](../Page/더빙_\(영상\).md "wikilink") 한 장면을 편집하여 Yee라는 단어를 만들고, 여기에 애니메이션에 등장하는 음악을 [리믹스](https://ko.wikipedia.org/wiki/리믹스 "wikilink")하여 제작하였다. Yee라는 단어는 등장인물인 오로(Oro)가 다른 등장인물인 피크(Peek)를 부르는 대사를 편집한 것이다. 영상의 제작자인 [유튜버](../Page/유튜버.md "wikilink") revergo는 'Yee' 영상을 만들기 전인 2011년 똑같은 장면에 다른 음악을 삽입하여 〈I dinosauri antropomorfi hanno il ritmo nel sangue〉(몸 속에 [리듬](../Page/리듬.md "wikilink")이 흐르는 [의인화된](../Page/의인관.md "wikilink") [공룡](../Page/공룡.md "wikilink")들)를 만든 바 있다.\[3\]
+영상의 원본이 되는 애니메이션은 [독일](../Page/독일.md "wikilink")의 [애니메이션](../Page/애니메이션.md "wikilink") 제작사인 [딩고 픽처스가](https://ko.wikipedia.org/wiki/딩고_픽처스 "wikilink") 제작한 《Dinosaur Adventure》 (원제: *Abenteuer im Land der Dinosaurier*)이다.\[1\]\[2\] 'Yee' 영상은 애니메이션의 [이탈리아어](../Page/이탈리아어.md "wikilink") [더빙판의](../Page/더빙_\(영상\).md "wikilink") 한 장면을 편집하여 Yee라는 단어를 만들고, 여기에 애니메이션에 등장하는 음악을 [리믹스](https://ko.wikipedia.org/wiki/리믹스 "wikilink")하여 제작하였다. Yee라는 단어는 등장인물인 오로(Oro)가 다른 등장인물인 피크(Peek)를 부르는 대사를 편집한 것이다. 영상의 제작자인 [유튜버](../Page/유튜버.md "wikilink") revergo는 'Yee' 영상을 만들기 전인 2011년 똑같은 장면에 다른 음악을 삽입하여 〈I dinosauri antropomorfi hanno il ritmo nel sangue〉(몸 속에 [리듬](../Page/리듬.md "wikilink")이 흐르는 [의인화된](../Page/의인관.md "wikilink") [공룡](../Page/공룡.md "wikilink")들)를 만든 바 있다.\[3\]
 
 ### 대사
 

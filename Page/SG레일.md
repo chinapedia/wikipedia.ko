@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SG](https://ko.wikipedia.org/wiki/SG).
+> This article is converted from Wikipedia: [SG레일](https://ko.wikipedia.org/wiki/SG레일).
 
 
 **SG레일**는 [수도권 광역급행철도 A노선](../Page/수도권_광역급행철도_A노선.md "wikilink") 건설·운영·관리를 목적으로 하는 [신한은행](../Page/신한은행.md "wikilink")의 자회사다. 이 회사는 [수도권 광역급행철도 A노선](../Page/수도권_광역급행철도_A노선.md "wikilink") 사업에만 관여하며, 실제로 운영권은 [서울교통공사](../Page/서울교통공사.md "wikilink"), [SR에](../Page/에스알.md "wikilink") 위탁할 예정이다. 대기업인 [SG그룹](https://ko.wikipedia.org/wiki/SG그룹 "wikilink")과는 관련이 없다.

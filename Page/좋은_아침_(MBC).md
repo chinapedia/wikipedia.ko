@@ -20,6 +20,6 @@
 
 ## 외부 링크
 
-  - [MBC경남 창원방송 좋은 아침 홈페이지](http://mbcgn.kr/good_morning)
+  - [MBC경남 창원방송 좋은 아침 홈페이지](https://web.archive.org/web/20181030013822/http://mbcgn.kr/good_morning)
 
 [분류:문화방송의 뉴스 라디오 프로그램](https://ko.wikipedia.org/wiki/분류:문화방송의_뉴스_라디오_프로그램 "wikilink")

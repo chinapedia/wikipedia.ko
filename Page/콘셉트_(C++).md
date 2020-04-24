@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ \(C++\)](https://ko.wikipedia.org/wiki/_\(C++\)).
+> This article is converted from Wikipedia: [콘셉트 \(C++\)](https://ko.wikipedia.org/wiki/콘셉트_\(C++\)).
 
 
 **콘셉트**()는 ISO Technical Specification ISO/IEC TS 19217:2015으로 제출된 [C++](https://ko.wikipedia.org/wiki/C++ "wikilink") [템플릿의](../Page/템플릿_\(C++\).md "wikilink") 확장 기능이다.\[1\] 콘셉트는 이름이 붙은 불린 술어이며, 컴파일 시간에 평가된다. 콘셉트는 템플릿(클래스 템플릿, 함수 템플릿, 클래스의 멤버 함수 템플릿)과 함께 사용되어 사용자에게 제한을 거는데, 템플릿 파라미터로 받을 수 있는 인수에 조건을 건다.

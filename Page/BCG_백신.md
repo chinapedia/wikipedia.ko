@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [BCG ](https://ko.wikipedia.org/wiki/BCG_).
+> This article is converted from Wikipedia: [BCG 백신](https://ko.wikipedia.org/wiki/BCG_백신).
 
 
 **BCG 백신**(Bacillus Calmette–Guérin(BCG) vaccine)은 주로 [결핵](../Page/결핵.md "wikilink")(TB)에 대항하여 사용되는 [백신](../Page/백신.md "wikilink")이다.\[1\] 결핵이나 [나병](../Page/나병.md "wikilink")이 일상화된 국가에서 건강한 유아에게 가능한 출생에 가까운 시기에 1도스(dose)가 권고된다.\[2\] 결핵이 일상화되지 않은 지역에서는 고위험군의 유아들만이 일반적으로 주사를 통해 면역력을 가지는 반면 결핵 의심 사례의 경우 개별적으로 검사되고 치료된다.\[3\] 결핵이 없고 과거 면역된 적이 없으나 자주 노출되는 성인 또한 주사를 통해 면역력을 가질 수 있다.\[4\] BCG는 또한 [브룰리 궤양](../Page/브룰리_궤양.md "wikilink") 감염 및 기타 [비결핵성마이코박테륨](https://ko.wikipedia.org/wiki/비결핵성마이코박테륨 "wikilink") 감염에 대항하여 일부 효력이 있다.\[5\] 게다가 [방광암](https://ko.wikipedia.org/wiki/방광암 "wikilink") 치료의 일부로 사용되기도 한다.\[6\]\[7\]

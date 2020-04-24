@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [J. R. ](https://ko.wikipedia.org/wiki/J._R._).
+> This article is converted from Wikipedia: [J. R. 라미레스](https://ko.wikipedia.org/wiki/J._R._라미레스).
 
 
 **J. R. 라미레스**(, 1980년 10월 8일 \~ )는 쿠바의 배우이다. 드라마 《[제시카 존스](../Page/제시카_존스_\(드라마\).md "wikilink")》에서 오스카르 아로초 역으로 잘 알려져 있다.

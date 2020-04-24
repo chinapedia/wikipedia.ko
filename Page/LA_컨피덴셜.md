@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [LA ](https://ko.wikipedia.org/wiki/LA_).
+> This article is converted from Wikipedia: [LA 컨피덴셜](https://ko.wikipedia.org/wiki/LA_컨피덴셜).
 
 
-《**LA 컨피덴셜**》()는 [1997년](../Page/1997년.md "wikilink")에 개봉한 영화이며 1990년에 나온 [제임스 엘로이의](../Page/제임스_엘로이.md "wikilink") 동명소설를 영화화하였다. 71회(1998년) [아카데미 시상식에서](https://ko.wikipedia.org/wiki/아카데미_시상식 "wikilink") 9개 부문([작품상](../Page/아카데미_작품상.md "wikilink"), [감독상](../Page/아카데미_감독상.md "wikilink"), [여우조연상](../Page/아카데미_여우조연상.md "wikilink"), [각색상](../Page/아카데미_각색상.md "wikilink"), [편집상](https://ko.wikipedia.org/wiki/아카데미_편집상 "wikilink"), [촬영상](../Page/아카데미_촬영상.md "wikilink"), [음향상](https://ko.wikipedia.org/wiki/아카데미_음향효과상 "wikilink"), [음악상](../Page/아카데미_음악상.md "wikilink"), [미술상](../Page/아카데미_프로덕션_디자인상.md "wikilink"))에 후보에 올랐고 이 중에서 [여우조연상](../Page/아카데미_여우조연상.md "wikilink")([킴 베이싱어](../Page/킴_베이싱어.md "wikilink"))와 [각색상을](../Page/아카데미_각색상.md "wikilink") 수상하였다.
+《**LA 컨피덴셜**》()는 [1997년](../Page/1997년.md "wikilink")에 개봉한 영화이며 1990년에 나온 [제임스 엘로이의](../Page/제임스_엘로이.md "wikilink") 동명소설를 영화화하였다. 71회(1998년) [아카데미 시상식에서](https://ko.wikipedia.org/wiki/아카데미_시상식 "wikilink") 9개 부문([작품상](../Page/아카데미_작품상.md "wikilink"), [감독상](../Page/아카데미_감독상.md "wikilink"), [여우조연상](../Page/아카데미_여우조연상.md "wikilink"), [각색상](../Page/아카데미_각색상.md "wikilink"), [편집상](../Page/아카데미_편집상.md "wikilink"), [촬영상](../Page/아카데미_촬영상.md "wikilink"), [음향상](https://ko.wikipedia.org/wiki/아카데미_음향효과상 "wikilink"), [음악상](../Page/아카데미_음악상.md "wikilink"), [미술상](../Page/아카데미_프로덕션_디자인상.md "wikilink"))에 후보에 올랐고 이 중에서 [여우조연상](../Page/아카데미_여우조연상.md "wikilink")([킴 베이싱어](../Page/킴_베이싱어.md "wikilink"))와 [각색상을](../Page/아카데미_각색상.md "wikilink") 수상하였다.
 
 ## 배역
 

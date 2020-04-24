@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  IPB](https://ko.wikipedia.org/wiki/__IPB).
+> This article is converted from Wikipedia: [싱가포르 씨티은행 IPB](https://ko.wikipedia.org/wiki/싱가포르_씨티은행_IPB).
 
 
 **싱가포르 씨티은행 International Personal Bank (IPB)는** **[싱가포르](../Page/싱가포르.md "wikilink")** 에 본사를 두고 있는 은행으로 싱가포르 이외의 지역에 거주하는 고액 자산가들에 대한 해외 투자 및 자산 관리 상품 및 서비스를 전문으로 한다. 싱가포르 씨티은행 IPB는 싱가포르 씨티은행의 사업부로 운영된다.
@@ -23,7 +23,7 @@
 
 **2004** - 씨티은행은 25억 싱가포르 달러의 유상 증자를 통해 씨티의 전액 출자 자회사 인 싱가포르 씨티은행을 설립하여 소비자 은행 업무를 현지에 통합한다. QFB 라이선스는 새롭게 현지 법인으로 이전된다.\[6\]
 
-**2015** - 싱가포르 씨티은행은 싱가포르의 통화 당국이 2015 년 4 월 싱가포르의 국내 체계적으로 중요한 은행 (Domestic Systemically Important banks, DSIBs) 중 하나로 선정했다.\[7\]
+**2015** - 싱가포르 씨티은행은 싱가포르의 통화 당국이 2015년 4월 싱가포르의 국내 체계적으로 중요한 은행 (Domestic Systemically Important banks, DSIBs) 중 하나로 선정했다.\[7\]
 
 ## 제품 및 서비스
 

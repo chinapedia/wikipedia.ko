@@ -396,4 +396,4 @@
   - [ICD-10](../Page/ICD-10.md "wikilink")
   - [DSM-5](../Page/DSM-5.md "wikilink")
 
-[분류:국제질병분류](https://ko.wikipedia.org/wiki/분류:국제질병분류 "wikilink")
+[분류:국제질병분류](https://ko.wikipedia.org/wiki/분류:국제질병분류 "wikilink") [정신_및_행동장애](https://ko.wikipedia.org/wiki/분류:정신_및_행동장애 "wikilink")

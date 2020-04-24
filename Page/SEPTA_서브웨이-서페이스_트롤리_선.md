@@ -13,7 +13,7 @@ SEPTA 서브웨이-서페이스 선은 [보스턴](../Page/보스턴.md "wikilin
 
 30번가 트롤리 역은 [SEPTA 리저널 레일](../Page/SEPTA_리저널_레일.md "wikilink"), [암트랙](../Page/암트랙.md "wikilink") 및 [뉴저지 트랜싯](../Page/뉴저지_트랜싯.md "wikilink") 열차를 운행하는 [30번가 기차역](https://ko.wikipedia.org/wiki/30th_스트리트_역 "wikilink") 건너편에 있다. 이 역을 연결하는 지하 통로는 현재 폐쇄된 상태이다.
 
-10번 노선은 마켓 스트리트 바로 남쪽의 36번가에 있으며, [36번가 포털에서부터](https://ko.wikipedia.org/wiki/36번가_포털_역 "wikilink") 지하에서 노면으로 나와 북서쪽 방향으로 운행한다. 다른 4개의 노선은 36번가와 샌섬 스트리트(Sansom Streets), 37번가 및 스프루스 스트리트(Spruce Streets) 의 지하역을 거치고, 40번가 및 볼티모어 애비뉴(Baltimore Avenue) 근처의 [40번가 포털에서부터](https://ko.wikipedia.org/wiki/40번가_포털_역 "wikilink") 지하에서 노면으로 나와 남서쪽 방향으로 운행한다.
+10번 노선은 마켓 스트리트 바로 남쪽의 36번가에 있으며, [36번가 포털에서부터](https://ko.wikipedia.org/wiki/36번가_포털_역 "wikilink") 지하에서 노면으로 나와 북서쪽 방향으로 운행한다. 다른 4개의 노선은 36번가와 샌섬 스트리트(Sansom Streets), 37번가 및 스프루스 스트리트(Spruce Streets)의 지하역을 거치고, 40번가 및 볼티모어 애비뉴(Baltimore Avenue) 근처의 [40번가 포털에서부터](https://ko.wikipedia.org/wiki/40번가_포털_역 "wikilink") 지하에서 노면으로 나와 남서쪽 방향으로 운행한다.
 
 [다비](https://ko.wikipedia.org/wiki/다비_\(펜실베이니아주\) "wikilink") (Darby)의 메인 스트리트 (Main Street)를 따라 운행하는 11번 노선은 [CSX 교통에서](../Page/CSX_교통.md "wikilink") 교차로를 통과한다. 현재 미국에서 유일하게 트롤리 선과 화물 철도 간선 사이의 평면 교차 지점을 가지고 있다.\[2\]\[3\]
 

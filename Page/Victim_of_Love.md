@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Victim of Love](https://ko.wikipedia.org/wiki/Victim_of_Love).
 
 
-《**Victim of Love**》는 1979년에 발매된 [엘튼 존의](../Page/엘튼_존.md "wikilink") 열세 번째 스튜디오 음반이다. 이 음반은 [디스코의](https://ko.wikipedia.org/wiki/유로_디스코 "wikilink") 인기가 최고조에 달한 직후에 발매된 디스코 음반이다. 이 음반은 비평적이거나 상업적으로 좋은 평가를 받지 않았으며, 1986년 《[Leather Jackets](https://ko.wikipedia.org/wiki/Leather_Jackets "wikilink")》과 1985년 《[Ice on Fire](https://ko.wikipedia.org/wiki/Ice_on_Fire "wikilink")》 이후 지금까지 [미국](../Page/미국.md "wikilink")에서 세 번째로 낮은 음반이다.
+《**Victim of Love**》는 1979년에 발매된 [엘튼 존의](../Page/엘튼_존.md "wikilink") 열세 번째 스튜디오 음반이다. 이 음반은 [디스코의](https://ko.wikipedia.org/wiki/유로_디스코 "wikilink") 인기가 최고조에 달한 직후에 발매된 디스코 음반이다. 이 음반은 비평적이거나 상업적으로 좋은 평가를 받지 않았으며, 1986년 《[Leather Jackets](../Page/Leather_Jackets.md "wikilink")》과 1985년 《[Ice on Fire](../Page/Ice_on_Fire.md "wikilink")》 이후 지금까지 [미국](../Page/미국.md "wikilink")에서 세 번째로 낮은 음반이다.
 
 하지만 이 음반의 타이틀 곡은 싱글곡으로 적당히 성공적이었다. 이 음반은 [미국](../Page/미국.md "wikilink") [빌보드 핫 100에서](../Page/빌보드_핫_100.md "wikilink") 31위, [호주](https://ko.wikipedia.org/wiki/호주 "wikilink")에서는 38위 그리고 [캐나다](../Page/캐나다.md "wikilink")는 46위에 올랐다. 그것은 또한 캐나다 어덜트 컨템포러리 차트에서 11위로 정점에 올랐다.\[1\] 게다가, 이 음반의 모든 곡들은 미국 빌보드 디스코 톱 100 차트에서 55위에 올랐다.\[2\]
 

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Weather box](https://ko.wikipedia.org/wiki/:Weather_box).
+> This article is converted from Wikipedia: [모듈:Weather box](https://ko.wikipedia.org/wiki/모듈:Weather_box).
 
 
 \-- Implement [Template:Weather box](https://ko.wikipedia.org/wiki/Template:Weather_box "wikilink").

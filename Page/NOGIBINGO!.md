@@ -25,7 +25,7 @@
 ## 관련 항목
 
   - [AKBINGO\!](../Page/AKBINGO!.md "wikilink")
-  - [KEYABINGO\!](https://ko.wikipedia.org/wiki/KEYABINGO! "wikilink")
+  - [KEYABINGO\!](../Page/KEYABINGO!.md "wikilink")
   - [HINABINGO\!](https://ko.wikipedia.org/wiki/HINABINGO! "wikilink")
 
 ## 외부 링크

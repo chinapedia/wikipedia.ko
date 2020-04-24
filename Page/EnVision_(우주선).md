@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [EnVision \(\)](https://ko.wikipedia.org/wiki/EnVision_\(\)).
+> This article is converted from Wikipedia: [EnVision \(우주선\)](https://ko.wikipedia.org/wiki/EnVision_\(우주선\)).
 
 
 **EnVision**은 [ESA](https://ko.wikipedia.org/wiki/ESA "wikilink")가 2032년 발사하는 금성 탐사선이다.\[1\]\[2\]\[3\]\[4\] 목적은 금성의 표면을 고해상도로 모니터링하고, 금성 표면의 성질을 알아내는 것이다.\[5\]\[6\]

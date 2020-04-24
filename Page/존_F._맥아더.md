@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [ F. ](https://ko.wikipedia.org/wiki/_F._).
+> This article is converted from Wikipedia: [존 F. 맥아더](https://ko.wikipedia.org/wiki/존_F._맥아더).
 
 
-**존 풀러톤 맥아더 Jr. (John Fullerton MacArthur Jr.** 1939 년 6 월 19 일 )는 미국의 목회자이자 그레이스 커뮤니티 교회의 목사이다.  \[1\] 현재 캘리포니아 주 뉴홀 (Newhall) 에 있는 [마스터 대학 (Master 's University)](../Page/마스터스_대학교.md "wikilink") 의 현 총장이자 로스 앤젤레스 캘리포니아 (Los Angeles)에 [있는 마스터스 신학교 (Master 's Seminary)의](../Page/마스터스_신학교.md "wikilink") 총장이며, 그레이스 커뮤니티 교회(Grace Community Church)의 담임 목사이다. 그는 [복음주의자](https://ko.wikipedia.org/wiki/복음주의자 "wikilink")로서 [칼빈주의](https://ko.wikipedia.org/wiki/칼빈주의 "wikilink")자로서 강해설교가로 유명하다.\[2\]\[3\] 미국 [크리스처니티 투데이에서](../Page/크리스처니티_투데이.md "wikilink") 가장 영향력있는 설교자 가운데 한명이다. [래리 킹 라이브에서도](../Page/래리_킹_라이브.md "wikilink") 자주 초청된다.\[4\] 
+**존 풀러톤 맥아더 Jr. (John Fullerton MacArthur Jr.** 1939년 6월 19일 )는 미국의 목회자이자 그레이스 커뮤니티 교회의 목사이다.  \[1\] 현재 캘리포니아 주 뉴홀 (Newhall) 에 있는 [마스터 대학 (Master 's University)](../Page/마스터스_대학교.md "wikilink") 의 현 총장이자 로스 앤젤레스 캘리포니아 (Los Angeles)에 [있는 마스터스 신학교 (Master 's Seminary)의](../Page/마스터스_신학교.md "wikilink") 총장이며, 그레이스 커뮤니티 교회(Grace Community Church)의 담임 목사이다. 그는 [복음주의자](https://ko.wikipedia.org/wiki/복음주의자 "wikilink")로서 [칼빈주의](https://ko.wikipedia.org/wiki/칼빈주의 "wikilink")자로서 강해설교가로 유명하다.\[2\]\[3\] 미국 [크리스처니티 투데이에서](../Page/크리스처니티_투데이.md "wikilink") 가장 영향력있는 설교자 가운데 한명이다. [래리 킹 라이브에서도](../Page/래리_킹_라이브.md "wikilink") 자주 초청된다.\[4\] 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Charismatic_Chaos.jpg "wikilink")
 

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Born to Run \(\)](https://ko.wikipedia.org/wiki/Born_to_Run_\(\)).
+> This article is converted from Wikipedia: [Born to Run \(노래\)](https://ko.wikipedia.org/wiki/Born_to_Run_\(노래\)).
 
 
 〈**Born to Run**〉은 [미국](../Page/미국.md "wikilink")의 음악가 [브루스 스프링스틴의](../Page/브루스_스프링스틴.md "wikilink") 곡이자 그의 음반 《[Born to Run](../Page/Born_to_Run.md "wikilink")》의 타이틀 곡이다. 발매 직후 음악평론가 [로버트 크리스트가우는](../Page/로버트_크리스트가우.md "wikilink") 그것의 [월 오브 사운드에](https://ko.wikipedia.org/wiki/월_오브_사운드 "wikilink") 주목하고 그 곡을 "모든 것들의 성취는 〈[Be My Baby](../Page/Be_My_Baby.md "wikilink")〉에 관한 것이었고 그 이상의 것이었다."이라고 불렀다.\[1\]

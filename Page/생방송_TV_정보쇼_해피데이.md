@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [생방송 TV 정보쇼 해피데이](https://ko.wikipedia.org/wiki/생방송_TV_정보쇼_해피데이).
 
 
-《**생방송 TV 정보쇼 해피데이**》는 [2018년](../Page/2018년.md "wikilink") [5월 7일부터](../Page/5월_7일.md "wikilink") 현재까지 금요일 저녁 7시에 방송되고 있는 [G1](../Page/G1.md "wikilink")의 정보 프로그램이다.
+《**생방송 TV 정보쇼 해피데이**》는 [2018년](../Page/2018년.md "wikilink") [5월 7일부터](../Page/5월_7일.md "wikilink") 현재까지 금요일 저녁 6시 50분에 방송되고 있는 [G1](../Page/G1.md "wikilink")의 정보 프로그램이다.
 
 ## 진행
 

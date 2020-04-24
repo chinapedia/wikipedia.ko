@@ -97,7 +97,7 @@
   - 50-1번 [FTV](https://ko.wikipedia.org/wiki/FTV "wikilink")
   - 51-1번 [바둑TV](https://ko.wikipedia.org/wiki/바둑TV "wikilink")
   - 52-1번 [올'리브](https://ko.wikipedia.org/wiki/올'리브 "wikilink")
-  - 52-2번 [SmileTV Plus](https://ko.wikipedia.org/wiki/SmileTV_Plus "wikilink") HD
+  - 52-2번 [SmileTV Plus](../Page/SmileTV_Plus.md "wikilink") HD
   - 53-1번 [K Star](https://ko.wikipedia.org/wiki/K_Star "wikilink")
   - 54-1번 [CBS](../Page/CBS_\(대한민국의_방송사\).md "wikilink")
   - 55-1번 [CTS 기독교TV](https://ko.wikipedia.org/wiki/CTS_\(대한민국의_방송사\) "wikilink")
@@ -301,7 +301,7 @@
   - 73번 - [JTBC2](https://ko.wikipedia.org/wiki/JTBC2 "wikilink") HD
   - 74번 - [Mnet](https://ko.wikipedia.org/wiki/Mnet "wikilink") HD
   - 75번 - [MBC M](https://ko.wikipedia.org/wiki/MBC_M "wikilink") HD
-  - 77번 - [SmileTV Plus](https://ko.wikipedia.org/wiki/SmileTV_Plus "wikilink") HD
+  - 77번 - [SmileTV Plus](../Page/SmileTV_Plus.md "wikilink") HD
   - 83번 - [OGN](../Page/OGN.md "wikilink") HD
   - 84번 - [SPO TV 게임즈](https://ko.wikipedia.org/wiki/SPO_TV_게임즈 "wikilink") HD
   - 668번 - [FX](https://ko.wikipedia.org/wiki/FX_\(케이블\) "wikilink") HD

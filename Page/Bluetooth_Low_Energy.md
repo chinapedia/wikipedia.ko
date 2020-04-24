@@ -16,7 +16,7 @@ Bluetooth high speed 는 [Wi-Fi](https://ko.wikipedia.org/wiki/Wi-Fi "wikilink")
 ## 함께보기
 
   - [시리얼 통신](https://ko.wikipedia.org/wiki/시리얼_통신 "wikilink")
-  - [ATcommand](https://ko.wikipedia.org/wiki/ATcommand "wikilink")
+  - [ATcommand](../Page/ATcommand.md "wikilink")
   - [UART](../Page/UART.md "wikilink")
 
 ## 참고

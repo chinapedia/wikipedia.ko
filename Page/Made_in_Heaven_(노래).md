@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Made in Heaven \(\)](https://ko.wikipedia.org/wiki/Made_in_Heaven_\(\)).
+> This article is converted from Wikipedia: [Made in Heaven \(노래\)](https://ko.wikipedia.org/wiki/Made_in_Heaven_\(노래\)).
 
 
 〈**Made in Heaven**〉은 [프레디 머큐리가](../Page/프레디_머큐리.md "wikilink") 녹음한 세 번째 싱글이자 솔로 가수로서의 네 번째 음반이다.

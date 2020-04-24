@@ -34,8 +34,8 @@
 1.  〈[My Life](https://ko.wikipedia.org/wiki/My_Life_\(빌리_조엘의_노래\) "wikilink")〉 - 3:51
 2.  〈[Big Shot](https://ko.wikipedia.org/wiki/Big_Shot_\(노래\) "wikilink")〉 - 3:45
 3.  〈[Honesty](https://ko.wikipedia.org/wiki/Honesty "wikilink")〉 - 3:51
-4.  〈[You May Be Right](https://ko.wikipedia.org/wiki/You_May_Be_Right "wikilink")〉 - 4:13
-5.  〈[It's Still Rock & Roll to Me](https://ko.wikipedia.org/wiki/It's_Still_Rock_&_Roll_to_Me "wikilink")〉 - 2:55
+4.  〈[You May Be Right](../Page/You_May_Be_Right.md "wikilink")〉 - 4:13
+5.  〈[It's Still Rock & Roll to Me](https://ko.wikipedia.org/wiki/It's_Still_Rock_and_Roll_to_Me "wikilink")〉 - 2:55
 6.  〈[She's Got a Way](https://ko.wikipedia.org/wiki/She's_Got_a_Way "wikilink")〉 (Live) - 3:00
 7.  〈[Pressure](https://ko.wikipedia.org/wiki/Pressure_\(빌리_조엘의_노래\) "wikilink")〉 - 3:15
 8.  〈[Allentown](https://ko.wikipedia.org/wiki/Allentown "wikilink")〉 - 3:48
@@ -44,7 +44,7 @@
 11. 〈[Uptown Girl](https://ko.wikipedia.org/wiki/Uptown_Girl "wikilink")〉 - 3:15
 12. 〈[The Longest Time](../Page/The_Longest_Time.md "wikilink")〉 - 3:36
 13. 〈[You're Only Human (Second Wind)](https://ko.wikipedia.org/wiki/You're_Only_Human_\(Second_Wind\) "wikilink")〉 - 4:48
-14. 〈[The Night Is Still Young](https://ko.wikipedia.org/wiki/The_Night_Is_Still_Young "wikilink")〉 - 5:29
+14. 〈[The Night Is Still Young](../Page/The_Night_Is_Still_Young.md "wikilink")〉 - 5:29
 
 ### 디스크 4: 《[Storm Front](../Page/Storm_Front.md "wikilink")》
 

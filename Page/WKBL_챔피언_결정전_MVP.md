@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [WKBL   MVP](https://ko.wikipedia.org/wiki/WKBL___MVP).
+> This article is converted from Wikipedia: [WKBL 챔피언 결정전 MVP](https://ko.wikipedia.org/wiki/WKBL_챔피언_결정전_MVP).
 
 
 **한국여자프로농구 챔피언 결정전 최우수 선수상**(MVP)은 매년 [한국여자프로농구](https://ko.wikipedia.org/wiki/한국여자프로농구 "wikilink") [챔피언 결정전에서](https://ko.wikipedia.org/wiki/WKBL_챔피언_결정전 "wikilink") 가장 뛰어난 활약을 보인 선수에게 주어지는 상이다. 2002년 여름리그부터 시상되었다.
@@ -163,6 +163,13 @@
 <td></td>
 <td><p><a href="../Page/청주_KB_스타즈.md" title="wikilink">청주 KB 스타즈</a></p></td>
 </tr>
+<tr class="even">
+<td></td>
+<td><p>개최되지 않음</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -170,4 +177,4 @@
 
 <references />
 
-[분류:한국여자프로농구 상](https://ko.wikipedia.org/wiki/분류:한국여자프로농구_상 "wikilink") [분류:2002년 설립](https://ko.wikipedia.org/wiki/분류:2002년_설립 "wikilink") [분류:최우수 선수상](https://ko.wikipedia.org/wiki/분류:최우수_선수상 "wikilink")
+[챔피언 결정전 MVP](https://ko.wikipedia.org/wiki/분류:한국여자프로농구_상 "wikilink") [분류:2002년 설립](https://ko.wikipedia.org/wiki/분류:2002년_설립 "wikilink") [분류:최우수 선수상](https://ko.wikipedia.org/wiki/분류:최우수_선수상 "wikilink")

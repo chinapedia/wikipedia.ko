@@ -10,7 +10,7 @@
 **One side**
 
 1.  "Streetlife Serenader" – 5:17
-2.  "[Los Angelenos](https://ko.wikipedia.org/wiki/Los_Angelenos "wikilink")" – 3:41
+2.  "[Los Angelenos](../Page/Los_Angelenos.md "wikilink")" – 3:41
 3.  "The Great Suburban Showdown" – 3:44
 4.  "[Root Beer Rag](https://ko.wikipedia.org/wiki/Root_Beer_Rag "wikilink")" ([기악](../Page/기악.md "wikilink")) – 2:59
 5.  "Roberta" – 4:32

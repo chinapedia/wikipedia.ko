@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ Mi-1](https://ko.wikipedia.org/wiki/_Mi-1).
+> This article is converted from Wikipedia: [밀 Mi-1](https://ko.wikipedia.org/wiki/밀_Mi-1).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:CCCP-02299_Mil_Mi-1_Aeroflot_\(7723997484\).jpg "wikilink") **밀 Mi-1**(NATO 코드명: Hare)은 소련에서 개발된 3인승 또는 4인승 경량 헬리콥터이다. 소련의 헬리콥터 중에서 최초로 연쇄 생산에 들어간 헬리콥터로서 575 HP 입첸코 AI-26V 방사형 엔진으로 구동되었다. 1950년부터 운용되었고 1951년 소련 항공의 날에 투시노에서 처음으로 등장해 16년 동안 생산되었다. 구소련에서는 1,000개 이상이 건설되었고 폴란드에서는 SM-1 헬리콥터 1,594개가 생산되었다.

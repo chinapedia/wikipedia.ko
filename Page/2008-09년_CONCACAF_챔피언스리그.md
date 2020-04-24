@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [2008-09 CONCACAF ](https://ko.wikipedia.org/wiki/2008-09_CONCACAF_).
+> This article is converted from Wikipedia: [2008-09년 CONCACAF 챔피언스리그](https://ko.wikipedia.org/wiki/2008-09년_CONCACAF_챔피언스리그).
 
 
-**2008-09년 CONCACAF 챔피언스리그**(2008-09 CONCACAF Champions League)는 [2008년](../Page/2008년.md "wikilink") [8월 26일부터](../Page/8월_26일.md "wikilink") [2009년](../Page/2009년.md "wikilink") [4월 30일까지](../Page/4월_30일.md "wikilink") 개최된 [CONCACAF 챔피언스리그의](../Page/CONCACAF_챔피언스리그.md "wikilink") 44번째 대회이다. 이 대회부터 기존의 CONCACAF 챔피언스컵이 CONCACAF 챔피언스리그로 새로 개편되었다. [멕시코](../Page/멕시코.md "wikilink")의 [아틀란테가](../Page/아틀란테_FC.md "wikilink") 결승전에서 [멕시코](../Page/멕시코.md "wikilink")의 [크루스 아술을](../Page/크루스_아술.md "wikilink") 누르고 우승을 차지했다.
+**2008-09년 CONCACAF 챔피언스리그**(2008-09 CONCACAF Champions League)는 [2008년](../Page/2008년.md "wikilink") [8월 26일부터](../Page/8월_26일.md "wikilink") [2009년](../Page/2009년.md "wikilink") [4월 30일까지](../Page/4월_30일.md "wikilink") 개최된 [CONCACAF 챔피언스리그의](../Page/CONCACAF_챔피언스리그.md "wikilink") 1번째 대회이다. 이 대회부터 기존의 CONCACAF 챔피언스컵이 CONCACAF 챔피언스리그로 새로 개편되었다. [멕시코](../Page/멕시코.md "wikilink")의 [아틀란테가](../Page/아틀란테_FC.md "wikilink") 결승전에서 [멕시코](../Page/멕시코.md "wikilink")의 [크루스 아술을](../Page/크루스_아술.md "wikilink") 누르고 우승을 차지했다.
 
 ## 예비 라운드
 

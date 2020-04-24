@@ -36,7 +36,7 @@
   - 루달스 : 2차 예선 탈락
   - [마이크로닷](https://ko.wikipedia.org/wiki/마이크로닷 "wikilink") : 3차 예선 탈락
   - [매니악](../Page/매니악_\(가수\).md "wikilink") : 1차 경연 탈락
-  - [면도](../Page/면도.md "wikilink") : 음원 미션 탈락
+  - [면도](../Page/면도_\(래퍼\).md "wikilink") : 음원 미션 탈락
   - 모재 : 팀 미지명 탈락
   - [보이비](https://ko.wikipedia.org/wiki/보이비 "wikilink") : 3차 예선 탈락
   - 브라운티거 : 3차 예선 탈락

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ H. ](https://ko.wikipedia.org/wiki/_H._).
+> This article is converted from Wikipedia: [요한 H. 바빙크](https://ko.wikipedia.org/wiki/요한_H._바빙크).
 
 
 **요한 헤르만 바빙크** ( Johan Herman Bavinck , 1895년 11월 22일 - 1964년 6월 23일)는 [네덜란드](../Page/네덜란드.md "wikilink")의 [목사](../Page/목사.md "wikilink") , [신학자](https://ko.wikipedia.org/wiki/신학자 "wikilink"), 그리고 저명한 [선교학자이다](../Page/선교사.md "wikilink"). 유명한 [조직신학](../Page/조직신학.md "wikilink")자 [헤르만 바빙크가](../Page/헤르만_바빙크.md "wikilink") 그의 삼촌이다.

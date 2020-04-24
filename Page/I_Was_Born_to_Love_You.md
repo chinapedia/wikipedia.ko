@@ -1,9 +1,11 @@
 > This article is converted from Wikipedia: [I Was Born to Love You](https://ko.wikipedia.org/wiki/I_Was_Born_to_Love_You).
 
 
-〈**I Was Born to Love You**〉는 1985년 [프레디 머큐리가](../Page/프레디_머큐리.md "wikilink") 부른 노래로 싱글 음반과 《[Mr. Bad Guy](../Page/Mr._Bad_Guy.md "wikilink")》 음반으로 발매되었다. 머큐리가 죽은 후, [퀸은](../Page/퀸_\(밴드\).md "wikilink") 1995년 그들의 음반 《[Made in Heaven](../Page/Made_in_Heaven.md "wikilink")》을 위해 이 노래를 디스코 노래에서 록 노래로 변형시키는 원곡 위에서 다른 멤버들로 하여금 그들의 악곡을 연주하게 함으로써 이 노래를 다시 작곡했다. 《Made in Heaven》 음반의 퀸 버전은 〈[A Kind of Magic](https://ko.wikipedia.org/wiki/A_Kind_of_Magic_\(노래\) "wikilink")〉과 〈[Living On My Own](https://ko.wikipedia.org/wiki/Living_On_My_Own "wikilink")〉에서 발췌한 머큐리의 애드립 보컬의 샘플도 포함하고 있다.
+〈**I Was Born to Love You**〉는 [1985년](../Page/1985년.md "wikilink") [프레디 머큐리가](../Page/프레디_머큐리.md "wikilink") 부른 노래로, 싱글 음반과 《[Mr. Bad Guy](../Page/Mr._Bad_Guy.md "wikilink")》 음반으로 발매되었다.
 
-이 노래는 2005년 [퀸 + 폴 로저스](../Page/퀸_+_폴_로저스.md "wikilink") 일본 투어에서 라이브 데뷔를 했다. [브라이언 메이와](../Page/브라이언_메이.md "wikilink") [로저 테일러는](../Page/로저_테일러.md "wikilink") 그 노래를 음향적으로 연주했다. 이 곡은 [퀸 + 애덤 램버트의](https://ko.wikipedia.org/wiki/퀸_+_애덤_램버트 "wikilink") 한국과 일본에서 열리는 콘서트에서 공연되었는데, 이 콘서트는 풀 라이브 밴드가 처음으로 공연된 것이었다.
+이후 [1995년](../Page/1995년.md "wikilink")에는 [퀸의](../Page/퀸_\(밴드\).md "wikilink") 마지막 앨범인 《[Made in Heaven](../Page/Made_in_Heaven.md "wikilink")》의 수록곡으로 발매되었다. 프레디 머큐리의 사후 발매된 이 곡은 원곡의 디스코 풍과는 달리 록 버전으로 편곡된 멜로디가 사용되며 인기를 끌었다. 《Made in Heaven》 음반에 수록된 〈I Was Born to Love You〉는 〈[A Kind of Magic](../Page/A_Kind_of_Magic_\(노래\).md "wikilink")〉과 〈[Living On My Own](https://ko.wikipedia.org/wiki/Living_On_My_Own "wikilink")〉에서 프레디 머큐리의 보컬을 샘플링으로 따내, 곡의 완성도를 높였다는 평가를 받는다.
+
+〈I Was Born to Love You〉는 프레디 머큐리가 생전 라이브 공연을 열었던 적이 없지만, [아시아](../Page/아시아.md "wikilink") 지역에서의 인기로 프레디 머큐리 사후 퀸의 투어에서 라이브로 불린다. [2005년](../Page/2005년.md "wikilink")에는 [퀸 + 폴 로저스](../Page/퀸_+_폴_로저스.md "wikilink") 일본 투어에서 라이브 데뷔를 했으며, [브라이언 메이와](../Page/브라이언_메이.md "wikilink") [로저 테일러가](../Page/로저_테일러.md "wikilink") 연주하고 [폴 로저스가](https://ko.wikipedia.org/wiki/폴_로저스 "wikilink") 보컬을 소화했다. [대한민국](../Page/대한민국.md "wikilink")에서도 공연된 적이 있는데, [2014년](../Page/2014년.md "wikilink") [퀸 + 애덤 램버트가](https://ko.wikipedia.org/wiki/퀸_+_애덤_램버트 "wikilink") 슈퍼소닉 페스티벌 참가 차 내한하여 공연을 펼쳤다.
 
 ## 각주
 

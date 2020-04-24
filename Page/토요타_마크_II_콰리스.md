@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  II ](https://ko.wikipedia.org/wiki/__II_).
+> This article is converted from Wikipedia: [토요타 마크 II 콰리스](https://ko.wikipedia.org/wiki/토요타_마크_II_콰리스).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:1997_Toyota_Mark_II_Qualis_01.jpg "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:Toyota-mark2_qualis-rear.jpg "wikilink") **토요타 마크 II 콰리스**(Toyota Mark II Qualis)는 [일본](../Page/일본.md "wikilink")의 [자동차](../Page/자동차.md "wikilink") 회사인 [토요타가](../Page/토요타_자동차.md "wikilink") 생산·판매했던 중형 [스테이션 왜건이다](../Page/스테이션_왜건.md "wikilink").

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [록맨 X \(비디오 게임\)](https://ko.wikipedia.org/wiki/록맨_X_\(비디오_게임\)).
 
 
-《**록맨 X**》() 또는 《**[록맨 X1](https://ko.wikipedia.org/wiki/록맨_X1 "wikilink")**》(Mega Man X1)은 [캡콤](../Page/캡콤.md "wikilink")이 [슈퍼 패미컴으로](../Page/슈퍼_패미컴.md "wikilink") 1993년에 발매한 [액션](https://ko.wikipedia.org/wiki/액션_게임 "wikilink") [플랫폼 게임이다](../Page/플랫폼_게임.md "wikilink"). [록맨 X](../Page/록맨_X.md "wikilink") 시리즈의 첫타를 끊은 작품이자 프랜차이즈 사상 최초 16비트 게임으로, [패미컴](https://ko.wikipedia.org/wiki/패미컴 "wikilink")으로 발매됐던 기존 [록맨의](https://ko.wikipedia.org/wiki/록맨_\(클래식_시리즈\) "wikilink") 파생작으로서 출발했다. 북미와 유럽 지역에선 **메가맨 X**()라는 이름으로 발매됐다.
+《**록맨 X**》()은 [캡콤](../Page/캡콤.md "wikilink")이 [슈퍼 패미컴으로](../Page/슈퍼_패미컴.md "wikilink") 1993년에 발매한 [액션](https://ko.wikipedia.org/wiki/액션_게임 "wikilink") [플랫폼 게임이다](../Page/플랫폼_게임.md "wikilink"). [록맨 X](../Page/록맨_X.md "wikilink") 시리즈의 첫타를 끊은 작품이자 프랜차이즈 사상 최초 16비트 게임으로, [패미컴](https://ko.wikipedia.org/wiki/패미컴 "wikilink")으로 발매됐던 기존 [록맨의](https://ko.wikipedia.org/wiki/록맨_\(클래식_시리즈\) "wikilink") 파생작으로서 출발했다. 북미와 유럽 지역에선 《**메가맨 X**》()라는 이름으로 발매됐다.
 
 록맨 X는 원래 록맨 시리즈로부터 100여 년 후의 미래에서 인간과 로봇 '레플레이드'가 공존하는 세계를 다룬다. 레플로이드는 인간의 삶을 돕기 위해 제작됐지만, 설계상 오류로 인해 오작동을 이르키는 로봇들이 대거 발생해 대혼란을 야기시켰고, 이들을 처리하기 위해 설립된 조직 '이레귤러 헌터'마저 수장 시그마의 주도로 반란군 측으로 돌아서자, 주인공 X(엑스)가 이를 해결하기위해 나서서 싸움을 벌이는 것이 이 게임 본편의 내용이다.
 
@@ -53,6 +53,12 @@
     [코끼리](../Page/코끼리.md "wikilink")\[2\]/[맘모스](https://ko.wikipedia.org/wiki/맘모스 "wikilink") 형태의 레프리로이드로 이레귤러 헌터 제 4 육상부대 출신으로 중동에서 활약. 사용 패턴은 코에서 기름을 뿌리는 데 데미지 효과는 없지만 [불꽃](https://ko.wikipedia.org/wiki/불꽃 "wikilink")이 닿으면 커다란 불기둥이 발생한다. 약점은 스톰 이글리드의 스톰 토네이도로 약점 반응은 별로 없다. 부메르 쿠왕거의 부메랑 커터를 안면부에 맞추면 코가 잘려나가는 모습을 볼 수 있다. 코가 잘려나간 모습은 [돼지](../Page/돼지.md "wikilink")를 더 닮았다.
     무기:파이어 웨이브(Fire Wave) - 짧은 사정거리의 불을 발사한다. 차지 시 불을 땅에 쏘며 일정 범위로 퍼진다.
 
+## 출시
+
+슈퍼 패미컴판이 처음 출시된 후, 1995년 로즈너 랩스가 개발한 [IBM PC판이](../Page/IBM_PC.md "wikilink") 6버튼 게임 컨트롤러와 함께 출시됐다.\[3\] 1996년에 [마이크로소프트 윈도우판이](../Page/마이크로소프트_윈도우.md "wikilink") 일본에서 출시됐다.\[4\]
+
+1997년에 북미 지역에서 [마제스코 엔터테인먼트가](https://ko.wikipedia.org/wiki/마제스코_엔터테인먼트 "wikilink") 슈퍼 패미컴판을 재발행했다.\[5\] 1998년에는 일본 닌텐도가 [닌텐도 파워](https://ko.wikipedia.org/wiki/닌텐도_파워 "wikilink") 카트리지 서비스를 통해 1998년에 발매했다.\[6\]
+
 ## 각주
 
 ## 외부 링크
@@ -64,3 +70,7 @@
 
 1.  이레귤러 헌터 X에서는 [오리](../Page/오리.md "wikilink")처럼 "꾸왁\!꾸왁\!꾸왁\!" 소리를 낸다.
 2.  이름의 유래는 [나우만코끼리](https://ko.wikipedia.org/wiki/나우만코끼리 "wikilink")
+3.
+4.
+5.
+6.

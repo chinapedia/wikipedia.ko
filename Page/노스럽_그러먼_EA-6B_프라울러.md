@@ -1,11 +1,11 @@
-> This article is converted from Wikipedia: [  EA-6B ](https://ko.wikipedia.org/wiki/__EA-6B_).
+> This article is converted from Wikipedia: [노스럽 그러먼 EA-6B 프라울러](https://ko.wikipedia.org/wiki/노스럽_그러먼_EA-6B_프라울러).
 
 
 **노스럽 그러먼 EA-6B 프라울러**는 [미국 해군의](../Page/미국_해군.md "wikilink") [그러먼 A-6 인트루더](../Page/그러먼_A-6_인트루더.md "wikilink") 공격기를 전자전기로 개조한 것이다.
 
 ## 역사
 
-1971년 실전배치되어 2015년 퇴역했다. 모두 170대 생산되었다. [보잉 EA-18G 그라울러로](../Page/보잉_EA-18G_그라울러.md "wikilink") 대체되었다.
+[1971년](../Page/1971년.md "wikilink") 실전배치되어 [2015년](../Page/2015년.md "wikilink") 퇴역했다. 모두 170대 생산되었다. [보잉 EA-18G 그라울러로](../Page/보잉_EA-18G_그라울러.md "wikilink") 대체되었다.
 
 ## 제원
 

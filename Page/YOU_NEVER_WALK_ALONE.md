@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [YOU NEVER WALK ALONE](https://ko.wikipedia.org/wiki/YOU_NEVER_WALK_ALONE).
 
 
-《***YOU NEVER WALK ALONE***》은 대한민국의 남성 그룹 [방탄소년단](../Page/방탄소년단.md "wikilink")의 세 번째 한국 리패키지 음반이다.\[1\] 2017년 2월 13일 빅히트 엔터테인먼트를 통해 발매하였다.
+《***YOU NEVER WALK ALONE***》은 [대한민국](../Page/대한민국.md "wikilink")의 [보이 그룹](https://ko.wikipedia.org/wiki/보이_그룹 "wikilink") [방탄소년단](../Page/방탄소년단.md "wikilink")의 세 번째 한국 리패키지 음반이다.\[1\] 2017년 2월 13일 [빅히트 엔터테인먼트를](../Page/빅히트_엔터테인먼트.md "wikilink") 통해 발매하였다.
 
 ## 수록곡
 

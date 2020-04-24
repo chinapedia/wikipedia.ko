@@ -15,7 +15,7 @@
 
 크로미움 프로젝트에의한 GN 프로젝트는 [닌자](../Page/닌자_\(빌드_시스템\).md "wikilink")(Ninja)로 [크로미움(Chromium)을](https://ko.wikipedia.org/wiki/크로미움_\(웹_브라우저\) "wikilink") 빌드 할 수 있도록 Ninja 빌드 파일을 생성하는 메타 빌드 시스템이다.
 
-2016 년 10 월 기준으로 모든 Chromium 빌드가 GYP에서 GN으로 전환되었다. 거의 모든 GYP 파일이 크로미움 저장소(Chromium repos)에서 대체되었다. 결과적으로 더 이상 GYP로 빌드 할 수 없다.
+2016년 10월 기준으로 모든 Chromium 빌드가 GYP에서 GN으로 전환되었다. 거의 모든 GYP 파일이 크로미움 저장소(Chromium repos)에서 대체되었다. 결과적으로 더 이상 GYP로 빌드 할 수 없다.
 
 변환할 필요가있는 "Closure Compilation"빌더를위한 GYP 파일이 여전히 남겨져있다. 일부 관련 프로젝트 (예 : [V8](https://ko.wikipedia.org/wiki/V8 "wikilink"), [Skia](https://ko.wikipedia.org/wiki/Skia "wikilink"))는 여전히 자체적인 이유로 GYP를 지원할 수 있다. 아직도 gclient가 GYP_DEFINES를 사용하는것과 같은 기능을 남겨놓고 있다.
 

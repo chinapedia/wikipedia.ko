@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [WKBL  5](https://ko.wikipedia.org/wiki/WKBL__5).
+> This article is converted from Wikipedia: [WKBL 베스트 5](https://ko.wikipedia.org/wiki/WKBL_베스트_5).
 
 
 **WKBL 베스트 5**(WKBL BEST 5)는 [한국여자프로농구](https://ko.wikipedia.org/wiki/한국여자프로농구 "wikilink") 정규리그에서 활약한 선수들 가운데 각 포지션별(가드 2, 포워드 2, 센터 1)로 시상하는 상이다. 정규리그의 2/3 이상 출전한 선수들 가운데, 기자단 투표로 수상자가 결정된다.
@@ -416,7 +416,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/로런_잭슨" title="wikilink">로런 잭슨</a></p></td>
+<td><p><a href="../Page/로런_잭슨.md" title="wikilink">로런 잭슨</a></p></td>
 <td></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/용인_삼성생명_비추미" title="wikilink">용인 삼성생명 비추미</a> |- style = "border-top:2px solid black;"</p></td>
 <td></td>
@@ -706,6 +706,30 @@
 <tr class="odd">
 <td><p><strong><a href="../Page/박지수_(농구_선수).md" title="wikilink">박지수</a></strong> (2)</p></td>
 <td></td>
+<td><p><a href="../Page/청주_KB_스타즈.md" title="wikilink">청주 KB 스타즈</a> |- style = "border-top:2px solid black;"</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/안혜지_(농구_선수).md" title="wikilink">안혜지</a></p></td>
+<td></td>
+<td><p><a href="../Page/부산_BNK_썸.md" title="wikilink">부산 BNK 썸</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/강이슬_(농구_선수).md" title="wikilink">강이슬</a> (3)</p></td>
+<td></td>
+<td><p><a href="../Page/부천_하나은행.md" title="wikilink">부천 하나은행</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ko.wikipedia.org/wiki/카일라_쏜튼" title="wikilink">카일라 쏜튼</a> (2)</p></td>
+<td></td>
+<td><p><a href="../Page/청주_KB_스타즈.md" title="wikilink">청주 KB 스타즈</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/박지수_(농구_선수).md" title="wikilink">박지수</a> (3)</p></td>
+<td></td>
 <td><p><a href="../Page/청주_KB_스타즈.md" title="wikilink">청주 KB 스타즈</a></p></td>
 <td></td>
 </tr>
@@ -729,7 +753,7 @@
 | [김지윤](https://ko.wikipedia.org/wiki/김지윤_\(농구_선수\) "wikilink") | 9     | 0        |
 | [박정은](../Page/박정은.md "wikilink")                              | 9     | 0        |
 | [전주원](../Page/전주원_\(농구인\).md "wikilink")                      | 9     | 1        |
-| [박혜진](../Page/박혜진_\(농구_선수\).md "wikilink")^                   | 7     | 4        |
+| [박혜진](../Page/박혜진_\(농구_선수\).md "wikilink")^                   | 8     | 5        |
 | [신정자](../Page/신정자.md "wikilink")                              | 7     | 1        |
 | [김영옥](https://ko.wikipedia.org/wiki/김영옥_\(농구_선수\) "wikilink") | 6     | 2        |
 | [김정은](../Page/김정은_\(농구_선수\).md "wikilink")^                   | 6     | 0        |
@@ -737,4 +761,4 @@
 ## 참고
 
   -
-[\*](https://ko.wikipedia.org/wiki/분류:한국여자농구연맹 "wikilink")
+[베스트 5](https://ko.wikipedia.org/wiki/분류:한국여자프로농구_상 "wikilink")

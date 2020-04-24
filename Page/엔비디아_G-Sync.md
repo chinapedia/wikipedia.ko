@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ G-Sync](https://ko.wikipedia.org/wiki/_G-Sync).
+> This article is converted from Wikipedia: [엔비디아 G-Sync](https://ko.wikipedia.org/wiki/엔비디아_G-Sync).
 
 
 **G-Sync**(지싱크)는 [엔비디아](../Page/엔비디아.md "wikilink") [사유의](https://ko.wikipedia.org/wiki/사유_소프트웨어 "wikilink") 적응형 동기화 기술의 하나로, [Vsync와](../Page/아날로그_텔레비전.md "wikilink") 같은 소프트웨어의 대안이 필요해짐에 따라 [스크린 테어링을](https://ko.wikipedia.org/wiki/스크린_테어링 "wikilink") 제거하는 것이 목적이다.\[1\] G-Sync는 출력 장치가 디스플레이에 순응하는 것이 아닌, 비디오 디스플레이가 출력 장치(그래픽 카드/내장 그래픽스)의 프레임 레이트에 순응할 수 있게 함으로써 스크린 티어링을 제거한다. 전통적인 방식은 장치의 출력이 되는 프레임의 프로세스를 통해 새로 고침을 수행했었으나 이로 인해 한 번에 표시되는 2프레임 이상의 스크린 티어링이 발생하였다.\[2\] 장치가 G-Sync를 사용하기 위해서는 엔비디아가 판매하는 사유 G-Sync 모듈을 포함해야 한다. AMD는 [FreeSync](https://ko.wikipedia.org/wiki/FreeSync "wikilink")라는 이름의 비슷한 디스플레이 기술을 출시하였으며 G-Sync와 동일한 기능을 수행하지만 로열티 제약이 없다.

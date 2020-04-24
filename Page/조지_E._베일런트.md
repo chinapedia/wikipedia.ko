@@ -9,18 +9,18 @@
 
 ## 책
 
-  - Vaillant, GE (1977), Adaptation to Life, Boston, MA, Little, Brown, 1977 (also Lippincott Williams & Wilkins, Hardcover, 396pp ISBN 0-316-89520-2) \[also German, Korean and Chinese translations\] (Reprinted with a new preface in 1995 by Harvard University Press, Cambridge, MA) 
-  - Vaillant, GE (1983), Natural History of Alcoholism, Cambridge, MA, Harvard University Press 
-  - Vaillant, GE (1992), Ego Mechanisms of Defense: A Guide for Clinicians and Researchers, Washington, DC, American Psychiatric Press 
-  - Vaillant, GE (1993), The Wisdom of the Ego, Cambridge, MA, Harvard University Press, ISBN 0-674-95373-8 
-  - Vaillant, GE (1995), The Natural History of Alcoholism Revisited, Cambridge, MA, Harvard University Press, \[also (Brazilian) Portuguese translation\] 
-  - Vaillant, GE (2002), Aging Well, Boston, Little Brown, ISBN 0-316-09007-7 
-  - Vaillant, GE (2008), Spiritual Evolution: A Scientific Defense of Faith, Broadway Books, ISBN 0-7679-2657-9 
+  - Vaillant, GE (1977), Adaptation to Life, Boston, MA, Little, Brown, 1977 (also Lippincott Williams & Wilkins, Hardcover, 396pp ISBN 0-316-89520-2) \[also German, Korean and Chinese translations\] (Reprinted with a new preface in 1995 by Harvard University Press, Cambridge, MA)
+  - Vaillant, GE (1983), Natural History of Alcoholism, Cambridge, MA, Harvard University Press
+  - Vaillant, GE (1992), Ego Mechanisms of Defense: A Guide for Clinicians and Researchers, Washington, DC, American Psychiatric Press
+  - Vaillant, GE (1993), The Wisdom of the Ego, Cambridge, MA, Harvard University Press, ISBN 0-674-95373-8
+  - Vaillant, GE (1995), The Natural History of Alcoholism Revisited, Cambridge, MA, Harvard University Press, \[also (Brazilian) Portuguese translation\]
+  - Vaillant, GE (2002), Aging Well, Boston, Little Brown, ISBN 0-316-09007-7
+  - Vaillant, GE (2008), Spiritual Evolution: A Scientific Defense of Faith, Broadway Books, ISBN 0-7679-2657-9
   - Vaillant, GE (2012), Triumphs of Experience: The Men of the Harvard Grant Study, Belknap Press, ISBN 0-674-05982-4
 
 ## 각주
 
-[분류:1934년 태어남](https://ko.wikipedia.org/wiki/분류:1934년_태어남 "wikilink") [분류:미국의 정신의학자](https://ko.wikipedia.org/wiki/분류:미국의_정신의학자 "wikilink") [분류:살아있는 사람](https://ko.wikipedia.org/wiki/분류:살아있는_사람 "wikilink") [분류:의사](https://ko.wikipedia.org/wiki/분류:의사 "wikilink") [분류:하버드 대학교 교수](https://ko.wikipedia.org/wiki/분류:하버드_대학교_교수 "wikilink") [분류:작가](https://ko.wikipedia.org/wiki/분류:작가 "wikilink")
+[분류:1934년 태어남](https://ko.wikipedia.org/wiki/분류:1934년_태어남 "wikilink") [분류:살아있는 사람](https://ko.wikipedia.org/wiki/분류:살아있는_사람 "wikilink") [분류:미국의 정신의학자](https://ko.wikipedia.org/wiki/분류:미국의_정신의학자 "wikilink")
 
 1.  [행복의 조건, 조지 베일런트](http://news.khan.co.kr/kh_news/khan_art_view.html?artid=201511182305085&code=960205)
 2.

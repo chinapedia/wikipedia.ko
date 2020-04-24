@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ GP   ](https://ko.wikipedia.org/wiki/_GP___).
+> This article is converted from Wikipedia: [양구 GP 일병 사망 사건](https://ko.wikipedia.org/wiki/양구_GP_일병_사망_사건).
 
 
 **양구 GP 일병 사망 사건**은 2018년 11월 16일 오후 5시경 [대한민국](../Page/대한민국.md "wikilink") [강원도](../Page/강원도.md "wikilink") [양구군](../Page/양구군.md "wikilink") 동부전선 모 전방사단 [휴전선 감시 초소](../Page/휴전선_감시_초소.md "wikilink")(GP) 내 화장실에서 김모 일병이 머리에 총상을 입고 병원으로 옮겨지던 중 사망한 사건이다.\[1\] 사건이 발생한 GP는 보강공사 중이었으며, 김 일병은 GP를 오가며 임무를 수행해 온 것으로 알려졌다.\[2\] 이 사건과 관련해 현실적으로 자살이 불가능했다는 의혹, [조선인민군](../Page/조선인민군.md "wikilink") 타살 의혹, [2018년 남북 군사합의로](https://ko.wikipedia.org/wiki/2018년_제3차_남북정상회담#휴전선_비행금지구역_확대_논란 "wikilink") 인해 헬기를 띄우지 못 했다는 의혹 등이 제기되어 파장이 일었다.\[3\]\[4\]

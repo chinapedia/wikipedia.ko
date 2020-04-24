@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [The One \(  \)](https://ko.wikipedia.org/wiki/The_One_\(__\)).
+> This article is converted from Wikipedia: [The One \(엘튼 존의 음반\)](https://ko.wikipedia.org/wiki/The_One_\(엘튼_존의_음반\)).
 
 
 《**The One**》은 1992년 6월 22일에 발매된 [영국](../Page/영국.md "wikilink")의 음악가 [엘튼 존의](../Page/엘튼_존.md "wikilink") 스물세 번째 스튜디오 음반이다. 그것은 [크리스 토머스가](https://ko.wikipedia.org/wiki/크리스_토머스 "wikilink") 제작하고 [존 리드가](https://ko.wikipedia.org/wiki/존_리드 "wikilink") 관리하고 있는 파리의 빌헬름 텔 스튜디오에서 녹음되었다. 이 음반은 [밴스 벅에게](https://ko.wikipedia.org/wiki/밴스_벅 "wikilink") 헌정되었고 이 음반의 표지 작품은 [잔니 베르사체에서](https://ko.wikipedia.org/wiki/잔니_베르사체 "wikilink") 디자인되었다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [J. T. ](https://ko.wikipedia.org/wiki/J._T._).
+> This article is converted from Wikipedia: [J. T. 리얼무토](https://ko.wikipedia.org/wiki/J._T._리얼무토).
 
 
 **제이컵 타일러 리얼무토**(Jacob Tyler Realmuto, [1991년](../Page/1991년.md "wikilink") [3월 18일](../Page/3월_18일.md "wikilink") \~ )는 [미국](../Page/미국.md "wikilink")의 야구 선수로, [내셔널 리그](../Page/내셔널_리그_\(야구\).md "wikilink") [필라델피아 필리스의](../Page/필라델피아_필리스.md "wikilink") 포수이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [HCN ](https://ko.wikipedia.org/wiki/HCN_).
+> This article is converted from Wikipedia: [HCN 뉴스와이드](https://ko.wikipedia.org/wiki/HCN_뉴스와이드).
 
 
 《**HCN 뉴스와이드**》는 [대한민국](../Page/대한민국.md "wikilink") 케이블 방송사인 [현대HCN](../Page/현대HCN.md "wikilink")의 뉴스 프로그램이다.

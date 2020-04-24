@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Unfinished Music No. 2: Life with the Lions](https://ko.wikipedia.org/wiki/Unfinished_Music_No._2:_Life_with_the_Lions).
 
 
-《**Unfinished Music No. 2: Life with the Lions**》 ([한국어](../Page/한국어.md "wikilink"): 미완성 음악 제 2번: 사자들과의 삶) 는 존 레논과 요코 오노에 의해 발표된 세 개의 전위 음반 중 두 번째 음반이다.
+《**Unfinished Music No. 2: Life with the Lions**》 ([한국어](../Page/한국어.md "wikilink"): 미완성 음악 제 2번: 사자들과의 삶)는 존 레논과 요코 오노에 의해 발표된 세 개의 전위 음반 중 두 번째 음반이다.
 
 ## 배경 및 구성
 

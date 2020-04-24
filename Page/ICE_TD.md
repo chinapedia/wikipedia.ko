@@ -39,4 +39,4 @@
 3.  [hochgeschwindigkeitszuege.com - ICE-TD der Deutschen Bahn AG](http://www.hochgeschwindigkeitszuege.com/deutschland/ice-td.php) (German) retrieved 1 November 2016
 4.  <http://www.tagesspiegel.de/berlin/deutsche-bahn-direktverbindung-nach-daenemark-droht-das-aus/11915488.html>
 5.  [railjournal.com - DSB to withdraw ICE-TDs as DB terminates lease](http://www.railjournal.com/index.php/rolling-stock/dsb-to-withdraw-ice-td-fleet-as-db-terminates-lease.html?channel=) 1 June 2015
-6.  [ICE-TD nach Kopenhagen](https://community.bahn.de/questions/1191214-ice-td-kopenhagen)
+6.

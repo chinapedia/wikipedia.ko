@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ NHL ](https://ko.wikipedia.org/wiki/_NHL_).
+> This article is converted from Wikipedia: [시애틀 NHL 팀](https://ko.wikipedia.org/wiki/시애틀_NHL_팀).
 
 
 **시애틀 NHL 팀**(Seattle NHL team)는 [미국](../Page/미국.md "wikilink") [워싱턴 주](https://ko.wikipedia.org/wiki/워싱턴_주 "wikilink") [시애틀](../Page/시애틀.md "wikilink")를 연고지로 2021\~2022 시즌부터 [NHL](../Page/내셔널_하키_리그.md "wikilink") [서부 콘퍼런스](../Page/서부_콘퍼런스_\(NHL\).md "wikilink") [퍼시픽 디비전에](../Page/퍼시픽_디비전_\(NHL\).md "wikilink") 소속될 예정이다.

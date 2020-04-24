@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [38 KBS ](https://ko.wikipedia.org/wiki/38_KBS_).
+> This article is converted from Wikipedia: [38기 KBS 바둑왕전](https://ko.wikipedia.org/wiki/38기_KBS_바둑왕전).
 
 
 **38기 KBS 바둑왕전**은 TV 속기전이 참가하는 국내 바둑 기전이다. 결승 3번기 에서는 [신진서](../Page/신진서.md "wikilink") 九단이 [신민준](../Page/신민준.md "wikilink") 九단을 2대 1로 역전하며 우승을 차지했다.

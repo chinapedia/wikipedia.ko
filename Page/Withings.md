@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Withings](https://ko.wikipedia.org/wiki/Withings).
 
 
-**Withings** 는 [프랑스](../Page/프랑스.md "wikilink")의 [스마트 장치들을](https://ko.wikipedia.org/wiki/스마트_장치 "wikilink") 개발하는 회사로, 2008년 설립되었다, 2016년 노키아에 인수, 그후 2018년부터 공동 설립자인 Éric Carreel이 소유하고 있다.
+**Withings**는 [프랑스](../Page/프랑스.md "wikilink")의 [스마트 장치들을](https://ko.wikipedia.org/wiki/스마트_장치 "wikilink") 개발하는 회사로, 2008년 설립되었다, 2016년 노키아에 인수, 그후 2018년부터 공동 설립자인 Éric Carreel이 소유하고 있다.
 
 [2016년](../Page/2016년.md "wikilink") [노키아](../Page/노키아.md "wikilink")에 인수되었으며, [2017년](../Page/2017년.md "wikilink") [6월](../Page/6월.md "wikilink")부터 노키아에서 Withings 브랜드를 사용해서 건강과 관련된 스마트 디바이스를 판매하였다.\[1\] 그후 [2018년](../Page/2018년.md "wikilink") 5월 말에 공동 설립자인 Éric Carreel이 Nokia Technologies France를 인수하여 원래 이름을 되 찾았다\[2\]
 

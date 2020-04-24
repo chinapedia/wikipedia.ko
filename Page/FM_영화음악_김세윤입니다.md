@@ -17,8 +17,9 @@
 
 ## 역대 DJ
 
-  - 1대, 3대 - [정은채](https://ko.wikipedia.org/wiki/정은채 "wikilink") : [2018년](../Page/2018년.md "wikilink") [4월 9일](../Page/4월_9일.md "wikilink") \~ [2018년](../Page/2018년.md "wikilink") [6월 3일](../Page/6월_3일.md "wikilink"), [2019년](../Page/2019년.md "wikilink") [2월 1일](../Page/2월_1일.md "wikilink") \~ [2019년](../Page/2019년.md "wikilink") [9월 1일](../Page/9월_1일.md "wikilink")
+  - 1대, - [정은채](https://ko.wikipedia.org/wiki/정은채 "wikilink") : [2018년](../Page/2018년.md "wikilink") [4월 9일](../Page/4월_9일.md "wikilink") \~ [2018년](../Page/2018년.md "wikilink") [6월 3일](../Page/6월_3일.md "wikilink"),
   - 2대 - [한예리](../Page/한예리.md "wikilink") : [2018년](../Page/2018년.md "wikilink") [6월 4일](../Page/6월_4일.md "wikilink") \~ [2019년](../Page/2019년.md "wikilink") [1월 31일](../Page/1월_31일.md "wikilink")
+  - 3대 - [정은채](https://ko.wikipedia.org/wiki/정은채 "wikilink") : [2019년](../Page/2019년.md "wikilink") [2월 1일](../Page/2월_1일.md "wikilink") \~ [2019년](../Page/2019년.md "wikilink") [9월 1일](../Page/9월_1일.md "wikilink"),
       - 스페셜\[1\] - [박하선](https://ko.wikipedia.org/wiki/박하선 "wikilink")\[2\]: [2019년](../Page/2019년.md "wikilink") [9월 2일](../Page/9월_2일.md "wikilink") \~ [2019년](../Page/2019년.md "wikilink") [9월 29일](../Page/9월_29일.md "wikilink")
   - 4대 - 김세윤 : [2019년](../Page/2019년.md "wikilink") [9월 30일](../Page/9월_30일.md "wikilink") \~ 현재
 

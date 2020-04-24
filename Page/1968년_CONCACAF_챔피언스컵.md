@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [1968 CONCACAF ](https://ko.wikipedia.org/wiki/1968_CONCACAF_).
+> This article is converted from Wikipedia: [1968년 CONCACAF 챔피언스컵](https://ko.wikipedia.org/wiki/1968년_CONCACAF_챔피언스컵).
 
 
 **1968년 CONCACAF 챔피언스컵**(1968 CONCACAF Champions' Cup)은 [1968년](../Page/1968년.md "wikilink") [5월 26일부터](../Page/5월_26일.md "wikilink") [12월 1일까지](../Page/12월_1일.md "wikilink") 개최된 CONCACAF 챔피언스컵(현재의 [CONCACAF 챔피언스리그](../Page/CONCACAF_챔피언스리그.md "wikilink"))의 4번째 대회이다. [멕시코](../Page/멕시코.md "wikilink")의 [데포르티보 톨루카가](../Page/데포르티보_톨루카_FC.md "wikilink") 우승을 차지했다.

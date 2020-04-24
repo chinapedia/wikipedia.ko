@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [The River \(\)](https://ko.wikipedia.org/wiki/The_River_\(\)).
+> This article is converted from Wikipedia: [The River \(음반\)](https://ko.wikipedia.org/wiki/The_River_\(음반\)).
 
 
 《**The River**》는 [브루스 스프링스틴의](../Page/브루스_스프링스틴.md "wikilink") 다섯 번째 스튜디오 음반이다. 이 음반은 1980년 10월 17일 [컬럼비아 레코드에](../Page/컬럼비아_레코드.md "wikilink") 의해 발매되었다.\[1\] 스프링스틴의 유일한 더블 음반인 《The River》는 [존 랜도](https://ko.wikipedia.org/wiki/존_랜도_\(음악_프로듀서\) "wikilink"), 스프링스틴, 그리고 밴드 동료 [스티븐 밴 잰트가](https://ko.wikipedia.org/wiki/스티븐_밴_잰트 "wikilink") 프로듀싱을 했다. 이 음반은 스프링스틴이 [빌보드 200에서](../Page/빌보드_200.md "wikilink") 1위를 한 첫 번째 음반이고 차트 1위를 차지하며 4주를 보냈다.\[2\] 《The River》는 1982년 [그래미 어워드에서](../Page/그래미_어워드.md "wikilink") 최우수 록 보컬 퍼포먼스 후보에 올랐다.
@@ -11,7 +11,7 @@
 
 ## 곡 목록
 
-모든 곡들은 [브루스 스프링스틴이](../Page/브루스_스프링스틴.md "wikilink") 작사/작곡하였다.
+모든 곡들은 [브루스 스프링스틴에](../Page/브루스_스프링스틴.md "wikilink") 의해 작사/작곡하였다.
 
 ## 각주
 

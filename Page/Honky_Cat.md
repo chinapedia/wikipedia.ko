@@ -7,7 +7,7 @@
 
 라이브 버젼은 1976년 《[Here and There](../Page/Here_and_There.md "wikilink")》에서 발매되었고(1995년에 CD를 확장함), 솔로 피아노 버전은 EltonJohn.com에 나와 1999년 10월에 녹음된 《Live in Madison Square Garden》 1장 한정판 CD를 발매했다.
 
-[리 앤 워맥이](https://ko.wikipedia.org/wiki/리_앤_워맥 "wikilink") 2018년 헌정 음반 《Restoration: Reimagining the Songs of Elton John and Bernie Taupin》에서 이 노래를 다루었다.
+[리 앤 워맥이](../Page/리_앤_워맥.md "wikilink") 2018년 헌정 음반 《Restoration: Reimagining the Songs of Elton John and Bernie Taupin》에서 이 노래를 다루었다.
 
 ## 각주
 

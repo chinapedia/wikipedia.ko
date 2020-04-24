@@ -47,7 +47,7 @@
 9.  "Crocodile Rock" – 4:08
 10. "[Candle in the Wind](../Page/Candle_in_the_Wind.md "wikilink")" – 3:57
 11. "[Your Song](../Page/Your_Song.md "wikilink")" – 3:56
-12. "[Saturday Night's Alright for Fighting](https://ko.wikipedia.org/wiki/Saturday_Night's_Alright_for_Fighting "wikilink")" – 7:09
+12. "[Saturday Night's Alright for Fighting](../Page/Saturday_Night's_Alright_for_Fighting.md "wikilink")" – 7:09
 
 <!-- end list -->
 

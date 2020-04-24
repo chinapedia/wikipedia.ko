@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Queen \(\)](https://ko.wikipedia.org/wiki/Queen_\(\)).
+> This article is converted from Wikipedia: [Queen \(음반\)](https://ko.wikipedia.org/wiki/Queen_\(음반\)).
 
 
 《**Queen**》은 1973년 7월 13일 [영국](../Page/영국.md "wikilink")의 [EMI 레코드와](https://ko.wikipedia.org/wiki/EMI_레코드 "wikilink") [미국](../Page/미국.md "wikilink")의 [엘렉트라 레코드가](https://ko.wikipedia.org/wiki/엘렉트라_레코드 "wikilink") 발표한 [영국](../Page/영국.md "wikilink")의 록 밴드 [퀸의](../Page/퀸_\(밴드\).md "wikilink") 자체 데뷔 스튜디오 음반이다. 이 음반은 [로이 토머스 베이커](https://ko.wikipedia.org/wiki/로이_토머스_베이커 "wikilink"), [존 앤서니](https://ko.wikipedia.org/wiki/존_앤서니_\(음악_프로듀서\) "wikilink"), 그리고 밴드 멤버들이 직접 제작한 런던 [트라이던트 스튜디오와](https://ko.wikipedia.org/wiki/트라이던트_스튜디오 "wikilink") 드 레인 뮤직 센터에서 녹음되었다.

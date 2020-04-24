@@ -3,7 +3,7 @@
 
 《**From the Cradle**》은 1994년 9월 13일 [워너 브라더스 레코드가](https://ko.wikipedia.org/wiki/워너_브라더스_레코드 "wikilink") 발표한 [에릭 클랩튼의](../Page/에릭_클랩튼.md "wikilink") 열두 번째 솔로 스튜디오 음반이다.\[1\] 그것은 [블루스](../Page/블루스.md "wikilink") [커버 음반이다](https://ko.wikipedia.org/wiki/커버_\(음악\) "wikilink"). 이 음반은 클랩튼의 1992년 라이브 음반인 《[Unplugged](../Page/Unplugged_\(에릭_클랩튼의_음반\).md "wikilink")》의 후속곡이었다.
 
-그는 오랫동안 블루스와 인연을 맺어왔지만, 《From the Cradle》은 클랩튼의 첫 번째 블루스 음반 시도였다. 이후 그는 [B.B. 킹과의](https://ko.wikipedia.org/wiki/B.B._킹 "wikilink") 공동 작업 음반 《[Riding with the King](https://ko.wikipedia.org/wiki/Riding_with_the_King "wikilink")》과 [로버트 존슨에](../Page/로버트_존슨.md "wikilink") 대한 헌정 음반 《[Me and Mr. Johnson](https://ko.wikipedia.org/wiki/Me_and_Mr._Johnson "wikilink")》 그리고 [J. J. 케일과의](https://ko.wikipedia.org/wiki/J._J._케일 "wikilink") 공동 작업 음반 《[The Road to Escondido](https://ko.wikipedia.org/wiki/The_Road_to_Escondido "wikilink")》을 녹음했다.
+그는 오랫동안 블루스와 인연을 맺어왔지만, 《From the Cradle》은 클랩튼의 첫 번째 블루스 음반 시도였다. 이후 그는 [B.B. 킹과의](https://ko.wikipedia.org/wiki/B.B._킹 "wikilink") 공동 작업 음반 《[Riding with the King](../Page/Riding_with_the_King.md "wikilink")》과 [로버트 존슨에](../Page/로버트_존슨.md "wikilink") 대한 헌정 음반 《[Me and Mr. Johnson](../Page/Me_and_Mr._Johnson.md "wikilink")》 그리고 [J. J. 케일과의](https://ko.wikipedia.org/wiki/J._J._케일 "wikilink") 공동 작업 음반 《[The Road to Escondido](https://ko.wikipedia.org/wiki/The_Road_to_Escondido "wikilink")》을 녹음했다.
 
 ## 곡 목록
 

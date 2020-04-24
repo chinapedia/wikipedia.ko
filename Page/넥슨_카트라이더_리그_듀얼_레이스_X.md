@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [     X](https://ko.wikipedia.org/wiki/_____X).
+> This article is converted from Wikipedia: [넥슨 카트라이더 리그 듀얼 레이스 X](https://ko.wikipedia.org/wiki/넥슨_카트라이더_리그_듀얼_레이스_X).
 
 
 **넥슨 카트라이더 리그 DUAL RACE X**는 넥슨에서 개최하고 [SPO TV 게임즈에서](https://ko.wikipedia.org/wiki/SPO_TV_게임즈 "wikilink") 방송한 이벤트 리그이다. 예선 없이 진행했다.
@@ -7,12 +7,12 @@
 
 ### 팀전
 
-| 그룹            | 팀명                                                                           | 선수                                              |
-| ------------- | ---------------------------------------------------------------------------- | ----------------------------------------------- |
-| A조            | Afreeca Flame                                                                | [문호준](../Page/문호준.md "wikilink"), 박도현, 배성빈, 최영훈 |
-| Xenics Storm  | 송용준, [유영혁](../Page/유영혁.md "wikilink"), 유창현, 이재혁                              |                                                 |
-| ROX Gaming    | [김승태](../Page/김승태.md "wikilink"), [박인수](../Page/박인수.md "wikilink"), 이현진, 한승철 |                                                 |
-| Oz-FANTASTICK | 김상수, 정승민, 정승하, 한상현                                                           |                                                 |
+| 그룹            | 팀명                                                                           | 선수                                                  |
+| ------------- | ---------------------------------------------------------------------------- | --------------------------------------------------- |
+| A조            | Afreeca Flame                                                                | [문호준](../Page/문호준.md "wikilink"), 박도현, 배성빈, 최영훈,이은택 |
+| Xenics Storm  | 송용준, [유영혁](../Page/유영혁.md "wikilink"), 유창현, 이재혁                              |                                                     |
+| ROX Gaming    | [김승태](../Page/김승태.md "wikilink"), [박인수](../Page/박인수.md "wikilink"), 이현진, 한승철 |                                                     |
+| Oz-FANTASTICK | 김상수, 정승민, 정승하, 한상현                                                           |                                                     |
 
 ### 개인전
 

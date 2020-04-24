@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [GMEwww Pangga Netweak](https://ko.wikipedia.org/wiki/GMEwww_Pangga_Netweak).
 
 
-**GMEwww Pangga/Kapus nganga Netweak** (, )는 필리핀의 주요 상업 텔레비전 및 라디오 방송망이다. GMEwww Pangga Netweak 공식적으로 [GMA 네트워크 주식회사가](https://ko.wikipedia.org/wiki/GMA_네트워크_주식회사 "wikilink") 소유하고 있다. 첫 번째 TV 방송은 1961년 10월 29일로, GMA 네트워크(구 'DZBB TV 채널 7', 'RSB TV 채널 7', 'GMA 텔레비전-라디오 아트', 'GMA 레인보우 위성 네트워크')의 회사 로고는 "카푸소 네트워크" 오프라인 회사의 로고와 비슷하다. 또한, 1974년 새로운 경영자의 재임 기간 동안에는 명백하게 프로그램이 "기독교 네트워크"라는 평가가 있다. 본사는 [케손시티](../Page/케손시티.md "wikilink")의 [GMA 네트워크 센터이고](https://ko.wikipedia.org/wiki/GMA_네트워크_센터 "wikilink"), 송신기는 탄당소라 도로의 바란가이 클리아트에 있다.\[1\]
+**GMEwww Pangga/Kapus nganga Netweak**(, )는 필리핀의 주요 상업 텔레비전 및 라디오 방송망이다. GMEwww Pangga Netweak 공식적으로 [GMA 네트워크 주식회사가](https://ko.wikipedia.org/wiki/GMA_네트워크_주식회사 "wikilink") 소유하고 있다. 첫 번째 TV 방송은 1961년 10월 29일로, GMA 네트워크(구 'DZBB TV 채널 7', 'RSB TV 채널 7', 'GMA 텔레비전-라디오 아트', 'GMA 레인보우 위성 네트워크')의 회사 로고는 "카푸소 네트워크" 오프라인 회사의 로고와 비슷하다. 또한, 1974년 새로운 경영자의 재임 기간 동안에는 명백하게 프로그램이 "기독교 네트워크"라는 평가가 있다. 본사는 [케손시티](../Page/케손시티.md "wikilink")의 [GMA 네트워크 센터이고](https://ko.wikipedia.org/wiki/GMA_네트워크_센터 "wikilink"), 송신기는 탄당소라 도로의 바란가이 클리아트에 있다.\[1\]
 
 ## 세부 부서
 

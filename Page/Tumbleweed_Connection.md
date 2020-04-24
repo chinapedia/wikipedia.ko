@@ -5,7 +5,7 @@
 
 ## 배경
 
-모든 노래는 존과 [버니 토핀이](../Page/버니_토핀.md "wikilink") 작사/작곡한 곡으로, [레슬리 던컨의](https://ko.wikipedia.org/wiki/레슬리_던컨 "wikilink") 〈Love Song〉을 제외한 곡이 있다. 이 음반은 [트라이던트 스튜디오인](https://ko.wikipedia.org/wiki/트라이던트_스튜디오 "wikilink") 영국 [런던](../Page/런던.md "wikilink")에 3월 1970년 같은 해 10월에 발표됬다.
+모든 노래는 존과 [버니 토핀이](../Page/버니_토핀.md "wikilink") 작사/작곡한 곡으로, [레슬리 던컨의](https://ko.wikipedia.org/wiki/레슬리_던컨 "wikilink") 〈Love Song〉을 제외한 곡이 있다. 이 음반은 [트라이던트 스튜디오인](https://ko.wikipedia.org/wiki/트라이던트_스튜디오 "wikilink") 영국 [런던](../Page/런던.md "wikilink")에 3월 1970년 같은 해 10월에 발표됐다.
 
 이 음반의 타이틀 중 세 곡인 〈[Come Down in Time](https://ko.wikipedia.org/wiki/Come_Down_in_Time "wikilink")〉, 〈Country Comfort〉, 그리고 〈[Burn Down the Mission](https://ko.wikipedia.org/wiki/Burn_Down_the_Mission "wikilink")〉의 기본 트랙은 이전 음반인 《[Elton John](../Page/Elton_John_\(음반\).md "wikilink")》의 세션 동안 트라이던트에서 녹음되었으며, 《Tumblewed Connection》을 위해 오버더빙이 완료되었다. [믹 론슨이](https://ko.wikipedia.org/wiki/믹_론슨 "wikilink") 일렉트릭 기타를 연주하는 〈Madman Across the Water〉의 초기 버전도 음반 세션 동안 녹음되었다. 이 곡은 여러 음반으로 발매되었고 《Tumbleweed Connection》의 재발매로 발매되었지만, 이 곡은 결국 《[Madman Across the Water](../Page/Madman_Across_the_Water.md "wikilink")》 음반으로 다시 녹음되었다.\[1\]
 

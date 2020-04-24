@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [ WFC](https://ko.wikipedia.org/wiki/_WFC).
+> This article is converted from Wikipedia: [아스널 WFC](https://ko.wikipedia.org/wiki/아스널_WFC).
 
 
-**아스널 WFC**()는 [잉글랜드](../Page/잉글랜드.md "wikilink")의 [여자 축구](../Page/여자_축구.md "wikilink") 클럽이자 [아스널 FC](../Page/아스널_FC.md "wikilink") 산하 여자 축구 클럽이다. 현재는 [FA 여자 슈퍼리그에](https://ko.wikipedia.org/wiki/FA_여자_슈퍼리그 "wikilink") 참여하고 있다. [1987년](../Page/1987년.md "wikilink")에 아스널 FC 산하 아마추어 여자 축구 클럽인 **아스널 레이디스 FC**(Arsenal Ladies Football Club)로 창단되었으며 [2002년](../Page/2002년.md "wikilink")에 세미프로 여자 축구 클럽으로 전향했다. [2017년 7월에](https://ko.wikipedia.org/wiki/2017년_7월 "wikilink") 지금과 같은 이름으로 변경하였다.
+**아스널 WFC**()는 [잉글랜드](../Page/잉글랜드.md "wikilink")의 [여자 축구](../Page/여자_축구.md "wikilink") 클럽이자 [아스널 FC](../Page/아스널_FC.md "wikilink") 산하 여자 축구 클럽이다. 현재는 [FA 여자 슈퍼리그에](../Page/FA_여자_슈퍼리그.md "wikilink") 참여하고 있다. [1987년](../Page/1987년.md "wikilink")에 아스널 FC 산하 아마추어 여자 축구 클럽인 **아스널 레이디스 FC**(Arsenal Ladies Football Club)로 창단되었으며 [2002년](../Page/2002년.md "wikilink")에 세미프로 여자 축구 클럽으로 전향했다. [2017년 7월에](https://ko.wikipedia.org/wiki/2017년_7월 "wikilink") 지금과 같은 이름으로 변경하였다.
 
 FA 여자 슈퍼리그 2회 우승, FA 여자 프리미어리그 12회 우승, FA 여자컵 14회 우승, FA 여자 리그컵 5회 우승, FA 여자 내셔널리그컵 10회 우승, FA 여자 커뮤니티 실드 5회 우승, UEFA 여자 챔피언스리그 1회 우승을 달성하여 잉글랜드에서 성공한 여자 축구 클럽으로 여겨진다.
 

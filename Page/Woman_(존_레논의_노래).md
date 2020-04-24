@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Woman \(  \)](https://ko.wikipedia.org/wiki/Woman_\(__\)).
+> This article is converted from Wikipedia: [Woman \(존 레논의 노래\)](https://ko.wikipedia.org/wiki/Woman_\(존_레논의_노래\)).
 
 
 〈**Woman**〉은 [존 레논이](../Page/존_레논.md "wikilink") 1980년 음반 《[Double Fantasy](../Page/Double_Fantasy.md "wikilink")》에서 작곡하고 연주한 곡이다. 오노 요코의 곡 〈Beautiful Boys〉를 B 사이드로 싱글 발매되었다.\[1\] 이 곡은 레논에 의해 《Double Fantasy》 음반에서 두 번째로 싱글 발매된 곡이었고, 1980년 12월 8일 레논의 사망 이후 첫 번째로 발매된 싱글이었다.\[2\] 레논은 그의 아내 [오노 요코와](../Page/오노_요코.md "wikilink") 모든 여자들에게 보내는 징조로 〈Woman〉을 썼다.\[3\]

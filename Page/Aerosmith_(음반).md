@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [Aerosmith \(\)](https://ko.wikipedia.org/wiki/Aerosmith_\(\)).
+> This article is converted from Wikipedia: [Aerosmith \(음반\)](https://ko.wikipedia.org/wiki/Aerosmith_\(음반\)).
 
 
-《**Aerosmith**》는 1973년 1월 5일 [컬럼비아 레코드가](../Page/컬럼비아_레코드.md "wikilink") 발표한 [미국](../Page/미국.md "wikilink")의 록 밴드 [에어로스미스](../Page/에어로스미스.md "wikilink")의 데뷔 스튜디오 음반이다.\[1\] 〈[Walkin' the Dog](https://ko.wikipedia.org/wiki/Walking_the_Dog "wikilink")〉라는 곡은 원래 [루퍼스 토머스가](https://ko.wikipedia.org/wiki/루퍼스_토머스 "wikilink") 부른 곡의 커버다. 싱글 〈[Dream On](https://ko.wikipedia.org/wiki/Dream_On "wikilink")〉은 1976년에 다시 발매되면서 미국 톱 10 싱글이 되었고, 1973년에 싱글로 처음 발매되었다. 이 음반은 1976년 미국 [빌보드 200차트에서](../Page/빌보드_200.md "wikilink") 21위로 정점을 찍었다.\[2\]
+《**Aerosmith**》는 1973년 1월 5일 [컬럼비아 레코드가](../Page/컬럼비아_레코드.md "wikilink") 발표한 [미국](../Page/미국.md "wikilink")의 록 밴드 [에어로스미스](../Page/에어로스미스.md "wikilink")의 데뷔 스튜디오 음반이다.\[1\] 〈[Walkin' the Dog](https://ko.wikipedia.org/wiki/Walking_the_Dog "wikilink")〉라는 곡은 원래 [루퍼스 토머스가](../Page/루퍼스_토머스.md "wikilink") 부른 곡의 커버다. 싱글 〈[Dream On](https://ko.wikipedia.org/wiki/Dream_On "wikilink")〉은 1976년에 다시 발매되면서 미국 톱 10 싱글이 되었고, 1973년에 싱글로 처음 발매되었다. 이 음반은 1976년 미국 [빌보드 200차트에서](../Page/빌보드_200.md "wikilink") 21위로 정점을 찍었다.\[2\]
 
 원래 커버에 〈Walkin' the Dog〉라는 곡이 〈Walkin' the Dig〉로 잘못 인쇄되었다. 1976년 두 번째 누르는 음반이 나왔을 때 이 오류는 수정되었고 커버는 밴드 멤버들의 사진으로 완전히 만들어진 변형 음반으로 대체되었다. 이 두 번째 압력은 LP의 더 일반적인 버전이다. 1993년 CD로 리패스트 할 때 처음 누르는 원본이 사용됐다.
 

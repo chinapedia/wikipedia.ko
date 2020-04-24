@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [PGM-17 ](https://ko.wikipedia.org/wiki/PGM-17_).
+> This article is converted from Wikipedia: [PGM-17 토르](https://ko.wikipedia.org/wiki/PGM-17_토르).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Thor_missile_prepared_for_launch.jpg "wikilink") **PGM-17 토르**는 미국 공군에 최초로 배치된 탄두 미사일이다.

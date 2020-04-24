@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [2019 Wanna One ConcertTherefore](https://ko.wikipedia.org/wiki/2019_Wanna_One_ConcertTherefore).
+> This article is converted from Wikipedia: [2019 Wanna One Concert［Therefore］](https://ko.wikipedia.org/wiki/2019_Wanna_One_Concert［Therefore］).
 
 
 《**2019 Wanna One Concert［Therefore］**》는 [워너원](../Page/워너원.md "wikilink")의 마지막 [콘서트](https://ko.wikipedia.org/wiki/콘서트 "wikilink")이자 네 번째 단독 [콘서트](https://ko.wikipedia.org/wiki/콘서트 "wikilink")이다.\[1\]\[2\]

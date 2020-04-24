@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [2002 CONCACAF ](https://ko.wikipedia.org/wiki/2002_CONCACAF_).
+> This article is converted from Wikipedia: [2002년 CONCACAF 챔피언스컵](https://ko.wikipedia.org/wiki/2002년_CONCACAF_챔피언스컵).
 
 
 **2002년 CONCACAF 챔피언스컵**(2002 CONCACAF Champions' Cup)은 [2002년](../Page/2002년.md "wikilink") [2월 3일부터](../Page/2월_3일.md "wikilink") [9월 18일까지](../Page/9월_18일.md "wikilink") 개최된 CONCACAF 챔피언스컵(현재의 [CONCACAF 챔피언스리그](../Page/CONCACAF_챔피언스리그.md "wikilink"))의 37번째 대회이다. [멕시코](../Page/멕시코.md "wikilink")의 [파추카가](../Page/CF_파추카.md "wikilink") 결승전에서 [멕시코](../Page/멕시코.md "wikilink")의 [모나르카스 모렐리아를](../Page/모나르카스_모렐리아.md "wikilink") 누르고 우승을 차지했다.

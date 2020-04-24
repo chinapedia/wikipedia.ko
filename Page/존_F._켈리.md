@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ F. ](https://ko.wikipedia.org/wiki/_F._).
+> This article is converted from Wikipedia: [존 F. 켈리](https://ko.wikipedia.org/wiki/존_F._켈리).
 
 
 **존 프랜시스 켈리**(, [1950년](../Page/1950년.md "wikilink") [5월 11일](../Page/5월_11일.md "wikilink") \~ )는 [2016년](../Page/2016년.md "wikilink")에 은퇴한 [미국 해병대의](../Page/미국_해병대.md "wikilink") [대장으로](https://ko.wikipedia.org/wiki/대장_\(군사\) "wikilink") [2017년](../Page/2017년.md "wikilink") [7월 31일부터](../Page/7월_31일.md "wikilink") [2019년](../Page/2019년.md "wikilink") [1월 2일까지](../Page/1월_2일.md "wikilink") [도널드 트럼프](../Page/도널드_트럼프.md "wikilink") 행정부의 [대통령 비서실장으로](../Page/미국의_대통령_비서실장.md "wikilink") 재임하였다. 비서실장이 되기 이전에는 [국토안보부](../Page/미국_국토안보부.md "wikilink") 장관을 지냈다.

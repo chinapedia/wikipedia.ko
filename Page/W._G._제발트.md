@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [W. G. ](https://ko.wikipedia.org/wiki/W._G._).
+> This article is converted from Wikipedia: [W. G. 제발트](https://ko.wikipedia.org/wiki/W._G._제발트).
 
 
 **빈프리트 게오르크 제발트**(보통 W. G. 제발트라고 표기. 1944년 5월 18일 독일 알고이 베르타흐 출생, 2001년 12월 14일 잉글랜드 노퍽에서 사망)는 독일의 작가이자 문예학자이다.

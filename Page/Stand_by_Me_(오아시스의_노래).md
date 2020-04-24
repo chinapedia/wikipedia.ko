@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Stand by Me \( \)](https://ko.wikipedia.org/wiki/Stand_by_Me_\(_\)).
+> This article is converted from Wikipedia: [Stand by Me \(오아시스의 노래\)](https://ko.wikipedia.org/wiki/Stand_by_Me_\(오아시스의_노래\)).
 
 
 〈**Stand by Me**〉는 리드 기타리스트인 [노엘 갤러거가](../Page/노엘_갤러거.md "wikilink") 작곡한 [영국](../Page/영국.md "wikilink")의 록 밴드 [오아시스의](../Page/오아시스_\(밴드\).md "wikilink") 곡이다. 이 곡은 이 밴드의 세 번째 음반인 《[Be Here Now](../Page/Be_Here_Now.md "wikilink")》에서 발매된 두 번째 싱글이다.

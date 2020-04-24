@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [DAMEPRINCE](https://ko.wikipedia.org/wiki/DAMEPRINCE).
+> This article is converted from Wikipedia: [DAME×PRINCE](https://ko.wikipedia.org/wiki/DAME×PRINCE).
 
 
 **DAME×PRINCE**(다메×프린스)는 [NHN PlayArt에](https://ko.wikipedia.org/wiki/NHN_PlayArt "wikilink") 발매한 [모바일 장치](https://ko.wikipedia.org/wiki/모바일_장치 "wikilink") 전용의 [연애 시뮬레이션 게임이다](https://ko.wikipedia.org/wiki/연애_시뮬레이션_게임 "wikilink").

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [IDP](https://ko.wikipedia.org/wiki/IDP).
+> This article is converted from Wikipedia: [IDP에듀케이션](https://ko.wikipedia.org/wiki/IDP에듀케이션).
 
 
 IDP 에듀케이션(아이디피 에듀케이션)은 국제공인영어시험 [아이엘츠](https://ko.wikipedia.org/wiki/아이엘츠 "wikilink")(IELTS) 공식주관사이며 주요 영어권 국가 5개국 유학수속을 담당하고 있는 세계 최대 글로벌 [유학](https://ko.wikipedia.org/wiki/유학 "wikilink")기관이다. 1969년 호주 39개 국공립 대학 총장협의회에 의해 공동 설립되었다. 비영리 단체로 시작하여 높은 수준의 윤리기준을 통해 단순한 유학수속 서비스가 아닌, 학생이 최선의 선택을 할 수 있도록 정직하고 투명하며 포괄적인 정보를 제공한다. 전세계 33개국 100여개 지사를 보유하고 있으며 세계 최대 글로벌 네트워크를 가지고 있다.

@@ -36,7 +36,7 @@ SL1 및 SL2를 이용하는 승객들은 일반 [MBTA 지하철](https://ko.wiki
 
 #### 정류장 목록
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:MBTA_Courthouse_Station.jpg "wikilink")
+[섬네일](https://ko.wikipedia.org/wiki/파일:Purple_lighting_in_Courthouse_station,_May_2008.jpg "wikilink")
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Dual-mode_bus_in_electric_mode_at_top_of_Silver_Line_Waterfront_tunnel_ramp_in_Boston_\(2007\).jpg "wikilink")
 

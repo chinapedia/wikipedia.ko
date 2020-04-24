@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Black Dog \(\)](https://ko.wikipedia.org/wiki/Black_Dog_\(\)).
+> This article is converted from Wikipedia: [Black Dog \(노래\)](https://ko.wikipedia.org/wiki/Black_Dog_\(노래\)).
 
 
 〈**Black Dog**〉는 [영국](../Page/영국.md "wikilink")의 [하드 록](../Page/하드_록.md "wikilink") 밴드 [레드 제플린의](../Page/레드_제플린.md "wikilink") 1971년 [네 번째 음반의](../Page/Led_Zeppelin_IV.md "wikilink") 오프닝 곡이다. 그 곡은 [미국](../Page/미국.md "wikilink")과 [호주](https://ko.wikipedia.org/wiki/호주 "wikilink")에서 〈[Misty Mountain Hop](https://ko.wikipedia.org/wiki/Misty_Mountain_Hop "wikilink")〉로 싱글로 발매되었고 [빌보드 핫 100에서](../Page/빌보드_핫_100.md "wikilink") 15위에 올랐으며 호주에서 10위에 올랐다.

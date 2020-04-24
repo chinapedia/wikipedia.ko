@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [DB](https://ko.wikipedia.org/wiki/DB).
+> This article is converted from Wikipedia: [DB생명보험](https://ko.wikipedia.org/wiki/DB생명보험).
 
 
 **DB생명보험**은 대한민국의 생명보험회사이다.

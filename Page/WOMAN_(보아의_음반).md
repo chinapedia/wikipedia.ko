@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [WOMAN \( \)](https://ko.wikipedia.org/wiki/WOMAN_\(_\)).
+> This article is converted from Wikipedia: [WOMAN \(보아의 음반\)](https://ko.wikipedia.org/wiki/WOMAN_\(보아의_음반\)).
 
 
 ***WOMAN***은 [대한민국](../Page/대한민국.md "wikilink")의 가수 [보아](../Page/보아.md "wikilink")의 아홉 번째 한국 정규 음반이다. 2018년 10월 25일 아이리버를 통하여 발매되었고, 이에 앞서 온라인으로 24일 발매되었다. 타이틀 곡은 보아가 직접 작사에 참여한 "WOMAN"이다.

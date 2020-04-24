@@ -5,7 +5,7 @@
 
 ## 역사와 제작배경
 
-[뉴 프론티어 계획에](https://ko.wikipedia.org/wiki/뉴_프론티어_계획 "wikilink") 제안되어 연구팀은 연구비를 상납받았으나 최종적으로 [SAGE](https://ko.wikipedia.org/wiki/SAGE "wikilink"), [카이사르](https://ko.wikipedia.org/wiki/카이사르_\(우주선\) "wikilink"), [드래곤플라이가](../Page/드래건플라이_\(우주선\).md "wikilink") 선출되면서 취소되었다.\[7\] 이후 탐사선의 자금과 연구원들은 [SAGE](https://ko.wikipedia.org/wiki/SAGE "wikilink"), [카이사르](https://ko.wikipedia.org/wiki/카이사르_\(우주선\) "wikilink"), [드래곤플라이가](https://ko.wikipedia.org/wiki/드래곤플라이_\(우주선\) "wikilink") 선출되면서\[8\] 이 세 탐사선 개발에 모두 합병되었다.
+[뉴 프론티어 계획에](https://ko.wikipedia.org/wiki/뉴_프론티어_계획 "wikilink") 제안되어 연구팀은 연구비를 상납받았으나 최종적으로 [SAGE](https://ko.wikipedia.org/wiki/SAGE "wikilink"), [카이사르](../Page/카이사르_\(우주선\).md "wikilink"), [드래곤플라이가](../Page/드래건플라이_\(우주선\).md "wikilink") 선출되면서 취소되었다.\[7\] 이후 탐사선의 자금과 연구원들은 [SAGE](https://ko.wikipedia.org/wiki/SAGE "wikilink"), [카이사르](../Page/카이사르_\(우주선\).md "wikilink"), [드래곤플라이가](https://ko.wikipedia.org/wiki/드래곤플라이_\(우주선\) "wikilink") 선출되면서\[8\] 이 세 탐사선 개발에 모두 합병되었다.
 
 ## 지원, 개발, 투자
 

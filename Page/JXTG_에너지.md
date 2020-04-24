@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [JXTG ](https://ko.wikipedia.org/wiki/JXTG_).
+> This article is converted from Wikipedia: [JXTG 에너지](https://ko.wikipedia.org/wiki/JXTG_에너지).
 
 
 **JXTG 에너지 주식회사**()는 일본의 [석유](https://ko.wikipedia.org/wiki/석유 "wikilink") 회사이다. [지주회사](https://ko.wikipedia.org/wiki/지주회사 "wikilink") [JXTG 홀딩스의](../Page/JXTG_홀딩스.md "wikilink") 산하 기업이며 일본 내 최대 [석유 산업](../Page/석유_산업.md "wikilink") 기업이다. 약칭으로 **NOE**나 **JXTG**로 불린다.

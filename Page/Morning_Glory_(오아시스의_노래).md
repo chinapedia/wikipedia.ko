@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Morning Glory \( \)](https://ko.wikipedia.org/wiki/Morning_Glory_\(_\)).
+> This article is converted from Wikipedia: [Morning Glory \(오아시스의 노래\)](https://ko.wikipedia.org/wiki/Morning_Glory_\(오아시스의_노래\)).
 
 
 〈**Morning Glory**〉는 [노엘 갤러거가](../Page/노엘_갤러거.md "wikilink") 작곡한 [영국](../Page/영국.md "wikilink")의 [록](../Page/록_음악.md "wikilink") 밴드 [오아시스의](../Page/오아시스_\(밴드\).md "wikilink") 곡으로 1995년 9월에 두 번째 음반 《[(What's the Story) Morning Glory?](../Page/\(What's_the_Story\)_Morning_Glory?.md "wikilink")》에 발매되었다. 그 곡은 [호주](https://ko.wikipedia.org/wiki/호주 "wikilink")와 [뉴질랜드](../Page/뉴질랜드.md "wikilink")에서만 상업적인 싱글 릴리즈를 받았고 또한 [미국](../Page/미국.md "wikilink")에서 라디오 싱글이었다.

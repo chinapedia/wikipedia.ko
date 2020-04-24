@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [69 NHK ](https://ko.wikipedia.org/wiki/69_NHK_).
+> This article is converted from Wikipedia: [제69회 NHK 홍백가합전](https://ko.wikipedia.org/wiki/제69회_NHK_홍백가합전).
 
 
 《**제69회 NHK 홍백가합전**》()는 [2018년](../Page/2018년.md "wikilink") [12월 31일에](../Page/12월_31일.md "wikilink") 방송하는 통산 69회째인 [NHK 홍백가합전이다](../Page/NHK_홍백가합전.md "wikilink").

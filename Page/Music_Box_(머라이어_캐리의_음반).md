@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Music Box \(  \)](https://ko.wikipedia.org/wiki/Music_Box_\(__\)).
+> This article is converted from Wikipedia: [Music Box \(머라이어 캐리의 음반\)](https://ko.wikipedia.org/wiki/Music_Box_\(머라이어_캐리의_음반\)).
 
 
 《**Music Box**》는 1993년 8월 31일에 발매한 [머라이어 캐리의](../Page/머라이어_캐리.md "wikilink") 세 번째 정규 음반이다.

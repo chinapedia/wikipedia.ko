@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ X  ](https://ko.wikipedia.org/wiki/_X__).
+> This article is converted from Wikipedia: [메가맨 X 레거시 컬렉션](https://ko.wikipedia.org/wiki/메가맨_X_레거시_컬렉션).
 
 
 《**메가맨 X 레거시 컬렉션**》(Mega Man X Legacy Collection)은 [캡콤](../Page/캡콤.md "wikilink")이 발매한 《[록맨 X](../Page/록맨_X.md "wikilink")》 시리즈 합본이다. 1993년에 출시된 《[록맨 X](../Page/록맨_X_\(비디오_게임\).md "wikilink")》부터 2004년 출시된 《[록맨 X8](https://ko.wikipedia.org/wiki/록맨_X8 "wikilink")》까지 총 8개의 게임을 수록했으며, [슈퍼 패미컴](../Page/슈퍼_패미컴.md "wikilink") 및 [플레이스테이션](https://ko.wikipedia.org/wiki/플레이스테이션 "wikilink")으로 제작된 첫 네 작품들과 플레이스테이션 1과 [2로](../Page/플레이스테이션_2.md "wikilink") 제작된 후반기 네 작품들을 각각 묶어 두 개로 나눈 번들로 출시됐다. [닌텐도 스위치](../Page/닌텐도_스위치.md "wikilink"), [플레이스테이션 4](../Page/플레이스테이션_4.md "wikilink"), [엑스박스 원](../Page/엑스박스_원.md "wikilink") 및 [윈도우로](../Page/마이크로소프트_윈도우.md "wikilink") 제작됐으며, 유한회사 [M2](https://ko.wikipedia.org/wiki/M2 "wikilink")가 총개발을 맡았다. 일본에선 《**록맨 X 애니버서리 컬렉션**》(ロックマンX アニバーサリー コレクション)이란 제목으로 출시됐다.
@@ -13,7 +13,7 @@
       - 《[록맨 X3](https://ko.wikipedia.org/wiki/록맨_X3 "wikilink")》 ([슈퍼 패미컴판](../Page/슈퍼_패미컴.md "wikilink"))
       - 《[록맨 X4](../Page/록맨_X4.md "wikilink")》
   - 《**메가맨 X 레거시 컬렉션 2**》
-      - 《[록맨 X5](https://ko.wikipedia.org/wiki/록맨_X5 "wikilink")》
+      - 《[록맨 X5](../Page/록맨_X5.md "wikilink")》
       - 《[록맨 X6](https://ko.wikipedia.org/wiki/록맨_X6 "wikilink")》
       - 《[록맨 X7](https://ko.wikipedia.org/wiki/록맨_X7 "wikilink")》
       - 《[록맨 X8](https://ko.wikipedia.org/wiki/록맨_X8 "wikilink")》

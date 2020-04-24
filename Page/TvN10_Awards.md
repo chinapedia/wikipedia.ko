@@ -151,7 +151,7 @@
 <a href="../Page/양세형.md" title="wikilink">양세형</a> (코미디 빅리그)<br />
 <a href="../Page/유세윤.md" title="wikilink">유세윤</a> (SNL 코리아)<br />
 <a href="https://ko.wikipedia.org/wiki/이진호" title="wikilink">이진호</a> (코미디 빅리그)<br />
-<a href="https://ko.wikipedia.org/wiki/정성호" title="wikilink">정성호</a> (SNL 코리아)<br />
+<a href="../Page/정성호_(희극인).md" title="wikilink">정성호</a> (SNL 코리아)<br />
 <a href="../Page/장동민.md" title="wikilink">장동민</a> (코미디 빅리그)</p></td>
 <td></td>
 </tr>

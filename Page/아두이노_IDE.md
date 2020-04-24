@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ IDE](https://ko.wikipedia.org/wiki/_IDE).
+> This article is converted from Wikipedia: [아두이노 IDE](https://ko.wikipedia.org/wiki/아두이노_IDE).
 
 
 **아두이노 통합개발환경**(Arduino IDE)은 편집기, [컴파일러](../Page/컴파일러.md "wikilink"), 업로더 등이 합쳐진 소프트웨어 환경이다. '아두이노 소프트웨어'라고도 불린다. 이와 더불어 기타 개발에 필요한 각종 옵션 및 [라이브러리](https://ko.wikipedia.org/wiki/라이브러리 "wikilink") 관리를 할 수 있다. 아두이노 프로그램 실행 시, 개인용 컴퓨터와 시리얼 통신을 할 수 있는 가상 시리얼모니터를 제공한다. 보통 USB을 통해 업로드를 하므로 아두이노 보드는 USB를 UART 통신으로 바꾸는 방법이 제공되고, [MCU가](../Page/마이크로컨트롤러.md "wikilink") 실행할 때는 이 [UART](../Page/UART.md "wikilink") 통신을 이용하여 필요한 통신을 할 수 있다. 이렇게 되려면 아두이노의 MCU는 부트로더가 올라가 있어야 한다.

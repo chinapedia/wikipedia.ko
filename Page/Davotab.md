@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Davotab](https://ko.wikipedia.org/wiki/Davotab).
 
 
-Davortab Records (다보탑레코즈) 는 [서울을](../Page/서울특별시.md "wikilink") 기반으로 하는 한국의 독립 음악 [레이블이다](../Page/레코드_레이블.md "wikilink").
+Davortab Records (다보탑레코즈)는 [서울을](../Page/서울특별시.md "wikilink") 기반으로 하는 한국의 독립 음악 [레이블이다](../Page/레코드_레이블.md "wikilink").
 
 ## 역사
 

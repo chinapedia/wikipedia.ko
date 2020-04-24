@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Tattoo You](https://ko.wikipedia.org/wiki/Tattoo_You).
 
 
-《**Tattoo You**》는 1981년에 발매된 [롤링 스톤스의](../Page/롤링_스톤스.md "wikilink") 열여섯 번째 [영국](../Page/영국.md "wikilink")의 스튜디오 음반이자 열여덟 번째 [미국](../Page/미국.md "wikilink")의 스튜디오 음반이다. 《[Emotional Rescue](https://ko.wikipedia.org/wiki/Emotional_Rescue "wikilink")》(1980년)의 후속곡은 대부분 1970년대에 녹음된 스튜디오 특집으로 구성되어 있으며, 《빌보드》 싱글 차트 2위에 오른 밴드의 가장 유명한 곡들 중 하나인 〈[Start Me Up](https://ko.wikipedia.org/wiki/Start_Me_Up "wikilink")〉을 포함하고 있다.
+《**Tattoo You**》는 1981년에 발매된 [롤링 스톤스의](../Page/롤링_스톤스.md "wikilink") 열여섯 번째 [영국](../Page/영국.md "wikilink")의 스튜디오 음반이자 열여덟 번째 [미국](../Page/미국.md "wikilink")의 스튜디오 음반이다. 《[Emotional Rescue](../Page/Emotional_Rescue.md "wikilink")》(1980년)의 후속곡은 대부분 1970년대에 녹음된 스튜디오 특집으로 구성되어 있으며, 《빌보드》 싱글 차트 2위에 오른 밴드의 가장 유명한 곡들 중 하나인 〈[Start Me Up](https://ko.wikipedia.org/wiki/Start_Me_Up "wikilink")〉을 포함하고 있다.
 
 이 음반은 발매 후 결정적이고 상업적인 성공으로, 미국에서만 4백만 장 이상 그리고 전 세계적으로 850만 장 이상이 팔리면서 빌보드 차트에서 1위에 올랐다.\[1\] 이 음반은 또한 미국 차트의 1위에 오른 롤링 스톤스의 마지막 음반이었고, 1971년 《[Sticky Fingers](../Page/Sticky_Fingers.md "wikilink")》로 거슬러 올라가는, 그 밴드의 일련의 1위 음반들을 마무리 지었다.
 

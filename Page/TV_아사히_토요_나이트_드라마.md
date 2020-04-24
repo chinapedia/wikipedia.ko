@@ -13,7 +13,7 @@
 
 그동안 일요일 새벽에는 [2017년](../Page/2017년.md "wikilink") [1월 22일](../Page/1월_22일.md "wikilink") (21일 자정)에서 [7월 2일](../Page/7월_2일.md "wikilink") (1일 자정)까지 0 시대에 "[두부 프로 레슬링](https://ko.wikipedia.org/wiki/두부_프로레슬링 "wikilink")"([豆腐プロレス](https://ko.wikipedia.org/wiki/:ja:豆腐プロレス "wikilink"), とうふプロレス)이 방송되기도 했다.
 
-또한, 2017 년 9 월 "SmaSTATION \!\!" 이 프레임은 10 월의 조직 개편으로 재개되었고, 토요일 심야의 연속 드라마 프레임은 약 16 년 만에 처음으로 부활했다.
+또한, 2017년 9월 "SmaSTATION \!\!" 이 프레임은 10 월의 조직 개편으로 재개되었고, 토요일 심야의 연속 드라마 프레임은 약 16 년 만에 처음으로 부활했다.
 
 금요일 밤의 드라마와 마찬가지로, 기간의 시작과 끝에는 특별한 숫자와 스포츠 방송의 방송이 있으며, 그 중 많은 수가 전반적인 방송이 거의 없다.
 
@@ -45,6 +45,222 @@
   - 《[알리바이를 깨드립니다](https://ko.wikipedia.org/wiki/알리바이를_깨드립니다 "wikilink")》
   - 《[M 사랑해야 할 사람이 있어서](https://ko.wikipedia.org/wiki/M_사랑해야_할_사람이_있어서 "wikilink")》
 
+## 편성 정보
+
+<table>
+<caption><big>2017년 이후 방영작의 지역별 편성 정보</big></caption>
+<thead>
+<tr class="header">
+<th><p>방송대상지역</p></th>
+<th><p>방송국</p></th>
+<th><p>계열</p></th>
+<th><p>방송시각</p></th>
+<th><p>비고</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><a href="../Page/간토_지방.md" title="wikilink">간토 광역권</a></p></td>
+<td><p><a href="../Page/TV_아사히.md" title="wikilink">TV 아사히</a>（EX）</p></td>
+<td><p><a href="../Page/올_닛폰_뉴스_네트워크.md" title="wikilink">TV 아사히 계열</a></p></td>
+<td><p>토요일 23:15 - 24:05</p></td>
+<td><p><strong>제작국</strong></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/홋카이도.md" title="wikilink">홋카이도</a></p></td>
+<td><p><a href="../Page/홋카이도_TV_방송.md" title="wikilink">홋카이도 TV 방송</a>（HTB）</p></td>
+<td><p>동시 편성</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/아오모리현.md" title="wikilink">아오모리현</a></p></td>
+<td><p><a href="../Page/아오모리_아사히_방송.md" title="wikilink">아오모리 아사히 방송</a>（ABA）</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/이와테현.md" title="wikilink">이와테현</a></p></td>
+<td><p><a href="../Page/이와테_아사히_TV.md" title="wikilink">이와테 아사히 TV</a>（IAT）</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/아키타현.md" title="wikilink">아키타현</a></p></td>
+<td><p><a href="../Page/아키타_아사히_방송.md" title="wikilink">아키타 아사히 방송</a>（AAB）</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/미야기현.md" title="wikilink">미야기현</a></p></td>
+<td><p><a href="../Page/히가시닛폰_방송.md" title="wikilink">히가시닛폰 방송</a>（KHB）</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/야마가타현.md" title="wikilink">야마가타현</a></p></td>
+<td><p><a href="../Page/야마가타_TV.md" title="wikilink">야마가타 TV</a>（YTS）</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/후쿠시마현.md" title="wikilink">후쿠시마현</a></p></td>
+<td><p><a href="../Page/후쿠시마_방송.md" title="wikilink">후쿠시마 방송</a>（KFB）</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/니가타현.md" title="wikilink">니가타현</a></p></td>
+<td><p><a href="../Page/니가타_TV21.md" title="wikilink">니가타 TV21</a>（UX）</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/나가노현.md" title="wikilink">나가노현</a></p></td>
+<td><p><a href="../Page/나가노_아사히_방송.md" title="wikilink">나가노 아사히 방송</a>（abn）</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/시즈오카현.md" title="wikilink">시즈오카현</a></p></td>
+<td><p><a href="../Page/시즈오카_아사히_TV.md" title="wikilink">시즈오카 아사히 TV</a>（SATV）</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/이시카와현.md" title="wikilink">이시카와현</a></p></td>
+<td><p><a href="../Page/호쿠리쿠_아사히_방송.md" title="wikilink">호쿠리쿠 아사히 방송</a>（HAB）</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/주쿄권.md" title="wikilink">주쿄광역권</a></p></td>
+<td><p><a href="../Page/나고야_TV_방송.md" title="wikilink">나고야 TV 방송</a>（NBN）</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/긴키_지방.md" title="wikilink">긴키 광역권</a></p></td>
+<td><p><a href="../Page/아사히_방송.md" title="wikilink">아사히 TV 방송</a>（ABC）[2]</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/히로시마현.md" title="wikilink">히로시마현</a></p></td>
+<td><p><a href="../Page/히로시마_홈_TV.md" title="wikilink">히로시마 홈 TV</a>（HOME）</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/야마구치현.md" title="wikilink">야마구치현</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/야마구치_아사히_방송" title="wikilink">야마구치 아사히 방송</a>（yab）</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ko.wikipedia.org/wiki/카가와현" title="wikilink">카가와현</a>・<a href="../Page/오카야마현.md" title="wikilink">오카야마현</a></p></td>
+<td><p><a href="../Page/세토나이카이_방송.md" title="wikilink">세토나이카이 방송</a>（KSB）</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/에히메현.md" title="wikilink">에히메현</a></p></td>
+<td><p><a href="../Page/에히메_아사히_TV.md" title="wikilink">에히메 아사히 TV</a>（eat）</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/후쿠오카현.md" title="wikilink">후쿠오카현</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/큐슈_아사히_방송" title="wikilink">큐슈 아사히 방송</a>（KBC）</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/나가사키현.md" title="wikilink">나가사키현</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/나가사키_문화방송" title="wikilink">나가사키 문화방송</a>（NCC）</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/구마모토현.md" title="wikilink">구마모토현</a></p></td>
+<td><p><a href="../Page/구마모토_아사히_방송.md" title="wikilink">구마모토 아사히 방송</a>（KAB）</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/오이타현.md" title="wikilink">오이타현</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/오이타_아사히_방송" title="wikilink">오이타 아사히 방송</a>（OAB）</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/가고시마현.md" title="wikilink">가고시마현</a></p></td>
+<td><p><a href="../Page/가고시마_방송.md" title="wikilink">가고시마 방송</a>（KKB）</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/오키나와현.md" title="wikilink">오키나와현</a></p></td>
+<td><p><a href="../Page/류큐_아사히_방송.md" title="wikilink">류큐 아사히 방송</a>（QAB）</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/도야마현.md" title="wikilink">도야마현</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/튤립_TV" title="wikilink">튤립 TV</a> (TUT)</p></td>
+<td><p><a href="../Page/재팬_뉴스_네트워크.md" title="wikilink">TBS 계열</a></p></td>
+<td><p>수요일 0:36 - 1:30<br />
+（화요심야）</p></td>
+<td><p>지연 편성</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/고치현.md" title="wikilink">고치현</a></p></td>
+<td><p><a href="../Page/TV_고치.md" title="wikilink">TV 고치</a> (KUTV)</p></td>
+<td><p>토요일 0:20 - 1:14<br />
+（금요심야）</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/돗토리현.md" title="wikilink">돗토리현</a>・<a href="../Page/시마네현.md" title="wikilink">시마네현</a></p></td>
+<td><p><a href="../Page/니혼카이_TV.md" title="wikilink">니혼카이 TV</a> (NKT)</p></td>
+<td><p><a href="../Page/닛폰_TV_네트워크_협의회.md" title="wikilink">NTV 계열</a></p></td>
+<td><p>금요일 1:35 - 2:35<br />
+（목요심야）</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
 ## 각주
 
 <references />
@@ -57,3 +273,4 @@
 [TV_아사히_토요_나이트_드라마](https://ko.wikipedia.org/wiki/분류:TV_아사히_토요_나이트_드라마 "wikilink")
 
 1.  이때 지연 넷이었다 나카킨키 각 지역 동시 넷 전환했다.
+2.  2018年3月末までは[認定放送持株会社](https://ko.wikipedia.org/wiki/認定放送持株会社 "wikilink")移行前の[旧・朝日放送](https://ko.wikipedia.org/wiki/朝日放送グループホールディングス "wikilink")。

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [OAIS ](https://ko.wikipedia.org/wiki/OAIS_).
+> This article is converted from Wikipedia: [OAIS 참조모형](https://ko.wikipedia.org/wiki/OAIS_참조모형).
 
 
 **OAIS 참조모형**(Reference Model for an Open Archival Information System)은 [전자 기록의](https://ko.wikipedia.org/wiki/전자_기록 "wikilink") 장기 보존을 위한 시스템의 개념적 기능틀을 제공하는 [ISO 표준이다](https://ko.wikipedia.org/wiki/ISO_표준 "wikilink"). 2003년 ISO 14721\[1\]로 제정되었으며 이후 2012년 한차례 개정\[2\]되었다. 이는 우주 데이터 시스템 자문위원회의 권고인 CCSDS 650.0-B-2\[3\]와 동일하다. OAIS 참조모형은 우주 데이터 시스템 자문위원회(Consultative Committee for Space Data Systems, CCSDS)이 개발했으며, CCSDS의 관점은 우주 기관이지만 디지털 장기 보존이 필요한 다른 기관에도 유용하다는 것이 입증되었다. 유지되는 정보는 OAIS가 존재하지 않더라도 장기간 보존이 필요한 것으로 간주된다. 장기간 보존의 "장기간"은 데이터 포맷과 새로운 미디어를 지원하는 것을 포함해서, 기술이나 이용자 커뮤니티의 변화가 가져올 영향이 염려될만큼 길다. 또한 장기간 보존은 무기한으로 연장될 수 있다.

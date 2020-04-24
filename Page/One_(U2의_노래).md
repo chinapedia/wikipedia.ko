@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [One \(U2 \)](https://ko.wikipedia.org/wiki/One_\(U2_\)).
+> This article is converted from Wikipedia: [One \(U2의 노래\)](https://ko.wikipedia.org/wiki/One_\(U2의_노래\)).
 
 
 〈**One**〉은 [아일랜드](../Page/아일랜드.md "wikilink")의 록 밴드 [U2](../Page/U2.md "wikilink")의 곡이다. 이 곡은 1991년 그들의 음반인 《[Achtung Baby](../Page/Achtung_Baby.md "wikilink")》의 세 번째 곡으로 1992년 2월에 음반의 세 번째 싱글곡으로 발매되었다. [베를린](../Page/베를린.md "wikilink")에 있는 한사 스튜디오에서 음반을 녹음하는 동안, U2의 소리와 그들의 재료의 질을 놓고 밴드 멤버들 사이에 분쟁이 일어났다. 긴장감은 밴드 멤버들이 기타리스트인 [디 에지가](https://ko.wikipedia.org/wiki/디_에지 "wikilink") 스튜디오에서 연주하고 있는 코드 진행에 영감을 받아 곡을 작곡한 후 그들이 〈One〉의 즉흥으로 돌파구를 마련하기 전까지 그 밴드를 해체하도록 거의 자극했다. 리드 싱어 [보노](../Page/보노.md "wikilink")가 쓴 이 가사는 밴드 멤버들의 분열된 관계와 [독일의 재통일에서](../Page/독일의_재통일.md "wikilink") 영감을 얻었다. 비록 가사가 표면상으로는 "분규"를 묘사하지만, 그것들은 다른 방식으로 해석되어왔다.

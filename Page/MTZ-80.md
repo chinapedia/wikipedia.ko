@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [MTZ-80](https://ko.wikipedia.org/wiki/MTZ-80).
 
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:MTZ-80_tractor_2011_G1.jpg "wikilink") **MTZ-80**()은 1974년 [소련](../Page/소련.md "wikilink")의 [벨라루스](../Page/벨라루스.md "wikilink") [민스크](../Page/민스크.md "wikilink") 트랙터 공장에서 제작된 [트랙터](../Page/트랙터.md "wikilink")로 동구권에서는 "벨라루스"(Belarus)라는 브랜드로 판매되었다. 이전에 생산된 트랙터 [MTZ-50](https://ko.wikipedia.org/wiki/MTZ-50 "wikilink")을 현대화하였으며 농업 분야에서 활용될 수 있도록 여러 가지 종류로 수정된 트랙터가 생산되었다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:MTZ-80_tractor_2011_G1.jpg "wikilink") **MTZ-80**()은 1974년 [소련](../Page/소련.md "wikilink")의 [벨라루스](../Page/벨라루스.md "wikilink") [민스크](../Page/민스크.md "wikilink") 트랙터 공장에서 제작된 [트랙터](../Page/트랙터.md "wikilink")로 동구권에서는 "벨라루스"(Belarus)라는 브랜드로 판매되었다. 이전에 생산된 트랙터 [MTZ-50](../Page/MTZ-50.md "wikilink")을 현대화하였으며 농업 분야에서 활용될 수 있도록 여러 가지 종류로 수정된 트랙터가 생산되었다.
 
 ## 사양
 

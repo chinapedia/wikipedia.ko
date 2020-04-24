@@ -642,7 +642,7 @@ AKB48 Team TP 총캡틴<br />
 <td></td>
 <td><p>-</p></td>
 <td><p>2019년 10월 19일</p></td>
-<td><p>재팬 뮤직 엔터테인먼트</p></td>
+<td><p>재팬 뮤직 엔터테인먼트→맥케이브 인터넷 TV</p></td>
 <td><p><a href="../Page/일본.md" title="wikilink">일본</a>인 멤버<br />
 전 AKB48 팀4→K</p></td>
 </tr>

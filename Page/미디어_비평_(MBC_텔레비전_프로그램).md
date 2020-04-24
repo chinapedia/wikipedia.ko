@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  \(MBC  \)](https://ko.wikipedia.org/wiki/__\(MBC__\)).
+> This article is converted from Wikipedia: [미디어 비평 \(MBC 텔레비전 프로그램\)](https://ko.wikipedia.org/wiki/미디어_비평_\(MBC_텔레비전_프로그램\)).
 
 
 **미디어 비평**은 [MBC TV로](../Page/MBC_TV.md "wikilink") 방송된 [비평 프로그램이다](../Page/텔레비전_프로그램.md "wikilink").

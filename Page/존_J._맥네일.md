@@ -16,4 +16,4 @@
 
   - [큐어](https://ko.wikipedia.org/wiki/큐어 "wikilink")
 
-[분류:1925년 태어남](https://ko.wikipedia.org/wiki/분류:1925년_태어남 "wikilink") [분류:2015년 죽음](https://ko.wikipedia.org/wiki/분류:2015년_죽음 "wikilink") [분류:게이 작가](https://ko.wikipedia.org/wiki/분류:게이_작가 "wikilink") [분류:예수회](https://ko.wikipedia.org/wiki/분류:예수회 "wikilink") [분류:영성](https://ko.wikipedia.org/wiki/분류:영성 "wikilink") [분류:심리학자](https://ko.wikipedia.org/wiki/분류:심리학자 "wikilink") [분류:로마 가톨릭 수사](https://ko.wikipedia.org/wiki/분류:로마_가톨릭_수사 "wikilink") [분류:로마 가톨릭 신부](https://ko.wikipedia.org/wiki/분류:로마_가톨릭_신부 "wikilink")
+[분류:1925년 태어남](https://ko.wikipedia.org/wiki/분류:1925년_태어남 "wikilink") [분류:2015년 죽음](https://ko.wikipedia.org/wiki/분류:2015년_죽음 "wikilink") [분류:게이 작가](https://ko.wikipedia.org/wiki/분류:게이_작가 "wikilink") [분류:예수회](https://ko.wikipedia.org/wiki/분류:예수회 "wikilink") [분류:영성](https://ko.wikipedia.org/wiki/분류:영성 "wikilink") [분류:미국의 심리학자](https://ko.wikipedia.org/wiki/분류:미국의_심리학자 "wikilink") [분류:로마 가톨릭 수사](https://ko.wikipedia.org/wiki/분류:로마_가톨릭_수사 "wikilink") [분류:로마 가톨릭 신부](https://ko.wikipedia.org/wiki/분류:로마_가톨릭_신부 "wikilink")

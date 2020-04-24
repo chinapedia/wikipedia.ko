@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [BLUE\;S](https://ko.wikipedia.org/wiki/BLUE\;S).
 
 
-《**BLUE;S**》(블루스)는 대한민국의 걸 그룹 [마마무](../Page/마마무.md "wikilink")의 여덟 번째 미니 음반으로, 2018년 11월 29일 발매되었다. 타이틀 곡은 〈Wind Flower〉이다.
+《**BLUE;S**》(블루스)는 [대한민국](../Page/대한민국.md "wikilink")의 [걸 그룹](../Page/걸_그룹.md "wikilink") [마마무](../Page/마마무.md "wikilink")의 여덟 번째 미니 음반으로, 2018년 11월 29일 발매되었다. 타이틀 곡은 〈Wind Flower〉이다.
 
 ## 개요
 

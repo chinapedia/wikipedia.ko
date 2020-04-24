@@ -5,7 +5,7 @@
 
 CPE 코어는 기존 캐시 계층 구조 대신 64KB의 스크래치 패드 메모리와 16KB의 명령어를 제공하며 칩을 통해 네트워크를 통해 통신한다. MPE는 32KB L1 명령어 및 데이터 캐시와 256KB L2 캐시를 사용하는보다 전통적인 설정이다. 마지막으로 온칩 네트워크는 칩을 외부 인터페이스에 연결하는 단일 시스템 상호 연결 인터페이스에 연결된다.\[6\]
 
-SW26010은 [썬웨이 타이후 라이트](https://ko.wikipedia.org/wiki/썬웨이_타이후_라이트 "wikilink")(Sunway TaihuLight) 슈퍼 컴퓨터에 사용되며, 2016 년 11 월 현재 [TOP500](../Page/TOP500.md "wikilink") 프로젝트에서 세계에서 가장 빠른 슈퍼 컴퓨터이다. 이 시스템은 40,960 개의 SW26010을 사용하여 [LINPACK](../Page/LINPACK.md "wikilink") 벤치 마크에서 93.01 PFlop/s를 얻었다.\[7\]
+SW26010은 [썬웨이 타이후 라이트](https://ko.wikipedia.org/wiki/썬웨이_타이후_라이트 "wikilink")(Sunway TaihuLight) 슈퍼 컴퓨터에 사용되며, 2016년 11월 현재 [TOP500](../Page/TOP500.md "wikilink") 프로젝트에서 세계에서 가장 빠른 슈퍼 컴퓨터이다. 이 시스템은 40,960 개의 SW26010을 사용하여 [LINPACK](../Page/LINPACK.md "wikilink") 벤치 마크에서 93.01 PFlop/s를 얻었다.\[7\]
 
 ## 함께보기
 

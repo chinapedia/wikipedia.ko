@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [LOD](https://ko.wikipedia.org/wiki/LOD).
+> This article is converted from Wikipedia: [국가서지LOD](https://ko.wikipedia.org/wiki/국가서지LOD).
 
 
 **국가서지 LOD**는 [국립중앙도서관](../Page/국립중앙도서관.md "wikilink")에서 제공하는 [공공 데이터 개방](../Page/공공_데이터_개방.md "wikilink") 서비스이다.

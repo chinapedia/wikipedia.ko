@@ -39,7 +39,7 @@ ICE 1 모델과 달리 객차 모형은 동일하나 무게가 크게 줄었고 
 
 ## [절연 게이트 양극성 트랜지스터로](../Page/절연_게이트_양극성_트랜지스터.md "wikilink") 변환 작업
 
-[2014년](../Page/2014년.md "wikilink") [9월 25일](../Page/9월_25일.md "wikilink"), [일본](../Page/일본.md "wikilink")의 [전기](../Page/전기.md "wikilink") 기업인 [미쓰비시 전기는](https://ko.wikipedia.org/wiki/미쓰비시_전기 "wikilink") [독일철도](../Page/독일철도.md "wikilink")에서 운행했던 기존 ICE 2 차량에 탑재된 [GTO](https://ko.wikipedia.org/wiki/GTO "wikilink")를 교체하기 위해 [IGBT](https://ko.wikipedia.org/wiki/IGBT "wikilink") 전원 모듈을 공급 하는 계약을 체결했다. [2019년](../Page/2019년.md "wikilink")까지 교체 작업을 마칠 계획이다.\[9\]
+[2014년](../Page/2014년.md "wikilink") [9월 25일](../Page/9월_25일.md "wikilink"), [일본](../Page/일본.md "wikilink")의 [전기](../Page/전기.md "wikilink") 기업인 [미쓰비시 전기는](../Page/미쓰비시_전기.md "wikilink") [독일철도](../Page/독일철도.md "wikilink")에서 운행했던 기존 ICE 2 차량에 탑재된 [GTO](https://ko.wikipedia.org/wiki/GTO "wikilink")를 교체하기 위해 [IGBT](https://ko.wikipedia.org/wiki/IGBT "wikilink") 전원 모듈을 공급 하는 계약을 체결했다. [2019년](../Page/2019년.md "wikilink")까지 교체 작업을 마칠 계획이다.\[9\]
 
 ## 각주
 

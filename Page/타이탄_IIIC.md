@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ IIIC](https://ko.wikipedia.org/wiki/_IIIC).
+> This article is converted from Wikipedia: [타이탄 IIIC](https://ko.wikipedia.org/wiki/타이탄_IIIC).
 
 
 **타이탄 IIIC**는 미국의 3단 [타이탄 IIIA에](https://ko.wikipedia.org/wiki/타이탄_IIIA "wikilink") 추력 600톤의 대형 고체로켓 부스터 2개를 붙인 것이다.
@@ -34,10 +34,4 @@
   - 1969년, [아폴로 11호](../Page/아폴로_11호.md "wikilink") 세계 최초 유인 달착륙, 소련과의 우주경쟁을 이겼다고 미국 환호
   - 1972년, [아폴로 17호](../Page/아폴로_17호.md "wikilink") 마지막 유인 달착륙
 
-## 더 보기
-
-## 각주
-
 [분류:소모성 우주 발사체](https://ko.wikipedia.org/wiki/분류:소모성_우주_발사체 "wikilink")
-
-[en:Titan IIIC](https://ko.wikipedia.org/wiki/en:Titan_IIIC "wikilink")

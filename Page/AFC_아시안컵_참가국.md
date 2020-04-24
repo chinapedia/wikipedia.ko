@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [AFC  ](https://ko.wikipedia.org/wiki/AFC__).
+> This article is converted from Wikipedia: [AFC 아시안컵 참가국](https://ko.wikipedia.org/wiki/AFC_아시안컵_참가국).
 
 
 **AFC 아시안컵 참가국**은 [1956년 홍콩 아시안컵부터](https://ko.wikipedia.org/wiki/1956년_AFC_아시안컵 "wikilink") 지금까지 모든 아시안컵 본선에 진출한 팀들이다.

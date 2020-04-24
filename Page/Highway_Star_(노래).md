@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Highway Star \(\)](https://ko.wikipedia.org/wiki/Highway_Star_\(\)).
+> This article is converted from Wikipedia: [Highway Star \(노래\)](https://ko.wikipedia.org/wiki/Highway_Star_\(노래\)).
 
 
 〈**Highway Star**〉는 [영국](../Page/영국.md "wikilink")의 록 밴드 [딥 퍼플의](../Page/딥_퍼플.md "wikilink") 곡이다. 1972년 그들의 음반 《[Machine Head](../Page/Machine_Head.md "wikilink")》의 첫 곡이며 음반에서 [템포](https://ko.wikipedia.org/wiki/템포 "wikilink")가 가장 빠른 곡이다. 그 곡은 [클래식한](https://ko.wikipedia.org/wiki/서양_고전_음악 "wikilink") 기타와 오르간 솔로로 특징지어진다.\[1\] 오르간 연주자 [존 로드는](../Page/존_로드.md "wikilink") 오르간과 기타 솔로곡은 [바흐](https://ko.wikipedia.org/wiki/바흐 "wikilink")와 같은 화음을 바탕으로 한다고 주장했다.
@@ -21,6 +21,6 @@
 [분류:1972년 노래](https://ko.wikipedia.org/wiki/분류:1972년_노래 "wikilink") [분류:딥 퍼플의 노래](https://ko.wikipedia.org/wiki/분류:딥_퍼플의_노래 "wikilink") [분류:자동차를 소재로 한 노래](https://ko.wikipedia.org/wiki/분류:자동차를_소재로_한_노래 "wikilink")
 
 1.
-2.  [Roger Glover Interview](http://www.stevemorse.com/interviews/200310guitarmagazine.html) at stevemorse.com
+2.  [Roger Glover Interview](http://www.stevemorse.com/interviews/200310guitarmagazine.html)  at stevemorse.com
 3.
 4.

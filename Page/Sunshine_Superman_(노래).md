@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Sunshine Superman \(\)](https://ko.wikipedia.org/wiki/Sunshine_Superman_\(\)).
+> This article is converted from Wikipedia: [Sunshine Superman \(노래\)](https://ko.wikipedia.org/wiki/Sunshine_Superman_\(노래\)).
 
 
 〈**Sunshine Superman**〉은 [도노반](../Page/도노반.md "wikilink")이 쓰고 녹음한 노래이다. 〈Sunshine Superman〉 싱글은 1966년 7월 [에픽 레코드](../Page/에픽_레코드.md "wikilink")(Epic 5-10045)를 통해 [미국](../Page/미국.md "wikilink")에서 발매되었지만, 계약상 분쟁으로 인해 [영국](../Page/영국.md "wikilink")의 발매가 1966년 12월까지 연기되었는데, 그곳에서 영국 출시는 도노반의 이전 레이블인 [파이 레코드](https://ko.wikipedia.org/wiki/파이_레코드 "wikilink")(Pye 7N 17241)에 나타났다. 〈Sunshine Superman〉 싱글은 미국과 영국 발표 모두에서 〈The Trip〉으로 뒷받침되었다. 이 노래는 "세기의 고전들 중 하나"\[1\] 그리고 "중요하게 밝은 여름의 노래"로 묘사되어 왔다.\[2\]

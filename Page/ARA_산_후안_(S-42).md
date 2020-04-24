@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ARA   \(S-42\)](https://ko.wikipedia.org/wiki/ARA___\(S-42\)).
+> This article is converted from Wikipedia: [ARA 산 후안 \(S-42\)](https://ko.wikipedia.org/wiki/ARA_산_후안_\(S-42\)).
 
 
 **ARA 산 후안 (S-42)**()은 [아르헨티나 해군의](../Page/아르헨티나_해군.md "wikilink") 이다.

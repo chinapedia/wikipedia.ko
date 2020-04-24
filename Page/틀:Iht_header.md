@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Iht header](https://ko.wikipedia.org/wiki/:Iht_header).
+> This article is converted from Wikipedia: [틀:Iht header](https://ko.wikipedia.org/wiki/틀:Iht_header).
 
 
 %" {{\!}}+{{\#if:|}} {{\#if:|\!Group

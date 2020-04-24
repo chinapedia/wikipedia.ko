@@ -1,25 +1,25 @@
-> This article is converted from Wikipedia: [HAPYGATE \(\)](https://ko.wikipedia.org/wiki/HAPYGATE_\(\)).
+> This article is converted from Wikipedia: [HAPYGATE \(하피게이트\)](https://ko.wikipedia.org/wiki/HAPYGATE_\(하피게이트\)).
 
 
 **하피게이트(HAPYGATE)**는 [스피닝 레코즈와](https://ko.wikipedia.org/wiki/:en:Spinnin'_Records "wikilink") 스피닝 레코즈 [산하 레이블들의](https://ko.wikipedia.org/wiki/:en:Spinnin'_Records#Sub-labels "wikilink") 곡을 주로 마스터링하는 [스피닝 레코즈(SPINNIN' RECORDS)](https://ko.wikipedia.org/wiki/:en:Spinnin'_Records "wikilink") 소속 [마스터링 엔지니어이다](https://ko.wikipedia.org/wiki/:en:Mastering_engineer "wikilink").
 
 ## 개요
 
-1995년 3월 7일 [서울에서](../Page/서울특별시.md "wikilink") 태어났으며 [태권도](../Page/태권도.md "wikilink") [선수](https://ko.wikipedia.org/wiki/선수 "wikilink"), 사범 및 [음악프로듀서이다](../Page/음악_프로듀서.md "wikilink"). 2011년 첫 곡을 만드는걸 시작으로 2012년 중반부터는 [음악프로듀서로](../Page/음악_프로듀서.md "wikilink") 활동하다가 2017년 [마스터링 전문 엔지니어로](https://ko.wikipedia.org/wiki/:en:Mastering_engineer "wikilink") 전향하였다.
+1995년 3월 7일 [서울에서](../Page/서울특별시.md "wikilink") 태어났으며 [태권도](../Page/태권도.md "wikilink") [선수](https://ko.wikipedia.org/wiki/선수 "wikilink"), 사범, [게이머](https://ko.wikipedia.org/wiki/게이머 "wikilink") 및 [음악프로듀서이다](../Page/음악_프로듀서.md "wikilink"). 2011년 첫 곡을 만드는걸 시작으로 2012년 중반부터는 [PRODUCE 101](https://ko.wikipedia.org/wiki/PRODUCE_101 "wikilink") 으로 활동하다가 2017년 [마스터 이](http://lol.inven.co.kr/dataninfo/champion/detail.php?code=39)로 전향하였다.
 
-최근까지 ***ILIBEAU*** 라는 예명을 사용하였다. 예명 ***ILIBEAU***를 계속 사용 할 것이라는 예상과는 달리 2018년 9월 ***HAPYGATE***로 예명 변경을 하였다. ***HAPYGATE***의 어원은 [해피투게더 (텔레비전 프로그램)](../Page/해피투게더_\(텔레비전_프로그램\).md "wikilink") \[1\] Happy와 Together 이 두 개의 단어가 파생되어 만들어졌다고 한다.
+최근까지 ***ILBE*** 라는 예명을 사용하였다. 예명 ***ILBE*** 를 계속 사용 할 것이라는 예상과는 달리 2018년 9월 ***HAPYGATE*** 로 예명 변경을 하였다. ***HAPYGATE*** 의 어원은 [해피투게더 (텔레비전 프로그램)](../Page/해피투게더_\(텔레비전_프로그램\).md "wikilink") \[1\] [MBC](../Page/문화방송.md "wikilink") 예능프로그램 해피투게더에 Happy 와 Together, 이 두 개의 단어가 파생되어 만들어졌다고 한다.
 
-2014년에는 잠시 [DJ](https://ko.wikipedia.org/wiki/DJ "wikilink")로 활동하며 곡 작업과 [DJ](https://ko.wikipedia.org/wiki/DJ "wikilink")를 같이 활동했으나 곡에만 집중하고자 DJ는 그만두고 다시 곡 작업을 시작했다.
+2014년에는 잠시 [DJ로](../Page/김대중.md "wikilink") 활동하며 곡 작업과 [DJ를](../Page/김대중.md "wikilink") 같이 활동했으나 곡에만 집중하고자 [DJ는](../Page/김대중.md "wikilink") 그만두고 다시 곡 작업을 시작했다.
 
 ## 장르
 
-마스터링에 참여하는 장르는 다음과 같으며, **진한 색** 으로 쓰여진 장르는 주로 다루는 장르다.
+[마스터 이](http://lol.inven.co.kr/dataninfo/champion/detail.php?code=39)에 참여하는 [스킨](http://lol.inven.co.kr/dataninfo/skin/#champ=39)종류는 다음과 같으며, **진한 색** 으로 쓰여진 장르는 주로 다루는 [스킨](http://lol.inven.co.kr/dataninfo/skin/#champ=39)이다.
 
-  - **House Music (House)** : **Electro House**, Deep House, **Dance Pop**, Progressive House, **Future House**, **Big Room House**, Funky House, Minimal House, **Tropical House**
+  - **불의 축제 마스터 이** : **인간사냥꾼 마스터 이**, Deep House, **사무라이 마스터 이**, Progressive House, **아이오니아 마스터 이**, **불멸의 영웅 마스터 이**, Funky House, Minimal House, **암살자 마스터 이**
 
 <!-- end list -->
 
-  - **Hard Music & Hard Dacnce (Hardstyle & Hardcore Techno (Hardcore))** : **Big room Hardstyle**, **UK Hardstyle & Hardcore**, Happy Hardcore, Digital Hardcore, Frenchcore
+  - **마스터 이 기본 스킨: 우주 검객 마스터 이 & 프로젝트: 이)** :**선택받은 마스터 이** Happy Hardcore, Digital Hardcore, **눈사람 마스터 이**
 
 ## 레이블
 
@@ -51,15 +51,15 @@
 
 ### 2011\~2015
 
-2011년 [EDM을](https://ko.wikipedia.org/wiki/:en:Electronic_dance_music "wikilink") 본격적으로 접하기 시작했으며 자신이 직접 만든 곡을 들으면 좋을 것 같다 라는 생각을 하여 2011년 첫 곡을 만들었지만 곡 완성도와 인지도 등등 여러가지 방면에서 부족함이 많아 별로 흥행하지 못하였다. 하지만 그만두지 않고 꾸준히 보완하며 프로듀싱을 계속 이어갔고, 2013년 까지 N7이라는 예명으로 활동했다가 2014년부터 ZANAX 라는 예명으로 바꾼 뒤 'ZANAX SOUNDS' 라는 팀을 만들었다. 또한 같은 해에 [미국 텍사스주](https://ko.wikipedia.org/wiki/:en:Texas "wikilink") 미드웨스턴주립대학교(이하 <https://en.wikipedia.org/wiki/Midwestern_State_University>) 음악을 전공하며 점차 음악에 대한 지식을 넓혀가기 시작했다. 하지만 꾸준한 노력이 있었음에도 불구하고 커다란 벽 앞에서 굴복하고 말았다. 턱없이 부족한 영어실력으로 인해 대학교 진도를 쫓아가지 못하였다고한다. 대부분의 수업 점수들이 F였다고.... 힘든 공부생할과 지긋지긋한 시골생활을 견디지 못하고 단 돈 몇 십만원을 쥐어든 채 한국으로 귀급히 귀향한다. 계속 프로듀싱을 하고자했던 본인의 처음의 생각과는 아쉽게도 2015년 예명 ZANAX를 마지막으로 오로지 음악 프로듀싱만 하는 작업은 그만두기로 한다.
+2011년 [EDM](https://ko.wikipedia.org/wiki/:en:Electronic_dance_music "wikilink") 을 본격적으로 접하기 시작했으며 자신이 직접 만든 곡을 들으면 좋을 것 같다 라는 생각을 하여 2011년 첫 곡을 만들었지만 곡 완성도와 인지도 등등 여러가지 방면에서 부족함이 많아 별로 흥행하지 못하였다. 하지만 '칼을 뽑았으면 무라도 베야지' 라는 심정으로 그만두지 않고 꾸준히 [리니지](https://ko.wikipedia.org/wiki/리니지 "wikilink")를 플레이하며 동시에 프로듀싱을 계속 이어갔고, 2013년 까지 '칼뽑무베' 라는 예명으로 활동하다가 끈기부족으로 인해 1년도 안 되어 이름을 바꿔 ZANAX 라는 예명으로 활동하게된다. ZANAX 의 어원은 [Xanax](../Page/알프라졸람.md "wikilink") 에서 영감을 받아 만들었다고한다. 이때 아직도 정신을 못차려 1인 1역 팀 'XANAX SOUNDS' 라는 팀을 만들었다. 또한 같은 해에 [미국 텍사스](https://ko.wikipedia.org/wiki/:en:Texas "wikilink") 주 [Midwestern State University](https://ko.wikipedia.org/wiki/:en:Midwestern_State_University "wikilink") 에 강제입학 후 자신과 맞지않는 기계공학을 전공으로 선택한다. 음악 전공을 하고 싶으나 가족의 압박으로 인해 강제로 기계공학과 기초 수업을 배우게된다. 점차 수학과 과학 때문에 미치기 시작하며 멘붕을 겪게되고마는데... 턱없이 부족한 영어실력으로 인해 대학교 진도를 쫓아가지 못하였다고한다. 대부분의 수업 점수들이 F였다고.... 힘든 공부 생할과 지긋지긋한 시골생활을 견디지 못하고 단 돈 몇 십만원을 쥐어든 채 한국으로 귀급히 귀향한다. 계속 프로듀싱을 하고자했던 본인의 처음의 생각과는 아쉽게도 2015년 예명 ZANAX 를 마지막으로 오로지 음악 프로듀싱만 하는 작업은 그만두기로 한다.
 
 ### 2015\~2017
 
-그 후 몇개월가량 재정비 시간을 가지고 새로운 직업을 [마스터링 엔지니어로](https://ko.wikipedia.org/wiki/:en:Mastering_engineer "wikilink") 시작하고 2015년 예명 ILIBEAU로 바꾸며 활동하기 시작한다 (물론 엄청 기초적인 단계였고 비공식이었다). ILIBEAU로 활동할 때 'VETI' 라는 마스터링 엔지니어 그룹이 있었는데 그 그룹의 리더로 활동하며 그때부터 점차 팬층을 확보하기 시작한다. 최근 인터뷰에선 'ILIBEAU로 활동할때 어떻게 인기가 급증했는지 본인도 알 수 없다' 라고 하였다. 2016년 그룹 'VETI' 홈페이지 통계에 따르면, 2016년 12월 31일까지 'VETI'가 확인했던 리스너들의 수는 무려 140만명이 넘었다고한다. 그당시 'VETI'가 홈페이지에 올렸던 정보는 그들이 마스터링에 참여했던 곡들의 스트리밍, 그 곡들로 'VETI' 자체적으로 엘범을 제작하여 배포, 등등 들어보면 팬들입장에선 한없이 좋았던 정보들이다. 하지만 어떤 이유인지는 몰라도 수많은 팬을 보유했던 그룹 'VETI'가 해체될 예정이라는 공지가 2017년 2월 홈페이지에 올라갔고 곧 이 그룹은 해체가 되었다.
+한국 도착 후 홀로 잠적을 타고 마는데.. 쥐어든 단 돈 몇 십만원을 [고시원](../Page/고시원.md "wikilink")에 바로 결제하고 이 곳에서 묵기로 한다. 그 후 몇개월가량 재정비 시간을 가지고 새로운 직업을 [마스터 이](http://lol.inven.co.kr/dataninfo/champion/detail.php?code=39)로 시작하고 2015년 예명 ILBE 로 바꾸며 활동하기 시작한다 (물론 엄청 기초적인 단계였다 이기야\!). ILBE 로 활동할 때 'VETI' 라는 [마스터 이](http://lol.inven.co.kr/dataninfo/champion/detail.php?code=39) 그룹이 있었는데 그 그룹을 흡수하여 [마스터 이](http://lol.inven.co.kr/dataninfo/champion/detail.php?code=39) 리더로 활동하며 그때부터 점차 팬층을 확보하기 시작한다. 최근 인터뷰에선 'ILBE로 활동할때 어떻게 인기가 급증했는지 본인도 알 수 없다' 라고 혼잣말을 하였다. 2016년 그룹 'VETI' 홈페이지 (존재하지않음) 통계없으므로 증거가 없지만 카더라 뉴스로 접하자면, 2016년 12월 31일까지 'VETI'가 확인했던 리스너들의 수는 무려 140 만명이 넘었다고한다. 그당시 'VETI'가 홈페이지에 올렸던 정보는 그들이 마스터링에 참여했던 곡들의 스트리밍, 그 곡들로 'VETI' 자체적으로 엘범을 제작하여 배포, 등등 들어보면 팬들입장에선 한없이 좋았던 정보들이다. 하지만 어떤 이유인지는 몰라도 수많은 팬을 보유했던 그룹 'VETI'가 해체될 예정이라는 공지가 2017년 2월 홈페이지에 올라갔고 곧 이 그룹은 해체가 되었다.
 
 ### 2017\~
 
-그룹이 해체가 되고 나서 그룹에 속해있던 사람들은 각자 다른 이름과 스타일로 리뉴얼되어 활동하기 시작했다. 처음부터 'HAPYGATE' 라는 예명으로 시작한건 아니었고 그 중간에 본명을 쓰면서 새로운 활동을 하기시작했는데, 이 시기부터 공식적인 마스터링 엔지니어로 활동하기 시작한다. 해체가 되고나서 Flamingo Recordings와 계약을 하여 마스터링을 시작했고, 얼마 지나지 않아 Fonk Recordings와도 계약을 맺었다. 'HAPYGATE'라는 예명으로 오기까지 'ILIBEAU' 였을때가 가장 직업의 전문성에 익숙해져있을 때 였다면, 가장 중요한 순간은 2017년 12월 25일 이다. 이날 세계적인 EDM 레이블인 '스피닝레코즈'([Spinnin' Records](https://ko.wikipedia.org/wiki/:en:Spinnin'_Records "wikilink"))와 계약을 하였고(대한민국 K-POP시장으로 따지면 JYP, SM, YG에 입사한거랑 같은거라고 보면된다) 그에 따라 다른 서브레이블도 동시에 계약이 체결되었다. 첫 공개 프로젝트는 스피닝레코즈가 'HAPYGATE'를 'ETOP'이라 불리는 팀에 소속시켜 1년간 지켜보는 점이었는데 1년이 채 되지않아 9개월만에 성공적으로 끝나 'ETOP' 그룹에서 나와 이때부터 'HAPYGATE' 라는 예명으로 변경하여 2018년부터 [스피닝 레코즈뿐만아니라](https://ko.wikipedia.org/wiki/:en:Spinnin'_Records "wikilink") 다른 레이블에서도 작업을 시작하게되었다.
+그룹이 해체가 되고 흉흉한 세상을 이겨내기 위해 그룹에 속해있던 사람들은 각자 다른 이름과 스타일로 리뉴얼되어 활동하기 시작했다. 처음부터 'HAPYGATE' 라는 예명으로 시작한건 아니었고 그 중간에 본명을 쓰면서 새로운 활동을 하기시작했는데, 이 시기부터 공식적인 [마스터 이](http://lol.inven.co.kr/dataninfo/champion/detail.php?code=39)로 활동하기 시작한다. 해체가 되고나서 Flamingo Recordings와 계약을 하여 마스터링을 시작했고, 얼마 지나지 않아 Fonk Recordings와도 계약을 맺었다. 'HAPYGATE'라는 예명으로 오기까지 'ILIBEAU' 였을때가 가장 직업의 전문성에 익숙해져있을 때 였다면, 가장 중요한 순간은 2017년 12월 25일 이다. 이날 세계적인 EDM 레이블인 '스피닝레코즈'([Spinnin' Records](https://ko.wikipedia.org/wiki/:en:Spinnin'_Records "wikilink"))와 계약을 하였고(대한민국 K-POP시장으로 따지면 JYP, SM, YG에 입사한거랑 같은거라고 보면된다) 그에 따라 다른 서브레이블도 동시에 계약이 체결되었다. 첫 공개 프로젝트는 스피닝레코즈가 'HAPYGATE'를 'ETOP'이라 불리는 팀에 소속시켜 1년간 지켜보는 점이었는데 1년이 채 되지않아 9개월만에 성공적으로 끝나 'ETOP' 그룹에서 나와 이때부터 'HAPYGATE' 라는 예명으로 변경하여 2018년부터 [스피닝 레코즈뿐만아니라](https://ko.wikipedia.org/wiki/:en:Spinnin'_Records "wikilink") 다른 레이블에서도 작업을 시작하게되었다.
 
 ### Now & Future & Etc.
 
@@ -74,7 +74,7 @@
 
 ## About Stage Names
 
-그동안 많은 예명들이 바뀌어왔다. 그 바뀌어온 예명들의 정보에 대해 설명하고자 한다.\[8\]
+그동안 많은 예명들이 바뀌어왔다고 박희상군이 직접 얘기했다. 그 바뀌어온 예명들의 정보에 대해 설명하고자 한다.\[8\]
 
 **'예명' (활동시기)**
 
@@ -124,7 +124,7 @@
 
 프로젝트 팀 'DVIVE'로 활동했던 기간은 매우 짧았으나, 반응은 괜찮았다. 그 이유는 팀 'VETI'에서 'ILIBEAU'와 'ILIAN' 이 둘이 했던 Tropical House 라는 장르가 그당시 너무 반응이 좋았고, 음악적인 캐미도 좋다보니 일부러 이 둘의 음악을 챙겨듣는 사람이 많았기 때문이다. 이에따라 이 둘은 별다른 소속 팀을 두지않고 단순히 이 둘의 이름을 걸고 장르 변동없이 새롭게 마스터링 엔지니어링을 시작하게된다. 이 둘이 따로 활동한다는 소식을 듣고 실제로 많은사람들이 곡들을 찾아서 들어주기도 했었고 덕분에 새롭게 도전한 '마스터링 엔지니어' 라는 직업도 수월하게 시작하게된다.
 
-### ETP (2017\~2018)
+### (2017\~2018)
 
 **\[Electro House, Future House, Hard Style & Hard Dance\] -ETOP-**
 
@@ -155,7 +155,7 @@
 | GLAM         | KILLAGRAM   | KILAGRAM                           | All Kind           | Proximity                   | Republic of Korea |
 | ALPHA SHOCK  | ALO         | ALO                                | All Kind           | NCS                         | Republic of Korea |
 | B3TR4C       | BEATRAC     | B3TR4C                             | All Kind           | Revealed Recording          | Republic of Korea |
-| VOX          | BERAMASH    | B3RAM4SH                           | All Kind           | Revealed Recording          | Republic of Korea |
+| VOX          | BERAMASH    | d                                  | All Kind           | Revealed Recording          | Republic of Korea |
 | Conutt       | QURK        | Conutt                             | Electro House      | \-                          | Republic of Korea |
 | VINO         | Vi          | V                                  | Hard Style & Dance | Virtual Vital Recording     | Republic of Korea |
 | Nuac         | NUANDO      | NUAC                               | Dub Step           | Monstercat                  | Republic of Korea |
@@ -210,213 +210,23 @@
 
 특정 맴버가 공개되었다. 여기서 다소 놀라운점은, 그렇게 신비주의를 고집해오던 VETI(베티) 멤버들이 그냥 맴버공개가 아니라 어느정도 신상정보를 밝혔다고한다. <s>(그렇게 중요한정보는 아니지만, 이거라도 밝힌게 어디냐는 말도 있다.)</s>
 
-<table>
-<caption><strong><big>VETI HYPERION</big></strong></caption>
-<thead>
-<tr class="header">
-<th><p>Name To Be Use For <strong>'VETI HYPERION<big>'</big></strong></p></th>
-<th><p>Position</p></th>
-<th><p>Gender</p></th>
-<th><p>Age (2019)</p></th>
-<th><p>Fan Favorability (5~10) (Drop Blow 5)</p></th>
-<th><p>Individual S<strong>ignature</strong></p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>HAPGATE (하피게이트)</p></td>
-<td><p>Leader, Producer</p></td>
-<td><p>M</p></td>
-<td><p>25</p></td>
-<td><p>10</p></td>
-<td><p>해피가 아니라 하피입니다 해피는 댕댕이 이름이에요... ㅠ</p></td>
-</tr>
-<tr class="even">
-<td><p>IRENE (아이린)</p></td>
-<td><p>Co-Leader, Producer</p></td>
-<td><p>F</p></td>
-<td><p>25</p></td>
-<td><p>9</p></td>
-<td><p>이거 못하면 백수니까 이거라도 잘해야해...</p></td>
-</tr>
-<tr class="odd">
-<td><p>EPRIUM (이프리움)</p></td>
-<td><p>Producer, Management</p></td>
-<td><p>F</p></td>
-<td><p>25</p></td>
-<td><p>8</p></td>
-<td><p>유행을 따라가기보단 유행을 만들자!</p>
-<p>크으으...</p></td>
-</tr>
-<tr class="even">
-<td><p>SOLIC (솔릭)</p></td>
-<td><p>Producer, Lyricist</p></td>
-<td><p>F</p></td>
-<td><p>25</p></td>
-<td><p>8</p></td>
-<td><p>저는 가사를 쓰는사람이지 가사도우미는 아니에요.. 라면은 혼자 끓여먹자 얘들아...</p></td>
-</tr>
-<tr class="odd">
-<td><p>HIOXIN (하이옥신)</p></td>
-<td><p>Producer, Management</p></td>
-<td><p>M</p></td>
-<td><p>25</p></td>
-<td><p>10</p></td>
-<td><p>먹고살게 해준 친구한테 감사의 표현을... 해피..아니 하피야 고맙다</p></td>
-</tr>
-<tr class="even">
-<td><p>SOD (소드)</p></td>
-<td><p>Mastering Engineer</p></td>
-<td><p>F</p></td>
-<td><p>25</p></td>
-<td><p>9</p></td>
-<td><p>해피야 여기서 하드스타일 뽑으면 어떻게돼? ㅎ__ㅎ</p></td>
-</tr>
-<tr class="odd">
-<td><p>ILIAN (일리안)</p></td>
-<td><p>Mastering Engineer</p></td>
-<td><p>F</p></td>
-<td><p>22</p></td>
-<td><p>9</p></td>
-<td><p>앞으로의 일리안도 기대해주세요 :D 집나간 해ㅍ..아니 일리뷰를 찾습니다..</p></td>
-</tr>
-<tr class="even">
-<td><p>KILAGRAM (킬라그렘)</p></td>
-<td><p>Producer, Management</p></td>
-<td><p>M</p></td>
-<td><p>31</p></td>
-<td><p>9</p></td>
-<td><p>안녕하세요 다시 인사드리는 킬라그렘입니다! 숙성이 뭔지 보여드림</p></td>
-</tr>
-<tr class="odd">
-<td><p>ALO (알로)</p></td>
-<td><p>Producer, Liaison</p></td>
-<td><p>M</p></td>
-<td><p>28</p></td>
-<td><p>9</p></td>
-<td><p>많은분들이 킬라그렘형과 비트락형이랑 동갑으로 알고계시는데 저는 아직 그 페밀리에서 20대랍니다~ ^^</p></td>
-</tr>
-<tr class="even">
-<td><p>B3TR4C (비트락)</p></td>
-<td><p>Producer, Management</p></td>
-<td><p>M</p></td>
-<td><p>31</p></td>
-<td><p>10</p></td>
-<td><p>참고로 제 이름의 어원은 BEAT 락(樂) 이었습니다. 아니 그냥 공개한적이 없는거같아서..</p></td>
-</tr>
-<tr class="odd">
-<td><p>B3RAM4SH (베라매쉬)</p></td>
-<td><p>Producer, Arranger</p></td>
-<td><p>M</p></td>
-<td><p>29</p></td>
-<td><p>9</p></td>
-<td><p>이름이 누구랑 많이 비슷하지않나요?! 저는 그분의 동생이랍니다</p></td>
-</tr>
-<tr class="even">
-<td><p>Conutt (코넛)</p></td>
-<td><p>Mastering Engineer, Lyricist</p></td>
-<td><p>M</p></td>
-<td><p>23</p></td>
-<td><p>6</p></td>
-<td><p><nowiki>코코넛처럼 달~콤한 가사 들려드릴께요~</p></td>
-</tr>
-<tr class="odd">
-<td><p>VINO (바이노)</p></td>
-<td><p>Producer, Liaison</p></td>
-<td><p>M</p></td>
-<td><p>27</p></td>
-<td><p>8</p></td>
-<td><p>항상 잘해왔듯이, 이번에도 잘해보자</p>
-<p>해피야.</p></td>
-</tr>
-<tr class="even">
-<td><p>NUAC (누아크)</p></td>
-<td><p>Producer, Arranger</p></td>
-<td><p>M</p></td>
-<td><p>26</p></td>
-<td><p>8</p></td>
-<td><p>작곡, 마스터링은 잘 못하지만 편곡과 리믹스는 기가맥힌 누아크입니다!</p>
-<p>잘부탁해요~~</p></td>
-</tr>
-<tr class="odd">
-<td><p>ROCA (로카)</p></td>
-<td><p>Mastering Engineer</p></td>
-<td><p>F</p></td>
-<td><p>26</p></td>
-<td><p>7</p></td>
-<td><p>힙합계열을 하다가 넘어와서 적응하기 조금 힘들겠지만</p>
-<p>열심히 노력해서 더 좋은 힙합 들려드리겠습니다! ㅋ</p></td>
-</tr>
-<tr class="even">
-<td><p>EVE (이브)</p></td>
-<td><p>Producer, Management</p></td>
-<td><p>F</p></td>
-<td><p>31</p></td>
-<td><p>9</p></td>
-<td><p>누나 곡좀 그만뽑자</p>
-<p>'BE <strong>EVOLVE</strong>'</p></td>
-</tr>
-<tr class="odd">
-<td><p>Sequencer 20 (시퀀서 20)</p></td>
-<td><p>Producer, Arranger</p></td>
-<td><p>M</p></td>
-<td><p>28</p></td>
-<td><p>8</p></td>
-<td><p>누난 곡뽑을때가 제일 이ㅃ...아니...</p>
-<p>잘어울려!</p></td>
-</tr>
-<tr class="even">
-<td><p>REO (레오)</p></td>
-<td><p>Lyricist, Arranger</p></td>
-<td><p>F</p></td>
-<td><p>26</p></td>
-<td><p>7</p></td>
-<td><p>베티때부터 가사를 담당해왔던 레오입니다!</p>
-<p>모르시겠다구요?! ..관심좀 가져주새오.. ㅠㅠ</p></td>
-</tr>
-<tr class="odd">
-<td><p>NOX (녹스)</p></td>
-<td><p>Mastering Engineer</p></td>
-<td><p>M</p></td>
-<td><p>24</p></td>
-<td><p>6</p></td>
-<td><p><nowiki>꺄아아아ㅏ앙ㅏ앍</p></td>
-</tr>
-<tr class="even">
-<td><p>JANE (제인)</p></td>
-<td><p>Lyricist, Mastering Engineer</p></td>
-<td><p>F</p></td>
-<td><p>26</p></td>
-<td><p>7</p></td>
-<td><p>가사만 써오다가 드디어 하나 더 합니다! 돈 더받겠다</p></td>
-</tr>
-<tr class="odd">
-<td><p>XIX (식스)</p></td>
-<td><p>Mastering Engineer</p></td>
-<td><p>M</p></td>
-<td><p>28</p></td>
-<td><p>7</p></td>
-<td><p>베티 해체 후에 잠시 가출했다가 돌아온 식스라고합니다 잘부탁드려용 ㅎ~ㅎ</p></td>
-</tr>
-<tr class="even">
-<td><p>O2Z3RO (오투제로)</p></td>
-<td><p>Producer</p></td>
-<td><p>M</p></td>
-<td><p>27</p></td>
-<td><p>8</p></td>
-<td><p>산소마저 뺏어가는 좋은 곡 들려드릴께요~~</p>
-<p>(만족스러운 미소를 띄며 고개를 끄덕인다)</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+| 상처를 치료해줄 사람      | 어디없나?                   | 가만히 놔두다간                | 끊임없이 덧나                  | 사랑도 사람도 너무나도 겁나     | 혼자인게 무서워 난 잊혀질까 두려워                  |
+| ---------------- | ----------------------- | ----------------------- | ------------------------ | ------------------- | ------------------------------------ |
+| 상처를 치료해줄 사람      | 어디없나?                   | 가만히 놔두다간                | 끊임없이 덧나                  | 사랑도 사람도 너무나도 겁나     | 혼자인게 무서워 난 잊혀질까 두려워                  |
+| 언제나 외톨이          | 맘의 문을 닫고                | 슬픔을 등에 지고               | 살아가는 바보                  | 두 눈을 감고             | 두 귀를 막고                              |
+| 캄캄한 어둠속에         | 내 자신을 가둬                | 365일 1년 내내              | 방황하는 내 영혼을 쫓아            | 키를 잡은Jack Sparrow   | 몰아치는 Hurricane                       |
+| 졸라매는 허리끈에        | 방향감을 상실하고               | 길을 잃은 소리꾼               | 내 안에                     | 숨어 있는               | 또 다른 나와 싸워                           |
+| 그녀가 떠나갈때 내게 말했었지 | 너는 곁에 있어도 있는 게          | 아닌것 같다고                 | 만지면 베어버리는 칼날같은 사람        | 심장이 얼어붙은            | 차가웠던 사랑                              |
+| 그래               | 1분 1초가                  | 사는게                     | 사는게                      | 아냐                  | 매일 매일이 너무나 두려워 M'aider 누가 날 좀 꺼내줘    |
+| 언제나 외톨이 맘의 문을 닫고 | 슬픔을 등에 지고 살아가는 바보       | 두 눈을 감고 두 귀를 막고         | 캄캄한 어둠속에 내 자신을 가둬        | 언제나 외톨이 맘의 문을 닫고    | 슬픔을 등에 지고 살아가는 바보                    |
+| 두 눈을 감고          | 두 귀를 막고                 | 캄캄한 어둠속에                | 캄캄한 어둠속에                 | 전주중..........       | <nowiki>2절 가즈아                       |
+| 아무도 모르게 다가온      | 이별에 대면했을때               | 또 다시 혼자가 되는게            | 두려워 외면했었네                | 꿈에도 그리던 지나간 시간이     | 다시금 내게로 되돌아오기를 바라며 간절한 맘으로 밤마다 기도했었네 |
+| 시위를 당기고          | 내 손을 떠나간 추억의 화살이        | 머나먼 과녁을 향해서 한없이 빠르게 날아가 | 내게로 돌아와 달라고 내 손을 붙잡아 달라고 | 부르고 불러도 한없이 소리쳐 대봐도 | 아무런 대답이 없는 널                         |
+| 내 기억 속에서 너라는 사람의 | 존재를 완전히 지우려 끝없이 몸부림쳐 봐도 | 매일밤 꿈에서 그대가 나타나         | 흐르는 눈물을 닦아주는걸            | 나 어떡하라고             | 다 끄떡없다고                              |
+| 거짓말 하라고          | 더는 못 참겠다고               | 나도 아플 땐 아프다고            | 슬플땐 슬프다고                 | 얼어 붙은 심장이 자꾸만       | <nowiki>내게로 고자질해                     |
+|                  |                         |                         |                          |                     |                                      |
+
+???
 
 ## 각주
 

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [OFC   ](https://ko.wikipedia.org/wiki/OFC___).
+> This article is converted from Wikipedia: [OFC 풋살 선수권 대회](https://ko.wikipedia.org/wiki/OFC_풋살_선수권_대회).
 
 
 **OFC 풋살 선수권 대회**(OFC Futsal Championship)은 [오세아니아 축구 연맹](../Page/오세아니아_축구_연맹.md "wikilink")(OFC)이 주관하는 [풋살](../Page/풋살.md "wikilink") 국가대표팀 간의 국가대항전이다.

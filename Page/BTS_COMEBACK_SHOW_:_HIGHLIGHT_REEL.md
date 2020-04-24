@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [BTS COMEBACK SHOW : HIGHLIGHT REEL](https://ko.wikipedia.org/wiki/BTS_COMEBACK_SHOW_:_HIGHLIGHT_REEL).
 
 
-**BTS COMEBACK SHOW : HIGHLIGHT REEL**는 [Mnet](https://ko.wikipedia.org/wiki/Mnet "wikilink")에서 [2018년](../Page/2018년.md "wikilink") [5월 24일](../Page/5월_24일.md "wikilink") 방송된 [방탄소년단](../Page/방탄소년단.md "wikilink")의 컴백 쇼이다. 90분에 달하는 특별 편성으로 국내는 물론 온라인을 통해 전 세계로 동시 생중계되면서 뜨거운 화제를 모았다.\[1\]\[2\]
+**BTS COMEBACK SHOW : HIGHLIGHT REEL**는 [Mnet](https://ko.wikipedia.org/wiki/Mnet "wikilink")에서 2018년 5월 24일 방송된 [대한민국](../Page/대한민국.md "wikilink")의 [보이 그룹](https://ko.wikipedia.org/wiki/보이_그룹 "wikilink") [방탄소년단](../Page/방탄소년단.md "wikilink")의 컴백 쇼이다. 90분에 달하는 특별 편성으로 국내는 물론 온라인을 통해 전 세계로 동시 생중계되면서 뜨거운 화제를 모았다.\[1\]\[2\]
 
 ## 개요
 
@@ -12,7 +12,7 @@
 ## 출연자(방탄소년단 멤버)
 
   - [방탄소년단](../Page/방탄소년단.md "wikilink")
-      - [RM](https://ko.wikipedia.org/wiki/RM_\(가수\) "wikilink")
+      - [RM](../Page/RM_\(래퍼\).md "wikilink")
       - [슈가](https://ko.wikipedia.org/wiki/슈가_\(래퍼\) "wikilink")
       - [진](../Page/진_\(가수\).md "wikilink")
       - [제이홉](../Page/제이홉.md "wikilink")

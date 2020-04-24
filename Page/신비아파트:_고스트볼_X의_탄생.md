@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [신비아파트: 고스트볼 X의 탄생](https://ko.wikipedia.org/wiki/신비아파트:_고스트볼_X의_탄생).
 
 
-《**신비아파트: 고스트볼 X의 탄생**》은 [대한민국](../Page/대한민국.md "wikilink")의 [애니메이션](../Page/애니메이션.md "wikilink"). [투니버스](../Page/투니버스.md "wikilink")가 제작해 [2017년](../Page/2017년.md "wikilink") [11월 9일부터](../Page/11월_9일.md "wikilink") [2018년](../Page/2018년.md "wikilink") [3월 15일까지](../Page/3월_15일.md "wikilink") 매주 목요일 밤 저녁 8시에 방영했으며, 같은 해 [11월 8일부터](../Page/11월_8일.md "wikilink") [2019년](../Page/2019년.md "wikilink") [1월 24일까지](../Page/1월_24일.md "wikilink") 매주 목요일 밤 저녁 8시에 방영했다.
+《**신비아파트: 고스트볼 X의 탄생**》은 [대한민국](../Page/대한민국.md "wikilink")의 [애니메이션](../Page/애니메이션.md "wikilink"). [투니버스](../Page/투니버스.md "wikilink")가 제작해 [2017년](../Page/2017년.md "wikilink") [11월 9일부터](../Page/11월_9일.md "wikilink") [2018년](../Page/2018년.md "wikilink") [3월 15일까지](../Page/3월_15일.md "wikilink") 매주 목요일 오후 8시에 방영했으며, 두 번째 이야기는 같은 해 [11월 8일부터](../Page/11월_8일.md "wikilink") [2019년](../Page/2019년.md "wikilink") [1월 24일까지](../Page/1월_24일.md "wikilink") 매주 목요일 오후 8시에 방영했다.
 
 ## 개요
 
@@ -13,6 +13,7 @@
 
   - **[신비](../Page/신비_\(신비아파트\).md "wikilink")** (성우: [조현정](../Page/조현정_\(성우\).md "wikilink"))
   - **[금비](../Page/금비.md "wikilink")** (성우: [양정화](../Page/양정화_\(성우\).md "wikilink"))
+  - **[레오](https://ko.wikipedia.org/wiki/레오_\(신비아파트\) "wikilink")** (성우: [손수호](../Page/손수호.md "wikilink"))
   - **[구하리](../Page/구하리_\(신비아파트\).md "wikilink")** (성우:[김영은](../Page/김영은_\(성우\).md "wikilink"))
   - **[구두리](../Page/구두리.md "wikilink")** (성우: [김채하](../Page/김채하.md "wikilink"))
   - **[최강림](../Page/최강림.md "wikilink")** (성우: [신용우](../Page/신용우_\(성우\).md "wikilink"))
@@ -26,8 +27,8 @@
 
   - 구인남(**[구하리](../Page/구하리_\(신비아파트\).md "wikilink")**와**[구두리](../Page/구두리.md "wikilink")**의 아빠) (성우: [최재호](../Page/최재호_\(성우\).md "wikilink"))
   - 유지미(**[구하리](../Page/구하리_\(신비아파트\).md "wikilink")**와**[구두리](../Page/구두리.md "wikilink")**의 엄마) (성우: [이소은](../Page/이소은_\(성우\).md "wikilink"))
-  - **[최강림](../Page/최강림.md "wikilink")**엄마 (성우: [박선영](../Page/박선영_\(성우\).md "wikilink"))
-  - 대장 퇴마사 (성우: [권혁수](../Page/권혁수_\(성우\).md "wikilink"))
+  - **[최강림](../Page/최강림.md "wikilink")** 엄마 (성우: [박선영](../Page/박선영_\(성우\).md "wikilink"))
+  - 아이기스의 대장 퇴마사 (성우: [권혁수](../Page/권혁수_\(성우\).md "wikilink"))
 
 <!-- end list -->
 
@@ -83,7 +84,7 @@
   - 금돼지(성우: [김정훈](../Page/김정훈_\(성우\).md "wikilink"))
   - 입질쟁이(성우: [유영](../Page/유영_\(성우\).md "wikilink"), [김다올](https://ko.wikipedia.org/wiki/김다올 "wikilink"), [홍승효](https://ko.wikipedia.org/wiki/홍승효 "wikilink"), 강성우, 강새봄, 이상호, 김도희, 박시윤)
   - 취생(성우: [이선주](../Page/이선주.md "wikilink"))
-  - 구미호(성우: [김하루](../Page/김하루.md "wikilink"))
+  - \[\[희원_(신비아파트)|구미호\]희원\](성우: [김하루](../Page/김하루.md "wikilink"))
   - 청목형형(성우: [양정화](../Page/양정화_\(성우\).md "wikilink"))
 
 #### 두억시니의 부하들/악귀
@@ -94,17 +95,11 @@
   - 지네귀신(성우: [홍승효](https://ko.wikipedia.org/wiki/홍승효 "wikilink"))
   - 당목귀(성우: [현경수](../Page/현경수.md "wikilink"))
 
-### 그 밖
-
-  - 도한(성우: [송준석](../Page/송준석_\(성우\).md "wikilink"))
-  - 진명(성우: [민응식](../Page/민응식.md "wikilink"))
-  - 두억시니(성우: [유해무](../Page/유해무.md "wikilink"))
-
 ## 아이기스 및 기타 아이템
 
   - 고스트볼X
 
-전작보다 더 업그레이드된 고스트볼.
+전작보다 2배나 강력해진 고스트볼.
 
   - 세피르 카드
 

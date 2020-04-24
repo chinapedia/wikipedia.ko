@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Tommy \(\)](https://ko.wikipedia.org/wiki/Tommy_\(\)).
+> This article is converted from Wikipedia: [Tommy \(음반\)](https://ko.wikipedia.org/wiki/Tommy_\(음반\)).
 
 
 《**Tommy**》는 [영국](../Page/영국.md "wikilink")의 록 밴드 [더 후의](../Page/더_후.md "wikilink") 네 번째 스튜디오 음반이다. 이 음반은 1969년 5월 23일 [데카 레코드에](https://ko.wikipedia.org/wiki/데카_레코드 "wikilink") 의해 더블 음반으로 처음 발매되었다. 이 음반은 주로 기타리스트인 [피트 타운센드가](https://ko.wikipedia.org/wiki/피트_타운센드 "wikilink") 작곡한 [록 오페라로](https://ko.wikipedia.org/wiki/록_오페라 "wikilink"), 그의 인생 경험, 가족과의 관계를 포함한 "귀머거리, 벙어리 그리고 맹인" 소년 토미에 대한 이야기를 들려주는 음반이다.
@@ -47,4 +47,4 @@
 
 ## 외부 링크
 
-[분류:1969년 음반](https://ko.wikipedia.org/wiki/분류:1969년_음반 "wikilink") [분류:더 후의 음반](https://ko.wikipedia.org/wiki/분류:더_후의_음반 "wikilink") [분류:콘셉트 음반](https://ko.wikipedia.org/wiki/분류:콘셉트_음반 "wikilink") [분류:데카 레코드 음반](https://ko.wikipedia.org/wiki/분류:데카_레코드_음반 "wikilink") [분류:폴리도르 레코드 음반](https://ko.wikipedia.org/wiki/분류:폴리도르_레코드_음반 "wikilink") [분류:록 오페라](https://ko.wikipedia.org/wiki/분류:록_오페라 "wikilink")
+[분류:1969년 음반](https://ko.wikipedia.org/wiki/분류:1969년_음반 "wikilink") [분류:더 후의 음반](https://ko.wikipedia.org/wiki/분류:더_후의_음반 "wikilink") [분류:콘셉트 음반](https://ko.wikipedia.org/wiki/분류:콘셉트_음반 "wikilink") [분류:데카 레코드 음반](https://ko.wikipedia.org/wiki/분류:데카_레코드_음반 "wikilink") [분류:MCA 레코드 음반](https://ko.wikipedia.org/wiki/분류:MCA_레코드_음반 "wikilink") [분류:폴리도르 레코드 음반](https://ko.wikipedia.org/wiki/분류:폴리도르_레코드_음반 "wikilink") [분류:록 오페라](https://ko.wikipedia.org/wiki/분류:록_오페라 "wikilink")

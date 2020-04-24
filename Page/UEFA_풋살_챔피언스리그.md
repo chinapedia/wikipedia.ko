@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [UEFA  ](https://ko.wikipedia.org/wiki/UEFA__).
+> This article is converted from Wikipedia: [UEFA 풋살 챔피언스리그](https://ko.wikipedia.org/wiki/UEFA_풋살_챔피언스리그).
 
 
 **UEFA 풋살 챔피언스리그**(UEFA Futsal Champions League)는 [유럽 축구 연맹](../Page/유럽_축구_연맹.md "wikilink")(UEFA)이 주관하는 [풋살](../Page/풋살.md "wikilink") 클럽 대회이다. 2001년에 **UEFA 풋살컵**(UEFA Futsal Cup)이라는 이름으로 창설되었으며 2018년에 지금과 같은 이름으로 바뀌었다.

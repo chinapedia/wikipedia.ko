@@ -20,6 +20,8 @@ iOS 11을 지원하는 모든 장치가 iOS 12를 지원한다. 기존 iOS11의 
   - [아이폰 8](../Page/아이폰_8.md "wikilink")
   - [아이폰 8 플러스](../Page/아이폰_8.md "wikilink")
   - [아이폰 X](../Page/아이폰_X.md "wikilink")
+  - [아이폰 XS](../Page/아이폰_XS.md "wikilink")
+  - [아이폰 XR](../Page/아이폰_XR.md "wikilink")
 
 ### 아이팟 터치
 

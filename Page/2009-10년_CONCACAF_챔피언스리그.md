@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [2009-10 CONCACAF ](https://ko.wikipedia.org/wiki/2009-10_CONCACAF_).
+> This article is converted from Wikipedia: [2009-10년 CONCACAF 챔피언스리그](https://ko.wikipedia.org/wiki/2009-10년_CONCACAF_챔피언스리그).
 
 
-**2009-10년 CONCACAF 챔피언스리그**(2009-10 CONCACAF Champions League)는 [2009년](../Page/2009년.md "wikilink") [7월 28일부터](../Page/7월_28일.md "wikilink") [2010년](../Page/2010년.md "wikilink") [4월 28일까지](../Page/4월_28일.md "wikilink") 개최된 [CONCACAF 챔피언스리그의](../Page/CONCACAF_챔피언스리그.md "wikilink") 45번째 대회이다. [멕시코](../Page/멕시코.md "wikilink")의 [파추카가](../Page/CF_파추카.md "wikilink") 결승전에서 [멕시코](../Page/멕시코.md "wikilink")의 [크루스 아술을](../Page/크루스_아술.md "wikilink") 누르고 우승을 차지했다.
+**2009-10년 CONCACAF 챔피언스리그**(2009-10 CONCACAF Champions League)는 [2009년](../Page/2009년.md "wikilink") [7월 28일부터](../Page/7월_28일.md "wikilink") [2010년](../Page/2010년.md "wikilink") [4월 28일까지](../Page/4월_28일.md "wikilink") 개최된 [CONCACAF 챔피언스리그의](../Page/CONCACAF_챔피언스리그.md "wikilink") 2번째 대회이다. [멕시코](../Page/멕시코.md "wikilink")의 [파추카가](../Page/CF_파추카.md "wikilink") 결승전에서 [멕시코](../Page/멕시코.md "wikilink")의 [크루스 아술을](../Page/크루스_아술.md "wikilink") 누르고 우승을 차지했다.
 
 ## 예비 라운드
 

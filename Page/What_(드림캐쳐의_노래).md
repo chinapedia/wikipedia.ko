@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [What \( \)](https://ko.wikipedia.org/wiki/What_\(_\)).
+> This article is converted from Wikipedia: [What \(드림캐쳐의 노래\)](https://ko.wikipedia.org/wiki/What_\(드림캐쳐의_노래\)).
 
 
 〈**What**〉(왓)은 대한민국의 걸 그룹 [드림캐쳐의](../Page/드림캐쳐_\(음악_그룹\).md "wikilink") 노래이자 일본 데뷔 [싱글이다](../Page/싱글_\(음악\).md "wikilink").

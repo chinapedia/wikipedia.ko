@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  RPG](https://ko.wikipedia.org/wiki/__RPG).
+> This article is converted from Wikipedia: [모노톤 뮤지엄 RPG](https://ko.wikipedia.org/wiki/모노톤_뮤지엄_RPG).
 
 
 **모노톤 뮤지엄 RPG**는 2011년 8월 [엔터브레인](https://ko.wikipedia.org/wiki/엔터브레인 "wikilink")에서 출판 된 [다크 판타지](https://ko.wikipedia.org/wiki/다크_판타지 "wikilink") 느낌의 [테이블탑 롤플레잉 게임이다](../Page/테이블탑_롤플레잉_게임.md "wikilink"). 저자는 스가노 타스크. 게임의 핵심 시스템에는 [스탠다드 RPG 시스템](https://ko.wikipedia.org/wiki/スタンダードRPGシステム "wikilink") (이하 SRS)를 사용하고 있다.

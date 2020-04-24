@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ O1b2 \(Y-DNA\)](https://ko.wikipedia.org/wiki/_O1b2_\(Y-DNA\)).
+> This article is converted from Wikipedia: [하플로그룹 O1b2 \(Y-DNA\)](https://ko.wikipedia.org/wiki/하플로그룹_O1b2_\(Y-DNA\)).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:O1b2-M176&#039;.png "wikilink")

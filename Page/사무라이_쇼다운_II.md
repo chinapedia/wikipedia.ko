@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  II](https://ko.wikipedia.org/wiki/__II).
+> This article is converted from Wikipedia: [사무라이 쇼다운 II](https://ko.wikipedia.org/wiki/사무라이_쇼다운_II).
 
 
 《**사무라이 쇼다운 II**》()은 [SNK](../Page/SNK.md "wikilink")가 제작한 1994년 [아케이드](../Page/아케이드_게임.md "wikilink") [대전 격투 게임이다](https://ko.wikipedia.org/wiki/대전_격투_게임 "wikilink"). [사무라이 쇼다운](../Page/사무라이_쇼다운.md "wikilink") 시리즈의 두번째 작품으로, [네오지오](https://ko.wikipedia.org/wiki/네오지오 "wikilink") 플랫폼으로 개발됐다. 일본에선 《**진 사무라이 스피리츠: 하오마루 지옥변**》()라는 제목으로 출시됐다.

@@ -10,7 +10,7 @@
 
 **WWE 에볼루션 (2018)** *WWE Evolution (2018)*
 
-**에볼루션**(Evolution)는 미국 프로레슬링 단체 [WWE](https://ko.wikipedia.org/wiki/WWE "wikilink") 에서 2018년부터 시행 중인 여성 레슬러만 참관하는 페이 퍼 뷰이다.
+**에볼루션**(Evolution)는 미국 프로레슬링 단체 [WWE](../Page/WWE.md "wikilink") 에서 2018년부터 시행 중인 여성 레슬러만 참관하는 페이 퍼 뷰이다.
 
 ## 에볼루션 개최한 곳
 

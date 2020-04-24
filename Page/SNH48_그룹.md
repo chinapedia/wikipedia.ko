@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SNH48 ](https://ko.wikipedia.org/wiki/SNH48_).
+> This article is converted from Wikipedia: [SNH48 그룹](https://ko.wikipedia.org/wiki/SNH48_그룹).
 
 
 **SNH48 그룹**(, )은 [중화인민공화국](../Page/중화인민공화국.md "wikilink")의 여성 아이돌 그룹 [SNH48](../Page/SNH48.md "wikilink")과 자매 그룹에서 형성되는 아이돌 프로젝트 브랜드로, SNH48과 자매 그룹의 총칭이다.
@@ -50,7 +50,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/IDOLS_Ft" title="wikilink">IDOLS Ft</a></p></td>
+<td><p><a href="../Page/IDOLS_Ft.md" title="wikilink">IDOLS Ft</a></p></td>
 <td><p>2019년 1월 -</p></td>
 <td><p>상하이 시</p></td>
 <td></td>
@@ -177,7 +177,7 @@
       - [SNH48](http://www.snh48.com/)
       - [BEJ48](https://web.archive.org/web/20171005025555/http://www.bej48.com/)
       - [GNZ48](http://www.gnz48.com/)
-      - [SHY48](http://www.shy48.com/)
+      - [SHY48](https://web.archive.org/web/20190123171313/http://www.shy48.com/)
       - [CKG48](http://www.ckg48.com/)
       - [IDOLS Ft](http://idft.snh48.com)
 

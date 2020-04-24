@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [WKBL   ](https://ko.wikipedia.org/wiki/WKBL___).
+> This article is converted from Wikipedia: [WKBL 외국인 선수 목록](https://ko.wikipedia.org/wiki/WKBL_외국인_선수_목록).
 
 
 다음은 [한국여자프로농구](https://ko.wikipedia.org/wiki/한국여자프로농구 "wikilink")(WKBL0에서 뛰었거나 현재 뛰고 있는 외국인 선수의 목록이다. 2000년 여름리그부터 중국 국적 선수들을 대상으로 한 외국인 선수 제도가 처음 실시되었다.

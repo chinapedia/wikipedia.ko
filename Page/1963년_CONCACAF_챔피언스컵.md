@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [1963 CONCACAF ](https://ko.wikipedia.org/wiki/1963_CONCACAF_).
+> This article is converted from Wikipedia: [1963년 CONCACAF 챔피언스컵](https://ko.wikipedia.org/wiki/1963년_CONCACAF_챔피언스컵).
 
 
 **1963년 CONCACAF 챔피언스컵**(1963 CONCACAF Champions' Cup)은 [1963년](../Page/1963년.md "wikilink") [3월 10일부터](../Page/3월_10일.md "wikilink") [8월 18일까지](../Page/8월_18일.md "wikilink") 개최된 CONCACAF 챔피언스컵(현재의 [CONCACAF 챔피언스리그](../Page/CONCACAF_챔피언스리그.md "wikilink"))의 2번째 대회이다. [아이티](../Page/아이티.md "wikilink")의 [RC 아이시앵이](https://ko.wikipedia.org/wiki/RC_아이시앵 "wikilink") 우승을 차지했다.

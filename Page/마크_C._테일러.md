@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ C. ](https://ko.wikipedia.org/wiki/_C._).
+> This article is converted from Wikipedia: [마크 C. 테일러](https://ko.wikipedia.org/wiki/마크_C._테일러).
 
 
 **마크 C. 테일러** (Mark C. Taylor, 1945년 12월 13일 - )는 신학, 철학, 미술 및 건축, 미디어, 기술, 경제 및 자연 과학에 관한 20권 이상의 책을 출판 한 종교 철학자이자 문화 비평가이다. 대표적인 [포스트모던](https://ko.wikipedia.org/wiki/포스트모던 "wikilink") 신학자이다. 1968년 [웨슬리안 대학교 (Wesleyan University)](../Page/웨슬리언_대학교.md "wikilink") 를 졸업 한 후 [하버드 대학교](../Page/하버드_대학교.md "wikilink") 에서 종교학 박사 학위를 받았으며 1973 년 [윌리엄스 대학교에서](../Page/윌리엄스_칼리지.md "wikilink") 강의를 시작했습니다. 2007 년에 윌리엄스 대학교에서 [콜비비아 대학교](../Page/컬럼비아_대학교.md "wikilink") 로 옮겨 2015 년까지 종교학과 학장으로 지냈다.

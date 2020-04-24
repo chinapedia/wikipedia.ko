@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Scandal \(\)](https://ko.wikipedia.org/wiki/Scandal_\(\)).
+> This article is converted from Wikipedia: [Scandal \(노래\)](https://ko.wikipedia.org/wiki/Scandal_\(노래\)).
 
 
 〈**Scandal**〉은 [영국](../Page/영국.md "wikilink")의 록 밴드 [퀸의](../Page/퀸_\(밴드\).md "wikilink") 곡이다. 이 곡은 1989년 음반 《[The Miracle](../Page/The_Miracle.md "wikilink")》의 네 번째 싱글로 발표되었고 영국에서 25위로 정점을 찍었다.\[1\] 이 싱글곡은 미국에서 발매되었지만 차트 작성에는 실패했다.

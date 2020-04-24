@@ -28,8 +28,8 @@
 | 2층         | JTBC홀, 부조정실, 보도기술팀, 영상제작팀, 문자그래픽실, 분장실, 출연자 대기실, 우편실, 보안실                                                                                                                                    |
 | 1층         | 안내데스크, JTBC 오픈 스튜디오, CAFE STEM, Brand Shop, 하나은행 상암 JTBC 출장소                                                                                                                                 |
 | 지하 1층      | JTBC 부조정실, JTBC GOLF 부조정실 · 분장실, [CU](../Page/CU_\(편의점\).md "wikilink"), 더 스푼                                                                                                                |
-| 지하 2층      | JTBC 스튜디오, JTBC GOLF 스튜디오 · 분장실, 토키미디어, [지하주차장](https://ko.wikipedia.org/wiki/주차장 "wikilink")                                                                                                |
-| 지하 3 \~ 6층 | [지하주차장](https://ko.wikipedia.org/wiki/주차장 "wikilink")                                                                                                                                        |
+| 지하 2층      | JTBC 스튜디오, JTBC GOLF 스튜디오 · 분장실, 토키미디어, [지하주차장](../Page/주차장.md "wikilink")                                                                                                                   |
+| 지하 3 \~ 6층 | [지하주차장](../Page/주차장.md "wikilink")                                                                                                                                                           |
 
 ## 사건 및 사고
 

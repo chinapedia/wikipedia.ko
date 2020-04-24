@@ -19,7 +19,7 @@ OCR-A 글꼴은 [ANSI](https://ko.wikipedia.org/wiki/ANSI "wikilink")( American 
 
 무료 버전의 글꼴을 사용자가 쉽게 이용할 수 있도록하기 위해 존 사우터(John Sauter)는 2004 년 [포트레이스](../Page/포트레이스.md "wikilink")(potrace) 및 [폰트포지](../Page/폰트포지.md "wikilink")(FontForge) 를 사용하여 MetaFont 정의를 [윈도우상에서](../Page/마이크로소프트_윈도우.md "wikilink") 작동하는 [트루타입](../Page/트루타입.md "wikilink")(TrueType)으로 변환했다.\[6\] 2007 년 거칸 셍건(Gürkan Sengün)은 이 구현에서 [데비안](../Page/데비안.md "wikilink") 패키지를 만들어냈다.\[7\] 2008 년, 뤽 데브로이(Luc Devroye)는 존 사우터(John Sauter)의 구현에서 수직 위치를 수정하고 소문자 z에대한 작업을 완료했다.\[8\]
 
-독립적으로 매튜 스칼라(Matthew Skala)는\[9\] mftrace\[10\] 를 사용하여 2006 년 메타폰트(Metafont) 정의를 [트루타입](../Page/트루타입.md "wikilink") 형식으로 변환했다. 2011 년에는 메타폰트(Metafont) 정의를 다시 작성하여 중간 버전 추적없이 직접 개요를 생성하는 새 버전을 릴리스했다. 2012 년 9 월 27 일에 그는 구현을 버전 0.2로 업데이트했다.\[11\]
+독립적으로 매튜 스칼라(Matthew Skala)는\[9\] mftrace\[10\] 를 사용하여 2006 년 메타폰트(Metafont) 정의를 [트루타입](../Page/트루타입.md "wikilink") 형식으로 변환했다. 2011 년에는 메타폰트(Metafont) 정의를 다시 작성하여 중간 버전 추적없이 직접 개요를 생성하는 새 버전을 릴리스했다. 2012년 9월 27일에 그는 구현을 버전 0.2로 업데이트했다.\[11\]
 
 매튜 스칼라(Matthew Skala)는 [퍼블릭도메인](https://ko.wikipedia.org/wiki/퍼블릭도메인 "wikilink")으로 OCR-A, [OCR-B](../Page/OCR-B.md "wikilink") 폰트와 소스 모두를 공개했다.\[12\]
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Purple \(마마무의 음반\)](https://ko.wikipedia.org/wiki/Purple_\(마마무의_음반\)).
 
 
-《**Purple**》(퍼플)은 대한민국의 걸 그룹 [마마무](../Page/마마무.md "wikilink")의 다섯 번째 미니 음반으로, 2017년 6월 22일 발매되었다. 타이틀 곡은 〈나로 말할 것 같으면 (Yes I am)〉이다.
+《**Purple**》(퍼플)은 [대한민국](../Page/대한민국.md "wikilink")의 [걸 그룹](../Page/걸_그룹.md "wikilink") [마마무](../Page/마마무.md "wikilink")의 다섯 번째 미니 음반으로, 2017년 6월 22일 발매되었다. 타이틀 곡은 〈나로 말할 것 같으면 (Yes I am)〉이다.
 
 ## 개요
 

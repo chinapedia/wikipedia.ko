@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [UEFA  ](https://ko.wikipedia.org/wiki/UEFA__).
+> This article is converted from Wikipedia: [UEFA 네이션스리그 주제가](https://ko.wikipedia.org/wiki/UEFA_네이션스리그_주제가).
 
 
 **UEFA 네이션스리그 주제가**는 [UEFA 네이션스리그를](https://ko.wikipedia.org/wiki/UEFA_네이션스리그 "wikilink") 대표하는 곡이다.

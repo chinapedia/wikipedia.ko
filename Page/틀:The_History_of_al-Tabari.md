@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:The History of al-Tabari](https://ko.wikipedia.org/wiki/:The_History_of_al-Tabari).
+> This article is converted from Wikipedia: [틀:The History of al-Tabari](https://ko.wikipedia.org/wiki/틀:The_History_of_al-Tabari).
 
 
 <noinclude></noinclude>

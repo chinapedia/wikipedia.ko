@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [A LIFE\~사랑스러운 사람\~](https://ko.wikipedia.org/wiki/A_LIFE\~사랑스러운_사람\~).
 
 
-《**A LIFE\~사랑스러운 사람\~**》()는, [2017년](../Page/2017년.md "wikilink") [1월 15일부터](../Page/1월_15일.md "wikilink") [3월 19일까지](../Page/3월_19일.md "wikilink") 매주 [일요일](../Page/일요일.md "wikilink") 21:00 \~ 21:54에 [TBS](../Page/도쿄_방송_홀딩스.md "wikilink") [계열의](../Page/재팬_뉴스_네트워크.md "wikilink") 〈[일요극장](../Page/일요극장.md "wikilink")〉 시간대에서 방송될 예정인 [텔레비전 드라마이다](https://ko.wikipedia.org/wiki/일본_드라마 "wikilink"). 주연은 [키무라 타쿠야](../Page/기무라_타쿠야.md "wikilink")\[1\].
+《**A LIFE\~사랑스러운 사람\~**》()는 [2017년](../Page/2017년.md "wikilink") [1월 15일부터](../Page/1월_15일.md "wikilink") [3월 19일까지](../Page/3월_19일.md "wikilink") 매주 [일요일](../Page/일요일.md "wikilink") 21:00 \~ 21:54에 [TBS](../Page/도쿄_방송_홀딩스.md "wikilink") [계열의](../Page/재팬_뉴스_네트워크.md "wikilink") 〈[일요극장](../Page/일요극장.md "wikilink")〉 시간대에서 방송될 예정인 [텔레비전 드라마이다](https://ko.wikipedia.org/wiki/일본_드라마 "wikilink"). 주연은 [키무라 타쿠야](../Page/기무라_타쿠야.md "wikilink")\[1\].
 
 ## 개요
 

@@ -5,7 +5,7 @@
 
 1984년 11월 26일에 발매된 싱글곡은 1984년 크리스마스 동안 6주 동안 영국 차트에서 보냈고 1985년 새해에는 21위로 정점을 찍었다.\[1\]
 
-이 곡은 1999년에 발매된 퀸의 《[Greatest Hits III](https://ko.wikipedia.org/wiki/Greatest_Hits_III_\(음반\) "wikilink")》에만 나오는 퀸의 스튜디오 음반에는 처음 발표되지 않았고 1995년 《[Made in Heaven](../Page/Made_in_Heaven.md "wikilink")》 음반의 싱글 〈[A Winter's Tale](https://ko.wikipedia.org/wiki/A_Winter's_Tale "wikilink")〉의 [B-사이드로도](https://ko.wikipedia.org/wiki/A-사이드와_B-사이드 "wikilink") 발표되었다. 그러나, 그 트랙은 마침내 그들의 음반 《[The Works](../Page/The_Works.md "wikilink")》의 디럭스 에디션과 함께 포장된 보너스 EP에 포함되었고, 2011년에 다시 발매되었다.
+이 곡은 1999년에 발매된 퀸의 《[Greatest Hits III](https://ko.wikipedia.org/wiki/Greatest_Hits_III_\(음반\) "wikilink")》에만 나오는 퀸의 스튜디오 음반에는 처음 발표되지 않았고 1995년 《[Made in Heaven](../Page/Made_in_Heaven.md "wikilink")》 음반의 싱글 〈[A Winter's Tale](../Page/A_Winter's_Tale.md "wikilink")〉의 [B-사이드로도](https://ko.wikipedia.org/wiki/A-사이드와_B-사이드 "wikilink") 발표되었다. 그러나, 그 트랙은 마침내 그들의 음반 《[The Works](../Page/The_Works.md "wikilink")》의 디럭스 에디션과 함께 포장된 보너스 EP에 포함되었고, 2011년에 다시 발매되었다.
 
 그 트랙을 위한 홍보 비디오는 촬영되지 않았다.
 

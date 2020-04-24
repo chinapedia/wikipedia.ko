@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Only Teardrops \(\)](https://ko.wikipedia.org/wiki/Only_Teardrops_\(\)).
+> This article is converted from Wikipedia: [Only Teardrops \(음반\)](https://ko.wikipedia.org/wiki/Only_Teardrops_\(음반\)).
 
 
 《**Only Teardrops**》는 덴마크의 가수 에멜리에 데 포레스트의 음반이다.

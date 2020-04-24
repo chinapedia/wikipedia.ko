@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [WKBL  ](https://ko.wikipedia.org/wiki/WKBL__).
+> This article is converted from Wikipedia: [WKBL 시즌 목록](https://ko.wikipedia.org/wiki/WKBL_시즌_목록).
 
 
 [한국여자프로농구](https://ko.wikipedia.org/wiki/한국여자프로농구 "wikilink")(WKBL)는 대한민국의 프로 농구 리그이다. 현재 6팀이 참가하고 있으며, 각 팀은 정규리그 동안 35경기를 치른다. 정규리그 2위와 3위 팀은 플레이오프에 진출한다. 플레이오프 승리팀은 정규리그 1위와 [챔피언 결정전을](https://ko.wikipedia.org/wiki/WKBL_챔피언_결정전 "wikilink") 통해 우승팀을 가리게 된다.
@@ -345,12 +345,13 @@
 </tr>
 <tr class="even">
 <td></td>
-<td></td>
-<td></td>
+<td><p><a href="../Page/아산_우리은행_위비.md" title="wikilink">아산 우리은행 위비</a></p></td>
+<td><p>21-6<br />
+()</p></td>
 <td></td>
 <td><p>6</p></td>
-<td><p>30</p></td>
-<td></td>
+<td><p>27-28</p></td>
+<td><p>정규리그 조기 종료 및 플레이오프 미개최</p></td>
 <td></td>
 </tr>
 </tbody>

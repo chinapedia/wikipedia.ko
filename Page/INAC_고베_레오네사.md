@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [INAC  ](https://ko.wikipedia.org/wiki/INAC__).
+> This article is converted from Wikipedia: [INAC 고베 레오네사](https://ko.wikipedia.org/wiki/INAC_고베_레오네사).
 
 
 **INAC 고베 레오네사**(, )는 [효고현](../Page/효고현.md "wikilink") [고베시](../Page/고베시.md "wikilink")를 연고로 하는 [일본](../Page/일본.md "wikilink")의 [여자 축구](../Page/여자_축구.md "wikilink") 클럽이다. '아이낙'(INAC)은 "인터내셔널 애슬레틱 클럽"(International Athletic Club)의 [영어](../Page/영어.md "wikilink") 약칭이고 '레오네사'(Leonessa)는 [이탈리아어](../Page/이탈리아어.md "wikilink")로 "암사자"를 뜻한다.

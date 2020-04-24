@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ \(We Are\)](https://ko.wikipedia.org/wiki/_\(We_Are\)).
+> This article is converted from Wikipedia: [시차 \(We Are\)](https://ko.wikipedia.org/wiki/시차_\(We_Are\)).
 
 
 《**시차 (We Are)**》는 대한민국의 래퍼 [우원재](../Page/우원재.md "wikilink")의 데뷔 [싱글](https://ko.wikipedia.org/wiki/싱글 "wikilink")이자 노래이다. 타이틀 곡은 〈시차 (We Are) (Feat. [로꼬](../Page/로꼬.md "wikilink") & [GRAY](../Page/그레이_\(가수\).md "wikilink"))〉로, [2017년](../Page/2017년.md "wikilink") [9월 4일](../Page/9월_4일.md "wikilink") [AOMG](https://ko.wikipedia.org/wiki/AOMG "wikilink")를 통하여 발매되었다.

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Zompist.com](https://ko.wikipedia.org/wiki/Zompist.com).
 
 
-**Zompist.com** 또는 **메타버스**(The Metaverse)는, [언어 창작자](../Page/언어_창작자.md "wikilink") **마크 로젠펠터**(Mark Rosenfelder, 일명 Zompist)가 만든 [웹사이트](../Page/웹사이트.md "wikilink")이다. 여기에는 로젠펠터의 [세계 설정](../Page/세계_설정.md "wikilink") *알메아*(*Almea*)에 대한 상세한 묘사와 함께, [만화](../Page/만화.md "wikilink"), [정치](../Page/정치.md "wikilink"), [언어](../Page/언어.md "wikilink"), [과학](../Page/과학.md "wikilink")에 대한 수필들이 올라와 있다. 이 웹사이트에는 로젠펠터의 인공어 제작 안내문, *인공어 제작 매뉴얼*(*The Language Construction Kit*)도 올라와 있다.
+**Zompist.com** 또는 **메타버스**(The Metaverse)는 [언어 창작자](../Page/언어_창작자.md "wikilink") **마크 로젠펠터**(Mark Rosenfelder, 일명 Zompist)가 만든 [웹사이트](../Page/웹사이트.md "wikilink")이다. 여기에는 로젠펠터의 [세계 설정](../Page/세계_설정.md "wikilink") *알메아*(*Almea*)에 대한 상세한 묘사와 함께, [만화](../Page/만화.md "wikilink"), [정치](../Page/정치.md "wikilink"), [언어](../Page/언어.md "wikilink"), [과학](../Page/과학.md "wikilink")에 대한 수필들이 올라와 있다. 이 웹사이트에는 로젠펠터의 인공어 제작 안내문, *인공어 제작 매뉴얼*(*The Language Construction Kit*)도 올라와 있다.
 
 웹사이트 내의 문화 테스트,\[1\] 관용구집 발췌,\[2\] 5,000개 이상의 언어 모음집,\[3\] *인공어 제작 매뉴얼* 등 많은 것들이 미디어에 등장해 왔다.\[4\]\[5\]\[6\]
 
@@ -33,7 +33,7 @@
 
 ## *인공어 제작 매뉴얼*
 
-*인공어 제작 매뉴얼*은 원래 로젠펠터가 [인공어](../Page/인공어.md "wikilink") 제작 안내를 목적으로 작성하여 Zompist.com에 올린 [HTML](../Page/HTML.md "wikilink") 문서 모음이었다.\[9\]\[10\] 매뉴얼은 언어의 가장 간단한 부분에서부터, [음운과](../Page/음운론.md "wikilink") [문자](../Page/문자.md "wikilink")에서 시작해, [단어를](../Page/낱말.md "wikilink") 거쳐, 복잡한 [문법](../Page/문법.md "wikilink")을 지나, [어역](../Page/어역.md "wikilink")과 [방언](../Page/방언.md "wikilink")에 대한 대략적 설명으로 끝난다. 이러한 유용한 진행은, 흔히 하는 실수들에 대한 경고, [자연어](https://ko.wikipedia.org/wiki/자연어 "wikilink")에서의 풍부한 예시들, 적당한 [유머와](../Page/해학.md "wikilink") 함께, 매뉴얼이 [인터넷](../Page/인터넷.md "wikilink") 언어 창작자 커뮤니티에서 인기와 지위를 얻게 해 주었다. 매뉴얼은 팬들에 의해 [스페인어](../Page/스페인어.md "wikilink"), [포르투갈어](../Page/포르투갈어.md "wikilink"), [이탈리아어](../Page/이탈리아어.md "wikilink"), [독일어](../Page/독일어.md "wikilink")로 번역되었으며, 2010년 3월에 도서로 출간되었다.\[11\] 로젠펠터는 몇 권의 후속작들을 출간했다: *고급 인공어 제작*(*Advanced Language Construction*)과 *언어 창작자의 렉시페디아*(*The Conlanger's Lexipedia*)는 인공어 제작의 몇몇 측면들을 보강했으며, *행성 제작 매뉴얼*(*The Planet Construction Kit*)은 판타지 세계의 창조에 초점이 맞춰져 있다.\[12\] 2015년에는, 로젠펠트가 *중국 제작 매뉴얼*(*China Construction Kit*)을 출간했다.\[13\]
+*인공어 제작 매뉴얼*은 원래 로젠펠터가 [인공어](../Page/인공어.md "wikilink") 제작 안내를 목적으로 작성하여 Zompist.com에 올린 [HTML](../Page/HTML.md "wikilink") 문서 모음이었다.\[9\]\[10\] 매뉴얼은 언어의 가장 간단한 부분에서부터, [음운과](../Page/음운론.md "wikilink") [문자](../Page/문자.md "wikilink")에서 시작해, [단어를](../Page/낱말.md "wikilink") 거쳐, 복잡한 [문법](../Page/문법.md "wikilink")을 지나, [사용역](../Page/사용역.md "wikilink")과 [방언](../Page/방언.md "wikilink")에 대한 대략적 설명으로 끝난다. 이러한 유용한 진행은, 흔히 하는 실수들에 대한 경고, [자연어](https://ko.wikipedia.org/wiki/자연어 "wikilink")에서의 풍부한 예시들, 적당한 [유머와](../Page/해학.md "wikilink") 함께, 매뉴얼이 [인터넷](../Page/인터넷.md "wikilink") 언어 창작자 커뮤니티에서 인기와 지위를 얻게 해 주었다. 매뉴얼은 팬들에 의해 [스페인어](../Page/스페인어.md "wikilink"), [포르투갈어](../Page/포르투갈어.md "wikilink"), [이탈리아어](../Page/이탈리아어.md "wikilink"), [독일어](../Page/독일어.md "wikilink")로 번역되었으며, 2010년 3월에 도서로 출간되었다.\[11\] 로젠펠터는 몇 권의 후속작들을 출간했다: *고급 인공어 제작*(*Advanced Language Construction*)과 *언어 창작자의 렉시페디아*(*The Conlanger's Lexipedia*)는 인공어 제작의 몇몇 측면들을 보강했으며, *행성 제작 매뉴얼*(*The Planet Construction Kit*)은 판타지 세계의 창조에 초점이 맞춰져 있다.\[12\] 2015년에는, 로젠펠트가 *중국 제작 매뉴얼*(*China Construction Kit*)을 출간했다.\[13\]
 
 ## Zompist 게시판
 

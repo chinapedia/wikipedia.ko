@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Innuendo \(\)](https://ko.wikipedia.org/wiki/Innuendo_\(\)).
+> This article is converted from Wikipedia: [Innuendo \(노래\)](https://ko.wikipedia.org/wiki/Innuendo_\(노래\)).
 
 
 〈**Innuendo**〉는 [영국](../Page/영국.md "wikilink")의 록 밴드 [퀸의](../Page/퀸_\(밴드\).md "wikilink") 곡이다. [프레디 머큐리와](../Page/프레디_머큐리.md "wikilink") [로저 테일러가](../Page/로저_테일러.md "wikilink") 썼지만 퀸에게 이 곡은 [같은 이름의 음반의](../Page/Innuendo.md "wikilink") 오프닝 곡이며 음반의 첫 번째 싱글로 발매되었다. 이 싱글곡은 1991년 1월 영국 싱글 차트에서 1위로 직행했다.\[1\]

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Flash \( \)](https://ko.wikipedia.org/wiki/Flash_\(_\)).
+> This article is converted from Wikipedia: [Flash \(퀸의 노래\)](https://ko.wikipedia.org/wiki/Flash_\(퀸의_노래\)).
 
 
 〈**Flash**〉는 [영국](../Page/영국.md "wikilink")의 록 밴드 [퀸의](../Page/퀸_\(밴드\).md "wikilink") 곡이다. 기타리스트 [브라이언 메이가](../Page/브라이언_메이.md "wikilink") 쓴 〈Flash〉는 1980년 영화 《[제국의 종말](https://ko.wikipedia.org/wiki/제국의_종말 "wikilink")》의 주제곡이다.

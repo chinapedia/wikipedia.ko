@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [STAR BEAT! \~  \~](https://ko.wikipedia.org/wiki/STAR_BEAT!_\~__\~).
+> This article is converted from Wikipedia: [STAR BEAT! \~별의 고동 소리\~](https://ko.wikipedia.org/wiki/STAR_BEAT!_\~별의_고동_소리\~).
 
 
 〈**STAR BEAT\! \~별의 고동 소리\~**〉()는 Poppin'Party의 두 번째 싱글이다.

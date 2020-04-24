@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KNN  ](https://ko.wikipedia.org/wiki/KNN__).
+> This article is converted from Wikipedia: [KNN 뉴스와 건강](https://ko.wikipedia.org/wiki/KNN_뉴스와_건강).
 
 
 《**KNN 뉴스와 건강**》은 대한민국 [KNN](../Page/KNN.md "wikilink") 부산경남방송에서 평일 저녁 6시에 방송되었던 [KNN](../Page/KNN.md "wikilink") 부산경남방송의 저녁 생활뉴스 프로그램이다.

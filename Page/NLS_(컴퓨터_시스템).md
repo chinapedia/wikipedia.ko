@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [NLS \( \)](https://ko.wikipedia.org/wiki/NLS_\(_\)).
+> This article is converted from Wikipedia: [NLS \(컴퓨터 시스템\)](https://ko.wikipedia.org/wiki/NLS_\(컴퓨터_시스템\)).
 
 
 **NLS** 또는 **온라인 시스템**(oN-Line System)은 1960년대부터 쓰였던 혁명적인 [컴퓨터 협업 시스템이었다](https://ko.wikipedia.org/wiki/다중_사용자 "wikilink"). [더글러스 엥겔바트가](../Page/더글러스_엥겔바트.md "wikilink") 설계했으며 [스탠퍼드 연구소](https://ko.wikipedia.org/wiki/SRI_인터내셔널 "wikilink")(SRI)의 [오그멘테이션 리서치 센터](https://ko.wikipedia.org/wiki/오그멘테이션_리서치_센터 "wikilink")(ARC)의 연구원들이 구현한 NLS 시스템은 [하이퍼텍스트](../Page/하이퍼텍스트.md "wikilink") 링크, [마우스](../Page/마우스.md "wikilink"), [래스터 스캔](https://ko.wikipedia.org/wiki/래스터_스캔 "wikilink") [비디오 모니터](../Page/컴퓨터_모니터.md "wikilink"), 적절성에 의해 정리된 정보, [스크린 윈도잉](../Page/그래픽_사용자_인터페이스.md "wikilink"), [프레젠테이션 프로그램](../Page/프레젠테이션_소프트웨어.md "wikilink") 및 기타 현대의 컴퓨팅 개념들을 실용화한 최초의 시스템이었다. [방위고등연구계획국](../Page/방위고등연구계획국.md "wikilink"), [미국 항공우주국](../Page/미국_항공우주국.md "wikilink"), [미국 공군에](../Page/미국_공군.md "wikilink") 의해 투자되었다.

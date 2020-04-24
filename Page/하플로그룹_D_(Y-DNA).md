@@ -7,7 +7,7 @@
 
 ## 계통수
 
-[대체글=](https://ko.wikipedia.org/wiki/파일:Haplogroup_D_\(Y-DNA\)_migration.png "wikilink") ISOGG 2019 계통수(ver.14.151)\[2\]
+[대체글=](https://ko.wikipedia.org/wiki/파일:Haplogroup_D_\(Y-DNA\)_migration_map.png "wikilink") ISOGG 2019 계통수(ver.14.151)\[2\]
 
   - **[DE](https://ko.wikipedia.org/wiki/하플로그룹_DE_\(Y-DNA\)_편집하기 "wikilink")** (YAP)
       - **D** (CTS3946)

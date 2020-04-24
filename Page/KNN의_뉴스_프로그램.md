@@ -23,8 +23,7 @@
 <tbody>
 <tr class="odd">
 <td><p><a href="../Page/KNN_모닝와이드.md" title="wikilink">KNN 모닝와이드</a></p></td>
-<td><p>평일 1시간<br />
-</p></td>
+<td><p>평일 1시간</p></td>
 <td><p>07:35 ~ 08:35</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/황범" title="wikilink">황범</a>, 박수진</p></td>
 </tr>

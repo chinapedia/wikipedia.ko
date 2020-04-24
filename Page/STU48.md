@@ -118,7 +118,7 @@
 <td></td>
 <td><p>-</p></td>
 <td><p>가나가와 현</p></td>
-<td><p>AKS</p></td>
+<td><p>DH</p></td>
 <td><p>초대 캡틴<br />
 <a href="../Page/AKB48.md" title="wikilink">AKB48</a> 팀4</p></td>
 <td><p>9</p></td>

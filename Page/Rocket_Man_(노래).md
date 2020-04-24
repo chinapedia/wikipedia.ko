@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Rocket Man \(\)](https://ko.wikipedia.org/wiki/Rocket_Man_\(\)).
+> This article is converted from Wikipedia: [Rocket Man \(노래\)](https://ko.wikipedia.org/wiki/Rocket_Man_\(노래\)).
 
 
 〈**Rocket Man**〉(공식 명칭 〈**Rocket Man (I Think It's Going to Be a Long, Long Time)**〉)는 [엘튼 존과](../Page/엘튼_존.md "wikilink") [버니 토핀이](../Page/버니_토핀.md "wikilink") 작곡하고 원래 존이 작곡한 곡이다. 이 곡은 1972년 존의 음반인 《[Honky Château](../Page/Honky_Château.md "wikilink")》에 처음 등장했고 [영국](../Page/영국.md "wikilink")에서 2위 그리고 [미국](../Page/미국.md "wikilink")에서 6위로 상승하면서 히트곡이 되었다. 2018년 10월 5일, 이 노래는 [영국 축음기 협회에](https://ko.wikipedia.org/wiki/영국_축음기_협회 "wikilink") 의해 40만 건의 디지털 다운로드 판매로 골드 인증을 받았다.

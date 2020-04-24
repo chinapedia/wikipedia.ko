@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ HR-V](https://ko.wikipedia.org/wiki/_HR-V).
+> This article is converted from Wikipedia: [혼다 HR-V](https://ko.wikipedia.org/wiki/혼다_HR-V).
 
 
 **혼다 HR-V**(Honda HR-V)는 [일본](../Page/일본.md "wikilink")의 자동차 회사 [혼다 기연 공업의](https://ko.wikipedia.org/wiki/혼다_기연_공업 "wikilink") 소형 [크로스오버](https://ko.wikipedia.org/wiki/크로스오버_\(자동차\) "wikilink") 형식의 [스포츠 유틸리티 자동차이다](../Page/스포츠_유틸리티_자동차.md "wikilink").
@@ -46,7 +46,6 @@
   - [푸조](../Page/푸조.md "wikilink") - [2008](../Page/푸조_2008.md "wikilink")
   - [르노](../Page/르노.md "wikilink") - [캡쳐](../Page/르노_캡쳐.md "wikilink")
   - [닛산](../Page/닛산_자동차.md "wikilink") - [쥬크](../Page/닛산_쥬크.md "wikilink")
-  - [혼다](https://ko.wikipedia.org/wiki/혼다_기연_공업 "wikilink") - [HR-V](../Page/혼다_HR-V.md "wikilink")
   - [피아트](../Page/피아트.md "wikilink") - [500X](https://ko.wikipedia.org/wiki/피아트_500X "wikilink")
   - [마쓰다](../Page/마쓰다.md "wikilink") - [CX-3](https://ko.wikipedia.org/wiki/마쓰다_CX-3 "wikilink"), [CX-4](https://ko.wikipedia.org/wiki/마쓰다_CX-4 "wikilink")
   - [토요타](../Page/토요타_자동차.md "wikilink") - [C-HR](https://ko.wikipedia.org/wiki/토요타_C-HR "wikilink"), [러쉬](https://ko.wikipedia.org/wiki/토요타_러쉬 "wikilink")

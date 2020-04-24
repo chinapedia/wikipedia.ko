@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ W](https://ko.wikipedia.org/wiki/_W).
+> This article is converted from Wikipedia: [오스트레일리아 W리그](https://ko.wikipedia.org/wiki/오스트레일리아_W리그).
 
 
 **W리그**()는 [오스트레일리아](../Page/오스트레일리아.md "wikilink")의 [여자 축구](../Page/여자_축구.md "wikilink") 리그이다. [2008년](../Page/2008년.md "wikilink")에 [오스트레일리아 축구 연맹](https://ko.wikipedia.org/wiki/오스트레일리아_축구_연맹 "wikilink")(FFA)에 의해 설립되었으며 현재는 9개 팀이 참가한다.

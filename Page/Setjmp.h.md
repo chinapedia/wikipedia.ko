@@ -17,7 +17,7 @@ static jmp_buf buf;
 
 void second(void) {
     printf("second\n");         // 출력
-    longjmp(buf,1);             // setjmp가 불려진 곳으로 점프하면서 setjmp가 1을 반환
+    longjmp(buf,1);             // setjmp가 호출된 곳으로 점프하면서 setjmp가 1을 반환
 }
 
 void first(void) {

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ DSA](https://ko.wikipedia.org/wiki/_DSA).
+> This article is converted from Wikipedia: [타원곡선 DSA](https://ko.wikipedia.org/wiki/타원곡선_DSA).
 
 
 **타원곡선 DSA**(Elliptic Curve Digital Signature Algorithm, ECDSA)는 타원곡선을 이용한 전자서명 알고리즘이다.

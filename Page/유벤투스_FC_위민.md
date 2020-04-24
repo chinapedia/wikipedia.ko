@@ -1,13 +1,13 @@
-> This article is converted from Wikipedia: [ FC ](https://ko.wikipedia.org/wiki/_FC_).
+> This article is converted from Wikipedia: [유벤투스 FC 위민](https://ko.wikipedia.org/wiki/유벤투스_FC_위민).
 
 
-**유벤투스 FC 위민**()은 [토리노](../Page/토리노.md "wikilink")를 연고로 하는 [이탈리아](../Page/이탈리아.md "wikilink")의 [여자 축구](../Page/여자_축구.md "wikilink") 클럽이다. [2017년](../Page/2017년.md "wikilink") [7월 1일에](../Page/7월_1일.md "wikilink") [유벤투스 FC](../Page/유벤투스_FC.md "wikilink") 산하 여자 축구 클럽으로 설립되었으며, 현재 이탈리아 [세리에 A 펨미닐레에](https://ko.wikipedia.org/wiki/세리에_A_펨미닐레 "wikilink") 소속되어 있다.
+**유벤투스 FC 위민**()은 [토리노](../Page/토리노.md "wikilink")를 연고로 하는 [이탈리아](../Page/이탈리아.md "wikilink")의 [여자 축구](../Page/여자_축구.md "wikilink") 클럽이다. [2017년](../Page/2017년.md "wikilink") [7월 1일에](../Page/7월_1일.md "wikilink") [유벤투스 FC](../Page/유벤투스_FC.md "wikilink") 산하 여자 축구 클럽으로 설립되었으며, 현재 이탈리아 [세리에 A 펨미닐레에](../Page/세리에_A_펨미닐레.md "wikilink") 소속되어 있다.
 
 ## 우승 기록
 
 ### 국내 대회
 
-**[세리에 A 펨미닐레](https://ko.wikipedia.org/wiki/세리에_A_펨미닐레 "wikilink") : 2회**
+**[세리에 A 펨미닐레](../Page/세리에_A_펨미닐레.md "wikilink") : 2회**
 
 <table>
 <tbody>

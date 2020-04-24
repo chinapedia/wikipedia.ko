@@ -23,7 +23,7 @@
       - <small>1980년 6월 24일 [뉴욕](../Page/뉴욕.md "wikilink") [매디슨 스퀘어 가든에서의](../Page/매디슨_스퀘어_가든.md "wikilink") 공연</small>
 2.  〈[Summer, Highland Falls](https://ko.wikipedia.org/wiki/Turnstiles "wikilink")〉 – 3:03
       - <small>1980년 7월 23일 [워싱턴 D.C.](../Page/워싱턴_D.C..md "wikilink") 바이우에서의 공연</small>
-3.  〈[Streetlife Serenade](https://ko.wikipedia.org/wiki/Streetlife_Serenade "wikilink")〉 – 5:17
+3.  〈[Streetlife Serenade](../Page/Streetlife_Serenade.md "wikilink")〉 – 5:17
       - <small>1980년 7월 20일 [세인트폴](../Page/세인트폴_\(미네소타주\).md "wikilink") [리버센터](../Page/리버센터.md "wikilink")에서의 공연</small>
 4.  〈[Los Angelenos](https://ko.wikipedia.org/wiki/Los_Angelenos "wikilink")〉 – 3:48
       - <small>1980년 7월 10일 CT [뉴헤이븐](../Page/뉴헤이븐.md "wikilink")의 Toad's Place에서의 공연</small>

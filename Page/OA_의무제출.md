@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [OA ](https://ko.wikipedia.org/wiki/OA_).
+> This article is converted from Wikipedia: [OA 의무제출](https://ko.wikipedia.org/wiki/OA_의무제출).
 
 
 **OA 의무제출**(open-access mandate)은 연구기관, 후원자 등이 후원받는 연구자들에게 연구 성과의 OA 개방의무를 지우는 정책을 말한다. 의무제출은 (1) [학술기관 리포지터리를](https://ko.wikipedia.org/wiki/학술기관_리포지터리 "wikilink") 이용한 [셀프 아카이빙](../Page/셀프_아카이빙.md "wikilink") (그린 OA) (2) OA 학술지를 활용한 출판 (골드 OA)\[1\]\[2\]\[3\]\[4\] 혹은 양쪽 모두를 포함한다.

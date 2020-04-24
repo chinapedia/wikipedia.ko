@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SAM  ](https://ko.wikipedia.org/wiki/SAM__).
+> This article is converted from Wikipedia: [SAM 잠금 도구](https://ko.wikipedia.org/wiki/SAM_잠금_도구).
 
 
 **SAM 잠금 도구** 또는 **Syskey**([실행 파일의](../Page/실행_파일.md "wikilink") 이름)는 128비트 [RC4](https://ko.wikipedia.org/wiki/RC4 "wikilink") [암호 키를](https://ko.wikipedia.org/wiki/키_\(암호\) "wikilink") 사용하여 [보안 계정 관리자](../Page/보안_계정_관리자.md "wikilink")(SAM) [데이터베이스](../Page/데이터베이스.md "wikilink")를 [암호화](../Page/암호화.md "wikilink")하는 [Windows NT의](https://ko.wikipedia.org/wiki/Windows_NT "wikilink") 구성 요소였다.\[1\]

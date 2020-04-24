@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [WKBL ](https://ko.wikipedia.org/wiki/WKBL_).
+> This article is converted from Wikipedia: [WKBL 플레이오프](https://ko.wikipedia.org/wiki/WKBL_플레이오프).
 
 
 **WKBL 플레이오프**는 [한국여자프로농구](https://ko.wikipedia.org/wiki/한국여자프로농구 "wikilink")(WKBL)의 3전 2승제 [싱글 엘리미네이션 토너먼트이다](../Page/싱글_엘리미네이션_토너먼트.md "wikilink"). 매년 정규리그 종료 후에 [WKBL 챔피언 결정전에](https://ko.wikipedia.org/wiki/WKBL_챔피언_결정전 "wikilink") 진출할 팀을 결정하기 위해 열린다. 2000년 여름 대회부터 시행되었다.

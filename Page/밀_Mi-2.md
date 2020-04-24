@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ Mi-2](https://ko.wikipedia.org/wiki/_Mi-2).
+> This article is converted from Wikipedia: [밀 Mi-2](https://ko.wikipedia.org/wiki/밀_Mi-2).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Mi-2_Plus_Lotnicze_Pogotowie_Ratunkowe.jpg "wikilink") **밀 Mi-2**(NATO 코드명: Hoplite)는 폴란드와 소련에서 개발된 [헬리콥터](../Page/헬리콥터.md "wikilink")이다. 57mm의 로켓과 23mm의 대포로 무장하여 근접한 공중 지원을 제공할 수 있는 소형의 가벼운 기동기로 제작되었다.

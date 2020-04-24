@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Save Me \( \)](https://ko.wikipedia.org/wiki/Save_Me_\(_\)).
+> This article is converted from Wikipedia: [Save Me \(퀸의 노래\)](https://ko.wikipedia.org/wiki/Save_Me_\(퀸의_노래\)).
 
 
 〈**Save Me**〉는 1980년 음반 《[The Game](../Page/The_Game_\(퀸의_음반\).md "wikilink")》의 [영국](../Page/영국.md "wikilink")의 록 밴드 [퀸의](../Page/퀸_\(밴드\).md "wikilink") 노래다. 기타리스트 [브라이언 메이가](../Page/브라이언_메이.md "wikilink") 쓴 이 음반은 1979년에 녹음되었고 음반 발매 6개월 전인 1980년 1월 25일에 영국에서 발매되었다. 〈Save Me〉는 [영국 싱글 차트에서](https://ko.wikipedia.org/wiki/영국_싱글_차트 "wikilink") 6주 동안 11위로 정점을 찍었다.\[1\]

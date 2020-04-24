@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  PC  ](https://ko.wikipedia.org/wiki/__PC__).
+> This article is converted from Wikipedia: [서울 강서구 PC방 살인 사건](https://ko.wikipedia.org/wiki/서울_강서구_PC방_살인_사건).
 
 
 **서울 강서구 PC방 살인 사건**은 [2018년](../Page/2018년.md "wikilink") [10월 14일](../Page/10월_14일.md "wikilink") 오전 8시 10분경에 [서울특별시](../Page/서울특별시.md "wikilink") [강서구](https://ko.wikipedia.org/wiki/강서구_\(서울특별시\) "wikilink") [내발산동](https://ko.wikipedia.org/wiki/내발산동 "wikilink")의 한 PC방에서 손님인 김성수(당시 29세)가 아르바이트 직원인 신모(당시 20세)를 흉기로 찔러 살해한 사건이다.\[1\]
@@ -25,7 +25,7 @@
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:A_memorial_space_for_the_victim_of_the_Gangseo-gu_PC_room_\(1\).jpg "wikilink") 피해자의 담당의였던 [남궁인](../Page/남궁인.md "wikilink")은 피해자의 얼굴에만 칼자국이 32개 있었고, 모든 자상은 칼을 끝까지 찔러 넣었다고 설명했다. 상처 중에 평행으로 난 상처가 있었는데 이 상처는 매우 빠르게 칼을 뽑았다 다시 찔려야지 날 수 있는 상처라고 언급했다. 남궁인은 가해자인 김성수에 대한 엄중한 처벌과 진상 조사를 요구했다.\[25\]\[26\]
 
-[우울증](../Page/우울증.md "wikilink") 진단서가 경찰에 제출된 사실이 알려지자\[27\] 피의자의 [심신미약](https://ko.wikipedia.org/wiki/심신미약 "wikilink")에 대해 감형을 반대하는 [청와대 국민청원이](../Page/청와대_국민청원.md "wikilink") 잇달았고,\[28\] 청와대 국민청원이 개설된 이후로 가장 많은 청원 동의를 받았다. 그래서 [대한민국 형법 제10조가](../Page/대한민국_형법_제10조.md "wikilink") 개정되었고. 이 청원은 [패스트트랙 4법 국회 대치](https://ko.wikipedia.org/wiki/패스트트랙_4법_국회_대치 "wikilink") 사태 때 [자유한국당](../Page/자유한국당.md "wikilink") 해산 촉구 청원이 120만명을 넘길 때까지 가장 많은 청원 동의를 얻은 국민청원으로 남았다.
+[우울증](../Page/우울증.md "wikilink") 진단서가 경찰에 제출된 사실이 알려지자\[27\] 피의자의 [심신미약](https://ko.wikipedia.org/wiki/심신미약 "wikilink")에 대해 감형을 반대하는 [청와대 국민청원이](../Page/청와대_국민청원.md "wikilink") 잇달았고,\[28\] 청와대 국민청원이 개설된 이후로 가장 많은 청원 동의를 받았다. 그래서 [대한민국 형법 제10조가](../Page/대한민국_형법_제10조.md "wikilink") 개정되었고. 이 청원은 [패스트트랙 4법 국회 대치](../Page/패스트트랙_4법_국회_대치.md "wikilink") 사태 때 [자유한국당](../Page/자유한국당.md "wikilink") 해산 촉구 청원이 120만명을 넘길 때까지 가장 많은 청원 동의를 얻은 국민청원으로 남았다.
 
 배우 [오창석](../Page/오창석.md "wikilink")과 가수 [김용준은](../Page/김용준_\(가수\).md "wikilink") 피해자가 지인의 사촌동생이라며, 무고한 생명을 앗아간 피의자가 올바른 법의 심판을 받을 수 있도록 국민청원 참여를 독려했다.\[29\]
 
@@ -39,7 +39,7 @@
 
   - [강남역 화장실 살인사건](../Page/강남역_화장실_살인사건.md "wikilink")
   - [서울 강서구 아파트 전처 살인 사건](../Page/서울_강서구_아파트_전처_살인_사건.md "wikilink")
-  - [진주 가좌주공아파트 방화 살인 사건](https://ko.wikipedia.org/wiki/진주_가좌주공아파트_방화_살인_사건 "wikilink")
+  - [진주 가좌주공아파트 방화 살인 사건](../Page/진주_가좌주공아파트_방화_살인_사건.md "wikilink")
 
 [분류:10월 14일](https://ko.wikipedia.org/wiki/분류:10월_14일 "wikilink") [분류:2018년 10월](https://ko.wikipedia.org/wiki/분류:2018년_10월 "wikilink") [분류:2018년 대한민국](https://ko.wikipedia.org/wiki/분류:2018년_대한민국 "wikilink") [분류:대한민국의 살인 사건](https://ko.wikipedia.org/wiki/분류:대한민국의_살인_사건 "wikilink") [분류:2018년 범죄](https://ko.wikipedia.org/wiki/분류:2018년_범죄 "wikilink") [분류:서울 강서구](https://ko.wikipedia.org/wiki/분류:서울_강서구 "wikilink") [분류:서울특별시의 범죄](https://ko.wikipedia.org/wiki/분류:서울특별시의_범죄 "wikilink")
 

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [2011-12 CONCACAF ](https://ko.wikipedia.org/wiki/2011-12_CONCACAF_).
+> This article is converted from Wikipedia: [2011-12년 CONCACAF 챔피언스리그](https://ko.wikipedia.org/wiki/2011-12년_CONCACAF_챔피언스리그).
 
 
 **2011-12년 CONCACAF 챔피언스리그**(2011-12 CONCACAF Champions League)는 [2011년](../Page/2011년.md "wikilink") [7월 26일부터](../Page/7월_26일.md "wikilink") [2012년](../Page/2012년.md "wikilink") [4월 25일까지](../Page/4월_25일.md "wikilink") 개최된 [CONCACAF 챔피언스리그의](../Page/CONCACAF_챔피언스리그.md "wikilink") 47번째 대회이다. [멕시코](../Page/멕시코.md "wikilink")의 [몬테레이가](../Page/CF_몬테레이.md "wikilink") 결승전에서 [멕시코](../Page/멕시코.md "wikilink")의 [산토스 라구나를](https://ko.wikipedia.org/wiki/산토스_라구나 "wikilink") 누르고 우승을 차지했다.

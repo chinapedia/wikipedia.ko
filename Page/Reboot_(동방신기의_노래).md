@@ -6,7 +6,7 @@
 ## 개요
 
   - 멤버들의 전역 이후 발표된 재시동 싱글이자 〈[サクラミチ](../Page/벚꽃길.md "wikilink")〉로부터 약 34개월만의 싱글.
-  - 〈Reboot〉와 〈Begin \~Again Version\~〉 모두 발매에 앞서 멤버들의 전역 이후의 첫 전국 투어인 〈[TOHOSHINKI LIVE TOUR 2017 \~Begin Again\~](../Page/TOHOSHINKI_LIVE_TOUR_2017_~Begin_Again~.md "wikilink")〉을 통해 선공개된 바 있다.
+  - 〈Reboot〉와 〈Begin \~Again Version\~〉 모두 발매에 앞서 멤버들의 전역 이후의 첫 투어인 〈[TOHOSHINKI LIVE TOUR 2017 \~Begin Again\~](../Page/TOHOSHINKI_LIVE_TOUR_2017_~Begin_Again~.md "wikilink")〉을 통해 선공개된 바 있다.
 
 ## 수록곡
 

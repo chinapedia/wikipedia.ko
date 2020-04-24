@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Bedtime Story \(  \)](https://ko.wikipedia.org/wiki/Bedtime_Story_\(__\)).
+> This article is converted from Wikipedia: [Bedtime Story \(니시노 카나의 노래\)](https://ko.wikipedia.org/wiki/Bedtime_Story_\(니시노_카나의_노래\)).
 
 
 〈**Bedtime Story**〉(베드타임 스토리)는 [일본](../Page/일본.md "wikilink")의 여성 [가수](https://ko.wikipedia.org/wiki/가수 "wikilink") [니시노 카나의](../Page/니시노_카나.md "wikilink") 34번째 [싱글로](../Page/싱글_\(음악\).md "wikilink"), [2018년](../Page/2018년.md "wikilink") [9월 12일에](../Page/9월_12일.md "wikilink") [SME 레코드에서](https://ko.wikipedia.org/wiki/SME_레코드 "wikilink") 발매되었다. 전작 〈[아이 러브 유](https://ko.wikipedia.org/wiki/아이_러브_유_\(니시노_카나의_노래\) "wikilink")〉에서 약 5개월 만의 싱글이다.

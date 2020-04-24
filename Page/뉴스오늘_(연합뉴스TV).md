@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ \(TV\)](https://ko.wikipedia.org/wiki/_\(TV\)).
+> This article is converted from Wikipedia: [뉴스오늘 \(연합뉴스TV\)](https://ko.wikipedia.org/wiki/뉴스오늘_\(연합뉴스TV\)).
 
 
 《**뉴스오늘**》은 [연합뉴스TV](../Page/연합뉴스TV.md "wikilink")에서 매일 새벽 4시 30분에 방송되는 [연합뉴스TV](../Page/연합뉴스TV.md "wikilink")의 아침뉴스 프로그램이다.

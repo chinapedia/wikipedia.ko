@@ -37,7 +37,7 @@
 ## my K 오리지널
 
   - 2019 : [어썸 라이브](../Page/어썸_라이브.md "wikilink")
-  - 2018 : [디지털시청자칼럼](https://ko.wikipedia.org/wiki/디지털시청자칼럼 "wikilink")
+  - 2018 : [디지털시청자칼럼](../Page/디지털시청자칼럼.md "wikilink")
 
 ## 외부 링크
 

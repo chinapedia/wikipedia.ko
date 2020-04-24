@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [The Ultimate Collection \(  \)](https://ko.wikipedia.org/wiki/The_Ultimate_Collection_\(__\)).
+> This article is converted from Wikipedia: [The Ultimate Collection \(빌리 조엘의 음반\)](https://ko.wikipedia.org/wiki/The_Ultimate_Collection_\(빌리_조엘의_음반\)).
 
 
 《**The Ultimate Collection**》은 미국의 싱어송라이터 [빌리 조엘의](../Page/빌리_조엘.md "wikilink") 더블 디스크 [컴필레이션 음반이다](https://ko.wikipedia.org/wiki/컴필레이션_음반 "wikilink"). 2000년 12월 [소니 뮤직 엔터테인먼트 재팬에](https://ko.wikipedia.org/wiki/소니_뮤직_엔터테인먼트_\(일본\) "wikilink") 의해서 처음 발매된 이후 이후 유럽과 오세아니아의 대부분 국가에서 일부 트랙을 다른 곡으로 대체하여 발매되었다. (일본 탑3 히트곡 〈[The Stranger](../Page/The_Stranger_\(노래\).md "wikilink")〉을 〈[You're My Home](https://ko.wikipedia.org/wiki/You're_My_Home "wikilink")〉의 라이브 버전으로 대체했다).

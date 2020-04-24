@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FLOWER \( \)](https://ko.wikipedia.org/wiki/FLOWER_\(_\)).
+> This article is converted from Wikipedia: [FLOWER \(여자친구의 노래\)](https://ko.wikipedia.org/wiki/FLOWER_\(여자친구의_노래\)).
 
 
 〈**FLOWER**〉(플라워)는 [대한민국](../Page/대한민국.md "wikilink")의 걸 그룹 [여자친구가](../Page/여자친구_\(음악_그룹\).md "wikilink") 일본에서 발매하는 세 번째 [싱글이다](../Page/싱글_\(음악\).md "wikilink"). 2019년 3월 13일 [킹레코드를](../Page/킹레코드_\(일본\).md "wikilink") 통하여 발매되었다.

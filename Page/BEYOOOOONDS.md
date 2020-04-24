@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [BEYOOOOONDS](https://ko.wikipedia.org/wiki/BEYOOOOONDS).
 
 
-**BEYOOOOONDS**(비욘즈)는 [헬로\! 프로젝트에](../Page/헬로!_프로젝트.md "wikilink") 소속된 [일본](../Page/일본.md "wikilink")의 12인조 [여성](../Page/여성.md "wikilink") [아이돌](https://ko.wikipedia.org/wiki/아이돌_가수 "wikilink") [그룹이다](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink"). **CHICA\#TETSU**(치카\#테츠)와 **아메노모리 카와우미**()로 나뉘었다. 이그룹은 **리더**가 2명이다.
+**BEYOOOOONDS**(비욘즈)는 [헬로\! 프로젝트에](../Page/헬로!_프로젝트.md "wikilink") 소속된 [일본](../Page/일본.md "wikilink")의 12인조 [여성](../Page/여성.md "wikilink") [아이돌](https://ko.wikipedia.org/wiki/아이돌_가수 "wikilink") [그룹이다](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink"). **CHICA\#TETSU**(치카\#테츠)와 **아메노모리 카와우미**()로 나뉘었다.
 
 ## 개요
 
@@ -120,11 +120,19 @@
 
 1.  演劇女子部「不思議の国のアリスたち」オリジナルサウンドトラック (2019년 [5월 29일](../Page/5월_29일.md "wikilink"))
 
+### 미발매곡
+
+  - BEYOOOOONDS 명의
+
+<!-- end list -->
+
+  - ビタミンME
+
 ### DVD/Blu-ray
 
 1.  演劇女子部「不思議の国のアリスたち」(2019년 [8월 7일](../Page/8월_7일.md "wikilink"))
 2.  演劇女子部「リボーン～13人の魂は神様の夢を見る～」(2020년 [2월 26일](https://ko.wikipedia.org/wiki/2월_26일 "wikilink"))
-3.  LIVE BEYOOOOOND1St (2020년 [4월 29일](../Page/4월_29일.md "wikilink") DVD / Blu-ray)
+3.  LIVE BEYOOOOOND1St (2020년 [5월 20일](../Page/5월_20일.md "wikilink") DVD / Blu-ray)
 
 #### 이벤트V (이벤트 회장 한정판)
 
@@ -143,19 +151,22 @@
 ### 텔레비전
 
   - [The Girls Live](../Page/The_Girls_Live.md "wikilink") (2018년 11월 5일 \~ 2019년 3월 25일, [테레비도쿄](https://ko.wikipedia.org/wiki/테레비도쿄 "wikilink"))
-  - [AI・DOL 프로젝트](https://ko.wikipedia.org/wiki/AI・DOL_프로젝트 "wikilink") (2019년 4월 1일 \~ , 테레비도쿄)
+  - [AI・DOL 프로젝트](../Page/AI・DOL_프로젝트.md "wikilink") (2019년 4월 1일 \~ 2020년 3월 30일, 테레비도쿄)
+  - [하로드리](https://ko.wikipedia.org/wiki/하로드리 "wikilink") (2020년 4월 6일 \~ , 테레비도쿄)
 
 ### 라디오
 
   - HELLO\! DRIVE\! -하로드라- (2019년 1월 17일 \~ , [라디오 네오](https://ko.wikipedia.org/wiki/라디오_네오 "wikilink") 사회 : 이치오카 레이나)
   - 카나자와 토모코의 Vivid Midnight (2019년 10월 5일 \~ , [NACK5](https://ko.wikipedia.org/wiki/FM_넥파이브 "wikilink"))
   - 아직 아직 화요일이라고\! BEYOOOOONDS QUEST\! (2019년 11월 5일 \~ , [FM OH\!](../Page/FM_오사카.md "wikilink") 사회 : 니시다 시오리, 에구치 사야)※『J3 Tuesday〜Midnight IQ (idol quest)〜』내 코너
+  - BEYOOOOONDS의 비요～～～～～훌쩍 뛰어넘어 나이트\! (2020년 4월 4일, [도호쿠 방송](../Page/도호쿠_방송.md "wikilink"))
 
 ### 라이브 · 콘서트
 
   - LIVE BEYOOOOOND1St (2019년 12월 2일 \~ 17일, 3개 도시 3회 공연)
   - LIVE BEYOOOOOND1St 산리오 퓨로랜드 SP (2019년 12월 9일, [산리오 퓨로랜드](https://ko.wikipedia.org/wiki/산리오_퓨로랜드 "wikilink"))
-  - BEYOOOOONDS 1st LIVE TOUR 2020 \~팝\! 스텝\! 온음표\!\!\~ (2020년 4월 4일 \~ 5월 31일, 11개 도시 22회 공연)
+  - BEYOOOOONDS 1st LIVE TOUR 2020 \~팝\! 스텝\! 온음표\!\!\~ (2020년 6월 15일 \~ 16일, 1개 도시 2회 공연)
+  - BEYOOOOONDS 1st LIVE TOUR 2020 팝\! 스텝\! 온음표\!\! \~어서오세요 나카노 선플라자편\~ (공연 중지, 일자 미정, 나카노 선플라자)
 
 ### 합동 라이브 · 콘서트
 
@@ -177,7 +188,7 @@
   - 연극여자부「어택 No.1」(2018년 11월 29일 \~ 12월 9일, 전노제 홀 스페이스 제로)※CHICA\#TETSU만 출연([안주루무](../Page/안주루무.md "wikilink")와 공연)
   - 연극여자부「이상한 나라 앨리스들」(2019년 4월 18일 \~ 29일, 전노제 홀 스페이스 제로)
   - 연극여자부「리본 \~13명의 영혼은 신의 꿈을 꾸었다\~」(2019년 11월 14일 \~ 24일, 전노제 홀 스페이스 제로)
-  - ​연극여자부「아라비욘즈나이트」(2020년 4월 17일 \~ 26일, 전노제 홀 스페이스 제로)
+  - ​연극여자부「아라비욘즈나이트」(2020년 10월 9일 \~ 18일, 전노제 홀 스페이스 제로)
 
 ### 광고
 

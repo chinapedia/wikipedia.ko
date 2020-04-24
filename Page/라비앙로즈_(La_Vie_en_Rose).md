@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ \(La Vie en Rose\)](https://ko.wikipedia.org/wiki/_\(La_Vie_en_Rose\)).
+> This article is converted from Wikipedia: [라비앙로즈 \(La Vie en Rose\)](https://ko.wikipedia.org/wiki/라비앙로즈_\(La_Vie_en_Rose\)).
 
 
 "**라비앙로즈 (La Vie en Rose)**"는 2018년 공개된 [아이즈원](../Page/아이즈원.md "wikilink")의 노래로, 이들의 첫 번째 미니 음반 [COLOR\*IZ](../Page/COLOR*IZ.md "wikilink")의 타이틀 곡이다. [프랑스어](../Page/프랑스어.md "wikilink")로 ‘장밋빛 인생’이라는 뜻이다.

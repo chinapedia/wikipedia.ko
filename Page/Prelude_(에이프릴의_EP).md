@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Prelude \(에이프릴의 EP\)](https://ko.wikipedia.org/wiki/Prelude_\(에이프릴의_EP\)).
 
 
-《**Prelude**》(프렐류드)는 대한민국 걸그룹 [에이프릴의](../Page/에이프릴_\(음악_그룹\).md "wikilink") 세 번째 [미니 음반이다](../Page/익스텐디드_플레이.md "wikilink").
+《**Prelude**》(프렐류드)는 대한민국 걸 그룹 [에이프릴의](../Page/에이프릴_\(음악_그룹\).md "wikilink") 세 번째 [미니 음반이다](../Page/익스텐디드_플레이.md "wikilink").
 
 ## 설명
 

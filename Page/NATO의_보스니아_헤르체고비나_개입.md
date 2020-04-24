@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [NATO   ](https://ko.wikipedia.org/wiki/NATO___).
+> This article is converted from Wikipedia: [NATO의 보스니아 헤르체고비나 개입](https://ko.wikipedia.org/wiki/NATO의_보스니아_헤르체고비나_개입).
 
 
 **NATO의 보스니아 헤르체고비나 개입**은 [보스니아 전쟁과](../Page/보스니아_전쟁.md "wikilink") 그 이후 장기간의 평화를 유지하기 위해 [북대서양 조약 기구가](../Page/북대서양_조약_기구.md "wikilink") 수행한 일련의 조치들을 의미한다.\[1\] NATO의 개입은 정치적이고 상징적인 것에서 시작되었으나, [합동 노력 작전](https://ko.wikipedia.org/wiki/합동_노력_작전 "wikilink") 하에 60,000명의 군 파병 및 대규모 공중 작전이 포함되면서 점차 그 규모가 확장되었다.

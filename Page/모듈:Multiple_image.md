@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Multiple image](https://ko.wikipedia.org/wiki/:Multiple_image).
+> This article is converted from Wikipedia: [모듈:Multiple image](https://ko.wikipedia.org/wiki/모듈:Multiple_image).
 
 
 \-- implements [template:multiple image](https://ko.wikipedia.org/wiki/template:multiple_image "wikilink") local p = {}

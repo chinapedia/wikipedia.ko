@@ -32,11 +32,11 @@
 <tbody>
 <tr class="odd">
 <td><p><strong>stable</strong></p></td>
-<td><p>3.5.18 / 2018 년 2 월 16 일 (4 개월 전) <small></small>[1]</p></td>
+<td><p>3.5.18 / 2018년 2월 16일 (4 개월 전) <small></small>[1]</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>stable-next</strong></p></td>
-<td><p>3.6.2 / 2018 년 2 월 16 일 (4 개월 전) <small></small>[2]</p></td>
+<td><p>3.6.2 / 2018년 2월 16일 (4 개월 전) <small></small>[2]</p></td>
 </tr>
 </tbody>
 </table></td>
@@ -49,7 +49,7 @@
 <td><p><a href="../Page/OpenSSL.md" title="wikilink">OpenSSL 듀얼 라이센스</a>-SSLeay</p></td>
 <td><p>Eric Young, Tim Hudson, Sun OpenSSL project 등</p></td>
 <td><p><a href="../Page/C_(프로그래밍_언어).md" title="wikilink">C</a> , <a href="../Page/어셈블리어.md" title="wikilink">어셈블리어</a></p></td>
-<td><p>1.1.0h - 2018 년 3 월 27 일 (2 개월 전) <small></small>[3] 1.0.2o - 2018 년 3 월 27 일 (2 개월 전)[4]</p></td>
+<td><p>1.1.0h - 2018년 3월 27일 (2 개월 전) <small></small>[3] 1.0.2o - 2018년 3월 27일 (2 개월 전)[4]</p></td>
 <td><p>Australia / EU</p></td>
 </tr>
 <tr class="odd">
@@ -59,7 +59,7 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/GNU_일반_공중_사용권" title="wikilink">GNU GPLv2 + 상용 라이센스</a></p></td>
 <td><p>wolfSSL Inc.</p></td>
 <td><p><a href="../Page/C_(프로그래밍_언어).md" title="wikilink">C</a></p></td>
-<td><p>3.13.0 - 2017 년 12 월 21 일 (5 개월 전) <small></small>[5]</p></td>
+<td><p>3.13.0 - 2017년 12월 21일 (5 개월 전) <small></small>[5]</p></td>
 <td><p>US</p></td>
 </tr>
 <tr class="even">

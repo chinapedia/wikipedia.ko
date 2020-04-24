@@ -3,7 +3,7 @@
 
 **Express.js**, 또는 간단히 **익스프레스**(Express)는 [Node.js](../Page/Node.js.md "wikilink")를 위한 [웹 프레임워크의](../Page/웹_프레임워크.md "wikilink") 하나로, [MIT 허가서로](../Page/MIT_허가서.md "wikilink") 라이선스되는 [자유-오픈 소스 소프트웨어로](../Page/자유-오픈_소스_소프트웨어.md "wikilink") 출시되었다. [웹 애플리케이션](../Page/웹_애플리케이션.md "wikilink"), [API](../Page/API.md "wikilink") 개발을 위해 설계되었다.\[1\] Node.js의 [사실상의](https://ko.wikipedia.org/wiki/데_팍토 "wikilink") 표준 서버 프레임워크로 불리고 있다.\[2\]
 
-원 제작자 [TJ Holowaychuk는](https://ko.wikipedia.org/wiki/TJ_Holowaychuk "wikilink") 이 소프트웨어를 시나트라에 영향을 받은 서버로 기술하고 있으며 이는 플러그인으로 이용 가능한 수많은 기능들을 갖추면서 크기는 상대적으로 최소한임을 의미한다. 익스프레스는 [몽고DB](../Page/몽고DB.md "wikilink") 데이터베이스 소프트웨어, [AngularJS](../Page/AngularJS.md "wikilink") 프론트엔드 프레임워크와 함께 [MEAN 스택의](https://ko.wikipedia.org/wiki/MEAN "wikilink") 백엔드 구성 요소이다.\[3\]
+원 제작자 [TJ Holowaychuk는](https://ko.wikipedia.org/wiki/TJ_Holowaychuk "wikilink") 이 소프트웨어를 시나트라에 영향을 받은 서버로 기술하고 있으며 이는 플러그인으로 이용 가능한 수많은 기능들을 갖추면서 크기는 상대적으로 최소한임을 의미한다. 익스프레스는 [몽고DB](../Page/몽고DB.md "wikilink") 데이터베이스 소프트웨어, [AngularJS](../Page/AngularJS.md "wikilink") 프론트엔드 프레임워크와 함께 [MEAN 스택의](../Page/MEAN.md "wikilink") 백엔드 구성 요소이다.\[3\]
 
 ## 역사
 

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Sidebar games events](https://ko.wikipedia.org/wiki/:Sidebar_games_events).
+> This article is converted from Wikipedia: [모듈:Sidebar games events](https://ko.wikipedia.org/wiki/모듈:Sidebar_games_events).
 
 
 \-- -- This module implements  -- This module was created using code taken directly from [Module:Sidebar](https://ko.wikipedia.org/wiki/Module:Sidebar "wikilink") -- require('Module:No globals')

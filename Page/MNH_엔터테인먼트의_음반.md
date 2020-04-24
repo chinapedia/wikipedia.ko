@@ -38,6 +38,8 @@
   - 2020년 2월 4일 청하 - **낭만닥터 김사부 2 OST Part.8**
   - 2020년 2월 6일 밴디트 - **\[Digital Single\] Cool.newwav**
   - 2020년 2월 29일 청하 - **\[Digital Single\] 솔직히 지친다 New.wav**
+  - 2020년 4월 20일 밴디트 - **\[Digital Single\] Children**
+  - 2020년 4월 27일 청하 - **\[Digital Single\] \#1**
 
 ## 각주
 

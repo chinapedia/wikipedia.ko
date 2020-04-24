@@ -1,11 +1,11 @@
-> This article is converted from Wikipedia: [Serendipity \( \)](https://ko.wikipedia.org/wiki/Serendipity_\(_\)).
+> This article is converted from Wikipedia: [Serendipity \(방탄소년단의 노래\)](https://ko.wikipedia.org/wiki/Serendipity_\(방탄소년단의_노래\)).
 
 
 《**Serendipity**》는 한국 보이 그룹의 멤버 중 한명인 지민이 솔로로 낸 곡이다. 그것은 원래 2018년 8월 24일에 그들의 앨범 중 하나인 Love Yourself : Her 에 수록된 노래로 디지털로 발매되었는데, 2018년 8월 24일 Love Yourself : Answer에 완간판으로 발매되었다. 그것은 제작자로 인정받은 hitman bang, Ashton Foster, Ray Michael Djan Jr., RM, 그리고 슬로우 래빗이 작사했다.
 
 ## 배경 및 발매
 
-세렌디피티의 뮤비는 다가오는 Love Yourself : Her로 출시되었다. 트레일러가 발매되었을 때 "지민"과 "세렌디피티"는 세계적으로 유행했다. 라이브 방송을 하던 한 멤버인 RM은 지민이 세렌디피티를 부르는 목표는 "자신을 보컬리스트로 알리려는 것"이었고 그로 인해 RM에 조언을 구했다고 밝혔다. RM은 그이 시선에서 정보를 알려주었다. 뮤직비디오가 업로드되었을 때, 그것은 24시간 만에 700만 이상의 조회수를 기록했고 100만 이상의 좋아요를 눌렀다.
+세렌디피티의 뮤비는 다가오는 Love Yourself : Her로 출시되었다. 트레일러가 발매되었을 때 "지민"과 "세렌디피티"는 세계적으로 유행했다. 라이브 방송을 하던 한 멤버인 RM은 지민이 세렌디피티를 부르는 목표는 "자신을 보컬리스트로 알리려는 것"이었고 그로 인해 RM에 조언을 구했다고 밝혔다. RM은 그의 시선에서 정보를 알려주었다. 뮤직비디오가 업로드되었을 때, 그것은 24시간 만에 700만 이상의 조회수를 기록했고 100만 이상의 좋아요를 눌렀다.
 
 ## 뮤직비디오
 

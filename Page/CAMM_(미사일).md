@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [CAMM \(\)](https://ko.wikipedia.org/wiki/CAMM_\(\)).
+> This article is converted from Wikipedia: [CAMM \(미사일\)](https://ko.wikipedia.org/wiki/CAMM_\(미사일\)).
 
 
 **CAMM**은 [MBDA](../Page/MBDA.md "wikilink")가 개발한 단거리 지대공 미사일이다.

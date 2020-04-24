@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [KPMA](https://ko.wikipedia.org/wiki/KPMA).
 
 
-**KPMA** (대한민국 대중음악 시상식) 는 2018년 신설 된 대한민국의 음악 상 이다.
+**KPMA**(대한민국 대중음악 시상식)는 2018년 신설 된 대한민국의 음악 상 이다.
 
 ## 역대 수상자
 

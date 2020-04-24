@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [MTV Unplugged \(  \)](https://ko.wikipedia.org/wiki/MTV_Unplugged_\(__\)).
+> This article is converted from Wikipedia: [MTV Unplugged \(머라이어 캐리의 음반\)](https://ko.wikipedia.org/wiki/MTV_Unplugged_\(머라이어_캐리의_음반\)).
 
 
 《**MTV Unplugged**》는 1992년 6월 2일에 발매한 [머라이어 캐리의](../Page/머라이어_캐리.md "wikilink") 첫 번째 라이브 음반이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SF](https://ko.wikipedia.org/wiki/SF).
+> This article is converted from Wikipedia: [한국SF컨벤션](https://ko.wikipedia.org/wiki/한국SF컨벤션).
 
 
 **한국SF컨벤션**(Korea SF Convention)은 다양한 SF 장르를 망라하는 전시 및 참여행사이다.

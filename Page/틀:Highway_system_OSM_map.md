@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Highway system OSM map](https://ko.wikipedia.org/wiki/:Highway_system_OSM_map).
+> This article is converted from Wikipedia: [틀:Highway system OSM map](https://ko.wikipedia.org/wiki/틀:Highway_system_OSM_map).
 
 
 <includeonly>

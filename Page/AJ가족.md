@@ -3,11 +3,11 @@
 
 **AJ**는 [대한민국](../Page/대한민국.md "wikilink")의 [기업집단](https://ko.wikipedia.org/wiki/기업집단 "wikilink")이다. [아주그룹](../Page/아주그룹.md "wikilink")에서 계열 분리된 아주렌탈이 주측이 되어 출범하게 되었다.
 
-故문태식 선대 회장(출생:1928\~2014)이 1960년 설립한 [아주산업](https://ko.wikipedia.org/wiki/아주산업 "wikilink")(주)을 전신으로 한다. 그 후 여러 계열사를 설립하여 아주그룹을 형성하였고, 2007년 렌탈 부분과 오토, 금융부분이 계열 분리가 되었다. 2016년부터 AJ가족이라는 명칭을 각 계열사를 대표해 사용했다.
+故문태식 선대 회장(출생:1928\~2014)이 1960년 설립한 [아주산업](https://ko.wikipedia.org/wiki/아주산업 "wikilink")(주)을 전신으로 한다. 그 후 여러 계열사를 설립하여 아주그룹을 형성하였고, 2007년 렌탈 부분과 오토, 금융부분이 계열 분리가 되었다. 2019년부터 "AJ"라는 명칭을 각 계열사를 대표해 사용했다.
 
 AJ CEO는 문덕영 부회장이다.
 
-주 사업분야는 렌탈 사업이다. 대표되는 회사로는 AJ네트웍스, AJ셀카 등이 있으며 기타 계열사는 약 8개 정도이다. 본사는 서울시 문정동에 있다.
+주 사업분야는 렌탈 사업이다. 대표되는 회사로는 AJ네트웍스, AJ셀카 등이 있으며 기타 계열사는 약 10개 정도이다. 본사는 서울시 문정동에 있다.
 
 ## 역사
 
@@ -24,12 +24,13 @@ AJ CEO는 문덕영 부회장이다.
   - AJ셀카
   - AJ카리안서비스
   - AJ파크
-  - AJ토탈
+  - AJ토탈/ AJ한록
   - AJ캐피탈파트너스
-  - AJ동양메닉스
+  - AJ오토파킹시스템즈/AJ오토파킹서비스
   - AJ전시몰
+  - AJ에너지
   - AJ바이크
-  - AJ이브이
+  - AJ대원
 
 ## 참조사항
 
@@ -40,4 +41,4 @@ AJ CEO는 문덕영 부회장이다.
 
   - [AJ 홈페이지](http://www.ajnet.co.kr)
 
-[분류:대한민국의 기업](https://ko.wikipedia.org/wiki/분류:대한민국의_기업 "wikilink") [분류:AJ](https://ko.wikipedia.org/wiki/분류:AJ "wikilink") [분류:AJ가족](https://ko.wikipedia.org/wiki/분류:AJ가족 "wikilink") [분류:대기업](https://ko.wikipedia.org/wiki/분류:대기업 "wikilink")
+[분류:대한민국의 기업](https://ko.wikipedia.org/wiki/분류:대한민국의_기업 "wikilink") [분류:AJ](https://ko.wikipedia.org/wiki/분류:AJ "wikilink") [분류:AJ그룹](https://ko.wikipedia.org/wiki/분류:AJ그룹 "wikilink") [분류:대기업](https://ko.wikipedia.org/wiki/분류:대기업 "wikilink")

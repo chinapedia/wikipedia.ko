@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  IV](https://ko.wikipedia.org/wiki/__IV).
+> This article is converted from Wikipedia: [다소 미라주 IV](https://ko.wikipedia.org/wiki/다소_미라주_IV).
 
 
 [200px](https://ko.wikipedia.org/wiki/파일:Mirage_IVP_\(16992472012\).jpg "wikilink") **다소 미라주 IV**(Dassault Mirage IV)는 [프랑스 공군의](https://ko.wikipedia.org/wiki/프랑스_공군 "wikilink") 전투기이다. 2인승 쌍발엔진 핵폭격기 버전으로, 한국의 [F-15K](https://ko.wikipedia.org/wiki/F-15K "wikilink") 전투기와 비슷한 크기이다.
@@ -65,7 +65,7 @@
 
 ## 더 보기
 
-  - [아브로 벌컨](https://ko.wikipedia.org/wiki/아브로_벌컨 "wikilink")
+  - [아브로 벌컨](../Page/아브로_벌컨.md "wikilink")
 
 ## 각주
 

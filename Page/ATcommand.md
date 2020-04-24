@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ATcommand](https://ko.wikipedia.org/wiki/ATcommand).
 
 
-**ATcommand** 또는 **헤이즈 커맨드 세트**(Hayes command set) 또는 줄여서 AT는 1981년 Hayes Smartmodem 300 보오 모뎀을 위해 [데니스 헤이즈](https://ko.wikipedia.org/wiki/데니스_헤이즈 "wikilink")(Dennis Hayes)가 처음 개발 한 특정 명령 언어이다.\[1\] 이후 [마이크로컨트롤러](../Page/마이크로컨트롤러.md "wikilink")(MCU),블루투스등 이들과의 확장성이 용이한 통신 프로토콜로 사용되고있다.
+**ATcommand** 또는 **헤이즈 커맨드 세트**(Hayes command set) 또는 줄여서 AT는 1981년 Hayes Smartmodem 300 보오 모뎀을 위해 [데니스 헤이즈](https://ko.wikipedia.org/wiki/데니스_헤이즈 "wikilink")(Dennis Hayes)가 처음 개발한 특정 명령 언어이다.\[1\] 이후 [마이크로컨트롤러](../Page/마이크로컨트롤러.md "wikilink")(MCU),블루투스등 이들과의 확장성이 용이한 통신 프로토콜로 사용되고있다.
 
 명령 세트는 전화 걸기, 전화 끊기 및 연결 매개 변수 변경과 같은 작업에 대한 명령을 생성하기 위해 결합될 수있는 일련의 짧은 텍스트 문자열로 구성된다. 대다수의 전화 접속 모뎀은 다양한 변형에서 Hayes 명령인 AT command를 사용하고있다.
 
@@ -36,7 +36,7 @@ AT(+명령어?)
 ## 참고
 
   - [conexant-Commands for HostProcessed and HostControlled Modems Reference Manual](https://web.archive.org/web/20151028101531/http://www.zoomtel.com/documentation/dial_up/100498D.pdf)
-  - [SIM tech-SIM com, AT Command Set ,SIM5320 _ATC_V1.23](http://www.mt-system.ru/sites/default/files/simcom_sim5320_atc_en_v1.23.pdf)
+  - [SIM tech-SIM com, AT Command Set ,SIM5320 _ATC_V1.23](https://web.archive.org/web/20181222212443/http://www.mt-system.ru/sites/default/files/simcom_sim5320_atc_en_v1.23.pdf)
   - [SIM com -BLE 4.0 modules(HM-10;HM-11)DataSheet](http://www.jnhuamao.cn/index_en.asp?ID=1)
 
 [분류:네트워크 프로토콜](https://ko.wikipedia.org/wiki/분류:네트워크_프로토콜 "wikilink")

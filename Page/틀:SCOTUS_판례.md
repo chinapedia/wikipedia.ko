@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:SCOTUS ](https://ko.wikipedia.org/wiki/:SCOTUS_).
+> This article is converted from Wikipedia: [틀:SCOTUS 판례](https://ko.wikipedia.org/wiki/틀:SCOTUS_판례).
 
 
 {{\#if:|

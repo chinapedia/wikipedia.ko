@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [VfL  \( \)](https://ko.wikipedia.org/wiki/VfL__\(_\)).
+> This article is converted from Wikipedia: [VfL 볼프스부르크 \(여자 축구\)](https://ko.wikipedia.org/wiki/VfL_볼프스부르크_\(여자_축구\)).
 
 
 **페어라인 퓌어 라이베스위붕엔 볼프스부르크**() 또는 **VfL 볼프스부르크**(VfL Wolfsburg)는 [니더작센주](../Page/니더작센주.md "wikilink") [볼프스부르크](../Page/볼프스부르크.md "wikilink")를 연고로 하는 [독일](../Page/독일.md "wikilink")의 [여자 축구](../Page/여자_축구.md "wikilink") 클럽이다. [2003년](../Page/2003년.md "wikilink")에 [VfL 볼프스부르크](../Page/VfL_볼프스부르크.md "wikilink") 산하 여자 축구 클럽으로 설립되었으며, 현재 독일의 최상위 여자 축구 리그인 [프라우엔-분데스리가](../Page/프라우엔-분데스리가.md "wikilink")에 소속되어 있다.

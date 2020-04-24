@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TV    8 ](https://ko.wikipedia.org/wiki/TV____8_).
+> This article is converted from Wikipedia: [TV 도쿄 금요일 밤 8시 드라마](https://ko.wikipedia.org/wiki/TV_도쿄_금요일_밤_8시_드라마).
 
 
 **TV 도쿄 금요일 밤 8시 드라마**()는 [TV 도쿄](../Page/TV_도쿄.md "wikilink") [계열에서](../Page/TX네트워크.md "wikilink") 매주 금요일의 [드라마](https://ko.wikipedia.org/wiki/드라마 "wikilink")이다.

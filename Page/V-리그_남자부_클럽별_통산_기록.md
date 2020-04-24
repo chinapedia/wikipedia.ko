@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [V-    ](https://ko.wikipedia.org/wiki/V-____).
+> This article is converted from Wikipedia: [V-리그 남자부 클럽별 통산 기록](https://ko.wikipedia.org/wiki/V-리그_남자부_클럽별_통산_기록).
 
 
 이 문서는 [V-리그](../Page/V-리그_\(대한민국\).md "wikilink") 남자부의 참가팀별 통산 성적을 기록한 문서이다.

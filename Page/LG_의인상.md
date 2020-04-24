@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [LG ](https://ko.wikipedia.org/wiki/LG_).
+> This article is converted from Wikipedia: [LG 의인상](https://ko.wikipedia.org/wiki/LG_의인상).
 
 
 **LG 의인상**은 [LG복지재단](https://ko.wikipedia.org/wiki/LG복지재단 "wikilink")이 '의롭고 아름다운 사회를 만들기 위한 작은 보탬, LG 의인상'을 캐치프레이즈로, 군인, 경찰, 소방관 등 국가를 위해 헌신하는 공직자와 타인을 위해 살신성인한 일반인들을 찾아내 포상하고 사회의 귀감으로 삼아 널리 알리는 사업이다.

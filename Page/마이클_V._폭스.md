@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ V. ](https://ko.wikipedia.org/wiki/_V._).
+> This article is converted from Wikipedia: [마이클 V. 폭스](https://ko.wikipedia.org/wiki/마이클_V._폭스).
 
 
 **마이클 V. 폭스** (Michael V. Fox, 1941년 \~ )는 미국의 성서의 학자이다.\[1\] 그는 [위스콘신 대학교의](../Page/위스콘신_대학교.md "wikilink") [히브리어](../Page/히브리어.md "wikilink")와 셈족학과의 홀스-반스콤 명예교수이다.\[2\] 폭스는 성경지혜문학 분야에 관하여 최고의 권위있는 학자로 평가받는다.\[3\] 한국에서 현창학 박사와 유선명 박사가 그의 제자이다.

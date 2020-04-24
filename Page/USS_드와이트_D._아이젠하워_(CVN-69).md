@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [USS  D.  \(CVN-69\)](https://ko.wikipedia.org/wiki/USS__D.__\(CVN-69\)).
+> This article is converted from Wikipedia: [USS 드와이트 D. 아이젠하워 \(CVN-69\)](https://ko.wikipedia.org/wiki/USS_드와이트_D._아이젠하워_\(CVN-69\)).
 
 
 **USS 드와이트 D. 아이젠하워 (CVN-69)**는 미국의 [니미츠급 항공모함이다](../Page/니미츠급_항공모함.md "wikilink").

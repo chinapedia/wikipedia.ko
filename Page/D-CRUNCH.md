@@ -1,7 +1,9 @@
 > This article is converted from Wikipedia: [D-CRUNCH](https://ko.wikipedia.org/wiki/D-CRUNCH).
 
 
-**디크런치** ()는 [대한민국](../Page/대한민국.md "wikilink") 아이그랜드코리아 소속의 9인조 [보이 그룹이다](https://ko.wikipedia.org/wiki/보이_그룹 "wikilink"). 이 그룹은 현욱, 현호, O.V, 민혁, 현우, 현오, 찬영, 정승, Dylan으로 구성되어있다. D-CRUNCH 싱글 앨범 《0806》(2018)로 데뷔했다.
+**디크런치**()는 [대한민국](../Page/대한민국.md "wikilink") 아이그랜드코리아 소속의 9인조 [보이 그룹이다](https://ko.wikipedia.org/wiki/보이_그룹 "wikilink"). 이 그룹은 현욱, 현호, O.V, 현우, 현오, 민, 정승, Dylan으로 구성되어있다. D-CRUNCH 싱글 앨범 《0806》(2018)로 데뷔했다.
+
+2018년 데뷔 당시에는 올에스컴퍼니 소속이었으나, 2020년 초 전원 올에스와 계약을 해지한 후 아이그랜드코리아로 이적했다.
 
 ## 음반 목록
 

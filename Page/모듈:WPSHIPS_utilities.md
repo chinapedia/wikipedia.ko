@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:WPSHIPS utilities](https://ko.wikipedia.org/wiki/:WPSHIPS_utilities).
+> This article is converted from Wikipedia: [모듈:WPSHIPS utilities](https://ko.wikipedia.org/wiki/모듈:WPSHIPS_utilities).
 
 
 require('Module:No globals')

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [MIT  ](https://ko.wikipedia.org/wiki/MIT__).
+> This article is converted from Wikipedia: [MIT 링컨 연구소](https://ko.wikipedia.org/wiki/MIT_링컨_연구소).
 
 
 [85px](https://ko.wikipedia.org/wiki/파일:Lincoln_Lab_icon.png "wikilink")

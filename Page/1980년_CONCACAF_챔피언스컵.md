@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [1980 CONCACAF ](https://ko.wikipedia.org/wiki/1980_CONCACAF_).
+> This article is converted from Wikipedia: [1980년 CONCACAF 챔피언스컵](https://ko.wikipedia.org/wiki/1980년_CONCACAF_챔피언스컵).
 
 
 **1980년 CONCACAF 챔피언스컵**(1980 CONCACAF Champions' Cup)은 [1980년](../Page/1980년.md "wikilink") [5월 20일부터](../Page/5월_20일.md "wikilink") [1981년](../Page/1981년.md "wikilink") [2월 12일까지](../Page/2월_12일.md "wikilink") 개최된 CONCACAF 챔피언스컵(현재의 [CONCACAF 챔피언스리그](../Page/CONCACAF_챔피언스리그.md "wikilink"))의 16번째 대회이다. [멕시코](../Page/멕시코.md "wikilink")의 [UNAM 데 푸마스가](../Page/클루브_우니베르시다드_나시오날.md "wikilink") 결선 라운드에서 우승을 차지했다.

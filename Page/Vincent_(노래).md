@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Vincent \(\)](https://ko.wikipedia.org/wiki/Vincent_\(\)).
+> This article is converted from Wikipedia: [Vincent \(노래\)](https://ko.wikipedia.org/wiki/Vincent_\(노래\)).
 
 
 〈**Vincent**〉는 [빈센트 반 고흐를](../Page/빈센트_반_고흐.md "wikilink") 추모하기 위해 쓴 [돈 맥클린의](../Page/돈_맥클린.md "wikilink") 노래다. 이 곡은 또한 반 고흐의 1889년 작품인 《[별이 빛나는 밤](../Page/별이_빛나는_밤.md "wikilink")》을 가리키는 오프닝 라인인 〈**Starry Starry Night**〉로도 알려져 있다. 이 노래는 또한 이 화가의 다른 그림들도 묘사하고 있다. 그것은 반 고흐의 인생 100주년을 맞아 만들어졌다.

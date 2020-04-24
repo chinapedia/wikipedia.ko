@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Greatest Hits \( \)](https://ko.wikipedia.org/wiki/Greatest_Hits_\(_\)).
+> This article is converted from Wikipedia: [Greatest Hits \(퀸의 음반\)](https://ko.wikipedia.org/wiki/Greatest_Hits_\(퀸의_음반\)).
 
 
 《**Greatest Hits**》는 1981년 10월 26일 전세계적으로 발매된 [영국](../Page/영국.md "wikilink")의 록 밴드 [퀸의](../Page/퀸_\(밴드\).md "wikilink") 컴필레이션 음반이다.\[1\]\[2\] 이 음반은 1974년 첫 차트인 〈[Seven Seas of Rhye](../Page/Seven_Seas_of_Rhye.md "wikilink")〉에서 1980년 히트한 〈[Flash](../Page/Flash_\(퀸의_노래\).md "wikilink")〉까지(일부 국가에서는 1981년 [데이비드 보위와](../Page/데이비드_보위.md "wikilink") 함께 차트 1위를 한 〈[Under Pressure](../Page/Under_Pressure.md "wikilink")〉가 포함) 음반의 베스트셀러로 구성되었다. 음반에는 유니버설 트랙 목록이나 커버 아트가 없었고, 각 영역의 트랙은 어떤 싱글이 그곳에서 발매되었고 어떤 싱글이 성공했는지에 따라 결정되었다.

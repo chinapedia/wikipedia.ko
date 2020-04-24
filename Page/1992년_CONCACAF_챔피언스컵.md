@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [1992 CONCACAF ](https://ko.wikipedia.org/wiki/1992_CONCACAF_).
+> This article is converted from Wikipedia: [1992년 CONCACAF 챔피언스컵](https://ko.wikipedia.org/wiki/1992년_CONCACAF_챔피언스컵).
 
 
 **1992년 CONCACAF 챔피언스컵**(1992 CONCACAF Champions' Cup)은 [1992년](../Page/1992년.md "wikilink") [2월 1일부터](../Page/2월_1일.md "wikilink") [1993년](../Page/1993년.md "wikilink") [1월 5일까지](../Page/1월_5일.md "wikilink") 개최된 CONCACAF 챔피언스컵(현재의 [CONCACAF 챔피언스리그](../Page/CONCACAF_챔피언스리그.md "wikilink"))의 28번째 대회이다. [멕시코](../Page/멕시코.md "wikilink")의 [아메리카가](../Page/클루브_아메리카.md "wikilink") 결승전에서 [코스타리카](../Page/코스타리카.md "wikilink")의 [알라후엘렌세를](../Page/LD_알라후엘렌세.md "wikilink") 누르고 우승을 차지했다.

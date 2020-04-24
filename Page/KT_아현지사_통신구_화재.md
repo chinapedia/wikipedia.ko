@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KT   ](https://ko.wikipedia.org/wiki/KT___).
+> This article is converted from Wikipedia: [KT 아현지사 통신구 화재](https://ko.wikipedia.org/wiki/KT_아현지사_통신구_화재).
 
 
 **KT 아현지사 통신구 화재**(-阿峴支社通信溝火災)는 [서울특별시](../Page/서울특별시.md "wikilink") [서대문구](https://ko.wikipedia.org/wiki/서대문구 "wikilink") 충정로3가 [KT](../Page/KT.md "wikilink") 아현지사 건물 지하의 통신구 연결통로에서 2018년 11월 24일 발생한 화재 사고이다. 이 사고로 지하 1층 통신구 약 79 m가 소실되면서\[1\], 서울 한강 이북 서부 지역에서 KT 인터넷, 휴대폰 무선통신 등을 이용할 수 없게 되었다. 이동통신망의 복구는 사고 이후 일주일 정도가 걸릴 것으로 예상된다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [-M](https://ko.wikipedia.org/wiki/-M).
+> This article is converted from Wikipedia: [프로톤-M](https://ko.wikipedia.org/wiki/프로톤-M).
 
 
 **프로톤-M**은 러시아의 [대형 발사체이다](https://ko.wikipedia.org/wiki/대형_발사체 "wikilink"). [프로톤 (로켓)의](https://ko.wikipedia.org/wiki/프로톤_\(로켓\) "wikilink") 최신형이다. 우크라이나 [바이코누르 우주 기지](https://ko.wikipedia.org/wiki/바이코누르_우주_기지 "wikilink") 81번, 200번 발사대에서 발사한다. [프로톤 (로켓)과](https://ko.wikipedia.org/wiki/프로톤_\(로켓\) "wikilink") [프로톤-K](https://ko.wikipedia.org/wiki/프로톤-K "wikilink")는 퇴역했고, 현재 프로톤-M만 사용중이다.

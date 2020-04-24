@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ HD ](https://ko.wikipedia.org/wiki/_HD_).
+> This article is converted from Wikipedia: [울트라 HD 블루레이](https://ko.wikipedia.org/wiki/울트라_HD_블루레이).
 
 
 **울트라 HD 블루레이**()는 [블루레이 플레이어를](https://ko.wikipedia.org/wiki/블루레이_디스크 "wikilink") 대체하는 [디지털](../Page/디지털_미디어.md "wikilink") [광 디스크](../Page/광_디스크.md "wikilink") 데이터 저장 포맷이다.\[1\] 울트라 HD 블루레이 디스크들은 기존 블루레이 플레이어와 호환되지 않는다.\[2\] 울트라 HD 블루레이는 초당 최대 60 프레임의 프레임 레이트의 [4K](../Page/4K_해상도.md "wikilink") [UHD](../Page/초고선명_텔레비전.md "wikilink")(3840 × 2160 해상도)의 동영상을 지원하며\[3\] [고효율 비디오 코딩](../Page/고효율_비디오_코딩.md "wikilink")(HEVC)를 사용하여 인코딩된다.\[4\] 이 디스크들은 [컬러 당 10비트까지](../Page/색_깊이.md "wikilink") 색 깊이를 증가시킴으로써 [하이 다이내믹 레인지를](https://ko.wikipedia.org/wiki/하이_다이내믹_레인지 "wikilink") 지원하며, [Rec. 2020](../Page/Rec._2020.md "wikilink") 색공간을 사용함으로써 전통적인 블루레이 비디오에서 지원하는 것보다 더 나은 [색역](../Page/색역.md "wikilink")을 지원한다.

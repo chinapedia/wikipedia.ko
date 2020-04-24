@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [V-  ](https://ko.wikipedia.org/wiki/V-__).
+> This article is converted from Wikipedia: [V-리그 여자부 신인선수상](https://ko.wikipedia.org/wiki/V-리그_여자부_신인선수상).
 
 
 **V-리그 여자부 신인선수상**은 매년 정규리그에서 뛰어난 활약을 보여주는 신인선수에게 주어지는 상이다. V-리그가 출범한 2005년부터 수상이 시작되었다.

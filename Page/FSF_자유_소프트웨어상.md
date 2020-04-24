@@ -1,11 +1,11 @@
-> This article is converted from Wikipedia: [FSF  ](https://ko.wikipedia.org/wiki/FSF__).
+> This article is converted from Wikipedia: [FSF 자유 소프트웨어상](https://ko.wikipedia.org/wiki/FSF_자유_소프트웨어상).
 
 
 [섬네일이](https://ko.wikipedia.org/wiki/파일:Matz.jpg "wikilink") 2011년 자유 소프트웨어 진보상을 [마츠모토 유키히로에게](../Page/마츠모토_유키히로.md "wikilink") 수여하고 있다\]\] [자유 소프트웨어 재단](../Page/자유_소프트웨어_재단.md "wikilink")(FSF)은 해마다 두 차례의 상을 수여한다. 1998년 이후로 FSF는 자유 소프트웨어 진보(Advancement of Free Software)상을 수여해왔으며, 2005년부터는 사회적 편익 프로젝트의 자유 소프트웨어상(Free Software Award for Projects of Social Benefit)을 수여하고 있다.
 
 ## 행사
 
-1999년 [뉴욕](../Page/뉴욕.md "wikilink")의 [제이컵 재비츠 센터에서](https://ko.wikipedia.org/wiki/제이컵_K._재비츠_컨벤션_센터 "wikilink") 개최되었다. 2000년 수상식이 [프랑스 파리의](../Page/파리_\(프랑스\).md "wikilink") 유대미술역사박물관에서 개최되었다. 2001년부터 2005년까지 [브뤼셀](../Page/브뤼셀.md "wikilink")의 [자유-오픈 소스 소프트웨어 개발자 유럽 회의](https://ko.wikipedia.org/wiki/FOSDEM "wikilink")(FOSDEM)에서 상이 수여되었다. 2006년 이후로는 메사추세츠주 케임브리지의 FSF 연간 멤버 미팅에서 상이 수여되고 있다.
+1999년 [뉴욕](../Page/뉴욕.md "wikilink")의 [제이컵 재비츠 센터에서](https://ko.wikipedia.org/wiki/제이컵_K._재비츠_컨벤션_센터 "wikilink") 개최되었다. 2000년 수상식이 [프랑스 파리의](../Page/파리_\(프랑스\).md "wikilink") 유대미술역사박물관에서 개최되었다. 2001년부터 2005년까지 [브뤼셀](../Page/브뤼셀.md "wikilink")의 [자유-오픈 소스 소프트웨어 개발자 유럽 회의](../Page/FOSDEM.md "wikilink")(FOSDEM)에서 상이 수여되었다. 2006년 이후로는 메사추세츠주 케임브리지의 FSF 연간 멤버 미팅에서 상이 수여되고 있다.
 
 ## 자유 소프트웨어 진보상
 

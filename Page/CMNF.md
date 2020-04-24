@@ -23,6 +23,8 @@ CMNF는 [포르노그래피](../Page/포르노그래피.md "wikilink")에서 많
   - [BDSM](../Page/BDSM.md "wikilink")
   - [노출증](https://ko.wikipedia.org/wiki/노출증 "wikilink")
   - [뇨타이모리](https://ko.wikipedia.org/wiki/뇨타이모리 "wikilink")
+  - [누드 미술](https://ko.wikipedia.org/wiki/누드_미술 "wikilink")
+  - [나체](https://ko.wikipedia.org/wiki/나체 "wikilink")
 
 ## 각주
 

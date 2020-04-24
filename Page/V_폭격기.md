@@ -1,9 +1,9 @@
-> This article is converted from Wikipedia: [V ](https://ko.wikipedia.org/wiki/V_).
+> This article is converted from Wikipedia: [V 폭격기](https://ko.wikipedia.org/wiki/V_폭격기).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Valiant.vbomber.700pix.jpg "wikilink") 전략핵폭격기\]\] [섬네일](https://ko.wikipedia.org/wiki/파일:Red_Arrows_Farewell_to_Vulcan_MOD_45159089.jpg "wikilink") 곡예비행단과 [아브로 불칸](https://ko.wikipedia.org/wiki/아브로_불칸 "wikilink") 전략핵폭격기\]\] [섬네일](https://ko.wikipedia.org/wiki/파일:Handley_Page_Victor_Low_Level_Trials_at_RAF_Khormaksar,_Aden_in_1964.jpg "wikilink") 전략핵폭격기\]\]
 
-**V 폭격기**는 [영국 공군의](https://ko.wikipedia.org/wiki/영국_공군 "wikilink") 핵폭격기를 말한다. 3개 모델이 있었다. [빅커스 발리언트](https://ko.wikipedia.org/wiki/빅커스_발리언트 "wikilink"), [아브로 불칸](https://ko.wikipedia.org/wiki/아브로_불칸 "wikilink"), [핸들리 페이지 빅터를](https://ko.wikipedia.org/wiki/핸들리_페이지_빅터 "wikilink") V 폭격기라고 부른다.
+**V 폭격기**는 [영국 공군의](https://ko.wikipedia.org/wiki/영국_공군 "wikilink") 핵폭격기를 말한다. 3개 모델이 있었다. [빅커스 발리언트](../Page/빅커스_발리언트.md "wikilink"), [아브로 불칸](https://ko.wikipedia.org/wiki/아브로_불칸 "wikilink"), [핸들리 페이지 빅터를](../Page/핸들리_페이지_빅터.md "wikilink") V 폭격기라고 부른다.
 
 ## 역사
 
@@ -48,9 +48,9 @@
 
 ## 더 보기
 
-  - [빅커스 발리언트](https://ko.wikipedia.org/wiki/빅커스_발리언트 "wikilink")
-  - [아브로 벌컨](https://ko.wikipedia.org/wiki/아브로_벌컨 "wikilink")
-  - [핸들리 페이지 빅터](https://ko.wikipedia.org/wiki/핸들리_페이지_빅터 "wikilink")
+  - [빅커스 발리언트](../Page/빅커스_발리언트.md "wikilink")
+  - [아브로 벌컨](../Page/아브로_벌컨.md "wikilink")
+  - [핸들리 페이지 빅터](../Page/핸들리_페이지_빅터.md "wikilink")
 
 ## 각주
 

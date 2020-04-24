@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ W. ](https://ko.wikipedia.org/wiki/_W._).
+> This article is converted from Wikipedia: [로버트 W. 펑크](https://ko.wikipedia.org/wiki/로버트_W._펑크).
 
 
 **로버트 W. 펑크** (Robert W. Funk, 1926년 7월 18일 - 2005년 9월 3일)는 미국의 성서 학자로서 [예수 세미나와](../Page/예수_세미나.md "wikilink") 캘리포니아 주 [산타 로사에](https://ko.wikipedia.org/wiki/산타_로사 "wikilink") 있는 비영리 단체인 웨스터 연구소의 설립자이다. 학자로서 펑크 (Funk)는 그가 성경적 [문해력](https://ko.wikipedia.org/wiki/문해력 "wikilink")이라고 불렀던 것에 대한 연구와 교육을 장려했다. [해석학](https://ko.wikipedia.org/wiki/해석학 "wikilink")에 대한 그의 방법은 정통 기독교 신앙, 특히 [역사적 예수에](../Page/역사적_예수.md "wikilink") 관한 강한 회의적인 견해를 가지고 [역사비평](../Page/역사비평.md "wikilink")을  시도하였다. 그와 그의 동료들은 [예수의 비유가](https://ko.wikipedia.org/wiki/예수의_비유 "wikilink") 기존에 주장하고 있는 종교적 태도와 모순되는 충격적인 메시지를 담고 있다고 묘사했다.

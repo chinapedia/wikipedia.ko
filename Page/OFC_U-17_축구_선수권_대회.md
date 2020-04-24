@@ -74,7 +74,7 @@
 <em><a href="https://ko.wikipedia.org/wiki/1993년_OFC_U-17_축구_선수권_대회" title="wikilink">자세히</a></em></p></td>
 <td></td>
 <td><p><strong></strong></p></td>
-<td><p><strong>3 : 0</strong></p></td>
+<td><p><strong>3 – 0</strong></p></td>
 <td></td>
 <td><p>, </p></td>
 </tr>
@@ -83,7 +83,7 @@
 <em><a href="https://ko.wikipedia.org/wiki/1995년_OFC_U-17_축구_선수권_대회" title="wikilink">자세히</a></em></p></td>
 <td></td>
 <td><p><strong></strong></p></td>
-<td><p><strong>1 : 0</strong></p></td>
+<td><p><strong>1 – 0</strong></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -92,7 +92,7 @@
 <em><a href="https://ko.wikipedia.org/wiki/1997년_OFC_U-17_축구_선수권_대회" title="wikilink">자세히</a></em></p></td>
 <td></td>
 <td><p><strong></strong></p></td>
-<td><p><strong>1 : 0</strong></p></td>
+<td><p><strong>1 – 0</strong></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -101,7 +101,7 @@
 <em><a href="https://ko.wikipedia.org/wiki/1999년_OFC_U-17_축구_선수권_대회" title="wikilink">자세히</a></em></p></td>
 <td></td>
 <td><p><strong></strong></p></td>
-<td><p><strong>5 : 0</strong></p></td>
+<td><p><strong>5 – 0</strong></p></td>
 <td></td>
 <td><p>, </p></td>
 </tr>
@@ -111,8 +111,8 @@
 <td><p><br />
 </p></td>
 <td><p><strong></strong></p></td>
-<td><p><strong>9 : 0</strong><br />
-<small>(3 : 0, 6 : 0)</small></p></td>
+<td><p><strong>9 – 0</strong><br />
+<small>(3 – 0, 6 – 0)</small></p></td>
 <td></td>
 <td><p>, </p></td>
 </tr>
@@ -122,8 +122,8 @@
 <td><p><br />
 </p></td>
 <td><p><strong></strong></p></td>
-<td><p><strong>7 : 1</strong><br />
-<small>(3 : 1, 4 : 0)</small></p></td>
+<td><p><strong>7 – 1</strong><br />
+<small>(3 – 1, 4 – 0)</small></p></td>
 <td></td>
 <td><p>, </p></td>
 </tr>
@@ -132,7 +132,7 @@
 <em><a href="https://ko.wikipedia.org/wiki/2005년_OFC_U-17_축구_선수권_대회" title="wikilink">자세히</a></em></p></td>
 <td></td>
 <td><p><strong></strong></p></td>
-<td><p><strong>1 : 0</strong></p></td>
+<td><p><strong>1 – 0</strong></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -159,7 +159,7 @@
 <em><a href="https://ko.wikipedia.org/wiki/2011년_OFC_U-17_축구_선수권_대회" title="wikilink">자세히</a></em></p></td>
 <td></td>
 <td><p><strong></strong></p></td>
-<td><p><strong>2 : 0</strong></p></td>
+<td><p><strong>2 – 0</strong></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -177,8 +177,8 @@
 <em><a href="https://ko.wikipedia.org/wiki/2015년_OFC_U-17_축구_선수권_대회" title="wikilink">자세히</a></em></p></td>
 <td></td>
 <td><p><strong></strong></p></td>
-<td><p><strong>1 : 1</strong><br />
-<small><strong>5 : 4</strong> (<a href="../Page/승부차기.md" title="wikilink">승부차기</a>)</small></p></td>
+<td><p><strong>1 – 1</strong><br />
+<small><strong>5 – 4</strong> (<a href="../Page/승부차기.md" title="wikilink">승부차기</a>)</small></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -187,7 +187,7 @@
 <em><a href="https://ko.wikipedia.org/wiki/2017년_OFC_U-17_축구_선수권_대회" title="wikilink">자세히</a></em></p></td>
 <td></td>
 <td><p><strong></strong></p></td>
-<td><p><strong>7 : 0</strong></p></td>
+<td><p><strong>7 – 0</strong></p></td>
 <td></td>
 <td><p>, </p></td>
 </tr>
@@ -196,8 +196,8 @@
 <em><a href="https://ko.wikipedia.org/wiki/2018년_OFC_U-17_축구_선수권_대회" title="wikilink">자세히</a></em></p></td>
 <td></td>
 <td><p><strong></strong></p></td>
-<td><p><strong>0 : 0</strong><br />
-<small><strong>5 : 4</strong> (<a href="../Page/승부차기.md" title="wikilink">승부차기</a>)</small></p></td>
+<td><p><strong>0 – 0</strong><br />
+<small><strong>5 – 4</strong> (<a href="../Page/승부차기.md" title="wikilink">승부차기</a>)</small></p></td>
 <td><p>[1]</p></td>
 <td></td>
 </tr>

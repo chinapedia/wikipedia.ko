@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Yellow \( \)](https://ko.wikipedia.org/wiki/Yellow_\(_\)).
+> This article is converted from Wikipedia: [Yellow \(콜드플레이의 노래\)](https://ko.wikipedia.org/wiki/Yellow_\(콜드플레이의_노래\)).
 
 
 〈**Yellow**〉는 [영국](../Page/영국.md "wikilink")의 록 밴드 [콜드플레이](../Page/콜드플레이.md "wikilink")의 노래다. 이 밴드는 이 노래를 작곡하고 영국의 음반 프로듀서 [켄 넬슨과](https://ko.wikipedia.org/wiki/켄_넬슨 "wikilink") 함께 데뷔 음반인 《[Parachutes](../Page/Parachutes.md "wikilink")》(2000년)를 제작했다.

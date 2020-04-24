@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [찰스 G. 피니](https://ko.wikipedia.org/wiki/찰스_G._피니).
 
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:Charles_g_finney.jpg "wikilink") **찰스 그랜디슨 피니**(Charles Grandison Finney,1792년 8월 29일– 1875년 8월 16일)는 미국 [장로교](https://ko.wikipedia.org/wiki/북장로교 "wikilink") 목사이며 미국의 제 2차 부흥운동의 지도자이며 현대 부흥운동의 아버지이다.\[1\] 피니는 뉴욕 북서부와 맨하튼에서 1825년-1835년 기간동안 혁신적인 부흥운동가로 가장 잘 알려지게 되었다. 구파 [장로교](https://ko.wikipedia.org/wiki/장로교회_\(미국\) "wikilink") 신학을 반대하고 기독교 완전주의를 주장하며 여러 글들을 남겼다. 그는 노예제도의 폐지를 주장하고 여성과 흑인들의 교육과 같은 사회 개혁을 증진하였다. [아더 태펀 피어선](../Page/아더_태펀_피어선.md "wikilink") 박사는 찰스 피니목사에게 영향을 받았다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:Charles_g_finney.jpg "wikilink") **찰스 그랜디슨 피니**(Charles Grandison Finney,1792년 8월 29일– 1875년 8월 16일)는 미국 [장로교](https://ko.wikipedia.org/wiki/북장로교 "wikilink") 목사이며 미국의 제 2차 부흥운동의 지도자이며 현대 부흥운동의 아버지이다.\[1\] 피니는 뉴욕 북서부와 맨하튼에서 1825년-1835년 기간동안 혁신적인 부흥운동가로 가장 잘 알려지게 되었다. 구파 [장로교](../Page/장로교.md "wikilink") 신학을 반대하고 기독교 완전주의를 주장하며 여러 글들을 남겼다. 그는 노예제도의 폐지를 주장하고 여성과 흑인들의 교육과 같은 사회 개혁을 증진하였다. [아더 태펀 피어선](../Page/아더_태펀_피어선.md "wikilink") 박사는 찰스 피니목사에게 영향을 받았다.
 
 ## 신학
 

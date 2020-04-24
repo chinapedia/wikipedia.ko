@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [American Pie \(\)](https://ko.wikipedia.org/wiki/American_Pie_\(\)).
+> This article is converted from Wikipedia: [American Pie \(노래\)](https://ko.wikipedia.org/wiki/American_Pie_\(노래\)).
 
 
 〈**American Pie**〉는 [미국](../Page/미국.md "wikilink")의 싱어송라이터 [돈 맥클린의](../Page/돈_맥클린.md "wikilink") 곡이다. 1971년 《[American Pie](../Page/American_Pie_\(음반\).md "wikilink")》 음반에 녹음되어 발매된 이 싱글은 1972년 4주 동안 미국 최고의 히트곡이었으며 [호주](https://ko.wikipedia.org/wiki/호주 "wikilink"), [캐나다](../Page/캐나다.md "wikilink"), [뉴질랜드](../Page/뉴질랜드.md "wikilink")에서도 1위를 차지했다. [영국](../Page/영국.md "wikilink")에서, 싱글곡은 2위에 도달했고, 그 노래는 3주 동안 머물렀고, 1991년 재발행된 곡이 12위에 도달했다.\[1\] 이 곡은 [미국 음반 산업 협회의](../Page/미국_음반_산업_협회.md "wikilink") [세기의 노래에서](https://ko.wikipedia.org/wiki/세기의_노래 "wikilink") 5위에 올랐다. 이 곡의 잘린 버전은 2000년에 [마돈나](../Page/마돈나.md "wikilink")가 다루었고 영국, 캐나다, 호주를 포함한 여러 나라에서 1위에 올랐다. 맥클린의 결합 버전은 발매 당시 [빌보드 핫 100에](../Page/빌보드_핫_100.md "wikilink") 들어간 네 번째로 긴 곡이며, 1위에 오른 가장 긴 곡이기도 했다.\[2\]

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SBS  \(\)](https://ko.wikipedia.org/wiki/SBS__\(\)).
+> This article is converted from Wikipedia: [SBS 플러스 \(기업\)](https://ko.wikipedia.org/wiki/SBS_플러스_\(기업\)).
 
 
 **SBS 플러스**(SBS Plus)는 [SBS미디어홀딩스](../Page/SBS미디어홀딩스.md "wikilink") 계열의 케이블 TV 채널을 통합하여 부르는 이름이다.

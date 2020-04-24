@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [1=1 \(POWER OF DESTINY\)](https://ko.wikipedia.org/wiki/1=1_\(POWER_OF_DESTINY\)).
+> This article is converted from Wikipedia: [1¹¹=1 \(POWER OF DESTINY\)](https://ko.wikipedia.org/wiki/1¹¹=1_\(POWER_OF_DESTINY\)).
 
 
 《**1¹¹=1(POWER OF DESTINY)**》는 대한민국의 보이 그룹 [워너원](../Page/워너원.md "wikilink")의 첫 번째 정규 앨범으로, 2018년 11월 19일 발매되었다.

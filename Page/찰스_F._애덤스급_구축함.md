@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ F.  ](https://ko.wikipedia.org/wiki/_F.__).
+> This article is converted from Wikipedia: [찰스 F. 애덤스급 구축함](https://ko.wikipedia.org/wiki/찰스_F._애덤스급_구축함).
 
 
 **찰스 F. 애덤스급 구축함**은 과거 [미국 해군의](../Page/미국_해군.md "wikilink") 구축함으로 1960년대초에 대거 건조되어 냉전이 끝나는 순간까지 냉전기의 미 해군의 물량을 책임진 군함이다. 실제로 1962년 베트남 전쟁 당시 쿠바 봉쇄 작전에서도 참여한 이력이 있다.

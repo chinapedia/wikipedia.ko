@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ II GLV](https://ko.wikipedia.org/wiki/_II_GLV).
+> This article is converted from Wikipedia: [타이탄 II GLV](https://ko.wikipedia.org/wiki/타이탄_II_GLV).
 
 
 **타이탄 II GLV**(Gemini Launch Vehicle)는 미국의 우주발사체다. [제미니 계획을](../Page/제미니_계획.md "wikilink") 위해 사용되었으며, **제미니-타이탄 II** 또는 **제미니 로켓**이라고도 한다.

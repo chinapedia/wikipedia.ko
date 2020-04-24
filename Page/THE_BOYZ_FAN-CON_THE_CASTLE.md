@@ -117,7 +117,7 @@
 31. 《4EVER》
 32. 《Giddy Up》
 33. Closing Ment
-34. 《[지킬게 (KeePer)](https://ko.wikipedia.org/wiki/지킬게_\(KeePer\) "wikilink")》
+34. 《[지킬게 (KeePer)](../Page/지킬게_\(KeePer\).md "wikilink")》
 
 ## 외부 링크
 

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [IAI ](https://ko.wikipedia.org/wiki/IAI_).
+> This article is converted from Wikipedia: [IAI 네셔](https://ko.wikipedia.org/wiki/IAI_네셔).
 
 
 **IAI 네셔**(IAI Nesher)는 이스라엘 공군의 전투기이다. [다소 미라주 5](../Page/다소_미라주_5.md "wikilink") 다목적 전투기를 불법 카피했다.

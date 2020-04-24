@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [3 KBS ](https://ko.wikipedia.org/wiki/3_KBS_).
+> This article is converted from Wikipedia: [3기 KBS 바둑왕전](https://ko.wikipedia.org/wiki/3기_KBS_바둑왕전).
 
 
 **3기 KBS 바둑왕전**은 TV 속기전이 참가한 국내 바둑 기전이다. 결승에서는 [서봉수](../Page/서봉수.md "wikilink") 九단이 [김좌기](https://ko.wikipedia.org/wiki/김좌기 "wikilink") 四단을 2대 0로 꺾고 우승을 차지했다.

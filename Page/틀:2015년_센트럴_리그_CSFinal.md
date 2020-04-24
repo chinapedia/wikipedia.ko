@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:2015   CSFinal](https://ko.wikipedia.org/wiki/:2015___CSFinal).
+> This article is converted from Wikipedia: [틀:2015년 센트럴 리그 CSFinal](https://ko.wikipedia.org/wiki/틀:2015년_센트럴_리그_CSFinal).
 
 
 | 일시                | 경기        | 원정팀(선공)       | 스코어              | 홈팀(후공)           | 개최 구장                                          |

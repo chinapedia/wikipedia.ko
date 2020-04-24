@@ -232,7 +232,7 @@ GeoJSON은 [GPX](../Page/GPX.md "wikilink")와 호환되면서도, [XML](../Page
 18. <http://developers.cartodb.com/documentation/cartodb-js.html>
 19.
 20.
-21. <https://developer.here.com/documentation/maps/topics_api/h-data-geojson-intro.html>
+21.
 22. <https://developers.google.com/maps/documentation/javascript/examples/layer-data-simple>
 23. <http://googledevelopers.blogspot.com/2014/03/maps-made-easier-geojson-in-javascript.html>
 24. <https://github.com/blog/1528-there-s-a-map-for-that>

@@ -18,4 +18,6 @@
 
   - [KBS 제1라디오 아침종합뉴스](../Page/KBS_제1라디오_아침종합뉴스.md "wikilink") ([KBS 제1라디오](../Page/KBS_제1라디오.md "wikilink"))
 
+## 각주
+
 [분류:기독교방송의 뉴스 라디오 프로그램](https://ko.wikipedia.org/wiki/분류:기독교방송의_뉴스_라디오_프로그램 "wikilink")

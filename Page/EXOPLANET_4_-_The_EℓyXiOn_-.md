@@ -26,7 +26,7 @@
 <tbody>
 <tr class="odd">
 <td><p>2017년 11월 24일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/서울" title="wikilink">서울</a></p></td>
+<td><p><a href="../Page/서울특별시.md" title="wikilink">서울</a></p></td>
 <td></td>
 <td><p><a href="../Page/고척스카이돔.md" title="wikilink">고척스카이돔</a>[3]</p></td>
 <td><p>통산 74,686명</p></td>
@@ -47,7 +47,7 @@
 </tr>
 <tr class="even">
 <td><p>2017년 12월 22일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/후쿠오카" title="wikilink">후쿠오카</a></p></td>
+<td><p><a href="../Page/후쿠오카시.md" title="wikilink">후쿠오카</a></p></td>
 <td></td>
 <td><p>마린 멧세 후쿠오카</p></td>
 <td><p>통산 36,546명</p></td>
@@ -68,7 +68,7 @@
 </tr>
 <tr class="odd">
 <td><p>2018년 1월 27일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/사이타마" title="wikilink">사이타마</a></p></td>
+<td><p><a href="../Page/사이타마시.md" title="wikilink">사이타마</a></p></td>
 <td><p><a href="../Page/사이타마_슈퍼_아레나.md" title="wikilink">사이타마 슈퍼 아레나</a> 스타디움 모드[4]</p></td>
 <td><p>통산 55,632명</p></td>
 <td></td>
@@ -82,7 +82,7 @@
 </tr>
 <tr class="odd">
 <td><p>2018년 2월 10일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/타이베이" title="wikilink">타이베이</a></p></td>
+<td><p><a href="../Page/타이베이시.md" title="wikilink">타이베이</a></p></td>
 <td></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/타이베이_아레나" title="wikilink">타이베이 아레나</a></p></td>
 <td><p>통산 25,352명</p></td>
@@ -96,7 +96,7 @@
 </tr>
 <tr class="odd">
 <td><p>2018년 2월 23일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/오사카" title="wikilink">오사카</a></p></td>
+<td><p><a href="../Page/오사카시.md" title="wikilink">오사카</a></p></td>
 <td></td>
 <td><p><a href="../Page/오사카_돔.md" title="wikilink">쿄세라 돔 오사카</a></p></td>
 <td><p>통산 90,586명</p></td>
@@ -145,10 +145,10 @@
 </tr>
 <tr class="even">
 <td><p>2018년 6월 2일</p></td>
+<td><p><a href="../Page/홍콩.md" title="wikilink">홍콩</a></p></td>
 <td></td>
 <td><p>아시아 월드 아레나[8]</p></td>
 <td><p>통산 27,524명</p></td>
-<td></td>
 </tr>
 <tr class="odd">
 <td><p>2018년 6월 3일</p></td>
@@ -166,7 +166,7 @@
 </tr>
 <tr class="odd">
 <td><p>2018년 7월 13일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/서울" title="wikilink">서울</a></p></td>
+<td><p><a href="../Page/서울특별시.md" title="wikilink">서울</a></p></td>
 <td></td>
 <td><p><a href="../Page/고척스카이돔.md" title="wikilink">고척스카이돔</a>[10]<small>[dot]</small></p></td>
 <td><p>통산 75,562명</p></td>
@@ -187,10 +187,10 @@
 </tr>
 <tr class="even">
 <td><p>2018년 8월 10일</p></td>
+<td><p><a href="../Page/마카오.md" title="wikilink">마카오</a></p></td>
 <td></td>
 <td><p>베네시안 호텔 코타이 아레나[11]<small>[dot]</small></p></td>
 <td><p>통산 26,528명</p></td>
-<td></td>
 </tr>
 <tr class="odd">
 <td><p>2018년 8월 11일</p></td>

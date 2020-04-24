@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:WKBL   ](https://ko.wikipedia.org/wiki/:WKBL___).
+> This article is converted from Wikipedia: [틀:WKBL 선수 기록 범례](https://ko.wikipedia.org/wiki/틀:WKBL_선수_기록_범례).
 
 
 | 범례  |

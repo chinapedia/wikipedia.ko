@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [SAS \(소프트웨어\)](https://ko.wikipedia.org/wiki/SAS_\(소프트웨어\)).
 
 
-**SAS**(Statistical Analysis System)\[1\]는 고급 분석, 다변량 분석, [비즈니스 인텔리전스](../Page/비즈니스_인텔리전스.md "wikilink"), [데이터 관리](https://ko.wikipedia.org/wiki/데이터_관리 "wikilink"), [예측 분석을](https://ko.wikipedia.org/wiki/예측_분석 "wikilink") 위해 [SAS 인스티튜트가](https://ko.wikipedia.org/wiki/SAS_인스티튜트 "wikilink") 개발한 소프트웨어 제품군의 하나이다. SAS는 1966년부터 SAS 인스티튜트가 설립된 1976년까지 [노스캐롤라이나 주립 대학교에서](https://ko.wikipedia.org/wiki/노스캐롤라이나_주립_대학교 "wikilink") 개발되었다. SAS는 1980년대와 1990년대 들어 새로운 통계 절차의 추가, 추가적인 구성 요소, [JMP](https://ko.wikipedia.org/wiki/JMP "wikilink")의 도입과 더불어 추가 개발되었다. 가리켜서 클릭하는 인터페이스가 2004년 버전 9에 추가되었다. 소셜 미디어 분석 제품은 2010년에 추가되었다.
+**SAS**(Statistical Analysis System)\[1\]는 고급 분석, 다변량 분석, [비즈니스 인텔리전스](../Page/비즈니스_인텔리전스.md "wikilink"), [데이터 관리](https://ko.wikipedia.org/wiki/데이터_관리 "wikilink"), [예측 분석을](https://ko.wikipedia.org/wiki/예측_분석 "wikilink") 위해 [SAS 인스티튜트가](https://ko.wikipedia.org/wiki/SAS_인스티튜트 "wikilink") 개발한 소프트웨어 제품군의 하나이다. SAS는 1966년부터 SAS 인스티튜트가 설립된 1976년까지 [노스캐롤라이나 주립 대학교에서](../Page/노스캐롤라이나_주립_대학교.md "wikilink") 개발되었다. SAS는 1980년대와 1990년대 들어 새로운 통계 절차의 추가, 추가적인 구성 요소, [JMP](https://ko.wikipedia.org/wiki/JMP "wikilink")의 도입과 더불어 추가 개발되었다. 가리켜서 클릭하는 인터페이스가 2004년 버전 9에 추가되었다. 소셜 미디어 분석 제품은 2010년에 추가되었다.
 
 ## 기술 개요
 

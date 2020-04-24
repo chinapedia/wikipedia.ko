@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
+> This article is converted from Wikipedia: [피라미즈 FC](https://ko.wikipedia.org/wiki/피라미즈_FC).
 
 
 **피라미즈 FC**(는 [이집트](../Page/이집트.md "wikilink") [카이로](../Page/카이로.md "wikilink")를 연고로 하는 [축구](../Page/축구.md "wikilink") 클럽 팀이다.

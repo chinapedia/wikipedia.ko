@@ -270,7 +270,7 @@
 <td><p>29</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/Road_FC_026" title="wikilink">Road FC 026</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/조남진_(종합격투기_선수)" title="wikilink">조남진</a> vs. <a href="https://ko.wikipedia.org/wiki/송민종" title="wikilink">송민종</a></p></td>
-<td><p>2015년 10월 09일</p></td>
+<td><p>2015년 10월 9일</p></td>
 <td><p><a href="../Page/장충체육관.md" title="wikilink">장충체육관</a></p></td>
 <td><p><a href="../Page/서울특별시.md" title="wikilink">서울특별시</a></p></td>
 </tr>

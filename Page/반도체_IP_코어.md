@@ -22,7 +22,7 @@ IP 코어의 라이선스와 이용은 1990년대 들어 실현되었다. 시장
 
 ## 외부 링크
 
-  - [Open cores](http://www.opencores.org/) "design and publish core" (under LGPL Licence)
+  - [Open cores](https://web.archive.org/web/20110226000636/http://opencores.org/) "design and publish core" (under LGPL Licence)
 
   - [Altera cores](https://www.altera.com/products/intellectual-property/ip.html) Free reference IP cores for FPGAs
 

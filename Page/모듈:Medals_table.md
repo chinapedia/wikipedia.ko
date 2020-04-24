@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Medals table](https://ko.wikipedia.org/wiki/:Medals_table).
+> This article is converted from Wikipedia: [모듈:Medals table](https://ko.wikipedia.org/wiki/모듈:Medals_table).
 
 
 require('Module:No globals') local getArgs = require('Module:Arguments').getArgs

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [BMT  ](https://ko.wikipedia.org/wiki/BMT__).
+> This article is converted from Wikipedia: [BMT 캐나시 선](https://ko.wikipedia.org/wiki/BMT_캐나시_선).
 
 
 **캐나시 선**(Canarsie Line, 또는 **14번가-캐나시 선**/14th Street–Canarsie Line)은 [뉴욕 지하철](../Page/뉴욕_지하철.md "wikilink") 체계의 [BMT](https://ko.wikipedia.org/wiki/브루클린-맨해튼_트랜싯_코포레이션 "wikilink") 부분 철도 노선이다. 노선명은 [브루클린](../Page/브루클린.md "wikilink")의 [캐나시](https://ko.wikipedia.org/wiki/캐나시_\(브루클린\) "wikilink") 인근에 있는 종착지 이름을 따왔다. 뉴욕 지하철 노선도 및 역 표지판에 있는 밝은 슬레이트 회색으로 표시된 [L](https://ko.wikipedia.org/wiki/뉴욕_지하철_L선 "wikilink") 열차를 상시 운행한다.

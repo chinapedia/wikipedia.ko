@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [- PWR](https://ko.wikipedia.org/wiki/-_PWR).
+> This article is converted from Wikipedia: [롤스-로이스 PWR](https://ko.wikipedia.org/wiki/롤스-로이스_PWR).
 
 
 **롤스-로이스 PWR**은 영국 [롤스로이스](https://ko.wikipedia.org/wiki/롤스로이스 "wikilink")가 개발한 핵잠수함 원자로를 말한다.
@@ -9,12 +9,12 @@
 
 ## PWR1
 
-[섬네일인](https://ko.wikipedia.org/wiki/파일:RAF_Museum_Cosford_-_DSC08503.JPG "wikilink") [레졸루션급 잠수함](https://ko.wikipedia.org/wiki/레졸루션급_잠수함 "wikilink")\]\] [1958년 미영 상호방위조약으로](https://ko.wikipedia.org/wiki/1958년_미영_상호방위조약 "wikilink") 미국의 핵잠수함 원자로를 기술이전 받았다. 시험용 원자로를 [불칸 해군 원자로 시험 시설에](https://ko.wikipedia.org/wiki/불칸_해군_원자로_시험_시설 "wikilink") 설치했다. 60 MW 열출력이었다.
+[섬네일인](https://ko.wikipedia.org/wiki/파일:RAF_Museum_Cosford_-_DSC08503.JPG "wikilink") [레졸루션급 잠수함](../Page/레졸루션급_잠수함.md "wikilink")\]\] [1958년 미영 상호방위조약으로](https://ko.wikipedia.org/wiki/1958년_미영_상호방위조약 "wikilink") 미국의 핵잠수함 원자로를 기술이전 받았다. 시험용 원자로를 [불칸 해군 원자로 시험 시설에](https://ko.wikipedia.org/wiki/불칸_해군_원자로_시험_시설 "wikilink") 설치했다. 60 MW 열출력이었다.
 
 PWR1은 미국 웨스팅하우스 S5W 원자로와 같은 78 MWt 열출력이다.
 
   - [발리언트급 잠수함](https://ko.wikipedia.org/wiki/발리언트급_잠수함 "wikilink"), SSN
-  - [레졸루션급 잠수함](https://ko.wikipedia.org/wiki/레졸루션급_잠수함 "wikilink"), SSBN
+  - [레졸루션급 잠수함](../Page/레졸루션급_잠수함.md "wikilink"), SSBN
   - [처칠급 잠수함](https://ko.wikipedia.org/wiki/처칠급_잠수함 "wikilink"), SSN
   - [스위트프슈어급 잠수함](https://ko.wikipedia.org/wiki/스위트프슈어급_잠수함 "wikilink"), SSN
   - [트라팔가급 잠수함](https://ko.wikipedia.org/wiki/트라팔가급_잠수함 "wikilink"), SSN

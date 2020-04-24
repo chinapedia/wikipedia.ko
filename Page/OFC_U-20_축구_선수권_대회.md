@@ -38,7 +38,7 @@
 <em><a href="https://ko.wikipedia.org/wiki/1974년_OFC_U-20_축구_선수권_대회" title="wikilink">자세히</a></em></p></td>
 <td></td>
 <td><p><strong></strong></p></td>
-<td><p><strong>2 : 0</strong></p></td>
+<td><p><strong>2 – 0</strong></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -56,7 +56,7 @@
 <em><a href="https://ko.wikipedia.org/wiki/1980년_OFC_U-20_축구_선수권_대회" title="wikilink">자세히</a></em></p></td>
 <td></td>
 <td><p><strong></strong></p></td>
-<td><p><strong>2 : 0</strong></p></td>
+<td><p><strong>2 – 0</strong></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -65,7 +65,7 @@
 <em><a href="https://ko.wikipedia.org/wiki/1982년_OFC_U-20_축구_선수권_대회" title="wikilink">자세히</a></em></p></td>
 <td></td>
 <td><p><strong></strong></p></td>
-<td><p><strong>4 : 3</strong> <small>(<a href="../Page/연장전.md" title="wikilink">연장</a>)</small></p></td>
+<td><p><strong>4 – 3</strong> <small>(<a href="../Page/연장전.md" title="wikilink">연장</a>)</small></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -92,7 +92,7 @@
 <em><a href="https://ko.wikipedia.org/wiki/1988년_OFC_U-20_축구_선수권_대회" title="wikilink">자세히</a></em></p></td>
 <td></td>
 <td><p><strong></strong></p></td>
-<td><p><strong>1 : 0</strong></p></td>
+<td><p><strong>1 – 0</strong></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -119,7 +119,7 @@
 <em><a href="https://ko.wikipedia.org/wiki/1994년_OFC_U-20_축구_선수권_대회" title="wikilink">자세히</a></em></p></td>
 <td></td>
 <td><p><strong></strong></p></td>
-<td><p><strong>1 : 0</strong></p></td>
+<td><p><strong>1 – 0</strong></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -128,7 +128,7 @@
 <em><a href="https://ko.wikipedia.org/wiki/1997년_OFC_U-20_축구_선수권_대회" title="wikilink">자세히</a></em></p></td>
 <td></td>
 <td><p><strong></strong></p></td>
-<td><p><strong>2 : 1</strong></p></td>
+<td><p><strong>2 – 1</strong></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -137,7 +137,7 @@
 <em><a href="https://ko.wikipedia.org/wiki/1998년_OFC_U-20_축구_선수권_대회" title="wikilink">자세히</a></em></p></td>
 <td></td>
 <td><p><strong></strong></p></td>
-<td><p><strong>2 : 0</strong></p></td>
+<td><p><strong>2 – 0</strong></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -147,8 +147,8 @@
 <td><p><br />
 </p></td>
 <td><p><strong></strong></p></td>
-<td><p><strong>4 : 3</strong><br />
-<small>(합계 1 : 2, 3 : 1)</small></p></td>
+<td><p><strong>4 – 3</strong><br />
+<small>(합계 1 – 2, 3 – 1)</small></p></td>
 <td></td>
 <td><p>, </p></td>
 </tr>
@@ -158,8 +158,8 @@
 <td><p><br />
 </p></td>
 <td><p><strong></strong></p></td>
-<td><p><strong>15 : 0</strong><br />
-<small>(합계 11 : 0, 4 : 0)</small></p></td>
+<td><p><strong>15 – 0</strong><br />
+<small>(합계 11 – 0, 4 – 0)</small></p></td>
 <td></td>
 <td><p>, </p></td>
 </tr>
@@ -168,7 +168,7 @@
 <em><a href="https://ko.wikipedia.org/wiki/2005년_OFC_U-20_축구_선수권_대회" title="wikilink">자세히</a></em></p></td>
 <td></td>
 <td><p><strong></strong></p></td>
-<td><p><strong>3 : 0</strong></p></td>
+<td><p><strong>3 – 0</strong></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -195,7 +195,7 @@
 <em><a href="https://ko.wikipedia.org/wiki/2011년_OFC_U-20_축구_선수권_대회" title="wikilink">자세히</a></em></p></td>
 <td></td>
 <td><p><strong></strong></p></td>
-<td><p><strong>3 : 1</strong></p></td>
+<td><p><strong>3 – 1</strong></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -222,7 +222,7 @@
 <em><a href="https://ko.wikipedia.org/wiki/2016년_OFC_U-20_축구_선수권_대회" title="wikilink">자세히</a></em></p></td>
 <td></td>
 <td><p><strong></strong></p></td>
-<td><p><strong>5 : 0</strong></p></td>
+<td><p><strong>5 – 0</strong></p></td>
 <td></td>
 <td><p>, </p></td>
 </tr>
@@ -231,7 +231,7 @@
 <em><a href="https://ko.wikipedia.org/wiki/2018년_OFC_U-20_축구_선수권_대회" title="wikilink">자세히</a></em></p></td>
 <td></td>
 <td><p><strong></strong></p></td>
-<td><p><strong>1 : 0</strong></p></td>
+<td><p><strong>1 – 0</strong></p></td>
 <td></td>
 <td></td>
 </tr>

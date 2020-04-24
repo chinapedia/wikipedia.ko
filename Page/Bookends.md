@@ -5,7 +5,7 @@
 
 《Bookends》는 어린 시절부터 노년까지의 인생 여정을 탐구하는 [콘셉트 음반이다](https://ko.wikipedia.org/wiki/콘셉트_음반 "wikilink"). 이 음반의 첫 번째 측면은 인생의 연속된 단계를 나타내며, 테마는 인생의 순환에 대한 서적의 역할을 한다. 두 번째 측면은 주로 《졸업》 사운드트랙을 위한 사용되지 않은 자료로 구성된다. 사이먼의 가사는 젊음, 환멸, 관계, 노년, 사망에 관한 것이다. 이 작품의 대부분은 프로듀서 [존 사이먼](https://ko.wikipedia.org/wiki/존_사이먼 "wikilink")(관계 없음)과 함께 제작되었는데, 폴 사이먼은 [작가의 폐색으로](../Page/작가의_폐색.md "wikilink") 고통받았을 때 이 녹음 작업에 참여했다. 그 음반은 1년 동안 서서히 녹음되었고, 1967년 후반 무렵에는 생산이 빨라졌다.
 
-《Bookends》의 초기 판매량은 미국에서 상당했고 이 음반은 1위 싱글인 〈[Mrs. Robinson](https://ko.wikipedia.org/wiki/Mrs._Robinson "wikilink")〉을 프로듀싱했다. 이 음반은 [미국](../Page/미국.md "wikilink")과 [영국](../Page/영국.md "wikilink")에서 가장 잘 팔렸고, 그 곳에서 1위를 차지했다. 《Bookends》는 [비틀즈](../Page/비틀즈.md "wikilink"), [밥 딜런](../Page/밥_딜런.md "wikilink"), [롤링 스톤스](../Page/롤링_스톤스.md "wikilink") 같은 아티스트들을 [1960년대 반문화](https://ko.wikipedia.org/wiki/1960년대_반문화 "wikilink") 운동의 선두에 두면서 이 듀오에게 획기적인 사건으로 여겨졌다. 그 음반은 계속해서 비평가들로부터 갈채를 받았다.
+《Bookends》의 초기 판매량은 미국에서 상당했고 이 음반은 1위 싱글인 〈[Mrs. Robinson](https://ko.wikipedia.org/wiki/Mrs._Robinson "wikilink")〉을 프로듀싱했다. 이 음반은 [미국](../Page/미국.md "wikilink")과 [영국](../Page/영국.md "wikilink")에서 가장 잘 팔렸고, 그 곳에서 1위를 차지했다. 《Bookends》는 [비틀즈](../Page/비틀즈.md "wikilink"), [밥 딜런](../Page/밥_딜런.md "wikilink"), [롤링 스톤스](../Page/롤링_스톤스.md "wikilink") 같은 아티스트들을 [1960년대 반문화](../Page/1960년대_반문화.md "wikilink") 운동의 선두에 두면서 이 듀오에게 획기적인 사건으로 여겨졌다. 그 음반은 계속해서 비평가들로부터 갈채를 받았다.
 
 ## 배경
 

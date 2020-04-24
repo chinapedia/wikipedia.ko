@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [2018 CONCACAF ](https://ko.wikipedia.org/wiki/2018_CONCACAF_).
+> This article is converted from Wikipedia: [2018년 CONCACAF 챔피언스리그](https://ko.wikipedia.org/wiki/2018년_CONCACAF_챔피언스리그).
 
 
 **2018년 CONCACAF 챔피언스리그**(2018 CONCACAF Champions League)는 [2018년](../Page/2018년.md "wikilink") [2월 20일부터](../Page/2월_20일.md "wikilink") [4월 25일까지](../Page/4월_25일.md "wikilink") 개최된 [CONCACAF 챔피언스리그의](../Page/CONCACAF_챔피언스리그.md "wikilink") 53번째 대회이다.

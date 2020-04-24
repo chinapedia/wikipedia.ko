@@ -9,11 +9,11 @@
 
 프랑스의 핵 독트린은 "pre-strategic"이다. 완전한 전략 핵미사일 보다 한단계 낮은 준전략 핵미사일 정책이다.
 
-ASMP는 현재는 [MBDA](https://ko.wikipedia.org/wiki/MBDA "wikilink")에 합병된 [아에로스파시알](https://ko.wikipedia.org/wiki/아에로스파시알 "wikilink")에서 개발했으며, 6억 달러의 개발비가 들었다.
+ASMP는 현재는 [MBDA](../Page/MBDA.md "wikilink")에 합병된 [아에로스파시알](https://ko.wikipedia.org/wiki/아에로스파시알 "wikilink")에서 개발했으며, 6억 달러의 개발비가 들었다.
 
-1986년 5월 실전배치되었다. [다소 미라주 IV의](https://ko.wikipedia.org/wiki/다소_미라주_IV "wikilink") 무게 700 kg, 폭발력 70 kt [AN-22 자유낙하 핵폭탄](https://ko.wikipedia.org/wiki/AN-22_자유낙하_핵폭탄 "wikilink"), [쉬페르 에탕다르의](../Page/쉬페르_에탕다르.md "wikilink") 무게 455 kg, 폭발력 25 kt [AN-52](https://ko.wikipedia.org/wiki/AN-52 "wikilink") 핵폭탄을 대체했다. 84발이 생산되었다.
+1986년 5월 실전배치되었다. [다소 미라주 IV의](../Page/다소_미라주_IV.md "wikilink") 무게 700 kg, 폭발력 70 kt [AN-22 자유낙하 핵폭탄](https://ko.wikipedia.org/wiki/AN-22_자유낙하_핵폭탄 "wikilink"), [쉬페르 에탕다르의](../Page/쉬페르_에탕다르.md "wikilink") 무게 455 kg, 폭발력 25 kt [AN-52](https://ko.wikipedia.org/wiki/AN-52 "wikilink") 핵폭탄을 대체했다. 84발이 생산되었다.
 
-항공모함에서 [미라주 2000N](../Page/다소_미라주_2000.md "wikilink"), [라팔](https://ko.wikipedia.org/wiki/라팔 "wikilink"), [쉬페르 에탕다르가](../Page/쉬페르_에탕다르.md "wikilink") ASMP를 장착한다. [다소 미라주 IVP는](https://ko.wikipedia.org/wiki/다소_미라주_IV "wikilink") 1996년까지 ASMP를 장착했다.
+항공모함에서 [미라주 2000N](../Page/다소_미라주_2000.md "wikilink"), [라팔](https://ko.wikipedia.org/wiki/라팔 "wikilink"), [쉬페르 에탕다르가](../Page/쉬페르_에탕다르.md "wikilink") ASMP를 장착한다. [다소 미라주 IVP는](../Page/다소_미라주_IV.md "wikilink") 1996년까지 ASMP를 장착했다.
 
 1991년 미사일 90발과 핵탄두 80발이 생산되었다고 알려졌다. 2001년 60발이 배치되어 있다.
 

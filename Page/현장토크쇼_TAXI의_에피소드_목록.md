@@ -141,7 +141,7 @@
 | 94회                                                                                     | 7월 2일   | 명장면 하이라이트                                                                                                                       |
 | 95회                                                                                     | 7월 9일   | [유세윤](../Page/유세윤.md "wikilink"), [장동민](../Page/장동민.md "wikilink"), [유상무](../Page/유상무.md "wikilink") 1                          |
 | 96회                                                                                     | 7월 16일  | [유세윤](../Page/유세윤.md "wikilink"), [장동민](../Page/장동민.md "wikilink"), [유상무](../Page/유상무.md "wikilink") 2                          |
-| [신세경](../Page/신세경.md "wikilink"), [남지현](../Page/남지현_\(1995년\).md "wikilink")            |         |                                                                                                                                 |
+| [신세경](../Page/신세경.md "wikilink"), [남지현](../Page/남지현_\(배우\).md "wikilink")               |         |                                                                                                                                 |
 | 97회                                                                                     | 7월 23일  | [전유성](../Page/전유성.md "wikilink")                                                                                                |
 | 복싱 세계챔피언 [최현미](../Page/최현미.md "wikilink")                                               |         |                                                                                                                                 |
 | 98회                                                                                     | 7월 30일  | [크라잉넛](../Page/크라잉넛.md "wikilink")                                                                                              |
@@ -536,7 +536,7 @@
 <tr class="odd">
 <td><p>372회</p></td>
 <td><p>3월 24일</p></td>
-<td><p><a href="../Page/신아영.md" title="wikilink">신아영</a>, <a href="../Page/윤소희.md" title="wikilink">윤소희</a>, <a href="../Page/남지현_(1995년).md" title="wikilink">남지현</a></p></td>
+<td><p><a href="../Page/신아영.md" title="wikilink">신아영</a>, <a href="../Page/윤소희.md" title="wikilink">윤소희</a>, <a href="../Page/남지현_(배우).md" title="wikilink">남지현</a></p></td>
 </tr>
 <tr class="even">
 <td><p>373회</p></td>

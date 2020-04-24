@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [The Stranger \(\)](https://ko.wikipedia.org/wiki/The_Stranger_\(\)).
+> This article is converted from Wikipedia: [The Stranger \(노래\)](https://ko.wikipedia.org/wiki/The_Stranger_\(노래\)).
 
 
 〈**The Stranger**〉는 [미국](../Page/미국.md "wikilink")의 싱어송라이터 [빌리 조엘의](../Page/빌리_조엘.md "wikilink") 1977년 음반 《[The Stranger](../Page/The_Stranger.md "wikilink")》에 수록된 곡이다.\[1\] [일본](../Page/일본.md "wikilink")에서 싱글곡으로 발매된 이 곡은 [오리콘](../Page/오리콘.md "wikilink") 차트에서도 2위를 차지했고 [호주](https://ko.wikipedia.org/wiki/호주 "wikilink")에서도 차트 1위에 올랐다. 이 곡은 일본 음반의 마지막 싱글이었고 [미국](../Page/미국.md "wikilink")과 [영국](../Page/영국.md "wikilink")은 작년에 발매된 〈[She's Always a Woman](https://ko.wikipedia.org/wiki/She's_Always_a_Woman "wikilink")〉을 음반의 마지막 싱글로 보았다.

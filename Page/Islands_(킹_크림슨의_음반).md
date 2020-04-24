@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [Islands \(  \)](https://ko.wikipedia.org/wiki/Islands_\(__\)).
+> This article is converted from Wikipedia: [Islands \(킹 크림슨의 음반\)](https://ko.wikipedia.org/wiki/Islands_\(킹_크림슨의_음반\)).
 
 
-《**Islands**》는 1971년 12월에 [아일랜드 레코드에서](../Page/아일랜드_레코드.md "wikilink") 발매된 [영국](../Page/영국.md "wikilink")의 록 밴드 [킹 크림슨의](../Page/킹_크림슨.md "wikilink") 네 번째 스튜디오 음반이다. 《Islands》는 이 그룹의 3부작인 《[Larks' Tongues in Aspic](https://ko.wikipedia.org/wiki/Larks'_Tongues_in_Aspic "wikilink")》, 《[Starless and Bible Black](https://ko.wikipedia.org/wiki/Starless_and_Bible_Black "wikilink")》 그리고 《[Red](https://ko.wikipedia.org/wiki/Red_\(킹_크림슨의_음반\) "wikilink")》에 앞서 마지막 킹 크림슨의 스튜디오 음반이 될 것이다. 창단 멤버인 [피터 신필드의](https://ko.wikipedia.org/wiki/피터_신필드 "wikilink") 가사를 담은 마지막 음반이기도 하다.
+《**Islands**》는 1971년 12월에 [아일랜드 레코드에서](../Page/아일랜드_레코드.md "wikilink") 발매된 [영국](../Page/영국.md "wikilink")의 록 밴드 [킹 크림슨의](../Page/킹_크림슨.md "wikilink") 네 번째 스튜디오 음반이다. 《Islands》는 이 그룹의 3부작인 《[Larks' Tongues in Aspic](https://ko.wikipedia.org/wiki/Larks'_Tongues_in_Aspic "wikilink")》, 《[Starless and Bible Black](https://ko.wikipedia.org/wiki/Starless_and_Bible_Black "wikilink")》 그리고 《[Red](../Page/Red_\(킹_크림슨의_음반\).md "wikilink")》에 앞서 마지막 킹 크림슨의 스튜디오 음반이 될 것이다. 창단 멤버인 [피터 신필드의](https://ko.wikipedia.org/wiki/피터_신필드 "wikilink") 가사를 담은 마지막 음반이기도 하다.
 
 그 음반은 비평가들로부터 엇갈린 반응을 얻었다.
 

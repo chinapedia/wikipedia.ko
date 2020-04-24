@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [DGB](https://ko.wikipedia.org/wiki/DGB).
+> This article is converted from Wikipedia: [DGB대구은행파크](https://ko.wikipedia.org/wiki/DGB대구은행파크).
 
 
 **DGB대구은행파크**(DGB大邱銀行파크, )는 [대한민국](../Page/대한민국.md "wikilink") [대구광역시](../Page/대구광역시.md "wikilink") [북구](../Page/북구_\(대구광역시\).md "wikilink") [고성동](../Page/고성동.md "wikilink")3가에 있는 [축구전용구장이다](../Page/축구_경기장.md "wikilink"). [대구시민운동장 주경기장을](../Page/대구시민운동장.md "wikilink") [리모델링](https://ko.wikipedia.org/wiki/리모델링 "wikilink")하여 건설하였고, [2019년](../Page/2019년.md "wikilink")부터 [대구 FC의](../Page/대구_FC.md "wikilink") 홈 경기장으로 사용되고 있다.\[1\]

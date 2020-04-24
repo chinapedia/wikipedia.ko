@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ R](https://ko.wikipedia.org/wiki/_R).
+> This article is converted from Wikipedia: [토끼자리 R](https://ko.wikipedia.org/wiki/토끼자리_R).
 
 
 **토끼자리 R**은 하인드의 진홍빛 별로 알려진\[1\] [토끼자리](../Page/토끼자리.md "wikilink")에 있는 [변광성](../Page/변광성.md "wikilink")이다. 토끼자리 눈의 시선을 따라가면 [에리다누스자리](../Page/에리다누스자리.md "wikilink") 근처에서 볼 수 있는 이 별은 1845년 영국의 [천문학자](../Page/천문학자.md "wikilink")인 [존 러셀 하인드가](https://ko.wikipedia.org/wiki/존_러셀_하인드 "wikilink") 발견했다. [미라형 변광성에](../Page/미라형_변광성.md "wikilink") 속하는 이 별은 418일에서 441일 주기로 5.5등성에서 11.7등성까지 밝기가 변한다. 그 까닭은 이 별이 [적색 초거성에](https://ko.wikipedia.org/wiki/적색_초거성 "wikilink") 속하기 때문이라고 추정된다.

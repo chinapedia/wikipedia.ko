@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Horizontal timeline](https://ko.wikipedia.org/wiki/:Horizontal_timeline).
+> This article is converted from Wikipedia: [모듈:Horizontal timeline](https://ko.wikipedia.org/wiki/모듈:Horizontal_timeline).
 
 
 local horizontal_timeline = {};

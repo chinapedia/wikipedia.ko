@@ -7,33 +7,6 @@
 
 [2020년](../Page/2020년.md "wikilink") [1월 20일](../Page/1월_20일.md "wikilink"), 동년 2월에 사명을 「**주식회사 버널로섬**(, )」로 갱신, 국내의 AKB48 그룹의 운영에서 철수하고, 일본 국외의 9개 그룹과 [아이즈원](../Page/아이즈원.md "wikilink")의 운영을 실시하는 것을 발표했다\[1\].
 
-## 소속 탤런트
-
-### AKB48
-
-### [HKT48](../Page/HKT48.md "wikilink")
-
-### [NGT48](https://ko.wikipedia.org/wiki/NGT48 "wikilink")
-
-### [CGM48](https://ko.wikipedia.org/wiki/CGM48 "wikilink")
-
-  - [이즈타 리나](../Page/이즈타_리나.md "wikilink")
-
-### [아이즈원](../Page/아이즈원.md "wikilink")
-
-  - [권은비](../Page/권은비.md "wikilink")
-  - [미야와키 사쿠라](../Page/미야와키_사쿠라.md "wikilink")
-  - [강혜원](../Page/강혜원.md "wikilink")
-  - [최예나](../Page/최예나.md "wikilink")
-  - [이채연](https://ko.wikipedia.org/wiki/이채연 "wikilink")
-  - [김채원](https://ko.wikipedia.org/wiki/김채원 "wikilink")
-  - [김민주](https://ko.wikipedia.org/wiki/김민주 "wikilink")
-  - [야부키 나코](../Page/야부키_나코.md "wikilink")
-  - [혼다 히토미](../Page/혼다_히토미.md "wikilink")
-  - [조유리](../Page/조유리.md "wikilink")
-  - [안유진](../Page/안유진.md "wikilink")
-  - [장원영](https://ko.wikipedia.org/wiki/장원영 "wikilink")
-
 ## 각주
 
 <references/>

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Emotions \(  \)](https://ko.wikipedia.org/wiki/Emotions_\(__\)).
+> This article is converted from Wikipedia: [Emotions \(머라이어 캐리의 음반\)](https://ko.wikipedia.org/wiki/Emotions_\(머라이어_캐리의_음반\)).
 
 
 《**Emotions**》는 1991년 9월 17일에 발매한 [머라이어 캐리의](../Page/머라이어_캐리.md "wikilink") 두 번째 정규 음반이다.

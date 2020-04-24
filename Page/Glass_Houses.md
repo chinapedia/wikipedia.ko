@@ -11,9 +11,9 @@
 
 <!-- end list -->
 
-1.  〈[You May Be Right](https://ko.wikipedia.org/wiki/You_May_Be_Right "wikilink")〉 – 4:15
+1.  〈[You May Be Right](../Page/You_May_Be_Right.md "wikilink")〉 – 4:15
 2.  〈[Sometimes a Fantasy](https://ko.wikipedia.org/wiki/Sometimes_a_Fantasy "wikilink")〉 – 3:40
-3.  〈[Don't Ask Me Why](https://ko.wikipedia.org/wiki/Don't_Ask_Me_Why "wikilink")〉 – 2:59
+3.  〈[Don't Ask Me Why](../Page/Don't_Ask_Me_Why.md "wikilink")〉 – 2:59
 4.  〈[It's Still Rock and Roll to Me](https://ko.wikipedia.org/wiki/It's_Still_Rock_and_Roll_to_Me "wikilink")〉 – 2:57
 5.  〈[All for Leyna](../Page/All_for_Leyna.md "wikilink")〉 – 4:15
 

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ M. ](https://ko.wikipedia.org/wiki/_M._).
+> This article is converted from Wikipedia: [수잔나 M. 솔터](https://ko.wikipedia.org/wiki/수잔나_M._솔터).
 
 
 <table>

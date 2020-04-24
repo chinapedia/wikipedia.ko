@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [   CONMEBOL](https://ko.wikipedia.org/wiki/___CONMEBOL).
+> This article is converted from Wikipedia: [코파 마스테르 데 CONMEBOL](https://ko.wikipedia.org/wiki/코파_마스테르_데_CONMEBOL).
 
 
 **코파 마스테르 데 CONMEBOL**(, )은 [1996년](../Page/1996년.md "wikilink") [2월 8일부터](../Page/2월_8일.md "wikilink") [2월 12일까지](../Page/2월_12일.md "wikilink") [브라질](../Page/브라질.md "wikilink") [쿠이아바](../Page/쿠이아바.md "wikilink")에서 열린 클럽 축구 대회로 [남미 축구 연맹](../Page/남미_축구_연맹.md "wikilink")(CONMEBOL)이 대회를 주관했다. 4차례에 걸쳐 열린 [코파 CONMEBOL](../Page/코파_CONMEBOL.md "wikilink") 시즌에서 우승을 차지한 4개 팀이 참가했다. 브라질의 [상파울루가](../Page/상파울루_FC.md "wikilink") 결승전에서 브라질의 [아틀레치쿠 미네이루를](../Page/아틀레치쿠_미네이루.md "wikilink") 3-0으로 누르고 우승을 차지했다.

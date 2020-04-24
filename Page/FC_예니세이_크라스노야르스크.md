@@ -5,6 +5,6 @@
 
 ## 외부 링크
 
-  - [공식 홈페이지](http://www.fc-enisey.ru/)
+  - [공식 홈페이지](https://web.archive.org/web/20150318014956/http://www.fc-enisey.ru/)
 
 [분류:러시아의 축구단](https://ko.wikipedia.org/wiki/분류:러시아의_축구단 "wikilink") [분류:1937년 설립된 축구단](https://ko.wikipedia.org/wiki/분류:1937년_설립된_축구단 "wikilink")

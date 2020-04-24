@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Black Sabbath \(\)](https://ko.wikipedia.org/wiki/Black_Sabbath_\(\)).
+> This article is converted from Wikipedia: [Black Sabbath \(음반\)](https://ko.wikipedia.org/wiki/Black_Sabbath_\(음반\)).
 
 
 《**Black Sabbath**》는 [영국](../Page/영국.md "wikilink")의 록 밴드 [블랙 사바스의](../Page/블랙_사바스.md "wikilink") 데뷔 스튜디오 음반이다. 1970년 2월 13일 영국에서, 1970년 6월 1일 미국에서 발매된 이 음반은 [영국 음반 차트에서](https://ko.wikipedia.org/wiki/영국_음반_차트 "wikilink") 8위, 《[빌보드](../Page/빌보드.md "wikilink")》 차트에서 23위에 올랐다. 《Black Sabbath》는 [헤비 메탈](../Page/헤비_메탈.md "wikilink") 첫 번째 음반으로 널리 알려져 있다. 게다가, 이 음반의 오프닝 곡인 〈[Black Sabbath](https://ko.wikipedia.org/wiki/Black_Sabbath_\(노래\) "wikilink")〉는 첫 번째 [둠 메탈](https://ko.wikipedia.org/wiki/둠_메탈 "wikilink") 곡으로 널리 알려져 있다.\[1\]

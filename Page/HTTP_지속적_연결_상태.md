@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [HTTP   ](https://ko.wikipedia.org/wiki/HTTP___).
+> This article is converted from Wikipedia: [HTTP 지속적 연결 상태](https://ko.wikipedia.org/wiki/HTTP_지속적_연결_상태).
 
 
 **HTTP 지속적 연결 상태**, **HTTP 영구 접속**(HTTP persistent connection) 또는 **HTTP 킵얼라이브**(HTTP keep-alive), **HTTP 연결 재사용**(HTTP connection reuse)은 하나의 [TCP](../Page/전송_제어_프로토콜.md "wikilink") 연결을 사용하여 복수의 [HTTP 요청](../Page/HTTP.md "wikilink")/응답을 주고받는다는 개념으로, 매 요청/응답 쌍마다 새로운 요청을 여는 것과는 반대되는 개념이다. 더 새로운 [HTTP/2](https://ko.wikipedia.org/wiki/HTTP/2 "wikilink") 프로토콜은 동일한 개념을 사용하며 더 나아가 하나의 연결 복수의 동시 요청/응답을 다중화하는 것이 가능하다.

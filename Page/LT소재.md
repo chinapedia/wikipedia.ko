@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [LT소재](https://ko.wikipedia.org/wiki/LT소재).
 
 
-**LT소재 주식회사**()는 [희성그룹](https://ko.wikipedia.org/wiki/희성그룹 "wikilink") 계열의 전자부품 접합재료 제조 기업이다.
+**LT소재 주식회사**()는 [LT그룹](https://ko.wikipedia.org/wiki/LT그룹 "wikilink") 계열의 전자부품 접합재료 제조 기업이다.
 
 ## 연혁
 
@@ -13,11 +13,11 @@
   - [2012년](../Page/2012년.md "wikilink") [5월](../Page/5월.md "wikilink") 용인 본사 OLED 연구소 설립
   - [2013년](../Page/2013년.md "wikilink") [9월](../Page/9월.md "wikilink") 용인 본사 OLED 연구소 착공
   - [2014년](../Page/2014년.md "wikilink") [10월](../Page/10월.md "wikilink") 용인 본사 OLED 연구소 준공
-  - [2018년](../Page/2018년.md "wikilink") [12월](../Page/12월.md "wikilink") 회사 명칭을 LT소재 주식회사로 변경.
+  - [2019년](../Page/2019년.md "wikilink") [1월](../Page/1월.md "wikilink") 회사 명칭을 LT소재 주식회사로 변경.
 
 ## 제품
 
   - 디지털 접합 재료
   - MCCL, LED 리드프레임 생산
 
-[분류:대한민국의 기업](https://ko.wikipedia.org/wiki/분류:대한민국의_기업 "wikilink") [분류:대한민국의 제조 기업](https://ko.wikipedia.org/wiki/분류:대한민국의_제조_기업 "wikilink") [분류:2005년 설립된 기업](https://ko.wikipedia.org/wiki/분류:2005년_설립된_기업 "wikilink") [분류:희성그룹](https://ko.wikipedia.org/wiki/분류:희성그룹 "wikilink")
+[분류:대한민국의 기업](https://ko.wikipedia.org/wiki/분류:대한민국의_기업 "wikilink") [분류:대한민국의 제조 기업](https://ko.wikipedia.org/wiki/분류:대한민국의_제조_기업 "wikilink") [분류:2005년 설립된 기업](https://ko.wikipedia.org/wiki/분류:2005년_설립된_기업 "wikilink") [분류:LT그룹](https://ko.wikipedia.org/wiki/분류:LT그룹 "wikilink")

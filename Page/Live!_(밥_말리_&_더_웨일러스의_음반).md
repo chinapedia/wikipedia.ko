@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Live! \(  \&   \)](https://ko.wikipedia.org/wiki/Live!_\(__\&___\)).
+> This article is converted from Wikipedia: [Live! \(밥 말리 \& 더 웨일러스의 음반\)](https://ko.wikipedia.org/wiki/Live!_\(밥_말리_\&_더_웨일러스의_음반\)).
 
 
 《**Live\!**》는 1975년 7월 [런던](../Page/런던.md "wikilink") [라이시엄 극장에서](https://ko.wikipedia.org/wiki/라이시엄_극장_\(런던\) "wikilink") 콘서트에서 라이브로 녹음된 [밥 말리 & 더 웨일러스의](../Page/밥_말리_&_더_웨일러스.md "wikilink") 1975년 음반이다. 이 공연은 말리의 가장 유명한 공연 중 하나이고, 〈[No Woman, No Cry](https://ko.wikipedia.org/wiki/No_Woman,_No_Cry "wikilink")〉는 싱글로 발매되었다.
@@ -11,10 +11,10 @@
 
 ## 발매
 
-이 음반은 1975년 12월 5일 아일랜드 레코드에 의해 바이닐 LP로 발매되었다. 2001년에 이 음반은 CD로 발매되었다. 2016년 7월 17일과 18일 공연 모두 녹음된 《Live\! Deluxe Edition》라는 3개의 디스크 릴리즈가 축음기 음반과 CD 형태로 출시되었다.
+이 음반은 1975년 12월 5일 아일랜드 레코드에 의해 바이닐 LP로 발매되었다. 2001년에 이 음반은 CD로 발매되었다. 2016년 7월 17일과 18일 공연 모두 녹음된 《Live\! Deluxe Edition》라는 3개의 디스크 릴리즈가 축음기 음반과 CD 형태로 발매되었다.
 
 ## 곡 목록
 
 ## 외부 링크
 
-[분류:1975년 라이브 음반](https://ko.wikipedia.org/wiki/분류:1975년_라이브_음반 "wikilink") [분류:밥 말리 & 더 웨일러스의 음반](https://ko.wikipedia.org/wiki/분류:밥_말리_&_더_웨일러스의_음반 "wikilink") [분류:아일랜드 레코드 음반](https://ko.wikipedia.org/wiki/분류:아일랜드_레코드_음반 "wikilink")
+[분류:1975년 라이브 음반](https://ko.wikipedia.org/wiki/분류:1975년_라이브_음반 "wikilink") [분류:밥 말리 & 더 웨일러스의 라이브 음반](https://ko.wikipedia.org/wiki/분류:밥_말리_&_더_웨일러스의_라이브_음반 "wikilink") [분류:아일랜드 레코드 음반](https://ko.wikipedia.org/wiki/분류:아일랜드_레코드_음반 "wikilink")

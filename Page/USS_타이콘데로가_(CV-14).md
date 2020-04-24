@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [USS  \(CV-14\)](https://ko.wikipedia.org/wiki/USS__\(CV-14\)).
+> This article is converted from Wikipedia: [USS 타이콘데로가 \(CV-14\)](https://ko.wikipedia.org/wiki/USS_타이콘데로가_\(CV-14\)).
 
 
 **USS 타이콘데로가 (CV-14)**는 [미국 해군의](../Page/미국_해군.md "wikilink") [에식스급 항공모함이다](../Page/에식스급_항공모함.md "wikilink").

@@ -32,5 +32,5 @@
 
 1.  [전소미](https://ko.wikipedia.org/wiki/소미 "wikilink"),[김세정](https://ko.wikipedia.org/wiki/세정 "wikilink"),[최유정](../Page/최유정_\(가수\).md "wikilink"),[청하](../Page/청하_\(가수\).md "wikilink"),[강미나](../Page/미나_\(1999년\).md "wikilink") 외 90명도 앨범 참여.
 2.  최초의 OST 앨범.
-3.  [빅톤의](../Page/빅톤_\(음악_그룹\).md "wikilink") 두 멤버 [한승우](../Page/한승우_\(가수\).md "wikilink"),[최병찬](https://ko.wikipedia.org/wiki/최병찬 "wikilink"),[유니크의](../Page/유니크_\(음악_그룹\).md "wikilink") 멤버 [조승연](https://ko.wikipedia.org/wiki/조승연 "wikilink"),[인투잇](../Page/인투잇.md "wikilink")의 멤버 [성현](../Page/인투잇.md "wikilink") 외 96명도 앨범 참여.
+3.  [빅톤의](../Page/빅톤_\(음악_그룹\).md "wikilink") 두 멤버 [한승우](../Page/한승우_\(가수\).md "wikilink"),[최병찬](../Page/최병찬.md "wikilink"),[유니크의](../Page/유니크_\(음악_그룹\).md "wikilink") 멤버 [조승연](https://ko.wikipedia.org/wiki/조승연 "wikilink"),[인투잇](../Page/인투잇.md "wikilink")의 멤버 [성현](../Page/인투잇.md "wikilink") 외 96명도 앨범 참여.
 4.  [Erik](https://ko.wikipedia.org/wiki/Erik "wikilink")도 앨범 참여.

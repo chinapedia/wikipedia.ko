@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  TV](https://ko.wikipedia.org/wiki/__TV).
+> This article is converted from Wikipedia: [한국인이 좋아하는 TV프로그램](https://ko.wikipedia.org/wiki/한국인이_좋아하는_TV프로그램).
 
 
 **한국인이 좋아하는 TV프로그램**은 [대한민국](../Page/대한민국.md "wikilink")의 [한국갤럽조사연구소](https://ko.wikipedia.org/wiki/한국갤럽조사연구소 "wikilink")에서 선정하여 발표하는 [텔레비전](../Page/텔레비전.md "wikilink") [방송 프로그램을](https://ko.wikipedia.org/wiki/방송_프로그램 "wikilink") 포함되고 있다. [2013년](../Page/2013년.md "wikilink") [1월](../Page/1월.md "wikilink")부터 시작하였다.
@@ -631,7 +631,6 @@
   - 8위 [우리집 꿀단지](../Page/우리집_꿀단지.md "wikilink")
   - 9위 [1박 2일](../Page/1박_2일.md "wikilink")
   - 10위 [내일도 승리](../Page/내일도_승리.md "wikilink")
-  - [슈퍼맨이 돌아왔다](../Page/슈퍼맨이_돌아왔다.md "wikilink")
 
 <!-- end list -->
 
@@ -817,7 +816,7 @@
   - 6위 [불어라 미풍아](../Page/불어라_미풍아.md "wikilink")
   - 7위 [빛나라 은수](../Page/빛나라_은수.md "wikilink")
   - 8위 [그것이 알고싶다](../Page/그것이_알고싶다.md "wikilink")
-  - 9위[아는 형님](../Page/아는_형님.md "wikilink")
+  - 9위 [아는 형님](../Page/아는_형님.md "wikilink")
   - 10위 [김과장](https://ko.wikipedia.org/wiki/김과장 "wikilink")
 
 <!-- end list -->

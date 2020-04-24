@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ : STAR](https://ko.wikipedia.org/wiki/_:_STAR).
+> This article is converted from Wikipedia: [꿈의 장: STAR](https://ko.wikipedia.org/wiki/꿈의_장:_STAR).
 
 
 《**꿈의 장: STAR**》는 2019년 3월 4일에 발매된 [투모로우바이투게더](../Page/투모로우바이투게더.md "wikilink")의 데뷔 음반이자 첫 번째 미니 음반이다.\[1\]

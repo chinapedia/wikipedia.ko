@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [USS   \(CVN-71\)](https://ko.wikipedia.org/wiki/USS___\(CVN-71\)).
+> This article is converted from Wikipedia: [USS 시어도어 루스벨트 \(CVN-71\)](https://ko.wikipedia.org/wiki/USS_시어도어_루스벨트_\(CVN-71\)).
 
 
 **USS 시어도어 루스벨트 (CVN-71)**는 미국 해군의 [니미츠급 항공모함의](../Page/니미츠급_항공모함.md "wikilink") 4번함이다.
@@ -10,6 +10,12 @@
 1984년에 진수되었다. 1991년 [걸프전](https://ko.wikipedia.org/wiki/걸프전 "wikilink")에 참전했다.
 
 2017년 10월, 북핵위기가 고조되자, [부산항](../Page/부산항.md "wikilink")에 있는 [USS 로널드 레이건 (CVN-76)](../Page/USS_로널드_레이건_\(CVN-76\).md "wikilink") 외에 [USS 니미츠 (CVN-68)](../Page/USS_니미츠_\(CVN-68\).md "wikilink"), USS 시어도어 루스벨트 (CVN-71)가 동해에 왔다.
+
+## 코로나19
+
+2020년 3월 30일, 브렛 크로지어 함장(해군 대령)이 [미국 국방부에](../Page/미국_국방부.md "wikilink") [코로나19](https://ko.wikipedia.org/wiki/코로나19 "wikilink")에 감염된 선원을 하선시켜달라고 4쪽 짜리 긴급 보고서를 올렸다. 24일 승무원 3명의 첫 감염 확인 이후 일주일 만에 200여명이 의심 증상을 보이고 있다. 현재 [괌](../Page/괌.md "wikilink")에 정박 중인 루스벨트호에는 해군 장병뿐 아니라 비행사와 해병대 등 5000여명이 타고 있는데, 제한되고 좁은 공간에서 일하는 근무환경 때문에 확진자가 빠르게 증가하고 있다. 함장은 승무원 90%가 감염될 것이라고 보았다.
+
+4월 1일, [토머스 모들리](https://ko.wikipedia.org/wiki/토머스_모들리 "wikilink") 미 해군장관 대행은 미 국방부 기자들과 만나 루스벨트호에서 1000명 정도의 승조원이 하선했으며 2700명 정도를 수일 내에 하선시킬 것이라고 말했다. 장관대행은 함장이 보고서를 국방부에 보낸 것은 큰 문제는 없지만, 언론에 유출한 것은 지휘체계를 무시한 범죄라고, 처벌가능성을 언급했다.
 
 ## 더 보기
 

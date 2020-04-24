@@ -27,7 +27,7 @@
   - [박상민](../Page/박상민_\(배우\).md "wikilink")·[원빈](../Page/원빈.md "wikilink")(2000)
   - [김갑수](../Page/김갑수_\(배우\).md "wikilink")·[김호진](../Page/김호진_\(배우\).md "wikilink")(2001)
   - [박용하](../Page/박용하.md "wikilink")·[조민기](../Page/조민기.md "wikilink")(2002)
-  - [김승수](https://ko.wikipedia.org/wiki/김승수 "wikilink")·[박용우](../Page/박용우.md "wikilink")(2003)
+  - [김승수](../Page/김승수_\(배우\).md "wikilink")·[박용우](../Page/박용우.md "wikilink")(2003)
   - [소지섭](../Page/소지섭.md "wikilink")·[정지훈](../Page/비_\(가수\).md "wikilink")(2004)
   - [손현주](../Page/손현주.md "wikilink")·[송일국](../Page/송일국.md "wikilink")·[엄태웅](../Page/엄태웅.md "wikilink")(2005)
   - [고주원](../Page/고주원.md "wikilink")·[김진태](../Page/김진태_\(배우\).md "wikilink")(2006)

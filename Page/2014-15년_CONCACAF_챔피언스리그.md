@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [2014-15 CONCACAF ](https://ko.wikipedia.org/wiki/2014-15_CONCACAF_).
+> This article is converted from Wikipedia: [2014-15년 CONCACAF 챔피언스리그](https://ko.wikipedia.org/wiki/2014-15년_CONCACAF_챔피언스리그).
 
 
 **2014-15년 CONCACAF 챔피언스리그**(2014-15 CONCACAF Champions League)는 [2014년](../Page/2014년.md "wikilink") [8월 5일부터](../Page/8월_5일.md "wikilink") [2015년](../Page/2015년.md "wikilink") [4월 29일까지](../Page/4월_29일.md "wikilink") 개최된 [CONCACAF 챔피언스리그의](../Page/CONCACAF_챔피언스리그.md "wikilink") 50번째 대회이다. [멕시코](../Page/멕시코.md "wikilink")의 [아메리카가](../Page/클루브_아메리카.md "wikilink") 결승전에서 [캐나다](../Page/캐나다.md "wikilink")의 [몬트리올 임팩트를](../Page/몬트리올_임팩트.md "wikilink") 누르고 우승을 차지했다.

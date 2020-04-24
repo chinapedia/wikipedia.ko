@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [COMEBACK SHOW - BTS DNA](https://ko.wikipedia.org/wiki/COMEBACK_SHOW_-_BTS_DNA).
 
 
-**COMEBACK SHOW - BTS DNA**()는 [Mnet](https://ko.wikipedia.org/wiki/Mnet "wikilink")에서 [2017년](../Page/2017년.md "wikilink") [9월 21일](../Page/9월_21일.md "wikilink") 방송된 [방탄소년단](../Page/방탄소년단.md "wikilink")의 컴백 쇼이다. 국내는 물론 전 세계 80개국에서 [유튜브](../Page/유튜브.md "wikilink"), Mwave, VIKI, iflix, Toggle, Mnet Smart, iQiyi를 통해 전 세계에 동시 생중계 되었다.\[1\]\[2\]
+**COMEBACK SHOW - BTS DNA**()는 [Mnet](https://ko.wikipedia.org/wiki/Mnet "wikilink")에서 [2017년](../Page/2017년.md "wikilink") [9월 21일에](../Page/9월_21일.md "wikilink") 방송된 [대한민국](../Page/대한민국.md "wikilink")의 [보이그룹](https://ko.wikipedia.org/wiki/보이그룹 "wikilink") [방탄소년단](../Page/방탄소년단.md "wikilink")의 컴백 쇼이다. 국내는 물론 전 세계 80개국에서 [유튜브](../Page/유튜브.md "wikilink"), Mwave, VIKI, iflix, Toggle, Mnet Smart, 그리고 iQiyi를 통해 전 세계에 동시 생중계 되었다.\[1\]\[2\]
 
 ## 개요
 
@@ -24,7 +24,7 @@
 ## 출연자
 
   - [방탄소년단](../Page/방탄소년단.md "wikilink")
-      - [RM](https://ko.wikipedia.org/wiki/RM_\(가수\) "wikilink")
+      - [RM](../Page/RM_\(래퍼\).md "wikilink")
       - [슈가](https://ko.wikipedia.org/wiki/슈가_\(래퍼\) "wikilink")
       - [진](../Page/진_\(가수\).md "wikilink")
       - [제이홉](../Page/제이홉.md "wikilink")

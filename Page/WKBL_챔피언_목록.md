@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [WKBL  ](https://ko.wikipedia.org/wiki/WKBL__).
+> This article is converted from Wikipedia: [WKBL 챔피언 목록](https://ko.wikipedia.org/wiki/WKBL_챔피언_목록).
 
 
 [한국여자프로농구](https://ko.wikipedia.org/wiki/한국여자프로농구 "wikilink") (WKBL) [챔피언 결정전은](https://ko.wikipedia.org/wiki/WKBL_챔피언_결정전 "wikilink") WKBL의 포스트시즌 챔피언을 가리기 위한 대회이다. 출범 이후 2000년 여름리그까지는 3전 2선승제로 열렸으며, 2001년 겨울리그부터는 5전 3선승제로 열리고 있다. 플레이오프가 시행되기 전인 2000년 겨울리그까지는 정규리그 1{{·}}2위 팀이 그대로 챔피언 결정전을 치렀다. 2000년 여름리그부터 2011-12 시즌까지는 정규리그 1{{·}}4위 플레이오프와 2{{·}}3위 플레이오프 승리팀이 챔피언 결정전을 치렀다. 2013-14 시즌부터는 정규리그 1위가 챔피언 결정전에 직행하고 2{{·}}3위 팀이 플레이오프를 통해 챔피언 결정전 진출팀을 가린다. (2012-13 시즌의 경우에는 3{{·}}4위간 준플레이오프 승리팀이 2위 팀과 플레이오프를 치렀다.)
@@ -142,6 +142,6 @@
 ## 관련 문서
 
   - [WKBL 챔피언 결정전](https://ko.wikipedia.org/wiki/WKBL_챔피언_결정전 "wikilink")
-  - [WKBL 챔피언 결정전 MVP](https://ko.wikipedia.org/wiki/WKBL_챔피언_결정전_MVP "wikilink")
+  - [WKBL 챔피언 결정전 MVP](../Page/WKBL_챔피언_결정전_MVP.md "wikilink")
 
 [분류:한국여자농구연맹](https://ko.wikipedia.org/wiki/분류:한국여자농구연맹 "wikilink")

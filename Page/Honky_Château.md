@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Honky Chteau](https://ko.wikipedia.org/wiki/Honky_Chteau).
+> This article is converted from Wikipedia: [Honky Château](https://ko.wikipedia.org/wiki/Honky_Château).
 
 
 《**Honky Château**》는 1972년에 발매된 [엘튼 존이](../Page/엘튼_존.md "wikilink") 발표한 다섯 번째 스튜디오 음반이다. 그 음반은 18세기 [프랑스](../Page/프랑스.md "wikilink") 성당 [샤토 드 에후빌의](https://ko.wikipedia.org/wiki/샤토_드_에후빌 "wikilink") 이름을 따서 지은 것이다. 이 음반은 [미국](../Page/미국.md "wikilink")에서 1위에 올랐는데, 엘튼 존의 7집 연속 1위 음반 중 첫 번째 음반이다.\[1\]

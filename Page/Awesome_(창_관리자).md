@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Awesome \( \)](https://ko.wikipedia.org/wiki/Awesome_\(_\)).
+> This article is converted from Wikipedia: [Awesome \(창 관리자\)](https://ko.wikipedia.org/wiki/Awesome_\(창_관리자\)).
 
 
 **awesome**은 [C](../Page/C_\(프로그래밍_언어\).md "wikilink"), [루아](../Page/루아_\(프로그래밍_언어\).md "wikilink") 프로그래밍 언어로 개발된 [X 윈도 시스템용](../Page/X_윈도_시스템.md "wikilink") [동적 창 관리자이다](https://ko.wikipedia.org/wiki/동적_창_관리자 "wikilink"). 루아는 또한 창 관리자의 구성 및 확장을 위해 사용된다. 개발은 [dwm](https://ko.wikipedia.org/wiki/dwm "wikilink")의 포크로 시작되었다.\[1\] 매우 작고 빠르지만 사용자 지정을 통한 확장도 가능한 것을 목적으로 한다. 사용자가 키보드를 사용하여 창을 관리할 수 있게 만들어준다.

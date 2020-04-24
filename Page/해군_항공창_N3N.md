@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  N3N](https://ko.wikipedia.org/wiki/__N3N).
+> This article is converted from Wikipedia: [해군 항공창 N3N](https://ko.wikipedia.org/wiki/해군_항공창_N3N).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:N3N_USMC_over_Parris_Island_1942.jpg "wikilink") 상공의 미국 해병대 N3N-3 (\!942년)\]\] **해군 항공창 N3N**(Naval Aircraft Factory N3N)은 미국의 탠덤 시트, 오픈 콕핏(열린 조종석)이 있는 [복엽기](https://ko.wikipedia.org/wiki/복엽기 "wikilink")의 하나로, 1930년대 동안 미국 [펜실베이니아주](../Page/펜실베이니아주.md "wikilink") [필라델피아](../Page/필라델피아.md "wikilink")의 [해군 항공창](https://ko.wikipedia.org/wiki/해군_항공창 "wikilink")(NAF)에 의해 제조되었다.

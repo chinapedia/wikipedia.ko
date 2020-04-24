@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [BTS 카운트다운](https://ko.wikipedia.org/wiki/BTS_카운트다운).
 
 
-**BTS 카운트다운**()는 [Mnet](https://ko.wikipedia.org/wiki/Mnet "wikilink")에서 [2017년](../Page/2017년.md "wikilink") [10월 12일](../Page/10월_12일.md "wikilink") 방송된 [음악](../Page/음악.md "wikilink") [프로그램](https://ko.wikipedia.org/wiki/프로그램 "wikilink")이다.
+**BTS 카운트다운**()는 [Mnet](https://ko.wikipedia.org/wiki/Mnet "wikilink")에서 2017년 10월 12일 방송된 [음악](../Page/음악.md "wikilink") [프로그램](https://ko.wikipedia.org/wiki/프로그램 "wikilink")이다.
 
 ## 개요
 
@@ -18,7 +18,7 @@
 ## 출연자
 
   - [방탄소년단](../Page/방탄소년단.md "wikilink")
-      - [RM](https://ko.wikipedia.org/wiki/RM_\(가수\) "wikilink")
+      - [RM](../Page/RM_\(래퍼\).md "wikilink")
       - [슈가](https://ko.wikipedia.org/wiki/슈가_\(래퍼\) "wikilink")
       - [진](../Page/진_\(가수\).md "wikilink")
       - [제이홉](../Page/제이홉.md "wikilink")

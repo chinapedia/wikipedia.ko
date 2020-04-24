@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ DAYS](https://ko.wikipedia.org/wiki/_DAYS).
+> This article is converted from Wikipedia: [지와루 DAYS](https://ko.wikipedia.org/wiki/지와루_DAYS).
 
 
 〈**지와루 DAYS**〉()는 [AKB48](../Page/AKB48.md "wikilink")의 55번째 싱글이다. 타이틀 곡의 센터 포지션은 [사시하라 리노가](../Page/사시하라_리노.md "wikilink") 맡는다.

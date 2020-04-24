@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Love \(  \)](https://ko.wikipedia.org/wiki/Love_\(__\)).
+> This article is converted from Wikipedia: [Love \(존 레논의 노래\)](https://ko.wikipedia.org/wiki/Love_\(존_레논의_노래\)).
 
 
 〈**Love**〉는 [존 레논이](../Page/존_레논.md "wikilink") 작곡하고 공연한 곡으로, 원래는 《[John Lennon/Plastic Ono Band](https://ko.wikipedia.org/wiki/John_Lennon/Plastic_Ono_Band "wikilink")》(1970년)에 발매되었다. 이 곡의 주제는 음반에 있는 대부분의 노래들보다 더 긍정적이다.\[1\]

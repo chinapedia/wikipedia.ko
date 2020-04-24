@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TBC TV ](https://ko.wikipedia.org/wiki/TBC_TV_).
+> This article is converted from Wikipedia: [TBC TV 지정석](https://ko.wikipedia.org/wiki/TBC_TV_지정석).
 
 
 **TBC TV 지정석**은 TBC ([동양방송](../Page/동양방송.md "wikilink"))에서 1964년 12월 13일부터 1965년 5월 6일까지 방영된 주간 단막극이다.

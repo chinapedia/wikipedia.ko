@@ -40,7 +40,7 @@
   - [Official Binary Releases](https://github.com/htacg/tidy-html5/releases)
   - [HTML Tidy Project Page](http://tidy.sourceforge.net/) (legacy)
   - [HTML Tidy Online](https://htmltidy.net/)
-  - [HTML Tidy service](https://cgi.w3.org/cgi-bin/tidy) an online version of W3C's HTML checker (warning: outdated)
+  - [HTML Tidy service](https://web.archive.org/web/20021003090153/http://cgi.w3.org/cgi-bin/tidy) an online version of W3C's HTML checker (warning: outdated)
   - [Mozilla/Firefox extension for HTML validation based on Tidy](http://users.skynet.be/mgueury/mozilla/)
   - [Tidy PHP extension](http://lukaszwrobel.pl/blog/tidying-up-html-code-with-tidy-php-extension) overview
   - [HTML Tidy for Windows, Batch Files for the Command Prompt](https://tidybatchfiles.info/)

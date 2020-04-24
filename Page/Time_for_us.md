@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [Time for us](https://ko.wikipedia.org/wiki/Time_for_us).
 
 
-《**Time for us**》(타임 포 어스)는 대한민국의 걸 그룹 [여자친구의](../Page/여자친구_\(음악_그룹\).md "wikilink") 두 번째 [정규 음반이다](../Page/정규_음반.md "wikilink"). 타이틀 곡은 〈[해야 (Sunrise)](https://ko.wikipedia.org/wiki/해야_\(Sunrise\) "wikilink")〉로, [2019년](../Page/2019년.md "wikilink") [1월 14일](../Page/1월_14일.md "wikilink") [카카오M에서](../Page/카카오엠.md "wikilink") 발매되었다.
+《**Time for us**》(타임 포 어스)는 대한민국의 걸 그룹 [여자친구의](../Page/여자친구_\(음악_그룹\).md "wikilink") 두 번째 [정규 음반이다](../Page/정규_음반.md "wikilink"). 타이틀 곡은 〈[해야 (Sunrise)](../Page/해야_\(Sunrise\).md "wikilink")〉로, [2019년](../Page/2019년.md "wikilink") [1월 14일](../Page/1월_14일.md "wikilink") [카카오M에서](../Page/카카오엠.md "wikilink") 발매되었다.
 
 ## 개요
 
   - 전 음반 《[Sunny Summer](../Page/Sunny_Summer.md "wikilink")》 이후로 6개월, 전 정규 음반 《[LOL](../Page/LOL_\(여자친구의_음반\).md "wikilink")》 이후로 2년 6개월 만에 발매되는 음반이다. 《[Time for the moon night](../Page/Time_for_the_moon_night.md "wikilink")》와 이어지는 서사를 지니고 있다.
   - Daytime, Daybreak, Midnight의 세 가지 버전이 먼저 발매되고, 나중에 한정판 버전이 발매되었다.
-  - 타이틀 곡 〈[해야 (Sunrise)](https://ko.wikipedia.org/wiki/해야_\(Sunrise\) "wikilink")〉는 2018년 추석에 받은 곡으로, 당시에는 타이틀 곡으로 예정된 것은 아니었다.\[1\] 이후 쏘스뮤직 대표인 소성진의 의견에 따라 타이틀 곡으로 선정되었으며, 원래 타이틀 곡으로 예정되었던 노래는 이번 음반에 실리지 않았다.\[2\]
+  - 타이틀 곡 〈[해야 (Sunrise)](../Page/해야_\(Sunrise\).md "wikilink")〉는 2018년 추석에 받은 곡으로, 당시에는 타이틀 곡으로 예정된 것은 아니었다.\[1\] 이후 쏘스뮤직 대표인 소성진의 의견에 따라 타이틀 곡으로 선정되었으며, 원래 타이틀 곡으로 예정되었던 노래는 이번 음반에 실리지 않았다.\[2\]
   - 2번 트랙 〈You are not alone〉은 힘들 때 손을 잡아주겠다는 희망적인 내용의 곡으로\[3\], 2017년에 처음 녹음하였다.\[4\]
   - 9번 트랙 〈겨울, 끝 (It's You)〉은 겨울의 분위기를 담아낸 곡으로\[5\], 원제는 〈여름, 끝〉이었으나 제목과 함께 가사 일부가 바뀌었다.\[6\]
   - 10번 트랙 〈A Starry Sky〉는 “버디에게 전하는 듯한 가사”\[7\]의 곡으로, 팬송에 해당한다.

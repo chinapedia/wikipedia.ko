@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [보잉 EA-18G 그라울러](https://ko.wikipedia.org/wiki/보잉_EA-18G_그라울러).
 
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:US.NAVY_EA-18G\(No.166931\)_ALQ-99F_TJS_of_VAQ-141_at_MCAS_IWAKUNI_20150503.JPG "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:US.NAVY_EA-18G\(No.166942\)_ALQ-218\(V\)2_of_VAQ-135_at_MCAS_IWAKUNI_20150503-02.JPG "wikilink") **보잉 EA-18G 그라울러**는 미국 해군의 항공모함용 전자전기이다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:US.NAVY_EA-18G\(No.166931\)_ALQ-99F_TJS_of_VAQ-141_at_MCAS_IWAKUNI_20150503.JPG "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:US.NAVY_EA-18G\(No.166942\)_ALQ-218\(V\)2_of_VAQ-135_at_MCAS_IWAKUNI_20150503-02.JPG "wikilink") **보잉 EA-18G 그라울러**(Boeing EA-18G Growler)는 F/A-18F 슈퍼 호넷의 전문화 기종으로 미국 해군의 항공모함용 전자전기이다. EA-18G는 미국 해군의 [노스럽 그러먼 EA-6B 프라울러의](../Page/노스럽_그러먼_EA-6B_프라울러.md "wikilink") 역할을 대체했다.
 
 ## 역사
 

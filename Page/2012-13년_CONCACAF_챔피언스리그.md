@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [2012-13 CONCACAF ](https://ko.wikipedia.org/wiki/2012-13_CONCACAF_).
+> This article is converted from Wikipedia: [2012-13년 CONCACAF 챔피언스리그](https://ko.wikipedia.org/wiki/2012-13년_CONCACAF_챔피언스리그).
 
 
 **2012-13년 CONCACAF 챔피언스리그**(2012-13 CONCACAF Champions League)는 [2012년](../Page/2012년.md "wikilink") [7월 31일부터](../Page/7월_31일.md "wikilink") [2013년](../Page/2013년.md "wikilink") [5월 1일까지](../Page/5월_1일.md "wikilink") 개최된 [CONCACAF 챔피언스리그의](../Page/CONCACAF_챔피언스리그.md "wikilink") 48번째 대회이다. [멕시코](../Page/멕시코.md "wikilink")의 [몬테레이가](../Page/CF_몬테레이.md "wikilink") 결승전에서 [멕시코](../Page/멕시코.md "wikilink")의 [산토스 라구나를](https://ko.wikipedia.org/wiki/산토스_라구나 "wikilink") 누르고 우승을 차지했다.

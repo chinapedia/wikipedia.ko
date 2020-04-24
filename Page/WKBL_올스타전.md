@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [WKBL ](https://ko.wikipedia.org/wiki/WKBL_).
+> This article is converted from Wikipedia: [WKBL 올스타전](https://ko.wikipedia.org/wiki/WKBL_올스타전).
 
 
 **WKBL 올스타전**(WKBL All-Star Game)은 [한국여자프로농구](https://ko.wikipedia.org/wiki/한국여자프로농구 "wikilink") 시즌 중에 개최되는 친선 경기이다. 2002년 2월 1일 서울 [장충체육관](../Page/장충체육관.md "wikilink")에서 첫 올스타전이 개최되었다.
@@ -51,7 +51,7 @@
 <td><p><strong>남부 106</strong>, 중부 94</p></td>
 <td><p><a href="../Page/용인실내체육관.md" title="wikilink">용인실내체육관</a></p></td>
 <td><p>경기도 용인시</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/로런_잭슨" title="wikilink">잭슨</a>, 용인 삼성생명 비추미</p></td>
+<td><p><a href="../Page/로런_잭슨.md" title="wikilink">잭슨</a>, 용인 삼성생명 비추미</p></td>
 </tr>
 <tr class="even">
 <td><p>2007-08</p></td>
@@ -125,19 +125,19 @@
 <td><p>강아정 (2), 청주 KB 스타즈</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/WKBL_올스타전_2017-18" title="wikilink">2017-18</a></p></td>
+<td><p><a href="../Page/WKBL_올스타전_2017-18.md" title="wikilink">2017-18</a></p></td>
 <td><p>핑크스타 100, 블루스타 100 (무승부)</p></td>
 <td><p><a href="../Page/도원실내체육관.md" title="wikilink">도원실내체육관</a></p></td>
 <td><p>인천광역시</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/구슬_(농구_선수)" title="wikilink">구슬</a>, <a href="https://ko.wikipedia.org/wiki/구리_KDB생명_위너스" title="wikilink">구리 KDB생명 위너스</a><br />
+<td><p><a href="../Page/구슬_(농구_선수).md" title="wikilink">구슬</a>, <a href="https://ko.wikipedia.org/wiki/구리_KDB생명_위너스" title="wikilink">구리 KDB생명 위너스</a><br />
 커리 (3), 청주 KB 스타즈</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/WKBL_올스타전_2018-19" title="wikilink">2018-19</a></p></td>
+<td><p><a href="../Page/WKBL_올스타전_2018-19.md" title="wikilink">2018-19</a></p></td>
 <td><p><strong>블루스타 103</strong>, 핑크스타 93</p></td>
 <td><p>장충체육관 (5)</p></td>
 <td><p>서울특별시*</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/강이슬_(농구_선수)" title="wikilink">강이슬</a>, <a href="https://ko.wikipedia.org/wiki/부천_KEB하나은행_여자_농구단" title="wikilink">부천 KEB하나은행</a></p></td>
+<td><p><a href="../Page/강이슬_(농구_선수).md" title="wikilink">강이슬</a>, <a href="https://ko.wikipedia.org/wiki/부천_KEB하나은행_여자_농구단" title="wikilink">부천 KEB하나은행</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/WKBL_올스타전_2019-20" title="wikilink">2019-20</a></p></td>
@@ -200,7 +200,7 @@
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/한국여자프로농구_2005" title="wikilink">2005</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/WKBL_올스타전_2005" title="wikilink">서울특별시</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/한채진" title="wikilink">한채진</a>^</p></td>
+<td><p><a href="../Page/한채진.md" title="wikilink">한채진</a>^</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/안산_신한은행_에스버드" title="wikilink">안산 신한은행 에스버드</a></p></td>
 <td></td>
 </tr>
@@ -256,14 +256,14 @@
 <tr class="even">
 <td></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/WKBL_올스타전_2014-15" title="wikilink">충청북도 청주시</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/박하나_(농구_선수)" title="wikilink">박하나</a>^</p></td>
+<td><p><a href="../Page/박하나_(농구_선수).md" title="wikilink">박하나</a>^</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/용인_삼성생명_블루밍스" title="wikilink">용인 삼성생명 블루밍스</a> (3)</p></td>
 <td><p>15 / 30</p></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/WKBL_올스타전_2015-16" title="wikilink">충청남도 당진시</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/박하나_(농구_선수)" title="wikilink">박하나</a>^ (2)</p></td>
+<td><p><a href="../Page/박하나_(농구_선수).md" title="wikilink">박하나</a>^ (2)</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/용인_삼성생명_블루밍스" title="wikilink">용인 삼성생명 블루밍스</a> (4)</p></td>
 <td><p>17 / 30</p></td>
 </tr>
@@ -276,22 +276,22 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/WKBL_올스타전_2017-18" title="wikilink">인천광역시</a></p></td>
+<td><p><a href="../Page/WKBL_올스타전_2017-18.md" title="wikilink">인천광역시</a></p></td>
 <td><p><a href="../Page/박혜진_(농구_선수).md" title="wikilink">박혜진</a>^ (3)</p></td>
 <td><p><a href="../Page/아산_우리은행_위비.md" title="wikilink">아산 우리은행 위비</a> (4)</p></td>
 <td><p>21 / 30</p></td>
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/WKBL_올스타전_2018-19" title="wikilink">서울특별시</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/강이슬_(농구_선수)" title="wikilink">강이슬</a>^</p></td>
+<td><p><a href="../Page/WKBL_올스타전_2018-19.md" title="wikilink">서울특별시</a></p></td>
+<td><p><a href="../Page/강이슬_(농구_선수).md" title="wikilink">강이슬</a>^</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/부천_KEB하나은행" title="wikilink">부천 KEB하나은행</a> (4)</p></td>
 <td><p>15 / 30</p></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/WKBL_올스타전_2019-20" title="wikilink">부산광역시</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/강이슬_(농구_선수)" title="wikilink">강이슬</a>^ (2)</p></td>
+<td><p><a href="../Page/강이슬_(농구_선수).md" title="wikilink">강이슬</a>^ (2)</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/부천_KEB하나은행" title="wikilink">부천 KEB하나은행</a> (5)</p></td>
 <td><p>18 / 30</p></td>
 </tr>
@@ -304,8 +304,8 @@
 | --------------------------------------------------------------------- | ------------------------------------------ | ------ |
 | [2015-16](https://ko.wikipedia.org/wiki/WKBL_올스타전_2015-16 "wikilink") | [최윤아](../Page/최윤아_\(농구_선수\).md "wikilink") | 34,326 |
 | [2016-17](https://ko.wikipedia.org/wiki/WKBL_올스타전_2016-17 "wikilink") | [김단비](../Page/김단비_\(1990년\).md "wikilink") | 4,303  |
-| [2017-18](https://ko.wikipedia.org/wiki/WKBL_올스타전_2017-18 "wikilink") | 김단비                                        | 4,073  |
-| [2018-19](https://ko.wikipedia.org/wiki/WKBL_올스타전_2018-19 "wikilink") | 김단비                                        | 8,070  |
+| [2017-18](../Page/WKBL_올스타전_2017-18.md "wikilink")                    | 김단비                                        | 4,073  |
+| [2018-19](../Page/WKBL_올스타전_2018-19.md "wikilink")                    | 김단비                                        | 8,070  |
 | [2019-20](https://ko.wikipedia.org/wiki/WKBL_올스타전_2019-20 "wikilink") | 김단비                                        | 12,756 |
 
 ## 외부 링크

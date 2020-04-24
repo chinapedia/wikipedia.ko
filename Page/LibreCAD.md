@@ -3,7 +3,7 @@
 
 **리브레캐드**(LibreCAD)는 2D 설계를 위한 자유 [CAD](https://ko.wikipedia.org/wiki/CAD "wikilink") (Computer-Aided Design) [응용프로그램](https://ko.wikipedia.org/wiki/응용프로그램 "wikilink")이다. [리눅스](../Page/리눅스.md "wikilink"), [macOS](https://ko.wikipedia.org/wiki/macOS "wikilink") , [유닉스](../Page/유닉스.md "wikilink") 및 [윈도우](../Page/마이크로소프트_윈도우.md "wikilink") 운영 체제에서 작동한다.\[1\]\[2\]
 
-LibreCAD는 큐캐드 커뮤니티 에디션(QCad Community Edition) 의 포크로 개발되었었다. LibreCAD의 GUI 는 Qt4 라이브러리를 기반으로하므로 동일한 방식으로 여러 플랫폼 에서 실행된다.\[3\]\[4\]
+LibreCAD는 큐캐드 커뮤니티 에디션(QCad Community Edition)의 포크로 개발되었었다. LibreCAD의 GUI 는 Qt4 라이브러리를 기반으로하므로 동일한 방식으로 여러 플랫폼 에서 실행된다.\[3\]\[4\]
 
 대부분의 인터페이스 및 핸들 개념은 [AutoCAD](https://ko.wikipedia.org/wiki/AutoCAD "wikilink") 와 유사하므로 이러한 유형의 상업용 CAD 응용프로그램을 사용하는 사용자가 쉽게 사용할 수 있다.
 

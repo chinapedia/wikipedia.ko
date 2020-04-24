@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Michelle \(\)](https://ko.wikipedia.org/wiki/Michelle_\(\)).
+> This article is converted from Wikipedia: [Michelle \(노래\)](https://ko.wikipedia.org/wiki/Michelle_\(노래\)).
 
 
 〈**Michelle**〉은 1965년 12월에 그들의 음반 《[Rubber Soul](../Page/Rubber_Soul.md "wikilink")》로 발매된 [영국](../Page/영국.md "wikilink")의 록 밴드 [비틀즈](../Page/비틀즈.md "wikilink")의 노래다. 이 노래는 주로 [폴 매카트니가](../Page/폴_매카트니.md "wikilink") 작곡한 곡으로, 8중창은 [존 레논과](../Page/존_레논.md "wikilink") 함께 작곡했다. 그 노래는 가사의 일부를 [프랑스어](../Page/프랑스어.md "wikilink")로 부른 러브 [발라드다](../Page/발라드_\(문학\).md "wikilink").

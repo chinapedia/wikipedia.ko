@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Vienna \(  \)](https://ko.wikipedia.org/wiki/Vienna_\(__\)).
+> This article is converted from Wikipedia: [Vienna \(빌리 조엘의 노래\)](https://ko.wikipedia.org/wiki/Vienna_\(빌리_조엘의_노래\)).
 
 
 〈**Vienna**〉는 [빌리 조엘의](../Page/빌리_조엘.md "wikilink") 1977년 음반 《[The Stranger](../Page/The_Stranger.md "wikilink")》에 수록된 곡으로 〈Just the Way You Are〉의 [B-사이드로](https://ko.wikipedia.org/wiki/A-사이드와_B-사이드 "wikilink") 발매되었다.

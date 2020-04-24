@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Pop \(U2 \)](https://ko.wikipedia.org/wiki/Pop_\(U2_\)).
+> This article is converted from Wikipedia: [Pop \(U2의 음반\)](https://ko.wikipedia.org/wiki/Pop_\(U2의_음반\)).
 
 
 《**Pop**》은 [아일랜드](../Page/아일랜드.md "wikilink")의 록 밴드 [U2](../Page/U2.md "wikilink")의 아홉 번째 스튜디오 음반이다. 프로듀싱은 [플러드](https://ko.wikipedia.org/wiki/플러드_\(프로듀서\) "wikilink"), [호위 비](https://ko.wikipedia.org/wiki/호위_비 "wikilink"), [스티브 오스본이](https://ko.wikipedia.org/wiki/스티브_오스본 "wikilink") 맡았고, 1997년 3월 3일 [아일랜드 레코드에서](../Page/아일랜드_레코드.md "wikilink") 발매되었다. 이 음반은 1990년대 음악적 재창조의 연속이었고, 이들이 자신들의 음악에 [얼터너티브 록](../Page/얼터너티브_록.md "wikilink"), [테크노](https://ko.wikipedia.org/wiki/테크노 "wikilink"), [댄스](https://ko.wikipedia.org/wiki/일렉트로닉_댄스_뮤직 "wikilink"), 그리고 [일렉트로니카](https://ko.wikipedia.org/wiki/일렉트로니카 "wikilink") 영향을 통합시켰다. 《Pop》은 [샘플링](https://ko.wikipedia.org/wiki/샘플링 "wikilink"), [루프](https://ko.wikipedia.org/wiki/루프 "wikilink"), [프로그래밍](https://ko.wikipedia.org/wiki/프로그래밍 "wikilink") [드럼 머신](https://ko.wikipedia.org/wiki/드럼_머신 "wikilink"), [시퀀서](https://ko.wikipedia.org/wiki/시퀀서 "wikilink") 등 U2에 비해 상대적으로 새로운 다양한 생산 기법을 사용했다.

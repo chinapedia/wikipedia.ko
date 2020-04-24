@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Kontsert](https://ko.wikipedia.org/wiki/Kontsert).
 
 
-《**Kontsert**》(러시아어: 《**Концерт**》, 일반적으로 《**Kohupt**》, 영어: Concert)는 [빌리 조엘이](../Page/빌리_조엘.md "wikilink") 1987년에 발매한 두 번째 라이브 음반이다. 이 음반은 조엘의 1987년 《[The Bridge](https://ko.wikipedia.org/wiki/The_Bridge "wikilink")》 투어의 [소련](../Page/소련.md "wikilink") 구간에서 녹음되었다. 이 음반은 짐 보이어와 브라이언 러글스가 공동 프로듀싱했고, 짐 보이어도 함께 혼합되었다.
+《**Kontsert**》(러시아어: 《**Концерт**》, 일반적으로 《**Kohupt**》, 영어: Concert)는 [빌리 조엘이](../Page/빌리_조엘.md "wikilink") 1987년에 발매한 두 번째 라이브 음반이다. 이 음반은 조엘의 1987년 《[The Bridge](../Page/The_Bridge.md "wikilink")》 투어의 [소련](../Page/소련.md "wikilink") 구간에서 녹음되었다. 이 음반은 짐 보이어와 브라이언 러글스가 공동 프로듀싱했고, 짐 보이어도 함께 혼합되었다.
 
 ## 배경
 
@@ -47,7 +47,7 @@
 4.  "[Only the Good Die Young](https://ko.wikipedia.org/wiki/Only_the_Good_Die_Young "wikilink")" – 3:32
 5.  "[It's Still Rock and Roll to Me](https://ko.wikipedia.org/wiki/It's_Still_Rock_and_Roll_to_Me "wikilink")" – 4:00
 6.  "[Sometimes a Fantasy](https://ko.wikipedia.org/wiki/Sometimes_a_Fantasy "wikilink")" – 3:38
-7.  "[You May Be Right](https://ko.wikipedia.org/wiki/You_May_Be_Right "wikilink")" – 5:35
+7.  "[You May Be Right](../Page/You_May_Be_Right.md "wikilink")" – 5:35
 8.  "[Uptown Girl](https://ko.wikipedia.org/wiki/Uptown_Girl "wikilink")" – 3:09
 9.  "[Big Shot](https://ko.wikipedia.org/wiki/Big_Shot_\(노래\) "wikilink")" – 4:54
 10. "[Back in the U.S.S.R.](https://ko.wikipedia.org/wiki/Back_in_the_U.S.S.R. "wikilink")" ([레논-매카트니](../Page/레논-매카트니.md "wikilink")) – 2:55
@@ -74,7 +74,7 @@
 10. "[Only the Good Die Young](https://ko.wikipedia.org/wiki/Only_the_Good_Die_Young "wikilink")"
 11. "[It's Still Rock and Roll to Me](https://ko.wikipedia.org/wiki/It's_Still_Rock_and_Roll_to_Me "wikilink")"
 12. "[Sometimes a Fantasy](https://ko.wikipedia.org/wiki/Sometimes_a_Fantasy "wikilink")"
-13. "[You May Be Right](https://ko.wikipedia.org/wiki/You_May_Be_Right "wikilink")"
+13. "[You May Be Right](../Page/You_May_Be_Right.md "wikilink")"
 14. "[Uptown Girl](https://ko.wikipedia.org/wiki/Uptown_Girl "wikilink")"
 15. "[Big Shot](https://ko.wikipedia.org/wiki/Big_Shot_\(노래\) "wikilink")"
 16. "[Back in the U.S.S.R.](https://ko.wikipedia.org/wiki/Back_in_the_U.S.S.R. "wikilink")"

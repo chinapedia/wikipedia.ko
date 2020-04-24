@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ E. ](https://ko.wikipedia.org/wiki/_E._).
+> This article is converted from Wikipedia: [시드니 E. 알스트롬](https://ko.wikipedia.org/wiki/시드니_E._알스트롬).
 
 
 *'시드니 E. 알스트럼 **(Sydney Eckman Ahlstrom,** *'1919년 12월 16일 - 1984년 7월 3 일)은 [미국](../Page/미국.md "wikilink")의 [교육자](https://ko.wikipedia.org/wiki/교육자 "wikilink")이자 [역사가](https://ko.wikipedia.org/wiki/역사가 "wikilink")였다. 그는 [예일 대학교](../Page/예일_대학교.md "wikilink") 교수이자 미국 [종교사](https://ko.wikipedia.org/wiki/종교사 "wikilink") 의 전문가였다. 미국의 많은 제자가 있으며 한국의 [백낙준](../Page/백낙준.md "wikilink") 박사도 그의 제자이다.
@@ -12,6 +12,10 @@
 그는 [미국 예술 과학 아카데미에서](https://ko.wikipedia.org/wiki/미국_예술_과학_아카데미 "wikilink") 1978년 연구원으로 선출되었다.\[4\] 1979년에는 종교 분야에서 가장 뛰어난 책에 대한 수상으로 [크리스챤 센츄리](https://ko.wikipedia.org/wiki/크리스챤_센츄리 "wikilink") 상을 받았다.
 
 1984년 예일대학교에서 은퇴한 후에 그는 미국 역사와 현대 종교 역사 사무엘 나이트 교수직을 가지고 있었다. 1984년 7월 3일에 [코네티컷](https://ko.wikipedia.org/wiki/코네티컷 "wikilink")  [뉴 헤이븐에서](../Page/뉴헤이븐.md "wikilink") 죽었다.
+
+### 주된 인용글
+
+\[5\]
 
 ## 저서 
 
@@ -45,3 +49,4 @@
 2.  ["National Book Awards – 1973"](https://www.nationalbook.org/awards-prizes/national-book-awards-1973). \[//en.wikipedia.org/wiki/National_Book_Foundation National Book Foundation\]. Retrieved 2012-03-08.
 3.
 4.
+5.

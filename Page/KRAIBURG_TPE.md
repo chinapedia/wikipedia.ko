@@ -3,7 +3,7 @@
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:KTPE_Official_Logo.jpg "wikilink")
 
-**KRAIBURG TPE**(크라이버그 TPE) 는 열가소성 엘라스토머를 생산하는 글로벌 제조사이며 독일, 말레이시아, 그리고 미국에 각각 지점을 두고있다.\[1\]
+**KRAIBURG TPE**(크라이버그 TPE)는 열가소성 엘라스토머를 생산하는 글로벌 제조사이며 독일, 말레이시아, 그리고 미국에 각각 지점을 두고있다.\[1\]
 
 ## 역사
 

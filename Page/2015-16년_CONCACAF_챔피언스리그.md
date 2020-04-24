@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [2015-16 CONCACAF ](https://ko.wikipedia.org/wiki/2015-16_CONCACAF_).
+> This article is converted from Wikipedia: [2015-16년 CONCACAF 챔피언스리그](https://ko.wikipedia.org/wiki/2015-16년_CONCACAF_챔피언스리그).
 
 
 **2015-16년 CONCACAF 챔피언스리그**(2015-16 CONCACAF Champions League)는 [2015년](../Page/2015년.md "wikilink") [8월 4일부터](../Page/8월_4일.md "wikilink") [2016년](../Page/2016년.md "wikilink") [4월 27일까지](../Page/4월_27일.md "wikilink") 개최된 [CONCACAF 챔피언스리그의](../Page/CONCACAF_챔피언스리그.md "wikilink") 51번째 대회이다. [멕시코](../Page/멕시코.md "wikilink")의 [아메리카가](../Page/클루브_아메리카.md "wikilink") 결승전에서 [멕시코](../Page/멕시코.md "wikilink")의 [티그레스 UANL을](../Page/티그레스_UANL.md "wikilink") 누르고 우승을 차지했다.

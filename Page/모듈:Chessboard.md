@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Chessboard](https://ko.wikipedia.org/wiki/:Chessboard).
+> This article is converted from Wikipedia: [모듈:Chessboard](https://ko.wikipedia.org/wiki/모듈:Chessboard).
 
 
 local p = {}

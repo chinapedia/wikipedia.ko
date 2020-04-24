@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FA  ](https://ko.wikipedia.org/wiki/FA__).
+> This article is converted from Wikipedia: [FA 여자 챔피언십](https://ko.wikipedia.org/wiki/FA_여자_챔피언십).
 
 
 **FA 여자 챔피언십**()은 [잉글랜드](../Page/잉글랜드.md "wikilink")의 2부 [여자 축구](../Page/여자_축구.md "wikilink") 리그이다. 11개 팀이 참가하며, 상위 리그로는 [FA 여자 슈퍼리그](../Page/FA_여자_슈퍼리그.md "wikilink")(FA Women's Super League), 하위 리그로는 [FA 여자 내셔널리그](https://ko.wikipedia.org/wiki/FA_여자_내셔널리그 "wikilink")(FA Women's National League)가 있다. [2014년](../Page/2014년.md "wikilink") [잉글랜드 축구 협회](../Page/축구협회_\(잉글랜드\).md "wikilink")(The FA)에 의해 **FA 여자 슈퍼리그2**(FA Women's Super League 2, **FA WSL 2**)라는 이름으로 설립되었으며, [2018년](../Page/2018년.md "wikilink")에 지금과 같은 이름으로 바뀌었다.

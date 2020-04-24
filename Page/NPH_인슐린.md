@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [NPH ](https://ko.wikipedia.org/wiki/NPH_).
+> This article is converted from Wikipedia: [NPH 인슐린](https://ko.wikipedia.org/wiki/NPH_인슐린).
 
 
 **NPH 인슐린**은 intermediate–acting insulin 이며 천천히 인슐린이 서서히 배출되도록 하는 것이다. isophane insuline이라고도 한다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Rainbow \(  \)](https://ko.wikipedia.org/wiki/Rainbow_\(__\)).
+> This article is converted from Wikipedia: [Rainbow \(머라이어 캐리의 음반\)](https://ko.wikipedia.org/wiki/Rainbow_\(머라이어_캐리의_음반\)).
 
 
 《**Rainbow**》는 1999년 11월 2일에 발매한 [머라이어 캐리의](../Page/머라이어_캐리.md "wikilink") 여섯 번째 정규 음반이다.

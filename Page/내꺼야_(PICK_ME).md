@@ -7,7 +7,7 @@
 
 [대한민국](../Page/대한민국.md "wikilink")의 음악 방송 [Mnet](https://ko.wikipedia.org/wiki/Mnet "wikilink") 《[엠카운트다운](https://ko.wikipedia.org/wiki/엠카운트다운 "wikilink")》에서 음원 공개 당일에 맞춘 [2018년](../Page/2018년.md "wikilink") [5월 10일](../Page/5월_10일.md "wikilink") 방송분에서 처음으로 공개되었다. (사전 녹화는 [2018년](../Page/2018년.md "wikilink") [4월 22일이다](../Page/4월_22일.md "wikilink").)\[2\].
 
-2018년 7월 14일에는 피아노 버전이 발매됐다. 10월 29일에 발매된 [아이즈원](../Page/아이즈원.md "wikilink")의 데뷔 음반 《[COLOR\*IZ](../Page/COLOR*IZ.md "wikilink")》에는 CD에 한해서 아이즈원의 멤버로 새롭게 불려진 버전의 곡이 수록되어 있다.
+2018년 7월 14일에는 피아노 버전이 발매됐다. 10월 29일에 발매된 [아이즈원](../Page/아이즈원.md "wikilink")의 데뷔 음반 《[COLOR\*IZ](../Page/COLOR*IZ.md "wikilink")》에는 CD에 한해서 아이즈원의 멤버로 새롭게 불린 버전의 곡이 수록되어 있다.
 
 ## 수록 내용
 

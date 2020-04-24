@@ -21,7 +21,7 @@
 
 미키의 평행 우주판 [도플갱어](https://ko.wikipedia.org/wiki/도플갱어 "wikilink")의 이름은 '리키'이다. 이는 시즌 1 초반에서 [9대 닥터가](../Page/9대_닥터.md "wikilink") [미키를](../Page/미키_스미스.md "wikilink") 두고 이름을 잘못 부르며 놀리던 것과 연관이 있다.
 
-에피소드 초반에 타디스가 추락한 장면에서 가스마스크 여섯 개가 천장에서 떨어져 나온다. 이는 (<닥터 후> TV판 기준으로) 타디스를 조종하는 데 총 여섯 명이 필요하다는 것을 보여준 첫번째 증거다. 이후 "[Journey's End](https://ko.wikipedia.org/wiki/Journey's_End "wikilink")"에서는 닥터가 직접 그렇다고 말하며, 여섯 명의 등장인물이 타디스를 안정적으로 조종하는 모습까지 나온다. 노숙자들을 업그레이드하기 위해 수송하는 트럭에 사이버스 공업이 쓴 사명은 '인터내셔널 일렉트로매틱스'인데, 이는 올드 시즌의 \<[The Invasion](https://ko.wikipedia.org/wiki/The_Invasion_\(Doctor_Who\) "wikilink")\> (1968년)에서 사이버맨의 기업명으로 나온 바 있다. 카디프에서 촬영한 장면의 배경에 런던의 명물들을 넣었는데 그중에 보이는 [세인트 폴 대성당](https://ko.wikipedia.org/wiki/세인트_폴_대성당 "wikilink") 역시 <The Invasion>에서 사이버맨들이 행진하는 장면의 배경으로 등장한 바 있다.
+에피소드 초반에 타디스가 추락한 장면에서 가스마스크 여섯 개가 천장에서 떨어져 나온다. 이는 (<닥터 후> TV판 기준으로) 타디스를 조종하는 데 총 여섯 명이 필요하다는 것을 보여준 첫번째 증거다. 이후 "[Journey's End](https://ko.wikipedia.org/wiki/Journey's_End "wikilink")"에서는 닥터가 직접 그렇다고 말하며, 여섯 명의 등장인물이 타디스를 안정적으로 조종하는 모습까지 나온다. 노숙자들을 업그레이드하기 위해 수송하는 트럭에 사이버스 공업이 쓴 사명은 '인터내셔널 일렉트로매틱스'인데, 이는 올드 시즌의 \<[The Invasion](https://ko.wikipedia.org/wiki/The_Invasion_\(Doctor_Who\) "wikilink")\> (1968년)에서 사이버맨의 기업명으로 나온 바 있다. 카디프에서 촬영한 장면의 배경에 런던의 명물들을 넣었는데 그중에 보이는 [세인트 폴 대성당](../Page/세인트_폴_대성당.md "wikilink") 역시 <The Invasion>에서 사이버맨들이 행진하는 장면의 배경으로 등장한 바 있다.
 
 닥터가 파티장에서 턱시도를 입은 모습은 이후 에피소드에서도 몇 번 등장한다. "[The Lazarus Experiment](https://ko.wikipedia.org/wiki/The_Lazarus_Experiment "wikilink")"에서는 라자러스 박사가 만든 기계의 실체를 파헤치기 위해 턱시도를 다시 입는다. 그리고는 [마사 존스에게](https://ko.wikipedia.org/wiki/마사_존스 "wikilink") 뭔가 나쁜 일이 생길 때면 항상 이걸 입는다고 말한다. "[Voyage of the Damned](https://ko.wikipedia.org/wiki/Voyage_of_the_Damned "wikilink")"에서는 타이타닉 우주선이 공격받아 우주로 돌진하기 직전에 배 위로 오를 때 입었다.
 

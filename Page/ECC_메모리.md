@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ECC ](https://ko.wikipedia.org/wiki/ECC_).
+> This article is converted from Wikipedia: [ECC 메모리](https://ko.wikipedia.org/wiki/ECC_메모리).
 
 
 [300px은](https://ko.wikipedia.org/wiki/파일:Micron_PC2700_DDR_ECC_REG.JPG "wikilink") 일반적으로 각 면에 9개의 메모리 칩이 있으며 보통 각 측면에 여덟 개의 메모리 칩이 있는 비 ECC DIMM보다 각 측면에 한 개 더 많은 메모리 칩이 있는 것이다.(일부 모듈은 5개 또는 18개가 있을 수 있다)\[1\]\]\]

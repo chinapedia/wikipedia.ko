@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [TOMORROW X TOGETHER Debut Celebration Show presented by Mnet](https://ko.wikipedia.org/wiki/TOMORROW_X_TOGETHER_Debut_Celebration_Show_presented_by_Mnet).
 
 
-**TOMORROW X TOGETHER Debut Celebration Show presented by Mnet** ()은 [엠넷](../Page/엠넷.md "wikilink")에서 [2019년](../Page/2019년.md "wikilink") [3월 4일에](../Page/3월_4일.md "wikilink") 방송하는 [투모로우바이투게더](../Page/투모로우바이투게더.md "wikilink")의 데뷔 특집 방송이다.\[1\]
+**TOMORROW X TOGETHER Debut Celebration Show presented by Mnet**()은 [엠넷](../Page/엠넷.md "wikilink")에서 [2019년](../Page/2019년.md "wikilink") [3월 4일에](../Page/3월_4일.md "wikilink") 방송하는 [투모로우바이투게더](../Page/투모로우바이투게더.md "wikilink")의 데뷔 특집 방송이다.\[1\]
 
 ## 영상
 

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Ringo \(\)](https://ko.wikipedia.org/wiki/Ringo_\(\)).
+> This article is converted from Wikipedia: [Ringo \(음반\)](https://ko.wikipedia.org/wiki/Ringo_\(음반\)).
 
 
 《**Ringo**》는 1973년 [애플 레코드에](../Page/애플_레코드.md "wikilink") 발매된 [링고 스타의](../Page/링고_스타.md "wikilink") 세 번째 스튜디오 음반이다. 그 음반은 [영국 음반 차트에서](https://ko.wikipedia.org/wiki/영국_음반_차트 "wikilink") 7위를 차지했고 [빌보드 200에서](../Page/빌보드_200.md "wikilink") 2위를 차지했으며 [미국 음반 산업 협회에](../Page/미국_음반_산업_협회.md "wikilink") 의해 플래티넘 인증을 받았다. [캐나다](../Page/캐나다.md "wikilink")에서는 [RPM](https://ko.wikipedia.org/wiki/RPM_\(잡지\) "wikilink") 국가 음반 차트에서 1위에 올랐다. 이 음반은 [비틀즈](../Page/비틀즈.md "wikilink") 4명의 출연과 그의 수많은 게스트 스타들로 유명하고, 이후의 많은 음반과 투어에서 스타의 표식이 될 것이다.

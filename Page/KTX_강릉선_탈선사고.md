@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [KTX  ](https://ko.wikipedia.org/wiki/KTX__).
+> This article is converted from Wikipedia: [KTX 강릉선 탈선사고](https://ko.wikipedia.org/wiki/KTX_강릉선_탈선사고).
 
 
 **KTX 강릉선 탈선사고**(KTX 江陵線脫線事故)는 2018년 12월 8일 오전 7시 30분에 강릉역을 출발해 서울역으로 가던 강릉선 KTX 408호기가 탈선으로 16명의 부상자가 발생한 사건이다.

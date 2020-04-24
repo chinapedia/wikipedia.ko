@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [BG\~신변경호인\~](https://ko.wikipedia.org/wiki/BG\~신변경호인\~).
 
 
-《**BG \~ 신변경호인 \~**》()은, [2018년](../Page/2018년.md "wikilink") [1월 18일부터](../Page/1월_18일.md "wikilink") [3월 15일까지](../Page/3월_15일.md "wikilink") 매주 [목요일](../Page/목요일.md "wikilink") 21:00 \~ 21:54에, [TV 아사히](../Page/TV_아사히.md "wikilink") 계열의 〈[목요드라마](../Page/TV_아사히_목요일_밤_9시_드라마.md "wikilink")〉 시간대에서 방송된 [일본](../Page/일본.md "wikilink")의 [텔레비전 드라마이다](https://ko.wikipedia.org/wiki/일본_드라마 "wikilink"). 주연은 [기무라 타쿠야](../Page/기무라_타쿠야.md "wikilink").
+《**BG \~ 신변경호인 \~**》()은 [2018년](../Page/2018년.md "wikilink") [1월 18일부터](../Page/1월_18일.md "wikilink") [3월 15일까지](../Page/3월_15일.md "wikilink") 매주 [목요일](../Page/목요일.md "wikilink") 21:00 \~ 21:54에, [TV 아사히](../Page/TV_아사히.md "wikilink") 계열의 〈[목요드라마](../Page/TV_아사히_목요일_밤_9시_드라마.md "wikilink")〉 시간대에서 방송된 [일본](../Page/일본.md "wikilink")의 [텔레비전 드라마이다](https://ko.wikipedia.org/wiki/일본_드라마 "wikilink"). 주연은 [기무라 타쿠야](../Page/기무라_타쿠야.md "wikilink").
 
 ## 개요
 

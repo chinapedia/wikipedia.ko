@@ -1,132 +1,31 @@
 > This article is converted from Wikipedia: [=LOVE](https://ko.wikipedia.org/wiki/=LOVE).
 
 
-**=LOVE**(이콜러브)는 [사시하라 리노의](../Page/사시하라_리노.md "wikilink") 완전 프로듀스에 의해 [2017년](../Page/2017년.md "wikilink")에 탄생한 [일본](../Page/일본.md "wikilink")의 [여성](../Page/여성.md "wikilink") [아이돌 그룹이다](https://ko.wikipedia.org/wiki/아이돌_그룹 "wikilink")([성우 유닛](../Page/일본의_성우_그룹.md "wikilink")).
+**=LOVE**(이콜러브)는 [사시하라 리노의](../Page/사시하라_리노.md "wikilink") 완전 프로듀스에 의해 [2017년](../Page/2017년.md "wikilink")에 탄생한 [일본](../Page/일본.md "wikilink")의 [여성](../Page/여성.md "wikilink") [아이돌 그룹이다](https://ko.wikipedia.org/wiki/아이돌_그룹 "wikilink"). ([성우 유닛](../Page/일본의_성우_그룹.md "wikilink"))
 
 ## 개요
 
-[HKT48](../Page/HKT48.md "wikilink")의 멤버이자 현역 아이돌 [사시하라 리노는](../Page/사시하라_리노.md "wikilink") 성우 학교로 업계 제일의 역사와 실적을 자랑하는 [요요기 애니메이션 학원에](https://ko.wikipedia.org/wiki/요요기_애니메이션_학원 "wikilink") 의한 「성우 교육」을 베푼 새로운 「성우 아이돌」을 프로듀스해, 2017년에 발족했다. 그룹명은 「아이돌은 팬에게 사랑 받지 않으면 안된다」, 「아이돌이라는 일을 사랑해야 한다」겠다는 뜻을 담고 있다. 자매그룹은 [≠ME](../Page/≠ME.md "wikilink") 이다 [AKB48](../Page/AKB48.md "wikilink")겸[HKT48](../Page/HKT48.md "wikilink")졸업멤버인[사시하라 리노가프로듀서를하고있는그룹](../Page/사시하라_리노.md "wikilink")1번재이다.
+[HKT48](../Page/HKT48.md "wikilink")의 멤버이자 현역 아이돌 [사시하라 리노는](../Page/사시하라_리노.md "wikilink") 성우 학교로 업계 제일의 역사와 실적을 자랑하는 [요요기 애니메이션 학원에](https://ko.wikipedia.org/wiki/요요기_애니메이션_학원 "wikilink") 의한 「성우 교육」을 베푼 새로운 「성우 아이돌」을 프로듀스해, 2017년에 발족했다. 그룹명은 「아이돌은 팬에게 사랑 받지 않으면 안된다」, 「아이돌이라는 일을 사랑해야 한다」겠다는 뜻을 담고 있다.
 
-## 멤버
+## 구성원
 
-<table>
-<thead>
-<tr class="header">
-<th><p>이름</p></th>
-<th><p>일본어 표기</p></th>
-<th><p>요미가나</p></th>
-<th><p>생년월일</p></th>
-<th><p>출신지</p></th>
-<th><p>비고</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>오오타니 에미리</p></td>
-<td><p>大谷映美里</p></td>
-<td><p>おおたに えみり</p></td>
-<td></td>
-<td><p><a href="../Page/도쿄도.md" title="wikilink">도쿄도</a></p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>오오바 하나</p></td>
-<td><p>大場花菜</p></td>
-<td><p>おおば はな</p></td>
-<td><p>}</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/사이타마현" title="wikilink">사이타마현</a></p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>오토시마 리사</p></td>
-<td><p>音嶋莉沙</p></td>
-<td><p>おとしま りさ</p></td>
-<td></td>
-<td><p><a href="../Page/후쿠오카현.md" title="wikilink">후쿠오카현</a></p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>사이토 키아라</p></td>
-<td><p>齋藤樹愛羅</p></td>
-<td><p>さいとう きあら</p></td>
-<td></td>
-<td><p><a href="../Page/도치기현.md" title="wikilink">도치기현</a></p></td>
-<td><p>최연소</p></td>
-</tr>
-<tr class="odd">
-<td><p>사이토 나기사</p></td>
-<td><p>齊藤なぎさ</p></td>
-<td><p>さいとう なぎさ</p></td>
-<td></td>
-<td><p><a href="../Page/가나가와현.md" title="wikilink">가나가와현</a></p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>사사키 마이카</p></td>
-<td><p>佐々木舞香</p></td>
-<td><p>ささき まいか</p></td>
-<td></td>
-<td><p><a href="../Page/아이치현.md" title="wikilink">아이치현</a></p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>사타케 논노</p></td>
-<td><p>佐竹のん乃</p></td>
-<td><p>さたけ のんの</p></td>
-<td></td>
-<td><p><a href="../Page/군마현.md" title="wikilink">군마현</a></p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>다카마츠 히토미</p></td>
-<td><p>髙松瞳</p></td>
-<td><p>たかまつ ひとみ</p></td>
-<td></td>
-<td><p>도쿄 도</p></td>
-<td><p>센터</p></td>
-</tr>
-<tr class="odd">
-<td><p>다키와키 시요코</p></td>
-<td><p>瀧脇笙古</p></td>
-<td><p>たきわき しょうこ</p></td>
-<td></td>
-<td><p>가나가와 현</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>노구치 시오리</p></td>
-<td><p>野口衣織</p></td>
-<td><p>のぐち いおり</p></td>
-<td></td>
-<td><p><a href="../Page/이바라키현.md" title="wikilink">이바라키현</a></p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>모로하시 사나</strong></p></td>
-<td><p>諸橋沙夏</p></td>
-<td><p>もろはし さな</p></td>
-<td></td>
-<td><p><a href="../Page/후쿠시마현.md" title="wikilink">후쿠시마현</a></p></td>
-<td><p>최연장자, 서브리더</p></td>
-</tr>
-<tr class="even">
-<td><p><strong>야마모토 안나</strong></p></td>
-<td><p>山本杏奈</p></td>
-<td><p>やまもと あんな</p></td>
-<td></td>
-<td><p><a href="../Page/히로시마현.md" title="wikilink">히로시마현</a></p></td>
-<td><p>리더</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
 
 ## 디스코그래피
 
@@ -186,7 +85,7 @@
 </tr>
 <tr class="odd">
 <td><p>7</p></td>
-<td><p>2020년 3월 28일</p></td>
+<td><p>2020년 4월 29일</p></td>
 <td><p><strong><a href="https://ko.wikipedia.org/wiki/CAMEO" title="wikilink">CAMEO</a></strong><br />
 <small>카메오</small></p></td>
 <td><p>-</p></td>
@@ -203,7 +102,7 @@
 ## 같이 보기
 
   - [≠ME](../Page/≠ME.md "wikilink")
-  - [사시하라 리노](../Page/사시하라_리노.md "wikilink")(프로듀서)
+  - [사시하라 리노](../Page/사시하라_리노.md "wikilink")
 
 ## 외부 링크
 

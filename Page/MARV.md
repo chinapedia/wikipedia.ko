@@ -15,7 +15,7 @@
 
 2015년 9월 3일, [박근혜](https://ko.wikipedia.org/wiki/박근혜 "wikilink") 대통령이 참석한 [중국 인민 항일 전쟁 및 세계 반파시즘 전쟁 승리 70주년 기념 대회에서](../Page/중국_인민_항일_전쟁_및_세계_반파시즘_전쟁_승리_70주년_기념_대회.md "wikilink") 항모킬러로 불리는 DF-21D와 [DF-26](../Page/DF-26.md "wikilink")이 최초로 공개되었다. [DF-21D](https://ko.wikipedia.org/wiki/DF-21D "wikilink")은 세계 최초의 [대함탄도미사일](https://ko.wikipedia.org/wiki/대함탄도미사일 "wikilink")(ASBM)이다. [DF-21D](https://ko.wikipedia.org/wiki/DF-21D "wikilink"), [DF-26](../Page/DF-26.md "wikilink") 모두 MARV 탄두를 장착했다.
 
-2017년 6월 23일, [문재인](../Page/문재인.md "wikilink") 대통령이 참석하여 [현무-2C](https://ko.wikipedia.org/wiki/현무-2C "wikilink")의 시험발사를 최초로 공개했다. [퍼싱-2](https://ko.wikipedia.org/wiki/퍼싱-2 "wikilink")와 카나드를 단 것 까지 외양이 매우 비슷했다. 그러나 [퍼싱-2](https://ko.wikipedia.org/wiki/퍼싱-2 "wikilink")가 공식 사거리 1770 km, KGB 분석으로는 사거리 2500 km인데 비해, 현무-2C 공식 사거리는 800 km 이다.
+2017년 6월 23일, [문재인](../Page/문재인.md "wikilink") 대통령이 참석하여 [현무-2C](../Page/현무-2C.md "wikilink")의 시험발사를 최초로 공개했다. [퍼싱-2](https://ko.wikipedia.org/wiki/퍼싱-2 "wikilink")와 카나드를 단 것 까지 외양이 매우 비슷했다. 그러나 [퍼싱-2](https://ko.wikipedia.org/wiki/퍼싱-2 "wikilink")가 공식 사거리 1770 km, KGB 분석으로는 사거리 2500 km인데 비해, 현무-2C 공식 사거리는 800 km 이다.
 
 ## 요격 회피 기능
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Vert.x](https://ko.wikipedia.org/wiki/Vert.x).
 
 
-**버텍스**(Vert.X) 는 이벤트 드리븐(영어: event-driven) 방식의 자바 버추얼 머신(영어: Java Virtual Machine) 위에서 동작하는 어플리케이션 프레임워크이다.
+**버텍스**(Vert.X)는 이벤트 드리븐(영어: event-driven) 방식의 자바 버추얼 머신(영어: Java Virtual Machine) 위에서 동작하는 어플리케이션 프레임워크이다.
 
 자바스크립트의 Node.js, 파이선의 Twisted, 펄의 Perl Objected Environment, C의 libevent, PHP의 reactPHP 나 amphp 그리고 루비의 EventMachine 등과 비슷하다.
 

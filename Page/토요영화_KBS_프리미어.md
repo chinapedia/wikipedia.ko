@@ -191,7 +191,7 @@
 <tr class="even">
 <td></td>
 <td><p><a href="../Page/5월_24일.md" title="wikilink">5월 24일</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/12명의_배심원" title="wikilink">12명의 배심원</a></p></td>
+<td><p><a href="../Page/12명의_배심원.md" title="wikilink">12명의 배심원</a></p></td>
 <td><p><a href="../Page/토요일.md" title="wikilink">토요일</a> 밤 12:25 ~ 2:58 (153분)</p></td>
 </tr>
 <tr class="odd">

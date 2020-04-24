@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [USS  \(CV-64\)](https://ko.wikipedia.org/wiki/USS__\(CV-64\)).
+> This article is converted from Wikipedia: [USS 컨스텔레이션 \(CV-64\)](https://ko.wikipedia.org/wiki/USS_컨스텔레이션_\(CV-64\)).
 
 
 **USS 컨스텔레이션 (CV-64)**은 미국의 [키티호크급 항공모함](../Page/키티호크급_항공모함.md "wikilink") 4척 중에서 2번함이다. 배수량 8만톤으로, 8개의 보일러로 스팀 터빈을 돌리는 재래식 항공모함이다.

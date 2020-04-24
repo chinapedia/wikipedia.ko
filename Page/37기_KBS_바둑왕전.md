@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [37 KBS ](https://ko.wikipedia.org/wiki/37_KBS_).
+> This article is converted from Wikipedia: [37기 KBS 바둑왕전](https://ko.wikipedia.org/wiki/37기_KBS_바둑왕전).
 
 
 **37기 KBS 바둑왕전**은 TV 속기전이 참가하는 국내 바둑 기전이다. 결승 3번기 에서는 [신민준](../Page/신민준.md "wikilink") 九단이 [박정환](../Page/박정환_\(바둑_기사\).md "wikilink") 九단을 2대 0으로 완봉하며 우승을 차지했다.
@@ -356,7 +356,7 @@
 
 ## 특이 사항
 
-우승자 [신민준](../Page/신민준.md "wikilink") 九단, [신진서](../Page/신진서.md "wikilink") 九단(준결승전 패자중 랭킹이 높음, [KBS 바둑왕전](../Page/KBS_바둑왕전.md "wikilink") 준우승자 [박정환](../Page/박정환_\(바둑_기사\).md "wikilink") 九단의 불참선언으로 대신 출전)하여 기사들이 [일본](../Page/일본.md "wikilink") [도쿄](../Page/도쿄.md "wikilink") 호텔 친잔소(春山莊) 열리는 [31회 TV 바둑 아시아 선수권대회에](https://ko.wikipedia.org/wiki/31회_TV_바둑_아시아_선수권대회 "wikilink") 출전권 획득
+우승자 [신민준](../Page/신민준.md "wikilink") 九단, [신진서](../Page/신진서.md "wikilink") 九단(준결승전 패자중 랭킹이 높음, [KBS 바둑왕전](../Page/KBS_바둑왕전.md "wikilink") 준우승자 [박정환](../Page/박정환_\(바둑_기사\).md "wikilink") 九단의 불참선언으로 대신 출전)하여 기사들이 [일본](../Page/일본.md "wikilink") [도쿄](../Page/도쿄.md "wikilink") 호텔 친잔소(春山莊) 열리는 [31회 TV 바둑 아시아 선수권대회에](../Page/31회_TV_바둑_아시아_선수권대회.md "wikilink") 출전권 획득
 
 ## 각주 및 주해
 

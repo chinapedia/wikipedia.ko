@@ -27,27 +27,46 @@
   - [호노카](https://ko.wikipedia.org/wiki/호노카_\(가수\) "wikilink") (, ), 도쿄 도 출신 - 힙합, [프리 댄스](https://ko.wikipedia.org/wiki/프리_댄스 "wikilink")
       - 2017년 [8월 19일](../Page/8월_19일.md "wikilink") 졸업.
 
-## 가창 악곡
+## 작품
 
-### 오리지널
+### 앨범
 
-  - Snowy✳︎Shiny✳︎day
-  - Change the world\!
-  - 夏キラリ☆
-  - キミリプホリック
-  - Cheerful Butterfly
-  - またね
-  - ARE YOU POPPER? (SE)
-  - Real×live
-  - EGO×search
-  - 午後四時ごろの好きです
-  - POPPER TIME
-  - サマータイムルール
-  - 手のひらに青空
-  - 告白とスニーカー
-  - 真っ白片思い
-  - スケジュール帳やめたの
-  - Boot\!\!\!
+1.  Change the world\! ([2017년](../Page/2017년.md "wikilink") [9월 3일](../Page/9월_3일.md "wikilink"))
+      - ARE YOU POPPER? (SE)
+      - Snowy✳︎Shiny✳︎day
+      - Change the world\!
+      - 夏キラリ☆
+      - キミリプホリック
+      - Cheerful Butterfly
+      - またね
+
+### 싱글
+
+  - MUSIC@NOTE 소속 전
+
+<!-- end list -->
+
+1.  Real×live ([2018년](../Page/2018년.md "wikilink") [6월 10일](../Page/6월_10일.md "wikilink"))
+      - Real×live
+      - EGO×search
+
+<!-- end list -->
+
+  - MUSIC@NOTE 소속 후
+
+<!-- end list -->
+
+1.  午後四時ごろの好きです (2018년 [10월 23일](../Page/10월_23일.md "wikilink"))
+      - 午後四時ごろの好きです
+      - POPPER TIME
+2.  サマータイムルール ([2019년](../Page/2019년.md "wikilink") [7월 9일](../Page/7월_9일.md "wikilink"))
+      - サマータイムルール
+      - 手のひらに青空
+      - 告白とスニーカー
+3.  真っ白片思い ([2020년](../Page/2020년.md "wikilink") [1월 21일](../Page/1월_21일.md "wikilink"))
+      - 真っ白片思い
+      - スケジュール帳やめたの
+      - Boot\!\!\!
 
 ## 관련 항목
 

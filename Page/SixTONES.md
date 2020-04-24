@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [SixTONES](https://ko.wikipedia.org/wiki/SixTONES).
 
 
-  **SixTONES**(일본어:ストーンズ\[1\], 스톤즈, 2015년 5월 1일 \~ )는, [쟈니즈 사무소](https://ko.wikipedia.org/wiki/쟈니즈_사무소 "wikilink") 소속의 [쟈니즈 Jr.](https://ko.wikipedia.org/wiki/자니즈_주니어 "wikilink") 내 6인조 남성 아이돌 그룹이다.
+**SixTONES**(일본어:ストーンズ\[1\], 스톤즈, 2015년 5월 1일 \~ )는 [쟈니즈 사무소](https://ko.wikipedia.org/wiki/쟈니즈_사무소 "wikilink") 소속의 [쟈니즈 Jr.](https://ko.wikipedia.org/wiki/자니즈_주니어 "wikilink") 내 6인조 남성 아이돌 그룹이다.
 
 ## 멤버
 
@@ -20,42 +20,42 @@
 <tbody>
 <tr class="odd">
 <td><p><a href="../Page/코우치_유고.md" title="wikilink">코우치유고</a> (髙地優吾)</p></td>
-<td><p>1994년 3월 8일(24세)</p></td>
+<td><p>1994년 3월 8일(26세)</p></td>
 <td><p>카나가와현 출신</p></td>
 <td><p>A형</p></td>
 <td><p>노랑[2]</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/쿄모토_타이가.md" title="wikilink">쿄모토타이가</a> (京本大我)</p></td>
-<td><p>1994년 12월 3일(23세)</p></td>
+<td><p>1994년 12월 3일(25세)</p></td>
 <td><p>도쿄도 출신</p></td>
 <td><p>B형</p></td>
 <td><p>핑크[3]</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/다나카_쥬리.md" title="wikilink">다나카쥬리</a> (田中樹)</p></td>
-<td><p>1995년 6월 15일(23세)</p></td>
+<td><p>1995년 6월 15일(24세)</p></td>
 <td><p>치바현 출신</p></td>
 <td><p>B형</p></td>
 <td><p>파랑[4]</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/마츠무라_호쿠토.md" title="wikilink">마츠무라호쿠토</a> (松村北斗)</p></td>
-<td><p>1995년 6월 18일(23세)</p></td>
+<td><p>1995년 6월 18일(24세)</p></td>
 <td><p>시즈오카현 출신</p></td>
 <td><p>B형</p></td>
 <td><p>검정[5]</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/제시_(배우).md" title="wikilink">제시</a> (ジェシー )</p></td>
-<td><p>1996년 6월 11일(22세)</p></td>
+<td><p>1996년 6월 11일(23세)</p></td>
 <td><p>도쿄도 출신</p></td>
 <td><p>O형[6]</p></td>
 <td><p>빨강[7]</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/모리모토_신타로.md" title="wikilink">모리모토신타로</a> (森本慎太郎)</p></td>
-<td><p>1997년 7월 15일(21세)</p></td>
+<td><p>1997년 7월 15일(22세)</p></td>
 <td><p>카나가와현 출신</p></td>
 <td><p>A형</p></td>
 <td><p>녹색[8]</p></td>
