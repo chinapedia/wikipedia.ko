@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [WCW 월드 텔레비전 챔피언십](https://ko.wikipedia.org/wiki/WCW_월드_텔레비전_챔피언십).
 
 
-**WCW 월드 텔레비전 챔피언십**(WCW World Television Championship)은 [WCW](https://ko.wikipedia.org/wiki/WCW "wikilink")의 챔피언 타이틀이었다. WCW에서는 중간급 챔피언십을 나타내며 [유나이티드 스테이츠 챔피언십과](../Page/WWE_유나이티드_스테이츠_챔피언십.md "wikilink") 같은 급이 된다. 그러나 WCW에서는 유나이티드 스테이츠 챔피언십과는 달리 본 타이틀이 [트리플 크라운 챔피언십에](../Page/트리플_크라운_챔피언십.md "wikilink") 인정되지 않는다. 1974년 [짐 크로켓이](https://ko.wikipedia.org/wiki/짐_크로켓 "wikilink") 운영하는 미드-애틀란틱 레슬링에서 **NWA 미드-애틀란틱 텔레비전 챔피언십**으로 시작되어 중간에 **NWA 텔레비전 챔피언십**이나 **NWA 월드 텔레비전 챔피언십**이란 이름으로 보유하였다. WCW가 NWA연맹에서 탈퇴한 시기에는 **WCW 월드 텔레비전 챔피언십**으로 활동하다가 [WWF](https://ko.wikipedia.org/wiki/WWE "wikilink") (WWE의 전신)에 몰락 직전에 2000년 [에릭 비숍과](https://ko.wikipedia.org/wiki/에릭_비숍 "wikilink") 빈스 루쏘에 의해 [짐 더간을](https://ko.wikipedia.org/wiki/짐_더간 "wikilink") 끝으로 역사속에서 사라졌다.
+**WCW 월드 텔레비전 챔피언십**(WCW World Television Championship)은 [WCW](https://ko.wikipedia.org/wiki/WCW "wikilink")의 챔피언 타이틀이었다. WCW에서는 중간급 챔피언십을 나타내며 [유나이티드 스테이츠 챔피언십과](../Page/WWE_유나이티드_스테이츠_챔피언십.md "wikilink") 같은 급이 된다. 그러나 WCW에서는 유나이티드 스테이츠 챔피언십과는 달리 본 타이틀이 [트리플 크라운 챔피언십에](../Page/트리플_크라운_챔피언십.md "wikilink") 인정되지 않는다. 1974년 [짐 크로켓이](https://ko.wikipedia.org/wiki/짐_크로켓 "wikilink") 운영하는 미드-애틀란틱 레슬링에서 **NWA 미드-애틀란틱 텔레비전 챔피언십**으로 시작되어 중간에 **NWA 텔레비전 챔피언십**이나 **NWA 월드 텔레비전 챔피언십**이란 이름으로 보유하였다. WCW가 NWA연맹에서 탈퇴한 시기에는 **WCW 월드 텔레비전 챔피언십**으로 활동하다가 [WWF](../Page/WWE.md "wikilink") (WWE의 전신)에 몰락 직전에 2000년 [에릭 비숍과](https://ko.wikipedia.org/wiki/에릭_비숍 "wikilink") 빈스 루쏘에 의해 [짐 더간을](https://ko.wikipedia.org/wiki/짐_더간 "wikilink") 끝으로 역사속에서 사라졌다.
 
 ## 기록들
 

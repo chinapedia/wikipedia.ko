@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [후지 TV 토드라](https://ko.wikipedia.org/wiki/후지_TV_토드라).
 
 
-**토드라**()는, [후지 TV](../Page/후지_TV.md "wikilink") [계열에서](../Page/후지_네트워크.md "wikilink"), [2012년](../Page/2012년.md "wikilink") 4월부터 [2014년](../Page/2014년.md "wikilink") 9월까지 및 [2015년](../Page/2015년.md "wikilink") 4월부터 [2016년](../Page/2016년.md "wikilink") 3월까지, 후지 TV 제작으로 매주 [토요일](../Page/토요일.md "wikilink") 23:10 \~ 23:55에 방송된 [텔레비전 드라마](https://ko.wikipedia.org/wiki/일본_드라마 "wikilink") 시간대이다.
+**토드라**()는 [후지 TV](../Page/후지_TV.md "wikilink") [계열에서](../Page/후지_네트워크.md "wikilink"), [2012년](../Page/2012년.md "wikilink") 4월부터 [2014년](../Page/2014년.md "wikilink") 9월까지 및 [2015년](../Page/2015년.md "wikilink") 4월부터 [2016년](../Page/2016년.md "wikilink") 3월까지, 후지 TV 제작으로 매주 [토요일](../Page/토요일.md "wikilink") 23:10 \~ 23:55에 방송된 [텔레비전 드라마](https://ko.wikipedia.org/wiki/일본_드라마 "wikilink") 시간대이다.
 
 본 항목에서는 이 시간대 제2기의 후속 프로그램인, [토카이 TV](../Page/도카이_TV.md "wikilink") 제작으로 후지 TV 계열에서 방송 중인 《**[어른의 토드라](https://ko.wikipedia.org/wiki/#어른의_토드라 "wikilink")**》()에 대해서도 상술한다.
 

@@ -251,6 +251,17 @@
 </tr>
 <tr class="even">
 <td><p>2020</p></td>
+<td><p>미정</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2021</p></td>
 <td><p><a href="../Page/2020년_하계_올림픽.md" title="wikilink">2020년 하계 올림픽으로</a> 인해 개최되지 않다.</p></td>
 <td></td>
 <td></td>
@@ -283,7 +294,8 @@
 | 2017 | [키 아레나](../Page/키_아레나.md "wikilink")                                                | [시애틀 스톰](../Page/시애틀_스톰.md "wikilink")                              | [워싱턴주](../Page/워싱턴주.md "wikilink") [시애틀](../Page/시애틀.md "wikilink")                                 | 앨리 퀴글리   | [시카고 스카이](../Page/시카고_스카이.md "wikilink")       |
 | 2018 | [타깃 센터](../Page/타깃_센터.md "wikilink")                                                | [미네소타 링크스](../Page/미네소타_링크스.md "wikilink")                          | [미네소타주](../Page/미네소타주.md "wikilink") [미니애폴리스](../Page/미니애폴리스.md "wikilink")                         |          |                                                |
 | 2019 | [만달레이 베이 이벤트 센터](../Page/만달레이_베이_이벤트_센터.md "wikilink")                              | [라스베이거스 에이시스](https://ko.wikipedia.org/wiki/라스베이거스_에이시스 "wikilink") | [네바다주](../Page/네바다주.md "wikilink") [패러다이스](https://ko.wikipedia.org/wiki/패러다이스_\(네바다주\) "wikilink") | 쉐키나 스트릭렌 | [코네티컷 선](../Page/코네티컷_선.md "wikilink")         |
-| 2020 | [2020년 하계 올림픽으로](../Page/2020년_하계_올림픽.md "wikilink") 인해 개최되지 않다.                    |                                                                     |                                                                                                     |          |                                                |
+| 2020 | 미정                                                                                  |                                                                     |                                                                                                     |          |                                                |
+| 2021 | [2020년 하계 올림픽으로](../Page/2020년_하계_올림픽.md "wikilink") 인해 개최되지 않다.                    |                                                                     |                                                                                                     |          |                                                |
 
 ### 역대 쓰리-포인트 슛아웃 참가선수
 
@@ -334,6 +346,10 @@
 </tr>
 <tr class="odd">
 <td><p>2020</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2021</p></td>
 <td></td>
 </tr>
 </tbody>

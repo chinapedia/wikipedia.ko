@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [COVER YOU](https://ko.wikipedia.org/wiki/COVER_YOU).
 
 
-**COVER YOU**(커버 유)는, [2008년](../Page/2008년.md "wikilink") [11월 25일에](../Page/11월_25일.md "wikilink") 발매 된 [모닝구무스메](../Page/모닝구무스메.md "wikilink")의 첫 번째 커버 음반이다.
+**COVER YOU**(커버 유)는 [2008년](../Page/2008년.md "wikilink") [11월 25일에](../Page/11월_25일.md "wikilink") 발매 된 [모닝구무스메](../Page/모닝구무스메.md "wikilink")의 첫 번째 커버 음반이다.
 
 ## 수록곡
 

@@ -31,7 +31,7 @@ g^{ij}N_j/N^2&g^{ij}-g^{im}g^{jn}N_mN_n/N^2
 
 ### 운동량과 작용
 
-[일반 상대성 이론은](https://ko.wikipedia.org/wiki/일반_상대성_이론 "wikilink") [아인슈타인-힐베르트 작용으로](https://ko.wikipedia.org/wiki/아인슈타인-힐베르트_작용 "wikilink") 나타낼 수 있다.
+[일반 상대성 이론은](https://ko.wikipedia.org/wiki/일반_상대성_이론 "wikilink") [아인슈타인-힐베르트 작용으로](../Page/아인슈타인-힐베르트_작용.md "wikilink") 나타낼 수 있다.
 
 \[16\pi G\mathcal L=\sqrt{-\det(g_{\mu\nu}^{(D+1)})}R^{(D+1)}\] 여기서 \(g_{\mu\nu}\)는 [계량 텐서](https://ko.wikipedia.org/wiki/계량_텐서 "wikilink"), \(R^{(D+1)}\)은 \(g_{\mu\nu}^{(D+1)}\)로 계산한 [리치 스칼라다](https://ko.wikipedia.org/wiki/리치_스칼라 "wikilink").
 

@@ -9,7 +9,7 @@
 
 ## 방송 시간
 
-  - **[열린 TV 시청자 세상](../Page/열린_TV_시청자_세상.md "wikilink")**은 [1993년](../Page/1993년.md "wikilink") [10월 24일에](../Page/10월_24일.md "wikilink") **TV를 말한다**란 제목으로 첫 방송되었으며 당초 토요일 낮 시간대에 편성됐으나 현재는 목요일 오전 10시 30분에 방영된다.
+  - **[열린 TV 시청자 세상](../Page/열린_TV_시청자_세상.md "wikilink")**은 [1993년](../Page/1993년.md "wikilink") [10월 24일에](../Page/10월_24일.md "wikilink") **TV를 말한다**란 제목으로 첫 방송되었으며, [2001년](../Page/2001년.md "wikilink") [1월 1일부터](../Page/1월_1일.md "wikilink") **열린 TV 시청자 세상**이란 제목을 변경해 현재까지 방송되고 있다. 당초 토요일 낮 시간대에 편성됐으나 현재는 목요일 오전 10시 30분에 방영된다.
   - 현재 방송 시간은 [2019년](../Page/2019년.md "wikilink") [2월 21일부터를](../Page/2월_21일.md "wikilink") 기준으로 한다.
 
 ※ 공휴일이나 특집 프로그램 또는 [SBS 뉴스특보가](../Page/SBS_뉴스특보.md "wikilink") 편성될 경우 방송 시간은 상시 변동될 수 있다.
@@ -31,20 +31,34 @@
 ## 현재 진행자
 
   - 메인 : [신용철](https://ko.wikipedia.org/wiki/신용철 "wikilink"), [이현경](../Page/이현경_\(방송인\).md "wikilink")
-  - 보조 : [김수민](https://ko.wikipedia.org/wiki/김수민 "wikilink")
+  - 보조 : [김수민](https://ko.wikipedia.org/wiki/김수민_\(아나운서\) "wikilink")
 
 ## 역대 진행자
 
-  - [이창현](https://ko.wikipedia.org/wiki/이창현_\(교수\) "wikilink")
+### 메인
+
   - [손석기](https://ko.wikipedia.org/wiki/손석기 "wikilink")
   - [김정일](../Page/김정일_\(아나운서\).md "wikilink")
   - [박영만](https://ko.wikipedia.org/wiki/박영만_\(아나운서\) "wikilink")
   - [김태욱](../Page/김태욱_\(아나운서\).md "wikilink")
   - [홍승옥](../Page/홍승옥.md "wikilink")
-  - [이혜승](../Page/이혜승.md "wikilink")
-  - [오승연](../Page/오승연.md "wikilink")
+  - 이창현
   - 오미영
   - 안순태
+
+### 보조
+
+  - [이현경](../Page/이현경_\(방송인\).md "wikilink")
+  - [이혜승](../Page/이혜승.md "wikilink")
+  - [오승연](../Page/오승연.md "wikilink")
+  - [류이라](../Page/류이라.md "wikilink")
+  - [김주희](https://ko.wikipedia.org/wiki/김주희_\(방송인\) "wikilink")
+  - [최혜림](../Page/최혜림.md "wikilink")
+  - [이윤아](../Page/이윤아.md "wikilink")
+  - [김민지](../Page/김민지_\(아나운서\).md "wikilink")
+  - [장예원](../Page/장예원_\(아나운서\).md "wikilink")
+  - [김선재](../Page/김선재_\(아나운서\).md "wikilink")
+  - [주시은](../Page/주시은.md "wikilink")
 
 ## 경쟁 프로그램
 

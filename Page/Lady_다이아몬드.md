@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Lady 다이아몬드](https://ko.wikipedia.org/wiki/Lady_다이아몬드).
 
 
-〈**Lady 다이아몬드**〉()는, [Sexy Zone의](https://ko.wikipedia.org/wiki/Sexy_Zone "wikilink") 2번째 [싱글이다](../Page/싱글_\(음악\).md "wikilink").
+〈**Lady 다이아몬드**〉()는 [Sexy Zone의](https://ko.wikipedia.org/wiki/Sexy_Zone "wikilink") 2번째 [싱글이다](../Page/싱글_\(음악\).md "wikilink").
 
 ## 개요
 

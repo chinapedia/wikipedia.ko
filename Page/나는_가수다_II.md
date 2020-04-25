@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [나는 가수다 II](https://ko.wikipedia.org/wiki/나는_가수다_II).
 
 
-〈**나는 가수다 Ⅱ**〉는 《[우리들의 일밤](../Page/일밤.md "wikilink")》에서 방송했던 코너로 [2012년](../Page/2012년.md "wikilink") [4월 29일부터](../Page/4월_29일.md "wikilink") [동년](../Page/2012년.md "wikilink") [12월 30일까지](../Page/12월_30일.md "wikilink") 방영되었다.
+〈**나는 가수다 Ⅱ**〉는 《[우리들의 일밤](../Page/일밤.md "wikilink")》에서 방송했던 코너로 [2012년](../Page/2012년.md "wikilink") [4월 29일부터](../Page/4월_29일.md "wikilink") [2012년](../Page/2012년.md "wikilink") [12월 30일까지](../Page/12월_30일.md "wikilink") 방영되었다.
 
 ## 경연 규칙
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [HARDCORE TANO\*C](https://ko.wikipedia.org/wiki/HARDCORE_TANO\*C).
 
 
-**HARDCORE TANO\*C** (하드코어 타노시) 는 [하드코어 테크노를](../Page/하드코어_테크노.md "wikilink") 작곡 및 [클럽](https://ko.wikipedia.org/wiki/클럽 "wikilink") 등지에서 이벤트를 개최하고 있는 [일본](../Page/일본.md "wikilink")의 [레이블](https://ko.wikipedia.org/wiki/레이블 "wikilink") 및 동인 그룹이다.
+**HARDCORE TANO\*C**(하드코어 타노시)는 [하드코어 테크노를](../Page/하드코어_테크노.md "wikilink") 작곡 및 [클럽](https://ko.wikipedia.org/wiki/클럽 "wikilink") 등지에서 이벤트를 개최하고 있는 [일본](../Page/일본.md "wikilink")의 [레이블](https://ko.wikipedia.org/wiki/레이블 "wikilink") 및 동인 그룹이다.
 
 ## 발매 음반
 

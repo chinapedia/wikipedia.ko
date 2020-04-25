@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [KBS W](https://ko.wikipedia.org/wiki/KBS_W).
 
 
-**KBS W**()는 [KBS N의](https://ko.wikipedia.org/wiki/KBS_N "wikilink") [여성](../Page/여성.md "wikilink") 전문 [텔레비전](../Page/텔레비전.md "wikilink") [채널로](https://ko.wikipedia.org/wiki/채널_\(통신\) "wikilink"), [2013년](../Page/2013년.md "wikilink") [1월 1일에](../Page/1월_1일.md "wikilink") 개국하였다.
+**KBS 더블유**()는 [KBS N의](https://ko.wikipedia.org/wiki/KBS_N "wikilink") [여성](../Page/여성.md "wikilink") 전문 [텔레비전](../Page/텔레비전.md "wikilink") [채널로](https://ko.wikipedia.org/wiki/채널_\(통신\) "wikilink"), [2013년](../Page/2013년.md "wikilink") [1월 1일에](../Page/1월_1일.md "wikilink") 개국하였다.
 
 ## 채널 번호
 

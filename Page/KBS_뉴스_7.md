@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [KBS 뉴스 7](https://ko.wikipedia.org/wiki/KBS_뉴스_7).
 
 
-《**KBS 뉴스 7**》()는 매주 [평일](https://ko.wikipedia.org/wiki/평일 "wikilink") 저녁 7시에 [KBS 1TV](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink"), [KBS 월드에서](../Page/KBS_월드_\(텔레비전_채널\).md "wikilink") 동시에 생방송되는 [한국방송공사의 뉴스 프로그램이다](../Page/한국방송공사의_뉴스_프로그램.md "wikilink").
+《**KBS 뉴스 7**》()은 매주 [평일](https://ko.wikipedia.org/wiki/평일 "wikilink") 저녁 7시에 [KBS 1TV](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink"), [KBS 월드에서](../Page/KBS_월드_\(텔레비전_채널\).md "wikilink") 동시에 생방송되는 [한국방송공사의 뉴스 프로그램이다](../Page/한국방송공사의_뉴스_프로그램.md "wikilink").
 
 ## 기획 의도 및 개요
 
@@ -845,7 +845,7 @@ KBS 뉴스 (주말)</p></td>
 
 <references/>
 
-[분류:한국방송공사의 뉴스 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:한국방송공사의_뉴스_텔레비전_프로그램 "wikilink") [분류:대한민국의 뉴스 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:대한민국의_뉴스_텔레비전_프로그램 "wikilink") [분류:1960년대 대한민국의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:1960년대_대한민국의_텔레비전_프로그램 "wikilink") [분류:1970년대 대한민국의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:1970년대_대한민국의_텔레비전_프로그램 "wikilink") [분류:1980년대 대한민국의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:1980년대_대한민국의_텔레비전_프로그램 "wikilink") [분류:1990년대 대한민국의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:1990년대_대한민국의_텔레비전_프로그램 "wikilink") [분류:2000년대 대한민국의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:2000년대_대한민국의_텔레비전_프로그램 "wikilink") [분류:2010년대 대한민국의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:2010년대_대한민국의_텔레비전_프로그램 "wikilink") [분류:1965년에 시작한 대한민국 TV 프로그램](https://ko.wikipedia.org/wiki/분류:1965년에_시작한_대한민국_TV_프로그램 "wikilink") [분류:1970년에 시작한 대한민국 TV 프로그램](https://ko.wikipedia.org/wiki/분류:1970년에_시작한_대한민국_TV_프로그램 "wikilink")
+[분류:한국방송공사의 뉴스 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:한국방송공사의_뉴스_텔레비전_프로그램 "wikilink") [분류:대한민국의 뉴스 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:대한민국의_뉴스_텔레비전_프로그램 "wikilink") [분류:1960년대 대한민국의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:1960년대_대한민국의_텔레비전_프로그램 "wikilink") [분류:1970년대 대한민국의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:1970년대_대한민국의_텔레비전_프로그램 "wikilink") [분류:1980년대 대한민국의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:1980년대_대한민국의_텔레비전_프로그램 "wikilink") [분류:1990년대 대한민국의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:1990년대_대한민국의_텔레비전_프로그램 "wikilink") [분류:2000년대 대한민국의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:2000년대_대한민국의_텔레비전_프로그램 "wikilink") [분류:2010년대 대한민국의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:2010년대_대한민국의_텔레비전_프로그램 "wikilink") [분류:2020년대 대한민국의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:2020년대_대한민국의_텔레비전_프로그램 "wikilink") [분류:1965년에 시작한 대한민국 TV 프로그램](https://ko.wikipedia.org/wiki/분류:1965년에_시작한_대한민국_TV_프로그램 "wikilink") [분류:1970년에 시작한 대한민국 TV 프로그램](https://ko.wikipedia.org/wiki/분류:1970년에_시작한_대한민국_TV_프로그램 "wikilink")
 
 1.  [김승한](https://ko.wikipedia.org/wiki/김승한 "wikilink") 아나운서의 휴가 또는 출장으로 인하여, [1988년](../Page/1988년.md "wikilink") [3월 7일](../Page/3월_7일.md "wikilink") \~ [1988년](../Page/1988년.md "wikilink") [3월 11일](../Page/3월_11일.md "wikilink") 방송분은 [이창호](../Page/이창호_\(1943년\).md "wikilink") 前 아나운서가 대신 진행했다.
 2.  [홍지수](https://ko.wikipedia.org/wiki/홍지수 "wikilink") 前 아나운서의 휴가 또는 출장으로 인하여, 1992년 4월 30일 \~ 1992년 5월 1일 방송분은 [김병찬](../Page/김병찬.md "wikilink") 아나운서가 대신 진행했다.

@@ -26,12 +26,12 @@
   - [Mnet](https://ko.wikipedia.org/wiki/Mnet "wikilink"): We Are K-Pop (음악 및 엔터테인먼트 채널)
   - [온스타일](https://ko.wikipedia.org/wiki/온스타일 "wikilink"): No.1 Style channel Style It's Onstyle (여성 중심의 라이프스타일 및 패션 전문 채널)
   - [O tvN](https://ko.wikipedia.org/wiki/O_tvN "wikilink"): Life X Entertainment TV, tvN의 두 번째 채널 (라이프 엔터테인먼트 채널)
-  - [올'리브](https://ko.wikipedia.org/wiki/올'리브 "wikilink"): Delicious TV (요리 전문 채널)
+  - [Olive](../Page/OLIVE_\(방송_채널\).md "wikilink"): 맛있게, Olive (요리 전문 채널)
   - [투니버스](../Page/투니버스.md "wikilink"): 우리들은 투니버스 (어린이, 청소년, 65세 이상 노인 특화 및 애니메이션, 드라마, 예능 3049 맘세대 채널)
   - [OGN](../Page/OGN.md "wikilink") : game changer (게임 전문 채널)
   - [중화TV](https://ko.wikipedia.org/wiki/중화TV "wikilink"): 차이나는 즐거움 (중국문화 전문 채널)
   - [UXN](https://ko.wikipedia.org/wiki/UXN "wikilink"): ULTRA EXTRAORDINARY NETWORK (UHD 전문 채널)
-  - [CH.DIA](https://ko.wikipedia.org/wiki/CH.DIA "wikilink"): 다\~보라\! CH.DIA (크리에이터 전문 채널)
+  - [CH.DIA](../Page/CH.DIA.md "wikilink"): 다\~보라\! CH.DIA (크리에이터 전문 채널)
   - [XtvN](https://ko.wikipedia.org/wiki/XtvN "wikilink"): 놀러오락\! tvN의 세 번째 채널 (밀레니엄 세대 대상 엔터테인먼트 채널)
   - [English Gem](https://ko.wikipedia.org/wiki/English_Gem "wikilink"): 프리미엄 키즈 영어 콘텐츠 채널 (어린이 키즈영어 전문 채널)
   - [tvN Asia](https://web.archive.org/web/20180320063338/https://tvnasia.net/en/tvn-asia.html): tvN, where fun takes off\! (동남아시아 타겟 No.1 트렌드 리딩채널)
@@ -41,7 +41,7 @@
 
   - <s>KM</s> (현 [GM](../Page/GM_\(텔레비전_채널\).md "wikilink")): 음악 채널, [GTV](../Page/GTV_\(방송_채널\).md "wikilink")(구)SDN TV의 모기업인 베리미디어(구 지텔레비전)에 매각
   - <s>[HBO 코리아](https://ko.wikipedia.org/wiki/HBO "wikilink")</s>: [타임워너](https://ko.wikipedia.org/wiki/타임워너 "wikilink")와 공동으로 운영한 프리미엄 유료영화채널, 폐국되어 [캐치온](../Page/캐치온.md "wikilink")이 승계
-  - [내셔널지오그래픽채널 코리아](https://ko.wikipedia.org/wiki/내셔널지오그래픽채널_코리아 "wikilink"): 다큐멘터리 전문 채널, [21세기 폭스에](../Page/21세기_폭스.md "wikilink") 매각
+  - [내셔널지오그래픽채널 코리아](https://ko.wikipedia.org/wiki/내셔널지오그래픽채널_코리아 "wikilink"): 다큐멘터리 전문 채널, 21세기 폭스(현 월트 디즈니 컴퍼니)에 매각
   - <s>Xports</s> (현 [SBS CNBC](../Page/SBS_CNBC.md "wikilink")): 스포츠 채널, [SBS에](../Page/SBS_\(대한민국의_방송사\).md "wikilink") 매각
   - <s>[스토리온](../Page/스토리온.md "wikilink")</s>: People, Life, Story All About Woman, 여성 중심의 라이프스타일 채널, 폐국되어 O tvN이 승계
   - [바둑 TV](../Page/바둑_TV.md "wikilink"): 생각의 힘 (바둑 전문 채널), [한국기원](../Page/한국기원.md "wikilink")에 매각
@@ -52,7 +52,7 @@
   - [챔프TV](../Page/챔프TV.md "wikilink"): ㅋㄷㅋㄷ (애니메이션 채널), [티캐스트](../Page/티캐스트.md "wikilink")에 매각
   - <s>[수퍼액션](https://ko.wikipedia.org/wiki/수퍼액션 "wikilink")</s>: Life is Action\! Only One Action channel (영화 채널), 폐국되어 OCN Thrills가 승계
   - <s>[채널CGV](https://ko.wikipedia.org/wiki/채널CGV "wikilink")</s>: 영화는 CH CGV (영화 채널), 폐국되어 OCN Movies가 승계
-  - <s>[DIA TV](https://ko.wikipedia.org/wiki/CH.DIA "wikilink")</s>: ASIA\`S NO.1 CREATOR GROUP (크리에이터 전문 채널), 폐국되어 CH.DIA가 승계
+  - <s>[DIA TV](../Page/CH.DIA.md "wikilink")</s>: ASIA\`S NO.1 CREATOR GROUP (크리에이터 전문 채널), 폐국되어 CH.DIA가 승계
 
 ### 영화 사업
 
@@ -83,7 +83,7 @@
   - [CJ ENM 소속 연예인 목록](https://ko.wikipedia.org/wiki/CJ_E&M_소속_연예인_목록 "wikilink")
   - [CJ ENM 소속 방송 제작 인력 목록](https://ko.wikipedia.org/wiki/CJ_E&M_소속_방송_제작_인력_목록 "wikilink")
   - [제이에스픽쳐스](../Page/제이에스픽쳐스.md "wikilink")
-  - [DIA TV](../Page/DIA_TV.md "wikilink")
+  - [CH.DIA](../Page/CH.DIA.md "wikilink")
 
 ## 참조
 

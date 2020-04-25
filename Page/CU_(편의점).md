@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [CU \(편의점\)](https://ko.wikipedia.org/wiki/CU_\(편의점\)).
 
 
-'''CU '''(씨유, )는 종합유통서비스 기업인 [BGF리테일](../Page/BGF리테일.md "wikilink")이 운영하는 [편의점](../Page/편의점.md "wikilink") 프랜차이즈 [브랜드](../Page/브랜드.md "wikilink")로 대한민국에서 가장 높은 점유율을 기록하고 있다. CU는 365일 24시간 언제 어디서나 편리하게 원하는 것을 넘어 필요한 것까지 찾아주는 서비스로 대한민국 시장과 고객에게 최적화된 '21세기 한국형 편의점'을 표방한다.
+'''CU '''(씨유, )는 [BGF리테일](../Page/BGF리테일.md "wikilink")이 운영하는 [편의점](../Page/편의점.md "wikilink") [프랜차이즈](https://ko.wikipedia.org/wiki/프랜차이즈 "wikilink")다.
 
 ## 개요
 
@@ -26,32 +26,27 @@
 | [제주특별자치도](https://ko.wikipedia.org/wiki/제주특별자치도 "wikilink") |
 | 2019\. 3. 1 현재                                              |
 
-[대한민국](../Page/대한민국.md "wikilink") 종합유통서비스 기업인 [BGF리테일](../Page/BGF리테일.md "wikilink")이 2012년 8월 신규 런칭한 편의점 브랜드이다. CU는 국내 소비자의 특성과 매정별 입지를 과학적으로 분석해을 표방한 새로운 개념의 편의점으로 생활의 편의를 돕고(Convenience) 최상의 상품과 서비스, 운영상의 편의성과 수익성으로 고객과 가맹점주(You)를 소중히 모시는 생활 속 쉼터를 조성하겠다는 뜻을 담아 이들 영어단어의 앞 글자로 조합한 이름이다. 현재 대한민국 최대 프랜차이즈망을 바탕으로 다양한 상품과 서비스를 고객들에게 제공하고 있다. 초창기에는 'with [FamilyMart](../Page/훼미리마트.md "wikilink")'가 붙었지만, 상장 이후에는 [훼미리마트](../Page/훼미리마트.md "wikilink") 측이 BGF리테일의 지분을 모두 매각하면서 with [Familymart](../Page/훼미리마트.md "wikilink") 문구를 빼고 BGF리테일 로고로 교체하였다.
+## 서비스
 
-## 제휴 카드
+### 할인
 
-  - 통신사 제휴 [SK텔레콤](../Page/SK텔레콤.md "wikilink")-T멤버십
-  - OK캐쉬백 할인.
-  - E1 오렌지 카드 적립, 할인.
-  - 해피 포인트 할인.
-  - 하나머니 포인트.
-  - [그린카드로](../Page/그린카드_\(상품\).md "wikilink") 지정상품 구매시 적립받을 수 있는 에코머니 외에는 아예 적립받을 수 없다.
-  - CU 포인트 적립, 할인. CU 포인트 적립을 [T-멤버십](../Page/SK텔레콤.md "wikilink") 할인과 동시에 적용하려면, 포켓CU 앱에 T-멤버십 번호를 등록한 후 통합 바코드를 제시해야 한다.
+통신사 제휴, CU 포인트 적립, 할인 서비스를 제공하고 있다.\[1\]
 
-## 택배 픽업 서비스
+### 택배 픽업
 
-[2016년](../Page/2016년.md "wikilink") 11월부터 [소셜커머스](https://ko.wikipedia.org/wiki/소셜_커머스 "wikilink") 티몬과 제휴해‘택배 픽업’서비스를 제공하고 있다. 2017년 [5월 1일부터는](../Page/5월_1일.md "wikilink") [SK플래닛](../Page/SK플래닛.md "wikilink")의 온라인 쇼핑몰 [11번가](../Page/11번가.md "wikilink")와 제휴해 24시간 택배 픽업 서비스를 제공하기로 했다.\[1\]
+[2016년](../Page/2016년.md "wikilink") 11월부터 [소셜커머스](https://ko.wikipedia.org/wiki/소셜_커머스 "wikilink") 티몬과 제휴해‘택배 픽업’서비스를 제공하고 있다. 2017년 [5월 1일부터는](../Page/5월_1일.md "wikilink") [SK플래닛](../Page/SK플래닛.md "wikilink")의 온라인 쇼핑몰 [11번가](../Page/11번가.md "wikilink")와 제휴해 24시간 택배 픽업 서비스를 제공하기로 했다.\[2\]
 
 ## BI 변천사
 
 ## 사진
 
-파일:CU Gaehwasan-yeok branch 20180914 171744.jpg|개화산역점 (서울특별시 강서구) 파일:국립중앙도서관 내 편의점.jpg|국립중앙도서관점 (서울특별시 서초구) 파일:CU Bansong-lucky branch 20180401 094252.jpg|반송럭키점 (부산광역시 해운대구) 파일:CU Natgae-yeok branch 20180401 132756.jpg|낫개역점 (부산광역시 사하구) 파일:SDC15539.JPG|부평일신동점 (인천광역시 부평구) 파일:F 20120716113615.jpg|2012년 패밀리마트에서 CU에서 전환하는 안내문 파일:Convenience Store CU Arirang Hotel 20120803.jpg|부산시 소재씨유 지점 파일:CU Gyeryong Yangjeong Intersection branch.jpg|계룡 양정삼거리점 파일:연수동 CU 편의점.jpg|인천 연수구 소재 지점
+파일:CU Gaehwasan-yeok branch 20180914 171744.jpg|개화산역점 (서울특별시 강서구) 파일:국립중앙도서관 내 편의점.jpg|국립중앙도서관점 (서울특별시 서초구) 파일:CU Bansong-lucky branch 20180401 094252.jpg|반송럭키점 (부산광역시 해운대구) 파일:CU Natgae-yeok branch 20180401 132756.jpg|낫개역점 (부산광역시 사하구) 파일:SDC15539.JPG|부평일신동점 (인천광역시 부평구) |2012년 패밀리마트에서 CU로 전환하는 것을 안내하는 안내문 파일:Convenience Store CU Arirang Hotel 20120803.jpg|부산시 소재씨유 지점 파일:CU Gyeryong Yangjeong Intersection branch.jpg|계룡 양정삼거리점 파일:연수동 CU 편의점.jpg|인천 연수구 소재 지점
 
 ## 같이 보기
 
   - [BGF리테일](https://ko.wikipedia.org/wiki/비지에프리테일 "wikilink")
   - [E1 (기업)](../Page/E1_\(기업\).md "wikilink")
+  - [편스토랑](https://ko.wikipedia.org/wiki/편스토랑 "wikilink")
 
 ## 각주
 
@@ -69,3 +64,4 @@
 [분류:2012년 설립된 기업](https://ko.wikipedia.org/wiki/분류:2012년_설립된_기업 "wikilink") [분류:편의점](https://ko.wikipedia.org/wiki/분류:편의점 "wikilink") [분류:대한민국의 편의점](https://ko.wikipedia.org/wiki/분류:대한민국의_편의점 "wikilink") [분류:대한민국의 브랜드](https://ko.wikipedia.org/wiki/분류:대한민국의_브랜드 "wikilink")
 
 1.
+2.  <https://cu.bgfretail.com/service/parcel_info.do?category=service&depth3=4>

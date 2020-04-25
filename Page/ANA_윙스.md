@@ -66,9 +66,9 @@
 
 | 기종                                                                    | 대수 | 주문 | 승객                                       | 비고                                                           |
 | --------------------------------------------------------------------- | -- | -- | ---------------------------------------- | ------------------------------------------------------------ |
-| [보잉 737-500](../Page/보잉_737.md "wikilink")                            | 3  | 0  | 126                                      | [2020년](../Page/2020년.md "wikilink")까지 퇴역 예정                 |
+| [보잉 737-500](../Page/보잉_737.md "wikilink")                            | 1  | 0  | 126                                      | [2020년](../Page/2020년.md "wikilink")까지 퇴역 예정                 |
 | [보잉 737-700](../Page/보잉_737.md "wikilink")                            | 8  | 0  | 120                                      | [ANA 항공](https://ko.wikipedia.org/wiki/ANA_항공 "wikilink") 소속 |
-| [보잉 737-800](../Page/보잉_737.md "wikilink")                            | 40 | 0  | 167                                      | [ANA 항공](https://ko.wikipedia.org/wiki/ANA_항공 "wikilink") 소속 |
+| [보잉 737-800](../Page/보잉_737.md "wikilink")                            | 39 | 0  | 167                                      | [ANA 항공](https://ko.wikipedia.org/wiki/ANA_항공 "wikilink") 소속 |
 | [봄바디어 대쉬 8 Q400](https://ko.wikipedia.org/wiki/봄바디어_Q_시리즈 "wikilink") | 24 | 6  | 74                                       |                                                              |
 | [미쓰비시 MRJ-90](https://ko.wikipedia.org/wiki/미쓰비시_MRJ "wikilink")      | 0  | 15 | <abbr title="To Be Announced">TBA</abbr> |                                                              |
 |                                                                       |    |    |                                          |                                                              |

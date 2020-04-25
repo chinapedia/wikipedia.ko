@@ -923,7 +923,7 @@ Yes or No</p></td>
 </tr>
 <tr class="even">
 <td><p>지원이의 똑똑똑</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/주차장" title="wikilink">주차장</a>에서 생긴 일 - <a href="../Page/손해배상.md" title="wikilink">손해배상</a> 책임은 누구에게 있는 걸까?</p></td>
+<td><p><a href="../Page/주차장.md" title="wikilink">주차장</a>에서 생긴 일 - <a href="../Page/손해배상.md" title="wikilink">손해배상</a> 책임은 누구에게 있는 걸까?</p></td>
 <td></td>
 </tr>
 <tr class="odd">

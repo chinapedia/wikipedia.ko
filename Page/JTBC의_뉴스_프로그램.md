@@ -38,7 +38,7 @@
 <td><p><a href="../Page/정치부_회의.md" title="wikilink">정치부 회의</a></p></td>
 <td><p>평일 1시간 20분</p></td>
 <td><p>17:00 ~ 18:20</p></td>
-<td><p><a href="../Page/이상복.md" title="wikilink">이상복</a></p></td>
+<td><p><a href="../Page/박성태.md" title="wikilink">박성태</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/이_시각_뉴스룸.md" title="wikilink">이 시각 뉴스룸</a></p></td>

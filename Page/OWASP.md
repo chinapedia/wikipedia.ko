@@ -5,7 +5,7 @@
 
 [OWASP TOP 10은](https://ko.wikipedia.org/wiki/OWASP_TOP_10 "wikilink") 웹 애플리케이션 취약점 중에서 빈도가 많이 발생하고, 보안상 영향을 크게 줄 수 있는 것들 10가지를 선정하여 2004년, 2007년, 2010년, 2013년, 2017년을 기준으로 발표되었고, 문서가 공개되었다.
 
-<https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project>
+<https://web.archive.org/web/20191201191321/https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project>
 
 ## Top Ten Overview (2017)
 

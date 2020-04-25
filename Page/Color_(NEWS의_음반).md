@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Color \(NEWS의 음반\)](https://ko.wikipedia.org/wiki/Color_\(NEWS의_음반\)).
 
 
-《**color**》(컬러)는, [NEWS](https://ko.wikipedia.org/wiki/NEWS "wikilink")의 3번째 [정규 음반이다](../Page/정규_음반.md "wikilink").
+《**color**》(컬러)는 [NEWS](https://ko.wikipedia.org/wiki/NEWS "wikilink")의 3번째 [정규 음반이다](../Page/정규_음반.md "wikilink").
 
 ## 개요
 

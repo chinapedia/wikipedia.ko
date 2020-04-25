@@ -42,7 +42,7 @@
 <li><a href="../Page/서태지.md" title="wikilink">서태지</a> - <a href="https://ko.wikipedia.org/wiki/보컬" title="wikilink">보컬</a>, <a href="https://ko.wikipedia.org/wiki/작사" title="wikilink">작사</a>·<a href="https://ko.wikipedia.org/wiki/작곡" title="wikilink">작곡</a>·<a href="../Page/편곡.md" title="wikilink">편곡</a></li>
 <li><a href="../Page/안성훈.md" title="wikilink">TOP</a>: <a href="../Page/기타.md" title="wikilink">기타</a>, <a href="https://ko.wikipedia.org/wiki/라이브" title="wikilink">라이브</a> 편곡</li>
 <li><a href="https://ko.wikipedia.org/wiki/강준형_(베이시스트)" title="wikilink">강준형</a>: <a href="../Page/베이스_기타.md" title="wikilink">베이스 기타</a></li>
-<li>김석중: <a href="https://ko.wikipedia.org/wiki/건반_악기" title="wikilink">키보드</a>, 라이브 편곡</li>
+<li>김석중: <a href="https://ko.wikipedia.org/wiki/키보드_(악기)" title="wikilink">키보드</a>, 라이브 편곡</li>
 <li><a href="https://ko.wikipedia.org/wiki/최현진_(드럼_연주자)" title="wikilink">최현진</a>: <a href="https://ko.wikipedia.org/wiki/드럼셋" title="wikilink">드럼</a></li>
 </ul>
 <dl>
@@ -50,7 +50,7 @@
 
 </dl>
 <ul>
-<li>Red roc, <a href="https://ko.wikipedia.org/wiki/이현배" title="wikilink">이현배</a>: 스페셜 게스트 래퍼</li>
+<li><a href="../Page/레드락_(음악가).md" title="wikilink">Red roc</a>, <a href="https://ko.wikipedia.org/wiki/이현배" title="wikilink">이현배</a>: 스페셜 게스트 래퍼</li>
 <li><a href="../Page/김종서_(가수).md" title="wikilink">김종서</a>: 공동 작사·작곡(〈Free Style〉)</li>
 <li><a href="../Page/양현석.md" title="wikilink">양현석</a>: 작사(〈널 지우려 해〉)</li>
 </ul></td>
@@ -59,7 +59,7 @@
 
 </dl>
 <ul>
-<li>서태지(<a href="https://ko.wikipedia.org/wiki/서태지컴퍼니" title="wikilink">서태지컴퍼니</a>) - <a href="https://ko.wikipedia.org/wiki/프로듀서" title="wikilink">프로듀서</a>, <a href="https://ko.wikipedia.org/wiki/이그제큐티브_프로듀서" title="wikilink">이그제큐티브 프로듀서</a>, 믹싱, <a href="https://ko.wikipedia.org/wiki/마스터링" title="wikilink">마스터링</a></li>
+<li>서태지(<a href="https://ko.wikipedia.org/wiki/서태지컴퍼니" title="wikilink">서태지컴퍼니</a>) - <a href="../Page/음악_프로듀서.md" title="wikilink">프로듀서</a>, <a href="https://ko.wikipedia.org/wiki/이그제큐티브_프로듀서" title="wikilink">이그제큐티브 프로듀서</a>, 믹싱, <a href="https://ko.wikipedia.org/wiki/마스터링" title="wikilink">마스터링</a></li>
 <li>이성한, 피환, 장희준, 이원진, 김은지: 기술</li>
 <li>곽호재, 주병조(Rui Sound): 무대 사운드</li>
 <li>오형석: 무대 녹음</li>

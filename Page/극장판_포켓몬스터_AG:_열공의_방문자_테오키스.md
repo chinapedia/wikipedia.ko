@@ -50,7 +50,7 @@
 <!-- end list -->
 
   - 오드리
-    분홍색 옷을입읏 류의 쌍둥이 여동생 파트너는 [비구슬](https://ko.wikipedia.org/wiki/비구슬 "wikilink").
+    분홍색 옷을입은 류의 쌍둥이 여동생 파트너는 [비구슬](https://ko.wikipedia.org/wiki/비구슬 "wikilink").
 
 <!-- end list -->
 

@@ -94,7 +94,7 @@ UART는 보통 마이크로컨트롤러에도 포함되어 있다. 듀얼 UART, 
 </tr>
 <tr class="even">
 <td><p>자일로그 Z8440</p></td>
-<td><p>2000 kbit/초. Async, <a href="https://ko.wikipedia.org/wiki/이진_동기화_통신" title="wikilink">Bisync</a>, <a href="https://ko.wikipedia.org/wiki/SDLC" title="wikilink">SDLC</a>, <a href="https://ko.wikipedia.org/wiki/HDLC" title="wikilink">HDLC</a>, <a href="https://ko.wikipedia.org/wiki/X.25" title="wikilink">X.25</a>. <a href="https://ko.wikipedia.org/wiki/순환_중복_검사" title="wikilink">CRC</a>. 4바이트 RX 버퍼. 2바이트 TX 버퍼. <a href="../Page/직접_메모리_접근.md" title="wikilink">DMA</a>.[1]</p></td>
+<td><p>2000 kbit/초. Async, <a href="https://ko.wikipedia.org/wiki/이진_동기화_통신" title="wikilink">Bisync</a>, <a href="https://ko.wikipedia.org/wiki/SDLC" title="wikilink">SDLC</a>, <a href="https://ko.wikipedia.org/wiki/HDLC" title="wikilink">HDLC</a>, <a href="../Page/X.25.md" title="wikilink">X.25</a>. <a href="https://ko.wikipedia.org/wiki/순환_중복_검사" title="wikilink">CRC</a>. 4바이트 RX 버퍼. 2바이트 TX 버퍼. <a href="../Page/직접_메모리_접근.md" title="wikilink">DMA</a>.[1]</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/8250_UART" title="wikilink">8250</a></p></td>

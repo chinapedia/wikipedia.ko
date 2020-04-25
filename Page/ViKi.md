@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ViKi](https://ko.wikipedia.org/wiki/ViKi).
 
 
-**ViKi**는 동영상 콘텐츠에 다국어 자막 번역을 넣어 스트리밍으로 제공하는 [싱가포르](../Page/싱가포르.md "wikilink")의 플랫폼이다. 기업은 싱가포르, [샌프란시스코](../Page/샌프란시스코.md "wikilink"), [도쿄도](../Page/도쿄도.md "wikilink"), [서울특별시](../Page/서울특별시.md "wikilink")에 사무실을 두고 있다.\[1\] Viki라는 video와 [wiki](https://ko.wikipedia.org/wiki/wiki "wikilink")라는 단어를 합친 조어이며 [컨텐츠 관리에](../Page/저작물_관리_시스템.md "wikilink") 자원봉사자들을 사용하는 것을 의미한다. 기업은 2011년 1월에 [Crunch상을](../Page/테크크런치.md "wikilink") 수상했다.\[2\]
+**ViKi**는 동영상 콘텐츠에 다국어 자막 번역을 넣어 스트리밍으로 제공하는 [싱가포르](../Page/싱가포르.md "wikilink")의 플랫폼이다. 기업은 [싱가포르](../Page/싱가포르.md "wikilink"), [샌프란시스코](../Page/샌프란시스코.md "wikilink"), [도쿄도](../Page/도쿄도.md "wikilink"), [서울특별시](../Page/서울특별시.md "wikilink")에 사무실을 두고 있다.\[1\] Viki라는 video와 [wiki](https://ko.wikipedia.org/wiki/wiki "wikilink")라는 단어를 합친 조어이며 [컨텐츠 관리에](../Page/저작물_관리_시스템.md "wikilink") 자원봉사자들을 사용하는 것을 의미한다. 기업은 2011년 1월에 [Crunch상을](../Page/테크크런치.md "wikilink") 수상했다.\[2\]
 
 ## 역사
 

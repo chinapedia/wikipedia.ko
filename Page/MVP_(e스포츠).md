@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [MVP \(e스포츠\)](https://ko.wikipedia.org/wiki/MVP_\(e스포츠\)).
 
 
-**MVP**(Most Valuable Player)는 [대한민국](../Page/대한민국.md "wikilink")의 [카운터-스트라이크: 글로벌 오펜시브](../Page/카운터-스트라이크:_글로벌_오펜시브.md "wikilink"), 왕자영요, APEX 레전드 프로게임단이다. 이전에는 [스타크래프트 II와](https://ko.wikipedia.org/wiki/스타크래프트_II "wikilink") [히어로즈 오브 더 스톰](../Page/히어로즈_오브_더_스톰.md "wikilink"), [오버워치](../Page/오버워치.md "wikilink"), [도타 2](../Page/도타_2.md "wikilink"), [리그 오브 레전드](../Page/리그_오브_레전드.md "wikilink"), [배틀그라운드](../Page/배틀그라운드_\(비디오_게임\).md "wikilink") 프로게임단을 운영했다.
+**MVP**(Most Valuable Player)는 [대한민국](../Page/대한민국.md "wikilink")의 [카운터-스트라이크: 글로벌 오펜시브](../Page/카운터-스트라이크:_글로벌_오펜시브.md "wikilink") 프로게임단이다. 이전에는 [스타크래프트 II와](https://ko.wikipedia.org/wiki/스타크래프트_II "wikilink") [히어로즈 오브 더 스톰](../Page/히어로즈_오브_더_스톰.md "wikilink"), [오버워치](../Page/오버워치.md "wikilink"), [도타 2](../Page/도타_2.md "wikilink"), [리그 오브 레전드](../Page/리그_오브_레전드.md "wikilink"), [배틀그라운드](../Page/배틀그라운드_\(비디오_게임\).md "wikilink"), 왕자영요, APEX 레전드 프로게임단을 운영했다.
 
 ## 역사
 
@@ -36,8 +36,6 @@
 ## 주요 종목
 
   - [카운터-스트라이크: 글로벌 오펜시브](../Page/카운터-스트라이크:_글로벌_오펜시브.md "wikilink")
-  - 왕자영요
-  - APEX 레전드
 
 ## 주요 성적
 
@@ -207,27 +205,17 @@
 
 ## 소속선수
 
-### APEX 레전드
-
-  - 감독 : 최석원
-  - 매니저 : 박채은
-  - 선수단
-      - Mondo 나동원
-      - Ras 송홍균
-
 ### 카운터 스트라이크: 글로벌 오펜시브
 
   - 감독 : [임현석](../Page/임현석.md "wikilink")
-  - 코치 : 편선호
+  - 코치 : 편선호 권순우
 
 | 이름  | 아이디  |
 | --- | ---- |
-| 김해성 | HSK  |
-| 손선호 | xeta |
 | 김구택 | stax |
-| 이현표 | Xign |
-| 정홍교 | Jinx |
-| 박민석 | zeff |
+| 김민수 | glow |
+| 구상민 | Rb   |
+| 이승원 | k1Ng |
 
 ## 역대 감독
 

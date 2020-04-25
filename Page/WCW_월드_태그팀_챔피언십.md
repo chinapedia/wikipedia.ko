@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [WCW 월드 태그팀 챔피언십](https://ko.wikipedia.org/wiki/WCW_월드_태그팀_챔피언십).
 
 
-**WCW 월드 태그팀 챔피언십**(WCW World Tag Team Championship)은 과거 [WCW](https://ko.wikipedia.org/wiki/WCW "wikilink")의 챔피언십으로 태그팀 챔피언십이었다. 1975년 부터 짐 크로켓이 운영하는 미드-애틀란틱 즉 **NWA 월드 태그팀 챔피언십**이 였다가, WCW가 NWA연맹에서 탈퇴한뒤 **WCW 월드 태그팀 챔피언십**으로 변경하면서 WCW에서 활약하고 있다. 그런데 2001년, [WWE](https://ko.wikipedia.org/wiki/WWE "wikilink")가 [WCW](https://ko.wikipedia.org/wiki/WCW "wikilink")와 [ECW](https://ko.wikipedia.org/wiki/ECW "wikilink")를 합병시키면서 본 타이틀이 [WWE](https://ko.wikipedia.org/wiki/WWE "wikilink")로 이동되어 **WCW 태그팀 챔피언십**이란 이름으로 [WWE](https://ko.wikipedia.org/wiki/WWE "wikilink")에 속하다가 [더들리 보이즈를](https://ko.wikipedia.org/wiki/더들리_보이즈 "wikilink") 끝으로 2001년에 폐지되어 역사속으로 사라졌다.
+**WCW 월드 태그팀 챔피언십**(WCW World Tag Team Championship)은 과거 [WCW](https://ko.wikipedia.org/wiki/WCW "wikilink")의 챔피언십으로 태그팀 챔피언십이었다. 1975년 부터 짐 크로켓이 운영하는 미드-애틀란틱 즉 **NWA 월드 태그팀 챔피언십**이 였다가, WCW가 NWA연맹에서 탈퇴한뒤 **WCW 월드 태그팀 챔피언십**으로 변경하면서 WCW에서 활약하고 있다. 그런데 2001년, [WWE](../Page/WWE.md "wikilink")가 [WCW](https://ko.wikipedia.org/wiki/WCW "wikilink")와 [ECW](https://ko.wikipedia.org/wiki/ECW "wikilink")를 합병시키면서 본 타이틀이 [WWE](../Page/WWE.md "wikilink")로 이동되어 **WCW 태그팀 챔피언십**이란 이름으로 [WWE](../Page/WWE.md "wikilink")에 속하다가 [더들리 보이즈를](https://ko.wikipedia.org/wiki/더들리_보이즈 "wikilink") 끝으로 2001년에 폐지되어 역사속으로 사라졌다.
 
 ## 기록들
 

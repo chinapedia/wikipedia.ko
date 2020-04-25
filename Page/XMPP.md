@@ -25,7 +25,7 @@
 
   - [Open list of public XMPP servers](http://xmpp-servers.404.city)
 
-  - [Jabber User Guide](http://archive.jabber.org/userguide/) – End user introduction to XMPP (보관)
+  - [Jabber User Guide](https://web.archive.org/web/20110811172434/http://archive.jabber.org/userguide/) – End user introduction to XMPP (보관)
 
   - <https://web.archive.org/web/20171017022544/https://ulloo.net/> - Create your virtual XMPP Server
 

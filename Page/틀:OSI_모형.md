@@ -56,7 +56,7 @@
   - [IGMP](https://ko.wikipedia.org/wiki/인터넷_그룹_관리_프로토콜 "wikilink")
   - [IPX](../Page/IPX.md "wikilink")
   - [애플토크](../Page/애플토크.md "wikilink")
-  - [X.25](https://ko.wikipedia.org/wiki/X.25 "wikilink") [PLP](https://ko.wikipedia.org/wiki/패킷_계층_프로토콜 "wikilink")
+  - [X.25](../Page/X.25.md "wikilink") [PLP](https://ko.wikipedia.org/wiki/패킷_계층_프로토콜 "wikilink")
 
 | list6name = 데이터 | list6title = 2.  [데이터 링크 계층](https://ko.wikipedia.org/wiki/데이터_링크_계층 "wikilink") | list6 =
 
@@ -77,7 +77,7 @@
   - [프레임 릴레이](../Page/프레임_릴레이.md "wikilink")
   - [ITU-T G.hn DLL](https://ko.wikipedia.org/wiki/G.hn "wikilink")
   - [PPP](../Page/점대점_프로토콜.md "wikilink")
-  - [X.25](https://ko.wikipedia.org/wiki/X.25 "wikilink") [LAPB](https://ko.wikipedia.org/wiki/LAPB "wikilink")
+  - [X.25](../Page/X.25.md "wikilink") [LAPB](https://ko.wikipedia.org/wiki/LAPB "wikilink")
   - [Q.921 LAPD](https://ko.wikipedia.org/wiki/링크_액세스_프로시저,_D_채널 "wikilink")
   - [Q.922 LAPF](https://ko.wikipedia.org/wiki/링크_액세스_프로시저_포_프레임_릴레이 "wikilink")
 

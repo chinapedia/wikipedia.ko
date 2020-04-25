@@ -56,7 +56,7 @@
 </tr>
 <tr class="odd">
 <td><p>1996</p></td>
-<td><p>디제스터<br />
+<td><p><a href="https://ko.wikipedia.org/wiki/디제스터_(1996년_영화)" title="wikilink">디제스터</a><br />
 <em>Flirting with Disaster</em></p></td>
 <td></td>
 <td></td>
@@ -72,7 +72,7 @@
 </tr>
 <tr class="odd">
 <td><p>2002</p></td>
-<td><p>어댑테이션<br />
+<td><p><a href="https://ko.wikipedia.org/wiki/어댑테이션" title="wikilink">어댑테이션</a><br />
 <em>Adaptation</em></p></td>
 <td></td>
 <td></td>

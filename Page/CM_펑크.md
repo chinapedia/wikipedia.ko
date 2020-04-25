@@ -36,7 +36,7 @@
   - 2013년 현재까지도 [폴 헤이먼과](https://ko.wikipedia.org/wiki/폴_헤이먼 "wikilink") 대립중이며, [폴 헤이먼이](https://ko.wikipedia.org/wiki/폴_헤이먼 "wikilink") 데리고 다니는 [커티스 액슬](../Page/커티스_액슬.md "wikilink") 과 [라이백](https://ko.wikipedia.org/wiki/라이백 "wikilink") 과 대립중이며, 최근 [WWE 배틀 그라운드 2013](https://ko.wikipedia.org/wiki/WWE_배틀_그라운드_2013 "wikilink") 에서 [라이백](https://ko.wikipedia.org/wiki/라이백 "wikilink")을 이겼으며 정확히 1년 만에 선악이(1년전에는 [CM 펑크가](../Page/CM_펑크.md "wikilink") 악역 [라이백](https://ko.wikipedia.org/wiki/라이백 "wikilink")이 선역 -\> 현재는 [CM 펑크가](../Page/CM_펑크.md "wikilink") 선역 [라이백](https://ko.wikipedia.org/wiki/라이백 "wikilink")이 악역)바뀐 상태에서 다시한번 [헬인어셀](https://ko.wikipedia.org/wiki/헬인어셀 "wikilink")에서 [라이백](https://ko.wikipedia.org/wiki/라이백 "wikilink")과 [헬인어셀](https://ko.wikipedia.org/wiki/헬인어셀 "wikilink") 매치를 치루게 되어 승리하며 대립이 일정 부분 종결되었다.
   - 2013년 케인과의 대립이 시작된다.
   - 2014년 로얄 럼블 경기에 1번으로 출연하여, 나름 선전하였으나, 탈락시킨 케인의 방해로 탈락하게 된다.
-  - 2014년 로얄 럼블 이후 갑자기 빈스맥맨에게 '집으로 가겠다'는 말과 함께 더이상 경기에 나오지를 않고 있다. CM 펑크는 [2014년](../Page/2014년.md "wikilink") [7월](../Page/7월.md "wikilink")까지 [WWE](https://ko.wikipedia.org/wiki/WWE "wikilink")와 3년 계약이 되어있다.
+  - 2014년 로얄 럼블 이후 갑자기 빈스맥맨에게 '집으로 가겠다'는 말과 함께 더이상 경기에 나오지를 않고 있다. CM 펑크는 [2014년](../Page/2014년.md "wikilink") [7월](../Page/7월.md "wikilink")까지 [WWE](../Page/WWE.md "wikilink")와 3년 계약이 되어있다.
   - WWE 은퇴 이후 2014년 12월 [UFC](https://ko.wikipedia.org/wiki/UFC "wikilink")와 계약을 체결하면서 종합격투기 파이터로 변신을 선언한다. 하지만 결과는....
 
 별명은 세계 최고(Best In The World)이다.(그외에도 \`스트레이트 에지(Straight Edge)\`(담배 안피고 음주안하고 마약을 안함)라는 별명도 있다.) 피니쉬는 GTS(파이어맨즈 캐리 드롭 인 에이 니 리프트/고 투 슬립/Go To Sleep)과 서브미션기술인 아나콘다 바이스 (Anaconda Vice)/암 트랩 트라이앵글 초크(Arm Trap Triangle Choke)를 사용을 한다.

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [TOMOHISA YAMASHITA ASIA TOUR 2011 SUPER GOOD SUPER BAD](https://ko.wikipedia.org/wiki/TOMOHISA_YAMASHITA_ASIA_TOUR_2011_SUPER_GOOD_SUPER_BAD).
 
 
-《**TOMOHISA YAMASHITA ASIA TOUR 2011 SUPER GOOD SUPER BAD**》()는, [야마시타 토모히사의](../Page/야마시타_토모히사.md "wikilink") 1번째 [DVD](../Page/DVD.md "wikilink")이다.
+《**TOMOHISA YAMASHITA ASIA TOUR 2011 SUPER GOOD SUPER BAD**》()는 [야마시타 토모히사의](../Page/야마시타_토모히사.md "wikilink") 1번째 [DVD](../Page/DVD.md "wikilink")이다.
 
 ## 개요
 

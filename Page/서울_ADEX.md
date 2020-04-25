@@ -41,7 +41,7 @@
 
   - 안내 시스템
 
-서울 에어쇼 '96은 [천리안](https://ko.wikipedia.org/wiki/천리안 "wikilink"), [하이텔](../Page/하이텔.md "wikilink"), [나우누리](https://ko.wikipedia.org/wiki/나우누리 "wikilink"), [유니텔](https://ko.wikipedia.org/wiki/유니텔 "wikilink") 등의 PC 통신에서 정보가 무료로 제공되었고, 인터넷으로는 온라인 생중계도 시도되었다.\[21\]
+서울 에어쇼 '96은 [천리안](https://ko.wikipedia.org/wiki/천리안 "wikilink"), [하이텔](../Page/하이텔.md "wikilink"), [나우누리](https://ko.wikipedia.org/wiki/나우누리 "wikilink"), [유니텔](../Page/유니텔.md "wikilink") 등의 PC 통신에서 정보가 무료로 제공되었고, 인터넷으로는 온라인 생중계도 시도되었다.\[21\]
 
   - 참가 기종
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [WWE 터프이너프](https://ko.wikipedia.org/wiki/WWE_터프이너프).
 
 
-**터프이너프**(Tough Enough)는 [WWE](https://ko.wikipedia.org/wiki/WWE "wikilink")의 신인 레슬러 발굴 프로그램이며 많은 젊은 선수들이 이 프로그램을 통하여 WWE에 데뷔하였다. 2001년부터 2004년까지 방영되었으며, 2011년 다시 부활한 프로그램이다. 현재 방영되고 있는 [NXT](https://ko.wikipedia.org/wiki/NXT "wikilink")와 비슷한 포맷이지만 [NXT](https://ko.wikipedia.org/wiki/NXT "wikilink")는 수련단체 [FCW](../Page/플로리다_챔피언십_레슬링.md "wikilink") 선수로 이루어진 프로그램이며, 터프이너프는 순수 아마추어로 이루어진 프로그램이다. 우승자는 WWE에서 활약할 수 있다.
+**터프이너프**(Tough Enough)는 [WWE](../Page/WWE.md "wikilink")의 신인 레슬러 발굴 프로그램이며 많은 젊은 선수들이 이 프로그램을 통하여 WWE에 데뷔하였다. 2001년부터 2004년까지 방영되었으며, 2011년 다시 부활한 프로그램이다. 현재 방영되고 있는 [NXT](https://ko.wikipedia.org/wiki/NXT "wikilink")와 비슷한 포맷이지만 [NXT](https://ko.wikipedia.org/wiki/NXT "wikilink")는 수련단체 [FCW](../Page/플로리다_챔피언십_레슬링.md "wikilink") 선수로 이루어진 프로그램이며, 터프이너프는 순수 아마추어로 이루어진 프로그램이다. 우승자는 WWE에서 활약할 수 있다.
 
 ## 터프이너프 시즌 1 (2001년)
 

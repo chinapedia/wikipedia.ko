@@ -43,10 +43,10 @@
   - 《[퀴즈쇼 무한대결](https://ko.wikipedia.org/wiki/퀴즈쇼_무한대결 "wikilink")》
   - 《[리얼스토리 실제상황](../Page/리얼스토리_실제상황.md "wikilink")》
   - 《[미스터리극장 위험한 초대](../Page/미스터리극장_위험한_초대.md "wikilink")》
-  - 《르포 시대공감》
+  - 《[르포 인사이드](https://ko.wikipedia.org/wiki/르포_인사이드 "wikilink")》
+  - 《[르포 시대공감](https://ko.wikipedia.org/wiki/르포_시대공감 "wikilink")》
   - 《도전\! 나도 사장님》
-  - 《르포 인사이드》
-  - 《네트워크 광장》
+  - 《[네트워크 광장](https://ko.wikipedia.org/wiki/네트워크_광장 "wikilink")》
   - 《야생동물의 세계》
   - 《애완동물은 내 친구》
   - 《이숙영의 해피데이》

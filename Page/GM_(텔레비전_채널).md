@@ -10,7 +10,7 @@
 ## 연혁
 
   -
-  - [2015년](../Page/2015년.md "wikilink") [6월 1일](../Page/6월_1일.md "wikilink") : 지텔레비전(현 베리미디어)이 인수.[(구)](https://ko.wikipedia.org/wiki/JTBC3_Fox_Sports "wikilink") KM에서[(구)](https://ko.wikipedia.org/wiki/JTBC3_Fox_Sports "wikilink") **GMTV**()로 채널명 변경.
+  - [2015년](../Page/2015년.md "wikilink") [6월 1일](../Page/6월_1일.md "wikilink") : 지텔레비전(현 베리미디어)이 인수. [(구)](https://ko.wikipedia.org/wiki/JTBC3_Fox_Sports "wikilink") KM에서 [(구)](https://ko.wikipedia.org/wiki/JTBC3_Fox_Sports "wikilink") **GMTV**()로 채널명 변경.
   - [2018년](../Page/2018년.md "wikilink") [12월 1일](../Page/12월_1일.md "wikilink") : [(구)](https://ko.wikipedia.org/wiki/JTBC3_Fox_Sports "wikilink") **GMTV에서 GM로 재개칭 [및 스카이라이프 송출 재개함](../Page/KT스카이라이프.md "wikilink")**
 
 ## 주요 프로그램
@@ -80,7 +80,7 @@
 
 ## 외부 링크
 
-  - (구) [GMTV 웹사이트](http://www.igmtv.co.kr)
+  - [GMTV 웹사이트](http://www.berrymedia.co.kr/bbs/group.php?gr_id=gmtv)
 
 [분류:음악 텔레비전 네트워크](https://ko.wikipedia.org/wiki/분류:음악_텔레비전_네트워크 "wikilink") [M21](https://ko.wikipedia.org/wiki/분류:1995년_설립된_텔레비전_방송국과_채널 "wikilink") [M21](https://ko.wikipedia.org/wiki/분류:1995년_폐지된_텔레비전_방송국과_채널 "wikilink") [KMTV](https://ko.wikipedia.org/wiki/분류:2005년_폐지된_텔레비전_방송국과_채널 "wikilink") [KM (방송국)](https://ko.wikipedia.org/wiki/분류:2005년_설립된_텔레비전_방송국과_채널 "wikilink") [KM (방송국)](https://ko.wikipedia.org/wiki/분류:2015년_폐지된_텔레비전_방송국과_채널 "wikilink") [분류:2015년 설립된 텔레비전 방송국과 채널](https://ko.wikipedia.org/wiki/분류:2015년_설립된_텔레비전_방송국과_채널 "wikilink") [분류:2018년 폐지된 텔레비전 방송국과 채널](https://ko.wikipedia.org/wiki/분류:2018년_폐지된_텔레비전_방송국과_채널 "wikilink") [분류:2018년 설립된 텔레비전 방송국과 채널](https://ko.wikipedia.org/wiki/분류:2018년_설립된_텔레비전_방송국과_채널 "wikilink")
 

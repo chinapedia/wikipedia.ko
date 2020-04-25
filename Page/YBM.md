@@ -7,7 +7,7 @@
 
 [1961년](../Page/1961년.md "wikilink") 4월에 시사영어사 창립을 시작으로, 많은 영어 교재 및 사전을 출간하여 현재까지도 계속 출간하고 있다.
 
-[1982년](../Page/1982년.md "wikilink") 1월에 [TOEIC](../Page/TOEIC.md "wikilink")을 도입하여 첫 시험을 시행하였고, 3월에 국제교류진흥회를 발족하여 시험을 주관하게 되었으며, [1985년](../Page/1985년.md "wikilink")부터 [JPT](../Page/JPT.md "wikilink")를, [1996년](../Page/1996년.md "wikilink")부터 영어 말하기 시험인 [SEPT](https://ko.wikipedia.org/wiki/SEPT "wikilink")를 도입하여 여러 시험을 주관하고 있다.
+[1982년](../Page/1982년.md "wikilink") 1월에 [TOEIC](../Page/TOEIC.md "wikilink")을 도입하여 첫 시험을 시행하였고, 3월에 국제교류진흥회를 발족하여 시험을 주관하게 되었으며, [1985년](../Page/1985년.md "wikilink")부터 [JPT](../Page/JPT.md "wikilink")를, [1988년](../Page/1988년.md "wikilink") [서울](../Page/서울특별시.md "wikilink") [대원레코드사](https://ko.wikipedia.org/wiki/대원레코드사 "wikilink")에서 하오톡 중국어 1,2,3 오디오 CD가 출시하였다. [1996년](../Page/1996년.md "wikilink")부터 영어 말하기 시험인 [SEPT](https://ko.wikipedia.org/wiki/SEPT "wikilink")를 도입하여 여러 시험을 주관하고 있다.
 
 [1974년](../Page/1974년.md "wikilink") 1월에 뉴월드 학원을 개원(현 YBM e4u 어학원)하는 것을 시작으로 [1983년](../Page/1983년.md "wikilink") 9월에 [대한민국](../Page/대한민국.md "wikilink") 최초의 원어민 강사 영어학원인 ELS를 여는 등 학원 사업에도 손을 대기 시작했으며, [1992년](../Page/1992년.md "wikilink") 주니어 영어 어학원인 [YBM ECC를](https://ko.wikipedia.org/wiki/YBM_ECC "wikilink") 개원하였다.
 
@@ -34,4 +34,4 @@
 
   - [YBM Global](http://global.ybm.co.kr/)
 
-[분류:교육 웹사이트](https://ko.wikipedia.org/wiki/분류:교육_웹사이트 "wikilink") [분류:대한민국의 기업](https://ko.wikipedia.org/wiki/분류:대한민국의_기업 "wikilink") [분류:대한민국의 출판사](https://ko.wikipedia.org/wiki/분류:대한민국의_출판사 "wikilink") [분류:대한민국의 학원](https://ko.wikipedia.org/wiki/분류:대한민국의_학원 "wikilink") [분류:1982년 설립된 기업](https://ko.wikipedia.org/wiki/분류:1982년_설립된_기업 "wikilink")
+[분류:1982년 설립된 기업](https://ko.wikipedia.org/wiki/분류:1982년_설립된_기업 "wikilink") [분류:교육 웹사이트](https://ko.wikipedia.org/wiki/분류:교육_웹사이트 "wikilink") [분류:대한민국의 출판사](https://ko.wikipedia.org/wiki/분류:대한민국의_출판사 "wikilink") [분류:대한민국의 학습 참고서](https://ko.wikipedia.org/wiki/분류:대한민국의_학습_참고서 "wikilink") [분류:대한민국의 학원](https://ko.wikipedia.org/wiki/분류:대한민국의_학원 "wikilink") [분류:서울특별시의 기업](https://ko.wikipedia.org/wiki/분류:서울특별시의_기업 "wikilink")

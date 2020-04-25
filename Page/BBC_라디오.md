@@ -10,7 +10,7 @@
   - [BBC 라디오 1](../Page/BBC_라디오_1.md "wikilink") : 청년층 대중 가요 및 토크 프로그램. (대한민국의 [KBS 쿨FM와](../Page/KBS_제2FM.md "wikilink") 비슷)
   - [BBC 라디오 2](../Page/BBC_라디오_2.md "wikilink") : 중장년층 대중 가요 및 토크 프로그램. (대한민국의 [KBS 해피FM과](../Page/KBS_제2라디오.md "wikilink") 비슷)
   - [BBC 라디오 3](../Page/BBC_라디오_3.md "wikilink") : 클래식 음악 및 일부 교양 프로그램. (대한민국의 [KBS 클래식FM과](../Page/KBS_제1FM.md "wikilink") 비슷)
-  - [BBC 라디오 4](../Page/BBC_라디오_4.md "wikilink") : 뉴스, 시사, 교양 프로그램. 01:00\~05:20(영국 시각)에는 [BBC 월드 서비스](../Page/BBC_월드_서비스.md "wikilink") 재송출. (01:00에 전환시 영국 국가가 나옴.) 영국의 비상 시 국가상황 확인용으로 쓰일 정도인 국가 기간방송임. (대한민국의 [KBS 제1라디오와](../Page/KBS_제1라디오.md "wikilink") 비슷)
+  - [BBC 라디오 4](../Page/BBC_라디오_4.md "wikilink") : 뉴스, 시사, 교양 프로그램. 01:00\~05:33(영국 시각)에는 [BBC 월드 서비스](../Page/BBC_월드_서비스.md "wikilink") 재송출. (01:00에 전환시 영국 국가가 나옴.) 영국의 비상 시 국가상황 확인용으로 쓰일 정도인 국가 기간방송임. (대한민국의 [KBS 제1라디오와](../Page/KBS_제1라디오.md "wikilink") 비슷)
   - [BBC 라디오 5 라이브](../Page/BBC_라디오_5_라이브.md "wikilink") : 스포츠 및 뉴스 프로그램.
 
 ### 디지털

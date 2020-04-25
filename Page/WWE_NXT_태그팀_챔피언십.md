@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [WWE NXT 태그팀 챔피언십](https://ko.wikipedia.org/wiki/WWE_NXT_태그팀_챔피언십).
 
 
-**WWE NXT 태그팀 챔피언십**(WWE NXT Tag Team Championship) 은 [WWE](https://ko.wikipedia.org/wiki/WWE "wikilink")의 챔피언십이다. 2012년 WWE의 루키 육성 프로젝트 [NXT](https://ko.wikipedia.org/wiki/NXT "wikilink") 시즌6에서 신설된 타이틀로, [WWE 러와](../Page/WWE_러.md "wikilink") [스맥다운](https://ko.wikipedia.org/wiki/스맥다운 "wikilink")의 선수들과 NXT의 루키들에게 기회를 주기 위해 신설되었다. 2013년 1월 31일 녹화에서 진행된 토너먼트 결승전에서 브리티쉬 앰비션(아드리안 네빌 & 올리버 그레이)가 초대 챔피언에 등극한다.
+**WWE NXT 태그팀 챔피언십**(WWE NXT Tag Team Championship) 은 [WWE](../Page/WWE.md "wikilink")의 챔피언십이다. 2012년 WWE의 루키 육성 프로젝트 [NXT](https://ko.wikipedia.org/wiki/NXT "wikilink") 시즌6에서 신설된 타이틀로, [WWE 러와](../Page/WWE_러.md "wikilink") [스맥다운](https://ko.wikipedia.org/wiki/스맥다운 "wikilink")의 선수들과 NXT의 루키들에게 기회를 주기 위해 신설되었다. 2013년 1월 31일 녹화에서 진행된 토너먼트 결승전에서 브리티쉬 앰비션(아드리안 네빌 & 올리버 그레이)가 초대 챔피언에 등극한다.
 
 ## 역대 타이틀 명칭
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [WWE 벨로서티](https://ko.wikipedia.org/wiki/WWE_벨로서티).
 
 
-**벨로서티**는 [WWE](https://ko.wikipedia.org/wiki/WWE "wikilink")의 브랜드인 [스맥다운](https://ko.wikipedia.org/wiki/스맥다운 "wikilink") 2진급 레슬러들이 출연하는 프로그램이다. [2002년](../Page/2002년.md "wikilink")부터 [2006년](../Page/2006년.md "wikilink") [6월](../Page/6월.md "wikilink")까지 방송 되었다가 [ECW가](../Page/익스트림_챔피언십_레슬링.md "wikilink") 출범하면서 사라졌다.
+**벨로서티**는 [WWE](../Page/WWE.md "wikilink")의 브랜드인 [스맥다운](https://ko.wikipedia.org/wiki/스맥다운 "wikilink") 2진급 레슬러들이 출연하는 프로그램이다. [2002년](../Page/2002년.md "wikilink")부터 [2006년](../Page/2006년.md "wikilink") [6월](../Page/6월.md "wikilink")까지 방송 되었다가 [ECW가](../Page/익스트림_챔피언십_레슬링.md "wikilink") 출범하면서 사라졌다.
 
 ## 진행자
 

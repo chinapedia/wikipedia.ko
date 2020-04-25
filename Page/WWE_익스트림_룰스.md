@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [WWE 익스트림 룰스](https://ko.wikipedia.org/wiki/WWE_익스트림_룰스).
 
 
-**익스트림 룰스**(Extreme Rules)는 [WWE](https://ko.wikipedia.org/wiki/WWE "wikilink")가 주관하는 페이퍼뷰이며, 2005년과 2006년는 **[ECW](../Page/익스트림_챔피언십_레슬링.md "wikilink") 원 나잇 스탠드**(One Night Stand)으로, 2007년부터 2008년까지는 **원 나잇 스탠드**이라는 명칭으로 개최하였다가 2009년부터 현 명명칭을 사용하고 있다.
+**익스트림 룰스**(Extreme Rules)는 [WWE](../Page/WWE.md "wikilink")가 주관하는 페이퍼뷰이며, 2005년과 2006년는 **[ECW](../Page/익스트림_챔피언십_레슬링.md "wikilink") 원 나잇 스탠드**(One Night Stand)으로, 2007년부터 2008년까지는 **원 나잇 스탠드**이라는 명칭으로 개최하였다가 2009년부터 현 명명칭을 사용하고 있다.
 
 ## 원 나잇 스탠드 개최된 곳
 

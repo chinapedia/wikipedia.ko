@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [ECW 월드 헤비웨이트 챔피언십](https://ko.wikipedia.org/wiki/ECW_월드_헤비웨이트_챔피언십).
 
 
-**ECW 챔피언십**(ECW Championship) 혹은 **ECW 월드 헤비웨이트 챔피언십**(ECW World Heavyweight Championship)은 [ECW](https://ko.wikipedia.org/wiki/ECW "wikilink")와 [WWE](https://ko.wikipedia.org/wiki/WWE "wikilink")의 챔피언십이었다.
+**ECW 챔피언십**(ECW Championship) 혹은 **ECW 월드 헤비웨이트 챔피언십**(ECW World Heavyweight Championship)은 [ECW](https://ko.wikipedia.org/wiki/ECW "wikilink")와 [WWE](../Page/WWE.md "wikilink")의 챔피언십이었다.
 
-1992년 [NWA](https://ko.wikipedia.org/wiki/NWA "wikilink")로 시작해서 1994년부터 [ECW](https://ko.wikipedia.org/wiki/ECW "wikilink")에서 활약을 보인다음 2001년에 WWE가 ECW를 흡수한 이후 폐지, 2006년 ECW가 WWE의 제3의 브랜드로 5년 만에 부활할때부터 2010년 재폐지때 까지 [WWE 챔피언십](../Page/WWE_챔피언십.md "wikilink"),[WWE 월드 헤비웨이트 챔피언십과](https://ko.wikipedia.org/wiki/WWE_월드_헤비웨이트_챔피언십 "wikilink") 같은 급으로 전성을 누렸던 챔피언십이다.
+1992년 [NWA](https://ko.wikipedia.org/wiki/NWA "wikilink")로 시작해서 1994년부터 [ECW](https://ko.wikipedia.org/wiki/ECW "wikilink")에서 활약을 보인다음 2001년에 WWE가 ECW를 흡수한 이후 폐지, 2006년 ECW가 WWE의 제3의 브랜드로 5년 만에 부활할때부터 2010년 재폐지때까지 [WWE 챔피언십](../Page/WWE_챔피언십.md "wikilink"),[WWE 월드 헤비웨이트 챔피언십과](https://ko.wikipedia.org/wiki/WWE_월드_헤비웨이트_챔피언십 "wikilink") 같은 급으로 전성을 누렸던 챔피언십이다.
 
 그러나 WWE에서는 이 두 월드 챔피언십과는 달리 [트리플 크라운 챔피언십과](../Page/트리플_크라운_챔피언십.md "wikilink") [그랜드 슬램 챔피언십은](../Page/그랜드_슬램_챔피언십.md "wikilink") 인정되지 않으나,ECW 단체에서만 월드 챔피언십으로써 트리플 크라운 챔피언십만을 인정된다.
 

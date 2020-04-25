@@ -39,7 +39,7 @@
 <td><p>1985-02-??</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/수린_주" title="wikilink">수린 주</a> 선발팀</p></td>
 <td><p><a href="../Page/태국.md" title="wikilink">A</a></p></td>
-<td><p>미상</p></td>
+<td><p>2–0 승</p></td>
 <td><p>미상</p></td>
 <td><p>미상</p></td>
 <td></td>
@@ -50,7 +50,7 @@
 <td><p>1985-02-??</p></td>
 <td><p><a href="../Page/태국_축구_국가대표팀.md" title="wikilink">태국 올림픽 축구 국가대표팀</a></p></td>
 <td><p><a href="../Page/태국.md" title="wikilink">A</a></p></td>
-<td><p>미상</p></td>
+<td><p>2–1 승</p></td>
 <td><p>미상</p></td>
 <td><p>미상</p></td>
 <td></td>
@@ -63,7 +63,7 @@
 <td><p>1985-02-??</p></td>
 <td><p><a href="../Page/태국_축구_국가대표팀.md" title="wikilink">태국 축구 국가대표팀</a></p></td>
 <td><p><a href="../Page/태국.md" title="wikilink">A</a></p></td>
-<td><p>미상</p></td>
+<td><p>0–2 패</p></td>
 <td><p>미상</p></td>
 <td><p>미상</p></td>
 <td></td>

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [유희왕 ZEXAL](https://ko.wikipedia.org/wiki/유희왕_ZEXAL).
 
 
-**유희왕 ZEXAL**(제알)은 유희왕 시리즈의 네 번째 작품이며, [2011년](../Page/2011년.md "wikilink") [4월 11일부터](../Page/4월_11일.md "wikilink") [2014년](../Page/2014년.md "wikilink") [3월 30일까지](../Page/3월_30일.md "wikilink") [TV 도쿄를](../Page/TV_도쿄.md "wikilink") 통해 방영되었다. [2012년](../Page/2012년.md "wikilink")부터 현재 국내에서도 방영중이다. 후속작은 [유희왕 ARC-V이다](../Page/유희왕_ARC-V.md "wikilink").
+**유희왕 ZEXAL**(제알)은 유희왕 시리즈의 네 번째 작품이며, [2011년](../Page/2011년.md "wikilink") [4월 11일부터](../Page/4월_11일.md "wikilink") [2014년](../Page/2014년.md "wikilink") [3월 30일까지](../Page/3월_30일.md "wikilink") [TV 도쿄를](../Page/TV_도쿄.md "wikilink") 통해 방영되었다.후속작은 [유희왕 ARC-V이다](../Page/유희왕_ARC-V.md "wikilink").
 
 ## 작품 구성
 

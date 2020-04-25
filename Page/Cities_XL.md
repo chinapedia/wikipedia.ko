@@ -11,6 +11,6 @@ Cites XXL이 발매될 예정이다.
 
 ## 외부 링크
 
-  - [공식 웹사이트](http://www.citiesxl.com/)
+  - [공식 웹사이트](https://web.archive.org/web/20080420075138/http://www.citiesxl.com/)
 
 [분류:경영 시뮬레이션 게임](https://ko.wikipedia.org/wiki/분류:경영_시뮬레이션_게임 "wikilink") [분류:2009년 비디오 게임](https://ko.wikipedia.org/wiki/분류:2009년_비디오_게임 "wikilink") [분류:윈도우 게임](https://ko.wikipedia.org/wiki/분류:윈도우_게임 "wikilink")

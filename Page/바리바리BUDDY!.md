@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [바리바리BUDDY!](https://ko.wikipedia.org/wiki/바리바리BUDDY!).
 
 
-〈**바리바리 BUDDY\!**〉()는, [V6의](../Page/V6_\(음악_그룹\).md "wikilink") 39번째 [싱글이다](../Page/싱글_\(음악\).md "wikilink").
+〈**바리바리 BUDDY\!**〉()는 [V6의](../Page/V6_\(음악_그룹\).md "wikilink") 39번째 [싱글이다](../Page/싱글_\(음악\).md "wikilink").
 
 ## 설명
 

@@ -9,9 +9,9 @@
 
 ## 외부 링크
 
-  - [82cook 홈페이지](https://web.archive.org/web/20130123112607/http://www.82cook.com/)
+  - [82cook 홈페이지](http://www.82cook.com/)
 
-[분류:대한민국의 웹사이트](https://ko.wikipedia.org/wiki/분류:대한민국의_웹사이트 "wikilink") [분류:2002년 설립](https://ko.wikipedia.org/wiki/분류:2002년_설립 "wikilink")
+[분류:대한민국의 인터넷 커뮤니티](https://ko.wikipedia.org/wiki/분류:대한민국의_인터넷_커뮤니티 "wikilink") [분류:2002년 설립](https://ko.wikipedia.org/wiki/분류:2002년_설립 "wikilink")
 
 1.  원성윤. [조선 “광고주 압박 법적 대응하겠다”](http://www.pdjournal.com/news/articleView.html?idxno=16285) . PD저널. 2008년 6월 16일.
 2.  김상만. [“광우병 시위 배후 있다면 그것은 모정”](http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=006&aid=0000029997). 미디어오늘. 2008년 6월 18일.

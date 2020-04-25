@@ -43,16 +43,14 @@ TAAG 앙골라 항공은 [2011년](../Page/2011년.md "wikilink")에 [보잉 777
 <tbody>
 <tr class="odd">
 <td><ul>
-<li><a href="https://ko.wikipedia.org/wiki/에어프랑스" title="wikilink">에어프랑스</a> (<a href="../Page/스카이팀.md" title="wikilink">스카이팀</a>)</li>
-<li><a href="../Page/브뤼셀_항공.md" title="wikilink">브뤼셀 항공</a> (<a href="https://ko.wikipedia.org/wiki/스타_얼라이언스" title="wikilink">스타 얼라이언스</a>)</li>
-<li><a href="../Page/에티오피아_항공.md" title="wikilink">에티오피아 항공</a> (<a href="https://ko.wikipedia.org/wiki/스타_얼라이언스" title="wikilink">스타 얼라이언스</a>)</li>
-<li><a href="../Page/루프트한자.md" title="wikilink">루프트한자</a> (<a href="https://ko.wikipedia.org/wiki/스타_얼라이언스" title="wikilink">스타 얼라이언스</a>)</li>
-</ul></td>
-<td><ul>
-<li><a href="../Page/에어_나미비아.md" title="wikilink">에어 나미비아</a></li>
-<li><a href="../Page/케냐_항공.md" title="wikilink">케냐 항공</a> (<a href="../Page/스카이팀.md" title="wikilink">스카이팀</a>)</li>
 <li><a href="../Page/LAM_모잠비크_항공.md" title="wikilink">LAM 모잠비크 항공</a></li>
-<li><a href="https://ko.wikipedia.org/wiki/로얄_에어_모로코" title="wikilink">로얄 에어 모로코</a>[6]</li>
+<li><a href="https://ko.wikipedia.org/wiki/로얄_에어_모로코" title="wikilink">로얄 에어 모로코</a> <small>(<a href="../Page/원월드.md" title="wikilink">원월드</a>)</small>[6]</li>
+<li><a href="../Page/루프트한자.md" title="wikilink">루프트한자</a> <small>(<a href="https://ko.wikipedia.org/wiki/스타_얼라이언스" title="wikilink">스타 얼라이언스</a>)</small></li>
+<li><a href="../Page/브뤼셀_항공.md" title="wikilink">브뤼셀 항공</a> <small>(<a href="https://ko.wikipedia.org/wiki/스타_얼라이언스" title="wikilink">스타 얼라이언스</a>)</small></li>
+<li><a href="../Page/에어_나미비아.md" title="wikilink">에어 나미비아</a></li>
+<li><a href="../Page/에어_프랑스.md" title="wikilink">에어 프랑스</a> <small>(<a href="../Page/스카이팀.md" title="wikilink">스카이팀</a>)</small></li>
+<li><a href="../Page/에티오피아_항공.md" title="wikilink">에티오피아 항공</a> <small>(<a href="https://ko.wikipedia.org/wiki/스타_얼라이언스" title="wikilink">스타 얼라이언스</a>)</small></li>
+<li><a href="../Page/케냐_항공.md" title="wikilink">케냐 항공</a> <small>(<a href="../Page/스카이팀.md" title="wikilink">스카이팀</a>)</small></li>
 </ul></td>
 </tr>
 </tbody>

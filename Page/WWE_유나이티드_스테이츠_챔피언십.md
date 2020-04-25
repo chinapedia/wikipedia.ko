@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [WWE 유나이티드 스테이츠 챔피언십](https://ko.wikipedia.org/wiki/WWE_유나이티드_스테이츠_챔피언십).
 
 
-**WWE 유나이티드 스테이츠 챔피언십**(WWE United States Championship)은 [WWE](https://ko.wikipedia.org/wiki/WWE "wikilink")의 챔피언십중 하나로, 중간급에 속한다. 현재는 [RAW](../Page/WWE_러.md "wikilink") 브랜드에 속하고 있다.
+**WWE 유나이티드 스테이츠 챔피언십**(WWE United States Championship)은 [WWE](../Page/WWE.md "wikilink")의 챔피언십중 하나로, 중간급에 속한다. 현재는 [RAW](../Page/WWE_러.md "wikilink") 브랜드에 속하고 있다.
 
 이 챔피언십은 과거 [NWA](../Page/내셔널_레슬링_얼라이언스.md "wikilink")(내셔널 레슬링 얼라이언스)와 [WCW](https://ko.wikipedia.org/wiki/WCW "wikilink")(월드 챔피언십 레슬링)에도 속해있던 챔피언십이다.\[1\]
 
@@ -9,9 +9,9 @@
 
 **WWE 유나이티드 스테이츠 챔피언십**의 역사는 1975년으로부터 거슬러 간다. 이 타이틀은 **NWA 유나이티드 헤비웨이트 챔피언**라는 이름으로 시작하여 **미드-애틀란틱 챔피언 레슬링** 즉 **짐 크로켓**이 운영하는 챔피언십으로 탄생하였다.
 
-1975년 1월 1일, 토너먼트 결승전에서 **'킹' [할리 레이스](https://ko.wikipedia.org/wiki/할리_레이스 "wikilink")**가 자니 위버를 상대로 초대 챔피언이 되었다. 6년이란 세월이 지나 [로디 파이퍼가](../Page/로디_파이퍼.md "wikilink") [릭 플레어를](../Page/릭_플레어.md "wikilink") 상대로 이겨 NWA 유나이티드 월드 헤비급 챔피언이 통합으로 이어지게 되었다. 1988년 [테드 터너가](https://ko.wikipedia.org/wiki/테드_터너 "wikilink") 이끄는 [WCW](https://ko.wikipedia.org/wiki/WCW "wikilink")가 창설하면서 NWA와 분리하여, 이 타이틀이 1988년 5월부터 이어졌다. 이때 바리 윈드햄이 WCW에서 챔피언이 된 계기가 시작되었다.
+1975년 1월 1일, 토너먼트 결승전에서 **'킹' [할리 레이스](https://ko.wikipedia.org/wiki/할리_레이스 "wikilink")**가 자니 위버를 상대로 초대 챔피언이 되었다. 6년이란 세월이 지나 [로디 파이퍼가](../Page/로디_파이퍼.md "wikilink") [릭 플레어를](../Page/릭_플레어.md "wikilink") 상대로 이겨 NWA 유나이티드 월드 헤비급 챔피언이 통합으로 이어지게 되었다. 1988년 [테드 터너가](../Page/테드_터너.md "wikilink") 이끄는 [WCW](https://ko.wikipedia.org/wiki/WCW "wikilink")가 창설하면서 NWA와 분리하여, 이 타이틀이 1988년 5월부터 이어졌다. 이때 바리 윈드햄이 WCW에서 챔피언이 된 계기가 시작되었다.
 
-1991년 부터 **WCW 유나이티드 스테이츠 헤비웨이트 챔피언십**으로 고치고 10년동안 지켰다. 하지만 [WWE](https://ko.wikipedia.org/wiki/WWE "wikilink")(월드 레슬링 엔터테인먼트)가 [WCW](https://ko.wikipedia.org/wiki/WCW "wikilink")와 [ECW](https://ko.wikipedia.org/wiki/ECW "wikilink")를 흡수한 동시에 이 타이틀은 WWE로 이동하면서 [부커 T가](../Page/부커_허프먼.md "wikilink") WCW에서의 마지막 챔피언이 되는 불명예를 남겼다. 2001년 [서바이버 시리즈에서](https://ko.wikipedia.org/wiki/서바이버_시리즈 "wikilink") WCW 유나이티드 스테이츠 챔피언십이었던 에지가 당시 [인터콘티넨탈 챔피언인](https://ko.wikipedia.org/wiki/WWE_인터콘티넨탈_챔피언십 "wikilink") 테스트를 이기며 통합 인터콘티넨탈 챔피언십이 되었다.
+1991년 부터 **WCW 유나이티드 스테이츠 헤비웨이트 챔피언십**으로 고치고 10년동안 지켰다. 하지만 [WWE](../Page/WWE.md "wikilink")(월드 레슬링 엔터테인먼트)가 [WCW](https://ko.wikipedia.org/wiki/WCW "wikilink")와 [ECW](https://ko.wikipedia.org/wiki/ECW "wikilink")를 흡수한 동시에 이 타이틀은 WWE로 이동하면서 [부커 T가](../Page/부커_허프먼.md "wikilink") WCW에서의 마지막 챔피언이 되는 불명예를 남겼다. 2001년 [서바이버 시리즈에서](https://ko.wikipedia.org/wiki/서바이버_시리즈 "wikilink") WCW 유나이티드 스테이츠 챔피언십이었던 에지가 당시 [인터콘티넨탈 챔피언인](https://ko.wikipedia.org/wiki/WWE_인터콘티넨탈_챔피언십 "wikilink") 테스트를 이기며 통합 인터콘티넨탈 챔피언십이 되었다.
 
 브랜드 확장 이후,2003년 7월 쯤, [스맥다운](https://ko.wikipedia.org/wiki/스맥다운 "wikilink")의 단장이었던 [스테파니 맥맨은](https://ko.wikipedia.org/wiki/스테파니_맥맨 "wikilink") 러에 있었던 인터콘티넨탈 챔피언십을 분리시켜 **WWE 유나이티드 스테이츠 챔피언십**이라는 챔피언십을 만들어 토너먼트 방식으로 만들었다. 토너먼트 파이널에서 [에디 게레로가](../Page/에디_게레로.md "wikilink") 친구인 [크리스 벤와를](../Page/크리스_벤와.md "wikilink") 이기며 챔피언이 되었다.
 

@@ -39,7 +39,7 @@
 
 ### 2세대
 
-[right](https://ko.wikipedia.org/wiki/파일:Detroit_NAIAS_2015_2016_Acura_NSX.JPG "wikilink") [2012년](../Page/2012년.md "wikilink")에 컨셉트 카로 공개되었으며, 양산형은 [2015년 12월에](../Page/2015년_12월.md "wikilink") 출시되었다. {{-}}
+[right](https://ko.wikipedia.org/wiki/파일:Detroit_NAIAS_2015_2016_Acura_NSX.JPG "wikilink") [2012년](../Page/2012년.md "wikilink")에 컨셉트 카로 공개되었으며, 양산형은 [2015년 12월에](../Page/2015년_12월.md "wikilink") 출시되었다.{{멋진스포츠카}} {{-}}
 
 ## 이름의 유래
 

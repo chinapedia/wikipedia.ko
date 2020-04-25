@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Femme Fatale Tour](https://ko.wikipedia.org/wiki/Femme_Fatale_Tour).
 
 
-**Femme Fatale Tour**는 미국의 가수 [브리트니 스피어스의](../Page/브리트니_스피어스.md "wikilink") 일곱 번째 정규 앨범 *[Femme Fatale](https://ko.wikipedia.org/wiki/Femme_Fatale "wikilink")*을 지원하는 일곱 번째 [콘서트 투어이다](https://ko.wikipedia.org/wiki/콘서트_투어 "wikilink"). 투어는 2011년 3월 북아메리카 일정과 함께 공식으로 발표했다. 처음에는 [엔리케 이글레시아스와](../Page/엔리케_이글레시아스.md "wikilink") 함께 공동 투어를 계획하고 있었지만, 나중에 취소 되었다. 이번 투어의 의상들은 패션 디자이너 [잘디 고코가](https://ko.wikipedia.org/wiki/잘디_고코 "wikilink") 만들었다. 2011년 7월에는 지금까지 가본 적이 없고 투어를 계획하지 않았던 남아메리카 지역에서도 공연을 펼친다고 발표했다.
+**Femme Fatale Tour**는 미국의 가수 [브리트니 스피어스의](../Page/브리트니_스피어스.md "wikilink") 일곱 번째 정규 앨범 *[Femme Fatale](https://ko.wikipedia.org/wiki/Femme_Fatale "wikilink")*을 지원하는 일곱 번째 [콘서트 투어이다](https://ko.wikipedia.org/wiki/콘서트_투어 "wikilink"). 투어는 2011년 3월 북아메리카 일정과 함께 공식으로 발표했다. 처음에는 [엔리케 이글레시아스와](../Page/엔리케_이글레시아스.md "wikilink") 함께 공동 투어를 계획하고 있었지만, 나중에 취소되었다. 이번 투어의 의상들은 패션 디자이너 [잘디 고코가](https://ko.wikipedia.org/wiki/잘디_고코 "wikilink") 만들었다. 2011년 7월에는 지금까지 가본 적이 없고 투어를 계획하지 않았던 남아메리카 지역에서도 공연을 펼친다고 발표했다.
 
 쇼는 다섯 개의 부분으로 나눠 공연을 했는데, 스피어스는 스토커를 추격하는 비밀 요원이라는 이야기를 표현했다. 첫 번째 쇼는 다른 여자 수감자와 함께 감옥을 탈출하는 것을 표현했고 두 번째 쇼는 [마릴린 먼로에게](../Page/마릴린_먼로.md "wikilink") 영감을 얻어 댄스 음악 공연을 펼친뒤 종료한다. 세 번째 부분에서는 이집트를 테마로해 불꽃놀이 곡예를 선보인다. 네 번째 부분은 오토바이 의상을 입고 에너지 넘치는 일상을 표현했다. 앙코르 공연은 스토커를 잡는 스피어스의 모습을 비디오로 선보이고 [닌자](../Page/닌자.md "wikilink") 집단들을 이기는 두 공연을 펼친다. Femme Fatale Tour는 비평가들에게 혼합된 평가를 받았다. 일부는 스피어스의 엔터테인먼트 쇼에 호평을 보냈지만, 아직도 춤이 부족하다며 비판을 하기도했다.
 

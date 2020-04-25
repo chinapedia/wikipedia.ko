@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [One Sexy Zone](https://ko.wikipedia.org/wiki/One_Sexy_Zone).
 
 
-《**one Sexy Zone**》(원 섹시 존)은, [Sexy Zone의](https://ko.wikipedia.org/wiki/Sexy_Zone "wikilink") 1번째 [정규 음반이다](../Page/정규_음반.md "wikilink").
+《**one Sexy Zone**》(원 섹시 존)은 [Sexy Zone의](https://ko.wikipedia.org/wiki/Sexy_Zone "wikilink") 1번째 [정규 음반이다](../Page/정규_음반.md "wikilink").
 
 ## 개요
 

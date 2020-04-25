@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [TBS eFM](https://ko.wikipedia.org/wiki/TBS_eFM).
 
 
-**TBS eFM**은 [교통방송](../Page/교통방송.md "wikilink")에서 운영하는 [대한민국](../Page/대한민국.md "wikilink")의 [영어](../Page/영어.md "wikilink") 전문 FM 라디오 방송국으로, [2008년](../Page/2008년.md "wikilink") [12월 1일에](../Page/12월_1일.md "wikilink") 개국하였다.\[1\]
+**TBS eFM**은 [TBS 교통방송에서](https://ko.wikipedia.org/wiki/TBS_교통방송 "wikilink") 운영하는 [대한민국](../Page/대한민국.md "wikilink")의 [영어](../Page/영어.md "wikilink") 전문 FM 라디오 방송국으로, [2008년](../Page/2008년.md "wikilink") [12월 1일에](../Page/12월_1일.md "wikilink") 개국하였다.\[1\]
 
 ## 연혁
 

@@ -13,7 +13,7 @@
 
 이 목록은 해당 앨범의 부클릿 〈staff〉목록에서 발췌하였다.\[2\]
 
-  - 박창학 - [프로듀서](../Page/음악_프로듀서.md "wikilink")
+  - [박창학](https://ko.wikipedia.org/wiki/박창학 "wikilink") - [프로듀서](../Page/음악_프로듀서.md "wikilink")
   - 고현정(드림팩토리 스튜디오) - 녹음(1\~4, 6)
       - hiroyuki yoshimitsu(sound alive studio) - 녹음(5)
   - 이동녁, 박혁 - 보조 기술

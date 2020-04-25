@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Back number](https://ko.wikipedia.org/wiki/Back_number).
 
 
-**back number**(백 넘버)는, [일본](../Page/일본.md "wikilink")의 3인조 [밴드이다](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink"). 소속 레코드 회사는 [유니버설 뮤직이다](https://ko.wikipedia.org/wiki/유니버설_뮤직_\(일본\) "wikilink").
+**back number**(백 넘버)는 [일본](../Page/일본.md "wikilink")의 3인조 [밴드이다](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink"). 소속 레코드 회사는 [유니버설 뮤직이다](https://ko.wikipedia.org/wiki/유니버설_뮤직_\(일본\) "wikilink").
 
 ## 개요
 

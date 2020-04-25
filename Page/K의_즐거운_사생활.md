@@ -48,7 +48,7 @@
 
 ## 외부 링크
 
-  - [K의 즐거운 사생활 공식 홈페이지](http://www.imbc.com/broad/radio/fm4u/kimprivacy/index.html)
+  - [K의 즐거운 사생활 공식 홈페이지](http://www.imbc.com/broad/radio/fm4u/kimprivacy)
 
 [분류:문화방송의 라디오 프로그램](https://ko.wikipedia.org/wiki/분류:문화방송의_라디오_프로그램 "wikilink")
 

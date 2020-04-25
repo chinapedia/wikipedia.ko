@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [닥터-X\~외과의·다이몬 미치코\~](https://ko.wikipedia.org/wiki/닥터-X\~외과의·다이몬_미치코\~).
 
 
-《**닥터-X\~외과의·다이몬 미치코\~**》()는, [2012년](../Page/2012년.md "wikilink")부터 [TV 아사히](../Page/TV_아사히.md "wikilink") [계열에서](../Page/올_닛폰_뉴스_네트워크.md "wikilink") 방송되고 있는 [텔레비전 드라마](https://ko.wikipedia.org/wiki/일본_드라마 "wikilink") 시리즈이다. 주연은 [요네쿠라 료코](../Page/요네쿠라_료코.md "wikilink").
+《**닥터-X\~외과의·다이몬 미치코\~**》()는 [2012년](../Page/2012년.md "wikilink")부터 [TV 아사히](../Page/TV_아사히.md "wikilink") [계열에서](../Page/올_닛폰_뉴스_네트워크.md "wikilink") 방송되고 있는 [텔레비전 드라마](https://ko.wikipedia.org/wiki/일본_드라마 "wikilink") 시리즈이다. 주연은 [요네쿠라 료코](../Page/요네쿠라_료코.md "wikilink").
 
 ## 개요
 

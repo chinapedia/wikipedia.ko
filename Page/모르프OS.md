@@ -40,7 +40,7 @@
 ## 외부 링크
 
   - [MorphOS 개발자 홈페이지](http://www.morphos-team.net/)
-  - [MorphZone](http://www.morphzone.org/)
+  - [MorphZone](https://web.archive.org/web/20110817085106/http://www.morphzone.org/)
   - [모르프OS 뉴스](https://web.archive.org/web/20150211090404/http://www.morphos-news.de/)
   - [MorphOS 소프트웨어 데이터베이스](https://web.archive.org/web/20081202165706/http://morphos.lukysoft.cz/en/)
 

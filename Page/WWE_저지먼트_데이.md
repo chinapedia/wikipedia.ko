@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [WWE 저지먼트 데이](https://ko.wikipedia.org/wiki/WWE_저지먼트_데이).
 
 
-**저지먼트 데이**(Judgment Day)는 [WWE](https://ko.wikipedia.org/wiki/WWE "wikilink")가 주관하였고, 2009년 끝으로 폐지된 페이퍼뷰이다.
+**저지먼트 데이**(Judgment Day)는 [WWE](../Page/WWE.md "wikilink")가 주관하였고, 2009년 끝으로 폐지된 페이퍼뷰이다.
 
 2003년 6월 WWE가 브랜드 분리의 일한으로 브랜드별 페이 퍼 뷰를 진행하기전 양대 브랜드가 공동으로 개최한 사실상 마지막 페이퍼뷰며 2004년부터 2006년 스맥다운 단독페이퍼뷰로 진행되었다.
 

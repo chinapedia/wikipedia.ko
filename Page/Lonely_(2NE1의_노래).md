@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Lonely \(2NE1의 노래\)](https://ko.wikipedia.org/wiki/Lonely_\(2NE1의_노래\)).
 
 
-"**Lonely**"는 대한민국의 음악 그룹 [투애니원](https://ko.wikipedia.org/wiki/투애니원 "wikilink")의 노래이다. 2011년 5월 12일 케이엠피홀딩스를 통해 디지털 싱글로 발매되었다. "Lonely"는 [테디와](https://ko.wikipedia.org/wiki/테디_\(가수\) "wikilink") 이낙이 공동 작곡한 노래로, 기존의 퍼포먼스를 중시하던 2NE1의 노래와 달리 드럼비트를 빼고 현악기로만 곡을 전개해나가는 어쿠스틱 [알앤비](https://ko.wikipedia.org/wiki/컨템포러리_알앤비 "wikilink") 스타일의 노래이다.
+"**Lonely**"는 대한민국의 음악 그룹 [투애니원](https://ko.wikipedia.org/wiki/투애니원 "wikilink")의 노래이다. 2011년 5월 12일 케이엠피홀딩스를 통해 디지털 싱글로 발매되었다. "Lonely"는 [테디와](https://ko.wikipedia.org/wiki/테디_\(가수\) "wikilink") 이낙이 공동 작곡한 노래로, 기존의 퍼포먼스를 중시하던 2NE1의 노래와 달리 드럼비트를 빼고 현악기로만 곡을 전개해나가는 어쿠스틱 [알앤비](../Page/컨템포러리_알앤비.md "wikilink") 스타일의 노래이다.
 
 ## 차트 성적
 

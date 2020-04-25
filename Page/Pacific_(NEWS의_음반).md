@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Pacific \(NEWS의 음반\)](https://ko.wikipedia.org/wiki/Pacific_\(NEWS의_음반\)).
 
 
-《**pacific**》(퍼시픽)은, [NEWS](https://ko.wikipedia.org/wiki/NEWS "wikilink")의 2번째 [정규 음반이다](../Page/정규_음반.md "wikilink").
+《**pacific**》(퍼시픽)은 [NEWS](https://ko.wikipedia.org/wiki/NEWS "wikilink")의 2번째 [정규 음반이다](../Page/정규_음반.md "wikilink").
 
 ## 개요
 

@@ -15,7 +15,7 @@
 
 <!-- end list -->
 
-  - 1985년: 없음 ([삼성 라이온즈](https://ko.wikipedia.org/wiki/삼성_라이온즈 "wikilink") 통합 우승)
+  - 1985년: 없음 ([삼성 라이온즈](../Page/삼성_라이온즈.md "wikilink") 통합 우승)
 
 <!-- end list -->
 
@@ -83,7 +83,7 @@
 
 <!-- end list -->
 
-  - 2002년: [마해영](../Page/마해영.md "wikilink") ([삼성 라이온즈](https://ko.wikipedia.org/wiki/삼성_라이온즈 "wikilink"), 외야수) : 24타수 11안타 3홈런 10타점 4차전 결승타 5차전 홈런2, 6차전 끝내기홈런
+  - 2002년: [마해영](../Page/마해영.md "wikilink") ([삼성 라이온즈](../Page/삼성_라이온즈.md "wikilink"), 외야수) : 24타수 11안타 3홈런 10타점 4차전 결승타 5차전 홈런2, 6차전 끝내기홈런
 
 <!-- end list -->
 
@@ -95,11 +95,11 @@
 
 <!-- end list -->
 
-  - 2005년: [오승환](https://ko.wikipedia.org/wiki/오승환 "wikilink") ([삼성 라이온즈](https://ko.wikipedia.org/wiki/삼성_라이온즈 "wikilink"), 투수) : 3경기 1세이브, 7이닝 무실점, 11탈삼진, 평균 자책점 0.00
+  - 2005년: [오승환](https://ko.wikipedia.org/wiki/오승환 "wikilink") ([삼성 라이온즈](../Page/삼성_라이온즈.md "wikilink"), 투수) : 3경기 1세이브, 7이닝 무실점, 11탈삼진, 평균 자책점 0.00
 
 <!-- end list -->
 
-  - 2006년: [박진만](../Page/박진만.md "wikilink") ([삼성 라이온즈](https://ko.wikipedia.org/wiki/삼성_라이온즈 "wikilink"), 내야수) : 25타수 7안타 2타점, 3차전 결승타
+  - 2006년: [박진만](../Page/박진만.md "wikilink") ([삼성 라이온즈](../Page/삼성_라이온즈.md "wikilink"), 내야수) : 25타수 7안타 2타점, 3차전 결승타
 
 <!-- end list -->
 
@@ -119,19 +119,19 @@
 
 <!-- end list -->
 
-  - 2011년: [오승환](https://ko.wikipedia.org/wiki/오승환 "wikilink") ([삼성 라이온즈](https://ko.wikipedia.org/wiki/삼성_라이온즈 "wikilink"), 투수) : 4경기 5.2이닝 무실점 3세이브, 평균 자책점 0.00
+  - 2011년: [오승환](https://ko.wikipedia.org/wiki/오승환 "wikilink") ([삼성 라이온즈](../Page/삼성_라이온즈.md "wikilink"), 투수) : 4경기 5.2이닝 무실점 3세이브, 평균 자책점 0.00
 
 <!-- end list -->
 
-  - 2012년: [이승엽](https://ko.wikipedia.org/wiki/이승엽 "wikilink") ([삼성 라이온즈](https://ko.wikipedia.org/wiki/삼성_라이온즈 "wikilink"), 내야수) : 23타수 8안타, 타율 0.348, 1홈런 7타점, 1차전 결승홈런 (최고령 한국시리즈 MVP, 수상 당시 만 36세)
+  - 2012년: [이승엽](https://ko.wikipedia.org/wiki/이승엽 "wikilink") ([삼성 라이온즈](../Page/삼성_라이온즈.md "wikilink"), 내야수) : 23타수 8안타, 타율 0.348, 1홈런 7타점, 1차전 결승홈런 (최고령 한국시리즈 MVP, 수상 당시 만 36세)
 
 <!-- end list -->
 
-  - 2013년: [박한이](../Page/박한이.md "wikilink") ([삼성 라이온즈](https://ko.wikipedia.org/wiki/삼성_라이온즈 "wikilink"), 외야수) : 24타수 7안타, 타율 0.292, 1홈런 6타점, 6득점
+  - 2013년: [박한이](../Page/박한이.md "wikilink") ([삼성 라이온즈](../Page/삼성_라이온즈.md "wikilink"), 외야수) : 24타수 7안타, 타율 0.292, 1홈런 6타점, 6득점
 
 <!-- end list -->
 
-  - 2014년: [야마이코 나바로](../Page/야마이코_나바로.md "wikilink") ([삼성 라이온즈](https://ko.wikipedia.org/wiki/삼성_라이온즈 "wikilink"), 내야수) : 24타수 8안타, 타율 0.333, 4홈런 10타점, 단일 한국시리즈 최다 홈런 타이, 6차전 5타수 3안타 1홈런 5타점
+  - 2014년: [야마이코 나바로](../Page/야마이코_나바로.md "wikilink") ([삼성 라이온즈](../Page/삼성_라이온즈.md "wikilink"), 내야수) : 24타수 8안타, 타율 0.333, 4홈런 10타점, 단일 한국시리즈 최다 홈런 타이, 6차전 5타수 3안타 1홈런 5타점
 
 <!-- end list -->
 
@@ -155,7 +155,7 @@
 
 <!-- end list -->
 
-  - 최다 수상선수 : [김용수](https://ko.wikipedia.org/wiki/김용수 "wikilink")([LG 트윈스](../Page/LG_트윈스.md "wikilink"), 1990,1994), [이종범](../Page/이종범.md "wikilink")([해태 타이거즈](../Page/해태_타이거즈.md "wikilink")(현 [KIA 타이거즈](https://ko.wikipedia.org/wiki/KIA_타이거즈 "wikilink")), 1993,1997), [정민태(현대 유니콘스, 1998, 2003), 오승환](https://ko.wikipedia.org/wiki/오승환 "wikilink")([삼성 라이온즈](https://ko.wikipedia.org/wiki/삼성_라이온즈 "wikilink"), 2005,2011) 이상 2회
+  - 최다 수상선수 : [김용수](https://ko.wikipedia.org/wiki/김용수 "wikilink")([LG 트윈스](../Page/LG_트윈스.md "wikilink"), 1990,1994), [이종범](../Page/이종범.md "wikilink")([해태 타이거즈](../Page/해태_타이거즈.md "wikilink")(현 [KIA 타이거즈](https://ko.wikipedia.org/wiki/KIA_타이거즈 "wikilink")), 1993,1997), [정민태(현대 유니콘스, 1998, 2003), 오승환](https://ko.wikipedia.org/wiki/오승환 "wikilink")([삼성 라이온즈](../Page/삼성_라이온즈.md "wikilink"), 2005,2011) 이상 2회
 
 ## 함께 보기
 

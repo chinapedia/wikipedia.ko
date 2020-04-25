@@ -21,7 +21,7 @@
 
 ### 안드로이드 4.1.2 젤리빈 업그레이드
 
-[2013년](../Page/2013년.md "wikilink") [4월 16일](../Page/4월_16일.md "wikilink") [대한민국](../Page/대한민국.md "wikilink")에서 [SK텔레콤](../Page/SK텔레콤.md "wikilink") 모델을 시작으로 [4.1.2 젤리빈으로](https://ko.wikipedia.org/wiki/안드로이드_버전_역사 "wikilink") 마지막 업그레이드가 완료 되었다.\[2\]
+[2013년](../Page/2013년.md "wikilink") [4월 16일](../Page/4월_16일.md "wikilink") [대한민국](../Page/대한민국.md "wikilink")에서 [SK텔레콤](../Page/SK텔레콤.md "wikilink") 모델을 시작으로 [4.1.2 젤리빈으로](https://ko.wikipedia.org/wiki/안드로이드_버전_역사 "wikilink") 마지막 업그레이드가 완료되었다.\[2\]
 
 ## 기타 업그레이드
 

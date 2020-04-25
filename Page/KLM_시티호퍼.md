@@ -13,13 +13,13 @@
 
 ### 현재 사용하는 기종
 
-| 기종                                                                           | 대수                                            | 주문                             | 승객                                       | 비고                                                      |
-| ---------------------------------------------------------------------------- | --------------------------------------------- | ------------------------------ | ---------------------------------------- | ------------------------------------------------------- |
-| <abbr title="Europe Business Class">J</abbr>                                 | <abbr title="Premium Ecomony Class">Y+</abbr> | <abbr title="Economy">Y</abbr> | 합계                                       |                                                         |
-| [엠브라에르 ERJ-175](../Page/엠브라에르_E-Jets.md "wikilink")                          | 17                                            | 0                              | 20                                       | 8                                                       |
-| [엠브라에르 ERJ-190](../Page/엠브라에르_E-Jets.md "wikilink")                          | 32                                            | 0\[2\]                         | 20                                       | 8                                                       |
-| [엠브라에르 ERJ-195-E2](https://ko.wikipedia.org/wiki/엠브라에르_E-Jets-E2 "wikilink") | 0                                             | 15                             | <abbr title="To Be Announced">TBA</abbr> | [2020년](../Page/2020년.md "wikilink")부터 순차적으로 도입 예정\[3\] |
-| 합계                                                                           | 49                                            | 15                             |                                          |                                                         |
+| 기종                                                                           | 대수                                            | 주문                             | 승객                                       | 비고                                                           |
+| ---------------------------------------------------------------------------- | --------------------------------------------- | ------------------------------ | ---------------------------------------- | ------------------------------------------------------------ |
+| <abbr title="Europe Business Class">J</abbr>                                 | <abbr title="Premium Ecomony Class">Y+</abbr> | <abbr title="Economy">Y</abbr> | 합계                                       |                                                              |
+| [엠브라에르 ERJ-175](../Page/엠브라에르_E-Jets.md "wikilink")                          | 17                                            | 0                              | 20                                       | 8                                                            |
+| [엠브라에르 ERJ-190](../Page/엠브라에르_E-Jets.md "wikilink")                          | 32                                            | 0                              | 20                                       | 8                                                            |
+| [엠브라에르 ERJ-195-E2](https://ko.wikipedia.org/wiki/엠브라에르_E-Jets-E2 "wikilink") | 0                                             | 21                             | <abbr title="To Be Announced">TBA</abbr> | [2020년](../Page/2020년.md "wikilink")부터 순차적으로 도입 예정\[2\]\[3\] |
+| 합계                                                                           | 49                                            | 21                             |                                          |                                                              |
 
 **KLM 시티호퍼의 보유기종**
 
@@ -61,5 +61,5 @@
 [분류:네덜란드의 항공사](https://ko.wikipedia.org/wiki/분류:네덜란드의_항공사 "wikilink") [분류:1991년 설립](https://ko.wikipedia.org/wiki/분류:1991년_설립 "wikilink") [분류:에어프랑스-KLM](https://ko.wikipedia.org/wiki/분류:에어프랑스-KLM "wikilink")
 
 1.
-2.  [KLM Cityhopper to lease six additional Embraer 190](http://worldairlinenews.com/2013/07/31/klm-cityhopper-to-lease-six-additional-embraer-190s/)
+2.
 3.

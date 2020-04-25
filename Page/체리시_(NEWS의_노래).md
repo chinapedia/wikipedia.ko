@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [체리시 \(NEWS의 노래\)](https://ko.wikipedia.org/wiki/체리시_\(NEWS의_노래\)).
 
 
-〈**체리시**〉()는, [NEWS](https://ko.wikipedia.org/wiki/NEWS "wikilink")의 3번째 [싱글이다](../Page/싱글_\(음악\).md "wikilink").
+〈**체리시**〉()는 [NEWS](https://ko.wikipedia.org/wiki/NEWS "wikilink")의 3번째 [싱글이다](../Page/싱글_\(음악\).md "wikilink").
 
 ## 개요
 

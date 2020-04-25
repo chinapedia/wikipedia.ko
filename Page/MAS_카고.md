@@ -165,7 +165,7 @@
 
 ## 사진
 
-파일:MASkargo A330-200F 9M-MUC BKK 2012-6-14.png|MAS 카고의 [에어버스 A330-200F](../Page/에어버스_A330.md "wikilink")
+파일:MASkargo A330-200F 9M-MUC BKK 2012-6-14.png|MAS 카고의 [에어버스 A330-200F](../Page/에어버스_A330.md "wikilink") 파일:9M-MPS in FRA.jpg|MAS 카고의 [보잉 747-400F](../Page/보잉_747-400.md "wikilink") 구도색 파일:MASKargo Boeing 747-400 SYD Gilbert.jpg|MAS 카고의 [보잉 747-200SF](../Page/보잉_747.md "wikilink")
 
 ## 같이 보기
 

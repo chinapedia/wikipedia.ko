@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [WWE 월드 태그팀 챔피언십](https://ko.wikipedia.org/wiki/WWE_월드_태그팀_챔피언십).
 
 
-**WWE 월드 태그팀 챔피언십**(WWE World Tag Team Championship)은 [WWE](https://ko.wikipedia.org/wiki/WWE "wikilink")에 속해있던 태그팀 챔피언십이었다.
+**WWE 월드 태그팀 챔피언십**(WWE World Tag Team Championship)은 [WWE](../Page/WWE.md "wikilink")에 속해있던 태그팀 챔피언십이었다.
 
 1971년 부터 2002년까지 단일 태그팀 타이틀을 속해 있다가 브랜드 확장 이후 2002년부터 [WWE 태그팀 챔피언십이](https://ko.wikipedia.org/wiki/WWE_태그팀_챔피언십 "wikilink") 탄생하면서 두 분야의 태그팀 타이틀이 소지하고 있었다. 그러나 2009년 [레슬매니아](../Page/레슬매니아.md "wikilink")로 통합하다가 2010년 새로운 벨트가 바뀌게 되면서 [WWE 태그팀 챔피언십만](https://ko.wikipedia.org/wiki/WWE_태그팀_챔피언십 "wikilink") 남게 되었고 이 타이틀은 40년 만에 역사속으로 폐지 되었다.
 

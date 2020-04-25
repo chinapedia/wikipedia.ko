@@ -93,7 +93,7 @@
 <td></td>
 <td><p>16기</p></td>
 <td><p>2019년 9월 12일</p></td>
-<td><p>AKS</p></td>
+<td><p>DH</p></td>
 <td></td>
 <td><p>-</p></td>
 <td></td>
@@ -105,7 +105,7 @@
 <td></td>
 <td><p>13기</p></td>
 <td><p>2013년 8월 24일</p></td>
-<td><p>AKS</p></td>
+<td><p>산 오피스</p></td>
 <td></td>
 <td><p>4</p></td>
 <td><p>K</p></td>
@@ -117,7 +117,7 @@
 <td></td>
 <td><p>16기</p></td>
 <td><p>2018년 4월 2일</p></td>
-<td><p>AKS</p></td>
+<td><p>DH</p></td>
 <td></td>
 <td><p>최연소</p></td>
 <td></td>
@@ -129,7 +129,7 @@
 <td></td>
 <td><p>16기</p></td>
 <td><p>2018년 4월 2일</p></td>
-<td><p>AKS</p></td>
+<td><p>DH</p></td>
 <td></td>
 <td><p>-</p></td>
 <td></td>
@@ -142,7 +142,7 @@
 <td><p>드래프트<br />
 2기</p></td>
 <td><p>2017년 9월 27일</p></td>
-<td><p>AKS</p></td>
+<td><p>DH</p></td>
 <td></td>
 <td><p>4</p></td>
 <td><p>-</p></td>
@@ -155,7 +155,7 @@
 <td><p>드래프트<br />
 2기</p></td>
 <td><p>2017년 9월 27일</p></td>
-<td><p>AKS</p></td>
+<td><p>DH</p></td>
 <td></td>
 <td><p>B</p></td>
 <td><p>-</p></td>
@@ -167,7 +167,7 @@
 <td></td>
 <td><p>16기</p></td>
 <td><p>2018년 4월 2일</p></td>
-<td><p>AKS</p></td>
+<td><p>DH</p></td>
 <td></td>
 <td><p>-</p></td>
 <td></td>
@@ -179,7 +179,7 @@
 <td></td>
 <td><p>16기</p></td>
 <td><p>2019년 9월 12일</p></td>
-<td><p>AKS</p></td>
+<td><p>DH</p></td>
 <td></td>
 <td><p>-</p></td>
 <td></td>
@@ -215,7 +215,7 @@
 <td></td>
 <td><p>16기</p></td>
 <td><p>2018년 12월 8일</p></td>
-<td><p>AKS</p></td>
+<td><p>DH</p></td>
 <td></td>
 <td><p>-</p></td>
 <td></td>
@@ -292,7 +292,7 @@
 <td></td>
 <td><p>15기</p></td>
 <td><p>2014년 2월 24일</p></td>
-<td><p>AKS</p></td>
+<td><p>DH</p></td>
 <td></td>
 <td><p>A</p></td>
 <td><p>K</p></td>
@@ -304,7 +304,7 @@
 <td></td>
 <td><p>15기</p></td>
 <td><p>2014년 2월 24일</p></td>
-<td><p>AKS</p></td>
+<td><p>DH</p></td>
 <td></td>
 <td><p>4</p></td>
 <td><p>캡틴</p></td>
@@ -317,7 +317,7 @@
 <td><p>드래프트<br />
 1기</p></td>
 <td><p>-</p></td>
-<td><p>AKS</p></td>
+<td><p>DH</p></td>
 <td></td>
 <td><p>K</p></td>
 <td><p>-</p></td>
@@ -329,7 +329,7 @@
 <td></td>
 <td><p>16기</p></td>
 <td><p>2018년 12월 8일</p></td>
-<td><p>AKS</p></td>
+<td><p>DH</p></td>
 <td></td>
 <td><p>-</p></td>
 <td></td>
@@ -354,7 +354,7 @@
 <td></td>
 <td><p>16기</p></td>
 <td><p>2018년 4월 2일</p></td>
-<td><p>AKS</p></td>
+<td><p>DH</p></td>
 <td></td>
 <td><p>언니는 무토 토무</p></td>
 <td></td>
@@ -366,7 +366,7 @@
 <td></td>
 <td><p>12기</p></td>
 <td><p>2012년 8월 24일</p></td>
-<td><p>AKS</p></td>
+<td><p>DH</p></td>
 <td></td>
 <td><p>K</p></td>
 <td><p>A</p></td>
@@ -378,7 +378,7 @@
 <td></td>
 <td><p>13기</p></td>
 <td><p>2013년 8월 24일</p></td>
-<td><p>AKS</p></td>
+<td><p>DH</p></td>
 <td></td>
 <td><p>4</p></td>
 <td><p>K</p></td>
@@ -390,7 +390,7 @@
 <td></td>
 <td><p>16기</p></td>
 <td><p>2018년 4월 2일</p></td>
-<td><p>AKS</p></td>
+<td><p>DH</p></td>
 <td></td>
 <td><p>최연소</p></td>
 <td></td>
@@ -402,7 +402,7 @@
 <td></td>
 <td><p>15기</p></td>
 <td><p>2014년 2월 24일</p></td>
-<td><p>AKS</p></td>
+<td><p>DH</p></td>
 <td></td>
 <td><p>K</p></td>
 <td><p>-</p></td>
@@ -467,7 +467,7 @@
 <td></td>
 <td><p>13기</p></td>
 <td><p>2013년 8월 24일</p></td>
-<td><p>AKS</p></td>
+<td><p>DH</p></td>
 <td></td>
 <td><p>4</p></td>
 <td><p>캡틴</p></td>
@@ -480,7 +480,7 @@
 <td><p>드래프트<br />
 3기</p></td>
 <td><p>2019년 9월 7일</p></td>
-<td><p>AKS</p></td>
+<td><p>DH</p></td>
 <td></td>
 <td><p>-</p></td>
 <td></td>
@@ -493,7 +493,7 @@
 <td><p>드래프트<br />
 3기</p></td>
 <td><p>2018년 12월 8일</p></td>
-<td><p>AKS</p></td>
+<td><p>DH</p></td>
 <td></td>
 <td><p>-</p></td>
 <td></td>
@@ -530,7 +530,7 @@
 <td></td>
 <td><p>13기</p></td>
 <td><p>2013년 8월 24일</p></td>
-<td><p>AKS</p></td>
+<td><p>DH</p></td>
 <td></td>
 <td><p>4</p></td>
 <td><p>-</p></td>
@@ -543,7 +543,7 @@
 <td><p>드래프트<br />
 2기</p></td>
 <td><p>2017년 9월 27일</p></td>
-<td><p>AKS</p></td>
+<td><p>DH</p></td>
 <td></td>
 <td><p>K</p></td>
 <td><p>최연소</p></td>
@@ -555,7 +555,7 @@
 <td></td>
 <td><p>12기</p></td>
 <td><p>2013년 4월 28일</p></td>
-<td><p>AKS</p></td>
+<td><p>DH</p></td>
 <td></td>
 <td><p>A</p></td>
 <td><p>4</p></td>
@@ -568,7 +568,7 @@
 <td><p>드래프트<br />
 3기</p></td>
 <td><p>2019년 9월 7일</p></td>
-<td><p>AKS</p></td>
+<td><p>DH</p></td>
 <td></td>
 <td><p>-</p></td>
 <td></td>
@@ -581,7 +581,7 @@
 <td><p>드래프트<br />
 1기</p></td>
 <td><p>-</p></td>
-<td><p>AKS</p></td>
+<td><p>DH</p></td>
 <td></td>
 <td><p>A</p></td>
 <td><p>-</p></td>
@@ -593,7 +593,7 @@
 <td></td>
 <td><p>15기</p></td>
 <td><p>2014년 10월 3일</p></td>
-<td><p>AKS</p></td>
+<td><p>DH</p></td>
 <td></td>
 <td><p>A</p></td>
 <td><p>-</p></td>
@@ -605,7 +605,7 @@
 <td></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
-<td><p>AKS</p></td>
+<td><p>DH</p></td>
 <td></td>
 <td><p>A</p></td>
 <td><p>-</p></td>
@@ -617,7 +617,7 @@
 <td></td>
 <td><p>15기</p></td>
 <td><p>2014년 2월 24일</p></td>
-<td><p>AKS</p></td>
+<td><p>DH</p></td>
 <td></td>
 <td><p>colspan"2" bgcolor="deepskyblue"|B</p></td>
 <td><p>-</p></td>
@@ -630,7 +630,7 @@
 <td><p>드래프트<br />
 2기</p></td>
 <td><p>2017년 9월 27일</p></td>
-<td><p>AKS</p></td>
+<td><p>DH</p></td>
 <td></td>
 <td><p>B</p></td>
 <td><p>언니는 <a href="https://ko.wikipedia.org/wiki/야마베_미유" title="wikilink">야마베 미유</a> (<a href="../Page/도쿄여자류.md" title="wikilink">도쿄여자류</a>)</p></td>
@@ -695,7 +695,7 @@
 <td></td>
 <td><p>16기</p></td>
 <td><p>2018년 4월 2일</p></td>
-<td><p>AKS</p></td>
+<td><p>DH</p></td>
 <td></td>
 <td><p>-</p></td>
 <td></td>
@@ -707,7 +707,7 @@
 <td></td>
 <td><p>16기</p></td>
 <td><p>2018년 4월 2일</p></td>
-<td><p>AKS</p></td>
+<td><p>DH</p></td>
 <td></td>
 <td><p>-</p></td>
 <td></td>
@@ -719,7 +719,7 @@
 <td></td>
 <td><p>12기</p></td>
 <td><p>2013년 4월 28일</p></td>
-<td><p>AKS</p></td>
+<td><p>DH</p></td>
 <td></td>
 <td><p>B</p></td>
 <td><p>colspan"2" bgcolor="gold"|4</p></td>
@@ -731,7 +731,7 @@
 <td></td>
 <td><p>14기</p></td>
 <td><p>2013년 8월 24일</p></td>
-<td><p>AKS</p></td>
+<td><p>DH</p></td>
 <td></td>
 <td><p>4</p></td>
 <td><p><a href="../Page/STU48.md" title="wikilink">STU48</a></p></td>
@@ -744,7 +744,7 @@
 <td><p>드래프트<br />
 1기</p></td>
 <td><p>-</p></td>
-<td><p>AKS</p></td>
+<td><p>DH</p></td>
 <td></td>
 <td><p>B</p></td>
 <td><p>4</p></td>
@@ -756,7 +756,7 @@
 <td></td>
 <td><p>16기</p></td>
 <td><p>2019년 5월 13일</p></td>
-<td><p>AKS</p></td>
+<td><p>DH</p></td>
 <td></td>
 <td><p>-</p></td>
 <td></td>
@@ -768,7 +768,7 @@
 <td></td>
 <td><p>15기</p></td>
 <td><p>2014년 2월 24일</p></td>
-<td><p>AKS</p></td>
+<td><p>DH</p></td>
 <td></td>
 <td><p>colspan"2" bgcolor="gold"|4</p></td>
 <td><p>-</p></td>
@@ -781,7 +781,7 @@
 <td><p>드래프트<br />
 3기</p></td>
 <td><p>2018년 12월 8일</p></td>
-<td><p>AKS</p></td>
+<td><p>DH</p></td>
 <td></td>
 <td><p>-</p></td>
 <td></td>
@@ -793,7 +793,7 @@
 <td></td>
 <td><p>15기</p></td>
 <td><p>2014년 2월 24일</p></td>
-<td><p>AKS</p></td>
+<td><p>DH</p></td>
 <td></td>
 <td><p>A</p></td>
 <td><p>B</p></td>
@@ -805,7 +805,7 @@
 <td></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
-<td><p>AKS</p></td>
+<td><p>DH</p></td>
 <td></td>
 <td><p>B</p></td>
 <td><p>대만 유학생</p></td>
@@ -817,7 +817,7 @@
 <td><p><strong></strong></p></td>
 <td><p>13기</p></td>
 <td><p>2013년 8월 24일</p></td>
-<td><p>AKS</p></td>
+<td><p>DH</p></td>
 <td></td>
 <td><p>4</p></td>
 <td><p>캡틴, 최연장자</p></td>
@@ -829,7 +829,7 @@
 <td></td>
 <td><p>16기</p></td>
 <td><p>2018년 4월 2일</p></td>
-<td><p>AKS</p></td>
+<td><p>DH</p></td>
 <td></td>
 <td><p>-</p></td>
 <td></td>
@@ -891,7 +891,7 @@
 <td><p>井上美優</p></td>
 <td></td>
 <td><p>2019년 10월 13일</p></td>
-<td><p>AKS</p></td>
+<td><p>DH</p></td>
 <td><p>이와테 현 대표</p></td>
 <td></td>
 <td><p>-</p></td>
@@ -901,7 +901,7 @@
 <td><p>上見天乃</p></td>
 <td></td>
 <td><p>2019년 10월 6일</p></td>
-<td><p>AKS</p></td>
+<td><p>DH</p></td>
 <td><p>미야자키 현 대표</p></td>
 <td></td>
 <td><p>-</p></td>
@@ -911,7 +911,7 @@
 <td><p>歌田初夏</p></td>
 <td></td>
 <td><p>2016년 6월 25일</p></td>
-<td><p>AKS</p></td>
+<td><p>DH</p></td>
 <td><p>아이치 현 대표<br />
 <strong>팀4</strong></p></td>
 <td></td>
@@ -922,7 +922,7 @@
 <td><p>大西桃香</p></td>
 <td></td>
 <td><p>-</p></td>
-<td><p>AKS</p></td>
+<td><p>DH</p></td>
 <td><p>나라 현 대표<br />
 <strong>팀4</strong></p></td>
 <td></td>
@@ -932,21 +932,21 @@
 <td><p><strong><a href="../Page/오카베_린.md" title="wikilink">오카베 린</a></strong></p></td>
 <td><p><strong>岡部麟</strong></p></td>
 <td><p><strong></strong></p></td>
-<td><p>-</p></td>
-<td><p>AKS</p></td>
+<td><p>-|DHH</p></td>
 <td><p>이라바키 현 대표<br />
 팀8 최연장자<br />
 <strong>팀A 캡틴</strong><br />
 <strong>팀8 캡틴</strong></p></td>
 <td></td>
 <td><p>58</p></td>
+<td><p>-</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/오쿠하라_히나코" title="wikilink">오쿠하라 히나코</a></p></td>
 <td><p>奥原妃奈子</p></td>
 <td></td>
 <td><p>2017년 11월 19일</p></td>
-<td><p>AKS</p></td>
+<td><p>DH</p></td>
 <td><p>시마네 현 대표<br />
 <strong>팀B</strong></p></td>
 <td></td>
@@ -957,7 +957,7 @@
 <td><p>奥本陽菜</p></td>
 <td></td>
 <td><p>2017년 6월 25일</p></td>
-<td><p>AKS</p></td>
+<td><p>DH</p></td>
 <td><p>히로시마 현 대표<br />
 <strong>팀A</strong></p></td>
 <td></td>
@@ -968,7 +968,7 @@
 <td><p>小栗有以</p></td>
 <td></td>
 <td><p>-</p></td>
-<td><p>AKS</p></td>
+<td><p>DH</p></td>
 <td><p>도쿄 도 대표<br />
 <strong>팀A</strong></p></td>
 <td></td>
@@ -979,7 +979,7 @@
 <td><p>小田えりな</p></td>
 <td></td>
 <td><p>-</p></td>
-<td><p>AKS</p></td>
+<td><p>DH</p></td>
 <td><p>가나가와 현 대표<br />
 <strong>팀K</strong></p></td>
 <td></td>
@@ -990,7 +990,7 @@
 <td><p>尾上美月</p></td>
 <td></td>
 <td><p>2019년 11월 9일</p></td>
-<td><p>AKS</p></td>
+<td><p>DH</p></td>
 <td><p>나가사키 현 대표</p></td>
 <td></td>
 <td><p>-</p></td>
@@ -1000,7 +1000,7 @@
 <td><p>蒲地志奈</p></td>
 <td></td>
 <td><p>2019년 10월 6일</p></td>
-<td><p>AKS</p></td>
+<td><p>DH</p></td>
 <td><p>오카야마 현 대표</p></td>
 <td></td>
 <td><p>-</p></td>
@@ -1010,7 +1010,7 @@
 <td><p>川原美咲</p></td>
 <td></td>
 <td><p>2017년 8월 8일</p></td>
-<td><p>AKS</p></td>
+<td><p>DH</p></td>
 <td><p>사가 현 대표<br />
 <strong>팀B</strong></p></td>
 <td></td>
@@ -1021,7 +1021,7 @@
 <td><p>行天優莉奈</p></td>
 <td></td>
 <td><p>-</p></td>
-<td><p>AKS</p></td>
+<td><p>DH</p></td>
 <td><p>가가와 현 대표<br />
 <strong>팀4</strong></p></td>
 <td></td>
@@ -1032,7 +1032,7 @@
 <td><p>倉野尾成美</p></td>
 <td></td>
 <td><p>-</p></td>
-<td><p>AKS</p></td>
+<td><p>DH</p></td>
 <td><p>구마모토 현 대표<br />
 <strong>팀K</strong></p></td>
 <td></td>
@@ -1043,7 +1043,7 @@
 <td><p>坂川陽香</p></td>
 <td></td>
 <td><p>2019년 12월 28일</p></td>
-<td><p>AKS</p></td>
+<td><p>DH</p></td>
 <td><p>후쿠이 현 대표</p></td>
 <td></td>
 <td><p>-</p></td>
@@ -1053,7 +1053,7 @@
 <td><p>坂口渚沙</p></td>
 <td></td>
 <td><p>-</p></td>
-<td><p>AKS</p></td>
+<td><p>DH</p></td>
 <td><p>홋카이도 대표<br />
 <strong>팀4</strong></p></td>
 <td></td>
@@ -1064,7 +1064,7 @@
 <td><p>佐藤朱</p></td>
 <td></td>
 <td><p>-</p></td>
-<td><p>AKS</p></td>
+<td><p>DH</p></td>
 <td><p>미야기 현 대표<br />
 <strong>팀B</strong></p></td>
 <td></td>
@@ -1075,7 +1075,7 @@
 <td><p>下尾みう</p></td>
 <td></td>
 <td><p>-</p></td>
-<td><p>AKS</p></td>
+<td><p>DH</p></td>
 <td><p>야마구치 현 대표<br />
 <strong>팀A</strong></p></td>
 <td></td>
@@ -1086,7 +1086,7 @@
 <td><p>塩原香凜</p></td>
 <td></td>
 <td><p>2019년 10월 14일</p></td>
-<td><p>AKS</p></td>
+<td><p>DH</p></td>
 <td><p>니가타 현 대표</p></td>
 <td></td>
 <td><p>-</p></td>
@@ -1096,7 +1096,7 @@
 <td><p>清水麻璃亜</p></td>
 <td></td>
 <td><p>-</p></td>
-<td><p>AKS</p></td>
+<td><p>DH</p></td>
 <td><p>군마 현 대표<br />
 <strong>팀B</strong></p></td>
 <td></td>
@@ -1107,7 +1107,7 @@
 <td><p>鈴木優香</p></td>
 <td></td>
 <td><p>2019년 10월 14일</p></td>
-<td><p>AKS</p></td>
+<td><p>DH</p></td>
 <td><p>시즈오카 현 대표</p></td>
 <td></td>
 <td><p>-</p></td>
@@ -1117,7 +1117,7 @@
 <td><p>高岡薫</p></td>
 <td></td>
 <td><p>-</p></td>
-<td><p>AKS</p></td>
+<td><p>DH</p></td>
 <td><p>에히메 현 대표<br />
 <strong>팀4</strong></p></td>
 <td></td>
@@ -1128,7 +1128,7 @@
 <td><p>髙橋彩音</p></td>
 <td></td>
 <td><p>-</p></td>
-<td><p>AKS</p></td>
+<td><p>DH</p></td>
 <td><p>사이타마 현 대표<br />
 <strong>팀4</strong></p></td>
 <td></td>
@@ -1139,7 +1139,7 @@
 <td><p>髙橋彩香</p></td>
 <td></td>
 <td><p>2016년 12월 9일</p></td>
-<td><p>AKS</p></td>
+<td><p>DH</p></td>
 <td><p>나가노 현 대표<br />
 <strong>팀4</strong></p></td>
 <td></td>
@@ -1150,7 +1150,7 @@
 <td><p>徳永羚海</p></td>
 <td></td>
 <td><p>2019년 10월 6일</p></td>
-<td><p>AKS</p></td>
+<td><p>DH</p></td>
 <td><p>돗토리 현 대표</p></td>
 <td></td>
 <td><p>-</p></td>
@@ -1160,7 +1160,7 @@
 <td><p>永野芹佳</p></td>
 <td></td>
 <td><p>-</p></td>
-<td><p>AKS</p></td>
+<td><p>DH</p></td>
 <td><p>오사카 부 대표<br />
 <strong>팀4</strong></p></td>
 <td></td>
@@ -1171,7 +1171,7 @@
 <td><p>布谷梨琉</p></td>
 <td></td>
 <td><p>2019년 10월 13일</p></td>
-<td><p>AKS</p></td>
+<td><p>DH</p></td>
 <td><p>아키타 현 대표</p></td>
 <td></td>
 <td><p>-</p></td>
@@ -1181,7 +1181,7 @@
 <td><p>橋本陽菜</p></td>
 <td></td>
 <td><p>-</p></td>
-<td><p>AKS</p></td>
+<td><p>DH</p></td>
 <td><p>도야마 현 대표<br />
 <strong>팀K</strong></p></td>
 <td></td>
@@ -1192,7 +1192,7 @@
 <td><p>長谷川百々花</p></td>
 <td></td>
 <td><p>2019년 10월 13일</p></td>
-<td><p>AKS</p></td>
+<td><p>DH</p></td>
 <td><p>후쿠시마 현 대표<br />
 팀8 최연소</p></td>
 <td></td>
@@ -1203,7 +1203,7 @@
 <td><p>服部有菜</p></td>
 <td></td>
 <td><p>2014년 7월 27일</p></td>
-<td><p>AKS</p></td>
+<td><p>DH</p></td>
 <td><p>기후 현 대표<br />
 <strong>팀B</strong></p></td>
 <td></td>
@@ -1214,7 +1214,7 @@
 <td><p>濱咲友菜</p></td>
 <td></td>
 <td><p>-</p></td>
-<td><p>AKS</p></td>
+<td><p>DH</p></td>
 <td><p>시가 현 대표<br />
 <strong>팀4</strong></p></td>
 <td></td>
@@ -1225,7 +1225,7 @@
 <td><p>春本ゆき</p></td>
 <td></td>
 <td><p>2017년 9월 10일</p></td>
-<td><p>AKS</p></td>
+<td><p>DH</p></td>
 <td><p>도쿠시마 현 대표<br />
 <strong>팀K</strong></p></td>
 <td></td>
@@ -1236,7 +1236,7 @@
 <td><p>左伴彩佳</p></td>
 <td></td>
 <td><p>-</p></td>
-<td><p>AKS</p></td>
+<td><p>DH</p></td>
 <td><p>야마나시 현 대표<br />
 <strong>팀K</strong></p></td>
 <td></td>
@@ -1247,7 +1247,7 @@
 <td><p>平野ひかる</p></td>
 <td></td>
 <td><p>2016년 12월 9일</p></td>
-<td><p>AKS</p></td>
+<td><p>DH</p></td>
 <td><p>이시카와 현 대표<br />
 <strong>팀4</strong></p></td>
 <td></td>
@@ -1258,7 +1258,7 @@
 <td><p>本田仁美</p></td>
 <td></td>
 <td><p>-</p></td>
-<td><p>AKS</p></td>
+<td><p>DH</p></td>
 <td><p>도치기 현 대표<br />
 <strong><a href="../Page/아이즈원.md" title="wikilink">아이즈원</a> 전임 활동 중</strong></p></td>
 <td></td>
@@ -1269,7 +1269,7 @@
 <td><p>福留光帆</p></td>
 <td></td>
 <td><p>2019년 10월 6일</p></td>
-<td><p>AKS</p></td>
+<td><p>DH</p></td>
 <td><p>효고 현 대표</p></td>
 <td></td>
 <td><p>-</p></td>
@@ -1279,17 +1279,17 @@
 <td><p>藤園麗</p></td>
 <td></td>
 <td><p>2018년 10월 20일</p></td>
-<td><p>AKS</p></td>
+<td><p>DH</p></td>
 <td><p>가고시마 현 대표</p></td>
 <td></td>
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/마츠오카_미쿠" title="wikilink">마츠오카 미쿠</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/마츠무라_미쿠" title="wikilink">마츠무라  미쿠</a></p></td>
 <td><p>松村美紅</p></td>
 <td></td>
 <td><p>2019년 10월 14일</p></td>
-<td><p>AKS</p></td>
+<td><p>DH</p></td>
 <td><p>미에 현 대표</p></td>
 <td></td>
 <td><p>-</p></td>
@@ -1299,7 +1299,7 @@
 <td><p>御供茉白</p></td>
 <td></td>
 <td><p>2018년 8월 8일</p></td>
-<td><p>AKS</p></td>
+<td><p>DH</p></td>
 <td><p>야마가타 현 대표</p></td>
 <td></td>
 <td><p>-</p></td>
@@ -1309,7 +1309,7 @@
 <td><p>宮里莉羅</p></td>
 <td></td>
 <td><p>-</p></td>
-<td><p>AKS</p></td>
+<td><p>DH</p></td>
 <td><p>오키나와 현 대표<br />
 <strong>팀4</strong></p></td>
 <td></td>
@@ -1320,7 +1320,7 @@
 <td><p>山田杏華</p></td>
 <td></td>
 <td><p>2017년 3월 20일</p></td>
-<td><p>AKS</p></td>
+<td><p>DH</p></td>
 <td><p>오이타 현 대표<br />
 <strong>팀K</strong></p></td>
 <td></td>
@@ -1331,7 +1331,7 @@
 <td><p>山本瑠香</p></td>
 <td></td>
 <td><p>-</p></td>
-<td><p>AKS</p></td>
+<td><p>DH</p></td>
 <td><p>와카야마 현 대표<br />
 <strong>팀B</strong></p></td>
 <td></td>
@@ -1342,7 +1342,7 @@
 <td><p>横山結衣</p></td>
 <td></td>
 <td><p>-</p></td>
-<td><p>AKS</p></td>
+<td><p>DH</p></td>
 <td><p>아오모리 현 대표<br />
 <strong>팀K</strong><br />
 팀A <a href="../Page/요코야마_유이.md" title="wikilink">요코야마 유이와</a> 동명이인</p></td>
@@ -1354,7 +1354,7 @@
 <td><p>吉田華恋</p></td>
 <td></td>
 <td><p>2015년 4월 3일</p></td>
-<td><p>AKS</p></td>
+<td><p>DH</p></td>
 <td><p>후쿠오카 현 대표<br />
 <strong>팀A</strong></p></td>
 <td></td>
@@ -1365,7 +1365,7 @@
 <td><p>吉川七瀬</p></td>
 <td></td>
 <td><p>-</p></td>
-<td><p>AKS</p></td>
+<td><p>DH</p></td>
 <td><p>지바 현 대표<br />
 <strong>팀B</strong></p></td>
 <td></td>
@@ -1376,7 +1376,7 @@
 <td><p>立仙愛理</p></td>
 <td></td>
 <td><p>2018년 4월 29일</p></td>
-<td><p>AKS</p></td>
+<td><p>DH</p></td>
 <td><p>고치 현 대표</p></td>
 <td></td>
 <td><p>-</p></td>
@@ -1426,7 +1426,7 @@
 <td></td>
 <td><p>드래프트<br />
 3기</p></td>
-<td><p>AKS</p></td>
+<td><p>DH</p></td>
 <td><p>팀A</p></td>
 <td></td>
 <td></td>
@@ -1437,7 +1437,7 @@
 <td></td>
 <td><p>드래프트<br />
 3기</p></td>
-<td><p>AKS</p></td>
+<td><p>DH</p></td>
 <td><p>팀A<br />
 최연장자</p></td>
 <td></td>
@@ -1449,7 +1449,7 @@
 <td></td>
 <td><p>드래프트<br />
 3기</p></td>
-<td><p>AKS</p></td>
+<td><p>DH</p></td>
 <td><p>팀K</p></td>
 <td></td>
 <td></td>
@@ -1460,7 +1460,7 @@
 <td></td>
 <td><p>드래프트<br />
 3기</p></td>
-<td><p>AKS</p></td>
+<td><p>DH</p></td>
 <td><p>팀K</p></td>
 <td></td>
 <td></td>
@@ -1471,7 +1471,7 @@
 <td></td>
 <td><p>드래프트<br />
 3기</p></td>
-<td><p>AKS</p></td>
+<td><p>DH</p></td>
 <td><p>팀K<br />
 최연소</p></td>
 <td></td>
@@ -1483,7 +1483,7 @@
 <td></td>
 <td><p>드래프트<br />
 3기</p></td>
-<td><p>AKS</p></td>
+<td><p>DH</p></td>
 <td><p>팀K</p></td>
 <td></td>
 <td></td>
@@ -1494,7 +1494,7 @@
 <td></td>
 <td><p>드래프트<br />
 3기</p></td>
-<td><p>AKS</p></td>
+<td><p>DH</p></td>
 <td><p>팀4</p></td>
 <td></td>
 <td></td>
@@ -1505,7 +1505,7 @@
 <td></td>
 <td><p>드래프트<br />
 3기</p></td>
-<td><p>AKS</p></td>
+<td><p>DH</p></td>
 <td><p>팀4</p></td>
 <td></td>
 <td></td>
@@ -1515,7 +1515,7 @@
 <td></td>
 <td></td>
 <td><p>16기</p></td>
-<td><p>AKS</p></td>
+<td><p>DH</p></td>
 <td><p>팀4</p></td>
 <td></td>
 <td><p>-</p></td>
@@ -1526,7 +1526,7 @@
 <td></td>
 <td><p>드래프트<br />
 3기</p></td>
-<td><p>AKS</p></td>
+<td><p>DH</p></td>
 <td><p>팀4</p></td>
 <td></td>
 <td></td>
@@ -2287,7 +2287,7 @@ Cee my Nail 오너</p></td>
 <td><p>4</p></td>
 <td><p>Showtitle</p></td>
 <td><p>현예명 : <a href="../Page/미아키_리호.md" title="wikilink">미아키 리호</a> (三秋里歩)<br />
-현 <a href="https://ko.wikipedia.org/wiki/요시모토자카46" title="wikilink">요시모토자카46</a> 멤버<br />
+전 <a href="https://ko.wikipedia.org/wiki/요시모토자카46" title="wikilink">요시모토자카46</a> 멤버<br />
 2012년 11월 1일부터 2013년 5월 27일까지 팀A 재적<br />
 2014년 4월 24일부터 겸임해제까지 <a href="../Page/NMB48.md" title="wikilink">NMB48</a> 팀N 겸임</p></td>
 <td><p>61위</p></td>
@@ -2813,7 +2813,7 @@ Cee my Nail 오너</p></td>
 <td><p>10기</p></td>
 <td><p>2017년 7월 1일</p></td>
 <td><p>4</p></td>
-<td><p>AKS</p></td>
+<td><p>Independent Artists Management</p></td>
 <td><p><a href="../Page/BNK48.md" title="wikilink">BNK48</a> 이적<br />
 2019년 8월 27일자로 <a href="https://ko.wikipedia.org/wiki/CGM48" title="wikilink">CGM48</a> 극장 지배인 이적<br />
 구 팀A→B</p></td>
@@ -2880,7 +2880,7 @@ Cee my Nail 오너</p></td>
 <td></td>
 <td><p>10기</p></td>
 <td><p>2017년 11월 30일</p></td>
-<td><p>재팬 뮤직 엔터테인먼트</p></td>
+<td><p>McCabe Internet TV</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/TPE48" title="wikilink">TPE48</a> (현 <a href="../Page/AKB48_Team_TP.md" title="wikilink">AKB48 Team TP</a>) 이적<br />
 구 팀4</p></td>
 <td><p>-</p></td>
@@ -2960,7 +2960,7 @@ Cee my Nail 오너</p></td>
 <tr class="odd">
 <td><p><a href="../Page/미야와키_사쿠라.md" title="wikilink">미야와키 사쿠라</a></p></td>
 <td></td>
-<td><p>AKS</p></td>
+<td><p>Mercury</p></td>
 <td><p>2014년 4월 24일부터 겸임해제까지 <a href="../Page/HKT48.md" title="wikilink">HKT48</a> 팀KIV 겸임<br />
 <a href="../Page/아이즈원.md" title="wikilink">아이즈원</a> 전임 활동 중</p></td>
 <td><p>4위</p></td>
@@ -2991,7 +2991,7 @@ Cee my Nail 오너</p></td>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/토모나가_미오" title="wikilink">토모나가 미오</a></p></td>
 <td></td>
-<td><p>rowspan="2|AKS</p></td>
+<td><p>(AKS)</p></td>
 <td><p>2014년 4월 24일부터 겸임해제까지 <a href="../Page/HKT48.md" title="wikilink">HKT48</a> 팀KIV 겸임<br />
 구 팀4 겸임</p></td>
 <td><p>21위</p></td>
@@ -3004,10 +3004,10 @@ Cee my Nail 오너</p></td>
 <td></td>
 <td><p>2018년 5월 28일</p></td>
 <td><p>B</p></td>
+<td><p>Mercury</p></td>
 <td><p>2015년 9월 1일부터 겸임해제까지 <a href="../Page/HKT48.md" title="wikilink">HKT48</a> 팀H 겸임<br />
 <a href="../Page/아이즈원.md" title="wikilink">아이즈원</a> 전임 활동 중</p></td>
 <td><p>28위</p></td>
-<td></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -4225,7 +4225,7 @@ Cee my Nail 오너</p></td>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/쿠사카베_아이나" title="wikilink">쿠사카베 아이나</a></p></td>
 <td><p>日下部愛菜</p></td>
-<td><p>AKS</p></td>
+<td><p>Flora</p></td>
 <td><p>현 <a href="https://ko.wikipedia.org/wiki/NGT48" title="wikilink">NGT48</a> 1기생</p></td>
 <td></td>
 </tr>
@@ -4289,7 +4289,7 @@ Cee my Nail 오너</p></td>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/세이지_레이나" title="wikilink">세이지 레이나</a></p></td>
 <td><p>清司麗菜</p></td>
-<td><p>AKS</p></td>
+<td><p>Flora</p></td>
 <td><p>현 <a href="https://ko.wikipedia.org/wiki/NGT48" title="wikilink">NGT48</a> 1기생</p></td>
 <td></td>
 </tr>
@@ -4359,7 +4359,7 @@ Cee my Nail 오너</p></td>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/니시가타_마리나" title="wikilink">니시가타 마리나</a></p></td>
 <td><p>西潟茉莉奈</p></td>
-<td><p>AKS</p></td>
+<td><p>Flora</p></td>
 <td><p>현 <a href="https://ko.wikipedia.org/wiki/NGT48" title="wikilink">NGT48</a> 1기생</p></td>
 <td></td>
 </tr>
@@ -4387,7 +4387,7 @@ Cee my Nail 오너</p></td>
 <tr class="odd">
 <td><p><a href="../Page/마츠오카_하나.md" title="wikilink">마츠오카 하나</a></p></td>
 <td><p>松岡はな</p></td>
-<td><p>AKS</p></td>
+<td><p>Mercury</p></td>
 <td><p>현 <a href="../Page/HKT48.md" title="wikilink">HKT48</a> 팀TII</p></td>
 <td></td>
 </tr>

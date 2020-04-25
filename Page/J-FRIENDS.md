@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [J-FRIENDS](https://ko.wikipedia.org/wiki/J-FRIENDS).
 
 
-**J-FRIENDS**(제이-프렌즈)는, [쟈니즈 사무소](https://ko.wikipedia.org/wiki/자니즈_사무소 "wikilink") 소속의 칸사이 출신자가 있는 아이돌 그룹이 [한신·아와지 대지진](https://ko.wikipedia.org/wiki/한신·아와지_대지진 "wikilink") 때 자선 활동의 일환으로서 [1997년](../Page/1997년.md "wikilink") 12월에 결성하여 [2003년](../Page/2003년.md "wikilink") 3월까지 활동한 기간 한정 스페셜 유닛이다.
+**J-FRIENDS**(제이-프렌즈)는 [쟈니즈 사무소](https://ko.wikipedia.org/wiki/자니즈_사무소 "wikilink") 소속의 칸사이 출신자가 있는 아이돌 그룹이 [한신·아와지 대지진](https://ko.wikipedia.org/wiki/한신·아와지_대지진 "wikilink") 때 자선 활동의 일환으로서 [1997년](../Page/1997년.md "wikilink") 12월에 결성하여 [2003년](../Page/2003년.md "wikilink") 3월까지 활동한 기간 한정 스페셜 유닛이다.
 
 ## 멤버
 

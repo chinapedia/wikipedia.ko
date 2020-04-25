@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Real Clothes](https://ko.wikipedia.org/wiki/Real_Clothes).
 
 
-**리얼 클로즈**(Real Clothes, )는, [마키무라 사토루의](https://ko.wikipedia.org/wiki/마키무라_사토루 "wikilink") [동명 만화를](https://ko.wikipedia.org/wiki/리얼_클로즈_\(만화\) "wikilink") 원작으로 제작되어, [2008년](../Page/2008년.md "wikilink") [9월 16일에](../Page/9월_16일.md "wikilink") 스페셜이, [2009년](../Page/2009년.md "wikilink") [10월 13일부터](../Page/10월_13일.md "wikilink") 같은 해 [12월 22일에](../Page/12월_22일.md "wikilink") 연속극이 방송된 [카리나](https://ko.wikipedia.org/wiki/가리나 "wikilink") 주연의 드라마이다.
+**리얼 클로즈**(Real Clothes, )는 [마키무라 사토루의](https://ko.wikipedia.org/wiki/마키무라_사토루 "wikilink") [동명 만화를](https://ko.wikipedia.org/wiki/리얼_클로즈_\(만화\) "wikilink") 원작으로 제작되어, [2008년](../Page/2008년.md "wikilink") [9월 16일에](../Page/9월_16일.md "wikilink") 스페셜이, [2009년](../Page/2009년.md "wikilink") [10월 13일부터](../Page/10월_13일.md "wikilink") 같은 해 [12월 22일에](../Page/12월_22일.md "wikilink") 연속극이 방송된 [카리나](https://ko.wikipedia.org/wiki/가리나 "wikilink") 주연의 드라마이다.
 
 ## 개요
 

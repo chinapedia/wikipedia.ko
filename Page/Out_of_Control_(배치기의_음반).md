@@ -13,7 +13,7 @@
 2\. **No.3** feat. [Sol Flower](https://ko.wikipedia.org/wiki/솔_플라워 "wikilink")
 
   -
-    작사 배치기 작곡 김민구(신태권밴드) 작곡 황종하, [신태권](https://ko.wikipedia.org/wiki/신태권 "wikilink")
+    작사 배치기 작곡 김민구(신태권밴드) 작곡 황종하, [신태권](https://ko.wikipedia.org/wiki/배드_보이스_써클 "wikilink")
 
 3\. **면전에선 안돼** feat. 한기철 of [Silver Spoon](https://ko.wikipedia.org/wiki/실버스푼 "wikilink")
 

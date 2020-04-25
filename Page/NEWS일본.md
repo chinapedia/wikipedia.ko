@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [NEWS일본](https://ko.wikipedia.org/wiki/NEWS일본).
 
 
-〈**NEWS일본**〉()은, [NEWS](https://ko.wikipedia.org/wiki/NEWS "wikilink")의 [데뷔](https://ko.wikipedia.org/wiki/데뷔 "wikilink") [싱글이다](../Page/싱글_\(음악\).md "wikilink").
+〈**NEWS일본**〉()은 [NEWS](https://ko.wikipedia.org/wiki/NEWS "wikilink")의 [데뷔](https://ko.wikipedia.org/wiki/데뷔 "wikilink") [싱글이다](../Page/싱글_\(음악\).md "wikilink").
 
 본작의 타이틀을 씌운 DVD·VHS 《NEWS 일본 0304》에 대해서도 본항에서 상술한다.
 
@@ -49,7 +49,7 @@
 
 ## NEWS 일본 0304
 
-〈**NEWS 일본 0304**〉()는, [NEWS](https://ko.wikipedia.org/wiki/NEWS "wikilink")의 1번째 라이브 비디오 음반이다.
+〈**NEWS 일본 0304**〉()는 [NEWS](https://ko.wikipedia.org/wiki/NEWS "wikilink")의 1번째 라이브 비디오 음반이다.
 
 크게 나눠서, 데뷔 전후의 [다큐멘터리](https://ko.wikipedia.org/wiki/다큐멘터리 "wikilink") 영상, 콘서트 영상, PV의 3개로 구성된다. 수록 기간이 2003년 9월부터 2004년 1월까지기 때문에, 2003년말에 그룹을 탈퇴·[쟈니즈 사무소를](../Page/자니스_사무소.md "wikilink") 퇴소한 모리우치 타카히로의 모습도 볼 수 있어 크레딧 타이틀에도 이름이 기록되고 있다. 다만, 자켓 사진이나, 봉입되고 있는 소책자에는 게재되어 있지 않다.
 

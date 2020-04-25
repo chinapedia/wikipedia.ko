@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [TNA 에픽스](https://ko.wikipedia.org/wiki/TNA_에픽스).
 
 
-**TNA 에픽스 (TNA Epics)**는 [TNA의](https://ko.wikipedia.org/wiki/토탈_논스톱_액션_레슬링 "wikilink") 과거 명경기들을 돌아보는 프로그램으로 [WWE](https://ko.wikipedia.org/wiki/WWE "wikilink")의 [빈티지와](https://ko.wikipedia.org/wiki/WWE_빈티지_컬렉션 "wikilink") 유사한 포맷의 프로그램이다. 진행자는 믹 폴리이다.
+**TNA 에픽스 (TNA Epics)**는 [TNA의](https://ko.wikipedia.org/wiki/토탈_논스톱_액션_레슬링 "wikilink") 과거 명경기들을 돌아보는 프로그램으로 [WWE](../Page/WWE.md "wikilink")의 [빈티지와](https://ko.wikipedia.org/wiki/WWE_빈티지_컬렉션 "wikilink") 유사한 포맷의 프로그램이다. 진행자는 믹 폴리이다.
 
 ## 에피소드
 

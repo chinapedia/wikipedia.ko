@@ -45,17 +45,17 @@
 </tr>
 <tr class="even">
 <td><p>2009년 9월 18일</p></td>
+<td><p><a href="../Page/홍콩.md" title="wikilink">홍콩</a></p></td>
 <td></td>
 <td><p>아시아 월드 아레나[3]</p></td>
 <td><p>14,793명</p></td>
-<td></td>
 </tr>
 <tr class="odd">
 <td><p>2009년 10월 18일</p></td>
 <td><p><a href="../Page/상하이시.md" title="wikilink">상하이</a></p></td>
-<td></td>
 <td><p>원심 체육관[4]</p></td>
 <td><p>12,354명</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>2009년 11월 28일</p></td>

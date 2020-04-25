@@ -378,7 +378,7 @@
 <td><p>1부</p></td>
 <td><p>2월 12일</p></td>
 <td><p><a href="../Page/소녀_탐정_박해솔.md" title="wikilink">소녀 탐정 박해솔</a></p></td>
-<td><p><a href="../Page/남지현_(1995년).md" title="wikilink">남지현</a>, <a href="../Page/김주영_(1987년).md" title="wikilink">김주영</a>, <a href="../Page/이민우_(배우).md" title="wikilink">이민우</a>, <a href="../Page/김현균.md" title="wikilink">김현균</a>,<br />
+<td><p><a href="../Page/남지현_(배우).md" title="wikilink">남지현</a>, <a href="../Page/김주영_(1987년).md" title="wikilink">김주영</a>, <a href="../Page/이민우_(배우).md" title="wikilink">이민우</a>, <a href="../Page/김현균.md" title="wikilink">김현균</a>,<br />
 <a href="https://ko.wikipedia.org/wiki/김연수_(배우)" title="wikilink">김연수</a>, <a href="../Page/이달형.md" title="wikilink">이달형</a>, <a href="https://ko.wikipedia.org/wiki/이다인" title="wikilink">이다인</a>, <a href="https://ko.wikipedia.org/wiki/이문수" title="wikilink">이문수</a>,<br />
 <a href="../Page/김승욱.md" title="wikilink">김승욱</a>, <a href="../Page/문보령.md" title="wikilink">문보령</a>, <a href="../Page/김권.md" title="wikilink">김권</a>, <a href="../Page/유준홍.md" title="wikilink">유준홍</a></p></td>
 <td><p>윤수정</p></td>

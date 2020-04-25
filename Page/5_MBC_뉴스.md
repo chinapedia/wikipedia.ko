@@ -152,12 +152,12 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/2020년.md" title="wikilink">2020년</a> <a href="../Page/3월_23일.md" title="wikilink">3월 23일</a> ~ <strong>현재</strong></p></td>
+<td><p><a href="../Page/2020년.md" title="wikilink">2020년</a> <a href="../Page/3월_25일.md" title="wikilink">3월 25일</a> ~ <strong>현재</strong></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/1995년.md" title="wikilink">1995년</a> <a href="../Page/10월_16일.md" title="wikilink">10월 16일</a> ~ <a href="../Page/1996년.md" title="wikilink">1996년</a> <a href="../Page/1월_12일.md" title="wikilink">1월 12일</a></p></td>
+<td><p><a href="../Page/1996년.md" title="wikilink">1996년</a> <a href="../Page/1월_15일.md" title="wikilink">1월 15일</a> ~ <a href="../Page/1996년.md" title="wikilink">1996년</a> <a href="../Page/3월_1일.md" title="wikilink">3월 1일</a></p></td>
 <td><p>평일 오후 5시 ~ 5시 30분 (30분)<br />
 평일 저녁 6시 50분 ~ 7시 15분 (25분)</p></td>
 <td></td>
@@ -263,7 +263,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/2019년.md" title="wikilink">2019년</a> <a href="../Page/7월_15일.md" title="wikilink">7월 15일</a> ~ <a href="../Page/2020년.md" title="wikilink">2020년</a> <a href="../Page/3월_20일.md" title="wikilink">3월 20일</a></p></td>
+<td><p><a href="../Page/2019년.md" title="wikilink">2019년</a> <a href="../Page/7월_15일.md" title="wikilink">7월 15일</a> ~ <a href="../Page/2020년.md" title="wikilink">2020년</a> <a href="../Page/3월_24일.md" title="wikilink">3월 24일</a></p></td>
 <td><p>평일 오후 5시 ~ 5시 25분 (25분)</p></td>
 <td></td>
 </tr>
@@ -368,7 +368,7 @@
 | 16대                                     | [최현정](../Page/최현정_\(방송인\).md "wikilink") 前 아나운서                      | 2011년 2월 16일 \~ 2011년 11월 24일 | \[20\]       |
 | 17대                                     | [류수민](../Page/류수민.md "wikilink") 아나운서                                | 2011년 11월 28일 \~ 2012년 1월 19일 |              |
 | 18대                                     | [김원경](https://ko.wikipedia.org/wiki/김원경 "wikilink") 前 아나운서           | 2012년 4월 9일 \~ 2013년 3월 15일   |              |
-| 19대                                     | [이언주](https://ko.wikipedia.org/wiki/이언주_\(기자\) "wikilink") 기자        | 2013년 3월 18일 \~ 2013년 7월 26일  |              |
+| 19대                                     | [이언주](../Page/이언주_\(기자\).md "wikilink") 기자                           | 2013년 3월 18일 \~ 2013년 7월 26일  |              |
 | 20대                                     | 박선영 기자                                                               | 2013년 7월 29일 \~ 2017년 12월 8일  | \[21\]       |
 | 21대                                     | [차미연](../Page/차미연.md "wikilink") 아나운서                                | 2017년 12월 26일 \~ 2018년 3월 9일  | \[22\]       |
 | 22대                                     | [구은영](../Page/구은영.md "wikilink") 아나운서                                | 2019년 2월 7일 \~ **현재**         | \[23\]\[24\] |

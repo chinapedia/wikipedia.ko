@@ -5,6 +5,8 @@
 
 구체적으로 말해, IEEE 802 표준은 가변 크기 패킷을 전달하는 네트워크에 제한되어 있다. (이와 반대로 [셀 릴레이](../Page/셀_릴레이.md "wikilink") 망에서 데이터는 '셀'이라 불리는 짧고 통일성 있는 크기의 단위로 전송된다)
 
+IEEE 802 계열의 표준들은 LAN/MAN 표준 위원회(IEEE 802 LAN/MAN Standards Committee, LMSC)에 의해 유지보수되고 있다.
+
 ## 워킹 그룹
 
 1.  [IEEE 802.1](https://ko.wikipedia.org/wiki/IEEE_802.1 "wikilink")

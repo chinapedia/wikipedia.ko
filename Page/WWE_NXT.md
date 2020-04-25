@@ -144,10 +144,10 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/WWE_NXT_위민스_챔피언십" title="wikilink">NXT 위민스 챔피언</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/샬럿_플레어" title="wikilink">샬럿 플레어</a></p></td>
+<td><p>2020년 4월 5일</p></td>
+<td><p><a href="../Page/레슬매니아.md" title="wikilink">WWE 레슬매니아</a></p></td>
 <td><p>리아 리플리</p></td>
-<td><p>2019년 12월 18일</p></td>
-<td><p><a href="../Page/WWE_NXT.md" title="wikilink">WWE NXT</a></p></td>
-<td><p>셰이나 배즐러</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/WWE_NXT_태그팀_챔피언십.md" title="wikilink">NXT 태그팀 챔피언</a></p></td>

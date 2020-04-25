@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [WCW 월드 헤비웨이트 챔피언십](https://ko.wikipedia.org/wiki/WCW_월드_헤비웨이트_챔피언십).
 
 
-**WCW 챔피언십**(WCW Championship) 혹은 **WCW 월드 헤비웨이트 챔피언십**(WCW World Heavyweight Championship)은 한때 [WWE](https://ko.wikipedia.org/wiki/WWE "wikilink")의 라이벌 단체였던 [WCW](https://ko.wikipedia.org/wiki/WCW "wikilink")의 월드 타이틀 벨트로 2001년 [WWE 챔피언십과](../Page/WWE_챔피언십.md "wikilink") 통합되어 사라졌다가 [WWE 월드 헤비웨이트 챔피언십이라는](https://ko.wikipedia.org/wiki/WWE_월드_헤비웨이트_챔피언십 "wikilink") 이름으로 부활하였다. (역사는 승계되지 않음. 허나 WWE 측에서 히스토리 오브 월드 헤비웨이트 챔피언쉽 DVD를 발매하여 사실상 역사 승계.)
+**WCW 챔피언십**(WCW Championship) 혹은 **WCW 월드 헤비웨이트 챔피언십**(WCW World Heavyweight Championship)은 한때 [WWE](../Page/WWE.md "wikilink")의 라이벌 단체였던 [WCW](https://ko.wikipedia.org/wiki/WCW "wikilink")의 월드 타이틀 벨트로 2001년 [WWE 챔피언십과](../Page/WWE_챔피언십.md "wikilink") 통합되어 사라졌다가 [WWE 월드 헤비웨이트 챔피언십이라는](https://ko.wikipedia.org/wiki/WWE_월드_헤비웨이트_챔피언십 "wikilink") 이름으로 부활하였다. (역사는 승계되지 않음. 허나 WWE 측에서 히스토리 오브 월드 헤비웨이트 챔피언쉽 DVD를 발매하여 사실상 역사 승계.)
 
 ## 역대 타이틀 명칭
 

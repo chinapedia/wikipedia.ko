@@ -3,7 +3,7 @@
 
 [오른쪽](https://ko.wikipedia.org/wiki/파일:Logo_BBC_Radio_5_Live.svg "wikilink") **BBC 라디오 5 라이브**(BBC Radio 5 Live)는 [BBC의](../Page/영국방송공사.md "wikilink") 라디오 방송 중 하나이다. 주 편성은 스포츠와 뉴스를 중심으로 하며, 긴급 시 뉴스 속보 프로그램도 방송한다.
 
-[1990년](../Page/1990년.md "wikilink") [8월 27일](../Page/8월_27일.md "wikilink") [BBC 라디오 2에서](../Page/BBC_라디오_2.md "wikilink") 사용되었던 AM 주파수를 따로 분리하여 개국하였다. 개국 당시에는 "BBC 라디오 5"였다. 이후 [1994년](../Page/1994년.md "wikilink") [3월 28일에](../Page/3월_28일.md "wikilink") 현재의 이름으로 바뀌었다.
+[1990년](../Page/1990년.md "wikilink") [8월 27일](../Page/8월_27일.md "wikilink") [BBC 라디오 2에서](../Page/BBC_라디오_2.md "wikilink") 사용되었던 AM 주파수를 따로 분리하여 개국하였다. 개국 당시에는 "BBC 라디오 5"였으나, [1994년](../Page/1994년.md "wikilink") [3월 28일부터](../Page/3월_28일.md "wikilink") 현재의 이름으로 바뀌었다.
 
 BBC 라디오 5 라이브의 방송은 [그레이터맨체스터 주](https://ko.wikipedia.org/wiki/그레이터맨체스터_주 "wikilink") [솔퍼드](https://ko.wikipedia.org/wiki/솔퍼드 "wikilink") 외곽에 있는 **미디어시티UK**(MediaCityUK)에서 방송하고 있다. [2008년](../Page/2008년.md "wikilink")에 BBC 라디오 5 라이브의 방송을 미디어시티UK로 이전하겠다는 발표를 하였고, 미디어시티UK가 완공된 [2011년 9월에](../Page/2011년_9월.md "wikilink") 이전을 완료하였다.
 

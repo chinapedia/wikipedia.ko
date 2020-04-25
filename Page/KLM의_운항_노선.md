@@ -299,7 +299,7 @@
 
   - **령 안틸레스**
       - [보네르섬](../Page/보네르섬.md "wikilink") - [플라밍고 국제공항](https://ko.wikipedia.org/wiki/플라밍고_국제공항 "wikilink")
-      - [신트마르턴](https://ko.wikipedia.org/wiki/신트마르턴 "wikilink") - [프린세스 줄리아나 국제공항](../Page/프린세스_줄리아나_국제공항.md "wikilink")
+      - [신트마르턴](../Page/신트마르턴.md "wikilink") - [프린세스 줄리아나 국제공항](../Page/프린세스_줄리아나_국제공항.md "wikilink")
       - [퀴라소](../Page/퀴라소.md "wikilink") - [하토 국제공항](https://ko.wikipedia.org/wiki/하토_국제공항 "wikilink")
   - ****
       - [오라녜스타트](../Page/오라녜스타트_\(아루바\).md "wikilink") - [오라녜스타트 국제공항](https://ko.wikipedia.org/wiki/오라녜스타트_국제공항 "wikilink")

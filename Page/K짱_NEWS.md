@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [K짱 NEWS](https://ko.wikipedia.org/wiki/K짱_NEWS).
 
 
-《**K짱 NEWS**》()는, [일본](../Page/일본.md "wikilink")의 라디오 프로그램이다. [분카 방송](../Page/분카_방송.md "wikilink") 《레코멘\!》 내에서, 《NEWS의 Party Time》의 후계 프로그램으로서 2005년 4월 4일부터 개시해, 현재는 [일본 시간](../Page/일본_표준시.md "wikilink") 매주 화요일 24시부터 24시 반의 사이에 방송된다. [NEWS](https://ko.wikipedia.org/wiki/NEWS "wikilink")의 [코야마 케이치로가](../Page/코야마_케이치로.md "wikilink") 퍼스낼리티를 맡는다.
+《**K짱 NEWS**》()는 [일본](../Page/일본.md "wikilink")의 라디오 프로그램이다. [분카 방송](../Page/분카_방송.md "wikilink") 《레코멘\!》 내에서, 《NEWS의 Party Time》의 후계 프로그램으로서 2005년 4월 4일부터 개시해, 현재는 [일본 시간](../Page/일본_표준시.md "wikilink") 매주 화요일 24시부터 24시 반의 사이에 방송된다. [NEWS](https://ko.wikipedia.org/wiki/NEWS "wikilink")의 [코야마 케이치로가](../Page/코야마_케이치로.md "wikilink") 퍼스낼리티를 맡는다.
 
 ## 개요
 
@@ -87,7 +87,7 @@
 
 ## NEWS의 Party Time
 
-《**NEWS의 Party Time**》(NEWSのParty Time)은, 《K짱 NEWS》의 전신이 되는 라디오 프로그램. 분카 방송 《레코멘\!》 안에서, 일본 시간의 격주 월요일에 방송되었다. 코야마 케이치로가 퍼스낼리티를 맡아 NEWS의 멤버가 1명씩 게스트로서 등장해 프로그램을 진행시켜 나가는 형식은, 《K짱 NEWS》에 계승되었다. 2005년 3월 21일에 종료했다.
+《**NEWS의 Party Time**》(NEWSのParty Time)은 《K짱 NEWS》의 전신이 되는 라디오 프로그램. 분카 방송 《레코멘\!》 안에서, 일본 시간의 격주 월요일에 방송되었다. 코야마 케이치로가 퍼스낼리티를 맡아 NEWS의 멤버가 1명씩 게스트로서 등장해 프로그램을 진행시켜 나가는 형식은, 《K짱 NEWS》에 계승되었다. 2005년 3월 21일에 종료했다.
 
 프로그램 타이틀은 싱글 《[체리시](../Page/체리시_\(NEWS의_노래\).md "wikilink")》에 수록된, 〈Party Time〉이라고 하는 악곡으로부터 쓰였다. 이 곡은 프로그램의 테마 송으로서 사용되었다.
 

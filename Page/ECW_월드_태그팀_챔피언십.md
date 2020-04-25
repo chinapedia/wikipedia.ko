@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ECW 월드 태그팀 챔피언십](https://ko.wikipedia.org/wiki/ECW_월드_태그팀_챔피언십).
 
 
-**ECW 월드 태그팀 챔피언십**(ECW World Tag Team Championship)은 [ECW](https://ko.wikipedia.org/wiki/ECW "wikilink")의 태그팀 챔피언십이었다. 1992년 [NWA](https://ko.wikipedia.org/wiki/NWA "wikilink")의 이스턴 챔피언십 레슬링(ECW)에서 **NWA ECW 태그팀 챔피언십**이였다가 1994년 ECW가 NWA에서 탈퇴한 동시에 **ECW 월드 태그팀 챔피언십**으로 고쳤다. 2001년에는 [WWE](https://ko.wikipedia.org/wiki/WWE "wikilink")에 몰락/흡수당하게 되어서 역사속으로 사라졌다.
+**ECW 월드 태그팀 챔피언십**(ECW World Tag Team Championship)은 [ECW](https://ko.wikipedia.org/wiki/ECW "wikilink")의 태그팀 챔피언십이었다. 1992년 [NWA](https://ko.wikipedia.org/wiki/NWA "wikilink")의 이스턴 챔피언십 레슬링(ECW)에서 **NWA ECW 태그팀 챔피언십**이였다가 1994년 ECW가 NWA에서 탈퇴한 동시에 **ECW 월드 태그팀 챔피언십**으로 고쳤다. 2001년에는 [WWE](../Page/WWE.md "wikilink")에 몰락/흡수당하게 되어서 역사속으로 사라졌다.
 
 ## 기록들
 

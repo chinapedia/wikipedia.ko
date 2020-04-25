@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Roses of Prince Charlie](https://ko.wikipedia.org/wiki/Roses_of_Prince_Charlie).
 
 
-**로지스 어브 프린스 찰리**(영어: Roses of Prince Charlie) 는 [스코틀랜드](../Page/스코틀랜드.md "wikilink")의 2인조 셀틱 포크 그룹인 [더 코리스의](../Page/더_코리스.md "wikilink") 멤버 [로니 브라운이](../Page/로니_브라운.md "wikilink") 작사 및 작곡한 대중가요이다. 1973년경에 작사 및 작곡되었고, 1974년에 처음 발표되었다.
+**로지스 어브 프린스 찰리**(영어: Roses of Prince Charlie)는 [스코틀랜드](../Page/스코틀랜드.md "wikilink")의 2인조 셀틱 포크 그룹인 [더 코리스의](../Page/더_코리스.md "wikilink") 멤버 [로니 브라운이](../Page/로니_브라운.md "wikilink") 작사 및 작곡한 대중가요이다. 1973년경에 작사 및 작곡되었고, 1974년에 처음 발표되었다.
 
 ## 발음
 

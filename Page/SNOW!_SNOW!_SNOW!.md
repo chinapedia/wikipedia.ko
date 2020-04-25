@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [SNOW! SNOW! SNOW!](https://ko.wikipedia.org/wiki/SNOW!_SNOW!_SNOW!).
 
 
-〈**SNOW\! SNOW\! SNOW\!**〉(스노\! 스노\! 스노\!)는, [KinKi Kids의](https://ko.wikipedia.org/wiki/킨키_키즈 "wikilink") 22번째 [싱글이다](../Page/싱글_\(음악\).md "wikilink").
+〈**SNOW\! SNOW\! SNOW\!**〉(스노\! 스노\! 스노\!)는 [KinKi Kids의](https://ko.wikipedia.org/wiki/킨키_키즈 "wikilink") 22번째 [싱글이다](../Page/싱글_\(음악\).md "wikilink").
 
 ## 해설
 

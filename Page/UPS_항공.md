@@ -59,21 +59,22 @@
 
 ### 현재 사용하는 기종
 
-| 기종                                                                       | 대수  | 주문 | 비고                                           |
-| ------------------------------------------------------------------------ | --- | -- | -------------------------------------------- |
-| [에어버스 A300-600RF](../Page/에어버스_A300.md "wikilink")                       | 52  | 0  |                                              |
-| [보잉 747-400BCF](../Page/보잉_747-400.md "wikilink")                        | 2   | 0  |                                              |
-| [보잉 747-400F](../Page/보잉_747-400.md "wikilink")                          | 11  | 0  |                                              |
-| [보잉 747-8F](../Page/보잉_747-8.md "wikilink")                              | 13  | 15 | [2016년](../Page/2016년.md "wikilink") 주문\[9\] |
-| [보잉 757-200PF](../Page/보잉_757.md "wikilink")                             | 75  | 0  |                                              |
-| [보잉 767-300ER/BCF](../Page/보잉_767.md "wikilink")                         | 3   | 0  |                                              |
-| [보잉 767-300ERF](../Page/보잉_767.md "wikilink")                            | 62  | 11 |                                              |
-| [맥도넬더글러스 MD-11F](https://ko.wikipedia.org/wiki/맥도넬더글러스_MD-11 "wikilink") | 37  | 0  |                                              |
-| 합계                                                                       | 247 | 26 |                                              |
+| <span style="color:yellow;">기종                                           | <span style="color:yellow;">대수 | <span style="color:yellow;">주문 | <span style="color:yellow;">비고                              |
+| ------------------------------------------------------------------------ | ------------------------------ | ------------------------------ | ----------------------------------------------------------- |
+| [에어버스 A300-600RF](../Page/에어버스_A300.md "wikilink")                       | 52                             | 0                              |                                                             |
+| [보잉 747-400BCF](../Page/보잉_747-400.md "wikilink")                        | 2                              | 0                              |                                                             |
+| [보잉 747-400F](../Page/보잉_747-400.md "wikilink")                          | 11                             | 0                              |                                                             |
+| [보잉 747-8F](../Page/보잉_747-8.md "wikilink")                              | 15                             | 13                             | [2017년](../Page/2017년.md "wikilink")부터 순차적으로 도입\[9\]        |
+| [보잉 757-200PF](../Page/보잉_757.md "wikilink")                             | 75                             | 0                              |                                                             |
+| [보잉 767-300ER/BCF](../Page/보잉_767.md "wikilink")                         | 4                              | 0                              |                                                             |
+| [보잉 767-300ER/BDSF](../Page/보잉_767.md "wikilink")                        | 2                              | 0                              |                                                             |
+| [보잉 767-300ERF](../Page/보잉_767.md "wikilink")                            | 65                             | 8                              |                                                             |
+| [맥도넬더글러스 MD-11F](https://ko.wikipedia.org/wiki/맥도넬더글러스_MD-11 "wikilink") | 37                             | 2                              | 구. [루프트한자 카고](../Page/루프트한자_카고.md "wikilink") 항공기를 도입\[10\] |
+| 합계                                                                       | 255                            | 23                             |                                                             |
 
 **UPS 항공 보유 기종**
 
-UPS 항공은 거래의 일환과 기존의 [에어버스 A300-600RF을](../Page/에어버스_A300.md "wikilink") 대체하기 위해 더 좋은 옵션인 [에어버스 A380-800F](../Page/에어버스_A380.md "wikilink") 화물기를 10대 주문했다. 하지만 계속되는 지연으로 [2007년](../Page/2007년.md "wikilink") [3월](../Page/3월.md "wikilink") [에어버스 A380-800F](../Page/에어버스_A380.md "wikilink") 화물기 주문을 취소했다. UPS 항공은 [유럽](../Page/유럽.md "wikilink"), [아시아](../Page/아시아.md "wikilink") 및 [북아메리카](../Page/북아메리카.md "wikilink")의 주요 노선에 용량이 증가하면서 [보잉 747-400F](../Page/보잉_747.md "wikilink") 화물기를 주문해 [2007년](../Page/2007년.md "wikilink") [6월](../Page/6월.md "wikilink") 인도했으며 또한 [2007년](../Page/2007년.md "wikilink") [2월](../Page/2월.md "wikilink")에 [보잉 767-300ERF](../Page/보잉_767.md "wikilink") 27대를 주문해 [2009년](../Page/2009년.md "wikilink")부터 순차적으로 인도하기 시작해 [2013년](../Page/2013년.md "wikilink")까지 추가로 인도 되었다.\[10\]
+UPS 항공은 거래의 일환과 기존의 [에어버스 A300-600RF을](../Page/에어버스_A300.md "wikilink") 대체하기 위해 더 좋은 옵션인 [에어버스 A380-800F](../Page/에어버스_A380.md "wikilink") 화물기를 10대 주문했다. 하지만 계속되는 지연으로 [2007년](../Page/2007년.md "wikilink") [3월](../Page/3월.md "wikilink") [에어버스 A380-800F](../Page/에어버스_A380.md "wikilink") 화물기 주문을 취소했다. UPS 항공은 [유럽](../Page/유럽.md "wikilink"), [아시아](../Page/아시아.md "wikilink") 및 [북아메리카](../Page/북아메리카.md "wikilink")의 주요 노선에 용량이 증가하면서 [보잉 747-400F](../Page/보잉_747.md "wikilink") 화물기를 주문해 [2007년](../Page/2007년.md "wikilink") [6월](../Page/6월.md "wikilink") 인도했으며 또한 [2007년](../Page/2007년.md "wikilink") [2월](../Page/2월.md "wikilink")에 [보잉 767-300ERF](../Page/보잉_767.md "wikilink") 27대를 주문해 [2009년](../Page/2009년.md "wikilink")부터 순차적으로 인도하기 시작해 [2013년](../Page/2013년.md "wikilink")까지 추가로 인도 되었다.\[11\]
 
 ### 퇴역 기종
 
@@ -81,11 +82,11 @@ UPS 항공은 거래의 일환과 기존의 [에어버스 A300-600RF을](../Page
 <caption><strong>UPS 항공 퇴역 기종</strong></caption>
 <thead>
 <tr class="header">
-<th><p>기종</p></th>
-<th><p>대수</p></th>
-<th><p>도입 년도</p></th>
-<th><p>퇴역 년도</p></th>
-<th><p>비고</p></th>
+<th><p><span style="color:yellow;">기종</p></th>
+<th><p><span style="color:yellow;">대수</p></th>
+<th><p><span style="color:yellow;">도입 년도</p></th>
+<th><p><span style="color:yellow;">퇴역 년도</p></th>
+<th><p><span style="color:yellow;">비고</p></th>
 </tr>
 </thead>
 <tbody>
@@ -93,7 +94,7 @@ UPS 항공은 거래의 일환과 기존의 [에어버스 A300-600RF을](../Page
 <td><p><a href="../Page/에어버스_A380.md" title="wikilink">에어버스 A380-800F</a></p></td>
 <td><p>10</p></td>
 <td><p>주문 취소</p></td>
-<td><p>개발 지연으로 주문 취소[11]</p></td>
+<td><p>개발 지연으로 주문 취소[12]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -159,9 +160,11 @@ UPS 항공은 전통적인 지주 패턴과 단계 현명한 하강을 교체해
   - [1998년](../Page/1998년.md "wikilink") [9월 11일](../Page/9월_11일.md "wikilink"), [엘링턴 필드에서](https://ko.wikipedia.org/wiki/엘링턴_필드 "wikilink") [루이빌 국제공항을](https://ko.wikipedia.org/wiki/루이빌_국제공항 "wikilink") 오가는 [보잉 767-300ERF](../Page/보잉_767.md "wikilink") 화물 여객기가 활주로를 착륙한 도중 상당한 피해를 입었다. 공항 착륙시 큰 폭풍을 겪고 있었고 [비행기](../Page/비행기.md "wikilink")는 강한 뒷바람과 젖은 활주로에 멈추지 못했다. 활주로를 착륙 후 항공기의 오른쪽 착륙 기어가 헤어와 오른쪽 엔진은 날개에서 분리했으며 비행기는 수리한 다음 정상 운항했다.
   - [2005년](../Page/2005년.md "wikilink") [6월 7일](../Page/6월_7일.md "wikilink"), [루이빌 국제공항에서](https://ko.wikipedia.org/wiki/루이빌_국제공항 "wikilink") [테드 스티븐스 앵커리지 국제공항을](https://ko.wikipedia.org/wiki/테드_스티븐스_앵커리지_국제공항 "wikilink") 가던 [맥도넬더글러스 MD-11F](https://ko.wikipedia.org/wiki/맥도넬더글러스_MD-11 "wikilink") 항공기가 기어를 너무 낮춘 바람에 랜딩 기어가 붕괴 되면서 이후 상당한 피해를 입었다. 다행히 비행기는 수리되어 정상 운항했다. 사고 원인은 승무원의 실수로 드러났다.
   - [2006년](../Page/2006년.md "wikilink") [2월 8일](../Page/2월_8일.md "wikilink"), [필라델피아 국제공항에서](../Page/필라델피아_국제공항.md "wikilink") [하츠필드 잭슨 애틀랜타 국제공항을](https://ko.wikipedia.org/wiki/하츠필드_잭슨_애틀랜타_국제공항 "wikilink") 가던 [더글러스 DC-8F](../Page/더글러스_DC-8.md "wikilink") 항공기가 비행 도중 [더글러스 DC-8F에서](../Page/더글러스_DC-8.md "wikilink") 승무원이 방문하기 전에 화물칸에서 활성화 연기 감지 되면서 [비행기](../Page/비행기.md "wikilink")가 전소되었다. 화재의 원인은 아직까지 해결되지 않았다.
-  - [2010년](../Page/2010년.md "wikilink") [9월 3일](../Page/9월_3일.md "wikilink"), [두바이 국제공항을](../Page/두바이_국제공항.md "wikilink") 출발해 [쾰른 본 공항을](https://ko.wikipedia.org/wiki/쾰른_본_공항 "wikilink") 가던 [UPS 항공 006편](https://ko.wikipedia.org/wiki/UPS_항공_006편 "wikilink") [보잉 747-400F](../Page/보잉_747-400.md "wikilink") 항공기가 이륙한 지 50분 만에 화재가 발생, [샤르자 국제공항으로](../Page/샤르자_국제공항.md "wikilink") 회항하여 비상착륙을 시도하였으나 착륙하는 과정 중 조종불능으로 추락, 비행기에 타고 있던 2명의 승무원이 전원 사망했다. 2010년 11월 6일, [알 카에다에서](https://ko.wikipedia.org/wiki/알_카에다 "wikilink") 자신들의 폭탄 테러라고 밝혔으나 UAE 민간항공국에서는 공식적인 사고 원인을 리튬 이온 배터리에 의한 화재라고 밝혔다.<ref>
+  - [2010년](../Page/2010년.md "wikilink") [9월 3일](../Page/9월_3일.md "wikilink"), [두바이 국제공항을](../Page/두바이_국제공항.md "wikilink") 출발해 [쾰른 본 공항을](https://ko.wikipedia.org/wiki/쾰른_본_공항 "wikilink") 가던 [UPS 항공 006편](https://ko.wikipedia.org/wiki/UPS_항공_006편 "wikilink") [보잉 747-400F](../Page/보잉_747-400.md "wikilink") 항공기가 이륙한 지 50분 만에 화재가 발생, [샤르자 국제공항으로](../Page/샤르자_국제공항.md "wikilink") 회항하여 비상착륙을 시도하였으나 착륙하는 과정 중 조종불능으로 추락, 비행기에 타고 있던 2명의 승무원이 전원 사망했다. 2010년 11월 6일, [알 카에다에서](https://ko.wikipedia.org/wiki/알_카에다 "wikilink") 자신들의 폭탄 테러라고 밝혔으나 [UAE 민간항공국에서는](https://ko.wikipedia.org/wiki/UAE_민간항공국 "wikilink") 공식적인 사고 원인을 [리튬 이온 배터리에](https://ko.wikipedia.org/wiki/리튬_이온_배터리 "wikilink") 의한 화재라고 밝혔다.<ref>
 
-[연합뉴스, "美 UPS기 3년전 두바이 사고 원인은 리튬 배터리"](http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=001&aid=0006391955)</ref>\[12\]
+[연합뉴스, "美 UPS기 3년전 두바이 사고 원인은 리튬 배터리"](http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=001&aid=0006391955)</ref>\[13\]
+
+  - [2016년](../Page/2016년.md "wikilink") [6월 6일](../Page/6월_6일.md "wikilink") [UPS 항공 61편](https://ko.wikipedia.org/wiki/UPS_항공_61편 "wikilink") [MD-11](https://ko.wikipedia.org/wiki/MD-11 "wikilink")F기가 [인천국제공항](https://ko.wikipedia.org/wiki/인천국제공항 "wikilink") 이륙하여, [테드 스티븐스 앵커리지 국제공항](https://ko.wikipedia.org/wiki/테드_스티븐스_앵커리지_국제공항 "wikilink") 사고로 활주로 이탈과 노즈 기어 붕괴 사고로 1번과 3번 엔진이 잔디에 닿았지만, 승무원 4명 모두 부상 없이 살아남았다.\[14\]
 
 ## 사진
 
@@ -187,5 +190,7 @@ UPS 항공은 전통적인 지주 패턴과 단계 현명한 하강을 교체해
 8.
 9.
 10.
-11. [UPS, 에어버스에 28억弗 계약취소 위협](http://www.mt.co.kr/view/mtview.php?type=1&no=2007022610120901725&outlink=1)
-12. [UAE GCAA 사고조사 보고서](http://www.gcaa.gov.ae/en/ePublication/admin/iradmin/Lists/Incidents%20Investigation%20Reports/Attachments/40/2010-2010%20-%20Final%20Report%20-%20Boeing%20747-44AF%20-%20N571UP%20-%20Report%2013%202010.pdf)
+11.
+12. [UPS, 에어버스에 28억弗 계약취소 위협](http://www.mt.co.kr/view/mtview.php?type=1&no=2007022610120901725&outlink=1)
+13. [UAE GCAA 사고조사 보고서](http://www.gcaa.gov.ae/en/ePublication/admin/iradmin/Lists/Incidents%20Investigation%20Reports/Attachments/40/2010-2010%20-%20Final%20Report%20-%20Boeing%20747-44AF%20-%20N571UP%20-%20Report%2013%202010.pdf)
+14.

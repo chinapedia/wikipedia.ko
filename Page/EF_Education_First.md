@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [EF Education First](https://ko.wikipedia.org/wiki/EF_Education_First).
 
 
-**EF 에듀케이션 퍼스트**(, 또는 줄여서 EF) 는 스웨덴의 교육기업\[1\] 이다. 1965년에 설립하여 54년간의 역사를 가진 EF는 British Council, ACCET, ACPET 등 전 세계의 기관들로부터 인증을 받았으며\[2\] , [1988년 서울 올림픽](https://ko.wikipedia.org/wiki/1988년_서울_올림픽 "wikilink"), 2008년 베이징 올림픽, 2018년 평창동계올림픽, 2020년 도쿄 올림픽 등에 공식 언어프로그램 제공업체로 선정되었다\[3\]. [미국](../Page/미국.md "wikilink"), [영국](../Page/영국.md "wikilink"), [캐나다](../Page/캐나다.md "wikilink"), [호주](https://ko.wikipedia.org/wiki/호주 "wikilink"), [뉴질랜드](../Page/뉴질랜드.md "wikilink") 등 영미국가를 비롯해 [프랑스](../Page/프랑스.md "wikilink"), [독일](../Page/독일.md "wikilink"), [싱가포르](../Page/싱가포르.md "wikilink"), [몰타](../Page/몰타.md "wikilink") 등 23개국에 54개의 직영학교를 운영중이며, 500여개의 전 세계 지사를 운영중이다. 어학연수 센터 외에도 EF Academy 라고 불리는 보딩스쿨과 Hult Business School 을 운영해, IB 디플로마, 학사, 석사 학위 과정도 영위하는 세계 최대 교육 기업 및 재단이다.
+**EF 에듀케이션 퍼스트**(, 또는 줄여서 EF)는 스웨덴의 교육기업\[1\] 이다. 1965년에 설립하여 54년간의 역사를 가진 EF는 British Council, ACCET, ACPET 등 전 세계의 기관들로부터 인증을 받았으며\[2\] , [1988년 서울 올림픽](https://ko.wikipedia.org/wiki/1988년_서울_올림픽 "wikilink"), 2008년 베이징 올림픽, 2018년 평창동계올림픽, 2020년 도쿄 올림픽 등에 공식 언어프로그램 제공업체로 선정되었다\[3\]. [미국](../Page/미국.md "wikilink"), [영국](../Page/영국.md "wikilink"), [캐나다](../Page/캐나다.md "wikilink"), [호주](https://ko.wikipedia.org/wiki/호주 "wikilink"), [뉴질랜드](../Page/뉴질랜드.md "wikilink") 등 영미국가를 비롯해 [프랑스](../Page/프랑스.md "wikilink"), [독일](../Page/독일.md "wikilink"), [싱가포르](../Page/싱가포르.md "wikilink"), [몰타](../Page/몰타.md "wikilink") 등 23개국에 54개의 직영학교를 운영중이며, 500여개의 전 세계 지사를 운영중이다. 어학연수 센터 외에도 EF Academy 라고 불리는 보딩스쿨과 Hult Business School 을 운영해, IB 디플로마, 학사, 석사 학위 과정도 영위하는 세계 최대 교육 기업 및 재단이다.
 
 ## 제공 프로그램\[4\]
 

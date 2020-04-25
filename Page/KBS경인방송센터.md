@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [KBS경인방송센터](https://ko.wikipedia.org/wiki/KBS경인방송센터).
 
 
-**KBS경인방송센터**(韓國放送公社 京仁放送-)는 [한국방송공사](../Page/한국방송공사.md "wikilink") 정책기획본부 지역정책실 산하 조직으로 구성된 지역방송국으로 [인천광역시](https://ko.wikipedia.org/wiki/인천광역시 "wikilink")와 [경기도](https://ko.wikipedia.org/wiki/경기도 "wikilink") 지역 방송권을 별개로 분리하여, 경인지역 로컬 뉴스를 중점적으로 제작하고 있다. KBS수원드라마제작센터 내에 위치하고 있는 이 방송국은 [2010년](../Page/2010년.md "wikilink") [8월 24일에](../Page/8월_24일.md "wikilink") 방송통신위원회(현 [과학기술정보통신부](https://ko.wikipedia.org/wiki/과학기술정보통신부 "wikilink"))로부터 허가를 취득하였으며, 그 해 [9월 13일에](../Page/9월_13일.md "wikilink") 개국하였다\[1\]\[2\].
+**KBS경인방송센터**(韓國放送公社 京仁放送-)는 [한국방송공사](../Page/한국방송공사.md "wikilink") 정책기획본부 지역정책실 산하 조직으로 구성된 지역방송국으로 [인천광역시](https://ko.wikipedia.org/wiki/인천광역시 "wikilink")와 [경기도](https://ko.wikipedia.org/wiki/경기도 "wikilink") 지역 방송권을 별개로 분리하여, 경인지역 로컬 뉴스를 중점적으로 자체 제작하고 있다. KBS수원드라마제작센터 내에 위치하고 있는 이 방송국은 [2010년](../Page/2010년.md "wikilink") [8월 24일에](../Page/8월_24일.md "wikilink") 방송통신위원회(현 [과학기술정보통신부](https://ko.wikipedia.org/wiki/과학기술정보통신부 "wikilink"))로부터 허가를 취득하였으며, 그 해 [9월 13일에](../Page/9월_13일.md "wikilink") 개국하였다\[1\]\[2\].
 
 ## 조직
 
@@ -26,7 +26,7 @@
 
 ### 광교산중계소 디지털TV 전파 혼선 문제
 
-[2011년](../Page/2011년.md "wikilink") [2월](../Page/2월.md "wikilink")경에 [남산송신소의](../Page/N서울타워.md "wikilink") 전파를 수신하던 수원의 한 시청자가 갑자기 [EBS](https://ko.wikipedia.org/wiki/EBS_TV "wikilink")(물리채널 64)와 [SBS](../Page/SBS_TV.md "wikilink")(물리채널 68)가 수신되던 채널에서 KBS경인 1TV(물리채널 64)와 KBS 2TV(물리채널 68)가 대신 수신되고 있어 해당 방송을 제대로 시청 할 수 없게되었다는 제보가 올라왔다. 이후 KBS 측에서 광교산중계소에서 해당 채널로 디지털TV 방송을 송출하고 있어 일부 지역에서 남산송신소의 전파에 장애를 일으키고 있다는 사실이 밝혀져 논란을 일으켰다\[5\]\[6\]\[7\].
+[2011년](../Page/2011년.md "wikilink") [2월](../Page/2월.md "wikilink")경에 [남산송신소의](../Page/N서울타워.md "wikilink") 전파를 수신하던 수원의 한 시청자가 갑자기 [EBS](https://ko.wikipedia.org/wiki/EBS_TV "wikilink")(물리채널 64)와 [SBS](../Page/SBS_TV.md "wikilink")(물리채널 68)가 수신되던 채널에서 KBS경인 1TV(물리채널 64)와 KBS 2TV(물리채널 68)가 대신 수신되고 있어 해당 방송을 제대로 시청 할 수 없게 되었다는 제보가 올라왔다. 이후 KBS 측에서 광교산중계소에서 해당 채널로 디지털TV 방송을 송출하고 있어 일부 지역에서 남산송신소의 전파에 혼선을 일으키고 있다는 사실이 밝혀져 논란을 일으켰다\[5\]\[6\]\[7\].
 
 #### 해결 방안
 
@@ -200,8 +200,7 @@
 ## 현직 기자
 
   - 김기흥
-  - 김도영
-  - 김진화
+  - 김유대
   - 김학재
   - 박정권
   - 박재우
@@ -211,6 +210,8 @@
   - 오현태
   - 이정록
   - 이승재
+  - 이철호
+  - 임명규
   - 황진우
 
 ## 각주

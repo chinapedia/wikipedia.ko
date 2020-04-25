@@ -27,4 +27,4 @@ TP 마젬베는 [2010년 FIFA 클럽 월드컵](https://ko.wikipedia.org/wiki/FI
 
   - [TP 마젬베 공식 홈페이지](http://www.tpmazembe.com/)
 
-[TP_마젬베](https://ko.wikipedia.org/wiki/분류:TP_마젬베 "wikilink") [분류:1939년 설립된 축구단](https://ko.wikipedia.org/wiki/분류:1939년_설립된_축구단 "wikilink") [분류:콩고 민주 공화국의 축구단](https://ko.wikipedia.org/wiki/분류:콩고_민주_공화국의_축구단 "wikilink")
+[TP_마젬베](https://ko.wikipedia.org/wiki/분류:TP_마젬베 "wikilink") [분류:1939년 설립된 축구단](https://ko.wikipedia.org/wiki/분류:1939년_설립된_축구단 "wikilink") [분류:콩고민주공화국의 축구단](https://ko.wikipedia.org/wiki/분류:콩고민주공화국의_축구단 "wikilink")

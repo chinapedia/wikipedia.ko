@@ -106,5 +106,5 @@ Dominant 상태에서는 CANH 전압이 5V였다가 Recessive state에서는 CAN
 [분류:통신 표준](https://ko.wikipedia.org/wiki/분류:통신_표준 "wikilink") [분류:컴퓨터 네트워크](https://ko.wikipedia.org/wiki/분류:컴퓨터_네트워크 "wikilink") [분류:직렬 버스](https://ko.wikipedia.org/wiki/분류:직렬_버스 "wikilink") [분류:자동화](https://ko.wikipedia.org/wiki/분류:자동화 "wikilink") [분류:산업 자동화](https://ko.wikipedia.org/wiki/분류:산업_자동화 "wikilink") [분류:산업 컴퓨팅](https://ko.wikipedia.org/wiki/분류:산업_컴퓨팅 "wikilink")
 
 1.  [CAN in Automation.](http://www.can-cia.org)
-2.  [*Building Adapter for Vehicle On-board Diagnostic*](http://www.obddiag.net/adapter.html), obddiag.net, accessed 2009-09-09
+2.  [*Building Adapter for Vehicle On-board Diagnostic*](http://www.obddiag.net/adapter.html) , obddiag.net, accessed 2009-09-09
 3.

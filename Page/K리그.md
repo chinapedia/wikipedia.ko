@@ -1801,6 +1801,7 @@ K리그 공식 경기구의 역사는 크게 ▲낫소, 스타 등 국산 브랜
 | [광주 FC](../Page/광주_FC.md "wikilink")                    | 화니 & 보니                                                    | [주작](../Page/주작.md "wikilink")                                  |    |
 | [수원 삼성 블루윙즈](../Page/수원_삼성_블루윙즈.md "wikilink")          | [아길레온](https://ko.wikipedia.org/wiki/아길레온 "wikilink")      | [사자](../Page/사자.md "wikilink")+[독수리](../Page/독수리.md "wikilink") |    |
 | [FC 서울](https://ko.wikipedia.org/wiki/FC_서울 "wikilink") | [씨드](https://ko.wikipedia.org/wiki/씨드_\(마스코트\) "wikilink") | [외계생명](../Page/외계생명.md "wikilink")체                             |    |
+| 전북현대 모터스                                                | 초아 & 초니                                                    | 봉황                                                              |    |
 
 ## 역대 연고지 변천
 

@@ -9,7 +9,7 @@
 
 ## 수록곡
 
-  - <small>〈Joined By The Heart〉의 원곡은 [작사](https://ko.wikipedia.org/wiki/작사가 "wikilink") [박주연](../Page/박주연.md "wikilink"), 작곡 최진영으로 박주연의 두 번째 정규앨범 《[아직도 너는......?](https://ko.wikipedia.org/wiki/아직도_너는......? "wikilink")》에 수록된 〈널 위한 내 노래〉이다. 원곡에서 윤상이 같이 듀엣을 하였다.</small>
+  - <small>〈Joined By The Heart〉의 원곡은 [박주연](../Page/박주연.md "wikilink") 작사, 최진영 작곡으로 박주연의 두 번째 정규앨범 《[아직도 너는......?](https://ko.wikipedia.org/wiki/아직도_너는......? "wikilink")》에 수록된 〈널 위한 내 노래〉이다. 원곡에서 윤상이 같이 듀엣을 하였다.</small>
   - <small>〈Domani Piove〉의 원곡은 《[윤상 2 (PART 1)](../Page/윤상_2_\(PART_1\).md "wikilink")》에 수록된 〈가려진 시간 사이로〉이다.</small>
   - <small>〈I Giorni Della Musica〉의 원곡은 《[윤상 1집](https://ko.wikipedia.org/wiki/윤상_1집 "wikilink")》에 수록된 〈이별의 그늘〉이다.</small>
   - <small>〈S’Aimer En Silence〉의 원곡은 [강수지](../Page/강수지.md "wikilink")의 다섯 번째 정규앨범 《[SUSIE KANG 5](https://ko.wikipedia.org/wiki/SUSIE_KANG_5 "wikilink")》의 수록곡 〈아름다운 너에게〉이다.</small>
@@ -19,7 +19,7 @@
 ## 참여
 
   - [윤상](../Page/윤상.md "wikilink") - [프로듀서](../Page/음악_프로듀서.md "wikilink"), [편곡](../Page/편곡.md "wikilink")
-  - 박창학 - 프로듀서
+  - [박창학](https://ko.wikipedia.org/wiki/박창학 "wikilink") - 프로듀서
   - Shohei narabe - 편곡, [사진](../Page/사진.md "wikilink")
   - Mark coblin, 조규범 - 믹싱
   - Bobby hata(On air Azabu Studio) - [마스터링](https://ko.wikipedia.org/wiki/마스터링 "wikilink")

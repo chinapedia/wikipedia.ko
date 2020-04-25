@@ -7,7 +7,7 @@
 
 ### 1963년까지의 감독
 
-분데스리가 출범 이전의 감독에 대한 정보에서 일부의 정보는 빠져 있다. 다음의 정보는 디트리히 슐체 마멜링 (Dietrich Schulze-Marmeling) 의 저서 "바이에른, 독일 기록 챔피언" (Die Bayern. Die Geschichte des deutschen Rekordmeisters) 에서 추출해낸 자료이다.\[1\] 일부 감독, 특히 초창기의 감독은 책의 내용에서만 나온 것으로, 그에 따라 일부 감독의 임기는 미상으로 되어 있고, 또한 다음 리스트에 빠진 감독이 존재할 가능성이 있다.
+분데스리가 출범 이전의 감독에 대한 정보에서 일부의 정보는 빠져 있다. 다음의 정보는 디트리히 슐체 마멜링 (Dietrich Schulze-Marmeling)의 저서 "바이에른, 독일 기록 챔피언" (Die Bayern. Die Geschichte des deutschen Rekordmeisters) 에서 추출해낸 자료이다.\[1\] 일부 감독, 특히 초창기의 감독은 책의 내용에서만 나온 것으로, 그에 따라 일부 감독의 임기는 미상으로 되어 있고, 또한 다음 리스트에 빠진 감독이 존재할 가능성이 있다.
 
 <table>
 <thead>

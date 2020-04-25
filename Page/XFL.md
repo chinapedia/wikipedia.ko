@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [XFL](https://ko.wikipedia.org/wiki/XFL).
 
 
-**XFL**(X Football League)은 [WWF가](https://ko.wikipedia.org/wiki/WWE "wikilink") 2001년 2월 [미국](../Page/미국.md "wikilink") 전국 8개 팀으로 새롭게 만든 [미식축구](../Page/미식축구.md "wikilink") 리그이다. 기존 [NFL과](../Page/내셔널_풋볼_리그.md "wikilink") 비교해 볼때 상대적으로 공격적인 룰을 도입했으며, 여름에 미식축구 없이 지낼 수 없는 미국인들을 타켓으로 하였다. [NBC](../Page/NBC.md "wikilink")는 당시 해당 리그를 생중계로 진행하였다.\[1\]\[2\]
+**XFL**(X Football League)은 [WWF가](../Page/WWE.md "wikilink") 2001년 2월 [미국](../Page/미국.md "wikilink") 전국 8개 팀으로 새롭게 만든 [미식축구](../Page/미식축구.md "wikilink") 리그이다. 기존 [NFL과](../Page/내셔널_풋볼_리그.md "wikilink") 비교해 볼때 상대적으로 공격적인 룰을 도입했으며, 여름에 미식축구 없이 지낼 수 없는 미국인들을 타켓으로 하였다. [NBC](../Page/NBC.md "wikilink")는 당시 해당 리그를 생중계로 진행하였다.\[1\]\[2\]
 
 ## 진행과정
 
@@ -11,7 +11,7 @@ XFL은 위기에 대한 대안으로 "대학진학을 못한 고교졸업생을 
 
 ## 파산
 
-결국 [WWF는](https://ko.wikipedia.org/wiki/WWE "wikilink") 시즌 이후 리그 종료는 물론이고, 사업 실패를 선언하였다. 이 때문에 [NBC](../Page/NBC.md "wikilink"), [WWF는](https://ko.wikipedia.org/wiki/WWE "wikilink") 3500만달러의 손해를 보았다. 미국 [포춘](https://ko.wikipedia.org/wiki/포춘 "wikilink")지는 2005년 12월 7일 미국 역사적으로 주목할 만한 이색투자 13가지 중 하나로 XFL의 실패를 선정하였다.\[5\]
+결국 [WWF는](../Page/WWE.md "wikilink") 시즌 이후 리그 종료는 물론이고, 사업 실패를 선언하였다. 이 때문에 [NBC](../Page/NBC.md "wikilink"), [WWF는](../Page/WWE.md "wikilink") 3500만달러의 손해를 보았다. 미국 [포춘](https://ko.wikipedia.org/wiki/포춘 "wikilink")지는 2005년 12월 7일 미국 역사적으로 주목할 만한 이색투자 13가지 중 하나로 XFL의 실패를 선정하였다.\[5\]
 
 ## 재출범
 

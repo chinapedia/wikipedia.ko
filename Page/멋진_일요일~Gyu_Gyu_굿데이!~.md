@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [멋진 일요일\~Gyu Gyu 굿데이!\~](https://ko.wikipedia.org/wiki/멋진_일요일\~Gyu_Gyu_굿데이!\~).
 
 
-**멋진 일요일\~Gyu Gyu 굿데이\!\~**()는, [2011년](../Page/2011년.md "wikilink") [10월 26일에](../Page/10월_26일.md "wikilink") 발매 된 [아시다 마나의](../Page/아시다_마나.md "wikilink") 첫 번째 솔로 싱글 음반이다.
+**멋진 일요일\~Gyu Gyu 굿데이\!\~**()는 [2011년](../Page/2011년.md "wikilink") [10월 26일에](../Page/10월_26일.md "wikilink") 발매 된 [아시다 마나의](../Page/아시다_마나.md "wikilink") 첫 번째 솔로 싱글 음반이다.
 
 ## 개요
 

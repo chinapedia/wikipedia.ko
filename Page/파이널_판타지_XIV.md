@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [파이널 판타지 XIV](https://ko.wikipedia.org/wiki/파이널_판타지_XIV).
 
 
-《**파이널 판타지 XIV**》(FINAL FANTASY XIV, 약칭：**FFXIV**, **FF14**)는, [스퀘어 에닉스가](../Page/스퀘어_에닉스.md "wikilink") 개발한 [파이널 판타지](https://ko.wikipedia.org/wiki/파이널_판타지 "wikilink") 시리즈의 넘버링 타이틀 제 14번 작품이며, FF11이후 2번째 온라인 게임 [MMORPG](../Page/대규모_다중_사용자_온라인_롤플레잉_게임.md "wikilink") 작품이다. Windows판이 오리지널인 것으로는 최초이다.
+《**파이널 판타지 XIV**》(FINAL FANTASY XIV, 약칭：**FFXIV**, **FF14**)는 [스퀘어 에닉스가](../Page/스퀘어_에닉스.md "wikilink") 개발한 [파이널 판타지](https://ko.wikipedia.org/wiki/파이널_판타지 "wikilink") 시리즈의 넘버링 타이틀 제 14번 작품이며, FF11이후 2번째 온라인 게임 [MMORPG](../Page/대규모_다중_사용자_온라인_롤플레잉_게임.md "wikilink") 작품이다. Windows판이 오리지널인 것으로는 최초이다.
 
 일본에서는 윈도우용으로 [2010년](../Page/2010년.md "wikilink") [9월 30일에](../Page/9월_30일.md "wikilink") 발표되었지만 서비스 개시 초기의 반응이 나빠서 [2010년](../Page/2010년.md "wikilink") [12월 31일](../Page/12월_31일.md "wikilink") 서비스 전면 리뉴얼을 위해 기존 서비스를 종료하였다. 구 버전의 『FFXIV』의 개량과 새로운 그래픽스 엔진과 서버를 사용한 『파이널 판타지 XIV：신생 에오르제아』(신생 FFXIV)의 개발이 이루어졌고 2012년 말에 서비스 개시 예정이었으나 오픈 환경 테스트도 늦어졌고, 스케줄 자체가 늦어졌으며, 그 후 2012년 말의 알파 테스트, 2013년 봄의 베타 테스트 페이즈 1 및 2를 실시했다. 2013년 5월 24일, 신생 FFXIV의 발표일 및 서비스 개시일이 2013년 8월 27일이 되었다고 공식 발표함과 동시에 예약 판매를 개시했다.
 

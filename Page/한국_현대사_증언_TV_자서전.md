@@ -548,7 +548,7 @@
 <tr class="even">
 <td><p>83</p></td>
 <td><p><a href="../Page/9월_9일.md" title="wikilink">9월 9일</a></p></td>
-<td><p>故 <a href="https://ko.wikipedia.org/wiki/김성환" title="wikilink">김성환</a></p></td>
+<td><p>故 <a href="../Page/김성환_(만화가).md" title="wikilink">김성환</a></p></td>
 <td><p>고바우 영감</p></td>
 </tr>
 <tr class="odd">

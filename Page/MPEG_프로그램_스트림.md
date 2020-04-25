@@ -63,7 +63,7 @@ MPEG-2 프로그램 스트림은 MPEG-1 부분 2 영상, MPEG-2 부분 2 영상,
 1.  <http://webstore.iec.ch/preview/info_isoiec11172-1%7Bed1.0%7Den.pdf>
 2.
 3.  <http://dvd.sourceforge.net/dvdinfo/dvdmpeg.html>
-4.  <http://www.vbrick.com/docs/VB_WhitePaper_TransportStreamVSProgramStream_rd2.pdf>
+4.
 5.  <http://www.mpucoder.com/DVD/vobov.html>
 6.
 7.  [Pack Header](http://dvd.sourceforge.net/dvdinfo/packhdr.html)

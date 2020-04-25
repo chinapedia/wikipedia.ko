@@ -7,7 +7,7 @@
 
 기존 [IPTV](https://ko.wikipedia.org/wiki/인터넷_프로토콜_텔레비전 "wikilink") 스포츠 채널이 지상파 방송 3사([MBC](../Page/문화방송.md "wikilink"), [SBS](../Page/SBS_\(대한민국의_방송사\).md "wikilink"), [KBS](../Page/한국방송공사.md "wikilink")) 계열 스포츠 채널의 프로그램을 재전송하는 것과는 달리 자체적인 방송을 하는 유일한 IPTV 스포츠 채널이다.\[1\]
 
-IPTV의 특성인 양방향 방송통신융합을 이용한 방송 제작진과 실사용자인 시청자의 요구 충족을 위하여 [2010년](../Page/2010년.md "wikilink")부터 [2012년](../Page/2012년.md "wikilink")까지 [KBO 리그](https://ko.wikipedia.org/wiki/KBO_리그 "wikilink") 중계에서 멀티 앵글 및 편파중계 생방송을 실시하였고 [2013년](../Page/2013년.md "wikilink")에는 스마트 양방향 골프 중계방송을 선보인 바 있다.\[2\] [2018년](../Page/2018년.md "wikilink")부터 국내최초로 [WWE](https://ko.wikipedia.org/wiki/WWE "wikilink")와의 파트너십 연장 체결로 그동안 한국어 녹화중계를 했던 프로그램 [WWE 스맥다운과](../Page/WWE_스맥다운.md "wikilink") 월간 PPV를 비롯해 [WWE 러까지](../Page/WWE_러.md "wikilink") 추가하여 한국어 생중계 방송으로 전환하여 진행될 예정이다. 그리고 [8월](../Page/8월.md "wikilink")에는 국내최초로 [WWE](https://ko.wikipedia.org/wiki/WWE "wikilink")와의 공식적으로 뉴욕에서 열리는 [섬머 슬램을](https://ko.wikipedia.org/wiki/섬머_슬램 "wikilink") 현지 생중계를 진행하게될 예정이며, [8월 20일부터](../Page/8월_20일.md "wikilink") 현지 생중계 된다. 그리고 1년후 [WWE](https://ko.wikipedia.org/wiki/WWE "wikilink")측과 또 다시 공식적으로 뉴욕 [메트라이프 스타디움에서](../Page/메트라이프_스타디움.md "wikilink") 열리는 [레슬매니아](../Page/레슬매니아.md "wikilink")를 [4월 8일에](../Page/4월_8일.md "wikilink") 현지 생중계가 확정되어 진행될 예정이다. 10월 5일부터 [스맥다운](https://ko.wikipedia.org/wiki/스맥다운 "wikilink") 미국 생중계시간이 금요일로 변경됨에 따라 한국시각으로 수요일을 토요일로 동시에 변경하여 생중계될 예정이다.
+IPTV의 특성인 양방향 방송통신융합을 이용한 방송 제작진과 실사용자인 시청자의 요구 충족을 위하여 [2010년](../Page/2010년.md "wikilink")부터 [2012년](../Page/2012년.md "wikilink")까지 [KBO 리그](https://ko.wikipedia.org/wiki/KBO_리그 "wikilink") 중계에서 멀티 앵글 및 편파중계 생방송을 실시하였고 [2013년](../Page/2013년.md "wikilink")에는 스마트 양방향 골프 중계방송을 선보인 바 있다.\[2\] [2018년](../Page/2018년.md "wikilink")부터 국내최초로 [WWE](../Page/WWE.md "wikilink")와의 파트너십 연장 체결로 그동안 한국어 녹화중계를 했던 프로그램 [WWE 스맥다운과](../Page/WWE_스맥다운.md "wikilink") 월간 PPV를 비롯해 [WWE 러까지](../Page/WWE_러.md "wikilink") 추가하여 한국어 생중계 방송으로 전환하여 진행될 예정이다. 그리고 [8월](../Page/8월.md "wikilink")에는 국내최초로 [WWE](../Page/WWE.md "wikilink")와의 공식적으로 뉴욕에서 열리는 [섬머 슬램을](https://ko.wikipedia.org/wiki/섬머_슬램 "wikilink") 현지 생중계를 진행하게될 예정이며, [8월 20일부터](../Page/8월_20일.md "wikilink") 현지 생중계 된다. 그리고 1년후 [WWE](../Page/WWE.md "wikilink")측과 또 다시 공식적으로 뉴욕 [메트라이프 스타디움에서](../Page/메트라이프_스타디움.md "wikilink") 열리는 [레슬매니아](../Page/레슬매니아.md "wikilink")를 [4월 8일에](../Page/4월_8일.md "wikilink") 현지 생중계가 확정되어 진행될 예정이다. 10월 5일부터 [스맥다운](https://ko.wikipedia.org/wiki/스맥다운 "wikilink") 미국 생중계시간이 금요일로 변경됨에 따라 한국시각으로 수요일을 토요일로 동시에 변경하여 생중계될 예정이다.
 
 ## 아나운서
 
@@ -42,7 +42,7 @@ IPTV의 특성인 양방향 방송통신융합을 이용한 방송 제작진과 
 
 <!-- end list -->
 
-  - [WWE](https://ko.wikipedia.org/wiki/WWE "wikilink")
+  - [WWE](../Page/WWE.md "wikilink")
 
 <!-- end list -->
 

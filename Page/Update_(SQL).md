@@ -88,5 +88,5 @@ SET updated_column = updatevalue
 
 [분류:SQL 키워드](https://ko.wikipedia.org/wiki/분류:SQL_키워드 "wikilink")
 
-1.  <http://dev.mysql.com/doc/refman/5.0/en/update.html> simplified from this page
+1.  <http://dev.mysql.com/doc/refman/5.0/en/update.html>  simplified from this page
 2.  <http://www.postgresql.org/docs/8.1/static/sql-update.html>

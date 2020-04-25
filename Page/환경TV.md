@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [환경TV](https://ko.wikipedia.org/wiki/환경TV).
 
 
-**환경TV**(環境TV)는 [대한민국](../Page/대한민국.md "wikilink")의 [방송채널 사용사업자인](https://ko.wikipedia.org/wiki/대한민국_방송법 "wikilink") 그린포스트코리아가 운영하는 [텔레비전](../Page/텔레비전.md "wikilink") [유료방송](../Page/대한민국의_케이블TV_방송.md "wikilink") [채널이다](https://ko.wikipedia.org/wiki/채널_\(통신\) "wikilink").
+**NBS 한국농업방송**(韓国農業放送)는 [대한민국](../Page/대한민국.md "wikilink")의 [방송채널 사용사업자인](https://ko.wikipedia.org/wiki/대한민국_방송법 "wikilink") 그린포스트코리아가 운영하는 [텔레비전](../Page/텔레비전.md "wikilink") [유료방송](../Page/대한민국의_케이블TV_방송.md "wikilink") [채널이다](https://ko.wikipedia.org/wiki/채널_\(통신\) "wikilink").
 
 ## 연혁
 
@@ -15,6 +15,6 @@
 
 ## 외부 링크
 
-  - [환경TV 홈페이지](http://www.greenpostkorea.co.kr)
+  - [NBS 한국농업방송 홈페이지](https://www.inbs.co.kr/main.do)
 
 [분류:대한민국의 텔레비전 케이블 방송국](https://ko.wikipedia.org/wiki/분류:대한민국의_텔레비전_케이블_방송국 "wikilink") [분류:1995년 설립된 텔레비전 방송국과 채널](https://ko.wikipedia.org/wiki/분류:1995년_설립된_텔레비전_방송국과_채널 "wikilink") [분류:2005년 폐지된 텔레비전 방송국과 채널](https://ko.wikipedia.org/wiki/분류:2005년_폐지된_텔레비전_방송국과_채널 "wikilink") [분류:2005년 설립된 텔레비전 방송국과 채널](https://ko.wikipedia.org/wiki/분류:2005년_설립된_텔레비전_방송국과_채널 "wikilink")

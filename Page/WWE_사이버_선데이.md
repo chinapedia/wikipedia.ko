@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [WWE 사이버 선데이](https://ko.wikipedia.org/wiki/WWE_사이버_선데이).
 
 
-**사이버 선데이**(Cyber Sunday)는 [WWE](https://ko.wikipedia.org/wiki/WWE "wikilink")가 주관하였고, 2004년부터 2005년까지는 **타부 튜즈데이**(Taboo Tuesday)였다가 2006년부터 사이버 선데이로 페이퍼뷰명이 변경되었다. 하지만 2008년 끝으로 폐지되었다.
+**사이버 선데이**(Cyber Sunday)는 [WWE](../Page/WWE.md "wikilink")가 주관하였고, 2004년부터 2005년까지는 **타부 튜즈데이**(Taboo Tuesday)였다가 2006년부터 사이버 선데이로 페이퍼뷰명이 변경되었다. 하지만 2008년 끝으로 폐지되었다.
 
 다른 PPV와 차별화된 것이 있다면 시합 방식, 복장, 특별 심판, 벌칙 등이 팬들의 투표로 결정된다는 것이다.
 

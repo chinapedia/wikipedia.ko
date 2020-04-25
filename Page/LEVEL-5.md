@@ -29,12 +29,13 @@
           - 관련 링크: <http://www.layton-vs-gyakuten.jp/>
   - [이나즈마 일레븐](../Page/이나즈마_일레븐.md "wikilink") 시리즈
       - [이나즈마 일레븐 GO](https://ko.wikipedia.org/wiki/이나즈마_일레븐_GO "wikilink") ([2011년](../Page/2011년.md "wikilink") [12월 15일](../Page/12월_15일.md "wikilink"))
-  - [요괴워치](../Page/요괴워치.md "wikilink") 시리즈
+  - [요괴워치](../Page/요괴워치.md "wikilink") 시리즈 (1, 2, 3)
   - [스낵월드 트레저러스](../Page/스낵월드.md "wikilink")
 
 #### Nintendo Switch
 
   - [스낵월드 트레저러스 골드](../Page/스낵월드.md "wikilink")
+  - [우리들은 같은 하늘을 올려다보고 있다](https://ko.wikipedia.org/wiki/요괴워치_4 "wikilink")
 
 ### 모바일 플랫폼
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [To Anyone](https://ko.wikipedia.org/wiki/To_Anyone).
 
 
-《**To Anyone**》은 대한민국의 [걸 그룹](../Page/걸_그룹.md "wikilink") [2NE1](../Page/2NE1.md "wikilink")의 첫 번째 정규 음반으로, [YG 엔터테인먼트에서](../Page/YG_엔터테인먼트.md "wikilink") 2010년 [9월 9일](../Page/9월_9일.md "wikilink") 발매하였다.\[1\] YG 엔터테인먼트의 CEO [양현석](../Page/양현석.md "wikilink"), [테디](https://ko.wikipedia.org/wiki/테디_박 "wikilink"), e.knock이 음반 제작에 참여하였다. 힙합, [팝](../Page/팝_음악.md "wikilink"), [알앤비](https://ko.wikipedia.org/wiki/컨템포러리_알앤비 "wikilink"), [댄스](https://ko.wikipedia.org/wiki/댄스_음악 "wikilink") 장르로 분류되는 노래들이 수록되었다.
+《**To Anyone**》은 대한민국의 [걸 그룹](../Page/걸_그룹.md "wikilink") [2NE1](../Page/2NE1.md "wikilink")의 첫 번째 정규 음반으로, [YG 엔터테인먼트에서](../Page/YG_엔터테인먼트.md "wikilink") 2010년 [9월 9일](../Page/9월_9일.md "wikilink") 발매하였다.\[1\] YG 엔터테인먼트의 CEO [양현석](../Page/양현석.md "wikilink"), [테디](https://ko.wikipedia.org/wiki/테디_박 "wikilink"), e.knock이 음반 제작에 참여하였다. 힙합, [팝](../Page/팝_음악.md "wikilink"), [알앤비](../Page/컨템포러리_알앤비.md "wikilink"), [댄스](https://ko.wikipedia.org/wiki/댄스_음악 "wikilink") 장르로 분류되는 노래들이 수록되었다.
 
 이 음반은 대부분 다양한 평가를 받았다. 음반의 제작 수준에는 높은 평가를 받았지만, [보코더](../Page/보코더.md "wikilink")나 [오토튠](../Page/오토튠.md "wikilink") 소프트웨어의 과도한 사용에 대해서는 지적을 받기도 하였다. 《To Anyone》은 발매 첫 주부터 [가온](../Page/가온_차트.md "wikilink") 음반 차트의 주간 차트에서 1위를 기록하였고, 월간 차트에서도 1위를 기록하였다. 음반은 총 100,000장이 판매되었다.
 

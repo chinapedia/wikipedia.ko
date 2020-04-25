@@ -52,6 +52,8 @@
 
 ## 역대 리그 우승팀
 
+### 1차 대회, 2차 대회 분리
+
 <table>
 <thead>
 <tr class="header">
@@ -124,6 +126,12 @@
 </tbody>
 </table>
 
+### 단일 리그
+
+| 시즌             | 우승팀                                      |
+| -------------- | ---------------------------------------- |
+| 2019\~2020 D리그 | [신협 상무](../Page/신협_상무_농구단.md "wikilink") |
+
 ### 우승횟수
 
 <table>
@@ -135,7 +143,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>11회</p></td>
+<td><p>12회</p></td>
 <td><p><a href="../Page/신협_상무_농구단.md" title="wikilink">신협 상무</a></p></td>
 </tr>
 <tr class="even">

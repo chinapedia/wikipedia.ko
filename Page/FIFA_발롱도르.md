@@ -982,7 +982,7 @@
 </tr>
 <tr class="even">
 <td><p><strong>1위</strong></p></td>
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/사사키_노리오_(축구인)" title="wikilink">사사키 노리오</a></strong></p></td>
+<td><p><strong><a href="../Page/사사키_노리오_(축구인).md" title="wikilink">사사키 노리오</a></strong></p></td>
 <td><p><strong></strong></p></td>
 <td><p><strong></strong></p></td>
 <td></td>
@@ -1017,7 +1017,7 @@
 </tr>
 <tr class="odd">
 <td><p>2위</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/사사키_노리오_(축구인)" title="wikilink">사사키 노리오</a></p></td>
+<td><p><a href="../Page/사사키_노리오_(축구인).md" title="wikilink">사사키 노리오</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1080,7 +1080,7 @@
 </tr>
 <tr class="even">
 <td><p>3위</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/사사키_노리오_(축구인)" title="wikilink">사사키 노리오</a></p></td>
+<td><p><a href="../Page/사사키_노리오_(축구인).md" title="wikilink">사사키 노리오</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1101,7 +1101,7 @@
 </tr>
 <tr class="odd">
 <td><p>2위</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/사사키_노리오_(축구인)" title="wikilink">사사키 노리오</a></p></td>
+<td><p><a href="../Page/사사키_노리오_(축구인).md" title="wikilink">사사키 노리오</a></p></td>
 <td></td>
 <td></td>
 <td></td>

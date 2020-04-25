@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [WWE 노 머시](https://ko.wikipedia.org/wiki/WWE_노_머시).
 
 
-**노 머시**(No Mercy)는 [WWE](https://ko.wikipedia.org/wiki/WWE "wikilink")가 주관하는 페이퍼뷰이다.
+**노 머시**(No Mercy)는 [WWE](../Page/WWE.md "wikilink")가 주관하는 페이퍼뷰이다.
 
 2003년 6월부터 WWE는 브랜드 분리의 일한으로 브랜드별 페이 퍼 뷰를 진행했다. 따라서 2003년부터 2006년까지 스맥다운 단독페이퍼뷰로 진행되었다가 2007년과 2008년은 [RAW](../Page/WWE_러.md "wikilink") 와 [스맥다운](https://ko.wikipedia.org/wiki/스맥다운 "wikilink")이 합동으로 페이 퍼 뷰를 진행했다. 2008년을 끝으로 사라졌으나, 2016년 7월 [RAW](https://ko.wikipedia.org/wiki/RAW "wikilink")와 [스맥다운](https://ko.wikipedia.org/wiki/스맥다운 "wikilink")이 다시 분리되고 브랜드별 페이 퍼 뷰를 다시 진행하기로 함에 따라 8년만에 부활했다.
 

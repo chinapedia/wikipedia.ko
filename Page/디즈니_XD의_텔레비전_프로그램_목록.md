@@ -267,7 +267,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>《<a href="https://ko.wikipedia.org/wiki/트론:_업라이징" title="wikilink">트론: 업라이징</a>》</p></td>
+<td><p>《<a href="../Page/트론:_업라이징.md" title="wikilink">트론: 업라이징</a>》</p></td>
 <td></td>
 <td></td>
 <td></td>

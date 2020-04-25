@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [WWE 동창생](https://ko.wikipedia.org/wiki/WWE_동창생).
 
 
-**WWE 동창생**(WWE Alumni)는 예전에 [WWE](https://ko.wikipedia.org/wiki/WWE "wikilink")에서 활약했던 레슬러와 임직원들이다.
+**WWE 동창생**(WWE Alumni)는 예전에 [WWE](../Page/WWE.md "wikilink")에서 활약했던 레슬러와 임직원들이다.
 
 ## WWE 동창생
 

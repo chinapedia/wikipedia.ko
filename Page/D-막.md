@@ -31,7 +31,7 @@ D\(p\)-막의 **[장력](../Page/장력.md "wikilink")** \(T_p\)는 D-막의 에
 
 \(T_0\)는 [보손 끈 이론에서는](../Page/보손_끈_이론.md "wikilink") 다음과 같다.
 
-\[T_0=\frac{\pi}{256\kappa_0^2}(2\pi\ell_\text{s})^{22}\]. 여기서 \(\kappa_0\)는 끈의 [아인슈타인-힐베르트 작용에](https://ko.wikipedia.org/wiki/아인슈타인-힐베르트_작용 "wikilink") 나타나는 상수로, 다음과 같다.
+\[T_0=\frac{\pi}{256\kappa_0^2}(2\pi\ell_\text{s})^{22}\]. 여기서 \(\kappa_0\)는 끈의 [아인슈타인-힐베르트 작용에](../Page/아인슈타인-힐베르트_작용.md "wikilink") 나타나는 상수로, 다음과 같다.
 
 \[S_\text{EH}=\frac1{2\kappa_0^2}\int d^{10}x\,\exp(-2\Phi)\sqrt{-\det g}R\]. 초끈의 경우에는 다음과 같다.\[17\]
 

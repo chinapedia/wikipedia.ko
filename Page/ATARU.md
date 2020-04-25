@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ATARU](https://ko.wikipedia.org/wiki/ATARU).
 
 
-《**ATARU**》(아타루)는, [2012년](../Page/2012년.md "wikilink") [4월 15일부터](../Page/4월_15일.md "wikilink") [6월 24일까지](../Page/6월_24일.md "wikilink") [TBS](../Page/도쿄_방송_홀딩스.md "wikilink") 계열의 《[일요극장](../Page/일요극장.md "wikilink")》(21:00 \~ 21:54〈[JST](../Page/일본_표준시.md "wikilink")〉)에서 방송된 [일본](../Page/일본.md "wikilink")의 [텔레비전 드라마이다](https://ko.wikipedia.org/wiki/일본_드라마 "wikilink"). [나카이 마사히로](../Page/나카이_마사히로.md "wikilink") 주연. 사쿠라이 타케하루 각본에 의한 오리지널 작품.
+《**ATARU**》(아타루)는 [2012년](../Page/2012년.md "wikilink") [4월 15일부터](../Page/4월_15일.md "wikilink") [6월 24일까지](../Page/6월_24일.md "wikilink") [TBS](../Page/도쿄_방송_홀딩스.md "wikilink") 계열의 《[일요극장](../Page/일요극장.md "wikilink")》(21:00 \~ 21:54〈[JST](../Page/일본_표준시.md "wikilink")〉)에서 방송된 [일본](../Page/일본.md "wikilink")의 [텔레비전 드라마이다](https://ko.wikipedia.org/wiki/일본_드라마 "wikilink"). [나카이 마사히로](../Page/나카이_마사히로.md "wikilink") 주연. 사쿠라이 타케하루 각본에 의한 오리지널 작품.
 
 [2013년](../Page/2013년.md "wikilink") [1월 6일에](../Page/1월_6일.md "wikilink") 속편인 스페셜 드라마 《**ATARU 스페셜\~뉴욕으로부터의 도전장\!\!\~**》이 방송되었고, 2013년 [9월 14일에](../Page/9월_14일.md "wikilink") 영화화 작품 《[극장판 ATARU THE FIRST LOVE & THE LAST KILL](https://ko.wikipedia.org/wiki/극장판_ATARU_THE_FIRST_LOVE_&_THE_LAST_KILL "wikilink")》이 개봉되었다.
 

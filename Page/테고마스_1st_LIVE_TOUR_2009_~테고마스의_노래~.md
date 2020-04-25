@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [테고마스 1st LIVE TOUR 2009 \~테고마스의 노래\~](https://ko.wikipedia.org/wiki/테고마스_1st_LIVE_TOUR_2009_\~테고마스의_노래\~).
 
 
-《**테고마스 1st LIVE TOUR 2009 \~테고마스의 노래\~**》()는, [테고마스](../Page/테고마스.md "wikilink")의 1번째 라이브 비디오 음반이다.
+《**테고마스 1st LIVE TOUR 2009 \~테고마스의 노래\~**》()는 [테고마스](../Page/테고마스.md "wikilink")의 1번째 라이브 비디오 음반이다.
 
 ## 개요
 

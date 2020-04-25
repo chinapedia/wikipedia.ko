@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [NEWS BEST](https://ko.wikipedia.org/wiki/NEWS_BEST).
 
 
-《**NEWS BEST**》(뉴스 베스트)는, [NEWS](https://ko.wikipedia.org/wiki/NEWS "wikilink")의 1번째 [베스트 음반이다](https://ko.wikipedia.org/wiki/베스트_음반 "wikilink").
+《**NEWS BEST**》(뉴스 베스트)는 [NEWS](https://ko.wikipedia.org/wiki/NEWS "wikilink")의 1번째 [베스트 음반이다](https://ko.wikipedia.org/wiki/베스트_음반 "wikilink").
 
 ## 개요
 

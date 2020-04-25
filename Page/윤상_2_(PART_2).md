@@ -10,7 +10,7 @@
 이 목록은 해당 앨범의 부클릿 〈staff〉목록에서 발췌하였다.\[1\]
 
   - [윤상](../Page/윤상.md "wikilink") - [보컬](https://ko.wikipedia.org/wiki/보컬 "wikilink"), [프로듀서](../Page/음악_프로듀서.md "wikilink"), 컴퓨터 프로그래밍
-  - 박창학 - 프로듀서
+  - [박창학](https://ko.wikipedia.org/wiki/박창학 "wikilink") - 프로듀서
   - paper mode - 프로듀서
       - 김학인 - [드럼](https://ko.wikipedia.org/wiki/드럼 "wikilink"), [타악기](https://ko.wikipedia.org/wiki/타악기 "wikilink"), 컴퓨터 프로그래밍
       - 노성원 - 컴퓨터 프로그래밍

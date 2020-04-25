@@ -73,7 +73,7 @@
 
 ### 작사
 
-  - [데이 애프터 투모로우](https://ko.wikipedia.org/wiki/데이_애프터_투모로우 "wikilink") "Dear Friends" (avex trax, 2003 년 12 월 17 일)
+  - [데이 애프터 투모로우](https://ko.wikipedia.org/wiki/데이_애프터_투모로우 "wikilink") "Dear Friends" (avex trax, 2003년 12월 17일)
       - PV 감독도 담당하였다.
 
 <!-- end list -->

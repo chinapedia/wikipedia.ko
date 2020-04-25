@@ -227,7 +227,7 @@
   - 2013년 8월 8일 악동뮤지션 - **\[Digital Single\] 콩떡빙수 Extreme Cool Summer Edition**
   - 2013년 8월 13일 강승윤 - **\[Digital Single\] 맘도둑**\[33\]
   - 2013년 8월 19일 승리 - **[Let's Talk About Love](../Page/Let's_Talk_About_Love_\(EP\).md "wikilink")**
-  - 2013년 9월 13일 지드래곤 - **[COUP D'ETAT](https://ko.wikipedia.org/wiki/COUP_D'ETAT "wikilink")**
+  - 2013년 9월 13일 지드래곤 - **[COUP D'ETAT](https://ko.wikipedia.org/wiki/COUP_D'ETAT "wikilink")**& **삐딱하게**
   - 2013년 10월 9일 승리 - **[Let's Talk About Love](../Page/Let's_Talk_About_Love_\(승리의_음반\).md "wikilink")** (일본 판)
   - 2013년 10월 23일 에픽하이 -**\[Digital Single\] 420**\[34\]
   - 2013년 10월 28일 [위너](https://ko.wikipedia.org/wiki/WINNER "wikilink"), [아이콘](../Page/IKON.md "wikilink") - **Final Battle**
@@ -495,7 +495,7 @@
 76. 최경훈, 이주현, 방지환도 앨범 참여.
 77. [송은이](../Page/송은이.md "wikilink"), [김영희](../Page/김영희_\(희극인\).md "wikilink"), [신봉선](../Page/신봉선.md "wikilink"), [김신영](../Page/김신영.md "wikilink")도 앨범 참여.
 78. [송은이](../Page/송은이.md "wikilink"), [신봉선](../Page/신봉선.md "wikilink"), [김신영](../Page/김신영.md "wikilink")도 다시 앨범 참여.
-79. [빅톤의](../Page/빅톤_\(음악_그룹\).md "wikilink") 두 멤버 [한승우](https://ko.wikipedia.org/wiki/한승우_\(가수\) "wikilink"),[최병찬](https://ko.wikipedia.org/wiki/최병찬 "wikilink"),[유니크의](../Page/유니크_\(음악_그룹\).md "wikilink") 멤버 [조승연](https://ko.wikipedia.org/wiki/조승연_\(가수\) "wikilink") 외 96명도 앨범 참여.
+79. [빅톤의](../Page/빅톤_\(음악_그룹\).md "wikilink") 두 멤버 [한승우](../Page/한승우_\(가수\).md "wikilink"),[최병찬](../Page/최병찬.md "wikilink"),[유니크의](../Page/유니크_\(음악_그룹\).md "wikilink") 멤버 [조승연](https://ko.wikipedia.org/wiki/조승연_\(가수\) "wikilink") 외 96명도 앨범 참여.
 80. [블락비](../Page/블락비.md "wikilink")의 멤버 [피오](../Page/피오.md "wikilink"),[슈퍼주니어](../Page/슈퍼주니어.md "wikilink")의 멤버 [규현](../Page/규현.md "wikilink")도 앨범 참여.
 81. [슈퍼주니어](../Page/슈퍼주니어.md "wikilink")의 전 멤버 [헨리](../Page/헨리_\(가수\).md "wikilink"),[하림](../Page/하림_\(가수\).md "wikilink"),[메이트의](../Page/메이트_\(음악_그룹\).md "wikilink") 멤버 [임헌일](../Page/임헌일.md "wikilink"),[박정현](../Page/박정현.md "wikilink"),[김필도](../Page/김필_\(가수\).md "wikilink") 앨범 참여.
 82. [슈퍼주니어](../Page/슈퍼주니어.md "wikilink")의 전 멤버 [헨리](../Page/헨리_\(가수\).md "wikilink"),[하림](../Page/하림_\(가수\).md "wikilink"),[메이트의](../Page/메이트_\(음악_그룹\).md "wikilink") 멤버 [임헌일](../Page/임헌일.md "wikilink"),[박정현](../Page/박정현.md "wikilink"),[김필도](../Page/김필_\(가수\).md "wikilink") 다시 앨범 참여.

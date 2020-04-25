@@ -14,7 +14,7 @@
 
 ## 외부 링크
 
-  - [공식 홈페이지](http://www.sif-support.dk/)
+  - [공식 홈페이지](https://web.archive.org/web/20170517212540/http://sif-support.dk/)
   - [SIFosis](http://sifosis.dk) – 공식 서포터 그룹
   - [SIFnet.dk](https://web.archive.org/web/20070927231245/http://sifnet.dk/) – 실케보르 IF 뉴스 및 서포터 홈페이지
   - [SIF4ever.dk](http://www.sif4ever.dk) – 서포터 홈페이지

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [WWE 백래시](https://ko.wikipedia.org/wiki/WWE_백래시).
 
 
-**백래시**(Backlash)는 [WWE](https://ko.wikipedia.org/wiki/WWE "wikilink")가 주관하는 페이 퍼 뷰 이다.
+**백래시**(Backlash)는 [WWE](../Page/WWE.md "wikilink")가 주관하는 페이 퍼 뷰 이다.
 
 2003년 6월부터 WWE는 브랜드 분리의 일한으로 브랜드별 페이 퍼 뷰를 진행했다. 따라서 2004년부터 2006년까지 러의 단독 페이퍼뷰로 진행하였다가 2007년부터 2009년까지는 [RAW](../Page/WWE_러.md "wikilink") 와 [스맥다운](https://ko.wikipedia.org/wiki/스맥다운 "wikilink") 이 합동으로 페이 퍼 뷰를 진행하였고, 2009년을 마지막으로 역사속으로 사라진다. 2016년 5년만에 다시 브랜드 분리가 이뤄진 후 [스맥다운](https://ko.wikipedia.org/wiki/스맥다운 "wikilink") PPV로 7년만에 부활했다. 2018년에는 9년만에 공동 브랜드 PPV로 진행된다.
 

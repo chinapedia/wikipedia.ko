@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [희망\~Yell\~](https://ko.wikipedia.org/wiki/희망\~Yell\~).
 
 
-〈**희망\~Yell\~**〉()은, [NEWS](https://ko.wikipedia.org/wiki/NEWS "wikilink")의 메이저 데뷔 [싱글이다](../Page/싱글_\(음악\).md "wikilink")\[1\].
+〈**희망\~Yell\~**〉()은 [NEWS](https://ko.wikipedia.org/wiki/NEWS "wikilink")의 메이저 데뷔 [싱글이다](../Page/싱글_\(음악\).md "wikilink")\[1\].
 
 ## 개요
 

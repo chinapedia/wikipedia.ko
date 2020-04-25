@@ -62,7 +62,7 @@
 <td><p>あきよし ゆか</p></td>
 <td></td>
 <td><p>2기</p></td>
-<td><p>AKS</p></td>
+<td><p>Mercury</p></td>
 <td><p>-</p></td>
 <td></td>
 </tr>
@@ -205,7 +205,7 @@
 <td><p>いまだ みな</p></td>
 <td></td>
 <td><p>1기</p></td>
-<td><p>AKS</p></td>
+<td><p>Mercury</p></td>
 <td><p>-</p></td>
 <td></td>
 </tr>
@@ -261,16 +261,6 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/후카가와_마이코" title="wikilink">후카가와 마이코</a></p></td>
-<td><p>深川舞子</p></td>
-<td><p>ふかがわ まいこ</p></td>
-<td></td>
-<td><p>1기</p></td>
-<td><p>-</p></td>
-<td></td>
-<td><p>91</p></td>
-</tr>
-<tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/후치가미_마이_(가수)" title="wikilink">후치가미 마이</a></p></td>
 <td><p>渕上舞</p></td>
 <td><p>ふちがみ まい</p></td>
@@ -280,7 +270,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/무라시게_안나.md" title="wikilink">무라시게 안나</a></p></td>
 <td><p>村重杏奈</p></td>
 <td><p>むらしげ あんな</p></td>
@@ -290,17 +280,17 @@
 <td><p>-</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong><a href="https://ko.wikipedia.org/wiki/모토무라_아오이" title="wikilink">모토무라 아오이</a></strong></p></td>
 <td><p><strong>本村碧唯</strong></p></td>
 <td><p><strong>もとむら あおい</strong></p></td>
 <td><p><strong></strong></p></td>
-<td><p>AKS</p></td>
+<td><p>Mercury</p></td>
 <td><p>캡틴</p></td>
 <td></td>
 <td><p>48</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/모리야스_마도카" title="wikilink">모리야스 마도카</a></p></td>
 <td><p>森保まどか</p></td>
 <td><p>もりやす まどか</p></td>
@@ -310,7 +300,7 @@
 <td><p>25</p></td>
 <td><p>43</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -357,7 +347,7 @@
 <td><p>あらまき みさき</p></td>
 <td></td>
 <td><p>3기</p></td>
-<td><p>AKS</p></td>
+<td><p>Mercury</p></td>
 <td><p>-</p></td>
 <td></td>
 </tr>
@@ -560,7 +550,7 @@
 <td><p>いしばし いぶき</p></td>
 <td></td>
 <td><p>5기</p></td>
-<td><p>AKS</p></td>
+<td><p>Mercury</p></td>
 <td><p>-</p></td>
 <td></td>
 </tr>
@@ -739,7 +729,7 @@
 <td><p>みやわき さくら</p></td>
 <td></td>
 <td><p>1기</p></td>
-<td><p>AKS</p></td>
+<td><p>Mercury</p></td>
 <td><p>팀KIV 부캡틴</p></td>
 <td><p>47</p></td>
 </tr>
@@ -807,7 +797,7 @@
 <td><p>すがもと ゆうこ</p></td>
 <td></td>
 <td><p>KOS</p></td>
-<td><p>사퇴</p></td>
+<td><p>사퇴, 현재는 <a href="../Page/유튜버.md" title="wikilink">유튜버</a> 이다.</p></td>
 <td><p>-</p></td>
 <td></td>
 <td></td>
@@ -1373,7 +1363,7 @@
 <td><p>13</p></td>
 <td><p>2020년 4월 22일</p></td>
 <td><p><strong><a href="https://ko.wikipedia.org/wiki/3-2" title="wikilink">3-2</a></strong><br />
-<small>3-2</small></p></td>
+<small>삼 빼기 이</small></p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="even">

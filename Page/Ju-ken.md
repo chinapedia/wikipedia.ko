@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Ju-ken](https://ko.wikipedia.org/wiki/Ju-ken).
 
 
-**Ju-ken** ([1971년](../Page/1971년.md "wikilink") [6월 27일](../Page/6월_27일.md "wikilink") \~ ) 는 [지바현](../Page/지바현.md "wikilink") [후나바시 시](https://ko.wikipedia.org/wiki/후나바시_시 "wikilink") 출생의 [일본](../Page/일본.md "wikilink")의 [베이시스트이자](../Page/베이스_기타.md "wikilink") [세션 연주자이다](https://ko.wikipedia.org/wiki/세션_연주자 "wikilink"). 그는 일본내에서 가장 음악가들에게 인기가 많은 베이스 세션 연주자들 중 한명이다.
+**Ju-ken**([1971년](../Page/1971년.md "wikilink") [6월 27일](../Page/6월_27일.md "wikilink") \~ )는 [지바현](../Page/지바현.md "wikilink") [후나바시 시](https://ko.wikipedia.org/wiki/후나바시_시 "wikilink") 출생의 [일본](../Page/일본.md "wikilink")의 [베이시스트이자](../Page/베이스_기타.md "wikilink") [세션 연주자이다](https://ko.wikipedia.org/wiki/세션_연주자 "wikilink"). 그는 일본내에서 가장 음악가들에게 인기가 많은 베이스 세션 연주자들 중 한명이다.
 
 ## 경력
 

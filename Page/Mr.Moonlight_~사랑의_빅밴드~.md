@@ -29,7 +29,7 @@
 
 <!-- end list -->
 
-  - 커플링곡 "팝콘 러브\!" ()는, [2000년 12월에](https://ko.wikipedia.org/wiki/2000년_12월 "wikilink") 시작한 프로그램 《MUSIX\!》([TV 도쿄](../Page/TV_도쿄.md "wikilink"))의 테마곡으로써 만들어진 곡이며, 프로그램의 MC였던 [모닝구무스메](../Page/모닝구무스메.md "wikilink")(당시 10명)와 [캬인의](https://ko.wikipedia.org/wiki/:ja:キャイ〜ン "wikilink") 안무도 있었다.
+  - 커플링곡 "팝콘 러브\!" ()는 [2000년 12월에](https://ko.wikipedia.org/wiki/2000년_12월 "wikilink") 시작한 프로그램 《MUSIX\!》([TV 도쿄](../Page/TV_도쿄.md "wikilink"))의 테마곡으로써 만들어진 곡이며, 프로그램의 MC였던 [모닝구무스메](../Page/모닝구무스메.md "wikilink")(당시 10명)와 [캬인의](https://ko.wikipedia.org/wiki/:ja:キャイ〜ン "wikilink") 안무도 있었다.
 
 ## 수록곡
 

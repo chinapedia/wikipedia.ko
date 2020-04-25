@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Tagträume](https://ko.wikipedia.org/wiki/Tagträume).
 
 
-《**타크트로이메**》(\[1\])는 [2010년](../Page/2010년.md "wikilink") [12월 7일에](../Page/12월_7일.md "wikilink") 발매한 [국카스텐](../Page/국카스텐.md "wikilink")의 [EP 앨범이다](../Page/익스텐디드_플레이.md "wikilink"). 앨범 타이틀인 타크트로이메는 독일어로 백일몽 또는 각성몽이란 뜻이며 [프로이트의](../Page/지그문트_프로이트.md "wikilink") [꿈의 해석에서](../Page/꿈의_해석.md "wikilink") 가져왔다.
+《**Tagträume**》\[1\](타크트로이메)는 [2010년](../Page/2010년.md "wikilink") [12월 7일에](../Page/12월_7일.md "wikilink") 발매한 [국카스텐](../Page/국카스텐.md "wikilink")의 [EP 앨범이다](../Page/익스텐디드_플레이.md "wikilink"). 앨범 타이틀인 타크트로이메는 독일어로 백일몽 또는 각성몽이란 뜻이며 [프로이트의](../Page/지그문트_프로이트.md "wikilink") [꿈의 해석에서](../Page/꿈의_해석.md "wikilink") 가져왔다.
 
 ## 설명
 

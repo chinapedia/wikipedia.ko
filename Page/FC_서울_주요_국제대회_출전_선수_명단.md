@@ -608,7 +608,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/2003년_FIFA_U-17_세계_축구_선수권_대회.md" title="wikilink">2003</a></p></td>
-<td><p><a href="../Page/안상현.md" title="wikilink">안상현</a> (<a href="../Page/미드필더.md" title="wikilink">MF</a>), <a href="../Page/한동원.md" title="wikilink">한동원</a> (<a href="../Page/공격수.md" title="wikilink">FW</a>)</p></td>
+<td><p><a href="../Page/안상현_(축구_선수).md" title="wikilink">안상현</a> (<a href="../Page/미드필더.md" title="wikilink">MF</a>), <a href="../Page/한동원.md" title="wikilink">한동원</a> (<a href="../Page/공격수.md" title="wikilink">FW</a>)</p></td>
 <td><div style="text-align: center;">
 <p>2</p></td>
 <td></td>

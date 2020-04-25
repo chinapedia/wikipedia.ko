@@ -257,15 +257,15 @@
 
 **- 경연 주제 : 해외 팝**
 
-| 경연 순서 | 가수                                                  | 노래 제목 (원곡 가수)                                                                | 순위권     | 순위     |
-| ----- | --------------------------------------------------- | ---------------------------------------------------------------------------- | ------- | ------ |
-| 1     | [정엽](../Page/정엽_\(가수\).md "wikilink")               | Hound Dog ([빅 마마 손튼](../Page/빅_마마_손튼.md "wikilink"))                         | 하위권     | \-     |
-| 2     | [박상민](https://ko.wikipedia.org/wiki/박상민 "wikilink") | When A Man Loves A Woman ([퍼시 슬레지](../Page/퍼시_슬레지.md "wikilink"))            | 하위권     | \-     |
-| 3     | [한영애](../Page/한영애.md "wikilink")                    | Knockin' on Heaven's Door ([밥 딜런](../Page/밥_딜런.md "wikilink"))               | **상위권** | \-     |
-| 4     | [김건모](../Page/김건모.md "wikilink")                    | I Can Wait Forever ([에어 서플라이](../Page/에어_서플라이.md "wikilink"))                | 하위권     | \-     |
-| 5     | [김연우](../Page/김연우.md "wikilink")                    | All by Myself ([에릭 카먼](https://ko.wikipedia.org/wiki/에릭_카먼 "wikilink"))      | **상위권** | \-     |
-| 6     | [소향](../Page/소향.md "wikilink")                      | I Have Nothing ([휘트니 휴스턴](https://ko.wikipedia.org/wiki/휘트니_휴스턴 "wikilink")) | **상위권** | **1위** |
-|       |                                                     |                                                                              |         |        |
+| 경연 순서 | 가수                                                  | 노래 제목 (원곡 가수)                                                           | 순위권     | 순위     |
+| ----- | --------------------------------------------------- | ----------------------------------------------------------------------- | ------- | ------ |
+| 1     | [정엽](../Page/정엽_\(가수\).md "wikilink")               | Hound Dog ([빅 마마 손튼](../Page/빅_마마_손튼.md "wikilink"))                    | 하위권     | \-     |
+| 2     | [박상민](https://ko.wikipedia.org/wiki/박상민 "wikilink") | When A Man Loves A Woman ([퍼시 슬레지](../Page/퍼시_슬레지.md "wikilink"))       | 하위권     | \-     |
+| 3     | [한영애](../Page/한영애.md "wikilink")                    | Knockin' on Heaven's Door ([밥 딜런](../Page/밥_딜런.md "wikilink"))          | **상위권** | \-     |
+| 4     | [김건모](../Page/김건모.md "wikilink")                    | I Can Wait Forever ([에어 서플라이](../Page/에어_서플라이.md "wikilink"))           | 하위권     | \-     |
+| 5     | [김연우](../Page/김연우.md "wikilink")                    | All by Myself ([에릭 카먼](https://ko.wikipedia.org/wiki/에릭_카먼 "wikilink")) | **상위권** | \-     |
+| 6     | [소향](../Page/소향.md "wikilink")                      | I Have Nothing ([휘트니 휴스턴](../Page/휘트니_휴스턴.md "wikilink"))               | **상위권** | **1위** |
+|       |                                                     |                                                                         |         |        |
 
 ### 11회 (고별 가수전)
 
@@ -363,15 +363,15 @@
 
 **A조 경연**
 
-| 순서 | 가수                                                        | 노래 제목 (원곡 가수)                                                                        | 순위권     | 순위     | 새 가수 여부  |
-| -- | --------------------------------------------------------- | ------------------------------------------------------------------------------------ | ------- | ------ | -------- |
-| 1  | 유리                                                        | I Will Always Love You ([휘트니 휴스턴](https://ko.wikipedia.org/wiki/휘트니_휴스턴 "wikilink")) | 하위권     | \-     | 탈락       |
-| 2  | [고유진](../Page/고유진.md "wikilink")                          | 마지막 사랑 ([박기영](https://ko.wikipedia.org/wiki/박기영_\(가수\) "wikilink"))                  | 하위권     | \-     | 탈락       |
-| 3  | [어반 자카파](https://ko.wikipedia.org/wiki/어반_자카파 "wikilink") | 어제처럼 ([J](https://ko.wikipedia.org/wiki/J_\(가수\) "wikilink"))                        | **상위권** | \-     | 탈락       |
-| 4  | [게이트 플라워즈](../Page/게이트_플라워즈.md "wikilink")                | 목포의 눈물 ([이난영](../Page/이난영.md "wikilink"))                                            | **상위권** | \-     | 탈락       |
-| 5  | [지영선](https://ko.wikipedia.org/wiki/지영선 "wikilink")       | Memory ([김범수](../Page/김범수_\(가수\).md "wikilink"))                                     | 하위권     | \-     | 탈락       |
-| 6  | [더 원](../Page/더원_\(가수\).md "wikilink")                    | 지나간다 ([김범수](../Page/김범수_\(가수\).md "wikilink"))                                       | **상위권** | **1위** | **새 가수** |
-|    |                                                           |                                                                                      |         |        |          |
+| 순서 | 가수                                                        | 노래 제목 (원곡 가수)                                                       | 순위권     | 순위     | 새 가수 여부  |
+| -- | --------------------------------------------------------- | ------------------------------------------------------------------- | ------- | ------ | -------- |
+| 1  | 유리                                                        | I Will Always Love You ([휘트니 휴스턴](../Page/휘트니_휴스턴.md "wikilink"))   | 하위권     | \-     | 탈락       |
+| 2  | [고유진](../Page/고유진.md "wikilink")                          | 마지막 사랑 ([박기영](https://ko.wikipedia.org/wiki/박기영_\(가수\) "wikilink")) | 하위권     | \-     | 탈락       |
+| 3  | [어반 자카파](https://ko.wikipedia.org/wiki/어반_자카파 "wikilink") | 어제처럼 ([J](https://ko.wikipedia.org/wiki/J_\(가수\) "wikilink"))       | **상위권** | \-     | 탈락       |
+| 4  | [게이트 플라워즈](../Page/게이트_플라워즈.md "wikilink")                | 목포의 눈물 ([이난영](../Page/이난영.md "wikilink"))                           | **상위권** | \-     | 탈락       |
+| 5  | [지영선](https://ko.wikipedia.org/wiki/지영선 "wikilink")       | Memory ([김범수](../Page/김범수_\(가수\).md "wikilink"))                    | 하위권     | \-     | 탈락       |
+| 6  | [더 원](../Page/더원_\(가수\).md "wikilink")                    | 지나간다 ([김범수](../Page/김범수_\(가수\).md "wikilink"))                      | **상위권** | **1위** | **새 가수** |
+|    |                                                           |                                                                     |         |        |          |
 
 **B조 경연**
 

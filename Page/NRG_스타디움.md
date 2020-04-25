@@ -5,6 +5,6 @@
 
 [NFL팀](../Page/내셔널_풋볼_리그.md "wikilink") [휴스턴 텍선스의](https://ko.wikipedia.org/wiki/휴스턴_텍선스 "wikilink") 홈구장이며, 다수의 [미국 축구 국가대표팀](../Page/미국_축구_국가대표팀.md "wikilink") 경기를 열었다. [2005년 골드컵과](../Page/2005년_CONCACAF_골드컵.md "wikilink") [2007년 골드컵을](../Page/2007년_CONCACAF_골드컵.md "wikilink") 주최했으며, [2010년](../Page/2010년.md "wikilink") [메이저 리그 사커](../Page/메이저_리그_사커.md "wikilink") 올스타팀과 [맨체스터 유나이티드 FC간의](../Page/맨체스터_유나이티드_FC.md "wikilink") 친선 경기를 열기도 했다. [로데오](https://ko.wikipedia.org/wiki/로데오 "wikilink")와 [프로레슬링](../Page/프로레슬링.md "wikilink") 경기가 펼쳐지기도 한다.
 
-2009년 4월 5일, [WWE](https://ko.wikipedia.org/wiki/WWE "wikilink") [레슬매니아](../Page/레슬매니아.md "wikilink") 25가 개최되었다. 관객 수는 72,744명이었다.
+2009년 4월 5일, [WWE](../Page/WWE.md "wikilink") [레슬매니아](../Page/레슬매니아.md "wikilink") 25가 개최되었다. 관객 수는 72,744명이었다.
 
 [분류:2002년 설립](https://ko.wikipedia.org/wiki/분류:2002년_설립 "wikilink") [분류:미국의 미식축구 경기장](https://ko.wikipedia.org/wiki/분류:미국의_미식축구_경기장 "wikilink") [분류:미국의 축구 경기 시설](https://ko.wikipedia.org/wiki/분류:미국의_축구_경기_시설 "wikilink") [분류:텍사스주의 건축물](https://ko.wikipedia.org/wiki/분류:텍사스주의_건축물 "wikilink") [분류:휴스턴의 스포츠](https://ko.wikipedia.org/wiki/분류:휴스턴의_스포츠 "wikilink") [분류:휴스턴 텍선스](https://ko.wikipedia.org/wiki/분류:휴스턴_텍선스 "wikilink") [분류:다목적 경기장](https://ko.wikipedia.org/wiki/분류:다목적_경기장 "wikilink") [분류:돔구장](https://ko.wikipedia.org/wiki/분류:돔구장 "wikilink") [분류:내셔널 풋볼 리그](https://ko.wikipedia.org/wiki/분류:내셔널_풋볼_리그 "wikilink") [분류:메이저 리그 사커 경기장](https://ko.wikipedia.org/wiki/분류:메이저_리그_사커_경기장 "wikilink") [분류:2002년 완공된 스포츠 시설](https://ko.wikipedia.org/wiki/분류:2002년_완공된_스포츠_시설 "wikilink")

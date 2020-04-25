@@ -13,7 +13,7 @@
   - **☆**볼리션 - [딥 실버에](../Page/딥_실버.md "wikilink") 매각
   - **☆**[사우스 파크](../Page/사우스_파크.md "wikilink") 게임 판권 - [유비 소프트에](https://ko.wikipedia.org/wiki/유비_소프트 "wikilink") 매각
   - **○**터틀락 스튜디오 - [테이크-투 인터랙티브에](https://ko.wikipedia.org/wiki/테이크-투_인터랙티브 "wikilink") 매각
-  - **☆**[WWE](https://ko.wikipedia.org/wiki/WWE "wikilink") 게임 판권 - [테이크-투 인터랙티브에](https://ko.wikipedia.org/wiki/테이크-투_인터랙티브 "wikilink") 매각
+  - **☆**[WWE](../Page/WWE.md "wikilink") 게임 판권 - [테이크-투 인터랙티브에](https://ko.wikipedia.org/wiki/테이크-투_인터랙티브 "wikilink") 매각
   - **○**THQ 몬트리얼(캐나다 지사) - [유비 소프트에](https://ko.wikipedia.org/wiki/유비_소프트 "wikilink") 매각
   - **☆**[홈프론트](https://ko.wikipedia.org/wiki/홈프론트 "wikilink") - [크라이텍](../Page/크라이텍.md "wikilink")에 매각
   - **○**비질 게임즈 - 구매 의사가 없어서 문을 닫으려고 했으나, [크라이텍](../Page/크라이텍.md "wikilink")이 인수하여 크라이텍의 미국지사 역할을 하고 있다. 하지만, 이 회사의 게임인 [다크사이더스 시리즈는](../Page/다크사이더스.md "wikilink") [노르딕 게임즈가](https://ko.wikipedia.org/wiki/노르딕_게임즈 "wikilink") 인수하였다.

@@ -79,7 +79,7 @@
 <!-- end list -->
 
   -
-    [1997년](../Page/1997년.md "wikilink") [6월 8일](../Page/6월_8일.md "wikilink") 뉴코아백화점 야탑점으로 개점하였으며, 이후 뉴코아아울렛을 거쳐 [2010년](../Page/2010년.md "wikilink") [9월 8일](../Page/9월_8일.md "wikilink") NC백화점으로 리뉴얼해 재개장하였다. [수도권 전철 분당선](https://ko.wikipedia.org/wiki/수도권_전철_분당선 "wikilink") [야탑역](../Page/야탑역.md "wikilink")과 가깝다.
+    [1997년](../Page/1997년.md "wikilink") [6월 8일](../Page/6월_8일.md "wikilink") 뉴코아백화점 야탑점으로 개점하였으며, 이후 뉴코아아울렛을 거쳐 [2010년](../Page/2010년.md "wikilink") [9월 8일](../Page/9월_8일.md "wikilink") NC백화점으로 리뉴얼해 재개장하였다.  [야탑역](../Page/야탑역.md "wikilink")과 가깝다.
 
 #### 전라도
 

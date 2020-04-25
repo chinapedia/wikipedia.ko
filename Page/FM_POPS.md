@@ -38,7 +38,7 @@
   - [황정민의 뮤직쇼](../Page/뮤직쇼.md "wikilink") ([KBS 쿨FM](../Page/KBS_제2FM.md "wikilink"))
   - 바투의 상사디야 (평일) ([국악방송](../Page/국악방송.md "wikilink"))
   - 정진권, 방수미의 온고을 상사디야 (주말) ([국악방송](../Page/국악방송.md "wikilink"))
-  - 조수연의 뿜뿜 라디오 ([경인방송](../Page/경인방송.md "wikilink"))
+  - 지금은 런투유\! 김동혁입니다 ([경인방송](../Page/경인방송.md "wikilink"))
   - 너를 사랑하기에 전유나입니다 (평일) ([국방FM](../Page/국방FM.md "wikilink"))
   - 팝이있는 오후 2시 (주말) ([국방FM](../Page/국방FM.md "wikilink"))
   - 부모님 전상서 ([국방FM](../Page/국방FM.md "wikilink"))

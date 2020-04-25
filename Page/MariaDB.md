@@ -49,7 +49,7 @@
 
 MariaDB는 원칙적으로 MySQL과 거의 동일한 [데이터베이스 엔진](../Page/데이터베이스_엔진.md "wikilink")(스토리지 엔진)에 대응하고 있다. 해당 데이터베이스 엔진은 다음과 같다.
 
-  - [Aria](https://ko.wikipedia.org/wiki/Aria_\(저장_엔진\) "wikilink") - [MyISAM](../Page/MyISAM.md "wikilink") 파생 엔진 대체용 (이전 명칭은 Maria)
+  - [Aria](https://ko.wikipedia.org/wiki/Aria_\(저장_엔진\) "wikilink") - [MyISAM](../Page/MyISAM.md "wikilink") 파생 엔진 대체용 (이전 명칭은 Maria) 123
   - [XtraDB](https://ko.wikipedia.org/wiki/:w:XtraDB "wikilink") - [오라클](https://ko.wikipedia.org/wiki/오라클 "wikilink") [InnoDB](../Page/InnoDB.md "wikilink")를 대체하기 위해 만든 [InnoDB](../Page/InnoDB.md "wikilink") 파생 [포크](../Page/포크_\(소프트웨어_개발\).md "wikilink")
   - [FederatedX](https://ko.wikipedia.org/wiki/FederatedX "wikilink") - [MySQL Federated](../Page/MySQL_Federated.md "wikilink") 파생 엔진, 트랜잭션 제공
   - [OQGRAPH](https://ko.wikipedia.org/wiki/OQGRAPH "wikilink") - 버전 5.2 이상에서 지원

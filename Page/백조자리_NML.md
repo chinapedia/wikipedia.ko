@@ -17,7 +17,7 @@
 
 ## 참고 문헌
 
-[분류:백조자리](https://ko.wikipedia.org/wiki/분류:백조자리 "wikilink") [분류:M형 극대거성](https://ko.wikipedia.org/wiki/분류:M형_극대거성 "wikilink") [분류:준규칙 변광성](https://ko.wikipedia.org/wiki/분류:준규칙_변광성 "wikilink") [분류:1965년 발견한 천체](https://ko.wikipedia.org/wiki/분류:1965년_발견한_천체 "wikilink")
+[분류:백조자리](https://ko.wikipedia.org/wiki/분류:백조자리 "wikilink") [분류:M형 극대거성](https://ko.wikipedia.org/wiki/분류:M형_극대거성 "wikilink") [분류:준규칙 변광성](https://ko.wikipedia.org/wiki/분류:준규칙_변광성 "wikilink") [분류:1965년 발견한 천체](https://ko.wikipedia.org/wiki/분류:1965년_발견한_천체 "wikilink") [분류:2MASS 천체](https://ko.wikipedia.org/wiki/분류:2MASS_천체 "wikilink")
 
 1.
 2.

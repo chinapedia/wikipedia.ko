@@ -1203,7 +1203,7 @@ SKE48 팀KII 겸임<br />
 현예명 : <a href="../Page/미아키_리호.md" title="wikilink">미아키 리호</a> (三秋里歩)<br />
 전 AKB48 팀A 겸임<br />
 전 AKB48 팀4 겸임<br />
-<a href="https://ko.wikipedia.org/wiki/요시모토자카46" title="wikilink">요시모토자카46</a>의 멤버</p></td>
+전 <a href="https://ko.wikipedia.org/wiki/요시모토자카46" title="wikilink">요시모토자카46</a>의 멤버</p></td>
 <td><p>54위</p></td>
 </tr>
 <tr class="even">
@@ -2538,13 +2538,25 @@ YRCS-90172</p></td>
 </tr>
 <tr class="even">
 <td><p>23</p></td>
-<td><p>2020년 5월 13일</p></td>
+<td><p>2020년 발매 정기</p></td>
 <td><p><strong></strong><br />
-<small>타이틀미정</small></p></td>
+<small>그치만 그치만 그치만</small></p></td>
 <td><p>-위</p></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p>CD+DVD<br />
+CD+DVD<br />
+CD+DVD<br />
+CD+DVD<br />
+CD</p></td>
+<td><p>YRCS-90176<br />
+YRCS-90177<br />
+YRCS-90178<br />
+YRCS-90179<br />
+YRCS-90180</p></td>
+<td><p>통상반A<br />
+통상반B<br />
+통상반C<br />
+통상반D<br />
+극장반</p></td>
 </tr>
 <tr class="odd">
 <td></td>

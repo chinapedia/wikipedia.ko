@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [NC 다이노스](https://ko.wikipedia.org/wiki/NC_다이노스).
 
 
-**NC 다이노스**는 [경상남도](https://ko.wikipedia.org/wiki/경상남도 "wikilink") [창원시](../Page/창원시.md "wikilink")를 연고로 하는 [KBO](https://ko.wikipedia.org/wiki/KBO_\(단체\) "wikilink") 소속 [프로 야구단이다](https://ko.wikipedia.org/wiki/프로_야구 "wikilink"). [2011년](../Page/2011년.md "wikilink") [2월 8일](../Page/2월_8일.md "wikilink") [KBO 리그](https://ko.wikipedia.org/wiki/KBO_리그 "wikilink") 아홉 번째 구단으로 창단하였다. [2012년](../Page/2012년.md "wikilink")에 [KBO 퓨처스리그에](../Page/KBO_퓨처스리그.md "wikilink") 참가했고, [2013년](../Page/2013년.md "wikilink")부터 [KBO 리그에](https://ko.wikipedia.org/wiki/KBO_리그 "wikilink") 참가하고 있다. 감독은 [이동욱이다](../Page/이동욱_\(야구인\).md "wikilink"). 모기업은 [엔씨소프트](../Page/엔씨소프트.md "wikilink")\[1\], 구단주는 [김택진](../Page/김택진.md "wikilink"), 대표이사는 황순현, 단장은 김종문이다. [2016년](../Page/2016년.md "wikilink") [6월 19일까지](../Page/6월_19일.md "wikilink") 팀 창단 최다 15연승을 기록하였다.\[2\]
+**NC 다이노스**는 [경상남도](https://ko.wikipedia.org/wiki/경상남도 "wikilink") [창원시](../Page/창원시.md "wikilink")를 연고로 하는 [KBO](https://ko.wikipedia.org/wiki/KBO_리그 "wikilink") 소속 [프로 야구단이다](https://ko.wikipedia.org/wiki/프로_야구 "wikilink"). [2011년](../Page/2011년.md "wikilink") [2월 8일](../Page/2월_8일.md "wikilink") [KBO 리그](https://ko.wikipedia.org/wiki/KBO_리그 "wikilink") 아홉 번째 구단으로 창단하였다. [2012년](../Page/2012년.md "wikilink")에 [KBO 퓨처스리그에](../Page/KBO_퓨처스리그.md "wikilink") 참가했고, [2013년](../Page/2013년.md "wikilink")부터 [KBO 리그에](https://ko.wikipedia.org/wiki/KBO_리그 "wikilink") 참가하고 있다. 감독은 [이동욱이다](../Page/이동욱_\(야구인\).md "wikilink"). 모기업은 [엔씨소프트](../Page/엔씨소프트.md "wikilink")\[1\], 구단주는 [김택진](../Page/김택진.md "wikilink"), 대표이사는 황순현, 단장은 김종문이다. [2016년](../Page/2016년.md "wikilink") [6월 19일까지](../Page/6월_19일.md "wikilink") 팀 창단 최다 15연승을 기록하였다.\[2\]
 
 ## 창단 과정
 
@@ -33,7 +33,7 @@
 
 ### 프런트 구성
 
-2011년 [3월 22일](../Page/3월_22일.md "wikilink") [이상구를](https://ko.wikipedia.org/wiki/이상구_\(1954년\) "wikilink") 엔씨소프트 야구단의 초대 단장으로 선임하였다.\[11\] [4월 25일](../Page/4월_25일.md "wikilink") 엔씨소프트 야구단의 스카우팀 구성이 완료 되었다. 스카우트 팀장으로는 전 [용마고등학교](https://ko.wikipedia.org/wiki/용마고등학교 "wikilink") 감독 [박동수가](https://ko.wikipedia.org/wiki/박동수_\(야구_선수\) "wikilink") 선정되었고, [양후승](../Page/양후승.md "wikilink"), [유영준](https://ko.wikipedia.org/wiki/유영준 "wikilink") 등 8명이 선정되었다.\[12\] [5월 22일에는](../Page/5월_22일.md "wikilink") [이태일](../Page/이태일.md "wikilink")을 대표이사로 선임하였다.\[13\] 2012년 7월 1일에는 이상구를 단장에서 부사장으로 승진시키고, [배석현](https://ko.wikipedia.org/wiki/배석현 "wikilink") 상무를 단장으로 임명하였다.\[14\]
+2011년 [3월 22일](../Page/3월_22일.md "wikilink") [이상구를](https://ko.wikipedia.org/wiki/이상구_\(1954년\) "wikilink") 엔씨소프트 야구단의 초대 단장으로 선임하였다.\[11\] [4월 25일](../Page/4월_25일.md "wikilink") 엔씨소프트 야구단의 스카우팀 구성이 완료되었다. 스카우트 팀장으로는 전 [용마고등학교](https://ko.wikipedia.org/wiki/용마고등학교 "wikilink") 감독 [박동수가](https://ko.wikipedia.org/wiki/박동수_\(야구_선수\) "wikilink") 선정되었고, [양후승](../Page/양후승.md "wikilink"), [유영준](https://ko.wikipedia.org/wiki/유영준 "wikilink") 등 8명이 선정되었다.\[12\] [5월 22일에는](../Page/5월_22일.md "wikilink") [이태일](../Page/이태일.md "wikilink")을 대표이사로 선임하였다.\[13\] 2012년 7월 1일에는 이상구를 단장에서 부사장으로 승진시키고, [배석현](https://ko.wikipedia.org/wiki/배석현 "wikilink") 상무를 단장으로 임명하였다.\[14\]
 
 ### 구단 명칭
 
@@ -41,13 +41,13 @@
 
 ### 선수수급
 
-[2011년](../Page/2011년.md "wikilink") [6월 28일부터](../Page/6월_28일.md "wikilink") 30일까지 [엔씨소프트](../Page/엔씨소프트.md "wikilink")는 [마산야구장](https://ko.wikipedia.org/wiki/마산야구장 "wikilink")에서 1차 공개 트라이아웃을 실시하였다. 1차 트라이아웃 합격자는 9월에 진행될 2차 트라이아웃의 참가 자격이 주어지게 되었다.\[17\] [8월 16일에는](../Page/8월_16일.md "wikilink") 동국대학교 노성호, 부산고등학교 이민호를 신생팀 우선지명으로 선택하였다.\[18\] [8월 22일에는](../Page/8월_22일.md "wikilink") [상무](https://ko.wikipedia.org/wiki/상무 "wikilink")와 [경찰 야구단](../Page/경찰_야구단.md "wikilink") 소속 선수 중 기존 구단의 지명을 받지 못한 [이창호](../Page/이창호_\(야구_선수\).md "wikilink") 등 5명과 계약을 하였다.\[19\] [8월 25일에는](../Page/8월_25일.md "wikilink") [2012년 신인 드래프트에서](../Page/2012년_한국프로야구_신인_드래프트.md "wikilink") [박민우](https://ko.wikipedia.org/wiki/박민우 "wikilink"), [나성범](../Page/나성범.md "wikilink")을 비롯한 15명의 신인 선수들을 지명하였다.\[20\] [9월 5일부터](../Page/9월_5일.md "wikilink") 9월 7일 3일간 2차 트라이아웃을 실시하였으며, 이를 통해 [정성기](../Page/정진_\(야구_선수\).md "wikilink"), 황덕균 등 22명을 선발하였다. [11월 22일에는](../Page/11월_22일.md "wikilink") [2차 드래프트를](../Page/2012년_KBO_리그_2차_드래프트.md "wikilink") 통해서 [조평호](https://ko.wikipedia.org/wiki/조평호 "wikilink"), [이재학](https://ko.wikipedia.org/wiki/이재학 "wikilink"), [오정복](https://ko.wikipedia.org/wiki/오정복 "wikilink") 등 7명을 영입하였다.\[21\]
+[2011년](../Page/2011년.md "wikilink") [6월 28일부터](../Page/6월_28일.md "wikilink") 30일까지 [엔씨소프트](../Page/엔씨소프트.md "wikilink")는 [마산종합운동장 야구장에서](../Page/마산종합운동장_야구장.md "wikilink") 1차 공개 트라이아웃을 실시하였다. 1차 트라이아웃 합격자는 9월에 진행될 2차 트라이아웃의 참가 자격이 주어지게 되었다.\[17\] [8월 16일에는](../Page/8월_16일.md "wikilink") 동국대학교 노성호, 부산고등학교 이민호를 신생팀 우선지명으로 선택하였다.\[18\] [8월 22일에는](../Page/8월_22일.md "wikilink") [상무](https://ko.wikipedia.org/wiki/상무 "wikilink")와 [경찰 야구단](../Page/경찰_야구단.md "wikilink") 소속 선수 중 기존 구단의 지명을 받지 못한 [이창호](../Page/이창호_\(야구_선수\).md "wikilink") 등 5명과 계약을 하였다.\[19\] [8월 25일에는](../Page/8월_25일.md "wikilink") [2012년 신인 드래프트에서](../Page/2012년_한국프로야구_신인_드래프트.md "wikilink") [박민우](https://ko.wikipedia.org/wiki/박민우 "wikilink"), [나성범](../Page/나성범.md "wikilink")을 비롯한 15명의 신인 선수들을 지명하였다.\[20\] [9월 5일부터](../Page/9월_5일.md "wikilink") 9월 7일 3일간 2차 트라이아웃을 실시하였으며, 이를 통해 [정성기](../Page/정진_\(야구_선수\).md "wikilink"), 황덕균 등 22명을 선발하였다. [11월 22일에는](../Page/11월_22일.md "wikilink") [2차 드래프트를](../Page/2012년_KBO_리그_2차_드래프트.md "wikilink") 통해서 [조평호](https://ko.wikipedia.org/wiki/조평호 "wikilink"), [이재학](https://ko.wikipedia.org/wiki/이재학 "wikilink"), [오정복](https://ko.wikipedia.org/wiki/오정복 "wikilink") 등 7명을 영입하였다.\[21\]
 
 2012년 [6월 12일에는](../Page/6월_12일.md "wikilink") KBO 이사회에 결과에 따라 2년간 외국인 선수를 3명 보유할 수 있게되었다.\[22\] 2014년 리그 전체의 외인 보유 슬롯 확장으로 인해 다른 팀과 같이 외국인 선수 한 명씩을 더 보유할 수 있게되면서, 4명을 보유할 수 있게 되었다. 2015년 시즌부터는 다른 팀들과 같이 3명을 보유할 수 있게 되었다.
 
 ### 감독 선임
 
-초대 감독 후보로 [김성근](../Page/김성근_\(야구인\).md "wikilink") 전 [SK 와이번스](../Page/SK_와이번스.md "wikilink") 감독, [김경문](../Page/김경문.md "wikilink") 전 [두산 베어스](../Page/두산_베어스.md "wikilink") 감독, [선동열](../Page/선동열.md "wikilink") 전 [삼성 라이온즈](https://ko.wikipedia.org/wiki/삼성_라이온즈 "wikilink") 감독, [제리 로이스터](../Page/제리_로이스터.md "wikilink") 전 [롯데 자이언츠](../Page/롯데_자이언츠.md "wikilink") 감독 등이 거론 되었다. 이에 NC 다이노스의 관계자는 "선수 수급 문제가 더 시급하고 기존 구단들의 협조를 얻어야 하는 부분이 많아서 누구를 감독으로 모실지 언급하는 것은 시기상조라 본다"라고 입장을 표명하였다.\[23\] [2011년](../Page/2011년.md "wikilink") [8월 31일](../Page/8월_31일.md "wikilink") NC 다이노스는 [김경문](../Page/김경문.md "wikilink")을 3년 14억의 조건으로 초대 감독으로 선임한다고 발표하였다.\[24\]
+초대 감독 후보로 [김성근](../Page/김성근_\(야구인\).md "wikilink") 전 [SK 와이번스](../Page/SK_와이번스.md "wikilink") 감독, [김경문](../Page/김경문.md "wikilink") 전 [두산 베어스](../Page/두산_베어스.md "wikilink") 감독, [선동열](../Page/선동열.md "wikilink") 전 [삼성 라이온즈](../Page/삼성_라이온즈.md "wikilink") 감독, [제리 로이스터](../Page/제리_로이스터.md "wikilink") 전 [롯데 자이언츠](../Page/롯데_자이언츠.md "wikilink") 감독 등이 거론 되었다. 이에 NC 다이노스의 관계자는 "선수 수급 문제가 더 시급하고 기존 구단들의 협조를 얻어야 하는 부분이 많아서 누구를 감독으로 모실지 언급하는 것은 시기상조라 본다"라고 입장을 표명하였다.\[23\] [2011년](../Page/2011년.md "wikilink") [8월 31일](../Page/8월_31일.md "wikilink") NC 다이노스는 [김경문](../Page/김경문.md "wikilink")을 3년 14억의 조건으로 초대 감독으로 선임한다고 발표하였다.\[24\]
 
 #### 코칭 스태프 선임
 
@@ -433,11 +433,11 @@ NC 다이노스의 마스코트는 [단디](https://ko.wikipedia.org/wiki/단디
 <td><p><a href="../Page/이재학_(야구_선수).md" title="wikilink">이재학</a><br />
 (<a href="../Page/두산_베어스.md" title="wikilink">두산 베어스</a>, 투수)</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/오정복" title="wikilink">오정복</a><br />
-(<a href="https://ko.wikipedia.org/wiki/삼성_라이온즈" title="wikilink">삼성 라이온즈</a>, 외야수)</p></td>
+(<a href="../Page/삼성_라이온즈.md" title="wikilink">삼성 라이온즈</a>, 외야수)</p></td>
 <td><p><a href="../Page/정성철_(야구_선수).md" title="wikilink">정성철</a>(<a href="https://ko.wikipedia.org/wiki/KIA_타이거즈" title="wikilink">KIA 타이거즈</a>, 투수)<br />
-<a href="../Page/윤영삼.md" title="wikilink">윤영삼</a>(<a href="https://ko.wikipedia.org/wiki/삼성_라이온즈" title="wikilink">삼성 라이온즈</a>, 투수)<br />
+<a href="../Page/윤영삼.md" title="wikilink">윤영삼</a>(<a href="../Page/삼성_라이온즈.md" title="wikilink">삼성 라이온즈</a>, 투수)<br />
 <a href="https://ko.wikipedia.org/wiki/허준_(1981년)" title="wikilink">허준</a>(<a href="https://ko.wikipedia.org/wiki/넥센_히어로즈" title="wikilink">넥센 히어로즈</a> 포수)<br />
-<a href="https://ko.wikipedia.org/wiki/문수호" title="wikilink">문현정</a>(<a href="https://ko.wikipedia.org/wiki/삼성_라이온즈" title="wikilink">삼성 라이온즈</a>, 투수)</p></td>
+<a href="https://ko.wikipedia.org/wiki/문수호" title="wikilink">문현정</a>(<a href="../Page/삼성_라이온즈.md" title="wikilink">삼성 라이온즈</a>, 투수)</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/2014년_KBO_리그_2차_드래프트.md" title="wikilink">2014</a></p></td>
@@ -476,7 +476,7 @@ NC 다이노스의 마스코트는 [단디](https://ko.wikipedia.org/wiki/단디
 <td><p><a href="../Page/홍성민_(야구_선수).md" title="wikilink">홍성민</a><br />
 (<a href="../Page/롯데_자이언츠.md" title="wikilink">롯데 자이언츠</a>, 투수)</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/김기환_(1995년)" title="wikilink">김기환</a><br />
-(<a href="https://ko.wikipedia.org/wiki/삼성_라이온즈" title="wikilink">삼성 라이온즈</a>, 외야수)</p></td>
+(<a href="../Page/삼성_라이온즈.md" title="wikilink">삼성 라이온즈</a>, 외야수)</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -488,7 +488,7 @@ NC 다이노스의 마스코트는 [단디](https://ko.wikipedia.org/wiki/단디
 
 | 이름                                                            | 구단                                                            | 유형   | 포지션 |
 | ------------------------------------------------------------- | ------------------------------------------------------------- | ---- | --- |
-| [김종호](../Page/김종호_\(1984년\).md "wikilink")                    | [삼성 라이온즈](https://ko.wikipedia.org/wiki/삼성_라이온즈 "wikilink")   | 좌투좌타 | 외야수 |
+| [김종호](../Page/김종호_\(1984년\).md "wikilink")                    | [삼성 라이온즈](../Page/삼성_라이온즈.md "wikilink")                      | 좌투좌타 | 외야수 |
 | [모창민](../Page/모창민.md "wikilink")                              | [SK 와이번스](../Page/SK_와이번스.md "wikilink")                      | 우투우타 | 내야수 |
 | [고창성](../Page/고창성.md "wikilink")                              | [두산 베어스](../Page/두산_베어스.md "wikilink")                        | 우투우타 | 투수  |
 | [이승호](https://ko.wikipedia.org/wiki/이승호_\(1981년\) "wikilink") | [롯데 자이언츠](../Page/롯데_자이언츠.md "wikilink")                      | 좌투좌타 | 투수  |
@@ -550,7 +550,7 @@ NC 다이노스의 마스코트는 [단디](https://ko.wikipedia.org/wiki/단디
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/박석민.md" title="wikilink">박석민</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/삼성_라이온즈" title="wikilink">삼성 라이온즈</a></p></td>
+<td><p><a href="../Page/삼성_라이온즈.md" title="wikilink">삼성 라이온즈</a></p></td>
 <td><p>2015</p></td>
 <td><p>내야수</p></td>
 <td><p>4년</p></td>
@@ -579,39 +579,40 @@ NC 다이노스의 마스코트는 [단디](https://ko.wikipedia.org/wiki/단디
 
 ### 투수 기록
 
-| 기록            | 일시                                                                          | 성명                                                      | 장소                                                       | 상대                                                     | 비고                                                                                              |
-| ------------- | --------------------------------------------------------------------------- | ------------------------------------------------------- | -------------------------------------------------------- | ------------------------------------------------------ | ----------------------------------------------------------------------------------------------- |
-| 최초 선발         | [2013년](../Page/2013년.md "wikilink") [4월 2일](../Page/4월_2일.md "wikilink")   | [아담 윌크](../Page/애덤_윌크.md "wikilink")                    | [마산](../Page/마산종합운동장_야구장.md "wikilink")                  | [롯데](../Page/롯데_자이언츠.md "wikilink")                    | 승패를 기록하지는 않았음                                                                                   |
-| 최초 승리         | [2013년](../Page/2013년.md "wikilink") [4월 11일](../Page/4월_11일.md "wikilink") | [이재학](../Page/이재학_\(야구_선수\).md "wikilink")              | [잠실](https://ko.wikipedia.org/wiki/잠실야구장 "wikilink")     | [LG](../Page/LG_트윈스.md "wikilink")                     | 패전투수 : [신정락](../Page/신정락.md "wikilink")                                                         |
-| 최초 두자릿수 승리    | [2013년](../Page/2013년.md "wikilink") [9월 10일](../Page/9월_10일.md "wikilink") | [찰리 쉬렉](https://ko.wikipedia.org/wiki/찰리_쉬렉 "wikilink") | [마산](https://ko.wikipedia.org/wiki/마산야구장 "wikilink")     | [롯데](../Page/롯데_자이언츠.md "wikilink")                    | 패전투수 : [쉐인 유먼](https://ko.wikipedia.org/wiki/쉐인_유먼 "wikilink")                                  |
-| 최초 2연승        | [2013년](../Page/2013년.md "wikilink") [4월 14일](../Page/4월_14일.md "wikilink") | [송신영](../Page/송신영.md "wikilink")                        | [마산](../Page/마산종합운동장_야구장.md "wikilink")                  | [SK](../Page/SK_와이번스.md "wikilink")                    | 패전투수 : [송은범](../Page/송은범.md "wikilink")                                                         |
-| 최초 싹쓸이(스윕) 승리 | [2013년](../Page/2013년.md "wikilink") [5월 2일](../Page/5월_2일.md "wikilink")   | [이태양](https://ko.wikipedia.org/wiki/이태양 "wikilink")     | [마산](../Page/마산종합운동장_야구장.md "wikilink")                  | [LG](../Page/LG_트윈스.md "wikilink")                     | 패전투수 : [우규민](../Page/우규민.md "wikilink")                                                         |
-| 최초 싹쓸이(스윕) 패배 | [2013년](../Page/2013년.md "wikilink") [4월 4일](../Page/4월_4일.md "wikilink")   | [에릭 해커](../Page/에릭_해커.md "wikilink")                    | [마산](../Page/마산종합운동장_야구장.md "wikilink")                  | [롯데](../Page/롯데_자이언츠.md "wikilink")                    | 승리투수 : [송승준](../Page/송승준.md "wikilink")                                                         |
-| 최초 영봉승        | [2013년](../Page/2013년.md "wikilink") [7월 2일](../Page/7월_2일.md "wikilink")   | [찰리 쉬렉](https://ko.wikipedia.org/wiki/찰리_쉬렉 "wikilink") | [마산](../Page/마산종합운동장_야구장.md "wikilink")                  | [넥센](https://ko.wikipedia.org/wiki/넥센_히어로즈 "wikilink") | 패전투수 : [이보근](../Page/이보근.md "wikilink") / 세이브투수 : [이민호](../Page/이민호_\(1993년_8월\).md "wikilink") |
-| 최초 영봉패        | [2013년](../Page/2013년.md "wikilink") [4월 2일](../Page/4월_2일.md "wikilink")   | [이성민](../Page/이성민_\(야구_선수\).md "wikilink")              | [마산](../Page/마산종합운동장_야구장.md "wikilink")                  | [롯데](../Page/롯데_자이언츠.md "wikilink")                    | 승리투수 : [셰인 유먼](../Page/셰인_유먼.md "wikilink")                                                     |
-| 최초 패배         | [2013년](../Page/2013년.md "wikilink") [4월 2일](../Page/4월_2일.md "wikilink")   | [이성민](../Page/이성민_\(야구_선수\).md "wikilink")              | [마산](../Page/마산종합운동장_야구장.md "wikilink")                  | [롯데](../Page/롯데_자이언츠.md "wikilink")                    | 승리투수 : [셰인 유먼](../Page/셰인_유먼.md "wikilink")                                                     |
-| 최초 세이브        | [2013년](../Page/2013년.md "wikilink") [4월 13일](../Page/4월_13일.md "wikilink") | [김진성](../Page/김진성.md "wikilink")                        | [마산](../Page/마산종합운동장_야구장.md "wikilink")                  | [SK](../Page/SK_와이번스.md "wikilink")                    |                                                                                                 |
-| 최초 두자릿수 세이브   | [2013년](../Page/2013년.md "wikilink") [8월 1일](../Page/8월_1일.md "wikilink")   | [이민호](../Page/이민호_\(1993년_8월\).md "wikilink")           | [문학](../Page/문학야구장.md "wikilink")                        | [SK](../Page/SK_와이번스.md "wikilink")                    |                                                                                                 |
-| 최초 홀드         | [2013년](../Page/2013년.md "wikilink") [4월 11일](../Page/4월_11일.md "wikilink") | [문현정](https://ko.wikipedia.org/wiki/문수호 "wikilink")     | [잠실](https://ko.wikipedia.org/wiki/잠실야구장 "wikilink")     | [LG](../Page/LG_트윈스.md "wikilink")                     |                                                                                                 |
-| 최초 실점         | [2013년](../Page/2013년.md "wikilink") [4월 2일](../Page/4월_2일.md "wikilink")   | [이성민](../Page/이성민_\(야구_선수\).md "wikilink")              | [마산](../Page/마산종합운동장_야구장.md "wikilink")                  | [롯데](../Page/롯데_자이언츠.md "wikilink")                    | 타자 : [박종윤](../Page/박종윤_\(1982년\).md "wikilink")                                                 |
-| 최초 피안타        | [2013년](../Page/2013년.md "wikilink") [4월 2일](../Page/4월_2일.md "wikilink")   | [아담 윌크](../Page/애덤_윌크.md "wikilink")                    | [마산](../Page/마산종합운동장_야구장.md "wikilink")                  | [롯데](../Page/롯데_자이언츠.md "wikilink")                    | 타자 : [장성호](https://ko.wikipedia.org/wiki/장성호_\(야구_선수\) "wikilink")                              |
-| 최초 피홈런        | [2013년](../Page/2013년.md "wikilink") [4월 2일](../Page/4월_2일.md "wikilink")   | [이성민](../Page/이성민_\(야구_선수\).md "wikilink")              | [마산](../Page/마산종합운동장_야구장.md "wikilink")                  | [롯데](../Page/롯데_자이언츠.md "wikilink")                    | 타자 : [박종윤](../Page/박종윤_\(1982년\).md "wikilink")                                                 |
-| 최초 볼넷         | [2013년](../Page/2013년.md "wikilink") [4월 2일](../Page/4월_2일.md "wikilink")   | [아담 윌크](../Page/애덤_윌크.md "wikilink")                    | [마산](../Page/마산종합운동장_야구장.md "wikilink")                  | [롯데](../Page/롯데_자이언츠.md "wikilink")                    | 타자 : [조성환](https://ko.wikipedia.org/wiki/조성환_\(야구_선수\) "wikilink")                              |
-| 최초 사구         | [2013년](../Page/2013년.md "wikilink") [4월 2일](../Page/4월_2일.md "wikilink")   | [이태양](../Page/이태양_\(1993년\).md "wikilink")              | [마산](../Page/마산종합운동장_야구장.md "wikilink")                  | [롯데](https://ko.wikipedia.org/wiki/롯데자이언츠 "wikilink")  | 타자 : [손아섭](../Page/손아섭.md "wikilink")                                                           |
-| 최초 탈삼진        | [2013년](../Page/2013년.md "wikilink") [4월 2일](../Page/4월_2일.md "wikilink")   | [아담 윌크](../Page/애덤_윌크.md "wikilink")                    | [마산](../Page/마산종합운동장_야구장.md "wikilink")                  | [롯데](../Page/롯데_자이언츠.md "wikilink")                    | 타자 : [손아섭](../Page/손아섭.md "wikilink")                                                           |
-| 최초 보크         | [2013년](../Page/2013년.md "wikilink") [4월 12일](../Page/4월_12일.md "wikilink") | [아담 윌크](../Page/애덤_윌크.md "wikilink")                    | [마산](../Page/마산종합운동장_야구장.md "wikilink")                  | [SK](../Page/SK_와이번스.md "wikilink")                    |                                                                                                 |
-| 최초 폭투         | [2013년](../Page/2013년.md "wikilink") [4월 2일](../Page/4월_2일.md "wikilink")   | [최금강](../Page/최금강.md "wikilink")                        | [마산](../Page/마산종합운동장_야구장.md "wikilink")                  | [롯데](../Page/롯데_자이언츠.md "wikilink")                    |                                                                                                 |
-| 최초 블론 세이브     | [2013년](../Page/2013년.md "wikilink") [5월 7일](../Page/5월_7일.md "wikilink")   | [고창성](../Page/고창성.md "wikilink")                        | [마산](../Page/마산종합운동장_야구장.md "wikilink")                  | [한화](../Page/한화_이글스.md "wikilink")                     |                                                                                                 |
-| 최초 QS         | [2013년](../Page/2013년.md "wikilink") [4월 2일](../Page/4월_2일.md "wikilink")   | [아담 윌크](../Page/애덤_윌크.md "wikilink")                    | [마산](../Page/마산종합운동장_야구장.md "wikilink")                  | [롯데](../Page/롯데_자이언츠.md "wikilink")                    | 6회 , 무실점                                                                                        |
-| 최초 QS+        | [2013년](../Page/2013년.md "wikilink") [4월 3일](../Page/4월_3일.md "wikilink")   | [찰리 쉬렉](../Page/찰스_쉬렉.md "wikilink")                    | [마산](../Page/마산종합운동장_야구장.md "wikilink")                  | [롯데](../Page/롯데_자이언츠.md "wikilink")                    | 7회 , 1실점                                                                                        |
-| 최초 완투         | [2013년](../Page/2013년.md "wikilink") [5월 17일](../Page/5월_17일.md "wikilink") | [이재학](../Page/이재학_\(야구_선수\).md "wikilink")              | [마산](../Page/마산종합운동장_야구장.md "wikilink")                  | [삼성](https://ko.wikipedia.org/wiki/삼성_라이온즈 "wikilink") | 2실점, 패배                                                                                         |
-| 최초 완봉         | [2013년](../Page/2013년.md "wikilink") [7월 31일](../Page/7월_31일.md "wikilink") | [이재학](../Page/이재학_\(야구_선수\).md "wikilink")              | [문학](../Page/문학야구장.md "wikilink")                        | [SK](../Page/SK_와이번스.md "wikilink")                    | 탈삼진 12개                                                                                         |
-| 최초 피만루홈런      | [2013년](../Page/2013년.md "wikilink") [4월 26일](../Page/4월_26일.md "wikilink") | [김진성](../Page/김진성.md "wikilink")                        | [마산](../Page/마산종합운동장_야구장.md "wikilink")                  | [두산](../Page/두산_베어스.md "wikilink")                     | 타자 : [양의지](../Page/양의지.md "wikilink")                                                           |
-| 최초 타석투수       | [2013년](../Page/2013년.md "wikilink") [8월 13일](../Page/8월_13일.md "wikilink") | [손민한](../Page/손민한.md "wikilink")                        | [청주](../Page/청주야구장.md "wikilink")                        | [한화](../Page/한화_이글스.md "wikilink")                     | 결과 : 삼진아웃                                                                                       |
-| 최초 10승        | [2013년](../Page/2013년.md "wikilink") [9월 10일](../Page/9월_10일.md "wikilink") | [찰리 쉬렉](../Page/찰스_쉬렉.md "wikilink")                    | [마산](../Page/마산종합운동장_야구장.md "wikilink")                  | [롯데](../Page/롯데_자이언츠.md "wikilink")                    |                                                                                                 |
-| 최초 노히트 노런     | [2014년](../Page/2014년.md "wikilink") [6월 24일](../Page/6월_24일.md "wikilink") | [찰리 쉬렉](../Page/찰스_쉬렉.md "wikilink")                    | [잠실](https://ko.wikipedia.org/wiki/잠실_야구장 "wikilink")    | [LG](../Page/LG_트윈스.md "wikilink")                     | KBO 외국인 투수 1호 노히트 노런                                                                            |
-| 최초 1이닝 4K     | [2016년](../Page/2016년.md "wikilink") [8월 7일](../Page/8월_7일.md "wikilink")   | [에릭 해커](../Page/에릭_해커.md "wikilink")                    | [대전](https://ko.wikipedia.org/wiki/한화생명이글스파크 "wikilink") | [한화](../Page/한화_이글스.md "wikilink")                     | 타자 : [이용규](../Page/이용규.md "wikilink")                                                           |
-| 최초 선발전원탈삼진    | [2016년](../Page/2016년.md "wikilink") [10월 6일](../Page/10월_6일.md "wikilink") | [이재학](https://ko.wikipedia.org/wiki/이재학 "wikilink")     | [마산](https://ko.wikipedia.org/wiki/마산야구장 "wikilink")     | [SK](https://ko.wikipedia.org/wiki/SK와이번스 "wikilink")  | 통산26번째                                                                                          |
+| 기록            | 일시                                                                          | 성명                                                      | 장소                                      | 상대                                                    | 비고                                                                                              |
+| ------------- | --------------------------------------------------------------------------- | ------------------------------------------------------- | --------------------------------------- | ----------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
+| 최초 선발         | [2013년](../Page/2013년.md "wikilink") [4월 2일](../Page/4월_2일.md "wikilink")   | [아담 윌크](../Page/애덤_윌크.md "wikilink")                    | [마산](../Page/마산종합운동장_야구장.md "wikilink") | [롯데](../Page/롯데_자이언츠.md "wikilink")                   | 승패를 기록하지는 않았음                                                                                   |
+| 최초 승리         | [2013년](../Page/2013년.md "wikilink") [4월 11일](../Page/4월_11일.md "wikilink") | [이재학](../Page/이재학_\(야구_선수\).md "wikilink")              | [잠실](../Page/서울종합운동장_야구장.md "wikilink") | [LG](../Page/LG_트윈스.md "wikilink")                    | 패전투수 : [신정락](../Page/신정락.md "wikilink")                                                         |
+| 최초 두자릿수 승리    | [2013년](../Page/2013년.md "wikilink") [9월 10일](../Page/9월_10일.md "wikilink") | [찰리 쉬렉](https://ko.wikipedia.org/wiki/찰리_쉬렉 "wikilink") | [마산](../Page/마산종합운동장_야구장.md "wikilink") | [롯데](../Page/롯데_자이언츠.md "wikilink")                   | 패전투수 : [쉐인 유먼](https://ko.wikipedia.org/wiki/쉐인_유먼 "wikilink")                                  |
+| 최초 2연승        | [2013년](../Page/2013년.md "wikilink") [4월 14일](../Page/4월_14일.md "wikilink") | [송신영](../Page/송신영.md "wikilink")                        | [마산](../Page/마산종합운동장_야구장.md "wikilink") | [SK](../Page/SK_와이번스.md "wikilink")                   | 패전투수 : [송은범](../Page/송은범.md "wikilink")                                                         |
+| 최초 싹쓸이(스윕) 승리 | [2013년](../Page/2013년.md "wikilink") [5월 2일](../Page/5월_2일.md "wikilink")   | [이태양](https://ko.wikipedia.org/wiki/이태양 "wikilink")     | [마산](../Page/마산종합운동장_야구장.md "wikilink") | [LG](../Page/LG_트윈스.md "wikilink")                    | 패전투수 : [우규민](../Page/우규민.md "wikilink")                                                         |
+| 최초 싹쓸이(스윕) 패배 | [2013년](../Page/2013년.md "wikilink") [4월 4일](../Page/4월_4일.md "wikilink")   | [에릭 해커](../Page/에릭_해커.md "wikilink")                    | [마산](../Page/마산종합운동장_야구장.md "wikilink") | [롯데](../Page/롯데_자이언츠.md "wikilink")                   | 승리투수 : [송승준](../Page/송승준.md "wikilink")                                                         |
+| 최초 영봉승        | [2013년](../Page/2013년.md "wikilink") [7월 2일](../Page/7월_2일.md "wikilink")   | [찰리 쉬렉](https://ko.wikipedia.org/wiki/찰리_쉬렉 "wikilink") | [마산](../Page/마산종합운동장_야구장.md "wikilink") | [넥센](../Page/키움_히어로즈.md "wikilink")                   | 패전투수 : [이보근](../Page/이보근.md "wikilink") / 세이브투수 : [이민호](../Page/이민호_\(1993년_8월\).md "wikilink") |
+| 최초 영봉패        | [2013년](../Page/2013년.md "wikilink") [4월 2일](../Page/4월_2일.md "wikilink")   | [이성민](../Page/이성민_\(야구_선수\).md "wikilink")              | [마산](../Page/마산종합운동장_야구장.md "wikilink") | [롯데](../Page/롯데_자이언츠.md "wikilink")                   | 승리투수 : [셰인 유먼](../Page/셰인_유먼.md "wikilink")                                                     |
+| 최초 패배         | [2013년](../Page/2013년.md "wikilink") [4월 2일](../Page/4월_2일.md "wikilink")   | [이성민](../Page/이성민_\(야구_선수\).md "wikilink")              | [마산](../Page/마산종합운동장_야구장.md "wikilink") | [롯데](../Page/롯데_자이언츠.md "wikilink")                   | 승리투수 : [셰인 유먼](../Page/셰인_유먼.md "wikilink")                                                     |
+| 최초 세이브        | [2013년](../Page/2013년.md "wikilink") [4월 13일](../Page/4월_13일.md "wikilink") | [김진성](../Page/김진성.md "wikilink")                        | [마산](../Page/마산종합운동장_야구장.md "wikilink") | [SK](../Page/SK_와이번스.md "wikilink")                   |                                                                                                 |
+| 최초 두자릿수 세이브   | [2013년](../Page/2013년.md "wikilink") [8월 1일](../Page/8월_1일.md "wikilink")   | [이민호](../Page/이민호_\(1993년_8월\).md "wikilink")           | [문학](../Page/문학야구장.md "wikilink")       | [SK](../Page/SK_와이번스.md "wikilink")                   |                                                                                                 |
+| 최초 홀드         | [2013년](../Page/2013년.md "wikilink") [4월 11일](../Page/4월_11일.md "wikilink") | [문현정](https://ko.wikipedia.org/wiki/문수호 "wikilink")     | [잠실](../Page/서울종합운동장_야구장.md "wikilink") | [LG](../Page/LG_트윈스.md "wikilink")                    |                                                                                                 |
+| 최초 실점         | [2013년](../Page/2013년.md "wikilink") [4월 2일](../Page/4월_2일.md "wikilink")   | [이성민](../Page/이성민_\(야구_선수\).md "wikilink")              | [마산](../Page/마산종합운동장_야구장.md "wikilink") | [롯데](../Page/롯데_자이언츠.md "wikilink")                   | 타자 : [박종윤](../Page/박종윤_\(1982년\).md "wikilink")                                                 |
+| 최초 피안타        | [2013년](../Page/2013년.md "wikilink") [4월 2일](../Page/4월_2일.md "wikilink")   | [아담 윌크](../Page/애덤_윌크.md "wikilink")                    | [마산](../Page/마산종합운동장_야구장.md "wikilink") | [롯데](../Page/롯데_자이언츠.md "wikilink")                   | 타자 : [장성호](https://ko.wikipedia.org/wiki/장성호_\(야구_선수\) "wikilink")                              |
+| 최초 피홈런        | [2013년](../Page/2013년.md "wikilink") [4월 2일](../Page/4월_2일.md "wikilink")   | [이성민](../Page/이성민_\(야구_선수\).md "wikilink")              | [마산](../Page/마산종합운동장_야구장.md "wikilink") | [롯데](../Page/롯데_자이언츠.md "wikilink")                   | 타자 : [박종윤](../Page/박종윤_\(1982년\).md "wikilink")                                                 |
+| 최초 볼넷         | [2013년](../Page/2013년.md "wikilink") [4월 2일](../Page/4월_2일.md "wikilink")   | [아담 윌크](../Page/애덤_윌크.md "wikilink")                    | [마산](../Page/마산종합운동장_야구장.md "wikilink") | [롯데](../Page/롯데_자이언츠.md "wikilink")                   | 타자 : [조성환](https://ko.wikipedia.org/wiki/조성환_\(야구_선수\) "wikilink")                              |
+| 최초 사구         | [2013년](../Page/2013년.md "wikilink") [4월 2일](../Page/4월_2일.md "wikilink")   | [이태양](../Page/이태양_\(1993년\).md "wikilink")              | [마산](../Page/마산종합운동장_야구장.md "wikilink") | [롯데](../Page/롯데_자이언츠.md "wikilink")                   | 타자 : [손아섭](../Page/손아섭.md "wikilink")                                                           |
+| 최초 탈삼진        | [2013년](../Page/2013년.md "wikilink") [4월 2일](../Page/4월_2일.md "wikilink")   | [아담 윌크](../Page/애덤_윌크.md "wikilink")                    | [마산](../Page/마산종합운동장_야구장.md "wikilink") | [롯데](../Page/롯데_자이언츠.md "wikilink")                   | 타자 : [손아섭](../Page/손아섭.md "wikilink")                                                           |
+| 최초 보크         | [2013년](../Page/2013년.md "wikilink") [4월 12일](../Page/4월_12일.md "wikilink") | [아담 윌크](../Page/애덤_윌크.md "wikilink")                    | [마산](../Page/마산종합운동장_야구장.md "wikilink") | [SK](../Page/SK_와이번스.md "wikilink")                   |                                                                                                 |
+| 최초 폭투         | [2013년](../Page/2013년.md "wikilink") [4월 2일](../Page/4월_2일.md "wikilink")   | [최금강](../Page/최금강.md "wikilink")                        | [마산](../Page/마산종합운동장_야구장.md "wikilink") | [롯데](../Page/롯데_자이언츠.md "wikilink")                   |                                                                                                 |
+| 최초 블론 세이브     | [2013년](../Page/2013년.md "wikilink") [5월 7일](../Page/5월_7일.md "wikilink")   | [고창성](../Page/고창성.md "wikilink")                        | [마산](../Page/마산종합운동장_야구장.md "wikilink") | [한화](../Page/한화_이글스.md "wikilink")                    |                                                                                                 |
+| 최초 QS         | [2013년](../Page/2013년.md "wikilink") [4월 2일](../Page/4월_2일.md "wikilink")   | [아담 윌크](../Page/애덤_윌크.md "wikilink")                    | [마산](../Page/마산종합운동장_야구장.md "wikilink") | [롯데](../Page/롯데_자이언츠.md "wikilink")                   | 6회 , 무실점                                                                                        |
+| 최초 QS+        | [2013년](../Page/2013년.md "wikilink") [4월 3일](../Page/4월_3일.md "wikilink")   | [찰리 쉬렉](../Page/찰스_쉬렉.md "wikilink")                    | [마산](../Page/마산종합운동장_야구장.md "wikilink") | [롯데](../Page/롯데_자이언츠.md "wikilink")                   | 7회 , 1실점                                                                                        |
+| 최초 완투         | [2013년](../Page/2013년.md "wikilink") [5월 17일](../Page/5월_17일.md "wikilink") | [이재학](../Page/이재학_\(야구_선수\).md "wikilink")              | [마산](../Page/마산종합운동장_야구장.md "wikilink") | [삼성](../Page/삼성_라이온즈.md "wikilink")                   | 2실점, 패배                                                                                         |
+| 최초 완봉         | [2013년](../Page/2013년.md "wikilink") [7월 31일](../Page/7월_31일.md "wikilink") | [이재학](../Page/이재학_\(야구_선수\).md "wikilink")              | [문학](../Page/문학야구장.md "wikilink")       | [SK](../Page/SK_와이번스.md "wikilink")                   | 탈삼진 12개                                                                                         |
+| 최초 피만루홈런      | [2013년](../Page/2013년.md "wikilink") [4월 26일](../Page/4월_26일.md "wikilink") | [김진성](../Page/김진성.md "wikilink")                        | [마산](../Page/마산종합운동장_야구장.md "wikilink") | [두산](../Page/두산_베어스.md "wikilink")                    | 타자 : [양의지](../Page/양의지.md "wikilink")                                                           |
+| 최초 타석투수       | [2013년](../Page/2013년.md "wikilink") [8월 13일](../Page/8월_13일.md "wikilink") | [손민한](../Page/손민한.md "wikilink")                        | [청주](../Page/청주야구장.md "wikilink")       | [한화](../Page/한화_이글스.md "wikilink")                    | 결과 : 삼진아웃                                                                                       |
+| 최초 10승        | [2013년](../Page/2013년.md "wikilink") [9월 10일](../Page/9월_10일.md "wikilink") | [찰리 쉬렉](../Page/찰스_쉬렉.md "wikilink")                    | [마산](../Page/마산종합운동장_야구장.md "wikilink") | [롯데](../Page/롯데_자이언츠.md "wikilink")                   |                                                                                                 |
+| 최초 노히트 노런     | [2014년](../Page/2014년.md "wikilink") [6월 24일](../Page/6월_24일.md "wikilink") | [찰리 쉬렉](../Page/찰스_쉬렉.md "wikilink")                    | [잠실](../Page/서울종합운동장_야구장.md "wikilink") | [LG](../Page/LG_트윈스.md "wikilink")                    | KBO 외국인 투수 1호 노히트 노런                                                                            |
+| 최초 1이닝 4K     | [2016년](../Page/2016년.md "wikilink") [8월 7일](../Page/8월_7일.md "wikilink")   | [에릭 해커](../Page/에릭_해커.md "wikilink")                    | [대전](../Page/한밭종합운동장_야구장.md "wikilink") | [한화](../Page/한화_이글스.md "wikilink")                    | 타자 : [이용규](../Page/이용규.md "wikilink")                                                           |
+| 최초 선발전원탈삼진    | [2016년](../Page/2016년.md "wikilink") [10월 6일](../Page/10월_6일.md "wikilink") | [이재학](https://ko.wikipedia.org/wiki/이재학 "wikilink")     | [마산](../Page/마산종합운동장_야구장.md "wikilink") | [SK](https://ko.wikipedia.org/wiki/SK와이번스 "wikilink") | 통산26번째                                                                                          |
+|               |                                                                             |                                                         |                                         |                                                       |                                                                                                 |
 
 ### 타자 기록
 
@@ -632,7 +633,7 @@ NC 다이노스의 마스코트는 [단디](https://ko.wikipedia.org/wiki/단디
 <td><p><a href="../Page/2013년.md" title="wikilink">2013년</a> <a href="../Page/4월_2일.md" title="wikilink">4월 2일</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/김종호" title="wikilink">김종호</a></p></td>
 <td><p><a href="../Page/마산종합운동장_야구장.md" title="wikilink">마산</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/롯데자이언츠" title="wikilink">롯데</a></p></td>
+<td><p><a href="../Page/롯데_자이언츠.md" title="wikilink">롯데</a></p></td>
 <td><p>투수 : <a href="../Page/셰인_유먼.md" title="wikilink">셰인 유먼</a></p></td>
 </tr>
 <tr class="even">
@@ -640,7 +641,7 @@ NC 다이노스의 마스코트는 [단디](https://ko.wikipedia.org/wiki/단디
 <td><p><a href="../Page/2013년.md" title="wikilink">2013년</a> <a href="../Page/4월_2일.md" title="wikilink">4월 2일</a></p></td>
 <td><p><a href="../Page/모창민.md" title="wikilink">모창민</a></p></td>
 <td><p><a href="../Page/마산종합운동장_야구장.md" title="wikilink">마산</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/롯데자이언츠" title="wikilink">롯데</a></p></td>
+<td><p><a href="../Page/롯데_자이언츠.md" title="wikilink">롯데</a></p></td>
 <td><p>투수 : <a href="../Page/셰인_유먼.md" title="wikilink">셰인 유먼</a></p></td>
 </tr>
 <tr class="odd">
@@ -648,7 +649,7 @@ NC 다이노스의 마스코트는 [단디](https://ko.wikipedia.org/wiki/단디
 <td><p><a href="../Page/2013년.md" title="wikilink">2013년</a> <a href="../Page/4월_3일.md" title="wikilink">4월 3일</a></p></td>
 <td><p><a href="../Page/이현곤.md" title="wikilink">이현곤</a></p></td>
 <td><p><a href="../Page/마산종합운동장_야구장.md" title="wikilink">마산</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/롯데자이언츠" title="wikilink">롯데</a></p></td>
+<td><p><a href="../Page/롯데_자이언츠.md" title="wikilink">롯데</a></p></td>
 <td><p>투수 : <a href="../Page/고원준.md" title="wikilink">고원준</a></p></td>
 </tr>
 <tr class="even">
@@ -656,7 +657,7 @@ NC 다이노스의 마스코트는 [단디](https://ko.wikipedia.org/wiki/단디
 <td><p><a href="../Page/2013년.md" title="wikilink">2013년</a> <a href="../Page/4월_18일.md" title="wikilink">4월 18일</a></p></td>
 <td><p><a href="../Page/노진혁.md" title="wikilink">노진혁</a></p></td>
 <td><p><a href="../Page/한밭종합운동장_야구장.md" title="wikilink">대전</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/한화이글스" title="wikilink">한화</a></p></td>
+<td><p><a href="../Page/한화_이글스.md" title="wikilink">한화</a></p></td>
 <td><p>투수 : <a href="../Page/김광수_(1981년).md" title="wikilink">김광수</a></p></td>
 </tr>
 <tr class="odd">
@@ -664,14 +665,14 @@ NC 다이노스의 마스코트는 [단디](https://ko.wikipedia.org/wiki/단디
 <td><p><a href="../Page/2013년.md" title="wikilink">2013년</a> <a href="../Page/4월_2일.md" title="wikilink">4월 2일</a></p></td>
 <td><p><a href="../Page/모창민.md" title="wikilink">모창민</a></p></td>
 <td><p><a href="../Page/마산종합운동장_야구장.md" title="wikilink">마산</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/롯데자이언츠" title="wikilink">롯데</a></p></td>
+<td><p><a href="../Page/롯데_자이언츠.md" title="wikilink">롯데</a></p></td>
 <td><p>투수 : <a href="../Page/셰인_유먼.md" title="wikilink">셰인 유먼</a></p></td>
 </tr>
 <tr class="even">
 <td><p>최초 사구</p></td>
 <td><p><a href="../Page/2013년.md" title="wikilink">2013년</a> <a href="../Page/4월_11일.md" title="wikilink">4월 11일</a></p></td>
 <td><p><a href="../Page/김종호_(1984년).md" title="wikilink">김종호</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/잠실야구장" title="wikilink">잠실</a></p></td>
+<td><p><a href="../Page/서울종합운동장_야구장.md" title="wikilink">잠실</a></p></td>
 <td><p><a href="../Page/LG_트윈스.md" title="wikilink">LG</a></p></td>
 <td><p>투수 : <a href="../Page/신정락.md" title="wikilink">신정락</a></p></td>
 </tr>
@@ -680,7 +681,7 @@ NC 다이노스의 마스코트는 [단디](https://ko.wikipedia.org/wiki/단디
 <td><p><a href="../Page/2013년.md" title="wikilink">2013년</a> <a href="../Page/4월_2일.md" title="wikilink">4월 2일</a></p></td>
 <td><p><a href="../Page/권희동.md" title="wikilink">권희동</a></p></td>
 <td><p><a href="../Page/마산종합운동장_야구장.md" title="wikilink">마산</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/롯데자이언츠" title="wikilink">롯데</a></p></td>
+<td><p><a href="../Page/롯데_자이언츠.md" title="wikilink">롯데</a></p></td>
 <td><p>투수 : <a href="../Page/셰인_유먼.md" title="wikilink">셰인 유먼</a></p></td>
 </tr>
 <tr class="even">
@@ -688,14 +689,14 @@ NC 다이노스의 마스코트는 [단디](https://ko.wikipedia.org/wiki/단디
 <td><p><a href="../Page/2013년.md" title="wikilink">2013년</a> <a href="../Page/4월_2일.md" title="wikilink">4월 2일</a></p></td>
 <td><p><a href="../Page/이현곤.md" title="wikilink">이현곤</a></p></td>
 <td><p><a href="../Page/마산종합운동장_야구장.md" title="wikilink">마산</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/롯데자이언츠" title="wikilink">롯데</a></p></td>
+<td><p><a href="../Page/롯데_자이언츠.md" title="wikilink">롯데</a></p></td>
 <td><p>투수 : <a href="../Page/셰인_유먼.md" title="wikilink">셰인 유먼</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>최초 도루 실패</p></td>
 <td><p><a href="../Page/2013년.md" title="wikilink">2013년</a> <a href="../Page/4월_11일.md" title="wikilink">4월 11일</a></p></td>
 <td><p><a href="../Page/최재원_(야구_선수).md" title="wikilink">최재원</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/잠실야구장" title="wikilink">잠실</a></p></td>
+<td><p><a href="../Page/서울종합운동장_야구장.md" title="wikilink">잠실</a></p></td>
 <td><p><a href="../Page/LG_트윈스.md" title="wikilink">LG</a></p></td>
 <td><p>포수 : <a href="../Page/현재윤.md" title="wikilink">현재윤</a></p></td>
 </tr>
@@ -703,7 +704,7 @@ NC 다이노스의 마스코트는 [단디](https://ko.wikipedia.org/wiki/단디
 <td><p>최초 더블 스틸</p></td>
 <td><p><a href="../Page/2013년.md" title="wikilink">2013년</a> <a href="../Page/4월_9일.md" title="wikilink">4월 9일</a></p></td>
 <td><p><a href="../Page/권희동.md" title="wikilink">권희동</a>,<a href="https://ko.wikipedia.org/wiki/조평호" title="wikilink">조평호</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/잠실야구장" title="wikilink">잠실</a></p></td>
+<td><p><a href="../Page/서울종합운동장_야구장.md" title="wikilink">잠실</a></p></td>
 <td><p><a href="../Page/LG_트윈스.md" title="wikilink">LG</a></p></td>
 <td><p>투수 : <a href="../Page/우규민.md" title="wikilink">우규민</a></p></td>
 </tr>
@@ -712,7 +713,7 @@ NC 다이노스의 마스코트는 [단디](https://ko.wikipedia.org/wiki/단디
 <td><p><a href="../Page/2013년.md" title="wikilink">2013년</a> <a href="../Page/4월_3일.md" title="wikilink">4월 3일</a></p></td>
 <td><p><a href="../Page/노진혁.md" title="wikilink">노진혁</a></p></td>
 <td><p><a href="../Page/마산종합운동장_야구장.md" title="wikilink">마산</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/롯데자이언츠" title="wikilink">롯데</a></p></td>
+<td><p><a href="../Page/롯데_자이언츠.md" title="wikilink">롯데</a></p></td>
 <td><p>투수 : <a href="../Page/고원준.md" title="wikilink">고원준</a></p></td>
 </tr>
 <tr class="even">
@@ -728,7 +729,7 @@ NC 다이노스의 마스코트는 [단디](https://ko.wikipedia.org/wiki/단디
 <td><p><a href="../Page/2013년.md" title="wikilink">2013년</a> <a href="../Page/4월_5일.md" title="wikilink">4월 5일</a></p></td>
 <td><p><a href="../Page/차화준_(1986년).md" title="wikilink">차화준</a></p></td>
 <td><p><a href="../Page/대구시민운동장_야구장.md" title="wikilink">대구</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/삼성라이온즈" title="wikilink">삼성</a></p></td>
+<td><p><a href="../Page/삼성_라이온즈.md" title="wikilink">삼성</a></p></td>
 <td><p>투수 : <a href="../Page/장원삼.md" title="wikilink">장원삼</a></p></td>
 </tr>
 <tr class="even">
@@ -736,7 +737,7 @@ NC 다이노스의 마스코트는 [단디](https://ko.wikipedia.org/wiki/단디
 <td><p><a href="../Page/2013년.md" title="wikilink">2013년</a> <a href="../Page/4월_3일.md" title="wikilink">4월 3일</a></p></td>
 <td><p><a href="../Page/이현곤.md" title="wikilink">이현곤</a></p></td>
 <td><p><a href="../Page/마산종합운동장_야구장.md" title="wikilink">마산</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/롯데자이언츠" title="wikilink">롯데</a></p></td>
+<td><p><a href="../Page/롯데_자이언츠.md" title="wikilink">롯데</a></p></td>
 <td><p>투수 : <a href="../Page/고원준.md" title="wikilink">고원준</a><br />
 플라이 후 귀루실패</p></td>
 </tr>
@@ -745,7 +746,7 @@ NC 다이노스의 마스코트는 [단디](https://ko.wikipedia.org/wiki/단디
 <td><p><a href="../Page/2013년.md" title="wikilink">2013년</a> <a href="../Page/4월_3일.md" title="wikilink">4월 3일</a></p></td>
 <td><p><a href="../Page/이현곤.md" title="wikilink">이현곤</a></p></td>
 <td><p><a href="../Page/마산종합운동장_야구장.md" title="wikilink">마산</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/롯데자이언츠" title="wikilink">롯데</a></p></td>
+<td><p><a href="../Page/롯데_자이언츠.md" title="wikilink">롯데</a></p></td>
 <td><p>투수 : <a href="../Page/송승준.md" title="wikilink">송승준</a></p></td>
 </tr>
 <tr class="even">
@@ -753,15 +754,15 @@ NC 다이노스의 마스코트는 [단디](https://ko.wikipedia.org/wiki/단디
 <td><p><a href="../Page/2013년.md" title="wikilink">2013년</a> <a href="../Page/4월_3일.md" title="wikilink">4월 3일</a></p></td>
 <td><p><a href="../Page/김태군_(야구_선수).md" title="wikilink">김태군</a></p></td>
 <td><p><a href="../Page/마산종합운동장_야구장.md" title="wikilink">마산</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/롯데자이언츠" title="wikilink">롯데</a></p></td>
+<td><p><a href="../Page/롯데_자이언츠.md" title="wikilink">롯데</a></p></td>
 <td><p>투수 : <a href="../Page/송승준.md" title="wikilink">송승준</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>최초 결승타</p></td>
 <td><p><a href="../Page/2013년.md" title="wikilink">2013년</a> <a href="../Page/4월_11일.md" title="wikilink">4월 11일</a></p></td>
 <td><p><a href="../Page/차화준_(1986년).md" title="wikilink">차화준</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/잠실야구장" title="wikilink">잠실</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/LG트윈스" title="wikilink">LG</a></p></td>
+<td><p><a href="../Page/서울종합운동장_야구장.md" title="wikilink">잠실</a></p></td>
+<td><p><a href="../Page/LG_트윈스.md" title="wikilink">LG</a></p></td>
 <td><p>투수 : <a href="../Page/신정락.md" title="wikilink">신정락</a></p></td>
 </tr>
 <tr class="even">
@@ -785,7 +786,7 @@ NC 다이노스의 마스코트는 [단디](https://ko.wikipedia.org/wiki/단디
 <td><p><a href="../Page/2013년.md" title="wikilink">2013년</a> <a href="../Page/4월_5일.md" title="wikilink">4월 5일</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/조평호" title="wikilink">조평호</a></p></td>
 <td><p><a href="../Page/대구시민운동장_야구장.md" title="wikilink">대구</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/삼성라이온즈" title="wikilink">삼성</a></p></td>
+<td><p><a href="../Page/삼성_라이온즈.md" title="wikilink">삼성</a></p></td>
 <td><p>투수 : <a href="../Page/장원삼.md" title="wikilink">장원삼</a></p></td>
 </tr>
 <tr class="odd">
@@ -793,7 +794,7 @@ NC 다이노스의 마스코트는 [단디](https://ko.wikipedia.org/wiki/단디
 <td><p><a href="../Page/2013년.md" title="wikilink">2013년</a> <a href="../Page/7월_13일.md" title="wikilink">7월 13일</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/이호준_(야구_선수)" title="wikilink">이호준</a></p></td>
 <td><p><a href="../Page/마산종합운동장_야구장.md" title="wikilink">마산</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/롯데자이언츠" title="wikilink">롯데</a></p></td>
+<td><p><a href="../Page/롯데_자이언츠.md" title="wikilink">롯데</a></p></td>
 <td><p>투수 : <a href="../Page/김승회.md" title="wikilink">김승회</a></p></td>
 </tr>
 <tr class="even">
@@ -801,7 +802,7 @@ NC 다이노스의 마스코트는 [단디](https://ko.wikipedia.org/wiki/단디
 <td><p><a href="../Page/2013년.md" title="wikilink">2013년</a> <a href="../Page/9월_19일.md" title="wikilink">9월 19일</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/이호준_(야구_선수)" title="wikilink">이호준</a></p></td>
 <td><p><a href="../Page/사직야구장.md" title="wikilink">사직</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/롯데자이언츠" title="wikilink">롯데</a></p></td>
+<td><p><a href="../Page/롯데_자이언츠.md" title="wikilink">롯데</a></p></td>
 <td><p>투수 : <a href="../Page/김사율.md" title="wikilink">김사율</a></p></td>
 </tr>
 <tr class="odd">
@@ -809,7 +810,7 @@ NC 다이노스의 마스코트는 [단디](https://ko.wikipedia.org/wiki/단디
 <td><p><a href="../Page/2013년.md" title="wikilink">2013년</a> <a href="../Page/4월_5일.md" title="wikilink">4월 5일</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/조평호" title="wikilink">조평호</a></p></td>
 <td><p><a href="../Page/대구시민운동장_야구장.md" title="wikilink">대구</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/삼성라이온즈" title="wikilink">삼성</a></p></td>
+<td><p><a href="../Page/삼성_라이온즈.md" title="wikilink">삼성</a></p></td>
 <td><p>투수 : <a href="../Page/장원삼.md" title="wikilink">장원삼</a></p></td>
 </tr>
 <tr class="even">
@@ -817,7 +818,7 @@ NC 다이노스의 마스코트는 [단디](https://ko.wikipedia.org/wiki/단디
 <td><p><a href="../Page/2014년.md" title="wikilink">2014년</a> <a href="../Page/9월_9일.md" title="wikilink">9월 9일</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/이종욱" title="wikilink">이종욱</a></p></td>
 <td><p><a href="../Page/마산종합운동장_야구장.md" title="wikilink">마산</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/삼성라이온즈" title="wikilink">삼성</a></p></td>
+<td><p><a href="../Page/삼성_라이온즈.md" title="wikilink">삼성</a></p></td>
 <td><p>투수 : <a href="../Page/차우찬.md" title="wikilink">차우찬</a><br />
 만루 홈런</p></td>
 </tr>
@@ -826,7 +827,7 @@ NC 다이노스의 마스코트는 [단디](https://ko.wikipedia.org/wiki/단디
 <td><p><a href="../Page/2013년.md" title="wikilink">2013년</a> <a href="../Page/8월_30일.md" title="wikilink">8월 30일</a></p></td>
 <td><p><a href="../Page/나성범.md" title="wikilink">나성범</a></p></td>
 <td><p><a href="../Page/마산종합운동장_야구장.md" title="wikilink">마산</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/두산베어스" title="wikilink">두산</a></p></td>
+<td><p><a href="../Page/두산_베어스.md" title="wikilink">두산</a></p></td>
 <td><p>투수 : <a href="../Page/이재우_(1980년).md" title="wikilink">이재우</a></p></td>
 </tr>
 <tr class="even">
@@ -834,7 +835,7 @@ NC 다이노스의 마스코트는 [단디](https://ko.wikipedia.org/wiki/단디
 <td><p><a href="../Page/2013년.md" title="wikilink">2013년</a> <a href="../Page/4월_5일.md" title="wikilink">4월 5일</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/허준_(1981년)" title="wikilink">허준</a>,<a href="https://ko.wikipedia.org/wiki/김동건" title="wikilink">김동건</a></p></td>
 <td><p><a href="../Page/대구시민운동장_야구장.md" title="wikilink">대구</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/삼성라이온즈" title="wikilink">삼성</a></p></td>
+<td><p><a href="../Page/삼성_라이온즈.md" title="wikilink">삼성</a></p></td>
 <td><p>투수 : <a href="../Page/백정현.md" title="wikilink">백정현</a></p></td>
 </tr>
 <tr class="odd">
@@ -850,7 +851,7 @@ NC 다이노스의 마스코트는 [단디](https://ko.wikipedia.org/wiki/단디
 <td><p><a href="../Page/2013년.md" title="wikilink">2013년</a> <a href="../Page/4월_27일.md" title="wikilink">4월 27일</a></p></td>
 <td><p><a href="../Page/노진혁.md" title="wikilink">노진혁</a></p></td>
 <td><p><a href="../Page/마산종합운동장_야구장.md" title="wikilink">마산</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/두산베어스" title="wikilink">두산</a></p></td>
+<td><p><a href="../Page/두산_베어스.md" title="wikilink">두산</a></p></td>
 <td><p>투수 : <a href="https://ko.wikipedia.org/wiki/김선우_(1977년)" title="wikilink">김선우</a></p></td>
 </tr>
 <tr class="odd">
@@ -874,7 +875,7 @@ NC 다이노스의 마스코트는 [단디](https://ko.wikipedia.org/wiki/단디
 <td><p><a href="../Page/2014년.md" title="wikilink">2014년</a> <a href="../Page/5월_7일.md" title="wikilink">5월 7일</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/이종욱" title="wikilink">이종욱</a>, <a href="../Page/나성범.md" title="wikilink">나성범</a>, <a href="https://ko.wikipedia.org/wiki/이호준_(야구_선수)" title="wikilink">이호준</a></p></td>
 <td><p><a href="../Page/목동야구장.md" title="wikilink">목동</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/넥센_히어로즈" title="wikilink">넥센</a></p></td>
+<td><p><a href="../Page/키움_히어로즈.md" title="wikilink">넥센</a></p></td>
 <td><p>투수 : <a href="../Page/문성현.md" title="wikilink">문성현</a>, <a href="../Page/윤영삼.md" title="wikilink">윤영삼</a></p></td>
 </tr>
 <tr class="even">
@@ -890,7 +891,7 @@ NC 다이노스의 마스코트는 [단디](https://ko.wikipedia.org/wiki/단디
 <td><p><a href="../Page/2015년.md" title="wikilink">2015년</a> <a href="../Page/7월_11일.md" title="wikilink">7월 11일</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/조영훈_(야구_선수)" title="wikilink">조영훈</a></p></td>
 <td><p><a href="../Page/목동야구장.md" title="wikilink">목동</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/넥센_히어로즈" title="wikilink">넥센</a></p></td>
+<td><p><a href="../Page/키움_히어로즈.md" title="wikilink">넥센</a></p></td>
 <td><p>투수 : <a href="../Page/문성현.md" title="wikilink">문성현</a><br />
 직선타 후 귀루실패</p></td>
 </tr>
@@ -906,7 +907,7 @@ NC 다이노스의 마스코트는 [단디](https://ko.wikipedia.org/wiki/단디
 <td><p>최초 20홈런 20도루</p></td>
 <td><p><a href="../Page/2015년.md" title="wikilink">2015년</a> <a href="../Page/7월_3일.md" title="wikilink">7월 3일</a></p></td>
 <td><p><a href="../Page/에릭_테임즈.md" title="wikilink">에릭 테임즈</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/대전야구장" title="wikilink">대전</a></p></td>
+<td><p><a href="../Page/한밭종합운동장_야구장.md" title="wikilink">대전</a></p></td>
 <td><p><a href="../Page/한화_이글스.md" title="wikilink">한화</a></p></td>
 <td><p>투수 : <a href="https://ko.wikipedia.org/wiki/송창식" title="wikilink">송창식</a></p></td>
 </tr>
@@ -914,7 +915,7 @@ NC 다이노스의 마스코트는 [단디](https://ko.wikipedia.org/wiki/단디
 <td><p>최초 30홈런 30도루</p></td>
 <td><p><a href="../Page/2015년.md" title="wikilink">2015년</a> <a href="../Page/8월_28일.md" title="wikilink">8월 28일</a></p></td>
 <td><p><a href="../Page/에릭_테임즈.md" title="wikilink">에릭 테임즈</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/마산_종합운동장_야구장" title="wikilink">마산</a></p></td>
+<td><p><a href="../Page/마산종합운동장_야구장.md" title="wikilink">마산</a></p></td>
 <td><p><a href="../Page/한화_이글스.md" title="wikilink">한화</a></p></td>
 <td><p>투수 : <a href="../Page/배영수.md" title="wikilink">배영수</a></p></td>
 </tr>
@@ -930,9 +931,17 @@ NC 다이노스의 마스코트는 [단디](https://ko.wikipedia.org/wiki/단디
 <td><p>최초 개막전 홈런</p></td>
 <td><p><a href="../Page/2016년.md" title="wikilink">2016년</a> <a href="../Page/4월_1일.md" title="wikilink">4월 1일</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/이호준" title="wikilink">이호준</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/마산_종합운동장_야구장" title="wikilink">마산</a></p></td>
+<td><p><a href="../Page/마산종합운동장_야구장.md" title="wikilink">마산</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/KIA_타이거즈" title="wikilink">KIA</a></p></td>
 <td><p>투수 : <a href="../Page/양현종.md" title="wikilink">양현종</a></p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 </tbody>
 </table>
@@ -954,9 +963,9 @@ NC 다이노스의 마스코트는 [단디](https://ko.wikipedia.org/wiki/단디
 <tr class="odd">
 <td><p>최초 아웃카운트</p></td>
 <td><p><a href="../Page/2013년.md" title="wikilink">2013년</a> <a href="../Page/4월_2일.md" title="wikilink">4월 2일</a></p></td>
-<td><p><a href="../Page/박상혁.md" title="wikilink">박상혁</a></p></td>
+<td><p><a href="../Page/박상혁_(1990년).md" title="wikilink">박상혁</a></p></td>
 <td><p><a href="../Page/마산종합운동장_야구장.md" title="wikilink">마산</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/롯데자이언츠" title="wikilink">롯데</a></p></td>
+<td><p><a href="../Page/롯데_자이언츠.md" title="wikilink">롯데</a></p></td>
 <td><p>타자 : <a href="../Page/전준우.md" title="wikilink">전준우</a><br />
 중견수 플라이아웃</p></td>
 </tr>
@@ -965,7 +974,7 @@ NC 다이노스의 마스코트는 [단디](https://ko.wikipedia.org/wiki/단디
 <td><p><a href="../Page/2013년.md" title="wikilink">2013년</a> <a href="../Page/4월_2일.md" title="wikilink">4월 2일</a></p></td>
 <td><p><a href="../Page/이현곤.md" title="wikilink">이현곤</a>, <a href="../Page/모창민.md" title="wikilink">모창민</a></p></td>
 <td><p><a href="../Page/마산종합운동장_야구장.md" title="wikilink">마산</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/롯데자이언츠" title="wikilink">롯데</a></p></td>
+<td><p><a href="../Page/롯데_자이언츠.md" title="wikilink">롯데</a></p></td>
 <td><p>타자 : <a href="../Page/박종윤_(1982년).md" title="wikilink">박종윤</a></p></td>
 </tr>
 <tr class="odd">
@@ -973,7 +982,7 @@ NC 다이노스의 마스코트는 [단디](https://ko.wikipedia.org/wiki/단디
 <td><p><a href="../Page/2013년.md" title="wikilink">2013년</a> <a href="../Page/4월_3일.md" title="wikilink">4월 3일</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/허준_(1981년)" title="wikilink">허준</a></p></td>
 <td><p><a href="../Page/마산종합운동장_야구장.md" title="wikilink">마산</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/롯데자이언츠" title="wikilink">롯데</a></p></td>
+<td><p><a href="../Page/롯데_자이언츠.md" title="wikilink">롯데</a></p></td>
 <td><p>주자 : <a href="../Page/황재균.md" title="wikilink">황재균</a></p></td>
 </tr>
 <tr class="even">
@@ -981,7 +990,7 @@ NC 다이노스의 마스코트는 [단디](https://ko.wikipedia.org/wiki/단디
 <td><p><a href="../Page/2013년.md" title="wikilink">2013년</a> <a href="../Page/4월_2일.md" title="wikilink">4월 2일</a></p></td>
 <td><p><a href="../Page/김태군_(야구_선수).md" title="wikilink">김태군</a></p></td>
 <td><p><a href="../Page/마산종합운동장_야구장.md" title="wikilink">마산</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/롯데자이언츠" title="wikilink">롯데</a></p></td>
+<td><p><a href="../Page/롯데_자이언츠.md" title="wikilink">롯데</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -989,7 +998,7 @@ NC 다이노스의 마스코트는 [단디](https://ko.wikipedia.org/wiki/단디
 <td><p><a href="../Page/2016년.md" title="wikilink">2016년</a> <a href="../Page/5월_6일.md" title="wikilink">5월 6일</a></p></td>
 <td><p><a href="../Page/박석민.md" title="wikilink">박석민</a>, <a href="https://ko.wikipedia.org/wiki/박민우" title="wikilink">박민우</a>, <a href="../Page/에릭_테임즈.md" title="wikilink">테임즈</a></p></td>
 <td><p><a href="../Page/마산종합운동장_야구장.md" title="wikilink">마산</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/LG트윈스" title="wikilink">LG</a></p></td>
+<td><p><a href="../Page/LG_트윈스.md" title="wikilink">LG</a></p></td>
 <td><p>타자 : <a href="../Page/채은성.md" title="wikilink">채은성</a></p></td>
 </tr>
 </tbody>
@@ -997,24 +1006,25 @@ NC 다이노스의 마스코트는 [단디](https://ko.wikipedia.org/wiki/단디
 
 ### 각구장 최초 홈런 기록
 
-| 구장                                                                      | 성명                                                            | 상대투수                                                          | 날짜                                                                          | 비고                            |
-| ----------------------------------------------------------------------- | ------------------------------------------------------------- | ------------------------------------------------------------- | --------------------------------------------------------------------------- | ----------------------------- |
-| [마산야구장](../Page/마산종합운동장_야구장.md "wikilink")                              | [권희동](../Page/권희동.md "wikilink")                              | [여건욱](../Page/여건욱.md "wikilink")                              | [2013년](../Page/2013년.md "wikilink") [4월 13일](../Page/4월_13일.md "wikilink") | 3점홈런                          |
-| [잠실야구장](https://ko.wikipedia.org/wiki/잠실야구장 "wikilink")                 | [이호준](https://ko.wikipedia.org/wiki/이호준_\(야구_선수\) "wikilink") | [김상현](https://ko.wikipedia.org/wiki/김태영_\(1980년\) "wikilink") | [2013년](../Page/2013년.md "wikilink") [5월 12일](../Page/5월_12일.md "wikilink") | 3점홈런                          |
-| [문학야구장](../Page/문학야구장.md "wikilink")                                    | [조영훈](https://ko.wikipedia.org/wiki/조영훈_\(야구_선수\) "wikilink") | [백인식](https://ko.wikipedia.org/wiki/백인식 "wikilink")           | [2013년](../Page/2013년.md "wikilink") [5월 22일](../Page/5월_22일.md "wikilink") | 2점홈런                          |
-| [목동야구장](../Page/목동야구장.md "wikilink")                                    | [이호준](https://ko.wikipedia.org/wiki/이호준_\(야구_선수\) "wikilink") | [밴 헤켄](../Page/앤디_밴_헤켄.md "wikilink")                         | [2013년](../Page/2013년.md "wikilink") [4월 21일](../Page/4월_21일.md "wikilink") | 1점홈런                          |
-| [고척스카이돔](../Page/고척스카이돔.md "wikilink")                                  | [이호준](https://ko.wikipedia.org/wiki/이호준_\(야구_선수\) "wikilink") | [신재영](https://ko.wikipedia.org/wiki/신재영 "wikilink")           | [2016년](../Page/2016년.md "wikilink") [5월 17일](../Page/5월_17일.md "wikilink") | 1점홈런                          |
-| [수원 kt 위즈 파크](../Page/수원야구장.md "wikilink")                              | [이호준](https://ko.wikipedia.org/wiki/이호준_\(야구_선수\) "wikilink") | [박세웅](../Page/박세웅_\(1993년\).md "wikilink")                    | [2015년](../Page/2015년.md "wikilink") [5월 1일](../Page/5월_1일.md "wikilink")   | 1점홈런                          |
-| [한밭야구장](../Page/한밭종합운동장_야구장.md "wikilink")                              | [조영훈](https://ko.wikipedia.org/wiki/조영훈_\(야구_선수\) "wikilink") | [바티스타](../Page/데니_바티스타.md "wikilink")                         | [2013년](../Page/2013년.md "wikilink") [6월 2일](../Page/6월_2일.md "wikilink")   | 1점홈런                          |
-| [청주야구장](../Page/청주야구장.md "wikilink")                                    | [나성범](../Page/나성범.md "wikilink")                              | [조지훈](../Page/조지훈.md "wikilink")                              | [2013년](../Page/2013년.md "wikilink") [8월 14일](../Page/8월_14일.md "wikilink") | 2점홈런                          |
-| [광주-기아 챔피언스 필드](../Page/광주-기아_챔피언스_필드.md "wikilink")                    | [나성범](../Page/나성범.md "wikilink")                              | [임준섭](../Page/임준섭.md "wikilink")                              | [2014년](../Page/2014년.md "wikilink") [4월 2일](../Page/4월_2일.md "wikilink")   | 2점홈런                          |
-| [광주무등야구장](../Page/광주무등경기장_야구장.md "wikilink")                            | [권희동](../Page/권희동.md "wikilink")                              | [임준섭](../Page/임준섭.md "wikilink")                              | [2013년](../Page/2013년.md "wikilink") [6월 11일](../Page/6월_11일.md "wikilink") | 1점홈런                          |
-| [대구시민야구장](../Page/대구시민운동장_야구장.md "wikilink")                            | [조평호](https://ko.wikipedia.org/wiki/조평호 "wikilink")           | [장원삼](../Page/장원삼.md "wikilink")                              | [2013년](../Page/2013년.md "wikilink") [4월 5일](../Page/4월_5일.md "wikilink")   | 1점홈런 <small>(구단 1호홈런)</small> |
-| [대구 삼성 라이온즈 파크](https://ko.wikipedia.org/wiki/대구_삼성_라이온즈_파크 "wikilink") | [나성범](../Page/나성범.md "wikilink")                              | [윤성환](../Page/윤성환.md "wikilink")                              | [2016년](../Page/2016년.md "wikilink") [4월 12일](../Page/4월_12일.md "wikilink") | 1점홈런                          |
-| [포항야구장](../Page/포항야구장.md "wikilink")                                    | [나성범](../Page/나성범.md "wikilink")                              | [밴 덴 헐크](https://ko.wikipedia.org/wiki/릭_반덴허크 "wikilink")     | [2013년](../Page/2013년.md "wikilink") [9월 18일](../Page/9월_18일.md "wikilink") | 2점홈런                          |
-| [부산사직야구장](../Page/사직야구장.md "wikilink")                                  | [지석훈](../Page/지석훈.md "wikilink")                              | [김성배](../Page/김성배_\(야구_선수\).md "wikilink")                    | [2013년](../Page/2013년.md "wikilink") [5월 14일](../Page/5월_14일.md "wikilink") | 1점홈런                          |
-| [울산문수야구장](../Page/울산문수야구장.md "wikilink")                                | [조영훈](https://ko.wikipedia.org/wiki/조영훈_\(야구_선수\) "wikilink") | [심수창](../Page/심수창.md "wikilink")                              | [2015년](../Page/2015년.md "wikilink") [7월 23일](../Page/7월_23일.md "wikilink") | 만루홈런                          |
-| 창원엔씨파크                                                                  | 베탄코트                                                          | 맥과이어                                                          | 2019년 3월 23일                                                                | 3점홈런                          |
+| 구장                                                   | 성명                                                            | 상대투수                                                          | 날짜                                                                          | 비고                            |
+| ---------------------------------------------------- | ------------------------------------------------------------- | ------------------------------------------------------------- | --------------------------------------------------------------------------- | ----------------------------- |
+| [마산종합운동장 야구장](../Page/마산종합운동장_야구장.md "wikilink")     | [권희동](../Page/권희동.md "wikilink")                              | [여건욱](../Page/여건욱.md "wikilink")                              | [2013년](../Page/2013년.md "wikilink") [4월 13일](../Page/4월_13일.md "wikilink") | 3점홈런                          |
+| [서울종합운동장 야구장](../Page/서울종합운동장_야구장.md "wikilink")     | [이호준](https://ko.wikipedia.org/wiki/이호준_\(야구_선수\) "wikilink") | [김상현](https://ko.wikipedia.org/wiki/김태영_\(1980년\) "wikilink") | [2013년](../Page/2013년.md "wikilink") [5월 12일](../Page/5월_12일.md "wikilink") | 3점홈런                          |
+| [문학야구장](../Page/문학야구장.md "wikilink")                 | [조영훈](https://ko.wikipedia.org/wiki/조영훈_\(야구_선수\) "wikilink") | [백인식](https://ko.wikipedia.org/wiki/백인식 "wikilink")           | [2013년](../Page/2013년.md "wikilink") [5월 22일](../Page/5월_22일.md "wikilink") | 2점홈런                          |
+| [목동야구장](../Page/목동야구장.md "wikilink")                 | [이호준](https://ko.wikipedia.org/wiki/이호준_\(야구_선수\) "wikilink") | [밴 헤켄](../Page/앤디_밴_헤켄.md "wikilink")                         | [2013년](../Page/2013년.md "wikilink") [4월 21일](../Page/4월_21일.md "wikilink") | 1점홈런                          |
+| [고척스카이돔](../Page/고척스카이돔.md "wikilink")               | [이호준](https://ko.wikipedia.org/wiki/이호준_\(야구_선수\) "wikilink") | [신재영](https://ko.wikipedia.org/wiki/신재영 "wikilink")           | [2016년](../Page/2016년.md "wikilink") [5월 17일](../Page/5월_17일.md "wikilink") | 1점홈런                          |
+| [수원야구장](../Page/수원야구장.md "wikilink")                 | [이호준](https://ko.wikipedia.org/wiki/이호준_\(야구_선수\) "wikilink") | [박세웅](../Page/박세웅_\(1993년\).md "wikilink")                    | [2015년](../Page/2015년.md "wikilink") [5월 1일](../Page/5월_1일.md "wikilink")   | 1점홈런                          |
+| [한밭종합운동장 야구장](../Page/한밭종합운동장_야구장.md "wikilink")     | [조영훈](https://ko.wikipedia.org/wiki/조영훈_\(야구_선수\) "wikilink") | [바티스타](../Page/데니_바티스타.md "wikilink")                         | [2013년](../Page/2013년.md "wikilink") [6월 2일](../Page/6월_2일.md "wikilink")   | 1점홈런                          |
+| [청주야구장](../Page/청주야구장.md "wikilink")                 | [나성범](../Page/나성범.md "wikilink")                              | [조지훈](../Page/조지훈.md "wikilink")                              | [2013년](../Page/2013년.md "wikilink") [8월 14일](../Page/8월_14일.md "wikilink") | 2점홈런                          |
+| [광주-기아 챔피언스 필드](../Page/광주-기아_챔피언스_필드.md "wikilink") | [나성범](../Page/나성범.md "wikilink")                              | [임준섭](../Page/임준섭.md "wikilink")                              | [2014년](../Page/2014년.md "wikilink") [4월 2일](../Page/4월_2일.md "wikilink")   | 2점홈런                          |
+| [광주무등경기장 야구장](../Page/광주무등경기장_야구장.md "wikilink")     | [권희동](../Page/권희동.md "wikilink")                              | [임준섭](../Page/임준섭.md "wikilink")                              | [2013년](../Page/2013년.md "wikilink") [6월 11일](../Page/6월_11일.md "wikilink") | 1점홈런                          |
+| [대구시민운동장 야구장](../Page/대구시민운동장_야구장.md "wikilink")     | [조평호](https://ko.wikipedia.org/wiki/조평호 "wikilink")           | [장원삼](../Page/장원삼.md "wikilink")                              | [2013년](../Page/2013년.md "wikilink") [4월 5일](../Page/4월_5일.md "wikilink")   | 1점홈런 <small>(구단 1호홈런)</small> |
+| [대구삼성라이온즈파크](../Page/대구삼성라이온즈파크.md "wikilink")       | [나성범](../Page/나성범.md "wikilink")                              | [윤성환](../Page/윤성환.md "wikilink")                              | [2016년](../Page/2016년.md "wikilink") [4월 12일](../Page/4월_12일.md "wikilink") | 1점홈런                          |
+| [포항야구장](../Page/포항야구장.md "wikilink")                 | [나성범](../Page/나성범.md "wikilink")                              | [밴 덴 헐크](https://ko.wikipedia.org/wiki/릭_반덴허크 "wikilink")     | [2013년](../Page/2013년.md "wikilink") [9월 18일](../Page/9월_18일.md "wikilink") | 2점홈런                          |
+| [사직야구장](../Page/사직야구장.md "wikilink")                 | [지석훈](../Page/지석훈.md "wikilink")                              | [김성배](../Page/김성배_\(야구_선수\).md "wikilink")                    | [2013년](../Page/2013년.md "wikilink") [5월 14일](../Page/5월_14일.md "wikilink") | 1점홈런                          |
+| [울산문수야구장](../Page/울산문수야구장.md "wikilink")             | [조영훈](https://ko.wikipedia.org/wiki/조영훈_\(야구_선수\) "wikilink") | [심수창](../Page/심수창.md "wikilink")                              | [2015년](../Page/2015년.md "wikilink") [7월 23일](../Page/7월_23일.md "wikilink") | 만루홈런                          |
+| [창원NC파크](../Page/창원NC파크.md "wikilink")               | [베탄코트](../Page/크리스티안_베탕코우르트.md "wikilink")                    | [맥과이어](../Page/덱_맥과이어.md "wikilink")                          | [2019년](../Page/2019년.md "wikilink") [3월 23일](../Page/3월_23일.md "wikilink") | 3점홈런                          |
+|                                                      |                                                               |                                                               |                                                                             |                               |
 
 ### 각구장 최초 피홈런 기록
 
@@ -1038,7 +1048,7 @@ NC 다이노스의 마스코트는 [단디](https://ko.wikipedia.org/wiki/단디
 창단 첫 피홈런</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/잠실야구장" title="wikilink">잠실야구장</a></p></td>
+<td><p><a href="../Page/서울종합운동장_야구장.md" title="wikilink">서울종합운동장 야구장</a></p></td>
 <td><p><a href="../Page/김진성.md" title="wikilink">김진성</a></p></td>
 <td><p><a href="../Page/홍성흔.md" title="wikilink">홍성흔</a></p></td>
 <td><p><a href="../Page/2013년.md" title="wikilink">2013년</a> <a href="../Page/5월_11일.md" title="wikilink">5월 11일</a></p></td>
@@ -1066,14 +1076,14 @@ NC 다이노스의 마스코트는 [단디](https://ko.wikipedia.org/wiki/단디
 <td><p>3점홈런</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/수원야구장.md" title="wikilink">수원 kt 위즈 파크</a></p></td>
+<td><p><a href="../Page/수원야구장.md" title="wikilink">수원야구장</a></p></td>
 <td><p><a href="../Page/에릭_해커.md" title="wikilink">해커</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/김상현" title="wikilink">김상현</a></p></td>
 <td><p><a href="../Page/2015년.md" title="wikilink">2015년</a> <a href="../Page/5월_1일.md" title="wikilink">5월 1일</a></p></td>
 <td><p>1점홈런</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/한밭종합운동장_야구장.md" title="wikilink">한밭야구장</a></p></td>
+<td><p><a href="../Page/한밭종합운동장_야구장.md" title="wikilink">한밭종합운동장 야구장</a></p></td>
 <td><p><a href="../Page/에릭_해커.md" title="wikilink">에릭</a></p></td>
 <td><p><a href="../Page/김태균_(1982년).md" title="wikilink">김태균</a></p></td>
 <td><p><a href="../Page/2013년.md" title="wikilink">2013년</a> <a href="../Page/4월_16일.md" title="wikilink">4월 16일</a></p></td>
@@ -1094,21 +1104,21 @@ NC 다이노스의 마스코트는 [단디](https://ko.wikipedia.org/wiki/단디
 <td><p>2점홈런/외국인타자홈런</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/광주무등경기장_야구장.md" title="wikilink">광주무등야구장</a></p></td>
+<td><p><a href="../Page/광주무등경기장_야구장.md" title="wikilink">광주무등경기장 야구장</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/아담_윌크" title="wikilink">아담</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/김선빈" title="wikilink">김선빈</a></p></td>
 <td><p><a href="../Page/2013년.md" title="wikilink">2013년</a> <a href="../Page/5월_25일.md" title="wikilink">5월 25일</a></p></td>
 <td><p>솔로홈런/그라운드홈런</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/대구시민운동장_야구장.md" title="wikilink">대구시민야구장</a></p></td>
+<td><p><a href="../Page/대구시민운동장_야구장.md" title="wikilink">대구시민운동장 야구장</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/이성민" title="wikilink">이성민</a></p></td>
 <td><p><a href="../Page/조동찬.md" title="wikilink">조동찬</a></p></td>
 <td><p><a href="../Page/2013년.md" title="wikilink">2013년</a> <a href="../Page/4월_5일.md" title="wikilink">4월 5일</a></p></td>
 <td><p>솔로홈런</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/대구_삼성_라이온즈_파크" title="wikilink">대구 삼성 라이온즈 파크</a></p></td>
+<td><p><a href="../Page/대구삼성라이온즈파크.md" title="wikilink">대구삼성라이온즈파크</a></p></td>
 <td><p><a href="../Page/이민호_(1993년_8월).md" title="wikilink">이민호</a></p></td>
 <td><p><a href="../Page/배영섭.md" title="wikilink">배영섭</a></p></td>
 <td><p><a href="../Page/2016년.md" title="wikilink">2016년</a> <a href="../Page/4월_12일.md" title="wikilink">4월 12일</a></p></td>
@@ -1122,7 +1132,7 @@ NC 다이노스의 마스코트는 [단디](https://ko.wikipedia.org/wiki/단디
 <td><p>솔로홈런</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/사직야구장.md" title="wikilink">부산사직야구장</a></p></td>
+<td><p><a href="../Page/사직야구장.md" title="wikilink">사직야구장</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/아담_윌크" title="wikilink">아담</a></p></td>
 <td><p><a href="../Page/전준우.md" title="wikilink">전준우</a></p></td>
 <td><p><a href="../Page/2013년.md" title="wikilink">2013년</a> <a href="../Page/5월_14일.md" title="wikilink">5월 14일</a></p></td>
@@ -2021,25 +2031,25 @@ NC 다이노스의 공식 응원단은 [랠리 다이노스로](https://ko.wikip
 
 <!-- end list -->
 
-  - [8월 24일부터](../Page/8월_24일.md "wikilink") ‘8시 할인 입장권 제도’를 시행했다. 이 제도는 주중(화\~금) [창원](https://ko.wikipedia.org/wiki/창원 "wikilink") [마산야구장](https://ko.wikipedia.org/wiki/마산야구장 "wikilink")에서 열리는 홈 경기 당일 입장권을 오후 8시 이후 정상가의 50% 가격으로 남은 좌석을 구입하는 제도로 경기 당일 남아있는 좌석만 현장 판매로 구입할 수 있다.\[55\]
+  - [8월 24일부터](../Page/8월_24일.md "wikilink")‘8시 할인 입장권 제도’를 시행했다. 이 제도는 주중(화\~금) [마산종합운동장 야구장에서](../Page/마산종합운동장_야구장.md "wikilink") 열리는 홈경기 당일 입장권을 오후 8시 이후 정상가의 50% 가격으로 남은 좌석을 구입하는 제도로 경기 당일 남아있는 좌석만 현장 판매로 구입할 수 있다.\[55\]
 
 ### 2016년
 
-  - [1월 24일](../Page/1월_24일.md "wikilink") [고성공룡엑스포조직위](https://ko.wikipedia.org/wiki/고성공룡엑스포조직위 "wikilink")와 [2016경남고성공룡세계엑스포](https://ko.wikipedia.org/wiki/2016경남고성공룡세계엑스포 "wikilink") 홍보를 위해 공동 홍보·마케팅 협약을 체결했다. 이번 협약을 통해 고성공룡엑스포 행사장 내 NC 다이노스 홍보 부스 제공 등 NC 다이노스를 홍보하고, NC 다이노스는 [마산야구장](https://ko.wikipedia.org/wiki/마산야구장 "wikilink") 내 [고성공룡엑스포](https://ko.wikipedia.org/wiki/고성공룡엑스포 "wikilink") 홍보 공간을 제공하고, 스타선수 홍보대사 임명 등 [고성엑스포](https://ko.wikipedia.org/wiki/고성엑스포 "wikilink") 성공을 위한 홍보 활동을 전개한다.\[56\]
+  - [1월 24일](../Page/1월_24일.md "wikilink") [고성공룡엑스포조직위](https://ko.wikipedia.org/wiki/고성공룡엑스포조직위 "wikilink")와 [2016경남고성공룡세계엑스포](https://ko.wikipedia.org/wiki/2016경남고성공룡세계엑스포 "wikilink") 홍보를 위해 공동 홍보·마케팅 협약을 체결했다. 이번 협약을 통해 고성공룡엑스포 행사장 내 NC 다이노스 홍보 부스 제공 등 NC 다이노스를 홍보하고, NC 다이노스는 [마산종합운동장 야구장](../Page/마산종합운동장_야구장.md "wikilink") 내 [고성공룡엑스포](https://ko.wikipedia.org/wiki/고성공룡엑스포 "wikilink") 홍보 공간을 제공하고, 스타선수 홍보대사 임명 등 [고성엑스포](https://ko.wikipedia.org/wiki/고성엑스포 "wikilink") 성공을 위한 홍보 활동을 전개한다.\[56\]
 
 <!-- end list -->
 
-  - [4월 2일](../Page/4월_2일.md "wikilink") [마산야구장](https://ko.wikipedia.org/wiki/마산야구장 "wikilink")에서 열린 KIA 타이거즈와의 경기 전 뽀로로를 새 마스코트로 영입했다. 아이코닉스와 NC는 앞으로 뽀로로를 활용한 콜라보레이션 상품을 만드는 등 적극적으로 협력할 예정이다.\[57\]
+  - [4월 2일](../Page/4월_2일.md "wikilink") [마산종합운동장 야구장에서](../Page/마산종합운동장_야구장.md "wikilink") 열린 KIA 타이거즈와의 경기 전 뽀로로를 새 마스코트로 영입했다. 아이코닉스와 NC는 앞으로 뽀로로를 활용한 콜라보레이션 상품을 만드는 등 적극적으로 협력할 예정이다.\[57\]
 
 <!-- end list -->
 
-  - [5월 17일](../Page/5월_17일.md "wikilink") 목동야구장에서 열린 제70회 황금사자기 전국고교야구대회 결승전인 용마고등학교와 [덕수고등학교](../Page/덕수고등학교.md "wikilink")와의 경기에 응원단장을 파견해 연고지역 밀착 마케팅을 펼쳤다. 또한, 그라운드 키퍼들이 이닝 교대 시간을 이용해 내야 흙을 정리하다가 걸그룹 [I.O.I](https://ko.wikipedia.org/wiki/I.O.I "wikilink")의 ‘[픽미](https://ko.wikipedia.org/wiki/픽미 "wikilink")’에 맞춰 춤을 추고, 내야 전체를 덮는 대형 방수포로 비 오는 날에도 볼거리를 제공했다.\[58\]
+  - [5월 17일](../Page/5월_17일.md "wikilink") [목동야구장](../Page/목동야구장.md "wikilink")에서 열린 제70회 황금사자기 전국고교야구대회 결승전인 용마고등학교와 [덕수고등학교](../Page/덕수고등학교.md "wikilink")와의 경기에 응원단장을 파견해 연고지역 밀착 마케팅을 펼쳤다. 또한, 그라운드 키퍼들이 이닝 교대 시간을 이용해 내야 흙을 정리하다가 걸그룹 [I.O.I](https://ko.wikipedia.org/wiki/I.O.I "wikilink")의 ‘[픽미](https://ko.wikipedia.org/wiki/픽미 "wikilink")’에 맞춰 춤을 추고, 내야 전체를 덮는 대형 방수포로 비 오는 날에도 볼거리를 제공했다.\[58\]
 
 ## 사회공헌 활동
 
 ### 2013년
 
-  - [11월 13일](../Page/11월_13일.md "wikilink") [NH 농협은행](https://ko.wikipedia.org/wiki/농업협동조합 "wikilink") 홈런존 운영을 통해 적립된 550만원을 경남다문화가족지원센터에 전달하였다. 적립금은 2013 시즌 [마산야구장](https://ko.wikipedia.org/wiki/마산야구장 "wikilink")내 ‘NH농협 홈런존’을 통해 NC 다이노스 선수가 홈런을 기록할 때 마다 50만원을 적립되었으며 총 11개 중 [나성범](../Page/나성범.md "wikilink")이 7개를 기록하였다.\[59\]
+  - [11월 13일](../Page/11월_13일.md "wikilink") [NH 농협은행](https://ko.wikipedia.org/wiki/농업협동조합 "wikilink") 홈런존 운영을 통해 적립된 550만원을 경남다문화가족지원센터에 전달하였다. 적립금은 2013 시즌 [마산종합운동장 야구장내](../Page/마산종합운동장_야구장.md "wikilink") ‘NH농협 홈런존’을 통해 NC 다이노스 선수가 홈런을 기록할 때 마다 50만원을 적립되었으며 총 11개 중 [나성범](../Page/나성범.md "wikilink")이 7개를 기록하였다.\[59\]
   - 11월 17일 [네네치킨](https://ko.wikipedia.org/wiki/네네치킨 "wikilink")과 '사랑의 온도계' 캠페인을 통해 적립된 치킨 400마리를 경남아동보호전문기관과 동보원에 전달하였다. 치킨은 NC 다이노스 선수들이 마산구장에서 홈런을 한 개 칠 때마다 10마리씩을 적립하여 마련되었다.\[60\]
   - 11월 22일 [NH 농협은행을](https://ko.wikipedia.org/wiki/농업협동조합 "wikilink") 통해 적립된 650만원을 경상남도 [창원시](../Page/창원시.md "wikilink")에 위치한 동진노인복지센터에 전달하였다. 적립금은 NC 다이노스 선수들이 홈에서 세이브를 할 때마다 50만원씩 적립되어 [이민호](../Page/이민호_\(1993년_8월\).md "wikilink") 6개, [임창민](../Page/임창민.md "wikilink") 2개, [손민한](../Page/손민한.md "wikilink") 3개등 총 13세이브를 기록하여 650만원이 적립되었다.\[61\]
   - 11월 27일부터 11월 29일까지 NC 다이노스 선수들이 직접 학교를 방문하여 학생들에게 티볼, 야구를 가르쳐주는 재능 기부 행사인 '주니어 다이노스 스쿨 in 경남'을 개최하였다. 11월 27일에 밀양 예림초등학교, 양산 중부초등학교, 창녕 동포초등학교를 11월 28일에 김해 경운초등학교, 남해 [삼동초등학교](https://ko.wikipedia.org/wiki/삼동초등학교 "wikilink"), 하동 [궁항초등학교](https://ko.wikipedia.org/wiki/궁항초등학교 "wikilink"), 하동 [악양초등학교](../Page/악양초등학교.md "wikilink")를 [11월 29일에](../Page/11월_29일.md "wikilink") 의령 [의령초등학교](../Page/의령초등학교.md "wikilink"), 진주 [배영초등학교](https://ko.wikipedia.org/wiki/배영초등학교 "wikilink"), 진주 [반성초등학교](../Page/반성초등학교.md "wikilink"), 합천 [대병초등학교](https://ko.wikipedia.org/wiki/대병초등학교 "wikilink")를 방문하였다.\[62\]
@@ -2059,7 +2069,7 @@ NC 다이노스의 공식 응원단은 [랠리 다이노스로](https://ko.wikip
 
 ### 2014년
 
-  - [2월 25일부터](../Page/2월_25일.md "wikilink") [3월 1일까지](../Page/3월_1일.md "wikilink") [거제시](https://ko.wikipedia.org/wiki/거제시 "wikilink") 하청야구장과 [마산야구장](https://ko.wikipedia.org/wiki/마산야구장 "wikilink")에서 '2014 주니어 다이노스 스프링 챔피언십'이 열렸다. 이번 대회에서부터 [울산광역시](https://ko.wikipedia.org/wiki/울산광역시 "wikilink")와 전라북도의 야구팀이 처음으로 참가하였으며, 초등학교 9개팀, 중학교 11개팀, 리틀야구단 13개팀 등 33개 팀이 참가하였다.\[67\] 초등부에서는 전북신풍초등학교와 [마산양덕초등학교](https://ko.wikipedia.org/wiki/마산양덕초등학교 "wikilink")가 공동 우승하였다.
+  - [2월 25일부터](../Page/2월_25일.md "wikilink") [3월 1일까지](../Page/3월_1일.md "wikilink") [거제시](https://ko.wikipedia.org/wiki/거제시 "wikilink") 하청야구장과 [마산종합운동장 야구장에서](../Page/마산종합운동장_야구장.md "wikilink") '2014 주니어 다이노스 스프링 챔피언십'이 열렸다. 이번 대회에서부터 [울산광역시](https://ko.wikipedia.org/wiki/울산광역시 "wikilink")와 전라북도의 야구팀이 처음으로 참가하였으며, 초등학교 9개팀, 중학교 11개팀, 리틀야구단 13개팀 등 33개 팀이 참가하였다.\[67\] 초등부에서는 전북신풍초등학교와 [마산양덕초등학교](https://ko.wikipedia.org/wiki/마산양덕초등학교 "wikilink")가 공동 우승하였다.
 
 <!-- end list -->
 
@@ -2071,7 +2081,7 @@ NC 다이노스의 공식 응원단은 [랠리 다이노스로](https://ko.wikip
 
 <!-- end list -->
 
-  - 5월 20일 마산야구장에서 열린 [SK 와이번스와의](../Page/SK_와이번스.md "wikilink") 3연전에서 마산야구 100주년 기념행사를 진행하였다. 이 행사에서 지역 야구원로, 초,중,고,대학교 지역 야구팀, [창신고등학교](../Page/창신고등학교.md "wikilink") 재학생 전원이 행사에 함께 하였으며\[70\], 경기 시작 전 관중 5,000명에게 마산 야구 100주년 기념 패치를 나누어주었다. 지역 야구 원로 김성길, 윤병찬씨는 지역 초,중,고 야구팀 주장 및 NC 다이노스 주장 [이호준의](https://ko.wikipedia.org/wiki/이호준_\(야구_선수\) "wikilink") 유니폼에 100주년 기념 패치를 달아주었다. 용마고등학교 투수 [김민우가](https://ko.wikipedia.org/wiki/김민우_\(1996년\) "wikilink") 시구를 하였으며, 포수 [나종덕](../Page/나종덕.md "wikilink")이 시타를 하였다.\[71\]
+  - [5월 20일](../Page/5월_20일.md "wikilink") [마산종합운동장 야구장에서](../Page/마산종합운동장_야구장.md "wikilink") 열린 [SK 와이번스와의](../Page/SK_와이번스.md "wikilink") 3연전에서 마산야구 100주년 기념행사를 진행하였다. 이 행사에서 지역 야구원로, 초,중,고,대학교 지역 야구팀, [창신고등학교](../Page/창신고등학교.md "wikilink") 재학생 전원이 행사에 함께 하였으며\[70\], 경기 시작 전 관중 5,000명에게 마산 야구 100주년 기념 패치를 나누어주었다. 지역 야구 원로 김성길, 윤병찬씨는 지역 초,중,고 야구팀 주장 및 NC 다이노스 주장 [이호준의](https://ko.wikipedia.org/wiki/이호준_\(야구_선수\) "wikilink") 유니폼에 100주년 기념 패치를 달아주었다. 용마고등학교 투수 [김민우가](https://ko.wikipedia.org/wiki/김민우_\(1996년\) "wikilink") 시구를 하였으며, 포수 [나종덕](../Page/나종덕.md "wikilink")이 시타를 하였다.\[71\]
 
 <!-- end list -->
 
@@ -2079,7 +2089,7 @@ NC 다이노스의 공식 응원단은 [랠리 다이노스로](https://ko.wikip
 
 <!-- end list -->
 
-  - [11월 7일부터](../Page/11월_7일.md "wikilink") [11월 10일까지](../Page/11월_10일.md "wikilink") 2014 주니어 다이노스 윈터 파이널 고교야구대회를 [군산 월명 야구장에서](https://ko.wikipedia.org/wiki/군산월명종합운동장_야구장 "wikilink") 개최하였다. 결승전에서 [용마고등학교](https://ko.wikipedia.org/wiki/용마고등학교 "wikilink")가 [군산상업고등학교](../Page/군산상업고등학교.md "wikilink")에 12-6으로 승리하면서 우승하였고, 최우수선수인 '참프레 MVP'에는 [용마고등학교](https://ko.wikipedia.org/wiki/용마고등학교 "wikilink") 3루수 [김성현](https://ko.wikipedia.org/wiki/김성현 "wikilink")이 선정되었다.\[73\]
+  - [11월 7일부터](../Page/11월_7일.md "wikilink") [11월 10일까지](../Page/11월_10일.md "wikilink") 2014 주니어 다이노스 윈터 파이널 고교야구대회를 [월명종합경기장 야구장에서](../Page/월명종합경기장_야구장.md "wikilink") 개최하였다. 결승전에서 [용마고등학교](https://ko.wikipedia.org/wiki/용마고등학교 "wikilink")가 [군산상업고등학교](../Page/군산상업고등학교.md "wikilink")에 12-6으로 승리하면서 우승하였고, 최우수선수인 '참프레 MVP'에는 [용마고등학교](https://ko.wikipedia.org/wiki/용마고등학교 "wikilink") 3루수 [김성현](https://ko.wikipedia.org/wiki/김성현 "wikilink")이 선정되었다.\[73\]
 
 <!-- end list -->
 
@@ -2099,11 +2109,11 @@ NC 다이노스의 공식 응원단은 [랠리 다이노스로](https://ko.wikip
 
 <!-- end list -->
 
-  - 11월 27일, 11월 28일 이틀 동안 '애프터스쿨 in 경남 2014 행사'를 진행하였다. 행사에서는 '멘토링 교실'과 '치어리딩 교실', 'T볼 교실' 세 가지 주제로 진행되었다. 박종훈 육성이사, 김진성, [김태군](https://ko.wikipedia.org/wiki/김태군 "wikilink")은 함안초등학교와 양산신명초등학교를 방문하여 '다이노스가 전하는 꿈'이라는 주제로 멘토링 교실이 진행하였다. [권희동](../Page/권희동.md "wikilink")과 [이상호](../Page/이상호.md "wikilink")는 진주반성초등학교와 [남해남명초등학교](https://ko.wikipedia.org/wiki/남해남명초등학교 "wikilink")에서 치어리딩 교실을 진행하였고, [이민호와](../Page/이민호_\(1993년_8월\).md "wikilink") [김성욱](https://ko.wikipedia.org/wiki/김성욱 "wikilink")은 [경남혜림학교](https://ko.wikipedia.org/wiki/경남혜림학교 "wikilink")와 [창녕성산초등학교](../Page/창녕성산초등학교.md "wikilink")를 방문해 T볼을 지도하였다.\[77\]
+  - 11월 27일, 11월 28일 이틀 동안 '애프터스쿨 in 경남 2014 행사'를 진행하였다. 행사에서는 '멘토링 교실'과 '치어리딩 교실', 'T볼 교실' 세 가지 주제로 진행되었다. 박종훈 육성이사, 김진성, [김태군](https://ko.wikipedia.org/wiki/김태군 "wikilink")은 함안초등학교와 양산신명초등학교를 방문하여 '다이노스가 전하는 꿈'이라는 주제로 멘토링 교실이 진행하였다. [권희동](../Page/권희동.md "wikilink")과 [이상호](../Page/이상호.md "wikilink")는 진주반성초등학교와 [남해남명초등학교](https://ko.wikipedia.org/wiki/남해남명초등학교 "wikilink")에서 치어리딩 교실을 진행하였고, [이민호와](../Page/이민호_\(1993년_8월\).md "wikilink") [김성욱은](../Page/김성욱_\(야구_선수\).md "wikilink") [경남혜림학교](https://ko.wikipedia.org/wiki/경남혜림학교 "wikilink")와 [창녕성산초등학교](../Page/창녕성산초등학교.md "wikilink")를 방문해 T볼을 지도하였다.\[77\]
 
 <!-- end list -->
 
-  - [11월 28일](../Page/11월_28일.md "wikilink") [마산야구장](https://ko.wikipedia.org/wiki/마산야구장 "wikilink")에서 연고지역 내 야구 유소년을 대상으로 NC 다이노스 선수들이 야구 기본기 및 트레이닝 교육을 하는 '2014 주니어 다이노스 폴 페스티벌'을 실시하였다.\[78\]
+  - [11월 28일](../Page/11월_28일.md "wikilink") [마산종합운동장 야구장에서](../Page/마산종합운동장_야구장.md "wikilink") 연고지역 내 야구 유소년을 대상으로 NC 다이노스 선수들이 야구 기본기 및 트레이닝 교육을 하는 '2014 주니어 다이노스 폴 페스티벌'을 실시하였다.\[78\]
 
 ### 2015년
 
@@ -2111,11 +2121,11 @@ NC 다이노스의 공식 응원단은 [랠리 다이노스로](https://ko.wikip
 
 <!-- end list -->
 
-  - [3월 15일](../Page/3월_15일.md "wikilink") [마산 야구장에서](https://ko.wikipedia.org/wiki/마산_야구장 "wikilink") [한화 이글스와의](../Page/한화_이글스.md "wikilink") 시범경기 전에 [3.15 마산의거를](https://ko.wikipedia.org/wiki/3·15_마산시위 "wikilink") 기념식을 진행했다. 기념영상을 상영하고 [양덕초등학교](https://ko.wikipedia.org/wiki/양덕초등학교 "wikilink") 야구부 학생 두 명이 3번, 15번이 붙은 유니폼을 입고 애국가를 제창했다.\[81\]
+  - [3월 15일](../Page/3월_15일.md "wikilink") [마산종합운동장 야구장에서](../Page/마산종합운동장_야구장.md "wikilink") [한화 이글스와의](../Page/한화_이글스.md "wikilink") 시범경기 전에 [3.15 마산의거를](https://ko.wikipedia.org/wiki/3·15_마산시위 "wikilink") 기념식을 진행했다. 기념영상을 상영하고 [양덕초등학교](https://ko.wikipedia.org/wiki/양덕초등학교 "wikilink") 야구부 학생 두 명이 3번, 15번이 붙은 유니폼을 입고 애국가를 제창했다.\[81\]
 
 <!-- end list -->
 
-  - [4월 26일](../Page/4월_26일.md "wikilink") [마산 야구장에서](https://ko.wikipedia.org/wiki/마산_야구장 "wikilink") 열린 LG 트윈스와의 경기 전에 ‘이충무공탄신 470주년’ 기념 행사를 진행했다. [해군작전사령부](https://ko.wikipedia.org/wiki/해군작전사령부 "wikilink") 소속 [충무공이순신함](https://ko.wikipedia.org/wiki/충무공이순신함 "wikilink") 장병들이 초청되었으며, [해군](../Page/해군.md "wikilink") 군악∙의장대의 축하공연과 애국가 연주가 진행됐다\[82\]
+  - [4월 26일](../Page/4월_26일.md "wikilink") [마산종합운동장 야구장에서](../Page/마산종합운동장_야구장.md "wikilink") 열린 [LG 트윈스와의](../Page/LG_트윈스.md "wikilink") 경기 전에 ‘이충무공탄신 470주년’ 기념 행사를 진행했다. [해군작전사령부](https://ko.wikipedia.org/wiki/해군작전사령부 "wikilink") 소속 [충무공이순신함](https://ko.wikipedia.org/wiki/충무공이순신함 "wikilink") 장병들이 초청되었으며, [해군](../Page/해군.md "wikilink") 군악∙의장대의 축하공연과 애국가 연주가 진행됐다\[82\]
 
 <!-- end list -->
 
@@ -2123,7 +2133,7 @@ NC 다이노스의 공식 응원단은 [랠리 다이노스로](https://ko.wikip
 
 <!-- end list -->
 
-  - [7월 26일](../Page/7월_26일.md "wikilink") [마산야구장](https://ko.wikipedia.org/wiki/마산야구장 "wikilink")에서 열린 두산 베어스와의 경기에 미국 캘리포니아 주 로스엔젤레스의 한인유소년 야구팀 선수단을 초청했다. 선수단은 경기 전에 [김경문](../Page/김경문.md "wikilink") 감독과 [테임즈를](../Page/에릭_테임즈.md "wikilink") 만났고, 야구모자, 선수용 배팅 장갑 등 장비를 전달했다. 또한, 선수단 주장 [데릭 유가](https://ko.wikipedia.org/wiki/데릭_유 "wikilink") 시구를, 단장 오춘삼이 시타를 맡았다.\[84\]
+  - [7월 26일](../Page/7월_26일.md "wikilink") [마산종합운동장 야구장에서](../Page/마산종합운동장_야구장.md "wikilink") 열린 [두산 베어스와의](../Page/두산_베어스.md "wikilink") 경기에 미국 캘리포니아 주 로스엔젤레스의 한인유소년 야구팀 선수단을 초청했다. 선수단은 경기 전에 [김경문](../Page/김경문.md "wikilink") 감독과 [테임즈를](../Page/에릭_테임즈.md "wikilink") 만났고, 야구모자, 선수용 배팅 장갑 등 장비를 전달했다. 또한, 선수단 주장 [데릭 유가](https://ko.wikipedia.org/wiki/데릭_유 "wikilink") 시구를, 단장 오춘삼이 시타를 맡았다.\[84\]
 
 <!-- end list -->
 
@@ -2131,15 +2141,15 @@ NC 다이노스의 공식 응원단은 [랠리 다이노스로](https://ko.wikip
 
 <!-- end list -->
 
-  - [11월 2일부터](../Page/11월_2일.md "wikilink") [11월 6일까지](../Page/11월_6일.md "wikilink") '2015 주니어 다이노스 윈터파이널 고교야구대회'를 [마산야구장](https://ko.wikipedia.org/wiki/마산야구장 "wikilink")에서 개최했다. [11월 6일](../Page/11월_6일.md "wikilink") 열린 결승전에서 [용마고등학교](https://ko.wikipedia.org/wiki/용마고등학교 "wikilink")가 [마산고등학교](../Page/마산고등학교.md "wikilink")를 8-1로 이기고 우승했다. NC 다이노스는 지역연고 고교팀 7개, 중학교팀 11개, 초등학교팀 9개 팀에 야구공과 용품 등을 전달했다.\[86\]
+  - [11월 2일부터](../Page/11월_2일.md "wikilink") [11월 6일까지](../Page/11월_6일.md "wikilink") '2015 주니어 다이노스 윈터파이널 고교야구대회'를 [마산종합운동장 야구장에서](../Page/마산종합운동장_야구장.md "wikilink") 개최했다. [11월 6일](../Page/11월_6일.md "wikilink") 열린 결승전에서 [용마고등학교](https://ko.wikipedia.org/wiki/용마고등학교 "wikilink")가 [마산고등학교](../Page/마산고등학교.md "wikilink")를 8-1로 이기고 우승했다. NC 다이노스는 지역연고 고교팀 7개, 중학교팀 11개, 초등학교팀 9개 팀에 야구공과 용품 등을 전달했다.\[86\]
 
 <!-- end list -->
 
-  - [국가인권위원회](https://ko.wikipedia.org/wiki/국가인권위원회 "wikilink")와 공동으로 [9월 15일](../Page/9월_15일.md "wikilink") 오후 [창원시](../Page/창원시.md "wikilink") [마산야구장](https://ko.wikipedia.org/wiki/마산야구장 "wikilink")에서 [kt 위즈와의](https://ko.wikipedia.org/wiki/kt_위즈 "wikilink") 경기 전에 인권캠페인을 실시했다. 시구와 시타는 다문화 가정의 학생이 했고, 경기장 밖에서는 인권 롤렛 퀴즈대회, 캐리커처 그리기 등 다양한 인권관련 부대행사가 열렸다.\[87\]
+  - [국가인권위원회](https://ko.wikipedia.org/wiki/국가인권위원회 "wikilink")와 공동으로 [9월 15일](../Page/9월_15일.md "wikilink") 오후 [창원시](../Page/창원시.md "wikilink") [마산종합운동장 야구장에서](../Page/마산종합운동장_야구장.md "wikilink") [kt 위즈와의](https://ko.wikipedia.org/wiki/kt_위즈 "wikilink") 경기 전에 인권캠페인을 실시했다. 시구와 시타는 다문화 가정의 학생이 했고, 경기장 밖에서는 인권 롤렛 퀴즈대회, 캐리커처 그리기 등 다양한 인권관련 부대행사가 열렸다.\[87\]
 
 <!-- end list -->
 
-  - [네네치킨](https://ko.wikipedia.org/wiki/네네치킨 "wikilink")과 제휴한 '사랑은온도계 시즌3, NC여\! 훨훨 날아 어린이에게 희망을\!' 캠페인을 통해 적립된 치킨 900마리 중 400마리를 [10월 23일](../Page/10월_23일.md "wikilink") 고양시 다문화 및 지역 주민 100가족에게 전달했고, 11월 27일 [경남아동보호전문기관](https://ko.wikipedia.org/wiki/경남아동보호전문기관 "wikilink")에 방문하여 500마리를 후원했다. 이 캠페인은 [마산야구장](https://ko.wikipedia.org/wiki/마산야구장 "wikilink")에서 NC 다이노스 선수들이 홈런을 칠 때마다 [네네치킨](https://ko.wikipedia.org/wiki/네네치킨 "wikilink")이 지정한 홈런존으로 떨어지면 [네네치킨](https://ko.wikipedia.org/wiki/네네치킨 "wikilink") 20마리, 홈런존 외의 지점으로 떨어졌을 경우에는 [네네치킨](https://ko.wikipedia.org/wiki/네네치킨 "wikilink") 10마리씩을 적립해 기부하는 프로그램이다.\[88\]
+  - [네네치킨](https://ko.wikipedia.org/wiki/네네치킨 "wikilink")과 제휴한 '사랑은온도계 시즌3, NC여\! 훨훨 날아 어린이에게 희망을\!' 캠페인을 통해 적립된 치킨 900마리 중 400마리를 [10월 23일](../Page/10월_23일.md "wikilink") 고양시 다문화 및 지역 주민 100가족에게 전달했고, 11월 27일 [경남아동보호전문기관](https://ko.wikipedia.org/wiki/경남아동보호전문기관 "wikilink")에 방문하여 500마리를 후원했다. 이 캠페인은 [마산종합운동장 야구장에서](../Page/마산종합운동장_야구장.md "wikilink") NC 다이노스 선수들이 홈런을 칠 때마다 [네네치킨](https://ko.wikipedia.org/wiki/네네치킨 "wikilink")이 지정한 홈런존으로 떨어지면 [네네치킨](https://ko.wikipedia.org/wiki/네네치킨 "wikilink") 20마리, 홈런존 외의 지점으로 떨어졌을 경우에는 [네네치킨](https://ko.wikipedia.org/wiki/네네치킨 "wikilink") 10마리씩을 적립해 기부하는 프로그램이다.\[88\]
 
 ### 2016년
 
@@ -2147,11 +2157,11 @@ NC 다이노스의 공식 응원단은 [랠리 다이노스로](https://ko.wikip
 
 <!-- end list -->
 
-  - [6월 9일](../Page/6월_9일.md "wikilink") 경남도교육청, [NH농협은행](../Page/NH농협은행.md "wikilink") 경남본부와 함께 경남지역 소규모 학교 학생들이 스포츠 문화를 체험할 수 있도록 [넥센 히어로즈와의](https://ko.wikipedia.org/wiki/넥센_히어로즈 "wikilink") 홈경기에서 관람 행사를 열었다. 경상남도 지역 소규모 학교 14개교 학생, 교사 및 학부모 720여명이 경기를 단체 관람했다.\[90\]
+  - [6월 9일](../Page/6월_9일.md "wikilink") 경남도교육청, [NH농협은행](../Page/NH농협은행.md "wikilink") 경남본부와 함께 경남지역 소규모 학교 학생들이 스포츠 문화를 체험할 수 있도록 [넥센 히어로즈와의](../Page/키움_히어로즈.md "wikilink") 홈경기에서 관람 행사를 열었다. 경상남도 지역 소규모 학교 14개교 학생, 교사 및 학부모 720여명이 경기를 단체 관람했다.\[90\]
 
 <!-- end list -->
 
-  - [9월 3일](../Page/9월_3일.md "wikilink") [마산야구장](https://ko.wikipedia.org/wiki/마산야구장 "wikilink")에서 창원시자원봉사센터와 협력해 'NC다이노스와 함께하는 자원봉사 홍보데이'를 개최했다. 청소년, 성인 등 1,100여명이 참여했고, 자원봉사 홍보와 [창원](https://ko.wikipedia.org/wiki/창원 "wikilink")광역시 승격기원 및 NC 다이노스 응원 문구, 소망타일 한 장 갖기 문구가 새겨진 피켓을 들고 자원봉사도 홍보하고, 야구경기도 관람했다.\[91\]
+  - [9월 3일](../Page/9월_3일.md "wikilink") [마산종합운동장 야구장에서](../Page/마산종합운동장_야구장.md "wikilink") 창원시자원봉사센터와 협력해 'NC다이노스와 함께하는 자원봉사 홍보데이'를 개최했다. 청소년, 성인 등 1,100여명이 참여했고, 자원봉사 홍보와 [창원](https://ko.wikipedia.org/wiki/창원 "wikilink")광역시 승격기원 및 NC 다이노스 응원 문구, 소망타일 한 장 갖기 문구가 새겨진 피켓을 들고 자원봉사도 홍보하고, 야구경기도 관람했다.\[91\]
 
 ## 사건·사고 및 논란
 
@@ -2233,7 +2243,7 @@ NC 다이노스의 공식 응원단은 [랠리 다이노스로](https://ko.wikip
 47. [2013년](../Page/2013년.md "wikilink") [4월 18일](../Page/4월_18일.md "wikilink") [넥센과의](https://ko.wikipedia.org/wiki/넥센_히어로즈 "wikilink") 2:3 트레이드로 인해 넥센으로 이적.
 48. [노브레인](../Page/노브레인.md "wikilink")의 5집 앨범 《이것이 젊음》의 수록곡이며, 마산야구장 전광판에서는 마산스트리트로 줄여서 표기한다. 이 곡의 창작은 NC 다이노스 창단 이전인 2007년에 있었다. 이 곡은 홈구장의 소재지이며 연고지인 창원시의 일부인 마산 지역을 소재로 하고 있기 때문에 응원가로 사용되고 있는것이다. 또한, 방송을 할때에는 곡 시작부분의 대화 부분과 2절은 방송하지 않는다.
 49. 노브레인의 《미친 듯 놀자》를 개사해서 부른다.
-50. [삼성 라이온즈](https://ko.wikipedia.org/wiki/삼성_라이온즈 "wikilink") [정형식](../Page/정형식.md "wikilink")의 응원가와 음이 똑같다.
+50. [삼성 라이온즈](../Page/삼성_라이온즈.md "wikilink") [정형식](../Page/정형식.md "wikilink")의 응원가와 음이 똑같다.
 51. [롯데의 ‘마\!’ 응원 대항마, NC의 '쫌\!'](http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=107&oid=241&aid=0002123732) - 일간스포츠
 52. [NC 페이스북 ‘좋아요’ 10만명 돌파](http://www.knnews.co.kr/news/articleView.php?idxno=1132336) - 경남신문
 53. [트위터에서 야구재미를...'\#NC트위터데이' 응원트윗 2만4천개](http://osen.mt.co.kr/article/G1110220792) - OSEN

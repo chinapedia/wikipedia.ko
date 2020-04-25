@@ -10,7 +10,7 @@
   - [고교 야구 닷컴×다이아몬드 A 특설 사이트](https://web.archive.org/web/20130921055324/http://dianoace.com/)
 
   -
-  - [TV 애니메이션 스페셜 사이트](http://diaace.com/)
+  - [TV 애니메이션 스페셜 사이트](https://web.archive.org/web/20130717095627/http://diaace.com/)
 
   - [다이아몬드 A - TV 도쿄 공식 사이트](http://www.tv-tokyo.co.jp/anime/diaace/index2.html)
 

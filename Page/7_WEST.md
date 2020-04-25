@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [7 WEST](https://ko.wikipedia.org/wiki/7_WEST).
 
 
-**7 WEST**(세븐 웨스트)는, [칸사이 쟈니즈 Jr.의](../Page/자니스_주니어.md "wikilink") [남성](https://ko.wikipedia.org/wiki/남성 "wikilink") [아이돌](https://ko.wikipedia.org/wiki/아이돌 "wikilink") 그룹이다. [쟈니즈 사무소](https://ko.wikipedia.org/wiki/자니즈_사무소 "wikilink") 소속.
+**7 WEST**(세븐 웨스트)는 [칸사이 쟈니즈 Jr.의](../Page/자니스_주니어.md "wikilink") [남성](https://ko.wikipedia.org/wiki/남성 "wikilink") [아이돌](https://ko.wikipedia.org/wiki/아이돌 "wikilink") 그룹이다. [쟈니즈 사무소](https://ko.wikipedia.org/wiki/자니즈_사무소 "wikilink") 소속.
 
 ## 멤버
 

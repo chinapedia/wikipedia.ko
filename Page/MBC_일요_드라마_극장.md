@@ -14,7 +14,7 @@
 ### [나야, 할머니](../Page/나야,_할머니.md "wikilink")
 
   - 방영일 : [2010년](../Page/2010년.md "wikilink") [9월 26일](../Page/9월_26일.md "wikilink")
-  - 출연진 : [나문희](../Page/나문희.md "wikilink"), [남지현](../Page/남지현_\(1995년\).md "wikilink"), [이아현](../Page/이아현.md "wikilink"), [조희봉](../Page/조희봉.md "wikilink")
+  - 출연진 : [나문희](../Page/나문희.md "wikilink"), [남지현](../Page/남지현_\(배우\).md "wikilink"), [이아현](../Page/이아현.md "wikilink"), [조희봉](../Page/조희봉.md "wikilink")
   - 제작진 : 연출 정대윤 / 극본 정해리
 
 ### [도시락](../Page/도시락_\(드라마\).md "wikilink")

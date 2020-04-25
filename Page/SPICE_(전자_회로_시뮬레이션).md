@@ -13,7 +13,7 @@
 
 ## 기원
 
-SPICE는 [캘리포니아 대학교 버클리의](../Page/캘리포니아_대학교_버클리.md "wikilink") 전자공학 연구실에서 도널드 페더슨 교수(Donald Pederson) 의 지도를 받는 로렌스 네이글(Laurence Nagel) 에 의해 만들어졌다. SPICE1은 본래 네이글이 로널드 로러(Ronald Rohrer) 교수 밑에서 작업한 CANCER 프로그램\[4\]의 파생으로 제작되었다. CANCER는 "Computer Analysis of Nonlinear Circuits, Excluding Radiation"의 약자로\[5\], 이 시기에는 [미국 국방부에서](../Page/미국_국방부.md "wikilink") 회로가 방사능에 얼마나 잘 버티는지에 대해 측정하기 위한 시뮬레이터가 개발되고 있었다. 네이글의 지도교수였던 로러가 떠나고 새 지도교수, 페더슨은 특허를 이미 받은 CANCER의 사용제약을 없애고, [퍼블릭 도메인으로](../Page/퍼블릭_도메인.md "wikilink") 사용되기에 충분한 프로그램이라고 생각하였다.\[6\]
+SPICE는 [캘리포니아 대학교 버클리의](../Page/캘리포니아_대학교_버클리.md "wikilink") 전자공학 연구실에서 도널드 페더슨 교수(Donald Pederson)의 지도를 받는 로렌스 네이글(Laurence Nagel) 에 의해 만들어졌다. SPICE1은 본래 네이글이 로널드 로러(Ronald Rohrer) 교수 밑에서 작업한 CANCER 프로그램\[4\]의 파생으로 제작되었다. CANCER는 "Computer Analysis of Nonlinear Circuits, Excluding Radiation"의 약자로\[5\], 이 시기에는 [미국 국방부에서](../Page/미국_국방부.md "wikilink") 회로가 방사능에 얼마나 잘 버티는지에 대해 측정하기 위한 시뮬레이터가 개발되고 있었다. 네이글의 지도교수였던 로러가 떠나고 새 지도교수, 페더슨은 특허를 이미 받은 CANCER의 사용제약을 없애고, [퍼블릭 도메인으로](../Page/퍼블릭_도메인.md "wikilink") 사용되기에 충분한 프로그램이라고 생각하였다.\[6\]
 
 SPICE1는 1973년에 처음 소개되었다.\[7\] 그 당시에는 [포트란](../Page/포트란.md "wikilink")으로 짜여졌고, [노달 회로분석를](../Page/노달_회로분석.md "wikilink") 사용해 회로의 방정식을 구했다. 하지만, 노달 회로분석은 인덕터, 부동 전압원, 종속원들을 표현하는 데에는 어려움이 많았다. SPICE1은 또한 비교적 소수의 회로만 사용이 가능하였고, 과도신호에 대한 고정된 시간동안의 분석만 가능하였다. 1975년, 현재의 명성을 가지게 해 준 SPICE2\[8\]가 포트란으로 개발되었다. SPICE2는 더 많은 소자와 \[\[노달변형_회로분석|노달변형 회로분석을 통한 더 폭넓은 과도신호 분석을 가능하게 하였다. 그리고 동료 대학원생인 엘리스 코헨(Ellis Cohen)에 의해 포트란에 기초한 메모리 할당 시스템이 적용되었다. 1983년에 마지막으로 포트란으로 짜여진 SPICE가 업데이트 되었고, 토마스 쿼리스(Thomas Quarles)는 리차드 뉴턴(A. Richard Newton)의 지도를 받으며 1989년, C로 짜여진 SPICE3\[9\]를 개발하였다. SPICE3는 [X 윈도우 시스템의](https://ko.wikipedia.org/wiki/X_윈도우_시스템 "wikilink") 방식을 주가하고, 같은 문법을 사용하도록 만들어졌다.
 

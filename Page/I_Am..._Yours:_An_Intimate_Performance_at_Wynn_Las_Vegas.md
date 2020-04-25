@@ -36,7 +36,7 @@
 4.  <http://www.dutchcharts.nl/weekchart.asp?cat=d&year=2009&date=20091128>
 5.
 6.
-7.  <http://greekcharts.com/showitem.asp?interpret=Beyonc%E9&titel=I+Am%2E%2E%2E+Yours+%2D+An+Intimate+Performance+At+Wynn+Las+Vegas&cat=a>
+7.
 8.
 9.
 10. <http://portuguesecharts.com/showitem.asp?interpret=Beyonc%E9&titel=I+Am%2E%2E%2E+Yours+%2D+An+Intimate+Performance+At+Wynn+Las+Vegas&cat=a>

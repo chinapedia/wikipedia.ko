@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [WWE 인터콘티넨털 챔피언십](https://ko.wikipedia.org/wiki/WWE_인터콘티넨털_챔피언십).
 
 
-**WWE 인터콘티넨털 챔피언십**(WWE Intercontinental championship)은 [WWE](https://ko.wikipedia.org/wiki/WWE "wikilink")의 챔피언십 중 하나이다. 원레 노스 아메리카 챔피언십이 있었으나 통합되었다.
+**WWE 인터콘티넨털 챔피언십**(WWE Intercontinental championship)은 [WWE](../Page/WWE.md "wikilink")의 챔피언십 중 하나이다. 원레 노스 아메리카 챔피언십이 있었으나 통합되었다.
 
 WWE에서는 중간급 챔피언십을 나타내며 [트리플 크라운과](../Page/트리플_크라운_챔피언십.md "wikilink") [그랜드 슬램 챔피언십에](../Page/그랜드_슬램_챔피언십.md "wikilink") 필요한 챔피언십이기도 하다.
 

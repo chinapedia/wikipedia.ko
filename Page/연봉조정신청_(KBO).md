@@ -9,7 +9,7 @@
 
 ## 역사
 
-[1984년](../Page/1984년.md "wikilink") [강만식](../Page/강만식.md "wikilink")([해태 타이거즈](../Page/해태_타이거즈.md "wikilink")),[이원국](https://ko.wikipedia.org/wiki/이원국_\(야구_선수\) "wikilink")([MBC 청룡](../Page/MBC_청룡.md "wikilink")) 이후로 96차례의 연봉조정 신청이 있었다. 이중 76차례는 중도 계약 타결로 자동 취소 되었고 조정위원회의결정까지 간 사례는 20차례에 불과하다. 이중 [2002년](../Page/2002년.md "wikilink") [LG 트윈스](../Page/LG_트윈스.md "wikilink") 내야수 [유지현만이](../Page/유지현_\(야구인\).md "wikilink") 선수 측 승리 판정을 받았다. 하지만 이 사건으로 [유지현은](../Page/유지현_\(야구인\).md "wikilink") 2년 후 은퇴하였다. [2010년](../Page/2010년.md "wikilink") 타격 7관왕의 [이대호](../Page/이대호.md "wikilink")는 7억을 요구하였으나 구단에서 6억 3천만원을 제시하여 연봉조정신청을 하였으나 결국 구단이 승리하였다.
+[1984년](../Page/1984년.md "wikilink") [강만식](../Page/강만식.md "wikilink")([해태 타이거즈](../Page/해태_타이거즈.md "wikilink")),[이원국](https://ko.wikipedia.org/wiki/이원국_\(야구_선수\) "wikilink")([MBC 청룡](../Page/MBC_청룡.md "wikilink")) 이후로 96차례의 연봉조정 신청이 있었다. 이중 76차례는 중도 계약 타결로 자동 취소되었고 조정위원회의결정까지 간 사례는 20차례에 불과하다. 이중 [2002년](../Page/2002년.md "wikilink") [LG 트윈스](../Page/LG_트윈스.md "wikilink") 내야수 [유지현만이](../Page/유지현_\(야구인\).md "wikilink") 선수 측 승리 판정을 받았다. 하지만 이 사건으로 [유지현은](../Page/유지현_\(야구인\).md "wikilink") 2년 후 은퇴하였다. [2010년](../Page/2010년.md "wikilink") 타격 7관왕의 [이대호](../Page/이대호.md "wikilink")는 7억을 요구하였으나 구단에서 6억 3천만원을 제시하여 연봉조정신청을 하였으나 결국 구단이 승리하였다.
 
 ## 논란
 

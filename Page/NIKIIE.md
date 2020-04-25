@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [NIKIIE](https://ko.wikipedia.org/wiki/NIKIIE).
 
 
-**NIKIIE**(니키, [1987년](../Page/1987년.md "wikilink") [10월 12일](../Page/10월_12일.md "wikilink") \~ )는, [일본](../Page/일본.md "wikilink")의 [여성](../Page/여성.md "wikilink") [싱어송라이터](https://ko.wikipedia.org/wiki/싱어송라이터 "wikilink")이다. [이바라키현](../Page/이바라키현.md "wikilink") [히타치오미야 시](https://ko.wikipedia.org/wiki/히타치오미야_시 "wikilink") 출신\[1\]. 혈액형 O형. 이바라키 현립 나카 고등학교 졸업\[2\]. 아티스트명은, 자신의 가능성을 펼치며 살고 싶다고 하는 소원으로부터, 자신의 인생의 2기(니키)라고 하는 의미를 담아 붙였다\[3\].
+**NIKIIE**(니키, [1987년](../Page/1987년.md "wikilink") [10월 12일](../Page/10월_12일.md "wikilink") \~ )는 [일본](../Page/일본.md "wikilink")의 [여성](../Page/여성.md "wikilink") [싱어송라이터](https://ko.wikipedia.org/wiki/싱어송라이터 "wikilink")이다. [이바라키현](../Page/이바라키현.md "wikilink") [히타치오미야 시](https://ko.wikipedia.org/wiki/히타치오미야_시 "wikilink") 출신\[1\]. 혈액형 O형. 이바라키 현립 나카 고등학교 졸업\[2\]. 아티스트명은, 자신의 가능성을 펼치며 살고 싶다고 하는 소원으로부터, 자신의 인생의 2기(니키)라고 하는 의미를 담아 붙였다\[3\].
 
 ## 음악 작품
 

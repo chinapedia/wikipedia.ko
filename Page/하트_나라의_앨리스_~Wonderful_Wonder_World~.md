@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [하트 나라의 앨리스 \~Wonderful Wonder World\~](https://ko.wikipedia.org/wiki/하트_나라의_앨리스_\~Wonderful_Wonder_World\~).
 
 
-《**하트 나라의 앨리스 \~Wonderful Wonder World\~**》() 는 2007년 2월 14일에 [QuinRose를](https://ko.wikipedia.org/wiki/퀸로제 "wikilink") 통해 발매된 PC용 연애 어드벤처 게임으로, [이상한 나라의 앨리스를](../Page/이상한_나라의_앨리스.md "wikilink") 모티브로 한 [오토메 게임](../Page/오토메_게임.md "wikilink") 작품이다.
+《**하트 나라의 앨리스 \~Wonderful Wonder World\~**》()는 2007년 2월 14일에 [QuinRose를](https://ko.wikipedia.org/wiki/퀸로제 "wikilink") 통해 발매된 PC용 연애 어드벤처 게임으로, [이상한 나라의 앨리스를](../Page/이상한_나라의_앨리스.md "wikilink") 모티브로 한 [오토메 게임](../Page/오토메_게임.md "wikilink") 작품이다.
 
 ## 개요
 

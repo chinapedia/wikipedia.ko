@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [DJMAX RAY](https://ko.wikipedia.org/wiki/DJMAX_RAY).
 
 
-**디제이맥스 레이**(DJMAX RAY) 는 [펜타비전](../Page/펜타비전.md "wikilink")이 개발하고 [네오위즈 인터넷이](https://ko.wikipedia.org/wiki/네오위즈_인터넷 "wikilink") 배급하는 음악 게임이다. 게임 방식은 노트 건반 이고 [iOS](https://ko.wikipedia.org/wiki/iOS "wikilink") 플랫폼에서 2012년 9월 28일 출시 되었다.\[1\] 2013년 3월 3일에는 안드로이드 플랫폼의 지원이 시작되었다.
+**디제이맥스 레이**(DJMAX RAY)는 [펜타비전](../Page/펜타비전.md "wikilink")이 개발하고 [네오위즈 인터넷이](https://ko.wikipedia.org/wiki/네오위즈_인터넷 "wikilink") 배급하는 음악 게임이다. 게임 방식은 노트 건반 이고 [iOS](https://ko.wikipedia.org/wiki/iOS "wikilink") 플랫폼에서 2012년 9월 28일 출시 되었다.\[1\] 2013년 3월 3일에는 안드로이드 플랫폼의 지원이 시작되었다.
 
 ## 시스템
 

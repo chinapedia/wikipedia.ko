@@ -145,7 +145,7 @@ QS 세계 대학 평가: <https://www.topuniversities.com/university-rankings>
 
 미술대학 순위 (순수 미술 및 산업 시각디자인 분야 포함)
 
-분야별, 국가별 대학 순위 정보 : [<https://www.topuniversities.com/subject-rankings>](https://www.topuniversities.com/subject-rankings/2018)
+[https://namu.wiki/w/QS 세계 대학 랭킹](https://namu.wiki/w/QS%20세계%20대학%20랭킹)
 
 
 

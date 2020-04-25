@@ -10,10 +10,10 @@
 
 ## 같이 보기
 
-  - [방콕 대학교](https://ko.wikipedia.org/wiki/방콕_대학교 "wikilink")
+  - [방콕 대학교](../Page/방콕_대학교.md "wikilink")
 
 ## 외부 링크
 
-  - [공식 홈페이지](http://www.bangkokunitedfc.com/)
+  - [공식 홈페이지](https://web.archive.org/web/20161119215659/http://www.bangkokunitedfc.com/)
 
 [분류:1988년 설립된 축구단](https://ko.wikipedia.org/wiki/분류:1988년_설립된_축구단 "wikilink") [분류:방콕 유나이티드 FC](https://ko.wikipedia.org/wiki/분류:방콕_유나이티드_FC "wikilink")

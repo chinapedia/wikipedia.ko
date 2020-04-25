@@ -7,7 +7,7 @@
 
 1961년 부터 2002년까지 실전배치되었던 [이오지마급 강습상륙함](https://ko.wikipedia.org/wiki/이오지마급_강습상륙함 "wikilink")(LPH)은 미국 최초의 강습상륙함이다. 에섹스급은 원래 항공모함이었던 것을 LPH로 개조한 것이었으나, 이오지마급은 원래부터 LPH로 개발했다. 7척이 건조되었으며, [헬리콥터 항공모함으로서](https://ko.wikipedia.org/wiki/헬리콥터_항공모함 "wikilink"), 20대의 헬기와 1800명의 해병대를 탑재했다.
 
-24척의 [에섹스급 항공모함](https://ko.wikipedia.org/wiki/에섹스급_항공모함 "wikilink") 중 3척(복서, 프린스턴, 밸리포지)을 LPH로 개조했다. 이것이 전 세계 최초의 LPH 강습상륙함이다. 에섹스급은 [한국 전쟁](../Page/한국_전쟁.md "wikilink") 때 11척이 참전한 것으로 유명한 항공모함이다.
+24척의 [에식스급 항공모함](https://ko.wikipedia.org/wiki/에섹스급_항공모함 "wikilink") 중 3척(복서, 프린스턴, 밸리포지)을 LPH로 개조했다. 이것이 전 세계 최초의 LPH 강습상륙함이다. 에섹스급은 [한국 전쟁](../Page/한국_전쟁.md "wikilink") 때 11척이 참전한 것으로 유명한 항공모함이다.
 
 [영국 해군은](https://ko.wikipedia.org/wiki/영국_해군 "wikilink") LPH를 코만도 캐리어라고 부른다. **[해리어](https://ko.wikipedia.org/wiki/해리어 "wikilink")가 없이, 헬리콥터만을 사용하는 항공모함**을 말한다.
 

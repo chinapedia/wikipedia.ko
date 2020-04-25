@@ -49,7 +49,7 @@
 
 <!-- end list -->
 
-  - 2008\. 1. 31. KISAKI와 카미조 프로듀스에 의한 Versailles 참여 옴니버스 "CROSS GATE 2008 \~ chaotic sorrow \~" SHOXX 한정 판매 (3 월 26 일에 일반 판매)
+  - 2008\. 1. 31. KISAKI와 카미조 프로듀스에 의한 Versailles 참여 옴니버스 "CROSS GATE 2008 \~ chaotic sorrow \~" SHOXX 한정 판매 (3월 26일에 일반 판매)
   - 3\. 19. Shibuya-AX Live, Tokyo Metropolis에서 회장 한정 싱글 A Noble was born in chaos 판매개시. 라이브에서 Galneryus와 경연
 
 <!-- end list -->

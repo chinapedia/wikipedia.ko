@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [WWE 더 그레이트 아메리칸 배시](https://ko.wikipedia.org/wiki/WWE_더_그레이트_아메리칸_배시).
 
 
-**그레이트 아메리칸 배시/ 더 배시**(The Great American Bash/The Bash)는 [WWE](https://ko.wikipedia.org/wiki/WWE "wikilink")가 주관하였고, 2009년 끝으로 폐지된 페이퍼뷰이다. 원래는 [NWA와](../Page/내셔널_레슬링_얼라이언스.md "wikilink") [WCW가](https://ko.wikipedia.org/wiki/월드_챔피언십_레슬링 "wikilink") 2000년까지 개최하던 페이퍼뷰였다. WWE에서는 2004년 부활해서 2009년까지 개최되었다.
+**그레이트 아메리칸 배시/ 더 배시**(The Great American Bash/The Bash)는 [WWE](../Page/WWE.md "wikilink")가 주관하였고, 2009년 끝으로 폐지된 페이퍼뷰이다. 원래는 [NWA와](../Page/내셔널_레슬링_얼라이언스.md "wikilink") [WCW가](https://ko.wikipedia.org/wiki/월드_챔피언십_레슬링 "wikilink") 2000년까지 개최하던 페이퍼뷰였다. WWE에서는 2004년 부활해서 2009년까지 개최되었다.
 
 2003년 6월부터 WWE는 브랜드 분리의 일한으로 브랜드별 페이 퍼 뷰를 진행했다. 이에따라 2004년부터 2006년까지 스맥다운 단독페이퍼뷰로 진행되었다가 2007년부터 2009년까지는 다시 [RAW](../Page/WWE_러.md "wikilink") 와 [스맥다운](https://ko.wikipedia.org/wiki/스맥다운 "wikilink") 이 합동으로 페이 퍼 뷰를 진행했다. 2009년에는 더 배시로 개최 되었다.
 

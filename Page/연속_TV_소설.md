@@ -93,7 +93,7 @@
   - 2017년 《[와로텐카](../Page/와로텐카.md "wikilink")》 - (주연: [아오이 와카나](https://ko.wikipedia.org/wiki/아오이_와카나 "wikilink"))
   - 2018년 《[절반, 푸르다](https://ko.wikipedia.org/wiki/절반,_푸르다 "wikilink")》 - (주연: [나가노 메이](../Page/나가노_메이.md "wikilink"))
   - 2018년 《[만복](../Page/만복.md "wikilink")》 - (주연: [안도 사쿠라](https://ko.wikipedia.org/wiki/안도_사쿠라 "wikilink"))
-  - 2019년 《[여름 하늘](https://ko.wikipedia.org/wiki/여름_하늘 "wikilink")》 - (주연: [히로세 스즈](../Page/히로세_스즈.md "wikilink"))
+  - 2019년 《[나츠조라](https://ko.wikipedia.org/wiki/나츠조라 "wikilink")》 - (주연: [히로세 스즈](../Page/히로세_스즈.md "wikilink"))
   - 2019년 《[스칼릿](https://ko.wikipedia.org/wiki/스칼릿_\(드라마\) "wikilink")》 - (주연: [토다 에리카](../Page/토다_에리카.md "wikilink"))
 
 ### 2020년대

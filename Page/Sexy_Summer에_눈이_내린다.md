@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Sexy Summer에 눈이 내린다](https://ko.wikipedia.org/wiki/Sexy_Summer에_눈이_내린다).
 
 
-〈**Sexy Summer에 눈이 내린다**〉()는, [Sexy Zone의](https://ko.wikipedia.org/wiki/Sexy_Zone "wikilink") 3번째 [싱글이다](../Page/싱글_\(음악\).md "wikilink").
+〈**Sexy Summer에 눈이 내린다**〉()는 [Sexy Zone의](https://ko.wikipedia.org/wiki/Sexy_Zone "wikilink") 3번째 [싱글이다](../Page/싱글_\(음악\).md "wikilink").
 
 ## 개요
 

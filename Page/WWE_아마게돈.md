@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [WWE 아마게돈](https://ko.wikipedia.org/wiki/WWE_아마게돈).
 
 
-**아마게돈**(Armageddon)는 [WWE](https://ko.wikipedia.org/wiki/WWE "wikilink")가 주관하였고, 1999년 신설되어 2008년을 끝으로 폐지된 페이퍼뷰이다.
+**아마게돈**(Armageddon)는 [WWE](../Page/WWE.md "wikilink")가 주관하였고, 1999년 신설되어 2008년을 끝으로 폐지된 페이퍼뷰이다.
 
 2001년에는 [9·11 테러](https://ko.wikipedia.org/wiki/9·11_테러 "wikilink") 의 영향으로 열리지 못하였고, [WWE 벤전스](https://ko.wikipedia.org/wiki/WWE_벤전스 "wikilink") 가 대체되어 진행되었다.
 

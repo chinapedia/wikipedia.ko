@@ -219,7 +219,7 @@ EXO는 5년 연속 대상을 수상하였으며, 2013년부터 현재까지 총 
 <li>본명 : 김민석 (金珉錫)</li>
 <li>생년월일 : </li>
 <li>출생지 :  <a href="https://ko.wikipedia.org/wiki/경기도" title="wikilink">경기도</a> <a href="../Page/구리시.md" title="wikilink">구리시</a></li>
-<li>유닛그룹 : EXO-M, <a href="../Page/EXO-CBX.md" title="wikilink">EXO-CBX</a></li>
+<li>유닛그룹 : <a href="../Page/EXO-CBX.md" title="wikilink">EXO-CBX</a></li>
 <li>활동기간 : <a href="../Page/2012년.md" title="wikilink">2012년</a> <a href="../Page/4월_8일.md" title="wikilink">4월 8일</a> ~ <strong>현재</strong></li>
 </ul></td>
 </tr>
@@ -230,7 +230,6 @@ EXO는 5년 연속 대상을 수상하였으며, 2013년부터 현재까지 총 
 <li>본명 : 김준면 (金俊勉)</li>
 <li>생년월일 : </li>
 <li>출생지 :  <a href="../Page/서울특별시.md" title="wikilink">서울특별시</a></li>
-<li>유닛그룹 : EXO-K</li>
 <li>활동기간 : <a href="../Page/2012년.md" title="wikilink">2012년</a> <a href="../Page/4월_8일.md" title="wikilink">4월 8일</a> ~ <strong>현재</strong></li>
 </ul></td>
 </tr>
@@ -241,7 +240,6 @@ EXO는 5년 연속 대상을 수상하였으며, 2013년부터 현재까지 총 
 <li>본명 : 장이씽 ()</li>
 <li>생년월일 : </li>
 <li>출생지 :  <a href="../Page/후난성.md" title="wikilink">후난 성</a> <a href="../Page/창사시.md" title="wikilink">창사 시</a></li>
-<li>유닛그룹 : EXO-M</li>
 <li>활동기간 : <a href="../Page/2012년.md" title="wikilink">2012년</a> <a href="../Page/4월_8일.md" title="wikilink">4월 8일</a> ~ <strong>현재</strong>[65]</li>
 </ul></td>
 </tr>
@@ -252,7 +250,7 @@ EXO는 5년 연속 대상을 수상하였으며, 2013년부터 현재까지 총 
 <li>본명 : 변백현 (邊伯賢)</li>
 <li>생년월일 : </li>
 <li>출생지 :  <a href="https://ko.wikipedia.org/wiki/경기도" title="wikilink">경기도</a> <a href="https://ko.wikipedia.org/wiki/부천시" title="wikilink">부천시</a></li>
-<li>유닛그룹 : EXO-K, <a href="../Page/EXO-CBX.md" title="wikilink">EXO-CBX</a>, <a href="https://ko.wikipedia.org/wiki/SuperM" title="wikilink">SuperM</a></li>
+<li>유닛그룹 : <a href="../Page/EXO-CBX.md" title="wikilink">EXO-CBX</a>, <a href="https://ko.wikipedia.org/wiki/SuperM" title="wikilink">SuperM</a></li>
 <li>활동기간 : <a href="../Page/2012년.md" title="wikilink">2012년</a> <a href="../Page/4월_8일.md" title="wikilink">4월 8일</a> ~ <strong>현재</strong></li>
 </ul></td>
 </tr>
@@ -263,7 +261,7 @@ EXO는 5년 연속 대상을 수상하였으며, 2013년부터 현재까지 총 
 <li>본명 : 김종대 (金鍾大)</li>
 <li>생년월일 : </li>
 <li>출생지 :  <a href="https://ko.wikipedia.org/wiki/대전광역시" title="wikilink">대전광역시</a></li>
-<li>유닛그룹 : EXO-M, <a href="../Page/EXO-CBX.md" title="wikilink">EXO-CBX</a></li>
+<li>유닛그룹 : <a href="../Page/EXO-CBX.md" title="wikilink">EXO-CBX</a></li>
 <li>활동기간 : <a href="../Page/2012년.md" title="wikilink">2012년</a> <a href="../Page/4월_8일.md" title="wikilink">4월 8일</a> ~ <strong>현재</strong></li>
 </ul></td>
 </tr>
@@ -274,7 +272,7 @@ EXO는 5년 연속 대상을 수상하였으며, 2013년부터 현재까지 총 
 <li>본명 : 박찬열 (朴찬열)</li>
 <li>생년월일 : </li>
 <li>출생지 :  <a href="../Page/서울특별시.md" title="wikilink">서울특별시</a></li>
-<li>유닛그룹 : EXO-K, <a href="https://ko.wikipedia.org/wiki/EXO-SC" title="wikilink">EXO-SC</a></li>
+<li>유닛그룹 : <a href="https://ko.wikipedia.org/wiki/EXO-SC" title="wikilink">EXO-SC</a></li>
 <li>활동기간 : <a href="../Page/2012년.md" title="wikilink">2012년</a> <a href="../Page/4월_8일.md" title="wikilink">4월 8일</a> ~ <strong>현재</strong></li>
 </ul></td>
 </tr>
@@ -285,7 +283,6 @@ EXO는 5년 연속 대상을 수상하였으며, 2013년부터 현재까지 총 
 <li>본명 : 도경수 (都暻秀)</li>
 <li>생년월일 : </li>
 <li>출생지 :  <a href="../Page/서울특별시.md" title="wikilink">서울특별시</a></li>
-<li>유닛그룹 : EXO-K</li>
 <li>활동기간 : <a href="../Page/2012년.md" title="wikilink">2012년</a> <a href="../Page/4월_8일.md" title="wikilink">4월 8일</a> ~ <strong>현재</strong></li>
 </ul></td>
 </tr>
@@ -296,7 +293,7 @@ EXO는 5년 연속 대상을 수상하였으며, 2013년부터 현재까지 총 
 <li>본명 : 김종인 (金鍾仁)</li>
 <li>생년월일 : </li>
 <li>출생지 :  <a href="https://ko.wikipedia.org/wiki/전라남도" title="wikilink">전라남도</a> <a href="https://ko.wikipedia.org/wiki/순천시" title="wikilink">순천시</a></li>
-<li>유닛그룹 : EXO-K, <a href="https://ko.wikipedia.org/wiki/SuperM" title="wikilink">SuperM</a></li>
+<li>유닛그룹 : <a href="https://ko.wikipedia.org/wiki/SuperM" title="wikilink">SuperM</a></li>
 <li>활동기간 : <a href="../Page/2012년.md" title="wikilink">2012년</a> <a href="../Page/4월_8일.md" title="wikilink">4월 8일</a> ~ <strong>현재</strong></li>
 </ul></td>
 </tr>
@@ -307,7 +304,7 @@ EXO는 5년 연속 대상을 수상하였으며, 2013년부터 현재까지 총 
 <li>본명 : 오세훈 (吳世勳)</li>
 <li>생년월일 : </li>
 <li>출생지 :  <a href="../Page/서울특별시.md" title="wikilink">서울특별시</a></li>
-<li>유닛그룹 : EXO-K, <a href="https://ko.wikipedia.org/wiki/EXO-SC" title="wikilink">EXO-SC</a></li>
+<li>유닛그룹 : <a href="https://ko.wikipedia.org/wiki/EXO-SC" title="wikilink">EXO-SC</a></li>
 <li>활동기간 : <a href="../Page/2012년.md" title="wikilink">2012년</a> <a href="../Page/4월_8일.md" title="wikilink">4월 8일</a> ~ <strong>현재</strong></li>
 </ul></td>
 </tr>
@@ -332,7 +329,6 @@ EXO는 5년 연속 대상을 수상하였으며, 2013년부터 현재까지 총 
 <li>본명 : 루한 ()</li>
 <li>생년월일 : </li>
 <li>출생지 :  <a href="../Page/베이징시.md" title="wikilink">베이징 시</a></li>
-<li>유닛그룹 : EXO-M</li>
 <li>활동기간 : <a href="../Page/2012년.md" title="wikilink">2012년</a> <a href="../Page/4월_8일.md" title="wikilink">4월 8일</a> ~ <a href="../Page/2016년.md" title="wikilink">2016년</a> <a href="../Page/7월_21일.md" title="wikilink">7월 21일</a>[66]</li>
 </ul></td>
 </tr>
@@ -344,18 +340,16 @@ EXO는 5년 연속 대상을 수상하였으며, 2013년부터 현재까지 총 
 <li>생년월일 : </li>
 <li>국적 :  → </li>
 <li>출생지 :  <a href="../Page/광둥성.md" title="wikilink">광둥 성</a> <a href="../Page/광저우시.md" title="wikilink">광저우 시</a></li>
-<li>유닛그룹 : EXO-M</li>
 <li>활동기간 : <a href="../Page/2012년.md" title="wikilink">2012년</a> <a href="../Page/4월_8일.md" title="wikilink">4월 8일</a> ~ <a href="../Page/2016년.md" title="wikilink">2016년</a> <a href="../Page/7월_21일.md" title="wikilink">7월 21일</a>[67]</li>
 </ul></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/황쯔타오.md" title="wikilink">타오</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/파일:Huang_Zitao_at_Ports_1961_Shanghai.jpg" title="wikilink">100px</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/파일:Edison_Huang_(Tao_Huang)_at_the_16th_Mnet_Asian_Music_Awards_01.jpg" title="wikilink">100px</a></p></td>
 <td><ul>
 <li>본명 : 황쯔타오 ()</li>
 <li>생년월일 : </li>
 <li>출생지 :  <a href="../Page/산둥성.md" title="wikilink">산둥 성</a> <a href="../Page/칭다오시.md" title="wikilink">칭다오 시</a></li>
-<li>유닛그룹 : EXO-M</li>
 <li>활동기간 : <a href="../Page/2012년.md" title="wikilink">2012년</a> <a href="../Page/4월_8일.md" title="wikilink">4월 8일</a> ~ <a href="../Page/2018년.md" title="wikilink">2018년</a> <a href="../Page/3월_16일.md" title="wikilink">3월 16일</a>[68]</li>
 </ul></td>
 </tr>

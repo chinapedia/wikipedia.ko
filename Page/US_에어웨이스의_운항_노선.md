@@ -100,7 +100,7 @@
 
 <!-- end list -->
 
-  - [신트마르턴](https://ko.wikipedia.org/wiki/신트마르턴 "wikilink") - [프린세스 줄리아나 국제공항](../Page/프린세스_줄리아나_국제공항.md "wikilink")
+  - [신트마르턴](../Page/신트마르턴.md "wikilink") - [프린세스 줄리아나 국제공항](../Page/프린세스_줄리아나_국제공항.md "wikilink")
 
 <!-- end list -->
 

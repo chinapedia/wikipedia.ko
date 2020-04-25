@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Piece \(만화\)](https://ko.wikipedia.org/wiki/Piece_\(만화\)).
 
 
-《**Piece**》(피스)는, [아시하라 히나코의](../Page/아시하라_히나코.md "wikilink") [만화](../Page/만화.md "wikilink") 작품이다.
+《**Piece**》(피스)는 [아시하라 히나코의](../Page/아시하라_히나코.md "wikilink") [만화](../Page/만화.md "wikilink") 작품이다.
 
 〈[베츠코미](https://ko.wikipedia.org/wiki/베쓰코미 "wikilink")〉([쇼가쿠칸](../Page/쇼가쿠칸.md "wikilink"))에서 [2008년](../Page/2008년.md "wikilink") 5월호부터 [2013년](../Page/2013년.md "wikilink") 5월호까지 2개월 간격으로 연재되었다. 단행본은 전 10권. 연재 개시 당시는 〈Piece\~그녀의 기억\~〉이라고 하는 타이틀이었다.
 

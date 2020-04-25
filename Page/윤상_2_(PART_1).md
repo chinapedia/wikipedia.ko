@@ -14,7 +14,7 @@
 이 목록은 해당 앨범의 부클릿 〈staff〉목록에서 발췌하였다.\[3\]
 
   - [윤상](../Page/윤상.md "wikilink") - [프로듀서](../Page/음악_프로듀서.md "wikilink"), [편곡](../Page/편곡.md "wikilink")
-  - 박창학 - 프로듀서
+  - [박창학](https://ko.wikipedia.org/wiki/박창학 "wikilink") - 프로듀서
   - 김국현 - 녹음, 믹싱
   - 김동인, 김종욱, 한제석 - 녹음
   - 이영경 - [피아노](../Page/피아노.md "wikilink")

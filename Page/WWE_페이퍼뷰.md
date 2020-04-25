@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [WWE 페이퍼뷰](https://ko.wikipedia.org/wiki/WWE_페이퍼뷰).
 
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:WMXXVIlive.jpg "wikilink") **WWE 페이퍼뷰**는 [WWE](https://ko.wikipedia.org/wiki/WWE "wikilink")에서 진행하는 [페이퍼뷰](https://ko.wikipedia.org/wiki/페이퍼뷰 "wikilink")를 말한다. 거의 한 달에 1회씩 진행되며, 레슬매니아를 제외한 나머지 페이퍼뷰는 모두 2시간 이상 진행이 된다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:WMXXVIlive.jpg "wikilink") **WWE 페이퍼뷰**는 [WWE](../Page/WWE.md "wikilink")에서 진행하는 [페이퍼뷰](https://ko.wikipedia.org/wiki/페이퍼뷰 "wikilink")를 말한다. 거의 한 달에 1회씩 진행되며, 레슬매니아를 제외한 나머지 페이퍼뷰는 모두 2시간 이상 진행이 된다.
 
 ## 역사
 
-과거 WWWF시절에는 페이퍼뷰가 없었다면 70\~80년 부터 페이퍼뷰가 시작되었다.또[WWE](https://ko.wikipedia.org/wiki/WWE "wikilink")역사상 최초로 알려진 페이 퍼 뷰는 WWF 시절 1985년 11월에 [시카고](../Page/시카고.md "wikilink")에서 열린 더 레슬링 클래식으로 알려져 있지만 실제로는 같은 해 3월에 펼치진 첫 번째 [레슬마니아](https://ko.wikipedia.org/wiki/레슬마니아 "wikilink")가 첫 페이 퍼 뷰이다. 처음 두 해의 레슬매니아가 성공가도를 달리게 되면서 레슬매니아 3가 프로레슬링 역사상 가장 유명해지게 되었고 페이 퍼 뷰 시스템의 확장으로 이어진다.
+과거 WWWF시절에는 페이퍼뷰가 없었다면 70\~80년 부터 페이퍼뷰가 시작되었다.또[WWE](../Page/WWE.md "wikilink")역사상 최초로 알려진 페이 퍼 뷰는 WWF 시절 1985년 11월에 [시카고](../Page/시카고.md "wikilink")에서 열린 더 레슬링 클래식으로 알려져 있지만 실제로는 같은 해 3월에 펼치진 첫 번째 [레슬마니아](https://ko.wikipedia.org/wiki/레슬마니아 "wikilink")가 첫 페이 퍼 뷰이다. 처음 두 해의 레슬매니아가 성공가도를 달리게 되면서 레슬매니아 3가 프로레슬링 역사상 가장 유명해지게 되었고 페이 퍼 뷰 시스템의 확장으로 이어진다.
 
 1987년 11월 29일 첫 번째 [서바이벌 시리즈는](../Page/서바이벌_시리즈.md "wikilink") NWA의 최대 페이 퍼 뷰인 스타케이드와 대결을 하게 된다. WWE는 케이블 채널들이 스타케이드를 방영할 경우 앞으로 있을 WWE 페이 퍼 뷰 방영을 금지하도록 하였다. 그리하여 대부분의 메이저급 채널들은 서바이벌 시리즈를 방영하게 되었고 그 결과 스타케이드가 시청률이 저조해지면서 짐 크로켓 프로모션을 파산하게 된다. 1988년 1월 USA 네트워크를 통해 첫 번째 [로얄 럼블이](https://ko.wikipedia.org/wiki/로얄_럼블 "wikilink") 방영되었는데 USA 네트워크 역사상 최고의 시청률을 자랑하면서 로얄럼블은 1989년부터 페이 퍼 뷰가 된다.
 

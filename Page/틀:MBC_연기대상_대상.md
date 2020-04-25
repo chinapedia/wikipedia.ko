@@ -31,7 +31,7 @@
   - [김선아](../Page/김선아.md "wikilink") (2005)
   - [송일국](../Page/송일국.md "wikilink") (2006)
   - [배용준](../Page/배용준.md "wikilink") (2007)
-  - [김명민](../Page/김명민.md "wikilink"), [송승헌](../Page/송승헌.md "wikilink") (2008)
+  - [김명민](../Page/김명민.md "wikilink")·[송승헌](../Page/송승헌.md "wikilink") (2008)
   - [고현정](../Page/고현정.md "wikilink") (2009)
 
 |묶음4 = 2010년대 |내용4 =
@@ -47,4 +47,4 @@
   - [소지섭](../Page/소지섭.md "wikilink") (2018)
   - [김동욱](../Page/김동욱_\(배우\).md "wikilink") (2019)
 
-|아랫글모양 = background: \#C33232; color:white; |아랫글 = \[\[틀:MBC_연기대상_대상| \[\[틀:MBC_연기대상_남자_최우수연기상| \[\[틀:MBC_연기대상_여자_최우수연기상| \[\[틀:MBC_연기대상_남자_우수연기상| \[\[틀:MBC_연기대상_여자_우수연기상|<includeonly>[분류:MBC 연기대상 대상 수상자](https://ko.wikipedia.org/wiki/분류:MBC_연기대상_대상_수상자 "wikilink")</includeonly></onlyinclude> <noinclude> [\*](https://ko.wikipedia.org/wiki/분류:MBC_연기대상 "wikilink") [분류:방송에 관한 둘러보기 틀](https://ko.wikipedia.org/wiki/분류:방송에_관한_둘러보기_틀 "wikilink") [\*](https://ko.wikipedia.org/wiki/분류:문화방송의_텔레비전_드라마 "wikilink") </noinclude>
+|아랫글모양 = background: \#C33232; color:white; |아랫글 = \[\[틀:MBC_연기대상_대상| \[\[틀:MBC_연기대상_남자_최우수연기상| \[\[틀:MBC_연기대상_여자_최우수연기상| \[\[틀:MBC_연기대상_남자_우수연기상| \[\[틀:MBC_연기대상_여자_우수연기상| \[\[틀:MBC_연기대상_남자_신인상| \[\[틀:MBC_연기대상_여자_신인상| \[\[틀:MBC_연기대상_청소년_아역상|<includeonly>[분류:MBC 연기대상 대상 수상자](https://ko.wikipedia.org/wiki/분류:MBC_연기대상_대상_수상자 "wikilink")</includeonly></onlyinclude> <noinclude> [\*](https://ko.wikipedia.org/wiki/분류:MBC_연기대상 "wikilink") [분류:방송에 관한 둘러보기 틀](https://ko.wikipedia.org/wiki/분류:방송에_관한_둘러보기_틀 "wikilink") [\*](https://ko.wikipedia.org/wiki/분류:문화방송의_텔레비전_드라마 "wikilink") </noinclude>

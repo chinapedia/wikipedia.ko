@@ -1,11 +1,9 @@
 > This article is converted from Wikipedia: [7icons](https://ko.wikipedia.org/wiki/7icons).
 
 
-**7icons**(세븐 아이콘스)는 [인도네시아](../Page/인도네시아.md "wikilink")의 [걸 그룹이다](../Page/걸_그룹.md "wikilink"). [2010년](../Page/2010년.md "wikilink") [10월 28일](../Page/10월_28일.md "wikilink") 데뷔하였다 사람들. 7(세븐) 완벽합니다. Icon(아이콘) 선구자. ICONIA(아이코니아)는 의 팬을위한 이름입니다 세븐 아이콘스.\[1\]\[2\]\[3\]\[4\]
+**7icons**(세븐 아이콘스)는 [인도네시아](../Page/인도네시아.md "wikilink")의 [걸 그룹이다](../Page/걸_그룹.md "wikilink"). [2010년](../Page/2010년.md "wikilink") [10월 28일](../Page/10월_28일.md "wikilink") 데뷔하였다. ICONIA(아이코니아)는 7icons의 팬을 위한 이름이다.\[1\]\[2\]\[3\]\[4\]
 
 ## 구성원
-
-그들은 문자의 각으로 표현
 
 <table>
 <thead>
