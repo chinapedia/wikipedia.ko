@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [RZD 아레나](https://ko.wikipedia.org/wiki/RZD_아레나).
 
 
-**RZD 아레나**()는 [러시아](../Page/러시아.md "wikilink") [모스크바](../Page/모스크바.md "wikilink")에 위치한 [축구](../Page/축구.md "wikilink") 경기장으로 [FC 로코모티프 모스크바의](../Page/FC_로코모티프_모스크바.md "wikilink") 홈 구장으로 사용되고 있으며, [러시아 축구 국가대표팀의](../Page/러시아_축구_국가대표팀.md "wikilink") [2010년 FIFA 월드컵 예선](../Page/2010년_FIFA_월드컵_예선.md "wikilink") 경기들의 홈 구장으로 사용되었다. [2002년](../Page/2002년.md "wikilink") [7월 5일에](../Page/7월_5일.md "wikilink") 개장하였으며 수용 인원은 27,320명 이다.\[1\] 이 경기장이 재건축될 때, [러시아 철도에서](../Page/러시아_철도.md "wikilink") 1.7억 \~ 1.5억 [달러](../Page/달러.md "wikilink") 규모의 지원금을 지원했다.
+**RZD 아레나**()는 [러시아](../Page/러시아.md "wikilink") [모스크바](../Page/모스크바.md "wikilink")에 위치한 [축구](../Page/축구.md "wikilink") 경기장으로 [FC 로코모티프 모스크바의](../Page/FC_로코모티프_모스크바.md "wikilink") 홈 구장으로 사용되고 있으며, [러시아 축구 국가대표팀의](../Page/러시아_축구_국가대표팀.md "wikilink") [2010년 FIFA 월드컵 예선](../Page/2010년_FIFA_월드컵_예선.md "wikilink") 경기들의 홈 구장으로 사용되었다. [2002년](../Page/2002년.md "wikilink") [7월 5일에](../Page/7월_5일.md "wikilink") 개장하였으며 수용 인원은 27,320명이다.\[1\] 이 경기장이 재건축될 때, [러시아 철도에서](../Page/러시아_철도.md "wikilink") 1.7억 \~ 1.5억 [달러](../Page/달러.md "wikilink") 규모의 지원금을 지원했다.
 
 ## 역사
 

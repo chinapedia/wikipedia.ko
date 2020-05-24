@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [    \(Boy With Luv\)](https://ko.wikipedia.org/wiki/____\(Boy_With_Luv\)).
+> This article is converted from Wikipedia: [작은 것들을 위한 시 \(Boy With Luv\)](https://ko.wikipedia.org/wiki/작은_것들을_위한_시_\(Boy_With_Luv\)).
 
 
-《**작은 것들을 위한 시 (Boy With Luv)**》는 2019년 4월 12일에 발매된 [방탄소년단](../Page/방탄소년단.md "wikilink")의 여섯 번째 [미니 음반](https://ko.wikipedia.org/wiki/미니_음반 "wikilink") 《[MAP OF THE SOUL : PERSONA](../Page/MAP_OF_THE_SOUL_:_PERSONA.md "wikilink")》의 타이틀 곡이다.\[1\]
+《**작은 것들을 위한 시 (Boy With Luv)**》는 2019년 4월 12일에 발매된 [대한민국](../Page/대한민국.md "wikilink")의 [보이 그룹](https://ko.wikipedia.org/wiki/보이_그룹 "wikilink") [방탄소년단](../Page/방탄소년단.md "wikilink")의 여섯 번째 [미니 음반](https://ko.wikipedia.org/wiki/미니_음반 "wikilink") 《[MAP OF THE SOUL : PERSONA](../Page/MAP_OF_THE_SOUL_:_PERSONA.md "wikilink")》의 타이틀 곡이다.\[1\]
 
 ## 뮤직 비디오
 

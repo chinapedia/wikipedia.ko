@@ -58,7 +58,7 @@ point(a*200,200-x*100);
 var processingInstance = new Processing(canvas, sketchProc);
 ```
 
-## 함께보기
+## 같이 보기
 
   - [프로세싱](../Page/프로세싱_\(프로그래밍_언어\).md "wikilink")
   - [JQuery](../Page/JQuery.md "wikilink")

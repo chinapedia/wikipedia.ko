@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ Q \(Y-DNA\)](https://ko.wikipedia.org/wiki/_Q_\(Y-DNA\)).
+> This article is converted from Wikipedia: [하플로그룹 Q \(Y-DNA\)](https://ko.wikipedia.org/wiki/하플로그룹_Q_\(Y-DNA\)).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Haplogroup_Q_\(Y-DNA\).PNG "wikilink") **하플로그룹 Q** (M242)는 [인류 Y-염색체 DNA 하플로그룹의](https://ko.wikipedia.org/wiki/인류_Y-염색체_DNA_하플로그룹 "wikilink") 일종으로, M242, P36.2, MEH2의 SNP 변이에 의하여 특정되는 그룹이다. [아메리카 원주민](../Page/아메리카_원주민.md "wikilink") 중 대부분이 Q에 해당하는데, 아메리카 원주민에게서는 북부를 중심으로 C2나 R1도 발견되기는 하나 Q가 압도적이며, 특히 남아메리카 지역의 원주민에게서는 90% 이상으로 나타난다.

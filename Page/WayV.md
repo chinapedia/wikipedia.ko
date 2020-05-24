@@ -3,7 +3,7 @@
 
 **WayV (威神V)**는 2019년 1월 17일 디지털싱글 'The Vision - The 1st Digital EP'로 데뷔한 [대한민국](../Page/대한민국.md "wikilink") [SM 엔터테인먼트](../Page/SM_엔터테인먼트.md "wikilink") 소속 [중화권](https://ko.wikipedia.org/wiki/중화권 "wikilink") 아이돌이다.
 
-WayV의 멤버는 쿤, [텐](../Page/텐_\(가수\).md "wikilink"), [윈윈](../Page/윈윈.md "wikilink"), 루카스, 샤오쥔, [헨드리](https://ko.wikipedia.org/wiki/헨드리_\(가수\) "wikilink"), 양양으로 7명이다.
+WayV의 멤버는 쿤, [텐](../Page/텐_\(가수\).md "wikilink"), [윈윈](../Page/윈윈.md "wikilink"), 루카스, 샤오쥔, [헨드리](../Page/헨드리_\(가수\).md "wikilink"), 양양으로 7명이다.
 
 2019년 1월 17일에 발매된 WayV의 첫 음원 'The Vision - The 1st Digital EP'는 타이틀곡인 '理所当然 (Regular)'와 噩梦 (COME BACK), 梦想发射计划 (Dream Launch) 세 곡이 수록됐다. 음원 발매와 동시에 중국 음원 사이트 QQMusic 인기차트에서 2위, 12개 나라 아이튠즈 차트에서 1위를 기록했다. 이후에도 빌보드 디지털 송 세일즈 3위, 소셜50 차트 4위, 이머징 아티스트 차트 16위 등을 기록했다. 당시 중국 남자 아이돌 그룹 최고의 성적이었다.
 
@@ -82,7 +82,7 @@ WayV의 멤버 윈윈은 '우리의 사부(아문적사부)'에 [위샤오광](.
 </ul></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/헨드리_(가수)" title="wikilink">헨드리</a></strong></p></td>
+<td><p><strong><a href="../Page/헨드리_(가수).md" title="wikilink">헨드리</a></strong></p></td>
 <td></td>
 <td><ul>
 <li>본명 : 웡군항 ()</li>

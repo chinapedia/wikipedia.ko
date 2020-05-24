@@ -11,7 +11,7 @@ MPICH는 MPI 프로토콜을 준수함으로써 다른 MPI버전과의 호환성
 
 [아르곤 국립 연구소](https://ko.wikipedia.org/wiki/아르곤_국립_연구소 "wikilink")(Argonne National Laboratory)는 공개 소프트웨어로 초기 버전 (MPICH-1)을 개발했다. 이름의 CH 부분은 MPICH의 창시자 중 한 사람인 William Gropp가 개발한 휴대용 병렬 프로그래밍 라이브러리인 "Chameleon"에서 파생되었다.\[3\]
 
-## 함께보기
+## 같이 보기
 
   - [openMPI](https://ko.wikipedia.org/wiki/openMPI "wikilink")
   - [클러스터 컴퓨팅](https://ko.wikipedia.org/wiki/클러스터_컴퓨팅 "wikilink")

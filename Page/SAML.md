@@ -23,7 +23,7 @@ SAML은 V1.0 이후로 마이너 버전과 메이저 버전이 있다.
   - [SAML 1.1은](https://ko.wikipedia.org/wiki/SAML_1.1 "wikilink") 2003년 9월 OASIS 표준으로 승인되었다
   - [SAML 2.0은](https://ko.wikipedia.org/wiki/SAML_2.0 "wikilink") 2005년 3월 OASIS 표준으로 되었다
 
-리버티 얼라이언스는 ID-FF(Identity Federation Framework)를 2003년 0월 OASIS SSTC에 기여하였다:
+리버티 얼라이언스는 ID-FF(Identity Federation Framework)를 2003년 OASIS SSTC에 기여하였다:
 
   - ID-FF 1.1은 2003년 4월에 출시되었다
   - ID-FF 1.2는 2003년 11월에 완성되었다

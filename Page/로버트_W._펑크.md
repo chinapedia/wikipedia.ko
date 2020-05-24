@@ -7,7 +7,7 @@
 
 펑크는 [버틀러 대학교](https://ko.wikipedia.org/wiki/버틀러_대학교 "wikilink") (Butler University)과 그 부속 기독교 신학교 (Christian Theological Seminary)에서 1950년과 1951년에 학사 학위와 석사 학위를 받았으며, [밴더빌트 대학교에서](../Page/밴더빌트_대학교.md "wikilink") 1953년 박사 학위를 받았으며 구겐하임 펠로십와 시니어 풀 브라이트 장학생이었다. 그는 예루살렘에있는 미국 동양 연구 학교에서 가르쳤으며 [밴더빌트 대학교](../Page/밴더빌트_대학교.md "wikilink") (Vanderbilt University) 대학원 대학원장과 [성서 학회](https://ko.wikipedia.org/wiki/성서_학회 "wikilink") (Biblical Literature Society) 사무 총장을 역임했다. 그는 Scholars Press (1974-1980)의 창립자이자 초대 이사였다.
 
-## 함께 보기
+## 같이 보기
 
   - [존 도미니크 크로산](../Page/존_도미니크_크로산.md "wikilink")
   - [마커스 보그](../Page/마커스_보그.md "wikilink")

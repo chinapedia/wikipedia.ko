@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  X](https://ko.wikipedia.org/wiki/__X).
+> This article is converted from Wikipedia: [아메리칸 히스토리 X](https://ko.wikipedia.org/wiki/아메리칸_히스토리_X).
 
 
 《**아메리칸 히스토리 X**》(American History X)는 미국에서 제작된 [토니 케이](https://ko.wikipedia.org/wiki/토니_케이 "wikilink") 감독의 1998년 범죄, 스릴러, 드라마 영화이다. [에드워드 노튼](https://ko.wikipedia.org/wiki/에드워드_노튼 "wikilink") 등이 주연으로 출연하였고 [존 모리세이](https://ko.wikipedia.org/wiki/존_모리세이 "wikilink") 등이 제작에 참여하였다.

@@ -67,7 +67,7 @@
   - *Incarnation: The Person and Life of Christ*. Edited by Robert T. Walker. Downers Grove, Illinois: InterVarsity Press, 2008.
   - *Atonement: The Person and Work of Christ*. Edited by Robert T. Walker. Downers Grove, Illinois: InterVarsity Press, 2009.
 
-## 함께보기
+## 같이 보기
 
   - [토렌스 가문](https://ko.wikipedia.org/wiki/토렌스_가문 "wikilink")
 

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [LCP ](https://ko.wikipedia.org/wiki/LCP_).
+> This article is converted from Wikipedia: [LCP 배열](https://ko.wikipedia.org/wiki/LCP_배열).
 
 
 <table>

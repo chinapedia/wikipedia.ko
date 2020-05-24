@@ -30,7 +30,7 @@
 
   - Editor or author of more than 75 publications, including *The Whole Counsel of God *(his multi-volume systematic theology), Calvin’s *Old Testament Commentaries*, *A Handbook for Calvin’s Institutes*, and *Calvin and the Church.*
 
-## 함께보기
+## 같이 보기
 
   - [간결성과 용이성](../Page/간결성과_용이성.md "wikilink")
   - [:en:Brevitas et facilitas](https://ko.wikipedia.org/wiki/:en:Brevitas_et_facilitas "wikilink")

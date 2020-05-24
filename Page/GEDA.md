@@ -14,7 +14,7 @@ gEDA에서 g는 GNU를 EDA는 전자 설계 자동화(Electronic Design Automati
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Pcb_eda.png "wikilink") gEDA프로젝트에서는 [PCB](https://ko.wikipedia.org/wiki/PCB "wikilink")를 설계할수있는 라이브러리를 포함하는 [CAD](https://ko.wikipedia.org/wiki/CAD "wikilink")프로그램인 'PCB'를 배포하고 있다. PCB는 Unix, Linux, Windows 및 Mac 시스템용 [인쇄 회로 기판](../Page/인쇄_회로_기판.md "wikilink") 편집기이다. PCB는 래트 네스트 기능과 회로도 / 네트리스트 가져 오기, 디자인 규칙 검사를 포함하여 보드 제조 및 조립 과정에서 사용하기 위한 산업 표준 RS-274X (일명 '[거버](../Page/거버_포맷.md "wikilink")'), NC 드릴 및 센트로이드 데이터 (XY 데이터) 출력 파일을 제공할수있다. 포토 리얼리즘 및 디자인 검토 이미지를 잘 나타낸다. PCB는 레이아웃 시간을 획기적으로 단축 할 수있는 오토 루프 및 트레이스 옵티 마이저와 같은 고급 기능을 제공한다. 커스텀 요구 사항을 위해 PCB는 새로운 기능을 삽입하고 GUI 내에서뿐 아니라 스크립트에서 그 기능을 사용하기위한 플러그인 API를 제공한다.\[1\]\[2\]
 
-## 함께보기
+## 같이 보기
 
   - [일렉트릭](../Page/일렉트릭.md "wikilink")
   - [Fritzing](../Page/Fritzing.md "wikilink")

@@ -13,7 +13,7 @@ CTAN은 독일의 라이너 쇼프(Rainer Schöpf) 와 요아킴 슈로드(Joach
 
 오늘날 주요 CTAN 노드는 전 세계 94개 미러 사이트를 제외하고 매월 6TB 이상 다운로드를 처리하고있다.
 
-## 함께 보기
+## 같이 보기
 
   - [OCR-A](../Page/OCR-A.md "wikilink")
   - [OCR-B](../Page/OCR-B.md "wikilink")

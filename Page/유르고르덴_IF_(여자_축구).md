@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ IF \( \)](https://ko.wikipedia.org/wiki/_IF_\(_\)).
+> This article is converted from Wikipedia: [유르고르덴 IF \(여자 축구\)](https://ko.wikipedia.org/wiki/유르고르덴_IF_\(여자_축구\)).
 
 
 **유르고르덴 IF 담**()은 [스웨덴](../Page/스웨덴.md "wikilink")의 수도 [스톡홀름](../Page/스톡홀름.md "wikilink")을 연고로 하는 [여자 축구](../Page/여자_축구.md "wikilink") 클럽이다. 2003년에 [유르고르덴 IF](../Page/유르고르덴_IF.md "wikilink") 산하 여성팀으로 설립되었으며, 2007년까지 **유르고르덴/엘브셰**(Djurgården/Älvsjö)라는 이름을 사용했다. 현재 스웨덴 여자 축구 최상위 리그인 [다말스벤스칸](../Page/다말스벤스칸.md "wikilink")에 참가하고 있다.

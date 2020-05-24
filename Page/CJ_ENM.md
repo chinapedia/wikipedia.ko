@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [CJ ENM](https://ko.wikipedia.org/wiki/CJ_ENM).
 
 
-**씨제이이엔엠 주식회사**(, 상표: **CJ ENM** - **CJ** **E**ntertainment **N** **M**erchandising)는 [CJ오쇼핑](../Page/CJ오쇼핑.md "wikilink")과[CJ E\&M(구)의](../Page/CJ_E&M.md "wikilink") 합병을 통해 2018년 7월 1일에 출범하였으며, 콘텐츠 사업과 커머스 사업을 통합한 [대한민국](../Page/대한민국.md "wikilink") 최초의 글로벌 융복합 콘텐츠 커머스 기업이다.
+**씨제이이엔엠 주식회사**(, 상표: **CJ ENM** - **CJ** **E**ntertainment **N** **M**erchandising)는 [CJ오쇼핑](../Page/CJ오쇼핑.md "wikilink")과 [CJ E\&M(구)의](../Page/CJ_E&M.md "wikilink") 합병을 통해 2018년 7월 1일에 출범하였으며, 콘텐츠 사업과 커머스 사업을 통합한 [대한민국](../Page/대한민국.md "wikilink") 최초의 글로벌 융복합 콘텐츠 커머스 기업이다.
 
 CJ ENM의 전신인 삼구쇼핑은 [1994년](../Page/1994년.md "wikilink") 10월 홈쇼핑 사업자로 선정되어 [1995년](../Page/1995년.md "wikilink") [8월 1일](../Page/8월_1일.md "wikilink") [대한민국](../Page/대한민국.md "wikilink")에서 최초로 홈쇼핑 채널을 개국하였다. 이후 [CJ그룹](../Page/CJ그룹.md "wikilink")에 인수되어 [CJ오쇼핑](../Page/CJ오쇼핑.md "wikilink")으로 사명을 변경하였다. CJ그룹 차원에서 콘텐츠 사업은 [CJ엔터테인먼트](../Page/CJ엔터테인먼트.md "wikilink")의 출범으로 시작되었으며, [CJ그룹](../Page/CJ그룹.md "wikilink")이 (구) [온미디어](../Page/온미디어.md "wikilink"),(구) [엠넷미디어](../Page/엠넷미디어.md "wikilink") 등을 인수하면서 그룹의 미디어 콘텐츠 사업도 확대되어갔으며, [CJ오쇼핑](../Page/CJ오쇼핑.md "wikilink") 또한 미디어 사업에 진출하였다.
 

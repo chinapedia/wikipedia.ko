@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [! TV](https://ko.wikipedia.org/wiki/!_TV).
+> This article is converted from Wikipedia: [전격! TV소환](https://ko.wikipedia.org/wiki/전격!_TV소환).
 
 
 《**전격\! TV소환**》은 [OBS경인TV](../Page/OBS경인TV.md "wikilink")의 프로그램에 대해 방송하는 시청자 옴부즈맨 프로그램이다.
@@ -11,7 +11,7 @@
 
   - [이상희](https://ko.wikipedia.org/wiki/이상희 "wikilink") 아나운서
 
-## 함께 보기
+## 같이 보기
 
   - [TV비평 시청자데스크](../Page/TV비평_시청자데스크.md "wikilink") (KBS)
   - [TV 속의 TV](../Page/TV_속의_TV.md "wikilink") (MBC)
@@ -26,4 +26,4 @@
 
   - [OBS경인TV 미디어 공감 좋은TV 공식 웹사이트](http://www.obs.co.kr/new/program/goodtv/?code=introduce&mt=static)
 
-[분류:경인TV의 시사교양 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:경인TV의_시사교양_텔레비전_프로그램 "wikilink")
+[분류:경인TV의 시사교양 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:경인TV의_시사교양_텔레비전_프로그램 "wikilink") [분류:2008년에 시작한 대한민국 TV 프로그램](https://ko.wikipedia.org/wiki/분류:2008년에_시작한_대한민국_TV_프로그램 "wikilink") [분류:2013년에 종료한 대한민국 TV 프로그램](https://ko.wikipedia.org/wiki/분류:2013년에_종료한_대한민국_TV_프로그램 "wikilink")

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [HTTP ](https://ko.wikipedia.org/wiki/HTTP_).
+> This article is converted from Wikipedia: [HTTP 압축](https://ko.wikipedia.org/wiki/HTTP_압축).
 
 
 **HTTP 압축**(HTTP compression)은 전송 속도와 대역폭 이용을 개선하기 위해 [웹 서버와](../Page/웹_서버.md "wikilink") [웹 브라우저에](../Page/웹_브라우저.md "wikilink") 빌드되는 기능이다.\[1\]
@@ -63,11 +63,11 @@ Content-Encoding: gzip
   - [Coding Horror: HTTP Compression on IIS 6.0](http://www.codinghorror.com/blog/2004/08/http-compression-and-iis-6-0.html)
 
   -
-  - [HTTP Compression](http://www.http-compression.com/): resource page by the founder of VIGOS AG, Constantin Rack
+  - [HTTP Compression](https://web.archive.org/web/20190921020705/http://www.http-compression.com/): resource page by the founder of VIGOS AG, Constantin Rack
 
   - [Using HTTP Compression](http://www.serverwatch.com/tutorials/article.php/3514866) by Martin Brown of Server Watch
 
-  - [Using HTTP Compression in PHP](http://www.devshed.com/c/a/PHP/Using-HTTP-Compression-in-PHP-Make-Your-Web-Pages-Load-Faster/)
+  - [Using HTTP Compression in PHP](https://web.archive.org/web/20060411174003/http://www.devshed.com/c/a/PHP/Using-HTTP-Compression-in-PHP-Make-Your-Web-Pages-Load-Faster/)
 
   - [Dynamic and static HTTP compression with Apache httpd](https://web.archive.org/web/20120430023716/https://banu.com/blog/38/dynamic-and-static-http-compression-with-apache-httpd/)
 

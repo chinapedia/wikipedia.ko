@@ -1,22 +1,22 @@
-> This article is converted from Wikipedia: [AMD CPU  ](https://ko.wikipedia.org/wiki/AMD_CPU__).
+> This article is converted from Wikipedia: [AMD CPU 마이크로아키텍처 목록](https://ko.wikipedia.org/wiki/AMD_CPU_마이크로아키텍처_목록).
 
 
 아래는 **[AMD](../Page/어드밴스트_마이크로_디바이시스.md "wikilink") [CPU](../Page/중앙_처리_장치.md "wikilink") [마이크로아키텍처](../Page/마이크로아키텍처.md "wikilink")**의 목록이다.
 
 ## 이름
 
-AMD는 **K8**을 [애슬론 64](../Page/애슬론_64.md "wikilink") 프로세서 계열로 기술한 2005년을 이후로 공식 AMD 문서와 언론에서 [크립토나이트](../Page/어드밴스트_마이크로_디바이시스.md "wikilink")(Kryptonite)를 대표하는 K 명명법의 [코드명을](../Page/암호명.md "wikilink") 사용하지 않고 있다.\[1\] AMD는 현재 코드명 K8 프로세서를 패밀리 0Fh 프로세서로 이야기하고 있다. 10h와 0Fh는 [CPUID](../Page/CPUID.md "wikilink") [X86](../Page/X86.md "wikilink") 프로세서 명령의 주된 결과물을 이야기한다. [십육진법](../Page/십육진법.md "wikilink") 표기 0F(h) (여기서 *h*는 16진 표기를 의미)는 [십진](https://ko.wikipedia.org/wiki/십진법 "wikilink") 숫자 15를 의미하며, 10(h)는 십진 숫자 16과 동일하다. (가끔씩 나타나는 "K10h"는 "K" 코드와 "패밀리 XXh" 식별자 번호의 부적절한 결합이다.)
+AMD는 **K8**을 [애슬론 64](../Page/애슬론_64.md "wikilink") 프로세서 계열로 기술한 2005년을 이후로 공식 AMD 문서와 언론에서 [크립토나이트](../Page/어드밴스트_마이크로_디바이시스.md "wikilink")(Kryptonite)를 대표하는 K 명명법의 [코드명을](../Page/암호명.md "wikilink") 사용하지 않고 있다.\[1\] AMD는 현재 코드명 K8 프로세서를 패밀리 0Fh 프로세서로 이야기하고 있다. 10h와 0Fh는 [CPUID](../Page/CPUID.md "wikilink") [X86](../Page/X86.md "wikilink") 프로세서 명령의 주된 결과물을 이야기한다. [십육진법](../Page/십육진법.md "wikilink") 표기 0F(h) (여기서 *h*는 16진 표기를 의미)는 [십진](../Page/십진법.md "wikilink") 숫자 15를 의미하며, 10(h)는 십진 숫자 16과 동일하다. (가끔씩 나타나는 "K10h"는 "K" 코드와 "패밀리 XXh" 식별자 번호의 부적절한 결합이다.)
 
-| 계열 번호                                               | [이름](../Page/암호명.md "wikilink")       |
-| --------------------------------------------------- | ------------------------------------- |
-| [십진법](https://ko.wikipedia.org/wiki/십진법 "wikilink") | [16진](../Page/십육진법.md "wikilink") (h) |
-| 15                                                  | 0Fh                                   |
-| 16                                                  | 10h                                   |
-| 20                                                  | 14h                                   |
-| 21                                                  | 15h                                   |
-| 22                                                  | 16h                                   |
-| 23                                                  | 17h                                   |
-|                                                     |                                       |
+| 계열 번호                            | [이름](../Page/암호명.md "wikilink")       |
+| -------------------------------- | ------------------------------------- |
+| [십진법](../Page/십진법.md "wikilink") | [16진](../Page/십육진법.md "wikilink") (h) |
+| 15                               | 0Fh                                   |
+| 16                               | 10h                                   |
+| 20                               | 14h                                   |
+| 21                               | 15h                                   |
+| 22                               | 16h                                   |
+| 23                               | 17h                                   |
+|                                  |                                       |
 
 ## x86 마이크로아키텍처
 

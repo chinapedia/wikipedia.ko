@@ -22,15 +22,15 @@
   - 2018년 10월 8일 청하 - **여우각시별 OST Part.1**
   - 2018년 12월 17일 청하 - **\[Digital Single\] Whatcha Doin**\[10\]
   - 2019년 1월 2일 청하 - **\[Digital Single\] 벌써 12시**
-  - 2019년 4월 10일 [BVNDIT](../Page/BVNDIT.md "wikilink") - **BVNDIT, BE AMBITIOUS\!**
+  - 2019년 4월 10일 [밴디트](https://ko.wikipedia.org/wiki/밴디트_\(음악_그룹\) "wikilink") - **BVNDIT, BE AMBITIOUS\!**
   - 2019년 4월 13일 청하 - **\[Digital Single\] 유희열의 스케치북 10주년 프로젝트 : 여섯 번째 목소리 \`유스케 X 청하\`**
   - 2019년 4월 20일 청하 - **\[Digital Single\] 유희열의 스케치북 10주년 프로젝트 : 여섯 번째 목소리 \`유스케 X 청하\`**
-  - 2019년 5월 15일 BVNDIT - **\[Digital Single\] Dramatic**
+  - 2019년 5월 15일 밴디트 - **\[Digital Single\] Dramatic**
   - 2019년 6월 24일 청하 - **Flourishing**
   - 2019년 8월 3일 청하 - **호텔 델루나 OST Part.6**
   - 2019년 8월 22일 청하 - **\[Digital Single\] Run**\[11\]
   - 2019년 9월 8일 청하 - **\[Digital Single\] 달려**\[12\]
-  - 2019년 11월 5일 BVNDIT - **BE\!**
+  - 2019년 11월 5일 밴디트 - **BE\!**
 
 ## 2020년 \~ 2022년
 
@@ -38,8 +38,9 @@
   - 2020년 2월 4일 청하 - **낭만닥터 김사부 2 OST Part.8**
   - 2020년 2월 6일 밴디트 - **\[Digital Single\] Cool.newwav**
   - 2020년 2월 29일 청하 - **\[Digital Single\] 솔직히 지친다 New.wav**
-  - 2020년 4월 20일 밴디트 - **\[Digital Single\] Children**
-  - 2020년 4월 27일 청하 - **\[Digital Single\] \#1**
+  - 2020년 4월 20일 밴디트 - **\[Digital Single\] Children**\[14\]
+  - 2020년 4월 27일 청하 - **\[Digital Single\] Stay Tonight**\[15\]
+  - 2020년 5월 13일 밴디트 - **Carnival**
 
 ## 각주
 
@@ -58,3 +59,5 @@
 11. [그리즐리도](https://ko.wikipedia.org/wiki/그리즐리_\(가수\) "wikilink") 앨범 참여.
 12. [마미손](../Page/마미손.md "wikilink")도 앨범 참여.
 13. [폴킴](https://ko.wikipedia.org/wiki/폴킴 "wikilink")도 앨범 참여.
+14. 미니 2집의 선공개곡.
+15. 김청하 정규 1집의 선공개곡.

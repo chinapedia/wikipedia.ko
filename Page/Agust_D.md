@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [Agust D](https://ko.wikipedia.org/wiki/Agust_D).
 
 
-《**Agust D**》는 2016년 대한민국의 래퍼인 [어거스트 디](https://ko.wikipedia.org/wiki/어거스트_디 "wikilink")([방탄소년단](../Page/방탄소년단.md "wikilink")의 [슈가](https://ko.wikipedia.org/wiki/슈가 "wikilink"))가 발표한 첫 [믹스테이프](https://ko.wikipedia.org/wiki/믹스테이프 "wikilink")이다. 2016년 8월 15일 [사운드클라우드](../Page/사운드클라우드.md "wikilink")를 통해 공개되었다. 슈가의 인생이야기 등을 들을 수 있는 믹스테이프이다.
+《**Agust D**》는 2016년 [대한민국](../Page/대한민국.md "wikilink")의 [보이그룹](https://ko.wikipedia.org/wiki/보이그룹 "wikilink") [방탄소년단](../Page/방탄소년단.md "wikilink")의 [슈가가](https://ko.wikipedia.org/wiki/슈가_\(래퍼\) "wikilink") 발표한 첫 [믹스테이프](https://ko.wikipedia.org/wiki/믹스테이프 "wikilink")이다. [2016년](../Page/2016년.md "wikilink") [8월 15일](../Page/8월_15일.md "wikilink") [사운드클라우드](../Page/사운드클라우드.md "wikilink")를 통해 공개되었다. 슈가의 인생이야기 등을 들을 수 있는 믹스테이프이다.
 
 ## 곡 목록
 
 **샘플링 사항**
 
-  - 〈Intro: Dt sugA〉와 〈Agust D〉는 [제임스 브라운의](../Page/제임스_브라운.md "wikilink") 〈[It's a Man's Man's Man's World](https://ko.wikipedia.org/wiki/It's_a_Man's_Man's_Man's_World "wikilink")〉를 샘플링하였다.\[1\]\[2\]
+  - 〈Intro: Dt sugA〉와 〈Agust D〉는 [제임스 브라운의](../Page/제임스_브라운.md "wikilink") 〈It's a Man's Man's Man's World〉를 샘플링하였다.\[1\]\[2\]
 
 ## 수록곡 설명
 

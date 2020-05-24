@@ -15,8 +15,8 @@
 
 이름, 생년월일, 이미지 컬러, 전원 [아이치현](../Page/아이치현.md "wikilink") 출신
 
-  - **[오구로 유즈키](https://ko.wikipedia.org/wiki/오구로_유즈키 "wikilink")**(, ) - <span style="color:purple">**보랏빛 퍼플(가)**</span>, 최연장자, 리더
-  - **[사쿠라 나오](https://ko.wikipedia.org/wiki/사쿠라_나오 "wikilink")**(, ) - <span style="color:blue">**메리지 블루**</span>, 서브리더
+  - **[오구로 유즈키](https://ko.wikipedia.org/wiki/오구로_유즈키 "wikilink")** (, ) - <span style="color:purple">**보랏빛 퍼플(가)**</span>, 최연장자, 리더
+  - **[사쿠라 나오](https://ko.wikipedia.org/wiki/사쿠라_나오 "wikilink")** (, ) - <span style="color:blue">**메리지 블루**</span>, 서브리더
   - [아키모토 호노카](https://ko.wikipedia.org/wiki/아키모토_호노카 "wikilink") (, ) - <span style="color:red">**나고야 레드**</span>
   - [사카모토 하루나](https://ko.wikipedia.org/wiki/사카모토_하루나 "wikilink") (, ) - <span style="color:green">**닭날개 키미도리**</span>, 최연소
 
@@ -367,7 +367,7 @@
   - [시리츠에비스추가쿠](../Page/시리츠에비스추가쿠.md "wikilink")
   - [다코야키 레인보우](../Page/다코야키_레인보우.md "wikilink")
   - [밧텐쇼죠타이](../Page/밧텐쇼죠타이.md "wikilink")
-  - [도키메키 센덴부](../Page/도키메키_센덴부.md "wikilink")
+  - [초 도키메키 센덴부](../Page/초_도키메키_센덴부.md "wikilink")
   - [하치미츠 로켓](../Page/하치미츠_로켓.md "wikilink")
   - [아메후라시](../Page/아메후라시.md "wikilink")
   - [ukka](https://ko.wikipedia.org/wiki/ukka "wikilink")

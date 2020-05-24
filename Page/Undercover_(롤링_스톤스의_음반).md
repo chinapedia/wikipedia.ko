@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Undercover \(  \)](https://ko.wikipedia.org/wiki/Undercover_\(__\)).
+> This article is converted from Wikipedia: [Undercover \(롤링 스톤스의 음반\)](https://ko.wikipedia.org/wiki/Undercover_\(롤링_스톤스의_음반\)).
 
 
 《**Undercover**》는 1983년에 발매된 [롤링 스톤스의](../Page/롤링_스톤스.md "wikilink") 열일곱 번째 [영국](../Page/영국.md "wikilink")의 스튜디오 음반이자 열아홉 번째 [미국](../Page/미국.md "wikilink")의 스튜디오 음반이다.
@@ -9,7 +9,7 @@
 
 ## 역사
 
-최근 레코딩 기술의 발전으로 인해, 롤링 스톤스가 [지미 밀러](https://ko.wikipedia.org/wiki/지미_밀러 "wikilink") 이후 최초로 사용한 외부 프로듀서인 [크리스 킴지에](https://ko.wikipedia.org/wiki/크리스_킴지 "wikilink") 의해 [믹 재거와](../Page/믹_재거.md "wikilink") [키스 리처즈가](../Page/키스_리처즈.md "wikilink") 프로듀서 자리에 공식적으로 합류하게 되었다. 그들은 1982년 11월 [프랑스](../Page/프랑스.md "wikilink") [파리의](../Page/파리_\(프랑스\).md "wikilink") 파테 마르코니 스튜디오에서 녹음을 시작했다. 크리스마스 휴일을 맞아 휴식을 취한 후, 그들은 다음 여름 [뉴욕](../Page/뉴욕.md "wikilink")에서 음반을 완성했다.
+최근 레코딩 기술의 발전으로 인해, 롤링 스톤스가 [지미 밀러](../Page/지미_밀러.md "wikilink") 이후 최초로 사용한 외부 프로듀서인 [크리스 킴지에](https://ko.wikipedia.org/wiki/크리스_킴지 "wikilink") 의해 [믹 재거와](../Page/믹_재거.md "wikilink") [키스 리처즈가](../Page/키스_리처즈.md "wikilink") 프로듀서 자리에 공식적으로 합류하게 되었다. 그들은 1982년 11월 [프랑스](../Page/프랑스.md "wikilink") [파리의](../Page/파리_\(프랑스\).md "wikilink") 파테 마르코니 스튜디오에서 녹음을 시작했다. 크리스마스 휴일을 맞아 휴식을 취한 후, 그들은 다음 여름 [뉴욕](../Page/뉴욕.md "wikilink")에서 음반을 완성했다.
 
 《Undercover》의 제작은 힘든 과정이었는데, 주로 재거와 리처즈의 유명한 1980년대 중반 행이 이 세션에서 시작되었기 때문이다. 재거는 새로운 스타일을 잘 알고 있었고 롤링 스톤스를 최신의 실험적인 것으로 유지하고 싶어했고, 리처즈는 겉보기에는 밴드의 록 앤 블루스에 더 집중하고 있었다. 그 결과 마찰이 있었고, 앞으로 몇 년 동안 두 핵심 멤버 사이의 긴장이 높아질 것이다.
 

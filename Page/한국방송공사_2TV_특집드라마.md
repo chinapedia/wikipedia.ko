@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ 2TV ](https://ko.wikipedia.org/wiki/_2TV_).
+> This article is converted from Wikipedia: [한국방송공사 2TV 특집드라마](https://ko.wikipedia.org/wiki/한국방송공사_2TV_특집드라마).
 
 
 **한국방송공사 2TV 특집드라마**는 명절이나 특정한 기간으로 지정된 날이나 달을 기념하기 위해 부정기적으로 편성·방영되는 드라마이다.
@@ -135,7 +135,7 @@
 
 #### 2008년
 
-  - 《[新, 부부의 탄생](https://ko.wikipedia.org/wiki/신,_부부의_탄생 "wikilink")》 : 2008년 2월 5일 (설날 특집 드라마)
+  - 《[新, 부부의 탄생](../Page/신,_부부의_탄생.md "wikilink")》 : 2008년 2월 5일 (설날 특집 드라마)
   - 《[살아가는 동안 후회할 줄 알면서 저지르는 일들](../Page/살아가는_동안_후회할_줄_알면서_저지르는_일들.md "wikilink")》 : 2008년 6월 9일 \~ 2008년 9월 15일 (특집 테마 드라마)
 
 ### 2010년대 전반

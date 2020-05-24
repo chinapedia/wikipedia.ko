@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TBN  \(\)](https://ko.wikipedia.org/wiki/TBN__\(\)).
+> This article is converted from Wikipedia: [TBN 차차차 \(경북\)](https://ko.wikipedia.org/wiki/TBN_차차차_\(경북\)).
 
 
 **TBN 차차차**는 [TBN 경북교통방송](https://ko.wikipedia.org/wiki/경북교통방송 "wikilink")(포항 FM 103.5㎒, 울진 FM 103.7㎒)에서 매일 낮 12시 5분부터 2시까지 방송되는 경북 동해안권 지역의 라디오 음악 프로그램이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  TV](https://ko.wikipedia.org/wiki/__TV).
+> This article is converted from Wikipedia: [미디어 공감 좋은TV](https://ko.wikipedia.org/wiki/미디어_공감_좋은TV).
 
 
 《**미디어 공감 좋은TV**》는 [OBS경인TV](../Page/OBS경인TV.md "wikilink")의 프로그램에 대해 방송하는 시청자 옴부즈맨 프로그램이다.
@@ -42,7 +42,7 @@
   - TV수행평가 : 교수, 기자, 방송작가, 방송평론가 등으로 구성된 전문 패널리스트들이 스튜디오에 직접 출연하여 한 주간 방송된 OBS의 프로그램 중 선정된 프로그램을 집중 분석하고 이를 통해 프로그램의 개선점을 찾음과 아울러 발전 방안을 심도 있게 제안하는 코너
   - OBS 골라보기 : OBS에서 방송중이거나 방송 예정인 프로그램을 재미있는 하이라이트로 소개하여 시청자들이 OBS의 좋은 프로그램들을 보다 친숙하고 가깝게 시청할 수 있도록 안내하는 프로그램 가이드
 
-## 함께 보기
+## 같이 보기
 
   - [TV비평 시청자데스크](../Page/TV비평_시청자데스크.md "wikilink") (KBS)
   - [탐나는 TV](../Page/탐나는_TV.md "wikilink") (MBC)
@@ -51,8 +51,8 @@
   - [열린비평 TV를 말하다](../Page/열린비평_TV를_말하다.md "wikilink") (TV조선)
   - [열린TV 열린세상](../Page/열린TV_열린세상.md "wikilink") (MBN)
   - [채널A 시청자 마당](../Page/채널A_시청자_마당.md "wikilink") (채널A)
-  - [바로보는TV 옴부즈맨](https://ko.wikipedia.org/wiki/바로보는TV_옴부즈맨 "wikilink") (연합뉴스TV)
-  - [클릭 KNN 시청자 세상](https://ko.wikipedia.org/wiki/클릭_KNN_시청자_세상 "wikilink") (KNN)
+  - [바로보는TV 옴부즈맨](../Page/바로보는TV_옴부즈맨.md "wikilink") (연합뉴스TV)
+  - [클릭 KNN 시청자 세상](../Page/클릭_KNN_시청자_세상.md "wikilink") (KNN)
   - [열린TBC](../Page/열린TBC.md "wikilink") (TBC 대구방송)
   - [kbc 열린 TV 시청자세상](../Page/열린_TV_시청자세상_\(텔레비전_프로그램\).md "wikilink") (kbc 광주방송)
 
@@ -60,4 +60,4 @@
 
   - [OBS경인TV 미디어 공감 좋은TV 공식 웹사이트](http://www.obs.co.kr/new/program/goodtv/?code=introduce&mt=static)
 
-[분류:경인TV의 시사교양 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:경인TV의_시사교양_텔레비전_프로그램 "wikilink")
+[분류:경인TV의 시사교양 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:경인TV의_시사교양_텔레비전_프로그램 "wikilink") [분류:2013년에 시작한 대한민국 TV 프로그램](https://ko.wikipedia.org/wiki/분류:2013년에_시작한_대한민국_TV_프로그램 "wikilink")

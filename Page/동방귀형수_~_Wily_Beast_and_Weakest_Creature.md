@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ \~ Wily Beast and Weakest Creature](https://ko.wikipedia.org/wiki/_\~_Wily_Beast_and_Weakest_Creature).
+> This article is converted from Wikipedia: [동방귀형수 \~ Wily Beast and Weakest Creature](https://ko.wikipedia.org/wiki/동방귀형수_\~_Wily_Beast_and_Weakest_Creature).
 
 
 《**동방귀형수 \~ Wily Beast and Weakest Creature**》()는 [동방 프로젝트의](../Page/동방_프로젝트.md "wikilink") 열일곱번째 시리즈 게임이다. [2019년](../Page/2019년.md "wikilink") [5월 5일에](../Page/5월_5일.md "wikilink") 개최된 제16회 하쿠레이 신사 봄 예대제에서 체험판이 발매되었으며, [2019년](../Page/2019년.md "wikilink") [8월 12일](../Page/8월_12일.md "wikilink") [C96에서](https://ko.wikipedia.org/wiki/코믹_마켓 "wikilink") 정식판이 발매되었다.

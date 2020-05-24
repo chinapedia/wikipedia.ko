@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [New Jersey \(\)](https://ko.wikipedia.org/wiki/New_Jersey_\(\)).
+> This article is converted from Wikipedia: [New Jersey \(음반\)](https://ko.wikipedia.org/wiki/New_Jersey_\(음반\)).
 
 
 《**New Jersey**》는 1988년 9월 19일 [머큐리 레코드를](../Page/머큐리_레코드.md "wikilink") 통해 발매된 [미국](../Page/미국.md "wikilink")의 록 밴드 [본 조비의](../Page/본_조비.md "wikilink") 네 번째 스튜디오 음반이다. 이 음반은 [브루스 페어번이](https://ko.wikipedia.org/wiki/브루스_페어번 "wikilink") 프로듀싱했고 [캐나다](../Page/캐나다.md "wikilink") [브리티시컬럼비아주](../Page/브리티시컬럼비아주.md "wikilink") [밴쿠버](https://ko.wikipedia.org/wiki/밴쿠버 "wikilink")의 [리틀 마운틴 사운드 스튜디오에서](https://ko.wikipedia.org/wiki/리틀_마운틴_사운드_스튜디오 "wikilink") 녹음되었다.

@@ -12,7 +12,7 @@
   - *Inleiding in de zendingswetenschap' - Kampen 1954; translated as* An Introduction to the Science of Missions *- 1960*
   - *The Church Between Temple and Mosque – A Study of the Relationship Between the Christian Faith and Other Religions* - Grand Rapids 1966
 
-## 함께보기
+## 같이 보기
 
   - [헤르만 바빙크](../Page/헤르만_바빙크.md "wikilink")
 

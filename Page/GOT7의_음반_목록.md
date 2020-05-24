@@ -64,7 +64,7 @@
 <td><p>2</p></td>
 </tr>
 <tr class="odd">
-<td><p><em><a href="https://ko.wikipedia.org/wiki/FLIGHT_LOG_:_TURBULANCE" title="wikilink">FLIGHT LOG : TURBULANCE</a></em></p></td>
+<td><p><em><a href="https://ko.wikipedia.org/wiki/FLIGHT_LOG_:_TURBULENCE" title="wikilink">FLIGHT LOG : TURBULENCE</a></em></p></td>
 <td><ul>
 <li>수록곡:</li>
 </ul>

@@ -61,7 +61,7 @@
 
   - Stanley E. Porter and Anthony R. Cross, eds. *Semper Reformandum: Studies in Honour of Clark H. Pinnock* Carlisle, Cumbria: Paternoster Press, 2003.
 
-## 함께보기
+## 같이 보기
 
   - 열린 유신론
 

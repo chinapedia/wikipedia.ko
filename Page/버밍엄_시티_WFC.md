@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  WFC](https://ko.wikipedia.org/wiki/__WFC).
+> This article is converted from Wikipedia: [버밍엄 시티 WFC](https://ko.wikipedia.org/wiki/버밍엄_시티_WFC).
 
 
 **버밍엄 시티 WFC**()는 [잉글랜드](../Page/잉글랜드.md "wikilink") [버밍엄](../Page/버밍엄.md "wikilink")을 연고로 하는 [여자 축구](../Page/여자_축구.md "wikilink") 클럽이다. 현재 잉글랜드 여자 축구 최상위 리그인 [FA 여자 슈퍼리그에](../Page/FA_여자_슈퍼리그.md "wikilink") 참가하고 있다.

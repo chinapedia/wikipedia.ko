@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ A](https://ko.wikipedia.org/wiki/_A).
+> This article is converted from Wikipedia: [조효소 A](https://ko.wikipedia.org/wiki/조효소_A).
 
 
 **조효소 A**(, **CoA**)는 [지방산](https://ko.wikipedia.org/wiki/지방산 "wikilink")의 합성과 산화, [시트르산 회로에서](https://ko.wikipedia.org/wiki/시트르산_회로 "wikilink") [피루브산의 산화에](https://ko.wikipedia.org/wiki/피루브산의_산화 "wikilink") 중요한 역할을 하는 [조효소](https://ko.wikipedia.org/wiki/조효소 "wikilink")이다. 모든 [게놈](../Page/게놈.md "wikilink")들은 조효소 A를 [기질로](../Page/반응물.md "wikilink") 사용하는 [효소](../Page/효소.md "wikilink")들을 현재까지 암호화하고 있으며, [세포](../Page/세포.md "wikilink")에 존재하는 효소들의 약 4%는 기질로 조효소 A(또는 티오에스터)를 사용하고 있다. 사람의 경우 CoA의 생합성에는 [시스테인](../Page/시스테인.md "wikilink"), [판토텐산](../Page/판토텐산.md "wikilink")(비타민 B<sub>5</sub>), [아데노신 삼인산](../Page/아데노신_삼인산.md "wikilink")(ATP)이 필요하다.\[1\]
@@ -11,7 +11,7 @@
 
 ## 생합성
 
-조효소 A는 [고기](../Page/고기.md "wikilink"), [채소](../Page/채소.md "wikilink"), [곡물](https://ko.wikipedia.org/wiki/곡물 "wikilink"), [콩](../Page/콩_\(종\).md "wikilink"), [달걀](../Page/달걀.md "wikilink"), [우유](../Page/우유.md "wikilink")와 같은 음식에서 발견되는 [판토텐산](../Page/판토텐산.md "wikilink")(비타민 B<sub>5</sub>)으로부터 자연적으로 합성된다.\[8\] 사람과 대부분의 [생명체](https://ko.wikipedia.org/wiki/생명체 "wikilink")에서 판토텐산은 다양한 기능을 가진 필수 [비타민](../Page/비타민.md "wikilink")이다.\[9\] [대장균](../Page/대장균.md "wikilink")을 포함한 일부 [식물](../Page/식물.md "wikilink")과 [세균](../Page/세균.md "wikilink")에서 판토텐산은 새로이 합성될 수 있으므로 필수적인 것으로 간주되지 않는다. 이러한 세균은 [아미노산](../Page/아미노산.md "wikilink")인 [아스파르트산](https://ko.wikipedia.org/wiki/아스파르트산 "wikilink")으로부터 판토텐산을 합성하고, [발린](https://ko.wikipedia.org/wiki/발린 "wikilink") [생합성](https://ko.wikipedia.org/wiki/생합성 "wikilink")에서 대사 산물을 합성한다.\[10\]
+조효소 A는 [고기](../Page/고기.md "wikilink"), [채소](../Page/채소.md "wikilink"), [곡물](https://ko.wikipedia.org/wiki/곡물 "wikilink"), [콩](../Page/콩_\(종\).md "wikilink"), [달걀](../Page/달걀.md "wikilink"), [우유](../Page/우유.md "wikilink")와 같은 음식에서 발견되는 [판토텐산](../Page/판토텐산.md "wikilink")(비타민 B<sub>5</sub>)으로부터 자연적으로 합성된다.\[8\] 사람과 대부분의 [생명체](https://ko.wikipedia.org/wiki/생명체 "wikilink")에서 판토텐산은 다양한 기능을 가진 필수 [비타민](../Page/비타민.md "wikilink")이다.\[9\] [대장균](../Page/대장균.md "wikilink")을 포함한 일부 [식물](../Page/식물.md "wikilink")과 [세균](../Page/세균.md "wikilink")에서 판토텐산은 새로이 합성될 수 있으므로 필수적인 것으로 간주되지 않는다. 이러한 세균은 [아미노산](../Page/아미노산.md "wikilink")인 [아스파르트산](../Page/아스파르트산.md "wikilink")으로부터 판토텐산을 합성하고, [발린](https://ko.wikipedia.org/wiki/발린 "wikilink") [생합성](https://ko.wikipedia.org/wiki/생합성 "wikilink")에서 대사 산물을 합성한다.\[10\]
 
 모든 생명체에서 조효소 A는 [ATP](../Page/아데노신_삼인산.md "wikilink"), 판토텐산, [시스테인](../Page/시스테인.md "wikilink")의 분자들을 필요로 하는 5단계 과정으로 합성된다.\[11\] [섬네일](https://ko.wikipedia.org/wiki/파일:CoA_Biosynthetic_Pathway.png "wikilink")
 

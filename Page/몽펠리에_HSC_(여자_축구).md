@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ HSC \( \)](https://ko.wikipedia.org/wiki/_HSC_\(_\)).
+> This article is converted from Wikipedia: [몽펠리에 HSC \(여자 축구\)](https://ko.wikipedia.org/wiki/몽펠리에_HSC_\(여자_축구\)).
 
 
 **몽펠리에 에로 스포르 클뢰브**()는 [프랑스](../Page/프랑스.md "wikilink")의 [몽펠리에](../Page/몽펠리에.md "wikilink")를 연고로 하는 [여자 축구](../Page/여자_축구.md "wikilink") 클럽이다. [1990년](../Page/1990년.md "wikilink")에 [몽펠리에 HSC](../Page/몽펠리에_HSC.md "wikilink") 산하 여자 축구단으로 설립되었으며, 현재 [디비지옹 1 페미닌에](../Page/디비지옹_1_페미닌.md "wikilink") 참가하고 있다.

@@ -7,6 +7,6 @@
 
 ## 각주
 
-<references/>
+<references />
 
 [분류:태연의 음반](https://ko.wikipedia.org/wiki/분류:태연의_음반 "wikilink") [분류:2016년 EP](https://ko.wikipedia.org/wiki/분류:2016년_EP "wikilink") [분류:SM 엔터테인먼트 음반](https://ko.wikipedia.org/wiki/분류:SM_엔터테인먼트_음반 "wikilink") [분류:지니뮤직 음반](https://ko.wikipedia.org/wiki/분류:지니뮤직_음반 "wikilink") [분류:한국어 EP](https://ko.wikipedia.org/wiki/분류:한국어_EP "wikilink")

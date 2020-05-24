@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ISRO  ](https://ko.wikipedia.org/wiki/ISRO__).
+> This article is converted from Wikipedia: [ISRO 유인 우주선](https://ko.wikipedia.org/wiki/ISRO_유인_우주선).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Indian_Coast_Guard_CARE.jpg "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:GSLV_Mk_III_D2_on_Second_Launch_Pad_of_Satish_Dhawan_Space_Centre,_Sriharikota_\(SDSC_SHAR\).jpg "wikilink") 로켓\]\] **ISRO 유인 우주선**은 인도 [ISRO](https://ko.wikipedia.org/wiki/ISRO "wikilink")에서 개발중인 [유인 우주선이다](https://ko.wikipedia.org/wiki/유인_우주선 "wikilink").
@@ -7,7 +7,7 @@
 
 2006년에 개발이 시작되었으며, 2020년 무인 우주선으로 시험발사를 하고, 2021년 유인 발사를 할 계획이다.
 
-[GSLV-III](../Page/GSLV-III.md "wikilink") 로켓으로 발사 후 16분 이내에 3명을 태운 우주선이 지구 상공 300∼400㎞ 궤도에 진입하여, 5\~7일간 임무를 수행한 뒤 지구로 돌아와 [아라비아해](../Page/아라비아해.md "wikilink")에 낙하할 것이다. 무게 7톤, 지름 3.4m 이며, 개발비는 14억달러(약 1조5천600억원)로 정했다.
+[GSLV-III](../Page/GSLV-III.md "wikilink") 로켓으로 발사 후 16분 이내에 3명을 태운 우주선이 지구 상공 300∼400㎞ 궤도에 진입하여, 5\~7일간 임무를 수행한 뒤 지구로 돌아와 [아라비아해](../Page/아라비아해.md "wikilink")에 낙하할 것이다. 무게 7톤, 지름 3.4m이며, 개발비는 14억달러(약 1조5천600억원)로 정했다.
 
 지금까지 유인우주선 개발에 성공한 나라는 미국, 러시아, 중국 등 세 나라에 불과하다.
 

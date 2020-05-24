@@ -25,7 +25,7 @@ QCAD는 Linux, Mac OS X \[10.8 (Mountain Lion), 10.7 (Lion), 10.6 (Snow Leopard)
 
 QCAD는 Professional 버전과 Community 버전이 있다. 2018년 8월 19일 기준 Professional 버전은 33유로이고 기업용, 교육기관용은 가격이 달리 정해진다.\[3\] Community 버전은 무료이나 Professional 버전에서 여러 가지 애드온이 빠진 것이다. 이용자는 처음 Professional의 Trial 버전을 사용해보다가 구매를 결정하거나 애드온을 제거함으로써 Community 버전으로 전환할 수 있다.\[4\]
 
-## 함께보기
+## 같이 보기
 
   - [LibreCAD](../Page/LibreCAD.md "wikilink") - Qt4로부터 포팅된 QCAD 2.0 포크
   - [드래프트 사이트](https://ko.wikipedia.org/wiki/드래프트_사이트 "wikilink")

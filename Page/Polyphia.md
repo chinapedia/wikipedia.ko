@@ -176,7 +176,7 @@ Resurrect
 
 Polyphia가 2014년 정규 앨범 [Muse](https://www.youtube.com/watch?v=YdjIPSks2h0&list=PLX08FfZwmhby1t_-AXeNmuQbwKY4zljiP)를 발매하기전 2011년에 \[Resurrect(EP)\]와 2013년에 \[Inspire(EP)\]를 발매하였다. 이후 온라인 상에서 \[Muse\]의 앨범 작업을 위한 모금이 진행되었고, 팬들의 기부가 이어져 단독 앨범 발매에 성공한다. \[Muse\] 는 발매 후 빌보드 차트 탑 100 안에 들었고, 이를 주목한 뉴욕의 유명 레코드 사 'Equal Vision'이 Polyphia를 아티스트로 등록함으로써 \[Muse\]는 2015년에 다시 주목을 받는다.
 
-그리고 2016년 3월에 Equal Vision에서 폴리피아의 두번째 앨범인 \[Renaissance\]을 발매하게 되었다. 그리고 [The Most Hated](https://www.youtube.com/watch?v=7Zv4TxPnjOA&list=PLC1rBKrXhMM8fQdX9oji95XqMiTjz4VUQ)의 6번째 트랙인 “[40oz](https://www.youtube.com/watch?v=mxc9RQPKAC4&list=PLC1rBKrXhMM8fQdX9oji95XqMiTjz4VUQ&index=4)”은 폭풍과도 같은 테크니컬 적인 파편을 표현해내면서, 재즈, 알앤비, 일렉트로닉, 힙합 등 다양한 장르에 영감을 받아 '장르' 에 반항하는 성격을 갖는다. 
+그리고 2016년 3월에 Equal Vision에서 폴리피아의 두번째 앨범인 \[Renaissance\]을 발매하게 되었다. 그리고 [The Most Hated](https://www.youtube.com/watch?v=7Zv4TxPnjOA&list=PLC1rBKrXhMM8fQdX9oji95XqMiTjz4VUQ)의 6번째 트랙인 “[40oz](https://www.youtube.com/watch?v=mxc9RQPKAC4&list=PLC1rBKrXhMM8fQdX9oji95XqMiTjz4VUQ&index=4)”은 폭풍과도 같은 테크니컬 적인 파편을 표현해내면서, 재즈, 알앤비, 일렉트로닉, 힙합 등 다양한 장르에 영감을 받아 '장르' 에 반항하는 성격을 갖는다.
 
 기타리스트인 Timothy Henson은 다른 아티스트들의 장르에 영향을 받지 않기 위해 팝 이나 랩 음악에서 원초적인 음악의 영감을 받는다고 하였다.\[1\]
 

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:OrgSynth](https://ko.wikipedia.org/wiki/:OrgSynth).
+> This article is converted from Wikipedia: [틀:OrgSynth](https://ko.wikipedia.org/wiki/틀:OrgSynth).
 
 
 }}}}}}}}}}}}}}}}

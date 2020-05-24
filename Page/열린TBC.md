@@ -35,4 +35,4 @@
 ## 외부 링크
 
   -
-[분류:미종영 방송 프로그램](https://ko.wikipedia.org/wiki/분류:미종영_방송_프로그램 "wikilink") [분류:2010년대 대한민국의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:2010년대_대한민국의_텔레비전_프로그램 "wikilink")
+[분류:미종영 방송 프로그램](https://ko.wikipedia.org/wiki/분류:미종영_방송_프로그램 "wikilink") [분류:2010년대 대한민국의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:2010년대_대한민국의_텔레비전_프로그램 "wikilink") [분류:2010년에 시작한 대한민국 TV 프로그램](https://ko.wikipedia.org/wiki/분류:2010년에_시작한_대한민국_TV_프로그램 "wikilink")

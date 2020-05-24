@@ -149,7 +149,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/아이치_현" title="wikilink">아이치 현</a></p></td>
+<td><p><a href="../Page/아이치현.md" title="wikilink">아이치현</a></p></td>
 <td><p><a href="../Page/TV_아이치.md" title="wikilink">TV 아이치</a>（TVA）</p></td>
 <td></td>
 <td></td>
@@ -157,7 +157,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/오사카_부" title="wikilink">오사카 부</a></p></td>
+<td><p><a href="../Page/오사카부.md" title="wikilink">오사카부</a></p></td>
 <td><p><a href="../Page/TV_오사카.md" title="wikilink">TV 오사카</a>（TVO）</p></td>
 <td></td>
 <td></td>
@@ -173,7 +173,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/후쿠오카_현" title="wikilink">후쿠오카 현</a></p></td>
+<td><p><a href="../Page/후쿠오카현.md" title="wikilink">후쿠오카현</a></p></td>
 <td><p><a href="../Page/TVQ_규슈_방송.md" title="wikilink">TVQ 규슈 방송</a>（TVQ）</p></td>
 <td></td>
 <td></td>
@@ -181,7 +181,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/기후_현" title="wikilink">기후 현</a></p></td>
+<td><p><a href="../Page/기후현.md" title="wikilink">기후현</a></p></td>
 <td><p><a href="../Page/기후_방송.md" title="wikilink">기후 방송</a>（GBS）</p></td>
 <td><p><a href="../Page/전국_독립_방송_협의회.md" title="wikilink">JAITS 계열</a></p></td>
 <td></td>
@@ -189,7 +189,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/시가_현" title="wikilink">시가 현</a></p></td>
+<td><p><a href="../Page/시가현.md" title="wikilink">시가현</a></p></td>
 <td><p><a href="../Page/비와코_방송.md" title="wikilink">비와코 방송</a>（BBC）</p></td>
 <td></td>
 <td></td>
@@ -197,7 +197,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/나라_현" title="wikilink">나라 현</a></p></td>
+<td><p><a href="../Page/나라현.md" title="wikilink">나라현</a></p></td>
 <td><p><a href="../Page/나라_TV_방송.md" title="wikilink">나라 TV 방송</a>（TVN）</p></td>
 <td></td>
 <td></td>
@@ -205,7 +205,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/와카야마_현" title="wikilink">와카야마 현</a></p></td>
+<td><p><a href="../Page/와카야마현.md" title="wikilink">와카야마현</a></p></td>
 <td><p><a href="../Page/TV_와카야마.md" title="wikilink">TV 와카야마</a>（WTV）</p></td>
 <td></td>
 <td></td>
@@ -246,7 +246,7 @@ BS 테이터 방송</p></td>
 
 <references />
 
-## 함께 보기
+## 같이 보기
 
   - [TV 도쿄 월요일 밤 10시 드라마](../Page/TV_도쿄_월요일_밤_10시_드라마.md "wikilink")
       - 《[최상의 명의](../Page/최상의_명의.md "wikilink")》

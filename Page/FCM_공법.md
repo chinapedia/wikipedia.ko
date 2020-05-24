@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [FCM 공법](https://ko.wikipedia.org/wiki/FCM_공법).
 
 
-[thumb](https://ko.wikipedia.org/wiki/파일:20160508_093445_FCM공법.jpg "wikilink") **FCM 공법**(Free Cantilever Method)은 [교량](../Page/교량.md "wikilink")의 시공 방식 중 하나로 교량 하부에 [동바리](https://ko.wikipedia.org/wiki/동바리 "wikilink")를 사용하지 않고 특수한 가설장비를 이용하여 각 교각으로부터 좌우의 평형을 맞추면서 세그먼트를 순차적으로 접합하는 방식으로 경간을 구성하면서 인접한 교각에서 만들어져 온 세그먼트와 접합하는 방식의 시공법이다. [대한민국](../Page/대한민국.md "wikilink")에서는 주로 [고속도로](../Page/고속도로.md "wikilink")의 교량들이 이 방식에 의해서 건설되는 경우가 많다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:20160508_093445_FCM공법.jpg "wikilink") **FCM 공법**(Free Cantilever Method)은 [교량](../Page/교량.md "wikilink")의 시공 방식 중 하나로 교량 하부에 [동바리](https://ko.wikipedia.org/wiki/동바리 "wikilink")를 사용하지 않고 특수한 가설장비를 이용하여 각 교각으로부터 좌우의 평형을 맞추면서 세그먼트를 순차적으로 접합하는 방식으로 경간을 구성하면서 인접한 교각에서 만들어져 온 세그먼트와 접합하는 방식의 시공법이다. [대한민국](../Page/대한민국.md "wikilink")에서는 주로 [고속도로](../Page/고속도로.md "wikilink")의 교량들이 이 방식에 의해서 건설되는 경우가 많다.
 
 이 공법은 1950년대 초반 [독일](../Page/독일.md "wikilink")의 Dyckerhoff & Widman사에 의해 Dywidag공법이 시초로, [대한민국](../Page/대한민국.md "wikilink")에서는 [한강](../Page/한강.md "wikilink")의 횡단교량인 [원효대교](../Page/원효대교.md "wikilink")가 최초에 해당한다. 이후 많은 교량들이 이 방법을 적용하여 건설되었으며, [익산포항고속도로](https://ko.wikipedia.org/wiki/익산포항고속도로 "wikilink")의 [만덕교](../Page/만덕교.md "wikilink")(설계 당시의 이름은 신촌교였다)가 국내 최대 경간장인 170m로 가장 긴 경간장을 가지고 있다. 여담으로 이 공법으로 건설된 교량 중 세계 최대 경간장은 1998년에 준공된 [노르웨이](../Page/노르웨이.md "wikilink")의 Stolmasundet교로 경간장은 301m에 달한다.
 

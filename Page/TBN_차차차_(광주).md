@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TBN  \(\)](https://ko.wikipedia.org/wiki/TBN__\(\)).
+> This article is converted from Wikipedia: [TBN 차차차 \(광주\)](https://ko.wikipedia.org/wiki/TBN_차차차_\(광주\)).
 
 
 **TBN 차차차**는 [TBN 광주교통방송](../Page/광주교통방송.md "wikilink")(광주 FM 97.3㎒, 광양 FM 103.5㎒)에서 매일 낮 12시 5분부터 2시까지 방송되는 광주·전남권 지역의 라디오 음악 프로그램이다.

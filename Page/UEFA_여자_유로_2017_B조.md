@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [UEFA   2017 B](https://ko.wikipedia.org/wiki/UEFA___2017_B).
+> This article is converted from Wikipedia: [UEFA 여자 유로 2017 B조](https://ko.wikipedia.org/wiki/UEFA_여자_유로_2017_B조).
 
 
 다음은 **[UEFA 여자 유로 2017](https://ko.wikipedia.org/wiki/UEFA_여자_유로_2017 "wikilink") 조별 리그 B조** 경기 결과이다.

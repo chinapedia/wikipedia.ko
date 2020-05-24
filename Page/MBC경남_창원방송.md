@@ -140,25 +140,25 @@
 
 ### MBC경남 창원라디오
 
-| 프로그램명                                                                                                | 요일        | 시간                  | 진행자                                        |
-| ---------------------------------------------------------------------------------------------------- | --------- | ------------------- | ------------------------------------------ |
-| [좋은 아침 (창원),(진주)](https://mbcgn.kr/programme/good_morning)                                           | 월\~금, 토   | 30분 (월\~금), 55분 (토) | 백근곤(월\~금), 남선희(토)                          |
-| [당신의 11시 (창원),(진주)](https://mbcgn.kr/programme/7vVdWbKReAM7RWK)                                      | 월\~금      | 55분                 | 이다슬                                        |
-| [MBC 정오종합뉴스](../Page/MBC_정오종합뉴스.md "wikilink")                                                       | 월\~일      | 5분                  | 백율희                                        |
-| [즐거운 오후2시 (창원),(진주)](https://mbcgn.kr/programme/happy_2pm)                                           | 월\~금      | 115분                | 윤동현, 김여민                                   |
-| [MBC 15시 뉴스](https://mbcgn.kr/programme/radionews/p/BJnx9)                                           | 월\~일      | 5분                  | 김혜민                                        |
-| [MBC 17시 뉴스](https://mbcgn.kr/programme/radionews/p/BJnx9)                                           | 월\~일      | 5분                  | 김혜민                                        |
-| [MBC 뉴스네트워크](../Page/MBC_뉴스네트워크.md "wikilink")                                                       | 월\~금      | 10분                 | [부산문화방송 보도국](../Page/부산문화방송.md "wikilink") |
-| [지리산의 메아리 (창원),(진주)](https://mbcgn.kr/programme/jirisan)                                             | 월\~금      | 5분                  | 오승철, 노명주                                   |
-| [오늘의 경남 (창원),(진주)](https://mbcgn.kr/programme/today_gn)                                              | 평일        | 45분                 | 김진철                                        |
-| [NC 다이노스](../Page/NC_다이노스.md "wikilink") [프로야구 중계](https://ko.wikipedia.org/wiki/프로야구_중계 "wikilink") | 시즌 평일 홈경기 | 225분                | 김진철, 한만정                                   |
+| 프로그램명                                                                                                | 요일        | 시간                  | 진행자                                           |
+| ---------------------------------------------------------------------------------------------------- | --------- | ------------------- | --------------------------------------------- |
+| [좋은 아침 (창원),(진주)](https://mbcgn.kr/programme/good_morning)                                           | 월\~금, 토   | 30분 (월\~금), 55분 (토) | 백근곤(월\~금), 남선희(토)                             |
+| [당신의 11시 (창원),(진주)](https://mbcgn.kr/programme/7vVdWbKReAM7RWK)                                      | 월\~금      | 55분                 | 이다슬                                           |
+| [MBC 정오종합뉴스](../Page/MBC_정오종합뉴스.md "wikilink")                                                       | 월\~일      | 5분                  | 백율희                                           |
+| [즐거운 오후2시 (창원),(진주)](https://mbcgn.kr/programme/happy_2pm)                                           | 월\~금      | 115분                | 윤동현, 김여민                                      |
+| [MBC 15시 뉴스](https://mbcgn.kr/programme/radionews/p/BJnx9)                                           | 월\~일      | 5분                  | 김혜민                                           |
+| [MBC 17시 뉴스](https://mbcgn.kr/programme/radionews/p/BJnx9)                                           | 월\~일      | 5분                  | 김혜민                                           |
+| [MBC 뉴스네트워크](../Page/MBC_뉴스네트워크.md "wikilink")                                                       | 월\~금      | 10분                 | [부산문화방송 보도국](../Page/부산문화방송.md "wikilink") 앵커 |
+| [지리산의 메아리 (창원),(진주)](https://mbcgn.kr/programme/jirisan)                                             | 월\~금      | 5분                  | 오승철, 노명주                                      |
+| [오늘의 경남 (창원),(진주)](https://mbcgn.kr/programme/today_gn)                                              | 평일        | 45분                 | 김진철                                           |
+| [NC 다이노스](../Page/NC_다이노스.md "wikilink") [프로야구 중계](https://ko.wikipedia.org/wiki/프로야구_중계 "wikilink") | 시즌 평일 홈경기 | 225분                | 김진철, 한만정                                      |
 
 ### MBC경남 창원 FM4U
 
-| 프로그램명                                                          | 요일   | 시간   | 진행자 |
-| -------------------------------------------------------------- | ---- | ---- | --- |
-| [FM아침의 행진](https://mbcgn.kr/programme/rDIUZTHZmorning_marchp4) | 월\~일 | 120분 | 김재영 |
-| [정오의 희망곡 (창원),(진주)](https://mbcgn.kr/programme/noon)           | 월\~일 | 120분 | 조복현 |
+| 프로그램명                                                          | 요일  | 시간   | 진행자 |
+| -------------------------------------------------------------- | --- | ---- | --- |
+| [FM아침의 행진](https://mbcgn.kr/programme/rDIUZTHZmorning_marchp4) | 매일  | 120분 | 김재영 |
+| [정오의 희망곡 (창원),(진주)](https://mbcgn.kr/programme/noon)           | 조복현 |      |     |
 
 ### 방송 송출 시설망
 

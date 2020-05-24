@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [8 :  vs ](https://ko.wikipedia.org/wiki/8_:__vs_).
+> This article is converted from Wikipedia: [8년 전쟁: 이란 vs 이라크](https://ko.wikipedia.org/wiki/8년_전쟁:_이란_vs_이라크).
 
 
 《**8년 전쟁: 이란 vs 이라크**》(Istadeh Dar Ghobar, Standing in the Dust)는 이란에서 제작된 [모하메드 호세인 마흐다비안](https://ko.wikipedia.org/wiki/모하메드_호세인_마흐다비안 "wikilink") 감독, Habibollah Valinezhad 제작\[1\]의 2016년 액션, 전쟁 영화이다. [하디 헤자지파르](https://ko.wikipedia.org/wiki/하디_헤자지파르 "wikilink") 등이 주연으로 출연하였다. 레바논에서 사라진 [이란-이라크 전쟁의](../Page/이란-이라크_전쟁.md "wikilink") 이란의 지휘관 [아흐마드 모테바젤에](https://ko.wikipedia.org/wiki/아흐마드_모테바젤 "wikilink") 관해 다룬 드라마 영화이다.\[2\]

@@ -9,7 +9,7 @@
 
 파일:Protesters and signs Morristown New Jersey student protest March 24 2018 14 of 15.jpg|뉴저지 주 모리스 타운 시위자들 파일:Protester with sign at the Morristown New Jersey student protest March 24 2018 10 of 15.jpg|플래카드를 든 시위자 파일:Protesters with signs at the Morristown New Jersey student protest March 24 2018 12 of 15.jpg|학생 시위자들 파일:Student protesters with placards at the Morristown New Jersey student protest March 24 2018 9 of 15.jpg|학생 시위자들 파일:Placard sign Morristown New Jersey student protest March 24 2018 4 of 15.jpg|플래카드 파일:Placard sign at the Morristown New Jersey student protest March 24 2018 1 of 15.jpg|총기규제를 요구하는 문구 파일:March for Our Lives NYC (40812).jpg|뉴욕 시위자들 파일:March for Our Lives NYC (40663)a.jpg|베일을 쓴 채, 총격사고 희생자들의 사진을 든 뉴욕 시위자들
 
-## 함께 보기
+## 같이 보기
 
   - [마저리 스톤먼 더글러스 고등학교 총기 난사 사건](../Page/마저리_스톤먼_더글러스_고등학교_총기_난사_사건.md "wikilink")
   - [전미 총기 협회](https://ko.wikipedia.org/wiki/전미_총기_협회 "wikilink")(NRA)

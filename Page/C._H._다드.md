@@ -7,7 +7,7 @@
 
 \[2\]
 
-## 함께보기
+## 같이 보기
 
   - [실현된 종말론](https://ko.wikipedia.org/wiki/실현된_종말론 "wikilink")
 

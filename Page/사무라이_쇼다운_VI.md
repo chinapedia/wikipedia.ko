@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  VI](https://ko.wikipedia.org/wiki/__VI).
+> This article is converted from Wikipedia: [사무라이 쇼다운 VI](https://ko.wikipedia.org/wiki/사무라이_쇼다운_VI).
 
 
 《**사무라이 쇼다운 VI**》()은 [SNK 플레이모어가](https://ko.wikipedia.org/wiki/SNK_플레이모어 "wikilink") 제작한 [아케이드](../Page/아케이드_게임.md "wikilink") [대전 격투 게임이다](https://ko.wikipedia.org/wiki/대전_격투_게임 "wikilink"). 《[사무라이 쇼다운](../Page/사무라이_쇼다운.md "wikilink")》 시리즈 열번째 작품으로, 최초로 [네오지오가](https://ko.wikipedia.org/wiki/네오지오_\(콘솔\) "wikilink") 아닌 [사미 코퍼레이션의](https://ko.wikipedia.org/wiki/사미_코퍼레이션 "wikilink") [아토미스웨이브](https://ko.wikipedia.org/wiki/아토미스웨이브 "wikilink") 기판으로 개발됐다. 일본판 제목은 《**사무라이 스피리츠 천하일검객전**》()으로, 따로 이야기가 없이 과거 《사무라이 쇼다운》에 등장했던 인물들 전부 플레이어 캐릭터로서 등장한다.

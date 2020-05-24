@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Daryal \(레이다\)](https://ko.wikipedia.org/wiki/Daryal_\(레이다\)).
 
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:Daryal_radars_planned.png "wikilink") **Daryal**는 소련이 건설한 이 안테나는 약 500 미터 (1,640 피트)에서 1.5 킬로미터 (4,921 피트)로 구분 된 2 개의 대형 액티브 위상 배열 안테나로 구성되며 송신기 배열은 30m × 40m (98ft × 131ft)이고 수신기는 80m × 80m (260ft × 260ft) 크기이다. 이 시스템은 1.5 \~ 2 미터 (150 \~ 200 MHz)의 파장 에서 작동하는 VHF 시스템이다. 초기 전송 용량은 50MW 이며 목표 용량은 350MW이다. 레이다 설계자 RTI Mints는 각 Daryal 수신기가 100 × 100m 이고 4,000 개의 교차 다이폴을 가지고 있다고 말한다. 각 송신기는 40 × 40m 이며 1,260 개의 모듈이 있으며 각각 300kW를 지원한다. 그들은 레이다의 목표가 0.1 \~ 0.12m 2 인 6,000km의 범위를 가지고 있다고 말한다. 동시에 20 개의 물체를 추적 할 수 있으며 4 개의 방해 전파 소스에 대처할 수 있다. 설계자인 빅토르 이반 소프 ( Viktor Ivantsov)는 (Daryal) 사업으로 " 노동의 영웅 (Hero of Labor) " 이라는 칭호를 받았다. [섬네일](https://ko.wikipedia.org/wiki/파일:Daryal_Pechora_radar_concept.jpg "wikilink")
+[섬네일](https://ko.wikipedia.org/wiki/파일:Daryal_radars_planned.png "wikilink") **Daryal**는 소련이 건설한 이 안테나는 약 500 미터 (1,640 피트)에서 1.5 킬로미터 (4,921 피트)로 구분 된 2 개의 대형 액티브 위상 배열 안테나로 구성되며 송신기 배열은 30m × 40m (98ft × 131ft)이고 수신기는 80m × 80m (260ft × 260ft) 크기이다. 이 시스템은 1.5 \~ 2 미터 (150 \~ 200 MHz)의 파장 에서 작동하는 VHF 시스템이다. 초기 전송 용량은 50MW이며 목표 용량은 350MW이다. 레이다 설계자 RTI Mints는 각 Daryal 수신기가 100 × 100m 이고 4,000 개의 교차 다이폴을 가지고 있다고 말한다. 각 송신기는 40 × 40m이며 1,260 개의 모듈이 있으며 각각 300kW를 지원한다. 그들은 레이다의 목표가 0.1 \~ 0.12m 2 인 6,000km의 범위를 가지고 있다고 말한다. 동시에 20 개의 물체를 추적 할 수 있으며 4 개의 방해 전파 소스에 대처할 수 있다. 설계자인 빅토르 이반 소프 ( Viktor Ivantsov)는 (Daryal) 사업으로 " 노동의 영웅 (Hero of Labor) " 이라는 칭호를 받았다. [섬네일](https://ko.wikipedia.org/wiki/파일:Daryal_Pechora_radar_concept.jpg "wikilink")
 
 ## 개요
 

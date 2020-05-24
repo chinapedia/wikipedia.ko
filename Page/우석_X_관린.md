@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ X ](https://ko.wikipedia.org/wiki/_X_).
+> This article is converted from Wikipedia: [우석 X 관린](https://ko.wikipedia.org/wiki/우석_X_관린).
 
 
 **우석 X 관린**()은 [대한민국](../Page/대한민국.md "wikilink") [큐브 엔터테인먼트의](../Page/큐브_엔터테인먼트.md "wikilink") 소속 그룹인 [펜타곤의](../Page/펜타곤_\(음악_그룹\).md "wikilink") [우석과](../Page/우석_\(가수\).md "wikilink") 소속 아티스트이자 [워너원](../Page/워너원.md "wikilink") 출신 [라이관린](../Page/라이관린.md "wikilink")의 2인조 프로젝트 그룹이다. [2019년](../Page/2019년.md "wikilink") [3월 11일](../Page/3월_11일.md "wikilink") 첫 번째 미니 앨범인 《9801》을 발매했다.

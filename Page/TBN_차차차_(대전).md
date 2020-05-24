@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TBN  \(\)](https://ko.wikipedia.org/wiki/TBN__\(\)).
+> This article is converted from Wikipedia: [TBN 차차차 \(대전\)](https://ko.wikipedia.org/wiki/TBN_차차차_\(대전\)).
 
 
 **TBN 차차차**는 [TBN 대전교통방송](../Page/대전교통방송.md "wikilink")(대전·세종·충청 FM 102.9㎒, 서산 FM 103.9㎒, 충주 FM 93.5㎒)에서 매일 낮 12시 5분부터 2시까지 방송되는 대전과 세종 충청권 지역의 라디오 음악 프로그램이다.

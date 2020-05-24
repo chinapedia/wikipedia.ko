@@ -23,7 +23,7 @@
   -
   - [*Engagierter Kirchenhistoriker. Prof. Dr. Wilhelm H. Neuser starb im Alter von 84 Jahren*](http://www.uni-muenster.de/Rektorat/exec/upm.php?nummer=13110) (Pressemitteilung der Universität Münster vom 2. Juli 2010)
 
-## 함께보기
+## 같이 보기
 
   - [세계칼빈학회](../Page/세계칼빈학회.md "wikilink")
   - [세계개혁신학회](../Page/세계개혁신학회.md "wikilink")

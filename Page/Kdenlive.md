@@ -23,7 +23,7 @@ Kdenlive 패키지는 [Linux](../Page/리눅스.md "wikilink"), [FreeBSD](../Pag
 
 ## 역사
 
-이 프로젝트는 2002년 제이슨 우드(Jason Wood)가 처음 시작했습니다. Kdenlive의 개발은 K Desktop [Platform](../Page/KDE_플랫폼_4.md "wikilink") 3 버전 (원래 MLT 용으로 제작되지 않은 버전)에서 [KDE 플랫폼 4](../Page/KDE_플랫폼_4.md "wikilink") 로 옮겨 거의 모든 내용이 다시 작성되었습니다. 이것은 2008 년 11월 12일에 발표 된 Kdenlive 0.7으로 완성되었습니다.\[11\] 2014 년 10 월 1 일에 발표 된 Kdenlive 0.9.10이 마지막 KDE 4 릴리스입니다.
+이 프로젝트는 2002년 제이슨 우드(Jason Wood)가 처음 시작했습니다. Kdenlive의 개발은 K Desktop [Platform](../Page/KDE_플랫폼_4.md "wikilink") 3 버전 (원래 MLT 용으로 제작되지 않은 버전)에서 [KDE 플랫폼 4](../Page/KDE_플랫폼_4.md "wikilink") 로 옮겨 거의 모든 내용이 다시 작성되었습니다. 이것은 2008 년 11월 12일에 발표 된 Kdenlive 0.7으로 완성되었습니다.\[11\] 2014년 10월 1일에 발표 된 Kdenlive 0.9.10이 마지막 KDE 4 릴리스입니다.
 
 Kdenlive는 2014년에 KDE 프로젝트와 인프라로의 전환을 계획하기 시작했습니다.\[12\] KDE 프레임워크 5에 대한 전환은 KDE 응용 프로그램 5의 일부로 2015.04.0의 릴리스로 완료되었습니다.\[13\] KDE로의 이동은 진행 중입니다.\[14\]
 

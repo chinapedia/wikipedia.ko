@@ -3,10 +3,6 @@
 
 **NCUK**(The Northern Consortium)는 국제학생들의 영국 대학진학 준비를 돕기 위해 영국 북부의 11개의 대학들이 설립한 교육자선단체이다. NCUK는 1987년에 설립되었으며 25,000명 이상의 학생들을 영국내 대학에 진학시켰다. NCUK는 2018년에 31주년을 맞았다.
 
-## NCUK 한국 센터 (IEN Institute)
-
-NCUK 한국센터는 강남에 위치한 [IEN Institute](http://www.ieniedu.com/)가 유일하다. 현재 NCUK 한국센터는 매년 약 95%의 높은 진학률로 100명 가량의 학생들이 영국 대학에 입학한다. 2017년에는 NCUK 장학금을 수여받은 학생이 21명이며, [IEN Institute는](https://ko.wikipedia.org/wiki/IEN_Institute "wikilink") NCUK Special Recognition Award를 수상하며 전세계의 Study Centre중에 가장 우수한 센터임을 입증하였다. 학생들이 진학하는 학교와 학과는 매우 다양하다. UK 13기 학생들의 경우, NCUK소속 대학 외에도 Univeristy of Durham, University of Edinburgh 등의 NCUK 비소속 대학에서 조건부 입학(Conditional Offer)과 입학확정(Unconditional Offer)를 받았다. 학생들이 진학하는 학과 역시 매우 다양하며 이것이 가능한 것은 IEN Institute에서 학생들이 들을 수 있는 학과 수업을 다양화시킨 것에 있다. 2018년 현재, IEN Institute에 재학중인 UK 15기 학생들은 Pure Mathematics, Further Matheatmics, Society & Politics, Business, Economics, Chemistry, Biology 중 3개의 과목을 선택하여 수업을 듣는다.
-
 ## NCUK 소속 대학교
 
 NCUK는 아래의 대학들에 의해 설립되었고 현재에도 소속되어 있다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [AKB48 41st   ](https://ko.wikipedia.org/wiki/AKB48_41st___).
+> This article is converted from Wikipedia: [AKB48 41st 싱글 선발 총선거](https://ko.wikipedia.org/wiki/AKB48_41st_싱글_선발_총선거).
 
 
 {{역사적 사건 정보 |이름 = AKB48 41st 싱글 선발 총선거

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FK ](https://ko.wikipedia.org/wiki/FK_).
+> This article is converted from Wikipedia: [FK리그 여자부](https://ko.wikipedia.org/wiki/FK리그_여자부).
 
 
 FK리그 여자부는 2014-15시즌부터 시범리그로 도입되었으며 남자부 경기를 시작하기전에 경기를 진행하는 특성을 가지고 있다. 아무래도 시범리그로 진행되다보니 해체되는 팀이 상당히 많으며 남자부처럼 정규리그로 전환 운영되려면 시간이 많이 필요해보인다. 또한 연맹에서는 해를 넘겨서 진행한다고 표시를 해놓았지만 사실 해를 넘겨서 진행하지는 않는다. 1월부터 리그를 진행하다보니 진행기간이 2개월로 매우 짧은게 특징이다.

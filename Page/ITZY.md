@@ -94,10 +94,10 @@
 
 ### 예능
 
-| 연도   | 방송사                                | 제목                                                                        | 역할  |
-| ---- | ---------------------------------- | ------------------------------------------------------------------------- | --- |
-| 2019 | [JTBC](../Page/JTBC.md "wikilink") | 《[아는형님](https://ko.wikipedia.org/wiki/아는형님 "wikilink")》                   | 게스트 |
-| 2020 | Mnet                               | 《[Paris et ITZY](https://ko.wikipedia.org/wiki/Paris_et_ITZY "wikilink")》 | 출연  |
+| 연도   | 방송사                                                   | 제목                                                                        | 역할  |
+| ---- | ----------------------------------------------------- | ------------------------------------------------------------------------- | --- |
+| 2019 | [JTBC](../Page/JTBC.md "wikilink")                    | 《[아는형님](https://ko.wikipedia.org/wiki/아는형님 "wikilink")》                   | 게스트 |
+| 2020 | [Mnet](https://ko.wikipedia.org/wiki/Mnet "wikilink") | 《[Paris et ITZY](https://ko.wikipedia.org/wiki/Paris_et_ITZY "wikilink")》 | 출연  |
 
 ## 수상 경력
 
@@ -129,6 +129,8 @@
 <td><ul>
 <li><a href="../Page/1월_4일.md" title="wikilink">1월 4일</a> 제34회 <a href="https://ko.wikipedia.org/wiki/골든디스크" title="wikilink">골든디스크</a> 여자 신인상</li>
 <li><a href="../Page/1월_4일.md" title="wikilink">1월 4일</a> 제34회 <a href="https://ko.wikipedia.org/wiki/골든디스크" title="wikilink">골든디스크</a> 디지털음원 부문 본상</li>
+<li>제29회 <a href="../Page/하이원_서울가요대상.md" title="wikilink">하이원 서울가요대상</a> <신인상></li>
+<li>제9회 <a href="https://ko.wikipedia.org/wiki/가온차트_뮤직_어워드" title="wikilink">가온차트 뮤직 어워즈</a> 음원 부문 <올해의 신인상></li>
 </ul></td>
 </tr>
 </tbody>

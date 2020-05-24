@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Tert- ](https://ko.wikipedia.org/wiki/Tert-_).
+> This article is converted from Wikipedia: [Tert-아밀 알코올](https://ko.wikipedia.org/wiki/Tert-아밀_알코올).
 
 
 ***tert*-아밀 알코올**(, **TAA**) 혹은 **2-메틸뷰탄-2-올**(, **2M2B**)은 펜탄올으로부터 갈라진 물질이다.

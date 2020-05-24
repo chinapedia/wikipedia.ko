@@ -7,7 +7,7 @@
 
 그는 미국 웨스트민스터 대학교(Westminster College, Pennsylvania, BA, 1961), 피츠버그 신학교(Pittsburgh Theological Seminary, 현재는 Pittsburgh-Xenia Theological Seminary, M.Div, 1964), 네덜란드 [암스테르담 자유대학교(Free](../Page/암스테르담_자유_대학교.md "wikilink") University of Amsterdam, Doctorandus|Drs., 1969), 마지막으로 휫필드 신학교(Whitefield Theological Seminary, Fliorida, PhD, 2001)에서 수학했다. [코넬리우스 밴틸을](../Page/코닐리어스_밴틸.md "wikilink") 시작으로 [개혁신학자](../Page/개혁신학자.md "wikilink")들이 일반적으로 [전제주의](../Page/전제주의_변증.md "wikilink")(presuppositionalism) 방법을 많이 사용하지만 그는 [증거주의](https://ko.wikipedia.org/wiki/증거주의 "wikilink")(evidentialism)를 선호한다. 즉 [토마스 아퀴나스의](../Page/토마스_아퀴나스.md "wikilink") 고전적 변증 방법(Thomistic (classical) approaches)을 사용한다. 그는 미국의 [리폼드 신학교](../Page/리폼드_신학교.md "wikilink")(Reformed Theological Seminary)와 낙스 신학교(Knox Theological Seminary)에서 강의를 했다.
 
-## 함께보기
+## 같이 보기
 
   - [전제주의 변증](../Page/전제주의_변증.md "wikilink")
   - [그렉 반센](../Page/그렉_반센.md "wikilink")

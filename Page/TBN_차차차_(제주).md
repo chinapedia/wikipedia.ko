@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TBN  \(\)](https://ko.wikipedia.org/wiki/TBN__\(\)).
+> This article is converted from Wikipedia: [TBN 차차차 \(제주\)](https://ko.wikipedia.org/wiki/TBN_차차차_\(제주\)).
 
 
 **TBN 차차차**는 [TBN 제주교통방송](https://ko.wikipedia.org/wiki/제주교통방송 "wikilink")(제주시, 광해악 FM 105.5㎒, 서귀포 FM 105.9㎒)에서 매일 낮 12시 5분부터 2시까지 방송되는 제주권 지역의 라디오 음악 프로그램이다.
@@ -45,6 +45,6 @@
 ## 외부 링크
 
   - [김형찬, 임은혜의 TBN 차차차 공식 홈페이지](http://www.tbn.or.kr/program/main.tbn?area_code=12&forum_seq=396)
-  - [송지윤, 정민규의 주말 TBN 차차차 공식 홈페이지](http://www.tbn.or.kr/program/main.tbn?area_code=12&forum_seq=404)
+  - [도현아의 주말 TBN 차차차 공식 홈페이지](http://www.tbn.or.kr/program/main.tbn?area_code=12&forum_seq=404)
 
 [분류:한국교통방송의 라디오 프로그램](https://ko.wikipedia.org/wiki/분류:한국교통방송의_라디오_프로그램 "wikilink")

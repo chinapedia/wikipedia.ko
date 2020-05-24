@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Eric Clapton \(\)](https://ko.wikipedia.org/wiki/Eric_Clapton_\(\)).
+> This article is converted from Wikipedia: [Eric Clapton \(음반\)](https://ko.wikipedia.org/wiki/Eric_Clapton_\(음반\)).
 
 
 《**Eric Clapton**》은 1970년 8월 [영국](../Page/영국.md "wikilink")의 록 음악가 [에릭 클랩튼이](../Page/에릭_클랩튼.md "wikilink") [앳코 레코드와](../Page/앳코_레코드.md "wikilink") [폴리도르 레코드로](../Page/폴리도르_레코드.md "wikilink") 발매한 데뷔 솔로 음반이다.

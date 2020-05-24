@@ -7,7 +7,7 @@
 
 ### 데뷔 이전
 
-[임영민](../Page/임영민.md "wikilink"), [김동현](../Page/김동현_\(1998년\).md "wikilink"), [박우진](../Page/박우진.md "wikilink"), [이대휘](https://ko.wikipedia.org/wiki/이대휘 "wikilink")는 2017년 [Mnet에서](../Page/엠넷.md "wikilink") 방송된 《[프로듀스 101 시즌 2](https://ko.wikipedia.org/wiki/PRODUCE_101_시즌_2 "wikilink")》를 통해 브랜뉴보이즈(BRANDNEW BOYS)로 얼굴을 알린 바 있다. 이후 임영민, 김동현은 [MXM과](../Page/MXM_\(음악_그룹\).md "wikilink") [YDPP](../Page/YDPP.md "wikilink")로 유닛 활동을 하였고, 박우진, 이대휘는 [워너원](../Page/워너원.md "wikilink")으로 데뷔해 활동한 바 있다. 2019년 4월 마지막 멤버인 [전웅](https://ko.wikipedia.org/wiki/전웅 "wikilink")이 공개되었다.
+[임영민](../Page/임영민.md "wikilink"), [김동현](../Page/김동현_\(1998년\).md "wikilink"), [박우진](../Page/박우진.md "wikilink"), [이대휘](../Page/이대휘.md "wikilink")는 2017년 [Mnet에서](../Page/엠넷.md "wikilink") 방송된 《[프로듀스 101 시즌 2](https://ko.wikipedia.org/wiki/PRODUCE_101_시즌_2 "wikilink")》를 통해 브랜뉴보이즈(BRANDNEW BOYS)로 얼굴을 알린 바 있다. 이후 임영민, 김동현은 [MXM과](../Page/MXM_\(음악_그룹\).md "wikilink") [YDPP](../Page/YDPP.md "wikilink")로 유닛 활동을 하였고, 박우진, 이대휘는 [워너원](../Page/워너원.md "wikilink")으로 데뷔해 활동한 바 있다. 2019년 4월 마지막 멤버인 [전웅](../Page/전웅.md "wikilink")이 공개되었다.
 
 ### 2019
 
@@ -16,6 +16,8 @@
 2019년 9월 24일, 미국 출신의 팝/R\&B 아티스트 Lizzo와 콜라보 앨범인 《Truth Hurts》를 발매했다.
 
 2019년 10월 7일, 첫 번째 정규앨범인 《6IXENSE》를 발매하며 컴백하였다.
+
+2019년 12월 12일, 소속사 브랜뉴뮤직의 겨울 시즌 싱글앨범인 《BRANDNEW YEAR 2019》에 참여하였다.
 
 ### 2020
 
@@ -48,7 +50,7 @@
 
 ## 외부 링크
 
-  - [AB6IX](https://channels.vlive.tv/B5D92B/home) - [V LIVE](https://ko.wikipedia.org/wiki/V_LIVE "wikilink")
+  - [AB6IX](https://channels.vlive.tv/B5D92B/home) - [V LIVE](../Page/V_LIVE.md "wikilink")
   - [AB6IX](https://twitter.com/AB6IX) - [트위터](../Page/트위터.md "wikilink")
   - [AB6IX](https://www.facebook.com/AB6IX) - [페이스북](../Page/페이스북.md "wikilink")
   - [AB6IX](https://www.youtube.com/AB6IX) - [유튜브](../Page/유튜브.md "wikilink")

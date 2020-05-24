@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [N-](https://ko.wikipedia.org/wiki/N-).
+> This article is converted from Wikipedia: [N-메틸에페드린](https://ko.wikipedia.org/wiki/N-메틸에페드린).
 
 
 **N-메틸에페드린**은 [에페드린](../Page/에페드린.md "wikilink")의 유도체이다. 이것은 [마황](https://ko.wikipedia.org/wiki/마황 "wikilink")속에 속하는 에피드라 디스타챠(Ephedra distachy)식물로부터 형성된다.\[1\]
@@ -13,7 +13,7 @@ DL-메틸에페드린(DL-Methylephedrine)로도 언급된다.
 
 DL-Methylephedrine HCl은 결합형태의 예이다.
 
-## 함께보기
+## 같이 보기
 
   - [N-메틸슈도에페드린](https://ko.wikipedia.org/wiki/N-메틸슈도에페드린 "wikilink")
 

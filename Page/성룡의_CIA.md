@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ CIA](https://ko.wikipedia.org/wiki/_CIA).
+> This article is converted from Wikipedia: [성룡의 CIA](https://ko.wikipedia.org/wiki/성룡의_CIA).
 
 
 《**성룡의 CIA**》(我是誰: Who Am I?)는 홍콩에서 제작된 [성룡](../Page/성룡.md "wikilink") 감독의 1998년 액션 영화이다. [성룡](../Page/성룡.md "wikilink") 등이 주연으로 출연하였고 [동운시](https://ko.wikipedia.org/wiki/동운시 "wikilink") 등이 제작에 참여하였다.
@@ -28,7 +28,7 @@
 ## SBS 성우진 (2001년 10월 1일)
 
   - [홍시호](../Page/홍시호.md "wikilink") - 재키([성룡](../Page/성룡.md "wikilink"))
-  - [최덕희](https://ko.wikipedia.org/wiki/최덕희 "wikilink") - 크리스틴([미셀 페레](https://ko.wikipedia.org/wiki/미셀_페레 "wikilink"))
+  - [최덕희](../Page/최덕희.md "wikilink") - 크리스틴([미셀 페레](https://ko.wikipedia.org/wiki/미셀_페레 "wikilink"))
   - [윤성혜](../Page/윤성혜_\(성우\).md "wikilink") - 유키([야마모토 미라이](https://ko.wikipedia.org/wiki/야마모토_미라이 "wikilink"))
   - [박지훈](../Page/박조호.md "wikilink") - 모건([론 스머자크](https://ko.wikipedia.org/wiki/론_스머자크 "wikilink"))
   - [이완호](../Page/이완호.md "wikilink") - 셔먼([에드 넬슨](https://ko.wikipedia.org/wiki/에드_넬슨 "wikilink"))
@@ -49,6 +49,8 @@
   -
   -
   -
-  - [*Who Am I?*](http://podcastonfire.com/?p=223) related article [PodcastOnFire.com](https://web.archive.org/web/20191014061513/http://podcastonfire.com/)
+  -
+  -
+  -
 
-[분류:1998년 영화](https://ko.wikipedia.org/wiki/분류:1998년_영화 "wikilink") [분류:영어 영화 작품](https://ko.wikipedia.org/wiki/분류:영어_영화_작품 "wikilink") [분류:기억 상실을 소재로 한 영화](https://ko.wikipedia.org/wiki/분류:기억_상실을_소재로_한_영화 "wikilink") [분류:성룡 감독 영화](https://ko.wikipedia.org/wiki/분류:성룡_감독_영화 "wikilink") [분류:남아프리카 공화국을 배경으로 한 영화](https://ko.wikipedia.org/wiki/분류:남아프리카_공화국을_배경으로_한_영화 "wikilink") [분류:나미비아에서 촬영한 영화](https://ko.wikipedia.org/wiki/분류:나미비아에서_촬영한_영화 "wikilink") [분류:홍콩의 영화 작품](https://ko.wikipedia.org/wiki/분류:홍콩의_영화_작품 "wikilink") [분류:첩보 코미디 영화](https://ko.wikipedia.org/wiki/분류:첩보_코미디_영화 "wikilink") [분류:진숙현 시나리오 작품](https://ko.wikipedia.org/wiki/분류:진숙현_시나리오_작품 "wikilink")
+[분류:1998년 영화](https://ko.wikipedia.org/wiki/분류:1998년_영화 "wikilink") [분류:영어 영화 작품](https://ko.wikipedia.org/wiki/분류:영어_영화_작품 "wikilink") [분류:성룡 감독 영화](https://ko.wikipedia.org/wiki/분류:성룡_감독_영화 "wikilink") [분류:진숙현 시나리오 작품](https://ko.wikipedia.org/wiki/분류:진숙현_시나리오_작품 "wikilink") [분류:홍콩의 액션 영화](https://ko.wikipedia.org/wiki/분류:홍콩의_액션_영화 "wikilink") [분류:홍콩의 코미디 영화](https://ko.wikipedia.org/wiki/분류:홍콩의_코미디_영화 "wikilink") [분류:첩보 코미디 영화](https://ko.wikipedia.org/wiki/분류:첩보_코미디_영화 "wikilink") [분류:기억 상실을 소재로 한 영화](https://ko.wikipedia.org/wiki/분류:기억_상실을_소재로_한_영화 "wikilink") [분류:네덜란드를 배경으로 한 영화](https://ko.wikipedia.org/wiki/분류:네덜란드를_배경으로_한_영화 "wikilink") [분류:남아프리카 공화국을 배경으로 한 영화](https://ko.wikipedia.org/wiki/분류:남아프리카_공화국을_배경으로_한_영화 "wikilink") [분류:나미비아에서 촬영한 영화](https://ko.wikipedia.org/wiki/분류:나미비아에서_촬영한_영화 "wikilink") [분류:네덜란드에서 촬영한 영화](https://ko.wikipedia.org/wiki/분류:네덜란드에서_촬영한_영화 "wikilink")

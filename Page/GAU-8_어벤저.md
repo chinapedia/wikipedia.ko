@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [GAU-8 어벤저](https://ko.wikipedia.org/wiki/GAU-8_어벤저).
 
 
-[thumb](https://ko.wikipedia.org/wiki/파일:A-10_Thunderbolt_II_Gun_Run.JPEG "wikilink") 공격기\]\] [thumb](https://ko.wikipedia.org/wiki/파일:GAU-8_in_A-10.jpg "wikilink") 공격기에 장착된 GAU-8\]\] [thumb과](https://ko.wikipedia.org/wiki/파일:GAU-8_meets_VW_Type_1.jpg "wikilink") GAU-8의 크기비교\]\] [thumb](https://ko.wikipedia.org/wiki/파일:30mm_GAU-8_Avenger_round.jpg "wikilink") **GAU-8 어벤저**는 미국 [제너럴 일렉트릭이](../Page/제너럴_일렉트릭.md "wikilink") 개발한 30 mm 7배럴 [개틀링포](https://ko.wikipedia.org/wiki/개틀링포 "wikilink")를 말한다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:A-10_Thunderbolt_II_Gun_Run.JPEG "wikilink") 공격기\]\] [섬네일](https://ko.wikipedia.org/wiki/파일:GAU-8_in_A-10.jpg "wikilink") 공격기에 장착된 GAU-8\]\] [섬네일과](https://ko.wikipedia.org/wiki/파일:GAU-8_meets_VW_Type_1.jpg "wikilink") GAU-8의 크기비교\]\] [섬네일](https://ko.wikipedia.org/wiki/파일:30mm_GAU-8_Avenger_round.jpg "wikilink") **GAU-8 어벤저**는 미국 [제너럴 일렉트릭이](../Page/제너럴_일렉트릭.md "wikilink") 개발한 30 mm 7배럴 [개틀링포](https://ko.wikipedia.org/wiki/개틀링포 "wikilink")를 말한다.
 
 ## 역사
 

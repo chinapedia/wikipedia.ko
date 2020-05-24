@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Number 1\'s \(  \)](https://ko.wikipedia.org/wiki/Number_1\'s_\(__\)).
+> This article is converted from Wikipedia: [Number 1\'s \(머라이어 캐리의 음반\)](https://ko.wikipedia.org/wiki/Number_1\'s_\(머라이어_캐리의_음반\)).
 
 
 《**\#1's**》는 1998년 11월 17일에 발매한 [머라이어 캐리의](../Page/머라이어_캐리.md "wikilink") 첫 번째 컴필레이션 음반이다.

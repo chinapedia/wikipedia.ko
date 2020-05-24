@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Cl 1 : MIROH](https://ko.wikipedia.org/wiki/Cl_1_:_MIROH).
+> This article is converted from Wikipedia: [Clé 1 : MIROH](https://ko.wikipedia.org/wiki/Clé_1_:_MIROH).
 
 
 《**Clé 1 : MIROH**》는 2019년 3월 25일에 발매한 [스트레이 키즈의](../Page/스트레이_키즈.md "wikilink") 네 번째 미니 음반이다.\[1\]

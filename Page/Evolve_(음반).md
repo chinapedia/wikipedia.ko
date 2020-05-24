@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Evolve \(\)](https://ko.wikipedia.org/wiki/Evolve_\(\)).
+> This article is converted from Wikipedia: [Evolve \(음반\)](https://ko.wikipedia.org/wiki/Evolve_\(음반\)).
 
 
 《**Evolve**》(**ƎVOLVE**로 양식화함)는 2017년 6월 23일 [키디나코너](https://ko.wikipedia.org/wiki/키디나코너 "wikilink")와 [인터스코프 레코드가](../Page/인터스코프_레코드.md "wikilink") 발표한 [미국](../Page/미국.md "wikilink")의 [팝 록](../Page/팝_록.md "wikilink") 밴드 [이매진 드래곤스의](../Page/이매진_드래곤스.md "wikilink") 세 번째 스튜디오 음반이다. 그들의 이전 음반인 《[Smoke + Mirrors](https://ko.wikipedia.org/wiki/Smoke_+_Mirrors "wikilink")》(2015년)와 각각의 월드 투어가 발표된 후, 2016년을 위한 자체적인 공백과 그들의 소셜 미디어를 통한 밴드의 비밀스러운 메시지가 그들의 세 번째 음반에 대한 기대를 갖게 되었다. 그것은 마침내 선주문 시작과 함께 2017년 5월 9일에 발표되었다. 《[Smoke + Mirrors](https://ko.wikipedia.org/wiki/Smoke_+_Mirrors "wikilink")》와 2012년 데뷔한 《[Night Visions](https://ko.wikipedia.org/wiki/Night_Visions "wikilink")》에 비해, 프런트맨인 [댄 레이놀즈는](https://ko.wikipedia.org/wiki/댄_레이놀즈 "wikilink") 이 음반을 밴드의 "진화"라고 불렀다.
@@ -13,7 +13,7 @@
 
 ## 구성
 
-레이놀즈는 이 음반이 《[Night Visions](https://ko.wikipedia.org/wiki/Night_Visions "wikilink")》과 《[Smoke + Mirrors](https://ko.wikipedia.org/wiki/Smoke_+_Mirrors "wikilink")》와 비교했을 때 "이매진 드래곤스를 위한 진화"라고 언급했다.\[4\] 이 음반의 사운드는 [알앤비](https://ko.wikipedia.org/wiki/컨템포러리_알앤비 "wikilink"), [힙합](../Page/힙합_음악.md "wikilink"), [EDM의](https://ko.wikipedia.org/wiki/일렉트로닉_댄스_뮤직 "wikilink") 요소를 포함하고 있는 동안 [팝 록으로](../Page/팝_록.md "wikilink") 묘사되어 왔다.\[5\]
+레이놀즈는 이 음반이 《[Night Visions](https://ko.wikipedia.org/wiki/Night_Visions "wikilink")》과 《[Smoke + Mirrors](https://ko.wikipedia.org/wiki/Smoke_+_Mirrors "wikilink")》와 비교했을 때 "이매진 드래곤스를 위한 진화"라고 언급했다.\[4\] 이 음반의 사운드는 [알앤비](../Page/컨템포러리_알앤비.md "wikilink"), [힙합](../Page/힙합_음악.md "wikilink"), [EDM의](https://ko.wikipedia.org/wiki/일렉트로닉_댄스_뮤직 "wikilink") 요소를 포함하고 있는 동안 [팝 록으로](../Page/팝_록.md "wikilink") 묘사되어 왔다.\[5\]
 
 ## 상업 실적
 
@@ -25,6 +25,7 @@
 
 ## 외부 링크
 
+  -
 [분류:2017년 음반](https://ko.wikipedia.org/wiki/분류:2017년_음반 "wikilink") [분류:이매진 드래곤스의 음반](https://ko.wikipedia.org/wiki/분류:이매진_드래곤스의_음반 "wikilink") [분류:인터스코프 레코드 음반](https://ko.wikipedia.org/wiki/분류:인터스코프_레코드_음반 "wikilink")
 
 1.

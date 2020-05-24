@@ -44,7 +44,7 @@
 
 <references />
 
-## 함께 보기
+## 같이 보기
 
   - [드라마이즘](../Page/드라마이즘.md "wikilink")
   - [TBS 화요드라마](../Page/TBS_화요드라마.md "wikilink")

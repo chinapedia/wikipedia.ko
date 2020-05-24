@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SAS ](https://ko.wikipedia.org/wiki/SAS_).
+> This article is converted from Wikipedia: [SAS 특공대](https://ko.wikipedia.org/wiki/SAS_특공대).
 
 
 《**SAS 특공대**》(Who Dares Wins)는 영국에서 제작된 [이안 샤프](https://ko.wikipedia.org/wiki/이안_샤프 "wikilink") 감독의 1982년 액션 영화이다. 영화 제목은 엘리트 [SAS의](../Page/SAS_\(영국\).md "wikilink") 모토이다. [루이스 콜린스](https://ko.wikipedia.org/wiki/루이스_콜린스 "wikilink") 등이 주연으로 출연하였고 [유언 로이드](https://ko.wikipedia.org/wiki/유언_로이드 "wikilink") 등이 제작에 참여하였다. 이 영화는 미국에서 The Final Option이라는 제목으로 개봉되었다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TBN ](https://ko.wikipedia.org/wiki/TBN_).
+> This article is converted from Wikipedia: [TBN 충청매거진](https://ko.wikipedia.org/wiki/TBN_충청매거진).
 
 
 **TBN 충청매거진**은 [TBN 대전교통방송](../Page/대전교통방송.md "wikilink")(대전·세종·충청 FM 102.9㎒, 서산 FM 103.9㎒, 충주 FM 93.5㎒)에서 평일 오후 4시 5분부터 6시까지 방송되는 대전과 세종 충청권 지역의 라디오 정보 프로그램이다.

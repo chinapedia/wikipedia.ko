@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Key  ](https://ko.wikipedia.org/wiki/Key__).
+> This article is converted from Wikipedia: [Key의 음반 목록](https://ko.wikipedia.org/wiki/Key의_음반_목록).
 
 
 **[Key](../Page/키_\(가수\).md "wikilink")**는 [대한민국](../Page/대한민국.md "wikilink")의 [가수](https://ko.wikipedia.org/wiki/가수 "wikilink")이자 [배우](../Page/배우.md "wikilink")이다. Key는 1장의 정규 앨범과 3장의 싱글과 1장의 리패키지 앨범을 발매했다.

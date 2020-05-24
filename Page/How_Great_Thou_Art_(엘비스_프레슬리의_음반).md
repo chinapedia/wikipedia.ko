@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [How Great Thou Art \(  \)](https://ko.wikipedia.org/wiki/How_Great_Thou_Art_\(__\)).
+> This article is converted from Wikipedia: [How Great Thou Art \(엘비스 프레슬리의 음반\)](https://ko.wikipedia.org/wiki/How_Great_Thou_Art_\(엘비스_프레슬리의_음반\)).
 
 
 《**How Great Thou Art**》는 미국의 가수 [엘비스 프레슬리의](../Page/엘비스_프레슬리.md "wikilink") 정규 앨범이다. 1967년 2월에 [RCA 빅터에서](https://ko.wikipedia.org/wiki/RCA_빅터 "wikilink") 모노, 스테레오 사양으로 발매했다. 녹음지는 [RCA 스튜디오 B로](../Page/RCA_스튜디오_B.md "wikilink"), 녹음 시일은 1966년 5월 25일, 26일, 27일, 28일이다.\[1\] [톱 팝 앨범](../Page/빌보드_200.md "wikilink") 최고 18위를 달성했다.\[2\] [RIAA](https://ko.wikipedia.org/wiki/RIAA "wikilink")에서 1968년 2월 16일에 골드를, 1992년 3월 27일 2중 플래티넘을, 거기다가 2010년 10월 13일 3중 플래티넘을 인정받았다.\[3\]

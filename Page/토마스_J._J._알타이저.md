@@ -3,7 +3,7 @@
 
 **토마스 요나단 잭슨 알타이저**(Thomas Jonathan Jackson AltizerAltizer,** **1927년 9월 28일 - )는 [사신신학](https://ko.wikipedia.org/wiki/사신신학 "wikilink")자이다. 그는 [프리드리히 니체의](../Page/프리드리히_니체.md "wikilink") 개념인 신의 죽음과 [헤겔](https://ko.wikipedia.org/wiki/헤겔 "wikilink")의 [ 변증법적 철학](../Page/변증법.md "wikilink") 으로 자신의 조직신학을 세웠다.
 
-## 함께보기
+## 같이 보기
 
   - [Christian atheism](../Page/기독교_무신론.md "wikilink")
   - [사신신학](https://ko.wikipedia.org/wiki/사신신학 "wikilink")

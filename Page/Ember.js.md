@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Ember.js](https://ko.wikipedia.org/wiki/Ember.js).
 
 
-**Ember.js**는 [모델-뷰-뷰모델](https://ko.wikipedia.org/wiki/모델-뷰-뷰모델 "wikilink")(MVV) 패턴에 기반을 둔 [오픈 소스](../Page/오픈_소스_소프트웨어.md "wikilink") [자바스크립트](../Page/자바스크립트.md "wikilink") [웹 프레임워크이다](../Page/웹_프레임워크.md "wikilink"). 공통 이디엄(idiom)과 최상의 프랙티스(practice)를 프레임워크에 도입함으로써 개발자들이 스케일링이 가능한 [싱글 페이지 웹 애플리케이션을](../Page/싱글_페이지_애플리케이션.md "wikilink") 개발할 수 있게 한다.\[1\]
+**Ember.js**는 [모델-뷰-뷰모델](../Page/모델-뷰-뷰모델.md "wikilink")(MVV) 패턴에 기반을 둔 [오픈 소스](../Page/오픈_소스_소프트웨어.md "wikilink") [자바스크립트](../Page/자바스크립트.md "wikilink") [웹 프레임워크이다](../Page/웹_프레임워크.md "wikilink"). 공통 이디엄(idiom)과 최상의 프랙티스(practice)를 프레임워크에 도입함으로써 개발자들이 스케일링이 가능한 [싱글 페이지 웹 애플리케이션을](../Page/싱글_페이지_애플리케이션.md "wikilink") 개발할 수 있게 한다.\[1\]
 
 Ember는 수많은 유명 웹사이트에 사용되는데, 여기에는 [디스코스](https://ko.wikipedia.org/wiki/디스코스 "wikilink"),\[2\] [그루폰](https://ko.wikipedia.org/wiki/그루폰 "wikilink"),\[3\] [링크드인](../Page/링크드인.md "wikilink"), [Vine](https://ko.wikipedia.org/wiki/Vine "wikilink"), [Live Nation](https://ko.wikipedia.org/wiki/Live_Nation "wikilink"), [노드스트롬](../Page/노드스트롬.md "wikilink"), [트위치](../Page/트위치.md "wikilink"), [치폴레가](https://ko.wikipedia.org/wiki/치폴레_멕시칸_그릴 "wikilink") 포함된다.\[4\] 주로 웹 프레임워크로 간주되지만 Ember로 데스크톱과 모바일 애플리케이션도 만들 수 있다.\[5\]\[6\]\[7\] Ember 데스크톱의 가장 저명한 예로 [애플 뮤직](../Page/애플_뮤직.md "wikilink"),\[8\]([아이튠즈](../Page/아이튠즈.md "wikilink") 데스크톱 애플리케이션의 한 기능)이 있다. Ember의 상표는 Tilde사가 소유하고 있다.\[9\]
 

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [OLE ](https://ko.wikipedia.org/wiki/OLE_).
+> This article is converted from Wikipedia: [OLE 자동화](https://ko.wikipedia.org/wiki/OLE_자동화).
 
 
 [마이크로소프트 윈도우](../Page/마이크로소프트_윈도우.md "wikilink") 애플리케이션 프로그래밍에서 **OLE 자동화**(OLE Automation, 나중에는 간단히 **자동화**로 이름이 변경됨\[1\]\[2\])는 [마이크로소프트](../Page/마이크로소프트.md "wikilink")가 개발한 [프로세스 간 통신](../Page/프로세스_간_통신.md "wikilink")(IPC) 매커니즘이다. [컴포넌트 오브젝트 모델](../Page/컴포넌트_오브젝트_모델.md "wikilink")(COM)의 하위 집합에 기반을 두며, [스크립트 언어](../Page/스크립트_언어.md "wikilink")(원래는 비주얼 베이직)를 통해 사용되도록 고안되었으나 지금은 윈도우에서 여러 언어를 통해 사용할 수 있다. 모든 자동화 오브젝트들은 [IDispatch](https://ko.wikipedia.org/wiki/IDispatch "wikilink") 인터페이스의 구현이 요구된다. "자동화 컨트롤러"라는 이름의 응용 프로그램들이 다른 응용 프로그램들이 내보낸 공유 "자동화 오브젝트"를 접근하고 조작(예: 속성 설정 또는 메소드 호출)할 수 있는 인프라스트럭처를 제공한다. 애플리케이션이 다른 애플리케이션을 통제하는 더 오래된 매커니즘인 [동적 데이터 교환](https://ko.wikipedia.org/wiki/동적_데이터_교환 "wikilink")(DDE)를 대체한다.\[3\] DDE처럼 OLE 자동화에서 자동화 컨트롤러는 "클라이언트"이며 자동화 오브젝트를 내보내는 애플리케이션은 "서버"이다.

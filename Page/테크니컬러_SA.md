@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ SA](https://ko.wikipedia.org/wiki/_SA).
+> This article is converted from Wikipedia: [테크니컬러 SA](https://ko.wikipedia.org/wiki/테크니컬러_SA).
 
 
 **테크니컬러 SA**(, 이전 이름: **톰슨 SARL**/Thomson SARL, **톰슨 멀티미디어**/Thomson Multimedia)는 통신, 미디어, 그리고 엔터테인먼트 산업을 위한 서비스와 제품을 제공하는 [프랑스](../Page/프랑스.md "wikilink")의 [다국적 기업이다](../Page/다국적_기업.md "wikilink").

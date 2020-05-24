@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TBN  \(\)](https://ko.wikipedia.org/wiki/TBN__\(\)).
+> This article is converted from Wikipedia: [TBN 차차차 \(대구\)](https://ko.wikipedia.org/wiki/TBN_차차차_\(대구\)).
 
 
 **TBN 차차차**는 [TBN 대구교통방송](../Page/대구교통방송.md "wikilink")(대구,경주,구미 FM 103.9㎒, 김천 FM 95.9㎒)에서 매일 낮 12시 5분부터 2시까지 방송되는 대구·경북권 지역의 라디오 음악 프로그램이다.

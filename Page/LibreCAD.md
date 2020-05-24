@@ -13,7 +13,7 @@ LibreCAD는 큐캐드와 마찬가지로 AutoCAD [DXF](../Page/DXF.md "wikilink"
 
 GNU LibreDWG [라이브러리](https://ko.wikipedia.org/wiki/라이브러리 "wikilink")는 [GPL](https://ko.wikipedia.org/wiki/GPL "wikilink")v3 하에서 배포되기 때문에 라이선스가 호환되지 않으므로 GPLv2 라이선스가있는 LibreCAD (및 FreeCAD )\[5\]\[6\] 에서는 사용할 수 없었다 .\[7\] GNU LibreDWG를 GPLv2로 재 라이센스 하기 위해 [FSF](https://ko.wikipedia.org/wiki/FSF "wikilink") 에 이러한 요청이 제출되었다.\[8\] 이 논쟁은 보다 완벽한 DWG를 지원하는 libdxfrw 라는 새로운 GPLv2 라이센스 라이브러리를 작성함으로써 해결되었다.\[9\]
 
-## 함께보기
+## 같이 보기
 
   - [QCad](../Page/QCad.md "wikilink")
   - [드래프트 사이트](https://ko.wikipedia.org/wiki/드래프트_사이트 "wikilink")

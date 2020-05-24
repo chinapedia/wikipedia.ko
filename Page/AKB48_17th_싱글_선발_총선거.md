@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [AKB48 17th   ](https://ko.wikipedia.org/wiki/AKB48_17th___).
+> This article is converted from Wikipedia: [AKB48 17th 싱글 선발 총선거](https://ko.wikipedia.org/wiki/AKB48_17th_싱글_선발_총선거).
 
 
 {{역사적 사건 정보 |이름 = AKB48 17th 싱글 선발 총선거

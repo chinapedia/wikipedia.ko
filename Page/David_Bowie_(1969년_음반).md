@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [David Bowie \(1969 \)](https://ko.wikipedia.org/wiki/David_Bowie_\(1969_\)).
+> This article is converted from Wikipedia: [David Bowie \(1969년 음반\)](https://ko.wikipedia.org/wiki/David_Bowie_\(1969년_음반\)).
 
 
 《**David Bowie**》는 [영국](../Page/영국.md "wikilink") [필립스 레코드가](https://ko.wikipedia.org/wiki/필립스_레코드 "wikilink") 그 제목으로 발매한 [영국](../Page/영국.md "wikilink")의 음악가 [데이비드 보위의](../Page/데이비드_보위.md "wikilink") 두 번째 스튜디오 음반이며, 1969년 11월 14일 [미국](../Page/미국.md "wikilink") [머큐리 레코드의](../Page/머큐리_레코드.md "wikilink") 《**Man of Words/Man of Music**》으로 발매되었다. 1972년 [RCA 레코드에](../Page/RCA_레코드.md "wikilink") 의해 《**Space Oddity**》([영국 싱글 차트에서](https://ko.wikipedia.org/wiki/영국_싱글_차트 "wikilink") 5위에 도달한 [오프닝 트랙의](https://ko.wikipedia.org/wiki/Space_Oddity "wikilink") 제목)로 재발행되었다. 《Space Oddity》는 1984년, 1990년, 1999년 이 음반의 CD 발매에 사용된 이름이었으나, 2009년과 2015년 재발매를 위한 원래의 상징적 제목으로 되돌아갔다.

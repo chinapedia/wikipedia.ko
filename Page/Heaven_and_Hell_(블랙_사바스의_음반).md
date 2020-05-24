@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Heaven and Hell \(  \)](https://ko.wikipedia.org/wiki/Heaven_and_Hell_\(__\)).
+> This article is converted from Wikipedia: [Heaven and Hell \(블랙 사바스의 음반\)](https://ko.wikipedia.org/wiki/Heaven_and_Hell_\(블랙_사바스의_음반\)).
 
 
 《**Heaven and Hell**》은 1980년 4월 25일에 발매된 [영국](../Page/영국.md "wikilink")의 [헤비 메탈](../Page/헤비_메탈.md "wikilink") 밴드 [블랙 사바스의](../Page/블랙_사바스.md "wikilink") 아홉 번째 스튜디오 음반이다. 1979년 원조 보컬 [오지 오스본을](https://ko.wikipedia.org/wiki/오지_오스본 "wikilink") 대체한 [로니 제임스 디오의](../Page/로니_제임스_디오.md "wikilink") 첫 블랙 사바스 음반이다.

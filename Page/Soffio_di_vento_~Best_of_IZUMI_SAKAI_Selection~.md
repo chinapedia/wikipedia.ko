@@ -11,7 +11,7 @@
 
   - DVD
 
-## 함께 보기
+## 같이 보기
 
   - 《[Brezza di mare \~dedicated to IZUMI SAKAI\~](../Page/Brezza_di_mare_~dedicated_to_IZUMI_SAKAI~.md "wikilink")》
 

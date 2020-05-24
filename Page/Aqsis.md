@@ -9,7 +9,7 @@
 
 메이크휴면(MakeHuman) 프로젝트는 에이큐시스(Aqsis)를 사용하여 인체의 현실적인 렌더링을 만든다.\[1\]
 
-## 함께보기
+## 같이 보기
 
   - [픽사](../Page/픽사.md "wikilink")의 [렌더맨](https://ko.wikipedia.org/wiki/렌더맨 "wikilink")
 

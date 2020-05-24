@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Slowhand](https://ko.wikipedia.org/wiki/Slowhand).
 
 
-《**Slowhand**》는 [에릭 클랩튼의](../Page/에릭_클랩튼.md "wikilink") 다섯 번째 솔로 스튜디오 음반이다. 1977년 11월 25일 [RSO 레코드에](https://ko.wikipedia.org/wiki/RSO_레코드 "wikilink") 의해 발표되었고, 클랩튼의 별명에 따라 제목이 붙여진 이 음반은 상업적이고 비판적으로 가장 성공적인 그의 스튜디오 음반들 중 하나이다. 《Slowhand》는 히트곡인 〈[Lay Down Sally](https://ko.wikipedia.org/wiki/Lay_Down_Sally "wikilink")〉와 〈[Wonderful Tonight](https://ko.wikipedia.org/wiki/Wonderful_Tonight "wikilink")〉을 프로듀싱했고, 다양한 국제 음악 차트에 올랐고, 수많은 상과 음반 인증으로 영예를 안았다. 2012년에는 이 음반의 35주년을 기념하기 위해 디럭스 에디션이 출시되었다.
+《**Slowhand**》는 [에릭 클랩튼의](../Page/에릭_클랩튼.md "wikilink") 다섯 번째 솔로 스튜디오 음반이다. 1977년 11월 25일 [RSO 레코드에](https://ko.wikipedia.org/wiki/RSO_레코드 "wikilink") 의해 발표되었고, 클랩튼의 별명에 따라 제목이 붙여진 이 음반은 상업적이고 비판적으로 가장 성공적인 그의 스튜디오 음반들 중 하나이다. 《Slowhand》는 히트곡인 〈[Lay Down Sally](https://ko.wikipedia.org/wiki/Lay_Down_Sally "wikilink")〉와 〈[Wonderful Tonight](../Page/Wonderful_Tonight.md "wikilink")〉을 프로듀싱했고, 다양한 국제 음악 차트에 올랐고, 수많은 상과 음반 인증으로 영예를 안았다. 2012년에는 이 음반의 35주년을 기념하기 위해 디럭스 에디션이 출시되었다.
 
 ## 녹음
 

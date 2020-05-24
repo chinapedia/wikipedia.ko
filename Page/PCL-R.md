@@ -11,7 +11,7 @@
 
 [허비 클레클리등의](https://ko.wikipedia.org/wiki/허비_클레클리 "wikilink") 심리학적 개념에대한 작업이 이에 영향을 준것으로 알려져있다.
 
-## 함께보기
+## 같이 보기
 
   - [DSM-5](../Page/DSM-5.md "wikilink")
   - [ICD-10 챕터 V: 정신 및 행동 장애](../Page/ICD-10_챕터_V:_정신_및_행동_장애.md "wikilink")

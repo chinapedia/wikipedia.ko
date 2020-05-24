@@ -81,7 +81,7 @@
 | 8월                                                            | [양현종](../Page/양현종.md "wikilink")                                 | [KIA 타이거즈](https://ko.wikipedia.org/wiki/KIA_타이거즈 "wikilink") | 투수                                                            | 5경기 35.1이닝, 3승, 평균자책점 0.51, 29탈삼진     | 기자단, 팬 투표 1위                                                         |              |        |
 | 9월                                                            |                                                                  |                                                               |                                                               |                                       |                                                                      |              |        |
 
-## 함께 보기
+## 같이 보기
 
   - [KBO MVP](https://ko.wikipedia.org/wiki/KBO_MVP "wikilink")
   - [일본 프로 야구 월간 MVP](../Page/일본_프로_야구_월간_MVP.md "wikilink")

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Annotated image](https://ko.wikipedia.org/wiki/:Annotated_image).
+> This article is converted from Wikipedia: [틀:Annotated image](https://ko.wikipedia.org/wiki/틀:Annotated_image).
 
 
 <includeonly>{{\#ifeq:|center|

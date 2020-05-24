@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [HMS  \(R68\)](https://ko.wikipedia.org/wiki/HMS__\(R68\)).
+> This article is converted from Wikipedia: [HMS 오션 \(R68\)](https://ko.wikipedia.org/wiki/HMS_오션_\(R68\)).
 
 
 **HMS 오션 (R68)**은 영국 해군의 콜로서스급 항공모함이다. 콜로서스급은 10척이 건조되었으며, 오션함은 3번함이다.

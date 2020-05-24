@@ -7,7 +7,7 @@ CPE 코어는 기존 캐시 계층 구조 대신 64KB의 스크래치 패드 메
 
 SW26010은 [썬웨이 타이후 라이트](https://ko.wikipedia.org/wiki/썬웨이_타이후_라이트 "wikilink")(Sunway TaihuLight) 슈퍼 컴퓨터에 사용되며, 2016년 11월 현재 [TOP500](../Page/TOP500.md "wikilink") 프로젝트에서 세계에서 가장 빠른 슈퍼 컴퓨터이다. 이 시스템은 40,960 개의 SW26010을 사용하여 [LINPACK](../Page/LINPACK.md "wikilink") 벤치 마크에서 93.01 PFlop/s를 얻었다.\[7\]
 
-## 함께보기
+## 같이 보기
 
   - [베오울프 클러스터](../Page/베오울프_클러스터.md "wikilink")
   - [스팍프로세서](../Page/SPARC.md "wikilink")

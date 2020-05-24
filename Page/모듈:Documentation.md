@@ -136,7 +136,7 @@ function p._main(args)
 `   local env = p.getEnvironment(args)`
 `   local root = mw.html.create()`
 `   root`
-`       --:wikitext(p.protectionTemplate(env))`
+`       :wikitext(p.protectionTemplate(env))`
 `       :wikitext(p.sandboxNotice(args, env))`
 `        -- This div tag is from ``, but moving it here`
 `        -- so that we don't have to worry about unclosed tags.`
@@ -378,7 +378,37 @@ function p.sandboxNotice(args, env)
 
 end
 
-\--function p.protectionTemplate(env) -- -- Generates the padlock icon in the top right. -- -- @env - environment table containing title objects, etc., generated with p.getEnvironment -- -- Messages: -- -- 'protection-template' --\> 'pp-template' -- -- 'protection-template-args' --\> {docusage = 'yes'} -- local protectionLevels, mProtectionBanner -- local title = env.title -- protectionLevels = env.protectionLevels -- if not protectionLevels then -- return nil -- end -- local editProt = protectionLevels.edit and protectionLevels.edit\[1\] -- local moveProt = protectionLevels.move and protectionLevels.move\[1\] -- if editProt then -- -- The page is edit-protected. -- mProtectionBanner = require('Module:Protection banner') -- local reason = message('protection-reason-edit') -- return mProtectionBanner._main{'이유', '크기 = 작게'} -- elseif moveProt and moveProt \~= 'autoconfirmed' then -- -- The page is move-protected but not edit-protected. Exclude move -- -- protection with the level "autoconfirmed", as this is equivalent to -- -- no move protection at all. -- mProtectionBanner = require('Module:Protection banner') -- return mProtectionBanner._main{action = '이동', '크기 = 작게'} -- else -- return nil -- end --end
+function p.protectionTemplate(env)
+
+`   -- Generates the padlock icon in the top right.`
+`   -- @env - environment table containing title objects, etc., generated with p.getEnvironment`
+`   -- Messages:`
+`   -- 'protection-template' --> 'pp-template'`
+`   -- 'protection-template-args' --> {docusage = 'yes'}`
+`   local protectionLevels, mProtectionBanner`
+`   local title = env.title`
+`   protectionLevels = env.protectionLevels`
+`   if not protectionLevels then`
+`       return nil`
+`   end`
+`   local editProt = protectionLevels.edit and protectionLevels.edit[1]`
+`   local moveProt = protectionLevels.move and protectionLevels.move[1]`
+`   if editProt then`
+`       -- The page is edit-protected.`
+`       mProtectionBanner = require('Module:Protection banner')`
+`       local reason = message('protection-reason-edit')`
+`       return mProtectionBanner._main{'이유', '크기 = 작게'}`
+`   elseif moveProt and moveProt ~= 'autoconfirmed' then`
+`       -- The page is move-protected but not edit-protected. Exclude move`
+`       -- protection with the level "autoconfirmed", as this is equivalent to`
+`       -- no move protection at all.`
+`       mProtectionBanner = require('Module:Protection banner')`
+`       return mProtectionBanner._main{action = '이동', '크기 = 작게'}`
+`   else`
+`       return nil`
+`   end`
+
+end
 
 -----
 
@@ -402,7 +432,7 @@ function p._startBox(args, env)
 `   env = env or p.getEnvironment(args)`
 `   local links`
 `   local content = (args.content or args["내용"])`
-`   if not content then`
+`   if not content or args[1] then`
 `       -- No need to include the links if the documentation is on the template page itself.`
 `       local linksData = p.makeStartBoxLinksData(args, env)`
 `       if linksData then`
@@ -690,7 +720,7 @@ function p._endBox(args, env)
 `   fmargs.id = message('fmbox-id') -- Sets 'documentation-meta-data'`
 `   fmargs.image = 'none'`
 `   fmargs.style = message('fmbox-style') -- Sets 'background-color: #ecfcf4'`
-`   -- fmargs.textstyle = message('fmbox-textstyle') -- 'font-style: italic;'`
+`   fmargs.textstyle = message('fmbox-textstyle') -- 'font-style: italic;'`
 
 `   -- Assemble the fmbox text field.`
 `   local text = ''`

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [MIX \(\)](https://ko.wikipedia.org/wiki/MIX_\(\)).
+> This article is converted from Wikipedia: [MIX \(만화\)](https://ko.wikipedia.org/wiki/MIX_\(만화\)).
 
 
 《**MIX**》(믹스)는 [일본](../Page/일본.md "wikilink") 만화 잡지인 [겟산](https://ko.wikipedia.org/wiki/겟산 "wikilink")에 연재된 [아다치 미쓰루의](https://ko.wikipedia.org/wiki/아다치_미쓰루 "wikilink") [만화](../Page/만화.md "wikilink")이다. [2012년](../Page/2012년.md "wikilink") 6월호부터 연재 중이다. [터치](../Page/터치_\(만화\).md "wikilink"), [H2](../Page/H2_\(만화\).md "wikilink"), [크로스 게임에](../Page/크로스_게임.md "wikilink") 이은 네 번째 청춘야구만화이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FTSE 250 ](https://ko.wikipedia.org/wiki/FTSE_250_).
+> This article is converted from Wikipedia: [FTSE 250 지수](https://ko.wikipedia.org/wiki/FTSE_250_지수).
 
 
 **FTSE 250 지수**()는 [런던 증권거래소에](https://ko.wikipedia.org/wiki/런던_증권거래소 "wikilink") 상장된 101\~350번째로 큰 규모의 기업들을 이루는 지수이다. 3월, 6월, 9월, 12월마다(즉, 분기마다) 지수의 기업이 승급되거나 강등된다. 이 지수는 [실시간으로](https://ko.wikipedia.org/wiki/실시간_컴퓨팅 "wikilink") 계산되며 분마다 게시된다.

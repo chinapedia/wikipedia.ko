@@ -13,7 +13,7 @@ K 가 [완전 실수 체](https://ko.wikipedia.org/wiki/완전_실수_체 "wikil
 
 \[L(M,V,s) = \sum_{\mu\in \{M-0\}/V} \frac{\operatorname{sign} N(\mu)}{|N(\mu)|^s}\] 로 표현될 수 있다.
 
-## 함께보기
+## 같이 보기
 
   - [디리클레 에타 함수](../Page/디리클레_에타_함수.md "wikilink")
 

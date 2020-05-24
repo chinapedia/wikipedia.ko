@@ -24,7 +24,7 @@
   - *Wilfred Cantwell Smith Reader* (2001), Kenneth Cracknell editor, Oneworld Publications,
   - "Wilfred Cantwell Smith. A Chronological Bibliography", compiled by Russell T. McCutcheon, in Michel Despland, Gerard Vallée (eds.), *Religion in History. The Word, the Idea, the Reality*, Waterloo, Ontario, Wilfrid Laurier University Press 1992, pp. 243–252.
 
-## 함께보기
+## 같이 보기
 
   - [본질주의](https://ko.wikipedia.org/wiki/본질주의 "wikilink")
   - [종교다원주의](https://ko.wikipedia.org/wiki/종교다원주의 "wikilink")

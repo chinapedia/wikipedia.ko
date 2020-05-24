@@ -15,7 +15,7 @@
   - 〈[All Around the World](https://ko.wikipedia.org/wiki/All_Around_the_World_\(리틀_윌리_존의_노래\) "wikilink")〉, [리틀 윌리 존의](../Page/리틀_윌리_존.md "wikilink") 1955년 노래.
   - 〈[All Around the World](../Page/All_Around_the_World_\(오아시스의_노래\).md "wikilink")〉, [오아시스의](../Page/오아시스_\(밴드\).md "wikilink") 1998년 노래.
   - 〈[All Around the World](https://ko.wikipedia.org/wiki/All_Around_the_World_\(파울리나_루비오의_노래\) "wikilink")〉, [파울리나 루비오의](../Page/파울리나_루비오.md "wikilink") 2011년 노래.
-  - 〈[All Around the World](https://ko.wikipedia.org/wiki/All_Around_the_World_\(리사_스탠스필드의_노래_song\) "wikilink")〉, [리사 스탠스필드의](https://ko.wikipedia.org/wiki/리사_스탠스필드 "wikilink") 1989년 노래.
+  - 〈[All Around the World](https://ko.wikipedia.org/wiki/All_Around_the_World_\(리사_스탠스필드의_노래_song\) "wikilink")〉, [리사 스탠스필드의](../Page/리사_스탠스필드.md "wikilink") 1989년 노래.
   - 〈All Around the World〉, 〈[The Girl Can't Help It](https://ko.wikipedia.org/wiki/The_Girl_Can't_Help_It_\(노래\) "wikilink")〉 싱글의 B면에 수록된 [리틀 리처드의](../Page/리틀_리처드.md "wikilink") 노래.
   - 〈All Around the World〉, [노던 라인의](https://ko.wikipedia.org/wiki/노던_라인_\(밴드\) "wikilink") 노래.
   - 〈All Around the World〉, [라이오넬 리치의](https://ko.wikipedia.org/wiki/라이오넬_리치의_음반_목록 "wikilink") 노래.

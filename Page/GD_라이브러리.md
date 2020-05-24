@@ -7,7 +7,7 @@
 
 GD 라이브러리는 처음부터 소스코드가 [ANSI](https://ko.wikipedia.org/wiki/ANSI "wikilink") [C](../Page/C.md "wikilink")로 쓰여졌으나 [PHP](../Page/PHP.md "wikilink"), [Perl](https://ko.wikipedia.org/wiki/Perl "wikilink"), [Python](../Page/파이썬.md "wikilink"), Tcl, Lua, Pascal, GNU Octave, Ruby처럼 다양한 프로그램 언어들이 포팅하여 이를 지원한다.
 
-## 함께 보기
+## 같이 보기
 
   - [이미지매직](../Page/이미지매직.md "wikilink")
 

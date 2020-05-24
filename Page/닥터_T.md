@@ -16,7 +16,7 @@
   - [이호인](../Page/이호인.md "wikilink") - 할란(로버트 하이즈)
   - [이근욱](../Page/이근욱.md "wikilink") - 빌(맷 말로이)
   - [노민](../Page/노민.md "wikilink") - 엘리오스([앤디 릭터](https://ko.wikipedia.org/wiki/앤디_릭터 "wikilink"))
-  - [성선녀](../Page/성선녀.md "wikilink") - 마리아([리 그랜트](https://ko.wikipedia.org/wiki/리_그랜트 "wikilink"))
+  - [성선녀](../Page/성선녀.md "wikilink") - 마리아([리 그랜트](../Page/리_그랜트.md "wikilink"))
   - [강미형](../Page/강미형.md "wikilink") - 도로시(재닌 터너)
   - [문지현](../Page/문지현.md "wikilink") - 티파니
   - [김혜미](../Page/김혜미.md "wikilink") - 주디

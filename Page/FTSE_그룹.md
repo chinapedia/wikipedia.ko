@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FTSE ](https://ko.wikipedia.org/wiki/FTSE_).
+> This article is converted from Wikipedia: [FTSE 그룹](https://ko.wikipedia.org/wiki/FTSE_그룹).
 
 
 [thumb](https://ko.wikipedia.org/wiki/파일:FTSE_Logo.svg "wikilink")

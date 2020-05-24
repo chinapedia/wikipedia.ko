@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ K \(Y-DNA\)](https://ko.wikipedia.org/wiki/_K_\(Y-DNA\)).
+> This article is converted from Wikipedia: [하플로그룹 K \(Y-DNA\)](https://ko.wikipedia.org/wiki/하플로그룹_K_\(Y-DNA\)).
 
 
 **하플로그룹 K** (K-M9)는 [인류 Y-염색체 DNA 하플로그룹의](https://ko.wikipedia.org/wiki/인류_Y-염색체_DNA_하플로그룹 "wikilink") 일종으로, IJK의 하위 분기이며 남아시아나 서아시아에서 처음 발생하였을 것으로 보인다. K의 하위 분기들은 세계적으로 널리 분포되어 있으며, K의 직계 분기는 하플로그룹 K2와 하플로그룹 LT이다.\[1\]

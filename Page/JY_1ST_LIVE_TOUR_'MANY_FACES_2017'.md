@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [JY 1ST LIVE TOUR \'MANY FACES 2017\'](https://ko.wikipedia.org/wiki/JY_1ST_LIVE_TOUR_\'MANY_FACES_2017\').
 
 
-**[JY](../Page/강지영.md "wikilink")**의 첫번째 솔로 콘서트 이다.
+**[JY](../Page/강지영.md "wikilink")**의 첫번째 솔로 콘서트이다.
 
 ## 일정
 

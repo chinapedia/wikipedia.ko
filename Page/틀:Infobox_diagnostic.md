@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Infobox diagnostic](https://ko.wikipedia.org/wiki/:Infobox_diagnostic).
+> This article is converted from Wikipedia: [틀:Infobox diagnostic](https://ko.wikipedia.org/wiki/틀:Infobox_diagnostic).
 
 
 } | above = </includeonly>}}} | subheader = <includeonly>[의료 진단](https://ko.wikipedia.org/wiki/진단 "wikilink")</includeonly> | subheader2 = }}} | image = {{\#invoke:InfoboxImage|InfoboxImage|image=}}}|size=}}}|sizedefault=frameless|upright=1.3|alt=}}}}} | caption = }}}

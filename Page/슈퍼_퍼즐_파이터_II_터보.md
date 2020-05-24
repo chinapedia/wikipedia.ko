@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [   II ](https://ko.wikipedia.org/wiki/___II_).
+> This article is converted from Wikipedia: [슈퍼 퍼즐 파이터 II 터보](https://ko.wikipedia.org/wiki/슈퍼_퍼즐_파이터_II_터보).
 
 
 《**슈퍼 퍼즐 파이터 II 터보**》()는 [캡콤](../Page/캡콤.md "wikilink")이 제작한 1996년 [타일 조합식](https://ko.wikipedia.org/wiki/타일_조합 "wikilink") [퍼즐 게임이다](https://ko.wikipedia.org/wiki/퍼즐_게임 "wikilink"). [아케이드](../Page/아케이드_게임.md "wikilink") 전용 기판 [CP 시스템 II로](../Page/CP_시스템_II.md "wikilink") 처음 출시됐으며, [컴파일의](../Page/컴파일_\(기업\).md "wikilink") 《[뿌요뿌요 2](../Page/뿌요뿌요_2.md "wikilink")》로 시작된 대전 퍼즐 게임의 유행세를 타 개발된 게임이다.\[1\] 제목은 캡콤의 대전 격투 게임 《[슈퍼 스트리트 파이터 II 터보](../Page/슈퍼_스트리트_파이터_II_터보.md "wikilink")》의 [패러디](https://ko.wikipedia.org/wiki/패러디 "wikilink")로, 등장인물과 그래픽부터 음악까지 《[스트리트 파이터 알파](https://ko.wikipedia.org/wiki/스트리트_파이터_알파 "wikilink")》부터 《[다크스토커즈](https://ko.wikipedia.org/wiki/다크스토커즈 "wikilink")》를 아우르는 각종 캡콤 게임들로 이뤄져있다. 일본판도 같은 게임의 제목을 따 《**슈퍼 퍼즐 파이터 II X**》(, )라는 제목으로 발매됐다.

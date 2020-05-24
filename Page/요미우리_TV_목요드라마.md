@@ -64,7 +64,7 @@
 
 <references />
 
-## 함께 보기
+## 같이 보기
 
   - [신드라](https://ko.wikipedia.org/wiki/신드라 "wikilink")
   - [어른의 토드라](../Page/어른의_토드라.md "wikilink")

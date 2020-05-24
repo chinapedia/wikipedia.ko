@@ -34,9 +34,9 @@
 
 미국은 미국 최초의 MRBM 주피터만이 아니라, 2019년 현재까지도 다양한 비슷한 사거리의 핵무기를 배치하고 있다.
 
-[토마호크 미사일의](https://ko.wikipedia.org/wiki/토마호크_미사일 "wikilink") 사거리는 2,500 km 이다. 해군 구축함, 잠수함에 배치되어 있으며, 제트유를 사용하기 때문에 연료주입이 필요없어서, 명령 즉시 발사되지만, 아음속이어서 2,500 km를 비행하는데 3시간 정도 걸린다.
+[토마호크 미사일의](https://ko.wikipedia.org/wiki/토마호크_미사일 "wikilink") 사거리는 2,500 km이다. 해군 구축함, 잠수함에 배치되어 있으며, 제트유를 사용하기 때문에 연료주입이 필요없어서, 명령 즉시 발사되지만, 아음속이어서 2,500 km를 비행하는데 3시간 정도 걸린다.
 
-[그리폰 미사일의](https://ko.wikipedia.org/wiki/그리폰_미사일 "wikilink") 사거리는 2,500 km 이다. 지상 트럭에서 명령 즉시 발사되는 토마호크 미사일이다. 미소간의 [INF 조약으로](https://ko.wikipedia.org/wiki/INF_조약 "wikilink") 1987년에 폐기되었다.
+[그리폰 미사일의](https://ko.wikipedia.org/wiki/그리폰_미사일 "wikilink") 사거리는 2,500 km이다. 지상 트럭에서 명령 즉시 발사되는 토마호크 미사일이다. 미소간의 [INF 조약으로](https://ko.wikipedia.org/wiki/INF_조약 "wikilink") 1987년에 폐기되었다.
 
 [퍼싱2](https://ko.wikipedia.org/wiki/퍼싱2 "wikilink") MRBM은 고체연료를 사용하는 2단 로켓이다. 비공식적인 사거리 2500 km로 알려져 있다. 액체연료와 달리 이미 연료가 주입된 상태여서, 즉시 발사가 가능하다.
 

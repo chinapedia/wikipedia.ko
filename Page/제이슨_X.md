@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ X](https://ko.wikipedia.org/wiki/_X).
+> This article is converted from Wikipedia: [제이슨 X](https://ko.wikipedia.org/wiki/제이슨_X).
 
 
 《**제이슨 X**》(Jason X)는 미국에서 제작된 [제임스 아이삭](https://ko.wikipedia.org/wiki/제임스_아이삭 "wikilink") 감독의 2001년 공포, SF, 코미디, 액션, 스릴러 영화이다. [렉사 더그](https://ko.wikipedia.org/wiki/렉사_더그 "wikilink") 등이 주연으로 출연하였고 [제임스 아이삭](https://ko.wikipedia.org/wiki/제임스_아이삭 "wikilink") 등이 제작에 참여하였다.

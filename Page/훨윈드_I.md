@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [훨윈드 I](https://ko.wikipedia.org/wiki/훨윈드_I).
 
 
-[thumb](https://ko.wikipedia.org/wiki/파일:Museum_of_Science,_Boston,_MA_-_IMG_3168.JPG "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:8863-Project-Whirlwind-CRMI.JPG "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:8868-Project-Whirlwind-CRMI.JPG "wikilink")
+[섬네일](https://ko.wikipedia.org/wiki/파일:Museum_of_Science,_Boston,_MA_-_IMG_3168.JPG "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:8863-Project-Whirlwind-CRMI.JPG "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:8868-Project-Whirlwind-CRMI.JPG "wikilink")
 
 **훨윈드 I**(Whirlwind I)은 [미국 해군을](../Page/미국_해군.md "wikilink") 위해 [MIT](../Page/매사추세츠_공과대학교.md "wikilink") 서보매커니즘스 연구소가 개발한 [냉전](../Page/냉전.md "wikilink") 시대의 [진공관 컴퓨터였다](https://ko.wikipedia.org/wiki/진공관_컴퓨터_목록 "wikilink"). 출력을 위해 실시간으로 동작한 최초의 디지털 전자식 컴퓨터 가운데 하나였으며 단순히 구 기계식 시스템을 전자식으로 대체한 것이 아니었던 최초의 컴퓨터였다.
 

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [HPV ](https://ko.wikipedia.org/wiki/HPV_).
+> This article is converted from Wikipedia: [HPV 백신](https://ko.wikipedia.org/wiki/HPV_백신).
 
 
 **인유두종 바이러스(HPV) 백신**()은 특정한 종류의 [인유두종](https://ko.wikipedia.org/wiki/인유두종 "wikilink")에 의한 감염을 예방하는 [백신](../Page/백신.md "wikilink")이다.\[1\] 2종, 4종, 9종의 HPV에 대항한 백신들이 판매되고 있다.\[2\]\[3\] 모든 백신은 적어도 [자궁경부암](../Page/자궁경부암.md "wikilink")의 가장 큰 위험을 일으키는 HPV 타입 16과 18에 대항하여 보호한다.\[4\] 자궁경부암의 70%, [항문암](https://ko.wikipedia.org/wiki/항문암 "wikilink")의 80%, [질암](https://ko.wikipedia.org/wiki/질암 "wikilink")의 60%, [외음부암](https://ko.wikipedia.org/wiki/외음부암 "wikilink")의 40%, 잠재적으로는 일부 [구강암을](https://ko.wikipedia.org/wiki/구인두암 "wikilink") 예방할 수 있는 것으로 추산되었다.\[5\]\[6\]\[7\] 추가적으로, 더 큰 보호를 제공하는, 4 및 9 HPV 타입에 대항하는 백신들로 일부 [생식기 사마귀를](https://ko.wikipedia.org/wiki/생식기_사마귀 "wikilink") 예방한다.\[8\]

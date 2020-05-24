@@ -13,7 +13,7 @@
 
   - DVD
 
-## 함께 보기
+## 같이 보기
 
   - 《[Soffio di vento \~Best of IZUMI SAKAI Selection\~](../Page/Soffio_di_vento_~Best_of_IZUMI_SAKAI_Selection~.md "wikilink")》
 

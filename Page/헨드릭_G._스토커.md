@@ -7,7 +7,7 @@
 
   - *Een en ander oor menslike vrijheid*. In: *Festschrift für H.J. de Vleeschauwer*. 1960, S. 150−172.
 
-## 함께 보기
+## 같이 보기
 
   - [ 헤르만 도예베르트](../Page/헤르만_도예베르트.md "wikilink")
   - [디르크 볼렌호븐](../Page/디르크_볼렌호븐.md "wikilink")

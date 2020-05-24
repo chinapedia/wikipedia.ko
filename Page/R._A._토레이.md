@@ -9,7 +9,7 @@
 
 그는 성령의 신자 안에서 시작하시는 역사를 말하면서 [요한복음](https://ko.wikipedia.org/wiki/요한복음 "wikilink") 16:7-11의 말씀을 근거로 하여 죄와 의와 심판에 대하여 세상을 책망하시는 일이 [성령](../Page/성령.md "wikilink")이라고 말한다.
 
-## 참고문헌
+## 참고 문헌
 
   - *How to Bring Men to Christ*, ([E-text](https://books.google.com/books?id=BMkWAAAAYAAJ&dq=how%20to%20bring%20men%20to%20christ&pg=PP1#v=onepage&q&f=false)) (1893)
   - *Baptism with the Holy Spirit*, ([E-text](https://books.google.com/books?id=LIsTAAAAYAAJ&dq=baptism%20with%20the%20holy%20spirit%20torrey&pg=PP1#v=onepage&q&f=false)) (1895)

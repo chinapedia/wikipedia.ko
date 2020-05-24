@@ -16,7 +16,7 @@
 | [트리플 DES](../Page/트리플_DES.md "wikilink")                      | 112 / 168   | 64    |
 | [IDEA](../Page/국제_데이터_암호화_알고리즘.md "wikilink")\[5\]            | 128         | 64    |
 | [RC2](https://ko.wikipedia.org/wiki/RC2 "wikilink")\[6\]      | 1024        | 64    |
-| [RC4](https://ko.wikipedia.org/wiki/RC4 "wikilink")\[7\]      | 2048        | 8     |
+| [RC4](../Page/RC4.md "wikilink")\[7\]                         | 2048        | 8     |
 | [RC5](https://ko.wikipedia.org/wiki/RC5 "wikilink")\[8\]      | 832         | 64    |
 | [스킵잭](https://ko.wikipedia.org/wiki/스킵잭 "wikilink")\[9\]      | 80          | 64    |
 

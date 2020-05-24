@@ -81,7 +81,7 @@
 
 ## 외부 링크
 
-  - [Daum공식팬카페](http://cafe.daum.net/MAP6)
+  - [Daum공식팬카페](https://web.archive.org/web/20161104071722/http://cafe.daum.net/MAP6)
   - [페이스북](https://www.facebook.com/officialmap6)
   - [트위터](https://twitter.com/officialmap6)
 

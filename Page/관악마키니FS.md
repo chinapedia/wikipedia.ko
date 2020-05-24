@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FS](https://ko.wikipedia.org/wiki/FS).
+> This article is converted from Wikipedia: [관악마키니FS](https://ko.wikipedia.org/wiki/관악마키니FS).
 
 
 **관악마키니FS**(Gwanak Makini Futsal Club)는 [서울특별시 관악구를](https://ko.wikipedia.org/wiki/관악구 "wikilink") 연고로 하며 대한민국 풋살 2부리그 [FK 드림리그에](../Page/FK_드림리그.md "wikilink") 참가하는 풋살 구단이다.

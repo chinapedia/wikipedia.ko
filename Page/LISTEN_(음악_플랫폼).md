@@ -27,4 +27,4 @@
 
 ## 외부 링크
 
-[분류:미스틱엔터테인먼트](https://ko.wikipedia.org/wiki/분류:미스틱엔터테인먼트 "wikilink")
+[분류:미스틱스토리](https://ko.wikipedia.org/wiki/분류:미스틱스토리 "wikilink")

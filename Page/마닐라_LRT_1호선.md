@@ -1,10 +1,10 @@
-> This article is converted from Wikipedia: [ LRT 1](https://ko.wikipedia.org/wiki/_LRT_1).
+> This article is converted from Wikipedia: [마닐라 LRT 1호선](https://ko.wikipedia.org/wiki/마닐라_LRT_1호선).
 
 
 1100계 {{·}} 1200계 | 궤간 = 1,435mm ([표준궤](../Page/표준궤.md "wikilink")) | 전철화 = | 최고속도 = 30 \~ 60km/h\[1\] | 노선소유자 = [25px](https://ko.wikipedia.org/wiki/파일:Lrtalogo.svg "wikilink") LRT 운행당국 | 루트번호 = | 비고 = | 노선도 = [450px](https://ko.wikipedia.org/wiki/파일:Manila_metro.svg "wikilink")
 초록색 노선이 1호선이다. }}
 
-**마닐라 경전철 시스템 1호선** (, )는, [필리핀](../Page/필리핀.md "wikilink") [마닐라](../Page/마닐라.md "wikilink") 도심부 및 그의 주변도심부인 [메트로 마닐라에](../Page/메트로_마닐라.md "wikilink") 있는 도시철도 계통의 하나이다.
+**마닐라 경전철 시스템 1호선**(, )는 [필리핀](../Page/필리핀.md "wikilink") [마닐라](../Page/마닐라.md "wikilink") 도심부 및 그의 주변도심부인 [메트로 마닐라에](../Page/메트로_마닐라.md "wikilink") 있는 도시철도 계통의 하나이다.
 
 ## 역사
 

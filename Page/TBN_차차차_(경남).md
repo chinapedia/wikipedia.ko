@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TBN  \(\)](https://ko.wikipedia.org/wiki/TBN__\(\)).
+> This article is converted from Wikipedia: [TBN 차차차 \(경남\)](https://ko.wikipedia.org/wiki/TBN_차차차_\(경남\)).
 
 
 **TBN 차차차**는 [TBN 경남교통방송](../Page/경남교통방송.md "wikilink")(창원 FM 95.5㎒, 진주 FM 100.1㎒)에서 매일 낮 12시 5분부터 2시까지 방송되는 경남권 지역의 라디오 음악 프로그램이다.

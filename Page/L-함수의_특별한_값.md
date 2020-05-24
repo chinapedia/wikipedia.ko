@@ -23,7 +23,7 @@
 
 \[\zeta(3)=\frac{7}{180}\pi^3 -2 \sum_{k=1}^\infty \frac{1}{k^3 (e^{2\pi k} -1)}\]
 
-## 함께보기
+## 같이 보기
 
   - [L-함수](../Page/L-함수.md "wikilink")
   - [디리클레 에타 함수](../Page/디리클레_에타_함수.md "wikilink")

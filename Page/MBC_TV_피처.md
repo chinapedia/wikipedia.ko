@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [MBC TV ](https://ko.wikipedia.org/wiki/MBC_TV_).
+> This article is converted from Wikipedia: [MBC TV 피처](https://ko.wikipedia.org/wiki/MBC_TV_피처).
 
 
 《**MBC TV 피처**》는 [MBC](https://ko.wikipedia.org/wiki/MBC "wikilink")에서 [1989년](../Page/1989년.md "wikilink") [8월 15일부터](../Page/8월_15일.md "wikilink") [1989년](../Page/1989년.md "wikilink") [12월 28일까지](../Page/12월_28일.md "wikilink") 방영된 단막극 시리즈로, 이전 프로그램인 《[베스트셀러극장](../Page/MBC_베스트셀러극장.md "wikilink")》폐지 이후에, 편성 공백을 메우기 위해, 단막극으로 기획한 프로그램이다.

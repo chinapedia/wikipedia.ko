@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Infobox drug class](https://ko.wikipedia.org/wiki/:Infobox_drug_class).
+> This article is converted from Wikipedia: [틀:Infobox drug class](https://ko.wikipedia.org/wiki/틀:Infobox_drug_class).
 
 
 | above = {{\#if: | |}}

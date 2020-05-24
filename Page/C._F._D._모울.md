@@ -3,7 +3,7 @@
 
 **찰스 프란시스 딕비 모울** (Charles Francis Digby "Charlie" Moule [CBE](../Page/대영_제국_훈장.md "wikilink") FBA\[1\], 1908년 12월 3일 - 2007년 9월 30일) 은 일반적 C.F.D. 모울이라고 불리며, 영국 [성공회](../Page/성공회.md "wikilink") 사제이자 [신학자](https://ko.wikipedia.org/wiki/신학자 "wikilink")였다. 그는 신약신학 분야의 유명한 학자였다. 25동안 [케임브리지 대학교](../Page/케임브리지_대학교.md "wikilink") 신학부 래디 마가렛 교수였다.
 
-## 함께보기
+## 같이 보기
 
   - [제임스 던](../Page/제임스_던.md "wikilink")
 

@@ -117,22 +117,6 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/파일:Seibu_ikebukuro_logo.svg" title="wikilink">16px</a> <a href="../Page/세이부_유라쿠초_선.md" title="wikilink">세이부 유라쿠초 선</a></p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>SI38</p></td>
-<td><p><a href="../Page/신사쿠라다이_역.md" title="wikilink">신사쿠라다이</a></p></td>
-<td><p>●</p></td>
-<td><p>│</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/파일:Subway_TokyoFukutoshin.png" title="wikilink">15px</a> <a href="../Page/도쿄_지하철_후쿠토신_선.md" title="wikilink">도쿄 지하철 후쿠토신 선</a> (직결 운행), <a href="https://ko.wikipedia.org/wiki/파일:Subway_TokyoYurakucho.png" title="wikilink">15px</a> <a href="../Page/도쿄_지하철_유라쿠초_선.md" title="wikilink">유라쿠초 선</a></p></td>
-<td></td>
-</tr>
-<tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Tobu_Tojo_Line_(TJ)_symbol.svg" title="wikilink">15px</a> <a href="../Page/도부_도조_본선.md" title="wikilink">도부 도조 본선</a></p></td>
 <td><p>TJ-30</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/신린코엔_역_(사이타마_현)" title="wikilink">신린코엔</a></p></td>

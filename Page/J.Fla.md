@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [J.Fla](https://ko.wikipedia.org/wiki/J.Fla).
 
 
-**J.Fla**(**제이플라**, , [1987년](../Page/1987년.md "wikilink") [6월 10일](../Page/6월_10일.md "wikilink") \~ )는 대한민국의 가수이자 유튜버이다. 예명인 J.Fla의 유래는 정(J) + 화(花=Flower)이며 2016년 포니테일의 헤어스타일로 이미지 변신을 시도하고 특유의 스타일로 기존의 곡들을 커버한 영상을 유튜브에 업로드 하며 폭발적인 인기를 얻었다. 한국 시간 기준으로 매주 금요일에 본인의 유튜브 채널로 신규 커버 동영상을 게시한다.
+**J.Fla**(**제이플라**, , [1987년](../Page/1987년.md "wikilink") [6월 10일](../Page/6월_10일.md "wikilink") \~ )는 대한민국의 가수이자 유튜버이다. 2011년 8월 [비욘세](../Page/비욘세.md "wikilink")의 Halo를 본인의 유튜브 채널인 JFlaMusic에 올린 것이 첫 활동이었다. 2013년에는 [소니 엔터테인먼트 뮤직과](https://ko.wikipedia.org/wiki/소니_엔터테인먼트_뮤직_\(일본\) "wikilink") 계약을 체결했고, 이후 오스테리오와 계약을 체결했다.\[1\]
 
-한국 개인 유튜버로는 최초로 1000만 구독자를 달성했다. 2020년 3월 9일을 기준으로 1480만 명의 구독자를 보유하고 있고, 한국 유튜브 채널 중 10위에 올라있다.\[1\]
+J.Fla는 외국의 유명한 가수들의 곡을 직접 피처링하거나, 본인이 직접 작사 작곡한 곡들을 매주 금요일에 유튜브에 올리고 있다. 2018년 3월 15일에 대한민국 유튜버 순위에서 1위를 달성했으며\[2\] 2019년 10월 25일에는 대한민국 최초로 다이아몬드 버튼 유튜버가 되었다.\[3\]
 
 ## 활동
 
@@ -127,4 +127,6 @@
   -
 [분류:1987년 태어남](https://ko.wikipedia.org/wiki/분류:1987년_태어남 "wikilink") [분류:살아있는 사람](https://ko.wikipedia.org/wiki/분류:살아있는_사람 "wikilink") [분류:대한민국의 여자 가수](https://ko.wikipedia.org/wiki/분류:대한민국의_여자_가수 "wikilink") [분류:대한민국의 팝 가수](https://ko.wikipedia.org/wiki/분류:대한민국의_팝_가수 "wikilink") [분류:대한민국의 유튜버](https://ko.wikipedia.org/wiki/분류:대한민국의_유튜버 "wikilink")
 
-1.  <https://web.archive.org/web/20190426084136/https://watchin.today/ko/charts/channel/country/south-korea>
+1.
+2.
+3.

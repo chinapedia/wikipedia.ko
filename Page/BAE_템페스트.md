@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [BAE ](https://ko.wikipedia.org/wiki/BAE_).
+> This article is converted from Wikipedia: [BAE 템페스트](https://ko.wikipedia.org/wiki/BAE_템페스트).
 
 
 **BAE 템페스트**는 BAE 시스템즈에서 2025년부터 개발을 목표로 하고 있는 6세대 전투기이다. 해당 전투기의 이름인 템페스트는 영문으로 'Tempest'이며, 의미는 '돌풍'이라는 뜻이 있다.

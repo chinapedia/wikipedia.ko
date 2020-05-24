@@ -82,7 +82,7 @@
   - 《[사쿠라코 씨의 발밑에는 시체가 묻혀 있다](../Page/사쿠라코_씨의_발밑에는_시체가_묻혀_있다.md "wikilink")》 : (2017년 [4월](../Page/4월.md "wikilink") - [6월](../Page/6월.md "wikilink") 예정, 주연 : [미즈키 아리사](../Page/미즈키_아리사.md "wikilink"))
   - 《[경시청 생물계](https://ko.wikipedia.org/wiki/경시청_생물계 "wikilink")》 : (2017년 [7월](../Page/7월.md "wikilink") - [9월](../Page/9월.md "wikilink") 예정, 주연 : [와타베 아츠로](../Page/와타베_아츠로.md "wikilink"))
 
-## 함께 보기
+## 같이 보기
 
   - [파나소닉 드라마 시어터](https://ko.wikipedia.org/wiki/파나소닉_드라마_시어터 "wikilink") (오후 9시대)
   - [후지 TV 월요일 밤 9시 드라마](../Page/후지_TV_월요일_밤_9시_드라마.md "wikilink")

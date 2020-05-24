@@ -35,7 +35,7 @@
 
 #### 2020년
 
-## 함께 보기
+## 같이 보기
 
   - [SBS 금토드라마](../Page/SBS_금토드라마.md "wikilink")
   - [JTBC 금토드라마](../Page/JTBC_금토드라마.md "wikilink")

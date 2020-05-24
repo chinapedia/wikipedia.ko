@@ -3,7 +3,7 @@
 
 〈**내꺼야 (PICK ME)**〉는 2018년 노래로, [엠넷](../Page/엠넷.md "wikilink")의 서바이벌 리얼리티 프로그램 《[PRODUCE 48](https://ko.wikipedia.org/wiki/PRODUCE_48 "wikilink")》의 [참가자들이](../Page/PRODUCE_48_참가자_목록.md "wikilink") 부른 노래이다. 《PRODUCE 48》의 테마곡이기도 하다. 2018년 5월 10일 [스톤뮤직엔터테인먼트](https://ko.wikipedia.org/wiki/스톤뮤직엔터테인먼트 "wikilink")을 통해 공개되었다. 센터는 [HKT48](../Page/HKT48.md "wikilink")의 [미야와키 사쿠라가](../Page/미야와키_사쿠라.md "wikilink") 맡았다.\[1\]
 
-센터 결정은 [2018년](../Page/2018년.md "wikilink") [6월 29일](../Page/6월_29일.md "wikilink") 방송된 《PRODUCE 48》 제 3회에서 공개되었다. 연습생 중에서 능력 등에 따라 나뉜 A \~ F 등급 중 A 등급에 있었던 연습생인 김시현, 안유진, [미야와키 사쿠라](../Page/미야와키_사쿠라.md "wikilink"), [이가은](https://ko.wikipedia.org/wiki/가은_\(1994년\) "wikilink") 등 총 14명에 대한 B 등급 이하 연습생의 투표를 거쳤다. 첫 투표에서 [미야와키 사쿠라](../Page/미야와키_사쿠라.md "wikilink"), [이가은이](https://ko.wikipedia.org/wiki/가은_\(1994년\) "wikilink") 동점으로 1위가 되었으며 재투표에서 미야와키 사쿠라가 센터로 선발되었다.
+센터 결정은 [2018년](../Page/2018년.md "wikilink") [6월 29일](../Page/6월_29일.md "wikilink") 방송된 《PRODUCE 48》 제 3회에서 공개되었다. 연습생 중에서 능력 등에 따라 나뉜 A \~ F 등급 중 A 등급에 있었던 연습생인 김시현, 안유진, 장원영, [미야와키 사쿠라](../Page/미야와키_사쿠라.md "wikilink"), [이가은](https://ko.wikipedia.org/wiki/가은_\(1994년\) "wikilink") 등 총 14명에 대한 B 등급 이하 연습생의 투표를 거쳤다. 첫 투표에서 [미야와키 사쿠라](../Page/미야와키_사쿠라.md "wikilink"), [이가은이](https://ko.wikipedia.org/wiki/가은_\(1994년\) "wikilink") 동점으로 1위가 되었으며 재투표에서 미야와키 사쿠라가 센터로 선발되었다.
 
 [대한민국](../Page/대한민국.md "wikilink")의 음악 방송 [Mnet](https://ko.wikipedia.org/wiki/Mnet "wikilink") 《[엠카운트다운](https://ko.wikipedia.org/wiki/엠카운트다운 "wikilink")》에서 음원 공개 당일에 맞춘 [2018년](../Page/2018년.md "wikilink") [5월 10일](../Page/5월_10일.md "wikilink") 방송분에서 처음으로 공개되었다. (사전 녹화는 [2018년](../Page/2018년.md "wikilink") [4월 22일이다](../Page/4월_22일.md "wikilink").)\[2\].
 

@@ -11,7 +11,7 @@ S행렬이론은 [산란행렬](https://ko.wikipedia.org/wiki/산란행렬 "wiki
 
 S-행렬 이론은 1943 년 [하이젠베르크](https://ko.wikipedia.org/wiki/하이젠베르크 "wikilink")(Werner Heisenberg)에 의해 입자 상호 작용의 원리로 제시되었는데,\[4\] 이는 [존 휠러](https://ko.wikipedia.org/wiki/존_휠러 "wikilink")(John Archibald Wheeler)의 S 매트릭스의 1937년 도입에 이은것으로\[5\] 이것은 [제프리 추](https://ko.wikipedia.org/wiki/제프리_추 "wikilink")(Geoffrey Chew), [스티븐 프라우쉬](https://ko.wikipedia.org/wiki/스티븐_프라우쉬 "wikilink")(Steven Frautschi), [스탠리 만델스탐](https://ko.wikipedia.org/wiki/스탠리_만델스탐 "wikilink")(Stanley Mandelstam), [블라디미르 나우모비치 그리보프및](../Page/블라디미르_나우모비치_그리보프.md "wikilink") [툴리오 레제에](../Page/툴리오_레제.md "wikilink") 의해 크게 개발되었다. 이 이론의 일부는 소련 연방의 [레브 란다우](https://ko.wikipedia.org/wiki/레브_란다우 "wikilink")(Lev Landau)와 미국의 [머레이 겔만](https://ko.wikipedia.org/wiki/머레이_겔만 "wikilink")(Murray Gell-Mann)에 의해 추진되었다.
 
-## 함께보기
+## 같이 보기
 
   - [계 (물리학)](https://ko.wikipedia.org/wiki/계_\(물리학\) "wikilink")
   - [양자장론](../Page/양자장론.md "wikilink")

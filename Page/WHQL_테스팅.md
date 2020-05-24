@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [WHQL ](https://ko.wikipedia.org/wiki/WHQL_).
+> This article is converted from Wikipedia: [WHQL 테스팅](https://ko.wikipedia.org/wiki/WHQL_테스팅).
 
 
 **WHQL 테스팅**()은 서드파티 [하드웨어](https://ko.wikipedia.org/wiki/하드웨어 "wikilink")나 [소프트웨어](../Page/소프트웨어.md "wikilink")에 대해 일련의 테스트를 수행하고 검토를 위해 이러한 테스트로부터 얻은 [로그 파일을](https://ko.wikipedia.org/wiki/로그_파일 "wikilink") 마이크로스프트에 제출하는 일이 수반되는 [마이크로소프트](../Page/마이크로소프트.md "wikilink")의 테스트 과정이다. 이 절차는 각기 다른 하드웨어나 각기 다른 [마이크로소프트 윈도우](../Page/마이크로소프트_윈도우.md "wikilink") 에디션 등 다양한 장비에서 마이크로소프트가 자체적인 테스트를 수행하는 것이 포함된다.

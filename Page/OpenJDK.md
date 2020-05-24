@@ -15,7 +15,7 @@ OpenJDK는 처음에는 자바 플랫폼의 [JDK 7 버전에만](https://ko.wiki
   - OpenJDK 7u 프로젝트 - JDK 7 기반 및 기존 자바 7 릴리스의 업데이트 생성.
   - OpenJDK 6 프로젝트 - JDK 7 기반. [자바 6의](https://ko.wikipedia.org/wiki/자바_6 "wikilink") 오픈 소스 버전을 제공하기 위해 보강함.\[6\]\[7\]
 
-## 함께보기
+## 같이 보기
 
   - [GNU 클래스패스](../Page/GNU_클래스패스.md "wikilink")
   - [GCJ](../Page/GCJ.md "wikilink")

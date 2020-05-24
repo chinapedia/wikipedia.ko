@@ -96,7 +96,7 @@
     각본:시노사기 에리코
     제작:칸사이 TV, 쿄도 TV
 
-## 함께 보기
+## 같이 보기
 
   - [신드라](https://ko.wikipedia.org/wiki/신드라 "wikilink")
   - [닛폰 TV 방송망 수요 심야 드라마](https://ko.wikipedia.org/wiki/:ja:日本テレビ木曜未明の深夜ドラマ "wikilink")

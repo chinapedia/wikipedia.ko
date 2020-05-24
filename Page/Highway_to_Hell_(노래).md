@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Highway to Hell \(\)](https://ko.wikipedia.org/wiki/Highway_to_Hell_\(\)).
+> This article is converted from Wikipedia: [Highway to Hell \(노래\)](https://ko.wikipedia.org/wiki/Highway_to_Hell_\(노래\)).
 
 
 〈**Highway to Hell**〉은 [AC/DC](https://ko.wikipedia.org/wiki/AC/DC "wikilink")의 1979년 음반 《[Highway to Hell](../Page/Highway_to_Hell.md "wikilink")》의 오프닝 트랙이다. 처음에는 1979년에 싱글로 발매되었다.

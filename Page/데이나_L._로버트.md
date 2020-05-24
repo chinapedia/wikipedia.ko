@@ -15,7 +15,7 @@
   - 2000\. "Shifting Southward: Global Christianity since 1945," *International Bulletin of Missionary Research*, 24(2) pp. [50-58.](http://www.internationalbulletin.org/issues/2000-02/2000-02-050-robert.pdf)
   - 2013\. "Forty years of the American Society of Missiology: Retrospect and Prospect," *Missiology*, 42(1), pp. 6-25. [Abstract](http://journals.sagepub.com/doi/abs/10.1177/0091829613507026) and [abridgment.](http://www.internationalbulletin.org/issues/2014-01/2014-01-003-robert.html)
 
-## 함께보기
+## 같이 보기
 
   - [아더 태펀 피어선](../Page/아더_태펀_피어선.md "wikilink")
 

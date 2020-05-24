@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:FluoropyrimidineActivity WP1601](https://ko.wikipedia.org/wiki/:FluoropyrimidineActivity_WP1601).
+> This article is converted from Wikipedia: [틀:FluoropyrimidineActivity WP1601](https://ko.wikipedia.org/wiki/틀:FluoropyrimidineActivity_WP1601).
 
 
 <div style="overflow:auto;{{#if:{{{width|}}}|width:{{{width}}}px;}}{{#if:{{{height|}}}|height:{{{height}}}px}}">

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [QFRONT](https://ko.wikipedia.org/wiki/QFRONT).
 
 
-**QFRONT**(キューフロント, 큐프론트)는 일본 [도쿄](../Page/도쿄.md "wikilink") [시부야 구에](https://ko.wikipedia.org/wiki/시부야_구 "wikilink") 위치한 상업용 빌딩이다.
+**QFRONT**(キューフロント, 큐프론트)는 일본 [도쿄](../Page/도쿄.md "wikilink") [시부야구](../Page/시부야구.md "wikilink")에 위치한 상업용 빌딩이다.
 
 ## 개요
 

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FS](https://ko.wikipedia.org/wiki/FS).
+> This article is converted from Wikipedia: [성동FS](https://ko.wikipedia.org/wiki/성동FS).
 
 
 **성동FS**(Seongdong Futsal Club)는 [서울특별시 성동구를](../Page/성동구.md "wikilink") 연고로 하며 대한민국 풋살 2부리그 [FK 드림리그에](../Page/FK_드림리그.md "wikilink") 참가하는 풋살구단이다.

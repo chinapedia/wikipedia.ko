@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ Q:  ](https://ko.wikipedia.org/wiki/_Q:__).
+> This article is converted from Wikipedia: [미결처리반 Q: 순수의 배신](https://ko.wikipedia.org/wiki/미결처리반_Q:_순수의_배신).
 
 
 **미결처리반 Q: 순수의 배신**()는 [2018년](../Page/2018년.md "wikilink") 개봉한 [덴마크](../Page/덴마크.md "wikilink")의 범죄, 미스터리, 스릴러 영화이다.

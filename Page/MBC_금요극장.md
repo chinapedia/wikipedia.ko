@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [MBC ](https://ko.wikipedia.org/wiki/MBC_).
+> This article is converted from Wikipedia: [MBC 금요극장](https://ko.wikipedia.org/wiki/MBC_금요극장).
 
 
 **MBC 금요극장**은 [MBC](https://ko.wikipedia.org/wiki/MBC "wikilink")에서 [1987년](../Page/1987년.md "wikilink") [4월 10일부터](../Page/4월_10일.md "wikilink") [1987년](../Page/1987년.md "wikilink") [10월 9일까지](../Page/10월_9일.md "wikilink") 총 23회에 걸쳐 방영된 단막극 프로그램으로, 청소년이나 노인문제와 부부간의 갈등과 같은 현대 가정에서 일어나는 문제를 주제로 한 월별 테마 드라마이다.

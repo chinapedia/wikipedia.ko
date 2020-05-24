@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [BNP ](https://ko.wikipedia.org/wiki/BNP_).
+> This article is converted from Wikipedia: [BNP파리바 카디프생명](https://ko.wikipedia.org/wiki/BNP파리바_카디프생명).
 
 
 BNP파리바 카디프생명은 프랑스에 본사를 둔 [생명보험](../Page/생명보험.md "wikilink")회사이다. 2002년 10월, 글로벌 BNP파리바카디프와 [신한금융그룹](https://ko.wikipedia.org/wiki/신한금융그룹 "wikilink")의 합작으로 설립되었으며, 2009년 계열분리로 글로벌 BNP파리바카디프가 약 85%, [신한은행](../Page/신한은행.md "wikilink")이 약 15% 지분 보유 중이다. (2019년 4월 현재)

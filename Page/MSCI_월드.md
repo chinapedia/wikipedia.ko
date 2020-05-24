@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [MSCI ](https://ko.wikipedia.org/wiki/MSCI_).
+> This article is converted from Wikipedia: [MSCI 월드](https://ko.wikipedia.org/wiki/MSCI_월드).
 
 
 **MSCI 월드**는 [MSCI](https://ko.wikipedia.org/wiki/MSCI "wikilink")가 발표하는 전세계 선진국 지수이다. **MSCI 선진국 지수**라고도 불린다.

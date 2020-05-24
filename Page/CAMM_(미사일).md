@@ -28,4 +28,4 @@
 
 ## 각주
 
-[분류:미사일](https://ko.wikipedia.org/wiki/분류:미사일 "wikilink")
+[분류:유도탄](https://ko.wikipedia.org/wiki/분류:유도탄 "wikilink")

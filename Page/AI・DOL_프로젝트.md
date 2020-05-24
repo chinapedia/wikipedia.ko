@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [AIDOL ](https://ko.wikipedia.org/wiki/AIDOL_).
+> This article is converted from Wikipedia: [AI・DOL 프로젝트](https://ko.wikipedia.org/wiki/AI・DOL_프로젝트).
 
 
-《**AI・DOL 프로젝트**》(, *AI・DOL PROJECT*)는 [2019년](../Page/2019년.md "wikilink") [4월 2일부터](../Page/4월_2일.md "wikilink") [TV 도쿄](../Page/TV_도쿄.md "wikilink") 계열에서 월요일 심야에 방송되고 있는 [헬로\! 프로젝트](../Page/헬로!_프로젝트.md "wikilink") 멤버 출연의 TV 프로그램이다.
+《**AI・DOL 프로젝트**》(, *AI・DOL PROJECT*)는 [2019년](../Page/2019년.md "wikilink") [4월 1일부터](../Page/4월_1일.md "wikilink") [2020년](../Page/2020년.md "wikilink") [3월 30일까지](../Page/3월_30일.md "wikilink") [TV 도쿄](../Page/TV_도쿄.md "wikilink") 계열에서 월요일 심야에 방송되고 있는 [헬로\! 프로젝트](../Page/헬로!_프로젝트.md "wikilink") 멤버 출연의 TV 프로그램이다.
 
 ## 개요
 
@@ -24,12 +24,12 @@
 
 ## 방송국과 방송 시간
 
-| 주요 방송 지역                                                  | 방송국                                        | 방송 기간                                                                        | 계열                                                              | 방송 요일과 방송 시간       |
-| --------------------------------------------------------- | ------------------------------------------ | ---------------------------------------------------------------------------- | --------------------------------------------------------------- | ------------------ |
-| [간토 광역권](https://ko.wikipedia.org/wiki/간토_광역권 "wikilink") | [TV 도쿄](../Page/TV_도쿄.md "wikilink") (제작국) | [2019년](../Page/2019년.md "wikilink") [4월 1일](../Page/4월_1일.md "wikilink") \~ | [TV 도쿄 계열](https://ko.wikipedia.org/wiki/TV_도쿄_네트워크 "wikilink") | 월요일 25:00 \~ 25:30 |
-| 전국                                                        | [BS TV 도쿄](../Page/BS_TV_도쿄.md "wikilink") | 2019년 [4월 7일](../Page/4월_7일.md "wikilink") \~                                | [BS 디지털](https://ko.wikipedia.org/wiki/BS_디지털 "wikilink")       | 일요일 25:05 \~ 25:35 |
-| [시가현](../Page/시가현.md "wikilink")                          | [비와코 방송](../Page/비와코_방송.md "wikilink")     | 2019년 [4월 25일](../Page/4월_25일.md "wikilink") \~                              | [JAITS](https://ko.wikipedia.org/wiki/JAITS "wikilink")         | 목요일 26:45 \~ 27:15 |
-|                                                           |                                            |                                                                              |                                                                 |                    |
+| 주요 방송 지역                                                  | 방송국                                        | 방송 기간                                                                                                                                                    | 계열                                                              | 방송 요일과 방송 시간       |
+| --------------------------------------------------------- | ------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------- | ------------------ |
+| [간토 광역권](https://ko.wikipedia.org/wiki/간토_광역권 "wikilink") | [TV 도쿄](../Page/TV_도쿄.md "wikilink") (제작국) | [2019년](../Page/2019년.md "wikilink") [4월 1일](../Page/4월_1일.md "wikilink") \~ [2020년](../Page/2020년.md "wikilink") [3월 30일](../Page/3월_30일.md "wikilink") | [TV 도쿄 계열](https://ko.wikipedia.org/wiki/TV_도쿄_네트워크 "wikilink") | 월요일 25:00 \~ 25:30 |
+| 전국                                                        | [BS TV 도쿄](../Page/BS_TV_도쿄.md "wikilink") | 2019년 [4월 7일](../Page/4월_7일.md "wikilink") \~ 2020년 [4월 5일](../Page/4월_5일.md "wikilink") (예정)                                                            | [BS 디지털](https://ko.wikipedia.org/wiki/BS_디지털 "wikilink")       | 일요일 25:05 \~ 25:35 |
+| [시가현](../Page/시가현.md "wikilink")                          | [비와코 방송](../Page/비와코_방송.md "wikilink")     | 2019년 [4월 25일](../Page/4월_25일.md "wikilink") \~ 2020년 [4월 10일](../Page/4월_10일.md "wikilink") (예정)                                                        | [JAITS](https://ko.wikipedia.org/wiki/JAITS "wikilink")         | 목요일 26:45 \~ 27:15 |
+|                                                           |                                            |                                                                                                                                                          |                                                                 |                    |
 
 ## 외부 링크
 

@@ -58,7 +58,7 @@
 
 ## 각주
 
-## 함께 보기
+## 같이 보기
 
   - [HDC](../Page/HDC_\(기업\).md "wikilink")
   - [HDC현대산업개발](../Page/HDC현대산업개발.md "wikilink")
@@ -69,5 +69,6 @@
 ## 외부 링크
 
   - [HDC그룹 홈페이지](http://hdc-holdings.com/)
+  - [HDC그룹 홍보영상](https://www.youtube.com/watch?v=P85raaEcR5g)
 
 [HDC그룹](https://ko.wikipedia.org/wiki/분류:HDC그룹 "wikilink")

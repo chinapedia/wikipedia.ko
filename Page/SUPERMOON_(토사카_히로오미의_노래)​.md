@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SUPERMOON \(  \)](https://ko.wikipedia.org/wiki/SUPERMOON_\(__\)).
+> This article is converted from Wikipedia: [SUPERMOON \(토사카 히로오미의 노래\)​](https://ko.wikipedia.org/wiki/SUPERMOON_\(토사카_히로오미의_노래\)​).
 
 
 〈**SUPERMOON**〉(슈퍼문, )은 [일본](../Page/일본.md "wikilink")의 [가수](https://ko.wikipedia.org/wiki/가수 "wikilink")인 [HIROOMI TOSAKA](../Page/토사카_히로오미.md "wikilink")(토사카 히로오미)의 네 번째 [싱글이며](../Page/싱글_\(음악\).md "wikilink") 첫 CD 싱글이다. [2019년](../Page/2019년.md "wikilink") [4월 10일에](../Page/4월_10일.md "wikilink") [rhythm zone에서](https://ko.wikipedia.org/wiki/rhythm_zone "wikilink") 발매 했다.

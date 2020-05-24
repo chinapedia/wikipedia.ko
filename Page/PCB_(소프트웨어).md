@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [PCB \(\)](https://ko.wikipedia.org/wiki/PCB_\(\)).
+> This article is converted from Wikipedia: [PCB \(소프트웨어\)](https://ko.wikipedia.org/wiki/PCB_\(소프트웨어\)).
 
 
 **PCB**는 gEDA 프로젝트에서 [PCB레이아웃을](https://ko.wikipedia.org/wiki/인쇄회로기판 "wikilink") 설계할 수 있는 라이브러리를 포함하는 [CAD](https://ko.wikipedia.org/wiki/CAD "wikilink")프로그램이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ vs ](https://ko.wikipedia.org/wiki/_vs_).
+> This article is converted from Wikipedia: [고지라 vs 디스트로이어](https://ko.wikipedia.org/wiki/고지라_vs_디스트로이어).
 
 
 《**고질라 23 - 고질라 대 디스트로이어**》(Godzilla Vs. Destroyer)는 일본에서 제작된 [오카와라 타카오](https://ko.wikipedia.org/wiki/오카와라_타카오 "wikilink") 감독의 1995년 영화이다. [이시노 요코](https://ko.wikipedia.org/wiki/이시노_요코 "wikilink") 등이 주연으로 출연하였고 [토미야마 쇼고](https://ko.wikipedia.org/wiki/토미야마_쇼고 "wikilink") 등이 제작에 참여하였다.

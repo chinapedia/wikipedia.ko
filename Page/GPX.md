@@ -55,14 +55,14 @@
 </gpx>
 ```
 
-## 함께보기
+## 같이 보기
 
   - [KML](https://ko.wikipedia.org/wiki/KML "wikilink")
   - [GeoJSON](../Page/GeoJSON.md "wikilink")
 
 ## 참고
 
-[분류:지리정보시스템](https://ko.wikipedia.org/wiki/분류:지리정보시스템 "wikilink") [분류:자유 소프트웨어](https://ko.wikipedia.org/wiki/분류:자유_소프트웨어 "wikilink") [분류:GPS](https://ko.wikipedia.org/wiki/분류:GPS "wikilink") [분류:마크업 언어](https://ko.wikipedia.org/wiki/분류:마크업_언어 "wikilink")
+[분류:지리 정보 시스템](https://ko.wikipedia.org/wiki/분류:지리_정보_시스템 "wikilink") [분류:자유 소프트웨어](https://ko.wikipedia.org/wiki/분류:자유_소프트웨어 "wikilink") [분류:GPS](https://ko.wikipedia.org/wiki/분류:GPS "wikilink") [분류:마크업 언어](https://ko.wikipedia.org/wiki/분류:마크업_언어 "wikilink")
 
 1.  [오픈스트리트맵](https://wiki.openstreetmap.org/wiki/Upload_Waypoints)
 2.  [GPX: the GPS Exchange Format](http://www.topografix.com/gpx.asp)

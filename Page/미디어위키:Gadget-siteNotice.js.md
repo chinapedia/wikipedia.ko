@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Gadget-siteNotice.js](https://ko.wikipedia.org/wiki/:Gadget-siteNotice.js).
+> This article is converted from Wikipedia: [미디어위키:Gadget-siteNotice.js](https://ko.wikipedia.org/wiki/미디어위키:Gadget-siteNotice.js).
 
 
 /\*
@@ -12,12 +12,7 @@
 
 $(function () {
 
-var cookieName = 'dismissNewSiteNotice'; var dismissStrLang = {
-
-`   en: "Dismiss",`
-`   ko: "숨기기"`
-
-}; var dismissStr = dismissStrLang.ko; var noticeGrpPage = '%EC%9C%84%ED%82%A4%EB%B0%B1%EA%B3%BC:%EC%86%8C%EB%8F%84%EA%B5%AC/noticeGrp'; // [ko:Wikipedia:소도구/noticeGrp](https://ko.wikipedia.org/wiki/ko:Wikipedia:소도구/noticeGrp "wikilink")
+var cookieName = 'dismissNewSiteNotice'; var sitenoticeId = ''; var dismissStr = ""; var noticeGrpPage = '위키백과:소도구/noticeGrp';
 
 function html2text(html) {
 
@@ -46,7 +41,7 @@ function getDivText(html, target) {
 
 }
 
-function procDismiss(sitenoticeId) {
+function procDismiss() {
 
 `   $("#siteNoticeLocal").prepend('`
 
@@ -126,12 +121,18 @@ if (/bot|googlebot|crawler|spider|robot|crawling/i.test(navigator.userAgent)) {
 
 } else {
 
-`   $.get("/w/api.php?action=parse&format=json&page=" + noticeGrpPage, function(data) {`
-`       var html = data.parse.text["*"].replace("mw-parser-output", "mw-dismissable-notice");`
-`       var gadgetSiteNotice = getDivHtml(html, "#gadgetSiteNotice");`
-`       var gadgetAnonnotice = html2text(getDivHtml(html, "#gadgetAnonnotice")).trim();`
-`       var sitenoticeId = getDivText(html, "#sitenoticeId");`
-
+`   var api = new mw.Api();`
+`   api.parse(`
+`       new mw.Title( noticeGrpPage )`
+`   ).then( function( html ) {`
+`       var gadgetSiteNotice = "";`
+`       var gadgetAnonnotice = "";`
+`       html = html.replace("mw-parser-output", "mw-dismissable-notice");`
+`       gadgetSiteNotice = getDivHtml(html, "#gadgetSiteNotice");`
+`       gadgetAnonnotice = getDivHtml(html, "#gadgetAnonnotice");`
+`       sitenoticeId = getDivText(html, "#sitenoticeId");`
+`       dismissStr = getDivText(html, "#dismissLabel"); `
+`   `
 `       if (mw.config.get('wgUserName') !== null) {`
 `           if(/\S/.test(html2text(gadgetSiteNotice).trim())) {`
 `               // If the user has the notice dismissal cookie set, exit.`
@@ -146,14 +147,14 @@ if (/bot|googlebot|crawler|spider|robot|crawling/i.test(navigator.userAgent)) {
 
 ');
 
-`                   procDismiss(sitenoticeId);`
+`                   procDismiss();`
 `               }`
 `           }`
 `           return;`
 `       }`
-`       if (gadgetAnonnotice.length === 0) {`
+`       if (html2text(gadgetAnonnotice).trim().length === 0) {`
 `           return;`
-`       } else if (/^\s*-\s*$/.test(gadgetAnonnotice)) {`
+`       } else if (/^\s*-\s*$/.test(html2text(gadgetAnonnotice).trim())) {`
 `           if(/\S/.test(html2text(gadgetSiteNotice).trim())) {`
 `               // If the user has the notice dismissal cookie set, exit.`
 `               if ( $.cookie( cookieName ) !== sitenoticeId ) {`
@@ -181,6 +182,7 @@ if (/bot|googlebot|crawler|spider|robot|crawling/i.test(navigator.userAgent)) {
 
 ');
 
+`           procDismiss();`
 `       }`
 `   });`
 

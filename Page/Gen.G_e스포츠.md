@@ -105,7 +105,7 @@ Gen.G e스포츠 팀 산하의 [서울특별시](../Page/서울특별시.md "wik
 | --- | ------ | --- |
 | 김광희 | Rascal | 탑   |
 | 김태민 | Clid   | 정글  |
-| 곽보성 | BDD    | 미드  |
+| 곽보성 | Bdd    | 미드  |
 | 박재혁 | Ruler  | 원딜  |
 | 김정민 | Life   | 서포터 |
 | 김형규 | Kellin | 서포터 |
@@ -166,17 +166,16 @@ Gen.G e스포츠 팀 산하의 [서울특별시](../Page/서울특별시.md "wik
   - [2018년 12월](https://ko.wikipedia.org/wiki/2018년_12월 "wikilink") 2018 LoL KeSPA컵 준우승
   - [2019년 3월](https://ko.wikipedia.org/wiki/2019년_3월 "wikilink") 스무살우리 리그 오브 레전드 챔피언스 코리아 스프링 2019 7위
   - [2019년 8월](https://ko.wikipedia.org/wiki/2019년_8월 "wikilink") 우리은행 리그 오브 레전드 챔피언스 코리아 서머 2019 6위
+  - [2020년 4월](https://ko.wikipedia.org/wiki/2020년_4월 "wikilink") 우리은행 리그 오브 레전드 챔피언스 코리아 스프링 2020 준우승
 
 ### 배틀그라운드
 
-  - 코치 : 배승후
+  - 감독 : 배승후
   - 선수
-
-(???) Gen.G Menteul
 
 박정영 Gen.G Loki
 
-(???) Gen.G AquaV
+유상호 Gen.G AquaV
 
 나희주 Gen.G Inonix
 
@@ -184,7 +183,7 @@ Gen.G e스포츠 팀 산하의 [서울특별시](../Page/서울특별시.md "wik
 
 #### 주요 성적
 
-주요 대회 우승 10회, 준우승 4회
+주요 대회 우승 10회, 준우승 5회
 
 ## Gen.G BLACK
 

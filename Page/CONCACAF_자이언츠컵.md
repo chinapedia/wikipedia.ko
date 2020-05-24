@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [CONCACAF ](https://ko.wikipedia.org/wiki/CONCACAF_).
+> This article is converted from Wikipedia: [CONCACAF 자이언츠컵](https://ko.wikipedia.org/wiki/CONCACAF_자이언츠컵).
 
 
 **CONCACAF 자이언츠컵**(CONCACAF Giants Cup)은 [2001년](../Page/2001년.md "wikilink") [3월 4일부터](../Page/3월_4일.md "wikilink") [8월 5일까지](../Page/8월_5일.md "wikilink") 개최된 클럽 축구 대회로 [북중미카리브 축구 연맹](../Page/북중미카리브_축구_연맹.md "wikilink")(CONCACAF)이 대회를 주관했다.

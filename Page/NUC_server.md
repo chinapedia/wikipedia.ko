@@ -3,7 +3,7 @@
 
 **NUCserver (NUC서버)**는 [인텔](../Page/인텔.md "wikilink")이 생산하는 [NUC (Next Unit of Computing)](../Page/인텔_NUC.md "wikilink") 전실이나 [데이터 센터](../Page/데이터_센터.md "wikilink") 환경에서 [서버](../Page/서버.md "wikilink")로 사용할 수 있도록 구성한 솔루션이다.\[1\] 인텔의 브랜드인 NUC와 달리 NUCserver 는 대한민국의 벤처기업인 주식회사 트루네트웍스의 독자 브랜드이며 인텔의 파트너 솔루션 디렉토리에 등재되어 있다.\[2\]\[3\]
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:Intel_NUC_D54250WYKH_20140606.jpg "wikilink") 인텔의 NUC는 가로세로 4인치 규격의 소형 폼 펙터인 저전력 미니 데스크탑 컴퓨터 이며 아톰 프로세서부터 최신 i7 프로세서까지 수용한 다양한 사양의 미니 PC 제품군이다.\[4\]
+[섬네일](https://ko.wikipedia.org/wiki/파일:Intel_NUC_D54250WYKH_20140606.jpg "wikilink") 인텔의 NUC는 가로세로 4인치 규격의 소형 폼 펙터인 저전력 미니 데스크탑 컴퓨터이며 아톰 프로세서부터 최신 i7 프로세서까지 수용한 다양한 사양의 미니 PC 제품군이다.\[4\]
 
 NUCserver는 특히 산업용으로 적용 가능하도록 내구성과 vPro 기술 기반 원격관리 기능을 탑재한 모델인 NUC5i5MYHE 모델과 그 후속 모델을 채택하여 서버 수준의 원격 관리 기능을 지원한다.\[5\]
 

@@ -19,14 +19,14 @@
 
 ### 출처
 
-## 함께 보기
+## 같이 보기
 
   - 아루무(アルム)
 
 ## 외부 링크
 
   - [CULEN](http://culen.tokyo/)
-  - [新しい地図](https://atarashiichizu.com/)
+  - [新しい地図](https://web.archive.org/web/20170926094103/https://atarashiichizu.com/)
 
 [분류:2016년 설립된 기업](https://ko.wikipedia.org/wiki/분류:2016년_설립된_기업 "wikilink") [분류:미나토구 (도쿄도)의 기업](https://ko.wikipedia.org/wiki/분류:미나토구_\(도쿄도\)의_기업 "wikilink") [분류:일본의 연예 기획사](https://ko.wikipedia.org/wiki/분류:일본의_연예_기획사 "wikilink")
 

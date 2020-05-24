@@ -3,7 +3,7 @@
 
 **QUnit**은 [자바스크립트](../Page/자바스크립트.md "wikilink") 유닛 테스트 프레임워크이다. 원래 [JQuery](../Page/JQuery.md "wikilink"), [jQuery UI](https://ko.wikipedia.org/wiki/jQuery_UI "wikilink"), [jQuery Mobile을](https://ko.wikipedia.org/wiki/jQuery_Mobile "wikilink") 테스트하기 위해 개발되었으며 모든 자바스크립트 코드를 테스트하기 위한 제네릭 프레임워크이다. 웹 브라우저의 [클라이언트 사이드](../Page/클라이언트_사이드.md "wikilink") 환경과 서버사이드(예: [Node.js](../Page/Node.js.md "wikilink"))를 지원한다.
 
-QUnit의 표명(assertion) 메서드는 [CommonJS](https://ko.wikipedia.org/wiki/CommonJS "wikilink") 유닛 테스트 사양을 준수하며 스스로 QUnit에 의해 어느 정도 영향을 받았다.
+QUnit의 표명(assertion) 메서드는 [CommonJS](../Page/CommonJS.md "wikilink") 유닛 테스트 사양을 준수하며 스스로 QUnit에 의해 어느 정도 영향을 받았다.
 
 ## 역사
 

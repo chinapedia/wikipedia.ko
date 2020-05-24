@@ -11,7 +11,7 @@
 
 이처럼 무료공개 이미지 리소스를 서비스하는 사이트로는 [프리큐레이션](https://ko.wikipedia.org/wiki/프리큐레이션 "wikilink")(freeqration.com)이 있다.
 
-## 함께보기
+## 같이 보기
 
   - [셔터스톡](../Page/셔터스톡.md "wikilink")
 

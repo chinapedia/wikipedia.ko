@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ FC](https://ko.wikipedia.org/wiki/_FC).
+> This article is converted from Wikipedia: [오스틴 FC](https://ko.wikipedia.org/wiki/오스틴_FC).
 
 
 **오스틴 FC**(Austin FC)는 [메이저 리그 사커에](../Page/메이저_리그_사커.md "wikilink") 참가할 예정인 [미국](../Page/미국.md "wikilink")의 프로축구단으로 [텍사스주](../Page/텍사스주.md "wikilink") [텍사스주](../Page/텍사스주.md "wikilink") [오스틴을](../Page/오스틴_\(텍사스주\).md "wikilink") 연고지로 한다.

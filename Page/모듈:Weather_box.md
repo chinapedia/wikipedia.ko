@@ -69,7 +69,7 @@ local function makeSources(frame, args)
 `           text = '출처: ' .. (source1 and source1 or source2)`
 `       end`
 `   else`
-`       text = frame:expandTemplate({ title = '출처', args = {date = stripToNil(args.date)} })`
+`       text = frame:expandTemplate({ title = '출처', args = {['날짜'] = stripToNil(args.date)} })`
 `   end`
 `   return result .. text .. '\n|}'`
 

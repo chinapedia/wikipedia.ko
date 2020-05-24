@@ -219,10 +219,13 @@
   - 2020년 3월 12일 황성진 - **\[Digital Single\] 황성진 프로젝트 Secondary Words Vol.2**
   - 2020년 3월 20일 진주 - **\[Digital Single\] 사랑의 끝은 항상 아프죠**
   - 2020년 3월 24일 원어스 - **\[Digital Single\] IN ITS TIME**
-  - 2020년 4월 2일 원위 - **\[Digital Single\] 3/4**
+  - 2020년 4월 2일 원위 - **\[Digital Single\] 3/4(화사)**
   - 2020년 4월 11일 오브제 - **\[Digital Single\] 지구가 멈춰버렸으면**
   - 2020년 4월 19일 화사 - **더 킹 : 영원의 군주 OST Part.2**
   - 2020년 4월 23일 솔라 - **\[Digital Single\] SPIT IT OUT**
+  - 2020년 4월 26일 런치박스 - **\[Digital Single\] 다 준 것뿐인데**
+  - 2020년 5월 1일 휘인 - **슬기로운 의사생활 OST Part.8**
+  - 2020년 5월 ?일 원위 - **4/4**
 
 ## 각주
 

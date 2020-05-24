@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ MX ](https://ko.wikipedia.org/wiki/_MX_).
+> This article is converted from Wikipedia: [리가 MX 페메닐](https://ko.wikipedia.org/wiki/리가_MX_페메닐).
 
 
 **리가 MX 페메닐**()은 [멕시코](../Page/멕시코.md "wikilink")의 가장 높은 [여자 축구](../Page/여자_축구.md "wikilink") 리그로, 정식 명칭은 **프리메라 디비시온 페메닐 데 멕시코**()이다. [2016년](../Page/2016년.md "wikilink") [12월 5일에](../Page/12월_5일.md "wikilink") 설립되었으며, [멕시코 축구 연맹이](https://ko.wikipedia.org/wiki/멕시코_축구_연맹 "wikilink") 주관한다. 현재 19개 클럽이 참가한다.

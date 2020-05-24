@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  III](https://ko.wikipedia.org/wiki/__III).
+> This article is converted from Wikipedia: [사무라이 쇼다운 III](https://ko.wikipedia.org/wiki/사무라이_쇼다운_III).
 
 
 《**사무라이 쇼다운 III: 피의 검**》()은 [SNK](../Page/SNK.md "wikilink")가 제작한 [아케이드](../Page/아케이드_게임.md "wikilink") [대전 격투 게임이다](https://ko.wikipedia.org/wiki/대전_격투_게임 "wikilink"). 《[사무라이 쇼다운](../Page/사무라이_쇼다운.md "wikilink")》 시리즈의 세번째 작품으로, 1995년 11월 15일 [네오지오](https://ko.wikipedia.org/wiki/네오지오_\(콘솔\) "wikilink") 시스템으로 발매됐다.\[1\] 일본에선 《**사무라이 스피리츠: 잔쿠로 무쌍검**》()이라는 제목으로 출시됐다. 대한민국에선 《**파이터즈 소즈**》()라는 제목의 수정판이 발매된 바 있다.
@@ -17,7 +17,7 @@
 
 타카라가 발매한 게임보이 버전 《열투 사무라이 스피리츠 잔쿠로 무쌍검》에는 야규 주베에가 숨겨진 캐릭터로 등장한다.
 
-한국에서 발매됐던 《파이터즈 소즈》에선 가후인 가이라가 '김웅재'라는 이름으로 현지화되었다. 그 외에 이 버전에선 피가 삭제됐다. 김웅재는 이후 아케이드 및 [플레이스테이션 2로](../Page/플레이스테이션_2.md "wikilink") 발매됐던 《[사무라이 쇼다운 VI](https://ko.wikipedia.org/wiki/사무라이_쇼다운_VI "wikilink")》에서는 숨겨진 캐릭터로 등장했다.
+한국에서 발매됐던 《파이터즈 소즈》에선 가후인 가이라가 '김웅재'라는 이름으로 현지화되었다. 그 외에 이 버전에선 피가 삭제됐다. 김웅재는 이후 아케이드 및 [플레이스테이션 2로](../Page/플레이스테이션_2.md "wikilink") 발매됐던 《[사무라이 쇼다운 VI](../Page/사무라이_쇼다운_VI.md "wikilink")》에서는 숨겨진 캐릭터로 등장했다.
 
 ## 각주
 

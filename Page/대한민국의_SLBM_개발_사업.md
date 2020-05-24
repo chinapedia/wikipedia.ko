@@ -29,7 +29,7 @@
 
 전세계 디젤 잠수함에 VLS를 사용한 예는 별로 없다. 최근에는 러시아 [아무르급 잠수함에서](https://ko.wikipedia.org/wiki/아무르급_잠수함 "wikilink") 직경 0.64 m 초음속 순항미사일인 [브라모스 미사일](https://ko.wikipedia.org/wiki/브라모스_미사일 "wikilink") 10발을 발사하기 위한 VLS를 채택한 적이 있다. 한국의 [장보고 3급 잠수함도](https://ko.wikipedia.org/wiki/장보고_3급_잠수함 "wikilink") 배치2 부터 VLS 10문을 장착하여 직경 0.533 m [현무-3](../Page/현무-3.md "wikilink") 순항 미사일을 장착할 것이라고 하기 때문에, 아무르급 VLS와 직경이 비슷할 수도 있다. 그러나 VLS 직경 0.64 m는 SLBM을 발사하기에는 너무 작은 사이즈여서, 더 클 것으로 보인다.
 
-인도의 [사가리카 미사일은](https://ko.wikipedia.org/wiki/사가리카_미사일 "wikilink") 한국의 [현무-2](../Page/현무-2.md "wikilink") 미사일, 북한의 [스커드 미사일과](https://ko.wikipedia.org/wiki/스커드_미사일 "wikilink") 매우 비슷한 크기이다. 2단 고체연료, 탄두중량 1톤일 경우 사거리 750 km, 탄두중량 150 kg의 150 kt 수소폭탄일 경우 사거리 2200 km 이다. 현재 미국, 러시아, 프랑스 등 전세계에 배치된 SLBM은 매우 대형인데, 한국이 그런 대형 SLBM을 채택할 수는 없다. 따라서, 한국이 개발중인 최초의 SLBM은 인도의 [사가리카 미사일과](https://ko.wikipedia.org/wiki/사가리카_미사일 "wikilink") 매우 비슷한 크기일 것으로 추측된다.
+인도의 [사가리카 미사일은](https://ko.wikipedia.org/wiki/사가리카_미사일 "wikilink") 한국의 [현무-2](../Page/현무-2.md "wikilink") 미사일, 북한의 [스커드 미사일과](https://ko.wikipedia.org/wiki/스커드_미사일 "wikilink") 매우 비슷한 크기이다. 2단 고체연료, 탄두중량 1톤일 경우 사거리 750 km, 탄두중량 150 kg의 150 kt 수소폭탄일 경우 사거리 2200 km이다. 현재 미국, 러시아, 프랑스 등 전세계에 배치된 SLBM은 매우 대형인데, 한국이 그런 대형 SLBM을 채택할 수는 없다. 따라서, 한국이 개발중인 최초의 SLBM은 인도의 [사가리카 미사일과](https://ko.wikipedia.org/wiki/사가리카_미사일 "wikilink") 매우 비슷한 크기일 것으로 추측된다.
 
 이명박 정부 시절, [서균렬](../Page/서균렬.md "wikilink") 서울대 교수는 100 kt 수소폭탄의 대량생산 공장 건설을 주장했다. 100 kt일 경우 탄두중량은 100 kg 정도 된다. 소형 수소폭탄 설계도는 이미 박정희 정부에서 프랑스의 협조로, 개발을 완료하여 보유중인 것으로 보도되고 있다.
 

@@ -18,12 +18,12 @@
 ## 참가자
 
   - MC 댓썩 : 1차 예선 탈락
-  - 고준서 : 1차 예선 탈락
+  - 킴성태 : 1차 예선 탈락
   - [넋업샨](../Page/넋업샨.md "wikilink") : 1차 예선 탈락
   - 랩 부르는 아빠 : 1차 예선 탈락
   - 랩퍼성큰 : 1차 예선 탈락
   - 하얀 : 1차 예선 탈락
-  - 깔창 : 2차 예선 탈락
+  - 아라보 : 2차 예선 탈락
   - 김강우 : 2차 예선 탈락
   - 말미킹 : 2차 예선 탈락
   - 볼라 : 2차 예선 탈락
@@ -66,7 +66,7 @@
   - 하회 : 3차 예선 탈락
   - 한울 : 3차 예선 탈락
   - 자칼 : 크루 결정전 탈락
-  - Cox Billy : 4차 예선 탈락
+  - [Cox Billy](../Page/제이켠.md "wikilink") : 4차 예선 탈락
   - DOGGYNOM : 4차 예선 탈락
   - Leebido : 4차 예선 탈락
   - LO VOLF : 4차 예선 탈락
@@ -106,7 +106,7 @@
   - [칠린호미](https://ko.wikipedia.org/wiki/칠린호미 "wikilink") : 크루 디스 배틀 탈락
   - [김승민](https://ko.wikipedia.org/wiki/김승민_\(래퍼\) "wikilink") : 크루 리벤지 배틀 탈락
   - [도넛맨](https://ko.wikipedia.org/wiki/도넛맨 "wikilink") : 크루 리벤지 배틀 탈락
-  - [릴타치](https://ko.wikipedia.org/wiki/릴타치 "wikilink") : 크루 리벤지 배틀 탈락
+  - [릴타치](../Page/릴타치.md "wikilink") : 크루 리벤지 배틀 탈락
   - [맥대디](https://ko.wikipedia.org/wiki/맥대디 "wikilink") : 크루 리벤지 배틀 탈락
   - [우디 고차일드](https://ko.wikipedia.org/wiki/우디_고차일드 "wikilink") : 크루 리벤지 배틀 탈락
   - [윤비](https://ko.wikipedia.org/wiki/윤비 "wikilink") : 크루 리벤지 배틀 탈락
@@ -125,36 +125,36 @@
 
 ### 프로듀서 공연
 
-  - 40 Crew
+  - 40 Crew (승)
 
-곡 : 담아 (Feat. 염따, ph-1) (Prod. BOYCOLD)
+곡 : 담아 (Feat. [염따](../Page/염따.md "wikilink"), [pH-1](https://ko.wikipedia.org/wiki/pH-1 "wikilink")) (Prod. [BOYCOLD](../Page/BOYCOLD.md "wikilink"))
 
-  - BGM-v Crew
+  - BGM-v Crew (패)
 
-곡 : 요란 (Prod. millic)
+곡 : 요란 (Prod. [millic](https://ko.wikipedia.org/wiki/millic "wikilink"))
 
 ### 음원 배틀
 
 ### 크루 리벤지 배틀
 
-| 40 Crew                 | BGM-v Crew        |
-| ----------------------- | ----------------- |
-| TAKUWA                  | Woodie Gochild    |
-| 개성시대                    |                   |
-| 도넛맨 (Donutman)          | 펀치넬로 (punchnello) |
-| 편해                      |                   |
-| EK                      | ZENE THE ZILLA    |
-| 연중무휴                    |                   |
-| 김승민                     | 최엘비 (CHOILB)      |
-| 상수 (Feat. 죠지)           |                   |
-| 윤비 (YunB)               | 영비 (Young B)      |
-| 트루먼 쇼                   |                   |
-| BRYN                    | Mckdaddy          |
-| Bonnie & Clyde          |                   |
-| YUNHWAY                 | 짱유 (JJANGYOU)     |
-| 광안리101                  |                   |
-| 강현준 (Lil Tachi)         | 서동현               |
-| CCTV (Feat. Leellamarz) |                   |
+| 40 Crew                 | BGM-v Crew            |
+| ----------------------- | --------------------- |
+| TAKUWA (승)              | Woodie Gochild (패)    |
+| 개성시대                    |                       |
+| 도넛맨 (Donutman) (패)      | 펀치넬로 (punchnello) (승) |
+| 편해                      |                       |
+| EK (승)                  | ZENE THE ZILLA (패)    |
+| 연중무휴                    |                       |
+| 김승민 (패)                 | 최엘비 (CHOILB) (승)      |
+| 상수 (Feat. 죠지)           |                       |
+| 윤비 (YunB) (패)           | 영비 (Young B) (승)      |
+| 트루먼 쇼                   |                       |
+| BRYN (승)                | Mckdaddy (패)          |
+| Bonnie & Clyde          |                       |
+| YUNHWAY (패)             | 짱유 (JJANGYOU) (승)     |
+| 광안리101                  |                       |
+| 강현준 (Lil Tachi) (패)     | 서동현 (승)               |
+| CCTV (Feat. Leellamarz) |                       |
 
 ## 본선
 

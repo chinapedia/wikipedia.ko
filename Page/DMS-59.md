@@ -3,7 +3,7 @@
 
 [right](https://ko.wikipedia.org/wiki/파일:DMS-59.jpg "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:DMS59_pinout.svg "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:Low_Force_Helix_Adapter_Multi_Angle_Shot.jpg "wikilink")
 
-**DMS-59**(**Dual Monitor Solution, 59 pins**)은 일반적으로 컴퓨터 [그래픽 카드를](../Page/그래픽_카드.md "wikilink") 위해 사용된다. 2개의 [디지털 비주얼 인터페이스](../Page/디지털_비주얼_인터페이스.md "wikilink")(DVI) 또는 [비디오 그래픽스 어레이](../Page/비디오_그래픽스_어레이.md "wikilink")(VGA)를 하나의 단자로 제공한다. DMS-59(디지털)을 DVI(디지털) 또는 VGA (아날로그)로 변환하려면 어댑터 케이블이 필요하며, 각기 다른 종류의 어댑터 케이블이 존재한다. 단자는 4핀 high / 15핀 wide이고 아래줄에 핀 하나가 없다.
+**DMS-59**(Dual Monitor Solution, 59 pins)는 일반적으로 컴퓨터 [그래픽 카드를](../Page/그래픽_카드.md "wikilink") 위해 사용된다. 2개의 [디지털 비주얼 인터페이스](../Page/디지털_비주얼_인터페이스.md "wikilink")(DVI) 또는 [비디오 그래픽스 어레이](../Page/비디오_그래픽스_어레이.md "wikilink")(VGA)를 하나의 단자로 제공한다. DMS-59(디지털)을 DVI(디지털) 또는 VGA (아날로그)로 변환하려면 어댑터 케이블이 필요하며, 각기 다른 종류의 어댑터 케이블이 존재한다. 단자는 4핀 high / 15핀 wide이고 아래줄에 핀 하나가 없다.
 
 DMS-59의 장점은 하나의 DVI 크기만한 단자를 가지고 2개의 DVI 싱글 링크 디지털 채널이나 2개의 VGA 아날로그 채널 등의 2개의 [고해상도](https://ko.wikipedia.org/wiki/고해상도 "wikilink") 디스플레이를 지원하는 것이다. 이 작은 크기를 통해 [절반 높이의 카드가](../Page/PCI_버스.md "wikilink") 2개의 고선명 디스플레이를 지원할 수 있게 하며 완전한 높이의 카드(2개의 DMS-59 단자가 있음)는 최대 4개의 고선명 디스플레이를 지원할 수 있게 한다.
 

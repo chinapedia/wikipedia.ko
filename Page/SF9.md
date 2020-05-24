@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [SF9](https://ko.wikipedia.org/wiki/SF9).
 
 
-**SF9**(에스에프나인)은 [대한민국](../Page/대한민국.md "wikilink")의 9인조 [보이 그룹으로](https://ko.wikipedia.org/wiki/보이_그룹 "wikilink"), 소속사는 [FNC 엔터테인먼트이다](../Page/FNC_엔터테인먼트.md "wikilink"). 팀명 SF9는 Sensational Feeling 9의 약자로, S는 세상을 깜짝 놀라게 할 소년들을 뜻하며, F는 FNC 엔터테인먼트가 야심차게 처음으로 선보이는 댄스 보이그룹이라는 뜻과 최고의 자리에 오르겠다는 각오를 담았다. 또, 한자 '오랠 구(久)'를 숫자 9로 형상화해 팀의 활동과 인기가 영원히 지속될 것이라는 의미를 포함했다.\[1\]팬덤이름은 판타지(Fantasy)로 응원봉의 이름은 판타지(Fantasy)+셒구(sf9을 한국어로 읽을때 나타나는 글자)를 합해 지구봉이라고 한다.
+**SF9**(에스에프나인)은 [대한민국](../Page/대한민국.md "wikilink")의 9인조 [보이 그룹으로](https://ko.wikipedia.org/wiki/보이_그룹 "wikilink"), 소속사는 [FNC 엔터테인먼트이다](../Page/FNC_엔터테인먼트.md "wikilink"). 팀명 SF9는 Sensational Feeling 9의 약자로, S는 세상을 깜짝 놀라게 할 소년들을 뜻하며, F는 FNC 엔터테인먼트가 야심차게 처음으로 선보이는 댄스 보이그룹이라는 뜻과 최고의 자리에 오르겠다는 각오를 담았다. 또, 한자 '오랠 구(久)'를 숫자 9로 형상화해 팀의 활동과 인기가 영원히 지속될 것이라는 의미를 포함했다.\[1\]팬덤이름은 판타지(영어:Fantasy)이다.
 
 ## 구성원
 

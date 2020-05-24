@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [K](https://ko.wikipedia.org/wiki/K).
+> This article is converted from Wikipedia: [스테이지K](https://ko.wikipedia.org/wiki/스테이지K).
 
 
 《**스테이지K**》(Stage K) 는 [JTBC](../Page/JTBC.md "wikilink")에서 [2019년](../Page/2019년.md "wikilink") [4월 7일부터](../Page/4월_7일.md "wikilink") [2019년](../Page/2019년.md "wikilink") [6월 23일까지](../Page/6월_23일.md "wikilink") 방송된 [외국인](../Page/외국인.md "wikilink") [K-pop](../Page/K-pop.md "wikilink") [댄싱](https://ko.wikipedia.org/wiki/댄싱 "wikilink") 서바이벌 프로그램이다.

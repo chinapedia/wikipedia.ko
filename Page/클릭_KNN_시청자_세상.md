@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ KNN  ](https://ko.wikipedia.org/wiki/_KNN__).
+> This article is converted from Wikipedia: [클릭 KNN 시청자 세상](https://ko.wikipedia.org/wiki/클릭_KNN_시청자_세상).
 
 
 《**클릭 KNN 시청자 세상**》은 [KNN TV에서](../Page/KNN.md "wikilink") 월1회 목요일 오전 10시 30분부터 11시까지 방송되는 부산·경남지역 TV 비평 옴부즈맨 프로그램이다.
@@ -34,4 +34,4 @@
 ## 외부 링크
 
   -
-[분류:미종영 방송 프로그램](https://ko.wikipedia.org/wiki/분류:미종영_방송_프로그램 "wikilink") [분류:2010년대 대한민국의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:2010년대_대한민국의_텔레비전_프로그램 "wikilink")
+[분류:미종영 방송 프로그램](https://ko.wikipedia.org/wiki/분류:미종영_방송_프로그램 "wikilink") [분류:2010년대 대한민국의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:2010년대_대한민국의_텔레비전_프로그램 "wikilink") [분류:2018년에 시작한 대한민국 TV 프로그램](https://ko.wikipedia.org/wiki/분류:2018년에_시작한_대한민국_TV_프로그램 "wikilink")

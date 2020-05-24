@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [X ](https://ko.wikipedia.org/wiki/X_).
+> This article is converted from Wikipedia: [용의자X적 헌신](https://ko.wikipedia.org/wiki/용의자X적_헌신).
 
 
 《**용의자X적 헌신**》(, )은 [2017년](../Page/2017년.md "wikilink") 개봉한 [중화인민공화국](../Page/중화인민공화국.md "wikilink")의 추리 영화다. [히가시노 게이고의](../Page/히가시노_게이고.md "wikilink") 추리소설인 《[용의자 X의 헌신](../Page/용의자_X의_헌신.md "wikilink")》을 원작을 바탕으로 하여 제작했다.

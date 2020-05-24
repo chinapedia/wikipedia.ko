@@ -27,7 +27,7 @@
       - A04.1 독소원성대장균(Enterotoxigenic Escherichia coli) 감염
       - A04.2 장침투성대장균(Enteroinvasive Escherichia coli) 감염
       - A04.3 장출혈성대장균(Enterohaemorrhagic Escherichia coli) 감염
-          - [O-157](https://ko.wikipedia.org/wiki/O-157 "wikilink") 감염
+          - [O-157](../Page/O-157.md "wikilink") 감염
       - A04.4 기타 장내 대장균 감염
       - A04.5 캄필로박터 장염
       - A04.6 [Yersinia enterocolitica에](https://ko.wikipedia.org/wiki/m:en:Yersinia_enterocolitica "wikilink") 의한 장염

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [LA ](https://ko.wikipedia.org/wiki/LA_).
+> This article is converted from Wikipedia: [LA 탈출](https://ko.wikipedia.org/wiki/LA_탈출).
 
 
 《**LA 탈출**》(Escape From L.A.)은 미국에서 제작된 [존 카펜터](../Page/존_카펜터.md "wikilink") 감독의 1996년 액션, 모험, SF, 스릴러 영화이다. [커트 러셀](../Page/커트_러셀.md "wikilink") 등이 주연으로 출연하였고 [데브라 힐](https://ko.wikipedia.org/wiki/데브라_힐 "wikilink") 등이 제작에 참여하였다.

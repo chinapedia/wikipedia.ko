@@ -1,0 +1,146 @@
+> This article is converted from Wikipedia: [PAL 지역](https://ko.wikipedia.org/wiki/PAL_지역).
+
+
+[섬네일](https://ko.wikipedia.org/wiki/파일:PAL-NTSC-SECAM.svg "wikilink") **PAL 지역** 또는 **PAL 리전**(PAL region)은 [아시아](../Page/아시아.md "wikilink"), [아프리카](../Page/아프리카.md "wikilink"), [유럽](../Page/유럽.md "wikilink"), [남아메리카](../Page/남아메리카.md "wikilink"), [오세아니아](../Page/오세아니아.md "wikilink") 대부분에 해당하는 텔레비전 방송 영토이다. 전통적으로 해당 지역에 사용되는 [PAL](https://ko.wikipedia.org/wiki/PAL "wikilink")(Phase Alternating Line) 텔레비전 표준이기 때문에 그렇게 이름이 불린다. 이는 전통적으로 [일본](../Page/일본.md "wikilink") 및 거의 대부분 [북아메리카](../Page/북아메리카.md "wikilink") 지역에 사용되는 [NTSC](../Page/NTSC.md "wikilink") 표준과는 대비된다.
+
+## 지역
+
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -   -
+      -
+  -
+  -
+  -
+  -   -
+      -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -   -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -   -
+      -
+      -
+      -
+      -
+  -
+  -
+  -
+  -
+  -
+  -
+## 같이 보기
+
+  - [PAL](https://ko.wikipedia.org/wiki/PAL "wikilink")
+  - [NTSC](../Page/NTSC.md "wikilink")
+  - [SECAM](https://ko.wikipedia.org/wiki/SECAM "wikilink")
+  - [ATSC 표준](https://ko.wikipedia.org/wiki/ATSC_표준 "wikilink")
+
+[분류:영상 포맷](https://ko.wikipedia.org/wiki/분류:영상_포맷 "wikilink") [분류:비디오 게임 문화](https://ko.wikipedia.org/wiki/분류:비디오_게임_문화 "wikilink")

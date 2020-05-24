@@ -37,7 +37,7 @@
 
 <references />
 
-## 함께 보기
+## 같이 보기
 
   - [시애틀 슈퍼소닉스](../Page/시애틀_슈퍼소닉스_\(1967년\).md "wikilink") ([NBA](../Page/전미_농구_협회.md "wikilink"))
   - [시애틀 스톰](../Page/시애틀_스톰.md "wikilink") ([WNBA](https://ko.wikipedia.org/wiki/전미_여자_농구_협회 "wikilink"))

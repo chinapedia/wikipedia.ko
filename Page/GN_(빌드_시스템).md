@@ -19,7 +19,7 @@
 
 변환할 필요가있는 "Closure Compilation"빌더를위한 GYP 파일이 여전히 남겨져있다. 일부 관련 프로젝트 (예 : [V8](https://ko.wikipedia.org/wiki/V8 "wikilink"), [Skia](https://ko.wikipedia.org/wiki/Skia "wikilink"))는 여전히 자체적인 이유로 GYP를 지원할 수 있다. 아직도 gclient가 GYP_DEFINES를 사용하는것과 같은 기능을 남겨놓고 있다.
 
-## 함께보기
+## 같이 보기
 
   - [닌자](../Page/닌자_\(빌드_시스템\).md "wikilink")(Ninja)
 

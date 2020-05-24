@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ K](https://ko.wikipedia.org/wiki/_K).
+> This article is converted from Wikipedia: [뒤틀린 K이론](https://ko.wikipedia.org/wiki/뒤틀린_K이론).
 
 
 [K이론](../Page/K이론.md "wikilink")에서, **뒤틀린 K이론**(뒤틀린K理論, )은 어떤 3차 [특이 코호몰로지류에](../Page/특이_호몰로지.md "wikilink") 의존하는, [위상 K이론의](../Page/위상_K이론.md "wikilink") 일반화이다.\[1\]

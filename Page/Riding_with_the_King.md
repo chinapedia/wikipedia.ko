@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Riding with the King](https://ko.wikipedia.org/wiki/Riding_with_the_King).
 
 
-《**Riding with the King**》은 2000년 발매된 [에릭 클랩튼과](../Page/에릭_클랩튼.md "wikilink") [B.B. 킹의](https://ko.wikipedia.org/wiki/B.B._킹 "wikilink") [블루스](../Page/블루스.md "wikilink") 음반이다. 이 음반은 그들의 첫 번째 공동 음반이었고 2000년 [그래미 어워드](../Page/그래미_어워드.md "wikilink") 최우수 전통 블루스 앨범상을 받았다. 이 음반은 《[빌보드](../Page/빌보드.md "wikilink")》 [탑 블루스 음반에서](../Page/빌보드_200.md "wikilink") 1위에 올랐고 미국에서 [2배 멀티 플래티넘 인증을](../Page/음반_판매량_인증.md "wikilink") 받았다. 《Riding with the King》은 2000년에 [5.1의 서라운드 사운드 믹스와](https://ko.wikipedia.org/wiki/서라운드_사운드 "wikilink") 고해상도 [DVD 오디오로도](../Page/DVD_오디오.md "wikilink") 출시되었다.
+《**Riding with the King**》은 2000년 발매된 [에릭 클랩튼과](../Page/에릭_클랩튼.md "wikilink") [B.B. 킹의](https://ko.wikipedia.org/wiki/B.B._킹 "wikilink") [블루스](../Page/블루스.md "wikilink") 음반이다. 이 음반은 그들의 첫 번째 공동 음반이었고 2000년 [그래미 어워드](../Page/그래미_어워드.md "wikilink") 최우수 전통 블루스 앨범상을 받았다. 이 음반은 《[빌보드](../Page/빌보드.md "wikilink")》 [톱 블루스 음반에서](../Page/빌보드_200.md "wikilink") 1위에 올랐고 미국에서 [2배 멀티 플래티넘 인증을](../Page/음반_판매량_인증.md "wikilink") 받았다. 《Riding with the King》은 2000년에 [5.1의 서라운드 사운드 믹스와](https://ko.wikipedia.org/wiki/서라운드_사운드 "wikilink") 고해상도 [DVD 오디오로도](../Page/DVD_오디오.md "wikilink") 출시되었다.
 
 음반이 더 좋을 수도 있었고, CD의 사운드가 블루스 음반에 비해 너무 세련됐다는 느낌도 있었지만, 평론가들은 대체로 좋은 반응을 보였다.
 

@@ -30,7 +30,7 @@ STM32칩을 장착한 보드를 개발하기 위한 통합개발환경(IDE)은 M
 
 그러나 [NuttX](../Page/NuttX.md "wikilink")같은 임베디드 운영체제의 커널 및 C나 C++을 [펌웨어](../Page/펌웨어.md "wikilink")로 올리기 위해서는 [이클립스나](../Page/이클립스_\(소프트웨어\).md "wikilink") 다른 빌드 방법을 사용할수있으며 ARM은 크로스 컴파일 도구를 공식 지원한다.\[14\]\[15\]
 
-## 함께보기
+## 같이 보기
 
   - [아트멜 AVR](../Page/아트멜_AVR.md "wikilink")
   - [I2C](https://ko.wikipedia.org/wiki/I2C "wikilink")

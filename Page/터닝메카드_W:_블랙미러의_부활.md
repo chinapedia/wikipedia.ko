@@ -75,34 +75,15 @@
 ## 등장 메카니멀
 
   - <span style="font-weight:bold; color:#0000ff">에반</span>
-  - <span style="font-weight:bold; color:#800080">타나토스</span>
-  - <span style="font-weight:bold; color:#008000">슈마</span>
-  - <span style="font-weight:bold; color:#800080">알타</span>
-  - <span style="text-shadow: 0 0 3px #ffd700;color:#000000">피닉스</span>
-  - <span style="font-weight:bold; color:#dcdcdc">테로</span>
-  - <span style="font-weight:bold; color:#ff1493">미리내</span>
-  - <span style="font-weight:bold; color:#ff0000">코카트</span>
-  - <span style="font-weight:bold; color:#008000">베노사</span>
-  - <span style="font-weight:bold; color:#000000">게리온</span>
-  - <span style="font-weight:bold; color:#ff0000">무간</span>
-  - <span style="font-weight:bold; color:#dcdcdc">캉시</span>
-  - <span style="font-weight:bold; color:#008000">나백작</span>
-  - <span style="font-weight:bold; color:#ff00ff">독꼬리</span>
-  - <span style="font-weight:bold; color:#0000ff">타이탄</span>
-  - <span style="font-weight:bold; color:#800080">크로키</span>
-  - <span style="font-weight:bold; color:#000000">킹죠스</span>
-  - <span style="font-weight:bold; color:#a52a2a">파이온</span>
-  - <span style="font-weight:bold; color:#0000ff">크랑</span>
-  - <span style="font-weight:bold; color:#ff8c00">윙톡</span>
-  - <span style="font-weight:bold; color:#ff0000">만타리</span>
-  - <span style="font-weight:bold; color:#dcdcdc">옥타</span>
-  - <span style="font-weight:bold; color:#ff8c00">안드로매지션</span>
-  - <span style="font-weight:bold; color:#808080">바벨</span>
+  - <span style="tex-shadow: 0 0 3px #ffd700;color:#000000">피닉스</span>
+  - <span style="font-weight:bold; color:#ff0000">만타리
+
+바벨</span>
+
   - <span style="font-weight:bold; color:#008000">센뿔</span>
   - <span style="font-weight:bold; color:#0000ff">모스톤</span>
   - <span style="font-weight:bold; color:#0000ff">프린스콩</span>
   - <span style="font-weight:bold; color:#ff0000">우르스</span>
-  - <span style="font-weight:bold; color:#0000ff">타돌</span>
   - <span style="font-weight:bold; color:#ff0000">메가</span>
   - <span style="font-weight:bold; color:#0000ff">메가테릭스</span>
   - <span style="font-weight:bold; color:#000000">메가스파이더</span>
@@ -110,14 +91,6 @@
   - <span style="text-shadow: 0 0 3px #800080;color:#dcdcdc">그리폰</span>
   - <span style="text-shadow: 0 0 3px #800080;color:#ff0000">스핑크스</span>
   - <span style="text-shadow: 0 0 3px #800080;color:#dcdcdc">그리</span><span style="text-shadow: 0 0 3px #800080;color:#ff0000">핑크스</span> (<span style="text-shadow: 0 0 3px #800080;color:#dcdcdc">그리폰</span> + <span style="text-shadow: 0 0 3px #800080;color:#ff0000">스핑크스</span>)
-  - <span style="font-weight:bold; color:#0000ff">요타</span>
-  - <span style="font-weight:bold; color:#ff0000">네오</span>
-  - <span style="font-weight:bold; color:#8a2be2">엑스</span>
-  - <span style="font-weight:bold; color:#dcdcdc">크라켄</span>
-  - <span style="font-weight:bold; color:#0000ff">피코</span>
-  - <span style="font-weight:bold; color:#ff0000">하이드론</span>
-  - <span style="font-weight:bold; color:#0000ff">카울</span>
-  - <span style="font-weight:bold; color:#0000ff">투스코</span>
   - <span style="font-weight:bold; color:#000000">데스퍼</span>
   - <span style="font-weight:bold; color:#008000">쿠루기</span>
   - <span style="font-weight:bold; color:#0000ff">다이크</span>

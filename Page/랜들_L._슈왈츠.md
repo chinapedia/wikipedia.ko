@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ L. ](https://ko.wikipedia.org/wiki/_L._).
+> This article is converted from Wikipedia: [랜들 L. 슈왈츠](https://ko.wikipedia.org/wiki/랜들_L._슈왈츠).
 
 
 [thumb](https://ko.wikipedia.org/wiki/파일:Randal_Schwartz_headshot_by_Chris_Marquardt.png "wikilink")

@@ -3846,7 +3846,7 @@
 </tr>
 <tr class="odd">
 <td><p>한국</p></td>
-<td><p>《<a href="https://ko.wikipedia.org/wiki/열한시" title="wikilink">열한시</a>》</p></td>
+<td><p>《<a href="../Page/열한시.md" title="wikilink">열한시</a>》</p></td>
 <td><p>2013.11.28</p></td>
 <td><p>실사</p></td>
 <td><p>제공, 배급</p></td>

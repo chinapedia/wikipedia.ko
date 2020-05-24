@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Infobox mapframe](https://ko.wikipedia.org/wiki/:Infobox_mapframe).
+> This article is converted from Wikipedia: [모듈:Infobox mapframe](https://ko.wikipedia.org/wiki/모듈:Infobox_mapframe).
 
 
 local mf = require('Module:Mapframe')

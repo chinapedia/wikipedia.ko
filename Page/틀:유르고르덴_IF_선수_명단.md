@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [: IF  ](https://ko.wikipedia.org/wiki/:_IF__).
+> This article is converted from Wikipedia: [틀:유르고르덴 IF 선수 명단](https://ko.wikipedia.org/wiki/틀:유르고르덴_IF_선수_명단).
 
 
 <onlyinclude> </onlyinclude>

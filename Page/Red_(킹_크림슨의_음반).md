@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Red \(  \)](https://ko.wikipedia.org/wiki/Red_\(__\)).
+> This article is converted from Wikipedia: [Red \(킹 크림슨의 음반\)](https://ko.wikipedia.org/wiki/Red_\(킹_크림슨의_음반\)).
 
 
 《**Red**》는 [영국](../Page/영국.md "wikilink")의 [프로그레시브 록](../Page/프로그레시브_록.md "wikilink") 밴드 [킹 크림슨이](../Page/킹_크림슨.md "wikilink") 1974년 [영국](../Page/영국.md "wikilink")의 [아일랜드 레코드와](../Page/아일랜드_레코드.md "wikilink") [미국](../Page/미국.md "wikilink")의 [애틀랜틱 레코드에서](../Page/애틀랜틱_레코드.md "wikilink") 발매한 일곱 번째 스튜디오 음반이다. 이 음반은 1970년대 그들의 마지막 스튜디오 녹음이었고, 리드 멤버인 [로버트 프립이](https://ko.wikipedia.org/wiki/로버트_프립 "wikilink") 그룹을 일시적으로 해체하기 전 마지막 음반이었다. 비록 그 당시 그들의 가장 낮은 음반이 영국 차트에서 1주일을 보냈지만, 《Red》는 비평가들의 호평을 받았다.

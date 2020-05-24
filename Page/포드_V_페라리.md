@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ V ](https://ko.wikipedia.org/wiki/_V_).
+> This article is converted from Wikipedia: [포드 V 페라리](https://ko.wikipedia.org/wiki/포드_V_페라리).
 
 
 《**포드 V 페라리**》()는 [제임스 맨골드](../Page/제임스_맨골드.md "wikilink") 감독의 2019년 액션, 전기 드라마 영화이다. [크리스찬 베일](../Page/크리스찬_베일.md "wikilink"), [맷 데이먼](../Page/맷_데이먼.md "wikilink") 등이 출연한다.

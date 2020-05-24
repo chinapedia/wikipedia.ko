@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [USCGC ](https://ko.wikipedia.org/wiki/USCGC_).
+> This article is converted from Wikipedia: [USCGC 버솔프](https://ko.wikipedia.org/wiki/USCGC_버솔프).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Bertholf_Steams_Home_\(2696295570\).jpg "wikilink") **USCGC 버솔프**(USCGC Bertholf, WMSL-750)는 [미국 해안경비대의](../Page/미국_해안경비대.md "wikilink") 4500톤급 경비함이다.

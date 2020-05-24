@@ -59,8 +59,4 @@
   - [MBC 표준FM](../Page/MBC_표준FM.md "wikilink")
   - [박준형, 정경미의 2시만세](https://ko.wikipedia.org/wiki/두시만세 "wikilink")
 
-## 외부 링크
-
-  - [안동MBC 박종선, 이정민의 즐거운 오후 2시 공식 홈페이지](http://www.andongmbc.co.kr/adboard/index.php?doc=radio_program/happy2pm.php&menuID=0406000000)
-
 [분류:문화방송의 라디오 프로그램](https://ko.wikipedia.org/wiki/분류:문화방송의_라디오_프로그램 "wikilink")

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [NATO  ](https://ko.wikipedia.org/wiki/NATO__).
+> This article is converted from Wikipedia: [NATO의 유고슬라비아 공습](https://ko.wikipedia.org/wiki/NATO의_유고슬라비아_공습).
 
 
 **NATO의 유고슬라비아 공습**은 [유고슬라비아 연방공화국에](https://ko.wikipedia.org/wiki/유고슬라비아_연방공화국 "wikilink") 대해 [코소보 전쟁](../Page/코소보_전쟁.md "wikilink") 기간 동안 북대서양 조약기구가 벌인 군사 작전이다. 공습은 1999년 3월 24일부터 1999년 6월 10일까지 이어졌다. 공식적인 NATO 측의 작전명은 "연합군 작전"이었지만, 미국은 이를 "고귀한 모루 작전"이라고 불렀다.\[1\] 유고슬라비아에서는 미국 측 작전 명이 잘못되어, "감사한 천사" ( / *Milosrdni anđeo*)로 불리게 되었다.\[2\] 공습은 [유엔 코소보 임시행정부가](../Page/유엔_코소보_임시행정부.md "wikilink") 들어서고 유고슬라비아군이 코소보에서 철수할 때까지 지속적으로 이어졌다.

@@ -11,7 +11,7 @@ GYP를 사용하여 구축되는 소프트웨어 프로젝트에는 [V8](https:/
 
 GYP는 대부분의 주요 [OS](https://ko.wikipedia.org/wiki/OS "wikilink")를 지원하는 [닌자](../Page/닌자_\(빌드_시스템\).md "wikilink") 파일이나 빌드 프로젝트 파일을 생성 할 수 있다.\[6\]
 
-## 함께보기
+## 같이 보기
 
   - [GN](../Page/GN_\(빌드_시스템\).md "wikilink")
 

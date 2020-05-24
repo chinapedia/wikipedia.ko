@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:-D\&E](https://ko.wikipedia.org/wiki/:-D\&E).
+> This article is converted from Wikipedia: [틀:슈퍼주니어-D\&E](https://ko.wikipedia.org/wiki/틀:슈퍼주니어-D\&E).
 
 
 <onlyinclude></onlyinclude>

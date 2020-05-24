@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:CPU ](https://ko.wikipedia.org/wiki/:CPU_).
+> This article is converted from Wikipedia: [틀:CPU 아키텍처](https://ko.wikipedia.org/wiki/틀:CPU_아키텍처).
 
 
 }}}} | image = {{\#invoke:InfoboxImage|InfoboxImage|image=}}}|size=|alt=}} | caption =

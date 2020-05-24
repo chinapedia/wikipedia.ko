@@ -13,7 +13,7 @@ Bluetooth high speed 는 [Wi-Fi](https://ko.wikipedia.org/wiki/Wi-Fi "wikilink")
 
 한편, 종래의 버전과 비교해 대폭적으로 소비전력을 낮춘 Bluetooth Low Energy는, Bluetooth SIG 공개자료에 의하면, 버튼형 전지 1개만으로도 수년간 구동 가능하도록 되어 있다. 전송 속도는 1Mbps로, 데이터 패킷 사이즈가 8 - 27옥테드로 매우 작아졌다. 가전제품 등에 탑재된 센서와의 데이터 통신을 염두에 두고 만들어진 사양으로, 기존 3.0+HS과 방향성을 달리하여, 제품 제작자는 3.0+HS 및 4.0을 별도로 목적에 맞춰 채용하는 식이 되었다.
 
-## 함께보기
+## 같이 보기
 
   - [시리얼 통신](https://ko.wikipedia.org/wiki/시리얼_통신 "wikilink")
   - [ATcommand](../Page/ATcommand.md "wikilink")

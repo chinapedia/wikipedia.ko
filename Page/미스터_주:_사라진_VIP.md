@@ -1,7 +1,11 @@
-> This article is converted from Wikipedia: [ :  VIP](https://ko.wikipedia.org/wiki/_:__VIP).
+> This article is converted from Wikipedia: [미스터 주: 사라진 VIP](https://ko.wikipedia.org/wiki/미스터_주:_사라진_VIP).
 
 
 《**미스터 주: 사라진 VIP**》는 2020년에 개봉한 [대한민국의](https://ko.wikipedia.org/wiki/대한민국_영화 "wikilink") 영화이다. 김태윤이 각본과 감독을 맡았다.
+
+## 줄거리
+
+국정원 에이스 주태주. VIP 판다 '밍밍'을 경호하던 도중 사고로 났다. 이 사고로 태주는 머리를 다쳤고 VIP는 사라졌다. 다행히 태주는 별 이상이 없었지만 이상한 증상을 겪는다. 바로 평소 그토록 싫어하던 동물들이 목소리가 들리기 시작한 것이다. 마트에 진열된 애완동물들, 국정원 사무실 어항 속 물고기들. 종류를 가리지 않고 동물이라는 생명체의 목소리가 전부다 들려서 혼란이 오려던 찰나. 떠돌아다니던 군견 '알리'를 만났다. 알리에게 사건의 단서가 있다는걸 알게된 태주는 결국 기이한 증상을 이용해 알리와 합동수사를 벌이게 된다.
 
 ## 캐스팅
 
@@ -64,7 +68,7 @@
   - 김하솔 : 유치원생 3 역
   - [김정수](../Page/김정수_\(배우\).md "wikilink")
   - [박철민](../Page/박철민_\(배우\).md "wikilink") : 버스기사 역 (특별출연)
-  - [이수경](https://ko.wikipedia.org/wiki/이수경 "wikilink") : 소진 역 (특별출연)
+  - [이수경](../Page/이수경_\(1996년\).md "wikilink") : 소진 역 (특별출연)
 
 ## 같이 보기
 
@@ -77,4 +81,4 @@
   -
   -
   -
-[분류:2020년 영화](https://ko.wikipedia.org/wiki/분류:2020년_영화 "wikilink") [분류:한국어 영화 작품](https://ko.wikipedia.org/wiki/분류:한국어_영화_작품 "wikilink") [분류:대한민국의 영화 작품](https://ko.wikipedia.org/wiki/분류:대한민국의_영화_작품 "wikilink") [분류:대한민국의 드라마 영화](https://ko.wikipedia.org/wiki/분류:대한민국의_드라마_영화 "wikilink")
+[분류:2020년 영화](https://ko.wikipedia.org/wiki/분류:2020년_영화 "wikilink") [분류:한국어 영화 작품](https://ko.wikipedia.org/wiki/분류:한국어_영화_작품 "wikilink") [분류:대한민국의 코미디 드라마 영화](https://ko.wikipedia.org/wiki/분류:대한민국의_코미디_드라마_영화 "wikilink") [분류:동물을 소재로 한 영화](https://ko.wikipedia.org/wiki/분류:동물을_소재로_한_영화 "wikilink") [분류:서울특별시에서 촬영한 영화](https://ko.wikipedia.org/wiki/분류:서울특별시에서_촬영한_영화 "wikilink") [분류:전라북도에서 촬영한 영화](https://ko.wikipedia.org/wiki/분류:전라북도에서_촬영한_영화 "wikilink")

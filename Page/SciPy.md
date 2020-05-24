@@ -7,7 +7,7 @@
 
   - [NumPy](../Page/NumPy.md "wikilink")
   - [SymPy](https://ko.wikipedia.org/wiki/SymPy "wikilink")
-  - [Matplotlib](https://ko.wikipedia.org/wiki/Matplotlib "wikilink")
+  - [Matplotlib](../Page/Matplotlib.md "wikilink")
 
 ## 각주
 

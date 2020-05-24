@@ -18,4 +18,4 @@
 
   - [JIBS New Power FM 김민경의 NOW JEJU 공식 홈페이지](http://www.jibs.co.kr/radio/viewRadioProgramInfo?channelId=191)
 
-[분류:제주방송](https://ko.wikipedia.org/wiki/분류:제주방송 "wikilink")
+[분류:제주방송의 라디오 프로그램](https://ko.wikipedia.org/wiki/분류:제주방송의_라디오_프로그램 "wikilink") [분류:대한민국의 라디오 프로그램](https://ko.wikipedia.org/wiki/분류:대한민국의_라디오_프로그램 "wikilink")

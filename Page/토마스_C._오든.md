@@ -113,7 +113,7 @@
 
   - *Ancient & Postmodern Christianity: Paleo-Orthodoxy in the 21st Century, Essays In Honor of Thomas C. Oden*, Christopher Hall and Kenneth Tanner, eds, 2002 ()
 
-## 함께 보기
+## 같이 보기
 
   - [고전정통주의](../Page/고전정통주의.md "wikilink")
   - [신정통주의](../Page/신정통주의.md "wikilink")

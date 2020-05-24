@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [HP \(기업\)](https://ko.wikipedia.org/wiki/HP_\(기업\)).
 
 
-**HP 주식회사**()는 [미국](../Page/미국.md "wikilink")의 [개인용 컴퓨터](../Page/개인용_컴퓨터.md "wikilink") 제조 및 판매 회사이다. [2015년](../Page/2015년.md "wikilink") [11월 1일에](../Page/11월_1일.md "wikilink") [휴렛 팩커드의](../Page/휴렛_팩커드.md "wikilink") 기업용 [클라우드](../Page/클라우드_컴퓨팅.md "wikilink") 사업 분야와 [개인용 컴퓨터](../Page/개인용_컴퓨터.md "wikilink") 사업이 분할되면서 새로 설립된 컴퓨터 회사이다. 클라우드 사업 분야는 [휴렛 팩커드 엔터프라이즈로](https://ko.wikipedia.org/wiki/휴렛_팩커드_엔터프라이즈 "wikilink") 새로 설립되어 이어진다.
+**HP 주식회사**()는 [미국](../Page/미국.md "wikilink")의 [개인용 컴퓨터](../Page/개인용_컴퓨터.md "wikilink") 제조 및 판매 회사이다. [2015년](../Page/2015년.md "wikilink") [11월 1일에](../Page/11월_1일.md "wikilink") [휴렛 팩커드의](../Page/휴렛_팩커드.md "wikilink") 기업용 [클라우드](../Page/클라우드_컴퓨팅.md "wikilink") 사업 분야와 [개인용 컴퓨터](../Page/개인용_컴퓨터.md "wikilink") 사업이 분할되면서 새로 설립된 컴퓨터 회사이다. 클라우드 사업 분야는 [휴렛 팩커드 엔터프라이즈로](../Page/휴렛_팩커드_엔터프라이즈.md "wikilink") 새로 설립되어 이어진다.
 
 ## 역사
 

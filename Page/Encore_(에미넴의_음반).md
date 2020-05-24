@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Encore \( \)](https://ko.wikipedia.org/wiki/Encore_\(_\)).
+> This article is converted from Wikipedia: [Encore \(에미넴의 음반\)](https://ko.wikipedia.org/wiki/Encore_\(에미넴의_음반\)).
 
 
 《**Encore**》는 2004년 11월 12일 [애프터매스 엔터테인먼트](../Page/애프터매스_엔터테인먼트.md "wikilink"), [셰이디 레코드](https://ko.wikipedia.org/wiki/셰이디_레코드 "wikilink"), [인터스코프 레코드가](../Page/인터스코프_레코드.md "wikilink") 발매한 [미국](../Page/미국.md "wikilink")의 래퍼 [에미넴](https://ko.wikipedia.org/wiki/에미넴 "wikilink")의 다섯 번째 스튜디오 음반이다. 발매일은 원래 2004년 11월 16일로 정해졌으나, 음반이 인터넷에 유출되면서 11월 12일로 변경되었다.

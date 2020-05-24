@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [  - SKY ](https://ko.wikipedia.org/wiki/__-_SKY_).
+> This article is converted from Wikipedia: [위대한 운동장 - SKY 머슬](https://ko.wikipedia.org/wiki/위대한_운동장_-_SKY_머슬).
 
 
-《**위대한 운동장 - SKY 머슬**》는 대한민국의 [JTBC](../Page/JTBC.md "wikilink")에서 [2019년](../Page/2019년.md "wikilink") [2월 23일부터](../Page/2월_23일.md "wikilink")[2019년](../Page/2019년.md "wikilink") [3월 16일까지](../Page/3월_16일.md "wikilink") 방영된 텔레비전 프로그램이다.
+《**위대한 운동장 - SKY 머슬**》는 대한민국의 [JTBC](../Page/JTBC.md "wikilink")에서 [2019년](../Page/2019년.md "wikilink") [2월 23일부터](../Page/2월_23일.md "wikilink") [2019년](../Page/2019년.md "wikilink") [3월 16일까지](../Page/3월_16일.md "wikilink") 방영된 텔레비전 프로그램이다.
 
 ## 개요
 
@@ -63,10 +63,6 @@ C조
 
   - [위대한 운동장 - SKY 머슬 홈페이지](http://tv.jtbc.joins.com/trailer/pr10011019)
 
-## 제작협찬
 
-나이키 코리아
 
-## 외부 링크
-
-[분류:JTBC의 예능 프로그램](https://ko.wikipedia.org/wiki/분류:JTBC의_예능_프로그램 "wikilink") [분류:2010년대 대한민국의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:2010년대_대한민국의_텔레비전_프로그램 "wikilink")
+[분류:JTBC의 예능 프로그램](https://ko.wikipedia.org/wiki/분류:JTBC의_예능_프로그램 "wikilink") [분류:2019년에 시작한 대한민국 TV 프로그램](https://ko.wikipedia.org/wiki/분류:2019년에_시작한_대한민국_TV_프로그램 "wikilink") [분류:2019년에 종료한 대한민국 TV 프로그램](https://ko.wikipedia.org/wiki/분류:2019년에_종료한_대한민국_TV_프로그램 "wikilink")

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [MBC  ](https://ko.wikipedia.org/wiki/MBC__).
+> This article is converted from Wikipedia: [원주MBC 오후의 발견](https://ko.wikipedia.org/wiki/원주MBC_오후의_발견).
 
 
 **채태곤의 오후의 발견**은 [2007년](../Page/2007년.md "wikilink") [4월 23일부터](../Page/4월_23일.md "wikilink") [2009년](../Page/2009년.md "wikilink") [4월 19일까지](../Page/4월_19일.md "wikilink") [원주MBC FM4U](../Page/원주문화방송.md "wikilink")(FM 98.9㎒)에서 매일 오후 4시부터 저녁 6시까지 방송했던 라디오 프로그램이다.

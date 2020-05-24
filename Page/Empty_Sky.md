@@ -37,7 +37,7 @@ DJM 8트랙 스튜디오에서 1968년 겨울, 1969년 봄에 녹음된 Empty Sk
 
 ## 인원
 
-  - [엘튼 존](../Page/엘튼_존.md "wikilink") - [보컬](https://ko.wikipedia.org/wiki/가창 "wikilink"), [피아노](../Page/피아노.md "wikilink"), [오르간](../Page/오르간.md "wikilink"), [전기 피아노](https://ko.wikipedia.org/wiki/전기_피아노 "wikilink"), [하프시코드](../Page/하프시코드.md "wikilink")
+  - [엘튼 존](../Page/엘튼_존.md "wikilink") - [보컬](../Page/가창.md "wikilink"), [피아노](../Page/피아노.md "wikilink"), [오르간](../Page/오르간.md "wikilink"), [전기 피아노](https://ko.wikipedia.org/wiki/전기_피아노 "wikilink"), [하프시코드](../Page/하프시코드.md "wikilink")
   - [Caleb Quaye](https://ko.wikipedia.org/wiki/Caleb_Quaye "wikilink") - [전기 기타](../Page/전기_기타.md "wikilink"), [통기타](../Page/통기타.md "wikilink"), [콩가 드럼](https://ko.wikipedia.org/wiki/콩가 "wikilink")
   - Tony Murray - [베이스](../Page/베이스_기타.md "wikilink")
   - Roger Pope - [드럼](https://ko.wikipedia.org/wiki/드럼_세트 "wikilink"), [타악기](https://ko.wikipedia.org/wiki/타악기 "wikilink")

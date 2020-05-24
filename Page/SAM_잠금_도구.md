@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [SAM 잠금 도구](https://ko.wikipedia.org/wiki/SAM_잠금_도구).
 
 
-**SAM 잠금 도구** 또는 **Syskey**([실행 파일의](../Page/실행_파일.md "wikilink") 이름)는 128비트 [RC4](https://ko.wikipedia.org/wiki/RC4 "wikilink") [암호 키를](https://ko.wikipedia.org/wiki/키_\(암호\) "wikilink") 사용하여 [보안 계정 관리자](../Page/보안_계정_관리자.md "wikilink")(SAM) [데이터베이스](../Page/데이터베이스.md "wikilink")를 [암호화](../Page/암호화.md "wikilink")하는 [Windows NT의](https://ko.wikipedia.org/wiki/Windows_NT "wikilink") 구성 요소였다.\[1\]
+**SAM 잠금 도구** 또는 **Syskey**([실행 파일의](../Page/실행_파일.md "wikilink") 이름)는 128비트 [RC4](../Page/RC4.md "wikilink") [암호 키를](https://ko.wikipedia.org/wiki/키_\(암호\) "wikilink") 사용하여 [보안 계정 관리자](../Page/보안_계정_관리자.md "wikilink")(SAM) [데이터베이스](../Page/데이터베이스.md "wikilink")를 [암호화](../Page/암호화.md "wikilink")하는 [Windows NT의](https://ko.wikipedia.org/wiki/Windows_NT "wikilink") 구성 요소였다.\[1\]
 
 [윈도우 NT 4.0](../Page/윈도우_NT_4.0.md "wikilink") 서비스 팩 3에서 처음 등장하였으나, RC4 알고리즘이 더 이상 안전하지 않은 것으로 여겨지고 있으며, [랜섬웨어](../Page/랜섬웨어.md "wikilink") 사기의 일부로 사용되면서 [윈도우 10과](../Page/윈도우_10.md "wikilink") [윈도우 서버 2016에서](../Page/윈도우_서버_2016.md "wikilink") 제거되었다. [마이크로소프트](../Page/마이크로소프트.md "wikilink")에서는 공식적으로 [비트로커](../Page/비트로커.md "wikilink")를 대신 사용할 것을 권고하고 있다.\[2\]\[3\]
 

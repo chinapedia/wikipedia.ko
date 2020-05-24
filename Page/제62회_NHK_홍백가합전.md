@@ -13,9 +13,9 @@
   - 홍조(紅組)사회 - [이노우에 마오](../Page/이노우에_마오.md "wikilink")
   - 백조(白組)사회 - [아라시](../Page/아라시.md "wikilink") 전원
   - 라디오 중계 - 코마츠 코지, 하시모토 나오코 아나운서
-  - [이와테현](../Page/이와테현.md "wikilink") [리쿠젠타카타 시](https://ko.wikipedia.org/wiki/리쿠젠타카타_시 "wikilink") 다케코마 커뮤니티 센터 중계 - 미야지마 다이스케 아나운서([NHK 모리오카 방송국](https://ko.wikipedia.org/wiki/NHK_모리오카_방송국 "wikilink"))
-  - [후쿠시마현](../Page/후쿠시마현.md "wikilink") [이와키 시](https://ko.wikipedia.org/wiki/이와키_시 "wikilink") 스파 리조트 하와이안즈 중계 - 나가이 신이치 아나운서
-  - [도쿄도](../Page/도쿄도.md "wikilink") [시부야 구](https://ko.wikipedia.org/wiki/시부야_구 "wikilink") [도쿄 체육관](../Page/도쿄_체육관.md "wikilink") 중계 - 쿠보타 유카 아나운서
+  - [이와테현](../Page/이와테현.md "wikilink") [리쿠젠타카타시](../Page/리쿠젠타카타시.md "wikilink") 다케코마 커뮤니티 센터 중계 - 미야지마 다이스케 아나운서([NHK 모리오카 방송국](https://ko.wikipedia.org/wiki/NHK_모리오카_방송국 "wikilink"))
+  - [후쿠시마현](../Page/후쿠시마현.md "wikilink") [이와키시](../Page/이와키시.md "wikilink") 스파 리조트 하와이안즈 중계 - 나가이 신이치 아나운서
+  - [도쿄도](../Page/도쿄도.md "wikilink") [시부야구](../Page/시부야구.md "wikilink") [도쿄 체육관](../Page/도쿄_체육관.md "wikilink") 중계 - 쿠보타 유카 아나운서
 
 ## 게스트 심사원
 

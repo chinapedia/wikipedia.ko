@@ -7,7 +7,7 @@
 
 ## 커버 아트
 
-헨드릭스는 자신과 익스피리언스를 다양한 형태의 [비슈누](../Page/비슈누.md "wikilink")로 묘사하고 있는 음반 커버 아트에 대해 [칼 페리스의](https://ko.wikipedia.org/wiki/칼_페리스 "wikilink") 초상화에서 실망감을 표시했다. 헨드릭스는 이 커버가 자신의 미국 인디언 유산을 부각시켰다면 더 적절했을 것이라고 말했다. 그리고 나서 그림을 그린 익스피리언스의 이미지는 대량 생산된 종교적 포스터의 복사본 위에 겹쳐졌다. 헨드릭스는 이렇게 말했다. "우리 셋은 《Axis》 커버에 있는 것과 아무 관련이 없어요." 이전 음반의 커버아트와 달리 영국과 미국판 모두 같은 이미지를 선보였다. [힌두교도](https://ko.wikipedia.org/wiki/힌두교도 "wikilink")들은 그 후 음반 커버와 포스터를 위해 신 비슈누를 전용한 것에 대해 분노를 표시했다. [말레이시아](../Page/말레이시아.md "wikilink") 내무부는 항의에 따른 종교적 민감성을 보호하기 위해 2014년 6월부터 삽화 반입 금지를 시행했다.\[1\]
+헨드릭스는 자신과 익스피리언스를 다양한 형태의 [비슈누](../Page/비슈누.md "wikilink")로 묘사하고 있는 음반 커버 아트에 대해 [칼 페리스의](https://ko.wikipedia.org/wiki/칼_페리스 "wikilink") 초상화에서 실망감을 표시했다. 헨드릭스는 이 커버가 자신의 미국 인디언 유산을 부각시켰다면 더 적절했을 것이라고 말했다. 그리고 나서 그림을 그린 익스피리언스의 이미지는 대량 생산된 종교적 포스터의 복사본 위에 겹쳐졌다. 헨드릭스는 이렇게 말했다. "우리 셋은 《Axis》 커버에 있는 것과 아무 관련이 없어요." 이전 음반의 커버 아트와 달리 영국과 미국판 모두 같은 이미지를 선보였다. [힌두교도](https://ko.wikipedia.org/wiki/힌두교도 "wikilink")들은 그 후 음반 커버와 포스터를 위해 신 비슈누를 전용한 것에 대해 분노를 표시했다. [말레이시아](../Page/말레이시아.md "wikilink") 내무부는 항의에 따른 종교적 민감성을 보호하기 위해 2014년 6월부터 삽화 반입 금지를 시행했다.\[1\]
 
 ## 곡 목록
 
@@ -20,6 +20,6 @@
   - [Information about *The Spanish Castle*, a legendary Seattle area dance hall where Jimi Hendrix gave some of his earliest performances](http://pnwbands.com/spanishcastle.html)
   - [More information about *The Spanish Castle* and Jimi Hendrix's early days](http://www.historylink.org/essays/output.cfm?file_id=3826)
 
-[분류:1967년 음반](https://ko.wikipedia.org/wiki/분류:1967년_음반 "wikilink") [분류:지미 헨드릭스 익스피리언스의 음반](https://ko.wikipedia.org/wiki/분류:지미_헨드릭스_익스피리언스의_음반 "wikilink") [분류:폴리도르 레코드 음반](https://ko.wikipedia.org/wiki/분류:폴리도르_레코드_음반 "wikilink") [분류:리프리즈 레코드 음반](https://ko.wikipedia.org/wiki/분류:리프리즈_레코드_음반 "wikilink")
+[분류:1967년 음반](https://ko.wikipedia.org/wiki/분류:1967년_음반 "wikilink") [분류:지미 헨드릭스 익스피리언스의 음반](https://ko.wikipedia.org/wiki/분류:지미_헨드릭스_익스피리언스의_음반 "wikilink") [분류:폴리도르 레코드 음반](https://ko.wikipedia.org/wiki/분류:폴리도르_레코드_음반 "wikilink") [분류:리프리즈 레코드 음반](https://ko.wikipedia.org/wiki/분류:리프리즈_레코드_음반 "wikilink") [분류:MCA 레코드 음반](https://ko.wikipedia.org/wiki/분류:MCA_레코드_음반 "wikilink")
 
 1.

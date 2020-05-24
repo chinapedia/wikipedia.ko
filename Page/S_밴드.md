@@ -9,7 +9,7 @@
 
 [F-22](https://ko.wikipedia.org/wiki/F-22 "wikilink"), [F-35](https://ko.wikipedia.org/wiki/F-35 "wikilink")에 사용된 스텔스 도료는 [X 밴드](https://ko.wikipedia.org/wiki/X_밴드 "wikilink") 레이다에 대한 저탐지 도료이다. X 밴드는 7.0-11.2 기가헤르츠 주파수 대역을 말한다. 따라서, 파장이 긴 S 밴드(2-4 기가헤르츠) 레이다에는 저탐지성이 제한적이다. 보다 파장이 긴 [L 밴드](../Page/L_밴드.md "wikilink")(1-2 기가헤르츠) 레이다에서는 더욱 탐지되기 쉽다.
 
-러시아 [S-400](../Page/S-400.md "wikilink") 시스템의 91N6E S 밴드 [AESA](../Page/AESA.md "wikilink") 레이다는 추적거리가 600 km 이다.
+러시아 [S-400](../Page/S-400.md "wikilink") 시스템의 91N6E S 밴드 [AESA](../Page/AESA.md "wikilink") 레이다는 추적거리가 600 km이다.
 
 미국 이지스 구축함은 [AN/SPY-1](https://ko.wikipedia.org/wiki/AN/SPY-1 "wikilink") S 밴드 [PESA](https://ko.wikipedia.org/wiki/PESA "wikilink") 레이다를 사용한다.
 

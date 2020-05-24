@@ -7,7 +7,7 @@
 
 1995년 3월 7일 [서울에서](../Page/서울특별시.md "wikilink") 태어났으며 [태권도](../Page/태권도.md "wikilink") [선수](https://ko.wikipedia.org/wiki/선수 "wikilink"), 사범, [게이머](https://ko.wikipedia.org/wiki/게이머 "wikilink") 및 [음악프로듀서이다](../Page/음악_프로듀서.md "wikilink"). 2011년 첫 곡을 만드는걸 시작으로 2012년 중반부터는 [PRODUCE 101](https://ko.wikipedia.org/wiki/PRODUCE_101 "wikilink") 으로 활동하다가 2017년 [마스터 이](http://lol.inven.co.kr/dataninfo/champion/detail.php?code=39)로 전향하였다.
 
-최근까지 ***ILBE*** 라는 예명을 사용하였다. 예명 ***ILBE*** 를 계속 사용 할 것이라는 예상과는 달리 2018년 9월 ***HAPYGATE*** 로 예명 변경을 하였다. ***HAPYGATE*** 의 어원은 [해피투게더 (텔레비전 프로그램)](../Page/해피투게더_\(텔레비전_프로그램\).md "wikilink") \[1\] [MBC](../Page/문화방송.md "wikilink") 예능프로그램 해피투게더에 Happy 와 Together, 이 두 개의 단어가 파생되어 만들어졌다고 한다.
+최근까지 ***ILBE*** 라는 예명을 사용하였다. 예명 ***ILBE*** 를 계속 사용 할 것이라는 예상과는 달리 2018년 9월 ***HAPYGATE*** 로 예명 변경을 하였다. ***HAPYGATE*** 의 어원은 [해피투게더 (텔레비전 프로그램)](../Page/해피투게더_\(텔레비전_프로그램\).md "wikilink")\[1\] [MBC](../Page/문화방송.md "wikilink") 예능프로그램 해피투게더에 Happy 와 Together, 이 두 개의 단어가 파생되어 만들어졌다고 한다.
 
 2014년에는 잠시 [DJ로](../Page/김대중.md "wikilink") 활동하며 곡 작업과 [DJ를](../Page/김대중.md "wikilink") 같이 활동했으나 곡에만 집중하고자 [DJ는](../Page/김대중.md "wikilink") 그만두고 다시 곡 작업을 시작했다.
 
@@ -59,11 +59,11 @@
 
 ### 2017\~
 
-그룹이 해체가 되고 흉흉한 세상을 이겨내기 위해 그룹에 속해있던 사람들은 각자 다른 이름과 스타일로 리뉴얼되어 활동하기 시작했다. 처음부터 'HAPYGATE' 라는 예명으로 시작한건 아니었고 그 중간에 본명을 쓰면서 새로운 활동을 하기시작했는데, 이 시기부터 공식적인 [마스터 이](http://lol.inven.co.kr/dataninfo/champion/detail.php?code=39)로 활동하기 시작한다. 해체가 되고나서 Flamingo Recordings와 계약을 하여 마스터링을 시작했고, 얼마 지나지 않아 Fonk Recordings와도 계약을 맺었다. 'HAPYGATE'라는 예명으로 오기까지 'ILIBEAU' 였을때가 가장 직업의 전문성에 익숙해져있을 때 였다면, 가장 중요한 순간은 2017년 12월 25일 이다. 이날 세계적인 EDM 레이블인 '스피닝레코즈'([Spinnin' Records](https://ko.wikipedia.org/wiki/:en:Spinnin'_Records "wikilink"))와 계약을 하였고(대한민국 K-POP시장으로 따지면 JYP, SM, YG에 입사한거랑 같은거라고 보면된다) 그에 따라 다른 서브레이블도 동시에 계약이 체결되었다. 첫 공개 프로젝트는 스피닝레코즈가 'HAPYGATE'를 'ETOP'이라 불리는 팀에 소속시켜 1년간 지켜보는 점이었는데 1년이 채 되지않아 9개월만에 성공적으로 끝나 'ETOP' 그룹에서 나와 이때부터 'HAPYGATE' 라는 예명으로 변경하여 2018년부터 [스피닝 레코즈뿐만아니라](https://ko.wikipedia.org/wiki/:en:Spinnin'_Records "wikilink") 다른 레이블에서도 작업을 시작하게되었다.
+그룹이 해체가 되고 흉흉한 세상을 이겨내기 위해 그룹에 속해있던 사람들은 각자 다른 이름과 스타일로 리뉴얼되어 활동하기 시작했다. 처음부터 'HAPYGATE' 라는 예명으로 시작한건 아니었고 그 중간에 본명을 쓰면서 새로운 활동을 하기시작했는데, 이 시기부터 공식적인 [마스터 이](http://lol.inven.co.kr/dataninfo/champion/detail.php?code=39)로 활동하기 시작한다. 해체가 되고나서 Flamingo Recordings와 계약을 하여 마스터링을 시작했고, 얼마 지나지 않아 Fonk Recordings와도 계약을 맺었다. 'HAPYGATE'라는 예명으로 오기까지 'ILIBEAU' 였을때가 가장 직업의 전문성에 익숙해져있을 때 였다면, 가장 중요한 순간은 2017년 12월 25일이다. 이날 세계적인 EDM 레이블인 '스피닝레코즈'([Spinnin' Records](https://ko.wikipedia.org/wiki/:en:Spinnin'_Records "wikilink"))와 계약을 하였고(대한민국 K-POP시장으로 따지면 JYP, SM, YG에 입사한거랑 같은거라고 보면된다) 그에 따라 다른 서브레이블도 동시에 계약이 체결되었다. 첫 공개 프로젝트는 스피닝레코즈가 'HAPYGATE'를 'ETOP'이라 불리는 팀에 소속시켜 1년간 지켜보는 점이었는데 1년이 채 되지않아 9개월만에 성공적으로 끝나 'ETOP' 그룹에서 나와 이때부터 'HAPYGATE' 라는 예명으로 변경하여 2018년부터 [스피닝 레코즈뿐만아니라](https://ko.wikipedia.org/wiki/:en:Spinnin'_Records "wikilink") 다른 레이블에서도 작업을 시작하게되었다.
 
 ### Now & Future & Etc.
 
-  - 인터뷰에 따르면 'HAPYGATE'는 계속 마스터링을 하다가 2019년 초 DJ로도 활동할 계획이라고한다. DJ예명은 따로 지을 것 이며 본인이 마스터링을 완료하고 발매까지 완료된 곡들로 퍼포먼스를 할 것 이라고 한다 (아직 어디서 활동할건지는 미정이라고한다).
+  - 인터뷰에 따르면 'HAPYGATE'는 계속 마스터링을 하다가 2019년 초 DJ로도 활동할 계획이라고한다. DJ예명은 따로 지을 것이며 본인이 마스터링을 완료하고 발매까지 완료된 곡들로 퍼포먼스를 할 것 이라고 한다 (아직 어디서 활동할건지는 미정이라고한다).
   - [Ultra Music Festival(UMF)](https://ultramusicfestival.com/)\[2\], [Ultra Music Festival(UMF) Korea](https://ultrakorea.com/)\[3\], [World Club Dome](https://www.worldclubdome.com/)\[4\], [World Club Dome Korea](https://web.archive.org/web/20181104173037/https://worldclubdomekorea.com/)\[5\], [World DJ Festival](http://www.wdjfest.com/)\[6\] 등 EDM 페스티벌도 기술적인 참석을 한다고 하지만 자신이 좋아해서 가는부분도 있다고한다.
 
 <!-- end list -->

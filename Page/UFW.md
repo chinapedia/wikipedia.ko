@@ -13,7 +13,7 @@
     작동 sudo ufw enable
     80번 서버포트열기 sudo ufw allow 80
 
-## 함께보기
+## 같이 보기
 
   - [ip](https://ko.wikipedia.org/wiki/ip_\(명령어\) "wikilink")
   - [아파치 웹 서버](https://ko.wikipedia.org/wiki/아파치_웹_서버 "wikilink")

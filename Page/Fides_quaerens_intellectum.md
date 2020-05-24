@@ -5,7 +5,7 @@
 
 ## 각주
 
-## 함께보기
+## 같이 보기
 
   - [이해를 추구하는 신앙](https://ko.wikipedia.org/wiki/이해를_추구하는_신앙 "wikilink")
 

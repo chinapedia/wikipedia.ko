@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ VS ](https://ko.wikipedia.org/wiki/_VS_).
+> This article is converted from Wikipedia: [프로스트 VS 닉슨](https://ko.wikipedia.org/wiki/프로스트_VS_닉슨).
 
 
 《**프로스트 VS 닉슨**》(Frost/Nixon)은 미국에서 제작된 [론 하워드](../Page/론_하워드.md "wikilink") 감독의 2008년 드라마 영화이다. [피터 모건의](../Page/피터_모건.md "wikilink") 동명의 2006년 연극에 기반을 두고 있다. [프랭크 란젤라](https://ko.wikipedia.org/wiki/프랭크_란젤라 "wikilink") 등이 주연으로 출연하였고 [론 하워드](../Page/론_하워드.md "wikilink") 등이 제작에 참여하였다.

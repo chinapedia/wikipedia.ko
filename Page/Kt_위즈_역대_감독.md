@@ -66,7 +66,7 @@
 </tbody>
 </table>
 
-## 함께 보기
+## 같이 보기
 
   - [Kt 위즈 연도별 선수 명단](https://ko.wikipedia.org/wiki/Kt_위즈_연도별_선수_명단 "wikilink")
 

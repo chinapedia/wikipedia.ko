@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TBN ](https://ko.wikipedia.org/wiki/TBN_).
+> This article is converted from Wikipedia: [TBN 대구매거진](https://ko.wikipedia.org/wiki/TBN_대구매거진).
 
 
 **TBN 대구매거진**은 [TBN 대구교통방송](../Page/대구교통방송.md "wikilink")(대구,경주,구미 FM 103.9㎒, 김천 FM 95.9㎒)에서 평일 오후 4시 5분부터 6시까지 방송되는 대구·경북지역의 라디오 프로그램이다.

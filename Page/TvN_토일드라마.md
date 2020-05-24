@@ -43,10 +43,8 @@
 #### [2020년](../Page/2020년.md "wikilink")
 
   - 《[하이바이, 마마\!](https://ko.wikipedia.org/wiki/하이바이,_마마! "wikilink")》 : [2020년](../Page/2020년.md "wikilink") [2월 22일](../Page/2월_22일.md "wikilink") \~ [2020년](../Page/2020년.md "wikilink") [4월 19일](../Page/4월_19일.md "wikilink")
-  - 《[화양연화 - 삶이 꽃이 되는 순간](https://ko.wikipedia.org/wiki/화양연화_\(드라마\) "wikilink")》 : [2020년](../Page/2020년.md "wikilink") [4월 25일](../Page/4월_25일.md "wikilink") \~
-  - [사이코지만 괜찮아](https://ko.wikipedia.org/wiki/사이코지만_괜찮아 "wikilink")
-  - 《[비밀의 숲 2](https://ko.wikipedia.org/wiki/비밀의_숲_2 "wikilink")》:
-  - 《[스타트업](https://ko.wikipedia.org/wiki/스타트업_\(드라마\) "wikilink")》
+  - 《[화양연화 - 삶이 꽃이 되는 순간](https://ko.wikipedia.org/wiki/화양연화_\(드라마\) "wikilink")》 : [2020년](../Page/2020년.md "wikilink") [4월 25일](../Page/4월_25일.md "wikilink") \~ **현재**
+  - 《[사이코지만 괜찮아](https://ko.wikipedia.org/wiki/사이코지만_괜찮아 "wikilink")》 : [2020년](../Page/2020년.md "wikilink") [6월 20일](../Page/6월_20일.md "wikilink") \~
 
 ## 같이 보기
 

@@ -1,11 +1,11 @@
-> This article is converted from Wikipedia: [ME](https://ko.wikipedia.org/wiki/ME).
+> This article is converted from Wikipedia: [≠ME](https://ko.wikipedia.org/wiki/≠ME).
 
 
 **≠ME**(노트이콜미)는 [사시하라 리노의](../Page/사시하라_리노.md "wikilink") 완전 프로듀스에 의해 [2019년](../Page/2019년.md "wikilink")에 탄생한 [일본](../Page/일본.md "wikilink")의 [여성](../Page/여성.md "wikilink") [아이돌 그룹이다](https://ko.wikipedia.org/wiki/아이돌_그룹 "wikilink")([성우 유닛](../Page/일본의_성우_그룹.md "wikilink")).
 
 ## 개요
 
-성우 유닛인 [=LOVE](../Page/=LOVE.md "wikilink")(이콜러브)의 자매 그룹이다. 그룹명은 「지금까지와는 다른 자신을 경험해 달라」는 뜻이 담겨 있다.
+성우 유닛인 [=LOVE](../Page/=LOVE.md "wikilink")(이콜러브)의 자매 그룹이다. 그룹명은 「지금까지와는 다른 자신을 경험해 달라」는 뜻이 담겨 있다. [AKB48](../Page/AKB48.md "wikilink")겸[HKT48](../Page/HKT48.md "wikilink")졸업멤버인[사시하라 리노가프로듀서를하고있는그룹](../Page/사시하라_리노.md "wikilink")2번재이다.
 
 ## 멤버
 
@@ -42,7 +42,7 @@
 <td><p><strong>蟹沢萌子</strong></p></td>
 <td><p><strong>かにさわ もえこ</strong></p></td>
 <td><p><strong></strong></p></td>
-<td><p><strong><a href="../Page/가나가와현.md" title="wikilink">가나가와현</a></strong></p></td>
+<td><p><a href="../Page/가나가와현.md" title="wikilink">가나가와현</a></p></td>
 <td><p>서브리더</p></td>
 </tr>
 <tr class="even">
@@ -90,7 +90,7 @@
 <td><p><strong>谷崎早耶</strong></p></td>
 <td><p><strong>たにざき さや</strong></p></td>
 <td><p><strong></strong></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/쿠마모토현" title="wikilink">쿠마모토현</a></p></td>
+<td><p><a href="../Page/구마모토현.md" title="wikilink">구마모토현</a></p></td>
 <td><p>최연장자, 리더</p></td>
 </tr>
 <tr class="even">
@@ -175,6 +175,13 @@
 <td><p>=LOVE 6th 싱글 〈<a href="https://ko.wikipedia.org/wiki/ズルいよ_ズルいね" title="wikilink">ズルいよ ズルいね</a>〉 수록</p></td>
 </tr>
 <tr class="even">
+<td><p>2</p></td>
+<td><p>2020년 4월 29일</p></td>
+<td><p>君と僕の歌<br />
+<small>너와 나의 노래</small></p></td>
+<td><p>=LOVE 7th 싱글 〈<a href="https://ko.wikipedia.org/wiki/CAMEO" title="wikilink">CAMEO</a>〉 수록</p></td>
+</tr>
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -194,6 +201,6 @@
 
   -
 
-  - [≠ME × SHOWROOM 멤버 개인 전달](https://www.showroom-live.com/campaign/Notequal_ME) - SHOWROOM
+  - [≠ME × SHOWROOM 멤버 개인 전달](https://web.archive.org/web/20190225103421/https://www.showroom-live.com/campaign/Notequal_ME) - SHOWROOM
 
-[분류:일본의 성우 그룹](https://ko.wikipedia.org/wiki/분류:일본의_성우_그룹 "wikilink") [분류:일본의 걸 그룹](https://ko.wikipedia.org/wiki/분류:일본의_걸_그룹 "wikilink") [분류:2019년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2019년_결성된_음악_그룹 "wikilink") [분류:10인조 이상 음악 그룹](https://ko.wikipedia.org/wiki/분류:10인조_이상_음악_그룹 "wikilink") [분류:2010년대 음악 그룹](https://ko.wikipedia.org/wiki/분류:2010년대_음악_그룹 "wikilink")
+[분류:일본의 성우 그룹](https://ko.wikipedia.org/wiki/분류:일본의_성우_그룹 "wikilink") [분류:일본의 걸 그룹](https://ko.wikipedia.org/wiki/분류:일본의_걸_그룹 "wikilink") [분류:2019년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2019년_결성된_음악_그룹 "wikilink") [분류:10인조 이상 음악 그룹](https://ko.wikipedia.org/wiki/분류:10인조_이상_음악_그룹 "wikilink") [분류:2010년대 음악 그룹](https://ko.wikipedia.org/wiki/분류:2010년대_음악_그룹 "wikilink") [분류:2020년대 음악 그룹](https://ko.wikipedia.org/wiki/분류:2020년대_음악_그룹 "wikilink")

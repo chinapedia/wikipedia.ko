@@ -5,7 +5,7 @@
 
 ## 배경
 
-노엘은 《[Chasing Yesterday](https://ko.wikipedia.org/wiki/Chasing_Yesterday "wikilink")》이 녹음된 이후 진행 중인 작품인 《Who Built the Moon?》을 통해 이번 음반이 이 세션뿐만 아니라 《Chasing Yesterday》 월드 투어에서도 녹음되고 있다고 밝혔다. 이 음반은 갤러거의 소셜 미디어 계정을 통해 내년 9월 25일 발표되었으며, 오는 2018년 영국과 아일랜드 투어가 예정되어 있다. 갤러거는 [콜롬비아](../Page/콜롬비아.md "wikilink") DJ 알레한드로 마린과의 인터뷰에서 음반 커버에 실린 여자가 아내 사라 맥도날드라고 밝혔다.\[3\]
+노엘은 《[Chasing Yesterday](../Page/Chasing_Yesterday.md "wikilink")》이 녹음된 이후 진행 중인 작품인 《Who Built the Moon?》을 통해 이번 음반이 이 세션뿐만 아니라 《Chasing Yesterday》 월드 투어에서도 녹음되고 있다고 밝혔다. 이 음반은 갤러거의 소셜 미디어 계정을 통해 내년 9월 25일 발표되었으며, 오는 2018년 영국과 아일랜드 투어가 예정되어 있다. 갤러거는 [콜롬비아](../Page/콜롬비아.md "wikilink") DJ 알레한드로 마린과의 인터뷰에서 음반 커버에 실린 여자가 아내 사라 맥도날드라고 밝혔다.\[3\]
 
 ## 상업적 성과
 

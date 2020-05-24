@@ -25,7 +25,7 @@
 | 2018년 10월 17일 | [큐슈](https://ko.wikipedia.org/wiki/큐슈 "wikilink")       | 이치고 그랜시어터                                                                  | 2,900명     |
 | 2018년 10월 18일 | [후쿠오카](https://ko.wikipedia.org/wiki/후쿠오카 "wikilink")   | 후쿠오카 선 팔레스                                                                 | 통산 4,600명  |
 | 2018년 10월 19일 |                                                         |                                                                            |            |
-| 2018년 10월 22일 | [오사카](https://ko.wikipedia.org/wiki/오사카_시 "wikilink")   | 오릭스 극장                                                                     | 통산 7,200명  |
+| 2018년 10월 22일 | [오사카](../Page/오사카시.md "wikilink")                       | 오릭스 극장                                                                     | 통산 7,200명  |
 | 2018년 10월 23일 |                                                         |                                                                            |            |
 | 2018년 10월 24일 |                                                         |                                                                            |            |
 | 2018년 10월 26일 | [기옥](https://ko.wikipedia.org/wiki/사이타마현 "wikilink")    | 오카야마 시민회관                                                                  | 2,700명     |

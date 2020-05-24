@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TBN  \(\)](https://ko.wikipedia.org/wiki/TBN__\(\)).
+> This article is converted from Wikipedia: [TBN 차차차 \(부산\)](https://ko.wikipedia.org/wiki/TBN_차차차_\(부산\)).
 
 
 **TBN 차차차**는 [TBN 부산교통방송](../Page/부산교통방송.md "wikilink")(FM 94.9㎒)에서 매일 낮 12시 5분부터 2시까지 방송되는 부산권 지역의 라디오 음악 프로그램이다.

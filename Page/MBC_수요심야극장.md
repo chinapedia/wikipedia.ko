@@ -9,7 +9,7 @@
   - [1998년](../Page/1998년.md "wikilink") [8월 12일](../Page/8월_12일.md "wikilink") \~ [1998년](../Page/1998년.md "wikilink") [9월 9일](../Page/9월_9일.md "wikilink") : 매주 [수요일](../Page/수요일.md "wikilink") 밤 11시
   - [1998년](../Page/1998년.md "wikilink") [9월 16일](../Page/9월_16일.md "wikilink") \~ [1998년](../Page/1998년.md "wikilink") [10월 21일](../Page/10월_21일.md "wikilink") : 매주 [수요일](../Page/수요일.md "wikilink") 밤 12시 30분
 
-## 함께 보기
+## 같이 보기
 
   - 현재
 

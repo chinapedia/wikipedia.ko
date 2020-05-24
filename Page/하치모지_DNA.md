@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ DNA](https://ko.wikipedia.org/wiki/_DNA).
+> This article is converted from Wikipedia: [하치모지 DNA](https://ko.wikipedia.org/wiki/하치모지_DNA).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:DNA_animation.gif "wikilink") **하치모지 DNA**()는 미국의 [스티븐 배너](https://ko.wikipedia.org/wiki/스티븐_배너 "wikilink") 연구팀이 발견한 자연적 핵염기 4가지, 인공 합성한 핵염기 4가지 이렇게 총 [핵염기](../Page/핵염기.md "wikilink") 여덟가지를 쓰는 [DNA](../Page/DNA.md "wikilink")이다.\[1\]\[2\] 하치모지 DNA 구조는 2019년 2월 기존의 자연적인 DNA 구조를 기반으로 최초로 인공적인 합성에 성공했으며, 이 새로운 DNA 구조의 발견으로 탐사 가능한 [외계 생명체의](../Page/외계생명.md "wikilink") 범주가 더욱 확대되었다.\[3\]

@@ -31,7 +31,7 @@
 
 1975년 우치다(Uchida)와 반데르 발(van der Waal)에 의해 G 가 [가해군](../Page/가해군.md "wikilink") 일 때 그 추측이 입증되었다.
 
-## 함께보기
+## 같이 보기
 
   - [L-함수](../Page/L-함수.md "wikilink")
 

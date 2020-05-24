@@ -1,7 +1,7 @@
-> This article is converted from Wikipedia: [ \(KBS \)](https://ko.wikipedia.org/wiki/_\(KBS_\)).
+> This article is converted from Wikipedia: [입맞춤 \(KBS 예능\)](https://ko.wikipedia.org/wiki/입맞춤_\(KBS_예능\)).
 
 
-《**입맞춤**》은 2019년 3월 5일부터 2019년 3월 26일까지 방영되는 [KBS 2TV에서](../Page/KBS_2TV.md "wikilink") [텔레비전 프로그램이다](../Page/텔레비전_프로그램.md "wikilink").
+《**입맞춤**》은 2019년 3월 5일부터 2019년 3월 26일까지 방영되는 [KBS 2TV에서](../Page/KBS_2TV.md "wikilink") [텔레비전 프로그램이다](../Page/텔레비전_프로그램.md "wikilink"). 원래는 파일럿을 편성했으나, 정규 편성은 무산되었다.
 
 ## 방송 시간
 

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Infobox subdivision type](https://ko.wikipedia.org/wiki/:Infobox_subdivision_type).
+> This article is converted from Wikipedia: [틀:Infobox subdivision type](https://ko.wikipedia.org/wiki/틀:Infobox_subdivision_type).
 
 
 |subheader = |||||

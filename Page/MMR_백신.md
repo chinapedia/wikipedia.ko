@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [MMR ](https://ko.wikipedia.org/wiki/MMR_).
+> This article is converted from Wikipedia: [MMR 백신](https://ko.wikipedia.org/wiki/MMR_백신).
 
 
 **MMR 백신**()은 [홍역](../Page/홍역.md "wikilink"), [볼거리](../Page/볼거리.md "wikilink"), [풍진](../Page/풍진.md "wikilink")에 대항하는 [백신](../Page/백신.md "wikilink")이다.\[1\] 최초 도스(dose)는 일반적으로 약 9\~15개월 나이의 어린이에게 투여되며, 2번째 도스는 15개월\~6세에 투여되며, 최소 4주에는 이 두 도스 사이에서 투여된다.\[2\]\[3\] 2 도스 이후 97%의 사람이 풍진으로부터 보호를 받고 있으며 88%는 볼거리, 그리고 최소 97%는 풍진으로부터 보호를 받는다.\[4\] 이 백신은 [면역](../Page/면역.md "wikilink")의 증거를 보이지 않는 사람에게도 투여가 권고되며,\[5\] 여기에는 [HIV/AIDS를](../Page/후천면역결핍증후군.md "wikilink") 잘 통제하고 있는 사람과\[6\]\[7\] 불완전하게 면역된, 풍진에 72시간 내에 노출된 사람들이 포함된다.\[8\] 주사를 통해 투여된다.\[9\]

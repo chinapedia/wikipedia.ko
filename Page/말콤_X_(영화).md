@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ X \(\)](https://ko.wikipedia.org/wiki/_X_\(\)).
+> This article is converted from Wikipedia: [말콤 X \(영화\)](https://ko.wikipedia.org/wiki/말콤_X_\(영화\)).
 
 
 《**말콤 X**》()는 1992년 개봉한 [미국](../Page/미국.md "wikilink")의 서사, 전기, 드라마 영화이다. [스파이크 리가](../Page/스파이크_리.md "wikilink") 감독과 공동각본을 맡았다. [알렉스 헤일리의](../Page/알렉스_헤일리.md "wikilink") 자서전 *The Autobiography of Malcolm X* 가 영화의 원작이며, 운동가 [맬컴 엑스의](../Page/맬컴_엑스.md "wikilink") 삶을 다룬 작품이다. 2010년 [미국 국립영화등기부에](https://ko.wikipedia.org/wiki/미국_국립영화등기부 "wikilink") 등재되었다.

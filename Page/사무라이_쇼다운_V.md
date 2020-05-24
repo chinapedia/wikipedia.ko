@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  V](https://ko.wikipedia.org/wiki/__V).
+> This article is converted from Wikipedia: [사무라이 쇼다운 V](https://ko.wikipedia.org/wiki/사무라이_쇼다운_V).
 
 
 《**사무라이 쇼다운 V**》()은 [SNK](../Page/SNK.md "wikilink")의 [아케이드용](../Page/아케이드_게임.md "wikilink") [대전 격투 게임이다](https://ko.wikipedia.org/wiki/대전_격투_게임 "wikilink"). 구 SNK의 파산 후 재설립된 회사 SNK 플레이모어가 출범하고 제작된 첫 《[사무라이 쇼다운](../Page/사무라이_쇼다운.md "wikilink")》 게임으로, 실제작은 [유키 엔터프라이즈가](https://ko.wikipedia.org/wiki/유키_엔터프라이즈 "wikilink") 맡았다. 일본판은 첫째 《[사무라이 쇼다운](https://ko.wikipedia.org/wiki/사무라이_쇼다운_\(비디오_게임\) "wikilink")》 게임의 [프리퀄](https://ko.wikipedia.org/wiki/프리퀄 "wikilink")이라는 의미에서 령(零)을 붙인 《**사무라이 스피리츠 제로**》()라는 제목으로 출시됐다.

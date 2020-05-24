@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  IV](https://ko.wikipedia.org/wiki/__IV).
+> This article is converted from Wikipedia: [사무라이 쇼다운 IV](https://ko.wikipedia.org/wiki/사무라이_쇼다운_IV).
 
 
 《**사무라이 쇼다운 IV: 아마쿠사의 복수**》()는 [SNK](../Page/SNK.md "wikilink")가 제작한 [아케이드용](../Page/아케이드_게임.md "wikilink") [대전 격투 게임이다](https://ko.wikipedia.org/wiki/대전_격투_게임 "wikilink"). 《[사무라이 쇼다운](../Page/사무라이_쇼다운.md "wikilink")》 시리즈 네번째 작품으로, 전작에서 소개됐던 게임플레이 시스템을 가다듬고 공격적인 플레이를 가능케하는 뒤로 돌기와 연속 베기를 추가했다. 일본서 《**사무라이 스피리츠: 아마쿠사 강림**》()라는 제목으로 1996년 10월 25일 처음 출시됐다.\[1\]

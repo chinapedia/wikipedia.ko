@@ -11,11 +11,17 @@
 
 ## 공식 멤버
 
-Instituto de Pesquisas Eldorado
+[AACTechnologies](https://en.wikipedia.org/wiki/AAC_Technologies)
+
+[Arima communications corp](http://www.arimacomm.com.tw/en/)
+
+[FairPhone](https://en.wikipedia.org/wiki/Fairphone)
+
+[Instituto de Pesquisas Eldorado](https://en.wikipedia.org/wiki/Eldorado_Institute)
 
 [Huawei Technologies Co., Ltd](../Page/화웨이.md "wikilink").
 
-Image Engineering GmbH @ Co KG
+[Image Engineering GmbH & Co KG](https://www.image-engineering.de/)
 
 [LG Electronics Inc.](../Page/LG전자.md "wikilink")
 
@@ -23,7 +29,7 @@ Image Engineering GmbH @ Co KG
 
 [Motorola / Lenovo](../Page/모토로라.md "wikilink")
 
-Nomicam Ltd.
+[Nomicam Ltd.](https://www.nomicam.com/)
 
 [Guangdon OPPO Mobile Telecommunications Corp., Ltd.](../Page/오포_일렉트로닉스.md "wikilink")
 

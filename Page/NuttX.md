@@ -34,7 +34,7 @@ NuttX는 오픈소프트웨어 및 오픈하드웨어로 유명한 드론 업체
 
 이처럼 NuttX는 리소스를 최소한으로 구성하여 최적의 성능을 얻기위한 저수준에서 매우 효율적이며 또한 [MP3](https://ko.wikipedia.org/wiki/MP3 "wikilink") 플레이어등 여러 소형 장치의 운영체제로 사용되고 있다.\[4\]
 
-## 함께보기
+## 같이 보기
 
   - [VxWorks](../Page/VxWorks.md "wikilink")
   - [아두파일럿](../Page/아두파일럿.md "wikilink")

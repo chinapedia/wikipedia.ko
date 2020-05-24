@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ T-](https://ko.wikipedia.org/wiki/_T-).
+> This article is converted from Wikipedia: [위상 T-이중성](https://ko.wikipedia.org/wiki/위상_T-이중성).
 
 
 [대수적 위상수학과](../Page/대수적_위상수학.md "wikilink") [끈 이론에서](../Page/끈_이론.md "wikilink"), **위상 T-이중성**()은 [끈 이론의](../Page/끈_이론.md "wikilink") [T-이중성](../Page/T-이중성.md "wikilink")의 일부를 포함하는 수학적 공식화이다.\[1\] 이는 일반화 기하학과 뒤틀린 드람 코호몰로지와 뒤틀린 K이론의 동형을 정의하며, 이는 각각 NS-NS 배경장 · [라몽-라몽 장](../Page/라몽-라몽_장.md "wikilink") · [D-막](../Page/D-막.md "wikilink")의 대응 관계를 나타낸다.
@@ -29,13 +29,13 @@
 
 ### 뒤틀린 드람 코호몰로지
 
-T-이중 공간 \((E,H,E^\vee,H^\vee,M)\)이 주어졌다고 하자. 그렇다면, 양쪽에 [뒤틀린 드람 코호몰로지롤](https://ko.wikipedia.org/wiki/뒤틀린_드람_코호몰로지 "wikilink") 정의할 수 있으며, 양쪽의 뒤틀린 드람 코호몰로지는 다음과 같이 서로 표준적으로 동형이다.\[3\]
+T-이중 공간 \((E,H,E^\vee,H^\vee,M)\)이 주어졌다고 하자. 그렇다면, 양쪽에 [뒤틀린 드람 코호몰로지롤](../Page/뒤틀린_드람_코호몰로지.md "wikilink") 정의할 수 있으며, 양쪽의 뒤틀린 드람 코호몰로지는 다음과 같이 서로 표준적으로 동형이다.\[3\]
 
 \[\operatorname H^i_H(E) \cong \operatorname H^{i+1}_{H^\vee}(E^\vee)\qquad(i\in\{2\mathbb Z,1+2\mathbb Z\})\] 이는 ⅡA [초끈 이론과](../Page/초끈_이론.md "wikilink") ⅡB [초끈 이론의](../Page/초끈_이론.md "wikilink") [라몽-라몽 장](../Page/라몽-라몽_장.md "wikilink") 사이의 관계를 나타낸다.
 
 ### 뒤틀린 K이론
 
-T-이중 공간 \((E,H,E^\vee,H^\vee,M)\)이 주어졌다고 하자. 그렇다면, 양쪽에 [뒤틀린 K이론](https://ko.wikipedia.org/wiki/뒤틀린_K이론 "wikilink")
+T-이중 공간 \((E,H,E^\vee,H^\vee,M)\)이 주어졌다고 하자. 그렇다면, 양쪽에 [뒤틀린 K이론](../Page/뒤틀린_K이론.md "wikilink")
 
 \[\operatorname K^i_H(E)\qquad(i\in \{2\mathbb Z,1+2\mathbb Z\})\]
 

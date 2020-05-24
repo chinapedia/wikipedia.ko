@@ -17,13 +17,13 @@
   - 롤큐
   - 이설TV
   - 유소나
-  - 푸린 TV
+  - 푸린TV
   - 따효니
   - 햇살살
   - [잠뜰](https://ko.wikipedia.org/wiki/잠뜰 "wikilink")
   - 수현
-  - [라더](https://ko.wikipedia.org/wiki/라더 "wikilink")
-  - [각별](https://ko.wikipedia.org/wiki/각별 "wikilink")
+  - 라더
+  - 각별
 
 ### 스타일
 
@@ -53,19 +53,21 @@
 
   - [어썸하은](https://ko.wikipedia.org/wiki/나하은 "wikilink")
   - VIVA DANCE STUDIO
-  - [대도서관](https://ko.wikipedia.org/wiki/대도서관 "wikilink")TV
+  - [대도서관](https://ko.wikipedia.org/wiki/대도서관 "wikilink")
+  - [윰댕](../Page/윰댕.md "wikilink")
   - 띠미
   - ARTBEAT
   - [임영웅](https://ko.wikipedia.org/wiki/임영웅_\(가수\) "wikilink")
+  - [양준일](../Page/양준일.md "wikilink")
+  - [성훈](https://ko.wikipedia.org/wiki/성훈_\(1983년\) "wikilink")
   - DPOP Studio
   - 소근커플
   - 수상한 녀석들
-  - [박막례](https://ko.wikipedia.org/wiki/박막례 "wikilink") 할머니
+  - [박막례](https://ko.wikipedia.org/wiki/박막례 "wikilink")할머니
   - [박미선](../Page/박미선.md "wikilink")
   - [박구윤](../Page/박구윤.md "wikilink")
-  - [윰댕](../Page/윰댕.md "wikilink")
   - 제니윤
-  - [꽈뚜룹](https://ko.wikipedia.org/wiki/꽈뚜룹 "wikilink")
+  - 꽈뚜룹
   - 제이제이
   - 혜서니
   - 쏘야쭝아
@@ -75,6 +77,7 @@
   - 예씨
   - 피아노 치는 이정환
   - 권민제
+  - [경리](../Page/경리_\(가수\).md "wikilink")
   - 김하나&변승주
   - [펑티모](../Page/펑티모.md "wikilink")
   - 퇴경아 약먹자
@@ -101,7 +104,7 @@
 ### 키즈/패밀리
 
   - [라임튜브](https://ko.wikipedia.org/wiki/라임튜브 "wikilink")
-  - [마이린 TV](https://ko.wikipedia.org/wiki/마이린_TV "wikilink")
+  - [마이린 TV](../Page/마이린_TV.md "wikilink")
   - 간니닌니다이어리
   - 유라야 놀자
   - 뚜아뚜지TV
@@ -125,11 +128,11 @@
 
 ### it/전자기술
 
-  - itsub(잇섭)
+  - [잇섭](https://ko.wikipedia.org/wiki/잇섭 "wikilink")
 
 ## 방영 프로그램
 
-  - 잠뜰TV
+  - [잠뜰](https://ko.wikipedia.org/wiki/잠뜰 "wikilink")TV
   - 소근커플
   - 달려라치킨 미니어쳐
   - [수리노을](../Page/수리노을.md "wikilink") 탐묘생활
@@ -216,6 +219,7 @@
   - 강형욱의 소소한 Q\&A
   - 미선 임파서블
   - 집사인 게 자랑
+  - 똥차비디오
 
 ## 종영 프로그램
 
@@ -372,7 +376,7 @@
   - [올레 TV](../Page/올레_TV.md "wikilink")(IPTV) 채널 72번
   - U+ TVG(IPTV) 채널 155번
   - 딜라이브(케이블) 채널 80번
-  - 티브로드(케이블) 채널 76번
+  - SK브로드밴드(케이블) 채널 76번
   - HCN(케이블) 채널 118번
   - [LG헬로비전](../Page/LG헬로비전.md "wikilink")(케이블) 채널 58번
 

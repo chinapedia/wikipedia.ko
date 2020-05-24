@@ -15,4 +15,6 @@
 
 ## 외부 링크
 
+  - [Queen official website: Discography: Queen Rocks](http://www.queenonline.com/en/the-band/discography/queen-rocks/)
+
 [분류:1997년 컴필레이션 음반](https://ko.wikipedia.org/wiki/분류:1997년_컴필레이션_음반 "wikilink") [분류:퀸의 음반](https://ko.wikipedia.org/wiki/분류:퀸의_음반 "wikilink") [분류:팔로폰 음반](https://ko.wikipedia.org/wiki/분류:팔로폰_음반 "wikilink") [분류:할리우드 레코드 음반](https://ko.wikipedia.org/wiki/분류:할리우드_레코드_음반 "wikilink")

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [JT 마블러스](https://ko.wikipedia.org/wiki/JT_마블러스).
 
 
-**JT 마블러스**()는 [일본담배산업](../Page/일본담배산업.md "wikilink")의 여자 배구팀이다. 연고지는 [오사카부](../Page/오사카부.md "wikilink") [오사카 시이며](https://ko.wikipedia.org/wiki/오사카_시 "wikilink"), [V.프리미어리그](../Page/V.프리미어리그.md "wikilink")에 속해있다.
+**JT 마블러스**()는 [일본담배산업](../Page/일본담배산업.md "wikilink")의 여자 배구팀이다. 연고지는 [오사카부](../Page/오사카부.md "wikilink") [오사카시](../Page/오사카시.md "wikilink")이며, [V.프리미어리그](../Page/V.프리미어리그.md "wikilink")에 속해있다.
 
 ## 우승 경력
 

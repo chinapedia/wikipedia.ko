@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Polparty](https://ko.wikipedia.org/wiki/:Polparty).
+> This article is converted from Wikipedia: [틀:Polparty](https://ko.wikipedia.org/wiki/틀:Polparty).
 
 
 {{\#switch:

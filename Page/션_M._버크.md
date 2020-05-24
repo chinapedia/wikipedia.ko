@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ M. ](https://ko.wikipedia.org/wiki/_M._).
+> This article is converted from Wikipedia: [션 M. 버크](https://ko.wikipedia.org/wiki/션_M._버크).
 
 
 **션 마이클 버크**(Sean Michael Burke)는 [펄](../Page/펄.md "wikilink") 프로그래머, 저자, 언어학자이다. 1998년부터 더 펄 저널(The Perl Journal)의 칼럼니스트였으며 [CPAN](../Page/CPAN.md "wikilink")에 수십 개의 [펄 모듈을](../Page/펄_모듈.md "wikilink") 작성하고 [오라일리 미디어를](../Page/오라일리_미디어.md "wikilink") 위해 책을 내고 있다.

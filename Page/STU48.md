@@ -5,7 +5,7 @@
 
 ## 개요
 
-  - [도쿄도](../Page/도쿄도.md "wikilink") [치요다 구의](https://ko.wikipedia.org/wiki/치요다_구 "wikilink") 아키하바라를 거점으로 하는 [AKB48](../Page/AKB48.md "wikilink")\[1\], [아이치현](../Page/아이치현.md "wikilink") [나고야 시의](https://ko.wikipedia.org/wiki/나고야_시 "wikilink") 사카에를 거점으로 하는 [SKE48](../Page/SKE48.md "wikilink"), [오사카부](../Page/오사카부.md "wikilink") [오사카 시의](https://ko.wikipedia.org/wiki/오사카_시 "wikilink") 난바를 거점으로 하는 [NMB48](../Page/NMB48.md "wikilink"), [후쿠오카현](../Page/후쿠오카현.md "wikilink") [후쿠오카 시의](https://ko.wikipedia.org/wiki/후쿠오카_시 "wikilink") 하카타에 거점으로 하는 [HKT48](../Page/HKT48.md "wikilink"), [니이가타 현](../Page/니가타현.md "wikilink") [니이가타 시를](https://ko.wikipedia.org/wiki/니가타_시 "wikilink") 검으로 하는 [NGT48](https://ko.wikipedia.org/wiki/NGT48 "wikilink")에 이어 계속되는 전국 전개 제6탄으로서 [세토우치 지방](https://ko.wikipedia.org/wiki/세토우치_지방 "wikilink")([효고현](../Page/효고현.md "wikilink"), [오카야마현](../Page/오카야마현.md "wikilink"), [히로시마현](../Page/히로시마현.md "wikilink"), [야마구치현](../Page/야마구치현.md "wikilink"), [도쿠시마현](../Page/도쿠시마현.md "wikilink"), [가가와현](../Page/가가와현.md "wikilink"), [에히메현](../Page/에히메현.md "wikilink"))이 선택되었다. AKB48 그룹의 활동의 기둥인 극장은 "선상극장"이 된다.
+  - [도쿄도](../Page/도쿄도.md "wikilink") [치요다 구의](https://ko.wikipedia.org/wiki/치요다_구 "wikilink") 아키하바라를 거점으로 하는 [AKB48](../Page/AKB48.md "wikilink")\[1\], [아이치현](../Page/아이치현.md "wikilink") [나고야시](../Page/나고야시.md "wikilink")의 사카에를 거점으로 하는 [SKE48](../Page/SKE48.md "wikilink"), [오사카부](../Page/오사카부.md "wikilink") [오사카시](../Page/오사카시.md "wikilink")의 난바를 거점으로 하는 [NMB48](../Page/NMB48.md "wikilink"), [후쿠오카현](../Page/후쿠오카현.md "wikilink") [후쿠오카시](../Page/후쿠오카시.md "wikilink")의 하카타에 거점으로 하는 [HKT48](../Page/HKT48.md "wikilink"), [니이가타 현](../Page/니가타현.md "wikilink") [니이가타 시를](https://ko.wikipedia.org/wiki/니가타_시 "wikilink") 검으로 하는 [NGT48](https://ko.wikipedia.org/wiki/NGT48 "wikilink")에 이어 계속되는 전국 전개 제6탄으로서 [세토우치 지방](https://ko.wikipedia.org/wiki/세토우치_지방 "wikilink")([효고현](../Page/효고현.md "wikilink"), [오카야마현](../Page/오카야마현.md "wikilink"), [히로시마현](../Page/히로시마현.md "wikilink"), [야마구치현](../Page/야마구치현.md "wikilink"), [도쿠시마현](../Page/도쿠시마현.md "wikilink"), [가가와현](../Page/가가와현.md "wikilink"), [에히메현](../Page/에히메현.md "wikilink"))이 선택되었다. AKB48 그룹의 활동의 기둥인 극장은 "선상극장"이 된다.
   - 「STU」라는 이름은 [세토우치 지방](https://ko.wikipedia.org/wiki/세토우치_지방 "wikilink")(**S**e**T**o**U**chi)에 유래한다.
   - 운영 회사는 많은 AKB48 그룹이 소속 된 주식회사 AKS 대신 일반 사단 법인 ' 세토 우치 관광 추진기구」와 주식회사 「세토 우치 브랜드 코퍼레이션'로 구성된 「세토 우치 DMO "이 출자하는 주식회사 STU 이다
   - [2016년](../Page/2016년.md "wikilink") [10월 10일](../Page/10월_10일.md "wikilink"), 〈AKB48 그룹 유닛 싱글 쟁탈 가위 바위보 대회 in [고베 월드 기념 홀](https://ko.wikipedia.org/wiki/고베_월드_기념_홀 "wikilink")〉에서 그 결성이 발표되었으며, [2017년](../Page/2017년.md "wikilink") [1월](../Page/1월.md "wikilink") 중 오디션 개최 및 동년 [여름](../Page/여름.md "wikilink")에 활동할 예정이다\[2\].
@@ -150,7 +150,7 @@
 <td><p>榊美優</p></td>
 <td><p>さかき みゆ</p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/카가와_현" title="wikilink">카가와 현</a></p></td>
+<td><p><a href="../Page/가가와현.md" title="wikilink">가가와현</a></p></td>
 <td><p>STU</p></td>
 <td><p>-</p></td>
 <td></td>
@@ -194,7 +194,7 @@
 <td><p>谷口茉妃菜</p></td>
 <td><p>たにぐち まひな</p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/토쿠시마_현" title="wikilink">토쿠시마 현</a></p></td>
+<td><p><a href="../Page/도쿠시마현.md" title="wikilink">도쿠시마현</a></p></td>
 <td><p>STU</p></td>
 <td><p>-</p></td>
 <td></td>

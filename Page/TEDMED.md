@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [TEDMED](https://ko.wikipedia.org/wiki/TEDMED).
 
 
-**TEDMED**는 TED (Technology, Entertainment, Design)는 [미국](../Page/미국.md "wikilink")의 비영리 재단에서 운영하는 강연회의 프로그램중에서, 건강 및 의학 관련 연간 회의 이다. WEB 기반 커뮤니티를 통해 건강 및 의학에 초점을 맞춘 연례 컨퍼런스 이며, 비영리 TED 회의의 라이센스하에 운영되는 독립적 인 행사에 속하는 것이다.\[1\]
+**TEDMED**는 TED (Technology, Entertainment, Design)는 [미국](../Page/미국.md "wikilink")의 비영리 재단에서 운영하는 강연회의 프로그램중에서, 건강 및 의학 관련 연간 회의이다. WEB 기반 커뮤니티를 통해 건강 및 의학에 초점을 맞춘 연례 컨퍼런스이며, 비영리 TED 회의의 라이센스하에 운영되는 독립적 인 행사에 속하는 것이다.\[1\]
 
 ## TEDMED 설립 배경
 

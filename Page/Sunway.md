@@ -46,7 +46,7 @@
   - 64-bit RISC 프로세서
   - 칩에 4 개의 CPU 클러스터가 있으며, 각각 64 개의 경량 연산 코어에 클러스터 관리 코어가있는 [Manycore](https://ko.wikipedia.org/wiki/Manycore_processor "wikilink") [아키텍처](https://ko.wikipedia.org/wiki/아키텍처 "wikilink")(architecture)\[9\]
 
-## 함께보기
+## 같이 보기
 
   - [Sunway Taihu Light](https://ko.wikipedia.org/wiki/Sunway_Taihu_Light "wikilink")(썬웨이 타이후 라이트)
 

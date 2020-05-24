@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ATI  ](https://ko.wikipedia.org/wiki/ATI__).
+> This article is converted from Wikipedia: [ATI 원더 시리즈](https://ko.wikipedia.org/wiki/ATI_원더_시리즈).
 
 
 **ATi 원더 시리즈**()는 1980년대 말에 [ATI 테크놀로지스에](../Page/ATI_테크놀로지스.md "wikilink") 의해 도입된, [IBM](../Page/IBM.md "wikilink") [PC](../Page/개인용_컴퓨터.md "wikilink") 호환 컴퓨터를 위한 최초의 [그래픽](https://ko.wikipedia.org/wiki/그래픽 "wikilink") 애드온 제품들 가운데 일부를 말한다. 이 카드들은 당시 멀티 그래픽스 표준(및 모니터)을 하나의 카드에서 지원함으로써 최종 사용자에게 상당한 가치를 제공할 정도로 독특했다. VGA 원더 시리즈는 [버스 마우스 포트를](../Page/버스_마우스.md "wikilink") 추가로 포함하므로 일반적으로 전용 [마이크로소프트 버스 마우스](https://ko.wikipedia.org/wiki/마이크로소프트_버스_마우스 "wikilink") 어댑터의 설치가 필요했다.

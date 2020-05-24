@@ -1,7 +1,13 @@
-> This article is converted from Wikipedia: [Pilgrim \(\)](https://ko.wikipedia.org/wiki/Pilgrim_\(\)).
+> This article is converted from Wikipedia: [Pilgrim \(음반\)](https://ko.wikipedia.org/wiki/Pilgrim_\(음반\)).
 
 
-《**Pilgrim**》은 [영국](../Page/영국.md "wikilink")의 록 음악가 [에릭 클랩튼이](../Page/에릭_클랩튼.md "wikilink") 1998년 3월 10일에 [리프리즈 레코드를](https://ko.wikipedia.org/wiki/리프리즈_레코드 "wikilink") 위해 발매한 열세 번째 솔로 스튜디오 음반이다.\[1\] 이 음반은 클랩튼의 1989년 히트 음반 《[Journeyman](https://ko.wikipedia.org/wiki/Journeyman_\(음반\) "wikilink")》 이후 완전히 새로운 스튜디오 녹음 자료를 수록하고 있으며 여러 개의 음악 상 후보에 올랐다. 비록 대부분의 비평가들이 1998년 스튜디오 활동에 부정적인 반응을 보였지만, 이 음반은 22개국에서 톱 10에 진입하여 전세계적으로 4,500,000장 이상이 팔리면서 클랩튼의 가장 상업적으로 성공한 음반 중 하나이다.
+《**Pilgrim**》은 [영국](../Page/영국.md "wikilink")의 록 음악가 [에릭 클랩튼이](../Page/에릭_클랩튼.md "wikilink") 1998년 3월 10일에 [리프리즈 레코드를](https://ko.wikipedia.org/wiki/리프리즈_레코드 "wikilink") 위해 발매한 열세 번째 솔로 스튜디오 음반이다.\[1\] 이 음반은 클랩튼의 1989년 히트 음반 《[Journeyman](../Page/Journeyman_\(음반\).md "wikilink")》 이후 완전히 새로운 스튜디오 녹음 자료를 수록하고 있으며 여러 개의 음악 상 후보에 올랐다. 비록 대부분의 비평가들이 1998년 스튜디오 활동에 부정적인 반응을 보였지만, 이 음반은 22개국에서 톱 10에 진입하여 전세계적으로 4,500,000장 이상이 팔리면서 클랩튼의 가장 상업적으로 성공한 음반 중 하나이다.
+
+## 배경
+
+이 음반은 오션 웨이와 올림픽 스튜디오에서 1997년에 녹음되었다.\[2\] 《Pilgrim》의 발매는 1989년 《[Journeyman](../Page/Journeyman_\(음반\).md "wikilink")》 음반 이후 클랩튼의 새 오리지널 스튜디오 자료 첫 음반이었다. 1998년 2월 [래리 킹과](../Page/래리_킹.md "wikilink") 인터뷰를 했을 때, 클랩튼은 음반 제목이 어떻게 되었는지 설명했다. "글쎄요, 아무래도 음반에 〈[Pilgrim](https://ko.wikipedia.org/wiki/Pilgrim_\(노래\) "wikilink")〉이라는 곡이 먼저 나온 것 같아요. 제가 음반의 타이틀을 잡게 되었을 때, 저는 그 곡이 《Journeyman》의 실마리를 따라갈 수 있는 좋은 방법이라고 생각했기 때문에 그 곡은 정말 같은 의미였습니다. 음악가로서의 제 인생과 다른 많은 존경들을 보는 것 만으로도요. 그것은 자서전적인 것입니다. 그리고 저는 제 자신이 마치 탐구에 빠진 외로운 사람처럼 보인다고 생각합니다."\[3\] 《Pilgrim》의 음반 커버와 포장은 원래 에릭 클랩튼 자신이 구상한 것이었다. 그러나 《[신세기 에반게리온](../Page/신세기_에반게리온.md "wikilink")》의 캐릭터 디자이너로 가장 잘 알려진 일본 만화와 애니메이션 아티스트 [사다모토 요시유키가](../Page/사다모토_요시유키.md "wikilink") 작품을 보게 되자 클랩튼 아이디어를 실행하고 커버와 포장을 디자인해 클랩튼의 승인을 받아 최종 발매에 활용했다.\[4\]
+
+## 곡 목록
 
 ## 각주
 
@@ -10,3 +16,6 @@
 [분류:1998년 음반](https://ko.wikipedia.org/wiki/분류:1998년_음반 "wikilink") [분류:에릭 클랩튼의 음반](https://ko.wikipedia.org/wiki/분류:에릭_클랩튼의_음반 "wikilink") [분류:리프리즈 레코드 음반](https://ko.wikipedia.org/wiki/분류:리프리즈_레코드_음반 "wikilink")
 
 1.
+2.
+3.
+4.

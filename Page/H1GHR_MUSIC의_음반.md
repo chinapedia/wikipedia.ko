@@ -102,6 +102,7 @@
   - 2020년 1월 18일 Big Naughty - **\[Digital Single\] 투유 프로젝트 - 슈가맨3 Part.6**\[25\]
   - 2020년 2월 14일 차 차 말론 - **\[Digital Single\] All Eyes On You**
   - 2020년 3월 24일 Sik-K - **Officially OG**
+  - 2020년 4월 30일 그루비룸 - **\[Digital Single\] find your light : Palette \#1**
 
 ## 각주
 

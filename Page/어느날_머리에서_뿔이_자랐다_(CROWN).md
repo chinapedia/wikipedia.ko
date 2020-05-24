@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [    \(CROWN\)](https://ko.wikipedia.org/wiki/____\(CROWN\)).
+> This article is converted from Wikipedia: [어느날 머리에서 뿔이 자랐다 \(CROWN\)](https://ko.wikipedia.org/wiki/어느날_머리에서_뿔이_자랐다_\(CROWN\)).
 
 
 《**어느날 머리에서 뿔이 자랐다 (CROWN)**》는 [투모로우바이투게더](../Page/투모로우바이투게더.md "wikilink")의 데뷔 곡이자, 첫 번째 미니 음반의 타이틀 곡이다. 2019년 3월 4일에 발표되었다.

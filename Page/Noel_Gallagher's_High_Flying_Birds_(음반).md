@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Noel Gallagher\'s High Flying Birds \(\)](https://ko.wikipedia.org/wiki/Noel_Gallagher\'s_High_Flying_Birds_\(\)).
+> This article is converted from Wikipedia: [Noel Gallagher\'s High Flying Birds \(음반\)](https://ko.wikipedia.org/wiki/Noel_Gallagher\'s_High_Flying_Birds_\(음반\)).
 
 
 《**Noel Gallagher's High Flying Birds**》는 [영국](../Page/영국.md "wikilink")의 록 밴드 [노엘 갤러거스 하이 플라잉 버즈의](../Page/노엘_갤러거스_하이_플라잉_버즈.md "wikilink") 자칭 데뷔 스튜디오 음반이다. 2011년 10월 17일 발매된 이 음반은 2009년 8월 [오아시스를](../Page/오아시스_\(밴드\).md "wikilink") 떠나 그룹 해체 이후 익명의 프런트 [노엘 갤러거가](../Page/노엘_갤러거.md "wikilink") 발매한 첫 스튜디오 음반이다.

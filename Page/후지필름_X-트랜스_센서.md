@@ -73,7 +73,7 @@
 <td><p>X-Trans IV[9]</p></td>
 <td><p>26.1 MP</p></td>
 <td></td>
-<td><p>23.5 mm x 15.6 mm[10] (APS-C)</p></td>
+<td><p>23.5 mm x 15.6 mm[10] (APS-C)</p></td>
 <td><p>2018년 9월 20일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/:en:Fujifilm_X-T3" title="wikilink">후지필름 X-T3</a><br />
 <a href="https://ko.wikipedia.org/wiki/:en:Fujifilm_X-T30" title="wikilink">후지필름 X-T30</a></p></td>

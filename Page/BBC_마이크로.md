@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [BBC ](https://ko.wikipedia.org/wiki/BBC_).
+> This article is converted from Wikipedia: [BBC 마이크로](https://ko.wikipedia.org/wiki/BBC_마이크로).
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:BBC_Micro_Front_Restored.jpg "wikilink")
@@ -22,7 +22,7 @@
 
   - [Acorn and the BBC Micro: From education to obscurity (archived)](https://web.archive.org/web/20140416090147/http://lowendmac.com/orchard/07/0228.html)
 
-  - [The Acorn BBC Micro @ The Centre for Computing History](http://www.computinghistory.org.uk/det/182/Acorn-BBC-Micro-Model-B/)
+  - [The Acorn BBC Micro @ The Centre for Computing History](https://web.archive.org/web/20190322233256/http://www.computinghistory.org.uk/det/182/Acorn-BBC-Micro-Model-B/)
 
   - [BBC Micro connected to the Internet converting RSS headline feeds from the BBC News site into audio](http://www.bbcmicronews.co.uk/)
 

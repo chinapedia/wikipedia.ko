@@ -9,9 +9,9 @@
 
 2017년 영화 《[더 베니싱 오브 시드니 홀](../Page/더_베니싱_오브_시드니_홀.md "wikilink")》에서 [로건 러맨의](https://ko.wikipedia.org/wiki/로건_러맨 "wikilink") 구음으로 한 번, 또 밥 딜런의 구음으로 한 번 등장한다.\[1\]\[2\]\[3\]
 
-1966년 5월 26일, [엘비스 프레슬리가](../Page/엘비스_프레슬리.md "wikilink") 앨범 《[How Great Thou Art](https://ko.wikipedia.org/wiki/How_Great_Thou_Art_\(엘비스_프레슬리의_음반\) "wikilink")》 취입 중 불렀다. 이것은 사운드트랙 앨범 《[Spinout](https://ko.wikipedia.org/wiki/Spinout "wikilink")》의 보너스 트랙으로 수록되었다. 딜런은 프레슬리의 녹음을 두고 언제인가, "내가 가장 아끼는 유일무이한 녹음(the one recording I treasure the most)"이라고 한 바 있다.\[4\] 또한 자기 노래의 커버 곡 중 가장 사랑하는 커버라고 했다.\[5\]
+1966년 5월 26일, [엘비스 프레슬리가](../Page/엘비스_프레슬리.md "wikilink") 앨범 《[How Great Thou Art](../Page/How_Great_Thou_Art_\(엘비스_프레슬리의_음반\).md "wikilink")》 취입 중 불렀다. 이것은 사운드트랙 앨범 《[Spinout](https://ko.wikipedia.org/wiki/Spinout "wikilink")》의 보너스 트랙으로 수록되었다. 딜런은 프레슬리의 녹음을 두고 언제인가, "내가 가장 아끼는 유일무이한 녹음(the one recording I treasure the most)"이라고 한 바 있다.\[4\] 또한 자기 노래의 커버 곡 중 가장 사랑하는 커버라고 했다.\[5\]
 
-에른스트 조겐슨의 저서 《엘비스 프레슬리의 음악인생 - 레코딩 세션 총망라》(*Elvis Presley: A Life In Music - The Complete Recording Sessions*)를 보면, 엘비스는 [찰리 맥코이를](https://ko.wikipedia.org/wiki/찰리_맥코이 "wikilink") 통해 처음 이 곡을 들었다고 나온다(맥코이는 일찍이 《[Highway 61 Revisited](https://ko.wikipedia.org/wiki/Highway_61_Revisited "wikilink")》, 《[Blonde on Blonde](https://ko.wikipedia.org/wiki/Blonde_on_Blonde "wikilink")》의 녹음에 참사한 경력이 있다. 또 1965년 [오데타](https://ko.wikipedia.org/wiki/오데타 "wikilink")의 앨범 《[Odetta Sings Dylan](https://ko.wikipedia.org/wiki/Odetta_Sings_Dylan "wikilink")》에서도 참사한 바 있다). 그렇게 이 곡을 접하게 된 프레슬리는, "이윽고 'Tomorrow Is A Long Time'에 마음을 빼앗기고 말았다."고 한다.
+에른스트 조겐슨의 저서 《엘비스 프레슬리의 음악인생 - 레코딩 세션 총망라》(*Elvis Presley: A Life In Music - The Complete Recording Sessions*)를 보면, 엘비스는 [찰리 맥코이를](https://ko.wikipedia.org/wiki/찰리_맥코이 "wikilink") 통해 처음 이 곡을 들었다고 나온다(맥코이는 일찍이 《[Highway 61 Revisited](../Page/Highway_61_Revisited.md "wikilink")》, 《[Blonde on Blonde](../Page/Blonde_on_Blonde.md "wikilink")》의 녹음에 참사한 경력이 있다. 또 1965년 [오데타](https://ko.wikipedia.org/wiki/오데타 "wikilink")의 앨범 《[Odetta Sings Dylan](https://ko.wikipedia.org/wiki/Odetta_Sings_Dylan "wikilink")》에서도 참사한 바 있다). 그렇게 이 곡을 접하게 된 프레슬리는, "이윽고 'Tomorrow Is A Long Time'에 마음을 빼앗기고 말았다."고 한다.
 
 ## 각주
 

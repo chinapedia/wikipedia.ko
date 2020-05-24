@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:WKBL ](https://ko.wikipedia.org/wiki/:WKBL_).
+> This article is converted from Wikipedia: [틀:WKBL 시즌](https://ko.wikipedia.org/wiki/틀:WKBL_시즌).
 
 
 <onlyinclude></onlyinclude>

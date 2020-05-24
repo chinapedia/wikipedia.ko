@@ -1,9 +1,11 @@
 > This article is converted from Wikipedia: [D-CRUNCH](https://ko.wikipedia.org/wiki/D-CRUNCH).
 
 
-**디크런치**()는 [대한민국](../Page/대한민국.md "wikilink") 아이그랜드코리아 소속의 9인조 [보이 그룹이다](https://ko.wikipedia.org/wiki/보이_그룹 "wikilink"). 이 그룹은 현욱, 현호, O.V, 현우, 현오, 민, 정승, Dylan으로 구성되어있다. D-CRUNCH 싱글 앨범 《0806》(2018)로 데뷔했다.
+**디크런치**() ()는 [대한민국](../Page/대한민국.md "wikilink") 아이그랜드코리아 소속의 9인조 [보이 그룹이다](https://ko.wikipedia.org/wiki/보이_그룹 "wikilink"). 이 그룹은 현욱, 현호, O.V, 현우, 현오, 민, 정승, Dylan으로 구성되어있다. D-CRUNCH 싱글 앨범 《0806》(2018)로 데뷔했다.
 
 2018년 데뷔 당시에는 올에스컴퍼니 소속이었으나, 2020년 초 전원 올에스와 계약을 해지한 후 아이그랜드코리아로 이적했다.
+
+## 구성원
 
 ## 음반 목록
 
@@ -151,7 +153,7 @@
 
 ## 각주
 
-[분류:2010년대 음악 그룹](https://ko.wikipedia.org/wiki/분류:2010년대_음악_그룹 "wikilink") [분류:2018년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2018년_결성된_음악_그룹 "wikilink") [분류:2018년 데뷔](https://ko.wikipedia.org/wiki/분류:2018년_데뷔 "wikilink") [분류:9인조 음악 그룹](https://ko.wikipedia.org/wiki/분류:9인조_음악_그룹 "wikilink") [분류:한국어 음악 그룹](https://ko.wikipedia.org/wiki/분류:한국어_음악_그룹 "wikilink") [분류:대한민국의 아이돌 그룹](https://ko.wikipedia.org/wiki/분류:대한민국의_아이돌_그룹 "wikilink") [분류:대한민국의 보이 밴드](https://ko.wikipedia.org/wiki/분류:대한민국의_보이_밴드 "wikilink") [분류:대한민국의 힙합 그룹](https://ko.wikipedia.org/wiki/분류:대한민국의_힙합_그룹 "wikilink") [분류:K-pop 음악 그룹](https://ko.wikipedia.org/wiki/분류:K-pop_음악_그룹 "wikilink")
+[분류:2010년대 음악 그룹](https://ko.wikipedia.org/wiki/분류:2010년대_음악_그룹 "wikilink") [분류:2018년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2018년_결성된_음악_그룹 "wikilink") [분류:2018년 데뷔](https://ko.wikipedia.org/wiki/분류:2018년_데뷔 "wikilink") [분류:9인조 음악 그룹](https://ko.wikipedia.org/wiki/분류:9인조_음악_그룹 "wikilink") [분류:한국어 음악 그룹](https://ko.wikipedia.org/wiki/분류:한국어_음악_그룹 "wikilink") [분류:대한민국의 아이돌 그룹](https://ko.wikipedia.org/wiki/분류:대한민국의_아이돌_그룹 "wikilink") [분류:아이돌 그룹](https://ko.wikipedia.org/wiki/분류:아이돌_그룹 "wikilink") [분류:대한민국의 보이 밴드](https://ko.wikipedia.org/wiki/분류:대한민국의_보이_밴드 "wikilink") [분류:대한민국의 힙합 그룹](https://ko.wikipedia.org/wiki/분류:대한민국의_힙합_그룹 "wikilink") [분류:K-pop 음악 그룹](https://ko.wikipedia.org/wiki/분류:K-pop_음악_그룹 "wikilink") [분류:대한민국의 댄스 음악 그룹](https://ko.wikipedia.org/wiki/분류:대한민국의_댄스_음악_그룹 "wikilink") [분류:대한민국의 보이 밴드](https://ko.wikipedia.org/wiki/분류:대한민국의_보이_밴드 "wikilink") [분류:대한민국의 팝 음악 그룹](https://ko.wikipedia.org/wiki/분류:대한민국의_팝_음악_그룹 "wikilink") [분류:대한민국의 음악 그룹](https://ko.wikipedia.org/wiki/분류:대한민국의_음악_그룹 "wikilink")
 
 1.
 2.

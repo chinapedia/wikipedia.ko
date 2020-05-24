@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [DBS](https://ko.wikipedia.org/wiki/DBS).
+> This article is converted from Wikipedia: [DBS크루즈훼리](https://ko.wikipedia.org/wiki/DBS크루즈훼리).
 
 
 [섬네일의](https://ko.wikipedia.org/wiki/파일:DBSクルーズフェリー.jpg "wikilink") 국적이다.\]\]

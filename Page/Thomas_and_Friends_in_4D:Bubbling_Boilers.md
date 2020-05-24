@@ -112,9 +112,9 @@
 ## 외부 링크
 
   - [SimEx-Iwerks 사의 공식 작품 정보 게재 페이지](https://web.archive.org/web/20171028231619/http://simex-iwerks.com/Default.asp?id=4&l=1&mcat_pid=187)
-  - [SimEx-Iwerks 사의 공식 본편 동영상 게재 페이지 - Vimeo](https://vimeopro.com/simexiwerksscreeningroom/thomas-1)
+  - [SimEx-Iwerks 사의 공식 본편 동영상 게재 페이지 - Vimeo](https://web.archive.org/web/20190406022707/https://vimeopro.com/simexiwerksscreeningroom/thomas-1)
 
-[분류:긴 낱말](https://ko.wikipedia.org/wiki/분류:긴_낱말 "wikilink")
+[분류:미국의 애니메이션 영화](https://ko.wikipedia.org/wiki/분류:미국의_애니메이션_영화 "wikilink") [분류:캐나다의 애니메이션 영화](https://ko.wikipedia.org/wiki/분류:캐나다의_애니메이션_영화 "wikilink")
 
 1.
-2.  [콜럼버스 동물원 · 수족관 공식 사이트 2018 년 5 월 14 일보기](https://www.columbuszoo.org/home/visit/explore-your-columbus-zoo/special-experiences/theater)
+2.  [콜럼버스 동물원 · 수족관 공식 사이트 2018년 5월 14일보기](https://www.columbuszoo.org/home/visit/explore-your-columbus-zoo/special-experiences/theater)

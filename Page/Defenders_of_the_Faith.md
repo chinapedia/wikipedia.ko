@@ -9,7 +9,7 @@
 
 ## 논란
 
-〈Eat Me Alive〉는 [PMRC](https://ko.wikipedia.org/wiki/PMRC "wikilink")의 "추잡한 15개 곡"에서 3위에 올랐는데, 이 단체는 이 곡이 가장 불쾌하다고 판단한 15곡의 노래 목록이다.\[2\] PMRC의 공동창립자인 티퍼 고어는 이 노래가 총구의 구강 성관계에 관한 것이라고 말했다.\[3\] 이러한 주장에 대해 주다스 프리스트는 후속 음반인 《[Turbo](https://ko.wikipedia.org/wiki/Turbo_\(주다스_프리스트의_음반\) "wikilink")》에 수록된 곡 〈Parental Guidance〉을 녹음했다.
+〈Eat Me Alive〉는 [PMRC](https://ko.wikipedia.org/wiki/PMRC "wikilink")의 "추잡한 15개 곡"에서 3위에 올랐는데, 이 단체는 이 곡이 가장 불쾌하다고 판단한 15곡의 노래 목록이다.\[2\] PMRC의 공동창립자인 티퍼 고어는 이 노래가 총구의 구강 성관계에 관한 것이라고 말했다.\[3\] 이러한 주장에 대해 주다스 프리스트는 후속 음반인 《[Turbo](../Page/Turbo_\(주다스_프리스트의_음반\).md "wikilink")》에 수록된 곡 〈Parental Guidance〉을 녹음했다.
 
 ## 곡 목록
 

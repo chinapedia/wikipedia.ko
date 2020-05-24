@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [뜻밖의 Q의 특별 진행자 목록](https://ko.wikipedia.org/wiki/뜻밖의_Q의_특별_진행자_목록).
 
 
-아래 는 [문화방송](../Page/문화방송.md "wikilink") 텔레비전 프로그램 《[뜻밖의 Q](../Page/뜻밖의_Q.md "wikilink")》의 특별 진행자 목록 이다.
+아래 는 [문화방송](../Page/문화방송.md "wikilink") 텔레비전 프로그램 《[뜻밖의 Q](../Page/뜻밖의_Q.md "wikilink")》의 특별 진행자 목록이다.
 
 ### 2018년
 

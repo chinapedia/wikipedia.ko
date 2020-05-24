@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [AMD MV](https://ko.wikipedia.org/wiki/AMD_MV).
+> This article is converted from Wikipedia: [AMD 파이어MV](https://ko.wikipedia.org/wiki/AMD_파이어MV).
 
 
 **AMD 파이어MV**(, 과거 명칭: **ATI FireMV**)는 로우엔드 라데온 그래픽 제품과 동일한 3차원 기능을 갖춘 [멀티 디스플레이](../Page/다중_모니터.md "wikilink") 2D 그래픽 카드로 마케팅된 그래픽 카드의 상표명이다. [매트록스](../Page/매트록스.md "wikilink") 전문가용 그래픽 카드와 직접 경쟁한다. 파이어MV의 카드들은 하나의 컴퓨터에 여러 디스플레이의 장착을 요구하는 회사 환경을 목표로 한다. 파이어MV의 카드들은 듀얼 GPU, [VHDCI](https://ko.wikipedia.org/wiki/VHDCI "wikilink") 단자를 통한 4개 디스플레이 출력, 하나의 GPU, [DMS-59](../Page/DMS-59.md "wikilink") 단자를 통한 2개 디스플레이 출력 옵션이 있다.

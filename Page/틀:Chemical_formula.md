@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:Chemical formula](https://ko.wikipedia.org/wiki/:Chemical_formula).
+> This article is converted from Wikipedia: [틀:Chemical formula](https://ko.wikipedia.org/wiki/틀:Chemical_formula).
 
 
 <sub></sub>  <sub></sub>  <sub></sub>  <sub></sub>  <sub></sub>  <sub></sub>  <sub></sub>  <sub></sub>  <sub></sub>  <sub></sub>  <sub></sub>  <sub></sub>  <sub></sub>  <sub></sub>  <sub></sub>  <sub></sub>  <sub></sub>  <sub></sub>  <sub></sub>  <sub></sub>

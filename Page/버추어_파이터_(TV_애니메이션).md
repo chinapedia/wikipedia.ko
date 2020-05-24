@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  \(TV \)](https://ko.wikipedia.org/wiki/__\(TV_\)).
+> This article is converted from Wikipedia: [버추어 파이터 \(TV 애니메이션\)](https://ko.wikipedia.org/wiki/버추어_파이터_\(TV_애니메이션\)).
 
 
 **버추어 파이터**는 세가 AM2가 제작한 TV 애니메이션 시리즈이다. 버추어 파이터 비디오게임 시리즈를 바탕으로 한다. 1995년 10월 2일부터 1996년 6월 27일까지 [TV 도쿄에서](../Page/TV_도쿄.md "wikilink") 방영되었다.

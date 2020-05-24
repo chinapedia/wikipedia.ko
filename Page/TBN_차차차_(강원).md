@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TBN  \(\)](https://ko.wikipedia.org/wiki/TBN__\(\)).
+> This article is converted from Wikipedia: [TBN 차차차 \(강원\)](https://ko.wikipedia.org/wiki/TBN_차차차_\(강원\)).
 
 
 **TBN 차차차**는 [TBN 강원교통방송](../Page/강원교통방송.md "wikilink")(원주 FM 105.9㎒, 춘천 FM 103.7㎒, 강릉 FM 105.5㎒, 양양 FM 95.1㎒, 동해 FM 95.3㎒, 평창 FM 89.3㎒)에서 매일 낮 12시 5분부터 2시까지 방송되는 강원권 지역의 라디오 음악 프로그램이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Nebraska \(\)](https://ko.wikipedia.org/wiki/Nebraska_\(\)).
+> This article is converted from Wikipedia: [Nebraska \(음반\)](https://ko.wikipedia.org/wiki/Nebraska_\(음반\)).
 
 
 《**Nebraska**》는 [브루스 스프링스틴이](../Page/브루스_스프링스틴.md "wikilink") 1982년 9월 30일 [컬럼비아 레코드에서](../Page/컬럼비아_레코드.md "wikilink") 발표한 여섯 번째 스튜디오 음반이다.
@@ -9,7 +9,7 @@
 
 ## 곡 목록
 
-모든 곡들은 [브루스 스프링스틴이](../Page/브루스_스프링스틴.md "wikilink") 작사/작곡하였다.
+모든 곡들은 [브루스 스프링스틴에](../Page/브루스_스프링스틴.md "wikilink") 의해 작사/작곡하였다.
 
 ## 각주
 

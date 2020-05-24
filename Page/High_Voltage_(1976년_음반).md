@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [High Voltage \(1976 \)](https://ko.wikipedia.org/wiki/High_Voltage_\(1976_\)).
+> This article is converted from Wikipedia: [High Voltage \(1976년 음반\)](https://ko.wikipedia.org/wiki/High_Voltage_\(1976년_음반\)).
 
 
 《**High Voltage**》는 [호주](https://ko.wikipedia.org/wiki/호주 "wikilink")의 [하드 록](../Page/하드_록.md "wikilink") 밴드 [AC/DC](https://ko.wikipedia.org/wiki/AC/DC "wikilink")의 첫 번째 국제적으로 발매된 스튜디오 음반이다. 이 음반에는 《[High Voltage](https://ko.wikipedia.org/wiki/High_Voltage_\(1975년_음반\) "wikilink")》와 《[T.N.T.](https://ko.wikipedia.org/wiki/T.N.T._\(음반\) "wikilink")》(1975년 두 음반 모두)의 첫 두 곡이 수록되어 있다.

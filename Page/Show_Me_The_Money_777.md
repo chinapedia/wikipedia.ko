@@ -10,7 +10,7 @@
 
 ## 팀 구성
 
-| 소속   | Just Music                                                            | Vismajor (VMC)                                                     | Ambition Musik                                                                        | 팔로알토 & 코드 쿤스트                                                                     |
+| 소속   | Just Music                                                            | Vismajor (VMC)                                                     | Ambition Music                                                                        | 팔로알토 & 코드 쿤스트                                                                     |
 | ---- | --------------------------------------------------------------------- | ------------------------------------------------------------------ | ------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
 | 프로듀서 | [스윙스](../Page/스윙스.md "wikilink"), [기리보이](../Page/기리보이.md "wikilink")  | [딥플로우](../Page/딥플로우.md "wikilink"), [넉살](../Page/넉살.md "wikilink") | [더콰이엇](https://ko.wikipedia.org/wiki/더콰이엇 "wikilink"), [창모](../Page/창모.md "wikilink") | [팔로알토](../Page/팔로알토_\(가수\).md "wikilink"), [코드 쿤스트](../Page/코드_쿤스트.md "wikilink") |
 | 참가자  | 나플라 (우승), [ODEE](https://ko.wikipedia.org/wiki/ODEE "wikilink"), 오르내림 | 김효은,EK,[차붐](https://ko.wikipedia.org/wiki/차붐_\(래퍼\) "wikilink")    | 수퍼비, 쿠기, 디아크                                                                          | kid milli (3위), 루피 (준우승), pH-1                                                    |

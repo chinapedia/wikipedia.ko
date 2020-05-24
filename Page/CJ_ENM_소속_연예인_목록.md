@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [CJ ENM 소속 연예인 목록](https://ko.wikipedia.org/wiki/CJ_ENM_소속_연예인_목록).
 
 
-다음 은 [CJ ENM](../Page/CJ_ENM.md "wikilink") 에 소속 되어 있거나, 소속 된 적 이 있는 연예인 의 목록 이다.
+다음 은 [CJ ENM](../Page/CJ_ENM.md "wikilink") 에 소속 되어 있거나, 소속 된 적 이 있는 연예인 의 목록이다.
 
 ## 현재 CJ ENM 및 자회사 소속
 

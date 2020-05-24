@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  WFC](https://ko.wikipedia.org/wiki/__WFC).
+> This article is converted from Wikipedia: [맨체스터 시티 WFC](https://ko.wikipedia.org/wiki/맨체스터_시티_WFC).
 
 
 **맨체스터 시티 WFC**()는 [잉글랜드](../Page/잉글랜드.md "wikilink") [그레이터맨체스터주](../Page/그레이터맨체스터주.md "wikilink") [맨체스터](../Page/맨체스터.md "wikilink")를 연고로 하는 [여자 축구](../Page/여자_축구.md "wikilink") 클럽이다. [1988년](../Page/1988년.md "wikilink")에 [맨체스터 시티 FC](../Page/맨체스터_시티_FC.md "wikilink") 산하 여성팀으로 설립되었으며, 현재 잉글랜드 [FA 여자 슈퍼리그에](../Page/FA_여자_슈퍼리그.md "wikilink") 참가하고 있다.

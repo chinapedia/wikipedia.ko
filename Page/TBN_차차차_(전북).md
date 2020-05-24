@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [TBN  \(\)](https://ko.wikipedia.org/wiki/TBN__\(\)).
+> This article is converted from Wikipedia: [TBN 차차차 \(전북\)](https://ko.wikipedia.org/wiki/TBN_차차차_\(전북\)).
 
 
 **TBN 차차차**는 [TBN 전북교통방송](../Page/전북교통방송.md "wikilink")(전주 FM 102.5㎒, 장수 FM 106.1㎒)에서 매일 낮 12시 5분부터 2시까지 방송되는 전북권 지역의 라디오 음악 프로그램이다.

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  THE ORIGIN](https://ko.wikipedia.org/wiki/__THE_ORIGIN).
+> This article is converted from Wikipedia: [기동전사 건담 THE ORIGIN](https://ko.wikipedia.org/wiki/기동전사_건담_THE_ORIGIN).
 
 
 《**기동전사 건담 THE ORIGIN**》(, )은 일본의 로봇 애니메이션으로, [선라이즈가](../Page/선라이즈_\(기업\).md "wikilink") 제작하였다. 1979년의 《[건담 시리즈](../Page/건담_시리즈.md "wikilink")》의 첫 작품인 《**[기동전사 건담](../Page/기동전사_건담.md "wikilink")**》을 베이스로 한 커미컬라이즈 작품이지만, 설정의 재검토나 외전적 에피소드의 추가 등 독자적인 어레인지가 갖추어져 있다.

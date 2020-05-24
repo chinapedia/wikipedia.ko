@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [JW  ](https://ko.wikipedia.org/wiki/JW__).
+> This article is converted from Wikipedia: [JW 메리어트 서울](https://ko.wikipedia.org/wiki/JW_메리어트_서울).
 
 
 **JW 메리어트 호텔 서울**()은 [대한민국](../Page/대한민국.md "wikilink") [서울특별시](../Page/서울특별시.md "wikilink") [서초구](../Page/서초구.md "wikilink") [신반포로](../Page/신반포로.md "wikilink") 176 ([반포동](../Page/반포동.md "wikilink") 19-3)에 위치하고 있다.

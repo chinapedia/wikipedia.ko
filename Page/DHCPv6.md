@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [DHCPv6](https://ko.wikipedia.org/wiki/DHCPv6).
 
 
-**DHCPv6**(Dynamic Host Configuration Protocol 버전 ​​6)은 IPv6 네트워크에서 작동하는 데 필요한 IP 주소, IP 접두사 및 기타 구성 데이터를 사용하여 IPv6 (Internet Protocol version 6) 호스트를 구성하기 하는데 이용가능한 네트워크 프로토콜 이다. IPv4 용 동적 호스트 구성 프로토콜 (DHCP) 과 동일한 기능을 하는 IPv6 에서 사용가능한 프로토클이다. 관련 표준은 RFC 3315 에 명시되어 있다. \[1\]
+**DHCPv6**(Dynamic Host Configuration Protocol 버전 ​​6)은 IPv6 네트워크에서 작동하는 데 필요한 IP 주소, IP 접두사 및 기타 구성 데이터를 사용하여 IPv6 (Internet Protocol version 6) 호스트를 구성하기 하는데 이용가능한 네트워크 프로토콜이다. IPv4 용 동적 호스트 구성 프로토콜 (DHCP) 과 동일한 기능을 하는 IPv6 에서 사용가능한 프로토클이다. 관련 표준은 RFC 3315 에 명시되어 있다. \[1\]
 
 ## 기능
 

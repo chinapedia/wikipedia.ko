@@ -114,7 +114,7 @@
   - 《[몸을 다해 요리첩](https://ko.wikipedia.org/wiki/몸을_다해_요리첩 "wikilink") 스페셜》
   - 《[마음의 상처를 치유하는 것](https://ko.wikipedia.org/wiki/마음의_상처를_치유하는_것 "wikilink")》
 
-## 함께 보기
+## 같이 보기
 
   - [드라마 10](../Page/드라마_10.md "wikilink")
   - [NHK 대하드라마](../Page/NHK_대하드라마.md "wikilink")

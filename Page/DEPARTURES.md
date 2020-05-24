@@ -64,7 +64,7 @@ globe는 2002년 발매된 베스트 앨범 《[Ballads & Memories](https://ko.w
 
   - [〈DEPARTURES〉](http://www.oricon.co.jp/prof/27402/products/46210/1/) - [오리콘](../Page/오리콘.md "wikilink")
 
-[분류:globe의 노래](https://ko.wikipedia.org/wiki/분류:globe의_노래 "wikilink") [분류:1996년 싱글](https://ko.wikipedia.org/wiki/분류:1996년_싱글 "wikilink") [분류:1996년 노래](https://ko.wikipedia.org/wiki/분류:1996년_노래 "wikilink") [분류:1996년 오리콘 싱글 차트 1위 작품](https://ko.wikipedia.org/wiki/분류:1996년_오리콘_싱글_차트_1위_작품 "wikilink") [분류:오리콘 월간 싱글 차트 1위 작품](https://ko.wikipedia.org/wiki/분류:오리콘_월간_싱글_차트_1위_작품 "wikilink") [분류:오리콘 밀리언 셀러 달성 싱글](https://ko.wikipedia.org/wiki/분류:오리콘_밀리언_셀러_달성_싱글 "wikilink") [분류:광고 음악](https://ko.wikipedia.org/wiki/분류:광고_음악 "wikilink") [분류:눈을 소재로 한 노래](https://ko.wikipedia.org/wiki/분류:눈을_소재로_한_노래 "wikilink")
+[분류:Globe의 노래](https://ko.wikipedia.org/wiki/분류:Globe의_노래 "wikilink") [분류:1996년 싱글](https://ko.wikipedia.org/wiki/분류:1996년_싱글 "wikilink") [분류:1996년 노래](https://ko.wikipedia.org/wiki/분류:1996년_노래 "wikilink") [분류:1996년 오리콘 싱글 차트 1위 작품](https://ko.wikipedia.org/wiki/분류:1996년_오리콘_싱글_차트_1위_작품 "wikilink") [분류:오리콘 월간 싱글 차트 1위 작품](https://ko.wikipedia.org/wiki/분류:오리콘_월간_싱글_차트_1위_작품 "wikilink") [분류:오리콘 밀리언 셀러 달성 싱글](https://ko.wikipedia.org/wiki/분류:오리콘_밀리언_셀러_달성_싱글 "wikilink") [분류:광고 음악](https://ko.wikipedia.org/wiki/분류:광고_음악 "wikilink") [분류:눈을 소재로 한 노래](https://ko.wikipedia.org/wiki/분류:눈을_소재로_한_노래 "wikilink")
 
 1.
 2.

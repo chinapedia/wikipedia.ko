@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [  V ](https://ko.wikipedia.org/wiki/__V_).
+> This article is converted from Wikipedia: [사무라이 쇼다운 V 스페셜](https://ko.wikipedia.org/wiki/사무라이_쇼다운_V_스페셜).
 
 
 《**사무라이 쇼다운 V 스페셜**》()은 [유키 엔터프라이즈가](https://ko.wikipedia.org/wiki/유키_엔터프라이즈 "wikilink") 개발하고 [SNK 플레이모어가](https://ko.wikipedia.org/wiki/SNK_플레이모어 "wikilink") 배급한 [아케이드](../Page/아케이드_게임.md "wikilink") 전용 [대전 격투 게임이다](https://ko.wikipedia.org/wiki/대전_격투_게임 "wikilink"). 2003년에 발매됐던 《[사무라이 쇼다운 V](../Page/사무라이_쇼다운_V.md "wikilink")》의 개선판으로, 2004년 4월 22일 [네오지오](https://ko.wikipedia.org/wiki/네오지오_\(콘솔\) "wikilink") 기판으로 최초 출시됐다. 일본에선 《**사무라이 쇼다운 제로 스페셜**》()라는 제목으로 출시됐다.

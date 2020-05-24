@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ F](https://ko.wikipedia.org/wiki/_F).
+> This article is converted from Wikipedia: [소켓 F](https://ko.wikipedia.org/wiki/소켓_F).
 
 
 [140px](https://ko.wikipedia.org/wiki/파일:Socket_F_open_R0027169.jpg "wikilink")
@@ -36,7 +36,7 @@
   - [Tweakers.net: First benchmarks of Socket F Opterons in databasetest](http://tweakers.net/reviews/638)
   - [Tweakers.net: Pictures of the socket](http://tweakers.net/nieuws/39753)
   - [Dailytech: AMD's Next-gen Socket F Revealed](https://web.archive.org/web/20060301035010/http://www.dailytech.com/article.aspx?newsid=958)
-  - [PCstats: Socket F Near Term Roadmap](http://www.pcstats.com/NewsView.cfm?NewsID=46731)
+  - [PCstats: Socket F Near Term Roadmap](https://web.archive.org/web/20071025025848/http://www.pcstats.com/NewsView.cfm?NewsID=46731)
 
 [분류:AMD 소켓](https://ko.wikipedia.org/wiki/분류:AMD_소켓 "wikilink")
 

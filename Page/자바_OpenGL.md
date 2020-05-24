@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ OpenGL](https://ko.wikipedia.org/wiki/_OpenGL).
+> This article is converted from Wikipedia: [자바 OpenGL](https://ko.wikipedia.org/wiki/자바_OpenGL).
 
 
 **자바 OpenGL**(Java OpenGL, **JOGL**)은 [OpenGL](../Page/OpenGL.md "wikilink")을[자바 프로그래밍 언어에](../Page/자바_\(프로그래밍_언어\).md "wikilink") 사용될 수 있도록 하는 래퍼 [라이브러리이다](../Page/라이브러리_\(컴퓨팅\).md "wikilink").\[1\]\[2\] Kenneth Bradley Russell과 Christopher John Kline에 의해 처음 개발되었다가 이후 [썬 마이크로시스템즈](../Page/썬_마이크로시스템즈.md "wikilink") 게임 테크놀로지 그룹에 의해 추가 개발되었다. 2010년 이후로 [BSD 허가서](../Page/BSD_허가서.md "wikilink") 하의 독립 [오픈 소스](../Page/오픈_소스_소프트웨어.md "wikilink") 프로젝트로 유지되고 있다. [Java Bindings for OpenGL](https://ko.wikipedia.org/wiki/Java_Bindings_for_OpenGL "wikilink")(JSR-231)의 참조 구현체이다.

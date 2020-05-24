@@ -11,8 +11,8 @@
 
 이름, 생년월일, 잘하는 댄스
 
-  - **[리나](https://ko.wikipedia.org/wiki/리나_\(가수\) "wikilink")**(, , [도쿄도](../Page/도쿄도.md "wikilink") 출신, [록 댄스](https://ko.wikipedia.org/wiki/록 "wikilink")) - 최연장자, 리더
-  - **[이부키 미타](https://ko.wikipedia.org/wiki/이부키_미타 "wikilink")**(, , [지바현](../Page/지바현.md "wikilink") 출신, [클래식 발레](https://ko.wikipedia.org/wiki/클래식_발레 "wikilink")) - 서브리더
+  - **[리나](https://ko.wikipedia.org/wiki/리나_\(가수\) "wikilink")** (, , [도쿄도](../Page/도쿄도.md "wikilink") 출신, [록 댄스](https://ko.wikipedia.org/wiki/록 "wikilink")) - 최연장자, 리더
+  - **[이부키 미타](https://ko.wikipedia.org/wiki/이부키_미타 "wikilink")** (, , [지바현](../Page/지바현.md "wikilink") 출신, [클래식 발레](https://ko.wikipedia.org/wiki/클래식_발레 "wikilink")) - 서브리더
   - [야마모토 카오리](https://ko.wikipedia.org/wiki/야마모토_카오리 "wikilink") (, , 지바 현 출신, [재즈](../Page/재즈.md "wikilink"), [힙합](../Page/힙합.md "wikilink"))
   - [다나카 사호](https://ko.wikipedia.org/wiki/다나카_사호 "wikilink") (, , [가나가와현](../Page/가나가와현.md "wikilink") 출신 - [에어로빅](https://ko.wikipedia.org/wiki/에어로빅 "wikilink"), [치어 댄스](../Page/치어_댄스.md "wikilink"))
   - [후지타 아이리](https://ko.wikipedia.org/wiki/후지타_아이리 "wikilink") (, , 가나가와 현 출신, 힙합)
@@ -74,7 +74,7 @@
   - [시리츠에비스추가쿠](../Page/시리츠에비스추가쿠.md "wikilink")
   - [TEAM SHACHI](../Page/TEAM_SHACHI.md "wikilink")
   - [다코야키 레인보우](../Page/다코야키_레인보우.md "wikilink")
-  - [도키메키 센덴부](../Page/도키메키_센덴부.md "wikilink")
+  - [초 도키메키 센덴부](../Page/초_도키메키_센덴부.md "wikilink")
   - [밧텐쇼죠타이](../Page/밧텐쇼죠타이.md "wikilink")
   - [하치미츠 로켓](../Page/하치미츠_로켓.md "wikilink")
   - [아메후라시](../Page/아메후라시.md "wikilink")

@@ -132,7 +132,7 @@ Voxeljet은 서로 다른 수지에 의해 결합된 [PMMA](https://ko.wikipedia
 </tbody>
 </table>
 
-## 함께 보기
+## 같이 보기
 
 [3D 프린터 제조사 리스트](https://ko.wikipedia.org/wiki/:en:List_of_3D_printer_manufacturers "wikilink")
 

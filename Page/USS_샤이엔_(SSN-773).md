@@ -5,7 +5,7 @@
 
 ## 대한민국
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:Hur_Nam-sik,_the_mayor_of_Busan,_South_Korea,_and_his_assistants_are_given_a_tour_of_the_nuclear_attack_submarine_USS_Cheyenne_\(SSN_773\)_by_U.S._Navy_Cmdr._Noel_J._Gonzalez,_second_from_left,_the_commanding_130322-N-TB410-060.jpg "wikilink") 2003년 미국의 [이라크 자유 작전](https://ko.wikipedia.org/wiki/이라크_자유_작전 "wikilink")(Operation Iraqi Freedom)에서 [토마호크 순항미사일을](https://ko.wikipedia.org/wiki/토마호크_순항미사일 "wikilink") 처음으로 발사했다. 샤이엔함은 잠수한 상태에서, 12개의 VLS에 장착된 [토마호크 순항미사일을](https://ko.wikipedia.org/wiki/토마호크_순항미사일 "wikilink") 36초 마다 한발씩 발사할 수 있다. 사거리는 3100 km 이다.\[1\]
+[섬네일](https://ko.wikipedia.org/wiki/파일:Hur_Nam-sik,_the_mayor_of_Busan,_South_Korea,_and_his_assistants_are_given_a_tour_of_the_nuclear_attack_submarine_USS_Cheyenne_\(SSN_773\)_by_U.S._Navy_Cmdr._Noel_J._Gonzalez,_second_from_left,_the_commanding_130322-N-TB410-060.jpg "wikilink") 2003년 미국의 [이라크 자유 작전](https://ko.wikipedia.org/wiki/이라크_자유_작전 "wikilink")(Operation Iraqi Freedom)에서 [토마호크 순항미사일을](https://ko.wikipedia.org/wiki/토마호크_순항미사일 "wikilink") 처음으로 발사했다. 샤이엔함은 잠수한 상태에서, 12개의 VLS에 장착된 [토마호크 순항미사일을](https://ko.wikipedia.org/wiki/토마호크_순항미사일 "wikilink") 36초 마다 한발씩 발사할 수 있다. 사거리는 3100 km이다.\[1\]
 
 2013년 3월 말, 샤이엔함이 한미연합 해상 기동훈련해 참가해 한국 해군과 동해, 남해, 서해에서 동시 다발적인 훈련을 벌였다.\[2\]
 

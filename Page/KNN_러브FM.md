@@ -43,50 +43,17 @@ KNN 러브FM은 [2016년](../Page/2016년.md "wikilink") [5월 10일에](../Page
 
 ## 방송 프로그램
 
-<table>
-<thead>
-<tr class="header">
-<th><p>KNN LOVE FM</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>프로그램명</p></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/KNN_뉴스_(1000)" title="wikilink">KNN 10시 뉴스</a></p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="../Page/러브포텐.md" title="wikilink">러브포텐 박민설입니다</a></p></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/KNN_뉴스_(1410)" title="wikilink">KNN 2시 뉴스</a></p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://web.archive.org/web/20160524065758/http://www.knn.co.kr/category/radio/love-fm/goodchoice">1</a> <a href="../Page/딱좋은_라디오.md" title="wikilink">강영운의 딱좋은 라디오</a></p></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/KNN_뉴스_(1800)" title="wikilink">KNN 6시 뉴스</a></p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="http://www.knn.co.kr/category/radio/love-fm/busanstory">2</a> <a href="https://ko.wikipedia.org/wiki/이바구_스튜디오" title="wikilink">이바구 스튜디오</a></p></td>
-</tr>
-<tr class="even">
-<td><p><a href="http://www.knn.co.kr/knn-baseball/free">3</a> 프로야구 생중계</p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="http://www.knn.co.kr/category/radio/power-fm/wellbeing_life">4</a> <a href="../Page/KNN_웰빙라이프.md" title="wikilink">KNN 웰빙라이프 (저녁)</a></p></td>
-</tr>
-<tr class="even">
-<td><p><a href="http://www.knn.co.kr/category/radio/love-fm/musicdabang">5</a> <a href="../Page/음악다방.md" title="wikilink">다희의 음악다방</a></p></td>
-</tr>
-<tr class="odd">
-<td><p>정규시즌<br />
-평일 밤 10시 5분~12시<br />
-주말 밤 10시~12시</p></td>
-</tr>
-</tbody>
-</table>
+| KNN LOVE FM                                                                                                                                          |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 프로그램명                                                                                                                                                |
+| [KNN 10시 뉴스](https://ko.wikipedia.org/wiki/KNN_뉴스_\(1000\) "wikilink")                                                                               |
+| 다희씨의 우아한 라디오                                                                                                                                         |
+| [KNN 2시 뉴스](https://ko.wikipedia.org/wiki/KNN_뉴스_\(1410\) "wikilink")                                                                                |
+| [1](https://web.archive.org/web/20160524065758/http://www.knn.co.kr/category/radio/love-fm/goodchoice) [강영운의 딱좋은 라디오](../Page/딱좋은_라디오.md "wikilink") |
+| [2](http://www.knn.co.kr/category/radio/love-fm/busanstory) 오늘 오후 KNN입니다                                                                             |
+| [3](http://www.knn.co.kr/category/radio/power-fm/wellbeing_life) [KNN 웰빙라이프 (저녁)](../Page/KNN_웰빙라이프.md "wikilink")                                   |
+| [KNN 6시 뉴스](https://ko.wikipedia.org/wiki/KNN_뉴스_\(1800\) "wikilink")                                                                                |
+| [4](http://www.knn.co.kr/category/radio/love-fm/musicdabang) 박민설의 온나라디오                                                                              |
 
 ## 수신 가능 지역
 

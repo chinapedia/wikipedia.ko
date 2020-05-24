@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FIFA   ](https://ko.wikipedia.org/wiki/FIFA___).
+> This article is converted from Wikipedia: [FIFA 월드컵 공식 마스코트](https://ko.wikipedia.org/wiki/FIFA_월드컵_공식_마스코트).
 
 
 **FIFA 월드컵 공식 마스코트**는 [FIFA 월드컵](https://ko.wikipedia.org/wiki/FIFA_월드컵 "wikilink") 대회에서 공식적으로 선정되는 [마스코트](https://ko.wikipedia.org/wiki/마스코트 "wikilink")이다.

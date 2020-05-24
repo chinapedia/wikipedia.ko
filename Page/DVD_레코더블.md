@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [DVD ](https://ko.wikipedia.org/wiki/DVD_).
+> This article is converted from Wikipedia: [DVD 레코더블](https://ko.wikipedia.org/wiki/DVD_레코더블).
 
 
 [200px](https://ko.wikipedia.org/wiki/파일:DVD-R.jpg "wikilink")  **DVD 레코더블**(DVD recordable)과 **DVD 리라이터블**(DVD rewritable)은 [광 디스크 기록 기술이다](https://ko.wikipedia.org/wiki/오버버닝 "wikilink"). 이 용어 둘 다 [DVD 레코더에](https://ko.wikipedia.org/wiki/DVD_레코더 "wikilink") 의해 기록 가능한 [DVD](../Page/DVD.md "wikilink") [광 디스크를](../Page/광_디스크.md "wikilink") 기술하지만, "리라이터블" 디스크의 경우 데이터의 삭제 및 다시 쓰기가 가능하다. 데이터는 [DVD](../Page/DVD.md "wikilink")처럼 제조 중에 디스크에 압착(press)되는 대신 [레이저](../Page/레이저.md "wikilink")를 통해 디스크에 기록(버닝)된다. 압착 과정은 주로 [홈 비디오](https://ko.wikipedia.org/wiki/홈_비디오 "wikilink") 배급을 위해 대량 생산에 사용된다.

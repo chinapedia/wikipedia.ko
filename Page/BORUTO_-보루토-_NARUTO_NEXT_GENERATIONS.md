@@ -169,4 +169,6 @@
   -
 
   -
+## 각주
+
 [분류:나루토](https://ko.wikipedia.org/wiki/분류:나루토 "wikilink") [분류:닌자 만화](https://ko.wikipedia.org/wiki/분류:닌자_만화 "wikilink") [분류:주간 소년 점프의 만화](https://ko.wikipedia.org/wiki/분류:주간_소년_점프의_만화 "wikilink") [분류:닌자 애니메이션](https://ko.wikipedia.org/wiki/분류:닌자_애니메이션 "wikilink") [분류:2017년 애니메이션](https://ko.wikipedia.org/wiki/분류:2017년_애니메이션 "wikilink") [분류:2018년 애니메이션](https://ko.wikipedia.org/wiki/분류:2018년_애니메이션 "wikilink") [분류:2019년 애니메이션](https://ko.wikipedia.org/wiki/분류:2019년_애니메이션 "wikilink") [분류:2020년 애니메이션](https://ko.wikipedia.org/wiki/분류:2020년_애니메이션 "wikilink") [분류:TV 도쿄 계열 애니메이션](https://ko.wikipedia.org/wiki/분류:TV_도쿄_계열_애니메이션 "wikilink") [분류:애니메이션 파생작](https://ko.wikipedia.org/wiki/분류:애니메이션_파생작 "wikilink") [분류:투니버스의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:투니버스의_텔레비전_프로그램 "wikilink")

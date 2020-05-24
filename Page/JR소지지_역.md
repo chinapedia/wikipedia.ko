@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [JR소지지 역](https://ko.wikipedia.org/wiki/JR소지지_역).
 
 
-**JR소지지 역**()은 [오사카부](../Page/오사카부.md "wikilink") [이바라키 시에](https://ko.wikipedia.org/wiki/이바라키_시 "wikilink") 있는 [서일본 여객철도의](https://ko.wikipedia.org/wiki/서일본_여객철도 "wikilink") [도카이도 본선](../Page/도카이도_본선.md "wikilink")([JR 교토 선](../Page/JR_교토_선.md "wikilink")) 상의 역이다.
+**JR소지지 역**()은 [오사카부](../Page/오사카부.md "wikilink") [이바라키시](../Page/이바라키시.md "wikilink")에 있는 [서일본 여객철도의](https://ko.wikipedia.org/wiki/서일본_여객철도 "wikilink") [도카이도 본선](../Page/도카이도_본선.md "wikilink")([JR 교토 선](../Page/JR_교토_선.md "wikilink")) 상의 역이다.
 
 역 번호는 **JR-A40**이다.
 
@@ -15,7 +15,7 @@
 
 ## 역사
 
-  - [2006년](../Page/2006년.md "wikilink") [4월 3일](../Page/4월_3일.md "wikilink"): [후지텍](https://ko.wikipedia.org/wiki/후지텍 "wikilink")의 본사가 [오사카부](../Page/오사카부.md "wikilink") [이바라키 시에서](https://ko.wikipedia.org/wiki/이바라키_시 "wikilink") [시가현](../Page/시가현.md "wikilink") [히코네 시로](https://ko.wikipedia.org/wiki/히코네_시 "wikilink") 이전.
+  - [2006년](../Page/2006년.md "wikilink") [4월 3일](../Page/4월_3일.md "wikilink"): [후지텍](https://ko.wikipedia.org/wiki/후지텍 "wikilink")의 본사가 [오사카부](../Page/오사카부.md "wikilink") [이바라키시](../Page/이바라키시.md "wikilink")에서 [시가현](../Page/시가현.md "wikilink") [히코네시](../Page/히코네시.md "wikilink")로 이전.
   - [2011년](../Page/2011년.md "wikilink") [7월 29일](../Page/7월_29일.md "wikilink"): JR와 지자체 및 개발 사업자 간에 새로운 역 설치 등에 관한 기본 협약 체결.
   - [2012년](../Page/2012년.md "wikilink") [11월 29일](../Page/11월_29일.md "wikilink"): JR소지지 역(가칭) 건설 공사 개시.
   - [2015년](../Page/2015년.md "wikilink")

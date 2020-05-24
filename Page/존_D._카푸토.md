@@ -35,7 +35,7 @@ Ph.D. 1968 Bryn Mawr College.
 
 ## 각주 
 
-## 함께보기
+## 같이 보기
 
   - [약한 신학](../Page/약한_신학.md "wikilink")
 

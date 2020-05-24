@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Rise \(  \)](https://ko.wikipedia.org/wiki/Rise_\(__\)).
+> This article is converted from Wikipedia: [Rise \(조너스 블루의 노래\)](https://ko.wikipedia.org/wiki/Rise_\(조너스_블루의_노래\)).
 
 
 〈**Rise**〉(라이즈)는 영국의 DJ이자 음악 프로듀서인 [조너스 블루의](../Page/조너스_블루.md "wikilink") 싱글이다. 2018년 5월 25일에는 Jack & Jack, 2019년 3월 9일에는 아이즈원이 각각 피처링을 했다.\[1\]

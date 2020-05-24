@@ -10,16 +10,16 @@
 ## 멤버
 
   - 아사다 쿄우야 (麻田響也, あさだ きょうや)
-    [보컬](https://ko.wikipedia.org/wiki/보컬 "wikilink"). [1973년](../Page/1973년.md "wikilink") [12월 11일생](../Page/12월_11일.md "wikilink"). [효고 현](https://ko.wikipedia.org/wiki/효고_현 "wikilink") [고베 시](https://ko.wikipedia.org/wiki/고베_시 "wikilink") [나가타 구](https://ko.wikipedia.org/wiki/나가타_구 "wikilink") 출신.
+    [보컬](https://ko.wikipedia.org/wiki/보컬 "wikilink"). [1973년](../Page/1973년.md "wikilink") [12월 11일생](../Page/12월_11일.md "wikilink"). [효고현](../Page/효고현.md "wikilink") [고베시](../Page/고베시.md "wikilink") [나가타구](../Page/나가타구.md "wikilink") 출신.
     현재는 아사다 쿄우야「麻田キョウヤ」라는 예명으로 뮤지컬과 라디오 DJ 활동 중이다.[가면라이더 블레이드의](../Page/가면라이더_블레이드.md "wikilink") 엔딩곡「Never too late」와, [오쓰\! 싸워라\! 응원단에](../Page/오쓰!_싸워라!_응원단.md "wikilink") 수록된 곡을 리메이크한「[실황\! 파워풀 프로야구 12](https://ko.wikipedia.org/wiki/실황!_파워풀_프로야구_12 "wikilink")」의 주제가 '하늘색의 궤적'을 부른 바 있다.
   - 다나카 유우지 (田中雄二, たなか ゆうじ)
-    [기타](../Page/기타.md "wikilink"). [1973년](../Page/1973년.md "wikilink") [10월 30일생](../Page/10월_30일.md "wikilink"). [도쿄 도](https://ko.wikipedia.org/wiki/도쿄_도 "wikilink") [에토 구출신](https://ko.wikipedia.org/wiki/에토_구 "wikilink").
+    [기타](../Page/기타.md "wikilink"). [1973년](../Page/1973년.md "wikilink") [10월 30일생](../Page/10월_30일.md "wikilink"). [도쿄도](../Page/도쿄도.md "wikilink") [에토 구출신](https://ko.wikipedia.org/wiki/에토_구 "wikilink").
     현재는「KOHAK」의 기타리스트로 활동하고 있다.
   - 시노다 타츠야(篠田達也, しのだ たつや)
-    [베이스](https://ko.wikipedia.org/wiki/베이스 "wikilink"). [1973년](../Page/1973년.md "wikilink") [9월 8일생](../Page/9월_8일.md "wikilink"). [도쿄 도](https://ko.wikipedia.org/wiki/도쿄_도 "wikilink") [기요세 시출신](https://ko.wikipedia.org/wiki/기요세_시 "wikilink").
+    [베이스](https://ko.wikipedia.org/wiki/베이스 "wikilink"). [1973년](../Page/1973년.md "wikilink") [9월 8일생](../Page/9월_8일.md "wikilink"). [도쿄도](../Page/도쿄도.md "wikilink") [기요세시](../Page/기요세시.md "wikilink")출신.
     오오하시와 밴드 'MUFF'를 결성하기도 하였으며, 2011년 탈퇴 후 밴드 T4R, Minimum Rocket에서 활동하고 있다. 이외에도 세션 음악가로 활동중이다.
   - 오오하시 타카아키(大橋孝明, おおはし たかあき)
-    [드럼](https://ko.wikipedia.org/wiki/드럼 "wikilink"). [1973년](../Page/1973년.md "wikilink") [11월 30일생](../Page/11월_30일.md "wikilink"). [아이치 현](https://ko.wikipedia.org/wiki/아이치_현 "wikilink") [아토미 시출신](https://ko.wikipedia.org/wiki/아토미_시 "wikilink").
+    [드럼](https://ko.wikipedia.org/wiki/드럼 "wikilink"). [1973년](../Page/1973년.md "wikilink") [11월 30일생](../Page/11월_30일.md "wikilink"). [아이치현](../Page/아이치현.md "wikilink") [아토미 시출신](https://ko.wikipedia.org/wiki/아토미_시 "wikilink").
     시노다와 함께 밴드 'MUFF'를 결성하기도 하였으며, 2005년 탈퇴 후 음악 교사로 재직 중이다.
 
 ## 디스코그래피
@@ -80,7 +80,7 @@
 <td><ol>
 <li>IN THE AIR</li>
 </ol>
-<p>#YES</p></td>
+<p># YES</p></td>
 <td><ol>
 <li>パラノイア(파라라이프)</li>
 <li>JACK THE RIPPER</li>

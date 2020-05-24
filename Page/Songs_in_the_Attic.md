@@ -7,7 +7,7 @@
 
 빌리 조엘이 쓴 라이너 노트에 따르면 《Songs in the Attic》은, 《[The Stranger](../Page/The_Stranger.md "wikilink")》 발매 이후에야 자신의 작품을 알게 된 팬들에게 본인의 초창기 작품을 소개하기 위한 음반이라고 한다. 초창기 그의 작품들을 보면, 대부분의 악기는 세션 뮤지션에 의해 연주되었으며, 빌리 조엘이 노래를 부르며 피아노, 키보드, 하모니카를 연주했다. 그러나 1970년대 후반까지 빌리 조엘은 상당히 일관된 인원의 [밴드와](https://ko.wikipedia.org/wiki/빌리_조엘_밴드 "wikilink") 함께 투어와 녹음을 함께하고 있었기 때문에 자신의 밴드와 함께 그 곡들을 선보이고 싶어했다. 게다가 빌리 조엘과 그의 밴드는 그의 많은 노래에 그들만의 스타일을 더하기 시작했는데, 빌리 조엘은 새로운 스타일의 연주가 더해진 이 밴드가 연주하는 방식으로 라이브로 연주되는 노래를 녹음했다.
 
-싱글로는 〈[Say Goodbye to Hollywood](https://ko.wikipedia.org/wiki/Say_Goodbye_to_Hollywood "wikilink")〉와 상위 25위를 기록한 〈[She's Got a Way](https://ko.wikipedia.org/wiki/She's_Got_a_Way "wikilink")〉, 그리고 〈[You're My Home](https://ko.wikipedia.org/wiki/You're_My_Home "wikilink")〉이 발매됐고, 일본에서는 〈[Los Angelenos](https://ko.wikipedia.org/wiki/Los_Angelenos "wikilink")〉도 1981년에 발매되었다.\[1\]
+싱글로는 〈[Say Goodbye to Hollywood](https://ko.wikipedia.org/wiki/Say_Goodbye_to_Hollywood "wikilink")〉와 상위 25위를 기록한 〈[She's Got a Way](https://ko.wikipedia.org/wiki/She's_Got_a_Way "wikilink")〉, 그리고 〈[You're My Home](https://ko.wikipedia.org/wiki/You're_My_Home "wikilink")〉이 발매됐고, 일본에서는 〈[Los Angelenos](../Page/Los_Angelenos.md "wikilink")〉도 1981년에 발매되었다.\[1\]
 
 일련의 홍보 뮤직비디오가 촬영되었다. 그러나 비디오에 사용된 음원과 음반의 수록된 음원은 다르다. 총 5개의 비디오가 촬영되었는데, 그 가운데 4개는 스파크스에서, 나머지 한 개는 녹음 스튜디오에서 촬영되었다. 이 중 적어도 두 개는 전세계 공식 싱글로 발매되지 않았다.\[2\]
 
@@ -25,7 +25,7 @@
       - <small>1980년 7월 23일 [워싱턴 D.C.](../Page/워싱턴_D.C..md "wikilink") 바이우에서의 공연</small>
 3.  〈[Streetlife Serenade](../Page/Streetlife_Serenade.md "wikilink")〉 – 5:17
       - <small>1980년 7월 20일 [세인트폴](../Page/세인트폴_\(미네소타주\).md "wikilink") [리버센터](../Page/리버센터.md "wikilink")에서의 공연</small>
-4.  〈[Los Angelenos](https://ko.wikipedia.org/wiki/Los_Angelenos "wikilink")〉 – 3:48
+4.  〈[Los Angelenos](../Page/Los_Angelenos.md "wikilink")〉 – 3:48
       - <small>1980년 7월 10일 CT [뉴헤이븐](../Page/뉴헤이븐.md "wikilink")의 Toad's Place에서의 공연</small>
 5.  〈[She's Got a Way](https://ko.wikipedia.org/wiki/She's_Got_a_Way "wikilink")〉 – 3:00
       - <small>1980년 6월 [보스턴](../Page/보스턴.md "wikilink") 파라다이스 록 클럽에서의 공연</small>

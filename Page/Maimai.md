@@ -9,7 +9,7 @@
 
 <references/>
 
-[분류:아케이드 게임](https://ko.wikipedia.org/wiki/분류:아케이드_게임 "wikilink")
+[분류:아케이드 게임](https://ko.wikipedia.org/wiki/분류:아케이드_게임 "wikilink") [분류:리듬과 박자](https://ko.wikipedia.org/wiki/분류:리듬과_박자 "wikilink")
 
 1.
 2.

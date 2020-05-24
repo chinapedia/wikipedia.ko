@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [G-:  ](https://ko.wikipedia.org/wiki/G-:__).
+> This article is converted from Wikipedia: [G-포스: 기니피그 특공대](https://ko.wikipedia.org/wiki/G-포스:_기니피그_특공대).
 
 
 《**G-포스: 기니피그 특공대**》(G-Force)는 미국에서 제작된 [호잇 이트맨](https://ko.wikipedia.org/wiki/호잇_이트맨 "wikilink") 감독의 2009년 가족, 액션, 모험, 판타지, 코미디 영화이다. [빌 나이](https://ko.wikipedia.org/wiki/빌_나이 "wikilink") 등이 주연으로 출연하였고 [제리 브룩하이머](../Page/제리_브룩하이머.md "wikilink") 등이 제작에 참여하였다.

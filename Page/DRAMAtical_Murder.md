@@ -32,7 +32,7 @@
   -
   - [TV 애니메 「DRAMAtical Murder」](http://dmmd-anime.com/)
 
-  - [DRAMAtical Murder](http://www.tv-tokyo.co.jp/anime/dmmd/) - TV 도쿄 공식 사이트
+  - [DRAMAtical Murder](https://web.archive.org/web/20140714161955/http://www.tv-tokyo.co.jp/anime/dmmd/) - TV 도쿄 공식 사이트
 
   -
 [분류:보이즈 러브 게임](https://ko.wikipedia.org/wiki/분류:보이즈_러브_게임 "wikilink") [분류:2012년 성인 비디오 게임](https://ko.wikipedia.org/wiki/분류:2012년_성인_비디오_게임 "wikilink") [분류:일본의 애니메이션](https://ko.wikipedia.org/wiki/분류:일본의_애니메이션 "wikilink") [분류:2014년 애니메이션](https://ko.wikipedia.org/wiki/분류:2014년_애니메이션 "wikilink") [분류:TV 도쿄 계열 심야 애니메이션](https://ko.wikipedia.org/wiki/분류:TV_도쿄_계열_심야_애니메이션 "wikilink") [분류:AT-X 애니메이션](https://ko.wikipedia.org/wiki/분류:AT-X_애니메이션 "wikilink") [분류:보이즈 러브 애니메이션](https://ko.wikipedia.org/wiki/분류:보이즈_러브_애니메이션 "wikilink") [분류:에이벡스 그룹의 애니메이션](https://ko.wikipedia.org/wiki/분류:에이벡스_그룹의_애니메이션 "wikilink") [분류:애니플러스](https://ko.wikipedia.org/wiki/분류:애니플러스 "wikilink")

@@ -81,7 +81,7 @@
 
 \[K\]: [카탈랑 상수](../Page/카탈랑_상수.md "wikilink"), \(\psi\): [트리감마 함수](../Page/폴리감마_함수.md "wikilink")
 
-## 함께보기
+## 같이 보기
 
   - [디리클레 등차수열 정리](https://ko.wikipedia.org/wiki/디리클레_등차수열_정리 "wikilink")
   - [리만 제타 함수](../Page/리만_제타_함수.md "wikilink")

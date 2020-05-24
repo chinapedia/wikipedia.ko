@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Acquiesce](https://ko.wikipedia.org/wiki/Acquiesce).
 
 
-〈**Acquiesce**〉는 [노엘 갤러거가](../Page/노엘_갤러거.md "wikilink") 작곡한 [영국](../Page/영국.md "wikilink")의 록 밴드 [오아시스의](../Page/오아시스_\(밴드\).md "wikilink") 곡이다. 이 곡은 원래 1995년 4월 24일 오아시스의 첫 번째 영국 싱글 1위 〈[Some Might Say](https://ko.wikipedia.org/wiki/Some_Might_Say "wikilink")〉의 [B-사이드로](https://ko.wikipedia.org/wiki/A-사이드와_B-사이드 "wikilink") 등장했다. 이 곡의 인기는 1998년에 발매된 B-사이드 컴필레이션 음반 《[The Masterplan](../Page/The_Masterplan.md "wikilink")》에 그 밴드의 팬들에 의해 공식 웹사이트에 포함되게 했다.
+〈**Acquiesce**〉는 [노엘 갤러거가](../Page/노엘_갤러거.md "wikilink") 작곡한 [영국](../Page/영국.md "wikilink")의 록 밴드 [오아시스의](../Page/오아시스_\(밴드\).md "wikilink") 곡이다. 이 곡은 원래 1995년 4월 24일 오아시스의 첫 번째 영국 싱글 1위 〈[Some Might Say](../Page/Some_Might_Say.md "wikilink")〉의 [B-사이드로](https://ko.wikipedia.org/wiki/A-사이드와_B-사이드 "wikilink") 등장했다. 이 곡의 인기는 1998년에 발매된 B-사이드 컴필레이션 음반 《[The Masterplan](../Page/The_Masterplan.md "wikilink")》에 그 밴드의 팬들에 의해 공식 웹사이트에 포함되게 했다.
 
 1998년, 이 노래는 [미국](../Page/미국.md "wikilink")에서 《[The Masterplan](../Page/The_Masterplan.md "wikilink")》의 발표를 홍보하기 위해 라디오 싱글로 발표되었다. 이 곡은 라디오 방송으로 미국 모던 록 차트에서 24위에 올랐다.
 

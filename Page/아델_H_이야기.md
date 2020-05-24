@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ H ](https://ko.wikipedia.org/wiki/_H_).
+> This article is converted from Wikipedia: [아델 H 이야기](https://ko.wikipedia.org/wiki/아델_H_이야기).
 
 
 《**아델 H 이야기**》()는 1970년 개봉한 [프랑스](../Page/프랑스.md "wikilink")의 역사 드라마 영화이다. [프랑수아 트뤼포가](../Page/프랑수아_트뤼포.md "wikilink") 감독과 공동각본을 맡았다. 작가 [빅토르 위고의](../Page/빅토르_위고.md "wikilink") 딸 아델 위고의 일기를 원작으로 한 작품이다.

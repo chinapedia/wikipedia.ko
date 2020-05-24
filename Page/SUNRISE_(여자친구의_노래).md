@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [SUNRISE \( \)](https://ko.wikipedia.org/wiki/SUNRISE_\(_\)).
+> This article is converted from Wikipedia: [SUNRISE \(여자친구의 노래\)](https://ko.wikipedia.org/wiki/SUNRISE_\(여자친구의_노래\)).
 
 
 〈**SUNRISE**〉(선라이즈)는 [대한민국](../Page/대한민국.md "wikilink")의 [걸 그룹](../Page/걸_그룹.md "wikilink") [여자친구가](../Page/여자친구_\(음악_그룹\).md "wikilink") 일본에서 발매한 두 번째 싱글이다. 2019년 2월 13일 킹레코드를 통해 발매 되었다.

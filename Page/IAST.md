@@ -174,7 +174,7 @@ IAST（International Alphabet of Sanskrit Transliteration）는 인도([범어](
 </tbody>
 </table>
 
-## 함께보기
+## 같이 보기
 
   - [로마자 표기법](https://ko.wikipedia.org/wiki/로마자_표기법 "wikilink")
   - [국어의 로마자 표기법](../Page/국어의_로마자_표기법.md "wikilink")

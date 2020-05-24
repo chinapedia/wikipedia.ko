@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [MDN  ](https://ko.wikipedia.org/wiki/MDN__).
+> This article is converted from Wikipedia: [MDN 웹 문서](https://ko.wikipedia.org/wiki/MDN_웹_문서).
 
 
 **MDN 웹 문서**(, 이전 이름 **모질라 개발자 네트워크**(), **모질라 개발자 센터**())는 웹 표준과 모질라 프로젝트에 대한 개발 문서들이 담긴 [모질라](../Page/모질라.md "wikilink")의 공식 웹사이트이다.\[1\]

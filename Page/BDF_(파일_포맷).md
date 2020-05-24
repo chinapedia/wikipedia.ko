@@ -57,7 +57,7 @@ BDF 글꼴 파일은 세 부분으로 구성됩니다.
     ENDFONT
     </nowiki>
 
-## 함께 보기
+## 같이 보기
 
   - [PCF](https://ko.wikipedia.org/wiki/PCF_\(파일_포맷\) "wikilink")
   - [파일 형식](https://ko.wikipedia.org/wiki/파일_형식 "wikilink")

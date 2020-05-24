@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ A](https://ko.wikipedia.org/wiki/_A).
+> This article is converted from Wikipedia: [카시오페이아자리 A](https://ko.wikipedia.org/wiki/카시오페이아자리_A).
 
 
 **카시오페이아자리 A**(Cassiopeia A; Cas A)는 [카시오페이아자리](../Page/카시오페이아자리.md "wikilink")에 있는 [초신성잔해](../Page/초신성잔해.md "wikilink")(SNR)다. 주파수 1 기가헤르츠 이상 대역에서 전천에서 가장 밝은 [전파원](https://ko.wikipedia.org/wiki/전파원 "wikilink")이다. [우리 은하](https://ko.wikipedia.org/wiki/우리_은하 "wikilink") 안에 있으며 지구에서 약 11,000 광년(3.4 킬로파섹) 떨어져 있다.\[1\]\[2\] 팽창하고 있는 초신성잔해의 크기는 지구에서 보았을 때 약 10 광년(3 파섹) 정도다.

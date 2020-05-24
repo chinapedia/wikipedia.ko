@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [ STOP!  !  ](https://ko.wikipedia.org/wiki/_STOP!__!__).
+> This article is converted from Wikipedia: [문재인 STOP! 국민이 심판합니다! 규탄 대회](https://ko.wikipedia.org/wiki/문재인_STOP!_국민이_심판합니다!_규탄_대회).
 
 
 **문재인 STOP\! 국민이 심판합니다\! 규탄 대회**는 2019년 4월 20일부터 5월 25일까지 [대한민국](../Page/대한민국.md "wikilink") 여러 지역에서 개최되었던 집회로, [문재인](../Page/문재인.md "wikilink") 정부의 실정을 비판하고 경제 및 민생 문제 해결을 촉구하는 [대한민국](../Page/대한민국.md "wikilink")의 [사회 운동이다](../Page/사회_운동.md "wikilink").

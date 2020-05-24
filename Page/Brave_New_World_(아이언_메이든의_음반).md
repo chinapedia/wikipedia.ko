@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Brave New World \(  \)](https://ko.wikipedia.org/wiki/Brave_New_World_\(__\)).
+> This article is converted from Wikipedia: [Brave New World \(아이언 메이든의 음반\)](https://ko.wikipedia.org/wiki/Brave_New_World_\(아이언_메이든의_음반\)).
 
 
 《**Brave New World**》는 2000년 5월 29일 발매된 [영국](../Page/영국.md "wikilink")의 [헤비 메탈](../Page/헤비_메탈.md "wikilink") 밴드 [아이언 메이든의](../Page/아이언_메이든.md "wikilink") 열두 번째 스튜디오 음반이다. 이 음반은 오랜 기간 리드 싱어 [브루스 디킨슨](../Page/브루스_디킨슨.md "wikilink")(1993년 탈퇴)과 기타리스트 [아드리안 스미스](../Page/아드리안_스미스.md "wikilink")(1990년 탈퇴)의 복귀 이후 첫 스튜디오 발매였으며, 1990년 스미스를 대체한 [야닉 거스가](https://ko.wikipedia.org/wiki/야닉_거스 "wikilink") 밴드에 잔류하면서 밴드의 첫 스튜디오 녹음도 6부작으로 했다.

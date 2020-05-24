@@ -7,7 +7,7 @@
 
 ## 곡 목록
 
-모든 곡들은 [스티브 조던과](https://ko.wikipedia.org/wiki/스티브_조던 "wikilink") 공동 작사/작곡한 〈[Almost Hear You Sigh](https://ko.wikipedia.org/wiki/Almost_Hear_You_Sigh "wikilink")〉을 제외하고, [믹 재거와 키스 리처즈가](https://ko.wikipedia.org/wiki/재거/리처즈 "wikilink") 작사/작곡하였다.
+모든 곡들은 [스티브 조던과](../Page/스티브_조던.md "wikilink") 공동 작사/작곡한 〈[Almost Hear You Sigh](https://ko.wikipedia.org/wiki/Almost_Hear_You_Sigh "wikilink")〉을 제외하고, [믹 재거와 키스 리처즈가](https://ko.wikipedia.org/wiki/재거/리처즈 "wikilink") 작사/작곡하였다.
 
 ## 외부 링크
 

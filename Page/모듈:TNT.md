@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [:TNT](https://ko.wikipedia.org/wiki/:TNT).
+> This article is converted from Wikipedia: [모듈:TNT](https://ko.wikipedia.org/wiki/모듈:TNT).
 
 
 \-- -- INTRO: (\!\!\! DO NOT RENAME THIS PAGE \!\!\!) -- This module allows any template or module to be copy/pasted between -- wikis without any translation changes. All translation text is stored -- in the global Data:\*.tab pages on Commons, and used everywhere. -- -- SEE: <https://www.mediawiki.org/wiki/Multilingual_Templates_and_Modules> -- -- ATTENTION: -- Please do NOT rename this module - it has to be identical on all wikis. -- This code is maintained at <https://www.mediawiki.org/wiki/Module:TNT> -- Please do not modify it anywhere else, as it may get copied and override your changes. -- Suggestions can be made at <https://www.mediawiki.org/wiki/Module_talk:TNT> -- -- DESCRIPTION: -- The "msg" function uses a Commons dataset to translate a message -- with a given key (e.g. source-table), plus optional arguments -- to the wiki markup in the current content language. -- Use lang=xx to set language. Example: -- -- {{\#invoke:TNT | msg -- | I18n/Template:Graphs.tab -- | source-table -- | param1 }} -- -- -- The "doc" function will generate the <templatedata> parameter documentation for templates. -- This way all template parameters can be stored and localized in a single Commons dataset. -- NOTE: "doc" assumes that all documentation is located in <Data:Templatedata/>\* on Commons. -- -- {{\#invoke:TNT | doc | <Graph:Lines> }} -- uses <https://commons.wikimedia.org/wiki/Data:Templatedata/Graph:Lines.tab> -- if the current page is Template:<Graph:Lines/doc> --
@@ -126,6 +126,11 @@ loadData = function(dataset, lang)
 `   dataset = sanitizeDataset(dataset)`
 `   if not dataset then`
 `       error(formatMessage(i18nDataset, 'error_no_dataset', {}))`
+`   end`
+
+`   -- Give helpful error to thirdparties who try and copy this module.`
+`   if not mw.ext or not mw.ext.data or not mw.ext.data.get then`
+`       error('Missing JsonConfig extension; Cannot load `<https://commons.wikimedia.org/wiki/Data>`:' .. dataset)`
 `   end`
 
 `   local data = mw.ext.data.get(dataset, lang)`

@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [   GDP\(\)   ](https://ko.wikipedia.org/wiki/___GDP\(\)___).
+> This article is converted from Wikipedia: [과거 및 예상 GDP\(명목\)에 따른 나라 목록](https://ko.wikipedia.org/wiki/과거_및_예상_GDP\(명목\)에_따른_나라_목록).
 
 
 아래는 IMF에 의해 순위를 매긴 **과거 및 예상 [GDP](../Page/국내총생산.md "wikilink")(명목)에 따른 나라 목록**이다. 수치는 [구매력 평가](https://ko.wikipedia.org/wiki/구매력_평가 "wikilink")(PPP) 방식이 아닌 공식 [환율](../Page/환율.md "wikilink")에 기반을 둔다. 값은 백만 [미국 달러](../Page/미국_달러.md "wikilink")(USD) 기준이며 인플레이션 조정은 고려되지 않았다. 이 수치들은 [국제 통화 기금](../Page/국제_통화_기금.md "wikilink")(IMF)의 세계경제전망(WEO) 데이터베이스(2019년 4월 에디션) 및 기타 출처에 기반을 둔다.
@@ -19514,7 +19514,7 @@
 </tr>
 <tr class="even">
 <td><p>-</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/파라셀_제도" title="wikilink">파라셀 제도</a></p></td>
+<td><p><a href="../Page/파라셀_제도.md" title="wikilink">파라셀 제도</a></p></td>
 <td><p>NA</p></td>
 <td><p>1990</p></td>
 </tr>

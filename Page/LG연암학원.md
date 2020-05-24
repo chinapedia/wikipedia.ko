@@ -28,7 +28,7 @@
   - [연암대학교](../Page/연암대학교.md "wikilink") ([충청남도](https://ko.wikipedia.org/wiki/충청남도 "wikilink") [천안시](../Page/천안시.md "wikilink"))
   - [연암공과대학교](../Page/연암공과대학교.md "wikilink") ([경상남도](https://ko.wikipedia.org/wiki/경상남도 "wikilink") [진주시](https://ko.wikipedia.org/wiki/진주시 "wikilink"))
 
-## 함께 보기
+## 같이 보기
 
   - [LG연암문화재단](https://ko.wikipedia.org/wiki/LG연암문화재단 "wikilink")
   - [LG (기업)](../Page/LG_\(기업\).md "wikilink")

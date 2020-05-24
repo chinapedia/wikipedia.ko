@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [Glitter \(\)](https://ko.wikipedia.org/wiki/Glitter_\(\)).
+> This article is converted from Wikipedia: [Glitter \(사운드트랙\)](https://ko.wikipedia.org/wiki/Glitter_\(사운드트랙\)).
 
 
 《**Glitter**》는 2001년 9월 11일에 발매한 영화 [글리터](https://ko.wikipedia.org/wiki/글리터 "wikilink")의 사운드트랙 음반이자, [머라이어 캐리의](../Page/머라이어_캐리.md "wikilink") 첫 번째 사운드트랙 음반이다.

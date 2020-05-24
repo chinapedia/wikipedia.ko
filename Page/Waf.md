@@ -13,7 +13,7 @@ Waf의 소스 코드는 [New BSD License의](../Page/BSD_허가서.md "wikilink"
 
 서로 다른 기종의 [운영체제](https://ko.wikipedia.org/wiki/운영체제 "wikilink")에 대한 크로스 디벨롭먼트 툴(Cross Development Tools)로서 빌드 자동화 시스템에 강점을 가지고있다.\[3\]\[4\]
 
-## 함께보기
+## 같이 보기
 
   - [make](https://ko.wikipedia.org/wiki/make_\(소프트웨어\) "wikilink")
   - [ninja](../Page/닌자_\(빌드_시스템\).md "wikilink")

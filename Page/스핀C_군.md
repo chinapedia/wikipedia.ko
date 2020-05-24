@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [C ](https://ko.wikipedia.org/wiki/C_).
+> This article is converted from Wikipedia: [스핀C 군](https://ko.wikipedia.org/wiki/스핀C_군).
 
 
 [리 군론에서](https://ko.wikipedia.org/wiki/리_군론 "wikilink"), **스핀C 군**(spin C群, )은 [스핀 군과](https://ko.wikipedia.org/wiki/스핀_군 "wikilink") [원군](../Page/원군.md "wikilink")의 뒤틀린 곱인 [리 군이다](../Page/리_군.md "wikilink"). [미분기하학](../Page/미분기하학.md "wikilink")에서 [스핀C 다양체를](../Page/스핀C_다양체.md "wikilink") 정의할 때 쓰인다.

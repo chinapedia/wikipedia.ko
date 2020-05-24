@@ -1,4 +1,4 @@
-> This article is converted from Wikipedia: [FC  V V](https://ko.wikipedia.org/wiki/FC__V_V).
+> This article is converted from Wikipedia: [FC 서울 V맨과 V걸스](https://ko.wikipedia.org/wiki/FC_서울_V맨과_V걸스).
 
 
 FC 서울 V맨(Victory-Man)과 V걸스(Victory-Girls)는 [FC 서울](https://ko.wikipedia.org/wiki/FC_서울 "wikilink") 구단에서 운영하는 응원단의 [치어리더들이다](https://ko.wikipedia.org/wiki/치어리딩 "wikilink"). V맨과 V걸스를 합쳐서 V팀이라고도 부른다.
