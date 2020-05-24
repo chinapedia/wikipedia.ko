@@ -53,7 +53,7 @@
   - 샘 존스 (가드)
   - 감독 : 레드 아워백
 
-## 함께 보기
+## 같이 보기
 
   - [NBA 35주년 팀](https://ko.wikipedia.org/wiki/NBA_35주년_팀 "wikilink")
   - [NBA 위대한 50인 선수](../Page/NBA_위대한_50인_선수.md "wikilink")

@@ -35,7 +35,7 @@
 
 </div>
 
-## 함께 보기
+## 같이 보기
 
   - [성인 비디오](https://ko.wikipedia.org/wiki/성인_비디오 "wikilink") / [여배우](https://ko.wikipedia.org/wiki/성인_비디오_여배우 "wikilink")
   - [에비스 마스캇츠](../Page/에비스_마스캇츠.md "wikilink")

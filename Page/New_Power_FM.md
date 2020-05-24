@@ -28,4 +28,4 @@
   - 토요일 : 강지언의 마음 클일요일
   - 일요일 : 특집기획 다섯손가락
 
-[분류:대한민국의 라디오 프로그램](https://ko.wikipedia.org/wiki/분류:대한민국의_라디오_프로그램 "wikilink")
+[분류:제주방송의 라디오 프로그램](https://ko.wikipedia.org/wiki/분류:제주방송의_라디오_프로그램 "wikilink") [분류:대한민국의 라디오 프로그램](https://ko.wikipedia.org/wiki/분류:대한민국의_라디오_프로그램 "wikilink")

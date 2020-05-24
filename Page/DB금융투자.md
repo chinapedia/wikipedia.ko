@@ -17,6 +17,6 @@
 
 ## 각주
 
-<references/>
+<references />
 
 [분류:대한민국의 기업](https://ko.wikipedia.org/wiki/분류:대한민국의_기업 "wikilink") [분류:서울특별시의 기업](https://ko.wikipedia.org/wiki/분류:서울특별시의_기업 "wikilink") [분류:대한민국의 금융투자회사](https://ko.wikipedia.org/wiki/분류:대한민국의_금융투자회사 "wikilink") [국민투자금융](https://ko.wikipedia.org/wiki/분류:1982년_설립 "wikilink")

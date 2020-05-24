@@ -1,17 +1,17 @@
 > This article is converted from Wikipedia: [Galneryus](https://ko.wikipedia.org/wiki/Galneryus).
 
 
-**Galneryus**(갈네리우스)는 [일본](../Page/일본.md "wikilink")의 [오사카 시에서](https://ko.wikipedia.org/wiki/오사카_시 "wikilink") 결성된 [파워 메탈](../Page/파워_메탈.md "wikilink") 밴드이다.
+**Galneryus**(갈네리우스)는 [일본](../Page/일본.md "wikilink")의 [오사카시](../Page/오사카시.md "wikilink")에서 결성된 [파워 메탈](../Page/파워_메탈.md "wikilink") 밴드이다.
 
 ## 역사
 
 ### 1세대
 
-[2001년](../Page/2001년.md "wikilink") 당시 [비쥬얼계](https://ko.wikipedia.org/wiki/비쥬얼계 "wikilink") 밴드인 **발키리**(), **아우슈비츠**() [기타](../Page/기타.md "wikilink") 리스트인 슈와 [보컬인](https://ko.wikipedia.org/wiki/가창 "wikilink") 마사히로 야마구치를 중심으로 결성했다.\[1\]\[2\] 초창기 때 서포트 맴버와 함께 라이브 활동을 시작 했으며 같은 해 10월에 최초의 싱글 앨범이자 1000장 한정으로 판매한 UNITED FLAG를 출시했다. [2002년](../Page/2002년.md "wikilink") 8월에 IRON SHOCK 레이블에서 두 번째 싱글 앨범인 REBEL FLAG를 발표했다. [2003년](../Page/2003년.md "wikilink")에 최초로 첫 번째 정규 앨범인 The Flag Of Punishment이 출시 되었다. [2005년](../Page/2005년.md "wikilink") 3월에 두 번째 앨범이자 첫회 한정판인 Advance To The Fall이 출시 되었고 같은 해 5월 최초로 전국 투어인 REVELATION FROM THE RED SKY를 시작했다. [2006년](../Page/2006년.md "wikilink") 7월에 세 번째 앨범인 Beyond the end of Despair...을 발표한데 이어 라이브 투어인 DIE FOR REBIRHT TOUR 2006 공연을 열었다. 같은 해 11월에 최초로 라이브 앨범인 LIVE FOR REBIRTH을 발표 했지만 같은 해 12월에 [베이스](../Page/베이스_기타.md "wikilink"), [코러스를](https://ko.wikipedia.org/wiki/코러스_\(대중음악\) "wikilink") 맡았던 마츠이 료스케가 탈퇴했다.
+[2001년](../Page/2001년.md "wikilink") 당시 [비쥬얼계](https://ko.wikipedia.org/wiki/비쥬얼계 "wikilink") 밴드인 **발키리**(), **아우슈비츠**() [기타](../Page/기타.md "wikilink") 리스트인 슈와 [보컬인](../Page/가창.md "wikilink") 마사히로 야마구치를 중심으로 결성했다.\[1\]\[2\] 초창기 때 서포트 맴버와 함께 라이브 활동을 시작 했으며 같은 해 10월에 최초의 싱글 앨범이자 1000장 한정으로 판매한 UNITED FLAG를 출시했다. [2002년](../Page/2002년.md "wikilink") 8월에 IRON SHOCK 레이블에서 두 번째 싱글 앨범인 REBEL FLAG를 발표했다. [2003년](../Page/2003년.md "wikilink")에 최초로 첫 번째 정규 앨범인 The Flag Of Punishment이 출시 되었다. [2005년](../Page/2005년.md "wikilink") 3월에 두 번째 앨범이자 첫회 한정판인 Advance To The Fall이 출시 되었고 같은 해 5월 최초로 전국 투어인 REVELATION FROM THE RED SKY를 시작했다. [2006년](../Page/2006년.md "wikilink") 7월에 세 번째 앨범인 Beyond the end of Despair...을 발표한데 이어 라이브 투어인 DIE FOR REBIRHT TOUR 2006 공연을 열었다. 같은 해 11월에 최초로 라이브 앨범인 LIVE FOR REBIRTH을 발표 했지만 같은 해 12월에 [베이스](../Page/베이스_기타.md "wikilink"), [코러스를](https://ko.wikipedia.org/wiki/코러스_\(대중음악\) "wikilink") 맡았던 마츠이 료스케가 탈퇴했다.
 
 ### 2세대
 
-[2007년](../Page/2007년.md "wikilink") 2월에 [베이스](../Page/베이스_기타.md "wikilink"), [코러스를](https://ko.wikipedia.org/wiki/코러스_\(대중음악\) "wikilink") 맡았던 유토 (현 레다\[3\])가 가입했으며 같은 해 8월에 네 번째 앨범인 ONE FOR ALL - ALL FOR ONE을 발표했다. 같은 해 10월에 라이브 투어인 ONE FOR ALL\! TOUR 2007를 시작했다. [2008년](../Page/2008년.md "wikilink") 3월에 라이브 DVD 앨범인 LIVE FOR ALL - LIVE FOR ONE을 발표했다. 그와 동시에 싱글 앨범인 ALSATIA/CAUSE DISARRAY을 발표했다. 이 두 노래의 경우 [애니](https://ko.wikipedia.org/wiki/애니 "wikilink")인 [므네모시네의 딸들의](https://ko.wikipedia.org/wiki/므네모시네의_딸들 "wikilink") 오프닝과 엔딩을 동시에 수록했다. 같은 해 5월에 다섯 번째 앨범인 REINCARNATION을 발표를 했지만 같은 해 10월에 라이브 투어인 TOUR 2008 BACK TO THE FLAG를 끝으로 [보컬인](https://ko.wikipedia.org/wiki/가창 "wikilink") 마사히로 야마구치가 탈퇴하게 되었다.
+[2007년](../Page/2007년.md "wikilink") 2월에 [베이스](../Page/베이스_기타.md "wikilink"), [코러스를](https://ko.wikipedia.org/wiki/코러스_\(대중음악\) "wikilink") 맡았던 유토 (현 레다\[3\])가 가입했으며 같은 해 8월에 네 번째 앨범인 ONE FOR ALL - ALL FOR ONE을 발표했다. 같은 해 10월에 라이브 투어인 ONE FOR ALL\! TOUR 2007를 시작했다. [2008년](../Page/2008년.md "wikilink") 3월에 라이브 DVD 앨범인 LIVE FOR ALL - LIVE FOR ONE을 발표했다. 그와 동시에 싱글 앨범인 ALSATIA/CAUSE DISARRAY을 발표했다. 이 두 노래의 경우 [애니](https://ko.wikipedia.org/wiki/애니 "wikilink")인 [므네모시네의 딸들의](https://ko.wikipedia.org/wiki/므네모시네의_딸들 "wikilink") 오프닝과 엔딩을 동시에 수록했다. 같은 해 5월에 다섯 번째 앨범인 REINCARNATION을 발표를 했지만 같은 해 10월에 라이브 투어인 TOUR 2008 BACK TO THE FLAG를 끝으로 [보컬인](../Page/가창.md "wikilink") 마사히로 야마구치가 탈퇴하게 되었다.
 
 ### 3세대
 
@@ -23,7 +23,7 @@
 
   - [슈](../Page/슈_\(1980년\).md "wikilink") ([기타](../Page/기타.md "wikilink"), [코러스](https://ko.wikipedia.org/wiki/코러스_\(대중음악\) "wikilink"), 리더)
   - 유키 ([키보드](https://ko.wikipedia.org/wiki/건반_악기 "wikilink"), [해먼드 오르간](https://ko.wikipedia.org/wiki/해먼드_오르간 "wikilink"), [숄더 키보드](../Page/숄더_키보드.md "wikilink"), [코러스](https://ko.wikipedia.org/wiki/코러스_\(대중음악\) "wikilink"))
-  - [오노 마사토시](../Page/오노_마사토시.md "wikilink") ([보컬](https://ko.wikipedia.org/wiki/가창 "wikilink"))
+  - [오노 마사토시](../Page/오노_마사토시.md "wikilink") ([보컬](../Page/가창.md "wikilink"))
   - 타카 ([베이스](../Page/베이스_기타.md "wikilink"))
   - 모리시타 후미야 ([드럼](https://ko.wikipedia.org/wiki/드럼셋 "wikilink"))
 
@@ -49,7 +49,7 @@
 
 Galneryus 결성 때부터 밴드를 거쳐갔던 구성원들이다.
 
-  - 야마구치 마사히로 ([보컬](https://ko.wikipedia.org/wiki/가창 "wikilink"))
+  - 야마구치 마사히로 ([보컬](../Page/가창.md "wikilink"))
   - 마츠이 료스케 ([베이스](../Page/베이스_기타.md "wikilink"), [코러스](https://ko.wikipedia.org/wiki/코러스_\(대중음악\) "wikilink"))
   - 유토 (현 레다) ([베이스](../Page/베이스_기타.md "wikilink"), [코러스](https://ko.wikipedia.org/wiki/코러스_\(대중음악\) "wikilink"))
   - 사토 주니치 ([드럼](https://ko.wikipedia.org/wiki/드럼셋 "wikilink"))

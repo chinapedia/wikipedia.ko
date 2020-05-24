@@ -3,6 +3,8 @@
 
 **토요타 RAV4**(Toyota RAV4)는 [토요타가](../Page/토요타_자동차.md "wikilink") 제조하는 컴팩트 [SUV이며](../Page/스포츠_유틸리티_자동차.md "wikilink"), [전기 자동차](https://ko.wikipedia.org/wiki/전기_자동차 "wikilink") 버전인 [RAV4 EV도](https://ko.wikipedia.org/wiki/토요타_RAV4_EV "wikilink") 존재한다.
 
+같은 플랫폼을 쓰는 차량으로는 [토요타 해리어](../Page/토요타_해리어.md "wikilink")(3세대 이후), [렉서스 NX가](https://ko.wikipedia.org/wiki/렉서스_NX "wikilink") 있다.
+
 ## 1세대(XA10)
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:1996-1997_Toyota_RAV4_four-door_--_03-16-2012.JPG "wikilink")

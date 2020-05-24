@@ -7,44 +7,44 @@
 
 ### 코파 이탈리아 세리에 C
 
-| 연도      | 우승                                                                   | 준우승                                                                         |
-| ------- | -------------------------------------------------------------------- | --------------------------------------------------------------------------- |
-| 1972–73 | [알레산드리아](https://ko.wikipedia.org/wiki/US_알레산드리아_칼초_1912 "wikilink") | [아벨리노](https://ko.wikipedia.org/wiki/US_아벨리노 "wikilink")                    |
-| 1973–74 | [몬차](https://ko.wikipedia.org/wiki/AC_몬차_브리안차_1912 "wikilink")       | [레체](../Page/US_레체.md "wikilink")                                           |
-| 1974–75 | [몬차](https://ko.wikipedia.org/wiki/AC_몬차_브리안차_1912 "wikilink")       | [소렌토 칼초](https://ko.wikipedia.org/wiki/소렌토_칼초 "wikilink")                   |
-| 1975–76 | [US 레체](../Page/US_레체.md "wikilink")                                 | [몬차](https://ko.wikipedia.org/wiki/AC_몬차_브리안차_1912 "wikilink")              |
-| 1976–77 | [레코](https://ko.wikipedia.org/wiki/칼초_레코_1912 "wikilink")            | [산조반네세](https://ko.wikipedia.org/wiki/AC_산조반네세_1927 "wikilink")             |
-| 1977–78 | [우디네세](../Page/우디네세_칼초.md "wikilink")                                | [레지나](https://ko.wikipedia.org/wiki/레지나_칼초 "wikilink")                      |
-| 1978–79 | [시라쿠사](https://ko.wikipedia.org/wiki/US_시라쿠사 "wikilink")             | [비엘레세](https://ko.wikipedia.org/wiki/ASD_주니어_비엘레세_리베르타스 "wikilink")         |
-| 1979–80 | [파도바](../Page/칼초_파도바.md "wikilink")                                  | [살레르니타나](https://ko.wikipedia.org/wiki/살레르니타나_칼초_1919 "wikilink")           |
-| 1980–81 | [아레초](https://ko.wikipedia.org/wiki/ASD_아틀레티코_아레초 "wikilink")        | [테르나나](../Page/테르나나_칼초.md "wikilink")                                       |
-| 1981–82 | [비첸차](https://ko.wikipedia.org/wiki/비첸차_칼초 "wikilink")               | [캄포바소](https://ko.wikipedia.org/wiki/폴리스포르티바_누오보_캄포바소_칼초 "wikilink")        |
-| 1982–83 | [카라레세](https://ko.wikipedia.org/wiki/카라레세_칼초 "wikilink")             | [파노](https://ko.wikipedia.org/wiki/파노_칼초 "wikilink")                        |
-| 1983–84 | [판풀라](https://ko.wikipedia.org/wiki/AC_판풀라_1874 "wikilink")          | [안코나](https://ko.wikipedia.org/wiki/AC_안코나 "wikilink")                      |
-| 1984–85 | [카사라노](https://ko.wikipedia.org/wiki/ASD_비르투스_카사라노 "wikilink")       | [카라레세](https://ko.wikipedia.org/wiki/카라레세_칼초 "wikilink")                    |
-| 1985–86 | [비레시트 보칼레오네](https://ko.wikipedia.org/wiki/ASD_FC_알차노 "wikilink")    | [예시](https://ko.wikipedia.org/wiki/예시나_칼초 "wikilink")                       |
-| 1986–87 | [리보르노](../Page/AS_리보르노_칼초.md "wikilink")                             | [캄파니아 푸테올라나](https://ko.wikipedia.org/wiki/ASD_아틀레티코_푸테올라나_2008 "wikilink") |
-| 1987–88 | [몬차](https://ko.wikipedia.org/wiki/AC_몬차_브리안차_1912 "wikilink")       | [팔레르모](https://ko.wikipedia.org/wiki/US_팔레르모 "wikilink")                    |
-| 1988–89 | [칼리아리](../Page/칼리아리_칼초.md "wikilink")                                | [SPAL](https://ko.wikipedia.org/wiki/SPAL_1907 "wikilink")                  |
-| 1989–90 | [루케세](https://ko.wikipedia.org/wiki/AS_루케세_리베르타스 "wikilink")         | [팔레르모](https://ko.wikipedia.org/wiki/US_팔레르모 "wikilink")                    |
-| 1990–91 | [몬차](https://ko.wikipedia.org/wiki/AC_몬차_브리안차_1912 "wikilink")       | [팔레르모](https://ko.wikipedia.org/wiki/US_팔레르모 "wikilink")                    |
-| 1991–92 | [삼베네데테세](https://ko.wikipedia.org/wiki/SS_삼베네데테세_칼초 "wikilink")      | [시에나](https://ko.wikipedia.org/wiki/AC_시에나 "wikilink")                      |
-| 1992–93 | [팔레르모](https://ko.wikipedia.org/wiki/US_팔레르모 "wikilink")             | [코모](https://ko.wikipedia.org/wiki/코모_칼초_1907 "wikilink")                   |
-| 1993–94 | [트리에스티나](https://ko.wikipedia.org/wiki/US_트리에스티나 "wikilink")         | [페루자](https://ko.wikipedia.org/wiki/페루자_칼초 "wikilink")                      |
-| 1994–95 | [바레세](https://ko.wikipedia.org/wiki/AS_바레세_1910 "wikilink")          | [포를리](https://ko.wikipedia.org/wiki/AC_포를리 "wikilink")                      |
-| 1995–96 | [엠폴리](../Page/엠폴리_FC.md "wikilink")                                  | [몬차](https://ko.wikipedia.org/wiki/AC_몬차_브리안차_1912 "wikilink")              |
-| 1996–97 | [코모](https://ko.wikipedia.org/wiki/코모_칼초_1907 "wikilink")            | [노체리나](https://ko.wikipedia.org/wiki/AG_노체리나_1910 "wikilink")               |
-| 1997–98 | [알차노 비레시트](https://ko.wikipedia.org/wiki/ASD_FC_알차노 "wikilink")      | [체세나](../Page/AC_체세나.md "wikilink")                                         |
-| 1998–99 | [Spal](https://ko.wikipedia.org/wiki/SPAL_1907 "wikilink")           | [구알도](https://ko.wikipedia.org/wiki/SS_구알도 "wikilink")                      |
-| 1999–00 | [피사](https://ko.wikipedia.org/wiki/피사_칼초 "wikilink")                 | [아벨리노](../Page/AS_아벨리노_1912.md "wikilink")                                  |
-| 2000–01 | [프라토](../Page/AC_프라토.md "wikilink")                                  | [루메차네](../Page/AC_루메차네.md "wikilink")                                       |
-| 2001–02 | [알비놀레페](https://ko.wikipedia.org/wiki/UC_알비놀레페 "wikilink")           | [리보르노](../Page/AS_리보르노_칼초.md "wikilink")                                    |
-| 2002–03 | [브린디시](https://ko.wikipedia.org/wiki/FB_브린디시_1912_SD "wikilink")     | [프로 파르티아](https://ko.wikipedia.org/wiki/아우로라_프로_파트리아_1919 "wikilink")       |
-| 2003–04 | [체세나](../Page/AC_체세나.md "wikilink")                                  | [프로 파트리아](https://ko.wikipedia.org/wiki/아우로라_프로_파트리아_1919 "wikilink")       |
-| 2004–05 | [스페치아](https://ko.wikipedia.org/wiki/스페치아_칼초_1906 "wikilink")        | [프로시노네](../Page/프로시노네_칼초.md "wikilink")                                     |
-| 2005–06 | [갈리폴리](https://ko.wikipedia.org/wiki/ASD_갈리폴리_풋볼_1909 "wikilink")    | [산레메세](https://ko.wikipedia.org/wiki/US_산레메세_칼초_1904 "wikilink")            |
-| 2006–07 | [포자](https://ko.wikipedia.org/wiki/US_포자 "wikilink")                 | [쿠네오](https://ko.wikipedia.org/wiki/AC_쿠네오_1905 "wikilink")                 |
-| 2007–08 | [바사노 비르투스](../Page/바사노_비르투스_55_ST.md "wikilink")                     | [베네벤토](../Page/베네벤토_칼초.md "wikilink")                                       |
+| 연도      | 우승                                                                | 준우승                                                                         |
+| ------- | ----------------------------------------------------------------- | --------------------------------------------------------------------------- |
+| 1972–73 | [알레산드리아](../Page/US_알레산드리아_칼초_1912.md "wikilink")                 | [아벨리노](https://ko.wikipedia.org/wiki/US_아벨리노 "wikilink")                    |
+| 1973–74 | [몬차](https://ko.wikipedia.org/wiki/AC_몬차_브리안차_1912 "wikilink")    | [레체](../Page/US_레체.md "wikilink")                                           |
+| 1974–75 | [몬차](https://ko.wikipedia.org/wiki/AC_몬차_브리안차_1912 "wikilink")    | [소렌토 칼초](https://ko.wikipedia.org/wiki/소렌토_칼초 "wikilink")                   |
+| 1975–76 | [US 레체](../Page/US_레체.md "wikilink")                              | [몬차](https://ko.wikipedia.org/wiki/AC_몬차_브리안차_1912 "wikilink")              |
+| 1976–77 | [레코](https://ko.wikipedia.org/wiki/칼초_레코_1912 "wikilink")         | [산조반네세](https://ko.wikipedia.org/wiki/AC_산조반네세_1927 "wikilink")             |
+| 1977–78 | [우디네세](../Page/우디네세_칼초.md "wikilink")                             | [레지나](https://ko.wikipedia.org/wiki/레지나_칼초 "wikilink")                      |
+| 1978–79 | [시라쿠사](https://ko.wikipedia.org/wiki/US_시라쿠사 "wikilink")          | [비엘레세](https://ko.wikipedia.org/wiki/ASD_주니어_비엘레세_리베르타스 "wikilink")         |
+| 1979–80 | [파도바](../Page/칼초_파도바.md "wikilink")                               | [살레르니타나](https://ko.wikipedia.org/wiki/살레르니타나_칼초_1919 "wikilink")           |
+| 1980–81 | [아레초](https://ko.wikipedia.org/wiki/ASD_아틀레티코_아레초 "wikilink")     | [테르나나](../Page/테르나나_칼초.md "wikilink")                                       |
+| 1981–82 | [비첸차](https://ko.wikipedia.org/wiki/비첸차_칼초 "wikilink")            | [캄포바소](https://ko.wikipedia.org/wiki/폴리스포르티바_누오보_캄포바소_칼초 "wikilink")        |
+| 1982–83 | [카라레세](https://ko.wikipedia.org/wiki/카라레세_칼초 "wikilink")          | [파노](https://ko.wikipedia.org/wiki/파노_칼초 "wikilink")                        |
+| 1983–84 | [판풀라](https://ko.wikipedia.org/wiki/AC_판풀라_1874 "wikilink")       | [안코나](https://ko.wikipedia.org/wiki/AC_안코나 "wikilink")                      |
+| 1984–85 | [카사라노](https://ko.wikipedia.org/wiki/ASD_비르투스_카사라노 "wikilink")    | [카라레세](https://ko.wikipedia.org/wiki/카라레세_칼초 "wikilink")                    |
+| 1985–86 | [비레시트 보칼레오네](https://ko.wikipedia.org/wiki/ASD_FC_알차노 "wikilink") | [예시](https://ko.wikipedia.org/wiki/예시나_칼초 "wikilink")                       |
+| 1986–87 | [리보르노](../Page/AS_리보르노_칼초.md "wikilink")                          | [캄파니아 푸테올라나](https://ko.wikipedia.org/wiki/ASD_아틀레티코_푸테올라나_2008 "wikilink") |
+| 1987–88 | [몬차](https://ko.wikipedia.org/wiki/AC_몬차_브리안차_1912 "wikilink")    | [팔레르모](https://ko.wikipedia.org/wiki/US_팔레르모 "wikilink")                    |
+| 1988–89 | [칼리아리](../Page/칼리아리_칼초.md "wikilink")                             | [SPAL](https://ko.wikipedia.org/wiki/SPAL_1907 "wikilink")                  |
+| 1989–90 | [루케세](https://ko.wikipedia.org/wiki/AS_루케세_리베르타스 "wikilink")      | [팔레르모](https://ko.wikipedia.org/wiki/US_팔레르모 "wikilink")                    |
+| 1990–91 | [몬차](https://ko.wikipedia.org/wiki/AC_몬차_브리안차_1912 "wikilink")    | [팔레르모](https://ko.wikipedia.org/wiki/US_팔레르모 "wikilink")                    |
+| 1991–92 | [삼베네데테세](https://ko.wikipedia.org/wiki/SS_삼베네데테세_칼초 "wikilink")   | [시에나](https://ko.wikipedia.org/wiki/AC_시에나 "wikilink")                      |
+| 1992–93 | [팔레르모](https://ko.wikipedia.org/wiki/US_팔레르모 "wikilink")          | [코모](https://ko.wikipedia.org/wiki/코모_칼초_1907 "wikilink")                   |
+| 1993–94 | [트리에스티나](https://ko.wikipedia.org/wiki/US_트리에스티나 "wikilink")      | [페루자](https://ko.wikipedia.org/wiki/페루자_칼초 "wikilink")                      |
+| 1994–95 | [바레세](https://ko.wikipedia.org/wiki/AS_바레세_1910 "wikilink")       | [포를리](https://ko.wikipedia.org/wiki/AC_포를리 "wikilink")                      |
+| 1995–96 | [엠폴리](../Page/엠폴리_FC.md "wikilink")                               | [몬차](https://ko.wikipedia.org/wiki/AC_몬차_브리안차_1912 "wikilink")              |
+| 1996–97 | [코모](https://ko.wikipedia.org/wiki/코모_칼초_1907 "wikilink")         | [노체리나](https://ko.wikipedia.org/wiki/AG_노체리나_1910 "wikilink")               |
+| 1997–98 | [알차노 비레시트](https://ko.wikipedia.org/wiki/ASD_FC_알차노 "wikilink")   | [체세나](../Page/AC_체세나.md "wikilink")                                         |
+| 1998–99 | [Spal](https://ko.wikipedia.org/wiki/SPAL_1907 "wikilink")        | [구알도](https://ko.wikipedia.org/wiki/SS_구알도 "wikilink")                      |
+| 1999–00 | [피사](https://ko.wikipedia.org/wiki/피사_칼초 "wikilink")              | [아벨리노](../Page/AS_아벨리노_1912.md "wikilink")                                  |
+| 2000–01 | [프라토](../Page/AC_프라토.md "wikilink")                               | [루메차네](../Page/AC_루메차네.md "wikilink")                                       |
+| 2001–02 | [알비놀레페](https://ko.wikipedia.org/wiki/UC_알비놀레페 "wikilink")        | [리보르노](../Page/AS_리보르노_칼초.md "wikilink")                                    |
+| 2002–03 | [브린디시](https://ko.wikipedia.org/wiki/FB_브린디시_1912_SD "wikilink")  | [프로 파르티아](https://ko.wikipedia.org/wiki/아우로라_프로_파트리아_1919 "wikilink")       |
+| 2003–04 | [체세나](../Page/AC_체세나.md "wikilink")                               | [프로 파트리아](https://ko.wikipedia.org/wiki/아우로라_프로_파트리아_1919 "wikilink")       |
+| 2004–05 | [스페치아](https://ko.wikipedia.org/wiki/스페치아_칼초_1906 "wikilink")     | [프로시노네](../Page/프로시노네_칼초.md "wikilink")                                     |
+| 2005–06 | [갈리폴리](https://ko.wikipedia.org/wiki/ASD_갈리폴리_풋볼_1909 "wikilink") | [산레메세](https://ko.wikipedia.org/wiki/US_산레메세_칼초_1904 "wikilink")            |
+| 2006–07 | [포자](https://ko.wikipedia.org/wiki/US_포자 "wikilink")              | [쿠네오](https://ko.wikipedia.org/wiki/AC_쿠네오_1905 "wikilink")                 |
+| 2007–08 | [바사노 비르투스](../Page/바사노_비르투스_55_ST.md "wikilink")                  | [베네벤토](../Page/베네벤토_칼초.md "wikilink")                                       |
 
 ### 코파 이탈리아 레가 프로
 

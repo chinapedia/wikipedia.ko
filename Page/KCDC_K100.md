@@ -5,7 +5,7 @@
 
 ## 역사
 
-[thumb](https://ko.wikipedia.org/wiki/파일:Centre-Avia_Yakovlev_Yak-42_42385_Misko.jpg "wikilink")
+[섬네일](https://ko.wikipedia.org/wiki/파일:Centre-Avia_Yakovlev_Yak-42_42385_Misko.jpg "wikilink")
 
 1993년 12월 14일 중형항공기 개발사업 심포지엄이 열렸다. 정부의 [항공우주연구소](https://ko.wikipedia.org/wiki/항공우주연구소 "wikilink"), [대우중공업](../Page/대우중공업.md "wikilink"), [삼성항공](https://ko.wikipedia.org/wiki/삼성항공 "wikilink"), [대한항공](https://ko.wikipedia.org/wiki/대한항공 "wikilink"), [한라중공업](https://ko.wikipedia.org/wiki/한라중공업 "wikilink")이 참석해 토론했다.\[2\]
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [SEED \(콘택트 렌즈 기업\)](https://ko.wikipedia.org/wiki/SEED_\(콘택트_렌즈_기업\)).
 
 
-**주식회사 시드**(, )는 [1957년](../Page/1957년.md "wikilink")에 설립된 [콘택트 렌즈](../Page/콘택트_렌즈.md "wikilink"), [안경](../Page/안경.md "wikilink")을 제조하여, 주력 제품으로 판매하는 [일본](../Page/일본.md "wikilink")의 [기업](https://ko.wikipedia.org/wiki/기업 "wikilink")이다. 소재지는 [도쿄도](../Page/도쿄도.md "wikilink") [분쿄 구](https://ko.wikipedia.org/wiki/분쿄_구 "wikilink") [혼고이다](https://ko.wikipedia.org/wiki/혼고_\(분쿄_구\) "wikilink").
+**주식회사 시드**(, )는 [1957년](../Page/1957년.md "wikilink")에 설립된 [콘택트 렌즈](../Page/콘택트_렌즈.md "wikilink"), [안경](../Page/안경.md "wikilink")을 제조하여, 주력 제품으로 판매하는 [일본](../Page/일본.md "wikilink")의 [기업](https://ko.wikipedia.org/wiki/기업 "wikilink")이다. 소재지는 [도쿄도](../Page/도쿄도.md "wikilink") [분쿄구](../Page/분쿄구.md "wikilink") [혼고이다](https://ko.wikipedia.org/wiki/혼고_\(분쿄_구\) "wikilink").
 
 ## 개요
 
@@ -45,8 +45,8 @@
 
 ## 자회사
 
-  - 주식회사 탑 비전 ([사이타마현](https://ko.wikipedia.org/wiki/사이타마현 "wikilink") [삿테 시](https://ko.wikipedia.org/wiki/삿테_시 "wikilink") ) - 콘택트 렌즈·케어 용품 사업, 안경 사업
-  - 주식회사 시드 아이 서비스 ([도쿄도](../Page/도쿄도.md "wikilink") [분쿄 구](https://ko.wikipedia.org/wiki/분쿄_구 "wikilink")) - 콘택트 렌즈·케어 용품 사업, 안경 사업
+  - 주식회사 탑 비전 ([사이타마현](https://ko.wikipedia.org/wiki/사이타마현 "wikilink") [삿테시](../Page/삿테시.md "wikilink") ) - 콘택트 렌즈·케어 용품 사업, 안경 사업
+  - 주식회사 시드 아이 서비스 ([도쿄도](../Page/도쿄도.md "wikilink") [분쿄구](../Page/분쿄구.md "wikilink")) - 콘택트 렌즈·케어 용품 사업, 안경 사업
   - 시통 (상하이) 무역 유한 공사 ([중국](../Page/중국.md "wikilink") [상하이](https://ko.wikipedia.org/wiki/상하이 "wikilink")) - 콘택트 렌즈·케어 용품 사업, 안경 사업
   - SEED Contact Lens ASIA Pte., Ltd ([싱가포르](../Page/싱가포르.md "wikilink")) - 콘택트 렌즈·케어 용품 사업, 안경 사업
   - SEED Contact Lens Taiwan Co., Ltd (대만) - 콘택트 렌즈 사업

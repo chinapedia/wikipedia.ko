@@ -54,7 +54,8 @@ WBC 더 팰리스는 오피스텔 단지이다. 편의시설은 실내사우나,
 
   - [영화](../Page/영화.md "wikilink") - [신세계에](../Page/신세계_\(영화\).md "wikilink") 이자성([이정재](../Page/이정재_\(배우\).md "wikilink"))의 오피스텔이 나온다.
   - [드라마](https://ko.wikipedia.org/wiki/드라마 "wikilink") - [해운대 연인들에](../Page/해운대_연인들.md "wikilink") 나온다.
-  - [싸이](../Page/싸이.md "wikilink") - [대디](https://ko.wikipedia.org/wiki/대디 "wikilink")의 노래가 촬영장소에 쓰였다.
+  - [뮤직비디오](https://ko.wikipedia.org/wiki/뮤직비디오 "wikilink") - [싸이](../Page/싸이.md "wikilink") [대디](https://ko.wikipedia.org/wiki/대디 "wikilink")의 노래가 촬영장소에 쓰였다.
+  - [웹툰](../Page/웹툰.md "wikilink") [캉타우](https://ko.wikipedia.org/wiki/캉타우 "wikilink")에 나온다.
 
 ## 갤러리
 

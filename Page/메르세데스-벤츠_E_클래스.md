@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [메르세데스-벤츠 E 클래스](https://ko.wikipedia.org/wiki/메르세데스-벤츠_E_클래스).
 
 
-**메르세데스-벤츠 E 클래스**(Mercedes-Benz E-Class)는 [다임러 AG가](../Page/다임러_AG.md "wikilink") 제조하여 독일의 고급 자동차 회사인 [메르세데스-벤츠](../Page/메르세데스-벤츠.md "wikilink") 브랜드로 판매하는 준대형 승용차이다.
+**메르세데스-벤츠 E 클래스**(Mercedes-Benz E-Class)는 [다임러 AG가](../Page/다임러_AG.md "wikilink") 제조하여 독일의 프리미엄 자동차 제조사인 [메르세데스-벤츠](../Page/메르세데스-벤츠.md "wikilink") 브랜드로 판매하는 준대형 세단, 쿠페, 컨버터블, 스테이션 왜건이다.
 
 {{-}}
 
@@ -9,9 +9,7 @@
 
 ### W136
 
-[250px](https://ko.wikipedia.org/wiki/파일:Mercedes_Benz_170V_Front.jpg "wikilink") [250px](https://ko.wikipedia.org/wiki/파일:Mercedes_Benz_170V_Heck.jpg "wikilink")
-
-시대의 흐름에 맞춰 유선형 디자인을 갖췄다. [세단](https://ko.wikipedia.org/wiki/세단 "wikilink")과 [카브리올레](../Page/컨버터블.md "wikilink") 등이 있었고, [제2차 세계 대전이](../Page/제2차_세계_대전.md "wikilink") 일어나는 동안에는 생산이 중단되었다. [제2차 세계 대전이](../Page/제2차_세계_대전.md "wikilink") 끝난 후 [메르세데스-벤츠](../Page/메르세데스-벤츠.md "wikilink") 중 최초로 생산된 승용차로, [1949년](../Page/1949년.md "wikilink")에는 높은 경제성이 돋보이는 4기통 1.7ℓ 디젤 엔진이 탑재된 170D가 추가되어 인기를 얻었다.
+시대의 흐름에 맞춰 유선형 디자인을 갖췄다. [세단](https://ko.wikipedia.org/wiki/세단 "wikilink")과 [카브리올레](../Page/컨버터블.md "wikilink") 등이 있었고, [제2차 세계 대전이](../Page/제2차_세계_대전.md "wikilink") 일어나는 동안([1943년](../Page/1943년.md "wikilink")\~[1945년](../Page/1945년.md "wikilink"))에는 생산이 중단되었다. [제2차 세계 대전이](../Page/제2차_세계_대전.md "wikilink") 끝난 후 [메르세데스-벤츠](../Page/메르세데스-벤츠.md "wikilink") 중 최초로 생산된 승용차로, [1949년](../Page/1949년.md "wikilink")에는 높은 경제성이 돋보이는 4기통 1.7ℓ 디젤 엔진이 탑재된 170D가 추가되어 인기를 얻었다.
 
 {{-}}
 
@@ -93,11 +91,11 @@
 
 {{-}}
 
-### 5세대(W213/C213/S213/X213)
+### 5세대(W213/S213/C238/A238)
 
 [오른쪽](https://ko.wikipedia.org/wiki/파일:Mercedes-Benz_E_200_AVANTGARDE_Sports_\(W213\)_front.jpg "wikilink") [오른쪽](https://ko.wikipedia.org/wiki/파일:Mercedes-Benz_E_200_AVANTGARDE_Sports_\(W213\)_rear.jpg "wikilink")
 
-[2016년](../Page/2016년.md "wikilink")에 [디트로이트 모터쇼에서](https://ko.wikipedia.org/wiki/디트로이트_모터쇼 "wikilink") 공개되었다. [메르세데스-벤츠](../Page/메르세데스-벤츠.md "wikilink")의 최신 패밀리 룩이 반영된 디자인은 통일성을 강조하였다. 개별적으로 작동하는 84개의 LED를 제어하는 4개의 컨트롤 유닛을 통하여 주행 상황에 따라 상향등을 작동시켜 야간 운전을 돕는 멀티 빔 헤드 램프와 계기판과 내비게이션이 통합된 와이드스크린 콕핏이 적용되었다. E220d는 170마력 2.1ℓ 디젤 엔진에서 194마력 2.0ℓ 디젤 싱글 터보 엔진, E200은 184마력 2.0ℓ 가솔린 싱글 터보 엔진, E300은 252마력 3.5ℓ 가솔린 엔진에서 245마력 2.0ℓ 가솔린 싱글 터보 엔진으로 교체되었다. [스테이션 왜건의](../Page/스테이션_왜건.md "wikilink") 오프로드 버전인 올 터레인은 같은 해에 개최된 [파리 모터쇼에서](../Page/파리_모터쇼.md "wikilink") 공개되었다. 같은 해 [11월](../Page/11월.md "wikilink")에는 AMG E63이 공개되었다. 같은 해 말에는 [쿠페](../Page/쿠페.md "wikilink")가 공개되었는데, [C 클래스(C205)의](https://ko.wikipedia.org/wiki/메르세데스-벤츠_C_클래스#4세대\(W205/V205/S205/C205/A205\) "wikilink") 플랫폼을 이용하게 되었다. [2017년](../Page/2017년.md "wikilink")에 파리 모터쇼에서 [카브리올레도](../Page/컨버터블.md "wikilink") 공개되었다. 이후 AMG 53이 추가되었다. [대한민국에서는](../Page/BMW_5_시리즈.md "wikilink") [BMW 5 시리즈보다](../Page/BMW_5_시리즈.md "wikilink") 많이 팔리고 있는 메르세데스 벤츠의 대표적인 모델이다.
+[2016년](../Page/2016년.md "wikilink")에 [디트로이트 모터쇼에서](https://ko.wikipedia.org/wiki/디트로이트_모터쇼 "wikilink") 공개되었다. [메르세데스-벤츠](../Page/메르세데스-벤츠.md "wikilink")의 최신 패밀리 룩이 반영된 디자인은 통일성을 강조하였다. 개별적으로 작동하는 84개의 LED를 제어하는 4개의 컨트롤 유닛을 통하여 주행 상황에 따라 상향등을 작동시켜 야간 운전을 돕는 멀티 빔 헤드 램프와 계기판과 내비게이션이 통합된 와이드스크린 콕핏이 적용되었다. E220d는 170마력 2.1ℓ 디젤 엔진에서 194마력 2.0ℓ 디젤 싱글 터보 엔진, E200은 184마력 2.0ℓ 가솔린 싱글 터보 엔진, E300은 252마력 3.5ℓ 가솔린 엔진에서 245마력 2.0ℓ 가솔린 싱글 터보 엔진으로 교체되었다. [스테이션 왜건의](../Page/스테이션_왜건.md "wikilink") 오프로드 버전인 올 터레인은 같은 해에 개최된 [파리 모터쇼에서](../Page/파리_모터쇼.md "wikilink") 공개되었다. 같은 해 [11월](../Page/11월.md "wikilink")에는 AMG E63이 공개되었다. 같은 해 말에는 [쿠페](../Page/쿠페.md "wikilink")가 공개되었는데, [C 클래스(C205)의](https://ko.wikipedia.org/wiki/메르세데스-벤츠_C_클래스#4세대\(W205/V205/S205/C205/A205\) "wikilink") 플랫폼을 이용하게 되었다. [2017년](../Page/2017년.md "wikilink")에 파리 모터쇼에서 [카브리올레도](../Page/컨버터블.md "wikilink") 공개되었다. 이후 AMG 53이 추가되었다. [대한민국](../Page/대한민국.md "wikilink")에서는 [BMW 5 시리즈보다](../Page/BMW_5_시리즈.md "wikilink") 많이 팔리고 있는 [메르세데스-벤츠](../Page/메르세데스-벤츠.md "wikilink")의 대표적인 모델이다.
 
 {{-}}
 
@@ -105,4 +103,4 @@
 
   - [메르세데스-벤츠 코리아 공식 웹사이트](http://www.mercedes-benz.co.kr/)
 
-[분류:메르세데스-벤츠의 차종](https://ko.wikipedia.org/wiki/분류:메르세데스-벤츠의_차종 "wikilink") [분류:세단](https://ko.wikipedia.org/wiki/분류:세단 "wikilink") [분류:스테이션 왜건](https://ko.wikipedia.org/wiki/분류:스테이션_왜건 "wikilink") [분류:쿠페](https://ko.wikipedia.org/wiki/분류:쿠페 "wikilink") [분류:컨버터블](https://ko.wikipedia.org/wiki/분류:컨버터블 "wikilink") [분류:후륜구동](https://ko.wikipedia.org/wiki/분류:후륜구동 "wikilink") [분류:4륜구동](https://ko.wikipedia.org/wiki/분류:4륜구동 "wikilink") [분류:하이브리드 차량](https://ko.wikipedia.org/wiki/분류:하이브리드_차량 "wikilink") [분류:준대형 승용차](https://ko.wikipedia.org/wiki/분류:준대형_승용차 "wikilink") [분류:1990년대 자동차](https://ko.wikipedia.org/wiki/분류:1990년대_자동차 "wikilink") [분류:2000년대 자동차](https://ko.wikipedia.org/wiki/분류:2000년대_자동차 "wikilink") [분류:2010년대 자동차](https://ko.wikipedia.org/wiki/분류:2010년대_자동차 "wikilink") [분류:1953년 도입된 자동차](https://ko.wikipedia.org/wiki/분류:1953년_도입된_자동차 "wikilink")
+[분류:메르세데스-벤츠의 차종](https://ko.wikipedia.org/wiki/분류:메르세데스-벤츠의_차종 "wikilink") [분류:세단](https://ko.wikipedia.org/wiki/분류:세단 "wikilink") [분류:스테이션 왜건](https://ko.wikipedia.org/wiki/분류:스테이션_왜건 "wikilink") [분류:쿠페](https://ko.wikipedia.org/wiki/분류:쿠페 "wikilink") [분류:컨버터블](https://ko.wikipedia.org/wiki/분류:컨버터블 "wikilink") [분류:후륜구동](https://ko.wikipedia.org/wiki/분류:후륜구동 "wikilink") [분류:4륜구동](https://ko.wikipedia.org/wiki/분류:4륜구동 "wikilink") [분류:하이브리드 차량](https://ko.wikipedia.org/wiki/분류:하이브리드_차량 "wikilink") [분류:준대형 승용차](https://ko.wikipedia.org/wiki/분류:준대형_승용차 "wikilink") [분류:1990년대 자동차](https://ko.wikipedia.org/wiki/분류:1990년대_자동차 "wikilink") [분류:2000년대 자동차](https://ko.wikipedia.org/wiki/분류:2000년대_자동차 "wikilink") [분류:2010년대 자동차](https://ko.wikipedia.org/wiki/분류:2010년대_자동차 "wikilink") [분류:2020년대 자동차](https://ko.wikipedia.org/wiki/분류:2020년대_자동차 "wikilink") [분류:1953년 도입된 자동차](https://ko.wikipedia.org/wiki/분류:1953년_도입된_자동차 "wikilink")

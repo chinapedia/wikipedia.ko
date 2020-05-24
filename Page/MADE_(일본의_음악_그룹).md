@@ -23,7 +23,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/아키야마_타이가" title="wikilink">아키야마 타이가</a> (秋山大河)</p></td>
-<td><p>, <a href="https://ko.wikipedia.org/wiki/카나가와_현" title="wikilink">카나가와 현</a> 출신, A형</p></td>
+<td><p>, <a href="../Page/가나가와현.md" title="wikilink">가나가와현</a> 출신, A형</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/토미오카_켄토" title="wikilink">토미오카 켄토</a> (冨岡健翔)</p></td>

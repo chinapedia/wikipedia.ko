@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [SBS프리즘타워](https://ko.wikipedia.org/wiki/SBS프리즘타워).
 
 
-'''SBSBS의 모기업인 [태영건설](../Page/태영건설.md "wikilink")에서 건설했다.
+**SBS프리즘타워**()는 [서울특별시](../Page/서울특별시.md "wikilink") [마포구](../Page/마포구.md "wikilink") [상암동](https://ko.wikipedia.org/wiki/상암동 "wikilink")에 위치한 방송국 건물이며, SBS의 모기업인 [태영건설](../Page/태영건설.md "wikilink")에서 건설했다.
 
 ## 내부 시설
 

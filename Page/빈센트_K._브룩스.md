@@ -5,7 +5,7 @@
 
 ## 군 경력
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:CDT_Vincent_Brooks.jpg "wikilink") 생도 시절 빈센트 브룩스\]\] 1980년 [미국 육군사관학교를](https://ko.wikipedia.org/wiki/미국_육군사관학교 "wikilink") 졸업했다. 임관 후 [한국과](../Page/대한민국.md "wikilink") [코소보](../Page/코소보.md "wikilink") 등지에서 근무하였다. [미 태평양 육군과](../Page/미국_태평양_육군.md "wikilink") [미 중부 육군의](../Page/미국_중부_육군.md "wikilink") 사령관을 역임했다.\[1\]
+[섬네일](https://ko.wikipedia.org/wiki/파일:CDT_Vincent_Brooks.jpg "wikilink") 생도 시절 빈센트 브룩스\]\] 1980년 [미국 육군사관학교를](../Page/미국_육군사관학교.md "wikilink") 졸업했다. 임관 후 [한국과](../Page/대한민국.md "wikilink") [코소보](../Page/코소보.md "wikilink") 등지에서 근무하였다. [미 태평양 육군과](../Page/미국_태평양_육군.md "wikilink") [미 중부 육군의](../Page/미국_중부_육군.md "wikilink") 사령관을 역임했다.\[1\]
 
 ### 주한미군 사령관
 

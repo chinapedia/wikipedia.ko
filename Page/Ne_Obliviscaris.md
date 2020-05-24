@@ -15,8 +15,8 @@
 
 ## 구성원
 
-  - 팀 찰스 - [바이올린](../Page/바이올린.md "wikilink"), [보컬](https://ko.wikipedia.org/wiki/가창 "wikilink")
-  - 제노어 - [보컬](https://ko.wikipedia.org/wiki/가창 "wikilink")
+  - 팀 찰스 - [바이올린](../Page/바이올린.md "wikilink"), [보컬](../Page/가창.md "wikilink")
+  - 제노어 - [보컬](../Page/가창.md "wikilink")
   - 맷 클라빈스 - [기타](../Page/기타.md "wikilink")
   - 마르티노 가라토니 - [베이스](../Page/베이스_기타.md "wikilink")
   - 다니엘 프레슬랜드 - [드럼](https://ko.wikipedia.org/wiki/드럼셋 "wikilink")

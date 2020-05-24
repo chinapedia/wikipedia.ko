@@ -297,7 +297,7 @@
 25. [트로이의](../Page/트로이_\(음악_그룹\).md "wikilink") 멤버 [칸토](https://ko.wikipedia.org/wiki/칸토 "wikilink"), [임팩트](../Page/임팩트_\(음악_그룹\).md "wikilink") 외 55명도 앨범 참여.
 26. [JOO](https://ko.wikipedia.org/wiki/주_\(가수\) "wikilink"), [굿데이](../Page/굿데이_\(음악_그룹\).md "wikilink") 외 51명도 앨범 참여.
 27. [자이언트 핑크](https://ko.wikipedia.org/wiki/자이언트_핑크 "wikilink"),[트로이의](../Page/트로이_\(음악_그룹\).md "wikilink") 멤버 [칸토](https://ko.wikipedia.org/wiki/칸토 "wikilink"),[위너와](../Page/위너_\(음악_그룹\).md "wikilink") [사우스클럽](../Page/사우스클럽.md "wikilink")의 멤버 [남태현](../Page/남태현.md "wikilink")도 앨범 참여.
-28. [빅톤의](../Page/빅톤_\(음악_그룹\).md "wikilink") 두 멤버 [한승우](../Page/한승우_\(가수\).md "wikilink"),[최병찬](https://ko.wikipedia.org/wiki/최병찬 "wikilink"),[유니크의](../Page/유니크_\(음악_그룹\).md "wikilink") 멤버 [조승연](https://ko.wikipedia.org/wiki/조승연_\(가수\) "wikilink") 외 95명도 앨범 참여.
+28. [빅톤의](../Page/빅톤_\(음악_그룹\).md "wikilink") 두 멤버 [한승우](../Page/한승우_\(가수\).md "wikilink"),[최병찬](../Page/최병찬.md "wikilink"),[유니크의](../Page/유니크_\(음악_그룹\).md "wikilink") 멤버 [조승연](https://ko.wikipedia.org/wiki/조승연_\(가수\) "wikilink") 외 95명도 앨범 참여.
 29. [매드타운](../Page/매드타운.md "wikilink")의 멤버 [대원도](../Page/대원_\(가수\).md "wikilink") 앨범 참여.
 30. [보이스퍼](../Page/보이스퍼.md "wikilink")도 앨범 참여.
 31. 차우도 앨범 참여.

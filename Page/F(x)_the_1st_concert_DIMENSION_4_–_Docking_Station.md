@@ -64,7 +64,7 @@
 </tr>
 <tr class="odd">
 <td><p>2016년 2월 25일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/오사카_시" title="wikilink">오사카</a></p></td>
+<td><p><a href="../Page/오사카시.md" title="wikilink">오사카</a></p></td>
 <td><p>오릭스 극장</p></td>
 <td><p>통산 4,800명</p></td>
 <td></td>

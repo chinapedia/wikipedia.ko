@@ -19,7 +19,7 @@
   - 1대 : [신예리](../Page/신예리.md "wikilink"), [박진규](../Page/박진규.md "wikilink") ([2013년](../Page/2013년.md "wikilink") [9월 27일](../Page/9월_27일.md "wikilink") \~ [2018년](../Page/2018년.md "wikilink") [6월 29일](../Page/6월_29일.md "wikilink"))
   - 2대 : [신예리](../Page/신예리.md "wikilink"), [김진일](../Page/김진일.md "wikilink") (기자) ([2018년](../Page/2018년.md "wikilink") [7월 13일](../Page/7월_13일.md "wikilink") \~ **현재**)
 
-## 함께 보기
+## 같이 보기
 
   - [MBC 100분 토론](../Page/MBC_100분_토론.md "wikilink")
   - [엄경철의 심야토론](../Page/엄경철의_심야토론.md "wikilink")
@@ -29,6 +29,6 @@
 ## 외부 링크
 
   -
-[분류:JTBC의 시사교양 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:JTBC의_시사교양_텔레비전_프로그램 "wikilink") [분류:2010년대 대한민국의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:2010년대_대한민국의_텔레비전_프로그램 "wikilink")
+[분류:JTBC의 시사교양 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:JTBC의_시사교양_텔레비전_프로그램 "wikilink") [분류:2010년대 대한민국의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:2010년대_대한민국의_텔레비전_프로그램 "wikilink") [분류:2013년에 시작한 대한민국 TV 프로그램](https://ko.wikipedia.org/wiki/분류:2013년에_시작한_대한민국_TV_프로그램 "wikilink")
 
 1.

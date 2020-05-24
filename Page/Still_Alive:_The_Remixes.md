@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Still Alive: The Remixes](https://ko.wikipedia.org/wiki/Still_Alive:_The_Remixes).
 
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:Lisa_Miskovsky_2.jpg "wikilink") ***Still Alive: The Remixes***는 [EA 디지털 일루션스 크리에이티브 엔터테인먼트사에서](../Page/EA_디지털_일루션스_크리에이티브_엔터테인먼트.md "wikilink") 개발한 [액션 어드벤처](https://ko.wikipedia.org/wiki/액션_어드벤처_게임 "wikilink") [비디오 게임](../Page/비디오_게임.md "wikilink") [미러스 엣지의](../Page/미러스_엣지.md "wikilink") 테마곡 이다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:Lisa_Miskovsky_2.jpg "wikilink") ***Still Alive: The Remixes***는 [EA 디지털 일루션스 크리에이티브 엔터테인먼트사에서](../Page/EA_디지털_일루션스_크리에이티브_엔터테인먼트.md "wikilink") 개발한 [액션 어드벤처](https://ko.wikipedia.org/wiki/액션_어드벤처_게임 "wikilink") [비디오 게임](../Page/비디오_게임.md "wikilink") [미러스 엣지의](../Page/미러스_엣지.md "wikilink") 테마곡이다.
 
 ## 트랙 리스트
 

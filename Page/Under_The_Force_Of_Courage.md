@@ -9,7 +9,7 @@
 
   - [슈](../Page/슈_\(1980년\).md "wikilink") ([기타](../Page/기타.md "wikilink"), [코러스](https://ko.wikipedia.org/wiki/코러스_\(대중음악\) "wikilink"), 리더)
   - 유키 ([키보드](https://ko.wikipedia.org/wiki/건반_악기 "wikilink"), [해먼드 오르간](https://ko.wikipedia.org/wiki/해먼드_오르간 "wikilink"), [숄더 키보드](../Page/숄더_키보드.md "wikilink"), [코러스](https://ko.wikipedia.org/wiki/코러스_\(대중음악\) "wikilink"))
-  - [마사토시 오노](https://ko.wikipedia.org/wiki/마사토시_오노 "wikilink") ([보컬](https://ko.wikipedia.org/wiki/가창 "wikilink"))
+  - [마사토시 오노](https://ko.wikipedia.org/wiki/마사토시_오노 "wikilink") ([보컬](../Page/가창.md "wikilink"))
   - 타카 ([베이스](../Page/베이스_기타.md "wikilink"))
   - 주니치 사토 ([드럼](https://ko.wikipedia.org/wiki/드럼셋 "wikilink"))
 

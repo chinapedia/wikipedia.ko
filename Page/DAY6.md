@@ -428,7 +428,7 @@
 <th><p>Artist</p></th>
 <th><p>발매</p></th>
 <th><p>MV</p></th>
-<th><p>수록 앨범</p></th>
+<th><p>앨범명</p></th>
 <th><p>공급사</p></th>
 </tr>
 </thead>
@@ -1344,6 +1344,69 @@ MAJORCODE, 문상선</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/원더케이" title="wikilink">원더케이</a></p></td>
 </tr>
 <tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+### 로고송
+
+#### TV
+
+<table>
+<thead>
+<tr class="header">
+<th><p>연도</p></th>
+<th><p>방송사</p></th>
+<th><p>제목</p></th>
+<th><p>비고</p></th>
+<th><p>공급사</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><a href="https://ko.wikipedia.org/wiki/2019" title="wikilink">2019</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/EBS" title="wikilink">EBS</a></p></td>
+<td><ul>
+<li><a href="https://www.youtube.com/watch?v=mua65L0ta30">2019 EBS 로고송 "좋아" (DAY6 Ver)_SB</a></li>
+<li><a href="https://www.youtube.com/watch?v=Cmi-xPbvwzI">2019 EBS 로고송 "알려줘" (DAY6 Ver)_SB</a></li>
+</ul></td>
+<td><p>2019.03.07</p></td>
+<td><p>EBSCulture(EBS 교양)</p></td>
+</tr>
+</tbody>
+</table>
+
+#### 라디오
+
+<table>
+<thead>
+<tr class="header">
+<th><p>연도</p></th>
+<th><p>방송사</p></th>
+<th><p>프로그램</p></th>
+<th><p>제목</p></th>
+<th><p>비고</p></th>
+<th><p>공급사</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><a href="https://ko.wikipedia.org/wiki/2020" title="wikilink">2020</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/KBS_Cool_FM" title="wikilink">KBS Cool FM</a></p></td>
+<td><p>《<a href="../Page/볼륨을_높여요.md" title="wikilink">강한나의 볼륨을 높여요</a>》</p></td>
+<td><ul>
+<li><a href="https://www.youtube.com/watch?v=QdbGVZqD1b0">DAY6 (데이식스) '강한나의 볼륨을 높여요' 로고송♬</a></li>
+</ul></td>
+<td><p>2020.04.22</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/KBS_Cool_FM" title="wikilink">KBS Cool FM</a></p></td>
+</tr>
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>

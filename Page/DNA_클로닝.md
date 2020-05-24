@@ -13,7 +13,7 @@
 
 ## 출처
 
-<references/>
+<references />
 
 ## 같이 보기
 

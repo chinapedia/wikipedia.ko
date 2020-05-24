@@ -27,7 +27,7 @@
   - [정경준](https://ko.wikipedia.org/wiki/정경준 "wikilink")
   - [오수진](https://ko.wikipedia.org/wiki/오수진_\(1986년_10월\) "wikilink") : 2015.1.10 \~ 3.28
 
-## 함께 보기
+## 같이 보기
 
   - [솔로몬의 선택](../Page/솔로몬의_선택.md "wikilink"), [TV로펌 솔로몬](https://ko.wikipedia.org/wiki/TV로펌_솔로몬 "wikilink") ([SBS TV](../Page/SBS_TV.md "wikilink"), [2002년 4월](https://ko.wikipedia.org/wiki/2002년_4월 "wikilink") \~ [2009년 9월](../Page/2009년_9월.md "wikilink"))
   - [부부클리닉 사랑과 전쟁](../Page/부부클리닉_사랑과_전쟁.md "wikilink") ([KBS 2TV](https://ko.wikipedia.org/wiki/KBS_제2TV "wikilink"), [2011년](../Page/2011년.md "wikilink") [11월 11일](../Page/11월_11일.md "wikilink") \~ 현재)

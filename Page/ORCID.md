@@ -9,7 +9,7 @@ ORCID 기관은 자유롭고 독립적인 등록을 허용하는데, 이는 ORCI
 
 ## 개발과 출시
 
-ORCID는 처음에 "Open Researcher Contributor Identification Initiative"의 약자였다.\[9\] 토마스 로이터는 자신의 ResearcherID 시스템에 ORCID를 사용하기 위해 초기 버전의 소프트웨어를 개발했다.\[10\] 등록 대행 단체는 현재 2010년 8월에 설립된 독립적인 비영리기관인 ORCID, Inc.,\[11\] 이다. 대표이사 Laure Haak는 2012년 4월에 선임되었다.\[12\] ORCID는 자유롭게 사용할 수 있으며 다른 확인 시스템과 교차사용할 수 있다.\[13\] ORCID는 2012년 10월 16일에 등록 서비스를 개시하고 사용자에게 번호를 할당하기 시작했다.\[14\] 공식적으로, ORCID 번호는 URI로 구분된다.\[15\] 예를 들어, 존 윌뱅크의 ORCID는 http://orcid.org/0000-0002-4510-0385 이다.\[16\] 그러나, 몇몇 발행자들은 "ORCID: 0000-0002-4510-0385" 와 같은 더 짧은 형식을 사용한다.\[17\]\[18\]
+ORCID는 처음에 "Open Researcher Contributor Identification Initiative"의 약자였다.\[9\] 토마스 로이터는 자신의 ResearcherID 시스템에 ORCID를 사용하기 위해 초기 버전의 소프트웨어를 개발했다.\[10\] 등록 대행 단체는 현재 2010년 8월에 설립된 독립적인 비영리기관인 ORCID, Inc.,\[11\]이다. 대표이사 Laure Haak는 2012년 4월에 선임되었다.\[12\] ORCID는 자유롭게 사용할 수 있으며 다른 확인 시스템과 교차사용할 수 있다.\[13\] ORCID는 2012년 10월 16일에 등록 서비스를 개시하고 사용자에게 번호를 할당하기 시작했다.\[14\] 공식적으로, ORCID 번호는 URI로 구분된다.\[15\] 예를 들어, 존 윌뱅크의 ORCID는 http://orcid.org/0000-0002-4510-0385이다.\[16\] 그러나, 몇몇 발행자들은 "ORCID: 0000-0002-4510-0385" 와 같은 더 짧은 형식을 사용한다.\[17\]\[18\]
 
 ORCID는 [국제 표준 협회의](https://ko.wikipedia.org/wiki/ISO "wikilink") [국제 표준 이름 식별자](https://ko.wikipedia.org/wiki/ISNI "wikilink") (ISNI)의 부분집합으로, 두 개의 조직이 협력하고 있다.\[19\] ISNI는 [책](../Page/책.md "wikilink"), [텔레비전 프로그램](../Page/텔레비전_프로그램.md "wikilink"), [신문](../Page/신문.md "wikilink")의 기여자를 식별하기 위해 존재하고, ORCID가 사용하는 식별자 구역 0000-0001-5000-0007부터 0000-0003-5000-0001을\[20\] 점유하고 있다.\[21\]\[22\] 그러므로 한 명의 사람이 합법적으로 [ISNI](https://ko.wikipedia.org/wiki/ISNI "wikilink")와 ORCID를 - 엄밀히 말하자면 두 개의 ISNI를 - 모두 가질 수 있다.\[23\]\[24\]
 

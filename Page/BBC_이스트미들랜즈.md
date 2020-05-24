@@ -65,5 +65,5 @@ BBC 이스트미들랜즈는 총괄본부와 더불어, [더비](https://ko.wiki
 
 [이스트미들랜즈](https://ko.wikipedia.org/wiki/분류:BBC의_지역국 "wikilink") [분류:노팅엄의 문화](https://ko.wikipedia.org/wiki/분류:노팅엄의_문화 "wikilink") [분류:이스트미들랜즈의 대중 매체](https://ko.wikipedia.org/wiki/분류:이스트미들랜즈의_대중_매체 "wikilink") [분류:노팅엄의 단체](https://ko.wikipedia.org/wiki/분류:노팅엄의_단체 "wikilink")
 
-1.  [York House](http://www.picturethepast.org.uk/frontend.php?keywords=Ref_No_increment;EQUALS;NTGM015854&pos=2&action=zoom)
+1.
 2.  [1999년 이전 당시 사진 모음](http://www.bbc.co.uk/nottingham/content/image_galleries/40_years_of_radio_nottingham_gallery.shtml?25)

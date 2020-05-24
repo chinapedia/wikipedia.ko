@@ -28,7 +28,7 @@
 
 ## 2000년대
 
-  - 2000년 ?월 ?일 [UN](https://ko.wikipedia.org/wiki/UN_\(음악_그룹\) "wikilink") - **UNITED N-GENERATION**
+  - 2000년 ?월 ?일 [UN](../Page/UN_\(음악_그룹\).md "wikilink") - **UNITED N-GENERATION**
   - 2000년 2월 11일 임창정 - **White**
   - 2000년 11월 1일 임창정 - **www.love.7th**
   - 2001년 5월 17일 임창정 - **Hits 1st Best Album:Lim Chang Jung A To Z**

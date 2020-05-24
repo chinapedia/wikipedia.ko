@@ -58,7 +58,7 @@
 3.  "Y.M.C.A - Village People
 4.  "Can't Stop The Music - Village People
 
-## 함께 보기
+## 같이 보기
 
   - [MBC 서울국제가요제](../Page/MBC_서울국제가요제.md "wikilink")
 

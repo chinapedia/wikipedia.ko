@@ -3,7 +3,7 @@
 
 《**DOA**》는 [2006년](../Page/2006년.md "wikilink") 공개된 영화이다.
 
-## 한국어 더빙 성우진(MBC)
+## 한국어 더빙 성우진(MBC) (2008년 2월 7일)
 
   - [김지영](../Page/김지영_\(성우\).md "wikilink") - 카스미 ([데본 아오키](https://ko.wikipedia.org/wiki/데본_아오키 "wikilink"))
   - [윤성혜](https://ko.wikipedia.org/wiki/윤성혜 "wikilink") - 티나 암스트롱 ([제이미 프레슬리](https://ko.wikipedia.org/wiki/제이미_프레슬리 "wikilink"))

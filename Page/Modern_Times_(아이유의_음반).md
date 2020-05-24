@@ -9,7 +9,7 @@
 
 ## Modern Times – Epilogue
 
-**''Modern Times-Epilogue**''는 [대한민국](../Page/대한민국.md "wikilink") [여성](../Page/여성.md "wikilink") 솔로 [가수](https://ko.wikipedia.org/wiki/가수 "wikilink") [아이유](https://ko.wikipedia.org/wiki/아이유 "wikilink")의 리패키지 앨범이다. 타이틀 곡은 자작곡 \<**금요일에 만나요**\> 이다. 2013년 12월 20일 로엔 엔터테인먼트(로엔트리)에 의해 발매 되었다.
+**''Modern Times-Epilogue**''는 [대한민국](../Page/대한민국.md "wikilink") [여성](../Page/여성.md "wikilink") 솔로 [가수](https://ko.wikipedia.org/wiki/가수 "wikilink") [아이유](https://ko.wikipedia.org/wiki/아이유 "wikilink")의 리패키지 앨범이다. 타이틀 곡은 자작곡 \<**금요일에 만나요**\>이다. 2013년 12월 20일 로엔 엔터테인먼트(로엔트리)에 의해 발매 되었다.
 
 ### 트랙 리스트
 

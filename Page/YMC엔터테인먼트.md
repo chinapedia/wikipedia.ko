@@ -16,7 +16,7 @@
   - 제이켠
   - 제이요
   - [주희](../Page/주희_\(가수\).md "wikilink")
-  - [백찬](https://ko.wikipedia.org/wiki/백찬 "wikilink")
+  - [백찬](../Page/백찬.md "wikilink")
   - [슈가볼](https://ko.wikipedia.org/wiki/슈가볼 "wikilink") (고창인)
   - [배치기](../Page/배치기.md "wikilink") ([무웅](../Page/무웅.md "wikilink"), [탁](../Page/탁_\(가수\).md "wikilink"))
   - [워너원](../Page/워너원.md "wikilink")

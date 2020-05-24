@@ -166,4 +166,4 @@
 33. [015B](../Page/015B.md "wikilink")도 앨범 참여.
 34. [혁오](../Page/혁오.md "wikilink")도 앨범 참여.
 35. god의 데뷔 20주년 기념 앨범.
-36. [빅톤의](../Page/빅톤_\(음악_그룹\).md "wikilink") 두 멤버 [한승우](../Page/한승우_\(가수\).md "wikilink"),[최병찬](https://ko.wikipedia.org/wiki/최병찬 "wikilink"),[유니크의](../Page/유니크_\(음악_그룹\).md "wikilink") 멤버 [조승연](https://ko.wikipedia.org/wiki/조승연_\(가수\) "wikilink"),[인투잇](../Page/인투잇.md "wikilink")의 멤버 [성현](../Page/인투잇.md "wikilink") 외 96명도 앨범 참여.
+36. [빅톤의](../Page/빅톤_\(음악_그룹\).md "wikilink") 두 멤버 [한승우](../Page/한승우_\(가수\).md "wikilink"),[최병찬](../Page/최병찬.md "wikilink"),[유니크의](../Page/유니크_\(음악_그룹\).md "wikilink") 멤버 [조승연](https://ko.wikipedia.org/wiki/조승연_\(가수\) "wikilink"),[인투잇](../Page/인투잇.md "wikilink")의 멤버 [성현](../Page/인투잇.md "wikilink") 외 96명도 앨범 참여.

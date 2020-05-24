@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [IKON](https://ko.wikipedia.org/wiki/IKON).
 
 
-**iKON**(아이콘)은 [YG 엔터테인먼트](../Page/YG_엔터테인먼트.md "wikilink") 소속의 [대한민국](../Page/대한민국.md "wikilink") 6인조 [남성](https://ko.wikipedia.org/wiki/남성 "wikilink") [아이돌](https://ko.wikipedia.org/wiki/아이돌_가수 "wikilink") 음악 그룹이다. 멤버는 [김진환](https://ko.wikipedia.org/wiki/김진환_\(1994년\) "wikilink"), [송윤형](../Page/송윤형.md "wikilink"), [BOBBY](../Page/BOBBY.md "wikilink"), [김동혁](../Page/김동혁_\(가수\).md "wikilink"), [구준회](../Page/구준회.md "wikilink"), [정찬우로](../Page/정찬우_\(가수\).md "wikilink") 구성되어 있다. 아이콘은 'icon'과 'korea'의 합성어로 기존의 icon에서 c 대신에 k를 넣어 한국의 icon이 되라는 의미가 담겨 있다.\[1\]
+**iKON**(아이콘)은 [YG 엔터테인먼트](../Page/YG_엔터테인먼트.md "wikilink") 소속의 [대한민국](../Page/대한민국.md "wikilink") 7인조 [남성](https://ko.wikipedia.org/wiki/남성 "wikilink") [아이돌](https://ko.wikipedia.org/wiki/아이돌_가수 "wikilink") 음악 그룹이다. 멤버는 B.I, [김진환](https://ko.wikipedia.org/wiki/김진환_\(1994년\) "wikilink"), [송윤형](../Page/송윤형.md "wikilink"), [BOBBY](../Page/BOBBY.md "wikilink"), [김동혁](../Page/김동혁_\(가수\).md "wikilink"), [구준회](../Page/구준회.md "wikilink"), [정찬우로](../Page/정찬우_\(가수\).md "wikilink") 구성되어 있다. 아이콘은 'icon'과 'korea'의 합성어로 기존의 icon에서 c 대신에 k를 넣어 한국의 icon이 되라는 의미가 담겨 있다.\[1\]
 
 ## 경력
 
@@ -58,13 +58,31 @@
 |  |
 |  |
 
-### 이전 구성원
-
-|  |
-|  |
-|  |
-|  |
-|  |
+<table>
+<tbody>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>이름</p></td>
+<td></td>
+<td><p>소개</p></td>
+</tr>
+<tr class="odd">
+<td><p><strong><a href="https://ko.wikipedia.org/wiki/B.I" title="wikilink">B.I</a></strong></p></td>
+<td></td>
+<td><ul>
+<li>본명 : 김한빈</li>
+<li>생년월일 : </li>
+<li>출생지 : <a href="../Page/대한민국.md" title="wikilink">대한민국</a> <a href="https://ko.wikipedia.org/wiki/경기도" title="wikilink">경기도</a> <a href="https://ko.wikipedia.org/wiki/고양시" title="wikilink">고양시</a> <a href="../Page/일산서구.md" title="wikilink">일산서구</a></li>
+<li>학력 : <a href="../Page/대한민국의_검정고시.md" title="wikilink">고등학교 졸업학력 검정고시</a> (합격)</li>
+<li>활동기간 : <a href="../Page/2015년.md" title="wikilink">2015년</a> <a href="../Page/9월_15일.md" title="wikilink">9월 15일</a> ~ <a href="../Page/2019년.md" title="wikilink">2019년</a> <a href="../Page/6월_12일.md" title="wikilink">6월 12일</a></li>
+</ul></td>
+</tr>
+</tbody>
+</table>
 
 ## 음반 목록
 

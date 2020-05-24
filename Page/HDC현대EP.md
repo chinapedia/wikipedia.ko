@@ -43,7 +43,7 @@ HDC현대EP의 주요사업은 원유를 정제한 [나프타](../Page/나프타
 
   - [HDC현대EP](http://www.hdc-hyundaiep.com)
 
-## 함께 보기
+## 같이 보기
 
   - [HDC그룹](../Page/HDC그룹.md "wikilink")
   - [HDC현대산업개발](../Page/HDC현대산업개발.md "wikilink")

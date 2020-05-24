@@ -8,7 +8,7 @@
   - 7 번째 앨범 ([LUNACY](../Page/LUNACY.md "wikilink")」이후 13 년 5 개월 만에 발매되었으며, REBOOT 선언 후 첫 정규 앨범이다. 초회 한정반은 통상판을 포함하여 4가지 형태로 발매되었다.
   - "합숙으로 곡을 만든다'는 밴드의 원점 회귀와 같은 형태로 제작이 시작되었다. 앨범 타이틀 「A WILL」은 RYUICHI의 제안으로 명명되었으며, "미래를 향한 유서"라는 의미가 담겨있다고 한다. 싱글 중 "PROMISE", "THE ONE -crash to create-"는 본 앨범에는 수록되지 않고, 이후 2014년 5월 28일에 발매된 25주년 베스트 앨범 [LUNA SEA 25th Anniversary Ultimate Best -THE ONE-에](../Page/LUNA_SEA_25th_Anniversary_Ultimate_Best_-THE_ONE-.md "wikilink") 수록되었다.
 
-《**LUNA SEA 3D IN LOS ANGELES**》는 [LUNA SEA의](../Page/LUNA_SEA.md "wikilink") 라이브 앨범이자 동명의 3D 영화 사운드트랙 이다.
+《**LUNA SEA 3D IN LOS ANGELES**》는 [LUNA SEA의](../Page/LUNA_SEA.md "wikilink") 라이브 앨범이자 동명의 3D 영화 사운드트랙이다.
 
 ## 개요
 

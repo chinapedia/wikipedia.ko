@@ -33,7 +33,7 @@
 </tbody>
 </table>
 
-## 함께 보기
+## 같이 보기
 
   - [마이애미 FC](../Page/마이애미_FC.md "wikilink")
 

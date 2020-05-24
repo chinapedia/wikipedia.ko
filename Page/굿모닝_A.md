@@ -23,4 +23,4 @@
   - [출발 640](../Page/출발_640.md "wikilink") ([연합뉴스TV](../Page/연합뉴스TV.md "wikilink"))
   - [뉴스출발](../Page/뉴스출발.md "wikilink") ([YTN](../Page/YTN.md "wikilink"))
 
-[분류:채널A의 뉴스 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:채널A의_뉴스_텔레비전_프로그램 "wikilink") [분류:아침 정보 프로그램](https://ko.wikipedia.org/wiki/분류:아침_정보_프로그램 "wikilink") [분류:2010년대 대한민국의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:2010년대_대한민국의_텔레비전_프로그램 "wikilink")
+[분류:채널A의 뉴스 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:채널A의_뉴스_텔레비전_프로그램 "wikilink") [분류:아침 정보 프로그램](https://ko.wikipedia.org/wiki/분류:아침_정보_프로그램 "wikilink") [분류:2010년대 대한민국의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:2010년대_대한민국의_텔레비전_프로그램 "wikilink") [분류:2014년에 시작한 대한민국 TV 프로그램](https://ko.wikipedia.org/wiki/분류:2014년에_시작한_대한민국_TV_프로그램 "wikilink") [분류:2016년에 종료한 대한민국 TV 프로그램](https://ko.wikipedia.org/wiki/분류:2016년에_종료한_대한민국_TV_프로그램 "wikilink")

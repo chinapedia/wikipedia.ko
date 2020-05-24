@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [End Again](https://ko.wikipedia.org/wiki/End_Again).
 
 
-《**End Again**》은 [가인](../Page/가인.md "wikilink")의 첫번째 정규 음반으로, 2016년 9월 9일에 발매되었다. 정규 앨범은 2부작으로 구성되고, Part. 2 \[Begin Again\] 은 추후 에 공개 될 예정 이다.
+《**End Again**》은 [가인](../Page/가인.md "wikilink")의 첫번째 정규 음반으로, 2016년 9월 9일에 발매되었다. 정규 앨범은 2부작으로 구성되고, Part. 2 \[Begin Again\] 은 추후 에 공개 될 예정이다.
 
 ## 수록곡
 

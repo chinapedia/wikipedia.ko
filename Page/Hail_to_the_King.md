@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Hail to the King](https://ko.wikipedia.org/wiki/Hail_to_the_King).
 
 
-**Hail to the King**은 [미국](../Page/미국.md "wikilink")의 [헤비 메탈밴드인](../Page/헤비_메탈.md "wikilink") [어벤지드 세븐폴드의](../Page/어벤지드_세븐폴드.md "wikilink") 여섯 번째 정규 앨범이다. [뉴질랜드](../Page/뉴질랜드.md "wikilink")와 [오스트레일리아](../Page/오스트레일리아.md "wikilink")에선 [2013년](../Page/2013년.md "wikilink") [8월 23일](../Page/8월_23일.md "wikilink") 발매됐고, [아이튠즈](../Page/아이튠즈.md "wikilink")와 북미에선 같은 날인 [2013년](../Page/2013년.md "wikilink") [8월 27일에](../Page/8월_27일.md "wikilink") 발매 되었다. "Hail to the King"은 [2015년](../Page/2015년.md "wikilink") [7월](../Page/7월.md "wikilink") 탈퇴한 [에이린 일리제이의](../Page/에이린_일리제이.md "wikilink") 유일한 정규앨범이였다. 보너스 트랙으론 [더 레브의](https://ko.wikipedia.org/wiki/더_레브 "wikilink") 추모곡인 St.James 가 수록되었다.
+**Hail to the King**은 [미국](../Page/미국.md "wikilink")의 [헤비 메탈밴드인](../Page/헤비_메탈.md "wikilink") [어벤지드 세븐폴드의](../Page/어벤지드_세븐폴드.md "wikilink") 여섯 번째 정규 앨범이다. [뉴질랜드](../Page/뉴질랜드.md "wikilink")와 [오스트레일리아](../Page/오스트레일리아.md "wikilink")에선 [2013년](../Page/2013년.md "wikilink") [8월 23일](../Page/8월_23일.md "wikilink") 발매됐고, [아이튠즈](../Page/아이튠즈.md "wikilink")와 북미에선 같은 날인 [2013년](../Page/2013년.md "wikilink") [8월 27일에](../Page/8월_27일.md "wikilink") 발매 되었다. "Hail to the King"은 [2015년](../Page/2015년.md "wikilink") [7월](../Page/7월.md "wikilink") 탈퇴한 [에이린 일리제이의](../Page/에이린_일리제이.md "wikilink") 유일한 정규앨범이였다. 보너스 트랙으론 [더 레브의](../Page/더_레브.md "wikilink") 추모곡인 St.James 가 수록되었다.
 
 ## 수록곡
 

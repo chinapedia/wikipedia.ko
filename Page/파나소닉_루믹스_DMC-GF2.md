@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [파나소닉 루믹스 DMC-GF2](https://ko.wikipedia.org/wiki/파나소닉_루믹스_DMC-GF2).
 
 
-**파나소닉 루믹스 DMC-GF2**는 2010년 11월 4일에 발표된 파나소닉 gf1의 후속제품 이다.
+**파나소닉 루믹스 DMC-GF2**는 2010년 11월 4일에 발표된 파나소닉 gf1의 후속제품이다.
 
 본체 색상은 레드와 블랙 두 가지이다. 플래시를 내장한 렌즈 교환식 디지털 카메라에서는 세계 최소 최경량으로 밝혀졌다.
 

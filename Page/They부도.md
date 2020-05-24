@@ -24,13 +24,13 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/야마모토_료타" title="wikilink">야마모토 료타</a> (山本亮太)</p></td>
-<td><p>, <a href="https://ko.wikipedia.org/wiki/치바_현" title="wikilink">치바 현</a> 출신, A형</p></td>
+<td><p>, <a href="../Page/지바현.md" title="wikilink">지바현</a> 출신, A형</p></td>
 <td><p>옐로우</p></td>
 <td><p>우주Six (宇宙Six)<a href="../Page/2016년.md" title="wikilink">2016년 11일</a>11월~</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/하야시_쇼타" title="wikilink">하야시 쇼타</a> (林翔太)</p></td>
-<td><p>, <a href="https://ko.wikipedia.org/wiki/카나가와_현" title="wikilink">카나가와 현</a> 출신, A형</p></td>
+<td><p>, <a href="../Page/가나가와현.md" title="wikilink">가나가와현</a> 출신, A형</p></td>
 <td><p>레드</p></td>
 <td><p>원 우주Six (宇宙Six) 과 에코노미<a href="../Page/2016년.md" title="wikilink">2016년 11일</a>11월~<a href="../Page/2016년.md" title="wikilink">2016년</a></p>
 <p><a href="../Page/2016년.md" title="wikilink">2016년</a>~31 일</p></td>

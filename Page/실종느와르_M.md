@@ -62,7 +62,7 @@
   - [이연두](../Page/이연두.md "wikilink") : 정선미/김정희 역
   - [차수미](https://ko.wikipedia.org/wiki/차수미 "wikilink") : 장미영 역
   - [이영란](../Page/이영란_\(배우\).md "wikilink") : 오정임 역
-  - [양영조](https://ko.wikipedia.org/wiki/양영조 "wikilink") : 박광철 역
+  - [양영조](../Page/양영조.md "wikilink") : 박광철 역
   - [허준석](../Page/허준석.md "wikilink")
   - [박귀순](../Page/박귀순.md "wikilink")
   - [지성근](https://ko.wikipedia.org/wiki/지성근 "wikilink")

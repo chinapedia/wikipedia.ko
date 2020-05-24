@@ -25,6 +25,7 @@
   - TV2 Fri : [2013년](../Page/2013년.md "wikilink") 개국
   - TV2 News : [2006년](../Page/2006년.md "wikilink") 개국
   - TV2 Sport : [2015년](../Page/2015년.md "wikilink") 개국
+  - TV2 Sport X : [2020년](../Page/2020년.md "wikilink") 개국
 
 ### 없어진 채널
 

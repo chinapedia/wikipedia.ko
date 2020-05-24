@@ -5,7 +5,7 @@
 
 ## 수록곡
 
-모든 가사는 [엠 섀도우스가](https://ko.wikipedia.org/wiki/엠_섀도우스 "wikilink") 썼으며, 모든음악 작곡은 [더 레브가](https://ko.wikipedia.org/wiki/더_레브 "wikilink") 하였다.
+모든 가사는 [엠 섀도우스가](https://ko.wikipedia.org/wiki/엠_섀도우스 "wikilink") 썼으며, 모든음악 작곡은 [더 레브가](../Page/더_레브.md "wikilink") 하였다.
 
 ## 구성
 
@@ -13,7 +13,7 @@
 
   - [엠 섀도우스](https://ko.wikipedia.org/wiki/엠_섀도우스 "wikilink") - [리드 보컬](https://ko.wikipedia.org/wiki/리드_보컬 "wikilink")
   - [잭키 벤젠스](https://ko.wikipedia.org/wiki/잭키_벤젠스 "wikilink") - [기타](../Page/기타.md "wikilink"),베킹 보컬
-  - [더 레브](https://ko.wikipedia.org/wiki/더_레브 "wikilink") - [드럼](https://ko.wikipedia.org/wiki/드럼 "wikilink"),베킹 보컬
+  - [더 레브](../Page/더_레브.md "wikilink") - [드럼](https://ko.wikipedia.org/wiki/드럼 "wikilink"),베킹 보컬
   - 저스틴 세인 - [베이스](https://ko.wikipedia.org/wiki/베이스 "wikilink")
 
 **세션 뮤지션**

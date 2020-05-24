@@ -52,7 +52,7 @@
 
 <references/>
 
-## 함께 보기
+## 같이 보기
 
   - [한국 프로 야구 개인 통산 최다 홈런](https://ko.wikipedia.org/wiki/한국_프로_야구_개인_통산_최다_홈런 "wikilink")
   - [한국 프로 야구 홈런 관련 기록](https://ko.wikipedia.org/wiki/한국_프로_야구_홈런_관련_기록 "wikilink")

@@ -1788,7 +1788,7 @@
 
 <references/>
 
-## 함께 보기
+## 같이 보기
 
   - [KBS 초록동요제](../Page/KBS_초록동요제.md "wikilink")
   - [KBS 창작동요대회](../Page/KBS_창작동요대회.md "wikilink")

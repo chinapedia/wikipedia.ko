@@ -53,7 +53,7 @@
 ## 외부 링크
 
   - [업프런트 워크스 음반 목록](https://web.archive.org/web/20070714093315/http://www.up-front-works.jp/discography/zetima/99/a_02/)
-  - [헬로\! 프로젝트 공식 사이트 발매 정보](http://helloproject.com/release/detail/EPCE-5462/)
+  - [헬로\! 프로젝트 공식 사이트 발매 정보](https://web.archive.org/web/20160402220923/http://www.helloproject.com/release/detail/EPCE-5462/)
 
 {{℃-ute}}
 

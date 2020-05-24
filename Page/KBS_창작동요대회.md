@@ -1757,6 +1757,7 @@ KBS가 1993년에 예산 제작비 문제등으로 《[노래는 내친구](http
 <li>방영일: <a href="../Page/1996년.md" title="wikilink">1996년</a> <a href="../Page/8월_31일.md" title="wikilink">8월 31일</a> 토요일 오후 5:20 <a href="../Page/KBS부산방송총국.md" title="wikilink">KBS부산 1TV</a></li>
 <li>녹화일: <a href="../Page/1996년.md" title="wikilink">1996년</a> <a href="../Page/8월_20일.md" title="wikilink">8월 20일</a> 화요일 오후 7:00</li>
 <li>장소: <a href="https://ko.wikipedia.org/wiki/KBS_부산방송총국" title="wikilink">KBS 부산홀</a></li>
+<li>사회: <a href="../Page/한상권_(방송인).md" title="wikilink">한상권</a>, <a href="https://ko.wikipedia.org/wiki/선우경" title="wikilink">선우경</a></li>
 </ul>
 <hr />
 <ul>

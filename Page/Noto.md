@@ -1160,7 +1160,7 @@ Bold</p></td>
 </tbody>
 </table>
 
-## 함께보기
+## 같이 보기
 
   - [백묵글꼴](https://ko.wikipedia.org/wiki/백묵글꼴 "wikilink")
   - [은 글꼴](https://ko.wikipedia.org/wiki/은_글꼴 "wikilink")

@@ -9,7 +9,7 @@
 
 [UGM-27C 폴라리스 A-3가](https://ko.wikipedia.org/wiki/폴라리스_미사일 "wikilink") 무게 16.2톤, 2단 고체로켓, 무게 117 kg, 폭발력 200 kt인 [W58](https://ko.wikipedia.org/wiki/W58 "wikilink") 핵탄두 3발을 탑재했는데, 포세이돈 C3는 무게 29.2톤, 2단 고체로켓으로, 무게 166 kg, 폭발력 40 kt인 [W68](https://ko.wikipedia.org/wiki/W68 "wikilink") 핵탄두 14발을 탑재했다. 무게가 2배 가까이 늘어났으며, 더 많은 핵탄두를, 더 정확한 [CEP](https://ko.wikipedia.org/wiki/CEP "wikilink") 오차를 갖게끔 개선되었다.
 
-[W68](https://ko.wikipedia.org/wiki/W68 "wikilink") 핵탄두 10발 탑재시 사거리 5900 km, [W68](https://ko.wikipedia.org/wiki/W68 "wikilink") 핵탄두 14발 탑재시 사거리 4600 km 이다.
+[W68](https://ko.wikipedia.org/wiki/W68 "wikilink") 핵탄두 10발 탑재시 사거리 5900 km, [W68](https://ko.wikipedia.org/wiki/W68 "wikilink") 핵탄두 14발 탑재시 사거리 4600 km이다.
 
 고체연료 보일러에서 고압의 스팀을 분출하여 잠수함에서 포세이돈 미사일을 발사하면, 잠수함의 10 m 위에서 자동으로 메인 로켓 모터가 점화된다.
 

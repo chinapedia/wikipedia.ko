@@ -22,7 +22,7 @@
   -
 ## 각주
 
-## 함께 보기
+## 같이 보기
 
   - [WebGL](../Page/WebGL.md "wikilink")
   - [HTML5](../Page/HTML5.md "wikilink")

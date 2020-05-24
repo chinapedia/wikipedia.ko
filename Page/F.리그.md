@@ -14,7 +14,7 @@
 | [페스카돌라 마치다](https://ko.wikipedia.org/wiki/페스카돌라_마치다 "wikilink")     | 1999년 | [마치다](https://ko.wikipedia.org/wiki/마치다_시 "wikilink")        |
 | [쇼난 벨마레](https://ko.wikipedia.org/wiki/쇼난_벨마레_\(풋살\) "wikilink")    | 2007년 | [히라쓰카](https://ko.wikipedia.org/wiki/히라쓰카_시 "wikilink")      |
 | [아글레이미나 하마마쓰](https://ko.wikipedia.org/wiki/아글레이미나_하마마쓰 "wikilink") | 1996년 | [하마마쓰](https://ko.wikipedia.org/wiki/하마마쓰_시 "wikilink")      |
-| [슈리커 오사카](https://ko.wikipedia.org/wiki/슈리커_오사카 "wikilink")         | 2002년 | [오사카](https://ko.wikipedia.org/wiki/오사카_시 "wikilink")        |
+| [슈리커 오사카](https://ko.wikipedia.org/wiki/슈리커_오사카 "wikilink")         | 2002년 | [오사카](../Page/오사카시.md "wikilink")                            |
 | [데우손 고베](https://ko.wikipedia.org/wiki/데우손_고베 "wikilink")           | 1993년 | [고베](https://ko.wikipedia.org/wiki/고베_시 "wikilink")          |
 | [바사지 오이타](https://ko.wikipedia.org/wiki/바사지_오이타 "wikilink")         | 2003년 | [오이타](https://ko.wikipedia.org/wiki/오이타_시 "wikilink")        |
 | [보스쿠오레 센다이](https://ko.wikipedia.org/wiki/보스쿠오레_센다이 "wikilink")     | 2012년 | [센다이](https://ko.wikipedia.org/wiki/센다이_시 "wikilink")        |

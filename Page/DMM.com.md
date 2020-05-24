@@ -17,7 +17,7 @@
 
 <references/>
 
-## 함께 보기
+## 같이 보기
 
   - [비디오 대여](https://ko.wikipedia.org/wiki/비디오_대여 "wikilink")
 

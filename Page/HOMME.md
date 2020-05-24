@@ -63,4 +63,4 @@
 ## 외부 링크
 
   -
-[분류:XTM의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:XTM의_텔레비전_프로그램 "wikilink") [분류:2000년대 대한민국의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:2000년대_대한민국의_텔레비전_프로그램 "wikilink") [분류:2010년대 대한민국의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:2010년대_대한민국의_텔레비전_프로그램 "wikilink") [분류:대한민국의 텔레비전 버라이어티 쇼](https://ko.wikipedia.org/wiki/분류:대한민국의_텔레비전_버라이어티_쇼 "wikilink")
+[분류:XTM의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:XTM의_텔레비전_프로그램 "wikilink") [분류:2000년대 대한민국의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:2000년대_대한민국의_텔레비전_프로그램 "wikilink") [분류:2010년대 대한민국의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:2010년대_대한민국의_텔레비전_프로그램 "wikilink") [분류:대한민국의 텔레비전 버라이어티 쇼](https://ko.wikipedia.org/wiki/분류:대한민국의_텔레비전_버라이어티_쇼 "wikilink") [분류:2014년에 시작한 대한민국 TV 프로그램](https://ko.wikipedia.org/wiki/분류:2014년에_시작한_대한민국_TV_프로그램 "wikilink") [분류:2014년에 종료한 대한민국 TV 프로그램](https://ko.wikipedia.org/wiki/분류:2014년에_종료한_대한민국_TV_프로그램 "wikilink")

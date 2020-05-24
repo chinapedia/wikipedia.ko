@@ -19,5 +19,5 @@
 
 1.  MySQL 5.5 Reference Manual: [12.2.9.3 Index Hint Syntax](http://dev.mysql.com/doc/refman/5.5/en/index-hints.html)
 2.  [Mike Ault](https://ko.wikipedia.org/wiki/Mike_Ault "wikilink"): [Oracle SQL Hints Tuning](http://www.dba-oracle.com/t_sql_hints_tuning.htm)
-3.  [Postgres Plus Advanced Server Performance and Scalability Guide: Query Optimization Hints](http://www.enterprisedb.com/docs/en/9.2/perffeat/Postgres_Plus_Advanced_Server_Performance_Guide-33.htm)
+3.
 4.

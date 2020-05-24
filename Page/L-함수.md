@@ -21,7 +21,7 @@
 
 많은 그럴 듯한 추측, 예를 들어 확인가능한 유형의 함수 방정식에 대한 연구가 이루어져 왔다. 리만 제타 함수는 양의 짝수 (및 음의 홀수)에서의 값과 [베르누이 수를](../Page/베르누이_수.md "wikilink") 연결시켜 주기 때문에, 이 현상의 적절한 일반화를 찾고 있다. 이 경우에는 [p진수 L-함수](https://ko.wikipedia.org/wiki/p진수_L-함수 "wikilink")([p-adic](https://ko.wikipedia.org/wiki/p진수 "wikilink") L-function)가 특정 [갈루아 모듈](https://ko.wikipedia.org/wiki/갈루아_모듈 "wikilink")(Galois module)을 묘사한다고 알려져 있다.
 
-[영점의](https://ko.wikipedia.org/wiki/리만_제타_함수#영점 "wikilink") [분포는](https://ko.wikipedia.org/wiki/리만가설#영점의_계산 "wikilink") 흥미로운 주제로, 일반화된 리만 가설, 소수의 분포 뿐만 아니라 [난수 행렬 이론과](https://ko.wikipedia.org/wiki/random_matrix "wikilink") [양자 혼돈과도](https://ko.wikipedia.org/wiki/quantum_chaos "wikilink") 연결되어 있다. 그 프랙털 구조는 정적인 [재설정 범위에](https://ko.wikipedia.org/wiki/재설정_범위 "wikilink") 관한 분석(rescaled range analysis)에서 이를 통해 연구되어 왔다.\[2\] 또한 그 [자기 유사성은](https://ko.wikipedia.org/wiki/자기닮음 "wikilink") 아주 놀라운 특징으로 [프랙털 차원이](https://ko.wikipedia.org/wiki/프랙털_차원 "wikilink") 1.9 이다. 이 큰 프랙털 차원은 [위수 (order)](https://ko.wikipedia.org/wiki/위수_\(수학\) "wikilink") 크기 15 이내의 리만 제타 함수의 영점에서 발견되며, 그 이상의 위수(order) 또는 그와 다른 [인도자(conductor)를](https://ko.wikipedia.org/wiki/모듈러스_\(수론\)#인도자 "wikilink") 갖는 L-함수와도 관계가 있다.
+[영점의](https://ko.wikipedia.org/wiki/리만_제타_함수#영점 "wikilink") [분포는](https://ko.wikipedia.org/wiki/리만가설#영점의_계산 "wikilink") 흥미로운 주제로, 일반화된 리만 가설, 소수의 분포 뿐만 아니라 [난수 행렬 이론과](https://ko.wikipedia.org/wiki/random_matrix "wikilink") [양자 혼돈과도](https://ko.wikipedia.org/wiki/quantum_chaos "wikilink") 연결되어 있다. 그 프랙털 구조는 정적인 [재설정 범위에](https://ko.wikipedia.org/wiki/재설정_범위 "wikilink") 관한 분석(rescaled range analysis)에서 이를 통해 연구되어 왔다.\[2\] 또한 그 [자기 유사성은](https://ko.wikipedia.org/wiki/자기닮음 "wikilink") 아주 놀라운 특징으로 [프랙털 차원이](https://ko.wikipedia.org/wiki/프랙털_차원 "wikilink") 1.9이다. 이 큰 프랙털 차원은 [위수 (order)](https://ko.wikipedia.org/wiki/위수_\(수학\) "wikilink") 크기 15 이내의 리만 제타 함수의 영점에서 발견되며, 그 이상의 위수(order) 또는 그와 다른 [인도자(conductor)를](https://ko.wikipedia.org/wiki/모듈러스_\(수론\)#인도자 "wikilink") 갖는 L-함수와도 관계가 있다.
 
 ## 버치-스위너턴다이어 추측
 
@@ -31,7 +31,7 @@
 
 [랭글랜즈 프로그램이](https://ko.wikipedia.org/wiki/랭글랜즈_프로그램 "wikilink") L-함수 이론 등장 몇 년 후 그 보강으로 나타났다. 랭글랜즈의 작업은 수십 년 전에 정의된 [헤케 L-함수처럼](../Page/헤케_지표.md "wikilink") [알틴 L-함수와](../Page/아르틴_L-함수.md "wikilink") 일반화된 [자기동형 형식과](../Page/보형_형식.md "wikilink") 결부된 *L*-함수와 관련이 있다. 이후 [하세-베유 제타 함수가](../Page/하세-베유_제타_함수.md "wikilink") 해석적 관점에서 정확한 L-함수를 제공하는 방법으로 구축된다는 것이 명확해졌다. 즉 자기동형 사상과 관련되는 방식이어야 한다는 것이다. 일반적으로는 다수의 다른 연구 프로그램을 개념 수준에서 통합한다.
 
-## 함께보기
+## 같이 보기
 
   - [일반화 리만 가설](https://ko.wikipedia.org/wiki/일반화_리만_가설 "wikilink")
   - [디리클레 L-함수](../Page/디리클레_L-함수.md "wikilink")

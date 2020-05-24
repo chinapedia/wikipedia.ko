@@ -45,7 +45,7 @@ NCT 127은 [엠넷 아시안 뮤직 어워드](https://ko.wikipedia.org/wiki/엠
 
 ### 2020: NCT 127 정규 2집 및 NCT DREAM 미니앨범 활동 그리고 NCT 127 리패키지 활동
 
-[NCT 127은](https://ko.wikipedia.org/wiki/NCT_127 "wikilink") [2020년](../Page/2020년.md "wikilink") [3월 6일](../Page/3월_6일.md "wikilink") 두 번째 정규앨범 《NCT \#127- Neo Zone》으로 컴백을 하였다. 그 전날인 [2020년](../Page/2020년.md "wikilink") [3월 5일에](../Page/3월_5일.md "wikilink") 타이틀곡인 영웅 (英雄; Kick It)의 정식 뮤직비디오를 공개하였다. [2020년](../Page/2020년.md "wikilink") [4월 14일](../Page/4월_14일.md "wikilink") [NCT DREAM이](https://ko.wikipedia.org/wiki/NCT_DREAM "wikilink") 졸업제도를 없앤다는 것이 [SM 엔터테인먼트로](../Page/SM_엔터테인먼트.md "wikilink") 부터 밝혀졌고 [4월 29일](../Page/4월_29일.md "wikilink") 《Reload》로 컴백을 앞두고 있다. 그 뒤에는 [NCT DREAM의](https://ko.wikipedia.org/wiki/NCT_DREAM "wikilink") 이름을 유지하며 [NCT U의](https://ko.wikipedia.org/wiki/NCT_U "wikilink") 체제로 졸업을 했던 [마크](../Page/마크.md "wikilink")도 합류하여 활동할 계획이다. 그리고 2020년 5월 [NCT 127이](https://ko.wikipedia.org/wiki/NCT_127 "wikilink") 리패키지 앨범으로 컴백을 앞두고 있다.
+[NCT 127은](https://ko.wikipedia.org/wiki/NCT_127 "wikilink") [2020년](../Page/2020년.md "wikilink") [3월 6일](../Page/3월_6일.md "wikilink") 두 번째 정규앨범 《NCT \#127- Neo Zone》으로 컴백을 하였다. 그 전날인 [2020년](../Page/2020년.md "wikilink") [3월 5일에](../Page/3월_5일.md "wikilink") 타이틀곡인 영웅 (英雄; Kick It)의 정식 뮤직비디오를 공개하였다. [2020년](../Page/2020년.md "wikilink") [4월 14일](../Page/4월_14일.md "wikilink") [NCT DREAM이](https://ko.wikipedia.org/wiki/NCT_DREAM "wikilink") 졸업제도를 없앤다는 것이 [SM 엔터테인먼트로](../Page/SM_엔터테인먼트.md "wikilink") 부터 밝혀졌고 [4월 29일](../Page/4월_29일.md "wikilink") 《Reload》로 컴백하였다. 그 뒤에는 [NCT DREAM의](https://ko.wikipedia.org/wiki/NCT_DREAM "wikilink") 이름을 유지하며 [NCT U의](https://ko.wikipedia.org/wiki/NCT_U "wikilink") 체제로 졸업을 했던 [마크](../Page/마크.md "wikilink")도 합류하여 활동할 계획이다. 그리고 2020년 5월 19일 [NCT 127이](https://ko.wikipedia.org/wiki/NCT_127 "wikilink") 리패키지 앨범 《NCT \#127 Neo Zone: The Final Round》으로 컴백을 앞두고 있다.
 
 ## 구성원
 
@@ -92,7 +92,7 @@ NCT 127은 [엠넷 아시안 뮤직 어워드](https://ko.wikipedia.org/wiki/엠
 <td><ul>
 <li>본명 : 나카모토 유타 ([44])</li>
 <li>생년월일 : </li>
-<li>출생지 : <a href="../Page/일본.md" title="wikilink">일본</a> <a href="https://ko.wikipedia.org/wiki/오사카_부" title="wikilink">오사카 부</a></li>
+<li>출생지 : <a href="../Page/일본.md" title="wikilink">일본</a> <a href="../Page/오사카부.md" title="wikilink">오사카부</a></li>
 <li>유닛그룹 : <a href="https://ko.wikipedia.org/wiki/NCT_127" title="wikilink">NCT 127</a></li>
 <li>활동기간 : <a href="../Page/2016년.md" title="wikilink">2016년</a> <a href="../Page/7월_7일.md" title="wikilink">7월 7일</a> ~ 현재</li>
 </ul></td>
@@ -120,7 +120,7 @@ NCT 127은 [엠넷 아시안 뮤직 어워드](https://ko.wikipedia.org/wiki/엠
 <tr class="odd">
 <td><p><strong><a href="../Page/텐_(가수).md" title="wikilink">텐</a></strong></p></td>
 <td><ul>
-<li>본명 : 치따폰리차이야폰꾼 ()</li>
+<li>본명 : 치따폰 리차이야폰꾼 ()</li>
 <li>생년월일 : </li>
 <li>출생지 : <a href="../Page/태국.md" title="wikilink">태국</a> <a href="../Page/방콕.md" title="wikilink">방콕</a></li>
 <li>유닛그룹 : <a href="https://ko.wikipedia.org/wiki/NCT_U" title="wikilink">NCT U</a>, <a href="../Page/WayV.md" title="wikilink">WayV</a>, <a href="https://ko.wikipedia.org/wiki/SuperM" title="wikilink">SuperM</a></li>
@@ -334,17 +334,17 @@ NCT 127은 [엠넷 아시안 뮤직 어워드](https://ko.wikipedia.org/wiki/엠
 
 ### NCT 127 JAPAN Showcase Tour "Chain"
 
-| <font size=2>|개최일               | <font size=2>|도시                                                                 | <font size=2>|국가                     | <font size=2>|개최지                        |
-| ------------------------------- | -------------------------------------------------------------------------------- | ------------------------------------ | ---------------------------------------- |
-| <font size=2>|2018년 4월 2일 (1회)  | <font size=2> rowspan=2 |[복강](https://ko.wikipedia.org/wiki/후쿠오카 "wikilink")     | <font size=2> rowspan=9 |            | <font size=2> rowspan=2 |후쿠오카 국제회의장 메인 홀 |
-| <font size=2>|2018년 4월 2일 (2회)  |                                                                                  |                                      |                                          |
-| <font size=2>|2018년 4월 6일 (1회)  | <font size=2> rowspan=2 |[대판](https://ko.wikipedia.org/wiki/대판 "wikilink")       | <font size=2> rowspan=2 |Zepp Osaka  |                                          |
-| <font size=2>|2018년 4월 6일 (2회)  |                                                                                  |                                      |                                          |
-| <font size=2>|2018년 4월 5일 (1회)  | <font size=2> rowspan=2 |[나고야 시](https://ko.wikipedia.org/wiki/나고야_시 "wikilink") | <font size=2> rowspan=2 |Zepp Nagoya |                                          |
-| <font size=2>|2018년 4월 5일 (2회)  |                                                                                  |                                      |                                          |
-| <font size=2>|2018년 5월 19일      | <font size=2> rowspan=3 |[동경](../Page/도쿄.md "wikilink")                          | <font size=2> rowspan=3 |토요스 PIT     |                                          |
-| <font size=2>|2018년 5월 20일 (1회) |                                                                                  |                                      |                                          |
-| <font size=2>|2018년 5월 20일 (2회) |                                                                                  |                                      |                                          |
+| <font size=2>|개최일               | <font size=2>|도시                                                             | <font size=2>|국가                     | <font size=2>|개최지                        |
+| ------------------------------- | ---------------------------------------------------------------------------- | ------------------------------------ | ---------------------------------------- |
+| <font size=2>|2018년 4월 2일 (1회)  | <font size=2> rowspan=2 |[복강](https://ko.wikipedia.org/wiki/후쿠오카 "wikilink") | <font size=2> rowspan=9 |            | <font size=2> rowspan=2 |후쿠오카 국제회의장 메인 홀 |
+| <font size=2>|2018년 4월 2일 (2회)  |                                                                              |                                      |                                          |
+| <font size=2>|2018년 4월 6일 (1회)  | <font size=2> rowspan=2 |[대판](https://ko.wikipedia.org/wiki/대판 "wikilink")   | <font size=2> rowspan=2 |Zepp Osaka  |                                          |
+| <font size=2>|2018년 4월 6일 (2회)  |                                                                              |                                      |                                          |
+| <font size=2>|2018년 4월 5일 (1회)  | <font size=2> rowspan=2 |[나고야시](../Page/나고야시.md "wikilink")                  | <font size=2> rowspan=2 |Zepp Nagoya |                                          |
+| <font size=2>|2018년 4월 5일 (2회)  |                                                                              |                                      |                                          |
+| <font size=2>|2018년 5월 19일      | <font size=2> rowspan=3 |[동경](../Page/도쿄.md "wikilink")                      | <font size=2> rowspan=3 |토요스 PIT     |                                          |
+| <font size=2>|2018년 5월 20일 (1회) |                                                                              |                                      |                                          |
+| <font size=2>|2018년 5월 20일 (2회) |                                                                              |                                      |                                          |
 
 ## 수상 및 후보
 

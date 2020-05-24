@@ -187,7 +187,7 @@
 37. [씨엔블루](../Page/씨엔블루.md "wikilink")의 멤버 [강민혁](../Page/강민혁_\(가수\).md "wikilink"), [펜타곤의](../Page/펜타곤_\(음악_그룹\).md "wikilink") 두 멤버 [후이](../Page/후이.md "wikilink"), [우석도](../Page/우석_\(가수\).md "wikilink") 앨범 참여.
 38. [정승환](https://ko.wikipedia.org/wiki/정승환_\(가수\) "wikilink"),[비스트와](../Page/비스트_\(음악_그룹\).md "wikilink") [하이라이트의](../Page/하이라이트_\(음악_그룹\).md "wikilink") 멤버 [양요섭](../Page/양요섭.md "wikilink")도 앨범 참여.
 39. [박명수](../Page/박명수.md "wikilink")도 앨범 참여.
-40. [빅톤의](../Page/빅톤_\(음악_그룹\).md "wikilink") 두 멤버 [한승우](../Page/한승우_\(가수\).md "wikilink"),[최병찬](https://ko.wikipedia.org/wiki/최병찬 "wikilink"),[유니크의](../Page/유니크_\(음악_그룹\).md "wikilink") 멤버 [조승연](https://ko.wikipedia.org/wiki/조승연_\(가수\) "wikilink"),[인투잇](../Page/인투잇.md "wikilink")의 멤버 [성현](../Page/인투잇.md "wikilink") 외 96명도 앨범 참여.
+40. [빅톤의](../Page/빅톤_\(음악_그룹\).md "wikilink") 두 멤버 [한승우](../Page/한승우_\(가수\).md "wikilink"),[최병찬](../Page/최병찬.md "wikilink"),[유니크의](../Page/유니크_\(음악_그룹\).md "wikilink") 멤버 [조승연](https://ko.wikipedia.org/wiki/조승연_\(가수\) "wikilink"),[인투잇](../Page/인투잇.md "wikilink")의 멤버 [성현](../Page/인투잇.md "wikilink") 외 96명도 앨범 참여.
 41. [유재환](../Page/유재환.md "wikilink")도 앨범 참여.
 42. [러블리즈](../Page/러블리즈.md "wikilink")도 앨범 참여.
 43. [퀸덤](https://ko.wikipedia.org/wiki/퀸덤 "wikilink") 파이널 경연 곡

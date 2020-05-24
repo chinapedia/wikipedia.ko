@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [BABA B1A4 2](https://ko.wikipedia.org/wiki/BABA_B1A4_2).
 
 
-**BABA B1A4 2**는 [2011년](../Page/2011년.md "wikilink")부터 방영된 [BABA B1A4에](https://ko.wikipedia.org/wiki/BABA_B1A4 "wikilink") 이은 [B1A4](../Page/B1A4.md "wikilink")의 두 번째 단편 리얼리티이다. 시즌 1이 [곰TV](../Page/곰TV.md "wikilink")에서 공개되었으나, 본 시즌은 [멜론](https://ko.wikipedia.org/wiki/멜론_\(웹사이트\) "wikilink") 공식 채널에서 공개된다. [2015년](../Page/2015년.md "wikilink") [6월 30일](../Page/6월_30일.md "wikilink") Ep. 1을 공개한 후 현재까지 차례차례 공개하고 있다. [공개 채널](http://www.melon.com/artist/video.htm?artistId=535440#params%5BlistType%5D=ETC&params%5BorderBy%5D=ISSUE_DATE&params%5BartistId%5D=535440&po=pageObj&startIndex=1)
+**BABA B1A4 2**는 [2011년](../Page/2011년.md "wikilink")부터 방영된 [BABA B1A4에](https://ko.wikipedia.org/wiki/BABA_B1A4 "wikilink") 이은 [B1A4](../Page/B1A4.md "wikilink")의 두 번째 단편 리얼리티이다. 시즌 1이 [곰TV](../Page/곰TV.md "wikilink")에서 공개되었으나, 본 시즌은 [멜론](https://ko.wikipedia.org/wiki/멜론_\(웹사이트\) "wikilink") 공식 채널에서 공개된다. [2015년](../Page/2015년.md "wikilink") [6월 30일](../Page/6월_30일.md "wikilink") Ep. 1을 공개한 후 현재까지 차례차례 공개하고 있다. [공개 채널](https://web.archive.org/web/20150722190015/http://www.melon.com/artist/video.htm?artistId=535440#params%5BlistType%5D=ETC&params%5BorderBy%5D=ISSUE_DATE&params%5BartistId%5D=535440&po=pageObj&startIndex=1)
 
 ## 출연
 
@@ -24,7 +24,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="http://vod.melon.com/video/detail2.htm?mvId=50137287&amp;menuId=60030101">Ep.01 Ah!</a></p></td>
+<td><p><a href="https://web.archive.org/web/20150722202128/http://vod.melon.com/video/detail2.htm?mvId=50137287&amp;menuId=60030101">Ep.01 Ah!</a></p></td>
 <td><p><a href="../Page/6월_30일.md" title="wikilink">6월 30일</a></p></td>
 <td><p>전원</p></td>
 <td><ul>
@@ -33,7 +33,7 @@
 </ul></td>
 </tr>
 <tr class="even">
-<td><p><a href="http://vod.melon.com/video/detail2.htm?mvId=50137342&amp;menuId=60030101">Ep.02 How to take a Selfie</a></p></td>
+<td><p><a href="https://web.archive.org/web/20150722190019/http://vod.melon.com/video/detail2.htm?mvId=50137342&amp;menuId=60030101">Ep.02 How to take a Selfie</a></p></td>
 <td><p><a href="../Page/7월_1일.md" title="wikilink">7월 1일</a></p></td>
 <td><p><a href="../Page/공찬.md" title="wikilink">공찬</a></p></td>
 <td><ul>
@@ -42,7 +42,7 @@
 </ul></td>
 </tr>
 <tr class="odd">
-<td><p><a href="http://vod.melon.com/video/detail2.htm?mvId=50138051&amp;ref=twitter">Ep.03 What's Happening?</a></p></td>
+<td><p><a href="https://web.archive.org/web/20150722194545/http://vod.melon.com/video/detail2.htm?mvId=50138051&amp;ref=twitter">Ep.03 What's Happening?</a></p></td>
 <td><p><a href="../Page/7월_22일.md" title="wikilink">7월 22일</a></p></td>
 <td><p>전원</p></td>
 <td><ul>
@@ -67,7 +67,7 @@
 </ul></td>
 </tr>
 <tr class="even">
-<td><p><a href="http://vod.melon.com/video/detail2.htm?mvId=50138750&amp;menuId=27040101">Ep.06 MV Behind Clip</a></p></td>
+<td><p><a href="https://web.archive.org/web/20160304224120/http://vod.melon.com/video/detail2.htm?mvId=50138750&amp;menuId=27040101">Ep.06 MV Behind Clip</a></p></td>
 <td><p><a href="../Page/8월_12일.md" title="wikilink">8월 12일</a></p></td>
 <td><p>전원</p></td>
 <td><ul>

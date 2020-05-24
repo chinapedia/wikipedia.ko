@@ -92,8 +92,8 @@
 <td><p><a href="../Page/아베_아란.md" title="wikilink">아베 아란</a> (阿部顕嵐)</p></td>
 <td></td>
 <td><p>도쿄 도</p></td>
-<td><p>A型</p></td>
-<td><p>동생조[9], <a href="https://ko.wikipedia.org/wiki/Love-tune" title="wikilink">Love-tune</a>과 겸임하다가 탈퇴.[10][11]</p></td>
+<td><p>A형</p></td>
+<td><p>동생조[9], <a href="../Page/Love-tune.md" title="wikilink">Love-tune</a>과 겸임하다가 탈퇴.[10][11]</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/나카다_히로키" title="wikilink">나카다 히로키</a> (仲田拡輝)</p></td>

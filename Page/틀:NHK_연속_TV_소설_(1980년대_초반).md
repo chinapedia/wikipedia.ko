@@ -230,7 +230,7 @@
 <td><p><strong>마음은 언제나 레몬 빛</strong><br />
 (心はいつもラムネ色)</p></td>
 <td><p>1984년 10월 1일</p></td>
-<td><p>오사카 부 <a href="https://ko.wikipedia.org/wiki/오사카_시" title="wikilink">오사카 시</a><br />
+<td><p>오사카 부 <a href="../Page/오사카시.md" title="wikilink">오사카시</a><br />
 도쿄 도</p></td>
 <td><p>오사카</p></td>
 <td><p>도미카와 모토후미<br />

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [채널A 뉴스뱅크](https://ko.wikipedia.org/wiki/채널A_뉴스뱅크).
 
 
-《**채널A 뉴스뱅크**》는 [대한민국](../Page/대한민국.md "wikilink")에서 일요일 오후 4시 20분에 [텔레비전](../Page/텔레비전.md "wikilink")으로 방송했던 [채널A](../Page/채널A.md "wikilink")의 일요일 오후[뉴스](../Page/뉴스.md "wikilink") 프로그램 이다.
+《**채널A 뉴스뱅크**》는 [대한민국](../Page/대한민국.md "wikilink")에서 일요일 오후 4시 20분에 [텔레비전](../Page/텔레비전.md "wikilink")으로 방송했던 [채널A](../Page/채널A.md "wikilink")의 일요일 오후[뉴스](../Page/뉴스.md "wikilink") 프로그램이다.
 
 ## 방송 시간
 

@@ -63,7 +63,7 @@ iPS 세포([유도만능줄기세포](../Page/유도만능줄기세포.md "wikil
 
 ## 각주
 
-<references/>
+<references />
 
 ## 외부 링크
 

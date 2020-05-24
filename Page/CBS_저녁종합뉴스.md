@@ -7,7 +7,7 @@
 
 ## 진행
 
-  - [김윤주](https://ko.wikipedia.org/wiki/김윤주_\(아나운서\) "wikilink") 아나운서(여)
+  - [이지민](https://ko.wikipedia.org/wiki/이지민 "wikilink") 아나운서(여)
 
 ## 지역 방송국 프로그램
 

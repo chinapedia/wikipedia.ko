@@ -103,7 +103,7 @@
 
 ## 각주
 
-<references/>
+<references />
 
 [분류:2012년 음반](https://ko.wikipedia.org/wiki/분류:2012년_음반 "wikilink") [분류:리타 오라의 음반](https://ko.wikipedia.org/wiki/분류:리타_오라의_음반 "wikilink") [분류:영어 음반](https://ko.wikipedia.org/wiki/분류:영어_음반 "wikilink") [분류:댄스 팝 음반](https://ko.wikipedia.org/wiki/분류:댄스_팝_음반 "wikilink") [분류:컬럼비아 레코드 음반](https://ko.wikipedia.org/wiki/분류:컬럼비아_레코드_음반 "wikilink") [분류:팝 음반](https://ko.wikipedia.org/wiki/분류:팝_음반 "wikilink") [분류:영국의 음반](https://ko.wikipedia.org/wiki/분류:영국의_음반 "wikilink") [분류:2012년 데뷔 음반](https://ko.wikipedia.org/wiki/분류:2012년_데뷔_음반 "wikilink")
 

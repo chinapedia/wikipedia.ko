@@ -72,6 +72,6 @@
 
   - [2TV 아침 홈페이지](http://www.kbs.co.kr/2tv/sisa/morning)
 
-[분류:한국방송공사의 시사교양 프로그램](https://ko.wikipedia.org/wiki/분류:한국방송공사의_시사교양_프로그램 "wikilink") [분류:아침 정보 프로그램](https://ko.wikipedia.org/wiki/분류:아침_정보_프로그램 "wikilink")
+[분류:한국방송공사의 시사교양 프로그램](https://ko.wikipedia.org/wiki/분류:한국방송공사의_시사교양_프로그램 "wikilink") [분류:아침 정보 프로그램](https://ko.wikipedia.org/wiki/분류:아침_정보_프로그램 "wikilink") [분류:2015년에 시작한 대한민국 TV 프로그램](https://ko.wikipedia.org/wiki/분류:2015년에_시작한_대한민국_TV_프로그램 "wikilink") [분류:2016년에 종료한 대한민국 TV 프로그램](https://ko.wikipedia.org/wiki/분류:2016년에_종료한_대한민국_TV_프로그램 "wikilink")
 
 1.  단, [월요일](../Page/월요일.md "wikilink")에는 [김현경](https://ko.wikipedia.org/wiki/김현경 "wikilink") 기자 대신 [최규식](https://ko.wikipedia.org/wiki/최규식 "wikilink") 기자가 출연한다.

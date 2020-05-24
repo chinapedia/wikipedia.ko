@@ -120,7 +120,7 @@
 
 ## 각주
 
-## 함께 보기
+## 같이 보기
 
   - [tvN 월화드라마](https://ko.wikipedia.org/wiki/tvN_월화드라마 "wikilink")
   - [tvN 수목드라마](https://ko.wikipedia.org/wiki/tvN_수목드라마 "wikilink")

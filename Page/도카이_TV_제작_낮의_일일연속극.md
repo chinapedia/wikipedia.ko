@@ -1,7 +1,9 @@
 > This article is converted from Wikipedia: [도카이 TV 제작 낮의 일일연속극](https://ko.wikipedia.org/wiki/도카이_TV_제작_낮의_일일연속극).
 
 
-**도카이 TV 제작 낮의 일일연속극**은 [도카이 TV가](../Page/도카이_TV.md "wikilink") 제작 한 다음 [후지 TV에서](../Page/후지_TV.md "wikilink") 월요일부터 금요일 13시 대 후반에 방송되는 [일일연속극](https://ko.wikipedia.org/wiki/일일연속극 "wikilink") 시리즈 프레임의 하나.
+**도카이 TV 제작 낮의 일일연속극**은 [도카이 TV가](../Page/도카이_TV.md "wikilink") 제작됐던 다음 [후지 TV에서](../Page/후지_TV.md "wikilink") 월요일부터 금요일 13시대 후반에 방송되는 [일일연속극](https://ko.wikipedia.org/wiki/일일연속극 "wikilink") 시리즈 프레임의 하나.
+
+1964년부터 2016년 3월까지 수많은 작품을 인기를 얻었으나, 2010년대 이후에 쇠퇴하면서, 2016년 4월 이후에 폐지되었다.
 
 ## 방송 작품 일람
 
@@ -707,7 +709,7 @@
 <tr class="even">
 <td><p>214</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/폭풍_눈물_~_우리에게_내일은있다_~" title="wikilink">폭풍 눈물 ~ 우리에게 내일은있다 ~</a>[2]</p></td>
-<td><p>2016년 2월 1일 - (예정)</p></td>
+<td><p>2016년 2월 1일 - 2016년 3월 31일</p></td>
 <td><p><a href="../Page/사토_에리코.md" title="wikilink">사토 에리코</a>, <a href="https://ko.wikipedia.org/wiki/타쿠마_타카유키" title="wikilink">타쿠마 타카유키</a>, <a href="https://ko.wikipedia.org/wiki/엔도_쿠미코" title="wikilink">엔도 쿠미코</a>, <a href="../Page/류_라이타.md" title="wikilink">류 라이타</a></p></td>
 <td><p>텔레팩</p></td>
 </tr>

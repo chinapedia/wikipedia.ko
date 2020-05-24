@@ -10,7 +10,7 @@
 <!-- end list -->
 
   -
-    [이바라키현](../Page/이바라키현.md "wikilink") [히타치 시](https://ko.wikipedia.org/wiki/히타치_시 "wikilink") 출신. 본명은 키미코(季美子). 보컬, 작곡, 모든 곡의 작사를 담당.
+    [이바라키현](../Page/이바라키현.md "wikilink") [히타치시](../Page/히타치시.md "wikilink") 출신. 본명은 키미코(季美子). 보컬, 작곡, 모든 곡의 작사를 담당.
     주로 [펜더 재규어를](https://ko.wikipedia.org/wiki/펜더_재규어 "wikilink") 애용하고 있다.
 
 <!-- end list -->
@@ -29,7 +29,7 @@
 <!-- end list -->
 
   -
-    [니가타현](../Page/니가타현.md "wikilink") [시바타 시](https://ko.wikipedia.org/wiki/시바타_시 "wikilink") 출신.
+    [니가타현](../Page/니가타현.md "wikilink") [시바타시](../Page/시바타시.md "wikilink") 출신.
     [Musicians Institute Japan](https://ko.wikipedia.org/wiki/Musicians_Institute_Japan "wikilink") 졸업.
 
 <!-- end list -->

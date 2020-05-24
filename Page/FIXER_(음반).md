@@ -11,7 +11,7 @@
 
 ## 각주
 
-<references/>
+<references />
 
 [분류:나카모리 아키나의 음반](https://ko.wikipedia.org/wiki/분류:나카모리_아키나의_음반 "wikilink") [분류:2015년 음반](https://ko.wikipedia.org/wiki/분류:2015년_음반 "wikilink")
 

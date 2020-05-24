@@ -3,7 +3,7 @@
 
 《****》는 [1991년](../Page/1991년.md "wikilink") 개봉한 [미국의](https://ko.wikipedia.org/wiki/미국_영화 "wikilink") [스릴러](../Page/스릴러.md "wikilink") 영화이다. [존 F. 케네디 암살 사건을](https://ko.wikipedia.org/wiki/존_F._케네디_암살_사건 "wikilink") 짐 개리슨 검사의 시선에서 따라가는 영화로, 그의 논픽션 책 《JFK: 케네디 대통령 암살의 진상》을 기반으로 했다. [케빈 코스트너가](../Page/케빈_코스트너.md "wikilink") 개리슨 검사를 연기했다.
 
-## 한국어 더빙 성우진(KBS)
+## 한국어 더빙 성우진(KBS) (1995년 2월 27일)
 
   - [양지운](../Page/양지운.md "wikilink") - 짐 개리슨([케빈 코스트너](../Page/케빈_코스트너.md "wikilink"))
   - [설영범](../Page/설영범.md "wikilink") - 클레이 쇼([토미 리 존스](../Page/토미_리_존스.md "wikilink"))

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [LG G3 카테고리 6](https://ko.wikipedia.org/wiki/LG_G3_카테고리_6).
 
 
-**LG G3캡 6**()는 [LG전자](../Page/LG전자.md "wikilink")가 제조/판매하는 [구글 안드로이드](https://ko.wikipedia.org/wiki/구글_안드로이드 "wikilink") [패블릿](../Page/패블릿.md "wikilink") [스마트폰](../Page/스마트폰.md "wikilink")이다. 5.5[인치](https://ko.wikipedia.org/wiki/인치 "wikilink") Quad HD [IPS](https://ko.wikipedia.org/wiki/IPS "wikilink") 디스플레이를 탑재하였다. CPU는 [퀄컴](../Page/퀄컴.md "wikilink") 스냅드래곤 805에 LTE-A를 지원한다. [2014년](../Page/2014년.md "wikilink") [7월 25일에](../Page/7월_25일.md "wikilink") 대한민국에 출시하였으며, 8월 26일에 와인, 8월 29일에 문 바이올렛 색상을 추가로 출시했다.\[1\]
+**LG G3캡 6**()는 [LG전자](../Page/LG전자.md "wikilink")가 제조/판매하는 [구글 안드로이드](https://ko.wikipedia.org/wiki/구글_안드로이드 "wikilink") [패블릿](../Page/패블릿.md "wikilink") [스마트폰](../Page/스마트폰.md "wikilink")이다. 5.5[인치](https://ko.wikipedia.org/wiki/인치 "wikilink") Quad HD [IPS](https://ko.wikipedia.org/wiki/IPS "wikilink") 디스플레이를 탑재하였다. CPU는 [퀄컴](../Page/퀄컴.md "wikilink") 스냅드래곤 805에 LTE-A를 지원한다. [2014년](../Page/2014년.md "wikilink") [7월 25일에](../Page/7월_25일.md "wikilink") [대한민국](../Page/대한민국.md "wikilink")에 출시하였으며, 8월 26일에 와인, 8월 29일에 문 바이올렛 색상을 추가로 출시했다.\[1\]
 
 ## 운영체제/소프트웨어
 

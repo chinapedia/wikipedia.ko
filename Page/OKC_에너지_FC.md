@@ -37,7 +37,7 @@
 
   - [FC 댈러스](../Page/FC_댈러스.md "wikilink") (프리스코, 텍사스)
 
-## 함께 보기
+## 같이 보기
 
   - [오클라호마시티 FC](https://ko.wikipedia.org/wiki/오클라호마시티_FC "wikilink") ([북미 축구 리그](https://ko.wikipedia.org/wiki/북미_축구_리그 "wikilink"))
 

@@ -85,7 +85,7 @@
 
 ## 각주
 
-<references/>
+<references />
 
 [분류:신화의 콘서트 투어](https://ko.wikipedia.org/wiki/분류:신화의_콘서트_투어 "wikilink") [분류:2007년 콘서트 투어](https://ko.wikipedia.org/wiki/분류:2007년_콘서트_투어 "wikilink")
 

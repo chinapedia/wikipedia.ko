@@ -13,81 +13,81 @@
 
 ## 발간 브랜드
 
-| 호수  | 다룬 브랜드                                                                          | 상세       | 국적   |
-| --- | ------------------------------------------------------------------------------- | -------- | ---- |
-| 1호  | [프라이탁](../Page/프라이탁.md "wikilink") (FREITAG)                                    | 가방       | 스위스  |
-| 2호  | [뉴발란스](../Page/뉴발란스.md "wikilink") (NEW BALANCE)                                | 신발       | 미국   |
-| 3호  | 스노우피크 (SNOW PEAK)                                                               | 캠핑용품     | 일본   |
-| 4호  | [라미](../Page/라미.md "wikilink") (LAMY)                                           | 문구       | 독일   |
-| 5호  | [브롬톤](https://ko.wikipedia.org/wiki/브롬튼_자전거 "wikilink") (BROMPTON)              | 자전거      | 영국   |
-| 6호  | 러쉬 (LUSH)                                                                       | 바디용품     | 영국   |
-| 7호  | 스타우브 (STAUB)                                                                    | 식기       | 프랑스  |
-| 8호  | [레이벤](https://ko.wikipedia.org/wiki/레이벤 "wikilink") (RAY-BAN)                   | 안경       | 미국   |
-| 9호  | [화요](https://ko.wikipedia.org/wiki/화요 "wikilink") (HWAYO)                       | 주류       | 한국   |
-| 10호 | 펭귄 (PENGUIN)                                                                    | 도서       | 영국   |
-| 11호 | 인텔리젠시아 (INTELLIGENTSIA)                                                         | 카페       | 미국   |
-| 12호 | [캐나다 구스](https://ko.wikipedia.org/wiki/캐나다_구스 "wikilink") (CANADA GOOSE)        | 의류       | 캐나다  |
-| 13호 | [레고](../Page/레고.md "wikilink") (LEGO)                                           | 장난감      | 덴마크  |
-| 14호 | BIC                                                                             | 문구       | 프랑스  |
-| 15호 | 죠셉죠셉 (JOSEPH JOSEPH)                                                            | 식기       | 영국   |
-| 16호 | 이솝 (AESOP)                                                                      | 화장품      | 호주   |
-| 17호 | 포터 (PORTER)                                                                     | 가방       | 일본   |
-| 18호 | 하바이아나스 (HAVAIANAS)                                                              | 신발       | 브라질  |
-| 19호 | [툴레](../Page/툴레.md "wikilink") (THULE)                                          | 아웃도어 캐리어 | 스웨덴  |
-| 20호 | [기네스](../Page/기네스.md "wikilink") (GUINNES)                                      | 맥주       | 아일랜드 |
-| 21호 | [윌슨](https://ko.wikipedia.org/wiki/윌슨_스포츠_용품 "wikilink") (WILSON)               | 스포츠 용품   | 미국   |
-| 22호 | 비브람 (VIBRAM)                                                                    | 아웃솔      | 이탈리아 |
-| 23호 | [아우디](../Page/아우디.md "wikilink") (AUDI)                                         | 자동차      | 독일   |
-| 24호 | 레페토 (REPETTO)                                                                   | 신발       | 프랑스  |
-| 25호 | [순토](https://ko.wikipedia.org/wiki/순토 "wikilink") (SUUNTO)                      | 시계       | 핀란드  |
-| 26호 | 한사토이 (HANSATOYS)                                                                | 인형       | 호주   |
-| 27호 | [챔피언스리그](https://ko.wikipedia.org/wiki/챔피언스리그 "wikilink") (CHAMPIONS LEAGUE)    | 스포츠      | 유럽   |
-| 28호 | [구글](../Page/구글.md "wikilink") (GOOGLE)\[7\]                                    | IT       | 미국   |
-| 29호 | 에이스 호텔 (ACE HOTEL)                                                              | 호텔       | 미국   |
-| 30호 | [ECM](https://ko.wikipedia.org/wiki/ECM_레코드 "wikilink")                         | 음반 레이블   | 독일   |
-| 31호 | 딥디크 (DIPTYQUE)                                                                  | 향수       | 프랑스  |
-| 32호 | 리모와 (RIMOWA)                                                                    | 가방       | 독일   |
-| 33호 | 비트라 (VITRA)                                                                     | 가구       | 스위스  |
-| 34호 | [라이카](../Page/라이카_\(사진기\).md "wikilink")                                        | 카메라      | 독일   |
-| 35호 | [헬베티카](../Page/헬베티카.md "wikilink")                                              | 서체       | 스위스  |
-| 36호 | [나스](https://ko.wikipedia.org/wiki/나스_\(화장품\) "wikilink")                       | 화장품      | 프랑스  |
-| 37호 | [츠타야](https://ko.wikipedia.org/wiki/츠타야 "wikilink")                             | 서점       | 일본   |
-| 38호 | [파타고니아 (기업)](https://ko.wikipedia.org/wiki/파타고니아_\(기업\) "wikilink") (PATAGONIA) | 의류       | 미국   |
-| 39호 | 브레빌 (BREVILLE)                                                                  | 가전제품     | 호주   |
-| 40호 | 산 펠레그리노 (SAN PELLEGRINO)                                                        | 탄산수      | 이탈리아 |
-| 41호 | [롤렉스](../Page/롤렉스.md "wikilink") (ROLEX)                                        | 시계       | 스위스  |
-| 42호 | [스타워즈](../Page/스타워즈.md "wikilink") (STAR WARS)                                  | 영화       | 미국   |
-| 43호 | [베를린](../Page/베를린.md "wikilink") (Berlin)                                       | 도시       | 독일   |
-| 44호 | [반스](../Page/반스_\(기업\).md "wikilink") (Vans)                                    | 신발       | 미국   |
-| 45호 | 록시땅 (Loccitane)                                                                 | 화장품      | 프랑스  |
-| 46호 | [팬톤](../Page/팬톤.md "wikilink") (Pantone)                                        | 색채       | 미국   |
-| 47호 | [하겐다즈](https://ko.wikipedia.org/wiki/하겐다즈 "wikilink") (Häagen-Dazs)             | 아이스크림    | 미국   |
-| 48호 | [에어비앤비](../Page/에어비앤비.md "wikilink") (AirBnB)                                   | 숙박공유서비스  | 미국   |
-| 50호 | [서울](https://ko.wikipedia.org/wiki/서울 "wikilink") (Seoul)                       | 도시       | 한국   |
-| 51호 | 미스터 포터 (MR PORTER)                                                              | 쇼핑       | 영국   |
-| 52호 | 위워크 (WEWORK)                                                                    | 워크스페이스   | 미국   |
-| 53호 | [무인양품](../Page/무인양품.md "wikilink") (MUJI)                                       | 생활 잡화    | 일본   |
-| 54호 | 메종 마르지엘라 (Maison Margiela)                                                      | 패션       | 프랑스  |
-| 55호 | [애플 뮤직](../Page/애플_뮤직.md "wikilink") (Apple Music)                              | 모바일 서비스  | 미국   |
-| 56호 | [미쉐린 가이드](../Page/미쉐린_가이드.md "wikilink") (Michelin Guide)                       | 도서       | 프랑스  |
-| 57호 | 발뮤다 (Balmuda)                                                                   | 가전제품     | 일본   |
-| 58호 | [포틀랜드](https://ko.wikipedia.org/wiki/포틀랜드_\(오리건_주\) "wikilink") (Portland)      | 도시       | 미국   |
-| 59호 | 대너 (Danner)                                                                     | 신발       | 미국   |
-| 60호 | 모노클 (MONOCLE)                                                                   | 도서       | 영국   |
-| 61호 | [아크네 스튜디오](https://ko.wikipedia.org/wiki/아크네_스튜디오 "wikilink") (Acne Studios)    | 패션       | 스웨덴  |
-| 62호 | 몰스킨 ([MOLESKINE](http://magazine-b.com/moleskine/))                             | 문구       | 이탈리아 |
-| 63호 | 이케아 ([IKEA](http://magazine-b.com/ikea/))                                       | 가구       | 스웨덴  |
-| 64호 | 모스콧 (MOSCOT)                                                                    | 안경       | 미국   |
-| 65호 | 르 라보(LE LABO)                                                                   | 향수       | 프랑스  |
-| 66호 | 호시노야(HOSHINOYA)                                                                 | 호텔       | 일본   |
-| 67호 | 교토(KYOTO)                                                                       | 도시       | 일본   |
-| 68호 | 인스타그램(INSTAGRAM)                                                                | 모바일 서비스  | 미국   |
-| 69호 | 메종 키츠네(MAISON KITSUNE)                                                          | 패션       | 프랑스  |
-| 70호 | [포르쉐](../Page/포르쉐.md "wikilink")([PORSCHE](http://magazine-b.com/porsche/))     | 자동차      | 독일   |
-| 71호 | [DJI](https://ko.wikipedia.org/wiki/DJI "wikilink")                             | 무인 항공기   | 중국   |
-| 72호 | HAY                                                                             | 라이프스타일   | 덴마크  |
-| 73호 | [샤넬](../Page/샤넬.md "wikilink")                                                  | 패션       | 프랑스  |
-|     |                                                                                 |          |      |
+| 호수  | 다룬 브랜드                                                                       | 상세       | 국적   |
+| --- | ---------------------------------------------------------------------------- | -------- | ---- |
+| 1호  | [프라이탁](../Page/프라이탁.md "wikilink") (FREITAG)                                 | 가방       | 스위스  |
+| 2호  | [뉴발란스](../Page/뉴발란스.md "wikilink") (NEW BALANCE)                             | 신발       | 미국   |
+| 3호  | 스노우피크 (SNOW PEAK)                                                            | 캠핑용품     | 일본   |
+| 4호  | [라미](../Page/라미.md "wikilink") (LAMY)                                        | 문구       | 독일   |
+| 5호  | [브롬톤](https://ko.wikipedia.org/wiki/브롬튼_자전거 "wikilink") (BROMPTON)           | 자전거      | 영국   |
+| 6호  | 러쉬 (LUSH)                                                                    | 바디용품     | 영국   |
+| 7호  | 스타우브 (STAUB)                                                                 | 식기       | 프랑스  |
+| 8호  | [레이벤](https://ko.wikipedia.org/wiki/레이벤 "wikilink") (RAY-BAN)                | 안경       | 미국   |
+| 9호  | [화요](https://ko.wikipedia.org/wiki/화요 "wikilink") (HWAYO)                    | 주류       | 한국   |
+| 10호 | 펭귄 (PENGUIN)                                                                 | 도서       | 영국   |
+| 11호 | 인텔리젠시아 (INTELLIGENTSIA)                                                      | 카페       | 미국   |
+| 12호 | [캐나다 구스](https://ko.wikipedia.org/wiki/캐나다_구스 "wikilink") (CANADA GOOSE)     | 의류       | 캐나다  |
+| 13호 | [레고](../Page/레고.md "wikilink") (LEGO)                                        | 장난감      | 덴마크  |
+| 14호 | BIC                                                                          | 문구       | 프랑스  |
+| 15호 | 죠셉죠셉 (JOSEPH JOSEPH)                                                         | 식기       | 영국   |
+| 16호 | 이솝 (AESOP)                                                                   | 화장품      | 호주   |
+| 17호 | 포터 (PORTER)                                                                  | 가방       | 일본   |
+| 18호 | 하바이아나스 (HAVAIANAS)                                                           | 신발       | 브라질  |
+| 19호 | [툴레](../Page/툴레.md "wikilink") (THULE)                                       | 아웃도어 캐리어 | 스웨덴  |
+| 20호 | [기네스](../Page/기네스.md "wikilink") (GUINNES)                                   | 맥주       | 아일랜드 |
+| 21호 | [윌슨](https://ko.wikipedia.org/wiki/윌슨_스포츠_용품 "wikilink") (WILSON)            | 스포츠 용품   | 미국   |
+| 22호 | 비브람 (VIBRAM)                                                                 | 아웃솔      | 이탈리아 |
+| 23호 | [아우디](../Page/아우디.md "wikilink") (AUDI)                                      | 자동차      | 독일   |
+| 24호 | 레페토 (REPETTO)                                                                | 신발       | 프랑스  |
+| 25호 | [순토](https://ko.wikipedia.org/wiki/순토 "wikilink") (SUUNTO)                   | 시계       | 핀란드  |
+| 26호 | 한사토이 (HANSATOYS)                                                             | 인형       | 호주   |
+| 27호 | [챔피언스리그](https://ko.wikipedia.org/wiki/챔피언스리그 "wikilink") (CHAMPIONS LEAGUE) | 스포츠      | 유럽   |
+| 28호 | [구글](../Page/구글.md "wikilink") (GOOGLE)\[7\]                                 | IT       | 미국   |
+| 29호 | 에이스 호텔 (ACE HOTEL)                                                           | 호텔       | 미국   |
+| 30호 | [ECM](https://ko.wikipedia.org/wiki/ECM_레코드 "wikilink")                      | 음반 레이블   | 독일   |
+| 31호 | 딥디크 (DIPTYQUE)                                                               | 향수       | 프랑스  |
+| 32호 | 리모와 (RIMOWA)                                                                 | 가방       | 독일   |
+| 33호 | 비트라 (VITRA)                                                                  | 가구       | 스위스  |
+| 34호 | [라이카](../Page/라이카_\(사진기\).md "wikilink")                                     | 카메라      | 독일   |
+| 35호 | [헬베티카](../Page/헬베티카.md "wikilink")                                           | 서체       | 스위스  |
+| 36호 | [나스](https://ko.wikipedia.org/wiki/나스_\(화장품\) "wikilink")                    | 화장품      | 프랑스  |
+| 37호 | [츠타야](https://ko.wikipedia.org/wiki/츠타야 "wikilink")                          | 서점       | 일본   |
+| 38호 | [파타고니아 (기업)](../Page/파타고니아_\(기업\).md "wikilink") (PATAGONIA)                 | 의류       | 미국   |
+| 39호 | 브레빌 (BREVILLE)                                                               | 가전제품     | 호주   |
+| 40호 | 산 펠레그리노 (SAN PELLEGRINO)                                                     | 탄산수      | 이탈리아 |
+| 41호 | [롤렉스](../Page/롤렉스.md "wikilink") (ROLEX)                                     | 시계       | 스위스  |
+| 42호 | [스타워즈](../Page/스타워즈.md "wikilink") (STAR WARS)                               | 영화       | 미국   |
+| 43호 | [베를린](../Page/베를린.md "wikilink") (Berlin)                                    | 도시       | 독일   |
+| 44호 | [반스](../Page/반스_\(기업\).md "wikilink") (Vans)                                 | 신발       | 미국   |
+| 45호 | 록시땅 (Loccitane)                                                              | 화장품      | 프랑스  |
+| 46호 | [팬톤](../Page/팬톤.md "wikilink") (Pantone)                                     | 색채       | 미국   |
+| 47호 | [하겐다즈](https://ko.wikipedia.org/wiki/하겐다즈 "wikilink") (Häagen-Dazs)          | 아이스크림    | 미국   |
+| 48호 | [에어비앤비](../Page/에어비앤비.md "wikilink") (AirBnB)                                | 숙박공유서비스  | 미국   |
+| 50호 | [서울](https://ko.wikipedia.org/wiki/서울 "wikilink") (Seoul)                    | 도시       | 한국   |
+| 51호 | 미스터 포터 (MR PORTER)                                                           | 쇼핑       | 영국   |
+| 52호 | 위워크 (WEWORK)                                                                 | 워크스페이스   | 미국   |
+| 53호 | [무인양품](../Page/무인양품.md "wikilink") (MUJI)                                    | 생활 잡화    | 일본   |
+| 54호 | 메종 마르지엘라 (Maison Margiela)                                                   | 패션       | 프랑스  |
+| 55호 | [애플 뮤직](../Page/애플_뮤직.md "wikilink") (Apple Music)                           | 모바일 서비스  | 미국   |
+| 56호 | [미쉐린 가이드](../Page/미쉐린_가이드.md "wikilink") (Michelin Guide)                    | 도서       | 프랑스  |
+| 57호 | 발뮤다 (Balmuda)                                                                | 가전제품     | 일본   |
+| 58호 | [포틀랜드](https://ko.wikipedia.org/wiki/포틀랜드_\(오리건_주\) "wikilink") (Portland)   | 도시       | 미국   |
+| 59호 | 대너 (Danner)                                                                  | 신발       | 미국   |
+| 60호 | 모노클 (MONOCLE)                                                                | 도서       | 영국   |
+| 61호 | [아크네 스튜디오](https://ko.wikipedia.org/wiki/아크네_스튜디오 "wikilink") (Acne Studios) | 패션       | 스웨덴  |
+| 62호 | 몰스킨 ([MOLESKINE](http://magazine-b.com/moleskine/))                          | 문구       | 이탈리아 |
+| 63호 | 이케아 ([IKEA](http://magazine-b.com/ikea/))                                    | 가구       | 스웨덴  |
+| 64호 | 모스콧 (MOSCOT)                                                                 | 안경       | 미국   |
+| 65호 | 르 라보(LE LABO)                                                                | 향수       | 프랑스  |
+| 66호 | 호시노야(HOSHINOYA)                                                              | 호텔       | 일본   |
+| 67호 | 교토(KYOTO)                                                                    | 도시       | 일본   |
+| 68호 | 인스타그램(INSTAGRAM)                                                             | 모바일 서비스  | 미국   |
+| 69호 | 메종 키츠네(MAISON KITSUNE)                                                       | 패션       | 프랑스  |
+| 70호 | [포르쉐](../Page/포르쉐.md "wikilink")([PORSCHE](http://magazine-b.com/porsche/))  | 자동차      | 독일   |
+| 71호 | [DJI](https://ko.wikipedia.org/wiki/DJI "wikilink")                          | 무인 항공기   | 중국   |
+| 72호 | HAY                                                                          | 라이프스타일   | 덴마크  |
+| 73호 | [샤넬](../Page/샤넬.md "wikilink")                                               | 패션       | 프랑스  |
+|     |                                                                              |          |      |
 
 ## 각주
 

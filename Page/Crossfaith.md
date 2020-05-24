@@ -15,7 +15,7 @@
 
 ## 구성원
 
-  - [코이에 켄타](https://ko.wikipedia.org/wiki/코이에_켄타 "wikilink") - [보컬](https://ko.wikipedia.org/wiki/가창 "wikilink"), (2006 - 현재)
+  - [코이에 켄타](https://ko.wikipedia.org/wiki/코이에_켄타 "wikilink") - [보컬](../Page/가창.md "wikilink"), (2006 - 현재)
   - [타케무라 카즈키](https://ko.wikipedia.org/wiki/타케무라_카즈키 "wikilink") - [기타](../Page/전기_기타.md "wikilink"), (2006 - 현재)
   - [아마노 타츠야](https://ko.wikipedia.org/wiki/아마노_타츠야 "wikilink") - [드럼](https://ko.wikipedia.org/wiki/드럼셋 "wikilink"), (2006 - 현재)
   - [타마노 테루후미](https://ko.wikipedia.org/wiki/타마노_테루후미 "wikilink") - [키보드](https://ko.wikipedia.org/wiki/키보드 "wikilink"),프로그래밍,서브보컬 (2006 - 현재)

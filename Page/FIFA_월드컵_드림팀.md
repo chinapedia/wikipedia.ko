@@ -72,7 +72,7 @@
 </tbody>
 </table>
 
-## 함께 보기
+## 같이 보기
 
   - [FIFA 월드컵 올타임팀](https://ko.wikipedia.org/wiki/FIFA_월드컵_올타임팀 "wikilink")
   - [FIFA 100](../Page/FIFA_100.md "wikilink")

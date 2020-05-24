@@ -5,7 +5,7 @@
 
 ## 수록곡
 
-  - <small>〈Sweet Dreams (Are Made of This)〉는 [유리스믹스의](https://ko.wikipedia.org/wiki/:en:Eurythmics "wikilink") 1983년 곡 [Sweet Dreams를](https://ko.wikipedia.org/wiki/:en:Sweet_Dreams_\(Are_Made_of_This\) "wikilink") 커버하여 뮤직비디오를 제작하기도 했다. 이후에도 공연에서 셋리스트에 포함되는 곡 이다.</small>
+  - <small>〈Sweet Dreams (Are Made of This)〉는 [유리스믹스의](https://ko.wikipedia.org/wiki/:en:Eurythmics "wikilink") 1983년 곡 [Sweet Dreams를](https://ko.wikipedia.org/wiki/:en:Sweet_Dreams_\(Are_Made_of_This\) "wikilink") 커버하여 뮤직비디오를 제작하기도 했다. 이후에도 공연에서 셋리스트에 포함되는 곡이다.</small>
   - <small>〈I Put a Spell on You〉는 [Screamin' Jay Hawkins의](https://ko.wikipedia.org/wiki/:en:Screamin'_Jay_Hawkins "wikilink") 1956년 곡 〈[I Put a Spell on You](https://ko.wikipedia.org/wiki/:en:I_Put_a_Spell_on_You "wikilink")〉을 커버하였다.</small>
   - <small>〈Rock 'n' Roll Nigger〉는 [패티 스미스의](../Page/패티_스미스.md "wikilink") 1978년 곡을 커버하였다.</small>
   - <small>〈Track 16〉의 첫 번째 파트는 〈Shitty Chicken Gang Bang〉의 다른 버전이다.</small>

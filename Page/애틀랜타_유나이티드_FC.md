@@ -51,7 +51,7 @@
 
   - [찰스턴 배터리](../Page/찰스턴_배터리.md "wikilink") (찰스턴, 사우스캐롤라이나)
 
-## 함께 보기
+## 같이 보기
 
   - [애틀랜타 실버백스](../Page/애틀랜타_실버백스.md "wikilink")
   - [애틀랜타 팰컨스](https://ko.wikipedia.org/wiki/애틀랜타_팰컨스 "wikilink")

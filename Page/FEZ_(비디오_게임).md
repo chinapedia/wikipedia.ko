@@ -17,7 +17,7 @@
 
 ### 필 피쉬
 
-[230px](https://ko.wikipedia.org/wiki/파일:Phil_Fish_at_GAMMA_3D_2008_\(3069071319\).jpg "wikilink") 폴리트론 코퍼레이션의 창업자인 필 피쉬(Phil Fish)는 FEZ의 디자이너 이다. 2011년에 [인디](../Page/인디_게임.md "wikilink") [게임 개발자들의](https://ko.wikipedia.org/wiki/게임_개발자 "wikilink") 이야기를 그린 'Indie Game: The Movie' 에도 출연하였다.\[3\] 2012년 에는 GDC(Game Developers Conference) 에서 요즘 일본 게임에 대한 생각을 묻는 일본인 프로그래머의 질문에 "구리다"(It’s suck)고 발언하여 논란이 되었다.\[4\]\[5\]
+[230px](https://ko.wikipedia.org/wiki/파일:Phil_Fish_at_GAMMA_3D_2008_\(3069071319\).jpg "wikilink") 폴리트론 코퍼레이션의 창업자인 필 피쉬(Phil Fish)는 FEZ의 디자이너이다. 2011년에 [인디](../Page/인디_게임.md "wikilink") [게임 개발자들의](https://ko.wikipedia.org/wiki/게임_개발자 "wikilink") 이야기를 그린 'Indie Game: The Movie' 에도 출연하였다.\[3\] 2012년 에는 GDC(Game Developers Conference) 에서 요즘 일본 게임에 대한 생각을 묻는 일본인 프로그래머의 질문에 "구리다"(It’s suck)고 발언하여 논란이 되었다.\[4\]\[5\]
 
 ## 각주
 

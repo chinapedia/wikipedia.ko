@@ -57,7 +57,7 @@ j-불변량의 [푸리에 급수는](../Page/푸리에_급수.md "wikilink") \(q
 & {}\,\,\, \vdots
 \end{align}\] 이 관계를 [가공할 헛소리](../Page/가공할_헛소리.md "wikilink")()라고 한다. 여기서 (가공할, 말도 안 되는)는 괴물 군()에 대한 말장난이다. 이 놀라운 관계는 원래 존 매케이(, 1939–)가 1970년대에 최초로 발견하였고, [존 호턴 콘웨이가](../Page/존_호턴_콘웨이.md "wikilink") 이러한 이름을 붙였다. 이 사실은 [리처드 보처즈가](../Page/리처드_보처즈.md "wikilink") [리치 격자](https://ko.wikipedia.org/wiki/리치_격자 "wikilink")(Leech lattice)에 [축소화](../Page/축소화.md "wikilink")한 [보손 끈 이론을](../Page/보손_끈_이론.md "wikilink") 사용해 설명하였고, 이 공로로 [필즈상](../Page/필즈상.md "wikilink")을 수상하였다.
 
-## 함께보기
+## 같이 보기
 
   - [바이어슈트라스 제타 함수](../Page/바이어슈트라스_제타_함수.md "wikilink")
   - [자기동형 형식](../Page/보형_형식.md "wikilink")

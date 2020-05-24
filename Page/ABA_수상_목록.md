@@ -200,7 +200,7 @@
 </tbody>
 </table>
 
-## 함께 보기
+## 같이 보기
 
   - [NBA 수상 목록](../Page/NBA_수상_목록.md "wikilink")
 

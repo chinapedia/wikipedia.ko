@@ -22,7 +22,7 @@
 
 전192회으로 방송은 종료해, 이후는 Web 라디오 프로그램인 \<[THE IDOLM@STER STATION\!\! +](https://ko.wikipedia.org/wiki/THE_IDOLM@STER_STATION!!_+ "wikilink")\>로 계승해졌지만, 2014년 10월 8일부터, 니코니코 채널과 제휴한 형태로, 니코니코 생방송에서 방송이 재개되었다. 퍼스널리티는 누마쿠라·하라·아사쿠라의 3명.
 
-니코니코 공식 채널 <아이돌마스터 스테이션>의 회원\[2\]전용으로, 본방송 후의 덤방송, 브로마가의 전달을 하고 있다.
+니코니코 공식 채널 <아이돌마스터 스테이션>의 회원\[2\] 전용으로, 본방송 후의 덤방송, 브로마가의 전달을 하고 있다.
 
 ## 각주
 
@@ -39,7 +39,7 @@
   - [니코니코아이마스 ch "타루키정"](http://ch.nicovideo.jp/channel/ch765) (ID취득이 필요)
   - [히비키- HiBiKi Radio Station -](http://hibiki-radio.jp/)
 
-[STATION\!\!\!](https://ko.wikipedia.org/wiki/분류:아이돌마스터의_라디오_프로그램 "wikilink") [분류:1314 V-STATION](https://ko.wikipedia.org/wiki/분류:1314_V-STATION "wikilink") [분류:오사카 방송의 라디오 프로그램](https://ko.wikipedia.org/wiki/분류:오사카_방송의_라디오_프로그램 "wikilink") [분류:niconico의 컨텐츠](https://ko.wikipedia.org/wiki/분류:niconico의_컨텐츠 "wikilink") [분류:HiBiKi Radio Station](https://ko.wikipedia.org/wiki/분류:HiBiKi_Radio_Station "wikilink") [분류:인터넷 라디오 프로그램](https://ko.wikipedia.org/wiki/분류:인터넷_라디오_프로그램 "wikilink")
+[STATION\!\!\!](https://ko.wikipedia.org/wiki/분류:아이돌마스터의_라디오_프로그램 "wikilink") [분류:1314 V-STATION](https://ko.wikipedia.org/wiki/분류:1314_V-STATION "wikilink") [분류:오사카 방송의 라디오 프로그램](https://ko.wikipedia.org/wiki/분류:오사카_방송의_라디오_프로그램 "wikilink") [분류:Niconico의 컨텐츠](https://ko.wikipedia.org/wiki/분류:Niconico의_컨텐츠 "wikilink") [분류:HiBiKi Radio Station](https://ko.wikipedia.org/wiki/분류:HiBiKi_Radio_Station "wikilink") [분류:인터넷 라디오 프로그램](https://ko.wikipedia.org/wiki/분류:인터넷_라디오_프로그램 "wikilink")
 
 1.  제1회 방송 내에서 퍼스널리티가 강조하고 있었다.
 2.  입회에는 월액 540엔 (세금 포함)이 필요.

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [캐논 EOS 100D](https://ko.wikipedia.org/wiki/캐논_EOS_100D).
 
 
-**캐논 EOS 100D**()는 [캐논](../Page/캐논.md "wikilink")이 [2013년](../Page/2013년.md "wikilink") [3월 21일](../Page/3월_21일.md "wikilink") 발표한 보급형 [디지털 일안 반사식 카메라이다](../Page/디지털_일안_반사식_카메라.md "wikilink"). 현존하는 [DSLR](https://ko.wikipedia.org/wiki/DSLR "wikilink")중에서 가장 작고 가벼우며 배터리와 메모리 카드를 포함한 무게가 407g이다.\[1\] 보급형 라인이 있음에도 이보다 더 경량화된 기종을 내놓은 이유는, [미러리스](https://ko.wikipedia.org/wiki/미러리스 "wikilink")에서는 후발주자인 [캐논](../Page/캐논.md "wikilink")이 미러리스에 대응하기 위해 만든 전략 모델이기 때문이다. 영국 기준으로 바디 단품 £579.99 이며, EF-S 18-55 f/3.5-5.6 IS STM 렌즈킷은 £709.99 이다.\[2\]
+**캐논 EOS 100D**()는 [캐논](../Page/캐논.md "wikilink")이 [2013년](../Page/2013년.md "wikilink") [3월 21일](../Page/3월_21일.md "wikilink") 발표한 보급형 [디지털 일안 반사식 카메라이다](../Page/디지털_일안_반사식_카메라.md "wikilink"). 현존하는 [DSLR](https://ko.wikipedia.org/wiki/DSLR "wikilink")중에서 가장 작고 가벼우며 배터리와 메모리 카드를 포함한 무게가 407g이다.\[1\] 보급형 라인이 있음에도 이보다 더 경량화된 기종을 내놓은 이유는, [미러리스](https://ko.wikipedia.org/wiki/미러리스 "wikilink")에서는 후발주자인 [캐논](../Page/캐논.md "wikilink")이 미러리스에 대응하기 위해 만든 전략 모델이기 때문이다. 영국 기준으로 바디 단품 £579.99이며, EF-S 18-55 f/3.5-5.6 IS STM 렌즈킷은 £709.99이다.\[2\]
 
 ## 700D 와의 유사점
 

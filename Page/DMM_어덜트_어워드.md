@@ -195,7 +195,7 @@
 
 ## 각주
 
-## 함께 보기
+## 같이 보기
 
   - [AV OPEN](https://ko.wikipedia.org/wiki/AV_OPEN "wikilink")
   - [AV 그랑프리](../Page/AV_그랑프리.md "wikilink")

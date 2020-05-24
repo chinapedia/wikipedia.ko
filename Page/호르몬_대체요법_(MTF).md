@@ -69,9 +69,9 @@ MTF HRT로 인한 심리적 변화는 신체 변화보다 정의하기가 쉽지
 
 자연발생적·무의식적 [발기](https://ko.wikipedia.org/wiki/발기 "wikilink")(아침발기 따위)는 그 발생 빈도가 급격히 줄어든다(다만 일부 환자는 고환을 적출한 뒤에도 아침발기를 경험한 사례가 있다). 의식적 발기는 여성호르몬 및 항안드로겐제의 투약량에 따라 가능할 수도 있고 불가능할 수도 있다.
 
-일반 투약량의 경우 [고환](https://ko.wikipedia.org/wiki/고환 "wikilink")의 부피가 약 25% 줄어들었고, 투약량을 높이면 50%까지 줄어들기도 한다. 특히 HRT를 시작하고 1년 정도 지났을 때 고환 위축이 일어난다.\[7\] 고환이 쭈그러드는 것은 [정자](https://ko.wikipedia.org/wiki/정자 "wikilink")와 테스토스테론을 생산하는 [라이디히 세포와](https://ko.wikipedia.org/wiki/라이디히_세포 "wikilink") [세르톨리 세포](https://ko.wikipedia.org/wiki/세르톨리_세포 "wikilink") 및 그 사이 조직이 사라져가기 때문에 일어나는 현상이다. 테스토스테론이 급격히 떨어진 시점에서는 [정자형성](https://ko.wikipedia.org/wiki/정자형성 "wikilink")이 거의 완벽히 중단되고, 정자형성 과정에 관여하는 세포들은 더이상 사용되지 않으니 위축된다.
+일반 투약량의 경우 [고환](../Page/고환.md "wikilink")의 부피가 약 25% 줄어들었고, 투약량을 높이면 50%까지 줄어들기도 한다. 특히 HRT를 시작하고 1년 정도 지났을 때 고환 위축이 일어난다.\[7\] 고환이 쭈그러드는 것은 [정자](https://ko.wikipedia.org/wiki/정자 "wikilink")와 테스토스테론을 생산하는 [라이디히 세포와](https://ko.wikipedia.org/wiki/라이디히_세포 "wikilink") [세르톨리 세포](https://ko.wikipedia.org/wiki/세르톨리_세포 "wikilink") 및 그 사이 조직이 사라져가기 때문에 일어나는 현상이다. 테스토스테론이 급격히 떨어진 시점에서는 [정자형성](https://ko.wikipedia.org/wiki/정자형성 "wikilink")이 거의 완벽히 중단되고, 정자형성 과정에 관여하는 세포들은 더이상 사용되지 않으니 위축된다.
 
-[전립선](https://ko.wikipedia.org/wiki/전립선 "wikilink")과 [방광](https://ko.wikipedia.org/wiki/방광 "wikilink")도 부피가 줄어든다. [음낭](../Page/음낭.md "wikilink") 가운데의 [음낭봉선](https://ko.wikipedia.org/wiki/음낭봉선 "wikilink")과 [음경](https://ko.wikipedia.org/wiki/음경 "wikilink") 아랫면의 색깔이 어두워진다. 미약한 [수분저류현상](../Page/수분저류현상.md "wikilink")이 일어나기도 하는데, [이뇨계](https://ko.wikipedia.org/wiki/이뇨계 "wikilink")가 원인이므로 대개 스피로놀락톤으로 대처한다.
+[전립선](https://ko.wikipedia.org/wiki/전립선 "wikilink")과 [방광](https://ko.wikipedia.org/wiki/방광 "wikilink")도 부피가 줄어든다. [음낭](../Page/음낭.md "wikilink") 가운데의 [음낭봉선](https://ko.wikipedia.org/wiki/음낭봉선 "wikilink")과 [음경](../Page/음경.md "wikilink") 아랫면의 색깔이 어두워진다. 미약한 [수분저류현상](../Page/수분저류현상.md "wikilink")이 일어나기도 하는데, [이뇨계](https://ko.wikipedia.org/wiki/이뇨계 "wikilink")가 원인이므로 대개 스피로놀락톤으로 대처한다.
 
 #### 임신과 출산
 

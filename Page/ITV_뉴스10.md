@@ -141,6 +141,7 @@
   - [매일유업](../Page/매일유업.md "wikilink") - 매일맘마Q, 매일 장에는 GG
   - [현대해상화재보험](../Page/현대해상화재보험.md "wikilink")
   - [소니 코리아](https://ko.wikipedia.org/wiki/소니_코리아 "wikilink")
+  - 청풍 무구
 
 ## 관련 항목
 

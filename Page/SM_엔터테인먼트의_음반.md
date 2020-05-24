@@ -1120,8 +1120,10 @@
   - 2020년 4월 6일 최강창민 - **Chocolate**
   - 2020년 4월 21일 EXO - **EXO PLANET \#5 –EXplOration– Live Album**
   - 2020년 4월 29일 NCT DREAM - **Reload**
-  - 2020년 5월 ?일 NCT 127 - **미정**
-  - 2020년 ?월 ?일 태연 - **Happy**
+  - 2020년 5월 1일 예성 - **\[Digital Single\] 봄은 너니까**\[157\]
+  - 2020년 5월 4일 태연 - **\[Digital Single\] Happy**
+  - 2020년 5월 19일 NCT 127 - **NCT \#127 Neo Zone: The Final Round**
+  - 2020년 5월 ?일 백현 - **미정**
 
 ## 각주
 
@@ -1283,3 +1285,4 @@
 154. [이수근도](../Page/이수근_\(희극인\).md "wikilink") 앨범 참여.
 155. [펀치도](../Page/펀치_\(가수\).md "wikilink") 앨범 참여.
 156. [다이나믹 듀오도](../Page/다이나믹_듀오.md "wikilink") 앨범 참여.
+157. [수란](https://ko.wikipedia.org/wiki/수란 "wikilink")도 앨범 참여.

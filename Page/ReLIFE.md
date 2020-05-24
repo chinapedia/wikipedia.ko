@@ -222,7 +222,7 @@
 본작은 본래 [일본어](../Page/일본어.md "wikilink")로 된 작품이지만, 일본어 이외의 언어로도 연재되고 있다.
 
   - [한국어](../Page/한국어.md "wikilink")
-    [2014년](../Page/2014년.md "wikilink") [10월 9일부터](../Page/10월_9일.md "wikilink") 한국판 comico에서 《[리라이프 -Relife-](http://comico.toast.com/titles/59)》가 연재되고 있다.
+    [2014년](../Page/2014년.md "wikilink") [10월 9일부터](../Page/10월_9일.md "wikilink") 한국판 comico에서 《[리라이프 -Relife-](https://web.archive.org/web/20160307022716/http://comico.toast.com/titles/59)》가 연재되고 있다.
 
 <!-- end list -->
 
@@ -244,7 +244,7 @@
 
   - [ReLIFE ](http://www.comico.com.tw/articleList.nhn?titleNo=1)
 
-  - [리라이프 -Relife-](http://comico.toast.com/titles/59)
+  - [리라이프 -Relife-](https://web.archive.org/web/20160307022716/http://comico.toast.com/titles/59)
 
   - [TV 애니메이션 공식 홈페이지](http://relife-anime.com/)
 

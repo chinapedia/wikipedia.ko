@@ -214,7 +214,7 @@
 <a href="https://ko.wikipedia.org/wiki/쿠바_배구_국가대표팀" title="wikilink">쿠바</a></p></td>
 <td><p><strong>3-1</strong></p></td>
 <td><p><br />
-<a href="https://ko.wikipedia.org/wiki/대한민국_배구_국가대표팀" title="wikilink">대한민국</a></p></td>
+<a href="../Page/대한민국_배구_국가대표팀.md" title="wikilink">대한민국</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/1982년_FIVB_세계_남자배구_선수권대회" title="wikilink">1982</a></p></td>

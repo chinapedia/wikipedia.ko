@@ -7,7 +7,7 @@
 
 파일:Olympus EPL5 front.jpg 파일:Olympus EPL5 top.jpg 파일:Olympus EPL5 back 02.jpg 파일:Olympus EPL5 back 01.jpg 파일:Olympus epl5 vf4.jpg
 
-## 함께 보기
+## 같이 보기
 
   - [마이크로 포서즈 시스템](../Page/마이크로_포서즈_시스템.md "wikilink")
   - [미러리스 카메라](https://ko.wikipedia.org/wiki/미러리스_카메라 "wikilink")

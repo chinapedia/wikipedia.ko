@@ -31,7 +31,7 @@ user32.dll과 gdi32.dll은 커널 모드로 가는 다른 호출도 포함한다
   - 네이티브 응용 프로그램 실행 (RtlCreateUserProcess)
   - 강제 종료 (NtShutdownSystem)
 
-## 함께보기
+## 같이 보기
 
   - [마이크로소프트 윈도 구성 요소 목록](https://ko.wikipedia.org/wiki/마이크로소프트_윈도_구성_요소_목록 "wikilink")
   - [윈도 API](https://ko.wikipedia.org/wiki/윈도_API "wikilink")

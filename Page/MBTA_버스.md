@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [MBTA 버스](https://ko.wikipedia.org/wiki/MBTA_버스).
 
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:MBTA_NABI.jpg "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:Trolleybus4120.Harvard.agr.JPG "wikilink") **MBTA 버스**는 [MBTA가](https://ko.wikipedia.org/wiki/매사추세츠_베이_트랜스포테이션_오소리티 "wikilink") 운영하는 버스 시스템이다. MBTA의 버스는 미국에서 여섯 번째로 버스 승객이 가장 많고 150개가 넘는 노선이 광역 보스턴 지역을 운행한다. MBTA의 버스 운행은 지하철 운행과 규모가 같지만, 통근 열차 운행보다 규모가 작은데, 이는 일곱 개의 다른 지역 교통 회사가 또한 더 넓은 지역에서 버스를 운행하기 때문이다. 이 회사들은 각자 요금 체계와 하청 운영사가 다르지만, 대부분 그 버스 회사들의 승객들이 MBTA 통근 열차의 주요 승객이기도 하다.\[1\]
+[섬네일](https://ko.wikipedia.org/wiki/파일:MBTA_route_50_bus_leaving_Forest_Hills_station,_July_2006.jpg "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:Trolleybus4120.Harvard.agr.JPG "wikilink") **MBTA 버스**는 [MBTA가](https://ko.wikipedia.org/wiki/매사추세츠_베이_트랜스포테이션_오소리티 "wikilink") 운영하는 버스 시스템이다. MBTA의 버스는 미국에서 여섯 번째로 버스 승객이 가장 많고 150개가 넘는 노선이 광역 보스턴 지역을 운행한다. MBTA의 버스 운행은 지하철 운행과 규모가 같지만, 통근 열차 운행보다 규모가 작은데, 이는 일곱 개의 다른 지역 교통 회사가 또한 더 넓은 지역에서 버스를 운행하기 때문이다. 이 회사들은 각자 요금 체계와 하청 운영사가 다르지만, 대부분 그 버스 회사들의 승객들이 MBTA 통근 열차의 주요 승객이기도 하다.\[1\]
 
 MBTA의 버스는, 지하철에서 지역 버스로 환승할 경우 교통 카드인 찰리 카드를 이용할 경우 무료로 환승할 수 있으나, 지역 버스에서 지하철로 환승할 경우 버스와 지하철이 요금이 다르므로 그 차액을 지불하여야 한다. 만약에 찰리 카드를 이용하지 않을 경우, 지하철 요금에다가 버스 요금을 별도로 내야 한다. 버스와 버스간 (지역 버스) 환승은 현금 승차를 제외하고 무료이다. 많은 외곽 버스 노선이 도심으로 진입하는 고속도로를 따라 운행하며, 버스는 역 내 지도에는 노란색으로 표시되어있다.
 

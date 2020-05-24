@@ -11,7 +11,7 @@
   - [2005년](../Page/2005년.md "wikilink") [1월 26일에](../Page/1월_26일.md "wikilink") 발매.
   - 〈[날개는 없어도](https://ko.wikipedia.org/wiki/츠바사와나쿠테모 "wikilink")〉에서 〈[I \~누군가...](https://ko.wikipedia.org/wiki/I_~다레카... "wikilink")〉까지의 싱글곡 등을 수록한 7번째 음반이다.
   - 부제목인 prime number(＝[소수](../Page/소수_\(수론\).md "wikilink"))의 의미는, 양의 약수가 1과 자기 자신 뿐인 1보다 큰 자연수를 말한다. 즉, 지금까지의 음악가 활동을 유지시켜준 팬 분과 자신으로만 서로 나누어지지 않는 음반으로 완성됐다는 것을 의미하며, 본인도 소수라는 말의 반응이 맘에 들었기 때문이라고 한다.
-  - 자켓 사진은 [오사카부](../Page/오사카부.md "wikilink") [오사카 시](https://ko.wikipedia.org/wiki/오사카_시 "wikilink") [나니와 구의](https://ko.wikipedia.org/wiki/나니와_구 "wikilink") [페스티벌게이트](https://ko.wikipedia.org/wiki/페스티벌게이트 "wikilink") 내에 설치되어있던, 머메이드 카르셀(회전목마) 앞에서 촬영됐다.
+  - 자켓 사진은 [오사카부](../Page/오사카부.md "wikilink") [오사카시](../Page/오사카시.md "wikilink") [나니와구](../Page/나니와구.md "wikilink")의 [페스티벌게이트](https://ko.wikipedia.org/wiki/페스티벌게이트 "wikilink") 내에 설치되어있던, 머메이드 카르셀(회전목마) 앞에서 촬영됐다.
 
 ## 수록곡
 

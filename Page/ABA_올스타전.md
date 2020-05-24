@@ -140,7 +140,7 @@
 | 1972 | 5월 25일 | ABA 올스타 104, NBA 올스타 106 | [나소 베터런스 메모리얼 콜리시엄](../Page/나소_베터런스_메모리얼_콜리시엄.md "wikilink") | 14,086 | [뉴욕주](../Page/뉴욕주.md "wikilink") [유니언데일](https://ko.wikipedia.org/wiki/유니언데일_\(뉴욕주\) "wikilink") | 밥 레이니어  | [디트로이트 피스턴스](../Page/디트로이트_피스턴스.md "wikilink") (NBA) |
 |      |        |                          |                                                              |        |                                                                                                  |         |                                                      |
 
-## 함께 보기
+## 같이 보기
 
   - [NBA 올스타전](../Page/NBA_올스타전.md "wikilink")
 

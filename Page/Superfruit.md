@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Superfruit](https://ko.wikipedia.org/wiki/Superfruit).
 
 
-**Superfruit**는 미치 그래시와 스콧 호잉이 운영하는 [유튜브](../Page/유튜브.md "wikilink") 채널이다. 이들은 또한 [펜타토닉스](../Page/펜타토닉스.md "wikilink")의 맴버 이다.
+**Superfruit**는 미치 그래시와 스콧 호잉이 운영하는 [유튜브](../Page/유튜브.md "wikilink") 채널이다. 이들은 또한 [펜타토닉스](../Page/펜타토닉스.md "wikilink")의 맴버이다.
 
 채널은 현재 230만 구독자 수와 303백만 조회수를 보유하고 있다.
 

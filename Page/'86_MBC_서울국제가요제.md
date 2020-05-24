@@ -37,7 +37,7 @@
 5.  "You 그대 (인도네시아 · Purnomo Sikas)" (미상 작사 / 미상 작곡)
 6.  "When Love is The Song 사랑이 노래가 될때 (프랑스 · Eve Brenner)" (미상 작사 / 미상 작곡)
 
-## 함께 보기
+## 같이 보기
 
   - [MBC 서울국제가요제](../Page/MBC_서울국제가요제.md "wikilink")
 

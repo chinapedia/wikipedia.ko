@@ -74,7 +74,7 @@
   - 2015년 9월 30일 에일리 - **[VIVID](https://ko.wikipedia.org/wiki/VIVID "wikilink")**
   - 2015년 10월 21일 배치기 - **\[Digital Single\] 이별의 품격**
   - 2015년 11월 3일 슈가볼 - **Yours**
-  - 2015년 11월 11일 [백찬](https://ko.wikipedia.org/wiki/백찬 "wikilink"), [주희](../Page/주희_\(가수\).md "wikilink") - **\[Digital Single\] 미련은 미련일뿐야**
+  - 2015년 11월 11일 [백찬](../Page/백찬.md "wikilink"), [주희](../Page/주희_\(가수\).md "wikilink") - **\[Digital Single\] 미련은 미련일뿐야**
   - 2015년 11월 30일 제시 - **\[Digital Single\] 뒷꿈치 들어**
   - 2015년 12월 4일 에일리 - **\[Digital Single\] Q\&A**\[21\]
   - 2015년 12월 8일 휘성 - **화려한 유혹 OST Part.2**

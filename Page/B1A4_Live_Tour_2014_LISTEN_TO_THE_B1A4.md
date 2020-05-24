@@ -3,7 +3,7 @@
 
 ## 소개
 
-《**B1A4 Live Tour 2014 LISTEN TO THE B1A4**》는 대한민국의 아이돌 그룹 [B1A4](../Page/B1A4.md "wikilink")의 [콘서트 투어이다](https://ko.wikipedia.org/wiki/콘서트_투어 "wikilink"). [일본](../Page/일본.md "wikilink")에서의 콘서트 투어로, [요코하마에서](https://ko.wikipedia.org/wiki/요코하마_시 "wikilink") 2번, [오사카에서](https://ko.wikipedia.org/wiki/오사카_시 "wikilink") 1번의 무대를 가졌다.
+《**B1A4 Live Tour 2014 LISTEN TO THE B1A4**》는 대한민국의 아이돌 그룹 [B1A4](../Page/B1A4.md "wikilink")의 [콘서트 투어이다](https://ko.wikipedia.org/wiki/콘서트_투어 "wikilink"). [일본](../Page/일본.md "wikilink")에서의 콘서트 투어로, [요코하마에서](https://ko.wikipedia.org/wiki/요코하마_시 "wikilink") 2번, [오사카에서](../Page/오사카시.md "wikilink") 1번의 무대를 가졌다.
 
 ## 투어 일정
 
@@ -37,7 +37,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/4월_10일.md" title="wikilink">4월 10일</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/오사카_시" title="wikilink">오사카</a></p></td>
+<td><p><a href="../Page/오사카시.md" title="wikilink">오사카</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/오사카" title="wikilink">오사카</a> <a href="https://ko.wikipedia.org/wiki/아레나" title="wikilink">아레나</a></p></td>
 <td></td>
 </tr>

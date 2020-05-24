@@ -13,7 +13,7 @@
 
 ## 방영 목록
 
-## 함께 보기
+## 같이 보기
 
   - [탐나는 TV](../Page/탐나는_TV.md "wikilink") (MBC)
   - [열린 TV 시청자 세상](../Page/열린_TV_시청자_세상.md "wikilink") (SBS)
@@ -32,4 +32,4 @@
 
   - [열린TV 열린세상 홈페이지](http://mbn.mk.co.kr/pages/vod/programMain.php?progCode=531)
 
-[분류:매일방송의 시사교양 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:매일방송의_시사교양_텔레비전_프로그램 "wikilink")
+[분류:매일방송의 시사교양 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:매일방송의_시사교양_텔레비전_프로그램 "wikilink") [분류:2011년에 시작한 대한민국 TV 프로그램](https://ko.wikipedia.org/wiki/분류:2011년에_시작한_대한민국_TV_프로그램 "wikilink")

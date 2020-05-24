@@ -150,7 +150,7 @@
 
 ## 각주
 
-## 함께 보기
+## 같이 보기
 
   - [AV OPEN](https://ko.wikipedia.org/wiki/AV_OPEN "wikilink")
   - [무디즈 연말 대감사제](https://ko.wikipedia.org/wiki/무디즈_연말_대감사제 "wikilink")

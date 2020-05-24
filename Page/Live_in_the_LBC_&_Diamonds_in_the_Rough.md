@@ -14,7 +14,7 @@
   - [엠 섀도우스](https://ko.wikipedia.org/wiki/엠_섀도우스 "wikilink") – [리드 보컬](https://ko.wikipedia.org/wiki/리드_보컬 "wikilink"), "Critical Acclaim"인트로 오르간
   - [잭키 벤젠스](https://ko.wikipedia.org/wiki/잭키_벤젠스 "wikilink") – [리듬 기타](https://ko.wikipedia.org/wiki/리듬_기타 "wikilink"), co-[리드 기타](https://ko.wikipedia.org/wiki/리드_기타 "wikilink"), 베킹 보컬 "Seize the Day"-어쿠스틱기타
   - [시니스터 게이츠](../Page/시니스터_게이츠.md "wikilink") – [리드 기타](https://ko.wikipedia.org/wiki/리드_기타 "wikilink"), 베킹 보컬
-  - [더 레브](https://ko.wikipedia.org/wiki/더_레브 "wikilink") - [드럼](https://ko.wikipedia.org/wiki/드럼 "wikilink"), co-리드 보컬"Critical Acclaim","Afterlife" 베킹 보컬"A Little Piece of Heaven"
+  - [더 레브](../Page/더_레브.md "wikilink") - [드럼](https://ko.wikipedia.org/wiki/드럼 "wikilink"), co-리드 보컬"Critical Acclaim","Afterlife" 베킹 보컬"A Little Piece of Heaven"
   - [조니 크라이스트](../Page/조니_크라이스트.md "wikilink") – [베이스](https://ko.wikipedia.org/wiki/베이스 "wikilink"), "Seize the Day" 리드,베킹보컬
 
 <!-- end list -->
@@ -26,7 +26,7 @@
   - [엠 섀도우스](https://ko.wikipedia.org/wiki/엠_섀도우스 "wikilink") – [리드 보컬](https://ko.wikipedia.org/wiki/리드_보컬 "wikilink")
   - [잭키 벤젠스](https://ko.wikipedia.org/wiki/잭키_벤젠스 "wikilink") - [리듬 기타](https://ko.wikipedia.org/wiki/리듬_기타 "wikilink")
   - [시니스터 게이츠](../Page/시니스터_게이츠.md "wikilink") – [리드 기타](https://ko.wikipedia.org/wiki/리드_기타 "wikilink")
-  - [더 레브](https://ko.wikipedia.org/wiki/더_레브 "wikilink") – [드럼](https://ko.wikipedia.org/wiki/드럼 "wikilink"), 베킹 보컬
+  - [더 레브](../Page/더_레브.md "wikilink") – [드럼](https://ko.wikipedia.org/wiki/드럼 "wikilink"), 베킹 보컬
   - [조니 크라이스트](../Page/조니_크라이스트.md "wikilink") – [베이스](https://ko.wikipedia.org/wiki/베이스 "wikilink")
 
 <!-- end list -->

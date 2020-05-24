@@ -11,7 +11,7 @@
 
 <references/>
 
-## 함께 보기
+## 같이 보기
 
   - [LG그룹](../Page/LG그룹.md "wikilink")
 

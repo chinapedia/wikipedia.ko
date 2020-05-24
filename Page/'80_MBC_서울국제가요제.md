@@ -78,7 +78,7 @@
 12. 오정선 - 나 그토록 못잊는것은 ([백순진](../Page/백순진.md "wikilink") 작곡)
 13. 박광수 - 탈 ([김희갑](https://ko.wikipedia.org/wiki/김희갑 "wikilink") 작곡)
 
-## 함께 보기
+## 같이 보기
 
   - [MBC 서울국제가요제](../Page/MBC_서울국제가요제.md "wikilink")
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Redjuice](https://ko.wikipedia.org/wiki/Redjuice).
 
 
-**레드주스**(redjuice, [1976년](../Page/1976년.md "wikilink") - )는 [일본](../Page/일본.md "wikilink")의 남성 [일러스트레이터](https://ko.wikipedia.org/wiki/일러스트레이터 "wikilink")이다. [일본](../Page/일본.md "wikilink") [고치현](../Page/고치현.md "wikilink") [도사시미즈 시](https://ko.wikipedia.org/wiki/도사시미즈_시 "wikilink") 출신으로, [도쿄도](../Page/도쿄도.md "wikilink") [미타카 시에서](https://ko.wikipedia.org/wiki/미타카_시 "wikilink") 거주하고 있다. [supercell](https://ko.wikipedia.org/wiki/supercell "wikilink")의 멤버 중 한 명으로, [픽시브](../Page/픽시브.md "wikilink") 등에서는 **시루**(しる)의 이름으로 활동하고 있다\[1\].
+**레드주스**(redjuice, [1976년](../Page/1976년.md "wikilink") - )는 [일본](../Page/일본.md "wikilink")의 남성 [일러스트레이터](https://ko.wikipedia.org/wiki/일러스트레이터 "wikilink")이다. [일본](../Page/일본.md "wikilink") [고치현](../Page/고치현.md "wikilink") [도사시미즈시](../Page/도사시미즈시.md "wikilink") 출신으로, [도쿄도](../Page/도쿄도.md "wikilink") [미타카시](../Page/미타카시.md "wikilink")에서 거주하고 있다. [supercell](https://ko.wikipedia.org/wiki/supercell "wikilink")의 멤버 중 한 명으로, [픽시브](../Page/픽시브.md "wikilink") 등에서는 **시루**(しる)의 이름으로 활동하고 있다\[1\].
 
 ## 인물 내력
 

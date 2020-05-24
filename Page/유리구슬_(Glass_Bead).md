@@ -1,6 +1,14 @@
 > This article is converted from Wikipedia: [유리구슬 \(Glass Bead\)](https://ko.wikipedia.org/wiki/유리구슬_\(Glass_Bead\)).
 
 
+| Season Of Glass 곡 목록:
+
+1.  Intro (Season Of Glass)
+2.  유리구슬 (Glass Bead)
+3.  Neverland
+4.  White (하얀마음)
+5.  유리구슬 (Glass Bead) (Inst.)
+
 ​ 〈**유리구슬 (Glass Bead)**〉는 음악 그룹 [여자친구의](../Page/여자친구_\(음악_그룹\).md "wikilink") 노래이다. 2015년 1월 15일, [KT 뮤직에서](https://ko.wikipedia.org/wiki/KT_뮤직 "wikilink") 발매된 여자친구의 첫 번째 미니 음반 《[Season of Glass](../Page/Season_of_Glass_\(EP\).md "wikilink")》의 타이틀 곡이다. ​
 
 ## 차트

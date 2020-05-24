@@ -37,7 +37,7 @@
 
 ## 각주
 
-[분류:대한민국의 음악 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:대한민국의_음악_텔레비전_프로그램 "wikilink") [분류:문화방송의 예능 프로그램](https://ko.wikipedia.org/wiki/분류:문화방송의_예능_프로그램 "wikilink")
+[분류:대한민국의 음악 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:대한민국의_음악_텔레비전_프로그램 "wikilink") [분류:문화방송의 예능 프로그램](https://ko.wikipedia.org/wiki/분류:문화방송의_예능_프로그램 "wikilink") [분류:1997년에 시작한 대한민국 TV 프로그램](https://ko.wikipedia.org/wiki/분류:1997년에_시작한_대한민국_TV_프로그램 "wikilink") [분류:1999년에 종료한 대한민국 TV 프로그램](https://ko.wikipedia.org/wiki/분류:1999년에_종료한_대한민국_TV_프로그램 "wikilink")
 
 1.
 2.

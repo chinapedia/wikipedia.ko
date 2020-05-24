@@ -14,7 +14,7 @@
   - [Implosion](https://ko.wikipedia.org/wiki/임플로전 "wikilink") - 2015년 4월 9일 iOS 버전으로, 4월 26일 안드로이드 버전으로 발매되었다.\[8\]
   - [VOEZ](https://ko.wikipedia.org/wiki/VOEZ "wikilink") - 2016년 5월 26일 iOS 버전으로, 6월 2일 안드로이드 버전으로 발매되었다.
   - [Cytus II](https://ko.wikipedia.org/wiki/Cytus_II "wikilink") - 2018년 1월 18일 앱스토어에 처음 나왔다.\[9\]
-  - [Sdorica](https://ko.wikipedia.org/wiki/Sdorica "wikilink") - 2018년 4월 19일 앱스토어와 구글 플레이에서 동시 발매되었다.\[10\]
+  - [Sdorica](https://ko.wikipedia.org/wiki/스도리카 "wikilink") - 2018년 4월 19일 앱스토어와 구글 플레이에서 동시 발매되었다.\[10\]
   - [MO Astray](https://ko.wikipedia.org/wiki/MO_Astray "wikilink") - 2019년 Steam에서 발매되었다.
 
 ### 개발중

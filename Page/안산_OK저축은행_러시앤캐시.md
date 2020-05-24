@@ -54,27 +54,29 @@
 
 ### 현재 선수단
 
-| |번호 | |포지션 | |이름                                                           | |데뷔년도 | |이적년도                                                |
-| --- | ---- | ------------------------------------------------------------- | ----- | ---------------------------------------------------- |
-| 1   | 레프트  | [송명근](../Page/송명근_\(배구_선수\).md "wikilink")                    | 2013  |                                                      |
-| 2   | 세터   | [곽명우](https://ko.wikipedia.org/wiki/곽명우 "wikilink")           | 2013  |                                                      |
-| 3   | 리베로  | [정성현](https://ko.wikipedia.org/wiki/정성현 "wikilink")           | 2013  |                                                      |
-| 4   | 라이트  | [조재성](../Page/조재성.md "wikilink")                              | 2016  |                                                      |
-| 5   | 리베로  | [조국기](../Page/조국기.md "wikilink")                              | 2011  | 2013([대한항공](../Page/인천_대한항공_점보스.md "wikilink"))      |
-| 6   | 세터   | [이민규](../Page/이민규_\(배구_선수\).md "wikilink")                    | 2013  |                                                      |
-| 9   | 센터   | [손주형](https://ko.wikipedia.org/wiki/손주형 "wikilink")           | 2017  |                                                      |
-| 10  | 센터   | [정성환](https://ko.wikipedia.org/wiki/정성환_\(배구_선수\) "wikilink") | 2019  |                                                      |
-| 11  | 센터   | [박원빈](../Page/박원빈_\(배구_선수\).md "wikilink")                    | 2014  |                                                      |
-| 12  | 라이트  | [전병선](https://ko.wikipedia.org/wiki/전병선 "wikilink")           | 2014  |                                                      |
-| 14  | 라이트  | [레오 안드리치](https://ko.wikipedia.org/wiki/레오_안드리치 "wikilink")   | 2019  |                                                      |
-| 15  | 레프트  | [최홍석](../Page/최홍석.md "wikilink")                              | 2011  | 2019([한국전력](../Page/수원_한국전력_빅스톰.md "wikilink"))      |
-| 16  | 레프트  | [심경섭](../Page/심경섭.md "wikilink")                              | 2013  |                                                      |
-| 17  | 세터   | [이태봉](https://ko.wikipedia.org/wiki/이태봉 "wikilink")           | 2019  |                                                      |
-| 18  | 센터   | [한상길](../Page/한상길.md "wikilink")                              | 2009  | 2013([현대캐피탈](../Page/천안_현대캐피탈_스카이워커스.md "wikilink")) |
-| 19  | 레프트  | [김웅비](https://ko.wikipedia.org/wiki/김웅비 "wikilink")           | 2019  |                                                      |
-| 20  | 센터   | [전진선](../Page/전진선.md "wikilink")                              | 2018  |                                                      |
-| 21  | 리베로  | [조성찬](https://ko.wikipedia.org/wiki/조성찬 "wikilink")           | 2019  |                                                      |
-| 00  | 센터   | [진상헌](https://ko.wikipedia.org/wiki/진상헌 "wikilink")           | 2007  | 2020([대한항공](../Page/인천_대한항공_점보스.md "wikilink"))      |
+| |번호 | |포지션 | |이름                                                           | |데뷔년도 | |이적년도                                                               |
+| --- | ---- | ------------------------------------------------------------- | ----- | ------------------------------------------------------------------- |
+| 1   | 레프트  | [송명근](../Page/송명근_\(배구_선수\).md "wikilink")                    | 2013  |                                                                     |
+| 2   | 세터   | [곽명우](https://ko.wikipedia.org/wiki/곽명우 "wikilink")           | 2013  |                                                                     |
+| 3   | 리베로  | [정성현](https://ko.wikipedia.org/wiki/정성현 "wikilink")           | 2013  |                                                                     |
+| 4   | 라이트  | [조재성](../Page/조재성.md "wikilink")                              | 2016  |                                                                     |
+| 5   | 리베로  | [조국기](../Page/조국기.md "wikilink")                              | 2011  | 2013([대한항공](../Page/인천_대한항공_점보스.md "wikilink"))                     |
+| 6   | 세터   | [이민규](../Page/이민규_\(배구_선수\).md "wikilink")                    | 2013  |                                                                     |
+| 9   | 센터   | [손주형](https://ko.wikipedia.org/wiki/손주형 "wikilink")           | 2017  |                                                                     |
+| 10  | 센터   | [정성환](https://ko.wikipedia.org/wiki/정성환_\(배구_선수\) "wikilink") | 2019  |                                                                     |
+| 11  | 센터   | [박원빈](../Page/박원빈_\(배구_선수\).md "wikilink")                    | 2014  |                                                                     |
+| 12  | 라이트  | [전병선](https://ko.wikipedia.org/wiki/전병선 "wikilink")           | 2014  |                                                                     |
+| 15  | 레프트  | [최홍석](../Page/최홍석.md "wikilink")                              | 2011  | 2019([한국전력](../Page/수원_한국전력_빅스톰.md "wikilink"))                     |
+| 16  | 레프트  | [심경섭](../Page/심경섭.md "wikilink")                              | 2013  |                                                                     |
+| 17  | 세터   | [이태봉](https://ko.wikipedia.org/wiki/이태봉 "wikilink")           | 2019  |                                                                     |
+| 18  | 센터   | [한상길](../Page/한상길.md "wikilink")                              | 2009  | 2013([현대캐피탈](../Page/천안_현대캐피탈_스카이워커스.md "wikilink"))                |
+| 19  | 레프트  | [김웅비](https://ko.wikipedia.org/wiki/김웅비 "wikilink")           | 2019  |                                                                     |
+| 20  | 센터   | [전진선](../Page/전진선.md "wikilink")                              | 2018  |                                                                     |
+| 21  | 리베로  | [조성찬](https://ko.wikipedia.org/wiki/조성찬 "wikilink")           | 2019  |                                                                     |
+| 00  | 센터   | [진상헌](https://ko.wikipedia.org/wiki/진상헌 "wikilink")           | 2007  | 2020([대한항공](../Page/인천_대한항공_점보스.md "wikilink"))                     |
+| 00  | 세터   | [권준형](https://ko.wikipedia.org/wiki/권준형 "wikilink")           | 2011  | 2020([삼성화재](https://ko.wikipedia.org/wiki/대전_삼성화재_블루팡스 "wikilink")) |
+
+|}
 
 ### 군 입대 선수단
 
@@ -95,7 +97,7 @@
 
 ## 각주
 
-## 함께 보기
+## 같이 보기
 
 ## 링크
 

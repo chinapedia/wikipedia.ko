@@ -11,4 +11,4 @@
 
 [분류:B1A4의 노래](https://ko.wikipedia.org/wiki/분류:B1A4의_노래 "wikilink") [분류:2011년 노래](https://ko.wikipedia.org/wiki/분류:2011년_노래 "wikilink") [분류:2012년 노래](https://ko.wikipedia.org/wiki/분류:2012년_노래 "wikilink") [분류:한국어 노래](https://ko.wikipedia.org/wiki/분류:한국어_노래 "wikilink") [분류:일본어 노래](https://ko.wikipedia.org/wiki/분류:일본어_노래 "wikilink") [분류:대한민국의 노래](https://ko.wikipedia.org/wiki/분류:대한민국의_노래 "wikilink") [분류:일본의 노래](https://ko.wikipedia.org/wiki/분류:일본의_노래 "wikilink") [분류:댄스 팝 노래](https://ko.wikipedia.org/wiki/분류:댄스_팝_노래 "wikilink") [분류:일렉트로팝 노래](https://ko.wikipedia.org/wiki/분류:일렉트로팝_노래 "wikilink") [분류:2011년 싱글](https://ko.wikipedia.org/wiki/분류:2011년_싱글 "wikilink") [분류:2012년 싱글](https://ko.wikipedia.org/wiki/분류:2012년_싱글 "wikilink") [분류:WM 엔터테인먼트 싱글](https://ko.wikipedia.org/wiki/분류:WM_엔터테인먼트_싱글 "wikilink")
 
-1.  [B1A4 공식 홈페이지 앨범 소개글](http://b1a4.com/2013/album.php) 인용.
+1.  [B1A4 공식 홈페이지 앨범 소개글](http://b1a4.com/2013/album.php)  인용.

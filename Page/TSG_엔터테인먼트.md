@@ -641,12 +641,6 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/엑스맨:_뉴_뮤턴트.md" title="wikilink">엑스맨: 뉴 뮤턴트</a></p></td>
-<td><p>In Association with</p></td>
-<td><p><a href="../Page/20세기_스튜디오.md" title="wikilink">20세기 스튜디오</a></p></td>
-<td></td>
-</tr>
-<tr class="even">
 <td></td>
 <td></td>
 <td></td>

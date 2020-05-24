@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [다올 CMS](https://ko.wikipedia.org/wiki/다올_CMS).
 
 
-**다올 CMS**(DAOL CMS)는 [XpressEngine](../Page/XpressEngine.md "wikilink")에서 가지친 CMS로 XE 개발팀에서 중단한 XE 1.5.x 버전대의 보안패치, 기능개선, 기능추가를 하는 프로젝트 이다. 이전 명칭은 XDT EX였으나, 정식으로 배포하면서, 다올 CMS로 이름이 변경되었다. 다올 CMS에서 다올은 '하는 일마다 모두다 복이올' 이라는 뜻과, Contents Management System ([저작물 관리 시스템](../Page/저작물_관리_시스템.md "wikilink"))이 결합되어 이름 지어졌다.\[1\]
+**다올 CMS**(DAOL CMS)는 [XpressEngine](../Page/XpressEngine.md "wikilink")에서 가지친 CMS로 XE 개발팀에서 중단한 XE 1.5.x 버전대의 보안패치, 기능개선, 기능추가를 하는 프로젝트이다. 이전 명칭은 XDT EX였으나, 정식으로 배포하면서, 다올 CMS로 이름이 변경되었다. 다올 CMS에서 다올은 '하는 일마다 모두다 복이올' 이라는 뜻과, Contents Management System ([저작물 관리 시스템](../Page/저작물_관리_시스템.md "wikilink"))이 결합되어 이름 지어졌다.\[1\]
 
 ## 역사
 

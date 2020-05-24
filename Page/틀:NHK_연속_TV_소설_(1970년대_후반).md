@@ -60,7 +60,7 @@
 <td><p><strong>안녕하십니까</strong><br />
 (おはようさん)</p></td>
 <td><p>1975년 10월 6일</p></td>
-<td><p><a href="../Page/오사카부.md" title="wikilink">오사카부</a> <a href="https://ko.wikipedia.org/wiki/오사카_시" title="wikilink">오사카 시</a></p></td>
+<td><p><a href="../Page/오사카부.md" title="wikilink">오사카부</a> <a href="../Page/오사카시.md" title="wikilink">오사카시</a></p></td>
 <td><p>오사카</p></td>
 <td><p>다나베 세이코<br />
 (田辺 聖子)</p></td>

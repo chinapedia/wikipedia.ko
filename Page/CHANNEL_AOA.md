@@ -17,7 +17,7 @@
 
   - [CHANNEL AOA](http://tvcast.naver.com/cjenm.CHANNELAOA) - [네이버TV](../Page/네이버TV.md "wikilink")
 
-[분류:AOA](https://ko.wikipedia.org/wiki/분류:AOA "wikilink") [분류:리얼 버라이어티 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:리얼_버라이어티_텔레비전_프로그램 "wikilink") [분류:2010년대 대한민국의 텔레비전 프로그램‎](https://ko.wikipedia.org/wiki/분류:2010년대_대한민국의_텔레비전_프로그램‎ "wikilink")
+[분류:AOA](https://ko.wikipedia.org/wiki/분류:AOA "wikilink") [분류:리얼 버라이어티 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:리얼_버라이어티_텔레비전_프로그램 "wikilink") [분류:2010년대 대한민국의 텔레비전 프로그램‎](https://ko.wikipedia.org/wiki/분류:2010년대_대한민국의_텔레비전_프로그램‎ "wikilink") [분류:2016년에 시작한 대한민국 TV 프로그램](https://ko.wikipedia.org/wiki/분류:2016년에_시작한_대한민국_TV_프로그램 "wikilink") [분류:2016년에 종료한 대한민국 TV 프로그램](https://ko.wikipedia.org/wiki/분류:2016년에_종료한_대한민국_TV_프로그램 "wikilink")
 
 1.  ['긴또깡' 발언한 설현·지민 “역사 지식 부족으로 불쾌감 느낀 분들께 사과한다”](http://entertain.naver.com/read?oid=277&aid=0003745786) 아시아경제. 2016년 05월 13일
 2.  [안중근 몰라본 AOA 설현ㆍ지민 공개사과…"역사에 무지, 부끄럽고 송구해"](http://www.etoday.co.kr/news/section/newsview.php?idxno=1328759) 이투데이. 2016년 05월 13일

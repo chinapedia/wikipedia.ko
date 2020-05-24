@@ -5,7 +5,7 @@
 
 ## 역사
 
-Franca의 첫 버전은 제니비([GENIVI_Alliance](https://ko.wikipedia.org/wiki/:en:GENIVI_Alliance "wikilink"))컨소시엄에 의해 2011년 개발된 공용 인터페이스 정의 언어(Common Interface Description Language)이며, 자동차 내장 인포테인먼트([In-vehicle_infotainment](https://ko.wikipedia.org/wiki/:en:In-vehicle_infotainment "wikilink"))플랫폼의 표준으로 사용된다. 2012년 3월 [Eclipse_Public_License](https://ko.wikipedia.org/wiki/:en:Eclipse_Public_License "wikilink") 1.0으로 처음 공개되었다. Franca IDL은 2013년에 [이클립스 (소프트웨어)](../Page/이클립스_\(소프트웨어\).md "wikilink") 재단의 공식 프로젝트가 되었다.\[1\] Franca의 주 개발사는 독일의 Itemis사 이다.\[2\]
+Franca의 첫 버전은 제니비([GENIVI_Alliance](https://ko.wikipedia.org/wiki/:en:GENIVI_Alliance "wikilink"))컨소시엄에 의해 2011년 개발된 공용 인터페이스 정의 언어(Common Interface Description Language)이며, 자동차 내장 인포테인먼트([In-vehicle_infotainment](https://ko.wikipedia.org/wiki/:en:In-vehicle_infotainment "wikilink"))플랫폼의 표준으로 사용된다. 2012년 3월 [Eclipse_Public_License](https://ko.wikipedia.org/wiki/:en:Eclipse_Public_License "wikilink") 1.0으로 처음 공개되었다. Franca IDL은 2013년에 [이클립스 (소프트웨어)](../Page/이클립스_\(소프트웨어\).md "wikilink") 재단의 공식 프로젝트가 되었다.\[1\] Franca의 주 개발사는 독일의 Itemis사이다.\[2\]
 
 ## 기능
 

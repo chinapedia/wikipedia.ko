@@ -142,6 +142,24 @@
 <li>작곡 : Young K, ISAAC HAN</li>
 </ul></td>
 </tr>
+<tr class="even">
+<td><p>2019.11.01</p></td>
+<td><p>휴이(HÜ)</p></td>
+<td><p><Love Me Tonight></p></td>
+<td><p>《RE:verse》</p></td>
+<td><ul>
+<li>작곡 : 차일훈, Young K, 김기윤</li>
+</ul></td>
+</tr>
+<tr class="odd">
+<td><p>2019.11.01</p></td>
+<td><p>휴이(HÜ)</p></td>
+<td><p>&lt;원해 (I want you more)&gt;</p></td>
+<td><p>《RE:verse》</p></td>
+<td><ul>
+<li>작곡 : 차일훈, Young K</li>
+</ul></td>
+</tr>
 </tbody>
 </table>
 
@@ -162,22 +180,54 @@
 <tr class="odd">
 <td><p>2015</p></td>
 <td><p>음반</p></td>
-<td><p><a href="https://www.youtube.com/watch?v=x815A21RIto">백아연 〈이럴거면 그러지말지〉</a><br />
-(Feat. Young K)</p></td>
+<td><ul>
+<li><a href="https://www.youtube.com/watch?v=x815A21RIto">백아연 〈이럴거면 그러지말지〉 (Feat. Young K)</a></li>
+</ul></td>
 <td><p>《이럴거면 그러지말지》</p></td>
-<td><p>작사 : <a href="../Page/백아연.md" title="wikilink">백아연</a>, 심은지, Young K<br />
-<a href="https://ko.wikipedia.org/wiki/Featuring" title="wikilink">Featuring</a> : Young K</p></td>
+<td><ul>
+<li>작사 : <a href="../Page/백아연.md" title="wikilink">백아연</a>, 심은지, Young K<br />
+</li>
+</ul></td>
 <td><p><a href="../Page/JYP_엔터테인먼트.md" title="wikilink">JYP 엔터테인먼트</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2015</p></td>
 <td><p>음반</p></td>
-<td><p><a href="https://www.youtube.com/watch?v=c6CgQr4PU8w">박새별 &amp; Like Likes 〈SKY HIGH〉</a><br />
-(Feat. Young K)</p></td>
+<td><ul>
+<li><a href="https://www.youtube.com/watch?v=c6CgQr4PU8w">박새별 &amp; Like Likes 〈SKY HIGH〉 (Feat. Young K)</a></li>
+</ul></td>
 <td><p><a href="http://www.antenna.co.kr/front/main.do#!/front/releases.do?SEQ=29">《SKY HIGH》</a></p></td>
-<td><p>작사 : <a href="../Page/박새별.md" title="wikilink">박새별</a>, Young K<br />
-Featuring : Young K</p></td>
+<td><ul>
+<li>작사 : <a href="../Page/박새별.md" title="wikilink">박새별</a>, Young K<br />
+</li>
+</ul></td>
 <td><p>CJENMMUSIC Official</p></td>
+</tr>
+<tr class="odd">
+<td><p>2019</p></td>
+<td><p>음반</p></td>
+<td><ul>
+<li><a href="https://www.youtube.com/watch?v=CooiRSIxpOQ">휴이(HÜ) <원해> (Official MV)</a></li>
+<li><a href="https://www.youtube.com/watch?v=ooUlpIpycSs">휴이(HÜ) <원해> (HÜ OFFICIAL LIVE)</a></li>
+</ul></td>
+<td><p>《RE:verse》</p></td>
+<td><ul>
+<li>작곡 : 차일훈, Young K<br />
+</li>
+</ul></td>
+<td><p><a href="https://www.youtube.com/user/bandhui/videos">HÜ휴이 Official</a></p></td>
+</tr>
+<tr class="even">
+<td><p>2019</p></td>
+<td><p>음반</p></td>
+<td><ul>
+<li><a href="https://www.youtube.com/watch?v=KaLTZojUH48">휴이(HÜ) <Love Me Tonight> (HÜ OFFICIAL LIVE)</a></li>
+</ul></td>
+<td><p>《RE:verse》</p></td>
+<td><ul>
+<li>작곡 : 차일훈, Young K, 김기윤</li>
+</ul></td>
+<td><p><a href="https://www.youtube.com/user/bandhui/videos">HÜ휴이 Official</a></p></td>
 </tr>
 <tr class="odd">
 <td></td>

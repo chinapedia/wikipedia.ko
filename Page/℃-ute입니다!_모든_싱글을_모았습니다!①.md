@@ -38,7 +38,7 @@
 
 ## 외부 링크
 
-  - [헬로\! 프로젝트 공식 사이트 발매 정보](http://helloproject.com/release/detail/EPCE-5674/)
+  - [헬로\! 프로젝트 공식 사이트 발매 정보](https://web.archive.org/web/20160402221040/http://www.helloproject.com/release/detail/EPCE-5674/)
 
 {{℃-ute}}
 

@@ -14,7 +14,7 @@
 
 ## 외부 링크
 
-  - [파나티나이코스 웹사이트](http://www.paobc.gr/page.ashx?pid=1&lang=2)
+  - [파나티나이코스 웹사이트](https://web.archive.org/web/20140331041749/http://www.paobc.gr/page.ashx?pid=1&lang=2)
 
   - [파나티나이코스 페이스북](https://www.facebook.com/paobcgr)
 

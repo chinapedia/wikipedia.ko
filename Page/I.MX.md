@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [I.MX](https://ko.wikipedia.org/wiki/I.MX).
 
 
-[섬네일|Freescale MCIMX507CVM8B ](https://ko.wikipedia.org/wiki/파일:Tolino_shine_-_controller_board_-_Freescale_MCIMX507CVM8B-1996.jpg "wikilink") **i.MX**는 [프리스케일 세미컨덕터에서](../Page/프리스케일_세미컨덕터.md "wikilink") 제작하는 [ARM 아키텍처](../Page/ARM_아키텍처.md "wikilink") 기반의 프로세서이다.\[1\] 최신버전은 i.MX6 이다.
+[섬네일|Freescale MCIMX507CVM8B ](https://ko.wikipedia.org/wiki/파일:Tolino_shine_-_controller_board_-_Freescale_MCIMX507CVM8B-1996.jpg "wikilink") **i.MX**는 [프리스케일 세미컨덕터에서](../Page/프리스케일_세미컨덕터.md "wikilink") 제작하는 [ARM 아키텍처](../Page/ARM_아키텍처.md "wikilink") 기반의 프로세서이다.\[1\] 최신버전은 i.MX6이다.
 
 ## 제품 목록
 

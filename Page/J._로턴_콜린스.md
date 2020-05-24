@@ -5,7 +5,7 @@
 
 ## 초기 경력
 
-콜린스는 [뉴올리언스](../Page/뉴올리언스.md "wikilink")의 [아일랜드 가톨릭을](https://ko.wikipedia.org/wiki/아일랜드_가톨릭 "wikilink") 믿는 가족에게서 태어났다. 그는 [미국 육군사관학교를](https://ko.wikipedia.org/wiki/미국_육군사관학교 "wikilink") 1917년 졸업했으며, [소위](https://ko.wikipedia.org/wiki/소위 "wikilink")에 임명되어 [제22보병사단에](https://ko.wikipedia.org/wiki/제22보병사단_\(미국\) "wikilink") 배치되었다. 이후 동년 5월에는 [중위](https://ko.wikipedia.org/wiki/중위 "wikilink")로, 8월에는 [대위](https://ko.wikipedia.org/wiki/대위 "wikilink")로 승진했다. 그는 [암스 보병학교에](https://ko.wikipedia.org/wiki/암스_보병학교 "wikilink") 입학하여 그의 다양한 직무를 1917년부터 1919년까지 수행했다. 1918년 9월에 일시적으로 [소령](https://ko.wikipedia.org/wiki/소령 "wikilink")으로 진급하여 제3군단의 제22보병사단을 [프랑스](../Page/프랑스.md "wikilink")에서 지휘했다. 1920년부터 1921년까지 독일 주둔 미군에 있으면서 그는 [바이마르 공화국에](../Page/바이마르_공화국.md "wikilink") 주둔하였다.\[2\]
+콜린스는 [뉴올리언스](../Page/뉴올리언스.md "wikilink")의 [아일랜드 가톨릭을](https://ko.wikipedia.org/wiki/아일랜드_가톨릭 "wikilink") 믿는 가족에게서 태어났다. 그는 [미국 육군사관학교를](../Page/미국_육군사관학교.md "wikilink") 1917년 졸업했으며, [소위](https://ko.wikipedia.org/wiki/소위 "wikilink")에 임명되어 [제22보병사단에](https://ko.wikipedia.org/wiki/제22보병사단_\(미국\) "wikilink") 배치되었다. 이후 동년 5월에는 [중위](https://ko.wikipedia.org/wiki/중위 "wikilink")로, 8월에는 [대위](https://ko.wikipedia.org/wiki/대위 "wikilink")로 승진했다. 그는 [암스 보병학교에](https://ko.wikipedia.org/wiki/암스_보병학교 "wikilink") 입학하여 그의 다양한 직무를 1917년부터 1919년까지 수행했다. 1918년 9월에 일시적으로 [소령](https://ko.wikipedia.org/wiki/소령 "wikilink")으로 진급하여 제3군단의 제22보병사단을 [프랑스](../Page/프랑스.md "wikilink")에서 지휘했다. 1920년부터 1921년까지 독일 주둔 미군에 있으면서 그는 [바이마르 공화국에](../Page/바이마르_공화국.md "wikilink") 주둔하였다.\[2\]
 
 ## 진급
 

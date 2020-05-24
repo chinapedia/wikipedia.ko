@@ -52,6 +52,10 @@
   - [샘 김](https://ko.wikipedia.org/wiki/샘_김 "wikilink")
   - [송유빈](../Page/송유빈.md "wikilink")
 
+### 시즌 9: THE 프렌즈 in 아드리아 해
+
+  - [여자친구](https://ko.wikipedia.org/wiki/여자친구 "wikilink")
+
 ## 외부 링크
 
   - [프렌즈 in 마카오](http://kstar.ihq.co.kr/macau/)
@@ -63,4 +67,4 @@
   - [THE 프렌즈 in 치앙마이](http://kstar.ihq.co.kr/chiangmai/)
   - [THE 프렌즈 in 코스타리카](http://kstar.ihq.co.kr/costarica/)
 
-[분류:2010년대 대한민국의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:2010년대_대한민국의_텔레비전_프로그램 "wikilink") [분류:대한민국의 리얼리티 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:대한민국의_리얼리티_텔레비전_프로그램 "wikilink") [분류:대한민국의 여행 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:대한민국의_여행_텔레비전_프로그램 "wikilink")
+[분류:2010년대 대한민국의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:2010년대_대한민국의_텔레비전_프로그램 "wikilink") [분류:대한민국의 리얼리티 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:대한민국의_리얼리티_텔레비전_프로그램 "wikilink") [분류:대한민국의 여행 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:대한민국의_여행_텔레비전_프로그램 "wikilink") [분류:2014년에 시작한 대한민국 TV 프로그램](https://ko.wikipedia.org/wiki/분류:2014년에_시작한_대한민국_TV_프로그램 "wikilink") [분류:2018년에 종료한 대한민국 TV 프로그램](https://ko.wikipedia.org/wiki/분류:2018년에_종료한_대한민국_TV_프로그램 "wikilink")

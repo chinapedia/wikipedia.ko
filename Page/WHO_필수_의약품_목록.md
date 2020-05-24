@@ -115,6 +115,7 @@
 #### 장 구충제
 
   - [알벤다졸](../Page/알벤다졸.md "wikilink")
+  - [이버멕틴](../Page/이버멕틴.md "wikilink")
   - [레바미솔](https://ko.wikipedia.org/wiki/레바미솔 "wikilink")
   - [메벤다졸](../Page/메벤다졸.md "wikilink")
   - [니클로사미드](https://ko.wikipedia.org/wiki/니클로사미드 "wikilink")
@@ -138,7 +139,7 @@
 #### [베타-락탐계열 항생제](../Page/베타-락탐계열_항생제.md "wikilink")
 
   - [아목시실린](../Page/아목시실린.md "wikilink")
-  - [아목시실린/클라블란산](https://ko.wikipedia.org/wiki/아목시실린/클라블란산 "wikilink") ([아목시실린](../Page/아목시실린.md "wikilink") + [클라블란산](https://ko.wikipedia.org/wiki/클라블란산 "wikilink"))
+  - [아목시실린/클라불란산](https://ko.wikipedia.org/wiki/아목시실린/클라불란산 "wikilink") ([아목시실린](../Page/아목시실린.md "wikilink") + [클라불란산](https://ko.wikipedia.org/wiki/클라불란산 "wikilink"))
   - [암피실린](../Page/암피실린.md "wikilink")
   - [벤자틴벤질페니실린](https://ko.wikipedia.org/wiki/벤자틴벤질페니실린 "wikilink")
   - [벤질페니실린](../Page/벤질페니실린.md "wikilink")
@@ -155,7 +156,7 @@
 
 #### 기타 항균제
 
-  - [아지스로마이신](https://ko.wikipedia.org/wiki/아지스로마이신 "wikilink")\[16\]
+  - [아지트로마이신](../Page/아지트로마이신.md "wikilink")\[16\]
   - [클로람페니콜](../Page/클로람페니콜.md "wikilink")
   - [시프로플록사신](../Page/시프로플록사신.md "wikilink")
   - [클래리스로마이신](../Page/클래리스로마이신.md "wikilink")\[17\]
@@ -217,7 +218,7 @@
 
 ##### 뉴클레오시드/뉴클레오티드 역전사 효소 억제제
 
-  - [아바카비어](https://ko.wikipedia.org/wiki/아바카비어 "wikilink") (ABC)
+  - [아바카비르](https://ko.wikipedia.org/wiki/아바카비르 "wikilink") (ABC)
   - [디다노신](https://ko.wikipedia.org/wiki/디다노신 "wikilink") (ddI)
   - [엠트리시타빈](https://ko.wikipedia.org/wiki/엠트리시타빈 "wikilink") (FTC)\[19\]
   - [라미부딘](https://ko.wikipedia.org/wiki/라미부딘 "wikilink") (3TC)
@@ -234,8 +235,8 @@
 
   - [아타자나비어](https://ko.wikipedia.org/wiki/아타자나비어 "wikilink")
   - [인디나비르](https://ko.wikipedia.org/wiki/인디나비르 "wikilink") (IDV)
-  - [로피나비어](https://ko.wikipedia.org/wiki/로피나비어 "wikilink") + [리토나비어](https://ko.wikipedia.org/wiki/리토나비어 "wikilink") (LPV/r)
-  - [리토나비어](https://ko.wikipedia.org/wiki/리토나비어 "wikilink")
+  - [로피나비어](https://ko.wikipedia.org/wiki/로피나비어 "wikilink") + [리토나비르](https://ko.wikipedia.org/wiki/리토나비르 "wikilink") (LPV/r)
+  - [리토나비르](https://ko.wikipedia.org/wiki/리토나비르 "wikilink")
   - [사퀴나비르](https://ko.wikipedia.org/wiki/사퀴나비르 "wikilink") (SQV)
 
 ###### 고정 용량 복합제
@@ -660,7 +661,7 @@
   - [BCG 백신](../Page/BCG_백신.md "wikilink")
   - [콜레라 백신](../Page/콜레라_백신.md "wikilink")
   - [디프테리아 백신](https://ko.wikipedia.org/wiki/디프테리아_백신 "wikilink")
-  - [B형 인플루엔자 백신](https://ko.wikipedia.org/wiki/B형_인플루엔자_백신 "wikilink")
+  - [B형 헤모필루스 인플루엔자 백신](https://ko.wikipedia.org/wiki/B형_헤모필루스_인플루엔자_백신 "wikilink")
   - [A형 간염 백신](https://ko.wikipedia.org/wiki/A형_간염_백신 "wikilink")
   - [B형 간염 백신](../Page/B형_간염_백신.md "wikilink")
   - [HPV 백신](../Page/HPV_백신.md "wikilink")
@@ -673,7 +674,7 @@
   - [폐렴구균 백신](https://ko.wikipedia.org/wiki/폐렴구균_백신 "wikilink")
   - [척수성 소아마비 백신](https://ko.wikipedia.org/wiki/척수성_소아마비_백신 "wikilink")
   - [광견병 백신](https://ko.wikipedia.org/wiki/광견병_백신 "wikilink")
-  - [로터바이러스 백신](https://ko.wikipedia.org/wiki/로터바이러스_백신 "wikilink")
+  - [로타바이러스 백신](https://ko.wikipedia.org/wiki/로타바이러스_백신 "wikilink")
   - [풍진 백신](https://ko.wikipedia.org/wiki/풍진_백신 "wikilink")
   - [파상풍 백신](https://ko.wikipedia.org/wiki/파상풍_백신 "wikilink")
   - [장티푸스 백신](https://ko.wikipedia.org/wiki/장티푸스_백신 "wikilink")

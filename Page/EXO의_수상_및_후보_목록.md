@@ -247,12 +247,12 @@
 <thead>
 <tr class="header">
 <th><p>연도</p></th>
-<th><p>수상 내역 (총 127회)</p></th>
+<th><p>수상 내역 (총 109회)</p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>2013년 (총 27회)</p></td>
+<td><p>2013년 (총 26회)</p></td>
 <td><ul>
 <li>'''늑대와 미녀 (총 4회)
 <ul>
@@ -278,7 +278,7 @@
 <li>9월 5일 <a href="https://ko.wikipedia.org/wiki/M.net" title="wikilink">M.net</a> 《<a href="https://ko.wikipedia.org/wiki/엠카운트다운" title="wikilink">엠카운트다운</a>》 1위 (트리플 크라운)</li>
 <li>9월 7일 <a href="https://ko.wikipedia.org/wiki/MBC" title="wikilink">MBC</a> 《<a href="https://ko.wikipedia.org/wiki/쇼_음악중심" title="wikilink">쇼 음악중심</a>》 1위 (3주 연속)</li>
 </ul></li>
-<li>'''12월의 기적 (총 9회)
+<li>'''12월의 기적 (총 8회)
 <ul>
 <li>12월 14일 <a href="https://ko.wikipedia.org/wiki/MBC" title="wikilink">MBC</a> 《<a href="https://ko.wikipedia.org/wiki/쇼_음악중심" title="wikilink">쇼 음악중심</a>》 1위</li>
 <li>12월 15일 <a href="../Page/SBS.md" title="wikilink">SBS</a> 《<a href="https://ko.wikipedia.org/wiki/인기가요" title="wikilink">인기가요</a>》 1위</li>
@@ -292,22 +292,19 @@
 </ul></td>
 </tr>
 <tr class="even">
-<td><p>2014년 (총 12회)</p></td>
+<td><p>2014년 (총 9회)</p></td>
 <td><ul>
-<li>'''12월의 기적 (총 2회)
+<li>'''12월의 기적 (총 1회)
 <ul>
 <li>1월 2일 <a href="https://ko.wikipedia.org/wiki/M.net" title="wikilink">M.net</a> 《<a href="https://ko.wikipedia.org/wiki/엠카운트다운" title="wikilink">엠카운트다운</a>》 1위 (트리플 크라운)</li>
-<li>1월 3일 <a href="https://ko.wikipedia.org/wiki/KBS" title="wikilink">KBS</a> 《<a href="../Page/뮤직뱅크.md" title="wikilink">뮤직뱅크</a>》 K-Chart 1위 (통산 2주)</li>
 </ul></li>
-<li>'''중독 (총 10회)
+<li>'''중독 (총 8회)
 <ul>
 <li>5월 14일 <a href="https://ko.wikipedia.org/wiki/MBC_MUSIC" title="wikilink">MBC MUSIC</a> 《<a href="https://ko.wikipedia.org/wiki/쇼_챔피언" title="wikilink">쇼 챔피언</a>》 챔피언송</li>
 <li>5월 15일 <a href="https://ko.wikipedia.org/wiki/M.net" title="wikilink">M.net</a> 《<a href="https://ko.wikipedia.org/wiki/엠카운트다운" title="wikilink">엠카운트다운</a>》 1위</li>
-<li>5월 16일 <a href="https://ko.wikipedia.org/wiki/KBS" title="wikilink">KBS</a> 《<a href="../Page/뮤직뱅크.md" title="wikilink">뮤직뱅크</a>》 K-Chart 1위</li>
 <li>5월 17일 <a href="https://ko.wikipedia.org/wiki/MBC" title="wikilink">MBC</a> 《<a href="https://ko.wikipedia.org/wiki/쇼_음악중심" title="wikilink">쇼 음악중심</a>》 1위</li>
 <li>5월 18일 <a href="../Page/SBS.md" title="wikilink">SBS</a> 《<a href="https://ko.wikipedia.org/wiki/인기가요" title="wikilink">인기가요</a>》 1위</li>
 <li>5월 22일 <a href="https://ko.wikipedia.org/wiki/M.net" title="wikilink">M.net</a> 《<a href="https://ko.wikipedia.org/wiki/엠카운트다운" title="wikilink">엠카운트다운</a>》 1위 (2주 연속)</li>
-<li>5월 23일 <a href="https://ko.wikipedia.org/wiki/KBS" title="wikilink">KBS</a> 《<a href="../Page/뮤직뱅크.md" title="wikilink">뮤직뱅크</a>》 K-Chart 1위 (2주 연속)</li>
 <li>5월 24일 <a href="https://ko.wikipedia.org/wiki/MBC" title="wikilink">MBC</a> 《<a href="https://ko.wikipedia.org/wiki/쇼_음악중심" title="wikilink">쇼 음악중심</a>》 1위 (2주 연속)</li>
 <li>5월 25일 <a href="../Page/SBS.md" title="wikilink">SBS</a> 《<a href="https://ko.wikipedia.org/wiki/인기가요" title="wikilink">인기가요</a>》 1위 (2주 연속)</li>
 <li>6월 1일 <a href="../Page/SBS.md" title="wikilink">SBS</a> 《<a href="https://ko.wikipedia.org/wiki/인기가요" title="wikilink">인기가요</a>》 1위 (트리플 크라운)</li>
@@ -315,12 +312,8 @@
 </ul></td>
 </tr>
 <tr class="odd">
-<td><p>2015년 (총 32회)</p></td>
+<td><p>2015년 (총 30회)</p></td>
 <td><ul>
-<li>'''December, 2014 (총 1회)
-<ul>
-<li>1월 2일 <a href="https://ko.wikipedia.org/wiki/KBS" title="wikilink">KBS</a> 《<a href="../Page/뮤직뱅크.md" title="wikilink">뮤직뱅크</a>》 K-Chart 1위</li>
-</ul></li>
 <li>'''CALL ME BABY (총 18회)
 <ul>
 <li>4월 5일 <a href="../Page/SBS.md" title="wikilink">SBS</a> 《<a href="https://ko.wikipedia.org/wiki/인기가요" title="wikilink">인기가요</a>》 1위</li>
@@ -356,20 +349,15 @@
 <li>6월 24일 <a href="https://ko.wikipedia.org/wiki/MBC_MUSIC" title="wikilink">MBC MUSIC</a> 《<a href="https://ko.wikipedia.org/wiki/쇼챔피언" title="wikilink">쇼챔피언</a>》 챔피언송 (3주 연속)</li>
 <li>6월 27일 <a href="https://ko.wikipedia.org/wiki/MBC" title="wikilink">MBC</a> 《<a href="https://ko.wikipedia.org/wiki/쇼_음악중심" title="wikilink">쇼 음악중심</a>》 1위 (3주 연속)</li>
 </ul></li>
-<li>'''Sing For You (총 2회)
+<li>'''Sing For You (총 1회)
 <ul>
 <li>12월 18일 <a href="https://ko.wikipedia.org/wiki/KBS" title="wikilink">KBS</a> 《<a href="../Page/뮤직뱅크.md" title="wikilink">뮤직뱅크</a>》 K-Chart 1위</li>
-<li>12월 25일 <a href="https://ko.wikipedia.org/wiki/KBS" title="wikilink">KBS</a> 《<a href="../Page/뮤직뱅크.md" title="wikilink">뮤직뱅크</a>》 K-Chart 1위 (2주 연속)</li>
 </ul></li>
 </ul></td>
 </tr>
 <tr class="even">
-<td><p>2016년 (총 18회)</p></td>
+<td><p>2016년 (총 17회)</p></td>
 <td><ul>
-<li>'''Sing For You (총 1회)
-<ul>
-<li>1월 1일 <a href="https://ko.wikipedia.org/wiki/KBS" title="wikilink">KBS</a> 《<a href="../Page/뮤직뱅크.md" title="wikilink">뮤직뱅크</a>》 K-Chart 1위 (3주 연속) (트리플 크라운)</li>
-</ul></li>
 <li>'''Monster (총 9회)
 <ul>
 <li>6월 16일 <a href="https://ko.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a> 《<a href="https://ko.wikipedia.org/wiki/엠카운트다운" title="wikilink">엠카운트다운</a>》1위</li>
@@ -426,13 +414,11 @@
 </ul></td>
 </tr>
 <tr class="even">
-<td><p>2018년 (총 8회)</p></td>
+<td><p>2018년 (총 6회)</p></td>
 <td><ul>
-<li><strong>Universe (총 3회)</strong>
+<li><strong>Universe (총 1회)</strong>
 <ul>
-<li>1월 5일 <a href="https://ko.wikipedia.org/wiki/KBS" title="wikilink">KBS</a> 《<a href="../Page/뮤직뱅크.md" title="wikilink">뮤직뱅크</a>》 K-Chart 1위</li>
 <li>1월 6일 <a href="https://ko.wikipedia.org/wiki/MBC" title="wikilink">MBC</a> 《<a href="https://ko.wikipedia.org/wiki/쇼_음악중심" title="wikilink">쇼 음악중심</a>》 1위</li>
-<li>1월 12일 <a href="https://ko.wikipedia.org/wiki/KBS" title="wikilink">KBS</a> 《<a href="../Page/뮤직뱅크.md" title="wikilink">뮤직뱅크</a>》 K-Chart 1위 (2주 연속)</li>
 </ul></li>
 <li><strong>Tempo (총 2회)</strong>
 <ul>
@@ -448,12 +434,8 @@
 </ul></td>
 </tr>
 <tr class="odd">
-<td><p>2019년 (총 6회)</p></td>
+<td><p>2019년 (총 5회)</p></td>
 <td><ul>
-<li><strong>Tempo (총 1회)</strong>
-<ul>
-<li>1월 4일 <a href="https://ko.wikipedia.org/wiki/KBS" title="wikilink">KBS</a> 《<a href="../Page/뮤직뱅크.md" title="wikilink">뮤직뱅크</a>》 K-Chart 1위 (트리플 크라운)</li>
-</ul></li>
 <li><strong>Obsession (총 5회)</strong>
 <ul>
 <li>12월 6일 <a href="https://ko.wikipedia.org/wiki/KBS" title="wikilink">KBS</a> 《<a href="../Page/뮤직뱅크.md" title="wikilink">뮤직뱅크</a>》 K-Chart 1위</li>

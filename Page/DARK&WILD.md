@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [DARK\&WILD](https://ko.wikipedia.org/wiki/DARK\&WILD).
 
 
-《**DARK\&WILD**》는 2014년 8월 20일에 발매한 [방탄소년단](../Page/방탄소년단.md "wikilink")의 첫 번째 정규 음반이다.\[1\]
+《**DARK\&WILD**》는 2014년 8월 20일에 발매한 [대한민국](../Page/대한민국.md "wikilink")의 [보이 그룹](https://ko.wikipedia.org/wiki/보이_그룹 "wikilink") [방탄소년단](../Page/방탄소년단.md "wikilink")의 첫 번째 정규 음반이다.\[1\]
 
 ## 트랙리스트
 

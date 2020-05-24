@@ -7,7 +7,7 @@
 
 ## 방송 대역
 
-FM 라디오 방송 대역은 보통 전 세계적으로 [초단파](../Page/초단파.md "wikilink") 87.5 \~ 108.0 MHz 사이에서 사용되고 있다.\[3\] 주파수 간격은 보통 전세계적으로는 0.1 MHz(100 kHz)씩 사용하며, 일부 국가에 따라 간격 차이가 있다. [대한민국](../Page/대한민국.md "wikilink")과 [미국](../Page/미국.md "wikilink")을 포함한 [카리브 해](https://ko.wikipedia.org/wiki/카리브_해 "wikilink") 연안 지역 등지에서는 0.2 MHz(200 kHz)씩 홀수 단위로 배당되며, [이탈리아](../Page/이탈리아.md "wikilink")와 [태국](../Page/태국.md "wikilink")에서는 0.05 MHz(50 kHz)씩 사용하기도 한다. [구 소련](https://ko.wikipedia.org/wiki/구_소련 "wikilink") 및 과거 [동구권](../Page/동구권.md "wikilink") 국가에서는 65 \~ 74 MHz 대역을 사용한적이 있으며 지금도 CCIR대역과 병행하고있다. [일본](../Page/일본.md "wikilink")에서는 76 \~ 90 MHz 대역을 사용하고 있다가 2011년 와이드FM의 시행으로 인해 76 \~ 95MHz로 변경되었다.
+FM 라디오 방송 대역은 보통 전 세계적으로 [초단파](../Page/초단파.md "wikilink") 87.5 \~ 108.0 MHz 사이에서 사용되고 있다.\[3\] 주파수 간격은 보통 전세계적으로는 0.1 MHz(100 kHz)씩 사용하며, 일부 국가에 따라 간격 차이가 있다. [대한민국](../Page/대한민국.md "wikilink")과 [미국](../Page/미국.md "wikilink")을 포함한 [카리브 해](https://ko.wikipedia.org/wiki/카리브_해 "wikilink") 연안 지역 등지에서는 0.2 MHz(200 kHz)씩 홀수 단위로 배당되며, [이탈리아](../Page/이탈리아.md "wikilink")와 [태국](../Page/태국.md "wikilink")에서는 0.05 MHz(50 kHz)씩 사용하기도 한다. [구 소련](https://ko.wikipedia.org/wiki/구_소련 "wikilink") 및 과거 [동구권](../Page/동구권.md "wikilink") 국가에서는 65 \~ 74 MHz 대역을 사용한적이 있으며 지금도 CCIR대역과 병행하고있다. [일본](../Page/일본.md "wikilink")에서는 76 \~ 90 MHz 대역을 사용하고 있다가 2014년 와이드FM의 시행으로 인해 76 \~ 95MHz로 변경되었다.
 
 방송대역의 상이함으로 인해 대부분 국가에서는 [주파수 변환기(Band Expander)라는](https://ko.wikipedia.org/wiki/:en:Band_expander "wikilink") 액세러리를 제조/판매하고있다.
 

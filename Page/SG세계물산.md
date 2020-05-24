@@ -15,7 +15,7 @@
 
 2015년 현재 주가는 저평가되어 [동전주](../Page/동전주.md "wikilink") 상태이며 당해 6월 상한가 및 하한가 제한이 30%로 확대된 이후 생겨난 소위 [동전주 테마](https://ko.wikipedia.org/wiki/테마주#동전주_테마 "wikilink") 열풍에 힘입어 7월에 급등한 일이 있다. SG세계물산과 함께 [동전주 테마주로](https://ko.wikipedia.org/wiki/테마주#동전주_테마 "wikilink") 급등한 종목으로는 [슈넬생명과학](https://ko.wikipedia.org/wiki/슈넬생명과학 "wikilink"), [지엠피](../Page/지엠피.md "wikilink"), [케이디건설](../Page/케이디건설.md "wikilink"), [미래산업](../Page/미래산업.md "wikilink"), [갑을메탈](https://ko.wikipedia.org/wiki/갑을메탈 "wikilink"), [웨이포트](../Page/웨이포트.md "wikilink"), [큐캐피탈](https://ko.wikipedia.org/wiki/큐캐피탈 "wikilink"), [씨씨에스](https://ko.wikipedia.org/wiki/씨씨에스 "wikilink") 등이 있다.
 
-## 함께 보기
+## 같이 보기
 
   - [동전주](../Page/동전주.md "wikilink")
   - [동전주 테마](https://ko.wikipedia.org/wiki/테마주#동전주_테마 "wikilink")

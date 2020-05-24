@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Snow Man](https://ko.wikipedia.org/wiki/Snow_Man).
 
 
-**Snow Man**은 [쟈니즈 Jr.의](https://ko.wikipedia.org/wiki/자니즈_주니어 "wikilink") 9인조 유닛. [쟈니즈 사무소](https://ko.wikipedia.org/wiki/쟈니즈_사무소 "wikilink") 소속.
+**Snow Man**은 [2012년](../Page/2012년.md "wikilink")에 결성한 9인조아이돌 그룹이다. 2020년 1월 22일에 싱글 《D.D./Imitation Rain》으로 데뷔하였다.
 
 ## 멤버
 
@@ -41,22 +41,22 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/아베_료헤이.md" title="wikilink">아베 료헤이</a> ()</p></td>
-<td><p>, <a href="https://ko.wikipedia.org/wiki/치바_현" title="wikilink">치바 현</a> 출신, AB형</p></td>
+<td><p>, <a href="../Page/지바현.md" title="wikilink">지바현</a> 출신, AB형</p></td>
 <td><p>그린</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/무카이_코지.md" title="wikilink">무카이 코지</a> ()</p></td>
-<td><p>, <a href="https://ko.wikipedia.org/wiki/오사카_부" title="wikilink">오사카 부</a> 출신, A형</p></td>
+<td><p>, <a href="../Page/오사카부.md" title="wikilink">오사카부</a> 출신, A형</p></td>
 <td><p>오렌지</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/메구로_렌" title="wikilink">메구로 렌</a> ()</p></td>
-<td><p>, <a href="https://ko.wikipedia.org/wiki/도쿄_도" title="wikilink">도쿄 도</a> 출신, B형</p></td>
+<td><p>, <a href="../Page/도쿄도.md" title="wikilink">도쿄도</a> 출신, B형</p></td>
 <td><p>블랙</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/무라카미_마이토_라울" title="wikilink">라울</a> ()</p></td>
-<td><p>, <a href="https://ko.wikipedia.org/wiki/도쿄_도" title="wikilink">도쿄 도</a> 출신, A형</p></td>
+<td><p>, <a href="../Page/도쿄도.md" title="wikilink">도쿄도</a> 출신, A형</p></td>
 <td><p>화이트</p></td>
 </tr>
 </tbody>

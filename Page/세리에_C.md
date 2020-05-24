@@ -27,7 +27,7 @@
 <!-- end list -->
 
   - 1935-36 - [베네치아](https://ko.wikipedia.org/wiki/SSC_베네치아 "wikilink"), [크레모네세](../Page/US_크레모네세.md "wikilink"), [스페치아](https://ko.wikipedia.org/wiki/스페치아_칼초_1906 "wikilink"), [카탄차로](../Page/US_카탄차로_1929.md "wikilink")
-  - 1936-37 - [파도바](../Page/칼초_파도바.md "wikilink"), [비제바노](https://ko.wikipedia.org/wiki/비제바노_칼초 "wikilink"), [산레메세](https://ko.wikipedia.org/wiki/SSD_산레메세_칼초 "wikilink"), [안코니타나](https://ko.wikipedia.org/wiki/US_안코니타나_ASD "wikilink"), [타란토](https://ko.wikipedia.org/wiki/타란토_FC_1927 "wikilink")
+  - 1936-37 - [파도바](../Page/칼초_파도바.md "wikilink"), [비제바노](https://ko.wikipedia.org/wiki/비제바노_칼초 "wikilink"), [산레메세](https://ko.wikipedia.org/wiki/SSD_산레메세_칼초 "wikilink"), [안코니타나](https://ko.wikipedia.org/wiki/US_안코니타나_ASD "wikilink"), [타란토](../Page/타란토_FC_1927.md "wikilink")
   - 1937-38 - [SPAL](https://ko.wikipedia.org/wiki/SPAL_1907 "wikilink"), [판풀라 로디](https://ko.wikipedia.org/wiki/ASD_판풀라 "wikilink"), [카살레](https://ko.wikipedia.org/wiki/AS_카살레_칼초 "wikilink"), [시에나](../Page/로부르_시에나.md "wikilink"), [살레르니타나](https://ko.wikipedia.org/wiki/살레르니타나_칼초_1919 "wikilink")
   - 1938-39 - [브레시아](../Page/브레시아_칼초.md "wikilink"), [카타니아](https://ko.wikipedia.org/wiki/칼초_카타니아 "wikilink")
   - 1939-40 - [레자나](https://ko.wikipedia.org/wiki/AC_레자나_1919 "wikilink"), [비첸차](https://ko.wikipedia.org/wiki/비첸차_칼초 "wikilink"), [마체라테세](https://ko.wikipedia.org/wiki/SS_마체라테세 "wikilink")

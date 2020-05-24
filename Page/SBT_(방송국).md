@@ -17,7 +17,7 @@ SBT의 전신은 [1950년](../Page/1950년.md "wikilink") [9월 18일에](../Pag
 
   - [조르나우 두 SBT](https://ko.wikipedia.org/wiki/조르나우_두_SBT "wikilink")() (1991 \~ 현재)
   - [SBT 브라지우](https://ko.wikipedia.org/wiki/SBT_브라지우 "wikilink")() (2005 \~ 현재)
-  - [코넥상 리포터](https://ko.wikipedia.org/wiki/코넥상_리포터 "wikilink")() (2010 \~ 현재)
+  - [코넥셔웅 헤포르테르](https://ko.wikipedia.org/wiki/코넥셔웅_헤포르테르 "wikilink")() (2010 \~ 현재)
 
 ### 오락·버라이어티
 
@@ -25,13 +25,13 @@ SBT의 전신은 [1950년](../Page/1950년.md "wikilink") [9월 18일에](../Pag
   - [카소스 지 파밀리아](https://ko.wikipedia.org/wiki/카소스_지_파밀리아 "wikilink")()
   - [엘리아나](https://ko.wikipedia.org/wiki/엘리아나 "wikilink")()
   - [프로그라마 실비오 산토스](https://ko.wikipedia.org/wiki/프로그라마_실비오_산토스 "wikilink")()
-  - [프로그라마 두 라치니우](https://ko.wikipedia.org/wiki/프로그라마_두_라치니우 "wikilink")()
-  - [프로그라마 라울 질](https://ko.wikipedia.org/wiki/프로그라마_라울_질 "wikilink")()
-  - [더 노이치 컴 다니루 제인지리](https://ko.wikipedia.org/wiki/더_노이치_컴_다니루_제인지리 "wikilink")( ) (2014 \~ 현재)
+  - [프로그라마 두 라치뉴](https://ko.wikipedia.org/wiki/프로그라마_두_라치니우 "wikilink")()
+  - [프로그라마 하울 질](https://ko.wikipedia.org/wiki/프로그라마_라울_질 "wikilink")()
+  - [더 노이치 콩 다니루 젠칠리](https://ko.wikipedia.org/wiki/더_노이치_컴_다니루_제인지리 "wikilink")( ) (2014 \~ 현재)
 
 ### 어린이
 
-  - [봄 지아 이 컴파니아](https://ko.wikipedia.org/wiki/봄_지아_이_컴파니아 "wikilink")() (1993 \~ 현재)
+  - [봉 지아 이 콩파니아](https://ko.wikipedia.org/wiki/봉_지아_이_콩파니아 "wikilink")() (1993 \~ 현재)
 
 ### 텔레노벨라
 
@@ -39,9 +39,9 @@ SBT의 전신은 [1950년](../Page/1950년.md "wikilink") [9월 18일에](../Pag
 
 <!-- end list -->
 
-  - 페로라 네그라() (1998 \~ 1999)
+  - 페호라 네그라() (1998 \~ 1999)
   - 카후셀() (2012 \~ 2013)
-  - 쿰프리세스 지 음 레스가치( (2015 \~ 2016)
+  - 쿰프리세스 지 웅 헤스가치( (2015 \~ 2016)
 
 <!-- end list -->
 

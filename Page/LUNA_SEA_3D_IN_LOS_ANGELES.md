@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [LUNA SEA 3D IN LOS ANGELES](https://ko.wikipedia.org/wiki/LUNA_SEA_3D_IN_LOS_ANGELES).
 
 
-《**LUNA SEA 3D IN LOS ANGELES**》는 [LUNA SEA의](../Page/LUNA_SEA.md "wikilink") 라이브 앨범이자 동명의 3D 영화 사운드트랙 이다.
+《**LUNA SEA 3D IN LOS ANGELES**》는 [LUNA SEA의](../Page/LUNA_SEA.md "wikilink") 라이브 앨범이자 동명의 3D 영화 사운드트랙이다.
 
 ## 개요
 

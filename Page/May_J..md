@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [May J.](https://ko.wikipedia.org/wiki/May_J.).
 
 
-**May J.**(메이 제이, 본명: , [1988년](../Page/1988년.md "wikilink") [6월 20일](../Page/6월_20일.md "wikilink") - )은 [도쿄도](../Page/도쿄도.md "wikilink") 출생이며, [가나가와현](../Page/가나가와현.md "wikilink") [요코하마 시에서](https://ko.wikipedia.org/wiki/요코하마_시 "wikilink") 자란\[1\] [가수](https://ko.wikipedia.org/wiki/가수 "wikilink")이다. 2006년 [큔 레코드에서](../Page/큔_뮤직.md "wikilink") 데뷔하였다. 2009년 이후의 소속 레이블은 [rhythm zone이다](https://ko.wikipedia.org/wiki/rhythm_zone "wikilink"). 가나카와 현 거주\[2\] 이다. 예명은 본명의 ‘메이’()에 [미들 네임인](https://ko.wikipedia.org/wiki/미들_네임 "wikilink"), [페르시아어](https://ko.wikipedia.org/wiki/페르시아어 "wikilink")로 아름답다, 재능이 넘치다, 라는 의미를 가진 ‘자밀리에’(Jamileh)의 ‘J’를 합친 것\[3\]\[4\] 이다.
+**May J.**(메이 제이, 본명: , [1988년](../Page/1988년.md "wikilink") [6월 20일](../Page/6월_20일.md "wikilink") - )은 [도쿄도](../Page/도쿄도.md "wikilink") 출생이며, [가나가와현](../Page/가나가와현.md "wikilink") [요코하마시](../Page/요코하마시.md "wikilink")에서 자란\[1\] [가수](https://ko.wikipedia.org/wiki/가수 "wikilink")이다. 2006년 [큔 레코드에서](../Page/큔_뮤직.md "wikilink") 데뷔하였다. 2009년 이후의 소속 레이블은 [rhythm zone이다](https://ko.wikipedia.org/wiki/rhythm_zone "wikilink"). 가나카와 현 거주\[2\]이다. 예명은 본명의 ‘메이’()에 [미들 네임인](https://ko.wikipedia.org/wiki/미들_네임 "wikilink"), [페르시아어](https://ko.wikipedia.org/wiki/페르시아어 "wikilink")로 아름답다, 재능이 넘치다, 라는 의미를 가진 ‘자밀리에’(Jamileh)의 ‘J’를 합친 것\[3\]\[4\]이다.
 
 ## 인물 · 에피소드 · 교우관계
 

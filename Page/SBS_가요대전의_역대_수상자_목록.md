@@ -230,7 +230,7 @@
 </tr>
 <tr class="even">
 <td><p>인기상</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/클릭비" title="wikilink">클릭비</a>, <a href="https://ko.wikipedia.org/wiki/UN_(음악_그룹)" title="wikilink">UN</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/클릭비" title="wikilink">클릭비</a>, <a href="../Page/UN_(음악_그룹).md" title="wikilink">UN</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>SBS 프로듀서상</p></td>
@@ -333,7 +333,7 @@
 </tr>
 <tr class="odd">
 <td><p>발라드 부문</p></td>
-<td><p><a href="../Page/이기찬_(가수).md" title="wikilink">이기찬</a> (솔로), <a href="https://ko.wikipedia.org/wiki/UN_(음악_그룹)" title="wikilink">UN</a> (그룹)</p></td>
+<td><p><a href="../Page/이기찬_(가수).md" title="wikilink">이기찬</a> (솔로), <a href="../Page/UN_(음악_그룹).md" title="wikilink">UN</a> (그룹)</p></td>
 </tr>
 <tr class="even">
 <td><p>R&amp;B 부문</p></td>
@@ -394,7 +394,7 @@
 </tr>
 <tr class="odd">
 <td><p>SBS 프로듀서상</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/UN_(음악_그룹)" title="wikilink">UN</a></p></td>
+<td><p><a href="../Page/UN_(음악_그룹).md" title="wikilink">UN</a></p></td>
 </tr>
 <tr class="even">
 <td><p>신인상</p></td>

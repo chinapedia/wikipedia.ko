@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [JTB \(기업\)](https://ko.wikipedia.org/wiki/JTB_\(기업\)).
 
 
-**주식회사 제이티비**(, JTB Corporation)은 일본 여행사에서 제이티비 그룹을 총괄하는 지주 회사이다. 본사는 [도쿄도](../Page/도쿄도.md "wikilink") [시나가와 구에](https://ko.wikipedia.org/wiki/시나가와_구 "wikilink") 있다.
+**주식회사 제이티비**(, JTB Corporation)은 일본 여행사에서 제이티비 그룹을 총괄하는 지주 회사이다. 본사는 [도쿄도](../Page/도쿄도.md "wikilink") [시나가와구](../Page/시나가와구.md "wikilink")에 있다.
 
 ## 개요
 

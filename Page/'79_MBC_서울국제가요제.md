@@ -75,7 +75,7 @@
 13. "추억에 젖어 (이미배)" ([김기웅](../Page/김기웅.md "wikilink") 작사 / [김기웅](../Page/김기웅.md "wikilink") 작곡) ***- 본선 진출***
 14. "사랑의 마술사 (방수원)" ([정민섭](https://ko.wikipedia.org/wiki/정민섭 "wikilink") 작사 / [정민섭](https://ko.wikipedia.org/wiki/정민섭 "wikilink") 작곡) ***- 본선 진출***
 
-## 함께 보기
+## 같이 보기
 
   - [MBC 서울국제가요제](../Page/MBC_서울국제가요제.md "wikilink")
 

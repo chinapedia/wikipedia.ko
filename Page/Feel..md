@@ -5,9 +5,9 @@
 
 ## 개요
 
-[스튜디오 피에로](https://ko.wikipedia.org/wiki/스튜디오_피에로 "wikilink")(현 : 피에로)의 제작 담당인 타키가사키 마코토가 사카 요이치로 및 다른 사람들과 함께 [2002년](../Page/2002년.md "wikilink"), [도쿄도](../Page/도쿄도.md "wikilink") [무사시노 시에](https://ko.wikipedia.org/wiki/무사시노_시 "wikilink") 설립됐다.이듬해부터 [나와 무네노리](https://ko.wikipedia.org/wiki/나와_무네노리 "wikilink") 및 다른 사람들이 연출, 작화진과 마무리 부문을 맡았다.
+[스튜디오 피에로](https://ko.wikipedia.org/wiki/스튜디오_피에로 "wikilink")(현 : 피에로)의 제작 담당인 타키가사키 마코토가 사카 요이치로 및 다른 사람들과 함께 [2002년](../Page/2002년.md "wikilink"), [도쿄도](../Page/도쿄도.md "wikilink") [무사시노시](../Page/무사시노시.md "wikilink")에 설립됐다.이듬해부터 [나와 무네노리](https://ko.wikipedia.org/wiki/나와_무네노리 "wikilink") 및 다른 사람들이 연출, 작화진과 마무리 부문을 맡았다.
 
-[2005년](../Page/2005년.md "wikilink"), 원청 제작을 시작한다. 주로 갠지스 제작 작품의 원청 제작을 중심으로 했다. [2007년](../Page/2007년.md "wikilink")경에 도쿄 도 [고가네이 시에](https://ko.wikipedia.org/wiki/고가네이_시 "wikilink") 본사 이전을 했다.
+[2005년](../Page/2005년.md "wikilink"), 원청 제작을 시작한다. 주로 갠지스 제작 작품의 원청 제작을 중심으로 했다. [2007년](../Page/2007년.md "wikilink")경에 도쿄 도 [고가네이시](../Page/고가네이시.md "wikilink")에 본사 이전을 했다.
 
 ## 작품 이력
 

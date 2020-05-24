@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [MACS J0717.5+3745](https://ko.wikipedia.org/wiki/MACS_J0717.5+3745).
 
 
-[thumb의](https://ko.wikipedia.org/wiki/파일:MACS_0717.jpg "wikilink") [찬드라 엑스선 관측선이](../Page/찬드라_엑스선_관측선.md "wikilink") 촬영한 무거운 은하단 MACS J0717.5+3745의 합성 사진. 사진의 크기는 폭 770만 광년이다.\]\] [thumb의](https://ko.wikipedia.org/wiki/파일:Cluster_MACS_J0717.5+3745.jpg "wikilink") 근적외선 사진.\]\]
+[섬네일의](https://ko.wikipedia.org/wiki/파일:MACS_0717.jpg "wikilink") [찬드라 엑스선 관측선이](../Page/찬드라_엑스선_관측선.md "wikilink") 촬영한 무거운 은하단 MACS J0717.5+3745의 합성 사진. 사진의 크기는 폭 770만 광년이다.\]\] [섬네일의](https://ko.wikipedia.org/wiki/파일:Cluster_MACS_J0717.5+3745.jpg "wikilink") 근적외선 사진.\]\]
 
 **MACS J0717.5+3745**는 [마차부자리](../Page/마차부자리.md "wikilink") 방향으로 54억 [광년](../Page/광년.md "wikilink") 떨어져 있는 거대한 [은하단](../Page/은하단.md "wikilink")이다.\[1\]
 

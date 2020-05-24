@@ -22,7 +22,7 @@
 <tbody>
 <tr class="odd">
 <td><p>2014년 5월 23일</p></td>
-<td><p><a href="../Page/서울특별시.md" title="wikilink">서울</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/서울" title="wikilink">서울</a></p></td>
 <td></td>
 <td><p><a href="../Page/올림픽체조경기장.md" title="wikilink">올림픽체조경기장</a>[4]</p></td>
 <td><p>통산 42,174명</p></td>
@@ -43,10 +43,10 @@
 </tr>
 <tr class="even">
 <td><p>2014년 6월 1일</p></td>
-<td><p><a href="../Page/홍콩.md" title="wikilink">홍콩</a></p></td>
 <td></td>
 <td><p>아시아 월드 아레나[5]</p></td>
 <td><p>통산 27,828명</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>2014년 6월 2일</p></td>
@@ -57,28 +57,28 @@
 </tr>
 <tr class="even">
 <td><p>2014년 6월 14일</p></td>
-<td><p><a href="../Page/우한시.md" title="wikilink">우한</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/우한" title="wikilink">무한</a></p></td>
+<td></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/우한_스포츠_센터" title="wikilink">우한 동구 체육장</a>[6]</p></td>
 <td><p>13,449명</p></td>
-<td></td>
 </tr>
 <tr class="odd">
 <td><p>2014년 6월 28일</p></td>
-<td><p><a href="../Page/충칭시.md" title="wikilink">충칭</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/충칭" title="wikilink">중경</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/충칭_올림픽_스포츠_센터" title="wikilink">중경 올림픽 체육장</a>[7]</p></td>
 <td><p>13,893명</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2014년 7월 5일</p></td>
-<td><p><a href="../Page/청두시.md" title="wikilink">청두</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/청두" title="wikilink">성도</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/청두_스포츠_센터" title="wikilink">성도 체육 중심 체육장</a></p></td>
 <td><p>14,526명</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2014년 7월 11일</p></td>
-<td><p><a href="../Page/타이베이시.md" title="wikilink">타이베이</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/타이베이" title="wikilink">대북</a></p></td>
 <td></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/타이베이_아레나" title="wikilink">타이베이 아레나</a><ref>{{뉴스 인용|제목=엑소 대만 첫 단독 콘서트, 2만여명 관객 '열광'|url=<a href="http://stylem.mt.co.kr/styview.php?no=2014071315283198231%7C출판사=머니투데이">http://stylem.mt.co.kr/styview.php?no=2014071315283198231|출판사=머니투데이</a> 스타일M</p></td>
 <td><p>저자=김수정 기자|쪽=|날짜=2014-07-13|확인날짜=2014-07-18}}</ref></p></td>
@@ -92,7 +92,7 @@
 </tr>
 <tr class="odd">
 <td><p>2014년 7월 18일</p></td>
-<td><p><a href="../Page/상하이시.md" title="wikilink">상하이</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/상해" title="wikilink">상해</a></p></td>
 <td></td>
 <td><p>메르세데스 벤츠 아레나<ref>{{뉴스 인용|제목=엑소, 中 상하이 단독콘서트 투어 성료..2만팬 열광|url=<a href="http://osen.mt.co.kr/article/G1109908577%7C출판사=OSEN">http://osen.mt.co.kr/article/G1109908577|출판사=OSEN</a></p></td>
 <td><p>저자=선미경 기자|쪽=|날짜=2014-07-20|확인날짜=2014-07-21}}</ref></p></td>
@@ -106,14 +106,14 @@
 </tr>
 <tr class="odd">
 <td><p>2014년 7월 27일</p></td>
-<td><p><a href="../Page/창사시.md" title="wikilink">창사</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/창사" title="wikilink">장사</a></p></td>
 <td><p>하룡 체육장</p></td>
 <td><p>13,774명</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2014년 8월 2일</p></td>
-<td><p><a href="../Page/시안시.md" title="wikilink">시안</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/서안" title="wikilink">서안</a></p></td>
 <td><p>산시성 체육장[8]</p></td>
 <td><p>11,305명</p></td>
 <td></td>
@@ -127,7 +127,7 @@
 </tr>
 <tr class="even">
 <td><p>2014년 8월 30일</p></td>
-<td><p><a href="../Page/광저우시.md" title="wikilink">광저우</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/광저우" title="wikilink">광주</a></p></td>
 <td></td>
 <td><p>광저우 인터네셔널 스포츠 아레나</p></td>
 <td><p>13,082명</p></td>
@@ -155,7 +155,7 @@
 </tr>
 <tr class="even">
 <td><p>2014년 9월 20일</p></td>
-<td><p><a href="../Page/베이징시.md" title="wikilink">베이징</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/북경" title="wikilink">북경</a></p></td>
 <td></td>
 <td><p>마스터 카드 센터[10]</p></td>
 <td><p>통산 23,012명</p></td>
@@ -169,7 +169,7 @@
 </tr>
 <tr class="even">
 <td><p>2014년 11월 11일</p></td>
-<td><p><a href="../Page/후쿠오카시.md" title="wikilink">후쿠오카</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/후쿠오카_시" title="wikilink">복강</a></p></td>
 <td></td>
 <td><p>마린 멧세 후쿠오카[11]</p></td>
 <td><p>통산 34,158명</p></td>
@@ -190,7 +190,7 @@
 </tr>
 <tr class="odd">
 <td><p>2014년 11월 18일</p></td>
-<td><p><a href="../Page/도쿄.md" title="wikilink">도쿄</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/동경" title="wikilink">동경</a></p></td>
 <td><p><a href="../Page/국립_요요기_경기장.md" title="wikilink">국립 요요기 경기장</a> 제1체육관</p></td>
 <td><p>통산 35,844명</p></td>
 <td></td>
@@ -211,7 +211,7 @@
 </tr>
 <tr class="even">
 <td><p>2014년 12월 22일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/오사카" title="wikilink">오사카</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/대판" title="wikilink">대판</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/오사카_성_홀" title="wikilink">오사카 성 홀</a>[12]</p></td>
 <td><p>통산 34,962명</p></td>
 <td></td>

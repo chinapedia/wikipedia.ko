@@ -480,8 +480,10 @@
   - 2020년 3월 18일 스트레이 키즈 - **SKZ2020**
   - 2020년 3월 25일 스트레이 키즈 - **\[Digital Single\] Mixtape : 바보라도 알아**
   - 2020년 4월 20일 GOT7 - **DYE**
-  - 2020년 5월 11일 DAY6 - **미정**
-  - 2020년 6월 ?일 트와이스 - **미정**
+  - 2020년 5월 3일 영재 - **화양연화 - 삶이 꽃이 되는 순간 OST Part.2**\[65\]
+  - 2020년 5월 11일 DAY6 - **The Book of Us : The Demon**
+  - 2020년 6월 1일 트와이스 - **MORE & MORE**
+  - 2020년 6월 3일 스트레이 키즈 - **\[Japan Digital Single\] TOP**
 
 ## 각주
 
@@ -549,5 +551,6 @@
 60. [울랄라세션](../Page/울랄라세션.md "wikilink")의 멤버 [김명훈](../Page/김명훈_\(가수\).md "wikilink"),[이루펀트](../Page/이루펀트.md "wikilink")의 멤버 [키비](../Page/키비_\(가수\).md "wikilink"),[배지환](../Page/배지환.md "wikilink")도 앨범 참여.
 61. [공승연](../Page/공승연.md "wikilink")도 앨범 참여.
 62. [장기하와 얼굴들의](../Page/장기하와_얼굴들.md "wikilink") 멤버 [장기하](../Page/장기하.md "wikilink"),[전일준](https://ko.wikipedia.org/wiki/전일준 "wikilink"),[차일훈](https://ko.wikipedia.org/wiki/차일훈 "wikilink")도 앨범 참여.
-63. [빅톤의](../Page/빅톤_\(음악_그룹\).md "wikilink") 두 멤버 [한승우](../Page/한승우_\(가수\).md "wikilink"),[최병찬](https://ko.wikipedia.org/wiki/최병찬 "wikilink"),[유니크의](../Page/유니크_\(음악_그룹\).md "wikilink") 멤버 [조승연](https://ko.wikipedia.org/wiki/조승연_\(가수\) "wikilink"),[박선호](../Page/박선호_\(배우\).md "wikilink"),[인투잇](../Page/인투잇.md "wikilink")의 멤버 [성현](../Page/인투잇.md "wikilink") 외 95명도 앨범 참여.
+63. [빅톤의](../Page/빅톤_\(음악_그룹\).md "wikilink") 두 멤버 [한승우](../Page/한승우_\(가수\).md "wikilink"),[최병찬](../Page/최병찬.md "wikilink"),[유니크의](../Page/유니크_\(음악_그룹\).md "wikilink") 멤버 [조승연](https://ko.wikipedia.org/wiki/조승연_\(가수\) "wikilink"),[박선호](../Page/박선호_\(배우\).md "wikilink"),[인투잇](../Page/인투잇.md "wikilink")의 멤버 [성현](../Page/인투잇.md "wikilink") 외 95명도 앨범 참여.
 64. [이상훈도](https://ko.wikipedia.org/wiki/이상훈_\(작곡가\) "wikilink") 앨범 참여.
+65. [최정윤](../Page/최정윤.md "wikilink")도 앨범에 참여.

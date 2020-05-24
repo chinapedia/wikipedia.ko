@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Goatse.cx](https://ko.wikipedia.org/wiki/Goatse.cx).
 
 
-**goatse.cx** ("goat sex" )는 [인터넷](../Page/인터넷.md "wikilink") 쇼크 사이트 중 하나이다. goatse.cx의 첫 화면은 파일명 `hello.jpg`으로 되어 있는 그림 한장이 걸려 있는데, 벌거벗은 남성이 자기 [항문](https://ko.wikipedia.org/wiki/항문 "wikilink")을 두 손으로 끌어당겨 자기 주먹 길이만하게 늘린 사진이다. 항문 사이로 [직장이](https://ko.wikipedia.org/wiki/직장_\(해부학\) "wikilink") 뚜렷하게 보이며, 엉덩이 밑으로는 [음낭](../Page/음낭.md "wikilink")과 [음경](https://ko.wikipedia.org/wiki/음경 "wikilink")이 보인다. 왼쪽 손의 [약지](https://ko.wikipedia.org/wiki/약지 "wikilink")에는 결혼 반지로 보이는 [금](../Page/금.md "wikilink")반지가 끼워져 있다.
+**goatse.cx** ("goat sex" )는 [인터넷](../Page/인터넷.md "wikilink") 쇼크 사이트 중 하나이다. goatse.cx의 첫 화면은 파일명 `hello.jpg`으로 되어 있는 그림 한장이 걸려 있는데, 벌거벗은 남성이 자기 [항문](https://ko.wikipedia.org/wiki/항문 "wikilink")을 두 손으로 끌어당겨 자기 주먹 길이만하게 늘린 사진이다. 항문 사이로 [직장이](https://ko.wikipedia.org/wiki/직장_\(해부학\) "wikilink") 뚜렷하게 보이며, 엉덩이 밑으로는 [음낭](../Page/음낭.md "wikilink")과 [음경](../Page/음경.md "wikilink")이 보인다. 왼쪽 손의 [약지](https://ko.wikipedia.org/wiki/약지 "wikilink")에는 결혼 반지로 보이는 [금](../Page/금.md "wikilink")반지가 끼워져 있다.
 
 이 사진은 악명 높은 쇼크 사진으로 [인터넷 밈이](../Page/인터넷_밈.md "wikilink") 되어 인기를 끌었다. 또 지금까지도 외부 [미러 사이트를](https://ko.wikipedia.org/wiki/미러_사이트 "wikilink") 통해 [유인 판매](https://ko.wikipedia.org/wiki/유인_판매 "wikilink") 낚시 사이트, [핫링크](https://ko.wikipedia.org/wiki/핫링크 "wikilink") 방지용 사이트, [변조 웹사이트로](https://ko.wikipedia.org/wiki/웹사이트_변조 "wikilink") 활용되어 심한 거부반응을 유도하는 데 쓰인다. 사이트에 걸린 사진은 2004년에 내려갔지만 미러 웹사이트는 인터넷 전반에 걸쳐 퍼져 있는 상태다. 사이트의 소유주는 수차례 바뀐 적이 있으며, 이메일 호스팅 주소로 쓰기 위해 설정되었으나 활성화된 적은 단 한번도 없다.
 

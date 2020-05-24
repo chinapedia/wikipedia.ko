@@ -74,7 +74,7 @@
 11. "그대 (김도향)"
 12. "음악은 나의 생명 (이종식과 사랑의 샘)" ([이종식](https://ko.wikipedia.org/wiki/이종식 "wikilink") 작사 / [이종식](https://ko.wikipedia.org/wiki/이종식 "wikilink") 작곡) ***- 본선 진출***
 
-## 함께 보기
+## 같이 보기
 
   - [MBC 서울국제가요제](../Page/MBC_서울국제가요제.md "wikilink")
 

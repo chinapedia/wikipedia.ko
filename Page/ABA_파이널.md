@@ -167,7 +167,7 @@
 </tbody>
 </table>
 
-## 함께 보기
+## 같이 보기
 
   - [NBA 파이널](../Page/NBA_파이널.md "wikilink")
   - [WNBA 파이널](../Page/WNBA_파이널.md "wikilink")

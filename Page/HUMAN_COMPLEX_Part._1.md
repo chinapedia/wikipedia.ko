@@ -29,7 +29,7 @@
 
 ## 각주
 
-<references/>
+<references />
 
 [분류:김사랑의 음반](https://ko.wikipedia.org/wiki/분류:김사랑의_음반 "wikilink") [분류:2013년 EP](https://ko.wikipedia.org/wiki/분류:2013년_EP "wikilink") [분류:대한민국의 음반](https://ko.wikipedia.org/wiki/분류:대한민국의_음반 "wikilink") [분류:록 음반](https://ko.wikipedia.org/wiki/분류:록_음반 "wikilink") [분류:한국어 EP](https://ko.wikipedia.org/wiki/분류:한국어_EP "wikilink")
 

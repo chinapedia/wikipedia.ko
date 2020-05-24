@@ -81,7 +81,7 @@
 19. "곡예사의 첫사랑 (박경애)" ([정민섭](https://ko.wikipedia.org/wiki/정민섭 "wikilink") 작사 / [정민섭](https://ko.wikipedia.org/wiki/정민섭 "wikilink") 작곡) ***- 본선 진출***
 20. "바늘과 실 (윤복희)" ([윤항기](../Page/윤항기.md "wikilink") 작사 / [윤항기](../Page/윤항기.md "wikilink") 작곡) ***- 본선 진출***
 
-## 함께 보기
+## 같이 보기
 
   - [MBC 서울국제가요제](../Page/MBC_서울국제가요제.md "wikilink")
 

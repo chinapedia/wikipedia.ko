@@ -21,4 +21,4 @@
 
   - **우승 (1회)**: 1998-99
 
-[분류:이탈리아의 축구단](https://ko.wikipedia.org/wiki/분류:이탈리아의_축구단 "wikilink") [분류:1909년 설립된 축구단](https://ko.wikipedia.org/wiki/분류:1909년_설립된_축구단 "wikilink") [분류:세리에 A 구단](https://ko.wikipedia.org/wiki/분류:세리에_A_구단 "wikilink") [분류:세리에 B 구단](https://ko.wikipedia.org/wiki/분류:세리에_B_구단 "wikilink") [분류:세리에 C 구단](https://ko.wikipedia.org/wiki/분류:세리에_C_구단 "wikilink") [분류:세리에_D_구단](https://ko.wikipedia.org/wiki/분류:세리에_D_구단 "wikilink")
+[분류:이탈리아의 축구단](https://ko.wikipedia.org/wiki/분류:이탈리아의_축구단 "wikilink") [분류:1909년 설립된 축구단](https://ko.wikipedia.org/wiki/분류:1909년_설립된_축구단 "wikilink") [분류:세리에 A 구단](https://ko.wikipedia.org/wiki/분류:세리에_A_구단 "wikilink") [분류:세리에 B 구단](https://ko.wikipedia.org/wiki/분류:세리에_B_구단 "wikilink") [분류:세리에 C 구단](https://ko.wikipedia.org/wiki/분류:세리에_C_구단 "wikilink") [분류:세리에 D 구단](https://ko.wikipedia.org/wiki/분류:세리에_D_구단 "wikilink")

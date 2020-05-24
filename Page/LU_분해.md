@@ -159,7 +159,7 @@ U=\begin{pmatrix}
    0 & 0 & 1
 \end{pmatrix}\]
 
-\[LU = A\] 이다.
+\[LU = A\]이다.
 
 \[I =   \begin{pmatrix}
    1 & 0 & 0  \\
@@ -369,7 +369,7 @@ LU 분해를 통한 풀이는 계수 행렬이 같고 \(b\)만이 달라질 때,
 
 \[PA=LU \implies A=P^{-1}LU \implies \det{A}=\det{P}\det{L}\det{U}=(-1)^{S}\left( \prod_{i=1}^n l_{ii} \right) \left( \prod_{i=1}^n u_{ii} \right)\] 여기서 *S*는 LU 분해를 할 때 행 교환을 시행한 횟수이다.
 
-## 함께 보기
+## 같이 보기
 
   - [가우스 소거법](../Page/가우스_소거법.md "wikilink")
   - [사다리꼴행렬](../Page/사다리꼴행렬.md "wikilink")

@@ -13,7 +13,7 @@
 
   - [2015년](../Page/2015년.md "wikilink") [2월 5일](../Page/2월_5일.md "wikilink") : 시험방송 시작.
   - 2015년 [2월 11일](../Page/2월_11일.md "wikilink") : 서울특별시 강남구 도곡동 본사에서 신용섭 EBS 사장, 최성준 방송통신위원장 등 12명이서 송출버튼을 누른 것으로 개국했다.
-  - 2015년 [2월 13일](../Page/2월_13일.md "wikilink") :구 [CJ 헬로비전과](https://ko.wikipedia.org/wiki/CJ_헬로비전 "wikilink") [티브로드](../Page/티브로드.md "wikilink"), [C\&M](https://ko.wikipedia.org/wiki/C&M "wikilink"), [HCN](https://ko.wikipedia.org/wiki/HCN_\(방송\) "wikilink"), [CMB](../Page/CMB_\(방송사\).md "wikilink") 등을 포함한 케이블TV 사업자들이 재송신하기로 합의를 하였다.\[1\]
+  - 2015년 [2월 13일](../Page/2월_13일.md "wikilink") : 구 [CJ 헬로비전](https://ko.wikipedia.org/wiki/CJ_헬로비전 "wikilink")(현 [LG헬로비전](../Page/LG헬로비전.md "wikilink"))과 [티브로드](../Page/티브로드.md "wikilink"), [C\&M](https://ko.wikipedia.org/wiki/C&M "wikilink"), [HCN](https://ko.wikipedia.org/wiki/HCN_\(방송\) "wikilink"), [CMB](../Page/CMB_\(방송사\).md "wikilink") 등을 포함한 케이블TV 사업자들이 재송신하기로 합의를 하였다.\[1\]
   - 2015년 [4월 1일](../Page/4월_1일.md "wikilink") : 케이블TV 재송신 개시.\[2\]
   - 2015년 11월 21일 : KT 올레TV 라이브(KT IPTV)에서 EBS 2TV 재송신 개시
   - 2015년 12월 10일 : SK Btv(SKB IPTV)에서 EBS 2TV 재송신 개시
@@ -54,9 +54,9 @@
   - [똑똑친구, 에디슨](https://ko.wikipedia.org/wiki/똑똑친구,_에디슨 "wikilink")
   - [명령이다, 비트](https://ko.wikipedia.org/wiki/명령이다,_비트 "wikilink")
   - [아하, 그렇구나](https://ko.wikipedia.org/wiki/아하,_그렇구나 "wikilink")
-  - [CLASS-e](https://ko.wikipedia.org/wiki/CLASS-e "wikilink") (2020년 4월 27일 첫방예정)
-  - [EBS 클래식](https://ko.wikipedia.org/wiki/EBS_클래식 "wikilink") (2020년 4월 27일 첫방예정)
-  - [EBS 명강](https://ko.wikipedia.org/wiki/EBS_명강 "wikilink") (2020년 4월 27일 첫방예정)
+  - [CLASS-e](https://ko.wikipedia.org/wiki/CLASS-e "wikilink")
+  - [EBS 클래식](https://ko.wikipedia.org/wiki/EBS_클래식 "wikilink")
+  - [EBS 명강](https://ko.wikipedia.org/wiki/EBS_명강 "wikilink")
   - [바닷가 사람들](https://ko.wikipedia.org/wiki/바닷가_사람들 "wikilink") (2020년 5월 25일 첫방예정)
   - [와글와글 미술관](https://ko.wikipedia.org/wiki/와글와글_미술관 "wikilink")
   - [야옹 클래식](https://ko.wikipedia.org/wiki/야옹_클래식 "wikilink")

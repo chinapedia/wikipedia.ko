@@ -57,7 +57,7 @@
 5.  "I Beg You, Anne 부탁이야 앤 (이탈리아 · Valerio Liboni)" (미상 작사 / 미상 작곡) ***- 동상 수상***
 6.  "Poison Sugar 달콤한 독약 (미국 · Duet Sis)" (미상 작사 / 미상 작곡)
 
-## 함께 보기
+## 같이 보기
 
   - [MBC 서울국제가요제](../Page/MBC_서울국제가요제.md "wikilink")
 

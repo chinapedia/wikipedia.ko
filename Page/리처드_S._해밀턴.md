@@ -1,0 +1,23 @@
+> This article is converted from Wikipedia: [리처드 S. 해밀턴](https://ko.wikipedia.org/wiki/리처드_S._해밀턴).
+
+
+**리처드 스트라이트 해밀턴**(, 1943년 \~ )은 [미국](../Page/미국.md "wikilink")의 [기하학자](https://ko.wikipedia.org/wiki/기하학자 "wikilink")이다.
+
+## 생애
+
+1943년에 [오하이오주](../Page/오하이오주.md "wikilink") [신시내티](../Page/신시내티.md "wikilink")에서 태어났다. 1963년에 [예일 대학교에서](../Page/예일_대학교.md "wikilink") 학사 학위를, 1966년에 [프린스턴 대학교에서](../Page/프린스턴_대학교.md "wikilink") 박사 학위를 수여받았다. 이후 [캘리포니아 대학교 어바인](../Page/캘리포니아_대학교_어바인.md "wikilink"), [캘리포니아 대학교 샌디에이고](../Page/캘리포니아_대학교_샌디에이고.md "wikilink"), [코넬 대학교](../Page/코넬_대학교.md "wikilink") 등에 있다가 [컬럼비아 대학교](../Page/컬럼비아_대학교.md "wikilink") 수학 교수가 되었다.
+
+## 외부 링크
+
+  -
+  - [컬럼비아 대학교 홈페이지](http://www.math.columbia.edu/people/directory/?dname=Hamilton&did=39)
+
+  - [Richard Hamilton](http://www.claymath.org/research_award/Hamilton/hamilton_bio.php) – [클레이 수학연구소](../Page/클레이_수학연구소.md "wikilink") 홈페이지의 프로필
+
+  - [1996 Veblen Prize citation](http://www.ams.org/notices/199603/comm-veblen.pdf)
+
+  - [Lecture by Hamilton on Ricci flow](http://www.msri.org/publications/ln/msri/2003/ricciflow/hamilton/1/index.html)
+
+  - [Shaw Prize Autobiography](http://www.shawprize.org/en/shaw.php?tmp=3&twoid=90&threeid=181&fourid=307&fiveid=155)
+
+[분류:1943년 태어남](https://ko.wikipedia.org/wiki/분류:1943년_태어남 "wikilink") [분류:살아있는 사람](https://ko.wikipedia.org/wiki/분류:살아있는_사람 "wikilink") [분류:20세기 수학자](https://ko.wikipedia.org/wiki/분류:20세기_수학자 "wikilink") [분류:21세기 수학자](https://ko.wikipedia.org/wiki/분류:21세기_수학자 "wikilink") [분류:미분기하학자](https://ko.wikipedia.org/wiki/분류:미분기하학자 "wikilink") [분류:미국의 수학자](https://ko.wikipedia.org/wiki/분류:미국의_수학자 "wikilink") [분류:프린스턴 대학교 동문](https://ko.wikipedia.org/wiki/분류:프린스턴_대학교_동문 "wikilink") [분류:예일 대학교 동문](https://ko.wikipedia.org/wiki/분류:예일_대학교_동문 "wikilink") [분류:컬럼비아 대학교 교수](https://ko.wikipedia.org/wiki/분류:컬럼비아_대학교_교수 "wikilink") [분류:클레이 연구상 수상자](https://ko.wikipedia.org/wiki/분류:클레이_연구상_수상자 "wikilink")

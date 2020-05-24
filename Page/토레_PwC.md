@@ -13,7 +13,7 @@
 
 ## 각주
 
-<references/>
+<references />
 
 [분류:마드리드의 호텔](https://ko.wikipedia.org/wiki/분류:마드리드의_호텔 "wikilink") [분류:마드리드의 마천루](https://ko.wikipedia.org/wiki/분류:마드리드의_마천루 "wikilink") [분류:스페인의 사무용 건물](https://ko.wikipedia.org/wiki/분류:스페인의_사무용_건물 "wikilink") [분류:200 이상 249미터 이하 마천루](https://ko.wikipedia.org/wiki/분류:200_이상_249미터_이하_마천루 "wikilink") [분류:2008년 완공된 건축물](https://ko.wikipedia.org/wiki/분류:2008년_완공된_건축물 "wikilink")
 

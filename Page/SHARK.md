@@ -195,9 +195,9 @@
     베이스 담당.
   - 하기와라 카이 - [하마다 타카히로](../Page/하마다_타카히로.md "wikilink") (쟈니즈WEST)
     기타 담당. 〈SHARK〉의 리더. 서브 멤버로서 〈Cloud5〉에 참가.
-  - 사토 아루토 - 아베 아란 ([쟈니즈 Jr.](../Page/자니스_주니어.md "wikilink"))
+  - 사토 아루토 - [아베 아란](../Page/아베_아란.md "wikilink") ([쟈니즈 Jr.](../Page/자니스_주니어.md "wikilink"))
     보컬 담당.
-  - 오가와 하루야 - 하기야 케이고 (쟈니즈 Jr.)
+  - 오가와 하루야 - [하기야 케이고](https://ko.wikipedia.org/wiki/하기야_케이고 "wikilink") (쟈니즈 Jr.)
     드럼 담당.
 
 #### 록 밴드 〈Behind the Scene〉

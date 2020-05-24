@@ -3,7 +3,7 @@
 
 〈**Champagne Supernova**〉는 [영국](../Page/영국.md "wikilink")의 [록 밴드](https://ko.wikipedia.org/wiki/록_밴드 "wikilink") [오아시스의](../Page/오아시스_\(밴드\).md "wikilink") 곡이다. 작곡가는 오아시스 갤러거 형제의 형인 [노엘 갤러거이며](../Page/노엘_갤러거.md "wikilink") 2집인 《[(What's the Story) Morning Glory?](../Page/\(What's_the_Story\)_Morning_Glory?.md "wikilink")》의 마지막 트랙이다. 7분 31초에 달하는 장대한 길이의 곡이며, [폴 웰러와](https://ko.wikipedia.org/wiki/폴_웰러 "wikilink") 노엘 갤러거의 웅장한 기타 솔로로 곡과 앨범을 마무리한다.
 
-곡의 제목인 〈Champagne Supernova〉는 80년대와 90년대에 유행하던 마티니 칵테일의 한 종류 이며 잔 주변에 코카인을 바른것이 특징이다.
+곡의 제목인 〈Champagne Supernova〉는 80년대와 90년대에 유행하던 마티니 칵테일의 한 종류이며 잔 주변에 코카인을 바른것이 특징이다.
 
 〈Champagne Supernova〉의 가사중 일부는 마약에 취한 채 만들어졌다고 노엘이 1995년 NME에 인정했다.
 

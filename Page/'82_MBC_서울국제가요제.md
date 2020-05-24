@@ -58,7 +58,7 @@
 5.  "Temptation (스페인 · Mayte)" (미상 작사 / 미상 작곡)
 6.  "Rose Love 장미의 사랑 (한국 · 임종님)" ([이현섭](../Page/이현섭.md "wikilink") 작사 / [이현섭](../Page/이현섭.md "wikilink") 작곡)
 
-## 함께 보기
+## 같이 보기
 
   - [MBC 서울국제가요제](../Page/MBC_서울국제가요제.md "wikilink")
 
