@@ -76,6 +76,7 @@
   - [2013년](../Page/2013년.md "wikilink") [5월 31일](../Page/5월_31일.md "wikilink") - [도쿄 스카이 트리에서](https://ko.wikipedia.org/wiki/도쿄_스카이_트리 "wikilink") 방송 송출 시작
   - [2014년](../Page/2014년.md "wikilink") [8월 4일](../Page/8월_4일.md "wikilink") - 후지TV 서울지국을 [문화방송](../Page/문화방송.md "wikilink") 상암동 신사옥으로 이전.
   - [2015년](../Page/2015년.md "wikilink") [3월 31일](../Page/3월_31일.md "wikilink") - 이날 정오를 기해 BS디지털 위성을 통해 송출하던 난시청지역용 지상파 동시방송을 중단.
+  - [2020년](../Page/2020년.md "wikilink") [6월 1일](../Page/6월_1일.md "wikilink") - [산림청](../Page/대한민국_산림청.md "wikilink") 계약 예정.
 
 ## 지역 민방 (네트워크 가맹국)
 

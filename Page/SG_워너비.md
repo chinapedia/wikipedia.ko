@@ -81,7 +81,7 @@
 <td style="text-align: left;"><p><strong>1집</strong></p></td>
 <td style="text-align: left;"><p>''' <a href="../Page/SG_Wanna_Be+.md" title="wikilink">SG Wanna Be+</a> '''</p>
 <ul>
-<li>'''발매일 : <a href="../Page/1월_20일.md" title="wikilink">1월 20일</a>, <a href="https://ko.wikipedia.org/wiki/2004" title="wikilink">2004</a> '''</li>
+<li>'''발매일 : <a href="../Page/1월_19일.md" title="wikilink">1월 19일</a>, <a href="https://ko.wikipedia.org/wiki/2004" title="wikilink">2004</a> '''</li>
 <li><strong>판매량 : 311,918(절판)</strong></li>
 <li><strong>언어 : <a href="../Page/한국어.md" title="wikilink">한국어</a></strong></li>
 </ul></td>
@@ -199,7 +199,7 @@
 <td style="text-align: left;"><p><strong>5집</strong></p></td>
 <td style="text-align: left;"><p>''' <a href="https://ko.wikipedia.org/wiki/My_Friend" title="wikilink">My Friend</a> '''</p>
 <ul>
-<li>'''발매일 : <a href="../Page/4월_24일.md" title="wikilink">4월 24일</a>, <a href="https://ko.wikipedia.org/wiki/2008" title="wikilink">2008</a> '''</li>
+<li>'''발매일 : <a href="../Page/4월_18일.md" title="wikilink">4월 18일</a>, <a href="https://ko.wikipedia.org/wiki/2008" title="wikilink">2008</a> '''</li>
 <li><strong>판매량 : 206,217 (절판)</strong></li>
 <li><strong>언어 : <a href="../Page/한국어.md" title="wikilink">한국어</a></strong></li>
 </ul></td>
@@ -314,7 +314,7 @@
 <td style="text-align: left;"><p><strong>2.5집 (리메이크 앨범)</strong></p></td>
 <td style="text-align: left;"><p>''' <a href="../Page/Classic_Odyssey.md" title="wikilink">Classic Odyssey</a> '''</p>
 <ul>
-<li><strong>발매일 : <a href="../Page/9월_16일.md" title="wikilink">9월 16일</a>,<a href="https://ko.wikipedia.org/wiki/2005" title="wikilink">2005</a></strong></li>
+<li><strong>발매일 : <a href="../Page/9월_8일.md" title="wikilink">9월 8일</a>,<a href="https://ko.wikipedia.org/wiki/2005" title="wikilink">2005</a></strong></li>
 <li>'''판매량 : 263,432(절판) '''</li>
 <li><strong>언어 : <a href="../Page/한국어.md" title="wikilink">한국어</a></strong></li>
 </ul></td>
@@ -346,7 +346,7 @@
 <td style="text-align: left;"><p><strong>3.5집 (베스트 앨범)</strong></p></td>
 <td style="text-align: left;"><p><em>' <a href="../Page/The_Precious_History.md" title="wikilink">The Precious History</a></em>'</p>
 <ul>
-<li><strong>발매일 : <a href="../Page/11월_18일.md" title="wikilink">11월 18일</a>, <a href="https://ko.wikipedia.org/wiki/2006" title="wikilink">2006</a></strong></li>
+<li><strong>발매일 : <a href="../Page/11월_14일.md" title="wikilink">11월 14일</a>, <a href="https://ko.wikipedia.org/wiki/2006" title="wikilink">2006</a></strong></li>
 <li><strong>판매량 : 231,257 (절판)</strong></li>
 <li><strong>언어 : <a href="../Page/한국어.md" title="wikilink">한국어</a></strong></li>
 </ul></td>
@@ -395,7 +395,7 @@
 <td style="text-align: left;"><p><strong>4.5집 (스페셜 앨범)</strong></p></td>
 <td style="text-align: left;"><p>''' <a href="https://ko.wikipedia.org/wiki/Story_In_New_York" title="wikilink">Story In New York</a> '''</p>
 <ul>
-<li><strong>발매일 : <a href="../Page/11월_26일.md" title="wikilink">11월 26일</a>, <a href="https://ko.wikipedia.org/wiki/2007" title="wikilink">2007</a></strong></li>
+<li><strong>발매일 : <a href="../Page/11월_23일.md" title="wikilink">11월 23일</a>, <a href="https://ko.wikipedia.org/wiki/2007" title="wikilink">2007</a></strong></li>
 <li>'''판매량 : 103,175(절판) '''</li>
 <li><strong>언어 : <a href="../Page/한국어.md" title="wikilink">한국어</a></strong></li>
 </ul></td>

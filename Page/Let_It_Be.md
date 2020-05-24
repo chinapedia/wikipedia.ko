@@ -113,7 +113,7 @@
 | [일본](../Page/일본.md "wikilink")       | [1998년](../Page/1998년.md "wikilink") [3월 11일](../Page/3월_11일.md "wikilink")   | [도시바-EMI](https://ko.wikipedia.org/wiki/도시바-EMI "wikilink") | CD                                  | TOCP 51123    |
 | [일본](../Page/일본.md "wikilink")       | [2004년](../Page/2004년.md "wikilink") [1월 21일](../Page/1월_21일.md "wikilink")   | [도시바-EMI](https://ko.wikipedia.org/wiki/도시바-EMI "wikilink") | 리마스터드 LP                            | TOJP 60143    |
 
-## 참고문헌
+## 참고 문헌
 
 <references/>
 

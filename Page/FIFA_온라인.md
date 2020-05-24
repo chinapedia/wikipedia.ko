@@ -67,7 +67,7 @@
 
   - ~~[EA 스포츠 FIFA 온라인 웹사이트](http://fifa-online.easports.com)~~ (서비스 종료)
 
-[분류:다중 사용자 온라인 게임](https://ko.wikipedia.org/wiki/분류:다중_사용자_온라인_게임 "wikilink") [분류:FIFA 게임 시리즈](https://ko.wikipedia.org/wiki/분류:FIFA_게임_시리즈 "wikilink") [분류:E스포츠 게임](https://ko.wikipedia.org/wiki/분류:E스포츠_게임 "wikilink") [분류:서비스가 종료된 온라인 게임](https://ko.wikipedia.org/wiki/분류:서비스가_종료된_온라인_게임 "wikilink") [분류:축구 게임](https://ko.wikipedia.org/wiki/분류:축구_게임 "wikilink") [분류:스포츠 게임](https://ko.wikipedia.org/wiki/분류:스포츠_게임 "wikilink") [분류:윈도우 게임](https://ko.wikipedia.org/wiki/분류:윈도우_게임 "wikilink")
+[분류:다중 사용자 온라인 게임](https://ko.wikipedia.org/wiki/분류:다중_사용자_온라인_게임 "wikilink") [분류:FIFA (비디오 게임 시리즈)](https://ko.wikipedia.org/wiki/분류:FIFA_\(비디오_게임_시리즈\) "wikilink") [분류:E스포츠 게임](https://ko.wikipedia.org/wiki/분류:E스포츠_게임 "wikilink") [분류:서비스가 종료된 온라인 게임](https://ko.wikipedia.org/wiki/분류:서비스가_종료된_온라인_게임 "wikilink") [분류:축구 게임](https://ko.wikipedia.org/wiki/분류:축구_게임 "wikilink") [분류:스포츠 게임](https://ko.wikipedia.org/wiki/분류:스포츠_게임 "wikilink") [분류:윈도우 게임](https://ko.wikipedia.org/wiki/분류:윈도우_게임 "wikilink")
 
 1.  <http://www.gamechosun.co.kr/site/data/html_dir/2007/09/28/20070928000000.html> 피파온라인 후속작 \`피파온라인2\` 발표 , 게임조선, 2007년 9월 28일
 2.  <http://pmang.sayclub.com/fifaonline1/fifaonline_frame.nwz?mKey=1&sKey=1&url=http%3A%2F%2Fpmang.sayclub.com%2Ffifaonline1%2Ffifaonline_board.nwz%3Fact%3Dread%26bserial%3D1%26ano%3D10749560> \[안내\] EA SPORTS™ FIFA 온라인 2 출시 관련 , 피망(Pmang), 2007년 9월 28일

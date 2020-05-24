@@ -28,7 +28,7 @@
   - [M 쿠페](https://ko.wikipedia.org/wiki/BMW_M_쿠페 "wikilink")
   - [M 로드스터](https://ko.wikipedia.org/wiki/BMW_M_로드스터 "wikilink")
 
-## 함께 보기
+## 같이 보기
 
   - [BMW](../Page/BMW.md "wikilink")
 

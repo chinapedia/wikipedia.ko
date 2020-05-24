@@ -3,7 +3,7 @@
 
 **윈도우 NT**()은 [마이크로소프트 윈도](https://ko.wikipedia.org/wiki/마이크로소프트_윈도 "wikilink") 운영체제 제품군의 명칭이다. 원래 NT는 “**N**ew **T**echnology”란 확장된 의미로 사용되었지만 이후 특별한 의미없이 쓰이게 되었다. [윈도우 9x를](../Page/윈도우_9x.md "wikilink") 사용하는 [윈도우 95와](../Page/윈도우_95.md "wikilink") [윈도우 98보다](../Page/윈도우_98.md "wikilink") 다소 안정적이다. [윈도우 NT 3.1](../Page/윈도우_NT_3.1.md "wikilink"), [윈도우 NT 3.5](../Page/윈도우_NT_3.5.md "wikilink"), [윈도우 NT 3.51은](../Page/윈도우_NT_3.51.md "wikilink") [인터넷 익스플로러가](../Page/인터넷_익스플로러.md "wikilink") 내장되지 않았고, [윈도우 NT 4.0은](../Page/윈도우_NT_4.0.md "wikilink") [인터넷 익스플로러 2](../Page/인터넷_익스플로러_2.md "wikilink")(한국어 버전의 경우는 [인터넷 익스플로러 3](../Page/인터넷_익스플로러_3.md "wikilink"))가 [윈도우 2000](../Page/윈도우_2000.md "wikilink") [인터넷 익스플로러 5.01이](../Page/인터넷_익스플로러_5.md "wikilink") 내장되어 있다. 윈도우 NT는 [VMS](../Page/OpenVMS.md "wikilink") 계열의 운영 체제에 영향을 받았다.\[1\]
 
-2018년 현재 NT커널 베이스 운영체제의 최신판은 [Windows 10](https://ko.wikipedia.org/wiki/Windows_10 "wikilink") 이다. 2020년 1월14일부로 [Windows 7](https://ko.wikipedia.org/wiki/Windows_7 "wikilink") 서비스가 종료되었고, 2023년 1월 10일부로 [Windows 8.1](https://ko.wikipedia.org/wiki/Windows_8.1 "wikilink") 서비스가 종료될 예정이다.
+2018년 현재 NT커널 베이스 운영체제의 최신판은 [Windows 10이다](https://ko.wikipedia.org/wiki/Windows_10 "wikilink"). 2020년 1월14일부로 [Windows 7](https://ko.wikipedia.org/wiki/Windows_7 "wikilink") 서비스가 종료되었고, 2023년 1월 10일부로 [Windows 8.1](https://ko.wikipedia.org/wiki/Windows_8.1 "wikilink") 서비스가 종료될 예정이다.
 
 ## 연혁 및 버전
 

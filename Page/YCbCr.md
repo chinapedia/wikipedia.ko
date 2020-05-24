@@ -81,7 +81,7 @@ Kb 와 Kr 은 일반적으로 해당 [RGB](https://ko.wikipedia.org/wiki/RGB "wi
 
 이 형식의 YCbCr 은 새로운 CRT 와 [LCD](../Page/액정_디스플레이.md "wikilink"), [PDP](https://ko.wikipedia.org/wiki/PDP "wikilink") 와 같은 다른 최신 디스플레이 장치의 형광체 발산 특성에 더 잘 맞는 RGB 모델을 기반으로 한다. BT.601 과 BT.709 에서 정의한 R', G', B' 신호의 값이 다르다는 것을 참고하라.
 
-## 함께보기
+## 같이 보기
 
   - [컬러 매트릭스](../Page/컬러_매트릭스.md "wikilink")
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [BUMP OF CHICKEN](https://ko.wikipedia.org/wiki/BUMP_OF_CHICKEN).
 
 
-**범프 오브 치킨**(, )은 1994년 결성된 [일본](../Page/일본.md "wikilink")의 4인조 [얼터너티브 록](../Page/얼터너티브_록.md "wikilink") [밴드](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink")\[1\] 이다. 줄여서 '범프' 'BOC'라고도 불린다. [토이즈 팩토리](https://ko.wikipedia.org/wiki/토이즈_팩토리 "wikilink") 소속. 밴드명은 '약자의 반격'이라는 의미로 붙여졌다.\[2\]\[3\]
+**범프 오브 치킨**(, )은 1994년 결성된 [일본](../Page/일본.md "wikilink")의 4인조 [얼터너티브 록](../Page/얼터너티브_록.md "wikilink") [밴드](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink")\[1\]이다. 줄여서 '범프' 'BOC'라고도 불린다. [토이즈 팩토리](https://ko.wikipedia.org/wiki/토이즈_팩토리 "wikilink") 소속. 밴드명은 '약자의 반격'이라는 의미로 붙여졌다.\[2\]\[3\]
 
 ## 구성원
 

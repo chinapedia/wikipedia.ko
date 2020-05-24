@@ -38,7 +38,7 @@
 
 아파치2에 와서는 별다른 설정치에 대한 수정 없이 아파치 웹서버는 기본설정값인 디폴트 환경에서도 잘 작동한다. 그러나 한편 최적화를 위한 설정 항목들은 더욱 다양해졌다.\[7\]
 
-## 함께 보기
+## 같이 보기
 
   - [ufw](https://ko.wikipedia.org/wiki/ufw "wikilink")(uncomplicated firewall)
 

@@ -71,9 +71,13 @@ SCAR은 사우스 케롤라이나주 콜롬비아에 있는 FN Manufacturing LLC
 
 24 시즌8 등
 
+  - **다음의 PC(콘솔 포함) 게임에 등장한다.**
+
+PLAYERUNKNOWN'S BATTLEGROUNDS(배틀그라운드), 톰 클랜시의 더 디비전 등
+
   - **다음의 모바일 게임에 등장한다.**
 
-[스페셜솔져](https://ko.wikipedia.org/wiki/스페셜솔져 "wikilink") 팬텀스트라이크 Bullet Force 등
+[스페셜솔져](https://ko.wikipedia.org/wiki/스페셜솔져 "wikilink"), 팬텀스트라이크 Bullet Force 등
 
 ## 같이 보기
 

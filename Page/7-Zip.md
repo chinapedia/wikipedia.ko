@@ -52,4 +52,4 @@
 
 [분류:파일 관리자](https://ko.wikipedia.org/wiki/분류:파일_관리자 "wikilink") [분류:압축 소프트웨어](https://ko.wikipedia.org/wiki/분류:압축_소프트웨어 "wikilink") [분류:크로스 플랫폼 자유 소프트웨어](https://ko.wikipedia.org/wiki/분류:크로스_플랫폼_자유_소프트웨어 "wikilink") [분류:윈도우 소프트웨어](https://ko.wikipedia.org/wiki/분류:윈도우_소프트웨어 "wikilink") [분류:1999년 소프트웨어](https://ko.wikipedia.org/wiki/분류:1999년_소프트웨어 "wikilink") [분류:포터블 소프트웨어](https://ko.wikipedia.org/wiki/분류:포터블_소프트웨어 "wikilink") [분류:C로 작성된 자유 소프트웨어](https://ko.wikipedia.org/wiki/분류:C로_작성된_자유_소프트웨어 "wikilink") [분류:C++로 작성된 자유 소프트웨어](https://ko.wikipedia.org/wiki/분류:C++로_작성된_자유_소프트웨어 "wikilink") [분류:LGPL 라이선스 소프트웨어](https://ko.wikipedia.org/wiki/분류:LGPL_라이선스_소프트웨어 "wikilink") [분류:자유 압축 소프트웨어](https://ko.wikipedia.org/wiki/분류:자유_압축_소프트웨어 "wikilink")
 
-1.  [7-Zip::Links](http://www.7-zip.org/links.html) 참조.
+1.  [7-Zip::Links](http://www.7-zip.org/links.html)  참조.

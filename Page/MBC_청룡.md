@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [MBC 청룡](https://ko.wikipedia.org/wiki/MBC_청룡).
 
 
-**MBC 청룡**(MBC Chungyong)은 [대한민국](../Page/대한민국.md "wikilink") [서울특별시](../Page/서울특별시.md "wikilink")를 연고지로 한 [프로 야구팀이었다](https://ko.wikipedia.org/wiki/프로_야구 "wikilink"). [한국야구위원회](../Page/한국야구위원회.md "wikilink") 소속으로, [한국프로야구](https://ko.wikipedia.org/wiki/한국프로야구 "wikilink") 출범당시 리그의 흥행을 위해 [서울특별시](../Page/서울특별시.md "wikilink") 연고지로 하고 [동대문야구장](../Page/동대문야구장.md "wikilink")을 홈 구장으로 사용했으나, 이후 [잠실야구장](https://ko.wikipedia.org/wiki/잠실야구장 "wikilink")으로 홈구장을 이전하여 사용, [LG 트윈스에](../Page/LG_트윈스.md "wikilink") 이르는 현재까지 서울을 연고로 하는 구단이다. 역대 프로 야구 팀 중 유일하게 구단 명칭을 [영어](../Page/영어.md "wikilink")식 이름이 아닌 [한자](../Page/한자.md "wikilink")식 이름으로 사용했다.
+**MBC 청룡**(MBC Chungyong)은 [대한민국](../Page/대한민국.md "wikilink") [서울특별시](../Page/서울특별시.md "wikilink")를 연고지로 한 [프로 야구팀이었다](https://ko.wikipedia.org/wiki/프로_야구 "wikilink"). [한국야구위원회](../Page/한국야구위원회.md "wikilink") 소속으로, [한국프로야구](https://ko.wikipedia.org/wiki/한국프로야구 "wikilink") 출범당시 리그의 흥행을 위해 [서울특별시](../Page/서울특별시.md "wikilink") 연고지로 하고 [동대문야구장](../Page/동대문야구장.md "wikilink")을 홈 구장으로 사용했으나, 이후 [서울종합운동장 야구장으로](../Page/서울종합운동장_야구장.md "wikilink") 홈구장을 이전하여 사용, [LG 트윈스에](../Page/LG_트윈스.md "wikilink") 이르는 현재까지 서울을 연고로 하는 구단이다. 역대 프로 야구 팀 중 유일하게 구단 명칭을 [영어](../Page/영어.md "wikilink")식 이름이 아닌 [한자](../Page/한자.md "wikilink")식 이름으로 사용했다.
 
 [1982년](../Page/1982년.md "wikilink") [1월 26일에](../Page/1월_26일.md "wikilink") 창단되었고, [1982년](../Page/1982년.md "wikilink") [3월 27일](../Page/3월_27일.md "wikilink") [동대문야구장](../Page/동대문야구장.md "wikilink")에서 [삼성 라이온즈를](../Page/삼성_라이온즈.md "wikilink") 상대로 프로 야구 첫 경기를 치렀다. 이 날 경기에서 연장 10회 말 [삼성의](../Page/삼성_라이온즈.md "wikilink") [투수](../Page/투수.md "wikilink") [이선희를](../Page/이선희_\(야구인\).md "wikilink") 상대로 [이종도](https://ko.wikipedia.org/wiki/이종도 "wikilink")가 끝내기 만루 홈런을 터뜨리면서 11:7로 극적인 승리를 거둬, [한국 프로 야구](https://ko.wikipedia.org/wiki/한국_프로_야구 "wikilink") 사상 최초의 승리팀으로 기록되었다.
 
@@ -554,9 +554,6 @@
 
   - 1982년 [백인천](../Page/백인천.md "wikilink") 103안타
   - 1986년 [이광은](../Page/이광은.md "wikilink") 124안타
-
-<!-- end list -->
-
   - 항목
 
 ### 최다 득점

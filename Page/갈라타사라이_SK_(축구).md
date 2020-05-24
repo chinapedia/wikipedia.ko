@@ -553,7 +553,7 @@
 
   - [갈라타사라이 공식 페이스북](https://www.facebook.com/Galatasaray)
 
-  - [ultrAslan 서포터 웹사이트](http://www.ultraslan.com/)
+  - [ultrAslan 서포터 웹사이트](https://web.archive.org/web/20120903124011/http://www.ultraslan.com/)
 
   - [갈라타사라이 멀티미디어 아카이브](https://web.archive.org/web/20141217063928/http://galatasaraymedia.com/)
 

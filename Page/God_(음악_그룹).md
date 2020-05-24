@@ -31,7 +31,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td style="text-align: left;"><p><strong>1999-01-26</strong></p></td>
+<td style="text-align: left;"><p><strong>1998-12-01</strong></p></td>
 <td style="text-align: left;"><p>《<strong>Chapter 1</strong>》</p></td>
 <td style="text-align: left;"><ol>
 <li>Intro</li>
@@ -149,7 +149,7 @@
 <td style="text-align: left;"><p>213,187+[9]</p></td>
 </tr>
 <tr class="odd">
-<td style="text-align: left;"><p><strong>2005-10-28</strong></p></td>
+<td style="text-align: left;"><p><strong>2005-10-20</strong></p></td>
 <td style="text-align: left;"><p>《<strong>하늘속으로</strong>》</p></td>
 <td style="text-align: left;"><ol>
 <li>1999년</li>

@@ -615,9 +615,9 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/1980년.md" title="wikilink">1980년</a> <a href="../Page/12월_20일.md" title="wikilink">12월 20일</a> ~ <a href="../Page/1981년.md" title="wikilink">1981년</a> <a href="../Page/3월_15일.md" title="wikilink">3월 15일</a></p></td>
-<td></td>
-<td></td>
+<td><p><a href="../Page/1980년.md" title="wikilink">1980년</a> <a href="../Page/12월_20일.md" title="wikilink">12월 20일</a> ~ <a href="../Page/1981년.md" title="wikilink">1981년</a> <a href="../Page/3월_14일.md" title="wikilink">3월 14일</a></p></td>
+<td><p>매주 <a href="../Page/토요일.md" title="wikilink">토요일</a> 밤 9:00 ~ 9:25</p></td>
+<td><p>25분</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/1979년.md" title="wikilink">1979년</a> <a href="../Page/1월_6일.md" title="wikilink">1월 6일</a> ~ <a href="../Page/1979년.md" title="wikilink">1979년</a> <a href="../Page/1월_14일.md" title="wikilink">1월 14일</a></p></td>
@@ -655,14 +655,14 @@
 <td><p>30분</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/1985년.md" title="wikilink">1985년</a> <a href="../Page/5월_4일.md" title="wikilink">5월 4일</a> ~ <a href="../Page/1988년.md" title="wikilink">1988년</a> <a href="../Page/5월_8일.md" title="wikilink">5월 8일</a></p></td>
-<td></td>
-<td></td>
+<td><p><a href="../Page/1985년.md" title="wikilink">1985년</a> <a href="../Page/5월_4일.md" title="wikilink">5월 4일</a> ~ <a href="../Page/1988년.md" title="wikilink">1988년</a> <a href="../Page/5월_7일.md" title="wikilink">5월 7일</a></p></td>
+<td><p>매주 <a href="../Page/토요일.md" title="wikilink">토요일</a> 밤 9:00 ~ 9:30</p></td>
+<td><p>30분</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/1989년.md" title="wikilink">1989년</a> <a href="../Page/11월_4일.md" title="wikilink">11월 4일</a> ~ <a href="../Page/1989년.md" title="wikilink">1989년</a> <a href="../Page/11월_5일.md" title="wikilink">11월 5일</a></p></td>
-<td></td>
-<td></td>
+<td><p>매주 <a href="https://ko.wikipedia.org/wiki/주말" title="wikilink">주말</a> 밤 9:00 ~ 9:30</p></td>
+<td><p>30분</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/1990년.md" title="wikilink">1990년</a> <a href="../Page/4월_7일.md" title="wikilink">4월 7일</a> ~ <a href="../Page/1991년.md" title="wikilink">1991년</a> <a href="../Page/4월_21일.md" title="wikilink">4월 21일</a></p></td>
@@ -750,38 +750,28 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/1984년.md" title="wikilink">1984년</a> <a href="../Page/10월_27일.md" title="wikilink">10월 27일</a> ~ <a href="../Page/1985년.md" title="wikilink">1985년</a> <a href="../Page/4월_14일.md" title="wikilink">4월 14일</a></p></td>
+<td><p><a href="../Page/1984년.md" title="wikilink">1984년</a> <a href="../Page/10월_27일.md" title="wikilink">10월 27일</a> ~ <a href="../Page/1985년.md" title="wikilink">1985년</a> <a href="../Page/4월_13일.md" title="wikilink">4월 13일</a></p></td>
 <td><p>매주 <a href="../Page/토요일.md" title="wikilink">토요일</a> 밤 9:00 ~ 9:30</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>매주 <a href="../Page/일요일.md" title="wikilink">일요일</a> 밤 9:00 ~ 9:20</p></td>
-<td><p>20분</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><a href="../Page/1985년.md" title="wikilink">1985년</a> <a href="../Page/4월_20일.md" title="wikilink">4월 20일</a> ~ <a href="../Page/1985년.md" title="wikilink">1985년</a> <a href="../Page/4월_21일.md" title="wikilink">4월 21일</a></p></td>
+<td><p><a href="../Page/1985년.md" title="wikilink">1985년</a> <a href="../Page/4월_20일.md" title="wikilink">4월 20일</a></p></td>
 <td><p>매주 <a href="../Page/토요일.md" title="wikilink">토요일</a> 밤 9:00 ~ 9:30</p></td>
 <td><p>30분</p></td>
 </tr>
-<tr class="odd">
-<td><p>매주 <a href="../Page/일요일.md" title="wikilink">일요일</a> 밤 9:00 ~ 9:35</p></td>
-<td><p>35분</p></td>
-<td></td>
-</tr>
 <tr class="even">
-<td><p><a href="../Page/1985년.md" title="wikilink">1985년</a> <a href="../Page/4월_27일.md" title="wikilink">4월 27일</a> ~ <a href="../Page/1985년.md" title="wikilink">1985년</a> <a href="../Page/4월_28일.md" title="wikilink">4월 28일</a></p></td>
-<td><p>매주 <a href="https://ko.wikipedia.org/wiki/주말" title="wikilink">주말</a> 밤 9:00 ~ 10:00</p></td>
+<td><p><a href="../Page/1985년.md" title="wikilink">1985년</a> <a href="../Page/4월_27일.md" title="wikilink">4월 27일</a></p></td>
+<td><p>매주 <a href="../Page/토요일.md" title="wikilink">토요일</a> 밤 9:00 ~ 10:00</p></td>
 <td><p>1시간</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/1988년.md" title="wikilink">1988년</a> <a href="../Page/5월_14일.md" title="wikilink">5월 14일</a> ~ <a href="../Page/1989년.md" title="wikilink">1989년</a> <a href="../Page/4월_16일.md" title="wikilink">4월 16일</a></p></td>
-<td><p>매주 <a href="https://ko.wikipedia.org/wiki/주말" title="wikilink">주말</a> 밤 9:00 ~ 9:25</p></td>
+<td><p><a href="../Page/1988년.md" title="wikilink">1988년</a> <a href="../Page/5월_14일.md" title="wikilink">5월 14일</a> ~ <a href="../Page/1989년.md" title="wikilink">1989년</a> <a href="../Page/5월_27일.md" title="wikilink">5월 27일</a></p></td>
+<td><p>매주 <a href="../Page/토요일.md" title="wikilink">토요일</a> 밤 9:00 ~ 9:25</p></td>
 <td><p>25분</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/1989년.md" title="wikilink">1989년</a> <a href="../Page/4월_22일.md" title="wikilink">4월 22일</a> ~ <a href="../Page/1989년.md" title="wikilink">1989년</a> <a href="../Page/10월_28일.md" title="wikilink">10월 28일</a></p></td>
-<td><p>매주 <a href="../Page/토요일.md" title="wikilink">토요일</a> 밤 9:00 ~ 9:25</p></td>
+<td><p><a href="../Page/1989년.md" title="wikilink">1989년</a> <a href="../Page/6월_3일.md" title="wikilink">6월 3일</a> ~ <a href="../Page/1989년.md" title="wikilink">1989년</a> <a href="../Page/10월_29일.md" title="wikilink">10월 29일</a></p></td>
+<td><p>매주 <a href="https://ko.wikipedia.org/wiki/주말" title="wikilink">주말</a> 밤 9:00 ~ 9:25</p></td>
 <td><p>25분</p></td>
 </tr>
 <tr class="odd">
@@ -800,13 +790,13 @@
 <td><p>25분</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/1991년.md" title="wikilink">1991년</a> <a href="../Page/4월_27일.md" title="wikilink">4월 27일</a> ~ <a href="../Page/1991년.md" title="wikilink">1991년</a> <a href="../Page/10월_5일.md" title="wikilink">10월 5일</a></p></td>
-<td><p>매주 <a href="../Page/토요일.md" title="wikilink">토요일</a> 밤 9:00 ~ 9:45</p></td>
+<td><p><a href="../Page/1991년.md" title="wikilink">1991년</a> <a href="../Page/4월_27일.md" title="wikilink">4월 27일</a> ~ <a href="../Page/1991년.md" title="wikilink">1991년</a> <a href="../Page/10월_6일.md" title="wikilink">10월 6일</a></p></td>
+<td><p>매주 <a href="https://ko.wikipedia.org/wiki/주말" title="wikilink">주말</a> 밤 9:00 ~ 9:45</p></td>
 <td><p>45분</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/1991년.md" title="wikilink">1991년</a> <a href="../Page/10월_12일.md" title="wikilink">10월 12일</a> ~ <a href="../Page/1993년.md" title="wikilink">1993년</a> <a href="../Page/10월_16일.md" title="wikilink">10월 16일</a></p></td>
-<td><p>매주 <a href="../Page/토요일.md" title="wikilink">토요일</a> 밤 9:00 ~ 9:40</p></td>
+<td><p><a href="../Page/1991년.md" title="wikilink">1991년</a> <a href="../Page/10월_12일.md" title="wikilink">10월 12일</a> ~ <a href="../Page/1993년.md" title="wikilink">1993년</a> <a href="../Page/10월_17일.md" title="wikilink">10월 17일</a></p></td>
+<td><p>매주 <a href="https://ko.wikipedia.org/wiki/주말" title="wikilink">주말</a> 밤 9:00 ~ 9:40</p></td>
 <td><p>40분</p></td>
 </tr>
 <tr class="even">
@@ -1066,8 +1056,8 @@
 
 ### 주말
 
-  - [1986년](../Page/1986년.md "wikilink") [1월 4일](../Page/1월_4일.md "wikilink") \~ [1987년](../Page/1987년.md "wikilink") [3월 1일](../Page/3월_1일.md "wikilink") : 차인태
-  - [1987년](../Page/1987년.md "wikilink") [3월 8일](../Page/3월_8일.md "wikilink") \~ [1989년](../Page/1989년.md "wikilink") [5월 28일](../Page/5월_28일.md "wikilink") : 손석희
+  - [1986년](../Page/1986년.md "wikilink") [1월 3일](../Page/1월_3일.md "wikilink") \~ [1987년](../Page/1987년.md "wikilink") [2월 28일](../Page/2월_28일.md "wikilink") : 차인태
+  - [1987년](../Page/1987년.md "wikilink") [3월 7일](../Page/3월_7일.md "wikilink") \~ [1989년](../Page/1989년.md "wikilink") [5월 27일](../Page/5월_27일.md "wikilink") : 손석희
   - [1989년](../Page/1989년.md "wikilink") [6월 3일](../Page/6월_3일.md "wikilink") \~ [8월 26일](../Page/8월_26일.md "wikilink") : 추성춘
   - [1989년](../Page/1989년.md "wikilink") [9월 2일](../Page/9월_2일.md "wikilink") \~ [10월 29일](../Page/10월_29일.md "wikilink") : 구본홍
   - [1989년](../Page/1989년.md "wikilink") [11월 4일](../Page/11월_4일.md "wikilink") \~ [1989년](../Page/1989년.md "wikilink") [11월 18일](../Page/11월_18일.md "wikilink") : 김동진
@@ -1097,9 +1087,8 @@
   - [2008년](../Page/2008년.md "wikilink") [3월 29일](../Page/3월_29일.md "wikilink") \~ [2009년](../Page/2009년.md "wikilink") [4월 26일](../Page/4월_26일.md "wikilink") : 김세용, 손정은
   - [2009년](../Page/2009년.md "wikilink") [5월 2일](../Page/5월_2일.md "wikilink") \~ [2010년](../Page/2010년.md "wikilink") [6월 6일](../Page/6월_6일.md "wikilink") : 왕종명, 손정은
   - [2010년](../Page/2010년.md "wikilink") [6월 12일](../Page/6월_12일.md "wikilink") \~ [10월 31일](../Page/10월_31일.md "wikilink") : 왕종명, 배현진
-  - [2010년](../Page/2010년.md "wikilink") [11월 6일](../Page/11월_6일.md "wikilink") \~ [2011년](../Page/2011년.md "wikilink") [4월 3일](../Page/4월_3일.md "wikilink") : 최일구, 배현진
-  - [2011년](../Page/2011년.md "wikilink") [4월 9일](../Page/4월_9일.md "wikilink") \~ [2012년](../Page/2012년.md "wikilink") [1월 22일](../Page/1월_22일.md "wikilink") : 최일구, 문지애
-  - [2012년](../Page/2012년.md "wikilink") [1월 28일](../Page/1월_28일.md "wikilink") \~ [5월 6일](../Page/5월_6일.md "wikilink") : 최일구 / 김세용 / 김창옥 / 김상운
+  - [2010년](../Page/2010년.md "wikilink") [11월 6일](../Page/11월_6일.md "wikilink") \~ [2012년](../Page/2012년.md "wikilink") [1월 22일](../Page/1월_22일.md "wikilink") : 배현진
+  - [2012년](../Page/2012년.md "wikilink") [1월 28일](../Page/1월_28일.md "wikilink") \~ [5월 6일](../Page/5월_6일.md "wikilink") : 최일구, 김세용, 김창옥, 김상운
   - [2012년](../Page/2012년.md "wikilink") [5월 12일](../Page/5월_12일.md "wikilink") \~ [6월 17일](../Page/6월_17일.md "wikilink") : 정연국, 양승은
   - [2012년](../Page/2012년.md "wikilink") [6월 23일](../Page/6월_23일.md "wikilink") \~ [10월 7일](../Page/10월_7일.md "wikilink") : 최대현, 양승은
   - [2012년](../Page/2012년.md "wikilink") [10월 13일](../Page/10월_13일.md "wikilink") \~ [2013년](../Page/2013년.md "wikilink") [1월 13일](../Page/1월_13일.md "wikilink") : 신동호, 양승은
@@ -1120,7 +1109,6 @@
 각 지역별로 매주 월요일 \~ 목요일 & 토요일 \~ 일요일 오후 8시 25분, 매주 금요일 오후 8시 10분 경부터 다음의 지역 뉴스를 자체적으로 방송하고 있다.
 
   - 강원(춘천, 원주, 강원영동 (강릉·삼척) 등은 주말에 한 달씩 방송국마다 돌아가면서 뉴스를 진행했었다. 토요일에는 방송하지 않고 일요일에만 방송 된다.
-  - 각 지역별 뉴스 데스크 예고 자막은 MBC FM 4U TV의 배철수의 음악 캠프 방송중 매일 내 보내고 있다.본사 뉴스 데스크 예고 자막도 같이 지역별 FM 4U의 TV로 매일 내 보내고 있다.표준 FM TV서 평일 자체 때만 각 지역별 뉴스 데스크 예고 자막 이다.주말의 경우 자체 때만 각 지역별 뉴스 데스크 예고 자막 이다.이윤석.신아영의 좋은 주말 방송 중 주말 뉴스 데스크 예고 자막을 내 보내며.나머지 지역 서도 같이 내 보낸다.
 
 <!-- end list -->
 
@@ -1158,8 +1146,7 @@
 <td><p><a href="../Page/MBC강원영동.md" title="wikilink">MBC강원영동</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/MBC_뉴스데스크_강원_(MBC_강원영동)" title="wikilink">MBC 뉴스데스크 강원</a> (평일)<br />
 <a href="https://ko.wikipedia.org/wiki/MBC_뉴스데스크_강원" title="wikilink">MBC 뉴스데스크 강원</a> (일요일)</p></td>
-<td><p>성스리<br />
-(<a href="https://ko.wikipedia.org/wiki/강릉MBC" title="wikilink">강릉</a>·<a href="https://ko.wikipedia.org/wiki/삼척MBC" title="wikilink">삼척</a>)</p></td>
+<td><p>성스리</p></td>
 <td><p>김인성 (일요일)</p></td>
 <td></td>
 </tr>
@@ -1238,8 +1225,7 @@
 <td><p><a href="../Page/MBC경남.md" title="wikilink">MBC경남</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/경상남도" title="wikilink">경남</a> (<a href="../Page/양산시.md" title="wikilink">양산시</a> 제외)</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/MBC_뉴스데스크_경남" title="wikilink">MBC 뉴스데스크 경남</a></p></td>
-<td><p>이상훈<br />
-(<a href="https://ko.wikipedia.org/wiki/창원MBC" title="wikilink">창원</a>·<a href="https://ko.wikipedia.org/wiki/진주MBC" title="wikilink">진주</a>)</p></td>
+<td><p>이상훈</p></td>
 <td><p>무작위</p></td>
 </tr>
 <tr class="odd">
@@ -1342,8 +1328,8 @@
 
 | 연간 평균 [시청률](https://ko.wikipedia.org/wiki/시청률 "wikilink") (단위 : %) |
 | ------------------------------------------------------------------ |
-| [2011년](../Page/2011년.md "wikilink")                               |
-| 11.027%                                                            |
+| [2001년](../Page/2001년.md "wikilink")                               |
+| 14.1%                                                              |
 
 ## 경쟁 뉴스 프로그램
 

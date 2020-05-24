@@ -53,7 +53,7 @@ CATS: 잘 지내십니까 여러분</p></td>
 <td><p>(How are you gentlemen</p></td>
 <td><p>)<br />
 <br />
-CATS: <strong>모든 네 기지는 우리에게 속한다 이다.</strong>(혹은 <strong>모든 네 기지 다 내 거다요</strong>)( <strong>ALL YOUR BASE ARE BELONG TO US</strong> )<br />
+CATS: <strong>모든 네 기지는 우리에게 속한다이다.</strong>(혹은 <strong>모든 네 기지 다 내 거다요</strong>)( <strong>ALL YOUR BASE ARE BELONG TO US</strong> )<br />
 <br />
 CATS: 너는 파괴로 가는 길 위에 있다. ( You are on the way to destruction.)<br />
 <br />

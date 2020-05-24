@@ -63,7 +63,7 @@
 <!-- end list -->
 
   -
-    [효고현](../Page/효고현.md "wikilink") [고베 시](https://ko.wikipedia.org/wiki/고베_시 "wikilink") 출신
+    [효고현](../Page/효고현.md "wikilink") [고베시](../Page/고베시.md "wikilink") 출신
 
 ## 디스코그래피
 

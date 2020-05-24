@@ -9,7 +9,7 @@ GIF는 지프()나 기프(), 또는 지아이에프로 읽는다. GIF 포맷의 
 
 ## 유니시스와 LZW 특허
 
-GIF에 사용되는 [LZW](../Page/LZW.md "wikilink")알고리즘은 유니시스 사에 [미국 특허 4,558,302](http://patft.uspto.gov/netacgi/nph-Parser?patentnumber=4,558,302)로 등록되어 있다. 컴퓨서브가 처음 GIF 포맷을 공개했을 때는 LZW 알고리즘에 특허가 있는 줄 몰랐다. [1994년](../Page/1994년.md "wikilink") 12월, 유니시스는 이 특허에 대해 특허료를 받는다고 공고했다. [1999년](../Page/1999년.md "wikilink") 8월에는 무료 소프트웨어와 그 사용자에게도 특허료를 받는다고 하여 많은 반발을 불러일으켰다.
+GIF에 사용되는 [LZW](../Page/LZW.md "wikilink")알고리즘은 유니시스 사에 [미국 특허 4,558,302](http://patft.uspto.gov/netacgi/nph-Parser?patentnumber=4,558,302) 로 등록되어 있다. 컴퓨서브가 처음 GIF 포맷을 공개했을 때는 LZW 알고리즘에 특허가 있는 줄 몰랐다. [1994년](../Page/1994년.md "wikilink") 12월, 유니시스는 이 특허에 대해 특허료를 받는다고 공고했다. [1999년](../Page/1999년.md "wikilink") 8월에는 무료 소프트웨어와 그 사용자에게도 특허료를 받는다고 하여 많은 반발을 불러일으켰다.
 
 [2003년](../Page/2003년.md "wikilink") [6월 20일](../Page/6월_20일.md "wikilink"), LZW 알고리즘에 대한 유니시스의 특허가 만료되었으며, 유럽, 일본, 캐나다에서의 특허는 [2004년](../Page/2004년.md "wikilink") [6월 18일](../Page/6월_18일.md "wikilink"), [6월 20일](../Page/6월_20일.md "wikilink"), [7월 7일](../Page/7월_7일.md "wikilink") 차례대로 만료되었다\[2\].
 

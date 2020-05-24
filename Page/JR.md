@@ -30,14 +30,14 @@
 <td><p>주식회사</p></td>
 <td><p>JR 홋카이도</p></td>
 <td><p><strong></strong></p></td>
-<td><p><a href="../Page/홋카이도.md" title="wikilink">홋카이도</a> <a href="https://ko.wikipedia.org/wiki/삿포로_시" title="wikilink">삿포로 시</a></p></td>
+<td><p><a href="../Page/홋카이도.md" title="wikilink">홋카이도</a> <a href="../Page/삿포로시.md" title="wikilink">삿포로시</a></p></td>
 <td><p><a href="../Page/홋카이도.md" title="wikilink">홋카이도</a> · <a href="../Page/홋카이도_신칸센.md" title="wikilink">홋카이도 신칸센</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/동일본여객철도.md" title="wikilink">동일본여객철도</a></p></td>
 <td><p>JR 동일본</p></td>
 <td><p><strong></strong></p></td>
-<td><p><a href="../Page/도쿄도.md" title="wikilink">도쿄도</a> <a href="https://ko.wikipedia.org/wiki/시부야_구" title="wikilink">시부야 구</a></p></td>
+<td><p><a href="../Page/도쿄도.md" title="wikilink">도쿄도</a> <a href="../Page/시부야구.md" title="wikilink">시부야구</a></p></td>
 <td><p><a href="../Page/도호쿠_지방.md" title="wikilink">도호쿠</a> · <a href="../Page/간토_지방.md" title="wikilink">간토</a>(간토 광역권) · <a href="https://ko.wikipedia.org/wiki/신에쓰_지방" title="wikilink">신에쓰</a> · <a href="../Page/도호쿠_신칸센.md" title="wikilink">도호쿠 신칸센</a></p></td>
 <td></td>
 <td></td>
@@ -46,7 +46,7 @@
 <td><p><a href="../Page/도카이여객철도.md" title="wikilink">도카이여객철도</a></p></td>
 <td><p>JR 도카이</p></td>
 <td><p><strong></strong></p></td>
-<td><p><a href="../Page/아이치현.md" title="wikilink">아이치현</a> <a href="https://ko.wikipedia.org/wiki/나고야_시" title="wikilink">나고야 시</a></p></td>
+<td><p><a href="../Page/아이치현.md" title="wikilink">아이치현</a> <a href="../Page/나고야시.md" title="wikilink">나고야시</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/도카이_지방" title="wikilink">도카이 4현</a>(주쿄 광역권) · <a href="https://ko.wikipedia.org/wiki/난신_지방" title="wikilink">난신</a> · <a href="https://ko.wikipedia.org/wiki/구니나카_지방" title="wikilink">교난</a> · <a href="../Page/도카이도_신칸센.md" title="wikilink">도카이도 신칸센</a></p></td>
 <td></td>
 <td></td>
@@ -55,7 +55,7 @@
 <td><p><a href="../Page/서일본여객철도.md" title="wikilink">서일본여객철도</a></p></td>
 <td><p>JR 서일본</p></td>
 <td><p><strong></strong></p></td>
-<td><p><a href="../Page/오사카부.md" title="wikilink">오사카부</a> <a href="https://ko.wikipedia.org/wiki/오사카_시" title="wikilink">오사카 시</a></p></td>
+<td><p><a href="../Page/오사카부.md" title="wikilink">오사카부</a> <a href="../Page/오사카시.md" title="wikilink">오사카시</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/호쿠리쿠_지방" title="wikilink">호쿠리쿠 3현</a> · <a href="../Page/긴키_지방.md" title="wikilink">간사이</a>(긴키 광역권) · <a href="https://ko.wikipedia.org/wiki/이가_지방" title="wikilink">이가</a> · <a href="https://ko.wikipedia.org/wiki/츄고쿠_지방" title="wikilink">츄고쿠</a> · <a href="../Page/산요_신칸센.md" title="wikilink">산요 신칸센</a></p></td>
 <td></td>
 <td></td>
@@ -64,7 +64,7 @@
 <td><p><a href="../Page/시코쿠여객철도.md" title="wikilink">시코쿠여객철도</a></p></td>
 <td><p>JR 시코쿠</p></td>
 <td><p><strong></strong></p></td>
-<td><p><a href="../Page/가가와현.md" title="wikilink">가가와현</a> <a href="https://ko.wikipedia.org/wiki/다카마쓰_시" title="wikilink">다카마쓰 시</a></p></td>
+<td><p><a href="../Page/가가와현.md" title="wikilink">가가와현</a> <a href="../Page/다카마쓰시.md" title="wikilink">다카마쓰시</a></p></td>
 <td><p><a href="../Page/시코쿠.md" title="wikilink">시코쿠</a></p></td>
 <td></td>
 <td></td>
@@ -73,7 +73,7 @@
 <td><p><a href="../Page/큐슈여객철도.md" title="wikilink">큐슈여객철도</a></p></td>
 <td><p>JR 큐슈</p></td>
 <td><p><strong></strong></p></td>
-<td><p><a href="../Page/후쿠오카현.md" title="wikilink">후쿠오카현</a> <a href="https://ko.wikipedia.org/wiki/후쿠오카_시" title="wikilink">후쿠오카 시</a></p></td>
+<td><p><a href="../Page/후쿠오카현.md" title="wikilink">후쿠오카현</a> <a href="../Page/후쿠오카시.md" title="wikilink">후쿠오카시</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/큐슈" title="wikilink">큐슈</a> · <a href="https://ko.wikipedia.org/wiki/큐슈_신칸센" title="wikilink">큐슈 신칸센</a></p></td>
 <td></td>
 <td></td>
@@ -94,7 +94,7 @@
 <td><p>철도 총연<br />
 JR 총연</p></td>
 <td><p><strong></strong></p></td>
-<td><p>도쿄 도 <a href="https://ko.wikipedia.org/wiki/고쿠분지_시" title="wikilink">고쿠분지 시</a></p></td>
+<td><p>도쿄 도 <a href="../Page/고쿠분지시.md" title="wikilink">고쿠분지시</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">

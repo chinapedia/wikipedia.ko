@@ -5,7 +5,7 @@
 
 ## 역사
 
-기업인 [테드 터너에](https://ko.wikipedia.org/wiki/테드_터너 "wikilink") 의해서 [1980년](../Page/1980년.md "wikilink") [6월 1일에](../Page/6월_1일.md "wikilink") 창립되었으며, 현재는 미디어 기업 [타임 워너](https://ko.wikipedia.org/wiki/타임_워너 "wikilink") 산하에 있다. 본사는 미국 [조지아주](../Page/조지아주.md "wikilink") [애틀랜타](../Page/애틀랜타.md "wikilink") 시에 위치해 있다. CNN이 설립되기 전에는 미국인들은 뉴욕에 있는 3대 방송사([NBC](../Page/NBC.md "wikilink"), [ABC](../Page/ABC_\(미국의_방송사\).md "wikilink"), [CBS](../Page/CBS_\(미국의_방송사\).md "wikilink"))가 정해놓은 시간에만 뉴스를 볼 수 있었다. 그래서 창립자 테드 터너는 '모든 사람이 자기가 원하는 시간에 마음대로 뉴스를 볼 수 있도록' 하는 것을 목표로 세계 최초 24시간 뉴스 채널을 설립했다고 한다.
+기업인 [테드 터너에](../Page/테드_터너.md "wikilink") 의해서 [1980년](../Page/1980년.md "wikilink") [6월 1일에](../Page/6월_1일.md "wikilink") 창립되었으며, 현재는 미디어 기업 [타임 워너](https://ko.wikipedia.org/wiki/타임_워너 "wikilink") 산하에 있다. 본사는 미국 [조지아주](../Page/조지아주.md "wikilink") [애틀랜타](../Page/애틀랜타.md "wikilink") 시에 위치해 있다. CNN이 설립되기 전에는 미국인들은 뉴욕에 있는 3대 방송사([NBC](../Page/NBC.md "wikilink"), [ABC](../Page/ABC_\(미국의_방송사\).md "wikilink"), [CBS](../Page/CBS_\(미국의_방송사\).md "wikilink"))가 정해놓은 시간에만 뉴스를 볼 수 있었다. 그래서 창립자 테드 터너는 '모든 사람이 자기가 원하는 시간에 마음대로 뉴스를 볼 수 있도록' 하는 것을 목표로 세계 최초 24시간 뉴스 채널을 설립했다고 한다.
 
 개국 당시에는 당시 생소한 24시간 뉴스 전문 방송 시스템이 받아들여지지 않았고, 많은 사람들이 CNN의 실패를 예견하였다. 미국 사람들이 CNN에 처음 눈길을 돌린 것은 [1980년](../Page/1980년.md "wikilink") [12월 8일](../Page/12월_8일.md "wikilink"), 전 [비틀즈](../Page/비틀즈.md "wikilink") 멤버였던 [존 레넌이](https://ko.wikipedia.org/wiki/존_레넌 "wikilink") 뉴욕에서 총격을 당했을 때였다. 이때 CNN은 개국한 지 6개월 남짓 지난 뒤였다. 충격에 사로잡힌 팬들은 CNN을 보면 이 사건이 어떻게 진행되고 있는지 실시간에 알 수 있다는 사실을 깨달았다. TV 뉴스라고는 오직 거대 방송국과 그 제휴 방송사들이 정해놓은 시간에만 보는 것으로 알았던 사람들에게 큰 변화였다.
 

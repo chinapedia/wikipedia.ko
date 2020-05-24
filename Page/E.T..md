@@ -1,24 +1,38 @@
 > This article is converted from Wikipedia: [E.T.](https://ko.wikipedia.org/wiki/E.T.).
 
 
-《**E.T.**》()는 [1982년](../Page/1982년.md "wikilink") 미국에서 제작한 [스티븐 스필버그](../Page/스티븐_스필버그.md "wikilink") 감독의 [공상 과학 영화이다](https://ko.wikipedia.org/wiki/공상_과학_영화 "wikilink"). 초능력을 가진 외계인이 지구에 홀로 남아 지구 소년과 함께 위기를 극복하며 동료들에 의해 구출되기까지의 과정을 그렸다. 음악은 [존 윌리엄스가](../Page/존_윌리엄스_\(작곡가\).md "wikilink") 담당하였다.
+《**E.T.**》()는 [1982년](../Page/1982년.md "wikilink") 개봉한 [미국](../Page/미국.md "wikilink")의 [SF 모험 영화이다](../Page/SF_영화.md "wikilink"). [스티븐 스필버그](../Page/스티븐_스필버그.md "wikilink") 감독이 연출하였고 [멀리사 매시슨이](https://ko.wikipedia.org/wiki/멀리사_매시슨 "wikilink") 각본을 썼으며, [디 월리스](https://ko.wikipedia.org/wiki/디_월리스 "wikilink"), [헨리 토머스](https://ko.wikipedia.org/wiki/헨리_토머스 "wikilink"), [피터 코요테](https://ko.wikipedia.org/wiki/피터_코요테 "wikilink"), [로버트 맥노턴](https://ko.wikipedia.org/wiki/로버트_맥노턴 "wikilink"), [드루 배리모어가](../Page/드루_배리모어.md "wikilink") 출연하였다. 초능력을 가진 외계인이 지구에 홀로 남아 지구 소년과 함께 위기를 극복하며 동료들에 의해 구출되기까지의 과정을 그렸다. 음악은 [존 윌리엄스가](../Page/존_윌리엄스_\(작곡가\).md "wikilink") 담당하였다.
 
 대한민국에서는 [1984년](../Page/1984년.md "wikilink") [6월 23일에](../Page/6월_23일.md "wikilink") 연소자 관람가로 개봉하였고, 재개봉하여 상영되었다. 이후 [2002년](../Page/2002년.md "wikilink")에 UIP 코리아㈜에서 다시 수입하여 영화 제작 20주년을 기념하여 보너스 장면과 디지털 영상 등을 업그레이드 하여 [2002년](../Page/2002년.md "wikilink") [4월 5일에](../Page/4월_5일.md "wikilink") 재개봉하였다. 2011년에는 유니버설픽쳐스인터내셔널코리아(UPI 코리아)에서 재수입하여 CGV 무비꼴라쥬 내 인생의 가족영화 시리즈로 CGV 계열 10개 극장에서 2011년 8월 11일\~31일까지 상영하였다. 이 때에는 디지털 판본이 없어 필름으로만 공급되었다.
 
+## 줄거리
+
+[캘리포니아](https://ko.wikipedia.org/wiki/캘리포니아 "wikilink")의 어느 숲속에 일군의 외계인들이 도착한다. 그들은 [식물학자](https://ko.wikipedia.org/wiki/식물학자 "wikilink")로서 지구의 식물들을 조사하려는 목적으로 왔으나, 지구의 정부 요원들이 등장하자 우주선을 타고 황급히 달아난다. 그런데 한 명이 우주선에 타지 못하고 지구에 남겨지고 만다.
+
+[샌퍼넌도밸리](https://ko.wikipedia.org/wiki/샌퍼넌도밸리 "wikilink")에 사는 10살짜리 소년 엘리엇은 여러 가지로 외로운 삶을 보내고 있다. 엘리엇의 아버지는 바람을 피워 가족을 버렸고 어머니인 메리가 삼남매를 키우고 있었다. 엘리엇의 형 마이클과 그 친구들은 엘리엇을 무시하기 일쑤다. 그날 밤, 엘리엇은 피자 심부름을 다녀오다 마당 창고에서 우주선을 타지 못한 그 외계인을 목격하고 깜짝 놀란다. 외계인을 봤다고 가족들에게 알렸지지만 외계인은 어느새 사라지고 없었고, 아무도 엘리엇의 말을 믿어주지 않는다. 자기 전 엘리엇은 사탕을 조금씩 흘려서 외계인을 꾀어내고, 방 창소 안에 외계인을 숨긴다.
+
+다음날 아침 엘리엇은 꾀병을 부려 학교를 쉬고 외계인과 놀며 이것저것을 가르친다. 그날 오후 엘리엇은 형 마이클과 여동생 거티에게 외계인을 소개한다. 남매는 어머니에게 외계인의 존재를 숨기기로 한다. 남매가 외계인의 출신을 묻자 외계인은 창 밖을 가리키고, 초능력으로 공을 공중에 띄워 자신이 [태양계](../Page/태양계.md "wikilink") 밖에서 왔음을 알려준다. 엘리엇이 손끝에 생채기가 났을 때, 외계인은 빛나는 손가락을 맞대어 엘리엇의 상처를 치유해준다.
+
+다음날 아이들이 학교에 간 사이 외계인은 집에서 장난감을 가지고 놀고 텔레비전을 보며 언어를 배운다. 엘리엇은 학교에서 개구리 [해부](https://ko.wikipedia.org/wiki/해부 "wikilink") 실습을 하게 되는데, 외계인의 행동과 감정을 학교에서 엘리엇이 똑같이 느끼게 되는 일이 벌어진다. 외계인이 술을 마시자 엘리엇이 취기를 느끼고, 실습용 개구리에게 동정심을 느껴 전부 풀어준다. 외계인이 보는 영화 속 장면을 엘리엇이 똑같이 따라하여 혼란 와중 같은 반 여자아이에게 키스도 한다. 외계인은 그 사이 거티와 놀면서 분장을 하고 스스로 '이티'라고 이름짓는다. 만화 속 주인공이 우주에서 연락을 하는 장면을 본 이티는 엘리엇에게 '집에 전화를 해야 한다'고 부탁한다. 마이클은 이티의 건강이 안 좋아지고 있으며, 엘리엇이 이티와 점점 이티와 일심동체가 되고 있는 것을 발견한다.
+
+남매는 [할로윈](../Page/할로윈.md "wikilink") 파티를 틈타 이티를 분장시켜서 밖으로 내보내기로 한다. 엘리엇이 직접 자전거로 이티와 함께 이티를 발견한 숲속으로 향한다. 도중에 길이 끊기자 이티가 자전거를 공중에 띄워 숲을 가로지르고, 이티가 처음 도착했었던 장소에 오게 된다. 잡동사니들로 만든 통신기가 성공적으로 동작하지만 엘리엇은 어느새 잠이 들었고, 깨어나 보니 이티는 어디론가 사라졌다. 엘리엇이 간신히 집에 돌아오니 가족들은 엘리엇이 실종된 줄 알고 있었다. 엘리엇은 마이클에게 숲에서 이티를 찾아달라고 부탁하고, 마이클은 자전거를 몰아 숲속에서 정신을 잃고 쓰러져 있는 이티를 찾아 데려온다. 이티가 쓰러지자 엘리엇도 앓게 되고, 곧 어머니 메리가 모든 것을 발견한다. 그리고 그때 정부 요원들이 집에 들이닥친다.
+
+요원들은 엘리엇네 집에 의료 캠프를 설치하고 엘리엇과 이티를 연구하기 시작한다. 이티와 엘리엇의 정신연결이 끊어지고, 엘리엇은 건강해지지만 이티의 숨이 끊어지고 만다. 슬픔에 빠진 엘리엇이 이티를 바라보다 돌아서는데, 곧 이티의 가슴이 빛나면서 되살아난다. 이야기를 들어보니, 이티의 동료들이 다시 돌아왔다는 것이다. 엘리엇은 이티를 잠시 죽은체하게 한 뒤, 마이클의 도움을 구해 이티를 실은 요원들의 차를 뺏어 타고 출발한다. 마이클의 친구들까지 가세해서 자전거로 요원들과 경찰들의 추적을 피하고, 궁지에 몰리자 이티가 자전거를 띄워 모두 날아가 버린다.
+
+숲속에 돌아와 보니 이티의 동료들이 우주선을 타고 와 있었다. 마이클의 친구들과 메리, 정부 요원 키스가 보는 앞에서, 이티는 남매에게 작별인사를 한다. 이티는 마이클에게 고맙다는 인사를 한다. 거티는 이티에게 화분을 선물로 준다. 그리고 이티는 엘리엇을 안아준 뒤 손끝을 맞대며 '나는 이곳에 있을 것'이라고 말해준다. 그러고는 이티는 화분을 들고 우주선에 올라탄 뒤 떠난다.
+
 ## 배역
 
-  - [헨리 토마스](https://ko.wikipedia.org/wiki/헨리_토마스 "wikilink") - 엘리엇
-  - [드류 베리모어](https://ko.wikipedia.org/wiki/드류_베리모어 "wikilink") - 게티
-  - [디 윌런스 스톤](https://ko.wikipedia.org/wiki/디_윌런스_스톤 "wikilink") - 매리
-  - [피터 코요테](https://ko.wikipedia.org/wiki/피터_코요테 "wikilink") - 케이스
+  - [디 월리스](https://ko.wikipedia.org/wiki/디_월리스 "wikilink") - 메리
+  - [헨리 토머스](https://ko.wikipedia.org/wiki/헨리_토머스 "wikilink") - 엘리엇
+  - [피터 코요테](https://ko.wikipedia.org/wiki/피터_코요테 "wikilink") - 키스
   - [로버트 맥노턴](https://ko.wikipedia.org/wiki/로버트_맥노턴 "wikilink") - 마이클
-  - [팻 웰시](https://ko.wikipedia.org/wiki/팻_웰시 "wikilink")
-  - [데브라 윙거](https://ko.wikipedia.org/wiki/데브라_윙거 "wikilink") - 이티
-  - [로버트 바턴](https://ko.wikipedia.org/wiki/로버트_바턴 "wikilink")
-  - [마이클 더렐](https://ko.wikipedia.org/wiki/마이클_더렐 "wikilink")
-  - [숀 프리에](https://ko.wikipedia.org/wiki/숀_프리에 "wikilink") - 스티브
-  - [C. 토머스 하월](https://ko.wikipedia.org/wiki/C._토머스_하월 "wikilink") - 타일러
+  - [드루 배리모어](../Page/드루_배리모어.md "wikilink") - 거티
   - [K. C. 마텔](https://ko.wikipedia.org/wiki/K._C._마텔 "wikilink") - 그레그
+  - [C. 토머스 하월](https://ko.wikipedia.org/wiki/C._토머스_하월 "wikilink") - 타일러
+  - [숀 프라이](https://ko.wikipedia.org/wiki/숀_프라이 "wikilink") - 스티브
+  - [에리카 일레니액](https://ko.wikipedia.org/wiki/에리카_일레니액 "wikilink") - 예쁜 소녀
+  - [팻 웰시](https://ko.wikipedia.org/wiki/팻_웰시 "wikilink") - 이티 목소리 성우
 
 ## 같이 보기
 
@@ -29,4 +43,4 @@
   - [20주년 기념판](https://web.archive.org/web/20070610030948/http://www.et20.com/) - 공식 웹사이트
 
   -
-[분류:가공의 외계인](https://ko.wikipedia.org/wiki/분류:가공의_외계인 "wikilink") [분류:SF 드라마 영화](https://ko.wikipedia.org/wiki/분류:SF_드라마_영화 "wikilink") [분류:스티븐 스필버그 감독 영화](https://ko.wikipedia.org/wiki/분류:스티븐_스필버그_감독_영화 "wikilink") [분류:미국의 영화 작품](https://ko.wikipedia.org/wiki/분류:미국의_영화_작품 "wikilink") [분류:영어 영화 작품](https://ko.wikipedia.org/wiki/분류:영어_영화_작품 "wikilink") [분류:1982년 영화](https://ko.wikipedia.org/wiki/분류:1982년_영화 "wikilink") [분류:아카데미 음악상 수상작](https://ko.wikipedia.org/wiki/분류:아카데미_음악상_수상작 "wikilink") [분류:골든 글로브상 드라마 작품상(영화) 수상작](https://ko.wikipedia.org/wiki/분류:골든_글로브상_드라마_작품상\(영화\)_수상작 "wikilink") [분류:로스앤젤레스에서 촬영한 영화](https://ko.wikipedia.org/wiki/분류:로스앤젤레스에서_촬영한_영화 "wikilink") [분류:1985년 소설](https://ko.wikipedia.org/wiki/분류:1985년_소설 "wikilink") [분류:존 윌리엄스 영화 음악](https://ko.wikipedia.org/wiki/분류:존_윌리엄스_영화_음악 "wikilink") [분류:미국의 SF 영화](https://ko.wikipedia.org/wiki/분류:미국의_SF_영화 "wikilink") [분류:미국 국립영화등기부 등재 영화](https://ko.wikipedia.org/wiki/분류:미국_국립영화등기부_등재_영화 "wikilink") [분류:SF 모험 영화](https://ko.wikipedia.org/wiki/분류:SF_모험_영화 "wikilink")
+[분류:1982년 영화](https://ko.wikipedia.org/wiki/분류:1982년_영화 "wikilink") [분류:영어 영화 작품](https://ko.wikipedia.org/wiki/분류:영어_영화_작품 "wikilink") [분류:미국의 SF 모험 영화](https://ko.wikipedia.org/wiki/분류:미국의_SF_모험_영화 "wikilink") [분류:미국의 성장 영화](https://ko.wikipedia.org/wiki/분류:미국의_성장_영화 "wikilink") [분류:스티븐 스필버그 감독 영화](https://ko.wikipedia.org/wiki/분류:스티븐_스필버그_감독_영화 "wikilink") [분류:존 윌리엄스 영화 음악](https://ko.wikipedia.org/wiki/분류:존_윌리엄스_영화_음악 "wikilink") [분류:외계생명을 소재로 한 영화](https://ko.wikipedia.org/wiki/분류:외계생명을_소재로_한_영화 "wikilink") [분류:로스앤젤레스를 배경으로 한 영화](https://ko.wikipedia.org/wiki/분류:로스앤젤레스를_배경으로_한_영화 "wikilink") [분류:로스앤젤레스에서 촬영한 영화](https://ko.wikipedia.org/wiki/분류:로스앤젤레스에서_촬영한_영화 "wikilink") [분류:유니버설 픽처스 영화](https://ko.wikipedia.org/wiki/분류:유니버설_픽처스_영화 "wikilink") [분류:앰블린 엔터테인먼트 영화](https://ko.wikipedia.org/wiki/분류:앰블린_엔터테인먼트_영화 "wikilink") [분류:1985년 소설](https://ko.wikipedia.org/wiki/분류:1985년_소설 "wikilink") [분류:아카데미 음악상 수상작](https://ko.wikipedia.org/wiki/분류:아카데미_음악상_수상작 "wikilink") [분류:아카데미 음향편집상 수상작](https://ko.wikipedia.org/wiki/분류:아카데미_음향편집상_수상작 "wikilink") [분류:아카데미 음향효과상 수상작](https://ko.wikipedia.org/wiki/분류:아카데미_음향효과상_수상작 "wikilink") [분류:아카데미 시각효과상 수상작](https://ko.wikipedia.org/wiki/분류:아카데미_시각효과상_수상작 "wikilink") [분류:골든 글로브상 드라마 작품상(영화) 수상작](https://ko.wikipedia.org/wiki/분류:골든_글로브상_드라마_작품상\(영화\)_수상작 "wikilink") [분류:미국 국립영화등기부 등재 영화](https://ko.wikipedia.org/wiki/분류:미국_국립영화등기부_등재_영화 "wikilink")

@@ -121,7 +121,7 @@ A는 [소](../Page/소.md "wikilink")를 의미하는 [그림 문자에서부터
 
 ## 쓰임
 
-  - 자리의 [밑가](https://ko.wikipedia.org/wiki/밑_\(수학\) "wikilink") [십](../Page/10.md "wikilink") 를 초과하는 [위치 기수법법은](https://ko.wikipedia.org/wiki/위치_기수법 "wikilink") [십을](../Page/10.md "wikilink") A로 표기한다. 예 : AB<sub>([12](../Page/십이진법.md "wikilink"))</sub> = 131<sub>([10](https://ko.wikipedia.org/wiki/십진법 "wikilink"))</sub>, AB<sub>([16](../Page/십육진법.md "wikilink"))</sub> = 171<sub>(10)</sub>, AB<sub>([20](../Page/이십진법.md "wikilink"))</sub> = 211<sub>(10)</sub>.
+  - 자리의 [밑가](https://ko.wikipedia.org/wiki/밑_\(수학\) "wikilink") [십](../Page/10.md "wikilink") 를 초과하는 [위치 기수법법은](https://ko.wikipedia.org/wiki/위치_기수법 "wikilink") [십을](../Page/10.md "wikilink") A로 표기한다. 예 : AB<sub>([12](../Page/십이진법.md "wikilink"))</sub> = 131<sub>([10](../Page/십진법.md "wikilink"))</sub>, AB<sub>([16](../Page/십육진법.md "wikilink"))</sub> = 171<sub>(10)</sub>, AB<sub>([20](../Page/이십진법.md "wikilink"))</sub> = 211<sub>(10)</sub>.
   - a는 [국제음성기호](https://ko.wikipedia.org/wiki/국제음성기호 "wikilink")에서 [전설 비원순 저모음을](https://ko.wikipedia.org/wiki/전설_비원순_저모음 "wikilink") 나타낸다.
   - A는 전류의 단위인 [암페어](../Page/암페어.md "wikilink")의 기호이다.
 

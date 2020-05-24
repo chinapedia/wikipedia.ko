@@ -37,7 +37,7 @@ X 염색체가 다른 상염색체들과는 다르다는 것을 발견한 사람
 
 X 염색체를 처음 [성결정](https://ko.wikipedia.org/wiki/성결정 "wikilink")과 관련지은 사람은 클래런스 맥클렁([Clarence Erwin McClung](https://ko.wikipedia.org/wiki/:en:Clarence_Erwin_McClung "wikilink"))이다. 1901년 그는 메뚜기를 연구하면서 헨킹과 다른 이들의 연구를 비교하면서 [정자](https://ko.wikipedia.org/wiki/정자 "wikilink") 중 절반만이 X 염색체를 받는 것을 발견하였다. 그는 이 염색체를 보조적인 염색체()이라고 칭하고 남성을 결정하는 염색체라고 주장하였다.\[18\] X 염색체를 염색체로 분류한 것은 옳지만, 남성 성결정 염색체라는 주장은 잘못된 것이었다.
 
-## 함께 보기
+## 같이 보기
 
   - [염색체 이상](../Page/염색체_이상.md "wikilink")
   - [바소체](../Page/바소체.md "wikilink")

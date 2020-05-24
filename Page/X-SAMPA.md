@@ -694,7 +694,7 @@
 <td><p><code>7</code></p></td>
 <td></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Xsampa-7.png" title="wikilink">파일:Xsampa-7.png</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/후설_비원순_중고모음" title="wikilink">후설 비원순 중고모음</a></p></td>
+<td><p><a href="../Page/후설_비원순_중고모음.md" title="wikilink">후설 비원순 중고모음</a></p></td>
 </tr>
 <tr class="even">
 <td><p><code>8</code></p></td>

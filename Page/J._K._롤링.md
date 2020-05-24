@@ -211,7 +211,7 @@
 </tr>
 <tr class="odd">
 <td><p>2018</p></td>
-<td><p>align="left"!scope=row style="background:#FFFFCC;" |<a href="../Page/신비한_동물들과_그린델왈드의_범죄.md" title="wikilink">신비한 동물들과 그린델왈드의 범죄</a></p></td>
+<td><p><a href="../Page/신비한_동물들과_그린델왈드의_범죄.md" title="wikilink">신비한 동물들과 그린델왈드의 범죄</a></p></td>
 <td></td>
 <td></td>
 <td></td>

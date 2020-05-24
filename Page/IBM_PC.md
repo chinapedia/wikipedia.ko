@@ -23,7 +23,7 @@ IBM의 1세대 PC시리즈의 모델은 다음과 같다:
 
 align="top" | IBM PC의 모델
 
-## 함께 보기
+## 같이 보기
 
   - [IBM PC 호환기종](../Page/IBM_PC_호환기종.md "wikilink")
   - [컴퓨터](../Page/컴퓨터.md "wikilink")

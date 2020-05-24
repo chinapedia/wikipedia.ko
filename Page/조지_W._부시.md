@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [조지 W. 부시](https://ko.wikipedia.org/wiki/조지_W._부시).
 
 
-**조지 워커 부시**( , , [1946년](../Page/1946년.md "wikilink") [7월 6일](../Page/7월_6일.md "wikilink") \~ )는 [미국](../Page/미국.md "wikilink")의 정치인이다. [2000년 대통령 선거에](../Page/2000년_미국_대통령_선거.md "wikilink") [공화당](https://ko.wikipedia.org/wiki/공화당_\(미국\) "wikilink") 소속으로 출마, 당선되어 [2001년](../Page/2001년.md "wikilink")부터 [43번째 대통령으로](../Page/미국의_대통령.md "wikilink") 재직했으며, [2004년 선거에서](../Page/2004년_미국_대통령_선거.md "wikilink") 다시 당선되어, [2009년](../Page/2009년.md "wikilink") [1월 20일까지](../Page/1월_20일.md "wikilink") 재임하였다.
+**조지 워커 부시**( , , [1946년](../Page/1946년.md "wikilink") [7월 6일](../Page/7월_6일.md "wikilink") \~ )는 [미국](../Page/미국.md "wikilink")의 정치인이다. [2000년 11월 대통령 선거에](../Page/2000년_미국_대통령_선거.md "wikilink") [공화당](https://ko.wikipedia.org/wiki/공화당_\(미국\) "wikilink") 소속으로 출마, 당선되어 [2001년](../Page/2001년.md "wikilink")부터 [2009년](../Page/2009년.md "wikilink")까지 [43번째 대통령으로](../Page/미국의_대통령.md "wikilink") 재직했다.
 
-[1989년](../Page/1989년.md "wikilink") \~ [1993년](../Page/1993년.md "wikilink") 41번째 대통령으로 재직한 [조지 H. W. 부시의](../Page/조지_H._W._부시.md "wikilink") 장남으로, 역대 미국 역사상 두 번째로 전직 대통령의 아들로 재선 대통령의 자리에 올랐다. 그는 집권 기간 중 [테러와의 전쟁을](../Page/테러와의_전쟁.md "wikilink") 선포해 [아프가니스탄 전쟁](https://ko.wikipedia.org/wiki/아프가니스탄_전쟁 "wikilink"), [이라크 전쟁](../Page/이라크_전쟁.md "wikilink") 등의 전쟁이 일어났고, [2008년 세계 금융 위기의](https://ko.wikipedia.org/wiki/2008년_세계_금융_위기 "wikilink") 책임으로 수없는 비판을 받기도 했다.
+[1989년](../Page/1989년.md "wikilink") \~ [1993년](../Page/1993년.md "wikilink") 41번째 대통령으로 재직한 [조지 H. W. 부시의](../Page/조지_H._W._부시.md "wikilink") 장남으로, 역대 미국 역사상 두 번째로 전직 대통령의 아들로 재선 대통령의 자리에 올랐다. 그는 대통령 집권 기간 중 [테러와의 전쟁을](../Page/테러와의_전쟁.md "wikilink") 선포해 [아프가니스탄 전쟁](https://ko.wikipedia.org/wiki/아프가니스탄_전쟁 "wikilink"), [이라크 전쟁](../Page/이라크_전쟁.md "wikilink") 등의 전쟁이 일어났고, [2008년 세계 금융 위기의](https://ko.wikipedia.org/wiki/2008년_세계_금융_위기 "wikilink") 책임으로 수없는 비판을 받기도 했다.
 
 ## 초기 생애
 

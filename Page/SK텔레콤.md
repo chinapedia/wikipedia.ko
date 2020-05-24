@@ -73,6 +73,10 @@ SK텔레콤은 2.1GHz대역 60MHz폭에서 [3G](https://ko.wikipedia.org/wiki/3G
 
 [2009년](../Page/2009년.md "wikilink") 12월 초, 한 구인광고 사이트에 SK텔레콤 단기 [아르바이트](../Page/아르바이트.md "wikilink") 공고가 게재되었다\[5\]. 해당 공고에는 "주요 [스마트폰](../Page/스마트폰.md "wikilink") 카페 및 [블로그](../Page/블로그.md "wikilink") 대상 [T옴니아 2에](../Page/애니콜_T*옴니아_II.md "wikilink") 대한 잘못된 정보에 대해 댓글을 통해 정보 전달 및 신규 업데이트"라고 명기되어 있었다. 채용공고 페이지가 삭제된 후에도 해당 캡처 장면은 온라인 카페를 통해 퍼져 논란이 되었다.\[6\]. 이에 대해 SK텔레콤은 댓글 알바가 아니라 온라인 카페 등을 모니터링해 본사에 전달하는 역할을 하는 아르바이트생을 구한다는 내용을 아웃소싱 업체가 잘못 이해해 벌어진 일이라고 해명하고, 온라인상에서 문제가 되어 해당 모집 공고를 삭제했다고 밝혔지만\[7\], 한 스마트폰 전문 사이트 회원들은 몇몇 기업체들이 [댓글 알바를](https://ko.wikipedia.org/wiki/댓글_알바 "wikilink") 쓴다는 의혹을 제기하였고, SK텔레콤의 댓글 아르바이트 논란에 대해서도 "원래부터 있던 아르바이트 모집이 뒤늦게 수면 위로 떠오른 것 뿐"이라는 반응을 보였다\[8\].
 
+### 자유구속 앱 논란
+
+SK 텔레콤은 [ZEM](https://ko.wikipedia.org/wiki/ZEM "wikilink")이라는 앱을 만들이 어린이들의 자유를 구속하여 휴대폰이 장식이 되었다.
+
 ### 통합메시지함과 통합 UI
 
 SK텔레콤용으로 생산/판매되는 피처폰에는 제조사가 개발한 메시징 애플리케이션이 아닌 SK텔레콤에서 독자 개발한 [통합메시지함](https://ko.wikipedia.org/wiki/통합메시지함 "wikilink")이 탑재가 된다. 모든 SK텔레콤용 휴대폰에 일관된 디자인의 메시징 인터페이스를 탑재하여 휴대폰 제조사 고유의 인터페이스를 무시하고, [VM](../Page/가상_머신.md "wikilink") 기반으로 개발되어 메시지 작성 시에 메모리 부족으로 딜레이가 생기는 점 때문에 소비자들로부터 많은 불만이 제기되는 등 논란의 소지가 많았다.\[9\]
@@ -106,7 +110,7 @@ SK텔레콤이 [2018년 동계 올림픽에](../Page/2018년_동계_올림픽.md
   - [SK스포츠단](https://ko.wikipedia.org/wiki/SK스포츠단 "wikilink")
       - [SK 와이번스](../Page/SK_와이번스.md "wikilink"): SK텔레콤이 지배기업으로 있는 [인천광역시](https://ko.wikipedia.org/wiki/인천광역시 "wikilink") 연고의 프로야구단
       - [서울 SK 나이츠](../Page/서울_SK_나이츠.md "wikilink"): SK텔레콤이 모기업인 [서울특별시](../Page/서울특별시.md "wikilink") 연고의 프로농구단
-      - [SK텔레콤 T1](https://ko.wikipedia.org/wiki/SK텔레콤_T1 "wikilink"): SK텔레콤이 창단한 스타크래프트Ⅱ 및 [리그오브레전드](https://ko.wikipedia.org/wiki/리그오브레전드 "wikilink") 프로게임단
+      - [T1](../Page/T1_\(프로게임단\).md "wikilink"): SK텔레콤이 창단한 종합 프로게임단
 
 ## 스폰서
 
@@ -114,7 +118,8 @@ SK텔레콤이 [2018년 동계 올림픽에](../Page/2018년_동계_올림픽.md
   - 생각대로T SF2 프로리그 시즌1 2011
   - 4G LTE SF2 프로리그 시즌2 2012
   - [SK텔레콤 스타크래프트 II 프로리그 2014](../Page/SK텔레콤_스타크래프트_II_프로리그_2014.md "wikilink")
-  - [SK텔레콤 LTE-A LoL 마스터즈 2014](../Page/SK텔레콤_LTE-A_LoL_마스터즈_2014.md "wikilink")2020 skt 5G JUMP 카트라이더리그
+  - [SK텔레콤 LTE-A LoL 마스터즈 2014](../Page/SK텔레콤_LTE-A_LoL_마스터즈_2014.md "wikilink")
+  - 2020 SKT 5G JUMP 카트라이더리그
 
 ## [하나카드](../Page/하나카드.md "wikilink")의 지분제휴
 

@@ -23,7 +23,7 @@ URL은 1994년 [월드 와이드 웹의](../Page/월드_와이드_웹.md "wikili
       - 예2) <ftp://id:pass@192.168.1.234/a.gif> - IP 혹은 Domain name 정보가 필요한 형태 ( 192.168.1.234에 있는 a.gif를 가리키고 있음 )
       - 예3) [`mailto:somebody@mail.somehost.com`](mailto:somebody@mail.somehost.com) - IP정보가 필요없는 프로토콜 ( mailto 프로토콜은 단지 메일을 받는 사람의 주소를 나타냄 )
 
-## 함께 보기
+## 같이 보기
 
   - [웹 사이트](https://ko.wikipedia.org/wiki/웹_사이트 "wikilink")
   - [TinyURL](https://ko.wikipedia.org/wiki/TinyURL "wikilink")

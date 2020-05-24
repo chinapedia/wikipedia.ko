@@ -22,7 +22,7 @@ Yum은 페도라 22 버전 이후부터 [DNF로](../Page/DNF_\(소프트웨어\)
   - 패키지 목록 : yum list 패키지명
   - yum 데이터베이스 동기화 업데이트 : yum update
 
-## 함께보기
+## 같이 보기
 
   - [APT](../Page/어드밴스트_패키징_툴.md "wikilink")
 

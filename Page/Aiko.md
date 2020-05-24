@@ -11,7 +11,7 @@
 
 **aiko**(아이코, , [1975년](../Page/1975년.md "wikilink") [11월 22일](../Page/11월_22일.md "wikilink") \~ )는 [일본](../Page/일본.md "wikilink")의 여성 [가수](https://ko.wikipedia.org/wiki/가수 "wikilink")이다. 본명은 **야나이 아이코**()이다.\[1\]
 
-[오사카부](../Page/오사카부.md "wikilink") [스이타 시에서](https://ko.wikipedia.org/wiki/스이타_시 "wikilink") 태어났으며, 오사카 음악 단기 대학을 졸업했다. 현재 [포니캐년](https://ko.wikipedia.org/wiki/포니캐년 "wikilink") 소속이다.
+[오사카부](../Page/오사카부.md "wikilink") [스이타시](../Page/스이타시.md "wikilink")에서 태어났으며, 오사카 음악 단기 대학을 졸업했다. 현재 [포니캐년](https://ko.wikipedia.org/wiki/포니캐년 "wikilink") 소속이다.
 
 ## 작품 목록
 
