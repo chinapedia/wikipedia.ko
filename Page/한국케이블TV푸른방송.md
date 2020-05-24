@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [한국케이블TV푸른방송](https://ko.wikipedia.org/wiki/한국케이블TV푸른방송).
 
 
-**한국케이블TV푸른방송 주식회사**(약칭 **GCS**)는 [대구광역시](../Page/대구광역시.md "wikilink") [달서구](https://ko.wikipedia.org/wiki/달서구 "wikilink"), [달성군](../Page/달성군.md "wikilink")을 서비스 구역으로 하는 대한민국의 케이블SO사업자이다.\[1\] [1993년](../Page/1993년.md "wikilink") [9월 29일](../Page/9월_29일.md "wikilink") **흥진종합유선방송**으로서 설립되어 오늘날에 이르고 있다.
+**한국케이블TV푸른방송 주식회사**(약칭 **GCS**)는 [대구광역시](../Page/대구광역시.md "wikilink") [달서구](https://ko.wikipedia.org/wiki/달서구 "wikilink"), [달성군](../Page/달성군.md "wikilink")을 서비스 구역으로 하는 대한민국의 [케이블SO사업자](https://ko.wikipedia.org/wiki/케이블SO사업자 "wikilink")이다.\[1\] [1993년](../Page/1993년.md "wikilink") [9월 29일](../Page/9월_29일.md "wikilink") **흥진종합유선방송**으로서 설립되어 오늘날에 이르고 있다.
 
 ## 연혁
 
@@ -109,11 +109,11 @@
   - 5-1번 [tvN](https://ko.wikipedia.org/wiki/tvN "wikilink")
   - 6-1번 [EBS](https://ko.wikipedia.org/wiki/EBS "wikilink")
   - 6-2번 [EBS2](https://ko.wikipedia.org/wiki/EBS2 "wikilink")
-  - 7-1번 [KBS2](https://ko.wikipedia.org/wiki/KBS2 "wikilink")
+  - 7-1번 [KBS2](https://ko.wikipedia.org/wiki/KBS_제2TV "wikilink")
   - 8-1번 [CJ오쇼핑](../Page/CJ오쇼핑.md "wikilink")
-  - 9-1번 [KBS1](https://ko.wikipedia.org/wiki/KBS1 "wikilink")
+  - 9-1번 [KBS1](https://ko.wikipedia.org/wiki/KBS_제1TV "wikilink")
   - 10-1번 [롯데홈쇼핑](https://ko.wikipedia.org/wiki/롯데홈쇼핑 "wikilink")
-  - 11-1번 [대구 MBC](https://ko.wikipedia.org/wiki/대구_MBC "wikilink")
+  - 11-1번 [MBC](https://ko.wikipedia.org/wiki/대구_MBC "wikilink")
   - 12-1번 [GS SHOP](https://ko.wikipedia.org/wiki/GS홈쇼핑 "wikilink")
   - 13-1번 [TBC/SBS](https://ko.wikipedia.org/wiki/대구방송 "wikilink")
   - 14-1번 [NS홈쇼핑](../Page/NS홈쇼핑.md "wikilink")
@@ -122,8 +122,47 @@
   - 17-1번 [JTBC](../Page/JTBC.md "wikilink")
   - 18-1번 [채널A](../Page/채널A.md "wikilink")
   - 19-1번 [TV조선](../Page/TV조선.md "wikilink")
+  - 20-1번 [MBN](../Page/매일방송.md "wikilink")
+  - 21-1번 [공영쇼핑](https://ko.wikipedia.org/wiki/공영홈쇼핑 "wikilink")
+  - 22-1번 [SBS CNBC](../Page/SBS_CNBC.md "wikilink")
+  - 23-1번 [연합뉴스TV](../Page/연합뉴스TV.md "wikilink")
+  - 24-1번 [YTN](../Page/YTN.md "wikilink")
+  - 25-1번 [한국경제TV](../Page/한국경제TV.md "wikilink")
+  - 26-1번 [MBC에브리원](../Page/MBC_에브리원.md "wikilink")
+  - 26-2번 [MBC ON](../Page/MBC_ON.md "wikilink")
+  - 27-1번 [Mnet](https://ko.wikipedia.org/wiki/Mnet "wikilink")
+  - 27-2번 [채널 DIA](../Page/DIA_TV.md "wikilink")
+  - 28-1번 [코미디TV](https://ko.wikipedia.org/wiki/코미디TV "wikilink")
+  - 29-1번 [XtvN](https://ko.wikipedia.org/wiki/XtvN "wikilink")
+  - 30-1번 [스크린](https://ko.wikipedia.org/wiki/스크린 "wikilink")
+  - 30-2번 [인디필름](https://ko.wikipedia.org/wiki/인디필름 "wikilink")
+  - 31-1번 [OCN](../Page/OCN_\(텔레비전_채널\).md "wikilink")
+  - 32-1번 [OCN 무비즈](https://ko.wikipedia.org/wiki/채널_CGV "wikilink")
+  - 32-2번 [Mplex](https://ko.wikipedia.org/wiki/Mplex "wikilink")
+  - 33-1번 [CNTV](https://ko.wikipedia.org/wiki/CNTV "wikilink")
+  - 34-1번 [K STAR](https://ko.wikipedia.org/wiki/K-STAR_\(채널\) "wikilink")
+  - 35-1번 [하이라이트TV](../Page/하이라이트TV.md "wikilink")
+  - 36-1번 [JTBC2](../Page/JTBC2.md "wikilink")
+  - 36-2번 [JTBC4](https://ko.wikipedia.org/wiki/JTBC4 "wikilink")
+  - 37-1번 [CMCTV](https://ko.wikipedia.org/wiki/CMC_TV "wikilink")
+  - 37-2번 채널이엠
+  - 38-1번 [KBS JOY](../Page/KBS_조이.md "wikilink")
+  - 39-1번 [디원](https://ko.wikipedia.org/wiki/디원TV "wikilink")
+  - 39-2번 [Fun TV](https://ko.wikipedia.org/wiki/펀TV "wikilink")
+  - 40-1번 [SBS플러스](https://ko.wikipedia.org/wiki/SBS플러스 "wikilink")
+  - 41-1번 [드라맥스](../Page/드라맥스.md "wikilink")
+  - 42-1번 [KBS드라마](../Page/KBS_드라마.md "wikilink")
 
 ## 디지털케이블TV
+
+지상파
+
+  - 2번 - [EBS2](../Page/EBS_2TV.md "wikilink") HD
+  - 5번 - [TBC/SBS](https://ko.wikipedia.org/wiki/대구방송 "wikilink") HD
+  - 7번 - [KBS2](https://ko.wikipedia.org/wiki/KBS_제2TV "wikilink") HD
+  - 9번 - [KBS1](https://ko.wikipedia.org/wiki/KBS_제1TV "wikilink") HD
+  - 11번 - [MBC](https://ko.wikipedia.org/wiki/대구_MBC "wikilink") HD
+  - 15번 - [EBS](../Page/EBS_1TV.md "wikilink") HD
 
 ## 본점 및 지점 현황
 

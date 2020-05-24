@@ -39,7 +39,7 @@
 
   - **신야** (Shinya) 드럼
 
-1978년 2월 24일 [오사카부](../Page/오사카부.md "wikilink") [히라카타 시](https://ko.wikipedia.org/wiki/히라카타_시 "wikilink") 출신
+1978년 2월 24일 [오사카부](../Page/오사카부.md "wikilink") [히라카타시](../Page/히라카타시.md "wikilink") 출신
 
 ## 음반목록
 

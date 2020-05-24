@@ -14,9 +14,9 @@
 ## 구성원
 
   - **히데** (HIDE, [1980년](../Page/1980년.md "wikilink") [4월 3일](../Page/4월_3일.md "wikilink") - )
-      - [오사카부](../Page/오사카부.md "wikilink") [다카쓰키 시](https://ko.wikipedia.org/wiki/다카쓰키_시 "wikilink") 출신. 치과의사.
+      - [오사카부](../Page/오사카부.md "wikilink") [다카쓰키시](../Page/다카쓰키시.md "wikilink") 출신. 치과의사.
   - **나비** (navi, 1980년 [4월 30일](../Page/4월_30일.md "wikilink") - )
-      - [미야기현](../Page/미야기현.md "wikilink") [센다이 시](https://ko.wikipedia.org/wiki/센다이_시 "wikilink") 출생, [지바현](../Page/지바현.md "wikilink") 출신. 치과의사.
+      - [미야기현](../Page/미야기현.md "wikilink") [센다이시](../Page/센다이시.md "wikilink") 출생, [지바현](../Page/지바현.md "wikilink") 출신. 치과의사.
   - **쿠니** (92, [1982년](../Page/1982년.md "wikilink") [3월 21일](../Page/3월_21일.md "wikilink") - )
       - [오키나와현](../Page/오키나와현.md "wikilink") 출신. 치과의사.
   - **소** (SOH, [1981년](../Page/1981년.md "wikilink") [2월 2일](../Page/2월_2일.md "wikilink") - )

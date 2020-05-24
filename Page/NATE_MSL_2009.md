@@ -133,7 +133,7 @@ MSL 후원은 처음이지만, 2002년 NATE 온게임넷 스타리그 후원 이
 
 ## 각주
 
-<references/>
+<references />
 
 ## 외부 링크
 

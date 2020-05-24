@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [한국방송공사 1TV 일일연속극](https://ko.wikipedia.org/wiki/한국방송공사_1TV_일일연속극).
 
 
-**한국방송공사 1TV 일일연속극**은 매주 평일 밤 8시 30분에 [KBS 1TV에서](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink") 방송중인 [텔레비전 드라마다](../Page/텔레비전_드라마.md "wikilink"). 정식 명칭은 **저녁일일극**이다.
+**한국방송공사 1TV 일일연속극**은 매주 평일 밤 8시 30분에 [KBS 1TV에서](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink") 방송중인 [텔레비전 드라마다](../Page/텔레비전_드라마.md "wikilink").
 
 ## 저녁일일극 방송 시간
 
@@ -102,8 +102,8 @@
 ### 2010년대 전반
 
   - 《[바람 불어 좋은 날](../Page/바람_불어_좋은_날_\(드라마\).md "wikilink")》 : 2010년 2월 1일 \~ 2010년 10월 1일
-  - 《[웃어라 동해야](../Page/웃어라_동해야.md "wikilink")》 : 2010년 10월 4일 \~ 2011년 5월 13일
-  - 《[우리집 여자들](../Page/우리집_여자들.md "wikilink")》 : 2011년 5월 16일 \~ 2011년 11월 4일
+  - 《[웃어라 동해야](../Page/웃어라_동해야.md "wikilink")》 : 2010년 10월 4일 \~ 2011년 5월 13일 (이 작품까지 **일일연속극**으로 방영됨)
+  - 《[우리집 여자들](../Page/우리집_여자들.md "wikilink")》 : 2011년 5월 16일 \~ 2011년 11월 4일 (이 작품부터 **저녁일일극**으로 방영됨)
   - 《[당신뿐이야](https://ko.wikipedia.org/wiki/당신뿐이야 "wikilink")》 : 2011년 11월 7일 \~ 2012년 5월 4일
   - 《[별도 달도 따줄게](../Page/별도_달도_따줄게.md "wikilink")》 : 2012년 5월 7일 \~ 2012년 11월 2일
   - 《[힘내요 미스터 김](../Page/힘내요_미스터_김.md "wikilink")》 : 2012년 11월 5일 \~ 2013년 4월 26일
@@ -127,7 +127,7 @@
 
 ### 2020년대 전반
 
-  - 《[기막힌 유산](https://ko.wikipedia.org/wiki/기막힌_유산 "wikilink")》 : 2020년 4월 20일 \~ 2020년 10월 2일
+  - 《[기막힌 유산](https://ko.wikipedia.org/wiki/기막힌_유산 "wikilink")》 : 2020년 4월 20일 \~
 
 ## 각주
 

@@ -32,7 +32,7 @@
 
 ### 차후 개발 방향
 
-현재 모바일 IP는 [모바일 IPv6](https://ko.wikipedia.org/wiki/모바일_IPv6 "wikilink"), [Hierarchical MIPv6](https://ko.wikipedia.org/wiki/Hierarchical_MIPv6 "wikilink") 등의 다양한 형태로 발전되면서 더욱 안전하면서 효과적인 방향으로 개발되고 있다. 모바일 IP는 어떠한 사전 설비없이 네트워크 간의 이동성을 지원하기 위한 방향으로 개발되고 있으며 그 한 예가 [Interactive Protocol for Mobile Networking (IPMN)](https://web.archive.org/web/20100701160513/http://medianet.kent.edu/ipmn/main.html) 이다.
+현재 모바일 IP는 [모바일 IPv6](https://ko.wikipedia.org/wiki/모바일_IPv6 "wikilink"), [Hierarchical MIPv6](https://ko.wikipedia.org/wiki/Hierarchical_MIPv6 "wikilink") 등의 다양한 형태로 발전되면서 더욱 안전하면서 효과적인 방향으로 개발되고 있다. 모바일 IP는 어떠한 사전 설비없이 네트워크 간의 이동성을 지원하기 위한 방향으로 개발되고 있으며 그 한 예가 [Interactive Protocol for Mobile Networking (IPMN)](https://web.archive.org/web/20100701160513/http://medianet.kent.edu/ipmn/main.html)이다.
 
 ## 용어 정의
 

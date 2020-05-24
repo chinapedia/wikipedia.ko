@@ -17,7 +17,7 @@
   - [GS EPS](https://ko.wikipedia.org/wiki/GS_EPS "wikilink")
   - [GS E\&R](https://ko.wikipedia.org/wiki/GS_E&R "wikilink")
 
-## 함께 보기
+## 같이 보기
 
   - [GS그룹](../Page/GS그룹.md "wikilink")
 

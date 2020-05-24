@@ -158,7 +158,7 @@
 | <code>chmod -R u+rwX,g-rwx,o-rwx *directory*    | 소유자 디렉터리에 대한 rwx(읽기, 쓰기, 실행)을, 소유자 파일들에 대해서는 rw(읽기, 쓰기)를, 그룹이나 다른 이들에 대해서는 ---를 설정하기 위해서 디렉터리 트리를 설정한다.               |
 | <code>chmod -R a-x+X *directory*                | 디렉터리 트리 안에 있는 모든 파일들에 대한 실행 허가를 제거한다. 반면 디렉터리 열람은 허용한다.                                                               |
 
-## 함께 보기
+## 같이 보기
 
   - [파일 시스템 권한](../Page/파일_시스템_권한.md "wikilink")
   - [`chown`](https://ko.wikipedia.org/wiki/chown "wikilink"): 유닉스 계통 시스템에서 파일이나 디렉터리의 소유권을 바꾸기 위해서 사용되는 명령어

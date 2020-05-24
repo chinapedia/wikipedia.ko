@@ -55,7 +55,7 @@
     \--help: 각종 옵션에 대한 설명과 도움말을 볼 수 있다.
     \--version: uniq의 버전 번호를 보여준다.
 
-## 함께 보기
+## 같이 보기
 
   - [유닉스 프로그램 목록](https://ko.wikipedia.org/wiki/유닉스_프로그램_목록 "wikilink")
 

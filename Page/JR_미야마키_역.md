@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [JR 미야마키 역](https://ko.wikipedia.org/wiki/JR_미야마키_역).
 
 
-**JR 미야마키 역**()은 [일본](../Page/일본.md "wikilink") [교토부](../Page/교토부.md "wikilink") [교타나베 시에](https://ko.wikipedia.org/wiki/교타나베_시 "wikilink") 위치한 [서일본 여객철도의](https://ko.wikipedia.org/wiki/서일본_여객철도 "wikilink") [역이다](../Page/철도역.md "wikilink").
+**JR 미야마키 역**()은 [일본](../Page/일본.md "wikilink") [교토부](../Page/교토부.md "wikilink") [교타나베시](../Page/교타나베시.md "wikilink")에 위치한 [서일본 여객철도의](https://ko.wikipedia.org/wiki/서일본_여객철도 "wikilink") [역이다](../Page/철도역.md "wikilink").
 
 ## 역 구조
 

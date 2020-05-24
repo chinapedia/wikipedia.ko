@@ -13,7 +13,7 @@
 
 테이블산자리 파이 b의 최소 질량은 목성의 10배에 이르는데, 이는 지구 질량의 3천 배가 넘는 값이다.\[2\] 표면 중력 역시 목성의 10배는 될 것이며, [내부열](../Page/내부열.md "wikilink")도 목성보다 뜨거워서 달아올라 있을 것이다. 행성의 [궤도경사각](https://ko.wikipedia.org/wiki/궤도경사각 "wikilink")은 밝혀지지 않았는데, 각도 여부에 따라 [갈색 왜성일](https://ko.wikipedia.org/wiki/갈색_왜성 "wikilink") 가능성도 있다.
 
-## 함께 보기
+## 같이 보기
 
   - [Gliese 777 b](https://ko.wikipedia.org/wiki/Gliese_777_b "wikilink")
   - [HD 70642 b](../Page/HD_70642_b.md "wikilink")

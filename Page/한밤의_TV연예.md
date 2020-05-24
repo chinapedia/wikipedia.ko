@@ -120,7 +120,7 @@
   - [채림](../Page/채림.md "wikilink")이 [이소라와](../Page/이소라_\(모델\).md "wikilink") 수요일 시간대 진행을 맡았던 [이승연](../Page/이승연.md "wikilink") 후임으로 여자 MC 물망에 두 번 올랐지만 최종 불발되었다\[14\]\[15\].
   - [1998년](../Page/1998년.md "wikilink") [12월 31일에](../Page/12월_31일.md "wikilink") 방송된 **생방송 한밤의 TV 연예 - 아듀98** 편성했으나, [제야의 종](../Page/제야의_종.md "wikilink") 타종 실황은 종로 [보신각](../Page/보신각.md "wikilink")을 연결해 중계하였다.
 
-## 함께 보기
+## 같이 보기
 
   - [연예가중계](../Page/연예가중계.md "wikilink") ([KBS 2TV](../Page/KBS_2TV.md "wikilink"))
   - [섹션TV 연예통신](../Page/섹션TV_연예통신.md "wikilink") ([MBC](../Page/MBC_TV.md "wikilink"))

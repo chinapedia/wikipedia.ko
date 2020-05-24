@@ -3,7 +3,7 @@
 
 미국 TV 코미디 시리즈 《[30 ROCK](../Page/30_ROCK.md "wikilink")》의 세 번째 시즌은 [NBC](../Page/NBC.md "wikilink")에서 2008년 10월 30일부터 2009년 5월 14일까지 방송되었다. 모두 22개의 에피소드로 구성되었다. 《30 ROCK》은 NBC방송국 내에서 이루어지는 코미디쇼 프로그램 *The Girlie Show with Tracy Jordan (TGS)*의 제작진(방송사대표, 피디, 작가 등)과 기타 방송국 스태프, 그리고 코미디 쇼 프로그램 출연진들의 이야기로 구성된다. 주요 구조는 대표작가 [리즈 레몬](https://ko.wikipedia.org/wiki/리즈_레몬 "wikilink")([티나 페이](../Page/티나_페이.md "wikilink"))와 방송사 부사장 [잭 도나기](https://ko.wikipedia.org/wiki/잭_도나기 "wikilink")([앨릭 볼드윈](../Page/앨릭_볼드윈.md "wikilink"))을 중심으로 이루어진다.
 
-시즌3에서는 [오프라 윈프리](../Page/오프라_윈프리.md "wikilink"), [스티브 마틴](../Page/스티브_마틴.md "wikilink"), [제니퍼 애니스턴](../Page/제니퍼_애니스턴.md "wikilink"), [존 리스고](../Page/존_리스고.md "wikilink"), [살마 아예크](../Page/살마_아예크.md "wikilink") 등이 특별출연한다. 아예크는 6개 에피소드에 출연하여 잭 도나기가 연애이야기를 이어간다. 세계적인 패션 디자이너인 [캘빈 클라인도](https://ko.wikipedia.org/wiki/캘빈_클라인 "wikilink") 깜짝 출연한다. {{-}}
+시즌3에서는 [오프라 윈프리](../Page/오프라_윈프리.md "wikilink"), [스티브 마틴](../Page/스티브_마틴.md "wikilink"), [제니퍼 애니스턴](../Page/제니퍼_애니스턴.md "wikilink"), [존 리스고](../Page/존_리스고.md "wikilink"), [살마 아예크](../Page/살마_아예크.md "wikilink") 등이 특별출연한다. 아예크는 6개 에피소드에 출연하여 잭 도나기가 연애이야기를 이어간다. 세계적인 패션 디자이너인 [캘빈 클라인도](../Page/캘빈_클라인.md "wikilink") 깜짝 출연한다. {{-}}
 
 ## 에피소드 목록
 

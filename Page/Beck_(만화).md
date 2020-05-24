@@ -78,7 +78,7 @@
 
 [일본](../Page/일본.md "wikilink")에서는 [2004년](../Page/2004년.md "wikilink") [10월 6일부터](../Page/10월_6일.md "wikilink") [2005년](../Page/2005년.md "wikilink") [3월 30일까지](../Page/3월_30일.md "wikilink") [TV 도쿄 계열](https://ko.wikipedia.org/wiki/TV_도쿄_계열 "wikilink") 6국에서 전 26회가 방송되었고, 원작에서의 제1화부터 [미국](../Page/미국.md "wikilink") 원정 편 직전까지를 드라마화 하였다. 감독은 [고바야시 오사무](https://ko.wikipedia.org/wiki/고바야시_오사무 "wikilink"), 주연은 [나미카와 다이스케](../Page/나미카와_다이스케.md "wikilink").
 
-## 함께 보기
+## 같이 보기
 
   - [Beck (영화)](../Page/Beck_\(영화\).md "wikilink") : [2010년](../Page/2010년.md "wikilink") 개봉한 실사 영화.
 

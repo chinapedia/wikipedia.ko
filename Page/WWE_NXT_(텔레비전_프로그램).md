@@ -180,7 +180,7 @@
 |          |            |                   |
 | 데릭 베이트먼  | 다니엘 브라이언   | 다니엘 브라이언          |
 
-## 함께 보기
+## 같이 보기
 
   - [NXT 레슬링](https://ko.wikipedia.org/wiki/NXT_레슬링 "wikilink")
 

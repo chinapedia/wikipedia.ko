@@ -12,7 +12,7 @@
 
   - [RR Lyrae](http://aladin.u-strasbg.fr/AladinPreview?-c=19+25+27.9129%2B42+47+03.696&ident=V*+RR+Lyr&submit=Aladin+previewer)
 
-## 함께 보기
+## 같이 보기
 
   - [거문고자리 RR형 변광성](../Page/거문고자리_RR형_변광성.md "wikilink")
 

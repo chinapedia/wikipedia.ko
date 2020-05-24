@@ -91,7 +91,7 @@
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Mini_Cooper_R56_front_20081130.jpg "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:2012_Mini_Countryman_--_03-24-2012_2.JPG "wikilink")
 
-## 함께 보기
+## 같이 보기
 
   - 미니 쿠퍼 모델 중 All4는 BMW X-drive와 같은 [AWD](../Page/4륜구동.md "wikilink")(상시 4륜구동)을 적용한 모델이며, S가 달린 모델은 터보 기능(SE는 아님), D는 2.0리터 디젤 엔진이 적용된 모델임.(D가 안 붙은 모델은 가솔린 1.6) 3세대인 F56부터 디젤 엔진은 1.5리터 직렬 3기통으로 변경됐다.
   - JCW는 John Cooper Works의 고성능 튜닝 버전이 장착된 모델임.(JCW는 디젤 모델은 없음/1.6가솔린/ 트윈스크롤터보+튜닝/ 200hp Over)

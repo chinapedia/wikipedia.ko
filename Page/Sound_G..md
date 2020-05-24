@@ -5,7 +5,7 @@
 
 ## 특징
 
-  - 타이틀곡은 "[Abracadabra](../Page/Abracadabra_\(브라운_아이드_걸스의_노래\).md "wikilink")" 이다.
+  - 타이틀곡은 "[Abracadabra](../Page/Abracadabra_\(브라운_아이드_걸스의_노래\).md "wikilink")"이다.
   - CD는 총 2장으로 이루어져 있다. 1CD는 정규 음반이고, 2CD는 히트곡들의 리믹스 음반이다.
   - [2AM](https://ko.wikipedia.org/wiki/2AM "wikilink")의 [조권](../Page/조권.md "wikilink")과 [임슬옹](../Page/임슬옹.md "wikilink"), [2PM](https://ko.wikipedia.org/wiki/2PM "wikilink")의 [황찬성](https://ko.wikipedia.org/wiki/황찬성 "wikilink"), [장우영](https://ko.wikipedia.org/wiki/장우영 "wikilink"), [옥택연](https://ko.wikipedia.org/wiki/옥택연 "wikilink"), 총 다섯 명이 프로젝트 그룹 '드러운 아이드 걸스'를 결성하여 "Abracadabra"를 패러디한 "다불어때 다불었다"를 선보였다.
   - "Abracadabra"의 안무 중 일명 '시건방 춤'이 화제가 되기도 했었다. 시건방춤은 팔짱을 끼고 상체를 약간 뒤로 다리를 약간 벌리면서 골반을 흔드는 춤이다.

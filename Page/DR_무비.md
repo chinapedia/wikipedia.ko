@@ -135,7 +135,7 @@
   - 서번트×서비스 (제작요청: A-1 Pictures, 배경)
   - 노 게임 노 라이프 (제작요청: 매드하우스, 동화, 마무리)
   - GARO -VANISHING LINE (제작요청: MAPPA, 배경, 2018년)
-  - High Guardian Spice (제작요청: Ellation Studios, 각화 제작협력, 2019년-)\[3\]\[4\]\[5\]
+  - High Guardian Spice (제작요청: Ellation Studios, 각화 제작협력, 2019년-)\[3\]\[4\]\[5\]\[6\]
 
 출처: [문화창작위원회](http://munhwacreative.tistory.com/) 추가
 
@@ -195,7 +195,8 @@
 [분류:대한민국의 애니메이션 제작사](https://ko.wikipedia.org/wiki/분류:대한민국의_애니메이션_제작사 "wikilink") [분류:1990년 설립된 기업](https://ko.wikipedia.org/wiki/분류:1990년_설립된_기업 "wikilink") [분류:서울특별시의 기업](https://ko.wikipedia.org/wiki/분류:서울특별시의_기업 "wikilink")
 
 1.  [협회 홈페이지](http://www.koreaanimation.or.kr/mainframe.html)  의 [회원사 리스트](http://www.koreaanimation.or.kr/member_about.html)  에 8번째로 등록되어 있다. [영문판 리스트](http://koreaanimation.or.kr/english/about/members.html)  에서도 확인할 수 있다.
-2.  [「게드 전기의 제작 방식」2006년 4월 13일 번외편「한국・애니메이션 스튜디오 방문기」-후편-](http://www.ghibli.jp/ged_01/20making/000449.html).
+2.  [「게드 전기의 제작 방식」2006년 4월 13일 번외편「한국・애니메이션 스튜디오 방문기」-후편-](http://www.ghibli.jp/ged_01/20making/000449.html) .
 3.
 4.
 5.
+6.

@@ -510,7 +510,7 @@
 </tbody>
 </table>
 
-## 함께 보기
+## 같이 보기
 
   - [파나소닉 드라마 시어터](https://ko.wikipedia.org/wiki/파나소닉_드라마_시어터 "wikilink") (오후 9시대)
   - [후지 TV 화요일 밤 9시 드라마](../Page/후지_TV_화요일_밤_9시_드라마.md "wikilink")

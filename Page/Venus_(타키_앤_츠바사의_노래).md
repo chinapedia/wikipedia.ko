@@ -18,7 +18,7 @@
 
 1.  Venus
 2.  君の名を呼びたい (너의 이름을 부르고싶어) - [타키자와 히데아키](../Page/타키자와_히데아키.md "wikilink") 솔로곡
-3.  Neverever - [이마이 츠바사](https://ko.wikipedia.org/wiki/이마이_츠바사 "wikilink") 솔로곡
+3.  Neverever - [이마이 츠바사](../Page/이마이_츠바사.md "wikilink") 솔로곡
 4.  Venus (Korean Version)
 5.  Venus (Chinese Version)
 6.  Venus (Thai Version)

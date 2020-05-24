@@ -78,7 +78,7 @@
 [C:\]dir C:\OS2 | more
 ```
 
-## 함께 보기
+## 같이 보기
 
   - [pg (유닉스)](https://ko.wikipedia.org/wiki/pg_\(유닉스\) "wikilink")
   - [less](https://ko.wikipedia.org/wiki/less "wikilink")

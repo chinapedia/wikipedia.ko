@@ -15,7 +15,7 @@
 
 2006년 히파르코스 위성은 세페우스자리 감마 Ab의 질량 상한선을 95퍼센트의 신뢰도로 '목성의 13.3배 아래'로 잡았다. 동시에 16.9배가 상한선일 확률은 99.73퍼센트(3시그마)였다. 이를 고려하면 세페우스자리 감마 Ab가 [갈색 왜성이나](https://ko.wikipedia.org/wiki/갈색_왜성 "wikilink") [적색 왜성일](https://ko.wikipedia.org/wiki/적색_왜성 "wikilink") 확률은 적어 보인다.\[3\]
 
-## 함께 보기
+## 같이 보기
 
   - [페가수스자리 51 b](../Page/페가수스자리_51_b.md "wikilink")
   - [시계자리 이오타 b](https://ko.wikipedia.org/wiki/시계자리_이오타_b "wikilink")

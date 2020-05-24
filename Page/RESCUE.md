@@ -51,7 +51,7 @@
 
 ## 각주
 
-<references/>
+<references />
 
 [분류:KAT-TUN의 노래](https://ko.wikipedia.org/wiki/분류:KAT-TUN의_노래 "wikilink") [분류:2009년 싱글](https://ko.wikipedia.org/wiki/분류:2009년_싱글 "wikilink") [분류:드라마 주제가](https://ko.wikipedia.org/wiki/분류:드라마_주제가 "wikilink") [분류:2009년 오리콘 싱글 차트 1위 작품](https://ko.wikipedia.org/wiki/분류:2009년_오리콘_싱글_차트_1위_작품 "wikilink") [분류:2009년 노래](https://ko.wikipedia.org/wiki/분류:2009년_노래 "wikilink")
 

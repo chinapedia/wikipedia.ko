@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [MIYAVI](https://ko.wikipedia.org/wiki/MIYAVI).
 
 
-**미야비**(, [1981년](../Page/1981년.md "wikilink") [9월 14일](../Page/9월_14일.md "wikilink") \~ )는 [일본](../Page/일본.md "wikilink")의 [비주얼 록](https://ko.wikipedia.org/wiki/비주얼_록 "wikilink") [음악가](https://ko.wikipedia.org/wiki/음악가 "wikilink")이다. 자신의 할아버지와 할머니가 [한국인](../Page/한국인.md "wikilink")이다. [오사카부](../Page/오사카부.md "wikilink") [고노하나 구](https://ko.wikipedia.org/wiki/고노하나_구 "wikilink") 니시구조에서 일본인 어머니와 前 [재일 한국인](../Page/재일_한국인.md "wikilink") 2세(일본 국적 귀화) 아버지 사이에서 태어났다\[1\].
+**미야비**(, [1981년](../Page/1981년.md "wikilink") [9월 14일](../Page/9월_14일.md "wikilink") \~ )는 [일본](../Page/일본.md "wikilink")의 [비주얼 록](https://ko.wikipedia.org/wiki/비주얼_록 "wikilink") [음악가](https://ko.wikipedia.org/wiki/음악가 "wikilink")이다. 자신의 할아버지와 할머니가 [한국인](../Page/한국인.md "wikilink")이다. [오사카부](../Page/오사카부.md "wikilink") [고노하나구](../Page/고노하나구.md "wikilink") 니시구조에서 일본인 어머니와 前 [재일 한국인](../Page/재일_한국인.md "wikilink") 2세(일본 국적 귀화) 아버지 사이에서 태어났다\[1\].
 
 ## 인물
 
-  - [1981년](../Page/1981년.md "wikilink") [9월 14일](../Page/9월_14일.md "wikilink") 출생. 일본인 모친과 [재일 한국인](../Page/재일_한국인.md "wikilink") 2세(귀화)인 부친 사이에 [오사카부](../Page/오사카부.md "wikilink") [고노하나 구](https://ko.wikipedia.org/wiki/고노하나_구 "wikilink") 니시구조에서 태어남.
+  - [1981년](../Page/1981년.md "wikilink") [9월 14일](../Page/9월_14일.md "wikilink") 출생. 일본인 모친과 [재일 한국인](../Page/재일_한국인.md "wikilink") 2세(귀화)인 부친 사이에 [오사카부](../Page/오사카부.md "wikilink") [고노하나구](../Page/고노하나구.md "wikilink") 니시구조에서 태어남.
   - [Gackt](https://ko.wikipedia.org/wiki/Gackt "wikilink")를 평소에 **Gackt형**이라 부르며 따른다.
   - [초등학교](../Page/초등학교.md "wikilink")에 입학하며 [축구](../Page/축구.md "wikilink")를 시작한다. 기업 팀 주니어유스 (Junior Youth)에 소속. 현(縣) 대표 선수로 발탁되어, 프로 축구 선수가 되는 것을 꿈꾸지만 15세 때 발을 다친다. 그것을 계기로 팀을 탈퇴하고 축구를 그만 둔다.
   - 고등학교를 자퇴한 후 음악을 접하게 된다. 기타를 시작하고 [간사이](https://ko.wikipedia.org/wiki/간사이 "wikilink")에서 활동.

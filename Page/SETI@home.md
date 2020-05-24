@@ -117,7 +117,7 @@ SETI@home은 [NVidia](https://ko.wikipedia.org/wiki/NVidia "wikilink")에서 제
   - [SZTAKI Desktop Grid](https://ko.wikipedia.org/wiki/SZTAKI_Desktop_Grid "wikilink") — [이진수를](../Page/이진법.md "wikilink") 귀납할 수 있는 방법을 찾는 프로젝트.
   - TSP - [외판원 문제의](../Page/외판원_문제.md "wikilink") 연구.\[15\]
 
-## 함께 보기
+## 같이 보기
 
   - [BOINC](../Page/BOINC.md "wikilink")
   - [SETI](https://ko.wikipedia.org/wiki/SETI "wikilink")

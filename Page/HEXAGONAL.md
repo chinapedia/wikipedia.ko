@@ -9,7 +9,7 @@
 
 ## 설명
 
-  - 'Enzo.B'는 [길의](../Page/길_\(가수\).md "wikilink") 전 여자친구이자 [쥬얼리](../Page/쥬얼리.md "wikilink")의 멤버였던 [박정아를](https://ko.wikipedia.org/wiki/박정아_\(1981년\) "wikilink") 의미한다. 길이 박정아를 부르는 애칭이 '멸치'인데, 멸치의 영어단어 'Anchovy'를 변형한 것이다\[3\]. 박정아는 "Hexagonal(Intro)" 와 "내 몸은 너를 지웠다" 등 두 곡에 참여하였다.
+  - 'Enzo.B'는 [길의](../Page/길_\(가수\).md "wikilink") 전 여자친구이자 [쥬얼리](../Page/쥬얼리.md "wikilink")의 멤버였던 [박정아를](https://ko.wikipedia.org/wiki/박정아_\(1981년\) "wikilink") 의미한다. 길이 박정아를 부르는 애칭이 '멸치'인데, 멸치의 영어단어 'Anchovy'를 변형한 것이다\[3\]. 박정아는 "Hexagonal(Intro)"과 "내 몸은 너를 지웠다"까지 총 두 곡에 참여하였다.
   - "벌칙(Skit)"에 등장하는 대화에서 길의 상대방 남자 목소리의 주인공은 [김제동](../Page/김제동.md "wikilink")이다.
   - 류승범과 이효리는 "헤어지지 못하는 여자, 떠나가지 못하는 남자"의 뮤직 비디오에 노개런티로 출연하였다. 배우 류승범은 평소 리쌍과의 친분, 가수 이효리는 [2008년](../Page/2008년.md "wikilink") 그녀의 첫 콘서트 '[이효리 1st Concert - 천하무적이효리](https://ko.wikipedia.org/wiki/이효리_1st_Concert_-_천하무적이효리 "wikilink")'에 게스트로 출연해 준 것이 인연이 되었다.
 

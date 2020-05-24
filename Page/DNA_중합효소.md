@@ -21,7 +21,7 @@ DNA 중합효소는 DNA의 구성요소인 뉴클레오타이드를 모음으로
 | **DNA polymerase II**  | DNA에서 오류가 난(상보적이지 않은) 특정 염기서열을 원래대로 맞게 수선한다.                                                                     |
 | **DNA polymerase III** | RNA 프라이머(RNA primer)에서부터 3'말단에 [뉴클레오사이드](../Page/뉴클레오사이드.md "wikilink")를 붙여 DNA 합성을 한다. DNA 복제에서 주된 역할을 하는 효소이다. |
 
-## 함께보기
+## 같이 보기
 
   - [중심원리](https://ko.wikipedia.org/wiki/중심원리 "wikilink")
   - [RNA 중합효소](../Page/RNA_중합효소.md "wikilink")

@@ -192,7 +192,7 @@ HTML 요소를 표현하기 위한 HTML 태그 목록은 다음과 같다.\[9\]
   - `<section>`
   - `<select>`
   - `<small>`
-  - `<source>`
+  - `<syntaxhighlight>`
   - `<span>`
   - `<strike>`
   - `<strong>`

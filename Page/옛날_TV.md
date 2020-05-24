@@ -15,4 +15,4 @@
 
 ## 방식
 
-[분류:일요일이 좋다](https://ko.wikipedia.org/wiki/분류:일요일이_좋다 "wikilink") [분류:대한민국의 텔레비전 게임 쇼](https://ko.wikipedia.org/wiki/분류:대한민국의_텔레비전_게임_쇼 "wikilink") [분류:SBS의 예능 프로그램](https://ko.wikipedia.org/wiki/분류:SBS의_예능_프로그램 "wikilink")
+[분류:일요일이 좋다](https://ko.wikipedia.org/wiki/분류:일요일이_좋다 "wikilink") [분류:대한민국의 텔레비전 게임 쇼](https://ko.wikipedia.org/wiki/분류:대한민국의_텔레비전_게임_쇼 "wikilink") [분류:SBS의 예능 프로그램](https://ko.wikipedia.org/wiki/분류:SBS의_예능_프로그램 "wikilink") [분류:2007년에 시작한 대한민국 TV 프로그램](https://ko.wikipedia.org/wiki/분류:2007년에_시작한_대한민국_TV_프로그램 "wikilink") [분류:2007년에 종료한 대한민국 TV 프로그램](https://ko.wikipedia.org/wiki/분류:2007년에_종료한_대한민국_TV_프로그램 "wikilink")

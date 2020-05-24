@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [SAR-Lupe](https://ko.wikipedia.org/wiki/SAR-Lupe).
 
 
-**SAR-Lupe**는 독일 최초의 정찰위성 시스템이다. [SAR](../Page/합성개구레이다.md "wikilink") 위성이다. 무게 770 kg의 5개의 위성으로 구성된다. [OHB-System](https://ko.wikipedia.org/wiki/OHB-System "wikilink")사에서 개발했으며, 지상국도 운영한다.\[1\]
+[섬네일](https://ko.wikipedia.org/wiki/파일:SAR-Lupe.jpg "wikilink") **SAR-Lupe**는 독일 최초의 정찰위성 시스템이다. [SAR](../Page/합성개구레이다.md "wikilink") 위성이다. 무게 770 kg의 5개의 위성으로 구성된다. [OHB-System](https://ko.wikipedia.org/wiki/OHB-System "wikilink")사에서 개발했으며, 지상국도 운영한다.\[1\]
 
 SAR-Lupe는 [SAR를](../Page/합성개구레이다.md "wikilink") 사용하기 때문에 고해상도 이미지를 주야간, 전천후로 촬영할 수 있다.
 
 최초의 위성은 [2006년](../Page/2006년.md "wikilink") [12월 19일](../Page/12월_19일.md "wikilink") 러시아의 [플레세츠크 우주 기지에서](../Page/플레세츠크_우주_기지.md "wikilink") 발사되었다. 6개월 간격으로 나머지 4대가 발사되었다. [2008년](../Page/2008년.md "wikilink") [7월 22일](../Page/7월_22일.md "wikilink") 전체 시스템이 완성되었다.\[2\]
 
-5개의 위성은 500 km 궤도를 비행하며, 대략 6도 간격으로 떨어져 있다. 3m [접시 안테나의](https://ko.wikipedia.org/wiki/접시_안테나 "wikilink") [X-밴드](https://ko.wikipedia.org/wiki/X-밴드 "wikilink") 레이다 [SAR로](../Page/합성개구레이다.md "wikilink") 촬영하며, 해상도는 50 cm 이고 사진 한 장은 5.5 km x 5.5 km 이다. 1미터 해상도로 8 km x 60 km 사이즈의 사진도 촬영할 수 있다.
+5개의 위성은 500 km 궤도를 비행하며, 대략 6도 간격으로 떨어져 있다. 3m [접시 안테나의](https://ko.wikipedia.org/wiki/접시_안테나 "wikilink") [X-밴드](https://ko.wikipedia.org/wiki/X-밴드 "wikilink") 레이다 [SAR로](../Page/합성개구레이다.md "wikilink") 촬영하며, 해상도는 50 cm 이고 사진 한 장은 5.5 km x 5.5 km이다. 1미터 해상도로 8 km x 60 km 사이즈의 사진도 촬영할 수 있다.
 
 원하는 지역을 촬영하는 데는 10시간 정도의 시간차가 발생한다. [탈레스 알레니아 스페이스에서](https://ko.wikipedia.org/wiki/탈레스_알레니아_스페이스 "wikilink") [SAR를](../Page/합성개구레이다.md "wikilink") 제공했다.\[3\] [탈레스 알레니아 스페이스는](https://ko.wikipedia.org/wiki/탈레스_알레니아_스페이스 "wikilink") 대한민국의 1미터 해상도 [SAR](https://ko.wikipedia.org/wiki/SAR "wikilink") 정찰위성인 [아리랑 5호에도](../Page/아리랑_5호.md "wikilink") 참여한 회사이다.
 

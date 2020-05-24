@@ -19,7 +19,7 @@
 
 다만 우리 은하를 벗어난 먼 거리를 재는 데에는 적합하지 않은데, 이는 거문고자리 RR형 별들의 밝기가 세페이드 변광성에 비해 상대적으로 어둡기 때문이다. 변광성 명칭은 [거문고자리](../Page/거문고자리.md "wikilink")에 있는 원형 별 [거문고자리 RR의](../Page/거문고자리_RR.md "wikilink") 이름을 따왔다. 구상 성단에 흔하게 분포하고 있기 때문에, 예전에는 이들을 '[성단형 변광성](https://ko.wikipedia.org/wiki/성단형_변광성 "wikilink")'으로 불렀다.
 
-## 함께 보기
+## 같이 보기
 
   - [거문고자리 RR](../Page/거문고자리_RR.md "wikilink")
   - [처녀자리 W형 변광성](https://ko.wikipedia.org/wiki/처녀자리_W형_변광성 "wikilink")

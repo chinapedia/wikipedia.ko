@@ -57,7 +57,7 @@
 <!-- end list -->
 
   -
-    [니가타현](../Page/니가타현.md "wikilink"), [도야마현](../Page/도야마현.md "wikilink"), [나가노현](../Page/나가노현.md "wikilink"), [야마나시현](../Page/야마나시현.md "wikilink"), [이시카와현](../Page/이시카와현.md "wikilink"), [후쿠이현](../Page/후쿠이현.md "wikilink")을 대상으로 하는 게시판이다. 별관으로 〈호쿠리쿠신에쯔 안뜰 게시판〉이 있다. 이 곳에는 질문소와 채팅 기능이 마련되어 있다. 그 외에 [그림게시판](https://ko.wikipedia.org/wiki/그림게시판 "wikilink")과, 총 스렛드 수가 120개를 초과한 [나가오카 시](https://ko.wikipedia.org/wiki/나가오카_시 "wikilink") 스렛드 집 특별 페이지도 있다. 게시판의 배경 색깔이 다른 지역게시판에 비해면, 자주 바뀌는 경향이 있다.
+    [니가타현](../Page/니가타현.md "wikilink"), [도야마현](../Page/도야마현.md "wikilink"), [나가노현](../Page/나가노현.md "wikilink"), [야마나시현](../Page/야마나시현.md "wikilink"), [이시카와현](../Page/이시카와현.md "wikilink"), [후쿠이현](../Page/후쿠이현.md "wikilink")을 대상으로 하는 게시판이다. 별관으로 〈호쿠리쿠신에쯔 안뜰 게시판〉이 있다. 이 곳에는 질문소와 채팅 기능이 마련되어 있다. 그 외에 [그림게시판](https://ko.wikipedia.org/wiki/그림게시판 "wikilink")과, 총 스렛드 수가 120개를 초과한 [나가오카시](../Page/나가오카시.md "wikilink") 스렛드 집 특별 페이지도 있다. 게시판의 배경 색깔이 다른 지역게시판에 비해면, 자주 바뀌는 경향이 있다.
 
 <!-- end list -->
 

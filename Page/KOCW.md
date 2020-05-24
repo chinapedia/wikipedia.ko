@@ -163,7 +163,7 @@ KOCW는 다음과 같은 목표를 갖고 서비스를 수행하고 있다.
 
 [OER](https://ko.wikipedia.org/wiki/OER "wikilink") 및 [OCW의](https://ko.wikipedia.org/wiki/오픈코스웨어 "wikilink") 취지는 [CCL](https://ko.wikipedia.org/wiki/CCL "wikilink")에 의한 정보공유에 따라 무료 개방조건으로 다양한 환경에서 다양한 상황을 위해 사용 가능하도록하는데 있다. 우리나라의 OER운동의 일환으로 만들어진 [KOCW](../Page/KOCW.md "wikilink")역시 CCL(Creative commons licence)에 의해 탑재 정보에 대해 무료 개방 조건에 따라 사용을 하게 된다.
 
-## 함께보기
+## 같이 보기
 
   - [K-MOOC](../Page/K-MOOC.md "wikilink")
   - [RISS](https://ko.wikipedia.org/wiki/RISS "wikilink")

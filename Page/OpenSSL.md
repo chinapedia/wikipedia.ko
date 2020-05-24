@@ -30,7 +30,7 @@ OpenSSL은 Eric A. Young과 Tim Hudson이 만든 SSLeay에 그 근거를 두고 
 OpenSSL은 각기 다른 다양한 암호화 알고리즘을 지원한다:
 
   - [암호문](https://ko.wikipedia.org/wiki/암호문 "wikilink")(cipher):
-    [AES](https://ko.wikipedia.org/wiki/고급_암호_표준 "wikilink"), [블로피시](../Page/블로피시.md "wikilink"), [Camellia](https://ko.wikipedia.org/wiki/Camellia "wikilink"), [CAST-128](https://ko.wikipedia.org/wiki/CAST-128 "wikilink"), [DES](../Page/데이터_암호화_표준.md "wikilink"), [IDEA](../Page/국제_데이터_암호화_알고리즘.md "wikilink"), [RC2](https://ko.wikipedia.org/wiki/RC2 "wikilink"), [RC4](https://ko.wikipedia.org/wiki/RC4 "wikilink"), [RC5](https://ko.wikipedia.org/wiki/RC5 "wikilink"), [트리플 DES](../Page/트리플_DES.md "wikilink"), [GOST 28147-89](https://ko.wikipedia.org/wiki/GOST_28147-89 "wikilink")
+    [AES](https://ko.wikipedia.org/wiki/고급_암호_표준 "wikilink"), [블로피시](../Page/블로피시.md "wikilink"), [Camellia](https://ko.wikipedia.org/wiki/Camellia "wikilink"), [CAST-128](https://ko.wikipedia.org/wiki/CAST-128 "wikilink"), [DES](../Page/데이터_암호화_표준.md "wikilink"), [IDEA](../Page/국제_데이터_암호화_알고리즘.md "wikilink"), [RC2](https://ko.wikipedia.org/wiki/RC2 "wikilink"), [RC4](../Page/RC4.md "wikilink"), [RC5](https://ko.wikipedia.org/wiki/RC5 "wikilink"), [트리플 DES](../Page/트리플_DES.md "wikilink"), [GOST 28147-89](https://ko.wikipedia.org/wiki/GOST_28147-89 "wikilink")
   - [암호학의 해시 함수](https://ko.wikipedia.org/wiki/암호학의_해시_함수 "wikilink"):
     [MD5](../Page/MD5.md "wikilink"), [MD2](https://ko.wikipedia.org/wiki/MD2 "wikilink"), [SHA-1](https://ko.wikipedia.org/wiki/SHA-1 "wikilink"), [SHA-2](../Page/SHA-2.md "wikilink"), [MDC-2](https://ko.wikipedia.org/wiki/MDC-2 "wikilink")
   - [공개 키 암호 방식](../Page/공개_키_암호_방식.md "wikilink"):

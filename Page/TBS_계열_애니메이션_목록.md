@@ -133,7 +133,7 @@ __NOTOC__
   - [K](../Page/K.md "wikilink") ▼◆ (2012년, 2015년)
   - [TIGER & BUNNY](../Page/TIGER_&_BUNNY.md "wikilink") ▼◆(2011년)
 
-## 함께 보기
+## 같이 보기
 
   - [일본의 애니메이션](../Page/일본의_애니메이션.md "wikilink")
   - [도쿄 방송](https://ko.wikipedia.org/wiki/도쿄_방송 "wikilink")

@@ -92,12 +92,14 @@
 
 |묶음4 = 스포츠 |내용4 =
 
-  - 《[KBS 스포츠 중계석](https://ko.wikipedia.org/wiki/KBS_스포츠_중계석 "wikilink")》
+  - 《[KBS 스포츠 중계석](../Page/KBS_스포츠_중계석.md "wikilink")》
 
 |묶음5 = 어린이 |내용5 =
 
   - 《[롱롱죽겠지?](https://ko.wikipedia.org/wiki/롱롱죽겠지? "wikilink")》
   - 《[버추얼 가디언즈](https://ko.wikipedia.org/wiki/버추얼_가디언즈 "wikilink")》
+  - 《[출동\! 유후 구조대](https://ko.wikipedia.org/wiki/출동!_유후_구조대 "wikilink")》
+  - 《[아기상어 올리 뚜루루뚜루](https://ko.wikipedia.org/wiki/아기상어_올리_뚜루루뚜루 "wikilink")》
   - 《[KBS 창작동요대회](../Page/KBS_창작동요대회.md "wikilink")》²
   - 《[국악동요제](../Page/국악동요제.md "wikilink")》²
 

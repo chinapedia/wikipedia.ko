@@ -54,7 +54,6 @@
 </table>
 <h3 id="솔로">솔로</h3>
 <ul>
-<li><a href="../Page/오종혁.md" title="wikilink">오종혁</a> (<a href="https://ko.wikipedia.org/wiki/클릭비" title="wikilink">클릭비</a> 멤버)</li>
 <li><a href="../Page/허영지.md" title="wikilink">허영지</a> (<a href="../Page/카라_(음악_그룹).md" title="wikilink">카라</a> 출신)</li>
 <li><a href="https://ko.wikipedia.org/wiki/손동표" title="wikilink">손동표</a> (<a href="https://ko.wikipedia.org/wiki/엑스원" title="wikilink">엑스원</a> 전 멤버)</li>
 </ul>
@@ -104,6 +103,7 @@
 <li><a href="https://ko.wikipedia.org/wiki/에이젝스_(음악_그룹)" title="wikilink">에이젝스</a></li>
 <li><a href="../Page/캐스퍼_(대한민국의_래퍼).md" title="wikilink">캐스퍼</a></li>
 <li><a href="../Page/최현준.md" title="wikilink">최현준</a> (<a href="../Page/V.O.S.md" title="wikilink">V.O.S</a> 멤버)</li>
+<li><a href="../Page/오종혁.md" title="wikilink">오종혁</a></li>
 </ul>
 <h3 id="연기자_등">연기자 등</h3>
 <ul>

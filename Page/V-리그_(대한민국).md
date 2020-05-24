@@ -80,7 +80,7 @@
 | [서울 우리카드 위비](../Page/서울_우리카드_위비.md "wikilink")                    | [서울](../Page/서울특별시.md "wikilink")                    | [장충체육관](../Page/장충체육관.md "wikilink")                          | [신영철](../Page/신영철_\(배구인\).md "wikilink")            |
 | [수원 한국전력 빅스톰](../Page/수원_한국전력_빅스톰.md "wikilink")                  | [수원](https://ko.wikipedia.org/wiki/경기도 "wikilink")   | [수원실내체육관](../Page/수원실내체육관.md "wikilink")                      | [장병철](../Page/장병철.md "wikilink")                    |
 | [안산 OK저축은행 러시앤캐시](../Page/안산_OK저축은행_러시앤캐시.md "wikilink")          | [안산](https://ko.wikipedia.org/wiki/안산시 "wikilink")   | [상록수체육관](../Page/상록수체육관.md "wikilink")                        | [석진욱](../Page/석진욱.md "wikilink")                    |
-| [인천 대한항공 점보스](../Page/인천_대한항공_점보스.md "wikilink")                  | [인천](https://ko.wikipedia.org/wiki/인천광역시 "wikilink") | [계양체육관](../Page/계양체육관.md "wikilink")                          | [박기원](../Page/박기원.md "wikilink")                    |
+| [인천 대한항공 점보스](../Page/인천_대한항공_점보스.md "wikilink")                  | [인천](https://ko.wikipedia.org/wiki/인천광역시 "wikilink") | [계양체육관](../Page/계양체육관.md "wikilink")                          | [이정철](https://ko.wikipedia.org/wiki/이정철 "wikilink") |
 | [천안 현대캐피탈 스카이워커스](../Page/천안_현대캐피탈_스카이워커스.md "wikilink")          | [천안](../Page/천안시.md "wikilink")                      | [유관순체육관](../Page/유관순체육관.md "wikilink")                        | [최태웅](../Page/최태웅.md "wikilink")                    |
 
 ##### 참가했던 구단
@@ -163,7 +163,7 @@ V-리그는 원년부터 [KT\&G](../Page/KT&G.md "wikilink"), [현대건설](../
 </tr>
 <tr class="odd">
 <td><p>2009-10</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/케니" title="wikilink">케니</a></p></td>
+<td><p><a href="../Page/케니.md" title="wikilink">케니</a></p></td>
 <td><p>현대건설</p></td>
 </tr>
 <tr class="even">
@@ -380,7 +380,7 @@ V-리그 여자부 신인선수상 수상자
 | 2006-07 | [레이첼](https://ko.wikipedia.org/wiki/레이첼_밴_미터 "wikilink")      |
 | 2007-08 | [한송이](../Page/한송이_\(배구_선수\).md "wikilink")                    |
 | 2008-09 | [밀라](../Page/밀라그로스_카브랄.md "wikilink")                         |
-| 2009-10 | [케니](https://ko.wikipedia.org/wiki/케니 "wikilink")             |
+| 2009-10 | [케니](../Page/케니.md "wikilink")                                |
 | 2010-11 | [몬타뇨](https://ko.wikipedia.org/wiki/몬타뇨 "wikilink")           |
 | 2011-12 | [몬타뇨](https://ko.wikipedia.org/wiki/몬타뇨 "wikilink")           |
 | 2012-13 | [니콜](../Page/니콜_포셋.md "wikilink")                             |

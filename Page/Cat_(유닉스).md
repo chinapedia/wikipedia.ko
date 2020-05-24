@@ -58,7 +58,7 @@ UUOC\[1\]은 "Useless Use of cat(cat의 쓸모없는 사용)"을 의미한다. *
 
 `zcat`은 `cat`과 비슷한 [유닉스](../Page/유닉스.md "wikilink") 프로그램으로, 개별 파일들의 압축상태를 풀고 그것들을 표준 출력어에 [연결](https://ko.wikipedia.org/wiki/연결 "wikilink")시킨다. 일반적으로 `zcat`은 [`compress`](https://ko.wikipedia.org/wiki/compress "wikilink")로 압축된 파일들에서 작동되었으나, 오늘날에는 [`gzip`](https://ko.wikipedia.org/wiki/gzip "wikilink")이나 심지어는 [`bzip2`](https://ko.wikipedia.org/wiki/bzip2 "wikilink") 아카이브들에서도 작동될 수 있다. 이러한 시스템들에서는 `gunzip -c`과 동일하다.\[2\]
 
-## 함께 보기
+## 같이 보기
 
   - [Coreutils](https://ko.wikipedia.org/wiki/Coreutils "wikilink")
   - [유닉스 명령어 목록](../Page/유닉스_명령어_목록.md "wikilink")

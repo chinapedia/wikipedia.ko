@@ -7,7 +7,7 @@
 
 ## 부스터
 
-GSLV-III의 부스터는 **S200**이다. 이것은 무게가 200톤인 대형 [고체 로켓 부스터이다](../Page/고체_로켓_부스터.md "wikilink"). 2개가 사용된다. 각각의 직경은 3.4 m, 길이는 25 m 이다. 785 [톤포스](https://ko.wikipedia.org/wiki/톤포스 "wikilink") (7.70 [MN](../Page/뉴턴_\(단위\).md "wikilink"))의 추력을 낸다.
+GSLV-III의 부스터는 **S200**이다. 이것은 무게가 200톤인 대형 [고체 로켓 부스터이다](../Page/고체_로켓_부스터.md "wikilink"). 2개가 사용된다. 각각의 직경은 3.4 m, 길이는 25 m이다. 785 [톤포스](https://ko.wikipedia.org/wiki/톤포스 "wikilink") (7.70 [MN](../Page/뉴턴_\(단위\).md "wikilink"))의 추력을 낸다.
 
 **제원**
 

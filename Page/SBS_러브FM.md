@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [SBS 러브FM](https://ko.wikipedia.org/wiki/SBS_러브FM).
 
 
-**SBS 러브FM**은 대한민국 수도권의 민영 방송사인 [SBS의](../Page/SBS_\(대한민국의_방송사\).md "wikilink") 종합 [라디오](../Page/라디오.md "wikilink") 광고 방송 채널이다.
+**SBS 러브FM**은 대한민국 수도권의 민영 방송사인 [SBS의](../Page/SBS_\(대한민국의_방송사\).md "wikilink") 종합 [라디오](../Page/라디오.md "wikilink") 방송 채널이다.
 
 ## 개요
 
@@ -21,32 +21,32 @@ SBS 러브FM은 [1999년](../Page/1999년.md "wikilink") [1월 1일에](../Page/
 
 ## 연혁
 
-  - [1991년](../Page/1991년.md "wikilink") [3월 20일](../Page/3월_20일.md "wikilink") : AM 라디오 방송 개국 (**호출부호 HLSQ, AM 792㎑, 50㎾**).
+  - [1991년](../Page/1991년.md "wikilink") [3월 20일](../Page/3월_20일.md "wikilink") : AM 라디오 방송 개국(**호출부호 HLSQ, AM 792㎑, 50㎾**).
   - [1993년](../Page/1993년.md "wikilink") [7월 1일](../Page/7월_1일.md "wikilink") : 서울방송 고양 송신소(AM 라디오) 준공, AM 라디오 방송이 대한민국 최초로 AM 스테레오 방송 개시.
   - [1999년](../Page/1999년.md "wikilink") [1월 1일](../Page/1월_1일.md "wikilink") : SBS 러브FM 방송 개국(**호출부호 HLSQ-SFM, FM 103.5㎒, 10㎾**).
   - [2000년대](../Page/2000년대.md "wikilink") 초반 : AM 스테레오 방송 중단.
-  - [2004년](../Page/2004년.md "wikilink") [3월 1일](../Page/3월_1일.md "wikilink") : 사옥 이전 (여의도 → 목동).
+  - [2004년](../Page/2004년.md "wikilink") [3월 1일](../Page/3월_1일.md "wikilink") : 사옥 이전(여의도 → 목동).
   - [2007년](../Page/2007년.md "wikilink") [4월 30일](../Page/4월_30일.md "wikilink") : 개국 8주년을 맞아 "SBS 라디오"로 채널명 잠정 변경.
   - [2008년](../Page/2008년.md "wikilink") [9월 1일](../Page/9월_1일.md "wikilink") : "SBS 러브FM"으로 채널명 환원.
   - [2015년](../Page/2015년.md "wikilink") [6월 30일](../Page/6월_30일.md "wikilink") : SBS 러브FM 이천 중계소 개소.(**FM 98.3㎒, 50W**).\[2\]
-  - [2016년](../Page/2016년.md "wikilink") [5월 10일](../Page/5월_10일.md "wikilink") : [KNN 러브FM](../Page/KNN_러브FM.md "wikilink") (호출부호 HLDG-SFM, 부산권 FM 105.7㎒) 개국으로 SBS 러브FM 첫 네트워크 구축.
-  - [2017년](../Page/2017년.md "wikilink") [5월 10일](../Page/5월_10일.md "wikilink") : [KNN 러브FM](../Page/KNN_러브FM.md "wikilink") 기장/정관 중계소 및 양산 중계소 개소 (기장/정관권 FM 89.3㎒, 양산권 FM 88.5㎒).
-  - [2017년](../Page/2017년.md "wikilink") [10월 30일](../Page/10월_30일.md "wikilink") : [KNN 러브FM](../Page/KNN_러브FM.md "wikilink") 불모산 중계소 개소 (창원/김해/거제권 FM 90.9㎒).
-  - [2018년](../Page/2018년.md "wikilink") [3월 21일](../Page/3월_21일.md "wikilink") : [KNN 러브FM](../Page/KNN_러브FM.md "wikilink") 장군대산 중계소 개소 (진주권 FM 98.7㎒).
+  - [2016년](../Page/2016년.md "wikilink") [5월 10일](../Page/5월_10일.md "wikilink") : [KNN 러브FM](../Page/KNN_러브FM.md "wikilink")(호출부호 HLDG-SFM, 부산권 FM 105.7㎒) 개국으로 SBS 러브FM 첫 네트워크 구축.
+  - [2017년](../Page/2017년.md "wikilink") [5월 10일](../Page/5월_10일.md "wikilink") : [KNN 러브FM](../Page/KNN_러브FM.md "wikilink") 기장/정관 중계소 및 양산 중계소 개소(기장/정관권 FM 89.3㎒, 양산권 FM 88.5㎒).
+  - [2017년](../Page/2017년.md "wikilink") [10월 30일](../Page/10월_30일.md "wikilink") : [KNN 러브FM](../Page/KNN_러브FM.md "wikilink") 불모산 중계소 개소(창원/김해/거제권 FM 90.9㎒).
+  - [2018년](../Page/2018년.md "wikilink") [3월 21일](../Page/3월_21일.md "wikilink") : [KNN 러브FM](../Page/KNN_러브FM.md "wikilink") 장군대산 중계소 개소(진주권 FM 98.7㎒).
 
 ## 방송 송출 시설망
 
-|          | 송신소       | 주파수                | 출력                       | 호출부호                | 송신소 위치               | 비고 |
-| -------- | --------- | ------------------ | ------------------------ | ------------------- | -------------------- | -- |
-| SBS 러브FM | 일산 송신소    | AM 792㎑            | 50㎾                      | HLSQ                | 경기 고양시 덕양구 내곡동 211-5 |    |
-| 관악산 송신소  | FM 103.5㎒ | 10㎾                | HLSQ-SFM                 | 경기 안양시 동안구 비산동 산3-1 |                      |    |
-| 이천 중계소   | FM 98.3㎒  | 50W                | 경기 이천시 부발읍 마암리 산21-1 효양산 |                     |                      |    |
-| KNN 러브FM | 황령산 송신소   | FM 105.7㎒          | 1㎾                       | HLDG-SFM            | 부산 연제구 연산2동 산181-3   |    |
-| 정관 중계소   | FM 89.3㎒  | 20W                | 부산 기장군 정관읍 달산리 산146-14   |                     |                      |    |
-| 기장 중계소   | 20W       | 부산 기장군 일광면 삼성리 산41 |                          |                     |                      |    |
-| 양산 중계소   | FM 88.5㎒  | 20W                | 경남 양산시 동면 석산리 656-30     |                     |                      |    |
-| 불모산 중계소  | FM 90.9㎒  | 1㎾                 | 경남 창원시 성산구 천선동 산213-8    |                     |                      |    |
-| 장군대산 중계소 | FM 98.7㎒  | 1㎾                 | 경남 진주시 문산읍 상문리 325-4     |                     |                      |    |
+|          | 송신소                | 주파수                  | 출력                       | 호출부호                | 송신소 위치               | 비고 |
+| -------- | ------------------ | -------------------- | ------------------------ | ------------------- | -------------------- | -- |
+| SBS 러브FM | 일산 송신소             | AM 792㎑              | 50㎾                      | HLSQ                | 경기 고양시 덕양구 내곡동 211-5 |    |
+| 관악산 송신소  | FM 103.5㎒          | 10㎾                  | HLSQ-SFM                 | 경기 안양시 동안구 비산동 산3-1 |                      |    |
+| 이천 중계소   | FM 98.3㎒           | 50W                  | 경기 이천시 부발읍 마암리 산21-1 효양산 |                     |                      |    |
+| KNN 러브FM | 황령산 송신소            | FM 105.7㎒            | 1㎾                       | HLDG-SFM            | 부산 연제구 연산2동 산181-3   |    |
+| 정관 중계소   | FM 89.3㎒           | 20W                  | 부산 기장군 정관읍 달산리 산146-14   |                     |                      |    |
+| 기장 중계소   | 부산 기장군 일광면 삼성리 산41 |                      |                          |                     |                      |    |
+| 양산 중계소   | FM 88.5㎒           | 경남 양산시 동면 석산리 656-30 |                          |                     |                      |    |
+| 불모산 중계소  | FM 90.9㎒           | 1㎾                   | 경남 창원시 성산구 천선동 산213-8    |                     |                      |    |
+| 장군대산 중계소 | FM 98.7㎒           | 경남 진주시 문산읍 상문리 325-4 |                          |                     |                      |    |
 
 ## 방송 시간
 
@@ -274,13 +274,6 @@ SBS 러브FM의 경우 [SBS](../Page/SBS_\(대한민국의_방송사\).md "wikil
 
 ## 시보 멘트
 
-  - 중파 792㎑ SBS 라디오입니다. HLSQ ([1991년](../Page/1991년.md "wikilink") [3월 20일](../Page/3월_20일.md "wikilink") \~ [1998년](../Page/1998년.md "wikilink") [12월 31일](../Page/12월_31일.md "wikilink"))
-  - 중파 792㎑ 표준FM 103.5㎒ SBS 라디오입니다. HLSQ ([1999년](../Page/1999년.md "wikilink") [1월 1일](../Page/1월_1일.md "wikilink") \~ [2000년](../Page/2000년.md "wikilink") [7월 2일](../Page/7월_2일.md "wikilink"))
-  - 중파 792㎑ 표준FM 103.5㎒ SBS 열삼오 러브FM입니다. HLSQ ([2000년](../Page/2000년.md "wikilink") [7월 3일](../Page/7월_3일.md "wikilink") \~ [2002년](../Page/2002년.md "wikilink") [3월 31일](../Page/3월_31일.md "wikilink"))
-  - AM 792㎑ FM 103.5㎒ SBS 러브FM입니다. HLSQ ([2002년](../Page/2002년.md "wikilink") [4월 1일](../Page/4월_1일.md "wikilink") \~ [2007년](../Page/2007년.md "wikilink") [4월 29일](../Page/4월_29일.md "wikilink"), [2008년](../Page/2008년.md "wikilink") [9월 1일](../Page/9월_1일.md "wikilink") \~ **현재**)
-  - AM 792㎑ FM 103.5㎒ SBS 라디오입니다. HLSQ ([2007년](../Page/2007년.md "wikilink") [4월 30일](../Page/4월_30일.md "wikilink") \~ [2008년](../Page/2008년.md "wikilink") [8월 31일](../Page/8월_31일.md "wikilink"))
-  - FM 103.5㎒ 여러분의 SBS 러브FM입니다 HLSQ
-
 ## 제공 시보
 
 ### 정각 시보
@@ -294,10 +287,11 @@ SBS 러브FM의 경우 [SBS](../Page/SBS_\(대한민국의_방송사\).md "wikil
   - 눔 다이어트
   - 메리츠화재
   - [한국교육방송공사](../Page/한국교육방송공사.md "wikilink")
+  - 안나올츠 폼클렌징
+  - 방탄꼭지
 
 ### 30분 시보
 
-  - [현대해상](../Page/현대해상화재보험.md "wikilink")
   - [쉐보레](../Page/쉐보레.md "wikilink")
   - [르노삼성자동차](../Page/르노삼성자동차.md "wikilink")
   - [삼성화재](https://ko.wikipedia.org/wiki/삼성화재 "wikilink")
@@ -307,22 +301,6 @@ SBS 러브FM의 경우 [SBS](../Page/SBS_\(대한민국의_방송사\).md "wikil
   - 메리츠화재
 
 ## 로고송
-
-  - 세상을 보는 바른 선택 SBS\~ AM 라디오\~ [1997년](../Page/1997년.md "wikilink") \~ [1999년](../Page/1999년.md "wikilink")
-  - SBS 러브FM \~ [2000년](../Page/2000년.md "wikilink") \~ [2016년](../Page/2016년.md "wikilink")
-  - 러브\~ 러브\~ 103.5㎒ FM\~ [2000년](../Page/2000년.md "wikilink") \~ [2008년](../Page/2008년.md "wikilink") (30분 시보 전용)
-  - 지친 그댈 위해 내가 준비했어 우\~ 꿈 같은 휴식을 주는 SBS 러브FM [2000년](../Page/2000년.md "wikilink") \~ [2008년](../Page/2008년.md "wikilink")
-  - 러브 러브 러브 FM\~ 러브FM [2006년](../Page/2006년.md "wikilink") \~ [2007년](../Page/2007년.md "wikilink") (30분 시보 전용)
-  - 항상 두손 꼭 잡아요 우리함께 해요\~ 사랑해 오\~ 행복해\~ SBS 러브FM (라디오) [2006년](../Page/2006년.md "wikilink") \~ [2009년](../Page/2009년.md "wikilink")
-  - SBS\~ (라디오\~) 러브FM\~ (러브FM) [2008년](../Page/2008년.md "wikilink") \~ **현재**
-  - 103.5 103.5 러브FM\! [2008년](../Page/2008년.md "wikilink") \~ **현재**
-  - 행복 가득 드려요 기쁨 가득 드려요 SBS 라디오\~ [2007년](../Page/2007년.md "wikilink") \~ [2009년](../Page/2009년.md "wikilink")
-  - 언제나 내 곁에\~ SBS 라디오\~ [2007년](../Page/2007년.md "wikilink") \~ [2009년](../Page/2009년.md "wikilink")
-  - 행복한 꿈 나누어요 희망찬 내일을 함께 나눠요 밝은 세상 만들어요 내일을 봅니다 SBS [2010년](../Page/2010년.md "wikilink") [1월](../Page/1월.md "wikilink") \~ [2015년](../Page/2015년.md "wikilink") [11월](../Page/11월.md "wikilink") (TV, 라디오 공통 로고송)
-  - 오늘도 우린 당신과 달려요\~ 러브 FM [2016년](../Page/2016년.md "wikilink") [3월](../Page/3월.md "wikilink") \~ **현재**
-  - 다 함께 행복한 SBS 라디오 [2016년](../Page/2016년.md "wikilink") [3월](../Page/3월.md "wikilink") \~ **현재**
-  - 바로 지금 뛰고 있는 당신은 혼자가 아니에요 당신이 뛰는 힘 오 러브FM [2016년](../Page/2016년.md "wikilink") [3월](../Page/3월.md "wikilink") \~ **현재**
-  - 사랑해요 사랑해요 103.5 러브FM [2017년](../Page/2017년.md "wikilink") \~ **현재**
 
 ## 같이 보기
 

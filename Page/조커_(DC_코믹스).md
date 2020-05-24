@@ -24,7 +24,7 @@
 
 ### [웃는 남자](https://ko.wikipedia.org/wiki/웃는_남자 "wikilink") (The Man Who Laughs)
 
-  - 2012년 [세미콜론](https://ko.wikipedia.org/wiki/세미콜론 "wikilink") 출판사 발행 예정
+  - 2012년 [세미콜론](https://ko.wikipedia.org/wiki/세미콜론 "wikilink") 출판사 발행
   - 작가: [에드 브루베이커](../Page/에드_브루베이커.md "wikilink")
   - [빅토르 위고의](../Page/빅토르_위고.md "wikilink") "웃는 남자"에서 제목을 따 왔음.
 

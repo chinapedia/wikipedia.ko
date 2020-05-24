@@ -6,7 +6,7 @@
 ## 특징
 
 1.  [서인영](../Page/서인영.md "wikilink") 솔로댄스부분의 〈털기춤〉이 당시에 유행하였다.
-2.  타이틀곡은 Super Star 이다.
+2.  타이틀곡은 Super Star이다.
 3.  후에 passion은 리패키지 형식의 앨범으로 다시발매된다.
 4.  [쥬얼리](../Page/쥬얼리.md "wikilink")에게 첫 1위를 하게해준 곡이다.
 5.  뮤직비디오는 [인천국제공항역](https://ko.wikipedia.org/wiki/인천국제공항역 "wikilink")에서 촬영되었다.

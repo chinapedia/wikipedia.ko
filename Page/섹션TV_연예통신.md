@@ -396,8 +396,7 @@
 ## 연예 정보 프로그램
 
   - [KBS 뉴스광장 - 문화광장](../Page/KBS_뉴스광장.md "wikilink") (KBS 1TV)
-  - [생방송 아침이 좋다 - 스타 인사이드](../Page/생방송_아침이_좋다.md "wikilink") (KBS 2TV)
-  - [KBS 아침뉴스타임 - 김선근의 연예수첩](../Page/KBS_아침뉴스타임.md "wikilink") (KBS 2TV)
+  - [KBS 아침뉴스타임 - 조항리의 연예수첩](../Page/KBS_아침뉴스타임.md "wikilink") (KBS 2TV)
   - [주간연예수첩](https://ko.wikipedia.org/wiki/주간연예수첩 "wikilink") (KBS 2TV)
   - [MBC 뉴스투데이 - 투데이 연예 톡톡](../Page/MBC_뉴스투데이.md "wikilink")
   - [모닝와이드 - 1, 2부 굿모닝 연예](../Page/모닝와이드.md "wikilink") (SBS)

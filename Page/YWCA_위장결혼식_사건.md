@@ -35,7 +35,7 @@
 
   - [제5공화국](../Page/제5공화국_\(드라마\).md "wikilink") ([MBC](../Page/문화방송.md "wikilink"))
 
-## 함께 보기
+## 같이 보기
 
   - [윤보선](https://ko.wikipedia.org/wiki/윤보선 "wikilink")
   - [최규하 정부](../Page/최규하_정부.md "wikilink")

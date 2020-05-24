@@ -71,7 +71,7 @@ In general terms, `diff` is a more powerful utility than `comm`. The simpler `co
 
 다른 실행들은 [`fgets`](https://ko.wikipedia.org/wiki/fgets "wikilink")() 기능으로 문자열들을 읽는다. 이 기능은 고정된 버퍼를 필요로 한다. 이러한 실행들에 있어서, 버퍼는 종종 [POSIX](../Page/POSIX.md "wikilink") macro `LINE_MAX`에 따라서 크기가 주어진다.
 
-## 함께 보기
+## 같이 보기
 
   - [diff](https://ko.wikipedia.org/wiki/diff "wikilink")
   - [cmp](https://ko.wikipedia.org/wiki/cmp "wikilink") -- 문자열 지향적인 파일 비교

@@ -22,7 +22,7 @@ cmp은 다음과 같은 전환들의 사용으로 인해 권한이 지정된다.
   - 1 - 파일들이 다르다
   - 2 - 접근할 수 없거나 없어진 인수
 
-## 함께 보기
+## 같이 보기
 
   - [파일 비교 도구의 비교](https://ko.wikipedia.org/wiki/파일_비교_도구의_비교 "wikilink") ([en](https://ko.wikipedia.org/wiki/:en:Comparison_of_file_comparison_tools "wikilink"))
   - [유닉스 명령어 목록](../Page/유닉스_명령어_목록.md "wikilink")

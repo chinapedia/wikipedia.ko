@@ -27,7 +27,7 @@
 | [웨이브팩](../Page/WavPack.md "wikilink")                                                                                                    | .wv                                            | 예                 | 서드파티 라이브러리를 통해 지원                                                |
 | [윈도 미디어 오디오](https://ko.wikipedia.org/wiki/윈도_미디어_오디오 "wikilink")                                                                        | .wma                                           | 그런 것도 있고 아닌 것도 있음 | 서드파티 라이브러리를 통해 지원(완벽하지는 않음)                                      |
 
-## 함께보기
+## 같이 보기
 
   - [XMMS2](https://ko.wikipedia.org/wiki/XMMS2 "wikilink") - XMMS의 다음 판
 

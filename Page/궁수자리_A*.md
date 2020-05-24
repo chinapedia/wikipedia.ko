@@ -7,7 +7,7 @@
 
 ## 관측 및 설명
 
-[천문학자](../Page/천문학자.md "wikilink")들은 [가시광선](../Page/가시광선.md "wikilink") 대역에서 지구와 전파원 사이의 먼지와 가스에 의해 25[등급까지](https://ko.wikipedia.org/wiki/겉보기_등급 "wikilink") [소광](https://ko.wikipedia.org/wiki/소광 "wikilink")되는 효과 때문에, 궁수자리 A\*을 관측할 수 없었다.\[3\] 일부 연구팀은 [초장기선 간섭계](https://ko.wikipedia.org/wiki/초장기선_간섭계 "wikilink")(VLBI)를 이용하여 [라디오파](https://ko.wikipedia.org/wiki/라디오파 "wikilink") 대역에서 궁수자리 A\*의 영상을 얻으려고 시도했다. 1.3 mm의 파장대에서 이루어지는 현존 최고해상도의 측량에서, [시지름](https://ko.wikipedia.org/wiki/시지름 "wikilink") 37 마이크로초에 해당하는 전파원이 드러난다.\[4\] 26,000 [광년](../Page/광년.md "wikilink") 거리에 있는 이것은 직경이 4,400만 [킬로미터](https://ko.wikipedia.org/wiki/킬로미터 "wikilink")임을 시사한다. 비교 대상을 들자면, 지구와 태양 사이의 거리가 1억 5천만 킬로미터이고, [근일점](https://ko.wikipedia.org/wiki/근일점 "wikilink")에 있는 [수성](../Page/수성.md "wikilink")과 태양 사이의 거리가 4600만 킬로미터이다. 궁수자리 A\*의 [고유 운동은](https://ko.wikipedia.org/wiki/고유_운동 "wikilink") 대략 [적경](../Page/적경.md "wikilink")에서 연당 -2.70 [밀리초](../Page/초_\(각도\).md "wikilink"), [적위](../Page/적위.md "wikilink")에서 연당 -5.6 [밀리초이다](../Page/초_\(각도\).md "wikilink").\[5\]
+[천문학자](../Page/천문학자.md "wikilink")들은 [가시광선](../Page/가시광선.md "wikilink") 대역에서 지구와 전파원 사이의 먼지와 가스에 의해 25[등급까지](https://ko.wikipedia.org/wiki/겉보기_등급 "wikilink") [소광](https://ko.wikipedia.org/wiki/소광 "wikilink")되는 효과 때문에, 궁수자리 A\*을 관측할 수 없었다.\[3\] 일부 연구팀은 [초장기선 간섭계](https://ko.wikipedia.org/wiki/초장기선_간섭계 "wikilink")(VLBI)를 이용하여 [라디오파](https://ko.wikipedia.org/wiki/라디오파 "wikilink") 대역에서 궁수자리 A\*의 영상을 얻으려고 시도했다. 1.3 mm의 파장대에서 이루어지는 현존 최고해상도의 측량에서, [시지름](https://ko.wikipedia.org/wiki/시지름 "wikilink") 37 마이크로초에 해당하는 전파원이 드러난다.\[4\] 26,000 [광년](../Page/광년.md "wikilink") 거리에 있는 이것은 직경이 4,400만 [킬로미터](../Page/킬로미터.md "wikilink")임을 시사한다. 비교 대상을 들자면, 지구와 태양 사이의 거리가 1억 5천만 킬로미터이고, [근일점](https://ko.wikipedia.org/wiki/근일점 "wikilink")에 있는 [수성](../Page/수성.md "wikilink")과 태양 사이의 거리가 4600만 킬로미터이다. 궁수자리 A\*의 [고유 운동은](https://ko.wikipedia.org/wiki/고유_운동 "wikilink") 대략 [적경](../Page/적경.md "wikilink")에서 연당 -2.70 [밀리초](../Page/초_\(각도\).md "wikilink"), [적위](../Page/적위.md "wikilink")에서 연당 -5.6 [밀리초이다](../Page/초_\(각도\).md "wikilink").\[5\]
 
 ## 관측사
 
@@ -42,7 +42,7 @@
 
 <!-- end list -->
 
-  - 중심 천체의 반지름은 17 광시보다 상당히 작아야 한다. 그렇지 않으면 S0-16이 중심 천체와 충돌할 것이기 때문이다. 사실, 최근 관측\[19\]은 반지름이 [천왕성](../Page/천왕성.md "wikilink")의 궤도의 직경 정도인 6.25 [광시](https://ko.wikipedia.org/wiki/광시 "wikilink")(45 [AU](../Page/천문단위.md "wikilink"))보다 작음을 시사한다. 한계 밀도는 8.55×10<sup>36</sup> kg / 1.288×10<sup>39</sup> m<sup>3</sup> = 0.0066 kg/m<sup>3</sup> 이다.
+  - 중심 천체의 반지름은 17 광시보다 상당히 작아야 한다. 그렇지 않으면 S0-16이 중심 천체와 충돌할 것이기 때문이다. 사실, 최근 관측\[19\]은 반지름이 [천왕성](../Page/천왕성.md "wikilink")의 궤도의 직경 정도인 6.25 [광시](https://ko.wikipedia.org/wiki/광시 "wikilink")(45 [AU](../Page/천문단위.md "wikilink"))보다 작음을 시사한다. 한계 밀도는 8.55×10<sup>36</sup> kg / 1.288×10<sup>39</sup> m<sup>3</sup> = 0.0066 kg/m<sup>3</sup>이다.
 
 <!-- end list -->
 

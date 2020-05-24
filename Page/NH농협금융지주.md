@@ -33,7 +33,7 @@
   - NH농협리츠운용
   - NH벤처투자
 
-## 함께 보기
+## 같이 보기
 
   - [농업협동조합](https://ko.wikipedia.org/wiki/농업협동조합 "wikilink")
 

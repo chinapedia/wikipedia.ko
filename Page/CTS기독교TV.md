@@ -401,7 +401,7 @@
   - [CTS 트위터](https://twitter.com/cts_korea)
   - [CTS 페이스북](https://www.facebook.com/ctsKorea)
 
-[KCTS](https://ko.wikipedia.org/wiki/분류:1995년_개국 "wikilink") [KCTS](https://ko.wikipedia.org/wiki/분류:2003년_폐국 "wikilink") [분류:2003년 개국](https://ko.wikipedia.org/wiki/분류:2003년_개국 "wikilink") [분류:대한민국의 방송채널사용사업자](https://ko.wikipedia.org/wiki/분류:대한민국의_방송채널사용사업자 "wikilink") [분류:대한민국의 텔레비전 케이블 방송국](https://ko.wikipedia.org/wiki/분류:대한민국의_텔레비전_케이블_방송국 "wikilink") [분류:종교 방송](https://ko.wikipedia.org/wiki/분류:종교_방송 "wikilink")
+[분류:1995년 설립된 텔레비전 방송국과 채널](https://ko.wikipedia.org/wiki/분류:1995년_설립된_텔레비전_방송국과_채널 "wikilink") [분류:2003년 폐지된 텔레비전 방송국과 채널](https://ko.wikipedia.org/wiki/분류:2003년_폐지된_텔레비전_방송국과_채널 "wikilink") [분류:대한민국의 방송채널사용사업자](https://ko.wikipedia.org/wiki/분류:대한민국의_방송채널사용사업자 "wikilink") [분류:대한민국의 텔레비전 케이블 방송국](https://ko.wikipedia.org/wiki/분류:대한민국의_텔레비전_케이블_방송국 "wikilink") [분류:종교 방송](https://ko.wikipedia.org/wiki/분류:종교_방송 "wikilink")
 
 1.  노희경기자, [CTS기독교TV, IPTV 론칭-모바일서비스 개통](http://www.cts.tv/bottom/company02/company_news.asp) , [국민일보](../Page/국민일보.md "wikilink")
 2.  이동희기자, [서울시청앞 광장 성탄트리 불밝히다](http://www.cts.tv/bottom/company02/company_news.asp) , [국민일보](../Page/국민일보.md "wikilink")

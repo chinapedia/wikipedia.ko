@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Resurs DK](https://ko.wikipedia.org/wiki/Resurs_DK).
 
 
-**Resurs-DK1**은 러시아가 제작한 상업용 [지구관측위성](https://ko.wikipedia.org/wiki/지구관측위성 "wikilink")이다. 최대 해상도는 0.9 m 이다.
+**Resurs-DK1**은 러시아가 제작한 상업용 [지구관측위성](https://ko.wikipedia.org/wiki/지구관측위성 "wikilink")이다. 최대 해상도는 0.9 m이다.
 
 이 사업은 NTs OMZ (Russian Research Center for Earth Operative Monitoring)에서 주관하였다.
 

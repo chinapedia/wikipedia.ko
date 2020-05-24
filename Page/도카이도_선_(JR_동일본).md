@@ -430,7 +430,7 @@
 <td></td>
 <td><p>5.4</p></td>
 <td><p>95.8</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/아시가라시모_군" title="wikilink">아시가라시모 군</a><br />
+<td><p><a href="../Page/아시가라시모군.md" title="wikilink">아시가라시모군</a><br />
 <a href="../Page/마나즈루정.md" title="wikilink">마나즈루정</a></p></td>
 <td></td>
 <td></td>
@@ -446,7 +446,7 @@
 <td></td>
 <td><p>3.3</p></td>
 <td><p>99.1</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/아시가라시모_군" title="wikilink">아시가라시모 군</a><br />
+<td><p><a href="../Page/아시가라시모군.md" title="wikilink">아시가라시모군</a><br />
 <a href="../Page/유가와라정.md" title="wikilink">유가와라정</a></p></td>
 <td></td>
 <td></td>

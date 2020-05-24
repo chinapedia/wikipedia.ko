@@ -28,7 +28,7 @@ EPUB은 세 가지 정의로 이루어져 있다.
 
 EPUB은 내용을 구성하기위해 이전 버전에서는 XHTML에서 파생된 OEBPS 1.2를 사용했었으나 2.0버전에서는 XHTML 1.1(이나 DTBook)을 사용한다. 그러나 XHTML 구성요소(element)에 대한 제한이 좀 있다. EPUB의 XHTML에서 사용하는 mimetype은 application/xhtml+xml이다. XHTML 모듈과 제한에 대한 자세한 설명은 2.2\[1\]를 참고 하면 된다.
 
-스타일과 레이아웃은 "OPS 스타일 시트"라 불리는 CSS 2.0의 일부를 사용한다. 이 특별한 구문들은 CSS 중 읽기시스템과 몇가지 특수한 부분만을 사용한다. 특수한 부분이란 `oeb-page-head, oeb-page-foot,`나, `oeb-column-number`등과 같은 것들이다. 폰트는 `@font-face`항목이나 OPF 메니페스트 속에 폰트를 포함시켜 설정할 수 있다. [mimetype을](https://ko.wikipedia.org/wiki/internet_media_type "wikilink") 위한 EPUB의 CSS 문서형식은 `text/css` 이다.\[2\] 지원항목과 그에 대한 세부정보는 [Section 3.0](https://web.archive.org/web/20080827131750/http://www.idpf.org/2007/ops/OPS_2.0_final_spec.html#Section3.0)에서 찾아볼 수 있다.
+스타일과 레이아웃은 "OPS 스타일 시트"라 불리는 CSS 2.0의 일부를 사용한다. 이 특별한 구문들은 CSS 중 읽기시스템과 몇가지 특수한 부분만을 사용한다. 특수한 부분이란 `oeb-page-head, oeb-page-foot,`나, `oeb-column-number`등과 같은 것들이다. 폰트는 `@font-face`항목이나 OPF 메니페스트 속에 폰트를 포함시켜 설정할 수 있다. [mimetype을](https://ko.wikipedia.org/wiki/internet_media_type "wikilink") 위한 EPUB의 CSS 문서형식은 `text/css`이다.\[2\] 지원항목과 그에 대한 세부정보는 [Section 3.0](https://web.archive.org/web/20080827131750/http://www.idpf.org/2007/ops/OPS_2.0_final_spec.html#Section3.0)에서 찾아볼 수 있다.
 
 EPUB에서 이미지는 [PNG](../Page/PNG.md "wikilink"), [JPEG](../Page/JPEG.md "wikilink"), [GIF](../Page/GIF.md "wikilink"), [SVG](https://ko.wikipedia.org/wiki/SVG "wikilink") 형식을 지원한다. 이들은 각각 [mimetype의](https://ko.wikipedia.org/wiki/인터넷_미디어_타입 "wikilink") `image/png, image/jpeg, image/gif, image/svg+xml`를 사용한다. 다른 미디어 형식도 허용되나, 제작자가 지원 형식으로 된 대체물을 지정해 두어야 한다.\[3\] mimetypes을 위한 표는 Section 1.3.7의 세부사항\[4\]을 참고하면 된다.
 

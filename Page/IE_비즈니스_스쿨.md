@@ -3,7 +3,7 @@
 
 **IE 비즈니스 스쿨**(IE Business School)은 [스페인](../Page/스페인.md "wikilink") [마드리드](../Page/마드리드.md "wikilink")에 있는 대학원이다. 1973년 **Instituto de Empresa**라는 이름으로 설립되었으며, 2009년부터는 IE University의 산하 경영대학원으로 소속되어 있다.
 
-파이낸셜타임즈(Financial Times)의 세계 MBA 랭킹 (Best Business School in the world)에서 2009년 세계 6위, 2017년 세계 8위에 랭크되는 등 전 세계적인 명문 비즈니스 스쿨 중 하나로 알려져 있다.
+파이낸셜타임즈(Financial Times)의 세계 MBA 랭킹 (Best Business School in the world)에서 2009년 세계 6위, 2017년 세계 8위에 랭크되는 등, 세계적인 명문 비즈니스 스쿨 중 하나로 알려져 있다.
 
 이 학교는 일반석사과정, 최고경영자과정과 함께 Ph.D, DBA의 박사과정을 함께 운영한다. 전 세계 90개국에서 약 1,900명의 학생들이 매년 IE에서 공부하고 있다. 이그제큐티브 과정에는 매년 약 5,600명이 참가한다. 2008년 기준으로, 전 세계 81개국 출신의 교수들이 강의하고 있다.
 

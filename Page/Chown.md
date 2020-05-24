@@ -43,7 +43,7 @@
 
 `base`의 소유권을 사용자 `us`로 바꾸고 이것을 순환적으로 만든다(`-R`).
 
-## 함께 보기
+## 같이 보기
 
   - [chmod](https://ko.wikipedia.org/wiki/chmod "wikilink")
   - [chgrp](https://ko.wikipedia.org/wiki/chgrp "wikilink")

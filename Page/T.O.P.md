@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [T.O.P](https://ko.wikipedia.org/wiki/T.O.P).
 
 
-**T.O.P**(, [1987년](../Page/1987년.md "wikilink") [11월 4일](../Page/11월_4일.md "wikilink") \~ )은\[1\] [대한민국](../Page/대한민국.md "wikilink")의 [보이 그룹](https://ko.wikipedia.org/wiki/보이_그룹 "wikilink") [빅뱅의](../Page/빅뱅_\(음악_그룹\).md "wikilink") 리드래퍼를 맡고 있다. T.O.P은 [YG 엔터테인먼트](../Page/YG_엔터테인먼트.md "wikilink") 소속으로 6개월여간 연습생 기간을 거친 후, [빅뱅의](../Page/빅뱅_\(음악_그룹\).md "wikilink") 멤버로 데뷔하였다. 그는 배우로서 《[아이엠샘](https://ko.wikipedia.org/wiki/아이엠샘 "wikilink")》, 《[아이리스](../Page/아이리스_\(드라마\).md "wikilink")》, 《19》, 《[포화 속으로](../Page/포화_속으로.md "wikilink")》, 《[동창생](../Page/동창생_\(2013년_영화\).md "wikilink")》, 《[타짜: 신의 손](../Page/타짜:_신의_손.md "wikilink")》 등 여러 작품에 출연했다. 빌보드 K-타운의 컬럼니스트 제프 벤자민은 그의 낮은 음색의 랩핑이 잘 알려져 있다며 언급했다.\[2\]
+**T.O.P**(, [1987년](../Page/1987년.md "wikilink") [11월 4일](../Page/11월_4일.md "wikilink") \~ )은\[1\] [대한민국](../Page/대한민국.md "wikilink")의 [보이 그룹](https://ko.wikipedia.org/wiki/보이_그룹 "wikilink") [빅뱅의](../Page/빅뱅_\(음악_그룹\).md "wikilink") 리드래퍼를 맡고 있다. T.O.P은 [YG 엔터테인먼트](../Page/YG_엔터테인먼트.md "wikilink") 소속으로 6개월여간 연습생 기간을 거친 후, [빅뱅의](../Page/빅뱅_\(음악_그룹\).md "wikilink") 멤버로 데뷔하였다. 그는 배우로서 《[아이엠샘](https://ko.wikipedia.org/wiki/아이엠샘 "wikilink")》, 《[아이리스](../Page/아이리스_\(드라마\).md "wikilink")》, 《19》, 《[포화 속으로](../Page/포화_속으로.md "wikilink")》, 《[동창생](../Page/동창생_\(2013년_영화\).md "wikilink")》, 《[타짜: 신의 손](../Page/타짜:_신의_손.md "wikilink")》 등 여러 작품에 출연했다. 그룹 내에서는 주로 랩 파트를 맡고 있으며, 초저음인 목소리가 매력이자 특징이다. 플로우가 독보적이다. 빌보드 K-타운의 컬럼니스트 제프 벤자민은 그의 낮은 음색의 랩핑이 잘 알려져 있다며 언급했다.\[2\]
 
 ## 생애
 
@@ -9,7 +9,7 @@
 
 [left](https://ko.wikipedia.org/wiki/파일:Big_Bang_In_Thailand.JPG "wikilink") T.O.P(본명: 최승현)은 1987년 11월 4일 [서울특별시](../Page/서울특별시.md "wikilink") [송파구](https://ko.wikipedia.org/wiki/송파구 "wikilink")에서 1남 1녀 중 막내로 태어났다. 중학생 시절부터 언더그라운드에서 "Tempo"라는 이름의 래퍼로 활동했고, 개인적으로 알고 지내던 [지드래곤](../Page/지드래곤.md "wikilink")의 추천을 받아 [YG 엔터테인먼트의](../Page/YG_엔터테인먼트.md "wikilink") 연습생으로 발탁 되었다.\[3\] 지드래곤은 그에 대해 중학교 시절 어울렸던 동네 친구였으며 종종 춤과 랩을 함께 했었다고 말했다.\[4\] 지드래곤이 이후 이동해, 멀리 떨어져 있었을 때, 그는 [YG 엔터테인먼트에서](../Page/YG_엔터테인먼트.md "wikilink") 제작하는 남성 그룹의 후보자들을 뽑는다는 소식에 다시 연락을 했었다고 한다.\[5\] 그는 몇가지 데모 CD를 만들어 [양현석](../Page/양현석.md "wikilink") 대표에게 보냈고, 이후 연락을 받고 오디션을 볼 수 있었다.\[6\] 하지만 통통한 살이 찐 모습이였던 그는 이상적인 아이돌 모습과는 너무 동떨어져 처음에는 YG 측으로부터 거절 당했었다.\[7\] 이후 T.O.P은 "무슨 일이 있어도 꼭 YG에 들어오겠다"라는 생각으로 열심히 운동을 해서 살을 뺐다.\[8\] T.O.P이란 예명은 당시 YG 소속 가수 [세븐이](../Page/세븐_\(가수\).md "wikilink") 직접 지어줬는데, 과거 예명의 알파벳을 조합하여 가요계에서 최고(탑)가 되어라는 뜻을 담고 있다. 그는 빅뱅에서 그룹의 멤버 [지드래곤](../Page/지드래곤.md "wikilink")과 함께 랩퍼를 맡고 있다. 그는 2006년 곰TV·MTV 코리아에서 방송된 서바이벌 다큐 프로그램 《리얼다큐 빅뱅(BIGBANG)》 을 통해 최종 멤버에 발탁이 되었으며, [지드래곤](../Page/지드래곤.md "wikilink"), [태양](../Page/태양_\(가수\).md "wikilink"), [대성](../Page/대성_\(가수\).md "wikilink"), [승리와](../Page/승리_\(가수\).md "wikilink") 함께 [YG 엔터테인먼트에서](../Page/YG_엔터테인먼트.md "wikilink") 제작하는 최초의 아이돌 힙합 그룹 [빅뱅의](../Page/빅뱅_\(음악_그룹\).md "wikilink") 멤버로 정식 합류하게 되었다.\[9\]\[10\]
 
-T.O.P은 2006년 12월에 발매 된 빅뱅의 첫 번째 정규 음반 《[BIGBANG Vol.1](../Page/BIGBANG_Vol.1.md "wikilink")》에 수록 된 "Big Boy"로 첫 솔로 곡을 불렀다.\[11\] 빅뱅은 2007년 그들의 첫 번째 [EP](../Page/익스텐디드_플레이.md "wikilink") 《[Always](../Page/Always_\(EP\).md "wikilink")》의 발매와 동시에 타이틀 곡 "거짓말"은 엄청난 메가히트를 기록했고, 이후 두 번째 [EP](../Page/익스텐디드_플레이.md "wikilink") 《[Hot Issue](../Page/Hot_Issue_\(EP\).md "wikilink")》의 "마지막 인사"와 세 번째 [EP](../Page/익스텐디드_플레이.md "wikilink") 《[Stand Up](../Page/Stand_Up_\(EP\).md "wikilink")》의 "하루하루"가 연이어 차트 정상을 차지하며 최정상의 대세 그룹으로 우뚝 섰다.\[12\]\[13\]
+T.O.P은 2006년 12월에 발매 된 빅뱅의 첫 번째 정규 음반 《[BIGBANG Vol.1](../Page/BIGBANG_Vol.1.md "wikilink")》에 수록된 "Big Boy"로 첫 솔로곡을 불렀다.\[11\] 빅뱅은 2007년 그들의 첫 번째 [EP](../Page/익스텐디드_플레이.md "wikilink") 《[Always](../Page/Always_\(EP\).md "wikilink")》의 발매와 동시에 타이틀 곡 "거짓말"은 엄청난 메가히트를 기록했고, 이후 두 번째 [EP](../Page/익스텐디드_플레이.md "wikilink") 《[Hot Issue](../Page/Hot_Issue_\(EP\).md "wikilink")》의 "마지막 인사"와 세 번째 [EP](../Page/익스텐디드_플레이.md "wikilink") 《[Stand Up](../Page/Stand_Up_\(EP\).md "wikilink")》의 "하루하루"가 연이어 차트 정상을 차지하며 최정상의 대세 그룹으로 우뚝 섰다.\[12\]\[13\]
 
 ### 2007–2010: 솔로 경력의 성장, 배우 데뷔와 *GD\&TOP*
 
@@ -210,9 +210,12 @@ T.O.P은 빅뱅의 앨범 발매에 따른 활동과 동시에 그의 솔로 활
 ## 외부 링크
 
   -
-  -
-  -
+<!-- end list -->
 
+  - [T.O.P](https://www.ygfamily.com/artist/About.asp?LANGDIV=K&ATYPE=2&ARTIDX=19) - 공식 웹사이트
+
+  -
+  -
   -
   -
 [T.O.P](https://ko.wikipedia.org/wiki/분류:T.O.P "wikilink") [분류:1987년 태어남](https://ko.wikipedia.org/wiki/분류:1987년_태어남 "wikilink") [분류:살아있는 사람](https://ko.wikipedia.org/wiki/분류:살아있는_사람 "wikilink") [분류:빅뱅의 일원](https://ko.wikipedia.org/wiki/분류:빅뱅의_일원 "wikilink") [분류:대한민국의 힙합 음악가](https://ko.wikipedia.org/wiki/분류:대한민국의_힙합_음악가 "wikilink") [분류:YG 엔터테인먼트 소속](https://ko.wikipedia.org/wiki/분류:YG_엔터테인먼트_소속 "wikilink") [분류:2006년 데뷔](https://ko.wikipedia.org/wiki/분류:2006년_데뷔 "wikilink") [분류:대한민국의 방송인](https://ko.wikipedia.org/wiki/분류:대한민국의_방송인 "wikilink") [분류:대한민국의 남자 텔레비전 배우](https://ko.wikipedia.org/wiki/분류:대한민국의_남자_텔레비전_배우 "wikilink") [분류:대한민국의 남자 영화 배우](https://ko.wikipedia.org/wiki/분류:대한민국의_남자_영화_배우 "wikilink") [분류:대한민국의 음악 프로듀서](https://ko.wikipedia.org/wiki/분류:대한민국의_음악_프로듀서 "wikilink") [분류:대한민국의 힙합 프로듀서](https://ko.wikipedia.org/wiki/분류:대한민국의_힙합_프로듀서 "wikilink") [분류:대한민국의 래퍼](https://ko.wikipedia.org/wiki/분류:대한민국의_래퍼 "wikilink") [분류:대한민국의 남자 래퍼](https://ko.wikipedia.org/wiki/분류:대한민국의_남자_래퍼 "wikilink") [분류:서울특별시 출신](https://ko.wikipedia.org/wiki/분류:서울특별시_출신 "wikilink") [분류:단국대학교 동문](https://ko.wikipedia.org/wiki/분류:단국대학교_동문 "wikilink") [분류:청룡영화상 수상자](https://ko.wikipedia.org/wiki/분류:청룡영화상_수상자 "wikilink") [분류:비트박서](https://ko.wikipedia.org/wiki/분류:비트박서 "wikilink") [분류:서울특별시 출신 래퍼](https://ko.wikipedia.org/wiki/분류:서울특별시_출신_래퍼 "wikilink") [분류:대한민국의 마약범](https://ko.wikipedia.org/wiki/분류:대한민국의_마약범 "wikilink") [분류:서울특별시 출신 음악가](https://ko.wikipedia.org/wiki/분류:서울특별시_출신_음악가 "wikilink") [분류:대한민국의 범죄인](https://ko.wikipedia.org/wiki/분류:대한민국의_범죄인 "wikilink")

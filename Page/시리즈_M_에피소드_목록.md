@@ -7,7 +7,7 @@
 
   - 시리즈 M의 방영 리스트는 가독성을 높이기 위해, **방송 년도별**로 표시하였다.
 
-### 1기 (구) MBC 스페셜
+### MBC 스페셜 1기 - MBC 다큐스페셜 1기
 
 #### 1996년
 
@@ -15,7 +15,9 @@
 
 #### 1998년
 
-### 2기 (신) MBC 스페셜
+#### 1999년
+
+### MBC 스페셜 2기 - MBC 다큐스페셜 2기 - MBC 스페셜 3기
 
 #### 1999년
 
@@ -5483,7 +5485,7 @@
 </tbody>
 </table>
 
-### 3기 시리즈 M
+### 시리즈 M
 
 #### 2020년
 
@@ -5523,24 +5525,18 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>결방</p></td>
-<td><p><a href="../Page/3월_12일.md" title="wikilink">3월 12일</a></p></td>
-<td><p>-</p></td>
-<td></td>
-</tr>
-<tr class="even">
 <td><p>5</p></td>
 <td><p><a href="../Page/3월_19일.md" title="wikilink">3월 19일</a></p></td>
 <td><p>마스크 난</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>6</p></td>
 <td><p><a href="../Page/3월_26일.md" title="wikilink">3월 26일</a></p></td>
 <td><p>더 디제이 1부 (<a href="../Page/배철수.md" title="wikilink">배철수</a>)</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>7</p></td>
 <td><p><a href="../Page/4월_2일.md" title="wikilink">4월 2일</a></p></td>
 <td><p>더 디제이 2부 (<a href="../Page/배철수.md" title="wikilink">배철수</a>)</p></td>

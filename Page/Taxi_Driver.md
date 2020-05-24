@@ -26,7 +26,7 @@
 
 ## 특징
 
-  - 1번 트랙 "이력서"는 [커빈](https://ko.wikipedia.org/wiki/커빈 "wikilink")을 디스했으며, [타블로](../Page/타블로.md "wikilink")가 작곡하여 선물한 곡이다.
+  - 1번 트랙 "이력서"에서는 [커빈](https://ko.wikipedia.org/wiki/커빈 "wikilink")을 디스했으며, 또한 이 곡은 [타블로](../Page/타블로.md "wikilink")가 작곡하여 선물한 곡이다.
   - 2, 6, 17번 트랙 스킷에는 [노홍철](../Page/노홍철.md "wikilink")이 택시 기사로 등장하며, 6번 트랙에는 [은지원](../Page/은지원.md "wikilink")이 '[취한친구](../Page/친한친구.md "wikilink")'의 DJ로 나온다.
   - 18번 트랙 "Hidden Track"은 〈비극 Part 2〉, 또는 "Candy"라는 비공식 제목으로도 알려져있다.
 

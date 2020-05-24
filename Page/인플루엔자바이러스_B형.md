@@ -9,13 +9,13 @@
 
 ## 형태
 
-인플루엔자바이러스 B형 [캡시드](https://ko.wikipedia.org/wiki/캡시드 "wikilink")는 최소 단위인 [피막](https://ko.wikipedia.org/wiki/피막 "wikilink")(envelope ; 껍질), 매트릭스 단백질, 핵 단백질 복합체, [뉴클리오캡시드](https://ko.wikipedia.org/wiki/뉴클레오캡시드 "wikilink"), 폴리머라제 복합체로 구성된다. 바이러스 모양은 때로는 구형이며, [필라멘트](https://ko.wikipedia.org/wiki/필라멘트 "wikilink") 형태를 띌 때도 있다. 500개 정도의 표면 돌기는 [헤마글루티닌](https://ko.wikipedia.org/wiki/헤마글루티닌 "wikilink")과 [뉴라미니다아제](https://ko.wikipedia.org/wiki/뉴라미니다아제 "wikilink")로 만들어져 있다.\[8\]
+인플루엔자바이러스 B형 [캡시드](../Page/캡시드.md "wikilink")는 최소 단위인 [피막](https://ko.wikipedia.org/wiki/피막 "wikilink")(envelope ; 껍질), 매트릭스 단백질, 핵 단백질 복합체, [뉴클리오캡시드](https://ko.wikipedia.org/wiki/뉴클레오캡시드 "wikilink"), 폴리머라제 복합체로 구성된다. 바이러스 모양은 때로는 구형이며, [필라멘트](https://ko.wikipedia.org/wiki/필라멘트 "wikilink") 형태를 띌 때도 있다. 500개 정도의 표면 돌기는 [헤마글루티닌](https://ko.wikipedia.org/wiki/헤마글루티닌 "wikilink")과 [뉴라미니다아제](https://ko.wikipedia.org/wiki/뉴라미니다아제 "wikilink")로 만들어져 있다.\[8\]
 
 ## 게놈구조
 
-인플루엔자바이러스 B형 게놈은 14,548 [뉴클리오타이드](../Page/뉴클레오타이드.md "wikilink") 길이이며, 8개의 선형 음성가닥 [RNA](../Page/RNA.md "wikilink") 세그먼트로 구성된다. 다중 입자 게놈은 캡슐화 되고, 각각의 세그먼트는 별도의 [뉴클리오캡시드로](https://ko.wikipedia.org/wiki/캡시드 "wikilink") 구성되며, [뉴클리오캡시드는](https://ko.wikipedia.org/wiki/뉴클레오캡시드 "wikilink") 하나의 외피로 둘러싸여 있다.
+인플루엔자바이러스 B형 게놈은 14,548 [뉴클리오타이드](../Page/뉴클레오타이드.md "wikilink") 길이이며, 8개의 선형 음성가닥 [RNA](../Page/RNA.md "wikilink") 세그먼트로 구성된다. 다중 입자 게놈은 캡슐화 되고, 각각의 세그먼트는 별도의 [뉴클리오캡시드로](../Page/캡시드.md "wikilink") 구성되며, [뉴클리오캡시드는](https://ko.wikipedia.org/wiki/뉴클레오캡시드 "wikilink") 하나의 외피로 둘러싸여 있다.
 
-## 함께보기
+## 같이 보기
 
   - [인플루엔자바이러스 A형](../Page/인플루엔자바이러스_A형.md "wikilink")
   - [인플루엔자바이러스 C형](../Page/인플루엔자바이러스_C형.md "wikilink")

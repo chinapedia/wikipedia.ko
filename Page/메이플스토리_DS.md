@@ -61,7 +61,7 @@
   - QA : 이준봉, 박성민, 김석주, 엔도 고, 하시모토 슈지, 가와노 쇼지, 다다 아쓰시, Mario Club co., Ltd.
   - 제작책임자 : 서민, 강신철
 
-## 함께 보기
+## 같이 보기
 
   - [대한민국의 닌텐도 DS 소프트웨어 목록](https://ko.wikipedia.org/wiki/대한민국의_닌텐도_DS_소프트웨어_목록 "wikilink")
   - [닌텐도 DS](../Page/닌텐도_DS.md "wikilink")

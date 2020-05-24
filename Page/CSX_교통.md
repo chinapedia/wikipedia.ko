@@ -61,9 +61,9 @@
 ## 외부 링크
 
   - [공식 홈페이지](http://www.csx.com/)
-      - [CSX 교통의 운행 노선](http://www.csx.com/index.cfm/customers/maps/csx-system-map/)
+      - [CSX 교통의 운행 노선](https://web.archive.org/web/20151112041109/http://www.csx.com/index.cfm/customers/maps/csx-system-map/)
   - [CSX 교통의 역사](http://csx.history.railfan.net/)
   - [CSX Dispatcher code cross-reference table](http://www.botecomm.com/bote/rail/csx_dispatchers.html)
-  - [New intermodal facility in Quebec](http://www.canadianrailwayobservations.com/csx.pdf)
+  - [New intermodal facility in Quebec](https://web.archive.org/web/20160304000441/http://www.canadianrailwayobservations.com/csx.pdf)
 
 [분류:미국의 철도 기업](https://ko.wikipedia.org/wiki/분류:미국의_철도_기업 "wikilink") [분류:1986년 설립](https://ko.wikipedia.org/wiki/분류:1986년_설립 "wikilink") [분류:CSX 교통](https://ko.wikipedia.org/wiki/분류:CSX_교통 "wikilink")

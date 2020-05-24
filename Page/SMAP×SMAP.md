@@ -554,7 +554,7 @@
 
 ## 멤버의 불상사에 의한 프로그램 내용 변경
 
-[2001년](../Page/2001년.md "wikilink") [8월 24일](../Page/8월_24일.md "wikilink"), 이나가키 고로가 [도쿄도](../Page/도쿄도.md "wikilink") [시부야 구](https://ko.wikipedia.org/wiki/시부야_구 "wikilink") 내에서 방치 주차로 인한 도로교통법 위반, 공무집행 방해죄, 상해죄로 현행범으로 체포되어 사건 다음 주인 [8월 27일](../Page/8월_27일.md "wikilink") 방송에서는 이나가키 출연 장면을 편집하여 방송되었다.
+[2001년](../Page/2001년.md "wikilink") [8월 24일](../Page/8월_24일.md "wikilink"), 이나가키 고로가 [도쿄도](../Page/도쿄도.md "wikilink") [시부야구](../Page/시부야구.md "wikilink") 내에서 방치 주차로 인한 도로교통법 위반, 공무집행 방해죄, 상해죄로 현행범으로 체포되어 사건 다음 주인 [8월 27일](../Page/8월_27일.md "wikilink") 방송에서는 이나가키 출연 장면을 편집하여 방송되었다.
 
 [2009년](../Page/2009년.md "wikilink") [4월 23일](../Page/4월_23일.md "wikilink"), 쿠사나기 츠요시가 공연외설죄 현행범으로 체포되어 다음 주인 [4월 27일](../Page/4월_27일.md "wikilink") 방송에서는 쿠사나기 이외의 SMAP 멤버가 등장하는 영상을 모은 특별 프로그램을 방영하였다.
 
@@ -564,6 +564,6 @@
 
 ## 각주
 
-[분류:SMAP](https://ko.wikipedia.org/wiki/분류:SMAP "wikilink") [분류:SMAP×SMAP](https://ko.wikipedia.org/wiki/분류:SMAP×SMAP "wikilink") [분류:일본의 텔레비전 게임 쇼](https://ko.wikipedia.org/wiki/분류:일본의_텔레비전_게임_쇼 "wikilink") [분류:일본의 텔레비전 버라이어티 쇼](https://ko.wikipedia.org/wiki/분류:일본의_텔레비전_버라이어티_쇼 "wikilink") [분류:후지 TV의 텔레비전 버라이어티 쇼](https://ko.wikipedia.org/wiki/분류:후지_TV의_텔레비전_버라이어티_쇼 "wikilink") [분류:후지 TV의 토크 쇼](https://ko.wikipedia.org/wiki/분류:후지_TV의_토크_쇼 "wikilink") [분류:간사이 TV 방송의 버라이어티 프로그램](https://ko.wikipedia.org/wiki/분류:간사이_TV_방송의_버라이어티_프로그램 "wikilink")
+[SMAP×SMAP](https://ko.wikipedia.org/wiki/분류:SMAP×SMAP "wikilink") [분류:SMAP](https://ko.wikipedia.org/wiki/분류:SMAP "wikilink") [분류:일본의 텔레비전 게임 쇼](https://ko.wikipedia.org/wiki/분류:일본의_텔레비전_게임_쇼 "wikilink") [분류:일본의 텔레비전 버라이어티 쇼](https://ko.wikipedia.org/wiki/분류:일본의_텔레비전_버라이어티_쇼 "wikilink") [분류:후지 TV의 텔레비전 버라이어티 쇼](https://ko.wikipedia.org/wiki/분류:후지_TV의_텔레비전_버라이어티_쇼 "wikilink") [분류:후지 TV의 토크 쇼](https://ko.wikipedia.org/wiki/분류:후지_TV의_토크_쇼 "wikilink") [분류:간사이 TV 방송의 버라이어티 프로그램](https://ko.wikipedia.org/wiki/분류:간사이_TV_방송의_버라이어티_프로그램 "wikilink")
 
 1.  지름 3cm정도의 목제 표적구에 금속제 공을 던져 표적구에 가까운 공의 수로 겨루는 스포츠

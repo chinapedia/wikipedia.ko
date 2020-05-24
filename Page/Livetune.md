@@ -7,7 +7,7 @@
 
 2007년 9월, [음성합성](https://ko.wikipedia.org/wiki/음성합성 "wikilink") 소프트웨어인 [하츠네 미쿠를](../Page/하츠네_미쿠.md "wikilink") 보컬 음원으로 사용한 악곡 “**Packaged**”를 [니코니코 동화와](../Page/니코니코_동화.md "wikilink") [muzie](https://ko.wikipedia.org/wiki/muzie "wikilink")에 공개했다. 이 음악은 처음부터 인터넷 상에서 주목을 모아, 하츠네 미쿠 붐의 한축을 맡았다\[1\].
 
-2007년 12월 [코믹 마켓](https://ko.wikipedia.org/wiki/코믹_마켓 "wikilink") 73에 [동인 앨범](https://ko.wikipedia.org/wiki/동인_음악 "wikilink") “[Re:package](../Page/Re:package.md "wikilink")”를 발매했다. 그 인기는 눈 깜짝할 새에 초회판이 동날 정도여서\[2\] 생산이 수요를 따라가지 못하기도 하였으며, 같은 해 [8월 27일](../Page/8월_27일.md "wikilink"), 동인 앨범판에 신곡을 추가해 [빅터 엔터테인먼트에](https://ko.wikipedia.org/wiki/빅터_엔터테인먼트 "wikilink") 상업 앨범〈Re:package〉을 발매해 데뷔하였다. 하츠네 미쿠 일러스트와 명칭 등을 사용한 CD중 [메이저 레이블로는](https://ko.wikipedia.org/wiki/메이저_레이블 "wikilink") 라이브튠의 〈Re:package〉가 최초\[3\] 이다.
+2007년 12월 [코믹 마켓](https://ko.wikipedia.org/wiki/코믹_마켓 "wikilink") 73에 [동인 앨범](https://ko.wikipedia.org/wiki/동인_음악 "wikilink") “[Re:package](../Page/Re:package.md "wikilink")”를 발매했다. 그 인기는 눈 깜짝할 새에 초회판이 동날 정도여서\[2\] 생산이 수요를 따라가지 못하기도 하였으며, 같은 해 [8월 27일](../Page/8월_27일.md "wikilink"), 동인 앨범판에 신곡을 추가해 [빅터 엔터테인먼트에](https://ko.wikipedia.org/wiki/빅터_엔터테인먼트 "wikilink") 상업 앨범〈Re:package〉을 발매해 데뷔하였다. 하츠네 미쿠 일러스트와 명칭 등을 사용한 CD중 [메이저 레이블로는](https://ko.wikipedia.org/wiki/메이저_레이블 "wikilink") 라이브튠의 〈Re:package〉가 최초\[3\]이다.
 
 2011년 [구글 크롬의](https://ko.wikipedia.org/wiki/구글_크롬 "wikilink") CF 송 "Tell Your World"를 발표하였으며, 비슷한 시기에 [TOY'S FACTORY로](https://ko.wikipedia.org/wiki/TOY'S_FACTORY "wikilink") 소속사를 이전했다. 2012년 8월 29일, 새로운 싱글 "Weekender Girl/Fake doll"이 발매될 예정이며, 하치오지P와의 콜라보레이션 앨범이다.
 

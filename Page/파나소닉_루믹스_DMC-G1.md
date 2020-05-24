@@ -9,7 +9,7 @@
 
 [포서즈](https://ko.wikipedia.org/wiki/포서즈 "wikilink")시스템과 [마이크로 포서즈시스템의](https://ko.wikipedia.org/wiki/마이크로_포서즈 "wikilink") 센서 규격은 같으며, 단지 플렌지백에서 차이가 나기 때문에, [DMW-MA1](https://ko.wikipedia.org/wiki/DMW-MA1 "wikilink") 마운트를 장착하면 기존의 포서즈 렌즈 또한 그대로 사용할 수 있는 장점이 있다. 또한 수동 초점 마운트를 장착하면 라이카 M, R, 올림푸스 OM, 니콘 F, 캐논 FD, 미놀타 SR, M42 스크류 마운트, 콘탁스/야시카 마운트를 모두 사용할 수 있다. 다만 전자식 렌즈의 경우 특별히 제작된 어댑터가 있어야 전자식 컨트롤이 인지된다.
 
-## 함께 보기
+## 같이 보기
 
   - [마이크로 포서즈 시스템](../Page/마이크로_포서즈_시스템.md "wikilink")
   - [미러리스 카메라](https://ko.wikipedia.org/wiki/미러리스_카메라 "wikilink")

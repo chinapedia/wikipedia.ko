@@ -633,16 +633,16 @@
 <tr class="even">
 <td><p>73회</p></td>
 <td><p>5월 1일</p></td>
-<td></td>
-<td></td>
+<td><p>이은하의 가수 인생 첫 시작을 함께한 데뷔곡 '님 마중'을 만들어준 작곡가 김준규를 찾습니다.</p></td>
+<td><p><a href="../Page/이은하.md" title="wikilink">이은하</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>74회</p></td>
 <td><p>5월 8일</p></td>
 <td></td>
-<td></td>
-<td></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/조우종" title="wikilink">조우종</a></p></td>
+<td><p>7.7%</p></td>
 </tr>
 <tr class="even">
 <td><p>75회</p></td>
@@ -652,6 +652,13 @@
 <td></td>
 </tr>
 <tr class="odd">
+<td><p>76회</p></td>
+<td><p>5월 22일</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>

@@ -52,7 +52,7 @@
 </tbody>
 </table>
 
-## 함께 보기
+## 같이 보기
 
   - [두근두근 Tomorrow](../Page/두근두근_Tomorrow.md "wikilink")
 

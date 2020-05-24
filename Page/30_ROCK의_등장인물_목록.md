@@ -44,7 +44,7 @@
   - [존 리스고](../Page/존_리스고.md "wikilink") 시즌3《Goodbye, My Friend》(\#313)편에 등장한다. 잭과 프랭크는 존 리스고가 출연하는 영화를 본다. 리즈는 방송국에서 존 리스고와 마주친다.
   - [제니퍼 애니스턴](../Page/제니퍼_애니스턴.md "wikilink") 시즌3《The One with the Cast of Night Court》(\#303)편에서 리즈 레먼의 친구로 나온다. 극중에서 섹스 중독자로 출연하여 잭 도나기를 위험에 빠뜨린다.
   - [제인 사인펠드](https://ko.wikipedia.org/wiki/제인_사인펠드 "wikilink") 시즌2 《SeinfeldVision》(\#201)편에 등장한다. 잭 도나기는 사인펠드의 허가없이 그의 디지털 영상을 TV프로그램에 이용한다. 케네스는 방송국 엘리베이터 안에서 사인펠드를 보고 깜짝 놀란다.
-  - [캘빈 클라인](https://ko.wikipedia.org/wiki/캘빈_클라인 "wikilink") 시즌3《The Bubble》(\#315)편에 출연한다. 길에서 우연히 리즈의 잘 생긴 남친을 보고는 "당신, 우리 회사 속옷 모델할 생각 없냐"고 물어본다.
+  - [캘빈 클라인](../Page/캘빈_클라인.md "wikilink") 시즌3《The Bubble》(\#315)편에 출연한다. 길에서 우연히 리즈의 잘 생긴 남친을 보고는 "당신, 우리 회사 속옷 모델할 생각 없냐"고 물어본다.
   - [케리 피셔](https://ko.wikipedia.org/wiki/케리_피셔 "wikilink") 시즌2《Rosemary's Baby》(\#204)편에서 리즈 레몬의 우상이었던 왕년의 TV코미디 쇼 작가 로즈마리 역으로 출연한다.
   - [우피 골드버그](../Page/우피_골드버그.md "wikilink")
   - [맷 데이먼](../Page/맷_데이먼.md "wikilink")

@@ -35,7 +35,7 @@ LXDE 프로젝트는 2006년 대만 프로그래머인 Hong Jen Yee가 시작했
 
 ## 외부 링크
 
-  - [공식 홈페이지](http://www.lxde.org)
+  - [공식 홈페이지](https://web.archive.org/web/20090905044242/http://www.lxde.org/)
 
   - [LXDE Foundation e.V.](https://web.archive.org/web/20100517013413/http://foundation.lxde.org/)
 

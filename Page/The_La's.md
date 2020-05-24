@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [The La\'s](https://ko.wikipedia.org/wiki/The_La\'s).
 
 
-《**The La's**》(더 라스)는 [영국](../Page/영국.md "wikilink")의 록 밴드 [라스](https://ko.wikipedia.org/wiki/라스 "wikilink")가 1990년에 발매한 데뷔 음반이자 유일한 정규 음반이다. 2008년 4월 7일에 디럭스 에디션으로 재발매됐다.
+《**The La's**》(더 라스)는 [영국](../Page/영국.md "wikilink")의 록 밴드 [라스](https://ko.wikipedia.org/wiki/라스 "wikilink")가 1990년에 발매한 데뷔 음반이자 유일한 [정규 음반이다](../Page/정규_음반.md "wikilink"). 2008년 4월 7일에 디럭스 에디션으로 재발매됐다.
 
 ## 수록곡
 

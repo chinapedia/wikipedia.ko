@@ -136,7 +136,7 @@
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Latin_letter_small_capital_Gamma.svg" title="wikilink">10px</a></p></td>
 <td><p>조그만 <a href="https://ko.wikipedia.org/wiki/감마" title="wikilink">감마</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/후설_비원순_중고모음" title="wikilink">후설 비원순 중고모음</a></p></td>
+<td><p><a href="../Page/후설_비원순_중고모음.md" title="wikilink">후설 비원순 중고모음</a></p></td>
 <td><p>[ɤ]</p></td>
 <td><p>1989년에 사용이 거부됨</p></td>
 </tr>
@@ -248,7 +248,7 @@
 <tr class="even">
 <td></td>
 <td><p>오우(ou)</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/후설_비원순_중고모음" title="wikilink">후설 비원순 중고모음</a> 또는 <a href="https://ko.wikipedia.org/wiki/유성_연구개_마찰음" title="wikilink">유성 연구개 마찰음</a></p></td>
+<td><p><a href="../Page/후설_비원순_중고모음.md" title="wikilink">후설 비원순 중고모음</a> 또는 <a href="https://ko.wikipedia.org/wiki/유성_연구개_마찰음" title="wikilink">유성 연구개 마찰음</a></p></td>
 <td><p>또는 </p></td>
 <td><p>실수해서 생긴 기호</p></td>
 </tr>

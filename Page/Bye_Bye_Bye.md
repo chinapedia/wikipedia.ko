@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Bye Bye Bye](https://ko.wikipedia.org/wiki/Bye_Bye_Bye).
 
 
-《**Bye Bye Bye**》는 [2005년](../Page/2005년.md "wikilink") [11월 3일](../Page/11월_3일.md "wikilink") 발매된 [먼데이 키즈의](../Page/먼데이_키즈.md "wikilink") 첫 번째 정규앨범이다. 타이틀 곡은 〈Bye Bye Bye〉로, 이 곡은 원래 [조바꿈](../Page/조바꿈.md "wikilink")이 없는 곡이었는데 소속사 대표의 말에 따라 후렴에 조바꿈 부분이 추가된 뒤 발매되었다.\[1\]
+《**Bye Bye Bye**》는 [2005년](../Page/2005년.md "wikilink") [10월 6일](../Page/10월_6일.md "wikilink") 발매된 [먼데이 키즈의](../Page/먼데이_키즈.md "wikilink") 첫 번째 정규앨범이다. 타이틀 곡은 〈Bye Bye Bye〉로, 이 곡은 원래 [조바꿈](../Page/조바꿈.md "wikilink")이 없는 곡이었는데 소속사 대표의 말에 따라 후렴에 조바꿈 부분이 추가된 뒤 발매되었다.\[1\]
 
 ## 트랙리스트
 

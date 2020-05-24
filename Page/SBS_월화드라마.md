@@ -380,10 +380,9 @@
 #### [2020년](../Page/2020년.md "wikilink")
 
   - 《[낭만닥터 김사부 2](../Page/낭만닥터_김사부_2.md "wikilink")》 : [2020년](../Page/2020년.md "wikilink") [1월 6일](../Page/1월_6일.md "wikilink") \~ [2020년](../Page/2020년.md "wikilink") [2월 25일](../Page/2월_25일.md "wikilink")
-  - 《[아무도 모른다](https://ko.wikipedia.org/wiki/아무도_모른다_\(드라마\) "wikilink")》 : [2020년](../Page/2020년.md "wikilink") [3월 2일](../Page/3월_2일.md "wikilink") \~ **현재**
-  - 《[굿캐스팅](https://ko.wikipedia.org/wiki/굿캐스팅 "wikilink")》 : [2020년](../Page/2020년.md "wikilink") [4월 27일](../Page/4월_27일.md "wikilink") \~ <small>(방송 예정)</small>
+  - 《[아무도 모른다](https://ko.wikipedia.org/wiki/아무도_모른다_\(드라마\) "wikilink")》 : [2020년](../Page/2020년.md "wikilink") [3월 2일](../Page/3월_2일.md "wikilink") \~ [2020년](../Page/2020년.md "wikilink")[4월21일](https://ko.wikipedia.org/wiki/4월21일 "wikilink")
+  - 《[굿캐스팅](https://ko.wikipedia.org/wiki/굿캐스팅 "wikilink")》 : [2020년](../Page/2020년.md "wikilink") [4월 27일](../Page/4월_27일.md "wikilink") \~ **현재**
   - 《[브람스를 좋아하세요?](https://ko.wikipedia.org/wiki/브람스를_좋아하세요? "wikilink")》 : [2020년](../Page/2020년.md "wikilink") [6월 22일](../Page/6월_22일.md "wikilink") \~ <small>(방송 예정)</small>
-  - 《[펜트하우스](https://ko.wikipedia.org/wiki/펜트하우스_\(드라마\) "wikilink")》: [2020년](../Page/2020년.md "wikilink") \~ <small>(방송 예정)</small>
 
 ## 같이 보기
 

@@ -25,7 +25,7 @@ PEN 시리즈에 디지털 모델로서 첫 번째로 합류하였다. 전체적
 
 파일:Bfishadow Olympus E-P1 back.jpg 파일:Bfishadow Olympus E-P1 bottom.jpg 파일:Bfishadow Olympus E-P1 top.jpg 파일:Bfishadow Olympus E-P1.jpg
 
-## 함께 보기
+## 같이 보기
 
   - [마이크로 포서즈 시스템](../Page/마이크로_포서즈_시스템.md "wikilink")
   - [미러리스 카메라](https://ko.wikipedia.org/wiki/미러리스_카메라 "wikilink")

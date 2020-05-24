@@ -41,7 +41,7 @@ B 언어는 BCPL의 영향을 그대로 받았기 때문에 명칭인 B 마저 B
             putchar(n%b + '0');
     }
 
-## 함께 보기
+## 같이 보기
 
   - [BCPL](../Page/BCPL.md "wikilink")
   - [C (프로그래밍 언어)](../Page/C_\(프로그래밍_언어\).md "wikilink")

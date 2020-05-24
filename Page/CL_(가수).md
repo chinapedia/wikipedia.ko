@@ -188,7 +188,7 @@
 
 ### Hello Bitches Tour 2016
 
-## 함께 보기
+## 같이 보기
 
   - [2NE1](../Page/2NE1.md "wikilink")
   - [YG 엔터테인먼트](../Page/YG_엔터테인먼트.md "wikilink")

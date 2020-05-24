@@ -78,7 +78,7 @@ touch는 myfile.txt의 내용을 수정하지 않는다; 이것은 단지 파일
 
 유닉스의 `touch` 와 같은 기능을 수행하는 프로그램들은 [마이크로소프트 윈도](https://ko.wikipedia.org/wiki/마이크로소프트_윈도 "wikilink"), [맥 OS와](../Page/맥_OS.md "wikilink") 같은 다른 운영 체제에도 존재한다.
 
-## 함께 보기
+## 같이 보기
 
   - [시스템 시간](../Page/시스템_시간.md "wikilink")
   - [유닉스 명령어 목록](../Page/유닉스_명령어_목록.md "wikilink")

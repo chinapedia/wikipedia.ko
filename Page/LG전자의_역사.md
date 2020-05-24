@@ -484,7 +484,7 @@
   - [2008년](../Page/2008년.md "wikilink") 우면동 통합 연구소 준공.
   - [2008년](../Page/2008년.md "wikilink") 비키니폰 시판.
 
-## 함께 보기
+## 같이 보기
 
   - [LG그룹의 역사 연보](https://ko.wikipedia.org/wiki/LG그룹의_역사_연보 "wikilink")
 

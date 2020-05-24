@@ -82,7 +82,7 @@
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/1974년_FIFA_월드컵" title="wikilink">1974년</a></p></td>
 <td><p><a href="../Page/요한_크라위프.md" title="wikilink">요한 크라위프</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/프란츠_베켄바우어" title="wikilink">프란츠 베켄바우어</a></p></td>
+<td><p><a href="../Page/프란츠_베켄바워.md" title="wikilink">프란츠 베켄바워</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/카지미에시_데이나" title="wikilink">카지미에시 데이나</a></p></td>
 </tr>
 <tr class="odd">
@@ -151,7 +151,7 @@
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/2010년_FIFA_월드컵" title="wikilink">2010년</a></p></td>
 <td><p><a href="../Page/디에고_포를란.md" title="wikilink">디에고 포를란</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/베슬러이_스네이더르" title="wikilink">베슬러이 스네이더르</a></p></td>
+<td><p><a href="../Page/베슬리_스네이더르.md" title="wikilink">베슬리 스네이더르</a></p></td>
 <td><p><a href="../Page/다비드_비야.md" title="wikilink">다비드 비야</a></p></td>
 </tr>
 <tr class="odd">
@@ -273,8 +273,7 @@
 <td><p>6</p></td>
 <td><p><a href="../Page/카를하인츠_루메니게.md" title="wikilink">카를하인츠 루메니게</a></p></td>
 <td><p>5</p></td>
-<td><p><a href="../Page/지쿠.md" title="wikilink">지쿠</a><br />
- <a href="../Page/즈비그니에프_보니에크.md" title="wikilink">즈비그니에프 보니에크</a></p></td>
+<td><p><a href="../Page/지쿠.md" title="wikilink">지쿠</a></p></td>
 <td><p>4</p></td>
 </tr>
 <tr class="even">
@@ -285,11 +284,8 @@
  <a href="../Page/카레카.md" title="wikilink">카레카</a><br />
  <a href="../Page/에밀리오_부트라게뇨.md" title="wikilink">에밀리오 부트라게뇨</a></p></td>
 <td><p>5</p></td>
-<td><p><a href="../Page/호르헤_발다노.md" title="wikilink">호르헤 발다노</a><br />
- <a href="https://ko.wikipedia.org/wiki/프레벤_엘키에르_라르센" title="wikilink">프레벤 엘키에르 라르센</a><br />
- <a href="../Page/알레산드로_알토벨리.md" title="wikilink">알레산드로 알토벨리</a><br />
- <a href="../Page/이고리_벨라노프.md" title="wikilink">이고리 벨라노프</a></p></td>
-<td><p>4</p></td>
+<td><p>N/A</p></td>
+<td><p>—</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/1990년_FIFA_월드컵" title="wikilink">1990년</a></p></td>
@@ -298,9 +294,7 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/토마시_스쿠라비" title="wikilink">토마시 스쿠라비</a></p></td>
 <td><p>5</p></td>
 <td><p><a href="../Page/로제_밀라.md" title="wikilink">로제 밀라</a><br />
- <a href="../Page/게리_리네커.md" title="wikilink">게리 리네커</a><br />
- <a href="../Page/로타어_마테우스.md" title="wikilink">로타어 마테우스</a><br />
- <a href="https://ko.wikipedia.org/wiki/미첼_(축구인)" title="wikilink">미첼</a></p></td>
+ <a href="../Page/게리_리네커.md" title="wikilink">게리 리네커</a></p></td>
 <td><p>4</p></td>
 </tr>
 <tr class="even">
@@ -308,15 +302,11 @@
 <td><p><a href="../Page/흐리스토_스토이치코프.md" title="wikilink">흐리스토 스토이치코프</a><br />
  <a href="../Page/올레크_살렌코.md" title="wikilink">올레크 살렌코</a></p></td>
 <td><p>6</p></td>
+<td><p>N/A</p></td>
+<td><p>—</p></td>
 <td><p><a href="../Page/호마리우.md" title="wikilink">호마리우</a><br />
- <a href="../Page/위르겐_클린스만.md" title="wikilink">위르겐 클린스만</a><br />
- <a href="../Page/로베르토_바조.md" title="wikilink">로베르토 바조</a><br />
  <a href="../Page/케네트_안데르손.md" title="wikilink">케네트 안데르손</a></p></td>
 <td><p>5</p></td>
-<td><p><a href="../Page/가브리엘_바티스투타.md" title="wikilink">가브리엘 바티스투타</a><br />
- <a href="../Page/플로린_러두치오이우.md" title="wikilink">플로린 러두치오이우</a><br />
- <a href="../Page/마르틴_달린.md" title="wikilink">마르틴 달린</a></p></td>
-<td><p>4</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/1998년_FIFA_월드컵" title="wikilink">1998년</a></p></td>
@@ -325,10 +315,8 @@
 <td><p><a href="../Page/가브리엘_바티스투타.md" title="wikilink">가브리엘 바티스투타</a><br />
  <a href="../Page/크리스티안_비에리.md" title="wikilink">크리스티안 비에리</a></p></td>
 <td><p>5</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/호나우두" title="wikilink">호나우두</a><br />
- <a href="../Page/마르셀로_살라스.md" title="wikilink">마르셀로 살라스</a><br />
- <a href="../Page/루이스_에르난데스.md" title="wikilink">루이스 에르난데스</a></p></td>
-<td><p>4</p></td>
+<td><p>N/A</p></td>
+<td><p>—</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/2002년_FIFA_월드컵" title="wikilink">2002년</a></p></td>
@@ -337,9 +325,8 @@
 <td><p><a href="../Page/히바우두.md" title="wikilink">히바우두</a><br />
  <a href="../Page/미로슬라프_클로제.md" title="wikilink">미로슬라프 클로제</a></p></td>
 <td><p>5</p></td>
-<td><p><a href="../Page/욘_달_토마손.md" title="wikilink">욘 달 토마손</a><br />
- <a href="../Page/크리스티안_비에리.md" title="wikilink">크리스티안 비에리</a></p></td>
-<td><p>4</p></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/2006년_FIFA_월드컵" title="wikilink">2006년</a></p></td>
@@ -356,7 +343,7 @@
 <td><p>5</p></td>
 <td><p><a href="../Page/다비드_비야.md" title="wikilink">다비드 비야</a><sup>1</sup></p></td>
 <td><p>5</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/베슬러이_스네이더르" title="wikilink">베슬러이 스네이더르</a><sup>1</sup></p></td>
+<td><p><a href="../Page/베슬리_스네이더르.md" title="wikilink">베슬리 스네이더르</a><sup>1</sup></p></td>
 <td><p>5</p></td>
 </tr>
 <tr class="odd">
@@ -378,7 +365,7 @@
 <td><p>4</p></td>
 </tr>
 <tr class="odd">
-<td><p><small> <sup>1</sup> : <a href="https://ko.wikipedia.org/wiki/2006년_FIFA_월드컵" title="wikilink">2006년 FIFA 월드컵부터는</a> 같은 숫자의 골을 넣을 경우 출전 시간이 적은 선수가 상위에 랭크되도록 규정이 변경되었다.<br />
+<td><p><small> <sup>1</sup> : <a href="https://ko.wikipedia.org/wiki/2006년_FIFA_월드컵" title="wikilink">2006년 FIFA 월드컵부터는</a> 득점 수가 동률일 경우 어시스트가 많은 선수를 상위에 랭크시키고, 어시스트까지 동률일 경우 출전 시간이 적은 선수가 상위에 랭크되도록 규정이 변경되었다.<br />
 </p></td>
 <td></td>
 <td></td>
@@ -392,7 +379,7 @@
 
 ## 골든 글러브
 
-**골든 글러브**는 월드컵 대회 최고의 골키퍼에게 수여하는 상이다. 1994년 [소련의](https://ko.wikipedia.org/wiki/소련_축구_국가대표팀 "wikilink") 골키퍼 [레프 야신의](../Page/레프_야신.md "wikilink") 업적을 기리기 위해 야신 상이라는 이름으로 제정되었으며 2010년에 상 이름이 골든 글러브로 공식 변경되었다.
+**골든 글러브**는 월드컵 대회 최고의 골키퍼에게 수여하는 상이다. 1994년 [소련의](https://ko.wikipedia.org/wiki/소련_축구_국가대표팀 "wikilink") 골키퍼 [레프 야신의](../Page/레프_야신.md "wikilink") 업적을 기리기 위해 야신상이라는 이름으로 제정되었으며 2010년에 상 이름이 골든 글러브로 공식 변경되었다.
 
 <table>
 <thead>
@@ -958,7 +945,7 @@
  <a href="../Page/히바우두.md" title="wikilink">히바우두</a><br />
  <a href="../Page/미카엘_라우드루프.md" title="wikilink">미카엘 라우드루프</a><br />
  <a href="https://ko.wikipedia.org/wiki/지네딘_지단" title="wikilink">지네딘 지단</a><br />
- <a href="https://ko.wikipedia.org/wiki/엣하르_다비츠" title="wikilink">엣하르 다비츠</a></p></td>
+ <a href="../Page/에드가르_다비츠.md" title="wikilink">에드가르 다비츠</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/호나우두" title="wikilink">호나우두</a><br />
  <a href="../Page/다보르_슈케르.md" title="wikilink">다보르 슈케르</a><br />
  <a href="../Page/브리안_라우드루프.md" title="wikilink">브리안 라우드루프</a><br />
@@ -1027,7 +1014,7 @@
 </p></td>
 <td><p><a href="../Page/안드레스_이니에스타.md" title="wikilink">안드레스 이니에스타</a><br />
  <a href="../Page/사비_에르난데스.md" title="wikilink">사비 에르난데스</a><br />
- <a href="https://ko.wikipedia.org/wiki/베슬러이_스네이더르" title="wikilink">베슬러이 스네이더르</a><br />
+ <a href="../Page/베슬리_스네이더르.md" title="wikilink">베슬리 스네이더르</a><br />
  <a href="../Page/바스티안_슈바인슈타이거.md" title="wikilink">바스티안 슈바인슈타이거</a><br />
 </p></td>
 <td><p><a href="../Page/디에고_포를란.md" title="wikilink">디에고 포를란</a><br />

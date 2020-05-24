@@ -38,7 +38,7 @@ KT-1은 950 마력의 [프랫 앤 휘트니 캐나다 PT6 터보프롭](https://
 
 ## 제원 (KT-1)
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:P&W_PT6.jpg "wikilink"), [슈퍼투 투카노](../Page/엠브라에르_EMB_314_슈퍼_투카노.md "wikilink"), [PC-9](../Page/필라투스_PC-9.md "wikilink"), [T-6](../Page/T-6_텍산_II.md "wikilink") 등이 모두 PT6엔진의 파생형 모델들을 각각 사용하고 있다.\]\] 총 1,047억원의 예산을 들여 개발하였으며, 국산화율은 품목대비 80.9%, 가격대비 60.4% 이다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:P&W_PT6.jpg "wikilink"), [슈퍼투 투카노](../Page/엠브라에르_EMB_314_슈퍼_투카노.md "wikilink"), [PC-9](../Page/필라투스_PC-9.md "wikilink"), [T-6](../Page/T-6_텍산_II.md "wikilink") 등이 모두 PT6엔진의 파생형 모델들을 각각 사용하고 있다.\]\] 총 1,047억원의 예산을 들여 개발하였으며, 국산화율은 품목대비 80.9%, 가격대비 60.4%이다.
 
 ## 사용국가
 

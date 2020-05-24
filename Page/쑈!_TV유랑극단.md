@@ -43,6 +43,6 @@
 
   - [KNN 쑈\! TV유랑극단 홈페이지](http://www.knn.co.kr/category/tv/travel-players)
 
-[분류:대한민국의 텔레비전 버라이어티 쇼](https://ko.wikipedia.org/wiki/분류:대한민국의_텔레비전_버라이어티_쇼 "wikilink") [분류:KNN의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:KNN의_텔레비전_프로그램 "wikilink") [분류:2000년대 대한민국의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:2000년대_대한민국의_텔레비전_프로그램 "wikilink") [분류:2010년대 대한민국의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:2010년대_대한민국의_텔레비전_프로그램 "wikilink")
+[분류:대한민국의 텔레비전 버라이어티 쇼](https://ko.wikipedia.org/wiki/분류:대한민국의_텔레비전_버라이어티_쇼 "wikilink") [분류:KNN의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:KNN의_텔레비전_프로그램 "wikilink") [분류:2000년대 대한민국의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:2000년대_대한민국의_텔레비전_프로그램 "wikilink") [분류:2010년대 대한민국의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:2010년대_대한민국의_텔레비전_프로그램 "wikilink") [분류:2001년에 시작한 대한민국 TV 프로그램](https://ko.wikipedia.org/wiki/분류:2001년에_시작한_대한민국_TV_프로그램 "wikilink")
 
 1.  일정상 참여할 수 없을 경우 노래방 반주로 대체한다.

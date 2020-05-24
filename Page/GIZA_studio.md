@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [GIZA studio](https://ko.wikipedia.org/wiki/GIZA_studio).
 
 
-**GIZA studio**는 [일본](../Page/일본.md "wikilink") [오사카부](../Page/오사카부.md "wikilink") [오사카 시에](https://ko.wikipedia.org/wiki/오사카_시 "wikilink") 위치한 [빙그룹](https://ko.wikipedia.org/wiki/빙_\(회사\) "wikilink") 산하의 음반사이다. 1998년 9월 1일 [오사카](https://ko.wikipedia.org/wiki/오사카 "wikilink") [신사이바시](https://ko.wikipedia.org/wiki/신사이바시 "wikilink")에 설립된 메이저 레이블이다.
+**GIZA studio**는 [일본](../Page/일본.md "wikilink") [오사카부](../Page/오사카부.md "wikilink") [오사카시](../Page/오사카시.md "wikilink")에 위치한 [빙그룹](https://ko.wikipedia.org/wiki/빙_\(회사\) "wikilink") 산하의 음반사이다. 1998년 9월 1일 [오사카](https://ko.wikipedia.org/wiki/오사카 "wikilink") [신사이바시](https://ko.wikipedia.org/wiki/신사이바시 "wikilink")에 설립된 메이저 레이블이다.
 
 ## 소속 음악가
 

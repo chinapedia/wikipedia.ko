@@ -20,7 +20,7 @@
 
 ## 각주
 
-<references/>
+<references />
 
 [분류:2009년 싱글](https://ko.wikipedia.org/wiki/분류:2009년_싱글 "wikilink") [분류:윤하의 음반](https://ko.wikipedia.org/wiki/분류:윤하의_음반 "wikilink") [분류:일본어 음반](https://ko.wikipedia.org/wiki/분류:일본어_음반 "wikilink") [분류:대한민국의 음반](https://ko.wikipedia.org/wiki/분류:대한민국의_음반 "wikilink") [분류:일본의 음반](https://ko.wikipedia.org/wiki/분류:일본의_음반 "wikilink")
 

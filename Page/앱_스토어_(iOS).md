@@ -75,7 +75,7 @@
 
   - [아이폰 앱 스토어](https://www.apple.com/iphone/appstore)
 
-[분류:애플의 서비스](https://ko.wikipedia.org/wiki/분류:애플의_서비스 "wikilink") [분류:2008년](https://ko.wikipedia.org/wiki/분류:2008년 "wikilink") [분류:iOS 소프트웨어](https://ko.wikipedia.org/wiki/분류:iOS_소프트웨어 "wikilink")
+[분류:애플의 서비스](https://ko.wikipedia.org/wiki/분류:애플의_서비스 "wikilink") [분류:2008년](https://ko.wikipedia.org/wiki/분류:2008년 "wikilink") [분류:IOS 소프트웨어](https://ko.wikipedia.org/wiki/분류:IOS_소프트웨어 "wikilink")
 
 1.  [Apple’s App Store Downloads Top 10 Billion](https://www.apple.com/pr/library/2011/01/22Apples-App-Store-Downloads-Top-10-Billion.html)
 2.

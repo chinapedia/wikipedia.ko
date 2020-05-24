@@ -200,7 +200,7 @@
 
 평균 시청률은 《[CHANGE](https://ko.wikipedia.org/wiki/CHANGE "wikilink")》 이후 다섯 작품만에 15%를 넘었다.
 
-## 함께 보기
+## 같이 보기
 
   - [게츠쿠](https://ko.wikipedia.org/wiki/게츠쿠 "wikilink")
 

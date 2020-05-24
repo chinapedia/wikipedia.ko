@@ -19,7 +19,7 @@
 
 <references/>
 
-[분류:2008년 음반](https://ko.wikipedia.org/wiki/분류:2008년_음반 "wikilink") [분류:브라운 아이즈의 음반](https://ko.wikipedia.org/wiki/분류:브라운_아이즈의_음반 "wikilink") [분류:리듬 앤 블루스 음반](https://ko.wikipedia.org/wiki/분류:리듬_앤_블루스_음반 "wikilink") [분류:긴 낱말](https://ko.wikipedia.org/wiki/분류:긴_낱말 "wikilink") [분류:엠넷 미디어 음반](https://ko.wikipedia.org/wiki/분류:엠넷_미디어_음반 "wikilink")
+[분류:2008년 음반](https://ko.wikipedia.org/wiki/분류:2008년_음반 "wikilink") [분류:브라운 아이즈의 음반](https://ko.wikipedia.org/wiki/분류:브라운_아이즈의_음반 "wikilink") [분류:리듬 앤 블루스 음반](https://ko.wikipedia.org/wiki/분류:리듬_앤_블루스_음반 "wikilink") [분류:엠넷 미디어 음반](https://ko.wikipedia.org/wiki/분류:엠넷_미디어_음반 "wikilink")
 
 1.
 2.

@@ -25,14 +25,14 @@
   - [1993년](../Page/1993년.md "wikilink") [3월 1일](../Page/3월_1일.md "wikilink") : 《[EBS 교육소식](https://ko.wikipedia.org/wiki/EBS_교육소식 "wikilink")》 방송 개시
   - [1994년](../Page/1994년.md "wikilink") [2월 27일](../Page/2월_27일.md "wikilink") : 《방송통신대학 TV 강좌》방송종료 (월요일 - 토요일 밤 11시 40분 \~ 12시 10분, 일요일 밤 10시 30분 \~ 12시 까지, 현재 방송대학TV 프로그램)
   - [1994년](../Page/1994년.md "wikilink") [2월 28일](../Page/2월_28일.md "wikilink") : 《TV 방송대학》방송개시 (월요일 - 토요일 밤 11시 40분 \~ 12시 10분, 일요일 밤 10시 30분 \~ 12시 까지, 현재 방송대학TV 프로그램)
-  - [1995년](../Page/1995년.md "wikilink") [8월 28일](../Page/8월_28일.md "wikilink") : 《[EBS 교육소식](https://ko.wikipedia.org/wiki/EBS_교육소식 "wikilink")》을 《[EBS 교육문화소식](https://ko.wikipedia.org/wiki/EBS_교육문화소식 "wikilink")》으로 명칭 변경
+  - [1995년](../Page/1995년.md "wikilink") [8월 28일](../Page/8월_28일.md "wikilink") : 《[EBS 교육소식](https://ko.wikipedia.org/wiki/EBS_교육소식 "wikilink")》에서 《[EBS 교육문화소식](https://ko.wikipedia.org/wiki/EBS_교육문화소식 "wikilink")》으로 명칭 변경
   - [1996년](../Page/1996년.md "wikilink") [3월 4일](../Page/3월_4일.md "wikilink") : 월요일 \~ 토요일 밤 12시 10분부터 익일 새벽 1시까지 평일 심야 방송 개시
   - [1996년](../Page/1996년.md "wikilink") [3월 4일](../Page/3월_4일.md "wikilink") : [수능특강](https://ko.wikipedia.org/wiki/수능특강 "wikilink") 방송 개시 (월요일 - 금요일 밤 10시 10분 \~ 10시 55분, 밤 10시 55분 \~ 11시 40분 까지, 현재 EBS 플러스 1 프로그램)
   - [1996년](../Page/1996년.md "wikilink") [3월 4일](../Page/3월_4일.md "wikilink") : [수능특강](https://ko.wikipedia.org/wiki/수능특강 "wikilink") 생방송《언어영역 》방송 개시 (토요일 밤 10시 10분 \~ 10시 55분(1부), 밤 10시 55분 \~ 11시 40분(2부) 까지, 현재 EBS 플러스 1 프로그램)
   - [1996년](../Page/1996년.md "wikilink") [3월 9일](../Page/3월_9일.md "wikilink") : 일요일 밤 12시 부터 익일 새벽 1시까지 주말 심야 방송 개시
   - [1996년](../Page/1996년.md "wikilink") [11월 11일](../Page/11월_11일.md "wikilink") : 월요일 심야방송 20분 축소
   - [1997년](../Page/1997년.md "wikilink") [1월 12일](../Page/1월_12일.md "wikilink") : 《[장학퀴즈](../Page/장학퀴즈.md "wikilink")》\<[경남 진주고등학교](../Page/진주고등학교.md "wikilink") 편\> 방송 개시
-  - [1997년](../Page/1997년.md "wikilink") [3월 3일](../Page/3월_3일.md "wikilink") : 《[EBS 교육문화소식](https://ko.wikipedia.org/wiki/EBS_교육문화소식 "wikilink")》을 《[EBS 교육문화뉴스](../Page/EBS_교육문화뉴스.md "wikilink")》로 명칭 변경, 오전 9시부터 낮 12시까지 평일 오전 방송 개시, 월요일 심야 방송을 익일 새벽 1시까지 환원
+  - [1997년](../Page/1997년.md "wikilink") [3월 3일](../Page/3월_3일.md "wikilink") : 《[EBS 교육문화소식](https://ko.wikipedia.org/wiki/EBS_교육문화소식 "wikilink")》에서 《[EBS 교육문화뉴스](../Page/EBS_교육문화뉴스.md "wikilink")》로 명칭 변경, 오전 9시부터 낮 12시까지 평일 오전 방송 개시, 월요일 심야 방송을 익일 새벽 1시까지 환원
   - [1997년](../Page/1997년.md "wikilink") [3월 3일](../Page/3월_3일.md "wikilink") : 《중학방송교재》3학년 TV 방송개시 (현재 EBS 플러스 2 프로그램)
   - [1997년](../Page/1997년.md "wikilink") [3월 3일](../Page/3월_3일.md "wikilink") : 《고교필수특강》 (고1,고2- 내신) 방송개시 변경 (월요일 \~ 금요일 밤 10시 30분 \~ 11시 까지, 현재 EBS 플러스 1 프로그램 )
   - [1997년](../Page/1997년.md "wikilink") [3월 3일](../Page/3월_3일.md "wikilink") : [수능특강](https://ko.wikipedia.org/wiki/수능특강 "wikilink") 방송시간 변경 (월요일 - 금요일 밤 11시 \~ 12시 30분 까지, 현재 EBS 플러스 1 프로그램)
@@ -84,7 +84,7 @@
   - [2005년](../Page/2005년.md "wikilink") [12월 1일](../Page/12월_1일.md "wikilink") : 낮 12시부터 3시 30분까지 평일 낮 방송 개시
   - [2007년](../Page/2007년.md "wikilink") [3월 2일](../Page/3월_2일.md "wikilink") : 《[명의](../Page/명의.md "wikilink")》 방송 개시
   - [2007년](../Page/2007년.md "wikilink") [9월 3일](../Page/9월_3일.md "wikilink") : [EBS](https://ko.wikipedia.org/wiki/EBS "wikilink")의 보도권 복권에 따라 《[EBS 정보마당](https://ko.wikipedia.org/wiki/EBS_정보마당 "wikilink")》 방송 개시
-  - [2008년](../Page/2008년.md "wikilink") [2월 25일](../Page/2월_25일.md "wikilink") : 《[EBS 정보마당](https://ko.wikipedia.org/wiki/EBS_정보마당 "wikilink")》이 《[EBS 저녁뉴스](../Page/EBS_저녁뉴스.md "wikilink")》로 개편, 《[다큐 프라임](https://ko.wikipedia.org/wiki/다큐_프라임 "wikilink")》 (현 [EBS 다큐프라임](../Page/EBS_다큐프라임.md "wikilink")) 방송 개시
+  - [2008년](../Page/2008년.md "wikilink") [2월 25일](../Page/2월_25일.md "wikilink") : 《[EBS 정보마당](https://ko.wikipedia.org/wiki/EBS_정보마당 "wikilink")》에서 《[EBS 저녁뉴스](../Page/EBS_저녁뉴스.md "wikilink")》로 개편, 《[다큐 프라임](https://ko.wikipedia.org/wiki/다큐_프라임 "wikilink")》 (현 [EBS 다큐프라임](../Page/EBS_다큐프라임.md "wikilink")) 방송 개시
   - [2008년](../Page/2008년.md "wikilink") [2월 27일](../Page/2월_27일.md "wikilink") : 《[극한 직업](../Page/극한_직업.md "wikilink")》 방송 개시
   - [2008년](../Page/2008년.md "wikilink") [4월 3일](../Page/4월_3일.md "wikilink") : 《[원더풀 사이언스](https://ko.wikipedia.org/wiki/원더풀_사이언스 "wikilink")》 방송 개시
   - [2008년](../Page/2008년.md "wikilink") 12월 : [IPTV](../Page/IPTV.md "wikilink")를 통한 EBS TV 실시간 방송 개시
@@ -223,7 +223,7 @@ EBS TV는 별도의 지역(권역)별 방송 없이 전국 단일 방송으로 K
 
   - EBSe 생활영어
   - 왕초보 영어
-  - 성인 문해교육 프로젝트 - 영어하기 좋은 날
+  - 성인 문해교육 프로젝트 - 영어하기 좋은 날 3
 
 #### 오락 · 예능
 
@@ -243,10 +243,10 @@ EBS TV는 별도의 지역(권역)별 방송 없이 전국 단일 방송으로 K
 
   - [생방송 우리집 유치원](https://ko.wikipedia.org/wiki/생방송_우리집_유치원 "wikilink")
   - [방귀대장 뿡뿡이](../Page/방귀대장_뿡뿡이.md "wikilink") (2020년 5월 11일 첫방예정)
-  - [딩동댕 유치원](../Page/딩동댕_유치원.md "wikilink") (2020년 5월 4일 첫방예정)
-  - [해요와 해요](https://ko.wikipedia.org/wiki/해요와_해요 "wikilink") (2020년 4월 27일 첫방예정)
-  - [핫도그랑 만들어 볼까요](https://ko.wikipedia.org/wiki/핫도그랑_만들어_볼까요 "wikilink") (2020년 4월 27일 첫방예정)
-  - [또개비 가족](https://ko.wikipedia.org/wiki/또개비_가족 "wikilink") (2020년 4월 30일 첫방예정)
+  - [딩동댕 유치원](../Page/딩동댕_유치원.md "wikilink")
+  - [해요와 해요](https://ko.wikipedia.org/wiki/해요와_해요 "wikilink")
+  - [핫도그랑 만들어 볼까요](https://ko.wikipedia.org/wiki/핫도그랑_만들어_볼까요 "wikilink")
+  - [또개비 가족](https://ko.wikipedia.org/wiki/또개비_가족 "wikilink")
   - [뭐든지 뮤직박스](https://ko.wikipedia.org/wiki/뭐든지_뮤직박스 "wikilink")
   - [아빠타](https://ko.wikipedia.org/wiki/아빠타 "wikilink")
   - [자이언트 펭TV](https://ko.wikipedia.org/wiki/자이언트_펭TV "wikilink")
@@ -255,21 +255,21 @@ EBS TV는 별도의 지역(권역)별 방송 없이 전국 단일 방송으로 K
 
 #### 교양 · 교육 · 다큐 · 요리
 
-  - [세계의 눈](../Page/세계의_눈.md "wikilink")
+  - [돈이 되는 토크쇼 - 머니톡](https://ko.wikipedia.org/wiki/돈이_되는_토크쇼_-_머니톡 "wikilink")
   - [EBS 초대석](../Page/EBS_초대석.md "wikilink")
   - [극한 직업](../Page/극한_직업_\(텔레비전_프로그램\).md "wikilink")
   - [경이로운 지구](https://ko.wikipedia.org/wiki/경이로운_지구_\(EBS\) "wikilink")
   - [고양이를 부탁해](../Page/고양이를_부탁해_\(텔레비전_프로그램\).md "wikilink")
   - [나눔 0700](../Page/나눔_0700.md "wikilink")
   - [다문화 고부열전](https://ko.wikipedia.org/wiki/다문화_고부열전 "wikilink")
+  - [EBS 마스터](https://ko.wikipedia.org/wiki/EBS_마스터 "wikilink")
+  - [EBS 명강](https://ko.wikipedia.org/wiki/EBS_명강 "wikilink")
   - [세상의 모든 법칙](../Page/세상의_모든_법칙.md "wikilink")
-  - [기획특강 - 지식의 기쁨](../Page/기획특강_-_지식의_기쁨.md "wikilink")
   - [아기동물 귀여워](https://ko.wikipedia.org/wiki/아기동물_귀여워 "wikilink")
   - [영어하기 좋은날](https://ko.wikipedia.org/wiki/영어하기_좋은날 "wikilink") 2
   - [EBS 비즈니스 리뷰](https://ko.wikipedia.org/wiki/EBS_비즈니스_리뷰 "wikilink") (2020년 5월 18일 첫방예정)
   - [K-POP 한국어](https://ko.wikipedia.org/wiki/K-POP_한국어 "wikilink") (2020년 6월 6일 첫방예정)
   - [야생의 세렝게티](https://ko.wikipedia.org/wiki/야생의_세렝게티 "wikilink")
-  - [우주탐사 이야기](https://ko.wikipedia.org/wiki/우주탐사_이야기 "wikilink")
   - [문화유산 코리아](../Page/문화유산_코리아.md "wikilink")
   - [건축탐구 - 집](../Page/건축탐구_-_집.md "wikilink")
   - [지식채널e](../Page/지식채널e.md "wikilink")
@@ -968,13 +968,13 @@ EBS TV는 별도의 지역(권역)별 방송 없이 전국 단일 방송으로 K
 
 |                   | 01 | 02 | 03 | 04 | 05 | 06 | 07 | 08 | 09 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 비고 |
 | ----------------- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
-| 월요일               | ●  | ●  | ○  | ○  | ○  | ●  | ●  | ●  | ●  | ●  | ●  | ●  | ●  | ●  | ●  | ●  | ●  | ●  | ●  | ●  | ●  | ●  | ●  | ●  |    |
-| 화요일               | ●  | ●  | ○  | ○  | ○  | ●  | ●  | ●  | ●  | ●  | ●  | ●  | ●  | ●  | ●  | ●  | ●  | ●  | ●  | ●  | ●  | ●  | ●  | ●  |    |
-| 수요일               | ●  | ●  | ○  | ○  | ○  | ●  | ●  | ●  | ●  | ●  | ●  | ●  | ●  | ●  | ●  | ●  | ●  | ●  | ●  | ●  | ●  | ●  | ●  | ●  |    |
-| 목요일               | ●  | ●  | ○  | ○  | ○  | ●  | ●  | ●  | ●  | ●  | ●  | ●  | ●  | ●  | ●  | ●  | ●  | ●  | ●  | ●  | ●  | ●  | ●  | ●  |    |
-| 금요일               | ●  | ●  | ○  | ○  | ○  | ●  | ●  | ●  | ●  | ●  | ●  | ●  | ●  | ●  | ●  | ●  | ●  | ●  | ●  | ●  | ●  | ●  | ●  | ●  |    |
-| 토요일               | ●  | ●  | ○  | ○  | ○  | ●  | ●  | ●  | ●  | ●  | ●  | ●  | ●  | ●  | ●  | ●  | ●  | ●  | ●  | ●  | ●  | ●  | ●  | ●  |    |
-| 일요일               | ●  | ●  | ○  | ○  | ○  | ●  | ●  | ●  | ●  | ●  | ●  | ●  | ●  | ●  | ●  | ●  | ●  | ●  | ●  | ●  | ●  | ●  | ●  | ●  |    |
+| 월요일               | ●  | ●  | ○  | ○  | ●  | ●  | ●  | ●  | ●  | ●  | ●  | ●  | ●  | ●  | ●  | ●  | ●  | ●  | ●  | ●  | ●  | ●  | ●  | ●  |    |
+| 화요일               | ●  | ●  | ○  | ○  | ●  | ●  | ●  | ●  | ●  | ●  | ●  | ●  | ●  | ●  | ●  | ●  | ●  | ●  | ●  | ●  | ●  | ●  | ●  | ●  |    |
+| 수요일               | ●  | ●  | ○  | ○  | ●  | ●  | ●  | ●  | ●  | ●  | ●  | ●  | ●  | ●  | ●  | ●  | ●  | ●  | ●  | ●  | ●  | ●  | ●  | ●  |    |
+| 목요일               | ●  | ●  | ○  | ○  | ●  | ●  | ●  | ●  | ●  | ●  | ●  | ●  | ●  | ●  | ●  | ●  | ●  | ●  | ●  | ●  | ●  | ●  | ●  | ●  |    |
+| 금요일               | ●  | ●  | ○  | ○  | ●  | ●  | ●  | ●  | ●  | ●  | ●  | ●  | ●  | ●  | ●  | ●  | ●  | ●  | ●  | ●  | ●  | ●  | ●  | ●  |    |
+| 토요일               | ●  | ●  | ○  | ○  | ●  | ●  | ●  | ●  | ●  | ●  | ●  | ●  | ●  | ●  | ●  | ●  | ●  | ●  | ●  | ●  | ●  | ●  | ●  | ●  |    |
+| 일요일               | ●  | ●  | ○  | ○  | ●  | ●  | ●  | ●  | ●  | ●  | ●  | ●  | ●  | ●  | ●  | ●  | ●  | ●  | ●  | ●  | ●  | ●  | ●  | ●  |    |
 | ● 방송중, ○ 방송종료(정파) |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |
 
 ## 참고 사항

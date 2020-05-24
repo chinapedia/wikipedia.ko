@@ -24,7 +24,7 @@
 |                                                                             **지역명**                                                                              |    **해당 지역 점포명**    |
 |                                                              **[서울](../Page/서울특별시.md "wikilink")**                                                               |      행당역점/송파점       |
 |                                                      **[경기](https://ko.wikipedia.org/wiki/경기도 "wikilink")**                                                      | 고양점/권선점/덕소점/시화점/시흥점 |
-|                                               **[강원](../Page/강원도.md "wikilink"),[충청도](../Page/충청도.md "wikilink")**                                               |   석사점,동대전점,상당용암점    |
+|                        **[강원](https://ko.wikipedia.org/wiki/강원도_\(남\) "wikilink"),[충청도](https://ko.wikipedia.org/wiki/호서_지방 "wikilink")**                        |   석사점,동대전점,상당용암점    |
 | **[부산](https://ko.wikipedia.org/wiki/부산광역시 "wikilink")/[경남](https://ko.wikipedia.org/wiki/경상남도 "wikilink"),[전주시](https://ko.wikipedia.org/wiki/전주시 "wikilink")** |   금정점/삼계점/반여점,덕진점   |
 
 ## 각주

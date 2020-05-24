@@ -2134,6 +2134,8 @@ ENTERTAINMENT</p></td>
 
 ### Jun. K
 
+#### Jun. K
+
 <table>
 <thead>
 <tr class="header">
@@ -2147,19 +2149,6 @@ ENTERTAINMENT</p></td>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>2013</p></td>
-<td><ul>
-<li><a href="https://www.youtube.com/watch?v=h2muwY_1ywU">Jun. K &lt;That's What Friends Are For&gt;</a><br />
-</li>
-</ul></td>
-<td><ul>
-<li>원곡 : <a href="../Page/디온_워릭.md" title="wikilink">Dionne Warwick</a> and Friends</li>
-</ul></td>
-<td><p><a href="../Page/엠넷.md" title="wikilink">엠넷</a></p></td>
-<td><p><a href="../Page/비틀즈_코드.md" title="wikilink">비틀즈 코드</a></p></td>
-<td><p><a href="../Page/엠넷.md" title="wikilink">엠넷</a></p></td>
-</tr>
-<tr class="even">
 <td><p>2015</p></td>
 <td><ul>
 <li><a href="http://tv.naver.com/v/371317">Jun. K <No Love></a><br />
@@ -2172,7 +2161,7 @@ ENTERTAINMENT</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/엠카운트다운" title="wikilink">엠카운트다운</a></p></td>
 <td><p><a href="../Page/네이버.md" title="wikilink">네이버</a> TV</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2016</p></td>
 <td><ul>
 <li><a href="https://www.youtube.com/watch?v=uCmalDUyxiI">Jun. K &amp; 백아연 <가지 마></a><br />
@@ -2185,7 +2174,7 @@ ENTERTAINMENT</p></td>
 <td><p>딩고 뮤직</p></td>
 <td><p>딩고 뮤직</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2016</p></td>
 <td><ul>
 <li><a href="http://tv.naver.com/v/1079360">Jun. K <THINK ABOUT YOU></a><br />
@@ -2198,7 +2187,7 @@ ENTERTAINMENT</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/인기가요" title="wikilink">인기가요</a></p></td>
 <td><p><a href="../Page/네이버.md" title="wikilink">네이버</a> TV</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2017</p></td>
 <td><ul>
 <li><a href="http://www.vlive.tv/video/20989?channelCode=EF7F">Jun. K <no shadow></a><br />
@@ -2211,7 +2200,7 @@ ENTERTAINMENT</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/V_LIVE" title="wikilink">V LIVE</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/V_LIVE" title="wikilink">V LIVE</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2017</p></td>
 <td><ul>
 <li><a href="https://www.youtube.com/watch?v=MTjTm-_px3Y">Jun. K <이사하는 날></a><br />
@@ -2224,7 +2213,7 @@ ENTERTAINMENT</p></td>
 <td><p>딩고 뮤직</p></td>
 <td><p>딩고 뮤직</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2017</p></td>
 <td><ul>
 <li><a href="https://www.vlive.tv/video/50564?channelCode=EF7F">Jun. K &lt;11월부터 2월까지&gt; (feat.소미)</a><br />
@@ -2237,7 +2226,7 @@ ENTERTAINMENT</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/V_LIVE" title="wikilink">V LIVE</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/V_LIVE" title="wikilink">V LIVE</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2017</p></td>
 <td><ul>
 <li><a href="https://www.vlive.tv/video/50563?channelCode=EF7F">Jun. K <mary poppins></a><br />
@@ -2250,7 +2239,7 @@ ENTERTAINMENT</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/V_LIVE" title="wikilink">V LIVE</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/V_LIVE" title="wikilink">V LIVE</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2017</p></td>
 <td><ul>
 <li><a href="https://www.vlive.tv/video/50562?channelCode=EF7F">Jun. K &lt;Mr.nolove&gt;</a><br />
@@ -2263,8 +2252,51 @@ ENTERTAINMENT</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/V_LIVE" title="wikilink">V LIVE</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/V_LIVE" title="wikilink">V LIVE</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+#### Special
+
+<table>
+<thead>
+<tr class="header">
+<th><p>연도</p></th>
+<th><p>곡명</p></th>
+<th><p>방송사</p></th>
+<th><p>프로그램</p></th>
+<th><p>공급사</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>2020</p></td>
+<td><ul>
+<li><a href="https://www.youtube.com/watch?v=gUeHFtK2YQg">2PM(준케이, 우영) &amp; 제이미(박지민) Live &lt;우리집, 문득, 왜&gt;</a><br />
+</li>
+</ul></td>
+<td><p><a href="../Page/플레이리스트.md" title="wikilink">뮤플리</a></p></td>
+<td><p>올때믹</p></td>
+<td><p><a href="../Page/플레이리스트.md" title="wikilink">뮤플리</a></p></td>
+</tr>
+<tr class="even">
+<td><p>2013</p></td>
+<td><ul>
+<li><a href="https://www.youtube.com/watch?v=h2muwY_1ywU">Jun. K &lt;That's What Friends Are For&gt;</a><br />
+</li>
+</ul></td>
+<td><p><a href="../Page/엠넷.md" title="wikilink">엠넷</a></p></td>
+<td><p><a href="../Page/비틀즈_코드.md" title="wikilink">비틀즈 코드</a></p></td>
+<td><p><a href="../Page/엠넷.md" title="wikilink">엠넷</a></p></td>
+</tr>
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>

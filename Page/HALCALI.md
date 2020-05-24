@@ -5,7 +5,7 @@
 
 ## 구성원
 
-  - 하루카(HALCA, [1988년](../Page/1988년.md "wikilink") [4월 21일](../Page/4월_21일.md "wikilink") \~) [도쿄도](../Page/도쿄도.md "wikilink") [메구로 구](https://ko.wikipedia.org/wiki/메구로_구 "wikilink") 출신
+  - 하루카(HALCA, [1988년](../Page/1988년.md "wikilink") [4월 21일](../Page/4월_21일.md "wikilink") \~) [도쿄도](../Page/도쿄도.md "wikilink") [메구로구](../Page/메구로구.md "wikilink") 출신
   - 유카리(YUCALI, [1987년](../Page/1987년.md "wikilink") [7월 18일](../Page/7월_18일.md "wikilink") \~) 도쿄 도 메구로 구 출신
 
 각 구성원의 자세한 정보는 비공개이다.

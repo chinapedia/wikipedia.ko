@@ -206,7 +206,7 @@
 
 ## 각주와 출처
 
-<references/>
+<references />
 
 ## 관련 항목
 

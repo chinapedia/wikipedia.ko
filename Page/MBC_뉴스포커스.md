@@ -64,7 +64,7 @@
 | [MBC충북 청주](../Page/MBC충북_청주방송국.md "wikilink") | MBC 뉴스포커스 충북    | 정미정    |
 | [광주MBC](../Page/광주문화방송.md "wikilink")         | 광주MBC 뉴스포커스     | 연빛나    |
 | [목포MBC](../Page/목포문화방송.md "wikilink")         | MBC 뉴스포커스 목포·전남 | 이지연    |
-| [여수MBC](../Page/여수문화방송.md "wikilink")         | 여수MBC 뉴스포커스     | 정예지    |
+| [여수MBC](../Page/여수문화방송.md "wikilink")         | 여수MBC 뉴스포커스     | 한보선    |
 | [제주MBC](../Page/제주문화방송.md "wikilink")         | MBC 뉴스포커스 제주    | 지건보    |
 
 ## 타이틀 변천사
@@ -81,10 +81,6 @@
   - [경인방송 뉴스7](https://ko.wikipedia.org/wiki/경인방송_뉴스7 "wikilink") ([경인방송](../Page/경인방송.md "wikilink"))
 
 ## 각주
-
-## 외부 링크
-
-  - [MBC 라디오 뉴스](http://imnews.imbc.com/replay/nwradio/index.html?XAREA=mbmain_replay)
 
 [분류:문화방송의 뉴스 라디오 프로그램](https://ko.wikipedia.org/wiki/분류:문화방송의_뉴스_라디오_프로그램 "wikilink")
 

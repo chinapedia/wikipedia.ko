@@ -257,7 +257,7 @@
   - 《PD수첩》의 광우병 보도는 [PD협회](https://ko.wikipedia.org/wiki/PD협회 "wikilink") 이달의 PD상, [기자협회](https://ko.wikipedia.org/wiki/기자협회 "wikilink") 특별상, 민주언론상, 송건호언론상을 수상했다.\[105\]
   - 《PD수첩》의 광우병 보도에 대해 문제 제기를 했던 번역가 [정지민](../Page/정지민.md "wikilink")에 대해 시민단체 [바른사회시민회의](../Page/바른사회시민회의.md "wikilink")는 ‘바른사회를 지키는 아름다운 사람’상을 수여했다.\[106\]
 
-## 함께 보기
+## 같이 보기
 
   - [PD수첩](../Page/PD수첩.md "wikilink")
   - [2008년 대한민국 미국산 쇠고기 수입 협상 논란](../Page/2008년_대한민국_미국산_쇠고기_수입_협상_논란.md "wikilink")

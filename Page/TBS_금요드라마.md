@@ -309,7 +309,7 @@
 | [오키나와현](../Page/오키나와현.md "wikilink")                                                       | [류큐 방송](../Page/류큐_방송.md "wikilink")（RBC）                    |                                           |                   |         |
 |                                                                                            |                                                              |                                           |                   |         |
 
-## 함께 보기
+## 같이 보기
 
   - [TBS 파나소닉 드라마 시어터](https://ko.wikipedia.org/wiki/TBS_파나소닉_드라마_시어터 "wikilink")
   - [TBS 수요일 10시 드라마](https://ko.wikipedia.org/wiki/TBS_수요일_10시_드라마 "wikilink")

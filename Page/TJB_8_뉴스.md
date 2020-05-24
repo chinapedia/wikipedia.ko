@@ -8,14 +8,6 @@
   - [1995년](../Page/1995년.md "wikilink") [5월 14일](../Page/5월_14일.md "wikilink") \~ [2007년](../Page/2007년.md "wikilink") [5월 11일](../Page/5월_11일.md "wikilink") : TJB 종합뉴스 (매일)
   - 2007년 5월 14일 \~ **현재** : TJB 8 뉴스 (매일)
 
-## 시보 광고
-
-  - [1998년](../Page/1998년.md "wikilink") : 신원텔레콤
-  - [농심](../Page/농심.md "wikilink")
-  - [쌍용자동차](../Page/쌍용자동차.md "wikilink")
-  - [2010년](../Page/2010년.md "wikilink")\~[2013년](../Page/2013년.md "wikilink") : [배재대학교](https://ko.wikipedia.org/wiki/배재대학교 "wikilink")
-  - [2014년](../Page/2014년.md "wikilink")\~ : 우성유통
-
 ## 앵커
 
 ### 평일

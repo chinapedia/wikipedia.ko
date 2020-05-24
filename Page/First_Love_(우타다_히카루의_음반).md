@@ -36,7 +36,7 @@
 
 ## 각주
 
-<references/>
+<references />
 
 [분류:우타다 히카루의 음반](https://ko.wikipedia.org/wiki/분류:우타다_히카루의_음반 "wikilink") [분류:1999년 음반](https://ko.wikipedia.org/wiki/분류:1999년_음반 "wikilink") [분류:1999년 오리콘 앨범 차트 1위 작품](https://ko.wikipedia.org/wiki/분류:1999년_오리콘_앨범_차트_1위_작품 "wikilink") [분류:일본레코드협회 밀리언 인증 음반](https://ko.wikipedia.org/wiki/분류:일본레코드협회_밀리언_인증_음반 "wikilink") [분류:1999년 데뷔 음반](https://ko.wikipedia.org/wiki/분류:1999년_데뷔_음반 "wikilink")
 

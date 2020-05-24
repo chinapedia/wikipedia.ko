@@ -21,7 +21,7 @@ TARGET 시스템은 토, 일요일 및 공휴일에 작동하지 않는다. [크
 
 ## 각주
 
-<references/>
+<references />
 
 ## 외부 링크
 

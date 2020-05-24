@@ -12,7 +12,7 @@
 
 ## 북한과 비교
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:Armed_Forces_Day_of_South_Korea_\(1973\)_5.jpg "wikilink") 대한민국에 배치된 미군의 어네스트존은 후에 [랜스 미사일로](https://ko.wikipedia.org/wiki/랜스_미사일 "wikilink") 대체되고 다시 [에이태킴스 미사일로](https://ko.wikipedia.org/wiki/에이태킴스_미사일 "wikilink") 대체되었다.반면에 북한은 [프로그 미사일에서](https://ko.wikipedia.org/wiki/프로그_미사일 "wikilink") [KN-02 미사일](https://ko.wikipedia.org/wiki/KN-02_미사일 "wikilink"), [스커드 미사일로](https://ko.wikipedia.org/wiki/스커드_미사일 "wikilink") 대체된다.랜스 미사일은 1970년대 세계를 풍미한 유명한 미국의 단거리 핵미사일로, 사거리 120 km 이다. 소련은 이에 대응하여 사거리 120 km의 SS-21 미사일을 1981년 실전배치햐였으며, 북한은 이를 바탕으로 [KN-02 미사일을](https://ko.wikipedia.org/wiki/KN-02_미사일 "wikilink") 개발하였다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:Armed_Forces_Day_of_South_Korea_\(1973\)_5.jpg "wikilink") 대한민국에 배치된 미군의 어네스트존은 후에 [랜스 미사일로](https://ko.wikipedia.org/wiki/랜스_미사일 "wikilink") 대체되고 다시 [에이태킴스 미사일로](https://ko.wikipedia.org/wiki/에이태킴스_미사일 "wikilink") 대체되었다.반면에 북한은 [프로그 미사일에서](https://ko.wikipedia.org/wiki/프로그_미사일 "wikilink") [KN-02 미사일](https://ko.wikipedia.org/wiki/KN-02_미사일 "wikilink"), [스커드 미사일로](https://ko.wikipedia.org/wiki/스커드_미사일 "wikilink") 대체된다.랜스 미사일은 1970년대 세계를 풍미한 유명한 미국의 단거리 핵미사일로, 사거리 120 km이다. 소련은 이에 대응하여 사거리 120 km의 SS-21 미사일을 1981년 실전배치햐였으며, 북한은 이를 바탕으로 [KN-02 미사일을](https://ko.wikipedia.org/wiki/KN-02_미사일 "wikilink") 개발하였다.
 
 현재 대한민국에는 어네스트존과 에이태킴스 미사일, [현무 미사일이](https://ko.wikipedia.org/wiki/현무_미사일 "wikilink") 있다. 랜스 미사일은 박정희 정부가 카터 정부에 요청했으나 거부당했다. 이에 대한민국은 사거리가 비슷한 [백곰 미사일을](https://ko.wikipedia.org/wiki/백곰_미사일 "wikilink") [나이키 허큘러스 미사일을](https://ko.wikipedia.org/wiki/나이키_허큘러스_미사일 "wikilink") 바탕으로 개발하기로 하였으나 미국과의 관계 문제로 사업이 취소되었고, 후에 [현무 미사일을](https://ko.wikipedia.org/wiki/현무_미사일 "wikilink") 개발하였다.
 

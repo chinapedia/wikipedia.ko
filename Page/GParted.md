@@ -26,7 +26,7 @@
 | [ufs](../Page/유닉스_파일_시스템.md "wikilink")                    | 예  | 아니오 | 아니오 | 아니오   | 아니오   | 예   | 예   | 아니오  | 아니오 |
 | [xfs](../Page/XFS.md "wikilink")                           | 예  | 예   | 예   | 예     | 부분적으로 | 예   | 예   | 예    | 예   |
 
-## 함께 보기
+## 같이 보기
 
   - [디스크 파티션](https://ko.wikipedia.org/wiki/디스크_파티션 "wikilink")
   - [GNU Parted](../Page/GNU_Parted.md "wikilink")

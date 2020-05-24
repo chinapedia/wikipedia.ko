@@ -32,7 +32,7 @@
   - 《[오토멘 -여름-](https://ko.wikipedia.org/wiki/오토멘#텔레비전_드라마 "wikilink")》 : (8월 1일 \~ 9월 26일, 주연: [오카다 마사키](../Page/오카다_마사키.md "wikilink"), [카호](../Page/카호.md "wikilink"))
   - 《[터미네이터 : 사라 코너 연대기](https://ko.wikipedia.org/wiki/터미네이터_:_사라_코너_연대기 "wikilink")》 (10월 17일 \~ 5월 8일(2010년), 해외 드라마 방영)
 
-## 함께 보기
+## 같이 보기
 
   - [후지 TV 월요일 밤 9시 드라마](../Page/후지_TV_월요일_밤_9시_드라마.md "wikilink")
   - [후지 TV 화요일 밤 9시 드라마](../Page/후지_TV_화요일_밤_9시_드라마.md "wikilink")

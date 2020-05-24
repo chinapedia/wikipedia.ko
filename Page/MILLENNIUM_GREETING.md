@@ -27,7 +27,7 @@
 
 ## 각주
 
-<references/>
+<references />
 
 [분류:V6의 노래](https://ko.wikipedia.org/wiki/분류:V6의_노래 "wikilink") [분류:2000년 싱글](https://ko.wikipedia.org/wiki/분류:2000년_싱글 "wikilink") [분류:드라마 주제가](https://ko.wikipedia.org/wiki/분류:드라마_주제가 "wikilink")
 

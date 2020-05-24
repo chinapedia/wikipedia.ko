@@ -5,7 +5,7 @@
 
 번호의 형식은 "발사년도-세자리숫자세자리문자"로 구성된다.
 
-예를 들면, 세계 최초의 인공위성 [스푸트니크 1호의](../Page/스푸트니크_1호.md "wikilink") 우주발사체의 NSSDC ID는 [1957-001A](http://nssdc.gsfc.nasa.gov/nmc/spacecraftDisplay.do?id=1957-001A) 이며, 스푸트니크 1호 인공위성의 NSSDC ID는 [1957-001B](http://nssdc.gsfc.nasa.gov/nmc/spacecraftDisplay.do?id=1957-001B) 이다.
+예를 들면, 세계 최초의 인공위성 [스푸트니크 1호의](../Page/스푸트니크_1호.md "wikilink") 우주발사체의 NSSDC ID는 [1957-001A](http://nssdc.gsfc.nasa.gov/nmc/spacecraftDisplay.do?id=1957-001A)이며, 스푸트니크 1호 인공위성의 NSSDC ID는 [1957-001B](http://nssdc.gsfc.nasa.gov/nmc/spacecraftDisplay.do?id=1957-001B)이다.
 
 발사가 실패하면 NSSDC ID 를 부여하지 않는다.
 

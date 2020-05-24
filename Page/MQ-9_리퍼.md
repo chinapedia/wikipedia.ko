@@ -5,7 +5,7 @@
 
 **MQ-9 리퍼**()는 [미국](../Page/미국.md "wikilink")의 [UAV](https://ko.wikipedia.org/wiki/UAV "wikilink")이다. 원래는 **프레데터 B**()라고 불렸다. [미국 공군](../Page/미국_공군.md "wikilink"), [미국 해군](../Page/미국_해군.md "wikilink"), [영국 공군을](https://ko.wikipedia.org/wiki/영국_공군 "wikilink") 위해 개발되었다.
 
-MQ-9은 장시간, 고고도 체공을 하는 최초의 [hunter-killer](https://ko.wikipedia.org/wiki/hunter-killer "wikilink") UAV 이다.\[1\]
+MQ-9은 장시간, 고고도 체공을 하는 최초의 [hunter-killer](https://ko.wikipedia.org/wiki/hunter-killer "wikilink") UAV이다.\[1\]
 
 최대이륙중량 1톤, 최대고도 10 km인 MQ-1 프레데터를 4.7톤, 15 km으로 크게 개조한 것이다. [글로벌 호크는](https://ko.wikipedia.org/wiki/글로벌_호크 "wikilink") 10톤, 20 km이다.
 

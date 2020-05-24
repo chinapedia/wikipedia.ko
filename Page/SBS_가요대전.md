@@ -143,7 +143,7 @@
 </tbody>
 </table>
 
-## 함께 보기
+## 같이 보기
 
   - [KBS 가요대축제](../Page/KBS_가요대축제.md "wikilink")
   - [KBS 트로트대축제](../Page/KBS_트로트대축제.md "wikilink")

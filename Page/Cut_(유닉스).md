@@ -52,7 +52,7 @@
     \-s : -f가 지정되었을 때 어떠한 필드 구획 문자도 포함하지 않은 문장들은 명시되어 있지 않는한 우회한다.
     file : 파일을 (그리고 필요하다면 동반되는 경로) 입력어로서 처리한다. 만약 어떠한 파일도 지정되지 않았다면 [표준 입력어가](https://ko.wikipedia.org/wiki/표준_입력어 "wikilink") 사용된다.
 
-## 함께 보기
+## 같이 보기
 
   - [grep](https://ko.wikipedia.org/wiki/grep "wikilink")
   - [paste](https://ko.wikipedia.org/wiki/paste_\(유닉스\) "wikilink")

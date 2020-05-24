@@ -9,7 +9,7 @@
 
 **akko**(악코) - [보컬](https://ko.wikipedia.org/wiki/가수 "wikilink")
 
-  - [1973년](../Page/1973년.md "wikilink") [1월 10일](../Page/1월_10일.md "wikilink"), [도쿄도](../Page/도쿄도.md "wikilink")에서 태어나서, [카나가와 현](https://ko.wikipedia.org/wiki/카나가와_현 "wikilink") [이세하라 시에서](https://ko.wikipedia.org/wiki/이세하라_시 "wikilink") 자랐다.
+  - [1973년](../Page/1973년.md "wikilink") [1월 10일](../Page/1월_10일.md "wikilink"), [도쿄도](../Page/도쿄도.md "wikilink")에서 태어나서, [가나가와현](../Page/가나가와현.md "wikilink") [이세하라시](../Page/이세하라시.md "wikilink")에서 자랐다.
   - 본명은 아카마츠 아키코().
   - 결성 시부터 남은 유일한 멤버.
   - 중학교\~고등학교에 걸쳐 [리듬 체조를](../Page/리듬_체조.md "wikilink") 했으나, 상처나 재능에 한계를 느껴 단념. 5살부터 피아노를 배운 적이 있어, [구니타치 음악대학에](../Page/구니타치_음악대학.md "wikilink") 진학했다.
@@ -18,7 +18,7 @@
 
 **[고바야시 다케시](https://ko.wikipedia.org/wiki/고바야시_다케시 "wikilink")** - [키보드](https://ko.wikipedia.org/wiki/건반_악기 "wikilink")
 
-  - [1959년](../Page/1959년.md "wikilink") [6월 7일](../Page/6월_7일.md "wikilink"), [야마가타현](../Page/야마가타현.md "wikilink") [신조 시에서](https://ko.wikipedia.org/wiki/신조_시 "wikilink") 태어남.
+  - [1959년](../Page/1959년.md "wikilink") [6월 7일](../Page/6월_7일.md "wikilink"), [야마가타현](../Page/야마가타현.md "wikilink") [신조시](../Page/신조시.md "wikilink")에서 태어남.
   - 첫 앨범《evergreen》부터 멤버로 가입. 거의 모든 작사, 작곡, 편곡을 담당해, 밴드의 [음악 프로듀서였다](../Page/음악_프로듀서.md "wikilink").
   - [PV](https://ko.wikipedia.org/wiki/PV "wikilink")나, 음악프로그램에서는 [베이스 기타를](../Page/베이스_기타.md "wikilink") 연주했던 적도 있다.
   - 2006년에 에이벡스로 이적했을 때, 멤버에서는 탈퇴했지만, MY LITTLE LOVER의 공식 홈 페이지에서는 고바야시의 프로필이 기재되어 있어 탈퇴 후에도 곡 제공, 어레인지, 프로듀스를 실시하고 있다.
@@ -26,7 +26,7 @@
 
 **후지이 겐지**() - [기타](../Page/기타.md "wikilink")
 
-  - [1969년](../Page/1969년.md "wikilink") [3월 8일](../Page/3월_8일.md "wikilink"), [히로시마현](../Page/히로시마현.md "wikilink") [후쿠야마 시에서](https://ko.wikipedia.org/wiki/후쿠야마_시 "wikilink") 태어남. 2002년에 탈퇴.
+  - [1969년](../Page/1969년.md "wikilink") [3월 8일](../Page/3월_8일.md "wikilink"), [히로시마현](../Page/히로시마현.md "wikilink") [후쿠야마시](../Page/후쿠야마시.md "wikilink")에서 태어남. 2002년에 탈퇴.
   - 작곡을 한 적도 있다.
 
 ## 발자취

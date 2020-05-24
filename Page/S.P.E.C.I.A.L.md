@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [S.P.E.C.I.A.L](https://ko.wikipedia.org/wiki/S.P.E.C.I.A.L).
 
 
-《**S.P.E.C.I.A.L**》는 [1999년](../Page/1999년.md "wikilink") [11월 24일의](../Page/11월_24일.md "wikilink") 발매된 [대한민국](../Page/대한민국.md "wikilink") [여자](https://ko.wikipedia.org/wiki/여자 "wikilink") [그룹](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink") [핑클](../Page/핑클.md "wikilink")의 스페셜 [앨범](../Page/음반.md "wikilink") (2.5집) 이다. 총 13곡의 트랙으로 구성되어 있고, 전체 러닝타임은 50분 10초다.
+《**S.P.E.C.I.A.L**》는 [1999년](../Page/1999년.md "wikilink") [11월 24일의](../Page/11월_24일.md "wikilink") 발매된 [대한민국](../Page/대한민국.md "wikilink") [여자](https://ko.wikipedia.org/wiki/여자 "wikilink") [그룹](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink") [핑클](../Page/핑클.md "wikilink")의 스페셜 [앨범](../Page/음반.md "wikilink") (2.5집)이다. 총 13곡의 트랙으로 구성되어 있고, 전체 러닝타임은 50분 10초다.
 
 ## 설명
 
