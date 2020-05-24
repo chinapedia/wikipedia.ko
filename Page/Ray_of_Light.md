@@ -7,7 +7,7 @@
 
 음반은 평론가들에게 새로운 음악적 방향을 제시했다며 좋은 평가를 받았다. 평론가들은 마돈나의 "가장 모험적인" 음반이라고 말했고, 뿐만 아니라 성숙함, 절제된 자연스러움, 보컬 등에 있어서도 호평을 했다. *Ray of Light*는 [그래미 상](https://ko.wikipedia.org/wiki/그래미_상 "wikilink") 여섯 개 부문에 후보로 올랐고, 이 중 네 개 부문을 수상하며 음악적으로 인정받았다. 상업적으로는 14개 나라에서 1위를 했다. [빌보드 200에서는](../Page/빌보드_200.md "wikilink") 첫 주 371,000만 장을 팔아 2위로 데뷔했다. 세계적으로는 1,600만 장 이상의 판매량을 올렸다.
 
-음반의 싱글로는 히트곡 "[Frozen](https://ko.wikipedia.org/wiki/Frozen "wikilink")"과 "[Ray of Light](https://ko.wikipedia.org/wiki/Ray_of_Light_\(노래\) "wikilink")"를 포함해 총 5장이 발매되었다. 2001년부터는 *Ray of Light*를 홍보하기위한 투어 [Drowned World Tour를](https://ko.wikipedia.org/wiki/Drowned_World_Tour "wikilink") 시작했다. 평론가들과 학자들은 이번 음반이 일렉트로닉 음악을 주류 음악 문화로 인기를 얻는데 도움을 줬다고 영향에 대해 말했다. 또한 당시 [틴 팝](https://ko.wikipedia.org/wiki/틴_팝 "wikilink") 음악이 유행하고 있었음에도 마돈나는 매번 다른 모습을 보여주며 인기를 유지했다고 말했다. 음반은 수 많은 역대 음반 순위와 설문조사 순위에 올랐으며, 대표적으로 《[롤링 스톤](../Page/롤링_스톤.md "wikilink")》이 선정한 "역사상 위대한 음반 500" 순위에 포함되었다.
+음반의 싱글로는 히트곡 "[Frozen](https://ko.wikipedia.org/wiki/Frozen "wikilink")"과 "[Ray of Light](https://ko.wikipedia.org/wiki/Ray_of_Light_\(노래\) "wikilink")"를 포함해 총 5장이 발매되었다. 2001년부터는 *Ray of Light*를 홍보하기위한 투어 [Drowned World Tour를](https://ko.wikipedia.org/wiki/Drowned_World_Tour "wikilink") 시작했다. 평론가들과 학자들은 이번 음반이 일렉트로닉 음악을 주류 음악 문화로 인기를 얻는데 도움을 줬다고 영향에 대해 말했다. 또한 당시 [틴 팝](../Page/틴_팝.md "wikilink") 음악이 유행하고 있었음에도 마돈나는 매번 다른 모습을 보여주며 인기를 유지했다고 말했다. 음반은 수 많은 역대 음반 순위와 설문조사 순위에 올랐으며, 대표적으로 《[롤링 스톤](../Page/롤링_스톤.md "wikilink")》이 선정한 "역사상 위대한 음반 500" 순위에 포함되었다.
 
 ## 수록곡
 

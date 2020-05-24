@@ -7,7 +7,7 @@
 
 SMART-S는 "Signaal Multibeam Acquisition Radar for Tracking, S band"의 약자이다. 네덜란드 [시그널 사](../Page/시그널_사.md "wikilink")(Signaal)는 1990년 프랑스 [탈레스 그룹에](https://ko.wikipedia.org/wiki/탈레스_그룹 "wikilink") [인수합병](https://ko.wikipedia.org/wiki/인수합병 "wikilink")되었다.
 
-탐지거리는 250 km 이며 500개의 공중 목표물을 동시추적할 수 있다. 스텔스 미사일은 60 km, 전투기는 150km, 항공기는 200 km에서 탐지가능하며, 정확도는 5m 이다.
+탐지거리는 250 km이며 500개의 공중 목표물을 동시추적할 수 있다. 스텔스 미사일은 60 km, 전투기는 150km, 항공기는 200 km에서 탐지가능하며, 정확도는 5m이다.
 
 2가지 모드로 운용된다. 27 RPM으로 레이다가 빠르게 회전할 때는 탐지거리가 200 km (100 해리)이다. 13.5 RPM으로 느리게 회전할 때는 250 km (130 해리)의 최대탐지거리를 갖는다.\[1\]
 

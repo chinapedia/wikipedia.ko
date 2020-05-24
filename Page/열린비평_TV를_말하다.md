@@ -11,7 +11,7 @@
 
   - [2011년](../Page/2011년.md "wikilink") [12월 9일](../Page/12월_9일.md "wikilink") \~ 현재 : 토요일 오전 8시 00분
 
-## 함께 보기
+## 같이 보기
 
   - [탐나는 TV](../Page/탐나는_TV.md "wikilink") (MBC)
   - [열린 TV 시청자 세상](../Page/열린_TV_시청자_세상.md "wikilink") (SBS)
@@ -30,4 +30,4 @@
 
   - [열린비평 TV를 말하다 홈페이지](http://tv.chosun.com/culture/opentv/main/main.html)
 
-[분류:TV조선의 시사교양 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:TV조선의_시사교양_텔레비전_프로그램 "wikilink")
+[분류:TV조선의 시사교양 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:TV조선의_시사교양_텔레비전_프로그램 "wikilink") [분류:2011년에 시작한 대한민국 TV 프로그램](https://ko.wikipedia.org/wiki/분류:2011년에_시작한_대한민국_TV_프로그램 "wikilink")

@@ -61,7 +61,7 @@ GeoServer는 [GIS](https://ko.wikipedia.org/wiki/지리정보시스템 "wikilink
 
 GeoServer는 [REST](../Page/REST.md "wikilink") 서비스의 프레임워크로 [Restlet](https://ko.wikipedia.org/wiki/Restlet "wikilink")을 사용한다. 내장된 [Jetty (web server)](https://ko.wikipedia.org/wiki/Jetty_\(web_server\) "wikilink") 내장 서버를 제공하지만, 일반 [servlet container도](https://ko.wikipedia.org/wiki/Java_Servlet#Servlet_containers "wikilink") 지원한다. [TileCache](https://ko.wikipedia.org/wiki/TileCache "wikilink")와 유사한 Java 기반 캐싱 컴포넌트인 [GeoWebCache](https://ko.wikipedia.org/wiki/GeoWebCache "wikilink")가 통합되어 있으나 독립적으로 활용이 가능하다.\[1\]
 
-## 함께보기
+## 같이 보기
 
   - [KML](https://ko.wikipedia.org/wiki/KML "wikilink")
   - [GeoJSON](../Page/GeoJSON.md "wikilink")
@@ -80,6 +80,6 @@ GeoServer는 [REST](../Page/REST.md "wikilink") 서비스의 프레임워크로 
 
 소스코드(GitHub): <https://github.com/geoserver>
 
-[분류:지리정보시스템](https://ko.wikipedia.org/wiki/분류:지리정보시스템 "wikilink") [분류:자유 소프트웨어](https://ko.wikipedia.org/wiki/분류:자유_소프트웨어 "wikilink") [분류:자바로 작성된 자유 소프트웨어](https://ko.wikipedia.org/wiki/분류:자바로_작성된_자유_소프트웨어 "wikilink")
+[분류:지리 정보 시스템](https://ko.wikipedia.org/wiki/분류:지리_정보_시스템 "wikilink") [분류:자유 소프트웨어](https://ko.wikipedia.org/wiki/분류:자유_소프트웨어 "wikilink") [분류:자바로 작성된 자유 소프트웨어](https://ko.wikipedia.org/wiki/분류:자바로_작성된_자유_소프트웨어 "wikilink")
 
 1.

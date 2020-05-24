@@ -37,10 +37,9 @@
 
 <!-- end list -->
 
-  - [현대 유니버스 익스프레스 노블](../Page/현대_유니버스.md "wikilink")
   - [현대 뉴 프리미엄 유니버스 익스프레스 노블](../Page/현대_유니버스.md "wikilink")
 
-## 함께 보기
+## 같이 보기
 
   - [대한항공](https://ko.wikipedia.org/wiki/대한항공 "wikilink")
 

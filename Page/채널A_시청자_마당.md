@@ -46,7 +46,7 @@
   - [문화 톡 TV가 보인다](https://ko.wikipedia.org/wiki/문화_톡_TV가_보인다 "wikilink")
   - [평가원 보고](https://ko.wikipedia.org/wiki/평가원_보고 "wikilink")
 
-## 함께 보기
+## 같이 보기
 
   - [TV비평 시청자데스크](../Page/TV비평_시청자데스크.md "wikilink") (KBS)
   - [탐나는 TV](../Page/탐나는_TV.md "wikilink") (MBC)
@@ -65,4 +65,4 @@
 
   - [채널A 시청자 마당 공식 웹사이트](http://www.ichannela.com/program/template/program_articleList.do?cateCode=0501&subCateCode=050111&pageGubun=broadcasting&pgm_id=WPG2110125D)
 
-[분류:채널A의 시사교양 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:채널A의_시사교양_텔레비전_프로그램 "wikilink")
+[분류:채널A의 시사교양 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:채널A의_시사교양_텔레비전_프로그램 "wikilink") [분류:2011년에 시작한 대한민국 TV 프로그램](https://ko.wikipedia.org/wiki/분류:2011년에_시작한_대한민국_TV_프로그램 "wikilink")

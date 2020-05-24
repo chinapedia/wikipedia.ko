@@ -323,7 +323,7 @@ J리그는 [1993년](../Page/1993년.md "wikilink") [5월 15일](../Page/5월_15
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/후지에다_MYFC.md" title="wikilink">후지에다 MYFC</a></p></td>
-<td><p><a href="../Page/시즈오카현.md" title="wikilink">시즈오카현</a> / <a href="../Page/후지에다시.md" title="wikilink">후지에다시</a>, <a href="../Page/시마다시.md" title="wikilink">시마다시</a>, <a href="../Page/야이즈시.md" title="wikilink">야이즈시</a>, <a href="https://ko.wikipedia.org/wiki/마키노하라시" title="wikilink">마키노하라시</a>, <a href="https://ko.wikipedia.org/wiki/요시다정" title="wikilink">요시다정</a>, <a href="../Page/가와네혼정.md" title="wikilink">가와네혼정</a></p></td>
+<td><p><a href="../Page/시즈오카현.md" title="wikilink">시즈오카현</a> / <a href="../Page/후지에다시.md" title="wikilink">후지에다시</a>, <a href="../Page/시마다시.md" title="wikilink">시마다시</a>, <a href="../Page/야이즈시.md" title="wikilink">야이즈시</a>, <a href="../Page/마키노하라시.md" title="wikilink">마키노하라시</a>, <a href="../Page/요시다정.md" title="wikilink">요시다정</a>, <a href="../Page/가와네혼정.md" title="wikilink">가와네혼정</a></p></td>
 <td><p>2014</p></td>
 <td><p>2013</p></td>
 <td></td>

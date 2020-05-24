@@ -186,7 +186,7 @@
 | [태국 포트](https://ko.wikipedia.org/wiki/태국_포트_FC "wikilink")             | 1 (2009)                         |
 | [촌부리](../Page/촌부리_FC.md "wikilink")                                    | 1 (2010)                         |
 
-## 함께 보기
+## 같이 보기
 
   - [태국 프리미어리그](https://ko.wikipedia.org/wiki/태국_프리미어리그 "wikilink")
 

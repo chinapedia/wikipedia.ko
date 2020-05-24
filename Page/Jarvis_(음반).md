@@ -49,7 +49,7 @@
 
 ## 각주
 
-<references/>
+<references />
 
 [분류:2006년 음반](https://ko.wikipedia.org/wiki/분류:2006년_음반 "wikilink") [분류:2006년 데뷔 음반](https://ko.wikipedia.org/wiki/분류:2006년_데뷔_음반 "wikilink")
 

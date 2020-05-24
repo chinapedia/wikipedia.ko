@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [TRUNCATE \(SQL\)](https://ko.wikipedia.org/wiki/TRUNCATE_\(SQL\)).
 
 
-**TRUNCATE** 또는 **TRUNCATE TABLE** 문은 [테이블에서](https://ko.wikipedia.org/wiki/데이터베이스_테이블 "wikilink") 모든 행을 삭제하는 [데이터 정의 언어](../Page/데이터_정의_언어.md "wikilink")(DDL) 이다. 데이터베이스가 가지고 있는 무결성을 유지하는 메커니즘을 생략하여 빠른 제거를 실현하고 있는 경우가 많다. 삭제할 행 각각을 기록하는 [트랜잭션 로그의](../Page/트랜잭션_로그.md "wikilink") 출력을 방지함으로써 효율적으로 모든 행을 삭제할 수 있다.
+**TRUNCATE** 또는 **TRUNCATE TABLE** 문은 [테이블에서](https://ko.wikipedia.org/wiki/데이터베이스_테이블 "wikilink") 모든 행을 삭제하는 [데이터 정의 언어](../Page/데이터_정의_언어.md "wikilink")(DDL)이다. 데이터베이스가 가지고 있는 무결성을 유지하는 메커니즘을 생략하여 빠른 제거를 실현하고 있는 경우가 많다. 삭제할 행 각각을 기록하는 [트랜잭션 로그의](../Page/트랜잭션_로그.md "wikilink") 출력을 방지함으로써 효율적으로 모든 행을 삭제할 수 있다.
 
 ## TRUNCATE 와 DELETE
 

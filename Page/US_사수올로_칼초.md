@@ -11,7 +11,7 @@
 
 ### 세리에 C
 
-오랜 기간을 하부 리그에서 보내고 결승전에서 [산소비노를](https://ko.wikipedia.org/wiki/AC_산소비노 "wikilink") 격파해 승격을 한 사수올로는 2006년에 [세리에 C1에](https://ko.wikipedia.org/wiki/세리에_C1 "wikilink") 도달했다. 다음해에 사수올로는 2007년 잔 마르코 레몬디아 감독과 함께 시즌 마지막날 [그로세토에게](https://ko.wikipedia.org/wiki/US_그로세토_FC "wikilink") 패하여 승격 직행권을 잃고 플레이오프 준결승전에서 리그 8위였던 [몬차에게](https://ko.wikipedia.org/wiki/AC_몬차 "wikilink") 패하며 [세리에 B로](../Page/세리에_B.md "wikilink") 승격을 아쉽게 놓치며, 세리에 B로 승격할 진지한 후보자임을 증명했다. 레몬디아는 사수올로를 떠나 [피아첸차에](../Page/피아첸차_칼초.md "wikilink") 입단했고, 전 세리에 A 선수 [마시밀리아노 알레그리가](../Page/마시밀리아노_알레그리.md "wikilink") 새 감독으로 선임됐다.
+오랜 기간을 하부 리그에서 보내고 결승전에서 [산소비노를](https://ko.wikipedia.org/wiki/AC_산소비노 "wikilink") 격파해 승격을 한 사수올로는 2006년에 [세리에 C1에](https://ko.wikipedia.org/wiki/세리에_C1 "wikilink") 도달했다. 다음해에 사수올로는 2007년 잔 마르코 레몬디아 감독과 함께 시즌 마지막날 [그로세토에게](https://ko.wikipedia.org/wiki/US_그로세토_FC "wikilink") 패하여 승격 직행권을 잃고 플레이오프 준결승전에서 리그 8위였던 [몬차에게](../Page/AC_몬차.md "wikilink") 패하며 [세리에 B로](../Page/세리에_B.md "wikilink") 승격을 아쉽게 놓치며, 세리에 B로 승격할 진지한 후보자임을 증명했다. 레몬디아는 사수올로를 떠나 [피아첸차에](../Page/피아첸차_칼초.md "wikilink") 입단했고, 전 세리에 A 선수 [마시밀리아노 알레그리가](../Page/마시밀리아노_알레그리.md "wikilink") 새 감독으로 선임됐다.
 
 알레그리의 지휘하에, 사수올로는 세리에 B로 승격을 획득하는 희망을 되찾았고 이는 마침내 2008년 4월 27일 [세리에 C/A를](https://ko.wikipedia.org/wiki/세리에_C1 "wikilink") 우승하며 사실이 되었다. 게다가 클럽 역사상 첫 [세리에 B](../Page/세리에_B.md "wikilink") 승격이었다.\[1\]
 
@@ -43,7 +43,7 @@
 
 ### 1군 선수 명단
 
-''2017년 1월 3일 기준\[11\]\[12\]                   {{클럽팀 선수명단| 번호=27 | 국적=이탈리아 | 포지션=FW | 이름=[페데리코 리치](../Page/페데리코_리치.md "wikilink") <small>([로마에서](../Page/AS_로마.md "wikilink") 임대
+''2017년 1월 3일 기준\[11\]\[12\]
 
 ## 각주
 

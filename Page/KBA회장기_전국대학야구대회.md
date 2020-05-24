@@ -297,7 +297,7 @@
 <tr class="even">
 <td><p>2013</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/동국대학교" title="wikilink">동국대학교</a></p></td>
-<td><p><a href="../Page/강민국.md" title="wikilink">강민국</a>(동국대)</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/강민국_(야구_선수)" title="wikilink">강민국</a>(동국대)</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/홍익대학교" title="wikilink">홍익대학교</a></p></td>
 </tr>
 <tr class="odd">

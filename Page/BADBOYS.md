@@ -71,8 +71,8 @@
 <!-- end list -->
 
   - **단노 히데노리** - [니카이도 타카시](../Page/니카이도_타카시.md "wikilink") ([Kis-My-Ft2](../Page/Kis-My-Ft2.md "wikilink"))
-  - **타카마 카즈토시** - 모리타 뮤토 (쟈니즈 Jr.)
-  - **하라다 카즈나리** - 모로호시 쇼키 (쟈니즈 Jr.)
+  - **타카마 카즈토시** - [모리타 뮤토](https://ko.wikipedia.org/wiki/모리타_뮤토 "wikilink") (쟈니즈 Jr.)
+  - **하라다 카즈나리** - [모로호시 쇼키](https://ko.wikipedia.org/wiki/모로호시_쇼키 "wikilink") (쟈니즈 Jr.)
   - **사쿠라기 유스케** - 야가미 렌
   - **오기** (원 BEAST) - 소마 케이스케
   - **나카이 카오리** - [이타노 토모미](../Page/이타노_토모미.md "wikilink") ([AKB48](../Page/AKB48.md "wikilink"))
@@ -89,7 +89,7 @@
 
   - **히로** - [하시모토 료스케](../Page/하시모토_료스케.md "wikilink") ([A.B.C-Z](../Page/A.B.C-Z.md "wikilink"))
   - **나카가와 켄지로** - [야스이 켄타로](../Page/야스이_켄타로.md "wikilink") (쟈니즈 Jr.)
-  - **후나모토 준** - 하기야 케이고 (쟈니즈 Jr.)
+  - **후나모토 준** - [하기야 케이고](https://ko.wikipedia.org/wiki/하기야_케이고 "wikilink") (쟈니즈 Jr.)
   - **켄죠 쥬리** (원 Nights) - 시메카케 류야 (쟈니즈 Jr.)
   - **사토 에리카** (히로의 여자친구) - [트린들 레이나](../Page/트린들_레이나.md "wikilink")
   - **후지이 미카** (에이지의 여자친구) - [마츠무라 사유리](../Page/마츠무라_사유리.md "wikilink") (노기자카46)
@@ -340,7 +340,7 @@
   - [〈BAD BOYS J〉 닛폰 TV](http://www.ntv.co.jp/bad_boys/)
   - [〈BAD BOYS J〉 닛테레 온 디맨드](https://web.archive.org/web/20140404174204/http://vod.ntv.co.jp/program/bad_boys/)
   - [〈극장판 BAD BOYS J〉 공식 사이트](https://web.archive.org/web/20150428235749/http://bbj-movie.com/)
-  - [주식회사 액시스](http://mediaxis.jp/)
-  - [미디어 두](http://www.mediado.jp/)
+  - [주식회사 액시스](https://web.archive.org/web/20131228090954/http://mediaxis.jp/)
+  - [미디어 두](https://web.archive.org/web/20131228202050/http://www.mediado.jp/)
 
 [분류:일본의 만화](https://ko.wikipedia.org/wiki/분류:일본의_만화 "wikilink") [분류:히로시마현을 배경으로 한 작품](https://ko.wikipedia.org/wiki/분류:히로시마현을_배경으로_한_작품 "wikilink") [분류:폭주족을 소재로 한 작품](https://ko.wikipedia.org/wiki/분류:폭주족을_소재로_한_작품 "wikilink") [분류:히로시마현을 배경으로 한 영화](https://ko.wikipedia.org/wiki/분류:히로시마현을_배경으로_한_영화 "wikilink")

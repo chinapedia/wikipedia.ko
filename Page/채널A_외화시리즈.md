@@ -29,7 +29,7 @@
   - 《[배니티 페어](https://ko.wikipedia.org/wiki/:en:Vanity_Fair_\(2018_TV_series\) "wikilink")》 : 2019년 10월 4일 \~ 2019년 10월 25일 (매주 금요일 2회 연속 방송)
   - 《[월드 온 파이어](https://ko.wikipedia.org/wiki/:en:World_on_Fire_\(TV_series\) "wikilink")》 : 2019년 12월 1일 \~ 2020년 (매주 일요일)
 
-## 함께 보기
+## 같이 보기
 
   - [채널A](../Page/채널A.md "wikilink")
 

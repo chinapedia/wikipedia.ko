@@ -50,4 +50,8 @@
         작사・작곡: 堂島孝平(도지마 코헤이)　편곡: CHOKKAKU
         [KinKi Kids의](https://ko.wikipedia.org/wiki/KinKi_Kids "wikilink") 14번째 싱글
 
+## 외부 링크
+
+  - [Official KinKi Kids website](https://web.archive.org/web/20091125090625/http://www.johnnys-net.jp/j/artists/kinki/)
+
 [분류:2002년 음반](https://ko.wikipedia.org/wiki/분류:2002년_음반 "wikilink") [분류:킨키 키즈의 음반](https://ko.wikipedia.org/wiki/분류:킨키_키즈의_음반 "wikilink")

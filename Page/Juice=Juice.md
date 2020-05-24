@@ -45,7 +45,7 @@
 
 <!-- end list -->
 
-  - 6월 26일, 하로프로 연수생의 [단바라 루루가](../Page/단바라_루루.md "wikilink") 신멤버로 가입, [컨트리걸즈](../Page/컨트리걸즈.md "wikilink")의 [야나가와 나나미가](../Page/야나가와_나나미.md "wikilink") 컨트리걸즈 겸임\[6\].
+  - 6월 26일, 하로프로 연수생의 [단바라 루루가](../Page/단바라_루루.md "wikilink") 신멤버로 가입, [컨트리걸즈](../Page/컨트리걸즈.md "wikilink")의 [야나가와 나나미가](../Page/야나가와_나나미.md "wikilink") Juice=Juice에 이적해, 컨트리걸즈 겸임\[6\].
 
 <!-- end list -->
 
@@ -76,6 +76,7 @@
 
   - 2월 10일, 미야모토 카린이 6월을 기해 Juice=Juice와 헬로\! 프로젝트를 졸업을 발표하였다\[11\]. 졸업 후에도 연예 활동을 계속하게 된다.
   - 4월 1일, 전 [코부시팩토리](../Page/코부시팩토리.md "wikilink")의 [이노우에 레이가](../Page/이노우에_레이.md "wikilink") 신멤버로 가입\[12\].
+  - 4월 21일, 6월 3일에 졸업 예정인 미야모토 카린이 [신종 코로나바이러스](https://ko.wikipedia.org/wiki/2019년_신종_코로나바이러스 "wikilink") 감염 우려로 인해 졸업 일자가 정기되었다\[13\].
 
 ## 구성원
 
@@ -291,7 +292,7 @@
   - We are Juice=Juice (2013년 10월 3일 \~ , [bayfm](https://ko.wikipedia.org/wiki/베이FM "wikilink"))
   - 폭야\~BAKUNAI (2015년 4월 3일 \~ , [RF라디오닛폰](../Page/RF라디오닛폰.md "wikilink") 사회: 카나자와 토모코)
   - HELLO\! DRIVE\! -하로드라-(2016년 10월 3일 \~ , [라디오 네오](https://ko.wikipedia.org/wiki/라디오_네오 "wikilink") 사회: 미야모토 카린)
-  - IMAREAL「Juice=Juice 이나바 마나카의 마나리아루」\[13\](2018년 6월 21일 \~ 2019년 3월 26일, [FM 홋카이도](../Page/FM_홋카이도.md "wikilink") 사회: 이나바 마나카)
+  - IMAREAL「Juice=Juice 이나바 마나카의 마나리아루」\[14\](2018년 6월 21일 \~ 2019년 3월 26일, [FM 홋카이도](../Page/FM_홋카이도.md "wikilink") 사회: 이나바 마나카)
   - IMAREAL「Juice=Juice 이나바 마나카의 manakan Palette Box」(2019년 4월 4일 \~ , FM 홋카이도 사회: 이나바 마나카)
   - 아키나의 주간 영 프라이데이 (2019년 10월 4일 \~ , [MBS 라디오](../Page/마이니치_방송.md "wikilink") 사회: 우에무라 아카리)
   - 카나자와 토모코의 Vivid Midnight (2019년 10월 5일 \~ , [NACK5](https://ko.wikipedia.org/wiki/FM_넥파이브 "wikilink") 사회: 카나자와 토모코)
@@ -328,10 +329,10 @@
   - Juice=Juice LIVE TOUR 2019 \~Con Amor J=J DAY SPECIAL\~ (2019년 10월 10일, 마이나비 BLITZ 아카사카)
   - Juice=Juice Concert 2019 \~octopic\!\~ (2019년 12월 4일, [국립 요요기 제일 체육관](../Page/국립_요요기_경기장.md "wikilink"))
       - 국내 23곳의 극장에서 라이브 뷰잉을 실시
-  - Juice=Juice LIVE TOUR 2020 \~NEW SENSATION\~ (2020년 2월 3일 \~ 7월 14일, 4개 도시 9회 공연)\[14\]\[15\]\[16\]\[17\]\[18\]\[19\]
-  - Juice=Juice CONCERT TOUR 2020 \~팝 · 쥬스 · 쟈니\~ (공연 중지, 일자 미정)\[20\]\[21\]\[22\]
-  - Juice=Juice CONCERT TOUR 2020 \~팝 · 쥬스 · 쟈니\~ FINAL (2020년 6월 2일, 도쿄 커튼 시어터)
-  - Juice=Juice CONCERT TOUR 2020 \~팝 · 쥬스 · 쟈니\~ FINAL 미야모토 카린 졸업 스페셜 (2020년 6월 3일, 도쿄 커튼 시어터)
+  - Juice=Juice LIVE TOUR 2020 \~NEW SENSATION\~ (2020년 2월 3일 \~ 7월 14일, 3개 도시 7회 공연)\[15\]\[16\]\[17\]\[18\]\[19\]\[20\]\[21\]
+  - Juice=Juice CONCERT TOUR 2020 \~팝 · 쥬스 · 쟈니\~ (공연 중지, 일자 미정)\[22\]\[23\]\[24\]
+  - Juice=Juice CONCERT TOUR 2020 \~팝 · 쥬스 · 쟈니\~ FINAL (2020년 공연 중지, 일자 미정, 도쿄 커튼 시어터)\[25\]
+  - Juice=Juice CONCERT TOUR 2020 \~팝 · 쥬스 · 쟈니\~ FINAL 미야모토 카린 졸업 스페셜 (공연 중지, 일자 미정, 도쿄 커튼 시어터)\[26\]\[27\]
 
 ### 합동 라이브 · 콘서트
 
@@ -394,6 +395,7 @@
   - 미야자키 유카 2nd 솔로 사진집「繋」(2019년 5월 22일, 오딧세이 출판)
   - 타카기 사유키 1st 솔로 사진집「紗友希」(2019년 8월 9일, 오딧세이 출판)
   - 카나자와 토모코 포토북「\#いいね三芳町」(2019년 10월 22일, 오딧세이 출판)
+  - 미야모토 카린 Juice=Juice 졸업 사진집「RIN」(2020년 5월 20일, 와니북스)
 
 ## 각주
 
@@ -435,13 +437,18 @@
 10. [Juice=Juice 신멤버 결정\!](http://www.helloproject.com/news/10541/)
 11. [Juice=Juice 미야모토 카린의 졸업에 관한 소식](http://www.helloproject.com/news/11718/)
 12.
-13. 2017년 10월 10일부터《이나바 마나카의 마나리아루》였으나, 그룹을 가입한 후 타이틀이 변경되었다.
-14. [신종 코로나바이러스](https://ko.wikipedia.org/wiki/2019년_신종_코로나바이러스 "wikilink") 감염 우려로 인해 2월 29일의 기치조지 · 3월 1일의 지바 · 7일의 니가타 · 8일의 사이타마 · 28일의 나라 · 29일의 교토 · 4월 11일의 오카야마 · 12일의 야마구치 · 18일 · 19일의 요코하마 · 5월 7일의 지바 (정기) · 10일의 홋카이도 · 6월 26일의 지바 (정기) 공연이 중지되었다. 그 중 일부는 정기 공연으로 실행될 예정이다.
-15. [라이브 하우스 공연의 개최 중지의 소식](http://www.helloproject.com/news/11796/)
-16. [콘서트 투어, 라이브 하우스 공연, 디너쇼, 정기 공연의 개최 중지의 소식](http://www.helloproject.com/news/11845/)
-17. [신종 코로나바이러스 감염 확대에 따른 중지 및 대체 공연 공지](http://www.helloproject.com/news/11903/)
-18. [콘서트 투어, 라이브 하우스 공연의 개최 중지의 소식](http://www.helloproject.com/news/11930/)
-19. [콘서트 투어, 라이브 하우스 공연의 개최 중지 및 일반 발매 중지의 소식](http://www.helloproject.com/news/11960/)
-20. [신종 코로나바이러스](https://ko.wikipedia.org/wiki/2019년_신종_코로나바이러스 "wikilink") 감염 우려로 인해 4월 25일 · 26일 · 5월 3일 · 4일 · 16일 · 23일 · 31일의 공연이 중지되었다.
-21.
-22.
+13. [Juice=Juice 미야모토 카린, 안주루무 후나기 무스부의 졸업 정기에 관해](http://www.helloproject.com/news/11977/)
+14. 2017년 10월 10일부터《이나바 마나카의 마나리아루》였으나, 그룹을 가입한 후 타이틀이 변경되었다.
+15. [신종 코로나바이러스](https://ko.wikipedia.org/wiki/2019년_신종_코로나바이러스 "wikilink") 감염 우려로 인해 2월 29일의 기치조지 · 3월 1일의 지바 · 7일의 니가타 · 8일의 사이타마 · 28일의 나라 · 29일의 교토 · 4월 11일의 오카야마 · 12일의 야마구치 · 18일 · 19일의 요코하마 · 5월 7일의 지바 (정기) · 10일의 홋카이도 · 6월 20일의 나라 (정기) · 26일의 지바 (정기) 공연이 중지되었다. 그 중 일부는 정기 공연으로 실행될 예정이다.
+16. [라이브 하우스 공연의 개최 중지의 소식](http://www.helloproject.com/news/11796/)
+17. [콘서트 투어, 라이브 하우스 공연, 디너쇼, 정기 공연의 개최 중지의 소식](http://www.helloproject.com/news/11845/)
+18. [신종 코로나바이러스 감염 확대에 따른 중지 및 대체 공연 공지](http://www.helloproject.com/news/11903/)
+19. [콘서트 투어, 라이브 하우스 공연의 개최 중지의 소식](http://www.helloproject.com/news/11930/)
+20. [콘서트 투어, 라이브 하우스 공연의 개최 중지 및 일반 발매 중지의 소식](http://www.helloproject.com/news/11960/)
+21. [콘서트 투어, 라이브 하우스 공연의 개최 중지의 소식 (2020년 4월 21일)](http://www.helloproject.com/news/11976/)
+22. [신종 코로나바이러스](https://ko.wikipedia.org/wiki/2019년_신종_코로나바이러스 "wikilink") 감염 우려로 인해 4월 25일 · 26일 · 5월 3일 · 4일 · 16일 · 23일 · 31일의 공연이 중지되었다.
+23.
+24.
+25. [신종 코로나바이러스](https://ko.wikipedia.org/wiki/2019년_신종_코로나바이러스 "wikilink") 감염 우려로 인해 6월 2일의 공연이 중지되었다.
+26. [신종 코로나바이러스](https://ko.wikipedia.org/wiki/2019년_신종_코로나바이러스 "wikilink") 감염 우려로 인해 6월 3일의 공연이 중지되었다.
+27.
