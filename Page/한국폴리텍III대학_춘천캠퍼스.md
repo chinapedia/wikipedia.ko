@@ -71,7 +71,7 @@
 </tbody>
 </table>
 
-## 함께 보기
+## 같이 보기
 
   - [한국폴리텍III대학](https://ko.wikipedia.org/wiki/한국폴리텍III대학 "wikilink")
   - [한국폴리텍III대학 원주캠퍼스](https://ko.wikipedia.org/wiki/한국폴리텍III대학_원주캠퍼스 "wikilink")

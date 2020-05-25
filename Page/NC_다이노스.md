@@ -348,7 +348,7 @@ NC 다이노스의 마스코트는 [단디](https://ko.wikipedia.org/wiki/단디
 </tr>
 <tr class="odd">
 <td><p>2014[43][44]</p></td>
-<td><p><a href="../Page/강민국.md" title="wikilink">강민국</a></p></td>
+<td><p><a href="../Page/강민국_(야구_선수).md" title="wikilink">강민국</a></p></td>
 <td><p>1순위 <a href="../Page/배재환.md" title="wikilink">배재환</a>, 2순위 <a href="../Page/박광열.md" title="wikilink">박광열</a>, 3순위 <a href="../Page/이지우_(야구_선수).md" title="wikilink">이지우</a>,<br />
 4순위 <a href="../Page/김태진_(1995년).md" title="wikilink">김태진</a>, 5순위 <a href="../Page/홍지운.md" title="wikilink">홍지운</a>, 6순위 <a href="https://ko.wikipedia.org/wiki/이찬우_(야구_선수)" title="wikilink">이찬우</a>,<br />
 7순위 <a href="../Page/정성민_(야구_선수).md" title="wikilink">정성민</a>, 8순위 <a href="https://ko.wikipedia.org/wiki/장민호_(야구_선수)" title="wikilink">장민호</a>, 9순위 <a href="../Page/구황.md" title="wikilink">구황</a>, 10순위 <a href="../Page/김학성_(야구_선수).md" title="wikilink">김학성</a></p></td>
@@ -379,13 +379,13 @@ NC 다이노스의 마스코트는 [단디](https://ko.wikipedia.org/wiki/단디
 <td><p><a href="../Page/김시훈.md" title="wikilink">김시훈</a></p></td>
 <td><p>|1순위 <a href="https://ko.wikipedia.org/wiki/김형준_(야구_선수)" title="wikilink">김형준</a>, 2순위 <a href="../Page/오영수_(야구_선수).md" title="wikilink">오영수</a>, 3순위 <a href="../Page/김철호_(야구_선수).md" title="wikilink">김철호</a>,<br />
 4순위 <a href="../Page/김재균_(야구_선수).md" title="wikilink">김재균</a>, 5순위 <a href="https://ko.wikipedia.org/wiki/신민혁_(야구_선수)" title="wikilink">신민혁</a>, 6순위 <a href="https://ko.wikipedia.org/wiki/공수빈_(야구_선수)" title="wikilink">공수빈</a>,<br />
-7순위 <a href="https://ko.wikipedia.org/wiki/최보성_(야구_선수)" title="wikilink">최보성</a>, 8순위 <a href="https://ko.wikipedia.org/wiki/김영규_(야구_선수)" title="wikilink">김영규</a>, 9순위 <a href="https://ko.wikipedia.org/wiki/이승헌_(야구_선수)" title="wikilink">이승헌</a>, 10순위 <a href="../Page/이인혁.md" title="wikilink">이인혁</a></p></td>
+7순위 <a href="https://ko.wikipedia.org/wiki/최보성_(야구_선수)" title="wikilink">최보성</a>, 8순위 <a href="../Page/김영규_(야구_선수).md" title="wikilink">김영규</a>, 9순위 <a href="https://ko.wikipedia.org/wiki/이승헌_(야구_선수)" title="wikilink">이승헌</a>, 10순위 <a href="../Page/이인혁.md" title="wikilink">이인혁</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2019</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/박수현_(야구_선수)" title="wikilink">박수현</a></p></td>
 <td><p>|1순위 <a href="https://ko.wikipedia.org/wiki/송명기_(야구_선수)" title="wikilink">송명기</a>, 2순위 <a href="https://ko.wikipedia.org/wiki/전사민_(야구_선수)" title="wikilink">전사민</a>, 3순위 <a href="https://ko.wikipedia.org/wiki/최재익_(야구_선수)" title="wikilink">최재익</a>,<br />
-4순위 <a href="https://ko.wikipedia.org/wiki/배민서" title="wikilink">배민서</a>, 5순위 <a href="https://ko.wikipedia.org/wiki/김범준_(야구_선수)" title="wikilink">김범준</a>, 6순위 <a href="https://ko.wikipedia.org/wiki/하준수_(야구_선수)" title="wikilink">하준수</a>,<br />
+4순위 <a href="../Page/배민서.md" title="wikilink">배민서</a>, 5순위 <a href="https://ko.wikipedia.org/wiki/김범준_(야구_선수)" title="wikilink">김범준</a>, 6순위 <a href="https://ko.wikipedia.org/wiki/하준수_(야구_선수)" title="wikilink">하준수</a>,<br />
 7순위 <a href="https://ko.wikipedia.org/wiki/최정원_(야구_선수)" title="wikilink">최정원</a>, 8순위 <a href="https://ko.wikipedia.org/wiki/박지한_(야구_선수)" title="wikilink">박지한</a>, 9순위 <a href="https://ko.wikipedia.org/wiki/서호철_(야구_선수)" title="wikilink">서호철</a>, 10순위 <a href="https://ko.wikipedia.org/wiki/노시훈_(야구_선수)" title="wikilink">노시훈</a></p></td>
 </tr>
 <tr class="odd">
@@ -1040,7 +1040,7 @@ NC 다이노스의 마스코트는 [단디](https://ko.wikipedia.org/wiki/단디
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="../Page/마산종합운동장_야구장.md" title="wikilink">마산야구장</a></p></td>
+<td><p><a href="../Page/마산종합운동장_야구장.md" title="wikilink">마산종합운동장 야구장</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/이성민" title="wikilink">이성민</a></p></td>
 <td><p><a href="../Page/박종윤_(1982년).md" title="wikilink">박종윤</a></p></td>
 <td><p><a href="../Page/2013년.md" title="wikilink">2013년</a> <a href="../Page/4월_2일.md" title="wikilink">4월 2일</a></p></td>
@@ -1175,7 +1175,7 @@ NC 다이노스의 마스코트는 [단디](https://ko.wikipedia.org/wiki/단디
 <td><p>2013</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/찰리_쉬렉" title="wikilink">찰리 쉬렉</a></p></td>
 <td><p>2.48</p></td>
-<td><p>평균자책점 1위</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>승률</p></td>
@@ -1201,12 +1201,15 @@ NC 다이노스의 마스코트는 [단디](https://ko.wikipedia.org/wiki/단디
 <tr class="even">
 <td><p>완봉</p></td>
 <td><p>2013<br />
-2014</p></td>
+2014<br />
+2019<br />
+2019</p></td>
 <td><p><a href="../Page/이재학_(야구_선수).md" title="wikilink">이재학</a><br />
-<a href="https://ko.wikipedia.org/wiki/찰리_쉬렉" title="wikilink">찰리 쉬렉</a></p></td>
+<a href="https://ko.wikipedia.org/wiki/찰리_쉬렉" title="wikilink">찰리 쉬렉</a><br />
+<a href="../Page/크리스천_프리드릭.md" title="wikilink">크리스천 프리드릭</a><br />
+<a href="../Page/김영규_(야구_선수).md" title="wikilink">김영규</a></p></td>
 <td><p>1회</p></td>
-<td><p><br />
-노히트노런</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>퀄리티스타트</p></td>
@@ -1217,32 +1220,32 @@ NC 다이노스의 마스코트는 [단디](https://ko.wikipedia.org/wiki/단디
 </tr>
 <tr class="even">
 <td><p>패전</p></td>
-<td><p>2013</p></td>
-<td><p><a href="../Page/에릭_해커.md" title="wikilink">에릭 해커</a></p></td>
-<td><p>11</p></td>
+<td><p>2018</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/이재학" title="wikilink">이재학</a></p></td>
+<td><p>13</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>세이브</p></td>
-<td><p>2015</p></td>
-<td><p><a href="../Page/임창민.md" title="wikilink">임창민</a></p></td>
+<td><p>2015<br />
+</p></td>
+<td><p><a href="../Page/임창민.md" title="wikilink">임창민</a><br />
+<a href="../Page/원종현.md" title="wikilink">원종현</a></p></td>
 <td><p>31</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>블론세이브</p></td>
-<td><p>2016</p></td>
-<td><p><a href="../Page/김진성.md" title="wikilink">김진성</a></p></td>
-<td><p>6</p></td>
+<td><p>2019</p></td>
+<td><p><a href="../Page/원종현.md" title="wikilink">원종현</a></p></td>
+<td><p>9</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>피홈런</p></td>
-<td><p>2014<br />
-2016</p></td>
-<td><p><a href="../Page/이민호_(1993년_8월).md" title="wikilink">이민호</a><br />
-<a href="https://ko.wikipedia.org/wiki/이재학" title="wikilink">이재학</a></p></td>
-<td><p>19</p></td>
+<td><p>2018</p></td>
+<td><p><a href="../Page/로건_베렛.md" title="wikilink">로건 베렛</a></p></td>
+<td><p>24</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1254,9 +1257,9 @@ NC 다이노스의 마스코트는 [단디](https://ko.wikipedia.org/wiki/단디
 </tr>
 <tr class="odd">
 <td><p>홀드</p></td>
-<td><p>2016</p></td>
+<td><p>2017</p></td>
 <td><p><a href="../Page/원종현.md" title="wikilink">원종현</a></p></td>
-<td><p>17</p></td>
+<td><p>22</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1269,7 +1272,7 @@ NC 다이노스의 마스코트는 [단디](https://ko.wikipedia.org/wiki/단디
 <tr class="odd">
 <td><p>볼넷</p></td>
 <td><p>2014</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/이재학" title="wikilink">이재학</a></p></td>
+<td><p><a href="../Page/이재학_(야구_선수).md" title="wikilink">이재학</a></p></td>
 <td><p>68</p></td>
 <td></td>
 </tr>
@@ -1282,9 +1285,9 @@ NC 다이노스의 마스코트는 [단디](https://ko.wikipedia.org/wiki/단디
 </tr>
 <tr class="odd">
 <td><p>폭투</p></td>
-<td><p>2016</p></td>
-<td><p><a href="../Page/장현식.md" title="wikilink">장현식</a></p></td>
-<td><p>13</p></td>
+<td><p>2018</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/구창모" title="wikilink">구창모</a></p></td>
+<td><p>16</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1324,8 +1327,10 @@ NC 다이노스의 마스코트는 [단디](https://ko.wikipedia.org/wiki/단디
 </tr>
 <tr class="odd">
 <td><p>2루타</p></td>
-<td><p>2015</p></td>
-<td><p><a href="../Page/에릭_테임즈.md" title="wikilink">에릭 테임즈</a></p></td>
+<td><p>2015<br />
+2017</p></td>
+<td><p><a href="../Page/에릭_테임즈.md" title="wikilink">에릭 테임즈</a><br />
+<a href="../Page/나성범.md" title="wikilink">나성범</a></p></td>
 <td><p>42</p></td>
 <td></td>
 </tr>
@@ -1352,9 +1357,9 @@ NC 다이노스의 마스코트는 [단디](https://ko.wikipedia.org/wiki/단디
 </tr>
 <tr class="odd">
 <td><p>삼진</p></td>
-<td><p>2016</p></td>
-<td><p><a href="../Page/나성범.md" title="wikilink">나성범</a></p></td>
-<td><p>136</p></td>
+<td><p>2018</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/스크럭스" title="wikilink">스크럭스</a></p></td>
+<td><p>144</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1366,9 +1371,9 @@ NC 다이노스의 마스코트는 [단디](https://ko.wikipedia.org/wiki/단디
 </tr>
 <tr class="odd">
 <td><p>사구</p></td>
-<td><p>2013</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/김종호" title="wikilink">김종호</a></p></td>
-<td><p>17</p></td>
+<td><p>2017</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/김태군" title="wikilink">김태군</a></p></td>
+<td><p>22</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1441,59 +1446,63 @@ NC 다이노스의 마스코트는 [단디](https://ko.wikipedia.org/wiki/단디
 <tr class="odd">
 <td><p>최다출장(투수)</p></td>
 <td><p>2013 ~</p></td>
-<td><p><a href="../Page/임창민.md" title="wikilink">임창민</a></p></td>
-<td><p>221</p></td>
+<td><p><a href="../Page/김진성.md" title="wikilink">김진성</a></p></td>
+<td><p>380</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>평균자책점</p></td>
-<td><p>2013 ~ 2015</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/찰리_쉬렉" title="wikilink">찰리 쉬렉</a></p></td>
-<td><p>3.44</p></td>
+<td><p>2013 ~ 2017</p></td>
+<td><p><a href="../Page/에릭_해커.md" title="wikilink">에릭 해커</a></p></td>
+<td><p>3.67</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>다승</p></td>
-<td><p>2013 ~ 2017</p></td>
-<td><p><a href="../Page/에릭_해커.md" title="wikilink">에릭 해커</a></p></td>
-<td><p>44</p></td>
+<td><p>2013 ~</p></td>
+<td><p><a href="../Page/이재학_(야구_선수).md" title="wikilink">이재학</a></p></td>
+<td><p>63</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>완투</p></td>
 <td><p>2013 ~ 2017</p></td>
 <td><p><a href="../Page/에릭_해커.md" title="wikilink">에릭 해커</a></p></td>
-<td><p>5</p></td>
+<td><p>6</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>완봉</p></td>
 <td><p>2013 ~<br />
-2013 ~ 2015</p></td>
+2013 ~ 2015<br />
+2019<br />
+2018 ~</p></td>
 <td><p><a href="../Page/이재학_(야구_선수).md" title="wikilink">이재학</a><br />
-<a href="https://ko.wikipedia.org/wiki/찰리_쉬렉" title="wikilink">찰리 쉬렉</a></p></td>
+<a href="https://ko.wikipedia.org/wiki/찰리_쉬렉" title="wikilink">찰리 쉬렉</a><br />
+<a href="../Page/크리스천_프리드릭.md" title="wikilink">크리스천 프리드릭</a><br />
+<a href="../Page/김영규_(야구_선수).md" title="wikilink">김영규</a></p></td>
 <td><p>1</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>패전</p></td>
-<td><p>2013 ~ 2017</p></td>
-<td><p><a href="../Page/에릭_해커.md" title="wikilink">에릭 해커</a></p></td>
-<td><p>27</p></td>
+<td><p>2013 ~</p></td>
+<td><p><a href="../Page/이재학_(야구_선수).md" title="wikilink">이재학</a></p></td>
+<td><p>51</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>세이브</p></td>
 <td><p>2013 ~</p></td>
 <td><p><a href="../Page/임창민.md" title="wikilink">임창민</a></p></td>
-<td><p>62</p></td>
+<td><p>94</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>블론세이브</p></td>
 <td><p>2013 ~</p></td>
-<td><p><a href="../Page/임창민.md" title="wikilink">임창민</a></p></td>
-<td><p>9</p></td>
+<td><p><a href="../Page/원종현.md" title="wikilink">원종현</a></p></td>
+<td><p>17</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1507,49 +1516,49 @@ NC 다이노스의 마스코트는 [단디](https://ko.wikipedia.org/wiki/단디
 <td><p>홀드</p></td>
 <td><p>2013 ~</p></td>
 <td><p><a href="../Page/원종현.md" title="wikilink">원종현</a></p></td>
-<td><p>28</p></td>
+<td><p>67</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>이닝</p></td>
-<td><p>2013 ~2017</p></td>
-<td><p><a href="../Page/에릭_해커.md" title="wikilink">에릭 해커</a></p></td>
-<td><p>695 2/3</p></td>
+<td><p>2013 ~</p></td>
+<td><p><a href="../Page/이재학_(야구_선수).md" title="wikilink">이재학</a></p></td>
+<td><p>989</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>볼넷</p></td>
 <td><p>2013 ~</p></td>
 <td><p><a href="../Page/이재학_(야구_선수).md" title="wikilink">이재학</a></p></td>
-<td><p>239</p></td>
+<td><p>385</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>사구</p></td>
 <td><p>2013 ~ 2017</p></td>
 <td><p><a href="../Page/에릭_해커.md" title="wikilink">에릭 해커</a></p></td>
-<td><p>66</p></td>
+<td><p>85</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>피홈런</p></td>
 <td><p>2013 ~</p></td>
 <td><p><a href="../Page/이재학_(야구_선수).md" title="wikilink">이재학</a></p></td>
-<td><p>64</p></td>
+<td><p>108</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>최다출장(타자)</p></td>
 <td><p>2013 ~</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/이호준_(야구_선수)" title="wikilink">이호준</a></p></td>
-<td><p>379</p></td>
-<td><p>-</p></td>
+<td><p><a href="../Page/나성범.md" title="wikilink">나성범</a></p></td>
+<td><p>807</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>타수</p></td>
 <td><p>2013 ~</p></td>
 <td><p><a href="../Page/나성범.md" title="wikilink">나성범</a></p></td>
-<td><p>2017</p></td>
+<td><p>3164</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1561,44 +1570,44 @@ NC 다이노스의 마스코트는 [단디](https://ko.wikipedia.org/wiki/단디
 </tr>
 <tr class="even">
 <td><p>홈런</p></td>
-<td><p>2014 ~ 2016</p></td>
-<td><p><a href="../Page/에릭_테임즈.md" title="wikilink">에릭 테임즈</a></p></td>
-<td><p>124</p></td>
+<td><p>2013 ~</p></td>
+<td><p><a href="../Page/나성범.md" title="wikilink">나성범</a></p></td>
+<td><p>145</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>타점</p></td>
 <td><p>2013 ~</p></td>
 <td><p><a href="../Page/나성범.md" title="wikilink">나성범</a></p></td>
-<td><p>413</p></td>
+<td><p>617</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>득점</p></td>
 <td><p>2013 ~</p></td>
 <td><p><a href="../Page/나성범.md" title="wikilink">나성범</a></p></td>
-<td><p>371</p></td>
+<td><p>603</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>안타</p></td>
 <td><p>2013 ~</p></td>
 <td><p><a href="../Page/나성범.md" title="wikilink">나성범</a></p></td>
-<td><p>616</p></td>
+<td><p>1000</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2루타</p></td>
 <td><p>2013 ~</p></td>
 <td><p><a href="../Page/나성범.md" title="wikilink">나성범</a></p></td>
-<td><p>117</p></td>
+<td><p>207</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>3루타</p></td>
 <td><p>2013 ~</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/박민우" title="wikilink">박민우</a></p></td>
-<td><p>21</p></td>
+<td><p>38</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1618,50 +1627,71 @@ NC 다이노스의 마스코트는 [단디](https://ko.wikipedia.org/wiki/단디
 <tr class="even">
 <td><p>볼넷</p></td>
 <td><p>2013 ~</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/이호준_(야구_선수)" title="wikilink">이호준</a></p></td>
-<td><p>253</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/박민우" title="wikilink">박민우</a></p></td>
+<td><p>308</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>사구</p></td>
 <td><p>2013 ~</p></td>
 <td><p><a href="../Page/나성범.md" title="wikilink">나성범</a></p></td>
-<td><p>54</p></td>
+<td><p>82</p></td>
 <td></td>
 </tr>
 <tr class="even">
+<td><p>고의사구</p></td>
+<td><p>2013 ~</p></td>
+<td><p><a href="../Page/나성범.md" title="wikilink">나성범</a></p></td>
+<td><p>22</p></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p>삼진</p></td>
 <td><p>2013 ~</p></td>
 <td><p><a href="../Page/나성범.md" title="wikilink">나성범</a></p></td>
-<td><p>486</p></td>
+<td><p>759</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>도루</p></td>
 <td><p>2013 ~</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/김종호" title="wikilink">김종호</a></p></td>
-<td><p>126</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>도루실패</p></td>
-<td><p>2013 ~</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/김종호" title="wikilink">김종호</a></p></td>
-<td><p>37</p></td>
+<td><p><a href="../Page/박민우_(야구_선수).md" title="wikilink">박민우</a></p></td>
+<td><p>171</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>병살타</p></td>
+<td><p>도루실패</p></td>
 <td><p>2013 ~</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/이호준_(야구_선수)" title="wikilink">이호준</a></p></td>
-<td><p>50</p></td>
+<td><p><a href="../Page/박민우_(야구_선수).md" title="wikilink">박민우</a></p></td>
+<td><p>47</p></td>
 <td></td>
 </tr>
 <tr class="even">
+<td><p>병살타</p></td>
+<td><p>2016 ~</p></td>
+<td><p><a href="../Page/박석민.md" title="wikilink">박석민</a></p></td>
+<td><p>63</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>희생번트</p></td>
+<td><p>2013 ~</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/김태군" title="wikilink">김태군</a></p></td>
+<td><p>69</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>희생플라이</p></td>
+<td><p>2013 ~</p></td>
+<td><p><a href="../Page/모창민.md" title="wikilink">모창민</a></p></td>
+<td><p>35</p></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p>실책</p></td>
 <td><p>2013 ~</p></td>
-<td><p><a href="../Page/지석훈.md" title="wikilink">지석훈</a></p></td>
-<td><p>36</p></td>
+<td><p><a href="../Page/박민우_(야구_선수).md" title="wikilink">박민우</a></p></td>
+<td><p>62</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -1671,12 +1701,13 @@ NC 다이노스의 마스코트는 [단디](https://ko.wikipedia.org/wiki/단디
 
 ### 팀 기록
 
-|      |              |    |                                          |          |                                            |                                            |                    |
-| ---- | ------------ | -- | ---------------------------------------- | -------- | ------------------------------------------ | ------------------------------------------ | ------------------ |
-| 승    | 날짜           | 장소 | 상대팀                                      | 경기 결과    | 결승타                                        | 승리 투수                                      | 기타                 |
-| 1승   | 2013\. 4. 11 | 잠실 | [LG 트윈스](../Page/LG_트윈스.md "wikilink")   | 7 - 1 승  | [차화준](../Page/차화준_\(1986년\).md "wikilink") | [이재학](../Page/이재학_\(야구_선수\).md "wikilink") | 8경기 1승 7패          |
-| 100승 | 2014\. 7. 24 | 대전 | [한화 이글스](../Page/한화_이글스.md "wikilink")   | 23 - 9 승 | [테임즈](../Page/에릭_테임즈.md "wikilink")        | [손정욱](../Page/손정욱.md "wikilink")           | 209경기 100승 4무 105패 |
-| 200승 | 2015\. 9. 20 | 마산 | [키움 히어로즈](../Page/키움_히어로즈.md "wikilink") | 9 - 3 승  | [나성범](../Page/나성범.md "wikilink")           | [해커](../Page/에릭_해커.md "wikilink")          | 388경기 200승 7무 181패 |
+|      |              |                                         |                                          |          |                                            |                                            |                    |
+| ---- | ------------ | --------------------------------------- | ---------------------------------------- | -------- | ------------------------------------------ | ------------------------------------------ | ------------------ |
+| 승    | 날짜           | 장소                                      | 상대팀                                      | 경기 결과    | 결승타                                        | 승리 투수                                      | 기타                 |
+| 1승   | 2013\. 4. 11 | [잠실](../Page/서울종합운동장_야구장.md "wikilink") | [LG 트윈스](../Page/LG_트윈스.md "wikilink")   | 7 - 1 승  | [차화준](../Page/차화준_\(1986년\).md "wikilink") | [이재학](../Page/이재학_\(야구_선수\).md "wikilink") | 8경기 1승 7패          |
+| 100승 | 2014\. 7. 24 | [대전](../Page/한밭종합운동장_야구장.md "wikilink") | [한화 이글스](../Page/한화_이글스.md "wikilink")   | 23 - 9 승 | [테임즈](../Page/에릭_테임즈.md "wikilink")        | [손정욱](../Page/손정욱.md "wikilink")           | 209경기 100승 4무 105패 |
+| 200승 | 2015\. 9. 20 | [마산](../Page/마산종합운동장_야구장.md "wikilink") | [넥센 히어로즈](../Page/키움_히어로즈.md "wikilink") | 9 - 3 승  | [나성범](../Page/나성범.md "wikilink")           | [해커](../Page/에릭_해커.md "wikilink")          | 388경기 200승 7무 181패 |
+|      |              |                                         |                                          |          |                                            |                                            |                    |
 
 ## 관중 집계
 
@@ -1971,13 +2002,17 @@ NC 다이노스의 공식 응원단은 [랠리 다이노스로](https://ko.wikip
   - [2015년](../Page/2015년_NC_다이노스_시즌.md "wikilink") : 거침없이 가자\! - 전력질주
   - [2016년](../Page/2016년_NC_다이노스_시즌.md "wikilink") : 거침없이 가자\! - 행진
 
-## 응원단
+### 응원단
 
-아나운서 : 이규래(2019)
+  - 아나운서 : 이규래(2019)
 
-응원단장 : [이범형](https://ko.wikipedia.org/wiki/이범형 "wikilink")
+<!-- end list -->
 
-치어리더 : 정유민, 이주희, 안지은, 도정은, 박아람, 주민영, 박혜린, 이유미
+  - 응원단장 : 이범형
+
+<!-- end list -->
+
+  - 치어리더 : 정유민, 이주희, 안지은, 도정은, 박아람, 주민영, 박혜린, 이유미
 
 ## 스폰서
 
@@ -2173,7 +2208,7 @@ NC 다이노스의 공식 응원단은 [랠리 다이노스로](https://ko.wikip
 
   - [창원 다이노스](../Page/창원_다이노스.md "wikilink") : [2015년](https://ko.wikipedia.org/wiki/2015년_퓨처스_리그 "wikilink") [퓨처스 리그부터](../Page/KBO_퓨처스리그.md "wikilink") 참가하는 NC 다이노스 [2군](../Page/KBO_퓨처스리그.md "wikilink") 팀이다.
 
-## 함께 보기
+## 같이 보기
 
   - [NC 소프트](https://ko.wikipedia.org/wiki/NC_소프트 "wikilink")
   - [롯데 자이언츠](../Page/롯데_자이언츠.md "wikilink")

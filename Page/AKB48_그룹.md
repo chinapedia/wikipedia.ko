@@ -105,14 +105,14 @@
 <td><p>연꽃</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/CGM48" title="wikilink">CGM48</a></p></td>
+<td><p><a href="../Page/CGM48.md" title="wikilink">CGM48</a></p></td>
 <td><p>2019년 10월 -</p></td>
 <td></td>
 <td><p><a href="../Page/치앙마이.md" title="wikilink">치앙마이</a></p></td>
 <td><p>청록</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/DEL48" title="wikilink">DEL48</a></p></td>
+<td><p><a href="../Page/DEL48.md" title="wikilink">DEL48</a></p></td>
 <td><p>2019년 12월 -</p></td>
 <td></td>
 <td><p><a href="../Page/델리.md" title="wikilink">델리</a></p></td>
@@ -199,7 +199,7 @@
 
 <!-- end list -->
 
-  - [MUM48](https://ko.wikipedia.org/wiki/MUM48 "wikilink") - 인도 뭄바이를 거점으로 하는 그룹으로서 2017년 12월 27일에 결성이 발표되었지만\[2\], 2018년 7월 이후 SNS의 갱신이 끊기고 그 후 공식 사이트 폐쇄됐다. 2019년 6월 DEL48과 MUB48의 결성 발표에 따른 기자 회견에서 운영 회사와의 라이센스 계약이 2018년 11월 해지되면서 기획은 백지화 된 것으로 공표되었다\[3\]\[4\].
+  - [MUM48](../Page/MUM48.md "wikilink") - 인도 뭄바이를 거점으로 하는 그룹으로서 2017년 12월 27일에 결성이 발표되었지만\[2\], 2018년 7월 이후 SNS의 갱신이 끊기고 그 후 공식 사이트 폐쇄됐다. 2019년 6월 DEL48과 MUB48의 결성 발표에 따른 기자 회견에서 운영 회사와의 라이센스 계약이 2018년 11월 해지되면서 기획은 백지화 된 것으로 공표되었다\[3\]\[4\].
 
 ### AKB48 그룹의 위치
 

@@ -22,8 +22,8 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/2009년.md" title="wikilink">2009년</a> <a href="../Page/4월_8일.md" title="wikilink">4월 8일</a> ~ 2009년 <a href="../Page/7월_5일.md" title="wikilink">7월 5일</a></p></td>
-<td><p>평일 낮 1시 ~ 1시 15분 (15분)<br />
-주말 낮 1시 ~ 1시 10분 (10분)</p></td>
+<td><p>평일 오후 1시 ~ 1시 15분 (15분)<br />
+주말 오후 1시 ~ 1시 10분 (10분)</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -77,7 +77,7 @@
 
 ## 앵커
 
-  - [김준호](https://ko.wikipedia.org/wiki/김준호_\(아나운서\) "wikilink") : OBS 아나운서
+  - [유진영](https://ko.wikipedia.org/wiki/유진영_\(아나운서\) "wikilink") : OBS 아나운서
 
 ## 관련 항목
 

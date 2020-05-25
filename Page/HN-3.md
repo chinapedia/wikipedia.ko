@@ -3,7 +3,7 @@
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:H-6.jpg "wikilink") 폭격기에 HN-3을 장착할 수 있다. HN-3의 개량형인 [CJ-10](../Page/CJ-10.md "wikilink")은 6발을 장착할 수 있다\]\] **HN-3**은 중국의 장거리 순항미사일이다. 2002년 부터 실전배치되었으며, Tu-16의 중국 라이선스 버전 [H-6](https://ko.wikipedia.org/wiki/H-6 "wikilink") 폭격기와 지상 발사대에서 발사된다.
 
-40 에서 100 m 상공으로 저고도 비행하며, 속도는 마하 0.8 이다. [관성항법](https://ko.wikipedia.org/wiki/관성항법 "wikilink"), [TERCOM](../Page/TERCOM.md "wikilink")으로 유도한다.
+40 에서 100 m 상공으로 저고도 비행하며, 속도는 마하 0.8이다. [관성항법](https://ko.wikipedia.org/wiki/관성항법 "wikilink"), [TERCOM](../Page/TERCOM.md "wikilink")으로 유도한다.
 
 러시아의 [Kh-65](https://ko.wikipedia.org/wiki/Kh-65 "wikilink") 순항미사일을 확대개량했다. HN-3은 [Kh-55](../Page/Kh-55.md "wikilink"), HN-1, HN-2과 동일한 R95-300 터보팬 엔진을 사용한다. HN-3은 이전 버전들보다 크며, 일부 소식통은 Kh-65 보다도 크다고 말한다.
 
@@ -29,15 +29,15 @@ HN-1A는 1988년에 최초발사해 1996년 실전배치되었다. 폭격기 발
 
 ### HN-2
 
-HN-1이 [터보제트](https://ko.wikipedia.org/wiki/터보제트 "wikilink") 엔진을 사용한 것에 비해, HN-2, HN-3은 [Kh-55](../Page/Kh-55.md "wikilink"), [RK-55](../Page/RK-55.md "wikilink")의 TRDD-50 [터보팬](../Page/터보팬.md "wikilink") 엔진을 사용한다. 엔진을 교체하여 사거리가 대폭 늘어났다. 지상형 HN-2A, 구축함용 HN-2B의 사거리는 1,800 km, 잠수함용 HN-2C는 1,400 km 이다.
+HN-1이 [터보제트](https://ko.wikipedia.org/wiki/터보제트 "wikilink") 엔진을 사용한 것에 비해, HN-2, HN-3은 [Kh-55](../Page/Kh-55.md "wikilink"), [RK-55](../Page/RK-55.md "wikilink")의 TRDD-50 [터보팬](../Page/터보팬.md "wikilink") 엔진을 사용한다. 엔진을 교체하여 사거리가 대폭 늘어났다. 지상형 HN-2A, 구축함용 HN-2B의 사거리는 1,800 km, 잠수함용 HN-2C는 1,400 km이다.
 
 직경이 기존의 0.5 m에서 0.7 m로 늘어나 잠수함의 533 mm 어뢰관에서 발사할 수 없다. 무게 1,400 kg, 정확도 5 m CEP이다.
 
-핵탄두 탑재 버전인 [DH-10](../Page/DH-10.md "wikilink") ([CJ-10](../Page/CJ-10.md "wikilink"))는 HN-2를 기반으로 개발되어서, 사거리 1,500 - 2,000 km 이다. HN-2와 DH-10은 2002년에 실전배치되었다. 2010년 미국은 핵탄두 탑재 버전인 DH-10 미사일이 200-500발 정도 실전배치된 것으로 추정한다.
+핵탄두 탑재 버전인 [DH-10](../Page/DH-10.md "wikilink") ([CJ-10](../Page/CJ-10.md "wikilink"))는 HN-2를 기반으로 개발되어서, 사거리 1,500 - 2,000 km이다. HN-2와 DH-10은 2002년에 실전배치되었다. 2010년 미국은 핵탄두 탑재 버전인 DH-10 미사일이 200-500발 정도 실전배치된 것으로 추정한다.
 
 ### HN-3
 
-HN-3A는 지상형, 구축함용 버전으로 최대사거리 3,000 km, 잠수함용 HN-3B는 2,200 km 이다. 직경이 기존의 0.5 m에서 0.7 m로 늘어났으며, 무게가 기존의 1,400 kg에서 1,800 kg으로 늘어났다. 정확도 5 m CEP는 HN-2와 같다. 1999년 최초발사해, 2007년 실전배치되었다.
+HN-3A는 지상형, 구축함용 버전으로 최대사거리 3,000 km, 잠수함용 HN-3B는 2,200 km이다. 직경이 기존의 0.5 m에서 0.7 m로 늘어났으며, 무게가 기존의 1,400 kg에서 1,800 kg으로 늘어났다. 정확도 5 m CEP는 HN-2와 같다. 1999년 최초발사해, 2007년 실전배치되었다.
 
 ## 사거리
 

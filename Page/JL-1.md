@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [JL-1](https://ko.wikipedia.org/wiki/JL-1).
 
 
-**JL-1** 또는 **쥐랑 1호**는 [중국](../Page/중국.md "wikilink") 최초의 잠수함 발사형 탄도 미사일([SLBM](https://ko.wikipedia.org/wiki/SLBM "wikilink"))이다. 초기형인 JL-1은 사거리 1,700 km, 개량형인 JL-1A는 사거리 2,500 km 이다.
+**JL-1** 또는 **쥐랑 1호**는 [중국](../Page/중국.md "wikilink") 최초의 잠수함 발사형 탄도 미사일([SLBM](https://ko.wikipedia.org/wiki/SLBM "wikilink"))이다. 초기형인 JL-1은 사거리 1,700 km, 개량형인 JL-1A는 사거리 2,500 km이다.
 
 ## 역사
 

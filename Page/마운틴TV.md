@@ -9,7 +9,7 @@
 
   - 위성방송 : KTskylife (123번)
   - IPTV : KT Olleh (127번), LG U+ (129번), SK Btv (247번)
-  - 케이블TV : LG헬로TV (257번), 티브로드 (149번), 딜라이브 (128번), 현대 HCN (523번), 남인천방송 (334번), ABN아름방송 (554번), CCS충북방송 (163번, SD 97번), KCTV광주방송 (187번), 금강방송 (785번), 푸른방송 (192번), 하나방송 (89번), 서경방송 (74번), JCN울산중앙방송 (153번), CMB방송 (81-3) [채널번호 안내](http://www.mountaintv.co.kr/web_kor/cate03/page01.php)
+  - 케이블TV : LG헬로TV (257번), BTV 케이블 (149번), 딜라이브 (128번), 현대 HCN (523번), 남인천방송 (334번), ABN아름방송 (554번), CCS충북방송 (163번, SD 97번), KCTV광주방송 (187번), 금강방송 (785번), 푸른방송 (192번), 하나방송 (89번), 서경방송 (74번), JCN울산중앙방송 (153번), CMB방송 (81-3) [채널번호 안내](http://www.mountaintv.co.kr/web_kor/cate03/page01.php)
   - 실시간TV (Web/Mobile) : [현대HCN](http://www.hcnmobile.tv/main/index.etv?mCate=all&sCate=all&chNum=337)
 
 그 외 컴시너지, GBUS, 얍TV, 연합뉴스와 업무제휴를 맺어 경기, 서울버스와 KTX 경부선ㆍ호남선, 서울\~인천국제공항 구간을 잇는 공항철도 등에서도 송출되고 있다.

@@ -468,7 +468,7 @@
 </tbody>
 </table>
 
-## 함께 보기
+## 같이 보기
 
   - [NBA 올스타전](../Page/NBA_올스타전.md "wikilink")
   - [NBA G 리그 올스타전](../Page/NBA_G_리그_올스타전.md "wikilink")

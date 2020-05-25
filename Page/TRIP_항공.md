@@ -20,7 +20,7 @@
 
 ## 각주
 
-<references/>
+<references />
 
 ## 사진
 

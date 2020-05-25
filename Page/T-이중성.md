@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [T-이중성](https://ko.wikipedia.org/wiki/T-이중성).
 
 
-[섬네일은](https://ko.wikipedia.org/wiki/파일:Dualität.svg "wikilink") 서로 다른 것처럼 보이는 [초끈 이론들을](../Page/초끈_이론.md "wikilink") 서로 연관짓는다. T-이중성에 따라, ⅡA형과 ⅡB형 초끈 이론이 서로 동형이고, E<sub>8</sub>×E<sub>8</sub> [잡종 끈 이론과](../Page/잡종_끈_이론.md "wikilink") SO(32) [잡종 끈 이론이](../Page/잡종_끈_이론.md "wikilink") 서로 동형이다.\]\] [끈 이론에서](../Page/끈_이론.md "wikilink"), **T-이중성**(T-二重性, ) 또는 **과녁 공간 이중성**()은 서로 다른 두 [시공간](https://ko.wikipedia.org/wiki/시공간 "wikilink") (과녁 공간) 위의 [끈 이론이](../Page/끈_이론.md "wikilink") 서로 같은 현상이다.\[1\]\[2\]\[3\]\[4\] 대략, 끈의 길이보다 아주 작은 [차원](../Page/차원.md "wikilink")은 끈의 길이보다 아주 큰 차원과 동등하다. 따라서, [끈 이론에서의](../Page/끈_이론.md "wikilink") 시공간은 [점입자](../Page/점입자.md "wikilink") 이론에서의 시공간과 근본적으로 다르고, 매우 짧은 길이와 매우 긴 길이에 대한 차이가 사라진다.
+[섬네일은](https://ko.wikipedia.org/wiki/파일:Dualität.svg "wikilink") 서로 다른 것처럼 보이는 [초끈 이론들을](../Page/초끈_이론.md "wikilink") 서로 연관짓는다. T-이중성에 따라, ⅡA형과 ⅡB형 초끈 이론이 서로 동형이고, E<sub>8</sub>×E<sub>8</sub> [잡종 끈 이론과](../Page/잡종_끈_이론.md "wikilink") SO(32) [잡종 끈 이론이](../Page/잡종_끈_이론.md "wikilink") 서로 동형이다.\]\] [끈 이론에서](../Page/끈_이론.md "wikilink"), **T-이중성**(T-二重性, ) 또는 **과녁 공간 이중성**()은 서로 다른 두 [시공간](../Page/시공간.md "wikilink") (과녁 공간) 위의 [끈 이론이](../Page/끈_이론.md "wikilink") 서로 같은 현상이다.\[1\]\[2\]\[3\]\[4\] 대략, 끈의 길이보다 아주 작은 [차원](../Page/차원.md "wikilink")은 끈의 길이보다 아주 큰 차원과 동등하다. 따라서, [끈 이론에서의](../Page/끈_이론.md "wikilink") 시공간은 [점입자](../Page/점입자.md "wikilink") 이론에서의 시공간과 근본적으로 다르고, 매우 짧은 길이와 매우 긴 길이에 대한 차이가 사라진다.
 
 ## 정의
 

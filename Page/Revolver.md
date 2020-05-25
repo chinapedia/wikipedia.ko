@@ -21,7 +21,7 @@
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Beatles_and_George_Martin_in_studio_1966.JPG "wikilink") 비틀즈는 EMI 런던 소재 [애비 로드 스튜디오](../Page/애비_로드_스튜디오.md "wikilink") 대신 더욱 현대적인 시설에서 작업하기를 원했고, 엡스타인을 1966년 3월에 [멤피스로](https://ko.wikipedia.org/wiki/멤피스_\(테네시_주\) "wikilink") 보내 [스택스 스튜디오에서의](https://ko.wikipedia.org/wiki/스택스_스튜디오 "wikilink") 녹음 가능성을 타진했다. 두 달 뒤 해리슨은 편지를 쓰면서 비틀즈와 스택스 전속 프로듀서 [짐 스테와트와의](https://ko.wikipedia.org/wiki/짐_스테와트 "wikilink") 합작을 고려하고 있었다.\[6\] 그러나 현지에서 스택스 건물이 외면 받으면서 이 구상은 폐기 되었고, 더불어 대체 계획이던 런던 소재 [아틀랜틱 스튜디오](https://ko.wikipedia.org/wiki/아틀랜틱_스튜디오 "wikilink") 및 디트로이트 소재 [모타운](../Page/모타운.md "wikilink") 설비의 활용도 폐기 되었다.
 
-음반 녹음은 1966년 4월 6일에 EMI 제3 스튜디오에서 개시 되었으며, [조지 마틴이](../Page/조지_마틴.md "wikilink") 다시 프로듀서를 수행했다. 첫 트랙은 〈[Tomorrow Never Knows](../Page/Tomorrow_Never_Knows.md "wikilink")〉로 내정되어 있었다. 곡의 편곡은 당일의 초기 테이크와 향후의 리테이크간에 상당한 격차가 있다.\[7\] 〈Tomorrow Never Knows〉의 첫 테이크와 함께 여러 다른 아웃테이크가 음반 세션에서 제작 되었으며,\[8\] 1996년 컴필레이션 《[Anthology 2](https://ko.wikipedia.org/wiki/Anthology_2 "wikilink")》에 수록된다. 《Revolver》 세션 도중에 〈[Paperback Writer](../Page/Paperback_Writer.md "wikilink")〉와 〈[Rain](../Page/Rain_\(비틀즈의_노래\).md "wikilink")〉이 녹음되었고. 5월 말 음반 미수록곡으로써 싱글 발매되었다.
+음반 녹음은 1966년 4월 6일에 EMI 제3 스튜디오에서 개시 되었으며, [조지 마틴이](../Page/조지_마틴.md "wikilink") 다시 프로듀서를 수행했다. 첫 트랙은 〈[Tomorrow Never Knows](../Page/Tomorrow_Never_Knows.md "wikilink")〉로 내정되어 있었다. 곡의 편곡은 당일의 초기 테이크와 향후의 리테이크간에 상당한 격차가 있다.\[7\] 〈Tomorrow Never Knows〉의 첫 테이크와 함께 여러 다른 아웃테이크가 음반 세션에서 제작 되었으며,\[8\] 1996년 컴필레이션 《[Anthology 2](../Page/Anthology_2.md "wikilink")》에 수록된다. 《Revolver》 세션 도중에 〈[Paperback Writer](../Page/Paperback_Writer.md "wikilink")〉와 〈[Rain](../Page/Rain_\(비틀즈의_노래\).md "wikilink")〉이 녹음되었고. 5월 말 음반 미수록곡으로써 싱글 발매되었다.
 
 
 
@@ -113,6 +113,6 @@
 4.
 5.
 6.
-7.  Liner notes by Mark Lewisohn (1996). *[Anthology 2](https://ko.wikipedia.org/wiki/Anthology_2 "wikilink")* CD booklet. [Apple Records](https://ko.wikipedia.org/wiki/Apple_Records "wikilink"). pp. 18–19.
+7.  Liner notes by Mark Lewisohn (1996). *[Anthology 2](../Page/Anthology_2.md "wikilink")* CD booklet. [Apple Records](https://ko.wikipedia.org/wiki/Apple_Records "wikilink"). pp. 18–19.
 8.
 9.

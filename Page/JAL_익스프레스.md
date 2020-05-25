@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [JAL 익스프레스](https://ko.wikipedia.org/wiki/JAL_익스프레스).
 
 
-**JAL 익스프레스**(, )는 [오사카 이타미 국제공항을](../Page/오사카_국제공항.md "wikilink") [허브 공항으로](../Page/허브_공항.md "wikilink") 하는 [지역 항공사이자](https://ko.wikipedia.org/wiki/지역_항공사 "wikilink") [일본항공의](../Page/일본항공_\(지주회사\).md "wikilink") 자회사로 본사는 [오사카부](../Page/오사카부.md "wikilink") [이케다 시에](https://ko.wikipedia.org/wiki/이케다_시 "wikilink") 위치해 있다.
+**JAL 익스프레스**(, )는 [오사카 이타미 국제공항을](../Page/오사카_국제공항.md "wikilink") [허브 공항으로](../Page/허브_공항.md "wikilink") 하는 [지역 항공사이자](https://ko.wikipedia.org/wiki/지역_항공사 "wikilink") [일본항공의](../Page/일본항공_\(지주회사\).md "wikilink") 자회사로 본사는 [오사카부](../Page/오사카부.md "wikilink") [이케다시](../Page/이케다시.md "wikilink")에 위치해 있다.
 
 ## 역사
 

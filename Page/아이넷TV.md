@@ -192,7 +192,7 @@
   - [스카이라이프](https://ko.wikipedia.org/wiki/스카이라이프 "wikilink") - 99번
   - [B TV](../Page/B_TV.md "wikilink") - 253번
   - [LG U+](https://ko.wikipedia.org/wiki/LG_U+ "wikilink") - 150번
-  - [티브로드](../Page/티브로드.md "wikilink") - 88번
+  - [SK브로드밴드](../Page/SK브로드밴드.md "wikilink") - 88번
   - [HCN](https://ko.wikipedia.org/wiki/HCN "wikilink") - 48번
   - [LG헬로비전](../Page/LG헬로비전.md "wikilink") - 99번
   - [딜라이브](../Page/딜라이브.md "wikilink") - 88번

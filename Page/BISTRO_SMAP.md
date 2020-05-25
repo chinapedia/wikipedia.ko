@@ -31,7 +31,7 @@
 
 <references/>
 
-## 함께 보기
+## 같이 보기
 
   - [SMAP×SMAP](../Page/SMAP×SMAP.md "wikilink")
 

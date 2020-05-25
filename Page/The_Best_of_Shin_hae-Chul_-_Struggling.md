@@ -21,7 +21,7 @@
 
 ## 인용
 
-<references/>
+<references />
 
 [분류:신해철의 음반](https://ko.wikipedia.org/wiki/분류:신해철의_음반 "wikilink") [분류:한국어 음반](https://ko.wikipedia.org/wiki/분류:한국어_음반 "wikilink") [분류:대한민국의 음반](https://ko.wikipedia.org/wiki/분류:대한민국의_음반 "wikilink") [분류:베스트 음반](https://ko.wikipedia.org/wiki/분류:베스트_음반 "wikilink") [분류:2002년 컴필레이션 음반](https://ko.wikipedia.org/wiki/분류:2002년_컴필레이션_음반 "wikilink")
 

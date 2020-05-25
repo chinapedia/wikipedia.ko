@@ -73,7 +73,8 @@
 #### [2020년](../Page/2020년.md "wikilink")
 
   - 《[머니게임](https://ko.wikipedia.org/wiki/머니게임_\(드라마\) "wikilink")》 : [2020년](../Page/2020년.md "wikilink") [1월 15일](../Page/1월_15일.md "wikilink") \~ [2020년](../Page/2020년.md "wikilink") [3월 5일](../Page/3월_5일.md "wikilink")
-  - 《[메모리스트](https://ko.wikipedia.org/wiki/메모리스트_\(드라마\) "wikilink")》 : [2020년](../Page/2020년.md "wikilink") [3월 11일](../Page/3월_11일.md "wikilink") \~ **현재**
+  - 《[메모리스트](https://ko.wikipedia.org/wiki/메모리스트_\(드라마\) "wikilink")》 : [2020년](../Page/2020년.md "wikilink") [3월 11일](../Page/3월_11일.md "wikilink") \~ [2020년](../Page/2020년.md "wikilink")[4월 30일](../Page/4월_30일.md "wikilink")
+  - 《[오마이베이비](https://ko.wikipedia.org/wiki/오마이베이비 "wikilink")》:[2020년](../Page/2020년.md "wikilink") [5월13일](https://ko.wikipedia.org/wiki/5월13일 "wikilink")\~**현재**
 
 ## 목요드라마
 
@@ -98,7 +99,7 @@
 
   - 《[슬기로운 의사생활](https://ko.wikipedia.org/wiki/슬기로운_의사생활 "wikilink")》 : [2020년](../Page/2020년.md "wikilink") [3월 12일](../Page/3월_12일.md "wikilink") \~ **현재**
 
-## 함께 보기
+## 같이 보기
 
   - [tvN 월화드라마](https://ko.wikipedia.org/wiki/tvN_월화드라마 "wikilink")
   - [tvN 금토드라마](https://ko.wikipedia.org/wiki/tvN_금토드라마 "wikilink")

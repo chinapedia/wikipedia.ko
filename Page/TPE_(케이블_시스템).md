@@ -9,10 +9,10 @@
 
 케이블 연결 지점은 다음과 같다.
 
-1.  [중화인민공화국](../Page/중화인민공화국.md "wikilink") [상하이 시](https://ko.wikipedia.org/wiki/상하이_시 "wikilink") [충밍 현](https://ko.wikipedia.org/wiki/충밍_현 "wikilink")
-2.  중화인민공화국 [산둥 성](https://ko.wikipedia.org/wiki/산둥_성 "wikilink") [칭다오 시](https://ko.wikipedia.org/wiki/칭다오_시 "wikilink")
-3.  [중화민국](../Page/중화민국.md "wikilink") [타이완 성](https://ko.wikipedia.org/wiki/타이완_성 "wikilink") [단수이 구](https://ko.wikipedia.org/wiki/단수이_구 "wikilink")
-4.  [일본](../Page/일본.md "wikilink") [치바 현](https://ko.wikipedia.org/wiki/치바_현 "wikilink") [미나미보소 시](https://ko.wikipedia.org/wiki/미나미보소_시 "wikilink") (구 [마루야마 정](https://ko.wikipedia.org/wiki/마루야마_정 "wikilink"))
+1.  [중화인민공화국](../Page/중화인민공화국.md "wikilink") [상하이시](../Page/상하이시.md "wikilink") [충밍 현](https://ko.wikipedia.org/wiki/충밍_현 "wikilink")
+2.  중화인민공화국 [산둥성](../Page/산둥성.md "wikilink") [칭다오 시](https://ko.wikipedia.org/wiki/칭다오_시 "wikilink")
+3.  [중화민국](../Page/중화민국.md "wikilink") [타이완성](../Page/타이완성.md "wikilink") [단수이 구](https://ko.wikipedia.org/wiki/단수이_구 "wikilink")
+4.  [일본](../Page/일본.md "wikilink") [지바현](../Page/지바현.md "wikilink") [미나미보소시](../Page/미나미보소시.md "wikilink") (구 [마루야마 정](https://ko.wikipedia.org/wiki/마루야마_정 "wikilink"))
 5.  [대한민국](../Page/대한민국.md "wikilink") [경상남도](https://ko.wikipedia.org/wiki/경상남도 "wikilink") [거제시](https://ko.wikipedia.org/wiki/거제시 "wikilink")
 6.  [미국](../Page/미국.md "wikilink") [오리건주](../Page/오리건주.md "wikilink")
 

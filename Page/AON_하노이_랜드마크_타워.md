@@ -7,7 +7,7 @@
 
 [2007년](../Page/2007년.md "wikilink") [경남기업](../Page/경남기업.md "wikilink")이 하노이 시의 복합 문화단지 건설의 일환으로 착공하였으며, 이후 [2011년](../Page/2011년.md "wikilink") 완공하여 그동안 베트남의 최고층 빌딩이었던 [호찌민 시의](https://ko.wikipedia.org/wiki/호찌민_시 "wikilink") [비텍스코 파이낸셜 타워를](https://ko.wikipedia.org/wiki/금융_타워_\(호찌민_시\) "wikilink") 제치고 베트남 최고층 빌딩의 자리에 올라섰다.
 
-그러나 [경남기업](../Page/경남기업.md "wikilink")의 여러 사태로 매각되어 2016년 4월 29일 에이오엔비지엔에 100% 인수 되었다.
+그러나 [경남기업](../Page/경남기업.md "wikilink")의 여러 사태로 매각되어 2016년 4월 29일 구조조정전문기업으로 알려진 [에이오엔비지엔](https://ko.wikipedia.org/wiki/에이오엔비지엔 "wikilink")(AON BGN)에 100% 인수 되었다.
 
 ## 칼리다스
 

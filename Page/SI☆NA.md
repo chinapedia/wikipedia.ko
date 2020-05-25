@@ -44,7 +44,7 @@
   - [4월 12일](../Page/4월_12일.md "wikilink"), 하로프로칸사이로서 활동하고 있던 4명에 의해 결성.
   - [5월 6일](../Page/5월_6일.md "wikilink"), 이 날 오모테산도 FAB로 개최된「HAPPY\! STYLE 1st Communication Circuit 001」으로 [HAPPY\! STYLE에](https://ko.wikipedia.org/wiki/HAPPY!_STYLE "wikilink") 첫 참가.
   - [9월](../Page/9월.md "wikilink"),「제87회 전국 고등학교 축구 선수권 대회」오사카 대학교회의 고교생 리포터「NANIWA 스파이크 걸즈」에 아베, 스마, 나카야마가 참가.
-  - [12월 13일](../Page/12월_13일.md "wikilink"), 첫 라이브 공연「TANOSINA STAGE 2008 Vol.1」을 [오사카 시내에서](https://ko.wikipedia.org/wiki/오사카_시 "wikilink") 개최. 이후, 2010년까지 7회 개최된다.
+  - [12월 13일](../Page/12월_13일.md "wikilink"), 첫 라이브 공연「TANOSINA STAGE 2008 Vol.1」을 [오사카시](../Page/오사카시.md "wikilink")내에서 개최. 이후, 2010년까지 7회 개최된다.
 
 <!-- end list -->
 

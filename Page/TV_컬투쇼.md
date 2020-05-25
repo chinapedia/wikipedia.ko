@@ -20,4 +20,4 @@
   - [SBS 파워FM 두시탈출 컬투쇼 홈페이지](http://programs.sbs.co.kr/radio/cultwoshow)
   - [SBS E\! TV 컬투쇼 홈페이지](http://etv.sbs.co.kr/tvcultwoshow/)
 
-[분류:대한민국의 텔레비전 버라이어티 쇼](https://ko.wikipedia.org/wiki/분류:대한민국의_텔레비전_버라이어티_쇼 "wikilink") [분류:SBS FunE의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:SBS_FunE의_텔레비전_프로그램 "wikilink") [분류:2010년대 대한민국의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:2010년대_대한민국의_텔레비전_프로그램 "wikilink")
+[분류:대한민국의 텔레비전 버라이어티 쇼](https://ko.wikipedia.org/wiki/분류:대한민국의_텔레비전_버라이어티_쇼 "wikilink") [분류:SBS FunE의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:SBS_FunE의_텔레비전_프로그램 "wikilink") [분류:2010년대 대한민국의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:2010년대_대한민국의_텔레비전_프로그램 "wikilink") [분류:2009년에 시작한 대한민국 TV 프로그램](https://ko.wikipedia.org/wiki/분류:2009년에_시작한_대한민국_TV_프로그램 "wikilink") [분류:2012년에 종료한 대한민국 TV 프로그램](https://ko.wikipedia.org/wiki/분류:2012년에_종료한_대한민국_TV_프로그램 "wikilink")

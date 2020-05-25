@@ -16,7 +16,7 @@
       - Siphoviridae
   - [헤르페스바이러스목](https://ko.wikipedia.org/wiki/헤르페스바이러스목 "wikilink") (Herpesvirales)
       - Alloherpesviridae
-      - [헤르페스바이러스과](https://ko.wikipedia.org/wiki/헤르페스바이러스과 "wikilink") (Herpesviridae)
+      - [헤르페스바이러스과](../Page/헤르페스바이러스과.md "wikilink") (Herpesviridae)
       - Malacoherpesviridae
   - Ligamenvirales
       - Lipothrixviridae

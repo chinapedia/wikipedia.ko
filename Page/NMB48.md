@@ -3056,8 +3056,8 @@ YRCS-95084</p></td>
   - [AKB48 Team SH](../Page/AKB48_Team_SH.md "wikilink")
   - [AKB48 Team TP](../Page/AKB48_Team_TP.md "wikilink")
   - [SGO48](../Page/SGO48.md "wikilink")
-  - [CGM48](https://ko.wikipedia.org/wiki/CGM48 "wikilink")
-  - [DEL48](https://ko.wikipedia.org/wiki/DEL48 "wikilink")
+  - [CGM48](../Page/CGM48.md "wikilink")
+  - [DEL48](../Page/DEL48.md "wikilink")
   - [MUB48](../Page/MUB48.md "wikilink")
 
 ## 각주

@@ -307,9 +307,9 @@
 #### 2019년
 
   - 《[스캔들 전문 변호사 QUEEN](https://ko.wikipedia.org/wiki/스캔들_전문_변호사_QUEEN "wikilink")》 (주연 : [다케우치 유코](../Page/다케우치_유코.md "wikilink"))
-  - 《[스트로베리 나이트 사가](../Page/스트로베리_나이트_\(드라마\).md "wikilink")》 (주연 : [니카이도 후미](../Page/니카이도_후미.md "wikilink"), [카메나시 카즈야](../Page/카메나시_카즈야.md "wikilink"))　
+  - 《[스트로베리 나이트 사가](../Page/스트로베리_나이트_\(드라마\).md "wikilink")》 (주연 : [니카이도 후미](../Page/니카이도_후미.md "wikilink"), [카메나시 카즈야](../Page/카메나시_카즈야.md "wikilink"))
   - 《[루팡의 딸](https://ko.wikipedia.org/wiki/루팡의_딸 "wikilink")》 (주연 : 후카다 쿄코)
-  - 《[모토카레 매니아](https://ko.wikipedia.org/wiki/모토카레_매니아 "wikilink")》 (주연 : [아라키 유코](../Page/아라키_유코.md "wikilink"), [코라 켄고](../Page/코라_켄고.md "wikilink"))　
+  - 《[모토카레 매니아](https://ko.wikipedia.org/wiki/모토카레_매니아 "wikilink")》 (주연 : [아라키 유코](../Page/아라키_유코.md "wikilink"), [코라 켄고](../Page/코라_켄고.md "wikilink"))
 
 ### 2020년대 전반
 
@@ -513,7 +513,7 @@
 
 ## 각주
 
-## 함께 보기
+## 같이 보기
 
   - [후지 TV 월요일 밤 9시 드라마](../Page/후지_TV_월요일_밤_9시_드라마.md "wikilink")
   - [후지 TV 화요일 밤 9시 드라마](../Page/후지_TV_화요일_밤_9시_드라마.md "wikilink")

@@ -21,7 +21,7 @@
 
   - [공식 홈페이지](https://web.archive.org/web/20101225091114/http://dejobaan.com/aaaaa/)
 
-[분류:2009년 비디오 게임](https://ko.wikipedia.org/wiki/분류:2009년_비디오_게임 "wikilink") [분류:SF 게임](https://ko.wikipedia.org/wiki/분류:SF_게임 "wikilink") [분류:미국의 비디오 게임](https://ko.wikipedia.org/wiki/분류:미국의_비디오_게임 "wikilink") [분류:윈도우 게임](https://ko.wikipedia.org/wiki/분류:윈도우_게임 "wikilink") [분류:시뮬레이션 게임](https://ko.wikipedia.org/wiki/분류:시뮬레이션_게임 "wikilink") [분류:긴 낱말](https://ko.wikipedia.org/wiki/분류:긴_낱말 "wikilink") [분류:안드로이드 게임](https://ko.wikipedia.org/wiki/분류:안드로이드_게임 "wikilink") [분류:IOS 게임](https://ko.wikipedia.org/wiki/분류:IOS_게임 "wikilink") [분류:보스턴을 배경으로 한 비디오 게임](https://ko.wikipedia.org/wiki/분류:보스턴을_배경으로_한_비디오_게임 "wikilink")
+[분류:2009년 비디오 게임](https://ko.wikipedia.org/wiki/분류:2009년_비디오_게임 "wikilink") [분류:SF 게임](https://ko.wikipedia.org/wiki/분류:SF_게임 "wikilink") [분류:미국의 비디오 게임](https://ko.wikipedia.org/wiki/분류:미국의_비디오_게임 "wikilink") [분류:윈도우 게임](https://ko.wikipedia.org/wiki/분류:윈도우_게임 "wikilink") [분류:시뮬레이션 게임](https://ko.wikipedia.org/wiki/분류:시뮬레이션_게임 "wikilink") [분류:안드로이드 게임](https://ko.wikipedia.org/wiki/분류:안드로이드_게임 "wikilink") [분류:IOS 게임](https://ko.wikipedia.org/wiki/분류:IOS_게임 "wikilink") [분류:보스턴을 배경으로 한 비디오 게임](https://ko.wikipedia.org/wiki/분류:보스턴을_배경으로_한_비디오_게임 "wikilink")
 
 1.  <http://www.gamesradar.com/pc/aaaaaaaaaaaaaaaaaaaaaaaaa-a-reckless-disregard-for-gravity/review/aaaaaaaaaaaaaaaaaaaaaaaaa-a-reckless-disregard-for-gravity/a-20090904115229455046/g-20090904112042761017>
 2.  <http://www.rockpapershotgun.com/2009/01/30/aaaaaaaaa-a-reckless-disregard-for-gravity>

@@ -9,7 +9,7 @@
 
 \[\frac{Z}{\sqrt{V/\nu}}\]
 
-여기에서 \(Z\)는 [표준정규분포](https://ko.wikipedia.org/wiki/표준정규분포 "wikilink"), \(V\)는 [자유도](https://ko.wikipedia.org/wiki/자유도 "wikilink") \(\nu\)인 [카이제곱 분포](../Page/카이제곱_분포.md "wikilink") 이다.
+여기에서 \(Z\)는 [표준정규분포](https://ko.wikipedia.org/wiki/표준정규분포 "wikilink"), \(V\)는 [자유도](https://ko.wikipedia.org/wiki/자유도 "wikilink") \(\nu\)인 [카이제곱 분포이다](../Page/카이제곱_분포.md "wikilink").
 
 t 분포는 종모양으로서 t=0에서 좌우대칭을 이룬다. t 분포의 모양을 결정하는 것은 자유도이며, 자유도가 커질수록 [표준정규분포](https://ko.wikipedia.org/wiki/표준정규분포 "wikilink")에 가깝게 된다.\[1\]
 

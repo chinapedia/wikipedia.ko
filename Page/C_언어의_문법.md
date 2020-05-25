@@ -328,7 +328,7 @@ int main(int argc, char **argv)
 #define ERR_WRITE -2
 ```
 
-특정 의미가 있는 숫자나 문자를 개발자가 이해가 쉬운 형태로 바꾸는 것이 **define** 이다. 그러나 개발 단계에서 [디버깅](https://ko.wikipedia.org/wiki/디버깅 "wikilink")([debug](https://ko.wikipedia.org/wiki/debug "wikilink")) 과정에서 위의 정의 된 문자는 [디버깅](https://ko.wikipedia.org/wiki/디버깅 "wikilink") 테이블에서 제거되어 디버깅 단계에서 값이 어떤 값인지 알수가 없다. 정의 된 내용이 코드에 나오면, 바로 앞의 내용을 뒤에 정의 된 내용으로 바꾸어 치기 때문이다. 결국 컴파일 과정에서 기계어 코드에 이진수값을 넣는 방법으로 단순 대체 하는 것이다.
+특정 의미가 있는 숫자나 문자를 개발자가 이해가 쉬운 형태로 바꾸는 것이 **define**이다. 그러나 개발 단계에서 [디버깅](https://ko.wikipedia.org/wiki/디버깅 "wikilink")([debug](https://ko.wikipedia.org/wiki/debug "wikilink")) 과정에서 위의 정의 된 문자는 [디버깅](https://ko.wikipedia.org/wiki/디버깅 "wikilink") 테이블에서 제거되어 디버깅 단계에서 값이 어떤 값인지 알수가 없다. 정의 된 내용이 코드에 나오면, 바로 앞의 내용을 뒤에 정의 된 내용으로 바꾸어 치기 때문이다. 결국 컴파일 과정에서 기계어 코드에 이진수값을 넣는 방법으로 단순 대체 하는 것이다.
 
 ``` c
 enum {

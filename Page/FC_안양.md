@@ -35,7 +35,7 @@
 
 ### 현재 선수 명단
 
-[2020년](../Page/2020년.md "wikilink") [2월 18일](../Page/2월_18일.md "wikilink") 기준
+[2020년](../Page/2020년.md "wikilink") [4월 30일](../Page/4월_30일.md "wikilink") 기준
 
 #### 임대 및 군 복무 중인 선수 명단
 
@@ -185,6 +185,8 @@
 | 2016                                                                  | 40                                                                     | 11                                                                                                                                                                 | 13                                                                                                                                            |
 | 2017                                                                  | 36                                                                     | 10                                                                                                                                                                 | 9                                                                                                                                             |
 | 2018                                                                  | 36                                                                     | 12                                                                                                                                                                 | 8                                                                                                                                             |
+| 2019                                                                  | 36                                                                     | 15                                                                                                                                                                 | 10                                                                                                                                            |
+| [<span style="color:#FFFFFF">K리그2</span>](../Page/K리그2.md "wikilink") | 7시즌                                                                    | 223                                                                                                                                                                | 88                                                                                                                                            |
 
 ## 유니폼 스폰서와 메인 스폰서
 
@@ -196,7 +198,7 @@
 | 2016년 | [아스토레](https://ko.wikipedia.org/wiki/아스토레 "wikilink")<ref> | rowspan="1" </ref>                                                                | [안양시](../Page/안양시.md "wikilink") |
 | 2017년 |                                                            |                                                                                   |                                  |
 | 2018년 | [자이크로](https://ko.wikipedia.org/wiki/자이크로 "wikilink")      | [쌍용자동차](../Page/쌍용자동차.md "wikilink")\[12\]                                        |                                  |
-| 2019년 | [조마](https://ko.wikipedia.org/wiki/조마 "wikilink")          |                                                                                   |                                  |
+| 2019년 | [조마](https://ko.wikipedia.org/wiki/조마 "wikilink")          | [안양시](../Page/안양시.md "wikilink")                                                  |                                  |
 
 ## 역대 주장.부주장
 

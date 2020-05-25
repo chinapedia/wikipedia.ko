@@ -198,7 +198,7 @@
   - 《[야메고쿠\~야쿠자 그만두겠습니다\~](../Page/야메고쿠~야쿠자_그만두겠습니다~.md "wikilink")》 - (4월 16일 \~ 6월 18일) 주연: [오오시마 유코](https://ko.wikipedia.org/wiki/오오시마_유코 "wikilink")
   - 《[37.5℃의 눈물](https://ko.wikipedia.org/wiki/37.5℃의_눈물 "wikilink")》 - (7월 9일 \~ 9월) 주연: [렌부츠 미사코](../Page/렌부츠_미사코.md "wikilink")
 
-## 함께 보기
+## 같이 보기
 
   - [TBS 파나소닉 드라마 시어터](https://ko.wikipedia.org/wiki/TBS_파나소닉_드라마_시어터 "wikilink")
   - [TBS 수요일 10시 드라마](https://ko.wikipedia.org/wiki/TBS_수요일_10시_드라마 "wikilink")

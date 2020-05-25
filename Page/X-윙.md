@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [X-윙](https://ko.wikipedia.org/wiki/X-윙).
 
 
-**X-윙 스타파이터**(X-wing star fighter)는 영화 《[스타 워즈](https://ko.wikipedia.org/wiki/스타_워즈 "wikilink")》 중 [스타 워즈 에피소드 4: 새로운 희망부터](https://ko.wikipedia.org/wiki/스타_워즈_에피소드_4:_새로운_희망 "wikilink") [스타 워즈 에피소드 6: 제다이의 귀환에](https://ko.wikipedia.org/wiki/스타_워즈_에피소드_6:_제다이의_귀환 "wikilink") 등장하는 가공의 전투기이다. [반란군 연합의](https://ko.wikipedia.org/wiki/반란군_연합 "wikilink") 전투기 이다. x-윙은 데스스타 1,2를 모두 폭발시켰다. 루크가 가장 뛰어난 파일럿이라고도 하는데, 웨지 안틸레스 역시 그 못지 않은 에이스 파일럿이었다.\[1\]
+**X-윙 스타파이터**(X-wing star fighter)는 영화 《[스타 워즈](https://ko.wikipedia.org/wiki/스타_워즈 "wikilink")》 중 [스타 워즈 에피소드 4: 새로운 희망부터](https://ko.wikipedia.org/wiki/스타_워즈_에피소드_4:_새로운_희망 "wikilink") [스타 워즈 에피소드 6: 제다이의 귀환에](https://ko.wikipedia.org/wiki/스타_워즈_에피소드_6:_제다이의_귀환 "wikilink") 등장하는 가공의 전투기이다. [반란군 연합의](https://ko.wikipedia.org/wiki/반란군_연합 "wikilink") 전투기이다. x-윙은 데스스타 1,2를 모두 폭발시켰다. 루크가 가장 뛰어난 파일럿이라고도 하는데, 웨지 안틸레스 역시 그 못지 않은 에이스 파일럿이었다.\[1\]
 
 ## 개요
 

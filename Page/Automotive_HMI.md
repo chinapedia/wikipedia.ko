@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Automotive HMI](https://ko.wikipedia.org/wiki/Automotive_HMI).
 
 
-**Automotive HMI**는 자동차에서 운전자가 차량의 정보나 상태를 파악하기 위해 탑재되는 차량용 *인간-기계 접속장치*(Human Machine Interface) 이다.
+**Automotive HMI**는 자동차에서 운전자가 차량의 정보나 상태를 파악하기 위해 탑재되는 차량용 *인간-기계 접속장치*(Human Machine Interface)이다.
 
 ## 개념
 
@@ -41,7 +41,7 @@
 4.  차량용 MP3 플레이어
 5.  차량용 내장형 내비게이션(Navigation)
 
-## 함께 보기
+## 같이 보기
 
   - [ISO 26262](../Page/ISO_26262.md "wikilink")
   - [속도계](https://ko.wikipedia.org/wiki/속도계 "wikilink")([Speedometer](https://ko.wikipedia.org/wiki/Speedometer "wikilink"))

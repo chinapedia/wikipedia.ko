@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [UGM-133 트라이던트 II](https://ko.wikipedia.org/wiki/UGM-133_트라이던트_II).
 
 
-**UGM-133 트라이던트 II**(UGM-133 Trident II)또는 **트라이던트 D5**는 미국과 영국의 [SLBM](https://ko.wikipedia.org/wiki/SLBM "wikilink") (submarine-launched ballistic missile 잠수함 발사 탄도 미사일) 이다.
+**UGM-133 트라이던트 II**(UGM-133 Trident II)또는 **트라이던트 D5**는 미국과 영국의 [SLBM](https://ko.wikipedia.org/wiki/SLBM "wikilink") (submarine-launched ballistic missile 잠수함 발사 탄도 미사일)이다.
 
 캘리포니아주 서니베일의 [록히드 마틴에서](../Page/록히드_마틴.md "wikilink") 생산한다. 1990년에 실전배치되었다.
 

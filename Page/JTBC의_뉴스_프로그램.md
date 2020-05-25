@@ -29,7 +29,7 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/이정헌" title="wikilink">이정헌</a>, <a href="https://ko.wikipedia.org/wiki/황남희" title="wikilink">황남희</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/전용우의_뉴스ON" title="wikilink">전용우의 뉴스ON</a></p></td>
+<td><p><a href="../Page/전용우의_뉴스ON.md" title="wikilink">전용우의 뉴스ON</a></p></td>
 <td><p>평일 1시간 35분</p></td>
 <td><p>13:55 ~ 15:30</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/전용우" title="wikilink">전용우</a></p></td>

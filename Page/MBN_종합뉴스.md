@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [MBN 종합뉴스](https://ko.wikipedia.org/wiki/MBN_종합뉴스).
 
 
-《**MBN 종합뉴스**》는 [대한민국](../Page/대한민국.md "wikilink")에서 평일 저녁 7시 30분, 주말 저녁 7시 30분에 [텔레비전](../Page/텔레비전.md "wikilink")으로 방송하는 [MBN의](../Page/매일방송.md "wikilink") 메인 [뉴스](../Page/뉴스.md "wikilink") 프로그램이다.
+《**MBN 종합뉴스**》는 [대한민국](../Page/대한민국.md "wikilink")에서 평일 저녁 7시 20분, 주말 저녁 7시 30분에 [텔레비전](../Page/텔레비전.md "wikilink")으로 방송하는 [MBN의](../Page/매일방송.md "wikilink") 메인 [뉴스](../Page/뉴스.md "wikilink") 프로그램이다.
 
 ## 앵커
 
@@ -22,6 +22,7 @@
   - 2017년 : 평일 저녁 7시 30분 \~ 8시 40분, 주말 저녁 7시 30분 \~ 8시 20분
   - 2017년 \~ 2020년 3월 8일 : 평일 저녁 7시 30분 \~ 8시 30분, 주말 저녁 7시 30분 \~ 8시 20분
   - 2020년 3월 9일 \~ **현재** : 평일 저녁 7시 20분 \~ 8시 30분, 주말 저녁 7시 30분 \~ 8시 20분
+  - 2020년 \~ **예정** : 월요일 \~ 목요일 저녁 7시 20분 \~ 8시 30분, 금요일 저녁 6시 50분 \~ 7시 50분, 주말 저녁 7시 30분 \~ 8시 20분
 
 ## 특이 사항
 
@@ -76,4 +77,4 @@
   - [TV조선 뉴스 7](https://ko.wikipedia.org/wiki/TV조선_뉴스_7 "wikilink") ([TV조선](../Page/TV조선.md "wikilink"))
   - [뉴스가 있는 저녁](../Page/뉴스가_있는_저녁.md "wikilink") ([YTN](../Page/YTN.md "wikilink"))
 
-[분류:매일방송의 뉴스 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:매일방송의_뉴스_텔레비전_프로그램 "wikilink") [분류:2000년대 대한민국의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:2000년대_대한민국의_텔레비전_프로그램 "wikilink") [분류:2010년대 대한민국의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:2010년대_대한민국의_텔레비전_프로그램 "wikilink") [분류:2011년에 시작한 대한민국 TV 프로그램](https://ko.wikipedia.org/wiki/분류:2011년에_시작한_대한민국_TV_프로그램 "wikilink")
+[분류:매일방송의 뉴스 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:매일방송의_뉴스_텔레비전_프로그램 "wikilink") [분류:2000년대 대한민국의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:2000년대_대한민국의_텔레비전_프로그램 "wikilink") [분류:2010년대 대한민국의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:2010년대_대한민국의_텔레비전_프로그램 "wikilink") [분류:1995년에 시작한 대한민국 TV 프로그램](https://ko.wikipedia.org/wiki/분류:1995년에_시작한_대한민국_TV_프로그램 "wikilink") [분류:2011년에 시작한 대한민국 TV 프로그램](https://ko.wikipedia.org/wiki/분류:2011년에_시작한_대한민국_TV_프로그램 "wikilink")

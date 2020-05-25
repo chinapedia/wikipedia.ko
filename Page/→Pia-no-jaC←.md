@@ -31,7 +31,7 @@
 
 ## 외부 링크
 
-  - [→Pia-no-jaC←　공식 웹사이트](http://www.pia-no-jac.net/)
+  - [→Pia-no-jaC←　공식 웹사이트](https://web.archive.org/web/20091002082510/http://pia-no-jac.net/)
   - [カホンhiroの「石も搾れば水が出る」](https://web.archive.org/web/20110512072559/http://pj-hiro.cocolog-nifty.com/)
   - [ビリケンhayatoの「1週間に10日来い」](https://web.archive.org/web/20110512174156/http://pj-hayato.cocolog-nifty.com/)
 

@@ -285,13 +285,13 @@
 
 | 코너명  | 진행자                                                                          |
 | ---- | ---------------------------------------------------------------------------- |
-| 헤드라인 | [박노원](../Page/박노원.md "wikilink") 아나운서, [김솔희](../Page/김솔희.md "wikilink") 아나운서 |
+| 헤드라인 | [박노원](../Page/박노원.md "wikilink") 아나운서, [엄지인](../Page/김솔희.md "wikilink") 아나운서 |
 | 날씨   | [오수진](../Page/오수진.md "wikilink") 기상캐스터                                       |
 
 ## 앵커
 
   - 현재 앵커의 남성은 [2018년](../Page/2018년.md "wikilink") [4월 23일](../Page/4월_23일.md "wikilink"), 여성은 [2019년](../Page/2019년.md "wikilink") [1월 1일](../Page/1월_1일.md "wikilink") 이후를 기준으로 한다.
-  - [2001년](../Page/2001년.md "wikilink") [11월 2일까지](../Page/11월_2일.md "wikilink") 남성 앵커는 아나운서가 진행하였으나, [2001년](../Page/2001년.md "wikilink") [11월 5일부터](../Page/11월_5일.md "wikilink") 남성 앵커는 보도국 기자가 진행하는 방식으로 변경되었다가 [2002년](../Page/2002년.md "wikilink") [10월 28일부터](../Page/10월_28일.md "wikilink") 남성 앵커는 아나운서가 진행하는 방식으로 환원되었으며, [2014년](../Page/2014년.md "wikilink") [3월 3일부터](../Page/3월_3일.md "wikilink") 남성 앵커는 보도국 기자가 진행하는 방식으로 환원되었다가 [2018년](../Page/2018년.md "wikilink") [2월 12일부터](../Page/2월_12일.md "wikilink") 남성 앵커는 아나운서가 진행하는 방식으로 환원되었다.
+  - [2001년](../Page/2001년.md "wikilink") [11월 2일까지](../Page/11월_2일.md "wikilink") 남성 앵커는 아나운서가 진행하였으나 [2001년](../Page/2001년.md "wikilink") [11월 5일부터](../Page/11월_5일.md "wikilink") 남성 앵커는 보도국 기자가 진행하는 방식으로 변경되었다가 [2002년](../Page/2002년.md "wikilink") [10월 28일부터](../Page/10월_28일.md "wikilink") 남성 앵커는 아나운서가 진행하는 방식으로 환원되었으며, [2014년](../Page/2014년.md "wikilink") [3월 3일부터](../Page/3월_3일.md "wikilink") 남성 앵커는 보도국 기자가 진행하는 방식으로 환원되었다가 [2018년](../Page/2018년.md "wikilink") [2월 12일부터](../Page/2월_12일.md "wikilink") 남성 앵커는 아나운서가 진행하는 방식으로 환원되었다.
 
 ### 현재 앵커
 
@@ -358,7 +358,7 @@
 <tr class="even">
 <td><p>7기</p></td>
 <td><p><a href="../Page/김준석.md" title="wikilink">김준석</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/홍지수" title="wikilink">홍지수</a></p></td>
+<td><p><a href="../Page/홍지수.md" title="wikilink">홍지수</a></p></td>
 <td><p><a href="../Page/1989년.md" title="wikilink">1989년</a> 3월 6일 ~ <a href="../Page/1991년.md" title="wikilink">1991년</a> <a href="../Page/5월_17일.md" title="wikilink">5월 17일</a></p></td>
 </tr>
 <tr class="odd">
@@ -563,7 +563,7 @@
 <td><p>41기</p></td>
 <td><p><a href="../Page/김솔희.md" title="wikilink">김솔희</a></p></td>
 <td><p><a href="../Page/2019년.md" title="wikilink">2019년</a> <a href="../Page/1월_1일.md" title="wikilink">1월 1일</a> ~ <strong>현재</strong></p></td>
-<td><p>[29][30]</p></td>
+<td><p>[29][30][31]</p></td>
 </tr>
 </tbody>
 </table>
@@ -680,8 +680,8 @@ KBS 뉴스 (주말)</p></td>
 
 ## 권역별 자체 방송
 
-  - 수도권(서울본사, 경인방송센터)을 제외한 8개 총국은 월요일부터 목요일까지 40분 동안 자체적으로 뉴스를 진행한다.
-  - 제주방송총국은 위 8개 총국들과 달리 금요일에 40분 동안 자체적으로 뉴스를 진행한다.
+  - 수도권(서울본사, 경인방송센터)을 제외한 9개 총국은 월요일부터 목요일까지 40분 동안 자체적으로 종합뉴스를 진행한다. (금요일은 본사뉴스 중간에 자체뉴스 편성)
+  - 울산방송총국은 위 9개 총국들과 달리 월요일부터 금요일까지 본사뉴스 중간에 자체뉴스를 편성한다.
 
 <table>
 <thead>
@@ -848,7 +848,7 @@ KBS 뉴스 (주말)</p></td>
 [분류:한국방송공사의 뉴스 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:한국방송공사의_뉴스_텔레비전_프로그램 "wikilink") [분류:대한민국의 뉴스 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:대한민국의_뉴스_텔레비전_프로그램 "wikilink") [분류:1960년대 대한민국의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:1960년대_대한민국의_텔레비전_프로그램 "wikilink") [분류:1970년대 대한민국의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:1970년대_대한민국의_텔레비전_프로그램 "wikilink") [분류:1980년대 대한민국의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:1980년대_대한민국의_텔레비전_프로그램 "wikilink") [분류:1990년대 대한민국의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:1990년대_대한민국의_텔레비전_프로그램 "wikilink") [분류:2000년대 대한민국의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:2000년대_대한민국의_텔레비전_프로그램 "wikilink") [분류:2010년대 대한민국의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:2010년대_대한민국의_텔레비전_프로그램 "wikilink") [분류:2020년대 대한민국의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:2020년대_대한민국의_텔레비전_프로그램 "wikilink") [분류:1965년에 시작한 대한민국 TV 프로그램](https://ko.wikipedia.org/wiki/분류:1965년에_시작한_대한민국_TV_프로그램 "wikilink") [분류:1970년에 시작한 대한민국 TV 프로그램](https://ko.wikipedia.org/wiki/분류:1970년에_시작한_대한민국_TV_프로그램 "wikilink")
 
 1.  [김승한](https://ko.wikipedia.org/wiki/김승한 "wikilink") 아나운서의 휴가 또는 출장으로 인하여, [1988년](../Page/1988년.md "wikilink") [3월 7일](../Page/3월_7일.md "wikilink") \~ [1988년](../Page/1988년.md "wikilink") [3월 11일](../Page/3월_11일.md "wikilink") 방송분은 [이창호](../Page/이창호_\(1943년\).md "wikilink") 前 아나운서가 대신 진행했다.
-2.  [홍지수](https://ko.wikipedia.org/wiki/홍지수 "wikilink") 前 아나운서의 휴가 또는 출장으로 인하여, 1992년 4월 30일 \~ 1992년 5월 1일 방송분은 [김병찬](../Page/김병찬.md "wikilink") 아나운서가 대신 진행했다.
+2.  [홍지수](../Page/홍지수.md "wikilink") 前 아나운서의 휴가 또는 출장으로 인하여, 1992년 4월 30일 \~ 1992년 5월 1일 방송분은 [김병찬](../Page/김병찬.md "wikilink") 아나운서가 대신 진행했다.
 3.  [황수경](../Page/황수경_\(아나운서\).md "wikilink") 前 아나운서는 KBS 저녁뉴스 진행한 지 2년 만에 KBS 뉴스네트워크 재진행.
 4.  KBS의 노조파업으로 인하여, 1997년 1월 7일 \~ 1997년 2월 26일 방송분은 [박용호](../Page/박용호_\(1947년\).md "wikilink") 前 아나운서와 [안희재](https://ko.wikipedia.org/wiki/안희재 "wikilink") 前 아나운서가 대신 진행했다.
 5.  [황정민](../Page/황정민_\(아나운서\).md "wikilink") 아나운서는 2년 만에 KBS 뉴스네트워크 재진행.
@@ -877,3 +877,4 @@ KBS 뉴스 (주말)</p></td>
 28. [김윤지](../Page/김윤지_\(아나운서\).md "wikilink"), [박노원](../Page/박노원.md "wikilink") 아나운서의 \<KBS 뉴스 7\> (1TV) 2명의 앵커 진행자가 2018년 4월 13일 서울 영등포구 여의도 KBS본사 에서 KBS뉴스 새 앵커 기자간담회 참석했다.
 29. [김솔희](../Page/김솔희.md "wikilink") 아나운서의 휴가로 인하여, [2019년](../Page/2019년.md "wikilink") [1월 28일](../Page/1월_28일.md "wikilink") \~ 2019년 [2월 1일](../Page/2월_1일.md "wikilink") 방송분은 [박은영](../Page/박은영_\(아나운서\).md "wikilink") 아나운서가 대신 진행했고, [2019년](../Page/2019년.md "wikilink") [9월 16일](../Page/9월_16일.md "wikilink") \~ 2019년 [9월 20일](../Page/9월_20일.md "wikilink"), [2019년](../Page/2019년.md "wikilink") [12월 6일](../Page/12월_6일.md "wikilink") \~ 2019년 [12월 18일](../Page/12월_18일.md "wikilink") 방송분은 [윤수영](../Page/윤수영_\(아나운서\).md "wikilink") 아나운서가 대신 진행했고, [2020년](../Page/2020년.md "wikilink") [3월 24일](../Page/3월_24일.md "wikilink") \~ 2020년 [3월 27일](../Page/3월_27일.md "wikilink") 방송분은 [박지원](../Page/박지원_\(아나운서\).md "wikilink") 아나운서가 대신 진행했다.
 30. [박노원](../Page/박노원.md "wikilink") 아나운서의 휴가로 인하여, [2019년](../Page/2019년.md "wikilink") [7월 15일](../Page/7월_15일.md "wikilink") \~ [7월 19일](../Page/7월_19일.md "wikilink") 방송분은 [최동석](../Page/최동석.md "wikilink") 아나운서가 대신 진행했고, [2020년](../Page/2020년.md "wikilink") [1월 28일](../Page/1월_28일.md "wikilink") \~ [2020년](../Page/2020년.md "wikilink") [1월 31일](../Page/1월_31일.md "wikilink") 방송분은 [강성규](https://ko.wikipedia.org/wiki/강성규 "wikilink") 아나운서가 대신 진행했다.
+31. [김솔희](../Page/김솔희.md "wikilink") 아나운서의 [눈병](../Page/눈병.md "wikilink") 치료 관계로 인하여, [2020년](../Page/2020년.md "wikilink") [4월 21일](../Page/4월_21일.md "wikilink") \~ [2020년](../Page/2020년.md "wikilink") [4월 27일](../Page/4월_27일.md "wikilink") 방송분은 [윤수영](../Page/윤수영_\(아나운서\).md "wikilink") 아나운서가 대신 진행했고, [2020년](../Page/2020년.md "wikilink") [4월 28일](../Page/4월_28일.md "wikilink") \~ [2020년](../Page/2020년.md "wikilink") [5월 1일](../Page/5월_1일.md "wikilink") 방송분은 [엄지인](../Page/엄지인.md "wikilink") 아나운서가 대신 진행했다.

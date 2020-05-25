@@ -232,7 +232,7 @@
 | 119회 | [2014년](../Page/2014년.md "wikilink") [12월 27일](../Page/12월_27일.md "wikilink") | 이세훈 | 세광고등학교      | <span style="color:gold;">**연장원**</span>   | 준우승자 이제헌  |
 |      |                                                                               |     |             |                                            |           |
 
-## 함께 보기
+## 같이 보기
 
   - [도전\! 골든벨](../Page/도전!_골든벨.md "wikilink")
   - [장학퀴즈](../Page/장학퀴즈.md "wikilink")

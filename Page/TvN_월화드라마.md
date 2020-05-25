@@ -99,12 +99,11 @@
 #### [2020년](../Page/2020년.md "wikilink")
 
   - 《[방법](https://ko.wikipedia.org/wiki/방법_\(드라마\) "wikilink")》: [2020년](../Page/2020년.md "wikilink")[2월 10일](../Page/2월_10일.md "wikilink") \~ [2020년](../Page/2020년.md "wikilink") [3월 17일](../Page/3월_17일.md "wikilink")
-  - 《[반의 반](https://ko.wikipedia.org/wiki/반의_반 "wikilink")》: [2020년](../Page/2020년.md "wikilink") [3월 23일](../Page/3월_23일.md "wikilink") \~**현재**
-  - 《[(아는건별로없지만)가족입니다](https://ko.wikipedia.org/wiki/\(아는건별로없지만\)가족입니다 "wikilink")》:[2020년](../Page/2020년.md "wikilink") [5월18일](https://ko.wikipedia.org/wiki/5월18일 "wikilink")
+  - 《[반의 반](https://ko.wikipedia.org/wiki/반의_반 "wikilink")》: [2020년](../Page/2020년.md "wikilink") [3월 23일](../Page/3월_23일.md "wikilink") \~[2020년](../Page/2020년.md "wikilink")[4월28일](https://ko.wikipedia.org/wiki/4월28일 "wikilink")
+  - 《[외출](https://ko.wikipedia.org/wiki/외출_\(2020년_드라마\) "wikilink")》 : [2020년](../Page/2020년.md "wikilink") [5월 4일](../Page/5월_4일.md "wikilink") \~ [2020년](../Page/2020년.md "wikilink") [5월 5일](../Page/5월_5일.md "wikilink")
+  - 《[(아는 건 별로 없지만) 가족입니다](https://ko.wikipedia.org/wiki/\(아는_건_별로_없지만\)_가족입니다 "wikilink")》:[2020년](../Page/2020년.md "wikilink") [5월 18일](../Page/5월_18일.md "wikilink") \~
 
-\~**현재**
-
-## 함께 보기
+## 같이 보기
 
   - [tvN 수목드라마](https://ko.wikipedia.org/wiki/tvN_수목드라마 "wikilink")
   - [tvN 금토드라마](https://ko.wikipedia.org/wiki/tvN_금토드라마 "wikilink")

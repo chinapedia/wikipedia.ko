@@ -50,7 +50,7 @@
   -
     J06BC01 [Nebacumab](https://ko.wikipedia.org/wiki/Nebacumab "wikilink")
 
-## 함께 보기
+## 같이 보기
 
   - 동물용 면멱혈청 및 면역글로불린은 **[ATCvet 코드 QI](https://ko.wikipedia.org/wiki/ATCvet_코드_QI "wikilink")**에 포함되어 있다.
 

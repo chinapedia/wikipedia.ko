@@ -51,7 +51,7 @@
 
   - 구단주는 같지만 [NASL의](https://ko.wikipedia.org/wiki/북미_축구_리그 "wikilink") [미네소타 유나이티드 FC](../Page/미네소타_유나이티드_FC_\(2010년\).md "wikilink") 해체한 후 재창단해서 [메이저 리그 사커에](../Page/메이저_리그_사커.md "wikilink") 참가할 예정이다.
 
-## 함께 보기
+## 같이 보기
 
   - [미네소타 유나이티드 FC](../Page/미네소타_유나이티드_FC_\(2010년\).md "wikilink") ([NASL](https://ko.wikipedia.org/wiki/북미_축구_리그 "wikilink"))
 

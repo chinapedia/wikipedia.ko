@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [EXID](https://ko.wikipedia.org/wiki/EXID).
 
 
-**EXID**(이엑스아이디)는 [대한민국](../Page/대한민국.md "wikilink") 의 5인조 [걸그룹](https://ko.wikipedia.org/wiki/걸그룹 "wikilink") 이다. **EXID**의 뜻은 **EX**ceed **I**n **D**reaming을 줄인 것이다. 2012년 2월 14일 쇼케이스로 사전 프로모션을 진행 하였으며, 본격적인 활동일은 2월 16일 《[엠카운트다운](https://ko.wikipedia.org/wiki/엠카운트다운 "wikilink")》이다. 데뷔 당시 6인조였으나 2012년 4월 30일에 [다미](https://ko.wikipedia.org/wiki/혜연_\(1990년\) "wikilink"), [유지](../Page/유지_\(가수\).md "wikilink"), [해령이](../Page/해령_\(가수\).md "wikilink") 탈퇴, 같은 해 8월 새 멤버 [솔지](../Page/솔지.md "wikilink"), [혜린](../Page/혜린.md "wikilink")을 영입 하여 5인조로 재정비 하였다. \[1\] 2014년 소속사를 AB 엔터테인먼트/벤자민엔터테인먼트에서 예당 엔터테인먼트(현 [바나나컬쳐 엔터테인먼트](../Page/바나나컬쳐_엔터테인먼트.md "wikilink"))로 옮겼다.\[2\]
+**EXID**(이엑스아이디)는 [대한민국](../Page/대한민국.md "wikilink") 의 5인조 [걸그룹](https://ko.wikipedia.org/wiki/걸그룹 "wikilink")이다. **EXID**의 뜻은 **EX**ceed **I**n **D**reaming을 줄인 것이다. 2012년 2월 14일 쇼케이스로 사전 프로모션을 진행 하였으며, 본격적인 활동일은 2월 16일 《[엠카운트다운](https://ko.wikipedia.org/wiki/엠카운트다운 "wikilink")》이다. 데뷔 당시 6인조였으나 2012년 4월 30일에 [다미](https://ko.wikipedia.org/wiki/혜연_\(1990년\) "wikilink"), [유지](../Page/유지_\(가수\).md "wikilink"), [해령이](../Page/해령_\(가수\).md "wikilink") 탈퇴, 같은 해 8월 새 멤버 [솔지](../Page/솔지.md "wikilink"), [혜린](../Page/혜린.md "wikilink")을 영입 하여 5인조로 재정비 하였다.\[1\] 2014년 소속사를 AB 엔터테인먼트/벤자민엔터테인먼트에서 예당 엔터테인먼트(현 [바나나컬쳐 엔터테인먼트](../Page/바나나컬쳐_엔터테인먼트.md "wikilink"))로 옮겼다.\[2\]
 
 ## 역사
 

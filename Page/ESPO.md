@@ -25,8 +25,8 @@
 
 [분류:송유관](https://ko.wikipedia.org/wiki/분류:송유관 "wikilink")
 
-1.  [\[헤럴드 포럼](http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=110&oid=016&aid=0000274387) 극동 에너지자원 확보 삼국경쟁 :: 네이버 뉴스 \]
-2.  [푸틴 "태평양 송유관은 \`전략적 프로젝트'" :: 네이버 뉴스](http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=104&oid=001&aid=0003045910)
-3.  ['러시아 원유' 동북아 시장 흔든다 :: 네이버 뉴스](http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=101&oid=015&aid=0002177046)
-4.  [러, 동시베리아-태평양 송유관 통해 석유수출 다변화 :: 네이버 뉴스](http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=101&oid=014&aid=0002247926)
-5.  [::: 글로벌 녹색성장 미디어 - 이투뉴스 :::](http://www.e2news.com/news/articleView.html?idxno=34378)
+1.
+2.
+3.
+4.
+5.

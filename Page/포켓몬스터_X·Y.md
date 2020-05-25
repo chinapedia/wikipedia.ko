@@ -31,15 +31,15 @@
 
 ### 환상의 포켓몬
 
-  - [페어리](../Page/페어리.md "wikilink"),[바위](https://ko.wikipedia.org/wiki/바위 "wikilink") 타입:[디안시](../Page/디안시.md "wikilink")
-  - [에스퍼](https://ko.wikipedia.org/wiki/에스퍼 "wikilink"),[고스트](https://ko.wikipedia.org/wiki/고스트 "wikilink") 타입:[후파](https://ko.wikipedia.org/wiki/후파 "wikilink")(굴레를 벗어난 모습)/[에스퍼](https://ko.wikipedia.org/wiki/에스퍼 "wikilink"),[악](https://ko.wikipedia.org/wiki/악 "wikilink") 타입 (굴레에 빠진 모습)
-  - [불꽃](https://ko.wikipedia.org/wiki/불꽃 "wikilink"),[물](https://ko.wikipedia.org/wiki/물 "wikilink") 타입:[볼케니온](https://ko.wikipedia.org/wiki/볼케니온 "wikilink")
+  - [페어리](../Page/페어리.md "wikilink"), [바위](https://ko.wikipedia.org/wiki/바위 "wikilink") 타입:[디안시](../Page/디안시.md "wikilink")
+  - [에스퍼](https://ko.wikipedia.org/wiki/에스퍼 "wikilink"), [고스트](https://ko.wikipedia.org/wiki/고스트 "wikilink") 타입:[후파](https://ko.wikipedia.org/wiki/후파 "wikilink")(굴레를 벗어난 모습)/[에스퍼](https://ko.wikipedia.org/wiki/에스퍼 "wikilink"), [악](https://ko.wikipedia.org/wiki/악 "wikilink") 타입 (굴레에 빠진 모습)
+  - [불꽃](https://ko.wikipedia.org/wiki/불꽃 "wikilink"), [물](https://ko.wikipedia.org/wiki/물 "wikilink") 타입:[볼케니온](https://ko.wikipedia.org/wiki/볼케니온 "wikilink")
 
 ### 전설의 포켓몬
 
   - [페어리](../Page/페어리.md "wikilink") 타입:[제르네아스](https://ko.wikipedia.org/wiki/제르네아스 "wikilink") (포켓몬스터 X)
-  - [악](https://ko.wikipedia.org/wiki/악 "wikilink"),[비행](../Page/비행.md "wikilink") 타입:[이벨타르](https://ko.wikipedia.org/wiki/이벨타르 "wikilink") (포켓몬스터 Y)
-  - [드래곤](../Page/드래곤.md "wikilink"),[땅](https://ko.wikipedia.org/wiki/땅 "wikilink") 타입:[지가르데](https://ko.wikipedia.org/wiki/지가르데 "wikilink") (포켓몬스터 X, Y)
+  - [악](https://ko.wikipedia.org/wiki/악 "wikilink"), [비행](../Page/비행.md "wikilink") 타입:[이벨타르](https://ko.wikipedia.org/wiki/이벨타르 "wikilink") (포켓몬스터 Y)
+  - [드래곤](../Page/드래곤.md "wikilink"), [땅](https://ko.wikipedia.org/wiki/땅 "wikilink") 타입:[지가르데](https://ko.wikipedia.org/wiki/지가르데 "wikilink") (포켓몬스터 X, Y)
 
 ## 각주
 

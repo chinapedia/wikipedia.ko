@@ -36,7 +36,7 @@
   - 《[Super Girl](../Page/슈퍼걸_\(드라마\).md "wikilink")》
   - 《[리버데일](../Page/리버데일_\(드라마\).md "wikilink")》
   - 《[레거시스](https://ko.wikipedia.org/wiki/레거시스 "wikilink")》
-  - 《[배트우먼](https://ko.wikipedia.org/wiki/배트우먼 "wikilink")》
+  - 《[배트우먼](../Page/배트우먼.md "wikilink")》
 
 ## 지역 방송사 목록
 
@@ -53,7 +53,7 @@
 |                                        | [베이커즈필드](../Page/베이커즈필드.md "wikilink")                                                                                                             | [KGET-TV](../Page/KGET-TV.md "wikilink")\[4\]                    | 25                                                               | 17.2 |      |
 | [테네시주](../Page/테네시주.md "wikilink")     | 86                                                                                                                                                 | [채터누가](../Page/채터누가.md "wikilink")                               | [WFLI-TV](https://ko.wikipedia.org/wiki/WFLI-TV "wikilink")      | 42   | 53.1 |
 
-## 함께 보기
+## 같이 보기
 
   - [CBS 코퍼레이션](../Page/CBS_코퍼레이션.md "wikilink")
   - [워너 브라더스](../Page/워너_브라더스.md "wikilink")

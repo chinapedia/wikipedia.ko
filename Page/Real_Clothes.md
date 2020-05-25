@@ -626,7 +626,7 @@
   - [센 강](https://ko.wikipedia.org/wiki/센_강 "wikilink") 비르아켐교
   - [노트르담 대성당이](https://ko.wikipedia.org/wiki/노트르담_대성당_\(파리\) "wikilink") 있는 [시테 섬](https://ko.wikipedia.org/wiki/시테_섬 "wikilink") 남쪽 센 강 건너편 언덕
 
-## 함께 보기
+## 같이 보기
 
   - [리얼 클로즈 (만화)](https://ko.wikipedia.org/wiki/리얼_클로즈_\(만화\) "wikilink") - 원작 만화
 

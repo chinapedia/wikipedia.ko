@@ -622,7 +622,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/2009년_FIFA_U-17_월드컵" title="wikilink">2009</a></p></td>
+<td><p><a href="../Page/2009년_FIFA_U-17_월드컵.md" title="wikilink">2009</a></p></td>
 <td><p><a href="../Page/조민우.md" title="wikilink">조민우</a> (<a href="../Page/수비수.md" title="wikilink">DF</a>), <a href="../Page/손흥민.md" title="wikilink">손흥민</a> (<a href="../Page/공격수.md" title="wikilink">FW</a>)</p></td>
 <td><div style="text-align: center;">
 <p>2</p></td>

@@ -38,7 +38,7 @@
 <td><p><a href="../Page/1992년.md" title="wikilink">1992년</a> <a href="../Page/11월_21일.md" title="wikilink">11월 21일</a> 출생</p></td>
 <td><p>오렌지→화이트<br />
 (noon boyz: 레드)</p></td>
-<td><p>noon boyz</p></td>
+<td><p>noon boyz <a href="../Page/Love-tune.md" title="wikilink">Love-tune</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/노자와_유키.md" title="wikilink">노자와 유키</a> (野澤祐樹)</p></td>

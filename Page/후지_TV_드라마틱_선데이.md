@@ -27,7 +27,7 @@
 
   - 《[dinner](https://ko.wikipedia.org/wiki/디너 "wikilink")》 : (1월 \~ 3월, 주연 : [에구치 요스케](../Page/에구치_요스케.md "wikilink"))
 
-## 함께 보기
+## 같이 보기
 
   - [후지 TV 월요일 밤 9시 드라마](../Page/후지_TV_월요일_밤_9시_드라마.md "wikilink")
   - [후지 TV 화요일 밤 9시 드라마](../Page/후지_TV_화요일_밤_9시_드라마.md "wikilink")

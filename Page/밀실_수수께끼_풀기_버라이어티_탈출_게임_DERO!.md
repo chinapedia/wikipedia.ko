@@ -12,4 +12,4 @@
 ## 외부 링크
 
   -
-[분류:닛폰 TV의 텔레비전 버라이어티 쇼](https://ko.wikipedia.org/wiki/분류:닛폰_TV의_텔레비전_버라이어티_쇼 "wikilink") [분류:일본의 텔레비전 게임 쇼](https://ko.wikipedia.org/wiki/분류:일본의_텔레비전_게임_쇼 "wikilink") [분류:긴 낱말](https://ko.wikipedia.org/wiki/분류:긴_낱말 "wikilink")
+[분류:닛폰 TV의 텔레비전 버라이어티 쇼](https://ko.wikipedia.org/wiki/분류:닛폰_TV의_텔레비전_버라이어티_쇼 "wikilink") [분류:일본의 텔레비전 게임 쇼](https://ko.wikipedia.org/wiki/분류:일본의_텔레비전_게임_쇼 "wikilink")

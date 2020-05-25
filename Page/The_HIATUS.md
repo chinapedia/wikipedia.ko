@@ -43,9 +43,6 @@
       - 12월 23일, DVD「**[2009.07.21 Trash We'd Love Tour Final at Studio Coast](../Page/Trash_We'd_Love_Tour_Final_at_Studio_Coast.md "wikilink")**」발매
       - 12월 29일, FM802 STILL20 ROCK FESTIVAL RADIO CRAZY에 출연
       - 12월 30일, COUNTDOWN JAPAN|COUNTDOWN JAPAN 09/10에 출연
-
-<!-- end list -->
-
   - [2010년](../Page/2010년.md "wikilink")
       - [Third Eye Blind의](https://ko.wikipedia.org/wiki/서드_아이_블라인드 "wikilink") 일본 투어 모든 공연을 지원
       - 6월 30일, 두 번째 앨범 「**[ANOMALY](../Page/ANOMALY.md "wikilink")**」을 발매. 아날로그 판은 7월 14일로 발매연기(「Trash We'd Love」과 같이)
@@ -54,17 +51,11 @@
       - 8월 1일, 제 2회 [지산 밸리 록 페스티벌을](https://ko.wikipedia.org/wiki/지산_밸리_록_페스티벌 "wikilink") 시작으로 ROCK IN JAPAN FESTIVAL, [SUMMER SONIC](../Page/서머_소닉.md "wikilink"), JOIN ALIVE등 다수의 여름 페스티벌에 출연(ROCK IN JAPAN FES.2010과 JOIN ALIVE에서는 메인 스테이지의 헤드라이너로 출연)
       - 8월 29일, RUSHBALL2010(장소:이즈미오오츠시 피닉스)에 출연
       - [Superfly의](https://ko.wikipedia.org/wiki/슈퍼플라이 "wikilink") 투어 중 나고야・오사카 공연을 서포트함
-
-<!-- end list -->
-
   - [2011년](../Page/2011년.md "wikilink")
       - 4월 16일, 「SKULLSHIT presents THE LIVE 2011」 에 헤드라이너로 출연
       - 6월 1일, 2번째 EP 「Hatching Mayfiles」 를 발매
       - 여름에는 FUJI ROCK FESTIVAL'11에 첫 출연, 11년만에 개최되는 AIR JAM 2011을 시작으로 일본 전국 각지의 음악 페스티벌에 출연.
       - 11월 23일, 3번째 앨범 「A World Of Pandemonium」 을 발매. 그리고 같은 달 24일부터 「A World Of Pandemonium Tour 2011-2012」 를 실시
-
-<!-- end list -->
-
   - [2012년](../Page/2012년.md "wikilink")
       - 3월 31일, [대한민국](../Page/대한민국.md "wikilink") [서울](https://ko.wikipedia.org/wiki/서울 "wikilink") KT\&G 상상마당에서 열리는 「THE KOXX presents 'PiXEL'」에 참가\[5\]
       - 4월 1일, [대한민국](../Page/대한민국.md "wikilink") [서울](https://ko.wikipedia.org/wiki/서울 "wikilink") 홍대 V-HALL에서 「A World Of Pandemonium Tour 2011-2012」\[6\]
@@ -116,7 +107,7 @@
 
 [분류:얼터너티브 록](https://ko.wikipedia.org/wiki/분류:얼터너티브_록 "wikilink") [분류:일본의 록 밴드](https://ko.wikipedia.org/wiki/분류:일본의_록_밴드 "wikilink") [분류:2009년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2009년_결성된_음악_그룹 "wikilink")
 
-1.  Wikipedia를 포함한 여러 곳에서는 「해산했던 엘레가든의 호소미 타케시의 새 밴드」「ex.ELLEGARDEN의〜」를 찾아볼 수 있으나 해산이 아닌 활동 중지인 상태이므로「예전」「ex.」등의 표현은 잘못된 것입니다. [엘레가든 공식 홈페이지](http://ellegarden.jp/)를 참조 바람.동일하게 우에노 코우지의 Radio Caroline 도 해산이 아니라고 함.
+1.  Wikipedia를 포함한 여러 곳에서는 「해산했던 엘레가든의 호소미 타케시의 새 밴드」「ex.ELLEGARDEN의〜」를 찾아볼 수 있으나 해산이 아닌 활동 중지인 상태이므로「예전」「ex.」등의 표현은 잘못된 것입니다. [엘레가든 공식 홈페이지](http://ellegarden.jp/) 를 참조 바람.동일하게 우에노 코우지의 Radio Caroline 도 해산이 아니라고 함.
 2.  7월 8, 9일 두 차례 공연은 이치세 마사카즈가 담당.
 3.  7월 8, 9, 14, 16, 21일 다섯 차례 공연은 호리에 히로히사가 담당.
 4.  공식 명칭은 「京都大作戦09 ～暑いのに熱くてごめんな祭～」이며, 이를 의역하여 명칭을 위와 같이 표기했습니다.

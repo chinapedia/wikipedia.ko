@@ -7,7 +7,7 @@
 
 [도쿄도](../Page/도쿄도.md "wikilink") [치요다 구의](https://ko.wikipedia.org/wiki/치요다_구 "wikilink") [아키하바라](../Page/아키하바라.md "wikilink")를 거점으로 활동하고 있는 [AKB48](../Page/AKB48.md "wikilink")의 자매 그룹으로서 결성. 컨셉도 AKB48를 모티프로 개개, 인도네시아 독자적인 문화에 맞춘 [여성](../Page/여성.md "wikilink") [아이돌](https://ko.wikipedia.org/wiki/아이돌_가수 "wikilink") [그룹이다](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink").
 
-일본 내에서는 AKB48 자매 그룹 [아이치현](../Page/아이치현.md "wikilink") [나고야 시의](https://ko.wikipedia.org/wiki/나고야_시 "wikilink") 사카에(SAKAE,栄)을 거점으로 하는 [SKE48](../Page/SKE48.md "wikilink"), [오사카부](../Page/오사카부.md "wikilink") [오사카 시의](https://ko.wikipedia.org/wiki/오사카_시 "wikilink") [나니와를](https://ko.wikipedia.org/wiki/나니와_구 "wikilink") 거점으로 하는 [NMB48](../Page/NMB48.md "wikilink"), [후쿠오카현](../Page/후쿠오카현.md "wikilink") [후쿠오카 시의](https://ko.wikipedia.org/wiki/후쿠오카_시 "wikilink") [하카타를](https://ko.wikipedia.org/wiki/하카타_구 "wikilink") 거점으로 하는 [HKT48](../Page/HKT48.md "wikilink")의 합계 5개의 48 그룹을 이미 결성하고 있지만, 일본 외에의 진출은 JKT48가 처음이 되었다.
+일본 내에서는 AKB48 자매 그룹 [아이치현](../Page/아이치현.md "wikilink") [나고야시](../Page/나고야시.md "wikilink")의 사카에(SAKAE,栄)을 거점으로 하는 [SKE48](../Page/SKE48.md "wikilink"), [오사카부](../Page/오사카부.md "wikilink") [오사카시](../Page/오사카시.md "wikilink")의 [나니와를](https://ko.wikipedia.org/wiki/나니와_구 "wikilink") 거점으로 하는 [NMB48](../Page/NMB48.md "wikilink"), [후쿠오카현](../Page/후쿠오카현.md "wikilink") [후쿠오카시](../Page/후쿠오카시.md "wikilink")의 [하카타를](https://ko.wikipedia.org/wiki/하카타_구 "wikilink") 거점으로 하는 [HKT48](../Page/HKT48.md "wikilink")의 합계 5개의 48 그룹을 이미 결성하고 있지만, 일본 외에의 진출은 JKT48가 처음이 되었다.
 
 [2012년](../Page/2012년.md "wikilink") [5월 17일부터](../Page/5월_17일.md "wikilink") 자카르타 시내에 소재한 모처에서 매월 임시 극장을 개장 및 공연을 피로, 세트 리스트는 AKB48의 팀B가 피로했던 「パジャマドライブ」 공연을 상연하였다. 동년 [9월 1일](../Page/9월_1일.md "wikilink"), 자카르타 시내 중심부의 쇼핑몰 「FX」내에 약 200명을 수용하는 일이 가능한 극장을 설립해, 「만나러 갈 수 있는 아이돌」로서의 활동을 본격화시킨다는 계획\[1\].
 
@@ -697,8 +697,8 @@ PERFORMING ALL OUT ! Terimakasih telah menjadi temanku</strong></p></td>
   - [AKB48 Team SH](../Page/AKB48_Team_SH.md "wikilink")
   - [AKB48 Team TP](../Page/AKB48_Team_TP.md "wikilink")
   - [SGO48](../Page/SGO48.md "wikilink")
-  - [CGM48](https://ko.wikipedia.org/wiki/CGM48 "wikilink")
-  - [DEL48](https://ko.wikipedia.org/wiki/DEL48 "wikilink")
+  - [CGM48](../Page/CGM48.md "wikilink")
+  - [DEL48](../Page/DEL48.md "wikilink")
   - [MUB48](../Page/MUB48.md "wikilink")
 
 ## 각주

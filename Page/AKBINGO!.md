@@ -108,7 +108,7 @@
   - [STU48의 세토빙고\!](https://ko.wikipedia.org/wiki/STU48의_세토빙고! "wikilink")
   - [HKTBINGO\!](https://ko.wikipedia.org/wiki/HKTBINGO! "wikilink")
   - [SKEBINGO\!](https://ko.wikipedia.org/wiki/SKEBINGO! "wikilink")
-  - [HINABINGO\!](https://ko.wikipedia.org/wiki/HINABINGO! "wikilink")
+  - [HINABINGO\!](../Page/HINABINGO!.md "wikilink")
 
 ## 외부 링크
 

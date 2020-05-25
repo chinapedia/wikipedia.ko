@@ -321,7 +321,7 @@
   - ~~[넥슨 FIFA 온라인 3 웹사이트](http://fifaonline3.nexon.com/)~~ (서비스 종료)
   - ~~[네이버 FIFA 온라인 3 웹사이트](https://web.archive.org/web/20161118213602/http://fifaonline3.nexon.game.naver.com/main/index.aspx)~~ (서비스 종료)
 
-[분류:2012년 비디오 게임](https://ko.wikipedia.org/wiki/분류:2012년_비디오_게임 "wikilink") [분류:다중 사용자 온라인 게임](https://ko.wikipedia.org/wiki/분류:다중_사용자_온라인_게임 "wikilink") [분류:FIFA 게임 시리즈](https://ko.wikipedia.org/wiki/분류:FIFA_게임_시리즈 "wikilink") [분류:윈도우 게임](https://ko.wikipedia.org/wiki/분류:윈도우_게임 "wikilink") [분류:안드로이드 게임](https://ko.wikipedia.org/wiki/분류:안드로이드_게임 "wikilink") [분류:축구 게임](https://ko.wikipedia.org/wiki/분류:축구_게임 "wikilink") [분류:E스포츠 게임](https://ko.wikipedia.org/wiki/분류:E스포츠_게임 "wikilink") [분류:서비스가 종료된 온라인 게임](https://ko.wikipedia.org/wiki/분류:서비스가_종료된_온라인_게임 "wikilink")
+[분류:2012년 비디오 게임](https://ko.wikipedia.org/wiki/분류:2012년_비디오_게임 "wikilink") [분류:다중 사용자 온라인 게임](https://ko.wikipedia.org/wiki/분류:다중_사용자_온라인_게임 "wikilink") [분류:FIFA (비디오 게임 시리즈)](https://ko.wikipedia.org/wiki/분류:FIFA_\(비디오_게임_시리즈\) "wikilink") [분류:윈도우 게임](https://ko.wikipedia.org/wiki/분류:윈도우_게임 "wikilink") [분류:안드로이드 게임](https://ko.wikipedia.org/wiki/분류:안드로이드_게임 "wikilink") [분류:축구 게임](https://ko.wikipedia.org/wiki/분류:축구_게임 "wikilink") [분류:E스포츠 게임](https://ko.wikipedia.org/wiki/분류:E스포츠_게임 "wikilink") [분류:서비스가 종료된 온라인 게임](https://ko.wikipedia.org/wiki/분류:서비스가_종료된_온라인_게임 "wikilink")
 
 1.  갈라타사라이 SK, 트라브존스포르, 베식타쉬 JK, 페네르바체 SK는 원래 기타 리그에 포함되어 있었다. 하지만 터키 리그가 추가되고 나서 이곳으로 빠지게 되었고 유저가 이 리그들을 직접 고를 수 있게 되었다.
 2.  컴퓨터로 K리그 챌린지가 존재하나 유저가 이 리그를 선택할 수는 없다.

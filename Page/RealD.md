@@ -5,7 +5,7 @@
 
 ## 기술
 
-[thumb](https://ko.wikipedia.org/wiki/파일:TwoRealDglassesblackening.jpg "wikilink") [thumb](https://ko.wikipedia.org/wiki/파일:RealDglassesseeninmirror.jpg "wikilink")
+[섬네일](https://ko.wikipedia.org/wiki/파일:TwoRealDglassesblackening.jpg "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:RealDglassesseeninmirror.jpg "wikilink")
 
 RealD에는 [원편광방식이](../Page/편광.md "wikilink") 사용되고 있다. 직사편광 영상은 3차원 감상을 하기 위해서 목을 거의 기울이는 일 없이 세울 필요가 있지만(기울이는 경우, 물체가 이중으로 보이거나 어두워지거나 한다.), 원편광은 목을 기울여도 3차원 영상이 파괴되지 않는다는 점에서, 직사편광보다 원편광의 이점이라고 할 수 있다.
 

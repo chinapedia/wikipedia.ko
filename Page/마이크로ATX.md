@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [마이크로ATX](https://ko.wikipedia.org/wiki/마이크로ATX).
 
 
-[thumb](https://ko.wikipedia.org/wiki/파일:ASRock_G31M-S_Micro-ATX_Motherboard.jpg "wikilink") 마이크로ATX 메인보드|right\]\] **마이크로ATX**(MicroATX) 또는 **µATX**, **mATX**는 [1997년](../Page/1997년.md "wikilink") [12월](../Page/12월.md "wikilink")에 도입된 표준 [메인보드 폼 팩터이다](../Page/컴퓨터_폼_팩터.md "wikilink").\[1\] 마이크로ATX 메인보드의 최소 크기는 171.45mm × 171.45mm 이며, 최대 크기는 244mm × 244mm이다.\[2\]
+[섬네일](https://ko.wikipedia.org/wiki/파일:ASRock_G31M-S_Micro-ATX_Motherboard.jpg "wikilink") 마이크로ATX 메인보드|right\]\] **마이크로ATX**(MicroATX) 또는 **µATX**, **mATX**는 [1997년](../Page/1997년.md "wikilink") [12월](../Page/12월.md "wikilink")에 도입된 표준 [메인보드 폼 팩터이다](../Page/컴퓨터_폼_팩터.md "wikilink").\[1\] 마이크로ATX 메인보드의 최소 크기는 171.45mm × 171.45mm이며, 최대 크기는 244mm × 244mm이다.\[2\]
 
 현재 사용 가능한 마이크로ATX 메인보드는 [VIA](https://ko.wikipedia.org/wiki/VIA "wikilink"), [인텔](../Page/인텔.md "wikilink"), [AMD](https://ko.wikipedia.org/wiki/AMD "wikilink")의 [CPU를](../Page/중앙_처리_장치.md "wikilink") 지원한다.
 

@@ -9,7 +9,7 @@
 
 **Savane**는 소프트웨어 호스팅 소프트웨어로 PHP 기반이나 현재 Python, Django, CSS로의 재작성이 이루어지고 있다.\[2\]
 
-## 함께보기
+## 같이 보기
 
   - [소스포지](../Page/소스포지.md "wikilink")
   - [AVR-GCC](https://ko.wikipedia.org/wiki/AVR-GCC "wikilink")

@@ -9,7 +9,7 @@
 
 ## 각주
 
-<references/>
+<references />
 
 [분류:미국의 텔레비전 네트워크](https://ko.wikipedia.org/wiki/분류:미국의_텔레비전_네트워크 "wikilink") [분류:1984년 설립된 텔레비전 방송국과 채널](https://ko.wikipedia.org/wiki/분류:1984년_설립된_텔레비전_방송국과_채널 "wikilink")
 

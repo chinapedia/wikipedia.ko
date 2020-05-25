@@ -41,7 +41,7 @@
 
 [미국](../Page/미국.md "wikilink")의 경우 공공기관은 [옵트인](https://ko.wikipedia.org/wiki/옵트인 "wikilink")(Opt-in), 즉 사용자 동의나 등록을 통해서만 정보를 사용할 수 있는 방식으로 까다롭게 설정하지만, 민간기관 사이에서는 [옵트아웃](https://ko.wikipedia.org/wiki/옵트아웃 "wikilink")(Opt-out), 즉 자신의 정보사용 요구를 거부하면 사용할 수 없는 방식이기 때문에 [데이터](https://ko.wikipedia.org/wiki/데이터 "wikilink")의 자유로운 거래가 가능한 반면 [한국](../Page/한국.md "wikilink")의 개인정보보호법은 민간 부문에도 비교적 강한 [옵트인](https://ko.wikipedia.org/wiki/옵트인 "wikilink") 방식을 채택하고 있다. [개인식별번호의](https://ko.wikipedia.org/wiki/국민식별번호 "wikilink") 음성적 거래가 만연해 있고, 그런 상황에 대한 강한 불신이 있기 때문에 역설적으로 합법적인 영역에서 [빅데이터](https://ko.wikipedia.org/wiki/빅데이터 "wikilink")가 활성화하기 어려운 상황, 제도적{{·}}정책적으로 시급한 개혁이 필요한 상황이다.\[9\]\[10\]
 
-## 함께 보기
+## 같이 보기
 
   - [경영정보학](../Page/경영정보학.md "wikilink")(BI)
   - [경영 정보 시스템](../Page/경영_정보_시스템.md "wikilink")(MIS)

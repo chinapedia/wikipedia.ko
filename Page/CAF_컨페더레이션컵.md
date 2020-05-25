@@ -663,7 +663,7 @@ CAF 컨페더레이션컵의 우승 팀은 [CAF 슈퍼컵에](../Page/CAF_슈퍼
 </tbody>
 </table>
 
-## 함께 보기
+## 같이 보기
 
   - [CAF 챔피언스리그](../Page/CAF_챔피언스리그.md "wikilink")
   - [CAF 슈퍼컵](../Page/CAF_슈퍼컵.md "wikilink")

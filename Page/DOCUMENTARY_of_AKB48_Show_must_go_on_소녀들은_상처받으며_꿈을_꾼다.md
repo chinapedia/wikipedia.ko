@@ -39,6 +39,6 @@
 
   -
   -
-[분류:일본어 영화 작품](https://ko.wikipedia.org/wiki/분류:일본어_영화_작품 "wikilink") [분류:일본의 다큐멘터리 영화](https://ko.wikipedia.org/wiki/분류:일본의_다큐멘터리_영화 "wikilink") [분류:십대 영화](https://ko.wikipedia.org/wiki/분류:십대_영화 "wikilink") [분류:AKB48](https://ko.wikipedia.org/wiki/분류:AKB48 "wikilink") [분류:긴 낱말](https://ko.wikipedia.org/wiki/분류:긴_낱말 "wikilink") [분류:동일본 대지진을 소재로 한 영화](https://ko.wikipedia.org/wiki/분류:동일본_대지진을_소재로_한_영화 "wikilink")
+[분류:일본어 영화 작품](https://ko.wikipedia.org/wiki/분류:일본어_영화_작품 "wikilink") [분류:일본의 다큐멘터리 영화](https://ko.wikipedia.org/wiki/분류:일본의_다큐멘터리_영화 "wikilink") [분류:십대 영화](https://ko.wikipedia.org/wiki/분류:십대_영화 "wikilink") [분류:AKB48](https://ko.wikipedia.org/wiki/분류:AKB48 "wikilink") [분류:동일본 대지진을 소재로 한 영화](https://ko.wikipedia.org/wiki/분류:동일본_대지진을_소재로_한_영화 "wikilink")
 
 1.

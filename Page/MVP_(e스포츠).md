@@ -181,6 +181,7 @@
   - 2018 StarLadder & ImbaTV Invitational Chongqing - 4위
   - 2018 CS:GO Asia Summit - 1위
   - 2018 ZOTAC Cup Masters 2018 Grand Finals - 4강
+  - 2018 eXTREMESLAND 2018 Asia Finals - 1위
 
 ### 배틀그라운드
 

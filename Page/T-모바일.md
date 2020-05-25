@@ -186,7 +186,7 @@
 </tbody>
 </table>
 
-## 함께 보기
+## 같이 보기
 
   - [T-모바일 아레나](../Page/T-모바일_아레나.md "wikilink")
   - [T-모바일 파크](../Page/T-모바일_파크.md "wikilink")

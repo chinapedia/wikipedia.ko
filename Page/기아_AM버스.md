@@ -13,7 +13,7 @@
 
 #### AM707
 
-[1977년](../Page/1977년.md "wikilink") \~ [1978년](../Page/1978년.md "wikilink")에 AM807과 같이 출시된 버스이다. 베이스 모델은 [마쓰다 파크웨이 초대 모델이다](https://ko.wikipedia.org/wiki/마쓰다_파크웨이 "wikilink"). [1983년](../Page/1983년.md "wikilink")에 후속 차종 없이 단종되었다.
+[1978년](../Page/1978년.md "wikilink")에 AM807과 같이 출시된 버스이다. 베이스 모델은 [마쓰다 파크웨이 초대 모델이다](https://ko.wikipedia.org/wiki/마쓰다_파크웨이 "wikilink"). [1983년](../Page/1983년.md "wikilink")에 후속 차종 없이 단종되었다.
 
 #### AM807
 

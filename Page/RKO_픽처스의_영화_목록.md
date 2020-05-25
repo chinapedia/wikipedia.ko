@@ -33,7 +33,7 @@
 
 ### 1940년
 
-  - [키티 포일](https://ko.wikipedia.org/wiki/키티_포일 "wikilink")
+  - [키티 포일](../Page/키티_포일.md "wikilink")
   - [피노키오](../Page/피노키오_\(1940년_영화\).md "wikilink")
   - [나의 가장 좋아하는 아내](https://ko.wikipedia.org/wiki/나의_가장_좋아하는_아내 "wikilink")
   - [환타지아](../Page/환타지아_\(영화\).md "wikilink")
@@ -44,7 +44,7 @@
   - [벨 오브 파이어](https://ko.wikipedia.org/wiki/벨_오브_파이어 "wikilink")
   - [시민 케인](../Page/시민_케인.md "wikilink")
   - [악마와 데니얼 웹스터](https://ko.wikipedia.org/wiki/악마와_데니얼_웹스터 "wikilink")
-  - [리럭턴트 드래곤](https://ko.wikipedia.org/wiki/리럭턴트_드래곤 "wikilink")
+  - [리럭턴트 드래곤](../Page/리럭턴트_드래곤.md "wikilink")
   - [리틀 폭시스](https://ko.wikipedia.org/wiki/리틀_폭시스 "wikilink")
   - [덤보](../Page/덤보.md "wikilink")
   - [서스픽션](https://ko.wikipedia.org/wiki/서스픽션 "wikilink")
@@ -72,10 +72,10 @@
   - [이방인](https://ko.wikipedia.org/wiki/이방인 "wikilink")
   - [음악의 세계](../Page/음악의_세계.md "wikilink")
   - [오명](../Page/오명_\(1946년_영화\).md "wikilink")
-  - [나선 계단](https://ko.wikipedia.org/wiki/나선_계단 "wikilink")
+  - [나선 계단](../Page/나선_계단.md "wikilink")
   - [30년 만의 휴일](https://ko.wikipedia.org/wiki/30년_만의_휴일 "wikilink")
   - [내일은 영원히](https://ko.wikipedia.org/wiki/내일은_영원히 "wikilink")
-  - [남부의 노래](https://ko.wikipedia.org/wiki/남부의_노래 "wikilink")
+  - [남부의 노래](../Page/남부의_노래.md "wikilink")
 
 ### 1947년
 

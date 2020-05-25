@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Colorful \(9nine의 노래\)](https://ko.wikipedia.org/wiki/Colorful_\(9nine의_노래\)).
 
 
-「**colorful**」(컬러풀) [9nine](../Page/9nine.md "wikilink")의 13번째 싱글이다. [2013년](../Page/2013년.md "wikilink") [2월 6일에](../Page/2월_6일.md "wikilink") [SME Records로부터](https://ko.wikipedia.org/wiki/SME_Records "wikilink") 발매 예정이다.
+「**colorful**」(컬러풀) [9nine](../Page/9nine.md "wikilink")의 13번째 싱글이다. [2013년](../Page/2013년.md "wikilink") [2월 6일에](../Page/2월_6일.md "wikilink") [SME Records로부터](https://ko.wikipedia.org/wiki/SME_Records "wikilink") 발매되었다.\[1\]\[2\]
 
 ## 개요
 
@@ -13,7 +13,7 @@
       - 작사：U-ka、작곡：[巴川貴裕](https://ko.wikipedia.org/wiki/Integral_Clover "wikilink")、편곡：Masahiro Tobinai
     <!-- end list -->
       -
-        「무엇이 일어나도 절대\! 괜찮으니까(何が起こっても 絶対\!大丈夫だから)」라는 적극적이고 강렬한 가사가 인상적이고 질주감이 넘치는 넘버. 또한 영화감독인 이가라시 타쿠야는 「9nine의 여러분에게는 TV시리즈에 이어서 질주감있는 상쾌한 곡을 제공받고, 보고있는 사람을 영화의 세계로 빠져드게 한 반짝반짝한 파워를 받았습니다. (9nineの皆さんにはTVシリーズに引き続き、疾走感のある爽快な楽曲を提供して頂いて、見ている人を映画の世界へぐっと引き込むキラキラとしたパワーを頂きました)」라고 코멘트를 했다.\[1\]
+        「무엇이 일어나도 절대\! 괜찮으니까(何が起こっても 絶対\!大丈夫だから)」라는 적극적이고 강렬한 가사가 인상적이고 질주감이 넘치는 넘버. 또한 영화감독인 이가라시 타쿠야는 「9nine의 여러분에게는 TV시리즈에 이어서 질주감있는 상쾌한 곡을 제공받고, 보고있는 사람을 영화의 세계로 빠져드게 한 반짝반짝한 파워를 받았습니다. (9nineの皆さんにはTVシリーズに引き続き、疾走感のある爽快な楽曲を提供して頂いて、見ている人を映画の世界へぐっと引き込むキラキラとしたパワーを頂きました)」라고 코멘트를 했다.\[3\]
 2.  **부드러운 비(やさしい雨)** \[4:17\]
       - 작사：Akuru Kagi、작곡：Yumi Moriguchi、편곡：[h-wonder](https://ko.wikipedia.org/wiki/h-wonder "wikilink")
 3.  **[少女トラベラー](https://ko.wikipedia.org/wiki/쇼죠토라베라 "wikilink") (tofubeats remix)** \[5:25\]
@@ -52,3 +52,5 @@
 [분류:9nine의 노래](https://ko.wikipedia.org/wiki/분류:9nine의_노래 "wikilink") [분류:2013년 싱글](https://ko.wikipedia.org/wiki/분류:2013년_싱글 "wikilink")
 
 1.
+2.
+3.

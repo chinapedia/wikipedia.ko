@@ -488,7 +488,7 @@
 </tr>
 <tr class="odd">
 <td><p>9월 29일</p></td>
-<td><p><a href="../Page/아이즈원.md" title="wikilink">아이즈원</a>, <a href="https://ko.wikipedia.org/wiki/스트레이키즈" title="wikilink">Stray Kids</a>, <a href="../Page/AB6IX.md" title="wikilink">AB6IX</a>, 에이티즈, <a href="../Page/(여자)아이들.md" title="wikilink">(여자)아이들</a>, <a href="../Page/베리베리.md" title="wikilink">베리베리</a>, <a href="../Page/BVNDIT.md" title="wikilink">BVNDIT</a>, <a href="../Page/청하_(가수).md" title="wikilink">청하</a>, <a href="https://ko.wikipedia.org/wiki/엑스원" title="wikilink">엑스원</a></p></td>
+<td><p><a href="../Page/아이즈원.md" title="wikilink">아이즈원</a>, <a href="https://ko.wikipedia.org/wiki/스트레이키즈" title="wikilink">Stray Kids</a>, <a href="../Page/AB6IX.md" title="wikilink">AB6IX</a>, 에이티즈, <a href="../Page/(여자)아이들.md" title="wikilink">(여자)아이들</a>, <a href="../Page/베리베리.md" title="wikilink">베리베리</a>, <a href="../Page/밴디트_(음악_그룹).md" title="wikilink">밴디트</a>, <a href="../Page/청하_(가수).md" title="wikilink">청하</a>, <a href="https://ko.wikipedia.org/wiki/엑스원" title="wikilink">엑스원</a></p></td>
 <td></td>
 <td></td>
 <td></td>

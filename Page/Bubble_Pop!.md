@@ -5,7 +5,7 @@
 
 ## 배경과 발매
 
-현아는 포미닛의 첫 정규 음반 *[4Minutes Left](../Page/4Minutes_Left.md "wikilink")* 활동이 끝나자 2011년 6월 27일 새 음반의 재킷 사진을 공개하며 컴백을 알렸다. 재킷 사진에는 문신 사진과 풍선껌을 물고있는 사진으로 공개되자 많은 관심을 받았다.\[1\]\[2\] 같은 달 30일 *Bubble Pop\!*의 유일한 발라드 풍의 노래 "[A Bitter Day](../Page/A_Bitter_Day.md "wikilink")"를 싱글로 발매했는데, 이 노래에는 [G.NA](../Page/G.NA.md "wikilink")와 [용준형](../Page/용준형.md "wikilink")이 피처링으로 참여했다. 2011년 7월 1일에는 음반의 동명 타이틀곡 "Bubble Pop\!"의 티저를 공개했다.\[3\] 소속사는 "[Change](https://ko.wikipedia.org/wiki/Change_\(김현아의_노래\) "wikilink")"에서 강렬하고 파워풀한 퍼포먼스로 많은 인기를 얻었기때문에 퍼포먼스를 극대화시키며 일렉트로팝 스타일의 장르로 변신을 꾀했다고 말했다.\[4\] 이후 2011년 7월 5일 자정에 *Bubble Pop\!*을 발매했고 뮤직비디오도 함께 공개했다.\[5\]
+현아는 [포미닛](../Page/포미닛.md "wikilink")의 첫 정규 음반 *[4Minutes Left](../Page/4Minutes_Left.md "wikilink")* 활동이 끝나자 2011년 6월 27일 새 음반의 재킷 사진을 공개하며 컴백을 알렸다. 재킷 사진에는 문신 사진과 풍선껌을 물고있는 사진으로 공개되자 많은 관심을 받았다.\[1\]\[2\] 같은 달 30일 *Bubble Pop\!*의 유일한 발라드 풍의 노래 "[A Bitter Day](../Page/A_Bitter_Day.md "wikilink")"를 싱글로 발매했는데, 이 노래에는 [G.NA](../Page/G.NA.md "wikilink")와 [용준형](../Page/용준형.md "wikilink")이 피처링으로 참여했다. 2011년 7월 1일에는 음반의 동명 타이틀곡 "Bubble Pop\!"의 티저를 공개했다.\[3\] 소속사는 "[Change](https://ko.wikipedia.org/wiki/Change_\(김현아의_노래\) "wikilink")"에서 강렬하고 파워풀한 퍼포먼스로 많은 인기를 얻었기때문에 퍼포먼스를 극대화시키며 일렉트로팝 스타일의 장르로 변신을 꾀했다고 말했다.\[4\] 이후 2011년 7월 5일 자정에 *Bubble Pop\!*을 발매했고 뮤직비디오도 함께 공개했다.\[5\]
 
 ## 활동
 

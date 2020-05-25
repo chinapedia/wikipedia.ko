@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [KC-X 사업](https://ko.wikipedia.org/wiki/KC-X_사업).
 
 
-[thumb](https://ko.wikipedia.org/wiki/파일:KC-767_Aeronautica_Militare_tanker_refueler_2007.jpg "wikilink") [thumb](https://ko.wikipedia.org/wiki/파일:KC-767J.JPG "wikilink")
+[섬네일](https://ko.wikipedia.org/wiki/파일:KC-767_Aeronautica_Militare_tanker_refueler_2007.jpg "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:KC-767J.JPG "wikilink")
 
 **KC-X 사업**은 [미국 공군의](../Page/미국_공군.md "wikilink") 구형 [KC-135](https://ko.wikipedia.org/wiki/KC-135 "wikilink")를 교체하는 사업이다. [KC-45](https://ko.wikipedia.org/wiki/KC-45 "wikilink")은 부정부패 등의 문제로 취소되었으나, 2011년 2월 [KC-46](https://ko.wikipedia.org/wiki/KC-46 "wikilink")이 새로 진행 중이다.
 

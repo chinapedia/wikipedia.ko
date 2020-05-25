@@ -42,4 +42,4 @@
   - [시사스페셜](../Page/시사스페셜.md "wikilink")
   - [MBN 뉴스특보](../Page/MBN_뉴스특보.md "wikilink")
 
-[분류:매일방송의 뉴스 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:매일방송의_뉴스_텔레비전_프로그램 "wikilink") [분류:아침 정보 프로그램](https://ko.wikipedia.org/wiki/분류:아침_정보_프로그램 "wikilink")
+[분류:매일방송의 뉴스 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:매일방송의_뉴스_텔레비전_프로그램 "wikilink") [분류:아침 정보 프로그램](https://ko.wikipedia.org/wiki/분류:아침_정보_프로그램 "wikilink") [분류:2011년에 시작한 대한민국 TV 프로그램](https://ko.wikipedia.org/wiki/분류:2011년에_시작한_대한민국_TV_프로그램 "wikilink")

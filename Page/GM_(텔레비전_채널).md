@@ -58,7 +58,7 @@
 | **음악**  | [핫앤뉴 뮤직비디오](https://ko.wikipedia.org/wiki/핫앤뉴_뮤직비디오 "wikilink")       |                                                             |
 | **음악**  | [원더 케이팝](https://ko.wikipedia.org/wiki/원더_케이팝 "wikilink")             |                                                             |
 | **교양**  | [콕킹 코리아](https://ko.wikipedia.org/wiki/콕킹_코리아 "wikilink")             | [SBS](../Page/SBS.md "wikilink")                            |
-| **교양**  | [TV 보험상담소](https://ko.wikipedia.org/wiki/TV_보험상담소 "wikilink")         |                                                             |
+| **교양**  | [TV 보험상담소](https://ko.wikipedia.org/wiki/TV_보험상담소 "wikilink")         | [TBC](https://ko.wikipedia.org/wiki/대구방송 "wikilink")        |
 | **기타**  | [통큰 부동산](https://ko.wikipedia.org/wiki/통큰_부동산 "wikilink")             |                                                             |
 | **음악**  | [전국 TOP10 가요쇼](https://ko.wikipedia.org/wiki/전국_TOP10_가요쇼 "wikilink") | [JTV](../Page/전주방송.md "wikilink")                           |
 

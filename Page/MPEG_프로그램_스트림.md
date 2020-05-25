@@ -56,7 +56,7 @@ MPEG-2 프로그램 스트림은 MPEG-1 부분 2 영상, MPEG-2 부분 2 영상,
 
 ## 각주
 
-<references/>
+<references />
 
 [분류:MPEG](https://ko.wikipedia.org/wiki/분류:MPEG "wikilink") [분류:파일 포맷](https://ko.wikipedia.org/wiki/분류:파일_포맷 "wikilink") [분류:MPEG-2](https://ko.wikipedia.org/wiki/분류:MPEG-2 "wikilink")
 

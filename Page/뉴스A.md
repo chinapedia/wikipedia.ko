@@ -35,6 +35,6 @@
 
 ## 각주
 
-[분류:채널A의 뉴스 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:채널A의_뉴스_텔레비전_프로그램 "wikilink") [분류:2011년에 시작한 대한민국 TV 프로그램](https://ko.wikipedia.org/wiki/분류:2011년에_시작한_대한민국_TV_프로그램 "wikilink")
+[분류:채널A의 뉴스 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:채널A의_뉴스_텔레비전_프로그램 "wikilink") [분류:2011년에 시작한 대한민국 TV 프로그램](https://ko.wikipedia.org/wiki/분류:2011년에_시작한_대한민국_TV_프로그램 "wikilink") [분류:2013년에 종료한 대한민국 TV 프로그램](https://ko.wikipedia.org/wiki/분류:2013년에_종료한_대한민국_TV_프로그램 "wikilink") [분류:2017년에 시작한 대한민국 TV 프로그램](https://ko.wikipedia.org/wiki/분류:2017년에_시작한_대한민국_TV_프로그램 "wikilink")
 
 1.  [보는 사람 적어 그냥 넘어갔나](http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=103&oid=038&aid=0002223597) 한국일보 2012년 1월

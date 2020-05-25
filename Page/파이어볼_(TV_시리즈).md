@@ -290,7 +290,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/토쿄도" title="wikilink">토쿄도</a>(東京都)</p></td>
+<td><p><a href="../Page/도쿄도.md" title="wikilink">도쿄도</a>(東京都)</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/토쿄_메트로폴리탄_텔레비전" title="wikilink">TOKYO MX</a></p></td>
 <td><p><a href="../Page/2008년.md" title="wikilink">2008년</a> <a href="../Page/4월_7일.md" title="wikilink">4월 7일</a> - <a href="../Page/6월_30일.md" title="wikilink">6월 30일</a></p></td>
 <td><p>월요일 18시 25분- 18시 30분</p></td>
@@ -323,7 +323,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/토쿄도" title="wikilink">토쿄도</a></p></td>
+<td><p><a href="../Page/도쿄도.md" title="wikilink">도쿄도</a></p></td>
 <td><p>TOKYO MX</p></td>
 <td><p><a href="../Page/2011년.md" title="wikilink">2011년</a> <a href="../Page/4월_4일.md" title="wikilink">4월 4일</a> - <a href="../Page/4월_25일.md" title="wikilink">4월 25일</a></p></td>
 <td><p>월요일 19시 28분 - 19시 30분</p></td>

@@ -76,7 +76,7 @@
 
 <references/>
 
-[분류:SBS의 뉴스 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:SBS의_뉴스_텔레비전_프로그램 "wikilink") [분류:2010년대 대한민국의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:2010년대_대한민국의_텔레비전_프로그램 "wikilink") [분류:아침 정보 프로그램](https://ko.wikipedia.org/wiki/분류:아침_정보_프로그램 "wikilink")
+[분류:SBS의 뉴스 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:SBS의_뉴스_텔레비전_프로그램 "wikilink") [분류:2010년대 대한민국의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:2010년대_대한민국의_텔레비전_프로그램 "wikilink") [분류:아침 정보 프로그램](https://ko.wikipedia.org/wiki/분류:아침_정보_프로그램 "wikilink") [분류:2012년에 시작한 대한민국 TV 프로그램](https://ko.wikipedia.org/wiki/분류:2012년에_시작한_대한민국_TV_프로그램 "wikilink") [분류:2016년에 종료한 대한민국 TV 프로그램](https://ko.wikipedia.org/wiki/분류:2016년에_종료한_대한민국_TV_프로그램 "wikilink")
 
 1.  다만, 신설 당시부터 2014년까지 앵커의 멘트로도 **SBS 5시 뉴스**로 표현되었다.
 2.  [최혜림](../Page/최혜림.md "wikilink") 아나운서(現. 평일 [SBS 8 뉴스](../Page/SBS_8_뉴스.md "wikilink") 앵커)는 마지막 금요일 진행 후 목요일로 옮겨서 진행.

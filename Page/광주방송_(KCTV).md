@@ -118,7 +118,7 @@
   - 33-1번 [XtvN](https://ko.wikipedia.org/wiki/XtvN "wikilink")
   - 34-1번 [MBC every1](../Page/MBC_에브리원.md "wikilink")
   - 35-1번 [KBS JOY](../Page/KBS_조이.md "wikilink")
-  - 36-1번 [JTBC2](https://ko.wikipedia.org/wiki/JTBC2 "wikilink")
+  - 36-1번 [JTBC2](../Page/JTBC2.md "wikilink")
   - 36-1번 [GTV](../Page/GTV_\(방송_채널\).md "wikilink")
   - 37-1번 [JTBC4](https://ko.wikipedia.org/wiki/JTBC4 "wikilink")
   - 37-2번 [NS SHOP+](../Page/NS홈쇼핑.md "wikilink")
@@ -231,7 +231,7 @@
   - 037번 [CJ오쇼핑](../Page/CJ오쇼핑.md "wikilink")+
   - 038번 [올리브](https://ko.wikipedia.org/wiki/올리브 "wikilink")
   - 039번 [W쇼핑](https://ko.wikipedia.org/wiki/W쇼핑 "wikilink")
-  - 040번 [JTBC2](https://ko.wikipedia.org/wiki/JTBC2 "wikilink")
+  - 040번 [JTBC2](../Page/JTBC2.md "wikilink")
   - 041번 [SK스토아](https://ko.wikipedia.org/wiki/SK스토아 "wikilink")
   - 042번 [디원](https://ko.wikipedia.org/wiki/디원TV "wikilink")
   - 043번 [드라맥스](../Page/드라맥스.md "wikilink")

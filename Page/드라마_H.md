@@ -12,7 +12,7 @@
   - [스카이라이프](https://ko.wikipedia.org/wiki/스카이라이프 "wikilink") - 119번
   - [올레TV](https://ko.wikipedia.org/wiki/올레TV "wikilink") - 70번
   - [BTV](../Page/B_TV.md "wikilink") - 46번
-  - [티브로드](../Page/티브로드.md "wikilink") - 53번
+  - [BTV케이블](../Page/B_TV.md "wikilink") - 53번
 
 ## 각주
 

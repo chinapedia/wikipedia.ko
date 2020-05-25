@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [TV조선](https://ko.wikipedia.org/wiki/TV조선).
 
 
-**TV조선**(TV朝鮮)은 [대한민국](../Page/대한민국.md "wikilink")의 [종합편성채널로](../Page/대한민국의_종합편성채널.md "wikilink"), [조선일보사](https://ko.wikipedia.org/wiki/조선일보사 "wikilink") 계열의 **조선방송주식회사**가 운영하는 텔레비전 채널이다.
+**TV CHOSUN**(TV朝鮮)은 [대한민국](../Page/대한민국.md "wikilink")의 [종합편성채널로](../Page/대한민국의_종합편성채널.md "wikilink"), [조선일보사](https://ko.wikipedia.org/wiki/조선일보사 "wikilink") 계열의 **조선방송주식회사**가 운영하는 텔레비전 채널이다.
 
 ## 유료방송
 

@@ -7,7 +7,7 @@
 
 ## 인용
 
-<references/>
+<references />
 
 [분류:슈퍼컴퓨터](https://ko.wikipedia.org/wiki/분류:슈퍼컴퓨터 "wikilink") [분류:2009년 과학](https://ko.wikipedia.org/wiki/분류:2009년_과학 "wikilink")
 

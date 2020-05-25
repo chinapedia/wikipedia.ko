@@ -19,6 +19,10 @@ IPTV의 특성인 양방향 방송통신융합을 이용한 방송 제작진과 
   - [임용수](../Page/임용수.md "wikilink")
   - [정찬우](../Page/정찬우_\(아나운서\).md "wikilink")
   - 정승호
+  - 한종희
+  - [송재익](../Page/송재익.md "wikilink")
+  - [임주완](../Page/임주완_\(아나운서\).md "wikilink")
+  - 박영웅
 
 ## 해설자
 
@@ -38,7 +42,7 @@ IPTV의 특성인 양방향 방송통신융합을 이용한 방송 제작진과 
 
 <!-- end list -->
 
-  - [강성주](https://ko.wikipedia.org/wiki/강성주 "wikilink"), [이주헌](https://ko.wikipedia.org/wiki/이주헌 "wikilink"), [김환](https://ko.wikipedia.org/wiki/김환 "wikilink"), [차상엽](../Page/차상엽.md "wikilink")
+  - [강성주](https://ko.wikipedia.org/wiki/강성주 "wikilink"), [이주헌](https://ko.wikipedia.org/wiki/이주헌 "wikilink"), [신문선](../Page/신문선.md "wikilink"), 오일영, [강신우](../Page/강신우.md "wikilink"), [이용수](../Page/이용수_\(축구인\).md "wikilink")
 
 <!-- end list -->
 

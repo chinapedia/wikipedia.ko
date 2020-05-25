@@ -7,11 +7,11 @@
 
 ## 코퍼럴
 
-[제2차 세계대전이](https://ko.wikipedia.org/wiki/제2차_세계대전 "wikilink") 끝나고, 미국은 독일의 [V-2 로켓](../Page/V-2_로켓.md "wikilink") 기술을 습득했다. 그것으로 개발한 것이 [MGM-5 코퍼럴이다](https://ko.wikipedia.org/wiki/MGM-5_코퍼럴 "wikilink"). 미국 최초의 핵탄두 탑재 유도 미사일이다. 사거리 139 km 이며, 1954년에 [영국](../Page/영국.md "wikilink")에 판매되었고, 1955년 미국에 실전배치되었다.
+[제2차 세계대전이](https://ko.wikipedia.org/wiki/제2차_세계대전 "wikilink") 끝나고, 미국은 독일의 [V-2 로켓](../Page/V-2_로켓.md "wikilink") 기술을 습득했다. 그것으로 개발한 것이 [MGM-5 코퍼럴이다](https://ko.wikipedia.org/wiki/MGM-5_코퍼럴 "wikilink"). 미국 최초의 핵탄두 탑재 유도 미사일이다. 사거리 139 km이며, 1954년에 [영국](../Page/영국.md "wikilink")에 판매되었고, 1955년 미국에 실전배치되었다.
 
 ## 랜스
 
-서전트는 1972년 [MGM-52 랜스로](../Page/MGM-52_랜스.md "wikilink") 대체되었다. 랜스 핵미사일은 폭발력 100 kt의 [W70](../Page/W70.md "wikilink") 핵탄두를 탑재하며, 무게 1.2톤, 사거리 120 km 이며, [박정희 정부](../Page/박정희_정부.md "wikilink") 시절에 [대한민국](../Page/대한민국.md "wikilink")에 배치되어, 북한에 핵공격력을 과시했다.
+서전트는 1972년 [MGM-52 랜스로](../Page/MGM-52_랜스.md "wikilink") 대체되었다. 랜스 핵미사일은 폭발력 100 kt의 [W70](../Page/W70.md "wikilink") 핵탄두를 탑재하며, 무게 1.2톤, 사거리 120 km이며, [박정희 정부](../Page/박정희_정부.md "wikilink") 시절에 [대한민국](../Page/대한민국.md "wikilink")에 배치되어, 북한에 핵공격력을 과시했다.
 
 코퍼럴과 서전트는 핵미사일 전용이었는데 비해, 랜스는 재래식 탄두도 탑재했다. 그러나 [박정희 정부](../Page/박정희_정부.md "wikilink") 시절에는 주한미군의 랜스 미사일이 [중성자탄](../Page/중성자탄.md "wikilink")을 탑재했다고 크게 보도되었었다.
 

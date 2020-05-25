@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Int \(C 프로그래밍 언어\)](https://ko.wikipedia.org/wiki/Int_\(C_프로그래밍_언어\)).
 
 
-정수형을 처리하기 위한 변수로, [정수형](../Page/정수형.md "wikilink")(integer)의 약자이다. [char](https://ko.wikipedia.org/wiki/char "wikilink")와 같은 구조와 특성을 가지며 char가 8비트 인데 비해, 16, 32, 64비트의 처리 단위로 CPU 마다 다르다는 차이가 있다. 변수 사용 시, [unsigned](https://ko.wikipedia.org/wiki/unsigned "wikilink")을 이용하면 부호없는 정수를 처리 할 수 있다. char는 모든 CPU에서 무조건 8비트인데 비해, int의 처리 단위 비트는 CPU마다 차이가 있다. 보통 8비트 CPU는 16비트의 처리 단위를 가지며, 32비트 CPU 이면 32비트의 처리 단위를 갖는 것이 일반적인 정수형 처리 이다. 숫자를 표시하는 방식은 [signed](https://ko.wikipedia.org/wiki/signed "wikilink") 일 경우의 [2의 보수](../Page/2의_보수.md "wikilink") 체계를 사용한다. char와 마찬가지 CPU의 ALU을 사용하여 연산 처리 한다. 8비트 CPU는 16비트 처리 단위인 int의 16비트를 처리하기 위해 여러개의 [기계어](../Page/기계어.md "wikilink") 코드를 사용한다. 따라서 8비트 CPU는 32비트 CPU에 비해 처리 시간이 더 걸린다.
+정수형을 처리하기 위한 변수로, [정수형](../Page/정수형.md "wikilink")(integer)의 약자이다. [char](https://ko.wikipedia.org/wiki/char "wikilink")와 같은 구조와 특성을 가지며 char가 8비트 인데 비해, 16, 32, 64비트의 처리 단위로 CPU 마다 다르다는 차이가 있다. 변수 사용 시, [unsigned](https://ko.wikipedia.org/wiki/unsigned "wikilink")을 이용하면 부호없는 정수를 처리 할 수 있다. char는 모든 CPU에서 무조건 8비트인데 비해, int의 처리 단위 비트는 CPU마다 차이가 있다. 보통 8비트 CPU는 16비트의 처리 단위를 가지며, 32비트 CPU 이면 32비트의 처리 단위를 갖는 것이 일반적인 정수형 처리이다. 숫자를 표시하는 방식은 [signed](https://ko.wikipedia.org/wiki/signed "wikilink") 일 경우의 [2의 보수](../Page/2의_보수.md "wikilink") 체계를 사용한다. char와 마찬가지 CPU의 ALU을 사용하여 연산 처리 한다. 8비트 CPU는 16비트 처리 단위인 int의 16비트를 처리하기 위해 여러개의 [기계어](../Page/기계어.md "wikilink") 코드를 사용한다. 따라서 8비트 CPU는 32비트 CPU에 비해 처리 시간이 더 걸린다.
 
 ## 정수체계
 

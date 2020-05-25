@@ -63,7 +63,7 @@
   - [테디 고\!](https://ko.wikipedia.org/wiki/테디_고! "wikilink") (10월)
     주연: [모리카와 아오이](../Page/모리카와_아오이.md "wikilink")
   - [트랜짓 걸즈](https://ko.wikipedia.org/wiki/트랜짓_걸즈 "wikilink") (11월 \~ 12월)
-    주연: [이토 사이리](https://ko.wikipedia.org/wiki/이토_사이리 "wikilink"), [사쿠마 유이](https://ko.wikipedia.org/wiki/사쿠마_유이 "wikilink")
+    주연: [이토 사이리](../Page/이토_사이리.md "wikilink"), [사쿠마 유이](https://ko.wikipedia.org/wiki/사쿠마_유이 "wikilink")
 
 #### 2016년
 
@@ -85,7 +85,7 @@
 | 5  | 카라마조프의 형제           | 2013년 | 6.3%\[5\] |
 |    |                     |       |           |
 
-## 함께 보기
+## 같이 보기
 
   - [후지 TV 월요일 밤 9시 드라마](../Page/후지_TV_월요일_밤_9시_드라마.md "wikilink")
   - [후지 TV 화요일 밤 9시 드라마](../Page/후지_TV_화요일_밤_9시_드라마.md "wikilink")

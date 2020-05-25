@@ -78,9 +78,6 @@
 
   - [샘플 .AU 파일](http://www.nch.com.au/acm/sample.au)
   - [Sun .au 소리 파일 형식](https://web.archive.org/web/20110514220509/http://www.opengroup.org/public/pubs/external/auformat.html)
-
-<!-- end list -->
-
   - [Au 파일 포맷에 대한 세부 정보](http://www-mmsp.ece.mcgill.ca/Documents/AudioFormats/AU/AU.html)
 
 [분류:오디오 파일 포맷](https://ko.wikipedia.org/wiki/분류:오디오_파일_포맷 "wikilink")

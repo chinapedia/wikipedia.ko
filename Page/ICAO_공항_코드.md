@@ -90,6 +90,10 @@
       - [토론토 피어슨 국제공항](https://ko.wikipedia.org/wiki/토론토_피어슨_국제공항 "wikilink") (Toronto - Toronto Pearson International Airport) [CYYZ](https://ko.wikipedia.org/wiki/CYYZ "wikilink")
   - [중화인민공화국](../Page/중화인민공화국.md "wikilink") (PRC)
       - [베이징 수도 국제공항](https://ko.wikipedia.org/wiki/베이징_수도_국제공항 "wikilink") ( Beijing - Bejing Capital International Airport [ZBAA](https://ko.wikipedia.org/wiki/ZBAA "wikilink")
+  - [뉴질랜드](../Page/뉴질랜드.md "wikilink") (New Zealand)
+      - [오클랜드 국제공항](https://ko.wikipedia.org/wiki/오클랜드_국제공항 "wikilink") (Auckland Airport
+
+[NZAA](https://ko.wikipedia.org/wiki/NZAA "wikilink")
 
 ## 각주
 

@@ -34,6 +34,8 @@
 | [2016년](../Page/2016년.md "wikilink") 일자 미상 \~ [2017년](../Page/2017년.md "wikilink") [6월](../Page/6월.md "wikilink")                                | 매주 평일 저녁 6시 \~ 7시 30분                                                                                                                                      | 1시간 30분                      |         |    |
 | [2017년](../Page/2017년.md "wikilink") [7월](../Page/7월.md "wikilink") \~ [2020년](../Page/2020년.md "wikilink") [3월 6일](../Page/3월_6일.md "wikilink") | 매주 평일 저녁 6시 10분 \~ 7시 30분                                                                                                                                  | 1시간 20분                      |         |    |
 | [2020년](../Page/2020년.md "wikilink") [3월 9일](../Page/3월_9일.md "wikilink") \~ **현재**                                                              | 매주 평일 오후 5시 50분 \~ 저녁 7시 20분                                                                                                                               | 1시간 30분                      |         |    |
+| [2020년](../Page/2020년.md "wikilink") \~ **예정**                                                                                                   | 매주 월요일 \~ 목요일 오후 5시 50분 \~ 저녁 7시 20분                                                                                                                       | 1시간 30분                      |         |    |
+| 매주 금요일 오후 5시 50분 \~ 저녁 6시 50분                                                                                                                    | 1시간                                                                                                                                                        |                              |         |    |
 
 ## 타이틀 변천사
 
@@ -60,4 +62,4 @@
   - [MBN 뉴스와이드 - DAUM 영화](http://movie.daum.net/tv/detail/main.do?tvProgramId=61958)
   - [MBN 뉴스와이드 - 네이버 TV편성표](http://tvguide.naver.com/program/master.nhn?masterId=M603941669&query=%EB%89%B4%EC%8A%A4%EC%99%80%EC%9D%B4%EB%93%9C)
 
-[분류:매일방송의 뉴스 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:매일방송의_뉴스_텔레비전_프로그램 "wikilink") [분류:2000년대 대한민국의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:2000년대_대한민국의_텔레비전_프로그램 "wikilink") [분류:2010년대 대한민국의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:2010년대_대한민국의_텔레비전_프로그램 "wikilink")
+[분류:매일방송의 뉴스 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:매일방송의_뉴스_텔레비전_프로그램 "wikilink") [분류:2000년대 대한민국의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:2000년대_대한민국의_텔레비전_프로그램 "wikilink") [분류:2010년대 대한민국의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:2010년대_대한민국의_텔레비전_프로그램 "wikilink") [분류:2003년에 시작한 대한민국 TV 프로그램](https://ko.wikipedia.org/wiki/분류:2003년에_시작한_대한민국_TV_프로그램 "wikilink") [분류:2011년에 종료한 대한민국 TV 프로그램](https://ko.wikipedia.org/wiki/분류:2011년에_종료한_대한민국_TV_프로그램 "wikilink") [분류:2011년에 시작한 대한민국 TV 프로그램](https://ko.wikipedia.org/wiki/분류:2011년에_시작한_대한민국_TV_프로그램 "wikilink")

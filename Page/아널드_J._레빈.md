@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [아널드 J. 레빈](https://ko.wikipedia.org/wiki/아널드_J._레빈).
 
 
-**아널드 J. 레빈**(Arnold J. Levine, 1939년\~ )\[1\]은 [미국](../Page/미국.md "wikilink")의 [분자 생물학자이다](https://ko.wikipedia.org/wiki/분자_생물학자 "wikilink"). 그는 1998년 [루이자 그로스 호위츠상을](https://ko.wikipedia.org/wiki/루이자_그로스_호위츠상 "wikilink") 수상했고, [종양 억제 단백질](https://ko.wikipedia.org/wiki/종양_억제_단백질 "wikilink") [p53](https://ko.wikipedia.org/wiki/p53 "wikilink")를 발견한 공로로 2001년 [올버니 의료센터 상을](https://ko.wikipedia.org/wiki/올버니_의료센터_상 "wikilink") 최초로 수상했다.\[2\] 그는 [록펠러 대학교의](../Page/록펠러_대학교.md "wikilink") 총장이었다.\[3\] 현재 [프린스턴 고등연구소에서](../Page/프린스턴_고등연구소.md "wikilink") 시스템 생물학 분야의 교수로 재직하고 있다.\[4\]
+**아널드 J. 레빈**(Arnold J. Levine, 1939년\~ )\[1\]은 [미국](../Page/미국.md "wikilink")의 [분자 생물학자이다](https://ko.wikipedia.org/wiki/분자_생물학자 "wikilink"). 그는 1998년 [루이자 그로스 호위츠상을](https://ko.wikipedia.org/wiki/루이자_그로스_호위츠상 "wikilink") 수상했고, [종양 억제 단백질](https://ko.wikipedia.org/wiki/종양_억제_단백질 "wikilink") [p53](https://ko.wikipedia.org/wiki/p53 "wikilink")를 발견한 공로로 2001년 [올버니 의료센터 상을](../Page/올버니_의료센터_상.md "wikilink") 최초로 수상했다.\[2\] 그는 [록펠러 대학교의](../Page/록펠러_대학교.md "wikilink") 총장이었다.\[3\] 현재 [프린스턴 고등연구소에서](../Page/프린스턴_고등연구소.md "wikilink") 시스템 생물학 분야의 교수로 재직하고 있다.\[4\]
 
 ## 경력
 
@@ -9,7 +9,7 @@
 
 ## 수상
 
-레빈은 루이자 그로스 호위츠 상 (1998년)과 [올버니 의료센터 상](https://ko.wikipedia.org/wiki/올버니_의료센터_상 "wikilink")(2001년) 외에도 다양한 상을 수상했다. 그는 1991년 [미국 과학 아카데미의](https://ko.wikipedia.org/wiki/미국_과학_아카데미 "wikilink") 회원으로,\[5\] 1995년에는 [미국 의학 협회의](https://ko.wikipedia.org/wiki/미국_의학_협회 "wikilink") 회원으로 선출되었다.\[6\] 그는 1995년 [시바-드루상](https://ko.wikipedia.org/wiki/시바-드루상 "wikilink")을 수상했다. 레빈은 p53 종양 억제 단백질을 발견한 공로로 1994년 [브리스틀-마이어스상](https://ko.wikipedia.org/wiki/브리스틀-마이어스상 "wikilink"), 1999년 [찰스 S. 모트상](https://ko.wikipedia.org/wiki/찰스_S._모트상 "wikilink"), 2000년 [게이오 의학상을](https://ko.wikipedia.org/wiki/게이오_의학상 "wikilink") 수상했다.\[7\]
+레빈은 루이자 그로스 호위츠 상 (1998년)과 [올버니 의료센터 상](../Page/올버니_의료센터_상.md "wikilink")(2001년) 외에도 다양한 상을 수상했다. 그는 1991년 [미국 과학 아카데미의](https://ko.wikipedia.org/wiki/미국_과학_아카데미 "wikilink") 회원으로,\[5\] 1995년에는 [미국 의학 협회의](https://ko.wikipedia.org/wiki/미국_의학_협회 "wikilink") 회원으로 선출되었다.\[6\] 그는 1995년 [시바-드루상](https://ko.wikipedia.org/wiki/시바-드루상 "wikilink")을 수상했다. 레빈은 p53 종양 억제 단백질을 발견한 공로로 1994년 [브리스틀-마이어스상](https://ko.wikipedia.org/wiki/브리스틀-마이어스상 "wikilink"), 1999년 [찰스 S. 모트상](https://ko.wikipedia.org/wiki/찰스_S._모트상 "wikilink"), 2000년 [게이오 의학상을](https://ko.wikipedia.org/wiki/게이오_의학상 "wikilink") 수상했다.\[7\]
 
 ## 각주
 

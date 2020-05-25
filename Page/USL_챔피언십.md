@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [USL 챔피언십](https://ko.wikipedia.org/wiki/USL_챔피언십).
 
 
-**USL 챔피언십**(**U**nited **S**occer **L**eague Championship, **USL Championship**)은 [2011년](../Page/2011년.md "wikilink")부터 진행중인 [미국](../Page/미국.md "wikilink")과 [캐나다](../Page/캐나다.md "wikilink")의 [축구](../Page/축구.md "wikilink") 2부 리그이다. 과거에는 **유나이티드 사커 리그**라는 이름으로 불렸었다. 참가팀들은 대부분 미국과 [캐나다](../Page/캐나다.md "wikilink")의 팀이며, 과거에는 [푸에르토리코](../Page/푸에르토리코.md "wikilink")와 [앤티가바부다](https://ko.wikipedia.org/wiki/앤티가바부다 "wikilink")의 팀들도 참가한 적이 있다. [미국 축구 연맹의](https://ko.wikipedia.org/wiki/미국_축구_연맹 "wikilink") 축구 시스템 상 2부 리그로 구분되어 있으나, 현재 [메이저 리그 사커 (MLS)나](../Page/메이저_리그_사커.md "wikilink") 하위 리그인 [USL 리그 1과의](https://ko.wikipedia.org/wiki/USL_리그_1 "wikilink") 승강제는 없는 상태이다. 원래 푸에르토리코의 세 팀도 참가할 예정이었으나, 푸에르토리코 축구 리그에 소속되어 있어 두 리그의 경기 일정을 모두 소화하기 어려워 한 경기 만에 모두 빠져 나가 12개 팀으로 줄어들었다. 현재는 팀 수가 36개 팀으로 확장되었다.
+**USL 챔피언십**(**U**nited **S**occer **L**eague Championship, **USL Championship**)은 [2011년](../Page/2011년.md "wikilink")부터 진행중인 [미국](../Page/미국.md "wikilink")과 [캐나다](../Page/캐나다.md "wikilink")의 [축구](../Page/축구.md "wikilink") 2부 리그이다. 과거에는 **유나이티드 사커 리그**라는 이름으로 불렸었다. 참가팀들은 대부분 미국과 [캐나다](../Page/캐나다.md "wikilink")의 팀이며, 과거에는 [푸에르토리코](../Page/푸에르토리코.md "wikilink")와 [앤티가바부다](https://ko.wikipedia.org/wiki/앤티가바부다 "wikilink")의 팀들도 참가한 적이 있다. [미국 축구 연맹의](https://ko.wikipedia.org/wiki/미국_축구_연맹 "wikilink") 축구 시스템 상 2부 리그로 구분되어 있으나, 현재 [메이저 리그 사커 (MLS)나](../Page/메이저_리그_사커.md "wikilink") 하위 리그인 [USL 리그 1과의](../Page/USL_리그_1.md "wikilink") 승강제는 없는 상태이다. 원래 푸에르토리코의 세 팀도 참가할 예정이었으나, 푸에르토리코 축구 리그에 소속되어 있어 두 리그의 경기 일정을 모두 소화하기 어려워 한 경기 만에 모두 빠져 나가 12개 팀으로 줄어들었다. 현재는 팀 수가 36개 팀으로 확장되었다.
 
 [2013년](../Page/2013년.md "wikilink") 1월 유나이티드 사커 리그에 MLS의 리저브 팀이 참가하는 것에 대해 USL과 MLS간의 합의가 이루어졌다. 이는 북미 지역 축구 선수들의 기량 유지 및 향상과 미국 축구 시스템의 강화를 위함이었다. 이 합의로 인해 MLS와 USL 팀 간에 제휴를 맺고, 선수 상호 임대 등을 통해 선수로 하여금 더 많은 경기에 뛰게끔 만들도록 할 수 있게 되었다. [2018년](../Page/2018년.md "wikilink") 1월 USL 팀 중 20개 팀이 MLS 팀들과 제휴를 맺고 있다. MLS의 팀 중 [미네소타 유나이티드 FC](../Page/미네소타_유나이티드_FC.md "wikilink"), [올랜도 시티 SC](../Page/올랜도_시티_SC.md "wikilink"), [뉴잉글랜드 레볼루션만을](https://ko.wikipedia.org/wiki/뉴잉글랜드_레볼루션 "wikilink") 제외하고, 모든 팀들이 USL팀과 제휴를 맺고 있다.
 
@@ -59,7 +59,7 @@
 
 [2017년](../Page/2017년.md "wikilink") [1월 6일](../Page/1월_6일.md "wikilink") 미국 축구 이사진은 미국의 축구 2부 리그에 관한 회의를 진행하였고, USL을 [NASL과](../Page/북미_사커_리그.md "wikilink") 동일 선상에 위치하여, 미국 축구계 2부 리그로서의 지위를 갖도록 하였다. 2017 시즌 USL은 NASL로부터 이전을 원한 [인디 일레븐과](../Page/인디_일레븐.md "wikilink") [노스캐롤라이나 FC를](../Page/노스캐롤라이나_FC.md "wikilink") 가입시켰다.
 
-2018 시즌을 앞두고 [내슈빌 SC](../Page/내슈빌_SC.md "wikilink"), [라스베이거스 라이츠 FC](https://ko.wikipedia.org/wiki/라스베이거스_라이츠_FC "wikilink"), [프레즈노 FC](https://ko.wikipedia.org/wiki/프레즈노_FC "wikilink"), [애틀랜타 유나이티드 2가](../Page/애틀랜타_유나이티드_FC.md "wikilink") 새로 가입되었다. 반면 [올랜도 시티 B팀과](../Page/올랜도_시티_SC.md "wikilink") [로체스터 라이노스가](../Page/로체스터_라이노스.md "wikilink") 리그 잠정 탈퇴를 하기도 하였다. 추가로, [밴쿠버 화이트캡스 FC가](../Page/밴쿠버_화이트캡스_FC.md "wikilink") 기존의 리저브 구단 [화이트캡스 FC 2을](https://ko.wikipedia.org/wiki/화이트캡스_FC_2 "wikilink") 해체시키고, 프레즈노 FC와 협력 관계를 맺었다.또한 리그 명칭을 **유나이티드 사커 리그**에서 **USL 챔피언십**으로 변경했다. 2018시즌이 끝나고 [펜 FC](../Page/펜_FC.md "wikilink"), [리치먼드 키커스](../Page/리치먼드_키커스.md "wikilink"), [토론토 FC II가](../Page/토론토_FC_II.md "wikilink") 하부리그로의 자진강등을 선택했다. 2019시즌부터 하부리그로 [USL 리그 1을](https://ko.wikipedia.org/wiki/USL_리그_1 "wikilink") 두기 시작했다.
+2018 시즌을 앞두고 [내슈빌 SC](../Page/내슈빌_SC.md "wikilink"), [라스베이거스 라이츠 FC](https://ko.wikipedia.org/wiki/라스베이거스_라이츠_FC "wikilink"), [프레즈노 FC](https://ko.wikipedia.org/wiki/프레즈노_FC "wikilink"), [애틀랜타 유나이티드 2가](../Page/애틀랜타_유나이티드_FC.md "wikilink") 새로 가입되었다. 반면 [올랜도 시티 B팀과](../Page/올랜도_시티_SC.md "wikilink") [로체스터 라이노스가](../Page/로체스터_라이노스.md "wikilink") 리그 잠정 탈퇴를 하기도 하였다. 추가로, [밴쿠버 화이트캡스 FC가](../Page/밴쿠버_화이트캡스_FC.md "wikilink") 기존의 리저브 구단 [화이트캡스 FC 2을](https://ko.wikipedia.org/wiki/화이트캡스_FC_2 "wikilink") 해체시키고, 프레즈노 FC와 협력 관계를 맺었다.또한 리그 명칭을 **유나이티드 사커 리그**에서 **USL 챔피언십**으로 변경했다. 2018시즌이 끝나고 [펜 FC](../Page/펜_FC.md "wikilink"), [리치먼드 키커스](../Page/리치먼드_키커스.md "wikilink"), [토론토 FC II가](../Page/토론토_FC_II.md "wikilink") 하부리그로의 자진강등을 선택했다. 2019시즌부터 하부리그로 [USL 리그 1을](../Page/USL_리그_1.md "wikilink") 두기 시작했다.
 
 ## USL 클럽
 
@@ -751,6 +751,6 @@
 
 [분류:2010년 설립](https://ko.wikipedia.org/wiki/분류:2010년_설립 "wikilink") [분류:2010년 설립된 스포츠 리그](https://ko.wikipedia.org/wiki/분류:2010년_설립된_스포츠_리그 "wikilink") [분류:미국의 축구 리그](https://ko.wikipedia.org/wiki/분류:미국의_축구_리그 "wikilink") [\*](https://ko.wikipedia.org/wiki/분류:유나이티드_사커_리그 "wikilink") [분류:USL 챔피언십](https://ko.wikipedia.org/wiki/분류:USL_챔피언십 "wikilink") [분류:캐나다의 축구 리그](https://ko.wikipedia.org/wiki/분류:캐나다의_축구_리그 "wikilink") [분류:북아메리카의 축구 2부 리그](https://ko.wikipedia.org/wiki/분류:북아메리카의_축구_2부_리그 "wikilink") [분류:북아메리카의 축구 3부 리그](https://ko.wikipedia.org/wiki/분류:북아메리카의_축구_3부_리그 "wikilink")
 
-1.  2019시즌부터 [USL 리그 1에](https://ko.wikipedia.org/wiki/USL_리그_1 "wikilink") 참가
-2.  2020시즌부터 [USL 리그 1에](https://ko.wikipedia.org/wiki/USL_리그_1 "wikilink") 참가
-3.  2019시즌부터 [USL 리그 1에](https://ko.wikipedia.org/wiki/USL_리그_1 "wikilink") 참가
+1.  2019시즌부터 [USL 리그 1에](../Page/USL_리그_1.md "wikilink") 참가
+2.  2020시즌부터 [USL 리그 1에](../Page/USL_리그_1.md "wikilink") 참가
+3.  2019시즌부터 [USL 리그 1에](../Page/USL_리그_1.md "wikilink") 참가

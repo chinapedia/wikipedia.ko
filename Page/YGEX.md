@@ -9,13 +9,10 @@
 
 ## 주요 소속자
 
-  - [PSY](../Page/싸이.md "wikilink")
   - [BIGBANG](../Page/빅뱅_\(음악_그룹\).md "wikilink")
-  - [GD\&TOP](../Page/GD&TOP.md "wikilink")([BIGBANG유닛](../Page/빅뱅_\(음악_그룹\).md "wikilink"))
-  - [2NE1](../Page/2NE1.md "wikilink")
-  - [EPIK HIGH](https://ko.wikipedia.org/wiki/에픽하이 "wikilink")
-  - [이하이](../Page/이하이.md "wikilink")
+  - [GD\&TOP](../Page/GD&TOP.md "wikilink") ([BIGBANG](../Page/빅뱅_\(음악_그룹\).md "wikilink") 유닛)
   - [WINNER](https://ko.wikipedia.org/wiki/WINNER "wikilink")
+  - [GD X TAEYANG](../Page/GOOD_BOY_\(GD_X_TAEYANG의_노래\).md "wikilink") ([BIGBANG](../Page/빅뱅_\(음악_그룹\).md "wikilink") 유닛)
   - [iKON](https://ko.wikipedia.org/wiki/iKON "wikilink")
   - [젝스키스](../Page/젝스키스.md "wikilink")
   - [BLACKPINK](../Page/블랙핑크.md "wikilink")

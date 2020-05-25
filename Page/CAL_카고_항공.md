@@ -35,44 +35,13 @@
 
 ### 현재 사용하는 기종
 
-<table>
-<caption><strong>CAL 카고 항공의 보유기종</strong></caption>
-<thead>
-<tr class="header">
-<th><p>기종</p></th>
-<th><p>대수</p></th>
-<th><p>주문</p></th>
-<th><p>비고</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p><a href="../Page/보잉_747-400.md" title="wikilink">보잉 747-400BCF</a></p></td>
-<td><p>1</p></td>
-<td><p>0</p></td>
-<td><p>구. <a href="../Page/싱가포르_항공.md" title="wikilink">싱가포르 항공</a> 여객기<br />
-구. <a href="../Page/캐세이퍼시픽_항공.md" title="wikilink">캐세이퍼시픽 항공 카고</a> 소속 항공기</p></td>
-</tr>
-<tr class="even">
-<td><p><a href="../Page/보잉_747-400.md" title="wikilink">보잉 747-400ERF</a></p></td>
-<td><p>1</p></td>
-<td><p>1</p></td>
-<td><p>구. <a href="../Page/제이드_카고_인터내셔널.md" title="wikilink">제이드 카고 인터내셔널</a> 소속 항공기</p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="../Page/보잉_747-400.md" title="wikilink">보잉 747-400F</a></p></td>
-<td><p>1</p></td>
-<td><p>0</p></td>
-<td><p>구. <a href="../Page/싱가포르_항공_카고.md" title="wikilink">싱가포르 항공 카고</a> 소속 항공기</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+| 기종                                                | 대수 | 주문 | 비고                                                           |
+| ------------------------------------------------- | -- | -- | ------------------------------------------------------------ |
+| [보잉 747-400ERF](../Page/보잉_747-400.md "wikilink") | 1  | 0  | 구. [제이드 카고 인터내셔널](../Page/제이드_카고_인터내셔널.md "wikilink") 소속 항공기 |
+| [보잉 747-400F](../Page/보잉_747-400.md "wikilink")   | 1  | 0  | 구. [싱가포르 항공 카고](../Page/싱가포르_항공_카고.md "wikilink") 소속 항공기     |
+|                                                   |    |    |                                                              |
+
+**CAL 카고 항공의 보유기종**
 
 ### 퇴역 기종
 
@@ -82,6 +51,8 @@
 | [보잉 747-200F](../Page/보잉_747.md "wikilink")    | 1  | [2010년](../Page/2010년.md "wikilink") | [2014년](../Page/2014년.md "wikilink") | 예비용으로 저장                                             |
 | [보잉 747-200SF](../Page/보잉_747.md "wikilink")   | 1  | [2003년](../Page/2003년.md "wikilink") | [2004년](../Page/2004년.md "wikilink") | [엘알 이스라엘 항공](../Page/엘알_이스라엘_항공.md "wikilink") 임차 운항 |
 | [보잉 747-200C/SF](../Page/보잉_747.md "wikilink") | 2  | [1999년](../Page/1999년.md "wikilink") | [2011년](../Page/2011년.md "wikilink") | 1대는 예비용으로 저장                                         |
+| [보잉 747-400BCF](../Page/보잉_747.md "wikilink")  | 1  | [2016년](../Page/2016년.md "wikilink") | [2019년](../Page/2019년.md "wikilink") |                                                      |
+| [보잉 747-400ERF](../Page/보잉_747.md "wikilink")  | 1  | [2019년](../Page/2019년.md "wikilink") | [2020년](../Page/2020년.md "wikilink") |                                                      |
 |                                                |    |                                      |                                      |                                                      |
 
 **CAL 카고 항공의 퇴역 기종**

@@ -5,7 +5,7 @@
 
 ## 각주
 
-<references/>
+<references />
 
 [분류:문화방송의 라디오 프로그램](https://ko.wikipedia.org/wiki/분류:문화방송의_라디오_프로그램 "wikilink")
 

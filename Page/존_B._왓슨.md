@@ -5,7 +5,7 @@
 
 존 브로드 우스 왓슨은 심리행동학교를 설립한 미국 심리학자였다. 왓슨은 1913년 컬럼비아 대학교에서 행한 행동주의 견해로 자신의 심리학을 통해 심리학의 변화를 촉진한것으로 평가받는다. 왓슨(Watson)은 행동주의 접근 방식을 통해 동물 행동, 육아 및 광고에 대한 연구를 수행했다. 또한 논쟁적인 '[어린 앨버트 실험](https://ko.wikipedia.org/wiki/어린_앨버트_실험 "wikilink")'(Little Albert experiment)과 커플렁크 실험(Kerplunk experiment)을 수행했다. 왓슨은 과학 이론의 사용을 행동주의와 함께 대중화했다. 그는 또한 1910년부터 1915년까지 '심리학리뷰'의 편집자였다. 2002년에 발표된 일반 심리학 리뷰(Review of General Psychology Survey)는 Watson을 20세기의 가장 많이 인용된 심리학자로 선정했다.\[1\]\[2\]\[3\]\[4\]
 
-## 함께보기
+## 같이 보기
 
   - [스키너](https://ko.wikipedia.org/wiki/스키너 "wikilink")
 

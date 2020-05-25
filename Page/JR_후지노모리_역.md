@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [JR 후지노모리 역](https://ko.wikipedia.org/wiki/JR_후지노모리_역).
 
 
-**JR 후지노모리 역**()은 [일본](../Page/일본.md "wikilink") [교토부](../Page/교토부.md "wikilink") [교토 시](https://ko.wikipedia.org/wiki/교토_시 "wikilink") [후시미 구에](https://ko.wikipedia.org/wiki/후시미_구 "wikilink") 있는 [서일본 여객철도의](https://ko.wikipedia.org/wiki/서일본_여객철도 "wikilink") [철도역](../Page/철도역.md "wikilink")이다.
+**JR 후지노모리 역**()은 [일본](../Page/일본.md "wikilink") [교토부](../Page/교토부.md "wikilink") [교토시](../Page/교토시.md "wikilink") [후시미구](../Page/후시미구.md "wikilink")에 있는 [서일본 여객철도의](https://ko.wikipedia.org/wiki/서일본_여객철도 "wikilink") [철도역](../Page/철도역.md "wikilink")이다.
 
 후시미 구 남부에 위치해 있으며, 가마쿠라 시대부터 후지노모리라 불리었으며, 역 가까이에는 지명의 유래로 오래된 신사인 [후지노모리 신사가](https://ko.wikipedia.org/wiki/후지노모리_신사 "wikilink") 있어, "후지노모리"라는 지명을 역명으로 채용하였다. 다만, [게이한 본선](../Page/게이한_본선.md "wikilink") [후지노모리 역과의](../Page/후지노모리_역.md "wikilink") 구분을 위해 "JR"을 붙였다.\[1\] JR이라는 표기를 붙이는 것은 서일본 여객철도가 유일하며, 다른 JR 각사에서는 쓰지 않는다.
 

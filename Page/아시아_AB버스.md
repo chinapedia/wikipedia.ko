@@ -9,7 +9,7 @@
 
 D0846HM 엔진(185마력 7,255cc)의 프런트엔진 도시형 버스인 AB185(F)와, D2156HM 엔진(236마력, 10,350cc)의 리어엔진 장축형 모델인 AB236(R) 모델이 있었다.
 
-AB185(F)는 [광주](https://ko.wikipedia.org/wiki/광주광역시 "wikilink"), [전라남도](https://ko.wikipedia.org/wiki/전라남도 "wikilink"), [대전](https://ko.wikipedia.org/wiki/대전광역시 "wikilink"), [대전](https://ko.wikipedia.org/wiki/대전광역시 "wikilink"), [대구에서](../Page/대구광역시.md "wikilink") 총 785대 팔렸으나 AB236(R)은 전국을 통틀어 단 6대만 판매되었다.
+AB185(F)는 [서울](../Page/서울특별시.md "wikilink"), [광주](https://ko.wikipedia.org/wiki/광주광역시 "wikilink"), [전라남도](https://ko.wikipedia.org/wiki/전라남도 "wikilink"), [대전](https://ko.wikipedia.org/wiki/대전광역시 "wikilink"), [충청북도](https://ko.wikipedia.org/wiki/충청북도 "wikilink"), [대구에서](../Page/대구광역시.md "wikilink") 총 785대 팔렸으나 AB236(R)은 전국을 통틀어 단 6대만 판매되었다.
 
 ### AB185
 
@@ -31,7 +31,7 @@ AB185(F)는 [광주](https://ko.wikipedia.org/wiki/광주광역시 "wikilink"), 
 
 <!-- end list -->
 
-  - 광주, 전남, 서울, 대전, 대구를 통틀어 총 785대가 판매되었다. 주로 아시아자동차 공장이 있는 광주에서 많이 팔렸다.
+  - 광주, 전남, 서울, 대전, 충북, 대구를 통틀어 총 785대가 판매되었다. 주로 아시아자동차 공장이 있는 광주에서 많이 팔렸다.
 
 <!-- end list -->
 

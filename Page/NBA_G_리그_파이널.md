@@ -59,7 +59,7 @@
 
 <references/>
 
-## 함께 보기
+## 같이 보기
 
   - [NBA 파이널](../Page/NBA_파이널.md "wikilink")
   - [ABA 파이널](../Page/ABA_파이널.md "wikilink")

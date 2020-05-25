@@ -5,7 +5,8 @@
 
 ## 기획의도
 
-  - [1999년](../Page/1999년.md "wikilink") [2월 6일](../Page/2월_6일.md "wikilink")\[1\]에 처음으로 방송되었다. [MBC](https://ko.wikipedia.org/wiki/MBC "wikilink")의 《[TV 속의 TV](../Page/TV_속의_TV.md "wikilink")》와 비슷한 포맷의 방송이다.
+  - [1999년](../Page/1999년.md "wikilink") [2월 6일](../Page/2월_6일.md "wikilink") \[1\] : **첫 방송**
+  - [MBC](https://ko.wikipedia.org/wiki/MBC "wikilink")의 《[TV 속의 TV](../Page/TV_속의_TV.md "wikilink")》와 비슷한 포맷의 방송이다.
 
 ## 방송 시간
 
@@ -14,28 +15,28 @@
 
 ※ 공휴일이나 특집 프로그램 또는 [SBS 뉴스특보가](../Page/SBS_뉴스특보.md "wikilink") 편성될 경우 방송 시간은 상시 변동될 수 있다.
 
-| 방송 채널                                                                                                                                                          | 방송 기간                                                                                                                                                      | 방송 시간                                                 |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------- |
-| [SBS TV](../Page/SBS_TV.md "wikilink")                                                                                                                         | [2015년](../Page/2015년.md "wikilink") [1월 2일](../Page/1월_2일.md "wikilink") \~ [2015년](../Page/2015년.md "wikilink") [11월 20일](../Page/11월_20일.md "wikilink") | 매주 [금요일](../Page/금요일.md "wikilink") 오후 2시 \~ 3시 (60분) |
-| [2015년](../Page/2015년.md "wikilink") [11월 25일](../Page/11월_25일.md "wikilink") \~ [2015년](../Page/2015년.md "wikilink") [12월 16일](../Page/12월_16일.md "wikilink") | 매주 [수요일](../Page/수요일.md "wikilink") 오후 2시 \~ 3시 (60분)                                                                                                      |                                                       |
-| [2015년](../Page/2015년.md "wikilink") [12월 30일](../Page/12월_30일.md "wikilink")                                                                                  |                                                                                                                                                            |                                                       |
-| [2016년](../Page/2016년.md "wikilink") [1월 13일](../Page/1월_13일.md "wikilink") \~ [2016년](../Page/2016년.md "wikilink") [2월 3일](../Page/2월_3일.md "wikilink")       |                                                                                                                                                            |                                                       |
-| [2016년](../Page/2016년.md "wikilink") [2월 17일](../Page/2월_17일.md "wikilink") \~ [2016년](../Page/2016년.md "wikilink") [12월 28일](../Page/12월_28일.md "wikilink")   |                                                                                                                                                            |                                                       |
-| [2015년](../Page/2015년.md "wikilink") [12월 24일](../Page/12월_24일.md "wikilink")                                                                                  | 매주 [목요일](../Page/목요일.md "wikilink") 오후 2시 \~ 3시                                                                                                            |                                                       |
-| [2016년](../Page/2016년.md "wikilink") [2월 11일](../Page/2월_11일.md "wikilink")                                                                                    |                                                                                                                                                            |                                                       |
-| [2016년](../Page/2016년.md "wikilink") [1월 6일](../Page/1월_6일.md "wikilink")                                                                                      | 매주 [수요일](../Page/수요일.md "wikilink") 오후 4시 \~ 5시 (60분)                                                                                                      |                                                       |
-| [2017년](../Page/2017년.md "wikilink") [1월 4일](../Page/1월_4일.md "wikilink") \~ [2017년](../Page/2017년.md "wikilink") [2월 1일](../Page/2월_1일.md "wikilink")         | 매주 [수요일](../Page/수요일.md "wikilink") 오후 3시 \~ 4시 (60분)                                                                                                      |                                                       |
-| [2017년](../Page/2017년.md "wikilink") [2월 8일](../Page/2월_8일.md "wikilink") \~ [2019년](../Page/2019년.md "wikilink") [2월 13일](../Page/2월_13일.md "wikilink")       | 매주 [수요일](../Page/수요일.md "wikilink") 오전 11시 \~ 낮 12시 (60분)                                                                                                  |                                                       |
-| [2019년](../Page/2019년.md "wikilink") [2월 21일](../Page/2월_21일.md "wikilink") \~ **현재**                                                                          | 매주 [목요일](../Page/목요일.md "wikilink") 오전 10시 30분 \~ 11시 30분 (60분)                                                                                            |                                                       |
+| 방송 채널                                                                                                                                                          | 방송 기간                                                                                                                                                      | 방송 시간                                                     |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------- |
+| [SBS TV](../Page/SBS_TV.md "wikilink")                                                                                                                         | [2015년](../Page/2015년.md "wikilink") [1월 2일](../Page/1월_2일.md "wikilink") \~ [2015년](../Page/2015년.md "wikilink") [11월 20일](../Page/11월_20일.md "wikilink") | 매주 [금요일](../Page/금요일.md "wikilink") 오후 2:00 \~ 3:00 (60분) |
+| [2015년](../Page/2015년.md "wikilink") [11월 25일](../Page/11월_25일.md "wikilink") \~ [2015년](../Page/2015년.md "wikilink") [12월 16일](../Page/12월_16일.md "wikilink") | 매주 [수요일](../Page/수요일.md "wikilink") 오후 2:00 \~ 3:00 (60분)                                                                                                  |                                                           |
+| [2015년](../Page/2015년.md "wikilink") [12월 30일](../Page/12월_30일.md "wikilink")                                                                                  |                                                                                                                                                            |                                                           |
+| [2016년](../Page/2016년.md "wikilink") [1월 13일](../Page/1월_13일.md "wikilink") \~ [2016년](../Page/2016년.md "wikilink") [2월 3일](../Page/2월_3일.md "wikilink")       |                                                                                                                                                            |                                                           |
+| [2016년](../Page/2016년.md "wikilink") [2월 17일](../Page/2월_17일.md "wikilink") \~ [2016년](../Page/2016년.md "wikilink") [12월 28일](../Page/12월_28일.md "wikilink")   |                                                                                                                                                            |                                                           |
+| [2015년](../Page/2015년.md "wikilink") [12월 24일](../Page/12월_24일.md "wikilink")                                                                                  | 매주 [목요일](../Page/목요일.md "wikilink") 오후 2:00 \~ 3:00                                                                                                        |                                                           |
+| [2016년](../Page/2016년.md "wikilink") [2월 11일](../Page/2월_11일.md "wikilink")                                                                                    |                                                                                                                                                            |                                                           |
+| [2016년](../Page/2016년.md "wikilink") [1월 6일](../Page/1월_6일.md "wikilink")                                                                                      | 매주 [수요일](../Page/수요일.md "wikilink") 오후 4:00 \~ 5:00 (60분)                                                                                                  |                                                           |
+| [2017년](../Page/2017년.md "wikilink") [1월 4일](../Page/1월_4일.md "wikilink") \~ [2017년](../Page/2017년.md "wikilink") [2월 1일](../Page/2월_1일.md "wikilink")         | 매주 [수요일](../Page/수요일.md "wikilink") 오후 3:00 \~ 4:00 (60분)                                                                                                  |                                                           |
+| [2017년](../Page/2017년.md "wikilink") [2월 8일](../Page/2월_8일.md "wikilink") \~ [2019년](../Page/2019년.md "wikilink") [2월 13일](../Page/2월_13일.md "wikilink")       | 매주 [수요일](../Page/수요일.md "wikilink") 오전 11:00 \~ 12:00 (60분)                                                                                                |                                                           |
+| [2019년](../Page/2019년.md "wikilink") [2월 21일](../Page/2월_21일.md "wikilink") \~ **현재**                                                                          | 매주 [목요일](../Page/목요일.md "wikilink") 오전 10:30 \~ 11:30 (60분)                                                                                                |                                                           |
 
 ## 현재 진행자
 
-  - 메인 : [신용철](https://ko.wikipedia.org/wiki/신용철 "wikilink"), [이현경](../Page/이현경_\(방송인\).md "wikilink")
-  - 보조 : [김수민](https://ko.wikipedia.org/wiki/김수민_\(아나운서\) "wikilink")
+  - **메인 진행자** : [신용철](https://ko.wikipedia.org/wiki/신용철 "wikilink"), [이현경](../Page/이현경_\(방송인\).md "wikilink")
+  - **보조 진행자** : [김수민](https://ko.wikipedia.org/wiki/김수민_\(아나운서\) "wikilink")
 
 ## 역대 진행자
 
-### 메인
+### 메인 진행자
 
   - [손석기](https://ko.wikipedia.org/wiki/손석기 "wikilink")
   - [김정일](../Page/김정일_\(아나운서\).md "wikilink")
@@ -46,7 +47,7 @@
   - 오미영
   - 안순태
 
-### 보조
+### 보조 진행자
 
   - [이현경](../Page/이현경_\(방송인\).md "wikilink")
   - [이혜승](../Page/이혜승.md "wikilink")

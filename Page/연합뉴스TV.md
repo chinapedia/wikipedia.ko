@@ -17,7 +17,7 @@
   - [2011년](../Page/2011년.md "wikilink") [9월 5일](../Page/9월_5일.md "wikilink") : 하와이 한인 방송국 [KBFD-TV](https://ko.wikipedia.org/wiki/KBFD-TV "wikilink")와 방송 협약 체결
   - [2011년](../Page/2011년.md "wikilink") [9월 26일](../Page/9월_26일.md "wikilink") : 대만 뉴스전문채널인 [TVBS](../Page/TVBS.md "wikilink")와 교류협력 MOU 체결
   - [2011년](../Page/2011년.md "wikilink") [12월 1일](../Page/12월_1일.md "wikilink") : (구)뉴스Y 개국\[3\]
-  - [2012년](../Page/2012년.md "wikilink") [1월 16일](../Page/1월_16일.md "wikilink") : 청각 장애인을 위한 자막방송 하루 3시간(오후 5\~8시), 청각 장애인을 위한 수화방송 오전,낮 수시 실시
+  - [2012년](../Page/2012년.md "wikilink") [1월 16일](../Page/1월_16일.md "wikilink") : 청각 장애인을 위한 자막방송 하루 3시간(오후 5\~8시), 청각 장애인을 위한 수화방송 오전, 낮 수시 실시
   - [2012년](../Page/2012년.md "wikilink") [3월 7일](../Page/3월_7일.md "wikilink") : 대한공공의학회 업무협약 체결
   - [2013년](../Page/2013년.md "wikilink") [10월 19일](../Page/10월_19일.md "wikilink") : 사옥 이전(중구 수하동 을지로2가 미래에셋 센터원 빌딩→종로구 수송동 연합뉴스 신사옥)
   - [2014년](../Page/2014년.md "wikilink") [1월 6일](../Page/1월_6일.md "wikilink") : 뉴스와이 프로그램 개편
@@ -149,120 +149,27 @@
 
 ### 보도 프로그램
 
-<table>
-<thead>
-<tr class="header">
-<th><p>프로그램명</p></th>
-<th><p>방송 시간</p></th>
-<th><p>앵커</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>뉴스 01~04</p></td>
-<td><p>평일 새벽 1시 ~ 4시 25분</p></td>
-<td><p>오세혁, 박서현</p></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/뉴스오늘" title="wikilink">뉴스오늘</a></p></td>
-<td><p>매일 새벽 4시 30분 ~ 오전 6시 30분</p></td>
-<td><p>김민광, <a href="https://ko.wikipedia.org/wiki/이승희" title="wikilink">이승희</a></p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="../Page/출발_640.md" title="wikilink">출발 640</a></p></td>
-<td><p>평일 오전 6시 30분 ~ 7시30분</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/김승재" title="wikilink">김승재</a>, <a href="https://ko.wikipedia.org/wiki/이나연" title="wikilink">이나연</a></p></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/라이브_투데이" title="wikilink">라이브 투데이</a></p></td>
-<td><p>평일 오전 7시 50분 ~ 8시 45분</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/서태왕" title="wikilink">서태왕</a>, <a href="https://ko.wikipedia.org/wiki/류미정" title="wikilink">류미정</a></p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/뉴스_09" title="wikilink">뉴스 09</a></p></td>
-<td><p>평일 오후 8시 45분 ~ 9시 50분<br />
-주말 오전 9시 ~ 10시</p></td>
-<td><p>이교육, <a href="https://ko.wikipedia.org/wiki/이나연" title="wikilink">이나연</a></p></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/뉴스포커스_(연합뉴스TV)" title="wikilink">뉴스포커스</a></p></td>
-<td><p>평일 오전 9시 50분 ~ 11시 40분</p></td>
-<td><p>남현종, <a href="https://ko.wikipedia.org/wiki/김나연" title="wikilink">김나연</a></p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="../Page/뉴스센터_12.md" title="wikilink">뉴스센터 12</a></p></td>
-<td><p>평일 오전 11시 40분 ~ 오후 12시 40분<br />
-주말 오후 12시 ~ 1시 , <a href="https://ko.wikipedia.org/wiki/뉴스_12" title="wikilink">뉴스 12</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/서태왕" title="wikilink">서태왕</a>, 석지연</p></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/뉴스_13" title="wikilink">뉴스 13</a></p></td>
-<td><p>평일 오후 12시 40분 ~ 1시 50분<br />
-주말 오후 1시 ~ 2시</p></td>
-<td><p>이교육, <a href="https://ko.wikipedia.org/wiki/류미정" title="wikilink">류미정</a></p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="../Page/6면시선_뉴스큐브.md" title="wikilink">6면시선 뉴스큐브</a></p></td>
-<td><p>평일 오후 1시 50분 ~ 3시 30분</p></td>
-<td><p>박영식, <a href="../Page/이윤지.md" title="wikilink">이윤지</a></p></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/뉴스1번지" title="wikilink">뉴스1번지</a></p></td>
-<td><p>평일 오후 3시 30분 ~ 5시 30분<br />
-주말 오후 4시 ~ 5시 (1시간)</p></td>
-<td><p>정호윤, <a href="https://ko.wikipedia.org/wiki/박가영" title="wikilink">박가영</a></p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/뉴스워치" title="wikilink">뉴스워치</a></p></td>
-<td><p>평일 오후 5시 30분 ~ 6시 25분</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/이승준" title="wikilink">이승준</a>, <a href="../Page/조영빈.md" title="wikilink">조영빈</a></p></td>
-</tr>
-<tr class="even">
-<td><p><a href="../Page/뉴스메이커_(연합뉴스TV).md" title="wikilink">뉴스메이커</a></p></td>
-<td><p>평일 오후 6시 25분 ~ 7시 35분</p></td>
-<td><p><a href="../Page/윤도현.md" title="wikilink">윤도현</a>, <a href="../Page/조서연.md" title="wikilink">조서연</a></p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/뉴스_20" title="wikilink">뉴스 20</a></p></td>
-<td><p>평일 오후 7시 35분 ~ 8시 40분<br />
-주말 오후 8시 ~ 9시</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/이승준" title="wikilink">이승준</a>, <a href="https://ko.wikipedia.org/wiki/이가은" title="wikilink">이가은</a></p></td>
-</tr>
-<tr class="even">
-<td><p>뉴스 21</p></td>
-<td><p>주말 밤 9시 ~ 10시</p></td>
-<td><p>진행 : 무작위</p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/뉴스리뷰" title="wikilink">뉴스리뷰</a></p></td>
-<td><p>평일 오후 8시 40분 ~ 9시 40분<br />
-주말 밤 10시 ~ 11시 , 뉴스 22</p></td>
-<td><p><a href="../Page/황인성.md" title="wikilink">황인성</a>, 안애경</p></td>
-</tr>
-<tr class="even">
-<td><p><a href="../Page/뉴스투나잇_(연합뉴스TV).md" title="wikilink">뉴스투나잇</a></p></td>
-<td><p>평일 밤 9시 40분 ~ 밤 12시<br />
-주말 밤 11시 ~ 12시 , <a href="https://ko.wikipedia.org/wiki/뉴스_23" title="wikilink">뉴스 23</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/이남규" title="wikilink">이남규</a>, <a href="https://ko.wikipedia.org/wiki/성유미" title="wikilink">성유미</a></p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/뉴스_24_(연합뉴스TV)" title="wikilink">뉴스 24</a></p></td>
-<td><p>평일 밤 12시 ~ 새벽 1시</p></td>
-<td><p><a href="../Page/황인성.md" title="wikilink">황인성</a>, <a href="https://ko.wikipedia.org/wiki/이가은" title="wikilink">이가은</a></p></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/토요와이드_/_일요와이드" title="wikilink">토요와이드 / 일요와이드</a></p></td>
-<td><p>주말 오전 11시 ~ 오후 12시 40분<br />
-주말 오후 6시 ~ 7시 30분</p></td>
-<td><p>진행 : 무작위</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+| 프로그램명                                                                                                         | 방송 시간                                                                                                 | 앵커                                                                                                       |
+| ------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
+| 뉴스 01\~04                                                                                                     | 평일 새벽 1시 \~ 4시 25분                                                                                    | 오세혁, 박서현                                                                                                 |
+| [뉴스오늘](https://ko.wikipedia.org/wiki/뉴스오늘 "wikilink")                                                         | 매일 새벽 4시 30분 \~ 오전 6시 30분                                                                             | [김민광](https://ko.wikipedia.org/wiki/김민광 "wikilink"), [이승희](https://ko.wikipedia.org/wiki/이승희 "wikilink") |
+| [출발 640](../Page/출발_640.md "wikilink")                                                                        | 평일 오전 6시 30분 \~ 7시30분                                                                                 | [김승재](https://ko.wikipedia.org/wiki/김승재 "wikilink"), [이나연](../Page/이나연.md "wikilink")                    |
+| [라이브 투데이](https://ko.wikipedia.org/wiki/라이브_투데이 "wikilink")                                                   | 평일 오전 7시 50분 \~ 8시 45분                                                                                | [서태왕](https://ko.wikipedia.org/wiki/서태왕 "wikilink"), [류미정](https://ko.wikipedia.org/wiki/류미정 "wikilink") |
+| [뉴스 09](https://ko.wikipedia.org/wiki/뉴스_09 "wikilink")                                                       | 평일 오후 8시 45분 \~ 9시 50분, 주말 오전 9시 \~ 10시                                                               | [이교육](https://ko.wikipedia.org/wiki/이교육 "wikilink"), [이나연](../Page/이나연.md "wikilink")                    |
+| [뉴스포커스](https://ko.wikipedia.org/wiki/뉴스포커스_\(연합뉴스TV\) "wikilink")                                            | 평일 오전 9시 50분 \~ 11시 40분                                                                               | [남현종](https://ko.wikipedia.org/wiki/남현종 "wikilink"), [김나연](https://ko.wikipedia.org/wiki/김나연 "wikilink") |
+| [뉴스센터 12](../Page/뉴스센터_12.md "wikilink")                                                                      | 평일 오전 11시 40분 \~ 오후 12시 40분 , 주말 오후 12시 \~ 1시 [뉴스 12](https://ko.wikipedia.org/wiki/뉴스_12 "wikilink") | [서태왕](https://ko.wikipedia.org/wiki/서태왕 "wikilink"), [석지연](https://ko.wikipedia.org/wiki/석지연 "wikilink") |
+| [뉴스 13](https://ko.wikipedia.org/wiki/뉴스_13 "wikilink")                                                       | 평일 오후 12시 40분 \~ 1시 50분 , 주말 오후 1시 \~ 2시                                                              | [이교육](https://ko.wikipedia.org/wiki/이교육 "wikilink"), [류미정](https://ko.wikipedia.org/wiki/류미정 "wikilink") |
+| [6면시선 뉴스큐브](../Page/6면시선_뉴스큐브.md "wikilink")                                                                  | 평일 오후 1시 50분 \~ 3시 30분                                                                                | [박영식](https://ko.wikipedia.org/wiki/박영식 "wikilink"), [이윤지](../Page/이윤지.md "wikilink")                    |
+| [뉴스1번지](https://ko.wikipedia.org/wiki/뉴스1번지 "wikilink")                                                       | 평일 오후 3시 30분 \~ 5시 30분, 주말 오후 4시 \~ 5시                                                                | [정호윤](https://ko.wikipedia.org/wiki/정호윤 "wikilink"), [박가영](https://ko.wikipedia.org/wiki/박가영 "wikilink") |
+| [뉴스워치](https://ko.wikipedia.org/wiki/뉴스워치 "wikilink")                                                         | 평일 오후 5시 30분 \~ 6시 25분                                                                                | [이승준](https://ko.wikipedia.org/wiki/이승준 "wikilink"), [조영빈](../Page/조영빈.md "wikilink")                    |
+| [뉴스메이커](../Page/뉴스메이커_\(연합뉴스TV\).md "wikilink")                                                               | 평일 오후 6시 25분 \~ 7시 35분                                                                                | [윤도현](../Page/윤도현.md "wikilink"), [조서연](../Page/조서연.md "wikilink")                                       |
+| [뉴스 20](https://ko.wikipedia.org/wiki/뉴스_20 "wikilink")                                                       | 평일 오후 7시 35분 \~ 8시 40분, 주말 8시 \~ 9시                                                                   | [이승준](https://ko.wikipedia.org/wiki/이승준 "wikilink"), [이가은](https://ko.wikipedia.org/wiki/이가은 "wikilink") |
+| [뉴스리뷰](https://ko.wikipedia.org/wiki/뉴스리뷰 "wikilink")                                                         | 평일 오후 8시 40분 \~ 3시 30분                                                                                | [황인성](../Page/황인성.md "wikilink"), [안애경](https://ko.wikipedia.org/wiki/안애경 "wikilink")                    |
+| [뉴스투나잇](../Page/뉴스투나잇_\(연합뉴스TV\).md "wikilink") (주말 : [뉴스 23](../Page/뉴스투나잇_\(연합뉴스TV\).md "wikilink"))        | 평일 밤 9시 40분 \~ 밤 12시, 주말 밤 11시 \~ 12시                                                                 | 이남규, [성유미](https://ko.wikipedia.org/wiki/성유미 "wikilink")                                                 |
+| [뉴스 24](https://ko.wikipedia.org/wiki/뉴스_24_\(연합뉴스TV\) "wikilink")                                            | 평일 밤 12시 \~ 새벽 1시                                                                                     | [황인성](../Page/황인성.md "wikilink"), [이가은](https://ko.wikipedia.org/wiki/이가은 "wikilink")                    |
+| [토요와이드 / 일요와이드](https://ko.wikipedia.org/wiki/토요와이드_/_일요와이드 "wikilink")                                       | 주말 오전 11시 \~ 낮 12시 40분, 저녁 6시 \~ 7시 30분                                                               | 진행 : 무작위                                                                                                 |
+| [뉴스특보](https://ko.wikipedia.org/wiki/뉴스특보 "wikilink") [코로나19](https://ko.wikipedia.org/wiki/코로나19 "wikilink") | 평일 오전 8시 45분 \~ 오후 1시 50분 , 주말 새벽 4시 20분 \~ 밤 9시                                                      | 진행 : 무작위                                                                                                 |
+|                                                                                                               |                                                                                                       |                                                                                                          |
 
 ### 교양 프로그램
 

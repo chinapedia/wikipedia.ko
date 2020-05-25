@@ -15,7 +15,7 @@
 
 ### Kh-32
 
-[Kh-32](https://ko.wikipedia.org/wiki/Kh-32 "wikilink") 미사일은 고체연료 공대지 미사일이다. 사거리 1000 km(620 마일), 속도 마하 4이며, 미국 해군 [보잉 F/A-18E/F 슈퍼 호넷의](https://ko.wikipedia.org/wiki/보잉_F/A-18E/F_슈퍼_호넷 "wikilink") 전투행동반경 550 마일(885 km) 밖에서 미사일을 발사할 수 있다. 그러나 미국 해군의 [F-35C](https://ko.wikipedia.org/wiki/F-35C "wikilink")의 공대공 임무 전투행동반경은 1407 km 이다.
+[Kh-32](https://ko.wikipedia.org/wiki/Kh-32 "wikilink") 미사일은 고체연료 공대지 미사일이다. 사거리 1000 km(620 마일), 속도 마하 4이며, 미국 해군 [보잉 F/A-18E/F 슈퍼 호넷의](https://ko.wikipedia.org/wiki/보잉_F/A-18E/F_슈퍼_호넷 "wikilink") 전투행동반경 550 마일(885 km) 밖에서 미사일을 발사할 수 있다. 그러나 미국 해군의 [F-35C](https://ko.wikipedia.org/wiki/F-35C "wikilink")의 공대공 임무 전투행동반경은 1407 km이다.
 
 ## 제원 (Tu-22M3)
 

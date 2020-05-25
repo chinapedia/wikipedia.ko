@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Miwa](https://ko.wikipedia.org/wiki/Miwa).
 
 
-**miwa**(미와, [1990년](../Page/1990년.md "wikilink") [6월 15일](../Page/6월_15일.md "wikilink") \~ )는 [일본](../Page/일본.md "wikilink")의 [여성](../Page/여성.md "wikilink") [싱어송라이터](https://ko.wikipedia.org/wiki/싱어송라이터 "wikilink"), [여배우](../Page/배우.md "wikilink"). [가나가와현](../Page/가나가와현.md "wikilink") [미우라 군](https://ko.wikipedia.org/wiki/미우라_군 "wikilink") [하야마 정에서](https://ko.wikipedia.org/wiki/하야마_정 "wikilink") 태어나 [도쿄도](../Page/도쿄도.md "wikilink") 에서 자랐다. [혈액형](../Page/혈액형.md "wikilink")은 [A형](https://ko.wikipedia.org/wiki/A형 "wikilink").\[1\] [게이오기주쿠 대학](../Page/게이오기주쿠_대학.md "wikilink") 상학부를 졸업했다. [신장](../Page/키.md "wikilink") 148.9cm. 소속 [레코드 회사는](https://ko.wikipedia.org/wiki/온라인_음악_서비스 "wikilink") [Sony Records](https://ko.wikipedia.org/wiki/소니_뮤직_레코드 "wikilink"). [소속사는](https://ko.wikipedia.org/wiki/연예_기획사 "wikilink") 트라이스톤 엔터테인먼트.\[2\] 공식 팬클럽은 〈yaneura-no-neko 〉.
+**miwa**(미와, [1990년](../Page/1990년.md "wikilink") [6월 15일](../Page/6월_15일.md "wikilink") \~ )는 [일본](../Page/일본.md "wikilink")의 [여성](../Page/여성.md "wikilink") [싱어송라이터](https://ko.wikipedia.org/wiki/싱어송라이터 "wikilink"), [여배우](../Page/배우.md "wikilink"). [가나가와현](../Page/가나가와현.md "wikilink") [미우라군](../Page/미우라군.md "wikilink") [하야마정](../Page/하야마정.md "wikilink")에서 태어나 [도쿄도](../Page/도쿄도.md "wikilink") 에서 자랐다. [혈액형](../Page/혈액형.md "wikilink")은 [A형](https://ko.wikipedia.org/wiki/A형 "wikilink").\[1\] [게이오기주쿠 대학](../Page/게이오기주쿠_대학.md "wikilink") 상학부를 졸업했다. [신장](../Page/키.md "wikilink") 148.9cm. 소속 [레코드 회사는](https://ko.wikipedia.org/wiki/온라인_음악_서비스 "wikilink") [Sony Records](https://ko.wikipedia.org/wiki/소니_뮤직_레코드 "wikilink"). [소속사는](https://ko.wikipedia.org/wiki/연예_기획사 "wikilink") 트라이스톤 엔터테인먼트.\[2\] 공식 팬클럽은 〈yaneura-no-neko 〉.
 
 ## 음반 작품
 
@@ -538,7 +538,7 @@
 
   -
 
-[분류:1990년 태어남](https://ko.wikipedia.org/wiki/분류:1990년_태어남 "wikilink") [분류:살아있는 사람](https://ko.wikipedia.org/wiki/분류:살아있는_사람 "wikilink") [분류:일본의 여자 싱어송라이터](https://ko.wikipedia.org/wiki/분류:일본의_여자_싱어송라이터 "wikilink") [분류:가나가와현 출신](https://ko.wikipedia.org/wiki/분류:가나가와현_출신 "wikilink") [분류:소니 뮤직 엔터테인먼트 (일본)의 음악가](https://ko.wikipedia.org/wiki/분류:소니_뮤직_엔터테인먼트_\(일본\)의_음악가 "wikilink") [분류:일본의 여자 가수](https://ko.wikipedia.org/wiki/분류:일본의_여자_가수 "wikilink") [분류:일본의 록 가수](https://ko.wikipedia.org/wiki/분류:일본의_록_가수 "wikilink") [분류:여자 록 가수](https://ko.wikipedia.org/wiki/분류:여자_록_가수 "wikilink") [분류:게이오기주쿠 대학 동문](https://ko.wikipedia.org/wiki/분류:게이오기주쿠_대학_동문 "wikilink") [분류:Miwa](https://ko.wikipedia.org/wiki/분류:Miwa "wikilink")
+[Miwa](https://ko.wikipedia.org/wiki/분류:Miwa "wikilink") [분류:1990년 태어남](https://ko.wikipedia.org/wiki/분류:1990년_태어남 "wikilink") [분류:살아있는 사람](https://ko.wikipedia.org/wiki/분류:살아있는_사람 "wikilink") [분류:일본의 여자 싱어송라이터](https://ko.wikipedia.org/wiki/분류:일본의_여자_싱어송라이터 "wikilink") [분류:가나가와현 출신](https://ko.wikipedia.org/wiki/분류:가나가와현_출신 "wikilink") [분류:소니 뮤직 엔터테인먼트 (일본)의 음악가](https://ko.wikipedia.org/wiki/분류:소니_뮤직_엔터테인먼트_\(일본\)의_음악가 "wikilink") [분류:일본의 여자 가수](https://ko.wikipedia.org/wiki/분류:일본의_여자_가수 "wikilink") [분류:일본의 록 가수](https://ko.wikipedia.org/wiki/분류:일본의_록_가수 "wikilink") [분류:여자 록 가수](https://ko.wikipedia.org/wiki/분류:여자_록_가수 "wikilink") [분류:게이오기주쿠 대학 동문](https://ko.wikipedia.org/wiki/분류:게이오기주쿠_대학_동문 "wikilink")
 
 1.  <http://www.miwa-web.com/bio/>
 2.

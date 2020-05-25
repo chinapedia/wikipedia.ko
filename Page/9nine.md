@@ -885,7 +885,7 @@ CD</p></td>
 
   - [9 nine｜Victor Entertainment](https://archive.is/20130501035721/http://www.jvcmusic.co.jp/flyingstar/-/Artist/A020878.html)
 
-[분류:일본의 팝 음악 그룹](https://ko.wikipedia.org/wiki/분류:일본의_팝_음악_그룹 "wikilink") [분류:일본의 걸 그룹](https://ko.wikipedia.org/wiki/분류:일본의_걸_그룹 "wikilink") [분류:2005년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2005년_결성된_음악_그룹 "wikilink") [9nine](https://ko.wikipedia.org/wiki/분류:9nine "wikilink") [분류:빅터 엔터테인먼트의 음악가](https://ko.wikipedia.org/wiki/분류:빅터_엔터테인먼트의_음악가 "wikilink") [분류:소니 뮤직 엔터테인먼트 (일본)의 음악가](https://ko.wikipedia.org/wiki/분류:소니_뮤직_엔터테인먼트_\(일본\)의_음악가 "wikilink") [분류:명수 9](https://ko.wikipedia.org/wiki/분류:명수_9 "wikilink")
+[9nine](https://ko.wikipedia.org/wiki/분류:9nine "wikilink") [분류:일본의 팝 음악 그룹](https://ko.wikipedia.org/wiki/분류:일본의_팝_음악_그룹 "wikilink") [분류:일본의 걸 그룹](https://ko.wikipedia.org/wiki/분류:일본의_걸_그룹 "wikilink") [분류:2005년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2005년_결성된_음악_그룹 "wikilink") [분류:빅터 엔터테인먼트의 음악가](https://ko.wikipedia.org/wiki/분류:빅터_엔터테인먼트의_음악가 "wikilink") [분류:소니 뮤직 엔터테인먼트 (일본)의 음악가](https://ko.wikipedia.org/wiki/분류:소니_뮤직_엔터테인먼트_\(일본\)의_음악가 "wikilink") [분류:명수 9](https://ko.wikipedia.org/wiki/분류:명수_9 "wikilink")
 
 1.
 2.

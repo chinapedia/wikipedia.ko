@@ -156,7 +156,7 @@
 
 1934년 [내셔널 얼라이드 퍼블리케이션스](https://ko.wikipedia.org/wiki/내셔널_얼라이드_퍼블리케이션스 "wikilink")(National Comics Publications)로 설립된 내셔널 얼라이드 뉴스페이퍼 신디케이트(National Allied Newspaper Syndicate, Inc.)로도 잘알려진 후에 DC코믹스가 되는 DC의 어원은 1937년에 설립된 디텍티브 코믹스(Detective Comics, Inc.)에서 유래되는 약자이다.\[1\]
 
-## 함께보기
+## 같이 보기
 
   - [DC 유니버스](https://ko.wikipedia.org/wiki/DC_유니버스 "wikilink")
   - [마블 유니버스](https://ko.wikipedia.org/wiki/마블_유니버스 "wikilink")

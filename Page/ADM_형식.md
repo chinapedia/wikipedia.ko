@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ADM 형식](https://ko.wikipedia.org/wiki/ADM_형식).
 
 
-**아노윗-데세르-미스너 수식 체계**(Arnowitt-Deser-Misner數式體系, , 약자 **ADM 수식 체계**)는 [일반 상대성 이론을](https://ko.wikipedia.org/wiki/일반_상대성_이론 "wikilink") [해밀턴 역학으로](../Page/해밀턴_역학.md "wikilink") 표현하는 방법이다.\[1\]\[2\]\[3\]\[4\]\[5\]\[6\] [시공간](https://ko.wikipedia.org/wiki/시공간 "wikilink")에 공간적 [엽층](../Page/엽층.md "wikilink")을 준 뒤, 엽층의 각 잎의 (시공의 부분 [다양체](../Page/다양체.md "wikilink")로서) 유도된 [계량 텐서에](https://ko.wikipedia.org/wiki/계량_텐서 "wikilink") 대하여 [일반화 운동량을](../Page/일반화_운동량.md "wikilink") 정의한다. 잎의 계량 텐서 및 그 운동량에 포함되지 않는 ([질량 껍질](https://ko.wikipedia.org/wiki/질량_껍질 "wikilink") 밖) 자유도는 [라그랑주 승수](https://ko.wikipedia.org/wiki/라그랑주_승수 "wikilink") 꼴로 나타나, 이론에 [제약](../Page/제약.md "wikilink")을 준다.
+**아노윗-데세르-미스너 수식 체계**(Arnowitt-Deser-Misner數式體系, , 약자 **ADM 수식 체계**)는 [일반 상대성 이론을](https://ko.wikipedia.org/wiki/일반_상대성_이론 "wikilink") [해밀턴 역학으로](../Page/해밀턴_역학.md "wikilink") 표현하는 방법이다.\[1\]\[2\]\[3\]\[4\]\[5\]\[6\] [시공간](../Page/시공간.md "wikilink")에 공간적 [엽층](../Page/엽층.md "wikilink")을 준 뒤, 엽층의 각 잎의 (시공의 부분 [다양체](../Page/다양체.md "wikilink")로서) 유도된 [계량 텐서에](https://ko.wikipedia.org/wiki/계량_텐서 "wikilink") 대하여 [일반화 운동량을](../Page/일반화_운동량.md "wikilink") 정의한다. 잎의 계량 텐서 및 그 운동량에 포함되지 않는 ([질량 껍질](https://ko.wikipedia.org/wiki/질량_껍질 "wikilink") 밖) 자유도는 [라그랑주 승수](https://ko.wikipedia.org/wiki/라그랑주_승수 "wikilink") 꼴로 나타나, 이론에 [제약](../Page/제약.md "wikilink")을 준다.
 
 ## 전개
 

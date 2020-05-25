@@ -53,7 +53,7 @@
   - 타지리 요시히로 와 마이키 윕렉
   - 대니 도링 과 로드킬
 
-## 함께 보기
+## 같이 보기
 
   - [트리플 크라운 챔피언십](../Page/트리플_크라운_챔피언십.md "wikilink")
   - [WWE RAW 태그팀 챔피언십](https://ko.wikipedia.org/wiki/WWE_RAW_태그팀_챔피언십 "wikilink")

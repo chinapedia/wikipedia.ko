@@ -54,4 +54,4 @@
 1.  TOUR DOCUMENTARY IN SUPER GOOD SUPER BAD
 2.  하다칸보 () - MUSIC CLIP (초회 반 수록)
 
-[분류:라이브 비디오 음반](https://ko.wikipedia.org/wiki/분류:라이브_비디오_음반 "wikilink") [분류:야마시타 토모히사의 음반](https://ko.wikipedia.org/wiki/분류:야마시타_토모히사의_음반 "wikilink") [분류:긴 낱말](https://ko.wikipedia.org/wiki/분류:긴_낱말 "wikilink")
+[분류:라이브 비디오 음반](https://ko.wikipedia.org/wiki/분류:라이브_비디오_음반 "wikilink") [분류:야마시타 토모히사의 음반](https://ko.wikipedia.org/wiki/분류:야마시타_토모히사의_음반 "wikilink")

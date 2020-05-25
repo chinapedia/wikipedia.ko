@@ -3,7 +3,7 @@
 
 <onlyinclude>[MBN](https://ko.wikipedia.org/wiki/:틀:MBN_TV "wikilink"){{·}}[TV조선](https://ko.wikipedia.org/wiki/:틀:TV조선 "wikilink"){{·}}[채널A](https://ko.wikipedia.org/wiki/:틀:채널A_TV "wikilink")
 
-¹ 매년에 한번씩 방송되는 프로그램 }}</onlyinclude>
+}}</onlyinclude>
 
   - 이 틀은 **현재 방영 중**인 프로그램만 설명하고 있습니다.》
   - 기본적으로 펼침 상태로 지정되어 있습니다.》

@@ -1353,7 +1353,7 @@
 <td><p><a href="../Page/GS챔피언스파크.md" title="wikilink">H</a></p></td>
 <td><p><a href="https://sports.news.naver.com/kfootball/news/read.nhn?oid=477&amp;aid=0000179934">1–2 패</a></p></td>
 <td><p><a href="../Page/FC_서울_2군.md" title="wikilink">서</a>: <a href="https://ko.wikipedia.org/wiki/정원진" title="wikilink">정원진</a><br />
-<a href="../Page/대한민국_U-23_축구_국가대표팀.md" title="wikilink">대한민국 U-23</a>: <a href="../Page/김주성_(2000년).md" title="wikilink">김주성</a>, <a href="https://ko.wikipedia.org/wiki/엄원상" title="wikilink">엄원상</a></p></td>
+<a href="../Page/대한민국_U-23_축구_국가대표팀.md" title="wikilink">대한민국 U-23</a>: <a href="../Page/김주성_(2000년).md" title="wikilink">김주성</a>, <a href="../Page/엄원상.md" title="wikilink">엄원상</a></p></td>
 <td></td>
 <td></td>
 <td><p><a href="../Page/FC_서울_2군.md" title="wikilink">FC 서울 2군</a> 출전</p></td>
@@ -1613,7 +1613,7 @@
 <td><p><a href="../Page/GS챔피언스파크.md" title="wikilink">H</a></p></td>
 <td><p><a href="https://sports.news.naver.com/kfootball/news/read.nhn?oid=477&amp;aid=0000179934">1–2 패</a></p></td>
 <td><p><a href="../Page/FC_서울_2군.md" title="wikilink">서</a>: <a href="https://ko.wikipedia.org/wiki/정원진" title="wikilink">정원진</a><br />
-<a href="../Page/대한민국_U-23_축구_국가대표팀.md" title="wikilink">대한민국 U-23</a>: <a href="../Page/김주성_(2000년).md" title="wikilink">김주성</a>, <a href="https://ko.wikipedia.org/wiki/엄원상" title="wikilink">엄원상</a></p></td>
+<a href="../Page/대한민국_U-23_축구_국가대표팀.md" title="wikilink">대한민국 U-23</a>: <a href="../Page/김주성_(2000년).md" title="wikilink">김주성</a>, <a href="../Page/엄원상.md" title="wikilink">엄원상</a></p></td>
 <td></td>
 <td><p><a href="../Page/FC_서울_2군.md" title="wikilink">FC 서울 2군</a> 출전</p></td>
 </tr>

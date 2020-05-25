@@ -200,7 +200,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/UEFA_여자_유로_2017" title="wikilink">UEFA 여자 유로 2017</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/조디_테일러" title="wikilink">조디 테일러</a></p></td>
+<td><p><a href="../Page/조디_테일러.md" title="wikilink">조디 테일러</a></p></td>
 <td><p>5득점</p></td>
 </tr>
 </tbody>

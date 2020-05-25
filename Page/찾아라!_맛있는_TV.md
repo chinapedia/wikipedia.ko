@@ -94,6 +94,6 @@
 
   - [찾아라\! 맛있는 TV](http://www.imbc.com/broad/tv/ent/delicious/)
 
-[분류:문화방송의 예능 프로그램](https://ko.wikipedia.org/wiki/분류:문화방송의_예능_프로그램 "wikilink") [분류:2016년 폐지](https://ko.wikipedia.org/wiki/분류:2016년_폐지 "wikilink") [분류:2001년에 시작한 대한민국 TV 프로그램](https://ko.wikipedia.org/wiki/분류:2001년에_시작한_대한민국_TV_프로그램 "wikilink") [분류:2016년에 종료한 대한민국 TV 프로그램](https://ko.wikipedia.org/wiki/분류:2016년에_종료한_대한민국_TV_프로그램 "wikilink")
+[분류:문화방송의 예능 프로그램](https://ko.wikipedia.org/wiki/분류:문화방송의_예능_프로그램 "wikilink") [분류:2001년에 시작한 대한민국 TV 프로그램](https://ko.wikipedia.org/wiki/분류:2001년에_시작한_대한민국_TV_프로그램 "wikilink") [분류:2016년에 종료한 대한민국 TV 프로그램](https://ko.wikipedia.org/wiki/분류:2016년에_종료한_대한민국_TV_프로그램 "wikilink")
 
 1.

@@ -29,7 +29,7 @@
 <td><p><em><a href="https://ko.wikipedia.org/wiki/UFC_144" title="wikilink">UFC 144: Edgar vs. Henderson</a></em></p></td>
 <td><p>2012년 2월 26일</p></td>
 <td><p>사이타마 슈퍼 아레나</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/사이타마현" title="wikilink">사이타마현</a> <a href="https://ko.wikipedia.org/wiki/사이타마_시" title="wikilink">사이타마 시</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/사이타마현" title="wikilink">사이타마현</a> <a href="../Page/사이타마시.md" title="wikilink">사이타마시</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1011,7 +1011,7 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/UFC_25" title="wikilink">UFC 25: Ultimate Japan 3</a></p></td>
 <td><p>2000년 4월 14일</p></td>
 <td><p><a href="../Page/국립_요요기_경기장.md" title="wikilink">국립 요요기 경기장</a></p></td>
-<td><p><a href="../Page/도쿄도.md" title="wikilink">도쿄도</a> <a href="https://ko.wikipedia.org/wiki/시부야_구" title="wikilink">시부야 구</a></p></td>
+<td><p><a href="../Page/도쿄도.md" title="wikilink">도쿄도</a> <a href="../Page/시부야구.md" title="wikilink">시부야구</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1025,7 +1025,7 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/UFC_23" title="wikilink">UFC 23: Ultimate Japan 2</a></p></td>
 <td><p>1999년 11월 14일</p></td>
 <td><p>도쿄 배이 NK 홀</p></td>
-<td><p><a href="../Page/지바현.md" title="wikilink">지바현</a> <a href="https://ko.wikipedia.org/wiki/우라야스_시" title="wikilink">우라야스 시</a></p></td>
+<td><p><a href="../Page/지바현.md" title="wikilink">지바현</a> <a href="../Page/우라야스시.md" title="wikilink">우라야스시</a></p></td>
 <td></td>
 </tr>
 <tr class="even">

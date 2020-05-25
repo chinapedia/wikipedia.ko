@@ -19,11 +19,11 @@
 | 인생은 아름다워 (Feat. [박선주](../Page/박선주_\(가수\).md "wikilink"))                                                      | 개리, 박선주                                                  |
 | 대한늬우스 (Feat. [Sean2Slow](https://ko.wikipedia.org/wiki/Sean2Slow "wikilink"))                                 | 개리, Sean2Slow                                            |
 | E-he-ra (Feat. [버블시스터즈](../Page/버블시스터즈.md "wikilink"))                                                        | 개리                                                       |
-| Street 노가리 (Feat. 은준)                                                                                         | 개리                                                       |
+| Street 노가리 (Feat. [은준](../Page/비트박스_은준.md "wikilink"))                                                        |                                                          |
 | Luv.. (Real Story) (Feat. 박선주)                                                                                | 개리, 박선주                                                  |
 | 으라챠챠 – Wake Up (Feat. [CB Mass](https://ko.wikipedia.org/wiki/CB_Mass "wikilink"))                            | 개리, CB Mass                                              |
 | 빛좋은 개살구 2 (Feat. 교주박 & 디기리 of [Honey Family](../Page/허니_패밀리.md "wikilink"))                                   | 개리, 교주박, 디기리                                             |
-| Wammin' Up (Feat. [가리온](../Page/가리온.md "wikilink"))                                                           | 개리, 가리온                                                  |
+| Wammin' Up (Feat. J.U a.k.a 최선생 of [가리온](../Page/가리온.md "wikilink"))                                          | 개리                                                       |
 | 끝으로 (Feat. [화요비](../Page/화요비.md "wikilink"))                                                                  | 개리                                                       |
 
 [분류:2002년 음반](https://ko.wikipedia.org/wiki/분류:2002년_음반 "wikilink") [분류:한국어 음반](https://ko.wikipedia.org/wiki/분류:한국어_음반 "wikilink") [분류:리쌍의 음반](https://ko.wikipedia.org/wiki/분류:리쌍의_음반 "wikilink") [분류:힙합 음반](https://ko.wikipedia.org/wiki/분류:힙합_음반 "wikilink") [분류:2002년 데뷔 음반](https://ko.wikipedia.org/wiki/분류:2002년_데뷔_음반 "wikilink")

@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [FF ADVENTURE](https://ko.wikipedia.org/wiki/FF_ADVENTURE).
 
 
-**FF ADVENTURE**(**Free Fight Adventure**, 이하 **FFA**)은 D.Takamiya(CUMRO)가 개발한 [웹 브라우저](../Page/웹_브라우저.md "wikilink") 기반의 배포형 cgi 게임이다. 주로 [캐릭터](https://ko.wikipedia.org/wiki/캐릭터 "wikilink")를 육성해서 다른 유저의 캐릭터와 경쟁하는 내용이다. [카피레프트](../Page/카피레프트.md "wikilink") 배포이기 때문에 [FFB](https://ko.wikipedia.org/wiki/FFB "wikilink"), [MSVS](https://ko.wikipedia.org/wiki/MSVS "wikilink") 등의 다양한 파생 버전이 존재한다.
+**FF ADVENTURE**(Free Fight Adventure, **FFA**)은 D.Takamiya(CUMRO)가 개발한 [웹 브라우저](../Page/웹_브라우저.md "wikilink") 기반의 배포형 cgi 게임이다. 주로 [캐릭터](https://ko.wikipedia.org/wiki/캐릭터 "wikilink")를 육성해서 다른 유저의 캐릭터와 경쟁하는 내용이다. [카피레프트](../Page/카피레프트.md "wikilink") 배포이기 때문에 [FFB](https://ko.wikipedia.org/wiki/FFB "wikilink"), [MSVS](https://ko.wikipedia.org/wiki/MSVS "wikilink") 등의 다양한 파생 버전이 존재한다.
 
 ## 게임 방법
 
-다른 웹 게임처럼 표시되는 화면 요소를 클릭하는 것으로 게임을 진행시켜 나간다. 대부분은 마우스로 조작하므로 키보드는 거의 쓰이지지 않는다.
+다른 웹 게임처럼 표시되는 화면 요소를 클릭하는 것으로 게임을 진행시켜 나간다. 대부분은 마우스로 조작하므로 키보드는 거의 쓰이지 않는다.
 
 ## 캐릭터 육성 요소
 

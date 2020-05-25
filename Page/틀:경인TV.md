@@ -69,7 +69,7 @@
   - 《으랏차차 아줌마》
   - 《뮤직박스 아름다운 세상》
   - 《뮤직박스》
-  - 《[열전\! 가수왕](https://ko.wikipedia.org/wiki/열전!_가수왕 "wikilink")》
+  - 《[열전\! 가수왕](../Page/열전!_가수왕.md "wikilink")》
   - 《[뮤직쇼 악바리클럽](../Page/뮤직쇼_악바리클럽.md "wikilink")》
   - 《[뮤직앤조이](../Page/뮤직앤조이.md "wikilink")》
   - 《[테마콘서트 만남](../Page/테마콘서트_만남.md "wikilink")》

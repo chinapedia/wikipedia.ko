@@ -55,6 +55,6 @@
 
 ## 외부 링크
 
-  - [공식 홈페이지](http://baduk.bccard.com/)
+  - [공식 홈페이지](https://web.archive.org/web/20110305044621/http://baduk.bccard.com/)
 
 [BC카드배_월드_바둑_챔피언십](https://ko.wikipedia.org/wiki/분류:BC카드배_월드_바둑_챔피언십 "wikilink") [분류:2009년 설립](https://ko.wikipedia.org/wiki/분류:2009년_설립 "wikilink") [분류:2012년 폐지](https://ko.wikipedia.org/wiki/분류:2012년_폐지 "wikilink") [분류:바둑 국제 기전](https://ko.wikipedia.org/wiki/분류:바둑_국제_기전 "wikilink") [분류:중단된 기전](https://ko.wikipedia.org/wiki/분류:중단된_기전 "wikilink")

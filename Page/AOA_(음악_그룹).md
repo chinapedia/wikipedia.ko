@@ -87,7 +87,7 @@
 <thead>
 <tr class="header">
 <th><p>연도</p></th>
-<th><p>수상 내역 (총 10회)</p></th>
+<th><p>수상 내역 (총 13회)</p></th>
 </tr>
 </thead>
 <tbody>
@@ -116,12 +116,15 @@
 </ul></td>
 </tr>
 <tr class="odd">
-<td><p>2016년 (총 2회)</p></td>
+<td><p>2016년 (총 5회)</p></td>
 <td><ul>
-<li><strong>Good Luck (총 2회)</strong>
+<li><strong>Good Luck (총 5회)</strong>
 <ul>
 <li><a href="../Page/5월_24일.md" title="wikilink">5월 24일</a> <a href="../Page/SBS_MTV.md" title="wikilink">SBS MTV</a> 《<a href="https://ko.wikipedia.org/wiki/더_쇼" title="wikilink">더 쇼</a> 시즌5》 더 쇼 초이스</li>
 <li><a href="../Page/5월_25일.md" title="wikilink">5월 25일</a> <a href="https://ko.wikipedia.org/wiki/MBC_MUSIC" title="wikilink">MBC MUSIC</a> 《<a href="https://ko.wikipedia.org/wiki/쇼_챔피언" title="wikilink">쇼챔피언</a>》 챔피언송</li>
+<li><a href="../Page/5월_27일.md" title="wikilink">5월 27일</a> <a href="https://ko.wikipedia.org/wiki/KBS" title="wikilink">KBS</a> 《<a href="../Page/뮤직뱅크.md" title="wikilink">뮤직뱅크</a>》 K-Chart 1위</li>
+<li><a href="../Page/6월_3일.md" title="wikilink">6월 3일</a> <a href="https://ko.wikipedia.org/wiki/KBS" title="wikilink">KBS</a> 《<a href="../Page/뮤직뱅크.md" title="wikilink">뮤직뱅크</a>》 K-Chart 1위 (2주 연속)</li>
+<li><a href="../Page/6월_10일.md" title="wikilink">6월 10일</a> <a href="https://ko.wikipedia.org/wiki/KBS" title="wikilink">KBS</a> 《<a href="../Page/뮤직뱅크.md" title="wikilink">뮤직뱅크</a>》 K-Chart 1위 (트리플 크라운)</li>
 </ul></li>
 </ul></td>
 </tr>

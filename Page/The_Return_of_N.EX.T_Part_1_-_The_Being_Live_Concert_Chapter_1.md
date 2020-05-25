@@ -88,7 +88,7 @@
 
 ## 각주
 
-<references/>
+<references />
 
 [분류:N.EX.T의 음반](https://ko.wikipedia.org/wiki/분류:N.EX.T의_음반 "wikilink") [분류:한국어 음반](https://ko.wikipedia.org/wiki/분류:한국어_음반 "wikilink") [분류:1995년 라이브 음반](https://ko.wikipedia.org/wiki/분류:1995년_라이브_음반 "wikilink") [분류:대한민국의 음반](https://ko.wikipedia.org/wiki/분류:대한민국의_음반 "wikilink") [분류:록 음반](https://ko.wikipedia.org/wiki/분류:록_음반 "wikilink")
 

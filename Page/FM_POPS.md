@@ -52,7 +52,7 @@
   - [DJ 래피의 드라이브 뮤직](../Page/드라이브_뮤직.md "wikilink") (주말) ([SBS 러브FM](../Page/SBS_러브FM.md "wikilink"))
   - [오후의 향기 김윤주입니다](../Page/오후의_향기_김윤주입니다.md "wikilink") ([CBS 표준FM](../Page/CBS_표준FM.md "wikilink"))
   - [그대에게 평화를 장환진입니다](https://ko.wikipedia.org/wiki/그대에게_평화를 "wikilink") ([cpbc](../Page/가톨릭평화방송.md "wikilink") FM)
-  - [조은형의 가요세상](https://ko.wikipedia.org/wiki/가요세상 "wikilink") (평일) ([WBS](../Page/원음방송.md "wikilink") FM)
+  - [조은형의 가요세상](../Page/가요세상.md "wikilink") (평일) ([WBS](../Page/원음방송.md "wikilink") FM)
   - 心쿵\! 2시 (주말) ([WBS](../Page/원음방송.md "wikilink") FM)
   - 주병선의 추억의 음악다방 (평일) ([BBS](../Page/불교방송.md "wikilink") FM)
   - 지금은 수행시대 (평일) ([BBS](../Page/불교방송.md "wikilink") FM)

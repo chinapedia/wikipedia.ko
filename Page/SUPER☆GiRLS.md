@@ -31,7 +31,7 @@
 
   - [아키타 에리](https://ko.wikipedia.org/wiki/아키타_에리 "wikilink") (秋田恵里, 1993년 [4월 2일](../Page/4월_2일.md "wikilink") - , [아이치현](../Page/아이치현.md "wikilink") 출신, A형) - [2012년](../Page/2012년.md "wikilink") [2월 5일](../Page/2월_5일.md "wikilink") 졸업.
   - [카노 카에데](https://ko.wikipedia.org/wiki/카노_카에데 "wikilink") (稼農楓, [1992년](../Page/1992년.md "wikilink") [10월 6일](../Page/10월_6일.md "wikilink") - , [사이타마현](https://ko.wikipedia.org/wiki/사이타마현 "wikilink") 출신, A형) - [2013년](../Page/2013년.md "wikilink") [1월 16일](../Page/1월_16일.md "wikilink") 탈퇴.
-  - **[야사카 사오리](https://ko.wikipedia.org/wiki/야사카_사오리 "wikilink") (八坂沙織, [1989년](../Page/1989년.md "wikilink") [2월 16일](../Page/2월_16일.md "wikilink") - , [도쿄도](../Page/도쿄도.md "wikilink") [분쿄 구](https://ko.wikipedia.org/wiki/분쿄_구 "wikilink") 출신, A형)** - 초대 리더, [2014년](../Page/2014년.md "wikilink") [2월 23일](../Page/2월_23일.md "wikilink") 졸업.
+  - **[야사카 사오리](https://ko.wikipedia.org/wiki/야사카_사오리 "wikilink") (八坂沙織, [1989년](../Page/1989년.md "wikilink") [2월 16일](../Page/2월_16일.md "wikilink") - , [도쿄도](../Page/도쿄도.md "wikilink") [분쿄구](../Page/분쿄구.md "wikilink") 출신, A형)** - 초대 리더, [2014년](../Page/2014년.md "wikilink") [2월 23일](../Page/2월_23일.md "wikilink") 졸업.
   - [고토 아야](https://ko.wikipedia.org/wiki/고토_아야 "wikilink") (後藤彩, 1997년 [3월 5일](../Page/3월_5일.md "wikilink") - , 효고 현 출신, AB형) - [2015년](../Page/2015년.md "wikilink") [3월 31일](../Page/3월_31일.md "wikilink") 졸업.
   - [카츠다 리노](https://ko.wikipedia.org/wiki/카츠다_리노 "wikilink") (勝田梨乃, [1994년](../Page/1994년.md "wikilink") [7월 10일](../Page/7월_10일.md "wikilink") - , 홋카이도 출신, AB형) - [2016년](../Page/2016년.md "wikilink") [6월 25일](../Page/6월_25일.md "wikilink") 졸업.
   - [아라이 레이라](https://ko.wikipedia.org/wiki/아라이_레이라 "wikilink") (荒井玲良, 1994년 [9월 25일](../Page/9월_25일.md "wikilink") - , 도쿄 도 출신, AB형) - 2016년 6월 25일 졸업.
@@ -39,7 +39,7 @@
   - [키도구라 사쿠라코](https://ko.wikipedia.org/wiki/키도구라_사쿠라코 "wikilink") (木戸口桜子, [1999년](../Page/1999년.md "wikilink") [10월 18일](../Page/10월_18일.md "wikilink") - , 홋카이도 출신, B형) - 2017년 9월 30일 졸업.
   - [오자와 루나](https://ko.wikipedia.org/wiki/오자와_루나 "wikilink") (尾澤ルナ, 2002년 [7월 2일](../Page/7월_2일.md "wikilink"), [아이치현](../Page/아이치현.md "wikilink") 출신, A형) - 2018년 1월 31일 졸업.
   - [다나카 미레이](https://ko.wikipedia.org/wiki/다나카_미레이 "wikilink") (田中美麗, 1996년 [10월 14일](../Page/10월_14일.md "wikilink") - , 사이타마 현 출신, B형) - 2018년 3월 31일 졸업
-  - **[시무라 리카](https://ko.wikipedia.org/wiki/시무라_리카 "wikilink") (志村理佳, 1992년 [10월 2일](../Page/10월_2일.md "wikilink") - , [카나가와현](https://ko.wikipedia.org/wiki/카나가와현 "wikilink") 출신, A형)** - 2대 리더, 2018년 6월 24일 졸업
+  - **[시무라 리카](https://ko.wikipedia.org/wiki/시무라_리카 "wikilink") (志村理佳, 1992년 [10월 2일](../Page/10월_2일.md "wikilink") - , [가나가와현](../Page/가나가와현.md "wikilink") 출신, A형)** - 2대 리더, 2018년 6월 24일 졸업
   - **[와타나베 히카루](https://ko.wikipedia.org/wiki/와타나베_히카루 "wikilink") (渡邉ひかる, 1994년 [2월 15일](../Page/2월_15일.md "wikilink") - , 홋카이도 출신, A형)** - 4대 리더, 2019년 1월 11일 졸업
   - **[미야자키 리나](https://ko.wikipedia.org/wiki/미야자키_리나 "wikilink") (宮崎理奈, 1994년 [2월 21일](../Page/2월_21일.md "wikilink") - , 후쿠오카 현 출신, AB형)** - 서브리더, 2019년 1월 11일 졸업
   - [미조테 루카](https://ko.wikipedia.org/wiki/미조테_루카 "wikilink") (溝手るか, 1997년 [1월 25일](../Page/1월_25일.md "wikilink") - , 오사카 부 출신, A형) - 2019년 1월 11일 졸업

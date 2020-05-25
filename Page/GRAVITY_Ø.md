@@ -6,21 +6,9 @@
 ## 개요
 
   - 전작 〈[그림엽서의 봄](../Page/그림엽서의_봄.md "wikilink")〉 이후 약 9개월만에 발매 된 싱글이다.
-
-<!-- end list -->
-
   - [MBS](../Page/마이니치_방송.md "wikilink")·[TBS](../Page/도쿄_방송_홀딩스.md "wikilink") [애니메이션](../Page/애니메이션.md "wikilink") 《[STAR DRIVER 빛의 타쿠토](../Page/스타_드라이버_빛의_타쿠토.md "wikilink")》 오프닝 곡으로 기용되었다.
-
-<!-- end list -->
-
   - 애니메이션 타이업은 "[Velonica](../Page/Velonica.md "wikilink")" 이후 약 2년만이다.
-
-<!-- end list -->
-
   - 수록곡 "" 속 [휘파람](https://ko.wikipedia.org/wiki/휘파람 "wikilink") 소리는 [기타](../Page/기타.md "wikilink") 담당 다이스케가 녹음한 것.
-
-<!-- end list -->
-
   - 싱글이 TOP5에 든 것 역시 "Velonica" 이후 약 2년만이다.
 
 ## 수록곡

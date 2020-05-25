@@ -51,12 +51,8 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/채널A_뉴스_TOP_10.md" title="wikilink">채널A 뉴스 TOP 10</a></p></td>
-<td><p>평일 1시간 40분<br />
-주말 1시간 10분</p></td>
-<td><p>17:50 ~ 19:30</p>
-<ul>
-<li><strong>주말편성조정</strong> : <strong>토~일</strong> (18:20 ~ 19:30)</li>
-</ul></td>
+<td><p>평일 1시간 40분</p></td>
+<td><p>17:50 ~ 19:30</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/김종석" title="wikilink">김종석</a></p></td>
 </tr>
 <tr class="odd">

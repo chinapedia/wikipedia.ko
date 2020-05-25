@@ -8,17 +8,11 @@
 ### 평일
 
   - [편정택](https://ko.wikipedia.org/wiki/편정택 "wikilink") 아나운서 (남)
-  - [장수정](https://ko.wikipedia.org/wiki/장수정 "wikilink") 아나운서 (여)
+  - [박지혜](https://ko.wikipedia.org/wiki/박지혜 "wikilink") 아나운서 (여)
 
 ### 주말,휴일
 
   - 무작위
-
-## 제공 시보
-
-  - [춘해보건대학교](../Page/춘해보건대학교.md "wikilink")
-  - [울산과학기술원](https://ko.wikipedia.org/wiki/울산과학기술원 "wikilink")
-  - 에어플러스 매직썬가든
 
 ## 관련 항목
 

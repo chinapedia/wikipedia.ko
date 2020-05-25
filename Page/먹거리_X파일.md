@@ -22,7 +22,7 @@
 
   - [먹거리 X파일](http://www.ichannela.com/program/template/program_refinement.do?cateCode=0501&subCateCode=050100&pgm_id=WPG2140064D)
 
-[분류:채널A의 시사교양 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:채널A의_시사교양_텔레비전_프로그램 "wikilink") [분류:대한민국의 음식 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:대한민국의_음식_텔레비전_프로그램 "wikilink")
+[분류:채널A의 시사교양 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:채널A의_시사교양_텔레비전_프로그램 "wikilink") [분류:대한민국의 음식 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:대한민국의_음식_텔레비전_프로그램 "wikilink") [분류:2012년에 시작한 대한민국 TV 프로그램](https://ko.wikipedia.org/wiki/분류:2012년에_시작한_대한민국_TV_프로그램 "wikilink") [분류:2017년에 종료한 대한민국 TV 프로그램](https://ko.wikipedia.org/wiki/분류:2017년에_종료한_대한민국_TV_프로그램 "wikilink")
 
 1.
 2.

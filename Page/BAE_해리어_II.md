@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [BAE 해리어 II](https://ko.wikipedia.org/wiki/BAE_해리어_II).
 
 
-**BAE 해리어 II (GR5, GR7, GR9)**는 영국 공군과 해군이 사용중인 2세대 해리어 전투기다. 영국 해군은 2006년 부터 사용을 하고 있다. 영국의 [호커 시들리 해리어를](../Page/호커_시들리_해리어.md "wikilink") 미국이 개량하여 [AV-8B 해리어 II를](../Page/AV-8B_해리어_II.md "wikilink") 개발했고, 이를 다시 개량한 것이 BAE 해리어 II 전투기이다. 수직으로 이륙할 때의 최대이륙중량은 8,595 kg 이며, 단거리 이륙시 최대이륙중량은 14,061 kg 이다. 영국 해군의 [BAE 시 해리어는](https://ko.wikipedia.org/wiki/BAE_시_해리어 "wikilink") 2006년에 퇴역했다. 해리어 GR9는 최소한 F-35가 등장할 2018년 까지는 사용될 것이다. 더 오래 사용될 수도 있다.
+**BAE 해리어 II (GR5, GR7, GR9)**는 영국 공군과 해군이 사용중인 2세대 해리어 전투기다. 영국 해군은 2006년 부터 사용을 하고 있다. 영국의 [호커 시들리 해리어를](../Page/호커_시들리_해리어.md "wikilink") 미국이 개량하여 [AV-8B 해리어 II를](../Page/AV-8B_해리어_II.md "wikilink") 개발했고, 이를 다시 개량한 것이 BAE 해리어 II 전투기이다. 수직으로 이륙할 때의 최대이륙중량은 8,595 kg이며, 단거리 이륙시 최대이륙중량은 14,061 kg이다. 영국 해군의 [BAE 시 해리어는](https://ko.wikipedia.org/wiki/BAE_시_해리어 "wikilink") 2006년에 퇴역했다. 해리어 GR9는 최소한 F-35가 등장할 2018년 까지는 사용될 것이다. 더 오래 사용될 수도 있다.
 
 ## 파생형
 
@@ -63,5 +63,5 @@ T10에 IWP 업그레이드를 한 것이 해리어 T12 훈련기이다.
 [분류:영국의 전투기](https://ko.wikipedia.org/wiki/분류:영국의_전투기 "wikilink") [분류:함재기](https://ko.wikipedia.org/wiki/분류:함재기 "wikilink") [분류:공격기](https://ko.wikipedia.org/wiki/분류:공격기 "wikilink") [분류:수직 이착륙 항공기](https://ko.wikipedia.org/wiki/분류:수직_이착륙_항공기 "wikilink") [분류:1985년 첫 비행한 항공기](https://ko.wikipedia.org/wiki/분류:1985년_첫_비행한_항공기 "wikilink") [분류:단발 제트기](https://ko.wikipedia.org/wiki/분류:단발_제트기 "wikilink")
 
 1.
-2.  [Harrier GR9 VSTOL Strike Aircraft](http://www.airforce-technology.com/projects/harriergr9/). airforce-technology.com
+2.  [Harrier GR9 VSTOL Strike Aircraft](http://www.airforce-technology.com/projects/harriergr9/) . airforce-technology.com
 3.  ["Harrier Replacement Rear Fuselage Programme Concluded Successfully"](http://www.baesystems.com/Newsroom/NewsReleases/autoGen_10773163045.html) . BAE Systems, 31 July 2007.

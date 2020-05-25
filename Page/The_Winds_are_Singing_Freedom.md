@@ -9,7 +9,7 @@
 
 ## 각주
 
-<references/>
+<references />
 
 [분류:아일랜드의 음악](https://ko.wikipedia.org/wiki/분류:아일랜드의_음악 "wikilink")
 

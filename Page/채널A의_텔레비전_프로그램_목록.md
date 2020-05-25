@@ -119,7 +119,7 @@ __NOTOC__ 다음은 **[채널A](../Page/채널A.md "wikilink") [텔레비전](..
 
   - 리얼도전 청춘별곡 GO 아라비아 ([2017년](../Page/2017년.md "wikilink") [1월 28일](../Page/1월_28일.md "wikilink"))
 
-  - [리와인드 - 시간을 달리는 게임](https://ko.wikipedia.org/wiki/리와인드_-_시간을_달리는_게임 "wikilink")   ([2019년](../Page/2019년.md "wikilink") [7월 17일](../Page/7월_17일.md "wikilink") \~ **현재**)
+  - [리와인드 - 시간을 달리는 게임](../Page/리와인드_-_시간을_달리는_게임.md "wikilink")   ([2019년](../Page/2019년.md "wikilink") [7월 17일](../Page/7월_17일.md "wikilink") \~ **현재**)
 
 ## ㅁ
 
@@ -439,7 +439,7 @@ __NOTOC__ 다음은 **[채널A](../Page/채널A.md "wikilink") [텔레비전](..
 
   - [판다양과 고슴도치](../Page/판다양과_고슴도치.md "wikilink")   ([2012년](../Page/2012년.md "wikilink") [8월 18일](../Page/8월_18일.md "wikilink") \~ [2012년](../Page/2012년.md "wikilink") [10월 7일](../Page/10월_7일.md "wikilink"))
 
-  - [팔아야 귀국](https://ko.wikipedia.org/wiki/팔아야_귀국 "wikilink")   ([2018년](../Page/2018년.md "wikilink") [9월 22일](../Page/9월_22일.md "wikilink") \~ [2018년](../Page/2018년.md "wikilink") [12월 23일](../Page/12월_23일.md "wikilink"))
+  - [팔아야 귀국](../Page/팔아야_귀국.md "wikilink")   ([2018년](../Page/2018년.md "wikilink") [9월 22일](../Page/9월_22일.md "wikilink") \~ [2018년](../Page/2018년.md "wikilink") [12월 23일](../Page/12월_23일.md "wikilink"))
 
   - 팔아야 귀국 시즌2 in 베트남   ([2019년](../Page/2019년.md "wikilink") [5월 25일](../Page/5월_25일.md "wikilink") \~ [2019년](../Page/2019년.md "wikilink") [6월 29일](../Page/6월_29일.md "wikilink"))
 

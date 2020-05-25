@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [FC 에드먼턴](https://ko.wikipedia.org/wiki/FC_에드먼턴).
 
 
-**FC 에드먼턴**(FC Edmonton)은 [캐나다](../Page/캐나다.md "wikilink") [앨버타주](../Page/앨버타주.md "wikilink") [에드먼턴](../Page/에드먼턴.md "wikilink")을 연고지로 하는 프로 축구팀이다. 2019년부터 창설되는 [캐나다 프리미어리그에](https://ko.wikipedia.org/wiki/캐나다_프리미어리그 "wikilink") 참가 중이다.
+**FC 에드먼턴**(FC Edmonton)은 [캐나다](../Page/캐나다.md "wikilink") [앨버타주](../Page/앨버타주.md "wikilink") [에드먼턴](../Page/에드먼턴.md "wikilink")을 연고지로 하는 프로 축구팀이다. 2019년부터 창설되는 [캐나다 프리미어리그에](../Page/캐나다_프리미어리그.md "wikilink") 참가 중이다.
 
 ## 역대 홈경기장
 
@@ -53,7 +53,7 @@
 
   - [손용찬](https://ko.wikipedia.org/wiki/손용찬 "wikilink")
 
-  - [제임스 마르슬랭](https://ko.wikipedia.org/wiki/제임스_마르슬랭 "wikilink")
+  - [제임스 마르슬랭](../Page/제임스_마르슬랭.md "wikilink")
 
 ## 외부 링크
 

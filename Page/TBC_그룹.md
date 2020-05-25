@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [TBC 그룹](https://ko.wikipedia.org/wiki/TBC_그룹).
 
 
-**TBC 그룹 주식 회사**는 [도쿄도](../Page/도쿄도.md "wikilink") [신주쿠 구](https://ko.wikipedia.org/wiki/신주쿠_구 "wikilink") 에 본사를 두고, 에스테틱 TBC, 남성 TBC을 일본 전국에서 운영하는 에스테틱 최대 기업이다. 일본 피부 에스테틱 협회, 일본 에스테틱업 협회에 가맹하고 있다.
+**TBC 그룹 주식 회사**는 [도쿄도](../Page/도쿄도.md "wikilink") [신주쿠구](../Page/신주쿠구.md "wikilink") 에 본사를 두고, 에스테틱 TBC, 남성 TBC을 일본 전국에서 운영하는 에스테틱 최대 기업이다. 일본 피부 에스테틱 협회, 일본 에스테틱업 협회에 가맹하고 있다.
 
 ## 연혁
 

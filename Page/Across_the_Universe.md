@@ -46,7 +46,7 @@
 
 ### 그 외 버전
 
-1968년 2월 4일 녹음된 테이크(Take 2. 마스터 이전에 녹음된 [통기타](../Page/통기타.md "wikilink")와 탐부라만의 초기 버전으로 종종 "사이키델릭" 녹음으로 불린다.)가 1996년 《[Anthology 2](https://ko.wikipedia.org/wiki/Anthology_2 "wikilink")》에 수록되었다.
+1968년 2월 4일 녹음된 테이크(Take 2. 마스터 이전에 녹음된 [통기타](../Page/통기타.md "wikilink")와 탐부라만의 초기 버전으로 종종 "사이키델릭" 녹음으로 불린다.)가 1996년 《[Anthology 2](../Page/Anthology_2.md "wikilink")》에 수록되었다.
 
 1968년 2월 4일의 마스터가 올바른 재생 속도로 다시 리믹스 되어 **《**[Let It Be... Naked](../Page/Let_It_Be..._Naked.md "wikilink")》 앨범에 수록되었다. 대부분의 악기가 제거됐으며 튜닝 문제 해결을 위해 디지털 방식으로 처리됐다.
 
@@ -54,7 +54,7 @@
 
 [음악평론가인](https://ko.wikipedia.org/wiki/음악_평론 "wikilink") [올뮤직](../Page/올뮤직.md "wikilink")의 리치 언터버거는 이 곡에 대해 "비틀즈의 가장 섬세하고 장대한 발라드 중 하나"이자 "《[Let It Be](../Page/Let_It_Be.md "wikilink")》 앨범의 하이라이트 중 하나"라고 평했다.
 
-1998년 2월 4일, [미국 항공우주국](../Page/미국_항공우주국.md "wikilink") [NASA는](../Page/미국_항공우주국.md "wikilink") 50주년 기념으로 지구로부터 431광년 거리에 있는 작은곰자리의 [북극성](../Page/북극성.md "wikilink")을 향해 비틀즈의 곡 〈Across The Universe〉의 MP3 음원을 [NASA](../Page/미국_항공우주국.md "wikilink") 국제우주탐사망(DSN)의 거대한 안테나 3대를 통해 동시에 발사했다."\[9\] 빛의 속도로 날아가 431년 뒤 도달하는 〈Across The Universe〉를 [북극성](../Page/북극성.md "wikilink") 현지에서 들으려면 [위성방송](../Page/위성방송.md "wikilink")을 보는 것과 비슷한 과정을 거쳐야 한다. 수신용 안테나는 물론 디지털 신호를 다시 MP3 형태로 변화시킬 수 있는 수신기가 필요하다. 비틀스의 곡을 우주로 쏘아 보낸다는 아이디어는 미국의 비틀스 역사가인 마틴 루이스로부터 나온 것이다. 그는 [오노 요코와](../Page/오노_요코.md "wikilink") [비틀즈](../Page/비틀즈.md "wikilink") 판권 보유회사 두 곳의 허락을 받아 [NASA와](../Page/미국_항공우주국.md "wikilink") 함께 이 이벤트를 마련했다. 이 날은 〈Across The Universe〉의 녹음일로부터 40주년이 되는 날이기도 해, 비틀즈 멤버 폴 매카트니는 "NASA, 잘 했다\! 다른 별 사람에게 안부 전하길"'이라며 [NASA에게](../Page/미국_항공우주국.md "wikilink") 메시지를 보냈다. [오노 요코](../Page/오노_요코.md "wikilink") 또한, "수십억의 행성과 교신하는 새로운 시대의 시작을 느낀다"라며 메시지를 전했다. 그리고, 우연의 일치인지, 〈Across The Universe〉를 북극성에 발신한 그 날, [마하리시 마헤쉬 요기가](../Page/마하리시_마헤쉬_요기.md "wikilink") 사망했다.
+2008년 2월 4일, [미국 항공우주국](../Page/미국_항공우주국.md "wikilink") [NASA는](../Page/미국_항공우주국.md "wikilink") 50주년 기념으로 지구로부터 431광년 거리에 있는 작은곰자리의 [북극성](../Page/북극성.md "wikilink")을 향해 비틀즈의 곡 〈Across The Universe〉의 MP3 음원을 [NASA](../Page/미국_항공우주국.md "wikilink") 국제우주탐사망(DSN)의 거대한 안테나 3대를 통해 동시에 발사했다."\[9\] 빛의 속도로 날아가 431년 뒤 도달하는 〈Across The Universe〉를 [북극성](../Page/북극성.md "wikilink") 현지에서 들으려면 [위성방송](../Page/위성방송.md "wikilink")을 보는 것과 비슷한 과정을 거쳐야 한다. 수신용 안테나는 물론 디지털 신호를 다시 MP3 형태로 변화시킬 수 있는 수신기가 필요하다. 비틀스의 곡을 우주로 쏘아 보낸다는 아이디어는 미국의 비틀스 역사가인 마틴 루이스로부터 나온 것이다. 그는 [오노 요코와](../Page/오노_요코.md "wikilink") [비틀즈](../Page/비틀즈.md "wikilink") 판권 보유회사 두 곳의 허락을 받아 [NASA와](../Page/미국_항공우주국.md "wikilink") 함께 이 이벤트를 마련했다. 이 날은 〈Across The Universe〉의 녹음일로부터 40주년이 되는 날이기도 해, 비틀즈 멤버 폴 매카트니는 "NASA, 잘 했다\! 다른 별 사람에게 안부 전하길"'이라며 [NASA에게](../Page/미국_항공우주국.md "wikilink") 메시지를 보냈다. [오노 요코](../Page/오노_요코.md "wikilink") 또한, "수십억의 행성과 교신하는 새로운 시대의 시작을 느낀다"라며 메시지를 전했다. 그리고, 우연의 일치인지, 〈Across The Universe〉를 북극성에 발신한 그 날, [마하리시 마헤쉬 요기가](../Page/마하리시_마헤쉬_요기.md "wikilink") 사망했다.
 
 ## 참여 인원
 

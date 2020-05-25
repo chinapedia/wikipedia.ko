@@ -7,7 +7,7 @@
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Mikoyan-Gurevich_MiG-29K_\(9-31\)_-_1.jpg "wikilink") MiG-29K는 [미코얀 MiG-29M을](../Page/미코얀_MiG-29M.md "wikilink") 해군용으로 개조한 것이다. 항공모함 착륙시의 충격을 견디기 위해, 동체와 착륙기어가 강화되었다.
 
-내부연료량이 3,340 kg에서 4,560 kg으로 증가되었다. 전투행동반경은 850 km 이다. 날개밑에 [외부연료탱크](https://ko.wikipedia.org/wiki/외부연료탱크 "wikilink") 3개를 장착하면 전투행동반경이 1,300 km로 늘어난다.
+내부연료량이 3,340 kg에서 4,560 kg으로 증가되었다. 전투행동반경은 850 km이다. 날개밑에 [외부연료탱크](https://ko.wikipedia.org/wiki/외부연료탱크 "wikilink") 3개를 장착하면 전투행동반경이 1,300 km로 늘어난다.
 
 MiG-29K는 MiG-29 초기형과 달리, 공중급유를 받을 수도 있고, 공중급유를 해 줄 수도 있다.
 
@@ -23,7 +23,7 @@ MiG-29K는 MiG-29 초기형과 달리, 공중급유를 받을 수도 있고, 공
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:MAKS-2007-Radar.jpg "wikilink")\]\] [오른쪽](https://ko.wikipedia.org/wiki/파일:AESA_JUK_AE.jpg "wikilink") radar\]\]
 
-[Zhuk-ME는](https://ko.wikipedia.org/wiki/주크_레이다 "wikilink") N010 Zhuk 레이다를 개량한 것이다. 향상된 공대지 기능, 즉 맵핑과 지형추적(terrain follow) 기능이 있다. 수출형은 최대 120 km vs a 5 m<sup>2</sup> RCS 목표물을 탐지할 수 있다. 최대 10개의 목표물을 동시추적하고 4개를 동시공격할 수 있다.\[1\] 추적거리는 탐지거리의 0.83 - 0.85 정도이다. 공대지 모드로는 25 km 의 탱크, 120 km 의 다리, 300 km 의 구축함을 탐지할 수 있다. 동시에 2개의 목표물을 탐지할 수 있다. 레이다 무게는 220 kg 이며 스캐닝 범위는 +/- 85도 아지무스이며, +56/-40도 엘레베이션이다. 직경 624 mm의 수동식 위상배열(MESA) 레이다이다.\[2\]
+[Zhuk-ME는](https://ko.wikipedia.org/wiki/주크_레이다 "wikilink") N010 Zhuk 레이다를 개량한 것이다. 향상된 공대지 기능, 즉 맵핑과 지형추적(terrain follow) 기능이 있다. 수출형은 최대 120 km vs a 5 m<sup>2</sup> RCS 목표물을 탐지할 수 있다. 최대 10개의 목표물을 동시추적하고 4개를 동시공격할 수 있다.\[1\] 추적거리는 탐지거리의 0.83 - 0.85 정도이다. 공대지 모드로는 25 km 의 탱크, 120 km 의 다리, 300 km 의 구축함을 탐지할 수 있다. 동시에 2개의 목표물을 탐지할 수 있다. 레이다 무게는 220 kg이며 스캐닝 범위는 +/- 85도 아지무스이며, +56/-40도 엘레베이션이다. 직경 624 mm의 수동식 위상배열(MESA) 레이다이다.\[2\]
 
 [Zhuk-AE는](https://ko.wikipedia.org/wiki/주크_레이다 "wikilink") Zhuk-ME를 개량한 것으로서, 능동식 위방배열(AESA) 레이다이다.
 

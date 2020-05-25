@@ -797,7 +797,7 @@
 <td><p>すがもと ゆうこ</p></td>
 <td></td>
 <td><p>KOS</p></td>
-<td><p>사퇴, 현재는 <a href="../Page/유튜버.md" title="wikilink">유튜버</a> 이다.</p></td>
+<td><p>사퇴, 현재는 <a href="../Page/유튜버.md" title="wikilink">유튜버</a>이다.</p></td>
 <td><p>-</p></td>
 <td></td>
 <td></td>
@@ -1364,7 +1364,7 @@
 <td><p>2020년 4월 22일</p></td>
 <td><p><strong><a href="https://ko.wikipedia.org/wiki/3-2" title="wikilink">3-2</a></strong><br />
 <small>삼 빼기 이</small></p></td>
-<td><p>-</p></td>
+<td><p>1</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -1764,8 +1764,8 @@
   - [AKB48 Team SH](../Page/AKB48_Team_SH.md "wikilink")
   - [AKB48 Team TP](../Page/AKB48_Team_TP.md "wikilink")
   - [SGO48](../Page/SGO48.md "wikilink")
-  - [CGM48](https://ko.wikipedia.org/wiki/CGM48 "wikilink")
-  - [DEL48](https://ko.wikipedia.org/wiki/DEL48 "wikilink")
+  - [CGM48](../Page/CGM48.md "wikilink")
+  - [DEL48](../Page/DEL48.md "wikilink")
   - [MUB48](../Page/MUB48.md "wikilink")
 
 ## 외부 링크

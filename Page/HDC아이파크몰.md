@@ -114,7 +114,7 @@ FASHION PARK & TASTE PARK 6\~7층 위치. 20관 3788석. 4DX with ScreenX, IMAX 
 
 \*한시적 영업시간 변경 운영
 
-  - FASHION PARK / LIVING PARK / 디지털전문점 : 오전 11:00 \~ 오후 8:00(평일) / 오전 11:00 \~ 오후 8:30 (금\~일)
+  - FASHION PARK / LIVING PARK / 디지털전문점 : 오전 11:00 \~ 오후 8:30 (일,월\~목) / 오전11:00 \~ 오후 9:00 (금,토,공휴일)
 
 <!-- end list -->
 

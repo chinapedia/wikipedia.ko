@@ -33,7 +33,7 @@
   - 2009년: EB GUIDE GTF v2.5 배포
   - 2010년: EB GUIDE v5.0 배포
 
-## 함께 보기
+## 같이 보기
 
   - [Automotive HMI](../Page/Automotive_HMI.md "wikilink")
   - [ISO 26262](../Page/ISO_26262.md "wikilink")

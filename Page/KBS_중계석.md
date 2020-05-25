@@ -2108,4 +2108,4 @@
 
   - [KBS 중계석 홈페이지](http://www.kbs.co.kr/1tv/sisa/junggea/index.html)
 
-[분류:한국방송공사의 시사교양 프로그램](https://ko.wikipedia.org/wiki/분류:한국방송공사의_시사교양_프로그램 "wikilink")
+[분류:한국방송공사의 시사교양 프로그램](https://ko.wikipedia.org/wiki/분류:한국방송공사의_시사교양_프로그램 "wikilink") [분류:2008년에 시작한 대한민국 TV 프로그램](https://ko.wikipedia.org/wiki/분류:2008년에_시작한_대한민국_TV_프로그램 "wikilink")

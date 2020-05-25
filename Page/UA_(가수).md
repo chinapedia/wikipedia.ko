@@ -5,7 +5,7 @@
 
 ## 생애
 
-[오사카부](../Page/오사카부.md "wikilink") [스이타 시에서](https://ko.wikipedia.org/wiki/스이타_시 "wikilink") 태어났다. [단기대학](https://ko.wikipedia.org/wiki/단기대학 "wikilink") 졸업 후인 1995년, 싱글 〈Horizon〉으로 데뷔했다. 2000년에는 [블랭키 젯 시티의](https://ko.wikipedia.org/wiki/블랭키_젯_시티 "wikilink") [아사이 겐이치와](https://ko.wikipedia.org/wiki/아사이_겐이치 "wikilink") 밴드 아지코(AJICO)를 결성했다.
+[오사카부](../Page/오사카부.md "wikilink") [스이타시](../Page/스이타시.md "wikilink")에서 태어났다. [단기대학](https://ko.wikipedia.org/wiki/단기대학 "wikilink") 졸업 후인 1995년, 싱글 〈Horizon〉으로 데뷔했다. 2000년에는 [블랭키 젯 시티의](https://ko.wikipedia.org/wiki/블랭키_젯_시티 "wikilink") [아사이 겐이치와](https://ko.wikipedia.org/wiki/아사이_겐이치 "wikilink") 밴드 아지코(AJICO)를 결성했다.
 
 또, 주연을 맡은 영화 물의 여자가 2002년 10월에 개봉했다.
 

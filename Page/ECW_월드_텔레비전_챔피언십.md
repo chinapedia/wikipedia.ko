@@ -47,7 +47,7 @@
   - 라이노
   - 키드 캐쉬
 
-## 함께 보기
+## 같이 보기
 
   - [트리플 크라운 챔피언십](../Page/트리플_크라운_챔피언십.md "wikilink")
   - [WWE 인터콘티넨탈 챔피언십](https://ko.wikipedia.org/wiki/WWE_인터콘티넨탈_챔피언십 "wikilink")

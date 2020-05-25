@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [JAL 웨이즈](https://ko.wikipedia.org/wiki/JAL_웨이즈).
 
 
-**JAL 웨이즈**(, ) [1990년](../Page/1990년.md "wikilink")에 **일본항공 전세**(, )로 설립되어 [2010년](../Page/2010년.md "wikilink") [일본항공인터내셔널](https://ko.wikipedia.org/wiki/일본항공인터내셔널 "wikilink")에 합병된 [일본](../Page/일본.md "wikilink")의 항공사로 [허브 공항은](../Page/허브_공항.md "wikilink") [나리타 국제공항](https://ko.wikipedia.org/wiki/나리타_국제공항 "wikilink"), [간사이 국제공항으로](https://ko.wikipedia.org/wiki/간사이_국제공항 "wikilink") 본사는 [치바 현](https://ko.wikipedia.org/wiki/치바_현 "wikilink") [나리타 시에](https://ko.wikipedia.org/wiki/나리타_시 "wikilink") 위치해 있었다.
+**JAL 웨이즈**(, ) [1990년](../Page/1990년.md "wikilink")에 **일본항공 전세**(, )로 설립되어 [2010년](../Page/2010년.md "wikilink") [일본항공인터내셔널](https://ko.wikipedia.org/wiki/일본항공인터내셔널 "wikilink")에 합병된 [일본](../Page/일본.md "wikilink")의 항공사로 [허브 공항은](../Page/허브_공항.md "wikilink") [나리타 국제공항](https://ko.wikipedia.org/wiki/나리타_국제공항 "wikilink"), [간사이 국제공항으로](https://ko.wikipedia.org/wiki/간사이_국제공항 "wikilink") 본사는 [지바현](../Page/지바현.md "wikilink") [나리타시](../Page/나리타시.md "wikilink")에 위치해 있었다.
 
 ## 역사
 

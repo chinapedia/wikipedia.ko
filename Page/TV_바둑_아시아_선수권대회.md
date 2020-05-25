@@ -286,8 +286,8 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/딩하오" title="wikilink">딩하오</a> 六단</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/32회_TV_바둑_아시아_선수권대회" title="wikilink">32</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/32회_TV_바둑_아시아_선수권대회" title="wikilink">2020</a></p></td>
+<td><p><a href="../Page/32회_TV_바둑_아시아_선수권대회.md" title="wikilink">32</a></p></td>
+<td><p><a href="../Page/32회_TV_바둑_아시아_선수권대회.md" title="wikilink">2020</a></p></td>
 <td></td>
 <td><p>|</p></td>
 <td></td>

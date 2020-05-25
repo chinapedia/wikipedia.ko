@@ -43,7 +43,7 @@
   - 《[거짓말의 거짓말](https://ko.wikipedia.org/wiki/거짓말의_거짓말 "wikilink")》; [2020년](../Page/2020년.md "wikilink") [5월 22일](../Page/5월_22일.md "wikilink") \~
   - 《[미쓰맘 제인](https://ko.wikipedia.org/wiki/미쓰맘_제인 "wikilink")》; [2020년](../Page/2020년.md "wikilink") [8월](../Page/8월.md "wikilink") \~
 
-## 함께 보기
+## 같이 보기
 
   - [채널A 월화드라마](https://ko.wikipedia.org/wiki/채널A_월화드라마 "wikilink")
   - [채널A 수목 미니시리즈](https://ko.wikipedia.org/wiki/채널A_수목_미니시리즈 "wikilink")

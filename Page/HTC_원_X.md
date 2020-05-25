@@ -68,7 +68,7 @@
 
 ## 각주
 
-<references/>
+<references />
 
 [분류:2012년 출시](https://ko.wikipedia.org/wiki/분류:2012년_출시 "wikilink") [분류:안드로이드 장치](https://ko.wikipedia.org/wiki/분류:안드로이드_장치 "wikilink") [원 X](https://ko.wikipedia.org/wiki/분류:HTC의_스마트폰 "wikilink") [원 X](https://ko.wikipedia.org/wiki/분류:HTC_휴대_전화기 "wikilink") [원 XL](https://ko.wikipedia.org/wiki/분류:HTC의_스마트폰 "wikilink") [원 XL](https://ko.wikipedia.org/wiki/분류:HTC_휴대_전화기 "wikilink") [분류:스마트폰](https://ko.wikipedia.org/wiki/분류:스마트폰 "wikilink")
 

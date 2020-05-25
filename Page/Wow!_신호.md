@@ -30,7 +30,7 @@
 
 J2000.0 주야 평분시로 변환한 천구좌표는 적경 = 19<sup>h</sup>25<sup>m</sup>31<sup>s</sup> ± 10<sup>s</sup> 또는 19<sup>h</sup>28<sup>m</sup>22<sup>s</sup> ± 10<sup>s</sup>이고 적위는 −26°57′ ± 20′이 된다.
 
-신호가 온 영역은 실시등급 +5 [궁수자리 키](https://ko.wikipedia.org/wiki/궁수자리_키 "wikilink") 성군(星群)에서 남쪽으로 약 2.5도, [황도](https://ko.wikipedia.org/wiki/황도 "wikilink") 남쪽으로 약 3.5도 떨어진 방향에 있다. 3.5도 남쪽 근처에서 가장 밝은 별은 [궁수자리 타우이다](https://ko.wikipedia.org/wiki/궁수자리_타우 "wikilink").
+신호가 온 영역은 실시등급 +5 [궁수자리 키](https://ko.wikipedia.org/wiki/궁수자리_키 "wikilink") 성군(星群)에서 남쪽으로 약 2.5도, [황도](../Page/황도.md "wikilink") 남쪽으로 약 3.5도 떨어진 방향에 있다. 3.5도 남쪽 근처에서 가장 밝은 별은 [궁수자리 타우이다](https://ko.wikipedia.org/wiki/궁수자리_타우 "wikilink").
 
 ## 시간의 변화
 

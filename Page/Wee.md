@@ -133,7 +133,7 @@
 <td><h3 id="경상남도">경상남도</h3>
 <ul>
 <li><a href="https://web.archive.org/web/20140528081622/http://counsel.gnghe.go.kr/">김해교육지원청, Wee센터</a></li>
-<li><a href="http://wee.eduys.or.kr/">양산교육지원청, Wee센터</a></li>
+<li><a href="https://web.archive.org/web/20140330094731/http://wee.eduys.or.kr/">양산교육지원청, Wee센터</a></li>
 </ul></td>
 </tr>
 </tbody>

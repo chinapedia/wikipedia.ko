@@ -2609,108 +2609,114 @@ U-18팀 코치로 보직 변경</p></td>
 <td></td>
 </tr>
 <tr class="odd">
+<td><p><a href="https://ko.wikipedia.org/wiki/서성태" title="wikilink">서성태</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/오산고등학교_축구부_(서울)" title="wikilink">U-18팀</a> 감독</p></td>
 <td><p><a href="../Page/정상남.md" title="wikilink">정상남</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/오산고등학교_축구부_(서울)" title="wikilink">U-18팀</a> 코치</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/이정열_(축구_선수)" title="wikilink">이정열</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/오산고등학교_축구부_(서울)" title="wikilink">U-18팀</a> 골키퍼 코치</p></td>
 <td><p><a href="../Page/원종덕.md" title="wikilink">원종덕</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/오산고등학교_축구부_(서울)" title="wikilink">U-18팀</a> <a href="../Page/선수트레이너.md" title="wikilink">선수트레이너</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/이혁준_(축구인)" title="wikilink">이혁준</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/오산중학교_축구부_(서울)" title="wikilink">U-15팀</a> 감독</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/김영진_(1978년)" title="wikilink">김영진</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/오산중학교_축구부_(서울)" title="wikilink">U-15팀</a> 코치</p></td>
 <td><p><a href="../Page/박혁순.md" title="wikilink">박혁순</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/오산중학교_축구부_(서울)" title="wikilink">U-15팀</a> 골키퍼 코치</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/손일표" title="wikilink">손일표</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/오산중학교_축구부_(서울)" title="wikilink">U-15팀</a> 피트니스 코치</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/박성준_(축구인)" title="wikilink">박성준</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/오산중학교_축구부_(서울)" title="wikilink">U-15팀</a> <a href="../Page/선수트레이너.md" title="wikilink">선수트레이너</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/최민기_(축구인)" title="wikilink">최민기</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/FC_서울_U-12팀" title="wikilink">U-12팀</a> 감독</p></td>
 <td><p><a href="../Page/김병채.md" title="wikilink">김병채</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/FC_서울_U-12팀" title="wikilink">U-12팀</a> 코치</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/서기만" title="wikilink">서기만</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/FC_서울_U-12팀" title="wikilink">U-12팀</a> 골키퍼 코치</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/이지훈_(축구인)" title="wikilink">이지훈</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/FC_서울_U-12팀" title="wikilink">U-12팀</a> <a href="../Page/선수트레이너.md" title="wikilink">선수트레이너</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/이종혁_(축구인)" title="wikilink">이종혁</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>스카우트팀 팀장</p></td>
 <td><p><a href="../Page/김현태_(축구인).md" title="wikilink">김현태</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>스카우트</p></td>
 <td><p><a href="../Page/이원준_(축구인).md" title="wikilink">이원준</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/정재윤_(축구인).md" title="wikilink">정재윤</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/서민우_(축구인)" title="wikilink">서민우</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -2793,108 +2799,114 @@ U-18팀 코치로 보직 변경</p></td>
 <td></td>
 </tr>
 <tr class="odd">
+<td><p><a href="https://ko.wikipedia.org/wiki/서성태" title="wikilink">서성태</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/오산고등학교_축구부_(서울)" title="wikilink">U-18팀</a> 감독</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/명진영" title="wikilink">명진영</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/오산고등학교_축구부_(서울)" title="wikilink">U-18팀</a> 코치</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/김진규_(축구인)" title="wikilink">김진규</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/오산고등학교_축구부_(서울)" title="wikilink">U-18팀</a> 골키퍼 코치</p></td>
 <td><p><a href="../Page/원종덕.md" title="wikilink">원종덕</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/오산고등학교_축구부_(서울)" title="wikilink">U-18팀</a> 피트니스 코치</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/황지환" title="wikilink">황지환</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/오산고등학교_축구부_(서울)" title="wikilink">U-18팀</a> <a href="../Page/선수트레이너.md" title="wikilink">선수트레이너</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/이혁준_(축구인)" title="wikilink">이혁준</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/오산중학교_축구부_(서울)" title="wikilink">U-15팀</a> 감독</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/김영진_(1978년)" title="wikilink">김영진</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/오산중학교_축구부_(서울)" title="wikilink">U-15팀</a> 코치</p></td>
 <td><p><a href="../Page/박혁순.md" title="wikilink">박혁순</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/오산중학교_축구부_(서울)" title="wikilink">U-15팀</a> 골키퍼 코치</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/손일표" title="wikilink">손일표</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/오산중학교_축구부_(서울)" title="wikilink">U-15팀</a> 피트니스 코치</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/정훈기" title="wikilink">정훈기</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/오산중학교_축구부_(서울)" title="wikilink">U-15팀</a> <a href="../Page/선수트레이너.md" title="wikilink">선수트레이너</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/최민기_(축구인)" title="wikilink">최민기</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/FC_서울_U-12팀" title="wikilink">U-12팀</a> 감독</p></td>
 <td><p><a href="../Page/김병채.md" title="wikilink">김병채</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/FC_서울_U-12팀" title="wikilink">U-12팀</a> 코치</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/서기만" title="wikilink">서기만</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/FC_서울_U-12팀" title="wikilink">U-12팀</a> 골키퍼 코치</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/이지훈_(축구인)" title="wikilink">이지훈</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>전력강화실 실장</p></td>
 <td><p><a href="../Page/김현태_(축구인).md" title="wikilink">김현태</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>스카우트</p></td>
 <td><p><a href="../Page/이원준_(축구인).md" title="wikilink">이원준</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/정재윤_(축구인).md" title="wikilink">정재윤</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/박용호_(축구인).md" title="wikilink">박용호</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -2971,7 +2983,7 @@ U-18팀 코치로 보직 변경</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/최규정" title="wikilink">최규정</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/서성태" title="wikilink">서성태</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3151,7 +3163,7 @@ U-18팀 코치로 보직 변경</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/최규정" title="wikilink">최규정</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/서성태" title="wikilink">서성태</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3506,7 +3518,7 @@ U-18팀 코치로 보직 변경</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/오산고등학교_축구부_(서울)" title="wikilink">U-18팀</a> 골키퍼 코치</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/방현곤" title="wikilink">방현곤</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/방형곤" title="wikilink">방형곤</a></p></td>
 <td></td>
 <td></td>
 </tr>

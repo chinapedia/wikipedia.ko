@@ -45,7 +45,7 @@
 
   - : 2012년 러시아 [전략 로켓군에서만](../Page/전략_로켓군.md "wikilink") 운영하고 있으며, 78기의 토폴-M 미사일을 배치하고 있다.
 
-## 함께 보기
+## 같이 보기
 
   - [미사일 목록 (이름순)](https://ko.wikipedia.org/wiki/미사일_목록_\(이름순\) "wikilink")
   - [RT-2PM/RS-12M 토폴 (SS-25)](../Page/RT-2PM_토폴.md "wikilink")

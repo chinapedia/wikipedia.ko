@@ -130,7 +130,7 @@
 6.  ["LATAM's entire fleet to have new livery by 2018"](http://www.flightglobal.com/news/articles/latam39s-entire-fleet-to-have-new-livery-by-2018-415470/) retrieved 9 August 2015
 7.
 8.  Airways magazine, *Fast Facts - TAM Linhas Aereas*, February 2010, p. 25
-9.  [TAM Airlines fleet - Official website](http://www.tam.com.br/b2c/vgn/v/index.jsp?vgnextoid=bb2f8c2d83874210VgnVCM1000000b61990aRCRD)
+9.
 10. [TAM Fleet | Airfleets aviation](http://www.airfleets.net/flottecie/TAM.htm)
 11. [TAM - SeatPlans.com](http://www.seatplans.com/airlines/TAM-Brazilian-Airlines)
 12.

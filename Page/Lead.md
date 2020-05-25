@@ -10,7 +10,7 @@
 <!-- end list -->
 
   -
-    [오사카부](../Page/오사카부.md "wikilink") [히라카타 시](https://ko.wikipedia.org/wiki/히라카타_시 "wikilink") 출신. 이미지 컬러는 <span style="font-weight:bold; color:#006400">**초록**</span>.
+    [오사카부](../Page/오사카부.md "wikilink") [히라카타시](../Page/히라카타시.md "wikilink") 출신. 이미지 컬러는 <span style="font-weight:bold; color:#006400">**초록**</span>.
 
 <!-- end list -->
 
@@ -19,7 +19,7 @@
 <!-- end list -->
 
   -
-    [후쿠오카현](../Page/후쿠오카현.md "wikilink") [후쿠오카 시](https://ko.wikipedia.org/wiki/후쿠오카_시 "wikilink") 출신. 이미지 컬러는 <span style="font-weight:bold; color:#ffa500">**노랑**</span>.
+    [후쿠오카현](../Page/후쿠오카현.md "wikilink") [후쿠오카시](../Page/후쿠오카시.md "wikilink") 출신. 이미지 컬러는 <span style="font-weight:bold; color:#ffa500">**노랑**</span>.
 
 <!-- end list -->
 
@@ -28,7 +28,7 @@
 <!-- end list -->
 
   -
-    [나라현](../Page/나라현.md "wikilink") [이코마 군](https://ko.wikipedia.org/wiki/이코마_군 "wikilink") [이카루가 정](https://ko.wikipedia.org/wiki/이카루가_정 "wikilink") 출신. 이미지 컬러는 <span style="font-weight:bold; color:#0000cd">**파랑**</span>.
+    [나라현](../Page/나라현.md "wikilink") [이코마군](https://ko.wikipedia.org/wiki/이코마군 "wikilink") [이카루가정](../Page/이카루가정.md "wikilink") 출신. 이미지 컬러는 <span style="font-weight:bold; color:#0000cd">**파랑**</span>.
 
 ### 이전 멤버
 
@@ -37,7 +37,7 @@
 <!-- end list -->
 
   -
-    오사카 부 [후지이데라 시](https://ko.wikipedia.org/wiki/후지이데라_시 "wikilink") 출신.
+    오사카 부 [후지이데라시](../Page/후지이데라시.md "wikilink") 출신.
 
 ## 개요
 
@@ -372,7 +372,7 @@
 </tr>
 <tr class="even">
 <td><p>20th</p></td>
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/Still_(리드의_노래)" title="wikilink">still</a></strong></p></td>
+<td><p><em>' <a href="https://ko.wikipedia.org/wiki/Still_(리드의_노래)" title="wikilink">still</a></em>'</p></td>
 <td><p>12월 12일</p></td>
 <td><ul>
 <li><p>() (전 종류 공통)</p></li>
@@ -559,7 +559,7 @@
 </tr>
 <tr class="odd">
 <td><p>32th</p></td>
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/HIDE_and_SEEK/선셋_리후레인" title="wikilink">HIDE and SEEK/선셋 리후레인</a></strong></p></td>
+<td><p>'''<a href="https://ko.wikipedia.org/wiki/HIDE_and_SEEK/선셋_리후레인" title="wikilink">HIDE and SEEK/선셋 리후레인</a> '''</p></td>
 <td><p>2월 19일</p></td>
 <td></td>
 <td><p>3위</p></td>

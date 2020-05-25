@@ -157,7 +157,7 @@
 
   - 최다 수상선수 : [김용수](https://ko.wikipedia.org/wiki/김용수 "wikilink")([LG 트윈스](../Page/LG_트윈스.md "wikilink"), 1990,1994), [이종범](../Page/이종범.md "wikilink")([해태 타이거즈](../Page/해태_타이거즈.md "wikilink")(현 [KIA 타이거즈](https://ko.wikipedia.org/wiki/KIA_타이거즈 "wikilink")), 1993,1997), [정민태(현대 유니콘스, 1998, 2003), 오승환](https://ko.wikipedia.org/wiki/오승환 "wikilink")([삼성 라이온즈](../Page/삼성_라이온즈.md "wikilink"), 2005,2011) 이상 2회
 
-## 함께 보기
+## 같이 보기
 
   - [한국시리즈](../Page/KBO_한국시리즈.md "wikilink")
   - [KBO MVP](https://ko.wikipedia.org/wiki/KBO_MVP "wikilink")

@@ -58,7 +58,7 @@
 2.
 3.  <http://www.oricon.co.jp/news/confidence/44947/>
 4.
-5.  <http://www.oricon.co.jp/news/music/31537/>
+5.
 6.
 7.  <http://animeanime.jp/news/archives/2007/06/_skin_613.html>
 8.  <http://natalie.mu/music/pp/mosome_miyavi/page/2>

@@ -223,7 +223,7 @@
 </tbody>
 </table>
 
-## 함께 보기
+## 같이 보기
 
   - [NBA 올스타전](../Page/NBA_올스타전.md "wikilink")
   - [WNBA 올스타전](../Page/WNBA_올스타전.md "wikilink")

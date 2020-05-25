@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [빅커스 F.B.5](https://ko.wikipedia.org/wiki/빅커스_F.B.5).
 
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:Vickers_F.B.5._Gunbus.jpg "wikilink") **빅커스 F.B.5**(Vickers F.B.5, Vickers Fighting Biplane 5)는 [제1차 세계 대전에](../Page/제1차_세계_대전.md "wikilink") 사용된 [영국](../Page/영국.md "wikilink")의 복좌식 군사 복엽기이며, **건버스**(Gunbus)라고도 한다. 군사 복엽기는 비행기의 엔질실 앞에 관찰자 혹은 조종사가 직접 조작하는 .303구경(7.7) Lewis Gun기관총으로 무장했다. 그리고 공대공 전투용으로 만들어지고 세계 최초로 운영한 전투항공기이기도 하다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:Vickers_FB.5_Gunbus_2345_G-ATVP_Yvtn_09.07.66_edited-3.jpg "wikilink") **빅커스 F.B.5**(Vickers F.B.5, Vickers Fighting Biplane 5)는 [제1차 세계 대전에](../Page/제1차_세계_대전.md "wikilink") 사용된 [영국](../Page/영국.md "wikilink")의 복좌식 군사 복엽기이며, **건버스**(Gunbus)라고도 한다. 군사 복엽기는 비행기의 엔질실 앞에 관찰자 혹은 조종사가 직접 조작하는 .303구경(7.7) Lewis Gun기관총으로 무장했다. 그리고 공대공 전투용으로 만들어지고 세계 최초로 운영한 전투항공기이기도 하다.
 
 ## 역사
 

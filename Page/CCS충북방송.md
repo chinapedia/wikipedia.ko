@@ -3,7 +3,7 @@
 
 **CCS 충북방송**(**C**hung buk **C**ableTV **S**ystem Co., Ltd.) (거래정지) 수신 지역은 [충청북도](https://ko.wikipedia.org/wiki/충청북도 "wikilink") 북부,중부4군 일원 ([충주시](https://ko.wikipedia.org/wiki/충주시 "wikilink"), [제천시](../Page/제천시.md "wikilink"), [음성군](../Page/음성군.md "wikilink"), [단양군](../Page/단양군.md "wikilink"), [괴산군](../Page/괴산군.md "wikilink"), [진천군](../Page/진천군.md "wikilink"), [증평군](../Page/증평군.md "wikilink"))을 대상으로 송출되고 있다.
 
-## 방영/종영 프로그램
+## 프로그램
 
   - CCS NEWS
   - 골프 스테이션
@@ -20,6 +20,85 @@
   - 특집방송
   - 힐링요가
   - 컨츄리 고고
+
+## 디지털케이블 HD/디지털케이블TV 채널안내
+
+[섬네일](https://ko.wikipedia.org/wiki/파일:DTV_Converter.jpg "wikilink") 디지털 알뜰형 전환이 완료되면서 아날로그 케이블 방송을 종료하였다. CCS 충북방송 홈페이지에서 [CCS 충북방송 케이블TV방송 상품 안내](http://www.ccstv.co.kr/sProgram/pProgramTable.php) 를 참조하면 된다.
+
+  - **디지털케이블TV/지역채널/지상파/홈쇼핑**
+
+<table>
+<thead>
+<tr class="header">
+<th><p>채널 번호</p></th>
+<th><p>채널명</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>디지털<br />
+알뜰형</p></td>
+<td><p>디지털<br />
+케이블</p></td>
+</tr>
+<tr class="even">
+<td><p>HD</p></td>
+<td><p>SD</p></td>
+</tr>
+<tr class="odd">
+<td><p>2-1</p></td>
+<td><p>2번</p></td>
+</tr>
+<tr class="even">
+<td><p>4-1</p></td>
+<td><p>4번</p></td>
+</tr>
+<tr class="odd">
+<td><p>5-1</p></td>
+<td><p>5번</p></td>
+</tr>
+<tr class="even">
+<td><p>6-1</p></td>
+<td><p>6번</p></td>
+</tr>
+<tr class="odd">
+<td><p>7-1</p></td>
+<td><p>7번</p></td>
+</tr>
+<tr class="even">
+<td><p>8-1</p></td>
+<td><p>8번</p></td>
+</tr>
+<tr class="odd">
+<td><p>9-1</p></td>
+<td><p>9번</p></td>
+</tr>
+<tr class="even">
+<td><p>10-1</p></td>
+<td><p>10번</p></td>
+</tr>
+<tr class="odd">
+<td><p>11-1</p></td>
+<td><p>11번</p></td>
+</tr>
+<tr class="even">
+<td><p>13-1</p></td>
+<td><p>13번</p></td>
+</tr>
+<tr class="odd">
+<td><p>14-1</p></td>
+<td><p>14번</p></td>
+</tr>
+<tr class="even">
+<td><p>17-1</p></td>
+<td><p>17번</p></td>
+</tr>
+<tr class="odd">
+<td><p>20-1</p></td>
+<td><p>20번</p></td>
+</tr>
+</tbody>
+</table>
 
 ## 같이 보기
 

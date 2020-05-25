@@ -52,4 +52,4 @@
 
   - [MAMI KAWADA GENEON UNIVERSAL OFFICIAL SITE (DVD 소개 페이지)](https://web.archive.org/web/20100625044838/http://www.geneon-ent.co.jp/rondorobe/music/kotoko/contents/hp0006/index00190000.html)
 
-[분류:라이브 비디오 음반](https://ko.wikipedia.org/wiki/분류:라이브_비디오_음반 "wikilink") [분류:2007년 음반](https://ko.wikipedia.org/wiki/분류:2007년_음반 "wikilink") [분류:긴 낱말](https://ko.wikipedia.org/wiki/분류:긴_낱말 "wikilink")
+[분류:라이브 비디오 음반](https://ko.wikipedia.org/wiki/분류:라이브_비디오_음반 "wikilink") [분류:2007년 음반](https://ko.wikipedia.org/wiki/분류:2007년_음반 "wikilink")

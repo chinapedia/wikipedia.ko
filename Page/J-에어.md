@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [J-에어](https://ko.wikipedia.org/wiki/J-에어).
 
 
-**J-에어**(, )는 [일본](../Page/일본.md "wikilink") [오사카부](../Page/오사카부.md "wikilink") [이케다 시에](https://ko.wikipedia.org/wiki/이케다_시 "wikilink") 본사를 둔 지역 항공사로 [오사카 국제공항을](../Page/오사카_국제공항.md "wikilink") [허브 공항으로](../Page/허브_공항.md "wikilink") 해서 국내선 노선을 운항하고 있다.
+**J-에어**(, )는 [일본](../Page/일본.md "wikilink") [오사카부](../Page/오사카부.md "wikilink") [이케다시](../Page/이케다시.md "wikilink")에 본사를 둔 지역 항공사로 [오사카 국제공항을](../Page/오사카_국제공항.md "wikilink") [허브 공항으로](../Page/허브_공항.md "wikilink") 해서 국내선 노선을 운항하고 있다.
 
 ## 연혁
 

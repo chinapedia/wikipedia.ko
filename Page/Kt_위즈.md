@@ -25,14 +25,14 @@
 
 ### 투수 기록
 
-| 기록       | 일시                                                                          | 성명                                         | 장소                                | 상대                                  | 비고                   |
-| -------- | --------------------------------------------------------------------------- | ------------------------------------------ | --------------------------------- | ----------------------------------- | -------------------- |
-| 최초 선발    | [2015년](../Page/2015년.md "wikilink") [3월 28일](../Page/3월_28일.md "wikilink") | [필 어윈](../Page/필_어윈.md "wikilink")         | [사직](../Page/사직야구장.md "wikilink") | [롯데](../Page/롯데_자이언츠.md "wikilink") |                      |
-| 최초 삼진    | [2015년](../Page/2015년.md "wikilink") [3월 28일](../Page/3월_28일.md "wikilink") | [필 어윈](../Page/필_어윈.md "wikilink")         | [사직](../Page/사직야구장.md "wikilink") | [롯데](../Page/롯데_자이언츠.md "wikilink") |                      |
-| 최초 승리    | [2015년](../Page/2015년.md "wikilink") [4월 11일](../Page/4월_11일.md "wikilink") | [크리스 옥스프링](../Page/크리스_옥스프링.md "wikilink") | [목동](../Page/목동야구장.md "wikilink") | [넥센](../Page/키움_히어로즈.md "wikilink") |                      |
-| 국내선수 첫승리 | [2015년](../Page/2015년.md "wikilink") [4월 12일](../Page/4월_12일.md "wikilink") | [최원재](../Page/최원재.md "wikilink")           | [목동](../Page/목동야구장.md "wikilink") | [넥센](../Page/키움_히어로즈.md "wikilink") |                      |
-| 최초 세이브   | [2015년](../Page/2015년.md "wikilink") [4월 12일](../Page/4월_12일.md "wikilink") | [장시환](../Page/장시환.md "wikilink")           | [목동](../Page/목동야구장.md "wikilink") | [넥센](../Page/키움_히어로즈.md "wikilink") |                      |
-| 최초 완봉승   | [2016년](../Page/2016년.md "wikilink") [5월 27일](../Page/5월_27일.md "wikilink") | [주권](../Page/주권_\(야구_선수\).md "wikilink")   | [수원](../Page/수원야구장.md "wikilink") | [넥센](../Page/키움_히어로즈.md "wikilink") | KBO 리그 사상 첫 무사사구 완봉승 |
+| 기록       | 일시                                                                          | 성명                                       | 장소                                | 상대                                  | 비고                   |
+| -------- | --------------------------------------------------------------------------- | ---------------------------------------- | --------------------------------- | ----------------------------------- | -------------------- |
+| 최초 선발    | [2015년](../Page/2015년.md "wikilink") [3월 28일](../Page/3월_28일.md "wikilink") | [어윈](../Page/필_어윈.md "wikilink")         | [사직](../Page/사직야구장.md "wikilink") | [롯데](../Page/롯데_자이언츠.md "wikilink") |                      |
+| 최초 삼진    | [2015년](../Page/2015년.md "wikilink") [3월 28일](../Page/3월_28일.md "wikilink") | [어윈](../Page/필_어윈.md "wikilink")         | [사직](../Page/사직야구장.md "wikilink") | [롯데](../Page/롯데_자이언츠.md "wikilink") |                      |
+| 최초 승리    | [2015년](../Page/2015년.md "wikilink") [4월 11일](../Page/4월_11일.md "wikilink") | [옥스프링](../Page/크리스_옥스프링.md "wikilink")   | [목동](../Page/목동야구장.md "wikilink") | [넥센](../Page/키움_히어로즈.md "wikilink") |                      |
+| 국내선수 첫승리 | [2015년](../Page/2015년.md "wikilink") [4월 12일](../Page/4월_12일.md "wikilink") | [최원재](../Page/최원재.md "wikilink")         | [목동](../Page/목동야구장.md "wikilink") | [넥센](../Page/키움_히어로즈.md "wikilink") |                      |
+| 최초 세이브   | [2015년](../Page/2015년.md "wikilink") [4월 12일](../Page/4월_12일.md "wikilink") | [장시환](../Page/장시환.md "wikilink")         | [목동](../Page/목동야구장.md "wikilink") | [넥센](../Page/키움_히어로즈.md "wikilink") |                      |
+| 최초 완봉승   | [2016년](../Page/2016년.md "wikilink") [5월 27일](../Page/5월_27일.md "wikilink") | [주권](../Page/주권_\(야구_선수\).md "wikilink") | [수원](../Page/수원야구장.md "wikilink") | [넥센](../Page/키움_히어로즈.md "wikilink") | KBO 리그 사상 첫 무사사구 완봉승 |
 
 ### 타자 기록
 
@@ -304,7 +304,6 @@
 
   - 타자가 타석에 들어섰을 때: 빠밤\~ 빠바밤\~ ○번 타자 (타자 이름) 안타/홈런 (타자 이름) 안타/홈런 (타자 이름)
   - 상대 투수가 견제구를 던졌을 때: What\! What\! What\! What (3회 반복)
-  - 타자가 홈런을 쳤을 때: 밀어쳐도 홈런\!\~ 당겨쳐도 홈런\!\~밀당 홈런 kt 위즈\~ 밀\!당\!홈\!런\!
   - 관중들이 타자에게 안타를 원할 때: 안타 \~ x4 안타를 쳐주세요 \~ 안타 쳐줘요 \~ 홈런도 좋아요 \~ 가슴이 뻥 뚤리게 날려주세요 \~ x2 바로지금 \~ (타자 이름)
 
 ## 응원단
@@ -323,7 +322,7 @@
   -
 [KT_위즈](https://ko.wikipedia.org/wiki/분류:KT_위즈 "wikilink") [위즈](https://ko.wikipedia.org/wiki/분류:KT스포츠 "wikilink") [분류:2013년 설립](https://ko.wikipedia.org/wiki/분류:2013년_설립 "wikilink") [분류:수원시의 스포츠](https://ko.wikipedia.org/wiki/분류:수원시의_스포츠 "wikilink") [분류:2013년 설립된 스포츠 클럽](https://ko.wikipedia.org/wiki/분류:2013년_설립된_스포츠_클럽 "wikilink")
 
-1.  [《고유라의 도란도란》 kt wiz는 왜 구단명을 소문자로 쓸까](http://sports.news.naver.com/sports/index.nhn?category=kbo&ctg=news&mod=read&office_id=109&article_id=0002696522) 《OSEN》 한유라 기자 → 'kt wiz baseball club' 이름 자체가 [KBO](https://ko.wikipedia.org/wiki/KBO_\(야구\) "wikilink")([KBO](https://ko.wikipedia.org/wiki/KBO_\(야구\) "wikilink"))에 전체 소문자로 등록되어 있으며, kt측에서도 소문자 표기를 요청 해왔다고 한다.
+1.  [《고유라의 도란도란》 kt wiz는 왜 구단명을 소문자로 쓸까](http://sports.news.naver.com/sports/index.nhn?category=kbo&ctg=news&mod=read&office_id=109&article_id=0002696522) 《OSEN》 한유라 기자 → 'kt wiz baseball club' 이름 자체가 [KBO](https://ko.wikipedia.org/wiki/KBO_리그 "wikilink")([KBO](https://ko.wikipedia.org/wiki/KBO_리그 "wikilink"))에 전체 소문자로 등록되어 있으며, kt측에서도 소문자 표기를 요청 해왔다고 한다.
 2.  공식적으로 팀 이름을 쓸 때 한글인 kt '위즈'가 아닌 영어인 kt 'wiz'를 사용하며 스펠링을 모두 소문자로만 쓴다.
 3.  [`KT,``   ``프로야구``   ``10번째``   ``구단으로``   ``최종``   ``확정`](http://sports.news.naver.com/general/news/read.nhn?oid=076&aid=0002298226)
 4.  [`KT``   ``위즈,``   ``초대``   ``감독에``   ``조범현…3년``   ``간``   ``15억`](http://www.seoulfn.com/news/articleView.html?idxno=170464)`   ``-``   ``서울파이낸스`

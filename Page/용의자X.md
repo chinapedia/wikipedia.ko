@@ -17,7 +17,7 @@
   - [남문철](../Page/남문철.md "wikilink") - 과장 역
   - [박형수](../Page/박형수_\(배우\).md "wikilink") - 수사팀 1 역
   - [남연우](../Page/남연우.md "wikilink") - 수사팀 2 역
-  - [최영우](https://ko.wikipedia.org/wiki/최영우 "wikilink") - 감식반원 1 역
+  - [최영우](../Page/최영우.md "wikilink") - 감식반원 1 역
   - [이황의](../Page/이황의.md "wikilink") - 노숙자 1 역
   - [김주령](../Page/김주령.md "wikilink") - 마담 역
   - [김가은](../Page/김가은_\(1989년_5월\).md "wikilink") - 석고 반 반장 역

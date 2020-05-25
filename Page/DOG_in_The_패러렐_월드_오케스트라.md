@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [DOG in The 패러렐 월드 오케스트라](https://ko.wikipedia.org/wiki/DOG_in_The_패러렐_월드_오케스트라).
 
 
-**DOG in The 패러렐 월드 오케스트라**()는 2009년 1월 1일에 결성된 일본의 [비주얼계](../Page/비주얼계.md "wikilink") 락 밴드 이다.
+**DOG in The 패러렐 월드 오케스트라**()는 2009년 1월 1일에 결성된 일본의 [비주얼계](../Page/비주얼계.md "wikilink") 락 밴드이다.
 
 ## 개요
 
@@ -33,7 +33,7 @@
   - **미즈키**(ミズキ) - 세컨 기타
       - 1월 12일생, 혈액형 O형, 좋아하는 개의 종류는 미니[:닥스훈트](https://ko.wikipedia.org/wiki/:닥스훈트 "wikilink").
       - 기타가 서툴다고 한다.
-      - 왼손잡이 이다.
+      - 왼손잡이이다.
       - 배구부 출신이다.
       - 신장 184cm의 장신이며, 밴드 구성원 중에 최연소이다.
 

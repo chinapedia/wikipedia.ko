@@ -21,7 +21,7 @@
 
 </small>
 
-<references/>
+<references />
 
 ## 외부 링크
 

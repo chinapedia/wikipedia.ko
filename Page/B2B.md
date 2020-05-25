@@ -18,7 +18,7 @@
   - Prashant Kasera J. (2006): 'World of B2B' '1st Edition, India.
   - Dr. Temporal, P. (2005): B2B Branding–A Guide to Successful Business-to-Business Brands, International Enterprise Singapore
 
-## 함께보기
+## 같이 보기
 
   - [C2C](https://ko.wikipedia.org/wiki/C2C_\(전자_상거래\) "wikilink")
   - [전자 상거래](../Page/전자_상거래.md "wikilink")

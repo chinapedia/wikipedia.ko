@@ -247,7 +247,7 @@
   - **[뉴멕시코](https://ko.wikipedia.org/wiki/뉴멕시코 "wikilink")**
       - [앨버커키](../Page/앨버커키.md "wikilink") – [앨버커키 인터내셔널 썬포트](https://ko.wikipedia.org/wiki/앨버커키_인터내셔널_썬포트 "wikilink")
   - **[뉴욕](../Page/뉴욕.md "wikilink")**
-      - [올버니](https://ko.wikipedia.org/wiki/올버니 "wikilink") – [올버니 국제공항](https://ko.wikipedia.org/wiki/올버니_국제공항 "wikilink")
+      - [올버니](https://ko.wikipedia.org/wiki/올버니 "wikilink") – [올버니 국제공항](../Page/올버니_국제공항.md "wikilink")
       - [버팔로](https://ko.wikipedia.org/wiki/버팔로 "wikilink") – [버팔로 나이라가라 국제공항](https://ko.wikipedia.org/wiki/버팔로_나이라가라_국제공항 "wikilink")
       - [뉴욕](../Page/뉴욕.md "wikilink")
           - [존 F. 케네디 국제공항](https://ko.wikipedia.org/wiki/존_F._케네디_국제공항 "wikilink")

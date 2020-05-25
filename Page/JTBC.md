@@ -11,11 +11,11 @@
 
 ### 설립 초기
 
-1980년 말 [신군부](https://ko.wikipedia.org/wiki/신군부 "wikilink")의 [언론 통폐합 정책으로](https://ko.wikipedia.org/wiki/1980년_언론_통폐합 "wikilink") 당시 중앙일보와 같은 [삼성](https://ko.wikipedia.org/wiki/삼성 "wikilink")의 계열사였던 [동양방송](../Page/동양방송.md "wikilink")(TBC)이 폐국되어 자산 일체가 [KBS](https://ko.wikipedia.org/wiki/KBS "wikilink")에 몰수당한 이후, 중앙일보는 자회사인 [중앙방송을](https://ko.wikipedia.org/wiki/중앙방송_\(대한민국_민영방송사\) "wikilink") 통해 유료 방송 [QTV](../Page/QTV_\(텔레비전_채널\).md "wikilink")(현 [JTBC2](https://ko.wikipedia.org/wiki/JTBC2 "wikilink")), J골프(현 [JTBC 골프](https://ko.wikipedia.org/wiki/JTBC_골프 "wikilink")) 등을 운영하였고, 지면을 통해 TBC에 대한 기획 기사를 수차례 게재하였다.
+1980년 말 [신군부](https://ko.wikipedia.org/wiki/신군부 "wikilink")의 [언론 통폐합 정책으로](https://ko.wikipedia.org/wiki/1980년_언론_통폐합 "wikilink") 당시 중앙일보와 같은 [삼성](https://ko.wikipedia.org/wiki/삼성 "wikilink")의 계열사였던 [동양방송](../Page/동양방송.md "wikilink")(TBC)이 폐국되어 자산 일체가 [KBS](https://ko.wikipedia.org/wiki/KBS "wikilink")에 몰수당한 이후, 중앙일보는 자회사인 [중앙방송을](https://ko.wikipedia.org/wiki/중앙방송_\(대한민국_민영방송사\) "wikilink") 통해 유료 방송 [QTV](../Page/QTV_\(텔레비전_채널\).md "wikilink")(현 [JTBC2](../Page/JTBC2.md "wikilink")), J골프(현 [JTBC GOLF](../Page/JTBC_GOLF.md "wikilink")) 등을 운영하였고, 지면을 통해 TBC에 대한 기획 기사를 수차례 게재하였다.
 
-2009년 7월 22일에 [여러 차례 논란](../Page/대한민국_미디어_관련법_개정_논란.md "wikilink") 끝에 종합편성채널에 법적 근거를 부여하는 방송법 개정안이 당시 여당인 한나라당의 단독 강행 처리로 국회를 통과했는데, 이는 야당과 시민사회단체로부터 "날치기"라고 비판 받고, 일사부재의의 원칙 위배 논란이 불거졌다. 이후 [2010년](../Page/2010년.md "wikilink") [11월 30일에](../Page/11월_30일.md "wikilink") 종합편성채널의 신청서 접수가 시작되었을 때, 중앙일보 측은 동양방송의 영문 약칭인 TBC라는 이름으로 신청을 시도하려 했으나, 해당 약칭을 1990년대부터 대구•경북 지역의 [SBS](https://ko.wikipedia.org/wiki/서울방송 "wikilink") 계열 지역민영방송사인 대구방송(Taegu Broadcasting Corporation, 현 [주식회사 티비씨](https://ko.wikipedia.org/wiki/대구방송 "wikilink"))이 선점하여 jTBC(소문자 j)라는 이름으로 신청서를 제출하였다. 이후 중앙그룹 측은 J를 뺀 TBC 상표를 사용하고자 해당 상표를 보유한 대구방송과 여러번 접촉했으나, 결국 대구방송 측의 거절로 실패했다.\[2\]
+2009년 7월 22일에 [여러 차례 논란](../Page/대한민국_미디어_관련법_개정_논란.md "wikilink") 끝에 종합편성채널에 법적 근거를 부여하는 방송법 개정안이 당시 여당인 한나라당의 단독 강행 처리로 국회를 통과했는데, 이는 야당과 시민사회단체로부터 "날치기"라고 비판 받고, 일사부재의의 원칙 위배 논란이 불거졌다. 이후 [2010년](../Page/2010년.md "wikilink") [11월 30일에](../Page/11월_30일.md "wikilink") 종합편성채널의 신청서 접수가 시작되었을 때, 중앙일보 측은 동양방송의 영문 약칭인 TBC라는 이름으로 신청을 시도하려 했으나, 해당 약칭을 1990년대부터 대구•경북 지역의 [SBS](../Page/SBS_\(대한민국의_방송사\).md "wikilink") 계열 지역민영방송사인 대구방송(Taegu Broadcasting Corporation, 현 [TBC](../Page/TBC_\(대한민국의_방송사\).md "wikilink"))이 선점하여 jTBC(소문자 j)라는 이름으로 신청서를 제출하였다. 이후 중앙그룹 측은 J를 뺀 TBC 상표를 사용하고자 해당 상표를 보유한 대구방송과 여러번 접촉했으나, 결국 TBC 측의 거절로 실패\[2\]했다.
 
-2010년 12월 31일에 종합편성 방송채널사업자로 선정된 이후, 2011년 3월 21일에 법인이 설립되어 같은 해 개국을 앞두고 라틴 문자 표기를 고쳐 JTBC(대문자 J)로 12월 1일에 개국하였다. 중앙일보는 여러 통로를 통해 JTBC가 동양방송의 후신임을 주장하고 있으며, JTBC는 개국 당일에 동양방송에 대한 다큐멘터리를 방송하는 등 이를 강조하는 모습을 보였다.
+2010년 12월 31일에 종합편성 방송채널사업자로 선정된 이후, 2011년 3월 21일에 법인이 설립되어 같은 해 개국을 앞두고 라틴 문자 표기를 고쳐 JTBC(대문자 J)로 12월 1일에 개국하였다. [중앙일보](../Page/중앙일보.md "wikilink")는 여러 통로를 통해 JTBC가 [동양방송](../Page/동양방송.md "wikilink")의 후신임을 주장하고 있으며, 개국 당일에 동양방송에 대한 다큐멘터리를 방송하는 등 이를 강조하는 모습을 보였다.
 
 ### 호평과 막대한 투자
 
@@ -29,9 +29,8 @@
 
 ## 특징
 
-  - 방송 여는 시작에 제공자막 표시는 [광고](https://ko.wikipedia.org/wiki/광고 "wikilink")주만 나열하는 것이다. ([2014년](../Page/2014년.md "wikilink")까지 제공자막 표시하지 않는다.)
-  - 화면 상단 왼쪽에 드라마는 **본**라고, 교양 · 예능프로그램은 **본방송**이라고 표시한다.\[12\]
-  - 보도 · 시사 · 토론 · 실황중계 프로그램은 화면 오른쪽 상단의 JTBC **LIVE**는 표시된다. (인터넷 다시보기의 LIVE 표시가 나오지 않음)
+  - 본방송인 경우 화면 상단 왼쪽에 드라마는 **본**으로, 교양 · 예능프로그램은 **본방송**으로 표시한다.\[12\]
+  - 보도 · 시사 · 토론 · 실황중계 프로그램은 화면 오른쪽 상단의 **LIVE**는 표시된다. (인터넷 다시보기의 LIVE 표시가 나오지 않음)
 
 ## 마케팅
 
@@ -75,7 +74,7 @@
 ## 같이 보기
 
   - [중앙그룹](../Page/중앙그룹.md "wikilink")
-      - [JTBC2](https://ko.wikipedia.org/wiki/JTBC2 "wikilink")
+      - [JTBC2](../Page/JTBC2.md "wikilink")
       - [JTBC 골프&스포츠](../Page/JTBC_골프&스포츠.md "wikilink")
       - [JTBC4](https://ko.wikipedia.org/wiki/JTBC4 "wikilink")
       - [JTBC Zee TV](https://ko.wikipedia.org/wiki/JTBC_Zee_TV "wikilink")

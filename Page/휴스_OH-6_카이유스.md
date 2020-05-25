@@ -114,7 +114,7 @@ OH-6 카이유스를 운용한 국가, 운용 국가는 다음과 같다.
   - 로켓: 14 70밀리미터 [히드라 70](https://ko.wikipedia.org/wiki/히드라_70 "wikilink") 로켓
   - 기타: 2대의 40 mm [척탄통](https://ko.wikipedia.org/wiki/척탄통 "wikilink")
 
-## 함께 보기
+## 같이 보기
 
   - 관련 기종
 

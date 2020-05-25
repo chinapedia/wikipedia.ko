@@ -34,6 +34,7 @@
   - [우주인 타로](https://ko.wikipedia.org/wiki/우주인_타로 "wikilink") ed - 타로송
   - [건담 빌드 파이터즈](../Page/건담_빌드_파이터즈.md "wikilink") op - 1/2(이분의일)
   - [요괴워치](../Page/요괴워치.md "wikilink") op - 게라게라포의 노래 성우 [이용신](../Page/이용신.md "wikilink") 과 함께 부름
+  - [신비아파트](../Page/신비아파트.md "wikilink") op - higher
 
 ### 애니메이션 삽입곡
 

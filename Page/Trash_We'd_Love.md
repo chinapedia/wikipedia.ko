@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Trash We\'d Love](https://ko.wikipedia.org/wiki/Trash_We\'d_Love).
 
 
-『**Trash We'd Love**』(트래쉬 위드 러브)는 [2009년](../Page/2009년.md "wikilink") [5월 27일에](../Page/5월_27일.md "wikilink") 발매된 [더 하이에이터스의](https://ko.wikipedia.org/wiki/더_하이에이터스 "wikilink") 1번째 [오리지널 앨범이다](https://ko.wikipedia.org/wiki/스튜디오_음반 "wikilink"). 일본 내 시디번호는 FLCF-4281 이며, 2010년 7월 1일 라이센스 음반으로 한국에 발매되었다.
+『**Trash We'd Love**』(트래쉬 위드 러브)는 [2009년](../Page/2009년.md "wikilink") [5월 27일에](../Page/5월_27일.md "wikilink") 발매된 [더 하이에이터스의](https://ko.wikipedia.org/wiki/더_하이에이터스 "wikilink") 1번째 [오리지널 앨범이다](https://ko.wikipedia.org/wiki/스튜디오_음반 "wikilink"). 일본 내 시디번호는 FLCF-4281이며, 2010년 7월 1일 라이센스 음반으로 한국에 발매되었다.
 
 ## 개요
 

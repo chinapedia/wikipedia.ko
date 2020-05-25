@@ -72,7 +72,7 @@
 </tr>
 <tr class="odd">
 <td><p>2002</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/어댑테이션" title="wikilink">어댑테이션</a><br />
+<td><p><a href="../Page/어댑테이션.md" title="wikilink">어댑테이션</a><br />
 <em>Adaptation</em></p></td>
 <td></td>
 <td></td>

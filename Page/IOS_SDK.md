@@ -182,7 +182,7 @@ iOS SDK는 출시 이후로 계속, 애플과의 개발자 협약(Developer Agre
 <tr class="even">
 <td><p>2011년 10월 12일</p></td>
 <td><p>5.0</p></td>
-<td><p>대한민국 시간으로 13일 새벽 2시에 출시되었다. 업데이트를 하기 위해선 iTunes 10.5가 필요하다. 지원되는 기종은 iPod Touch 3 / 4세대, iPhone 3GS / 4 / 4S , iPad 1 / 2세대 이다.</p></td>
+<td><p>대한민국 시간으로 13일 새벽 2시에 출시되었다. 업데이트를 하기 위해선 iTunes 10.5가 필요하다. 지원되는 기종은 iPod Touch 3 / 4세대, iPhone 3GS / 4 / 4S , iPad 1 / 2세대이다.</p></td>
 </tr>
 <tr class="odd">
 <td><p>2011년 11월 29일</p></td>

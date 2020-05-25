@@ -53,6 +53,6 @@ BBC 라디오 1과 BBC 라디오 1xtra에서 방송되는 하위 프로그램이
 
   - [공식 페이스북](https://www.facebook.com/bbcradio1)
 
-  - [공식 트위터](https://mobile.twitter.com/BBCR1)
+  - [공식 트위터](https://web.archive.org/web/20130829114425/https://mobile.twitter.com/BBCR1)
 
 [분류:1967년 설립](https://ko.wikipedia.org/wiki/분류:1967년_설립 "wikilink") [분류:BBC 라디오](https://ko.wikipedia.org/wiki/분류:BBC_라디오 "wikilink") [분류:FM 라디오 방송](https://ko.wikipedia.org/wiki/분류:FM_라디오_방송 "wikilink") [분류:1967년 설립된 라디오 방송국](https://ko.wikipedia.org/wiki/분류:1967년_설립된_라디오_방송국 "wikilink")
