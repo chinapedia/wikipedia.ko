@@ -11,7 +11,7 @@
 
 주로 [대중음악](../Page/대중음악.md "wikilink")을 방송한다. [사랑하기 좋은 날 이금희입니다](../Page/사랑하기_좋은_날_이금희입니다.md "wikilink") 처럼 일부 옛날 가요 및 팝송을 방송하는 경우도 있다.
 
-현존하는 대표적인 장수 프로그램으로는 [상쾌한 아침](../Page/상쾌한_아침.md "wikilink"), [굿모닝 팝스](../Page/굿모닝_팝스.md "wikilink"), [FM대행진](../Page/FM대행진.md "wikilink"), [음악앨범](../Page/음악앨범_\(라디오_프로그램\).md "wikilink"), [박명수의 라디오쇼](../Page/박명수의_라디오쇼.md "wikilink"), [가요광장](../Page/가요광장.md "wikilink"), [뮤직쇼](../Page/뮤직쇼.md "wikilink"), [미스터 라디오](../Page/미스터_라디오.md "wikilink"), [사랑하기 좋은 날 이금희입니다](../Page/사랑하기_좋은_날_이금희입니다.md "wikilink"), [볼륨을 높여요](../Page/볼륨을_높여요.md "wikilink"), [키스 더 라디오](../Page/키스_더_라디오.md "wikilink"), [설레는 밤](../Page/설레는_밤.md "wikilink"), [심야식당](../Page/심야식당_\(라디오_프로그램\).md "wikilink") 등이 있다. 그 중 [FM대행진](../Page/FM대행진.md "wikilink")은 동양방송(이하 TBC FM)에서 방송된 프로그램 중 현재까지 이어져 내려온 프로그램이다.
+현존하는 대표적인 장수 프로그램으로는 [상쾌한 아침](../Page/상쾌한_아침.md "wikilink"), [굿모닝 팝스](../Page/굿모닝_팝스.md "wikilink"), **[FM대행진](../Page/FM대행진.md "wikilink")**, [음악앨범](../Page/음악앨범_\(라디오_프로그램\).md "wikilink"), [박명수의 라디오쇼](../Page/박명수의_라디오쇼.md "wikilink"), [가요광장](../Page/가요광장.md "wikilink"), [뮤직쇼](../Page/뮤직쇼.md "wikilink"), [미스터 라디오](../Page/미스터_라디오.md "wikilink"), [사랑하기 좋은 날 이금희입니다](../Page/사랑하기_좋은_날_이금희입니다.md "wikilink"), [볼륨을 높여요](../Page/볼륨을_높여요.md "wikilink"), [키스 더 라디오](../Page/키스_더_라디오.md "wikilink"), [설레는 밤](../Page/설레는_밤.md "wikilink"), [심야식당](../Page/심야식당_\(라디오_프로그램\).md "wikilink") 등이 있다. 그 중 **[FM대행진](../Page/FM대행진.md "wikilink")**은 동양방송(이하 TBC FM)에서 방송된 프로그램 중 현재까지 이어져 내려온 프로그램이다.
 
 ## 방송 시보 멘트
 
@@ -48,7 +48,7 @@
   - [2015년](../Page/2015년.md "wikilink") [8월 3일](../Page/8월_3일.md "wikilink") : 오전 11시 \~ 낮 12시대([라디오쇼](../Page/박명수의_라디오쇼.md "wikilink") 방송 시간대) 1시간 체제에서 2부(30분) 체제로 전환.
   - [2017년](../Page/2017년.md "wikilink") [2월 6일](../Page/2월_6일.md "wikilink") : [굿모닝 팝스](../Page/굿모닝_팝스.md "wikilink"), 진행자 교체(이근철·존 발렌타인→레이나)와 동시에 [해피FM(2라디오)을](https://ko.wikipedia.org/wiki/KBS_해피FM "wikilink") 통해 동시방송 실시
   - [2018년](../Page/2018년.md "wikilink") [5월 14일](../Page/5월_14일.md "wikilink") : [더 가까이](../Page/더_가까이.md "wikilink")(DMB 프로그램) 폐지로 인하여 새벽 3시 \~ 5시대 광고방송 재개(현, [미스터 라디오](../Page/미스터_라디오.md "wikilink") 재방송)로 쿨FM 광고 재개 16년 만에 전 시간대 광고방송 실시
-  - [2020년](../Page/2020년.md "wikilink") 6월 : 전국의 LG 헬로 비전 오디오 방송에 삽입 예정 이다.
+  - [2020년](../Page/2020년.md "wikilink") 6월 : 전국의 LG 헬로 비전 오디오 방송에 삽입 예정이다.
 
 ## 특이 사항
 
@@ -105,43 +105,43 @@
 <td><p><a href="../Page/음악앨범_(라디오_프로그램).md" title="wikilink">이현우의 음악앨범</a></p></td>
 <td><p>o</p></td>
 <td><p>o</p></td>
-<td><p>월~일 : 생방송</p></td>
+<td><p>월~금 : 생방송 / 토,일 : 녹음방송</p></td>
 </tr>
 <tr class="odd">
 <td><p>11:00</p></td>
 <td><p><a href="../Page/박명수의_라디오쇼.md" title="wikilink">박명수의 라디오쇼</a></p></td>
 <td><p>o</p></td>
 <td><p>x</p></td>
-<td><p>각 지역총국 <a href="https://ko.wikipedia.org/wiki/해피FM" title="wikilink">해피FM</a>을 통해 송출 (일부지역 자체방송) 월~금 : 생방송 / ,토,일 : 녹음방송<br />
-DMB에서는 <a href="https://ko.wikipedia.org/wiki/누군가_어딘가에" title="wikilink">누군가 어딘가에가</a> 방송</p></td>
+<td><p>각 지역총국 <a href="https://ko.wikipedia.org/wiki/해피FM" title="wikilink">해피FM</a>을 통해 송출 (일부지역 자체방송) 월~금 : 생방송 / 토,일 : 녹음방송<br />
+DMB에서는 <a href="../Page/누군가_어딘가에.md" title="wikilink">누군가 어딘가에가</a> 방송</p></td>
 </tr>
 <tr class="even">
 <td><p>12:00</p></td>
 <td><p><a href="../Page/가요광장.md" title="wikilink">정은지의 가요광장</a></p></td>
 <td><p>o</p></td>
 <td><p>o</p></td>
-<td><p>각 지역총국 <a href="https://ko.wikipedia.org/wiki/해피FM" title="wikilink">해피FM</a>을 통해 송출</p></td>
+<td><p>각 지역총국 <a href="https://ko.wikipedia.org/wiki/해피FM" title="wikilink">해피FM</a>을 통해 송출 월~금 : 생방송 / 토,일 : 녹음방송</p></td>
 </tr>
 <tr class="odd">
 <td><p>14:00</p></td>
 <td><p><a href="../Page/뮤직쇼.md" title="wikilink">황정민의 뮤직쇼</a></p></td>
 <td><p>o</p></td>
 <td><p>o</p></td>
-<td><p>월~금: 생방송 / 토,일 : 녹음방송</p></td>
+<td><p>월~금 : 생방송 / 토,일 : 녹음방송</p></td>
 </tr>
 <tr class="even">
 <td><p>16:00 03:00(재)</p></td>
 <td><p><a href="../Page/미스터_라디오.md" title="wikilink">윤정수, 남창희의 미스터 라디오</a></p></td>
 <td><p>o</p></td>
 <td><p>o</p></td>
-<td><p>월~금 생방송/ 주말: 녹음방송</p></td>
+<td><p>평일 : 생방송/ 주말 : 녹음방송</p></td>
 </tr>
 <tr class="odd">
 <td><p>18:00</p></td>
 <td><p><a href="../Page/사랑하기_좋은_날_이금희입니다.md" title="wikilink">사랑하기 좋은 날 이금희입니다</a></p></td>
 <td><p>o</p></td>
 <td><p>o</p></td>
-<td><p>월~일 생방송</p></td>
+<td><p>매일(월~일) 생방송</p></td>
 </tr>
 <tr class="even">
 <td><p>20:00</p></td>
@@ -155,21 +155,21 @@ DMB에서는 <a href="https://ko.wikipedia.org/wiki/누군가_어딘가에" titl
 <td><p><a href="../Page/키스_더_라디오.md" title="wikilink">박원의 키스 더 라디오</a></p></td>
 <td><p>o</p></td>
 <td><p>o</p></td>
-<td><p>월~금 생방송</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>00:00</p></td>
 <td><p><a href="../Page/설레는_밤.md" title="wikilink">설레는 밤, 이혜성입니다</a></p></td>
 <td><p>o</p></td>
 <td><p>o</p></td>
-<td><p>월~금 생방송</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>02:00</p></td>
 <td><p><a href="../Page/심야식당_(라디오_프로그램).md" title="wikilink">심야식당 시즌3</a></p></td>
 <td><p>o</p></td>
 <td><p>x</p></td>
-<td><p>녹음방송 DMB에서는 <a href="https://ko.wikipedia.org/wiki/누군가_어딘가에" title="wikilink">누군가 어딘가에가</a> 재방송</p></td>
+<td><p>녹음방송 DMB에서는 <a href="../Page/누군가_어딘가에.md" title="wikilink">누군가 어딘가에가</a> 재방송</p></td>
 </tr>
 <tr class="even">
 <td></td>

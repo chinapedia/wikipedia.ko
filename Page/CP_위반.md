@@ -25,7 +25,7 @@
 
 현재 가장 유력한 해법은 [페체이 퀸 이론이다](https://ko.wikipedia.org/wiki/페체이_퀸_이론 "wikilink"). 페체이 퀸 이론에서는 또다른 대칭 U(1)을 도입하고, \(\theta\)를 동적 장으로 격상한다. 이 장에 해당하는 입자는 [액시온](../Page/액시온.md "wikilink")이다. 이에 따라 액시온 장이 진공 예상값을 얻으면서 \(\langle\theta\rangle\)는 자연스럽게 작아진다. 그러나 이는 실험적으로 검증되지 않았으며, 액시온은 아직 발견되지 않았다.
 
-## 함께 보기
+## 같이 보기
 
   - [패리티 위반](https://ko.wikipedia.org/wiki/패리티_위반 "wikilink")
   - [CPT 정리](../Page/CPT_정리.md "wikilink")

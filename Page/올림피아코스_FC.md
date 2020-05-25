@@ -675,8 +675,6 @@ Olympiakára mou.
 
 ## 각주
 
-<references />
-
 ## 외부 링크
 
   -  [공식 웹사이트](http://www.olympiacos.org/ko)

@@ -293,7 +293,7 @@ AEK의 훈련 시설은 [스파타에](https://ko.wikipedia.org/wiki/스파타_\
 
 ## 서포터
 
-[AEK는](https://ko.wikipedia.org/wiki/AEK_아테네_\(스포츠_클럽\) "wikilink") 대규모 팬층을 지니고 있으며, 다수의 AEK 팬들은 [콘스탄티노폴리스](../Page/콘스탄티노폴리스.md "wikilink")의 피난민이거나 그들의 후손이며, [1923년 소아시아 사태](../Page/그리스-터키_인구_교환.md "wikilink") 당시 강제된 인구 교환으로 아테네에 정착했다. [AEK의](https://ko.wikipedia.org/wiki/AEK_아테네_\(스포츠_클럽\) "wikilink") 최대 서포터 단체는 오리지날 21이다. 처음으로 생긴 AEK 서포터 단체는 **21번 출입구**(Θυρα 21, 1975년 창설) 이며, [네아 필레델페이아의](https://ko.wikipedia.org/wiki/네아_필레델페이아 "wikilink") [니코스 구마스 경기장에서](../Page/니코스_구마스_경기장.md "wikilink") 가장 열성적인 팬들이 집결하는 출입구 번호에서 땄다. [AEK는](https://ko.wikipedia.org/wiki/AEK_아테네_\(스포츠_클럽\) "wikilink") 전 세계에 다수의 팬들을 지니고 있는데, 이들 대부분이 북아메리카, 잉글랜드, 오스트레일리아, 그리고 [키프로스](../Page/키프로스.md "wikilink")의 그리스계 이민자들을 기반으로 한다.
+[AEK는](https://ko.wikipedia.org/wiki/AEK_아테네_\(스포츠_클럽\) "wikilink") 대규모 팬층을 지니고 있으며, 다수의 AEK 팬들은 [콘스탄티노폴리스](../Page/콘스탄티노폴리스.md "wikilink")의 피난민이거나 그들의 후손이며, [1923년 소아시아 사태](../Page/그리스-터키_인구_교환.md "wikilink") 당시 강제된 인구 교환으로 아테네에 정착했다. [AEK의](https://ko.wikipedia.org/wiki/AEK_아테네_\(스포츠_클럽\) "wikilink") 최대 서포터 단체는 오리지날 21이다. 처음으로 생긴 AEK 서포터 단체는 **21번 출입구**(Θυρα 21, 1975년 창설)이며, [네아 필레델페이아의](https://ko.wikipedia.org/wiki/네아_필레델페이아 "wikilink") [니코스 구마스 경기장에서](../Page/니코스_구마스_경기장.md "wikilink") 가장 열성적인 팬들이 집결하는 출입구 번호에서 땄다. [AEK는](https://ko.wikipedia.org/wiki/AEK_아테네_\(스포츠_클럽\) "wikilink") 전 세계에 다수의 팬들을 지니고 있는데, 이들 대부분이 북아메리카, 잉글랜드, 오스트레일리아, 그리고 [키프로스](../Page/키프로스.md "wikilink")의 그리스계 이민자들을 기반으로 한다.
 
 ### 동맹 서포터 단체
 

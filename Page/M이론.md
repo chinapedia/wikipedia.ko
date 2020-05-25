@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [M이론](https://ko.wikipedia.org/wiki/M이론).
 
 
-[이론물리학](https://ko.wikipedia.org/wiki/이론물리학 "wikilink")에서, **M이론**(-理論, )은 11차원의 [시공간](https://ko.wikipedia.org/wiki/시공간 "wikilink")에서 존재하는 물리 이론이다.\[1\]\[2\]\[3\]\[4\]\[5\]\[6\]\[7\]\[8\]\[9\] [끈 이론과](../Page/끈_이론.md "wikilink") 달리, M이론은 기본적인 1차원 막을 포함하지 않으며, 대신 2차원 또는 5차원 막을 포함한다. [초끈 이론은](../Page/초끈_이론.md "wikilink") M이론의 축소화로 얻어질 수 있다.
+[이론물리학](https://ko.wikipedia.org/wiki/이론물리학 "wikilink")에서, **M이론**(-理論, )은 11차원의 [시공간](../Page/시공간.md "wikilink")에서 존재하는 물리 이론이다.\[1\]\[2\]\[3\]\[4\]\[5\]\[6\]\[7\]\[8\]\[9\] [끈 이론과](../Page/끈_이론.md "wikilink") 달리, M이론은 기본적인 1차원 막을 포함하지 않으며, 대신 2차원 또는 5차원 막을 포함한다. [초끈 이론은](../Page/초끈_이론.md "wikilink") M이론의 축소화로 얻어질 수 있다.
 
 ## 정의
 
 아직 M이론을 일반적으로 어떻게 비섭동적으로 정의할 수 있는지는 알려져 있지 않지만, 다양한 극한을 취하면 이미 알려져 있는 이론들과 다음과 같이 연관돼 있다.
 
-  - M이론의 낮은 에너지 눈금의 고전적 이론은 [11차원 초중력](../Page/11차원_초중력.md "wikilink") 이다.
+  - M이론의 낮은 에너지 눈금의 고전적 이론은 [11차원 초중력이다](../Page/11차원_초중력.md "wikilink").
   - M이론을 [축소화](../Page/축소화.md "wikilink")하면 여러 [끈 이론을](../Page/끈_이론.md "wikilink") 얻을 수 있다.
   - 11차원 [민코프스키 공간에서의](../Page/민코프스키_공간.md "wikilink") M이론은 **[행렬 이론](../Page/행렬_이론.md "wikilink")**으로 비섭동적으로 정의할 수 있다.
   - \(AdS_3\times S^7\) 또는 \(AdS_7\times S^3\)에서의 M이론은 **[AdS/CFT 대응성](https://ko.wikipedia.org/wiki/AdS/CFT_대응성 "wikilink")**을 통해 비섭동적으로 정의할 수 있다.
@@ -16,7 +16,7 @@
 
 ## 성질
 
-M이론은 로런츠 [계량 부호수를](https://ko.wikipedia.org/wiki/계량_부호수 "wikilink") 가진 (10,1)차원 [시공간](https://ko.wikipedia.org/wiki/시공간 "wikilink")에 존재하며, \(\mathcal N=1\) 초대칭(32개의 초전하)을 갖는다. 축소화하지 않은 M이론의 낮은 에너지 [유효 작용은](../Page/유효_작용.md "wikilink") 11차원 [초중력](../Page/초중력.md "wikilink")이다.
+M이론은 로런츠 [계량 부호수를](https://ko.wikipedia.org/wiki/계량_부호수 "wikilink") 가진 (10,1)차원 [시공간](../Page/시공간.md "wikilink")에 존재하며, \(\mathcal N=1\) 초대칭(32개의 초전하)을 갖는다. 축소화하지 않은 M이론의 낮은 에너지 [유효 작용은](../Page/유효_작용.md "wikilink") 11차원 [초중력](../Page/초중력.md "wikilink")이다.
 
 M이론에서 다루는 대상은 2차원의 막인 **M2-막**()과 5차원의 막인 **M5-막**()이다. M이론은 [끈](../Page/끈_\(물리학\).md "wikilink")(1차원 막)을 포함하지 않으므로, 엄밀히 말해서 끈 이론이 아니다. (다만, M이론을 [축소화](../Page/축소화.md "wikilink")하여 다양한 끈 이론을 얻을 수 있다.) 축소화하지 않은 M이론은 아무런 [스칼라장](https://ko.wikipedia.org/wiki/스칼라장 "wikilink")을 포함하지 않으므로, [끈 이론과](../Page/끈_이론.md "wikilink") 달리 모듈라이를 갖지 않는다. 즉, 축소화하지 않고서는 어떤 [결합 상수를](../Page/결합_상수.md "wikilink") 작게 만들어 [섭동 이론을](../Page/섭동_이론.md "wikilink") 전개할 수 없다. (물론, 축소화를 하면 축소화 공간의 모양에 따라서 모듈라이가 존재한다.)
 

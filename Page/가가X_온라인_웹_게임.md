@@ -33,8 +33,6 @@
 
 ## 참고 자료
 
-<references />
-
 ## 같이 읽기
 
   - [온라인 게임 목록](https://ko.wikipedia.org/wiki/온라인_게임_목록 "wikilink")
@@ -43,7 +41,7 @@
 
 ## 외부 링크
 
-  - [가가라이브 랜덤채팅](http://gagalive.com)
+  - [가가라이브 랜덤채팅](https://web.archive.org/web/20130801204923/http://www.gagalive.com/)
 
 [분류:브라우저 게임](https://ko.wikipedia.org/wiki/분류:브라우저_게임 "wikilink")
 

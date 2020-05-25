@@ -398,7 +398,7 @@ MBC충북 청주방송국의 보도 프로그램은 아래와 같다.
 
 ## 외부 링크
 
-  - [MBC충북 청주방송국 공식 홈페이지](http://www.mbccb.co.kr)
+  - [MBC충북 청주방송국 공식 홈페이지](http://www.mbccb.co.kr/rb)
   - [MBC충북 청주방송국 모바일 공식 홈페이지](http://m.mbccb.co.kr/)
 
 [분류:흥덕구](https://ko.wikipedia.org/wiki/분류:흥덕구 "wikilink") [분류:청주시](https://ko.wikipedia.org/wiki/분류:청주시 "wikilink") [분류:문화방송계열 방송국](https://ko.wikipedia.org/wiki/분류:문화방송계열_방송국 "wikilink") [분류:대한민국의 충청북도 지상파 방송국](https://ko.wikipedia.org/wiki/분류:대한민국의_충청북도_지상파_방송국 "wikilink") [분류:1970년 설립](https://ko.wikipedia.org/wiki/분류:1970년_설립 "wikilink")

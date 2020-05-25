@@ -278,7 +278,7 @@
 </tr>
 <tr class="odd">
 <td><p>2009년<br />
-<em><a href="https://ko.wikipedia.org/wiki/2009년_FIFA_U-17_월드컵" title="wikilink">상세정보</a></em></p></td>
+<em><a href="../Page/2009년_FIFA_U-17_월드컵.md" title="wikilink">상세정보</a></em></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Flag_of_Nigeria.svg" title="wikilink">100x20px</a><br />
 <a href="../Page/나이지리아.md" title="wikilink">나이지리아</a></p></td>
 <td><p><strong><a href="https://ko.wikipedia.org/wiki/파일:Flag_of_Switzerland.svg" title="wikilink">100x20px</a><br />
@@ -429,7 +429,7 @@
 <td></td>
 <td><p>1 (2001)</p></td>
 <td></td>
-<td></td>
+<td><p>1 (2019)</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -507,7 +507,7 @@
 <td></td>
 <td></td>
 <td><p>1 (2005)</p></td>
-<td></td>
+<td><p>1 (2019)</p></td>
 </tr>
 <tr class="odd">
 <td></td>

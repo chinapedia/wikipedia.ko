@@ -55,7 +55,7 @@
       - 3번 위성이고,
       - 현재 자신의 위치에서 86도 (degree) elevation
       - 244도 (degree)의 Azimuth
-      - 신호대잡음비 (SNR)은 0 이다.
+      - 신호대잡음비 (SNR)은 0이다.
   - '77'은 Checksum이다.
 
 최대 4개의 위성이 하나의 Sentence에 들어갈 수 있다.

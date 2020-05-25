@@ -11,7 +11,7 @@ AE는 [분광형 O의 주계열성으로](https://ko.wikipedia.org/wiki/o형_주
 
 <references/>
 
-## 함께 보기
+## 같이 보기
 
   - 《STARS》[AE Aurigae](https://web.archive.org/web/20081204123838/http://www.astro.uiuc.edu/~kaler/sow//aeaur.html)
   - 《CDS》[V\* VizieR Detailed Page: AE Aur](http://webviz.u-strasbg.fr/viz-bin/VizieR-S?V*%20AE%20Aur)

@@ -81,7 +81,7 @@ BCR의 시초는 1991년까지 거슬러 올라간다. 당시 중학생이던 MC
 
 [분류:대한민국의 힙합 레이블](https://ko.wikipedia.org/wiki/분류:대한민국의_힙합_레이블 "wikilink")
 
-1.  [MChaNsAi\&BCRCREWFanClub "공지: ★★BCR크루의 궁금증 해소\!\!★★"](http://cafe.daum.net/hansai/SdO/397)
-2.  [MC Hansai 공식 다음 카페](http://cafe.daum.net/mchansai)
+1.
+2.
 3.  [Kray by BCR - 널 위해서라면 (I Can Do It Baby) (Feat. Like Skip) 소개 페이지](http://www.hiphopplaya.com/mp3/view.html?num=785&category=)
 4.  [BCR 미디어 앨범 페이지](http://music.cyworld.com/label/album.asp?tid=61338173)

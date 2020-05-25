@@ -35,7 +35,7 @@ MITS가 Pertec에 매각된 후, [마이크로소프트](../Page/마이크로소
 
 잠시 동안 [마이크로소프트](../Page/마이크로소프트.md "wikilink")와 Pertec 모두에게 저작권이 있는 채로 소프트웨어가 팔린 적이 있었다. 마이크로소프트는 소프트웨어 패키지에 대한 권리 주장을 위해 Pertec을 고소했다. 마이크로소프트는 이 [재판](../Page/재판.md "wikilink")에서 [승소](https://ko.wikipedia.org/wiki/승소 "wikilink")한다.
 
-## 함께 보기
+## 같이 보기
 
   - [가정용 컴퓨터](../Page/가정용_컴퓨터.md "wikilink")
 

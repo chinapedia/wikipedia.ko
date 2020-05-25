@@ -11,9 +11,9 @@
   - [고민 있어요 하나 아줌마](https://ko.wikipedia.org/wiki/고민_있어요_하나_아줌마 "wikilink") (EBS) - 베티
   - [곤](https://ko.wikipedia.org/wiki/곤_\(애니메이션\) "wikilink") (EBS) - 쿠마링
   - 극장판 [공룡메카드: 타이니소어의 섬](../Page/공룡메카드:_타이니소어의_섬.md "wikilink") - 장세모, 코리리
-  - [극장판 토마스와 친구들: 디젤 기관차들의 반란](https://ko.wikipedia.org/wiki/극장판_토마스와_친구들:_디젤_기관차들의_반란 "wikilink") - 에밀리
-  - [극장판 엉덩이 탐정: 화려한 사건 수첩](https://ko.wikipedia.org/wiki/극장판_엉덩이_탐정:_화려한_사건_수첩 "wikilink") - 엉덩이 탐정
-  - [극장판 샤이닝 스타: 새로운 루나퀸의 탄생\!](https://ko.wikipedia.org/wiki/극장판_샤이닝_스타:_새로운_루나퀸의_탄생! "wikilink") - 리리 / 베리 / 칼리오페 / 남자 아이
+  - [극장판 토마스와 친구들: 디젤 기관차들의 반란](../Page/극장판_토마스와_친구들:_디젤_기관차들의_반란.md "wikilink") - 에밀리
+  - [극장판 엉덩이 탐정: 화려한 사건 수첩](../Page/극장판_엉덩이_탐정:_화려한_사건_수첩.md "wikilink") - 엉덩이 탐정
+  - [극장판 샤이닝 스타: 새로운 루나퀸의 탄생\!](../Page/극장판_샤이닝_스타:_새로운_루나퀸의_탄생!.md "wikilink") - 리리 / 베리 / 칼리오페 / 남자 아이
   - [구두신고 꼬까꼬까](https://ko.wikipedia.org/wiki/구두신고_꼬까꼬까 "wikilink") (EBS)
   - [꼬마버스 타요](../Page/꼬마버스_타요.md "wikilink") (EBS) - 누리, 토니, 봉봉, 앨리스, 피넛, 노아, 어린 씨투
   - [꼬마숙녀 스트로베리](https://ko.wikipedia.org/wiki/꼬마숙녀_스트로베리 "wikilink") (EBS) - 애플
@@ -44,6 +44,7 @@
   - [스타 워즈: 클론 전쟁](https://ko.wikipedia.org/wiki/스타_워즈:_클론_전쟁_\(2008년_TV_시리즈\) "wikilink") (카툰네트워크)
   - [시계마을 티키톡](https://ko.wikipedia.org/wiki/시계마을_티키톡 "wikilink") (EBS) - 롤링스
   - [아라리쇼](https://ko.wikipedia.org/wiki/아라리쇼 "wikilink") (EBS)
+  - 아드레날린 브라더스 (카툰네트워크)
   - [아이들이 사는 성](https://ko.wikipedia.org/wiki/아이들이_사는_성 "wikilink") (EBS) - '나'편 아이1, 분홍정자, 소리2 / '네 잘못이 아니야'편 아이 3
   - [안젤리나 발레리나](https://ko.wikipedia.org/wiki/안젤리나_발레리나 "wikilink") (EBS) - 폴리
   - [야호 응가네](https://ko.wikipedia.org/wiki/야호_응가네 "wikilink") (EBS)

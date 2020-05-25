@@ -16,7 +16,7 @@
 
 ### 사양
 
-  - [중앙 처리 장치로](../Page/중앙_처리_장치.md "wikilink") [MOS 테크놀로지의](https://ko.wikipedia.org/wiki/MOS_테크놀로지 "wikilink") [6502](https://ko.wikipedia.org/wiki/6502 "wikilink") 8비트 CPU를 사용하였다. 주변장치로 [Z-80 CPU 카드](https://ko.wikipedia.org/wiki/Z-80_소프트카드 "wikilink")(CP/M 카드)를 추가하여 Z-80 프로세서용으로 작성된 운영체제와 프로그램을 사용할 수 있었다.
+  - [중앙 처리 장치로](../Page/중앙_처리_장치.md "wikilink") [MOS 테크놀로지의](https://ko.wikipedia.org/wiki/MOS_테크놀로지 "wikilink") [6502](https://ko.wikipedia.org/wiki/6502 "wikilink") 8비트 CPU를 사용하였다. 주변장치로 [Z-80 CPU 카드](../Page/Z-80_소프트카드.md "wikilink")(CP/M 카드)를 추가하여 Z-80 프로세서용으로 작성된 운영체제와 프로그램을 사용할 수 있었다.
   - 기본 [메모리](https://ko.wikipedia.org/wiki/메모리 "wikilink") RAM 48 킬로바이트 (이후 64 킬로바이트로 확장), 롬 12KB
   - [확장 슬롯](https://ko.wikipedia.org/wiki/확장_슬롯 "wikilink") 8개(0번에서 7번까지 이름이 붙어있다)
   - 40컬럼의 텍스트 모드, 저해상도(40x48) 그래픽 모드(16색), 고해상도(280X192) 그래픽 모드(8색)

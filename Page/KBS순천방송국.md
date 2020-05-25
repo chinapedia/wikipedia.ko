@@ -123,10 +123,7 @@
 
 ## 제작 프로그램
 
-| width="160px"" |뉴스프로그램명                          | width="40px"" |방송시간 | width="40px"" |편성시간 | width="50px"" |진행 |
-| ------------------------------------------------ | ------------------- | ------------------- | ----------------- |
-| [KBS 뉴스 9 전남 동부](../Page/KBS_뉴스_9.md "wikilink") | 월\~금 10분            | 21:35 \~ 21:50      | 김다은               |
-|                                                  |                     |                     |                   |
+### TV 프로그램(2020년 3월부터는 지역뉴스 프로그램은 광주로 이관되며 이후에는 FM라디오만 방송)
 
 ### 라디오 프로그램
 
@@ -187,7 +184,6 @@
 
 ## 아나운서
 
-  - [최명순](https://ko.wikipedia.org/wiki/최명순 "wikilink") : 2018.10(프리랜서)
   - [이주희](https://ko.wikipedia.org/wiki/이주희 "wikilink") : [2017년](../Page/2017년.md "wikilink")(프리랜서)입사
   - [채윤아](https://ko.wikipedia.org/wiki/채윤아 "wikilink") : [2018년](../Page/2018년.md "wikilink") 전 KBS광주방송총국 (34기)
   - [김다은](https://ko.wikipedia.org/wiki/김다은 "wikilink") : [2019년](../Page/2019년.md "wikilink")(프리랜서)입사
@@ -210,6 +206,7 @@
   - [변정연](https://ko.wikipedia.org/wiki/변정연_\(아나운서\) "wikilink") : (2016\~2017), 현 [원주MBC](https://ko.wikipedia.org/wiki/원주MBC "wikilink") 아나운서
   - [강은이](https://ko.wikipedia.org/wiki/강은이 "wikilink") : 현 [KBS광주방송총국](../Page/KBS광주방송총국.md "wikilink") 아나운서
   - [봉주선](https://ko.wikipedia.org/wiki/봉주선 "wikilink") (2017.7\~2019.6) 현 퇴사
+  - [최명순](https://ko.wikipedia.org/wiki/최명순 "wikilink") (1979\~2016) (2018.10\~2019.9 프리랜서)
 
 ## 각주
 

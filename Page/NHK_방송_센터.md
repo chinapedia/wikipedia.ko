@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [NHK 방송 센터](https://ko.wikipedia.org/wiki/NHK_방송_센터).
 
 
-[썸네일](https://ko.wikipedia.org/wiki/파일:NHK_Broadcasting_Center_2016.jpg "wikilink") [시부야 구에](https://ko.wikipedia.org/wiki/시부야_구 "wikilink") 위치한 NHK 방송 센터\]\] **NHK 방송 센터**는 일본방송협회([NHK](https://ko.wikipedia.org/wiki/NHK "wikilink"))의 총본부로 [도쿄도](../Page/도쿄도.md "wikilink")와 주변지역에 방송을 송출하는 방송국이며 BS방송과 국제방송도 담당하고 있다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:NHK_Broadcasting_Center_2016.jpg "wikilink") [시부야구](../Page/시부야구.md "wikilink")에 위치한 NHK 방송 센터\]\] **NHK 방송 센터**는 일본방송협회([NHK](https://ko.wikipedia.org/wiki/NHK "wikilink"))의 총본부로 [도쿄도](../Page/도쿄도.md "wikilink")와 주변지역에 방송을 송출하는 방송국이며 BS방송과 국제방송도 담당하고 있다.
 
 ## 채널·주파수
 

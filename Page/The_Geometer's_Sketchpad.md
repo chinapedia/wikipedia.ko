@@ -14,7 +14,7 @@ The Geometer's Sketchpad의 가장 핵심적인 기능은 추상적인 수학적
 
 ## 각주
 
-<references/>
+<references />
 
 [분류:교육용 소프트웨어](https://ko.wikipedia.org/wiki/분류:교육용_소프트웨어 "wikilink") [분류:수학 소프트웨어](https://ko.wikipedia.org/wiki/분류:수학_소프트웨어 "wikilink")
 

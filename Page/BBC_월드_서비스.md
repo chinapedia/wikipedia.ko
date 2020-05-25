@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [BBC 월드 서비스](https://ko.wikipedia.org/wiki/BBC_월드_서비스).
 
 
-**BBC 월드 서비스**()는 [영국](../Page/영국.md "wikilink")의 [공영 방송](../Page/공영_방송.md "wikilink") [BBC에서](../Page/영국방송공사.md "wikilink") 운영, 방송하는 [국제 방송국이며](https://ko.wikipedia.org/wiki/국제_방송 "wikilink"), BBC 국제방송이라고도 한다. [BBC가](../Page/영국방송공사.md "wikilink") [영국](../Page/영국.md "wikilink") 정부로부터의 지원을 받아 제작하고 있다. 현재는 전 세계를 향해 33개 언어로 [단파](../Page/단파.md "wikilink")와 [인터넷](../Page/인터넷.md "wikilink")으로 방송하고 있다.
+**BBC 월드 서비스**()는 [영국](../Page/영국.md "wikilink")의 [공영 방송](../Page/공영_방송.md "wikilink") [BBC에서](../Page/영국방송공사.md "wikilink") 운영, 방송하는 [국제 방송국이며](https://ko.wikipedia.org/wiki/국제_방송 "wikilink"), BBC 국제방송이라고도 한다. [BBC 라디오 4와](../Page/BBC_라디오_4.md "wikilink") 마찬가지로 매 시간 정시마다 6초 비프음 시보를 송출한다. [BBC가](../Page/영국방송공사.md "wikilink") [영국](../Page/영국.md "wikilink") 정부로부터의 지원을 받아 제작하고 있으며, 현재는 전 세계를 향해 33개 언어로 [단파](../Page/단파.md "wikilink")와 [인터넷](../Page/인터넷.md "wikilink")으로 방송하고 있다.
 
 BBC 월드 서비스는 [1925년](../Page/1925년.md "wikilink")에 개국하였고, 전 세계를 향해 [영어](../Page/영어.md "wikilink")로만 방송하는 BBC 엠파이어 국제방송은 [1932년](../Page/1932년.md "wikilink")에 개국하였다. [제2차 세계 대전과](../Page/제2차_세계_대전.md "wikilink") 곧이어 [냉전](../Page/냉전.md "wikilink")의 시대를 맞이하면서 [영국](../Page/영국.md "wikilink") 정부와 BBC 월드 서비스는 [영어](../Page/영어.md "wikilink") 이외의 언어 방송의 필요성을 느껴 [중국어](../Page/중국어.md "wikilink"), [일본어](../Page/일본어.md "wikilink") 등 의 언어 방송을 개국하였다. [걸프 전쟁이](../Page/걸프_전쟁.md "wikilink") 발생하자, [텔레비전](../Page/텔레비전.md "wikilink") 국제 방송의 시작을 검토한 결과, [BBC 월드 뉴스가](../Page/BBC_월드_뉴스.md "wikilink") 개국되었다.
 
@@ -21,7 +21,7 @@ BBC 월드 서비스는 [1925년](../Page/1925년.md "wikilink")에 개국하였
 
 ##### 동북아시아향 최근 단파 주파수표
 
-아래 주파수표는 시간대를 아침, 저녁, 밤 등으로 나누어 대략적으로 그려넣은 것으로, 정확한 주파수는 [BBC 웹사이트](http://downloads.bbc.co.uk/worldservice/schedules/frequencies/bbc_world_service_east_asia_frequencies.pdf) 참조. 송출시간의 1차 축소(하루 19시간 → 12시간)는 [2008년](../Page/2008년.md "wikilink") [3월 30일](../Page/3월_30일.md "wikilink"), 2차 축소(하루 12시간 → 6시간)는 [2013년](../Page/2013년.md "wikilink") [3월 31일](../Page/3월_31일.md "wikilink") 부로 시행되었다. [2017년 1월](https://ko.wikipedia.org/wiki/2017년_1월 "wikilink") 태국 중계소의 폐지로 실질적으로 단파송출이 축소되었다.
+아래 주파수표는 시간대를 아침, 저녁, 밤 등으로 나누어 대략적으로 그려넣은 것으로, 정확한 주파수는 [BBC 웹사이트](https://web.archive.org/web/20150402131347/http://downloads.bbc.co.uk/worldservice/schedules/frequencies/bbc_world_service_east_asia_frequencies.pdf) 참조. 송출시간의 1차 축소(하루 19시간 → 12시간)는 [2008년](../Page/2008년.md "wikilink") [3월 30일](../Page/3월_30일.md "wikilink"), 2차 축소(하루 12시간 → 6시간)는 [2013년](../Page/2013년.md "wikilink") [3월 31일](../Page/3월_31일.md "wikilink") 부로 시행되었다. [2017년 1월](https://ko.wikipedia.org/wiki/2017년_1월 "wikilink") 태국 중계소의 폐지로 실질적으로 단파송출이 축소되었다.
 
 <table>
 <tbody>
@@ -45,9 +45,9 @@ BBC 월드 서비스는 [1925년](../Page/1925년.md "wikilink")에 개국하였
 </tbody>
 </table>
 
-※1: 상기 주파수는 영국 본토로부터의 직접 송출이 아닌, 싱가포르 및 오만 중계소의 송출로 싱가포르, 오만 중계소의 송출은 극동아시아향(동북아+동남아)이다.
+※ 1: 상기 주파수는 영국 본토로부터의 직접 송출이 아닌, 싱가포르 및 오만 중계소의 송출로 싱가포르, 오만 중계소의 송출은 극동아시아향(동북아+동남아)이다.
 
-※2: 아침 시간대의 수신상태는 불량한 편이다.
+※ 2: 아침 시간대의 수신상태는 불량한 편이다.
 
   - **위성방송** - [스카이라이프](../Page/KT스카이라이프.md "wikilink") 채널 791번 (유료)
 

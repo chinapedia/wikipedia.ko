@@ -49,7 +49,7 @@ GNU 아이스캣의 가장 큰 장점은 완전한 자유 소프트웨어라는 
 
 그누질라는 모질라가 소스 코드에 사용하는 [모질라 공개 라이선스](https://ko.wikipedia.org/wiki/모질라_공개_라이선스 "wikilink")(MPL)/[GNU 일반 공중 사용 허가서](../Page/GNU_일반_공중_사용_허가서.md "wikilink")(GPL)/[GNU 약소 일반 공중 사용 허가서](../Page/GNU_약소_일반_공중_사용_허가서.md "wikilink")(LGPL)의 삼중 라이선스를 따르고 있다. 모질라와 달리 아이스캣의 기본 아이콘들 또한 위의 삼중 라이선스를 따른다.
 
-## 함께 보기
+## 같이 보기
 
   - [그누질라](../Page/그누질라.md "wikilink")
   - [아이스도브](https://ko.wikipedia.org/wiki/아이스도브 "wikilink")

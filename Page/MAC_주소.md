@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [MAC 주소](https://ko.wikipedia.org/wiki/MAC_주소).
 
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:UMTS_Router_Surf@home_II,_o2-0017.jpg "wikilink") **MAC 주소**(Media Access Control Address)는 네트워크 세그먼트의 [데이터 링크 계층에서](https://ko.wikipedia.org/wiki/데이터_링크_계층 "wikilink") 통신을 위한 네트워크 인터페이스에 할당된 고유 식별자 이다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:UMTS_Router_Surf@home_II,_o2-0017.jpg "wikilink") **MAC 주소**(Media Access Control Address)는 네트워크 세그먼트의 [데이터 링크 계층에서](https://ko.wikipedia.org/wiki/데이터_링크_계층 "wikilink") 통신을 위한 네트워크 인터페이스에 할당된 고유 식별자이다.
 
 MAC 주소는 [이더넷](../Page/이더넷.md "wikilink")과 [와이파이](../Page/와이파이.md "wikilink")를 포함한 대부분의 [IEEE 802](../Page/IEEE_802.md "wikilink") 네트워크 기술에 [네트워크 주소로](https://ko.wikipedia.org/wiki/휴대폰_네트워크_주소 "wikilink") 사용된다. 논리적으로 MAC 주소는 [매체 접근 제어](https://ko.wikipedia.org/wiki/매체_접근_제어 "wikilink") 프로토콜이라는 [OSI 모델의](https://ko.wikipedia.org/wiki/OSI_모델 "wikilink") 하위 계층에서 사용된다.
 

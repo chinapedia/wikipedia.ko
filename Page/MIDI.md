@@ -162,7 +162,7 @@ Korg Electribe 2, Arturia Beatstep Pro를 포함한 일부 장치들은 MIDI 데
 21.
 22. Lau, Paul. "[Why Still MIDI?](http://www.highbeam.com/doc/1P3-1610624011.html)."  Canadian Musician. Norris-Whitney Communications Inc. 2008. HighBeam Research. 4 September 2012
 23.
-24. Hass, Jeffrey. "[Chapter Three: How MIDI works 10](http://www.indiana.edu/%7Eemusic/etext/MIDI/chapter3_MIDI10.shtml)". Indiana University Jacobs School of Music. 2010. Web 13 August 2012
+24. Hass, Jeffrey. "[Chapter Three: How MIDI works 10](http://www.indiana.edu/%7Eemusic/etext/MIDI/chapter3_MIDI10.shtml) ". Indiana University Jacobs School of Music. 2010. Web 13 August 2012
 25. "[MIDI Files](http://www.midi.org/aboutmidi/tut_midifiles.php)". *midi.org* Music Manufacturers Association. n.d. Web. 27 August 2012
 26. "[RIFF-based MIDI File Format](http://www.digitalpreservation.gov/formats/fdd/fdd000120.shtml)". *digitalpreservation.gov*. Library of Congress. 26 March 2012. Web. 18 August 2012
 27. Crawford, Walt. "MIDI and Wave: Coping with the Language". *Online*. Vol. 20, No. 1. Jan/Feb 1996

@@ -18,7 +18,7 @@ EPR(Einstein, Podolsky, Rogen) 사고실험은 다음과 같다.
 
 아인슈타인은 양자역학을 실재를 묘사하는 완전한 이론으로서 받아들이지 않았으며, 목숨이 다할 때까지 양자론적 측정 결과들에 대해 "신이 주사위를 던지지 않는" 해석을 찾아내기 위해 노력하였다.
 
-## 함께 보기
+## 같이 보기
 
   - [벨의 정리](https://ko.wikipedia.org/wiki/벨의_정리 "wikilink")
   - [국소적 숨은 변수 이론](https://ko.wikipedia.org/wiki/국소적_숨은_변수_이론 "wikilink")

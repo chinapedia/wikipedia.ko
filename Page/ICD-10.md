@@ -30,7 +30,7 @@
 | XXI   | [Z00-Z99](https://ko.wikipedia.org/wiki/ICD-10_Chapter_XXI:_Factors_influencing_health_status_and_contact_with_health_services "wikilink") | 건강 상태에 영향을 미치는 원인들과, 보건 서비스와의 관계                                                            |
 | XXII  | [U00-U99](https://ko.wikipedia.org/wiki/ICD-10_Chapter_XXII:_Codes_for_special_purposes "wikilink")                                        | 특별 목적을 위한 코드                                                                                |
 
-## 함께 보기
+## 같이 보기
 
   - [ICD-9](https://ko.wikipedia.org/wiki/ICD-9 "wikilink")
   - [DSM-5](../Page/DSM-5.md "wikilink")

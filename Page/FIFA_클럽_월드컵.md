@@ -166,7 +166,7 @@
 <td><p><a href="../Page/알아인_FC.md" title="wikilink">알아인</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/2019년_FIFA_클럽_월드컵" title="wikilink">2019</a></p></td>
+<td><p><a href="../Page/2019년_FIFA_클럽_월드컵.md" title="wikilink">2019</a></p></td>
 <td><p><br />
 <a href="../Page/카타르.md" title="wikilink">카타르</a></p></td>
 <td><p><strong><a href="../Page/리버풀_FC.md" title="wikilink">리버풀</a></strong> </p></td>
@@ -233,7 +233,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/리버풀_FC.md" title="wikilink">리버풀</a></p></td>
-<td><p>1 (<a href="https://ko.wikipedia.org/wiki/2019년_FIFA_클럽_월드컵" title="wikilink">2019</a>)</p></td>
+<td><p>1 (<a href="../Page/2019년_FIFA_클럽_월드컵.md" title="wikilink">2019</a>)</p></td>
 <td><p>1 (<a href="../Page/2005년_FIFA_클럽_세계_선수권_대회.md" title="wikilink">2005</a>)</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
@@ -394,7 +394,7 @@
 <tr class="even">
 <td><p><a href="../Page/CR_플라멩구.md" title="wikilink">플라멩구</a></p></td>
 <td><p>-</p></td>
-<td><p>1 (<a href="https://ko.wikipedia.org/wiki/2019년_FIFA_클럽_월드컵" title="wikilink">2019</a>)</p></td>
+<td><p>1 (<a href="../Page/2019년_FIFA_클럽_월드컵.md" title="wikilink">2019</a>)</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td><p>1</p></td>
@@ -403,7 +403,7 @@
 <td><p><a href="../Page/CF_몬테레이.md" title="wikilink">몬테레이</a></p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
-<td><p>2 (<a href="../Page/2012년_FIFA_클럽_월드컵.md" title="wikilink">2012</a>, <a href="https://ko.wikipedia.org/wiki/2019년_FIFA_클럽_월드컵" title="wikilink">2019</a>)</p></td>
+<td><p>2 (<a href="../Page/2012년_FIFA_클럽_월드컵.md" title="wikilink">2012</a>, <a href="../Page/2019년_FIFA_클럽_월드컵.md" title="wikilink">2019</a>)</p></td>
 <td><p>-</p></td>
 <td><p>2</p></td>
 </tr>
@@ -588,7 +588,7 @@
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
-<td><p>1 (<a href="https://ko.wikipedia.org/wiki/2019년_FIFA_클럽_월드컵" title="wikilink">2019</a>)</p></td>
+<td><p>1 (<a href="../Page/2019년_FIFA_클럽_월드컵.md" title="wikilink">2019</a>)</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="odd">
@@ -627,14 +627,14 @@
 <tr class="even">
 <td></td>
 <td><p>4 (<a href="../Page/2000년_FIFA_클럽_세계_선수권_대회.md" title="wikilink">2000</a>, <a href="../Page/2005년_FIFA_클럽_세계_선수권_대회.md" title="wikilink">2005</a>, <a href="../Page/2006년_FIFA_클럽_월드컵.md" title="wikilink">2006</a>, <a href="../Page/2012년_FIFA_클럽_월드컵.md" title="wikilink">2012</a>)</p></td>
-<td><p>4 (<a href="../Page/2000년_FIFA_클럽_세계_선수권_대회.md" title="wikilink">2000</a>, <a href="../Page/2011년_FIFA_클럽_월드컵.md" title="wikilink">2011</a>, <a href="../Page/2017년_FIFA_클럽_월드컵.md" title="wikilink">2017</a>, <a href="https://ko.wikipedia.org/wiki/2019년_FIFA_클럽_월드컵" title="wikilink">2019</a>)</p></td>
+<td><p>4 (<a href="../Page/2000년_FIFA_클럽_세계_선수권_대회.md" title="wikilink">2000</a>, <a href="../Page/2011년_FIFA_클럽_월드컵.md" title="wikilink">2011</a>, <a href="../Page/2017년_FIFA_클럽_월드컵.md" title="wikilink">2017</a>, <a href="../Page/2019년_FIFA_클럽_월드컵.md" title="wikilink">2019</a>)</p></td>
 <td><p>2 (<a href="../Page/2010년_FIFA_클럽_월드컵.md" title="wikilink">2010</a>, <a href="../Page/2013년_FIFA_클럽_월드컵.md" title="wikilink">2013</a>)</p></td>
 <td><p>-</p></td>
 <td><p>10</p></td>
 </tr>
 <tr class="odd">
 <td></td>
-<td><p>2 (<a href="../Page/2008년_FIFA_클럽_월드컵.md" title="wikilink">2008</a>, <a href="https://ko.wikipedia.org/wiki/2019년_FIFA_클럽_월드컵" title="wikilink">2019</a>)</p></td>
+<td><p>2 (<a href="../Page/2008년_FIFA_클럽_월드컵.md" title="wikilink">2008</a>, <a href="../Page/2019년_FIFA_클럽_월드컵.md" title="wikilink">2019</a>)</p></td>
 <td><p>2 (<a href="../Page/2005년_FIFA_클럽_세계_선수권_대회.md" title="wikilink">2005</a>, <a href="../Page/2012년_FIFA_클럽_월드컵.md" title="wikilink">2012</a>)</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
@@ -708,7 +708,7 @@
 <td></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
-<td><p>4 (<a href="../Page/2000년_FIFA_클럽_세계_선수권_대회.md" title="wikilink">2000</a>, <a href="../Page/2012년_FIFA_클럽_월드컵.md" title="wikilink">2012</a>, <a href="../Page/2017년_FIFA_클럽_월드컵.md" title="wikilink">2017</a>, <a href="https://ko.wikipedia.org/wiki/2019년_FIFA_클럽_월드컵" title="wikilink">2019</a>)</p></td>
+<td><p>4 (<a href="../Page/2000년_FIFA_클럽_세계_선수권_대회.md" title="wikilink">2000</a>, <a href="../Page/2012년_FIFA_클럽_월드컵.md" title="wikilink">2012</a>, <a href="../Page/2017년_FIFA_클럽_월드컵.md" title="wikilink">2017</a>, <a href="../Page/2019년_FIFA_클럽_월드컵.md" title="wikilink">2019</a>)</p></td>
 <td><p>5 (<a href="../Page/2006년_FIFA_클럽_월드컵.md" title="wikilink">2006</a>, <a href="../Page/2008년_FIFA_클럽_월드컵.md" title="wikilink">2008</a>, <a href="../Page/2009년_FIFA_클럽_월드컵.md" title="wikilink">2009</a>, <a href="../Page/2014년_FIFA_클럽_월드컵.md" title="wikilink">2014</a>, <a href="../Page/2016년_FIFA_클럽_월드컵.md" title="wikilink">2016</a>)</p></td>
 <td><p>9</p></td>
 </tr>
@@ -773,7 +773,7 @@
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
-<td><p>2 (<a href="../Page/2005년_FIFA_클럽_세계_선수권_대회.md" title="wikilink">2005</a>, <a href="https://ko.wikipedia.org/wiki/2019년_FIFA_클럽_월드컵" title="wikilink">2019</a>)</p></td>
+<td><p>2 (<a href="../Page/2005년_FIFA_클럽_세계_선수권_대회.md" title="wikilink">2005</a>, <a href="../Page/2019년_FIFA_클럽_월드컵.md" title="wikilink">2019</a>)</p></td>
 <td><p>2</p></td>
 </tr>
 <tr class="odd">

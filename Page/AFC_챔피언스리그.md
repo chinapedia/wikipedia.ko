@@ -363,7 +363,7 @@ AFC는 2014년부터 챔피언스리그 참가국을 19개국으로 확대하는
 <td><p><strong>3 - 0<br />
 2 - 0</strong></p></td>
 <td><p><small></small> <a href="../Page/애들레이드_유나이티드_FC.md" title="wikilink">애들레이드 유나이티드</a></p></td>
-<td><p><small> <a href="https://ko.wikipedia.org/wiki/오사카_시" title="wikilink">오사카</a>, <a href="../Page/만박_기념_경기장.md" title="wikilink">만박 기념 경기장</a> </br>  <a href="../Page/애들레이드.md" title="wikilink">애들레이드</a>, <a href="../Page/하인드마시_스타디움.md" title="wikilink">하인드마시 스타디움</a></small></p></td>
+<td><p><small> <a href="../Page/오사카시.md" title="wikilink">오사카</a>, <a href="../Page/만박_기념_경기장.md" title="wikilink">만박 기념 경기장</a> </br>  <a href="../Page/애들레이드.md" title="wikilink">애들레이드</a>, <a href="../Page/하인드마시_스타디움.md" title="wikilink">하인드마시 스타디움</a></small></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/2009년_AFC_챔피언스리그.md" title="wikilink">2009</a></p></td>
@@ -861,7 +861,7 @@ AFC는 2014년부터 챔피언스리그 참가국을 19개국으로 확대하는
 </tr>
 <tr class="odd">
 <td><p>2014</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/안테_코비치" title="wikilink">안테 코비치</a></p></td>
+<td><p><a href="../Page/안테_코비치.md" title="wikilink">안테 코비치</a></p></td>
 <td><p><a href="../Page/웨스턴_시드니_원더러스_FC.md" title="wikilink">웨스턴 시드니 원더러스</a></p></td>
 </tr>
 <tr class="even">

@@ -3,7 +3,7 @@
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:SMRTJE-Front.JPG "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:SGMRT-LRT_map.svg "wikilink") **싱가포르 도시철도**(,  또는 일반적으로 , , )는 [싱가포르](../Page/싱가포르.md "wikilink") 도시 전체를 아우르는, 싱가포르 공공 교통 체계에서 중요한 역할을 하는 철도이다. 첫 노선은 [1987년](../Page/1987년.md "wikilink") 개통했으며 [동남아시아](../Page/동남아시아.md "wikilink")에서 [마닐라 LRT](https://ko.wikipedia.org/wiki/마닐라_LRT "wikilink") 다음으로 두 번째로 오래 된 지하철이며, 싱가포르의 적극적인 정책 추진으로 급속히 성장했다. 2014년에는 하루에 평균 2백76만 명 정도가 이용하며, 이는 버스 승객수 다음으로 많은 숫자다.\[1\]
 
-현재 5개의 노선에 121개의 철도역이 있으며 총 길이는 170.7 [km이다](https://ko.wikipedia.org/wiki/킬로미터 "wikilink"). 철도 노선 건립은 [싱가포르 육상교통국이](https://ko.wikipedia.org/wiki/싱가포르_육상교통국 "wikilink") 운영은 [주식회사 SMRT와](https://ko.wikipedia.org/wiki/주식회사_SMRT "wikilink") [SBS 트랜시트](https://ko.wikipedia.org/wiki/SBS_트랜시트 "wikilink")(SBS Transit)가 각자 노선을 나눠서 맡고 있다. 운영하는 회사들은 완벽한 대중 교통 서비스의 통합을 추구하여, [버스](../Page/버스.md "wikilink")나 [택시](../Page/택시.md "wikilink") 서비스도 제공한다. 또한 싱가포르 도시계획부가 만든 주택 지역들을 경전철이 다니며 도시철도와 연결해줌으로 도시철도가 다니지 못하는 곳을 보완해주고 있다.\[2\]
+현재 5개의 노선에 121개의 철도역이 있으며 총 길이는 170.7 [km이다](../Page/킬로미터.md "wikilink"). 철도 노선 건립은 [싱가포르 육상교통국이](https://ko.wikipedia.org/wiki/싱가포르_육상교통국 "wikilink") 운영은 [주식회사 SMRT와](https://ko.wikipedia.org/wiki/주식회사_SMRT "wikilink") [SBS 트랜시트](https://ko.wikipedia.org/wiki/SBS_트랜시트 "wikilink")(SBS Transit)가 각자 노선을 나눠서 맡고 있다. 운영하는 회사들은 완벽한 대중 교통 서비스의 통합을 추구하여, [버스](../Page/버스.md "wikilink")나 [택시](../Page/택시.md "wikilink") 서비스도 제공한다. 또한 싱가포르 도시계획부가 만든 주택 지역들을 경전철이 다니며 도시철도와 연결해줌으로 도시철도가 다니지 못하는 곳을 보완해주고 있다.\[2\]
 
 ## 역사
 

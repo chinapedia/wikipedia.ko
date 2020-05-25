@@ -15,10 +15,10 @@
 
 작사，작곡，편곡：TWO-MIX
 
-1.  JUST COMMUNICATION
-2.  SECOND IMPRESSION
-3.  JUST COMMUNICATION (Original Karaoke)
-4.  SECOND IMPRESSION (Original Karaoke)
+1.  JUST COMMUNICATION - 4:18
+2.  SECOND IMPRESSION - 4:51
+3.  JUST COMMUNICATION (Original Karaoke) - 4:18
+4.  SECOND IMPRESSION (Original Karaoke) - 4:51
 
 ## 수록 작품
 

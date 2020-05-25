@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [AIGLX](https://ko.wikipedia.org/wiki/AIGLX).
 
 
-[thumb](https://ko.wikipedia.org/wiki/파일:Linux_graphics_drivers_DRI_current.svg "wikilink") and **AIGLX** versus [direct rendering](https://ko.wikipedia.org/wiki/Direct_Rendering_Infrastructure "wikilink").\]\] [thumb에서](https://ko.wikipedia.org/wiki/파일:Compiz_ko.png "wikilink") AIGLX로 구동한 [컴피즈](../Page/컴피즈.md "wikilink")\]\] **AIGLX**()는 [X.Org](https://ko.wikipedia.org/wiki/X.Org "wikilink")와 [DRI](https://ko.wikipedia.org/wiki/DRI "wikilink") 드라이버가 간접 [GLX](https://ko.wikipedia.org/wiki/GLX "wikilink") 렌더링이 가능하도록 [래드햇](https://ko.wikipedia.org/wiki/래드햇 "wikilink")과 [페도라 커뮤니티에서](https://ko.wikipedia.org/wiki/페도라_프로젝트 "wikilink") 개발한 [오픈 소스](../Page/오픈_소스.md "wikilink") [프로젝트](https://ko.wikipedia.org/wiki/프로젝트 "wikilink")이다. AIGLX는 원격 X 클라이언트가 GLX 프로토콜로 완전히 하드웨어 가속된 렌더링이 가능하게 한다. 동시에 하드웨어 가속을 사용하는 ([컴피즈](../Page/컴피즈.md "wikilink")같은) [OpenGL](../Page/OpenGL.md "wikilink") [컴포지트 창 관리자는](https://ko.wikipedia.org/wiki/컴포지트_창_관리자 "wikilink") AIGLX의 개발이 요구되었다. [페도라](https://ko.wikipedia.org/wiki/페도라 "wikilink")에 기본적으로 포함되어 있다.
+[thumb](https://ko.wikipedia.org/wiki/파일:Linux_graphics_drivers_DRI_current.svg "wikilink") and **AIGLX** versus [direct rendering](https://ko.wikipedia.org/wiki/Direct_Rendering_Infrastructure "wikilink").\]\] **AIGLX**()는 [X.Org](https://ko.wikipedia.org/wiki/X.Org "wikilink")와 [DRI](https://ko.wikipedia.org/wiki/DRI "wikilink") 드라이버가 간접 [GLX](https://ko.wikipedia.org/wiki/GLX "wikilink") 렌더링이 가능하도록 [래드햇](https://ko.wikipedia.org/wiki/래드햇 "wikilink")과 [페도라 커뮤니티에서](https://ko.wikipedia.org/wiki/페도라_프로젝트 "wikilink") 개발한 [오픈 소스](../Page/오픈_소스.md "wikilink") [프로젝트](https://ko.wikipedia.org/wiki/프로젝트 "wikilink")이다. AIGLX는 원격 X 클라이언트가 GLX 프로토콜로 완전히 하드웨어 가속된 렌더링이 가능하게 한다. 동시에 하드웨어 가속을 사용하는 ([컴피즈](../Page/컴피즈.md "wikilink")같은) [OpenGL](../Page/OpenGL.md "wikilink") [컴포지트 창 관리자는](https://ko.wikipedia.org/wiki/컴포지트_창_관리자 "wikilink") AIGLX의 개발이 요구되었다. [페도라](https://ko.wikipedia.org/wiki/페도라 "wikilink")에 기본적으로 포함되어 있다.
 
 ## AIGLX를 지원하는 그래픽 드라이버
 
@@ -24,9 +24,7 @@
   - [X 윈도 시스템](../Page/X_윈도_시스템.md "wikilink")
   - [컴피즈](../Page/컴피즈.md "wikilink")
 
-## 참조
-
-<references />
+## 각주
 
 ## 외부 링크
 

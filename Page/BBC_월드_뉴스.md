@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [BBC 월드 뉴스](https://ko.wikipedia.org/wiki/BBC_월드_뉴스).
 
 
-[230px](https://ko.wikipedia.org/wiki/파일:BBC_World_News.svg "wikilink") **BBC 월드 뉴스**(**BBC World News**)는 [1995년](../Page/1995년.md "wikilink") [1월 26일에](../Page/1월_26일.md "wikilink") 설립된 [BBC의](../Page/영국방송공사.md "wikilink") 국제 뉴스 전문 텔레비전 채널이다.
+[130px](https://ko.wikipedia.org/wiki/파일:BBC_World_News_2019.svg "wikilink") **BBC 월드 뉴스**(**BBC World News**)는 [1995년](../Page/1995년.md "wikilink") [1월 26일에](../Page/1월_26일.md "wikilink") 설립된 [BBC의](../Page/영국방송공사.md "wikilink") 국제 뉴스 전문 텔레비전 채널이다.
 
 ## 개요
 

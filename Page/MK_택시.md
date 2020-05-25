@@ -9,7 +9,7 @@
 
 엠케이택시 창립자는 대왕기업(서울 정릉동 소재, 역시 택시회사) 창립자와 친분이 두터운 것으로 알려져 있다
 
-후쿠오카의 다이이치 교통산업 그룹과 함께 전국에 진출해 [도쿄](../Page/도쿄.md "wikilink")(도쿄 엠케이 주식회사［도쿄 MK주식회사］),[오사카](https://ko.wikipedia.org/wiki/오사카_시 "wikilink")(오사카 엠케이 주식회사［오사카 MK주식회사］),[효고](https://ko.wikipedia.org/wiki/효고 "wikilink")([고베](https://ko.wikipedia.org/wiki/고베 "wikilink") 엠케이),[아이치](../Page/아이치현.md "wikilink")([나고야](https://ko.wikipedia.org/wiki/나고야 "wikilink") 엠케이) 등에 진출하고,현지의 택시 회사와 서로 경쟁하고 있다. 덧붙여 도쿄 엠케이 주식회사에 대해서는,「레몬 가스」 브랜드로 LP가스 사업을 실시한다.
+후쿠오카의 다이이치 교통산업 그룹과 함께 전국에 진출해 [도쿄](../Page/도쿄.md "wikilink")(도쿄 엠케이 주식회사［도쿄 MK주식회사］),[오사카](../Page/오사카시.md "wikilink")(오사카 엠케이 주식회사［오사카 MK주식회사］),[효고](https://ko.wikipedia.org/wiki/효고 "wikilink")([고베](https://ko.wikipedia.org/wiki/고베 "wikilink") 엠케이),[아이치](../Page/아이치현.md "wikilink")([나고야](https://ko.wikipedia.org/wiki/나고야 "wikilink") 엠케이) 등에 진출하고,현지의 택시 회사와 서로 경쟁하고 있다. 덧붙여 도쿄 엠케이 주식회사에 대해서는,「레몬 가스」 브랜드로 LP가스 사업을 실시한다.
 
 근래에는,대절 버스 사업이나 학교 등의 특정 수송 버스 사업에도 진출하고 있다. 다만,교토시내에서 계획한 순환 노선 버스 사업에 대해서는,교토시 교통국에서는 물론,다른 교통 사업자나 교토 상공회의소 등 여러 곳에서 난색을 나타내,순환 노선 버스 사업 계획은 철회했다.
 

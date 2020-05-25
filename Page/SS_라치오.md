@@ -256,7 +256,7 @@
 <!-- end list -->
 
   -
-    [1958](https://ko.wikipedia.org/wiki/코파_이탈리아_1958 "wikilink"), [1997-98](https://ko.wikipedia.org/wiki/코파_이탈리아_1997-98 "wikilink"), [1999-00](https://ko.wikipedia.org/wiki/코파_이탈리아_1999-2000 "wikilink"), [2003-04](https://ko.wikipedia.org/wiki/코파_이탈리아_2003-04 "wikilink"), [2008-09](https://ko.wikipedia.org/wiki/코파_이탈리아_2008-09 "wikilink"), [2012-13](../Page/코파_이탈리아_2012-13.md "wikilink"), [2018-19](https://ko.wikipedia.org/wiki/코파_이탈리아_2018-19 "wikilink")
+    [1958](https://ko.wikipedia.org/wiki/코파_이탈리아_1958 "wikilink"), [1997-98](https://ko.wikipedia.org/wiki/코파_이탈리아_1997-98 "wikilink"), [1999-00](https://ko.wikipedia.org/wiki/코파_이탈리아_1999-2000 "wikilink"), [2003-04](https://ko.wikipedia.org/wiki/코파_이탈리아_2003-04 "wikilink"), [2008-09](https://ko.wikipedia.org/wiki/코파_이탈리아_2008-09 "wikilink"), [2012-13](../Page/코파_이탈리아_2012-13.md "wikilink"), [2018-19](../Page/코파_이탈리아_2018-19.md "wikilink")
 
 <!-- end list -->
 
@@ -317,7 +317,7 @@
 | <span style="font-size: 140%;">**1부**</span> | **프리마 카테고리아** | **5회**                                                                  | [1912-13](https://ko.wikipedia.org/wiki/프리마_카테고리아_1912-13 "wikilink")   | [1920-21](https://ko.wikipedia.org/wiki/프리마_카테고리아_1920-21 "wikilink") | **90회** |
 | **프리마 디비시오네**                                | **5회**        | [1921-22](https://ko.wikipedia.org/wiki/프리마_디비시오네_1921-22 "wikilink")   | [1925-26](https://ko.wikipedia.org/wiki/프리마_디비시오네_1925-26 "wikilink")   |                                                                       |         |
 | **디비시오네 나치오날레**                              | **3회**        | [1927-28](https://ko.wikipedia.org/wiki/디비시오네_나치오날레_1927-28 "wikilink") | [1945-46](https://ko.wikipedia.org/wiki/디비시오네_나치오날레_1945-46 "wikilink") |                                                                       |         |
-| **세리에 A**                                    | **73회**       | [1929-30](https://ko.wikipedia.org/wiki/세리에_A_1929-30 "wikilink")       | [2019-20](https://ko.wikipedia.org/wiki/세리에_A_2019-20 "wikilink")       |                                                                       |         |
+| **세리에 A**                                    | **73회**       | [1929-30](https://ko.wikipedia.org/wiki/세리에_A_1929-30 "wikilink")       | [2019-20](../Page/세리에_A_2019-20.md "wikilink")                          |                                                                       |         |
 | <span style="font-size: 140%;">**2부**</span> | **프리마 디비시오네** | **1회**                                                                  | [1926-27](https://ko.wikipedia.org/wiki/프리마_디비시오네_1926-27 "wikilink")   | **12회**                                                               |         |
 | **세리에 B**                                    | **11회**       | [1961-62](https://ko.wikipedia.org/wiki/세리에_B_1961-62 "wikilink")       | [1987-88](https://ko.wikipedia.org/wiki/세리에_B_1987-88 "wikilink")       |                                                                       |         |
 
@@ -345,7 +345,7 @@
 
 라치오는 [코파 이탈리아에](../Page/코파_이탈리아.md "wikilink") 총 **71회** 참가하여 결승전에 **10번** 진출했다.:
 
-  - **7회** 우승 ([1958](https://ko.wikipedia.org/wiki/코파_이탈리아_1958 "wikilink"), [1997-98](https://ko.wikipedia.org/wiki/코파_이탈리아_1997-98 "wikilink"), [1999-00](https://ko.wikipedia.org/wiki/코파_이탈리아_1999-2000 "wikilink"), [2003-04](https://ko.wikipedia.org/wiki/코파_이탈리아_2003-04 "wikilink"), [2008-09](https://ko.wikipedia.org/wiki/코파_이탈리아_2008-09 "wikilink"), [2012-13](../Page/코파_이탈리아_2012-13.md "wikilink"), [2018-19](https://ko.wikipedia.org/wiki/코파_이탈리아_2018-19 "wikilink"))
+  - **7회** 우승 ([1958](https://ko.wikipedia.org/wiki/코파_이탈리아_1958 "wikilink"), [1997-98](https://ko.wikipedia.org/wiki/코파_이탈리아_1997-98 "wikilink"), [1999-00](https://ko.wikipedia.org/wiki/코파_이탈리아_1999-2000 "wikilink"), [2003-04](https://ko.wikipedia.org/wiki/코파_이탈리아_2003-04 "wikilink"), [2008-09](https://ko.wikipedia.org/wiki/코파_이탈리아_2008-09 "wikilink"), [2012-13](../Page/코파_이탈리아_2012-13.md "wikilink"), [2018-19](../Page/코파_이탈리아_2018-19.md "wikilink"))
   - **3회** 준우승 ([1960-61](https://ko.wikipedia.org/wiki/코파_이탈리아_1960-61 "wikilink"), [2014-15](../Page/코파_이탈리아_2014-15.md "wikilink"), [2016-17](../Page/코파_이탈리아_2016-17.md "wikilink"))
 
 <!-- end list -->

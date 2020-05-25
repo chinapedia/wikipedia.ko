@@ -217,7 +217,7 @@
 <td><p><a href="../Page/KBS_뉴스_7.md" title="wikilink">KBS 뉴스 7 부산</a></p></td>
 <td><p>금 5분</p></td>
 <td><p>금 저녁 7시 20분 ~ 7시 25분</p></td>
-<td><p>금 : <a href="../Page/이지현_(아나운서).md" title="wikilink">이지현</a></p></td>
+<td><p>금 : <a href="https://ko.wikipedia.org/wiki/차재환" title="wikilink">차재환</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/KBS_뉴스_9.md" title="wikilink">KBS 뉴스 9 부산</a></p></td>
@@ -310,13 +310,12 @@
   - 김병래(1976 \~ 2004, 아나운서부장, 전 심의실 부장, 정년퇴직)
   - [왕종근](../Page/왕종근.md "wikilink")(1980 \~ 1994, 전 [동양방송](../Page/동양방송.md "wikilink") 부산지국 아나운서, 전 KBS서울본국, 현 방송인)
   - 조계식(1980 \~ 1998, 전 [동양방송](../Page/동양방송.md "wikilink") 부산지국 아나운서, 아나운서부장 정년퇴임)
-  - 김석재(1991 \~ 2000, 현 SBS기자)
-  - [정용조](https://ko.wikipedia.org/wiki/정용조 "wikilink")(1993 \~ 1999, 전 KBS울산)
+  - [정용조](https://ko.wikipedia.org/wiki/정용조 "wikilink")(1993 \~ 1999, 전 KBS울산국)
   - [성세정](../Page/성세정.md "wikilink")(1993 \~ 1994, 현 KBS서울본국)
   - [장두희](https://ko.wikipedia.org/wiki/장두희 "wikilink")(1993 \~ 1994, 현 KBS서울본국, 타 부서 이동)
   - [조건진](../Page/조건진.md "wikilink")(1994 \~ 1995, 전 KBS서울본국)
   - [한상권](../Page/한상권_\(방송인\).md "wikilink")(1995 \~ 1996, 현 KBS서울본국)
-  - [오태훈](../Page/오태훈.md "wikilink")(1997 \~ 1998, 현 KBS서울본국)
+  - [오태훈](../Page/오태훈.md "wikilink")(1998 \~ 1999, 현 KBS서울본국)
   - [이형걸](../Page/이형걸.md "wikilink")(1997 \~ 1998, 현 KBS서울총국)
   - (故)[박태남](../Page/박태남.md "wikilink")(2000 \~ 2001, 전 KBS서울본국)
   - [김현욱](../Page/김현욱_\(방송인\).md "wikilink")(2000 \~ 2001, 전 KBS서울본국)
@@ -336,7 +335,6 @@
   - 전옥수(1980 \~ 1991, 전 [동양방송](../Page/동양방송.md "wikilink") 부산지국 아나운서, 전 KBS청주총국)
   - [김미균](https://ko.wikipedia.org/wiki/김미균 "wikilink")(1985 \~ 1990, 전 KBS진주)
   - [선우경](https://ko.wikipedia.org/wiki/선우경 "wikilink")(1994 \~ 1997, 전 [iTV 경인방송](../Page/경인방송.md "wikilink") 아나운서, 현 방송인)
-  - [김미선](https://ko.wikipedia.org/wiki/김미선 "wikilink")(1997 \~ 1999, 현 종교인)
   - 윤소희(1997 \~ 1998, 전 KBS서울본국)
   - [공정민](../Page/공정민.md "wikilink")(1999 \~ 2002, 전 KBS서울본국, 현 방송인)
   - [홍소연](../Page/홍소연.md "wikilink")(1999 \~ 2000, 현 KBS서울본국)
@@ -374,8 +372,7 @@
   - [이상준](https://ko.wikipedia.org/wiki/이상준 "wikilink") 취재부장
   - [공웅조](https://ko.wikipedia.org/wiki/공웅조 "wikilink") 취재부장
   - [황현규](https://ko.wikipedia.org/wiki/황현규 "wikilink") 취재부장
-  - [박효인](https://ko.wikipedia.org/wiki/박효인 "wikilink") 취재부장
-  - [이준석](https://ko.wikipedia.org/wiki/이준석 "wikilink") 부산부장
+  - [정민규](https://ko.wikipedia.org/wiki/정민규 "wikilink") 부산부장
   - [장성길](https://ko.wikipedia.org/wiki/장성길 "wikilink") 기장팀장
   - [김영록](../Page/김영록.md "wikilink")
 
@@ -393,6 +390,7 @@
   - [강예슬](https://ko.wikipedia.org/wiki/강예슬 "wikilink") 양산팀장
   - [최위지](https://ko.wikipedia.org/wiki/최위지 "wikilink") 김해팀장
   - [이도은](../Page/이도은.md "wikilink")
+  - [김아르내](https://ko.wikipedia.org/wiki/김아르내 "wikilink")
 
 ## 같이 보기
 

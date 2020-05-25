@@ -86,7 +86,7 @@ D/S에서는, 도미넌트가 탑이고 서브미시브가 바텀이 된다. S/M
   - [재갈](https://ko.wikipedia.org/wiki/재갈 "wikilink")
   - [본디지](../Page/본디지.md "wikilink")
       - [미라화](https://ko.wikipedia.org/wiki/미라화_\(BDSM\) "wikilink")
-  - [성기](../Page/성기.md "wikilink")와 [고환](https://ko.wikipedia.org/wiki/고환 "wikilink") 고문[(Cock and Ball Torture : CBT)](https://ko.wikipedia.org/wiki/\(Cock_and_Ball_Torture_:_CBT\) "wikilink")
+  - [성기](../Page/성기.md "wikilink")와 [고환](../Page/고환.md "wikilink") 고문[(Cock and Ball Torture : CBT)](https://ko.wikipedia.org/wiki/\(Cock_and_Ball_Torture_:_CBT\) "wikilink")
   - [볼버스팅](https://ko.wikipedia.org/wiki/볼버스팅 "wikilink")(CBT의 일종)
   - [성적 전기 자극](https://ko.wikipedia.org/wiki/성적_전기_자극 "wikilink")
   - [채찍](https://ko.wikipedia.org/wiki/채찍 "wikilink")

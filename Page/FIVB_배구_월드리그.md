@@ -23,9 +23,9 @@
 
 월드리그 **2그룹**에서는 [오스트레일리아가](https://ko.wikipedia.org/wiki/오스트레일리아_배구_국가대표팀 "wikilink") 2014년, [프랑스가](https://ko.wikipedia.org/wiki/프랑스_배구_국가대표팀 "wikilink") 2015년, [캐나다가](https://ko.wikipedia.org/wiki/캐나다_배구_국가대표팀 "wikilink") 2016년, [슬로베니아가](https://ko.wikipedia.org/wiki/슬로베니아_배구_국가대표팀 "wikilink") 2017년 우승하였다. 특이점으로 2015년에는 2그룹 우승팀에게 당해 대회 1그룹 결선 라운드 진출권을 부여했다. 그 결과, 2015년 2그룹 우승팀인 [프랑스는](https://ko.wikipedia.org/wiki/프랑스_배구_국가대표팀 "wikilink") 1그룹 결선 라운드에도 진출하였고 1그룹에서마저 우승하는 기염을 토했다. 월드리그 **3그룹**에서는 [쿠바가](https://ko.wikipedia.org/wiki/쿠바_배구_국가대표팀 "wikilink") 2014년, [이집트가](https://ko.wikipedia.org/wiki/이집트_배구_국가대표팀 "wikilink") 2015년, [슬로베니아가](https://ko.wikipedia.org/wiki/슬로베니아_배구_국가대표팀 "wikilink") 2016년, [에스토니아가](https://ko.wikipedia.org/wiki/에스토니아_배구_국가대표팀 "wikilink") 2017년 우승하였다.
 
-#### [대한민국의](https://ko.wikipedia.org/wiki/대한민국_배구_국가대표팀 "wikilink") 월드리그 참가
+#### [대한민국의](../Page/대한민국_배구_국가대표팀.md "wikilink") 월드리그 참가
 
-[대한민국은](https://ko.wikipedia.org/wiki/대한민국_배구_국가대표팀 "wikilink") 1991년부터 월드리그에 참가하여, 2017년까지 월드리그에 총 19회 참가하였다. 이는 전체 참가국들을 기준으로 12위에 해당하는 월드리그 출전 기록이다. [대한민국은](https://ko.wikipedia.org/wiki/대한민국_배구_국가대표팀 "wikilink") 1995년 월드리그에서 최초로 [리우데자네이루](../Page/리우데자네이루.md "wikilink")에서 개최된 결선 라운드에 진출하였다. 현재 [대한민국은](https://ko.wikipedia.org/wiki/대한민국_배구_국가대표팀 "wikilink") 2그룹에 소속되어 있다.
+[대한민국은](../Page/대한민국_배구_국가대표팀.md "wikilink") 1991년부터 월드리그에 참가하여, 2017년까지 월드리그에 총 19회 참가하였다. 이는 전체 참가국들을 기준으로 12위에 해당하는 월드리그 출전 기록이다. [대한민국은](../Page/대한민국_배구_국가대표팀.md "wikilink") 1995년 월드리그에서 최초로 [리우데자네이루](../Page/리우데자네이루.md "wikilink")에서 개최된 결선 라운드에 진출하였다. 현재 [대한민국은](../Page/대한민국_배구_국가대표팀.md "wikilink") 2그룹에 소속되어 있다.
 
 ## 대회 형식
 

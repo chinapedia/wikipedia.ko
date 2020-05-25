@@ -123,7 +123,7 @@ JYP Publishing문서에 대한 출처:<http://www.jyppub.com/about>
   - [이기혁](../Page/이기혁_\(배우\).md "wikilink")
   - [남성준](../Page/남성준.md "wikilink")
   - [김유안](../Page/김유안.md "wikilink")
-  - [장동주](https://ko.wikipedia.org/wiki/장동주 "wikilink")
+  - [장동주](../Page/장동주.md "wikilink")
   - [전소미](../Page/전소미.md "wikilink")
   - [우진](../Page/우진_\(가수\).md "wikilink") : 전 [스트레이 키즈](../Page/스트레이_키즈.md "wikilink") 멤버
   - [옥택연](https://ko.wikipedia.org/wiki/옥택연 "wikilink") : 현 [2PM](https://ko.wikipedia.org/wiki/2PM "wikilink") 멤버

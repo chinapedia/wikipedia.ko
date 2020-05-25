@@ -5,12 +5,12 @@
 
 ## 연혁
 
-  - 1933년 12월 1일: [일본](../Page/일본.md "wikilink") [도야마현](../Page/도야마현.md "wikilink") [다카오카 시에서](https://ko.wikipedia.org/wiki/다카오카_시 "wikilink") 출생
+  - 1933년 12월 1일: [일본](../Page/일본.md "wikilink") [도야마현](../Page/도야마현.md "wikilink") [다카오카시](../Page/다카오카시.md "wikilink")에서 출생
   - 타카오카 공예고등학교 전기과를 졸업
   - 1951년: 소학생신문에서 《천사 타마짱》으로 데뷔, [아비코 모토오](https://ko.wikipedia.org/wiki/후지코_후지오_A "wikilink")(安孫子素雄)와 **후지코 후지오**라는 공동 필명으로 콤비 결성
   - 1988년: 콤비 해체 후 **후지코 후지오 Ⓕ**라는 이름으로 활동을 시작
   - 1989년: **후지코 F. 후지오**로 필명 변경
-  - 1996년: [도쿄도](../Page/도쿄도.md "wikilink") [신주쿠 구에서](https://ko.wikipedia.org/wiki/신주쿠_구 "wikilink") [간부전](../Page/간부전.md "wikilink")으로 사망\[1\]
+  - 1996년: [도쿄도](../Page/도쿄도.md "wikilink") [신주쿠구](../Page/신주쿠구.md "wikilink")에서 [간부전](../Page/간부전.md "wikilink")으로 사망\[1\]
 
 ## 주요 작품
 

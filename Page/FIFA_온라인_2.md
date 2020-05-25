@@ -66,7 +66,7 @@
   -
   -
   -
-[분류:2007년 비디오 게임](https://ko.wikipedia.org/wiki/분류:2007년_비디오_게임 "wikilink") [분류:다중 사용자 온라인 게임](https://ko.wikipedia.org/wiki/분류:다중_사용자_온라인_게임 "wikilink") [분류:FIFA 게임 시리즈](https://ko.wikipedia.org/wiki/분류:FIFA_게임_시리즈 "wikilink") [분류:E스포츠 게임](https://ko.wikipedia.org/wiki/분류:E스포츠_게임 "wikilink") [분류:윈도우 게임](https://ko.wikipedia.org/wiki/분류:윈도우_게임 "wikilink") [분류:축구 게임](https://ko.wikipedia.org/wiki/분류:축구_게임 "wikilink") [분류:스포츠 게임](https://ko.wikipedia.org/wiki/분류:스포츠_게임 "wikilink") [분류:네오위즈 게임즈의 게임](https://ko.wikipedia.org/wiki/분류:네오위즈_게임즈의_게임 "wikilink") [분류:서비스가 종료된 온라인 게임](https://ko.wikipedia.org/wiki/분류:서비스가_종료된_온라인_게임 "wikilink")
+[분류:2007년 비디오 게임](https://ko.wikipedia.org/wiki/분류:2007년_비디오_게임 "wikilink") [분류:다중 사용자 온라인 게임](https://ko.wikipedia.org/wiki/분류:다중_사용자_온라인_게임 "wikilink") [분류:FIFA (비디오 게임 시리즈)](https://ko.wikipedia.org/wiki/분류:FIFA_\(비디오_게임_시리즈\) "wikilink") [분류:E스포츠 게임](https://ko.wikipedia.org/wiki/분류:E스포츠_게임 "wikilink") [분류:윈도우 게임](https://ko.wikipedia.org/wiki/분류:윈도우_게임 "wikilink") [분류:축구 게임](https://ko.wikipedia.org/wiki/분류:축구_게임 "wikilink") [분류:스포츠 게임](https://ko.wikipedia.org/wiki/분류:스포츠_게임 "wikilink") [분류:네오위즈 게임즈의 게임](https://ko.wikipedia.org/wiki/분류:네오위즈_게임즈의_게임 "wikilink") [분류:서비스가 종료된 온라인 게임](https://ko.wikipedia.org/wiki/분류:서비스가_종료된_온라인_게임 "wikilink")
 
 1.
 2.

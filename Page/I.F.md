@@ -62,7 +62,7 @@ Bizniz는 2002년 *MP Hiphop Project 2002 풍류* 앨범에 *Ill Combiantion*, *
 
 ### 넋업샨
 
-넋업샨은 기계치 시절부터 *1999 대한민국* 앨범의 *창* 이란 곡을 통해 자신의 랩을 선보인 바 있다. Infinite Flow의 결성 이후에는 **이밀라국거리**라는 이름으로 Infinite Flow와 그 외 다른 많은 아티스트들의 앨범에 비트를 제공하였다. 또 [각나그네](https://ko.wikipedia.org/wiki/각나그네 "wikilink"), Cubic 등과 함께 크루 Nu Soul Classic을 결성하였으며, 그중에서도 각나그네 (현재 Superman Ivy)와는 **Napow**라는 팀을 결성하여 앨범을 한때 작업하기도 하였다. Napow의 작업물 중에 가장 유명한 곡은 DJ Soulscape의 비트에 참여한 *꿈의 여정* 이다. 이외에도 [Defconn과](../Page/데프콘_\(가수\).md "wikilink") 함께한 *빌리진* 부터 2008년 나온 DJ Juice의 *Street Dream*까지, 그가 I.F. 외에 참여한 작업물은 매우 많다. 현재도 그는 Minos 등과 함께 **Speaking Trumpet**이라는 집단을 만들어 활동을 하고 있으며, [강산여울](https://ko.wikipedia.org/wiki/강산여울 "wikilink")이라는 래퍼와 함께 공연을 하는 등 솔로 활동을 활발하게 펼치기도 하였다. 현재 그는 [Soul Dive의](https://ko.wikipedia.org/wiki/소울_다이브 "wikilink") 멤버로 활동 중이다.
+넋업샨은 기계치 시절부터 *1999 대한민국* 앨범의 *창* 이란 곡을 통해 자신의 랩을 선보인 바 있다. Infinite Flow의 결성 이후에는 **이밀라국거리**라는 이름으로 Infinite Flow와 그 외 다른 많은 아티스트들의 앨범에 비트를 제공하였다. 또 [각나그네](https://ko.wikipedia.org/wiki/각나그네 "wikilink"), Cubic 등과 함께 크루 Nu Soul Classic을 결성하였으며, 그중에서도 각나그네 (현재 Superman Ivy)와는 **Napow**라는 팀을 결성하여 앨범을 한때 작업하기도 하였다. Napow의 작업물 중에 가장 유명한 곡은 DJ Soulscape의 비트에 참여한 *꿈의 여정*이다. 이외에도 [Defconn과](../Page/데프콘_\(가수\).md "wikilink") 함께한 *빌리진* 부터 2008년 나온 DJ Juice의 *Street Dream*까지, 그가 I.F. 외에 참여한 작업물은 매우 많다. 현재도 그는 Minos 등과 함께 **Speaking Trumpet**이라는 집단을 만들어 활동을 하고 있으며, [강산여울](https://ko.wikipedia.org/wiki/강산여울 "wikilink")이라는 래퍼와 함께 공연을 하는 등 솔로 활동을 활발하게 펼치기도 하였다. 현재 그는 [Soul Dive의](https://ko.wikipedia.org/wiki/소울_다이브 "wikilink") 멤버로 활동 중이다.
 
 ## 불화
 

@@ -44,7 +44,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>오비히로·구시로·아바시리 에리어 전역과 그 이외 4에리어 일부 지역에서는 시청 불가.단, <a href="https://ko.wikipedia.org/wiki/오비히로_시" title="wikilink">오비히로 시</a>, <a href="https://ko.wikipedia.org/wiki/구시로_시" title="wikilink">구시로 시</a> 및 <a href="../Page/아오모리현.md" title="wikilink">아오모리현</a> <a href="https://ko.wikipedia.org/wiki/아오모리_시" title="wikilink">아오모리 시에서는</a> 케이블 텔레비전에 의한 재발송신으로 수신이 가능하며 아오모리 현 <a href="https://ko.wikipedia.org/wiki/쓰가루_해협" title="wikilink">쓰가루 해협</a> 주변 일부 지역에서도 직접 수신이 가능하다.<br />
+<td><p>오비히로·구시로·아바시리 에리어 전역과 그 이외 4에리어 일부 지역에서는 시청 불가.단, <a href="../Page/오비히로시.md" title="wikilink">오비히로시</a>, <a href="../Page/구시로시.md" title="wikilink">구시로시</a> 및 <a href="../Page/아오모리현.md" title="wikilink">아오모리현</a> <a href="../Page/아오모리시.md" title="wikilink">아오모리시</a>에서는 케이블 텔레비전에 의한 재발송신으로 수신이 가능하며 아오모리 현 <a href="https://ko.wikipedia.org/wiki/쓰가루_해협" title="wikilink">쓰가루 해협</a> 주변 일부 지역에서도 직접 수신이 가능하다.<br />
 디지털화나 CS방송 실시를 통한 도내 전역 커버 계획이 있지만 실현 여부는 아직도 불투명하다. 실현되면 TXN 계열국 중에서는 가장 큰 방송구역을 가지게 되며 방송을 송출하지 않는 지역에도 취재 거점으로 분실이 존재한다.</p></td>
 <td></td>
 <td></td>
@@ -70,7 +70,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/주부_지방.md" title="wikilink">주쿄 광역권</a> 세대수 중 93%, 나가노 현 난신 지방, 시즈오카 현 서부 지방 그리고 <a href="../Page/시가현.md" title="wikilink">시가현</a> <a href="https://ko.wikipedia.org/wiki/마이바라_시" title="wikilink">마이바라 시</a>·<a href="https://ko.wikipedia.org/wiki/나가하마_시" title="wikilink">나가하마 시</a> 주변 일부 지역에서도 시청 가능. <a href="../Page/2007년.md" title="wikilink">2007년</a>, <a href="../Page/시즈오카현.md" title="wikilink">시즈오카현</a> 진출계획이 등장하였는데 TV 아이치의 방송구역 확대를 통한 진출방법도 고려되고 있다.</p></td>
+<td><p><a href="../Page/주부_지방.md" title="wikilink">주쿄 광역권</a> 세대수 중 93%, 나가노 현 난신 지방, 시즈오카 현 서부 지방 그리고 <a href="../Page/시가현.md" title="wikilink">시가현</a> <a href="../Page/마이바라시.md" title="wikilink">마이바라시</a>·<a href="../Page/나가하마시.md" title="wikilink">나가하마시</a> 주변 일부 지역에서도 시청 가능. <a href="../Page/2007년.md" title="wikilink">2007년</a>, <a href="../Page/시즈오카현.md" title="wikilink">시즈오카현</a> 진출계획이 등장하였는데 TV 아이치의 방송구역 확대를 통한 진출방법도 고려되고 있다.</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -82,7 +82,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/효고현.md" title="wikilink">효고현</a> 대부분 지역(일부 지역은 <a href="../Page/TV_세토우치.md" title="wikilink">TV 세토우치로</a> 시청 가능.), <a href="../Page/교토부.md" title="wikilink">교토부</a>·<a href="../Page/나라현.md" title="wikilink">나라현</a>·<a href="../Page/도쿠시마현.md" title="wikilink">도쿠시마현</a> 일부 지역에서는 시청이 가능하다. 다만 가가와 현 지역의 경우 같은 계열국인 <a href="../Page/TV_세토우치.md" title="wikilink">TV 세토우치가</a> 19번으로 송출해서 시청하기 어렵다. 또한 시가 현 남부·<a href="../Page/와카야마현.md" title="wikilink">와카야마현</a> 북부·<a href="../Page/가가와현.md" title="wikilink">가가와현</a> <a href="https://ko.wikipedia.org/wiki/사누키_시" title="wikilink">사누키 시</a>·<a href="https://ko.wikipedia.org/wiki/히가시카가와_시" title="wikilink">히가시카가와 시</a> 주변의 극히 일부 지역에서 시청이 가능하다.</p></td>
+<td><p><a href="../Page/효고현.md" title="wikilink">효고현</a> 대부분 지역(일부 지역은 <a href="../Page/TV_세토우치.md" title="wikilink">TV 세토우치로</a> 시청 가능.), <a href="../Page/교토부.md" title="wikilink">교토부</a>·<a href="../Page/나라현.md" title="wikilink">나라현</a>·<a href="../Page/도쿠시마현.md" title="wikilink">도쿠시마현</a> 일부 지역에서는 시청이 가능하다. 다만 가가와 현 지역의 경우 같은 계열국인 <a href="../Page/TV_세토우치.md" title="wikilink">TV 세토우치가</a> 19번으로 송출해서 시청하기 어렵다. 또한 시가 현 남부·<a href="../Page/와카야마현.md" title="wikilink">와카야마현</a> 북부·<a href="../Page/가가와현.md" title="wikilink">가가와현</a> <a href="../Page/사누키시.md" title="wikilink">사누키시</a>·<a href="../Page/히가시카가와시.md" title="wikilink">히가시카가와시</a> 주변의 극히 일부 지역에서 시청이 가능하다.</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -275,7 +275,7 @@
 
 ### 네트워크 방송국 설립과 프로그램 판매
 
-  - 일본 전체에 방송되지 못하며 특히 [정령지정도시](../Page/정령지정도시.md "wikilink")가 있는 [미야기현](../Page/미야기현.md "wikilink"), [니가타현](../Page/니가타현.md "wikilink"), [시즈오카현](../Page/시즈오카현.md "wikilink"), [교토부](../Page/교토부.md "wikilink"), [효고현](../Page/효고현.md "wikilink"), [히로시마현](../Page/히로시마현.md "wikilink")에는 [TV 도쿄](../Page/TV_도쿄.md "wikilink") 계열국이 아직도 없으며 위의 6부현에 속하는 정령 지정 도시 중 [시즈오카 시](https://ko.wikipedia.org/wiki/시즈오카_시 "wikilink") 해안지역이나 현 경계 지역에서는 TV도쿄의 직접 수신 혹은 구역외 재발송신을, [교토 시](https://ko.wikipedia.org/wiki/교토_시 "wikilink") 서부·남부와 [고베 시](https://ko.wikipedia.org/wiki/고베_시 "wikilink") 동부에서는 "TV오사카"를 직접 수신 혹은 구역외 재발송신 할 수 있는 곳이 있지만, 그 이외의 지역에서는 TXN 계열국을 수신하기 어렵다.\[7\]
+  - 일본 전체에 방송되지 못하며 특히 [정령지정도시](../Page/정령지정도시.md "wikilink")가 있는 [미야기현](../Page/미야기현.md "wikilink"), [니가타현](../Page/니가타현.md "wikilink"), [시즈오카현](../Page/시즈오카현.md "wikilink"), [교토부](../Page/교토부.md "wikilink"), [효고현](../Page/효고현.md "wikilink"), [히로시마현](../Page/히로시마현.md "wikilink")에는 [TV 도쿄](../Page/TV_도쿄.md "wikilink") 계열국이 아직도 없으며 위의 6부현에 속하는 정령 지정 도시 중 [시즈오카시](../Page/시즈오카시.md "wikilink") 해안지역이나 현 경계 지역에서는 TV도쿄의 직접 수신 혹은 구역외 재발송신을, [교토시](../Page/교토시.md "wikilink") 서부·남부와 [고베시](../Page/고베시.md "wikilink") 동부에서는 "TV오사카"를 직접 수신 혹은 구역외 재발송신 할 수 있는 곳이 있지만, 그 이외의 지역에서는 TXN 계열국을 수신하기 어렵다.\[7\]
       - 이로 인해 계열국이 없는 지역에서 TV도쿄 계열 프로그램은 프로그램 판매에 의해 각지의 타계열 방송국에서 시간을 늦추어 방송되거나 [BS JAPAN을](https://ko.wikipedia.org/wiki/BS_JAPAN "wikilink") 통해 방송하고 있다.\[8\]
 
 ### 5부현 진출 계획
@@ -322,7 +322,7 @@
 4.  TXN 계열국에서는 뉴스 프로그램을 제작할때 독립 UHF 방송국에서 영상을 제공받는 경우가 있다(영상에는 〈협력(텔레비전국명)〉으로 표기)
 5.  참고로 타 방송국 중계차는 지상파용 안테나를 설치하고 있는 경우가 많다.
 6.  독립 UHF 방송국은 계열국이 아니기 때문에 소재를 제공할때마다“취재 협력비”를 내고 있다고 한다.
-7.  [센다이 시나](https://ko.wikipedia.org/wiki/센다이_시 "wikilink") [니가타 시에서는](https://ko.wikipedia.org/wiki/니가타_시 "wikilink") 현지 방송국과 TXN 계열국이 송신채널이 같으며 [센다이 시와](https://ko.wikipedia.org/wiki/센다이_시 "wikilink") [히로시마 시는](https://ko.wikipedia.org/wiki/히로시마_시 "wikilink") 계열국 소재지와 거리가 떨어져 있는 동시에 송신 채널이 같으며 케이블 재송신의 경우 현지 방송국과의 합의과 원할하지 않아서 방송하지 못하는 경우도 있다.
+7.  [센다이시](../Page/센다이시.md "wikilink")나 [니가타시](../Page/니가타시.md "wikilink")에서는 현지 방송국과 TXN 계열국이 송신채널이 같으며 [센다이시](../Page/센다이시.md "wikilink")와 [히로시마시](../Page/히로시마시.md "wikilink")는 계열국 소재지와 거리가 떨어져 있는 동시에 송신 채널이 같으며 케이블 재송신의 경우 현지 방송국과의 합의과 원할하지 않아서 방송하지 못하는 경우도 있다.
 8.  대부분의 프로그램은 시차를 두고 방송하지만 보도 프로그램이나 스포츠 중계 등 생방송 프로그램은 동시에 방송하는 것도 있으나 음악 프로그램 중 (특히)엔카 관련 프로그램은 여러가지 문제로 방송되지 않는 것도 있다.
 9.  TX의 도쿄 키 스테이션 및 미야케지마·하치죠지마 중계국은 VHF이므로 제외
 10. 본래 두 계열국에 배정된 채널은 그 지역의 독립 UHF국용 채널이었다고도 한다.

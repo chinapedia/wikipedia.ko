@@ -181,7 +181,7 @@
 | [보잉 767-200ER](../Page/보잉_767.md "wikilink")                            | [에어버스 A330으로](../Page/에어버스_A330.md "wikilink") 대체                    |
 | [BAe-146](../Page/브리티시_에어로스페이스_146.md "wikilink")                       | [보잉 737로](../Page/보잉_737.md "wikilink") 대체                           |
 | [BAC 원 일레븐](https://ko.wikipedia.org/wiki/BAC_원_일레븐 "wikilink")         | [보잉 737로](../Page/보잉_737.md "wikilink") 대체                           |
-| [더글러스 DC-3](https://ko.wikipedia.org/wiki/더글러스_DC-3 "wikilink")         | [보잉 737로](../Page/보잉_737.md "wikilink") 대체                           |
+| [더글러스 DC-3](../Page/더글러스_DC-3.md "wikilink")                            | [보잉 737로](../Page/보잉_737.md "wikilink") 대체                           |
 | [더글러스 DC-9-30](https://ko.wikipedia.org/wiki/더글러스_DC-9 "wikilink")      | [에어버스 A320으로](https://ko.wikipedia.org/wiki/에어버스_A320 "wikilink") 대체 |
 | [포커 28](https://ko.wikipedia.org/wiki/포커_28 "wikilink")                 | [보잉 737로](../Page/보잉_737.md "wikilink") 대체                           |
 | [포커 100](../Page/포커_100.md "wikilink")                                  | [에어버스 A320으로](https://ko.wikipedia.org/wiki/에어버스_A320 "wikilink") 대체 |

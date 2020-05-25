@@ -89,7 +89,7 @@
 | 68  | [3월 28일](../Page/3월_28일.md "wikilink")   | [김강자](../Page/김강자.md "wikilink") 서장                      | 최초의 여성 경찰서장                                             | 김철진 |
 | 69  | [4월 4일](../Page/4월_4일.md "wikilink")     | 강우방 관장                                                   | [국립경주박물관](../Page/국립경주박물관.md "wikilink")                | 한흥석 |
 | 70  | [4월 11일](../Page/4월_11일.md "wikilink")   | 이영혜 사장                                                   | ㈜ 디자인하우스                                                | 이여춘 |
-| 71  | [4월 18일](../Page/4월_18일.md "wikilink")   | [김수정](https://ko.wikipedia.org/wiki/김수정 "wikilink") 만화가  | [둘리나라](https://ko.wikipedia.org/wiki/둘리나라 "wikilink")   | 오상광 |
+| 71  | [4월 18일](../Page/4월_18일.md "wikilink")   | [김수정](../Page/김수정.md "wikilink") 만화가                     | [둘리나라](https://ko.wikipedia.org/wiki/둘리나라 "wikilink")   | 오상광 |
 | 72  | [4월 25일](../Page/4월_25일.md "wikilink")   | 이익섭 맹인 교수                                                | [연세대학교](https://ko.wikipedia.org/wiki/연세대학교 "wikilink") | 이선태 |
 | 73  | [5월 2일](../Page/5월_2일.md "wikilink")     | [조정래](../Page/조정래.md "wikilink")                         | 소설가                                                     | 김철진 |
 | 74  | [5월 9일](../Page/5월_9일.md "wikilink")     | 원종윤 사장                                                   | 인성정보                                                    | 한흥석 |
@@ -243,7 +243,7 @@
 
   - [다큐멘터리 성공시대 다시보기](http://www.imbc.com/broad/tv/culture/success/index.html) - VOD 제공 및 다시보기
 
-[분류:2001년 폐지](https://ko.wikipedia.org/wiki/분류:2001년_폐지 "wikilink") [분류:문화방송의 시사교양 프로그램](https://ko.wikipedia.org/wiki/분류:문화방송의_시사교양_프로그램 "wikilink") [분류:1990년대 대한민국의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:1990년대_대한민국의_텔레비전_프로그램 "wikilink") [분류:2000년대 대한민국의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:2000년대_대한민국의_텔레비전_프로그램 "wikilink")
+[분류:1997년에 시작한 대한민국 TV 프로그램](https://ko.wikipedia.org/wiki/분류:1997년에_시작한_대한민국_TV_프로그램 "wikilink") [분류:2001년에 종료한 대한민국 TV 프로그램](https://ko.wikipedia.org/wiki/분류:2001년에_종료한_대한민국_TV_프로그램 "wikilink") [분류:문화방송의 시사교양 프로그램](https://ko.wikipedia.org/wiki/분류:문화방송의_시사교양_프로그램 "wikilink") [분류:1990년대 대한민국의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:1990년대_대한민국의_텔레비전_프로그램 "wikilink") [분류:2000년대 대한민국의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:2000년대_대한민국의_텔레비전_프로그램 "wikilink")
 
 1.
 2.

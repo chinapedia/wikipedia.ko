@@ -148,7 +148,7 @@
   - [송이야 놀자](https://ko.wikipedia.org/wiki/송이야_놀자 "wikilink")
   - [샐리의 그림일기](https://ko.wikipedia.org/wiki/:en:Sali_Mali "wikilink")
   - [신비아파트 444호](../Page/신비아파트_444호.md "wikilink")
-  - [신비아파트: 고스트 볼의 비밀](https://ko.wikipedia.org/wiki/신비아파트:_고스트_볼의_비밀 "wikilink")
+  - [신비아파트: 고스트 볼의 비밀](../Page/신비아파트:_고스트_볼의_비밀.md "wikilink")
   - [스낵월드](../Page/스낵월드.md "wikilink")
 
 ### ㅇ

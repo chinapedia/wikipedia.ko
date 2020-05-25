@@ -37,7 +37,7 @@
 
   - [비와호방송](https://ko.wikipedia.org/wiki/비와호방송 "wikilink")(독립 텔레비전 방송국)
   - [FM시가](https://ko.wikipedia.org/wiki/FM시가 "wikilink")([JFN](../Page/JFN.md "wikilink") 계열)
-  - [KBS 시가](../Page/교토_방송.md "wikilink")(교토 방송의 지국으로 라디오만 방송하고 있고 [NRN](../Page/NRN.md "wikilink") 계열이며 [히코네 시에](https://ko.wikipedia.org/wiki/히코네_시 "wikilink") 본사소재.)
+  - [KBS 시가](../Page/교토_방송.md "wikilink")(교토 방송의 지국으로 라디오만 방송하고 있고 [NRN](../Page/NRN.md "wikilink") 계열이며 [히코네시](../Page/히코네시.md "wikilink")에 본사소재.)
 
 ## 외부 링크
 

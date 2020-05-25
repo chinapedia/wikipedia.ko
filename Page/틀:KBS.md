@@ -24,7 +24,6 @@
 
 |묶음6=자회사 |내용6=
 
-  - [KBS N](https://ko.wikipedia.org/wiki/KBS_N "wikilink")
   - [KBS 미디어](../Page/KBS_미디어.md "wikilink")
   - KBS 아트비전
   - [KBS 비즈니스](https://ko.wikipedia.org/wiki/KBS_비즈니스 "wikilink")([KBS스포츠월드](../Page/KBS스포츠월드.md "wikilink"))
@@ -107,7 +106,7 @@
 
 ## 같이 보기
 
-  - [틀:EBS](https://ko.wikipedia.org/wiki/틀:EBS "wikilink")
+  - [틀:EBS](../Page/틀:EBS.md "wikilink")
   - [틀:MBC](../Page/틀:MBC.md "wikilink")
   - [틀:SBS](../Page/틀:SBS.md "wikilink")
   - [틀:대한민국의 민영 방송사](https://ko.wikipedia.org/wiki/틀:대한민국의_민영_방송사 "wikilink")

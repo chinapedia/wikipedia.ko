@@ -110,7 +110,7 @@
 23. Nabi 23권 - [2017년](../Page/2017년.md "wikilink") [9월 26일](../Page/9월_26일.md "wikilink") ()
 24. Nabi 24권 - [2018년](../Page/2018년.md "wikilink") [5월 23일](../Page/5월_23일.md "wikilink") ()
 
-## 함께 보기
+## 같이 보기
 
   - [김연주](../Page/김연주_\(만화가\).md "wikilink")
   - [소녀왕](../Page/소녀왕.md "wikilink")

@@ -46,7 +46,7 @@ arXiv에 있는 파일들은 [저작권](../Page/저작권.md "wikilink")과 관
 3.  몇몇은 출판자에게 저작권이 있지만 저자가 배포권이 있고 arXiv에게도 무제한적이고 번복되지 않는 배포권이 주어져 있다.
 4.  대부분은 저자가 저작권을 가지고 arXiv는 무제한적이고 번복되지 않는 배포권만을 가지고 있다.\[14\]
 
-## 함께보기
+## 같이 보기
 
   - [EOM](https://ko.wikipedia.org/wiki/EOM "wikilink")
   - [매스월드](../Page/매스월드.md "wikilink")

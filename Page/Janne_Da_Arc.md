@@ -9,7 +9,7 @@
 
 <!-- end list -->
 
-  - 보컬이자 리더. 1975년 1월 27일생. A형. [오사카부](../Page/오사카부.md "wikilink") [히라카타 시](https://ko.wikipedia.org/wiki/히라카타_시 "wikilink") 출생. 본명 하야시 야스노리(林保德).
+  - 보컬이자 리더. 1975년 1월 27일생. A형. [오사카부](../Page/오사카부.md "wikilink") [히라카타시](../Page/히라카타시.md "wikilink") 출생. 본명 하야시 야스노리(林保德).
   - 영향을 받은 아티스트는 DEAD END, [BOOWY](https://ko.wikipedia.org/wiki/보위 "wikilink")(보위)이다.
   - Janne Da Arc의 싱글곡 작사·작곡은 대부분 야스가 담당하고 있다. (다른 멤버들도 커플링곡이나 앨범곡에 작사·작곡을 담당한다)
   - 중학교시절, 카유와 밴드를 만들 때까지는 만화가가 꿈이였다. 그림체는 [드래곤 볼의](https://ko.wikipedia.org/wiki/드래곤_볼 "wikilink") 토리야마 아키라풍의 작화였다고 한다.
@@ -22,7 +22,7 @@
 
 <!-- end list -->
 
-  - [기타 연주자](../Page/기타_연주자.md "wikilink"). 1974년 7월 24일생. O형. [효고현](../Page/효고현.md "wikilink") [고베 시](https://ko.wikipedia.org/wiki/고베_시 "wikilink") 출생. 본명 쓰다 유타카(津田豊).
+  - [기타 연주자](../Page/기타_연주자.md "wikilink"). 1974년 7월 24일생. O형. [효고현](../Page/효고현.md "wikilink") [고베시](../Page/고베시.md "wikilink") 출생. 본명 쓰다 유타카(津田豊).
   - 공연 중에 썰렁한 개그를 하는 경우가 종종 있다고 한다. 또 루팡시리즈를 좋아하는 듯하다.
   - 그다지 눈에 띄고 싶어하지 않는 성격. 실제로 초기 잔다르크 활동 때에도 화장을 짙게 분장 하는 것에 저항감을 가지고 있었다.
   - 영향을 받은 아티스트는 [유니콘과](https://ko.wikipedia.org/wiki/유니콘_\(밴드\) "wikilink") 기타리스트 **[누노 베텐코트](https://ko.wikipedia.org/wiki/익스트림 "wikilink")**. **누노 베텐코트**와 'UDO MUSIC FESTIVAL 2006'에서 같이 공연하기도 했다.

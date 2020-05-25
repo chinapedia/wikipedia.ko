@@ -434,4 +434,4 @@ conjure one - redemption(max graham's dead sea mix)
 </tbody>
 </table>
 
-[사운드트랙](https://ko.wikipedia.org/wiki/분류:FIFA_게임_시리즈 "wikilink") [분류:게임 음악](https://ko.wikipedia.org/wiki/분류:게임_음악 "wikilink") [분류:음악에 관한 목록](https://ko.wikipedia.org/wiki/분류:음악에_관한_목록 "wikilink")
+[사운드트랙](https://ko.wikipedia.org/wiki/분류:FIFA_\(비디오_게임_시리즈\) "wikilink") [분류:비디오 게임 음악](https://ko.wikipedia.org/wiki/분류:비디오_게임_음악 "wikilink") [분류:음악에 관한 목록](https://ko.wikipedia.org/wiki/분류:음악에_관한_목록 "wikilink")

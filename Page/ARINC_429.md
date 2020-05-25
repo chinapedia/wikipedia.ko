@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ARINC 429](https://ko.wikipedia.org/wiki/ARINC_429).
 
 
-**[ARINC](../Page/ARINC.md "wikilink") 429**는 항공전자 시스템을 위한 데이터 포맷이다. 제공되는 것은 기본적인 기능을 기술하고, 항공기 디지털 정보 시스템을 위한 인터페이스가 있다. ARINC 429는 오늘날 가장 사용량이 많은 [데이터 버스이다](https://ko.wikipedia.org/wiki/데이터_버스 "wikilink").
+**[ARINC](../Page/ARINC.md "wikilink") 429**\[1\]는 항공전자 시스템을 위한 데이터 포맷이다. 제공되는 것은 기본적인 기능을 기술하고, 항공기 디지털 정보 시스템을 위한 인터페이스가 있다. ARINC 429는 오늘날 가장 사용량이 많은 [데이터 버스이다](https://ko.wikipedia.org/wiki/데이터_버스 "wikilink").
 
 ## 기술적인 기술
 
@@ -39,6 +39,8 @@ ARINC 429는 두 개의 와이어로 구성된 데이터 버스가 있는데 상
 
   - ARINC 429는 [ARINC 708](https://ko.wikipedia.org/wiki/ARINC_708 "wikilink") [기후 레이다](https://ko.wikipedia.org/wiki/기후_레이다 "wikilink") 시스템에 사용된다.
 
+## 각주
+
 ## 외부 링크
 
 규격서
@@ -58,3 +60,5 @@ ARINC 429는 두 개의 와이어로 구성된 데이터 버스가 있는데 상
   - [ARINC 429 Tutorial](https://web.archive.org/web/20081120000832/http://www.gefanucembedded.com/news-events/whitepapers/1956/AFC-WIK) by Condor Engineering, Now part of GE Fanuc Embedded Systems (registration required)
 
 [분류:직렬 버스](https://ko.wikipedia.org/wiki/분류:직렬_버스 "wikilink") [분류:ARINC](https://ko.wikipedia.org/wiki/분류:ARINC "wikilink") [분류:표준](https://ko.wikipedia.org/wiki/분류:표준 "wikilink")
+
+1.

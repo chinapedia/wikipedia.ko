@@ -5,7 +5,7 @@
 
 본래는 [자바스크립트](../Page/자바스크립트.md "wikilink") 언어로부터 파생되어 [자바스크립트](../Page/자바스크립트.md "wikilink")의 구문 형식을 따르지만 언어 독립형 데이터 포맷이다. 즉, [프로그래밍 언어나](../Page/프로그래밍_언어.md "wikilink") [플랫폼에](../Page/컴퓨팅_플랫폼.md "wikilink") 독립적이므로, [구문 분석](../Page/구문_분석.md "wikilink") 및 JSON 데이터 생성을 위한 코드는 [C](../Page/C_\(프로그래밍_언어\).md "wikilink"), [C++](https://ko.wikipedia.org/wiki/C++ "wikilink"), [C\#](../Page/C_샤프.md "wikilink"), [자바](../Page/자바_\(프로그래밍_언어\).md "wikilink"), [자바스크립트](../Page/자바스크립트.md "wikilink"), [펄](../Page/펄.md "wikilink"), [파이썬](../Page/파이썬.md "wikilink") 등 수많은 [프로그래밍 언어에서](../Page/프로그래밍_언어.md "wikilink") 쉽게 이용할 수 있다.
 
-JSON 포맷은 본래 [더글라스 크록포드가](https://ko.wikipedia.org/wiki/더글라스_크록포드 "wikilink") 규정하였다. RFC 7159와 ECMA-404 그리고 ISO/IEC 21778:2017\[2\] 표준에 의해 기술되고 있다. KS 부합화 표준은 아직 제정되지 않았으며, TTA 협회 표준명은 [TTAE.OT-10.0394](http://committee.tta.or.kr/data/standard_view.jsp?commit_code=STC2&firstDepthCode=STC2&pk_num=TTAE.OT-10.0394&nowSu=1) 이다. ECMA 표준과 ISO/IEC 표준은 문법만 정의할 정도로 최소한으로만 정의되어 있는 반면 RFC는 시맨틱, 보안적 고려 사항을 일부 제공 한다.\[3\] JSON의 공식 인터넷 미디어 타입은 `application/json`이며, JSON의 파일 확장자는 `.json`이다.
+JSON 포맷은 본래 [더글라스 크록포드가](https://ko.wikipedia.org/wiki/더글라스_크록포드 "wikilink") 규정하였다. RFC 7159와 ECMA-404 그리고 ISO/IEC 21778:2017\[2\] 표준에 의해 기술되고 있다. KS 부합화 표준은 아직 제정되지 않았으며, TTA 협회 표준명은 [TTAE.OT-10.0394](http://committee.tta.or.kr/data/standard_view.jsp?commit_code=STC2&firstDepthCode=STC2&pk_num=TTAE.OT-10.0394&nowSu=1)이다. ECMA 표준과 ISO/IEC 표준은 문법만 정의할 정도로 최소한으로만 정의되어 있는 반면 RFC는 시맨틱, 보안적 고려 사항을 일부 제공 한다.\[3\] JSON의 공식 인터넷 미디어 타입은 `application/json`이며, JSON의 파일 확장자는 `.json`이다.
 
 ## 역사
 

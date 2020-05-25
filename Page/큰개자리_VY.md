@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [큰개자리 VY](https://ko.wikipedia.org/wiki/큰개자리_VY).
 
 
-**큰개자리 VY**(VY Canis Majoris, VY CMa)는 [큰개자리](../Page/큰개자리.md "wikilink")에 있는 [항성](https://ko.wikipedia.org/wiki/항성 "wikilink")이다. 이 별은 19세기 초 [제롬 랄랑드의](../Page/제롬_랄랑드.md "wikilink") 성표에 처음으로 등장한 이래 주목받아 온 천체이다. 현 시점에서 이 별은 물리적 부피가 매우 큰 항성의 반열에 들어가며 한때 관측사상 가장 거대한 것으로 인정받기도 했다. 그 반지름은 태양의 최소 1300배 \~ 최대 1540배(평균 1420배, 13.2 [천문단위](../Page/천문단위.md "wikilink"), 19억 7664만 킬로미터)이다. 지구로부터 약 3900 광년 떨어져 있다.
+**큰개자리 VY**(VY Canis Majoris, VY CMa)는 [큰개자리](../Page/큰개자리.md "wikilink")에 있는 [항성](https://ko.wikipedia.org/wiki/항성 "wikilink")이다. 이 별은 19세기 초 [제롬 랄랑드의](../Page/제롬_랄랑드.md "wikilink") 성표에 처음으로 등장한 이래 주목받아 온 천체이다. 현 시점에서 이 별은 물리적 부피가 매우 큰 항성의 반열에 들어가며 한때 관측사상 가장 거대한 것으로 인정받기도 했다. 그 반지름은 태양의 최소 1300배 \~ 최대 1540배(평균 1420배, 6.6 [천문단위](../Page/천문단위.md "wikilink"), 9억 8789만 킬로미터)이다. 지구로부터 약 3900 광년 떨어져 있다.
 
 ## 관측 역사
 

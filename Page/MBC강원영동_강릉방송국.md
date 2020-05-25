@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [MBC강원영동 강릉방송국](https://ko.wikipedia.org/wiki/MBC강원영동_강릉방송국).
 
 
-**MBC강원영동 강릉방송국**(MBC江原嶺東江陵放送局)은 영동 중북부지역을 가시청권으로 하는 TV·라디오 방송국으로, [1968년](../Page/1968년.md "wikilink") [6월 22일에](../Page/6월_22일.md "wikilink") 개국하였다. 본사는 [강원도](https://ko.wikipedia.org/wiki/강원도_\(남\) "wikilink") [강릉시](https://ko.wikipedia.org/wiki/강릉시 "wikilink") 포남동에 위치해 있으며, 1988년 포남동 신사옥으로 이전했다. [2014년](../Page/2014년.md "wikilink") [2월 19일](../Page/2월_19일.md "wikilink") [삼척문화방송](https://ko.wikipedia.org/wiki/삼척문화방송 "wikilink")과의 통합이 확정되어, 2015년 1월 1일부터 MBC 강원영동으로 출범함에 따라 MBC강원영동 강릉방송국이 되었다.
+**MBC강원영동 강릉방송국**(MBC江原嶺東 江陵放送局)은 영동 중북부지역을 가시청권으로 하는 TV·라디오 방송국으로, [1968년](../Page/1968년.md "wikilink") [6월 22일에](../Page/6월_22일.md "wikilink") 개국하였다. 본사는 [강원도](https://ko.wikipedia.org/wiki/강원도_\(남\) "wikilink") [강릉시](https://ko.wikipedia.org/wiki/강릉시 "wikilink") 포남동에 위치해 있으며, 1988년 12월 17일에 포남동 신사옥으로 이전했다. [2014년](../Page/2014년.md "wikilink") [2월 19일](../Page/2월_19일.md "wikilink") [삼척문화방송과의](../Page/MBC강원영동_삼척방송국.md "wikilink") 통합이 확정되어, 2015년 1월 1일부터 MBC 강원영동으로 출범함에 따라 MBC강원영동 강릉방송국이 되었다.
 
 ## 본사·지사 소재지
 
@@ -13,7 +13,7 @@
 
 <!-- end list -->
 
-  - 속초지사
+  - 속초사무소
 
 <!-- end list -->
 
@@ -32,7 +32,7 @@
 
   - [1983년](../Page/1983년.md "wikilink") [10월 17일](../Page/10월_17일.md "wikilink") : TV중계소 개소 (UHF CH 31, 출력 10㎾)
   - [1984년](../Page/1984년.md "wikilink") [12월 29일](../Page/12월_29일.md "wikilink") : TV방송 허가
-  - [1985년](../Page/1985년.md "wikilink") [6월 22일](../Page/6월_22일.md "wikilink") : FM방송 개국
+  - [1985년](../Page/1985년.md "wikilink") [6월 22일](../Page/6월_22일.md "wikilink") : FM방송 개국 (FM 94.3㎒)
   - [1985년](../Page/1985년.md "wikilink") [9월 6일](../Page/9월_6일.md "wikilink") : TV방송 개국
   - [1986년](../Page/1986년.md "wikilink") [2월 23일](../Page/2월_23일.md "wikilink") : 속초TV중계소 개국 (CH 23, 출력 100W)
   - [1986년](../Page/1986년.md "wikilink") [12월 17일](../Page/12월_17일.md "wikilink") : 양양TV중계소(CH 33, 출력 100W), 옥계TV중계소(CH 41, 출력 100W) 개국
@@ -74,18 +74,18 @@
 <table>
 <thead>
 <tr class="header">
-<th><p><a href="../Page/930_MBC_뉴스.md" title="wikilink">930 MBC 뉴스 강원영동</a></p></th>
+<th><p><a href="../Page/930_MBC_뉴스.md" title="wikilink">930 MBC 뉴스 강원</a></p></th>
 <th><p>월~금 10분</p></th>
 <th><p>월~금 오전 09:35 ~ 09:45</p></th>
-<th><p>민기원, 김서영</p></th>
+<th><p>민기원</p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="../Page/5_MBC_뉴스.md" title="wikilink">5 MBC 뉴스 강원영동</a></p></td>
+<td><p><a href="../Page/5_MBC_뉴스.md" title="wikilink">5 MBC 뉴스 강원</a></p></td>
 <td><p>월~금 10분</p></td>
 <td><p>월~금 오후 17:15 ~ 17:25</p></td>
-<td><p>민기원</p></td>
+<td><p>김현수</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/MBC_뉴스데스크.md" title="wikilink">MBC 뉴스데스크 강원</a></p></td>
@@ -95,7 +95,6 @@
 토 오후 20:20 ~ 20:35<br />
 일 오후 20:25 ~ 20:35</p></td>
 <td><p>성스리<br />
-대전 수중계<br />
 김인성</p></td>
 </tr>
 <tr class="odd">
@@ -173,34 +172,28 @@
 <td><p><a href="../Page/MBC_정오종합뉴스.md" title="wikilink">MBC 정오종합뉴스</a></p></td>
 <td><p>평일</p></td>
 <td><p>5분</p></td>
-<td><p>김현수</p></td>
+<td><p>민기원</p></td>
 </tr>
 <tr class="even">
 <td><p>MBC 15시 뉴스</p></td>
-<td></td>
+<td><p>김현수</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>MBC 17시 뉴스</p></td>
-<td><p>김효주</p></td>
+<td><p><a href="http://www.mbceg.co.kr/program/radio_02">라디오 가든</a></p></td>
+<td><p>115분</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="http://www.mbceg.co.kr/program/radio_02">라디오 가든</a></p></td>
-<td><p>115분</p></td>
-<td><p>김현수</p></td>
-<td></td>
-</tr>
-<tr class="odd">
 <td><p><a href="http://www.mbceg.co.kr/program/radio_03">라디오 동서남북<br />
 (MBC강원영동 삼척방송국)</a></p></td>
 <td><p>30분</p></td>
 <td><p>민기원</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -279,18 +272,14 @@
 
 \- 취재팀 -
 
-  - 국장 문병훈
-  - 국장 이형진
-  - 국장 박준기
   - 차장 홍한표
   - 차장 조규한
-  - 차장 김인성
   - 기자 이웅
 
 \- 속초지사 -
 
-  - 기자 이용철
-  - 기자 박은지
+  - 차장 박은지
+  - 기자 배연환
 
 ## 참조
 

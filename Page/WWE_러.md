@@ -444,10 +444,10 @@
   - [마이크 카넬리스](../Page/마이크_배넷.md "wikilink")
   - [모조 롤리](../Page/모조_롤리.md "wikilink")
   - [바비 래쉴리](../Page/보비_래슐리.md "wikilink")
-  - 바이킹 레이더스
+  - [바이킹 레이더스](https://ko.wikipedia.org/wiki/바이킹_레이더스 "wikilink")
       - 에릭
       - 이바르
-  - 버디 머피
+  - [버디 머피](https://ko.wikipedia.org/wiki/버디_머피 "wikilink")
   - [브록 레스너](../Page/브록_레스너.md "wikilink")
   - [사모아 조](../Page/사모아_조.md "wikilink")
   - [세드릭 알렉산더](https://ko.wikipedia.org/wiki/세드릭_알렉산더 "wikilink")

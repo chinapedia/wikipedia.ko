@@ -27,7 +27,7 @@ TrES의 행성 연구를 통하여 TrES-1b의 [공전 주기는](../Page/공전_
 
 이론적 모형에 의거하면 TrES-1b는 [이심률](https://ko.wikipedia.org/wiki/이심률 "wikilink")이 큰 궤도 때문에 어머니 항성으로부터 막대한 [조석열](https://ko.wikipedia.org/wiki/조석열 "wikilink")을 받는다. 그러나 이 열은 행성의 반지름을 늘려 놓을 정도로 뜨겁지는 않은 것으로 보인다.\[3\]
 
-## 함께 보기
+## 같이 보기
 
   - [페가수스자리 51 b](../Page/페가수스자리_51_b.md "wikilink")
   - [HD 209458 b](../Page/HD_209458_b.md "wikilink")

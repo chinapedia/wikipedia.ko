@@ -14,7 +14,7 @@
   - [월화드라마](https://ko.wikipedia.org/wiki/tvN_월화드라마 "wikilink") - [반의 반](https://ko.wikipedia.org/wiki/반의_반 "wikilink")
   - [수목드라마](https://ko.wikipedia.org/wiki/tvN_수목드라마 "wikilink") - [메모리스트](https://ko.wikipedia.org/wiki/메모리스트_\(드라마\) "wikilink")
   - [목요드라마](https://ko.wikipedia.org/wiki/tvN_수목드라마 "wikilink") - [슬기로운 의사생활](https://ko.wikipedia.org/wiki/슬기로운_의사생활 "wikilink")
-  - [토일드라마](https://ko.wikipedia.org/wiki/tvN_토일드라마 "wikilink") - [하이바이, 마마\!](https://ko.wikipedia.org/wiki/하이바이,_마마! "wikilink")
+  - [토일드라마](https://ko.wikipedia.org/wiki/tvN_토일드라마 "wikilink") - [화양연화 - 삶이 꽃이 되는 순간](https://ko.wikipedia.org/wiki/화양연화_-_삶이_꽃이_되는_순간 "wikilink")
 
 ### 예능
 

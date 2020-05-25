@@ -7,7 +7,7 @@
 
 ## SpeedyCake Remix
 
-게임 [포포탄](https://ko.wikipedia.org/wiki/포포탄 "wikilink")의 오프닝을 이용한 GIF애니메이션이 해외에서 큰 인기를 끌었었다. [2006년](../Page/2006년.md "wikilink") [8월](../Page/8월.md "wikilink") 음악 속도를 1.2배 빠르게 편집한 카라멜단센과 GIF이미지가 합쳐저 [hongfire.com](http://hongfire.com)에 업로드 되었으며, 곧바로 곡명과 아티스트의 정보에 관심을 가지는 사람들이 나타났다. 이에 따라 동영상 업로더는 원곡과 리믹스곡을 공개했는데, 리믹스곡의 파일명이 caramelldansen_speedycake였기 때문에 현재도 1.2배속의 카라멜단센을 이 이름으로 부르고 있다.
+게임 [포포탄](https://ko.wikipedia.org/wiki/포포탄 "wikilink")의 오프닝을 이용한 GIF애니메이션이 해외에서 큰 인기를 끌었었다. [2006년](../Page/2006년.md "wikilink") [8월](../Page/8월.md "wikilink") 음악 속도를 1.2배 빠르게 편집한 카라멜단센과 GIF이미지가 합쳐저 [hongfire.com](https://web.archive.org/web/20200412175251/http://www.hongfire.com/)에 업로드 되었으며, 곧바로 곡명과 아티스트의 정보에 관심을 가지는 사람들이 나타났다. 이에 따라 동영상 업로더는 원곡과 리믹스곡을 공개했는데, 리믹스곡의 파일명이 caramelldansen_speedycake였기 때문에 현재도 1.2배속의 카라멜단센을 이 이름으로 부르고 있다.
 
 ## 웃웃우마우마
 

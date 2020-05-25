@@ -5,7 +5,7 @@
 
 질량은 [목성](../Page/목성.md "wikilink")의 9.7배이며, 반지름은 목성의 1.13배이다. 이 행성은 [뜨거운 목성에](../Page/뜨거운_목성.md "wikilink") 속하면서도 질량이 크기 때문에 [슈퍼목성](https://ko.wikipedia.org/wiki/슈퍼목성 "wikilink")의 반열에 들어간다. 어머니 항성에서 가깝기 때문에 [유효온도](../Page/유효온도.md "wikilink")는 매우 높고, 공전속도는 매우 빠르다. 이 행성과 항성 사이 거리는 [페가수스자리 51과](https://ko.wikipedia.org/wiki/페가수스자리_51 "wikilink") [페가수스자리 51 b](../Page/페가수스자리_51_b.md "wikilink") 사이 거리의 1.75배 정도로, 한 바퀴 별을 도는 데 1.8일 또는 43시간밖에 걸리지 않는다.
 
-## 함께 보기
+## 같이 보기
 
   - [SWEEPS-04](https://ko.wikipedia.org/wiki/SWEEPS-04 "wikilink")
   - [SWEEPS-10](https://ko.wikipedia.org/wiki/SWEEPS-10 "wikilink")

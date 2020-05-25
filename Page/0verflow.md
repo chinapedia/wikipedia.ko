@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [0verflow](https://ko.wikipedia.org/wiki/0verflow).
 
 
-**0verflow**는 [도쿄도](../Page/도쿄도.md "wikilink") [지요다 구](https://ko.wikipedia.org/wiki/지요다_구 "wikilink") [간다오가와마치](https://ko.wikipedia.org/wiki/간다오가와마치 "wikilink")()에 본사를 두고있는 [유한회사](../Page/유한회사.md "wikilink") [스택](../Page/스택.md "wikilink")(STACK)이 [PC용](../Page/개인용_컴퓨터.md "wikilink") [어덜트 게임](../Page/에로게.md "wikilink") 제작/판매를 목적으로 설립한 브랜드이다. 본 항목에선 모체기업인 유한회사 스택에 대해서도 설명한다.
+**0verflow**는 [도쿄도](../Page/도쿄도.md "wikilink") [지요다구](../Page/지요다구.md "wikilink") [간다오가와마치](https://ko.wikipedia.org/wiki/간다오가와마치 "wikilink")()에 본사를 두고있는 [유한회사](../Page/유한회사.md "wikilink") [스택](../Page/스택.md "wikilink")(STACK)이 [PC용](../Page/개인용_컴퓨터.md "wikilink") [어덜트 게임](../Page/에로게.md "wikilink") 제작/판매를 목적으로 설립한 브랜드이다. 본 항목에선 모체기업인 유한회사 스택에 대해서도 설명한다.
 
 회사 이름의 영문표기는 **Overflow**이지만 회사 로고나 홈페이지 도메인 네임에선 첫글자에 [알파벳](https://ko.wikipedia.org/wiki/알파벳 "wikilink") **O** 대신에 [숫자](../Page/숫자.md "wikilink") **0**을 사용한다.
 

@@ -36,7 +36,7 @@
 
 [경상남도](https://ko.wikipedia.org/wiki/경상남도 "wikilink") [고성군](https://ko.wikipedia.org/wiki/고성군_\(경상남도\) "wikilink") 동해면 조선특구로 740 (장좌리)에 위치하고 있다.
 
-## 함께 보기
+## 같이 보기
 
   - [STX그룹](../Page/STX그룹.md "wikilink")
   - [윤영하급 고속함](../Page/윤영하급_고속함.md "wikilink")

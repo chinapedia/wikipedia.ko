@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [RHYTHMIX](https://ko.wikipedia.org/wiki/RHYTHMIX).
 
 
-《**RHYTHMIX**》(리드믹스/リズミックス)는 [ES-CONNEXION](../Page/ES-CONNEXION.md "wikilink")의 인디즈 미니앨범 이다.
+《**RHYTHMIX**》(리드믹스/リズミックス)는 [ES-CONNEXION](../Page/ES-CONNEXION.md "wikilink")의 인디즈 미니앨범이다.
 
 ## 개요
 

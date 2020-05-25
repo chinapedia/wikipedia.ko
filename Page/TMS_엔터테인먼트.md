@@ -88,4 +88,4 @@
   - [Telecom Animation Film](https://web.archive.org/web/20080209000657/http://www.telecom-anime.com/telecom-e/index.html)
   - [IMDB의 회사 페이지](https://www.imdb.com/company/co0064579/)
 
-[분류:1964년 설립](https://ko.wikipedia.org/wiki/분류:1964년_설립 "wikilink") [TMS_엔터테인먼트](https://ko.wikipedia.org/wiki/분류:TMS_엔터테인먼트 "wikilink") [분류:애니메이션 제작사](https://ko.wikipedia.org/wiki/분류:애니메이션_제작사 "wikilink") [분류:일본의 애니메이션 제작 기업](https://ko.wikipedia.org/wiki/분류:일본의_애니메이션_제작_기업 "wikilink")
+[TMS_엔터테인먼트](https://ko.wikipedia.org/wiki/분류:TMS_엔터테인먼트 "wikilink") [분류:1964년 설립](https://ko.wikipedia.org/wiki/분류:1964년_설립 "wikilink") [분류:애니메이션 제작사](https://ko.wikipedia.org/wiki/분류:애니메이션_제작사 "wikilink") [분류:일본의 애니메이션 제작 기업](https://ko.wikipedia.org/wiki/분류:일본의_애니메이션_제작_기업 "wikilink")

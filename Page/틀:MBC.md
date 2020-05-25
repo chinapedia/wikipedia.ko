@@ -6,7 +6,7 @@
 ## 같이 보기
 
   - [틀:KBS](../Page/틀:KBS.md "wikilink")
-  - [틀:EBS](https://ko.wikipedia.org/wiki/틀:EBS "wikilink")
+  - [틀:EBS](../Page/틀:EBS.md "wikilink")
   - [틀:SBS](../Page/틀:SBS.md "wikilink")
   - [틀:대한민국의 민영 방송사](https://ko.wikipedia.org/wiki/틀:대한민국의_민영_방송사 "wikilink")
 

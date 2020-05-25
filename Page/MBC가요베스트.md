@@ -64,7 +64,7 @@
 | 451회 | [10월 11일](../Page/10월_11일.md "wikilink") |                                 |                                                                                                        |
 | 452회 | [10월 18일](../Page/10월_18일.md "wikilink") | 제39회 소가야문화제 및 제45회 군민체육대회 특집    | [김승현](../Page/김승현_\(방송인\).md "wikilink"), [소유미](../Page/소유미.md "wikilink")                             |
 | 453회 | [10월 25일](../Page/10월_25일.md "wikilink") |                                 |                                                                                                        |
-| 454회 | [11월 1일](../Page/11월_1일.md "wikilink")   | 2015 목포 난영가요제 특집                | [김승현](../Page/김승현_\(방송인\).md "wikilink"), [박윤미](https://ko.wikipedia.org/wiki/박윤미 "wikilink")          |
+| 454회 | [11월 1일](../Page/11월_1일.md "wikilink")   | 2015 목포 난영가요제 특집                | [김승현](../Page/김승현_\(방송인\).md "wikilink"), [박윤미](../Page/박윤미.md "wikilink")                             |
 | 455회 | [11월 8일](../Page/11월_8일.md "wikilink")   |                                 |                                                                                                        |
 | 456회 | [11월 15일](../Page/11월_15일.md "wikilink") | 제38회 노산문화제 및 제33회 군민의 날 특집      | [김승현](../Page/김승현_\(방송인\).md "wikilink"), [연지후](../Page/연지후.md "wikilink")                             |
 | 457회 | [11월 22일](../Page/11월_22일.md "wikilink") |                                 |                                                                                                        |

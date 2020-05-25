@@ -45,7 +45,7 @@
   - Mack
   - [예수 세미나](../Page/예수_세미나.md "wikilink")
 
-## 참고문헌
+## 참고 문헌
 
   - [Ky-Chun So: *Jesus in Q: The Sabbath and Theology of the Bible and Extracanonical Texts* Wipf \&Stock: Oregon, 2017](https://books.google.co.kr/books/about/Jesus_in_Q.html?id=e3ijDgAAQBAJ&source=kp_cover&redir_esc=y)
   - John S. Kloppenborg: *Q, the Earliest Gospel: An Introduction to the Original Stories and Sayings of Jesus.* Westminster John Knox Press, Louisville 2008,

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [김은아 \(KBS 성우\)](https://ko.wikipedia.org/wiki/김은아_\(KBS_성우\)).
 
 
-**김은아**([1967년](../Page/1967년.md "wikilink") [3월 21일](../Page/3월_21일.md "wikilink") \~ )는 [대한민국](../Page/대한민국.md "wikilink")의 [성우](../Page/성우.md "wikilink")이다. [1990년](../Page/1990년.md "wikilink") [KBS](https://ko.wikipedia.org/wiki/KBS "wikilink")에 입사했으며, 현재는 [KBS](https://ko.wikipedia.org/wiki/KBS "wikilink") 22기 이다. [한국방송 성우극회](../Page/한국방송_성우극회.md "wikilink") 소속. 2007년 이후로 거의 활동한적이 없기 때문에 [꼬마버스타요](https://ko.wikipedia.org/wiki/꼬마버스타요 "wikilink")에서 누리, 봉봉, 앨리스, 토니, 피넛역 성우가 동명이인 후배인 [EBS](https://ko.wikipedia.org/wiki/EBS "wikilink")성우 [김은아이다](../Page/김은아_\(EBS_성우\).md "wikilink").
+**김은아**([1967년](../Page/1967년.md "wikilink") [3월 21일](../Page/3월_21일.md "wikilink") \~ )는 [대한민국](../Page/대한민국.md "wikilink")의 [성우](../Page/성우.md "wikilink")이다. [1990년](../Page/1990년.md "wikilink") [KBS](https://ko.wikipedia.org/wiki/KBS "wikilink")에 입사했으며, 현재는 [KBS](https://ko.wikipedia.org/wiki/KBS "wikilink") 22기이다. [한국방송 성우극회](../Page/한국방송_성우극회.md "wikilink") 소속. 2007년 이후로 거의 활동한적이 없기 때문에 [꼬마버스타요](https://ko.wikipedia.org/wiki/꼬마버스타요 "wikilink")에서 누리, 봉봉, 앨리스, 토니, 피넛역 성우가 동명이인 후배인 [EBS](https://ko.wikipedia.org/wiki/EBS "wikilink")성우 [김은아이다](../Page/김은아_\(EBS_성우\).md "wikilink").
 
 ## 주요 출연작품
 
@@ -48,7 +48,7 @@
   - [남편이 어려졌어요](https://ko.wikipedia.org/wiki/남편이_어려졌어요 "wikilink") ([KBS](https://ko.wikipedia.org/wiki/KBS "wikilink")) - 레나 ([티파니 이싱어](https://ko.wikipedia.org/wiki/티파니_이싱어 "wikilink"))
   - [나는 고백한다](../Page/나는_고백한다.md "wikilink") ([KBS](https://ko.wikipedia.org/wiki/KBS "wikilink")) - 소녀 2 ([르네 허든](https://ko.wikipedia.org/wiki/르네_허든 "wikilink"))
   - [돈벼락 맞은 사나이](https://ko.wikipedia.org/wiki/돈벼락_맞은_사나이 "wikilink") ([KBS](https://ko.wikipedia.org/wiki/KBS "wikilink")) - 에바젤린 ([신시아 닉슨](https://ko.wikipedia.org/wiki/신시아_닉슨 "wikilink"))
-  - [레인저 스카우트](https://ko.wikipedia.org/wiki/레인저_스카우트 "wikilink") ([KBS](https://ko.wikipedia.org/wiki/KBS "wikilink"))
+  - [레인저 스카우트](../Page/레인저_스카우트.md "wikilink") ([KBS](https://ko.wikipedia.org/wiki/KBS "wikilink"))
   - [레지던트 이블](../Page/레지던트_이블_\(영화\).md "wikilink") ([KBS](https://ko.wikipedia.org/wiki/KBS "wikilink")) - 레드 퀸 ([미카엘라 딕커](https://ko.wikipedia.org/wiki/미카엘라_딕커 "wikilink"))
   - [로코](../Page/로코.md "wikilink") ([KBS](https://ko.wikipedia.org/wiki/KBS "wikilink")) - 키아라
   - [백발마녀전 2](../Page/백발마녀전_2.md "wikilink") ([KBS](https://ko.wikipedia.org/wiki/KBS "wikilink")) - 우금 ([만기문](https://ko.wikipedia.org/wiki/만기문 "wikilink"))

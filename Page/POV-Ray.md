@@ -14,7 +14,7 @@
   - [안개](../Page/안개.md "wikilink"), 매체([연기](https://ko.wikipedia.org/wiki/연기_\(화학\) "wikilink"), [구름](../Page/구름.md "wikilink"))와 같은 대기 효과
   - [포톤 매핑을](https://ko.wikipedia.org/wiki/포톤_매핑 "wikilink") 사용한 [반사](https://ko.wikipedia.org/wiki/반사 "wikilink"), [굴절](../Page/굴절.md "wikilink"), [화선](../Page/화선.md "wikilink")
   - [라디오시티](https://ko.wikipedia.org/wiki/라디오시티 "wikilink") (radiosity)
-  - [주름](https://ko.wikipedia.org/wiki/주름 "wikilink"), 울퉁불퉁한 모습, 물결과 같은 표면 패턴 ([절차적 텍스처와](https://ko.wikipedia.org/wiki/절차적_텍스처 "wikilink") [범프 매핑](../Page/범프_매핑.md "wikilink") 사용)
+  - [주름](../Page/주름.md "wikilink"), 울퉁불퉁한 모습, 물결과 같은 표면 패턴 ([절차적 텍스처와](https://ko.wikipedia.org/wiki/절차적_텍스처 "wikilink") [범프 매핑](../Page/범프_매핑.md "wikilink") 사용)
   - [TGA](https://ko.wikipedia.org/wiki/TGA "wikilink"), [PNG](../Page/PNG.md "wikilink"), [JPEG](../Page/JPEG.md "wikilink") (입력만)로 [텍스처](https://ko.wikipedia.org/wiki/텍스처 "wikilink"), 랜더 출력 지원
   - 확장된 사용자 문서
 

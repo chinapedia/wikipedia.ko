@@ -11,7 +11,7 @@ DDT는 유기염소계 살충제로써, 메톡신클로르와, 디코폴 같은 
 
 DDT는 자연상에 존재하지 않으며, 클로로벤젠(C<sub>6</sub>H<sub>5</sub>Cl)과 트리클로로에탄올(C<sub>2</sub>HCl<sub>3</sub>O)을 [황산](../Page/황산.md "wikilink")촉매를 사용하여 반응시켜서 만들어 낸다. DDT의 주요 대사물질은 DDE(디클로로-디페닐-디클로로 에틸렌, Dichloro-Diphenyldichloro-Ethylene)와, DDD(디클로로-디페닐-디클로로-에탄, Dichloro-Diphenyl-Dichloroethane)로, 이 두물질이 상업용 DDT에서 뽑은 샘플에 적은 양이 들어있음을 찾아내었다.\[4\]
 
-DDT에 대한 쥐의 [LD<sub>50</sub>는](https://ko.wikipedia.org/wiki/LD50 "wikilink") 113 mg/kg 이다. DDT는 곤충의 [뉴런](https://ko.wikipedia.org/wiki/뉴런 "wikilink")의 나트륨 이온 채널을 열게 만든다. DDT를 마신 곤충은 경련을 일으키고, 최후에는 사망에 이르게 한다. 곤충은 그들의 나트륨 채널의 DNA인 P450을 조정하여, DDT에 내성을 갖게 된다.\[5\]
+DDT에 대한 쥐의 [LD<sub>50</sub>는](https://ko.wikipedia.org/wiki/LD50 "wikilink") 113 mg/kg이다. DDT는 곤충의 [뉴런](https://ko.wikipedia.org/wiki/뉴런 "wikilink")의 나트륨 이온 채널을 열게 만든다. DDT를 마신 곤충은 경련을 일으키고, 최후에는 사망에 이르게 한다. 곤충은 그들의 나트륨 채널의 DNA인 P450을 조정하여, DDT에 내성을 갖게 된다.\[5\]
 
 ## 환경적인 영향
 

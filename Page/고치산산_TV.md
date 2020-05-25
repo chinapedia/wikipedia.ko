@@ -19,7 +19,7 @@
 ## 특징
 
   - KSS라는 약칭보다 산산(さんさん)TV나 SUNSUN TV라는 애칭으로 더 많이 불린다.
-  - 경비절감을 위해 [도쿄](../Page/도쿄.md "wikilink")와 [오사카 시에](https://ko.wikipedia.org/wiki/오사카_시 "wikilink") 지사를 두지 않고 [후지 크리에이티브 코퍼레이션에](https://ko.wikipedia.org/wiki/후지_크리에이티브_코퍼레이션 "wikilink") 지사 영업을 위탁하고 있으며 야마가타현의 [사쿠란보 TV도](../Page/사쿠란보_TV.md "wikilink") 이와 같은 방법을 이용해 지사를 두고 있지 않다.
+  - 경비절감을 위해 [도쿄](../Page/도쿄.md "wikilink")와 [오사카시](../Page/오사카시.md "wikilink")에 지사를 두지 않고 [후지 크리에이티브 코퍼레이션에](https://ko.wikipedia.org/wiki/후지_크리에이티브_코퍼레이션 "wikilink") 지사 영업을 위탁하고 있으며 야마가타현의 [사쿠란보 TV도](../Page/사쿠란보_TV.md "wikilink") 이와 같은 방법을 이용해 지사를 두고 있지 않다.
   - 원래 [TV 아사히의](../Page/TV_아사히.md "wikilink") 계열국으로 개국할 예정이었다.
 
 ## [고치현](../Page/고치현.md "wikilink")에 있는 다른 텔레비전·라디오 방송국

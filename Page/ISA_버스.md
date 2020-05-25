@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ISA 버스](https://ko.wikipedia.org/wiki/ISA_버스).
 
 
-**ISA 버스**(Industry Standard Architecture bus)는 [IBM](../Page/IBM.md "wikilink")의 [PC/XT](https://ko.wikipedia.org/wiki/PC/XT "wikilink")와 [PC/AT](https://ko.wikipedia.org/wiki/PC/AT "wikilink")를 위해 개발되었다. ISA 구조는 실제로 존재하는 규격내용으로 현재에도 고성능이 불필요한 곳에서 사용하고 있다. 현재는 [PCI 버스에](../Page/PCI_버스.md "wikilink") 의하여 대체되고 있다. 전송속도는 16 비트에서 3 Mb/s 이다.
+**ISA 버스**(Industry Standard Architecture bus)는 [IBM](../Page/IBM.md "wikilink")의 [PC/XT](https://ko.wikipedia.org/wiki/PC/XT "wikilink")와 [PC/AT](https://ko.wikipedia.org/wiki/PC/AT "wikilink")를 위해 개발되었다. ISA 구조는 실제로 존재하는 규격내용으로 현재에도 고성능이 불필요한 곳에서 사용하고 있다. 현재는 [PCI 버스에](../Page/PCI_버스.md "wikilink") 의하여 대체되고 있다. 전송속도는 16 비트에서 3 Mb/s이다.
 
 ## 역사
 

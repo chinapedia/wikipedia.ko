@@ -19,7 +19,7 @@
 
 이 가운데 occupy와 jape는 아직까지 동사로 살아있지만 불경스러운 뜻은 거의 포함하지 않고 있으며 "sard"는 "성교"를 뜻하는 앵글로색슨어 동사 *seordan*에서 파생된 것이다.
 
-1775년 *A New and Complete Dictionary* 사전에 여러 정의를 포함하여 이 용어가 등장하긴 했지만\[2\] fuck라는 용어가 1795년부터 1965년까지 사전에 대중적으로 기재되지 않았다. 1972년에 옥스포드 영어 사전에 *[Cunt](https://ko.wikipedia.org/wiki/외음부 "wikilink")*라는 낱말과 더불어 처음 등장하기 시작하였다.
+1775년 *A New and Complete Dictionary* 사전에 여러 정의를 포함하여 이 용어가 등장하긴 했지만\[2\] fuck라는 용어가 1795년부터 1965년까지 사전에 대중적으로 기재되지 않았다. 1972년에 옥스포드 영어 사전에 *[Cunt](../Page/외음부.md "wikilink")*라는 낱말과 더불어 처음 등장하기 시작하였다.
 
 [인터넷](../Page/인터넷.md "wikilink") 문화에서 WTF (What the fuck), STFU (shut the fuck up), OMFG (Oh My Fucking God) 등의 줄임말도 흔히 사용된다.
 
@@ -84,7 +84,6 @@ mierda, cabron
 
 ## 같이 보기
 
-  - [가운뎃손가락](https://ko.wikipedia.org/wiki/가운뎃손가락 "wikilink")
   - [가운뎃손가락 (제스처)](https://ko.wikipedia.org/wiki/가운뎃손가락_\(제스처\) "wikilink")
   - [Fucking](../Page/푸킹.md "wikilink") (지명)
 

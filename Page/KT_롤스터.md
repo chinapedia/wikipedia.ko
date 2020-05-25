@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [KT 롤스터](https://ko.wikipedia.org/wiki/KT_롤스터).
 
 
-**KT 롤스터**(KT Rolster)는 [대한민국](../Page/대한민국.md "wikilink")의 [리그 오브 레전드](../Page/리그_오브_레전드.md "wikilink") [프로게임단](https://ko.wikipedia.org/wiki/프로게임단 "wikilink")이다. 과거에는 [피파와](https://ko.wikipedia.org/wiki/FIFA_시리즈 "wikilink") [카운터 스트라이크](https://ko.wikipedia.org/wiki/카운터_스트라이크 "wikilink"), [스페셜포스](https://ko.wikipedia.org/wiki/스페셜포스 "wikilink"), [스페셜포스2](https://ko.wikipedia.org/wiki/스페셜포스2 "wikilink"), [스타크래프트](../Page/스타크래프트.md "wikilink"), [스타크래프트 II](https://ko.wikipedia.org/wiki/스타크래프트_II "wikilink") 종목을 운영하기도 하였다. [SK텔레콤 T1과는](https://ko.wikipedia.org/wiki/SK텔레콤_T1 "wikilink") 스타크래프트 시절부터 현재까지도 이동 통신사 라이벌 관계를 유지하고 있다.
+**KT 롤스터**(KT Rolster)는 [대한민국](../Page/대한민국.md "wikilink")의 [리그 오브 레전드](../Page/리그_오브_레전드.md "wikilink") [프로게임단](https://ko.wikipedia.org/wiki/프로게임단 "wikilink")이다. 과거에는 [피파와](https://ko.wikipedia.org/wiki/FIFA_시리즈 "wikilink") [카운터 스트라이크](https://ko.wikipedia.org/wiki/카운터_스트라이크 "wikilink"), [스페셜포스](https://ko.wikipedia.org/wiki/스페셜포스 "wikilink"), [스페셜포스2](https://ko.wikipedia.org/wiki/스페셜포스2 "wikilink"), [스타크래프트](../Page/스타크래프트.md "wikilink"), [스타크래프트 II](https://ko.wikipedia.org/wiki/스타크래프트_II "wikilink") 종목을 운영하기도 하였으며 [T1과는](../Page/T1_\(프로게임단\).md "wikilink") 스타크래프트 시절부터 현재까지도 이동 통신사 라이벌 관계를 유지하고 있다.
 
 ## 역사
 

@@ -34,7 +34,7 @@
 
 ## 더 보기
 
-  - [GBU-57](https://ko.wikipedia.org/wiki/GBU-57 "wikilink") MOP - 초대형 지하침투 폭탄. 13,610 kg 중량으로 모압보다 40% 무겁다.\[8\]
+  - [GBU-57](../Page/GBU-57.md "wikilink") MOP - 초대형 지하침투 폭탄. 13,610 kg 중량으로 모압보다 40% 무겁다.\[8\]
   - [FOAB](../Page/FOAB.md "wikilink") - 러시아가 미국의 모압에 대응해 개발한 모든 폭탄의 아버지. 모압 보다 4배의 폭발력을 가졌다고 한다.\[9\]
   - [W54](https://ko.wikipedia.org/wiki/W54 "wikilink") - 미국이 생산한 최소형 핵탄두 W54는 TNT 10톤, 20톤 폭발력으로서, TNT 11톤 폭발력인 모압과 비슷하다. 그러나 모압이 9.5톤 무게인데 비해 W54 핵탄두는 23 kg에 불과하다.
 

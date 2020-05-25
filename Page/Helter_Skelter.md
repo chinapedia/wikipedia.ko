@@ -17,7 +17,7 @@
 
 ## 녹음
 
-1968년 6월 18일 세션 중에 27분 11초에 달하는 〈Helter Skelter〉의 첫 번째 버전이 녹음되었다. 이는 《The Beatles》에 수록된 4분 29초 버전에 비해 느리고 더 환각적인 등 음반 버전과는 큰 차이가 있다. 같은 날 녹음한 〈Helter Skelter〉의 테이크 2는 《[Anthology 3](https://ko.wikipedia.org/wiki/Anthology_3 "wikilink")》에 4분 37초로 편집되어 수록되어 있다.
+1968년 6월 18일 세션 중에 27분 11초에 달하는 〈Helter Skelter〉의 첫 번째 버전이 녹음되었다. 이는 《The Beatles》에 수록된 4분 29초 버전에 비해 느리고 더 환각적인 등 음반 버전과는 큰 차이가 있다. 같은 날 녹음한 〈Helter Skelter〉의 테이크 2는 《[Anthology 3](../Page/Anthology_3.md "wikilink")》에 4분 37초로 편집되어 수록되어 있다.
 
 《The Beatles》에 수록된 곡은 [1968년](../Page/1968년.md "wikilink") [9월 9일](../Page/9월_9일.md "wikilink") 총 18개가 녹음되었으며, 각각의 길이는 약 5분 정도였다. 그날 녹음 된 것 중 마지막 녹음(테이크 18)이 음반에 수록되었다. 그날 18번의 녹음을 마친 후 [링고 스타는](../Page/링고_스타.md "wikilink") 녹음실에서 그의 드럼 스틱을 던지면서 "손에 물집 잡혔어\!"(I've got blisters on my fingers\!)라 소리쳤다. 링고의 이러한 절규는 《The Beatles》 음반의 스테레오 버전(CD에서 들을 수 있다.) 마지막 부분에서 페이드 인 되는 부분에 삽입되었다. 모노 버전(LP)의 경우는 그러한 절규 없이 곡이 끝난다. 미국에서는 모노 버전이 발매되지 않았지만, 후에 《Rarities》에서 미국판 모노 버전이 나왔다.
 

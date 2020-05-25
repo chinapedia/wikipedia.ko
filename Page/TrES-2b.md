@@ -7,7 +7,7 @@
 
 [TrES](https://ko.wikipedia.org/wiki/TrES "wikilink") 프로젝트에서 [통과법](https://ko.wikipedia.org/wiki/통과법 "wikilink")을 통해 TrES-2b를 발견했다. 관측 도구로는 [팔로마 천문대의](../Page/팔로마_천문대.md "wikilink") 슬루스, [로웰 천문대의](../Page/로웰_천문대.md "wikilink") PSST, 10센티미터 망원경 TrES 네트워크 중 일부를 사용했다. 이 행성의 발견은 [켁 천문대에서](https://ko.wikipedia.org/wiki/켁_천문대 "wikilink") 검증하였다.
 
-## 함께 보기
+## 같이 보기
 
   - [뜨거운 목성](../Page/뜨거운_목성.md "wikilink")
   - [TrES-1](https://ko.wikipedia.org/wiki/TrES-1 "wikilink")

@@ -37,7 +37,7 @@ PC 게임의 첫 세대는 보통 플레이어가 [컴퓨터 키보드로](https
 
 컴퓨터 사용자의 대부분은 기본으로 설치되어 있는 오프라인 게임([체스](https://ko.wikipedia.org/wiki/체스 "wikilink"), [인터넷 백게인](https://ko.wikipedia.org/wiki/인터넷_백게인 "wikilink"), [스파이더 카드놀이](../Page/스파이더_카드놀이_\(윈도우\).md "wikilink"), [핀볼](https://ko.wikipedia.org/wiki/핀볼 "wikilink") 등)[오프라인 컴퓨터 게임을](https://ko.wikipedia.org/wiki/오프라인_컴퓨터_게임 "wikilink") 즐기고 있는 사용자와 새로 제작된 오프라인 게임을 즐길 수 있는 [오프라인 컴퓨터 게임](https://ko.wikipedia.org/wiki/오프라인_컴퓨터_게임 "wikilink") 사이트가 있고 그것을 이용하는 이용자가 있다.
 
-## 함께 보기
+## 같이 보기
 
   - [싱글 플레이](https://ko.wikipedia.org/wiki/싱글_플레이 "wikilink")
   - [멀티 플레이](https://ko.wikipedia.org/wiki/멀티_플레이 "wikilink")

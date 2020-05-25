@@ -165,7 +165,7 @@
   - [CSI 마이애미](https://ko.wikipedia.org/wiki/CSI_마이애미 "wikilink")
   - [CSI: 사이버](https://ko.wikipedia.org/wiki/CSI:_사이버 "wikilink")
 
-## 함께 보기
+## 같이 보기
 
   - [뉴욕경찰 24시](https://ko.wikipedia.org/wiki/:en:NYPD_Blue "wikilink") (NYPD Blue) ([1990년대](../Page/1990년대.md "wikilink") \~ [2000년대](../Page/2000년대.md "wikilink") TV 드라마 시리즈)
 

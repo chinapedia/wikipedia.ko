@@ -129,6 +129,7 @@
   - [2014년](../Page/2014년.md "wikilink") [2월 19일](../Page/2월_19일.md "wikilink") : [강릉MBC와의](../Page/MBC강원영동_강릉방송국.md "wikilink") 합병 승인.
   - [2014년](../Page/2014년.md "wikilink") [3월 12일](../Page/3월_12일.md "wikilink") : 제16대 대표이사 사장 안우정 취임
   - [2015년](../Page/2015년.md "wikilink") [1월 1일](../Page/1월_1일.md "wikilink") : MBC강원영동으로 출범.
+  - [2015년](../Page/2015년.md "wikilink")(날짜 불명) : AM 송신소 이전(동해시 추암동 48-1 → 삼척시 우지동 184-1)
   - [2017년](../Page/2017년.md "wikilink") [3월 3일](../Page/3월_3일.md "wikilink") : 제17대 대표이사 사장 장근수 취임
 
 ### UHD 시대
@@ -163,7 +164,7 @@
 <td><p><a href="../Page/5_MBC_뉴스.md" title="wikilink">5 MBC 뉴스 강원영동</a></p></td>
 <td><p>월~금 10분</p></td>
 <td><p>월~금 오후 17:15 ~ 17:25</p></td>
-<td><p>민기원</p></td>
+<td><p>김현수</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/MBC_뉴스데스크.md" title="wikilink">MBC 뉴스데스크 강원</a></p></td>
@@ -255,21 +256,15 @@
 <td><p><a href="../Page/MBC_정오종합뉴스.md" title="wikilink">MBC 정오종합뉴스</a></p></td>
 <td><p>평일</p></td>
 <td><p>5분</p></td>
-<td><p>성스리</p></td>
+<td><p>민기원</p></td>
 </tr>
 <tr class="even">
 <td><p>MBC 15시 뉴스</p></td>
-<td></td>
+<td><p>김현수</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>MBC 17시 뉴스</p></td>
-<td><p>김효주</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
 <td><p><a href="http://www.mbceg.co.kr/program/radio_02">라디오 가든<br />
 (MBC강원영동 강릉방송국)</a></p></td>
 <td><p>115분</p></td>
@@ -277,13 +272,13 @@
 (MBC강원영동 강릉방송국 아나운서)</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="http://www.mbceg.co.kr/program/radio_03">라디오 동서남북</a></p></td>
 <td><p>40분</p></td>
 <td><p>민기원</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -372,8 +367,8 @@
 
   - 보도국장 : 황병춘
   - 국장 : 유인호
+  - 차장 : 김인성
   - 차장 : 김형호
-  - 기자 : 배연환
 
 ## 참조
 

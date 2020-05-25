@@ -11,7 +11,7 @@
 
 질량은 목성의 1.5배이며 지구 관측자의 시야에 대비할 경우 [궤도경사각](https://ko.wikipedia.org/wiki/궤도경사각 "wikilink")은 30도이다. 궤도경사각과 엡실론별을 둘러싼 먼지 원반의 각도는 평행하다. 이 행성은 2007년 [근일점](https://ko.wikipedia.org/wiki/근일점 "wikilink")을 통과한 것으로 생각된다.\[2\]\[3\]
 
-## 함께 보기
+## 같이 보기
 
   - [큰곰자리 47 b](../Page/큰곰자리_47_b.md "wikilink")
   - [페가수스자리 51 b](../Page/페가수스자리_51_b.md "wikilink")

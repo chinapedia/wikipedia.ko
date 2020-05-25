@@ -47,7 +47,7 @@ G7 프로젝트의 2단계 사업인 고속철도기술개발사업이 [2007년]
   - 객차(TT3) : [의왕역](../Page/의왕역.md "wikilink") 유휴녹지선
   - 객차(TT4) : 경기도 [여주시](https://ko.wikipedia.org/wiki/여주시 "wikilink") [북내면](../Page/북내면.md "wikilink") 외재로 167-75
 
-## 함께 보기
+## 같이 보기
 
   - [KTX-산천](../Page/KTX-산천.md "wikilink") : HSR-350x를 더욱 개량한 양산형 차량
 

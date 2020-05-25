@@ -165,7 +165,7 @@
   - [좌자](../Page/좌자.md "wikilink"): 조언을 하거나 둔갑천서삼권을 물려준다.
   - [간길](https://ko.wikipedia.org/wiki/우길 "wikilink"): 조언을 한다.
   - [재허상인](https://ko.wikipedia.org/wiki/자허상인 "wikilink"): 조언을 한다.
-  - [허자장](https://ko.wikipedia.org/wiki/허소 "wikilink"): 조언을 한다.
+  - [허자장](https://ko.wikipedia.org/wiki/허소_\(자장\) "wikilink"): 조언을 한다.
   - [관로](../Page/관로_\(인물\).md "wikilink"): 조언을 한다.
   - [사마휘](../Page/사마휘.md "wikilink"): 조언을 한다.
   - 이의: 조언을 한다.
@@ -205,7 +205,7 @@
 
 역대 삼국지 시리즈 중 가장 인기있는 시리즈인 덕분에 아직도 삼국지 III를 즐기는 유저들이 많으며 이에 따라 등장인물 에디트를 하는 경우도 많다. 능력치를 삼국지연의가 아닌 정사 삼국지대로 변경하기도 하며 [삼국지 가공인물인](../Page/삼국지_가공인물.md "wikilink") [하후덕](https://ko.wikipedia.org/wiki/하후덕 "wikilink"), [하후존](https://ko.wikipedia.org/wiki/하후존 "wikilink"), [주창](https://ko.wikipedia.org/wiki/주창 "wikilink"), [아회남](https://ko.wikipedia.org/wiki/아회남 "wikilink"), [무안국](https://ko.wikipedia.org/wiki/무안국 "wikilink"), [동도나](https://ko.wikipedia.org/wiki/동도나 "wikilink"), [담웅](https://ko.wikipedia.org/wiki/담웅 "wikilink"), [금환삼결](https://ko.wikipedia.org/wiki/금환삼결 "wikilink") 등을 모조리 빼버리고 그 대신 정사에 등장하는 [희지재](https://ko.wikipedia.org/wiki/희지재 "wikilink"), [하진](../Page/하진.md "wikilink"), [풍칙](https://ko.wikipedia.org/wiki/풍칙 "wikilink"), [정태](../Page/정태.md "wikilink"), [장각](../Page/장각.md "wikilink"), [장량](../Page/장량.md "wikilink"), [장보](https://ko.wikipedia.org/wiki/장보 "wikilink"), [유우](../Page/유우_\(후한\).md "wikilink"), [염행](../Page/염행.md "wikilink"), [사섭](../Page/사섭.md "wikilink"), [문앙](../Page/문앙.md "wikilink"), [노식](../Page/노식.md "wikilink") 등을 추가시키기도 했다.
 
-## 함께 보기
+## 같이 보기
 
   - [삼국지 시리즈](https://ko.wikipedia.org/wiki/삼국지_시리즈 "wikilink")
   - [코에이](../Page/코에이.md "wikilink")

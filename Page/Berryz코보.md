@@ -156,7 +156,7 @@
 <!-- end list -->
 
   - [2월 3일](../Page/2월_3일.md "wikilink"), 태국 방콕에서 세 번째가 되는 콘서트「Berryz코보 NARUCHIKA 2015 in Bangkok」를 개최했다.
-  - [2월 8일](../Page/2월_8일.md "wikilink"), 나카노 선플라자에서「完熟Berryz工房 The Final Completion Box」기념 이벤트를 했다. 다나카 다이스케 [나카노 구청장이](https://ko.wikipedia.org/wiki/나카노_구 "wikilink") "음악 · 연예 활동을 통해서 문화의 향상에 기여하는 동시에 나카노 선플라자를 성지로서 복수의 콘서트를 개최함에 따라 나카노 구의 PR에 기여함"으로 감사장을 증정됐다.
+  - [2월 8일](../Page/2월_8일.md "wikilink"), 나카노 선플라자에서「完熟Berryz工房 The Final Completion Box」기념 이벤트를 했다. 다나카 다이스케 [나카노구](../Page/나카노구.md "wikilink")청장이 "음악 · 연예 활동을 통해서 문화의 향상에 기여하는 동시에 나카노 선플라자를 성지로서 복수의 콘서트를 개최함에 따라 나카노 구의 PR에 기여함"으로 감사장을 증정됐다.
   - [3월 3일](../Page/3월_3일.md "wikilink"), 일본 무도관에서 마지막 콘서트를 끝으로 무기한 활동 정지를 했다(사실상 해산).
 
 ## 음반

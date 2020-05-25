@@ -42,7 +42,7 @@ GNU는 "GNU는 유닉스가 아니다."란 의미를 갖는 영어 문장 "GNU's
 
 GNU 프로젝트는 다른 곳에서 개발된 패키지로 배포하고 도와 주기도 한다.
 
-## 함께 보기
+## 같이 보기
 
   - [GNU](../Page/GNU.md "wikilink")
   - [GNU 선언문](../Page/GNU_선언문.md "wikilink")

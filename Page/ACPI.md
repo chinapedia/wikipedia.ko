@@ -74,7 +74,7 @@ CPU 전력 상태 C0-C3는 다음과 같이 정의된다:
   - SLIC (소프트웨어 허가 서술 테이블)
   - SSDT (두 번째 시스템 서술자 테이블)
 
-## 함께 보기
+## 같이 보기
 
   - [그린 컴퓨팅](../Page/그린_컴퓨팅.md "wikilink")
   - [전원 관리 키](https://ko.wikipedia.org/wiki/전원_관리_키 "wikilink")

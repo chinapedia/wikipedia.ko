@@ -3,7 +3,7 @@
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:KBS_2Radio_studio-Seoul.jpg "wikilink")
 
-**KBS 제2라디오** 또는 **KBS 해피FM**(KBS Happy FM)은 [대한민국](../Page/대한민국.md "wikilink")의 방송국 [한국방송공사](../Page/한국방송공사.md "wikilink")에서 운영·방송하는 [라디오](../Page/라디오.md "wikilink") 광고 채널이다. 주로 중장년층을 대상으로 [대중음악](../Page/대중음악.md "wikilink"), [오락](https://ko.wikipedia.org/wiki/오락 "wikilink") 등을 방송한다.
+**KBS 제2라디오** 또는 **KBS 해피FM**(KBS Happy FM)은 [대한민국](../Page/대한민국.md "wikilink")의 방송국 [한국방송공사](../Page/한국방송공사.md "wikilink")에서 운영·방송하는 [라디오](../Page/라디오.md "wikilink") 채널이다. 주로 중장년층을 대상으로 [대중음악](../Page/대중음악.md "wikilink"), [오락](https://ko.wikipedia.org/wiki/오락 "wikilink") 등을 방송한다.
 
 방송 시간은 아침 5시부터 다음 날 새벽 3시까지 22시간 방송되며, 새벽 3시부터 새벽 4시 54분까지는 정파 시간을 갖는다.
 
@@ -123,20 +123,14 @@
 <td><p>o</p></td>
 </tr>
 <tr class="odd">
-<td><p>수도권<br />
-매일 11:00<br />
-지역<br />
-매일 11:00</p></td>
+<td><p>매일 11:00</p></td>
 <td><p><a href="../Page/골든팝스_(라디오_프로그램).md" title="wikilink">임백천의 골든팝스</a> (수도권만 본방송)[3]<br />
 <a href="../Page/박명수의_라디오쇼.md" title="wikilink">박명수의 라디오쇼</a> (각 지역총국 방송 / <a href="https://ko.wikipedia.org/wiki/쿨FM" title="wikilink">쿨FM</a> 프로그램)</p></td>
 <td><p>O<br />
 X</p></td>
 </tr>
 <tr class="even">
-<td><p>수도권<br />
-매일 12:00<br />
-지역<br />
-매일 12:00</p></td>
+<td><p>매일 12:00</p></td>
 <td><p><a href="../Page/음악정원.md" title="wikilink">양파의 음악정원</a> (수도권방송)<br />
 <a href="../Page/가요광장.md" title="wikilink">정은지의 가요광장</a> (각 지역총국 방송 / <a href="https://ko.wikipedia.org/wiki/쿨FM" title="wikilink">쿨FM</a> 프로그램)</p></td>
 <td><p>O<br />
@@ -175,7 +169,7 @@ X</p></td>
 </tr>
 <tr class="odd">
 <td><p>매일 00:00</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/누군가_어딘가에" title="wikilink">누군가 어딘가에</a> (전국방송)[4]</p></td>
+<td><p><a href="../Page/누군가_어딘가에.md" title="wikilink">누군가 어딘가에</a> (전국방송)[4]</p></td>
 <td><p>o</p></td>
 </tr>
 <tr class="even">
@@ -205,6 +199,7 @@ X</p></td>
 
 ## 종영 프로그램
 
+  - [4시의 가요데이트](https://ko.wikipedia.org/wiki/4시의_가요데이트 "wikilink")
   - [엄길청의 성공시대](https://ko.wikipedia.org/wiki/엄길청의_성공시대 "wikilink")
   - [경제드라마 굿모닝 홍길동](../Page/경제드라마_굿모닝_홍길동.md "wikilink")
   - [출발 뉴스센터](https://ko.wikipedia.org/wiki/출발_뉴스센터 "wikilink")

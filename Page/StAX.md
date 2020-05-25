@@ -67,6 +67,6 @@ while (xmlStreamReader.hasNext()) {
   - [Introduction to StAX](http://www.xml.com/pub/a/2003/09/17/stax.html) XML.com, Harold, Elliotte Rusty
   - [Java Streaming API for XML (Stax) - Tutorial](https://web.archive.org/web/20071212145813/http://www.vogella.de/articles/JavaXML/article.html)
   - [XMLPull Patterns](https://web.archive.org/web/20120630184808/http://www.extreme.indiana.edu/~aslom/xmlpull/patterns.html) Article on XML Pull (and StAX) design patterns by Aleksander Slominski.
-  - [StAX Parser - Cursor & Iterator APIs](https://howtodoinjava.com/xml/read-xml-stax-parser-cursor-iterator/) Article on Cursor & Iterator APIs by HowToDoInJava.
+  - [StAX Parser - Cursor & Iterator APIs](https://web.archive.org/web/20180723212505/https://howtodoinjava.com/xml/read-xml-stax-parser-cursor-iterator/) Article on Cursor & Iterator APIs by HowToDoInJava.
 
 [분류:자바 플랫폼](https://ko.wikipedia.org/wiki/분류:자바_플랫폼 "wikilink") [분류:API](https://ko.wikipedia.org/wiki/분류:API "wikilink") [분류:XML](https://ko.wikipedia.org/wiki/분류:XML "wikilink")

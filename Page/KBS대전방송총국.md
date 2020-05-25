@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [KBS대전방송총국](https://ko.wikipedia.org/wiki/KBS대전방송총국).
 
 
-**KBS대전방송총국**(KBS大田放送總局)은 [대전세종충남](https://ko.wikipedia.org/wiki/대전충남 "wikilink") 지역을 방송구역으로 하는 [한국방송공사](../Page/한국방송공사.md "wikilink")의 지역방송총국이다. 지역총국 중 하나로, 하부에 속해있는 지역국 내포방송국 은 있다.
+**KBS대전방송총국**(KBS大田放送總局)은 [대전세종충남](https://ko.wikipedia.org/wiki/대전충남 "wikilink") 지역을 방송구역으로 하는 [한국방송공사](../Page/한국방송공사.md "wikilink")의 지역방송총국이다. 지역총국 중 하나로, 하부에 속해있는 지역국은 내포방송국이 있다.
 
 ## 개요
 

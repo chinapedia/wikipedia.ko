@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [BONNIE PINK](https://ko.wikipedia.org/wiki/BONNIE_PINK).
 
 
-**보니 핑크**() 또는 **아사다 가오리**(, [1973년](../Page/1973년.md "wikilink") [4월 16일](../Page/4월_16일.md "wikilink") - )는 [일본](../Page/일본.md "wikilink") [교토 시](https://ko.wikipedia.org/wiki/교토_시 "wikilink") 출신\[1\]의 여성 [싱어송라이터](https://ko.wikipedia.org/wiki/싱어송라이터 "wikilink")이다.
+**보니 핑크**() 또는 **아사다 가오리**(, [1973년](../Page/1973년.md "wikilink") [4월 16일](../Page/4월_16일.md "wikilink") - )는 [일본](../Page/일본.md "wikilink") [교토시](../Page/교토시.md "wikilink") 출신\[1\]의 여성 [싱어송라이터](https://ko.wikipedia.org/wiki/싱어송라이터 "wikilink")이다.
 
 소속사는 타이스케이며, 레이블은 워너 뮤직 재팬이다 (예전엔 [포니캐년](https://ko.wikipedia.org/wiki/포니캐년 "wikilink")에 소속). 공식 팬클럽 이름은 ‘Bonnie Link’이다.
 
@@ -57,4 +57,4 @@
 
 [분류:1973년 태어남](https://ko.wikipedia.org/wiki/분류:1973년_태어남 "wikilink") [분류:살아있는 사람](https://ko.wikipedia.org/wiki/분류:살아있는_사람 "wikilink") [분류:일본의 여자 싱어송라이터](https://ko.wikipedia.org/wiki/분류:일본의_여자_싱어송라이터 "wikilink") [분류:일본의 여자 가수](https://ko.wikipedia.org/wiki/분류:일본의_여자_가수 "wikilink") [분류:교토시 출신](https://ko.wikipedia.org/wiki/분류:교토시_출신 "wikilink") [분류:NHK 홍백가합전 출연자](https://ko.wikipedia.org/wiki/분류:NHK_홍백가합전_출연자 "wikilink") [분류:오사카 교육대학 동문](https://ko.wikipedia.org/wiki/분류:오사카_교육대학_동문 "wikilink")
 
-1.  [난탄 시](https://ko.wikipedia.org/wiki/난탄_시 "wikilink") 출신설도 있지만 이 곳은 아버지의 출신지 이다.
+1.  [난탄시](../Page/난탄시.md "wikilink") 출신설도 있지만 이 곳은 아버지의 출신지이다.

@@ -7,7 +7,7 @@
 
 ### 미합중국 군인으로
 
-버지니아주 웨스트 모아랜드군(郡)의 스트라포트(Stratford Hall)에서 [미국 독립전쟁의](https://ko.wikipedia.org/wiki/미국_독립전쟁 "wikilink") 영웅 [헨리 리 3세와](../Page/헨리_리_3세.md "wikilink") 안나 힐 카터(Anne Hill Carter) 사이에서 태어났다. 리는 [1825년](../Page/1825년.md "wikilink") 뉴욕주 [웨스트포인트에](https://ko.wikipedia.org/wiki/미국_육군사관학교 "wikilink") 입학해 4년 후 차석 성적으로 졸업했다. 졸업 후 리는 직업군인으로의 길을 걸었고, [1832년](../Page/1832년.md "wikilink") 공병장교가 되어, 소위에 임관하고, [1836년](../Page/1836년.md "wikilink") 중위, 그리고 [1838년](../Page/1838년.md "wikilink") 대위로 진급했다.
+버지니아주 웨스트 모아랜드군(郡)의 스트라포트(Stratford Hall)에서 [미국 독립전쟁의](https://ko.wikipedia.org/wiki/미국_독립전쟁 "wikilink") 영웅 [헨리 리 3세와](../Page/헨리_리_3세.md "wikilink") 안나 힐 카터(Anne Hill Carter) 사이에서 태어났다. 리는 [1825년](../Page/1825년.md "wikilink") 뉴욕주 [웨스트포인트에](../Page/미국_육군사관학교.md "wikilink") 입학해 4년 후 차석 성적으로 졸업했다. 졸업 후 리는 직업군인으로의 길을 걸었고, [1832년](../Page/1832년.md "wikilink") 공병장교가 되어, 소위에 임관하고, [1836년](../Page/1836년.md "wikilink") 중위, 그리고 [1838년](../Page/1838년.md "wikilink") 대위로 진급했다.
 
 리는 [1846년](../Page/1846년.md "wikilink")부터 [1848년](../Page/1848년.md "wikilink")까지 계속된 [미국-멕시코 전쟁에](https://ko.wikipedia.org/wiki/미국-멕시코_전쟁 "wikilink") 참전해 무공을 세웠다. [1852년](../Page/1852년.md "wikilink") 모교였던 [웨스트포인트의](https://ko.wikipedia.org/wiki/미국_육군_사관학교 "wikilink") 교장에 임명되었다. 3년간 교장생활을 보낸 후, [1855년](../Page/1855년.md "wikilink") 중령으로 진급한 리는 그 후 수년 간 텍사스주에서 보냈다. [1859년](../Page/1859년.md "wikilink") 버지니아주(현재는 웨스트버지니아주)에서 발생한 전투적 노예제도 반대활동가 존 브라운에 의한 하퍼스 페리 봉기사건의 진압을 지휘했다.
 

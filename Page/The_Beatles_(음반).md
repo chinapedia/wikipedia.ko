@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [The Beatles \(음반\)](https://ko.wikipedia.org/wiki/The_Beatles_\(음반\)).
 
 
-《**The Beatles**》는 [비틀즈](../Page/비틀즈.md "wikilink")의 아홉 번째 정규 앨범이다. 보통 "**White Album**"이라 불리기도 하는데, 이는 앨범 커버에 흰색 바탕과 함께 **The Beatles**라는 글자만 쓰여 있기 때문이다. 또한 실제로 흰색 LP로 된 앨범도 존재했었다. 이는 대중 예술가 [리처드 해밀턴이](https://ko.wikipedia.org/wiki/리처드_해밀턴 "wikilink") 디자인한 것이다. 이 앨범은 비틀즈의 인기가 최절정에 달해있을 때 발매되었고, 대중 음악계에 큰 업적을 남긴 앨범으로 추앙받는다. 본래 제목은 《A Doll's House》였다.
+《**The Beatles**》는 [비틀즈](../Page/비틀즈.md "wikilink")의 아홉 번째 정규 앨범이다. 보통 "**White Album**"이라 불리기도 하는데, 이는 앨범 커버에 흰색 바탕과 함께 **The Beatles**라는 글자만 쓰여 있기 때문이다. 또한 실제로 흰색 LP로 된 앨범도 존재했었다. 이는 대중 예술가 [리처드 해밀턴이](https://ko.wikipedia.org/wiki/리처드_해밀턴_\(예술가\) "wikilink") 디자인한 것이다. 이 앨범은 비틀즈의 인기가 최절정에 달해있을 때 발매되었고, 대중 음악계에 큰 업적을 남긴 앨범으로 추앙받는다. 본래 제목은 《A Doll's House》였다.
 
 이 앨범은 1997년, HMV의 "새 천년의 음악"이란 투표에서 역사상 10번째로 위대한 앨범으로 선정되었다. 1998년에 실시된 Q 매거진의 "100대 영국 음악 앨범" 독자 투표에서 17위, 2000년에는 7위에 올랐으며, 2003년 VH1에선 역사상 11번째로 위대한 앨범에, [롤링 스톤의](../Page/롤링_스톤.md "wikilink") 500대 앨범에는 10위에 등극하였다.
 
@@ -65,7 +65,7 @@
 
 ## 앨범 표지
 
-《The Beatles》의 표지는 [리처드 해밀턴이](https://ko.wikipedia.org/wiki/리처드_해밀턴 "wikilink") 디자인 했다. 해밀턴의 디자인은 [피터 블레이크가](https://ko.wikipedia.org/wiki/피터_블레이크 "wikilink") 디자인한 전(前) 앨범 《[Sgt. Pepper's Lonely Hearts Club Band](https://ko.wikipedia.org/wiki/Sgt._Pepper's_Lonely_Hearts_Club_Band "wikilink")》의 화려한 컬러 표지와는 정 반대의 것이었다. 순백색 바탕에, 돋움(엠보싱)으로 처리된 밴드의 이름 "The BEATLES"가 새겨져 있는 이 표지에는 또한 고유의 일련 번호가 적혀 있었다. 이는 마치 한정판을 구입하는 것처럼 느끼게 하고자 한 해밀턴의 생각이었다.[1](http://www.jpgr.co.uk/pcs7067.html) 후에 미국에서 발매된 비닐 레코드부터는 "The BEATLES"가 회식 글짜로 바뀌었다. CD 역시 초기판은 일련 번호가 적혀 있었으나, 후에 발매된 CD들은 이것이 없어졌고, 제목은 "The BEATLES"를 검정색 혹은 회색으로 표기하게 되었다.
+《The Beatles》의 표지는 [리처드 해밀턴이](https://ko.wikipedia.org/wiki/리처드_해밀턴_\(예술가\) "wikilink") 디자인 했다. 해밀턴의 디자인은 [피터 블레이크가](https://ko.wikipedia.org/wiki/피터_블레이크 "wikilink") 디자인한 전(前) 앨범 《[Sgt. Pepper's Lonely Hearts Club Band](https://ko.wikipedia.org/wiki/Sgt._Pepper's_Lonely_Hearts_Club_Band "wikilink")》의 화려한 컬러 표지와는 정 반대의 것이었다. 순백색 바탕에, 돋움(엠보싱)으로 처리된 밴드의 이름 "The BEATLES"가 새겨져 있는 이 표지에는 또한 고유의 일련 번호가 적혀 있었다. 이는 마치 한정판을 구입하는 것처럼 느끼게 하고자 한 해밀턴의 생각이었다.[1](http://www.jpgr.co.uk/pcs7067.html) 후에 미국에서 발매된 비닐 레코드부터는 "The BEATLES"가 회식 글짜로 바뀌었다. CD 역시 초기판은 일련 번호가 적혀 있었으나, 후에 발매된 CD들은 이것이 없어졌고, 제목은 "The BEATLES"를 검정색 혹은 회색으로 표기하게 되었다.
 
 앨범 내에는 포스터와 가사, [1968년](../Page/1968년.md "wikilink") 가을에 [존 켈리가](https://ko.wikipedia.org/wiki/존_켈리 "wikilink") 촬영한 사진들이 들어가 있었다.
 

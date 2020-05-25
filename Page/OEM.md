@@ -45,7 +45,7 @@ OEM이 더 발전한 개념으로 [ODM](https://ko.wikipedia.org/wiki/ODM "wikil
 
 OEM 방식은 중소기업의 경쟁력을 저하시켜 대기업으로 성장하지 못하게 한다는 비판이 있다.\[5\]
 
-## 함께보기
+## 같이 보기
 
   - [ODM](https://ko.wikipedia.org/wiki/ODM "wikilink") (**O**riginal **D**esign **M**anufacturer) : 제조자 주도 생산 방식
 

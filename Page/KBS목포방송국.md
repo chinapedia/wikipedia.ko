@@ -115,16 +115,9 @@
 
 ## 제작 프로그램
 
-### 1TV 프로그램
+### TV 프로그램(2020년 3월부터는 지역뉴스 프로그램은 광주로 이관되며 이후에는 FM라디오만 방송)
 
-#### 보도
-
-| 프로그램명                                            | 방송시간     | 편성시간           | 진행  |
-| ------------------------------------------------ | -------- | -------------- | --- |
-| [KBS 뉴스 9 목포.전남](../Page/KBS_뉴스_9.md "wikilink") | 월\~금 10분 | 21:30 \~ 21:45 | 박은혜 |
-|                                                  |          |                |     |
-
-#### 1라디오
+### 1라디오
 
   - 목포 · 전남권 뉴스
 
@@ -149,10 +142,7 @@
 <td><p>월요일 ~ 금요일 5분<br />
 토요일 ~ 일요일 5분</p></td>
 <td><p>오전 9시 ~ 9시 5분</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/정윤심" title="wikilink">정윤심</a></p>
-<ul>
-<li><strong><a href="TV:주말">TV:주말</a> 광주 동시 송출</strong></li>
-</ul></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/정윤심" title="wikilink">정윤심</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/KBS_제1라디오_정오종합뉴스.md" title="wikilink">KBS 제1라디오 정오종합뉴스</a></p></td>
@@ -168,8 +158,7 @@
 <td><p>KBS 제1라디오 오후 3시 뉴스</p></td>
 <td><p>토요일 ~ 일요일 5분</p></td>
 <td><p>오후 3시 ~ 3시 5분</p></td>
-<td><p><strong><a href="TV:광주">TV:광주</a> 동시 송출</strong></p>
-<ul>
+<td><ul>
 <li></li>
 </ul></td>
 </tr>
@@ -177,21 +166,21 @@
 <td><p>KBS 제1라디오 오후 5시 뉴스</p></td>
 <td><p>월요일 ~ 금요일 5분</p></td>
 <td><p>오후 5시 ~ 5시 5분</p></td>
-<td><p>박은혜(TV:동시 송출)</p></td>
+<td><p>박은혜</p></td>
 </tr>
 <tr class="even">
 <td><p>KBS 제1라디오 오후 6시 뉴스</p></td>
 <td><p>토요일 ~ 일요일 5분</p></td>
 <td><p>저녁 6시 ~ 6시 5분</p></td>
-<td><p><strong><a href="TV:광주">TV:광주</a> 동시 송출</strong></p></td>
+<td></td>
 </tr>
 </tbody>
 </table>
 
   - 프로그램
-      - [출발 서해안 시대](https://web.archive.org/web/20150220073236/http://mokpo.kbs.co.kr/radio/start/about/index.html) : 월\~금,(08:30 \~ 08:58, 28분) (진행 정윤심)(TV:동시 송출)
-      - [라디오 상담실](https://web.archive.org/web/20150220073229/http://mokpo.kbs.co.kr/radio/radio/about/index.html) : 월\~금,35분 (진행 김석훈)(TV:동시 송출)
-      - [라디오 매거진 오늘](https://web.archive.org/web/20150220072153/http://mokpo.kbs.co.kr/radio/magazine/about/index.html) : 월\~금,53분 (진행 김석훈)(TV:동시 송출)
+      - [출발 서해안 시대](https://web.archive.org/web/20150220073236/http://mokpo.kbs.co.kr/radio/start/about/index.html) : 월\~금,(08:30 \~ 08:58, 28분) (진행 정윤심)
+      - [라디오 상담실](https://web.archive.org/web/20150220073229/http://mokpo.kbs.co.kr/radio/radio/about/index.html) : 월\~금,35분 (진행 김석훈)
+      - [라디오 매거진 오늘](https://web.archive.org/web/20150220072153/http://mokpo.kbs.co.kr/radio/magazine/about/index.html) : 월\~금,53분 (진행 김석훈)
 
 ## 아나운서
 

@@ -63,7 +63,7 @@
     연애관에 관한 설정이 작품에 따라 조금씩 다르다.
   - 카시와 히토미()
     ※ 목소리 출연 - [고바야시 사나에](https://ko.wikipedia.org/wiki/고바야시_사나에 "wikilink")() [전숙경](../Page/전숙경.md "wikilink")
-    사토 타츠히로의 [고등학교](https://ko.wikipedia.org/wiki/고등학교 "wikilink") 선배로, [약물의존증](../Page/약물의존증.md "wikilink")과 [자해](https://ko.wikipedia.org/wiki/자해 "wikilink")하는 버릇이 있다. 소설판에서는 직업이 없지만 만화판에서는 [공무원](https://ko.wikipedia.org/wiki/공무원 "wikilink")이며, [대학교](https://ko.wikipedia.org/wiki/대학교 "wikilink") 선배 죠우가사키()와 [결혼](https://ko.wikipedia.org/wiki/결혼 "wikilink")한다(죠우가사키는 만화판에서 미사키가 다니는 학교의 상담 교사로, 소설판에서는 이름조차 등장하지 않는다). 사토를 꾀어 불륜 관계를 맺으려 하기도 한다. 애니메이션판에서는 스즈키의 알토 래핀(ALTO Lapin)을 모는 것으로 설정되어 있다.
+    사토 타츠히로의 [고등학교](https://ko.wikipedia.org/wiki/고등학교 "wikilink") 선배로, [약물의존증](../Page/약물의존증.md "wikilink")과 [자해](../Page/자해.md "wikilink")하는 버릇이 있다. 소설판에서는 직업이 없지만 만화판에서는 [공무원](https://ko.wikipedia.org/wiki/공무원 "wikilink")이며, [대학교](https://ko.wikipedia.org/wiki/대학교 "wikilink") 선배 죠우가사키()와 [결혼](https://ko.wikipedia.org/wiki/결혼 "wikilink")한다(죠우가사키는 만화판에서 미사키가 다니는 학교의 상담 교사로, 소설판에서는 이름조차 등장하지 않는다). 사토를 꾀어 불륜 관계를 맺으려 하기도 한다. 애니메이션판에서는 스즈키의 알토 래핀(ALTO Lapin)을 모는 것으로 설정되어 있다.
     닉네임은 ‘\*HANA(하나하나)’.
 
 아래의 캐릭터들은 소설판에는 등장하지 않는다.

@@ -5,10 +5,11 @@
 
 ## 채널 번호
 
-  - 스카이라이프(올레TV 스카이라이프) 채널 - 27번
+  - [스카이라이프](https://ko.wikipedia.org/wiki/스카이라이프 "wikilink")(KT OTS) 채널 - 27번
   - SK BTV 채널 - 30번
-  - 올레TV 채널 - 35번
-  - LG U+ TV 채널 - 31번
+  - KT OTV (올레TV 라이브) 채널 - 35번
+  - [LG U+](https://ko.wikipedia.org/wiki/LG_U+ "wikilink") TV 채널 - 31번
+  - [SK브로드밴드](../Page/SK브로드밴드.md "wikilink") 케이블 채널 - 52번
 
 ## 슬로건
 

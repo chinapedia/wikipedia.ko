@@ -167,7 +167,7 @@
       - 커플링 : FARAWAY
 17. 세계 제일 HAPPY한 여자아이 () (2011년 [9월 7일](../Page/9월_7일.md "wikilink"))
       - 커플링 : 위대한 힘을\! ()
-18. 너는 자전거 나는 전철로 귀가 () ([2012년](../Page/2012년.md "wikilink") [4월 18일](../Page/4월_18일.md "wikilink"))
+18. [너는 자전거 나는 전철로 귀가](../Page/너는_자전거_나는_전철로_귀가.md "wikilink") () ([2012년](../Page/2012년.md "wikilink") [4월 18일](../Page/4월_18일.md "wikilink"))
       - 커플링 : 사랑은 언제나 언제나 () (초회생산한정반 · 통상반)／너는 자전거 나는 전철로 귀가 (야지마 마이미 ver.) () (초회생산한정반 B)／너는 자전거 나는 전철로 귀가 (나카지마 사키 ver.) () (초회생산한정반 C)／너는 자전거 나는 전철로 귀가 (스즈키 아이리 ver.) () (초회생산한정반 D)／너는 자전거 나는 전철로 귀가 (오카이 치사토 ver.) () (초회생산한정반 E)／너는 자전거 나는 전철로 귀가 (하기와라 마이 ver.) () (초회생산한정반 F)
 19. 만나고 싶은 만나고 싶은 만나고 싶은데 () (2012년 [9월 5일](../Page/9월_5일.md "wikilink"))
       - 커플링 : 슬픈 헤븐 () (초회생산한정반 A · 통상반)／최고 뮤직 () (초회생산한정반 B\~D)
@@ -2225,13 +2225,13 @@ To Tomorrow／환타지 스컬／The Curtain Rises</p></td>
 
   - [℃-ute (큐트) 공식 팬클럽 사이트](https://web.archive.org/web/20161116122259/http://www.up-fc.jp/helloproject/member/cute/) (2016년 11월 16일 시점의 인터넷 아카이브)
 
-  - [℃-ute (큐트) 공식 블로그 (GREE)](http://gree.jp/c_ute)
+  - [℃-ute (큐트) 공식 블로그 (GREE)](https://web.archive.org/web/20100419110111/http://gree.jp/c_ute)
 
   - [℃-ute (큐트) 공식 블로그 (Ameblo)](http://ameblo.jp/c-ute-official)
 
-  - [℃-ute (큐트) 스페셜 대백과 사이트](http://www.up-front-works.jp/cutehistory/)
+  - [℃-ute (큐트) 스페셜 대백과 사이트](https://web.archive.org/web/20150206083920/http://www.up-front-works.jp/cutehistory/)
 
-  - [UP-FRONT WORKS 디스코그래피](http://www.up-front-works.jp/release/search/?a=c-ute)
+  - [UP-FRONT WORKS 디스코그래피](https://web.archive.org/web/20190420031341/http://www.up-front-works.jp/release/search/?a=c-ute)
 
   - [층쿠♂ 오피셜 웹사이트의 코멘트](https://web.archive.org/web/20080107073844/http://www.tsunku.net/cute.htm)
 
@@ -2249,12 +2249,12 @@ To Tomorrow／환타지 스컬／The Curtain Rises</p></td>
 
 1.  [층쿠♂ 공식 사이트 코멘트 Berryz코보의 탄생에 대해서](http://www.tsunku.net/comments01.htm)  (2004년 1월 15일)
 2.  예를 들어 TV출연과 기타 헬로\! 프로젝트 그룹과 듀엣 등, 그룹 단위로서의 안정적 활동을 부여받으나, 7명은 한정된 멤버만 스케줄을 부여받는 정도의 상황이었다.
-3.  . Berryz코보가 아닌 헬로\! 프로젝트 키즈의 의미, 비공식 호칭이지만 [Google 검색](http://www.google.co.jp/search?hl=ja&q=%E9%9D%9E%E3%83%99%E3%83%AA%E3%82%AD%E3%83%83%E3%82%BA&lr=lang_ja)을 참고했을 때, 각종 사이트나 블로그에서 사용된 명칭이었음을 알 수 있다. 이외에도 “**7KIDS**”라고도 불렸다.
+3.  . Berryz코보가 아닌 헬로\! 프로젝트 키즈의 의미, 비공식 호칭이지만 [Google 검색](http://www.google.co.jp/search?hl=ja&q=%E9%9D%9E%E3%83%99%E3%83%AA%E3%82%AD%E3%83%83%E3%82%BA&lr=lang_ja) 을 참고했을 때, 각종 사이트나 블로그에서 사용된 명칭이었음을 알 수 있다. 이외에도 “**7KIDS**”라고도 불렸다.
 4.  여기서는 [일본 레코드협회](http://www.riaj.or.jp/)에 소속되지 않은 음반사를 가리킨다. [회원사](http://www.riaj.or.jp/about/member.html)를 보면, [BMG 재팬](https://ko.wikipedia.org/wiki/BMG_재팬 "wikilink"), [에이벡스](https://ko.wikipedia.org/wiki/에이벡스 "wikilink"), [소니 뮤직](https://ko.wikipedia.org/wiki/소니_뮤직 "wikilink") 등이 정회원으로 가입되어 있으며, 여기에 없는 음반사를 가리켜 인디즈()라고 한다. 자세한 사항은 [일본어판 인디즈 항목을](https://ko.wikipedia.org/wiki/:ja:インディーズ "wikilink") 참조
 5.  [1](http://www.laforet.ne.jp/company/index.html)  컨설턴트 회사 모리빌 유통시스템 주식회사()에서 만든 다목적 홀.
 6.  공원 내 야외무대. 1만여 명 수용.
 7.  [업프런트 에이전시](../Page/업프런트_프로모션.md "wikilink") (현 업프런트 프로모션) 빌딩 1층에 있는 레스토랑
-8.  [℃-ute에 관한 소식](http://www.helloproject.com/news/5568/)
+8.
 9.
 10. 이 앨범의 발매 예정일은 2011년 3월 23일의 예정이었지만, 동년 3월 11일에 발생한 [2011년 도호쿠 지방 태평양 앞바다 지진의](https://ko.wikipedia.org/wiki/2011년_도호쿠_지방_태평양_앞바다_지진 "wikilink") 영향에 의해 2주일 후의 4월 6일이 되는 것이 발표되었다(자세한 내용은 본 [사이트](http://www.helloproject.com/news/1103231800_hello.html) 를 참고).
 11. 사이타마 현 미나미 사이타마 군 소재 놀이동산. [일본어판 항목](https://ko.wikipedia.org/wiki/:ja:東武動物公園 "wikilink") 참조

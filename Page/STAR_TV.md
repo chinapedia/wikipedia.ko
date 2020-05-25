@@ -66,11 +66,11 @@
 
 ### 관계 채널(대한민국)
 
-  - [내셔널 지오그래픽 채널 코리아](https://ko.wikipedia.org/wiki/내셔널지오그래픽채널_코리아 "wikilink")(National Geographic Channel Korea) - [CJ제일제당](../Page/CJ제일제당.md "wikilink")의 산하계열사 [CJ E\&M과](../Page/CJ_E&M.md "wikilink") 합작하여 개국했으나 현재는 NGC에 매각하였지만 디즈니에 인수
+  - [내셔널 지오그래픽 채널 코리아](https://ko.wikipedia.org/wiki/내셔널지오그래픽채널_코리아 "wikilink")(National Geographic Channel Korea) - [CJ제일제당](../Page/CJ제일제당.md "wikilink")의 산하계열사 [CJ E\&M과](../Page/CJ_E&M.md "wikilink") 합작하여 개국했으나 현재는 NGC에 매각하였지만 디즈니에 인수.
   - [FOX](../Page/폭스_채널.md "wikilink") - [태광그룹](../Page/태광그룹.md "wikilink") 계열사인 [티캐스트](../Page/티캐스트.md "wikilink")와 합작하여 개국한 채널이다.
   - [FOX life](../Page/폭스_라이프.md "wikilink") - 태광그룹 계열사인 티캐스트와 합작하여 개국한 채널이다.
-  - [FX](https://ko.wikipedia.org/wiki/FX_\(방송사\) "wikilink") - 태광그룹 계열사인 티캐스트와 합작하여 개국한 채널이다. 디즈니에 인수
-  - [JTBC3 FOX Sports](../Page/JTBC3_폭스_스포츠.md "wikilink") - 중앙일보 계열사인 [중앙미디어네트워크](https://ko.wikipedia.org/wiki/중앙미디어네트워크 "wikilink")와 합작하여 개국한 채널이다.
+  - [FX](https://ko.wikipedia.org/wiki/FX_\(방송사\) "wikilink") - 태광그룹 계열사인 티캐스트와 합작하여 개국한 채널이다. 디즈니에 인수.
+  - [JTBC3 FOX Sports](../Page/JTBC_골프&스포츠.md "wikilink") - 중앙일보 계열사인 [중앙미디어네트워크](https://ko.wikipedia.org/wiki/중앙미디어네트워크 "wikilink")와 합작하여 개국한 채널이다. 2020년 3월부터 [JTBC 골프&스포츠로](../Page/JTBC_골프&스포츠.md "wikilink") 채널명 변경.
 
 ## 외부 링크
 

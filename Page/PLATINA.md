@@ -102,7 +102,7 @@
 13. Platina 13권 - [2009년](../Page/2009년.md "wikilink") [7월 30일](../Page/7월_30일.md "wikilink") ()
 14. Platina 14권 - [2010년](../Page/2010년.md "wikilink") [3월 3일](../Page/3월_3일.md "wikilink") ()
 
-## 함께 보기
+## 같이 보기
 
   - [김연주](../Page/김연주_\(만화가\).md "wikilink")
   - [소녀왕](../Page/소녀왕.md "wikilink")

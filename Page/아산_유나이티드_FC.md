@@ -22,6 +22,6 @@
 
 ## 외부 링크
 
-  - [아산 유나이티드](http://cafe.daum.net/ASANFC) - 다음 카페
+  - [아산 유나이티드](https://web.archive.org/web/20071127010641/http://cafe.daum.net/ASANFC) - 다음 카페
 
 [아산_유나이티드_FC](https://ko.wikipedia.org/wiki/분류:아산_유나이티드_FC "wikilink") [분류:2007년 설립된 축구단](https://ko.wikipedia.org/wiki/분류:2007년_설립된_축구단 "wikilink") [분류:2015년 폐지](https://ko.wikipedia.org/wiki/분류:2015년_폐지 "wikilink") [분류:K3리그 (아마추어) 구단](https://ko.wikipedia.org/wiki/분류:K3리그_\(아마추어\)_구단 "wikilink") [분류:아산시의 스포츠](https://ko.wikipedia.org/wiki/분류:아산시의_스포츠 "wikilink") [분류:2005년 설립된 축구단](https://ko.wikipedia.org/wiki/분류:2005년_설립된_축구단 "wikilink")

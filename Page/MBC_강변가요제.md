@@ -155,23 +155,23 @@
   - [1979년](../Page/1979년.md "wikilink") : [박원웅](../Page/박원웅.md "wikilink")
   - [1981년](../Page/1981년.md "wikilink") : [박원웅](../Page/박원웅.md "wikilink")
   - [1982년](../Page/1982년.md "wikilink") : [이택림](../Page/이택림.md "wikilink"), [임예진](../Page/임예진.md "wikilink")
-  - [1983년](../Page/1983년.md "wikilink") : [차인태](../Page/차인태.md "wikilink"), [홍광은](https://ko.wikipedia.org/wiki/홍광은 "wikilink")
+  - [1983년](../Page/1983년.md "wikilink") : [차인태](../Page/차인태.md "wikilink"), 홍광은
   - [1984년](../Page/1984년.md "wikilink") : [이문세](../Page/이문세.md "wikilink"), [길은정](../Page/길은정.md "wikilink")
-  - [1985년](../Page/1985년.md "wikilink") : [이수만](../Page/이수만.md "wikilink"), [이수정](https://ko.wikipedia.org/wiki/이수정 "wikilink")
+  - [1985년](../Page/1985년.md "wikilink") : [이수만](../Page/이수만.md "wikilink"), 이수정
   - [1986년](../Page/1986년.md "wikilink") : [이문세](../Page/이문세.md "wikilink"), [이선희](../Page/이선희.md "wikilink")
-  - [1987년](../Page/1987년.md "wikilink") : [손창민](../Page/손창민.md "wikilink"), [왕수현](https://ko.wikipedia.org/wiki/왕수현 "wikilink")
+  - [1987년](../Page/1987년.md "wikilink") : [손창민](../Page/손창민.md "wikilink"), 왕수현
   - [1988년](../Page/1988년.md "wikilink") : [이수만](../Page/이수만.md "wikilink"), [정혜정](../Page/정혜정.md "wikilink")
   - [1989년](../Page/1989년.md "wikilink") : [이수만](../Page/이수만.md "wikilink"), [김연주](../Page/김연주_\(방송인\).md "wikilink")
   - [1990년](../Page/1990년.md "wikilink") : [이수만](../Page/이수만.md "wikilink"), [이미연](../Page/이미연_\(배우\).md "wikilink")
-  - [1991년](../Page/1991년.md "wikilink") : [변우민](../Page/변우민.md "wikilink"), [강연희](https://ko.wikipedia.org/wiki/강연희 "wikilink")
+  - [1991년](../Page/1991년.md "wikilink") : [변우민](../Page/변우민.md "wikilink"), 강연희
   - [1992년](../Page/1992년.md "wikilink") : [이문세](../Page/이문세.md "wikilink"), [노사연](../Page/노사연.md "wikilink")
   - [1993년](../Page/1993년.md "wikilink") : [이문세](../Page/이문세.md "wikilink"), [유열](../Page/유열.md "wikilink"), [이승연](../Page/이승연.md "wikilink")
   - [1994년](../Page/1994년.md "wikilink") : [손석희](../Page/손석희.md "wikilink"), [노사연](../Page/노사연.md "wikilink")
   - [1995년](../Page/1995년.md "wikilink") : [주병진](../Page/주병진.md "wikilink"), [박소현](../Page/박소현_\(배우\).md "wikilink")
   - [1996년](../Page/1996년.md "wikilink") : [김현철](../Page/김현철_\(가수\).md "wikilink"). [박소현](../Page/박소현_\(배우\).md "wikilink")
   - [1997년](../Page/1997년.md "wikilink") : [신동호](../Page/신동호_\(아나운서\).md "wikilink"), [김소연](../Page/김소연_\(배우\).md "wikilink")
-  - [1998년](../Page/1998년.md "wikilink") : [신동호](../Page/신동호_\(아나운서\).md "wikilink"), [김국진](../Page/김국진.md "wikilink"), [김현주](../Page/김현주_\(1964년\).md "wikilink")
-  - [1999년](../Page/1999년.md "wikilink") : [이휘재](../Page/이휘재.md "wikilink"), [김현주](../Page/김현주_\(1964년\).md "wikilink")
+  - [1998년](../Page/1998년.md "wikilink") : [신동호](../Page/신동호_\(아나운서\).md "wikilink"), [김국진](../Page/김국진.md "wikilink"), [김현주](../Page/김현주_\(1977년\).md "wikilink")
+  - [1999년](../Page/1999년.md "wikilink") : [이휘재](../Page/이휘재.md "wikilink"), [김현주](../Page/김현주_\(1977년\).md "wikilink")
   - [2000년](../Page/2000년.md "wikilink") : [윤다훈](../Page/윤다훈.md "wikilink"), [박광현](../Page/박광현_\(배우\).md "wikilink"), [이정현](../Page/이정현_\(1980년\).md "wikilink")
   - [2001년](../Page/2001년.md "wikilink") : [류시원](../Page/류시원.md "wikilink"), [황인영](../Page/황인영.md "wikilink")
 

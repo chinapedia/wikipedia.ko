@@ -59,9 +59,9 @@
 
 3MC가 대결을 펼쳐 시민 혹은 연예인을 무작정 찾아가 스피드퀴즈 혹은 미션을 수행한다.
 
-출연자: [강호동](../Page/강호동.md "wikilink"), [강병규](../Page/강병규_\(1972년\).md "wikilink"), [남희석](../Page/남희석.md "wikilink")
+  - 출연자: [강호동](../Page/강호동.md "wikilink"), [강병규](../Page/강병규_\(1972년\).md "wikilink"), [남희석](../Page/남희석.md "wikilink")
 
-이후, [MBC의](../Page/MBC_TV.md "wikilink") 연예 프로그램인 [세상을 바꾸는 퀴즈의](../Page/세상을_바꾸는_퀴즈.md "wikilink") 다짜고짜 스피드 퀴즈에서 전화 형식으로 바뀌어 등장한 바 있다.
+이후, [MBC의](../Page/MBC_TV.md "wikilink") 연예 프로그램인 [세상을 바꾸는 퀴즈의](../Page/세상을_바꾸는_퀴즈.md "wikilink") 〈다짜고짜 스피드 퀴즈〉에서 전화 형식으로 바뀌어 등장한 바 있다.
 
 #### 2기 - 오늘의 미션
 
@@ -75,7 +75,9 @@
 
 ##### 범용
 
-3글자 단어 끝말잇기인 [쿵쿵따](https://ko.wikipedia.org/wiki/쿵쿵따 "wikilink") 게임 등을 했다. 3글자 단어로 끝말잇기를 하다가 중간에 말이 막히면 지게 되는 형식이다. 중간에 걸린 멤버는 다양한 벌칙을 받게 된다. 그리고 매주 다양한 컨셉으로 시청자들의 재미를 주었다.(예:학교, 스키장, 영화관....) 그 뒤, 쿵쿵따 금지단어라는 규칙도 생겨났으며, 2기에서는 2자, 3자 단어를 번갈아 말하는 형식으로 바뀌었다. 후에 1박 2일에서 말도 안되는 쿵쿵따라는 새로운 게임을 만들기도 했다.\[5\]
+3글자 단어 끝말잇기인 [쿵쿵따](https://ko.wikipedia.org/wiki/쿵쿵따 "wikilink") 게임 등을 했다. 3글자 단어로 끝말잇기를 하다가 중간에 말이 막히면 지게 되는 형식이다. 중간에 걸린 멤버는 다양한 벌칙을 받게 된다. 그리고 매주 다양한 컨셉으로 시청자들의 재미를 주었다.(예:학교, 스키장, 영화관....) 그 뒤, 쿵쿵따 금지단어라는 규칙도 생겨났으며, 2기에서는 2자, 3자 단어를 번갈아 말하는 형식으로 바뀌었다.
+
+이에 대해 훗날 《[1박 2일](../Page/1박_2일.md "wikilink")》에서는 말도 안되는 쿵쿵따라는 새로운 게임을 만들기도 했다.\[5\]
 
   - 1기 멤버 : 진행-[이지연](../Page/이지연_\(1975년\).md "wikilink") 아나운서, [유재석](https://ko.wikipedia.org/wiki/유재석 "wikilink"), [강호동](../Page/강호동.md "wikilink"), [이휘재](../Page/이휘재.md "wikilink"), [김한석](../Page/김한석.md "wikilink")
   - 2기 멤버 : 진행-[임성민](../Page/임성민_\(1969년\).md "wikilink") 아나운서, [주영훈](https://ko.wikipedia.org/wiki/주영훈 "wikilink"), [강성범](../Page/강성범.md "wikilink")\[6\], [신정환](../Page/신정환.md "wikilink"), [강병규](../Page/강병규_\(1972년\).md "wikilink")
@@ -123,12 +125,18 @@
 
 초기에는 MC대격돌 3기 멤버들로 MC 구성이 이루어졌으나 중간에 강성범과 주영훈이 하차하고 [유재석](https://ko.wikipedia.org/wiki/유재석 "wikilink")과 이혁재가 4기로 투입되면서 분위기가 살아나고 벌칙 수행 또한 발전함에 따라 인기를 얻기 시작했다. 하지만 계속되는 MC들의 벌칙 수행에 가혹행위라는 비난의 목소리도 많았다.\[7\]
 
-한편, 2기 멤버 [이혁재](../Page/이혁재.md "wikilink")는 룸살롱 폭행사건 때문에\[8\], [강병규는](../Page/강병규_\(1972년\).md "wikilink") 상습도박 사건\[9\], [신정환](../Page/신정환.md "wikilink")은 상습도박 사건 탓인지 KBS 출연금지 명단에 올라야 했으며 이들 중 [강병규](../Page/강병규_\(1972년\).md "wikilink") [신정환](../Page/신정환.md "wikilink")은 나중에 MBC와 SBS에서도 출연금지 명단에 이름을 올려야 했는데 2014년 1월 5일 KBS 2TV [1박 2일에서는](../Page/1박_2일.md "wikilink") 해당 프로그램(위험한 초대) 자료화면에서 [이혁재](../Page/이혁재.md "wikilink") [강병규](../Page/강병규_\(1972년\).md "wikilink") [신정환](../Page/신정환.md "wikilink")이 모자이크 처리되는 수모를 겪었다. 진행 : [임성민](https://ko.wikipedia.org/wiki/임성민 "wikilink") 아나운서
+한편, 2기 멤버 [이혁재](../Page/이혁재.md "wikilink")는 룸살롱 폭행사건 때문에\[8\], [강병규는](../Page/강병규_\(1972년\).md "wikilink") 상습도박 사건\[9\], [신정환](../Page/신정환.md "wikilink")은 상습도박 사건 탓인지 KBS 출연금지 명단에 올라야 했으며 이들 중 [강병규](../Page/강병규_\(1972년\).md "wikilink") [신정환](../Page/신정환.md "wikilink")은 나중에 MBC와 SBS에서도 출연금지 명단에 이름을 올려야 했는데 2014년 1월 5일 KBS 2TV [1박 2일에서는](../Page/1박_2일.md "wikilink") 해당 프로그램(위험한 초대) 자료화면에서 [이혁재](../Page/이혁재.md "wikilink") [강병규](../Page/강병규_\(1972년\).md "wikilink") [신정환](../Page/신정환.md "wikilink")이 모자이크 처리되는 수모를 겪었다.
+
+  - 진행 : [임성민](https://ko.wikipedia.org/wiki/임성민 "wikilink") 아나운서
+
+<!-- end list -->
 
   - 1기 멤버 : [주영훈](https://ko.wikipedia.org/wiki/주영훈 "wikilink"), [강성범](../Page/강성범.md "wikilink"), [신정환](../Page/신정환.md "wikilink"), [강병규](../Page/강병규_\(1972년\).md "wikilink")
   - 2기 멤버 : [유재석](https://ko.wikipedia.org/wiki/유재석 "wikilink"), [이혁재](../Page/이혁재.md "wikilink"), [강병규](../Page/강병규_\(1972년\).md "wikilink"), [신정환](../Page/신정환.md "wikilink")
 
-출연자 : 게스트
+<!-- end list -->
+
+  -   - 출연자 : 게스트
 
 [MBC의](https://ko.wikipedia.org/wiki/MBCTV "wikilink") 연예 프로그램인 [무한도전](../Page/무한도전.md "wikilink")의 예능사관학교(여름 예능 캠프) 특집에서 그 형식이 부활하기도 했으며, [KBS 2TV의](../Page/KBS_2TV.md "wikilink") 인기 연예 프로그램인 [1박 2일에서도](../Page/1박_2일.md "wikilink") 뱀사골 여행기부터 포맷 차용이 이루어졌다.
 
@@ -137,7 +145,7 @@
   - 방영일 : [2003년](../Page/2003년.md "wikilink") [6월 1일](../Page/6월_1일.md "wikilink") \~ [2003년](../Page/2003년.md "wikilink") [10월 19일](../Page/10월_19일.md "wikilink")
 
 운명의 바퀴를 돌려, 누가, 언제, 어디서, 무엇을, 왜, 어떻게에 해당하는 벌칙을 만들고 게임을 통하여 벌칙자를 선정한다.
-출연 : [유재석](https://ko.wikipedia.org/wiki/유재석 "wikilink"), [이혁재](../Page/이혁재.md "wikilink"), [강병규](../Page/강병규_\(1972년\).md "wikilink"), [신정환](../Page/신정환.md "wikilink")
+\* 출연 : [유재석](https://ko.wikipedia.org/wiki/유재석 "wikilink"), [이혁재](../Page/이혁재.md "wikilink"), [강병규](../Page/강병규_\(1972년\).md "wikilink"), [신정환](../Page/신정환.md "wikilink")
 
 [MBC의](../Page/MBC_TV.md "wikilink") 연예 프로그램인 [무한도전](../Page/무한도전.md "wikilink")의 달력만들기 특집에서 그 형식이 부활하기도 했으며, [KBS 2TV의](../Page/KBS_2TV.md "wikilink") 인기 예능 프로그램인 [1박 2일에서도](../Page/1박_2일.md "wikilink") 복불복 대축제 특집 때 포맷 차용이 이루어졌다.
 
@@ -147,15 +155,15 @@
 
 출연 멤버들이 훈련을 받고, 각 스포츠 분야 지존들에게 도전하는 형식의 프로그램으로 《유재석과 감개무량》의 전신이 되는 프로그램이다.\[10\] [출발 드림팀에](https://ko.wikipedia.org/wiki/출발_드림팀 "wikilink") 비해 멤버들의 실력이 형편없어 '바보 드림팀'이라고 비난을 받았다.
 
-과거 [KBS 2TV에서](../Page/KBS_2TV.md "wikilink") [유재석](https://ko.wikipedia.org/wiki/유재석 "wikilink")이 진행하던 《한국이 보인다》에서 했던 '인정사정 볼것 없다'와 유사한 프로그램으로 그 계통을 이어받았으며 그 뒤로 《**슈퍼 TV 일요일은 즐거워**》가 공영성을 이유로 폐지된 후에 [SBS로](../Page/SBS_TV.md "wikilink") 자리를 옮겨 "**[일요일이 좋다](../Page/일요일이_좋다.md "wikilink")**"의 《유재석과 감개무량》으로 이어지다\[11\] 그 프로그램마저 폐지된 후 [MBC](https://ko.wikipedia.org/wiki/MBC "wikilink")로 다시금 자리를 옮겨 **"[무한도전](../Page/무한도전.md "wikilink")"** 1기로 이어져가기도 한다.\[12\]
+과거 [KBS 2TV에서](../Page/KBS_2TV.md "wikilink") [유재석](https://ko.wikipedia.org/wiki/유재석 "wikilink")이 진행하던 《한국이 보인다》에서 했던 '인정사정 볼것 없다'와 유사한 프로그램으로 그 계통을 이어받았으며 그 뒤로 《**슈퍼 TV 일요일은 즐거워**》가 공영성을 이유로 폐지된 후에 [SBS로](../Page/SBS_TV.md "wikilink") 자리를 옮겨 "**[일요일이 좋다](../Page/일요일이_좋다.md "wikilink")**"의 《유재석과 감개무량》으로 이어지다\[11\] 그 프로그램마저 폐지된 후 [MBC로](../Page/MBC_TV.md "wikilink") 다시금 자리를 옮겨 **"[무한도전](../Page/무한도전.md "wikilink")"** 1기로 이어져가기도 한다.\[12\]
 
-출연자 : [유재석](https://ko.wikipedia.org/wiki/유재석 "wikilink"), [남창희](https://ko.wikipedia.org/wiki/남창희 "wikilink"), [이혁재](../Page/이혁재.md "wikilink"), [김종석](../Page/김종석_\(배우\).md "wikilink"), [지상렬](../Page/지상렬.md "wikilink"), [김종민](../Page/김종민.md "wikilink"), 게스트
+  - 출연자 : [유재석](https://ko.wikipedia.org/wiki/유재석 "wikilink"), [남창희](https://ko.wikipedia.org/wiki/남창희 "wikilink"), [이혁재](../Page/이혁재.md "wikilink"), [김종석](../Page/김종석_\(배우\).md "wikilink"), [지상렬](../Page/지상렬.md "wikilink"), [김종민](../Page/김종민.md "wikilink") & 게스트
 
 ### 캠퍼스 영상가요
 
 전국에 있는 대학교를 찾아가 대학생 커플들의 체력테스트와 대학생들의 장기자랑을 엿보는 프로그램.
 
-출연자: [강호동](../Page/강호동.md "wikilink"), 모교 출신 연예인들
+  - 출연자: [강호동](../Page/강호동.md "wikilink"), 모교 출신 연예인들
 
 '너를 보여줘\!'코너에서 장기자랑에 통과한 출연자들을 대학교 홍보 뮤직비디오에 출연한다.
 
@@ -165,7 +173,9 @@
 
 초창기에는 공익광고를 만드는 수행 미션을 하였다. 결혼식장, 지하철, 공항 등 다양한 곳에서 광고촬영을 했으며, 광고를 만들 때까지 무제한 도전을 하였다. 그 뒤, 개편으로 대학교 캠퍼스 광고로 형식이 바뀌었으며, 무제한 도전했던 형식에서 10번 안에 성공하지 못하면 대학교 캠퍼스 광고를 만들 수가 없었다.
 
-출연자: [강호동](../Page/강호동.md "wikilink"), [강병규](../Page/강병규_\(1972년\).md "wikilink"), [핑클](../Page/핑클.md "wikilink")
+  - 출연자: [강호동](../Page/강호동.md "wikilink"), [강병규](../Page/강병규_\(1972년\).md "wikilink"), [핑클](../Page/핑클.md "wikilink")
+
+<!-- end list -->
 
   - 1회 소방서
   - 2회 지하철
@@ -219,7 +229,7 @@
 
 국내 최초 본격 대한민국 불멸의 스포츠 버라이어티를 표방한 프로그램.
 
-출연자: [이창명](../Page/이창명.md "wikilink") \[13\]
+  - 출연자: [이창명](../Page/이창명.md "wikilink") \[13\]
 
 [1999년](../Page/1999년.md "wikilink") [1월 17일](../Page/1월_17일.md "wikilink") 방송을 시작하여 [2003년](../Page/2003년.md "wikilink") [6월 8일](../Page/6월_8일.md "wikilink") 종영되었다가, [2009년](../Page/2009년.md "wikilink") [10월 25일부터](../Page/10월_25일.md "wikilink") [2016년](../Page/2016년.md "wikilink") [5월 29일까지](../Page/5월_29일.md "wikilink") [출발드림팀 시즌2가](../Page/출발드림팀_시즌_2.md "wikilink") 방영되었다.
 
@@ -231,13 +241,13 @@
 
 TV해결사 MC들이 쌀을 팔고 성금을 기부하는 형식이다.
 
-출연자: [유재석](https://ko.wikipedia.org/wiki/유재석 "wikilink"), [이휘재](../Page/이휘재.md "wikilink")
+  - 출연자: [유재석](https://ko.wikipedia.org/wiki/유재석 "wikilink"), [이휘재](../Page/이휘재.md "wikilink")
 
 #### 대한민국 만세
 
 대한민국 국민들이 소원을 빌면서 MC들이 그 소원을 통해 미션을 수행한다.
 
-출연자: [유재석](https://ko.wikipedia.org/wiki/유재석 "wikilink"), [이휘재](../Page/이휘재.md "wikilink"), [김생민](../Page/김생민.md "wikilink")
+  - 출연자: [유재석](https://ko.wikipedia.org/wiki/유재석 "wikilink"), [이휘재](../Page/이휘재.md "wikilink"), [김생민](../Page/김생민.md "wikilink")
 
 ### 역대 코너
 
@@ -281,9 +291,9 @@ TV해결사 MC들이 쌀을 팔고 성금을 기부하는 형식이다.
   - 초특급 일요일 만세 (2001\~2002년, [SBS](../Page/SBS.md "wikilink"))
   - 쇼 일요천하 (2002년, [SBS](../Page/SBS.md "wikilink"))
   - 뷰티풀 선데이 (2002\~2004년, [SBS](../Page/SBS.md "wikilink"))
-  - [황수관](../Page/황수관.md "wikilink")의 [호기심 천국](../Page/호기심_천국.md "wikilink") (1999년 9월 5일 \~ 11월 7일(당시 이 프로그램은 6시부터 8시까지 와이드화 방송됨), 2000년 10월 22일 \~ 2001년 3월 11일, [SBS](../Page/SBS.md "wikilink"))
+  - [황수관](../Page/황수관.md "wikilink")의 [호기심 천국](../Page/호기심_천국.md "wikilink") (1999년 9월 5일 \~ 11월 7일)\[14\]
 
-## 함께 보기
+## 같이 보기
 
   - [슈퍼선데이](../Page/슈퍼선데이.md "wikilink")
   - [일요일은 101%](https://ko.wikipedia.org/wiki/일요일은_101% "wikilink")
@@ -300,7 +310,7 @@ TV해결사 MC들이 쌀을 팔고 성금을 기부하는 형식이다.
 
 ## 각주
 
-[분류:일요일](https://ko.wikipedia.org/wiki/분류:일요일 "wikilink") [분류:대한민국의 텔레비전 게임 쇼](https://ko.wikipedia.org/wiki/분류:대한민국의_텔레비전_게임_쇼 "wikilink") [분류:대한민국의 텔레비전 버라이어티 쇼](https://ko.wikipedia.org/wiki/분류:대한민국의_텔레비전_버라이어티_쇼 "wikilink") [분류:한국방송공사의 연예오락 프로그램](https://ko.wikipedia.org/wiki/분류:한국방송공사의_연예오락_프로그램 "wikilink")
+[분류:일요일](https://ko.wikipedia.org/wiki/분류:일요일 "wikilink") [분류:대한민국의 텔레비전 게임 쇼](https://ko.wikipedia.org/wiki/분류:대한민국의_텔레비전_게임_쇼 "wikilink") [분류:대한민국의 텔레비전 버라이어티 쇼](https://ko.wikipedia.org/wiki/분류:대한민국의_텔레비전_버라이어티_쇼 "wikilink") [분류:한국방송공사의 연예오락 프로그램](https://ko.wikipedia.org/wiki/분류:한국방송공사의_연예오락_프로그램 "wikilink") [분류:2003년 폐지](https://ko.wikipedia.org/wiki/분류:2003년_폐지 "wikilink") [분류:1998년에 시작한 대한민국 TV 프로그램](https://ko.wikipedia.org/wiki/분류:1998년에_시작한_대한민국_TV_프로그램 "wikilink") [분류:2003년에 종료한 대한민국 TV 프로그램](https://ko.wikipedia.org/wiki/분류:2003년에_종료한_대한민국_TV_프로그램 "wikilink")
 
 1.
 2.
@@ -315,3 +325,4 @@ TV해결사 MC들이 쌀을 팔고 성금을 기부하는 형식이다.
 11. [［강명석의 TV 홀릭］ '모방'이라고 다 같은 건 아니다](http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=038&aid=0000235000)
 12. [〔방송〕또… 그 나물에… 그밥… 새단장 MBC 시청자 외면](http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=106&oid=020&aid=0000295925)
 13. 한국토지공사 흙기사(현. 한국토지주택공사 흙기사)팀과의 대결은 이창명의 무리한 목 사용으로 탈이 나서 염경환이 대신 진행했다.
+14. 당시 이 프로그램은 6시부터 8시까지 와이드화되어 방송된 바 있으며, 2000년 10월 22일부터 2001년 3월 11일까지 [SBS에서](../Page/SBS_TV.md "wikilink") 방영되었다.

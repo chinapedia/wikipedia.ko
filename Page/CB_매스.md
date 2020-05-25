@@ -43,7 +43,7 @@ CB Mass는 "Movement 2"라는 곡을 통해 윤희중을 [디스한](../Page/디
 
 CB Mass는 원래 "Critical Brain Mass", 즉 비판적인 두뇌를 한 집단이란 말의 약자라고 알려져 있다. 하지만 온라인 상에서는 한편으로 이 그룹의 뜻이 "CurBin Mass", 즉 커빈의 집단이란 뜻으로 커빈이 자신을 리더로 내세웠다고 하는 사람들도 있다.
 
-## 함께 보기
+## 같이 보기
 
   - [다이나믹 듀오](../Page/다이나믹_듀오.md "wikilink")
   - [에픽 하이](https://ko.wikipedia.org/wiki/에픽_하이 "wikilink")

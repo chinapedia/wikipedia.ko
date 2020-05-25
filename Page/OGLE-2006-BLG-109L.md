@@ -41,7 +41,7 @@ OGLE-2006-BLG-109L은 적어도 두 개의 행성([b](../Page/OGLE-2006-BLG-109L
 </tbody>
 </table>
 
-## 함께 보기
+## 같이 보기
 
   - [큰곰자리 47](../Page/큰곰자리_47.md "wikilink")
   - [OGLE-2005-BLG-390L](../Page/OGLE-2005-BLG-390L.md "wikilink")

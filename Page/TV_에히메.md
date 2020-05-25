@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [TV 에히메](https://ko.wikipedia.org/wiki/TV_에히메).
 
 
-[200px](https://ko.wikipedia.org/wiki/파일:Ebc_logo.svg "wikilink") **TV 에히메**()는 [1969년](../Page/1969년.md "wikilink") [12월 10일](../Page/12월_10일.md "wikilink") 개국한 [에히메현](../Page/에히메현.md "wikilink")의 2번째 민영 방송국으로 약칭은 EBC, 콜사인은 JOEI-DTV이다.
+[200px](https://ko.wikipedia.org/wiki/파일:Ebc_logo.svg "wikilink") **TV 에히메**()는 [1969년](../Page/1969년.md "wikilink") [12월 10일](../Page/12월_10일.md "wikilink") 개국한 [에히메현](../Page/에히메현.md "wikilink")의 민영 방송국으로 약칭은 EBC, 콜사인은 JOEI-DTV이다.
 
 ## 연혁
 

@@ -65,7 +65,7 @@
 
   - [MBC 에브리원](../Page/MBC_에브리원.md "wikilink")
   - [SBS funE](../Page/SBS_funE.md "wikilink")
-  - [JTBC2](https://ko.wikipedia.org/wiki/JTBC2 "wikilink")
+  - [JTBC2](../Page/JTBC2.md "wikilink")
   - [TV조선2](https://ko.wikipedia.org/wiki/TV조선2 "wikilink")
   - [스카이 엔터](../Page/스카이_엔터.md "wikilink")
   - [tvN](https://ko.wikipedia.org/wiki/tvN "wikilink")

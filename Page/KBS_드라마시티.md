@@ -652,7 +652,7 @@
 <td><p>74</p></td>
 <td><p>12월 9일</p></td>
 <td><p>슬픈 하와이</p></td>
-<td><p><a href="../Page/서우림.md" title="wikilink">서우림</a>, <a href="../Page/장미자.md" title="wikilink">장미자</a>, <a href="../Page/박웅.md" title="wikilink">박웅</a>, <a href="https://ko.wikipedia.org/wiki/이춘식_(배우)" title="wikilink">이춘식</a>,<br />
+<td><p><a href="../Page/서우림.md" title="wikilink">서우림</a>, <a href="../Page/장미자.md" title="wikilink">장미자</a>, <a href="../Page/박웅.md" title="wikilink">박웅</a>, <a href="../Page/이춘식_(배우).md" title="wikilink">이춘식</a>,<br />
 <a href="../Page/윤지숙.md" title="wikilink">윤지숙</a>, <a href="../Page/정국진_(배우).md" title="wikilink">정국진</a></p></td>
 <td><p>김채운</p></td>
 <td><p>김형일</p></td>
@@ -949,7 +949,7 @@
 <td><p>8월 25일</p></td>
 <td><p>동하의 시절</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/김현주" title="wikilink">김현주</a>, <a href="../Page/장기용_(1956년).md" title="wikilink">장기용</a>, <a href="../Page/강민규.md" title="wikilink">강민규</a>, <a href="https://ko.wikipedia.org/wiki/김지선" title="wikilink">김지선</a>,<br />
-<a href="https://ko.wikipedia.org/wiki/이병욱" title="wikilink">이병욱</a>, <a href="https://ko.wikipedia.org/wiki/김수정" title="wikilink">김수정</a></p></td>
+<a href="https://ko.wikipedia.org/wiki/이병욱" title="wikilink">이병욱</a>, <a href="../Page/김수정.md" title="wikilink">김수정</a></p></td>
 <td><p>장복심</p></td>
 <td><p>이재영</p></td>
 </tr>
@@ -2866,7 +2866,7 @@
 <td><p>1월 13일</p></td>
 <td><p>고달픈 가족</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/강인덕" title="wikilink">강인덕</a>, <a href="../Page/정은표.md" title="wikilink">정은표</a>, <a href="../Page/김홍표.md" title="wikilink">김홍표</a>, <a href="https://ko.wikipedia.org/wiki/박용진" title="wikilink">박용진</a>,<br />
-<a href="https://ko.wikipedia.org/wiki/장영란" title="wikilink">장영란</a>, 최학락</p></td>
+<a href="../Page/장영란.md" title="wikilink">장영란</a>, 최학락</p></td>
 <td><p>김루리</p></td>
 <td><p>이정섭</p></td>
 </tr>
@@ -3410,6 +3410,6 @@
   - [KBS 드라마시티 공식 홈페이지](http://www.kbs.co.kr/drama/dramacity/)
   - [KBS 특집 테마드라마 "살아가는 동안 후회할 줄 알면서 저지르는 일들" 공식 홈페이지](http://www.kbs.co.kr/drama/4story/)
 
-[KBS 드라마시티](https://ko.wikipedia.org/wiki/분류:한국방송공사의_텔레비전_드라마 "wikilink") [분류:단막극](https://ko.wikipedia.org/wiki/분류:단막극 "wikilink") [분류:앤솔러지 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:앤솔러지_텔레비전_프로그램 "wikilink") [KBS_드라마시티](https://ko.wikipedia.org/wiki/분류:KBS_드라마시티 "wikilink")
+[KBS 드라마시티](https://ko.wikipedia.org/wiki/분류:한국방송공사의_텔레비전_드라마 "wikilink") [분류:단막극](https://ko.wikipedia.org/wiki/분류:단막극 "wikilink") [분류:앤솔러지 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:앤솔러지_텔레비전_프로그램 "wikilink") [KBS_드라마시티](https://ko.wikipedia.org/wiki/분류:KBS_드라마시티 "wikilink") [분류:2000년에 시작한 대한민국 TV 프로그램](https://ko.wikipedia.org/wiki/분류:2000년에_시작한_대한민국_TV_프로그램 "wikilink") [분류:2008년에 종료한 대한민국 TV 프로그램](https://ko.wikipedia.org/wiki/분류:2008년에_종료한_대한민국_TV_프로그램 "wikilink")
 
 1.  (원작 정이현)

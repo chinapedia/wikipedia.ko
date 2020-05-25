@@ -63,7 +63,6 @@
 | 1   | 레프트  | [정동근](https://ko.wikipedia.org/wiki/정동근 "wikilink")             | 2015  | 2018([한국전력](../Page/수원_한국전력_빅스톰.md "wikilink"))                     |
 | 2   | 세터   | [황택의](../Page/황택의.md "wikilink")                                | 2016  |                                                                     |
 | 3   | 세터   | [최익제](https://ko.wikipedia.org/wiki/최익제 "wikilink")             | 2017  |                                                                     |
-| 4   | 리베로  | [정민수](https://ko.wikipedia.org/wiki/정민수 "wikilink")             | 2013  | 2018([우리카드](../Page/서울_우리카드_위비.md "wikilink"))                      |
 | 5   | 라이트  | [한국민](https://ko.wikipedia.org/wiki/한국민 "wikilink")             | 2018  |                                                                     |
 | 6   | 레프트  | [김정호](../Page/김정호_\(배구_선수\).md "wikilink")                      | 2017  | 2018([삼성화재](https://ko.wikipedia.org/wiki/대전_삼성화재_블루팡스 "wikilink")) |
 | 7   | 라이트  | [마테우스 크라우척](https://ko.wikipedia.org/wiki/마테우스_크라우척 "wikilink") | 2019  |                                                                     |
@@ -87,6 +86,7 @@
 | 센터   | 우상조 | 2014  |       | 2020(상무) |
 | 세터   | 양준식 | 2012  |       | 2020(상무) |
 | 레프트  | 황두연 | 2015  |       | 2019(상무) |
+| 리베로  | 정민수 | 2013  |       | 2020()   |
 |      |     |       |       |          |
 
 ### 역대 주요 선수

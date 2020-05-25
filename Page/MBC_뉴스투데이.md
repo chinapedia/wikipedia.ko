@@ -580,8 +580,9 @@
 </tr>
 <tr class="even">
 <td><p>1기</p></td>
-<td><p><a href="../Page/조일수.md" title="wikilink">조일수</a></p></td>
-<td><p><a href="../Page/박영선_(1960년).md" title="wikilink">박영선</a></p></td>
+<td></td>
+<td><p><a href="../Page/조일수.md" title="wikilink">조일수</a><br />
+<a href="../Page/박영선_(1960년).md" title="wikilink">박영선</a></p></td>
 <td><p><a href="../Page/1993년.md" title="wikilink">1993년</a> <a href="../Page/10월_23일.md" title="wikilink">10월 23일</a> ~ <a href="../Page/1995년.md" title="wikilink">1995년</a> <a href="../Page/4월_15일.md" title="wikilink">4월 15일</a></p></td>
 </tr>
 <tr class="odd">

@@ -5,9 +5,13 @@
 
 TCN은 busan Cable Networks의 약자이며 1992년 설립되었다. CATV 관련 방송사업과 인터넷 서비스, 문화사업 등의 사업을 진행하고 있다.
 
-2013년 10월 7일, [부산광역시](https://ko.wikipedia.org/wiki/부산광역시 "wikilink")에 인수되어 딜라이브 TCN 부산방송이 되었다. [중구](../Page/중구_\(부산광역시\).md "wikilink"), [남구를](../Page/남구_\(부산광역시\).md "wikilink") 맡았던 TCN 부산케이블방송은 같은 권역의 딜라이브 부산방송과 통합되었다.
+2013년 10월 7일, [부산광역시](https://ko.wikipedia.org/wiki/부산광역시 "wikilink")에 인수되어 TCN 부산케이블TV이 되었다. [중구](../Page/중구_\(부산광역시\).md "wikilink"), [남구를](../Page/남구_\(부산광역시\).md "wikilink") 맡았던 TCN 부산케이블TV은 같은 권역의 딜라이브 부산방송과 통합되었다.
 
 한편, TCN에서 쓰던 사옥은 부산방송, 경남방송과 통합된 사옥으로 쓰일 예정이다.
+
+## 연혁
+
+  - 2020년 C\&M(현 [딜라이브](../Page/딜라이브.md "wikilink"))계열 부산케이블TV를 SK브로드밴드를 매일경제TV(MBN)은 지역채널(CH5)것이 환영합니다.
 
 ## 프로그램
 
@@ -124,12 +128,12 @@ TCN은 busan Cable Networks의 약자이며 1992년 설립되었다. CATV 관련
 <td><p>13번</p></td>
 </tr>
 <tr class="even">
-<td><p>17-1</p></td>
-<td><p>17번</p></td>
-</tr>
-<tr class="odd">
 <td><p>16-1</p></td>
 <td><p>16번</p></td>
+</tr>
+<tr class="odd">
+<td><p>17-1</p></td>
+<td><p>17번</p></td>
 </tr>
 <tr class="even">
 <td><p>18-1</p></td>
@@ -260,7 +264,7 @@ TCN은 busan Cable Networks의 약자이며 1992년 설립되었다. CATV 관련
 </tr>
 <tr class="even">
 <td><p>52-1</p></td>
-<td><p>146번</p></td>
+<td><p>46번</p></td>
 </tr>
 <tr class="odd">
 <td><p>94-1</p></td>
@@ -309,6 +313,93 @@ TCN은 busan Cable Networks의 약자이며 1992년 설립되었다. CATV 관련
 <tr class="even">
 <td><p>55-1</p></td>
 <td><p>62번</p></td>
+</tr>
+<tr class="odd">
+<td><p>98-1</p></td>
+<td><p>196번</p></td>
+</tr>
+<tr class="even">
+<td><p>61-1</p></td>
+<td><p>142번</p></td>
+</tr>
+<tr class="odd">
+<td><p>-</p></td>
+<td><p>182번</p></td>
+</tr>
+<tr class="even">
+<td><p>-</p></td>
+<td><p>192번</p></td>
+</tr>
+<tr class="odd">
+<td><p>-</p></td>
+<td><p>150번</p></td>
+</tr>
+<tr class="even">
+<td><p>71-1</p></td>
+<td><p>71번</p></td>
+</tr>
+<tr class="odd">
+<td><p>72-1</p></td>
+<td><p>72번</p></td>
+</tr>
+<tr class="even">
+<td><p>-</p></td>
+<td><p>90번</p></td>
+</tr>
+<tr class="odd">
+<td><p>-</p></td>
+<td><p>80번</p></td>
+</tr>
+<tr class="even">
+<td><p>92-1</p></td>
+<td><p>100번</p></td>
+</tr>
+<tr class="odd">
+<td><p>44-1</p></td>
+<td><p>34번</p></td>
+</tr>
+<tr class="even">
+<td><p>-</p></td>
+<td><p>186번</p></td>
+</tr>
+<tr class="odd">
+<td><p>-</p></td>
+<td><p>86번</p></td>
+</tr>
+</tbody>
+</table>
+
+  - **뉴스/시사/경제/스포츠/바둑채널**
+
+<table>
+<thead>
+<tr class="header">
+<th><p>채널 번호</p></th>
+<th><p>채널명</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>디지털<br />
+알뜰형</p></td>
+<td><p>디지털<br />
+케이블</p></td>
+</tr>
+<tr class="even">
+<td><p>HD</p></td>
+<td><p>SD</p></td>
+</tr>
+<tr class="odd">
+<td><p>35-1</p></td>
+<td><p>191번</p></td>
+</tr>
+<tr class="even">
+<td><p>54-1</p></td>
+<td><p>74번</p></td>
+</tr>
+<tr class="odd">
+<td><p>91-1</p></td>
+<td><p>502번</p></td>
 </tr>
 </tbody>
 </table>

@@ -226,7 +226,9 @@
 
 ## 타이틀 변천사
 
-현재 타이틀은 [2018년](../Page/2018년.md "wikilink") [2월 19일을](../Page/2월_19일.md "wikilink") 기준으로 한다.
+현재 타이틀은 [1995년](../Page/1995년.md "wikilink") [9월 4일부터를](../Page/9월_4일.md "wikilink") 기준으로 한다.
+
+[코로나19](https://ko.wikipedia.org/wiki/코로나19 "wikilink") 대유행으로 인하여 현재 **"코로나19 통합뉴스룸"**이라는 명칭으로 대체된 상태이다.
 
 <table>
 <thead>

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [판도라TV](https://ko.wikipedia.org/wiki/판도라TV).
 
 
-**판도라TV**는 2004년 10월에 서비스를 시작한 [대한민국](../Page/대한민국.md "wikilink") UCC(User Created Contents)를 다루는 미디어 회사이다. 유튜브 보다 먼저 동영상 공유 사이트를 시작한 세계 최초의 무료 동영상 포털을 시작한 회사이기도 하다.
+**판도라TV**는 2004년 10월에 서비스를 시작한 [대한민국](../Page/대한민국.md "wikilink") UCC(User Created Contents)를 다루는 미디어 회사이다. [유튜브](../Page/유튜브.md "wikilink")보다 먼저 무료 동영상 공유 포털 사이트를 시작한 회사이기도 하다.
 
 주력 사업은 동영상을 통한 광고, 유료 디지털 콘텐츠 및 인터넷과 모바일을 통한 UCC 콘텐츠 공급이다. [판도라티비](http://www.pandora.tv/), [kmplayer](http://www.kmplayer.com/) , 에브리온 TV, prism 등의 플랫폼 서비스를 제공한다. [판도라티비](http://www.pandora.tv/)는 예능, 드라마, 애니메이션, 생활, 문화, 음악 등의 카테고리 별 동영상과 더불어 카카오톡 랭킹 채널, 블랙박스 채널, 대한민국 막장남녀 채널 등 국내 최다 800만 개의 동영상 데이터를 보유하고 있으며 1인 라이브 방송까지 가능한 글로벌 동영상 플랫폼이다.
 

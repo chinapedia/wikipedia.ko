@@ -3064,7 +3064,7 @@ MBC 탤런트실장<br />
 <tr class="odd">
 <td><p>라디오 부문 우수상</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/유희열" title="wikilink">유희열</a><br />
-<a href="https://ko.wikipedia.org/wiki/김방희_(1964년)" title="wikilink">김방희</a></p></td>
+<a href="../Page/김방희_(1964년).md" title="wikilink">김방희</a></p></td>
 <td><p><a href="../Page/FM_음악도시.md" title="wikilink">FM 음악도시</a><br />
 <a href="https://ko.wikipedia.org/wiki/손에_잡히는_경제" title="wikilink">손에 잡히는 경제</a></p></td>
 </tr>
@@ -3182,7 +3182,7 @@ MBC 탤런트실장<br />
 </tr>
 <tr class="even">
 <td><p>여자 캐릭터 인기상</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/김소연_(1980년)" title="wikilink">김소연</a><br />
+<td><p><a href="../Page/김소연_(1980년).md" title="wikilink">김소연</a><br />
 <a href="../Page/박선영_(1976년_배우).md" title="wikilink">박선영</a></p></td>
 <td><p><a href="../Page/이브의_모든_것_(드라마).md" title="wikilink">이브의 모든 것</a><br />
 <a href="../Page/진실_(2000년_드라마).md" title="wikilink">진실</a></p></td>
@@ -5987,7 +5987,7 @@ MBC 야구해설위원</p></td>
 <tr class="odd">
 <td><p>시청자가 뽑은 올해의 드라마</p></td>
 <td><p>-</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/어쩌다_발견한_하루" title="wikilink">어쩌다 발견한 하루</a></p></td>
+<td><p><a href="../Page/어쩌다_발견한_하루.md" title="wikilink">어쩌다 발견한 하루</a></p></td>
 </tr>
 <tr class="even">
 <td><p>월화/특별기획 드라마 최우수 연기상</p></td>
@@ -6022,7 +6022,7 @@ MBC 야구해설위원</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/차은우" title="wikilink">차은우</a><br />
 <a href="../Page/김혜윤.md" title="wikilink">김혜윤</a></p></td>
 <td><p><a href="../Page/신입사관_구해령.md" title="wikilink">신입사관 구해령</a><br />
-<a href="https://ko.wikipedia.org/wiki/어쩌다_발견한_하루" title="wikilink">어쩌다 발견한 하루</a></p></td>
+<a href="../Page/어쩌다_발견한_하루.md" title="wikilink">어쩌다 발견한 하루</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>수목 드라마 조연상</p></td>
@@ -6034,14 +6034,14 @@ MBC 야구해설위원</p></td>
 <td><p><a href="../Page/이상우_(배우).md" title="wikilink">이상우</a><br />
 <a href="../Page/예지원.md" title="wikilink">예지원</a></p></td>
 <td><p><a href="../Page/황금정원.md" title="wikilink">황금정원</a><br />
-<a href="https://ko.wikipedia.org/wiki/두_번은_없다" title="wikilink">두 번은 없다</a></p></td>
+<a href="../Page/두_번은_없다.md" title="wikilink">두 번은 없다</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>일일/주말 드라마 우수 연기상</p></td>
 <td><p><a href="../Page/류수영.md" title="wikilink">류수영</a><br />
 <a href="../Page/박세완.md" title="wikilink">박세완</a></p></td>
 <td><p><a href="../Page/슬플_때_사랑한다.md" title="wikilink">슬플 때 사랑한다</a><br />
-<a href="https://ko.wikipedia.org/wiki/두_번은_없다" title="wikilink">두 번은 없다</a></p></td>
+<a href="../Page/두_번은_없다.md" title="wikilink">두 번은 없다</a></p></td>
 </tr>
 <tr class="even">
 <td><p>일일/주말 드라마 조연상</p></td>
@@ -6066,9 +6066,9 @@ MBC 야구해설위원</p></td>
 <tr class="even">
 <td><p>신인상</p></td>
 <td><p><a href="../Page/로운.md" title="wikilink">로운</a><br />
-<a href="https://ko.wikipedia.org/wiki/이재욱_(1998년)" title="wikilink">이재욱</a><br />
+<a href="../Page/이재욱_(1998년).md" title="wikilink">이재욱</a><br />
 <a href="../Page/김혜윤.md" title="wikilink">김혜윤</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/어쩌다_발견한_하루" title="wikilink">어쩌다 발견한 하루</a></p></td>
+<td><p><a href="../Page/어쩌다_발견한_하루.md" title="wikilink">어쩌다 발견한 하루</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>작가상</p></td>

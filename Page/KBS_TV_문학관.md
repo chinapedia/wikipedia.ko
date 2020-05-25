@@ -1249,7 +1249,7 @@
 <tr class="even">
 <td><p>61화</p></td>
 <td><p>10월 23일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/외출" title="wikilink">외출</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/외출_(1982년_드라마)" title="wikilink">외출</a></p></td>
 <td><p>이유민</p></td>
 <td><p>박병우</p></td>
 <td><p>이유황</p></td>
@@ -3707,7 +3707,7 @@ Rayfield.Brittenum Tim.Gilder<br />
 <td><p>193화</p></td>
 <td><p>8월 17일</p></td>
 <td><p>휴가 연습</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/김주영_(1939년)" title="wikilink">김주영</a></p></td>
+<td><p><a href="../Page/김주영_(1939년).md" title="wikilink">김주영</a></p></td>
 <td><p>박성조</p></td>
 <td><p>맹만재</p></td>
 <td><p>최화정 강태기 김소원 김미영<br />
@@ -3934,15 +3934,17 @@ Rayfield.Brittenum Tim.Gilder<br />
 한경수 고희준 박현정 임병기<br />
 윤영주 윤성국 오기환 임찬호<br />
 김람호</p></td>
-<td></td>
-<td></td>
+<td><p><a href="https://www.youtube.com/watch?v=Oz-BdPhPc4g"><a href="https://ko.wikipedia.org/wiki/파일:Open_Iconic_video.svg" title="wikilink">30px</a></a></p></td>
+<td><p>거대한 유산의 상속권을 둘러싸고 벌어지는 인간의 탐욕스러움과 순간의 횡재에 어쩔 줄 모르던<br />
+순박한 여인의 팽배한 배금주의에 물들어가며 인간의 본질이 위기를 당하나 결국 양자에 대한 모정으로<br />
+인간성의 회복을 보여준 작품.</p></td>
 </tr>
 <tr class="odd">
 <td><p>207화</p></td>
 <td><p>11월 30일</p></td>
 <td><p>숨은 그림 찾기</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/이상문" title="wikilink">이상문</a></p></td>
-<td><p>신승수</p></td>
+<td><p>신문고</p></td>
 <td><p>김재순</p></td>
 <td><p>민욱 임혁 신구 정해창<br />
 정영숙 이미경 박영목 김영철<br />
@@ -3950,8 +3952,10 @@ Rayfield.Brittenum Tim.Gilder<br />
 김봉근 김동완 김영기 박승규<br />
 김상락 김영선 강은주 정유경<br />
 문성재 원유재</p></td>
-<td></td>
-<td></td>
+<td><p><a href="https://www.youtube.com/watch?v=tldu5n1IZ2U"><a href="https://ko.wikipedia.org/wiki/파일:Open_Iconic_video.svg" title="wikilink">30px</a></a></p></td>
+<td><p>시대출판사의 새 회장과 임원이 주인공 봉주에게 근대사 기록 중 일제시대와 6.25를 전후하여<br />
+악명을 떨쳤던 허만식과 허기대 부자의 행적을 삭제하고 덕망있는 인물의 사적으로 기록해 달라는 지령이 내려지고<br />
+봉주는 서서히 의혹에 사로잡힌다.</p></td>
 </tr>
 <tr class="even">
 <td><p>208화</p></td>
@@ -3966,8 +3970,9 @@ Rayfield.Brittenum Tim.Gilder<br />
 박용식 서상익 최용욱 박승규<br />
 황민 반석진 박연은 이형진<br />
 최용팔</p></td>
-<td></td>
-<td></td>
+<td><p><a href="https://www.youtube.com/watch?v=MHp_fAJWJus"><a href="https://ko.wikipedia.org/wiki/파일:Open_Iconic_video.svg" title="wikilink">30px</a></a></p></td>
+<td><p>가업을 승계하려는 아버지와 고향을 등지려는 아들과의 갈등 속에서 포구의 숨은 이야기를 밝히고<br />
+뱃사람들의 삶의 모습을 보여주는 작품.</p></td>
 </tr>
 <tr class="odd">
 <td><p>209화</p></td>
@@ -3978,8 +3983,11 @@ Rayfield.Brittenum Tim.Gilder<br />
 <td><p>박진수</p></td>
 <td><p>박진성 이영수 김희령 박길라<br />
 하대경 류대성 차두옥 최건호</p></td>
-<td></td>
-<td></td>
+<td><p><a href="https://www.youtube.com/watch?v=xO_sjLuXH4o"><a href="https://ko.wikipedia.org/wiki/파일:Open_Iconic_video.svg" title="wikilink">30px</a></a></p></td>
+<td><p>역사 속에 잠재해 있는 전쟁의 비극과 전쟁과 개인의 상관관계를 새로운 시각에서 조명하는 순수문예물.<br />
+드라마 사상 전편 동시녹음했다. 휴전협정이 임박해 있을 때 참호 속, 두 병사의 대화를 통해 전쟁이<br />
+가져다 준 무료함과 삶의 단절, 아픔 등을 표출시킨 작품으로, 수채화처럼 펼쳐지는 작품곳곳에 휴머니티가<br />
+짙게 깔린다.</p></td>
 </tr>
 <tr class="even">
 <td><p>210화</p></td>
@@ -3993,8 +4001,9 @@ Rayfield.Brittenum Tim.Gilder<br />
 장희진 이주실 강은주 신수강<br />
 유가영 김희진 최창호 안영주<br />
 이대로 석금성</p></td>
-<td></td>
-<td></td>
+<td><p><a href="https://www.youtube.com/watch?v=GcP8oiIJqgM"><a href="https://ko.wikipedia.org/wiki/파일:Open_Iconic_video.svg" title="wikilink">30px</a></a></p></td>
+<td><p>눈이 많이내린 산골간이역이 무대. 9명의 평범한 등장인물들이 눈사태로 지연되는 막차를 기다리면서<br />
+생각하고 펼치는 고향의 참된 의미와 진정한 삶을 조명한 작품.</p></td>
 </tr>
 <tr class="odd">
 <td><p>211화</p></td>
@@ -4279,7 +4288,7 @@ Rayfield.Brittenum Tim.Gilder<br />
 <td><p>228화</p></td>
 <td><p>5월 17일</p></td>
 <td><p>비석</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/김원석_(작가)" title="wikilink">김원석</a></p></td>
+<td><p><a href="../Page/김원석_(작가).md" title="wikilink">김원석</a></p></td>
 <td><p>성기숙</p></td>
 <td><p>홍성룡</p></td>
 <td><p>김기섭 윤승원 이진숙 허진<br />
@@ -4583,7 +4592,7 @@ Rayfield.Brittenum Tim.Gilder<br />
 <td><p>246화</p></td>
 <td><p>2월 7일</p></td>
 <td><p>외촌장 기행</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/김주영_(1939년)" title="wikilink">김주영</a></p></td>
+<td><p><a href="../Page/김주영_(1939년).md" title="wikilink">김주영</a></p></td>
 <td><p>박평일</p></td>
 <td><p>이영국</p></td>
 <td><p>이종남 <a href="../Page/김희라.md" title="wikilink">김희라</a> 이성호 고희준<br />
@@ -4923,7 +4932,7 @@ Rayfield.Brittenum Tim.Gilder<br />
 <td><p>269화</p></td>
 <td><p>7월 25일</p></td>
 <td><p>겨울새</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/김주영_(1939년)" title="wikilink">김주영</a></p></td>
+<td><p><a href="../Page/김주영_(1939년).md" title="wikilink">김주영</a></p></td>
 <td><p>이은교</p></td>
 <td><p>이영국</p></td>
 <td><p>이종남 <a href="../Page/김희라.md" title="wikilink">김희라</a> <a href="../Page/박용식.md" title="wikilink">박용식</a> 남성식<br />
@@ -5066,18 +5075,18 @@ Rayfield.Brittenum Tim.Gilder<br />
 
 #### 1987년
 
-| 회차  | 방송일     | 작품명      | 원작                                                            | 극본                                                  | 연출  | 출연자 |
-| --- | ------- | -------- | ------------------------------------------------------------- | --------------------------------------------------- | --- | --- |
-| 1화  | 10월 17일 | 해산 바가지   | [박완서](../Page/박완서.md "wikilink")                              | 이국자                                                 | 임학송 |     |
-| 2화  | 10월 24일 | 목마 위의 여자 | [김주영](https://ko.wikipedia.org/wiki/김주영_\(1939년\) "wikilink") |                                                     | 심현우 |     |
-| 3화  | 10월 31일 | 인간의 계곡   | 김준일                                                           |                                                     | 김현준 |     |
-| 4화  | 11월 7일  | 가을비      | [서정인](https://ko.wikipedia.org/wiki/서정인 "wikilink")           | [김운경](https://ko.wikipedia.org/wiki/김운경 "wikilink") | 엄기백 |     |
-| 5화  | 11월 14일 | 폭염       | 천승제                                                           | 이진모                                                 | 차성호 |     |
-| 6화  | 11월 21일 | 연극       | [유재용](https://ko.wikipedia.org/wiki/유재용 "wikilink")           | 홍종원                                                 | 이형표 |     |
-| 7화  | 11월 28일 | 황혼       | [이환경](../Page/이환경_\(작가\).md "wikilink")                       |                                                     | 이동휘 |     |
-| 8화  | 12월 5일  | 숨은 손가락   | [이청준](../Page/이청준.md "wikilink")                              | 박구홍                                                 | 임학송 |     |
-| 9화  | 12월 19일 | 둘째 사위    | [최일남](https://ko.wikipedia.org/wiki/최일남 "wikilink")           | 김금주                                                 | 조문진 |     |
-| 10화 | 12월 26일 | 아버지의 강   | 안장환                                                           | 박찬호                                                 | 심현우 |     |
+| 회차  | 방송일     | 작품명      | 원작                                                  | 극본                                                  | 연출  | 출연자 |
+| --- | ------- | -------- | --------------------------------------------------- | --------------------------------------------------- | --- | --- |
+| 1화  | 10월 17일 | 해산 바가지   | [박완서](../Page/박완서.md "wikilink")                    | 이국자                                                 | 임학송 |     |
+| 2화  | 10월 24일 | 목마 위의 여자 | [김주영](../Page/김주영_\(1939년\).md "wikilink")          |                                                     | 심현우 |     |
+| 3화  | 10월 31일 | 인간의 계곡   | 김준일                                                 |                                                     | 김현준 |     |
+| 4화  | 11월 7일  | 가을비      | [서정인](https://ko.wikipedia.org/wiki/서정인 "wikilink") | [김운경](https://ko.wikipedia.org/wiki/김운경 "wikilink") | 엄기백 |     |
+| 5화  | 11월 14일 | 폭염       | 천승제                                                 | 이진모                                                 | 차성호 |     |
+| 6화  | 11월 21일 | 연극       | [유재용](https://ko.wikipedia.org/wiki/유재용 "wikilink") | 홍종원                                                 | 이형표 |     |
+| 7화  | 11월 28일 | 황혼       | [이환경](../Page/이환경_\(작가\).md "wikilink")             |                                                     | 이동휘 |     |
+| 8화  | 12월 5일  | 숨은 손가락   | [이청준](../Page/이청준.md "wikilink")                    | 박구홍                                                 | 임학송 |     |
+| 9화  | 12월 19일 | 둘째 사위    | [최일남](https://ko.wikipedia.org/wiki/최일남 "wikilink") | 김금주                                                 | 조문진 |     |
+| 10화 | 12월 26일 | 아버지의 강   | 안장환                                                 | 박찬호                                                 | 심현우 |     |
 
 #### 1988년
 
@@ -5467,7 +5476,7 @@ Rayfield.Brittenum Tim.Gilder<br />
 <td><p>8화</p></td>
 <td><p>3월 21일</p></td>
 <td><p>홍어</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/김주영_(1939년)" title="wikilink">김주영</a></p></td>
+<td><p><a href="../Page/김주영_(1939년).md" title="wikilink">김주영</a></p></td>
 <td><p>김병수</p></td>
 <td><p>장기오</p></td>
 <td><p>김수동 김해숙 정다빈 임동진<br />

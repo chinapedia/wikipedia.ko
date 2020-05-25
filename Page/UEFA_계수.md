@@ -622,7 +622,7 @@
 
 ## 국가 리그의 계수
 
-각 시즌의 랭킹은 5년간 합산하며, 그 다음 해의 리그별 [UEFA 챔피언스리그](../Page/UEFA_챔피언스리그.md "wikilink"), [UEFA 유로파리그](../Page/UEFA_유로파리그.md "wikilink"),[UEFA 유로파리그2](https://ko.wikipedia.org/wiki/UEFA_유로파리그2 "wikilink") 티켓 수가 결정된다.
+각 시즌의 랭킹은 5년간 합산하며, 그 다음 해의 리그별 [UEFA 챔피언스리그](../Page/UEFA_챔피언스리그.md "wikilink"), [UEFA 유로파리그](../Page/UEFA_유로파리그.md "wikilink"), [UEFA 유로파리그2](https://ko.wikipedia.org/wiki/UEFA_유로파리그2 "wikilink") 티켓 수가 결정된다.
 
 ### 국가 리그 계수의 계산 방법
 
@@ -648,7 +648,7 @@
 
 2019년 6월 1일 기준으로 UEFA 계수는 다음과 같다.:\[2\]\[3\]
 
-아래 순위는 2014-15 년에서 2018-19까지의 유럽 대회에서 각 협회의 실적을 고려하며 현재 2018-19 시즌이 진행 중이다.
+아래 순위는 2014-15년에서 2018-19까지의 유럽 대회에서 각 협회의 실적을 고려하며 현재 2018-19 시즌이 진행 중이다.
 
 2018-19 시즌의 마지막 순위는 [UEFA 챔피언스리그 2020-21](https://ko.wikipedia.org/wiki/UEFA_챔피언스리그_2020-21 "wikilink") 시즌과 [UEFA 유로파리그 2020-21](https://ko.wikipedia.org/wiki/UEFA_유로파리그_2020-21 "wikilink") 시즌에서 각 협회의 장소 수를 결정하는 데 사용된다.
 

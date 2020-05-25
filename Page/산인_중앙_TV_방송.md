@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [산인 중앙 TV 방송](https://ko.wikipedia.org/wiki/산인_중앙_TV_방송).
 
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:Tsk_logo.svg "wikilink")
+[섬네일|오른쪽|150px|TSK로고 2020년～ ](https://ko.wikipedia.org/wiki/파일:TSK_Sanin-Chuo_4th_Logo.png "wikilink")
 
 **산인 중앙 TV 방송**은 [1970년](../Page/1970년.md "wikilink") [4월 1일](../Page/4월_1일.md "wikilink") 시마네현의 민영방송국으로 개국했다가 [1972년](../Page/1972년.md "wikilink") 돗토리현에도 방송을 시작한 방송국이다.
 

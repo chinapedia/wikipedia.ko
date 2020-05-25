@@ -42,7 +42,7 @@
 
   - [도카이 라디오 방송](../Page/도카이_라디오_방송.md "wikilink")(SF)([NRN](../Page/NRN.md "wikilink") 계열,[기후현](../Page/기후현.md "wikilink")·[미에현](../Page/미에현.md "wikilink")도 방송구역에 포함)
   - [ZIP-FM](../Page/ZIP-FM.md "wikilink")([JAPAN FM LEAGUE](../Page/JAPAN_FM_LEAGUE.md "wikilink") 계열, [아이치현](../Page/아이치현.md "wikilink")만 방송구역)
-  - [Radio NEO](https://ko.wikipedia.org/wiki/Radio_NEO "wikilink")([MegaNet](../Page/MegaNet.md "wikilink") 계열)
+  - [Radio NEO](../Page/Radio_NEO.md "wikilink")([MegaNet](../Page/MegaNet.md "wikilink") 계열)
 
 ## 각주
 

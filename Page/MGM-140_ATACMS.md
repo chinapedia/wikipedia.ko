@@ -7,7 +7,7 @@
 
 ### 블록 1 (Block 1)
 
-950여개의 M74 APAM(대인 & 경장갑 차량)자탄을 탑재한 모델로 사정거리는 165km 이다. [M270 MLRS에서](https://ko.wikipedia.org/wiki/M270_MLRS "wikilink") 발사되며 유도는 관성항법장치로만 진행되는 것이 특징이다.
+950여개의 M74 APAM(대인 & 경장갑 차량)자탄을 탑재한 모델로 사정거리는 165km이다. [M270 MLRS에서](https://ko.wikipedia.org/wiki/M270_MLRS "wikilink") 발사되며 유도는 관성항법장치로만 진행되는 것이 특징이다.
 
 ### 블록 1A (Block 1A)
 

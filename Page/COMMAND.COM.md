@@ -84,7 +84,7 @@
 
 명령 줄의 길이는 최대 128 문자이다. 명령어를 실행할 때 언제나 참 값을 반환한다.
 
-## 함께 보기
+## 같이 보기
 
   - [셸](../Page/셸.md "wikilink")
   - [CMD.EXE](https://ko.wikipedia.org/wiki/CMD.EXE "wikilink")

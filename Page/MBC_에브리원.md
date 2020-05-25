@@ -35,7 +35,7 @@
   - [아이돌 군단의 떴다\! 그녀 시즌 3](../Page/아이돌_군단의_떴다!_그녀.md "wikilink")
   - [아이돌 군단의 떴다\! 그녀 시즌 4](../Page/아이돌_군단의_떴다!_그녀.md "wikilink")
   - [네버엔딩 쇼를 하라](https://ko.wikipedia.org/wiki/네버엔딩_쇼를_하라 "wikilink") (진행 : [김국진](../Page/김국진.md "wikilink"), 패널 : [김지훈](../Page/김지훈_\(1973년_5월\).md "wikilink"), [성대현](../Page/성대현.md "wikilink"), [고영욱](../Page/고영욱.md "wikilink"), [강지은](https://ko.wikipedia.org/wiki/강지은 "wikilink"))
-  - [만리장성-하룻밤의 연애](https://ko.wikipedia.org/wiki/만리장성-하룻밤의_연애 "wikilink") (진행 : [장영란](https://ko.wikipedia.org/wiki/장영란 "wikilink"), [안혜경](../Page/안혜경.md "wikilink"), [채연](https://ko.wikipedia.org/wiki/채연 "wikilink"), [김정민](https://ko.wikipedia.org/wiki/김정민_\(배우\) "wikilink"))
+  - [만리장성-하룻밤의 연애](https://ko.wikipedia.org/wiki/만리장성-하룻밤의_연애 "wikilink") (진행 : [장영란](../Page/장영란.md "wikilink"), [안혜경](../Page/안혜경.md "wikilink"), [채연](https://ko.wikipedia.org/wiki/채연 "wikilink"), [김정민](https://ko.wikipedia.org/wiki/김정민_\(배우\) "wikilink"))
   - [쇼케이스](https://ko.wikipedia.org/wiki/쇼케이스_\(텔레비전_프로그램\) "wikilink") (진행 : [윤종신](../Page/윤종신.md "wikilink"), [김창렬](https://ko.wikipedia.org/wiki/김창렬 "wikilink"), [김진표](../Page/김진표_\(가수\).md "wikilink"))
   - [김호진의 쿡앤툭](https://ko.wikipedia.org/wiki/김호진의_쿡앤툭 "wikilink") (진행 : [김호진](../Page/김호진_\(배우\).md "wikilink"), [강유미](../Page/강유미.md "wikilink"))
   - [이유진의 하이힐](https://ko.wikipedia.org/wiki/이유진의_하이힐 "wikilink") (진행 : [이유진](../Page/이유진_\(여자_배우\).md "wikilink"))
@@ -174,7 +174,7 @@
 
   - [KBS 조이](../Page/KBS_조이.md "wikilink")
   - [SBS funE](../Page/SBS_funE.md "wikilink")
-  - [JTBC2](https://ko.wikipedia.org/wiki/JTBC2 "wikilink")
+  - [JTBC2](../Page/JTBC2.md "wikilink")
   - [TV조선2](https://ko.wikipedia.org/wiki/TV조선2 "wikilink")
   - [NQQ](../Page/스카이_엔터.md "wikilink")
   - [tvN](https://ko.wikipedia.org/wiki/tvN "wikilink")

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Gravity Zero](https://ko.wikipedia.org/wiki/Gravity_Zero).
 
 
-〈**Gravity Zero**〉(**그라비티 제로**)는 [TWO-MIX](../Page/TWO-MIX.md "wikilink")의 18번째 싱글이다.
+〈**Gravity Zero**〉(그라비티 제로)는 [TWO-MIX](../Page/TWO-MIX.md "wikilink")의 18번째 싱글이다.
 
 ## 개요
 

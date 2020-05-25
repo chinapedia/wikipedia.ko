@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [FM 에히메](https://ko.wikipedia.org/wiki/FM_에히메).
 
 
-**FM에히메**는 일본의 FM라디오 방송국으로 [에히메현](../Page/에히메현.md "wikilink")에서 방송을 실시하고 있다. TV 방송도 있다면 TV 도쿄와 계열했겠지.
+**FM에히메**는 일본의 FM라디오 방송국으로 [에히메현](../Page/에히메현.md "wikilink")에서 방송을 실시하고 있다.
 
 [JFN](../Page/JFN.md "wikilink")에 가맹했으며 콜사인과 약칭 모두 JOEU-FM이다.
 

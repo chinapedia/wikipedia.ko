@@ -121,41 +121,7 @@
 
 ## 제작 프로그램
 
-### 텔레비전 방송
-
-#### 뉴스(제작참여)
-
-**KBS원주 1TV**
-
-<table>
-<thead>
-<tr class="header">
-<th><p>프로그램명</p></th>
-<th><p>방송시간</p></th>
-<th><p>편성시간</p></th>
-<th><p>진행</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p><a href="../Page/KBS_뉴스_9.md" title="wikilink">KBS 뉴스 9 원주</a></p></td>
-<td><p>월~금 60분<br />
-토~일 40분</p></td>
-<td><p>21:35 ~ 21:45</p>
-<ul>
-<li><strong>주말편성조정</strong> : <strong>토~일</strong> (21:25 ~ 21:30)</li>
-</ul></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/한태호" title="wikilink">한태호</a> (월~금)<br />
-주말 강원뉴스(춘천 수중계) (토~일)</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+### TV 프로그램(2020년 3월부터는 지역뉴스 프로그램은 춘천으로 이관되며 이후에는 FM라디오만 방송)
 
 #### 시사교양
 

@@ -65,4 +65,4 @@
 
   - [K바둑(한국바둑방송) 공식 홈페이지](http://www.kbaduk.com/)
 
-[분류:2002년 설립된 텔레비전 방송국과 채널](https://ko.wikipedia.org/wiki/분류:2002년_설립된_텔레비전_방송국과_채널 "wikilink") [분류:스카이라이프](https://ko.wikipedia.org/wiki/분류:스카이라이프 "wikilink") [분류:대한민국의 바둑](https://ko.wikipedia.org/wiki/분류:대한민국의_바둑 "wikilink") [분류:대한민국의 텔레비전 케이블 방송국](https://ko.wikipedia.org/wiki/분류:대한민국의_텔레비전_케이블_방송국 "wikilink")
+[분류:2002년 설립된 텔레비전 방송국과 채널](https://ko.wikipedia.org/wiki/분류:2002년_설립된_텔레비전_방송국과_채널 "wikilink") [분류:스카이라이프](https://ko.wikipedia.org/wiki/분류:스카이라이프 "wikilink") [분류:대한민국의 바둑](https://ko.wikipedia.org/wiki/분류:대한민국의_바둑 "wikilink") [분류:대한민국의 텔레비전 케이블 방송국](https://ko.wikipedia.org/wiki/분류:대한민국의_텔레비전_케이블_방송국 "wikilink") [분류:대한민국의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:대한민국의_텔레비전_프로그램 "wikilink")

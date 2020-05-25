@@ -17,8 +17,8 @@ DMC-12는 현재까지도 전 세계적으로 충성도 높은 [매니아](https
 
   - [들로리언 모터스 공식 웹사이트](http://www.delorean.com)
 
-  - [DMC-12의 역사](http://www.lotusespritworld.co.uk/EHistory/DeLorean.html)
+  - [DMC-12의 역사](https://web.archive.org/web/20070409180021/http://www.lotusespritworld.co.uk/EHistory/DeLorean.html)
 
 [분류:들로리언 자동차](https://ko.wikipedia.org/wiki/분류:들로리언_자동차 "wikilink") [분류:스포츠카](https://ko.wikipedia.org/wiki/분류:스포츠카 "wikilink") [분류:후륜구동](https://ko.wikipedia.org/wiki/분류:후륜구동 "wikilink") [분류:패스트백](https://ko.wikipedia.org/wiki/분류:패스트백 "wikilink") [분류:1980년대 자동차](https://ko.wikipedia.org/wiki/분류:1980년대_자동차 "wikilink") [분류:중형 승용차](https://ko.wikipedia.org/wiki/분류:중형_승용차 "wikilink") [분류:1981년 도입된 자동차](https://ko.wikipedia.org/wiki/분류:1981년_도입된_자동차 "wikilink")
 
-1.  주미옥 기자, [‘백투더퓨처’ 타임머신카 내년에 ‘컴백’](http://nownews.seoul.co.kr/news/newsView.php?id=20070731601003), 서울신문 나우뉴스 2007년 7월 31일자
+1.  주미옥 기자, [‘백투더퓨처’ 타임머신카 내년에 ‘컴백’](http://nownews.seoul.co.kr/news/newsView.php?id=20070731601003) , 서울신문 나우뉴스 2007년 7월 31일자

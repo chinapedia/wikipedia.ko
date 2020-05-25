@@ -2,7 +2,7 @@
 
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:CFA_Franc_map.svg "wikilink")
- [중앙아프리카 CFA 프랑](../Page/중앙아프리카_CFA_프랑.md "wikilink")\]\] **CFA 프랑**(, , 또는 구어체로 *franc*)은 12개의 옛 [프랑스](../Page/프랑스.md "wikilink") 지배 [아프리카](../Page/아프리카.md "wikilink") 나라뿐만 아니라 [기니비사우](../Page/기니비사우.md "wikilink")(전 [포르투갈](../Page/포르투갈.md "wikilink") 식민지)와 [적도 기니](../Page/적도_기니.md "wikilink")(전 [스페인](../Page/스페인.md "wikilink") 식민지)의 [통화](https://ko.wikipedia.org/wiki/통화 "wikilink")이다. [중앙아프리카 CFA 프랑의](../Page/중앙아프리카_CFA_프랑.md "wikilink") [ISO 4217](../Page/ISO_4217.md "wikilink") 부호는 **XAF** 이고, [서아프리카 CFA 프랑은](../Page/서아프리카_CFA_프랑.md "wikilink") **XOF** 이다.
+ [중앙아프리카 CFA 프랑](../Page/중앙아프리카_CFA_프랑.md "wikilink")\]\] **CFA 프랑**(, , 또는 구어체로 *franc*)은 12개의 옛 [프랑스](../Page/프랑스.md "wikilink") 지배 [아프리카](../Page/아프리카.md "wikilink") 나라뿐만 아니라 [기니비사우](../Page/기니비사우.md "wikilink")(전 [포르투갈](../Page/포르투갈.md "wikilink") 식민지)와 [적도 기니](../Page/적도_기니.md "wikilink")(전 [스페인](../Page/스페인.md "wikilink") 식민지)의 [통화](https://ko.wikipedia.org/wiki/통화 "wikilink")이다. [중앙아프리카 CFA 프랑의](../Page/중앙아프리카_CFA_프랑.md "wikilink") [ISO 4217](../Page/ISO_4217.md "wikilink") 부호는 **XAF** 이고, [서아프리카 CFA 프랑은](../Page/서아프리카_CFA_프랑.md "wikilink") **XOF**이다.
 
 CFA 프랑은 [유로](../Page/유로.md "wikilink")에 대해 [고정 환율제를](../Page/고정_환율제.md "wikilink") 적용하고 있다: 100 CFA 프랑 = 1 [프랑스 신 프랑](../Page/프랑스_프랑.md "wikilink") = 0.152449 유로; 또는 1 유로 = 655.957 CFA 프랑.
 

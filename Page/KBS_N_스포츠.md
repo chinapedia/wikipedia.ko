@@ -13,10 +13,9 @@
 ## 슬로건
 
   - 대한민국 스포츠채널
-  - 대한민국 대표스포츠채널
-  - More than Sports 1기
+  - 대한민국 대표 스포츠 채널
   - 스포츠 그 이상의 감동
-  - More than Sports 2기
+  - More than Sports
 
 ## 역사
 
@@ -49,8 +48,8 @@
 
 ## 해설 위원
 
-  - 축구 : [한준희](../Page/한준희.md "wikilink"), 박찬하, [최경식](../Page/최경식.md "wikilink"), 김대길, [강신우](../Page/강신우.md "wikilink")
-  - 야구 : [이용철](../Page/이용철_\(야구인\).md "wikilink"), [안치용](https://ko.wikipedia.org/wiki/안치용_\(야구_선수\) "wikilink"), [장성호](../Page/장성호_\(야구인\).md "wikilink"), [봉중근](../Page/봉중근.md "wikilink")
+  - 축구 : [한준희](../Page/한준희.md "wikilink"), 박찬하, [최경식](../Page/최경식.md "wikilink"), 김대길, 변성화
+  - 야구 : [이용철](../Page/이용철_\(야구인\).md "wikilink"), [안치용](https://ko.wikipedia.org/wiki/안치용_\(야구_선수\) "wikilink"), [장성호](../Page/장성호_\(야구인\).md "wikilink"), [봉중근](../Page/봉중근.md "wikilink"), [장정석](../Page/장정석.md "wikilink")
   - 배구 : 이세호, [이숙자](../Page/이숙자.md "wikilink"), 박희상, [한유미](../Page/한유미.md "wikilink"), [김상우](https://ko.wikipedia.org/wiki/김상우 "wikilink")
   - 농구 : 김택훈, [정은순](../Page/정은순.md "wikilink"), [조성원](https://ko.wikipedia.org/wiki/조성원 "wikilink"), [김은혜](https://ko.wikipedia.org/wiki/김은혜_\(농구인\) "wikilink"), 손대범
   - 테니스 : 김성배, 박용국, 임규태

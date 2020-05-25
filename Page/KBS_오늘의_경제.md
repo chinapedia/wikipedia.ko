@@ -109,22 +109,22 @@
 
 #### 경제전망대 - 경제투데이 - 경제포커스
 
-| 대수  | 진행자                                                    | 진행 기간                                                                                                                                                    | 비고    |
-| --- | ------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- |
-| 1대  | 박태호 교수                                                 | [1998년](../Page/1998년.md "wikilink") [1월 11일](../Page/1월_11일.md "wikilink") \~ 2000년 [10월 8일](../Page/10월_8일.md "wikilink")                              |       |
-| 2대  | [정필모](https://ko.wikipedia.org/wiki/정필모 "wikilink") 기자 | [2000년](../Page/2000년.md "wikilink") [10월 14일](../Page/10월_14일.md "wikilink") \~ 2002년 [3월 1일](../Page/3월_1일.md "wikilink")                              |       |
-| 3대  | [이현주](../Page/이현주_\(언론인\).md "wikilink") 기자            | [2002년](../Page/2002년.md "wikilink") [3월 8일](../Page/3월_8일.md "wikilink") \~ 2003년 [5월 30일](../Page/5월_30일.md "wikilink")                                |       |
-| 4대  | [임장원](../Page/임장원.md "wikilink") 기자                    | [2003년](../Page/2003년.md "wikilink") [6월 6일](../Page/6월_6일.md "wikilink") \~ 2003년 [11월 2일](../Page/11월_2일.md "wikilink")                                |       |
-| 5대  | [박찬형](../Page/박찬형_\(언론인\).md "wikilink") 기자            | [2003년](../Page/2003년.md "wikilink") [11월 9일](../Page/11월_9일.md "wikilink") \~ 2004년 [8월 15일](../Page/8월_15일.md "wikilink")                              |       |
-| 6대  | [이현주](../Page/이현주_\(언론인\).md "wikilink") 기자            | [2004년](../Page/2004년.md "wikilink") [9월 5일](../Page/9월_5일.md "wikilink") \~ 2005년 [10월 28일](../Page/10월_28일.md "wikilink")                              | \[1\] |
-| 7대  | [박찬형](../Page/박찬형_\(언론인\).md "wikilink") 기자            | [2005년](../Page/2005년.md "wikilink") [10월 31일](../Page/10월_31일.md "wikilink") \~ 2006년 [11월 24일](../Page/11월_24일.md "wikilink")                          | \[2\] |
-| 8기  | 박상용 기자                                                 | [2006년](../Page/2006년.md "wikilink") [11월 27일](../Page/11월_27일.md "wikilink") \~ 2006년 [12월 22일](../Page/12월_22일.md "wikilink")                          |       |
-| 9대  | 박현진 기자                                                 | [2007년](../Page/2007년.md "wikilink") [1월 8일](../Page/1월_8일.md "wikilink") \~ 2007년 [4월 27일](../Page/4월_27일.md "wikilink")                                |       |
-| 10대 | [국혜정](../Page/국혜정.md "wikilink") 아나운서                  | [2007년](../Page/2007년.md "wikilink") [4월 30일](../Page/4월_30일.md "wikilink") \~ 2008년 [3월 28일](../Page/3월_28일.md "wikilink")                              |       |
-| 11대 | [박노원](../Page/박노원.md "wikilink") 아나운서                  | [2008년](../Page/2008년.md "wikilink") [3월 31일](../Page/3월_31일.md "wikilink") \~ 2009년 [10월 16일](../Page/10월_16일.md "wikilink")                            |       |
-| 12대 | [이영호](../Page/이영호_\(아나운서\).md "wikilink") 아나운서         | [2009년](../Page/2009년.md "wikilink") [10월 19일](../Page/10월_19일.md "wikilink") \~ 2013년 [4월 5일](../Page/4월_5일.md "wikilink")                              |       |
-| 13대 | [김재홍](../Page/김재홍_\(아나운서\).md "wikilink") 아나운서         | [2013년](../Page/2013년.md "wikilink") [4월 8일](../Page/4월_8일.md "wikilink") \~ 2013년 [10월 18일](../Page/10월_18일.md "wikilink")                              |       |
-| 14대 | [이상호](../Page/이상호_\(아나운서\).md "wikilink") 아나운서         | [2015년](../Page/2015년.md "wikilink") [4월 6일](../Page/4월_6일.md "wikilink") \~ [2016년](../Page/2016년.md "wikilink") [4월 22일](../Page/4월_22일.md "wikilink") |       |
+| 대수  | 진행자                                            | 진행 기간                                                                                                                                                    | 비고    |
+| --- | ---------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- |
+| 1대  | 박태호 교수                                         | [1998년](../Page/1998년.md "wikilink") [1월 11일](../Page/1월_11일.md "wikilink") \~ 2000년 [10월 8일](../Page/10월_8일.md "wikilink")                              |       |
+| 2대  | [정필모](../Page/정필모.md "wikilink") 기자            | [2000년](../Page/2000년.md "wikilink") [10월 14일](../Page/10월_14일.md "wikilink") \~ 2002년 [3월 1일](../Page/3월_1일.md "wikilink")                              |       |
+| 3대  | [이현주](../Page/이현주_\(언론인\).md "wikilink") 기자    | [2002년](../Page/2002년.md "wikilink") [3월 8일](../Page/3월_8일.md "wikilink") \~ 2003년 [5월 30일](../Page/5월_30일.md "wikilink")                                |       |
+| 4대  | [임장원](../Page/임장원.md "wikilink") 기자            | [2003년](../Page/2003년.md "wikilink") [6월 6일](../Page/6월_6일.md "wikilink") \~ 2003년 [11월 2일](../Page/11월_2일.md "wikilink")                                |       |
+| 5대  | [박찬형](../Page/박찬형_\(언론인\).md "wikilink") 기자    | [2003년](../Page/2003년.md "wikilink") [11월 9일](../Page/11월_9일.md "wikilink") \~ 2004년 [8월 15일](../Page/8월_15일.md "wikilink")                              |       |
+| 6대  | [이현주](../Page/이현주_\(언론인\).md "wikilink") 기자    | [2004년](../Page/2004년.md "wikilink") [9월 5일](../Page/9월_5일.md "wikilink") \~ 2005년 [10월 28일](../Page/10월_28일.md "wikilink")                              | \[1\] |
+| 7대  | [박찬형](../Page/박찬형_\(언론인\).md "wikilink") 기자    | [2005년](../Page/2005년.md "wikilink") [10월 31일](../Page/10월_31일.md "wikilink") \~ 2006년 [11월 24일](../Page/11월_24일.md "wikilink")                          | \[2\] |
+| 8기  | 박상용 기자                                         | [2006년](../Page/2006년.md "wikilink") [11월 27일](../Page/11월_27일.md "wikilink") \~ 2006년 [12월 22일](../Page/12월_22일.md "wikilink")                          |       |
+| 9대  | 박현진 기자                                         | [2007년](../Page/2007년.md "wikilink") [1월 8일](../Page/1월_8일.md "wikilink") \~ 2007년 [4월 27일](../Page/4월_27일.md "wikilink")                                |       |
+| 10대 | [국혜정](../Page/국혜정.md "wikilink") 아나운서          | [2007년](../Page/2007년.md "wikilink") [4월 30일](../Page/4월_30일.md "wikilink") \~ 2008년 [3월 28일](../Page/3월_28일.md "wikilink")                              |       |
+| 11대 | [박노원](../Page/박노원.md "wikilink") 아나운서          | [2008년](../Page/2008년.md "wikilink") [3월 31일](../Page/3월_31일.md "wikilink") \~ 2009년 [10월 16일](../Page/10월_16일.md "wikilink")                            |       |
+| 12대 | [이영호](../Page/이영호_\(아나운서\).md "wikilink") 아나운서 | [2009년](../Page/2009년.md "wikilink") [10월 19일](../Page/10월_19일.md "wikilink") \~ 2013년 [4월 5일](../Page/4월_5일.md "wikilink")                              |       |
+| 13대 | [김재홍](../Page/김재홍_\(아나운서\).md "wikilink") 아나운서 | [2013년](../Page/2013년.md "wikilink") [4월 8일](../Page/4월_8일.md "wikilink") \~ 2013년 [10월 18일](../Page/10월_18일.md "wikilink")                              |       |
+| 14대 | [이상호](../Page/이상호_\(아나운서\).md "wikilink") 아나운서 | [2015년](../Page/2015년.md "wikilink") [4월 6일](../Page/4월_6일.md "wikilink") \~ [2016년](../Page/2016년.md "wikilink") [4월 22일](../Page/4월_22일.md "wikilink") |       |
 
 ##### KBS 뉴스 토크 - KBS 뉴스 4 - KBS 오늘의 경제
 
