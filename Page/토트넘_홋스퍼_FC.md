@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [토트넘 홋스퍼 FC](https://ko.wikipedia.org/wiki/토트넘_홋스퍼_FC).
 
 
-**토트넘 홋스퍼 FC**()는 [잉글랜드](../Page/잉글랜드.md "wikilink") [북런던](../Page/런던.md "wikilink") [토트넘](https://ko.wikipedia.org/wiki/토트넘 "wikilink")을 연고지로 하는 프로 [축구](../Page/축구.md "wikilink") 구단이다. 현재 [프리미어리그](https://ko.wikipedia.org/wiki/프리미어리그 "wikilink")에 속해있으며, 간단히 줄여서 **[토트넘](https://ko.wikipedia.org/wiki/토트넘 "wikilink")** 또는 **스퍼스**라고 부르기도 한다. 현재 홈 경기장은 [토트넘 홋스퍼 스타디움으로](../Page/토트넘_홋스퍼_스타디움.md "wikilink"), 이전의 홈 경기장인 [화이트 하트 레인을](../Page/화이트_하트_레인.md "wikilink") 철거한 자리에 62,062석 규모로 건립되었으며 2019년 4월 개장하였다.
+**토트넘 홋스퍼 FC**()는 [잉글랜드](../Page/잉글랜드.md "wikilink") [북런던](../Page/런던.md "wikilink") [토트넘](https://ko.wikipedia.org/wiki/토트넘 "wikilink")을 연고지로 하는 프로 [축구](../Page/축구.md "wikilink") 구단이다. 현재 [프리미어리그](https://ko.wikipedia.org/wiki/프리미어리그 "wikilink")에 속해있으며, 간단히 줄여서 '''[토트넘](https://ko.wikipedia.org/wiki/토트넘 "wikilink")이라고 부르기도 한다. 현재 홈 경기장은 [토트넘 홋스퍼 스타디움으로](../Page/토트넘_홋스퍼_스타디움.md "wikilink"), 이전의 홈 경기장인 [화이트 하트 레인을](../Page/화이트_하트_레인.md "wikilink") 철거한 자리에 62,062석 규모로 건립되었으며 2019년 4월 개장하였다.그중에,에이스가있다.해리케인,손흥민선수이며토트넘홋스퍼는아스톤빌라전3대2로손흥민선수가2골을넣었다.현재토트넘홋스퍼FC순위는8위11승8무10패이다
 
-1882년에 창단한 토트넘은 1901년 [FA컵](../Page/FA컵.md "wikilink")에서 첫 트로피를 들어 올렸는데, 이는 [잉글리시 풋볼 리그](https://ko.wikipedia.org/wiki/풋볼_리그 "wikilink") 창립 이후 유일하게 논리그구단이 우승한 기록으로 남았다. 1950-51시즌과 1960-61시즌에 [풋볼 리그 1부에서](../Page/풋볼_리그_1부.md "wikilink") 우승하였고, 1961년 [FA컵과](https://ko.wikipedia.org/wiki/FA컵_\(잉글랜드\) "wikilink") [리그에서](../Page/풋볼_리그_1부.md "wikilink") 동시에 우승하면서 [더블을](../Page/더블_\(축구\).md "wikilink") 기록하였다. 이듬해에도 [FA컵에서](https://ko.wikipedia.org/wiki/FA컵_\(잉글랜드\) "wikilink") 우승했으며, 1963년 [영국](../Page/영국.md "wikilink")의 [축구](../Page/축구.md "wikilink") 구단 중 첫 번째로 [UEFA 컵위너스컵을](../Page/UEFA_컵위너스컵.md "wikilink") 들어 올렸다. 1970년대에 [리그컵에서](../Page/EFL컵.md "wikilink") 두번 우승하였으며, 1972년 [UEFA컵을](../Page/UEFA_유로파리그.md "wikilink") 초대 우승하였다. 1980년대에 [FA컵에서](https://ko.wikipedia.org/wiki/FA컵_\(잉글랜드\) "wikilink") 두 번, [FA 커뮤니티 실드와](../Page/FA_커뮤니티_실드.md "wikilink") [UEFA컵에서](../Page/UEFA_유로파리그.md "wikilink") 각각 한 번씩 우승하였다. 이후 1990년대에 [FA컵과](https://ko.wikipedia.org/wiki/FA컵_\(잉글랜드\) "wikilink") [리그컵에서](../Page/EFL컵.md "wikilink") 우승하고, 2008년 [리그컵에서](../Page/EFL컵.md "wikilink") 한 번 더 우승함으로써 1950년대부터 2000년대까지의 모든 [연대에서](https://ko.wikipedia.org/wiki/연대_\(연도\) "wikilink") 메이저 대회 트로피를 들어 올리는 기록을 세웠다.
+1882년에 창단한 토트넘은 1901년 [FA컵](../Page/FA컵.md "wikilink")에서 첫 트로피를 들어 올렸는데, 이는 [잉글리시 풋볼 리그](https://ko.wikipedia.org/wiki/풋볼_리그 "wikilink") 창립 이후 유일하게 논리그구단이 우승한 기록으로 남았다. 1950-51시즌과 1960-61시즌에 [풋볼 리그 1부에서](../Page/풋볼_리그_1부.md "wikilink") 우승하였고, 1961년 [FA컵과](https://ko.wikipedia.org/wiki/FA컵_\(잉글랜드\) "wikilink") [리그에서](../Page/풋볼_리그_1부.md "wikilink") 동시에 우승하면서 [더블을](../Page/더블_\(축구\).md "wikilink") 기록하였다. 이듬해에도 [FA컵에서](https://ko.wikipedia.org/wiki/FA컵_\(잉글랜드\) "wikilink") 우승했으며, 1963년 [영국](../Page/영국.md "wikilink")의 [축구](../Page/축구.md "wikilink") 구단 중 첫 번째로 [UEFA 컵위너스컵을](../Page/UEFA_컵위너스컵.md "wikilink") 들어 올렸다. 1970년대에 [리그컵에서](../Page/EFL컵.md "wikilink") 두번 우승하였으며, 1972년 [UEFA컵을](../Page/UEFA_유로파리그.md "wikilink") 초대 우승하였다. 1980년대에 [FA컵에서](https://ko.wikipedia.org/wiki/FA컵_\(잉글랜드\) "wikilink") 두 번, [FA 커뮤니티 실드와](../Page/FA_커뮤니티_실드.md "wikilink") [UEFA컵에서](../Page/UEFA_유로파리그.md "wikilink") 각각 한 번씩 우승하였다. 이후 1990년대에 [FA컵과](https://ko.wikipedia.org/wiki/FA컵_\(잉글랜드\) "wikilink") [리그컵에서](../Page/EFL컵.md "wikilink") 우승하고, 2008년 [리그컵에서](../Page/EFL컵.md "wikilink") 한 번 더 우승함으로써 1950년대부터 2000년대까지의 모든 [연대에서](https://ko.wikipedia.org/wiki/연대_\(연도\) "wikilink") 메이저 대회 트로피를 들어 올리는 기록을 세웠다.그중,에이스는손흥민선수이기도하다
 
 구단의 [상징](https://ko.wikipedia.org/wiki/상징 "wikilink")은 [축구공](../Page/축구공.md "wikilink") 위에 서있는 수평아리(싸움닭)이고, [모토는](../Page/좌우명.md "wikilink") [라틴어](../Page/라틴어.md "wikilink")인"*Audere est Facere*"로 실천이 곧 도전이다라는 의미를 가지고 있다. 같은 [런던](../Page/런던.md "wikilink") 연고의 팀들과 오랜 기간 라이벌 관계를 맺고 있는데, 가장 잘 알려진 라이벌으로는 [북런던 더비에서](../Page/북런던_더비.md "wikilink") 맞대결을 펼치는 [아스널이다](../Page/아스널_FC.md "wikilink").
 
@@ -260,13 +260,15 @@ Glory Glory Tottenham Hotspur 잉글랜드의 록밴드 Chas & Dave가 연주하
 
     **우승 (1)** : **2005 [피스컵](../Page/피스컵.md "wikilink")**
 
-    우승 (1) : [2019 아우디컵](https://ko.wikipedia.org/wiki/2019_아우디컵 "wikilink")
+    우승 (1) :2019 [아우디컵](https://ko.wikipedia.org/wiki/아우디컵 "wikilink")
 
-    우승 (1) : [2018 인터네셔널 챔피언스컵](https://ko.wikipedia.org/wiki/2018_인터네셔널_챔피언스컵 "wikilink")
+    우승 (1) :2018 [인터네셔널 챔피언스컵](../Page/인터내셔널_챔피언스컵.md "wikilink")
 
 ## 선수
 
 ### 현재 선수 명단
+
+자펫탕캉가.
 
 ### 임대 선수 명단
 
@@ -312,7 +314,7 @@ Glory Glory Tottenham Hotspur 잉글랜드의 록밴드 Chas & Dave가 연주하
   - [카일 워커](../Page/카일_워커.md "wikilink") (2009-2017)
   - [스콧 파커](../Page/스콧_파커.md "wikilink") (2011-2013)
   - **[에릭 다이어](../Page/에릭_다이어.md "wikilink")** (2014- )
-  - [해리 케인](../Page/해리_케인.md "wikilink") (2015- )
+  - **[해리 케인](../Page/해리_케인.md "wikilink")** (2015- )
   - **[델레 알리](../Page/델레_알리.md "wikilink")** (2015- )
 
 ## 역대 올해의 선수

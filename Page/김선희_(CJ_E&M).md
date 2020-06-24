@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [김선희 \(CJ E\&M\)](https://ko.wikipedia.org/wiki/김선희_\(CJ_E\&M\)).
 
 
-**김선희**([1973년](../Page/1973년.md "wikilink") [12월 10일](../Page/12월_10일.md "wikilink") \~)는 온미디어(현 [CJ E\&M](../Page/CJ_E&M.md "wikilink")) 소속 [대한민국](../Page/대한민국.md "wikilink")의 [성우](../Page/성우.md "wikilink"), 최초의 쇼호스트이다. 1995년 39쇼핑(현CJ) 쇼호스트, 1996년 온미디어(현 [CJ E\&M](../Page/CJ_E&M.md "wikilink"))의 [투니버스](../Page/투니버스.md "wikilink") 성우 2기로 방송에 데뷔하였고, 1999년 프리랜서 성우가 되면서 한국성우협회 정회원으로 등록되었다. CJ E\&M 투니버스 제2기생이다.
+**김선희**([1973년](../Page/1973년.md "wikilink") [12월 10일](../Page/12월_10일.md "wikilink") \~)는 온미디어 (현 [CJ E\&M](../Page/CJ_E&M.md "wikilink")) 소속 [대한민국](../Page/대한민국.md "wikilink")의 [성우](../Page/성우.md "wikilink"), 최초의 쇼호스트이다. 1995년 39쇼핑 (현CJ) 쇼호스트, 1996년 온미디어 (현 [CJ E\&M](../Page/CJ_E&M.md "wikilink"))의 [투니버스](../Page/투니버스.md "wikilink") 성우 2기로 방송에 데뷔하였고, 1999년 프리랜서 성우가 되면서 한국성우협회 정회원으로 등록되었다. CJ E\&M 투니버스 제 2기생이다.
 
 쇼핑칼럼니스트로도 활동하며, 현재는 성우활동보다는 쇼호스트, 쇼핑칼럼니스트, 방송 MC 등으로도 활동하고 있다.
 

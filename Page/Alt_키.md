@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Alt 키](https://ko.wikipedia.org/wiki/Alt_키).
 
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:Ctl_wndws_alt.jpg "wikilink") [컴퓨터 자판에서](../Page/컴퓨터_자판.md "wikilink") **Alt 키**는 "alternative key"의 준말로 다른 누른 키의 기능을 대체하는 기능의 [글쇠](https://ko.wikipedia.org/wiki/글쇠 "wikilink")이다. 그러므로 Alt 키는 수정 키이며 [Shift 키와](https://ko.wikipedia.org/wiki/Shift_키 "wikilink") 비슷하게 동작한다. 이를테면 단순히 A를 누르면 a라는 문자를 입력하지만 Alt 키와 A를 함께 누르면 [컴퓨터](../Page/컴퓨터.md "wikilink")가 Alt-A 기능을 수행하여 [컴퓨터 프로그램이](../Page/컴퓨터_프로그램.md "wikilink") 이를 받아들인다. 또 이 기능은 프로그램마다 다르게 동작한다. 미국 자판이 아닌 레이아웃을 사용할 경우 이와 비슷한 Alt Gr(오른쪽 Alt) 키가 스페이스 바 오른쪽에 위치해 있는 것을 볼 수 있다. 이 키는 [스페이스 바의](https://ko.wikipedia.org/wiki/스페이스_바 "wikilink") 측면에 위치해 있다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:Ctl_wndws_alt.jpg "wikilink") [컴퓨터 자판에서](../Page/컴퓨터_자판.md "wikilink") **Alt 키**는 "alternative key"의 준말로 다른 누른 키의 기능을 대체하는 기능의 [글쇠](https://ko.wikipedia.org/wiki/글쇠 "wikilink")이다. 그러므로 Alt 키는 [수정 키이며](https://ko.wikipedia.org/wiki/수정_키 "wikilink") [Shift 키와](https://ko.wikipedia.org/wiki/Shift_키 "wikilink") 비슷하게 동작한다. 이를테면 단순히 A를 누르면 a라는 문자를 입력하지만 Alt 키와 A를 함께 누르면 [컴퓨터](../Page/컴퓨터.md "wikilink")가 Alt-A 기능을 수행하여 [컴퓨터 프로그램이](../Page/컴퓨터_프로그램.md "wikilink") 이를 받아들인다. 또 이 기능은 프로그램마다 다르게 동작한다. 미국 자판이 아닌 레이아웃을 사용할 경우 이와 비슷한 Alt Gr(오른쪽 Alt) 키가 스페이스 바 오른쪽에 위치해 있는 것을 볼 수 있다. 이 키는 [스페이스 바의](https://ko.wikipedia.org/wiki/스페이스_바 "wikilink") 측면에 위치해 있다.
 
 Alt 키는 옛 MIT 자판의 메타 키를 대체하기 위해 나왔다. 원래 기능은 Alt와 메타 둘다 기존의 키에 1만큼 더 높은 [비트를](../Page/비트_\(단위\).md "wikilink") 설정하는 것이었다. 이를테면 A는 01000001이지만 Alt-A는 11000001을 만들어 낸다. 그러나 현대의 소프트웨어에서는 [국제화의](../Page/국제화와_지역화.md "wikilink") 높은 비트의 요구에 따라 Alt는 더 이상 그러한 방식으로 동작하지 않는다.
 
@@ -62,6 +62,7 @@ Alt+= : 전반자 전환
 ## 같이 보기
 
   - [Control-Alt-Delete](../Page/Control-Alt-Delete.md "wikilink")
+  - [Control 키](../Page/Control_키.md "wikilink")
   - [수정 키](https://ko.wikipedia.org/wiki/수정_키 "wikilink")
   - [Alt 코드](https://ko.wikipedia.org/wiki/Alt_코드 "wikilink")
 

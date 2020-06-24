@@ -156,7 +156,7 @@ PC,모바일 MY K로 실시간 시청 가능
 <td><p><a href="../Page/KBS_뉴스광장.md" title="wikilink">KBS 뉴스광장 광주·전남</a></p></td>
 <td><p>15분</p></td>
 <td><p>월요일 ~ 금요일 오전 7시 35분 ~ 7시 45분</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/김한별_(아나운서)" title="wikilink">김한별</a>(평일)</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/김한별" title="wikilink">김한별</a>(평일)</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/KBS_뉴스_(930)" title="wikilink">KBS 뉴스 (930) 광주·전남</a></p></td>
@@ -174,7 +174,7 @@ PC,모바일 MY K로 실시간 시청 가능
 <td><p><a href="../Page/KBS_뉴스_7.md" title="wikilink">KBS 뉴스 7 광주·전남</a></p></td>
 <td><p>5분</p></td>
 <td><p>금 저녁 7시 20분 ~ 7시 25분</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/서상기" title="wikilink">서상기</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/임진숙" title="wikilink">임진숙</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/KBS_뉴스_9.md" title="wikilink">KBS 뉴스 9 광주·전남</a></p></td>
@@ -182,8 +182,8 @@ PC,모바일 MY K로 실시간 시청 가능
 주말 10분</p></td>
 <td><p>평일 밤 9시 30분 ~ 9시 45분<br />
 주말 밤 9시 20분 ~ 9시 30분</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/김한별" title="wikilink">김한별</a>, <a href="https://ko.wikipedia.org/wiki/유도희" title="wikilink">유도희</a>(평일)<br />
-<a href="https://ko.wikipedia.org/wiki/위영미" title="wikilink">위영미</a>(주말)</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/임정섭" title="wikilink">임정섭</a>, <a href="https://ko.wikipedia.org/wiki/유도희" title="wikilink">유도희</a>(평일)<br />
+당직 아나운서(주말)</p></td>
 </tr>
 </tbody>
 </table>
@@ -256,7 +256,6 @@ PC,모바일 MY K로 실시간 시청 가능
 <th><p>프로그램명</p></th>
 <th><p>방송시간</p></th>
 <th><p>편성시간</p></th>
-<th><p>진행</p></th>
 </tr>
 </thead>
 <tbody>
@@ -265,7 +264,6 @@ PC,모바일 MY K로 실시간 시청 가능
 <td><p>월요일 ~ 금요일 5분<br />
 토요일 ~ 일요일 5분</p></td>
 <td><p>오전 9시 ~ 9시 5분</p></td>
-<td><p><a href="TV:동시">TV:동시</a> 송출</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/KBS_제1라디오_정오종합뉴스.md" title="wikilink">KBS 제1라디오 정오종합뉴스</a></p></td>
@@ -275,46 +273,42 @@ PC,모바일 MY K로 실시간 시청 가능
 <ul>
 <li><strong>주말편성조정</strong> : <strong>토요일 ~ 일요일</strong> (낮 12시 05분 ~ 12시 10분)</li>
 </ul></td>
-<td></td>
 </tr>
 <tr class="odd">
 <td><p>KBS 제1라디오 오후 3시 뉴스</p></td>
 <td><p>토요일 ~ 일요일 5분</p></td>
 <td><p>오후 3시 ~ 3시 5분</p></td>
-<td></td>
 </tr>
 <tr class="even">
 <td><p>KBS 제1라디오 오후 5시 뉴스</p></td>
 <td><p>월요일 ~ 금요일 5분</p></td>
 <td><p>오후 5시 ~ 5시 5분</p></td>
-<td></td>
 </tr>
 <tr class="odd">
 <td><p>KBS 제1라디오 오후 6시 뉴스</p></td>
 <td><p>토요일 ~ 일요일 5분</p></td>
 <td><p>저녁 6시 ~ 6시 5분</p></td>
-<td></td>
 </tr>
 </tbody>
 </table>
 
 #### 프로그램
 
-  - [출발\! 무등의 아침](../Page/출발!_무등의_아침.md "wikilink") (시사교양, 월\~금,8:30\~8:58)(진행 [설경완](https://ko.wikipedia.org/wiki/설경완 "wikilink"))(TV:동시 송출)
-  - [라디오정보시대](http://program.kbs.co.kr/1radio/local/radioinfogj/pc/) (시사교양, 월\~금,11:05\~11:40)(진행 [강은이](https://ko.wikipedia.org/wiki/강은이 "wikilink"))(TV:동시 송출)
-  - [남도 투데이](https://ko.wikipedia.org/wiki/남도_투데이 "wikilink") (시사교양, 월\~금,17:05\~17:58)(진행 [임정섭](https://ko.wikipedia.org/wiki/임정섭 "wikilink"))(TV:동시 송출)
-  - 여기는 KBS 광주 제1라디오 (매일 04:54\~05:00) (시보자 [김한별](https://ko.wikipedia.org/wiki/김한별 "wikilink"))(TV:동시 송출)
+  - [출발\! 무등의 아침](../Page/출발!_무등의_아침.md "wikilink") (시사교양, 월\~금,8:30\~8:58)(진행 [설경완](https://ko.wikipedia.org/wiki/설경완 "wikilink"))
+  - [라디오정보시대](http://program.kbs.co.kr/1radio/local/radioinfogj/pc/) (시사교양, 월\~금,11:05\~11:40)(진행 [박재효](https://ko.wikipedia.org/wiki/박재효 "wikilink"))
+  - [남도 투데이](https://ko.wikipedia.org/wiki/남도_투데이 "wikilink") (시사교양, 월\~금,17:05\~17:58)(진행 [임정섭](https://ko.wikipedia.org/wiki/임정섭 "wikilink"))
+  - 여기는 KBS 광주 제1라디오 (매일 04:54\~05:00) (시보자 [김한별](https://ko.wikipedia.org/wiki/김한별 "wikilink"))
 
 ### KBS 광주제2라디오 (Happy FM)
 
 #### 프로그램
 
-  - [빛고을 가요차차차](http://program.kbs.co.kr/2radio/local/songchachacha/pc/) (연예오락, 월\~일,11:00\~11:57)(진행 [노희설, 김한별](https://ko.wikipedia.org/wiki/김한별_\(아나운서\) "wikilink"))(TV:동시 송출)
+  - [빛고을 가요차차차](http://program.kbs.co.kr/2radio/local/songchachacha/pc/) (연예오락, 월\~일,11:00\~11:57)(진행 [노희설, 김한별](https://ko.wikipedia.org/wiki/김한별_\(아나운서\) "wikilink"))
 
 ### 음악FM
 
-  - [오후의 풍경과 음악](http://program.kbs.co.kr/1fm/local/aftermusic/pc/) (음악, 평일, 16시\~17시)(진행 [정은아](../Page/정은아.md "wikilink"))(TV:동시 송출)
-  - 여기는 KBS 광주 음악FM (매일 오전 4시 54분 \~ 5시) (시보자 [임진숙](https://ko.wikipedia.org/wiki/임진숙 "wikilink"))(TV:동시 송출)
+  - [오후의 풍경과 음악](http://program.kbs.co.kr/1fm/local/aftermusic/pc/) (음악, 평일, 16시\~17시)(진행 [정은아](../Page/정은아.md "wikilink"))
+  - 여기는 KBS 광주 음악FM (매일 오전 4시 54분 \~ 5시) (시보자 [임진숙](https://ko.wikipedia.org/wiki/임진숙 "wikilink"))
 
 ## 직원
 
@@ -346,7 +340,7 @@ PC,모바일 MY K로 실시간 시청 가능
 
   - [양율희](https://ko.wikipedia.org/wiki/양율희 "wikilink") (퇴사)
   - [임지현](https://ko.wikipedia.org/wiki/임지현 "wikilink") ([2006년](../Page/2006년.md "wikilink") 전 KNN 아나운서, 전 청주MBC 아나운서, 전 MBC 라디오 뉴스캐스터)
-  - [이혜성](../Page/이혜성.md "wikilink") (2016\~2018, 현 KBS 서울본국)
+  - [이혜성](../Page/이혜성.md "wikilink") (2016\~2018, 전 KBS 서울본국)
   - [채윤아](https://ko.wikipedia.org/wiki/채윤아 "wikilink") (현 KBS순천방송국)
 
 ### [기상캐스터](https://ko.wikipedia.org/wiki/기상캐스터 "wikilink")

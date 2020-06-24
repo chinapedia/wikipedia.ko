@@ -50,32 +50,13 @@
 
 **아시아**
 
-  - **[AFC 챔피언스리그](../Page/AFC_챔피언스리그.md "wikilink")** (2회 출전)
+  - **[아시안 클럽 챔피언십](https://ko.wikipedia.org/wiki/아시안_클럽_챔피언십 "wikilink")**
 
 <!-- end list -->
 
   -
     **우승 (1회) :** 1967
     **준우승 (1회) :** 1970
-
-**유럽**
-
-  - **[UEFA 챔피언스리그](../Page/UEFA_챔피언스리그.md "wikilink")** (1회 출전 - 2000/01 예선2회전)
-
-<!-- end list -->
-
-  - **[UEFA컵](https://ko.wikipedia.org/wiki/UEFA컵 "wikilink")** (8회 출전)
-
-<!-- end list -->
-
-  -
-    **8강 (1회) :** 2001-02
-    **32강 (1회) :** 2006-07
-    **조별리그 (1회) :** 2007-08
-
-<!-- end list -->
-
-  - **[UEFA 인터토토컵](../Page/UEFA_인터토토컵.md "wikilink")** (1회 출전 - 1996 조별리그)
 
 ## 외부 링크
 

@@ -63,9 +63,9 @@
 
   - [2017년](../Page/2017년.md "wikilink") [12월 29일](../Page/12월_29일.md "wikilink") : MBC강원영동 강릉방송국 UHD 방송개시.
 
-## TV방송
+## TV방송 [MBC강원영동 강릉 TV](https://ko.wikipedia.org/wiki/MBC강원영동_강릉_TV "wikilink")
 
-1983년 10월 괘방산중계소가 설치되고 2년 후 1985년 9월 6일 강릉방송국의 TV방송이 정식으로 개국하였다. 이후 2005년 12월 28일 디지털TV방송을 개국하면서 고품질의 방송서비스를 시청자들에게 서비스하고 있다. 강원 영동지역을 가시청권역으로 방송중이다.
+1983년 10월 괘방산TV송신소에서 설치되고 2년 후 1985년 9월 6일 강릉방송국의 TV방송이 정식으로 개국하였다. 이후 2005년 12월 28일 디지털TV방송을 개국하면서 고품질의 방송서비스를 시청자들에게 서비스하고 있다. 강원 영동지역을 가시청권역으로 방송중이다.
 
 ### 프로그램
 
@@ -231,7 +231,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="http://www.mbceg.co.kr/program/radio_06">오후의 발견</a></p></td>
+<td><p><a href="https://web.archive.org/web/20161109203537/http://www.mbceg.co.kr/program/radio_06">오후의 발견</a></p></td>
 <td><p>성스리</p></td>
 <td></td>
 <td></td>

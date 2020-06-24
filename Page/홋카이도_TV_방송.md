@@ -17,8 +17,8 @@
   - [2006년](../Page/2006년.md "wikilink") [6월 1일](../Page/6월_1일.md "wikilink") - 삿포로 지구에서 지상 디지털 텔레비전 방송 개시
   - [2007년](../Page/2007년.md "wikilink") [10월 1일](../Page/10월_1일.md "wikilink") - 하코다테·아사히카와·무로란·오비히로·쿠시로·아바시리 지구에서 지상 디지털 방송 개시
   - [2011년](../Page/2011년.md "wikilink") [7월 25일](../Page/7월_25일.md "wikilink") - 지상파 아날로그 텔레비전 방송 종료.
-  - [2018년](../Page/2018년.md "wikilink") [9월 14일](../Page/9월_14일.md "wikilink") - [도요히라 구](https://ko.wikipedia.org/wiki/도요히라_구 "wikilink") 구 사옥 업무 종료.
-  - [2018년](../Page/2018년.md "wikilink") [9월 17일](../Page/9월_17일.md "wikilink") - [주오 구에](https://ko.wikipedia.org/wiki/주오_구_\(삿포로_시\) "wikilink") 새로 건립된 신사옥에서 첫 방송 시작.
+  - [2018년](../Page/2018년.md "wikilink") [9월 14일](../Page/9월_14일.md "wikilink") - [도요히라구](../Page/도요히라구.md "wikilink") 구 사옥 업무 종료.
+  - [2018년](../Page/2018년.md "wikilink") [9월 17일](../Page/9월_17일.md "wikilink") - [주오구에](../Page/주오구_\(삿포로시\).md "wikilink") 새로 건립된 신사옥에서 첫 방송 시작.
 
 ## 네트워크 변천사
 
@@ -35,8 +35,8 @@ HTB가 개국할 때까지 홋카이도에서 일본 교육 TV(NET, 현재의 [T
 
 ## 보충서술
 
-  - [2018년](../Page/2018년.md "wikilink") [9월 18일](../Page/9월_18일.md "wikilink") 다른 [홋카이도](../Page/홋카이도.md "wikilink")소재 방송국처럼 본사를 [주오 구로](https://ko.wikipedia.org/wiki/주오_구_\(삿포로_시\) "wikilink") 옮기기 전에는 유일하게 본사가 [도요히라 구에](https://ko.wikipedia.org/wiki/도요히라_구 "wikilink") 있었다.
-  - [도요히라 구에](https://ko.wikipedia.org/wiki/도요히라_구 "wikilink") 본사가 있었을때 본사 신관 공사현장은 [TV 아사히의](../Page/TV_아사히.md "wikilink") 형사드라마 '서부경찰'의 로케장소가 되기도 했다.
+  - [2018년](../Page/2018년.md "wikilink") [9월 18일](../Page/9월_18일.md "wikilink") 다른 [홋카이도](../Page/홋카이도.md "wikilink")소재 방송국처럼 본사를 [주오구로](../Page/주오구_\(삿포로시\).md "wikilink") 옮기기 전에는 유일하게 본사가 [도요히라구](../Page/도요히라구.md "wikilink")에 있었다.
+  - [도요히라구](../Page/도요히라구.md "wikilink")에 본사가 있었을때 본사 신관 공사현장은 [TV 아사히의](../Page/TV_아사히.md "wikilink") 형사드라마 '서부경찰'의 로케장소가 되기도 했다.
   - 매년 자사제작 1시간 스페셜 드라마를 방송하고 있다.
   - 모회사인 **삿포로 도요펫**이 도산해 방송국이 폐국될 뻔한 일이 있었으며 이 때 TV아사히나 아사히 신문등 아사히 신문 계열 각사가 홋카이도 TV 방송에 자금을 지원해 도산의 위기를 면한 것을 계기로 아사히 신문 계열 각사와의 관계가 강한 방송국이 되었다.
       - 덧붙여 홋카이도 TV 방송 설립당시에는 아사히 신문 외에도 요미우리 신문 자본도 투자를 실시한 적이 있었으나 1973년 이후 요미우리 신문은 삿포로 TV 방송과의 관계를 강하게 해 갔다.

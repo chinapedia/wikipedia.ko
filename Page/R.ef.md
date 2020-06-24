@@ -120,6 +120,6 @@
 
 ## 각주
 
-[분류:아이돌 그룹](https://ko.wikipedia.org/wiki/분류:아이돌_그룹 "wikilink") [분류:대한민국의 댄스 음악 그룹](https://ko.wikipedia.org/wiki/분류:대한민국의_댄스_음악_그룹 "wikilink") [분류:남성 음악 그룹](https://ko.wikipedia.org/wiki/분류:남성_음악_그룹 "wikilink") [분류:골든디스크 본상 수상 음악가](https://ko.wikipedia.org/wiki/분류:골든디스크_본상_수상_음악가 "wikilink") [분류:1995년 데뷔](https://ko.wikipedia.org/wiki/분류:1995년_데뷔 "wikilink") [분류:4인조 음악 그룹](https://ko.wikipedia.org/wiki/분류:4인조_음악_그룹 "wikilink")
+[분류:아이돌 그룹](https://ko.wikipedia.org/wiki/분류:아이돌_그룹 "wikilink") [분류:대한민국의 댄스 음악 그룹](https://ko.wikipedia.org/wiki/분류:대한민국의_댄스_음악_그룹 "wikilink") [분류:남성 음악 그룹](https://ko.wikipedia.org/wiki/분류:남성_음악_그룹 "wikilink") [분류:골든디스크 본상 수상 음악가](https://ko.wikipedia.org/wiki/분류:골든디스크_본상_수상_음악가 "wikilink") [분류:4인조 음악 그룹](https://ko.wikipedia.org/wiki/분류:4인조_음악_그룹 "wikilink")
 
 1.

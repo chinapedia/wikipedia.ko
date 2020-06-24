@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [PC 게임](https://ko.wikipedia.org/wiki/PC_게임).
 
 
-**PC 게임**()은 [아케이드 기판이나](../Page/아케이드_기판.md "wikilink") [비디오 게임기가](https://ko.wikipedia.org/wiki/비디오_게임기 "wikilink") 아닌 [개인용 컴퓨터에서](../Page/개인용_컴퓨터.md "wikilink") 즐길 수 있는 [비디오 게임을](../Page/비디오_게임.md "wikilink") 말한다. 컴퓨터 게임들은 초창기 간단한 그래픽과 게임플레이를 갖춘 게임에서 다양하고 보다 시각적으로 진보한 게임으로 점차 발전되어 왔다.
+**PC 게임**()은 [아케이드 게임기나](../Page/아케이드_기판.md "wikilink") [비디오 게임기가](https://ko.wikipedia.org/wiki/비디오_게임기 "wikilink") 아닌 [개인용 컴퓨터에서](../Page/개인용_컴퓨터.md "wikilink") 즐길 수 있는 [비디오 게임을](../Page/비디오_게임.md "wikilink") 말한다. 컴퓨터 게임들은 초창기 간단한 그래픽과 게임플레이를 갖춘 게임에서 다양하고 보다 시각적으로 진보한 게임으로 점차 발전되어 왔다.
 
 PC 게임들은 한 명 이상의 게임 개발자에 의해, 종종 [게임 아티스트와](https://ko.wikipedia.org/wiki/게임_아티스트 "wikilink") 같은 다른 전문가들과 함께 만들어지며, 그리고 독립적으로 게임을 배포하거나, 아니면 다른 제3자를 통해서 어느 한 쪽에 의해 게임이 배포된다. 게임 배포는 [DVD](../Page/DVD.md "wikilink"), [CD와](../Page/콤팩트_디스크.md "wikilink") 같은 물리 매체나 [인터넷](../Page/인터넷.md "wikilink")으로 [다운로드](../Page/다운로드.md "wikilink")가 가능한 [셰어웨어](../Page/셰어웨어.md "wikilink"), 또는 [Direct2Drive](https://ko.wikipedia.org/wiki/Direct2Drive "wikilink")나 [스팀과](https://ko.wikipedia.org/wiki/스팀_\(플랫폼\) "wikilink") 같은 온라인 배급 서비스를 통해 이루어진다. 흔히 PC 게임은 [사용자](https://ko.wikipedia.org/wiki/컴퓨터_사용자 "wikilink") [컴퓨터](../Page/컴퓨터.md "wikilink")에서 플레이하기 위해서는 특정 세대의 [그래픽 처리 장치나](../Page/그래픽_처리_장치.md "wikilink") 온라인 플레이를 위해 [인터넷](../Page/인터넷.md "wikilink") 접속을 요구하는 것처럼 특수한 [하드웨어](https://ko.wikipedia.org/wiki/하드웨어 "wikilink")를 요구하기도 한다. 이 시스템 요구 사양은 게임마다 다르다.
 
@@ -37,14 +37,10 @@ PC 게임의 첫 세대는 보통 플레이어가 [컴퓨터 키보드로](https
 
 컴퓨터 사용자의 대부분은 기본으로 설치되어 있는 오프라인 게임([체스](https://ko.wikipedia.org/wiki/체스 "wikilink"), [인터넷 백게인](https://ko.wikipedia.org/wiki/인터넷_백게인 "wikilink"), [스파이더 카드놀이](../Page/스파이더_카드놀이_\(윈도우\).md "wikilink"), [핀볼](https://ko.wikipedia.org/wiki/핀볼 "wikilink") 등)[오프라인 컴퓨터 게임을](https://ko.wikipedia.org/wiki/오프라인_컴퓨터_게임 "wikilink") 즐기고 있는 사용자와 새로 제작된 오프라인 게임을 즐길 수 있는 [오프라인 컴퓨터 게임](https://ko.wikipedia.org/wiki/오프라인_컴퓨터_게임 "wikilink") 사이트가 있고 그것을 이용하는 이용자가 있다.
 
-## 같이 보기
+\]\]
 
-  - [싱글 플레이](https://ko.wikipedia.org/wiki/싱글_플레이 "wikilink")
-  - [멀티 플레이](https://ko.wikipedia.org/wiki/멀티_플레이 "wikilink")
-  - [컴퓨터](../Page/컴퓨터.md "wikilink")
-  - [e스포츠](https://ko.wikipedia.org/wiki/e스포츠 "wikilink")
   - [지스타](../Page/지스타.md "wikilink")
-  - [온라인 게임](../Page/온라인_게임.md "wikilink")
+  - [온라인 🎮](https://ko.wikipedia.org/wiki/온라인_🎮 "wikilink")
   - [오프라인 게임](https://ko.wikipedia.org/wiki/오프라인_게임 "wikilink")
   - [비디오 게임](../Page/비디오_게임.md "wikilink")
   - [비디오 게임 목록](../Page/비디오_게임_목록.md "wikilink")

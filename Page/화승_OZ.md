@@ -110,7 +110,7 @@
   - [이병렬](../Page/이병렬_\(프로게이머\).md "wikilink")-Zerg
   - [김유진](../Page/김유진_\(프로게이머\).md "wikilink")-Protoss
   - [남지헌](https://ko.wikipedia.org/wiki/남지헌 "wikilink")-Protoss
-  - [김민혁](../Page/김민혁_\(프로_게이머\).md "wikilink")-Terran
+  - [김민혁](https://ko.wikipedia.org/wiki/김민혁_\(프로게이머\) "wikilink")-Terran
   - [백승혁](https://ko.wikipedia.org/wiki/백승혁 "wikilink")-Terran
   - [백동준](../Page/백동준.md "wikilink")-Protoss
   - [방태수](../Page/방태수.md "wikilink")-Zerg

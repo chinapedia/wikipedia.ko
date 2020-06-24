@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [NHK 마쓰야마 방송국](https://ko.wikipedia.org/wiki/NHK_마쓰야마_방송국).
 
 
-**NHK 마쓰야마 방송국**(松山 放送局)은 [에히메현](../Page/에히메현.md "wikilink")을 방송구역으로 하는 NHK의 공영 지역방송국이며 중파·FM라디오·텔레비전 방송을 담당하고 있다. 사실 NHK 마쓰야마 방송국은 에히메현에 최초 방송국이다.
+**NHK 마쓰야마 방송국**()은 [에히메현](../Page/에히메현.md "wikilink")을 방송구역으로 하는 NHK의 공영 지역방송국이며 중파·FM라디오·텔레비전 방송을 담당하고 있다. 사실 NHK 마쓰야마 방송국은 에히메현에 최초 방송국이다.
 
 [시코쿠 지방을](https://ko.wikipedia.org/wiki/시코쿠_지방 "wikilink") 총괄하는 방송총국급 지역방송국으로 개국 당시 콜사인은 JOVG이었지만 [1948년](../Page/1948년.md "wikilink") JOZK으로 변경되었다.
 

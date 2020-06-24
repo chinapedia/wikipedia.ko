@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [미에 TV 방송](https://ko.wikipedia.org/wiki/미에_TV_방송).
 
 
-[170px](https://ko.wikipedia.org/wiki/파일:Mtv_logo.svg "wikilink") [썸네일](https://ko.wikipedia.org/wiki/파일:Mie_Television.jpg "wikilink") **미에 TV 방송**(三重テレビ放送)은 [1969년](../Page/1969년.md "wikilink") [12월 1일](../Page/12월_1일.md "wikilink") [미에현](../Page/미에현.md "wikilink")의 독립 UHF방송국으로 개국했다.
+[170px](https://ko.wikipedia.org/wiki/파일:Mtv_logo.svg "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:Mie_Television.jpg "wikilink") **미에 TV 방송**(三重テレビ放送)은 [1969년](../Page/1969년.md "wikilink") [12월 1일](../Page/12월_1일.md "wikilink") [미에현](../Page/미에현.md "wikilink")의 독립 UHF방송국으로 개국했다.
 
 약칭은 MTV, 콜사인은 JOMH-DTV이다.
 
@@ -34,7 +34,7 @@
       - 송신소 설치 계획을 세웠던 당시 주변지역에서 고분군이 발견되자 [미에대학](https://ko.wikipedia.org/wiki/미에대학 "wikilink") 등에서 건설중지를 요구하지만 도로 노선등을 변경한 결과 공사가 승낙됐으며 송신소를 향하는 도로의 정비는[자위대](../Page/자위대.md "wikilink")의 협력을 얻어 3개월 만에 정비가 완료되었다.
   - 개국 당시에는 이세지역에 중계국이 없었으며 주쿄지역 광역 텔레비전국의 전파로 인해 미에TV의 전파가 이세지역에 닿지 않는 문제가 발생했다.</br>그 당시 법률에 의해 미에TV가 중계국을 개설할 수 없는 상태였지만 자사가 현역텔레비전 방송국인 것을 이유로 당시 일본 우정성을 설득해 이세지역에 중계국을 개설할 수 있게 되었다.
   - 미국 MTV가 일본 진출할 때, 미에TV에 약칭인 **MTV**의 사용 허락을 받았다는 이야기가 있다.
-  - [1970년](../Page/1970년.md "wikilink") [요미우리 자이언츠가](../Page/요미우리_자이언츠.md "wikilink") 나고야 구장에서의 [주니치 드래건스전에서](../Page/주니치_드래건스.md "wikilink") 당시 [센트럴 리그](../Page/센트럴_리그.md "wikilink") 신기록인 6년 연속 우승을 했지만 주쿄광역권에서의 TV중계가 끝나 있었던 시기여서 미에TV가 중계방송을 했으며 이로 인해 원래 방송구역인 [미에현](../Page/미에현.md "wikilink")은 물론 시청 가능 지역인[아이치현](../Page/아이치현.md "wikilink") [나고야 시에서는UHF대역이](https://ko.wikipedia.org/wiki/나고야_시 "wikilink") 시청 가능한 TV와 UHF 안테나의 공사의뢰가 쇄도했다고 하는 일화가 있다.
+  - [1970년](../Page/1970년.md "wikilink") [요미우리 자이언츠가](../Page/요미우리_자이언츠.md "wikilink") 나고야 구장에서의 [주니치 드래건스전에서](../Page/주니치_드래건스.md "wikilink") 당시 [센트럴 리그](../Page/센트럴_리그.md "wikilink") 신기록인 6년 연속 우승을 했지만 주쿄광역권에서의 TV중계가 끝나 있었던 시기여서 미에TV가 중계방송을 했으며 이로 인해 원래 방송구역인 [미에현](../Page/미에현.md "wikilink")은 물론 시청 가능 지역인[아이치현](../Page/아이치현.md "wikilink") [나고야시](../Page/나고야시.md "wikilink")에서는UHF대역이 시청 가능한 TV와 UHF 안테나의 공사의뢰가 쇄도했다고 하는 일화가 있다.
   - 설날 특별 방송인 「축하합니다\!긴키의 설날」(긴키광역권 독립 UHF방송국 공동 제작)을 방송하고 있지만 제작에는 관련하지 않았다.
   - 2\~3년 전부터, 자체제작 뉴스에서 전국뉴스를 취급하게 되어 외부에서 제공된 취재 영상도 방송되고 있다.\[1\].
   - 방송구역에 아이치현 일부가 포함돼서인지 프로그램에서 아이치현의 정보를 방송하는 일이 자주 있다.

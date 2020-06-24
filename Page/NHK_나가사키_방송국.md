@@ -150,7 +150,7 @@
   - 이키·대마도에는 라디오 제1방송 중계국이 없기 때문에 후쿠오카 방송국을 통해 1라디오를 듣는다고 한다.
   - 라디오 제2방송의 경우, 나가사키현의 많은 지역에서 구마모토 방송국이나 후쿠오카 방송국을 통해 청취 할 수 있다.(단, 고토·이키·대마도에서는 듣지 못하는 곳도 많다.)
   - 나가사키 현 북부지역 방송은 [NHK 사세보 방송국에서](https://ko.wikipedia.org/wiki/NHK_사세보_지국 "wikilink") 담당했지만 [1988년](../Page/1988년.md "wikilink") 경영합리화 조치에 따라 대부분의 기능이 나가사키 방송국으로 이관되었다.
-  - [1990년](../Page/1990년.md "wikilink") [마쓰우라 시와](https://ko.wikipedia.org/wiki/마쓰우라_시 "wikilink") [이키 섬](https://ko.wikipedia.org/wiki/이키_섬 "wikilink") 사이에 고정무선회선(FPU)가 설치되기 전까지 이키 섬과 [대마도](https://ko.wikipedia.org/wiki/대마도 "wikilink")의 NHK 텔레비전 방송과 FM 방송은 [NHK 후쿠오카 방송국에서](../Page/NHK_후쿠오카_방송국.md "wikilink") 관리하고 있었다.
+  - [1990년](../Page/1990년.md "wikilink") [마쓰우라시](../Page/마쓰우라시.md "wikilink")와 [이키 섬](https://ko.wikipedia.org/wiki/이키_섬 "wikilink") 사이에 고정무선회선(FPU)가 설치되기 전까지 이키 섬과 [대마도](https://ko.wikipedia.org/wiki/대마도 "wikilink")의 NHK 텔레비전 방송과 FM 방송은 [NHK 후쿠오카 방송국에서](../Page/NHK_후쿠오카_방송국.md "wikilink") 관리하고 있었다.
 
 ## [나가사키현](../Page/나가사키현.md "wikilink")에 있는 다른 텔레비전·라디오 방송국
 

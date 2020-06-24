@@ -155,7 +155,7 @@ SBS의 경우 [2008년](../Page/2008년.md "wikilink") [3월 31일에](../Page/3
 <td><p>포켓몬스터 DP 제 78화<br />
 <a href="../Page/2008년.md" title="wikilink">2008년</a> <a href="../Page/5월_8일.md" title="wikilink">5월 8일</a></p></td>
 <td><p><strong>웃어봐</strong><br />
-포켓몬스터 DP 1~2기</p></td>
+포켓몬스터 DP 1기</p></td>
 </tr>
 <tr class="even">
 <td><p>2</p></td>
@@ -174,7 +174,7 @@ SBS의 경우 [2008년](../Page/2008년.md "wikilink") [3월 31일에](../Page/3
 <td><p>포켓몬스터 DP 제 133화<br />
 <a href="../Page/2009년.md" title="wikilink">2009년</a> <a href="../Page/6월_25일.md" title="wikilink">6월 25일</a></p></td>
 <td><p><strong>Yes I Can</strong><br />
-포켓몬스터 DP 3~4기</p></td>
+포켓몬스터 DP 2기</p></td>
 </tr>
 <tr class="even">
 <td><p>4</p></td>
@@ -193,7 +193,7 @@ SBS의 경우 [2008년](../Page/2008년.md "wikilink") [3월 31일에](../Page/3
 <td><p>포켓몬스터 DP 제 182화<br />
 <a href="../Page/2010년.md" title="wikilink">2010년</a> <a href="../Page/6월_24일.md" title="wikilink">6월 24일</a></p></td>
 <td><p><strong>Pokemon Love Forever</strong><br />
-포켓몬스터 DP 5기</p></td>
+포켓몬스터 DP 3기</p></td>
 </tr>
 <tr class="even">
 <td><p>6</p></td>
@@ -264,7 +264,7 @@ SBS의 경우 [2008년](../Page/2008년.md "wikilink") [3월 31일에](../Page/3
 포켓몬스터 DP 제 95화<br />
 <a href="../Page/2008년.md" title="wikilink">2008년</a> <a href="../Page/9월_25일.md" title="wikilink">9월 25일</a></p></td>
 <td><p><strong>내일 더 빛날 우리</strong><br />
-포켓몬스터 DP 2~3기</p></td>
+포켓몬스터 DP 2기</p></td>
 </tr>
 <tr class="odd">
 <td><p>5</p></td>
@@ -305,7 +305,7 @@ SBS의 경우 [2008년](../Page/2008년.md "wikilink") [3월 31일에](../Page/3
 포켓몬스터 제 169화 (PV + Which)<br />
 <a href="../Page/2010년.md" title="wikilink">2010년</a> <a href="../Page/3월_18일.md" title="wikilink">3월 18일</a></p></td>
 <td><p><strong>모든게 궁금해</strong><br />
-포켓몬스터 DP 4~5기</p></td>
+포켓몬스터 DP 3기</p></td>
 </tr>
 <tr class="odd">
 <td><p>9</p></td>
@@ -337,7 +337,7 @@ SBS의 경우 [2008년](../Page/2008년.md "wikilink") [3월 31일에](../Page/3
 포켓몬스터 DP 제 193화<br />
 <a href="../Page/2011년.md" title="wikilink">2011년</a> <a href="../Page/2월_3일.md" title="wikilink">2월 3일</a></p></td>
 <td><p><strong>언젠가 다시</strong><br />
-포켓몬스터 DP 5기</p></td>
+포켓몬스터 DP 4기</p></td>
 </tr>
 </tbody>
 </table>

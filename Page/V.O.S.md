@@ -75,4 +75,4 @@
   - [최현준 트위터](https://twitter.com/chjmorris)
   - [V.O.S 공식 유튜브 채널](https://www.youtube.com/VOSOfficial)
 
-[분류:스타제국 소속](https://ko.wikipedia.org/wiki/분류:스타제국_소속 "wikilink") [분류:한국어 음악 그룹](https://ko.wikipedia.org/wiki/분류:한국어_음악_그룹 "wikilink") [분류:대한민국의 R\&B 음악 그룹](https://ko.wikipedia.org/wiki/분류:대한민국의_R&B_음악_그룹 "wikilink") [분류:대한민국의 보이 밴드](https://ko.wikipedia.org/wiki/분류:대한민국의_보이_밴드 "wikilink") [분류:Mnet 엠카운트다운 1위 수상자](https://ko.wikipedia.org/wiki/분류:Mnet_엠카운트다운_1위_수상자 "wikilink") [분류:2004년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2004년_결성된_음악_그룹 "wikilink")
+[분류:스타제국 소속](https://ko.wikipedia.org/wiki/분류:스타제국_소속 "wikilink") [분류:한국어 음악 그룹](https://ko.wikipedia.org/wiki/분류:한국어_음악_그룹 "wikilink") [분류:대한민국의 R\&B 음악 그룹](https://ko.wikipedia.org/wiki/분류:대한민국의_R&B_음악_그룹 "wikilink") [분류:대한민국의 보이 밴드](https://ko.wikipedia.org/wiki/분류:대한민국의_보이_밴드 "wikilink") [분류:엠넷 엠카운트다운 1위 수상자](https://ko.wikipedia.org/wiki/분류:엠넷_엠카운트다운_1위_수상자 "wikilink") [분류:2004년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2004년_결성된_음악_그룹 "wikilink")

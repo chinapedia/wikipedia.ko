@@ -24,7 +24,7 @@ Ecma 인터내셔널은 다수의 표준을 책임지고 있다. 다음은 그 �
   - [ECMA-402](https://ko.wikipedia.org/wiki/ECMA-402 "wikilink") - [ECMAScript](https://ko.wikipedia.org/wiki/ECMAScript "wikilink") 국제화 API 사양\[11\]
   - [ECMA-404](https://ko.wikipedia.org/wiki/ECMA-404 "wikilink") - [JSON](../Page/JSON.md "wikilink")\[12\]
   - [ECMA-408](https://ko.wikipedia.org/wiki/ECMA-408 "wikilink") - [다트 언어](https://ko.wikipedia.org/wiki/다트_\(프로그래밍_언어\) "wikilink") 사양\[13\]
-  - [ECMA-412](https://ko.wikipedia.org/wiki/ECMA-412 "wikilink") - [Access Systems](http://www.ecma-international.org/publications/standards/Ecma-412.htm)
+  - [ECMA-412](https://ko.wikipedia.org/wiki/ECMA-412 "wikilink") - [Access Systems](https://web.archive.org/web/20170923142911/http://www.ecma-international.org/publications/standards/Ecma-412.htm)
 
 ## 같이 보기
 

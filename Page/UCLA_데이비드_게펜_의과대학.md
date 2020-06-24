@@ -25,7 +25,7 @@
 
 UCLA 데이비드 게펜 의과대학원은 미 주간지 *[U.S. 뉴스와 월드 리포트](https://ko.wikipedia.org/wiki/U.S._뉴스와_월드_리포트 "wikilink")* (U.S. News and World Report) 의과대학/연구 랭킹에서 6위이다.\[1\]
 
-## 참고문헌
+## 참고 문헌
 
 <small>
 

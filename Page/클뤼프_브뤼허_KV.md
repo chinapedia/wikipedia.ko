@@ -9,7 +9,7 @@
 
 ## 역대 성적
 
-  - **[주필러 리그](https://ko.wikipedia.org/wiki/주필러_리그 "wikilink") : 13**
+  - **[주필러 리그](https://ko.wikipedia.org/wiki/주필러_리그 "wikilink") : 15**
 
 <!-- end list -->
 
@@ -20,7 +20,7 @@
 
 <!-- end list -->
 
-  - **[벨기에 컵](https://ko.wikipedia.org/wiki/벨기에_컵 "wikilink") : 10**
+  - **[벨기에 컵](https://ko.wikipedia.org/wiki/벨기에_컵 "wikilink") : 11**
 
 <!-- end list -->
 
@@ -31,7 +31,7 @@
 
 <!-- end list -->
 
-  - **[벨기에 슈퍼컵](https://ko.wikipedia.org/wiki/벨기에_슈퍼컵 "wikilink") : 13**
+  - **[벨기에 슈퍼컵](https://ko.wikipedia.org/wiki/벨기에_슈퍼컵 "wikilink") : 14**
 
 <!-- end list -->
 

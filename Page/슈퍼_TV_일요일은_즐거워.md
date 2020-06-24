@@ -310,7 +310,7 @@ TV해결사 MC들이 쌀을 팔고 성금을 기부하는 형식이다.
 
 ## 각주
 
-[분류:일요일](https://ko.wikipedia.org/wiki/분류:일요일 "wikilink") [분류:대한민국의 텔레비전 게임 쇼](https://ko.wikipedia.org/wiki/분류:대한민국의_텔레비전_게임_쇼 "wikilink") [분류:대한민국의 텔레비전 버라이어티 쇼](https://ko.wikipedia.org/wiki/분류:대한민국의_텔레비전_버라이어티_쇼 "wikilink") [분류:한국방송공사의 연예오락 프로그램](https://ko.wikipedia.org/wiki/분류:한국방송공사의_연예오락_프로그램 "wikilink") [분류:2003년 폐지](https://ko.wikipedia.org/wiki/분류:2003년_폐지 "wikilink") [분류:1998년에 시작한 대한민국 TV 프로그램](https://ko.wikipedia.org/wiki/분류:1998년에_시작한_대한민국_TV_프로그램 "wikilink") [분류:2003년에 종료한 대한민국 TV 프로그램](https://ko.wikipedia.org/wiki/분류:2003년에_종료한_대한민국_TV_프로그램 "wikilink")
+[분류:대한민국의 텔레비전 게임 쇼](https://ko.wikipedia.org/wiki/분류:대한민국의_텔레비전_게임_쇼 "wikilink") [분류:대한민국의 텔레비전 버라이어티 쇼](https://ko.wikipedia.org/wiki/분류:대한민국의_텔레비전_버라이어티_쇼 "wikilink") [분류:한국방송공사의 연예오락 프로그램](https://ko.wikipedia.org/wiki/분류:한국방송공사의_연예오락_프로그램 "wikilink") [분류:2003년 폐지](https://ko.wikipedia.org/wiki/분류:2003년_폐지 "wikilink") [분류:1998년에 시작한 대한민국 TV 프로그램](https://ko.wikipedia.org/wiki/분류:1998년에_시작한_대한민국_TV_프로그램 "wikilink") [분류:2003년에 종료한 대한민국 TV 프로그램](https://ko.wikipedia.org/wiki/분류:2003년에_종료한_대한민국_TV_프로그램 "wikilink")
 
 1.
 2.

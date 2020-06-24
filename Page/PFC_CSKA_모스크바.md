@@ -21,9 +21,6 @@
 
   - **[UEFA 챔피언스 리그](https://ko.wikipedia.org/wiki/UEFA_챔피언스_리그 "wikilink"): 0**
       - 8강: [2009-10](../Page/2009-10년_UEFA_챔피언스리그.md "wikilink")
-
-<!-- end list -->
-
   - [16px](https://ko.wikipedia.org/wiki/파일:UEFA_Cup_\(adjusted\).png "wikilink") **[UEFA컵 / UEFA 유로파리그](https://ko.wikipedia.org/wiki/UEFA_유로파_리그 "wikilink"): 1**
 
 <!-- end list -->
@@ -37,9 +34,8 @@
 
   -   - 8강: [2017-18](../Page/2017-18년_UEFA_유로파리그.md "wikilink")
 
-<!-- end list -->
-
   - [16px](https://ko.wikipedia.org/wiki/파일:UEFA_-_Super_Cup.png "wikilink") **[UEFA 슈퍼컵](../Page/UEFA_슈퍼컵.md "wikilink"): 0**
+
       - 준우승 (1): [2005](../Page/2005년_UEFA_슈퍼컵.md "wikilink")
 
 ## 외부 링크

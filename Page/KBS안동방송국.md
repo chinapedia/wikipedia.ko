@@ -211,7 +211,7 @@
   - [김명환](https://ko.wikipedia.org/wiki/김명환 "wikilink") 취재부장
   - [윤나경](https://ko.wikipedia.org/wiki/윤나경 "wikilink")
   - [주경애](https://ko.wikipedia.org/wiki/주경애 "wikilink") 보도국장
-  - [이재교](https://ko.wikipedia.org/wiki/이재교_\(기자\) "wikilink")
+  - 이재교
   - [우동윤](https://ko.wikipedia.org/wiki/우동윤 "wikilink") 취재부장
   - [이하늬](../Page/이하늬.md "wikilink")
 

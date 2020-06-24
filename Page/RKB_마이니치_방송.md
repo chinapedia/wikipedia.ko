@@ -9,7 +9,7 @@
 
 ## 개요
 
-  - 텔레비전 네트워크는 [JNN](https://ko.wikipedia.org/wiki/JNN "wikilink"), 라디오 네트워크는 [JRN](https://ko.wikipedia.org/wiki/JRN "wikilink")에 가맹.약칭인 「RKB」는 1951년 개국한 라디오 규슈(Radio Kyushu Broadcasting)의 약칭에서 유래하며 그 후 [기타큐슈 시에](https://ko.wikipedia.org/wiki/기타큐슈_시 "wikilink") 있던 서부 마이니치 텔레비전 방송과 합병했을 때, 약칭 RKB를 계승했고 지금까지 사용하고 있다.
+  - 텔레비전 네트워크는 [JNN](https://ko.wikipedia.org/wiki/JNN "wikilink"), 라디오 네트워크는 [JRN](https://ko.wikipedia.org/wiki/JRN "wikilink")에 가맹.약칭인 「RKB」는 1951년 개국한 라디오 규슈(Radio Kyushu Broadcasting)의 약칭에서 유래하며 그 후 [기타큐슈시](../Page/기타큐슈시.md "wikilink")에 있던 서부 마이니치 텔레비전 방송과 합병했을 때, 약칭 RKB를 계승했고 지금까지 사용하고 있다.
   - 한국의 [경인방송](../Page/경인방송.md "wikilink")과 제휴관계를 맺었지만 경인방송의 TV방송 폐국으로 인해 제휴관계가 소멸했다.
   - 규슈지역의 민영방송국중 수익률이 가장 좋다고 한다.
   - 긴급사태에 대비해 아나운서 1 명과 제작 기술 보도 부문 직원 몇몇 사람이 매일 교대로 방송국에서 숙직근무를 하고 있다.
@@ -64,7 +64,7 @@
 
 ## 텔레비전 네트워크의 변천사
 
-  - [1958년](../Page/1958년.md "wikilink") [3월 1일](../Page/3월_1일.md "wikilink") [후쿠오카현](../Page/후쿠오카현.md "wikilink") [후쿠오카 시에서](https://ko.wikipedia.org/wiki/후쿠오카_시 "wikilink") 텔레비전 방송 개시.[니혼TV](https://ko.wikipedia.org/wiki/니혼TV "wikilink")·[도쿄방송](https://ko.wikipedia.org/wiki/도쿄방송 "wikilink")와 네트워크 관계를 맺는다.
+  - [1958년](../Page/1958년.md "wikilink") [3월 1일](../Page/3월_1일.md "wikilink") [후쿠오카현](../Page/후쿠오카현.md "wikilink") [후쿠오카시](../Page/후쿠오카시.md "wikilink")에서 텔레비전 방송 개시.[니혼TV](https://ko.wikipedia.org/wiki/니혼TV "wikilink")·[도쿄방송](https://ko.wikipedia.org/wiki/도쿄방송 "wikilink")와 네트워크 관계를 맺는다.
   - [1958년](../Page/1958년.md "wikilink") [8월 1일](../Page/8월_1일.md "wikilink") [후쿠오카현](../Page/후쿠오카현.md "wikilink") [야와타시(현：기타큐슈시 야하타 지역)](https://ko.wikipedia.org/wiki/기타큐슈_시 "wikilink")(간몬지구)에서 텔레비전 방송 개시.
   - [1958년](../Page/1958년.md "wikilink") [8월 28일](../Page/8월_28일.md "wikilink") 이 날 간몬 지구에서 개국한 [TV 니시닛폰이](../Page/TV_니시닛폰.md "wikilink") [니혼TV](https://ko.wikipedia.org/wiki/니혼TV "wikilink")계열국으로 개국했기 때문에 니혼테레비와의 네트워크 관계를 해지하면서 [라디오도쿄 TV의](https://ko.wikipedia.org/wiki/도쿄방송 "wikilink") 프로그램만 방송하기 시작한다.
   - [1959년](../Page/1959년.md "wikilink") [8월 1일](../Page/8월_1일.md "wikilink") 뉴스 네트워크 JNN에 가맹.
@@ -91,7 +91,7 @@
 ## 보충서술
 
   - 다른 방송국에서 개국주년을 보통“개국 00주년”으로 적는 데 반해, 두 방송국이 합병하면서 설립된 방송국의 역사 때문에 개국주년을“RKB 설립 00주년”으로 하고 있다.
-  - [1958년](../Page/1958년.md "wikilink") [사가현](../Page/사가현.md "wikilink") [가라쓰 시에](https://ko.wikipedia.org/wiki/가라쓰_시 "wikilink") 라디오 방송면허를 신청했으나 각하되었다.
+  - [1958년](../Page/1958년.md "wikilink") [사가현](../Page/사가현.md "wikilink") [가라쓰시](../Page/가라쓰시.md "wikilink")에 라디오 방송면허를 신청했으나 각하되었다.
 
 ## [후쿠오카현](../Page/후쿠오카현.md "wikilink")에 있는 다른 방송국
 

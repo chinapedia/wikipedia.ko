@@ -48,6 +48,7 @@
   - [구름빵 2](https://ko.wikipedia.org/wiki/구름빵_2 "wikilink")
   - [강철소방대 파이어로보](https://ko.wikipedia.org/wiki/강철소방대_파이어로보 "wikilink")
   - [골목대장 모니카](https://ko.wikipedia.org/wiki/골목대장_모니카 "wikilink")
+  - \[\[골판지 전사\]
 
 ### ㄲ
 
@@ -110,6 +111,7 @@
   - [마다가스카의 펭귄](../Page/마다가스카의_펭귄.md "wikilink")
   - [마이 리틀 포니](../Page/마이_리틀_포니.md "wikilink")
   - [미라클멜로디](https://ko.wikipedia.org/wiki/미라클멜로디 "wikilink")
+  - [메타제트](../Page/메타제트.md "wikilink")
 
 ### ㅂ
 

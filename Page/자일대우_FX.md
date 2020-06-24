@@ -53,12 +53,14 @@
   - [코리아와이드 경북](https://ko.wikipedia.org/wiki/코리아와이드_경북 "wikilink")\[9\]
   - [선진고속](../Page/선진고속_\(안산시\).md "wikilink")
   - [세종고속](../Page/세종고속.md "wikilink")
+  - [동원여객](../Page/동원여객.md "wikilink")\[10\]
+  - [해동여객](../Page/해동여객.md "wikilink")\[11\]
 
 #### FXⅡ116 크루징 애로우
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Gyeonggi_Express_FX116_Front-Side.png "wikilink")
 
-11.6m급 스탠더드 데크 모델로, 에어 서스펜션을 사용한다. 기존 FX116 크루징애로우에 시트 디자인 변경과 운전석자리를 늘렸으며,\[10\] 외관상의 변화는 FXⅡ116의 엠블럼으로 바뀐거 외에는 없다. 또한 [2010년](../Page/2010년.md "wikilink") [5월](../Page/5월.md "wikilink")에는 공개 입찰을 통하여 [대한석유협회](https://ko.wikipedia.org/wiki/대한석유협회 "wikilink")와 [한국기계연구원](../Page/한국기계연구원.md "wikilink")이 공동 개발하는 [디젤](https://ko.wikipedia.org/wiki/디젤 "wikilink") [하이브리드](https://ko.wikipedia.org/wiki/하이브리드 "wikilink") [버스](../Page/버스.md "wikilink")의 제작 사업권자로 [대우버스](https://ko.wikipedia.org/wiki/대우버스 "wikilink")가 낙찰되면서\[11\] [디젤](https://ko.wikipedia.org/wiki/디젤 "wikilink") [하이브리드](https://ko.wikipedia.org/wiki/하이브리드 "wikilink") [버스](../Page/버스.md "wikilink")의 베이스 모델로 채택되어 [2011년](../Page/2011년.md "wikilink") [6월](../Page/6월.md "wikilink")부터 [과천](../Page/과천시.md "wikilink"), [부산](https://ko.wikipedia.org/wiki/부산광역시 "wikilink"), [대구](../Page/대구광역시.md "wikilink"), [2012 여수엑스포](../Page/2012년_세계_박람회.md "wikilink") 조직위원회 등 4개 도시에서 시범 운행을 시작하고 있다.\[12\] 그중 [2012년 세계 박람회](../Page/2012년_세계_박람회.md "wikilink") 조직위원회에서 운행하였던 차량은 [세종시](../Page/세종특별자치시.md "wikilink") [세종교통](../Page/세종교통.md "wikilink")에 매각했다.\[13\] [2013년](../Page/2013년.md "wikilink") [12월](../Page/12월.md "wikilink")에 선보인 [2014년](../Page/2014년.md "wikilink")식 부터 폴딩도어 테두리 색상이 베이지색에서 회색으로 변경되었으며, [2014년](../Page/2014년.md "wikilink") [12월](../Page/12월.md "wikilink")에 선보인 2015년형부터 유로6 엔진 적용 및 사이드 마커램프가 적용되고, 외관과 내관이 약간 변경되었으며, [고급 좌석](../Page/좌석버스.md "wikilink") 45인승 모델이 추가 되었다.\[14\] [2015년](../Page/2015년.md "wikilink") 부터는 두산인프라코어가 유로6 엔진개발을 중지함에 따라 유로 6 규정에 적합한 커민스 ISL엔진을 사용한다. 그리고 스커트 패널에 마커등이 추가된데 이어, 같은해 [11월](../Page/11월.md "wikilink")에 선보인 [2016년](../Page/2016년.md "wikilink")식 부터 데쉬보드에 오디오는 [USB](../Page/USB.md "wikilink") 단자가 추가되었다.
+11.6m급 스탠더드 데크 모델로, 에어 서스펜션을 사용한다. 기존 FX116 크루징애로우에 시트 디자인 변경과 운전석자리를 늘렸으며,\[12\] 외관상의 변화는 FXⅡ116의 엠블럼으로 바뀐거 외에는 없다. 또한 [2010년](../Page/2010년.md "wikilink") [5월](../Page/5월.md "wikilink")에는 공개 입찰을 통하여 [대한석유협회](https://ko.wikipedia.org/wiki/대한석유협회 "wikilink")와 [한국기계연구원](../Page/한국기계연구원.md "wikilink")이 공동 개발하는 [디젤](https://ko.wikipedia.org/wiki/디젤 "wikilink") [하이브리드](https://ko.wikipedia.org/wiki/하이브리드 "wikilink") [버스](../Page/버스.md "wikilink")의 제작 사업권자로 [대우버스](https://ko.wikipedia.org/wiki/대우버스 "wikilink")가 낙찰되면서\[13\] [디젤](https://ko.wikipedia.org/wiki/디젤 "wikilink") [하이브리드](https://ko.wikipedia.org/wiki/하이브리드 "wikilink") [버스](../Page/버스.md "wikilink")의 베이스 모델로 채택되어 [2011년](../Page/2011년.md "wikilink") [6월](../Page/6월.md "wikilink")부터 [과천](../Page/과천시.md "wikilink"), [부산](https://ko.wikipedia.org/wiki/부산광역시 "wikilink"), [대구](../Page/대구광역시.md "wikilink"), [2012 여수엑스포](../Page/2012년_세계_박람회.md "wikilink") 조직위원회 등 4개 도시에서 시범 운행을 시작하고 있다.\[14\] 그중 [2012년 세계 박람회](../Page/2012년_세계_박람회.md "wikilink") 조직위원회에서 운행하였던 차량은 [세종시](../Page/세종특별자치시.md "wikilink") [세종교통](../Page/세종교통.md "wikilink")에 매각했다.\[15\] [2013년](../Page/2013년.md "wikilink") [12월](../Page/12월.md "wikilink")에 선보인 [2014년](../Page/2014년.md "wikilink")식 부터 폴딩도어 테두리 색상이 베이지색에서 회색으로 변경되었으며, [2014년](../Page/2014년.md "wikilink") [12월](../Page/12월.md "wikilink")에 선보인 2015년형부터 유로6 엔진 적용 및 사이드 마커램프가 적용되고, 외관과 내관이 약간 변경되었으며, [고급 좌석](../Page/좌석버스.md "wikilink") 45인승 모델이 추가 되었다.\[16\] [2015년](../Page/2015년.md "wikilink") 부터는 두산인프라코어가 유로6 엔진개발을 중지함에 따라 유로 6 규정에 적합한 커민스 ISL엔진을 사용한다. 그리고 스커트 패널에 마커등이 추가된데 이어, 같은해 [11월](../Page/11월.md "wikilink")에 선보인 [2016년](../Page/2016년.md "wikilink")식 부터 데쉬보드에 오디오는 [USB](../Page/USB.md "wikilink") 단자가 추가되었다.
 
 아래는 FXⅡ116 크루징애로우 모델을 현재 운영중인 노선버스 업체 목록이다.
 
@@ -136,7 +138,7 @@
 
 #### FX120 크루징스타
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:Gyeonggi_Express_FX120_Cruising_Star.png "wikilink") 12m급 스탠더드 데크 모델이다. **BH119 로얄스페셜**의 후속 모델로\[15\]유로4 DV11K (400마력, 430마력) 엔진을 사용한다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:Gyeonggi_Express_FX120_Cruising_Star.png "wikilink") 12m급 스탠더드 데크 모델이다. **BH119 로얄스페셜**의 후속 모델로\[17\]유로4 DV11K (400마력, 430마력) 엔진을 사용한다.
 
 아래는 FX120 크루징스타 모델을 현재 운영중이거나 과거에 운영했었던 노선버스 업체의 목록이다.
 
@@ -182,7 +184,7 @@
   - [동해상사고속](../Page/동해상사고속.md "wikilink")
   - [코리아와이드대성](../Page/코리아와이드대성.md "wikilink")
   - [삼영교통](../Page/삼영교통.md "wikilink")
-  - [거제현대고속](../Page/거제현대고속.md "wikilink")\[16\]
+  - [거제현대고속](../Page/거제현대고속.md "wikilink")\[18\]
 
 #### FX120 에이스
 
@@ -209,14 +211,14 @@
 
 <!-- end list -->
 
-  - [천일고속](../Page/천일고속.md "wikilink")\[17\]
+  - [천일고속](../Page/천일고속.md "wikilink")\[19\]
   - [금강고속](../Page/금강고속.md "wikilink")
   - [코리아와이드 경북](https://ko.wikipedia.org/wiki/코리아와이드_경북 "wikilink")
-  - [거창고속](../Page/거창고속.md "wikilink")\[18\]
+  - [거창고속](../Page/거창고속.md "wikilink")\[20\]
 
 #### FXⅡ212 슈퍼크루저
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:Gyeongbuk_Express_FX_II_212_Front.jpg "wikilink") 기존 FX212 슈퍼크루저의 성능을 보완한 12M 하이데커 기종이며, 외관은 큰 변화가 없다. 냉난방 성능, 아웃사이드 미러, 엔진룸 열해 개선, 간접 조명 위치 변경 등을 통해 기존 FX212 슈퍼크루저의 문제를 많이 개선하였으나, [현대 유니버스와](../Page/현대_유니버스.md "wikilink") [기아 그랜버드의](../Page/기아_그랜버드.md "wikilink") 인기에 밀려 도입률이 적었다.\[19\] 2013년에 상급 차종인 BX212 로얄하이데커랑 같이 커민스 ISMe 엔진을 적용되었다. [2015년](../Page/2015년.md "wikilink")부터 두산인프라코어가 유로 6 기준에 맞는 엔진개발을 중지함에 따라 유로6 규정에 적합한 FPT사의 Cursor 11 엔진이 사용되었으며, 스커트 패널에 마커등이 추가되었다. 같은해 [11월](../Page/11월.md "wikilink")에 선보인 [2016년](../Page/2016년.md "wikilink")식 부터 데쉬보드에 오디오는 [USB](../Page/USB.md "wikilink") 단자가 추가되었다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:Gyeongbuk_Express_FX_II_212_Front.jpg "wikilink") 기존 FX212 슈퍼크루저의 성능을 보완한 12M 하이데커 기종이며, 외관은 큰 변화가 없다. 냉난방 성능, 아웃사이드 미러, 엔진룸 열해 개선, 간접 조명 위치 변경 등을 통해 기존 FX212 슈퍼크루저의 문제를 많이 개선하였으나, [현대 유니버스와](../Page/현대_유니버스.md "wikilink") [기아 그랜버드의](../Page/기아_그랜버드.md "wikilink") 인기에 밀려 도입률이 적었다.\[21\] 2013년에 상급 차종인 BX212 로얄하이데커랑 같이 커민스 ISMe 엔진을 적용되었다. [2015년](../Page/2015년.md "wikilink")부터 두산인프라코어가 유로 6 기준에 맞는 엔진개발을 중지함에 따라 유로6 규정에 적합한 FPT사의 Cursor 11 엔진이 사용되었으며, 스커트 패널에 마커등이 추가되었다. 같은해 [11월](../Page/11월.md "wikilink")에 선보인 [2016년](../Page/2016년.md "wikilink")식 부터 데쉬보드에 오디오는 [USB](../Page/USB.md "wikilink") 단자가 추가되었다.
 
 아래는 FXⅡ212 슈퍼크루저를 현재 운영중인 노선버스 업체 목록이다.
 
@@ -247,7 +249,7 @@
   - 커민스 ISL (직렬 6기통 VGT 디젤 터보, 8.9L) - 400마력, 173kg.m (유로6) : FXⅡ116 / FX116, FXⅡ120 / FX120 에 탑재
   - FPT Iveco Cursor 11 (직렬 6기통 커먼레일 디젤 터보, 11.1L) - 420마력 204kg.m / 480마력 229kg.m (유로6, 2015년형 이후\~) : FX120, FXⅡ212 / FX212 BX212S/H 에 적용
 
-2017년 현재 엔진은 유로6 규제를 충족하는 커민스 ISL 엔진과 FPT(Fiat Powertrain Technology)의 커서11 엔진만 적용이 되고(모델별 탑재 엔진은 바로위 참조), 변속기의 경우 ZF 6단 수동변속기가 매칭되고 있다.\[20\]
+2017년 현재 엔진은 유로6 규제를 충족하는 커민스 ISL 엔진과 FPT(Fiat Powertrain Technology)의 커서11 엔진만 적용이 되고(모델별 탑재 엔진은 바로위 참조), 변속기의 경우 ZF 6단 수동변속기가 매칭되고 있다.\[22\]
 
 ## 사진
 
@@ -282,14 +284,16 @@
 7.  [2012년](../Page/2012년.md "wikilink") [5월](../Page/5월.md "wikilink") 1006번 형간전환에 따라 [부산여객](../Page/부산여객.md "wikilink")에 매각하였다.
 8.  [2013년](../Page/2013년.md "wikilink")에 [대성고속](../Page/코리아와이드대성.md "wikilink") 중고로 도입하였으며, [2015년](../Page/2015년.md "wikilink")에 대폐차하였다.
 9.  [코리아와이드대성](../Page/코리아와이드대성.md "wikilink")에서 중고로 매입한 차량으로 6대를 운행하였으며, [2018년](../Page/2018년.md "wikilink")에 뉴 프리미엄 유니버스 익스프레스 노블로 대차되었다.
-10. 2010년에 최초로 도입된 차량에는 시트디자인이 아직 변경되지 않았다, 그외에도 일부차량을 FX116으로 그대로 도입한 적이 있었다.
-11. 김혜원 기자, ['디젤하이브리드버스' 첫 출시..대우·LG '웃고' 현대차·SK '울고'](http://www.asiae.co.kr/news/view.htm?idxno=2010051513581124017), 《아시아경제》, [2010년](../Page/2010년.md "wikilink") [5월 15일](../Page/5월_15일.md "wikilink") 작성
-12. [‘클린디젤 하이브리드 버스’ 서울 등 지자체 운행](http://www.ebn.co.kr/news/n_view.html?id=480537), 《EBN》, [2011년](../Page/2011년.md "wikilink") [2월 15일](../Page/2월_15일.md "wikilink") 작성
-13. [디젤하이브리드 버스 세종시 달린다](http://www.dt.co.kr/contents.html?article_no=2013020402011557731001), 《디지털하임스》, [2013년](../Page/2013년.md "wikilink") [2월 3일](../Page/2월_3일.md "wikilink") 작성
-14. [KD운송그룹](../Page/KD운송그룹.md "wikilink")에서 반입한 차량 중에 49인승 모델도 있었으나 후에 45인승으로 개조되었다.
-15. **BH117H 로얄크루스타**의 경우 후속 모델 없이 단종되었다.
-16. 2018년에 중고로 도입했다.
-17. 2008년에 2대를 우등고속형으로 출고해서 운행하였으나, 2013년 2월경 중고버스 시장에 매각했다.
-18. [2013년](../Page/2013년.md "wikilink")에 2008년식을 중고로 도입해서 운용한적이 있었다가 대폐차 하였다.
-19. 주로 [관광버스](../Page/관광버스.md "wikilink") 회사가 도입했다.
-20. 2017년부터 리타더 보조 브레이크 의무화에 따라 적용되었다.
+10. 2018년에 전멸되었다.
+11. 자사 최후의 대우차량이었다.
+12. 2010년에 최초로 도입된 차량에는 시트디자인이 아직 변경되지 않았다, 그외에도 일부차량을 FX116으로 그대로 도입한 적이 있었다.
+13. 김혜원 기자, ['디젤하이브리드버스' 첫 출시..대우·LG '웃고' 현대차·SK '울고'](http://www.asiae.co.kr/news/view.htm?idxno=2010051513581124017), 《아시아경제》, [2010년](../Page/2010년.md "wikilink") [5월 15일](../Page/5월_15일.md "wikilink") 작성
+14. [‘클린디젤 하이브리드 버스’ 서울 등 지자체 운행](http://www.ebn.co.kr/news/n_view.html?id=480537), 《EBN》, [2011년](../Page/2011년.md "wikilink") [2월 15일](../Page/2월_15일.md "wikilink") 작성
+15. [디젤하이브리드 버스 세종시 달린다](http://www.dt.co.kr/contents.html?article_no=2013020402011557731001), 《디지털하임스》, [2013년](../Page/2013년.md "wikilink") [2월 3일](../Page/2월_3일.md "wikilink") 작성
+16. [KD운송그룹](../Page/KD운송그룹.md "wikilink")에서 반입한 차량 중에 49인승 모델도 있었으나 후에 45인승으로 개조되었다.
+17. **BH117H 로얄크루스타**의 경우 후속 모델 없이 단종되었다.
+18. 2018년에 중고로 도입했다.
+19. 2008년에 2대를 우등고속형으로 출고해서 운행하였으나, 2013년 2월경 중고버스 시장에 매각했다.
+20. [2013년](../Page/2013년.md "wikilink")에 2008년식을 중고로 도입해서 운용한적이 있었다가 대폐차 하였다.
+21. 주로 [관광버스](../Page/관광버스.md "wikilink") 회사가 도입했다.
+22. 2017년부터 리타더 보조 브레이크 의무화에 따라 적용되었다.

@@ -28,6 +28,7 @@
   - [2010년](../Page/2010년.md "wikilink") [12월 15일](../Page/12월_15일.md "wikilink") 망운산송신소 DMB 개국
   - [2012년](../Page/2012년.md "wikilink") [10월 30일](../Page/10월_30일.md "wikilink") 아날로그 TV방송 종료
   - [2013년](../Page/2013년.md "wikilink") [6월 12일](../Page/6월_12일.md "wikilink") DTV 채널 재배치
+  - [2020년](../Page/2020년.md "wikilink") [5월 23일](../Page/5월_23일.md "wikilink") 신월송신소 임시 휴지(\~2020년 11월)
 
 ## 방송 송출 시설망
 
@@ -142,7 +143,7 @@
 <td><p>월요일 ~ 금요일 5분<br />
 토요일 ~ 일요일 5분</p></td>
 <td><p>오전 9시 ~ 9시 5분</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/이주희" title="wikilink">이주희</a></p>
+<td><p><a href="https://ko.wikipedia.org/wiki/김다은" title="wikilink">김다은</a></p>
 <ul>
 <li><strong>주말 광주 수중계</strong></li>
 </ul></td>
@@ -178,15 +179,13 @@
 </tbody>
 </table>
 
-  - [시사초점, 전남 동부입니다](https://web.archive.org/web/20170713094125/http://suncheon.kbs.co.kr/radio/sisajeonam/about/index.html)(월\~금,28분)(진행 김다은)
-  - [라디오 상담실](https://web.archive.org/web/20170713131651/http://suncheon.kbs.co.kr/radio/radio/about/index.html)(월\~금,35분)(진행 채윤아)
-  - [행복충전, 라디오세상](https://web.archive.org/web/20170713120822/http://suncheon.kbs.co.kr/radio/happyradio/about/index.html)(월\~금,53분)(진행 이주희)
+  - [시사초점, 전남 동부입니다](https://web.archive.org/web/20170713094125/http://suncheon.kbs.co.kr/radio/sisajeonam/about/index.html)(월\~금,28분)(진행 윤영혁)
+  - [라디오 상담실](https://web.archive.org/web/20170713131651/http://suncheon.kbs.co.kr/radio/radio/about/index.html)(월\~금,35분)(진행 김다은)
+  - [행복충전, 라디오세상](https://web.archive.org/web/20170713120822/http://suncheon.kbs.co.kr/radio/happyradio/about/index.html)(월\~금,53분)(진행 김다은)
 
 ## 아나운서
 
-  - [이주희](https://ko.wikipedia.org/wiki/이주희 "wikilink") : [2017년](../Page/2017년.md "wikilink")(프리랜서)입사
-  - [채윤아](https://ko.wikipedia.org/wiki/채윤아 "wikilink") : [2018년](../Page/2018년.md "wikilink") 전 KBS광주방송총국 (34기)
-  - [김다은](https://ko.wikipedia.org/wiki/김다은 "wikilink") : [2019년](../Page/2019년.md "wikilink")(프리랜서)입사
+  - [김다은](https://ko.wikipedia.org/wiki/김다은 "wikilink") : [2019년](../Page/2019년.md "wikilink")(프리랜서)
 
 ## 전직 아나운서
 
@@ -200,13 +199,15 @@
   - [임진숙](https://ko.wikipedia.org/wiki/임진숙 "wikilink") : 현 [KBS광주방송총국](../Page/KBS광주방송총국.md "wikilink") 아나운서
   - [김한별](https://ko.wikipedia.org/wiki/김한별_\(아나운서\) "wikilink") : 현 [KBS광주방송총국](../Page/KBS광주방송총국.md "wikilink") 아나운서
   - [김형철](https://ko.wikipedia.org/wiki/김형철_\(아나운서\) "wikilink") : 현 [KBS전주방송총국](../Page/KBS전주방송총국.md "wikilink") 아나운서
+  - [채윤아](https://ko.wikipedia.org/wiki/채윤아 "wikilink") : 현 [KBS광주방송총국](../Page/KBS광주방송총국.md "wikilink") 아나운서
   - [이윤선](https://ko.wikipedia.org/wiki/이윤선_\(아나운서\) "wikilink") : 전 [MBC경남](../Page/MBC경남.md "wikilink") 아나운서, 현 스피치 대표
   - [공진희](https://ko.wikipedia.org/wiki/공진희 "wikilink") : (2013\~2016), 현 퇴사
   - [정은아](../Page/정은아.md "wikilink") : 현 [KBS광주방송총국](../Page/KBS광주방송총국.md "wikilink") 아나운서
   - [변정연](https://ko.wikipedia.org/wiki/변정연_\(아나운서\) "wikilink") : (2016\~2017), 현 [원주MBC](https://ko.wikipedia.org/wiki/원주MBC "wikilink") 아나운서
   - [강은이](https://ko.wikipedia.org/wiki/강은이 "wikilink") : 현 [KBS광주방송총국](../Page/KBS광주방송총국.md "wikilink") 아나운서
-  - [봉주선](https://ko.wikipedia.org/wiki/봉주선 "wikilink") (2017.7\~2019.6) 현 퇴사
-  - [최명순](https://ko.wikipedia.org/wiki/최명순 "wikilink") (1979\~2016) (2018.10\~2019.9 프리랜서)
+  - [이주희](https://ko.wikipedia.org/wiki/이주희 "wikilink") : (2017\~2020.2) 현 퇴사
+  - [봉주선](https://ko.wikipedia.org/wiki/봉주선 "wikilink") : (2017.7\~2019.6) 현 퇴사
+  - [최명순](https://ko.wikipedia.org/wiki/최명순 "wikilink") : (1979\~2016) (2018.10\~2019.9 프리랜서)
 
 ## 각주
 

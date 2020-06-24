@@ -20,9 +20,10 @@
 
 ## 역사
 
-  - 1996년 (구) **SKY KBS 드라마** 개국 폐국
-  - [2002년](../Page/2002년.md "wikilink") [2월 2일](../Page/2월_2일.md "wikilink") (구) **KBS SKY 드라마**로 폐국
-  - [2006년](../Page/2006년.md "wikilink") [11월 1일](../Page/11월_1일.md "wikilink") **KBS 드라마**로 채널 변경 개국
+  - [2002년](../Page/2002년.md "wikilink") [1월 1일](../Page/1월_1일.md "wikilink") (구) **KBS 드라마**로 개국
+  - [2003년](../Page/2003년.md "wikilink") [1월](../Page/1월.md "wikilink") **SKY KBS 드라마**로 채널 변경 개국
+  - [2003년](../Page/2003년.md "wikilink") [7월](../Page/7월.md "wikilink") **KBS SKY 드라마**로 채널 변경 개국
+  - [2007년](../Page/2007년.md "wikilink") [1월 1일](../Page/1월_1일.md "wikilink") **KBS 드라마**로 채널 변경 개국
 
 ## 프로그램
 
@@ -33,8 +34,6 @@
   - [추리의 여왕 2](../Page/추리의_여왕_2.md "wikilink")
       - [슈퍼맨이 돌아왔다](../Page/슈퍼맨이_돌아왔다.md "wikilink")
       - [걸어서 세계속으로](../Page/걸어서_세계속으로.md "wikilink")
-      - [대국민 토크쇼 안녕하세요](../Page/대국민_토크쇼_안녕하세요.md "wikilink")
-      - [해피투게더 3](../Page/해피투게더_\(텔레비전_프로그램\).md "wikilink")
   - [파도야 파도야](../Page/파도야_파도야.md "wikilink")
   - [라디오 로맨스](../Page/라디오_로맨스.md "wikilink")
   - [살림하는 남자들 2](../Page/살림하는_남자들.md "wikilink")
@@ -63,6 +62,10 @@
   - [추리의 여왕](../Page/추리의_여왕.md "wikilink")
   - [그 여자의 바다](../Page/그_여자의_바다.md "wikilink")
   - 마카롱
+
+## 좋아하는 사람
+
+  - [윤태윤](https://ko.wikipedia.org/wiki/윤태윤 "wikilink")
 
 ## 같이 보기
 

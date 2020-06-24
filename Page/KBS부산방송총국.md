@@ -45,7 +45,7 @@
 ### 1980년대
 
   - [1980년](../Page/1980년.md "wikilink") [7월 10일](../Page/7월_10일.md "wikilink") : 부산방송국 FM라디오 방송 개시 (주파수 92.7㎒)
-  - [1980년](../Page/1980년.md "wikilink") [12월 1일](../Page/12월_1일.md "wikilink") : [동양방송](../Page/동양방송.md "wikilink") 부산지국 및 CBS 통합
+  - [1980년](../Page/1980년.md "wikilink") [12월 1일](../Page/12월_1일.md "wikilink") : [동양방송](../Page/동양방송.md "wikilink") 부산지국(호출부호 HLKE-TV) 및 CBS 통합
   - [1981년](../Page/1981년.md "wikilink") [2월 2일](../Page/2월_2일.md "wikilink") : 제3TV교육 방송 개시 (CH 23)
   - [1981년](../Page/1981년.md "wikilink") [3월 16일](../Page/3월_16일.md "wikilink") : 제2라디오 방송 개시 (주파수 97.1㎒)
   - [1981년](../Page/1981년.md "wikilink") [6월 2일](../Page/6월_2일.md "wikilink") : 제3교육 라디오 방송 개시 (주파수 107.7㎒)
@@ -199,7 +199,7 @@
 <td><p><a href="../Page/KBS_뉴스광장.md" title="wikilink">KBS 뉴스광장 부산</a></p></td>
 <td><p>15분</p></td>
 <td><p>평일 오전 7시 35분 ~ 7시 45분</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/최현호" title="wikilink">최현호</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/이지현" title="wikilink">이지현</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/KBS_뉴스_(930)" title="wikilink">KBS 뉴스 (930) 부산</a></p></td>
@@ -217,7 +217,7 @@
 <td><p><a href="../Page/KBS_뉴스_7.md" title="wikilink">KBS 뉴스 7 부산</a></p></td>
 <td><p>금 5분</p></td>
 <td><p>금 저녁 7시 20분 ~ 7시 25분</p></td>
-<td><p>금 : <a href="https://ko.wikipedia.org/wiki/차재환" title="wikilink">차재환</a></p></td>
+<td><p>금 : <a href="../Page/김평래.md" title="wikilink">김평래</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/KBS_뉴스_9.md" title="wikilink">KBS 뉴스 9 부산</a></p></td>
@@ -253,7 +253,7 @@
 
 | 프로그램 명                                                     | 방송 시간               | 편성 시간                                                                                                                                    | 진행                                                  |
 | ---------------------------------------------------------- | ------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------- |
-| KBS 제1라디오 9시 뉴스                                            | 월요일 \~ 금요일 5분       | 오전 9시 \~ 9시 5분                                                                                                                           | [차경애](https://ko.wikipedia.org/wiki/차경애 "wikilink") |
+| KBS 제1라디오 9시 뉴스                                            | 월요일 \~ 금요일 5분       | 오전 9시 \~ 9시 5분                                                                                                                           | [배소빈](https://ko.wikipedia.org/wiki/배소빈 "wikilink") |
 | [KBS 제1라디오 정오종합뉴스](../Page/KBS_제1라디오_정오종합뉴스.md "wikilink") | 낮 12시 15분\~ 12시 20분 | [장현순](https://ko.wikipedia.org/wiki/장현순 "wikilink")                                                                                      |                                                     |
 | KBS 제1라디오 오후 5시 뉴스                                         | 오후 5시 \~ 5시 5분      | [장현순](https://ko.wikipedia.org/wiki/이지현 "wikilink")/[김평래](../Page/김평래.md "wikilink")/[차재환](https://ko.wikipedia.org/wiki/차재환 "wikilink") |                                                     |
 
@@ -310,13 +310,13 @@
   - 김병래(1976 \~ 2004, 아나운서부장, 전 심의실 부장, 정년퇴직)
   - [왕종근](../Page/왕종근.md "wikilink")(1980 \~ 1994, 전 [동양방송](../Page/동양방송.md "wikilink") 부산지국 아나운서, 전 KBS서울본국, 현 방송인)
   - 조계식(1980 \~ 1998, 전 [동양방송](../Page/동양방송.md "wikilink") 부산지국 아나운서, 아나운서부장 정년퇴임)
-  - [정용조](https://ko.wikipedia.org/wiki/정용조 "wikilink")(1993 \~ 1999, 전 KBS울산국)
+  - [정용조](https://ko.wikipedia.org/wiki/정용조 "wikilink")(1983 \~ 1999, 전 KBS울산국)
   - [성세정](../Page/성세정.md "wikilink")(1993 \~ 1994, 현 KBS서울본국)
   - [장두희](https://ko.wikipedia.org/wiki/장두희 "wikilink")(1993 \~ 1994, 현 KBS서울본국, 타 부서 이동)
   - [조건진](../Page/조건진.md "wikilink")(1994 \~ 1995, 전 KBS서울본국)
   - [한상권](../Page/한상권_\(방송인\).md "wikilink")(1995 \~ 1996, 현 KBS서울본국)
-  - [오태훈](../Page/오태훈.md "wikilink")(1998 \~ 1999, 현 KBS서울본국)
   - [이형걸](../Page/이형걸.md "wikilink")(1997 \~ 1998, 현 KBS서울총국)
+  - [오태훈](../Page/오태훈.md "wikilink")(1998 \~ 1999, 현 KBS서울본국)
   - (故)[박태남](../Page/박태남.md "wikilink")(2000 \~ 2001, 전 KBS서울본국)
   - [김현욱](../Page/김현욱_\(방송인\).md "wikilink")(2000 \~ 2001, 전 KBS서울본국)
   - [김홍성](../Page/김홍성.md "wikilink")(2001 \~ 2002, 현 KBS서울본국)
@@ -333,7 +333,7 @@
   - 강미란 (퇴사)
   - 송광자 (퇴사)
   - 전옥수(1980 \~ 1991, 전 [동양방송](../Page/동양방송.md "wikilink") 부산지국 아나운서, 전 KBS청주총국)
-  - [김미균](https://ko.wikipedia.org/wiki/김미균 "wikilink")(1985 \~ 1990, 전 KBS진주)
+  - [김미균](https://ko.wikipedia.org/wiki/김미균 "wikilink")(1985 \~ 1990, 전 KBS진주국)
   - [선우경](https://ko.wikipedia.org/wiki/선우경 "wikilink")(1994 \~ 1997, 전 [iTV 경인방송](../Page/경인방송.md "wikilink") 아나운서, 현 방송인)
   - 윤소희(1997 \~ 1998, 전 KBS서울본국)
   - [공정민](../Page/공정민.md "wikilink")(1999 \~ 2002, 전 KBS서울본국, 현 방송인)
@@ -343,12 +343,12 @@
   - [정은승](../Page/정은승.md "wikilink")(2001 \~ 2002, 현 KBS서울본국)
   - [강수정](../Page/강수정.md "wikilink")(2002 \~ 2003, 전 KBS서울본국, 현 방송인)
   - [김보민](../Page/김보민.md "wikilink")(2003 \~ 2004, 현 KBS서울본국)
-  - [노현정](../Page/노현정.md "wikilink")(2004 \~ 2005, 전 KBS서울본국, 현 방송인)
+  - [노현정](../Page/노현정.md "wikilink")(2004 \~ 2005, 전 KBS서울본국)
   - [백승주](../Page/백승주_\(1976년\).md "wikilink")(2004, 현 KBS 서울본국)
   - [박지윤](../Page/박지윤_\(방송인\).md "wikilink")(2004 \~ 2005, 전 KBS서울본국, 현 방송인)
-  - [고은령](https://ko.wikipedia.org/wiki/고은령 "wikilink")(2005 \~ 2010, 현 스튜디오뮤지컬 대표)
+  - [고은령](https://ko.wikipedia.org/wiki/고은령 "wikilink")(2005 \~ 2010, 전 스튜디오뮤지컬 대표,현 보들극장 대표)
   - [이선영](../Page/이선영_\(1982년\).md "wikilink")(2005 \~ 2006, 현 KBS서울본국)
-  - [오정연](https://ko.wikipedia.org/wiki/오정연 "wikilink")(2006 \~ 2007, 전 KBS서울본국, 현 방송인)
+  - [오정연](../Page/오정연.md "wikilink")(2006 \~ 2007, 전 KBS서울본국, 현 방송인)
   - [장수연](../Page/장수연.md "wikilink")(2007 \~ 2012, 현 KBS서울본국)
   - [손지민](https://ko.wikipedia.org/wiki/손지민 "wikilink")(2010 \~ 2011, 전 KBS포항국, 현 KBS대구총국)
   - [김민정](../Page/김민정_\(1987년\).md "wikilink")(2012 \~ 2013, 전 KBS서울본국, 현 방송인)
@@ -366,7 +366,7 @@
 
 <!-- end list -->
 
-  - 양희진 보도국장
+  - 최재훈 보도국장
   - [이철재](https://ko.wikipedia.org/wiki/이철재 "wikilink") 보도부장
   - [배병오](https://ko.wikipedia.org/wiki/노준철 "wikilink") 취재부장
   - [이상준](https://ko.wikipedia.org/wiki/이상준 "wikilink") 취재부장

@@ -3,7 +3,7 @@
 
 **KNN 모닝와이드**는 [KNN](../Page/KNN.md "wikilink") 부산경남방송의 대표적인 아침 뉴스 프로그램으로, 1998년 3월 5일부터 방송을 개시하여 현재까지 방송 중인 프로그램이다.
 
-다른 KNN 뉴스 프로그램과 함께 2009년 4월 13일부터 [HD급](../Page/고선명_텔레비전.md "wikilink") 화질의 영상으로 방송하기 시작하였다.
+다른 KNN 뉴스 프로그램과 함께 2009년 4월 13일부터 [HD급](../Page/고선명_텔레비전.md "wikilink") 화질의 영상으로 방송하기 시작하였다. Nsync-It's Gonna Be Me,길정화-찬스(Chance),원더걸스-Tell Me(2024.11.8\~2024.12.31 knn Broadcasting Order Guide BGM)
 
 ## 방송 시작
 

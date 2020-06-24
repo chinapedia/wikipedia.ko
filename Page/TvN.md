@@ -11,17 +11,17 @@
 
 ### 드라마
 
-  - [월화드라마](https://ko.wikipedia.org/wiki/tvN_월화드라마 "wikilink") - [반의 반](https://ko.wikipedia.org/wiki/반의_반 "wikilink")
-  - [수목드라마](https://ko.wikipedia.org/wiki/tvN_수목드라마 "wikilink") - [메모리스트](https://ko.wikipedia.org/wiki/메모리스트_\(드라마\) "wikilink")
-  - [목요드라마](https://ko.wikipedia.org/wiki/tvN_수목드라마 "wikilink") - [슬기로운 의사생활](https://ko.wikipedia.org/wiki/슬기로운_의사생활 "wikilink")
-  - [토일드라마](https://ko.wikipedia.org/wiki/tvN_토일드라마 "wikilink") - [화양연화 - 삶이 꽃이 되는 순간](https://ko.wikipedia.org/wiki/화양연화_-_삶이_꽃이_되는_순간 "wikilink")
+  - [월화 드라마](https://ko.wikipedia.org/wiki/tvN_월화드라마 "wikilink") - [반의 반](https://ko.wikipedia.org/wiki/반의_반 "wikilink")
+  - [수목 드라마](https://ko.wikipedia.org/wiki/tvN_수목드라마 "wikilink") - [메모리스트](https://ko.wikipedia.org/wiki/메모리스트_\(드라마\) "wikilink")
+  - [목요 드라마](https://ko.wikipedia.org/wiki/tvN_수목드라마 "wikilink") - [슬기로운 의사생활](https://ko.wikipedia.org/wiki/슬기로운_의사생활 "wikilink")
+  - [금요 드라마](https://ko.wikipedia.org/wiki/tvN_금요드라마 "wikilink") -
+  - [토일 드라마](https://ko.wikipedia.org/wiki/tvN_토일드라마 "wikilink") - [화양연화 - 삶이 꽃이 되는 순간](https://ko.wikipedia.org/wiki/화양연화_-_삶이_꽃이_되는_순간 "wikilink")
 
 ### 예능
 
   - 수요일 - [유 퀴즈 온 더 블럭](../Page/유_퀴즈_온_더_블럭.md "wikilink")
-  - 금요일 - [금요일 금요일밤에](https://ko.wikipedia.org/wiki/금요일_금요일밤에 "wikilink"), [마포멋쟁이](https://ko.wikipedia.org/wiki/마포멋쟁이 "wikilink")
   - 토요일 - [놀라운 토요일](../Page/놀라운_토요일.md "wikilink"), [좋은가요](https://ko.wikipedia.org/wiki/좋은가요 "wikilink")
-  - 일요일 - [대탈출](../Page/대탈출.md "wikilink"), [코미디빅리그](../Page/코미디빅리그.md "wikilink")
+  - 일요일 - [대탈출3](https://ko.wikipedia.org/wiki/대탈출3 "wikilink"), [코미디빅리그](../Page/코미디빅리그.md "wikilink")
 
 ## 기타
 

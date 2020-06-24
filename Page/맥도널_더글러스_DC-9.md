@@ -205,7 +205,7 @@ DC-9 시리즈의 표준 모델로서 과거 [1970년](../Page/1970년.md "wikil
 
 ## 중국
 
-중국의 ARJ21은 [맥도넬 더글라스의](https://ko.wikipedia.org/wiki/맥도넬_더글라스 "wikilink") DC-9과 매우 유사한 형상을 가지고 있다. 특히 객실의 단면 형상과 nose, tail 등은 완전히 동일하다. 중국은 [MD-90](https://ko.wikipedia.org/wiki/MD-90 "wikilink") (DC-9의 후속 기종)의 중국 현지 면허 생산에 사용하던 설비를 그대로 사용하여 ARJ21을 제작한다. [DC-9](https://ko.wikipedia.org/wiki/DC-9 "wikilink")은 100인승 여객기의 대명사였으며, 보잉사는 [DC-9](https://ko.wikipedia.org/wiki/DC-9 "wikilink")이 장악한 시장에 도전하기 위해 [보잉 737을](../Page/보잉_737.md "wikilink") 개발하였다. [보잉 737은](../Page/보잉_737.md "wikilink") 보잉사에서 만든 여객기 중 가장 많이 팔린 여객기이다.
+중국의 [ARJ21](https://ko.wikipedia.org/wiki/ARJ21 "wikilink")은 [맥도넬 더글라스의](https://ko.wikipedia.org/wiki/맥도넬_더글라스 "wikilink") DC-9과 매우 유사한 형상을 가지고 있다. 특히 객실의 단면 형상과 nose, tail 등은 완전히 동일하다. 중국은 [MD-90](https://ko.wikipedia.org/wiki/MD-90 "wikilink") (DC-9의 후속 기종)의 중국 현지 면허 생산에 사용하던 설비를 그대로 사용하여 ARJ21을 제작한다. [DC-9](https://ko.wikipedia.org/wiki/DC-9 "wikilink")은 100인승 여객기의 대명사였으며, 보잉사는 [DC-9](https://ko.wikipedia.org/wiki/DC-9 "wikilink")이 장악한 시장에 도전하기 위해 [보잉 737을](../Page/보잉_737.md "wikilink") 개발하였다. [보잉 737은](../Page/보잉_737.md "wikilink") 보잉사에서 만든 여객기 중 가장 많이 팔린 여객기이다.
 
 ## 일본
 
@@ -219,4 +219,4 @@ DC-9 시리즈의 표준 모델로서 과거 [1970년](../Page/1970년.md "wikil
 
 ## 외부 링크
 
-[분류:여객기](https://ko.wikipedia.org/wiki/분류:여객기 "wikilink") [분류:미국의 민간 항공기](https://ko.wikipedia.org/wiki/분류:미국의_민간_항공기 "wikilink") [분류:1965년 첫 비행한 항공기](https://ko.wikipedia.org/wiki/분류:1965년_첫_비행한_항공기 "wikilink") [분류:쌍발 제트기](https://ko.wikipedia.org/wiki/분류:쌍발_제트기 "wikilink")
+[분류:여객기](https://ko.wikipedia.org/wiki/분류:여객기 "wikilink") [분류:미국의 민간 항공기](https://ko.wikipedia.org/wiki/분류:미국의_민간_항공기 "wikilink") [분류:1965년 첫 비행한 항공기](https://ko.wikipedia.org/wiki/분류:1965년_첫_비행한_항공기 "wikilink") [분류:쌍발 제트기](https://ko.wikipedia.org/wiki/분류:쌍발_제트기 "wikilink") [분류:저익기](https://ko.wikipedia.org/wiki/분류:저익기 "wikilink")

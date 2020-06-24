@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [OLIVIA](https://ko.wikipedia.org/wiki/OLIVIA).
 
 
-**OLIVIA**(올리비아, [1979년](../Page/1979년.md "wikilink") [12월 9일](../Page/12월_9일.md "wikilink") \~ )는 [일본](../Page/일본.md "wikilink") [오키나와현](../Page/오키나와현.md "wikilink") [나하 시](https://ko.wikipedia.org/wiki/나하_시 "wikilink") 출신의 가수이다. 현재 [비전 팩토리](https://ko.wikipedia.org/wiki/비전_팩토리 "wikilink") 소속이며, [커팅 에지를](https://ko.wikipedia.org/wiki/커팅_에지 "wikilink") 통해 음반을 발매하고 있다. [미국인](../Page/미국인.md "wikilink") 아버지와 [일본인](../Page/일본인.md "wikilink") 어머니 사이의 [혼혈](../Page/혼혈.md "wikilink"). 남동생인 제프 러프킨은 뮤지션. 여동생인 [캐럴라인 러프킨은](../Page/캐럴라인_러프킨.md "wikilink") [미국](../Page/미국.md "wikilink")에서 인디 활동하는 [가수](https://ko.wikipedia.org/wiki/가수 "wikilink"). [언어](../Page/언어.md "wikilink")는 주로 [영어](../Page/영어.md "wikilink")를 사용하고 공식 웹사이트의 [일기](../Page/일기.md "wikilink")도 [영어](../Page/영어.md "wikilink")로 쓰고 있다. [일본어](../Page/일본어.md "wikilink")는 이해할 수 있지만 회화가 자신있지는 않다.
+**OLIVIA**(올리비아, [1979년](../Page/1979년.md "wikilink") [12월 9일](../Page/12월_9일.md "wikilink") \~ )는 [일본](../Page/일본.md "wikilink") [오키나와현](../Page/오키나와현.md "wikilink") [나하시](../Page/나하시.md "wikilink") 출신의 가수이다. 현재 [비전 팩토리](https://ko.wikipedia.org/wiki/비전_팩토리 "wikilink") 소속이며, [커팅 에지를](https://ko.wikipedia.org/wiki/커팅_에지 "wikilink") 통해 음반을 발매하고 있다. [미국인](../Page/미국인.md "wikilink") 아버지와 [일본인](../Page/일본인.md "wikilink") 어머니 사이의 [혼혈](../Page/혼혈.md "wikilink"). 남동생인 제프 러프킨은 뮤지션. 여동생인 [캐럴라인 러프킨은](../Page/캐럴라인_러프킨.md "wikilink") [미국](../Page/미국.md "wikilink")에서 인디 활동하는 [가수](https://ko.wikipedia.org/wiki/가수 "wikilink"). [언어](../Page/언어.md "wikilink")는 주로 [영어](../Page/영어.md "wikilink")를 사용하고 공식 웹사이트의 [일기](../Page/일기.md "wikilink")도 [영어](../Page/영어.md "wikilink")로 쓰고 있다. [일본어](../Page/일본어.md "wikilink")는 이해할 수 있지만 회화가 자신있지는 않다.
 
 ## 프로필
 
 ### 출생부터 데뷔까지
 
-[1979년](../Page/1979년.md "wikilink") [12월 9일](../Page/12월_9일.md "wikilink") [일본](../Page/일본.md "wikilink")의 [오키나와현](../Page/오키나와현.md "wikilink") [나하 시에서](https://ko.wikipedia.org/wiki/나하_시 "wikilink") 미국인 아버지와 일본인 어머니 사이에서 태어났다.
+[1979년](../Page/1979년.md "wikilink") [12월 9일](../Page/12월_9일.md "wikilink") [일본](../Page/일본.md "wikilink")의 [오키나와현](../Page/오키나와현.md "wikilink") [나하시](../Page/나하시.md "wikilink")에서 미국인 아버지와 일본인 어머니 사이에서 태어났다.
 
 오키나와 현에서 태어난 후 1년동안 생활했다. 하지만 아버지가 군인이었던 탓에 이사를 빈번히 다녔다. 어렸을때 그녀는 부모님이 아침마다 틀어준 [클래식](https://ko.wikipedia.org/wiki/서양_고전_음악 "wikilink") [음악](../Page/음악.md "wikilink")을 들었고 그것만큼 [TV](https://ko.wikipedia.org/wiki/TV "wikilink")에서 [뮤지컬](../Page/뮤지컬.md "wikilink")도 많이 보았다.
 

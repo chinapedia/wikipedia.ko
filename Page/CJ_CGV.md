@@ -208,6 +208,7 @@
 | 한국   | 《[젝스키스 에이틴](https://ko.wikipedia.org/wiki/젝스키스_에이틴 "wikilink")》                                 | 2018.1.18  | 다큐멘터리 | 배급     |
 | 한국   | 《[트와이스랜드](https://ko.wikipedia.org/wiki/트와이스랜드 "wikilink")》                                     | 2018.12.7  | 공연실황  | 배급     |
 | 한국   | 《[BTS: 러브 유어 셀프 인 서울](https://ko.wikipedia.org/wiki/BTS:_러브_유어_셀프_인_서울 "wikilink")》             | 2019.1.26  | 공연실황  | 배급     |
+| 한국   | 《[아이즈 온 미: 더 무비](https://ko.wikipedia.org/wiki/아이즈_온_미:_더_무비 "wikilink")》                       | 2020.6.10  | 공연실황  | 배급     |
 |      |                                                                                                 |            |       |        |
 
 ### 산학협력

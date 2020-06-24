@@ -74,7 +74,7 @@
   - [UAV Sensor Applications](https://web.archive.org/web/20051224115649/http://www.defense-update.com/features/du-2-05/feature-sensor.htm)
   - [MQ-1C on vectorsite.net which is declared in public domain by its author](http://www.vectorsite.net/twuav_13.html#m4)
 
-[분류:미국의 무인 항공기](https://ko.wikipedia.org/wiki/분류:미국의_무인_항공기 "wikilink") [분류:2004년 첫 비행한 항공기](https://ko.wikipedia.org/wiki/분류:2004년_첫_비행한_항공기 "wikilink")
+[분류:미국의 무인 항공기](https://ko.wikipedia.org/wiki/분류:미국의_무인_항공기 "wikilink") [분류:2004년 첫 비행한 항공기](https://ko.wikipedia.org/wiki/분류:2004년_첫_비행한_항공기 "wikilink") [분류:저익기](https://ko.wikipedia.org/wiki/분류:저익기 "wikilink")
 
 [de:MQ-1C Warrior](https://ko.wikipedia.org/wiki/de:MQ-1C_Warrior "wikilink")
 

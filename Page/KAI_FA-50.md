@@ -9,7 +9,7 @@
 
 FA-50에서 F는 Fighter([전투기](https://ko.wikipedia.org/wiki/전투기 "wikilink"))의 약자이며, A는 Attacker([공격기](https://ko.wikipedia.org/wiki/공격기 "wikilink"))의 약자이다. 50은 [대한민국 공군](../Page/대한민국_공군.md "wikilink") 창설 50주년을 의미한다.
 
-[록히드 마틴과](../Page/록히드_마틴.md "wikilink") [KAI](https://ko.wikipedia.org/wiki/KAI "wikilink")는 레이다가 없고 정밀유도폭탄, [사이드와인더](https://ko.wikipedia.org/wiki/사이드와인더 "wikilink")를 장착한 공격기인 TA-50, 레이다가 없고 무장이 없는 훈련기인 T-50A, 레이다가 있는 다목적 전투기인 T-50C 순서로 개발했다. [대한민국 공군은](../Page/대한민국_공군.md "wikilink") 전투기 개발 승인을 하지 않다가, 장시간의 논란 끝에 전투기 개발승인, 즉 레이다 장착 승인을 하였다.
+[록히드 마틴과](../Page/록히드_마틴.md "wikilink") [KAI](https://ko.wikipedia.org/wiki/KAI "wikilink")는 레이더가 없고 정밀유도폭탄, [사이드와인더](https://ko.wikipedia.org/wiki/사이드와인더 "wikilink")를 장착한 공격기인 TA-50, 레이더가 없고 무장이 없는 훈련기인 T-50A, 레이다가 있는 다목적 전투기인 T-50C 순서로 개발했다. [대한민국 공군은](../Page/대한민국_공군.md "wikilink") 전투기 개발 승인을 하지 않다가, 장시간의 논란 끝에 전투기 개발승인, 즉 레이다 장착 승인을 하였다.
 
 ## 역사
 

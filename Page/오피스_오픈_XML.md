@@ -28,7 +28,7 @@
 
   - [ISO/IEC 29500 표준](http://standards.iso.org/ittf/PubliclyAvailableStandards/index.html)
 
-[분류:마이크로소프트 오피스](https://ko.wikipedia.org/wiki/분류:마이크로소프트_오피스 "wikilink") [분류:ISO 표준](https://ko.wikipedia.org/wiki/분류:ISO_표준 "wikilink") [분류:XML](https://ko.wikipedia.org/wiki/분류:XML "wikilink") [분류:마크업 언어](https://ko.wikipedia.org/wiki/분류:마크업_언어 "wikilink") [분류:오픈 포맷](https://ko.wikipedia.org/wiki/분류:오픈_포맷 "wikilink")
+[분류:마이크로소프트 오피스](https://ko.wikipedia.org/wiki/분류:마이크로소프트_오피스 "wikilink") [분류:ISO 표준](https://ko.wikipedia.org/wiki/분류:ISO_표준 "wikilink") [분류:XML](https://ko.wikipedia.org/wiki/분류:XML "wikilink") [분류:마크업 언어](https://ko.wikipedia.org/wiki/분류:마크업_언어 "wikilink") [분류:오픈 포맷](https://ko.wikipedia.org/wiki/분류:오픈_포맷 "wikilink") [분류:Ecma 표준](https://ko.wikipedia.org/wiki/분류:Ecma_표준 "wikilink")
 
 1.
 2.

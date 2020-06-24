@@ -6,7 +6,7 @@
 ## 채널 번호
 
   - 스카이라이프(올레TV 스카이라이프) 채널 - 203번
-  - SK BTV 채널 -129번
+  - SK BTV 채널 -121번
   - 올레TV 채널 - 59번
   - LG U+ TV 채널 - 105번
 
@@ -19,9 +19,10 @@
 
 ## 역사
 
-  - 1996년 (구) **SKY KBS 스포츠 개국**
-  - [2002년](../Page/2002년.md "wikilink") [2월 2일](../Page/2월_2일.md "wikilink") (구) **KBS SKY 스포츠** 개국
-  - [2006년](../Page/2006년.md "wikilink") [11월 1일](../Page/11월_1일.md "wikilink") **KBS N 스포츠**로 변경 개국
+  - [2002년](../Page/2002년.md "wikilink") [1월 1일](../Page/1월_1일.md "wikilink") (구) **KBS 스포츠** 개국
+  - [2003년](../Page/2003년.md "wikilink") [1월](../Page/1월.md "wikilink") **SKY KBS 스포츠**로 변경 개국
+  - [2003년](../Page/2003년.md "wikilink") [7월](../Page/7월.md "wikilink") **KBS SKY 스포츠**로 변경 개국
+  - [2007년](../Page/2007년.md "wikilink") [1월 1일](../Page/1월_1일.md "wikilink") **KBS N 스포츠**로 변경 개국
 
 ## 현재 소속 아나운서/해설위원/캐스터
 
@@ -44,7 +45,7 @@
   - \~[2015년](../Page/2015년.md "wikilink") : [신유정](https://ko.wikipedia.org/wiki/신유정 "wikilink"), [정인영](../Page/정인영_\(방송인\).md "wikilink"), [윤태진](../Page/윤태진_\(방송인\).md "wikilink")
   - \~[2016년](../Page/2016년.md "wikilink") : [윤재인](../Page/윤재인.md "wikilink")
   - \~[2017년](../Page/2017년.md "wikilink") : [이지수](https://ko.wikipedia.org/wiki/이지수 "wikilink"), 김보경
-  - \~[2018년](../Page/2018년.md "wikilink") : 조진혁, 염상엽
+  - \~[2018년](../Page/2018년.md "wikilink") : 조진혁, 염상엽, [최희](../Page/최희.md "wikilink")
 
 ## 해설 위원
 

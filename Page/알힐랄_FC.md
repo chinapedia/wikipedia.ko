@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [알힐랄 FC](https://ko.wikipedia.org/wiki/알힐랄_FC).
 
 
-**알힐랄 SFC**(, )는 [1957년](../Page/1957년.md "wikilink")에 창단된 [사우디아라비아](../Page/사우디아라비아.md "wikilink")의 축구 클럽이다. 수도인 [리야드](../Page/리야드.md "wikilink")를 연고로 하며, 홈구장은 [킹 파드 국제경기장이다](https://ko.wikipedia.org/wiki/킹_파드_국제경기장 "wikilink"). 사우디아라비아에서 축구 팬이 많은 구단으로 유명하다. 구단명 알힐랄은 "[초승달](https://ko.wikipedia.org/wiki/초승달 "wikilink")"이라는 뜻이다.
+**알힐랄 SFC**(, )는 [1957년](../Page/1957년.md "wikilink")에 창단된 [사우디아라비아](../Page/사우디아라비아.md "wikilink")의 축구 클럽이다. 수도인 [리야드](../Page/리야드.md "wikilink")를 연고로 하며, 홈구장은 [킹 파흐드 국제경기장이다](../Page/킹_파흐드_국제경기장.md "wikilink"). 사우디아라비아에서 축구 팬이 많은 구단으로 유명하다. 구단명 알힐랄은 "[초승달](https://ko.wikipedia.org/wiki/초승달 "wikilink")"이라는 뜻이다.
 
 알힐랄은 1957년 10월 16일에 창단하여, [1976년](../Page/1976년.md "wikilink")부터 개시된 [사우디 프로리그의](../Page/사우디_프로리그.md "wikilink") 모든 시즌에 참가한 네 개 팀 중 하나이다. [2018년](../Page/2018년.md "wikilink") 현재까지 알힐랄은 56개의 트로피를 들어올렸으며, 그 중 국내에서 44개의 트로피를 들어올렸다. 상세하게는 사우디 프로리그 14회 우승, [사우디아라비아 크라운 프린스 컵](https://ko.wikipedia.org/wiki/사우디아라비아_크라운_프린스_컵 "wikilink") 13회 우승, [사우디 연방컵](https://ko.wikipedia.org/wiki/프린스_파이살_빈_파드_리그_U-21 "wikilink") 7회 우승, [사우디 킹스컵](https://ko.wikipedia.org/wiki/사우디_챔피언스컵 "wikilink") 8회 우승, [사우디 슈퍼컵](https://ko.wikipedia.org/wiki/사우디_슈퍼컵 "wikilink") 1회 우승 그리고 사우디 프로리그 100주년 기념컵 1회 우승이다.
 
@@ -69,8 +69,11 @@
   - **[FIFA 클럽 월드컵](../Page/FIFA_클럽_월드컵.md "wikilink")**
       - 4위 (1) : [2005](https://ko.wikipedia.org/wiki/2005년_FIFA_클럽_월드컵 "wikilink")
   - **[AFC 챔피언스리그](../Page/AFC_챔피언스리그.md "wikilink")**
-      - **우승 (3)** : [1991](https://ko.wikipedia.org/wiki/아시안_클럽_챔피언십_1991 "wikilink"), [1999-2000](https://ko.wikipedia.org/wiki/아시안_클럽_챔피언십_1999-2000 "wikilink"), [2019](https://ko.wikipedia.org/wiki/AFC_챔피언스리그_2019 "wikilink")
-      - 준우승 (4) : [1986](https://ko.wikipedia.org/wiki/아시안_클럽_챔피언십_1986 "wikilink"), [1987](https://ko.wikipedia.org/wiki/아시안_클럽_챔피언십_1987 "wikilink"), [2014](https://ko.wikipedia.org/wiki/AFC_챔피언스리그_2014 "wikilink"), [2017](https://ko.wikipedia.org/wiki/AFC_챔피언스리그_2017 "wikilink")
+      - **우승 (1)** : [2019](https://ko.wikipedia.org/wiki/AFC_챔피언스리그_2019 "wikilink")
+      - 준우승 (2) : [2014](https://ko.wikipedia.org/wiki/AFC_챔피언스리그_2014 "wikilink"), [2017](https://ko.wikipedia.org/wiki/AFC_챔피언스리그_2017 "wikilink")
+  - **[아시안 클럽 챔피언십](https://ko.wikipedia.org/wiki/아시안_클럽_챔피언십 "wikilink")**
+      - **우승 (2)** : [1991](https://ko.wikipedia.org/wiki/아시안_클럽_챔피언십_1991 "wikilink"), [1999-2000](https://ko.wikipedia.org/wiki/아시안_클럽_챔피언십_1999-2000 "wikilink")
+      - 준우승 (2) : [1986](https://ko.wikipedia.org/wiki/아시안_클럽_챔피언십_1986 "wikilink"), [1987](https://ko.wikipedia.org/wiki/아시안_클럽_챔피언십_1987 "wikilink")
   - **[아시안 컵위너스컵](../Page/아시안_컵위너스컵.md "wikilink")**
       - **우승 (2)** : [1996-97](https://ko.wikipedia.org/wiki/아시안_컵위너스컵_1996-97 "wikilink"), [2001-02](https://ko.wikipedia.org/wiki/아시안_컵위너스컵_2001-02 "wikilink")
   - **[아시안 슈퍼컵](../Page/아시안_슈퍼컵.md "wikilink")**

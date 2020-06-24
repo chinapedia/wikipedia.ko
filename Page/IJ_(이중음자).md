@@ -7,7 +7,7 @@
 
 [네덜란드어](../Page/네덜란드어.md "wikilink")에서 IJ의 발음은 보통 이며, 표준 네덜란드어를 포함한 대부분의 방언들에서는 ei와 같은 발음이다. (일부 방언에서는 두 발음이 구분되는 경우도 있다.) [네덜란드어](../Page/네덜란드어.md "wikilink") 철자법은 두 표기가 언제 쓰여야 할지 구분하고 있다.
 
-IJ나 ij를 종종 한 글자로 보는 경우가 있다. 대부분의 네덜란드인들은 필기체에서 ij를 ij와 같은 모양으로 쓰며, IJ를 Y와 같은 모양으로 쓰는 경우도 있다. 네덜란드어에서 [Y](https://ko.wikipedia.org/wiki/Y "wikilink")는 오로지 [외래어](../Page/외래어.md "wikilink")에만 쓰이지만, [아프리칸스어](../Page/아프리칸스어.md "wikilink")에서는 IJ 대신 Y를 쓰며, [미국](../Page/미국.md "wikilink")이나 [캐나다](../Page/캐나다.md "wikilink")로 이민한 많은 네덜란드인들은 이름의 ij를 y로 바꿔서 사용하기도 한다.
+IJ나 ij를 종종 한 글자로 보는 경우가 있다. 대부분의 네덜란드인들은 필기체에서 ij를 ÿ와 같은 모양으로 쓰며, IJ를 Y와 같은 모양으로 쓰는 경우도 있다. 네덜란드어에서 [Y](https://ko.wikipedia.org/wiki/Y "wikilink")는 오로지 [외래어](../Page/외래어.md "wikilink")에만 쓰이지만, [아프리칸스어](../Page/아프리칸스어.md "wikilink")에서는 IJ 대신 Y를 쓰며, [미국](../Page/미국.md "wikilink")이나 [캐나다](../Page/캐나다.md "wikilink")로 이민한 많은 네덜란드인들은 이름의 ij를 y로 바꿔서 사용하기도 한다.
 
 ### 대문자
 

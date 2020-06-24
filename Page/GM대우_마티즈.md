@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [GM대우 마티즈](https://ko.wikipedia.org/wiki/GM대우_마티즈).
 
 
-**GM대우 마티즈**(GM Daewoo Matiz)는 [대우자동차가](https://ko.wikipedia.org/wiki/한국GM "wikilink") 출시하였던 경차이다. [2000년 9월에](../Page/2000년_9월.md "wikilink") [티코가](../Page/대우_티코.md "wikilink") 단종된 것을 시작으로 [2002년 12월에](https://ko.wikipedia.org/wiki/2002년_12월 "wikilink") [현대 아토스](../Page/현대_아토스.md "wikilink"), [2003년 12월에](../Page/2003년_12월.md "wikilink") [기아 비스토까지](../Page/기아_비스토.md "wikilink") 단종되어 [기아 모닝이](../Page/기아_모닝.md "wikilink") [2008년 1월에](../Page/2008년_1월.md "wikilink") 경차로 편입되기 전까지 한동안 [대한민국](../Page/대한민국.md "wikilink") 유일의 경차였다.
+**GM대우 마티즈**(GM Daewoo Matiz)는 [대우자동차가](https://ko.wikipedia.org/wiki/한국GM "wikilink") 출시하였던 경차이다. 2000년 9월에 [티코가](../Page/대우_티코.md "wikilink") 단종된 것을 시작으로 2002년 12월에 [현대 아토스](../Page/현대_아토스.md "wikilink"), 2003년 12월에 [기아 비스토까지](../Page/기아_비스토.md "wikilink") 단종되어 [기아 모닝이](../Page/기아_모닝.md "wikilink") 2008년 1월에 경차로 편입되기 전까지 한동안 [대한민국](../Page/대한민국.md "wikilink") 유일의 경차였다.
 
 ## 1세대
 

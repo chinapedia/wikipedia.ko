@@ -29,4 +29,4 @@ X.500이 정의한 프로토콜은 다음과 같다:
 | [X.525](https://ko.wikipedia.org/wiki/X.525 "wikilink") | [ISO/IEC 9594-9](https://ko.wikipedia.org/wiki/ISO/IEC_9594-9 "wikilink")   | 디렉터리: 되풀이                    |
 | [X.530](https://ko.wikipedia.org/wiki/X.530 "wikilink") | [ISO/IEC 9594-10](https://ko.wikipedia.org/wiki/ISO/IEC_9594-10 "wikilink") | 디렉터리: 디렉터리의 관리를 위한 시스템 관리 사용 |
 
-[분류:OSI 프로토콜](https://ko.wikipedia.org/wiki/분류:OSI_프로토콜 "wikilink") [분류:ISO 표준](https://ko.wikipedia.org/wiki/분류:ISO_표준 "wikilink")
+[분류:OSI 프로토콜](https://ko.wikipedia.org/wiki/분류:OSI_프로토콜 "wikilink") [분류:ISO 표준](https://ko.wikipedia.org/wiki/분류:ISO_표준 "wikilink") [분류:ITU-T 권고](https://ko.wikipedia.org/wiki/분류:ITU-T_권고 "wikilink")

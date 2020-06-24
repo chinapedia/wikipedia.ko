@@ -30,7 +30,7 @@ EHR component의 몇몇 핵심 클래스들는 OBSERVATION와 EVALUATION, INSTRU
 
 openEHR 프레임워크 내의 핵심적인 혁신은 ("참조모델"로 알려진) [information model에서](https://ko.wikipedia.org/wiki/information_model "wikilink") 모든 임상 정보의 명세를 배제하고, 대신에 참조모델을 따라 개발된 시스템에서 실행시 바로 소비될 수 있고 임상의와 환자가 기록할 필요가 있는 컨텐츠의 정의를 표현하는 강력한 수단을 제공하는 것이다. 이는 대규모로 성장하면서 지속적으로 변하는 건강 정보 타입들의 일반적인 문제를 규모있게 처리할 필요성이 있다는 것에 따라 정당화된다.\[7\]
 
-임상 컨텐츠는 정보모델 밖에 존재하는 두 가지 타입의 산출물로 구체화된다. 첫번째는 "[archetypes](https://ko.wikipedia.org/wiki/Archetype_\(information_science\) "wikilink")(아키타입)이라는 것으로, 재사용가능한 데이터 포인트와 데이터 그룹 정의, 즉, 다양한 문맥에서 재사용될 수 있는 컨텐츠 아이템을 정규적으로 정의하는 공간을 제공하며, 전형적인 예는 "전신동맥혈압 측정(systemic arterial blood pressure measurement)"과 "혈청 나트륨(serum sodium)"이다. 이러한 많은 데이터 포인트는, 알레르기 반응을 기록하는 데이터 아이템 그룹 또는 간기능검사결과에서의 분석물(analyte)같은 논리적 그룹에서 발생한다. 몇몇 아키타입은 비록 일반적으로는 10-20개 이지만 50개 정도와 같은 다양한 데이터 포인트를 갖는다. 아키타입의 집합은, 컨텐츠가 공동으로 설계되고 검토되고 발표되는 "거버넌스 단위"로 기능하는 각각의 아키타입을 가지는 재사용가능한 도메인 컨텐츠 정의의 "라이브러리"로 이해될 수 있다.
+임상 컨텐츠는 정보모델 밖에 존재하는 두 가지 타입의 산출물로 구체화된다. 첫번째는 "[archetypes](https://ko.wikipedia.org/wiki/Archetype_\(information_science\) "wikilink")(아키타입)이라는 것으로, 재사용가능한 데이터 포인트와 데이터 그룹 정의, 즉, 다양한 문맥에서 재사용될 수 있는 컨텐츠 아이템을 정규적으로 정의하는 공간을 제공하며, 전형적인 예는 "전신동맥혈압 측정(systemic arterial blood pressure measurement)"과 "혈청 나트륨(serum sodium)"이다. 이러한 많은 데이터 포인트는, 알레르기 반응을 기록하는 데이터 아이템 그룹 또는 간기능검사결과에서의 분석물(analyte)같은 논리적 그룹에서 발생한다. 몇몇 아키타입은 비록 일반적으로는 10-20개이지만 50개 정도와 같은 다양한 데이터 포인트를 갖는다. 아키타입의 집합은, 컨텐츠가 공동으로 설계되고 검토되고 발표되는 "거버넌스 단위"로 기능하는 각각의 아키타입을 가지는 재사용가능한 도메인 컨텐츠 정의의 "라이브러리"로 이해될 수 있다.
 
 두번째 종류의 산출물은 openEHR에서 "template(템플릿)"로 알려져있으며, 환자퇴원요약 또는 영상의학보고서를 구성하는 데이터 아이템같은 유즈 케이스에 특징적인 데이터 세트를 논리적으로 표현하는데 사용된다.\[8\] 템플릿은 수많은 아키타입들로부터 관련된 아이템을 참조하여 구성된다. 템플릿은 각 아키타입에서 단지 1-2개의 데이터 포인트 또는 그룹만을 필요로할 수 있다. 기술적인 표현 면에서 openEHR 템플릿은 아카티입으로부터 구성되기 때문에 아키타입의 의미론을 위반할 수 없다. 템플릿은 거의 항상 로컬에서 사용하기위해 소프트웨어 개발자와 임상 분석가에 의해 개발된다. 템플릿은 전형적으로 [GUI](https://ko.wikipedia.org/wiki/GUI "wikilink") 화면형식, 메시지 정의, 문서정의 용도로 정의되는데, 그자체로 "운영(operational)" 컨텐츠 정의와 일치한다.
 
@@ -52,7 +52,7 @@ openEHR 아키타입은 openEHR 공개 명세인 "Archetype Definition Language(
 
 아키타입을 개발하기위한 다양한 원칙들을 찾아내왔다.\[17\] 예를 들어, openEHR 아키타입의 어떤 세트들은 상호배타적과 같은 수많은 공리를 따르도록 품질관리될 필요가 있다. 아키타입은 소프트웨어 구현과 기반구조에 독립적으로, 임상의들이 해당 분야의 실제 요구사항을 만족시킨다는 것을 보장하기위해, 임상의 그룹 하에서 관리될 수 있다. 아키타입은 임상지식의 명세가 지속적으로 발전라고 개발될 수 있도록 설게된다. openEHR 내에서 표현되는 정보 디자인을 구현하는데 발생하는 문제는 실제 시스템 제한사항과 정보 디자인 간의 조율을 어느 정도로 하는가에 집중된다.
 
-[Electronic health record](https://ko.wikipedia.org/wiki/Electronic_health_record "wikilink") 분야에는 [HL7](https://ko.wikipedia.org/wiki/HL7 "wikilink") \[\[HL7_V3\]와_\[\[SNMED_CT|HL7 V3\]와 [SNMED CT와](https://ko.wikipedia.org/wiki/SNMED_CT "wikilink") 같이 그들의 범위가 겹치서 관리가 어려운 많은 기존의 수많은 정보모델이 있다. openEHR 접근방식은 단독으로 사용되지 않는 한, 조율을 해야하는 문제에 직면하게된다.
+[Electronic health record](https://ko.wikipedia.org/wiki/Electronic_health_record "wikilink") 분야에는 [HL7](https://ko.wikipedia.org/wiki/HL7 "wikilink") [HL7 V3와](https://ko.wikipedia.org/wiki/HL7_V3 "wikilink") [SNMED CT와](https://ko.wikipedia.org/wiki/SNMED_CT "wikilink") 같이 그들의 범위가 겹치서 관리가 어려운 많은 기존의 수많은 정보모델이 있다. openEHR 접근방식은 단독으로 사용되지 않는 한, 조율을 해야하는 문제에 직면하게된다.
 
 ## 국제 협력
 
@@ -66,9 +66,9 @@ openEHR 프레임워크는 Electronic Health Record Communication Standard ([ISO
 
 openEHR 아키타입은 [National e-Health Transition Authority of Australia](http://www.nehta.gov.au/) 그리고 the UK NHS [Health and Social Care Information Centre (HSCIC)](http://www.hscic.gov.uk/home), the Norwegian [Nasjonal IKT organisation](https://web.archive.org/web/20160629135353/http://www.nasjonalikt.no/no/), Slovenian Ministry of Health에서 사용되고 있다.
 
-openEHR은 브라질에서 표준화된 EHR를 기반으로 선택되었다[1](http://bvsms.saude.gov.br/bvs/saudelegis/gm/2011/prt2073_31_08_2011.html).
+openEHR은 브라질에서 표준화된 EHR를 기반으로 선택되었다 [1](http://bvsms.saude.gov.br/bvs/saudelegis/gm/2011/prt2073_31_08_2011.html).
 
-[openEHR Industry Partners](https://web.archive.org/web/20171203021532/http://www2.openehr.org/industry_partners/index)이 개발한 제품을 포함하여 전세계적으로 상업적인 솔루션으로 사용되기 시작되었다.
+[openEHR Industry Partners](https://web.archive.org/web/20171203021532/http://www2.openehr.org/industry_partners/index) 이 개발한 제품을 포함하여 전세계적으로 상업적인 솔루션으로 사용되기 시작되었다.
 
 ## Clinical Knowledge Manager (CKM)
 

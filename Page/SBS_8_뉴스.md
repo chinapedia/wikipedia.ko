@@ -493,7 +493,7 @@
 <tr class="even">
 <td><p>9기</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/곽상은" title="wikilink">곽상은</a></p></td>
-<td><p><a href="../Page/2002년.md" title="wikilink">2002년</a> <a href="../Page/4월_1일.md" title="wikilink">4월 1일</a> ~ 2004년 <a href="../Page/2월_29일.md" title="wikilink">2월 29일</a></p></td>
+<td><p><a href="../Page/2002년.md" title="wikilink">2002년</a> <a href="../Page/4월_1일.md" title="wikilink">4월 1일</a> ~ 2004년 <a href="../Page/2월_27일.md" title="wikilink">2월 27일</a></p></td>
 <td><p>[12]</p></td>
 </tr>
 <tr class="odd">
@@ -541,7 +541,7 @@
 </tbody>
 </table>
 
-### 주말 (토요일 진행 포함.)
+### 주말 (토요일 진행 포함)
 
 <table>
 <thead>
@@ -1037,8 +1037,8 @@ SBS 뉴스 2000 (주말)</p></td>
 <td><p><a href="../Page/제주국제자유도시방송.md" title="wikilink">JIBS</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/제주특별자치도" title="wikilink">제주</a></p></td>
 <td><p><a href="../Page/JIBS_8_뉴스.md" title="wikilink">JIBS 8 뉴스</a></p></td>
-<td><p>이용탁</p></td>
-<td><p>김민경 (토요일)<br />
+<td><p>이용탁, 김지현</p></td>
+<td><p>이정민 (토요일)<br />
 김지현 (일요일)</p></td>
 </tr>
 <tr class="even">
@@ -1079,7 +1079,7 @@ SBS 뉴스 2000 (주말)</p></td>
 
 ## 로고
 
-파일:SBS 8 News logo old 1991.png|구형 사용 (1991년 12월 9일 \~ 1994년 10월 23일) 파일:SBS News show old 1991.png|구형 사용 (1992년 3월 28일 \~ 1992년 6월 28일, 주말) 파일:SBS 8 News logo old 1994.png|구형 사용 (1994년 10월 24일 \~ 1997년 2월 28일, 평일) 파일:SBS News 2000 logo old 1994.png|구형 사용 (1994년 10월 29일 \~ 1996년 10월 13일, 주말) 파일:SBS News Q logo old 1996.png|구형 사용 (1996년 10월 19일 \~ 1997년 6월 29일, 주말) 파일:SBS 9 News logo old 1997.png|구형 사용 (1997년 3월 3일 \~ 1997년 6월 27일, 평일) 파일:SBS 8 News logo old 1997.png|구형 사용 (1997년 6월 30일 \~ 2000년 11월 13일) 파일:SBS 8 News logo old 2000.png|구형 사용 (2000년 11월 14일 \~ 2004년 2월 29일) 파일:SBS 8 News logo old 2004.png|구형 사용 (2004년 3월 1일 \~ 2008년 7월 27일) 파일:SBS 8 News logo old 2008.png|구형 사용 (2008년 7월 28일 \~ 2011년 12월 31일) 파일:SBS 8 News logo old 2012.png|구형 사용 (2012년 1월 1일 \~ 2014년 5월 18일) 파일:SBS 8 News logo old 2014.png|현형 사용 (2014년 5월 19일 \~ **현재**)
+파일:SBS 8 News logo old 1991.png|구형 사용 (1991년 12월 9일 \~ 1994년 10월 23일) 파일:SBS News show old 1991.png|구형 사용 (1992년 3월 28일 \~ 1992년 6월 28일, 주말) 파일:SBS 8 News logo old 1994.png|구형 사용 (1994년 10월 24일 \~ 1997년 2월 28일, 평일) 파일:SBS News 2000 logo old 1994.png|구형 사용 (1994년 10월 29일 \~ 1996년 10월 13일, 주말) 파일:SBS News Q logo old 1996.png|구형 사용 (1996년 10월 19일 \~ 1997년 6월 29일, 주말) 파일:SBS 9 News logo old 1997.png|구형 사용 (1997년 3월 3일 \~ 1997년 6월 27일, 평일) 파일:SBS 8 News logo old 1997.png|구형 사용 (1997년 6월 30일 \~ 2000년 11월 13일) 파일:SBS 8 News logo old 2000.png|구형 사용 (2000년 11월 14일 \~ 2003년 9월 18일) 파일:SBS 8 News logo old 2004.png|구형 사용 (2003년 9월 19일 \~ 2008년 7월 27일) 파일:SBS 8 News logo old 2008.png|구형 사용 (2010년 9월 21일 \~ 2012년 4월 1일) 파일:SBS 8 News logo old 2012.png|구형 사용 (2012년 4월 2일 \~ 2014년 5월 18일) 파일:SBS 8 News logo old 2014.png|현형 사용 (2014년 5월 19일 \~ **현재**)
 
 ## 경쟁 뉴스 프로그램
 
@@ -1140,8 +1140,8 @@ SBS 뉴스 2000 (주말)</p></td>
 16. [신동욱](../Page/신동욱_\(방송인\).md "wikilink") 前 국제부장의 휴가 또는 출장으로 인하여, [2015년](../Page/2015년.md "wikilink") [7월 27일](../Page/7월_27일.md "wikilink") \~ 2015년 [7월 31일](../Page/7월_31일.md "wikilink") 방송분은 [편상욱](../Page/편상욱.md "wikilink") 국제부장(現. [SBS 나이트라인](../Page/SBS_나이트라인.md "wikilink") 앵커)이 대신 진행했으며, [2016년](../Page/2016년.md "wikilink") [7월 25일](../Page/7월_25일.md "wikilink") \~ 2016년 [7월 29일](../Page/7월_29일.md "wikilink") 방송분은 [박현석](../Page/박현석_\(기자\).md "wikilink") 기자(現. 평일 [모닝와이드 1, 2부](../Page/모닝와이드.md "wikilink") 앵커)가 대신 진행했다.
 17. [정미선](../Page/정미선.md "wikilink") 아나운서의 휴가 또는 출장으로 인하여, [2015년](../Page/2015년.md "wikilink") [8월 17일](../Page/8월_17일.md "wikilink") \~ 2015년 [8월 21일](../Page/8월_21일.md "wikilink"), [2016년](../Page/2016년.md "wikilink") [8월 1일](../Page/8월_1일.md "wikilink") \~ 2016년 [8월 5일](../Page/8월_5일.md "wikilink") 방송분은 [이혜승](../Page/이혜승.md "wikilink") 아나운서가 대신 진행했다.
 18. [2017년](../Page/2017년.md "wikilink") 5월 4주부터 12월 5주까지 평일, 주말 모두 진행.
-19. [김현우](../Page/김현우_\(기자\).md "wikilink") 기자의 휴가 또는 출장으로 인하여, [2017년](../Page/2017년.md "wikilink") [12월 4일](../Page/12월_4일.md "wikilink") \~ 2017년 [12월 8일](../Page/12월_8일.md "wikilink"), [2017년](../Page/2017년.md "wikilink") [12월 14일](../Page/12월_14일.md "wikilink") \~ 2017년 [12월 15일](../Page/12월_15일.md "wikilink") 방송분은 주영진 선임기자가 대신 진행했고 [2018년](../Page/2018년.md "wikilink") [11월 12일](../Page/11월_12일.md "wikilink") \~ [2018년](../Page/2018년.md "wikilink") [11월 16일](../Page/11월_16일.md "wikilink"), [2019년](../Page/2019년.md "wikilink") [9월 2일](../Page/9월_2일.md "wikilink") \~ 2019년 [9월 6일](../Page/9월_6일.md "wikilink"), [2019년](../Page/2019년.md "wikilink") [12월 16일](../Page/12월_16일.md "wikilink") \~ [2019년](../Page/2019년.md "wikilink") [12월 20일](../Page/12월_20일.md "wikilink") 방송분은 [김범주](https://ko.wikipedia.org/wiki/김범주_\(기자\) "wikilink") 기자가 대신 진행했다.
-20. [최혜림](../Page/최혜림.md "wikilink") 아나운서의 휴가 또는 출장으로 인하여, [2017년](../Page/2017년.md "wikilink") [8월 21일](../Page/8월_21일.md "wikilink") \~ 2017년 [8월 25일](../Page/8월_25일.md "wikilink") 방송분은 [장예원](../Page/장예원_\(아나운서\).md "wikilink") 아나운서가 대신 진행했고 [2018년](../Page/2018년.md "wikilink") [7월 16일](../Page/7월_16일.md "wikilink") \~ 2018년 [7월 20일](../Page/7월_20일.md "wikilink") 방송분은 [정미선](../Page/정미선.md "wikilink") 아나운서가 대신 진행했으며 [2019년](../Page/2019년.md "wikilink") [7월 29일](../Page/7월_29일.md "wikilink") \~ [2019년](../Page/2019년.md "wikilink") [8월 2일](../Page/8월_2일.md "wikilink"), [2019년](../Page/2019년.md "wikilink") [12월 30일](../Page/12월_30일.md "wikilink") \~ [2019년](../Page/2019년.md "wikilink") [12월 31일](../Page/12월_31일.md "wikilink") 방송분은 [김민형](../Page/김민형_\(아나운서\).md "wikilink") 아나운서가 대신 진행했다.
+19. [김현우](../Page/김현우_\(기자\).md "wikilink") 기자의 휴가 또는 출장으로 인하여, [2017년](../Page/2017년.md "wikilink") [12월 4일](../Page/12월_4일.md "wikilink") \~ 2017년 [12월 8일](../Page/12월_8일.md "wikilink"), [2017년](../Page/2017년.md "wikilink") [12월 14일](../Page/12월_14일.md "wikilink") \~ 2017년 [12월 15일](../Page/12월_15일.md "wikilink") 방송분은 김용태 기자가 대신 진행했고 [2018년](../Page/2018년.md "wikilink") [11월 12일](../Page/11월_12일.md "wikilink") \~ 2018년 [11월 16일](../Page/11월_16일.md "wikilink"), [2019년](../Page/2019년.md "wikilink") [9월 2일](../Page/9월_2일.md "wikilink") \~ 2019년 [9월 6일](../Page/9월_6일.md "wikilink"), [2019년](../Page/2019년.md "wikilink") [12월 16일](../Page/12월_16일.md "wikilink") \~ 2019년 [12월 20일](../Page/12월_20일.md "wikilink") 방송분은 [김범주](https://ko.wikipedia.org/wiki/김범주 "wikilink") 기자가 대신 진행했다.
+20. [최혜림](../Page/최혜림.md "wikilink") 아나운서의 휴가 또는 출장으로 인하여, [2017년](../Page/2017년.md "wikilink") [8월 21일](../Page/8월_21일.md "wikilink") \~ 2017년 [8월 25일](../Page/8월_25일.md "wikilink") 방송분은 [정미선](../Page/정미선.md "wikilink") 아나운서(現. [본격연예 한밤](../Page/본격연예_한밤.md "wikilink") MC)가 대신 진행했고 [2018년](../Page/2018년.md "wikilink") [7월 16일](../Page/7월_16일.md "wikilink") \~ 2018년 [7월 20일은](../Page/7월_20일.md "wikilink") [정미선](../Page/정미선.md "wikilink") 아나운서가 대신 진행했고[2019년](../Page/2019년.md "wikilink") [7월 29일](../Page/7월_29일.md "wikilink") \~ 2019년 [8월 2일](../Page/8월_2일.md "wikilink"), [2019년](../Page/2019년.md "wikilink") [12월 30일](../Page/12월_30일.md "wikilink") \~ 2019년 [12월 31일](../Page/12월_31일.md "wikilink") 방송분은 [김민형](https://ko.wikipedia.org/wiki/김민형 "wikilink") 아나운서가 대신 진행했다.
 21. 방송 시간이 30분으로 확대됨에 따라서 남녀 앵커 체제로 전환.
 22. 여성 앵커 단독 진행.
 23. 뉴스 Q 시절.

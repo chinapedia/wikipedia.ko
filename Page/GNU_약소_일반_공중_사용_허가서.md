@@ -34,6 +34,6 @@ LGPL의 한가지 특징은, LGPL로 사용된 소프트웨어를 GPL로 바꿀 
 
   - [LGPL 공식 홈페이지](http://www.gnu.org/copyleft/lesser.html)
 
-[분류:GNU 프로젝트](https://ko.wikipedia.org/wiki/분류:GNU_프로젝트 "wikilink") [분류:카피레프트](https://ko.wikipedia.org/wiki/분류:카피레프트 "wikilink") [분류:자유 및 오픈 소스 소프트웨어 사용권](https://ko.wikipedia.org/wiki/분류:자유_및_오픈_소스_소프트웨어_사용권 "wikilink")
+[분류:GNU 프로젝트](https://ko.wikipedia.org/wiki/분류:GNU_프로젝트 "wikilink") [분류:카피레프트](https://ko.wikipedia.org/wiki/분류:카피레프트 "wikilink") [분류:자유 및 오픈 소스 소프트웨어 사용권](https://ko.wikipedia.org/wiki/분류:자유_및_오픈_소스_소프트웨어_사용권 "wikilink") [분류:카피레프트 소프트웨어 사용권](https://ko.wikipedia.org/wiki/분류:카피레프트_소프트웨어_사용권 "wikilink")
 
 1.  [1](http://www.fsf.org/licensing/licenses/why-not-lgpl.html).

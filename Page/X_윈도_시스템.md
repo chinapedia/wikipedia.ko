@@ -76,7 +76,7 @@ X.Org 재단이 개발한 X.Org 서버가 X 윈도 시스템의 대표적인 구
 
   - [X.Org 재단](http://www.x.org/) 공식 웹사이트
 
-[X_윈도_시스템](https://ko.wikipedia.org/wiki/분류:X_윈도_시스템 "wikilink") [분류:자유 소프트웨어](https://ko.wikipedia.org/wiki/분류:자유_소프트웨어 "wikilink") [분류:MIT 라이선스 소프트웨어](https://ko.wikipedia.org/wiki/분류:MIT_라이선스_소프트웨어 "wikilink")
+[X_윈도_시스템](https://ko.wikipedia.org/wiki/분류:X_윈도_시스템 "wikilink") [분류:자유 소프트웨어](https://ko.wikipedia.org/wiki/분류:자유_소프트웨어 "wikilink") [분류:MIT 라이선스 소프트웨어](https://ko.wikipedia.org/wiki/분류:MIT_라이선스_소프트웨어 "wikilink") [분류:오픈 그룹 표준](https://ko.wikipedia.org/wiki/분류:오픈_그룹_표준 "wikilink")
 
 1.
 2.  [Why Apple didn't use X for the window system](http://developers.slashdot.org/comments.pl?sid=75257&cid=6734612) 19 August 2007

@@ -68,6 +68,8 @@ BV113 시리즈의 대체 모델\[1\]로 [1987년](../Page/1987년.md "wikilink"
 ###### 보유했던 업체
 
   - [경기고속](../Page/경기고속.md "wikilink")
+  - [경산버스](../Page/경산버스.md "wikilink") (시외부 한정)
+  - [경안여객](https://ko.wikipedia.org/wiki/경안여객 "wikilink")
   - [대원고속](../Page/대원고속.md "wikilink")
   - [대원교통](../Page/대원교통.md "wikilink")
   - [대원여객](../Page/대원여객.md "wikilink")
@@ -113,13 +115,14 @@ BV113 시리즈의 대체 모델\[1\]로 [1987년](../Page/1987년.md "wikilink"
   - [광우고속](../Page/광우고속.md "wikilink") - 현재 대폐차
   - [대한교통](https://ko.wikipedia.org/wiki/대한교통 "wikilink")(시외부 존속 시절 운용)
   - [서울버스공사](../Page/서울고속_\(충북\).md "wikilink")
+  - [예천여객](../Page/예천여객.md "wikilink")
   - [아성교통관광](../Page/아성교통관광.md "wikilink")(관광부 존속 시절 운용)
 
 ##### BH115E 로얄이코노미
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Daewoo_BH115E_53N-4135.JPG "wikilink") BH113 로얄 에이스의 대체모델로, [1998년](../Page/1998년.md "wikilink")부터 [2007년](../Page/2007년.md "wikilink")까지 생산된 11.5미터급 스탠더드 데크 최하급 모델이다. 판 스프링 서스펜션을 사용하였으며, [2004년](../Page/2004년.md "wikilink") 후반부터는 DL08 커먼레일 엔진으로, [2006년](../Page/2006년.md "wikilink")부터 후면 디자인을 변경한 **BH115E 로얄이코노미Ⅱ** 모델로 단종될 때까지 출고되었다. [BS106 로얄 시티와](../Page/자일대우_BS.md "wikilink") 함께 장의차 업계에서 많이 찾던 차종이다.
 
-###### 천연가스 모델을 운영중이거나 과거에 보유했던 업체
+###### 천연가스 모델을 보유했던 업체
 
   - [경일여객](https://ko.wikipedia.org/wiki/경일여행 "wikilink") ([경상북도](https://ko.wikipedia.org/wiki/경상북도 "wikilink") 고령군)
   - [경일여행](https://ko.wikipedia.org/wiki/경일여행 "wikilink") ([경상북도](https://ko.wikipedia.org/wiki/경상북도 "wikilink") 고령군)
@@ -131,7 +134,7 @@ BV113 시리즈의 대체 모델\[1\]로 [1987년](../Page/1987년.md "wikilink"
   - [경기고속](../Page/경기고속.md "wikilink")
   - [대원고속](../Page/대원고속.md "wikilink")
 
-###### 디젤 모델을 운영중이거나 과거에 보유했던 업체
+###### 디젤 모델을 보유했던 업체
 
   - [경남여객](../Page/경남여객.md "wikilink") ([경기도](https://ko.wikipedia.org/wiki/경기도 "wikilink") [용인시](../Page/용인시.md "wikilink"))
   - [경원여객](../Page/경원여객_\(경기\).md "wikilink") ([경기도](https://ko.wikipedia.org/wiki/경기도 "wikilink") [안산시](https://ko.wikipedia.org/wiki/안산시 "wikilink"))
@@ -151,23 +154,26 @@ BV113 시리즈의 대체 모델\[1\]로 [1987년](../Page/1987년.md "wikilink"
   - [밀성여객](../Page/밀성여객.md "wikilink")
   - [광진고속](../Page/금호고속.md "wikilink") ([2006년](../Page/2006년.md "wikilink") [7월](../Page/7월.md "wikilink") 말 폐업, 노선은 [금호고속](../Page/금호고속.md "wikilink")에 인수)
   - [안전여객](https://ko.wikipedia.org/wiki/안전자동차 "wikilink")
+  - [동춘여객](../Page/동춘여객.md "wikilink")
+  - [경산버스](../Page/경산버스.md "wikilink") (시외부 한정)
+  - [예천여객](../Page/예천여객.md "wikilink") (2016년에 모두 대차)
 
 #### BH116 로얄 럭셔리 ([1997년](../Page/1997년.md "wikilink") \~ [2009년](../Page/2009년.md "wikilink"))
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Seoul_City_Bus9205.jpg "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:인천시내버스_9500번.JPG "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:Yangsan_Bus_2300_-_Pureun_Traffic.jpg "wikilink") BH115H 로얄 익스프레스의 대체모델로, [1997년 3월부터](https://ko.wikipedia.org/wiki/1997년_3월 "wikilink") 생산된 11.6m급 스탠더드 데크 표준 모델이다. [2006년 4월부터](../Page/2006년_4월.md "wikilink") **로얄 럭셔리Ⅱ**로 판매하다 후속 모델인 **FX116 크루징 애로우**가 등장한 이후인 [2008년](../Page/2008년.md "wikilink")에도 앞면을 페이스리프트해서 이는 일명 **팬더곰**으로 불렸고, [2009년 12월까지](../Page/2009년_12월.md "wikilink") 연장 생산하였다. [2003년](../Page/2003년.md "wikilink")부터 광역 직행버스 용도로 압축 천연가스를 이용하는 엔진(GE12TI)을 얹은 모델\[2\]을 출시하여 판매하기도 하였다. BH115처럼 다양한 용도로 많은 수가 생산되었으며, 많은 여객운송사들이 이 차량을 도입하였다. 에어 서스펜션을 사용하였다. 차량의 외형은 BH115E 로얄 이코노미와 매우 유사하며 후면의 리어 램프\[3\]나, 리어 가니쉬\[4\]로 구별이 가능하다.
 
-##### 현재 보유중이거나 과거 보유했던 업체
+##### 보유했던 업체
 
   - [경기고속](../Page/경기고속.md "wikilink")
   - [경기버스](../Page/경기버스_\(기업\).md "wikilink")
   - [경기여객](../Page/경기여객.md "wikilink")
-  - [경기운수](../Page/경기운수.md "wikilink")
-  - [대원고속](../Page/대원고속.md "wikilink")
+  - [경기운수](../Page/경기운수.md "wikilink") (2020년에 모두 대차)
+  - [대원고속](../Page/대원고속.md "wikilink") (2020년까지 운행 후 [FX116 하모니로](../Page/자일대우_FX.md "wikilink") 대차)
   - [대원관광](../Page/대원관광.md "wikilink")
   - [대원교통](../Page/대원교통.md "wikilink")
   - [대원버스](../Page/대원버스.md "wikilink")
   - [대원여객](../Page/대원여객.md "wikilink")
-  - [대원운수](../Page/대원운수.md "wikilink")
+  - [대원운수](../Page/대원운수.md "wikilink") ([FX116 하모니로](../Page/자일대우_FX.md "wikilink") 대차)
   - [강화선진버스](../Page/강화선진버스.md "wikilink") - 현재 대폐차
   - [경원여객](../Page/경원여객_\(경남\).md "wikilink") - 현재 대폐차
   - [명진여객](../Page/명진여객.md "wikilink") - 현재 대폐차

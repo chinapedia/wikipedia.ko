@@ -39,7 +39,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>축구</p></td>
+<td><p><a href="../Page/축구.md" title="wikilink">축구</a></p></td>
 <td><p><a href="../Page/김동완_(축구인).md" title="wikilink">김동완</a>, <a href="../Page/장지현.md" title="wikilink">장지현</a>, <a href="https://ko.wikipedia.org/wiki/이황재" title="wikilink">이황재</a>,</p></td>
 <td><p>SBS TV/RADIO<br />
 <a href="https://ko.wikipedia.org/wiki/프리미어리그" title="wikilink">프리미어리그</a>, <a href="https://ko.wikipedia.org/wiki/FA컵_(잉글랜드)" title="wikilink">FA컵</a>, <a href="https://ko.wikipedia.org/wiki/리그_1" title="wikilink">리그 1</a></p></td>
@@ -55,12 +55,12 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/KBO_리그" title="wikilink">KBO 리그</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/프로_야구" title="wikilink">프로 야구</a>(<a href="https://ko.wikipedia.org/wiki/KBO_리그" title="wikilink">KBO 리그</a>)</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/이순철" title="wikilink">이순철</a>, <a href="../Page/안경현.md" title="wikilink">안경현</a>, <a href="../Page/이종열.md" title="wikilink">이종열</a>, <a href="../Page/최원호_(야구인).md" title="wikilink">최원호</a>, <a href="https://ko.wikipedia.org/wiki/이승엽" title="wikilink">이승엽</a></p></td>
 <td><p>SBS TV/RADIO</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/고교야구" title="wikilink">고교야구</a>, <a href="https://ko.wikipedia.org/wiki/대학야구" title="wikilink">대학야구</a></p></td>
+<td><p><a href="../Page/대한민국의_고교_야구.md" title="wikilink">고교야구</a>, 대학야구</p></td>
 <td><p><a href="../Page/이광권.md" title="wikilink">이광권</a></p></td>
 <td></td>
 </tr>
@@ -76,7 +76,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/배구.md" title="wikilink">배구</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/최천식" title="wikilink">최천식</a>, <a href="https://ko.wikipedia.org/wiki/이상열_(배구_선수)" title="wikilink">이상열</a>, <a href="https://ko.wikipedia.org/wiki/이종경" title="wikilink">이종경</a>, <a href="../Page/장소연_(배구인).md" title="wikilink">장소연</a>, <a href="../Page/김사니.md" title="wikilink">김사니</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/최천식" title="wikilink">최천식</a>, <a href="../Page/김세진_(배구인).md" title="wikilink">김세진</a>, <a href="https://ko.wikipedia.org/wiki/이종경" title="wikilink">이종경</a>, <a href="../Page/장소연_(배구인).md" title="wikilink">장소연</a>, <a href="../Page/김진희_(1993년).md" title="wikilink">김진희</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">

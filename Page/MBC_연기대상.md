@@ -5142,7 +5142,7 @@ MBC 야구해설위원</p></td>
 </tbody>
 </table>
 
-  - 2013년 MBC 드라마 12개에서 34명이 트로피를 가져간 가운데, [이승기](../Page/이승기.md "wikilink"), [하지원](../Page/하지원.md "wikilink") 각 3관왕, [배수지](../Page/수지_\(대한민국의_가수\).md "wikilink") 2관왕을 차지하였다.
+  - 2013년 MBC 드라마 12개에서 34명이 트로피를 가져간 가운데, [이승기](../Page/이승기.md "wikilink"), [하지원](../Page/하지원.md "wikilink") 각 3관왕, [배수지](../Page/수지_\(1994년\).md "wikilink") 2관왕을 차지하였다.
 
 <table>
 <thead>
@@ -5161,7 +5161,7 @@ MBC 야구해설위원</p></td>
 <tr class="even">
 <td><p>미니시리즈 최우수 연기상</p></td>
 <td><p><a href="../Page/이승기.md" title="wikilink">이승기</a><br />
-<a href="../Page/수지_(대한민국의_가수).md" title="wikilink">배수지</a></p></td>
+<a href="../Page/수지_(1994년).md" title="wikilink">배수지</a></p></td>
 <td><p><a href="../Page/구가의_서.md" title="wikilink">구가의 서</a></p></td>
 </tr>
 <tr class="odd">
@@ -5218,7 +5218,7 @@ MBC 야구해설위원</p></td>
 </tr>
 <tr class="odd">
 <td><p>베스트 커플상</p></td>
-<td><p><a href="../Page/이승기.md" title="wikilink">이승기</a> &amp; <a href="../Page/수지_(대한민국의_가수).md" title="wikilink">배수지</a></p></td>
+<td><p><a href="../Page/이승기.md" title="wikilink">이승기</a> &amp; <a href="../Page/수지_(1994년).md" title="wikilink">배수지</a></p></td>
 <td><p><a href="../Page/구가의_서.md" title="wikilink">구가의 서</a></p></td>
 </tr>
 <tr class="even">
@@ -6127,7 +6127,7 @@ MBC 야구해설위원</p></td>
 ## 뒷이야기 및 논란
 
   - 배우 [고두심](../Page/고두심.md "wikilink")은 [1989년](../Page/1989년.md "wikilink"), [2004년](../Page/2004년.md "wikilink"), [2015년](../Page/2015년.md "wikilink") (KBS), [1990년](../Page/1990년.md "wikilink"), [2004년](../Page/2004년.md "wikilink") (MBC), [2000년](../Page/2000년.md "wikilink") (SBS) 에서 각각 **연기대상**을 수상하여 **연기대상 최초 그랜드슬램 수상자**로 기록되어 있다.
-  - 배우 [김혜자](../Page/김혜자.md "wikilink")는 1974년, 1978년, [1988년](../Page/1988년.md "wikilink"), [1992년](../Page/1992년.md "wikilink"), [1999년](../Page/1999년.md "wikilink") 수상, [고두심](../Page/고두심.md "wikilink")은 [1990년](../Page/1990년.md "wikilink"), [2004년](../Page/2004년.md "wikilink") 수상, [김희애](../Page/김희애.md "wikilink")는 [1991년](../Page/1991년.md "wikilink"), [1993년](../Page/1993년.md "wikilink") 수상, [채시라](../Page/채시라.md "wikilink")는 [1994년](../Page/1994년.md "wikilink"), [1995년](../Page/1995년.md "wikilink") 수상으로 **MBC 연기대상 최다 수상자**로 기록되어 있다.
+  - 배우 [김혜자](../Page/김혜자.md "wikilink")는 [1988년](../Page/1988년.md "wikilink"), [1992년](../Page/1992년.md "wikilink"), [1999년](../Page/1999년.md "wikilink") 수상, [고두심](../Page/고두심.md "wikilink")은 [1990년](../Page/1990년.md "wikilink"), [2004년](../Page/2004년.md "wikilink") 수상, [김희애](../Page/김희애.md "wikilink")는 [1991년](../Page/1991년.md "wikilink"), [1993년](../Page/1993년.md "wikilink") 수상, [채시라](../Page/채시라.md "wikilink")는 [1994년](../Page/1994년.md "wikilink"), [1995년](../Page/1995년.md "wikilink") 수상으로 **MBC 연기대상 최다 수상자**로 기록되어 있다.
   - [2004년](../Page/2004년.md "wikilink") **연기대상** 시상식에서 드라마 《[한강수 타령](https://ko.wikipedia.org/wiki/한강수_타령 "wikilink")》의 저조한 시청률과 화제성, 연기력 등의 호평이 없는데도 불구하고 대상에 [고두심](../Page/고두심.md "wikilink")을 비롯해, 남녀 최우수연기상에 [최민수](../Page/최민수.md "wikilink")와 [김혜수](../Page/김혜수.md "wikilink"), 우수연기상에 [김석훈](../Page/김석훈.md "wikilink")과 [김민선](../Page/김규리_\(1979년_8월\).md "wikilink"), 공로상에 최종수 PD 등 몰아주기 시상으로 공정성에 많은 비판이 쏟아지기도 했다.\[6\]
   - [2008년](../Page/2008년.md "wikilink") **연기대상** 사상 처음으로 **대상**을 두 배우가 공동수상하면서 논란이 일었으며\[7\]\[8\] 2년 뒤인 [2010년](../Page/2010년.md "wikilink")에도 공동수상이 일어나면서 비판을 받았다.\[9\]\[10\]
   - [2010년](../Page/2010년.md "wikilink") **연기대상**에서 대상을 받은 [한효주](../Page/한효주.md "wikilink")는 수상 당시 23살로 MBC 연기대상 역대 최연소 대상 수상자로 기록되어 있다.

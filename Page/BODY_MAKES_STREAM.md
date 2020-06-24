@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [BODY MAKES STREAM](https://ko.wikipedia.org/wiki/BODY_MAKES_STREAM).
 
 
-〈**BODY MAKES STREAM**〉(; )은 [TWO-MIX](../Page/TWO-MIX.md "wikilink")의 14번째 싱글이다.
+〈**BODY MAKES STREAM**〉(, )은 [TWO-MIX](../Page/TWO-MIX.md "wikilink")의 14번째 싱글이다.
 
 ## 개요
 
 워너 뮤직 재팬으로 이적한 뒤에 전작〈[TRUTH\~A Great Detective of Love\~](../Page/TRUTH~A_Great_Detective_of_Love~.md "wikilink")〉에 이어 발매한 1999년 첫 싱글이다.
 
-TBS계《**슈퍼 축구**》의 테마곡이며, [오리콘 차트](https://ko.wikipedia.org/wiki/오리콘_차트 "wikilink") 최고 순위 17위를 기록하였다. 커플링곡(C/W)은 동시 발매된 [타카야마 미루에게](https://ko.wikipedia.org/wiki/타카야마_미루 "wikilink") 제공한 〈JUSTICE〉의 TWO-MIX 버전이지만 앨범《*[RHYTHM FORMULA](https://ko.wikipedia.org/wiki/RHYTHM_FORMULA "wikilink")*》에 수록된 버전과는 다른 버전이다.
+TBS계《**슈퍼 축구**》의 테마곡이며, [오리콘 차트](https://ko.wikipedia.org/wiki/오리콘_차트 "wikilink") 최고 순위 17위를 기록하였다. 커플링곡(C/W)은 동시 발매된 [타카야마 미루에게](https://ko.wikipedia.org/wiki/타카야마_미루 "wikilink") 제공한 〈JUSTICE〉의 TWO-MIX 버전이지만 앨범《[RHYTHM FORMULA](https://ko.wikipedia.org/wiki/RHYTHM_FORMULA "wikilink")》에 수록된 버전과는 다른 버전이다.
 
 또한, 타이틀곡은 당시 슬럼프로 곡을 쓸 수 없었던 타카야마 미나미를 대신하여 나가노 시이나가 TWO-MIX 내에서는 처음으로 작곡하였다.
 

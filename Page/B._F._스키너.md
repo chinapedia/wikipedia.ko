@@ -1,0 +1,34 @@
+> This article is converted from Wikipedia: [B. F. 스키너](https://ko.wikipedia.org/wiki/B._F._스키너).
+
+
+**버러스 프레더릭 스키너**(Burrhus Frederic Skinner, 1904년 3월 20일\~ 1990년 8월 18일)는 미국의 영문학자이자 [심리학](../Page/심리학.md "wikilink")자이다. [행동주의](../Page/행동주의.md "wikilink") 심리학자로 교육과 심리학에 많은 영향을 끼쳤다. [하버드 대학교에서](../Page/하버드_대학교.md "wikilink") 1958년부터 1974년 은퇴할 때까지 심리학과의 교수였다. "스키너의 상자"로 불리는 [조작적 조건화](../Page/조작적_조건화.md "wikilink") 상자를 만들었으며 이를 바탕으로 [행동주의](../Page/행동주의.md "wikilink")가 보다 발전하였다. 행동의 실험적 분석을 목적으로 하는 실험 연구 학과를 창시했으며 심리학에 있어 연관된 변수에 의한 반응률에 대한 연구를 발전시켰다. 그가 또한 주창한 [강화이론](https://ko.wikipedia.org/wiki/강화이론 "wikilink")에 대한 이론을 만들기 위해 행동의 반응률을 측정하는 누적합산기도 만들었다. 그의 연구는 20세기의 가장 영향력있는 심리학적 연구로 인정 받고 있으며 21권의 책과 180편의 글을 남겼다.
+
+## 생애
+
+[1904년](../Page/1904년.md "wikilink") [3월 20일에](../Page/3월_20일.md "wikilink") 미국 [펜실베이니아주](../Page/펜실베이니아주.md "wikilink")의 서스쿼해나에서 태어났다. 아버지 윌리엄 스키너는 법률가였다. 젊었을 때는 작가가 되고 싶어 뉴욕에 있는 [해밀턴 대학에](https://ko.wikipedia.org/wiki/해밀턴_대학 "wikilink") 다녔다. 1926년에 영문학으로 학사학위를 받았다. 작가로서의 재능이 없다는 것을 깨달은 뒤에는 하버드 대학의 심리학과에서 대학원을 다니게 된다. 이 동안 [조작적 조건화를](../Page/조작적_조건화.md "wikilink") 실험하는 "스키너의 상자"를 만들게 되었으며 누가기록기도 만들었다. 이를 이용한 반응률(rate of response)는 심리학 연구에 있어 중요한 종속변수가 되었으며 강력한 실험 연구의 방법을 만들어 낼 수 있었다. 1931년 하버드 대학교에서 박사학위를 받았으며 1936년까지 연구원으로 남아 있었다. 그 뒤, 미네소타 대학과 인디에나 대학에서 가르쳤다. 1948년 정년보장을 받는 교수직을 하버드에서 시작하게 되었으며, 그 뒤로 계속 하버드 대학교에서 몸담고 연구하게 된다. 스키너가 사망하기 직전에 실시한 설문조사(Kom, Daivs, & Davis, 1991)에서는 심리학사를 연구하는 학자와 대학원 심리학과 학과장들을 대상으로 10명의 가장 유명한(동시대와 전 심리학사를 통틀어) 심리학자의 서열을 매기게 하였다. 이 설문조사에서 스키너는 전 심리학사를 통틀어서는 8위에, 그리고 동시대의 심리학자들 중에서는 1위에 올랐다. 학과장들은 두 가지 리스트 모두를 고려해서 스키너를 1위에 올렸다. 1968년에는 미국 국립과학협회로부터 공로상을 받았으며, 1971년과 1990년에 미국심리학회로부터 각각 골든메달과 평생공로상을 받았다.
+
+## 스키너 상자
+
+[스키너 상자는](../Page/스키너_상자.md "wikilink") [손다이크](https://ko.wikipedia.org/wiki/손다이크 "wikilink")의 퍼즐 상자와 비교되는 중요한 실험 과정을 보여준다고 알려져있다. 특히 그가 부가적으로 사용한 스키너상자의 누가반응기록지 방법은 조작적 조건형성이라는 연구 이론에서 뿐만아니라 [생리심리학](https://ko.wikipedia.org/wiki/생리심리학 "wikilink"),[동물행동학](../Page/동물행동학.md "wikilink")등 광범위하게 그 영향을 미쳤다.
+
+## 저서
+
+[헨리 데이비드 소로의](../Page/헨리_데이비드_소로.md "wikilink") 저서 월든(Walden)에 감명받은 스키너는 월든 투(Walden Two, 1948)라는 저서를 출판한바있다.
+
+## 같이 보기
+
+  - [장 피아제](../Page/장_피아제.md "wikilink")
+  - [노엄 촘스키](../Page/노엄_촘스키.md "wikilink")
+
+## 참고
+
+  - 월든 투, 이장호 역, *Walden Two,* 1948. (1976 개정) <small></small>
+  - 자유와 존엄을 넘어서, 정명진 역, *Beyond Freedom and Dignity*, 1971. <small></small>
+  - 행동주의, 김영채 역, *About Behaviorism*, 1974. <small>, .</small>
+  - 노년을 즐기는 지혜, 주영숙 역, *Enjoy Old Age: A Program of Self-Management*, with M. E. Vaughan, 1983.
+
+## 외부 링크
+
+  -
+  -
+[분류:1904년 태어남](https://ko.wikipedia.org/wiki/분류:1904년_태어남 "wikilink") [분류:1990년 죽음](https://ko.wikipedia.org/wiki/분류:1990년_죽음 "wikilink") [분류:미국의 심리학자](https://ko.wikipedia.org/wiki/분류:미국의_심리학자 "wikilink") [분류:하버드 대학교 교수](https://ko.wikipedia.org/wiki/분류:하버드_대학교_교수 "wikilink") [분류:교육심리학자](https://ko.wikipedia.org/wiki/분류:교육심리학자 "wikilink") [분류:동물행동학자](https://ko.wikipedia.org/wiki/분류:동물행동학자 "wikilink") [분류:하버드 대학교 동문](https://ko.wikipedia.org/wiki/분류:하버드_대학교_동문 "wikilink") [분류:미네소타 대학교 교수](https://ko.wikipedia.org/wiki/분류:미네소타_대학교_교수 "wikilink") [분류:미국의 무신론자](https://ko.wikipedia.org/wiki/분류:미국의_무신론자 "wikilink")

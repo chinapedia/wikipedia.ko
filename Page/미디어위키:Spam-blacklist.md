@@ -131,4 +131,6 @@
     \bwink\.co\.kr\b                # [[m:User:COIBot/Local/wink.co.kr|m:User:COIBot/Local/wink.co.kr]] 참조 / 2019-10-18
 
     \bxn--mk1bv0nuppgzbg5h\.com     # ChongDae 추가 판촉물닷컴
+    \bitmex\.com\b          # --메이 2020-05-19 09:51 블록체인 스팸
+
      #

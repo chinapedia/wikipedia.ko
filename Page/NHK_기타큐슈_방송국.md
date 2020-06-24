@@ -10,7 +10,7 @@
   - [1948년](../Page/1948년.md "wikilink") [7월 1일](../Page/7월_1일.md "wikilink") - 라디오 제2방송 호출 부호, JOSB로 변경
   - [1957년](../Page/1957년.md "wikilink") [5월 29일](../Page/5월_29일.md "wikilink") - 종합 텔레비전 방송 개시(JOSK-TV)
   - [1962년](../Page/1962년.md "wikilink") [1월 8일](../Page/1월_8일.md "wikilink") - 교육 텔레비전 방송 개시(JOSB-TV, 규슈최초)
-  - [1963년](../Page/1963년.md "wikilink") [2월 10일](../Page/2월_10일.md "wikilink") - [기타큐슈 시가](https://ko.wikipedia.org/wiki/기타큐슈_시 "wikilink") 발족하면서 기타큐슈 방송국으로 명칭 변경
+  - [1963년](../Page/1963년.md "wikilink") [2월 10일](../Page/2월_10일.md "wikilink") - [기타큐슈시](../Page/기타큐슈시.md "wikilink")가 발족하면서 기타큐슈 방송국으로 명칭 변경
   - [1964년](../Page/1964년.md "wikilink") [5월 1일](../Page/5월_1일.md "wikilink") - FM실험 방송 개시
   - [1969년](../Page/1969년.md "wikilink") [3월 1일](../Page/3월_1일.md "wikilink") - FM방송 본방송 개시(JOSK-FM, 일본전국 동시개국)
   - [2006년](../Page/2006년.md "wikilink") [9월 1일](../Page/9월_1일.md "wikilink") - 디지털 텔레비전 방송 시험방송 시작

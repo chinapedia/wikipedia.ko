@@ -343,6 +343,7 @@
   - [강전일](https://ko.wikipedia.org/wiki/강전일 "wikilink") 포항부장
   - [김영재](https://ko.wikipedia.org/wiki/김영재 "wikilink") 대구부장
   - [권기준](https://ko.wikipedia.org/wiki/권기준 "wikilink")
+  - [김상배](https://ko.wikipedia.org/wiki/김상배 "wikilink")
   - [이하늬](../Page/이하늬.md "wikilink")
   - [이종영](https://ko.wikipedia.org/wiki/이종영 "wikilink")
   - [신지원](https://ko.wikipedia.org/wiki/신지원 "wikilink")
@@ -353,7 +354,7 @@
   - [정혜미](https://ko.wikipedia.org/wiki/정혜미 "wikilink")
   - [신주현](../Page/신주현.md "wikilink")
   - [오아영](https://ko.wikipedia.org/wiki/오아영 "wikilink")
-  - [박진영](../Page/박진영.md "wikilink")
+  - [박준형](https://ko.wikipedia.org/wiki/박준형_\(언론인\) "wikilink")
   - [이지은](https://ko.wikipedia.org/wiki/이지은 "wikilink")
   - [김지홍](https://ko.wikipedia.org/wiki/김지홍 "wikilink")
   - [윤희정](https://ko.wikipedia.org/wiki/윤희정 "wikilink")

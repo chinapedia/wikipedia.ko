@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [김은아 \(KBS 성우\)](https://ko.wikipedia.org/wiki/김은아_\(KBS_성우\)).
 
 
-**김은아**([1967년](../Page/1967년.md "wikilink") [3월 21일](../Page/3월_21일.md "wikilink") \~ )는 [대한민국](../Page/대한민국.md "wikilink")의 [성우](../Page/성우.md "wikilink")이다. [1990년](../Page/1990년.md "wikilink") [KBS](https://ko.wikipedia.org/wiki/KBS "wikilink")에 입사했으며, 현재는 [KBS](https://ko.wikipedia.org/wiki/KBS "wikilink") 22기이다. [한국방송 성우극회](../Page/한국방송_성우극회.md "wikilink") 소속. 2007년 이후로 거의 활동한적이 없기 때문에 [꼬마버스타요](https://ko.wikipedia.org/wiki/꼬마버스타요 "wikilink")에서 누리, 봉봉, 앨리스, 토니, 피넛역 성우가 동명이인 후배인 [EBS](https://ko.wikipedia.org/wiki/EBS "wikilink")성우 [김은아이다](../Page/김은아_\(EBS_성우\).md "wikilink").
+**김은아**([1967년](../Page/1967년.md "wikilink") [3월 21일](../Page/3월_21일.md "wikilink") \~ )는 [대한민국](../Page/대한민국.md "wikilink")의 [성우](../Page/성우.md "wikilink")이다. 1990년 [KBS](https://ko.wikipedia.org/wiki/KBS "wikilink")에 입사했으며, 현재는 [KBS](https://ko.wikipedia.org/wiki/KBS "wikilink") 22기이다. [한국방송 성우극회](../Page/한국방송_성우극회.md "wikilink") 소속. 2007년 이후로 거의 활동한적이 없기 때문에 [꼬마버스타요](https://ko.wikipedia.org/wiki/꼬마버스타요 "wikilink")에서 누리, 봉봉, 앨리스, 토니, 피넛역 성우가 동명이인 후배인 [EBS](https://ko.wikipedia.org/wiki/EBS "wikilink")성우 [김은아이다](../Page/김은아_\(EBS_성우\).md "wikilink").
 
 ## 주요 출연작품
 

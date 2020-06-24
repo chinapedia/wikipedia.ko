@@ -9,7 +9,7 @@ Tcl과 [Tk](https://ko.wikipedia.org/wiki/Tk_\(프레임워크\) "wikilink") [GU
 
 Tcl은 아래와 같은 특징이 있다:
 
-  - 언어 구조를 포함해서 모든 것은 [명령어이며](https://ko.wikipedia.org/wiki/명령어_\(컴퓨팅\) "wikilink"), [전위 표기법으로](https://ko.wikipedia.org/wiki/전위_표기법 "wikilink") 표현한다.
+  - 언어 구조를 포함해서 모든 것은 [명령어이며](../Page/명령어_\(컴퓨팅\).md "wikilink"), [전위 표기법으로](https://ko.wikipedia.org/wiki/전위_표기법 "wikilink") 표현한다.
   - 명령어는 [가변인자](https://ko.wikipedia.org/wiki/가변인자 "wikilink")를 받을 수 있다.
   - 모든 것을 동적으로 재정의하고 오버라이드할 수 있다.
   - [코드를](https://ko.wikipedia.org/wiki/부호_\(정보\) "wikilink") 포함한 모든 [자료형](../Page/자료형.md "wikilink")을 [문자열](https://ko.wikipedia.org/wiki/문자열 "wikilink")로 다룰 수 있다.

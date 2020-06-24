@@ -22,7 +22,7 @@ TrES-4b의 어머니 항성은 질량이 태양보다 22퍼센트 큰데, 중심
 
   -
 
-[분류:허큘리스자리](https://ko.wikipedia.org/wiki/분류:허큘리스자리 "wikilink") [분류:외계 행성](https://ko.wikipedia.org/wiki/분류:외계_행성 "wikilink") [분류:2007년 발견한 외계 행성](https://ko.wikipedia.org/wiki/분류:2007년_발견한_외계_행성 "wikilink") [분류:뜨거운 목성](https://ko.wikipedia.org/wiki/분류:뜨거운_목성 "wikilink") [분류:목성형 행성](https://ko.wikipedia.org/wiki/분류:목성형_행성 "wikilink")
+[분류:허큘리스자리](https://ko.wikipedia.org/wiki/분류:허큘리스자리 "wikilink") [분류:외계 행성](https://ko.wikipedia.org/wiki/분류:외계_행성 "wikilink") [분류:2007년 발견한 외계 행성](https://ko.wikipedia.org/wiki/분류:2007년_발견한_외계_행성 "wikilink") [분류:뜨거운 목성](https://ko.wikipedia.org/wiki/분류:뜨거운_목성 "wikilink") [분류:목성형 행성](https://ko.wikipedia.org/wiki/분류:목성형_행성 "wikilink") [분류:2006년 발견한 외계 행성](https://ko.wikipedia.org/wiki/분류:2006년_발견한_외계_행성 "wikilink")
 
 1.
 2.

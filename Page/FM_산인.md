@@ -5,7 +5,7 @@
 
 ## 개요
 
-  - 본사는 [시마네현](../Page/시마네현.md "wikilink") [마쓰에 시에](https://ko.wikipedia.org/wiki/마쓰에_시 "wikilink") 있다.
+  - 본사는 [시마네현](../Page/시마네현.md "wikilink") [마쓰에시](../Page/마쓰에시.md "wikilink")에 있다.
   - [MegaNet](../Page/MegaNet.md "wikilink") 계열 외국어 FM 방송국을 제외하면 유일하게 광역방송을 실시하고 있는 FM 방송국으로 동서로 300Km이나 되는 돗토리·시마네현간의 거리에도 불구하고 초기에는 마쓰에 방송국과 돗토리·하마다 중계국밖에 설치하지 않았으며 지금도 일부 지역에서는 들을 수 없거나 음질이 나쁜 곳이 있다.
   - [Kiss-FM KOBE가](../Page/Kiss-FM_KOBE.md "wikilink") JFN에 가맹하기 전까지 [효고현](../Page/효고현.md "wikilink")의 일부 지역에서도 청취자가 있었다.
   - 마쓰에 방송국의 출력보다 하마다 중계국의 출력이 더 높은데 이는 하마다 중계국이 평지가 적은 지역에 있기 때문이다.

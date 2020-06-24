@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [KBS 조이](https://ko.wikipedia.org/wiki/KBS_조이).
 
 
-**KBS 조이**()는 [대한민국](../Page/대한민국.md "wikilink")의 [방송채널 사용사업자](https://ko.wikipedia.org/wiki/대한민국_방송법 "wikilink") [KBS N에서](https://ko.wikipedia.org/wiki/KBS_N "wikilink") 운영하는 [텔레비전](../Page/텔레비전.md "wikilink") [채널로](https://ko.wikipedia.org/wiki/채널_\(통신\) "wikilink"), [쇼 · 오락 · 퀴즈 · 버라이어티](../Page/버라이어티_쇼.md "wikilink") [프로그램을](../Page/텔레비전_프로그램.md "wikilink") 주로 편성하는 채널으로 [2006년](../Page/2006년.md "wikilink") [11월 1일](../Page/11월_1일.md "wikilink") 개국하였다.
+**KBS 조이**()는 [대한민국](../Page/대한민국.md "wikilink")의 [방송채널 사용사업자](https://ko.wikipedia.org/wiki/대한민국_방송법 "wikilink") [KBS N에서](https://ko.wikipedia.org/wiki/KBS_N "wikilink") 운영하는 [텔레비전](../Page/텔레비전.md "wikilink") [채널로](https://ko.wikipedia.org/wiki/채널_\(통신\) "wikilink"), [쇼 · 오락 · 퀴즈 · 버라이어티](../Page/버라이어티_쇼.md "wikilink") [프로그램을](../Page/텔레비전_프로그램.md "wikilink") 주로 편성하는 채널으로 [2007년](../Page/2007년.md "wikilink") [1월 1일](../Page/1월_1일.md "wikilink") 개국하였다.
 
 ## 채널 번호
 
@@ -18,7 +18,7 @@
 
 ## 역사
 
-  - [2006년](../Page/2006년.md "wikilink") [11월 1일](../Page/11월_1일.md "wikilink") **KBS 조이**로 채널 변경 개국
+  - [2007년](../Page/2007년.md "wikilink") [1월 1일](../Page/1월_1일.md "wikilink") **KBS 조이**로 채널 변경 개국
 
 ## 프로그램
 
@@ -60,6 +60,8 @@
   - 러블리 추블리
   - 닥터하우스
   - 차트를 달리는 소녀
+
+## 추가내용
 
 ## 같이 보기
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [KBO 올스타전](https://ko.wikipedia.org/wiki/KBO_올스타전).
 
 
-**KBO 올스타전**(KBO All-Star Game)은 시즌 전반기와 후반기 사이에 열리는 경기이다. [1982년](../Page/1982년.md "wikilink") 프로야구 초창기부터 열리기 시작했으며, 팬들의 투표로 뽑힌 선수들을 중심으로 두 팀으로 나뉘어 경기를 한다. [2009년](../Page/2009년.md "wikilink")을 기준으로 총 44명의 선수가 이 대회에 출전하고 있으며, [KBO는](https://ko.wikipedia.org/wiki/KBO_\(단체\) "wikilink") [1998년](../Page/1998년.md "wikilink")부터 [인터넷](../Page/인터넷.md "wikilink")을 이용한 팬투표를 실시하고 있다. 본 명칭은 **한국프로야구 올스타전**이었으나 KBO의 브랜드 아이덴티티 통합 작업에 따라 2015시즌부터 **KBO 올스타전**이라는 새로운 명칭을 사용하게 되었다.
+**KBO 올스타전**(KBO All-Star Game)은 시즌 전반기와 후반기 사이에 열리는 경기이다. [1982년](../Page/1982년.md "wikilink") 프로야구 초창기부터 열리기 시작했으며, 팬들의 투표로 뽑힌 선수들을 중심으로 두 팀으로 나뉘어 경기를 한다. [2009년](../Page/2009년.md "wikilink")을 기준으로 총 44명의 선수가 이 대회에 출전하고 있으며, [KBO는](../Page/한국야구위원회.md "wikilink") [1998년](../Page/1998년.md "wikilink")부터 [인터넷](../Page/인터넷.md "wikilink")을 이용한 팬투표를 실시하고 있다. 본 명칭은 **한국프로야구 올스타전**이었으나 KBO의 브랜드 아이덴티티 통합 작업에 따라 2015시즌부터 **KBO 올스타전**이라는 새로운 명칭을 사용하게 되었다.
 
 ## 역대 전적
 
@@ -76,9 +76,9 @@
   - 1983년 [신경식](../Page/신경식_\(야구인\).md "wikilink") ([OB 베어스](../Page/두산_베어스.md "wikilink"), 동군) - 타자
   - 1984년 [김용희](../Page/김용희_\(야구인\).md "wikilink") ([롯데 자이언츠](../Page/롯데_자이언츠.md "wikilink"), 동군) - 타자
   - 1985년 [김시진](../Page/김시진.md "wikilink") ([삼성 라이온즈](../Page/삼성_라이온즈.md "wikilink"), 동군) - 투수
-  - 1986년 [김무종](../Page/김무종.md "wikilink") ([해태 타이거즈](https://ko.wikipedia.org/wiki/KIA_타이거즈 "wikilink"), 서군) - 타자
-  - 1987년 [김종모](../Page/김종모.md "wikilink") ([해태 타이거즈](https://ko.wikipedia.org/wiki/KIA_타이거즈 "wikilink"), 서군) - 타자
-  - 1988년 [한대화](../Page/한대화.md "wikilink") ([해태 타이거즈](https://ko.wikipedia.org/wiki/KIA_타이거즈 "wikilink"), 서군) - 타자
+  - 1986년 [김무종](../Page/김무종.md "wikilink") ([해태 타이거즈](../Page/해태_타이거즈.md "wikilink"), 서군) - 타자
+  - 1987년 [김종모](../Page/김종모.md "wikilink") ([해태 타이거즈](../Page/해태_타이거즈.md "wikilink"), 서군) - 타자
+  - 1988년 [한대화](../Page/한대화.md "wikilink") ([해태 타이거즈](../Page/해태_타이거즈.md "wikilink"), 서군) - 타자
   - 1989년 [허규옥](../Page/허규옥.md "wikilink") ([롯데 자이언츠](../Page/롯데_자이언츠.md "wikilink"), 동군) - 타자
   - 1990년 [김민호](../Page/김민호_\(1961년\).md "wikilink") ([롯데 자이언츠](../Page/롯데_자이언츠.md "wikilink"), 동군) - 타자
   - 1991년 [김응국](../Page/김응국.md "wikilink") ([롯데 자이언츠](../Page/롯데_자이언츠.md "wikilink"), 동군) - 타자
@@ -113,12 +113,12 @@
 
 ### 구단별 미스터 올스타(올스타전 MVP) 수상횟수
 
-  - 15회 - [롯데 자이언츠](../Page/롯데_자이언츠.md "wikilink") (1982년, 1984년, 1989년, 1990년, 1991년, 1998년, 1999년, 2004년, 2005년, 2007년, 2008년, 2010년, 2012년, 2013년, 2015년)
-  - 6회 - [KIA 타이거즈](https://ko.wikipedia.org/wiki/KIA_타이거즈 "wikilink") (1986년, 1987년, 1988년, 1992년, 2003년, 2009년)
-  - 4회 - [두산 베어스](../Page/두산_베어스.md "wikilink") (1983년, 2001년, 2006년, 2016년)
-  - 3회 - [한화 이글스](../Page/한화_이글스.md "wikilink") (1993년, 1995년, 2000년)
-  - 2회 - [LG 트윈스](../Page/LG_트윈스.md "wikilink") (1997년, 2011년), [현대 유니콘스](../Page/현대_유니콘스.md "wikilink") (1994년, 2002년), [키움 히어로즈](../Page/키움_히어로즈.md "wikilink") (2014년, 2018년), [SK 와이번스](../Page/SK_와이번스.md "wikilink") (2017년, 2019년)
-  - 1회 - [삼성 라이온즈](../Page/삼성_라이온즈.md "wikilink") (1985년), [쌍방울 레이더스](../Page/쌍방울_레이더스.md "wikilink") (1996년)
+  - 15회 - [롯데 자이언츠](../Page/롯데_자이언츠.md "wikilink") (1982, 1984, 1989, 1990, 1991, 1998, 1999, 2004, 2005, 2007, 2008, 2010, 2012, 2013, 2015)
+  - 6회 - [KIA 타이거즈](https://ko.wikipedia.org/wiki/KIA_타이거즈 "wikilink") (1986, 1987, 1988, 1992, 2003, 2009)
+  - 4회 - [두산 베어스](../Page/두산_베어스.md "wikilink") (1983, 2001, 2006, 2016)
+  - 3회 - [한화 이글스](../Page/한화_이글스.md "wikilink") (1993, 1995, 2000)
+  - 2회 - [LG 트윈스](../Page/LG_트윈스.md "wikilink") (1997, 2011), [현대 유니콘스](../Page/현대_유니콘스.md "wikilink") (1994, 2002), [키움 히어로즈](../Page/키움_히어로즈.md "wikilink") (2014, 2018), [SK 와이번스](../Page/SK_와이번스.md "wikilink") (2017, 2019)
+  - 1회 - [삼성 라이온즈](../Page/삼성_라이온즈.md "wikilink") (1985), [쌍방울 레이더스](../Page/쌍방울_레이더스.md "wikilink") (1996)
 
 ## 홈런 레이스
 

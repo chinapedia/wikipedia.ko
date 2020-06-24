@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [NHK 요나고 지국](https://ko.wikipedia.org/wiki/NHK_요나고_지국).
 
 
-**NHK 요나고 지국**(米子 支局)은 [돗토리현](../Page/돗토리현.md "wikilink") [요나고 시에](https://ko.wikipedia.org/wiki/요나고_시 "wikilink") 있는 [NHK 돗토리 방송국](../Page/NHK_돗토리_방송국.md "wikilink") 지국으로 돗토리현의 서부 지역을 대상으로 뉴스 취재, 수신료 징수 업무 등을 실시하고 있다.
+**NHK 요나고 지국**(米子 支局)은 [돗토리현](../Page/돗토리현.md "wikilink") [요나고시](../Page/요나고시.md "wikilink")에 있는 [NHK 돗토리 방송국](../Page/NHK_돗토리_방송국.md "wikilink") 지국으로 돗토리현의 서부 지역을 대상으로 뉴스 취재, 수신료 징수 업무 등을 실시하고 있다.
 
 ## 연혁
 
@@ -19,9 +19,9 @@
 
 ## 채널 및 주파수
 
-  - [종합 텔레비전](../Page/NHK_종합_텔레비전.md "wikilink") - 요나고 중계소　26ch　100w([시마네현](../Page/시마네현.md "wikilink") [마쓰에 시에서](https://ko.wikipedia.org/wiki/마쓰에_시 "wikilink") 역외 송신)
+  - [종합 텔레비전](../Page/NHK_종합_텔레비전.md "wikilink") - 요나고 중계소　26ch　100w([시마네현](../Page/시마네현.md "wikilink") [마쓰에시](../Page/마쓰에시.md "wikilink")에서 역외 송신)
       - [1998년](../Page/1998년.md "wikilink")[11월 26일개국](../Page/11월_26일.md "wikilink")
-  - [교육 텔레비전](../Page/NHK_교육_텔레비전.md "wikilink") - 요나고 중계소　20ch　100w([시마네현](../Page/시마네현.md "wikilink") [마쓰에 시에서](https://ko.wikipedia.org/wiki/마쓰에_시 "wikilink") 역외 송신)
+  - [교육 텔레비전](../Page/NHK_교육_텔레비전.md "wikilink") - 요나고 중계소　20ch　100w([시마네현](../Page/시마네현.md "wikilink") [마쓰에시](../Page/마쓰에시.md "wikilink")에서 역외 송신)
   - [라디오 제1방송](https://ko.wikipedia.org/wiki/NHK_라디오제1방송 "wikilink") - (구JOLQ→현재는 호출 부호 없음)　963 kHz
       - [1998년](../Page/1998년.md "wikilink") [11월 25일](../Page/11월_25일.md "wikilink") 이전에는 라디오1방송국 송신소에서 종합 텔레비전을 송출하고 있어 일본에서 드물게 중파용 안테나 정상에 UHF용 슈퍼 턴 안테나를 설치했다.
   - [라디오 제2방송](https://ko.wikipedia.org/wiki/NHK_라디오제2방송 "wikilink") - (구JOLZ→현재는 호출 부호 없음)　1521kHz

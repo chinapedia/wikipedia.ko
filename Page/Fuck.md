@@ -76,11 +76,11 @@ mierda, cabron
 
 ### 마더퍼커
 
-**마더퍼커**([Motherfucker](../Page/Motherfucker.md "wikilink"))는 Fuck과 비슷한 의미로 쓰이는 영어의 [욕설](https://ko.wikipedia.org/wiki/욕설 "wikilink")이다. 성교한다는 뜻은 아니지만 망할 놈, 후레자식 등의 뜻을 가지고 있다.\[5\]퍼킷마더 (fucked mather)라고도 한다.
+**마더퍼커**(Motherfucker)는 Fuck과 비슷한 의미로 쓰이는 영어의 [욕설](https://ko.wikipedia.org/wiki/욕설 "wikilink")이다. 성교한다는 뜻은 아니지만 망할 놈, 후레자식 등의 뜻을 가지고 있다.\[5\]퍼킷마더 (fucked mather)라고도 한다.
 
 ### 왓더퍽
 
-**왓더퍽**(What The Fuck)은 Fuck과 비슷한 의미로 쓰이는 영어의 [욕설](https://ko.wikipedia.org/wiki/욕설 "wikilink")로 해석된다. 하지만 [감탄사](https://ko.wikipedia.org/wiki/감탄사 "wikilink")로 쓰여 시발, 좀 더 좋게 순화시키면 [은어](https://ko.wikipedia.org/wiki/은어 "wikilink")로 '개쩐다'의 뜻으로 해석될 수 있다. 줄여서 WTF라고 하며, [소셜 네트워크 서비스](../Page/소셜_네트워크_서비스.md "wikilink")(SNS) [트위터](../Page/트위터.md "wikilink") 상에서 쓰이는 경우를 심심찮게 볼 수 있다.
+**왓더퍽**(What The Fuck)은 Fuck과 비슷한 의미로 쓰이는 영어의 [욕설](https://ko.wikipedia.org/wiki/욕설 "wikilink")로 해석된다. 하지만 [감탄사](https://ko.wikipedia.org/wiki/감탄사 "wikilink")로 쓰여 씨발, 좀 더 좋게 순화시키면 [은어](https://ko.wikipedia.org/wiki/은어 "wikilink")로 '개쩐다'의 뜻으로 해석될 수 있다. 줄여서 WTF라고 하며, [소셜 네트워크 서비스](../Page/소셜_네트워크_서비스.md "wikilink")(SNS) [트위터](../Page/트위터.md "wikilink") 상에서 쓰이는 경우를 심심찮게 볼 수 있다.
 
 ## 같이 보기
 

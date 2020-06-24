@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [러브 FM \(일본\)](https://ko.wikipedia.org/wiki/러브_FM_\(일본\)).
 
 
-**[러브 FM](https://ko.wikipedia.org/wiki/러브_FM "wikilink")**은 **러브 FM 국제 방송** 주식회사가 운영하는 [일본](../Page/일본.md "wikilink")의 FM 라디오 방송국으로 [규슈](../Page/규슈.md "wikilink") 지역의 외국어 방송구역인 [후쿠오카 시](https://ko.wikipedia.org/wiki/후쿠오카_시 "wikilink") · [기타큐슈 시](https://ko.wikipedia.org/wiki/기타큐슈_시 "wikilink") · [구루메 시](https://ko.wikipedia.org/wiki/구루메_시 "wikilink") · [오무타 시](https://ko.wikipedia.org/wiki/오무타_시 "wikilink") · [사가 시에서](https://ko.wikipedia.org/wiki/사가_시 "wikilink") 방송을 실시하고 있다. 일본에 4 국 **외국어 FM 방송**의 하나로, 현재 [영어](../Page/영어.md "wikilink"), [중국어](../Page/중국어.md "wikilink"), [한국어](../Page/한국어.md "wikilink") 등 8개 언어로 방송되고 있다.
+**[러브 FM](https://ko.wikipedia.org/wiki/러브_FM "wikilink")**은 **러브 FM 국제 방송** 주식회사가 운영하는 [일본](../Page/일본.md "wikilink")의 FM 라디오 방송국으로 [규슈](../Page/규슈.md "wikilink") 지역의 외국어 방송구역인 [후쿠오카시](../Page/후쿠오카시.md "wikilink") · [기타큐슈시](../Page/기타큐슈시.md "wikilink") · [구루메시](../Page/구루메시.md "wikilink") · [오무타시](../Page/오무타시.md "wikilink") · [사가시](../Page/사가시.md "wikilink")에서 방송을 실시하고 있다. 일본에 4 국 **외국어 FM 방송**의 하나로, 현재 [영어](../Page/영어.md "wikilink"), [중국어](../Page/중국어.md "wikilink"), [한국어](../Page/한국어.md "wikilink") 등 8개 언어로 방송되고 있다.
 
 [1997년](../Page/1997년.md "wikilink") [4월 1일에](../Page/4월_1일.md "wikilink") 개국하였으며, 애칭은 Love FM, 콜사인은 JOFW-FM이다.
 

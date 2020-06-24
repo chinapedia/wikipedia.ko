@@ -35,4 +35,4 @@ MXML은 어도비의 기술과 단단히 통합되어 있기 때문에 독점적
   - [Flex 빠른 시작 가이드: 시작하기](https://web.archive.org/web/20070923072513/http://www.adobe.com/kr/devnet/flex/quickstart/coding_with_mxml_and_actionscript/): 어도비 개발자 센터
   - <https://web.archive.org/web/20090525075722/http://try.flex.org/> : 위의 예제가 실제 플래시 응용으로 어떻게 컴파일되는지 확인하려면 소스를 복사하여 이 사이트의 문서 편집 창에 붙여 넣으면 된다.
 
-[분류:마크업 언어](https://ko.wikipedia.org/wiki/분류:마크업_언어 "wikilink") [분류:XML 기반 표준](https://ko.wikipedia.org/wiki/분류:XML_기반_표준 "wikilink") [분류:웹 개발 소프트웨어](https://ko.wikipedia.org/wiki/분류:웹_개발_소프트웨어 "wikilink")
+[분류:마크업 언어](https://ko.wikipedia.org/wiki/분류:마크업_언어 "wikilink") [분류:XML 기반 표준](https://ko.wikipedia.org/wiki/분류:XML_기반_표준 "wikilink") [분류:웹 개발 소프트웨어](https://ko.wikipedia.org/wiki/분류:웹_개발_소프트웨어 "wikilink") [분류:선언형 프로그래밍 언어](https://ko.wikipedia.org/wiki/분류:선언형_프로그래밍_언어 "wikilink")

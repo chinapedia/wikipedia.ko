@@ -160,7 +160,6 @@ KBS 본사의 프로그램 및 KBS창원 보도 프로그램과 KBS진주의 자
 
   - [MBC경남 진주본부](https://ko.wikipedia.org/wiki/MBC경남_진주본부 "wikilink")
   - [KNN](../Page/KNN.md "wikilink")
-  - [터닝메카드 W](../Page/터닝메카드_W.md "wikilink")
 
 ## 각주
 

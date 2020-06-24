@@ -159,7 +159,7 @@
 <!-- end list -->
 
   - [1월](../Page/1월.md "wikilink") -【라디오】생방송 전용 스튜디오 「V스튜디오」운용 개시.
-  - [3월](../Page/3월.md "wikilink") - [아오모리 시에](https://ko.wikipedia.org/wiki/아오모리_시 "wikilink") 도호쿠 지국 개설(현재는 [센다이 시](https://ko.wikipedia.org/wiki/센다이_시 "wikilink") 아오바구 로 이전) .
+  - [3월](../Page/3월.md "wikilink") - [아오모리시](../Page/아오모리시.md "wikilink")에 도호쿠 지국 개설(현재는 [센다이시](../Page/센다이시.md "wikilink") 아오바구 로 이전) .
   - [4월](../Page/4월.md "wikilink") -【라디오】아사히카와·하코다테·무로란·아바시리·오비히로·쿠시로 방송국의 송신출력을 증력(3월까지는 모두 1kw였다.).
 
 <!-- end list -->

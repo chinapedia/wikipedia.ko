@@ -206,9 +206,9 @@
   - [임지윤](https://ko.wikipedia.org/wiki/임지윤 "wikilink"):[2011년](../Page/2011년.md "wikilink")(프리랜서) 입사(현 퇴사)
   - [강승희](https://ko.wikipedia.org/wiki/강승희_\(아나운서\) "wikilink"):[2013년](../Page/2013년.md "wikilink")(프리랜서) 입사(현 [KBS 경인방송센터](https://ko.wikipedia.org/wiki/KBS_경인방송센터 "wikilink"))
   - [최인희](../Page/최인희.md "wikilink"):[2013년](../Page/2013년.md "wikilink")(프리랜서) 입사(현 [KBS 청주방송총국](https://ko.wikipedia.org/wiki/KBS_청주방송총국 "wikilink"))
-  - [김지원](https://ko.wikipedia.org/wiki/김지원_\(1988년_아나운서\) "wikilink"):[2015년](../Page/2015년.md "wikilink")(프리랜서) 입사(현 [롯데홈쇼핑](https://ko.wikipedia.org/wiki/롯데홈쇼핑 "wikilink"))
-  - [조민경](https://ko.wikipedia.org/wiki/조민경 "wikilink"):[2017년](../Page/2017년.md "wikilink")(프리랜서) 입사(현 [대전MBC](https://ko.wikipedia.org/wiki/대전MBC "wikilink"))
-  - [김수연](../Page/김수연_\(1990년\).md "wikilink"):[2018년](../Page/2018년.md "wikilink")(프리랜서) 입사\~2019.5 (현 [KBS46기 춘천방송총국](https://ko.wikipedia.org/wiki/KBS46기_춘천방송총국 "wikilink") 아나운서)
+  - [김지원](https://ko.wikipedia.org/wiki/김지원_\(1988년_아나운서\) "wikilink"):[2015년](../Page/2015년.md "wikilink")(프리랜서) 입사(현 [롯데홈쇼핑](../Page/우리홈쇼핑.md "wikilink"))
+  - [조민경](https://ko.wikipedia.org/wiki/조민경 "wikilink"):[2017년](../Page/2017년.md "wikilink")(프리랜서) 입사(현 [대전MBC](../Page/대전문화방송.md "wikilink"))
+  - [김수연](../Page/김수연_\(1990년\).md "wikilink"):[2018년](../Page/2018년.md "wikilink")(프리랜서) 입사\~2019.5 (현 [KBS 춘천방송총국](https://ko.wikipedia.org/wiki/KBS_춘천방송총국 "wikilink") 아나운서)
 
 ## 인근의 타 방송사
 

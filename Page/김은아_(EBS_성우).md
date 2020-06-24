@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [김은아 \(EBS 성우\)](https://ko.wikipedia.org/wiki/김은아_\(EBS_성우\)).
 
 
-**김은아**([1976년](../Page/1976년.md "wikilink") [2월 7일](../Page/2월_7일.md "wikilink") \~ )는 [대한민국](../Page/대한민국.md "wikilink")의 [성우](../Page/성우.md "wikilink")이다. [2004년](../Page/2004년.md "wikilink") [EBS](https://ko.wikipedia.org/wiki/EBS "wikilink") 20기 공채 성우로 데뷔하였다.남편은 성우 [방성준](../Page/방성준.md "wikilink")이다.동명이인선배인 KBS성우[김은아는](../Page/김은아_\(KBS_성우\).md "wikilink") 2000년이후로 거의 활동한적이 없어서 많은 성우들이 누가 김은아인지 알수가 없다.오직 [EBS](https://ko.wikipedia.org/wiki/EBS "wikilink")에서만 2000년 이후로도 활동하는 성우이면 MBC성우 [방성준](../Page/방성준.md "wikilink")의 아내이다. 그녀는 안경을 끼고 다니는 성우이다.
+**김은아**([1976년](../Page/1976년.md "wikilink") [2월 7일](../Page/2월_7일.md "wikilink") \~ )는 [대한민국](../Page/대한민국.md "wikilink")의 [성우](../Page/성우.md "wikilink")이다. 2004년 [EBS](https://ko.wikipedia.org/wiki/EBS "wikilink") 20기 공채 성우로 데뷔하였다.남편은 성우 [방성준](../Page/방성준.md "wikilink")이다. 동명이인 선배인 KBS 성우 [김은아는](../Page/김은아_\(KBS_성우\).md "wikilink") 2000년 이후로 거의 활동한적이 없어서 많은 성우들이 누가 김은아인지 알수가 없다.오직 [EBS](https://ko.wikipedia.org/wiki/EBS "wikilink")에서만 2000년 이후로도 활동하는 성우이면 MBC성우 [방성준](../Page/방성준.md "wikilink")의 아내이다. 그녀는 안경을 끼고 다니는 성우이다.
 
 ## 출연 작품
 
@@ -59,6 +59,7 @@
   - [잭과 콩나무](https://ko.wikipedia.org/wiki/잭과_콩나무 "wikilink") (애니박스) - 딜리
   - [잭과 팡](https://ko.wikipedia.org/wiki/잭과_팡 "wikilink") (EBS) - 라미
   - [캐니멀](../Page/캐니멀.md "wikilink") (EBS)
+  - [캐치\! 티니핑](https://ko.wikipedia.org/wiki/캐치!_티니핑 "wikilink") - 사라, 아잉핑
   - [캣피시 블루스](https://ko.wikipedia.org/wiki/캣피시_블루스 "wikilink") (EBS) - 릴리
   - [크로스 게임](../Page/크로스_게임.md "wikilink") (EBS) - 오은아
   - [클라나드](https://ko.wikipedia.org/wiki/클라나드 "wikilink") (애니박스) - 후지바야시 료
@@ -81,6 +82,7 @@
 ### 외화
 
   - [공룡캠프의 비밀](https://ko.wikipedia.org/wiki/공룡캠프의_비밀 "wikilink") (EBS)
+  - [꿀꿀\! 페파는 즐거워](https://ko.wikipedia.org/wiki/꿀꿀!_페파는_즐거워 "wikilink") (EBS) - 조지
   - [남과 북](https://ko.wikipedia.org/wiki/남과_북 "wikilink") (EBS) - 페니
   - [로저의 단짝친구들](https://ko.wikipedia.org/wiki/로저의_단짝친구들 "wikilink") (EBS) - 피비
   - [이브](../Page/이브_\(드라마\).md "wikilink")([EBS](https://ko.wikipedia.org/wiki/EBS "wikilink")) - 릴리
@@ -126,4 +128,4 @@
 
   - [교육방송 성우극회 김은아 프로필](https://web.archive.org/web/20160304221341/http://voice.ebs.co.kr/?doc=bbs%2Fvoice%2Fsearch_view.php&idx=62)
 
-[분류:대한민국의 여자 성우](https://ko.wikipedia.org/wiki/분류:대한민국의_여자_성우 "wikilink") [분류:1976년 태어남](https://ko.wikipedia.org/wiki/분류:1976년_태어남 "wikilink") [분류:살아있는 사람](https://ko.wikipedia.org/wiki/분류:살아있는_사람 "wikilink") [분류:2004년 데뷔](https://ko.wikipedia.org/wiki/분류:2004년_데뷔 "wikilink")
+[분류:대한민국의 여자 성우](https://ko.wikipedia.org/wiki/분류:대한민국의_여자_성우 "wikilink") [분류:1976년 태어남](https://ko.wikipedia.org/wiki/분류:1976년_태어남 "wikilink") [분류:살아있는 사람](https://ko.wikipedia.org/wiki/분류:살아있는_사람 "wikilink")

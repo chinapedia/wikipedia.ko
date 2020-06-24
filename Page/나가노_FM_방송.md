@@ -3,7 +3,7 @@
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:FM_Nagano_Main_office.jpg "wikilink") **나가노 FM방송**은 일본의 FM라디오 방송국으로 [1988년](../Page/1988년.md "wikilink") [10월 1일](../Page/10월_1일.md "wikilink") 개국했으며 [나가노현](../Page/나가노현.md "wikilink")에서 방송을 실시하고 있다.
 
-[JFN](../Page/JFN.md "wikilink")에 가맹했으며 애칭은 FM나가노(FM長野), 콜사인은 JOZU-FM이며 [마쓰모토 시에](https://ko.wikipedia.org/wiki/마쓰모토_시 "wikilink") 본사를 두고 있다.
+[JFN](../Page/JFN.md "wikilink")에 가맹했으며 애칭은 FM나가노(FM長野), 콜사인은 JOZU-FM이며 [마쓰모토시](../Page/마쓰모토시.md "wikilink")에 본사를 두고 있다.
 
 ## 연혁
 
@@ -27,7 +27,7 @@
 
 ## 보충서술
 
-  - [나가노현](../Page/나가노현.md "wikilink") 전역을 방송구역으로 하는 방송국 중 유일하게 본사와 연주소가 [마쓰모토 시에](https://ko.wikipedia.org/wiki/마쓰모토_시 "wikilink") 있다.\[1\]
+  - [나가노현](../Page/나가노현.md "wikilink") 전역을 방송구역으로 하는 방송국 중 유일하게 본사와 연주소가 [마쓰모토시](../Page/마쓰모토시.md "wikilink")에 있다.\[1\]
 
 ## [나가노현](../Page/나가노현.md "wikilink")에 있는 다른 텔레비전·라디오 방송국
 

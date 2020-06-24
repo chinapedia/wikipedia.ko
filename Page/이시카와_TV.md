@@ -11,8 +11,8 @@
   - [1969년](../Page/1969년.md "wikilink") [4월 1일](../Page/4월_1일.md "wikilink") 이시카와현 2번째 민영 텔레비전 방송국으로 개국.
   - [1970년](../Page/1970년.md "wikilink") [12월](../Page/12월.md "wikilink") 지역뉴스 컬러제작 시작.
   - [2006년](../Page/2006년.md "wikilink") [7월 1일](../Page/7월_1일.md "wikilink") 지상파 디지털 텔레비전 방송 개시
-  - [2009년](../Page/2009년.md "wikilink") [7월 24일](../Page/7월_24일.md "wikilink") [스즈 시에서](https://ko.wikipedia.org/wiki/스즈_시 "wikilink") 오전 10부터 11시까지 [NHK 가나자와 방송국](../Page/NHK_가나자와_방송국.md "wikilink") 및 다른 민영 텔레비전 방송국과 공동으로 시험적으로 아날로그 텔레비전 방송 중단.
-  - [2010년](../Page/2010년.md "wikilink") [7월 24일](../Page/7월_24일.md "wikilink") [스즈 시에서](https://ko.wikipedia.org/wiki/스즈_시 "wikilink") 지상파 아날로그 텔레비전 방송 선행 종료.
+  - [2009년](../Page/2009년.md "wikilink") [7월 24일](../Page/7월_24일.md "wikilink") [스즈시](../Page/스즈시.md "wikilink")에서 오전 10부터 11시까지 [NHK 가나자와 방송국](../Page/NHK_가나자와_방송국.md "wikilink") 및 다른 민영 텔레비전 방송국과 공동으로 시험적으로 아날로그 텔레비전 방송 중단.
+  - [2010년](../Page/2010년.md "wikilink") [7월 24일](../Page/7월_24일.md "wikilink") [스즈시](../Page/스즈시.md "wikilink")에서 지상파 아날로그 텔레비전 방송 선행 종료.
   - [2011년](../Page/2011년.md "wikilink") [7월 24일](../Page/7월_24일.md "wikilink") 지상파 아날로그 텔레비전 방송 종료.
 
 ## 네트워크 변천

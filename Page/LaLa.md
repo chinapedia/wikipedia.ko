@@ -42,4 +42,4 @@
 
   -
 
-[분류:LaLa](https://ko.wikipedia.org/wiki/분류:LaLa "wikilink") [분류:일본의 만화 잡지](https://ko.wikipedia.org/wiki/분류:일본의_만화_잡지 "wikilink") [분류:하쿠센샤의 만화 잡지](https://ko.wikipedia.org/wiki/분류:하쿠센샤의_만화_잡지 "wikilink") [분류:1976년 창간](https://ko.wikipedia.org/wiki/분류:1976년_창간 "wikilink")
+[LaLa](https://ko.wikipedia.org/wiki/분류:LaLa "wikilink") [분류:일본의 만화 잡지](https://ko.wikipedia.org/wiki/분류:일본의_만화_잡지 "wikilink") [분류:하쿠센샤의 만화 잡지](https://ko.wikipedia.org/wiki/분류:하쿠센샤의_만화_잡지 "wikilink") [분류:1976년 창간](https://ko.wikipedia.org/wiki/분류:1976년_창간 "wikilink") [분류:하나토유메](https://ko.wikipedia.org/wiki/분류:하나토유메 "wikilink")

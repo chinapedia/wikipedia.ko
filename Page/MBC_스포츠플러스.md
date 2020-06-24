@@ -9,29 +9,54 @@
 
 ## 소속 아나운서
 
-### MBC PLUS 소속 아나운서
+### <MBC PLUS 소속 아나운서>
 
-  - [한명재](../Page/한명재.md "wikilink")
-  - [김선신](../Page/김선신.md "wikilink")
-  - [김수환](https://ko.wikipedia.org/wiki/김수환_\(아나운서\) "wikilink")
-  - [박지영](../Page/박지영_\(아나운서\).md "wikilink")
-  - 손우주
+〉**<big>2001년\~2010년 (MBC ESPN)</big>**
+
+  - [임주완](../Page/임주완_\(아나운서\).md "wikilink")(2001년\~2011년)
+  - [한명재](../Page/한명재.md "wikilink")(2001년\~현재)
+  - [신승대](https://ko.wikipedia.org/wiki/신승대 "wikilink")(2001년\~현재)
+  - [이홍섭](https://people.search.naver.com/search.naver?where=nexearch&sm=tab_ppn&query=%EC%95%84%EB%82%98%EC%9A%B4%EC%84%9C%EC%9D%B4%ED%99%8D%EC%84%AD&os=179818&ie=utf8&key=PeopleService)(2002년\~2007년)
+  - [김수한](https://people.search.naver.com/search.naver?where=nexearch&query=%EA%B9%80%EC%88%98%ED%95%9C&sm=tab_etc&ie=utf8&key=PeopleService&os=112195)(2001년\~2006년)
+  - [이정민](https://people.search.naver.com/search.naver?where=nexearch&query=%EC%9D%B4%EC%A0%95%EB%AF%BC&sm=tab_etc&ie=utf8&key=PeopleService&os=148021)(2002년\~2010년)
+  - [정우영](https://people.search.naver.com/search.naver?where=nexearch&query=%EC%A0%95%EC%9A%B0%EC%98%81&sm=tab_etc&ie=utf8&key=PeopleService&os=148030)(2003년\~2013년, 현 SBS 스포츠)
+  - [이명진](https://people.search.naver.com/search.naver?where=nexearch&query=%EC%9D%B4%EB%AA%85%EC%A7%84&sm=tab_etc&ie=utf8&key=PeopleService&os=148029)(2003\~2010년, 현 MBC 기자)
+  - [안진희](https://people.search.naver.com/search.naver?where=nexearch&query=%EC%95%88%EC%A7%84%ED%9D%AC&sm=tab_etc&ie=utf8&key=PeopleService&os=148014)(2002년\~2010년)
+
+〉**<big>2010\~현재(MBC 스포츠 플러스)</big>**
+
   - [신승대](https://ko.wikipedia.org/wiki/신승대 "wikilink")
+  - [한명재](../Page/한명재.md "wikilink")
   - [정병문](https://ko.wikipedia.org/wiki/정병문 "wikilink")
+  - [김선신](../Page/김선신.md "wikilink")
   - [정용검](https://ko.wikipedia.org/wiki/정용검 "wikilink")
+  - [김수환](https://ko.wikipedia.org/wiki/김수환_\(아나운서\) "wikilink")
+  - [손우주](https://people.search.naver.com/search.naver?where=nexearch&query=%EC%86%90%EC%9A%B0%EC%A3%BC&sm=tab_etc&ie=utf8&key=PeopleService&os=738965)
+  - [박지영](../Page/박지영_\(아나운서\).md "wikilink")
 
 <!-- end list -->
 
   - 이정호
   - 김민준
-  - [정순주](../Page/정순주.md "wikilink")
-  - 유대현
   - 한장희
   - [정새미나](https://ko.wikipedia.org/wiki/정새미나 "wikilink")
-  - 최은지
   - [김희주](https://ko.wikipedia.org/wiki/김희주 "wikilink")
-  - 한재웅
   - 이유빈
+  - 이인환
+  - [박용식](https://people.search.naver.com/search.naver?where=nexearch&sm=tab_ppn&query=%EB%B0%95%EC%9A%A9%EC%8B%9D&os=3783185&ie=utf8&key=PeopleService)
+  - [이대현](https://people.search.naver.com/search.naver?where=nexearch&sm=tab_ppn&query=%EC%9D%B4%EB%8C%80%ED%98%84&os=5308017&ie=utf8&key=PeopleService)
+
+〉**<big>이직 아나운서</big>**
+
+• [김민아](../Page/김민아.md "wikilink")(현 SBS스포츠) • [정순주](../Page/정순주.md "wikilink")(현 JTBC) • [장예인](../Page/장예인.md "wikilink")(현 채널A)
+
+• [최은지](https://people.search.naver.com/search.naver?where=nexearch&sm=tab_ppn&query=%EC%B5%9C%EC%9D%80%EC%A7%80&os=14007526&ie=utf8&key=PeopleService)(현 TV조선) • [윤동현](https://people.search.naver.com/search.naver?where=nexearch&query=%EC%9C%A4%EB%8F%99%ED%98%84&sm=tab_etc&ie=utf8&key=PeopleService&os=5258314)(현 경남MBC)
+
+• [정우영](https://people.search.naver.com/search.naver?where=nexearch&query=%EC%A0%95%EC%9A%B0%EC%98%81&sm=tab_etc&ie=utf8&key=PeopleService&os=148030)(2003년\~2013년, 현 SBS 스포츠) • [이명진](https://people.search.naver.com/search.naver?where=nexearch&query=%EC%9D%B4%EB%AA%85%EC%A7%84&sm=tab_etc&ie=utf8&key=PeopleService&os=148029)(2003\~2010년, 현 MBC 기자) • [김민광](https://people.search.naver.com/search.naver?where=nexearch&sm=tab_ppn&query=%EA%B9%80%EB%AF%BC%EA%B4%91&os=285823&ie=utf8&key=PeopleService)(현 MBN 앵커)
+
+[• 배지현](../Page/배지현.md "wikilink") • [이주원](https://people.search.naver.com/search.naver?where=nexearch&sm=tab_ppn&query=%EC%9D%B4%EC%A3%BC%EC%9B%90&os=568415&ie=utf8&key=PeopleService) • [문규리](https://people.search.naver.com/search.naver?where=nexearch&query=%EB%AC%B8%EA%B7%9C%EB%A6%AC&sm=tab_etc&ie=utf8&key=PeopleService&os=484237) • [조민주](https://people.search.naver.com/search.naver?where=nexearch&sm=tab_ppn&query=%EC%A1%B0%EB%AF%BC%EC%A3%BC&os=240181&ie=utf8&key=PeopleService)
+
+• (故)[송지선](https://people.search.naver.com/search.naver?where=nexearch&sm=tab_ppn&query=%EC%86%A1%EC%A7%80%EC%84%A0&os=155473&ie=utf8&key=PeopleService)(2010년\~2011년)
 
 ### 소속 해설위원
 
@@ -47,7 +72,7 @@
 
 <!-- end list -->
 
-  - 축구 : [이상윤](https://ko.wikipedia.org/wiki/이상윤 "wikilink"), [서형욱](../Page/서형욱.md "wikilink"), [이주헌](https://ko.wikipedia.org/wiki/이주헌 "wikilink"), [박건하](../Page/박건하.md "wikilink"), [송종국](../Page/송종국.md "wikilink")
+  - 축구 : [이상윤](https://ko.wikipedia.org/wiki/이상윤 "wikilink"), [서형욱](../Page/서형욱.md "wikilink"), [이주헌](https://ko.wikipedia.org/wiki/이주헌 "wikilink"), [송종국](../Page/송종국.md "wikilink"), [박종윤](../Page/박종윤_\(아나운서\).md "wikilink")
 
 <!-- end list -->
 
@@ -79,7 +104,7 @@
 
 <!-- end list -->
 
-  - 복싱 : [유명우](../Page/유명우.md "wikilink")
+  - 복싱 : [유명우](../Page/유명우.md "wikilink"), 이상호
 
 <!-- end list -->
 
@@ -101,6 +126,7 @@
   - [오스트레일리안 베이스볼 리그](https://ko.wikipedia.org/wiki/오스트레일리안_베이스볼_리그 "wikilink")
   - [K리그](../Page/K리그.md "wikilink")
   - [내셔널 풋볼 리그](../Page/내셔널_풋볼_리그.md "wikilink")
+  - UMB 당구대회
 
 ## 같이 보기
 

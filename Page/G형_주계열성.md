@@ -53,7 +53,7 @@ G7, G9 분광형의 기준별로 합의된 항성은 아직까지 없다.
 [G형_주계열성](https://ko.wikipedia.org/wiki/분류:G형_주계열성 "wikilink") [분류:항성의 형태](https://ko.wikipedia.org/wiki/분류:항성의_형태 "wikilink") [분류:주계열성](https://ko.wikipedia.org/wiki/분류:주계열성 "wikilink")
 
 1.   \[<http://adsabs.harvard.edu/abs/1981A&AS>...46..193H Empirical bolometric corrections for the main-sequence\], G. M. H. J. Habets and J. R. W. Heintze, *Astronomy and Astrophysics Supplement* **46** (1981-11), pp. 193 \~ 237.
-2.   [Stellar Evolution: Main Sequence to Giant](http://physics.valpo.edu/courses/a101/notes/070409_LowMass.pdf), class notes, Astronomy 101, Valparaiso University
+2.   [Stellar Evolution: Main Sequence to Giant](http://physics.valpo.edu/courses/a101/notes/070409_LowMass.pdf) , class notes, Astronomy 101, Valparaiso University
 3.   [Why Does The Sun Shine?](http://www.astronomy.ohio-state.edu/~ryden/ast162_1/notes2.html), lecture, Barbara Ryden, Astronomy 162, Ohio State University
 4.   [Sun](http://www.ari.uni-heidelberg.de/aricns/cnspages/4c00001.htm) , ARICNS 목록에서 발췌.
 5.   [Alpha Centauri A](http://simbad.u-strasbg.fr/simbad/sim-id?Ident=Alpha+Centauri+A), [SIMBAD](https://ko.wikipedia.org/wiki/SIMBAD "wikilink") 질의 결과

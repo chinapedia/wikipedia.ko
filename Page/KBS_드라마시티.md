@@ -9,7 +9,7 @@
 
 ## 작품 리스트
 
-※ 아래의 프로그램들은 [한국방송공사](../Page/한국방송공사.md "wikilink")에서 시행중인 [2002년](../Page/2002년.md "wikilink") 금연 캠페인 시행 이전에 제작 및 방영한 작품들로 부득이하게 일부 장면에서 흡연 장면 및 담배 소품 등이 노출될 수 있습니다. 시청자 여러분들의 양해를 부탁드립니다.
+  - 아래의 프로그램들은 [2002년](../Page/2002년.md "wikilink") [11월](../Page/11월.md "wikilink") 이후에 [시청 등급 제도를](../Page/대한민국의_텔레비전_등급_제도.md "wikilink") 시행하여, 현재까지 이어지고 있다.
 
 ### 2000년
 
@@ -234,8 +234,8 @@
 <td><p>26</p></td>
 <td><p>11월 22일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/순정만화처럼" title="wikilink">순정만화처럼</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/박지영" title="wikilink">박지영</a>, <a href="https://ko.wikipedia.org/wiki/조인성" title="wikilink">조인성</a>, 이청, <a href="https://ko.wikipedia.org/wiki/김민주" title="wikilink">김민주</a>, <br />
-한진주, 허정규, <a href="../Page/이태리_(배우).md" title="wikilink">이민호</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/박지영" title="wikilink">박지영</a>, <a href="https://ko.wikipedia.org/wiki/조인성" title="wikilink">조인성</a>, 이청, <a href="https://ko.wikipedia.org/wiki/김민주" title="wikilink">김민주</a>,<br />
+한진주, 허정규, <a href="../Page/이태리_(배우).md" title="wikilink">이민호</a></p></td>
 <td><p>신혜진</p></td>
 <td><p>전기상</p></td>
 </tr>
@@ -470,7 +470,7 @@
 <td><p>52</p></td>
 <td><p>7월 1일</p></td>
 <td><p>사랑하라, 희망없이</p></td>
-<td><p><a href="../Page/공효진.md" title="wikilink">공효진</a></p></td>
+<td><p><a href="../Page/임채원.md" title="wikilink">임경옥</a>, <a href="../Page/공효진.md" title="wikilink">공효진</a>, <a href="../Page/최재원_(배우).md" title="wikilink">최재원</a></p></td>
 <td><p>유은미</p></td>
 <td></td>
 </tr>
@@ -644,7 +644,7 @@
 <td><p>12월 2일</p></td>
 <td><p>동행</p></td>
 <td><p><a href="../Page/최수린.md" title="wikilink">최수린</a>, <a href="../Page/김승환_(배우).md" title="wikilink">김승환</a>, <a href="../Page/임채원.md" title="wikilink">임경옥</a>, <a href="../Page/이한위.md" title="wikilink">이한위</a>,<br />
-<a href="https://ko.wikipedia.org/wiki/이원희_(배우)" title="wikilink">이원희</a>, <a href="../Page/송수영_(배우).md" title="wikilink">송수영</a></p></td>
+이원희, <a href="../Page/송수영_(배우).md" title="wikilink">송수영</a></p></td>
 <td><p>전보경</p></td>
 <td><p>전기상</p></td>
 </tr>
@@ -783,7 +783,7 @@
 <td><p>87</p></td>
 <td><p>3월 31일</p></td>
 <td><p><a href="../Page/아름다운_청춘.md" title="wikilink">아름다운 청춘</a></p></td>
-<td><p><a href="../Page/연정훈.md" title="wikilink">연정훈</a>, <a href="https://ko.wikipedia.org/wiki/김흥수_(배우)" title="wikilink">김흥수</a>, <a href="https://ko.wikipedia.org/wiki/강태성" title="wikilink">강태성</a>, <a href="../Page/김갑수_(배우).md" title="wikilink">김갑수</a>,<br />
+<td><p><a href="../Page/연정훈.md" title="wikilink">연정훈</a>, <a href="https://ko.wikipedia.org/wiki/김흥수_(배우)" title="wikilink">김흥수</a>, <a href="../Page/강성민_(배우).md" title="wikilink">강성민</a>, <a href="../Page/김갑수_(배우).md" title="wikilink">김갑수</a>,<br />
 <a href="../Page/허인범.md" title="wikilink">허인범</a></p></td>
 <td><p><a href="../Page/진수완.md" title="wikilink">진수완</a></p></td>
 <td><p><a href="../Page/김용수_(연출가).md" title="wikilink">김용수</a></p></td>
@@ -2039,7 +2039,7 @@
 <td><p>221</p></td>
 <td><p>1월 16일</p></td>
 <td><p>프리지어, 곰인형, 핫초코 그리고...</p></td>
-<td><p><a href="../Page/남상미.md" title="wikilink">남상미</a>, <a href="https://ko.wikipedia.org/wiki/강태성" title="wikilink">강태성</a>, <a href="../Page/이혜미.md" title="wikilink">이혜미</a></p></td>
+<td><p><a href="../Page/남상미.md" title="wikilink">남상미</a>, <a href="../Page/강성민_(배우).md" title="wikilink">강성민</a>, <a href="../Page/이혜미.md" title="wikilink">이혜미</a></p></td>
 <td><p>권기영</p></td>
 <td><p>김정규</p></td>
 </tr>
@@ -3141,7 +3141,7 @@
 <td><p>341</p></td>
 <td><p>9월 8일</p></td>
 <td><p>이중장부 살인사건</p></td>
-<td><p><a href="../Page/안석환.md" title="wikilink">안석환</a>, <a href="https://ko.wikipedia.org/wiki/강성민" title="wikilink">강성민</a>, 전예서, 남명렬,<br />
+<td><p><a href="../Page/안석환.md" title="wikilink">안석환</a>, <a href="../Page/강성민_(배우).md" title="wikilink">강성민</a>, 전예서, 남명렬,<br />
 <a href="https://ko.wikipedia.org/wiki/이종구" title="wikilink">이종구</a>, <a href="../Page/이대연.md" title="wikilink">이대연</a></p></td>
 <td><p>김태희</p></td>
 <td><p>김원석</p></td>

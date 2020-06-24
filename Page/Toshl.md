@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Toshl](https://ko.wikipedia.org/wiki/Toshl).
 
 
-**토시** (Toshl)는 [일본](../Page/일본.md "wikilink")의 [가수](https://ko.wikipedia.org/wiki/가수 "wikilink")이다. 일본의 [록 밴드](https://ko.wikipedia.org/wiki/록_밴드 "wikilink") [엑스 재팬의](https://ko.wikipedia.org/wiki/엑스_재팬 "wikilink") 보컬로, 본명은 **데야마 토시미츠**(出山利三). [1965년](../Page/1965년.md "wikilink") [10월 10일](../Page/10월_10일.md "wikilink") [일본](../Page/일본.md "wikilink") [지바현](../Page/지바현.md "wikilink") [다테야마 시에서](https://ko.wikipedia.org/wiki/다테야마_시 "wikilink") 태어났다. 그의 본명의 토시미츠에서 삼(三)자가 셋째라는 것을 의미한다.
+**토시** (Toshl)는 [일본](../Page/일본.md "wikilink")의 [가수](https://ko.wikipedia.org/wiki/가수 "wikilink")이다. 일본의 [록 밴드](https://ko.wikipedia.org/wiki/록_밴드 "wikilink") [엑스 재팬의](https://ko.wikipedia.org/wiki/엑스_재팬 "wikilink") 보컬로, 본명은 **데야마 토시미츠**(出山利三). [1965년](../Page/1965년.md "wikilink") [10월 10일](../Page/10월_10일.md "wikilink") [일본](../Page/일본.md "wikilink") [지바현](../Page/지바현.md "wikilink") [다테야마시](../Page/다테야마시.md "wikilink")에서 태어났다. 그의 본명의 토시미츠에서 삼(三)자가 셋째라는 것을 의미한다.
 
 ## 생애
 

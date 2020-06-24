@@ -13,10 +13,10 @@
 
 ## 방송 채널
 
-  - [MBC 스포츠+](../Page/MBC_스포츠플러스.md "wikilink"): 스포츠 프로그램을 주로 편성하는 스포츠 전문 채널이다.
   - [MBC 드라마넷](../Page/MBC_드라마넷.md "wikilink"): 드라마 프로그램을 주로 편성하는 드라마 전문 채널이다.
   - [MBC 에브리원](../Page/MBC_에브리원.md "wikilink"): 예능 프로그램을 주로 편성하는 예능 전문 채널이다.
   - [MBC M](https://ko.wikipedia.org/wiki/MBC_M "wikilink"): 디지털 엔터테인먼트 프로그램을 주로 편성하는 컨텐츠 전문 채널이다.
+  - [MBC 스포츠+](../Page/MBC_스포츠플러스.md "wikilink"): 스포츠 프로그램을 주로 편성하는 스포츠 전문 채널이다.
   - [MBC ON](../Page/MBC_ON.md "wikilink"): 드라마 및 오락 프로그램을 주로 편성하는 채널이다.
   - MBC 에브리원 글로벌 채널: 미국 전역으로 방송되는 채널 (하와이, 알래스카 포함)
   - all the K-POP: 전세계 온라인 아이돌 콘텐츠 방송

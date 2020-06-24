@@ -20,6 +20,7 @@
   - [2019년 제12회 대한민국 인터넷소통대상](http://kicoa.or.kr/) - 중앙행정기관 부문 '대상' 수상 (온라인콘텐츠부)
   - [2019년 제12회 대한민국 공감콘텐츠대상](http://kicoa.or.kr/) - 중앙행정기관 부문 '대상' 수상 (온라인콘텐츠부)
   - [2019년 제5회 올해의 SNS](http://yearsns.com/) - 공기업/비영리 YouTube 부문 '대상' 수상 (온라인콘텐츠부)
+  - [2020년](../Page/2020년.md "wikilink") [6월 1일](../Page/6월_1일.md "wikilink") [삼양식품](../Page/삼양식품.md "wikilink") 계약 \[1\]
 
 ### 로고송
 
@@ -296,6 +297,8 @@
 
 ## 외부 링크
 
-  - [KTV 국민방송](https://web.archive.org/web/20190812233041/http://www.ktv.co.kr/)
+  - [KTV 국민방송](http://www.ktv.go.kr/)
 
 [분류:대한민국 문화체육관광부](https://ko.wikipedia.org/wiki/분류:대한민국_문화체육관광부 "wikilink") [분류:1995년 설립된 텔레비전 방송국과 채널](https://ko.wikipedia.org/wiki/분류:1995년_설립된_텔레비전_방송국과_채널 "wikilink") [분류:대한민국의 텔레비전 케이블 방송국](https://ko.wikipedia.org/wiki/분류:대한민국의_텔레비전_케이블_방송국 "wikilink")
+
+1.  협조 바랍니다

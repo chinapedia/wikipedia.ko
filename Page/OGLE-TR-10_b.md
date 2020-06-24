@@ -22,4 +22,4 @@
   - [OGLE transit data](http://sirius.astrouw.edu.pl/~ogle/ogle3/transits/OGLE-TR-10.html)
   - [Geneva Observatory data](http://obswww.unige.ch/Exoplanets/ogle10.html)
 
-[분류:궁수자리](https://ko.wikipedia.org/wiki/분류:궁수자리 "wikilink") [분류:외계 행성](https://ko.wikipedia.org/wiki/분류:외계_행성 "wikilink") [분류:2004년 발견한 외계 행성](https://ko.wikipedia.org/wiki/분류:2004년_발견한_외계_행성 "wikilink") [분류:뜨거운 목성](https://ko.wikipedia.org/wiki/분류:뜨거운_목성 "wikilink") [분류:목성형 행성](https://ko.wikipedia.org/wiki/분류:목성형_행성 "wikilink")
+[분류:궁수자리](https://ko.wikipedia.org/wiki/분류:궁수자리 "wikilink") [분류:외계 행성](https://ko.wikipedia.org/wiki/분류:외계_행성 "wikilink") [분류:2004년 발견한 외계 행성](https://ko.wikipedia.org/wiki/분류:2004년_발견한_외계_행성 "wikilink") [분류:뜨거운 목성](https://ko.wikipedia.org/wiki/분류:뜨거운_목성 "wikilink") [분류:목성형 행성](https://ko.wikipedia.org/wiki/분류:목성형_행성 "wikilink") [분류:2002년 발견한 외계 행성](https://ko.wikipedia.org/wiki/분류:2002년_발견한_외계_행성 "wikilink")

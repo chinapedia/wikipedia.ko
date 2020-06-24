@@ -14,8 +14,8 @@
   - [1969년](../Page/1969년.md "wikilink") [3월 1일](../Page/3월_1일.md "wikilink") [FM방송](../Page/NHK-FM방송.md "wikilink") 개시
   - [1986년](../Page/1986년.md "wikilink") [5월 12일](../Page/5월_12일.md "wikilink") 문자방송 개시
   - [2006년](../Page/2006년.md "wikilink") [7월 1일](../Page/7월_1일.md "wikilink") 지상파 디지털 텔레비전 방송 개시
-  - [2009년](../Page/2009년.md "wikilink") [7월 24일](../Page/7월_24일.md "wikilink") - [스즈 시에서](https://ko.wikipedia.org/wiki/스즈_시 "wikilink") 오전 10부터 11시까지 민영 텔레비전 방송국과 공동으로 시험적으로 아날로그 텔레비전 방송 중단.
-  - [2010년](../Page/2010년.md "wikilink") [7월 24일](../Page/7월_24일.md "wikilink") - [스즈 시에서](https://ko.wikipedia.org/wiki/스즈_시 "wikilink") 지상파 아날로그 텔레비전 방송 선행 종료.
+  - [2009년](../Page/2009년.md "wikilink") [7월 24일](../Page/7월_24일.md "wikilink") - [스즈시](../Page/스즈시.md "wikilink")에서 오전 10부터 11시까지 민영 텔레비전 방송국과 공동으로 시험적으로 아날로그 텔레비전 방송 중단.
+  - [2010년](../Page/2010년.md "wikilink") [7월 24일](../Page/7월_24일.md "wikilink") - [스즈시](../Page/스즈시.md "wikilink")에서 지상파 아날로그 텔레비전 방송 선행 종료.
   - [2011년](../Page/2011년.md "wikilink") [7월 24일](../Page/7월_24일.md "wikilink") 지상파 아날로그 텔레비전 방송 종료
 
 ## 채널·주파수

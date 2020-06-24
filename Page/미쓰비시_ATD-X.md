@@ -98,6 +98,6 @@ AESA 레이다가 탑재될 것으로 보인다. 첨단 4.5세대 전투기인 F
 
   - [2014년 心神(ATD-X)의 연구개발 사진링크](https://web.archive.org/web/20160305060146/http://www.geronimo.jp/sky/img/sin_00.jpg)
 
-[분류:일본의 전투기](https://ko.wikipedia.org/wiki/분류:일본의_전투기 "wikilink") [분류:2016년 첫 비행한 항공기](https://ko.wikipedia.org/wiki/분류:2016년_첫_비행한_항공기 "wikilink") [분류:쌍발 제트기](https://ko.wikipedia.org/wiki/분류:쌍발_제트기 "wikilink")
+[분류:일본의 전투기](https://ko.wikipedia.org/wiki/분류:일본의_전투기 "wikilink") [분류:2016년 첫 비행한 항공기](https://ko.wikipedia.org/wiki/분류:2016년_첫_비행한_항공기 "wikilink") [분류:쌍발 제트기](https://ko.wikipedia.org/wiki/분류:쌍발_제트기 "wikilink") [분류:고익기](https://ko.wikipedia.org/wiki/분류:고익기 "wikilink")
 
 1.  일본, 자체 제작 스텔스 전투기 X-2 첫 실전 테스트 비행, 뉴시스, 2016-11-30

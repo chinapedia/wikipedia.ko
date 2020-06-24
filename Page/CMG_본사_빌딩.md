@@ -46,7 +46,7 @@ CCTV 본사 빌딩은 [베이징](https://ko.wikipedia.org/wiki/베이징 "wikil
 
 ## 외부 링크
 
-  - [CCTV 프로젝트 웹사이트](http://www.cctv.com/newSiteProgram/en/general_info.htm)
+  - [CCTV 프로젝트 웹사이트](https://web.archive.org/web/20181028201542/http://www.cctv.com/newSiteProgram/en/general_info.htm)
   - [Office for Metropolitan Architecture (OMA) 프로젝트 웹사이트](https://web.archive.org/web/20070821234109/http://www.oma.eu/index.php?option=com_projects&view=portal&id=55&Itemid=10)
   - [중국중앙방송(CCTV) 본사 건물 & 컬처럴 센터 (베이징) 웹페이지](https://web.archive.org/web/20070927002811/http://www.arup.com/eastasia/project.cfm?pageid=1948) 엔지니어링 사 - [ARUP](https://ko.wikipedia.org/wiki/ARUP "wikilink").
 

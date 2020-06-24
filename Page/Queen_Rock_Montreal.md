@@ -38,7 +38,7 @@
 <li>Tie Your Mother Down (May)</li>
 <li>Another One Bites the Dust (Deacon)</li>
 <li>Sheer Heart Attack (Taylor)</li>
-<li><a href="https://ko.wikipedia.org/wiki/We_Will_Rock_You" title="wikilink">We Will Rock You</a> (May)</li>
+<li><a href="../Page/We_Will_Rock_You.md" title="wikilink">We Will Rock You</a> (May)</li>
 <li><a href="../Page/We_Are_the_Champions.md" title="wikilink">We Are the Champions</a> (Mercury)</li>
 <li>God Save the Queen (tape) (arr. May)</li>
 </ol></td>

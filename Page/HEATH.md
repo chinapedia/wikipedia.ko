@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [HEATH](https://ko.wikipedia.org/wiki/HEATH).
 
 
-**히스**(HEATH)는 [일본](../Page/일본.md "wikilink")의 [베이시스트이다](../Page/기타.md "wikilink"). 일본의 [록 밴드](https://ko.wikipedia.org/wiki/록_밴드 "wikilink") [엑스 재팬의](https://ko.wikipedia.org/wiki/엑스_재팬 "wikilink") 베이시스트로, 본명은 **모리에 히로시**(森江 博). [1968년](../Page/1968년.md "wikilink") [1월 22일에](../Page/1월_22일.md "wikilink") [일본](../Page/일본.md "wikilink")의 [효고현](../Page/효고현.md "wikilink") [아마가사키 시에서](https://ko.wikipedia.org/wiki/아마가사키_시 "wikilink") 태어났다.
+**히스**(HEATH)는 [일본](../Page/일본.md "wikilink")의 [베이시스트이다](../Page/기타.md "wikilink"). 일본의 [록 밴드](https://ko.wikipedia.org/wiki/록_밴드 "wikilink") [엑스 재팬의](https://ko.wikipedia.org/wiki/엑스_재팬 "wikilink") 베이시스트로, 본명은 **모리에 히로시**(森江 博). [1968년](../Page/1968년.md "wikilink") [1월 22일에](../Page/1월_22일.md "wikilink") [일본](../Page/일본.md "wikilink")의 [효고현](../Page/효고현.md "wikilink") [아마가사키시](../Page/아마가사키시.md "wikilink")에서 태어났다.
 
 ## 음악 활동
 

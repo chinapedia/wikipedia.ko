@@ -61,7 +61,7 @@
   - [2004년](../Page/2004년.md "wikilink") [1월 14일](../Page/1월_14일.md "wikilink") - Berryz코보 결성. 나머지 7명은 Berryz코보와 구별되어 취급됨.
   - 2004년 [6월](../Page/6월.md "wikilink") - 아리하라 등 32명이 헬로\! 프로젝트 에그 오디션에 합격. [하로프로에그](https://ko.wikipedia.org/wiki/하로프로에그 "wikilink") 결성.
   - [2005년](../Page/2005년.md "wikilink") [6월 11일](../Page/6월_11일.md "wikilink") - **℃-ute 결성**. [층쿠♂의](https://ko.wikipedia.org/wiki/쓴쿠 "wikilink") 공식 사이트에서 그룹명 발표.
-  - 2005년 [6월 11일](../Page/6월_11일.md "wikilink") \~ [8월 14일](../Page/8월_14일.md "wikilink") - [아베 나츠미](../Page/아베_나츠미.md "wikilink") 콘서트 투어 '지구 온난화 방지 캠페인 -뜨거운 지구를 식히자 아베 나츠미 노래와 토크의 만남 콘서트-'에 [야스다 케이와](../Page/야스다_케이.md "wikilink") 같이 게스트로 출연. 오프닝으로  부름. 이외 몇 곡 참가([지바현](../Page/지바현.md "wikilink") [기사라즈 시](https://ko.wikipedia.org/wiki/기사라즈_시 "wikilink") 시민회관에서의 제1회 공연은, ℃-ute로서 첫 활동.).
+  - 2005년 [6월 11일](../Page/6월_11일.md "wikilink") \~ [8월 14일](../Page/8월_14일.md "wikilink") - [아베 나츠미](../Page/아베_나츠미.md "wikilink") 콘서트 투어 '지구 온난화 방지 캠페인 -뜨거운 지구를 식히자 아베 나츠미 노래와 토크의 만남 콘서트-'에 [야스다 케이와](../Page/야스다_케이.md "wikilink") 같이 게스트로 출연. 오프닝으로  부름. 이외 몇 곡 참가([지바현](../Page/지바현.md "wikilink") [기사라즈시](../Page/기사라즈시.md "wikilink") 시민회관에서의 제1회 공연은, ℃-ute로서 첫 활동.).
   - 2005년 [11월 27일](../Page/11월_27일.md "wikilink") - 〈℃-ute 응원기획\! 제2탄〉 (팬클럽 한정 이벤트, 도쿄 라포레 뮤지엄\[5\], 롯폰기). 공식 닉네임 결정. ℃-ute 데뷔곡  공연.
   - [2006년](../Page/2006년.md "wikilink") [1월 2일](../Page/1월_2일.md "wikilink") - 아리하라 가입 발표. ℃-ute 멤버로서 활동은 28일부터 시작.
   - 2006년 [5월 6일](../Page/5월_6일.md "wikilink") \~ [7일](../Page/5월_7일.md "wikilink") - 양일간 개최된 [모닝구무스메](../Page/모닝구무스메.md "wikilink") 콘서트 공연장에서 를 한정 판매(인디즈). 이후로 6월, 7월, 3개월 연속으로 CD를 발매하게 된다.
@@ -169,6 +169,7 @@
       - 커플링 : 위대한 힘을\! ()
 18. [너는 자전거 나는 전철로 귀가](../Page/너는_자전거_나는_전철로_귀가.md "wikilink") () ([2012년](../Page/2012년.md "wikilink") [4월 18일](../Page/4월_18일.md "wikilink"))
       - 커플링 : 사랑은 언제나 언제나 () (초회생산한정반 · 통상반)／너는 자전거 나는 전철로 귀가 (야지마 마이미 ver.) () (초회생산한정반 B)／너는 자전거 나는 전철로 귀가 (나카지마 사키 ver.) () (초회생산한정반 C)／너는 자전거 나는 전철로 귀가 (스즈키 아이리 ver.) () (초회생산한정반 D)／너는 자전거 나는 전철로 귀가 (오카이 치사토 ver.) () (초회생산한정반 E)／너는 자전거 나는 전철로 귀가 (하기와라 마이 ver.) () (초회생산한정반 F)
+          - 후에 [스마이레지](https://ko.wikipedia.org/wiki/스마이레지 "wikilink")가 열한 번째 싱글 커플링 곡으로 커버.
 19. 만나고 싶은 만나고 싶은 만나고 싶은데 () (2012년 [9월 5일](../Page/9월_5일.md "wikilink"))
       - 커플링 : 슬픈 헤븐 () (초회생산한정반 A · 통상반)／최고 뮤직 () (초회생산한정반 B\~D)
 20. 이 거리 () ([2013년](../Page/2013년.md "wikilink") [2월 6일](../Page/2월_6일.md "wikilink"))
@@ -179,6 +180,7 @@
       - 양 A면 (초회생산한정반 · 통상반)／커플링 : 누구에게도 비밀 사랑하고 있어 () (초회생산한정반 A\~C · 통상반 A)／따뜻한 팔로 싸서 () (초회생산한정반 D · 통상반 B)
 23. 도시 독신 생활／사랑이란 더 참신 () (2013년 [11월 6일](../Page/11월_6일.md "wikilink"))
       - 양 A면 (초회생산한정반 · 통상반)／커플링 : Please, love me more\! (초회생산한정반 A\~C · 통상반 A)／유혹의 휴일 () (초회생산한정반 D · 통상반 B)
+          - 후에 [츠바키팩토리](../Page/츠바키팩토리.md "wikilink")가 "도시 독신 생활 ()"을 "first bloom"에서 커버.
 24. 마음의 소리를 노래해봤다／Love take it all () ([2014년](../Page/2014년.md "wikilink") [3월 5일](../Page/3월_5일.md "wikilink"))
       - 양 A면 싱글. 커플링 곡은 없음.
 25. [The Power／카나시키 헤븐 (Single Version)](https://ko.wikipedia.org/wiki/The_Power/카나시키_헤븐_\(Single_Version\) "wikilink") () (2014년 [7월 16일](../Page/7월_16일.md "wikilink"))
@@ -2245,7 +2247,9 @@ To Tomorrow／환타지 스컬／The Curtain Rises</p></td>
 
   -
 
-{{℃-ute}} [℃-ute](https://ko.wikipedia.org/wiki/분류:℃-ute "wikilink") [분류:헬로\! 프로젝트](https://ko.wikipedia.org/wiki/분류:헬로!_프로젝트 "wikilink") [분류:일본의 팝 음악 그룹](https://ko.wikipedia.org/wiki/분류:일본의_팝_음악_그룹 "wikilink") [분류:일본의 걸 그룹](https://ko.wikipedia.org/wiki/분류:일본의_걸_그룹 "wikilink") [분류:2005년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2005년_결성된_음악_그룹 "wikilink") [분류:2006년 데뷔](https://ko.wikipedia.org/wiki/분류:2006년_데뷔 "wikilink") [분류:2000년대 음악 그룹](https://ko.wikipedia.org/wiki/분류:2000년대_음악_그룹 "wikilink") [분류:2010년대 음악 그룹](https://ko.wikipedia.org/wiki/분류:2010년대_음악_그룹 "wikilink") [분류:5인조 음악 그룹](https://ko.wikipedia.org/wiki/분류:5인조_음악_그룹 "wikilink") [분류:NHK 홍백가합전 출연자](https://ko.wikipedia.org/wiki/분류:NHK_홍백가합전_출연자 "wikilink") [분류:2017년 해체된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2017년_해체된_음악_그룹 "wikilink")
+{{℃-ute}}
+
+[℃-ute](https://ko.wikipedia.org/wiki/분류:℃-ute "wikilink") [분류:헬로\! 프로젝트](https://ko.wikipedia.org/wiki/분류:헬로!_프로젝트 "wikilink") [분류:일본의 팝 음악 그룹](https://ko.wikipedia.org/wiki/분류:일본의_팝_음악_그룹 "wikilink") [분류:일본의 걸 그룹](https://ko.wikipedia.org/wiki/분류:일본의_걸_그룹 "wikilink") [분류:2005년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2005년_결성된_음악_그룹 "wikilink") [분류:2000년대 음악 그룹](https://ko.wikipedia.org/wiki/분류:2000년대_음악_그룹 "wikilink") [분류:2010년대 음악 그룹](https://ko.wikipedia.org/wiki/분류:2010년대_음악_그룹 "wikilink") [분류:5인조 음악 그룹](https://ko.wikipedia.org/wiki/분류:5인조_음악_그룹 "wikilink") [분류:NHK 홍백가합전 출연자](https://ko.wikipedia.org/wiki/분류:NHK_홍백가합전_출연자 "wikilink") [분류:2017년 해체된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2017년_해체된_음악_그룹 "wikilink")
 
 1.  [층쿠♂ 공식 사이트 코멘트 Berryz코보의 탄생에 대해서](http://www.tsunku.net/comments01.htm)  (2004년 1월 15일)
 2.  예를 들어 TV출연과 기타 헬로\! 프로젝트 그룹과 듀엣 등, 그룹 단위로서의 안정적 활동을 부여받으나, 7명은 한정된 멤버만 스케줄을 부여받는 정도의 상황이었다.

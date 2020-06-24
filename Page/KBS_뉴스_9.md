@@ -772,7 +772,7 @@
 | 주말 & 문화   | [박지원](../Page/박지원_\(아나운서\).md "wikilink") 아나운서                                              |
 | 다음주 브리핑   | 정연욱 기자                                                                                      |
 | KBS 스포츠 9 | [김종현](../Page/김종현_\(1992년\).md "wikilink") 아나운서                                             |
-| 날씨        | [강아랑](../Page/강아랑.md "wikilink") 기상캐스터(토요일)</br>[노은지](../Page/노은지.md "wikilink") 기상캐스터(일요일) |
+| 날씨        | [오수진](../Page/오수진.md "wikilink") 기상캐스터(토요일)</br>[노은지](../Page/노은지.md "wikilink") 기상캐스터(일요일) |
 
 ## 앵커
 
@@ -988,13 +988,13 @@
 <tr class="odd">
 <td><p>28기</p></td>
 <td><p><a href="../Page/민경욱.md" title="wikilink">민경욱</a></p></td>
-<td><p><a href="../Page/2011년.md" title="wikilink">2011년</a> <a href="../Page/1월_1일.md" title="wikilink">1월 1일</a> ~ <a href="../Page/2013년.md" title="wikilink">2013년</a> <a href="../Page/10월_18일.md" title="wikilink">10월 18일</a></p></td>
+<td><p><a href="../Page/2011년.md" title="wikilink">2011년</a> <a href="../Page/1월_1일.md" title="wikilink">1월 1일</a> ~ <a href="../Page/2012년.md" title="wikilink">2012년</a> <a href="../Page/7월_13일.md" title="wikilink">7월 13일</a></p></td>
 <td><p>[32][33][34]</p></td>
 </tr>
 <tr class="even">
 <td><p>29기</p></td>
 <td><p><a href="../Page/이현주_(아나운서).md" title="wikilink">이현주</a></p></td>
-<td><p><a href="../Page/2012년.md" title="wikilink">2012년</a> <a href="../Page/7월_3일.md" title="wikilink">7월 3일</a> ~ <a href="../Page/2014년.md" title="wikilink">2014년</a> <a href="../Page/12월_31일.md" title="wikilink">12월 31일</a></p></td>
+<td><p><a href="../Page/2012년.md" title="wikilink">2012년</a> <a href="../Page/7월_16일.md" title="wikilink">7월 16일</a> ~ <a href="../Page/2013년.md" title="wikilink">2013년</a> <a href="../Page/10월_18일.md" title="wikilink">10월 18일</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1033,7 +1033,7 @@
 #### 주말 (토요일 한정 진행 포함)
 
   - 토요일 한정 진행은 2회.
-  - 기간 : [1995년](../Page/1995년.md "wikilink") [2월 25일](../Page/2월_25일.md "wikilink") \~ [1998년](../Page/1998년.md "wikilink") [5월 2일](../Page/5월_2일.md "wikilink"), [1998년](../Page/1998년.md "wikilink") [9월 19일](../Page/9월_19일.md "wikilink") \~ [1999년](../Page/1999년.md "wikilink") [5월 22일](../Page/5월_22일.md "wikilink")
+  - 기간 : [1992년](../Page/1992년.md "wikilink") [10월 10일](../Page/10월_10일.md "wikilink") \~ [1993년](../Page/1993년.md "wikilink") [4월 24일](../Page/4월_24일.md "wikilink"), [1995년](../Page/1995년.md "wikilink") [2월 25일](../Page/2월_25일.md "wikilink") \~ [1998년](../Page/1998년.md "wikilink") [5월 2일](../Page/5월_2일.md "wikilink"), [1998년](../Page/1998년.md "wikilink") [9월 19일](../Page/9월_19일.md "wikilink") \~ [1999년](../Page/1999년.md "wikilink") [5월 22일](../Page/5월_22일.md "wikilink")
 
 <table>
 <thead>
@@ -1054,234 +1054,234 @@
 </tr>
 <tr class="even">
 <td><p>1대</p></td>
+<td></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/신은경" title="wikilink">신은경</a></p></td>
+<td><p><a href="../Page/1986년.md" title="wikilink">1986년</a> <a href="../Page/11월_8일.md" title="wikilink">11월 8일</a> ~ <a href="../Page/1992년.md" title="wikilink">1992년</a> <a href="../Page/8월_29일.md" title="wikilink">8월 29일</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>2대</p></td>
+<td><p><a href="../Page/류근찬.md" title="wikilink">류근찬</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/유정아" title="wikilink">유정아</a></p></td>
+<td><p><a href="../Page/1992년.md" title="wikilink">1992년</a> <a href="../Page/10월_10일.md" title="wikilink">10월 10일</a> ~ <a href="../Page/1993년.md" title="wikilink">1993년</a> <a href="../Page/4월_24일.md" title="wikilink">4월 24일</a></p></td>
+</tr>
+<tr class="even">
+<td><p>3대</p></td>
 <td><p>윤덕수</p></td>
 <td><p><a href="../Page/공정민.md" title="wikilink">공정민</a></p></td>
 <td><p><a href="../Page/1993년.md" title="wikilink">1993년</a> <a href="../Page/5월_1일.md" title="wikilink">5월 1일</a> ~ <a href="../Page/1993년.md" title="wikilink">1993년</a> <a href="../Page/10월_17일.md" title="wikilink">10월 17일</a></p></td>
 </tr>
 <tr class="odd">
-<td><p>2대</p></td>
+<td><p>4대</p></td>
 <td><p><a href="../Page/김종진_(방송인).md" title="wikilink">김종진</a></p></td>
 <td><p>김명숙</p></td>
 <td><p><a href="../Page/1993년.md" title="wikilink">1993년</a> <a href="../Page/10월_23일.md" title="wikilink">10월 23일</a> ~ <a href="../Page/1993년.md" title="wikilink">1993년</a> <a href="../Page/11월_28일.md" title="wikilink">11월 28일</a></p></td>
 </tr>
 <tr class="even">
-<td><p>3대</p></td>
+<td><p>5대</p></td>
 <td><p>홍영숙</p></td>
 <td><p><a href="../Page/1993년.md" title="wikilink">1993년</a> <a href="../Page/12월_4일.md" title="wikilink">12월 4일</a> ~ <a href="../Page/1994년.md" title="wikilink">1994년</a> <a href="../Page/2월_13일.md" title="wikilink">2월 13일</a></p></td>
 <td><p>[37]</p></td>
 </tr>
 <tr class="odd">
-<td><p>4대</p></td>
+<td><p>6대</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/김광일" title="wikilink">김광일</a></p></td>
 <td><p><a href="../Page/오영실.md" title="wikilink">오영실</a></p></td>
 <td><p><a href="../Page/1994년.md" title="wikilink">1994년</a> <a href="../Page/2월_19일.md" title="wikilink">2월 19일</a> ~ <a href="../Page/1994년.md" title="wikilink">1994년</a> <a href="../Page/4월_30일.md" title="wikilink">4월 30일</a></p></td>
 </tr>
 <tr class="even">
-<td><p>5대</p></td>
+<td><p>7대</p></td>
 <td><p><a href="../Page/공정민.md" title="wikilink">공정민</a></p></td>
 <td><p><a href="../Page/1994년.md" title="wikilink">1994년</a> <a href="../Page/5월_14일.md" title="wikilink">5월 14일</a> ~ <a href="../Page/1994년.md" title="wikilink">1994년</a> <a href="../Page/11월_13일.md" title="wikilink">11월 13일</a></p></td>
 <td><p>[38]</p></td>
 </tr>
 <tr class="odd">
-<td><p>6대</p></td>
+<td><p>8대</p></td>
 <td><p><a href="../Page/김종진_(방송인).md" title="wikilink">김종진</a></p></td>
 <td><p><a href="../Page/1994년.md" title="wikilink">1994년</a> <a href="../Page/11월_19일.md" title="wikilink">11월 19일</a> ~ <a href="../Page/1995년.md" title="wikilink">1995년</a> <a href="../Page/1월_8일.md" title="wikilink">1월 8일</a></p></td>
 <td><p>[39][40]</p></td>
 </tr>
 <tr class="even">
-<td><p>7대</p></td>
+<td><p>9대</p></td>
 <td><p><a href="../Page/오영실.md" title="wikilink">오영실</a></p></td>
 <td><p><a href="../Page/1995년.md" title="wikilink">1995년</a> <a href="../Page/1월_14일.md" title="wikilink">1월 14일</a> ~ <a href="../Page/1995년.md" title="wikilink">1995년</a> <a href="../Page/2월_19일.md" title="wikilink">2월 19일</a></p></td>
 <td><p>[41][42]</p></td>
 </tr>
 <tr class="odd">
-<td><p>8대</p></td>
+<td><p>10대</p></td>
 <td><p><a href="../Page/이윤성_(1944년).md" title="wikilink">이윤성</a></p></td>
 <td><p><a href="../Page/황현정.md" title="wikilink">황현정</a></p></td>
 <td><p><a href="../Page/1995년.md" title="wikilink">1995년</a> <a href="../Page/2월_25일.md" title="wikilink">2월 25일</a> ~ <a href="../Page/1995년.md" title="wikilink">1995년</a> <a href="../Page/5월_20일.md" title="wikilink">5월 20일</a></p></td>
 </tr>
 <tr class="even">
-<td><p>9대</p></td>
+<td><p>11대</p></td>
 <td><p><a href="../Page/류근찬.md" title="wikilink">류근찬</a></p></td>
 <td><p><a href="../Page/1995년.md" title="wikilink">1995년</a> <a href="../Page/5월_27일.md" title="wikilink">5월 27일</a> ~ <a href="../Page/1997년.md" title="wikilink">1997년</a> <a href="../Page/3월_1일.md" title="wikilink">3월 1일</a></p></td>
 <td><p>[43]</p></td>
 </tr>
 <tr class="odd">
-<td><p>10대</p></td>
+<td><p>12대</p></td>
 <td><p><a href="../Page/황수경_(아나운서).md" title="wikilink">황수경</a></p></td>
 <td><p><a href="../Page/1997년.md" title="wikilink">1997년</a> <a href="../Page/3월_8일.md" title="wikilink">3월 8일</a> ~ <a href="../Page/1998년.md" title="wikilink">1998년</a> <a href="../Page/5월_2일.md" title="wikilink">5월 2일</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>11대</p></td>
+<td><p>13대</p></td>
 <td><p><a href="../Page/김종진_(방송인).md" title="wikilink">김종진</a></p></td>
 <td><p><a href="../Page/공정민.md" title="wikilink">공정민</a></p></td>
 <td><p><a href="../Page/1998년.md" title="wikilink">1998년</a> <a href="../Page/5월_9일.md" title="wikilink">5월 9일</a> ~ <a href="../Page/1998년.md" title="wikilink">1998년</a> <a href="../Page/9월_13일.md" title="wikilink">9월 13일</a></p></td>
 </tr>
 <tr class="odd">
-<td><p>12대</p></td>
+<td><p>14대</p></td>
 <td><p><a href="../Page/황수경_(아나운서).md" title="wikilink">황수경</a></p></td>
 <td><p><a href="../Page/1998년.md" title="wikilink">1998년</a> <a href="../Page/9월_19일.md" title="wikilink">9월 19일</a> ~ <a href="../Page/1998년.md" title="wikilink">1998년</a> <a href="../Page/10월_10일.md" title="wikilink">10월 10일</a></p></td>
 <td><p>[44][45]</p></td>
 </tr>
 <tr class="even">
-<td><p>13대</p></td>
+<td><p>15대</p></td>
 <td><p><a href="../Page/황현정.md" title="wikilink">황현정</a></p></td>
 <td><p><a href="../Page/1998년.md" title="wikilink">1998년</a> <a href="../Page/10월_17일.md" title="wikilink">10월 17일</a> ~ <a href="../Page/1999년.md" title="wikilink">1999년</a> <a href="../Page/5월_22일.md" title="wikilink">5월 22일</a></p></td>
 <td><p>[46]</p></td>
 </tr>
 <tr class="odd">
-<td><p>14대</p></td>
+<td><p>16대</p></td>
 <td><p><a href="../Page/백운기.md" title="wikilink">백운기</a></p></td>
 <td><p><a href="../Page/윤소희.md" title="wikilink">윤소희</a></p></td>
 <td><p><a href="../Page/1999년.md" title="wikilink">1999년</a> <a href="../Page/5월_29일.md" title="wikilink">5월 29일</a> ~ <a href="../Page/1999년.md" title="wikilink">1999년</a> <a href="../Page/10월_17일.md" title="wikilink">10월 17일</a></p></td>
 </tr>
 <tr class="even">
-<td><p>15대</p></td>
+<td><p>17대</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/김정훈_(기자)" title="wikilink">김정훈</a></p></td>
 <td><p><a href="../Page/정세진.md" title="wikilink">정세진</a></p></td>
 <td><p><a href="../Page/1999년.md" title="wikilink">1999년</a> <a href="../Page/10월_23일.md" title="wikilink">10월 23일</a> ~ <a href="../Page/2000년.md" title="wikilink">2000년</a> <a href="../Page/4월_30일.md" title="wikilink">4월 30일</a></p></td>
 </tr>
 <tr class="odd">
-<td><p>16대</p></td>
+<td><p>18대</p></td>
 <td><p><a href="../Page/조재익.md" title="wikilink">조재익</a></p></td>
 <td><p><a href="../Page/2000년.md" title="wikilink">2000년</a> <a href="../Page/5월_6일.md" title="wikilink">5월 6일</a> ~ <a href="../Page/2000년.md" title="wikilink">2000년</a> <a href="../Page/10월_8일.md" title="wikilink">10월 8일</a></p></td>
 <td><p>[47][48]</p></td>
 </tr>
 <tr class="even">
-<td><p>17대</p></td>
+<td><p>19대</p></td>
 <td><p><a href="../Page/이선재.md" title="wikilink">이선재</a></p></td>
 <td><p><a href="../Page/2000년.md" title="wikilink">2000년</a> <a href="../Page/10월_14일.md" title="wikilink">10월 14일</a> ~ <a href="../Page/2001년.md" title="wikilink">2001년</a> <a href="../Page/2월_11일.md" title="wikilink">2월 11일</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>18대</p></td>
+<td><p>20대</p></td>
 <td><p><a href="../Page/황상무.md" title="wikilink">황상무</a></p></td>
 <td><p><a href="../Page/2001년.md" title="wikilink">2001년</a> <a href="../Page/2월_17일.md" title="wikilink">2월 17일</a> ~ <a href="../Page/2001년.md" title="wikilink">2001년</a> <a href="../Page/11월_4일.md" title="wikilink">11월 4일</a></p></td>
 <td><p>[49]</p></td>
 </tr>
 <tr class="even">
-<td><p>19대</p></td>
+<td><p>21대</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/손미나_(1972년)" title="wikilink">손미나</a></p></td>
 <td><p><a href="../Page/2001년.md" title="wikilink">2001년</a> <a href="../Page/11월_10일.md" title="wikilink">11월 10일</a> ~ <a href="../Page/2002년.md" title="wikilink">2002년</a> <a href="../Page/3월_3일.md" title="wikilink">3월 3일</a></p></td>
 <td><p>[50]</p></td>
 </tr>
 <tr class="odd">
-<td><p>20대</p></td>
+<td><p>22대</p></td>
 <td><p><a href="../Page/김철민_(기자).md" title="wikilink">김철민</a></p></td>
 <td><p><a href="../Page/2002년.md" title="wikilink">2002년</a> <a href="../Page/3월_9일.md" title="wikilink">3월 9일</a> ~ <a href="../Page/2003년.md" title="wikilink">2003년</a> <a href="../Page/6월_22일.md" title="wikilink">6월 22일</a></p></td>
 <td><p>[51][52]</p></td>
 </tr>
 <tr class="even">
-<td><p>21대</p></td>
+<td><p>23대</p></td>
 <td><p><a href="../Page/노현정.md" title="wikilink">노현정</a></p></td>
 <td><p><a href="../Page/2003년.md" title="wikilink">2003년</a> <a href="../Page/6월_28일.md" title="wikilink">6월 28일</a> ~ <a href="../Page/2003년.md" title="wikilink">2003년</a> <a href="../Page/11월_2일.md" title="wikilink">11월 2일</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>22대</p></td>
+<td><p>24대</p></td>
 <td><p><a href="../Page/임장원.md" title="wikilink">임장원</a></p></td>
 <td><p><a href="../Page/2003년.md" title="wikilink">2003년</a> <a href="../Page/11월_8일.md" title="wikilink">11월 8일</a> ~ <a href="../Page/2003년.md" title="wikilink">2003년</a> <a href="../Page/12월_14일.md" title="wikilink">12월 14일</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>23대</p></td>
+<td><p>25대</p></td>
 <td><p><a href="../Page/최원정.md" title="wikilink">최원정</a></p></td>
 <td><p><a href="../Page/2003년.md" title="wikilink">2003년</a> <a href="../Page/12월_20일.md" title="wikilink">12월 20일</a> ~ <a href="../Page/2007년.md" title="wikilink">2007년</a> <a href="../Page/3월_4일.md" title="wikilink">3월 4일</a></p></td>
 <td><p>[53][54][55]</p></td>
 </tr>
 <tr class="odd">
-<td><p>24대</p></td>
+<td><p>26대</p></td>
 <td><p><a href="../Page/지승현_(방송인).md" title="wikilink">지승현</a></p></td>
 <td><p><a href="../Page/2007년.md" title="wikilink">2007년</a> <a href="../Page/3월_10일.md" title="wikilink">3월 10일</a> ~ <a href="../Page/2008년.md" title="wikilink">2008년</a> <a href="../Page/1월_27일.md" title="wikilink">1월 27일</a></p></td>
 <td><p>[56][57]</p></td>
 </tr>
 <tr class="even">
-<td><p>25대</p></td>
+<td><p>27대</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/김경란" title="wikilink">김경란</a></p></td>
 <td><p><a href="../Page/2008년.md" title="wikilink">2008년</a> <a href="../Page/2월_2일.md" title="wikilink">2월 2일</a> ~ <a href="../Page/2008년.md" title="wikilink">2008년</a> <a href="../Page/2월_3일.md" title="wikilink">2월 3일</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>26대</p></td>
+<td><p>28대</p></td>
 <td><p><a href="../Page/김윤지_(아나운서).md" title="wikilink">김윤지</a></p></td>
 <td><p><a href="../Page/2008년.md" title="wikilink">2008년</a> <a href="../Page/2월_9일.md" title="wikilink">2월 9일</a> ~ <a href="../Page/2009년.md" title="wikilink">2009년</a> <a href="../Page/4월_19일.md" title="wikilink">4월 19일</a></p></td>
 <td><p>[58]</p></td>
 </tr>
 <tr class="even">
-<td><p>27대</p></td>
+<td><p>29대</p></td>
 <td><p><a href="../Page/박유한.md" title="wikilink">박유한</a></p></td>
 <td><p><a href="../Page/2009년.md" title="wikilink">2009년</a> <a href="../Page/4월_25일.md" title="wikilink">4월 25일</a> ~ <a href="../Page/2010년.md" title="wikilink">2010년</a> <a href="../Page/7월_11일.md" title="wikilink">7월 11일</a></p></td>
 <td><p>[59]</p></td>
 </tr>
 <tr class="odd">
-<td><p>28대</p></td>
+<td><p>30대</p></td>
 <td><p><a href="../Page/박지현_(1982년).md" title="wikilink">박지현</a></p></td>
 <td><p><a href="../Page/2010년.md" title="wikilink">2010년</a> <a href="../Page/7월_17일.md" title="wikilink">7월 17일</a> ~ <a href="../Page/2010년.md" title="wikilink">2010년</a> <a href="../Page/12월_26일.md" title="wikilink">12월 26일</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>29대</p></td>
+<td><p>31대</p></td>
 <td><p><a href="../Page/이주한_(기자).md" title="wikilink">이주한</a></p></td>
 <td><p><a href="../Page/2011년.md" title="wikilink">2011년</a> <a href="../Page/1월_1일.md" title="wikilink">1월 1일</a> ~ <a href="../Page/2013년.md" title="wikilink">2013년</a> <a href="../Page/4월_7일.md" title="wikilink">4월 7일</a></p></td>
 <td><p>[60][61][62]</p></td>
 </tr>
 <tr class="odd">
-<td><p>30대</p></td>
+<td><p>32대</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/김도엽" title="wikilink">김도엽</a></p></td>
 <td><p><a href="../Page/김진희_(아나운서).md" title="wikilink">김진희</a></p></td>
 <td><p><a href="../Page/2013년.md" title="wikilink">2013년</a> <a href="../Page/4월_13일.md" title="wikilink">4월 13일</a> ~ <a href="../Page/2013년.md" title="wikilink">2013년</a> <a href="../Page/10월_20일.md" title="wikilink">10월 20일</a></p></td>
 </tr>
 <tr class="even">
-<td><p>31대</p></td>
+<td><p>33대</p></td>
 <td><p><a href="../Page/최문종.md" title="wikilink">최문종</a></p></td>
 <td><p><a href="../Page/장수연.md" title="wikilink">장수연</a></p></td>
 <td><p><a href="../Page/2013년.md" title="wikilink">2013년</a> <a href="../Page/10월_26일.md" title="wikilink">10월 26일</a> ~ <a href="../Page/2014년.md" title="wikilink">2014년</a> <a href="../Page/12월_28일.md" title="wikilink">12월 28일</a></p></td>
 </tr>
 <tr class="odd">
-<td><p>32대</p></td>
+<td><p>34대</p></td>
 <td><p><a href="../Page/김윤지_(아나운서).md" title="wikilink">김윤지</a></p></td>
-<td><p><a href="../Page/2015년.md" title="wikilink">2015년</a> <a href="../Page/1월_3일.md" title="wikilink">1월 3일</a> ~ <a href="../Page/2015년.md" title="wikilink">2015년</a> <a href="../Page/10월_4일.md" title="wikilink">10월 4일</a></p></td>
+<td><p><a href="../Page/2015년.md" title="wikilink">2015년</a> <a href="../Page/1월_3일.md" title="wikilink">1월 3일</a> ~ <a href="../Page/2015년.md" title="wikilink">2015년</a> <a href="../Page/9월_27일.md" title="wikilink">9월 27일</a></p></td>
 <td><p>[63][64]</p></td>
 </tr>
 <tr class="even">
-<td><p>33대</p></td>
+<td><p>35대</p></td>
 <td><p><a href="../Page/엄지인.md" title="wikilink">엄지인</a></p></td>
-<td><p><a href="../Page/2015년.md" title="wikilink">2015년</a> <a href="../Page/10월_10일.md" title="wikilink">10월 10일</a> ~ <a href="../Page/2016년.md" title="wikilink">2016년</a> <a href="../Page/4월_24일.md" title="wikilink">4월 24일</a></p></td>
+<td><p><a href="../Page/2015년.md" title="wikilink">2015년</a> <a href="../Page/10월_3일.md" title="wikilink">10월 3일</a> ~ <a href="../Page/2016년.md" title="wikilink">2016년</a> <a href="../Page/4월_24일.md" title="wikilink">4월 24일</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>34대</p></td>
+<td><p>36기</p></td>
 <td><p><a href="../Page/송영석.md" title="wikilink">송영석</a></p></td>
 <td><p><a href="../Page/이슬기_(아나운서).md" title="wikilink">이슬기</a></p></td>
-<td><p><a href="../Page/2016년.md" title="wikilink">2016년</a> <a href="../Page/4월_30일.md" title="wikilink">4월 30일</a> ~ <a href="../Page/2017년.md" title="wikilink">2017년</a> <a href="../Page/9월_3일.md" title="wikilink">9월 3일</a></p></td>
+<td><p><a href="../Page/2016년.md" title="wikilink">2016년</a> <a href="../Page/4월_30일.md" title="wikilink">4월 30일</a> ~ <a href="../Page/2018년.md" title="wikilink">2018년</a> <a href="../Page/4월_15일.md" title="wikilink">4월 15일</a></p></td>
 </tr>
 <tr class="even">
-<td><p>35대</p></td>
-<td></td>
-<td><p><a href="../Page/2017년.md" title="wikilink">2017년</a> <a href="../Page/9월_9일.md" title="wikilink">9월 9일</a> ~ <a href="../Page/2018년.md" title="wikilink">2018년</a> <a href="../Page/2월_11일.md" title="wikilink">2월 11일</a></p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>36대</p></td>
-<td><p><a href="../Page/이각경.md" title="wikilink">이각경</a></p></td>
-<td><p><a href="../Page/2018년.md" title="wikilink">2018년</a> <a href="../Page/2월_17일.md" title="wikilink">2월 17일</a> ~ <a href="../Page/2018년.md" title="wikilink">2018년</a> <a href="../Page/4월_15일.md" title="wikilink">4월 15일</a></p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>37대</p></td>
+<td><p>37기</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/한승연_(기자)" title="wikilink">한승연</a></p></td>
 <td><p><a href="../Page/김지원_(아나운서).md" title="wikilink">김지원</a></p></td>
 <td><p><a href="../Page/2018년.md" title="wikilink">2018년</a> <a href="../Page/4월_21일.md" title="wikilink">4월 21일</a> ~ <a href="../Page/2018년.md" title="wikilink">2018년</a> <a href="../Page/12월_30일.md" title="wikilink">12월 30일</a></p></td>
 </tr>
 <tr class="odd">
-<td><p>38대</p></td>
+<td><p>36기</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/김태욱_(기자)" title="wikilink">김태욱</a></p></td>
 <td><p><a href="../Page/박소현_(1992년).md" title="wikilink">박소현</a></p></td>
 <td><p><a href="../Page/2019년.md" title="wikilink">2019년</a> <a href="../Page/1월_4일.md" title="wikilink">1월 4일</a> ~ <a href="../Page/2019년.md" title="wikilink">2019년</a> <a href="../Page/11월_24일.md" title="wikilink">11월 24일</a></p></td>
 </tr>
 <tr class="even">
-<td><p>39대</p></td>
+<td><p>38대</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/정연욱" title="wikilink">정연욱</a></p></td>
 <td><p><a href="../Page/박지원_(아나운서).md" title="wikilink">박지원</a></p></td>
 <td><p><a href="../Page/2019년.md" title="wikilink">2019년</a> <a href="../Page/11월_30일.md" title="wikilink">11월 30일</a> ~ <strong>현재</strong></p></td>
@@ -1554,7 +1554,7 @@
 <td><p><a href="../Page/강원도.md" title="wikilink">강원</a> 영동</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/KBS_뉴스_9_강릉" title="wikilink">KBS 뉴스 9 강릉</a></p></td>
 <td><p>동일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/박민정" title="wikilink">박민정</a></p></td>
+<td><p><a href="../Page/강유미.md" title="wikilink">강유미</a></p></td>
 <td><p>춘천 수중계</p></td>
 </tr>
 <tr class="even">
@@ -1570,7 +1570,7 @@
 
 ## 로고
 
-파일:KBS News 9 logo old 1977.png|1977년 10월 \~ 1980년 11월 파일:KBS News 9 logo old 1981.png|1980년 12월 \~ 1982년? 파일:KBS News 9 logo old 1982.png|1982년? \~ 1984년 10월 파일:KBS News 9 logo old 1984.png|1984년 10월 \~ 1986년 10월 파일:KBS News 9 logo old 1986.png|1986년 10월 \~ 1987년 10월 파일:KBS News 9 logo old 1987.png|1987년 10월 \~ 1988년 2월 파일:KBS News 9 logo old 1988.png|1988년 3월 \~ 1990년 12월 파일:KBS News 9 logo old 1991.png|1991년 1월 1일 \~ 1992년 4월 4일 파일:KBS News 9 logo old 199204.png|1992년 4월 6일 \~ 1992년 10월 4일 파일:KBS News 9 logo old 199210.png|1992년 10월 5일 \~ 1993년 4월 30일 파일:KBS News logo old 1990s.png|1993년 5월 1일 \~ 1993년 10월 17일 파일:KBS News 9 logo old 1990s.png|1993년 10월 18일 \~ 1999년 12월 파일:KBS News 9 logo old 2000s.png|1999년 12월 \~ 2010년 5월 9일 파일:KBS News 9 logo old 2010.png|2010년 5월 10일 \~ 2018년 12월 31일 파일:KBS News 9 logo.png|2019년 1월 1일 \~ 현재
+파일:KBS News 9 logo old 1977.png|1977년 12월 \~ 1980년 11월 파일:KBS News 9 logo old 1981.png|1980년 12월 \~ 1982년? 파일:KBS News 9 logo old 1982.png|1982년? \~ 1984년 10월 파일:KBS News 9 logo old 1984.png|1984년 10월 \~ 1986년 10월 파일:KBS News 9 logo old 1986.png|1986년 10월 \~ 1987년 10월 파일:KBS News 9 logo old 1987.png|1987년 10월 \~ 1988년 2월 파일:KBS News 9 logo old 1988.png|1988년 3월 \~ 1990년 12월 파일:KBS News 9 logo old 1991.png|1991년 1월 1일 \~ 1992년 4월 4일 파일:KBS News 9 logo old 199204.png|1992년 4월 6일 \~ 1992년 10월 4일 파일:KBS News 9 logo old 199210.png|1992년 10월 5일 \~ 1993년 4월 30일 파일:KBS News logo old 1990s.png|1993년 5월 1일 \~ 1993년 10월 17일 파일:KBS News 9 logo old 1990s.png|1993년 10월 18일 \~ 1999년 12월 파일:KBS News 9 logo old 2000s.png|1999년 12월 \~ 2010년 5월 9일 파일:KBS News 9 logo old 2010.png|2010년 5월 10일 \~ 2018년 12월 31일 파일:KBS News 9 logo.png|2019년 1월 1일 \~ 현재
 
 ## 시청률
 
@@ -1626,7 +1626,7 @@
 30. [김경란](../Page/김경란_\(방송인\).md "wikilink") 前 아나운서의 휴가 또는 출장으로 인하여, [2007년](../Page/2007년.md "wikilink") [8월 27일](../Page/8월_27일.md "wikilink") \~ [2007년](../Page/2007년.md "wikilink") [8월 31일](../Page/8월_31일.md "wikilink") 방송분은 [지승현](../Page/지승현_\(방송인\).md "wikilink") 前 아나운서가 대신 진행하였으며, [2008년](../Page/2008년.md "wikilink") [10월 13일](../Page/10월_13일.md "wikilink") \~ [2008년](../Page/2008년.md "wikilink") [10월 17일](../Page/10월_17일.md "wikilink") 방송분은 [김윤지](https://ko.wikipedia.org/wiki/김윤지_\(1978년\) "wikilink") 아나운서가 대신 진행하였다.
 31. [홍기섭](https://ko.wikipedia.org/wiki/홍기섭 "wikilink") 前 기자와 [김경란](../Page/김경란_\(방송인\).md "wikilink") 前 아나운서의 [2008년 하계 올림픽에](https://ko.wikipedia.org/wiki/2008년_하계_올림픽 "wikilink") 의한 [중국](../Page/중화인민공화국.md "wikilink") [베이징](https://ko.wikipedia.org/wiki/베이징 "wikilink") 현지 파견 및 올림픽 관련 뉴스 생중계로 인하여, [2008년](../Page/2008년.md "wikilink") [8월 6일](../Page/8월_6일.md "wikilink") \~ [2008년](../Page/2008년.md "wikilink") [8월 8일](../Page/8월_8일.md "wikilink") 방송분 내 본사 데스크에서의 뉴스는 [임장원](../Page/임장원.md "wikilink") 前 기자와 [김윤지](https://ko.wikipedia.org/wiki/김윤지_\(1978년\) "wikilink") 아나운서가 진행하였다.
 32. [민경욱](../Page/민경욱.md "wikilink") 前 기자의 휴가 또는 출장으로 인하여, [2011년](../Page/2011년.md "wikilink") [8월 22일](../Page/8월_22일.md "wikilink") \~ [2011년](../Page/2011년.md "wikilink") [8월 25일](../Page/8월_25일.md "wikilink"), [2012년](../Page/2012년.md "wikilink") [1월 30일](../Page/1월_30일.md "wikilink") \~ [2012년](../Page/2012년.md "wikilink") [1월 31일](../Page/1월_31일.md "wikilink") 방송분은 [이주한](../Page/이주한_\(기자\).md "wikilink") 기자가 대신 진행하였다.
-33. [조수빈](../Page/조수빈.md "wikilink") 아나운서의 휴가 또는 출장으로 인하여, [2011년](../Page/2011년.md "wikilink") [1월 14일](../Page/1월_14일.md "wikilink") \~ [2011년](../Page/2011년.md "wikilink") [1월 17일](../Page/1월_17일.md "wikilink"), [2011년](../Page/2011년.md "wikilink") [6월 13일](../Page/6월_13일.md "wikilink") \~ [2011년](../Page/2011년.md "wikilink") [6월 21일](../Page/6월_21일.md "wikilink"), [2012년](../Page/2012년.md "wikilink") [6월 12일](../Page/6월_12일.md "wikilink") \~ [2012년](../Page/2012년.md "wikilink") [6월 13일](../Page/6월_13일.md "wikilink") 방송분은 [박지현](../Page/박지현_\(1982년\).md "wikilink") 아나운서가 대신 진행하였다.
+33. [조수빈](../Page/조수빈.md "wikilink") 아나운서의 휴가 또는 출장으로 인하여, [2011년](../Page/2011년.md "wikilink") [1월 14일](../Page/1월_14일.md "wikilink") \~ [2011년](../Page/2011년.md "wikilink") [1월 17일](../Page/1월_17일.md "wikilink"), [2011년](../Page/2011년.md "wikilink") [6월 13일](../Page/6월_13일.md "wikilink") \~ [2011년](../Page/2011년.md "wikilink") [6월 21일](../Page/6월_21일.md "wikilink"), [2012년](../Page/2012년.md "wikilink") [6월 8일](../Page/6월_8일.md "wikilink") \~ [2012년](../Page/2012년.md "wikilink") [6월 12일](../Page/6월_12일.md "wikilink") 방송분은 [박지현](../Page/박지현_\(1982년\).md "wikilink") 아나운서가 대신 진행하였다.
 34. KBS 노조 파업으로 인하여, [2011년](../Page/2011년.md "wikilink") [12월 19일](../Page/12월_19일.md "wikilink") \~ [2011년](../Page/2011년.md "wikilink") [12월 20일](../Page/12월_20일.md "wikilink") 방송분은 [조수빈](../Page/조수빈.md "wikilink") 아나운서 대신 [이규원](../Page/이규원_\(아나운서\).md "wikilink") 아나운서가 진행하였다.
 35. [KBS 노조 파업으로](../Page/2014년_한국방송공사_노조_파업.md "wikilink") 인하여, [2014년](../Page/2014년.md "wikilink") [5월 19일](../Page/5월_19일.md "wikilink") \~ [2014년](../Page/2014년.md "wikilink") [5월 28일](../Page/5월_28일.md "wikilink") 방송분은 [이현주](../Page/이현주_\(아나운서\).md "wikilink") 아나운서가 단독으로 진행하였으며, [2014년](../Page/2014년.md "wikilink") [5월 29일](../Page/5월_29일.md "wikilink") \~ [2014년](../Page/2014년.md "wikilink") [6월 5일](../Page/6월_5일.md "wikilink") 방송분은 [이창진](https://ko.wikipedia.org/wiki/이창진 "wikilink") 아나운서가 단독으로 진행하였다.
 36. [이현주](../Page/이현주_\(아나운서\).md "wikilink") 아나운서의 휴가 또는 출장으로 인하여, [2014년](../Page/2014년.md "wikilink") [7월 21일](../Page/7월_21일.md "wikilink") \~ [2014년](../Page/2014년.md "wikilink") [7월 25일](../Page/7월_25일.md "wikilink") 방송분은 [유지원](../Page/유지원_\(아나운서\).md "wikilink") 아나운서가 대신 진행하였다.
@@ -1637,7 +1637,7 @@
 41. [오영실](../Page/오영실.md "wikilink") 아나운서는 9개월 만에 주말 재진행.
 42. 설 특집으로 인하여 [1995년](../Page/1995년.md "wikilink") [1월 21일](../Page/1월_21일.md "wikilink") 방송분은 [이윤성](../Page/이윤성_\(1944년\).md "wikilink") 앵커가 서울요금소에서, [황현정](../Page/황현정.md "wikilink") 앵커가 뉴스센터에서 진행하였다.
 43. 송년특집으로 인하여 [1995년](../Page/1995년.md "wikilink") [12월 30일](../Page/12월_30일.md "wikilink") \~ [12월 31일](../Page/12월_31일.md "wikilink") 방송분은 [류근찬](../Page/류근찬.md "wikilink"), [황현정](../Page/황현정.md "wikilink") 앵커가 진행하였다.
-44. 2기 토요일 한정 앵커다.
+44. 3기 토요일 한정 앵커다.
 45. [황수경](../Page/황수경_\(아나운서\).md "wikilink") 아나운서는 5개월 만에 주말 재진행.
 46. [황현정](../Page/황현정.md "wikilink") 아나운서는 1년 8개월 만에 주말 재진행.
 47. KBS 노조파업으로 인하여, [2000년](../Page/2000년.md "wikilink") [6월 3일](../Page/6월_3일.md "wikilink") \~ [6월 4일](../Page/6월_4일.md "wikilink") 방송분은 [정세진](../Page/정세진.md "wikilink") 아나운서 대신 [윤영미](https://ko.wikipedia.org/wiki/윤영미_\(1959년\) "wikilink") 아나운서가 진행하였다.

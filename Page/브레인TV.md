@@ -102,7 +102,7 @@
   - [보드게임](https://ko.wikipedia.org/wiki/보드게임 "wikilink")
   - [스카이라이프](https://ko.wikipedia.org/wiki/스카이라이프 "wikilink")
   - [인터넷 프로토콜 텔레비전](https://ko.wikipedia.org/wiki/인터넷_프로토콜_텔레비전 "wikilink")
-  - [바둑TV](https://ko.wikipedia.org/wiki/바둑TV "wikilink")
+  - [바둑TV](../Page/바둑TV.md "wikilink")
 
 ## 각주
 

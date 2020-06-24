@@ -11,7 +11,7 @@
 
 ## 외부 링크
 
-  - [공식 웹사이트](http://www.fcdynamo.kiev.ua/ua/) (영어, 우크라이나어, 러시아어)
+  - [공식 웹사이트](https://web.archive.org/web/20160426160415/http://www.fcdynamo.kiev.ua/ua) (영어, 우크라이나어, 러시아어)
   - [Official website of the Football Federation of Ukraine](http://www.ffu.org.ua/index_en.php)
   - [Dynamo Kyiv Away Kit 2009/10](http://www.football-shirts.co.uk/fans/dynamo-kyiv-away-kit-200910_4676)
 

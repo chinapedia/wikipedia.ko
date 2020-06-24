@@ -1,12 +1,12 @@
 > This article is converted from Wikipedia: [NHK 오키나와 방송국](https://ko.wikipedia.org/wiki/NHK_오키나와_방송국).
 
 
-[썸네일](https://ko.wikipedia.org/wiki/파일:NHK_Okinawa_Broadcasting_Station.JPG "wikilink") **NHK 오키나와 방송국**(沖繩 放送局)은 [오키나와현](../Page/오키나와현.md "wikilink")을 방송국역으로 하는 NHK의 지역방송국이며 중파·FM라디오·텔레비전 방송을 담당하고 있다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:NHK_Okinawa_Broadcasting_Station.JPG "wikilink") **NHK 오키나와 방송국**(沖繩 放送局)은 [오키나와현](../Page/오키나와현.md "wikilink")을 방송국역으로 하는 NHK의 지역방송국이며 중파·FM라디오·텔레비전 방송을 담당하고 있다.
 
 ## 개요
 
   - [1972년](../Page/1972년.md "wikilink") [5월](../Page/5월.md "wikilink") 오키나와 현이 일본에 반환되자 그 전까지 오키나와현에서 공영 방송국 역할을 수행한 [오키나와 방송협회로부터](https://ko.wikipedia.org/wiki/오키나와_방송협회 "wikilink") 업무를 위임받아 설립되었다.
-  - 스튜디오는 현청 소재지인 [나하 시가](https://ko.wikipedia.org/wiki/나하_시 "wikilink") 아닌 [도미구스쿠 시](https://ko.wikipedia.org/wiki/도미구스쿠_시 "wikilink")([2006년](../Page/2006년.md "wikilink") [3월 5일까지](../Page/3월_5일.md "wikilink"))에 있었으며\[1\] NHK 방송국 중에서는 유일하게 **방송국 소재지 시명을 사용하지 않고** 현명을 사용한 방송국이다(다만 2차대전 이전 한때, 나하 방송국이라는 이름으로 개국준비중이었다.)
+  - 스튜디오는 현청 소재지인 [나하시](../Page/나하시.md "wikilink")가 아닌 [도미구스쿠시](../Page/도미구스쿠시.md "wikilink")([2006년](../Page/2006년.md "wikilink") [3월 5일까지](../Page/3월_5일.md "wikilink"))에 있었으며\[1\] NHK 방송국 중에서는 유일하게 **방송국 소재지 시명을 사용하지 않고** 현명을 사용한 방송국이다(다만 2차대전 이전 한때, 나하 방송국이라는 이름으로 개국준비중이었다.)
   - [라디오 제1방송에서](https://ko.wikipedia.org/wiki/NHK_라디오제1방송 "wikilink") 사용하고 있는 JOAP는 일본의 2차 세계대전 참전 전 라디오 방송국에 할당되었지만, 1945년 종전과 오키나와의 미군지배로 인해 폐지되면서 전후에는 [NHK 마에바시 방송국의](../Page/NHK_마에바시_방송국.md "wikilink") FM 방송 콜사인으로 사용되었으나 오키나와가 일본로 반환되자 오킨나와 방송국에 이전 콜사인인 JOAP를 부여하는 것이 바람직하다는 의견에 따라 마에바시 방송국의 콜사인은 JOTP-FM으로 변경되었고 JOTP-FM을 쓰고 있던 [NHK 교토 방송국은](../Page/NHK_교토_방송국.md "wikilink") 콜사인을 JOOK-FM으로 바꾸었다.
   - 2019년 현재 NHK 텔레비전 방송만을 위한 텔레비전 중계국이 존재하지 않는다.\[2\]
 
@@ -128,7 +128,7 @@
 
 [분류:NHK의 방송국](https://ko.wikipedia.org/wiki/분류:NHK의_방송국 "wikilink")
 
-1.  [도미구스쿠 시가](https://ko.wikipedia.org/wiki/도미구스쿠_시 "wikilink") 세워지기 전인 도미구스쿠 정 시대에는 NHK 방송국 중 유일하게 정단위 행정구역에 있는 방송국이었으나 [나하 시로](https://ko.wikipedia.org/wiki/나하_시 "wikilink") 이전한 지금 옛 사옥은 **NHK 도미구스쿠 방송소**라는 이름으로 송신기능만이 남아 있다.
+1.  [도미구스쿠시](../Page/도미구스쿠시.md "wikilink")가 세워지기 전인 도미구스쿠 정 시대에는 NHK 방송국 중 유일하게 정단위 행정구역에 있는 방송국이었으나 [나하시](../Page/나하시.md "wikilink")로 이전한 지금 옛 사옥은 **NHK 도미구스쿠 방송소**라는 이름으로 송신기능만이 남아 있다.
 2.  오키나와섬의 경우 1984년 3월 17일 까지, [사키시마 제도에서는](../Page/사키시마_제도.md "wikilink") 1993년 12월 15일 까지 NHK 단독 텔레비전 중계국이 존재한 적이 있었다.
 3.  [NHK 종합 텔레비전](../Page/NHK_종합_텔레비전.md "wikilink")·JOAK-TV와 [NHK 교육 텔레비전](../Page/NHK_교육_텔레비전.md "wikilink")·JOAB-TV
 4.  저작권 문제로 재전송이 불가능한 프로그램과 오키나와 방송국이나 규슈지역 방송국 제작 프로그램은 들을 수 없다.

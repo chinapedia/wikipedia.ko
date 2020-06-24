@@ -7,7 +7,7 @@
 
 압축 프로그램 알고리즘:
 
-```
+``` text
     w = NIL;
     add all possible charcodes to the dictionary
     for (every character c in the uncompressed data) do
@@ -25,7 +25,7 @@
 
 압축 해제 프로그램 알고리즘:
 
-```
+``` text
     add all possible charcodes to the dictionary
     read a char k;
     entry = dictionary entry for k

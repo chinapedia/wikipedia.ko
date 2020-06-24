@@ -160,7 +160,7 @@
 
   - [YB 공식 블로그](http://blog.naver.com/ybrocks)
 
-[분류:대한민국의 록 밴드](https://ko.wikipedia.org/wiki/분류:대한민국의_록_밴드 "wikilink") [분류:대한민국의 하드 록 밴드](https://ko.wikipedia.org/wiki/분류:대한민국의_하드_록_밴드 "wikilink") [분류:1994년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:1994년_결성된_음악_그룹 "wikilink") [분류:1997년 데뷔](https://ko.wikipedia.org/wiki/분류:1997년_데뷔 "wikilink") [분류:남성 음악 그룹](https://ko.wikipedia.org/wiki/분류:남성_음악_그룹 "wikilink") [분류:5인조 음악 그룹](https://ko.wikipedia.org/wiki/분류:5인조_음악_그룹 "wikilink") [분류:나는 가수다에 출연한 음악 그룹](https://ko.wikipedia.org/wiki/분류:나는_가수다에_출연한_음악_그룹 "wikilink") [분류:1990년대 음악 그룹](https://ko.wikipedia.org/wiki/분류:1990년대_음악_그룹 "wikilink") [분류:2000년대 음악 그룹](https://ko.wikipedia.org/wiki/분류:2000년대_음악_그룹 "wikilink") [분류:2010년대 음악 그룹](https://ko.wikipedia.org/wiki/분류:2010년대_음악_그룹 "wikilink")
+[분류:대한민국의 록 밴드](https://ko.wikipedia.org/wiki/분류:대한민국의_록_밴드 "wikilink") [분류:대한민국의 하드 록 밴드](https://ko.wikipedia.org/wiki/분류:대한민국의_하드_록_밴드 "wikilink") [분류:1994년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:1994년_결성된_음악_그룹 "wikilink") [분류:남성 음악 그룹](https://ko.wikipedia.org/wiki/분류:남성_음악_그룹 "wikilink") [분류:5인조 음악 그룹](https://ko.wikipedia.org/wiki/분류:5인조_음악_그룹 "wikilink") [분류:나는 가수다에 출연한 음악 그룹](https://ko.wikipedia.org/wiki/분류:나는_가수다에_출연한_음악_그룹 "wikilink") [분류:1990년대 음악 그룹](https://ko.wikipedia.org/wiki/분류:1990년대_음악_그룹 "wikilink") [분류:2000년대 음악 그룹](https://ko.wikipedia.org/wiki/분류:2000년대_음악_그룹 "wikilink") [분류:2010년대 음악 그룹](https://ko.wikipedia.org/wiki/분류:2010년대_음악_그룹 "wikilink")
 
 1.
 2.

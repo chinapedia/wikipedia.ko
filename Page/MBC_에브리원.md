@@ -13,7 +13,7 @@
 
 ### 예능
 
-  - [주간 아이돌](../Page/주간_아이돌.md "wikilink") (진행 : [황광희](../Page/황광희.md "wikilink"), [스페셜](https://ko.wikipedia.org/wiki/스페셜 "wikilink"))
+  - [주간 아이돌](../Page/주간_아이돌.md "wikilink") (진행 : [황광희](../Page/황광희.md "wikilink"), [은혁](../Page/은혁.md "wikilink"))
   - [비디오스타](../Page/비디오스타.md "wikilink") (진행 : [박소현](../Page/박소현_\(배우\).md "wikilink"), [김숙](../Page/김숙.md "wikilink"), [박나래](../Page/박나래.md "wikilink"),[박산다라](../Page/박산다라.md "wikilink"))
   - [대한외국인](../Page/대한외국인.md "wikilink") (진행 : [김용만](https://ko.wikipedia.org/wiki/김용만 "wikilink"), [박명수](../Page/박명수.md "wikilink"))
   - [맛있을 지도](https://ko.wikipedia.org/wiki/맛있을_지도 "wikilink") 시즌 3 (진행 : [김경식](../Page/김경식_\(희극인\).md "wikilink"), [양세찬](../Page/양세찬.md "wikilink"), [이진호](../Page/이진호_\(희극인\).md "wikilink"), [서효명](https://ko.wikipedia.org/wiki/서효명 "wikilink"), [김정진](../Page/김정진_\(미스코리아\).md "wikilink"))

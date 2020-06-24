@@ -136,9 +136,9 @@
 
   - [2018년](../Page/2018년.md "wikilink") [2월 26일](https://ko.wikipedia.org/wiki/2월_26일 "wikilink") : 제18대 대표이사 사장 최중억 취임
 
-## TV방송
+## TV방송 [MBC강원영동 삼척 TV](https://ko.wikipedia.org/wiki/MBC강원영동_삼척_TV "wikilink")
 
-[1983년](../Page/1983년.md "wikilink") [10월 17일](../Page/10월_17일.md "wikilink") TV방송 개국하였고, [1987년](../Page/1987년.md "wikilink") [11월 27일](../Page/11월_27일.md "wikilink") 삼척방송국의 TV연주소를 갖추면서 개국하였고, 이후 [2005년](../Page/2005년.md "wikilink") [12월 27일](../Page/12월_27일.md "wikilink") 디지털 TV방송을 개국하였다. 강원 영동 남부 지역과 경북 북부 일부를 가시청권역으로서 방송중이다.
+[1983년](../Page/1983년.md "wikilink") [10월 17일](../Page/10월_17일.md "wikilink") 초록봉TV송신소에서 설치되고 4년 후 [1987년](../Page/1987년.md "wikilink") [11월 27일](../Page/11월_27일.md "wikilink") 삼척방송국의 TV연주소를 갖추면서 개국하였고, 이후 [2005년](../Page/2005년.md "wikilink") [12월 27일](../Page/12월_27일.md "wikilink") 디지털 TV방송을 개국하였다. 강원 영동 남부 지역과 경북 북부 일부를 가시청권역으로서 방송중이다.
 
 ### 프로그램
 
@@ -155,13 +155,13 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="../Page/930_MBC_뉴스.md" title="wikilink">930 MBC 뉴스 강원영동</a></p></td>
+<td><p><a href="../Page/930_MBC_뉴스.md" title="wikilink">930 MBC 뉴스 강원</a></p></td>
 <td><p>월~금 10분</p></td>
 <td><p>월~금 오전 09:35 ~ 09:45</p></td>
 <td><p>민기원</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/5_MBC_뉴스.md" title="wikilink">5 MBC 뉴스 강원영동</a></p></td>
+<td><p><a href="../Page/5_MBC_뉴스.md" title="wikilink">5 MBC 뉴스 강원</a></p></td>
 <td><p>월~금 10분</p></td>
 <td><p>월~금 오후 17:15 ~ 17:25</p></td>
 <td><p>김현수</p></td>
@@ -313,7 +313,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="http://www.mbceg.co.kr/program/radio_06">오후의 발견<br />
+<td><p><a href="https://web.archive.org/web/20161109203537/http://www.mbceg.co.kr/program/radio_06">오후의 발견<br />
 (MBC강원영동 강릉방송국)</a></p></td>
 <td><p>성스리<br />
 (MBC강원영동 강릉방송국 아나운서)</p></td>

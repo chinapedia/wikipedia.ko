@@ -15,6 +15,6 @@
 
   - [고도이크루스 팬 사이트](https://web.archive.org/web/20080808012214/http://www.subitealexpreso.com.ar/subitealexpreso/)
 
-  - [고도이크루스의 역사](http://www.cuyonoticias.com/index.php?option=com_content&task=view&id=7412&Itemid=104)
+  - [고도이크루스의 역사](https://web.archive.org/web/20070927120435/http://www.cuyonoticias.com/index.php?option=com_content&task=view&id=7412&Itemid=104)
 
 [CD_고도이크루스](https://ko.wikipedia.org/wiki/분류:CD_고도이크루스 "wikilink") [분류:아르헨티나의 축구단](https://ko.wikipedia.org/wiki/분류:아르헨티나의_축구단 "wikilink") [분류:1921년 설립된 축구단](https://ko.wikipedia.org/wiki/분류:1921년_설립된_축구단 "wikilink")

@@ -5,7 +5,7 @@
 
 ## 개요
 
-대부분의 방송은 [KBS](../Page/한국방송공사.md "wikilink") 본사의 프로그램을 중계하고 있으나 지역의 소식 보도, 지역 현안과 문화, 시사교양적 프로그램 등을 자체 제작하여 편성하고 있다. 지난 1938년 익산방송국을 시작으로 [전주시](https://ko.wikipedia.org/wiki/전주시 "wikilink") 고사동과 금암동 사옥을 거쳐, 73년 만에 현재의 효자동 사옥으로 자리를 옮겼다. [2012년](../Page/2012년.md "wikilink") [10월 23일](../Page/10월_23일.md "wikilink") 오후 2시를 기해 전북권 지역에 지상파 아날로그 TV 방송을 종료하였고, [2013년](../Page/2013년.md "wikilink") [6월 12일에는](../Page/6월_12일.md "wikilink") 전라도 디지털 주파수 재배치를 완료했다.
+대부분의 방송은 [KBS](../Page/한국방송공사.md "wikilink") 본사의 프로그램을 중계하고 있으나 지역의 소식 보도, 지역 현안, 문화, 시사교양적 프로그램 등을 자체 제작하여 편성하고 있다. 지난 1938년 익산방송국을 시작으로 [전주시](https://ko.wikipedia.org/wiki/전주시 "wikilink") 고사동과 금암동 사옥을 거쳐 73년 만에 현재의 효자동 사옥으로 자리를 옮겼다. [2012년](../Page/2012년.md "wikilink") [10월 23일](../Page/10월_23일.md "wikilink") 오후 2시를 기해 전북권 지역에 지상파 아날로그 TV 방송을 종료하였고, [2013년](../Page/2013년.md "wikilink") [6월 12일에는](../Page/6월_12일.md "wikilink") 전라도 디지털 주파수 재배치를 완료했다.
 
 ## 방송 송출 시설망
 
@@ -164,7 +164,7 @@ PC,모바일 MY K로 실시간 시청 가능
 <td><p><a href="../Page/KBS_뉴스광장.md" title="wikilink">KBS 뉴스광장 전북</a></p></td>
 <td><p>15분</p></td>
 <td><p>월요일 ~ 금요일 오전 7시 35분 ~ 7시 45분</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/함윤호" title="wikilink">함윤호</a>,<a href="https://ko.wikipedia.org/wiki/봉효정" title="wikilink">봉효정</a>(평일)</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/함윤호" title="wikilink">함윤호</a>,<a href="https://ko.wikipedia.org/wiki/김태은" title="wikilink">김태은</a>(평일)</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/KBS_뉴스_(930)" title="wikilink">KBS 뉴스 (930) 전북</a></p></td>
@@ -190,7 +190,7 @@ PC,모바일 MY K로 실시간 시청 가능
 주말 10분</p></td>
 <td><p>평일 밤 9시 30분 ~ 9시 45분<br />
 주말 밤 9시 20분 ~ 9시 30분</p></td>
-<td><p><a href="../Page/조경모.md" title="wikilink">조경모</a>, <a href="https://ko.wikipedia.org/wiki/봉효정" title="wikilink">봉효정</a>(평일)<br />
+<td><p><a href="https://ko.wikipedia.org/wiki/이지현" title="wikilink">이지현</a>, <a href="https://ko.wikipedia.org/wiki/봉효정" title="wikilink">봉효정</a>(평일)<br />
 무작위(주말)</p></td>
 </tr>
 </tbody>
@@ -237,8 +237,8 @@ PC,모바일 MY K로 실시간 시청 가능
 
 <!-- end list -->
 
-  - [김태은의 가요뱅크](https://web.archive.org/web/20140529053012/http://jeonju.kbs.co.kr/radio/gayobank/about/index.html) (연예오락, 월\~일 11:00\~11:57)(진행 [김태은](https://ko.wikipedia.org/wiki/김태은 "wikilink"))
-  - [즐거운 저녁길](https://web.archive.org/web/20170710232857/http://jeonju.kbs.co.kr/radio/radil_gil/about/index.html) (연예오락, 월\~금,18:05\~20:00)(진행 [홍석우](../Page/홍석우.md "wikilink"))
+  - [김태은의 가요뱅크](http://program.kbs.co.kr/2radio/local/gayobank/pc/index.html) (연예오락, 월\~일 11:00\~11:57)(진행 [김태은](https://ko.wikipedia.org/wiki/김태은 "wikilink"))
+  - [즐거운 저녁길](http://program.kbs.co.kr/2radio/local/radil_gil/pc/index.html) (연예오락, 월\~금,18:05\~20:00)(진행 [홍석우](../Page/홍석우.md "wikilink"))
 
 ## [아나운서](http://jeonju.kbs.co.kr/index.html?sname=localmain)
 
@@ -290,24 +290,24 @@ PC,모바일 MY K로 실시간 시청 가능
 
 <!-- end list -->
 
-  - [김명성](https://ko.wikipedia.org/wiki/김명성 "wikilink")
-  - [한현철](https://ko.wikipedia.org/wiki/한현철 "wikilink")
-  - [이병문](https://ko.wikipedia.org/wiki/이병문 "wikilink")
-  - [박재홍](https://ko.wikipedia.org/wiki/박재홍 "wikilink")
-  - [김종환](https://ko.wikipedia.org/wiki/김종환 "wikilink")
-  - [박형규](../Page/박형규.md "wikilink")
-  - [서승신](https://ko.wikipedia.org/wiki/서승신 "wikilink")
-  - [이종완](https://ko.wikipedia.org/wiki/이종완 "wikilink")
-  - [안태성](https://ko.wikipedia.org/wiki/안태성 "wikilink")
-  - [오중호](https://ko.wikipedia.org/wiki/오중호 "wikilink")
-  - [이지현](https://ko.wikipedia.org/wiki/이지현 "wikilink")
-  - [조경모](../Page/조경모.md "wikilink")
-  - [유진휘](https://ko.wikipedia.org/wiki/유진휘 "wikilink")
-  - [박웅](../Page/박웅.md "wikilink")
-  - [진유민](https://ko.wikipedia.org/wiki/진유민 "wikilink")
-  - [안승길](https://ko.wikipedia.org/wiki/안승길 "wikilink")
-  - [서윤덕](https://ko.wikipedia.org/wiki/서윤덕 "wikilink")
-  - [오정현](../Page/오정현.md "wikilink")
+  - 김명성
+  - 한현철
+  - 이병문
+  - 박재홍
+  - 김종환
+  - 박형규
+  - 서승신
+  - 이종완
+  - 안태성
+  - 오중호
+  - 이지현
+  - 조경모
+  - 유진휘
+  - 박웅
+  - 진유민
+  - 안승길
+  - 서윤덕
+  - 오정현
 
 <!-- end list -->
 
@@ -315,13 +315,13 @@ PC,모바일 MY K로 실시간 시청 가능
 
 <!-- end list -->
 
-  - [이화연](https://ko.wikipedia.org/wiki/이화연 "wikilink")
-  - [한주연](https://ko.wikipedia.org/wiki/한주연 "wikilink")
-  - [이수진](https://ko.wikipedia.org/wiki/이수진 "wikilink")
-  - [김진희](https://ko.wikipedia.org/wiki/김진희 "wikilink")
-  - [조선우](https://ko.wikipedia.org/wiki/조선우 "wikilink")
-  - [길금희](https://ko.wikipedia.org/wiki/길금희 "wikilink")
-  - [한희조](https://ko.wikipedia.org/wiki/한희조 "wikilink")
+  - 이화연
+  - 한주연
+  - 이수진
+  - 김진희
+  - 조선우
+  - 길금희
+  - 한희조
 
 <!-- end list -->
 

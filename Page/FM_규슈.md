@@ -1,14 +1,14 @@
 > This article is converted from Wikipedia: [FM 규슈](https://ko.wikipedia.org/wiki/FM_규슈).
 
 
-[썸네일](https://ko.wikipedia.org/wiki/파일:JORV-FM_Kirameki_Street_Studio.jpg "wikilink") **FM규슈**는 [후쿠오카현](../Page/후쿠오카현.md "wikilink")에서 방송을 실시한 [일본](../Page/일본.md "wikilink")의 FM 방송국이다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:JORV-FM_Kirameki_Street_Studio.jpg "wikilink") **FM규슈**는 [후쿠오카현](../Page/후쿠오카현.md "wikilink")에서 방송을 실시한 [일본](../Page/일본.md "wikilink")의 FM 방송국이다.
 
 [JFL에](../Page/JAPAN_FM_LEAGUE.md "wikilink") 가맹하였으며, 애칭은 **CROSS FM**, 콜사인은 JORV-FM이다.
 
 ## 개요
 
   - [1993년](../Page/1993년.md "wikilink") [9월 1일에](../Page/9월_1일.md "wikilink") 일본에서 42번째, [후쿠오카현](../Page/후쿠오카현.md "wikilink")에서 2번째 민영 FM 방송국으로 개국하였으며, 본명인 FM규슈보다 애칭인 CROSS FM이 청취자 사이에서 익숙하다.
-  - 본사는 [후쿠오카 시가](https://ko.wikipedia.org/wiki/후쿠오카_시 "wikilink") 아닌 [기타큐슈 시에](https://ko.wikipedia.org/wiki/기타큐슈_시 "wikilink") 있다.
+  - 본사는 [후쿠오카시](../Page/후쿠오카시.md "wikilink")가 아닌 [기타큐슈시](../Page/기타큐슈시.md "wikilink")에 있다.
   - 후쿠오카의 신문사인 [니시니혼 신문과](https://ko.wikipedia.org/wiki/니시니혼_신문 "wikilink") 관련이 있지만 개국당시에는 [아사히 신문측도](../Page/아사히_신문.md "wikilink") 자본참가를 했다.
   - 개국 당시부터 DJ를 네비게이터라고 불렀다(아이치현의 JFL계열 방송국 [집 FM도](../Page/ZIP-FM.md "wikilink") 그렇게 부른다.).
   - [FM802](../Page/FM802.md "wikilink")나 [집 FM에서](../Page/ZIP-FM.md "wikilink") 볼 수 있는 일부 노래에 대한 규제는 거의 행해지지 않는다.

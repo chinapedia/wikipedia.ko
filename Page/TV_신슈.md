@@ -6,13 +6,13 @@
 ## 연혁
 
   - [1979년](../Page/1979년.md "wikilink") [12월 3일](../Page/12월_3일.md "wikilink") 회사창립.
-  - [1980년](../Page/1980년.md "wikilink") [10월 1일](../Page/10월_1일.md "wikilink") 나가노 현 3번째 민영 텔레비전 방송국으로 개국했으며 당초는 [NNN](https://ko.wikipedia.org/wiki/NNN "wikilink")과 [ANN](../Page/올_닛폰_뉴스_네트워크.md "wikilink") 프로그램을 5:5 비율로 방송하는 크로스 네트워크 방송국이었다.(이 때 본사는 [마쓰모토 시에](https://ko.wikipedia.org/wiki/마쓰모토_시 "wikilink") 설치)
+  - [1980년](../Page/1980년.md "wikilink") [10월 1일](../Page/10월_1일.md "wikilink") 나가노 현 3번째 민영 텔레비전 방송국으로 개국했으며 당초는 [NNN](https://ko.wikipedia.org/wiki/NNN "wikilink")과 [ANN](../Page/올_닛폰_뉴스_네트워크.md "wikilink") 프로그램을 5:5 비율로 방송하는 크로스 네트워크 방송국이었다.(이 때 본사는 [마쓰모토시](../Page/마쓰모토시.md "wikilink")에 설치)
   - [1987년](../Page/1987년.md "wikilink") [10월 1일](../Page/10월_1일.md "wikilink") 편성의 일부를 변경해 황금시간대 프로그램 약 70%가 [TV 아사히](../Page/TV_아사히.md "wikilink") 계열 프로그램이 된다.
   - [1991년](../Page/1991년.md "wikilink") [4월 1일](../Page/4월_1일.md "wikilink") [나가노 아사히 방송](../Page/나가노_아사히_방송.md "wikilink") 개국에 따라 [니혼 TV](https://ko.wikipedia.org/wiki/니혼_TV "wikilink") 완전가맹국이 되었으며 이와 동시에 [NNS에](https://ko.wikipedia.org/wiki/니혼TV_네트워크_협의회 "wikilink") 정식 가맹.
   - [2005년](../Page/2005년.md "wikilink") [10월 1일](../Page/10월_1일.md "wikilink") 개국 25주년. 지상파 디지털 텔레비전 방송 시험 전파 발사.
   - [2006년](../Page/2006년.md "wikilink") [7월 1일](../Page/7월_1일.md "wikilink") 6개 중계국에서,지상파 디지털 텔레비전 방송 시험 전파 발사 개시.
   - [2006년](../Page/2006년.md "wikilink") [10월 1일](../Page/10월_1일.md "wikilink")　AM4:55(JST)를 기점으로 지상파 디지털 텔레비전 본방송 개시.
-  - [2007년](../Page/2007년.md "wikilink") [10월 1일](../Page/10월_1일.md "wikilink")　본사 이전에 의해 본사가 [나가노 시로](https://ko.wikipedia.org/wiki/나가노_시 "wikilink") 이전한다.
+  - [2007년](../Page/2007년.md "wikilink") [10월 1일](../Page/10월_1일.md "wikilink")　본사 이전에 의해 본사가 [나가노시](../Page/나가노시.md "wikilink")로 이전한다.
   - [2011년](../Page/2011년.md "wikilink") [7월 24일](../Page/7월_24일.md "wikilink") 지상파 아날로그 텔레비전 본방송 종료. ([7월 25일](../Page/7월_25일.md "wikilink") 완전 종료된다.)
 
 ## 네트워크 변천사
@@ -24,7 +24,7 @@
 
 ## 특징
 
-  - 개국당시부터 2007년 9월까지 본사는 [마쓰모토 시](https://ko.wikipedia.org/wiki/마쓰모토_시 "wikilink"), 연주소는 [나가노 시에](https://ko.wikipedia.org/wiki/나가노_시 "wikilink") 따로 존재했다.
+  - 개국당시부터 2007년 9월까지 본사는 [마쓰모토시](../Page/마쓰모토시.md "wikilink"), 연주소는 [나가노시](../Page/나가노시.md "wikilink")에 따로 존재했다.
   - 개국당시부터 [나가노 아사히 방송개국](../Page/나가노_아사히_방송.md "wikilink")([1991년](../Page/1991년.md "wikilink") [4월 1일](../Page/4월_1일.md "wikilink")) 이전까지는 ANN계열 프로그램도 같이 방송하는 [크로스넷](https://ko.wikipedia.org/wiki/크로스넷 "wikilink") 방송국 이었다.
   - 1987년 10월 1일 [TV 아사히의](../Page/TV_아사히.md "wikilink") 뉴스 프로그램인 [뉴스 셔틀을](https://ko.wikipedia.org/wiki/뉴스_셔틀 "wikilink") 방송하면서 골든 타임에 TV 아사히계열 프로그램을 7할정도 편성했으며 이로 인해 나가노 현의 시청자들에게 많은 항의를 받으면서 방송국의 시청률이 큰 폭으로 떨어졌다고 한다.\[1\]
 

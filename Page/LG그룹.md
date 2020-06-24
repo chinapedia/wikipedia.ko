@@ -7,7 +7,7 @@
 
 창업주인 연암 [구인회](../Page/구인회_\(기업인\).md "wikilink") 회장은 [1931년](../Page/1931년.md "wikilink") [경상남도](https://ko.wikipedia.org/wiki/경상남도 "wikilink") [진주시](https://ko.wikipedia.org/wiki/진주시 "wikilink")에서 구인회상점이라는 상호명의 포목상을 창업하였다. [1940년](../Page/1940년.md "wikilink") 주식회사 구인상회로 발전, 사업 운수와 무역 등으로 사업이 확대되었다. 해방 이후 사업들을 모두 정리하고 [부산](https://ko.wikipedia.org/wiki/부산 "wikilink")으로 터전을 옮겼다. 당시 동생인 [구철회](https://ko.wikipedia.org/wiki/구철회 "wikilink")([LIG그룹](../Page/LIG그룹.md "wikilink") 초대 회장)와 함께 동업을 하였는데, 사업이 확장이 되면서 [1941년](../Page/1941년.md "wikilink") 사돈관계에 있던 [허창수](../Page/허창수.md "wikilink")(현재의 [GS그룹](../Page/GS그룹.md "wikilink") 회장) 일가와 6대 4의 지분을 가지고 동업을 시작하였다. [1945년](../Page/1945년.md "wikilink") 해방이후에는 조선흥업사(朝鮮興業社)를 설립하였다.
 
-[1947년](../Page/1947년.md "wikilink") LG그룹의 직접적인 모태인 락희화학공업사(현 [LG화학](../Page/LG화학.md "wikilink")), [1958년](../Page/1958년.md "wikilink")에 금성사(현 [LG전자](../Page/LG전자.md "wikilink"))가 설립되는 것으로 오늘날 LG그룹의 역사가 본격적으로 시작되었다. 창업주인 연암 [구인회](../Page/구인회_\(기업인\).md "wikilink") 회장은 국가에 기여하는 사업을 해야한다는 사명 하에 대한민국 최초 [플라스틱](../Page/플라스틱.md "wikilink") 생산, [TV](https://ko.wikipedia.org/wiki/TV "wikilink") 생산 등의 시장을 주도하는 선구적 기업으로 키워나갔다. 평소 구 회장은 인간 사이의 화합을 기원하는 인화라는 정신으로 경영을 하였는데, 이는 LG그룹의 경영이념이 되어 계열분리가 되기 전 세계적으로 전례를 찾아볼 수 없는 57년의 동업관계를 이끌어내기도 하였다. 세계적인 전자기업 [필립스](../Page/필립스.md "wikilink")는 이러한 이념이 LG에 신뢰를 가지는 계기가 되었고, 이에 [LG필립스](https://ko.wikipedia.org/wiki/LG필립스 "wikilink")를 공동설립 하였다고 밝힌 바 있다.
+[1947년](../Page/1947년.md "wikilink") LG그룹의 직접적인 모태인 락희화학공업사(현 [LG화학](../Page/LG화학.md "wikilink")), [1958년](../Page/1958년.md "wikilink")에 [금성사](../Page/금성사.md "wikilink")(현 [LG전자](../Page/LG전자.md "wikilink"))가 설립되는 것으로 오늘날 LG그룹의 역사가 본격적으로 시작되었다. 창업주인 연암 [구인회](../Page/구인회_\(기업인\).md "wikilink") 회장은 국가에 기여하는 사업을 해야한다는 사명 하에 대한민국 최초 [플라스틱](../Page/플라스틱.md "wikilink") 생산, [TV](https://ko.wikipedia.org/wiki/TV "wikilink") 생산 등의 시장을 주도하는 선구적 기업으로 키워나갔다. 평소 구 회장은 인간 사이의 화합을 기원하는 인화라는 정신으로 경영을 하였는데, 이는 LG그룹의 경영이념이 되어 계열분리가 되기 전 세계적으로 전례를 찾아볼 수 없는 57년의 동업관계를 이끌어내기도 하였다. 세계적인 전자기업 [필립스](../Page/필립스.md "wikilink")는 이러한 이념이 LG에 신뢰를 가지는 계기가 되었고, 이에 [LG필립스](https://ko.wikipedia.org/wiki/LG필립스 "wikilink")를 공동설립 하였다고 밝힌 바 있다.
 
 ## 연혁
 
@@ -61,7 +61,7 @@
   - [1983년](../Page/1983년.md "wikilink") 럭키(현 [LG화학](../Page/LG화학.md "wikilink")), 대한민국 최초로 엔지니어링 플라스틱 개발.
   - [1983년](../Page/1983년.md "wikilink") [금성사](../Page/금성사.md "wikilink")(현 LG전자), 메트릭스 프린터를 개발.
   - [1983년](../Page/1983년.md "wikilink") [금성사](../Page/금성사.md "wikilink")(현 LG전자), 디자인연구소과 시험연구소를 설립.
-  - [1983년](../Page/1983년.md "wikilink") 금성사(현 LG전자), 25주년를 맞아 CI를 심볼마크, 로고타입 수정.
+  - [1983년](../Page/1983년.md "wikilink") 금성사(현 LG전자), 25주년을 맞아 CI를 심볼마크, 로고타입 수정.
   - [1983년](../Page/1983년.md "wikilink") 럭키(현 LG화학), 인도지사 설립.
   - [1983년](../Page/1983년.md "wikilink") 금성하니웰(현 [LG엔시스](../Page/LG엔시스.md "wikilink")), 국내 최초 UNIX사업 개시.
   - [1983년](../Page/1983년.md "wikilink") 한국마이크로닉스(현 [LG마이크론](https://ko.wikipedia.org/wiki/LG마이크론 "wikilink")) 설립.
@@ -275,6 +275,7 @@ LG그룹은 1997년 계열사 간 상호의존적 결합 방식을 버리고 법
   - LG파워 (현 [GS파워](../Page/GS파워.md "wikilink"))
   - LG에너지 (현 [GS EPS](https://ko.wikipedia.org/wiki/GS_EPS "wikilink"))
   - [아워홈](../Page/아워홈.md "wikilink")
+  - 금성투자금융 (현 [하나은행](../Page/하나은행.md "wikilink"))
   - [LG패션](https://ko.wikipedia.org/wiki/LG패션 "wikilink")
   - LG반도체 (현 [SK하이닉스](../Page/SK하이닉스.md "wikilink"))
   - [LG카드](https://ko.wikipedia.org/wiki/LG카드 "wikilink") (현 [신한카드](../Page/신한카드.md "wikilink"))

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [드 하빌랜드 DH.106 코멧](https://ko.wikipedia.org/wiki/드_하빌랜드_DH.106_코멧).
 
 
-**드 하빌랜드 DH.106 코멧**은 세계 최초의 상업용 제트 여객기로, 길이 28.35 m, 너비 35 m 크기의 [터보제트](https://ko.wikipedia.org/wiki/터보제트 "wikilink") [엔진](https://ko.wikipedia.org/wiki/엔진 "wikilink") 4기를 탑재하고 후퇴날개와 여압객실(與壓客室)을 갖추고 있으며, 승객 정원은 36명이다(1형).
+**드 하빌랜드 DH.106 코멧**은 세계 최초의 상업용 제트 여객기로, 길이 28.35 m, 너비 35 m 크기의 [터보제트](https://ko.wikipedia.org/wiki/터보제트 "wikilink") [엔진](../Page/엔진.md "wikilink") 4기를 탑재하고 후퇴날개와 여압객실(與壓客室)을 갖추고 있으며, 승객 정원은 36명이다(1형).
 
 정기항공에 취항한 것은 [1952년](../Page/1952년.md "wikilink") [5월 2일](../Page/5월_2일.md "wikilink") BEA(BA;영국항공회사)의 전신인 영국해외항공회사(BOAC)의 런던∼[요하네스버그](../Page/요하네스버그.md "wikilink") 노선이 시초이다.
 
@@ -21,4 +21,4 @@
   - [더글러스 DC-8](../Page/더글러스_DC-8.md "wikilink")
   - [콘베어 CV-880](https://ko.wikipedia.org/wiki/콘베어_CV-880 "wikilink")
 
-[분류:여객기](https://ko.wikipedia.org/wiki/분류:여객기 "wikilink") [분류:1949년 첫 비행한 항공기](https://ko.wikipedia.org/wiki/분류:1949년_첫_비행한_항공기 "wikilink") [분류:사발 제트기](https://ko.wikipedia.org/wiki/분류:사발_제트기 "wikilink")
+[분류:여객기](https://ko.wikipedia.org/wiki/분류:여객기 "wikilink") [분류:1949년 첫 비행한 항공기](https://ko.wikipedia.org/wiki/분류:1949년_첫_비행한_항공기 "wikilink") [분류:사발 제트기](https://ko.wikipedia.org/wiki/분류:사발_제트기 "wikilink") [분류:저익기](https://ko.wikipedia.org/wiki/분류:저익기 "wikilink")

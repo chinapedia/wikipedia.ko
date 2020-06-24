@@ -204,7 +204,7 @@
 <td><p><a href="../Page/KBS_뉴스광장.md" title="wikilink">KBS 뉴스광장 충북</a></p></td>
 <td><p>평일 15분</p></td>
 <td><p>월요일~금요일 오전 7시 35분 ~ 7시 45분</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/이해수" title="wikilink">이해수</a>(평일)</p></td>
+<td><p><a href="../Page/박종화.md" title="wikilink">박종화</a>(평일)</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/KBS_뉴스_(930)" title="wikilink">KBS 뉴스 (930) 충북</a></p></td>
@@ -230,8 +230,8 @@
 주말 10분</p></td>
 <td><p>평일 밤 9시 30분 ~ 9시 45분<br />
 주말 밤 9시 20분 ~ 9시 30분</p></td>
-<td><p><a href="../Page/양문석_(1981년).md" title="wikilink">양문석</a>, <a href="../Page/최인희.md" title="wikilink">최인희</a>(평일)<br />
-무작위(주말)</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/권기현" title="wikilink">권기현</a>, <a href="../Page/최인희.md" title="wikilink">최인희</a>(평일)<br />
+<a href="../Page/박종화.md" title="wikilink">박종화</a>(주말)</p></td>
 </tr>
 </tbody>
 </table>

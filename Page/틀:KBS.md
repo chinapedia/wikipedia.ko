@@ -19,7 +19,7 @@
   - [KBS 조이](../Page/KBS_조이.md "wikilink")
   - [KBS N 라이프](../Page/KBS_N_라이프.md "wikilink")
   - [KBS W](../Page/KBS_W.md "wikilink")
-  - [KBS 키즈](../Page/KBS_키즈.md "wikilink")
+  - [KBS 키즈](../Page/KBS_키즈.md "wikilink")(KBS N C\&C 운영)
   - KBS N 플러스
 
 |묶음6=자회사 |내용6=

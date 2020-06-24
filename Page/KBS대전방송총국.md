@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [KBS대전방송총국](https://ko.wikipedia.org/wiki/KBS대전방송총국).
 
 
-**KBS대전방송총국**(KBS大田放送總局)은 [대전세종충남](https://ko.wikipedia.org/wiki/대전충남 "wikilink") 지역을 방송구역으로 하는 [한국방송공사](../Page/한국방송공사.md "wikilink")의 지역방송총국이다. 지역총국 중 하나로, 하부에 속해있는 지역국은 내포방송국이 있다.
+**KBS대전방송총국**(KBS大田放送總局)은 [대전세종충남](https://ko.wikipedia.org/wiki/대전충남 "wikilink") 지역을 방송구역으로 하는 [한국방송공사](../Page/한국방송공사.md "wikilink")의 지역방송총국이다. 지역총국 중 하나로, 하부에 속해있는 지역국은 없다.
 
 ## 개요
 
@@ -101,39 +101,39 @@
       - 호출부호 : HLKI-DTV
       - 가상채널 : 9-1
 
-| 송신소     | UHD   | HD      | 송신소 위치 | KBS 수신 안내                |
-| ------- | ----- | ------- | ------ | ------------------------ |
-| 물리채널    | 출력    | 물리채널    | 출력     |                          |
-| 1TV     | 2TV   | 1TV     | 2TV    |                          |
-| 계룡산 송신소 | CH 52 | CH 56   | 2㎾     | CH 26                    |
-| 식장산 중계소 | 5㎾    | CH 14   | CH 16  | 2.5㎾                     |
-| 적오산 소출력 |       | | CH 14 | CH 16  | 0.05W                    |
-| 추부 중계소  | CH 19 | CH 20   | 5W     | 충남 금산군 추부면 추정리 산54-3     |
-| 성당리 소출력 | CH 14 | CH 16   | 0.05W  | 충남 금산군 추부면 성당리           |
-| 진산 중계소  | CH ?? | CH 28   | 5W     | 충남 금산군 진산면 읍내리 156-2     |
-| 군북 중계소  | CH ?? | CH 28   | 5W     | 충남 금산군 군북면 동편리 산61       |
-| 금산 중계소  | CH 41 | CH 42   | 20W    | 충남 금산군 금산읍 신대리 662-4     |
-| 제원 중계소  | CH 19 | CH 20   | 10W    | 충남 금산군 제원면 저곡리 산603-4    |
-| 남이 중계소  | CH 19 | CH 20   | 5W     | 충남 금산군 남이면 하금리 산11       |
-| 초현 중계소  | CH 19 | CH 20   | 5W     | 충남 금산군 남일면 초현리 산45-8     |
-| 부리 중계소  | CH ?? | CH 28   | 5W     | 충남 금산군 부리면 양곡리 산83       |
-| 양촌 중계소  | CH 39 | CH 40   | 5W     | 충남 논산시 양촌면 인천리 산6        |
-| 내판 소출력  | CH 14 | CH 16   | 0.05W  | 세종 연동면 송용리               |
-| 공주 중계소  | CH 44 | CH 45   | 20W    | 충남 공주시 반죽동 산2-1 봉황산      |
-| 유구 중계소  | CH 29 | CH ??   | 10W    | 충남 공주시 유구읍 만천리 산24       |
-| 청양 중계소  | CH 44 | CH 51   | 20W    | 충남 청양군 청양읍 장승리 산62-4     |
-| 외산 중계소  | CH 21 | CH 20   | 5W     | 충남 부여군 외산면 만수리 산29       |
-| 청라 중계소  | CH ?? | CH ??   | 5W     | 충남 보령시 청라면 나원리 산94       |
-| 옥마산 중계소 | CH 28 | CH 36   | 90W    | 충남 보령시 성주면 개화리 산23-4     |
-| 비인 중계소  | CH 20 | CH 21   | 5W     | 충남 서천군 비인면 성내리 산39-1     |
-| 판교 중계소  | CH 20 | CH 21   | 5W     | 충남 서천군 판교면 현암리 산18-1     |
-| 서천 중계소  | CH 28 | CH 36   | 20W    | 충남 서천군 서천읍 남산리 산34 남산    |
-| 흑성산 중계소 | CH 44 | CH 50   | 1㎾     | 충남 천안시 동남구 목천읍 지산리 산11-3 |
-| 원효봉 중계소 | CH 23 | CH 21   | 1㎾     | 충남 서산시 해미면 산수리 산25-1     |
-| 당진 중계소  | CH 44 | CH 45   | 10W    | 충남 당진시 읍내동 234-29        |
-| 정미 중계소  | CH 44 | CH 45   | 10W    | 충남 당진시 정미면 승산리 산1        |
-| 갈산 중계소  | CH 14 | CH 15   | 5W     | 충남 홍성군 갈산면 행산리 산14       |
-| 안면 소출력  | CH 23 | CH 21   | 0.05W  | 충남 태안군 안면읍 승언리           |
+| 송신소     | UHD   | HD      | 송신소 위치 |
+| ------- | ----- | ------- | ------ |
+| 물리채널    | 출력    | 물리채널    | 출력     |
+| 1TV     | 2TV   | 1TV     | 2TV    |
+| 계룡산 송신소 | CH 52 | CH 56   | 2㎾     |
+| 식장산 중계소 | 5㎾    | CH 14   | CH 16  |
+| 적오산 소출력 |       | | CH 14 | CH 16  |
+| 추부 중계소  | CH 19 | CH 20   | 5W     |
+| 성당리 소출력 | CH 14 | CH 16   | 0.05W  |
+| 진산 중계소  | CH ?? | CH 28   | 5W     |
+| 군북 중계소  | CH ?? | CH 28   | 5W     |
+| 금산 중계소  | CH 41 | CH 42   | 20W    |
+| 제원 중계소  | CH 19 | CH 20   | 10W    |
+| 남이 중계소  | CH 19 | CH 20   | 5W     |
+| 초현 중계소  | CH 19 | CH 20   | 5W     |
+| 부리 중계소  | CH ?? | CH 28   | 5W     |
+| 양촌 중계소  | CH 39 | CH 40   | 5W     |
+| 내판 소출력  | CH 14 | CH 16   | 0.05W  |
+| 공주 중계소  | CH 44 | CH 45   | 20W    |
+| 유구 중계소  | CH 29 | CH ??   | 10W    |
+| 청양 중계소  | CH 44 | CH 51   | 20W    |
+| 외산 중계소  | CH 21 | CH 20   | 5W     |
+| 청라 중계소  | CH ?? | CH ??   | 5W     |
+| 옥마산 중계소 | CH 28 | CH 36   | 90W    |
+| 비인 중계소  | CH 20 | CH 21   | 5W     |
+| 판교 중계소  | CH 20 | CH 21   | 5W     |
+| 서천 중계소  | CH 28 | CH 36   | 20W    |
+| 흑성산 중계소 | CH 44 | CH 50   | 1㎾     |
+| 원효봉 중계소 | CH 23 | CH 21   | 1㎾     |
+| 당진 중계소  | CH 44 | CH 45   | 10W    |
+| 정미 중계소  | CH 44 | CH 45   | 10W    |
+| 갈산 중계소  | CH 14 | CH 15   | 5W     |
+| 안면 소출력  | CH 23 | CH 21   | 0.05W  |
 
   - 아날로그TV
 
@@ -172,23 +172,23 @@
 
 ### 라디오
 
-| KBS대전 제1라디오                 |
-| --------------------------- |
-| 송신소                         |
-| 대덕 송신소                      |
-| 계룡산 송신소                     |
-| 흑성산 송신소                     |
-| 원효봉 중계소                     |
-| 옥마산 중계소                     |
-| 서천 중계소                      |
-|                             |
-| KBS대전 제2라디오 (해피FM)          |
-| 송신소                         |
-| 식장산 송신소                     |
-| <font color=#dcdcdc>옥마산 중계소 |
-| KBS대전 음악FM                  |
-| 송신소                         |
-| 계룡산 송신소                     |
+| KBS대전 제1라디오        |
+| ------------------ |
+| 송신소                |
+| 대덕 송신소             |
+| 계룡산 송신소            |
+| 흑성산 송신소            |
+| 원효봉 중계소            |
+| 옥마산 중계소            |
+| 서천 중계소             |
+|                    |
+| KBS대전 제2라디오 (해피FM) |
+| 송신소                |
+| 식장산 송신소            |
+| 옥마산 중계소            |
+| KBS대전 음악FM         |
+| 송신소                |
+| 계룡산 송신소            |
 
 ### 지상파DMB
 
@@ -224,13 +224,13 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/KBS_뉴스_7_대전·세종·충남" title="wikilink">KBS 뉴스 7 대전·세종·충남</a></p></td>
 <td><p>월~목 40분</p></td>
 <td><p>월~목 저녁 7시 ~ 7시 40분</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/손지화" title="wikilink">손지화</a>, <a href="https://ko.wikipedia.org/wiki/박해평" title="wikilink">박해평</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/손지화" title="wikilink">손지화</a>, <a href="https://ko.wikipedia.org/wiki/박병준" title="wikilink">박병준</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/KBS_뉴스_7.md" title="wikilink">KBS 뉴스 7 대전·세종·충남</a></p></td>
 <td><p>금요일 5분</p></td>
 <td><p>금 저녁 7시 20분 ~ 7시 25분</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/김연선" title="wikilink">김연선</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/성용희" title="wikilink">성용희</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/KBS_뉴스_9.md" title="wikilink">KBS 뉴스 9 대전·세종·충남</a></p></td>
@@ -238,8 +238,8 @@
 주말 10분</p></td>
 <td><p>평일 밤 9시 35분 ~ 9시 45분<br />
 주말 밤 9시 20분 ~ 9시 30분</p></td>
-<td><p>|<a href="https://ko.wikipedia.org/wiki/양민오" title="wikilink">양민오</a>, <a href="../Page/전유미_(아나운서).md" title="wikilink">전유미</a>(평일)<br />
-무작위 (주말)</p></td>
+<td><p>|<a href="https://ko.wikipedia.org/wiki/양민오" title="wikilink">양민오</a>, <a href="https://ko.wikipedia.org/wiki/전유미" title="wikilink">전유미</a>(평일)<br />
+<a href="https://ko.wikipedia.org/wiki/무작위" title="wikilink">무작위</a> (주말)</p></td>
 </tr>
 </tbody>
 </table>
@@ -326,19 +326,19 @@
 
 #### 남성
 
-  - [유진환](https://ko.wikipedia.org/wiki/유진환 "wikilink") 보도국장
+  - [박해평](https://ko.wikipedia.org/wiki/박해평 "wikilink") 보도국장
+  - [송민석](https://ko.wikipedia.org/wiki/송민석 "wikilink") 편집부장
+  - [박장훈](https://ko.wikipedia.org/wiki/박장훈 "wikilink") 취재부장
   - [박종오](https://ko.wikipedia.org/wiki/박종오 "wikilink")
   - [서영준](https://ko.wikipedia.org/wiki/서영준 "wikilink")
   - [황정환](https://ko.wikipedia.org/wiki/황정환 "wikilink")
   - [조영호](https://ko.wikipedia.org/wiki/조영호_\(기자\) "wikilink")
-  - [송민석](https://ko.wikipedia.org/wiki/송민석 "wikilink")
   - [이용순](https://ko.wikipedia.org/wiki/이용순_\(기자\) "wikilink")
-  - [박해평](https://ko.wikipedia.org/wiki/박해평 "wikilink")
+  - [유진환](https://ko.wikipedia.org/wiki/유진환 "wikilink")
   - [양민오](https://ko.wikipedia.org/wiki/양민오 "wikilink")
   - [박병준](https://ko.wikipedia.org/wiki/박병준 "wikilink")
   - [최선중](https://ko.wikipedia.org/wiki/최선중 "wikilink")
   - [방석준](https://ko.wikipedia.org/wiki/방석준 "wikilink")
-  - [박장훈](https://ko.wikipedia.org/wiki/박장훈 "wikilink")
   - [성용희](https://ko.wikipedia.org/wiki/성용희 "wikilink")
   - [백상현](https://ko.wikipedia.org/wiki/백상현 "wikilink")
   - [이수복](https://ko.wikipedia.org/wiki/이수복 "wikilink")

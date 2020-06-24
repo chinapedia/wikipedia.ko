@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [MBC 뉴스투데이](https://ko.wikipedia.org/wiki/MBC_뉴스투데이).
 
 
-《**MBC 뉴스투데이**》(MBC NEWS TODAY)는 [MBC에서](../Page/문화방송.md "wikilink") 월요일 \~ 토요일 아침 6시에 방송되는 [문화방송의 아침뉴스 프로그램이다](../Page/문화방송의_뉴스_프로그램.md "wikilink").
+《**MBC 뉴스투데이**》(MBC NEWS TODAY)는 [MBC에서](../Page/문화방송.md "wikilink") 평일 아침 6시, 토요일 아침 7시에 방송되는 [문화방송의 아침뉴스 프로그램이다](../Page/문화방송의_뉴스_프로그램.md "wikilink").
 
 ## 기획 의도 / 개요
 
@@ -9,7 +9,7 @@
 
 ## 방송 시간
 
-현재 방송 시간은 [2018년](../Page/2018년.md "wikilink") [3월 26일부터를](../Page/3월_26일.md "wikilink") 기준으로 한다.
+현재 방송 시간은 [2020년](../Page/2020년.md "wikilink") [5월 25일부터를](../Page/5월_25일.md "wikilink") 기준으로 한다.
 
 <table>
 <thead>
@@ -148,7 +148,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/2018년.md" title="wikilink">2018년</a> <a href="../Page/3월_26일.md" title="wikilink">3월 26일</a> ~ <strong>현재</strong></p></td>
+<td><p><a href="../Page/2018년.md" title="wikilink">2018년</a> <a href="../Page/3월_26일.md" title="wikilink">3월 26일</a> ~ <a href="../Page/2020년.md" title="wikilink">2020년</a> <a href="../Page/5월_23일.md" title="wikilink">5월 23일</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -182,8 +182,9 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td></td>
-<td></td>
+<td><p><a href="../Page/2020년.md" title="wikilink">2020년</a> <a href="../Page/5월_25일.md" title="wikilink">5월 25일</a> ~ <strong>현재</strong></p></td>
+<td><p>평일 아침 6시 ~ 7시 50분 (1시간 50분)<br />
+토요일 아침 7시 ~ 7시 20분 (20분)</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -194,59 +195,60 @@
 ### MBC 뉴스투데이 1부 오프닝
 
 전종환 앵커ㅣ김수지 앵커
-김지경 앵커ㅣ장인수 앵커
+강재형 앵커
 
-### 오늘의 주요뉴스
+### 1부 오늘의 주요뉴스
 
 전종환 앵커ㅣ김수지 앵커
-김지경 앵커ㅣ장인수 앵커
+강재형 앵커
 
 ### 한 주 미리보기
 
-나경철 프리랜서 아나운서
+김수지 앵커
 
 ### 날씨
 
 김가영 기상캐스터
-이서경 기상캐스터
 
-### MBC 뉴스투데이 1부 클로징
+### MBC 뉴스투데이 1부 클로징 (토요일)
 
-### MBC 뉴스투데이 2부 오프닝
+강재형 앵커
+
+### MBC 뉴스투데이 2부 오프닝 (평일)
 
 전종환 앵커ㅣ김수지 앵커
-김지경 앵커ㅣ장인수 앵커
+
+### 2부 오늘의 주요뉴스 (평일)
+
+전종환 앵커ㅣ김수지 앵커
 
 ### 아침 신문보기
 
 전종환 앵커ㅣ김수지 앵커
-김지경 앵커ㅣ장인수 앵커
 
-### 투데이 이슈 톡
-
-김수산 리포터ㅣ전종환 앵커
-
-### 스마트 리빙
+### 투데이 연예톡톡
 
 노송원 리포터
 
 ### 이 시각 세계
 
 조명진 리포터
-고하연 리포터
 
-### 투데이 연예톡톡
+### 스마트 리빙
 
 이은수 리포터
+
+### 투데이 이슈 톡
+
+김수산 리포터
 
 ### 날씨
 
 김가영 기상캐스터
-이서경 기상캐스터
 
 ### 뉴스터치
 
-나경철 프리랜서 아나운서ㅣ김수지 앵커
+나경철 아나운서
 
 ### 이 시각 세계
 
@@ -254,32 +256,23 @@
 
 ### 투데이 현장
 
-고하연 리포터
-
 ### 14F
 
 강다솜 아나운서
 이영은 아나운서
 김정현 아나운서
 
-### 이번주 극장가 소식
-
-김미희 기자
-양효경 기자
-
 ### 스마트 리빙
 
-노송원 리포터
+이은수 리포터
 
 ### 날씨
 
 김가영 기상캐스터
-이서경 기상캐스터
 
-### MBC 뉴스투데이 2부 클로징
+### MBC 뉴스투데이 2부 클로징 (평일)
 
 전종환 앵커ㅣ김수지 앵커
-김지경 앵커ㅣ장인수 앵커
 
 ## 앵커
 
@@ -292,8 +285,7 @@
 
 #### 토요일
 
-  - [김지경](https://ko.wikipedia.org/wiki/김지경 "wikilink") (여) - [문화방송](../Page/문화방송.md "wikilink")의 기자
-  - [장인수](../Page/장인수.md "wikilink") (남) - [문화방송](../Page/문화방송.md "wikilink")의 기자
+  - [강재형](https://ko.wikipedia.org/wiki/강재형 "wikilink") (남) - [문화방송](../Page/문화방송.md "wikilink")의 아나운서
 
 ### 역대 앵커
 
@@ -755,20 +747,18 @@
 </tr>
 <tr class="odd">
 <td><p>30기</p></td>
-<td><p><a href="../Page/장인수.md" title="wikilink">장인수</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/김지경" title="wikilink">김지경</a></p></td>
-<td><p><a href="../Page/2019년.md" title="wikilink">2019년</a> <a href="../Page/2월_9일.md" title="wikilink">2월 9일</a> ~ <strong>현재</strong></p></td>
+<td><p>장인수</p></td>
+<td><p>김지경</p></td>
+<td><p><a href="../Page/2019년.md" title="wikilink">2019년</a> <a href="../Page/2월_9일.md" title="wikilink">2월 9일</a> ~ <a href="../Page/2020년.md" title="wikilink">2020년</a> <a href="../Page/5월_23일.md" title="wikilink">5월 23일</a></p></td>
+</tr>
+<tr class="even">
+<td><p>31기</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/강재형" title="wikilink">강재형</a></p></td>
+<td></td>
+<td><p><a href="../Page/2020년.md" title="wikilink">2020년</a> <a href="../Page/5월_30일.md" title="wikilink">5월 30일</a> ~ <strong>현재</strong></p></td>
 </tr>
 </tbody>
 </table>
-
-## 개요
-
-  - 본래 MBC 뉴스투데이라는 타이틀의 아침 뉴스 프로그램은 [2002년](../Page/2002년.md "wikilink") [4월 1일부터의](../Page/4월_1일.md "wikilink") 현행 프로그램 외에도, [1995년](../Page/1995년.md "wikilink") [4월 17일](../Page/4월_17일.md "wikilink") 봄 개편부터 [1996년](../Page/1996년.md "wikilink") [10월 19일](../Page/10월_19일.md "wikilink") 가을 개편까지 [손석희](../Page/손석희.md "wikilink"), [최율미](https://ko.wikipedia.org/wiki/최율미 "wikilink") 아나운서가 진행을 맡아서 방송한 적이 있었다.
-  - 방송 중간중간에 앵커의 측면에서 물방울이 떨어지며 아날로그(시침/분침) 형식의 시계가 나타나는 CG 영상이 나타났다. 영상과 동시에 실로폰음과 '00시 00분입니다.'라는 고지 멘트가 같이 나왔었다.
-  - MBC 뉴스투데이는 [2000년](../Page/2000년.md "wikilink") [10월 30일부터](../Page/10월_30일.md "wikilink") 방송하던 MBC 아침뉴스에서 타이틀만 변경하여 [2002년](../Page/2002년.md "wikilink") [4월 1일부터](../Page/4월_1일.md "wikilink") 프로그램명을 MBC 뉴스투데이로 바꾸면서 현재까지 이어지고 있다.
-  - 아침뉴스에서 뉴스투데이로 프로그램명만 바뀌었기 때문에, 진행자와 OP 시그널은 전혀 변동이 없었으며, 앵커가 몇번 바뀌었다. [2004년](../Page/2004년.md "wikilink") [4월 5일부터는](../Page/4월_5일.md "wikilink") 아침뉴스 시절부터 사용하던 뉴스 시그널까지 바뀌어 OP은 [2012년](../Page/2012년.md "wikilink") [6월 23일까지](../Page/6월_23일.md "wikilink"), ED은 [2012년](../Page/2012년.md "wikilink") [7월 2일까지](../Page/7월_2일.md "wikilink") 8년 3개월 동안 시그널을 유지했다. 그 후 사장조 시그널을 [2012년](../Page/2012년.md "wikilink") [6월 25일부터](../Page/6월_25일.md "wikilink") 일주일간 OP에 사용하다가 마장조 서양식 시그널을 [2012년](../Page/2012년.md "wikilink") [7월 3일부터](../Page/7월_3일.md "wikilink") [2014년](../Page/2014년.md "wikilink") [8월 26일까지](../Page/8월_26일.md "wikilink") 2년 1개월 동안 OP과 2부 ED(1부 ED은 라단조 시그널 사용)에 함께 사용되었으며, 이 곡은 현재 2부 ED에만 사용되고 있다. 이후 [2014년](../Page/2014년.md "wikilink") [8월 27일부터](../Page/8월_27일.md "wikilink") 마장조 동양식 시그널을 OP에 사용해 [2017년](../Page/2017년.md "wikilink") [9월 27일까지](../Page/9월_27일.md "wikilink") 사용하고 [2017년](../Page/2017년.md "wikilink") [12월 26일부터](../Page/12월_26일.md "wikilink") 마장조 서양식 리메이크 시그널을 OP에 사용하고 있다. 반면 1부 ED 시그널과 2부 ED 시그널은 변경되지 않았으며, 이 중 1부 ED 시그널은 [2015년](../Page/2015년.md "wikilink") [1월 2일부터](../Page/1월_2일.md "wikilink") [KBS 뉴스 7](../Page/KBS_뉴스_7.md "wikilink") 중간 OP 음악으로도 사용 중이다.
-  - [2017년](../Page/2017년.md "wikilink") [4월 15일부터](../Page/4월_15일.md "wikilink") 토요일 방송분만 수화 방송을 개시하였으며, MBC 파업으로 인해 2017년 9월 23일에 토요일 방송분의 수화 방송이 중단되었다가 2017년 12월 30일부터 토요일 방송분의 수화 방송이 재개되었으며, 2019년 7월 13일에 토요일 방송분의 수어 방송이 폐지되었다.
 
 ## 타이틀 변천사
 
@@ -787,6 +777,10 @@
 | 9기  | MBC 뉴스투데이                                    | [2002년](../Page/2002년.md "wikilink") [4월 1일](../Page/4월_1일.md "wikilink") \~ [2017년](../Page/2017년.md "wikilink") [12월 8일](../Page/12월_8일.md "wikilink")     |
 | 10기 | MBC 뉴스                                       | [2017년](../Page/2017년.md "wikilink") [12월 9일](../Page/12월_9일.md "wikilink") \~ [2017년](../Page/2017년.md "wikilink") [12월 25일](../Page/12월_25일.md "wikilink") |
 | 11기 | MBC 뉴스투데이                                    | [2017년](../Page/2017년.md "wikilink") [12월 26일](../Page/12월_26일.md "wikilink") \~ **현재**                                                                      |
+
+## 결방 사유
+
+  - [2017년](../Page/2017년.md "wikilink") [9월 30일부터](../Page/9월_30일.md "wikilink") [10월 9일까지는](../Page/10월_9일.md "wikilink") MBC 민노총 소속 언론 노조 파업 및 추석 연휴로 인하여 결방되었다.
 
 ## 지역 방송국 프로그램
 
@@ -836,13 +830,13 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/부산문화방송.md" title="wikilink">부산MBC</a></p></td>
-<td><p>부산MBC 뉴스투데이</p></td>
-<td><p>서정모, 정경진</p></td>
+<td><p>MBC 뉴스투데이 부산</p></td>
+<td><p>박기홍, 김다영</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/MBC경남.md" title="wikilink">MBC경남</a></p></td>
 <td><p>MBC 뉴스투데이 경남</p></td>
-<td><p>백근곤, 이다슬</p></td>
+<td><p>백근곤, 백율희</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/울산문화방송.md" title="wikilink">울산MBC</a></p></td>
@@ -879,9 +873,13 @@
 </tbody>
 </table>
 
-## 결방 사유
+## 개요
 
-  - [2017년](../Page/2017년.md "wikilink") [9월 30일부터](../Page/9월_30일.md "wikilink") [10월 9일까지는](../Page/10월_9일.md "wikilink") MBC 민노총 소속 언론 노조 파업 및 추석 연휴로 인하여 결방되었다.
+  - 본래 MBC 뉴스투데이라는 타이틀의 아침 뉴스 프로그램은 [2002년](../Page/2002년.md "wikilink") [4월 1일부터의](../Page/4월_1일.md "wikilink") 현행 프로그램 외에도, [1995년](../Page/1995년.md "wikilink") [4월 17일](../Page/4월_17일.md "wikilink") 봄 개편부터 [1996년](../Page/1996년.md "wikilink") [10월 19일](../Page/10월_19일.md "wikilink") 가을 개편까지 [손석희](../Page/손석희.md "wikilink"), [최율미](https://ko.wikipedia.org/wiki/최율미 "wikilink") 아나운서가 진행을 맡아서 방송한 적이 있었다.
+  - 방송 중간중간에 앵커의 측면에서 물방울이 떨어지며 아날로그(시침/분침) 형식의 시계가 나타나는 CG 영상이 나타났다. 영상과 동시에 실로폰음과 '00시 00분입니다.'라는 고지 멘트가 같이 나왔었다.
+  - MBC 뉴스투데이는 [2000년](../Page/2000년.md "wikilink") [10월 30일부터](../Page/10월_30일.md "wikilink") 방송하던 MBC 아침뉴스에서 타이틀만 변경하여 [2002년](../Page/2002년.md "wikilink") [4월 1일부터](../Page/4월_1일.md "wikilink") 프로그램명을 MBC 뉴스투데이로 바꾸면서 현재까지 이어지고 있다.
+  - 아침뉴스에서 뉴스투데이로 프로그램명만 바뀌었기 때문에, 진행자와 OP 시그널은 전혀 변동이 없었으며, 앵커가 몇번 바뀌었다. [2004년](../Page/2004년.md "wikilink") [4월 5일부터는](../Page/4월_5일.md "wikilink") 아침뉴스 시절부터 사용하던 뉴스 시그널까지 바뀌어 OP은 [2012년](../Page/2012년.md "wikilink") [6월 23일까지](../Page/6월_23일.md "wikilink"), ED은 [2012년](../Page/2012년.md "wikilink") [7월 2일까지](../Page/7월_2일.md "wikilink") 8년 3개월 동안 시그널을 유지했다. 그 후 사장조 시그널을 [2012년](../Page/2012년.md "wikilink") [6월 25일부터](../Page/6월_25일.md "wikilink") 일주일간 OP에 사용하다가 마장조 서양식 시그널을 [2012년](../Page/2012년.md "wikilink") [7월 3일부터](../Page/7월_3일.md "wikilink") [2014년](../Page/2014년.md "wikilink") [8월 26일까지](../Page/8월_26일.md "wikilink") 2년 1개월 동안 OP과 2부 ED(1부 ED은 라단조 시그널 사용)에 함께 사용되었으며, 이 곡은 현재 2부 ED에만 사용되고 있다. 이후 [2014년](../Page/2014년.md "wikilink") [8월 27일부터](../Page/8월_27일.md "wikilink") 마장조 동양식 시그널을 OP에 사용해 [2017년](../Page/2017년.md "wikilink") [9월 27일까지](../Page/9월_27일.md "wikilink") 사용하고 [2017년](../Page/2017년.md "wikilink") [12월 26일부터](../Page/12월_26일.md "wikilink") 마장조 서양식 리메이크 시그널을 OP에 사용하고 있다. 반면 1부 ED 시그널과 2부 ED 시그널은 변경되지 않았으며, 이 중 1부 ED 시그널은 [2015년](../Page/2015년.md "wikilink") [1월 2일부터](../Page/1월_2일.md "wikilink") [KBS 뉴스 7](../Page/KBS_뉴스_7.md "wikilink") 중간 OP 음악으로도 사용 중이다.
+  - [2017년](../Page/2017년.md "wikilink") [4월 15일부터](../Page/4월_15일.md "wikilink") 토요일 방송분만 수화 방송을 개시하였으며, MBC 파업으로 인해 2017년 9월 23일에 토요일 방송분의 수화 방송이 중단되었다가 2017년 12월 30일부터 토요일 방송분의 수화 방송이 재개되었으며, 2019년 7월 13일에 토요일 방송분의 수어 방송이 폐지되었다.
 
 ## 방송 사고
 

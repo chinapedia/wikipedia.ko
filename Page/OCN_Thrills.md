@@ -7,7 +7,7 @@
 
   - [2001년](../Page/2001년.md "wikilink") [7월 1일](../Page/7월_1일.md "wikilink") -(구) OCN ACTION 개국
   - [2003년](../Page/2003년.md "wikilink") [4월 1일](../Page/4월_1일.md "wikilink") - 채널명 변경 (구) OCN ACTION → (구) 수퍼 액션
-  - [2020년](../Page/2020년.md "wikilink") [3월 1일](../Page/3월_1일.md "wikilink") - 채널명 변경 (구) 수퍼 액션 → (현) OCN THRILLS)
+  - [2020년](../Page/2020년.md "wikilink") [3월 1일](../Page/3월_1일.md "wikilink") - 채널명 변경 (구) 수퍼 액션 → (현) OCN THRILLS
 
 ## 오리지널 드라마
 
@@ -30,6 +30,6 @@
 
   - (공식)
 
-[분류:영화 텔레비전 네트워크](https://ko.wikipedia.org/wiki/분류:영화_텔레비전_네트워크 "wikilink") [분류:오락 텔레비전 네트워크](https://ko.wikipedia.org/wiki/분류:오락_텔레비전_네트워크 "wikilink") [분류:CJ ENM의 텔레비전 네트워크](https://ko.wikipedia.org/wiki/분류:CJ_ENM의_텔레비전_네트워크 "wikilink") [OCN 액션](https://ko.wikipedia.org/wiki/분류:2001년_설립된_텔레비전_방송국과_채널 "wikilink") [OCN 액션](https://ko.wikipedia.org/wiki/분류:2003년_폐지된_텔레비전_방송국과_채널 "wikilink") [수퍼 액션](https://ko.wikipedia.org/wiki/분류:2003년_설립된_텔레비전_방송국과_채널 "wikilink") [수퍼 액션](https://ko.wikipedia.org/wiki/분류:2020년_폐지된_텔레비전_방송국과_채널 "wikilink") [OCN Thrills](https://ko.wikipedia.org/wiki/분류:2020년_설립된_텔레비전_방송국과_채널 "wikilink")
+[분류:영화 텔레비전 네트워크](https://ko.wikipedia.org/wiki/분류:영화_텔레비전_네트워크 "wikilink") [분류:오락 텔레비전 네트워크](https://ko.wikipedia.org/wiki/분류:오락_텔레비전_네트워크 "wikilink") [분류:CJ ENM의 텔레비전 네트워크](https://ko.wikipedia.org/wiki/분류:CJ_ENM의_텔레비전_네트워크 "wikilink") [OCN 액션](https://ko.wikipedia.org/wiki/분류:2001년_설립된_텔레비전_방송국과_채널 "wikilink")
 
 1.

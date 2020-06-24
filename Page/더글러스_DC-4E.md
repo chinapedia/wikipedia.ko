@@ -22,7 +22,7 @@
 
 ## 출처
 
-[DC-4E](https://ko.wikipedia.org/wiki/분류:더글러스_항공기 "wikilink") [분류:1938년 첫 비행한 항공기](https://ko.wikipedia.org/wiki/분류:1938년_첫_비행한_항공기 "wikilink")
+[DC-4E](https://ko.wikipedia.org/wiki/분류:더글러스_항공기 "wikilink") [분류:1938년 첫 비행한 항공기](https://ko.wikipedia.org/wiki/분류:1938년_첫_비행한_항공기 "wikilink") [분류:저익기](https://ko.wikipedia.org/wiki/분류:저익기 "wikilink")
 
 1.
 2.  Pearcy 1995, p. 17.

@@ -29,7 +29,7 @@
 
 ## 보충서술
 
-  - 본사 소재지는 [시즈오카현](../Page/시즈오카현.md "wikilink") [하마마쓰 시이며](https://ko.wikipedia.org/wiki/하마마쓰_시 "wikilink") 도카이지역에 일어날 대지진을 염려해 [하마마쓰 시에](https://ko.wikipedia.org/wiki/하마마쓰_시 "wikilink") 본사를 두었다는 이야기가 있으며 지진발생시 [NHK 하마마쓰 지국과](../Page/NHK_하마마쓰_지국.md "wikilink") 방송을 할 수 있는 공조체제가 완성되어 있다.
+  - 본사 소재지는 [시즈오카현](../Page/시즈오카현.md "wikilink") [하마마쓰시](../Page/하마마쓰시.md "wikilink")이며 도카이지역에 일어날 대지진을 염려해 [하마마쓰시](../Page/하마마쓰시.md "wikilink")에 본사를 두었다는 이야기가 있으며 지진발생시 [NHK 하마마쓰 지국과](../Page/NHK_하마마쓰_지국.md "wikilink") 방송을 할 수 있는 공조체제가 완성되어 있다.
   - 애칭인 K-MIX의 의미에 대해 처음에는 JO**K**U-FM, **M**USIC, **I**NFORMATION,**X**(CROSS)COMMUNICATION 라고 하였으나 후일 JO**K**U-FM, **M**OVEMENT, **I**NTELIGENCE, E**X**CITMENT라는 해석을 덧붙였다.
   - 1998년 일본의 방송국 중에서 최초로 태양광 발전 시스템을 도입했다.
   - 2005년, 지진 발생시 해일 경보를 자동으로 방송하는 시스템을 민간기업과 공동개발했다.

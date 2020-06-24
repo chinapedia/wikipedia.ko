@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [YOSHIKI](https://ko.wikipedia.org/wiki/YOSHIKI).
 
 
-**요시키**(YOSHIKI)는 [일본](../Page/일본.md "wikilink")의 싱어송라이터로, [록 밴드](https://ko.wikipedia.org/wiki/록_밴드 "wikilink") [엑스 재팬의](https://ko.wikipedia.org/wiki/엑스_재팬 "wikilink") 리더이다. [1965년](../Page/1965년.md "wikilink") [11월 20일](../Page/11월_20일.md "wikilink") [일본](../Page/일본.md "wikilink") [지바현](../Page/지바현.md "wikilink") [다테야마 시에서](https://ko.wikipedia.org/wiki/다테야마_시 "wikilink") 태어났다.
+**요시키**(YOSHIKI)는 [일본](../Page/일본.md "wikilink")의 싱어송라이터로, [록 밴드](https://ko.wikipedia.org/wiki/록_밴드 "wikilink") [엑스 재팬의](https://ko.wikipedia.org/wiki/엑스_재팬 "wikilink") 리더이다. [1965년](../Page/1965년.md "wikilink") [11월 20일](../Page/11월_20일.md "wikilink") [일본](../Page/일본.md "wikilink") [지바현](../Page/지바현.md "wikilink") [다테야마시](../Page/다테야마시.md "wikilink")에서 태어났다.
 
 ## 생애
 

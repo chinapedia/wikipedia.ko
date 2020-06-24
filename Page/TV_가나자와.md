@@ -14,14 +14,14 @@
   - [1998년](../Page/1998년.md "wikilink") 연간시청률 과 연도시청률이 이시카와현 최고가 된다(2002년까지 5년 동안).
   - [2006년](../Page/2006년.md "wikilink") [6월 1일](../Page/6월_1일.md "wikilink") 지상파 디지털 텔레비전 방송 서비스 방송 개시.
   - [2006년](../Page/2006년.md "wikilink") [7월 1일](../Page/7월_1일.md "wikilink") 지상파 디지털 텔레비전 방송 개시.
-  - [2009년](../Page/2009년.md "wikilink") [7월 24일](../Page/7월_24일.md "wikilink") - [스즈 시에서](https://ko.wikipedia.org/wiki/스즈_시 "wikilink") 오전 10부터 11시까지 [NHK 가나자와 방송국](../Page/NHK_가나자와_방송국.md "wikilink") 및 다른 민영 텔레비전 방송국과 공동으로 시험적으로 아날로그 텔레비전 방송 중단.
-  - [2010년](../Page/2010년.md "wikilink") [7월 24일](../Page/7월_24일.md "wikilink") - [스즈 시에서](https://ko.wikipedia.org/wiki/스즈_시 "wikilink") 지상파 아날로그 텔레비전 방송 선행 종료.
+  - [2009년](../Page/2009년.md "wikilink") [7월 24일](../Page/7월_24일.md "wikilink") - [스즈시](../Page/스즈시.md "wikilink")에서 오전 10부터 11시까지 [NHK 가나자와 방송국](../Page/NHK_가나자와_방송국.md "wikilink") 및 다른 민영 텔레비전 방송국과 공동으로 시험적으로 아날로그 텔레비전 방송 중단.
+  - [2010년](../Page/2010년.md "wikilink") [7월 24일](../Page/7월_24일.md "wikilink") - [스즈시](../Page/스즈시.md "wikilink")에서 지상파 아날로그 텔레비전 방송 선행 종료.
   - [2011년](../Page/2011년.md "wikilink") [7월 24일](../Page/7월_24일.md "wikilink") 지상파 아날로그 텔레비전 방송 종료.
 
 ## 특징
 
   - [호쿠리쿠 지방](https://ko.wikipedia.org/wiki/호쿠리쿠_지방 "wikilink") [니혼TV](https://ko.wikipedia.org/wiki/니혼TV "wikilink") 계열국중 유일하게 [닛테레뉴스24](https://ko.wikipedia.org/wiki/닛테레뉴스24 "wikilink")(24시간 뉴스방송 케이블·위성채널)를 심야시간에 재전송하고 있다.
-  - 개국 초기에는 중계국이 8개밖에 없어서 [가나자와 시](https://ko.wikipedia.org/wiki/가나자와_시 "wikilink") 근처에서 수신할 수 없는 사례가 많았다고 한다.
+  - 개국 초기에는 중계국이 8개밖에 없어서 [가나자와시](../Page/가나자와시.md "wikilink") 근처에서 수신할 수 없는 사례가 많았다고 한다.
   - [2002년](../Page/2002년.md "wikilink") [10월 24일부터](../Page/10월_24일.md "wikilink") 한국의 [JTV 전주방송과의](../Page/전주방송.md "wikilink") 제휴관계를 맺고있다.
 
 ## [이시카와현](../Page/이시카와현.md "wikilink")에 있는 다른 텔레비전·라디오 방송국

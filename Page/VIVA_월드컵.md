@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [VIVA 월드컵](https://ko.wikipedia.org/wiki/VIVA_월드컵).
 
 
-**VIVA 월드컵**은 [FIFA](https://ko.wikipedia.org/wiki/FIFA "wikilink")에 가입하지 않은 나라들의 국제적인 축구대회이다. [2006년](../Page/2006년.md "wikilink") [오시타니아](https://ko.wikipedia.org/wiki/오시타니아 "wikilink")에서 제 1회 대회가 열렸으며, 네 팀이 참가하였다. 이 중 [남카메룬은](../Page/남카메룬_축구_국가대표팀.md "wikilink") 비자 문제로 인하여 대회에 참가하지 못하였다. 이 대회는 첫 우승국은 [22px](https://ko.wikipedia.org/wiki/파일:Sami_flag.svg "wikilink") [사미이다](../Page/사미_축구_국가대표팀.md "wikilink"). 2년마다 열리는 대회이며, 우승 팀에게는 [남아프리카 공화국](../Page/남아프리카_공화국.md "wikilink") 대통령의 이름을 딴 [넬슨 만델라](../Page/넬슨_만델라.md "wikilink") 트로피가 수여된다.
+**VIVA 월드컵**은 [FIFA](https://ko.wikipedia.org/wiki/FIFA "wikilink")에 가입하지 않은 나라들의 국제적인 축구대회이다. [2006년](../Page/2006년.md "wikilink") [오시타니아](https://ko.wikipedia.org/wiki/오시타니아 "wikilink")에서 제 1회 대회가 열렸으며, 네 팀이 참가하였다. 이 중 [남카메룬은](../Page/남카메룬_축구_국가대표팀.md "wikilink") 비자 문제로 인하여 대회에 참가하지 못하였다. 이 대회는 첫 우승국은 [사미이다](../Page/사미_축구_국가대표팀.md "wikilink"). 2년마다 열리는 대회이며, 우승 팀에게는 [남아프리카 공화국](../Page/남아프리카_공화국.md "wikilink") 대통령의 이름을 딴 [넬슨 만델라](../Page/넬슨_만델라.md "wikilink") 트로피가 수여된다.
 
 다음 대회는 [2008년](../Page/2008년.md "wikilink")에 1회 대회 우승 팀인 [사미 축구 국가대표팀](../Page/사미_축구_국가대표팀.md "wikilink") 주관으로 2008년 7월 7일부터 13일까지 열렸다. 사미는 [사미인](../Page/사미인.md "wikilink")들이 조직한 축구협회의 이름이다. 2회 대회의 개최지는 [스웨덴](../Page/스웨덴.md "wikilink")의 [라플란드](https://ko.wikipedia.org/wiki/스웨덴령_라플란드 "wikilink") 지역에 위치한 갈리베르라는 도시이다. [2012년](../Page/2012년.md "wikilink") 마지막 대회 이후로는 [CONIFA 월드 풋볼컵이](https://ko.wikipedia.org/wiki/CONIFA_월드_풋볼컵 "wikilink") 그 취지를 계승해서 열리고 있다.
 

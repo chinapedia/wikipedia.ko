@@ -1,17 +1,13 @@
 > This article is converted from Wikipedia: [TCN \(방송국\)](https://ko.wikipedia.org/wiki/TCN_\(방송국\)).
 
 
-**TCN**는 대한민국의 [부산광역시](https://ko.wikipedia.org/wiki/부산광역시 "wikilink") 지역 일부를 맡아 운영하고 있는 종합 유선 방송국이다. 현재 TCN 방송이 운영하는 지역은 부산광역시 [창원시](../Page/창원시.md "wikilink"), [창원시](../Page/창원시.md "wikilink") 지역을 맡고 있다.
+**TCN**은 대한민국의 [대구광역시](../Page/대구광역시.md "wikilink") 지역 일부를 맡아 운영하고 있는 종합 유선 방송국이다. 현재 TCN 방송이 운영하는 지역은 부산광역시 [창원시](../Page/창원시.md "wikilink"), [창원시](../Page/창원시.md "wikilink") 지역을 맡고 있다.
 
-TCN은 busan Cable Networks의 약자이며 1992년 설립되었다. CATV 관련 방송사업과 인터넷 서비스, 문화사업 등의 사업을 진행하고 있다.
+TCN은 Daegu Cable Networks의 약자이며 1992년 설립되었다. CATV 관련 방송사업과 인터넷 서비스, 문화사업 등의 사업을 진행하고 있다.
 
-2013년 10월 7일, [부산광역시](https://ko.wikipedia.org/wiki/부산광역시 "wikilink")에 인수되어 TCN 부산케이블TV이 되었다. [중구](../Page/중구_\(부산광역시\).md "wikilink"), [남구를](../Page/남구_\(부산광역시\).md "wikilink") 맡았던 TCN 부산케이블TV은 같은 권역의 딜라이브 부산방송과 통합되었다.
+2013년 10월 7일, [부산광역시](https://ko.wikipedia.org/wiki/부산광역시 "wikilink")에 인수되어 TCN 부산케이블TV이 되었다. [중구](../Page/중구_\(부산광역시\).md "wikilink"), [남구를](../Page/남구_\(부산광역시\).md "wikilink") 맡았던 TCN 부산케이블TV는 같은 권역의 [딜라이브 부산방송과](../Page/딜라이브.md "wikilink") 통합되었다.
 
 한편, TCN에서 쓰던 사옥은 부산방송, 경남방송과 통합된 사옥으로 쓰일 예정이다.
-
-## 연혁
-
-  - 2020년 C\&M(현 [딜라이브](../Page/딜라이브.md "wikilink"))계열 부산케이블TV를 SK브로드밴드를 매일경제TV(MBN)은 지역채널(CH5)것이 환영합니다.
 
 ## 프로그램
 
@@ -27,10 +23,12 @@ TCN은 busan Cable Networks의 약자이며 1992년 설립되었다. CATV 관련
   - 한기웅의 현장을달린다
   - 지역발견 창
   - 문화사랑방
+  - (대구)나는 신입이다
+  - (대구)대구로 말할 것 같으면
 
 ## 방송 채널
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:DTV_Converter.jpg "wikilink") [TCN 부산방송 TV 채널번호 안내](http://www.tcn.co.kr)이 그런지 않는다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:DTV_Converter.jpg "wikilink") [TCN 대구방송 TV 채널번호 안내](http://www.tcn.co.kr)가 그런지 않는다.
 
   - **지역채널**
 
@@ -84,7 +82,7 @@ TCN은 busan Cable Networks의 약자이며 1992년 설립되었다. CATV 관련
 <td><p>SD</p></td>
 </tr>
 <tr class="odd">
-<td><p>6-1</p></td>
+<td><p>3-1</p></td>
 <td><p>6번</p></td>
 </tr>
 <tr class="even">
@@ -108,8 +106,16 @@ TCN은 busan Cable Networks의 약자이며 1992년 설립되었다. CATV 관련
 <td><p>10번</p></td>
 </tr>
 <tr class="odd">
+<td><p>10-1</p></td>
+<td><p>10번</p></td>
+</tr>
+<tr class="even">
 <td><p>11-1</p></td>
 <td><p>11번</p></td>
+</tr>
+<tr class="odd">
+<td><p>13-1</p></td>
+<td><p>13번</p></td>
 </tr>
 <tr class="even">
 <td><p>14-1</p></td>
@@ -120,16 +126,8 @@ TCN은 busan Cable Networks의 약자이며 1992년 설립되었다. CATV 관련
 <td><p>15번</p></td>
 </tr>
 <tr class="even">
-<td><p>12-1</p></td>
-<td><p>12번</p></td>
-</tr>
-<tr class="odd">
-<td><p>13-1</p></td>
-<td><p>13번</p></td>
-</tr>
-<tr class="even">
-<td><p>16-1</p></td>
-<td><p>16번</p></td>
+<td><p>20-1</p></td>
+<td><p>20번</p></td>
 </tr>
 <tr class="odd">
 <td><p>17-1</p></td>
@@ -144,16 +142,32 @@ TCN은 busan Cable Networks의 약자이며 1992년 설립되었다. CATV 관련
 <td><p>19번</p></td>
 </tr>
 <tr class="even">
-<td><p>20-1</p></td>
-<td><p>20번</p></td>
+<td><p>17-1</p></td>
+<td><p>17번</p></td>
 </tr>
 <tr class="odd">
 <td><p>21-1</p></td>
 <td><p>21번</p></td>
 </tr>
 <tr class="even">
-<td><p>26-1</p></td>
-<td><p>26번</p></td>
+<td><p>22-2</p></td>
+<td><p>22번</p></td>
+</tr>
+<tr class="odd">
+<td><p>24-2</p></td>
+<td><p>3번</p></td>
+</tr>
+<tr class="even">
+<td><p>28-2</p></td>
+<td><p>29번</p></td>
+</tr>
+<tr class="odd">
+<td><p>33-2</p></td>
+<td><p>42번</p></td>
+</tr>
+<tr class="even">
+<td><p>45-2</p></td>
+<td><p>48번</p></td>
 </tr>
 <tr class="odd">
 <td><p>25-1</p></td>
@@ -164,28 +178,12 @@ TCN은 busan Cable Networks의 약자이며 1992년 설립되었다. CATV 관련
 <td><p>26번</p></td>
 </tr>
 <tr class="odd">
-<td><p>36-1</p></td>
-<td><p>36번</p></td>
+<td><p>-</p></td>
+<td><p>35번</p></td>
 </tr>
 <tr class="even">
-<td><p>47-1</p></td>
-<td><p>2번</p></td>
-</tr>
-<tr class="odd">
-<td><p>33-1</p></td>
-<td><p>33번</p></td>
-</tr>
-<tr class="even">
-<td><p>58-1</p></td>
-<td><p>58번</p></td>
-</tr>
-<tr class="odd">
-<td><p>59-1</p></td>
-<td><p>59번</p></td>
-</tr>
-<tr class="even">
-<td><p>49-1</p></td>
-<td><p>49번</p></td>
+<td><p>-</p></td>
+<td><p>40번</p></td>
 </tr>
 </tbody>
 </table>
@@ -211,160 +209,160 @@ TCN은 busan Cable Networks의 약자이며 1992년 설립되었다. CATV 관련
 <td><p>SD</p></td>
 </tr>
 <tr class="odd">
-<td><p>1-1</p></td>
-<td><p>00번</p></td>
+<td><p>16-1</p></td>
+<td><p>16번</p></td>
 </tr>
 <tr class="even">
-<td><p>22-1</p></td>
-<td><p>22번</p></td>
-</tr>
-<tr class="odd">
-<td><p>27-1</p></td>
-<td><p>27번</p></td>
-</tr>
-<tr class="even">
-<td><p>28-1</p></td>
-<td><p>28번</p></td>
-</tr>
-<tr class="odd">
-<td><p>29-1</p></td>
-<td><p>29번</p></td>
-</tr>
-<tr class="even">
-<td><p>99-1</p></td>
-<td><p>99번</p></td>
-</tr>
-<tr class="odd">
 <td><p>23-1</p></td>
 <td><p>23번</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>24-1</p></td>
 <td><p>24번</p></td>
 </tr>
+<tr class="even">
+<td><p>25-1</p></td>
+<td><p>34번</p></td>
+</tr>
 <tr class="odd">
-<td><p>43-1</p></td>
-<td><p>3번</p></td>
+<td><p>26-1</p></td>
+<td><p>61번</p></td>
 </tr>
 <tr class="even">
-<td><p>39-1</p></td>
-<td><p>39번</p></td>
+<td><p>33-1</p></td>
+<td><p>45번</p></td>
 </tr>
 <tr class="odd">
-<td><p>32-1</p></td>
+<td><p>35-1</p></td>
+<td><p>63번</p></td>
+</tr>
+<tr class="even">
+<td><p>37-1</p></td>
+<td><p>44번</p></td>
+</tr>
+<tr class="odd">
+<td><p>40-1</p></td>
+<td><p>36번</p></td>
+</tr>
+<tr class="even">
+<td><p>40-2</p></td>
+<td><p>74번</p></td>
+</tr>
+<tr class="odd">
+<td><p>40-3</p></td>
+<td><p>179번</p></td>
+</tr>
+<tr class="even">
+<td><p>43-1</p></td>
+<td><p>85번</p></td>
+</tr>
+<tr class="odd">
+<td><p>50-2</p></td>
+<td><p>89번</p></td>
+</tr>
+<tr class="even">
+<td><p>60-1</p></td>
+<td><p>88번</p></td>
+</tr>
+<tr class="odd">
+<td><p>63-1</p></td>
+<td><p>86번</p></td>
+</tr>
+<tr class="even">
+<td><p>66-2</p></td>
+<td><p>101번</p></td>
+</tr>
+<tr class="odd">
+<td><p>68-1</p></td>
 <td><p>32번</p></td>
 </tr>
 <tr class="even">
-<td><p>-</p></td>
-<td><p>193번</p></td>
-</tr>
-<tr class="odd">
-<td><p>78-1</p></td>
-<td><p>171번</p></td>
-</tr>
-<tr class="even">
-<td><p>52-1</p></td>
-<td><p>46번</p></td>
-</tr>
-<tr class="odd">
-<td><p>94-1</p></td>
-<td><p>101번</p></td>
-</tr>
-<tr class="even">
-<td><p>82-1</p></td>
-<td><p>152번</p></td>
-</tr>
-<tr class="odd">
-<td><p>45-1</p></td>
-<td><p>45번</p></td>
-</tr>
-<tr class="even">
-<td><p>-</p></td>
-<td><p>134번</p></td>
-</tr>
-<tr class="odd">
-<td><p>78-1</p></td>
-<td><p>90번</p></td>
-</tr>
-<tr class="even">
-<td><p>43-2</p></td>
-<td><p>31번</p></td>
-</tr>
-<tr class="odd">
-<td><p>53-1</p></td>
-<td><p>53번</p></td>
-</tr>
-<tr class="even">
-<td><p>-</p></td>
-<td><p>508번</p></td>
-</tr>
-<tr class="odd">
-<td><p>34-1</p></td>
-<td><p>34번</p></td>
-</tr>
-<tr class="even">
-<td><p>66-1</p></td>
-<td><p>66번</p></td>
-</tr>
-<tr class="odd">
-<td><p>36-1</p></td>
-<td><p>50번</p></td>
-</tr>
-<tr class="even">
-<td><p>55-1</p></td>
-<td><p>62번</p></td>
-</tr>
-<tr class="odd">
-<td><p>98-1</p></td>
-<td><p>196번</p></td>
-</tr>
-<tr class="even">
-<td><p>61-1</p></td>
-<td><p>142번</p></td>
-</tr>
-<tr class="odd">
-<td><p>-</p></td>
-<td><p>182번</p></td>
-</tr>
-<tr class="even">
-<td><p>-</p></td>
-<td><p>192번</p></td>
-</tr>
-<tr class="odd">
-<td><p>-</p></td>
-<td><p>150번</p></td>
-</tr>
-<tr class="even">
-<td><p>71-1</p></td>
-<td><p>71번</p></td>
-</tr>
-<tr class="odd">
-<td><p>72-1</p></td>
-<td><p>72번</p></td>
-</tr>
-<tr class="even">
-<td><p>-</p></td>
-<td><p>90번</p></td>
-</tr>
-<tr class="odd">
-<td><p>-</p></td>
-<td><p>80번</p></td>
-</tr>
-<tr class="even">
-<td><p>92-1</p></td>
+<td><p>69-1</p></td>
 <td><p>100번</p></td>
 </tr>
 <tr class="odd">
-<td><p>44-1</p></td>
-<td><p>34번</p></td>
+<td><p>71-1</p></td>
+<td><p>27번</p></td>
 </tr>
 <tr class="even">
-<td><p>-</p></td>
-<td><p>186번</p></td>
+<td><p>73-1</p></td>
+<td><p>80번</p></td>
 </tr>
 <tr class="odd">
 <td><p>-</p></td>
-<td><p>86번</p></td>
+<td><p>00번</p></td>
+</tr>
+<tr class="even">
+<td><p>-</p></td>
+<td><p>30번</p></td>
+</tr>
+<tr class="odd">
+<td><p>-</p></td>
+<td><p>55번</p></td>
+</tr>
+<tr class="even">
+<td><p>-</p></td>
+<td><p>56번</p></td>
+</tr>
+<tr class="odd">
+<td><p>-</p></td>
+<td><p>66번</p></td>
+</tr>
+<tr class="even">
+<td><p>-</p></td>
+<td><p>75번</p></td>
+</tr>
+<tr class="odd">
+<td><p>-</p></td>
+<td><p>76번</p></td>
+</tr>
+<tr class="even">
+<td><p>-</p></td>
+<td><p>84번</p></td>
+</tr>
+<tr class="odd">
+<td><p>-</p></td>
+<td><p>90번</p></td>
+</tr>
+<tr class="even">
+<td><p>-</p></td>
+<td><p>91번</p></td>
+</tr>
+<tr class="odd">
+<td><p>-</p></td>
+<td><p>94번</p></td>
+</tr>
+<tr class="even">
+<td><p>-</p></td>
+<td><p>96번</p></td>
+</tr>
+<tr class="odd">
+<td><p>-</p></td>
+<td><p>99번</p></td>
+</tr>
+<tr class="even">
+<td><p>-</p></td>
+<td><p>102번</p></td>
+</tr>
+<tr class="odd">
+<td><p>-</p></td>
+<td><p>108번</p></td>
+</tr>
+<tr class="even">
+<td><p>-</p></td>
+<td><p>104번</p></td>
+</tr>
+<tr class="odd">
+<td><p>-</p></td>
+<td><p>151번</p></td>
+</tr>
+<tr class="even">
+<td><p>-</p></td>
+<td><p>178번</p></td>
+</tr>
+<tr class="odd">
+<td><p>-</p></td>
+<td><p>180번</p></td>
 </tr>
 </tbody>
 </table>
@@ -390,16 +388,183 @@ TCN은 busan Cable Networks의 약자이며 1992년 설립되었다. CATV 관련
 <td><p>SD</p></td>
 </tr>
 <tr class="odd">
-<td><p>35-1</p></td>
-<td><p>191번</p></td>
+<td><p>30-1</p></td>
+<td><p>190번</p></td>
 </tr>
 <tr class="even">
-<td><p>54-1</p></td>
-<td><p>74번</p></td>
+<td><p>36-1</p></td>
+<td><p>128번</p></td>
 </tr>
 <tr class="odd">
-<td><p>91-1</p></td>
-<td><p>502번</p></td>
+<td><p>39-1</p></td>
+<td><p>129번</p></td>
+</tr>
+<tr class="even">
+<td><p>46-1</p></td>
+<td><p>191번</p></td>
+</tr>
+<tr class="odd">
+<td><p>49-1</p></td>
+<td><p>122번</p></td>
+</tr>
+<tr class="even">
+<td><p>50-1</p></td>
+<td><p>120번</p></td>
+</tr>
+<tr class="odd">
+<td><p>56-1</p></td>
+<td><p>136번</p></td>
+</tr>
+<tr class="even">
+<td><p>59-1</p></td>
+<td><p>192번</p></td>
+</tr>
+<tr class="odd">
+<td><p>66-1</p></td>
+<td><p>121번</p></td>
+</tr>
+<tr class="even">
+<td><p>-</p></td>
+<td><p>123번</p></td>
+</tr>
+<tr class="odd">
+<td><p>-</p></td>
+<td><p>124번</p></td>
+</tr>
+<tr class="even">
+<td><p>-</p></td>
+<td><p>125번</p></td>
+</tr>
+<tr class="odd">
+<td><p>-</p></td>
+<td><p>126번</p></td>
+</tr>
+<tr class="even">
+<td><p>-</p></td>
+<td><p>127번</p></td>
+</tr>
+<tr class="odd">
+<td><p>-</p></td>
+<td><p>131번</p></td>
+</tr>
+<tr class="even">
+<td><p>-</p></td>
+<td><p>132번</p></td>
+</tr>
+<tr class="odd">
+<td><p>-</p></td>
+<td><p>193번</p></td>
+</tr>
+<tr class="even">
+<td><p>-</p></td>
+<td><p>194번</p></td>
+</tr>
+<tr class="odd">
+<td><p>-</p></td>
+<td><p>195번</p></td>
+</tr>
+<tr class="even">
+<td><p>-</p></td>
+<td><p>196번</p></td>
+</tr>
+<tr class="odd">
+<td><p>-</p></td>
+<td><p>197번</p></td>
+</tr>
+<tr class="even">
+<td><p>-</p></td>
+<td><p>230번</p></td>
+</tr>
+<tr class="odd">
+<td><p>-</p></td>
+<td><p>231번</p></td>
+</tr>
+<tr class="even">
+<td><p>-</p></td>
+<td><p>232번</p></td>
+</tr>
+<tr class="odd">
+<td><p>-</p></td>
+<td><p>233번</p></td>
+</tr>
+<tr class="even">
+<td><p>-</p></td>
+<td><p>235번</p></td>
+</tr>
+<tr class="odd">
+<td><p>-</p></td>
+<td><p>236번</p></td>
+</tr>
+</tbody>
+</table>
+
+  - **다큐/레저/취미/종교/공공채널**
+
+<table>
+<thead>
+<tr class="header">
+<th><p>채널 번호</p></th>
+<th><p>채널명</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>디지털<br />
+알뜰형</p></td>
+<td><p>디지털<br />
+케이블</p></td>
+</tr>
+<tr class="even">
+<td><p>HD</p></td>
+<td><p>SD</p></td>
+</tr>
+<tr class="odd">
+<td><p>32-1</p></td>
+<td><p>28번</p></td>
+</tr>
+<tr class="even">
+<td><p>41-1</p></td>
+<td><p>148번</p></td>
+</tr>
+<tr class="odd">
+<td><p>52-1</p></td>
+<td><p>222번</p></td>
+</tr>
+<tr class="even">
+<td><p>53-1</p></td>
+<td><p>220번</p></td>
+</tr>
+<tr class="odd">
+<td><p>55-1</p></td>
+<td><p>221번</p></td>
+</tr>
+<tr class="even">
+<td><p>65-1</p></td>
+<td><p>143번</p></td>
+</tr>
+<tr class="odd">
+<td><p>75-1</p></td>
+<td><p>58번</p></td>
+</tr>
+<tr class="even">
+<td><p>-</p></td>
+<td><p>39번</p></td>
+</tr>
+<tr class="odd">
+<td><p>-</p></td>
+<td><p>141번</p></td>
+</tr>
+<tr class="even">
+<td><p>-</p></td>
+<td><p>144번</p></td>
+</tr>
+<tr class="odd">
+<td><p>-</p></td>
+<td><p>150번</p></td>
+</tr>
+<tr class="even">
+<td><p>-</p></td>
+<td><p>239번</p></td>
 </tr>
 </tbody>
 </table>
@@ -410,6 +575,6 @@ TCN은 busan Cable Networks의 약자이며 1992년 설립되었다. CATV 관련
 
 ## 같이 보기
 
-  - [TCN](https://ko.wikipedia.org/wiki/TCN "wikilink")
+  - [SK브로드밴드](../Page/SK브로드밴드.md "wikilink")
 
-[분류:대한민국의 종합유선방송사업자](https://ko.wikipedia.org/wiki/분류:대한민국의_종합유선방송사업자 "wikilink") [분류:부산광역시의 대중 매체](../Page/분류:부산광역시의_대중_매체.md "wikilink") [분류:1992년 설립](https://ko.wikipedia.org/wiki/분류:1992년_설립 "wikilink")
+[분류:대한민국의 종합유선방송사업자](https://ko.wikipedia.org/wiki/분류:대한민국의_종합유선방송사업자 "wikilink") [분류:대구광역시의 대중 매체](../Page/분류:대구광역시의_대중_매체.md "wikilink") [분류:부산광역시의 대중 매체](../Page/분류:부산광역시의_대중_매체.md "wikilink") [분류:1992년 설립](https://ko.wikipedia.org/wiki/분류:1992년_설립 "wikilink")

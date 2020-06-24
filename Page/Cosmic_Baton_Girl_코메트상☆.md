@@ -274,7 +274,7 @@
 
 ## 배경
 
-[가나가와현](../Page/가나가와현.md "wikilink") [가마쿠라 시가](https://ko.wikipedia.org/wiki/가마쿠라_시 "wikilink") 무대로 되어 있어 전철이나 역 주변은 [에노시마 전철을](../Page/에노시마_전철.md "wikilink"), 후지요시가 주변은 가마쿠라 시 주택가를, 해안은 유이가하마,이나무라가사키,시치리가하마를 배경으로 한 것이다.
+[가나가와현](../Page/가나가와현.md "wikilink") [가마쿠라시](../Page/가마쿠라시.md "wikilink")가 무대로 되어 있어 전철이나 역 주변은 [에노시마 전철을](../Page/에노시마_전철.md "wikilink"), 후지요시가 주변은 가마쿠라 시 주택가를, 해안은 유이가하마,이나무라가사키,시치리가하마를 배경으로 한 것이다.
 
 방영 기간 중에는 에노시마 전철의 역이나 거리에 포스터나 스티커가 붙여졌었고, 코메트상의 인형이 거리를 걷는 등, 거리에서 활발한 캠페인을 했다. 현재에도 코메트상과 [슬램 덩크의](../Page/슬램_덩크_\(만화\).md "wikilink") 분위기를 맛보고자 가마쿠라를 방문하는 사람은 많다.
 
@@ -346,7 +346,7 @@
 
 <references group="※"/>
 
-<references/>
+<references />
 
 [분류:2001년 애니메이션](https://ko.wikipedia.org/wiki/분류:2001년_애니메이션 "wikilink") [분류:TV 오사카의 애니메이션 작품](https://ko.wikipedia.org/wiki/분류:TV_오사카의_애니메이션_작품 "wikilink") [분류:코미디 만화](https://ko.wikipedia.org/wiki/분류:코미디_만화 "wikilink") [분류:드라마 애니메이션](https://ko.wikipedia.org/wiki/분류:드라마_애니메이션 "wikilink") [분류:드라마 만화](https://ko.wikipedia.org/wiki/분류:드라마_만화 "wikilink") [분류:한국방송공사의 텔레비전 애니메이션](https://ko.wikipedia.org/wiki/분류:한국방송공사의_텔레비전_애니메이션 "wikilink") [분류:투니버스의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:투니버스의_텔레비전_프로그램 "wikilink")
 

@@ -7,7 +7,7 @@
 
   - [KBS 드라마](../Page/KBS_드라마.md "wikilink")
   - [SBS 플러스](../Page/SBS_플러스.md "wikilink")
-  - [SKY](https://ko.wikipedia.org/wiki/SKY_\(텔레비전_채널\) "wikilink")
+  - [SKY](https://ko.wikipedia.org/wiki/SKY "wikilink")
   - [드라맥스](../Page/드라맥스.md "wikilink")
   - [드라마큐브](../Page/드라마큐브.md "wikilink")
   - [MBC 에브리원](../Page/MBC_에브리원.md "wikilink")
