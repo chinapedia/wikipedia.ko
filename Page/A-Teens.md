@@ -18,4 +18,4 @@
 ## 외부 링크
 
   -
-[분류:스웨덴의 보이 밴드](https://ko.wikipedia.org/wiki/분류:스웨덴의_보이_밴드 "wikilink") [분류:스웨덴의 걸 그룹](https://ko.wikipedia.org/wiki/분류:스웨덴의_걸_그룹 "wikilink") [분류:스웨덴의 팝 음악 그룹](https://ko.wikipedia.org/wiki/분류:스웨덴의_팝_음악_그룹 "wikilink") [분류:1998년 데뷔](https://ko.wikipedia.org/wiki/분류:1998년_데뷔 "wikilink") [분류:1998년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:1998년_결성된_음악_그룹 "wikilink") [분류:2006년 해체된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2006년_해체된_음악_그룹 "wikilink")
+[분류:스웨덴의 보이 밴드](https://ko.wikipedia.org/wiki/분류:스웨덴의_보이_밴드 "wikilink") [분류:스웨덴의 걸 그룹](https://ko.wikipedia.org/wiki/분류:스웨덴의_걸_그룹 "wikilink") [분류:스웨덴의 팝 음악 그룹](https://ko.wikipedia.org/wiki/분류:스웨덴의_팝_음악_그룹 "wikilink") [분류:1998년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:1998년_결성된_음악_그룹 "wikilink") [분류:2006년 해체된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2006년_해체된_음악_그룹 "wikilink")

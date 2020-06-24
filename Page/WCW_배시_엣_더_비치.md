@@ -1,0 +1,98 @@
+> This article is converted from Wikipedia: [WCW 배시 엣 더 비치](https://ko.wikipedia.org/wiki/WCW_배시_엣_더_비치).
+
+
+**배쉬 엣 더 비치**(Bash at the Beach)는 [WCW가](https://ko.wikipedia.org/wiki/월드_챔피언십_레슬링 "wikilink") 주관하였고, 2000년 끝으로 폐지된 페이 퍼 뷰이다. [WWE](../Page/WWE.md "wikilink")의 [서머슬램](../Page/서머슬램.md "wikilink")과 같이 여름의 가장 큰 페이 퍼 뷰이다.
+
+[2019년](../Page/2019년.md "wikilink") 봄 [코디 로즈가](../Page/코디_로즈.md "wikilink") 상표권 등록 신청을 하였고, 승인이 되면서 [올 엘리트 레슬링](https://ko.wikipedia.org/wiki/올_엘리트_레슬링 "wikilink") 위클리쇼 [AEW 다이너마이트](https://ko.wikipedia.org/wiki/AEW_다이너마이트 "wikilink") 특집 에피소드로, [2020년](../Page/2020년.md "wikilink") 20년만에 부활하게 된다.
+
+## 배쉬 엣 더 비치 개최한 곳
+
+### WCW PPV 시절
+
+<table>
+<thead>
+<tr class="header">
+<th><p>날짜</p></th>
+<th><p>개최한 곳</p></th>
+<th><p>경기장</p></th>
+<th><p>관중수</p></th>
+<th><p>메인이벤트</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>1994년 7월 17일</p></td>
+<td><p><a href="../Page/올랜도.md" title="wikilink">올랜도</a></p></td>
+<td><p><a href="../Page/암웨이_아레나.md" title="wikilink">올랜도 아레나</a></p></td>
+<td><p>14,000</p></td>
+<td><p><a href="../Page/헐크_호건.md" title="wikilink">헐크 호건</a> vs. <a href="../Page/릭_플레어.md" title="wikilink">릭 플레어</a> (WCW 월드 헤비웨이트 챔피언십)</p></td>
+</tr>
+<tr class="even">
+<td><p>1995년 7월 16일</p></td>
+<td><p><a href="../Page/헌팅턴비치.md" title="wikilink">헌팅턴비치</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/더_비치" title="wikilink">더 비치</a></p></td>
+<td><p>9,500</p></td>
+<td><p><a href="../Page/헐크_호건.md" title="wikilink">헐크 호건</a> vs. <a href="https://ko.wikipedia.org/wiki/빅_밴_베이더" title="wikilink">베이더</a> (WCW 월드 헤비웨이트 챔피언십, 스틸 케이지 매치)</p></td>
+</tr>
+<tr class="odd">
+<td><p>1996년 7월 7일</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/데이토나_비치" title="wikilink">데이토나 비치</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/오션_센터" title="wikilink">오션 센터</a></p></td>
+<td><p>8,300</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/더_아웃사이더스" title="wikilink">더 아웃사이더스</a> (<a href="https://ko.wikipedia.org/wiki/케빈_내시" title="wikilink">케빈 내시</a> &amp; <a href="https://ko.wikipedia.org/wiki/스캇_홀" title="wikilink">스캇 홀</a>) &amp; <a href="../Page/헐크_호건.md" title="wikilink">헐크 호건</a> vs. <a href="../Page/랜디_새비지.md" title="wikilink">랜디 새비지</a>, <a href="../Page/스팅_(프로레슬링_선수).md" title="wikilink">스팅</a>, <a href="https://ko.wikipedia.org/wiki/렉스_루거" title="wikilink">렉스 루거</a> (식스맨 태그팀 매치)</p></td>
+</tr>
+<tr class="even">
+<td><p>1997년 7월 13일</p></td>
+<td><p>7,851</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/렉스_루거" title="wikilink">렉스 루거</a> &amp; <a href="../Page/빅_쇼.md" title="wikilink">더 자이언트</a> vs. <a href="../Page/헐크_호건.md" title="wikilink">헐리우드 호건</a> &amp; <a href="../Page/데니스_로드먼.md" title="wikilink">데니스 로드먼</a> (태그팀 매치)</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>1998년 7월 12일</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/샌디에이고" title="wikilink">샌디에이고</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/콕스_아레나" title="wikilink">콕스 아레나</a></p></td>
+<td><p>10,095</p></td>
+<td><p><a href="../Page/헐크_호건.md" title="wikilink">헐리우드 호건</a> &amp; <a href="../Page/데니스_로드먼.md" title="wikilink">데니스 로드먼</a> vs. <a href="../Page/다이아몬드_댈러스_페이지.md" title="wikilink">다이아몬드 댈러스 페이지</a> &amp; <a href="../Page/칼_멀론.md" title="wikilink">칼 멀론</a></p></td>
+</tr>
+<tr class="even">
+<td><p>1999년 7월 11일</p></td>
+<td><p><a href="../Page/포트로더데일.md" title="wikilink">포트로더데일</a></p></td>
+<td><p><a href="../Page/BB&amp;T_센터.md" title="wikilink">내셔널 카 렌탈 센터</a></p></td>
+<td><p>13,624</p></td>
+<td><p><a href="../Page/랜디_새비지.md" title="wikilink">랜디 새비지</a> &amp; <a href="https://ko.wikipedia.org/wiki/시드_유디" title="wikilink">시드 비셔스</a> vs. <a href="https://ko.wikipedia.org/wiki/케빈_내시" title="wikilink">케빈 내시</a> &amp; <a href="../Page/스팅_(프로레슬링_선수).md" title="wikilink">스팅</a> (WCW 월드 헤비웨이트 챔피언십, 태그팀 매치)</p></td>
+</tr>
+<tr class="odd">
+<td><p>2000년 7월 9일</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/데이토나_비치" title="wikilink">데이토나 비치</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/오션_센터" title="wikilink">오션 센터</a></p></td>
+<td><p>6,572</p></td>
+<td><p><a href="../Page/부커_허프먼.md" title="wikilink">부커 T</a> vs. <a href="https://ko.wikipedia.org/wiki/제프_제럿" title="wikilink">제프 제럿</a> (WCW 월드 헤비웨이트 챔피언십)</p></td>
+</tr>
+</tbody>
+</table>
+
+### 올 엘리트 레슬링 시절
+
+<table>
+<thead>
+<tr class="header">
+<th><p>날짜</p></th>
+<th><p>개최한 곳</p></th>
+<th><p>경기장</p></th>
+<th><p>관중수</p></th>
+<th><p>메인이벤트</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>2020년 1월 15일</p></td>
+<td><p><a href="../Page/마이애미.md" title="wikilink">마이애미</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+[분류:WCW 페이퍼뷰](https://ko.wikipedia.org/wiki/분류:WCW_페이퍼뷰 "wikilink")

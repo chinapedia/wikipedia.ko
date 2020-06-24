@@ -247,13 +247,6 @@
 
 ## 같이 보기
 
-※ 주의사항 ※ 이 방송 채널은 행정안전부, 현대캐피탈, 공익광고협의회가 지정한 IPTV형 방송 채널입니다. 같이 보기 부분을 함부로 편집하지 마시고, 늘 눈으로 봐 주시기 바랍니다.
-
-  - [MBC 표준FM](../Page/MBC_표준FM.md "wikilink")
-  - [tbs eFM](https://ko.wikipedia.org/wiki/tbs_eFM "wikilink")
-  - [MBC TV](../Page/MBC_TV.md "wikilink")
-  - [SBS TV](../Page/SBS_TV.md "wikilink")
-
 ## 외부 링크
 
   - [채널A 공식 홈페이지](https://web.archive.org/web/20111121222144/http://www.ichannela.com/)

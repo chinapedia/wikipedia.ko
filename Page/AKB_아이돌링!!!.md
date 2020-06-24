@@ -20,7 +20,7 @@
   - [야자와 에리카](../Page/야자와_에리카.md "wikilink") (7호)
   - [요코야마 루리카](../Page/요코야마_루리카.md "wikilink") (9호)※ 이상 1기생.
   - [사카이 히토미](https://ko.wikipedia.org/wiki/사카이_히토미 "wikilink") (14호)
-  - [아사히 나오](https://ko.wikipedia.org/wiki/아사히_나오 "wikilink") (15호)
+  - [아사히 나오](../Page/아사히_나오.md "wikilink") (15호)
   - [키쿠치 아미](https://ko.wikipedia.org/wiki/키쿠치_아미 "wikilink") (16호)
   - [미야케 히토미](https://ko.wikipedia.org/wiki/미야케_히토미 "wikilink") (17호)※ 이상 2기생.
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [KYUNG-HO KIM IV](https://ko.wikipedia.org/wiki/KYUNG-HO_KIM_IV).
 
 
-《**KYUNG-HO KIM IV**》는 [김경호의](../Page/김경호_\(가수\).md "wikilink") 네 번째 정규 음반이다. 타이틀곡은 비정이다
+《**KYUNG-HO KIM IV (For 2000 AD)**》는 [김경호의](../Page/김경호_\(가수\).md "wikilink") 네 번째 정규 음반이다. 타이틀곡은 비정이다
 
 ## 수록곡
 

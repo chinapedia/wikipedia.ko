@@ -17,7 +17,7 @@
     A01AA30 Combinations
     A01AA51 Sodium fluoride, combinations
 
-### A01AB 국소 구강 치료룰 위한 항감영제 및 소독제
+### A01AB 국소 구강 치료를 위한 항감염제 및 소독제
 
   -
     A01AB02 [Hydrogen peroxide](https://ko.wikipedia.org/wiki/Hydrogen_peroxide "wikilink")

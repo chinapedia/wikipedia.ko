@@ -13,4 +13,4 @@
 
   - for the Raspberry Pi
 
-[분류:영상 코덱](https://ko.wikipedia.org/wiki/분류:영상_코덱 "wikilink") [분류:마이크로소프트 이니셔티브](https://ko.wikipedia.org/wiki/분류:마이크로소프트_이니셔티브 "wikilink") [분류:영상 압축](https://ko.wikipedia.org/wiki/분류:영상_압축 "wikilink")
+[분류:영상 코덱](https://ko.wikipedia.org/wiki/분류:영상_코덱 "wikilink") [분류:마이크로소프트 이니셔티브](https://ko.wikipedia.org/wiki/분류:마이크로소프트_이니셔티브 "wikilink") [분류:영상 압축](https://ko.wikipedia.org/wiki/분류:영상_압축 "wikilink") [분류:SMPTE 표준](https://ko.wikipedia.org/wiki/분류:SMPTE_표준 "wikilink")

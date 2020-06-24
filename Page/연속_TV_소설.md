@@ -84,7 +84,7 @@
   - 2013년 《[아마짱](../Page/아마짱.md "wikilink")》 - (주연: [노넨 레나](https://ko.wikipedia.org/wiki/노넨_레나 "wikilink"))
   - 2013년 《[잘 먹었습니다](../Page/잘_먹었습니다.md "wikilink")》 - (주연: [안](../Page/안_\(배우\).md "wikilink"))
   - 2014년 《[하나코와 앤](../Page/하나코와_앤.md "wikilink")》 - (주연: [요시타카 유리코](../Page/요시타카_유리코.md "wikilink"))
-  - 2014년 《[맛상](../Page/맛상.md "wikilink")》 - (주연: [타마야마 테츠지](../Page/타마야마_테츠지.md "wikilink")/샬럿 케이트 폭스)
+  - 2014년 《[맛상](../Page/맛상.md "wikilink")》 - (주연: [타마야마 테츠지](../Page/타마야마_테츠지.md "wikilink")/[샬럿 케이트 폭스](../Page/샬럿_케이트_폭스.md "wikilink"))
   - 2015년 《[마레](https://ko.wikipedia.org/wiki/마레 "wikilink")》 - (주연: [츠치야 타오](../Page/츠치야_타오.md "wikilink"))
   - 2015년 《[아침이 온다](../Page/아침이_온다.md "wikilink")》 - (주연: [하루](../Page/하루_\(배우\).md "wikilink"))
   - 2016년 《[아빠 언니](../Page/아빠_언니.md "wikilink")》 - (주연: [타카하타 미츠키](../Page/타카하타_미츠키.md "wikilink"))
@@ -100,12 +100,18 @@
 
   - 2020년 《[옐](https://ko.wikipedia.org/wiki/옐_\(드라마\) "wikilink")》 - (주연: [쿠보타 마사타카](../Page/쿠보타_마사타카.md "wikilink"))
   - 2020년 《[오초양](https://ko.wikipedia.org/wiki/오초양 "wikilink")》 - (주연: [스기사키 하나](../Page/스기사키_하나.md "wikilink"))
+  - 2021년 《[어서와 모네](https://ko.wikipedia.org/wiki/어서와_모네 "wikilink")》 - (주연: [키요하라 카야](https://ko.wikipedia.org/wiki/키요하라_카야 "wikilink"))
 
 ## 수상 목록
 
   - [신어·유행어 대상](../Page/신어·유행어_대상.md "wikilink")
-      - 1984년, 제1회상 신조어 부문에서 《오싱》에서 탄생한 '오싱드롬' (, 오싱+신드롬)이 선정됐다.
-      - 2010년, 제27회상 연간대상에 《게게게의 여보》 (원작자 무라 누노에를 포함)에서 탄생한 '게게게의 \~' ()가 선정됐다.
+
+| 연도    | 수상     | 작품        | 부문   |
+| ----- | ------ | --------- | ---- |
+| 1984년 | 오싱드롬   | 《오싱》      | 신어부문 |
+| 2010년 | 게게게의\~ | 《게게게의 여보》 | 연간대상 |
+| 2013년 | 제제제    | 《아마짱》     | 연간대상 |
+| 2014년 | 고키겐요   | 《하나코와 앤》  | 톱10  |
 
 ## 외부 링크
 

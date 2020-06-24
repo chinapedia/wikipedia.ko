@@ -40,7 +40,7 @@
 
 <references/>
 
-[분류:소련 및 러시아의 군용기](https://ko.wikipedia.org/wiki/분류:소련_및_러시아의_군용기 "wikilink") [분류:요격기](https://ko.wikipedia.org/wiki/분류:요격기 "wikilink") [분류:미그기](https://ko.wikipedia.org/wiki/분류:미그기 "wikilink") [분류:1970년 취역](https://ko.wikipedia.org/wiki/분류:1970년_취역 "wikilink") [분류:이란-이라크 전쟁의 무기](https://ko.wikipedia.org/wiki/분류:이란-이라크_전쟁의_무기 "wikilink") [분류:쌍발 제트기](https://ko.wikipedia.org/wiki/분류:쌍발_제트기 "wikilink") [분류:1964년 첫 비행한 항공기](https://ko.wikipedia.org/wiki/분류:1964년_첫_비행한_항공기 "wikilink")
+[분류:소련 및 러시아의 군용기](https://ko.wikipedia.org/wiki/분류:소련_및_러시아의_군용기 "wikilink") [분류:요격기](https://ko.wikipedia.org/wiki/분류:요격기 "wikilink") [분류:미그기](https://ko.wikipedia.org/wiki/분류:미그기 "wikilink") [분류:1970년 취역](https://ko.wikipedia.org/wiki/분류:1970년_취역 "wikilink") [분류:이란-이라크 전쟁의 무기](https://ko.wikipedia.org/wiki/분류:이란-이라크_전쟁의_무기 "wikilink") [분류:쌍발 제트기](https://ko.wikipedia.org/wiki/분류:쌍발_제트기 "wikilink") [분류:1964년 첫 비행한 항공기](https://ko.wikipedia.org/wiki/분류:1964년_첫_비행한_항공기 "wikilink") [분류:고익기](https://ko.wikipedia.org/wiki/분류:고익기 "wikilink")
 
 1.  ["Global Aircraft – Top 50 Fastest Aircraft."](http://www.globalaircraft.org/top50.htm) *The Global Aircraft Organization,* 24 April 2007. Retrieved: 30 June 2011.
 2.  Green and Swanborough 2001.

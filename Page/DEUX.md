@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [DEUX](https://ko.wikipedia.org/wiki/DEUX).
 
 
-《**DEUX**》는 [그룹](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink") [듀스](https://ko.wikipedia.org/wiki/듀스 "wikilink")의 데뷔 [음반](../Page/음반.md "wikilink")이다.
+《**DEUX**》는 [그룹](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink") [이름이며](https://ko.wikipedia.org/wiki/듀스 "wikilink") 데뷔 [음반](../Page/음반.md "wikilink")이다.
 
 ## 수록곡
 

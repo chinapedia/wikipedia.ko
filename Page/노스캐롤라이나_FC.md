@@ -186,4 +186,4 @@
 
   - [캐롤라이나 레일호크스 공식 웹사이트](https://web.archive.org/web/20121226035953/http://www.carolinarailhawks.com/)
 
-[분류:2006년 설립된 축구단](https://ko.wikipedia.org/wiki/분류:2006년_설립된_축구단 "wikilink") [분류:북미 사커 리그 구단](https://ko.wikipedia.org/wiki/분류:북미_사커_리그_구단 "wikilink")
+[분류:2006년 설립된 축구단](https://ko.wikipedia.org/wiki/분류:2006년_설립된_축구단 "wikilink") [분류:북미 사커 리그 구단](https://ko.wikipedia.org/wiki/분류:북미_사커_리그_구단 "wikilink") [분류:노스캐롤라이나주의 축구단](https://ko.wikipedia.org/wiki/분류:노스캐롤라이나주의_축구단 "wikilink")

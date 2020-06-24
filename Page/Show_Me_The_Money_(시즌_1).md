@@ -12,4 +12,4 @@
 
 <references/>
 
-[분류:대한민국의 음악 경연회](https://ko.wikipedia.org/wiki/분류:대한민국의_음악_경연회 "wikilink") [분류:대한민국의 음악 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:대한민국의_음악_텔레비전_프로그램 "wikilink") [분류:대한민국의 리얼리티 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:대한민국의_리얼리티_텔레비전_프로그램 "wikilink") [분류:엠넷에서 방영하는 프로그램](https://ko.wikipedia.org/wiki/분류:엠넷에서_방영하는_프로그램 "wikilink") [분류:2012년 텔레비전 시즌](https://ko.wikipedia.org/wiki/분류:2012년_텔레비전_시즌 "wikilink") [분류:Show Me The Money](https://ko.wikipedia.org/wiki/분류:Show_Me_The_Money "wikilink")
+[분류:대한민국의 음악 경연회](https://ko.wikipedia.org/wiki/분류:대한민국의_음악_경연회 "wikilink") [분류:대한민국의 음악 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:대한민국의_음악_텔레비전_프로그램 "wikilink") [분류:대한민국의 리얼리티 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:대한민국의_리얼리티_텔레비전_프로그램 "wikilink") [분류:엠넷의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:엠넷의_텔레비전_프로그램 "wikilink") [분류:2012년 텔레비전 시즌](https://ko.wikipedia.org/wiki/분류:2012년_텔레비전_시즌 "wikilink") [분류:Show Me The Money](https://ko.wikipedia.org/wiki/분류:Show_Me_The_Money "wikilink")

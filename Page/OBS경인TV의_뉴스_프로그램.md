@@ -29,13 +29,13 @@
 <td><p><a href="../Page/OBS_경인투데이.md" title="wikilink">OBS 경인투데이</a></p></td>
 <td><p>평일 20분</p></td>
 <td><p>11:30 ~ 11:50</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/김준호_(아나운서)" title="wikilink">김준호</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/유진영_(아나운서)" title="wikilink">유진영</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/OBS_뉴스_오늘.md" title="wikilink">OBS 뉴스 오늘</a></p></td>
 <td><p>평일 1시간 10분</p></td>
-<td><p>17:10 ~ 18:20</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/김준호_(아나운서)" title="wikilink">김준호</a></p></td>
+<td><p>16:20 ~ 17:30</p></td>
+<td><p><a href="../Page/이상희_(아나운서).md" title="wikilink">이상희</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/OBS_뉴스중심.md" title="wikilink">OBS 뉴스중심</a></p></td>
@@ -45,14 +45,14 @@
 <ul>
 <li><strong>주말편성조정</strong> : <strong>토~일</strong> (19:30 ~ 19:55)</li>
 </ul></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/홍원기_(방송인)" title="wikilink">홍원기</a>, <a href="../Page/최지해.md" title="wikilink">최지해</a> (평일)<br />
+<td><p><a href="https://ko.wikipedia.org/wiki/김준호_(아나운서)" title="wikilink">김준호</a>, <a href="../Page/최지해.md" title="wikilink">최지해</a> (평일)<br />
 <a href="https://ko.wikipedia.org/wiki/김준우" title="wikilink">김준우</a> (주말)</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/오늘의_월드뉴스.md" title="wikilink">오늘의 월드뉴스</a></p></td>
 <td><p>평일 30분</p></td>
 <td><p>20:20 ~ 20:50</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/김용재" title="wikilink">김용재</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/홍원기_(방송인)" title="wikilink">홍원기</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/OBS_뉴스라인_인천-경기.md" title="wikilink">OBS 뉴스라인 인천-경기</a></p></td>

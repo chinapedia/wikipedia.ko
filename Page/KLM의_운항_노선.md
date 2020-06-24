@@ -15,7 +15,6 @@
 
   - ****
       - [서울](https://ko.wikipedia.org/wiki/서울 "wikilink") - [인천국제공항](https://ko.wikipedia.org/wiki/인천국제공항 "wikilink")
-      - [부산](https://ko.wikipedia.org/wiki/부산 "wikilink") - [김해국제공항](https://ko.wikipedia.org/wiki/김해국제공항 "wikilink")
   - ****
       - [베이징](https://ko.wikipedia.org/wiki/베이징 "wikilink") - [베이징 서우두 국제공항](https://ko.wikipedia.org/wiki/베이징_서우두_국제공항 "wikilink")
       - [상하이](https://ko.wikipedia.org/wiki/상하이 "wikilink") - [상하이 푸둥 국제공항](https://ko.wikipedia.org/wiki/상하이_푸둥_국제공항 "wikilink")

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [LATAM 브라질](https://ko.wikipedia.org/wiki/LATAM_브라질).
 
 
-**LATAM 브라질**(, )은 [브라질](../Page/브라질.md "wikilink")의 [상파울루](../Page/상파울루.md "wikilink")에 거점을 둔 항공사로, [브라질](../Page/브라질.md "wikilink")의 최대 항공사로 [남아메리카](../Page/남아메리카.md "wikilink")의 대형 항공사들 중 하나이며, [남아메리카](../Page/남아메리카.md "wikilink"), [북아메리카](../Page/북아메리카.md "wikilink"), [유럽](../Page/유럽.md "wikilink")을 오가는 항공편을 운영하고 있다. [원월드](../Page/원월드.md "wikilink") [항공 동맹의](https://ko.wikipedia.org/wiki/항공_동맹 "wikilink") 일원에 속하기도 한다. [허브 공항으로](../Page/허브_공항.md "wikilink") [브라질리아 국제공항](../Page/브라질리아_국제공항.md "wikilink"), [리우데자네이루 갈레앙 국제공항](../Page/리우데자네이루_갈레앙_국제공항.md "wikilink"), [상파울루 구아룰류스 국제공항이](https://ko.wikipedia.org/wiki/상파울루_구아룰류스_국제공항 "wikilink") 있다.
+**LATAM 브라질**(, )은 [브라질](../Page/브라질.md "wikilink")의 [상파울루](../Page/상파울루.md "wikilink")에 거점을 둔 항공사로, [브라질](../Page/브라질.md "wikilink")의 최대 항공사로 [남아메리카](../Page/남아메리카.md "wikilink")의 대형 항공사들 중 하나이며, [남아메리카](../Page/남아메리카.md "wikilink"), [북아메리카](../Page/북아메리카.md "wikilink"), [유럽](../Page/유럽.md "wikilink")을 오가는 항공편을 운영하고 있다. [허브 공항으로](../Page/허브_공항.md "wikilink") [브라질리아 국제공항](../Page/브라질리아_국제공항.md "wikilink"), [리우데자네이루 갈레앙 국제공항](../Page/리우데자네이루_갈레앙_국제공항.md "wikilink"), [상파울루 구아룰류스 국제공항이](https://ko.wikipedia.org/wiki/상파울루_구아룰류스_국제공항 "wikilink") 있다.
 
 ## 역사
 
@@ -19,19 +19,18 @@
 <tbody>
 <tr class="odd">
 <td><ul>
-<li><a href="../Page/LATAM_칠레.md" title="wikilink">LATAM 칠레</a> <small>(<a href="../Page/원월드.md" title="wikilink">원월드</a>)</small></li>
+<li><a href="../Page/LATAM_칠레.md" title="wikilink">LATAM 칠레</a></li>
 <li><a href="../Page/LATAM_파라과이.md" title="wikilink">LATAM 파라과이</a> <small>(자회사)</small></li>
 <li><a href="../Page/남아프리카_항공.md" title="wikilink">남아프리카 항공</a> <small>(<a href="https://ko.wikipedia.org/wiki/스타_얼라이언스" title="wikilink">스타 얼라이언스</a>)</small></li>
 <li><a href="https://ko.wikipedia.org/wiki/대한항공" title="wikilink">대한항공</a> <small>(<a href="../Page/스카이팀.md" title="wikilink">스카이팀</a>)</small></li>
 <li><a href="../Page/루프트한자.md" title="wikilink">루프트한자</a> <small>(<a href="https://ko.wikipedia.org/wiki/스타_얼라이언스" title="wikilink">스타 얼라이언스</a>)</small></li>
 <li><a href="../Page/스위스_국제항공.md" title="wikilink">스위스 국제항공</a> <small>(<a href="https://ko.wikipedia.org/wiki/스타_얼라이언스" title="wikilink">스타 얼라이언스</a>)</small></li>
-<li><a href="../Page/에어_이탈리아.md" title="wikilink">에어 이탈리아</a></li>
 <li><a href="../Page/에어_프랑스.md" title="wikilink">에어 프랑스</a> <small>(<a href="../Page/스카이팀.md" title="wikilink">스카이팀</a>)</small></li>
 <li><a href="../Page/영국항공.md" title="wikilink">영국항공</a> <small>(<a href="../Page/원월드.md" title="wikilink">원월드</a>)</small></li>
 <li><a href="../Page/웨스트제트.md" title="wikilink">웨스트제트</a></li>
+<li><a href="../Page/이베리아_항공.md" title="wikilink">이베리아 항공</a> <small>(<a href="../Page/원월드.md" title="wikilink">원월드</a>)</small></li>
 </ul></td>
 <td><ul>
-<li><a href="../Page/이베리아_항공.md" title="wikilink">이베리아 항공</a> <small>(<a href="../Page/원월드.md" title="wikilink">원월드</a>)</small></li>
 <li><a href="../Page/인터제트.md" title="wikilink">인터제트</a></li>
 <li><a href="../Page/일본항공.md" title="wikilink">일본항공</a> <small>(<a href="../Page/원월드.md" title="wikilink">원월드</a>)</small></li>
 <li><a href="../Page/중국국제항공.md" title="wikilink">중국국제항공</a> <small>(<a href="https://ko.wikipedia.org/wiki/스타_얼라이언스" title="wikilink">스타 얼라이언스</a>)</small></li>

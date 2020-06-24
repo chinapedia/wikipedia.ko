@@ -29,7 +29,7 @@
 
 ### v10s
 
-이 업데이트는 하드웨어적으로 불가능한 MKV재생을 가능하게 했으며, MP4,AVI파일도 원할하게 재생하게 했다.
+이 업데이트는 하드웨어적으로 불가능한 MKV재생을 가능하게 했으며, MP4,AVI파일도 원활하게 재생하게 했다.
 
   - 동영상 재생 기능이 대폭 향상되었다. 테그라2에서는 불가능하다던 MKV 재생을 가능케 했으며 MP4, AVI도 코덱 업데이트로 원활하게 재생된다. 하지만 1080p 동영상은 진저브레드까지도 개선되지 못했다.
   - 브라우저에서 제대로 재생되지 않던 동영상들도 정상적으로 재생된다.
@@ -71,7 +71,7 @@ Q메모를 어느화면에서나 보며 이중플레이 할 수 있는 겹쳐사
 
   -
 
-[분류:2011년 출시](https://ko.wikipedia.org/wiki/분류:2011년_출시 "wikilink") [분류:기네스 세계 기록](https://ko.wikipedia.org/wiki/분류:기네스_세계_기록 "wikilink") [분류:안드로이드 장치](https://ko.wikipedia.org/wiki/분류:안드로이드_장치 "wikilink") [옵티머스 2X](https://ko.wikipedia.org/wiki/분류:LG전자의_스마트폰 "wikilink") [옵티머스 2X](https://ko.wikipedia.org/wiki/분류:LG_휴대_전화기 "wikilink") [분류:스마트폰](https://ko.wikipedia.org/wiki/분류:스마트폰 "wikilink")
+[분류:2011년 출시](https://ko.wikipedia.org/wiki/분류:2011년_출시 "wikilink") [분류:안드로이드 장치](https://ko.wikipedia.org/wiki/분류:안드로이드_장치 "wikilink") [옵티머스 2X](https://ko.wikipedia.org/wiki/분류:LG전자의_스마트폰 "wikilink") [옵티머스 2X](https://ko.wikipedia.org/wiki/분류:LG_휴대_전화기 "wikilink") [분류:스마트폰](https://ko.wikipedia.org/wiki/분류:스마트폰 "wikilink")
 
 1.
 2.

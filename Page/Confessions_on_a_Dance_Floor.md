@@ -115,7 +115,7 @@
 
   - [Madonna.com \> 디스코그라피 \> Confessions on a Dance Floor](https://web.archive.org/web/20110622062919/http://www.madonna.com/discography/index/album/albumId/10/)
 
-[분류:2005년 음반](https://ko.wikipedia.org/wiki/분류:2005년_음반 "wikilink") [분류:마돈나의 음반](https://ko.wikipedia.org/wiki/분류:마돈나의_음반 "wikilink") [분류:디스코 음반](https://ko.wikipedia.org/wiki/분류:디스코_음반 "wikilink") [분류:미국의 1위 음반](https://ko.wikipedia.org/wiki/분류:미국의_1위_음반 "wikilink") [분류:기네스 세계 기록](https://ko.wikipedia.org/wiki/분류:기네스_세계_기록 "wikilink") [분류:워너 브라더스 레코드 음반](https://ko.wikipedia.org/wiki/분류:워너_브라더스_레코드_음반 "wikilink")
+[분류:2005년 음반](https://ko.wikipedia.org/wiki/분류:2005년_음반 "wikilink") [분류:마돈나의 음반](https://ko.wikipedia.org/wiki/분류:마돈나의_음반 "wikilink") [분류:디스코 음반](https://ko.wikipedia.org/wiki/분류:디스코_음반 "wikilink") [분류:미국의 1위 음반](https://ko.wikipedia.org/wiki/분류:미국의_1위_음반 "wikilink") [분류:워너 브라더스 레코드 음반](https://ko.wikipedia.org/wiki/분류:워너_브라더스_레코드_음반 "wikilink")
 
 1.
 2.

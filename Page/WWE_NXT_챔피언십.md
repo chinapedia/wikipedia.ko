@@ -27,7 +27,7 @@
   - [세스 롤린스](https://ko.wikipedia.org/wiki/세스_롤린스 "wikilink") (초대 챔피언)
   - [빅 E 랭스턴](https://ko.wikipedia.org/wiki/빅_E_랭스턴 "wikilink")
   - [보 댈러스](../Page/보_댈러스.md "wikilink")
-  - [네빌](https://ko.wikipedia.org/wiki/네빌 "wikilink")
+  - [에이드리안 네빌](../Page/에이드리안_네빌.md "wikilink")
   - [새미 제인](https://ko.wikipedia.org/wiki/새미_제인 "wikilink")
   - [케빈 오웬스](https://ko.wikipedia.org/wiki/케빈_오웬스 "wikilink")
   - [핀 베일러](../Page/핀_베일러.md "wikilink")
@@ -37,8 +37,8 @@
   - [드루 매킨타이어](../Page/드루_매킨타이어.md "wikilink")
   - [안드라데 시엔 알마스](../Page/안드라데_시엔_알마스.md "wikilink")
   - [알레이스터 블랙](../Page/알레이스터_블랙.md "wikilink")
-  - 토마소 치암파
-  - 쟈니 가르가노
+  - [토마소 치암파](https://ko.wikipedia.org/wiki/토마소_치암파 "wikilink")
+  - [조니 가가노](../Page/조니_가가노.md "wikilink")
   - **[애덤 콜](../Page/애덤_콜.md "wikilink")** (현 챔피언)
 
 ## 같이 보기

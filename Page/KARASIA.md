@@ -57,7 +57,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/2012년.md" title="wikilink">2012년</a> <a href="../Page/4월_18일.md" title="wikilink">4월 18일</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/나고야_시" title="wikilink">나고야 시</a></p></td>
+<td><p><a href="../Page/나고야시.md" title="wikilink">나고야시</a></p></td>
 <td><p>니혼 가이시 홀</p></td>
 <td><p>통산 20,000±명</p></td>
 <td></td>
@@ -183,7 +183,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/2013년.md" title="wikilink">2013년</a> <a href="../Page/10월_29일.md" title="wikilink">10월 29일</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/나고야_시" title="wikilink">나고야 시</a></p></td>
+<td><p><a href="../Page/나고야시.md" title="wikilink">나고야시</a></p></td>
 <td><p>니혼 가이시 홀</p></td>
 <td></td>
 <td></td>
@@ -260,7 +260,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/2014년.md" title="wikilink">2014년</a> <a href="../Page/10월_27일.md" title="wikilink">10월 27일</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/나고야_시" title="wikilink">나고야 시</a></p></td>
+<td><p><a href="../Page/나고야시.md" title="wikilink">나고야시</a></p></td>
 <td><p>나고야 국제 회의장 이벤트 홀</p></td>
 <td></td>
 <td></td>
@@ -344,7 +344,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/2015년.md" title="wikilink">2015년</a> <a href="../Page/9월_4일.md" title="wikilink">9월 4일</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/나고야_시" title="wikilink">나고야 시</a></p></td>
+<td><p><a href="../Page/나고야시.md" title="wikilink">나고야시</a></p></td>
 <td><p>나고야 국제 회의장 이벤트 홀</p></td>
 <td></td>
 <td></td>

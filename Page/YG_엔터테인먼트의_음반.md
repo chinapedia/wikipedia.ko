@@ -412,6 +412,15 @@
   - 2020년 3월 4일 VIINI - **\[Digital Single\] Moon\&Butterfly**
   - 2020년 3월 26일 위너 - **\[Digital Single\] 뜸**\[86\]
   - 2020년 4월 9일 위너 - **Remember**
+  - 2020년 5월 23일 VIINI - **소녀의 세계 OST Part.4**
+  - 2020년 6월 5일 [방예담](https://ko.wikipedia.org/wiki/방예담 "wikilink") - **\[Digital Single\] 왜요**\[87\]
+  - 2020년 6월 ?일 블랙핑크 - **\[Digital Single\] 미정**\[88\]
+  - 2020년 7월 ?일 [트레저](https://ko.wikipedia.org/wiki/트레저_\(음악_그룹\) "wikilink") - **미정**
+  - 2020년 7월 ?일 블랙핑크 - **\[Digital Single\] 미정**\[89\]
+  - 2020년 9월 ?일 블랙핑크 - **미정**
+  - 2020년 ?월 ?일 [로제](https://ko.wikipedia.org/wiki/로제 "wikilink") - **미정**
+  - 2020년 ?월 ?일 [리사](../Page/리사.md "wikilink") - **\[Digital Single\] 미정**
+  - 2020년 ?월 ?일 [지수](https://ko.wikipedia.org/wiki/지수 "wikilink") - **\[Digital Single\] 미정**
 
 ## 각주
 
@@ -503,3 +512,6 @@
 84. [슈퍼주니어](../Page/슈퍼주니어.md "wikilink")의 전 멤버 [헨리](../Page/헨리_\(가수\).md "wikilink"),[하림](../Page/하림_\(가수\).md "wikilink"),[메이트의](../Page/메이트_\(음악_그룹\).md "wikilink") 멤버 [임헌일](../Page/임헌일.md "wikilink"),[김필도](../Page/김필_\(가수\).md "wikilink") 다시 앨범 참여.
 85. [슈퍼주니어](../Page/슈퍼주니어.md "wikilink")의 전 멤버 [헨리](../Page/헨리_\(가수\).md "wikilink"),[하림](../Page/하림_\(가수\).md "wikilink"),[메이트의](../Page/메이트_\(음악_그룹\).md "wikilink") 멤버 [임헌일](../Page/임헌일.md "wikilink"),[김필](../Page/김필_\(가수\).md "wikilink"),[박정현](../Page/박정현.md "wikilink")도 다시 앨범 참여.
 86. 위너 정규 3집 선공개곡.
+87. 트레저로 데뷔하기 전에 낸 솔로 앨범.
+88. 블랙핑크 정규 1집 첫번째 선공개곡.
+89. 블랙핑크 정규 1집 두번째 선공개곡.

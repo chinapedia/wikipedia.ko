@@ -1,10 +1,11 @@
 > This article is converted from Wikipedia: [틀:TV조선](https://ko.wikipedia.org/wiki/틀:TV조선).
 
 
-<onlyinclude>[MBN](https://ko.wikipedia.org/wiki/:틀:MBN_TV "wikilink"){{·}}[TV조선](https://ko.wikipedia.org/wiki/:틀:TV조선 "wikilink"){{·}}[채널A](https://ko.wikipedia.org/wiki/:틀:채널A_TV "wikilink")
+<onlyinclude>[JTBC](https://ko.wikipedia.org/wiki/:틀:JTBC_TV "wikilink"){{·}}[채널 A](https://ko.wikipedia.org/wiki/:틀:채널A_TV "wikilink"){{·}}[MBN](https://ko.wikipedia.org/wiki/:틀:MBN_TV "wikilink")
 
 ¹ 유동적으로 편성되는 프로그램
-² 연중 1회 방송되는 프로그램 }}</onlyinclude>
+² 연중 1회 방송되는 프로그램
+³ [SBS F\!L](https://ko.wikipedia.org/wiki/SBS_F!L "wikilink"), [라이프타임과](../Page/라이프타임_\(텔레비전_네트워크\).md "wikilink") 공동으로 편성되는 프로그램 }}</onlyinclude>
 
   - 이 틀은 **현재 방영 중**인 프로그램만 설명하고 있습니다.
   - 기본적으로 펼침 상태로 지정되어 있습니다.

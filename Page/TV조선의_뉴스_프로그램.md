@@ -33,14 +33,16 @@
 <tbody>
 <tr class="odd">
 <td><p><a href="../Page/TV조선_뉴스퍼레이드.md" title="wikilink">TV조선 뉴스퍼레이드</a></p></td>
-<td><p>평일 1시간 20분</p></td>
-<td><p>평일 아침 7시 30분 ~ 8시 50분</p></td>
+<td><p>월요일 1시간 20분<br />
+화 ~ 목요일 1시간 45분</p></td>
+<td><p>월요일 아침 7시 30분 ~ 8시 50분<br />
+화 ~ 목요일 아침 7시 30분 ~ 8시 45분</p></td>
 <td><p><a href="../Page/유정현_(정치인).md" title="wikilink">유정현</a>, <a href="https://ko.wikipedia.org/wiki/최원희" title="wikilink">최원희</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/TV조선_네트워크_뉴스" title="wikilink">TV조선 네트워크 뉴스</a></p></td>
-<td><p>평일 10분</p></td>
-<td><p>평일 아침 8시 50분 ~ 오전 9시</p></td>
+<td><p><a href="../Page/네트워크_매거진.md" title="wikilink">네트워크 매거진</a></p></td>
+<td><p>월요일 20분</p></td>
+<td><p>월요일 아침 8시 40분 ~ 오전 9시</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/장용욱" title="wikilink">장용욱</a></p></td>
 </tr>
 <tr class="odd">

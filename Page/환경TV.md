@@ -15,6 +15,6 @@
 
 ## 외부 링크
 
-  - [환경TV 홈페이지](http://www.greenpostkorea.co.kr/)
+  - [환경TV 홈페이지](http://www.greenpostkorea.co.kr)
 
 [분류:대한민국의 텔레비전 케이블 방송국](https://ko.wikipedia.org/wiki/분류:대한민국의_텔레비전_케이블_방송국 "wikilink") [분류:1995년 설립된 텔레비전 방송국과 채널](https://ko.wikipedia.org/wiki/분류:1995년_설립된_텔레비전_방송국과_채널 "wikilink") [분류:2005년 폐지된 텔레비전 방송국과 채널](https://ko.wikipedia.org/wiki/분류:2005년_폐지된_텔레비전_방송국과_채널 "wikilink") [분류:2005년 설립된 텔레비전 방송국과 채널](https://ko.wikipedia.org/wiki/분류:2005년_설립된_텔레비전_방송국과_채널 "wikilink") [분류:2018년 폐지된 텔레비전 방송국과 채널](https://ko.wikipedia.org/wiki/분류:2018년_폐지된_텔레비전_방송국과_채널 "wikilink") [분류:폐국된 텔레비전 채널](https://ko.wikipedia.org/wiki/분류:폐국된_텔레비전_채널 "wikilink")

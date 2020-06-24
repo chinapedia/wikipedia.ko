@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [FC 기후](https://ko.wikipedia.org/wiki/FC_기후).
 
 
-**FC 기후**()는 [일본](../Page/일본.md "wikilink") [기후현](../Page/기후현.md "wikilink") [기후 시를](https://ko.wikipedia.org/wiki/기후_시 "wikilink") 연고로 하는 [J리그 디비전 2](https://ko.wikipedia.org/wiki/J리그_디비전_2 "wikilink") 축구팀으로 2001년 창단하였다.\[1\]
+**FC 기후**()는 [일본](../Page/일본.md "wikilink") [기후현](../Page/기후현.md "wikilink") [기후시](../Page/기후시.md "wikilink")를 연고로 하는 [J리그 디비전 2](https://ko.wikipedia.org/wiki/J리그_디비전_2 "wikilink") 축구팀으로 2001년 창단하였다.\[1\]
 
 ## 개요
 

@@ -21,7 +21,7 @@
 
 ## 광주방송의 다른 뉴스프로그램
 
-  - [kbc 모닝 730](https://ko.wikipedia.org/wiki/kbc_모닝_730 "wikilink")
+  - [kbc 모닝와이드](https://ko.wikipedia.org/wiki/kbc_모닝와이드 "wikilink")
   - [kbc 생활뉴스](https://ko.wikipedia.org/wiki/kbc_생활뉴스 "wikilink")
   - [kbc 저녁뉴스](https://ko.wikipedia.org/wiki/kbc_저녁뉴스 "wikilink")
 
@@ -32,9 +32,7 @@
 
 ## 같이 보기
 
-  - [KBS 뉴스 9](../Page/KBS_뉴스_9.md "wikilink") 광주·전남 \<[KBS광주ㆍ](../Page/KBS광주방송총국.md "wikilink")[KBS목포](../Page/KBS목포방송국.md "wikilink")(주말)ㆍ[KBS순천](../Page/KBS순천방송국.md "wikilink")(주말)\>
-  - [KBS 뉴스 9](../Page/KBS_뉴스_9.md "wikilink") 목포·전남 \<[KBS목포](../Page/KBS목포방송국.md "wikilink")(평일)\>
-  - [KBS 뉴스 9](../Page/KBS_뉴스_9.md "wikilink") 전남 동부 \<[KBS순천](../Page/KBS순천방송국.md "wikilink")(평일)\>
+  - [KBS 뉴스 9](../Page/KBS_뉴스_9.md "wikilink") 광주·전남 \<[KBS광주ㆍ](../Page/KBS광주방송총국.md "wikilink")[KBS목포ㆍ](../Page/KBS목포방송국.md "wikilink")[KBS순천](../Page/KBS순천방송국.md "wikilink")\>
   - [MBC 뉴스데스크](../Page/MBC_뉴스데스크.md "wikilink") 광주·전남(광주MBC 뉴스데스크) \<[광주문화방송](../Page/광주문화방송.md "wikilink")\>
   - [MBC 뉴스데스크](../Page/MBC_뉴스데스크.md "wikilink") 목포·전남(목포MBC 뉴스데스크) \<[목포문화방송](../Page/목포문화방송.md "wikilink")\>
   - [MBC 뉴스데스크](../Page/MBC_뉴스데스크.md "wikilink") 전남동부권(여수MBC 뉴스데스크) \<[여수문화방송](../Page/여수문화방송.md "wikilink")\>

@@ -151,12 +151,12 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/WWE_NXT_태그팀_챔피언십.md" title="wikilink">NXT 태그팀 챔피언</a></p></td>
+<td><p>임페리움<br />
+(마르셀 바델 &amp; 파비앙 아이흐너)</p></td>
+<td><p>2020년 5월 13일</p></td>
+<td><p><a href="../Page/WWE_NXT.md" title="wikilink">WWE NXT</a></p></td>
 <td><p>브로저웨이트<br />
 (맷 리들 &amp; 피트 던)</p></td>
-<td><p>2020년 2월 16일</p></td>
-<td><p>NXT 테이크오버: 포틀랜드</p></td>
-<td><p>언디스퓨티드 에라<br />
-(<a href="../Page/카일_오라일리.md" title="wikilink">카일 오라일리</a> &amp; <a href="https://ko.wikipedia.org/wiki/보비_피쉬" title="wikilink">보비 피쉬</a>)</p></td>
 </tr>
 </tbody>
 </table>

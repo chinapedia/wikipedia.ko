@@ -295,7 +295,7 @@
 
 ## 각주
 
-<references />
+<references/>
 
 [분류:슈퍼주니어의 콘서트 투어](https://ko.wikipedia.org/wiki/분류:슈퍼주니어의_콘서트_투어 "wikilink") [분류:2010년 콘서트 투어](https://ko.wikipedia.org/wiki/분류:2010년_콘서트_투어 "wikilink") [분류:2011년 콘서트 투어](https://ko.wikipedia.org/wiki/분류:2011년_콘서트_투어 "wikilink")
 

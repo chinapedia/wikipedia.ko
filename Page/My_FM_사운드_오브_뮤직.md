@@ -24,18 +24,18 @@
 
   - [명연주 명음반](../Page/명연주_명음반.md "wikilink") \<[KBS광주 음악FM](../Page/KBS광주방송총국.md "wikilink")·[KBS목포 음악FM](../Page/KBS목포방송국.md "wikilink")·[KBS순천 음악FM](../Page/KBS순천방송국.md "wikilink")\>
   - [국악의 향기](https://ko.wikipedia.org/wiki/국악의_향기_\(라디오_프로그램\) "wikilink") \<[KBS광주 음악FM](../Page/KBS광주방송총국.md "wikilink")·[KBS목포 음악FM](../Page/KBS목포방송국.md "wikilink")·[KBS순천 음악FM](../Page/KBS순천방송국.md "wikilink")\>
-  - [FM 영화음악 김세윤입니다](../Page/FM_영화음악_김세윤입니다.md "wikilink") (3:00\~4:00) \<[광주MBC FM4U](https://ko.wikipedia.org/wiki/광주MBC "wikilink")\<[광주MBC FM4U](https://ko.wikipedia.org/wiki/광주MBC "wikilink")·[목포MBC FM4U](https://ko.wikipedia.org/wiki/목포MBC "wikilink")·[여수MBC FM4U](https://ko.wikipedia.org/wiki/여수MBC "wikilink")\>
-  - [비포 선라이즈 김수지입니다](../Page/비포_선라이즈_\(라디오_프로그램\).md "wikilink") (4:00\~5:00) \<[광주MBC FM4U](https://ko.wikipedia.org/wiki/광주MBC "wikilink")\<[광주MBC FM4U](https://ko.wikipedia.org/wiki/광주MBC "wikilink")·[목포MBC FM4U](https://ko.wikipedia.org/wiki/목포MBC "wikilink")·[여수MBC FM4U](https://ko.wikipedia.org/wiki/여수MBC "wikilink")\>
+  - [K팝 2000](https://ko.wikipedia.org/wiki/K팝_2000 "wikilink") (3:00\~4:55) \<[광주MBC FM4U](https://ko.wikipedia.org/wiki/광주MBC "wikilink")\<[광주MBC FM4U](https://ko.wikipedia.org/wiki/광주MBC "wikilink")·[목포MBC FM4U](https://ko.wikipedia.org/wiki/목포MBC "wikilink")·[여수MBC FM4U](https://ko.wikipedia.org/wiki/여수MBC "wikilink")\>
   - [세상을 여는 아침](../Page/세상을_여는_아침.md "wikilink") (5:00\~7:00) \<[광주MBC FM4U](https://ko.wikipedia.org/wiki/광주MBC "wikilink")·[목포MBC FM4U](https://ko.wikipedia.org/wiki/목포MBC "wikilink")·[여수MBC FM4U](https://ko.wikipedia.org/wiki/여수MBC "wikilink")\>\[1\]
   - Moonlit Tracks \<[GFN](../Page/광주영어방송재단.md "wikilink")\>
   - Out of Bed with Travis \<[GFN](../Page/광주영어방송재단.md "wikilink")\>
-  - [서연미의 ALL THAT JAZZ](https://ko.wikipedia.org/wiki/서연미의_올_댓_재즈 "wikilink") (03:00\~04:00) \<[광주CBS 음악FM](../Page/기독교광주방송.md "wikilink")\>
-  - [이지민의 내가 매일 기쁘게](../Page/내가_매일_기쁘게_\(라디오_프로그램\).md "wikilink") (04:00\~06:00) \<[광주CBS 음악FM](../Page/기독교광주방송.md "wikilink")\>
+  - [이지민의 ALL THAT JAZZ](https://ko.wikipedia.org/wiki/이지민의_올_댓_재즈 "wikilink") (02:00\~04:00) \<[광주CBS 음악FM](../Page/기독교광주방송.md "wikilink")\>
+  - [이명희의 내가 매일 기쁘게](../Page/내가_매일_기쁘게_\(라디오_프로그램\).md "wikilink") (04:00\~06:00) \<[광주CBS 음악FM](../Page/기독교광주방송.md "wikilink")\>
 
 ### AM방송
 
   - [출발 해피FM 김성은입니다](https://ko.wikipedia.org/wiki/출발_해피FM "wikilink")(5:00\~6:00) \<[KBS광주제2라디오 HappyFM](../Page/KBS광주방송총국.md "wikilink")\>
-  - [서인의 새벽다방](../Page/새벽다방.md "wikilink")(3:00\~4:55) \<[광주MBC 라디오](https://ko.wikipedia.org/wiki/광주MBC "wikilink")·[목포MBC 라디오](https://ko.wikipedia.org/wiki/목포MBC "wikilink")·[여수MBC 라디오](https://ko.wikipedia.org/wiki/여수MBC "wikilink")\>
+  - [낭만가요](https://ko.wikipedia.org/wiki/낭만가요 "wikilink") (2:00\~4:00) \<[광주MBC 라디오](https://ko.wikipedia.org/wiki/광주MBC "wikilink")·[목포MBC 라디오](https://ko.wikipedia.org/wiki/목포MBC "wikilink")·[여수MBC 라디오](https://ko.wikipedia.org/wiki/여수MBC "wikilink")\>
+  - [서인의 새벽다방](../Page/새벽다방.md "wikilink")(4:00\~4:55) \<[광주MBC 라디오](https://ko.wikipedia.org/wiki/광주MBC "wikilink")·[목포MBC 라디오](https://ko.wikipedia.org/wiki/목포MBC "wikilink")·[여수MBC 라디오](https://ko.wikipedia.org/wiki/여수MBC "wikilink")\>
   - [건강한 아침 황선숙입니다](../Page/건강한_아침_황선숙입니다.md "wikilink")(5:05\~6:00)\<[광주MBC 라디오](https://ko.wikipedia.org/wiki/광주MBC "wikilink")·[목포MBC 라디오](https://ko.wikipedia.org/wiki/목포MBC "wikilink")·[여수MBC 라디오](https://ko.wikipedia.org/wiki/여수MBC "wikilink")\>
 
 ## 각주

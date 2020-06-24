@@ -64,14 +64,14 @@
 
   - [2019년](../Page/2019년.md "wikilink") [4월](../Page/4월.md "wikilink") 기준으로 ANA 윙스는 다음과 같은 기종을 보유하고 있다.
 
-| 기종                                                                    | 대수 | 주문 | 승객                                       | 비고                                                           |
-| --------------------------------------------------------------------- | -- | -- | ---------------------------------------- | ------------------------------------------------------------ |
-| [보잉 737-500](../Page/보잉_737.md "wikilink")                            | 1  | 0  | 126                                      | [2020년](../Page/2020년.md "wikilink")까지 퇴역 예정                 |
-| [보잉 737-700](../Page/보잉_737.md "wikilink")                            | 8  | 0  | 120                                      | [ANA 항공](https://ko.wikipedia.org/wiki/ANA_항공 "wikilink") 소속 |
-| [보잉 737-800](../Page/보잉_737.md "wikilink")                            | 39 | 0  | 167                                      | [ANA 항공](https://ko.wikipedia.org/wiki/ANA_항공 "wikilink") 소속 |
-| [봄바디어 대쉬 8 Q400](https://ko.wikipedia.org/wiki/봄바디어_Q_시리즈 "wikilink") | 24 | 6  | 74                                       |                                                              |
-| [미쓰비시 MRJ-90](https://ko.wikipedia.org/wiki/미쓰비시_MRJ "wikilink")      | 0  | 15 | <abbr title="To Be Announced">TBA</abbr> |                                                              |
-|                                                                       |    |    |                                          |                                                              |
+| 기종                                                                    | 대수 | 주문 | 승객                                       | 비고                                                                          |
+| --------------------------------------------------------------------- | -- | -- | ---------------------------------------- | --------------------------------------------------------------------------- |
+| [보잉 737-500](../Page/보잉_737.md "wikilink")                            | 1  | 0  | 126                                      | [2020년](../Page/2020년.md "wikilink") [6월](../Page/6월.md "wikilink")까지 퇴역 예정 |
+| [보잉 737-700](../Page/보잉_737.md "wikilink")                            | 8  | 0  | 120                                      | [ANA 항공](https://ko.wikipedia.org/wiki/ANA_항공 "wikilink") 소속                |
+| [보잉 737-800](../Page/보잉_737.md "wikilink")                            | 39 | 0  | 167                                      | [ANA 항공](https://ko.wikipedia.org/wiki/ANA_항공 "wikilink") 소속                |
+| [봄바디어 대쉬 8 Q400](https://ko.wikipedia.org/wiki/봄바디어_Q_시리즈 "wikilink") | 24 | 6  | 74                                       |                                                                             |
+| [미쓰비시 MRJ-90](https://ko.wikipedia.org/wiki/미쓰비시_MRJ "wikilink")      | 0  | 15 | <abbr title="To Be Announced">TBA</abbr> |                                                                             |
+|                                                                       |    |    |                                          |                                                                             |
 
 **ANA 윙스의 보유기종**
 
@@ -90,6 +90,8 @@
   - [전일본공수 1603편 동체착륙 사고](../Page/전일본공수_1603편_동체착륙_사고.md "wikilink")
 
 ## 도장
+
+[섬네일가](https://ko.wikipedia.org/wiki/파일:Akx_352k.JPEG "wikilink") 그려진 모습\]\]
 
   - ANA의 기본 도장에 "ANA WINGS"란 이름이 추가 되었다. 또한 [보잉 737-500은](../Page/보잉_737.md "wikilink") 엔진 카울에 [돌고래](../Page/돌고래.md "wikilink")의 일러스트(애칭 "슈퍼 돌핀")가 그려져 있다.
 

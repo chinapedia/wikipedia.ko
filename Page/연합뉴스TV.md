@@ -69,18 +69,17 @@
 <!-- end list -->
 
   - 9기(2016년 입사)
-      - 남자 : 서태왕 (2017년 퇴사하다 2018년 재입사)
+      - 남자 : 서태왕 (2017년 퇴사 후 2018년 재입사), [이정섭](https://ko.wikipedia.org/wiki/이정섭_\(아나운서\) "wikilink") (2017년 퇴사 후 2020년 재입사)
 
 <!-- end list -->
 
   - 뉴스캐스터
-      - 여자 : 박하윤(2017년), 신세미(2018년), 남유진(2018년), 진수민(2018년)
+      - 여자 : 박하윤(2017년), 신세미(2018년), 진수민(2018년), 정수민 (2020년)
 
 <!-- end list -->
 
   - 10기(2017년 입사)
-      - 남자 : 안치용
-      - 여자 : 안애경, 이나연
+      - 여자 : [안애경](https://ko.wikipedia.org/wiki/안애경 "wikilink"), 이나연
 
 <!-- end list -->
 
@@ -93,39 +92,56 @@
       - 남자 : 이교욱
       - 여자 : [박서현](https://ko.wikipedia.org/wiki/박서현 "wikilink"), 이가은, [이윤지](../Page/이윤지.md "wikilink")
 
+<!-- end list -->
+
+  - 13기(2019년 입사)
+      - 남자 : 오세혁 (특채)
+
+<!-- end list -->
+
+  - 14기(2020년 입사)
+      - 여자 : [유채림](https://ko.wikipedia.org/wiki/유채림 "wikilink"), 정예지, 이유진, 엄지민
+
 ### 전직 아나운서
 
-  - 남자 : [한규영](https://ko.wikipedia.org/wiki/한규영 "wikilink"), [윤길환](https://ko.wikipedia.org/wiki/윤길환 "wikilink") (현 MBN 기자), [김선근](../Page/김선근.md "wikilink") (현 KBS 아나운서), [박창현](../Page/박창현_\(아나운서\).md "wikilink") (현 MBC 아나운서), [박준수](https://ko.wikipedia.org/wiki/박준수 "wikilink"), [이재훈](../Page/이재훈.md "wikilink") (현 JRB 대표) [이태연](https://ko.wikipedia.org/wiki/이태연 "wikilink"), [이정섭](../Page/이정섭.md "wikilink") (현 KBC 광주방송 아나운서), [이민재](https://ko.wikipedia.org/wiki/이민재 "wikilink"), [박현식](../Page/박현식.md "wikilink"), [김도헌](https://ko.wikipedia.org/wiki/김도헌 "wikilink") (현 전주MBC 아나운서), [최창은](https://ko.wikipedia.org/wiki/최창은 "wikilink")
-  - 여자 :[김수민](https://ko.wikipedia.org/wiki/김수민 "wikilink"), [박연경](../Page/박연경.md "wikilink") (현 MBC 아나운서), [조승연](https://ko.wikipedia.org/wiki/조승연 "wikilink") (현 TV조선 앵커), [배경은](https://ko.wikipedia.org/wiki/배경은 "wikilink"), [서쥬리](https://ko.wikipedia.org/wiki/서쥬리 "wikilink") (현 KTV 한국정책방송 앵커), [신수민](../Page/신수민.md "wikilink"), [은예솔](https://ko.wikipedia.org/wiki/은예솔 "wikilink")(전 국회방송 아나운서), [김정](https://ko.wikipedia.org/wiki/김정_\(아나운서\) "wikilink"), [옥자영](https://ko.wikipedia.org/wiki/옥자영 "wikilink"), [허승하](https://ko.wikipedia.org/wiki/허승하 "wikilink"), [박지민](https://ko.wikipedia.org/wiki/박지민 "wikilink") (현 MBC 아나운서), [이윤정](https://ko.wikipedia.org/wiki/이윤정 "wikilink"), [박송이](https://ko.wikipedia.org/wiki/박송이 "wikilink"), [변정연](https://ko.wikipedia.org/wiki/변정연 "wikilink") (현 원주MBC 아나운서), [정보윤](https://ko.wikipedia.org/wiki/정보윤 "wikilink"), [김민형](https://ko.wikipedia.org/wiki/김민형 "wikilink") (현 SBS 아나운서), [박인애](https://ko.wikipedia.org/wiki/박인애 "wikilink"), [송서미](https://ko.wikipedia.org/wiki/송서미 "wikilink") (현 KBS24뉴스 아나운서), [김난영](https://ko.wikipedia.org/wiki/김난영 "wikilink"), [이경희](https://ko.wikipedia.org/wiki/이경희 "wikilink"), 강설이
+  - 남자 : [한규영](https://ko.wikipedia.org/wiki/한규영 "wikilink"), [윤길환](https://ko.wikipedia.org/wiki/윤길환 "wikilink") (현 MBN 기자), [김선근](../Page/김선근.md "wikilink") (현 KBS 아나운서), [박창현](../Page/박창현_\(아나운서\).md "wikilink") (현 MBC 아나운서), [박준수](https://ko.wikipedia.org/wiki/박준수 "wikilink"), [이재훈](../Page/이재훈.md "wikilink") (현 JRB 대표) [이태연](https://ko.wikipedia.org/wiki/이태연 "wikilink"), [이민재](https://ko.wikipedia.org/wiki/이민재 "wikilink"), [박현식](../Page/박현식.md "wikilink"), [김도헌](https://ko.wikipedia.org/wiki/김도헌 "wikilink") (현 프리랜서 아나운서), [최창은](https://ko.wikipedia.org/wiki/최창은 "wikilink")(현 KBC 광주방송 아나운서)
+  - 여자 :[김수민](https://ko.wikipedia.org/wiki/김수민 "wikilink"), [박연경](../Page/박연경.md "wikilink") (현 MBC 아나운서), [조승연](https://ko.wikipedia.org/wiki/조승연 "wikilink") (현 TV조선 앵커), [배경은](https://ko.wikipedia.org/wiki/배경은 "wikilink"), [서쥬리](https://ko.wikipedia.org/wiki/서쥬리 "wikilink") (현 KTV 한국정책방송 앵커), [신수민](../Page/신수민.md "wikilink"), [은예솔](https://ko.wikipedia.org/wiki/은예솔 "wikilink")(전 국회방송 아나운서), [김정](https://ko.wikipedia.org/wiki/김정_\(아나운서\) "wikilink"), [옥자영](https://ko.wikipedia.org/wiki/옥자영 "wikilink"), [허승하](https://ko.wikipedia.org/wiki/허승하 "wikilink"), [박지민](https://ko.wikipedia.org/wiki/박지민_\(아나운서\) "wikilink") (현 MBC 아나운서), [이윤정](https://ko.wikipedia.org/wiki/이윤정 "wikilink")(현 KBS 46기 아나운서), [박송이](https://ko.wikipedia.org/wiki/박송이 "wikilink"), [변정연](https://ko.wikipedia.org/wiki/변정연 "wikilink") (현 원주MBC 아나운서), [정보윤](https://ko.wikipedia.org/wiki/정보윤 "wikilink"), [김민형](https://ko.wikipedia.org/wiki/김민형 "wikilink") (현 SBS 아나운서), [박인애](https://ko.wikipedia.org/wiki/박인애 "wikilink"), [송서미](https://ko.wikipedia.org/wiki/송서미 "wikilink") (현 KBS24뉴스 아나운서), [김난영](https://ko.wikipedia.org/wiki/김난영 "wikilink"), [이경희](https://ko.wikipedia.org/wiki/이경희 "wikilink"), 강설이
 
 ## 취재 기자
 
   - 2015년 입사
-      - 이소영 : 스포츠문화부 기자
+      - 전원 퇴사
 
 <!-- end list -->
 
   - 2016년 입사
-      - 김보윤 : 사회부 기자
-      - 나재헌 : 스포츠문화부 기자
+      - 김보윤 : 디지털뉴스부 기자
       - 박수주 : 사회부 기자
-      - 서형석 : 경제부 기자
+      - 서형석 : 정치부 기자
       - 장보경 : 사회부 기자
-      - 정주희 : 정치부 기자
-      - 조성혜 : 사회부 기자
+      - 정주희 : 스포츠문화부 기자
 
 <!-- end list -->
 
   - 2017년 입사
-      - 강민경 : 정치부 기자
-      - 구하림 : 정치부 기자
+      - 강민경 : 연합뉴스 파견 정치부 기자
+      - 구하림 : 사회부 기자
       - 김수강 : 사회부 기자
-      - 김장현 : 사회부 기자
+      - 김장현 : 경제부 기자
       - 소재형 : 경제부 기자
       - 이동훈 : 경제부 기자
       - 정인용 : 사회부 기자
-      - 조성흠 : 경제부 기자
+      - 조성흠 : 스포츠문화부 기자
       - 최덕재 : 정치부 기자
+
+<!-- end list -->
+
+  - 2019년 입사
+      - 나경렬 : 경제부 기자
+      - 방준혁 : 정치부 기자
+      - 신현정 : 사회부 기자
+      - 윤솔 : 사회부 기자
+      - 정다예 : 사회부 기자
 
 ## 보도본부장
 
@@ -164,7 +180,7 @@
 | [뉴스워치](https://ko.wikipedia.org/wiki/뉴스워치 "wikilink")                                                         | 평일 오후 5시 30분 \~ 6시 25분                                                                                | [이승준](https://ko.wikipedia.org/wiki/이승준 "wikilink"), [조영빈](../Page/조영빈.md "wikilink")                    |
 | [뉴스메이커](../Page/뉴스메이커_\(연합뉴스TV\).md "wikilink")                                                               | 평일 오후 6시 25분 \~ 7시 35분                                                                                | [윤도현](../Page/윤도현.md "wikilink"), [조서연](../Page/조서연.md "wikilink")                                       |
 | [뉴스 20](https://ko.wikipedia.org/wiki/뉴스_20 "wikilink")                                                       | 평일 오후 7시 35분 \~ 8시 40분, 주말 8시 \~ 9시                                                                   | [이승준](https://ko.wikipedia.org/wiki/이승준 "wikilink"), [이가은](https://ko.wikipedia.org/wiki/이가은 "wikilink") |
-| [뉴스리뷰](https://ko.wikipedia.org/wiki/뉴스리뷰 "wikilink")                                                         | 평일 오후 8시 40분 \~ 3시 30분                                                                                | [황인성](../Page/황인성.md "wikilink"), [안애경](https://ko.wikipedia.org/wiki/안애경 "wikilink")                    |
+| [뉴스리뷰](https://ko.wikipedia.org/wiki/뉴스리뷰 "wikilink")                                                         | 평일 오후 8시 40분 \~ 9시 30분                                                                                | [황인성](../Page/황인성.md "wikilink"), [안애경](https://ko.wikipedia.org/wiki/안애경 "wikilink")                    |
 | [뉴스투나잇](../Page/뉴스투나잇_\(연합뉴스TV\).md "wikilink") (주말 : [뉴스 23](../Page/뉴스투나잇_\(연합뉴스TV\).md "wikilink"))        | 평일 밤 9시 40분 \~ 밤 12시, 주말 밤 11시 \~ 12시                                                                 | 이남규, [성유미](https://ko.wikipedia.org/wiki/성유미 "wikilink")                                                 |
 | [뉴스 24](https://ko.wikipedia.org/wiki/뉴스_24_\(연합뉴스TV\) "wikilink")                                            | 평일 밤 12시 \~ 새벽 1시                                                                                     | [황인성](../Page/황인성.md "wikilink"), [이가은](https://ko.wikipedia.org/wiki/이가은 "wikilink")                    |
 | [토요와이드 / 일요와이드](https://ko.wikipedia.org/wiki/토요와이드_/_일요와이드 "wikilink")                                       | 주말 오전 11시 \~ 낮 12시 40분, 저녁 6시 \~ 7시 30분                                                               | 진행 : 무작위                                                                                                 |

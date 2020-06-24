@@ -23,7 +23,7 @@
   - [1](http://www.alternatewars.com/SAC/AJ-1_Savage_SAC_-_30_June_1957.pdf) Washington, D.C.: United States Navy, 30 June 1957.
   - Johnson, E.R. (2000), American Attack Aircraft Since 1926. Jefferson, North Carolina: McFarland, 2008. ISBN 978-0-7864-3464-0.
 
-[분류:미국의 폭격기](https://ko.wikipedia.org/wiki/분류:미국의_폭격기 "wikilink") [분류:1948년 첫 비행한 항공기](https://ko.wikipedia.org/wiki/분류:1948년_첫_비행한_항공기 "wikilink")
+[분류:미국의 폭격기](https://ko.wikipedia.org/wiki/분류:미국의_폭격기 "wikilink") [분류:1948년 첫 비행한 항공기](https://ko.wikipedia.org/wiki/분류:1948년_첫_비행한_항공기 "wikilink") [분류:고익기](https://ko.wikipedia.org/wiki/분류:고익기 "wikilink")
 
 1.  Standard Aircraft Characteristics
 2.  Johnson 2000, p. 343.

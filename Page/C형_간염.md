@@ -45,7 +45,7 @@ C형 간염은 지난 2000년, 표본감시 감염병으로 지정된 이후 표
 ## 외부 링크
 
   -
-[분류:간염](https://ko.wikipedia.org/wiki/분류:간염 "wikilink") [분류:바이러스성 질병](https://ko.wikipedia.org/wiki/분류:바이러스성_질병 "wikilink") [분류:IARC 1등급 발암 물질](https://ko.wikipedia.org/wiki/분류:IARC_1등급_발암_물질 "wikilink")
+[분류:간염](https://ko.wikipedia.org/wiki/분류:간염 "wikilink") [분류:바이러스성 질병](https://ko.wikipedia.org/wiki/분류:바이러스성_질병 "wikilink") [분류:IARC 1등급 발암 물질](https://ko.wikipedia.org/wiki/분류:IARC_1등급_발암_물질 "wikilink") [분류:감염성 암원](https://ko.wikipedia.org/wiki/분류:감염성_암원 "wikilink")
 
 1.
 2.

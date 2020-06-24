@@ -32,7 +32,7 @@ ATR 42은 [1981년](../Page/1981년.md "wikilink")에 발표되어 [1984년](../
   - [ATR −600 Series cabine](https://web.archive.org/web/20081114171010/http://www.atr.fr/public/atr/html/upload/img/48fc90524b44dcabine_web.jpg)
   - [ATR −600 Series cockpit](http://www.atraircraft.com/public/atr/html/upload/img/49e46751f0aedcockpit%20nuit_B.jpg)
 
-[분류:항공기](https://ko.wikipedia.org/wiki/분류:항공기 "wikilink") [분류:이즈 항공기](https://ko.wikipedia.org/wiki/분류:이즈_항공기 "wikilink") [분류:1984년 첫 비행한 항공기](https://ko.wikipedia.org/wiki/분류:1984년_첫_비행한_항공기 "wikilink")
+[분류:항공기](https://ko.wikipedia.org/wiki/분류:항공기 "wikilink") [분류:이즈 항공기](https://ko.wikipedia.org/wiki/분류:이즈_항공기 "wikilink") [분류:1984년 첫 비행한 항공기](https://ko.wikipedia.org/wiki/분류:1984년_첫_비행한_항공기 "wikilink") [분류:고익기](https://ko.wikipedia.org/wiki/분류:고익기 "wikilink")
 
 1.
 2.  [ATR ATR-42 | Airliners.net](http://www.airliners.net/aircraft-data/stats.main?id=41)

@@ -30,7 +30,7 @@
 
   - [브랜뉴 뮤직 홈페이지 B.N.R. 프로필](https://web.archive.org/web/20131206102040/http://www.brandnewmusic.co.kr/artist/bnr/about)
 
-[분류:대한민국의 힙합 그룹](https://ko.wikipedia.org/wiki/분류:대한민국의_힙합_그룹 "wikilink") [분류:2010년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2010년_결성된_음악_그룹 "wikilink") [분류:2010년 데뷔](https://ko.wikipedia.org/wiki/분류:2010년_데뷔 "wikilink") [분류:브랜뉴 뮤직 음악가](https://ko.wikipedia.org/wiki/분류:브랜뉴_뮤직_음악가 "wikilink")
+[분류:대한민국의 힙합 그룹](https://ko.wikipedia.org/wiki/분류:대한민국의_힙합_그룹 "wikilink") [분류:2010년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2010년_결성된_음악_그룹 "wikilink") [분류:브랜뉴 뮤직 음악가](https://ko.wikipedia.org/wiki/분류:브랜뉴_뮤직_음악가 "wikilink")
 
 1.  ["감성듀오 BNR, 알고보니 샾-비-업타운 등의 숨은 작사작곡가", 한준호 기자, 스포츠월드, 2011년 10월 10일](http://sportsworldi.segye.com/Articles/EntCulture/Article.asp?aid=20111010001894&subctg1=10&subctg2=00)
 2.  ["조PD 새 앨범 타이틀곡 도난 소동", 최가람, 뉴스웨이, 2010년 10월 11일](http://www.newsway.kr/news/articleView.html?idxno=92657)

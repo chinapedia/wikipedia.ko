@@ -35,4 +35,4 @@
   - [カホンhiroの「石も搾れば水が出る」](https://web.archive.org/web/20110512072559/http://pj-hiro.cocolog-nifty.com/)
   - [ビリケンhayatoの「1週間に10日来い」](https://web.archive.org/web/20110512174156/http://pj-hayato.cocolog-nifty.com/)
 
-[분류:2005년 데뷔](https://ko.wikipedia.org/wiki/분류:2005년_데뷔 "wikilink") [분류:일본의 음악 그룹](https://ko.wikipedia.org/wiki/분류:일본의_음악_그룹 "wikilink") [분류:오사카시 출신](https://ko.wikipedia.org/wiki/분류:오사카시_출신 "wikilink") [분류:크로스오버 (음악)](https://ko.wikipedia.org/wiki/분류:크로스오버_\(음악\) "wikilink") [분류:남성 듀오](https://ko.wikipedia.org/wiki/분류:남성_듀오 "wikilink")
+[분류:일본의 음악 그룹](https://ko.wikipedia.org/wiki/분류:일본의_음악_그룹 "wikilink") [분류:오사카시 출신](https://ko.wikipedia.org/wiki/분류:오사카시_출신 "wikilink") [분류:크로스오버 (음악)](https://ko.wikipedia.org/wiki/분류:크로스오버_\(음악\) "wikilink") [분류:남성 듀오](https://ko.wikipedia.org/wiki/분류:남성_듀오 "wikilink")

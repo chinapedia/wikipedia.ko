@@ -84,7 +84,6 @@
   - [크리스타벨 조셀린](https://ko.wikipedia.org/wiki/크리스타벨_조셀린 "wikilink") (Christabel Jocelyn)
   - [신디 누쿠호](https://ko.wikipedia.org/wiki/신디_누쿠호 "wikilink") (Cindy Nugroho)
   - [코넬리아 바니사](https://ko.wikipedia.org/wiki/코넬리아_바니사 "wikilink") (Cornelia Vanisa)
-  - [데비타 마하라니](https://ko.wikipedia.org/wiki/데비타_마하라니 "wikilink") (Devytha Maharani)
   - [데아 안젤리아](https://ko.wikipedia.org/wiki/데아_안젤리아 "wikilink") (Dhea Angelia)
   - [에리에나 카티카](https://ko.wikipedia.org/wiki/에리에나_카티카 "wikilink") (Eriena Kartika)
   - [페비 코마릴](https://ko.wikipedia.org/wiki/페비_코마릴 "wikilink") (Febi Komaril) - 최연장자
@@ -236,6 +235,7 @@
   - [아리스 베비나 프라세티오](https://ko.wikipedia.org/wiki/아리스_베비나_프라세티오 "wikilink") (Iris Vevina Prasetio) Class B [2019년](../Page/2019년.md "wikilink") [12월 30일](../Page/12월_30일.md "wikilink") 사퇴.
   - [올리비아 페이튼](https://ko.wikipedia.org/wiki/올리비아_페이튼 "wikilink") (Olivia Payten) Class A [2020년](../Page/2020년.md "wikilink") [2월 17일](../Page/2월_17일.md "wikilink") 사퇴.
   - [티아라 사시](https://ko.wikipedia.org/wiki/티아라_사시 "wikilink") (Tiara Sasi) Class A [2020년](../Page/2020년.md "wikilink") [2월 17일](../Page/2월_17일.md "wikilink") 사퇴.
+  - [데비타 마하라니](https://ko.wikipedia.org/wiki/데비타_마하라니 "wikilink") (Devytha Maharani) Class A [2020년](../Page/2020년.md "wikilink") [3월 30일](../Page/3월_30일.md "wikilink") 사퇴.
 
 ## 디스코그래피
 
@@ -719,7 +719,7 @@ PERFORMING ALL OUT ! Terimakasih telah menjadi temanku</strong></p></td>
 
       -
 
-[JKT48](https://ko.wikipedia.org/wiki/분류:JKT48 "wikilink") [분류:인도네시아의 팝 음악 그룹](https://ko.wikipedia.org/wiki/분류:인도네시아의_팝_음악_그룹 "wikilink") [분류:인도네시아의 걸 그룹](https://ko.wikipedia.org/wiki/분류:인도네시아의_걸_그룹 "wikilink") [분류:2011년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2011년_결성된_음악_그룹 "wikilink") [분류:2012년 데뷔](https://ko.wikipedia.org/wiki/분류:2012년_데뷔 "wikilink") [분류:10인조 이상 음악 그룹](https://ko.wikipedia.org/wiki/분류:10인조_이상_음악_그룹 "wikilink") [분류:2010년대 음악 그룹](https://ko.wikipedia.org/wiki/분류:2010년대_음악_그룹 "wikilink")
+[JKT48](https://ko.wikipedia.org/wiki/분류:JKT48 "wikilink") [분류:인도네시아의 팝 음악 그룹](https://ko.wikipedia.org/wiki/분류:인도네시아의_팝_음악_그룹 "wikilink") [분류:인도네시아의 걸 그룹](https://ko.wikipedia.org/wiki/분류:인도네시아의_걸_그룹 "wikilink") [분류:2011년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2011년_결성된_음악_그룹 "wikilink") [분류:10인조 이상 음악 그룹](https://ko.wikipedia.org/wiki/분류:10인조_이상_음악_그룹 "wikilink") [분류:2010년대 음악 그룹](https://ko.wikipedia.org/wiki/분류:2010년대_음악_그룹 "wikilink")
 
 1.  [JKT48、本国に専用劇場オープン 9・1にAKBグループ初の海外劇場](http://www.oricon.co.jp/news/confidence/2015678/full/)
 2.  [내각 조성 후 신체제](http://ameblo.jp/akihabara48/entry-11336894458.html) (AKB48 공식 블로그, 2012년 8월 24일 열람)

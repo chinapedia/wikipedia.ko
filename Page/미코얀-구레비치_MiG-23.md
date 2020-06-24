@@ -9,4 +9,4 @@
 
 [오른쪽](https://ko.wikipedia.org/wiki/파일:MiG-23MF.svg "wikilink")
 
-[분류:소련 및 러시아의 전투기](https://ko.wikipedia.org/wiki/분류:소련_및_러시아의_전투기 "wikilink") [분류:가변익기](https://ko.wikipedia.org/wiki/분류:가변익기 "wikilink") [분류:단발 제트기](https://ko.wikipedia.org/wiki/분류:단발_제트기 "wikilink") [분류:미그기](https://ko.wikipedia.org/wiki/분류:미그기 "wikilink") [분류:1967년 첫 비행한 항공기](https://ko.wikipedia.org/wiki/분류:1967년_첫_비행한_항공기 "wikilink")
+[분류:소련 및 러시아의 전투기](https://ko.wikipedia.org/wiki/분류:소련_및_러시아의_전투기 "wikilink") [분류:가변익기](https://ko.wikipedia.org/wiki/분류:가변익기 "wikilink") [분류:단발 제트기](https://ko.wikipedia.org/wiki/분류:단발_제트기 "wikilink") [분류:미그기](https://ko.wikipedia.org/wiki/분류:미그기 "wikilink") [분류:1967년 첫 비행한 항공기](https://ko.wikipedia.org/wiki/분류:1967년_첫_비행한_항공기 "wikilink") [분류:고익기](https://ko.wikipedia.org/wiki/분류:고익기 "wikilink")

@@ -44,7 +44,7 @@
   - [내셔널지오그래픽채널 코리아](https://ko.wikipedia.org/wiki/내셔널지오그래픽채널_코리아 "wikilink"): 다큐멘터리 전문 채널, 21세기 폭스(현 월트 디즈니 컴퍼니)에 매각
   - <s>Xports</s> (현 [SBS CNBC](../Page/SBS_CNBC.md "wikilink")): 스포츠 채널, [SBS에](../Page/SBS_\(대한민국의_방송사\).md "wikilink") 매각
   - <s>[스토리온](../Page/스토리온.md "wikilink")</s>: People, Life, Story All About Woman, 여성 중심의 라이프스타일 채널, 폐국되어 O tvN이 승계
-  - [바둑TV](https://ko.wikipedia.org/wiki/바둑TV "wikilink"): 생각의 힘 (바둑 전문 채널), [한국기원](../Page/한국기원.md "wikilink")에 매각
+  - [바둑TV](../Page/바둑TV.md "wikilink"): 생각의 힘 (바둑 전문 채널), [한국기원](../Page/한국기원.md "wikilink")에 매각
   - <s>Channel M</s>: THIS IS WHO WE ARE, K-POP 전문 해외 채널, 폐국되어 tvN Asia가 승계
   - <s>[온게임넷](../Page/OGN.md "wikilink")</s>: 역대슬로건 (게임 전문 채널), 폐국되어 OGN이 승계
   - <s>[OCN 시리즈](https://ko.wikipedia.org/wiki/OCN_시리즈 "wikilink")</s>: Your Series, OCN의 두번째 채널 (시리즈 채널), 폐국되어 DIA TV가 승계

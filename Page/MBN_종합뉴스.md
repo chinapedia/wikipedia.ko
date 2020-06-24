@@ -36,7 +36,6 @@
   - [뉴스파이터](../Page/뉴스파이터.md "wikilink")
   - [전국 네트워크](../Page/전국_네트워크.md "wikilink")
   - [MBN 프레스룸](https://ko.wikipedia.org/wiki/MBN_프레스룸 "wikilink")
-  - [뉴스 & 이슈](../Page/뉴스_&_이슈.md "wikilink")
   - [MBN 뉴스와이드](../Page/MBN_뉴스와이드.md "wikilink")
   - [MBN 뉴스와이드 주말](../Page/MBN_뉴스와이드_주말.md "wikilink")
   - [일요시사](https://ko.wikipedia.org/wiki/일요시사 "wikilink")
@@ -51,7 +50,7 @@
   - [2011년](../Page/2011년.md "wikilink") [12월 1일](../Page/12월_1일.md "wikilink") \~ [2011년](../Page/2011년.md "wikilink") [12월 25일](../Page/12월_25일.md "wikilink") (MBN 뉴스 8)
   - [2011년](../Page/2011년.md "wikilink") [12월 26일](../Page/12월_26일.md "wikilink") \~ [2012년](../Page/2012년.md "wikilink") [4월 15일](../Page/4월_15일.md "wikilink") (평일 MBN 뉴스 10 / 주말 MBN 뉴스 8)
   - [2012년](../Page/2012년.md "wikilink") [4월 16일](../Page/4월_16일.md "wikilink") \~ [2019년](../Page/2019년.md "wikilink") [9월 22일](../Page/9월_22일.md "wikilink") (MBN 뉴스 8)
-  - [2019년](../Page/2019년.md "wikilink") [9월 23일](../Page/9월_23일.md "wikilink") \~ **현재**(MBN 종합뉴스)
+  - [2019년](../Page/2019년.md "wikilink") [9월 23일](../Page/9월_23일.md "wikilink") \~ **현재** (MBN 종합뉴스)
 
 ## 시보 광고
 

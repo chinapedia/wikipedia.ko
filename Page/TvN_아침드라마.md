@@ -28,4 +28,4 @@
   - [문화방송 아침드라마](../Page/문화방송_아침드라마.md "wikilink")
   - [SBS 아침연속극](../Page/SBS_아침연속극.md "wikilink")
 
-[\*](https://ko.wikipedia.org/wiki/분류:TvN_아침드라마 "wikilink") [분류:tvN의 텔레비전 드라마](https://ko.wikipedia.org/wiki/분류:tvN의_텔레비전_드라마 "wikilink")
+[\*](https://ko.wikipedia.org/wiki/분류:TvN_아침드라마 "wikilink") [분류:TvN의 텔레비전 드라마](https://ko.wikipedia.org/wiki/분류:TvN의_텔레비전_드라마 "wikilink")

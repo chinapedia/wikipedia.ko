@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Return to eden](https://ko.wikipedia.org/wiki/Return_to_eden).
 
 
-**Return to eden**은 [대한민국](../Page/대한민국.md "wikilink")의 가수 [민해경](../Page/민해경.md "wikilink")의 1996년 발매한 두 번째 영상물이다.
+《**Return to eden**》은 [대한민국](../Page/대한민국.md "wikilink")의 가수 [민해경](../Page/민해경.md "wikilink")의 1996년 발매한 두 번째 영상물이다.
 
 ## 앨범의 특징
 

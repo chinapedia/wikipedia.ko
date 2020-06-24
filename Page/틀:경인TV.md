@@ -6,7 +6,7 @@
 |묶음7 = 유아 · 어린이 |내용7 =
 
   - 《[꾸러기 TV](https://ko.wikipedia.org/wiki/꾸러기_TV "wikilink")》
-      - [수학이 야호](https://ko.wikipedia.org/wiki/수학이_야호 "wikilink")
+      - [꼬마버스 타요](../Page/꼬마버스_타요.md "wikilink")
 
 |묶음8 = 과거 iTV
 <small>(2004.12.31 이전)</small> |내용8 =
@@ -32,7 +32,7 @@
   - 《[생방송 세상을 연다](../Page/생방송_세상을_연다.md "wikilink")》
   - 《[생방송 아이포유 5시](https://ko.wikipedia.org/wiki/생방송_아이포유_5시 "wikilink")》
   - 《[특급증권정보](https://ko.wikipedia.org/wiki/특급증권정보 "wikilink")》
-  - 《TV 요리천국》
+  - 《[TV 요리천국](https://ko.wikipedia.org/wiki/TV_요리천국 "wikilink")》
   - 《TV 동의보감》
   - 《탄력있는 아침》
   - 《김하진의 행복요리》

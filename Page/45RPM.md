@@ -61,7 +61,7 @@
 
 ## 각주
 
-[분류:대한민국의 힙합 그룹](https://ko.wikipedia.org/wiki/분류:대한민국의_힙합_그룹 "wikilink") [분류:1999년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:1999년_결성된_음악_그룹 "wikilink") [분류:2005년 데뷔](https://ko.wikipedia.org/wiki/분류:2005년_데뷔 "wikilink") [분류:Show Me The Money 참가자](https://ko.wikipedia.org/wiki/분류:Show_Me_The_Money_참가자 "wikilink")
+[분류:대한민국의 힙합 그룹](https://ko.wikipedia.org/wiki/분류:대한민국의_힙합_그룹 "wikilink") [분류:1999년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:1999년_결성된_음악_그룹 "wikilink") [분류:Show Me The Money 참가자](https://ko.wikipedia.org/wiki/분류:Show_Me_The_Money_참가자 "wikilink")
 
 1.  ["45rpm profile", 작성자 두., 다음 카페 "너와 내가 바로 우리\~\!", 작성일자 2001년 2월 2일, 확인일자 2013년 1월 21일](http://cafe.daum.net/RhymeNFlow/377/73?docid=1OXZ3777320010202070243)
 2.  [사거제곱사 \[사람들은 거지를 보지만 거지는 사람들을 본다\] (1999, 사거), 작성자 Tunikut, Tunikut's Cultural Paradise, 작성일자 2008년 12월 21일, 확인일자 2013년 1월 21일](http://blog.daum.net/tunikut/454)

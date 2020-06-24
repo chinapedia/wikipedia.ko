@@ -11,7 +11,7 @@ IPTV의 특성인 양방향 방송통신융합을 이용한 방송 제작진과 
 
 ## 아나운서
 
-  - [김태우](../Page/김태우_\(아나운서\).md "wikilink")
+  - [김태우](../Page/김태우_\(아나운서\).md "wikilink")(팀장)
   - 김영인
   - 김민지
   - 이유빈
@@ -19,8 +19,7 @@ IPTV의 특성인 양방향 방송통신융합을 이용한 방송 제작진과 
   - [임용수](../Page/임용수.md "wikilink")
   - [정찬우](../Page/정찬우_\(아나운서\).md "wikilink")
   - 정승호
-  - 한종희
-  - [송재익](../Page/송재익.md "wikilink")
+  - [박찬](https://ko.wikipedia.org/wiki/박찬 "wikilink")
   - [임주완](../Page/임주완_\(아나운서\).md "wikilink")
   - 박영웅
 
@@ -42,7 +41,7 @@ IPTV의 특성인 양방향 방송통신융합을 이용한 방송 제작진과 
 
 <!-- end list -->
 
-  - [강성주](https://ko.wikipedia.org/wiki/강성주 "wikilink"), [이주헌](https://ko.wikipedia.org/wiki/이주헌 "wikilink"), [신문선](../Page/신문선.md "wikilink"), 오일영, [강신우](../Page/강신우.md "wikilink"), [이용수](../Page/이용수_\(축구인\).md "wikilink")
+  - [강성주](https://ko.wikipedia.org/wiki/강성주 "wikilink"), [이주헌](https://ko.wikipedia.org/wiki/이주헌 "wikilink"), [신문선](../Page/신문선.md "wikilink"), 오일영, [김강남](../Page/김강남.md "wikilink"), [이용수](../Page/이용수_\(축구인\).md "wikilink")
 
 <!-- end list -->
 
@@ -80,6 +79,10 @@ IPTV의 특성인 양방향 방송통신융합을 이용한 방송 제작진과 
 ## 특이 사항
 
 IB SPORTS의 그래픽과 프로그램의 전체적인 디자인, 아나운서([김태우](../Page/김태우_\(아나운서\).md "wikilink"), [정찬우](../Page/정찬우_\(아나운서\).md "wikilink") 등), 해설자([마해영](../Page/마해영.md "wikilink"), [김강남](../Page/김강남.md "wikilink") 등) 및 출연자, 그리고 연출 기법이 과거의 [엑스포츠와](../Page/Xports.md "wikilink") 유사한데, 그 이유는 [갤럭시아에스엠 (구:IB월드와이드)가](../Page/갤럭시아에스엠.md "wikilink") [엑스포츠를](../Page/Xports.md "wikilink") 매각하면서 기존의 PD들 가운데 대부분이 IB SPORTS로 이동하였기 때문이다.
+
+## 트리비아
+
+제 2회 WBC중계권 입찰에서 뉴미디어 중계권까지 포함한 묶음 중계권을 MLB로부터 구매하였다.
 
 ## 같이 보기
 

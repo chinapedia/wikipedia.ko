@@ -18,4 +18,4 @@
 
 <references />
 
-[분류:미국의 폭격기](https://ko.wikipedia.org/wiki/분류:미국의_폭격기 "wikilink") [분류:1958년 첫 비행한 항공기](https://ko.wikipedia.org/wiki/분류:1958년_첫_비행한_항공기 "wikilink") [분류:쌍발 제트기](https://ko.wikipedia.org/wiki/분류:쌍발_제트기 "wikilink")
+[분류:미국의 폭격기](https://ko.wikipedia.org/wiki/분류:미국의_폭격기 "wikilink") [분류:1958년 첫 비행한 항공기](https://ko.wikipedia.org/wiki/분류:1958년_첫_비행한_항공기 "wikilink") [분류:쌍발 제트기](https://ko.wikipedia.org/wiki/분류:쌍발_제트기 "wikilink") [분류:고익기](https://ko.wikipedia.org/wiki/분류:고익기 "wikilink")

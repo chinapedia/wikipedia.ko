@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [EBS 저녁뉴스](https://ko.wikipedia.org/wiki/EBS_저녁뉴스).
 
 
-《**EBS 저녁뉴스**》는 평일 저녁 7시 30분에 [EBS 1TV에서](../Page/EBS_1TV.md "wikilink") 방송되는 [한국교육방송공사의 뉴스 프로그램이다](https://ko.wikipedia.org/wiki/한국교육방송공사의_뉴스_프로그램 "wikilink").
+《**EBS 5시 뉴스**》는 평일 오후 5시에 [EBS 1TV에서](../Page/EBS_1TV.md "wikilink") 방송되는 [한국교육방송공사의 뉴스 프로그램이다](https://ko.wikipedia.org/wiki/한국교육방송공사의_뉴스_프로그램 "wikilink").
 
 2007년 9월 3일부터 **EBS 정보마당**이라는 명칭의 시사교양 프로그램으로 신설되었으며, 2008년 2월 25일부터 현재의 **EBS 저녁뉴스**로 명칭이 변경되어 정식 메인뉴스로 개편되었다.
 
@@ -33,8 +33,14 @@
 
 ## 관련 항목
 
+  - [KBS 뉴스 9](../Page/KBS_뉴스_9.md "wikilink") (KBS 1TV)
   - [MBC 뉴스데스크](../Page/MBC_뉴스데스크.md "wikilink") (MBC)
+  - [SBS 8 뉴스](../Page/SBS_8_뉴스.md "wikilink") (SBS)
+  - [OBS 뉴스중심](../Page/OBS_뉴스중심.md "wikilink") (OBS 경인TV)
   - [뉴스A](../Page/뉴스A.md "wikilink") (채널A)
-  - [MBN 뉴스 8](https://ko.wikipedia.org/wiki/MBN_뉴스_8 "wikilink") (MBN)
+  - [MBN 종합뉴스](../Page/MBN_종합뉴스.md "wikilink") (MBN)
+  - [JTBC 뉴스룸](../Page/JTBC_뉴스룸.md "wikilink") (JTBC)
+  - [TV조선 뉴스 9](../Page/TV조선_뉴스_9.md "wikilink") (TV조선)
+  - [YTN 뉴스나이트](../Page/YTN_뉴스나이트.md "wikilink") (YTN)
 
 [분류:한국교육방송공사의 뉴스 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:한국교육방송공사의_뉴스_텔레비전_프로그램 "wikilink")

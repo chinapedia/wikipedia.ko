@@ -157,8 +157,6 @@ QS 세계 대학 평가: <https://www.topuniversities.com/university-rankings>
 
   - [QS World University Rankings](http://www.topuniversities.com/qs-world-university-rankings/)
 
-  - [QS 세계 대학 랭킹 평가 지표 및 순위 정보](https://namu.wiki/w/QS%20세계%20대학%20랭킹)
-
 [분류:세계 대학 순위](https://ko.wikipedia.org/wiki/분류:세계_대학_순위 "wikilink")
 
 1.  <http://www.topuniversities.com/undergraduate-studies>

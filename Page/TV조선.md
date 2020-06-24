@@ -70,7 +70,7 @@
   - [백대우](https://ko.wikipedia.org/wiki/백대우 "wikilink") 기자
   - [윤우리](https://ko.wikipedia.org/wiki/윤우리 "wikilink") 기자 - [KBS원주방송국](../Page/KBS원주방송국.md "wikilink") 아나운서에서 이직
   - 조덕현 기자
-  - \[\[윤태윤|윤태윤\]\] 기자 - [대전방송](../Page/대전방송.md "wikilink")에서 이직 - TV조선 뉴스 (주말 오전 8시 30분) 진행
+  - [윤태윤](https://ko.wikipedia.org/wiki/윤태윤 "wikilink") 기자 - [대전방송](../Page/대전방송.md "wikilink")에서 이직 - TV조선 뉴스 (주말 오전 8시 30분) 진행
   - 이채현 기자
   - 김보건 기자
   - [최지원](https://ko.wikipedia.org/wiki/최지원 "wikilink") 기자
@@ -194,169 +194,7 @@
 
 #### 오락 · 예능 프로그램
 
-<table>
-<caption>오락 · 예능 프로그램</caption>
-<thead>
-<tr class="header">
-<th><p>방영 요일</p></th>
-<th><p>9시대</p></th>
-<th><p>10시대</p></th>
-<th><p>11시대</p></th>
-<th><p>12시대</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><div style="text-align: center;">
-<p>월요일</p>
-</div></td>
-<td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/얼마예요" title="wikilink">얼마예요</a></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><div style="text-align: center;">
-<p>화요일</p>
-</div></td>
-<td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/아내의_맛" title="wikilink">아내의 맛</a></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><div style="text-align: center;">
-<p>수요일</p>
-</div></td>
-<td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/한집_살림" title="wikilink">한집 살림</a></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><div style="text-align: center;">
-<p>목요일</p>
-</div></td>
-<td></td>
-<td><p><a href="../Page/연애의_맛.md" title="wikilink">연애의 맛</a></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><div style="text-align: center;">
-<p>금요일</p>
-</div></td>
-<td></td>
-<td><p>살림9단의 만물상</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><div style="text-align: center;">
-<p>토요일</p>
-</div></td>
-<td><p><a href="../Page/강적들.md" title="wikilink">강적들</a></p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><div style="text-align: center;">
-<p>일요일</p>
-</div></td>
-<td><p><a href="../Page/모란봉_클럽.md" title="wikilink">모란봉 클럽</a></p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
-
 #### 시사 · 교양 · 다큐 프로그램
-
-<table>
-<caption>시사 · 교양 · 다큐 프로그램</caption>
-<thead>
-<tr class="header">
-<th><p>방영 요일</p></th>
-<th><p>오전</p></th>
-<th><p>오후</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><div style="text-align: center;">
-<p>월요일</p>
-</div></td>
-<td><p><a href="../Page/신통방통.md" title="wikilink">신통방통</a><br />
-9:00 - 10:30</p></td>
-<td><p><a href="../Page/세계테마기행.md" title="wikilink">세계테마기행</a><br />
-10:30 - 11:20</p></td>
-</tr>
-<tr class="even">
-<td><div style="text-align: center;">
-<p>화요일</p>
-</div></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><div style="text-align: center;">
-<p>수요일</p>
-</div></td>
-<td><p><a href="../Page/인생다큐_마이웨이.md" title="wikilink">인생다큐 마이웨이</a><br />
-22:00 - 23:00</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/보험사용설명서" title="wikilink">보험사용설명서</a><br />
-24:40 - 25:40</p></td>
-</tr>
-<tr class="even">
-<td><div style="text-align: center;">
-<p>목요일</p>
-</div></td>
-<td><p><a href="../Page/내일은_미스트롯.md" title="wikilink">내일은 미스트롯</a><br />
-22:00 - 00:40</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><div style="text-align: center;">
-<p>금요일</p>
-</div></td>
-<td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/내_몸_사용_설명서" title="wikilink">내 몸 사용 설명서</a><br />
-19:00 - 20:00</p></td>
-</tr>
-<tr class="even">
-<td><div style="text-align: center;">
-<p>토요일</p>
-</div></td>
-<td><p><a href="../Page/열린비평_TV를_말하다.md" title="wikilink">열린비평 TV를 말하다</a><br />
-8:00 - 8:30</p></td>
-<td><p><a href="../Page/신통방통.md" title="wikilink">신통방통</a><br />
-8:30 - 9:50</p></td>
-</tr>
-<tr class="odd">
-<td><div style="text-align: center;">
-<p>일요일</p>
-</div></td>
-<td><p><a href="../Page/열린비평_TV를_말하다.md" title="wikilink">열린비평 TV를 말하다</a><br />
-7:00 - 7:30</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/내_몸_플러스" title="wikilink">내 몸 플러스</a><br />
-7:30 - 8:30</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
 
 #### 뉴스 · 보도 프로그램
 
@@ -427,10 +265,12 @@
 
 ## 해외 제휴 방송국
 
+  - [TBS 텔레비전](../Page/TBS_텔레비전.md "wikilink")
+
 ## 방송 사고
 
   - [2011년](../Page/2011년.md "wikilink") [12월 1일](../Page/12월_1일.md "wikilink") : 개국 당일, 화면이 위, 아래 2개로 분할되어 나오는 블랙아웃 화면 상황이 몇 분 가량 있었다.\[6\]
-  - [2012년](../Page/2012년.md "wikilink") [1월 23일](../Page/1월_23일.md "wikilink") : 오후 9시 40분부터 [김수현](https://ko.wikipedia.org/wiki/김수현 "wikilink") 작가의 설연휴 특집극 3부작 ['아버지가 미안하다'](https://ko.wikipedia.org/wiki/'아버지가_미안하다' "wikilink") 1부\~3부를 연달아 방영했다. 하지만 일부지역에서 2부 중반부터 3부 중반까지 화면이 검게 나오거나 소리가 나오다가 끊기는 현상이 발생하였고, 이에 방송사 측은 3부 중반에 가서야 사과문을 보내고 24일에 재방송을 한다는 자막을 내보냈다.\<ref\>{{뉴스 인용|제목=종편 TV조선, 1월 23일 설 특집 드라마 방송 도중
+  - [2012년](../Page/2012년.md "wikilink") [1월 23일](../Page/1월_23일.md "wikilink") : 오후 9시 40분부터 [김수현](https://ko.wikipedia.org/wiki/김수현 "wikilink") 작가의 설연휴 특집극 3부작 ['아버지가 미안하다'](https://ko.wikipedia.org/wiki/'아버지가_미안하다' "wikilink") 1부\~3부를 연달아 방영했다. 하지만 일부지역에서 2부 중반부터 3부 중반까지 화면이 검게 나오거나 소리가 나오다가 끊기는 현상이 발생하였고, 이에 방송사 측은 3부 중반에 가서야 사과문을 보내고 24일에 재방송을 한다는 자막을 내보냈다.
 
 ## 각주
 

@@ -177,7 +177,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/2000년_AFC_아시안컵" title="wikilink">2000</a></p></td>
+<td><p><a href="../Page/2000년_AFC_아시안컵.md" title="wikilink">2000</a></p></td>
 <td><p><a href="../Page/이영표.md" title="wikilink">이영표</a> (<a href="../Page/미드필더.md" title="wikilink">MF</a>)</p></td>
 <td><div style="text-align: center;">
 <p>1</p></td>

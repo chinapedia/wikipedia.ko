@@ -244,7 +244,10 @@
       - 진행 기간 : 2011년 4월 4일 \~ 2012년 [10월 19일](../Page/10월_19일.md "wikilink")
   - [홍원기](https://ko.wikipedia.org/wiki/홍원기_\(아나운서\) "wikilink")
       - 경력 : OBS 아나운서 (전 iTV 아나운서)
-      - 진행 기간 : 2012년 [10월 22일](../Page/10월_22일.md "wikilink") \~ [2013년](../Page/2013년.md "wikilink") [2월 27일](../Page/2월_27일.md "wikilink"), 2013년 [5월](../Page/5월.md "wikilink") \~
+      - 진행 기간 : 2012년 [10월 22일](../Page/10월_22일.md "wikilink") \~ [2013년](../Page/2013년.md "wikilink") [2월 27일](../Page/2월_27일.md "wikilink"), 2013년 [5월](../Page/5월.md "wikilink") \~ [2020년](../Page/2020년.md "wikilink") [4월 24일](../Page/4월_24일.md "wikilink")
+  - [김준호](https://ko.wikipedia.org/wiki/김준호_\(아나운서\) "wikilink")
+      - 경력 : OBS 아나운서
+      - 진행 기간 : [2020년](../Page/2020년.md "wikilink") [4월 27일](../Page/4월_27일.md "wikilink") \~ **현재**
   - [최진만](https://ko.wikipedia.org/wiki/최진만 "wikilink")
       - 경력 : OBS 기자 (전 [부동산TV](https://ko.wikipedia.org/wiki/부동산TV "wikilink")(RTN) 기자)
       - 진행 기간 : 2013년 [4월 15일](../Page/4월_15일.md "wikilink") \~ [5월](../Page/5월.md "wikilink")

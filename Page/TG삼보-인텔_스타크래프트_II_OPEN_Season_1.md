@@ -22,9 +22,6 @@
 
   - **오프라인 예선**
       - 금속 도시, 고철 처리장, 젤나가 동굴
-
-<!-- end list -->
-
   - **본선**
       - 폭염 사막, 사막 오아시스, 고철 처리장, 전쟁 초원, 젤나가 동굴, 쿨라스 협곡, 잃어버린 사원, 금속도시, 델타 사분면\[1\]
       - 선수들은 경기전에 자신이 제외하고 싶은 맵을 2개씩 선택할 수 있다.
@@ -86,9 +83,6 @@
       - 2경기 클로징 음악 : Just Surrender - Burning Up
       - 3경기 클로징 음악 : Vanilla Ninja - Battlefield
       - 4경기 최종 클로징 음악 : We The King - Heaven Can Wait
-
-<!-- end list -->
-
   - **32강**
       - 1경기 오프닝 음악 : Treat - Roar
       - 2경기 오프닝 음악 : Coldrain - Painting
@@ -112,9 +106,6 @@
       - 2경기 클로징 음악 : Cavo - We All Fall Down
       - 3경기 클로징 음악 : Britt Nicole - Glow
       - 4경기 최종 클로징 음악 : We The King - Heaven Can Wait
-
-<!-- end list -->
-
   - **16강 \~ 4강**
       - 1경기 오프닝 음악 : Treat - Roar
       - 2경기 오프닝 음악 : Fit For Rivals - Damage
@@ -138,9 +129,6 @@
       - 2경기 클로징 음악 : Cashcash - Party In Your Bedroom
       - 3경기 클로징 음악 : Default - Little Too Late
       - 4경기 최종 클로징 음악 : We The King - Heaven Can Wait
-
-<!-- end list -->
-
   - **결승전**
       - 메인 오프닝 음악 : It Boys\! - End Of The World
       - 선수 등장 음악 김원기 : Treat - Skies Of Mongolia
@@ -186,7 +174,7 @@
   - 오프라인 예선 참가 신청 인원 : 2000여명 (해외 선수 150여명)
   - 4개의 경기 부스를 이용한 신속한 경기 진행 (2개의 부스에서 경기가 진행되는 동안 나머지 2개의 부스에서는 다음 경기 세팅)
   - 개막전 장소 : [KBS 88 체육관](https://ko.wikipedia.org/wiki/KBS_88_체육관 "wikilink")
-  - 개막전 초대가수 : [윤도현](../Page/윤도현.md "wikilink"), [레인보우](https://ko.wikipedia.org/wiki/레인보우_\(음악_그룹\) "wikilink"), [아이유](https://ko.wikipedia.org/wiki/아이유 "wikilink"), [DJ DOC](../Page/DJ_DOC.md "wikilink")
+  - 개막전 초대가수 : [윤도현](../Page/윤도현.md "wikilink"), [레인보우](../Page/레인보우_\(대한민국의_음악_그룹\).md "wikilink"), [아이유](https://ko.wikipedia.org/wiki/아이유 "wikilink"), [DJ DOC](../Page/DJ_DOC.md "wikilink")
   - 결승전 장소 : [장충체육관](../Page/장충체육관.md "wikilink")
 
 ## 본선 대진표

@@ -42,7 +42,7 @@
 
 파일:KLM Cityhopper offices Schiphol-Oost.jpg|KLM 시티호퍼 본사 전경
 
-## 더 보기
+## 같이 보기
 
   - [에어프랑스-KLM](https://ko.wikipedia.org/wiki/에어프랑스-KLM "wikilink")
   - [마틴 에어](https://ko.wikipedia.org/wiki/마틴_에어 "wikilink")

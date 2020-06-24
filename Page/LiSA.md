@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [LiSA](https://ko.wikipedia.org/wiki/LiSA).
 
 
-**리사**(LiSA, リサ, [1987년](../Page/1987년.md "wikilink") [6월 24일](../Page/6월_24일.md "wikilink")\[1\] \~ )는 [일본](../Page/일본.md "wikilink")의 [여성 가수이다](https://ko.wikipedia.org/wiki/가수 "wikilink"). 본명은 **오리베 리사**이고, [기후현](../Page/기후현.md "wikilink") [세키 시](https://ko.wikipedia.org/wiki/세키_시 "wikilink") 출신이다. [락 밴드](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink")「Love is Same All」의 보컬리스트이다.
+**리사**(LiSA, リサ, [1987년](../Page/1987년.md "wikilink") [6월 24일](../Page/6월_24일.md "wikilink")\[1\] \~ )는 [일본](../Page/일본.md "wikilink")의 [여성 가수이다](https://ko.wikipedia.org/wiki/가수 "wikilink"). 본명은 **오리베 리사**이고, [기후현](../Page/기후현.md "wikilink") [세키시](../Page/세키시.md "wikilink") 출신이다. [락 밴드](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink")「Love is Same All」의 보컬리스트이다.
 
 ## 개요
 

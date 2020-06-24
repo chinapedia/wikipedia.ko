@@ -43,7 +43,7 @@ main(void)
 
 scanf을 이용한 계산기이다
 
-출저 : [hyhgo1님의 블로그](https://hyhgo1.blog.me/221194170230)
+출저 : [hyhgo1님의 블로그](https://blog.naver.com/hyhgo1/221194170230)
 
 ``` c
 #include <stdio.h>

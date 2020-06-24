@@ -13,6 +13,8 @@
 
   - [김명정](https://ko.wikipedia.org/wiki/김명정 "wikilink")
   - 최두영
+  - [배기완](../Page/배기완.md "wikilink") 프리랜서
+  - [임용수](../Page/임용수.md "wikilink") 프리랜서
   - 김민수
   - 양동석
   - 윤영주
@@ -45,9 +47,9 @@
   - [IB 스포츠](https://ko.wikipedia.org/wiki/IB_스포츠 "wikilink")
   - [스카이 스포츠 (대한민국)](../Page/스카이_스포츠_\(대한민국\).md "wikilink")
   - [에이클라 엔터테인먼트](https://ko.wikipedia.org/wiki/에이클라_엔터테인먼트 "wikilink")
-  - [SPOTV+](../Page/SPOTV+.md "wikilink")
+  - [SPOTV Golf & Health](https://ko.wikipedia.org/wiki/SPOTV_Golf_&_Health "wikilink")
   - [SPOTV2](https://ko.wikipedia.org/wiki/SPOTV2 "wikilink")
-  - [SPOTV 게임즈](https://ko.wikipedia.org/wiki/SPOTV_게임즈 "wikilink")
+  - [SPOTV Games](../Page/SPOTV_Games.md "wikilink")
 
 ## 외부 링크
 

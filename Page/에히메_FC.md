@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [에히메 FC](https://ko.wikipedia.org/wiki/에히메_FC).
 
 
-**에히메 FC**(Ehime F.C.,)는 [일본](../Page/일본.md "wikilink") [에히메현](../Page/에히메현.md "wikilink") [마쓰야마 시를](https://ko.wikipedia.org/wiki/마쓰야마_시 "wikilink") 연고로 하는 [J리그](../Page/J리그.md "wikilink") 축구팀이다.
+**에히메 FC**(Ehime F.C.,)는 [일본](../Page/일본.md "wikilink") [에히메현](../Page/에히메현.md "wikilink") [마쓰야마시](../Page/마쓰야마시.md "wikilink")를 연고로 하는 [J리그](../Page/J리그.md "wikilink") 축구팀이다.
 
 ## 역사
 

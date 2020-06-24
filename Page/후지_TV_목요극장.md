@@ -160,7 +160,7 @@
 
 #### 1999년
 
-  - 《[링 \~최종장\~](https://ko.wikipedia.org/wiki/링 "wikilink")》 (주연: [야나기바 토시로](../Page/야나기바_토시로.md "wikilink")) - 제작: 교도 TV
+  - 《[링 \~최종장\~](../Page/링.md "wikilink")》 (주연: [야나기바 토시로](../Page/야나기바_토시로.md "wikilink")) - 제작: 교도 TV
   - 《[아프리카의 밤](https://ko.wikipedia.org/wiki/아프리카의_밤 "wikilink")》 (주연: [스즈키 쿄카](../Page/스즈키_쿄카.md "wikilink"))
   - 《[라센](https://ko.wikipedia.org/wiki/라센 "wikilink")》 (주연:키시타니 고로) - 제작: 교도 TV
   - 《[위험한 관계](../Page/위험한_관계_\(드라마\).md "wikilink")》 (주연: 토요카와 에츠시, 후지와라 노리카)

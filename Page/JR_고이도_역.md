@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [JR 고이도 역](https://ko.wikipedia.org/wiki/JR_고이도_역).
 
 
-**JR 고이도 역**()은 [일본](../Page/일본.md "wikilink") [나라현](../Page/나라현.md "wikilink") [가시바 시에](https://ko.wikipedia.org/wiki/가시바_시 "wikilink") 있는 [서일본 여객철도의](https://ko.wikipedia.org/wiki/서일본_여객철도 "wikilink") [철도역](../Page/철도역.md "wikilink")이다.
+**JR 고이도 역**()은 [일본](../Page/일본.md "wikilink") [나라현](../Page/나라현.md "wikilink") [가시바시](../Page/가시바시.md "wikilink")에 있는 [서일본 여객철도의](https://ko.wikipedia.org/wiki/서일본_여객철도 "wikilink") [철도역](../Page/철도역.md "wikilink")이다.
 
 원래는 역간 거리가 비교적 긴 다카다 역 \~ 가시바 역 구간의 열차 간 교행을 위하여 "고이도 신호장"으로서 세워졌으나, 1968년 이후 지역 주민들의 계속된 역 설치 요구에 따라 가시바 시가 역 건설 비용과 주변 정비 비용을 합친 5억 엔을 부담하는 것을 조건으로 2004년에 여객역으로 개업했다.\[1\]\[2\] 역명은 가시바 시의 제안을 받아들여 정한 것으로, [긴테쓰 오사카 선의](../Page/긴테쓰_오사카_선.md "wikilink") [고이도 역과의](../Page/고이도_역.md "wikilink") 구분을 위해 "JR"을 붙였다.
 

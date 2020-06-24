@@ -90,6 +90,6 @@
 
   -
 
-[분류:2005년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2005년_결성된_음악_그룹 "wikilink") [분류:2007년 데뷔](https://ko.wikipedia.org/wiki/분류:2007년_데뷔 "wikilink") [분류:일본의 음악 그룹](https://ko.wikipedia.org/wiki/분류:일본의_음악_그룹 "wikilink") [분류:2인조 음악 그룹](https://ko.wikipedia.org/wiki/분류:2인조_음악_그룹 "wikilink") [분류:혼성 음악 그룹](https://ko.wikipedia.org/wiki/분류:혼성_음악_그룹 "wikilink") [분류:에이벡스 그룹 음악가](https://ko.wikipedia.org/wiki/분류:에이벡스_그룹_음악가 "wikilink")
+[분류:2005년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2005년_결성된_음악_그룹 "wikilink") [분류:일본의 음악 그룹](https://ko.wikipedia.org/wiki/분류:일본의_음악_그룹 "wikilink") [분류:2인조 음악 그룹](https://ko.wikipedia.org/wiki/분류:2인조_음악_그룹 "wikilink") [분류:혼성 음악 그룹](https://ko.wikipedia.org/wiki/분류:혼성_음악_그룹 "wikilink") [분류:에이벡스 그룹 음악가](https://ko.wikipedia.org/wiki/분류:에이벡스_그룹_음악가 "wikilink")
 
 1.  『WHAT's IN?』 2009년 6월호 p.129

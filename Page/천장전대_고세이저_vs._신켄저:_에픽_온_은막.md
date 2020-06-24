@@ -29,7 +29,7 @@
   - 이케나미 류노스케 - [아이바 히로키](../Page/아이바_히로키.md "wikilink")
   - 시라이시 마코 - [타카나시 린](https://ko.wikipedia.org/wiki/타카나시_린 "wikilink")
   - 타니 치아키 - [스즈키 쇼고](https://ko.wikipedia.org/wiki/스즈키_쇼고 "wikilink")
-  - 하나오리 코토하 - [모리타 스즈카](https://ko.wikipedia.org/wiki/모리타_스즈카 "wikilink")
+  - 하나오리 코토하 - [모리타 스즈카](../Page/모리타_스즈카.md "wikilink")
   - 우메모리 겐타 - [소마 케이스케](https://ko.wikipedia.org/wiki/소마_케이스케 "wikilink")
   - 시바 카오루 - [나츠이 루나](https://ko.wikipedia.org/wiki/나츠이_루나 "wikilink")
   - 쿠사카베 히코마 - [이부키 고로](https://ko.wikipedia.org/wiki/이부키_고로 "wikilink")

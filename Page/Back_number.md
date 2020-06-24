@@ -277,7 +277,7 @@
 <tr class="odd">
 <td><p><br />
 <small>전차의 창문에서</small></p></td>
-<td><p><small><a href="https://ko.wikipedia.org/wiki/오타_시" title="wikilink">오타 시</a> 합병 10주년 기념</small> 영화 《군청색의, 지나가는 길》 극 중 노래</p></td>
+<td><p><small><a href="../Page/오타시.md" title="wikilink">오타시</a> 합병 10주년 기념</small> 영화 《군청색의, 지나가는 길》 극 중 노래</p></td>
 </tr>
 <tr class="even">
 <td><p><br />

@@ -27,4 +27,4 @@ PGA 투어는 대회가 개최되는 도시의 지역 자선 단체를 대신하
 
   -
 
-[PGA_투어](https://ko.wikipedia.org/wiki/분류:PGA_투어 "wikilink") [분류:미국의 골프](https://ko.wikipedia.org/wiki/분류:미국의_골프 "wikilink") [분류:1968년 설립](https://ko.wikipedia.org/wiki/분류:1968년_설립 "wikilink")
+[PGA_투어](https://ko.wikipedia.org/wiki/분류:PGA_투어 "wikilink") [분류:미국의 골프](https://ko.wikipedia.org/wiki/분류:미국의_골프 "wikilink") [분류:1968년 설립](https://ko.wikipedia.org/wiki/분류:1968년_설립 "wikilink") [분류:플로리다주의 단체](https://ko.wikipedia.org/wiki/분류:플로리다주의_단체 "wikilink")

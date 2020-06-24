@@ -372,4 +372,4 @@
   - [SUPER☆GiRLS - 공식 트위터](https://twitter.com/avex_idol_P)
   - [SUPER☆GiRLS - 공식 유튜브 채널](https://www.youtube.com/user/supergirls)
 
-[분류:일본의 팝 음악 그룹](https://ko.wikipedia.org/wiki/분류:일본의_팝_음악_그룹 "wikilink") [분류:일본의 걸 그룹](https://ko.wikipedia.org/wiki/분류:일본의_걸_그룹 "wikilink") [분류:에이벡스 그룹 음악가](https://ko.wikipedia.org/wiki/분류:에이벡스_그룹_음악가 "wikilink") [분류:2010년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2010년_결성된_음악_그룹 "wikilink") [분류:2011년 데뷔](https://ko.wikipedia.org/wiki/분류:2011년_데뷔 "wikilink") [분류:10인조 이상 음악 그룹](https://ko.wikipedia.org/wiki/분류:10인조_이상_음악_그룹 "wikilink")
+[분류:일본의 팝 음악 그룹](https://ko.wikipedia.org/wiki/분류:일본의_팝_음악_그룹 "wikilink") [분류:일본의 걸 그룹](https://ko.wikipedia.org/wiki/분류:일본의_걸_그룹 "wikilink") [분류:에이벡스 그룹 음악가](https://ko.wikipedia.org/wiki/분류:에이벡스_그룹_음악가 "wikilink") [분류:2010년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2010년_결성된_음악_그룹 "wikilink") [분류:10인조 이상 음악 그룹](https://ko.wikipedia.org/wiki/분류:10인조_이상_음악_그룹 "wikilink")

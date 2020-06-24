@@ -9,7 +9,7 @@ H-IIA가 [LEO에](../Page/지구_저궤도.md "wikilink") 10톤, [GTO에](https:
 
 H-IIA에서 달라진 점은, 1단 로켓이다. 즉, H-IIA의 1단 액체로켓은 [추력](https://ko.wikipedia.org/wiki/추력 "wikilink") 112톤의 [미쓰비시 LE-7A](../Page/미쓰비시_LE-7.md "wikilink") 엔진 1개를 사용하나, H-IIB는 2개를 사용한다. 그밖에, 2단 로켓이 액체로켓인 추력 14톤의 [미쓰비시 LE-5B](https://ko.wikipedia.org/wiki/미쓰비시_LE-5 "wikilink") 엔진 1개인 점, 1단로켓 옆에 추력 235톤인 [SRB-A](https://ko.wikipedia.org/wiki/SRB-A "wikilink")3 [고체 로켓 부스터](../Page/고체_로켓_부스터.md "wikilink") 4개(총 추력 940톤)를 장착한 것은 H-IIA와 같다 (SRB-A와 SRB-A3의 추력과 비추력은 임무에 맞춰서 변동한다) .
 
-H-IIB 로켓은 2020년-2021년 [HTV](https://ko.wikipedia.org/wiki/HTV "wikilink")-9 호기를 발사 한 뒤 퇴역한다. 그 후계기는 새로 개발중인 H3 로켓이 된다.\[1\].
+H-IIB로켓 는 [2020년](../Page/2020년.md "wikilink") [5월 20일](../Page/5월_20일.md "wikilink") (UTC) HTV-9 호기를 발사 해 퇴역했다. H-IIB로켓 는 9 기 발사되어 모두 성공했다 \[1\]. 그 후계기는 새로 개발중인 H3 로켓이 된다\[2\].
 
 ## 다른 로켓과의 비교
 
@@ -39,7 +39,7 @@ H-IIB 1단 로켓은 112톤 추력인 [미쓰비시 LE-7A](../Page/미쓰비시_
 <tr class="odd">
 <td><p>1</p></td>
 <td><p><a href="../Page/2009년.md" title="wikilink">2009년</a> <a href="../Page/9월_10일.md" title="wikilink">9월 10일</a><br />
-17:01[2]</p></td>
+17:01[3]</p></td>
 <td><p>F1</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/HTV" title="wikilink">HTV</a>-1</p></td>
 <td><p>bgcolor = "#90ff90"|성공</p></td>
@@ -47,7 +47,7 @@ H-IIB 1단 로켓은 112톤 추력인 [미쓰비시 LE-7A](../Page/미쓰비시_
 <tr class="even">
 <td><p>2</p></td>
 <td><p><a href="../Page/2011년.md" title="wikilink">2011년</a> <a href="../Page/1월_22일.md" title="wikilink">1월 22일</a><br />
-05:38[3]</p></td>
+05:38[4]</p></td>
 <td><p>F2</p></td>
 <td><p>HTV-2 (Kounotori 2)</p></td>
 <td><p>bgcolor = "#90ff90"|성공</p></td>
@@ -55,7 +55,7 @@ H-IIB 1단 로켓은 112톤 추력인 [미쓰비시 LE-7A](../Page/미쓰비시_
 <tr class="odd">
 <td><p>3</p></td>
 <td><p><a href="../Page/2012년.md" title="wikilink">2012년</a> <a href="../Page/7월_21일.md" title="wikilink">7월 21일</a><br />
-02:06[4]</p></td>
+02:06[5]</p></td>
 <td><p>F3</p></td>
 <td><p>HTV-3 (Kounotori 3)<br />
  Raiko<br />
@@ -68,7 +68,7 @@ H-IIB 1단 로켓은 112톤 추력인 [미쓰비시 LE-7A](../Page/미쓰비시_
 <tr class="even">
 <td><p>4</p></td>
 <td><p><a href="../Page/2013년.md" title="wikilink">2013년</a> <a href="../Page/8월_3일.md" title="wikilink">8월 3일</a><br />
-19:48[5]</p></td>
+19:48[6]</p></td>
 <td><p>F4</p></td>
 <td><p>HTV-4 (Kounotori 4)<br />
  Pico Dragon<br />
@@ -80,7 +80,7 @@ H-IIB 1단 로켓은 112톤 추력인 [미쓰비시 LE-7A](../Page/미쓰비시_
 <tr class="odd">
 <td><p>5</p></td>
 <td><p><a href="../Page/2015년.md" title="wikilink">2015년</a> <a href="../Page/8월_19일.md" title="wikilink">8월 19일</a><br />
-11:50[6]</p></td>
+11:50[7]</p></td>
 <td><p>F5</p></td>
 <td><p>HTV-5 (Kounotori 5)<br />
  SERPENS<br />
@@ -93,7 +93,7 @@ H-IIB 1단 로켓은 112톤 추력인 [미쓰비시 LE-7A](../Page/미쓰비시_
 <tr class="even">
 <td><p>6</p></td>
 <td><p><a href="../Page/2016년.md" title="wikilink">2016년</a> <a href="../Page/12월_9일.md" title="wikilink">12월 9일</a><br />
-13:26[7]</p></td>
+13:26[8]</p></td>
 <td><p>F6</p></td>
 <td><p>HTV-6 (Kounotori 6)<br />
  AOBA-Velox III<br />
@@ -108,7 +108,7 @@ H-IIB 1단 로켓은 112톤 추력인 [미쓰비시 LE-7A](../Page/미쓰비시_
 <tr class="odd">
 <td><p>7</p></td>
 <td><p><a href="../Page/2018년.md" title="wikilink">2018년</a> <a href="../Page/9월_22일.md" title="wikilink">9월 22일</a><br />
-17:52[8]<br />
+17:52[9]<br />
 </p></td>
 <td><p>F7</p></td>
 <td><p>HTV-7 (Kounotori 7)</p></td>
@@ -117,10 +117,19 @@ H-IIB 1단 로켓은 112톤 추력인 [미쓰비시 LE-7A](../Page/미쓰비시_
 <tr class="even">
 <td><p>8</p></td>
 <td><p><a href="../Page/2019년.md" title="wikilink">2019년</a> <a href="../Page/9월_24일.md" title="wikilink">9월 24일</a><br />
-16:05[9]<br />
+16:05[10]<br />
 </p></td>
 <td><p>F8</p></td>
 <td><p>HTV-8 (Kounotori 8)</p></td>
+<td><p>bgcolor = "#90ff90"|성공</p></td>
+</tr>
+<tr class="odd">
+<td><p>9</p></td>
+<td><p><a href="../Page/2020년.md" title="wikilink">2020년</a> <a href="../Page/5월_20일.md" title="wikilink">5월 20일</a><br />
+17:31[11]<br />
+</p></td>
+<td><p>F9</p></td>
+<td><p>HTV-9 (Kounotori 9)</p></td>
 <td><p>bgcolor = "#90ff90"|성공</p></td>
 </tr>
 </tbody>
@@ -136,12 +145,14 @@ H-IIB 1단 로켓은 112톤 추력인 [미쓰비시 LE-7A](../Page/미쓰비시_
 
 [분류:우주발사체](https://ko.wikipedia.org/wiki/분류:우주발사체 "wikilink") [분류:일본의 로켓](https://ko.wikipedia.org/wiki/분류:일본의_로켓 "wikilink")
 
-1.  [SPACE ENGINEERING DEVELOPMENT Co., Ltd/일본 출시 예정](https://www.sed.co.jp/tokusyu/rocket_jplan.html)
-2.  [JAXA press release H2B-F1](http://www.jaxa.jp/press/2009/09/20090916_sac_h2bf1.pdf)
-3.  [JAXA press release H2B-F2](http://www.jaxa.jp/press/2011/01/20110126_sac_h2bf2.pdf)
-4.  [JAXA press release H2B-F3](http://www.jaxa.jp/press/2012/07/20120721_h2bf3_j.html)
-5.  [JAXA press release H2B-F4](http://www.jaxa.jp/press/2013/08/20130804_h2bf4_j.html)
-6.  [JAXA press release H2B-F5](http://www.jaxa.jp/press/2015/08/20150819_h2bf5_j.html)
-7.  [JAXA press release H2B-F6](http://www.jaxa.jp/press/2016/12/20161210_h2bf6_j.html)
-8.  [JAXA press release H2B-F7](http://www.jaxa.jp/press/2018/09/20180923_h2bf7_j.html)
-9.  [JAXA press release H2B-F8](http://www.jaxa.jp/press/2019/09/20190925a_j.html)
+1.  [MBC南日本放送/最後のＨ２Ｂロケット　打ち上げ成功 [2020년](../Page/2020년.md "wikilink") [5월 21일](../Page/5월_21일.md "wikilink")(일본 시간)](https://news.yahoo.co.jp/articles/662ae52c57cb3ef260f0980138bc94bfa9767177)
+2.  [SPACE ENGINEERING DEVELOPMENT Co., Ltd/일본 출시 예정](https://www.sed.co.jp/tokusyu/rocket_jplan.html)
+3.  [JAXA press release H2B-F1](http://www.jaxa.jp/press/2009/09/20090916_sac_h2bf1.pdf)
+4.  [JAXA press release H2B-F2](http://www.jaxa.jp/press/2011/01/20110126_sac_h2bf2.pdf)
+5.  [JAXA press release H2B-F3](http://www.jaxa.jp/press/2012/07/20120721_h2bf3_j.html)
+6.  [JAXA press release H2B-F4](http://www.jaxa.jp/press/2013/08/20130804_h2bf4_j.html)
+7.  [JAXA press release H2B-F5](http://www.jaxa.jp/press/2015/08/20150819_h2bf5_j.html)
+8.  [JAXA press release H2B-F6](http://www.jaxa.jp/press/2016/12/20161210_h2bf6_j.html)
+9.  [JAXA press release H2B-F7](http://www.jaxa.jp/press/2018/09/20180923_h2bf7_j.html)
+10. [JAXA press release H2B-F8](http://www.jaxa.jp/press/2019/09/20190925a_j.html)
+11. [JAXA press release H2B-F9](https://www.jaxa.jp/press/2020/05/20200521-1_j.html)

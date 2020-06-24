@@ -16,4 +16,4 @@
   - [GENEON UNIVERSAL ENTERTAINMENT](https://web.archive.org/web/20130521212929/http://www.geneonuniversal.jp/)
   - [Geneon Entertainment USA](http://www.geneonanimation.com/)
 
-[분류:일본의 음반사](https://ko.wikipedia.org/wiki/분류:일본의_음반사 "wikilink") [분류:유니버설 스튜디오](https://ko.wikipedia.org/wiki/분류:유니버설_스튜디오 "wikilink")
+[분류:일본의 음반사](https://ko.wikipedia.org/wiki/분류:일본의_음반사 "wikilink") [분류:유니버설 스튜디오](https://ko.wikipedia.org/wiki/분류:유니버설_스튜디오 "wikilink") [분류:NBC유니버설 재팬](https://ko.wikipedia.org/wiki/분류:NBC유니버설_재팬 "wikilink")

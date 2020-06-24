@@ -15,7 +15,7 @@ Xiph 퀵타임 컴포넌츠는 FLAC 파일이 Ogg 컨테이너 파일 내에 있
 ## 외부 링크
 
   - [FLACImporter.컴포넌츠 정보](https://web.archive.org/web/20080209180713/http://barelyfocused.net/blog/2006/10/12/native-flac-in-itunesquicktime/)
-  - [FLACImporter.컴포넌츠 다운로드](http://people.xiph.org/~arek/flac_import/)
+  - [FLACImporter.컴포넌츠 다운로드](https://web.archive.org/web/20130303011916/http://people.xiph.org/~arek/flac_import/)
 
 [분류:오디오 코덱](https://ko.wikipedia.org/wiki/분류:오디오_코덱 "wikilink") [퀵타임 컴포넌츠](https://ko.wikipedia.org/wiki/분류:Xiph.Org_프로젝트 "wikilink")
 

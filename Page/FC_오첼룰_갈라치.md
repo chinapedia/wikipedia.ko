@@ -3,7 +3,7 @@
 
 **FC 오첼룰 갈라치**()는 [갈라치](../Page/갈라치.md "wikilink")를 연고로 하는 [루마니아](../Page/루마니아.md "wikilink")의 축구 클럽이다.
 
-1986년 [디비지아 A로](../Page/리가_I.md "wikilink") 처음 승격했으며 1988년 [UEFA컵에](https://ko.wikipedia.org/wiki/UEFA_유로파_리그 "wikilink") 처음 출전했다. 2010-11 [리가 I](../Page/리가_I.md "wikilink") 시즌에서 처음으로 리그 우승을 차지했고 [UEFA 챔피언스리그 2011-12에](https://ko.wikipedia.org/wiki/UEFA_챔피언스리그_2011-12 "wikilink") 처음 출전했다.
+1986년 [디비지아 A로](../Page/리가_I.md "wikilink") 처음 승격했으며 1988년 [UEFA컵에](https://ko.wikipedia.org/wiki/UEFA_유로파_리그 "wikilink") 처음 출전했다. 2010-11 시즌에 [리가 I](../Page/리가_I.md "wikilink") 첫 우승을 차지했고 [UEFA 챔피언스리그 2011-12에](https://ko.wikipedia.org/wiki/UEFA_챔피언스리그_2011-12 "wikilink") 처음 출전했다.
 
 ## 성적
 

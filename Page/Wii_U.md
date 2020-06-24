@@ -7,6 +7,10 @@
 
 Wii U는 [유튜브](../Page/유튜브.md "wikilink"), [넷플릭스](../Page/넷플릭스.md "wikilink"), 아마존 인스턴트 비디오 그리고 훌루 플러스를 [닌텐도 eShop에서](https://ko.wikipedia.org/wiki/닌텐도_eShop "wikilink") 무료로 다운받아서 시청할 수 있다. 닌텐도 TVii역시 시청이 가능하고 Wii U채팅으로 화상 통화를 할 수 있다. TV 컨트롤 버튼이 새로 나왔으며 컨트롤 ZL/ZR버튼, 왼쪽 (조이)스틱/오른쪽 (조이)스틱도 추가 됐다. 대응 피규어인 [아미보](https://ko.wikipedia.org/wiki/아미보 "wikilink")로 [NFC](https://ko.wikipedia.org/wiki/NFC "wikilink")통신이 가능하며, 터치 스크린이 6.2인치이고 16:9비율의 [LCD](https://ko.wikipedia.org/wiki/LCD "wikilink")를 지니고 있다. 노래방 기능도 있지만, 전용 마이크가 있어야 한다. 그 전용 마이크에는 2가지가 있는데, 하나는 Wii U본체에 있는 [USB](../Page/USB.md "wikilink")에 연결하는 마이크와 다른 하나는 무선마이크가 있다. Wii U 게임패드의 무게는 약 500g정도이다.
 
+## 판매
+
+처음에는 괜찮은 성과를 보이는듯 했으나 그리 좋지는 않은 해상도, 끔찍하게 느린 처음 실행(길면 10시간도 넘게 걸린다.)등에 의해 망해버린 콘솔이 되었다. 판매 중지 당시 최종 판매량은 1356만대였는데, 이 수치는 예전에 망했다던 닌텐도 게임큐브보다도(2174만대가량) 더 망한 콘솔이 되어버렸다.
+
 ## 대표 소프트웨어
 
   - [뉴 슈퍼 마리오브라더스 U](../Page/뉴_슈퍼_마리오브라더스_U.md "wikilink")

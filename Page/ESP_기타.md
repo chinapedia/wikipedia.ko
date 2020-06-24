@@ -74,7 +74,7 @@ ESP 그룹은 악기의 제작과 유통 외에도 아티스트/기타장인의 
 
 <references />
 
-[분류:일본의 기업](https://ko.wikipedia.org/wiki/분류:일본의_기업 "wikilink") [분류:기타 제조 회사](https://ko.wikipedia.org/wiki/분류:기타_제조_회사 "wikilink") [분류:1975년 설립된 기업](https://ko.wikipedia.org/wiki/분류:1975년_설립된_기업 "wikilink") [분류:일본의 브랜드](https://ko.wikipedia.org/wiki/분류:일본의_브랜드 "wikilink")
+[분류:일본의 기업](https://ko.wikipedia.org/wiki/분류:일본의_기업 "wikilink") [분류:기타 제조 회사](https://ko.wikipedia.org/wiki/분류:기타_제조_회사 "wikilink") [분류:1975년 설립된 기업](https://ko.wikipedia.org/wiki/분류:1975년_설립된_기업 "wikilink") [분류:일본의 브랜드](https://ko.wikipedia.org/wiki/분류:일본의_브랜드 "wikilink") [분류:캘리포니아주의 기업](https://ko.wikipedia.org/wiki/분류:캘리포니아주의_기업 "wikilink")
 
 1.  [ESP의 사업분야](http://www.espguitars.co.kr/InsideESP/kind.html), ESP Korea 공식 홈페이지: <http://www.espguitars.co.kr/InsideESP/kind.html>
 2.  [《ESP GROUP 会社概要》](http://www.espguitars.co.jp/company-info/esp.pdf), ESP Japan 공식 홈페이지(2005): <http://www.espguitars.co.jp/company-info/esp.pdf>

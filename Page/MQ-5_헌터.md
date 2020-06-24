@@ -9,7 +9,7 @@ RQ-5 헌터는 정찰기이며, MQ-5 헌터는 무게 20 kg인 [GBU-44/B](https:
 
 ## 제원
 
-[right](https://ko.wikipedia.org/wiki/파일:RQ-5_Hunter_\(drawing\).png "wikilink")
+[오른쪽](https://ko.wikipedia.org/wiki/파일:RQ-5_Hunter_\(drawing\).png "wikilink")
 
   - 일반 특성
 
@@ -59,4 +59,4 @@ RQ-5 헌터는 정찰기이며, MQ-5 헌터는 무게 20 kg인 [GBU-44/B](https:
   - [무인항공기](https://ko.wikipedia.org/wiki/무인항공기 "wikilink")
   - [U-2](../Page/록히드_U-2.md "wikilink"): [미국](../Page/미국.md "wikilink") [록히드 마틴의](../Page/록히드_마틴.md "wikilink") 고고도 유인 정찰기
 
-[분류:미국의 무인 항공기](https://ko.wikipedia.org/wiki/분류:미국의_무인_항공기 "wikilink") [분류:정찰기](https://ko.wikipedia.org/wiki/분류:정찰기 "wikilink")
+[분류:미국의 무인 항공기](https://ko.wikipedia.org/wiki/분류:미국의_무인_항공기 "wikilink") [분류:정찰기](https://ko.wikipedia.org/wiki/분류:정찰기 "wikilink") [분류:고익기](https://ko.wikipedia.org/wiki/분류:고익기 "wikilink")

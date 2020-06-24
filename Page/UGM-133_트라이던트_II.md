@@ -59,7 +59,7 @@
   -
 ## 각주
 
-## 더 보기
+## 같이 보기
 
   - [트라이던트 미사일](https://ko.wikipedia.org/wiki/트라이던트_미사일 "wikilink")
   - [R-29RMU](../Page/R-29RMU.md "wikilink") - 시네바 미사일은 러시아의 SLBM이다.

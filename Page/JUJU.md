@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [JUJU](https://ko.wikipedia.org/wiki/JUJU).
 
 
-**주주** (Juju, [1974년](../Page/1974년.md "wikilink") [2월 14일](../Page/2월_14일.md "wikilink") -)는 [일본](../Page/일본.md "wikilink")의 [재즈](../Page/재즈.md "wikilink") [가수](https://ko.wikipedia.org/wiki/가수 "wikilink")이다. [히로시마현](../Page/히로시마현.md "wikilink") [쇼바라 시에서](https://ko.wikipedia.org/wiki/쇼바라_시 "wikilink") 태어났으며, 레이블은 소니 뮤직이다.
+**주주** (Juju, [1974년](../Page/1974년.md "wikilink") [2월 14일](../Page/2월_14일.md "wikilink") -)는 [일본](../Page/일본.md "wikilink")의 [재즈](../Page/재즈.md "wikilink") [가수](https://ko.wikipedia.org/wiki/가수 "wikilink")이다. [히로시마현](../Page/히로시마현.md "wikilink") [쇼바라시](../Page/쇼바라시.md "wikilink")에서 태어났으며, 레이블은 소니 뮤직이다.
 
 ## 음반 목록
 

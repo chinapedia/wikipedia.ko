@@ -45,7 +45,7 @@
   -
   -
   -
-[분류:대한민국의 걸 그룹](https://ko.wikipedia.org/wiki/분류:대한민국의_걸_그룹 "wikilink") [분류:2000년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2000년_결성된_음악_그룹 "wikilink") [분류:2000년 데뷔](https://ko.wikipedia.org/wiki/분류:2000년_데뷔 "wikilink") [분류:2000년대 음악 그룹](https://ko.wikipedia.org/wiki/분류:2000년대_음악_그룹 "wikilink") [분류:한국어 음악 그룹](https://ko.wikipedia.org/wiki/분류:한국어_음악_그룹 "wikilink") [분류:아이돌 그룹](https://ko.wikipedia.org/wiki/분류:아이돌_그룹 "wikilink") [분류:3인조 음악 그룹](https://ko.wikipedia.org/wiki/분류:3인조_음악_그룹 "wikilink") [분류:대한민국의 팝 음악 그룹](https://ko.wikipedia.org/wiki/분류:대한민국의_팝_음악_그룹 "wikilink") [분류:대한민국의 댄스 음악 그룹](https://ko.wikipedia.org/wiki/분류:대한민국의_댄스_음악_그룹 "wikilink") [분류:해체한 음악 그룹](https://ko.wikipedia.org/wiki/분류:해체한_음악_그룹 "wikilink")
+[분류:대한민국의 걸 그룹](https://ko.wikipedia.org/wiki/분류:대한민국의_걸_그룹 "wikilink") [분류:2000년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2000년_결성된_음악_그룹 "wikilink") [분류:2000년대 음악 그룹](https://ko.wikipedia.org/wiki/분류:2000년대_음악_그룹 "wikilink") [분류:한국어 음악 그룹](https://ko.wikipedia.org/wiki/분류:한국어_음악_그룹 "wikilink") [분류:아이돌 그룹](https://ko.wikipedia.org/wiki/분류:아이돌_그룹 "wikilink") [분류:3인조 음악 그룹](https://ko.wikipedia.org/wiki/분류:3인조_음악_그룹 "wikilink") [분류:대한민국의 팝 음악 그룹](https://ko.wikipedia.org/wiki/분류:대한민국의_팝_음악_그룹 "wikilink") [분류:대한민국의 댄스 음악 그룹](https://ko.wikipedia.org/wiki/분류:대한민국의_댄스_음악_그룹 "wikilink") [분류:해체한 음악 그룹](https://ko.wikipedia.org/wiki/분류:해체한_음악_그룹 "wikilink")
 
 1.
 2.

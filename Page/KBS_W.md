@@ -136,6 +136,10 @@
   - [KBO 리그](https://ko.wikipedia.org/wiki/KBO_리그 "wikilink")
   - 삼성생명 2016-2017 여자프로농구
 
+## 좋아하는 사람
+
+  - 이인경
+
 ## 각주
 
 <references/>

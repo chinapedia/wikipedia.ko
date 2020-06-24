@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [AS Val](https://ko.wikipedia.org/wiki/AS_Val).
 
 
-**AS "Val"** (Avtomat Special'nyj Val, [러시아어](../Page/러시아어.md "wikilink"): *Автомат Специальный Вал* 혹은 "특수 자동소총", 코드명: "shaft")은 소련이 제작한 [돌격소총](../Page/돌격소총.md "wikilink")으로 소음기가 달려있다.
+**AS "Val"** (Avtomat Special'nyj Val, [러시아어](../Page/러시아어.md "wikilink"): *Автомат Специальный Вал* 혹은 "특수 자동소총", 코드명: "shaft")은 소련이 제작한 [돌격소총](../Page/돌격소총.md "wikilink")으로 [소음기](../Page/소음기.md "wikilink")가 달려있다.
 
 AS Val은 1980년대 후반 TsNIITochMash(정밀기계제작중심산업체)에서 개발되었으며, [스페츠나츠](../Page/스페츠나츠.md "wikilink") 특수부대와 연방 내무부, 연방보안국과 러시아 연방군의 특정 부대에서만 사용되는 총기이다.
 

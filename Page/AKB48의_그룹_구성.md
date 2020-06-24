@@ -35,34 +35,386 @@
 
   - 팀 컬러는 분홍색(<span style="color:magenta">**■**</span>)
 
+<table>
+<thead>
+<tr class="header">
+<th><p>이름</p></th>
+<th><p>일본어 표기</p></th>
+<th><p>생년월일</p></th>
+<th><p>가입기</p></th>
+<th><p>승격일</p></th>
+<th><p>소속 사무소</p></th>
+<th><p>조각</p></th>
+<th><p>비고</p></th>
+<th><p>총선거</p></th>
+<th><p>선발</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>1</p></td>
+<td><p>2</p></td>
+<td><p>3</p></td>
+<td><p>4</p></td>
+<td><p>5</p></td>
+<td><p>1</p></td>
+<td><p>2</p></td>
+<td><p>3</p></td>
+<td><p>4</p></td>
+<td><p>5</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/이리야마_안나.md" title="wikilink">이리야마 안나</a></p></td>
+<td></td>
+<td></td>
+<td><p>10기</p></td>
+<td><p>2011년 7월 23일</p></td>
+<td><p>오오타 프로덕션</p></td>
+<td></td>
+<td><p>4</p></td>
+<td><p>A</p></td>
+<td><p>2018년 4월부터 <a href="../Page/멕시코.md" title="wikilink">멕시코</a> 유학 중</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/카토_레나.md" title="wikilink">카토 레나</a></p></td>
+<td></td>
+<td></td>
+<td><p>10기</p></td>
+<td><p>2012년 3월 24일</p></td>
+<td><p>Mama &amp; Son</p></td>
+<td></td>
+<td><p>4</p></td>
+<td><p>B</p></td>
+<td><p>4</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ko.wikipedia.org/wiki/사토_미나미" title="wikilink">사토 미나미</a></p></td>
+<td></td>
+<td></td>
+<td><p>16기</p></td>
+<td><p>2019년 9월 12일</p></td>
+<td><p>DH</p></td>
+<td></td>
+<td><p>-</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ko.wikipedia.org/wiki/시노자키_아야나" title="wikilink">시노자키 아야나</a></p></td>
+<td></td>
+<td></td>
+<td><p>13기</p></td>
+<td><p>2013년 8월 24일</p></td>
+<td><p>산 오피스</p></td>
+<td></td>
+<td><p>4</p></td>
+<td><p>K</p></td>
+<td><p>-</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ko.wikipedia.org/wiki/스즈키_쿠루미" title="wikilink">스즈키 쿠루미</a></p></td>
+<td></td>
+<td></td>
+<td><p>16기</p></td>
+<td><p>2018년 4월 2일</p></td>
+<td><p>DH</p></td>
+<td></td>
+<td><p>최연소</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ko.wikipedia.org/wiki/타구치_마나카" title="wikilink">타구치 마나카</a></p></td>
+<td></td>
+<td></td>
+<td><p>16기</p></td>
+<td><p>2018년 4월 2일</p></td>
+<td><p>DH</p></td>
+<td></td>
+<td><p>-</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ko.wikipedia.org/wiki/치바_에리이" title="wikilink">치바 에리이</a></p></td>
+<td></td>
+<td></td>
+<td><p>드래프트<br />
+2기</p></td>
+<td><p>2017년 9월 27일</p></td>
+<td><p>DH</p></td>
+<td></td>
+<td><p>4</p></td>
+<td><p>-</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ko.wikipedia.org/wiki/니시카와_레이" title="wikilink">니시카와 레이</a></p></td>
+<td></td>
+<td></td>
+<td><p>드래프트<br />
+2기</p></td>
+<td><p>2017년 9월 27일</p></td>
+<td><p>DH</p></td>
+<td></td>
+<td><p>B</p></td>
+<td><p>-</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ko.wikipedia.org/wiki/마에다_아야카" title="wikilink">마에다 아야카</a></p></td>
+<td></td>
+<td></td>
+<td><p>16기</p></td>
+<td><p>2018년 4월 2일</p></td>
+<td><p>DH</p></td>
+<td></td>
+<td><p>-</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ko.wikipedia.org/wiki/미치에다_사키" title="wikilink">미치에다 사키</a></p></td>
+<td></td>
+<td></td>
+<td><p>16기</p></td>
+<td><p>2019년 9월 12일</p></td>
+<td><p>DH</p></td>
+<td></td>
+<td><p>-</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/미야자키_미호.md" title="wikilink">미야자키 미호</a></p></td>
+<td></td>
+<td></td>
+<td><p>5기</p></td>
+<td><p>2008년 7월 13일</p></td>
+<td><p>호리프로</p></td>
+<td><p>A</p></td>
+<td><p>B</p></td>
+<td><p>K</p></td>
+<td><p>A</p></td>
+</tr>
+<tr class="odd">
+<td><p><strong><a href="../Page/무카이치_미온.md" title="wikilink">무카이치 미온</a></strong></p></td>
+<td><p><strong></strong></p></td>
+<td><p><strong></strong></p></td>
+<td><p>15기</p></td>
+<td><p>2014년 2월 24일</p></td>
+<td><p>Mama &amp; Son</p></td>
+<td></td>
+<td><p>4</p></td>
+<td><p>K</p></td>
+<td><p>AKB48 그룹 3대 총감독</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ko.wikipedia.org/wiki/야마네_스즈하" title="wikilink">야마네 스즈하</a></p></td>
+<td></td>
+<td></td>
+<td><p>16기</p></td>
+<td><p>2018년 12월 8일</p></td>
+<td><p>DH</p></td>
+<td></td>
+<td><p>-</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/요코야마_유이.md" title="wikilink">요코야마 유이</a></p></td>
+<td></td>
+<td></td>
+<td><p>9기</p></td>
+<td><p>2010년 10월 10일</p></td>
+<td><p>오오타 프로덕션</p></td>
+<td></td>
+<td><p>K</p></td>
+<td><p>A</p></td>
+<td><p>K</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+  - 팀8 겸임 멤버
+
 <!-- end list -->
 
-  - 1992년생:[요코야마 유이](../Page/요코야마_유이.md "wikilink")(팀A 최연장자)
-  - 1993년생:[미야자키 미호](../Page/미야자키_미호.md "wikilink")(팀A)
-  - 1995년생:[이리야마 안나](../Page/이리야마_안나.md "wikilink")(팀A)
-  - 1996년생:[오카베 린](../Page/오카베_린.md "wikilink")(팀A 캡틴/팀8 캡틴), [시노자키 아야나](https://ko.wikipedia.org/wiki/시노자키_아야나 "wikilink")
-  - 1997년생:[카토 레나](../Page/카토_레나.md "wikilink")(팀A)
-  - 1998년생:[무카이치 미온](../Page/무카이치_미온.md "wikilink")(팀A/AKB48 그룹 3대 총감독)
-  - 2000년생:[야마네 스즈하](https://ko.wikipedia.org/wiki/야마네_스즈하 "wikilink")(팀A), [마에다 아야카](https://ko.wikipedia.org/wiki/마에다_아야카 "wikilink")(팀A)
-  - 2001년생:[시타오 미우](../Page/시타오_미우.md "wikilink")(팀8), [오구리 유이](../Page/오구리_유이.md "wikilink")(팀8)
-  - 2002년생:[요시다 카렌](https://ko.wikipedia.org/wiki/요시다_카렌 "wikilink")(팀8)
-  - 2003년생:[오쿠모토 히나노](https://ko.wikipedia.org/wiki/오쿠모토_히나노 "wikilink")(팀8), [사토 미나미](https://ko.wikipedia.org/wiki/사토_미나미 "wikilink")(팀A), [타구치 마나카](https://ko.wikipedia.org/wiki/타구치_마나카 "wikilink")(팀A), [치바 에리이](https://ko.wikipedia.org/wiki/치바_에리이 "wikilink")(팀A), [니시카와 레이](https://ko.wikipedia.org/wiki/니시카와_레이 "wikilink")(팀A), [미치에다 사키](https://ko.wikipedia.org/wiki/미치에다_사키 "wikilink")(팀A)
-  - 2004년생:[스즈키 쿠루미](https://ko.wikipedia.org/wiki/스즈키_쿠루미 "wikilink")(팀A)
+  - **[오카베 린](../Page/오카베_린.md "wikilink")**(팀A 캡틴, 팀8 캡틴), [오구리 유이](../Page/오구리_유이.md "wikilink"), [시타오 미우](../Page/시타오_미우.md "wikilink"), [오쿠모토 히나노](https://ko.wikipedia.org/wiki/오쿠모토_히나노 "wikilink"), [요시다 카렌](https://ko.wikipedia.org/wiki/요시다_카렌 "wikilink")
 
 ### 팀K
 
   - 팀 컬러는 초록(<span style="color:green">**■**</span>)
 
+<table>
+<thead>
+<tr class="header">
+<th><p>이름</p></th>
+<th><p>일본어 표기</p></th>
+<th><p>생년월일</p></th>
+<th><p>가입기</p></th>
+<th><p>승격일</p></th>
+<th><p>소속 사무소</p></th>
+<th><p>조각</p></th>
+<th><p>비고</p></th>
+<th><p>총선거</p></th>
+<th><p>선발</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>1</p></td>
+<td><p>2</p></td>
+<td><p>3</p></td>
+<td><p>4</p></td>
+<td><p>5</p></td>
+<td><p>1</p></td>
+<td><p>2</p></td>
+<td><p>3</p></td>
+<td><p>4</p></td>
+<td><p>5</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ko.wikipedia.org/wiki/이치카와_마나미" title="wikilink">이치카와 마나미</a></p></td>
+<td></td>
+<td></td>
+<td><p>15기</p></td>
+<td><p>2014년 2월 24일</p></td>
+<td><p>DH</p></td>
+<td></td>
+<td><p>A</p></td>
+<td><p>K</p></td>
+<td><p>-</p></td>
+</tr>
+<tr class="odd">
+<td><p><strong><a href="../Page/코미야마_하루카.md" title="wikilink">코미야마 하루카</a></strong></p></td>
+<td><p><strong></strong></p></td>
+<td></td>
+<td><p>15기</p></td>
+<td><p>2014년 2월 24일</p></td>
+<td><p>DH</p></td>
+<td></td>
+<td><p>4</p></td>
+<td><p>캡틴</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ko.wikipedia.org/wiki/시모구치_히나나" title="wikilink">시모구치 히나나</a></p></td>
+<td></td>
+<td></td>
+<td><p>드래프트<br />
+1기</p></td>
+<td><p>-</p></td>
+<td><p>DH</p></td>
+<td></td>
+<td><p>K</p></td>
+<td><p>-</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ko.wikipedia.org/wiki/나가토모_아야미" title="wikilink">나가토모 아야미</a></p></td>
+<td></td>
+<td></td>
+<td><p>16기</p></td>
+<td><p>2018년 12월 8일</p></td>
+<td><p>DH</p></td>
+<td></td>
+<td><p>-</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ko.wikipedia.org/wiki/무토_오린" title="wikilink">무토 오린</a></p></td>
+<td></td>
+<td></td>
+<td><p>16기</p></td>
+<td><p>2018년 4월 2일</p></td>
+<td><p>DH</p></td>
+<td></td>
+<td><p>언니는 무토 토무</p></td>
+<td></td>
+<td><p>55</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/무토_토무.md" title="wikilink">무토 토무</a></p></td>
+<td></td>
+<td></td>
+<td><p>12기</p></td>
+<td><p>2012년 8월 24일</p></td>
+<td><p>DH</p></td>
+<td></td>
+<td><p>K</p></td>
+<td><p>A</p></td>
+<td><p>K</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/모기_시노부.md" title="wikilink">모기 시노부</a></p></td>
+<td></td>
+<td></td>
+<td><p>13기</p></td>
+<td><p>2013년 8월 24일</p></td>
+<td><p>DH</p></td>
+<td></td>
+<td><p>4</p></td>
+<td><p>K</p></td>
+<td><p>-</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ko.wikipedia.org/wiki/야스다_카나" title="wikilink">야스다 카나</a></p></td>
+<td></td>
+<td></td>
+<td><p>16기</p></td>
+<td><p>2018년 4월 2일</p></td>
+<td><p>DH</p></td>
+<td></td>
+<td><p>최연소</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ko.wikipedia.org/wiki/유모토_아미" title="wikilink">유모토 아미</a></p></td>
+<td></td>
+<td></td>
+<td><p>15기</p></td>
+<td><p>2014년 2월 24일</p></td>
+<td><p>DH</p></td>
+<td></td>
+<td><p>K</p></td>
+<td><p>-</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+  - 팀8 겸임 멤버
+
 <!-- end list -->
 
-  - 1992년생:[미네기시 미나미](../Page/미네기시_미나미.md "wikilink")(팀K/최연장자/졸업예정)
-  - 1994년생:[무토 토무](../Page/무토_토무.md "wikilink")(팀K/동생:[무토 오린](https://ko.wikipedia.org/wiki/무토_오린 "wikilink"))
-  - 1997년생:[모기 시노부](../Page/모기_시노부.md "wikilink")(팀K), [유모토 아미](https://ko.wikipedia.org/wiki/유모토_아미 "wikilink")(팀K), [오다 에리나](../Page/오다_에리나.md "wikilink")(팀8)
-  - 1998년생:[코미야마 하루카](../Page/코미야마_하루카.md "wikilink")(팀K/캡틴), [히다리토모 아야카](https://ko.wikipedia.org/wiki/히다리토모_아야카 "wikilink")(팀8)
-  - 1999년생:[이치카와 마니미](https://ko.wikipedia.org/wiki/이치카와_마니미 "wikilink")(팀K), [하루모토 유키](https://ko.wikipedia.org/wiki/하루모토_유키 "wikilink")
-  - 2000년생:[무토 오린](https://ko.wikipedia.org/wiki/무토_오린 "wikilink")(팀K/언니:[무토 토무](../Page/무토_토무.md "wikilink")), [나가토모 아야미](https://ko.wikipedia.org/wiki/나가토모_아야미 "wikilink")(팀K), [하시모토 하루나](https://ko.wikipedia.org/wiki/하시모토_하루나 "wikilink")(팀8), [쿠라노오 나루미](../Page/쿠라노오_나루미.md "wikilink")(팀8)
-  - 2001년생:[시모구치 히나나](https://ko.wikipedia.org/wiki/시모구치_히나나 "wikilink")(팀K), [요코야마 유이](https://ko.wikipedia.org/wiki/요코야마_유이_\(2001년\) "wikilink")(팀8)
-  - 2002년생:[야스다 카나](https://ko.wikipedia.org/wiki/야스다_카나 "wikilink")(팀K), [야마다 쿄카](https://ko.wikipedia.org/wiki/야마다_쿄카 "wikilink")(팀8)
+  - [오다 에리나](../Page/오다_에리나.md "wikilink"), [쿠라노오 나루미](../Page/쿠라노오_나루미.md "wikilink"), [하시모토 하루나](https://ko.wikipedia.org/wiki/하시모토_하루나 "wikilink"), [하루모토 유키](https://ko.wikipedia.org/wiki/하루모토_유키 "wikilink"), [히다리토모 아야카](https://ko.wikipedia.org/wiki/히다리토모_아야카 "wikilink"), [야마다 쿄카](https://ko.wikipedia.org/wiki/야마다_쿄카 "wikilink"), [요코야마 유이](https://ko.wikipedia.org/wiki/요코야마_유이_\(2001년\) "wikilink")
 
 ### 팀B
 
@@ -440,7 +792,7 @@
 <td></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
-<td><p>DH</p></td>
+<td><p>주식회사JPEG</p></td>
 <td></td>
 <td><p>B</p></td>
 <td><p>대만 유학생</p></td>
@@ -567,14 +919,14 @@
 <td><p><strong><a href="../Page/오카베_린.md" title="wikilink">오카베 린</a></strong></p></td>
 <td><p><strong>岡部麟</strong></p></td>
 <td><p><strong></strong></p></td>
-<td><p>-|DHH</p></td>
+<td><p>-</p></td>
+<td><p>DH</p></td>
 <td><p>이라바키 현 대표<br />
 팀8 최연장자<br />
 <strong>팀A 캡틴</strong><br />
 <strong>팀8 캡틴</strong></p></td>
 <td></td>
 <td><p>58</p></td>
-<td><p>-</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/오쿠하라_히나코" title="wikilink">오쿠하라 히나코</a></p></td>
@@ -714,7 +1066,7 @@
 <td><p>야마구치 현 대표<br />
 <strong>팀A</strong></p></td>
 <td></td>
-<td><p>-</p></td>
+<td><p>2</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/시오바라_카린" title="wikilink">시오바라 카린</a></p></td>
@@ -1238,7 +1590,7 @@
 <td><p>2007년 6월 22일</p></td>
 <td><p>K</p></td>
 <td><p>-</p></td>
-<td><p>동생은 <a href="https://ko.wikipedia.org/wiki/다카다_시오리" title="wikilink">다카다 시오리</a> (전 <a href="../Page/SKE48.md" title="wikilink">SKE48</a>)</p></td>
+<td><p>동생은 <a href="https://ko.wikipedia.org/wiki/다카다_시오리" title="wikilink">다카다 시오리</a> (전 <a href="../Page/SKE48.md" title="wikilink">SKE48</a> 팀S)</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1912,7 +2264,7 @@ Cee my Nail 오너</p></td>
 <td><p>2015년 5월 14일</p></td>
 <td><p>B</p></td>
 <td><p><a href="../Page/노기자카46.md" title="wikilink">노기자카46 합동회사</a><br />
-업무제휴:A.M.E Entertainment</p></td>
+업무 제휴 : A.M.E Entertainment</p></td>
 <td><p>2014년 4월 24일부터 겸임해제까지 <a href="../Page/노기자카46.md" title="wikilink">노기자카46</a> 겸임</p></td>
 <td><p>14위</p></td>
 <td></td>
@@ -2496,7 +2848,7 @@ Cee my Nail 오너</p></td>
 <td><p>전 <a href="../Page/SKE48.md" title="wikilink">SKE48</a> 팀S<br />
 구 팀4<br />
 전 팀B 캡틴<br />
-아사이 유우카(<a href="../Page/SKE48.md" title="wikilink">SKE48</a> 팀E)의 고종사촌언니</p></td>
+<a href="https://ko.wikipedia.org/wiki/아사이_유우카" title="wikilink">아사이 유우카</a>(<a href="../Page/SKE48.md" title="wikilink">SKE48</a> 팀E)의 고종사촌언니</p></td>
 <td><p>22위</p></td>
 <td></td>
 </tr>
@@ -2530,7 +2882,7 @@ Cee my Nail 오너</p></td>
 <td><p>3기</p></td>
 <td><p>2017년 12월 31일</p></td>
 <td><p>B</p></td>
-<td><p>프로덕션 오기</p></td>
+<td><p>(프로덕션 오기)</p></td>
 <td><p>구 팀A</p></td>
 <td><p>1위</p></td>
 </tr>
@@ -2923,6 +3275,17 @@ Cee my Nail 오너</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="even">
+<td><p><a href="../Page/미네기시_미나미.md" title="wikilink">미네기시 미나미</a></p></td>
+<td></td>
+<td><p>1기</p></td>
+<td><p>2020년 4월 2일</p></td>
+<td><p>K</p></td>
+<td><p>프로덕션 오기<br />
+업무 제휴 : Mama &amp; Son</p></td>
+<td><p>-</p></td>
+<td><p>41</p></td>
+</tr>
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>

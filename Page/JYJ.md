@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [JYJ](https://ko.wikipedia.org/wiki/JYJ).
 
 
-**JYJ**는 [동방신기](../Page/동방신기.md "wikilink") 출신의 [김재중](../Page/김재중.md "wikilink"), [김준수로](../Page/김준수_\(가수\).md "wikilink") 구성된 3인조 퍼포먼스형 남성 그룹이다. [JYJ](../Page/JYJ.md "wikilink")는 [동방신기](../Page/동방신기.md "wikilink") 출신의 재중 (Jaejoong), 유천 (Yuchun), 준수 (Junsu)의 영어 알파벳 첫 글자를 따서 지은 이름이다. 본래 2003년 5인조 남성 그룹 [동방신기](../Page/동방신기.md "wikilink")로 데뷔해 활동했으나 [SM 엔터테인먼트와의](../Page/SM_엔터테인먼트.md "wikilink") 불공정한 전속계약에 문제를 제기하며 독립했다.\[1\]\[2\]\[3\]\[4\] 공식적으로 JYJ라는 이름으로 2010년부터 [씨제스엔터테인먼트](../Page/씨제스엔터테인먼트.md "wikilink") 소속으로 활동하고 있다.\[5\] 그러던 중, 2019년 4월 멤버 박유천이 [필로폰](../Page/메스암페타민.md "wikilink") 투약을 한 사실이 밝혀져 4월 23일 소속사와의 전속 계약이 해지되면서 박유천은 JYJ에서도 탈퇴하였다.
+**JYJ**는 [동방신기](../Page/동방신기.md "wikilink") 출신의 [김재중](../Page/김재중.md "wikilink"), [김준수로](../Page/김준수_\(가수\).md "wikilink") 구성된 2인조 퍼포먼스형 남성 그룹이다. [JYJ](../Page/JYJ.md "wikilink")는 [동방신기](../Page/동방신기.md "wikilink") 출신의 재중 (Jaejoong), 유천 (Yuchun), 준수 (Junsu)의 영어 알파벳 첫 글자를 따서 지은 이름이다. 본래 2003년 5인조 남성 그룹 [동방신기](../Page/동방신기.md "wikilink")로 데뷔해 활동했으나 [SM 엔터테인먼트와의](../Page/SM_엔터테인먼트.md "wikilink") 불공정한 전속계약에 문제를 제기하며 독립했다.\[1\]\[2\]\[3\]\[4\] 공식적으로 JYJ라는 이름으로 2010년부터 [씨제스엔터테인먼트](../Page/씨제스엔터테인먼트.md "wikilink") 소속으로 활동하고 있다.\[5\] 그러던 중, 2019년 4월 멤버 박유천이 [필로폰](../Page/메스암페타민.md "wikilink") 투약을 한 사실이 밝혀져 4월 23일 소속사와의 전속 계약이 해지되면서 박유천은 JYJ에서도 탈퇴하였다.
 
 현재는 박유천의 탈퇴로 인해 그룹 활동이 사실상 중단된 상황이다.
 
@@ -92,7 +92,7 @@
 
   -
 
-[JYJ](https://ko.wikipedia.org/wiki/분류:JYJ "wikilink") [분류:2인조 음악 그룹](https://ko.wikipedia.org/wiki/분류:2인조_음악_그룹 "wikilink") [분류:2010년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2010년_결성된_음악_그룹 "wikilink") [분류:대한민국의 팝 가수](https://ko.wikipedia.org/wiki/분류:대한민국의_팝_가수 "wikilink") [분류:한국어 가수](https://ko.wikipedia.org/wiki/분류:한국어_가수 "wikilink") [분류:일본어 가수](https://ko.wikipedia.org/wiki/분류:일본어_가수 "wikilink") [분류:한국어 음악 그룹](https://ko.wikipedia.org/wiki/분류:한국어_음악_그룹 "wikilink") [분류:영어 음악 그룹](https://ko.wikipedia.org/wiki/분류:영어_음악_그룹 "wikilink") [분류:대한민국의 팝 음악 그룹](https://ko.wikipedia.org/wiki/분류:대한민국의_팝_음악_그룹 "wikilink") [분류:2010년대 음악 그룹](https://ko.wikipedia.org/wiki/분류:2010년대_음악_그룹 "wikilink")
+[JYJ](https://ko.wikipedia.org/wiki/분류:JYJ "wikilink") [분류:남성 듀오](https://ko.wikipedia.org/wiki/분류:남성_듀오 "wikilink") [분류:2010년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2010년_결성된_음악_그룹 "wikilink") [분류:대한민국의 팝 가수](https://ko.wikipedia.org/wiki/분류:대한민국의_팝_가수 "wikilink") [분류:한국어 가수](https://ko.wikipedia.org/wiki/분류:한국어_가수 "wikilink") [분류:일본어 가수](https://ko.wikipedia.org/wiki/분류:일본어_가수 "wikilink") [분류:한국어 음악 그룹](https://ko.wikipedia.org/wiki/분류:한국어_음악_그룹 "wikilink") [분류:영어 음악 그룹](https://ko.wikipedia.org/wiki/분류:영어_음악_그룹 "wikilink") [분류:대한민국의 팝 음악 그룹](https://ko.wikipedia.org/wiki/분류:대한민국의_팝_음악_그룹 "wikilink") [분류:2010년대 음악 그룹](https://ko.wikipedia.org/wiki/분류:2010년대_음악_그룹 "wikilink")
 
 1.
 2.  ["JYJ, 日 에이벡스 상대 손배소 승소".](http://www.yonhapnews.co.kr/bulletin/2013/01/18/0200000000AKR20130118177700005.HTML?did=1179m) Yonhap News. 2013-01-18.

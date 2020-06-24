@@ -60,7 +60,7 @@ T10에 IWP 업그레이드를 한 것이 해리어 T12 훈련기이다.
   - [UK MoD Release lauds No. 1 Squadron & No. 3 Squadron's role in Afghanistan with GR7As (August 10, 2005)](https://web.archive.org/web/20060101201938/http://news.mod.uk/news/press/news_headline_story.asp?newsItem_id=3462)
   - [Defense Industry Daily: AV-8B Harrier finding Success in Iraq (March 30, 2005)](http://www.defenseindustrydaily.com/2005/03/av8b-harrier-finding-success-in-iraq/index.php)
 
-[분류:영국의 전투기](https://ko.wikipedia.org/wiki/분류:영국의_전투기 "wikilink") [분류:함재기](https://ko.wikipedia.org/wiki/분류:함재기 "wikilink") [분류:공격기](https://ko.wikipedia.org/wiki/분류:공격기 "wikilink") [분류:수직 이착륙 항공기](https://ko.wikipedia.org/wiki/분류:수직_이착륙_항공기 "wikilink") [분류:1985년 첫 비행한 항공기](https://ko.wikipedia.org/wiki/분류:1985년_첫_비행한_항공기 "wikilink") [분류:단발 제트기](https://ko.wikipedia.org/wiki/분류:단발_제트기 "wikilink")
+[분류:영국의 전투기](https://ko.wikipedia.org/wiki/분류:영국의_전투기 "wikilink") [분류:함재기](https://ko.wikipedia.org/wiki/분류:함재기 "wikilink") [분류:공격기](https://ko.wikipedia.org/wiki/분류:공격기 "wikilink") [분류:수직 이착륙 항공기](https://ko.wikipedia.org/wiki/분류:수직_이착륙_항공기 "wikilink") [분류:1985년 첫 비행한 항공기](https://ko.wikipedia.org/wiki/분류:1985년_첫_비행한_항공기 "wikilink") [분류:단발 제트기](https://ko.wikipedia.org/wiki/분류:단발_제트기 "wikilink") [분류:고익기](https://ko.wikipedia.org/wiki/분류:고익기 "wikilink")
 
 1.
 2.  [Harrier GR9 VSTOL Strike Aircraft](http://www.airforce-technology.com/projects/harriergr9/) . airforce-technology.com

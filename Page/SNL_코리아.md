@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [SNL 코리아](https://ko.wikipedia.org/wiki/SNL_코리아).
 
 
-《**SNL 코리아**》(Saturday Night Live Korea)는 [tvN](https://ko.wikipedia.org/wiki/tvN "wikilink")에서 방영되었던 대한민국의 텔레비전 코미디 프로그램이다. [미국 SNL에](../Page/새터데이_나이트_라이브.md "wikilink") 방송 포맷 그대로 한동안 대한민국 최초로 [생방송](../Page/생방송.md "wikilink") 코메디 프로그램을 방송하였다. 2011년 12월 3일에 방영을 시작해 2017년 11월 18일에 종영되었다.
+《**SNL 코리아**》(Saturday Night Live Korea)는 [tvN](https://ko.wikipedia.org/wiki/tvN "wikilink")에서 방영되었던 대한민국의 텔레비전 코미디 프로그램이다. [미국 SNL의](../Page/새터데이_나이트_라이브.md "wikilink") 방송 포맷 그대로 한동안 대한민국 최초로 [생방송](../Page/생방송.md "wikilink") 코미디 프로그램을 방송하였다. 2011년 12월 3일에 방영을 시작해 2017년 11월 18일에 종영되었다.
 
 ## 크루
 
@@ -162,19 +162,19 @@ SNL logo 2015.png|시즌7 이후의 SNL 코리아 로고\[2\]
 
   - 문제니
 
-[문재인](../Page/문재인.md "wikilink") 대통령을 패러디했으며, [민주통합당](https://ko.wikipedia.org/wiki/민주통합당 "wikilink") 반장 선거 후보이다. 옛 이름인 화나는 1기 1\~2화, 4\~6화, 2기 1\~2화에 사용되다가 2기 3화부터 문제니로 바뀌었다. 이 캐릭터로 분한 크루는 [정이랑](../Page/정이랑.md "wikilink") (1\~2화, 4화) → [신동엽](https://ko.wikipedia.org/wiki/신동엽 "wikilink") (3화) → [김민교](https://ko.wikipedia.org/wiki/김민교 "wikilink") (5화부터 고정) 등이다. 배 부분에는 [민주통합당](https://ko.wikipedia.org/wiki/민주통합당 "wikilink") 심볼을 삽입했다.
+[문재인](../Page/문재인.md "wikilink") 대통령을 패러디했으며, [민주통합당](../Page/민주당_\(대한민국,_2011년\).md "wikilink") 반장 선거 후보이다. 옛 이름인 화나는 1기 1\~2화, 4\~6화, 2기 1\~2화에 사용되다가 2기 3화부터 문제니로 바뀌었다. 이 캐릭터로 분한 크루는 [정이랑](../Page/정이랑.md "wikilink") (1, 2, 4화) → [신동엽](https://ko.wikipedia.org/wiki/신동엽 "wikilink") (3화) → [김민교](https://ko.wikipedia.org/wiki/김민교 "wikilink") (5화부터 고정) 등이다. 배 부분에는 [민주통합당](../Page/민주당_\(대한민국,_2011년\).md "wikilink") 심볼을 삽입했다.
 
   - 앰비
 
-[이명박](https://ko.wikipedia.org/wiki/이명박 "wikilink") 전 대통령을 패러디했으며, [옛 한나라당의](../Page/자유한국당.md "wikilink") 반장이다. 이 캐릭터로 분한 크루는 [김원해](../Page/김원해.md "wikilink") (1화, 3화부터 고정) → [이상훈](../Page/이상훈.md "wikilink") (2화) → 김원해 등이다. 배 부분에는 [청와대](../Page/청와대.md "wikilink") 로고를 삽입했다.
+[이명박](https://ko.wikipedia.org/wiki/이명박 "wikilink") 전 대통령을 패러디했으며, [옛 한나라당의](../Page/자유한국당.md "wikilink") 반장이다. 이 캐릭터로 분한 크루는 [김원해](../Page/김원해.md "wikilink") (1화, 3화부터 고정) → [이상훈](../Page/이상훈.md "wikilink") (2화) → [김원해](../Page/김원해.md "wikilink")이다. 배 부분에는 [청와대](../Page/청와대.md "wikilink") 로고를 삽입했다.
 
   - 구라돌이
 
-[이정희](https://ko.wikipedia.org/wiki/이정희 "wikilink") 18대 대선 후보를 패러디했으며, [통합진보당](../Page/통합진보당.md "wikilink")의 반장 선거 후보이다. 구라돌이는 1기 2화와 6화에서 수염을 달고 나오는데, [강기갑](../Page/강기갑.md "wikilink") 전 의원을 패러디했다. 이 캐릭터로 분한 크루는 [이한위](../Page/이한위.md "wikilink") (1\~3화) → [고경표](https://ko.wikipedia.org/wiki/고경표 "wikilink") (4화) → [권혁수](https://ko.wikipedia.org/wiki/권혁수 "wikilink") (5\~6화) → [정이랑](../Page/정이랑.md "wikilink") (2기 1화부터 고정) 등이다. 배 부분에는 [통합진보당](../Page/통합진보당.md "wikilink") 심볼을 삽입했다.
+[이정희](https://ko.wikipedia.org/wiki/이정희 "wikilink") 18대 대선 후보를 패러디했으며, [통합진보당](../Page/통합진보당.md "wikilink")의 반장 선거 후보이다. 구라돌이는 1기 2화와 6화에서 수염을 달고 나오는데, [강기갑](../Page/강기갑.md "wikilink") 전 의원을 패러디했다. 이 캐릭터로 분한 크루는 [이한위](../Page/이한위.md "wikilink") (1\~3화) → [고경표](https://ko.wikipedia.org/wiki/고경표 "wikilink") (4화) → [권혁수](https://ko.wikipedia.org/wiki/권혁수 "wikilink") (5, 6화) → [정이랑](../Page/정이랑.md "wikilink") (2기 1화부터 고정) 등이다. 배 부분에는 [통합진보당](../Page/통합진보당.md "wikilink") 심볼을 삽입했다.
 
   - 안쳤어
 
-[안철수](../Page/안철수.md "wikilink") 18대 대선 후보를 패러디했으며, [무소속](https://ko.wikipedia.org/wiki/무소속 "wikilink")의 반장 선거 후보이다. 10화부터 출연하지 않았다가 11화에는 문제니 선거 광고에서 특별 출연하였다. 또한 12화 역시 특별 출연하였다. 이후 3기 3화부터 특별 출연하였고, 이 캐릭터로 분한 크루는 [이상훈](../Page/이상훈.md "wikilink") (2기 1화부터 고정)이다. 배 부분에는 [서울대학교](https://ko.wikipedia.org/wiki/서울대학교 "wikilink") 심볼을 삽입했다.
+[안철수](../Page/안철수.md "wikilink")를 패러디했으며, [무소속](https://ko.wikipedia.org/wiki/무소속 "wikilink") 반장 선거 후보이다. 10화부터 출연하지 않았다가 11화에는 문제니 선거 광고에서 특별 출연하였다. 또한 12화 역시 특별 출연하였다. 이후 3기 3화부터 특별 출연하였고, 이 캐릭터로 분한 크루는 [이상훈](../Page/이상훈.md "wikilink") (2기 1화부터 고정)이다. 배 부분에는 [서울대학교](https://ko.wikipedia.org/wiki/서울대학교 "wikilink") 심볼을 삽입했다.
 
   - 정으니
 

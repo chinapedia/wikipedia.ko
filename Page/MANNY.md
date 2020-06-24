@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [MANNY](https://ko.wikipedia.org/wiki/MANNY).
 
 
-《**MANNY**》는 [대한민국](../Page/대한민국.md "wikilink")의 [텔레비전](../Page/텔레비전.md "wikilink") [드라마이다](../Page/텔레비전_드라마.md "wikilink").
+《**MANNY**》는 [대한민국](../Page/대한민국.md "wikilink")의 [텔레비전](../Page/텔레비전.md "wikilink") [드라마로](../Page/텔레비전_드라마.md "wikilink") [tvN](https://ko.wikipedia.org/wiki/tvN "wikilink")에서 [미니시리즈](../Page/미니시리즈.md "wikilink")의 첫 번째 작품이다.
 
 ## 소개
 

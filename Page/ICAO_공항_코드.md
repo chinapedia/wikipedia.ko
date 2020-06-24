@@ -91,9 +91,21 @@
   - [중화인민공화국](../Page/중화인민공화국.md "wikilink") (PRC)
       - [베이징 수도 국제공항](https://ko.wikipedia.org/wiki/베이징_수도_국제공항 "wikilink") ( Beijing - Bejing Capital International Airport [ZBAA](https://ko.wikipedia.org/wiki/ZBAA "wikilink")
   - [뉴질랜드](../Page/뉴질랜드.md "wikilink") (New Zealand)
-      - [오클랜드 국제공항](https://ko.wikipedia.org/wiki/오클랜드_국제공항 "wikilink") (Auckland Airport
+      - [오클랜드 국제공항](https://ko.wikipedia.org/wiki/오클랜드_국제공항 "wikilink") (Auckland Airport)
 
 [NZAA](https://ko.wikipedia.org/wiki/NZAA "wikilink")
+
+  -   - [웰링턴 국제공항](../Page/웰링턴_국제공항.md "wikilink")
+
+(Welington International Airport) [NZWN](https://ko.wikipedia.org/wiki/NZWN "wikilink")
+
+  -   - [퀸스타운 공항](../Page/퀸스타운_공항.md "wikilink")
+
+(Qeenstown Airport) [NZQN](https://ko.wikipedia.org/wiki/NZQN "wikilink")
+
+  -   - [크라이스트 처치 공항](https://ko.wikipedia.org/wiki/크라이스트_처치_공항 "wikilink")
+
+(Christchurch Airport) [NZCH](https://ko.wikipedia.org/wiki/NZCH "wikilink")
 
 ## 각주
 

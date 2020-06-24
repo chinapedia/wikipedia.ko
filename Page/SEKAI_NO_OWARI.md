@@ -8,7 +8,7 @@
 ## 구성원
 
   - FUKASE \[FUKASE SATOSHI\] (후카세 사토시) () [보컬](https://ko.wikipedia.org/wiki/보컬 "wikilink"), [기타](../Page/기타.md "wikilink"), 작사, 작곡, 연출, 디자인 담당.
-  - NAKAJIN \[NAKAJIMA SHINITI\] (나카지마 신이치) () 기타, 보컬, [코러스](https://ko.wikipedia.org/wiki/코러스 "wikilink"), 엔지니어링 담당.
+  - NAKAJIN \[NAKAJIMA SHINIJI\] (나카지마 신이치) () 기타, 보컬, [코러스](https://ko.wikipedia.org/wiki/코러스 "wikilink"), 엔지니어링 담당.
   - SAORI \[FUJISAKI SAORI\] (후지사키 사오리) () [피아노](../Page/피아노.md "wikilink"), [건반 악기](https://ko.wikipedia.org/wiki/건반_악기 "wikilink"), 무대연출 담당.
   - DJ LOVE [DJ](../Page/디스크_자키.md "wikilink") 담당.
 
@@ -48,4 +48,4 @@
   -
   - [세카이노 오와리 - 유튜브](https://www.youtube.com/user/sekainoowarijp)
 
-[분류:일본의 록 밴드](https://ko.wikipedia.org/wiki/분류:일본의_록_밴드 "wikilink") [분류:2007년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2007년_결성된_음악_그룹 "wikilink") [분류:2011년 데뷔](https://ko.wikipedia.org/wiki/분류:2011년_데뷔 "wikilink") [분류:4인조 음악 그룹](https://ko.wikipedia.org/wiki/분류:4인조_음악_그룹 "wikilink") [분류:혼성 음악 그룹](https://ko.wikipedia.org/wiki/분류:혼성_음악_그룹 "wikilink") [분류:NHK 홍백가합전 출연자](https://ko.wikipedia.org/wiki/분류:NHK_홍백가합전_출연자 "wikilink") [분류:Mnet 아시안 뮤직 어워드 수상 음악가](https://ko.wikipedia.org/wiki/분류:Mnet_아시안_뮤직_어워드_수상_음악가 "wikilink")
+[분류:일본의 록 밴드](https://ko.wikipedia.org/wiki/분류:일본의_록_밴드 "wikilink") [분류:2007년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2007년_결성된_음악_그룹 "wikilink") [분류:4인조 음악 그룹](https://ko.wikipedia.org/wiki/분류:4인조_음악_그룹 "wikilink") [분류:혼성 음악 그룹](https://ko.wikipedia.org/wiki/분류:혼성_음악_그룹 "wikilink") [분류:NHK 홍백가합전 출연자](https://ko.wikipedia.org/wiki/분류:NHK_홍백가합전_출연자 "wikilink") [분류:Mnet 아시안 뮤직 어워드 수상 음악가](https://ko.wikipedia.org/wiki/분류:Mnet_아시안_뮤직_어워드_수상_음악가 "wikilink")

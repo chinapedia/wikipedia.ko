@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [드래곤X](https://ko.wikipedia.org/wiki/드래곤X).
 
 
-**드래곤X**(DragonX)는 [대한민국](../Page/대한민국.md "wikilink")의 [리그 오브 레전드](../Page/리그_오브_레전드.md "wikilink"), [클래시 로얄](../Page/클래시_로얄.md "wikilink"), 왕자영요 [프로게임단](https://ko.wikipedia.org/wiki/프로게임단 "wikilink")이다. 이전에는 [스타크래프트 II팀도](https://ko.wikipedia.org/wiki/스타크래프트_II "wikilink") 운영하였다.
+**드래곤X**(DragonX)는 [대한민국](../Page/대한민국.md "wikilink")의 [리그 오브 레전드](../Page/리그_오브_레전드.md "wikilink"), [클래시 로얄](../Page/클래시_로얄.md "wikilink") [프로게임단](https://ko.wikipedia.org/wiki/프로게임단 "wikilink")이다. 이전에는 [스타크래프트 II와](https://ko.wikipedia.org/wiki/스타크래프트_II "wikilink") 왕자영요팀도 운영하였다.
 
 ## 내력
 
@@ -258,6 +258,7 @@
   - 2020년
       - 우리은행 리그 오브 레전드 챔피언스 코리아 서머 스플릿 2020 3위
       - 우리은행 리그 오브 레전드 챔피언스 코리아 스프링 스플릿 2020 3위
+      - 2020 미드 시즌 컵 조별리그
 
 ### 월드 오브 워크래프트
 

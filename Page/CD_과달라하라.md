@@ -50,6 +50,6 @@
 
 ## 외부 링크
 
-  - [CD 과달라하라 공식 홈페이지](http://www.chivasdecorazon.com.mx/)
+  - [CD 과달라하라 공식 홈페이지](https://web.archive.org/web/20110516144534/http://www.chivasdecorazon.com.mx/)
 
 [분류:멕시코의 축구단](https://ko.wikipedia.org/wiki/분류:멕시코의_축구단 "wikilink") [\*](https://ko.wikipedia.org/wiki/분류:CD_과달라하라 "wikilink") [과달라하라](https://ko.wikipedia.org/wiki/분류:강등된_적이_없는_축구단 "wikilink") [분류:1906년 설립된 축구단](https://ko.wikipedia.org/wiki/분류:1906년_설립된_축구단 "wikilink")

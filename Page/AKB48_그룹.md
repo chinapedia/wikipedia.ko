@@ -249,12 +249,12 @@
       - [JKT48](http://www.jkt48.com/)
       - [BNK48](https://www.bnk48.com/#/home)
       - [MNL48](https://mnl48.hallohallo.com/)
-      - [AKB48 Team SH](http://www.akb48-china.com/pro/pages/index)
+      - [AKB48 Team SH](https://web.archive.org/web/20200113144341/http://www.akb48-china.com/pro/pages/index)
       - [AKB48 Team TP](http://www.akb48teamtp.com/)
       - [SGO48](http://sgo48.vn/)
       - [CGM48](https://www.cgm48official.com/)
       - [DEL48](http://www.del48.com/)
-      - [MUB48](http://www.mub48.com/)
+      - [MUB48](https://web.archive.org/web/20190620111710/https://www.mub48.com/)
   - [“누군가를 위해서” 프로젝트](https://www.akb48.co.jp/darekanotameni/)
   - [악수회 벗의 모임](https://48g.jp)
   - [AKB48 그룹 티켓 센터](https://ticket.akb48-group.com/)
@@ -269,7 +269,7 @@
 
 [AKB48_그룹](https://ko.wikipedia.org/wiki/분류:AKB48_그룹 "wikilink")
 
-1.  대양 ([세토 내해](https://ko.wikipedia.org/wiki/세토_내해 "wikilink")), 7개 현 ([효고현](../Page/효고현.md "wikilink") · [오카야마현](../Page/오카야마현.md "wikilink") · [히로시마현](../Page/히로시마현.md "wikilink") · [야마구치현](../Page/야마구치현.md "wikilink") · [에히메현](../Page/에히메현.md "wikilink") · [가가와현](../Page/가가와현.md "wikilink") · [도쿠시마현](../Page/도쿠시마현.md "wikilink"))을 두루 활동하며, 멤버의 활동 거점은 [히로시마 시이다](https://ko.wikipedia.org/wiki/히로시마_시 "wikilink").
+1.  대양 ([세토 내해](https://ko.wikipedia.org/wiki/세토_내해 "wikilink")), 7개 현 ([효고현](../Page/효고현.md "wikilink") · [오카야마현](../Page/오카야마현.md "wikilink") · [히로시마현](../Page/히로시마현.md "wikilink") · [야마구치현](../Page/야마구치현.md "wikilink") · [에히메현](../Page/에히메현.md "wikilink") · [가가와현](../Page/가가와현.md "wikilink") · [도쿠시마현](../Page/도쿠시마현.md "wikilink"))을 두루 활동하며, 멤버의 활동 거점은 [히로시마시](../Page/히로시마시.md "wikilink")이다.
 2.
 3.
 4.

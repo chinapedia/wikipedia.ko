@@ -44,6 +44,6 @@
 
 <references />
 
-[분류:2010년 설립된 스포츠 클럽](https://ko.wikipedia.org/wiki/분류:2010년_설립된_스포츠_클럽 "wikilink") [분류:2012년 폐지](https://ko.wikipedia.org/wiki/분류:2012년_폐지 "wikilink") [분류:해체한 스타크래프트 II 프로게임단](https://ko.wikipedia.org/wiki/분류:해체한_스타크래프트_II_프로게임단 "wikilink") [SlayerS_(e스포츠)](https://ko.wikipedia.org/wiki/분류:SlayerS_\(e스포츠\) "wikilink")
+[분류:2010년 설립된 스포츠 클럽](https://ko.wikipedia.org/wiki/분류:2010년_설립된_스포츠_클럽 "wikilink") [분류:2012년 폐지](https://ko.wikipedia.org/wiki/분류:2012년_폐지 "wikilink") [분류:해체한 스타크래프트 II 프로게임단](https://ko.wikipedia.org/wiki/분류:해체한_스타크래프트_II_프로게임단 "wikilink") [SlayerS](https://ko.wikipedia.org/wiki/분류:SlayerS "wikilink")
 
 1.  [스타2 슬레이어즈 전격해체, 김가연 구단주 입장밝혀](http://www.inven.co.kr/webzine/news/?news=48785)《inven》, 2012년 10월 17일

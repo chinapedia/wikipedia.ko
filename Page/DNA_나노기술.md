@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [DNA 나노기술](https://ko.wikipedia.org/wiki/DNA_나노기술).
 
 
-**DNA 나노기술**에서는 우리가 일반적으로 DNA를 생명활동에서 유전적 정보를 전달하는 전달자로서의 역할이 아닌 하나의 물리적 재료서 사용한다. 특기 DNA 나노기술에서는 [DNA](../Page/DNA.md "wikilink")가 가지고 있는 주요 특성인 분자인식(molecular recognition)과 [핵산](../Page/핵산.md "wikilink")의 특징을 이용하여 새로운 물질을 만드는데 목표를 둔다. 좁은 의미에서 DNA를 다루지만 넓게는 이와 동일한 원리를 이용하여 [RNA](../Page/RNA.md "wikilink")나 [PNA](https://ko.wikipedia.org/wiki/PNA "wikilink")를 다루어 핵산 나노기술(nucleic acid nanotechnology)라고 불리기도 한다.
+**DNA 나노기술**에서는 우리가 일반적으로 DNA를 생명활동에서 유전적 정보를 전달하는 전달자로서의 역할이 아닌 하나의 물리적 재료서 사용한다. 특히 DNA 나노기술에서는 [DNA](../Page/DNA.md "wikilink")가 가지고 있는 주요 특성인 분자인식(molecular recognition)과 [핵산](../Page/핵산.md "wikilink")의 특징을 이용하여 새로운 물질을 만드는데 목표를 둔다. 좁은 의미에서 DNA를 다루지만 넓게는 이와 동일한 원리를 이용하여 [RNA](../Page/RNA.md "wikilink")나 [PNA](https://ko.wikipedia.org/wiki/PNA "wikilink")를 다루어 핵산 나노기술(nucleic acid nanotechnology)라고 불리기도 한다.
 
 ## 원리
 

@@ -205,4 +205,4 @@ A10 2004 Insecure Configuration Management
 
   - [OWASP 프로젝트](http://www.owasp.org)
 
-[분류:네트워크 보안](https://ko.wikipedia.org/wiki/분류:네트워크_보안 "wikilink") [분류:웹 취약점 공격](https://ko.wikipedia.org/wiki/분류:웹_취약점_공격 "wikilink")
+[분류:네트워크 보안](https://ko.wikipedia.org/wiki/분류:네트워크_보안 "wikilink") [분류:웹 취약점 공격](https://ko.wikipedia.org/wiki/분류:웹_취약점_공격 "wikilink") [분류:컴퓨터 표준](https://ko.wikipedia.org/wiki/분류:컴퓨터_표준 "wikilink")

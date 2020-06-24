@@ -83,7 +83,7 @@
 ## 외부 링크
 
   -
-[슈퍼스타K](https://ko.wikipedia.org/wiki/분류:슈퍼스타K "wikilink") [분류:엠넷에서 방영된 프로그램](https://ko.wikipedia.org/wiki/분류:엠넷에서_방영된_프로그램 "wikilink") [분류:대한민국의 리얼리티 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:대한민국의_리얼리티_텔레비전_프로그램 "wikilink") [분류:대한민국의 음악 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:대한민국의_음악_텔레비전_프로그램 "wikilink") [분류:대한민국의 음악 경연회](https://ko.wikipedia.org/wiki/분류:대한민국의_음악_경연회 "wikilink") [분류:2016년 폐지](https://ko.wikipedia.org/wiki/분류:2016년_폐지 "wikilink")
+[슈퍼스타K](https://ko.wikipedia.org/wiki/분류:슈퍼스타K "wikilink") [분류:엠넷의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:엠넷의_텔레비전_프로그램 "wikilink") [분류:대한민국의 리얼리티 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:대한민국의_리얼리티_텔레비전_프로그램 "wikilink") [분류:대한민국의 음악 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:대한민국의_음악_텔레비전_프로그램 "wikilink") [분류:대한민국의 음악 경연회](https://ko.wikipedia.org/wiki/분류:대한민국의_음악_경연회 "wikilink") [분류:2016년 폐지](https://ko.wikipedia.org/wiki/분류:2016년_폐지 "wikilink")
 
 1.  [왕비호 마지막 독설 ‘이경규-허각’…무서워서vs케이블 출신](http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=106&oid=213&aid=0000071621) TV리포트 2011년 1월 3일
 2.  [식지 않는 오디션 프로 인기… 왜?](http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=106&oid=022&aid=0002256388) 세계일보 2011년

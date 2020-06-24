@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [현대 RB](https://ko.wikipedia.org/wiki/현대_RB).
 
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:Korea-seoulbuse_1980~90s.jpg "wikilink") **현대 RB** (Hyundai RB)는 [현대자동차](https://ko.wikipedia.org/wiki/현대자동차 "wikilink")의 준대형 상용 [버스](../Page/버스.md "wikilink") 차종이며 미쓰비시 후소의 MP, MS계열 리어엔진 버스의 프레임과 차축, 베어링, 엔진과 트랜스미션등을 라이센스 생산하고 차체는 골조식 세미 모노코크 방식으로 자체 개발한 차량이다. 후속 차종은 [1985년](../Page/1985년.md "wikilink") [2월](../Page/2월.md "wikilink")에 출시된 [현대 에어로와](../Page/현대_에어로.md "wikilink"), [1991년](../Page/1991년.md "wikilink") [2월](../Page/2월.md "wikilink")에 출시된 [현대 에어로시티이다](../Page/현대_에어로시티.md "wikilink").
+[섬네일](https://ko.wikipedia.org/wiki/파일:Korea-seoulbuse_1980~90s.jpg "wikilink") **현대 RB** (Hyundai RB)는 [현대자동차](https://ko.wikipedia.org/wiki/현대자동차 "wikilink")의 준대형 상용 [버스](../Page/버스.md "wikilink") 차종이며, 미쓰비시 후소의 MP, MS계열 리어엔진 버스의 프레임, 차축, 베어링, 엔진, 트랜스미션 등을 라이센스 생산하고 차체는 골조식 세미 모노코크 방식으로 자체 개발한 차량이다. 후속 차종은 [1985년](../Page/1985년.md "wikilink") [2월](../Page/2월.md "wikilink")에 출시된 [현대 에어로와](../Page/현대_에어로.md "wikilink") [1991년](../Page/1991년.md "wikilink") [2월](../Page/2월.md "wikilink")에 출시된 [현대 에어로시티다](../Page/현대_에어로시티.md "wikilink").
 
 ## 세부 종류
 

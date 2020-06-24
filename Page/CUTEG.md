@@ -23,7 +23,6 @@
 
 #### 대한민국
 
-  - Frantic([EZ2DJ](https://ko.wikipedia.org/wiki/EZ2DJ "wikilink") 6th TraX : Self Evolution, 2004년): [대한민국](../Page/대한민국.md "wikilink")의 개발사 [어뮤즈월드](../Page/어뮤즈월드.md "wikilink")의 [리듬게임](https://ko.wikipedia.org/wiki/리듬게임 "wikilink") [EZ2DJ](https://ko.wikipedia.org/wiki/EZ2DJ "wikilink")의 배경 영상을 맡았다. 제작자 본인은 이 작업물에 대해 자신의 [블로그](../Page/블로그.md "wikilink")를 통해 '열심히 그렸지만 곡이 솔직히 너무 구렸다'라는 소회를 밝혔다.\[2\]
   - [확산성 밀리언아서](../Page/확산성_밀리언아서.md "wikilink"): 특이형 세라 카드의 일러스트 작업을 맡았다.
 
 #### 일본
@@ -43,4 +42,3 @@
 [분류:1984년 태어남](https://ko.wikipedia.org/wiki/분류:1984년_태어남 "wikilink") [분류:살아있는 사람](https://ko.wikipedia.org/wiki/분류:살아있는_사람 "wikilink") [분류:대한민국의 만화가](https://ko.wikipedia.org/wiki/분류:대한민국의_만화가 "wikilink") [분류:대한민국의 삽화가](https://ko.wikipedia.org/wiki/분류:대한민국의_삽화가 "wikilink")
 
 1.  시드지기 [\[작가근황\] CUTEG:日本 CUTEG님 삽화의 신작 라이트노벨 출간](http://www.seednovel.com/pb/view.php?code=information&didx=101769&page=2), 《시드노벨》 2011년 1월 3일 작성, 2011년 4월 18일 확인.
-2.  [해당 게시물 사본](http://toez2dj.net/zeroboard/zboard.php?id=c_ez2dj2&no=54758) 2004년 8월 22일 작성, 2012년 3월 17일 확인.

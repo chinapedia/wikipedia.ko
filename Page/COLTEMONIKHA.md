@@ -87,7 +87,7 @@
 
 <references />
 
-[분류:2006년 데뷔](https://ko.wikipedia.org/wiki/분류:2006년_데뷔 "wikilink") [분류:일본의 전자 음악 그룹](https://ko.wikipedia.org/wiki/분류:일본의_전자_음악_그룹 "wikilink") [분류:혼성 듀오](https://ko.wikipedia.org/wiki/분류:혼성_듀오 "wikilink") [분류:시부야계 음악가](https://ko.wikipedia.org/wiki/분류:시부야계_음악가 "wikilink") [분류:2006년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2006년_결성된_음악_그룹 "wikilink")
+[분류:일본의 전자 음악 그룹](https://ko.wikipedia.org/wiki/분류:일본의_전자_음악_그룹 "wikilink") [분류:혼성 듀오](https://ko.wikipedia.org/wiki/분류:혼성_듀오 "wikilink") [분류:시부야계 음악가](https://ko.wikipedia.org/wiki/분류:시부야계_음악가 "wikilink") [분류:2006년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2006년_결성된_음악_그룹 "wikilink")
 
 1.  혹은 [몬데그린](https://ko.wikipedia.org/wiki/몬데그린 "wikilink")효과라고 부른다. [소라미미](https://ko.wikipedia.org/wiki/소라미미 "wikilink")는 일본어 한정
 2.  콜테모니카를 일본어 음절로 거꾸로 읽은것.

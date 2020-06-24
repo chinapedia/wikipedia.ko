@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [CBeebies](https://ko.wikipedia.org/wiki/CBeebies).
 
 
-**CBeebies**는 영국의 방송사 [BBC](https://ko.wikipedia.org/wiki/BBC "wikilink")가 운영하는 미취학 아동 대상 전문 채널이다.
+**CBeebies**(씨비비스)는 영국의 방송사 [BBC](https://ko.wikipedia.org/wiki/BBC "wikilink")가 운영하는 미취학 아동 대상 텔레비전 채널이다.
 
-[2002년](../Page/2002년.md "wikilink") [2월 11일](../Page/2월_11일.md "wikilink") [CBBC와](../Page/CBBC_\(텔레비전_채널\).md "wikilink") 별도의 채널로 분리되면서 개국하였다. 이 때부터 [BBC Four와](https://ko.wikipedia.org/wiki/BBC_Four "wikilink") 채널을 공유하며 오전 6시\~오후 7시까지 방송하였다.
+2002년 2월 11일 [CBBC와](../Page/CBBC_\(텔레비전_채널\).md "wikilink") 별도의 채널로 분리되면서 개국하였다. 이 때부터 [BBC Four와](https://ko.wikipedia.org/wiki/BBC_Four "wikilink") 채널을 공유하며 오전 6시\~오후 7시까지 방송하였다.
 
-[2007년](../Page/2007년.md "wikilink")부터 해외에서도 방송을 시작하여 현재 국내에서도 송출중이다. [2015년](../Page/2015년.md "wikilink")에는 [KBS 키즈에서](../Page/KBS_키즈.md "wikilink") 콘텐츠를 공급하여 한국어방송 및 영어방송을 편성하여 방송중이다.
+2007년부터 해외에서도 방송을 시작하여 현재 국내에서도 송출중이다. 2015년에는 [KBS 키즈에서](../Page/KBS_키즈.md "wikilink") 콘텐츠를 공급하여 한국어방송 및 영어방송을 편성하여 방송중이다.
 
 ## 방영 프로그램
 
@@ -42,6 +42,6 @@
 
   -
 
-  - [CBeebies 아시아 홈페이지](http://www.cbeebies.com/asia)
+  - [CBeebies 아시아 웹사이트](http://www.cbeebies.com/asia)
 
 [분류:BBC의 텔레비전 네트워크](https://ko.wikipedia.org/wiki/분류:BBC의_텔레비전_네트워크 "wikilink") [분류:텔레비전 어린이 방송](https://ko.wikipedia.org/wiki/분류:텔레비전_어린이_방송 "wikilink") [분류:2002년 설립된 텔레비전 방송국과 채널](https://ko.wikipedia.org/wiki/분류:2002년_설립된_텔레비전_방송국과_채널 "wikilink")

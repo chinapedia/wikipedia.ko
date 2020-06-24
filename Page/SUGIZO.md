@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [SUGIZO](https://ko.wikipedia.org/wiki/SUGIZO).
 
 
-**스기조**(Sugizo)는 [일본](../Page/일본.md "wikilink")의 음악가로, [록 밴드](https://ko.wikipedia.org/wiki/록_밴드 "wikilink") [엑스 재팬과](https://ko.wikipedia.org/wiki/엑스_재팬 "wikilink") [LUNA SEA의](../Page/LUNA_SEA.md "wikilink") 맴버이다. [1969년](../Page/1969년.md "wikilink") [7월 8일](../Page/7월_8일.md "wikilink") [일본](../Page/일본.md "wikilink") [가나가와현](../Page/가나가와현.md "wikilink") [하다노 시에서](https://ko.wikipedia.org/wiki/하다노_시 "wikilink") 태어났다. 본명은 **스기하라 유네**(杉原有音).
+**스기조**(Sugizo)는 [일본](../Page/일본.md "wikilink")의 음악가로, [록 밴드](https://ko.wikipedia.org/wiki/록_밴드 "wikilink") [엑스 재팬과](https://ko.wikipedia.org/wiki/엑스_재팬 "wikilink") [LUNA SEA의](../Page/LUNA_SEA.md "wikilink") 맴버이다. [1969년](../Page/1969년.md "wikilink") [7월 8일](../Page/7월_8일.md "wikilink") [일본](../Page/일본.md "wikilink") [가나가와현](../Page/가나가와현.md "wikilink") [하다노시](../Page/하다노시.md "wikilink")에서 태어났다. 본명은 **스기하라 유네**(杉原有音).
 
 ## 생애
 

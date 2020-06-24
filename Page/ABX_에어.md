@@ -37,7 +37,7 @@
   - [ABX 에어에 대한 정보](https://web.archive.org/web/20110916071957/http://www.airlinestravelinfo.com/about-abx-air/)
   - [ABX 에어 뉴스](https://web.archive.org/web/20110903131559/http://www.airlinestravelinfo.com/abx-air-news/)
 
-[분류:미국의 항공사](https://ko.wikipedia.org/wiki/분류:미국의_항공사 "wikilink") [분류:1980년 설립](https://ko.wikipedia.org/wiki/분류:1980년_설립 "wikilink") [분류:화물 항공사](https://ko.wikipedia.org/wiki/분류:화물_항공사 "wikilink") [분류:IATA 회원](https://ko.wikipedia.org/wiki/분류:IATA_회원 "wikilink")
+[분류:미국의 항공사](https://ko.wikipedia.org/wiki/분류:미국의_항공사 "wikilink") [분류:1980년 설립](https://ko.wikipedia.org/wiki/분류:1980년_설립 "wikilink") [분류:화물 항공사](https://ko.wikipedia.org/wiki/분류:화물_항공사 "wikilink") [분류:IATA 회원](https://ko.wikipedia.org/wiki/분류:IATA_회원 "wikilink") [분류:오하이오주의 기업](https://ko.wikipedia.org/wiki/분류:오하이오주의_기업 "wikilink")
 
 1.
 2.  <http://www.abxair.com/about/press-releases/2007-05-01b.cfm>

@@ -12,7 +12,7 @@
 ## 외부 링크
 
   - [sky.com](https://www.sky.com)
-  - [Sky Media UK](https://www.skymedia.co.uk)
+  - [Sky Media UK](https://web.archive.org/web/20190920205256/https://www.skymedia.co.uk/)
   - [Customer Service](https://www.sky.com/help/home)
   - [Sky Vision](https://skyvision.sky.com/)
   - [List of Channels on Sky](https://www.sky.com/tv-guide)

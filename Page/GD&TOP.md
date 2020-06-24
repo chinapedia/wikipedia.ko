@@ -108,7 +108,7 @@
   - [GD\&TOP 공식 사이트](http://www.ygbigbang.com/gdtop/)
   - [YG 엔터테인먼트](http://ygfamily.com/)
 
-[분류:빅뱅 (음악 그룹)](https://ko.wikipedia.org/wiki/분류:빅뱅_\(음악_그룹\) "wikilink") [분류:지드래곤](https://ko.wikipedia.org/wiki/분류:지드래곤 "wikilink") [분류:T.O.P](https://ko.wikipedia.org/wiki/분류:T.O.P "wikilink") [분류:2010년 데뷔](https://ko.wikipedia.org/wiki/분류:2010년_데뷔 "wikilink") [분류:YG 엔터테인먼트 소속](https://ko.wikipedia.org/wiki/분류:YG_엔터테인먼트_소속 "wikilink") [분류:K-pop 음악 그룹](https://ko.wikipedia.org/wiki/분류:K-pop_음악_그룹 "wikilink") [분류:대한민국의 래퍼](https://ko.wikipedia.org/wiki/분류:대한민국의_래퍼 "wikilink") [분류:유닛 음악 그룹](https://ko.wikipedia.org/wiki/분류:유닛_음악_그룹 "wikilink") [분류:2인조 음악 그룹](https://ko.wikipedia.org/wiki/분류:2인조_음악_그룹 "wikilink") [분류:2010년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2010년_결성된_음악_그룹 "wikilink")
+[분류:빅뱅](https://ko.wikipedia.org/wiki/분류:빅뱅 "wikilink") [분류:지드래곤](https://ko.wikipedia.org/wiki/분류:지드래곤 "wikilink") [분류:T.O.P](https://ko.wikipedia.org/wiki/분류:T.O.P "wikilink") [분류:YG 엔터테인먼트 소속](https://ko.wikipedia.org/wiki/분류:YG_엔터테인먼트_소속 "wikilink") [분류:K-pop 음악 그룹](https://ko.wikipedia.org/wiki/분류:K-pop_음악_그룹 "wikilink") [분류:대한민국의 래퍼](https://ko.wikipedia.org/wiki/분류:대한민국의_래퍼 "wikilink") [분류:유닛 음악 그룹](https://ko.wikipedia.org/wiki/분류:유닛_음악_그룹 "wikilink") [분류:남성 듀오](https://ko.wikipedia.org/wiki/분류:남성_듀오 "wikilink") [분류:2010년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2010년_결성된_음악_그룹 "wikilink")
 
 1.
 2.

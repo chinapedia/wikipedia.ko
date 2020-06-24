@@ -15,7 +15,7 @@ Sovey, J. S., Rawlin, V. K., and Patterson, M. J.: "Ion Propulsion Development P
 
 William R. Kerslake and Louis R. Ignaczak, *Development and Flight History of The SERT II Spacecraft,* paper AIAA-92-3516, 28th Joint Propulsion Conference and Exhibit, [Nashville, Tennessee](../Page/내슈빌.md "wikilink"), July 6–8, 1992; [available at NTIS](http://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/19660008296_1966008296.pdf) as NASA Technical Memorandum 105636. (accessed July 1, 2010).
 
-## 더 보기
+## 같이 보기
 
   - [로버트 고다드](https://ko.wikipedia.org/wiki/로버트_고다드 "wikilink")
   - [딥 스페이스 1호](https://ko.wikipedia.org/wiki/딥_스페이스_1호 "wikilink")
@@ -33,7 +33,7 @@ William R. Kerslake and Louis R. Ignaczak, *Development and Flight History of Th
   - [Results from SERT-1 ion rocket flight test](http://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/19650009681_1965009681.pdf)
   - [Thrust measurement of SERT-1 ion thrustors](http://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/19660013633_1966013633.pdf)
 
-[분류:관측 로켓](https://ko.wikipedia.org/wiki/분류:관측_로켓 "wikilink") [분류:NASA의 우주 탐사선](https://ko.wikipedia.org/wiki/분류:NASA의_우주_탐사선 "wikilink")
+[분류:관측 로켓](https://ko.wikipedia.org/wiki/분류:관측_로켓 "wikilink") [분류:미국 항공 우주국의 우주 탐사선](https://ko.wikipedia.org/wiki/분류:미국_항공_우주국의_우주_탐사선 "wikilink")
 
 1.  [NASA - Glenn Contributions to Deep Space 1](http://www.nasa.gov/centers/glenn/about/history/ds1.html)
 2.  Ronald J. Cybulski, Daniel M. Shellhammer, Robert R. LoveII, Edward J. Domino, and Joseph T. Kotnik, [RESULTS FROM SERT I ION ROCKET FLIGHT TEST](http://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/19700072262_1970072262.pdf), NASA Technical Note D2718 (1965).

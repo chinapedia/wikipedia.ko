@@ -57,6 +57,6 @@
 
 <references/>
 
-[분류:2012년 드라마](https://ko.wikipedia.org/wiki/분류:2012년_드라마 "wikilink") [분류:채널A 월화 드라마](https://ko.wikipedia.org/wiki/분류:채널A_월화_드라마 "wikilink")
+[분류:2012년 드라마](https://ko.wikipedia.org/wiki/분류:2012년_드라마 "wikilink") [분류:채널A 월화드라마](https://ko.wikipedia.org/wiki/분류:채널A_월화드라마 "wikilink")
 
 1.

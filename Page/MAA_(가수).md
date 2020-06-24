@@ -5,7 +5,7 @@
 
 ## 생애
 
-MAA 는 1986년 1월 25일 [요코스카 시에서](https://ko.wikipedia.org/wiki/요코스카_시 "wikilink") [미군](../Page/미군.md "wikilink") 아버지와 [일본인](../Page/일본인.md "wikilink") 어머니 사이에서 태어났다. 모델로 활동을 시작하여 *Visual Shock*라는 TV 프로그램의 쇼 호스트로 활동하였다.\[1\]
+MAA 는 1986년 1월 25일 [요코스카시](../Page/요코스카시.md "wikilink")에서 [미군](../Page/미군.md "wikilink") 아버지와 [일본인](../Page/일본인.md "wikilink") 어머니 사이에서 태어났다. 모델로 활동을 시작하여 *Visual Shock*라는 TV 프로그램의 쇼 호스트로 활동하였다.\[1\]
 
 ### 2006–2010: MarBell
 

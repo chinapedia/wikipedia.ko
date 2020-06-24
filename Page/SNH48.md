@@ -3067,7 +3067,7 @@ SNH000662</p></td>
 
   - [SNH48 공식 블로그](https://web.archive.org/web/20131004214256/http://e.t.qq.com/snh48cn) - [텐센트](../Page/텐센트.md "wikilink")
 
-[SNH48](https://ko.wikipedia.org/wiki/분류:SNH48 "wikilink") [분류:중국의 음악 그룹](https://ko.wikipedia.org/wiki/분류:중국의_음악_그룹 "wikilink") [분류:중국의 걸 그룹](https://ko.wikipedia.org/wiki/분류:중국의_걸_그룹 "wikilink") [분류:2012년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2012년_결성된_음악_그룹 "wikilink") [분류:2013년 데뷔](https://ko.wikipedia.org/wiki/분류:2013년_데뷔 "wikilink") [분류:10인조 이상 음악 그룹](https://ko.wikipedia.org/wiki/분류:10인조_이상_음악_그룹 "wikilink") [분류:2010년대 음악 그룹](https://ko.wikipedia.org/wiki/분류:2010년대_음악_그룹 "wikilink")
+[SNH48](https://ko.wikipedia.org/wiki/분류:SNH48 "wikilink") [분류:중국의 음악 그룹](https://ko.wikipedia.org/wiki/분류:중국의_음악_그룹 "wikilink") [분류:중국의 걸 그룹](https://ko.wikipedia.org/wiki/분류:중국의_걸_그룹 "wikilink") [분류:2012년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2012년_결성된_음악_그룹 "wikilink") [분류:10인조 이상 음악 그룹](https://ko.wikipedia.org/wiki/분류:10인조_이상_음악_그룹 "wikilink") [분류:2010년대 음악 그룹](https://ko.wikipedia.org/wiki/분류:2010년대_음악_그룹 "wikilink")
 
 1.
 2.  <http://wenwen.soso.com/z/q399935916.htm>

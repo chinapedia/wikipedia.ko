@@ -51,7 +51,7 @@
 
   - [이탈리아 해군](../Page/이탈리아_해군.md "wikilink")
 
-## 더 보기
+## 같이 보기
 
   - [노동 1호](https://ko.wikipedia.org/wiki/노동_1호 "wikilink") - 북한판 폴라리스
   - [무수단 미사일](../Page/무수단_미사일.md "wikilink") - 북한판 폴라리스

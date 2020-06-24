@@ -35,7 +35,7 @@
 
 ### 현재 선수 명단
 
-[2020년](../Page/2020년.md "wikilink") [4월 30일](../Page/4월_30일.md "wikilink") 기준
+[2020년](../Page/2020년.md "wikilink") [5월 12일](../Page/5월_12일.md "wikilink") 기준
 
 #### 임대 및 군 복무 중인 선수 명단
 
@@ -192,7 +192,7 @@
 
 | 연도    | 유니폼 스폰서                                                    | 메인 스폰서                                                                            | 유니폼 상징                           |
 | ----- | ---------------------------------------------------------- | --------------------------------------------------------------------------------- | -------------------------------- |
-| 2013년 | [자코](https://ko.wikipedia.org/wiki/자코 "wikilink")          | [KB국민은행](https://ko.wikipedia.org/wiki/KB국민은행 "wikilink")                         |                                  |
+| 2013년 | [자코](https://ko.wikipedia.org/wiki/자코 "wikilink")          | [KB국민은행](../Page/KB국민은행.md "wikilink")                                            |                                  |
 | 2014년 | [자이크로](https://ko.wikipedia.org/wiki/자이크로 "wikilink")\[9\] | [You Go\! We Go\!](https://ko.wikipedia.org/wiki/You_Go!_We_Go! "wikilink")\[10\] |                                  |
 | 2015년 | [자이크로](https://ko.wikipedia.org/wiki/자이크로 "wikilink")      | [Sukhavati](https://ko.wikipedia.org/wiki/Sukhavati "wikilink")\[11\]             |                                  |
 | 2016년 | [아스토레](https://ko.wikipedia.org/wiki/아스토레 "wikilink")<ref> | rowspan="1" </ref>                                                                | [안양시](../Page/안양시.md "wikilink") |

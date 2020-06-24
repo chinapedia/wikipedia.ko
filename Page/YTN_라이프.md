@@ -30,4 +30,4 @@
   - [YTN 라이프 홈페이지](http://life.ytn.co.kr/)
   - [YTN 라이프 인터넷 HD Live](http://life.ytn.co.kr/hd/hd_live.php)
 
-[분류:YTN](https://ko.wikipedia.org/wiki/분류:YTN "wikilink") [분류:2011년 설립된 텔레비전 방송국과 채널](https://ko.wikipedia.org/wiki/분류:2011년_설립된_텔레비전_방송국과_채널 "wikilink") [분류:2015년 폐지된 텔레비전 방송국과 채널](https://ko.wikipedia.org/wiki/분류:2015년_폐지된_텔레비전_방송국과_채널 "wikilink") [분류:2017년 폐지된 텔레비전 방송국과 채널](https://ko.wikipedia.org/wiki/분류:2017년_폐지된_텔레비전_방송국과_채널 "wikilink") [분류:대한민국의 텔레비전 케이블 방송국](https://ko.wikipedia.org/wiki/분류:대한민국의_텔레비전_케이블_방송국 "wikilink") [분류:날씨](https://ko.wikipedia.org/wiki/분류:날씨 "wikilink")
+[분류:YTN](https://ko.wikipedia.org/wiki/분류:YTN "wikilink") [분류:2011년 설립된 텔레비전 방송국과 채널](https://ko.wikipedia.org/wiki/분류:2011년_설립된_텔레비전_방송국과_채널 "wikilink") [분류:2017년 폐지된 텔레비전 방송국과 채널](https://ko.wikipedia.org/wiki/분류:2017년_폐지된_텔레비전_방송국과_채널 "wikilink") [분류:대한민국의 텔레비전 케이블 방송국](https://ko.wikipedia.org/wiki/분류:대한민국의_텔레비전_케이블_방송국 "wikilink") [분류:날씨](https://ko.wikipedia.org/wiki/분류:날씨 "wikilink")

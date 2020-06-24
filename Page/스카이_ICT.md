@@ -10,7 +10,7 @@
   - [2012년](../Page/2012년.md "wikilink") [1월 1일](../Page/1월_1일.md "wikilink") : 스카이라이프를 통한 [SDTV](../Page/디지털_표준_텔레비전.md "wikilink") 채널의 송신을 개시.
   - 2012년 [8월 16일](../Page/8월_16일.md "wikilink") : [C\&M](https://ko.wikipedia.org/wiki/C&M "wikilink")을 통한 [디지털](../Page/디지털_텔레비전.md "wikilink") [케이블 TV](../Page/케이블_텔레비전.md "wikilink") 채널의 송신을 개시.
   - [2014년](../Page/2014년.md "wikilink") [8월 1일](../Page/8월_1일.md "wikilink") : 채널 이름을 스카이 ICT로 변경.
-  - [2019년](../Page/2019년.md "wikilink") [4월 30일](../Page/4월_30일.md "wikilink") : 만성 운영 적자와 더불어 채널 수익 하락에 따라 채널이 매각 처분하게 되면서 폐국. 폐국 이후에는 채널명이 **위라이크**(WeLike)로 변경.
+  - [2019년](../Page/2019년.md "wikilink") [4월 30일](../Page/4월_30일.md "wikilink") : 만성 운영 적자와 더불어 채널 수익 하락에 따라 채널이 매각 처분하게 되면서 폐국. 폐국 이후에는 채널명이 **[위라이크](https://ko.wikipedia.org/wiki/위라이크 "wikilink")**(WeLike)로 변경.
 
 ## 프로그램
 

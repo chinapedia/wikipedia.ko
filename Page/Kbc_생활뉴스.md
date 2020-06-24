@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Kbc 생활뉴스](https://ko.wikipedia.org/wiki/Kbc_생활뉴스).
 
 
-**kbc 생활뉴스**는 [SBS](../Page/SBS.md "wikilink")의 광주/전남권 네트워크 방송사인 [kbc에서](../Page/광주방송.md "wikilink") 평일 오전 10시 20분에 방송되는 생활뉴스 프로그램이다.
+**kbc 생활뉴스**는 [SBS](../Page/SBS.md "wikilink")의 광주/전남권 네트워크 방송사인 [kbc에서](../Page/광주방송.md "wikilink") 평일 오전 10시 20분에 방송되었던 생활뉴스 프로그램이다.
 
 ## 앵커
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [JIBS \(DMB\)](https://ko.wikipedia.org/wiki/JIBS_\(DMB\)).
 
 
-**JIBS**는 제주도를 가시청권으로 하는 [지상파DMB](https://ko.wikipedia.org/wiki/지상파DMB "wikilink") 방송국이다. [제주국제자유도시방송](../Page/제주국제자유도시방송.md "wikilink")이 사업자로서 운영하고 있다.
+**JIBS**는 제주도를 가시청권으로 하는 [지상파DMB](https://ko.wikipedia.org/wiki/지상파DMB "wikilink") 방송국이다. [제주방송](../Page/제주방송.md "wikilink")이 사업자로서 운영하고 있다.
 
 ## 채널 구성
 

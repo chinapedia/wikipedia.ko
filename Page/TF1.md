@@ -1,9 +1,7 @@
 > This article is converted from Wikipedia: [TF1](https://ko.wikipedia.org/wiki/TF1).
 
 
-**TF1**()는 TF1 그룹이 운영하는 [프랑스](../Page/프랑스.md "wikilink") 최대 민영 TV 채널이자 프랑스에서 가장 오래된 채널이다. 또한, 세계 최초로 텔레비전 방송을 시작하였다. 프랑스 방송 시장 중 24%를 차지하고 있으며, 프랑스의 국제 뉴스 채널인 [프랑스 24의](../Page/프랑스_24.md "wikilink") 주주중 하나였다. 자매 채널로 [LCI](https://ko.wikipedia.org/wiki/LCI "wikilink"), [TV Breizh](https://ko.wikipedia.org/wiki/TV_Breizh "wikilink"), [TFX](https://ko.wikipedia.org/wiki/TFX "wikilink"), [TMC](https://ko.wikipedia.org/wiki/TMC "wikilink"), [TF1 Series Films](https://ko.wikipedia.org/wiki/TF1_Series_Films "wikilink") 등의 채널을 보유하고 있다.
-
-TF1은 [하이브리드 브로드캐스트 브로드밴드 TV](https://ko.wikipedia.org/wiki/하이브리드_브로드캐스트_브로드밴드_TV "wikilink")(Hybrid Broadcast Broadband TV, HbbTV,\[1\]) 사업의 공식 후원사이며, 방송 TV 및 단일 사용자 인터페이스의 광대역 멀티미디어 애플리케이션 수신을 위한 하이브리드 셋톱 박스의 개방형 유럽 표준을 촉진하고 있다.
+그대는ㅆㅂ놈이다 **TF1**()는 TF1 그룹이 운영하는 [프랑스](../Page/프랑스.md "wikilink") 최대 민영 TV 채널이자 프랑스에서 가장 오래된 채널이다. 또한, 세계 최초로 텔레비전 방송을 시작하였다. 프랑스 방송 시장 중 24%를 차지하고 있으며, 프랑스의 국제 뉴스 채널인 [프랑스 24의](../Page/프랑스_24.md "wikilink") 주주중 하나였다. 자매 채널로 [LCI](https://ko.wikipedia.org/wiki/LCI "wikilink"), [TV Breizh](https://ko.wikipedia.org/wiki/TV_Breizh "wikilink"), [TFX](https://ko.wikipedia.org/wiki/TFX "wikilink"), [TMC](https://ko.wikipedia.org/wiki/TMC "wikilink"), [TF1 Series Films](https://ko.wikipedia.org/wiki/TF1_Series_Films "wikilink") 등의 채널을 보유하고 있다. 그대는 TF1은 [하이브리드 브로드캐스트 브로드밴드 TV](https://ko.wikipedia.org/wiki/하이브리드_브로드캐스트_브로드밴드_TV "wikilink")(Hybrid Broadcast Broadband TV, HbbTV,\[1\]) 사업의 공식 후원사이며, 방송 TV 및 단일 사용자 인터페이스의 광대역 멀티미디어 애플리케이션 수신을 위한 하이브리드 셋톱 박스의 개방형 유럽 표준을 촉진하고 있다.
 
 ## 역사
 

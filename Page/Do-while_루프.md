@@ -178,15 +178,13 @@ echo $factorial;
 
 아래는 do until 문법만을 보여준다.
 
-``` PLI
-declare counter   fixed initial(5);
-declare factorial fixed initial(1);
-do until(counter<=0);
-  factorial = factorial * counter;
-  counter = counter - 1;
-  end;
-put(factorial);
-```
+    declare counter   fixed initial(5);
+    declare factorial fixed initial(1);
+    do until(counter<=0);
+      factorial = factorial * counter;
+      counter = counter - 1;
+      end;
+    put(factorial);
 
 ### 래킷
 

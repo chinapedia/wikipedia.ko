@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [MVP \(e스포츠\)](https://ko.wikipedia.org/wiki/MVP_\(e스포츠\)).
 
 
-**MVP**(Most Valuable Player)는 [대한민국](../Page/대한민국.md "wikilink")의 [카운터-스트라이크: 글로벌 오펜시브](../Page/카운터-스트라이크:_글로벌_오펜시브.md "wikilink") 프로게임단이다. 이전에는 [스타크래프트 II와](https://ko.wikipedia.org/wiki/스타크래프트_II "wikilink") [히어로즈 오브 더 스톰](../Page/히어로즈_오브_더_스톰.md "wikilink"), [오버워치](../Page/오버워치.md "wikilink"), [도타 2](../Page/도타_2.md "wikilink"), [리그 오브 레전드](../Page/리그_오브_레전드.md "wikilink"), [배틀그라운드](../Page/배틀그라운드_\(비디오_게임\).md "wikilink"), 왕자영요, APEX 레전드 프로게임단을 운영했다.
+**MVP**(Most Valuable Player)는 [대한민국](../Page/대한민국.md "wikilink")의 프로게임단이다. 이전에는 [스타크래프트 II와](https://ko.wikipedia.org/wiki/스타크래프트_II "wikilink") [히어로즈 오브 더 스톰](../Page/히어로즈_오브_더_스톰.md "wikilink"), [오버워치](../Page/오버워치.md "wikilink"), [도타 2](../Page/도타_2.md "wikilink"), [리그 오브 레전드](../Page/리그_오브_레전드.md "wikilink"), [배틀그라운드](../Page/배틀그라운드_\(비디오_게임\).md "wikilink"), 왕자영요, APEX 레전드, [카운터-스트라이크: 글로벌 오펜시브](../Page/카운터-스트라이크:_글로벌_오펜시브.md "wikilink") 프로게임단을 운영했으나 2020년 5월 현재 어떤 종목도 운영하지 않고 있다.
 
 ## 역사
 
@@ -204,25 +204,11 @@
   - 2018년 6월 30일 아프리카TV PUBG 리그 시즌 2 13위
   - 2018년 8월 26일 서울컵 OGN 슈퍼매치 메인매치 18위
 
-## 소속선수
-
-### 카운터 스트라이크: 글로벌 오펜시브
-
-  - 감독 : [임현석](../Page/임현석.md "wikilink")
-  - 코치 : 편선호 권순우
-
-| 이름  | 아이디  |
-| --- | ---- |
-| 김구택 | stax |
-| 김민수 | glow |
-| 구상민 | Rb   |
-| 이승원 | k1Ng |
-
 ## 역대 감독
 
 스타크래프트 II
 
-  - 초대 감독: [최윤상](https://ko.wikipedia.org/wiki/최윤상 "wikilink") (2010년 10월 \~ 2013년 9월)
+  - 초대 감독: 최윤상 (2010년 10월 \~ 2013년 9월)
   - 2대 감독: [임현석](../Page/임현석.md "wikilink") (2013년 9월 \~ 2014년 7월)
   - 3대 감독: [이형섭](../Page/이형섭.md "wikilink") (2014년 8월 \~ 2016년 10월)
 
@@ -237,7 +223,7 @@
 카운터-스트라이크: 글로벌 오펜시브
 
   - 초대 감독 : [김광복](../Page/김광복.md "wikilink") (2015년 11월 \~ 2019년)
-  - 2대 감독 : [임현석](../Page/임현석.md "wikilink") (2019년 \~ 현재)
+  - 2대 감독 : [임현석](../Page/임현석.md "wikilink") (2019년 \~ 2020년 5월)
 
 리그 오브 레전드
 

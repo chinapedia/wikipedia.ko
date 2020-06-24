@@ -138,7 +138,7 @@
 </tr>
 <tr class="even">
 <td><p>4월 9일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/지바_시" title="wikilink">지바 시</a></p></td>
+<td><p><a href="../Page/지바시.md" title="wikilink">지바시</a></p></td>
 <td></td>
 <td><p><a href="../Page/마쿠하리_멧세.md" title="wikilink">마쿠하리 멧세</a></p></td>
 <td><p>지코, <a href="../Page/AOA_(음악_그룹).md" title="wikilink">AOA</a>, <a href="https://ko.wikipedia.org/wiki/김성규" title="wikilink">김성규</a>, <a href="../Page/러블리즈.md" title="wikilink">러블리즈</a>, <a href="https://ko.wikipedia.org/wiki/Monsta_X" title="wikilink">몬스타엑스</a>, <a href="../Page/니콜_(1991년).md" title="wikilink">니콜</a>, <a href="../Page/엔플라잉.md" title="wikilink">N.Flying</a>, <a href="https://ko.wikipedia.org/wiki/WINNER" title="wikilink">WINNER</a></p></td>

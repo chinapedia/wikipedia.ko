@@ -49,4 +49,4 @@
   - [Smile.dk의 공식사이트](http://www.smiledkmusic.com/)
   - [Smile.dk 의 팬 페이지](http://www.smiledkfans.com)
 
-[분류:1998년 데뷔](https://ko.wikipedia.org/wiki/분류:1998년_데뷔 "wikilink") [분류:스웨덴의 걸 그룹](https://ko.wikipedia.org/wiki/분류:스웨덴의_걸_그룹 "wikilink") [분류:스웨덴의 댄스 음악 그룹](https://ko.wikipedia.org/wiki/분류:스웨덴의_댄스_음악_그룹 "wikilink") [분류:EMI 뮤직 재팬 음악가](https://ko.wikipedia.org/wiki/분류:EMI_뮤직_재팬_음악가 "wikilink") [분류:비마니 시리즈 관련 인물](https://ko.wikipedia.org/wiki/분류:비마니_시리즈_관련_인물 "wikilink") [분류:영어 가수](https://ko.wikipedia.org/wiki/분류:영어_가수 "wikilink") [분류:여성 듀오](https://ko.wikipedia.org/wiki/분류:여성_듀오 "wikilink")
+[분류:스웨덴의 걸 그룹](https://ko.wikipedia.org/wiki/분류:스웨덴의_걸_그룹 "wikilink") [분류:스웨덴의 댄스 음악 그룹](https://ko.wikipedia.org/wiki/분류:스웨덴의_댄스_음악_그룹 "wikilink") [분류:EMI 뮤직 재팬 음악가](https://ko.wikipedia.org/wiki/분류:EMI_뮤직_재팬_음악가 "wikilink") [분류:비마니 시리즈 관련 인물](https://ko.wikipedia.org/wiki/분류:비마니_시리즈_관련_인물 "wikilink") [분류:영어 가수](https://ko.wikipedia.org/wiki/분류:영어_가수 "wikilink") [분류:여성 듀오](https://ko.wikipedia.org/wiki/분류:여성_듀오 "wikilink")

@@ -60,4 +60,4 @@
   - [B-24 리버레이터](https://ko.wikipedia.org/wiki/B-24_리버레이터 "wikilink")
   - [하인켈 He 277](https://ko.wikipedia.org/wiki/하인켈_He_277 "wikilink")
 
-[분류:제2차 세계 대전의 일본 폭격기](https://ko.wikipedia.org/wiki/분류:제2차_세계_대전의_일본_폭격기 "wikilink") [분류:1941년 첫 비행한 항공기](https://ko.wikipedia.org/wiki/분류:1941년_첫_비행한_항공기 "wikilink")
+[분류:제2차 세계 대전의 일본 폭격기](https://ko.wikipedia.org/wiki/분류:제2차_세계_대전의_일본_폭격기 "wikilink") [분류:1941년 첫 비행한 항공기](https://ko.wikipedia.org/wiki/분류:1941년_첫_비행한_항공기 "wikilink") [분류:중익기](https://ko.wikipedia.org/wiki/분류:중익기 "wikilink")

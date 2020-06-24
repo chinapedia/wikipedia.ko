@@ -43,7 +43,7 @@
 <li>구단 최초 <a href="https://ko.wikipedia.org/wiki/감독대행" title="wikilink">감독대행</a> (1988)</li>
 <li>1989시즌부터 정식 감독으로 승격</li>
 <li>구단 최초 <a href="../Page/전국축구선수권대회.md" title="wikilink"><span style="color:#ED4000;">전국선수권 우승</span></a> 감독 (<a href="../Page/전국축구선수권대회.md" title="wikilink"><span style="color:#ED4000;">1988</span></a>)</li>
-<li>구단 2번째 <a href="https://ko.wikipedia.org/wiki/K리그1" title="wikilink"><span style="color:#DAA520;">K리그1 우승</span></a> 감독 (<a href="https://ko.wikipedia.org/wiki/K리그_1990" title="wikilink"><span style="color:#DAA520;">1990</span></a>)</li>
+<li>구단 2번째 <a href="https://ko.wikipedia.org/wiki/K리그1" title="wikilink"><span style="color:#DAA520;">K리그1 우승</span></a> 감독 (<a href="../Page/K리그_1990.md" title="wikilink"><span style="color:#DAA520;">1990</span></a>)</li>
 </ul></td>
 </tr>
 <tr class="odd">
@@ -573,7 +573,7 @@
 <td><div style="text-align: center;">
 <p>1988</p>
 </div></td>
-<td><p><strong>우승 (1):</strong> <a href="https://ko.wikipedia.org/wiki/K리그_1990" title="wikilink">1990</a><br />
+<td><p><strong>우승 (1):</strong> <a href="../Page/K리그_1990.md" title="wikilink">1990</a><br />
 준우승 (1): <a href="../Page/K리그_1989.md" title="wikilink">1989</a></p></td>
 <td><p>준우승 (1): <a href="../Page/리그컵_1992.md" title="wikilink">1992</a><br />
 </p></td>

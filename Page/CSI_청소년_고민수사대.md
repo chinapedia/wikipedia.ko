@@ -75,6 +75,6 @@
 
 <references/>
 
-[분류:엠넷에서 방영하는 프로그램](https://ko.wikipedia.org/wiki/분류:엠넷에서_방영하는_프로그램 "wikilink")
+[분류:엠넷의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:엠넷의_텔레비전_프로그램 "wikilink")
 
 1.

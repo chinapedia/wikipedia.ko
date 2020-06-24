@@ -129,4 +129,4 @@
 
   -
   -
-[텔링크](https://ko.wikipedia.org/wiki/분류:SK텔레콤 "wikilink") [분류:대한민국의 통신 기업](https://ko.wikipedia.org/wiki/분류:대한민국의_통신_기업 "wikilink") [분류:대한민국의 별정 통신 기업](https://ko.wikipedia.org/wiki/분류:대한민국의_별정_통신_기업 "wikilink") [SK텔링크](https://ko.wikipedia.org/wiki/분류:1998년_설립 "wikilink") [TU미디어](https://ko.wikipedia.org/wiki/분류:2003년_설립 "wikilink") [TU미디어](https://ko.wikipedia.org/wiki/분류:가상_이동_통신망_사업자 "wikilink") [분류:서울특별시의 기업](https://ko.wikipedia.org/wiki/분류:서울특별시의_기업 "wikilink")
+[텔링크](https://ko.wikipedia.org/wiki/분류:SK텔레콤 "wikilink") [분류:대한민국의 통신 기업](https://ko.wikipedia.org/wiki/분류:대한민국의_통신_기업 "wikilink") [분류:대한민국의 별정 통신 기업](https://ko.wikipedia.org/wiki/분류:대한민국의_별정_통신_기업 "wikilink") [분류:1998년 설립](https://ko.wikipedia.org/wiki/분류:1998년_설립 "wikilink") [TU미디어](https://ko.wikipedia.org/wiki/분류:가상_이동_통신망_사업자 "wikilink") [분류:서울특별시의 기업](https://ko.wikipedia.org/wiki/분류:서울특별시의_기업 "wikilink")

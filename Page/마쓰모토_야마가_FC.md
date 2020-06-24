@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [마쓰모토 야마가 FC](https://ko.wikipedia.org/wiki/마쓰모토_야마가_FC).
 
 
-**마쓰모토 야마가 풋볼 클럽**()은 [나가노현](../Page/나가노현.md "wikilink"), [마쓰모토 시에](https://ko.wikipedia.org/wiki/마쓰모토_시 "wikilink") 위치한 [일본](../Page/일본.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다. 구단의 상징은 [뇌조](../Page/뇌조.md "wikilink")이며, 구단의 별칭 또한 뇌조의 영문 명칭인 *Ptarmigans* 혹은 그것을 줄인 *Gans*이다.
+**마쓰모토 야마가 풋볼 클럽**()은 [나가노현](../Page/나가노현.md "wikilink"), [마쓰모토시](../Page/마쓰모토시.md "wikilink")에 위치한 [일본](../Page/일본.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다. 구단의 상징은 [뇌조](../Page/뇌조.md "wikilink")이며, 구단의 별칭 또한 뇌조의 영문 명칭인 *Ptarmigans* 혹은 그것을 줄인 *Gans*이다.
 
 ## 역사
 

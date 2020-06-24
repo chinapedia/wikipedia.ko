@@ -29,4 +29,4 @@
 
 ## 각주
 
-[분류:이스라엘의 전투기](https://ko.wikipedia.org/wiki/분류:이스라엘의_전투기 "wikilink") [분류:삼각익기](https://ko.wikipedia.org/wiki/분류:삼각익기 "wikilink") [분류:무미익기](https://ko.wikipedia.org/wiki/분류:무미익기 "wikilink") [분류:1973년 첫 비행한 항공기](https://ko.wikipedia.org/wiki/분류:1973년_첫_비행한_항공기 "wikilink") [분류:단발 제트기](https://ko.wikipedia.org/wiki/분류:단발_제트기 "wikilink")
+[분류:이스라엘의 전투기](https://ko.wikipedia.org/wiki/분류:이스라엘의_전투기 "wikilink") [분류:삼각익기](https://ko.wikipedia.org/wiki/분류:삼각익기 "wikilink") [분류:무미익기](https://ko.wikipedia.org/wiki/분류:무미익기 "wikilink") [분류:1973년 첫 비행한 항공기](https://ko.wikipedia.org/wiki/분류:1973년_첫_비행한_항공기 "wikilink") [분류:단발 제트기](https://ko.wikipedia.org/wiki/분류:단발_제트기 "wikilink") [분류:선미익기](https://ko.wikipedia.org/wiki/분류:선미익기 "wikilink")

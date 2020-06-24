@@ -1,7 +1,11 @@
 > This article is converted from Wikipedia: [바이어컴CBS 도메스틱 미디어 네트웍스](https://ko.wikipedia.org/wiki/바이어컴CBS_도메스틱_미디어_네트웍스).
 
 
-**바이어컴CBS 도메스틱 미디어 네트웍스**\[1\] ()는 1984년 미국 [워너미디어](../Page/워너미디어.md "wikilink")와 [아메리칸 엑스프레스와](../Page/아메리칸_엑스프레스.md "wikilink") 합작해 설립한 미국의 미디어 관련 기업이다. 현재는 [바이어컴](https://ko.wikipedia.org/wiki/바이어컴 "wikilink")의 자회사이다. 2011년까지는 **MTV 네트웍스**()였다. 2019년 재합병 전까지는 **바이어컴 미디어 네트웍스**()였으며, [CBS 코퍼레이션과](../Page/CBS_코퍼레이션.md "wikilink") [바이어컴](https://ko.wikipedia.org/wiki/바이어컴 "wikilink")의 재합병에 따라 현재의 이름으로 변경되었다.
+**바이어컴CBS 도메스틱 미디어 네트웍스**\[1\] ()는 1984년 미국 [바이어컴CBS](https://ko.wikipedia.org/wiki/바이어컴CBS "wikilink")가 운영하는 대중 매체 부서다. 2019년 재합병 전까지는 **바이어컴 미디어 네트웍스**()였으며, [CBS 코퍼레이션과](../Page/CBS_코퍼레이션.md "wikilink") [바이어컴](https://ko.wikipedia.org/wiki/바이어컴 "wikilink")의 재합병에 따라 현재의 이름으로 변경되었다.
+
+## 역사
+
+이 부서는, [워너 커뮤니케이션스와](../Page/워너미디어.md "wikilink") [아메리칸 엑스프레스가](../Page/아메리칸_엑스프레스.md "wikilink") 운영하던 케이블 텔레비전 회사 워너-에이멕스 새틀라이트 엔터테인먼트가 사업을 매각하면서 1984년에 설립되었다.
 
 ## 목록
 

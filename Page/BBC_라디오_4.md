@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [BBC 라디오 4](https://ko.wikipedia.org/wiki/BBC_라디오_4).
 
 
-[오른쪽](https://ko.wikipedia.org/wiki/파일:Logo_BBC_Radio_4.svg "wikilink") **BBC 라디오 4**(BBC Radio 4)는 [BBC의](../Page/영국방송공사.md "wikilink") 라디오 방송 중 하나로, 뉴스, 시사, 교양 프로그램을 주로 방송한다. 영국의 비상 시 국가 기간방송의 역할도 담당하고 있으며 매 시간 정시마다 6초 비프음 시보와 [빅 벤의](../Page/빅_벤.md "wikilink") 종소리 시보를 송출하는 것이 특징이다.\[1\]
+[오른쪽](https://ko.wikipedia.org/wiki/파일:Logo_BBC_Radio_4.svg "wikilink") **BBC 라디오 4**(BBC Radio 4)는 [BBC의](../Page/영국방송공사.md "wikilink") 라디오 방송 중 하나로, 뉴스, 시사, 교양 프로그램을 주로 방송한다. 영국의 비상 시 국가 기간방송의 역할도 담당하고 있으며, 매 시간 정시마다 6초 비프음 시보와 [빅 벤의](../Page/빅_벤.md "wikilink") 종소리 시보를 송출하는 것이 특징이다.\[1\]
 
 매일 01:00\~05:33에는 [BBC 월드 서비스를](../Page/BBC_월드_서비스.md "wikilink") 재송출하며, BBC 라디오 4 - BBC 월드 서비스 전환시에는 영국 국가가 방송된다.
 
@@ -19,7 +19,7 @@
 
   - [Shipping Forecast](https://ko.wikipedia.org/wiki/:en:Shipping_Forecast "wikilink") : 어업기상통보 방송. [BBC 월드 서비스로](../Page/BBC_월드_서비스.md "wikilink") 전환하기 전인 매일 00:48, BBC 라디오 4로 돌아가기 전인 매일 05:33, 평일 12:03과 주말 17:54에 방송된다.
   - [Today](https://ko.wikipedia.org/wiki/:en:Today_\(BBC_Radio_4\) "wikilink") : [1957년](../Page/1957년.md "wikilink") 이래 현재까지 방송중인 아침 시사프로그램으로 평일 06:00\~09:00, 토요일 07:00\~09:00에 방송된다.
-  - [The Archers](https://ko.wikipedia.org/wiki/:en:The_Archers "wikilink") : [1951년](../Page/1951년.md "wikilink") 이래 현재까지 방송중인 최장수 [라디오 드라마이다](../Page/라디오_드라마.md "wikilink"). [잉글랜드](../Page/잉글랜드.md "wikilink") 남부의 시골 마을을 배경으로 하고 있으며, 평일과 일요일 저녁 7:00부터 15분간 방송된다.
+  - [The Archers](https://ko.wikipedia.org/wiki/:en:The_Archers "wikilink") : [1951년](../Page/1951년.md "wikilink") 이래 현재까지 방송중인 최장수 [라디오 드라마이다](../Page/라디오_드라마.md "wikilink"). [잉글랜드](../Page/잉글랜드.md "wikilink") 남부의 시골 마을을 배경으로 하고 있으며, 월\~목요일 저녁 7:00부터 15분간 방송된다.
   - [Afternoon Drama](https://ko.wikipedia.org/wiki/:en:Afternoon_Drama "wikilink") : 평일 오후 2:15부터 45분간 방송되는 단편 드라마 프로그램.
 
 ## 방송 송출

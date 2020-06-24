@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [LEVEL-5](https://ko.wikipedia.org/wiki/LEVEL-5).
 
 
-**LEVEL-5**는 [일본](../Page/일본.md "wikilink") [후쿠오카현](../Page/후쿠오카현.md "wikilink") [후쿠오카 시에](https://ko.wikipedia.org/wiki/후쿠오카_시 "wikilink") 있는 게임 회사이다.
+**LEVEL-5**는 [일본](../Page/일본.md "wikilink") [후쿠오카현](../Page/후쿠오카현.md "wikilink") [후쿠오카시](../Page/후쿠오카시.md "wikilink")에 있는 게임 회사이다.
 
 ## 작품 목록
 

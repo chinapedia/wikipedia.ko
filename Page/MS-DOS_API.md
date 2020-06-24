@@ -267,7 +267,7 @@
   - [바이오스 인터럽트 호출](../Page/바이오스_인터럽트_호출.md "wikilink")
   - [도스 확장자](../Page/도스_확장자.md "wikilink")
 
-## 참고문헌
+## 참고 문헌
 
   - [The x86 Interrupt List](http://www.cs.cmu.edu/~ralf/files.html) (a.k.a. RBIL, Ralf Brown's Interrupt List)
 

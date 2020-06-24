@@ -149,13 +149,13 @@
 <tr class="even">
 <td><p>2019년-</p></td>
 <td><p>김우재</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p>8–19</p></td>
+<td><p>0.25</p></td>
+<td><p>0–0</p></td>
+<td><p>0</p></td>
+<td><p>0</p></td>
+<td><p>0</p></td>
+<td><p>0</p></td>
 </tr>
 </tbody>
 </table>
@@ -168,7 +168,7 @@
 | 단장   | 김창호                                   |
 | 감독   | 김우재                                   |
 | 수석코치 | 김종문                                   |
-| 코치   | [남지연](../Page/남지연.md "wikilink"), 김대경 |
+| 코치   | [김사니](../Page/김사니.md "wikilink"), 김대경 |
 
 ## 각주
 

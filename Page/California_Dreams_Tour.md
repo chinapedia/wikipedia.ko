@@ -293,7 +293,7 @@
 </tr>
 <tr class="even">
 <td><p>201년 5월 22일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/나고야_시" title="wikilink">나고야 시</a></p></td>
+<td><p><a href="../Page/나고야시.md" title="wikilink">나고야시</a></p></td>
 <td><p><a href="../Page/일본.md" title="wikilink">일본</a></p></td>
 <td><p><a href="../Page/Zepp.md" title="wikilink">Zepp 나고야</a></p></td>
 </tr>

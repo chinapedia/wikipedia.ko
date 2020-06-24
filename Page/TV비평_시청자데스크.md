@@ -9,7 +9,7 @@
 
 ## 방송 시간
 
-[2020년](../Page/2020년.md "wikilink") [1월 31일부터](../Page/1월_31일.md "wikilink") [금요일](../Page/금요일.md "wikilink") 오후 1시로 변경되어 방송되고 있다.
+[2020년](../Page/2020년.md "wikilink") [1월 31일부터](../Page/1월_31일.md "wikilink") 방송시간 복귀 이후 [금요일](../Page/금요일.md "wikilink") 오후 1시로 변경되어 방송되고 있다.
 
 | 방송 채널                                                                                                                                                                       | 방송 기간                                                                                                                                                      | 방송 시간                                               | 방송 분량 |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------- | ----- |
@@ -122,7 +122,7 @@
 ### 시청자의 눈
 
   - [남현종](https://ko.wikipedia.org/wiki/남현종 "wikilink") (남) - [KBS의](../Page/한국방송공사.md "wikilink") 아나운서
-  - [이혜성](../Page/이혜성.md "wikilink") (여) - [KBS의](../Page/한국방송공사.md "wikilink") 아나운서
+  - ??? (여) - [KBS의](../Page/한국방송공사.md "wikilink") 아나운서
 
 ### 역대 MC
 
@@ -275,6 +275,12 @@
 <td></td>
 </tr>
 <tr class="odd">
+<td><p>18기</p></td>
+<td><p>???</p></td>
+<td><p>???</p></td>
+<td><p>2020년 이후 진행 예정</p></td>
+</tr>
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -322,7 +328,7 @@
 </tr>
 <tr class="odd">
 <td><p>4기</p></td>
-<td><p>|<a href="https://ko.wikipedia.org/wiki/오정연" title="wikilink">오정연</a></p></td>
+<td><p>|<a href="../Page/오정연.md" title="wikilink">오정연</a></p></td>
 <td><p><a href="../Page/2007년.md" title="wikilink">2007년</a> 일자 미상 ~ <a href="../Page/2008년.md" title="wikilink">2008년</a> 일자 미상</p></td>
 <td></td>
 </tr>
@@ -423,13 +429,25 @@
 <a href="../Page/2019년.md" title="wikilink">2019년</a> <a href="../Page/11월_22일.md" title="wikilink">11월 22일</a> ~ <a href="../Page/2019년.md" title="wikilink">2019년</a> <a href="../Page/12월_13일.md" title="wikilink">12월 13일</a><br />
 <a href="../Page/2019년.md" title="wikilink">2019년</a> <a href="../Page/12월_27일.md" title="wikilink">12월 27일</a> ~ <a href="../Page/2020년.md" title="wikilink">2020년</a> <a href="../Page/1월_10일.md" title="wikilink">1월 10일</a><br />
 <a href="../Page/2020년.md" title="wikilink">2020년</a> <a href="../Page/1월_24일.md" title="wikilink">1월 24일</a> ~ <a href="../Page/2020년.md" title="wikilink">2020년</a> <a href="../Page/2월_14일.md" title="wikilink">2월 14일</a><br />
-<a href="../Page/2020년.md" title="wikilink">2020년</a> <a href="../Page/2월_28일.md" title="wikilink">2월 28일</a> ~ <strong>현재</strong>'</p></td>
+<a href="../Page/2020년.md" title="wikilink">2020년</a> <a href="../Page/2월_28일.md" title="wikilink">2월 28일</a> ~ <a href="../Page/2020년.md" title="wikilink">2020년</a> <a href="../Page/3월_6일.md" title="wikilink">3월 6일</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
+<td><p>18기</p></td>
+<td><p><a href="../Page/전주리.md" title="wikilink">전주리</a></p></td>
+<td><p><a href="../Page/2020년.md" title="wikilink">2020년</a> <a href="../Page/3월_13일.md" title="wikilink">3월 13일</a></p></td>
 <td></td>
+</tr>
+<tr class="even">
+<td><p>19기</p></td>
+<td><p><a href="../Page/이혜성.md" title="wikilink">이혜성</a></p></td>
+<td><p><a href="../Page/2020년.md" title="wikilink">2020년</a> <a href="../Page/3월_27일.md" title="wikilink">3월 27일</a> ~ <a href="../Page/2020년.md" title="wikilink">2020년</a> <a href="../Page/5월_8일.md" title="wikilink">5월 8일</a></p></td>
 <td></td>
-<td></td>
+</tr>
+<tr class="odd">
+<td><p>20기</p></td>
+<td><p>???</p></td>
+<td><p><a href="../Page/2020년.md" title="wikilink">2020년</a> <a href="../Page/5월_22일.md" title="wikilink">5월 22일</a> ~ <strong>현재</strong></p></td>
 <td></td>
 </tr>
 </tbody>

@@ -198,6 +198,7 @@ Siri는 세계 1위 음성인식 회사인 [뉘앙스 커뮤니케이션의](htt
 ## 같이 보기
 
   - [뉘앙스 커뮤니케이션](https://ko.wikipedia.org/wiki/뉘앙스_커뮤니케이션 "wikilink") - 세계 1위 음성인식 회사................
+  - [빅스비](https://ko.wikipedia.org/wiki/빅스비 "wikilink")
 
 ## 외부 링크
 

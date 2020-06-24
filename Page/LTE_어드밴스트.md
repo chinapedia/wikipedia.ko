@@ -37,7 +37,7 @@
   - [LTE Advanced](http://www.qualcomm.com/products_services/airlinks/lte_advanced.html) page on [Qualcomm](https://ko.wikipedia.org/wiki/Qualcomm "wikilink") site
   - [3GPP Official 3GPP Standardisation Page on LTE Advanced](https://web.archive.org/web/20081208085012/http://www.3gpp.org/article/lte-advanced)
 
-[분류:이동 통신 표준](https://ko.wikipedia.org/wiki/분류:이동_통신_표준 "wikilink")
+[분류:이동 통신 표준](https://ko.wikipedia.org/wiki/분류:이동_통신_표준 "wikilink") [분류:LTE (전기통신)](https://ko.wikipedia.org/wiki/분류:LTE_\(전기통신\) "wikilink")
 
 1.  Stefan Parkvall, Erik Dahlman, Anders Furuskär et al.; Ericsson, Robert Syputa, Maravedis; [ITU global standard for international mobile telecommunications ´IMT-Advanced´](http://www.itu.int/ITU-R/information/promotion/e-flash/2/article4.html)[*LTE Advanced - Evolving LTE towards IMT-Advanced*](http://www.ericsson.com/res/thecompany/docs/journal_conference_papers/wireless_access/VTC08F_jading.pdf) ; Vehicular Technology Conference, 2008. VTC 2008-Fall. IEEE 68th 21-24 Sept. 2008 Page(s):1 - 5.
 2.

@@ -71,7 +71,7 @@
 
 **매튜김**은 현재 [DSP 미디어](../Page/DSP_미디어.md "wikilink") 소속이다. [k.a.r.d](../Page/카드_\(음악_그룹\).md "wikilink") [BM으로](https://ko.wikipedia.org/wiki/BM_\(가수\) "wikilink") 데뷔했다.
 
-### [유주](../Page/유주_\(1997년\).md "wikilink")
+### [유주](https://ko.wikipedia.org/wiki/유주_\(1997년_10월\) "wikilink")
 
 **최유나**는 현재 [쏘스뮤직](../Page/쏘스뮤직.md "wikilink") 소속이다. 걸그룹 [여자친구](https://ko.wikipedia.org/wiki/여자친구 "wikilink")의 메인보컬로 데뷔하였다.
 

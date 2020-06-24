@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Alive \(김경호의 음반\)](https://ko.wikipedia.org/wiki/Alive_\(김경호의_음반\)).
 
 
-《**Alive**》는 [김경호의](../Page/김경호_\(가수\).md "wikilink") [미니 음반이다](../Page/익스텐디드_플레이.md "wikilink"). 엠넷미디어를 통해 발매되었다. 타이틀곡은 데려오고 싶다와 Promise U로 더블 타이틀이다
+《**Alive**》는 [김경호의](../Page/김경호_\(가수\).md "wikilink") [미니 음반이다](../Page/익스텐디드_플레이.md "wikilink"). 엠넷미디어를 통해 발매되었다. 타이틀곡은 '데려오고 싶다'이다
 
 ## 수록곡
 

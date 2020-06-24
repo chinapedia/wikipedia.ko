@@ -61,13 +61,23 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/2019년.md" title="wikilink">2019년</a> <a href="../Page/5월_13일.md" title="wikilink">5월 13일</a> ~ <strong>현재</strong></p></td>
+<td><p><a href="../Page/2019년.md" title="wikilink">2019년</a> <a href="../Page/5월_13일.md" title="wikilink">5월 13일</a> ~ <a href="../Page/2020년.md" title="wikilink">2020년</a> <a href="../Page/3월_27일.md" title="wikilink">3월 27일</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
+<td><p><a href="../Page/2020년.md" title="wikilink">2020년</a> <a href="../Page/4월_20일.md" title="wikilink">4월 20일</a> ~ <strong>현재</strong></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p><a href="../Page/2019년.md" title="wikilink">2019년</a> <a href="../Page/4월_15일.md" title="wikilink">4월 15일</a> ~ <a href="../Page/2019년.md" title="wikilink">2019년</a> <a href="../Page/5월_10일.md" title="wikilink">5월 10일</a></p></td>
 <td><p>평일 오후 5시 35분 ~ 저녁 5시 55분 (20분)</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/2020년.md" title="wikilink">2020년</a> <a href="../Page/3월_30일.md" title="wikilink">3월 30일</a> ~ <a href="../Page/2020년.md" title="wikilink">2020년</a> <a href="../Page/4월_17일.md" title="wikilink">4월 17일</a></p></td>
+<td><p>평일 오후 5시 30분 ~ 저녁 5시 50분 (20분)</p></td>
 <td></td>
 </tr>
 </tbody>

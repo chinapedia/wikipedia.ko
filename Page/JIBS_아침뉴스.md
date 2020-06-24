@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [JIBS 아침뉴스](https://ko.wikipedia.org/wiki/JIBS_아침뉴스).
 
 
-**JIBS 아침뉴스**는 대한민국 [JIBS](https://ko.wikipedia.org/wiki/JIBS "wikilink")에서 평일 아침 7시 20분에 방송되는 [JIBS의](../Page/제주국제자유도시방송.md "wikilink") 아침뉴스 프로그램이다.
+**JIBS 아침뉴스**는 대한민국 [JIBS](https://ko.wikipedia.org/wiki/JIBS "wikilink")에서 평일 아침 7시 20분에 방송되는 [JIBS의](../Page/제주방송.md "wikilink") 아침뉴스 프로그램이다.
 
 ## 방송 시간
 

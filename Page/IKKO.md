@@ -7,7 +7,7 @@
 
 ## 약력
 
-[후쿠오카현](../Page/후쿠오카현.md "wikilink") [다가와 군](https://ko.wikipedia.org/wiki/다가와_군 "wikilink") [후쿠치 정](https://ko.wikipedia.org/wiki/후쿠치_정 "wikilink")(구 호조 정) 출신. [후쿠오카 현립 니시타가와 고등학교를](https://ko.wikipedia.org/wiki/:ja:福岡県立西田川高等学校 "wikilink") 거쳐, [기타규슈](https://ko.wikipedia.org/wiki/기타규슈 "wikilink") 미용전문학원(현 후쿠오카 미용 전문 학교 기타규슈교) 졸업.
+[후쿠오카현](../Page/후쿠오카현.md "wikilink") [다가와군](https://ko.wikipedia.org/wiki/다가와군 "wikilink") [후쿠치정](../Page/후쿠치정.md "wikilink")(구 호조 정) 출신. [후쿠오카 현립 니시타가와 고등학교를](https://ko.wikipedia.org/wiki/:ja:福岡県立西田川高等学校 "wikilink") 거쳐, [기타규슈](https://ko.wikipedia.org/wiki/기타규슈 "wikilink") 미용전문학원(현 후쿠오카 미용 전문 학교 기타규슈교) 졸업.
 
 고급 미용실 ‘미용실 사와이이’에서 8년간 미용사로 일했고, 헤어 메이크업 아티스트를 목표로 독립. 수많은 잡지 표지를 시작으로, 1992년에는 서른의 나이에 ‘아뜰리에IKKO’를 설립했다.
 

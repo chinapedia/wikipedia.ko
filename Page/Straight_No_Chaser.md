@@ -24,7 +24,7 @@
 
 ## 각주
 
-[분류:2009년 음반](https://ko.wikipedia.org/wiki/분류:2009년_음반 "wikilink") [분류:미스터 허드슨의 음반](https://ko.wikipedia.org/wiki/분류:미스터_허드슨의_음반 "wikilink") [분류:카니예 웨스트가 프로듀싱한 음반](https://ko.wikipedia.org/wiki/분류:카니예_웨스트가_프로듀싱한_음반 "wikilink")
+[분류:2009년 음반](https://ko.wikipedia.org/wiki/분류:2009년_음반 "wikilink") [분류:미스터 허드슨의 음반](https://ko.wikipedia.org/wiki/분류:미스터_허드슨의_음반 "wikilink") [분류:카녜이 웨스트가 프로듀싱한 음반](https://ko.wikipedia.org/wiki/분류:카녜이_웨스트가_프로듀싱한_음반 "wikilink")
 
 1.
 2.

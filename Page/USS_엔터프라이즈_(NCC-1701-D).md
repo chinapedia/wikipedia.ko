@@ -22,7 +22,7 @@
     2.  주 : 2364년에는 4번 기관실 장교가 바뀜.
 10. 텐 포워드(Ten Forward) 운영자 : 가이넌(Gainan, 종족 불명, 선형시간계 능력이 있음)
 
-## 더 보기
+## 같이 보기
 
   - USS 엔터프라이즈 (NCC-1701-D) - [2363년](https://ko.wikipedia.org/wiki/2363년 "wikilink") 진수, [쟝 룩 피카드](https://ko.wikipedia.org/wiki/쟝_룩_피카드 "wikilink") 함장, 길이 642.5 m, 승무원 430명, [2371년](https://ko.wikipedia.org/wiki/2371년 "wikilink") 파괴
   - [USS 엔터프라이즈 (NCC-1701-E)](../Page/USS_엔터프라이즈_\(NCC-1701-E\).md "wikilink") - [2372년](https://ko.wikipedia.org/wiki/2372년 "wikilink") 진수, [쟝 룩 피카드](https://ko.wikipedia.org/wiki/쟝_룩_피카드 "wikilink") 함장, 배수량 325만 톤, 길이 685.7 m, 승무원 430명

@@ -65,6 +65,7 @@
 
 ## 현재 소속 아티스트(방송인)
 
+  - [유재석](https://ko.wikipedia.org/wiki/유재석 "wikilink")
   - [이국주](../Page/이국주.md "wikilink")
   - [문세윤](../Page/문세윤.md "wikilink")
   - [정형돈](../Page/정형돈.md "wikilink")

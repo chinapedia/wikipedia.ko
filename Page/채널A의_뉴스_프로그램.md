@@ -28,9 +28,9 @@
 <tbody>
 <tr class="odd">
 <td><p><a href="../Page/뉴스A_LIVE.md" title="wikilink">뉴스A LIVE</a></p></td>
-<td><p>평일 1시간 10분<br />
+<td><p>평일 1시간 30분<br />
 일요일 1시간 20분</p></td>
-<td><p>10:50 ~ 12:00</p>
+<td><p>13:50 ~ 15:50</p>
 <ul>
 <li><strong>주말편성조정</strong> : <strong>일요일</strong> (12:10 ~ 13:30)</li>
 </ul></td>
@@ -38,21 +38,9 @@
 <a href="https://ko.wikipedia.org/wiki/김윤수" title="wikilink">김윤수</a>, <a href="https://ko.wikipedia.org/wiki/정하니" title="wikilink">정하니</a> (일요일)</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/사건_상황실.md" title="wikilink">사건 상황실</a></p></td>
-<td><p>평일 1시간 20분</p></td>
-<td><p>12:00 ~ 13:20</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/성시온" title="wikilink">성시온</a></p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="../Page/정치_데스크.md" title="wikilink">정치 데스크</a></p></td>
-<td><p>평일 1시간 30분</p></td>
-<td><p>16:20 ~ 17:50</p></td>
-<td><p><a href="../Page/홍성규.md" title="wikilink">홍성규</a></p></td>
-</tr>
-<tr class="even">
 <td><p><a href="../Page/채널A_뉴스_TOP_10.md" title="wikilink">채널A 뉴스 TOP 10</a></p></td>
-<td><p>평일 1시간 40분</p></td>
-<td><p>17:50 ~ 19:30</p></td>
+<td><p>평일 1시간 30분</p></td>
+<td><p>18:00 ~ 19:30</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/김종석" title="wikilink">김종석</a></p></td>
 </tr>
 <tr class="odd">

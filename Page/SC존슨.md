@@ -15,6 +15,6 @@
 
 <references />
 
-[분류:1886년 설립된 기업](https://ko.wikipedia.org/wiki/분류:1886년_설립된_기업 "wikilink") [분류:미국의 기업](https://ko.wikipedia.org/wiki/분류:미국의_기업 "wikilink") [분류:미국의 화학 기업](https://ko.wikipedia.org/wiki/분류:미국의_화학_기업 "wikilink")
+[분류:1886년 설립된 기업](https://ko.wikipedia.org/wiki/분류:1886년_설립된_기업 "wikilink") [분류:미국의 기업](https://ko.wikipedia.org/wiki/분류:미국의_기업 "wikilink") [분류:미국의 화학 기업](https://ko.wikipedia.org/wiki/분류:미국의_화학_기업 "wikilink") [분류:위스콘신주의 기업](https://ko.wikipedia.org/wiki/분류:위스콘신주의_기업 "wikilink")
 
 1.

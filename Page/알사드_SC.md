@@ -39,8 +39,13 @@
 
 ### 국제 대회
 
-  - **[AFC 챔피언스리그](../Page/AFC_챔피언스리그.md "wikilink")** (전신 포함)
-      - 우승: 1988-89, 2011
+  - **[AFC 챔피언스리그](../Page/AFC_챔피언스리그.md "wikilink")**
+      - 우승: 2011
+
+<!-- end list -->
+
+  - **[아시안 클럽 챔피언십](https://ko.wikipedia.org/wiki/아시안_클럽_챔피언십 "wikilink")**
+      - 우승: 1988-89
 
 <!-- end list -->
 

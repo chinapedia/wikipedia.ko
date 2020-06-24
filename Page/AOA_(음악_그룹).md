@@ -87,7 +87,7 @@
 <thead>
 <tr class="header">
 <th><p>연도</p></th>
-<th><p>수상 내역 (총 13회)</p></th>
+<th><p>수상 내역 (총 10회)</p></th>
 </tr>
 </thead>
 <tbody>
@@ -116,15 +116,12 @@
 </ul></td>
 </tr>
 <tr class="odd">
-<td><p>2016년 (총 5회)</p></td>
+<td><p>2016년 (총 2회)</p></td>
 <td><ul>
-<li><strong>Good Luck (총 5회)</strong>
+<li><strong>Good Luck (총 2회)</strong>
 <ul>
 <li><a href="../Page/5월_24일.md" title="wikilink">5월 24일</a> <a href="../Page/SBS_MTV.md" title="wikilink">SBS MTV</a> 《<a href="https://ko.wikipedia.org/wiki/더_쇼" title="wikilink">더 쇼</a> 시즌5》 더 쇼 초이스</li>
 <li><a href="../Page/5월_25일.md" title="wikilink">5월 25일</a> <a href="https://ko.wikipedia.org/wiki/MBC_MUSIC" title="wikilink">MBC MUSIC</a> 《<a href="https://ko.wikipedia.org/wiki/쇼_챔피언" title="wikilink">쇼챔피언</a>》 챔피언송</li>
-<li><a href="../Page/5월_27일.md" title="wikilink">5월 27일</a> <a href="https://ko.wikipedia.org/wiki/KBS" title="wikilink">KBS</a> 《<a href="../Page/뮤직뱅크.md" title="wikilink">뮤직뱅크</a>》 K-Chart 1위</li>
-<li><a href="../Page/6월_3일.md" title="wikilink">6월 3일</a> <a href="https://ko.wikipedia.org/wiki/KBS" title="wikilink">KBS</a> 《<a href="../Page/뮤직뱅크.md" title="wikilink">뮤직뱅크</a>》 K-Chart 1위 (2주 연속)</li>
-<li><a href="../Page/6월_10일.md" title="wikilink">6월 10일</a> <a href="https://ko.wikipedia.org/wiki/KBS" title="wikilink">KBS</a> 《<a href="../Page/뮤직뱅크.md" title="wikilink">뮤직뱅크</a>》 K-Chart 1위 (트리플 크라운)</li>
 </ul></li>
 </ul></td>
 </tr>
@@ -157,7 +154,7 @@
   -
   -
   -
-[AOA](https://ko.wikipedia.org/wiki/분류:AOA "wikilink") [분류:2012년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2012년_결성된_음악_그룹 "wikilink") [분류:대한민국의 아이돌 그룹](https://ko.wikipedia.org/wiki/분류:대한민국의_아이돌_그룹 "wikilink") [분류:5인조 음악 그룹](https://ko.wikipedia.org/wiki/분류:5인조_음악_그룹 "wikilink") [분류:대한민국의 걸 그룹](https://ko.wikipedia.org/wiki/분류:대한민국의_걸_그룹 "wikilink") [분류:한국어 음악 그룹](https://ko.wikipedia.org/wiki/분류:한국어_음악_그룹 "wikilink") [분류:K-pop 음악 그룹](https://ko.wikipedia.org/wiki/분류:K-pop_음악_그룹 "wikilink") [분류:대한민국의 팝 음악 그룹](https://ko.wikipedia.org/wiki/분류:대한민국의_팝_음악_그룹 "wikilink") [분류:대한민국의 댄스 음악 그룹](https://ko.wikipedia.org/wiki/분류:대한민국의_댄스_음악_그룹 "wikilink") [분류:2010년대 음악 그룹](https://ko.wikipedia.org/wiki/분류:2010년대_음악_그룹 "wikilink") [분류:FNC 엔터테인먼트 소속](https://ko.wikipedia.org/wiki/분류:FNC_엔터테인먼트_소속 "wikilink") [분류:골든디스크 본상 수상 음악가](https://ko.wikipedia.org/wiki/분류:골든디스크_본상_수상_음악가 "wikilink") [분류:SBS MTV 더 쇼 초이스 수상자](https://ko.wikipedia.org/wiki/분류:SBS_MTV_더_쇼_초이스_수상자 "wikilink") [분류:MBC MUSIC 쇼 챔피언 챔피언송 수상자](https://ko.wikipedia.org/wiki/분류:MBC_MUSIC_쇼_챔피언_챔피언송_수상자 "wikilink") [분류:Mnet 엠카운트다운 1위 수상자](https://ko.wikipedia.org/wiki/분류:Mnet_엠카운트다운_1위_수상자 "wikilink") [분류:MBC 쇼\! 음악중심 1위 수상자](https://ko.wikipedia.org/wiki/분류:MBC_쇼!_음악중심_1위_수상자 "wikilink") [분류:SBS 인기가요 1위 수상자](https://ko.wikipedia.org/wiki/분류:SBS_인기가요_1위_수상자 "wikilink")
+[AOA](https://ko.wikipedia.org/wiki/분류:AOA "wikilink") [분류:2012년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2012년_결성된_음악_그룹 "wikilink") [분류:대한민국의 아이돌 그룹](https://ko.wikipedia.org/wiki/분류:대한민국의_아이돌_그룹 "wikilink") [분류:5인조 음악 그룹](https://ko.wikipedia.org/wiki/분류:5인조_음악_그룹 "wikilink") [분류:대한민국의 걸 그룹](https://ko.wikipedia.org/wiki/분류:대한민국의_걸_그룹 "wikilink") [분류:한국어 음악 그룹](https://ko.wikipedia.org/wiki/분류:한국어_음악_그룹 "wikilink") [분류:K-pop 음악 그룹](https://ko.wikipedia.org/wiki/분류:K-pop_음악_그룹 "wikilink") [분류:대한민국의 팝 음악 그룹](https://ko.wikipedia.org/wiki/분류:대한민국의_팝_음악_그룹 "wikilink") [분류:대한민국의 댄스 음악 그룹](https://ko.wikipedia.org/wiki/분류:대한민국의_댄스_음악_그룹 "wikilink") [분류:2010년대 음악 그룹](https://ko.wikipedia.org/wiki/분류:2010년대_음악_그룹 "wikilink") [분류:FNC 엔터테인먼트 소속](https://ko.wikipedia.org/wiki/분류:FNC_엔터테인먼트_소속 "wikilink") [분류:골든디스크 본상 수상 음악가](https://ko.wikipedia.org/wiki/분류:골든디스크_본상_수상_음악가 "wikilink") [분류:SBS MTV 더 쇼 초이스 수상자](https://ko.wikipedia.org/wiki/분류:SBS_MTV_더_쇼_초이스_수상자 "wikilink") [분류:MBC MUSIC 쇼 챔피언 챔피언송 수상자](https://ko.wikipedia.org/wiki/분류:MBC_MUSIC_쇼_챔피언_챔피언송_수상자 "wikilink") [분류:엠넷 엠카운트다운 1위 수상자](https://ko.wikipedia.org/wiki/분류:엠넷_엠카운트다운_1위_수상자 "wikilink") [분류:MBC 쇼\! 음악중심 1위 수상자](https://ko.wikipedia.org/wiki/분류:MBC_쇼!_음악중심_1위_수상자 "wikilink") [분류:SBS 인기가요 1위 수상자](https://ko.wikipedia.org/wiki/분류:SBS_인기가요_1위_수상자 "wikilink")
 
 1.  [초아 인스타그램 입장전문](https://www.instagram.com/p/BVpDw_MFWDS/)
 2.

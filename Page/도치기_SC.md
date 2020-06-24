@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [도치기 SC](https://ko.wikipedia.org/wiki/도치기_SC).
 
 
-**도치기 SC**(栃木SC)는 [일본](../Page/일본.md "wikilink") [도치기현](../Page/도치기현.md "wikilink") [우쓰노미야 시를](https://ko.wikipedia.org/wiki/우쓰노미야_시 "wikilink") 연고지로 하는 [J리그](../Page/J리그.md "wikilink") 축구팀이다.
+**도치기 SC**(栃木SC)는 [일본](../Page/일본.md "wikilink") [도치기현](../Page/도치기현.md "wikilink") [우쓰노미야시](../Page/우쓰노미야시.md "wikilink")를 연고지로 하는 [J리그](../Page/J리그.md "wikilink") 축구팀이다.
 
 특이하게도, 도치기는 [J리그](../Page/J리그.md "wikilink")에서 이 단어의 발생을 최소화하려는 일본 축구협회의 노력에도 불구하고 그들의 영문 이름에 '축구(Soccer)'라는 단어를 지니고 있는 유일한 축구팀이다. 이 클럽의 엠블렘은 다른 클럽들에게 매우 매력적이어서 [홍콩 1부 리그의](../Page/홍콩_1부_리그.md "wikilink") [타이충 FC와](https://ko.wikipedia.org/wiki/타이충_FC "wikilink") 같은 팀이 이들의 엠블럼을 카피하였다.
 

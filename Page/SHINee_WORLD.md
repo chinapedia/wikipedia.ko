@@ -77,7 +77,7 @@
 </tr>
 <tr class="even">
 <td><p>2011년 10월 27일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/나고야_시" title="wikilink">나고야 시</a></p></td>
+<td><p><a href="../Page/나고야시.md" title="wikilink">나고야시</a></p></td>
 <td></td>
 <td><p>니혼 가이시 홀</p></td>
 <td><p>10,000명</p></td>

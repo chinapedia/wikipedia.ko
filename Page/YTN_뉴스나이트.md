@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [YTN 뉴스나이트](https://ko.wikipedia.org/wiki/YTN_뉴스나이트).
 
 
-《**YTN 뉴스나이트**》(YTN NEWS NIGHT)는 [대한민국](../Page/대한민국.md "wikilink") [YTN](../Page/YTN.md "wikilink")에서 매일 밤 9시 50분에 방송되는 [YTN](../Page/YTN.md "wikilink")의 심야 종합뉴스 프로그램이다.
+《**YTN 뉴스나이트**》(YTN NEWS NIGHT)는 [대한민국](../Page/대한민국.md "wikilink") [YTN](../Page/YTN.md "wikilink")에서 매일 밤 9시 50분에 방송되는 [YTN](../Page/YTN.md "wikilink")의 메인뉴스 프로그램이다.
 
 ## 방송 시간
 
