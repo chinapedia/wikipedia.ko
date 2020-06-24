@@ -3,7 +3,7 @@
 
 **F\#**(에프 샤프)는 강타입 함수형 우선 다중패러다임 언어이다. 주로 [공통 언어 기반](../Page/공통_언어_기반.md "wikilink") 크로스 플랫폼으로 사용되며, [자바스크립트](../Page/자바스크립트.md "wikilink")\[1\]나 GPU 코드\[2\] 생성에도 사용할 수 있다.
 
-F\# 소프트웨어 재단\[3\]이나 [마인크로소프트](../Page/마이크로소프트.md "wikilink"), 오픈소스 기여자에 의해 개발된다. F\# 소프트웨어 재단에서 만든 오픈소스 크로스 플랫폼 컴파일러가 있다.\[4\] [비주얼 스튜디오](../Page/마이크로소프트_비주얼_스튜디오.md "wikilink")\[5\]나 [자마린](../Page/자마린.md "wikilink") 스튜디오\[6\]에서도 지원한다. 다른 프로그램으로는 [Mono](https://ko.wikipedia.org/wiki/모노 "wikilink"), [MonoDevelop](https://ko.wikipedia.org/wiki/MonoDevelop "wikilink"), SharpDevelop, MBrace, WebShaper 등이 있다. 테스트 에디터에서도 플러그인 형식으로 지원하며, 특히 Atom, VSCode, Vim, Emacs, Rider 등에서 지원한다.
+F\# 소프트웨어 재단\[3\]이나 [마이크로소프트](../Page/마이크로소프트.md "wikilink"), 오픈소스 기여자에 의해 개발된다. F\# 소프트웨어 재단에서 만든 오픈소스 크로스 플랫폼 컴파일러가 있다.\[4\] [비주얼 스튜디오](../Page/마이크로소프트_비주얼_스튜디오.md "wikilink")\[5\]나 [자마린](../Page/자마린.md "wikilink") 스튜디오\[6\]에서도 지원한다. 다른 프로그램으로는 [Mono](https://ko.wikipedia.org/wiki/모노 "wikilink"), [MonoDevelop](../Page/MonoDevelop.md "wikilink"), SharpDevelop, MBrace, WebShaper 등이 있다. 테스트 에디터에서도 플러그인 형식으로 지원하며, 특히 Atom, VSCode, Vim, Emacs, Rider 등에서 지원한다.
 
 F\#은 ML 계열의 언어이며, [닷넷 프레임워크의](../Page/닷넷_프레임워크.md "wikilink") [OCaml](../Page/OCaml.md "wikilink") 구현체로 시작했고,\[7\]\[8\] [C\#](../Page/C_샤프.md "wikilink"), [파이썬](../Page/파이썬.md "wikilink"), [하스켈](../Page/하스켈.md "wikilink"), [스칼라](../Page/스칼라_\(프로그래밍_언어\).md "wikilink"), [얼랭](../Page/얼랭.md "wikilink")에서 영향을 받았다.
 

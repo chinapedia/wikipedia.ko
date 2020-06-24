@@ -11,7 +11,7 @@
 
 비타민D는 지방에 융해되는 [비타민](../Page/비타민.md "wikilink")으로서 골격 형성에 필요한 [칼슘](https://ko.wikipedia.org/wiki/칼슘 "wikilink")을 대장과 콩팥에서 흡수시키는 데 기여하며 또한 [부갑상선](https://ko.wikipedia.org/wiki/부갑상선 "wikilink")에서 생산되는 [파라토르몬](https://ko.wikipedia.org/wiki/파라토르몬 "wikilink")(Parathormon) 과 [칼시토닌](https://ko.wikipedia.org/wiki/칼시토닌 "wikilink")(Calcitonin)과 협동으로 칼슘을 알맞게 골수로 운반하여 뼈대가 제모양으로 크도록 하는데 결정적인 역할을 한다.
 
-비타민D는 [화학적 구조로](https://ko.wikipedia.org/wiki/화학적_구조 "wikilink") 볼 때 비타민 D<sub>2</sub>([에르고칼시페롤](https://ko.wikipedia.org/wiki/에르고칼시페롤 "wikilink"), Ergocalciferol)와 D<sub>3</sub>([콜레칼시페롤](https://ko.wikipedia.org/wiki/콜레칼시페롤 "wikilink"),Cholecalciferol)로 나뉘지만 그들의 형성과정은 거의 비슷하다. 다시 말해 피부에서 [7-디하이드로콜레스테롤](https://ko.wikipedia.org/wiki/7-디하이드로콜레스테롤 "wikilink")(7-Dehydrocholesterol)이 [태양](../Page/태양.md "wikilink")의 [자외선](../Page/자외선.md "wikilink")을 받아 비타민 D가 형성된다. 최근 자외선 차단제 사용이 늘고 있는데 자외선 차단제를 사용하는 것이 비타민D 형성에 미치는 영향에 대해서도 논란\[1\]이 있다.
+비타민D는 [화학적 구조로](https://ko.wikipedia.org/wiki/화학적_구조 "wikilink") 볼 때 비타민 D<sub>2</sub>([에르고칼시페롤](https://ko.wikipedia.org/wiki/에르고칼시페롤 "wikilink"), Ergocalciferol)와 D<sub>3</sub>([콜레칼시페롤](https://ko.wikipedia.org/wiki/콜레칼시페롤 "wikilink"),Cholecalciferol)로 나뉘지만 그들의 형성과정은 거의 비슷하다. 다시 말해 피부에서 [7-디하이드로콜레스테롤](../Page/7-디하이드로콜레스테롤.md "wikilink")(7-Dehydrocholesterol)이 [태양](../Page/태양.md "wikilink")의 [자외선](../Page/자외선.md "wikilink")을 받아 비타민 D가 형성된다. 최근 자외선 차단제 사용이 늘고 있는데 자외선 차단제를 사용하는 것이 비타민D 형성에 미치는 영향에 대해서도 논란\[1\]이 있다.
 
 한편 따라서 태양 광선이 비타민 D의 합성에 없어서는 안될 요소이며, 태양을 아주 적게 쐬는 또는 거의 쬐지못하는 직업에 종사하는 사람(이를테면 광부)은 비타민 D의 결핍에 주의하여야 한다. 하루에 20분 정도 쐬어줘야 우리 몸에 필요한 비타민 D가 충분한 양이 생성된다.
 

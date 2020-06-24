@@ -63,7 +63,7 @@
 
 ### 현재 선수 명단
 
-[2020년](../Page/2020년.md "wikilink") [3월 3일](../Page/3월_3일.md "wikilink") 기준                [16px](https://ko.wikipedia.org/wiki/파일:Captain_sports.svg "wikilink")
+[2020년](../Page/2020년.md "wikilink") [5월 10일](../Page/5월_10일.md "wikilink") 기준               [16px](https://ko.wikipedia.org/wiki/파일:Captain_sports.svg "wikilink")
 
 ### 임대 및 군 복무 중인 선수
 

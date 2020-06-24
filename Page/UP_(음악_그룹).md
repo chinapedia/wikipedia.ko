@@ -35,7 +35,7 @@
 
 ## 앨범
 
-  - 1집 《1024(10월24일)》([1995년](../Page/1995년.md "wikilink"))
+  - 1집 《1024(10월24일)》([1996년](../Page/1996년.md "wikilink"))
     1.  〈Intro- Up\! Show Time〉
     2.  〈1024(10월24일)〉
     3.  〈또 다른 너〉
@@ -137,8 +137,9 @@
 <li><a href="../Page/6월_29일.md" title="wikilink">6월 29일</a> <a href="../Page/SBS.md" title="wikilink">SBS</a> 《<a href="https://ko.wikipedia.org/wiki/TV_가요_20" title="wikilink">TV 가요 20</a>》 1위 (4주 연속)</li>
 <li><a href="../Page/7월_13일.md" title="wikilink">7월 13일</a> <a href="../Page/SBS.md" title="wikilink">SBS</a> 《<a href="https://ko.wikipedia.org/wiki/TV_가요_20" title="wikilink">TV 가요 20</a>》 1위 (통산 5주) -왕중왕-</li>
 </ul></li>
-</ul>
-<p><a href="https://ko.wikipedia.org/wiki/분류:골든디스크_본상_수상_음악가" title="wikilink">분류:골든디스크 본상 수상 음악가</a> <a href="https://ko.wikipedia.org/wiki/분류:4인조_음악_그룹" title="wikilink">분류:4인조 음악 그룹</a> <a href="https://ko.wikipedia.org/wiki/분류:혼성_음악_그룹" title="wikilink">분류:혼성 음악 그룹</a> <a href="https://ko.wikipedia.org/wiki/분류:1996년_데뷔" title="wikilink">분류:1996년 데뷔</a> <a href="https://ko.wikipedia.org/wiki/분류:아이돌_그룹" title="wikilink">분류:아이돌 그룹</a> <a href="https://ko.wikipedia.org/wiki/분류:대한민국의_팝_음악_그룹" title="wikilink">분류:대한민국의 팝 음악 그룹</a> <a href="https://ko.wikipedia.org/wiki/분류:대한민국의_댄스_음악_그룹" title="wikilink">분류:대한민국의 댄스 음악 그룹</a> <a href="https://ko.wikipedia.org/wiki/분류:1996년_결성된_음악_그룹" title="wikilink">분류:1996년 결성된 음악 그룹</a> <a href="https://ko.wikipedia.org/wiki/분류:1999년_해체된_음악_그룹" title="wikilink">분류:1999년 해체된 음악 그룹</a></p></td>
+</ul></td>
 </tr>
 </tbody>
 </table>
+
+[분류:골든디스크 본상 수상 음악가](https://ko.wikipedia.org/wiki/분류:골든디스크_본상_수상_음악가 "wikilink") [분류:4인조 음악 그룹](https://ko.wikipedia.org/wiki/분류:4인조_음악_그룹 "wikilink") [분류:혼성 음악 그룹](https://ko.wikipedia.org/wiki/분류:혼성_음악_그룹 "wikilink") [분류:아이돌 그룹](https://ko.wikipedia.org/wiki/분류:아이돌_그룹 "wikilink") [분류:대한민국의 팝 음악 그룹](https://ko.wikipedia.org/wiki/분류:대한민국의_팝_음악_그룹 "wikilink") [분류:대한민국의 댄스 음악 그룹](https://ko.wikipedia.org/wiki/분류:대한민국의_댄스_음악_그룹 "wikilink") [분류:1996년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:1996년_결성된_음악_그룹 "wikilink") [분류:1999년 해체된 음악 그룹](https://ko.wikipedia.org/wiki/분류:1999년_해체된_음악_그룹 "wikilink")

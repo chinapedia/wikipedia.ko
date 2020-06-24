@@ -54,7 +54,7 @@ RSS는 [XML](../Page/XML.md "wikilink") 기반의 표준이며, 여러 표준들
 
 ## 아톰과의 비교
 
-RSS와 [아톰](https://ko.wikipedia.org/wiki/Atom "wikilink") 모두 모든 주요 피드리더들에게 널리 지원된다. 아톰보다 더 일찍 피드리더 기능이 도입되면서 RSS가 널리 이용되어 인기를 끌게 되었다. 그러나 아톰은 라이선스가 덜 제한적이고 [IANA](https://ko.wikipedia.org/wiki/IANA "wikilink") 등록 [MIME 타입](https://ko.wikipedia.org/wiki/인터넷_미디어_타입 "wikilink"), [XML 이름공간](https://ko.wikipedia.org/wiki/XML_이름공간 "wikilink"), 상대 [URI](../Page/통합_자원_식별자.md "wikilink") 지원, [RELAX NG](https://ko.wikipedia.org/wiki/RELAX_NG "wikilink") 지원과 같이 RSS에 비해 몇 가지 이점이 있다.\[1\] 기술적으로 아톰은 이 둘 사이에서 더 진보화된 신디케이션으로 간주된다.\[2\]
+RSS와 [아톰](https://ko.wikipedia.org/wiki/Atom "wikilink") 모두 모든 주요 피드 리더가 널리 지원하고 있다. 아톰보다 더 일찍 피드리더 기능이 도입되면서 RSS가 널리 이용되어 인기를 끌게 되었다. 그러나 아톰은 라이선스가 덜 제한적이고 [IANA](https://ko.wikipedia.org/wiki/IANA "wikilink") 등록 [MIME 타입](https://ko.wikipedia.org/wiki/인터넷_미디어_타입 "wikilink"), [XML 이름공간](https://ko.wikipedia.org/wiki/XML_이름공간 "wikilink"), 상대 [URI](../Page/통합_자원_식별자.md "wikilink") 지원, [RELAX NG](https://ko.wikipedia.org/wiki/RELAX_NG "wikilink") 지원과 같이 RSS에 비해 몇 가지 이점이 있다.\[1\] 기술적으로 아톰은 이 둘 사이에서 더 진보화된 신디케이션으로 간주된다.\[2\]
 
 아래의 표는 아톰과 동일한 RSS 요소를 요약해 놓은 것이다.
 

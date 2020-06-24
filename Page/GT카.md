@@ -5,7 +5,7 @@
 
 [페라리 599 GTB 피오라노](https://ko.wikipedia.org/wiki/페라리_599_GTB_피오라노 "wikilink")(Ferrari 599 GTB Fiorano)나 [메르세데스-벤츠 SLR 맥라렌](https://ko.wikipedia.org/wiki/메르세데스-벤츠_SLR_맥라렌 "wikilink")(Mercedes-Benz SLR Mclaren)과 같은 초고성능의 GT카는 [슈퍼카](../Page/슈퍼카.md "wikilink")로 분류하며, [애스턴 마틴 DB9](https://ko.wikipedia.org/wiki/애스턴_마틴_DB9 "wikilink")(Aston Martin DB9)이나 [BMW GT, 6-시리즈](https://ko.wikipedia.org/wiki/BMW_GT,_6-시리즈 "wikilink"), [마세라티 그란투리스모](https://ko.wikipedia.org/wiki/마세라티_그란투리스모 "wikilink")(Maserati GranTurismo) 등을 엔트리 GT카로 분류한다.
 
-**GT카**는 [스포츠카](../Page/스포츠카.md "wikilink")와 따로 구별하는데, [스포츠카](../Page/스포츠카.md "wikilink")는 일반적으로 GT카보다 작고(또는 날렵하고), 중량이 더 가벼우며 운전 능력을 향상시킬 목적으로 승차감을 희생하는 경향이 있다. 반면 GT카는 대부분 [엔진](https://ko.wikipedia.org/wiki/엔진 "wikilink")을 앞부분에 두어 뒷쪽 트렁크의 화물 공간을 확보해 놓으며, 승차감을 향상시키기 위해 좀 더 부드러운 [현가장치](https://ko.wikipedia.org/wiki/현가장치 "wikilink")(suspension)를 채택하고 차체도 훨씬 무겁고 둔하다. **GT카**와 [스포츠카](../Page/스포츠카.md "wikilink")와의 유사점이 있는데, 둘 다 [후륜구동](../Page/후륜구동.md "wikilink") 또는 [4륜구동](../Page/4륜구동.md "wikilink")을 주로 사용한다는 것이다.
+**GT카**는 [스포츠카](../Page/스포츠카.md "wikilink")와 따로 구별하는데, [스포츠카](../Page/스포츠카.md "wikilink")는 일반적으로 GT카보다 작고(또는 날렵하고), 중량이 더 가벼우며 운전 능력을 향상시킬 목적으로 승차감을 희생하는 경향이 있다. 반면 GT카는 대부분 [엔진](../Page/엔진.md "wikilink")을 앞부분에 두어 뒷쪽 트렁크의 화물 공간을 확보해 놓으며, 승차감을 향상시키기 위해 좀 더 부드러운 [현가장치](https://ko.wikipedia.org/wiki/현가장치 "wikilink")(suspension)를 채택하고 차체도 훨씬 무겁고 둔하다. **GT카**와 [스포츠카](../Page/스포츠카.md "wikilink")와의 유사점이 있는데, 둘 다 [후륜구동](../Page/후륜구동.md "wikilink") 또는 [4륜구동](../Page/4륜구동.md "wikilink")을 주로 사용한다는 것이다.
 
 또한 스포츠카는 간단한 개조만으로 곧바로 [자동차 경주에](../Page/자동차_경주.md "wikilink") 투입될 수 있으나, 반대로 GT카는 엔진과 실내는 물론이고 차체 전체에 걸쳐 복잡한 개조를 해야하기 때문에 곧바로 자동차 경주에 투입될 수 없다는 단점이 있다.
 

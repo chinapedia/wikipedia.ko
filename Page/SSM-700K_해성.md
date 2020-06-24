@@ -57,7 +57,7 @@
 
 ## 성능
 
-[해성](https://ko.wikipedia.org/wiki/해성 "wikilink")은 사정거리 180km+, 기당 단가 약 20억원의 국내 독자 기술로 개발한 순항 유도탄(Cruise Missile)이다.
+[해성](https://ko.wikipedia.org/wiki/해성 "wikilink")의 최대 사정거리는 최초 개발시 150km, 현재는 180km\~200km이며 기당 단가 약 20억원의 국내 독자 기술로 개발한 순항 유도탄(Cruise Missile)이다.
 
 1단계는 고체 로켓, 2단계는 순항 추력을 얻기위해 제트 엔진을 탑재했다. (미국의 하푼과 동일. 프랑스 엑소세는 1, 2 단계 모두 로켓으로 사거리 70 Km)
 

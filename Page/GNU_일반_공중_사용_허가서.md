@@ -52,8 +52,6 @@ GPL 버전 3은 [2007년](../Page/2007년.md "wikilink") [6월 29일에](../Page
 
 [2006년](../Page/2006년.md "wikilink"), [자유 소프트웨어 재단은](../Page/자유_소프트웨어_재단.md "wikilink") GPL의 바뀔 수 있는 부분에 대해서 열두달간의 공공자문회를 가졌다. 이 과정에서 자유 소프트웨어 재단, 소프트웨어 자유 법률 센터, [유럽 자유 소프트웨어 재단이](https://ko.wikipedia.org/wiki/유럽_자유_소프트웨어_재단 "wikilink") 의견을 조정했다.
 
-111
-
 ## 비판
 
 ### 마이크로소프트
@@ -83,7 +81,7 @@ GPL 버전 3은 [2007년](../Page/2007년.md "wikilink") [6월 29일에](../Page
 
   - [GNU Korea 홈페이지](http://korea.gnu.org/)
 
-[분류:GNU 프로젝트](https://ko.wikipedia.org/wiki/분류:GNU_프로젝트 "wikilink") [분류:카피레프트](https://ko.wikipedia.org/wiki/분류:카피레프트 "wikilink") [분류:자유 및 오픈 소스 소프트웨어 사용권](https://ko.wikipedia.org/wiki/분류:자유_및_오픈_소스_소프트웨어_사용권 "wikilink") [분류:자유 저작물 사용권](https://ko.wikipedia.org/wiki/분류:자유_저작물_사용권 "wikilink")
+[분류:GNU 프로젝트](https://ko.wikipedia.org/wiki/분류:GNU_프로젝트 "wikilink") [분류:카피레프트](https://ko.wikipedia.org/wiki/분류:카피레프트 "wikilink") [분류:자유 및 오픈 소스 소프트웨어 사용권](https://ko.wikipedia.org/wiki/분류:자유_및_오픈_소스_소프트웨어_사용권 "wikilink") [분류:자유 저작물 사용권](https://ko.wikipedia.org/wiki/분류:자유_저작물_사용권 "wikilink") [분류:카피레프트 소프트웨어 사용권](https://ko.wikipedia.org/wiki/분류:카피레프트_소프트웨어_사용권 "wikilink")
 
 1.
 2.  (Internet archive link)

@@ -74,6 +74,6 @@ GNU 자유 문서 사용 허가서는 [GNU 일반 공중 사용 허가서와](..
   - [GNU FDL 원문](http://www.gnu.org/licenses/fdl.txt)
       - [GNU FDL 한국어 번역문](https://web.archive.org/web/20080902040138/http://korea.gnu.org/people/chsong/copyleft/fdl-1.2.ko.html)
 
-[분류:GNU 프로젝트](https://ko.wikipedia.org/wiki/분류:GNU_프로젝트 "wikilink") [분류:카피레프트](https://ko.wikipedia.org/wiki/분류:카피레프트 "wikilink") [분류:자유 저작물 사용권](https://ko.wikipedia.org/wiki/분류:자유_저작물_사용권 "wikilink") [분류:소프트웨어 문서화](https://ko.wikipedia.org/wiki/분류:소프트웨어_문서화 "wikilink")
+[분류:GNU 프로젝트](https://ko.wikipedia.org/wiki/분류:GNU_프로젝트 "wikilink") [분류:카피레프트](https://ko.wikipedia.org/wiki/분류:카피레프트 "wikilink") [분류:자유 저작물 사용권](https://ko.wikipedia.org/wiki/분류:자유_저작물_사용권 "wikilink") [분류:소프트웨어 문서화](https://ko.wikipedia.org/wiki/분류:소프트웨어_문서화 "wikilink") [분류:카피레프트 소프트웨어 사용권](https://ko.wikipedia.org/wiki/분류:카피레프트_소프트웨어_사용권 "wikilink")
 
 1.  [GPL과의 비호환성](http://lists.debian.org/debian-legal/2003/04/msg00258.html)

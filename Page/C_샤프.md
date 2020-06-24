@@ -407,7 +407,7 @@ public static void Main()
 
 <references group="note" />
 
-[C_샤프](https://ko.wikipedia.org/wiki/분류:C_샤프 "wikilink") [분류:ISO 표준](https://ko.wikipedia.org/wiki/분류:ISO_표준 "wikilink") [분류:닷넷 프로그래밍 언어](https://ko.wikipedia.org/wiki/분류:닷넷_프로그래밍_언어 "wikilink") [분류:2001년 개발된 프로그래밍 언어](https://ko.wikipedia.org/wiki/분류:2001년_개발된_프로그래밍_언어 "wikilink") [분류:함수형 프로그래밍 언어](https://ko.wikipedia.org/wiki/분류:함수형_프로그래밍_언어 "wikilink") [분류:IEC 표준](https://ko.wikipedia.org/wiki/분류:IEC_표준 "wikilink")
+[C_샤프](https://ko.wikipedia.org/wiki/분류:C_샤프 "wikilink") [분류:ISO 표준](https://ko.wikipedia.org/wiki/분류:ISO_표준 "wikilink") [분류:닷넷 프로그래밍 언어](https://ko.wikipedia.org/wiki/분류:닷넷_프로그래밍_언어 "wikilink") [분류:2001년 개발된 프로그래밍 언어](https://ko.wikipedia.org/wiki/분류:2001년_개발된_프로그래밍_언어 "wikilink") [분류:함수형 프로그래밍 언어](https://ko.wikipedia.org/wiki/분류:함수형_프로그래밍_언어 "wikilink") [분류:IEC 표준](https://ko.wikipedia.org/wiki/분류:IEC_표준 "wikilink") [분류:Ecma 표준](https://ko.wikipedia.org/wiki/분류:Ecma_표준 "wikilink")
 
 1.  <https://www.visualstudio.com/ko/vs/community/> 비주얼 스튜디오 커뮤니티 사이트
 2.  <http://www.wikihow.com/Create-a-Program-in-C-Sharp>

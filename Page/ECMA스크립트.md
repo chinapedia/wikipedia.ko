@@ -69,7 +69,7 @@ ECMA-262는 10개의 판이 출판되었다. 10판 표준에 대한 작업은 20
   - [표준 ECMA-327 ECMA스크립트 3판 축약판 (2001년 6월)](http://www.ecma-international.org/publications/standards/Ecma-327.htm)
   - [표준 ECMA-357 XML을 위한 ECMA스크립트(E4X) 규격 (2004년 6월)](https://web.archive.org/web/20131104082608/http://www.ecma-international.org/publications/standards/Ecma-357.htm)
 
-[분류:스크립트 언어](https://ko.wikipedia.org/wiki/분류:스크립트_언어 "wikilink") [분류:ISO 표준](https://ko.wikipedia.org/wiki/분류:ISO_표준 "wikilink") [분류:C 프로그래밍 언어 계열](https://ko.wikipedia.org/wiki/분류:C_프로그래밍_언어_계열 "wikilink") [분류:자바스크립트 프로그래밍 언어 계열](https://ko.wikipedia.org/wiki/분류:자바스크립트_프로그래밍_언어_계열 "wikilink")
+[분류:스크립트 언어](https://ko.wikipedia.org/wiki/분류:스크립트_언어 "wikilink") [분류:ISO 표준](https://ko.wikipedia.org/wiki/분류:ISO_표준 "wikilink") [분류:C 프로그래밍 언어 계열](https://ko.wikipedia.org/wiki/분류:C_프로그래밍_언어_계열 "wikilink") [분류:자바스크립트 프로그래밍 언어 계열](https://ko.wikipedia.org/wiki/분류:자바스크립트_프로그래밍_언어_계열 "wikilink") [분류:컴퓨터 표준](https://ko.wikipedia.org/wiki/분류:컴퓨터_표준 "wikilink") [분류:Ecma 표준](https://ko.wikipedia.org/wiki/분류:Ecma_표준 "wikilink")
 
 1.
 2.

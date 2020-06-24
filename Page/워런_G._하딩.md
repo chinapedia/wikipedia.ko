@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [워런 G. 하딩](https://ko.wikipedia.org/wiki/워런_G._하딩).
 
 
-**워런 가멜리엘 하딩** (Warren Gamaliel Harding, [1865년](../Page/1865년.md "wikilink") [11월 2일](../Page/11월_2일.md "wikilink") \~ [1923년](../Page/1923년.md "wikilink") [8월 2일](../Page/8월_2일.md "wikilink"))은 [미국](../Page/미국.md "wikilink")의 29번째(제34대) [대통령](../Page/미국의_대통령.md "wikilink")(1921\~23)이다. 그리고 임기 중 사망한 여섯번째 대통령이다.
+**워런 개메일리얼 하딩** (Warren Gamaliel Harding, [1865년](../Page/1865년.md "wikilink") [11월 2일](../Page/11월_2일.md "wikilink") \~ [1923년](../Page/1923년.md "wikilink") [8월 2일](../Page/8월_2일.md "wikilink"))은 [미국](../Page/미국.md "wikilink")의 29번째(제34대) [대통령](../Page/미국의_대통령.md "wikilink")(1921\~23)이다. 그리고 임기 중 사망한 여섯번째 대통령이다.
 
 ## 초기 생애
 
@@ -57,7 +57,7 @@
 
 ### 정상으로 복귀
 
-하딩은 국제 연맹에 정돈을 끝내는 데 빠르게 움직였다. 그는 언맹이 [독일](../Page/독일.md "wikilink")과 다른 중앙 권력들과 함께 계약이 포함되지 않은 평화 조약들을 맺었다. 의회는 국재적 입법에서 지도자력을 차지하였다. [1921년](../Page/1921년.md "wikilink") 처음으로 [이민](https://ko.wikipedia.org/wiki/이민 "wikilink")에 몫을 놓았고 [세금](https://ko.wikipedia.org/wiki/세금 "wikilink")을 줄였다. [1922년](../Page/1922년.md "wikilink")에 관세를 기록 신장으로 올렸다.
+하딩은 국제 연맹에 정돈을 끝내는 데 빠르게 움직였다. 그는 연맹이 [독일](../Page/독일.md "wikilink")과 다른 중앙 권력들과 함께 계약이 포함되지 않은 평화 조약들을 맺었다. 의회는 국재적 입법에서 지도자력을 차지하였다. [1921년](../Page/1921년.md "wikilink") 처음으로 [이민](https://ko.wikipedia.org/wiki/이민 "wikilink")에 몫을 놓았고 [세금](https://ko.wikipedia.org/wiki/세금 "wikilink")을 줄였다. [1922년](../Page/1922년.md "wikilink")에 관세를 기록 신장으로 올렸다.
 
 농업 장관 [헨리 C. 월리스는](https://ko.wikipedia.org/wiki/헨리_C._월리스 "wikilink") 농업부와 농부들에게 이득을 준 진흥적 입법을 인정하였다. 당시 상업 장관 [허버트 후버는](../Page/허버트_후버.md "wikilink") 상업적인 비행과 라디오 방송을 위한 규정들을 제안하였고 [철강업](https://ko.wikipedia.org/wiki/철강업 "wikilink")에서 12시간의 근로일을 끝내는 데 도움을 주었다. 국무 장관 [찰스 에반스 휴스의](https://ko.wikipedia.org/wiki/찰스_에반스_휴스 "wikilink") 지도력 아래 [워싱턴 군축회의가](https://ko.wikipedia.org/wiki/워싱턴_군축회의 "wikilink") [1921년](../Page/1921년.md "wikilink")과 [1922년](../Page/1922년.md "wikilink")에 열렸다.
 

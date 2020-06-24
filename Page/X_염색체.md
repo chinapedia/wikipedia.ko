@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [X 염색체](https://ko.wikipedia.org/wiki/X_염색체).
 
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:Chromosome_X.svg "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:Sd4hi-unten-crop.jpg "wikilink")([FISH](https://ko.wikipedia.org/wiki/:en:Fluorescence_in_situ_hybridization "wikilink"))로 검출한 X 염색체 2개. 아래: 같은 핵을 [DAPI](https://ko.wikipedia.org/wiki/DAPI "wikilink")로 염색하고 [전하결합소자](../Page/전하결합소자.md "wikilink") [카메라](https://ko.wikipedia.org/wiki/카메라 "wikilink")로 촬영한 것. 화살표는 불활성화된 X 염색체인 [바소체](../Page/바소체.md "wikilink")이다.\]\] **X 염색체**는 [유성 생식을](../Page/유성_생식.md "wikilink") 하는 [생물](../Page/생물.md "wikilink") 중 [성결정](https://ko.wikipedia.org/wiki/성결정 "wikilink") 방식이 XO 방식이나 XY 방식인 생물들이 가지는 [성 염색체중](https://ko.wikipedia.org/wiki/성_염색체 "wikilink") 하나이다. 암컷과 수컷 모두에게 있으며, 포유류의 경우 이질염색체 중 다른 하나는 [Y 염색체이다](https://ko.wikipedia.org/wiki/Y_염색체 "wikilink"). X 염색체라는 이름은 초기 연구자들이 X 염색체의 독특한 특성을 보고 붙인 이름이다.\[1\]\[2\]
+[섬네일](https://ko.wikipedia.org/wiki/파일:Chromosome_X.svg "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:Sd4hi-unten-crop.jpg "wikilink")([FISH](https://ko.wikipedia.org/wiki/:en:Fluorescence_in_situ_hybridization "wikilink"))로 검출한 X 염색체 2개. 아래: 같은 핵을 [DAPI](https://ko.wikipedia.org/wiki/DAPI "wikilink")로 염색하고 [전하결합소자](../Page/전하결합소자.md "wikilink") [카메라](https://ko.wikipedia.org/wiki/카메라 "wikilink")로 촬영한 것. 화살표는 불활성화된 X 염색체인 [바소체](../Page/바소체.md "wikilink")이다.\]\] **X 염색체**는 [유성 생식을](../Page/유성_생식.md "wikilink") 하는 [생물](../Page/생물.md "wikilink") 가운데 [성결정](https://ko.wikipedia.org/wiki/성결정 "wikilink") 방식이 XO 방식이나 XY 방식인 생물의 [성 염색체](https://ko.wikipedia.org/wiki/성_염색체 "wikilink") 가운데 하나다. 암컷과 수컷 모두 있으며, 포유류는 이질염색체 가운데 다른 하나는 [Y 염색체다](https://ko.wikipedia.org/wiki/Y_염색체 "wikilink"). X 염색체라는 이름은 초기 연구자들이 X 염색체의 독특한 특성을 보고 붙인 이름이다.\[1\]\[2\]
 
 ## 사람의 X 염색체
 
 ### 기능
 
-사람의 X 염색체에는 1억 5천3백만 개 이상의 [염기쌍](https://ko.wikipedia.org/wiki/염기쌍 "wikilink")이 있다. 인간 유전자 2만-2만 5천 개 중 2천 개가 X 염색체 위에 있다. 각 개인의 세포에는 대개 [성염색체](https://ko.wikipedia.org/wiki/성염색체 "wikilink") 한 쌍이 있다. 여자는 X 염색체를 두 개 가지고, 남자는 X 염색체와 [Y 염색체를](https://ko.wikipedia.org/wiki/Y_염색체 "wikilink") 가진다. 성별과 관계없이 적어도 하나의 염색체는 어머니로부터 받으며, 여자는 나머지 X 염색체를 아버지로부터 받는다. 아버지는 그의 어머니로부터 X 염색체를 받기 때문에 결과적으로 여자는 친할머니에게서 X 염색체 하나, 어머니로부터 X 염색체 하나를 받는다.
+사람의 X 염색체에는 1억 5천3백만 개 이상의 [염기쌍](../Page/염기쌍.md "wikilink")이 있다. 인간 유전자 2만-2만 5천 개 중 2천 개가 X 염색체 위에 있다. 각 개인의 세포에는 대개 [성염색체](https://ko.wikipedia.org/wiki/성염색체 "wikilink") 한 쌍이 있다. 여자는 X 염색체를 두 개 가지고, 남자는 X 염색체와 [Y 염색체를](https://ko.wikipedia.org/wiki/Y_염색체 "wikilink") 가진다. 성별과 관계없이 적어도 하나의 염색체는 어머니로부터 받으며, 여자는 나머지 X 염색체를 아버지로부터 받는다. 아버지는 그의 어머니로부터 X 염색체를 받기 때문에 결과적으로 여자는 친할머니에게서 X 염색체 하나, 어머니로부터 X 염색체 하나를 받는다.
 
 유전학 분야에서는 각 염색체에 있는 [유전자](../Page/유전자.md "wikilink")를 밝히는 연구가 활발하다. 연구자들은 염색체에 있는 유전자의 수를 측정할 때 서로 다른 접근 방법을 사용하기 때문에 추정된 유전자의 수도 다르다. X 염색체에는 800-900개\[3\] 의 단백질로 발현되는 유전자가 있고, 반면에 Y 염색체에는 50-60개\[4\] 가 있다. X 염색체에 일어난 [돌연변이](../Page/돌연변이.md "wikilink")로 인해 [유전 질환이](../Page/유전성_질환.md "wikilink") 생길 수 있다.
 

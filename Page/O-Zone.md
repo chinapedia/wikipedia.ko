@@ -29,7 +29,7 @@
   - [O-Zone 팬사이트](https://archive.is/20030728010539/http://www.o-zone.go.ro/)
   - [mdn.mainichi-msn.co.jp](http://mdn.mainichi-msn.co.jp/national/news/20051001p2a00m0et010000c.html) "드라고스테아 딘 테이"의 일본판을 놓고 벌어진 법정 싸움
   - [Arseniums.com](https://web.archive.org/web/20090125081119/http://arseniums.com/). Arsenium의 웹사이트
-  - [Dan-Balan.ru](http://www.dan-balan.ru). Dan Bălan의 웹사이트
+  - [Dan-Balan.ru](https://web.archive.org/web/20191020230623/http://www.dan-balan.ru/). Dan Bălan의 웹사이트
   - [Radu-s.ru](https://web.archive.org/web/20141218053904/http://radu-s.ru/) Radu Sarbu의 웹사이트 (개통 예정)
 
 <!-- end list -->

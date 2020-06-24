@@ -23,7 +23,7 @@
 
 〈The End〉는 비틀즈가 연주했던 노래들 중에서 유일하게 링고 스타의 드럼 솔로가 등장하는 곡이다. 또한 폴 매카트니, 조지 해리슨, 존 레논이 돌아가면서 연주한 기타 솔로(순서는 정확히 알려지지 않았다.) 가 등장하는 유일한 곡이기도 하다.
 
-앨범 《[Anthology 3](https://ko.wikipedia.org/wiki/Anthology_3 "wikilink")》에는 링고 스타의 드럼 솔로와 함께 해리슨의 리드 기타 솔로가 등장하는 버전이 나와 있기도 하다. 그리고 이 노래의 마지막 행인 "And in the end, the love you take is equal to the love you make"(그리고 마지막엔, 당신이 받는 사랑은 당신이 베푼 사랑과 같아요.)는 많은 팬들에게는, 비틀즈가 남기는 메시지의 정수(essence)로 받아들이기도 한다.
+앨범 《[Anthology 3](../Page/Anthology_3.md "wikilink")》에는 링고 스타의 드럼 솔로와 함께 해리슨의 리드 기타 솔로가 등장하는 버전이 나와 있기도 하다. 그리고 이 노래의 마지막 행인 "And in the end, the love you take is equal to the love you make"(그리고 마지막엔, 당신이 받는 사랑은 당신이 베푼 사랑과 같아요.)는 많은 팬들에게는, 비틀즈가 남기는 메시지의 정수(essence)로 받아들이기도 한다.
 
 ### Her Majesty
 

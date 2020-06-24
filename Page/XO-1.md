@@ -93,5 +93,5 @@
 9.  [Peruvian president talks OLPC](http://www.olpcnews.com/countries/peru/peruvian_president_talks_olpc.html)
 10.
 11. [120,000 XO Laptops Headed to OLPC Rwanda](http://www.olpcnews.com/countries/rwanda/120000_xo_laptops_headed_to_ol.html)
-12. [Latin America Leads in School](http://www.miamiherald.com/2010/03/21/1539828/latin-america-leads-in-school.html), Miami Herald
+12. [Latin America Leads in School](http://www.miamiherald.com/2010/03/21/1539828/latin-america-leads-in-school.html) , Miami Herald
 13. [Argentina's La Rioja province receives the first 1,000 of 60,000 XOs ordered](http://www.bnamericas.com/news/technology/OLPC_delivers_first_installment_of_60,000_PCs_for_La_Rioja_schools) , BN Americas

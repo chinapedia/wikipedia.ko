@@ -15,4 +15,4 @@
 
   - [ITU-R Recommendation BT.656](http://www.itu.int/rec/R-REC-BT.656/en): Interfaces for digital component video signals in 525-line and 625-line television systems operating at the 4:2:2 level of Recommendation ITU-R BT.601 (Part A).
 
-[분류:국제 전기 통신 연합](https://ko.wikipedia.org/wiki/분류:국제_전기_통신_연합 "wikilink")
+[분류:국제 전기 통신 연합](https://ko.wikipedia.org/wiki/분류:국제_전기_통신_연합 "wikilink") [분류:ITU-R 권고](https://ko.wikipedia.org/wiki/분류:ITU-R_권고 "wikilink")

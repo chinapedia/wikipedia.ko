@@ -118,7 +118,7 @@ JPEG 표준 안에는 많은 선택사항들이 있지만, 그중 대부분은 �
   - [JPEG Standard (JPEG ISO/IEC 10918-1 ITU-T Recommendation T.81)](http://www.w3.org/Graphics/JPEG/itu-t81.pdf) at W3.org
   - [JPEG compression and decompression on GPU.](http://on-demand.gputechconf.com/gtc/2012/presentations/S0273-Fast-JPEG-Coding-on-the-GPU.pdf)
 
-[JPEG](https://ko.wikipedia.org/wiki/분류:JPEG "wikilink") [분류:ISO 표준](https://ko.wikipedia.org/wiki/분류:ISO_표준 "wikilink") [분류:그래픽 파일 포맷](https://ko.wikipedia.org/wiki/분류:그래픽_파일_포맷 "wikilink") [분류:오픈 포맷](https://ko.wikipedia.org/wiki/분류:오픈_포맷 "wikilink") [분류:화상 압축](https://ko.wikipedia.org/wiki/분류:화상_압축 "wikilink") [분류:손실 압축 알고리즘](https://ko.wikipedia.org/wiki/분류:손실_압축_알고리즘 "wikilink")
+[JPEG](https://ko.wikipedia.org/wiki/분류:JPEG "wikilink") [분류:ISO 표준](https://ko.wikipedia.org/wiki/분류:ISO_표준 "wikilink") [분류:그래픽 파일 포맷](https://ko.wikipedia.org/wiki/분류:그래픽_파일_포맷 "wikilink") [분류:오픈 포맷](https://ko.wikipedia.org/wiki/분류:오픈_포맷 "wikilink") [분류:화상 압축](https://ko.wikipedia.org/wiki/분류:화상_압축 "wikilink") [분류:손실 압축 알고리즘](https://ko.wikipedia.org/wiki/분류:손실_압축_알고리즘 "wikilink") [분류:ITU-T 권고](https://ko.wikipedia.org/wiki/분류:ITU-T_권고 "wikilink")
 
 1.  [북한자료센터: 남북한 IT용어 비교](http://unibook.unikorea.go.kr/?cate=1&sub_num=50&pageNo=53)
 2.

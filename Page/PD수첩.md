@@ -86,7 +86,9 @@
 | [2013년](../Page/2013년.md "wikilink") [4월 2일](../Page/4월_2일.md "wikilink")                                                                                      | 매주 [화요일](https://ko.wikipedia.org/wiki/화요일 "wikilink") 밤 10:55 \~ 11:50                                                                                | 55분                                                                     |       |
 | [2013년](../Page/2013년.md "wikilink") [4월 16일](../Page/4월_16일.md "wikilink") \~ [2013년](../Page/2013년.md "wikilink") [10월 15일](../Page/10월_15일.md "wikilink")   | 매주 [화요일](https://ko.wikipedia.org/wiki/화요일 "wikilink") 밤 11:20 \~ 12:15                                                                                |                                                                         |       |
 | [2019년](../Page/2019년.md "wikilink") [10월 22일](../Page/10월_22일.md "wikilink")                                                                                  | 매주 [화요일](https://ko.wikipedia.org/wiki/화요일 "wikilink") 밤 11:00 \~ 11:55                                                                                |                                                                         |       |
-| [2020년](../Page/2020년.md "wikilink") [3월 24일](../Page/3월_24일.md "wikilink") \~ **현재**                                                                          |                                                                                                                                                        |                                                                         |       |
+| [2020년](../Page/2020년.md "wikilink") [3월 24일](../Page/3월_24일.md "wikilink") \~                                                                                 |                                                                                                                                                        |                                                                         |       |
+| [2020년](../Page/2020년.md "wikilink") [5월 19일](../Page/5월_19일.md "wikilink")                                                                                    | 매주 [화요일](https://ko.wikipedia.org/wiki/화요일 "wikilink") 밤 11:00 \~ 12:00                                                                                | 1시간                                                                     |       |
+|                                                                                                                                                                |                                                                                                                                                        |                                                                         |       |
 
 ## 제작진
 
@@ -141,7 +143,7 @@
 
 #### 2006년
 
-  - [6월 13일](../Page/6월_13일.md "wikilink") \~ [6월 20일](../Page/6월_20일.md "wikilink"): [독일 월드컵](https://ko.wikipedia.org/wiki/2006년_FIFA_월드컵 "wikilink") 중계로 2주간 결방.
+  - [6월 13일](../Page/6월_13일.md "wikilink") \~ [6월 20일](../Page/6월_20일.md "wikilink"): [독일 월드컵](https://ko.wikipedia.org/wiki/2006년_FIFA_월드컵 "wikilink") 중계방송으로 2주간 결방.
 
 #### 2008년
 
@@ -172,7 +174,7 @@
 
 #### 2011년
 
-  - [1월 18일](../Page/1월_18일.md "wikilink") : AFC[아시안컵](https://ko.wikipedia.org/wiki/아시안컵 "wikilink")축구중계
+  - [1월 18일](../Page/1월_18일.md "wikilink") : AFC[아시안컵](https://ko.wikipedia.org/wiki/아시안컵 "wikilink")축구 중계방송으로 결방
   - [2월 1일](../Page/2월_1일.md "wikilink") : [설](https://ko.wikipedia.org/wiki/설 "wikilink")특집 프로그램으로 대체
   - [5월 24일](../Page/5월_24일.md "wikilink") : 내부사정으로 인해 다큐멘터리 재방송으로 대체되었다.
   - [10월 11일](../Page/10월_11일.md "wikilink") : 2011 프로야구 준플레이오프 3차전 중계방송으로 30분 늦게 방송하였다.

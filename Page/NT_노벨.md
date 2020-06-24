@@ -227,7 +227,7 @@ NT 노벨에서 번역·발행한 라이트 노벨의 목록은 자음 기준에
   - [용병단의 취사반](https://ko.wikipedia.org/wiki/용병단의_취사반 "wikilink") (1\~2권)
   - [우는 우주가 위험해의 우\!](https://ko.wikipedia.org/wiki/우는_우주가_위험해의_우! "wikilink") (1권)
   - [우등생 이상, 불량 미만인 우리들](https://ko.wikipedia.org/wiki/우등생_이상,_불량_미만인_우리들 "wikilink") (1\~7권)
-  - [우리 반의 믿음직스럽지 않은 최종보스](https://ko.wikipedia.org/wiki/우리_반의_믿음직스럽지_않은_최종보스 "wikilink") ((1\~2권)
+  - [우리 반의 믿음직스럽지 않은 최종보스](https://ko.wikipedia.org/wiki/우리_반의_믿음직스럽지_않은_최종보스 "wikilink") (1\~2권)
   - [우리 학교 암살부](https://ko.wikipedia.org/wiki/우리_학교_암살부 "wikilink") (1\~2권)
   - [운율이 만드는 소환마법](https://ko.wikipedia.org/wiki/운율이_만드는_소환마법 "wikilink") (1권)
   - [원환소녀](https://ko.wikipedia.org/wiki/원환소녀 "wikilink") (1\~13권)

@@ -138,6 +138,7 @@ CAL, FNC: 후에 5.56mm NATO탄이 NATO표준 탄약이 되자, 벨기에는 FAL
   - PC Game 《[SAS 시큐어 투모로우](../Page/SAS_시큐어_투모로우.md "wikilink")》에 등장한다.
   - PC Online Game 《A.V.A》에서는 'SA-58'이라는 이름으로 등장한다. SA-58은 FN FAL의 바리에이션 중 하나.
   - PC Game 《[폴아웃](https://ko.wikipedia.org/wiki/폴아웃 "wikilink") 2》와 《[폴아웃](https://ko.wikipedia.org/wiki/폴아웃 "wikilink") 택틱스》에 등장하며 《[폴아웃](https://ko.wikipedia.org/wiki/폴아웃 "wikilink") 3》에서도 MOD를 통해 추가시킬 수 있다.
+  - Pc Game 《배틀그라운드》에서 'SLR(Self Loading System)' 이라는 이름으로 지정사수소총으로 등장한다. SLR 은 영국군이 FAL을 개조한총, L1A1
 
 ## 같이 보기
 

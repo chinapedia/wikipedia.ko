@@ -11,7 +11,7 @@
 
 아스널은 잉글랜드 축구에서 가장 부유한 클럽 중 하나로 여겨지고 있으며(2008년 당시 6억 유로로 평가받았다), 그들이 달성한 위업은 [영국](../Page/영국.md "wikilink") 축구 문화에서 정기적으로 다뤄지고 있다. 팀의 애칭에는 거너스(Gunners)라고 불린다.
 
-현재 감독은 [미켈 아르테타이며](../Page/미켈_아르테타.md "wikilink") 주장은 [피에르에메리크 오바메양이고](https://ko.wikipedia.org/wiki/피에르에메리크_오바메양 "wikilink") 부주장은 공석이다.
+현재 감독은 [미켈 아르테타이며](../Page/미켈_아르테타.md "wikilink") 주장은 [피에르에메리크 오바메양이고](https://ko.wikipedia.org/wiki/피에르에메리크_오바메양 "wikilink") 부주장은 [엑토르 베예린이다](../Page/엑토르_베예린.md "wikilink").
 
 ## 역사
 
@@ -650,12 +650,17 @@
 
 ## 네임드 팬
 
+  - [엘리자베스 2세](../Page/엘리자베스_2세.md "wikilink") (영국 여왕)
   - [웨일스 공자 해리](https://ko.wikipedia.org/wiki/웨일스_공자_해리 "wikilink") (영국 왕자, [웨일스 공 찰스의](../Page/웨일스_공_찰스.md "wikilink") 차남)
   - [도널드 트럼프](../Page/도널드_트럼프.md "wikilink") (미국 제45대 대통령)
+  - [제러미 코빈](../Page/제러미_코빈.md "wikilink") (영국 노동당 전 대표)
   - [데이지 리들리](../Page/데이지_리들리.md "wikilink") (배우)
+  -
   - [케빈 코스트너](../Page/케빈_코스트너.md "wikilink") (배우)
   - [제이미 벨](../Page/제이미_벨.md "wikilink") (배우)
   - [피델 카스트로](../Page/피델_카스트로.md "wikilink") (정치가)
+  - [해리 스타일스](../Page/해리_스타일스.md "wikilink") (가수)
+  - [저스틴 비버](../Page/저스틴_비버.md "wikilink") (가수)
   - [베네딕트 컴버배치](../Page/베네딕트_컴버배치.md "wikilink") (배우)
   - [로저 돌트리](../Page/로저_돌트리.md "wikilink") ([더 후의](../Page/더_후.md "wikilink") 보컬)
   - [다이도](../Page/다이도_\(가수\).md "wikilink") (가수)
@@ -687,8 +692,10 @@
   - [김상혁](../Page/김상혁.md "wikilink") ([클릭비](https://ko.wikipedia.org/wiki/클릭비 "wikilink")의 멤버)
   - [목진석](../Page/목진석.md "wikilink") (바둑기사)
   - [민호](../Page/민호.md "wikilink") ([샤이니](../Page/샤이니.md "wikilink")의 멤버)
+  - [수빈](../Page/수빈_\(1996년\).md "wikilink") ([우주소녀](../Page/우주소녀.md "wikilink")의 멤버)
   - [박종윤](../Page/박종윤_\(아나운서\).md "wikilink") (캐스터)
   - [이상윤](../Page/이상윤_\(축구인\).md "wikilink") (축구 해설위원)
+  - [그리](../Page/그리_\(연예인\).md "wikilink") (래퍼)
   - [임시완](../Page/임시완.md "wikilink") ([ZE:A](../Page/ZE:A.md "wikilink")의 멤버)
   - [한준희](../Page/한준희.md "wikilink")(축구 해설위원)
   - [한현민](../Page/한현민_\(모델\).md "wikilink") (모델)

@@ -17,7 +17,7 @@
 
 ### 1980년대
 
-[1980년](../Page/1980년.md "wikilink")에는 [비디오테이프](../Page/비디오테이프.md "wikilink") 개발에 성공 하였으며 <SKC> 상표를 붙이고 판매 하였다. 그 해 11월에는 [대한석유공사](../Page/SK_\(1962~2015년_기업\).md "wikilink")(현 SK이노베이션 및 SK에너지)를 인수하였다. [1982년](../Page/1982년.md "wikilink") 유공해운(현 [SK해운](https://ko.wikipedia.org/wiki/SK해운 "wikilink"))을 설립하였고, 이어서 유공 코끼리 프로축구단 (현 [제주 유나이티드 FC](../Page/제주_유나이티드_FC.md "wikilink"))을 창단하였다. [1984년](../Page/1984년.md "wikilink") 유공가스(현 [SK가스](https://ko.wikipedia.org/wiki/SK가스 "wikilink"))를 설립하였고, [1987년](../Page/1987년.md "wikilink") [미국](../Page/미국.md "wikilink") [아코](https://ko.wikipedia.org/wiki/아코 "wikilink")(ARCO)와 합작으로 유공아코화학(현 SK에버텍)을 설립하였으며, 선경화학을 주식회사 [에스케이씨로](../Page/SKC.md "wikilink") 상호를 변경하였다. [1989년](../Page/1989년.md "wikilink") [서울특별시](../Page/서울특별시.md "wikilink") [강북구](https://ko.wikipedia.org/wiki/강북구 "wikilink") 우이동의 아카데미 하우스에서 SUPEX를 추구 정립을 하였고, [1991년](../Page/1991년.md "wikilink") 19년 만에 선경그룹 수직 계열화를 완성하였다. [1992년](../Page/1992년.md "wikilink") [태평양화학그룹의](../Page/아모레퍼시픽.md "wikilink") 태평양증권을 인수하여 선경증권(현 [SK증권](../Page/SK증권.md "wikilink"))을 설립하여 금융업을 개시하였다.
+[1980년](../Page/1980년.md "wikilink")에는 [비디오테이프](../Page/비디오테이프.md "wikilink") 개발에 성공 하였으며 <SKC> 상표를 붙이고 판매 하였다. 그 해 11월에는 [대한석유공사](../Page/SK_\(1962~2015년_기업\).md "wikilink")(현 SK이노베이션 및 SK에너지)를 인수하였다. [1982년](../Page/1982년.md "wikilink") 유공해운(현 [SK해운](https://ko.wikipedia.org/wiki/SK해운 "wikilink"))을 설립하였으며, 이어서 유공 코끼리 프로축구단 (현 [제주 유나이티드 FC](../Page/제주_유나이티드_FC.md "wikilink"))을 창단하였다. [1984년](../Page/1984년.md "wikilink") 유공가스(현 [SK가스](https://ko.wikipedia.org/wiki/SK가스 "wikilink"))를 설립하였으며, [1987년](../Page/1987년.md "wikilink") [미국](../Page/미국.md "wikilink") [아코](https://ko.wikipedia.org/wiki/아코 "wikilink")(ARCO)와 합작으로 유공아코화학(현 SK에버텍)을 설립하였으며, 선경화학에서 주식회사 [SKC](../Page/SKC.md "wikilink")로 상호를 변경하였다. [1989년](../Page/1989년.md "wikilink") [서울특별시](../Page/서울특별시.md "wikilink") [강북구](https://ko.wikipedia.org/wiki/강북구 "wikilink") 우이동의 아카데미 하우스에서 SUPEX를 추구 정립을 하였으며, [1991년](../Page/1991년.md "wikilink") 19년 만에 선경그룹 수직 계열화를 완성하였다. [1992년](../Page/1992년.md "wikilink") [태평양화학그룹의](../Page/아모레퍼시픽.md "wikilink") 태평양증권을 인수하여 선경증권(현 [SK증권](../Page/SK증권.md "wikilink"))을 설립하여 금융업을 개시하였다.
 
 ### 1990년대
 
@@ -100,6 +100,7 @@
 | [네트웍오앤에스](https://ko.wikipedia.org/wiki/네트웍오앤에스 "wikilink")                       | 정보통신업                                                                  |
 | [PS\&Marketing](https://ko.wikipedia.org/wiki/PS&Marketing "wikilink")            | ICT유통업                                                                 |
 | [SK커뮤니케이션즈](../Page/SK커뮤니케이션즈.md "wikilink")                                      | 포털 및 기타 인터넷 정보매개 서비스업                                                  |
+| [드림어스컴퍼니](https://ko.wikipedia.org/wiki/드림어스컴퍼니 "wikilink")                       | 음악서비스플랫폼, FLO 서비스 운영                                                   |
 | **마케팅 및 서비스 부문**                                                                  |                                                                        |
 | [SK네트웍스](../Page/SK네트웍스.md "wikilink")                                            | 상품 종합 도매업                                                              |
 | [SK렌터카](https://ko.wikipedia.org/wiki/SK렌터카 "wikilink")                           | 렌터카 제조업                                                                |

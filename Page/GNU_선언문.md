@@ -15,6 +15,6 @@ GNU선언문은 GNU의 유닉스 사가 아닌 GNU의 프로젝트의 목표를 
   - [GNU 선언문](http://www.gnu.org/gnu/manifesto.ko.html) (한국어 번역판)
   - [Dr. Dobb's Journal of Software Tools 10권 3호 목차](http://www.math.utah.edu/ftp/pub/tex/bib/toc/dr-dobbs-1980.html#10\(3\):March:1985)
 
-[분류:GNU 프로젝트](https://ko.wikipedia.org/wiki/분류:GNU_프로젝트 "wikilink") [분류:1985년 작품](https://ko.wikipedia.org/wiki/분류:1985년_작품 "wikilink")
+[분류:GNU 프로젝트](https://ko.wikipedia.org/wiki/분류:GNU_프로젝트 "wikilink") [분류:1985년 작품](https://ko.wikipedia.org/wiki/분류:1985년_작품 "wikilink") [분류:인터넷 문화](https://ko.wikipedia.org/wiki/분류:인터넷_문화 "wikilink")
 
 1.

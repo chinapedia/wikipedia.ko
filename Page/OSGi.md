@@ -149,4 +149,4 @@ Service층은  Plain Old Java Interfaces (POJI)  혹은  Plain Old Java Objec
   - [OSGi 시장적용사례 - 스마트홈](http://www.osgi.org/Markets/SmartHome)
   - [OSGi 시장적용사례 - 헬스케어](http://www.osgi.org/Markets/EHealth)
 
-[분류:1999년 설립](https://ko.wikipedia.org/wiki/분류:1999년_설립 "wikilink") [분류:표준화 기구](https://ko.wikipedia.org/wiki/분류:표준화_기구 "wikilink") [분류:자바로 작성된 자유 소프트웨어](https://ko.wikipedia.org/wiki/분류:자바로_작성된_자유_소프트웨어 "wikilink")
+[분류:1999년 설립](https://ko.wikipedia.org/wiki/분류:1999년_설립 "wikilink") [분류:표준화 기구](https://ko.wikipedia.org/wiki/분류:표준화_기구 "wikilink") [분류:자바로 작성된 자유 소프트웨어](https://ko.wikipedia.org/wiki/분류:자바로_작성된_자유_소프트웨어 "wikilink") [분류:캘리포니아주의 단체](https://ko.wikipedia.org/wiki/분류:캘리포니아주의_단체 "wikilink")

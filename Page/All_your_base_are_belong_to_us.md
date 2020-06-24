@@ -43,13 +43,13 @@
 <br />
 함장: 뭐! (WHAT!)<br />
 <br />
-운영자: 주 화면 켜다. (Main screen turn on.)<br />
+운영자: 켜다 주 화면. (Main screen turn on.)<br />
 <br />
 함장: 너다</p></td>
 <td><p>(It's YOU</p></td>
 <td><p>)<br />
 <br />
-CATS: 잘 지내십니까 여러분</p></td>
+CATS: 잘 지내십니까 신사분들</p></td>
 <td><p>(How are you gentlemen</p></td>
 <td><p>)<br />
 <br />

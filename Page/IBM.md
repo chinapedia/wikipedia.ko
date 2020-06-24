@@ -50,7 +50,7 @@
 
   - [공식 홈페이지](http://www.ibm.com/)
 
-[IBM](https://ko.wikipedia.org/wiki/분류:IBM "wikilink") [분류:1911년 설립된 기업](https://ko.wikipedia.org/wiki/분류:1911년_설립된_기업 "wikilink") [분류:미국의 기업](https://ko.wikipedia.org/wiki/분류:미국의_기업 "wikilink") [분류:미국의 전자 기업](https://ko.wikipedia.org/wiki/분류:미국의_전자_기업 "wikilink") [분류:반도체 기업](https://ko.wikipedia.org/wiki/분류:반도체_기업 "wikilink") [분류:컴퓨터 하드웨어 기업](https://ko.wikipedia.org/wiki/분류:컴퓨터_하드웨어_기업 "wikilink") [분류:미국의 브랜드](https://ko.wikipedia.org/wiki/분류:미국의_브랜드 "wikilink") [분류:클라우드 컴퓨팅 제공자](https://ko.wikipedia.org/wiki/분류:클라우드_컴퓨팅_제공자 "wikilink") [분류:미국의 다국적 기업](https://ko.wikipedia.org/wiki/분류:미국의_다국적_기업 "wikilink") [분류:디스플레이 기술 기업](https://ko.wikipedia.org/wiki/분류:디스플레이_기술_기업 "wikilink")
+[IBM](https://ko.wikipedia.org/wiki/분류:IBM "wikilink") [분류:1911년 설립된 기업](https://ko.wikipedia.org/wiki/분류:1911년_설립된_기업 "wikilink") [분류:미국의 기업](https://ko.wikipedia.org/wiki/분류:미국의_기업 "wikilink") [분류:미국의 전자 기업](https://ko.wikipedia.org/wiki/분류:미국의_전자_기업 "wikilink") [분류:반도체 기업](https://ko.wikipedia.org/wiki/분류:반도체_기업 "wikilink") [분류:컴퓨터 하드웨어 기업](https://ko.wikipedia.org/wiki/분류:컴퓨터_하드웨어_기업 "wikilink") [분류:미국의 브랜드](https://ko.wikipedia.org/wiki/분류:미국의_브랜드 "wikilink") [분류:클라우드 컴퓨팅 제공자](https://ko.wikipedia.org/wiki/분류:클라우드_컴퓨팅_제공자 "wikilink") [분류:미국의 다국적 기업](https://ko.wikipedia.org/wiki/분류:미국의_다국적_기업 "wikilink") [분류:디스플레이 기술 기업](https://ko.wikipedia.org/wiki/분류:디스플레이_기술_기업 "wikilink") [분류:국립 기술혁신 메달 수상자](https://ko.wikipedia.org/wiki/분류:국립_기술혁신_메달_수상자 "wikilink")
 
 1.
 2.

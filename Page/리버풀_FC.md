@@ -355,7 +355,7 @@
 
   -
 
-    **우승 (1)** [2019](https://ko.wikipedia.org/wiki/2019년_FIFA_클럽_월드컵 "wikilink")
+    **우승 (1)** [2019](../Page/2019년_FIFA_클럽_월드컵.md "wikilink")
 
     **준우승 (1)**: [2005](../Page/2005년_FIFA_클럽_세계_선수권_대회.md "wikilink")
 

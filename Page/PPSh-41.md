@@ -19,7 +19,7 @@
 
 ## 별명
 
-[한국전쟁](https://ko.wikipedia.org/wiki/한국전쟁 "wikilink") 당시 대한민국 [국군](https://ko.wikipedia.org/wiki/국군 "wikilink")에게 "인민군 따발총" 이라 불리기도 하였다. 사람들이 흔히 쓰는 말인 연사가 가능한 총기를 말하는 "따발총" 이라는 단어도 여기서 유래 되었다
+[한국전쟁](https://ko.wikipedia.org/wiki/한국전쟁 "wikilink") 당시 대한민국 [국군](https://ko.wikipedia.org/wiki/국군 "wikilink")에게 "인민군 따발총" 이라 불리기도 하였다. 사람들이 흔히 쓰는 말인 연사가 가능한 총기를 말하는 "따발총"이라는 단어도 여기서 유래되었다
 
 ## 같이 보기
 

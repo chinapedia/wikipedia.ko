@@ -5,7 +5,7 @@
 
 ## 역사
 
-2019년 6월 20일, 이란의 [코다드-3 지대공 미사일이](https://ko.wikipedia.org/wiki/라드_\(대공미사일\) "wikilink") 글로벌 호크를 격추했다. 처음에는 [노스럽 그러먼 MQ-4C 트리톤이라고](https://ko.wikipedia.org/wiki/노스럽_그러먼_MQ-4C_트리톤 "wikilink") 발표했었다.
+2019년 6월 20일, 이란의 [코다드-3 지대공 미사일이](https://ko.wikipedia.org/wiki/라드_\(대공미사일\) "wikilink") 글로벌 호크를 격추했다. 처음에는 [노스럽 그러먼 MQ-4C 트리톤이라고](../Page/노스럽_그러먼_MQ-4C_트리톤.md "wikilink") 발표했었다.
 
 ## 개요
 
@@ -138,7 +138,7 @@ Moving Target Indicator mode를 사용하면, 1분에 15,000 평방 킬로미터
   - ["Global Hawk RQ-4A-B High Altitude Long Endurance UAV"](https://web.archive.org/web/20060213134011/http://www.defense-update.com/products/g/globalhawk.htm), [Defense Update](https://ko.wikipedia.org/wiki/Defense_Update "wikilink")
   - [레이시온의 제품 설명 페이지 - 글로벌 호크의 정찰 센서(ISS)](https://web.archive.org/web/20051126003116/http://raytheon.com/products/globalhawk_iss/)
 
-[분류:미국의 무인 항공기](https://ko.wikipedia.org/wiki/분류:미국의_무인_항공기 "wikilink") [분류:정찰기](https://ko.wikipedia.org/wiki/분류:정찰기 "wikilink") [분류:노스럽 그러먼 항공기](https://ko.wikipedia.org/wiki/분류:노스럽_그러먼_항공기 "wikilink") [분류:1998년 첫 비행한 항공기](https://ko.wikipedia.org/wiki/분류:1998년_첫_비행한_항공기 "wikilink") [분류:단발 제트기](https://ko.wikipedia.org/wiki/분류:단발_제트기 "wikilink")
+[분류:미국의 무인 항공기](https://ko.wikipedia.org/wiki/분류:미국의_무인_항공기 "wikilink") [분류:정찰기](https://ko.wikipedia.org/wiki/분류:정찰기 "wikilink") [분류:노스럽 그러먼 항공기](https://ko.wikipedia.org/wiki/분류:노스럽_그러먼_항공기 "wikilink") [분류:1998년 첫 비행한 항공기](https://ko.wikipedia.org/wiki/분류:1998년_첫_비행한_항공기 "wikilink") [분류:단발 제트기](https://ko.wikipedia.org/wiki/분류:단발_제트기 "wikilink") [분류:저익기](https://ko.wikipedia.org/wiki/분류:저익기 "wikilink")
 
 1.  "[FAA Clears Global Hawk For Routine Operation In US National Airspace](http://www.spacedaily.com/news/uav-03zl.html)." [Space Daily](https://ko.wikipedia.org/wiki/Space_Daily "wikilink"). [August 13](https://ko.wikipedia.org/wiki/August_13 "wikilink"), [2003](https://ko.wikipedia.org/wiki/2003 "wikilink").
 2.  <http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=105&oid=020&aid=0001958957>

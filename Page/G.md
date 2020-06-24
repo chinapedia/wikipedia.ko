@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [G](https://ko.wikipedia.org/wiki/G).
 
 
-**G**( )는 [로마 문자의](https://ko.wikipedia.org/wiki/로마_문자 "wikilink") 일곱 번째 글자이다. **지**라고 하지만 [Z](../Page/Z.md "wikilink")와의 혼동 방지를 위해 [대한민국](../Page/대한민국.md "wikilink")에서 **쥐**라고도 하고 소리는 "그"라고 한다.
+**G**( )는 [로마 문자의](https://ko.wikipedia.org/wiki/로마_문자 "wikilink") 일곱 번째 글자이다. **지**라고도 하지만 [Z](../Page/Z.md "wikilink")와의 혼동 방지를 위해 [대한민국](../Page/대한민국.md "wikilink")에서 **쥐**라고도 하고 소리는 "그"라고 한다.
 
 ## 역사
 

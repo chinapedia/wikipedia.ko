@@ -1606,8 +1606,6 @@ div.mw-babel-box-0 table th {
 /\* Make <math display="block"> be left aligned with one space indent for compatibility with style conventions \*/ .mwe-math-fallback-image-display, .mwe-math-mathml-display {
 
 `   margin-left: 1.6em !important;`
-`   margin-top: 0.6em;`
-`   margin-bottom: 0.6em;`
 
 } .mwe-math-mathml-display math {
 

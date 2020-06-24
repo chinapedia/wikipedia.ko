@@ -39,7 +39,7 @@ MMIX 칩에는 $0부터 $255까지 256개의 범용 레지스터와 32개의 특
 
 #### 특수 레지스터
 
-## 참고문헌
+## 참고 문헌
 
   - Donald E. Knuth (1999). *MMIXware: A RISC Computer for the Third Millennium*. Heidelberg: Springer-Verlag. [(errata)](http://www-cs-faculty.stanford.edu/~knuth/mmixware.html)
 

@@ -154,7 +154,7 @@ LSAT 점수 분포는 다음과 같다.\[7\]
 
   - [LSAT 공식 사이트](http://www.lsac.org)
 
-  - [LSAT 소개](http://drspark.paran.com/cgi-bin/zero/view.php?id=sp_freewriting&no=313)
+  - [LSAT 소개](https://web.archive.org/web/20151005003010/http://drspark.paran.com/cgi-bin/zero/view.php?id=sp_freewriting&no=313)
 
 [분류:시험](https://ko.wikipedia.org/wiki/분류:시험 "wikilink") [분류:법률](https://ko.wikipedia.org/wiki/분류:법률 "wikilink") [분류:법학](https://ko.wikipedia.org/wiki/분류:법학 "wikilink") [분류:미국의 법](https://ko.wikipedia.org/wiki/분류:미국의_법 "wikilink") [분류:미국의 법학전문대학원](https://ko.wikipedia.org/wiki/분류:미국의_법학전문대학원 "wikilink")
 

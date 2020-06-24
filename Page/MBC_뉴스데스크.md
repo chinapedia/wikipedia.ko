@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [MBC 뉴스데스크](https://ko.wikipedia.org/wiki/MBC_뉴스데스크).
 
 
-《**MBC 뉴스데스크**》()는 평일 저녁 7시 35분, 주말 저녁 8시에 방송되는 [문화방송의 뉴스 프로그램이다](../Page/문화방송의_뉴스_프로그램.md "wikilink").
+《**MBC 뉴스데스크**》()는 평일 저녁 7시 35분, 주말 저녁 7시 55분에 방송되는 [문화방송의 뉴스 프로그램이다](../Page/문화방송의_뉴스_프로그램.md "wikilink").
 
 ## 방송 시간
 
@@ -840,7 +840,7 @@
 <td><p>50분</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/2018년.md" title="wikilink">2018년</a> <a href="../Page/3월_31일.md" title="wikilink">3월 31일</a> ~ <strong>현재</strong></p></td>
+<td><p><a href="../Page/2018년.md" title="wikilink">2018년</a> <a href="../Page/3월_31일.md" title="wikilink">3월 31일</a> ~ <a href="../Page/2020년.md" title="wikilink">2020년</a> <a href="../Page/5월_24일.md" title="wikilink">5월 24일</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -858,6 +858,16 @@
 <td><p><a href="../Page/2017년.md" title="wikilink">2017년</a> <a href="../Page/9월_16일.md" title="wikilink">9월 16일</a> ~ <a href="../Page/2017년.md" title="wikilink">2017년</a> <a href="../Page/12월_24일.md" title="wikilink">12월 24일</a></p></td>
 <td><p>매주 <a href="https://ko.wikipedia.org/wiki/주말" title="wikilink">주말</a> 저녁 7:55 ~ 8:30</p></td>
 <td><p>|35분</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/2020년.md" title="wikilink">2020년</a> <a href="../Page/5월_30일.md" title="wikilink">5월 30일</a> ~ <strong>현재</strong></p></td>
+<td><p>매주 <a href="../Page/토요일.md" title="wikilink">토요일</a> 저녁 7:55 ~ 8:45</p></td>
+<td><p>50분</p></td>
+</tr>
+<tr class="odd">
+<td><p>매주 <a href="../Page/일요일.md" title="wikilink">일요일</a> 저녁 7:55 ~ 8:25</p></td>
+<td><p>30분</p></td>
+<td></td>
 </tr>
 </tbody>
 </table>
@@ -892,6 +902,7 @@
 ### 오늘 이 뉴스
 
 이재은 앵커
+강다솜 앵커
 
 ### 로드맨
 
@@ -900,8 +911,6 @@
 
 ### 법이 없다
 
-곽승규 기자
-
 ### 백투더뉴스
 
 ### 14F
@@ -909,7 +918,7 @@
 이영은 아나운서
 김정현 아나운서
 
-### 현장 36.5.
+### 현장 36.5
 
 ### [MBC 스포츠뉴스](../Page/MBC_스포츠뉴스.md "wikilink")
 
@@ -918,8 +927,8 @@
 
 ### MBC 날씨
 
-최아리 기상캐스터 (평일, 토요일)
-이서경 기상캐스터 (일요일)
+최아리 기상캐스터
+이서경 기상캐스터
 
 ### MBC 뉴스데스크 클로징
 
@@ -1046,7 +1055,9 @@
   - [2017년](../Page/2017년.md "wikilink") [7월 10일](../Page/7월_10일.md "wikilink") \~ [7월 14일](../Page/7월_14일.md "wikilink") : 이상현, 박연경\[70\]
   - [2017년](../Page/2017년.md "wikilink") [12월 8일](../Page/12월_8일.md "wikilink") \~ [12월 25일](../Page/12월_25일.md "wikilink"): 김수지\[71\]
   - [2017년](../Page/2017년.md "wikilink") [12월 26일](../Page/12월_26일.md "wikilink") \~ [2018년](../Page/2018년.md "wikilink") [1월 12일](../Page/1월_12일.md "wikilink"), [2018년](../Page/2018년.md "wikilink") [1월 16일](../Page/1월_16일.md "wikilink") \~ [6월 8일](../Page/6월_8일.md "wikilink"), [2018년](../Page/2018년.md "wikilink") [6월 12일](../Page/6월_12일.md "wikilink"), [2018년](../Page/2018년.md "wikilink") [6월 14일](../Page/6월_14일.md "wikilink") \~ [7월 13일](../Page/7월_13일.md "wikilink"): 박성호, 손정은
-  - [2018년](../Page/2018년.md "wikilink") [1월 15일](../Page/1월_15일.md "wikilink"): 박성호, 손정은, 김병헌\[72\]
+
+ㄴㄱ\* [2018년](../Page/2018년.md "wikilink") [1월 15일](../Page/1월_15일.md "wikilink"): 박성호, 손정은, 김병헌\[72\]
+
   - [2018년](../Page/2018년.md "wikilink") [6월 11일](../Page/6월_11일.md "wikilink"): 박성호, 손정은, 왕종명\[73\]
   - [2018년](../Page/2018년.md "wikilink") [6월 13일](../Page/6월_13일.md "wikilink"): 박성제, 김수진, 왕종명\[74\]
   - [2018년](../Page/2018년.md "wikilink") [7월 16일](../Page/7월_16일.md "wikilink") \~ [2019년](../Page/2019년.md "wikilink") [1월 25일](../Page/1월_25일.md "wikilink"), [2019년](../Page/2019년.md "wikilink") [2월 4일](../Page/2월_4일.md "wikilink") \~ [7월 31일](../Page/7월_31일.md "wikilink"), [2019년](../Page/2019년.md "wikilink") [8월 5일](../Page/8월_5일.md "wikilink") \~ [8월 15일](../Page/8월_15일.md "wikilink"), [2019년](../Page/2019년.md "wikilink") [8월 20일](../Page/8월_20일.md "wikilink") \~ [11월 7일](../Page/11월_7일.md "wikilink"), [2019년](../Page/2019년.md "wikilink") [11월 11일](../Page/11월_11일.md "wikilink") \~ [2020년](../Page/2020년.md "wikilink") [2월 14일](../Page/2월_14일.md "wikilink"), [2020년](../Page/2020년.md "wikilink") [2월 24일](../Page/2월_24일.md "wikilink") \~ **현재**: 왕종명, 이재은
@@ -1106,9 +1117,9 @@
 
 ## 지역 뉴스데스크
 
-각 지역별로 매주 월요일 \~ 목요일 & 토요일 \~ 일요일 오후 8시 25분, 매주 금요일 오후 8시 10분 경부터 다음의 지역 뉴스를 자체적으로 방송하고 있다.
+각 지역별로 매주 월요일 \~ 목요일 & 토요일 저녁 8시 25분, 매주 금요일 & 일요일 저녁 8시 10분 경부터 다음의 지역 뉴스를 자체적으로 방송하고 있다.
 
-  - 강원(춘천, 원주, 강원영동 (강릉·삼척) 등은 주말에 한 달씩 방송국마다 돌아가면서 뉴스를 진행했었다. 토요일에는 방송하지 않고 일요일에만 방송 된다.
+  - 강원(춘천, 원주, 강원영동는 주말에 한 달씩 방송국마다 돌아가면서 뉴스를 진행했었다. 토요일에는 방송하지 않고 일요일에만 방송 된다.
 
 <!-- end list -->
 
@@ -1133,7 +1144,7 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/MBC_뉴스데스크_원주" title="wikilink">MBC 뉴스데스크 원주</a> (평일)<br />
 <a href="https://ko.wikipedia.org/wiki/MBC_뉴스데스크_강원" title="wikilink">MBC 뉴스데스크 강원</a> (일요일)</p></td>
 <td><p>박지현</p></td>
-<td><p>강원 영동 수중계(일요일)</p></td>
+<td><p>강원영동 수중계 (일요일)</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/춘천문화방송.md" title="wikilink">춘천MBC</a></p></td>
@@ -1147,7 +1158,7 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/MBC_뉴스데스크_강원_(MBC_강원영동)" title="wikilink">MBC 뉴스데스크 강원</a> (평일)<br />
 <a href="https://ko.wikipedia.org/wiki/MBC_뉴스데스크_강원" title="wikilink">MBC 뉴스데스크 강원</a> (일요일)</p></td>
 <td><p>성스리</p></td>
-<td><p>김인성 (일요일)</p></td>
+<td><p>김인성 기자 (일요일)</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1167,7 +1178,7 @@
 <tr class="even">
 <td><p><a href="../Page/목포문화방송.md" title="wikilink">목포MBC</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/전라남도" title="wikilink">전남</a> 서남부</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/MBC_뉴스데스크_목포·전남" title="wikilink">MBC 뉴스데스크 목포·전남</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/MBC_뉴스데스크_목포·전남" title="wikilink">목포MBC 뉴스데스크</a></p></td>
 <td><p>임사랑, 이지연</p></td>
 <td><p>무작위</p></td>
 </tr>
@@ -1181,14 +1192,14 @@
 <tr class="even">
 <td><p><a href="../Page/광주문화방송.md" title="wikilink">광주MBC</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/광주광역시" title="wikilink">광주</a>·<a href="https://ko.wikipedia.org/wiki/전라남도" title="wikilink">전남</a> 중북부</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/MBC_뉴스데스크_광주·전남" title="wikilink">MBC 뉴스데스크 광주·전남</a></p></td>
-<td><p>윤근수, 연빛나</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/MBC_뉴스데스크_광주·전남" title="wikilink">광주MBC 뉴스데스크</a></p></td>
+<td><p>박수인, 연빛나</p></td>
 <td><p>무작위</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/전주문화방송.md" title="wikilink">전주MBC</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/전라북도" title="wikilink">전북</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/MBC_뉴스데스크_전북권" title="wikilink">MBC 뉴스데스크 전북권</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/MBC_뉴스데스크_전북권" title="wikilink">전주MBC 뉴스데스크</a></p></td>
 <td><p>목서윤</p></td>
 <td><p>무작위</p></td>
 </tr>
@@ -1202,8 +1213,8 @@
 <tr class="odd">
 <td><p><a href="../Page/여수문화방송.md" title="wikilink">여수MBC</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/전라남도" title="wikilink">전남</a> 동부</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/MBC_뉴스데스크_전남동부권" title="wikilink">MBC 뉴스데스크 전남동부권</a></p></td>
-<td><p>박광수, 한보선</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/MBC_뉴스데스크_전남동부권" title="wikilink">여수MBC 뉴스데스크</a></p></td>
+<td><p>박광수, 정예지</p></td>
 <td><p>무작위</p></td>
 </tr>
 <tr class="even">
@@ -1304,7 +1315,7 @@
 
 ## CI
 
-파일:MBC Newsdesk logo old 1970.png|구형 사용 (1970년 10월 \~ 1976년 4월) 파일:MBC News Scene logo old 1976.png|구형 사용 (1976년 4월 \~ 1980년 12월) 파일:MBC Newsdesk logo old 1980.png|구형 사용 (1980년 12월 \~ 1981년 12월) 파일:MBC Newsdesk logo old 1982.png|구형 사용 (1981년 12월 \~ 1985년) 파일:MBC Newsdesk logo old 1985.png|구형 사용 (1985년 \~ 1985년 12월) 파일:MBC Newsdesk logo old 1986.png|구형 사용 (1986년 1월 \~ 1988년 8월) 파일:MBC Newsdesk logo old 1988.png|구형 사용 (1988년 9월 \~ 1993년 10월) 파일:MBC Newsdesk logo old 1993.png|구형 사용 (1993년 10월 \~ 1995년 7월) 파일:MBC Newsdesk logo old 1995.png|구형 사용 (1995년 7월 \~ 1997년 10월) 파일:MBC Newsdesk logo old 1997.png|구형 사용 (1997년 11월 \~ 1998년 4월) 파일:MBC Newsdesk logo old 1998.png|구형 사용 (1998년 4월 \~ 1999년 12월 30일) 파일:MBC News desk logo 19991231\~20050102.png|구형 사용 (1999년 12월 31일 \~ 2005년 1월 2일) 파일:MBC Newsdesk logo old 2005.png|구형 사용 (2005년 1월 3일 \~ 2005년 12월 31일) 파일:MBC Newsdesk logo old 2006.png|구형 사용 (2006년 1월 \~ 2013년) 파일:MBC Newsdesk logo old 2013.png|구형 사용 (2013년 \~ 2014년 8월) 파일:MBC Newsdesk 201408 \~ 201807 logo.png|구형 사용 (2014년 8월 \~ 2018년 7월) 파일:MBC Newsdesk logo 2017 Korean language 02.png|현형 사용 (2018년 7월 \~ 현재)
+파일:MBC Newsdesk logo old 1970.png|구형 사용 (1970년 10월 \~ 1976년 4월) 파일:MBC News Scene logo old 1976.png|구형 사용 (1976년 4월 \~ 1980년 12월) 파일:MBC Newsdesk logo old 1980.png|구형 사용 (1980년 12월 \~ 1981년 12월) 파일:MBC Newsdesk logo old 1982.png|구형 사용 (1981년 12월 \~ 1985년) 파일:MBC Newsdesk logo old 1985.png|구형 사용 (1985년 \~ 1985년 12월) 파일:MBC Newsdesk logo old 1986.png|구형 사용 (1986년 1월 \~ 1988년 8월) 파일:MBC Newsdesk logo old 1988.png|구형 사용 (1988년 9월 \~ 1993년 10월) 파일:MBC Newsdesk logo old 1993.png|구형 사용 (1993년 10월 \~ 1995년 4월) 파일:MBC Newsdesk logo old 1995.png|구형 사용 (1995년 4월 \~ 1997년 10월) 파일:MBC Newsdesk logo old 1997.png|구형 사용 (1997년 11월 \~ 1998년 4월) 파일:MBC Newsdesk logo old 1998.png|구형 사용 (1998년 4월 \~ 1999년 12월 30일) 파일:MBC News desk logo 19991231\~20050102.png|구형 사용 (1999년 12월 31일 \~ 2005년 1월 2일) 파일:MBC Newsdesk logo old 2005.png|구형 사용 (2005년 1월 3일 \~ 2005년 12월 31일) 파일:MBC Newsdesk logo old 2006.png|구형 사용 (2006년 1월 \~ 2013년) 파일:MBC Newsdesk logo old 2013.png|구형 사용 (2013년 \~ 2014년 8월) 파일:MBC Newsdesk 201408 \~ 201807 logo.png|구형 사용 (2014년 8월 \~ 2018년 7월) 파일:MBC Newsdesk logo 2017 Korean language 02.png|현형 사용 (2018년 7월 \~ 현재)
 
 ## 미디어
 

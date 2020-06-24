@@ -267,12 +267,12 @@
   - 2000년 오디션닷컴
   - 2000년 [SK네트웍스](../Page/SK네트웍스.md "wikilink") 스마트
   - 2000년 [롯데칠성](https://ko.wikipedia.org/wiki/롯데칠성 "wikilink") [펩시콜라](https://ko.wikipedia.org/wiki/펩시콜라 "wikilink")
-  - 2001년 [해태제과](https://ko.wikipedia.org/wiki/해태제과 "wikilink") 하몬스
+  - 2001년 [해태제과식품](../Page/해태제과식품.md "wikilink") 하몬스
   - 2001년 센추리에어컨 (GOD의 육아일기 팀으로 출연)
-  - 2001년 [해태제과](https://ko.wikipedia.org/wiki/해태제과 "wikilink") 2&4바
-  - 2001년 [해태제과](https://ko.wikipedia.org/wiki/해태제과 "wikilink") [부라보콘](https://ko.wikipedia.org/wiki/부라보콘 "wikilink")
+  - 2001년 [해태제과식품](../Page/해태제과식품.md "wikilink") 2&4바
+  - 2001년 [해태제과식품](../Page/해태제과식품.md "wikilink") [부라보콘](https://ko.wikipedia.org/wiki/부라보콘 "wikilink")
   - 2001년 [KT](../Page/KT.md "wikilink") 한미르
-  - 2001년 [해태제과](https://ko.wikipedia.org/wiki/해태제과 "wikilink") 자유시간
+  - 2001년 [해태제과식품](../Page/해태제과식품.md "wikilink") 자유시간
   - 2002년 [KT](../Page/KT.md "wikilink") 메가패스
   - 2002년 [현대자동차](https://ko.wikipedia.org/wiki/현대자동차 "wikilink") CLICK
   - 2002년 [서울우유](https://ko.wikipedia.org/wiki/서울우유 "wikilink") 기업PR
@@ -280,7 +280,7 @@
   - 2003년 [위니아대우](../Page/위니아대우.md "wikilink") 써머스
   - 2004년 [LG전자](../Page/LG전자.md "wikilink") 싸이언 뮤직폰
   - 2005년 [피자헛](../Page/피자헛.md "wikilink") 메가핫치킨피자
-  - 2005년 [롯데리아](../Page/롯데리아.md "wikilink") 환경부
+  - 2005년 [롯데GRS](https://ko.wikipedia.org/wiki/롯데GRS "wikilink") 환경부
 
 ## 수상 경력
 
@@ -515,7 +515,7 @@
 
   -
   -
-[분류:싸이더스HQ 소속](https://ko.wikipedia.org/wiki/분류:싸이더스HQ_소속 "wikilink") [분류:5인조 음악 그룹](https://ko.wikipedia.org/wiki/분류:5인조_음악_그룹 "wikilink") [분류:1999년 데뷔](https://ko.wikipedia.org/wiki/분류:1999년_데뷔 "wikilink") [분류:1990년대 음악 그룹](https://ko.wikipedia.org/wiki/분류:1990년대_음악_그룹 "wikilink") [분류:2000년대 음악 그룹](https://ko.wikipedia.org/wiki/분류:2000년대_음악_그룹 "wikilink") [분류:2010년대 음악 그룹](https://ko.wikipedia.org/wiki/분류:2010년대_음악_그룹 "wikilink") [분류:SBS 인기가요 1위 수상자](https://ko.wikipedia.org/wiki/분류:SBS_인기가요_1위_수상자 "wikilink") [분류:SBS 인기가요 뮤티즌송 수상자](https://ko.wikipedia.org/wiki/분류:SBS_인기가요_뮤티즌송_수상자 "wikilink") [분류:KBS 뮤직뱅크 1위 수상자](https://ko.wikipedia.org/wiki/분류:KBS_뮤직뱅크_1위_수상자 "wikilink") [분류:Mnet 엠카운트다운 1위 수상자](https://ko.wikipedia.org/wiki/분류:Mnet_엠카운트다운_1위_수상자 "wikilink") [분류:MBC 쇼\! 음악중심 1위 수상자](https://ko.wikipedia.org/wiki/분류:MBC_쇼!_음악중심_1위_수상자 "wikilink") [분류:아이돌 그룹](https://ko.wikipedia.org/wiki/분류:아이돌_그룹 "wikilink") [분류:대한민국의 보이 밴드](https://ko.wikipedia.org/wiki/분류:대한민국의_보이_밴드 "wikilink") [분류:대한민국의 팝 음악 그룹](https://ko.wikipedia.org/wiki/분류:대한민국의_팝_음악_그룹 "wikilink") [분류:대한민국의 댄스 음악 그룹](https://ko.wikipedia.org/wiki/분류:대한민국의_댄스_음악_그룹 "wikilink") [분류:골든디스크 대상 수상 음악가](https://ko.wikipedia.org/wiki/분류:골든디스크_대상_수상_음악가 "wikilink") [분류:골든디스크 본상 수상 음악가](https://ko.wikipedia.org/wiki/분류:골든디스크_본상_수상_음악가 "wikilink") [분류:골든디스크 인기상 수상 음악가](https://ko.wikipedia.org/wiki/분류:골든디스크_인기상_수상_음악가 "wikilink") [분류:MTV 비디오 뮤직 어워드 수상자](https://ko.wikipedia.org/wiki/분류:MTV_비디오_뮤직_어워드_수상자 "wikilink") [God](https://ko.wikipedia.org/wiki/분류:God "wikilink") [분류:1999년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:1999년_결성된_음악_그룹 "wikilink") [분류:대한민국의 아이돌 그룹](https://ko.wikipedia.org/wiki/분류:대한민국의_아이돌_그룹 "wikilink")
+[분류:싸이더스HQ 소속](https://ko.wikipedia.org/wiki/분류:싸이더스HQ_소속 "wikilink") [분류:5인조 음악 그룹](https://ko.wikipedia.org/wiki/분류:5인조_음악_그룹 "wikilink") [분류:1990년대 음악 그룹](https://ko.wikipedia.org/wiki/분류:1990년대_음악_그룹 "wikilink") [분류:2000년대 음악 그룹](https://ko.wikipedia.org/wiki/분류:2000년대_음악_그룹 "wikilink") [분류:2010년대 음악 그룹](https://ko.wikipedia.org/wiki/분류:2010년대_음악_그룹 "wikilink") [분류:SBS 인기가요 1위 수상자](https://ko.wikipedia.org/wiki/분류:SBS_인기가요_1위_수상자 "wikilink") [분류:SBS 인기가요 뮤티즌송 수상자](https://ko.wikipedia.org/wiki/분류:SBS_인기가요_뮤티즌송_수상자 "wikilink") [분류:KBS 뮤직뱅크 1위 수상자](https://ko.wikipedia.org/wiki/분류:KBS_뮤직뱅크_1위_수상자 "wikilink") [분류:엠넷 엠카운트다운 1위 수상자](https://ko.wikipedia.org/wiki/분류:엠넷_엠카운트다운_1위_수상자 "wikilink") [분류:MBC 쇼\! 음악중심 1위 수상자](https://ko.wikipedia.org/wiki/분류:MBC_쇼!_음악중심_1위_수상자 "wikilink") [분류:아이돌 그룹](https://ko.wikipedia.org/wiki/분류:아이돌_그룹 "wikilink") [분류:대한민국의 보이 밴드](https://ko.wikipedia.org/wiki/분류:대한민국의_보이_밴드 "wikilink") [분류:대한민국의 팝 음악 그룹](https://ko.wikipedia.org/wiki/분류:대한민국의_팝_음악_그룹 "wikilink") [분류:대한민국의 댄스 음악 그룹](https://ko.wikipedia.org/wiki/분류:대한민국의_댄스_음악_그룹 "wikilink") [분류:골든디스크 대상 수상 음악가](https://ko.wikipedia.org/wiki/분류:골든디스크_대상_수상_음악가 "wikilink") [분류:골든디스크 본상 수상 음악가](https://ko.wikipedia.org/wiki/분류:골든디스크_본상_수상_음악가 "wikilink") [분류:골든디스크 인기상 수상 음악가](https://ko.wikipedia.org/wiki/분류:골든디스크_인기상_수상_음악가 "wikilink") [분류:MTV 비디오 뮤직 어워드 수상자](https://ko.wikipedia.org/wiki/분류:MTV_비디오_뮤직_어워드_수상자 "wikilink") [God](https://ko.wikipedia.org/wiki/분류:God "wikilink") [분류:1999년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:1999년_결성된_음악_그룹 "wikilink") [분류:대한민국의 아이돌 그룹](https://ko.wikipedia.org/wiki/분류:대한민국의_아이돌_그룹 "wikilink")
 
 1.  [관련기사](http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=106&oid=038&aid=0000064309)
 2.  초기에는 갓식스(god6)라는 혼성그룹으로 결성할 예정이었으나 당시 여성 멤버로 활동 준비중이었던 [김선아](../Page/김선아.md "wikilink")가 탈퇴하게 되면서 현재의 5인조 남성 그룹으로 데뷔하게 되었다.

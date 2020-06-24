@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [W](https://ko.wikipedia.org/wiki/W).
 
 
-**W**, **w**( )는 [로마 문자의](https://ko.wikipedia.org/wiki/로마_문자 "wikilink") 23번째 글자이다.
+**W**, **w**()는 [로마 문자의](https://ko.wikipedia.org/wiki/로마_문자 "wikilink") 23번째 글자이다.
 
 7세기 [고대 영어에서](../Page/고대_영어.md "wikilink") W는 V를 두 개 겹쳐놓은 모양으로 나타난다. 이 글자는 <uu> 이중음자를 나타내는 데 쓰였고 현재 영어에서 쓰이는 "더블유"라는 이름도 여기서 나왔다. 이 문자는 거의 쓰이지 않았으며 [룬 문자](../Page/룬_문자.md "wikilink") "윈(wynn, Ƿ)"을 대신 사용하였다. [노르만 정복](https://ko.wikipedia.org/wiki/노르만_정복 "wikilink") 이후 W의 사용이 늘어 1300년에 와서는 윈 문자를 대신하여 일상 생활에서 쓰이게 되었다.
 

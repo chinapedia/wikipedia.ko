@@ -13,13 +13,13 @@
 
 IBM은 애초엔 마이크로소프트와 베이직 등의 프로그래밍 언어 관련 제품들에 대해서만 교섭을 시작했다. 이후 운영 체제에 대해서도 [8086](https://ko.wikipedia.org/wiki/8086 "wikilink")용 CP/M을 마이크로소프트사에 개발을 의뢰했다. 그러나 CP/M의 사용권이 없었기 때문에, [빌 게이츠는](../Page/빌_게이츠.md "wikilink") 디지털 리서치와의 교섭을 조언한다. 그러나 디지털 리서치와의 교섭은 불발로 끝나고, 마이크로소프트는 자신들만의 운영 체제 개발에 들어간다.
 
-그러나 마이크로소프트는 비슷한 시기에 [시애틀 컴퓨터 프로덕츠사의](https://ko.wikipedia.org/wiki/시애틀_컴퓨터_프로덕츠 "wikilink") [팀 패터슨이](https://ko.wikipedia.org/wiki/팀_패터슨 "wikilink") CP/M을 8086에 이식하여 개발한 [86-DOS](https://ko.wikipedia.org/wiki/86-DOS "wikilink")를 75,000 달러에 구입하여 IBM PC용으로 수정하여 **PC-DOS**를 만들어 낸다.
+그러나 마이크로소프트는 비슷한 시기에 [시애틀 컴퓨터 프로덕츠사의](https://ko.wikipedia.org/wiki/시애틀_컴퓨터_프로덕츠 "wikilink") [팀 패터슨이](../Page/팀_패터슨.md "wikilink") CP/M을 8086에 이식하여 개발한 [86-DOS](https://ko.wikipedia.org/wiki/86-DOS "wikilink")를 75,000 달러에 구입하여 IBM PC용으로 수정하여 **PC-DOS**를 만들어 낸다.
 
 처음엔 IBM PC에서 동작하는 운영 체제였기 때문에 그런 이름으로 불렸지만, 마이크로소프트사는 OEM으로 제공할 때에는 자사 상표인 MS-DOS란 이름을 사용한다. 소프트웨어를 만들어 개수만큼 팔아 버리는 방법이 아닌, IBM PC 출하 대수에 따라 사용료를 받는 라이선스 계약이 마이크로소프트의 성공 비결이라고 말한다.
 
 ## 역사
 
-MS-DOS는 [팀 패터슨이](https://ko.wikipedia.org/wiki/팀_패터슨 "wikilink") 작성한 [시애틀 컴퓨터 프로덕츠](https://ko.wikipedia.org/wiki/시애틀_컴퓨터_프로덕츠 "wikilink") 소유의 [86-DOS](https://ko.wikipedia.org/wiki/86-DOS "wikilink")\[1\]에서 이름이 바뀐 것이다. 86-DOS 개발은 6주 밖에 안 걸렸는데 이는 [8086](https://ko.wikipedia.org/wiki/8086 "wikilink") 프로세서에서 구동되도록 이식된 [디지털 리서치의](../Page/디지털_리서치.md "wikilink") [CP/M](https://ko.wikipedia.org/wiki/CP/M "wikilink") (8080/Z80 프로세서용)의 복제이기 때문이었으며 CP/M과 비교해서 2가지 눈에 띄는 차이점이 있다: 개선된 디스크 섹터 버퍼링 로직, CP/M 파일 시스템이 나닌 [FAT12](https://ko.wikipedia.org/wiki/FAT12 "wikilink")의 도입. 최초 버전은 1980년 8월에 선착되었다.
+MS-DOS는 [팀 패터슨이](../Page/팀_패터슨.md "wikilink") 작성한 [시애틀 컴퓨터 프로덕츠](https://ko.wikipedia.org/wiki/시애틀_컴퓨터_프로덕츠 "wikilink") 소유의 [86-DOS](https://ko.wikipedia.org/wiki/86-DOS "wikilink")\[1\]에서 이름이 바뀐 것이다. 86-DOS 개발은 6주 밖에 안 걸렸는데 이는 [8086](https://ko.wikipedia.org/wiki/8086 "wikilink") 프로세서에서 구동되도록 이식된 [디지털 리서치의](../Page/디지털_리서치.md "wikilink") [CP/M](https://ko.wikipedia.org/wiki/CP/M "wikilink") (8080/Z80 프로세서용)의 복제이기 때문이었으며 CP/M과 비교해서 2가지 눈에 띄는 차이점이 있다: 개선된 디스크 섹터 버퍼링 로직, CP/M 파일 시스템이 나닌 [FAT12](https://ko.wikipedia.org/wiki/FAT12 "wikilink")의 도입. 최초 버전은 1980년 8월에 선착되었다.
 
 ### 버전
 
@@ -75,7 +75,7 @@ IO.SYS 파일에 <a href="https://ko.wikipedia.org/wiki/디스크_캐시" title=
 
 ## MS-DOS의 끝
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:US_Navy_110129-N-7676W-152_Culinary_Specialist_3rd_Class_John_Smith_uses_the_existing_DOS-based_food_service_management_system_aboard_the_aircraft.jpg "wikilink") 음식 서비스 관리 시스템과 같이 일부 기업에서 여전히 사용된다.\]\] [윈도우 95의](../Page/윈도우_95.md "wikilink") 출시와 함께, MS-DOS의 통합 버전은 [부트스트래핑](https://ko.wikipedia.org/wiki/부트스트래핑 "wikilink"), 문제 해결, 특히 게임 및 더 이상 출시되지 않는 독립 제품과 같은 오래된 도스 소프트웨어와의 하위 호환성을 위해 사용되었다. 윈도우 95에서 MS-DOS 7이라는 이름의 도스는 윈도우 GUI 없이 별도로 부팅이 가능하다. 이 기능은 윈도우 98 SE에도 포함되었다. 윈도우 ME에서는 이 기능을 제거하였으나, 기반이 되는 도스 MS-DOS 8.0으로 직접 접근할 수 있도록 해킹이 가능하다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:US_Navy_110129-N-7676W-152_Culinary_Specialist_3rd_Class_John_Smith_uses_the_existing_DOS-based_food_service_management_system_aboard_the_aircraft.jpg "wikilink") 음식 서비스 관리 시스템과 같이 일부 기업에서 여전히 사용된다.\]\] [윈도우 95의](../Page/윈도우_95.md "wikilink") 출시와 함께, MS-DOS의 통합 버전은 [부트스트래핑](https://ko.wikipedia.org/wiki/부트스트래핑 "wikilink"), 문제 해결, 특히 게임 및 더 이상 출시되지 않는 독립 제품과 같은 오래된 도스 소프트웨어와의 하위 호환성을 위해 사용되었다. 윈도우 95에서 MS-DOS 7이라는 이름의 도스는 윈도우 GUI 없이 별도로 부팅이 가능하다. 이 기능은 윈도우 98 SE에도 포함되었다. [윈도우 ME에서는](../Page/윈도우_미.md "wikilink") 이 기능을 제거하였으나, 기반이 되는 도스 MS-DOS 8.0으로 직접 접근할 수 있도록 해킹이 가능하다.
 
 ## 각주
 

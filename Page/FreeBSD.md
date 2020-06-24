@@ -492,7 +492,7 @@ FreeBSD의 슬로건은 ‘The Power to Serve’이다.
 
 <!-- end list -->
 
-  - [네오위즈게임즈의 FreeBSD 포트 미러](http://ftp.neowiz.com/)
+  - [네오위즈게임즈의 FreeBSD 포트 미러](https://web.archive.org/web/20140811071745/http://ftp.neowiz.com/)
   - [카이스트의 FreeBSD 포트 미러](https://web.archive.org/web/20140423105852/http://ftp.kaist.ac.kr/)
   - [FreeBSD 한국 미러](https://web.archive.org/web/20151118124053/http://ftp4.kr.freebsd.org/pub/FreeBSD/)
   - [FreeBSD 한국 미러](https://web.archive.org/web/20151118100827/http://ftp5.kr.freebsd.org/pub/FreeBSD/)

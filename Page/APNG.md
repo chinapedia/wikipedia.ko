@@ -125,6 +125,6 @@ PNG 시그너처</p></td>
   - [Discussion about MNG vs. APNG](https://bugzilla.mozilla.org/show_bug.cgi?id=apng)
   - [Slightly friendlier discussion about MNG vs. APNG](https://bugzilla.mozilla.org/show_bug.cgi?id=apngspec)
 
-[분류:그래픽 파일 포맷](https://ko.wikipedia.org/wiki/분류:그래픽_파일_포맷 "wikilink") [분류:오픈 포맷](https://ko.wikipedia.org/wiki/분류:오픈_포맷 "wikilink")
+[분류:그래픽 파일 포맷](https://ko.wikipedia.org/wiki/분류:그래픽_파일_포맷 "wikilink") [분류:오픈 포맷](https://ko.wikipedia.org/wiki/분류:오픈_포맷 "wikilink") [분류:모질라](https://ko.wikipedia.org/wiki/분류:모질라 "wikilink")
 
 1.

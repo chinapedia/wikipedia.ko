@@ -13,7 +13,7 @@
   - **비타민 B<sub>5</sub>** ([판토텐산](../Page/판토텐산.md "wikilink"))
   - **비타민 B<sub>6</sub>** ([피리독신](../Page/피리독신.md "wikilink"), [피리독살](https://ko.wikipedia.org/wiki/피리독살 "wikilink"), [피리독사민](https://ko.wikipedia.org/wiki/피리독사민 "wikilink"))
   - **비타민 B<sub>7</sub>** ([바이오틴](https://ko.wikipedia.org/wiki/바이오틴 "wikilink")) (비타민 H라고도 한다)
-  - **비타민 B<sub>9</sub>** ([폴산](https://ko.wikipedia.org/wiki/폴산 "wikilink"), [엽산](../Page/엽산.md "wikilink")) (비타민 M이라고도 한다)
+  - **비타민 B<sub>9</sub>** ([폴산](https://ko.wikipedia.org/wiki/폴산 "wikilink"), [엽산](../Page/엽산.md "wikilink")) (비타민 L이라고도 한다)
   - **비타민 B<sub>12</sub>** ([코발라민](https://ko.wikipedia.org/wiki/코발라민 "wikilink"))
 
 ## 비타민 B의 효과
@@ -30,10 +30,10 @@
 
   - **비타민 B<sub>4</sub>**: [아데닌](../Page/아데닌.md "wikilink"), 뉴클레오베이스의 일종으로 인체에서 합성된다.\[1\]
   - **비타민 B<sub>8</sub>**: [인산 아데노신](https://ko.wikipedia.org/wiki/인산_아데노신 "wikilink"), 또는 [마이오이노시톨](https://ko.wikipedia.org/wiki/마이오이노시톨 "wikilink"). 인체에서 합성된다.
-  - **비타민 B<sub>10</sub>**: [4-아미노벤조익산](https://ko.wikipedia.org/wiki/4-아미노벤조익산 "wikilink")
+  - **비타민 B<sub>10</sub>**: [4-아미노벤조익산](https://ko.wikipedia.org/wiki/4-아미노벤조익사 "wikilink")
   - **비타민 B<sub>11</sub>**: pteryl-hepta-glutamic acid, 병아리 성장 인자로 [엽산](../Page/엽산.md "wikilink")의 일종이다. 나중에 사람에게 필요한 다섯 가지 엽산 중 하나로 밝혀졌으며 비타민 S 또는 Factor S로 알려졌다.
   - **비타민 B<sub>13</sub>**: [오로트산](https://ko.wikipedia.org/wiki/오로트산 "wikilink"). 사람을 포함한 대다수의 고등동물이 자체 생성가능하며, [뉴클레오타이드](../Page/뉴클레오타이드.md "wikilink")의 중간대사체임이 확인되어 제외되었다.
-  - **비타민 B<sub>14</sub>**: 세포 증식자, 항 빈혈, 쥐 성장 인자. Earl R. Norris에 의해 antitumor pterin phosphate라고 불렸다. 성장등에 관여하는 것으로 생각되었으나 실험 결과 관련 사항 없어 퇴출되었다.
+  - **비타민 B<sub>14</sub>**: 세포 증식자, 항 빈혈, 쥐 성장 인자. Earl R. Norris에 의해 aontitumor pterin phosphate라고 불렸다. 성장등에 관여하는 것으로 생각되었으나 실험 결과 관련 사항 없어 퇴출되었다.
   - **비타민 B<sub>15</sub>**: [판가민 산](https://ko.wikipedia.org/wiki/판가민_산 "wikilink"). 비타민이 아니어서 퇴출되었다.
   - **비타민 B<sub>16</sub>**: [다이메틸글리신](https://ko.wikipedia.org/wiki/다이메틸글리신 "wikilink") (DMG). 신체에서 합성되기 때문에 퇴출되었다.
   - **비타민 B<sub>17</sub>**: nitrilosides, [아미그달린](https://ko.wikipedia.org/wiki/아미그달린 "wikilink") 또는 [레이어트릴](https://ko.wikipedia.org/wiki/레이어트릴 "wikilink"). 이 물질들은 다양한 씨, 싹, 콩, 곡류, 덩이줄기(tuber)에서 발견된다. 양이 많으면 독성을 띄지만, 지지자들은 과학적 증거가 부족함에도 불구하고 이 물질이 항암 치료와 암 예방에 효과가 있다고 주장한다.\[2\]

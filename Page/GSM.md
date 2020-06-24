@@ -23,7 +23,7 @@ GSM은 [셀](https://ko.wikipedia.org/wiki/셀_\(이동통신\) "wikilink") 네�
 
   - [3GPP](http://www.3gpp.org/)—3G GSM standards development group
 
-[분류:이동 통신 표준](https://ko.wikipedia.org/wiki/분류:이동_통신_표준 "wikilink")
+[분류:이동 통신 표준](https://ko.wikipedia.org/wiki/분류:이동_통신_표준 "wikilink") [분류:GSM 표준](https://ko.wikipedia.org/wiki/분류:GSM_표준 "wikilink")
 
 1.  [GSM 시장 현황](http://www.gsmworld.com/newsroom/market-data/market_data_summary.htm) , GSM WORLD, 2009년 8월 7일 현재
 2.  [GSM 로밍 방식](http://gsmworld.com/technology/roaming/index.htm) , GSM WORLD

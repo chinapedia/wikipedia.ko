@@ -48,7 +48,7 @@
 
 ### 관계사 채널
 
-  - [K STAR](../Page/K-STAR_\(텔레비전_채널\).md "wikilink") ([CU미디어](https://ko.wikipedia.org/wiki/CU미디어 "wikilink") 소속 채널) ([1995년](../Page/1995년.md "wikilink") 문화예술TV로 개국, [1999년](../Page/1999년.md "wikilink") 예술영화TV로 채널명 변경, [2002년](../Page/2002년.md "wikilink") 무비플러스로 채널명 및 장르명 변경, [2004년](../Page/2004년.md "wikilink") YTN이 월드와이드넷(현재 [CU미디어](https://ko.wikipedia.org/wiki/CU미디어 "wikilink"))을 인수하면서 YTN STAR로 채널명 및 장르명 변경, [2008년](../Page/2008년.md "wikilink") YTN과의 계열 분리, [2009년](../Page/2009년.md "wikilink") Y-STAR로 채널명 변경, 지금은 YTN과는 같은 계열사가 아니지만 YTN과 상호 관계를 아직 유지하고 있다.
+  - [K-STAR](../Page/K-STAR.md "wikilink") ([CU미디어](https://ko.wikipedia.org/wiki/CU미디어 "wikilink") 소속 채널) ([1995년](../Page/1995년.md "wikilink") 문화예술TV로 개국, [1999년](../Page/1999년.md "wikilink") 예술영화TV로 채널명 변경, [2002년](../Page/2002년.md "wikilink") 무비플러스로 채널명 및 장르명 변경, [2004년](../Page/2004년.md "wikilink") YTN이 월드와이드넷(현재 [CU미디어](https://ko.wikipedia.org/wiki/CU미디어 "wikilink"))을 인수하면서 YTN STAR로 채널명 및 장르명 변경, [2008년](../Page/2008년.md "wikilink") YTN과의 계열 분리, [2009년](../Page/2009년.md "wikilink") Y-STAR로 채널명 변경, 지금은 YTN과는 같은 계열사가 아니지만 YTN과 상호 관계를 아직 유지하고 있다.
 
 ## 비전
 
@@ -235,78 +235,87 @@
 <tbody>
 <tr class="odd">
 <td><p><a href="../Page/뉴스출발.md" title="wikilink">뉴스출발</a></p></td>
-<td><p>평일 2시간<br />
-주말 1시간 30분</p></td>
-<td><p>평일 새벽 4시 25분 ~ 아침 6시 30분<br />
+<td><p>평일 1시간 35분<br />
+주말 1시간 35분</p></td>
+<td><p>평일 새벽 4시 20분 ~ 아침 5시 55분<br />
 주말 새벽 4시 25분 ~ 아침 6시</p></td>
-<td><p>평일 : <a href="https://ko.wikipedia.org/wiki/김선영" title="wikilink">김선영</a>, 정지웅<br />
-주말 : 이세나</p></td>
+<td><p>평일 : 이세나, 정지웅<br />
+주말 :</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/굿모닝_와이티엔.md" title="wikilink">굿모닝 와이티엔</a></p></td>
-<td><p>평일 2시간 30분</p></td>
-<td><p>평일 아침 6시 30분 ~ 오전 8시 58분</p></td>
+<td><p>평일 1시간 55분</p></td>
+<td><p>평일 아침 5시 55분 ~ 오전 7시 50분</p></td>
 <td><p>김영수, 문지현</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ko.wikipedia.org/wiki/YTN_24" title="wikilink">YTN 24</a></p></td>
+<td><p>평일 1시간</p></td>
+<td><p>평일 오전 7시 50분 ~ 오전 8시 50분</p></td>
+<td><p>안보라, 정지웅</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ko.wikipedia.org/wiki/YTN_24" title="wikilink">YTN 24</a></p></td>
+<td><p>평일 50분</p></td>
+<td><p>평일 오전 8시 50분 ~ 오전 9시 40분</p></td>
+<td><p>안보라</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/뉴스LIVE" title="wikilink">뉴스LIVE</a></p></td>
 <td><p>평일 2시간</p></td>
-<td><p>평일 오전 8시 58분 ~ 오전 10시 50분</p></td>
+<td><p>평일 오전 9시 40분 ~ 오전 11시 40분</p></td>
 <td><p>이재윤, 이승민</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/뉴스N이슈.md" title="wikilink">뉴스N이슈</a></p></td>
-<td><p>평일 2시간 40분</p></td>
-<td><p>평일 오전 10시 50분 ~ 오후 1시 30분</p></td>
+<td><p>평일 2시간 10분</p></td>
+<td><p>평일 오전 11시 40분 ~ 오후 1시 50분</p></td>
 <td><p>김정아, 박광렬</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/더_뉴스.md" title="wikilink">더 뉴스</a></p></td>
-<td><p>평일 2시간 30분</p></td>
-<td><p>평일 오후 1시 30분 ~ 4시</p></td>
+<td><p>평일 2시간</p></td>
+<td><p>평일 오후 1시 50분 ~ 3시 50분</p></td>
 <td><p>강진원, 박상연</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/뉴스_Q_(YTN).md" title="wikilink">뉴스 Q</a></p></td>
-<td><p>평일 2시간 30분</p></td>
-<td><p>평일 오후 4시 ~ 저녁 6시 30분</p></td>
+<td><p>평일 2시간 10분</p></td>
+<td><p>평일 오후 3시 50분 ~ 저녁 6시</p></td>
 <td><p>김영수, 강려원</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/YTN_24_(1830).md" title="wikilink">YTN 24 (1830)</a></p></td>
-<td><p>평일 1시간</p></td>
-<td><p>평일 저녁 6시 30분 ~ 7시 30분</p></td>
-<td><p>안보라, 박석원</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/이브닝_뉴스" title="wikilink">이브닝 뉴스</a></p></td>
+<td><p>평일 1시간 20분</p></td>
+<td><p>평일 저녁 6시 ~ 7시 20분</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/김선영" title="wikilink">김선영</a>, 박석원</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/뉴스가_있는_저녁.md" title="wikilink">뉴스가 있는 저녁</a></p></td>
-<td><p>평일 1시간 30분</p></td>
-<td><p>평일 저녁 7시 30분 ~ 밤 8시 55분</p></td>
+<td><p>평일 1시간 25분</p></td>
+<td><p>평일 저녁 7시 20분 ~ 밤 8시 45분</p></td>
 <td><p><a href="../Page/변상욱.md" title="wikilink">변상욱</a>, 안귀령</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/YTN_24_(2100).md" title="wikilink">YTN 24 (2100)</a></p></td>
-<td><p>매일 50분</p></td>
-<td><p>매일 밤 8시 55분 ~ 9시 50분</p></td>
-<td><p>평일 : 안보라, 박석원<br />
+<td><p>매일 1시간</p></td>
+<td><p>매일 밤 8시 45분 ~ 9시 45분</p></td>
+<td><p>평일 : <a href="https://ko.wikipedia.org/wiki/김선영" title="wikilink">김선영</a>, 박석원<br />
 주말 : <a href="https://ko.wikipedia.org/wiki/윤보리" title="wikilink">윤보리</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/YTN_뉴스나이트.md" title="wikilink">YTN 뉴스나이트</a><br />
 (주말 : <a href="../Page/YTN_뉴스나이트.md" title="wikilink">YTN 뉴스와이드 (2150)</a>)</p></td>
-<td><p>매일 2시간 10분</p></td>
-<td><p>매일 밤 9시 50분 ~ 12시</p>
-<ul>
-<li><strong>편성시간 : <a href="https://ko.wikipedia.org/wiki/YTN_스포츠뉴스" title="wikilink">YTN 스포츠뉴스</a> - 매일 밤 11시 40분 ~ 12시</strong></li>
-</ul></td>
+<td><p>매일 2시간 5분</p></td>
+<td><p>매일 밤 9시 45분 ~ 11시 50분</p></td>
 <td><p>평일 : 최영주, 김경수<br />
-주말 : 황보혜경<br />
+주말 : 함형건, 황보혜경<br />
 </p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/YTN_24_(2400).md" title="wikilink">YTN 24 (2400)</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/YTN_자정뉴스" title="wikilink">YTN 자정뉴스</a></p></td>
 <td><p>매일 1시간</p></td>
-<td><p>매일 밤 12시 ~ 새벽 1시</p></td>
+<td><p>매일 밤 11시 50분 ~ 새벽 12시 55분</p></td>
 <td><p>평일 : <a href="../Page/송경철.md" title="wikilink">송경철</a><br />
 주말 : <a href="https://ko.wikipedia.org/wiki/윤보리" title="wikilink">윤보리</a></p></td>
 </tr>
@@ -333,7 +342,7 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/YTN_뉴스와이드" title="wikilink">YTN 뉴스와이드</a></p></td>
 <td><p>주말 2시간</p></td>
 <td><p>주말 아침 7시 ~ 오전 9시, 오전 10시 ~ 11시 20분, 오전 11시 50분 ~ 오후 2시, 오후 4시 ~ 5시 20분</p></td>
-<td><p>우철희 , 조태현 , 최명신 , 김대근 , 이경재 , 유다원 , 한연희 , 최아영 , 김지선 , 김선희</p></td>
+<td><p>최명신 , 이종원 , 이경재 , 김대겸 , 최두희 , 백종규 , 김선희 , 신윤정 , 강희경 , 신지원 , 차유정 , 박서경 , 유다원</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/YTN_뉴스특보" title="wikilink">YTN 뉴스특보</a></p></td>
@@ -471,7 +480,6 @@
   - [뉴스 통](https://ko.wikipedia.org/wiki/뉴스_통 "wikilink")
   - [이브닝 8 뉴스](https://ko.wikipedia.org/wiki/이브닝_8_뉴스 "wikilink")
   - [뉴스 21](https://ko.wikipedia.org/wiki/뉴스_21 "wikilink")
-  - [YTN 자정뉴스](https://ko.wikipedia.org/wiki/YTN_자정뉴스 "wikilink")
   - 뉴스 & 사람들
 
 ## 공채기수(기자, 앵커, 기술, 디자인, PD, 노조조합원
@@ -481,7 +489,7 @@
   - [1996년](../Page/1996년.md "wikilink"): 권석재, 권한주, 김영호, 김태형, 나경환, 박진수, 신현준, 이경준, 임승환, 최용호, 최재용, 한상옥
   - [1997년](../Page/1997년.md "wikilink"): 김선중, 김종완, 박영진, 박정호, 유투권, 황보연
   - [2000년](../Page/2000년.md "wikilink"): 김잔디, 서봉국, 이경재, 정유신
-  - [2001년](../Page/2001년.md "wikilink"): 김준영, [박신윤](https://ko.wikipedia.org/wiki/박신윤 "wikilink"), 신호, [이종구](https://ko.wikipedia.org/wiki/이종구 "wikilink"), [이광연](https://ko.wikipedia.org/wiki/이광연 "wikilink"), 홍상희
+  - [2001년](../Page/2001년.md "wikilink"): 김준영, [박신윤](https://ko.wikipedia.org/wiki/박신윤 "wikilink"), 신호, [이종구](https://ko.wikipedia.org/wiki/이종구 "wikilink"), [이광연](../Page/이광연.md "wikilink"), 홍상희, [황순욱](https://ko.wikipedia.org/wiki/황순욱 "wikilink")
   - [2003년](../Page/2003년.md "wikilink"): [김선영](https://ko.wikipedia.org/wiki/김선영 "wikilink"), 홍선기, 윤현숙, 김재형, 박소정, 윤재희, 이승민, 최영주, 이동규, 이승준
   - [2005년](../Page/2005년.md "wikilink"): 강영관, 권준기, 김종호, 고재형, 고한석, 곽영주, 구수본, 박종혁, 이강진, 이만수, 이상은, 이선아, 이승윤, 이지은, 전준형, 최지환, [서정호](https://ko.wikipedia.org/wiki/서정호 "wikilink"), 송병준, 이은영 등 이상 공채 9기, 김여진
   - [2006년](../Page/2006년.md "wikilink"): 박기현, 이세나, 홍주예, 황혜경
@@ -495,7 +503,7 @@
   - [2015년](../Page/2015년.md "wikilink"): 김태민, 박서경, 김세호, 박한울, 최광현, 박광렬
   - [2016년](../Page/2016년.md "wikilink"): 권남기, 김영수, 심관흠, 안귀령, 안형석, 윤보리, 이경국, 이연아, 정지웅, 차정윤, 강려원
   - [2017년](../Page/2017년.md "wikilink"): 차해리
-  - [2019년](../Page/2019년.md "wikilink"): 김다연, 나혜인, 박희재, 송재인, 강보경, 이규, 이수연, 진형욱, 한상원, 박상주, 정민혁
+  - [2019년](../Page/2019년.md "wikilink"): 박소영, 나경철, 임지웅, 김다연, 나혜인, 박희재, 송재인, 강보경, 이규, 이수연, 진형욱, 한상원, 박상주, 정민혁
 
 ## 로고
 
@@ -518,7 +526,7 @@
 
 ## YTN DMB - ⓜYTN
 
-  - 자회사 YTN DMB의 TV채널 ⓜYTN은 채널성격은 종합편성채널이지만, 프로야구 중계 등의 일부 프로그램을 제외하면 YTN의 프로그램을 대부분 재송신한다.
+  - 자회사 YTN DMB의 TV채널 ⓜYTN은 채널성격은 종합편성채널이지만 프로야구 중계방송의 일부 프로그램을 제외하면 YTN의 프로그램을 대부분 재송신한다.
       - YTN 스포츠24 (진행: [조윤경](../Page/조윤경.md "wikilink"), 방송시간: 토 02:30)
       - YTN 시청자의 눈 (진행: [김여진](../Page/김여진.md "wikilink"), 방송시간: 일 09:30)
       - mYTN 스페셜

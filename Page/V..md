@@ -50,4 +50,4 @@
 
 ## 각주
 
-[분류:1963년 소설](https://ko.wikipedia.org/wiki/분류:1963년_소설 "wikilink") [분류:미국 소설](https://ko.wikipedia.org/wiki/분류:미국_소설 "wikilink")
+[분류:1963년 소설](https://ko.wikipedia.org/wiki/분류:1963년_소설 "wikilink") [분류:미국 소설](https://ko.wikipedia.org/wiki/분류:미국_소설 "wikilink") [분류:메타픽션](https://ko.wikipedia.org/wiki/분류:메타픽션 "wikilink")

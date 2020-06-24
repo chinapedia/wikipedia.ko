@@ -79,14 +79,14 @@
 </tr>
 <tr class="even">
 <td style="text-align: left;"><p><strong>1집</strong></p></td>
-<td style="text-align: left;"><p>''' <a href="../Page/SG_Wanna_Be+.md" title="wikilink">SG Wanna Be+</a> '''</p>
+<td style="text-align: left;"><p>''' <a href="https://ko.wikipedia.org/wiki/WANNA_BE+" title="wikilink">WANNA BE+</a> '''</p>
 <ul>
-<li>'''발매일 : <a href="../Page/1월_19일.md" title="wikilink">1월 19일</a>, <a href="https://ko.wikipedia.org/wiki/2004" title="wikilink">2004</a> '''</li>
-<li><strong>판매량 : 311,918(절판)</strong></li>
+<li><strong>발매일 :<a href="../Page/2004년.md" title="wikilink">2004년</a> <a href="../Page/1월_20일.md" title="wikilink">1월 20일</a></strong></li>
+<li><strong>판매량 : 180,389 (절판)</strong></li>
 <li><strong>언어 : <a href="../Page/한국어.md" title="wikilink">한국어</a></strong></li>
 </ul></td>
 <td style="text-align: left;"><ol>
-<li>Timeless</li>
+<li><strong>Timeless</strong></li>
 <li>죽을 만큼 사랑했어요</li>
 <li>사랑하고 싶어</li>
 <li>금기</li>
@@ -109,17 +109,17 @@
 <td style="text-align: left;"><p><strong>2집</strong></p></td>
 <td style="text-align: left;"><p>''' <a href="../Page/살다가.md" title="wikilink">살다가</a> '''</p>
 <ul>
-<li><strong>발매일 : <a href="../Page/3월_3일.md" title="wikilink">3월 3일</a>, <a href="https://ko.wikipedia.org/wiki/2005" title="wikilink">2005</a></strong></li>
-<li>'''판매량 : 677,926(절판) '''</li>
+<li><strong>발매일 :<a href="../Page/2005년.md" title="wikilink">2005년</a> <a href="../Page/3월_23일.md" title="wikilink">3월 23일</a></strong></li>
+<li>'''판매량 : 434,734 (절판) '''</li>
 <li><strong>언어 : <a href="../Page/한국어.md" title="wikilink">한국어</a></strong></li>
 </ul></td>
 <td style="text-align: left;"><ol>
-<li>죄와 벌</li>
+<li><strong>죄와 벌</strong></li>
 <li>이별의 계절</li>
 <li>광(狂)</li>
 <li>가</li>
 <li>그래도</li>
-<li>살다가</li>
+<li><strong>살다가</strong></li>
 <li>24 Hour</li>
 <li>Thank You</li>
 <li>입술만 깨물고 있죠</li>
@@ -138,12 +138,12 @@
 <td style="text-align: left;"><p><strong>3집</strong></p></td>
 <td style="text-align: left;"><p><em>' <a href="../Page/The_3rd_Masterpiece.md" title="wikilink">The 3rd Masterpiece</a></em>'</p>
 <ul>
-<li><strong>발매일 : <a href="../Page/4월_4일.md" title="wikilink">4월 4일</a>, <a href="https://ko.wikipedia.org/wiki/2006" title="wikilink">2006</a></strong></li>
-<li>'''판매량 : 415,545 (절판) '''</li>
+<li><strong>발매일 :<a href="../Page/2006년.md" title="wikilink">2006년</a> <a href="../Page/4월_8일.md" title="wikilink">4월 8일</a></strong></li>
+<li>'''판매량 : 311,642 (절판) '''</li>
 <li><strong>언어 : <a href="../Page/한국어.md" title="wikilink">한국어</a></strong></li>
 </ul></td>
 <td style="text-align: left;"><ol>
-<li>내사람 : Partner For Life</li>
+<li><strong>내 사람 : Partner For Life</strong></li>
 <li>느림보</li>
 <li>폭풍</li>
 <li>사랑했어요 (Feat. 데니안)</li>
@@ -169,21 +169,21 @@
 <td style="text-align: left;"><p><strong>4집</strong></p></td>
 <td style="text-align: left;"><p>''' <a href="../Page/The_Sentimental_Chord.md" title="wikilink">The Sentimental Chord</a> '''</p>
 <ul>
-<li>'''발매일 : <a href="../Page/4월_6일.md" title="wikilink">4월 6일</a>, <a href="https://ko.wikipedia.org/wiki/2007" title="wikilink">2007</a> '''</li>
-<li><strong>판매량 : 308,319 (절판)</strong></li>
+<li><strong>발매일 : <a href="../Page/2007년.md" title="wikilink">2007년</a> <a href="../Page/4월_6일.md" title="wikilink">4월 6일</a></strong></li>
+<li><strong>판매량 : 190,998 (절판)</strong></li>
 <li><strong>언어 : <a href="../Page/한국어.md" title="wikilink">한국어</a></strong></li>
 </ul></td>
 <td style="text-align: left;"><ol>
-<li>아리랑</li>
+<li><strong>아리랑</strong></li>
 <li>은(恩)</li>
-<li>한여름날의 꿈(Duet With <a href="../Page/옥주현.md" title="wikilink">옥주현</a>)</li>
+<li>한 여름날의 꿈(Duet With <a href="../Page/옥주현.md" title="wikilink">옥주현</a>)</li>
 <li>잊어요</li>
 <li>지상에서 영원으로</li>
 <li>가시나무새</li>
 <li>I Love You</li>
 <li>아버지 구두</li>
 <li>꽃잎</li>
-<li>한여름날의 꿈 Part.2</li>
+<li>한 여름날의 꿈 Part.2</li>
 <li>Stay</li>
 <li>이별하길 정말 잘했어요</li>
 <li>행복한 사람</li>
@@ -199,12 +199,12 @@
 <td style="text-align: left;"><p><strong>5집</strong></p></td>
 <td style="text-align: left;"><p>''' <a href="https://ko.wikipedia.org/wiki/My_Friend" title="wikilink">My Friend</a> '''</p>
 <ul>
-<li>'''발매일 : <a href="../Page/4월_18일.md" title="wikilink">4월 18일</a>, <a href="https://ko.wikipedia.org/wiki/2008" title="wikilink">2008</a> '''</li>
-<li><strong>판매량 : 206,217 (절판)</strong></li>
+<li><strong>발매일 :<a href="../Page/2008년.md" title="wikilink">2008년</a> <a href="../Page/4월_24일.md" title="wikilink">4월 24일</a></strong></li>
+<li><strong>판매량 : 76,227 (절판)</strong></li>
 <li><strong>언어 : <a href="../Page/한국어.md" title="wikilink">한국어</a></strong></li>
 </ul></td>
 <td style="text-align: left;"><ol>
-<li>라라라</li>
+<li><strong>라라라</strong></li>
 <li>멋지게 이별</li>
 <li>사랑하니까</li>
 <li>보고싶어</li>
@@ -224,12 +224,12 @@
 <td style="text-align: left;"><p><strong>6집</strong></p></td>
 <td style="text-align: left;"><p>''' <a href="../Page/Gift_From_SG_Wanna_Be.md" title="wikilink">Gift From SG Wanna Be</a> '''</p>
 <ul>
-<li>'''발매일 : <a href="../Page/4월_23일.md" title="wikilink">4월 23일</a>, <a href="https://ko.wikipedia.org/wiki/2009" title="wikilink">2009</a> '''</li>
-<li><strong>판매량 : 173,132 (절판)</strong></li>
+<li><strong>발매일 :<a href="../Page/2009년.md" title="wikilink">2009년</a> <a href="../Page/4월_23일.md" title="wikilink">4월 23일</a></strong></li>
+<li><strong>판매량 : 59,300 (절판)</strong></li>
 <li><strong>언어 : <a href="../Page/한국어.md" title="wikilink">한국어</a></strong></li>
 </ul></td>
 <td style="text-align: left;"><ol>
-<li>사랑해 (feat. 유리상자(박승화))</li>
+<li><strong>사랑해 (feat. 유리상자(박승화))</strong></li>
 <li>주르륵</li>
 <li>내사랑 울보</li>
 <li>용의 눈물</li>
@@ -239,7 +239,7 @@
 <li>사랑의 유효기간은 없어</li>
 <li>거꾸로 가는 사랑</li>
 <li>겁쟁이</li>
-<li>거짓말마</li>
+<li>거짓말 마</li>
 </ol></td>
 </tr>
 <tr class="even">
@@ -248,17 +248,17 @@
 <td style="text-align: left;"></td>
 </tr>
 <tr class="odd">
-<td style="text-align: left;"><p><strong>7집 part.I</strong></p></td>
+<td style="text-align: left;"><p><strong>7집 part.|</strong></p></td>
 <td style="text-align: left;"><p>''' <a href="https://ko.wikipedia.org/wiki/SG_Wannabe_BY_SG_Wannabe_7_Part.1" title="wikilink">SG Wannabe BY SG Wannabe 7 Part.1</a> '''</p>
 <ul>
-<li>'''발매일 : <a href="../Page/10월_19일.md" title="wikilink">10월 19일</a>, <a href="https://ko.wikipedia.org/wiki/2010" title="wikilink">2010</a> '''</li>
-<li><strong>판매량 : 100,122 (판매 중)</strong></li>
+<li><strong>발매일 :<a href="../Page/2010년.md" title="wikilink">2010년</a> <a href="../Page/10월_19일.md" title="wikilink">10월 19일</a></strong></li>
+<li><strong>판매량 : 10,000 (절판)</strong></li>
 <li><strong>언어 : <a href="../Page/한국어.md" title="wikilink">한국어</a></strong></li>
 </ul></td>
 <td style="text-align: left;"><ol>
 <li>겨울나무</li>
 <li>놓지 말자</li>
-<li>해바라기</li>
+<li><strong>해바라기</strong></li>
 <li>너는 내 전부</li>
 <li>하루에 한번씩</li>
 <li>웃고 싶다</li>
@@ -273,14 +273,14 @@
 <td style="text-align: left;"><p><strong>7집 part.II</strong></p></td>
 <td style="text-align: left;"><p>''' <a href="https://ko.wikipedia.org/wiki/SG_Wannabe_By_SG_Wannabe_7_Part.2" title="wikilink">SG Wannabe By SG Wannabe 7 Part.2</a> '''</p>
 <ul>
-<li>'''발매일 : <a href="../Page/3월_17일.md" title="wikilink">3월 17일</a>, <a href="https://ko.wikipedia.org/wiki/2011" title="wikilink">2011</a> '''</li>
-<li><strong>판매량 : 10,000 (1만장 한정, 완판)</strong></li>
+<li><strong>발매일 :<a href="../Page/2011년.md" title="wikilink">2011년</a> <a href="../Page/3월_14일.md" title="wikilink">3월 14일</a></strong></li>
+<li>'''판매량 :</li>
 <li><strong>언어 : <a href="../Page/한국어.md" title="wikilink">한국어</a></strong></li>
 </ul></td>
 <td style="text-align: left;"><ol>
 <li>너에게 고백하는 노래</li>
 <li>다시 사랑할 수 있다면</li>
-<li>고작</li>
+<li><strong>고작</strong></li>
 <li>사랑이 떠나도</li>
 <li>보낸다</li>
 <li>길 (Road of the Passion)</li>
@@ -314,14 +314,14 @@
 <td style="text-align: left;"><p><strong>2.5집 (리메이크 앨범)</strong></p></td>
 <td style="text-align: left;"><p>''' <a href="../Page/Classic_Odyssey.md" title="wikilink">Classic Odyssey</a> '''</p>
 <ul>
-<li><strong>발매일 : <a href="../Page/9월_8일.md" title="wikilink">9월 8일</a>,<a href="https://ko.wikipedia.org/wiki/2005" title="wikilink">2005</a></strong></li>
-<li>'''판매량 : 263,432(절판) '''</li>
+<li><strong>발매일 :<a href="../Page/2005년.md" title="wikilink">2005년</a> <a href="../Page/9월_12일.md" title="wikilink">9월 12일</a></strong></li>
+<li>'''판매량 : 177,752(절판) '''</li>
 <li><strong>언어 : <a href="../Page/한국어.md" title="wikilink">한국어</a></strong></li>
 </ul></td>
 <td style="text-align: left;"><ol>
-<li>내 마음의 보석상자</li>
+<li><strong>내 마음의 보석상자</strong></li>
 <li>비 오는 거리</li>
-<li>꿈의 대화(R&amp;B Soul Version)</li>
+<li><strong>꿈의 대화(R&amp;B Soul Version)</strong></li>
 <li>사랑의 썰물</li>
 <li>유리창엔 비 (Duet with 옥주현)</li>
 <li>소녀</li>
@@ -346,8 +346,8 @@
 <td style="text-align: left;"><p><strong>3.5집 (베스트 앨범)</strong></p></td>
 <td style="text-align: left;"><p><em>' <a href="../Page/The_Precious_History.md" title="wikilink">The Precious History</a></em>'</p>
 <ul>
-<li><strong>발매일 : <a href="../Page/11월_14일.md" title="wikilink">11월 14일</a>, <a href="https://ko.wikipedia.org/wiki/2006" title="wikilink">2006</a></strong></li>
-<li><strong>판매량 : 231,257 (절판)</strong></li>
+<li><strong>발매일 :<a href="../Page/2006년.md" title="wikilink">2006년</a> <a href="../Page/11월_16일.md" title="wikilink">11월 16일</a></strong></li>
+<li><strong>판매량 : 78,548 (절판)</strong></li>
 <li><strong>언어 : <a href="../Page/한국어.md" title="wikilink">한국어</a></strong></li>
 </ul></td>
 <td style="text-align: left;"><p>CD 1</p>
@@ -381,7 +381,7 @@
 </ol>
 <p>CD 3</p>
 <ol>
-<li>사랑가 (3.5 Album)</li>
+<li><strong>사랑가</strong> (3.5 Album)</li>
 <li>그저 바라볼수만 있어도 (3.5 Album)</li>
 <li>Ordinary People (3.5 Album)</li>
 </ol></td>
@@ -395,12 +395,12 @@
 <td style="text-align: left;"><p><strong>4.5집 (스페셜 앨범)</strong></p></td>
 <td style="text-align: left;"><p>''' <a href="https://ko.wikipedia.org/wiki/Story_In_New_York" title="wikilink">Story In New York</a> '''</p>
 <ul>
-<li><strong>발매일 : <a href="../Page/11월_23일.md" title="wikilink">11월 23일</a>, <a href="https://ko.wikipedia.org/wiki/2007" title="wikilink">2007</a></strong></li>
-<li>'''판매량 : 103,175(절판) '''</li>
+<li><strong>발매일 :<a href="../Page/2007년.md" title="wikilink">2007년</a> <a href="../Page/11월_23일.md" title="wikilink">11월 23일</a></strong></li>
+<li>'''판매량 : 61,936(절판) '''</li>
 <li><strong>언어 : <a href="../Page/한국어.md" title="wikilink">한국어</a></strong></li>
 </ul></td>
 <td style="text-align: left;"><ol>
-<li>첫눈</li>
+<li><strong>첫 눈</strong></li>
 <li>들어주세요</li>
 <li>크리스마스 이야기</li>
 <li>한여름날의 꿈</li>
@@ -423,7 +423,7 @@
 <td style="text-align: left;"></td>
 <td style="text-align: left;"><p><strong>사랑법</strong></p>
 <ul>
-<li><strong>발매일 : <a href="../Page/9월_5일.md" title="wikilink">9월 5일</a>, <a href="https://ko.wikipedia.org/wiki/2011" title="wikilink">2011</a></strong></li>
+<li><strong>발매일 :<a href="../Page/2011년.md" title="wikilink">2011년</a> <a href="../Page/9월_5일.md" title="wikilink">9월 5일</a></strong></li>
 <li>'''판매량 :</li>
 <li><strong>언어 : <a href="../Page/한국어.md" title="wikilink">한국어</a></strong></li>
 </ul></td>
@@ -441,14 +441,14 @@
 <td style="text-align: left;"></td>
 <td style="text-align: left;"><p><strong><a href="../Page/THE_VOICE.md" title="wikilink">THE VOICE</a></strong></p>
 <ul>
-<li><strong>발매일 : <a href="../Page/8월_19일.md" title="wikilink">8월 19일</a>, <a href="https://ko.wikipedia.org/wiki/2015" title="wikilink">2015</a></strong></li>
+<li><strong>발매일 :[[2016년]&lt;_[[8월_19일|2016년]&lt; <a href="../Page/8월_19일.md" title="wikilink">8월 19일</a></strong></li>
 <li>'''판매량 : 21,294(판매중)</li>
 <li><strong>언어 : <a href="../Page/한국어.md" title="wikilink">한국어</a></strong></li>
 </ul></td>
 <td style="text-align: left;"><ol>
-<li>가슴 뛰도록</li>
+<li><strong>가슴 뛰도록</strong></li>
 <li>그때</li>
-<li>좋은 기억</li>
+<li><strong>좋은 기억</strong></li>
 <li>스물</li>
 <li>You are Mine</li>
 </ol></td>
@@ -462,12 +462,12 @@
 <td style="text-align: left;"></td>
 <td style="text-align: left;"><p><strong><a href="https://ko.wikipedia.org/wiki/Our_Days" title="wikilink">Our Days</a></strong></p>
 <ul>
-<li><strong>발매일: <a href="../Page/11월_19일.md" title="wikilink">11월 19일</a>, <a href="https://ko.wikipedia.org/wiki/2016" title="wikilink">2016</a></strong></li>
+<li><strong>발매일:<a href="../Page/2016년.md" title="wikilink">2016년</a> <a href="../Page/11월_19일.md" title="wikilink">11월 19일</a></strong></li>
 <li>'''판매량 :</li>
 <li><strong>언어 : <a href="../Page/한국어.md" title="wikilink">한국어</a></strong></li>
 </ul></td>
 <td style="text-align: left;"><ol>
-<li>아임미싱유</li>
+<li><strong>아임미싱유</strong></li>
 <li>나를 떠나요</li>
 <li>습관처럼</li>
 <li>너를 그리다</li>
@@ -502,7 +502,7 @@
 <td style="text-align: left;"><p><strong>1집</strong></p></td>
 <td style="text-align: left;"><p>''' <a href="https://ko.wikipedia.org/wiki/SG_Wanna_Be+_(Music_2.0_Special_Edition)" title="wikilink">SG Wanna Be+ (Music 2.0 Special Edition)</a> '''</p>
 <ul>
-<li><strong>발매일 : <a href="../Page/8월_23일.md" title="wikilink">8월 23일</a>, <a href="https://ko.wikipedia.org/wiki/2007" title="wikilink">2007</a></strong></li>
+<li><strong>발매일 :<a href="../Page/2007년.md" title="wikilink">2007년</a> <a href="../Page/8월_23일.md" title="wikilink">8월 23일</a></strong></li>
 <li>'''판매량 : 50,885(판매중)</li>
 <li><strong>언어 : <a href="../Page/한국어.md" title="wikilink">한국어</a></strong></li>
 </ul></td>
@@ -526,7 +526,7 @@
 <td style="text-align: left;"><p><strong>2집</strong></p></td>
 <td style="text-align: left;"><p>''' <a href="https://ko.wikipedia.org/wiki/뮤직2.0_스페셜에디션_2집" title="wikilink">뮤직2.0 스페셜에디션 2집</a> '''</p>
 <ul>
-<li><strong>발매일 : <a href="../Page/8월_28일.md" title="wikilink">8월 28일</a>, <a href="https://ko.wikipedia.org/wiki/2008" title="wikilink">2008</a></strong></li>
+<li><strong>발매일 :<a href="../Page/2008년.md" title="wikilink">2008년</a> <a href="../Page/8월_28일.md" title="wikilink">8월 28일</a></strong></li>
 <li>'''판매량 : 14,735(판매중)</li>
 <li><strong>언어 : <a href="../Page/한국어.md" title="wikilink">한국어</a></strong></li>
 </ul></td>
@@ -715,7 +715,7 @@
 
 ## 코러스 참여곡
 
-  - [초신성](../Page/초신성.md "wikilink") 1집 앨범 : 안녕
+  - [초신성](../Page/슈퍼노바_\(음악_그룹\).md "wikilink") 1집 앨범 : 안녕
   - [옥주현](../Page/옥주현.md "wikilink") 3집 앨범 : My Romeo
 
 ## 수상경력
@@ -840,15 +840,15 @@
   - 2005년 2집 "살다가"로 중국 시나엔터테인먼트 선정 "10대 아시아 레코드"로 선정
   - 2006년 3집 세계최초로 디지털 디스크 음반 발매
   - 2006년 3집 음반판매량 단일음반 1위
-  - 2006년 3집 타이틀곡 내사람 멜론차트 9주연속 1위
-  - 2006년 SBS인기가요 최다 뮤티즌송 (내사람3주, 사랑했어요3주) 총6회
+  - 2006년 3집 타이틀곡 내 사람 벅스차트 최초 9주 연속 1위
+  - 2006년 SBS 인기가요 최다 뮤티즌송 (내사람 3주, 사랑했어요 3주) 총 6회
   - 2006년 SG워너비 디너쇼 전석매진
   - 2006년 씨야 프로듀서와 보컬트레이너로 활약 그해 프로듀서상 수상
-  - 2007년 SBS인기가요 아리랑, 한여름날의 꿈 1위
+  - 2007년 SBS 인기가요 아리랑 1위, 엠카운트다운 한 여름날의 꿈 1위
   - 2007년 4집 음반판매량 1위
   - 2007년 인간극장 sg워너비출연 평균시청률 8%\~10%웃돌며, 최고시청률기록
   - 2007년 SG워너비 디너쇼 전석매진
-  - 2008년 SBS인기가요 라라라 1위
+  - 2008년 SBS 인기가요 라라라 1위
   - 2008년 5집 음반판매량 4위 (정규앨범부분)
   - 2008년 5집 '라라라' 방송에서 가장 많이 나온 노래 3위 (4225회)
   - 2008년 SG워너비 디너쇼 전석매진
@@ -874,7 +874,7 @@
 
 <references/>
 
-[분류:대한민국의 음악 그룹](https://ko.wikipedia.org/wiki/분류:대한민국의_음악_그룹 "wikilink") [분류:남성 음악 그룹](https://ko.wikipedia.org/wiki/분류:남성_음악_그룹 "wikilink") [분류:2004년 데뷔](https://ko.wikipedia.org/wiki/분류:2004년_데뷔 "wikilink") [분류:3인조 음악 그룹](https://ko.wikipedia.org/wiki/분류:3인조_음악_그룹 "wikilink") [분류:골든디스크 대상 수상 음악가](https://ko.wikipedia.org/wiki/분류:골든디스크_대상_수상_음악가 "wikilink") [분류:골든디스크 본상 수상 음악가](https://ko.wikipedia.org/wiki/분류:골든디스크_본상_수상_음악가 "wikilink") [분류:골든디스크 신인상 수상 음악가](https://ko.wikipedia.org/wiki/분류:골든디스크_신인상_수상_음악가 "wikilink") [분류:SBS 인기가요 뮤티즌송 수상자](https://ko.wikipedia.org/wiki/분류:SBS_인기가요_뮤티즌송_수상자 "wikilink") [분류:Mnet 엠카운트다운 1위 수상자](https://ko.wikipedia.org/wiki/분류:Mnet_엠카운트다운_1위_수상자 "wikilink") [분류:Mnet 아시안 뮤직 어워드 올해의 노래상 수상 음악가](https://ko.wikipedia.org/wiki/분류:Mnet_아시안_뮤직_어워드_올해의_노래상_수상_음악가 "wikilink") [분류:Mnet 아시안 뮤직 어워드 올해의 앨범상 수상 음악가](https://ko.wikipedia.org/wiki/분류:Mnet_아시안_뮤직_어워드_올해의_앨범상_수상_음악가 "wikilink") [분류:CJ ENM 음악가](https://ko.wikipedia.org/wiki/분류:CJ_ENM_음악가 "wikilink") [분류:2004년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2004년_결성된_음악_그룹 "wikilink")
+[분류:대한민국의 음악 그룹](https://ko.wikipedia.org/wiki/분류:대한민국의_음악_그룹 "wikilink") [분류:남성 음악 그룹](https://ko.wikipedia.org/wiki/분류:남성_음악_그룹 "wikilink") [분류:3인조 음악 그룹](https://ko.wikipedia.org/wiki/분류:3인조_음악_그룹 "wikilink") [분류:골든디스크 대상 수상 음악가](https://ko.wikipedia.org/wiki/분류:골든디스크_대상_수상_음악가 "wikilink") [분류:골든디스크 본상 수상 음악가](https://ko.wikipedia.org/wiki/분류:골든디스크_본상_수상_음악가 "wikilink") [분류:골든디스크 신인상 수상 음악가](https://ko.wikipedia.org/wiki/분류:골든디스크_신인상_수상_음악가 "wikilink") [분류:SBS 인기가요 뮤티즌송 수상자](https://ko.wikipedia.org/wiki/분류:SBS_인기가요_뮤티즌송_수상자 "wikilink") [분류:엠넷 엠카운트다운 1위 수상자](https://ko.wikipedia.org/wiki/분류:엠넷_엠카운트다운_1위_수상자 "wikilink") [분류:Mnet 아시안 뮤직 어워드 올해의 노래상 수상 음악가](https://ko.wikipedia.org/wiki/분류:Mnet_아시안_뮤직_어워드_올해의_노래상_수상_음악가 "wikilink") [분류:Mnet 아시안 뮤직 어워드 올해의 앨범상 수상 음악가](https://ko.wikipedia.org/wiki/분류:Mnet_아시안_뮤직_어워드_올해의_앨범상_수상_음악가 "wikilink") [분류:CJ ENM 음악가](https://ko.wikipedia.org/wiki/분류:CJ_ENM_음악가 "wikilink") [분류:2004년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2004년_결성된_음악_그룹 "wikilink")
 
 1.  [SG워너비 채동하, 팬들 앞에서 탈퇴 공식선언](http://news.mk.co.kr/outside/view.php?year=2008&no=161501)  《매일경제》 2008-03-22 /2008-03-22 오후2:54 읽어봄
 2.  노래의 추임새를 잘 넣어 준다.

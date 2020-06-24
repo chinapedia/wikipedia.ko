@@ -67,6 +67,11 @@
   - Wii와 닌텐도 DS와의 연동
     Wii는 [닌텐도 DS와](../Page/닌텐도_DS.md "wikilink") 통신할 수 있으며, 지원하는 소프트웨어에 따라 여러 가지 연동이 가능하다. '포켓몬 배틀 레볼루션' 등에서 이미 일부 기능을 이용하고 있다. 또 [타운으로 놀러가요 동물의 숲에서는](../Page/타운으로_놀러가요_동물의_숲.md "wikilink") 기존의 [놀러오세요 동물의 숲](../Page/놀러오세요_동물의_숲.md "wikilink") DS 소프트의 마을에 살던 주인공이 Wii 소프트의 마을로 이사올 수 있다. 또한, 현재는 DS용 소프트의 체험판 등을 다운로드하여 DS에 전송하는 기능도 존재한다.
 
+<!-- end list -->
+
+  - Wii와 닌텐도 3DS와의 연동
+    [닌텐도 3DS의](../Page/닌텐도_3DS.md "wikilink") 기본내장 소프트웨어인 Mii 스튜디오 와 Wii의 Mii 채널 간에 자신이 만든 Mii를 보내기, 받기를 할 수 있다. 단, Wii에서 보내고 3DS에서 받기는 되지만, Wii에서 받기는 할수 없다.\[11\]
+
 ### 인터넷 접속
 
 Wii는 [인터넷](../Page/인터넷.md "wikilink")에 접속할 수 있으며, 다음과 같은 기능과 서비스를 이용할 수 있다.
@@ -78,11 +83,11 @@ Wii는 [인터넷](../Page/인터넷.md "wikilink")에 접속할 수 있으며, 
 
 채널에 [오페라](../Page/오페라.md "wikilink")를 기반으로 하는 [웹 브라우저를](../Page/웹_브라우저.md "wikilink") 설치하면 웹 서핑도 가능하다.
 
-지금 시점에서 Wii의 인터넷 접속률은 약 40% 정도 된다.\[11\]
+지금 시점에서 Wii의 인터넷 접속률은 약 40% 정도 된다.\[12\]
 
 ### 음향
 
-[오른쪽](https://ko.wikipedia.org/wiki/파일:Wii_in_GameCube_modus.JPG "wikilink") Wii는 돌비 프롤로직 2 [서라운드](https://ko.wikipedia.org/wiki/서라운드 "wikilink")를 지원하고 있다.\[12\]
+[오른쪽](https://ko.wikipedia.org/wiki/파일:Wii_in_GameCube_modus.JPG "wikilink") Wii는 돌비 프롤로직 2 [서라운드](https://ko.wikipedia.org/wiki/서라운드 "wikilink")를 지원하고 있다.\[13\]
 
 닌텐도는 [돌비 사와](../Page/돌비_연구소.md "wikilink") 계약을 체결하여, Wii 전용 게임 소프트가 돌비 프롤로직2를 사용할 수 있게 되었다. 이 계약에 따라, 게임 개발사들이 직접 돌비와 계약을 맺지 않고도 Wii 본체를 통해 서라운드 신호를 출력할 수 있게 되었다. 다만, 소리를 [멀티 채널로](https://ko.wikipedia.org/wiki/멀티_채널 "wikilink") 제작해야 한다.
 
@@ -144,18 +149,18 @@ CD 또는 DVD의 재생 기능은 없으나, [Wii 공식 사이트 Q\&A](http://
   - [2006년](../Page/2006년.md "wikilink") [12월 8일](../Page/12월_8일.md "wikilink") - [유럽](../Page/유럽.md "wikilink")
   - [2006년](../Page/2006년.md "wikilink") [12월 9일](../Page/12월_9일.md "wikilink") - [스페인](../Page/스페인.md "wikilink")
   - [2007년](../Page/2007년.md "wikilink") [7월 12일](../Page/7월_12일.md "wikilink") - [중화민국](../Page/중화민국.md "wikilink")(대만)
-  - [2008년](../Page/2008년.md "wikilink") [4월 26일](../Page/4월_26일.md "wikilink") - [대한민국](../Page/대한민국.md "wikilink")\[13\]
+  - [2008년](../Page/2008년.md "wikilink") [4월 26일](../Page/4월_26일.md "wikilink") - [대한민국](../Page/대한민국.md "wikilink")\[14\]
   - [2009년](../Page/2009년.md "wikilink") [2월 27일](../Page/2월_27일.md "wikilink") - [인도](../Page/인도.md "wikilink")
 
 ## 기타 모델
 
 ### 패밀리 에디션
 
-**Wiii 패밀리 에디션**(Wii Family Edition)은 오리지널 모델과 유사하지만 [게임큐브](https://ko.wikipedia.org/wiki/게임큐브 "wikilink") 컨트롤러와 메모리 카드 포트를 제거하였다. 그러나 윗쪽 덮개 아래의 케이스에는 여전히 [게임큐브](https://ko.wikipedia.org/wiki/게임큐브 "wikilink") 컨트롤러와 메모리 카드 포트 구멍이 있으나 포트와 슬롯은 존재하지 않는다. 이러한 이유로 패밀리 에디션은 게임큐브 게임, 액세서리와 호환되지 않는다. 이 콘솔은 2011년 8월 17일 발표되었으며 2011년 10월 유럽과 북아메리카에 출시되었다.\[14\]
+**Wiii 패밀리 에디션**(Wii Family Edition)은 오리지널 모델과 유사하지만 [게임큐브](https://ko.wikipedia.org/wiki/게임큐브 "wikilink") 컨트롤러와 메모리 카드 포트를 제거하였다. 그러나 윗쪽 덮개 아래의 케이스에는 여전히 [게임큐브](https://ko.wikipedia.org/wiki/게임큐브 "wikilink") 컨트롤러와 메모리 카드 포트 구멍이 있으나 포트와 슬롯은 존재하지 않는다. 이러한 이유로 패밀리 에디션은 게임큐브 게임, 액세서리와 호환되지 않는다. 이 콘솔은 2011년 8월 17일 발표되었으며 2011년 10월 유럽과 북아메리카에 출시되었다.\[15\]
 
 ### Wii 미니
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:Wii-Mini-Console-Set-H.jpg "wikilink") **Wiii 미니**(Wii Mini)는 탑 로딩 디스크 드라이브를 갖춘 더 작게 재설계된 Wii이다. 이 모델은 [YPbPr](../Page/YPbPr.md "wikilink") ([컴포넌트 비디오](../Page/컴포넌트_비디오.md "wikilink")/[D-터미널](https://ko.wikipedia.org/wiki/D-터미널 "wikilink")), [S-비디오](https://ko.wikipedia.org/wiki/S-비디오 "wikilink"), [RGB](https://ko.wikipedia.org/wiki/RGBS "wikilink") [SCART](../Page/SCART.md "wikilink") 출력, [게임큐브](https://ko.wikipedia.org/wiki/게임큐브 "wikilink") 호환성, 온라인 연결, [SD 카드](../Page/SD_카드.md "wikilink") 슬롯, [와이파이](../Page/와이파이.md "wikilink") 지원이 제거되었으며 이전 2개 모델과 달리 오직 [USB](../Page/USB.md "wikilink") 포트 하나만 있다.\[15\]\[16\] 초기 릴리스에는 [팩인 게임이](https://ko.wikipedia.org/wiki/팩인_게임 "wikilink") 빠져있었으나 캐나다에서 2013년 9월 18일 기점으로 [마리오 카트 Wii가](../Page/마리오_카트_Wii.md "wikilink") 무료로 포함되었으며\[17\] 미국에서도 런칭되었다.\[18\] 캐나다에서는 2012년 12월 7일 [C$](../Page/캐나다_달러.md "wikilink")99.99 MSRP로 출시되었으며,\[19\] 유럽에서는 2013년 3월 22일,\[20\] 미국에서는 2013년 11월 17일에 출시되었다.\[21\] 닌텐도는 이 콘솔과 [닌텐도 셀렉트](https://ko.wikipedia.org/wiki/닌텐도_셀렉트 "wikilink") 게임 시리즈를 사용하여 낮은 가격의 게이밍을 프로모션하였다. Wii 미니는 빨간 테두리의 매트 블랙 스타일이며 [Wii 리모트 플러스와](https://ko.wikipedia.org/wiki/Wii_리모트_플러스 "wikilink") Nunchuk을 포함한다. [컴포지트 비디오](../Page/컴포지트_비디오.md "wikilink")/오디오 케이블, 유선 센서바, 파워 어댑터도 동봉된다.\[22\]
+[섬네일](https://ko.wikipedia.org/wiki/파일:Wii-Mini-Console-Set-H.jpg "wikilink") **Wiii 미니**(Wii Mini)는 탑 로딩 디스크 드라이브를 갖춘 더 작게 재설계된 Wii이다. 이 모델은 [YPbPr](../Page/YPbPr.md "wikilink") ([컴포넌트 비디오](../Page/컴포넌트_비디오.md "wikilink")/[D-터미널](https://ko.wikipedia.org/wiki/D-터미널 "wikilink")), [S-비디오](https://ko.wikipedia.org/wiki/S-비디오 "wikilink"), [RGB](https://ko.wikipedia.org/wiki/RGBS "wikilink") [SCART](../Page/SCART.md "wikilink") 출력, [게임큐브](https://ko.wikipedia.org/wiki/게임큐브 "wikilink") 호환성, 온라인 연결, [SD 카드](../Page/SD_카드.md "wikilink") 슬롯, [와이파이](../Page/와이파이.md "wikilink") 지원이 제거되었으며 이전 2개 모델과 달리 오직 [USB](../Page/USB.md "wikilink") 포트 하나만 있다.\[16\]\[17\] 초기 릴리스에는 [팩인 게임이](https://ko.wikipedia.org/wiki/팩인_게임 "wikilink") 빠져있었으나 캐나다에서 2013년 9월 18일 기점으로 [마리오 카트 Wii가](../Page/마리오_카트_Wii.md "wikilink") 무료로 포함되었으며\[18\] 미국에서도 런칭되었다.\[19\] 캐나다에서는 2012년 12월 7일 [C$](../Page/캐나다_달러.md "wikilink")99.99 MSRP로 출시되었으며,\[20\] 유럽에서는 2013년 3월 22일,\[21\] 미국에서는 2013년 11월 17일에 출시되었다.\[22\] 닌텐도는 이 콘솔과 [닌텐도 셀렉트](https://ko.wikipedia.org/wiki/닌텐도_셀렉트 "wikilink") 게임 시리즈를 사용하여 낮은 가격의 게이밍을 프로모션하였다. Wii 미니는 빨간 테두리의 매트 블랙 스타일이며 [Wii 리모트 플러스와](https://ko.wikipedia.org/wiki/Wii_리모트_플러스 "wikilink") Nunchuk을 포함한다. [컴포지트 비디오](../Page/컴포지트_비디오.md "wikilink")/오디오 케이블, 유선 센서바, 파워 어댑터도 동봉된다.\[23\]
 
 일본, 오스트레일리아, 뉴질랜드에서는 출시되지 않았다.
 
@@ -183,9 +188,9 @@ CD 또는 DVD의 재생 기능은 없으나, [Wii 공식 사이트 Q\&A](http://
 8.  '[판타지 스타 온라인 에피소드 1&2](https://ko.wikipedia.org/wiki/판타지_스타_온라인_에피소드_1&2 "wikilink")'를 비롯한 일부 온라인 소프트웨어는 오프라인 모드에서만 작동한다. 또, 비공식 소프트웨어인 '[프로 액션 리플레이](https://ko.wikipedia.org/wiki/프로_액션_리플레이 "wikilink")' 등은 사용할 수 없다.
 9.  게임큐브용 소프트 '[포켓몬 박스 루비 & 사파이어](https://ko.wikipedia.org/wiki/포켓몬_박스_루비_&_사파이어 "wikilink")'와 연동되는 GBA용 소프트 [포켓몬스터 루비 사파이어는](https://ko.wikipedia.org/wiki/포켓몬스터_루비_사파이어 "wikilink") 예외.
 10. '드래곤 볼 Z Sparking\! NEO', '대난투 스매쉬 브러더즈X', '파이어 엠블렘 새벽의 여신()' 등, 주로 클래식 컨트롤러를 지원하는 소프트웨어가 대표적인 예
-11. [닌텐도 주식회사 2007년 3월기 (제67기) 결산설명회](http://www.irwebcasting.com/070427/14/e661ac7967/index.html) [닌텐도](http://www.nintendo.co.jp/), 2007년 4월 27일.
-12. 돌비 프롤로직2 지원 오디오 기기가 필요하다.
-13.
+11. 왜냐하면 Wii에 없던 눈, 눈썹 등이 3DS에서 생겼기 때문이다.
+12. [닌텐도 주식회사 2007년 3월기 (제67기) 결산설명회](http://www.irwebcasting.com/070427/14/e661ac7967/index.html) [닌텐도](http://www.nintendo.co.jp/), 2007년 4월 27일.
+13. 돌비 프롤로직2 지원 오디오 기기가 필요하다.
 14.
 15.
 16.
@@ -195,3 +200,4 @@ CD 또는 DVD의 재생 기능은 없으나, [Wii 공식 사이트 Q\&A](http://
 20.
 21.
 22.
+23.

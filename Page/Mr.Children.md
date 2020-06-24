@@ -196,7 +196,7 @@ Mr.Children은 싱글 29장 연속 1위 기록을 갖고 있으며\[5\], 1994년
 
   -  ([토이즈 팩토리](https://ko.wikipedia.org/wiki/토이즈_팩토리 "wikilink"))
 
-[Mr.Children](https://ko.wikipedia.org/wiki/분류:Mr.Children "wikilink") [분류:1988년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:1988년_결성된_음악_그룹 "wikilink") [분류:1992년 데뷔](https://ko.wikipedia.org/wiki/분류:1992년_데뷔 "wikilink") [분류:일본의 록 밴드](https://ko.wikipedia.org/wiki/분류:일본의_록_밴드 "wikilink") [분류:일본의 팝 록 밴드](https://ko.wikipedia.org/wiki/분류:일본의_팝_록_밴드 "wikilink") [분류:1980년대 음악 그룹](https://ko.wikipedia.org/wiki/분류:1980년대_음악_그룹 "wikilink") [분류:1990년대 음악 그룹](https://ko.wikipedia.org/wiki/분류:1990년대_음악_그룹 "wikilink") [분류:2000년대 음악 그룹](https://ko.wikipedia.org/wiki/분류:2000년대_음악_그룹 "wikilink") [분류:2010년대 음악 그룹](https://ko.wikipedia.org/wiki/분류:2010년대_음악_그룹 "wikilink") [분류:일본 레코드 대상 수상 음악가](https://ko.wikipedia.org/wiki/분류:일본_레코드_대상_수상_음악가 "wikilink")
+[Mr.Children](https://ko.wikipedia.org/wiki/분류:Mr.Children "wikilink") [분류:1988년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:1988년_결성된_음악_그룹 "wikilink") [분류:일본의 록 밴드](https://ko.wikipedia.org/wiki/분류:일본의_록_밴드 "wikilink") [분류:일본의 팝 록 밴드](https://ko.wikipedia.org/wiki/분류:일본의_팝_록_밴드 "wikilink") [분류:1980년대 음악 그룹](https://ko.wikipedia.org/wiki/분류:1980년대_음악_그룹 "wikilink") [분류:1990년대 음악 그룹](https://ko.wikipedia.org/wiki/분류:1990년대_음악_그룹 "wikilink") [분류:2000년대 음악 그룹](https://ko.wikipedia.org/wiki/분류:2000년대_음악_그룹 "wikilink") [분류:2010년대 음악 그룹](https://ko.wikipedia.org/wiki/분류:2010년대_음악_그룹 "wikilink") [분류:일본 레코드 대상 수상 음악가](https://ko.wikipedia.org/wiki/분류:일본_레코드_대상_수상_음악가 "wikilink")
 
 1.  Mr.Children의 일본식 발음인 ('미스'타 '치루'도렌)의 앞글자를 딴 것이다.
 2.

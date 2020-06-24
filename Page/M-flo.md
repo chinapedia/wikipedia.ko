@@ -112,4 +112,4 @@
 ## 외부 링크
 
   -
-[분류:에이벡스 그룹 음악가](https://ko.wikipedia.org/wiki/분류:에이벡스_그룹_음악가 "wikilink") [분류:일본의 힙합 그룹](https://ko.wikipedia.org/wiki/분류:일본의_힙합_그룹 "wikilink") [분류:일본의 전자 음악 그룹](https://ko.wikipedia.org/wiki/분류:일본의_전자_음악_그룹 "wikilink") [분류:1997년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:1997년_결성된_음악_그룹 "wikilink") [분류:1998년 데뷔](https://ko.wikipedia.org/wiki/분류:1998년_데뷔 "wikilink") [분류:시부야계 음악가](https://ko.wikipedia.org/wiki/분류:시부야계_음악가 "wikilink") [분류:남성 듀오](https://ko.wikipedia.org/wiki/분류:남성_듀오 "wikilink")
+[분류:에이벡스 그룹 음악가](https://ko.wikipedia.org/wiki/분류:에이벡스_그룹_음악가 "wikilink") [분류:일본의 힙합 그룹](https://ko.wikipedia.org/wiki/분류:일본의_힙합_그룹 "wikilink") [분류:일본의 전자 음악 그룹](https://ko.wikipedia.org/wiki/분류:일본의_전자_음악_그룹 "wikilink") [분류:1997년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:1997년_결성된_음악_그룹 "wikilink") [분류:시부야계 음악가](https://ko.wikipedia.org/wiki/분류:시부야계_음악가 "wikilink") [분류:남성 듀오](https://ko.wikipedia.org/wiki/분류:남성_듀오 "wikilink")

@@ -19,7 +19,7 @@ ISDN에 들어가는 수준의 인터페이스는 기본 속도 인터페이스(
 
 ## 같이 보기
 
-  - [ADSL](https://ko.wikipedia.org/wiki/ADSL "wikilink")
+  - [ADSL](../Page/비대칭_디지털_가입자_회선.md "wikilink")
   - [ATM](../Page/비동기_전송_방식.md "wikilink")
   - [인터넷](../Page/인터넷.md "wikilink")
   - [H.320](https://ko.wikipedia.org/wiki/H.320 "wikilink")

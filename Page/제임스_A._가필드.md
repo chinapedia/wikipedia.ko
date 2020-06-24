@@ -84,7 +84,7 @@
   - [James A. Garfield on Assassinations, 1880 Original Letter](http://www.shapell.org/manuscript.aspx?james-garfield-letter-on-assassinations) Shapell Manuscript Foundation
   - [취임 연설](http://www.usa-presidents.info/inaugural/garfield.html)
   - [Biography from John T. Brown's *Churches of Christ* (1904)](https://web.archive.org/web/20051215111800/http://www.mun.ca/rels/restmov/texts/jtbrown/coc/COC1306.HTM)
-  - [Garfield Monument](http://www.deadohio.com/garfieldmonument.htm)  Retrieved on February 12, 2008
+  - [Garfield Monument](https://web.archive.org/web/20060617212512/http://www.deadohio.com/garfieldmonument.htm)  Retrieved on February 12, 2008
   - [Photo of Bodie, California memorial dedicated to President James A. Garfield](http://www.flickr.com/photos/darthjenni/3688511935/?reg=1&src=comment)
   - [Pike County, KY](http://www.tourpikecounty.com/index.php?page=bushwhacking-on-the-russell-fork), site of Garfield's commission as a Brigadier General
   - [James Garfield](http://americanpresidents.org/presidents/president.asp?PresidentNumber=20) at [C-SPAN](https://ko.wikipedia.org/wiki/C-SPAN "wikilink")'s *[American Presidents: Life Portraits](https://ko.wikipedia.org/wiki/American_Presidents:_Life_Portraits "wikilink")*

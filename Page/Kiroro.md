@@ -16,4 +16,4 @@
 
 [1998년](../Page/1998년.md "wikilink") [1월](../Page/1월.md "wikilink")에 메이저 데뷔, 1998년, 1999년, 2001년에 [NHK 홍백가합전에](../Page/NHK_홍백가합전.md "wikilink") 출장했다.
 
-[분류:일본의 음악 그룹](https://ko.wikipedia.org/wiki/분류:일본의_음악_그룹 "wikilink") [분류:여성 음악 그룹](https://ko.wikipedia.org/wiki/분류:여성_음악_그룹 "wikilink") [분류:여성 듀오](https://ko.wikipedia.org/wiki/분류:여성_듀오 "wikilink") [분류:2인조 음악 그룹](https://ko.wikipedia.org/wiki/분류:2인조_음악_그룹 "wikilink") [분류:오키나와현 출신](https://ko.wikipedia.org/wiki/분류:오키나와현_출신 "wikilink") [분류:빅터 엔터테인먼트의 음악가](https://ko.wikipedia.org/wiki/분류:빅터_엔터테인먼트의_음악가 "wikilink")
+[분류:일본의 음악 그룹](https://ko.wikipedia.org/wiki/분류:일본의_음악_그룹 "wikilink") [분류:여성 듀오](https://ko.wikipedia.org/wiki/분류:여성_듀오 "wikilink") [분류:오키나와현 출신](https://ko.wikipedia.org/wiki/분류:오키나와현_출신 "wikilink") [분류:빅터 엔터테인먼트의 음악가](https://ko.wikipedia.org/wiki/분류:빅터_엔터테인먼트의_음악가 "wikilink")

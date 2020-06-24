@@ -227,7 +227,7 @@
 
   - [워크래프트 III 및 확장팩 공식 홈페이지](http://us.blizzard.com/ko-kr/games/war3/)
   - [워크래프트 III 및 확장팩 공식 한국어 토론 페이지](https://web.archive.org/web/20130906004605/http://forums.battle.net/board.html?forumId=14773001&sid=3005)
-  - [북미-유럽 멀티게임 이용량 TOP20](http://www.thisisgame.com/board/view.php?id=93210&category=102)
+  - [북미-유럽 멀티게임 이용량 TOP20](https://web.archive.org/web/20070928021514/http://www.thisisgame.com/board/view.php?id=93210&category=102)
   - [워크래프트 위키](http://www.wowwiki.com/)
   - [Mojo StormStout's Warcraft III Strategy Guide](https://web.archive.org/web/20110807054440/http://classic.battle.net/war3/)
 

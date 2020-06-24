@@ -309,7 +309,7 @@
 
 ## 참조
 
-[분류:대한민국의 걸 그룹](https://ko.wikipedia.org/wiki/분류:대한민국의_걸_그룹 "wikilink") [분류:대한민국의 트로트 음악 그룹](https://ko.wikipedia.org/wiki/분류:대한민국의_트로트_음악_그룹 "wikilink") [분류:2005년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2005년_결성된_음악_그룹 "wikilink") [분류:2009년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2009년_결성된_음악_그룹 "wikilink") [분류:2013년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2013년_결성된_음악_그룹 "wikilink") [분류:2000년대 음악 그룹](https://ko.wikipedia.org/wiki/분류:2000년대_음악_그룹 "wikilink") [분류:2010년대 음악 그룹](https://ko.wikipedia.org/wiki/분류:2010년대_음악_그룹 "wikilink") [분류:한국어 음악 그룹](https://ko.wikipedia.org/wiki/분류:한국어_음악_그룹 "wikilink") [분류:대한민국의 아이돌 그룹](https://ko.wikipedia.org/wiki/분류:대한민국의_아이돌_그룹 "wikilink")
+[분류:대한민국의 걸 그룹](https://ko.wikipedia.org/wiki/분류:대한민국의_걸_그룹 "wikilink") [분류:대한민국의 트로트 음악 그룹](https://ko.wikipedia.org/wiki/분류:대한민국의_트로트_음악_그룹 "wikilink") [분류:2005년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2005년_결성된_음악_그룹 "wikilink") [분류:2009년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2009년_결성된_음악_그룹 "wikilink") [분류:2013년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2013년_결성된_음악_그룹 "wikilink") [분류:2000년대 음악 그룹](https://ko.wikipedia.org/wiki/분류:2000년대_음악_그룹 "wikilink") [분류:2010년대 음악 그룹](https://ko.wikipedia.org/wiki/분류:2010년대_음악_그룹 "wikilink") [분류:한국어 음악 그룹](https://ko.wikipedia.org/wiki/분류:한국어_음악_그룹 "wikilink") [분류:대한민국의 아이돌 그룹](https://ko.wikipedia.org/wiki/분류:대한민국의_아이돌_그룹 "wikilink") [분류:아이돌 그룹](https://ko.wikipedia.org/wiki/분류:아이돌_그룹 "wikilink") [분류:2016년 해체된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2016년_해체된_음악_그룹 "wikilink")
 
 1.  2008년 1기 해체 후 미국으로 가면서 멤버들과 연락이 끊겼다고 한다.
 2.

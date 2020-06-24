@@ -264,7 +264,7 @@ CEC(Consumer Electronics Control)는 여러가지 다른 이름으로 불린다.
 <td></td>
 </tr>
 <tr class="even">
-<td><p>4K 해상도 지원 (30 fps)</p></td>
+<td><p>4K 해상도 지원 30Hz</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -273,7 +273,7 @@ CEC(Consumer Electronics Control)는 여러가지 다른 이름으로 불린다.
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>4K 해상도 지원 (60 fps)</p></td>
+<td><p>4K 해상도 지원 60Hz</p></td>
 <td></td>
 <td></td>
 <td></td>

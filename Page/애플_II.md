@@ -23,7 +23,7 @@
 
 #### 사양
 
-  - [CPU로](../Page/중앙_처리_장치.md "wikilink") 모스 테크놀로지(Mos Technology)의 [6502](https://ko.wikipedia.org/wiki/6502 "wikilink") 8비트 CPU를 사용하였다. 한편 [Z-80 CPU 카드를](https://ko.wikipedia.org/wiki/Z-80_소프트카드 "wikilink") 추가하면 [Z-80](https://ko.wikipedia.org/wiki/Z-80 "wikilink") CPU 용으로 개발된 운영체제인 [CP/M](https://ko.wikipedia.org/wiki/CP/M "wikilink") 및 관련 응용프로그램 등을 사용할 수 있었다.
+  - [CPU로](../Page/중앙_처리_장치.md "wikilink") 모스 테크놀로지(Mos Technology)의 [6502](https://ko.wikipedia.org/wiki/6502 "wikilink") 8비트 CPU를 사용하였다. 한편 [Z-80 CPU 카드를](../Page/Z-80_소프트카드.md "wikilink") 추가하면 [Z-80](https://ko.wikipedia.org/wiki/Z-80 "wikilink") CPU 용으로 개발된 운영체제인 [CP/M](https://ko.wikipedia.org/wiki/CP/M "wikilink") 및 관련 응용프로그램 등을 사용할 수 있었다.
   - 기본 [메모리](https://ko.wikipedia.org/wiki/메모리 "wikilink") RAM 48 킬로바이트 (이후 64 킬로바이트로 확장), 롬 12KB
   - [확장 슬롯](https://ko.wikipedia.org/wiki/확장_슬롯 "wikilink") 8개
   - 40컬럼의 텍스트 모드, 저해상도(40x48) 그래픽 모드, 고해상도 그래픽 모드(280X192)
@@ -72,7 +72,7 @@
 
   - **애플 도스**(Apple DOS): 애플 탄생과 함께 이어져온 [도스](../Page/도스.md "wikilink")로 버전 3.3까지 나왔다. 버전 3 이후로는 16[섹터](https://ko.wikipedia.org/wiki/섹터 "wikilink")로 디스크를 나눈다.
   - **프로 도스**(Pro-DOS): 80년대 중후반에 애플 사에서 새로 개발한 도스.
-  - **[CP/M](https://ko.wikipedia.org/wiki/CP/M "wikilink")**: [Z-80 CPU에서](https://ko.wikipedia.org/wiki/Z-80 "wikilink") 돌아가는 범용 [운영 체제](../Page/운영_체제.md "wikilink"). 따라서 Z-80이 탑재된 [CP/M 카드가](https://ko.wikipedia.org/wiki/Z-80_소프트카드 "wikilink") 필요하다.
+  - **[CP/M](https://ko.wikipedia.org/wiki/CP/M "wikilink")**: [Z-80 CPU에서](https://ko.wikipedia.org/wiki/Z-80 "wikilink") 돌아가는 범용 [운영 체제](../Page/운영_체제.md "wikilink"). 따라서 Z-80이 탑재된 [CP/M 카드가](../Page/Z-80_소프트카드.md "wikilink") 필요하다.
 
 그 밖에 애플 도스(Apple DOS)를 개량한 각종 도스가 있다. DAVID-DOS.
 
@@ -126,7 +126,7 @@
   - [조이스틱](../Page/조이스틱.md "wikilink"): 조이스틱 단자에 꽂는다.
   - 코알라 패드
   - [패들](https://ko.wikipedia.org/wiki/패들 "wikilink"): 소위 벽돌깨기를 하는 회전 제어 장치
-  - [CP/M 카드](https://ko.wikipedia.org/wiki/Z-80_소프트카드 "wikilink"): Z-80 [중앙 처리 장치에서](../Page/중앙_처리_장치.md "wikilink") 가동하는 운영 체제인 [CP/M](https://ko.wikipedia.org/wiki/CP/M "wikilink")을 사용할 수 있도록 해 주는 카드.
+  - [CP/M 카드](../Page/Z-80_소프트카드.md "wikilink"): Z-80 [중앙 처리 장치에서](../Page/중앙_처리_장치.md "wikilink") 가동하는 운영 체제인 [CP/M](https://ko.wikipedia.org/wiki/CP/M "wikilink")을 사용할 수 있도록 해 주는 카드.
   - 플로피 디스크 콘트롤러와 드라이브: [5.25인치](https://ko.wikipedia.org/wiki/5.25인치 "wikilink") 단면만 사용할 수 있다. 주로 6번이나 7번 슬롯에 꽂는다.
   - 확장 [메모리](https://ko.wikipedia.org/wiki/메모리 "wikilink") 카드 16K를 더 확장할 수 있다.
   - 80컬럼 카드: 화면에서 한 줄에 80자를 표시해 준다. 주로 3번 슬롯에 꽂는다.

@@ -108,69 +108,54 @@
 
 유무선 통신 전문 공기업에서 출발한 KT는 민영화 이후 [2015년](../Page/2015년.md "wikilink") 그룹 매출 40조원 달성을 목표로 렌탈, 부동산, 경비, 교육, 신용카드 등 다양한 비통신 시장으로 진입하고 있다. 2015년 9월 30일 기준으로 [BC카드](https://ko.wikipedia.org/wiki/BC카드 "wikilink") 등 41개의 자회사\[23\] 를 운영 중이다.
 
-<table style="width:40%;">
-<colgroup>
-<col style="width: 20%" />
-<col style="width: 20%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td><ul>
-<li>KT[24][25]</li>
-<li>KT service</li>
-<li><a href="../Page/KT파워텔.md" title="wikilink">KT 파워텔</a>[26]</li>
-<li>KT 이엔지코어</li>
-<li>KT 링커스[27]</li>
-<li><a href="https://ko.wikipedia.org/wiki/KTH" title="wikilink">KTH</a></li>
-<li>KT 서브마린[28]</li>
-<li>KT 커머스[29]</li>
-<li>KT 엠하우스[30]</li>
-<li>KT 텔레캅[31]</li>
-<li>KT 엠앤에스</li>
-<li>나스미디어[32]</li>
-<li><a href="../Page/지니뮤직.md" title="wikilink">지니뮤직</a>[33]</li>
-<li>KT 디에스[34]</li>
-<li>KT 씨에스[35]</li>
-<li>KTIS[36]</li>
-<li><a href="../Page/KT스카이라이프.md" title="wikilink">KT스카이라이프</a>[37]
-<ul>
-<li>(주)스카이라이프티브이[38]</li>
-</ul></li>
-<li><a href="https://ko.wikipedia.org/wiki/애니맥스_(대한민국)" title="wikilink">애니맥스브로드캐스팅코리아(유)</a></li>
-<li>KT 에스테이트[39]</li>
-<li>KT 와이브로 인프라</li>
-</ul></td>
-<td><ul>
-<li>KT 넥스알[40]</li>
-<li>스마트채널</li>
-<li><a href="../Page/비씨카드.md" title="wikilink">비씨카드</a></li>
-<li>주식회사 HNC 네트워크[41]</li>
-<li>VP 주식회사[42]</li>
-<li>이니텍 주식회사[43]</li>
-<li>주식회사 스마트로[44]</li>
-<li>KT AMC</li>
-<li>주식회사 센티오스[45]</li>
-<li>KT SB 데이터서비스 주식회사</li>
-<li>유스트림 코리아 주식회사[46]</li>
-<li>주식회사 KT 이노에듀[47]</li>
-<li>주식회사 후후앤컴퍼니</li>
-<li>KT sat</li>
-<li>케이디리빙</li>
-<li><a href="https://ko.wikipedia.org/wiki/KT스포츠" title="wikilink">KT스포츠</a>[48]
-<ul>
-<li><a href="https://ko.wikipedia.org/wiki/부산_KT_소닉붐" title="wikilink">부산 KT 소닉붐</a> 농구단</li>
-<li><a href="../Page/KT_롤스터.md" title="wikilink">KT 롤스터</a> 게임단</li>
-<li>KT 사격단</li>
-<li>KT 하키단</li>
-<li>KT 골프단</li>
-<li><a href="https://ko.wikipedia.org/wiki/kt_위즈" title="wikilink">kt 위즈</a></li>
-</ul></li>
-<li>오토피온</li>
-<li>KT 엠모바일</li>
-</ul></td>
-</tr>
-</tbody>
-</table>
+  - KT\[24\]\[25\]
+  - KT service
+  - [KT파워텔](../Page/KT파워텔.md "wikilink")\[26\]
+  - KT 이엔지코어
+  - KT 링커스\[27\]
+  - [KTH](https://ko.wikipedia.org/wiki/KTH "wikilink")
+  - KT 서브마린\[28\]
+  - KT 커머스\[29\]
+  - KT 엠하우스\[30\]
+  - KT 텔레캅\[31\]
+  - KT 엠앤에스
+  - 나스미디어\[32\]
+  - [지니뮤직](../Page/지니뮤직.md "wikilink")\[33\]
+  - KT 디에스\[34\]
+  - KT 씨에스\[35\]
+  - KTIS\[36\]
+  - [KT스카이라이프](../Page/KT스카이라이프.md "wikilink")\[37\]
+      - (주)스카이라이프티브이\[38\]
+  - [애니맥스브로드캐스팅코리아(유)](https://ko.wikipedia.org/wiki/애니맥스_\(대한민국\) "wikilink")
+  - KT 에스테이트\[39\]
+  - KT 와이브로 인프라
+
+| style="vertical-align: top;" width="20%"|
+
+  - KT 넥스알\[40\]
+  - 스마트채널
+  - [비씨카드](../Page/비씨카드.md "wikilink")
+  - 주식회사 HNC 네트워크\[41\]
+  - VP 주식회사\[42\]
+  - 이니텍 주식회사\[43\]
+  - 주식회사 스마트로\[44\]
+  - KT AMC
+  - 주식회사 센티오스\[45\]
+  - KT SB 데이터서비스 주식회사
+  - 유스트림 코리아 주식회사\[46\]
+  - 주식회사 KT 이노에듀\[47\]
+  - 주식회사 후후앤컴퍼니
+  - KT sat
+  - 케이디리빙
+  - [KT스포츠](https://ko.wikipedia.org/wiki/KT스포츠 "wikilink")\[48\]
+      - [부산 KT 소닉붐](https://ko.wikipedia.org/wiki/부산_KT_소닉붐 "wikilink") 농구단
+      - [KT 롤스터](../Page/KT_롤스터.md "wikilink") 게임단
+      - KT 사격단
+      - KT 하키단
+      - KT 골프단
+      - [kt 위즈](https://ko.wikipedia.org/wiki/kt_위즈 "wikilink")
+  - 오토피온
+  - KT 엠모바일
 
 ## 논란
 

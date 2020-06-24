@@ -174,7 +174,7 @@ NTSC 텔레비전의 한 채널은 총 6 MHz 의 [대역폭](https://ko.wikipedi
 <tbody>
 <tr class="odd">
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/DVB-T" title="wikilink">DVB-T</a></p></td>
+<td><p><a href="../Page/DVB-T.md" title="wikilink">DVB-T</a></p></td>
 <td><p><span style="display:none">2016-03-01</span>2016년 3월</p></td>
 </tr>
 <tr class="even">
@@ -199,7 +199,7 @@ NTSC 텔레비전의 한 채널은 총 6 MHz 의 [대역폭](https://ko.wikipedi
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/DVB-T" title="wikilink">DVB-T</a></p></td>
+<td><p><a href="../Page/DVB-T.md" title="wikilink">DVB-T</a></p></td>
 <td><p><span style="display:none">2012-06-30</span>2012년 6월 30일</p></td>
 </tr>
 <tr class="odd">
@@ -218,7 +218,7 @@ NTSC 텔레비전의 한 채널은 총 6 MHz 의 [대역폭](https://ko.wikipedi
 
 ## 각주
 
-[분류:텔레비전 기술](https://ko.wikipedia.org/wiki/분류:텔레비전_기술 "wikilink")
+[분류:텔레비전 기술](https://ko.wikipedia.org/wiki/분류:텔레비전_기술 "wikilink") [분류:ITU-R 권고](https://ko.wikipedia.org/wiki/분류:ITU-R_권고 "wikilink")
 
 1.  National Television System Committee (1951–1953), \[Report and Reports of Panel No. 11, 11-A, 12-19, with Some supplementary references cited in the Reports, and the Petition for adoption of transmission standards for color television before the Federal Communications Commission, n.p., 1953\], 17 v. illus., diagrs., tables. 28 cm. LC Control No.:54021386 [Library of Congress Online Catalog](http://catalog.loc.gov/cgi-bin/Pwebrecon.cgi?DB=local&PAGE=First)
 2.

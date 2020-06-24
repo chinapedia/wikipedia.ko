@@ -37,7 +37,7 @@ POSIX의 마지막 글자 [X](https://ko.wikipedia.org/wiki/X "wikilink")는 유
 
   - [IEEE POSIX® Certification Authority](http://standards.ieee.org/regauth/posix/)
 
-[POSIX](https://ko.wikipedia.org/wiki/분류:POSIX "wikilink") [분류:ISO 표준](https://ko.wikipedia.org/wiki/분류:ISO_표준 "wikilink") [분류:IEC 표준](https://ko.wikipedia.org/wiki/분류:IEC_표준 "wikilink") [분류:IEEE 표준](https://ko.wikipedia.org/wiki/분류:IEEE_표준 "wikilink") [분류:API](https://ko.wikipedia.org/wiki/분류:API "wikilink")
+[POSIX](https://ko.wikipedia.org/wiki/분류:POSIX "wikilink") [분류:ISO 표준](https://ko.wikipedia.org/wiki/분류:ISO_표준 "wikilink") [분류:IEC 표준](https://ko.wikipedia.org/wiki/분류:IEC_표준 "wikilink") [분류:IEEE 표준](https://ko.wikipedia.org/wiki/분류:IEEE_표준 "wikilink") [분류:API](https://ko.wikipedia.org/wiki/분류:API "wikilink") [분류:오픈 그룹 표준](https://ko.wikipedia.org/wiki/분류:오픈_그룹_표준 "wikilink")
 
 1.
 2.  <http://technet.microsoft.com/en-us/library/cc779522%28WS.10%29.aspx>

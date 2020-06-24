@@ -7,7 +7,7 @@
 
 ## 개략
 
-[1994년](../Page/1994년.md "wikilink") [포크](https://ko.wikipedia.org/wiki/포크 "wikilink") [밴드인](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink") EXIT LINE을 결성하여, [1996년](../Page/1996년.md "wikilink")에 Something ELse로 개칭했다. (ELse의 EL은 **E**XIT **L**INE을 의미한다.) [지바현](../Page/지바현.md "wikilink") [가시와 시에서](https://ko.wikipedia.org/wiki/가시와_시 "wikilink") 3년간 노상 연주를 한 뒤, 1996년 [10월 23일](../Page/10월_23일.md "wikilink") 싱글 "悲しきノンフィクション"(슬픈 논픽션)으로 데뷰했지만, 처음에는 그다지 이름이 알려지지 않았다.
+[1994년](../Page/1994년.md "wikilink") [포크](https://ko.wikipedia.org/wiki/포크 "wikilink") [밴드인](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink") EXIT LINE을 결성하여, [1996년](../Page/1996년.md "wikilink")에 Something ELse로 개칭했다. (ELse의 EL은 **E**XIT **L**INE을 의미한다.) [지바현](../Page/지바현.md "wikilink") [가시와시](../Page/가시와시.md "wikilink")에서 3년간 노상 연주를 한 뒤, 1996년 [10월 23일](../Page/10월_23일.md "wikilink") 싱글 "悲しきノンフィクション"(슬픈 논픽션)으로 데뷰했지만, 처음에는 그다지 이름이 알려지지 않았다.
 
 [1998년](../Page/1998년.md "wikilink") TV 프로그램인 "雷波少年"(뢰파 소년)으로부터 "세 명이서 한 방에 틀어 박혀서 노래를 만들고, 그 노래가 [오리콘](../Page/오리콘.md "wikilink") 20위 이내를 기록하지 않으면 가수 생활을 그쳐라\!"라는 명령을 받았다. 그래서 이 때에 만든 "ラストチャンス"(라스트 찬스)가 발매초 차트 2위(다음 주는 1위)를 기록하고 100만 장이 넘는 판매량을 기록했다. 그 뒤에도 "あいのうた"(사랑 노래), "ウソツキ"(거짓말쟁이) 등 히트 송을 발표했다.
 
@@ -60,7 +60,7 @@
 ## 관련 항목
 
   - [알피](https://ko.wikipedia.org/wiki/알피 "wikilink") - 친한 친구인 사카자키가 소속되어 있는 밴드
-  - [지바현](../Page/지바현.md "wikilink") [가시와 시](https://ko.wikipedia.org/wiki/가시와_시 "wikilink")
+  - [지바현](../Page/지바현.md "wikilink") [가시와시](../Page/가시와시.md "wikilink")
 
 ## 외부 링크
 

@@ -92,4 +92,4 @@ An-2기는 모두 17회의 설계변경 및 시험비행 등으로 여러 기능
 
 ## 외부 링크
 
-[분류:소련 및 러시아의 군용기](https://ko.wikipedia.org/wiki/분류:소련_및_러시아의_군용기 "wikilink") [분류:수송기](https://ko.wikipedia.org/wiki/분류:수송기 "wikilink") [분류:안토노프 항공기](https://ko.wikipedia.org/wiki/분류:안토노프_항공기 "wikilink") [분류:스미스소니언 협회 소장품](https://ko.wikipedia.org/wiki/분류:스미스소니언_협회_소장품 "wikilink") [분류:1947년 첫 비행한 항공기](https://ko.wikipedia.org/wiki/분류:1947년_첫_비행한_항공기 "wikilink")
+[분류:소련 및 러시아의 군용기](https://ko.wikipedia.org/wiki/분류:소련_및_러시아의_군용기 "wikilink") [분류:수송기](https://ko.wikipedia.org/wiki/분류:수송기 "wikilink") [분류:안토노프 항공기](https://ko.wikipedia.org/wiki/분류:안토노프_항공기 "wikilink") [분류:스미스소니언 협회 소장품](https://ko.wikipedia.org/wiki/분류:스미스소니언_협회_소장품 "wikilink") [분류:1947년 첫 비행한 항공기](https://ko.wikipedia.org/wiki/분류:1947년_첫_비행한_항공기 "wikilink") [분류:쌍엽기](https://ko.wikipedia.org/wiki/분류:쌍엽기 "wikilink")

@@ -806,9 +806,6 @@
           - Passa {파사} \<채보훈, 김승엽, 박현재, 김성찬, 이소원 등. ([계명대학교](../Page/계명대학교.md "wikilink"))\> - 너를 처음 본 순간 난 반했어\!
       - 금상
           - 최민지 ([서울대학교](https://ko.wikipedia.org/wiki/서울대학교 "wikilink")) - 아리랑 그녀의 노래
-
-<!-- end list -->
-
   - 2019년 (제 37 회)
       - 네티즌 인기상
           -
@@ -855,7 +852,7 @@
   - 2009년 : [알렉스](../Page/알렉스_\(가수\).md "wikilink"), [이효리](../Page/이효리.md "wikilink")
   - 2010년 : [배철수](../Page/배철수.md "wikilink"), [이효리](../Page/이효리.md "wikilink")
   - 2011년 : [정재형](https://ko.wikipedia.org/wiki/정재형 "wikilink"), [이효리](../Page/이효리.md "wikilink")
-  - 2012년 : [이적](../Page/이적_\(가수\).md "wikilink"), [수지](../Page/수지_\(대한민국의_가수\).md "wikilink")
+  - 2012년 : [이적](../Page/이적_\(가수\).md "wikilink"), [수지](../Page/수지_\(1994년\).md "wikilink")
   - 2019년 : [이창민](../Page/이창민_\(가수\).md "wikilink"), [예은](https://ko.wikipedia.org/wiki/예은 "wikilink")
 
 ## 평가 및 논란
