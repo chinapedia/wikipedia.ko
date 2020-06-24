@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [시리즈 M 에피소드 목록](https://ko.wikipedia.org/wiki/시리즈_M_에피소드_목록).
 
 
-아래는 [MBC](https://ko.wikipedia.org/wiki/MBC "wikilink")의 PD 저널리스트 프로그램인 《**[시리즈 M](../Page/시리즈_M.md "wikilink")**》의 **에피소드 목록**이다.
+아래는 [MBC](https://ko.wikipedia.org/wiki/MBC "wikilink")의 다큐멘터리 프로그램인 《**[시리즈 M](../Page/시리즈_M.md "wikilink")**》의 **에피소드 목록**이다.
 
 ## 방영 리스트
 
@@ -5503,44 +5503,98 @@
 <tr class="odd">
 <td><p>1</p></td>
 <td><p><a href="../Page/2월_13일.md" title="wikilink">2월 13일</a></p></td>
-<td><p>별의 별 인간 연구소 1부</p></td>
+<td><p>별의별 인간 연구소 1부</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2</p></td>
 <td><p><a href="../Page/2월_20일.md" title="wikilink">2월 20일</a></p></td>
-<td><p>별의 별 인간 연구소 2부</p></td>
+<td><p>별의별 인간 연구소 2부</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>3</p></td>
 <td><p><a href="../Page/2월_27일.md" title="wikilink">2월 27일</a></p></td>
-<td><p>별의 별 인간 연구소 3부</p></td>
+<td><p>별의별 인간 연구소 3부</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>4</p></td>
 <td><p><a href="../Page/3월_5일.md" title="wikilink">3월 5일</a></p></td>
-<td><p>별의 별 인간 연구소 4부</p></td>
+<td><p>별의별 인간 연구소 4부</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>5</p></td>
 <td><p><a href="../Page/3월_19일.md" title="wikilink">3월 19일</a></p></td>
-<td><p>마스크 난</p></td>
+<td><p>마스크 난(亂)</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>6</p></td>
 <td><p><a href="../Page/3월_26일.md" title="wikilink">3월 26일</a></p></td>
 <td><p>더 디제이 1부 (<a href="../Page/배철수.md" title="wikilink">배철수</a>)</p></td>
-<td></td>
+<td><p>배철수의 음악캠프 30주년 특집</p></td>
 </tr>
 <tr class="odd">
 <td><p>7</p></td>
 <td><p><a href="../Page/4월_2일.md" title="wikilink">4월 2일</a></p></td>
 <td><p>더 디제이 2부 (<a href="../Page/배철수.md" title="wikilink">배철수</a>)</p></td>
-<td><p>(예정)</p></td>
+<td><p>배철수의 음악캠프 30주년 특집</p></td>
+</tr>
+<tr class="even">
+<td><p>8</p></td>
+<td><p><a href="../Page/4월_9일.md" title="wikilink">4월 9일</a></p></td>
+<td><p>박신혜의 휴머니멀 (<a href="../Page/박신혜.md" title="wikilink">박신혜</a>)</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>9</p></td>
+<td><p><a href="../Page/4월_16일.md" title="wikilink">4월 16일</a></p></td>
+<td><p>4·15 총선 - 격전의 2주</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>10</p></td>
+<td><p><a href="../Page/4월_23일.md" title="wikilink">4월 23일</a></p></td>
+<td><p>다큐먼트 20대 국회 - 불능 국회</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>11</p></td>
+<td><p><a href="../Page/4월_30일.md" title="wikilink">4월 30일</a></p></td>
+<td><p>개人(인)생활 1,2부</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>12</p></td>
+<td><p><a href="../Page/5월_7일.md" title="wikilink">5월 7일</a></p></td>
+<td><p>개人(인)생활 3,4부</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>13</p></td>
+<td><p><a href="../Page/5월_14일.md" title="wikilink">5월 14일</a></p></td>
+<td><p>나는 기억한다</p></td>
+<td><p>5.18 민주화운동 40주년 특집</p></td>
+</tr>
+<tr class="even">
+<td><p>14</p></td>
+<td><p><a href="../Page/5월_21일.md" title="wikilink">5월 21일</a></p></td>
+<td><p>PANDEMIC 세계적 유행 - 죽음 앞의 인간</p></td>
+<td><p>MBC BBC 공동제작</p></td>
+</tr>
+<tr class="odd">
+<td><p>15</p></td>
+<td><p><a href="../Page/5월_28일.md" title="wikilink">5월 28일</a></p></td>
+<td><p>PANDEMIC 세계적 유행 - 끝나지 않은 전쟁</p></td>
+<td><p>MBC BBC 공동제작</p></td>
+</tr>
+<tr class="even">
+<td><p>16</p></td>
+<td><p><a href="../Page/6월_4일.md" title="wikilink">6월 4일</a></p></td>
+<td><p>국회 - 떠난 자, 남는 자, 오는 자</p></td>
+<td></td>
 </tr>
 </tbody>
 </table>

@@ -627,4 +627,4 @@
 
   - [파스포☆ 공식 Youtube 채널](https://www.youtube.com/channel/UCNbJVAp9ZmAqAi3pE8_pmKw/)
 
-[파스포☆](https://ko.wikipedia.org/wiki/분류:파스포☆ "wikilink") [분류:일본의 음악 그룹](https://ko.wikipedia.org/wiki/분류:일본의_음악_그룹 "wikilink") [분류:일본의 걸 그룹](https://ko.wikipedia.org/wiki/분류:일본의_걸_그룹 "wikilink") [분류:2009년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2009년_결성된_음악_그룹 "wikilink") [분류:2011년 데뷔](https://ko.wikipedia.org/wiki/분류:2011년_데뷔 "wikilink") [분류:7인조 음악 그룹](https://ko.wikipedia.org/wiki/분류:7인조_음악_그룹 "wikilink") [분류:유니버설 뮤직 (일본) 소속](https://ko.wikipedia.org/wiki/분류:유니버설_뮤직_\(일본\)_소속 "wikilink")
+[파스포☆](https://ko.wikipedia.org/wiki/분류:파스포☆ "wikilink") [분류:일본의 음악 그룹](https://ko.wikipedia.org/wiki/분류:일본의_음악_그룹 "wikilink") [분류:일본의 걸 그룹](https://ko.wikipedia.org/wiki/분류:일본의_걸_그룹 "wikilink") [분류:2009년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2009년_결성된_음악_그룹 "wikilink") [분류:7인조 음악 그룹](https://ko.wikipedia.org/wiki/분류:7인조_음악_그룹 "wikilink") [분류:유니버설 뮤직 (일본) 소속](https://ko.wikipedia.org/wiki/분류:유니버설_뮤직_\(일본\)_소속 "wikilink")

@@ -15,6 +15,6 @@
 
 <references/>
 
-[분류:2NE1](https://ko.wikipedia.org/wiki/분류:2NE1 "wikilink") [분류:빅뱅 (음악 그룹)](https://ko.wikipedia.org/wiki/분류:빅뱅_\(음악_그룹\) "wikilink") [분류:대한민국의 리얼리티 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:대한민국의_리얼리티_텔레비전_프로그램 "wikilink") [분류:엠넷에서 방영하는 프로그램](https://ko.wikipedia.org/wiki/분류:엠넷에서_방영하는_프로그램 "wikilink")
+[분류:2NE1](https://ko.wikipedia.org/wiki/분류:2NE1 "wikilink") [분류:빅뱅](https://ko.wikipedia.org/wiki/분류:빅뱅 "wikilink") [분류:대한민국의 리얼리티 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:대한민국의_리얼리티_텔레비전_프로그램 "wikilink") [분류:엠넷의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:엠넷의_텔레비전_프로그램 "wikilink")
 
 1.

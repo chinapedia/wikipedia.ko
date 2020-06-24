@@ -37,7 +37,7 @@
 
 ## 오디오 (V-Radio) 채널
 
-  - U-KBS MUSIC
+  - [U-KBS MUSIC](https://ko.wikipedia.org/wiki/U-KBS_MUSIC "wikilink")
 
 <!-- end list -->
 
@@ -45,7 +45,7 @@
 
 <!-- end list -->
 
-  - [누군가 어딘가에](https://ko.wikipedia.org/wiki/누군가_어딘가에 "wikilink")
+  - [누군가 어딘가에](../Page/누군가_어딘가에.md "wikilink")
   - [다이나믹 뮤직박스](https://ko.wikipedia.org/wiki/다이나믹_뮤직박스 "wikilink") (종영)
   - [재주소년 유상봉의 밤소풍](https://ko.wikipedia.org/wiki/밤소풍 "wikilink") (종영)
   - [요조의 히든트랙](https://ko.wikipedia.org/wiki/히든_트랙 "wikilink") (종영)

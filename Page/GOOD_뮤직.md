@@ -56,4 +56,4 @@
   - Symbolyc One
   - Travi$ Scott
 
-[분류:미국의 음반사](https://ko.wikipedia.org/wiki/분류:미국의_음반사 "wikilink") [분류:힙합 레코드 레이블](https://ko.wikipedia.org/wiki/분류:힙합_레코드_레이블 "wikilink") [분류:카니예 웨스트](https://ko.wikipedia.org/wiki/분류:카니예_웨스트 "wikilink") [분류:2004년 설립된 출판사](https://ko.wikipedia.org/wiki/분류:2004년_설립된_출판사 "wikilink") [분류:뉴욕의 기업](https://ko.wikipedia.org/wiki/분류:뉴욕의_기업 "wikilink")
+[분류:미국의 음반사](https://ko.wikipedia.org/wiki/분류:미국의_음반사 "wikilink") [분류:힙합 레코드 레이블](https://ko.wikipedia.org/wiki/분류:힙합_레코드_레이블 "wikilink") [분류:카녜이 웨스트](https://ko.wikipedia.org/wiki/분류:카녜이_웨스트 "wikilink") [분류:2004년 설립된 출판사](https://ko.wikipedia.org/wiki/분류:2004년_설립된_출판사 "wikilink") [분류:뉴욕의 기업](https://ko.wikipedia.org/wiki/분류:뉴욕의_기업 "wikilink")

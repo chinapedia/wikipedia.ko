@@ -38,7 +38,7 @@
 <!-- end list -->
 
 1.  Heartbreaker (feat. [JW](https://ko.wikipedia.org/wiki/김종완_\(1980년\) "wikilink") of [NELL](https://ko.wikipedia.org/wiki/넬_\(음악_그룹\) "wikilink"))
-2.  기름과 물처럼 우린 섞일 수 없는 운명 (Supertouch Remix, feat. [박화요비](https://ko.wikipedia.org/wiki/박화요비 "wikilink"))
+2.  기름과 물처럼 우린 섞일 수 없는 운명 (Supertouch Remix, feat. [박화요비](../Page/박화요비.md "wikilink"))
 3.  난 미쳤다 (feat. 박정은 , Dave Lopez of Flipsyde, Psypodias Remix)
 4.  복잡해 (Clean Version)
 5.  난 미쳤다 (feat. 박정은 , Dave Lopez of Flipsyde, Accoustic Version)

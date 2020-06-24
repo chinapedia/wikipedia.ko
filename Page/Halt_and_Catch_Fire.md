@@ -9,7 +9,7 @@
 
 ## HCF의 발견
 
-[모토로라 6800에서](https://ko.wikipedia.org/wiki/모토로라_6800 "wikilink") HCF 오프코드(opcode)를 최초로 발견한 것으로 널리 알려져 있다. 6800 HCF 오프코드(0xDD 또는 0xD9)는 게리 윌러(Gerry Wheeler 1952–2006)가 발견해 1977년 12월 [바이트 매거진](https://ko.wikipedia.org/wiki/바이트_매거진 "wikilink")(BYTE magazine)에 비공개 오프코드로 기사화되었다.\[1\] 이 명령어는 프로세서가 제조시의 테스트 모드로 전환되어 명령어의 개입없이 끊임없이 메모리 주소를 바꾸어가며 메모리 읽기를 실행한다. 이것은 어드레스 버스를 [타이머](../Page/타이머.md "wikilink")로 작동하게 해서 [CPU의](../Page/중앙_처리_장치.md "wikilink") 모든 어드레스 라인을 재빨리 검사한다. 프로세서가 한번 테스트 모드로 전환되면 [인터럽트](../Page/인터럽트.md "wikilink")에 응답하지 않기 때문에 일반 작업을 실행하려면 리셋을 해야 한다.
+[모토로라 6800에서](../Page/모토로라_6800.md "wikilink") HCF 오프코드(opcode)를 최초로 발견한 것으로 널리 알려져 있다. 6800 HCF 오프코드(0xDD 또는 0xD9)는 게리 윌러(Gerry Wheeler 1952–2006)가 발견해 1977년 12월 [바이트 매거진](https://ko.wikipedia.org/wiki/바이트_매거진 "wikilink")(BYTE magazine)에 비공개 오프코드로 기사화되었다.\[1\] 이 명령어는 프로세서가 제조시의 테스트 모드로 전환되어 명령어의 개입없이 끊임없이 메모리 주소를 바꾸어가며 메모리 읽기를 실행한다. 이것은 어드레스 버스를 [타이머](../Page/타이머.md "wikilink")로 작동하게 해서 [CPU의](../Page/중앙_처리_장치.md "wikilink") 모든 어드레스 라인을 재빨리 검사한다. 프로세서가 한번 테스트 모드로 전환되면 [인터럽트](../Page/인터럽트.md "wikilink")에 응답하지 않기 때문에 일반 작업을 실행하려면 리셋을 해야 한다.
 
 ## HCF 오프코드가 확인된 프로세서
 
@@ -17,7 +17,7 @@
 
 `Apple Assembly Line Volume 1 Issue 6`</ref>
 
-  - [6800](https://ko.wikipedia.org/wiki/모토로라_6800 "wikilink")\[2\]
+  - [6800](../Page/모토로라_6800.md "wikilink")\[2\]
   - [MIPS-X](../Page/MIPS-X.md "wikilink"): 프로그래머 매뉴얼에 NSA 버전 프로세서의 HSC (Halt and Spontaneously Combust) 명령어를 표기\[3\]
 
 ## 참조

@@ -1,9 +1,11 @@
 > This article is converted from Wikipedia: [SBS 주말극장](https://ko.wikipedia.org/wiki/SBS_주말극장).
 
 
-**SBS 주말극장**은 [SBS](../Page/SBS.md "wikilink")에서 [주말](https://ko.wikipedia.org/wiki/주말 "wikilink") 밤 8시 45분에 방영된 [텔레비전 드라마이다](../Page/텔레비전_드라마.md "wikilink").
+**SBS 주말 극장**은 [SBS](../Page/SBS.md "wikilink")에서 매주 [토요일](../Page/토요일.md "wikilink")부터 [일요일](../Page/일요일.md "wikilink") 오후 8시 45분에 방송 되었던 [TV 드라마이다](https://ko.wikipedia.org/wiki/TV_드라마 "wikilink").
 
-시청률이 저조하여 제작비 절감을 이유로 [2015년](../Page/2015년.md "wikilink") [3월 15일](../Page/3월_15일.md "wikilink") 《[떴다\! 패밀리](../Page/떴다!_패밀리.md "wikilink")》로 끝으로 폐지되었으며 해당 시간대는 예능 프로그램 편성으로 대체되었다. 이후 [2015년](../Page/2015년.md "wikilink") [3월 21일부터](../Page/3월_21일.md "wikilink") 주말 밤 10시 《[주말 특별기획 드라마](../Page/SBS_주말_특별기획_드라마.md "wikilink")》는 통합되었으며, 9시대 《[SBS 주말드라마](../Page/SBS_주말드라마.md "wikilink")》는 [2016년](../Page/2016년.md "wikilink") [2월 13일부터](../Page/2월_13일.md "wikilink") 방영된 《[그래, 그런거야](../Page/그래,_그런거야.md "wikilink")》로 한시적으로 부활하였다.
+시청률이 저조하여 제작비 절감을 이유로 《[떴다\! 패밀리](../Page/떴다!_패밀리.md "wikilink")》를 마지막으로 폐지 되었으며 해당 시간대는 예능 프로그램 편성으로 대체되었다.
+
+이후 [2015년](../Page/2015년.md "wikilink") [3월 21일부터](../Page/3월_21일.md "wikilink") 주말 밤 10시 《[주말 특별 기획 드라마](../Page/SBS_주말_특별기획_드라마.md "wikilink")》는 통합되었으며 9시대 《[SBS 주말드라마](../Page/SBS_주말드라마.md "wikilink")》는 [2016년](../Page/2016년.md "wikilink") [2월 13일부터](../Page/2월_13일.md "wikilink") 방영된 《[그래, 그런거야](../Page/그래,_그런거야.md "wikilink")》로 한시적으로 부활하였다.
 
 ## 방송 시간
 
@@ -65,6 +67,9 @@
 
 ## 작품 리스트
 
+  - 아래의 프로그램들은 [2003년](../Page/2003년.md "wikilink") 이전에 제작 및 방영한 작품들로 부득이하게 일부 장면에서 [흡연](../Page/흡연.md "wikilink") 장면 및 [담배](https://ko.wikipedia.org/wiki/담배 "wikilink") 소품이 노출될 수 있으며, 시청자 여러분들의 양해를 바랍니다.
+  - 아래의 프로그램들은 [2002년](../Page/2002년.md "wikilink") [11월](../Page/11월.md "wikilink") 이후에 [시청 등급 제도를](../Page/대한민국의_텔레비전_등급_제도.md "wikilink") 시행하여, 현재까지 이어지고 있다.
+
 ### 1990년대 전반
 
   - 《[은하수를 아시나요](../Page/은하수를_아시나요.md "wikilink")》 : 1991년 12월 14일 \~ 1992년 4월 26일
@@ -112,7 +117,6 @@
   - 《[연개소문](../Page/연개소문_\(드라마\).md "wikilink")》 : 2006년 7월 8일 \~ 2007년 6월 17일 (**대하사극**으로 방송됨)
   - 《[황금신부](../Page/황금신부.md "wikilink")》 : 2007년 6월 23일 \~ 2008년 2월 3일
   - 《[행복합니다](../Page/행복합니다_\(드라마\).md "wikilink")》 : 2008년 2월 8일 \~ 2008년 8월 31일
-  - 《[유리의 성](../Page/유리의_성_\(드라마\).md "wikilink")》 : 2008년 9월 6일 \~ 2009년 3월 1일
   - 《[사랑은 아무나 하나](../Page/사랑은_아무나_하나_\(2009년_드라마\).md "wikilink")》 : 2009년 3월 7일 \~ 2009년 8월 23일
   - 《[천만번 사랑해](../Page/천만번_사랑해.md "wikilink")》 : 2009년 8월 29일 \~ 2010년 3월 7일
 
@@ -134,7 +138,7 @@
 
 ### 2010년대 후반
 
-  - 《[떴다\! 패밀리](../Page/떴다!_패밀리.md "wikilink")》 : 2015년 1월 3일 \~ 2015년 3월 15일
+  - 《[떴다\! 패밀리](../Page/떴다!_패밀리.md "wikilink")》 : 2015년 1월 3일 \~ 2015년 3월 15일 (해당 작품을 마지막으로 SBS 주말 드라마 폐지)
 
 ## 같이 보기
 

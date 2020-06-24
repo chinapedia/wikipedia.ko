@@ -537,7 +537,7 @@
 등으로 해당자 없음</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/K리그_1990" title="wikilink">1990</a></p></td>
+<td><p><a href="../Page/K리그_1990.md" title="wikilink">1990</a></p></td>
 <td><p>길기철</p></td>
 <td></td>
 <td></td>
@@ -951,7 +951,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/K리그_1990" title="wikilink">1990</a></p></td>
+<td><p><a href="../Page/K리그_1990.md" title="wikilink">1990</a></p></td>
 <td><p><a href="../Page/유대순.md" title="wikilink">유대순</a></p></td>
 <td><p><a href="../Page/제주_유나이티드_FC.md" title="wikilink">유공 코끼리</a></p></td>
 <td></td>
@@ -965,7 +965,7 @@
 </tbody>
 </table>
 
-  - [1990](https://ko.wikipedia.org/wiki/K리그_1990 "wikilink") 시즌을 마지막으로 우수 골키퍼상 폐지.
+  - [1990](../Page/K리그_1990.md "wikilink") 시즌을 마지막으로 우수 골키퍼상 폐지.
 
 ### 수비상
 
@@ -1070,7 +1070,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/K리그_1990" title="wikilink">1990</a></p></td>
+<td><p><a href="../Page/K리그_1990.md" title="wikilink">1990</a></p></td>
 <td><p><a href="../Page/이태호_(축구인).md" title="wikilink">이태호</a></p></td>
 <td><p><a href="../Page/부산_아이파크.md" title="wikilink">대우 로얄즈</a></p></td>
 <td></td>
@@ -1172,7 +1172,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/K리그_1990" title="wikilink">1990</a></p></td>
+<td><p><a href="../Page/K리그_1990.md" title="wikilink">1990</a></p></td>
 <td><p><a href="../Page/최태진.md" title="wikilink">최태진</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/FC_서울" title="wikilink">럭키금성 황소</a></p></td>
 <td></td>

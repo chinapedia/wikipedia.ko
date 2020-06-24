@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [DSP 미디어](https://ko.wikipedia.org/wiki/DSP_미디어).
 
 
-**DSP 미디어**()는 [1991년](../Page/1991년.md "wikilink")에 설립된 [대한민국](../Page/대한민국.md "wikilink")의 종합 [엔터테인먼트](https://ko.wikipedia.org/wiki/엔터테인먼트 "wikilink") 회사이다. 한밭기획 전무이사였던 [이호연](../Page/이호연.md "wikilink")이 [소방차의](https://ko.wikipedia.org/wiki/소방차_\(음악_그룹\) "wikilink") 성공을 바탕으로 독립하여 설립한 회사로서, 음반 기획 및 제작, 연예인 매니지먼트에 이어 이후 스타 마케팅, 레코딩 스튜디오, 음반 유통 등 관련 분야를 확장해나갔다. 2005년부터 [방송](../Page/방송.md "wikilink") 영상 제작까지 영역을 확장하여 종합 엔터테인먼트사로서의 면모를 갖추었다. 연예인 매니지 먼트, 음반제작, 방송 콘텐츠(TV드라마, 예능프로그램)를 제작, 공급함으로써 종합 문화 콘텐츠 회사를 지향한다. 참고로 한밭기획에서 이호연의 부하로 일하고 있던 [김태송](https://ko.wikipedia.org/wiki/김태송 "wikilink") 역시 이호연이 독립할 당시 같이 독립해서 [TS엔터테인먼트](https://ko.wikipedia.org/wiki/TS엔터테인먼트 "wikilink")를 설립했다. DSP 미디어는 현재 [오종혁](../Page/오종혁.md "wikilink"), [허영지](../Page/허영지.md "wikilink"), [에이프릴](../Page/에이프릴_\(음악_그룹\).md "wikilink"), [이현주](https://ko.wikipedia.org/wiki/이현주_\(가수\) "wikilink"), [카드](../Page/카드_\(음악_그룹\).md "wikilink") 등의 연예인이 있다. DSP 미디어의 대표적인 드라마(외주제작)는 《[마이걸](https://ko.wikipedia.org/wiki/마이걸_\(드라마\) "wikilink")》과 《[연개소문](../Page/연개소문_\(드라마\).md "wikilink")》, 《[외과의사 봉달희](https://ko.wikipedia.org/wiki/외과의사_봉달희 "wikilink")》 등이 있으며, 대표적인 예능 프로그램(외주제작)에는 《박수홍 최원정의 여유만만》, 《경제비타민》, 《좋은나라 운동본부》 등이 있다. 90년대 중후반 및 2000년대 초중반 [SM 엔터테인먼트와](../Page/SM_엔터테인먼트.md "wikilink") 라이벌 구도를 형성하며 아이돌 산업의 양대산맥을 이루었다.\[1\] 2010년 3월 [이호연](../Page/이호연.md "wikilink") 사장이 뇌출혈로 쓰러지며 아내인 최미경이 대표이사를 대행하는 체제로 바뀌었는데, 예전만큼의 위상을 보여주지 못하고 있다는 평가이다.\[2\]\[3\] 이호연 사장은 오랜 투병 생활 끝에 [2018년](../Page/2018년.md "wikilink") [2월 14일](../Page/2월_14일.md "wikilink") 항년 64세로 별세하였다.\[4\]
+**DSP 미디어**()는 [1991년](../Page/1991년.md "wikilink")에 설립된 [대한민국](../Page/대한민국.md "wikilink")의 종합 [엔터테인먼트](https://ko.wikipedia.org/wiki/엔터테인먼트 "wikilink") 회사이다. 한밭기획 전무이사였던 [이호연](../Page/이호연.md "wikilink")이 [소방차의](https://ko.wikipedia.org/wiki/소방차_\(음악_그룹\) "wikilink") 성공을 바탕으로 독립하여 설립한 회사로서, 음반 기획 및 제작, 연예인 매니지먼트에 이어 이후 스타 마케팅, 레코딩 스튜디오, 음반 유통 등 관련 분야를 확장해나갔다. 2005년부터 [방송](../Page/방송.md "wikilink") 영상 제작까지 영역을 확장하여 종합 엔터테인먼트사로서의 면모를 갖추었다. 연예인 매니지 먼트, 음반제작, 방송 콘텐츠(TV드라마, 예능프로그램)를 제작, 공급함으로써 종합 문화 콘텐츠 회사를 지향한다. 참고로 한밭기획에서 이호연의 부하로 일하고 있던 [김태송](https://ko.wikipedia.org/wiki/김태송 "wikilink") 역시 이호연이 독립할 당시 같이 독립해서 [TS엔터테인먼트](https://ko.wikipedia.org/wiki/TS엔터테인먼트 "wikilink")를 설립했다. DSP 미디어는 현재 [허영지](../Page/허영지.md "wikilink"), [에이프릴](../Page/에이프릴_\(음악_그룹\).md "wikilink"), [이현주](https://ko.wikipedia.org/wiki/이현주_\(가수\) "wikilink"), [카드](../Page/카드_\(음악_그룹\).md "wikilink"), [손동표](../Page/손동표.md "wikilink") 등의 연예인이 있다. DSP 미디어의 대표적인 드라마(외주제작)는 《[마이걸](https://ko.wikipedia.org/wiki/마이걸_\(드라마\) "wikilink")》과 《[연개소문](../Page/연개소문_\(드라마\).md "wikilink")》, 《[외과의사 봉달희](https://ko.wikipedia.org/wiki/외과의사_봉달희 "wikilink")》 등이 있으며, 대표적인 예능 프로그램(외주제작)에는 《박수홍 최원정의 여유만만》, 《경제비타민》, 《좋은나라 운동본부》 등이 있다. 90년대 중후반 및 2000년대 초중반 [SM 엔터테인먼트와](../Page/SM_엔터테인먼트.md "wikilink") 라이벌 구도를 형성하며 아이돌 산업의 양대산맥을 이루었다.\[1\] 2010년 3월 [이호연](../Page/이호연.md "wikilink") 사장이 뇌출혈로 쓰러지며 아내인 최미경이 대표이사를 대행하는 체제로 바뀌었는데, 예전만큼의 위상을 보여주지 못하고 있다는 평가이다.\[2\]\[3\] 이호연 사장은 오랜 투병 생활 끝에 [2018년](../Page/2018년.md "wikilink") [2월 14일](../Page/2월_14일.md "wikilink") 항년 64세로 별세하였다.\[4\]
 
 ## 연혁
 
@@ -39,7 +39,7 @@
 <tr class="odd">
 <td><p><a href="../Page/에이프릴_(음악_그룹).md" title="wikilink">에이프릴</a></p></td>
 <td><p><a href="../Page/윤채경.md" title="wikilink">윤채경</a>, <a href="https://ko.wikipedia.org/wiki/김채원_(가수)" title="wikilink">김채원</a>, <a href="../Page/이나은_(가수).md" title="wikilink">이나은</a>, <a href="../Page/양예나.md" title="wikilink">양예나</a>, <a href="../Page/레이첼_(가수).md" title="wikilink">레이첼</a>, <a href="../Page/이진솔.md" title="wikilink">이진솔</a></p></td>
-<td><p>(없음)</p></td>
+<td><p>(윤채경)</p></td>
 <td><p>6인조</p></td>
 <td><p><a href="../Page/전소민_(가수).md" title="wikilink">전소민</a>, <a href="https://ko.wikipedia.org/wiki/이현주_(가수)" title="wikilink">이현주</a></p></td>
 </tr>
@@ -54,12 +54,12 @@
 </table>
 <h3 id="솔로">솔로</h3>
 <ul>
-<li><a href="../Page/허영지.md" title="wikilink">허영지</a> (<a href="../Page/카라_(음악_그룹).md" title="wikilink">카라</a> 출신)</li>
-<li><a href="https://ko.wikipedia.org/wiki/손동표" title="wikilink">손동표</a> (<a href="https://ko.wikipedia.org/wiki/엑스원" title="wikilink">엑스원</a> 전 멤버)</li>
+<li><a href="../Page/허영지.md" title="wikilink">허영지</a> (과거 <a href="../Page/카라_(음악_그룹).md" title="wikilink">카라</a> 출신)</li>
+<li><a href="../Page/손동표.md" title="wikilink">손동표</a> (과거 <a href="https://ko.wikipedia.org/wiki/엑스원" title="wikilink">엑스원</a> 출신)</li>
 </ul>
 <h3 id="연기자">연기자</h3>
 <ul>
-<li><a href="https://ko.wikipedia.org/wiki/이현주_(가수)" title="wikilink">이현주</a> (<a href="../Page/에이프릴_(음악_그룹).md" title="wikilink">에이프릴</a>, <a href="../Page/유니티_(음악_그룹).md" title="wikilink">유니티</a> 전 멤버)</li>
+<li><a href="https://ko.wikipedia.org/wiki/이현주_(가수)" title="wikilink">이현주</a> (과거 <a href="../Page/에이프릴_(음악_그룹).md" title="wikilink">에이프릴</a>, <a href="../Page/유니티_(음악_그룹).md" title="wikilink">유니티</a> 출신)</li>
 </ul></td>
 </tr>
 </tbody>
@@ -71,9 +71,8 @@
   - 전찬빈
   - 송재원
   - 박시영
-  - 이환
   - 이준혁
-
+  -
 ## 과거 소속 연예인
 
 <table>
@@ -87,7 +86,7 @@
 <li><a href="https://ko.wikipedia.org/wiki/클릭비" title="wikilink">클릭비</a></li>
 <li><a href="../Page/SS501.md" title="wikilink">SS501</a></li>
 <li><a href="../Page/카라_(음악_그룹).md" title="wikilink">카라</a></li>
-<li><a href="https://ko.wikipedia.org/wiki/레인보우_(음악_그룹)" title="wikilink">레인보우</a></li>
+<li><a href="../Page/레인보우_(대한민국의_음악_그룹).md" title="wikilink">레인보우</a></li>
 <li><a href="https://ko.wikipedia.org/wiki/코코_(대한민국의_음악_그룹)" title="wikilink">CO CO</a></li>
 <li><a href="../Page/뮤_(음악_그룹).md" title="wikilink">MUE</a></li>
 <li><a href="../Page/아이돌_(음악_그룹).md" title="wikilink">IDOL</a></li>
@@ -128,7 +127,7 @@
   - [서지수](../Page/서지수_\(가수\).md "wikilink") (현 8인조 걸그룹 [러블리즈](../Page/러블리즈.md "wikilink") 멤버)
   - [소원](../Page/소원_\(가수\).md "wikilink") (현 6인조 걸그룹 [여자친구](../Page/여자친구_\(음악_그룹\).md "wikilink") 멤버)\[9\]
   - [손담비](../Page/손담비.md "wikilink") (가수, 배우)
-  - [손유지](https://ko.wikipedia.org/wiki/손유지 "wikilink") (전 5인조 걸그룹 [애플비](https://ko.wikipedia.org/wiki/애플비 "wikilink") (Apple.B) 멤버, 현 3인조 걸그룹 [써드아이](https://ko.wikipedia.org/wiki/써드아이 "wikilink") (3YE) 멤버, [베이비 카라](https://ko.wikipedia.org/wiki/베이비_카라 "wikilink") 참가자, [아이돌 리부팅 프로젝트 더 유닛](../Page/아이돌_리부팅_프로젝트_더_유닛.md "wikilink") 참가자)
+  - [손유지](https://ko.wikipedia.org/wiki/손유지 "wikilink") (전 5인조 걸그룹 [애플비](https://ko.wikipedia.org/wiki/애플비 "wikilink") (Apple.B) 멤버, 현 3인조 걸그룹 [써드아이](../Page/써드아이.md "wikilink") (3YE) 멤버, [베이비 카라](https://ko.wikipedia.org/wiki/베이비_카라 "wikilink") 참가자, [아이돌 리부팅 프로젝트 더 유닛](../Page/아이돌_리부팅_프로젝트_더_유닛.md "wikilink") 참가자)
   - 故 안소진 ([베이비 카라](https://ko.wikipedia.org/wiki/베이비_카라 "wikilink") 참가자, [2015년](../Page/2015년.md "wikilink") [2월 24일](../Page/2월_24일.md "wikilink") 사망)
   - [윤지성](../Page/윤지성.md "wikilink") (전 11인조 보이그룹 [워너원](../Page/워너원.md "wikilink") 멤버, [프로듀스 101 2](https://ko.wikipedia.org/wiki/프로듀스_101_2 "wikilink") 참가자: 최종 8위)
   - [이기광](https://ko.wikipedia.org/wiki/이기광 "wikilink") (현 4인조 보이그룹 [하이라이트](../Page/하이라이트_\(음악_그룹\).md "wikilink") 멤버)

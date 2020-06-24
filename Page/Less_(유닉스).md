@@ -5,7 +5,7 @@
 
 ## 역사
 
-`less`는 1983\~85년에 [Mark Nudelman에](https://ko.wikipedia.org/wiki/Mark_Nudelman "wikilink") 의해 more 명령어[`more`](https://ko.wikipedia.org/wiki/more "wikilink")에 텍스트의 뒤로 스크롤하는 것을 가능하게 하기 위해 만들어졌다. less라는 이름은 "뒤로도 more"라는 이유로 재미있게 지어졌다.`less`는 현재 [GNU](../Page/GNU.md "wikilink") 프로젝트의 한 부분으로 대부분의 유닉스 계열 시스템에 사용되고 있다.
+`less`는 1983\~85년에 [Mark Nudelman에](https://ko.wikipedia.org/wiki/Mark_Nudelman "wikilink") 의해 more 명령어[`more`](../Page/More_\(명령어\).md "wikilink")에 텍스트의 뒤로 스크롤하는 것을 가능하게 하기 위해 만들어졌다. less라는 이름은 "뒤로도 more"라는 이유로 재미있게 지어졌다.`less`는 현재 [GNU](../Page/GNU.md "wikilink") 프로젝트의 한 부분으로 대부분의 유닉스 계열 시스템에 사용되고 있다.
 
 ## 사용법
 

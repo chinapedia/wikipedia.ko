@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Cocco](https://ko.wikipedia.org/wiki/Cocco).
 
 
-**코코**(Cocco, , [1977년](../Page/1977년.md "wikilink") [1월 19일](../Page/1월_19일.md "wikilink") \~ )는 일본의 여성 [싱어송라이터](https://ko.wikipedia.org/wiki/싱어송라이터 "wikilink")이다. [오키나와현](../Page/오키나와현.md "wikilink") [나하 시](https://ko.wikipedia.org/wiki/나하_시 "wikilink") 출신이며, [오키나와 현립 카이호고등학교](https://ko.wikipedia.org/wiki/오키나와_현립_카이호고등학교 "wikilink") 운술과미술 출신이고, [스피드스타 레코드](https://ko.wikipedia.org/wiki/스피드스타_레코드 "wikilink") 소속이다.
+**코코**(Cocco, , [1977년](../Page/1977년.md "wikilink") [1월 19일](../Page/1월_19일.md "wikilink") \~ )는 일본의 여성 [싱어송라이터](https://ko.wikipedia.org/wiki/싱어송라이터 "wikilink")이다. [오키나와현](../Page/오키나와현.md "wikilink") [나하시](../Page/나하시.md "wikilink") 출신이며, [오키나와 현립 카이호고등학교](https://ko.wikipedia.org/wiki/오키나와_현립_카이호고등학교 "wikilink") 운술과미술 출신이고, [스피드스타 레코드](https://ko.wikipedia.org/wiki/스피드스타_레코드 "wikilink") 소속이다.
 
 ## 내력
 

@@ -73,5 +73,5 @@
 1.  [上半期ランキング特集《オリコン2009年上半期ランキング大発表！》-ORICON STYLE ミュージック](http://www.oricon.co.jp/music/special/090617_01_03.html)
 2.  [화면 아래에서 제15주 선택](http://www.g-music.com.tw/GMusicBillboard0.aspx)
 3.
-4.  [화면 아래에서 제15주 선택](http://www.g-music.com.tw/GMusicBillboard7.aspx)
+4.
 5.  [Global Album Chart](http://www.mediatraffic.de/albums-week14-2009.htm)

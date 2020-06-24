@@ -5,8 +5,8 @@
 
 ## 현재 호스팅되고 있는 프로젝트들
 
-  - [X.Org 서버](https://ko.wikipedia.org/wiki/X.Org_서버 "wikilink"): 공식 X11 공식 규격 구현물. 현재 버전은 [XFree86](../Page/XFree86.md "wikilink")의 라이선스 변경 직전 버전에서 파생된 버전이다.
-  - [D-Bus](https://ko.wikipedia.org/wiki/D-Bus "wikilink"): KDE의 [DCOP](https://ko.wikipedia.org/wiki/DCOP "wikilink"), GNOME의 [보노보](../Page/보노보.md "wikilink")와 비슷한 역할을 하는 메시지 버스
+  - [X.Org 서버](../Page/X.Org_서버.md "wikilink"): 공식 X11 공식 규격 구현물. 현재 버전은 [XFree86](../Page/XFree86.md "wikilink")의 라이선스 변경 직전 버전에서 파생된 버전이다.
+  - [D-Bus](../Page/D-Bus.md "wikilink"): KDE의 [DCOP](https://ko.wikipedia.org/wiki/DCOP "wikilink"), GNOME의 [보노보](../Page/보노보.md "wikilink")와 비슷한 역할을 하는 메시지 버스
   - [드래그 앤 드롭](https://ko.wikipedia.org/wiki/드래그_앤_드롭 "wikilink"): 사실 X 윈도 시스템에서 드래그 앤 드롭은 지금도 많은 개선이 필요하다.
   - [하드웨어 추상화 계층](https://ko.wikipedia.org/wiki/하드웨어_추상화_계층 "wikilink")(HAL): 일관성 있는 초-운영체제적 계층
   - [fontconfig](https://ko.wikipedia.org/wiki/fontconfig "wikilink"): 글꼴 검색, 글꼴 이름 변경 등 글꼴 관련 작업을 수행하는 [라이브러리](https://ko.wikipedia.org/wiki/라이브러리 "wikilink")

@@ -88,4 +88,4 @@
   - [엠브라에르 EMB 314 슈퍼 투카노](../Page/엠브라에르_EMB_314_슈퍼_투카노.md "wikilink")
   - [쇼트 투카노](../Page/쇼트_투카노.md "wikilink") - 투카노를 라이센스 생산한 것임.
 
-[분류:스위스의 훈련기](https://ko.wikipedia.org/wiki/분류:스위스의_훈련기 "wikilink") [분류:공격기](https://ko.wikipedia.org/wiki/분류:공격기 "wikilink") [분류:1966년 첫 비행한 항공기](https://ko.wikipedia.org/wiki/분류:1966년_첫_비행한_항공기 "wikilink")
+[분류:스위스의 훈련기](https://ko.wikipedia.org/wiki/분류:스위스의_훈련기 "wikilink") [분류:공격기](https://ko.wikipedia.org/wiki/분류:공격기 "wikilink") [분류:1966년 첫 비행한 항공기](https://ko.wikipedia.org/wiki/분류:1966년_첫_비행한_항공기 "wikilink") [분류:저익기](https://ko.wikipedia.org/wiki/분류:저익기 "wikilink")

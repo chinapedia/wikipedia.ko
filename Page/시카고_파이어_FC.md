@@ -126,4 +126,4 @@
 
   - [시카고 파이어 공식 웹사이트](http://www.chicago-fire.com/)
 
-[분류:1997년 설립된 축구단](https://ko.wikipedia.org/wiki/분류:1997년_설립된_축구단 "wikilink") [분류:메이저 리그 사커 구단](https://ko.wikipedia.org/wiki/분류:메이저_리그_사커_구단 "wikilink") [시카고_파이어](https://ko.wikipedia.org/wiki/분류:시카고_파이어 "wikilink")
+[분류:1997년 설립된 축구단](https://ko.wikipedia.org/wiki/분류:1997년_설립된_축구단 "wikilink") [분류:메이저 리그 사커 구단](https://ko.wikipedia.org/wiki/분류:메이저_리그_사커_구단 "wikilink") [시카고_파이어_FC](https://ko.wikipedia.org/wiki/분류:시카고_파이어_FC "wikilink") [분류:일리노이주의 축구단](https://ko.wikipedia.org/wiki/분류:일리노이주의_축구단 "wikilink")

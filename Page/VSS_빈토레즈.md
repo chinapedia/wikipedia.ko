@@ -30,6 +30,7 @@
   - 게임 Roblox의 [Phantom Forces에서도](https://ko.wikipedia.org/wiki/Phantom_Forces "wikilink") 등장한다. 여기에서는 조준경이 탈부착이 된다.
   - 모바일 게임 last day on earth survival 에서도 등장한다. 고정데미지 50에 사거리도 꽤 크기때문에 가장 쓸만한 총이다.
   - FPS사격게임 모던 스트라이크에서도 등장한다 여기에서도 조준경이 탈부착 된다.이 게임 에서는 현질러들만 쓸 수 있는 총이다.타격감은 보통이다.
+  - PC게임 escape from tarkov에서 등장한다 다양한 모딩이 가능해서 AR처럼 쓴다
 
 ## 외부 링크
 

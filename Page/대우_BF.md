@@ -31,6 +31,7 @@
 
 #### 과거에 보유했던 업체
 
+  - [경원여객](../Page/경원여객_\(경기\).md "wikilink")
   - [김포교통](../Page/김포교통.md "wikilink")
   - [신길운수](../Page/신길운수.md "wikilink")
   - [삼영운수](../Page/삼영운수.md "wikilink")

@@ -21,7 +21,7 @@
 
 ## 각주
 
-## 더 보기
+## 같이 보기
 
   - [민사조정](../Page/민사조정.md "wikilink")
   - [WTO 항소기구](https://ko.wikipedia.org/wiki/WTO_항소기구 "wikilink")

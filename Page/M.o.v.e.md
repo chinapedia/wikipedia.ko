@@ -8,7 +8,7 @@
   - [1997년](../Page/1997년.md "wikilink") - [10월 1일에](../Page/10월_1일.md "wikilink") 『[ROCK IT DOWN](https://ko.wikipedia.org/wiki/ROCK_IT_DOWN "wikilink")』으로 데뷔, [avex](https://ko.wikipedia.org/wiki/avex "wikilink")의 레이블인 [avex tune에](https://ko.wikipedia.org/wiki/avex_tune "wikilink") 소속됨.
   - [1998년](../Page/1998년.md "wikilink")
       - [1월 7일에](../Page/1월_7일.md "wikilink") 2번째 싱글 『[around the world](https://ko.wikipedia.org/wiki/around_the_world "wikilink")』가 발매, 이 앨범으로 m.o.v.e는 [이니셜 D의](../Page/이니셜_D.md "wikilink") 주제가를 장기간 맡게 된다.
-      - [타이완](../Page/타이완.md "wikilink")의 [타이베이 시에서](https://ko.wikipedia.org/wiki/타이베이_시 "wikilink") 열린 TAIPEI J-DANCE FESTIVAL을 통해 첫 해외 공연을 가짐.(3만명의 관중 앞에서 공연)
+      - [타이완](../Page/타이완.md "wikilink")의 [타이베이시](../Page/타이베이시.md "wikilink")에서 열린 TAIPEI J-DANCE FESTIVAL을 통해 첫 해외 공연을 가짐.(3만명의 관중 앞에서 공연)
   - [2001년](../Page/2001년.md "wikilink") - [1월 11일에](../Page/1월_11일.md "wikilink") 출시된 싱글 『[Gamble Rumble](../Page/Gamble_Rumble.md "wikilink")』이 [오리콘](../Page/오리콘.md "wikilink") 주간 차트에 처음으로 톱 10 진입
   - [2003년](../Page/2003년.md "wikilink") - 미국 댈러스에서 열린 Anime FESTS\!2003에 출연
   - [2005년](../Page/2005년.md "wikilink")
@@ -203,7 +203,7 @@
 
 \]
 
-[무브](https://ko.wikipedia.org/wiki/분류:일본의_록_밴드 "wikilink") [M.o.v.e](https://ko.wikipedia.org/wiki/분류:M.o.v.e "wikilink") [분류:이니셜 D](https://ko.wikipedia.org/wiki/분류:이니셜_D "wikilink") [분류:1997년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:1997년_결성된_음악_그룹 "wikilink") [분류:2013년 해체된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2013년_해체된_음악_그룹 "wikilink") [분류:2인조 음악 그룹](https://ko.wikipedia.org/wiki/분류:2인조_음악_그룹 "wikilink") [분류:에이벡스 그룹 음악가](https://ko.wikipedia.org/wiki/분류:에이벡스_그룹_음악가 "wikilink")
+[M.o.v.e](https://ko.wikipedia.org/wiki/분류:M.o.v.e "wikilink") [무브](https://ko.wikipedia.org/wiki/분류:일본의_록_밴드 "wikilink") [분류:이니셜 D](https://ko.wikipedia.org/wiki/분류:이니셜_D "wikilink") [분류:1997년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:1997년_결성된_음악_그룹 "wikilink") [분류:2013년 해체된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2013년_해체된_음악_그룹 "wikilink") [분류:2인조 음악 그룹](https://ko.wikipedia.org/wiki/분류:2인조_음악_그룹 "wikilink") [분류:에이벡스 그룹 음악가](https://ko.wikipedia.org/wiki/분류:에이벡스_그룹_음악가 "wikilink")
 
 1.  「LIVE TOUR "DECADANCE PARADE '03"」라이브 DVD가 들어간 CD+DVD판이 초회 한정판으로 나왔다.
 2.  이 앨범에 들어간 곡은 녹음을 다시 해서 재수록 되었다.

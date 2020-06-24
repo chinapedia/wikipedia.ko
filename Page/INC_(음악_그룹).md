@@ -38,7 +38,7 @@
 
 ## 각주
 
-[분류:대한민국의 힙합 그룹](https://ko.wikipedia.org/wiki/분류:대한민국의_힙합_그룹 "wikilink") [분류:2007년 데뷔](https://ko.wikipedia.org/wiki/분류:2007년_데뷔 "wikilink") [분류:2인조 음악 그룹](https://ko.wikipedia.org/wiki/분류:2인조_음악_그룹 "wikilink")
+[분류:대한민국의 힙합 그룹](https://ko.wikipedia.org/wiki/분류:대한민국의_힙합_그룹 "wikilink") [분류:남성 듀오](https://ko.wikipedia.org/wiki/분류:남성_듀오 "wikilink") [분류:힙합 듀오](https://ko.wikipedia.org/wiki/분류:힙합_듀오 "wikilink") [분류:2000년대 음악 그룹](https://ko.wikipedia.org/wiki/분류:2000년대_음악_그룹 "wikilink")
 
 1.  [2008년 10월 7일 힙합플레이야 INC 인터뷰](http://www.hiphopplaya.com/magazine/article/view.html?category=&category2=&page=1&sort=&num=3568&keyfield=&key=)
 2.

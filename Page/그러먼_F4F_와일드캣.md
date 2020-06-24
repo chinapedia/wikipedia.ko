@@ -78,4 +78,4 @@ F4F의 초기 모델은 F4F-3으로써 고정형 날개 형태로 설계 및 생
 
   - [Naval Historical Center Wildcat Entry](http://www.history.navy.mil/photos/ac-usn22/f-types/f4f.htm)
 
-[분류:미국의 전투기](https://ko.wikipedia.org/wiki/분류:미국의_전투기 "wikilink") [분류:제2차 세계 대전의 미국 군용기](https://ko.wikipedia.org/wiki/분류:제2차_세계_대전의_미국_군용기 "wikilink") [분류:그루먼 항공기](https://ko.wikipedia.org/wiki/분류:그루먼_항공기 "wikilink") [분류:1937년 첫 비행한 항공기](https://ko.wikipedia.org/wiki/분류:1937년_첫_비행한_항공기 "wikilink")
+[분류:미국의 전투기](https://ko.wikipedia.org/wiki/분류:미국의_전투기 "wikilink") [분류:제2차 세계 대전의 미국 군용기](https://ko.wikipedia.org/wiki/분류:제2차_세계_대전의_미국_군용기 "wikilink") [분류:그루먼 항공기](https://ko.wikipedia.org/wiki/분류:그루먼_항공기 "wikilink") [분류:1937년 첫 비행한 항공기](https://ko.wikipedia.org/wiki/분류:1937년_첫_비행한_항공기 "wikilink") [분류:중익기](https://ko.wikipedia.org/wiki/분류:중익기 "wikilink")

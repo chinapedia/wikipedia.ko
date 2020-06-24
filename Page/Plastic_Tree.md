@@ -127,6 +127,6 @@
   - [Sasabuchi Hiroshi.com](https://web.archive.org/web/20090703095947/http://www.sasabuchi-hiroshi.com/) 사사부치 히로시 공식 사이트
   - [Plastic Tree 사사부치 히로시 OFFICIAL BLOG「붓치기리블로그」](https://archive.is/20130413121821/ameblo.jp/buchiolog/) 사사부치 히로시 공식 블로그
   - [Plastic Tree](http://www.wmg.jp/artist/plastic_tree/) 워너뮤직 재팬의 아티스트 페이지(계약 종료와 함께 추가 갱신은 없음.)
-  - [schwarzes Zelt - Plastic Tree fansite](http://www.schwarzes-zelt.net/)
+  - [schwarzes Zelt - Plastic Tree fansite](https://web.archive.org/web/20100310021044/http://schwarzes-zelt.net/)
 
 [분류:일본의 록 밴드](https://ko.wikipedia.org/wiki/분류:일본의_록_밴드 "wikilink") [분류:비주얼계 밴드](https://ko.wikipedia.org/wiki/분류:비주얼계_밴드 "wikilink")

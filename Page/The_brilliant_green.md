@@ -71,4 +71,4 @@
 
   -
 
-[분류:1995년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:1995년_결성된_음악_그룹 "wikilink") [분류:1997년 데뷔](https://ko.wikipedia.org/wiki/분류:1997년_데뷔 "wikilink") [분류:일본의 팝 록 밴드](https://ko.wikipedia.org/wiki/분류:일본의_팝_록_밴드 "wikilink") [분류:혼성 음악 그룹](https://ko.wikipedia.org/wiki/분류:혼성_음악_그룹 "wikilink") [분류:소니 뮤직 엔터테인먼트 (일본)의 음악가](https://ko.wikipedia.org/wiki/분류:소니_뮤직_엔터테인먼트_\(일본\)의_음악가 "wikilink")
+[분류:1995년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:1995년_결성된_음악_그룹 "wikilink") [분류:일본의 팝 록 밴드](https://ko.wikipedia.org/wiki/분류:일본의_팝_록_밴드 "wikilink") [분류:혼성 음악 그룹](https://ko.wikipedia.org/wiki/분류:혼성_음악_그룹 "wikilink") [분류:소니 뮤직 엔터테인먼트 (일본)의 음악가](https://ko.wikipedia.org/wiki/분류:소니_뮤직_엔터테인먼트_\(일본\)의_음악가 "wikilink")

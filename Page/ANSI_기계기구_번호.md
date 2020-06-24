@@ -181,4 +181,4 @@
 </tbody>
 </table>
 
-[분류:전기공학](https://ko.wikipedia.org/wiki/분류:전기공학 "wikilink")
+[분류:전기공학](https://ko.wikipedia.org/wiki/분류:전기공학 "wikilink") [분류:ANSI 표준](https://ko.wikipedia.org/wiki/분류:ANSI_표준 "wikilink")

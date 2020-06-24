@@ -36,7 +36,7 @@
 | [70px](https://ko.wikipedia.org/wiki/파일:APP-6_Ordnance.svg "wikilink")                  | [군수](https://ko.wikipedia.org/wiki/군수_\(군사\) "wikilink")                                             |
 | [70px](https://ko.wikipedia.org/wiki/파일:APP-6_Radar.svg "wikilink")                     | [레이다](../Page/레이다.md "wikilink")                                                                     |
 | [70px](https://ko.wikipedia.org/wiki/파일:APP-6_PYSOPS.svg "wikilink")                    | [심리전](https://ko.wikipedia.org/wiki/심리전 "wikilink")                                                  |
-| [70px](https://ko.wikipedia.org/wiki/파일:APP-6_Reconnaissance.svg "wikilink")            | [정찰](https://ko.wikipedia.org/wiki/정찰 "wikilink") 또는 수색                                              |
+| [70px](https://ko.wikipedia.org/wiki/파일:APP-6_Reconnaissance.svg "wikilink")            | [정찰](https://ko.wikipedia.org/wiki/정찰 "wikilink") 또는 수색, 기병                                          |
 | [70px](https://ko.wikipedia.org/wiki/파일:APP-6_Signals.svg "wikilink")                   | [군사 통신](https://ko.wikipedia.org/wiki/군사_통신 "wikilink")                                              |
 | [70px](https://ko.wikipedia.org/wiki/파일:APP-6_Special_Forces.svg "wikilink")            | [특수부대](../Page/특수부대.md "wikilink")                                                                   |
 | [70px](https://ko.wikipedia.org/wiki/파일:APP-6_Special_Operations_Forces.svg "wikilink") | [특수작전부대](https://ko.wikipedia.org/wiki/특수작전부대 "wikilink") (특수부대와 같은 의미)                              |

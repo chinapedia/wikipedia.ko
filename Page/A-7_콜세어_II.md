@@ -30,7 +30,7 @@ A-7 콜세어 II와 F-16은 최대이륙중량 19톤으로 무게가 같으며, 
   - [Ling-Temco-Vought A-7 Corsair II](https://web.archive.org/web/20050305085604/http://home.att.net/~jbaugher4/newa7.html)
   - [A-7 photos at airliners.net](http://www.airliners.net/search/photo.search?aircraft_genericsearch=LTV%20A-7%20Corsair%20II&distinct_entry=true)
 
-[분류:미국의 군용기](https://ko.wikipedia.org/wiki/분류:미국의_군용기 "wikilink") [분류:베트남 전쟁의 군용기](https://ko.wikipedia.org/wiki/분류:베트남_전쟁의_군용기 "wikilink") [분류:함재기](https://ko.wikipedia.org/wiki/분류:함재기 "wikilink") [분류:1965년 첫 비행한 항공기](https://ko.wikipedia.org/wiki/분류:1965년_첫_비행한_항공기 "wikilink") [분류:단발 제트기](https://ko.wikipedia.org/wiki/분류:단발_제트기 "wikilink")
+[분류:미국의 군용기](https://ko.wikipedia.org/wiki/분류:미국의_군용기 "wikilink") [분류:베트남 전쟁의 군용기](https://ko.wikipedia.org/wiki/분류:베트남_전쟁의_군용기 "wikilink") [분류:함재기](https://ko.wikipedia.org/wiki/분류:함재기 "wikilink") [분류:1965년 첫 비행한 항공기](https://ko.wikipedia.org/wiki/분류:1965년_첫_비행한_항공기 "wikilink") [분류:단발 제트기](https://ko.wikipedia.org/wiki/분류:단발_제트기 "wikilink") [분류:고익기](https://ko.wikipedia.org/wiki/분류:고익기 "wikilink")
 
 1.  <http://dna.naver.com/> 동아일보 1978년 3월 2일 1면, 경향신문 1978년 3월 2일 2면
 2.  <http://dna.naver.com/> 동아일보 1979년 8월 4일 1면, 경향신문 1979년 8월 4일 1면

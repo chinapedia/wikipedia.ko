@@ -177,8 +177,8 @@
 <td><p><a href="../Page/이야마_유타.md" title="wikilink">이야마 유타</a> 九단</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/23회_LG배_세계기왕전" title="wikilink">23</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/23회_LG배_세계기왕전" title="wikilink">2018-2019</a></p></td>
+<td><p><a href="../Page/23회_LG배_세계기왕전.md" title="wikilink">23</a></p></td>
+<td><p><a href="../Page/23회_LG배_세계기왕전.md" title="wikilink">2018-2019</a></p></td>
 <td><p><strong><a href="../Page/양딩신.md" title="wikilink">양딩신</a></strong> 七단</p></td>
 <td><p>2-1</p></td>
 <td><p><a href="../Page/스웨.md" title="wikilink">스웨</a> 九단</p></td>

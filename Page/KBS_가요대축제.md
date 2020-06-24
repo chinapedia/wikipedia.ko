@@ -65,7 +65,7 @@
 </tr>
 <tr class="even">
 <td><p>2013년</p></td>
-<td><p>이휘재, <a href="../Page/수지_(대한민국의_가수).md" title="wikilink">수지</a>, <a href="../Page/윤시윤.md" title="wikilink">윤시윤</a></p></td>
+<td><p>이휘재, <a href="../Page/수지_(1994년).md" title="wikilink">수지</a>, <a href="../Page/윤시윤.md" title="wikilink">윤시윤</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -112,7 +112,7 @@
   - 1대 **[TBC 방송가요대상](https://ko.wikipedia.org/wiki/TBC_방송가요대상 "wikilink")** : [1965년](../Page/1965년.md "wikilink") \~ [1980년](../Page/1980년.md "wikilink")
   - 2대 **[KBS 방송음악대상](https://ko.wikipedia.org/wiki/KBS_방송음악대상 "wikilink")** : [1981년](../Page/1981년.md "wikilink")
   - 3대 **[KBS 가요대상](../Page/KBS_가요대상.md "wikilink")** : [1982년](../Page/1982년.md "wikilink") \~ [2005년](../Page/2005년.md "wikilink")
-  - 4대 **[KBS 가요대축제](../Page/KBS_가요대축제.md "wikilink")** : [2006년](../Page/2006년.md "wikilink") \~ 현재
+  - 4대 **KBS 가요대축제** : [2006년](../Page/2006년.md "wikilink") \~ 현재
 
 ## 역대 대상 수상자
 

@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [한국방송공사 2TV 일일연속극](https://ko.wikipedia.org/wiki/한국방송공사_2TV_일일연속극).
 
 
-**한국방송공사 2TV 일일드라마**은 매주 [평일](https://ko.wikipedia.org/wiki/평일 "wikilink") 저녁 7시 50분에 [KBS 2TV에서](../Page/KBS_2TV.md "wikilink") 방송중인 [텔레비전 드라마이다](../Page/텔레비전_드라마.md "wikilink"). 《[돌아온 뚝배기](../Page/돌아온_뚝배기.md "wikilink")》까지는 **일일드라마**라는 명칭을 사용하였으나 잠정 폐지 후 [2013년](../Page/2013년.md "wikilink") [8월 19일에](../Page/8월_19일.md "wikilink") 부활한 작품 《[루비 반지](../Page/루비_반지.md "wikilink")》부터 **저녁일일드라마**로 명칭이 바뀌었다.
+**한국방송공사 2TV 일일 드라마**는 매주 [월요일](../Page/월요일.md "wikilink")부터 [금요일](../Page/금요일.md "wikilink") 오후 7시 50분에 [KBS 2TV에서](../Page/KBS_2TV.md "wikilink") 방송중인 [TV 드라마이다](https://ko.wikipedia.org/wiki/TV_드라마 "wikilink").
 
-## 저녁일일드라마 방송 시간
+## 일일 드라마 방송 시간
 
 현재 방송 시간은 [2013년](../Page/2013년.md "wikilink") [8월 19일을](../Page/8월_19일.md "wikilink") 기준으로 한다.
 
@@ -24,7 +24,11 @@
 | 2008년 6월 2일 \~ 2008년 10월 30일             | 저녁 7시 40분 \~ 8시 20분        | 40분                                                      |       |
 | 2013년 8월 19일 \~ **현재**                   | 저녁 7시 50분 \~ 8시 30분        |                                                          |       |
 
-## 저녁일일드라마 작품 리스트
+## 일일 드라마 작품 리스트
+
+  - 아래의 프로그램들은 [한국방송공사](../Page/한국방송공사.md "wikilink")에서 시행중인 [2002년](../Page/2002년.md "wikilink") 금연 캠페인 시행 이전에 제작 및 방영한 작품들로 부득이하게 일부 장면에서 흡연 장면 및 담배 소품이 노출될 수 있으며, 시청자 여러분들의 양해를 바랍니다.
+  - 아래의 프로그램들은 [2002년](../Page/2002년.md "wikilink") [11월](../Page/11월.md "wikilink") 이후에 시청 가능 연령을 표시하는 [드라마 등급 제도를](../Page/대한민국의_텔레비전_등급_제도.md "wikilink") 의무적으로 시행하여, 현재까지 이어지고 있다.
+  - [2017년](../Page/2017년.md "wikilink") [3월 1일부터](../Page/3월_1일.md "wikilink") TV 프로그램 등급 표시 외에 주제, 폭력성, 선정성, 언어, 모방 위험 등 분류 사유 표시를 의무적으로 시행하고 있다.
 
 ### 1980년대
 
@@ -82,11 +86,13 @@
 
 ### 2020년대
 
-  - 《[위험한 약속](https://ko.wikipedia.org/wiki/위험한_약속 "wikilink")》 : 2020년 3월 30일 \~ 현재
+  - 《[위험한 약속](https://ko.wikipedia.org/wiki/위험한_약속 "wikilink")》 : 2020년 3월 30일 \~ **현재**
 
 ## 같이 보기
 
   - [한국방송공사 1TV 일일연속극](../Page/한국방송공사_1TV_일일연속극.md "wikilink")
-  - [한국방송공사 2TV 일일연속사극](https://ko.wikipedia.org/wiki/한국방송공사_2TV_일일연속사극 "wikilink")
+  - [문화방송 일일연속극](../Page/문화방송_일일연속극.md "wikilink")
+  - [문화방송 일일 특별기획 드라마](../Page/문화방송_일일_특별기획_드라마.md "wikilink")
+  - [SBS 일일드라마](../Page/SBS_일일드라마.md "wikilink")
 
 [분류:한국방송공사의 텔레비전 드라마](https://ko.wikipedia.org/wiki/분류:한국방송공사의_텔레비전_드라마 "wikilink") [\*](https://ko.wikipedia.org/wiki/분류:한국방송공사_2TV_일일연속극 "wikilink")

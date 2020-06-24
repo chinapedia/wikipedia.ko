@@ -62,7 +62,7 @@
 
   - **예선** - 용산 이스포츠 보조 경기장
   - **본선** - 용산 이스포츠 상설 경기장
-  - **결승** - [부산](https://ko.wikipedia.org/wiki/부산 "wikilink") [사직실내체육관](../Page/사직실내체육관.md "wikilink") (프로농구 [부산 KT 소닉붐의](https://ko.wikipedia.org/wiki/부산_KT_소닉붐 "wikilink") 홈 경기장)
+  - **결승** - [부산](https://ko.wikipedia.org/wiki/부산 "wikilink") [사직실내체육관](../Page/사직실내체육관.md "wikilink") (프로농구 [부산 KT 소닉붐의](../Page/부산_KT_소닉붐.md "wikilink") 홈 경기장)
 
 ## 맵
 

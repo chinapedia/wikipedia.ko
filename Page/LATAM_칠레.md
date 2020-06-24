@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [LATAM 칠레](https://ko.wikipedia.org/wiki/LATAM_칠레).
 
 
-**LATAM 칠레**(, 과거 명칭: LAN Airlines S.A. 및 Lan Chile)는 [칠레](../Page/칠레.md "wikilink")의 [산티아고](../Page/산티아고.md "wikilink")에 거점을 둔, [칠레](../Page/칠레.md "wikilink")의 [국책항공사](https://ko.wikipedia.org/wiki/국책항공사 "wikilink")다. [칠레](../Page/칠레.md "wikilink")의 대표적인 항공사로 [라틴 아메리카의](../Page/라틴_아메리카.md "wikilink") 대형 항공사들 중 하나이며, [남아메리카](../Page/남아메리카.md "wikilink"), [북아메리카](../Page/북아메리카.md "wikilink"), [서인도 제도](../Page/서인도_제도.md "wikilink"), [오세아니아](../Page/오세아니아.md "wikilink"), [유럽](../Page/유럽.md "wikilink")을 오가는 항공편을 운영하고 있다. [원월드](../Page/원월드.md "wikilink") [항공 동맹의](https://ko.wikipedia.org/wiki/항공_동맹 "wikilink") 일원에 속하기도 한다.
+**LATAM 칠레**(, 과거 명칭: LAN Airlines S.A. 및 Lan Chile)는 [칠레](../Page/칠레.md "wikilink")의 [산티아고](../Page/산티아고.md "wikilink")에 거점을 둔, [칠레](../Page/칠레.md "wikilink")의 [국책항공사](https://ko.wikipedia.org/wiki/국책항공사 "wikilink")다. [칠레](../Page/칠레.md "wikilink")의 대표적인 항공사로 [라틴 아메리카의](../Page/라틴_아메리카.md "wikilink") 대형 항공사들 중 하나이며, [남아메리카](../Page/남아메리카.md "wikilink"), [북아메리카](../Page/북아메리카.md "wikilink"), [서인도 제도](../Page/서인도_제도.md "wikilink"), [오세아니아](../Page/오세아니아.md "wikilink"), [유럽](../Page/유럽.md "wikilink")을 오가는 항공편을 운영하고 있다.
 
 ## 역사
 
@@ -19,7 +19,7 @@
 <tbody>
 <tr class="odd">
 <td><ul>
-<li><a href="../Page/LATAM_브라질.md" title="wikilink">LATAM 브라질</a> <small>(<a href="../Page/원월드.md" title="wikilink">원월드</a>)</small></li>
+<li><a href="../Page/LATAM_브라질.md" title="wikilink">LATAM 브라질</a></li>
 <li><a href="../Page/LATAM_파라과이.md" title="wikilink">LATAM 파라과이</a></li>
 <li><a href="https://ko.wikipedia.org/wiki/대한항공" title="wikilink">대한항공</a> <small>(<a href="../Page/스카이팀.md" title="wikilink">스카이팀</a>)</small></li>
 <li><a href="../Page/아에로멕시코.md" title="wikilink">아에로멕시코</a> <small>(<a href="../Page/스카이팀.md" title="wikilink">스카이팀</a>)</small></li>
@@ -150,7 +150,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/더글러스_DC-3" title="wikilink">더글러스 DC-3</a></p></td>
+<td><p><a href="../Page/더글러스_DC-3.md" title="wikilink">더글러스 DC-3</a></p></td>
 <td><p>불명</p></td>
 <td></td>
 <td></td>

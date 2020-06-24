@@ -38,9 +38,9 @@ IPv6 주소가 NETSH에 사용되는 것을 보는 방법:
 
 ## 외부 링크
 
-  - [Netsh 사용](http://technet.microsoft.com/en-us/library/bb490939.aspx)
+  - [Netsh 사용](https://web.archive.org/web/20090319090959/http://technet.microsoft.com/en-us/library/bb490939.aspx)
   - [Ipv6 in .NET](https://web.archive.org/web/20080919123647/http://network.programming-in.net/articles/book-network-programming-art6-13.asp)
   - [주소 빌드 및 명령 바인딩 온라인 도구](https://web.archive.org/web/20080219233637/http://platformlabs.com/bag/net.htm)
-  - [netsh commands](http://www.colorconsole.de/cmd/kr/Windows_XP/netsh.htm)
+  - [netsh commands](https://web.archive.org/web/20100413090923/http://www.colorconsole.de/cmd/kr/Windows_XP/netsh.htm)
 
 [분류:윈도우 구성 요소](https://ko.wikipedia.org/wiki/분류:윈도우_구성_요소 "wikilink") [분류:윈도우 관리](https://ko.wikipedia.org/wiki/분류:윈도우_관리 "wikilink")

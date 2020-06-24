@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [K리그 영플레이어상](https://ko.wikipedia.org/wiki/K리그_영플레이어상).
 
 
-**K리그 영플레이어상**은 [K리그](../Page/K리그.md "wikilink")에서 활약하는 선수 중 국내외 프로 리그에서 출전한 햇수가 3년 이내인 만 23세 이하의 북한국적, 해외동포를 포함한 대한민국 국적 선수를 대상으로 수여한다. 단, 해당 시즌 리그 경기 가운데 절반 이상을 출전한 선수만이 수상할 수 있다.
+**K리그 영플레이어상**은 [K리그](../Page/K리그.md "wikilink")에서 활약하는 선수 중 국내외 프로 리그에서 출전한 횟수가 3년 이내인 만 23세 이하의 북한국적, 해외동포를 포함한 대한민국 국적 선수를 대상으로 수여한다. 단, 해당 시즌 리그 경기 가운데 절반 이상을 출전한 선수만이 수상할 수 있다.
 
 당초 **신인선수상**이라는 이름으로 해당 시즌 K리그에서 프로 무대에 데뷔한 선수를 대상으로 수여하는 상이 존재하였으나 폐지된 후 [2013년](../Page/2013년.md "wikilink")부터 영플레이어상이 신설되었다.
 
@@ -48,7 +48,7 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/성남_FC" title="wikilink">일화 천마</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/K리그_1990" title="wikilink">1990</a></p></td>
+<td><p><a href="../Page/K리그_1990.md" title="wikilink">1990</a></p></td>
 <td><p><a href="../Page/송주석.md" title="wikilink">송주석</a></p></td>
 <td><p><a href="../Page/공격수.md" title="wikilink">공격수 (FW)</a></p></td>
 <td><p><a href="../Page/울산_현대_축구단.md" title="wikilink">현대 호랑이</a></p></td>
@@ -244,7 +244,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/K리그1_2019" title="wikilink">2019</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/김지현_(축구_선수)" title="wikilink">김지현</a></p></td>
+<td><p><a href="../Page/김지현_(축구_선수).md" title="wikilink">김지현</a></p></td>
 <td><p><a href="../Page/공격수.md" title="wikilink">공격수 (FW)</a></p></td>
 <td><p><a href="../Page/강원_FC.md" title="wikilink">강원 FC</a></p></td>
 </tr>

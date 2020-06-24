@@ -3,7 +3,7 @@
 
 《**토마토TV**》는 [증권](https://ko.wikipedia.org/wiki/증권 "wikilink")정보 업체인 **이토마토**에서 운영하는 [증권](https://ko.wikipedia.org/wiki/증권 "wikilink") 정보 [방송](../Page/방송.md "wikilink")으로 [2002년](../Page/2002년.md "wikilink") [10월](../Page/10월.md "wikilink")에 개국하였다.
 
-[2004](https://ko.wikipedia.org/wiki/2004 "wikilink")년엔 [이데일리](https://ko.wikipedia.org/wiki/이데일리 "wikilink")와 제휴하였으며, 2006년부터 [CNBC](../Page/CNBC.md "wikilink")와 제휴 하였으며 하루 [24시간](https://ko.wikipedia.org/wiki/24시간 "wikilink") 방송을 한다. 그리고 [2009년](../Page/2009년.md "wikilink") 현재 한국 경제전문 채널로는 최초로 HD방송을 실시 중이다.
+[2004년](../Page/2004년.md "wikilink")엔 [이데일리](https://ko.wikipedia.org/wiki/이데일리 "wikilink")와, 2006년부터 [CNBC](../Page/CNBC.md "wikilink")와 제휴하였으며 하루 [24시간](../Page/PRODUCE_101_-_35_Girls_5_Concepts.md "wikilink") 방송을 한다. 그리고 [2009년](../Page/2009년.md "wikilink") 현재 한국 경제전문 채널로는 최초로 HD방송을 실시 중이다.
 
 ## 방영 프로그램
 

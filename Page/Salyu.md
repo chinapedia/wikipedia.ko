@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Salyu](https://ko.wikipedia.org/wiki/Salyu).
 
 
-**Salyu**(사류 또는 사류우, [1980년](../Page/1980년.md "wikilink") [10월 13일](../Page/10월_13일.md "wikilink") \~)는 일본의 [가수](https://ko.wikipedia.org/wiki/가수 "wikilink")이다. [가나가와현](../Page/가나가와현.md "wikilink") [요코하마 시](https://ko.wikipedia.org/wiki/요코하마_시 "wikilink") [고호쿠 구](https://ko.wikipedia.org/wiki/고호쿠_구 "wikilink") 출신.
+**Salyu**(사류 또는 사류우, [1980년](../Page/1980년.md "wikilink") [10월 13일](../Page/10월_13일.md "wikilink") \~)는 일본의 [가수](https://ko.wikipedia.org/wiki/가수 "wikilink")이다. [가나가와현](../Page/가나가와현.md "wikilink") [요코하마시](../Page/요코하마시.md "wikilink") [고호쿠구](https://ko.wikipedia.org/wiki/고호쿠구 "wikilink") 출신.
 
 예명인 Salyu는 '건배' 또는 '친한 사이에서의 인사말'을 의미하는 프랑스어 단어 salut에서 유래했으며, 음악 프로듀서 [고바야시 다케시에](https://ko.wikipedia.org/wiki/고바야시_다케시 "wikilink") 의해 지어졌다.
 

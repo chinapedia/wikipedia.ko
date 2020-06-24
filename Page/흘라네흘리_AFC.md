@@ -79,5 +79,5 @@
 [분류:웨일스의 축구단](https://ko.wikipedia.org/wiki/분류:웨일스의_축구단 "wikilink") [분류:1896년 설립된 축구단](https://ko.wikipedia.org/wiki/분류:1896년_설립된_축구단 "wikilink")
 
 1.  [Singing in the valleys over a very special boyo - Scotsman.com Sport](http://sport.scotsman.com/jockstein/Singing-in-the-valleys-over.2660280.jp)
-2.  [Welsh Premier League Football - all the news from Aberystwyth to Welshpool: News](http://www.welsh-premier.com/news.php?ID=6611)
+2.
 3.  [uefa.com - Football Europe - News & Features - News Specific](http://www.uefa.com/footballeurope/news/kind=2/newsid=684069.html)

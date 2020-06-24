@@ -116,9 +116,13 @@
 
   - [1998년](../Page/1998년.md "wikilink") [7월](../Page/7월.md "wikilink") 첫째 주 자체 최고 시청률을 기록하였으며, 이 때의 시청률은 35.5퍼센트(구 [AC닐슨 코리아](https://ko.wikipedia.org/wiki/AGB닐슨_미디어_리서치_코리아 "wikilink") 조사)였다.\[10\]
   - [1996년](../Page/1996년.md "wikilink") [2월 29일부터](../Page/2월_29일.md "wikilink") 공동 MC를 맡아 온 [이소라가](../Page/이소라_\(모델\).md "wikilink") 연인이었던 개그맨 [신동엽의](../Page/신동엽_\(희극인\).md "wikilink") 마약 복용 혐의 구속으로 충격을 받아 [1999년](../Page/1999년.md "wikilink") [12월](../Page/12월.md "wikilink") 중도 하차한 뒤 [유정현](../Page/유정현_\(정치인\).md "wikilink") 아나운서가 [2000년](../Page/2000년.md "wikilink") [4월 27일까지](../Page/4월_27일.md "wikilink") 단독으로 진행을 맡았다\[11\].
-  - MBC 《[섹션TV 연예통신](../Page/섹션TV_연예통신.md "wikilink")》과 맞서기 위해 [2000년](../Page/2000년.md "wikilink") [8월 9일부터](../Page/8월_9일.md "wikilink") 수\~목 2회로 확대시키는 한편 탤런트 [이승연](../Page/이승연.md "wikilink")을 여자 MC로 합류시켰으나, 시청률 부진과 [이승연](../Page/이승연.md "wikilink") 본인의 '전과'였던 운전 면허 불법 취득 사건 때문에 다른 연예인들에 대해 제대로 코멘트하기도 힘든 처지가 되자\[12\] [2000년](../Page/2000년.md "wikilink") [10월 25일부터는](../Page/10월_25일.md "wikilink") [유정현](https://ko.wikipedia.org/wiki/유정현 "wikilink") 아나운서가 수요일 시간대 단독 진행을 맡았다. 하지만 시청률 부진의 늪에서 벗어나지 못하게 되어 [2000년](../Page/2000년.md "wikilink") [11월 29일부터](../Page/11월_29일.md "wikilink") [신용철](https://ko.wikipedia.org/wiki/신용철 "wikilink") 아나운서로 수요일 시간대 MC를 교체했으나\[13\] 시청률이 오르지 않자 [2001년](../Page/2001년.md "wikilink") [1월 18일](../Page/1월_18일.md "wikilink") 방송분 이후 목요일 1회로 축소됐다.
+  - MBC 《[섹션TV 연예통신](../Page/섹션TV_연예통신.md "wikilink")》과 맞서기 위해 [2000년](../Page/2000년.md "wikilink") [8월 9일부터](../Page/8월_9일.md "wikilink") 수\~목 2회로 확대시키는 한편 탤런트 [이승연](../Page/이승연.md "wikilink")을 여자 MC로 합류시켰으나, 시청률 부진과 [이승연](../Page/이승연.md "wikilink") 본인의 '전과'였던 운전 면허 불법 취득 사건 때문에 다른 연예인들에 대해 제대로 코멘트하기도 힘든 처지가 되자\[12\] [2000년](../Page/2000년.md "wikilink") [10월 25일부터는](../Page/10월_25일.md "wikilink") [유정현](https://ko.wikipedia.org/wiki/유정현 "wikilink") 아나운서가 수요일 시간대 단독 진행을 맡았다. 하지만 시청률 부진의 늪에서 벗어나지 못하게 되어 [2000년](../Page/2000년.md "wikilink") [11월 29일부터](../Page/11월_29일.md "wikilink") [신용철](../Page/신용철.md "wikilink") 아나운서로 수요일 시간대 MC를 교체했으나\[13\] 시청률이 오르지 않자 [2001년](../Page/2001년.md "wikilink") [1월 18일](../Page/1월_18일.md "wikilink") 방송분 이후 목요일 1회로 축소됐다.
   - [채림](../Page/채림.md "wikilink")이 [이소라와](../Page/이소라_\(모델\).md "wikilink") 수요일 시간대 진행을 맡았던 [이승연](../Page/이승연.md "wikilink") 후임으로 여자 MC 물망에 두 번 올랐지만 최종 불발되었다\[14\]\[15\].
   - [1998년](../Page/1998년.md "wikilink") [12월 31일에](../Page/12월_31일.md "wikilink") 방송된 **생방송 한밤의 TV 연예 - 아듀98** 편성했으나, [제야의 종](../Page/제야의_종.md "wikilink") 타종 실황은 종로 [보신각](../Page/보신각.md "wikilink")을 연결해 중계하였다.
+
+## 시청률
+
+  - [1995년](../Page/1995년.md "wikilink")부터 높은 시청률 인기를 누렸으나, [2000년대](../Page/2000년대.md "wikilink") 중반 이후부터 [케이블 TV](https://ko.wikipedia.org/wiki/케이블_TV "wikilink") 채널, [인터넷](../Page/인터넷.md "wikilink") [포털 뉴스](../Page/온라인_저널리즘.md "wikilink") 보급 확산으로 인기가 갈수록 떨어지자, [2016년](../Page/2016년.md "wikilink") [3월](../Page/3월.md "wikilink")에 종영하였다.
 
 ## 같이 보기
 
@@ -143,7 +147,7 @@
 4.
 5.
 6.
-7.  1999년 12월 30일부터 2000년 4월 27일까지는 여자 MC 없이 단독으로 진행을 맡았고 2000년 11월 29일부터 2001년 1월 17일까지는 [신용철](https://ko.wikipedia.org/wiki/신용철 "wikilink") 아나운서가 수요일 시간대를 진행했으며 2001년 5월 24일부터 6월 7일까지는 여자 MC 없이 단독으로 진행했다.
+7.  1999년 12월 30일부터 2000년 4월 27일까지는 여자 MC 없이 단독으로 진행을 맡았고 2000년 11월 29일부터 2001년 1월 17일까지는 [신용철](../Page/신용철.md "wikilink") 아나운서가 수요일 시간대를 진행했으며 2001년 5월 24일부터 6월 7일까지는 여자 MC 없이 단독으로 진행했다.
 8.  2008년 9월 3일 방송분에서는 여자 MC 없이 단독으로 진행을 맡았다.
 9.  2000년 10월 18일 방송분 이후 목요일 시간대만 진행했다.
 10. [<방송> MBC.SBS 지난주 시청률 10위권 판도 양분](http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=103&oid=001&aid=0004288899) 《[연합뉴스](../Page/연합뉴스.md "wikilink")》 [1998년](../Page/1998년.md "wikilink") [7월 6일](../Page/7월_6일.md "wikilink") 작성.

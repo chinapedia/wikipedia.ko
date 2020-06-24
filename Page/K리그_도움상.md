@@ -95,7 +95,7 @@
 <p>0.28</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/K리그_1990" title="wikilink">1990</a></p></td>
+<td><p><a href="../Page/K리그_1990.md" title="wikilink">1990</a></p></td>
 <td><p><a href="../Page/최대식.md" title="wikilink">최대식</a><sup>1</sup></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/FC_서울" title="wikilink">럭키금성 황소</a></p></td>
 <td><div style="text-align: center;">
@@ -431,7 +431,7 @@
   - 1983 시즌부터 1996 시즌까지의 [챔피언결정전의](../Page/K리그_챔피언십.md "wikilink") 도움수는 당시 대회들이 번외처리가 되어 합산되지 않았으며 1998 시즌부터 2006 시즌까지는 기존 정규리그에 포스트시즌인 [플레이오프를](../Page/K리그_챔피언십.md "wikilink") 포함한 도움수로 도움상 수상자를 결정하였다.
   - [6강 플레이오프 제도가](../Page/K리그_챔피언십.md "wikilink") 시작된 2007 시즌부터는 포스트시즌인 [플레이오프를](../Page/K리그_챔피언십.md "wikilink") 제외한 순수한 정규리그 도움수로만 도움상 수상자를 결정하고 있다.
 
-<sup>1</sup> [1990](https://ko.wikipedia.org/wiki/K리그_1990 "wikilink") 시즌은 [최대식](../Page/최대식.md "wikilink")과 [송주석](../Page/송주석.md "wikilink")이 도움수와 경기수까지 동일했지만 당시 골을 더 많이 넣은 선수가 도움상을 받는 규정에 의거해 최대식이 도움상을 수상했다.
+<sup>1</sup> [1990](../Page/K리그_1990.md "wikilink") 시즌은 [최대식](../Page/최대식.md "wikilink")과 [송주석](../Page/송주석.md "wikilink")이 도움수와 경기수까지 동일했지만 당시 골을 더 많이 넣은 선수가 도움상을 받는 규정에 의거해 최대식이 도움상을 수상했다.
 
 ## [K리그2](../Page/K리그2.md "wikilink") 수상자 (2013–현재)
 

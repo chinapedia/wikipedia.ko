@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [복지TV](https://ko.wikipedia.org/wiki/복지TV).
 
 
-**복지TV**(福祉TV, WBC, **W**elfare **B**rodcasting **C**hannel)는 [2005년](../Page/2005년.md "wikilink") [2월](../Page/2월.md "wikilink")에 개국한 [대한민국](../Page/대한민국.md "wikilink")의 [사회적 약자](../Page/장애인.md "wikilink") 대상 [유료방송](../Page/대한민국의_케이블TV_방송.md "wikilink") [채널이다](https://ko.wikipedia.org/wiki/채널_\(통신\) "wikilink"). [2013년](../Page/2013년.md "wikilink")에 [의무채널로](../Page/공익채널.md "wikilink") 지정되었다.
+**복지TV**(福祉TV, WBC, )는 [2005년](../Page/2005년.md "wikilink") [12월](../Page/12월.md "wikilink")에 개국한 [대한민국](../Page/대한민국.md "wikilink")의 [사회적 약자](../Page/장애인.md "wikilink") 대상 [유료방송](../Page/대한민국의_케이블TV_방송.md "wikilink") [채널이다](https://ko.wikipedia.org/wiki/채널_\(통신\) "wikilink"). [2013년](../Page/2013년.md "wikilink")에 [의무채널로](../Page/공익채널.md "wikilink") 지정되었다.
 
 ## 로고송
 

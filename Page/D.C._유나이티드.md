@@ -75,4 +75,4 @@
 
   - [D.C. 유나이티드 공식 웹사이트](http://www.dcunited.com/)
 
-[분류:1995년 설립된 축구단](https://ko.wikipedia.org/wiki/분류:1995년_설립된_축구단 "wikilink") [분류:메이저 리그 사커 구단](https://ko.wikipedia.org/wiki/분류:메이저_리그_사커_구단 "wikilink") [D.C._유나이티드](https://ko.wikipedia.org/wiki/분류:D.C._유나이티드 "wikilink")
+[D.C._유나이티드](https://ko.wikipedia.org/wiki/분류:D.C._유나이티드 "wikilink") [분류:1995년 설립된 축구단](https://ko.wikipedia.org/wiki/분류:1995년_설립된_축구단 "wikilink") [분류:메이저 리그 사커 구단](https://ko.wikipedia.org/wiki/분류:메이저_리그_사커_구단 "wikilink") [분류:워싱턴 D.C.의 축구단](https://ko.wikipedia.org/wiki/분류:워싱턴_D.C.의_축구단 "wikilink")

@@ -357,4 +357,4 @@
 
   - \[<http://cafe.naver.com/scamate>네이버-SCANDAL 한국 팬카페 \[Scamate\]\]
 
-[분류:일본의 팝 록 밴드](https://ko.wikipedia.org/wiki/분류:일본의_팝_록_밴드 "wikilink") [분류:일본의 걸 그룹](https://ko.wikipedia.org/wiki/분류:일본의_걸_그룹 "wikilink") [분류:오사카시 출신](https://ko.wikipedia.org/wiki/분류:오사카시_출신 "wikilink") [분류:2006년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2006년_결성된_음악_그룹 "wikilink") [분류:2008년 데뷔](https://ko.wikipedia.org/wiki/분류:2008년_데뷔 "wikilink") [분류:4인조 음악 그룹](https://ko.wikipedia.org/wiki/분류:4인조_음악_그룹 "wikilink")
+[분류:일본의 팝 록 밴드](https://ko.wikipedia.org/wiki/분류:일본의_팝_록_밴드 "wikilink") [분류:일본의 걸 그룹](https://ko.wikipedia.org/wiki/분류:일본의_걸_그룹 "wikilink") [분류:오사카시 출신](https://ko.wikipedia.org/wiki/분류:오사카시_출신 "wikilink") [분류:2006년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2006년_결성된_음악_그룹 "wikilink") [분류:4인조 음악 그룹](https://ko.wikipedia.org/wiki/분류:4인조_음악_그룹 "wikilink")

@@ -26,7 +26,7 @@
 
   -
 
-[분류:외계 행성](https://ko.wikipedia.org/wiki/분류:외계_행성 "wikilink") [분류:이리자리](https://ko.wikipedia.org/wiki/분류:이리자리 "wikilink")
+[분류:외계 행성](https://ko.wikipedia.org/wiki/분류:외계_행성 "wikilink") [분류:이리자리](https://ko.wikipedia.org/wiki/분류:이리자리 "wikilink") [분류:2005년 발견한 외계 행성](https://ko.wikipedia.org/wiki/분류:2005년_발견한_외계_행성 "wikilink")
 
 1.  [Is this a Brown Dwarf or an Exoplanet? New Young Sub-stellar Companion Imaged with the VLT](http://www.eso.org/public/outreach/press-rel/pr-2005/pr-09-05.html) , ESO Press Release 09/05, 2005-04-07 작성. 2008-06-13 확인.
 2.  Astrometric and photometric monitoring of GQ Lupi and its sub-stellar companion, Ralph Neuhäuser, Markus Mugrauer, Andreas Seifahrt, Tobias Schmidt, and Nikolaus Vogt, *Astronomy and Astrophysics* **484**, \#1 (2008), pp. 281–291. .

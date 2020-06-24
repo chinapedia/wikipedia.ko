@@ -11,7 +11,7 @@
 
   -
 
-    . [기후현](../Page/기후현.md "wikilink") [기후 시](https://ko.wikipedia.org/wiki/기후_시 "wikilink") 출신.
+    . [기후현](../Page/기후현.md "wikilink") [기후시](../Page/기후시.md "wikilink") 출신.
 
 <!-- end list -->
 
@@ -21,7 +21,7 @@
 
   -
 
-    . [후쿠시마현](../Page/후쿠시마현.md "wikilink") [도미오카 정](https://ko.wikipedia.org/wiki/도미오카_정 "wikilink") 출신.
+    . [후쿠시마현](../Page/후쿠시마현.md "wikilink") [도미오카정](../Page/도미오카정.md "wikilink") 출신.
 
     본명은 하세가와 다이스케 (長谷川大介)
 
@@ -33,7 +33,7 @@
 
   -
 
-    . 후쿠시마 현 [이와키 시](https://ko.wikipedia.org/wiki/이와키_시 "wikilink") 출신.
+    . 후쿠시마 현 [이와키시](../Page/이와키시.md "wikilink") 출신.
 
     본명은 오카다 토모히사 (岡田知久)
 
@@ -45,7 +45,7 @@
 
   -
 
-    . [도야마현](../Page/도야마현.md "wikilink") [도야마 시](https://ko.wikipedia.org/wiki/도야마_시 "wikilink") 출신.
+    . [도야마현](../Page/도야마현.md "wikilink") [도야마시](../Page/도야마시.md "wikilink") 출신.
 
 <!-- end list -->
 
@@ -55,7 +55,7 @@
 
   -
 
-    . [고치현](../Page/고치현.md "wikilink") [고치 시](https://ko.wikipedia.org/wiki/고치_시 "wikilink") 출신.
+    . [고치현](../Page/고치현.md "wikilink") [고치시](../Page/고치시.md "wikilink") 출신.
 
     본명은 타시마 히로유키 (田島智之)
 
@@ -253,4 +253,4 @@ M3. TV 도쿄 《NARUTO -나루토- 질풍전》 오프닝 테마</p></td>
 
   - [流るる風の跡を](https://web.archive.org/web/20080117102531/http://blog.excite.co.jp/aquatimez/) - 공식 블로그
 
-[분류:5인조 음악 그룹](https://ko.wikipedia.org/wiki/분류:5인조_음악_그룹 "wikilink") [분류:소니 뮤직 엔터테인먼트 (일본)의 음악가](https://ko.wikipedia.org/wiki/분류:소니_뮤직_엔터테인먼트_\(일본\)의_음악가 "wikilink") [분류:일본의 록 밴드](https://ko.wikipedia.org/wiki/분류:일본의_록_밴드 "wikilink") [분류:2003년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2003년_결성된_음악_그룹 "wikilink") [분류:2004년 데뷔](https://ko.wikipedia.org/wiki/분류:2004년_데뷔 "wikilink") [분류:일본어 음악 그룹](https://ko.wikipedia.org/wiki/분류:일본어_음악_그룹 "wikilink") [분류:2000년대 음악 그룹](https://ko.wikipedia.org/wiki/분류:2000년대_음악_그룹 "wikilink") [분류:2010년대 음악 그룹](https://ko.wikipedia.org/wiki/분류:2010년대_음악_그룹 "wikilink")
+[분류:5인조 음악 그룹](https://ko.wikipedia.org/wiki/분류:5인조_음악_그룹 "wikilink") [분류:소니 뮤직 엔터테인먼트 (일본)의 음악가](https://ko.wikipedia.org/wiki/분류:소니_뮤직_엔터테인먼트_\(일본\)의_음악가 "wikilink") [분류:일본의 록 밴드](https://ko.wikipedia.org/wiki/분류:일본의_록_밴드 "wikilink") [분류:2003년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2003년_결성된_음악_그룹 "wikilink") [분류:일본어 음악 그룹](https://ko.wikipedia.org/wiki/분류:일본어_음악_그룹 "wikilink") [분류:2000년대 음악 그룹](https://ko.wikipedia.org/wiki/분류:2000년대_음악_그룹 "wikilink") [분류:2010년대 음악 그룹](https://ko.wikipedia.org/wiki/분류:2010년대_음악_그룹 "wikilink")

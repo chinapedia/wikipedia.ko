@@ -393,6 +393,10 @@
   - [4월 1일](../Page/4월_1일.md "wikilink") \~ [4월 8일](../Page/4월_8일.md "wikilink") : 봄 개편으로 인한 결방
   - [7월 18일](../Page/7월_18일.md "wikilink") : [세빌리아의 이발사](https://ko.wikipedia.org/wiki/세빌리아의_이발사 "wikilink") 방송 관계로 결방
 
+## 시청률
+
+  - [1999년](../Page/1999년.md "wikilink")부터 [2000년대](../Page/2000년대.md "wikilink") 초반까지 높은 시청률 인기를 누렸으나, [2000년대](../Page/2000년대.md "wikilink") 중반 이후부터 [케이블 TV](https://ko.wikipedia.org/wiki/케이블_TV "wikilink") 채널, [인터넷 뉴스](https://ko.wikipedia.org/wiki/인터넷_뉴스 "wikilink") 보급 확산으로 인기가 갈수록 떨어지자, 시청률 너무 저조하여, 오랫동안 21년만에 마침내 폐지하였다.
+
 ## 연예 정보 프로그램
 
   - [KBS 뉴스광장 - 문화광장](../Page/KBS_뉴스광장.md "wikilink") (KBS 1TV)

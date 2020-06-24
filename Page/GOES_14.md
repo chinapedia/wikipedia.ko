@@ -42,7 +42,7 @@ GOES 14는 2009년 6월 27일 케이프 커네버럴 공군기지([CCAFS](https:
   - [ITT Provides Main Sensors for GOES-O Weather Satellite](https://archive.today/20130104181459/http://www.reuters.com/article/pressRelease/idUS149278+29-Jun-2009+BW20090629)
   - [1](https://web.archive.org/web/20100509115258/http://www.swpc.noaa.gov/sxi/images/latest_goes14.png)
 
-[분류:기상 위성](https://ko.wikipedia.org/wiki/분류:기상_위성 "wikilink") [분류:NASA의 우주 탐사선](https://ko.wikipedia.org/wiki/분류:NASA의_우주_탐사선 "wikilink") [분류:미국 해양대기청](https://ko.wikipedia.org/wiki/분류:미국_해양대기청 "wikilink")
+[분류:기상 위성](https://ko.wikipedia.org/wiki/분류:기상_위성 "wikilink") [분류:미국 항공 우주국의 우주 탐사선](https://ko.wikipedia.org/wiki/분류:미국_항공_우주국의_우주_탐사선 "wikilink") [분류:미국 해양대기청](https://ko.wikipedia.org/wiki/분류:미국_해양대기청 "wikilink")
 
 1.
 2.

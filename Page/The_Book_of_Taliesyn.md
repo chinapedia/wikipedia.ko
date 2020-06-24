@@ -22,4 +22,6 @@
   - [존 로드](../Page/존_로드.md "wikilink") : [오르간](https://ko.wikipedia.org/wiki/해먼드_오르간 "wikilink"), [키보드](https://ko.wikipedia.org/wiki/건반_악기 "wikilink"), 배킹 보컬, "Anthem"에서 현악기
   - [이언 페이스](https://ko.wikipedia.org/wiki/이언_페이스 "wikilink") : [드럼](https://ko.wikipedia.org/wiki/드럼 "wikilink")
 
+## 외부 링크
+
 [분류:하드 록 음반](https://ko.wikipedia.org/wiki/분류:하드_록_음반 "wikilink") [분류:헤비 메탈 음반](https://ko.wikipedia.org/wiki/분류:헤비_메탈_음반 "wikilink") [분류:딥 퍼플의 음반](https://ko.wikipedia.org/wiki/분류:딥_퍼플의_음반 "wikilink") [분류:영국의 음반](https://ko.wikipedia.org/wiki/분류:영국의_음반 "wikilink") [분류:영어 음반](https://ko.wikipedia.org/wiki/분류:영어_음반 "wikilink") [분류:1968년 음반](https://ko.wikipedia.org/wiki/분류:1968년_음반 "wikilink")

@@ -12,13 +12,13 @@
 
   - [한국어](../Page/한국어.md "wikilink")
   - [수메르어](../Page/수메르어.md "wikilink")(추정)
-  - 유럽5대어파([켈트어파](../Page/켈트어파.md "wikilink")와 현[그리스어파](https://ko.wikipedia.org/wiki/그리스어파 "wikilink")포함)를 제외한 나머지 5대[인도유럽어족](https://ko.wikipedia.org/wiki/인도유럽어족 "wikilink")어파, [고대 그리스어와](../Page/고대_그리스어.md "wikilink") [라틴어](../Page/라틴어.md "wikilink")(언어 형태는 굴절어를 보임)
+  - 유럽5대어파([켈트어파](../Page/켈트어파.md "wikilink")와 현 [그리스어파](https://ko.wikipedia.org/wiki/그리스어파 "wikilink")포함)를 제외한 나머지 5대 [인도유럽어족](https://ko.wikipedia.org/wiki/인도유럽어족 "wikilink")어파, [고대 그리스어와](../Page/고대_그리스어.md "wikilink") [라틴어](../Page/라틴어.md "wikilink")(언어 형태는 굴절어를 보임)
   - [나바호어](../Page/나바호어.md "wikilink")처럼 [데네예니세이어족](https://ko.wikipedia.org/wiki/데네예니세이어족 "wikilink")과 [케추아어](https://ko.wikipedia.org/wiki/케추아어 "wikilink") 등 일부 아메리카 원주민 언어들 (추정)
   - 윗글처럼 오세아니아 일부 소수 원주민 언어들
   - [만데어파](../Page/만데어파.md "wikilink")•호텐토트어 같은 서남반아프리카의 일부 원주민 언어와(하지만 만데어파, 호텐토트어는 SVO \> SOV 로 SVO가 더 많이 사용됨)\[1\][소말리어](../Page/소말리어.md "wikilink")
   - 일부 [티베트버마어파](https://ko.wikipedia.org/wiki/티베트버마어파 "wikilink") 언어들(=[중국어파](https://ko.wikipedia.org/wiki/중국어파 "wikilink")와 [한장어족](https://ko.wikipedia.org/wiki/한장어족 "wikilink")은 제외)
-  - [사모예드어파](https://ko.wikipedia.org/wiki/사모예드어파 "wikilink") 언어들(=[핀우그리아어파](https://ko.wikipedia.org/wiki/핀우그리아어파 "wikilink") 제외 [우랄어족](../Page/우랄어족.md "wikilink")
-  - 먼저 생성된 수화\#[동방수어족과](https://ko.wikipedia.org/wiki/일본_수화_어족 "wikilink") 알사이읻 베두인수화
+  - [사모예드어파](https://ko.wikipedia.org/wiki/사모예드어파 "wikilink") 언어들(=[핀우그리아어파](https://ko.wikipedia.org/wiki/핀우그리아어파 "wikilink") 제외 [우랄어족](../Page/우랄어족.md "wikilink"))
+  - 먼저 생성된 수화\#[동방수어족과](https://ko.wikipedia.org/wiki/일본_수화_어족 "wikilink") 알사이드 베두인수화
   - 지중해 휘파람말
 
 ## 같이 보기

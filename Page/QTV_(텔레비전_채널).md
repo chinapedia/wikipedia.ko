@@ -29,7 +29,7 @@
   - 20세기 차트쑈 소년중앙 (진행 : [붐](../Page/붐_\(방송인\).md "wikilink"))
   - 연예반란 - 내 애인을 부탁해 (진행 : [김창렬](https://ko.wikipedia.org/wiki/김창렬 "wikilink"), [김정민](../Page/김정민_\(1989년\).md "wikilink"))
   - 이판삼판 (진행 : [유세윤](../Page/유세윤.md "wikilink"), [유상무](../Page/유상무.md "wikilink"), [장동민](../Page/장동민.md "wikilink"))
-  - 비하인드 (시즌 1 - 2009년 7월 \~ 10월 / 진행 : [윤형빈](https://ko.wikipedia.org/wiki/윤형빈 "wikilink"), 시즌 2 - 2010년 3월 \~ 5월 / 진행 : [조연우](../Page/조연우.md "wikilink"))
+  - 비하인드 (시즌 1 - 2009년 7월 \~ 10월 / 진행 : [윤형빈](https://ko.wikipedia.org/wiki/윤형빈 "wikilink"), 시즌 2 - 2010년 3월 \~ 5월 / 진행 : [조연우](../Page/조연우_\(배우\).md "wikilink"))
   - 바나나 (진행 : [김신영](../Page/김신영.md "wikilink"), [정재용](../Page/정재용.md "wikilink"))
   - [순위 정하는 여자](../Page/순위_정하는_여자.md "wikilink") (진행 : [이휘재](../Page/이휘재.md "wikilink"),[데니안](https://ko.wikipedia.org/wiki/데니안 "wikilink") / 패널 : [이인혜](../Page/이인혜.md "wikilink"),[김새롬](../Page/김새롬.md "wikilink"),[김현숙](https://ko.wikipedia.org/wiki/김현숙_\(배우\) "wikilink"),김혜진,[김정민](../Page/김정민_\(1989년\).md "wikilink"),[차현정](../Page/차현정.md "wikilink"),[에이미](../Page/에이미_\(1982년\).md "wikilink"),[신지](../Page/신지_\(가수\).md "wikilink"))
   - 7번가의 기적 (진행: [신동엽](../Page/신동엽_\(희극인\).md "wikilink") / 패널 : [허준](https://ko.wikipedia.org/wiki/허준_\(1977년\) "wikilink"), [김영철](../Page/김영철_\(희극인\).md "wikilink"), [정주리](../Page/정주리.md "wikilink"), [한지우](https://ko.wikipedia.org/wiki/한지우 "wikilink"), [BTOB](../Page/비투비.md "wikilink")([이민혁](../Page/이민혁_\(가수\).md "wikilink"), [육성재](../Page/육성재.md "wikilink")), [She'z](https://ko.wikipedia.org/wiki/She'z "wikilink")(진아, 태연), [최송현](../Page/최송현.md "wikilink"))

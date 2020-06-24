@@ -365,7 +365,7 @@
 
 **2골**
 
-  - [롤란도 폰세카](https://ko.wikipedia.org/wiki/롤란도_폰세카 "wikilink")
+  - [롤란도 폰세카](../Page/롤란도_폰세카.md "wikilink")
 
   - [로날드 고메스](../Page/로날드_고메스.md "wikilink")
 

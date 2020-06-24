@@ -18,7 +18,7 @@
 
   -
 
-    **우승 (6)**: [1985](https://ko.wikipedia.org/wiki/K리그_1985 "wikilink"), [1990](https://ko.wikipedia.org/wiki/K리그_1990 "wikilink"), [2000](https://ko.wikipedia.org/wiki/K리그_2000 "wikilink"), [2010](https://ko.wikipedia.org/wiki/K리그_2010 "wikilink"), [2012](https://ko.wikipedia.org/wiki/K리그_2012 "wikilink"), [2016](https://ko.wikipedia.org/wiki/K리그_클래식_2016 "wikilink")
+    **우승 (6)**: [1985](https://ko.wikipedia.org/wiki/K리그_1985 "wikilink"), [1990](../Page/K리그_1990.md "wikilink"), [2000](https://ko.wikipedia.org/wiki/K리그_2000 "wikilink"), [2010](https://ko.wikipedia.org/wiki/K리그_2010 "wikilink"), [2012](https://ko.wikipedia.org/wiki/K리그_2012 "wikilink"), [2016](https://ko.wikipedia.org/wiki/K리그_클래식_2016 "wikilink")
 
     **준우승 (5)**: [1986](https://ko.wikipedia.org/wiki/K리그_1986 "wikilink"), [1989](../Page/K리그_1989.md "wikilink"), [1993](../Page/K리그_1993.md "wikilink"), [2001](https://ko.wikipedia.org/wiki/K리그_2001 "wikilink"), [2008](https://ko.wikipedia.org/wiki/K리그_2008 "wikilink")
 
@@ -262,7 +262,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/FC_서울_(럭키금성_황소)_1984–1990_시즌.md" title="wikilink">1990</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/K리그_1990" title="wikilink">1부</a></p></td>
+<td><p><a href="../Page/K리그_1990.md" title="wikilink">1부</a></p></td>
 <td><p>6</p></td>
 <td><p><strong>우승</strong></p></td>
 <td><p>30</p></td>
@@ -4328,7 +4328,7 @@ K리그 사상 최초 시즌 50만 총관중 신기록 수립</p></td>
 <td><ul>
 <li>구단 최초 <a href="https://ko.wikipedia.org/wiki/감독_대행" title="wikilink">감독 대행</a></li>
 <li>1988시즌 <a href="https://ko.wikipedia.org/wiki/감독_대행" title="wikilink">감독 대행</a> 수행 후 1989시즌부터 정식 감독으로 승격</li>
-<li><a href="https://ko.wikipedia.org/wiki/파일:K_League_Classic_Trophy.png" title="wikilink">프레임없음</a><span style="color:GOLD;font-family:'Garamond'"><strong><a href="https://ko.wikipedia.org/wiki/K리그_1990" title="wikilink"><span style="color:GOLD;">1990</a></strong></span> 구단 2번째 <strong><a href="../Page/K리그.md" title="wikilink"><span style="color:GOLD;">K리그 우승</span></a></strong> 감독</li>
+<li><a href="https://ko.wikipedia.org/wiki/파일:K_League_Classic_Trophy.png" title="wikilink">프레임없음</a><span style="color:GOLD;font-family:'Garamond'"><strong><a href="../Page/K리그_1990.md" title="wikilink"><span style="color:GOLD;">1990</a></strong></span> 구단 2번째 <strong><a href="../Page/K리그.md" title="wikilink"><span style="color:GOLD;">K리그 우승</span></a></strong> 감독</li>
 </ul></td>
 </tr>
 <tr class="odd">
@@ -4538,7 +4538,7 @@ K리그 사상 최초 시즌 50만 총관중 신기록 수립</p></td>
 </div></td>
 <td><ul>
 <li>초대 구단주</li>
-<li><a href="https://ko.wikipedia.org/wiki/파일:K_League_Classic_Trophy.png" title="wikilink">프레임없음</a><span style="color:GOLD;font-family:'Garamond'"><strong><a href="https://ko.wikipedia.org/wiki/K리그_1985" title="wikilink"><span style="color:GOLD;">1985</span></a>, <a href="https://ko.wikipedia.org/wiki/K리그_1990" title="wikilink"><span style="color:GOLD;">1990</span></a></strong></span> 구단 최초 <strong><a href="../Page/K리그.md" title="wikilink"><span style="color:GOLD;">K리그</span></a> <span style="color:GOLD;">우승</span></strong> 구단주</li>
+<li><a href="https://ko.wikipedia.org/wiki/파일:K_League_Classic_Trophy.png" title="wikilink">프레임없음</a><span style="color:GOLD;font-family:'Garamond'"><strong><a href="https://ko.wikipedia.org/wiki/K리그_1985" title="wikilink"><span style="color:GOLD;">1985</span></a>, <a href="../Page/K리그_1990.md" title="wikilink"><span style="color:GOLD;">1990</span></a></strong></span> 구단 최초 <strong><a href="../Page/K리그.md" title="wikilink"><span style="color:GOLD;">K리그</span></a> <span style="color:GOLD;">우승</span></strong> 구단주</li>
 </ul></td>
 </tr>
 <tr class="even">

@@ -247,7 +247,7 @@
 <td><p>●</p></td>
 <td><p>▲</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:JR_JK_line_symbol.svg" title="wikilink">15px</a> <a href="../Page/네기시_선.md" title="wikilink">네기시 선</a> (JK 01), <a href="https://ko.wikipedia.org/wiki/파일:JR_JS_line_symbol.svg" title="wikilink">15px</a> <a href="../Page/쇼난_신주쿠_라인.md" title="wikilink">쇼난 신주쿠 라인</a> (JS 09), <a href="https://ko.wikipedia.org/wiki/파일:JR_JO_line_symbol.svg" title="wikilink">15px</a> <a href="../Page/요코스카_선.md" title="wikilink">요코스카 선</a> (JO 09)<br />
-<span style="color:#f00000">■</span> <a href="https://ko.wikipedia.org/wiki/쇼난_모노레일" title="wikilink">쇼난 모노레일</a> <a href="../Page/쇼난_모노레일_에노시마_선.md" title="wikilink">에노시마 선</a> (SMR 1)</p></td>
+<span style="color:#f00000">■</span> <a href="../Page/쇼난_모노레일.md" title="wikilink">쇼난 모노레일</a> <a href="../Page/쇼난_모노레일_에노시마_선.md" title="wikilink">에노시마 선</a> (SMR 1)</p></td>
 <td><p>5.6</p></td>
 <td><p>46.5</p></td>
 <td><p><a href="../Page/가마쿠라시.md" title="wikilink">가마쿠라시</a></p></td>

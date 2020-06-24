@@ -10,25 +10,100 @@
 
 ## 방송 시간
 
-현재 방송시간은 [2016년](../Page/2016년.md "wikilink") [4월 25일부터를](../Page/4월_25일.md "wikilink") 기준으로 한다.
+현재 방송시간은 [2020년](../Page/2020년.md "wikilink") [4월 20일부터를](../Page/4월_20일.md "wikilink") 기준으로 한다.
 
-| 방송 채널                                                                                                                                                        | 방송 기간                                                                                                                                                        | 방송 시간                                                                                       |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------- |
-| [SBS TV](../Page/SBS_TV.md "wikilink")                                                                                                                       | [1991년](../Page/1991년.md "wikilink") [12월 9일](../Page/12월_9일.md "wikilink") \~ [1992년](../Page/1992년.md "wikilink") [11월 28일](../Page/11월_28일.md "wikilink") | [월요일](../Page/월요일.md "wikilink") \~ [토요일](../Page/토요일.md "wikilink") 오전 9시 45분 \~ 10시 (15분) |
-| [1992년](../Page/1992년.md "wikilink") [11월 30일](../Page/11월_30일.md "wikilink") \~ [1996년](../Page/1996년.md "wikilink") [3월 2일](../Page/3월_2일.md "wikilink")   | [월요일](../Page/월요일.md "wikilink") \~ [토요일](../Page/토요일.md "wikilink") 오전 9시 40분 \~ 10시 (20분)                                                                  |                                                                                             |
-| [1996년](../Page/1996년.md "wikilink") [3월 4일](../Page/3월_4일.md "wikilink") \~ [1998년](../Page/1998년.md "wikilink") [1월 2일](../Page/1월_2일.md "wikilink")       | [평일](https://ko.wikipedia.org/wiki/평일 "wikilink") 오전 11시 40분 \~ 낮 12시 (20분)                                                                                  |                                                                                             |
-| [1998년](../Page/1998년.md "wikilink") [1월 5일](../Page/1월_5일.md "wikilink") \~ [2003년](../Page/2003년.md "wikilink") [10월 31일](../Page/10월_31일.md "wikilink")   | [평일](https://ko.wikipedia.org/wiki/평일 "wikilink") 오전 10시 40분 \~ 11시 (20분)                                                                                    |                                                                                             |
-| [2003년](../Page/2003년.md "wikilink") [11월 3일](../Page/11월_3일.md "wikilink") \~ [2005년](../Page/2005년.md "wikilink") [4월 22일](../Page/4월_22일.md "wikilink")   | [평일](https://ko.wikipedia.org/wiki/평일 "wikilink") 오전 10시 40분 \~ 11시 10분 (30분)                                                                                |                                                                                             |
-| [2005년](../Page/2005년.md "wikilink") [4월 25일](../Page/4월_25일.md "wikilink") \~ [2006년](../Page/2006년.md "wikilink") [3월 24일](../Page/3월_24일.md "wikilink")   | [평일](https://ko.wikipedia.org/wiki/평일 "wikilink") 오전 10시 40분 \~ 11시 30분 (50분)                                                                                |                                                                                             |
-| [2006년](../Page/2006년.md "wikilink") [3월 27일](../Page/3월_27일.md "wikilink") \~ [2008년](../Page/2008년.md "wikilink") [1월 11일](../Page/1월_11일.md "wikilink")   | [평일](https://ko.wikipedia.org/wiki/평일 "wikilink") 오전 10시 40분 \~ 11시 55분 (1시간 15분)                                                                            |                                                                                             |
-| [2008년](../Page/2008년.md "wikilink") [1월 14일](../Page/1월_14일.md "wikilink") \~ [2008년](../Page/2008년.md "wikilink") [11월 28일](../Page/11월_28일.md "wikilink") | [평일](https://ko.wikipedia.org/wiki/평일 "wikilink") 오전 10시 40분 \~ 낮 12시 25분 (1시간 45분)                                                                          |                                                                                             |
-| [2008년](../Page/2008년.md "wikilink") [12월 1일](../Page/12월_1일.md "wikilink") \~ [2009년](../Page/2009년.md "wikilink") [4월 24일](../Page/4월_24일.md "wikilink")   | [평일](https://ko.wikipedia.org/wiki/평일 "wikilink") 낮 12시 \~ 12시 30분 (30분)                                                                                     |                                                                                             |
-| [2009년](../Page/2009년.md "wikilink") [10월 5일](../Page/10월_5일.md "wikilink") \~ [2014년](../Page/2014년.md "wikilink") [10월 24일](../Page/10월_24일.md "wikilink") |                                                                                                                                                              |                                                                                             |
-| [2009년](../Page/2009년.md "wikilink") [4월 27일](../Page/4월_27일.md "wikilink") \~ [2009년](../Page/2009년.md "wikilink") [10월 1일](../Page/10월_1일.md "wikilink")   | [평일](https://ko.wikipedia.org/wiki/평일 "wikilink") 낮 12시 \~ 오후 1시 (1시간)                                                                                       |                                                                                             |
-| [2014년](../Page/2014년.md "wikilink") [10월 27일](../Page/10월_27일.md "wikilink") \~ [2015년](../Page/2015년.md "wikilink") [7월 3일](../Page/7월_3일.md "wikilink")   | [평일](https://ko.wikipedia.org/wiki/평일 "wikilink") 낮 12시 \~ 12시 45분 (45분)                                                                                     |                                                                                             |
-| [2015년](../Page/2015년.md "wikilink") [7월 6일](../Page/7월_6일.md "wikilink") \~ [2015년](../Page/2015년.md "wikilink") [11월 20일](../Page/11월_20일.md "wikilink")   | [평일](https://ko.wikipedia.org/wiki/평일 "wikilink") 낮 12시 \~ 12시 50분 (50분)                                                                                     |                                                                                             |
-| [2016년](../Page/2016년.md "wikilink") [4월 25일](../Page/4월_25일.md "wikilink") \~ **현재**                                                                        |                                                                                                                                                              |                                                                                             |
-| [2015년](../Page/2015년.md "wikilink") [11월 23일](../Page/11월_23일.md "wikilink") \~ [2016년](../Page/2016년.md "wikilink") [4월 22일](../Page/4월_22일.md "wikilink") | [평일](https://ko.wikipedia.org/wiki/평일 "wikilink") 오전 11시 50분 \~ 낮 12시 45분 (55분)                                                                              |                                                                                             |
+<table>
+<thead>
+<tr class="header">
+<th><p>방송 채널</p></th>
+<th><p>방송 기간</p></th>
+<th><p>방송 시간</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><a href="../Page/SBS_TV.md" title="wikilink">SBS TV</a></p></td>
+<td><p><a href="../Page/1991년.md" title="wikilink">1991년</a> <a href="../Page/12월_9일.md" title="wikilink">12월 9일</a> ~ <a href="../Page/1992년.md" title="wikilink">1992년</a> <a href="../Page/11월_28일.md" title="wikilink">11월 28일</a></p></td>
+<td><p><a href="../Page/월요일.md" title="wikilink">월요일</a> ~ <a href="../Page/토요일.md" title="wikilink">토요일</a> 오전 9시 45분 ~ 10시 (15분)</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/1992년.md" title="wikilink">1992년</a> <a href="../Page/11월_30일.md" title="wikilink">11월 30일</a> ~ <a href="../Page/1996년.md" title="wikilink">1996년</a> <a href="../Page/3월_2일.md" title="wikilink">3월 2일</a></p></td>
+<td><p><a href="../Page/월요일.md" title="wikilink">월요일</a> ~ <a href="../Page/토요일.md" title="wikilink">토요일</a> 오전 9시 40분 ~ 10시 (20분)</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/1996년.md" title="wikilink">1996년</a> <a href="../Page/3월_4일.md" title="wikilink">3월 4일</a> ~ <a href="../Page/1998년.md" title="wikilink">1998년</a> <a href="../Page/1월_2일.md" title="wikilink">1월 2일</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/평일" title="wikilink">평일</a> 오전 11시 40분 ~ 낮 12시 (20분)</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/1998년.md" title="wikilink">1998년</a> <a href="../Page/1월_5일.md" title="wikilink">1월 5일</a> ~ <a href="../Page/2003년.md" title="wikilink">2003년</a> <a href="../Page/10월_31일.md" title="wikilink">10월 31일</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/평일" title="wikilink">평일</a> 오전 10시 40분 ~ 11시 (20분)</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/2003년.md" title="wikilink">2003년</a> <a href="../Page/11월_3일.md" title="wikilink">11월 3일</a> ~ <a href="../Page/2005년.md" title="wikilink">2005년</a> <a href="../Page/4월_22일.md" title="wikilink">4월 22일</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/평일" title="wikilink">평일</a> 오전 10시 40분 ~ 11시 10분 (30분)</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/2005년.md" title="wikilink">2005년</a> <a href="../Page/4월_25일.md" title="wikilink">4월 25일</a> ~ <a href="../Page/2006년.md" title="wikilink">2006년</a> <a href="../Page/3월_24일.md" title="wikilink">3월 24일</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/평일" title="wikilink">평일</a> 오전 10시 40분 ~ 11시 30분 (50분)</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/2006년.md" title="wikilink">2006년</a> <a href="../Page/3월_27일.md" title="wikilink">3월 27일</a> ~ <a href="../Page/2008년.md" title="wikilink">2008년</a> <a href="../Page/1월_11일.md" title="wikilink">1월 11일</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/평일" title="wikilink">평일</a> 오전 10시 40분 ~ 11시 55분 (1시간 15분)</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/2008년.md" title="wikilink">2008년</a> <a href="../Page/1월_14일.md" title="wikilink">1월 14일</a> ~ <a href="../Page/2008년.md" title="wikilink">2008년</a> <a href="../Page/11월_28일.md" title="wikilink">11월 28일</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/평일" title="wikilink">평일</a> 오전 10시 40분 ~ 낮 12시 25분 (1시간 45분)</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/2008년.md" title="wikilink">2008년</a> <a href="../Page/12월_1일.md" title="wikilink">12월 1일</a> ~ <a href="../Page/2009년.md" title="wikilink">2009년</a> <a href="../Page/4월_24일.md" title="wikilink">4월 24일</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/평일" title="wikilink">평일</a> 낮 12시 ~ 12시 30분 (30분)</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/2009년.md" title="wikilink">2009년</a> <a href="../Page/10월_5일.md" title="wikilink">10월 5일</a> ~ <a href="../Page/2014년.md" title="wikilink">2014년</a> <a href="../Page/10월_24일.md" title="wikilink">10월 24일</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/2009년.md" title="wikilink">2009년</a> <a href="../Page/4월_27일.md" title="wikilink">4월 27일</a> ~ <a href="../Page/2009년.md" title="wikilink">2009년</a> <a href="../Page/10월_1일.md" title="wikilink">10월 1일</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/평일" title="wikilink">평일</a> 낮 12시 ~ 오후 1시 (1시간)</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/2014년.md" title="wikilink">2014년</a> <a href="../Page/10월_27일.md" title="wikilink">10월 27일</a> ~ <a href="../Page/2015년.md" title="wikilink">2015년</a> <a href="../Page/7월_3일.md" title="wikilink">7월 3일</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/평일" title="wikilink">평일</a> 낮 12시 ~ 12시 45분 (45분)</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/2015년.md" title="wikilink">2015년</a> <a href="../Page/7월_6일.md" title="wikilink">7월 6일</a> ~ <a href="../Page/2015년.md" title="wikilink">2015년</a> <a href="../Page/11월_20일.md" title="wikilink">11월 20일</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/평일" title="wikilink">평일</a> 낮 12시 ~ 12시 50분 (50분)</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/2016년.md" title="wikilink">2016년</a> <a href="../Page/4월_25일.md" title="wikilink">4월 25일</a> ~ <a href="../Page/2020년.md" title="wikilink">2020년</a> <a href="../Page/4월_17일.md" title="wikilink">4월 17일</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/2015년.md" title="wikilink">2015년</a> <a href="../Page/11월_23일.md" title="wikilink">11월 23일</a> ~ <a href="../Page/2016년.md" title="wikilink">2016년</a> <a href="../Page/4월_22일.md" title="wikilink">4월 22일</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/평일" title="wikilink">평일</a> 오전 11시 50분 ~ 낮 12시 45분 (55분)</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/2020년.md" title="wikilink">2020년</a> <a href="../Page/4월_20일.md" title="wikilink">4월 20일</a> ~ <strong>현재</strong></p></td>
+<td><p><a href="../Page/월요일.md" title="wikilink">월요일</a> ~ <a href="../Page/목요일.md" title="wikilink">목요일</a> 낮 12시 ~ 12시 50분 (50분)<br />
+<a href="../Page/금요일.md" title="wikilink">금요일</a> 낮 12시 ~ 12시 40분 (40분)</p></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 ※ [공휴일에는](../Page/대한민국의_공휴일.md "wikilink") 10분간 **SBS 뉴스**로 대체 편성된다.
 
@@ -41,19 +116,19 @@
 
 #### 남성
 
-| 대수  | 진행자                                                        | 진행 기간                         | 비고         |
-| --- | ---------------------------------------------------------- | ----------------------------- | ---------- |
-| 1대  | [신우선](https://ko.wikipedia.org/wiki/신우선 "wikilink") 前 기자   | 1994년 1월 31일 \~ 1996년 7월 19일  |            |
-| 2대  | [신용철](https://ko.wikipedia.org/wiki/신용철 "wikilink") 아나운서팀장 | 1996년 7월 22일 \~ 1998년 4월 3일   |            |
-| 3대  | [김태욱](../Page/김태욱_\(아나운서\).md "wikilink") 아나운서팀 국장         | 1998년 4월 6일 \~ 2002년 11월 1일   |            |
-| 4대  | [김정일](../Page/김정일_\(아나운서\).md "wikilink") 아나운서             | 2002년 11월 4일 \~ 2005년 4월 22일  |            |
-| 5대  | [김태욱](../Page/김태욱_\(아나운서\).md "wikilink") 아나운서팀 국장         | 2005년 4월 25일 \~ 2008년 11월 28일 | \[1\]\[2\] |
-| 6대  | [박광범](../Page/박광범.md "wikilink") 아나운서                      | 2008년 1월 14일 \~ 2009년 4월 24일  | \[3\]      |
-| 7대  | [신용철](https://ko.wikipedia.org/wiki/신용철 "wikilink") 아나운서팀장 | 2009년 4월 27일 \~ 2010년 3월 8일   | \[4\]      |
-| 8대  | [박광범](../Page/박광범.md "wikilink") 아나운서                      | 2010년 3월 9일 \~ 2010년 12월 31일  | \[5\]      |
-| 9대  | [김정일](../Page/김정일_\(아나운서\).md "wikilink") 아나운서             | 2011년 1월 3일 \~ 2011년 11월 4일   | \[6\]      |
-| 10대 | [박광범](../Page/박광범.md "wikilink") 아나운서                      | 2011년 11월 7일 \~ 2016년 12월 30일 | \[7\]\[8\] |
-| 11대 | [박상도](../Page/박상도.md "wikilink") 아나운서                      | 2017년 1월 2일 \~ **현재**         | \[9\]      |
+| 대수  | 진행자                                                      | 진행 기간                         | 비고         |
+| --- | -------------------------------------------------------- | ----------------------------- | ---------- |
+| 1대  | [신우선](https://ko.wikipedia.org/wiki/신우선 "wikilink") 前 기자 | 1994년 1월 31일 \~ 1996년 7월 19일  |            |
+| 2대  | [신용철](../Page/신용철.md "wikilink") 아나운서팀장                  | 1996년 7월 22일 \~ 1998년 4월 3일   |            |
+| 3대  | [김태욱](../Page/김태욱_\(아나운서\).md "wikilink") 아나운서팀 국장       | 1998년 4월 6일 \~ 2002년 11월 1일   |            |
+| 4대  | [김정일](../Page/김정일_\(아나운서\).md "wikilink") 아나운서           | 2002년 11월 4일 \~ 2005년 4월 22일  |            |
+| 5대  | [김태욱](../Page/김태욱_\(아나운서\).md "wikilink") 아나운서팀 국장       | 2005년 4월 25일 \~ 2008년 11월 28일 | \[1\]\[2\] |
+| 6대  | [박광범](../Page/박광범.md "wikilink") 아나운서                    | 2008년 1월 14일 \~ 2009년 4월 24일  | \[3\]      |
+| 7대  | [신용철](../Page/신용철.md "wikilink") 아나운서팀장                  | 2009년 4월 27일 \~ 2010년 3월 8일   | \[4\]      |
+| 8대  | [박광범](../Page/박광범.md "wikilink") 아나운서                    | 2010년 3월 9일 \~ 2010년 12월 31일  | \[5\]      |
+| 9대  | [김정일](../Page/김정일_\(아나운서\).md "wikilink") 아나운서           | 2011년 1월 3일 \~ 2011년 11월 4일   | \[6\]      |
+| 10대 | [박광범](../Page/박광범.md "wikilink") 아나운서                    | 2011년 11월 7일 \~ 2016년 12월 30일 | \[7\]\[8\] |
+| 11대 | [박상도](../Page/박상도.md "wikilink") 아나운서                    | 2017년 1월 2일 \~ **현재**         | \[9\]      |
 
 #### 여성
 
@@ -188,7 +263,7 @@
 1.  [김태욱](../Page/김태욱_\(아나운서\).md "wikilink") 아나운서팀 국장은 3년 만에 SBS 뉴스와 생활경제 재진행.
 2.  [김태욱](../Page/김태욱_\(아나운서\).md "wikilink") 아나운서팀 국장과 [유영미](../Page/유영미.md "wikilink") 아나운서는 2008년 1월 14일부터 2008년 11월 28일까지 SBS 뉴스와 생활경제 1부를 진행했다.
 3.  [박광범](../Page/박광범.md "wikilink") 아나운서와 [정미선](../Page/정미선.md "wikilink") 아나운서(現. 평일 [모닝와이드](../Page/모닝와이드.md "wikilink") 1, 2부 앵커)는 2008년 1월 14일부터 2008년 11월 28일까지 SBS 뉴스와 생활경제 2부를 진행했다.
-4.  [신용철](https://ko.wikipedia.org/wiki/신용철 "wikilink") 아나운서팀장(現. [SBS 낮 종합뉴스](../Page/SBS_낮_종합뉴스.md "wikilink") 앵커)은 SBS 뉴스라인 진행한 지 11년 만에 SBS 뉴스와 생활경제 재진행.
+4.  [신용철](../Page/신용철.md "wikilink") 아나운서팀장(現. [SBS 낮 종합뉴스](../Page/SBS_낮_종합뉴스.md "wikilink") 앵커)은 SBS 뉴스라인 진행한 지 11년 만에 SBS 뉴스와 생활경제 재진행.
 5.  [박광범](../Page/박광범.md "wikilink") 아나운서는 SBS 뉴스와 생활경제 진행한 지 1년 만에 SBS 12 뉴스 재진행.
 6.  [김정일](../Page/김정일_\(아나운서\).md "wikilink") 아나운서는 SBS 뉴스와 생활경제 진행한 지 6년 만에 SBS 12 뉴스 재진행.
 7.  [박광범](../Page/박광범.md "wikilink") 아나운서는 1년 만에 SBS 12 뉴스 재진행.

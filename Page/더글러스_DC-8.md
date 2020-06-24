@@ -35,4 +35,4 @@
 
 ## 외부 링크
 
-[분류:여객기](https://ko.wikipedia.org/wiki/분류:여객기 "wikilink") [분류:상업용 항공기](https://ko.wikipedia.org/wiki/분류:상업용_항공기 "wikilink") [DC-8](https://ko.wikipedia.org/wiki/분류:더글러스_항공기 "wikilink") [분류:1958년 첫 비행한 항공기](https://ko.wikipedia.org/wiki/분류:1958년_첫_비행한_항공기 "wikilink") [분류:사발 제트기](https://ko.wikipedia.org/wiki/분류:사발_제트기 "wikilink")
+[분류:여객기](https://ko.wikipedia.org/wiki/분류:여객기 "wikilink") [분류:상업용 항공기](https://ko.wikipedia.org/wiki/분류:상업용_항공기 "wikilink") [DC-8](https://ko.wikipedia.org/wiki/분류:더글러스_항공기 "wikilink") [분류:1958년 첫 비행한 항공기](https://ko.wikipedia.org/wiki/분류:1958년_첫_비행한_항공기 "wikilink") [분류:사발 제트기](https://ko.wikipedia.org/wiki/분류:사발_제트기 "wikilink") [분류:저익기](https://ko.wikipedia.org/wiki/분류:저익기 "wikilink")

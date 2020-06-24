@@ -24,4 +24,4 @@
 
   - [더 블루](https://web.archive.org/web/20120101095902/http://theblue.smtown.com/) - 공식 홈페이지
 
-[분류:2인조 음악 그룹](https://ko.wikipedia.org/wiki/분류:2인조_음악_그룹 "wikilink") [분류:남성 음악 그룹](https://ko.wikipedia.org/wiki/분류:남성_음악_그룹 "wikilink") [분류:대한민국의 팝 음악 그룹](https://ko.wikipedia.org/wiki/분류:대한민국의_팝_음악_그룹 "wikilink") [분류:1992년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:1992년_결성된_음악_그룹 "wikilink") [분류:1992년 데뷔](https://ko.wikipedia.org/wiki/분류:1992년_데뷔 "wikilink") [분류:해체한 음악 그룹](https://ko.wikipedia.org/wiki/분류:해체한_음악_그룹 "wikilink") [분류:SM 엔터테인먼트 소속](https://ko.wikipedia.org/wiki/분류:SM_엔터테인먼트_소속 "wikilink") [분류:2014년 해체된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2014년_해체된_음악_그룹 "wikilink")
+[분류:남성 듀오](https://ko.wikipedia.org/wiki/분류:남성_듀오 "wikilink") [분류:대한민국의 팝 음악 그룹](https://ko.wikipedia.org/wiki/분류:대한민국의_팝_음악_그룹 "wikilink") [분류:1992년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:1992년_결성된_음악_그룹 "wikilink") [분류:SM 엔터테인먼트 소속](https://ko.wikipedia.org/wiki/분류:SM_엔터테인먼트_소속 "wikilink") [분류:2014년 해체된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2014년_해체된_음악_그룹 "wikilink")

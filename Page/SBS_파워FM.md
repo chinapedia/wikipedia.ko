@@ -52,7 +52,7 @@ SBS 파워FM의 첫 방송은 [1996년](../Page/1996년.md "wikilink") [11월 14
 
 ## 방송 권역 (SBS 파워FM 수도권 기준)
 
-  - [서울특별시](../Page/서울특별시.md "wikilink"), [인천광역시](https://ko.wikipedia.org/wiki/인천광역시 "wikilink"), [경기도](https://ko.wikipedia.org/wiki/경기도 "wikilink") 전 지역, [충청남도](https://ko.wikipedia.org/wiki/충청남도 "wikilink") 북부, [충청북도](https://ko.wikipedia.org/wiki/충청북도 "wikilink") 북부, [강원도](https://ko.wikipedia.org/wiki/강원도_\(남\) "wikilink") [영서 일부 지역](https://ko.wikipedia.org/wiki/영서_지방 "wikilink")
+  - [서울특별시](../Page/서울특별시.md "wikilink"), [인천광역시](https://ko.wikipedia.org/wiki/인천광역시 "wikilink"), [경기도](https://ko.wikipedia.org/wiki/경기도 "wikilink") 전 지역, [충청남도](https://ko.wikipedia.org/wiki/충청남도 "wikilink") 북부\[1\], [충청북도](https://ko.wikipedia.org/wiki/충청북도 "wikilink") 북부\[2\], [강원도](https://ko.wikipedia.org/wiki/강원도_\(남\) "wikilink") [영서 일부 지역](https://ko.wikipedia.org/wiki/영서_지방 "wikilink")\[3\]
 
 ## 방송 송출 시설망
 
@@ -387,7 +387,7 @@ SBS 파워FM의 첫 방송은 [1996년](../Page/1996년.md "wikilink") [11월 14
 
 ## 방송 프로그램
 
-*' 2020년 1월 1일 기준\[1\]*'
+*' 2020년 6월 2일 기준\[4\]*'
 
 <table>
 <thead>
@@ -446,7 +446,7 @@ KNN 웰빙라이프)</p></td>
 </tr>
 <tr class="even">
 <td><p>16:00</p></td>
-<td><p><a href="../Page/붐붐파워.md" title="wikilink">붐붐파워</a></p></td>
+<td><p><a href="../Page/붐붐파워.md" title="wikilink">붐붐파워</a> (<a href="../Page/SBS_러브FM.md" title="wikilink">SBS 러브FM</a> 동시송출)</p></td>
 <td><p>×<br />
 (노래하나 얘기둘,<br />
 KNN 웰빙라이프)</p></td>
@@ -461,12 +461,12 @@ KNN 웰빙라이프)</p></td>
 <tr class="even">
 <td><p>20:00</p></td>
 <td><p><a href="../Page/영스트리트_(라디오_프로그램).md" title="wikilink">이준의 영스트리트</a></p></td>
-<td><p>△ (장원일의 음악본색) [2]</p></td>
+<td><p>△ (장원일의 음악본색) [5]</p></td>
 </tr>
 <tr class="odd">
 <td><p>22:00</p></td>
 <td><p><a href="../Page/배성재의_텐.md" title="wikilink">배성재의 텐</a></p></td>
-<td><p>X (장원일의 음악본색)</p></td>
+<td><p>O</p></td>
 </tr>
 <tr class="even">
 <td><p>23:00</p></td>
@@ -513,23 +513,21 @@ KNN 웰빙라이프)</p></td>
   - [기아자동차](../Page/기아자동차.md "wikilink")
   - [르노삼성자동차](../Page/르노삼성자동차.md "wikilink")
 
+### 정각 시보(고릴라용)
+
+  - 하나온 비즈마켓
+  - 눔 다이어트
+  - 메리츠화재
+  - [EBS](https://ko.wikipedia.org/wiki/EBS "wikilink")중학 프리미엄
+  - 안나올츠 폼클렌징
+  - 돌아온 방탄꼭지
+
 ### 30분 시보
 
   - [ADT캡스](https://ko.wikipedia.org/wiki/ADT캡스 "wikilink")
   - [박문각](../Page/박문각.md "wikilink")
 
-## 인터넷 라디오 고릴라 시보광고
-
-### 정각 시보
-
-  - 하나온 비즈마켓
-  - 눔 다이어트
-  - 메리츠화재
-  - [EBS](https://ko.wikipedia.org/wiki/EBS "wikilink")중학 영어
-  - 안나올츠 폼클렌징
-  - 방탄꼭지
-
-### 30분 시보
+### 30분 시보(고릴라용)
 
   - 메리츠화재
 
@@ -651,14 +649,10 @@ KNN 웰빙라이프)</p></td>
 
 ## 같이 보기
 
-  - [KBS 제1라디오](../Page/KBS_제1라디오.md "wikilink")
-  - [KBS 제2라디오](../Page/KBS_제2라디오.md "wikilink")
-  - [EBS FM](../Page/EBS_FM.md "wikilink")
-  - [MBC FM4U](../Page/MBC_FM4U.md "wikilink")
-  - [CBS 음악FM](../Page/CBS_음악FM.md "wikilink")
-  - [TBS FM](../Page/TBS_\(대한민국의_방송사\).md "wikilink")
-  - [EBS 1TV](../Page/EBS_1TV.md "wikilink")
-  - [극동방송](../Page/극동방송.md "wikilink")
+  - [MBC 표준FM](../Page/MBC_표준FM.md "wikilink")
+  - [tbs eFM](https://ko.wikipedia.org/wiki/tbs_eFM "wikilink")
+  - [SBS TV](../Page/SBS_TV.md "wikilink")
+  - [채널A](../Page/채널A.md "wikilink")
 
 ## 외부 링크
 
@@ -670,5 +664,8 @@ KNN 웰빙라이프)</p></td>
   -
 [분류:FM 라디오 방송](https://ko.wikipedia.org/wiki/분류:FM_라디오_방송 "wikilink") [파워FM](https://ko.wikipedia.org/wiki/분류:SBS의_라디오_네트워크 "wikilink") [분류:1996년 설립된 라디오 방송국](https://ko.wikipedia.org/wiki/분류:1996년_설립된_라디오_방송국 "wikilink")
 
-1.  '○' 표시 기호는 동시 네트워크로 일제히 송출된다.
-2.  프로야구 롯데 경기 때는 결방.
+1.  충청남도 [천안시](../Page/천안시.md "wikilink"), [당진군](https://ko.wikipedia.org/wiki/당진군 "wikilink"), [예산군](../Page/예산군.md "wikilink"), [홍성군](../Page/홍성군.md "wikilink") 등지에서 잡음 없이 청취 가능하다. 하지만 [논산시](../Page/논산시.md "wikilink")의 경우, 카라디오에 한해 들을 수 있다. 단, [금산군](../Page/금산군.md "wikilink")은 [전주시](https://ko.wikipedia.org/wiki/전주시 "wikilink") 방송국과 혼선이 돼 청취가 불가능하다.
+2.  [진천군](../Page/진천군.md "wikilink"), [음성군](../Page/음성군.md "wikilink"), [충주시](https://ko.wikipedia.org/wiki/충주시 "wikilink")에서 청취 가능하다.
+3.  원주시 [반곡관설동](../Page/반곡관설동.md "wikilink") 혁신도시 일대에서만 들을 수 있다. [단계동](../Page/단계동.md "wikilink"), [개운동](https://ko.wikipedia.org/wiki/개운동 "wikilink")에서는 전혀 잡히지 않는다. 다만, [문막읍](../Page/문막읍.md "wikilink")에서는 카라디오로만 약간이나마 들을 수 있다.
+4.  '○' 표시 기호는 동시 네트워크로 일제히 송출된다.
+5.  프로야구 롯데 경기 때는 결방.

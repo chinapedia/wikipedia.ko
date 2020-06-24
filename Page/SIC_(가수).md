@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [SIC \(가수\)](https://ko.wikipedia.org/wiki/SIC_\(가수\)).
 
 
-**SIC**( [1982년](../Page/1982년.md "wikilink") [12월 7일](../Page/12월_7일.md "wikilink") \~ )는 [대한민국](../Page/대한민국.md "wikilink")의 [가수](https://ko.wikipedia.org/wiki/가수 "wikilink"), [배우](../Page/배우.md "wikilink")이다.
+**SIC**(, [1982년](../Page/1982년.md "wikilink") [12월 7일](../Page/12월_7일.md "wikilink") \~ )는 [대한민국](../Page/대한민국.md "wikilink")의 [가수](https://ko.wikipedia.org/wiki/가수 "wikilink"), [배우](../Page/배우.md "wikilink")이다.
 
 ## 학력
 
@@ -35,10 +35,11 @@
 | 2017 | SBS | [귓속말](../Page/귓속말_\(드라마\).md "wikilink")                      | 행동대장      |    |
 | 2019 | SBS | [열혈사제](../Page/열혈사제.md "wikilink")                            | 장룡        |    |
 | 2020 | OCN | [본 대로 말하라](https://ko.wikipedia.org/wiki/본_대로_말하라 "wikilink") | 강동식 / 김요한 |    |
+| 2020 | SBS | [편의점 샛별이](https://ko.wikipedia.org/wiki/편의점_샛별이 "wikilink")   | 달식        |    |
 
 ### 영화
 
-| 연도   | 제목                                                                    | 역활      | 비고 |
+| 연도   | 제목                                                                    | 역할      | 비고 |
 | ---- | --------------------------------------------------------------------- | ------- | -- |
 | 2016 | [아와어(AHWAER)](https://ko.wikipedia.org/wiki/아와어\(AHWAER\) "wikilink") | 주연      |    |
 | 2017 | [미행](https://ko.wikipedia.org/wiki/미행 "wikilink")                     | 감독      |    |
@@ -53,7 +54,7 @@
 
 ### 광고
 
-  - 2006 [2006 S/S서울 컬렉션 미치코 코시노 패션쇼 모델](https://ko.wikipedia.org/wiki/2006_S/S서울_컬렉션_미치코_코시노_패션쇼_모델 "wikilink")
+  - 2006 [미치코런던](https://ko.wikipedia.org/wiki/미치코런던 "wikilink") 학생복
   - 2019 [여기어때](../Page/여기어때.md "wikilink")
   - 2019 [맘스터치](../Page/맘스터치.md "wikilink")
   - 2020 [캐롯손해보험](https://ko.wikipedia.org/wiki/캐롯손해보험 "wikilink")
@@ -117,6 +118,6 @@
 
 <references/>
 
-[분류:1982년 태어남](https://ko.wikipedia.org/wiki/분류:1982년_태어남 "wikilink") [분류:살아있는 사람](https://ko.wikipedia.org/wiki/분류:살아있는_사람 "wikilink") [분류:대한민국의 남자 가수](https://ko.wikipedia.org/wiki/분류:대한민국의_남자_가수 "wikilink") [분류:2002년 데뷔](https://ko.wikipedia.org/wiki/분류:2002년_데뷔 "wikilink") [분류:충청남도 출신 가수](https://ko.wikipedia.org/wiki/분류:충청남도_출신_가수 "wikilink") [분류:대한민국의 댄스 음악가](https://ko.wikipedia.org/wiki/분류:대한민국의_댄스_음악가 "wikilink") [분류:대한민국의 작사가](https://ko.wikipedia.org/wiki/분류:대한민국의_작사가 "wikilink") [분류:대한민국의 남자 뮤지컬 배우](https://ko.wikipedia.org/wiki/분류:대한민국의_남자_뮤지컬_배우 "wikilink") [분류:대한민국의 남자 텔레비전 배우](https://ko.wikipedia.org/wiki/분류:대한민국의_남자_텔레비전_배우 "wikilink") [분류:대한민국의 팝 가수](https://ko.wikipedia.org/wiki/분류:대한민국의_팝_가수 "wikilink") [분류:전남과학대학교 동문](https://ko.wikipedia.org/wiki/분류:전남과학대학교_동문 "wikilink") [분류:한국방송통신대학교 동문](https://ko.wikipedia.org/wiki/분류:한국방송통신대학교_동문 "wikilink") [분류:아산시 출신](https://ko.wikipedia.org/wiki/분류:아산시_출신 "wikilink")
+[분류:1982년 태어남](https://ko.wikipedia.org/wiki/분류:1982년_태어남 "wikilink") [분류:살아있는 사람](https://ko.wikipedia.org/wiki/분류:살아있는_사람 "wikilink") [분류:대한민국의 남자 가수](https://ko.wikipedia.org/wiki/분류:대한민국의_남자_가수 "wikilink") [분류:충청남도 출신 가수](https://ko.wikipedia.org/wiki/분류:충청남도_출신_가수 "wikilink") [분류:대한민국의 댄스 음악가](https://ko.wikipedia.org/wiki/분류:대한민국의_댄스_음악가 "wikilink") [분류:대한민국의 작사가](https://ko.wikipedia.org/wiki/분류:대한민국의_작사가 "wikilink") [분류:대한민국의 남자 뮤지컬 배우](https://ko.wikipedia.org/wiki/분류:대한민국의_남자_뮤지컬_배우 "wikilink") [분류:대한민국의 남자 텔레비전 배우](https://ko.wikipedia.org/wiki/분류:대한민국의_남자_텔레비전_배우 "wikilink") [분류:대한민국의 팝 가수](https://ko.wikipedia.org/wiki/분류:대한민국의_팝_가수 "wikilink") [분류:전남과학대학교 동문](https://ko.wikipedia.org/wiki/분류:전남과학대학교_동문 "wikilink") [분류:한국방송통신대학교 동문](https://ko.wikipedia.org/wiki/분류:한국방송통신대학교_동문 "wikilink") [분류:아산시 출신](https://ko.wikipedia.org/wiki/분류:아산시_출신 "wikilink")
 
 1.

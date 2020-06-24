@@ -626,7 +626,7 @@
 </tr>
 <tr class="even">
 <td><p>58(56)</p></td>
-<td><p>"<a href="https://ko.wikipedia.org/wiki/서스테이너블" title="wikilink">서스테이너블</a>" </p></td>
+<td><p>"<a href="../Page/서스테이너블.md" title="wikilink">서스테이너블</a>" </p></td>
 <td><p>2019년 <a href="../Page/9월_18일.md" title="wikilink">9월 18일</a></p></td>
 <td></td>
 <td><p>1</p></td>

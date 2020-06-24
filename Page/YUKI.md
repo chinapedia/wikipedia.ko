@@ -5,7 +5,7 @@
 
 ## 약력
 
-[홋카이도](../Page/홋카이도.md "wikilink") [하코다테 시](https://ko.wikipedia.org/wiki/하코다테_시 "wikilink") 출생. 모와 료코사이에 태어나, 언니와 남동생 5인 가족안에서 성장했다. 사립 이아이() 여고를 졸업, 하코다테 오오타니() [전문대학](../Page/전문대학.md "wikilink")을 졸업하였다.
+[홋카이도](../Page/홋카이도.md "wikilink") [하코다테시](../Page/하코다테시.md "wikilink") 출생. 모와 료코사이에 태어나, 언니와 남동생 5인 가족안에서 성장했다. 사립 이아이() 여고를 졸업, 하코다테 오오타니() [전문대학](../Page/전문대학.md "wikilink")을 졸업하였다.
 
 1992년 영화 《언젠가 반짝일 날》 촬영을 위해 하코다테를 찾았던 요시모토 온다와 만난 것이 계기가 되어 [JUDY AND MARY를](../Page/JUDY_AND_MARY.md "wikilink") 결성했다. 1996년 《주근깨()》가 오리콘 차트 첫 등장 1위를 기록했다. 1999년 [JUDY AND MARY](../Page/JUDY_AND_MARY.md "wikilink") 활동을 잠시 중단하고 NiNa, Chara + YUKI를 결성하여 활동했다. 2000년, [JUDY AND MARY](../Page/JUDY_AND_MARY.md "wikilink") 활동을 재개 하였고, 2001년 3월 8일 해산했다. 같은 해 10월에는 Mean Machine에서 드럼을 담당했다.
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [T세포](https://ko.wikipedia.org/wiki/T세포).
 
 
-**T세포**(T細胞, ) 또는 **T림프구**()는 항원 특이적인 [적응 면역을](https://ko.wikipedia.org/wiki/적응_면역 "wikilink") 주관하는 [림프구](https://ko.wikipedia.org/wiki/림프구 "wikilink")의 하나이다. [가슴샘](../Page/가슴샘.md "wikilink")(thymus)에서 성숙되기 때문에 첫글자를 따서 T세포라는 이름이 붙었다. 전체 림프구 중 약 4분의 3이 T세포이다.\[1\]
+**T세포**(T細胞, ) 또는 **T림프구**()는 항원 특이적인 [적응 면역을](https://ko.wikipedia.org/wiki/적응_면역 "wikilink") 주관하는 [림프구](../Page/림프구.md "wikilink")의 하나이다. [가슴샘](../Page/가슴샘.md "wikilink")(thymus)에서 성숙되기 때문에 첫글자를 따서 T세포라는 이름이 붙었다. 전체 림프구 중 약 4분의 3이 T세포이다.\[1\]
 
 ## 종류
 

@@ -48,7 +48,7 @@
   - [TS/TR](http://www.3gpp.org/ftp/specs/html-info/status-report.htm)
   - [규격 번호 체계](http://www.3gpp.org/Specification-Numbering)
 
-[분류:이동 통신 표준](https://ko.wikipedia.org/wiki/분류:이동_통신_표준 "wikilink")
+[분류:이동 통신 표준](https://ko.wikipedia.org/wiki/분류:이동_통신_표준 "wikilink") [3GPP_표준](https://ko.wikipedia.org/wiki/분류:3GPP_표준 "wikilink")
 
 1.
 2.  Overview of 3GPP Release 99, Summary of all Release 99 Features. ETSI Mobile Competence Centre, Version xx/07/04

@@ -35,3 +35,5 @@
 ### 기타
 
   - [W는](../Page/W_\(용호동\).md "wikilink") [부산광역시](https://ko.wikipedia.org/wiki/부산광역시 "wikilink") [남구](../Page/남구_\(부산광역시\).md "wikilink") [용호동에](../Page/용호동_\(부산\).md "wikilink") 위치한 초고층 주상복합 아파트다.
+
+[W는](https://ko.wikipedia.org/wiki/또봇 "wikilink") 또봇중 하나다

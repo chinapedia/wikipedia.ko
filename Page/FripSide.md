@@ -33,7 +33,7 @@ fripSide라는 단어는 sat이 만든 단어로, [레코드의 B면을](https:/
 <!-- end list -->
 
   -
-    [치바 현](../Page/지바현.md "wikilink") [우라야스 시](https://ko.wikipedia.org/wiki/우라야스_시 "wikilink") 출신. 주식회사 p.m.works 대표. 아티스트 표기는 **sat** 혹은 본명의 로마자 표기법 'Satoshi Yaginuma'를 사용하는 경우가 많다.
+    [치바 현](../Page/지바현.md "wikilink") [우라야스시](../Page/우라야스시.md "wikilink") 출신. 주식회사 p.m.works 대표. 아티스트 표기는 **sat** 혹은 본명의 로마자 표기법 'Satoshi Yaginuma'를 사용하는 경우가 많다.
 
 ### 전 구성원
 
@@ -42,7 +42,7 @@ fripSide라는 단어는 sat이 만든 단어로, [레코드의 B면을](https:/
 <!-- end list -->
 
   -
-    [치바 현](../Page/지바현.md "wikilink") [노다 시](https://ko.wikipedia.org/wiki/노다_시 "wikilink") 출신. 현재는 솔로 및 [Dystopia Ground로](https://ko.wikipedia.org/wiki/Dystopia_Ground "wikilink") 활동 중.
+    [치바 현](../Page/지바현.md "wikilink") [노다시](../Page/노다시.md "wikilink") 출신. 현재는 솔로 및 [Dystopia Ground로](https://ko.wikipedia.org/wiki/Dystopia_Ground "wikilink") 활동 중.
 
 ## 활동 경력
 
@@ -596,7 +596,7 @@ fripSide라는 단어는 sat이 만든 단어로, [레코드의 B면을](https:/
 
   - [난죠 요시노 공식 블로그](http://nanjolno.jugem.jp/)
 
-[분류:일본의 음악 그룹](https://ko.wikipedia.org/wiki/분류:일본의_음악_그룹 "wikilink") [분류:일본의 음악가](https://ko.wikipedia.org/wiki/분류:일본의_음악가 "wikilink") [분류:비주얼 아츠](https://ko.wikipedia.org/wiki/분류:비주얼_아츠 "wikilink") [분류:비디오 게임 음악](https://ko.wikipedia.org/wiki/분류:비디오_게임_음악 "wikilink") [분류:2002년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2002년_결성된_음악_그룹 "wikilink")
+[분류:일본의 음악 그룹](https://ko.wikipedia.org/wiki/분류:일본의_음악_그룹 "wikilink") [분류:일본의 음악가](https://ko.wikipedia.org/wiki/분류:일본의_음악가 "wikilink") [분류:비주얼 아츠](https://ko.wikipedia.org/wiki/분류:비주얼_아츠 "wikilink") [분류:비디오 게임 음악](https://ko.wikipedia.org/wiki/분류:비디오_게임_음악 "wikilink") [분류:2002년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2002년_결성된_음악_그룹 "wikilink") [분류:혼성 듀오](https://ko.wikipedia.org/wiki/분류:혼성_듀오 "wikilink")
 
 1.  , 원래는 격투기에서 연습 상대가 방어만을 하는 방식의 훈련을 지칭하나, 여기서는 한 사람이 여러 악기의 연주법을 미리 입력해 같이 연주하는 [MIDI](../Page/MIDI.md "wikilink") 기법을 지칭하는 일본 용어
 2.  Sony Music Artists 소속의 일렉트로니카

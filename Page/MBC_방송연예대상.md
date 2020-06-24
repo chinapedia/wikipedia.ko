@@ -7,7 +7,7 @@
 
 처음에는 문화방송・경향신문 통합창사기념식에 포함되어 시상하였는데, [1974년](../Page/1974년.md "wikilink")에는 MBC 전속 탤런트들에게만 한정되었던 것이 [1975년](../Page/1975년.md "wikilink")부터는 MBC 소속 코미디언까지 시상 범위를 넓혔다. 시상 방식은 먼저 수상자를 시상하고 연말 MBC 송년대잔치에서 인사를 하는 식이었고, [1982년](../Page/1982년.md "wikilink")까지 이어졌고 [1983년](../Page/1983년.md "wikilink")부터는 연기대상 시상식이 단독으로 진행되었다. 그리고 [1995년](../Page/1995년.md "wikilink")부터 MBC 방송대상에서 코미디 부문이 분리되어 **MBC 코미디대상**이 신설되었다.\[1\]
 
-[1995년](../Page/1995년.md "wikilink")에 제정된 [코미디](https://ko.wikipedia.org/wiki/코미디 "wikilink") 부분에 한정된 **MBC 코미디대상**이 시초이고, [2001년](../Page/2001년.md "wikilink")에 **MBC 방송연예대상**이라는 현재 제목으로 명칭을 바꿔 코미디 프로와 예능, 오락 프로그램까지 포괄하여 시상해오고 있다. 참고로, 분리되기 전까지는 대상은 탤런트에게 주어지는 상이었으며, 코미디언에게 주어지는 최고의 상은 **코미디부문 최우수상**이었다.
+[1995년](../Page/1995년.md "wikilink") [12월 31일부터](../Page/12월_31일.md "wikilink") [2000년](../Page/2000년.md "wikilink") [12월 29일까지](../Page/12월_29일.md "wikilink") 제정된 [코미디](https://ko.wikipedia.org/wiki/코미디 "wikilink") 부분에 한정된 **MBC 코미디대상**이 시초이고, [2001년](../Page/2001년.md "wikilink") [12월 29일에](../Page/12월_29일.md "wikilink") **MBC 방송연예대상**이라는 현재까지 제목으로 명칭을 바꿔 코미디 프로와 예능, 오락 프로그램까지 포괄하여 시상해오고 있다. 참고로, 분리되기 전까지는 대상은 탤런트에게 주어지는 상이었으며, 코미디언에게 주어지는 최고의 상은 **코미디부문 최우수상**이었다.
 
 [2011년](../Page/2011년.md "wikilink")대회는 시상식 개편이 이루어졌는데 그동안 연기대상에서 시상하던 라디오부문과 시사교양부문이 모두 방송연예대상에서 시상하게 되었고 주최 측에서 작품에 대하여 **MBC 방송연예대상** 대신 **올해의 예능 프로그램상** 을 시상했었다.\[2\] 그 이후 [2012년](../Page/2012년.md "wikilink")부터 다시 예전의 **MBC 방송연예대상**으로 돌아오게 되었다.
 
@@ -16,10 +16,11 @@
   - 1대 ''' MBC배 유공연기자 시상식 ''' : [1975년](../Page/1975년.md "wikilink")
   - 2대 ''' MBC 연기상 ''' : [1976년](../Page/1976년.md "wikilink")
   - 3대 ''' MBC 최우수연기자 시상식/MBC 연예대상 ''' : [1977년](../Page/1977년.md "wikilink")
-  - 4대 ''' MBC 연기대상 ''' : [1984년](../Page/1984년.md "wikilink") \~ [1990년](../Page/1990년.md "wikilink")
-  - 5대 ''' MBC 방송대상 ''' : [1991년](../Page/1991년.md "wikilink") \~ [1994년](../Page/1994년.md "wikilink")
-  - 6대 *' MBC 코미디대상*' : [1995년](../Page/1995년.md "wikilink") \~ [2000년](../Page/2000년.md "wikilink")
-  - 7대 *' MBC 방송연예대상*' : [2001년](../Page/2001년.md "wikilink") \~
+  - 4대 ''' MBC 연기대상 ''' : [1984년](../Page/1984년.md "wikilink") \~ [1988년](../Page/1988년.md "wikilink")
+  - 5대 ''' MBC 방송연기대상 ''' : [1989년](../Page/1989년.md "wikilink") \~ [1990년](../Page/1990년.md "wikilink")
+  - 6대 ''' MBC 방송대상 ''' : [1991년](../Page/1991년.md "wikilink") \~ [1994년](../Page/1994년.md "wikilink")
+  - 7대 *' MBC 코미디대상*' : [1995년](../Page/1995년.md "wikilink") [12월 31일](../Page/12월_31일.md "wikilink") \~ [2000년](../Page/2000년.md "wikilink") [12월 29일](../Page/12월_29일.md "wikilink")
+  - 8대 *' MBC 방송연예대상*' : [2001년](../Page/2001년.md "wikilink") [12월 29일](../Page/12월_29일.md "wikilink") \~ **현재**
 
 ## 역대 대상 수상자
 
@@ -41,7 +42,7 @@
 | ------------------------------------ | --------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | [1977년](../Page/1977년.md "wikilink") | [김희숙](https://ko.wikipedia.org/wiki/김희숙 "wikilink"), [이기동](../Page/이기동_\(희극인\).md "wikilink") | [3](http://newslibrary.naver.com/viewer/index.nhn?articleId=1977110100329203013&editNo=2&printCount=1&publishDate=1977-11-01&officeId=00032&pageNo=3&printNo=9875&publishType=00020) |
 
-### MBC 연기대상 코미디부문 최우수상 (1984\~1990)
+### MBC 연기대상 코미디부문 최우수상 (1984\~1988)
 
 | 연도                                   | 수상자                                                                                           | 출처                                                                                                                                                                                     |
 | ------------------------------------ | --------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -50,8 +51,13 @@
 | [1986년](../Page/1986년.md "wikilink") | [이주일](../Page/이주일.md "wikilink"), [김영하](https://ko.wikipedia.org/wiki/김영하_\(희극인\) "wikilink") | [6](http://newslibrary.naver.com/viewer/index.nhn?articleId=1986122400329212002&editNo=2&printCount=1&publishDate=1986-12-24&officeId=00032&pageNo=12&printNo=12692&publishType=00020) |
 | [1987년](../Page/1987년.md "wikilink") | [배일집](../Page/배일집.md "wikilink"), [김보화](../Page/김보화.md "wikilink")                            | [7](http://newslibrary.naver.com/viewer/index.nhn?articleId=1987122800329212002&editNo=3&printCount=1&publishDate=1987-12-28&officeId=00032&pageNo=12&printNo=13001&publishType=00020) |
 | [1988년](../Page/1988년.md "wikilink") | [서세원](../Page/서세원.md "wikilink"), [김혜영](../Page/김혜영_\(1962년\).md "wikilink")                  | [8](http://newslibrary.naver.com/viewer/index.nhn?articleId=1988122200209216006&editNo=2&printCount=1&publishDate=1988-12-22&officeId=00020&pageNo=16&printNo=20687&publishType=00020) |
-| [1989년](../Page/1989년.md "wikilink") | [이규혁](../Page/이규혁.md "wikilink"), [배연정](../Page/배연정.md "wikilink")                            | [9](http://newslibrary.naver.com/viewer/index.nhn?articleId=1989123100289109011&editNo=4&printCount=1&publishDate=1989-12-31&officeId=00028&pageNo=9&printNo=505&publishType=00010)    |
-| [1990년](../Page/1990년.md "wikilink") | [주병진](../Page/주병진.md "wikilink")                                                              | [10](http://newslibrary.naver.com/viewer/index.nhn?articleId=1990122700099211007&editNo=1&printCount=1&publishDate=1990-12-27&officeId=00009&pageNo=11&printNo=7670&publishType=00020) |
+
+### MBC 방송연기대상 코미디부문 최우수상 (1989\~1990)
+
+| 연도                                   | 수상자                                                                | 출처                                                                                                                                                                                     |
+| ------------------------------------ | ------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [1989년](../Page/1989년.md "wikilink") | [이규혁](../Page/이규혁.md "wikilink"), [배연정](../Page/배연정.md "wikilink") | [9](http://newslibrary.naver.com/viewer/index.nhn?articleId=1989123100289109011&editNo=4&printCount=1&publishDate=1989-12-31&officeId=00028&pageNo=9&printNo=505&publishType=00010)    |
+| [1990년](../Page/1990년.md "wikilink") | [주병진](../Page/주병진.md "wikilink")                                   | [10](http://newslibrary.naver.com/viewer/index.nhn?articleId=1990122700099211007&editNo=1&printCount=1&publishDate=1990-12-27&officeId=00009&pageNo=11&printNo=7670&publishType=00020) |
 
 ### MBC 방송대상 코미디부문 최우수상 (1991\~1994)
 
@@ -62,7 +68,7 @@
 | [1993년](../Page/1993년.md "wikilink") | [이홍렬](../Page/이홍렬.md "wikilink"), [이경실](../Page/이경실.md "wikilink") | [13](http://newslibrary.naver.com/viewer/index.nhn?articleId=1993123100329117010&editNo=15&printCount=1&publishDate=1993-12-31&officeId=00032&pageNo=17&printNo=14960&publishType=00010) |
 | [1994년](../Page/1994년.md "wikilink") | [이휘재](../Page/이휘재.md "wikilink"), [이경실](../Page/이경실.md "wikilink") | [14](http://newslibrary.naver.com/viewer/index.nhn?articleId=1994123100289116001&editNo=5&printCount=1&publishDate=1994-12-31&officeId=00028&pageNo=16&printNo=2110&publishType=00010)   |
 
-### MBC 코미디대상 (1995\~2000)
+### MBC 코미디대상 (1995.12.31\~2000.12.29)
 
 | 연도                                   | 수상자                                      | 출처                                                                                                                                                                                       |
 | ------------------------------------ | ---------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -73,7 +79,7 @@
 | [1999년](../Page/1999년.md "wikilink") | [서경석](../Page/서경석_\(희극인\).md "wikilink") | [19](http://newslibrary.naver.com/viewer/index.nhn?articleId=1999123100099126001&editNo=16&printCount=1&publishDate=1999-12-31&officeId=00009&pageNo=26&printNo=10563&publishType=00010) |
 | [2000년](../Page/2000년.md "wikilink") | [김용만](../Page/김용만_\(희극인\).md "wikilink") | [20](http://entertain.naver.com/read?oid=020&aid=0000041576)                                                                                                                             |
 
-### MBC 방송연예대상 (2001\~현재)
+### MBC 방송연예대상 (2001.12.29\~현재)
 
 <table>
 <thead>
@@ -150,8 +156,7 @@
 <tr class="odd">
 <td><p>11회</p></td>
 <td><p><a href="../Page/2011년.md" title="wikilink">2011년</a></p></td>
-<td><p><a href="../Page/일밤.md" title="wikilink">일밤</a><br />
-<a href="../Page/나는_가수다.md" title="wikilink">나는 가수다</a></p></td>
+<td><p><a href="../Page/나는_가수다.md" title="wikilink">나는 가수다</a> 팀</p></td>
 <td><p><a href="../Page/일밤.md" title="wikilink">일밤</a><br />
 <a href="../Page/나는_가수다.md" title="wikilink">나는 가수다</a></p></td>
 </tr>
@@ -164,8 +169,7 @@
 <tr class="odd">
 <td><p>13회</p></td>
 <td><p><a href="../Page/2013년.md" title="wikilink">2013년</a></p></td>
-<td><p><a href="../Page/일밤.md" title="wikilink">일밤</a><br />
-<a href="https://ko.wikipedia.org/wiki/아빠!_어디가" title="wikilink">아빠! 어디가</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/아빠!_어디가" title="wikilink">아빠! 어디가</a>? 팀</p></td>
 <td><p><a href="../Page/일밤.md" title="wikilink">일밤</a><br />
 <a href="https://ko.wikipedia.org/wiki/아빠!_어디가" title="wikilink">아빠! 어디가</a></p></td>
 </tr>
@@ -1323,11 +1327,11 @@ MC<br />
 <a href="../Page/미스터리_음악쇼_복면가왕.md" title="wikilink">복면가왕</a> 팀<br />
 <a href="../Page/유준상_(배우).md" title="wikilink">유준상</a><br />
 <a href="../Page/한혜연_(스타일리스트).md" title="wikilink">한혜연</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/같이_펀딩" title="wikilink">같이 펀딩</a>, <a href="../Page/호구의_연애.md" title="wikilink">호구의 연애</a><br />
-<a href="https://ko.wikipedia.org/wiki/놀면_뭐하니?" title="wikilink">놀면 뭐하니?</a><br />
+<td><p><a href="../Page/같이_펀딩.md" title="wikilink">같이 펀딩</a>, <a href="../Page/호구의_연애.md" title="wikilink">호구의 연애</a><br />
+<a href="../Page/놀면_뭐하니?.md" title="wikilink">놀면 뭐하니?</a><br />
 <a href="https://ko.wikipedia.org/wiki/선을_넘는_녀석들_-_리턴즈" title="wikilink">선을 넘는 녀석들 - 리턴즈</a><br />
 <a href="../Page/미스터리_음악쇼_복면가왕.md" title="wikilink">미스터리 음악쇼 복면가왕</a><br />
-<a href="https://ko.wikipedia.org/wiki/같이_펀딩" title="wikilink">같이 펀딩</a><br />
+<a href="../Page/같이_펀딩.md" title="wikilink">같이 펀딩</a><br />
 <a href="../Page/나_혼자_산다.md" title="wikilink">나 혼자 산다</a>, <a href="https://ko.wikipedia.org/wiki/언니네_쌀롱" title="wikilink">언니네 쌀롱</a></p></td>
 </tr>
 <tr class="even">
@@ -1578,19 +1582,19 @@ MC<br />
 
   - 18회 ([2018년](../Page/2018년.md "wikilink")) 부터 시상하기 시작했으며, 해당년도 대상후보 전원이 받는 상임.
 
-| 회차                                       | 연도                                                                                                                                                                                                       | 수상자                                                 | 프로그램\!style="width: 70%"|프로그램                               | 비고   |
-| ---------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------- | ----------------------------------------------------------- | ---- |
-| 18회                                      | [2018년](../Page/2018년.md "wikilink")                                                                                                                                                                     | [이영자](../Page/이영자.md "wikilink")                    | [전지적 참견 시점](../Page/전지적_참견_시점.md "wikilink")                | 공동수상 |
-| [김구라](../Page/김구라.md "wikilink")         | [복면가왕](https://ko.wikipedia.org/wiki/복면가왕 "wikilink"), [라디오스타](../Page/황금어장_라디오스타.md "wikilink"), [토크 노마드 아낌없이 주도록](../Page/토크_노마드_아낌없이_주도록.md "wikilink"), [선을 넘는 녀석들](../Page/선을_넘는_녀석들.md "wikilink") |                                                     |                                                             |      |
-| [박나래](../Page/박나래.md "wikilink")         | [나 혼자 산다](../Page/나_혼자_산다.md "wikilink")                                                                                                                                                                 |                                                     |                                                             |      |
-| [전현무](../Page/전현무.md "wikilink")         | [나 혼자 산다](../Page/나_혼자_산다.md "wikilink"), [전지적 참견 시점](../Page/전지적_참견_시점.md "wikilink"), [뜻밖의 Q](../Page/뜻밖의_Q.md "wikilink")                                                                             |                                                     |                                                             |      |
-| 19회                                      | [2019년](../Page/2019년.md "wikilink")                                                                                                                                                                     | [유재석](https://ko.wikipedia.org/wiki/유재석 "wikilink") | [놀면 뭐하니?](https://ko.wikipedia.org/wiki/놀면_뭐하니? "wikilink") | 공동수상 |
-| [박나래](../Page/박나래.md "wikilink")         | [나 혼자 산다](../Page/나_혼자_산다.md "wikilink"), [구해줘\! 홈즈](../Page/구해줘!_홈즈.md "wikilink")                                                                                                                      |                                                     |                                                             |      |
-| [이영자](../Page/이영자.md "wikilink")         | [전지적 참견 시점](../Page/전지적_참견_시점.md "wikilink")                                                                                                                                                             |                                                     |                                                             |      |
-| [전현무](../Page/전현무.md "wikilink")         | [전지적 참견 시점](../Page/전지적_참견_시점.md "wikilink"), [선을 넘는 녀석들 - 리턴즈](https://ko.wikipedia.org/wiki/선을_넘는_녀석들_-_리턴즈 "wikilink")                                                                                |                                                     |                                                             |      |
-| [김구라](../Page/김구라.md "wikilink")         | [복면가왕](https://ko.wikipedia.org/wiki/복면가왕 "wikilink"), [라디오스타](../Page/황금어장_라디오스타.md "wikilink"), [마이 리틀 텔레비전 V2](../Page/마이_리틀_텔레비전_V2.md "wikilink")                                                   |                                                     |                                                             |      |
-| [김성주](../Page/김성주_\(방송인\).md "wikilink") | [복면가왕](../Page/미스터리_음악쇼_복면가왕.md "wikilink")                                                                                                                                                              |                                                     |                                                             |      |
-|                                          |                                                                                                                                                                                                          |                                                     |                                                             |      |
+| 회차                                       | 연도                                                                                                                                                                                                       | 수상자                                                 | 프로그램\!style="width: 70%"|프로그램                | 비고   |
+| ---------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------- | -------------------------------------------- | ---- |
+| 18회                                      | [2018년](../Page/2018년.md "wikilink")                                                                                                                                                                     | [이영자](../Page/이영자.md "wikilink")                    | [전지적 참견 시점](../Page/전지적_참견_시점.md "wikilink") | 공동수상 |
+| [김구라](../Page/김구라.md "wikilink")         | [복면가왕](https://ko.wikipedia.org/wiki/복면가왕 "wikilink"), [라디오스타](../Page/황금어장_라디오스타.md "wikilink"), [토크 노마드 아낌없이 주도록](../Page/토크_노마드_아낌없이_주도록.md "wikilink"), [선을 넘는 녀석들](../Page/선을_넘는_녀석들.md "wikilink") |                                                     |                                              |      |
+| [박나래](../Page/박나래.md "wikilink")         | [나 혼자 산다](../Page/나_혼자_산다.md "wikilink")                                                                                                                                                                 |                                                     |                                              |      |
+| [전현무](../Page/전현무.md "wikilink")         | [나 혼자 산다](../Page/나_혼자_산다.md "wikilink"), [전지적 참견 시점](../Page/전지적_참견_시점.md "wikilink"), [뜻밖의 Q](../Page/뜻밖의_Q.md "wikilink")                                                                             |                                                     |                                              |      |
+| 19회                                      | [2019년](../Page/2019년.md "wikilink")                                                                                                                                                                     | [유재석](https://ko.wikipedia.org/wiki/유재석 "wikilink") | [놀면 뭐하니?](../Page/놀면_뭐하니?.md "wikilink")     | 공동수상 |
+| [박나래](../Page/박나래.md "wikilink")         | [나 혼자 산다](../Page/나_혼자_산다.md "wikilink"), [구해줘\! 홈즈](../Page/구해줘!_홈즈.md "wikilink")                                                                                                                      |                                                     |                                              |      |
+| [이영자](../Page/이영자.md "wikilink")         | [전지적 참견 시점](../Page/전지적_참견_시점.md "wikilink")                                                                                                                                                             |                                                     |                                              |      |
+| [전현무](../Page/전현무.md "wikilink")         | [전지적 참견 시점](../Page/전지적_참견_시점.md "wikilink"), [선을 넘는 녀석들 - 리턴즈](https://ko.wikipedia.org/wiki/선을_넘는_녀석들_-_리턴즈 "wikilink")                                                                                |                                                     |                                              |      |
+| [김구라](../Page/김구라.md "wikilink")         | [복면가왕](https://ko.wikipedia.org/wiki/복면가왕 "wikilink"), [라디오스타](../Page/황금어장_라디오스타.md "wikilink"), [마이 리틀 텔레비전 V2](../Page/마이_리틀_텔레비전_V2.md "wikilink")                                                   |                                                     |                                              |      |
+| [김성주](../Page/김성주_\(방송인\).md "wikilink") | [복면가왕](../Page/미스터리_음악쇼_복면가왕.md "wikilink")                                                                                                                                                              |                                                     |                                              |      |
+|                                          |                                                                                                                                                                                                          |                                                     |                                              |      |
 
 #### 올해의 작가상
 
@@ -2132,7 +2136,7 @@ MC<br />
 <tr class="odd">
 <td><p>19회 <a href="../Page/2019년.md" title="wikilink">2019년</a></p></td>
 <td><p><a href="../Page/김병현.md" title="wikilink">김병현</a>, <a href="../Page/서장훈.md" title="wikilink">서장훈</a>, <a href="../Page/안정환.md" title="wikilink">안정환</a><br />
-<small>(<a href="https://ko.wikipedia.org/wiki/편애중계" title="wikilink">편애중계</a>)</small></p></td>
+<small>(<a href="../Page/편애중계.md" title="wikilink">편애중계</a>)</small></p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
@@ -2402,7 +2406,7 @@ MC<br />
 <td><p><a href="../Page/2019년.md" title="wikilink">2019년</a></p></td>
 <td><p>-</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/유재석" title="wikilink">유산슬</a><br />
-<small> (<a href="https://ko.wikipedia.org/wiki/놀면_뭐하니?" title="wikilink">놀면 뭐하니?</a>)</small><br />
+<small> (<a href="../Page/놀면_뭐하니?.md" title="wikilink">놀면 뭐하니?</a>)</small><br />
 <a href="../Page/장성규.md" title="wikilink">장성규</a><br />
 <small> (<a href="../Page/마이_리틀_텔레비전_V2.md" title="wikilink">마이 리틀 텔레비전 V2</a>, <a href="../Page/전지적_참견_시점.md" title="wikilink">전지적 참견 시점</a>)</small><br />
 <a href="../Page/홍현희.md" title="wikilink">홍현희</a><br />
@@ -2824,7 +2828,7 @@ MC<br />
   - [2011년](../Page/2011년.md "wikilink")에는 시상식 개편으로 인하여 **연예대상** 대신 **올해의 예능 프로그램상**이라는 이름으로 시상되었다.
   - [2013년](../Page/2013년.md "wikilink")에는 프로그램이 대상을 수상하였다.
   - [2017년](../Page/2017년.md "wikilink")에는 방송 3사 최초로 타방송사 출신의 아나운서가 대상을 수상하였다.
-  - [2018년](../Page/2018년.md "wikilink")에는 [2001년](../Page/2001년.md "wikilink") 시상식 이후 17년만에 여성 예능인이 대상을 수상하였으며, [2019년](../Page/2019년.md "wikilink")에는 방송 3사 연예대상 최초로 2년 연속 여성 예능인이 대상을 수상하였다.
+  - [2018년](../Page/2018년.md "wikilink")에는 [2001년](../Page/2001년.md "wikilink") 연예대상 시상식 이후 17년만에 여성 예능인이 대상을 수상하였으며, [2019년](../Page/2019년.md "wikilink")에는 방송 3사 연예대상 최초로 2년 연속 여성 예능인이 대상을 수상하였다.
 
 ## 시청률
 

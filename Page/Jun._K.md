@@ -1345,7 +1345,7 @@ SECRET WEAPON, RYAN KIM</li>
 <td><p>Jun. K</p></td>
 <td><p>2017.11.27</p></td>
 <td><p>한국</p></td>
-<td><p>〈왜 (Feat. <a href="https://ko.wikipedia.org/wiki/박지민" title="wikilink">박지민</a>)〉</p></td>
+<td><p>〈왜 (Feat. <a href="https://ko.wikipedia.org/wiki/제이미_(가수)" title="wikilink">박지민</a>)〉</p></td>
 <td><p>《나의 20대》</p></td>
 <td><ul>
 <li>작사 : Jun. K<br />
@@ -2197,8 +2197,8 @@ ENTERTAINMENT</p></td>
 <li>원곡 : Jun. K</li>
 </ul></td>
 <td><p><a href="../Page/네이버.md" title="wikilink">네이버</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/V_LIVE" title="wikilink">V LIVE</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/V_LIVE" title="wikilink">V LIVE</a></p></td>
+<td><p><a href="../Page/V_LIVE.md" title="wikilink">V LIVE</a></p></td>
+<td><p><a href="../Page/V_LIVE.md" title="wikilink">V LIVE</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2017</p></td>
@@ -2222,9 +2222,9 @@ ENTERTAINMENT</p></td>
 <td><ul>
 <li>원곡 : Jun. K</li>
 </ul></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/V_LIVE" title="wikilink">V LIVE</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/V_LIVE" title="wikilink">V LIVE</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/V_LIVE" title="wikilink">V LIVE</a></p></td>
+<td><p><a href="../Page/V_LIVE.md" title="wikilink">V LIVE</a></p></td>
+<td><p><a href="../Page/V_LIVE.md" title="wikilink">V LIVE</a></p></td>
+<td><p><a href="../Page/V_LIVE.md" title="wikilink">V LIVE</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2017</p></td>
@@ -2235,9 +2235,9 @@ ENTERTAINMENT</p></td>
 <td><ul>
 <li>원곡 : Jun. K</li>
 </ul></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/V_LIVE" title="wikilink">V LIVE</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/V_LIVE" title="wikilink">V LIVE</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/V_LIVE" title="wikilink">V LIVE</a></p></td>
+<td><p><a href="../Page/V_LIVE.md" title="wikilink">V LIVE</a></p></td>
+<td><p><a href="../Page/V_LIVE.md" title="wikilink">V LIVE</a></p></td>
+<td><p><a href="../Page/V_LIVE.md" title="wikilink">V LIVE</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2017</p></td>
@@ -2248,9 +2248,9 @@ ENTERTAINMENT</p></td>
 <td><ul>
 <li>원곡 : Jun. K</li>
 </ul></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/V_LIVE" title="wikilink">V LIVE</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/V_LIVE" title="wikilink">V LIVE</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/V_LIVE" title="wikilink">V LIVE</a></p></td>
+<td><p><a href="../Page/V_LIVE.md" title="wikilink">V LIVE</a></p></td>
+<td><p><a href="../Page/V_LIVE.md" title="wikilink">V LIVE</a></p></td>
+<td><p><a href="../Page/V_LIVE.md" title="wikilink">V LIVE</a></p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -2335,7 +2335,7 @@ ENTERTAINMENT</p></td>
 
   - [2PM - 공식 트위터 (일본)](https://twitter.com/follow_2PMJP)
 
-[분류:JYP 엔터테인먼트 소속](https://ko.wikipedia.org/wiki/분류:JYP_엔터테인먼트_소속 "wikilink") [분류:2PM의 일원](https://ko.wikipedia.org/wiki/분류:2PM의_일원 "wikilink") [분류:2008년 데뷔](https://ko.wikipedia.org/wiki/분류:2008년_데뷔 "wikilink") [분류:대한민국의 남자 가수](https://ko.wikipedia.org/wiki/분류:대한민국의_남자_가수 "wikilink") [분류:대한민국의 가수](https://ko.wikipedia.org/wiki/분류:대한민국의_가수 "wikilink") [분류:대한민국의 발라드 음악가](https://ko.wikipedia.org/wiki/분류:대한민국의_발라드_음악가 "wikilink") [분류:대한민국의 작곡가](https://ko.wikipedia.org/wiki/분류:대한민국의_작곡가 "wikilink") [분류:대한민국의 작사가](https://ko.wikipedia.org/wiki/분류:대한민국의_작사가 "wikilink") [분류:대한민국의 남자 뮤지컬 배우](https://ko.wikipedia.org/wiki/분류:대한민국의_남자_뮤지컬_배우 "wikilink") [분류:경희대학교 동문](https://ko.wikipedia.org/wiki/분류:경희대학교_동문 "wikilink") [분류:경북예술고등학교 동문](https://ko.wikipedia.org/wiki/분류:경북예술고등학교_동문 "wikilink") [분류:경신중학교 (대구) 동문](https://ko.wikipedia.org/wiki/분류:경신중학교_\(대구\)_동문 "wikilink") [분류:대구경동초등학교 동문](https://ko.wikipedia.org/wiki/분류:대구경동초등학교_동문 "wikilink") [분류:대구광역시 출신](https://ko.wikipedia.org/wiki/분류:대구광역시_출신 "wikilink") [분류:대구광역시 출신 가수](https://ko.wikipedia.org/wiki/분류:대구광역시_출신_가수 "wikilink") [분류:대구광역시 출신 음악가](https://ko.wikipedia.org/wiki/분류:대구광역시_출신_음악가 "wikilink") [분류:1988년 태어남](https://ko.wikipedia.org/wiki/분류:1988년_태어남 "wikilink") [분류:살아있는 사람](https://ko.wikipedia.org/wiki/분류:살아있는_사람 "wikilink") [분류:대한민국의 방송인](https://ko.wikipedia.org/wiki/분류:대한민국의_방송인 "wikilink") [분류:대한민국의 아이돌](https://ko.wikipedia.org/wiki/분류:대한민국의_아이돌 "wikilink")
+[분류:JYP 엔터테인먼트 소속](https://ko.wikipedia.org/wiki/분류:JYP_엔터테인먼트_소속 "wikilink") [분류:2PM의 일원](https://ko.wikipedia.org/wiki/분류:2PM의_일원 "wikilink") [분류:대한민국의 남자 가수](https://ko.wikipedia.org/wiki/분류:대한민국의_남자_가수 "wikilink") [분류:대한민국의 가수](https://ko.wikipedia.org/wiki/분류:대한민국의_가수 "wikilink") [분류:대한민국의 발라드 음악가](https://ko.wikipedia.org/wiki/분류:대한민국의_발라드_음악가 "wikilink") [분류:대한민국의 작곡가](https://ko.wikipedia.org/wiki/분류:대한민국의_작곡가 "wikilink") [분류:대한민국의 작사가](https://ko.wikipedia.org/wiki/분류:대한민국의_작사가 "wikilink") [분류:대한민국의 남자 뮤지컬 배우](https://ko.wikipedia.org/wiki/분류:대한민국의_남자_뮤지컬_배우 "wikilink") [분류:경희대학교 동문](https://ko.wikipedia.org/wiki/분류:경희대학교_동문 "wikilink") [분류:경북예술고등학교 동문](https://ko.wikipedia.org/wiki/분류:경북예술고등학교_동문 "wikilink") [분류:경신중학교 (대구) 동문](https://ko.wikipedia.org/wiki/분류:경신중학교_\(대구\)_동문 "wikilink") [분류:대구경동초등학교 동문](https://ko.wikipedia.org/wiki/분류:대구경동초등학교_동문 "wikilink") [분류:대구광역시 출신](https://ko.wikipedia.org/wiki/분류:대구광역시_출신 "wikilink") [분류:대구광역시 출신 가수](https://ko.wikipedia.org/wiki/분류:대구광역시_출신_가수 "wikilink") [분류:대구광역시 출신 음악가](https://ko.wikipedia.org/wiki/분류:대구광역시_출신_음악가 "wikilink") [분류:1988년 태어남](https://ko.wikipedia.org/wiki/분류:1988년_태어남 "wikilink") [분류:살아있는 사람](https://ko.wikipedia.org/wiki/분류:살아있는_사람 "wikilink") [분류:대한민국의 방송인](https://ko.wikipedia.org/wiki/분류:대한민국의_방송인 "wikilink") [분류:대한민국의 아이돌](https://ko.wikipedia.org/wiki/분류:대한민국의_아이돌 "wikilink")
 
 1.
 2.

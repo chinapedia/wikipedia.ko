@@ -74,6 +74,6 @@ KT-1은 950 마력의 [프랫 앤 휘트니 캐나다 PT6 터보프롭](https://
   - [T-50 골든이글](../Page/T-50_골든이글.md "wikilink")
   - [대한민국 공군](../Page/대한민국_공군.md "wikilink")
 
-[분류:대한민국의 훈련기](https://ko.wikipedia.org/wiki/분류:대한민국의_훈련기 "wikilink") [분류:대한민국의 군용기](https://ko.wikipedia.org/wiki/분류:대한민국의_군용기 "wikilink") [분류:대한민국의 항공기](https://ko.wikipedia.org/wiki/분류:대한민국의_항공기 "wikilink") [분류:1991년 첫 비행한 항공기](https://ko.wikipedia.org/wiki/분류:1991년_첫_비행한_항공기 "wikilink")
+[분류:대한민국의 훈련기](https://ko.wikipedia.org/wiki/분류:대한민국의_훈련기 "wikilink") [분류:대한민국의 군용기](https://ko.wikipedia.org/wiki/분류:대한민국의_군용기 "wikilink") [분류:대한민국의 항공기](https://ko.wikipedia.org/wiki/분류:대한민국의_항공기 "wikilink") [분류:1991년 첫 비행한 항공기](https://ko.wikipedia.org/wiki/분류:1991년_첫_비행한_항공기 "wikilink") [분류:저익기](https://ko.wikipedia.org/wiki/분류:저익기 "wikilink")
 
 1.  [1](http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=100&oid=020&aid=0000419025)

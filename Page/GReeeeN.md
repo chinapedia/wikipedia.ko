@@ -608,7 +608,7 @@
 
   - [GReeeeN](http://www.universal-music.co.jp/greeeen/) (UNIVERSAL MUSIC에 의한 가수 페이지)
 
-[분류:일본의 음악 그룹](https://ko.wikipedia.org/wiki/분류:일본의_음악_그룹 "wikilink") [분류:2002년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2002년_결성된_음악_그룹 "wikilink") [분류:2006년 데뷔](https://ko.wikipedia.org/wiki/분류:2006년_데뷔 "wikilink") [분류:4인조 음악 그룹](https://ko.wikipedia.org/wiki/분류:4인조_음악_그룹 "wikilink") [분류:일본어 음악 그룹](https://ko.wikipedia.org/wiki/분류:일본어_음악_그룹 "wikilink") [분류:유니버설 뮤직 (일본) 소속](https://ko.wikipedia.org/wiki/분류:유니버설_뮤직_\(일본\)_소속 "wikilink") [분류:2000년대 음악 그룹](https://ko.wikipedia.org/wiki/분류:2000년대_음악_그룹 "wikilink") [분류:2010년대 음악 그룹](https://ko.wikipedia.org/wiki/분류:2010년대_음악_그룹 "wikilink") [분류:일본의 팝 음악 그룹](https://ko.wikipedia.org/wiki/분류:일본의_팝_음악_그룹 "wikilink") [분류:스타더스트 프로모션](https://ko.wikipedia.org/wiki/분류:스타더스트_프로모션 "wikilink")
+[분류:일본의 음악 그룹](https://ko.wikipedia.org/wiki/분류:일본의_음악_그룹 "wikilink") [분류:2002년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2002년_결성된_음악_그룹 "wikilink") [분류:4인조 음악 그룹](https://ko.wikipedia.org/wiki/분류:4인조_음악_그룹 "wikilink") [분류:일본어 음악 그룹](https://ko.wikipedia.org/wiki/분류:일본어_음악_그룹 "wikilink") [분류:유니버설 뮤직 (일본) 소속](https://ko.wikipedia.org/wiki/분류:유니버설_뮤직_\(일본\)_소속 "wikilink") [분류:2000년대 음악 그룹](https://ko.wikipedia.org/wiki/분류:2000년대_음악_그룹 "wikilink") [분류:2010년대 음악 그룹](https://ko.wikipedia.org/wiki/분류:2010년대_음악_그룹 "wikilink") [분류:일본의 팝 음악 그룹](https://ko.wikipedia.org/wiki/분류:일본의_팝_음악_그룹 "wikilink") [분류:스타더스트 프로모션](https://ko.wikipedia.org/wiki/분류:스타더스트_프로모션 "wikilink")
 
 1.
 2.  [GReeeeN 전격해체, 치의사의 길을 걷기로](http://www.nikkansports.com/entertainment/news/f-et-tp0-20091105-562919.html)

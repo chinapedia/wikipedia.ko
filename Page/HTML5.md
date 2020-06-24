@@ -307,7 +307,7 @@ HTML5.1 개발 일정
 
   - [HTML5 호환성 점수 보기](http://www.html5test.com/results.html)
 
-[분류:마크업 언어](https://ko.wikipedia.org/wiki/분류:마크업_언어 "wikilink") [분류:HTML](https://ko.wikipedia.org/wiki/분류:HTML "wikilink") [분류:W3C 표준](https://ko.wikipedia.org/wiki/분류:W3C_표준 "wikilink") [분류:2014년 소프트웨어](https://ko.wikipedia.org/wiki/분류:2014년_소프트웨어 "wikilink")
+[HTML5](https://ko.wikipedia.org/wiki/분류:HTML5 "wikilink") [분류:마크업 언어](https://ko.wikipedia.org/wiki/분류:마크업_언어 "wikilink") [분류:HTML](https://ko.wikipedia.org/wiki/분류:HTML "wikilink") [분류:W3C 표준](https://ko.wikipedia.org/wiki/분류:W3C_표준 "wikilink") [분류:2014년 소프트웨어](https://ko.wikipedia.org/wiki/분류:2014년_소프트웨어 "wikilink")
 
 1.
 2.  [l5test.com 5월 23일 확인](http://html5test.com/results/desktop.html)

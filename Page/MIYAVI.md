@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [MIYAVI](https://ko.wikipedia.org/wiki/MIYAVI).
 
 
-**미야비**(, [1981년](../Page/1981년.md "wikilink") [9월 14일](../Page/9월_14일.md "wikilink") \~ )는 [일본](../Page/일본.md "wikilink")의 [비주얼 록](https://ko.wikipedia.org/wiki/비주얼_록 "wikilink") [음악가](https://ko.wikipedia.org/wiki/음악가 "wikilink")이다. 자신의 할아버지와 할머니가 [한국인](../Page/한국인.md "wikilink")이다. [오사카부](../Page/오사카부.md "wikilink") [고노하나구](../Page/고노하나구.md "wikilink") 니시구조에서 일본인 어머니와 前 [재일 한국인](../Page/재일_한국인.md "wikilink") 2세(일본 국적 귀화) 아버지 사이에서 태어났다\[1\].
+**미야비**(, [1981년](../Page/1981년.md "wikilink") [9월 14일](../Page/9월_14일.md "wikilink") \~ )는 [일본](../Page/일본.md "wikilink")의 [비주얼 록](https://ko.wikipedia.org/wiki/비주얼_록 "wikilink") [음악가](https://ko.wikipedia.org/wiki/음악가 "wikilink")이다. 자신의 할아버지와 할머니가 [한국인](../Page/한국인.md "wikilink")이다. [오사카부](../Page/오사카부.md "wikilink") [고노하나구](../Page/고노하나구.md "wikilink") 니시구조에서 일본인 어머니와 [재일 한국인](../Page/재일_한국인.md "wikilink") 2세 아버지 사이에서 태어났다\[1\].
 
 ## 인물
 

@@ -62,7 +62,7 @@ C-X 프로젝트에는 3개 회사가 입찰하였다. 보잉은 YC-14를 대형
 
 ## 참고
 
-[분류:미국의 군용기](https://ko.wikipedia.org/wiki/분류:미국의_군용기 "wikilink") [분류:영국의 군용기](https://ko.wikipedia.org/wiki/분류:영국의_군용기 "wikilink") [분류:수송기](https://ko.wikipedia.org/wiki/분류:수송기 "wikilink") [분류:1991년 첫 비행한 항공기](https://ko.wikipedia.org/wiki/분류:1991년_첫_비행한_항공기 "wikilink") [분류:사발 제트기](https://ko.wikipedia.org/wiki/분류:사발_제트기 "wikilink")
+[분류:미국의 군용기](https://ko.wikipedia.org/wiki/분류:미국의_군용기 "wikilink") [분류:영국의 군용기](https://ko.wikipedia.org/wiki/분류:영국의_군용기 "wikilink") [분류:수송기](https://ko.wikipedia.org/wiki/분류:수송기 "wikilink") [분류:1991년 첫 비행한 항공기](https://ko.wikipedia.org/wiki/분류:1991년_첫_비행한_항공기 "wikilink") [분류:사발 제트기](https://ko.wikipedia.org/wiki/분류:사발_제트기 "wikilink") [분류:고익기](https://ko.wikipedia.org/wiki/분류:고익기 "wikilink")
 
 1.
 2.  ["Purchase of additional C17."](http://www.minister.defence.gov.au/2012/03/19/minister-for-defence-and-minister-for-defence-materiel-joint-media-release-purchase-of-additional-c17/)  *Minister for Defence and Minister for Defence Materiel – joint media release,* 20 March 2012.

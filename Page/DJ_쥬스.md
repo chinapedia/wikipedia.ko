@@ -30,7 +30,7 @@
   -
   -
   -
-[쥬스](https://ko.wikipedia.org/wiki/분류:대한민국의_힙합_DJ "wikilink") [분류:대한민국의 힙합 음악가](https://ko.wikipedia.org/wiki/분류:대한민국의_힙합_음악가 "wikilink") [분류:1983년 태어남](https://ko.wikipedia.org/wiki/분류:1983년_태어남 "wikilink") [분류:살아있는 사람](https://ko.wikipedia.org/wiki/분류:살아있는_사람 "wikilink") [분류:서울특별시 출신 음악가](https://ko.wikipedia.org/wiki/분류:서울특별시_출신_음악가 "wikilink") [분류:2002년 데뷔](https://ko.wikipedia.org/wiki/분류:2002년_데뷔 "wikilink") [분류:상명대학교 동문](https://ko.wikipedia.org/wiki/분류:상명대학교_동문 "wikilink") [분류:서울외국어고등학교 동문](https://ko.wikipedia.org/wiki/분류:서울외국어고등학교_동문 "wikilink") [분류:브랜뉴 뮤직 음악가](https://ko.wikipedia.org/wiki/분류:브랜뉴_뮤직_음악가 "wikilink") [분류:한량사 음악가](https://ko.wikipedia.org/wiki/분류:한량사_음악가 "wikilink") [분류:서울특별시 출신](https://ko.wikipedia.org/wiki/분류:서울특별시_출신 "wikilink")
+[쥬스](https://ko.wikipedia.org/wiki/분류:대한민국의_힙합_DJ "wikilink") [분류:대한민국의 힙합 음악가](https://ko.wikipedia.org/wiki/분류:대한민국의_힙합_음악가 "wikilink") [분류:1983년 태어남](https://ko.wikipedia.org/wiki/분류:1983년_태어남 "wikilink") [분류:살아있는 사람](https://ko.wikipedia.org/wiki/분류:살아있는_사람 "wikilink") [분류:서울특별시 출신 음악가](https://ko.wikipedia.org/wiki/분류:서울특별시_출신_음악가 "wikilink") [분류:상명대학교 동문](https://ko.wikipedia.org/wiki/분류:상명대학교_동문 "wikilink") [분류:서울외국어고등학교 동문](https://ko.wikipedia.org/wiki/분류:서울외국어고등학교_동문 "wikilink") [분류:브랜뉴 뮤직 음악가](https://ko.wikipedia.org/wiki/분류:브랜뉴_뮤직_음악가 "wikilink") [분류:한량사 음악가](https://ko.wikipedia.org/wiki/분류:한량사_음악가 "wikilink") [분류:서울특별시 출신](https://ko.wikipedia.org/wiki/분류:서울특별시_출신 "wikilink")
 
 1.  [Hiphopplaya 2008년 1월 10일 Bust This 인터뷰](http://www.hiphopplaya.com/magazine/article/view.html?category=&category2=&page=1&sort=&num=2952&keyfield=&key=)
 2.  [DJ Juice *Street Dream* 보도자료](http://www.hiphopplaya.com/playa/view.html?pid=10517&aid=39062&num=&mode_album=press)

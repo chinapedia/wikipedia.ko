@@ -1186,7 +1186,7 @@
 <td><p><a href="../Page/최진한.md" title="wikilink">최진한</a></p></td>
 <td></td>
 <td><ul>
-<li>구단 2번째 <a href="https://ko.wikipedia.org/wiki/K리그1" title="wikilink"><span style="color:#DAA520;">K리그1 우승</span></a> 주장단 (<a href="https://ko.wikipedia.org/wiki/K리그_1990" title="wikilink"><span style="color:#DAA520;">1990</span></a>)</li>
+<li>구단 2번째 <a href="https://ko.wikipedia.org/wiki/K리그1" title="wikilink"><span style="color:#DAA520;">K리그1 우승</span></a> 주장단 (<a href="../Page/K리그_1990.md" title="wikilink"><span style="color:#DAA520;">1990</span></a>)</li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -2022,7 +2022,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/K리그_1990" title="wikilink">1990</a></p></td>
+<td><p><a href="../Page/K리그_1990.md" title="wikilink">1990</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/뉼_이슈트반" title="wikilink">이스트반</a><br />
 (1990-04-01)</p></td>
 <td></td>

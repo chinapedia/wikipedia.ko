@@ -3,7 +3,7 @@
 
 **SNK 코퍼레이션**(, )은 [일본](../Page/일본.md "wikilink")의 비디오 게임 회사이다. 자사의 아케이드용 게임을 그대로 가정에서도 할 수 있는 게임 시스템 [네오지오의](https://ko.wikipedia.org/wiki/네오지오_\(콘솔\) "wikilink") 제작회사이다. 대표작으로는 《[더 킹 오브 파이터즈](../Page/더_킹_오브_파이터즈.md "wikilink")》, 《[아랑전설](../Page/아랑전설.md "wikilink")》, 《[용호의 권](../Page/용호의_권.md "wikilink")》, 《[사무라이 쇼다운](../Page/사무라이_쇼다운.md "wikilink")》, 《[메탈슬러그](../Page/메탈슬러그.md "wikilink")》 등이 있다.
 
-2001년 10월 22일 파산 이후 SNK에서 파생된 회사인 **SNK 플레이모어**로 계속해서 게임들을 제작하다가 2016년 12월 1일부터 다시 SNK 사명으로 복귀했다.\[1\]
+2001년 10월 22일 파산 이후 SNK에서 파생된 회사인 **플레이모어**(이후 SNK 플레이모어)로 계속해서 게임들을 제작하다가 2016년 12월 1일부터 다시 SNK 사명으로 복귀했다.\[1\]
 
 2015년에는 중국의 37Games에 인수되었으나 현재는 워롱 부동산 그룹에 인수되었다.
 
@@ -29,6 +29,6 @@
 ## 외부 링크
 
   -
-[SNK](https://ko.wikipedia.org/wiki/분류:SNK "wikilink") [분류:1973년 설립](https://ko.wikipedia.org/wiki/분류:1973년_설립 "wikilink") [분류:오사카부의 기업](https://ko.wikipedia.org/wiki/분류:오사카부의_기업 "wikilink") [분류:일본의 비디오 게임 회사](https://ko.wikipedia.org/wiki/분류:일본의_비디오_게임_회사 "wikilink") [분류:미국의 비디오 게임 회사](https://ko.wikipedia.org/wiki/분류:미국의_비디오_게임_회사 "wikilink") [분류:비디오 게임 개발사](https://ko.wikipedia.org/wiki/분류:비디오_게임_개발사 "wikilink") [분류:비디오 게임 배급사](https://ko.wikipedia.org/wiki/분류:비디오_게임_배급사 "wikilink") [분류:일본의 브랜드](https://ko.wikipedia.org/wiki/분류:일본의_브랜드 "wikilink")
+[SNK](https://ko.wikipedia.org/wiki/분류:SNK "wikilink") [분류:1978년 설립](https://ko.wikipedia.org/wiki/분류:1978년_설립 "wikilink") [분류:오사카부의 기업](https://ko.wikipedia.org/wiki/분류:오사카부의_기업 "wikilink") [분류:일본의 비디오 게임 회사](https://ko.wikipedia.org/wiki/분류:일본의_비디오_게임_회사 "wikilink") [분류:미국의 비디오 게임 회사](https://ko.wikipedia.org/wiki/분류:미국의_비디오_게임_회사 "wikilink") [분류:비디오 게임 개발사](https://ko.wikipedia.org/wiki/분류:비디오_게임_개발사 "wikilink") [분류:비디오 게임 배급사](https://ko.wikipedia.org/wiki/분류:비디오_게임_배급사 "wikilink") [분류:일본의 브랜드](https://ko.wikipedia.org/wiki/분류:일본의_브랜드 "wikilink")
 
 1.

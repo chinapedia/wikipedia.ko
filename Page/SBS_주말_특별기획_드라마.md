@@ -1,15 +1,17 @@
 > This article is converted from Wikipedia: [SBS 주말 특별기획 드라마](https://ko.wikipedia.org/wiki/SBS_주말_특별기획_드라마).
 
 
-**SBS 주말 특별기획 드라마**는 [SBS에서](../Page/SBS_\(대한민국의_방송사\).md "wikilink") [토요일](../Page/토요일.md "wikilink") 밤 9시 5분에 방송되는 [텔레비전 드라마이다](../Page/텔레비전_드라마.md "wikilink"). 대부분 16부작에서 30부작 사이의 미니시리즈 형식으로 방영되었으나 50부작에서 120부작이 넘는 장편 드라마도 방영되었다.
+**SBS 주말 특별 기획 드라마**는 [SBS에서](../Page/SBS_\(대한민국의_방송사\).md "wikilink") 매주 [토요일](../Page/토요일.md "wikilink") 오후 9시 5분에 방송되는 [텔레비전 드라마이다](../Page/텔레비전_드라마.md "wikilink"). 대부분 16부작에서 30부작 사이의 미니시리즈 형식으로 방영되었으나 50부작에서 120부작이 넘는 장편 드라마도 방영되었다.
 
 이 시간대의 첫 드라마인 《[코리아게이트](../Page/코리아게이트_\(드라마\).md "wikilink")》는 토요일 2회 연속 방영되었으며, 이어 재방송된 《[모래시계](../Page/모래시계_\(드라마\).md "wikilink")》는 한 주에 4회(수\~목, 토\~일)에 걸쳐 방영되었다.
 
-[1998년](../Page/1998년.md "wikilink") [5월 17일에](../Page/5월_17일.md "wikilink") 《[삼김시대](../Page/삼김시대_\(드라마\).md "wikilink")》를 마지막으로 중지되었다가 이후 [2002년](../Page/2002년.md "wikilink") [3월 2일](../Page/3월_2일.md "wikilink") 《[유리구두](../Page/유리구두.md "wikilink")》로 부활하였다. 그러나, [2016년](../Page/2016년.md "wikilink") [10월 30일에](../Page/10월_30일.md "wikilink") 《[고호의 별이 빛나는 밤에](https://ko.wikipedia.org/wiki/고호의_별이_빛나는_밤에 "wikilink")》를 마지막으로 다시 폐지되었다.
+[1998년](../Page/1998년.md "wikilink") [5월 17일에](../Page/5월_17일.md "wikilink") 《[삼김시대](../Page/삼김시대_\(드라마\).md "wikilink")》를 마지막으로 중단 되었다가 이후 [2002년](../Page/2002년.md "wikilink") [3월 2일](../Page/3월_2일.md "wikilink") 《[유리구두](../Page/유리구두.md "wikilink")》로 부활하였다. 그러나 [2016년](../Page/2016년.md "wikilink") [10월 30일에](../Page/10월_30일.md "wikilink") 《[고호의 별이 빛나는 밤에](https://ko.wikipedia.org/wiki/고호의_별이_빛나는_밤에 "wikilink")》를 마지막으로 다시 폐지되었다.
 
 [2017년](../Page/2017년.md "wikilink") [4월 15일](../Page/4월_15일.md "wikilink") 부터 《[언니는 살아있다](../Page/언니는_살아있다.md "wikilink")》를 시작으로 다시 토요일 밤 8시 45분에 편성하여 방영되었다. 토요일 2회 연속 방영하다가 [2017년](../Page/2017년.md "wikilink") [9월 2일](../Page/9월_2일.md "wikilink") 부터는 1회당 35분 분량으로 4회 연속 방영되었다. [2018년](../Page/2018년.md "wikilink") [7월 14일](../Page/7월_14일.md "wikilink") 부터는 토요일 9시 5분에 1회당 30분 분량을 4회 연속 방영되었다.
 
-한편, [2019년](../Page/2019년.md "wikilink") [2월 9일](../Page/2월_9일.md "wikilink") 《[운명과 분노](../Page/운명과_분노_\(2018년_드라마\).md "wikilink")》를 끝으로 **주말 특별기획 드라마**는 막을 내렸고 후속작인 《[열혈사제](../Page/열혈사제.md "wikilink")》는 신설된 **[금토드라마](../Page/SBS_금토드라마.md "wikilink")**로 편성되었다.\[1\]
+《[운명과 분노](../Page/운명과_분노_\(2018년_드라마\).md "wikilink")》를 마지막으로 **SBS 주말 특별 기획 드라마**는 폐지 되었다.
+
+후속작인 《[열혈사제](../Page/열혈사제.md "wikilink")》는 신설된 **[금토드라마](../Page/SBS_금토드라마.md "wikilink")**로 편성되었다.\[1\]
 
 ## 방송 시간
 
@@ -43,158 +45,164 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>2002년 3월 2일 ~ 2008년 3월 30일</p></td>
+<td><p>2002년 3월 2일 ~ 2002년 5월 26일</p></td>
+<td><p>매주 <a href="https://ko.wikipedia.org/wiki/주말" title="wikilink">주말</a> 밤 9시 45분 ~ 11시 5분</p></td>
+<td><p>1시간 20분</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2002년 6월 1일 ~ 2002년 6월 15일</p></td>
+<td><p>매주 <a href="../Page/토요일.md" title="wikilink">토요일</a> 밤 10시 30분 ~ 12시 30분</p></td>
+<td><p>120분</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2002년 7월 6일 ~ 2006년 1월 22일</p></td>
+<td><p>매주 <a href="https://ko.wikipedia.org/wiki/주말" title="wikilink">주말</a> 밤 9시 45분 ~ 11시 5분</p></td>
+<td><p>1시간 20분</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2006년 2월 4일 ~ 2007년 9월 23일</p></td>
 <td><p>매주 <a href="https://ko.wikipedia.org/wiki/주말" title="wikilink">주말</a> 밤 9시 55분 ~ 11시 5분</p></td>
 <td><p>1시간 10분</p></td>
 <td></td>
 </tr>
-<tr class="odd">
-<td><p>2008년 4월 5일 ~ 2008년 4월 6일</p></td>
-<td><p>매주 주말 밤 10시 ~ 11시 10분</p></td>
-<td></td>
-<td></td>
-</tr>
 <tr class="even">
-<td><p>2008년 4월 12일 ~ 2008년 5월 18일</p></td>
-<td><p>매주 주말 밤 10시 ~ 11시 15분</p></td>
-<td><p>1시간 15분</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>2008년 5월 24일 ~ 2008년 10월 19일</p></td>
+<td><p>2007년 9월 29일 ~ 2008년 10월 19일</p></td>
 <td><p>매주 주말 밤 10시 ~ 11시 20분</p></td>
 <td><p>1시간 20분</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2008년 10월 25일 ~ 2009년 4월 19일</p></td>
 <td><p>매주 주말 밤 10시 ~ 11시 10분</p></td>
 <td><p>1시간 10분</p></td>
 <td></td>
 </tr>
-<tr class="odd">
-<td><p>2008년 4월 25일 ~ 2010년 1월 3일</p></td>
+<tr class="even">
+<td><p>2009년 4월 25일 ~ 2010년 1월 3일</p></td>
 <td><p>매주 주말 밤 10시 ~ 11시 20분</p></td>
 <td><p>1시간 20분</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2010년 1월 9일 ~ 2010년 3월 7일</p></td>
 <td><p>매주 주말 밤 10시 ~ 11시 10분</p></td>
 <td><p>1시간 10분</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2010년 3월 20일 ~ 2010년 6월 6일</p></td>
 <td><p>매주 주말 밤 10시 ~ 11시 20분</p></td>
 <td><p>1시간 20분</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2010년 7월 4일 ~ 2010년 11월 7일</p></td>
 <td><p>매주 주말 밤 10시 ~ 11시 10분</p></td>
 <td><p>1시간 10분</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2010년 11월 13일 ~ 2010년 11월 21일</p></td>
 <td><p>매주 주말 밤 9시 50분 ~ 11시</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2010년 11월 27일 ~ 2011년 1월 16일</p></td>
 <td><p>매주 주말 밤 9시 50분 ~ 11시 10분</p></td>
 <td><p>1시간 20분</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2011년 1월 23일 ~ 2011년 7월 31일</p></td>
 <td><p>매주 주말 밤 9시 50분 ~ 11시</p></td>
 <td><p>1시간 10분</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2011년 8월 6일 ~ 2011년 9월 25일</p></td>
 <td><p>매주 주말 밤 9시 50분 ~ 11시 10분</p></td>
 <td><p>1시간 20분</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2011년 10월 1일 ~ 2012년 5월 6일</p></td>
 <td><p>매주 주말 밤 9시 50분 ~ 11시</p></td>
 <td><p>1시간 10분</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2012년 5월 12일 ~ 2012년 7월 22일</p></td>
 <td><p>매주 주말 밤 9시 50분 ~ 11시 10분</p></td>
 <td><p>1시간 20분</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2012년 8월 18일 ~ 2012년 10월 28일</p></td>
 <td><p>매주 주말 밤 9시 50분 ~ 11시</p></td>
 <td><p>1시간 10분</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2012년 11월 3일 ~ 2013년 2월 24일</p></td>
 <td><p>매주 주말 밤 9시 55분 ~ 11시 5분</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2013년 3월 2일 ~ 2013년 3월 31일</p></td>
 <td><p>매주 주말 밤 10시 ~ 11시 10분</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2013년 4월 6일 ~ 2015년 3월 15일</p></td>
 <td><p>매주 주말 밤 9시 55분 ~ 11시 15분</p></td>
 <td><p>1시간 20분</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2015년 3월 21일 ~ 2016년 2월 7일</p></td>
 <td><p>매주 주말 밤 10시 ~ 11시 10분</p></td>
 <td><p>1시간 10분</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2016년 2월 13일 ~ 2016년 10월 16일</p></td>
 <td><p>매주 주말 밤 9시 55분 ~ 11시 10분</p></td>
 <td><p>1시간 15분</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2016년 10월 22일 ~ 2016년 10월 30일</p></td>
 <td><p>매주 주말 밤 9시 55분 ~ 11시 5분</p></td>
 <td><p>1시간 10분</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2017년 4월 15일 ~ 2017년 8월 26일</p></td>
 <td><p>매주 토요일 밤 8시 45분 ~ 11시 5분</p></td>
 <td><p>2시간 20분<br />
 (회당 70분 2회 연속 방송)</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2017년 9월 2일 ~ 2017년 10월 14일</p></td>
 <td><p>2시간 20분<br />
 (회당 35분 4회 연속 방송)</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2017년 10월 21일 ~ 2018년 7월 7일</p></td>
 <td><p>매주 토요일 밤 8시 55분 ~ 11시 15분</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2018년 7월 14일 ~ 2019년 2월 9일</p></td>
 <td><p>매주 토요일 밤 9시 5분 ~ 11시 5분</p></td>
 <td><p>2시간<br />
@@ -205,6 +213,9 @@
 </table>
 
 ## 작품 리스트
+
+  - 아래의 프로그램들은 [2003년](../Page/2003년.md "wikilink") 이전에 제작 및 방영한 작품들로 부득이하게 일부 장면에서 [흡연](../Page/흡연.md "wikilink") 장면 및 [담배](https://ko.wikipedia.org/wiki/담배 "wikilink") 소품이 노출될 수 있으며, 시청자 여러분들의 양해를 바랍니다.
+  - 아래의 프로그램들은 [2002년](../Page/2002년.md "wikilink") [11월](../Page/11월.md "wikilink") 이후에 [시청 등급 제도를](../Page/대한민국의_텔레비전_등급_제도.md "wikilink") 시행하여, 현재까지 이어지고 있다.
 
 ### 1990년대 후반
 
@@ -332,7 +343,7 @@
   - 《[시크릿 마더](../Page/시크릿_마더.md "wikilink")》 : 2018년 5월 12일 \~ 2018년 7월 7일
   - 《[그녀로 말할 것 같으면](../Page/그녀로_말할_것_같으면.md "wikilink")》 : 2018년 7월 14일 \~ 2018년 9월 29일
   - 《[미스 마 - 복수의 여신](../Page/미스_마_-_복수의_여신.md "wikilink")》 : 2018년 10월 6일 \~ 2018년 11월 24일
-  - 《[운명과 분노](../Page/운명과_분노_\(2018년_드라마\).md "wikilink")》 : 2018년 12월 1일 \~ 2019년 2월 9일 (SBS 주말 특별기획 드라마 폐지)
+  - 《[운명과 분노](../Page/운명과_분노_\(2018년_드라마\).md "wikilink")》 : 2018년 12월 1일 \~ 2019년 2월 9일 (해당 작품을 마지막으로 SBS 주말 특별 기획 드라마 폐지)
 
 ## 각주
 
@@ -344,7 +355,6 @@
   - [문화방송 주말 특별기획 드라마](../Page/문화방송_주말_특별기획_드라마.md "wikilink")
   - [SBS 주말극장](../Page/SBS_주말극장.md "wikilink")
   - [SBS 주말드라마](../Page/SBS_주말드라마.md "wikilink")
-  - [SBS 금토드라마](../Page/SBS_금토드라마.md "wikilink")
 
 [분류:SBS의 텔레비전 드라마](https://ko.wikipedia.org/wiki/분류:SBS의_텔레비전_드라마 "wikilink") [\*](https://ko.wikipedia.org/wiki/분류:SBS_주말_특별기획_드라마 "wikilink")
 

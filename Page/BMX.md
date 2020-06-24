@@ -1,9 +1,7 @@
 > This article is converted from Wikipedia: [BMX](https://ko.wikipedia.org/wiki/BMX).
 
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:BMX_racing_action_photo.jpg "wikilink")
-
-**바이시클 모토크로스**(Bicycle Motocross) 또는 단순히 **BMX**는 자전거 타기의 한 형태로, 20인치 바퀴를 항상 사용하여 특별히 디자인된 자전거를 이용한다. 이 스포츠는 흙으로 만든 트랙을 달리는 BMX 경주와, [프리스타일 BMX](https://ko.wikipedia.org/wiki/프리스타일_BMX "wikilink") 라고 불리는 자전거로 보여주는 묘기 공연을 포함한다.
+[대체글=](https://ko.wikipedia.org/wiki/파일:BMX_abubaca_street.jpg "wikilink") **바이시클 모토크로스**(Bicycle Motocross) 또는 단순히 **BMX**는 자전거 타기의 한 형태로, 20인치 바퀴를 항상 사용하여 특별히 디자인된 자전거를 이용한다. 이 스포츠는 흙으로 만든 트랙을 달리는 BMX 경주와, [프리스타일 BMX](https://ko.wikipedia.org/wiki/프리스타일_BMX "wikilink") 라고 불리는 자전거로 보여주는 묘기 공연을 포함한다.
 
 프리스타일 BMX(Freestyle BMX)는 다섯 가지 개별 영역을 포함할 정도로 발전하였다. 영역은 "거리"(*Street*), "공원"(*Park*), "숲"(*Vert*), 진흙(*Dirt*), 그리고 "평지"(*Flatland*)로 나뉘어 있다. 이 스포츠에는 항상 다양한 지형에서 서로 다른 방식으로 자전거를 타고 묘기를 부리는 움직임이 있다.
 

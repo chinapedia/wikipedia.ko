@@ -60,7 +60,7 @@
 
 ## 참조
 
-[분류:1981년 태어남](https://ko.wikipedia.org/wiki/분류:1981년_태어남 "wikilink") [분류:살아있는 사람](https://ko.wikipedia.org/wiki/분류:살아있는_사람 "wikilink") [분류:무브먼트](https://ko.wikipedia.org/wiki/분류:무브먼트 "wikilink") [분류:2002년 데뷔](https://ko.wikipedia.org/wiki/분류:2002년_데뷔 "wikilink") [분류:서울특별시 출신](https://ko.wikipedia.org/wiki/분류:서울특별시_출신 "wikilink") [분류:에픽하이의 일원](https://ko.wikipedia.org/wiki/분류:에픽하이의_일원 "wikilink") [분류:대한민국의 힙합 DJ](https://ko.wikipedia.org/wiki/분류:대한민국의_힙합_DJ "wikilink") [분류:대한민국의 디스크자키](https://ko.wikipedia.org/wiki/분류:대한민국의_디스크자키 "wikilink") [분류:대한민국의 전자 음악가](https://ko.wikipedia.org/wiki/분류:대한민국의_전자_음악가 "wikilink") [분류:서울특별시 출신 음악가](https://ko.wikipedia.org/wiki/분류:서울특별시_출신_음악가 "wikilink") [분류:아워즈 소속](https://ko.wikipedia.org/wiki/분류:아워즈_소속 "wikilink")
+[분류:1981년 태어남](https://ko.wikipedia.org/wiki/분류:1981년_태어남 "wikilink") [분류:살아있는 사람](https://ko.wikipedia.org/wiki/분류:살아있는_사람 "wikilink") [분류:무브먼트](https://ko.wikipedia.org/wiki/분류:무브먼트 "wikilink") [분류:서울특별시 출신](https://ko.wikipedia.org/wiki/분류:서울특별시_출신 "wikilink") [분류:에픽하이의 일원](https://ko.wikipedia.org/wiki/분류:에픽하이의_일원 "wikilink") [분류:대한민국의 힙합 DJ](https://ko.wikipedia.org/wiki/분류:대한민국의_힙합_DJ "wikilink") [분류:대한민국의 디스크자키](https://ko.wikipedia.org/wiki/분류:대한민국의_디스크자키 "wikilink") [분류:대한민국의 전자 음악가](https://ko.wikipedia.org/wiki/분류:대한민국의_전자_음악가 "wikilink") [분류:서울특별시 출신 음악가](https://ko.wikipedia.org/wiki/분류:서울특별시_출신_음악가 "wikilink") [분류:아워즈 소속](https://ko.wikipedia.org/wiki/분류:아워즈_소속 "wikilink")
 
 1.
 2.

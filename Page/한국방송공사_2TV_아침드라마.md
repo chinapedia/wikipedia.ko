@@ -1,19 +1,19 @@
 > This article is converted from Wikipedia: [한국방송공사 2TV 아침드라마](https://ko.wikipedia.org/wiki/한국방송공사_2TV_아침드라마).
 
 
-**한국방송공사 아침드라마**는 [1983년](../Page/1983년.md "wikilink") [9월 5일부터](../Page/9월_5일.md "wikilink") [2019년](../Page/2019년.md "wikilink") [1월 18일까지](../Page/1월_18일.md "wikilink") 방영된 [KBS 2TV](../Page/KBS_2TV.md "wikilink") [텔레비전 드라마이다](../Page/텔레비전_드라마.md "wikilink"). 폐지 이후, [2019년](../Page/2019년.md "wikilink") [1월 21일부터](../Page/1월_21일.md "wikilink") 현재 아침드라마 시간대에는 [KBS 1TV 저녁일일극](../Page/한국방송공사_1TV_일일연속극.md "wikilink") 전일 방영분 위주로 재방송 중이다.
+**한국방송공사 2TV 아침 드라마**는 [KBS 2TV에서](../Page/KBS_2TV.md "wikilink") [1983년](../Page/1983년.md "wikilink") [9월 5일부터](../Page/9월_5일.md "wikilink") [2019년](../Page/2019년.md "wikilink") [1월 18일까지](../Page/1월_18일.md "wikilink") 방영된 [TV 드라마이다](https://ko.wikipedia.org/wiki/TV_드라마 "wikilink").
+
+《[차달래 부인의 사랑](../Page/차달래_부인의_사랑.md "wikilink")》을 마지막으로 **한국방송공사 2TV 아침 드라마**는 폐지 되었다.
 
 ## 방송 시간
 
-## 시보 광고주
-
-  - [LG생활건강](../Page/LG생활건강.md "wikilink") (노비드, 드봉비누, 자연퐁 등)
-  - [위니아대우](../Page/위니아대우.md "wikilink")
-  - [KBS 2TV](../Page/KBS_2TV.md "wikilink") 아침 9시 시보
-  - [쿠첸](https://ko.wikipedia.org/wiki/쿠첸 "wikilink")
-  - [현대자동차](https://ko.wikipedia.org/wiki/현대자동차 "wikilink")
-
 ## 작품 리스트
+
+  - 아래의 프로그램들은 [한국방송공사](../Page/한국방송공사.md "wikilink")에서 시행중인 [2002년](../Page/2002년.md "wikilink") 금연 캠페인 시행 이전에 제작 및 방영한 작품들로 부득이하게 일부 장면에서 흡연 장면 및 담배 소품이 노출될 수 있으며, 시청자 여러분들의 양해를 바랍니다.
+
+<!-- end list -->
+
+  - 아래의 프로그램들은 [2002년](../Page/2002년.md "wikilink") [11월](../Page/11월.md "wikilink") 이후에 [시청 등급 제도를](../Page/대한민국의_텔레비전_등급_제도.md "wikilink") 시행하여, 현재까지 이어지고 있다.
 
 ### 1980년대 전반
 
@@ -85,10 +85,12 @@
 
 ### 2010년대 후반
 
-  - 《[차달래 부인의 사랑](../Page/차달래_부인의_사랑.md "wikilink")》 : 2018년 9월 3일 \~ 2019년 1월 18일 (해당 작품을 끝으로 폐지되면서 이후 [2019년](../Page/2019년.md "wikilink") [1월 21일부터](../Page/1월_21일.md "wikilink") 현재 [KBS 1TV 저녁일일극](../Page/한국방송공사_1TV_일일연속극.md "wikilink") 재방송중)
+  - 《[차달래 부인의 사랑](../Page/차달래_부인의_사랑.md "wikilink")》 : 2018년 9월 3일 \~ 2019년 1월 18일 (해당 작품을 마지막으로 KBS 2TV 아침 드라마 폐지)
 
 ## 같이 보기
 
-  - [한국방송공사 TV 소설](../Page/한국방송공사_TV_소설.md "wikilink")
+  - [한국방송공사 1TV 아침드라마](https://ko.wikipedia.org/wiki/한국방송공사_1TV_아침드라마 "wikilink")
+  - [문화방송 아침드라마](../Page/문화방송_아침드라마.md "wikilink")
+  - [SBS 아침연속극](../Page/SBS_아침연속극.md "wikilink")
 
 [분류:한국방송공사의 텔레비전 드라마](https://ko.wikipedia.org/wiki/분류:한국방송공사의_텔레비전_드라마 "wikilink") [\*](https://ko.wikipedia.org/wiki/분류:한국방송공사_2TV_아침드라마 "wikilink")

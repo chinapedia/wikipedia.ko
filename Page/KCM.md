@@ -375,7 +375,7 @@
   - 2017년 [SBS](../Page/SBS_\(대한민국의_방송사\).md "wikilink") 《[런닝맨](https://ko.wikipedia.org/wiki/런닝맨 "wikilink")》
   - 2017년 [SBS](../Page/SBS_\(대한민국의_방송사\).md "wikilink") 《[정글의 법칙](../Page/정글의_법칙.md "wikilink")》
   - 2017년 [JTBC](../Page/JTBC.md "wikilink") 《[갑자기 히어로즈](https://ko.wikipedia.org/wiki/갑자기_히어로즈 "wikilink")》
-  - 2019년 채널A 《[리와인드 - 시간을 달리는 게임](https://ko.wikipedia.org/wiki/리와인드_-_시간을_달리는_게임 "wikilink")》
+  - 2019년 채널A 《[리와인드 - 시간을 달리는 게임](../Page/리와인드_-_시간을_달리는_게임.md "wikilink")》
 
 ### 드라마
 
@@ -395,4 +395,4 @@
 ## 외부 링크
 
   -
-[분류:살아있는 사람](https://ko.wikipedia.org/wiki/분류:살아있는_사람 "wikilink") [분류:2002년 데뷔](https://ko.wikipedia.org/wiki/분류:2002년_데뷔 "wikilink") [분류:1982년 태어남](https://ko.wikipedia.org/wiki/분류:1982년_태어남 "wikilink") [분류:청운대학교 동문](https://ko.wikipedia.org/wiki/분류:청운대학교_동문 "wikilink") [분류:대한민국의 발라드 음악가](https://ko.wikipedia.org/wiki/분류:대한민국의_발라드_음악가 "wikilink") [분류:대한민국의 남자 가수](https://ko.wikipedia.org/wiki/분류:대한민국의_남자_가수 "wikilink") [분류:대한민국의 작사가](https://ko.wikipedia.org/wiki/분류:대한민국의_작사가 "wikilink") [분류:대한민국의 개신교도](https://ko.wikipedia.org/wiki/분류:대한민국의_개신교도 "wikilink") [분류:대한민국의 방송인](https://ko.wikipedia.org/wiki/분류:대한민국의_방송인 "wikilink") [분류:비디오 자키](https://ko.wikipedia.org/wiki/분류:비디오_자키 "wikilink") [분류:충현고등학교 동문](https://ko.wikipedia.org/wiki/분류:충현고등학교_동문 "wikilink") [분류:광명시 출신](https://ko.wikipedia.org/wiki/분류:광명시_출신 "wikilink")
+[분류:살아있는 사람](https://ko.wikipedia.org/wiki/분류:살아있는_사람 "wikilink") [분류:1982년 태어남](https://ko.wikipedia.org/wiki/분류:1982년_태어남 "wikilink") [분류:청운대학교 동문](https://ko.wikipedia.org/wiki/분류:청운대학교_동문 "wikilink") [분류:대한민국의 발라드 음악가](https://ko.wikipedia.org/wiki/분류:대한민국의_발라드_음악가 "wikilink") [분류:대한민국의 남자 가수](https://ko.wikipedia.org/wiki/분류:대한민국의_남자_가수 "wikilink") [분류:대한민국의 작사가](https://ko.wikipedia.org/wiki/분류:대한민국의_작사가 "wikilink") [분류:대한민국의 개신교도](https://ko.wikipedia.org/wiki/분류:대한민국의_개신교도 "wikilink") [분류:대한민국의 방송인](https://ko.wikipedia.org/wiki/분류:대한민국의_방송인 "wikilink") [분류:비디오 자키](https://ko.wikipedia.org/wiki/분류:비디오_자키 "wikilink") [분류:충현고등학교 동문](https://ko.wikipedia.org/wiki/분류:충현고등학교_동문 "wikilink") [분류:광명시 출신](https://ko.wikipedia.org/wiki/분류:광명시_출신 "wikilink")

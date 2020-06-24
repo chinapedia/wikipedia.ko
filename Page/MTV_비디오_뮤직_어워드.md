@@ -52,7 +52,7 @@
 </tr>
 <tr class="even">
 <td><p>올해의 노래상</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/Old_Town_Road" title="wikilink">Old Town Road</a><br />
+<td><p><a href="../Page/Old_Town_Road.md" title="wikilink">Old Town Road</a><br />
 <small>(<a href="../Page/릴_나스_엑스.md" title="wikilink">릴 나스 엑스</a> (Feat. <a href="../Page/빌리_레이_사이러스.md" title="wikilink">빌리 레이 사이러스</a>))</small></p></td>
 <td></td>
 </tr>
@@ -127,7 +127,7 @@
 </tr>
 <tr class="odd">
 <td><p>최우수 연출상</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/Old_Town_Road" title="wikilink">Old Town Road</a><br />
+<td><p><a href="../Page/Old_Town_Road.md" title="wikilink">Old Town Road</a><br />
 <small>(<a href="../Page/릴_나스_엑스.md" title="wikilink">릴 나스 엑스</a> (Feat. <a href="../Page/빌리_레이_사이러스.md" title="wikilink">빌리 레이 사이러스</a>))</small></p></td>
 <td></td>
 </tr>
@@ -139,7 +139,7 @@
 </tr>
 <tr class="odd">
 <td><p>최우수 편집상</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/Bad_Guy" title="wikilink">Bad Guy</a><br />
+<td><p><a href="../Page/Bad_Guy.md" title="wikilink">Bad Guy</a><br />
 <small>(<a href="../Page/빌리_아일리시.md" title="wikilink">빌리 아일리시</a>)</small></p></td>
 <td></td>
 </tr>

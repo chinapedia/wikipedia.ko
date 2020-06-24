@@ -29,7 +29,7 @@
 
   - [PBS 홈페이지](http://www.pbs.org)
 
-[PBS](https://ko.wikipedia.org/wiki/분류:PBS "wikilink") [분류:미국의 방송사](https://ko.wikipedia.org/wiki/분류:미국의_방송사 "wikilink") [분류:1969년 설립](https://ko.wikipedia.org/wiki/분류:1969년_설립 "wikilink") [분류:공영 방송](https://ko.wikipedia.org/wiki/분류:공영_방송 "wikilink") [분류:1970년 설립된 텔레비전 방송국과 채널](https://ko.wikipedia.org/wiki/분류:1970년_설립된_텔레비전_방송국과_채널 "wikilink")
+[PBS](https://ko.wikipedia.org/wiki/분류:PBS "wikilink") [분류:미국의 방송사](https://ko.wikipedia.org/wiki/분류:미국의_방송사 "wikilink") [분류:1969년 설립](https://ko.wikipedia.org/wiki/분류:1969년_설립 "wikilink") [분류:공영 방송](https://ko.wikipedia.org/wiki/분류:공영_방송 "wikilink") [분류:1970년 설립된 텔레비전 방송국과 채널](https://ko.wikipedia.org/wiki/분류:1970년_설립된_텔레비전_방송국과_채널 "wikilink") [분류:버지니아주의 기업](https://ko.wikipedia.org/wiki/분류:버지니아주의_기업 "wikilink")
 
 1.  [뉴저지주](../Page/뉴저지주.md "wikilink") [뉴어크에도](../Page/뉴어크_\(뉴저지주\).md "wikilink") 송출한다.
 2.  본사는 [뉴욕주](../Page/뉴욕주.md "wikilink") [가든 시티에](https://ko.wikipedia.org/wiki/가든시티_\(뉴욕주\) "wikilink") 있다.

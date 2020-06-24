@@ -21,9 +21,9 @@
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:20100903_daewoo_new_rezzo_01.jpg "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:20100903_daewoo_new_rezzo_02.jpg "wikilink")
 
-[2005년](../Page/2005년.md "wikilink") [7월 11일에](../Page/7월_11일.md "wikilink") 라디에이터 그릴을 바꾸고, 메탈릭 색상의 루프 랙이 적용된 뉴 레조가 출시되었다. 저조한 판매 실적과 노후화 등에 따라 [2007년 6월에](../Page/2007년_6월.md "wikilink") 단종되었다. 편의상 레조의 후속 차종이라고 하는 [쉐보레 올란도는](../Page/쉐보레_올란도.md "wikilink") 레조가 단종된 후 한동안의 공백기를 지나 출시되었고, 차체 크기 또한 큰 차이를 보이기에 실질적인 후속 차종은 아니다.
+[2005년](../Page/2005년.md "wikilink") [7월 11일에](../Page/7월_11일.md "wikilink") 라디에이터 그릴을 바꾸고, 메탈릭 색상의 루프 랙이 적용된 뉴 레조가 출시되었다. 엔진 결함으로 인한 리콜 문제 때문에, 저조한 판매 실적으로 [2007년 6월에](../Page/2007년_6월.md "wikilink") 단종되었다. 건설교통부(현 [국토교통부](https://ko.wikipedia.org/wiki/국토교통부 "wikilink"))의 정밀 검사 결과, 소비자들의 주장대로 피스톤 링이 절단되는 등 제작 결함이 있었고, 내시경을 통한 엔진 검사에서, 정상 차량의 실린더보다 벽면이 심하게 마모되어, [엔진 오일이](https://ko.wikipedia.org/wiki/엔진_오일 "wikilink") 엔진에서 연소되는 것으로 밝혀졌다고 해명했다.\[3\]
 
-{{-}}
+편의상 레조의 후속 차종이라고 하는 [쉐보레 올란도는](../Page/쉐보레_올란도.md "wikilink") 레조가 단종된 후 한동안의 공백기를 지나 출시되었고, 차체 크기 또한 큰 차이를 보이기에 실질적인 후속 차종은 아니다. {{-}}
 
 ## 제원
 
@@ -165,3 +165,4 @@
 
 1.  [작년 자동차 판매 3백40만대.. 사상 최대](http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=101&oid=015&aid=0000320022) [한국경제신문](../Page/한국경제신문.md "wikilink"), [2001년](../Page/2001년.md "wikilink") [1월 3일](../Page/1월_3일.md "wikilink")
 2.  [안전 보완 '2002년형' 레조 시판 外](http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=101&oid=005&aid=0000054615) [국민일보](../Page/국민일보.md "wikilink"), [2001년](../Page/2001년.md "wikilink") [5월 10일](../Page/5월_10일.md "wikilink")
+3.  [소비자 압력에 굴복, GM대우 레조 LPG 리콜, KBS 뉴스 9, 2004년 2월 4일](http://d.kbs.co.kr/news/view.do?ncd=538704)

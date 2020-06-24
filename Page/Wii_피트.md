@@ -5,7 +5,7 @@
 
 ## 개요
 
-건강을 관리하는 게임 소프트로서 “헬스 팩”의 이름으로 시작된 “Wii Fit”는 [미야모토 시게루를](../Page/미야모토_시게루.md "wikilink") 중심으로 개발진에 의해서 개발되어 [2007년](../Page/2007년.md "wikilink") [7월 11일에](../Page/7월_11일.md "wikilink") [미국](../Page/미국.md "wikilink") [산타모니카](https://ko.wikipedia.org/wiki/산타모니카 "wikilink")에서 개최된 ‘E3’에서 명칭을 “Wii Fit”로 변경해, 전 세계를 향해 발표되었다.\[1\] [일본](../Page/일본.md "wikilink") 내에서는 [2007년](../Page/2007년.md "wikilink") [10월 10일에](../Page/10월_10일.md "wikilink") [치바 시에서](https://ko.wikipedia.org/wiki/치바_시 "wikilink") 개최된 「닌텐도 컨퍼런스」에서 정식으로 발표되었다. 이 소프트웨어는 2008년도 〈일본 게임 대상〉에서 대상 수상을 수상했으며 동시에 베스트 세일즈상도 수상했다.
+건강을 관리하는 게임 소프트로서 “헬스 팩”의 이름으로 시작된 “Wii Fit”는 [미야모토 시게루를](../Page/미야모토_시게루.md "wikilink") 중심으로 개발진에 의해서 개발되어 [2007년](../Page/2007년.md "wikilink") [7월 11일에](../Page/7월_11일.md "wikilink") [미국](../Page/미국.md "wikilink") [산타모니카](https://ko.wikipedia.org/wiki/산타모니카 "wikilink")에서 개최된 ‘E3’에서 명칭을 “Wii Fit”로 변경해, 전 세계를 향해 발표되었다.\[1\] [일본](../Page/일본.md "wikilink") 내에서는 [2007년](../Page/2007년.md "wikilink") [10월 10일에](../Page/10월_10일.md "wikilink") [지바시](../Page/지바시.md "wikilink")에서 개최된 「닌텐도 컨퍼런스」에서 정식으로 발표되었다. 이 소프트웨어는 2008년도 〈일본 게임 대상〉에서 대상 수상을 수상했으며 동시에 베스트 세일즈상도 수상했다.
 
 구성품 중 하나인 「[Wii 밸런스 보드](../Page/Wii_밸런스_보드.md "wikilink")」에 올라 타 체중 측정이나 비만도 지수(BMI; Body Mass Index), 몸의 밸런스 측정으로 현재 자신의 몸 상태를 확인한다. 또 측정 결과에 따라 몸의 밸런스가 맞혀지도록 다양한 피트니스를 제공하는 여러가지 트레이닝을 실시한다.
 

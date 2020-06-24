@@ -45,7 +45,7 @@
   - [오광록](../Page/오광록.md "wikilink")
   - [엄기준](../Page/엄기준.md "wikilink")
   - [이봉원](../Page/이봉원.md "wikilink")
-  - [윤주빈](https://ko.wikipedia.org/wiki/윤주빈 "wikilink")
+  - [윤주빈](../Page/윤주빈.md "wikilink")
   - [장혁](../Page/장혁.md "wikilink")
   - [정수교](../Page/정수교.md "wikilink")
   - [정찬민](https://ko.wikipedia.org/wiki/정찬민_\(희극인\) "wikilink")
@@ -83,6 +83,7 @@
   - [최수정](https://ko.wikipedia.org/wiki/최수정 "wikilink")
   - [한가림](../Page/한가림.md "wikilink")
   - [홍현희](../Page/홍현희.md "wikilink")
+  - [혜린](../Page/혜린.md "wikilink")
 
 ### 음악 그룹
 
@@ -203,7 +204,7 @@
   - [김채은](../Page/김채은.md "wikilink")
   - [김화주](https://ko.wikipedia.org/wiki/김화주 "wikilink")
   - [김혜수](../Page/김혜수.md "wikilink")
-  - [김혜진](https://ko.wikipedia.org/wiki/김혜진_\(배우\) "wikilink")
+  - [김혜진](../Page/김혜진_\(1975년\).md "wikilink")
   - [남규리](../Page/남규리.md "wikilink")
   - [다솜](https://ko.wikipedia.org/wiki/다솜_\(1993년_11월\) "wikilink")
   - [맹승지](../Page/맹승지.md "wikilink")
@@ -336,7 +337,7 @@
 ## 주요 채널 소개
 
   - [코미디TV](https://ko.wikipedia.org/wiki/코미디TV "wikilink"): Always Fun. (오락 채널)
-  - [K STAR](../Page/K-STAR_\(텔레비전_채널\).md "wikilink"): K Holic. (연예정보 채널)
+  - [K-STAR](../Page/K-STAR.md "wikilink"): K Holic. (연예정보 채널)
   - [드라맥스](../Page/드라맥스.md "wikilink"): 드라마 처럼. (드라마 채널)
   - [AXN](https://ko.wikipedia.org/wiki/AXN_코리아 "wikilink"): 미드의 판을 뒤집다. (시리즈 채널)
   - [CUBE TV](https://ko.wikipedia.org/wiki/CUBE_TV "wikilink"): 한류중심의 K-POP+아이돌 버라이어티 채널. (K-POP 채널)

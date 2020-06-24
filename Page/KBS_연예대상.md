@@ -552,7 +552,7 @@
 </tr>
 <tr class="odd">
 <td><p>11회 <a href="../Page/2012년.md" title="wikilink">2012년</a></p></td>
-<td><p><a href="../Page/수지_(대한민국의_가수).md" title="wikilink">수지</a><br />
+<td><p><a href="../Page/수지_(1994년).md" title="wikilink">수지</a><br />
 <a href="https://ko.wikipedia.org/wiki/주원" title="wikilink">주원</a>, <a href="../Page/주상욱.md" title="wikilink">주상욱</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/박소영_(1987년)" title="wikilink">박소영</a><br />
 <a href="../Page/김기리.md" title="wikilink">김기리</a></p></td>
@@ -612,23 +612,94 @@
     (당시 멤버 : 문은애, 박재은, 이두리, 박다혜, 이은주, 장혜영, 박예나, 김지윤)
   - 17회 ([2019년](../Page/2019년.md "wikilink")) 에는 쇼/오락 부문의 작가상만 선정되었으며, 코미디 부문은 수상자가 없었음.
 
-| 회차                                       | 쇼/오락                                                                                                                                                                                                                                             | 코미디                                                           |
-| ---------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------- |
-| 4회 [2005년](../Page/2005년.md "wikilink")  | 문은애 ([상상플러스](https://ko.wikipedia.org/wiki/상상플러스 "wikilink"), [위기탈출 넘버원](../Page/위기탈출_넘버원.md "wikilink")) </br> 신여진 ([해피투게더](https://ko.wikipedia.org/wiki/해피투게더 "wikilink"), [좋은사람 소개시켜줘](https://ko.wikipedia.org/wiki/좋은사람_소개시켜줘 "wikilink")) | 김은미 ([개그콘서트](https://ko.wikipedia.org/wiki/개그콘서트 "wikilink")) |
-| 5회 [2006년](../Page/2006년.md "wikilink")  | 이현주 ([비타민](../Page/비타민_\(텔레비전_프로그램\).md "wikilink"))                                                                                                                                                                                             | 홍윤희 ([개그콘서트](https://ko.wikipedia.org/wiki/개그콘서트 "wikilink")) |
-| 6회 [2007년](../Page/2007년.md "wikilink")  | 임기홍 ([연예가중계](../Page/연예가중계.md "wikilink"))                                                                                                                                                                                                       | 이남규 ([개그콘서트](https://ko.wikipedia.org/wiki/개그콘서트 "wikilink")) |
-| 7회 [2008년](../Page/2008년.md "wikilink")  | 이우정 ([1박 2일](../Page/1박_2일.md "wikilink"))                                                                                                                                                                                                       | 강윤미 ([개그콘서트](https://ko.wikipedia.org/wiki/개그콘서트 "wikilink")) |
-| 8회 [2009년](../Page/2009년.md "wikilink")  | 정한욱 ([전국노래자랑](../Page/전국노래자랑.md "wikilink"))                                                                                                                                                                                                     | 백성운 ([개그콘서트](https://ko.wikipedia.org/wiki/개그콘서트 "wikilink")) |
-| 9회 [2010년](../Page/2010년.md "wikilink")  | 이돈경 ([사랑의 리퀘스트](../Page/사랑의_리퀘스트.md "wikilink"))                                                                                                                                                                                                 | 이상덕 ([개그콘서트](https://ko.wikipedia.org/wiki/개그콘서트 "wikilink")) |
-| 10회 [2011년](../Page/2011년.md "wikilink") | 모은설 ([승승장구](https://ko.wikipedia.org/wiki/승승장구 "wikilink")), 조기쁨 ([해피투게더](https://ko.wikipedia.org/wiki/해피투게더 "wikilink"))                                                                                                                       | 최대웅 ([개그스타](https://ko.wikipedia.org/wiki/개그스타 "wikilink"))   |
-| 11회 [2012년](../Page/2012년.md "wikilink") | 최재영 ([1박 2일](../Page/1박_2일.md "wikilink"))                                                                                                                                                                                                       | 조예현 ([개그콘서트](https://ko.wikipedia.org/wiki/개그콘서트 "wikilink")) |
-| 12회 [2013년](../Page/2013년.md "wikilink") | 이현숙 ([연예가중계](../Page/연예가중계.md "wikilink"))                                                                                                                                                                                                       | 이상덕 ([개그콘서트](https://ko.wikipedia.org/wiki/개그콘서트 "wikilink")) |
-| 13회 [2014년](../Page/2014년.md "wikilink") | 김정선 ([해피선데이](../Page/해피선데이.md "wikilink")-[슈퍼맨이 돌아왔다](../Page/슈퍼맨이_돌아왔다.md "wikilink")) </br> 김지은 ([불후의 명곡 2](https://ko.wikipedia.org/wiki/불후의_명곡:_전설을_노래하다 "wikilink"))                                                                        | 이상덕 ([개그콘서트](https://ko.wikipedia.org/wiki/개그콘서트 "wikilink")) |
-| 14회 [2015년](../Page/2015년.md "wikilink") | 이상준 ([나는 대한민국](../Page/나는_대한민국.md "wikilink"))                                                                                                                                                                                                   | 최성혜 ([개그콘서트](https://ko.wikipedia.org/wiki/개그콘서트 "wikilink")) |
-| 15회 [2016년](../Page/2016년.md "wikilink") | 정선영 ([1박 2일](../Page/1박_2일.md "wikilink")), 지현숙 ([언니들의 슬램덩크](https://ko.wikipedia.org/wiki/언니들의_슬램덩크 "wikilink"))                                                                                                                                | 윤기영 ([개그콘서트](https://ko.wikipedia.org/wiki/개그콘서트 "wikilink")) |
-| 16회 [2018년](../Page/2018년.md "wikilink") | 심은하 ([살림하는 남자들](../Page/살림하는_남자들.md "wikilink")), 안녕하세요 팀 ([안녕하세요](../Page/대국민_토크쇼_안녕하세요.md "wikilink"))                                                                                                                                         | 장종원 ([개그콘서트](https://ko.wikipedia.org/wiki/개그콘서트 "wikilink")) |
-| 17회 [2019년](../Page/2019년.md "wikilink") | 백순영 ([슈퍼맨이 돌아왔다](../Page/슈퍼맨이_돌아왔다.md "wikilink"), [신상출시 편스토랑](https://ko.wikipedia.org/wiki/신상출시_편스토랑 "wikilink"))                                                                                                                              | \-                                                            |
-|                                          |                                                                                                                                                                                                                                                  |                                                               |
+<table>
+<thead>
+<tr class="header">
+<th><p>회차</p></th>
+<th><p>쇼/오락</p></th>
+<th><p>코미디</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>4회 <a href="../Page/2005년.md" title="wikilink">2005년</a></p></td>
+<td><p>문은애 (<a href="https://ko.wikipedia.org/wiki/상상플러스" title="wikilink">상상플러스</a>, <a href="../Page/위기탈출_넘버원.md" title="wikilink">위기탈출 넘버원</a>)<br />
+신여진 (<a href="https://ko.wikipedia.org/wiki/해피투게더" title="wikilink">해피투게더</a>, <a href="https://ko.wikipedia.org/wiki/좋은사람_소개시켜줘" title="wikilink">좋은사람 소개시켜줘</a>)</p></td>
+<td><p>김은미 (<a href="https://ko.wikipedia.org/wiki/개그콘서트" title="wikilink">개그콘서트</a>)</p></td>
+</tr>
+<tr class="even">
+<td><p>5회 <a href="../Page/2006년.md" title="wikilink">2006년</a></p></td>
+<td><p>이현주 (<a href="../Page/비타민_(텔레비전_프로그램).md" title="wikilink">비타민</a>)</p></td>
+<td><p>홍윤희 (<a href="https://ko.wikipedia.org/wiki/개그콘서트" title="wikilink">개그콘서트</a>)</p></td>
+</tr>
+<tr class="odd">
+<td><p>6회 <a href="../Page/2007년.md" title="wikilink">2007년</a></p></td>
+<td><p>임기홍 (<a href="../Page/연예가중계.md" title="wikilink">연예가중계</a>)</p></td>
+<td><p>이남규 (<a href="https://ko.wikipedia.org/wiki/개그콘서트" title="wikilink">개그콘서트</a>)</p></td>
+</tr>
+<tr class="even">
+<td><p>7회 <a href="../Page/2008년.md" title="wikilink">2008년</a></p></td>
+<td><p>이우정 (<a href="../Page/1박_2일.md" title="wikilink">1박 2일</a>)</p></td>
+<td><p>강윤미 (<a href="https://ko.wikipedia.org/wiki/개그콘서트" title="wikilink">개그콘서트</a>)</p></td>
+</tr>
+<tr class="odd">
+<td><p>8회 <a href="../Page/2009년.md" title="wikilink">2009년</a></p></td>
+<td><p>정한욱 (<a href="../Page/전국노래자랑.md" title="wikilink">전국노래자랑</a>)</p></td>
+<td><p>백성운 (<a href="https://ko.wikipedia.org/wiki/개그콘서트" title="wikilink">개그콘서트</a>)</p></td>
+</tr>
+<tr class="even">
+<td><p>9회 <a href="../Page/2010년.md" title="wikilink">2010년</a></p></td>
+<td><p>이돈경 (<a href="../Page/사랑의_리퀘스트.md" title="wikilink">사랑의 리퀘스트</a>)</p></td>
+<td><p>이상덕 (<a href="https://ko.wikipedia.org/wiki/개그콘서트" title="wikilink">개그콘서트</a>)</p></td>
+</tr>
+<tr class="odd">
+<td><p>10회 <a href="../Page/2011년.md" title="wikilink">2011년</a></p></td>
+<td><p>모은설 (<a href="https://ko.wikipedia.org/wiki/승승장구" title="wikilink">승승장구</a>), 조기쁨 (<a href="https://ko.wikipedia.org/wiki/해피투게더" title="wikilink">해피투게더</a>)</p></td>
+<td><p>최대웅 (<a href="https://ko.wikipedia.org/wiki/개그스타" title="wikilink">개그스타</a>)</p></td>
+</tr>
+<tr class="even">
+<td><p>11회 <a href="../Page/2012년.md" title="wikilink">2012년</a></p></td>
+<td><p>최재영 (<a href="../Page/1박_2일.md" title="wikilink">1박 2일</a>)</p></td>
+<td><p>조예현 (<a href="https://ko.wikipedia.org/wiki/개그콘서트" title="wikilink">개그콘서트</a>)</p></td>
+</tr>
+<tr class="odd">
+<td><p>12회 <a href="../Page/2013년.md" title="wikilink">2013년</a></p></td>
+<td><p>이현숙 (<a href="../Page/연예가중계.md" title="wikilink">연예가중계</a>)</p></td>
+<td><p>이상덕 (<a href="https://ko.wikipedia.org/wiki/개그콘서트" title="wikilink">개그콘서트</a>)</p></td>
+</tr>
+<tr class="even">
+<td><p>13회 <a href="../Page/2014년.md" title="wikilink">2014년</a></p></td>
+<td><p>김정선 (<a href="../Page/해피선데이.md" title="wikilink">해피선데이</a>-<a href="../Page/슈퍼맨이_돌아왔다.md" title="wikilink">슈퍼맨이 돌아왔다</a>)<br />
+김지은 (<a href="https://ko.wikipedia.org/wiki/불후의_명곡:_전설을_노래하다" title="wikilink">불후의 명곡 2</a>)</p></td>
+<td><p>이상덕 (<a href="https://ko.wikipedia.org/wiki/개그콘서트" title="wikilink">개그콘서트</a>)</p></td>
+</tr>
+<tr class="odd">
+<td><p>14회 <a href="../Page/2015년.md" title="wikilink">2015년</a></p></td>
+<td><p>이상준 (<a href="../Page/나는_대한민국.md" title="wikilink">나는 대한민국</a>)</p></td>
+<td><p>최성혜 (<a href="https://ko.wikipedia.org/wiki/개그콘서트" title="wikilink">개그콘서트</a>)</p></td>
+</tr>
+<tr class="even">
+<td><p>15회 <a href="../Page/2016년.md" title="wikilink">2016년</a></p></td>
+<td><p>정선영 (<a href="../Page/1박_2일.md" title="wikilink">1박 2일</a>), 지현숙 (<a href="https://ko.wikipedia.org/wiki/언니들의_슬램덩크" title="wikilink">언니들의 슬램덩크</a>)</p></td>
+<td><p>윤기영 (<a href="https://ko.wikipedia.org/wiki/개그콘서트" title="wikilink">개그콘서트</a>)</p></td>
+</tr>
+<tr class="odd">
+<td><p>16회 <a href="../Page/2018년.md" title="wikilink">2018년</a></p></td>
+<td><p>심은하 (<a href="../Page/살림하는_남자들.md" title="wikilink">살림하는 남자들</a>), 안녕하세요 팀 (<a href="../Page/대국민_토크쇼_안녕하세요.md" title="wikilink">안녕하세요</a>)</p></td>
+<td><p>장종원 (<a href="https://ko.wikipedia.org/wiki/개그콘서트" title="wikilink">개그콘서트</a>)</p></td>
+</tr>
+<tr class="even">
+<td><p>17회 <a href="../Page/2019년.md" title="wikilink">2019년</a></p></td>
+<td><p>백순영 (<a href="../Page/슈퍼맨이_돌아왔다.md" title="wikilink">슈퍼맨이 돌아왔다</a>, <a href="https://ko.wikipedia.org/wiki/신상출시_편스토랑" title="wikilink">신상출시 편스토랑</a>)</p></td>
+<td><p>-</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 #### 최우수 아이디어(코너)상
 
@@ -1470,7 +1541,7 @@
 
   - 2011년 : [1박 2일팀](../Page/1박_2일.md "wikilink") (시즌1)이 [감사합니다를](https://ko.wikipedia.org/wiki/개그콘서트 "wikilink") 패러디하였다.
       - 당시 멤버 : [엄태웅](../Page/엄태웅.md "wikilink"), [이수근](../Page/이수근_\(희극인\).md "wikilink"), [은지원](../Page/은지원.md "wikilink"), [김종민](../Page/김종민.md "wikilink"), [이승기](../Page/이승기.md "wikilink")
-  - 2012년 : [1박 2일팀](../Page/1박_2일.md "wikilink") (시즌2)이 [네가지(7가지)](https://ko.wikipedia.org/wiki/개그콘서트 "wikilink")\[7\]를 패러디 하였다.
+  - 2012년 : [1박 2일팀](../Page/1박_2일.md "wikilink") (시즌2)이 [네가지(7가지)](https://ko.wikipedia.org/wiki/개그콘서트 "wikilink")\[7\] 를 패러디 하였다.
       - 당시 멤버 : [김승우](../Page/김승우.md "wikilink"), [엄태웅](../Page/엄태웅.md "wikilink"), [이수근](../Page/이수근_\(희극인\).md "wikilink"), [차태현](../Page/차태현.md "wikilink"), [성시경](https://ko.wikipedia.org/wiki/성시경 "wikilink"), [김종민](../Page/김종민.md "wikilink"), [주원](https://ko.wikipedia.org/wiki/주원 "wikilink")
   - 2013년 : [1박 2일팀](../Page/1박_2일.md "wikilink") (시즌3)이 [시청률의 제왕을](https://ko.wikipedia.org/wiki/개그콘서트 "wikilink") 패러디하였다.
       - 당시 멤버 : [김주혁](../Page/김주혁.md "wikilink"), [김준호](../Page/김준호_\(희극인\).md "wikilink"), [차태현](../Page/차태현.md "wikilink"), [데프콘](../Page/데프콘_\(가수\).md "wikilink"), [김종민](../Page/김종민.md "wikilink"), [정준영](../Page/정준영.md "wikilink")
@@ -1495,10 +1566,10 @@
 
 [분류:KBS 연예대상](https://ko.wikipedia.org/wiki/분류:KBS_연예대상 "wikilink") [분류:대한민국의 텔레비전상](https://ko.wikipedia.org/wiki/분류:대한민국의_텔레비전상 "wikilink") [분류:2002년 설립](https://ko.wikipedia.org/wiki/분류:2002년_설립 "wikilink") [분류:한국방송공사의 연예오락 프로그램](https://ko.wikipedia.org/wiki/분류:한국방송공사의_연예오락_프로그램 "wikilink")
 
-1.  이상은 코너가 끝나고 받는상이다. 이와 같이 코너가 끝나고 후보에 오른 것은 깐죽거리 잔혹사 이다.
+1.  이상은 코너가 끝나고 받는상이다. 이와 같이 코너가 끝나고 후보에 오른 것은 깐죽거리 잔혹사이다.
 2.  [스타뉴스 - KBS 연예대상, '개콘' 잔치속 '슈퍼맨'·'예체능' 우뚝](http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=106&oid=108&aid=0002269485)
 3.  [AGB 닐슨 미디어 리서치 홈페이지](http://www.agbnielsen.co.kr/)
-4.  **연예대상 2관왕** : 같은 연도에 방송 3사 중 2개의 방송사에서 동시에 연예대상을 수상하는 것을 의미
+4.  **연예대상 2관왕** : 같은 연도에 방송 3사 중 2개의 방송사에서 동시에 연예대상을 수상하는 것을 의미함
 5.
 6.
 7.  7명이므로 7가지로 하였다.

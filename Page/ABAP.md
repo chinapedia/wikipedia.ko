@@ -37,4 +37,4 @@ ABAP를 위한 부가적인 개발도구로 다음과 같은 것이 있다.
 
 ## 각주
 
-[분류:4GL](https://ko.wikipedia.org/wiki/분류:4GL "wikilink") [분류:프로그래밍 언어](https://ko.wikipedia.org/wiki/분류:프로그래밍_언어 "wikilink") [분류:SAP SE](https://ko.wikipedia.org/wiki/분류:SAP_SE "wikilink") [분류:크로스 플랫폼 소프트웨어](https://ko.wikipedia.org/wiki/분류:크로스_플랫폼_소프트웨어 "wikilink")
+[분류:4세대 프로그래밍 언어](https://ko.wikipedia.org/wiki/분류:4세대_프로그래밍_언어 "wikilink") [분류:프로그래밍 언어](https://ko.wikipedia.org/wiki/분류:프로그래밍_언어 "wikilink") [분류:SAP SE](https://ko.wikipedia.org/wiki/분류:SAP_SE "wikilink") [분류:크로스 플랫폼 소프트웨어](https://ko.wikipedia.org/wiki/분류:크로스_플랫폼_소프트웨어 "wikilink")

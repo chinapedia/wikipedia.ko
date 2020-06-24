@@ -20,7 +20,7 @@
 <li><a href="https://ko.wikipedia.org/wiki/보헤미안_랩소디" title="wikilink">Bohemian Rhapsody</a> (Mercury)</li>
 <li>Hammer To Fall (May)</li>
 <li>Radio Ga-Ga (Taylor)</li>
-<li><a href="https://ko.wikipedia.org/wiki/We_Will_Rock_You" title="wikilink">We Will Rock You</a> (May)</li>
+<li><a href="../Page/We_Will_Rock_You.md" title="wikilink">We Will Rock You</a> (May)</li>
 <li>Friends Will Be Friends (Mercury/Deacon)</li>
 <li><a href="../Page/We_Are_the_Champions.md" title="wikilink">We Are the Champions</a> (Mercury)</li>
 <li>God Save the Queen (Trad. arr. May)</li>

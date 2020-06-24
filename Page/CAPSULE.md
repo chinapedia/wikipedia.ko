@@ -5,7 +5,7 @@
 
 ## 구성원
 
-두 사람 모두 [이시카와현](../Page/이시카와현.md "wikilink") [가나자와 시](https://ko.wikipedia.org/wiki/가나자와_시 "wikilink") 출신이다.
+두 사람 모두 [이시카와현](../Page/이시카와현.md "wikilink") [가나자와시](../Page/가나자와시.md "wikilink") 출신이다.
 
   - [나카타 야스타카](../Page/나카타_야스타카.md "wikilink"): 작사, 작곡, 편곡, 프로듀스
   - [고시지마 도시코](../Page/고시지마_도시코.md "wikilink"): 보컬
@@ -87,7 +87,7 @@
   - [++ capsule official web](http://www.capsule-web.com/) 공식 홈페이지(소리 주의)
 
   -
-[분류:1997년 데뷔](https://ko.wikipedia.org/wiki/분류:1997년_데뷔 "wikilink") [분류:이시카와현 출신](https://ko.wikipedia.org/wiki/분류:이시카와현_출신 "wikilink") [분류:2인조 음악 그룹](https://ko.wikipedia.org/wiki/분류:2인조_음악_그룹 "wikilink") [분류:혼성 음악 그룹](https://ko.wikipedia.org/wiki/분류:혼성_음악_그룹 "wikilink") [분류:일본의 전자 음악 그룹](https://ko.wikipedia.org/wiki/분류:일본의_전자_음악_그룹 "wikilink") [분류:1990년대 음악 그룹](https://ko.wikipedia.org/wiki/분류:1990년대_음악_그룹 "wikilink") [분류:2000년대 음악 그룹](https://ko.wikipedia.org/wiki/분류:2000년대_음악_그룹 "wikilink") [분류:2010년대 음악 그룹](https://ko.wikipedia.org/wiki/분류:2010년대_음악_그룹 "wikilink") [분류:시부야계 음악가](https://ko.wikipedia.org/wiki/분류:시부야계_음악가 "wikilink") [분류:1997년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:1997년_결성된_음악_그룹 "wikilink")
+[분류:이시카와현 출신](https://ko.wikipedia.org/wiki/분류:이시카와현_출신 "wikilink") [분류:2인조 음악 그룹](https://ko.wikipedia.org/wiki/분류:2인조_음악_그룹 "wikilink") [분류:혼성 음악 그룹](https://ko.wikipedia.org/wiki/분류:혼성_음악_그룹 "wikilink") [분류:일본의 전자 음악 그룹](https://ko.wikipedia.org/wiki/분류:일본의_전자_음악_그룹 "wikilink") [분류:1990년대 음악 그룹](https://ko.wikipedia.org/wiki/분류:1990년대_음악_그룹 "wikilink") [분류:2000년대 음악 그룹](https://ko.wikipedia.org/wiki/분류:2000년대_음악_그룹 "wikilink") [분류:2010년대 음악 그룹](https://ko.wikipedia.org/wiki/분류:2010년대_음악_그룹 "wikilink") [분류:시부야계 음악가](https://ko.wikipedia.org/wiki/분류:시부야계_음악가 "wikilink") [분류:1997년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:1997년_결성된_음악_그룹 "wikilink")
 
 1.
 2.

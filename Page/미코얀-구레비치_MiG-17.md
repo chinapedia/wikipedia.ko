@@ -19,7 +19,7 @@ MiG-17은 기본적으로 공중전을 수행하는 [전투기](https://ko.wikip
 
 ## 외부 링크
 
-[분류:소련 및 러시아의 전투기](https://ko.wikipedia.org/wiki/분류:소련_및_러시아의_전투기 "wikilink") [분류:경전투기](https://ko.wikipedia.org/wiki/분류:경전투기 "wikilink") [분류:단발 제트기](https://ko.wikipedia.org/wiki/분류:단발_제트기 "wikilink") [분류:미그기](https://ko.wikipedia.org/wiki/분류:미그기 "wikilink") [분류:1950년 첫 비행한 항공기](https://ko.wikipedia.org/wiki/분류:1950년_첫_비행한_항공기 "wikilink")
+[분류:소련 및 러시아의 전투기](https://ko.wikipedia.org/wiki/분류:소련_및_러시아의_전투기 "wikilink") [분류:경전투기](https://ko.wikipedia.org/wiki/분류:경전투기 "wikilink") [분류:단발 제트기](https://ko.wikipedia.org/wiki/분류:단발_제트기 "wikilink") [분류:미그기](https://ko.wikipedia.org/wiki/분류:미그기 "wikilink") [분류:1950년 첫 비행한 항공기](https://ko.wikipedia.org/wiki/분류:1950년_첫_비행한_항공기 "wikilink") [분류:중익기](https://ko.wikipedia.org/wiki/분류:중익기 "wikilink")
 
 1.  Andreas Parsch and Aleksey V. Martynov,[Designations of Soviet and Russian Military Aircraft and Missiles](http://www.designation-systems.net/non-us/soviet.html#_Listings_Fighters)
 2.  ["Type" Numbers (1947-1955)](http://www.designation-systems.net/non-us/soviet.html#_DOD_Type)

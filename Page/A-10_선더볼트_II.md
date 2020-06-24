@@ -32,7 +32,7 @@
   - [The Warthog Pen web site](http://www.warthogpen.com/)
   - [A-10 Battle Damage Repair Gulf War](https://web.archive.org/web/20090603181235/http://pats-world.com/gulfwar/index.htm)
 
-[분류:공격기](https://ko.wikipedia.org/wiki/분류:공격기 "wikilink") [분류:1972년 첫 비행한 항공기](https://ko.wikipedia.org/wiki/분류:1972년_첫_비행한_항공기 "wikilink") [분류:쌍발 제트기](https://ko.wikipedia.org/wiki/분류:쌍발_제트기 "wikilink")
+[분류:공격기](https://ko.wikipedia.org/wiki/분류:공격기 "wikilink") [분류:1972년 첫 비행한 항공기](https://ko.wikipedia.org/wiki/분류:1972년_첫_비행한_항공기 "wikilink") [분류:쌍발 제트기](https://ko.wikipedia.org/wiki/분류:쌍발_제트기 "wikilink") [분류:저익기](https://ko.wikipedia.org/wiki/분류:저익기 "wikilink")
 
 1.  <http://dna.naver.com/> 1978년 2월 23일 경향신문 2면
 2.  <http://dna.naver.com/> 동아일보 1978년 3월 2일 1면, 경향신문 1978년 3월 2일 2면

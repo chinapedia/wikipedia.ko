@@ -78,8 +78,8 @@
   - [올레TV](https://ko.wikipedia.org/wiki/올레_TV의_방송_채널 "wikilink") - 986번
   - [SK B tv](https://ko.wikipedia.org/wiki/B_TV의_방송_채널 "wikilink") - 192번
   - [U+tv G](https://ko.wikipedia.org/wiki/U+_TV의_방송_채널 "wikilink") - 223번
-  - [티브로드](../Page/티브로드.md "wikilink") - 166번
-  - [CJ헬로비전](https://ko.wikipedia.org/wiki/CJ헬로비전 "wikilink") - 142번
+  - [SK브로드밴드](../Page/SK브로드밴드.md "wikilink") - 166번
+  - [LG헬로비전](../Page/LG헬로비전.md "wikilink") - 142번
   - [아름방송](https://ko.wikipedia.org/wiki/아름방송 "wikilink") - 142번
   - [남인천방송](../Page/남인천방송.md "wikilink") - 147번
   - [현대HCN](../Page/현대HCN.md "wikilink") - 302번
@@ -212,7 +212,7 @@
   - [플라워링 하트](../Page/플라워링_하트.md "wikilink")
   - [선물공룡 디보](https://ko.wikipedia.org/wiki/선물공룡_디보 "wikilink")
   - [꾸러기 상상여행](https://ko.wikipedia.org/wiki/꾸러기_상상여행 "wikilink")
-  - [바니와 친구들](https://ko.wikipedia.org/wiki/바니와_친구들 "wikilink")
+  - [바니와 친구들](../Page/바니와_친구들.md "wikilink")
   - [내 친구 펭귄 핑구](../Page/핑구.md "wikilink")
   - [안녕\! 오스월드](../Page/안녕!_오스월드.md "wikilink")
   - [쫑알쫑알 진저](https://ko.wikipedia.org/wiki/쫑알쫑알_진저 "wikilink")
@@ -249,7 +249,7 @@
 
 ## 외부 링크
 
-  - [재능 TV](http://www.jei-tv.com) - 공식 웹사이트
+  - [JEI 재능TV](http://www.jei-tv.com) - 공식 웹사이트
 
 [\*](https://ko.wikipedia.org/wiki/분류:재능TV "wikilink") [분류:대한민국의 텔레비전 케이블 방송국](https://ko.wikipedia.org/wiki/분류:대한민국의_텔레비전_케이블_방송국 "wikilink") [두산수퍼네트워크](https://ko.wikipedia.org/wiki/분류:두산의_이전_자회사 "wikilink") [두산수퍼네트워크](https://ko.wikipedia.org/wiki/분류:1995년_설립된_텔레비전_방송국과_채널 "wikilink") [두산수퍼네트워크](https://ko.wikipedia.org/wiki/분류:1998년_폐지된_텔레비전_방송국과_채널 "wikilink") [JN23TV](https://ko.wikipedia.org/wiki/분류:1998년_설립된_텔레비전_방송국과_채널 "wikilink") [JN23TV](https://ko.wikipedia.org/wiki/분류:2000년_폐지된_텔레비전_방송국과_채널 "wikilink") [JEI스스로방송](https://ko.wikipedia.org/wiki/분류:2001년_설립된_텔레비전_방송국과_채널 "wikilink") [JEI스스로방송](https://ko.wikipedia.org/wiki/분류:2004년_폐지된_텔레비전_방송국과_채널 "wikilink") [JEI재능방송](https://ko.wikipedia.org/wiki/분류:2004년_설립된_텔레비전_방송국과_채널 "wikilink") [JEI재능방송](https://ko.wikipedia.org/wiki/분류:2007년_폐지된_텔레비전_방송국과_채널 "wikilink") [분류:2007년 설립된 텔레비전 방송국과 채널](https://ko.wikipedia.org/wiki/분류:2007년_설립된_텔레비전_방송국과_채널 "wikilink") [분류:텔레비전 어린이 방송](https://ko.wikipedia.org/wiki/분류:텔레비전_어린이_방송 "wikilink")
 

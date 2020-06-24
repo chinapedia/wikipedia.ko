@@ -115,7 +115,7 @@
   - [자바스크립트 HTML5 동영상 Wrapper (GPL)](http://www.projekktor.com)
   - [jQuery HTML5 동영상 플레이어 (GPL)](http://www.mediafront.org/project/osmplayer)
 
-[분류:HTML](https://ko.wikipedia.org/wiki/분류:HTML "wikilink")
+[분류:HTML](https://ko.wikipedia.org/wiki/분류:HTML "wikilink") [분류:HTML5](https://ko.wikipedia.org/wiki/분류:HTML5 "wikilink")
 
 1.  [Mozilla Firefox 3.5 Release Notes](http://www.mozilla.com/en-US/firefox/3.5/releasenotes/)
 2.

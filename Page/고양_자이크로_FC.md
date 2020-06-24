@@ -236,6 +236,7 @@
 ## 외부 링크
 
   - [고양 자이크로 FC 페이스북](https://www.facebook.com/goyangzaicrofc/)
+  - [고양 자이크로 FC 네이버 블로그](https://blog.naver.com/goyanghifc)
 
 [고양_자이크로_FC](https://ko.wikipedia.org/wiki/분류:고양_자이크로_FC "wikilink") [분류:고양시의 스포츠](https://ko.wikipedia.org/wiki/분류:고양시의_스포츠 "wikilink") [실업](https://ko.wikipedia.org/wiki/분류:대한민국의_세미프로_축구단 "wikilink") [분류:내셔널리그 구단](https://ko.wikipedia.org/wiki/분류:내셔널리그_구단 "wikilink") [분류:K리그2 구단](https://ko.wikipedia.org/wiki/분류:K리그2_구단 "wikilink") [분류:1999년 설립된 축구단](https://ko.wikipedia.org/wiki/분류:1999년_설립된_축구단 "wikilink") [분류:2016년 폐지](https://ko.wikipedia.org/wiki/분류:2016년_폐지 "wikilink")
 

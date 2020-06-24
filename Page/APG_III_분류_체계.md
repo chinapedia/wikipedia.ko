@@ -173,8 +173,9 @@
 
 ## 같이 보기
 
-  - [속씨식물의 과 목록 (APG II 분류 체계)](../Page/속씨식물의_과_목록_\(APG_II_분류_체계\).md "wikilink")
-  - [속씨식물의 과 목록](../Page/속씨식물의_과_목록.md "wikilink") (APG III 분류 체계)
+  - [APG 분류 체계](../Page/APG_분류_체계.md "wikilink") (1998년)
+  - [APG II 분류 체계](../Page/APG_II_분류_체계.md "wikilink") (2003년)
+  - [APG IV 분류 체계](https://ko.wikipedia.org/wiki/APG_IV_분류_체계 "wikilink") (2016년)
   - [속씨식물 분류 체계 비교](../Page/속씨식물_분류_체계_비교.md "wikilink")
 
 ## 외부 링크

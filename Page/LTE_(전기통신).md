@@ -607,7 +607,7 @@ UE 수신 (MHz)</p></th>
   - [LSTI 홈페이지](http://www.lstiforum.org)
   - LTE 관련 장비사 키사이트
 
-[분류:이동 통신 표준](https://ko.wikipedia.org/wiki/분류:이동_통신_표준 "wikilink")
+[LTE_(전기통신)](https://ko.wikipedia.org/wiki/분류:LTE_\(전기통신\) "wikilink") [분류:이동 통신 표준](https://ko.wikipedia.org/wiki/분류:이동_통신_표준 "wikilink")
 
 1.
 2.  [\[기사AS](http://www.bloter.net/archives/189971) 광대역과 LTE-A, 차근차근 짚어봅시다\]

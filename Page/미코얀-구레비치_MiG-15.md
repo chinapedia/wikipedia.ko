@@ -87,7 +87,7 @@
   -
 ## 각주
 
-[분류:소련 및 러시아의 전투기](https://ko.wikipedia.org/wiki/분류:소련_및_러시아의_전투기 "wikilink") [분류:경전투기](https://ko.wikipedia.org/wiki/분류:경전투기 "wikilink") [분류:단발 제트기](https://ko.wikipedia.org/wiki/분류:단발_제트기 "wikilink") [분류:미그기](https://ko.wikipedia.org/wiki/분류:미그기 "wikilink") [분류:1947년 첫 비행한 항공기](https://ko.wikipedia.org/wiki/분류:1947년_첫_비행한_항공기 "wikilink")
+[분류:소련 및 러시아의 전투기](https://ko.wikipedia.org/wiki/분류:소련_및_러시아의_전투기 "wikilink") [분류:경전투기](https://ko.wikipedia.org/wiki/분류:경전투기 "wikilink") [분류:단발 제트기](https://ko.wikipedia.org/wiki/분류:단발_제트기 "wikilink") [분류:미그기](https://ko.wikipedia.org/wiki/분류:미그기 "wikilink") [분류:1947년 첫 비행한 항공기](https://ko.wikipedia.org/wiki/분류:1947년_첫_비행한_항공기 "wikilink") [분류:중익기](https://ko.wikipedia.org/wiki/분류:중익기 "wikilink")
 
 1.  [MiG-15 "Fagot"](http://www.mnangmuseum.org/exhibits/fagot.html) , Minnesota Air National Guard Museum
 2.  Gordon, Yefim. Mikoyan-Gurevich MiG-15. Leicester, UK: Midland Publishing, 2001. .

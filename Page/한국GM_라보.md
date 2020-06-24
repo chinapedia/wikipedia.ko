@@ -5,7 +5,7 @@
 
 ## 1세대(DA51/DB51)
 
-### 라보 / 뉴 라보 (1991년 8월\~2021년)
+### 라보 / 뉴 라보 (1991년 8월\~2021년 12월)
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:20120101_daewoo_labo_1.jpg "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:20120101_daewoo_labo_2.jpg "wikilink")
 

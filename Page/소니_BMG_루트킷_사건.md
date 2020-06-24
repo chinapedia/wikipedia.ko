@@ -61,7 +61,7 @@
 
 1.  Anastasi, M. A. ["Sony Exec: We Will Beat Napster,"](http://www.nyfairuse.org/sony.xhtml)  New Yorkers For Fair Use web site, August 17, 2000,
 2.  Rohde, Laura (2001-09-27). [Sony: Downbeat for a new online music battle](http://archives.cnn.com/2001/TECH/industry/09/27/sony.music.battle.idg/index.html), IDG.
-3.  [마크 러시노비치](../Page/마크_러시노비치.md "wikilink") (2005-10-31). [1](http://blogs.technet.com/markrussinovich/archive/2005/10/31/sony-rootkits-and-digital-rights-management-gone-too-far.aspx) Mark's Blog. Microsoft MSDN.
+3.  [마크 러시노비치](../Page/마크_러시노비치.md "wikilink") (2005-10-31). [1](http://blogs.technet.com/markrussinovich/archive/2005/10/31/sony-rootkits-and-digital-rights-management-gone-too-far.aspx)  Mark's Blog. Microsoft MSDN.
 4.  Larvala, Samuli. ["F-Secure Rootkit Information : XCP DRM Software"](http://www.f-secure.com/v-descs/xcp_drm.shtml)  F-secure Computer Rootkit Information Pages, November 29, 2005.
 5.  vnunet (2005-11-15), ["Sony backs out of rootkit anti-piracy scheme"](https://web.archive.org/web/20051124115346/http://www.vnunet.com/vnunet/news/2146053/sony-backs-root-kit-anti-piracy)
 6.  ["First 4 Internet XCP DRM Vulnerabilities"](http://www.us-cert.gov/current/archive/2005/11/17/archive.html#xcpdrm) , US-CERT Activity Archive, November 15, 2005.

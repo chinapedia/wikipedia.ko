@@ -45,7 +45,7 @@
 
 ## 결성\[2\]
 
-  - [2005년](../Page/2005년.md "wikilink") [10월 6일](../Page/10월_6일.md "wikilink") [금요일](../Page/금요일.md "wikilink"), [오키나와](../Page/오키나와현.md "wikilink") [나하 시의](https://ko.wikipedia.org/wiki/나하_시 "wikilink") [맥도날드](../Page/맥도날드.md "wikilink")에서 사치코가 "멋있는 걸즈 밴드를 만들고 싶다\!"라는 생각으로 유코와 이야기를 시작했다. 그 뒤 유코, 사야카, 유미의 순서로 맴버 가입했다.
+  - [2005년](../Page/2005년.md "wikilink") [10월 6일](../Page/10월_6일.md "wikilink") [금요일](../Page/금요일.md "wikilink"), [오키나와](../Page/오키나와현.md "wikilink") [나하시](../Page/나하시.md "wikilink")의 [맥도날드](../Page/맥도날드.md "wikilink")에서 사치코가 "멋있는 걸즈 밴드를 만들고 싶다\!"라는 생각으로 유코와 이야기를 시작했다. 그 뒤 유코, 사야카, 유미의 순서로 맴버 가입했다.
   - 밴드 이름 "FLiP"의 "i"는 소문자로 쓰는 것이 더 눈에 띄고 예뻤기 때문에 소문자로 표기하기로 했다.
 
 ## 내력

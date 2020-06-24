@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [OB 맥주](https://ko.wikipedia.org/wiki/OB_맥주).
 
 
-**오비맥주주식회사**(Oriental Brewery Co.,Ltd.)는 [대한민국](../Page/대한민국.md "wikilink") [서울특별시](../Page/서울특별시.md "wikilink") [강남구](https://ko.wikipedia.org/wiki/강남구 "wikilink")에 본사를 둔 기업이다. 과거 동양맥주주식회사로 [두산](../Page/두산.md "wikilink")의 계열사였으나 현재는 세계 최대 맥주회사 [AB인베브의](../Page/앤하이저부시_인베브.md "wikilink") 자회사이다. 프리미엄OB, 카스, 카스라이트, 카프리 등의 [맥주](../Page/맥주.md "wikilink")를 생산하고 있다. [경기도](https://ko.wikipedia.org/wiki/경기도 "wikilink") [이천시](../Page/이천시.md "wikilink"), [광주광역시](https://ko.wikipedia.org/wiki/광주광역시 "wikilink"), [충청북도](https://ko.wikipedia.org/wiki/충청북도 "wikilink") [청주시](../Page/청주시.md "wikilink") 등 총 3개 생산공장이 있는데 [1993년](../Page/1993년.md "wikilink") 전국체전 야구경기\[1\]와 [2007년](../Page/2007년.md "wikilink") 전국체전 고등부 야구경기\[2\]를 광주공장 야구장에서 개최한 바 있었다.
+**오비맥주주식회사**(Oriental Brewery Co.,Ltd.)는 [대한민국](../Page/대한민국.md "wikilink") [서울특별시](../Page/서울특별시.md "wikilink") [강남구](https://ko.wikipedia.org/wiki/강남구 "wikilink")에 본사를 둔 기업이다. 과거 동양맥주주식회사로 [두산의](../Page/두산그룹.md "wikilink") 계열사였으나 현재는 세계 최대 맥주회사 [AB인베브의](../Page/앤하이저부시_인베브.md "wikilink") 자회사이다. 프리미엄OB, 카스, 카스라이트, 카프리 등의 [맥주](../Page/맥주.md "wikilink")를 생산하고 있다. [경기도](https://ko.wikipedia.org/wiki/경기도 "wikilink") [이천시](../Page/이천시.md "wikilink"), [광주광역시](https://ko.wikipedia.org/wiki/광주광역시 "wikilink"), [충청북도](https://ko.wikipedia.org/wiki/충청북도 "wikilink") [청주시](../Page/청주시.md "wikilink") 등 총 3개 생산공장이 있는데 [1993년](../Page/1993년.md "wikilink") 전국체전 야구경기\[1\]와 [2007년](../Page/2007년.md "wikilink") 전국체전 고등부 야구경기\[2\]를 광주공장 야구장에서 개최한 바 있었다.
 
 ## 연혁
 
@@ -19,7 +19,7 @@
   - 1981년 8월 OB씨그램 합작으로 위스키 블랙스톤 출시
   - 1984년 5월 OB씨그램 영국 시바스 브라더스 사 투자출자협의
   - 1984년 6월 OB씨그램 영국 시바스 브라더스에 원료공급로 받아 생산을 한 100%정통 스카치위스키 패스포트 출시
-  - 1985년 12월 OB맥주 86아시안게임,88서울올림픽 공식후원사 지정
+  - 1985년 11월 OB맥주 86아시안게임,88서울올림픽 공식후원사 지정
   - 1986년 4월 동양맥주 개발한 저알콜 저칼로리 맥주 OB라이트 출시
   - 1987년 1월 특급위스키 디프로매트 출시
   - 1987년 5월 동양맥주 광주공장 완공
@@ -143,19 +143,19 @@
 
 ## 사업장
 
-#### 본사
+### 본사
 
   - 주소: 서울특별시 강남구 영동대로 517, 8층 (삼성동, 아셈타워)
 
-#### 청주공장
+### 청주공장
 
   - 주소: 충청북도 청주시 서원구 현도면 현도공단로 151 (진로쿠어스의 공장이었다. 카스가 원래 진로쿠어스의 브랜드였고 지금도 청주공장에서는 카스와 레드락만 생산한다.)
 
-#### 이천공장
+### 이천공장
 
   - 주소: 경기도 이천시 부발읍 경충대로 2314 (원래 OB씨그램에 합작회사의 위스키공장이었다. 오비맥주의 브랜드인 카스, 프리미엄OB, 카프리, 필굿 외에 맥주 일부를 생산한다.)
 
-#### 광주공장
+### 광주공장
 
   - 주소: 광주광역시 북구 양일로 177 (일곡동) (오비맥주의 브랜드인 카스, 프리미엄OB, 필굿, 외에 모회사인 AB인베브 브랜드의 맥주 중 일부를 생산한다. 호가든과 버드와이저가 대표적이다.)
 

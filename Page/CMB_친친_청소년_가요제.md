@@ -160,7 +160,7 @@
 
   - [슈퍼주니어](../Page/슈퍼주니어.md "wikilink") 의 [려욱](../Page/려욱.md "wikilink"),[규현](../Page/규현.md "wikilink")
   - [티아라](../Page/티아라_\(음악_그룹\).md "wikilink") 의 [소연](https://ko.wikipedia.org/wiki/소연_\(가수\) "wikilink")
-  - [레인보우](https://ko.wikipedia.org/wiki/레인보우_\(음악_그룹\) "wikilink") 의 [김재경](https://ko.wikipedia.org/wiki/김재경 "wikilink")
+  - [레인보우](../Page/레인보우_\(대한민국의_음악_그룹\).md "wikilink") 의 [김재경](https://ko.wikipedia.org/wiki/김재경 "wikilink")
   - [B1A4](../Page/B1A4.md "wikilink") 의 [신우](https://ko.wikipedia.org/wiki/신우 "wikilink")
   - [나인뮤지스](../Page/나인뮤지스.md "wikilink") 의 [혜미](../Page/혜미_\(1991년\).md "wikilink")
   - [스피카](../Page/스피카_\(음악_그룹\).md "wikilink") 의 [김보형](../Page/김보형.md "wikilink")

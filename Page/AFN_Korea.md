@@ -102,7 +102,7 @@ AFN 360 인터넷 라디오 홈페이지와 스마트폰 앱으로 청취할수 
 
   -
 
-  - [AFN Korea 한국 시청자 라운지](http://www.afn.co.kr/)
+  - [AFN Korea 한국 시청자 라운지](https://web.archive.org/web/20081015210807/http://www.afn.co.kr/)
 
   - [그땐 ‘미드’에 밤새우고 ‘팝’에 열광했었다](http://weekly.donga.com/docs/magazine/weekly/2008/01/23/200801230500043/200801230500043_1.html), 《주간동아》 621호, 2008.1.29
 

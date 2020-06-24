@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [김해BUS](https://ko.wikipedia.org/wiki/김해BUS).
 
 
-**김해비유에스**(金海-)는 [태영운송그룹](../Page/태영운송그룹.md "wikilink") 계열 [경상남도](https://ko.wikipedia.org/wiki/경상남도 "wikilink") [김해시](https://ko.wikipedia.org/wiki/김해시 "wikilink") 자회사이자 경상남도 김해시 골든루트로66번길 143번지에 본사를 둔 [시내버스](../Page/시내버스.md "wikilink") 운송 업체이다. 주로 [김해시](https://ko.wikipedia.org/wiki/김해시 "wikilink") 읍면 공영노선과 [부산광역시](https://ko.wikipedia.org/wiki/부산광역시 "wikilink") 일부 지역을 기점으로 하는 노선을 운행한다.
+**김해비유에스**(金海-)는 [태영운송그룹](../Page/태영운송그룹.md "wikilink") 계열 [경상남도](https://ko.wikipedia.org/wiki/경상남도 "wikilink") [김해시](https://ko.wikipedia.org/wiki/김해시 "wikilink") 자회사이자 경상남도 김해시 골든루트로66번길 143에 본사를 둔 [시내버스](../Page/시내버스.md "wikilink") 운송 업체이다. 주로 [김해시](https://ko.wikipedia.org/wiki/김해시 "wikilink") 읍면 공영노선과 [부산광역시](https://ko.wikipedia.org/wiki/부산광역시 "wikilink") 일부 지역을 기점으로 하는 노선을 운행한다.
 
 ## 역사
 
@@ -49,12 +49,12 @@
 
 ## 보유차량
 
-  - [자일대우버스](https://ko.wikipedia.org/wiki/자일대우버스 "wikilink")
+  - [자일대우상용차](../Page/자일대우상용차.md "wikilink")
 
 <!-- end list -->
 
   - [대우 BS090 로얄미디](../Page/자일대우_BS.md "wikilink")
-  - [대우 BS106 로얄시티](../Page/자일대우_BS.md "wikilink")
+  - [대우 BS106 로얄시티](../Page/자일대우_BS.md "wikilink")\[4\]
   - [대우 BS110CN 로얄논스텝](../Page/자일대우_BS.md "wikilink")
   - [대우 레스타](../Page/자일대우_레스타.md "wikilink")
   - [대우 NEW BS090](../Page/자일대우_BS.md "wikilink")
@@ -90,3 +90,4 @@
 1.  4번은 220번 양수와 함께 동부교통에 반환했다.
 2.
 3.  221번의 경우 "장유병원 → 장유농협 → 롯데아울렛 → 율하교"의 형태로 운행한다.
+4.  1대 남음

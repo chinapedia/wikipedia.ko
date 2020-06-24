@@ -221,6 +221,7 @@
 
 ## 역대 코너
 
+  - 뉴스광장 생활정보
   - 뉴스광장 경제 2000
   - 뉴스광장 문화마당
   - 뉴스광장 문화계 소식
@@ -241,7 +242,7 @@
 
   - : [ZDF](../Page/독일_제2텔레비전.md "wikilink") : ZDF 투데이(ZDF Heute, 저녁 7시 뉴스), [ARD](../Page/ARD.md "wikilink") : Das Erste
 
-  - : [CCTV](../Page/중국중앙텔레비전.md "wikilink") : 지금 보도 중 (, 밤 9시 뉴스)
+  - : [CCTV](../Page/중국중앙텔레비전.md "wikilink") : 오늘의 보도 (, 밤 9시 뉴스)
 
   - : [NHK](../Page/일본방송협회.md "wikilink") : NHK 뉴스7(, 저녁 7시 뉴스)
 
@@ -302,7 +303,7 @@
 <tr class="odd">
 <td><p>4기</p></td>
 <td><p><a href="../Page/이윤성_(1944년).md" title="wikilink">이윤성</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/홍지수" title="wikilink">홍지수</a></p></td>
+<td><p><a href="../Page/홍지수.md" title="wikilink">홍지수</a></p></td>
 <td><p><a href="../Page/1992년.md" title="wikilink">1992년</a> <a href="../Page/4월_6일.md" title="wikilink">4월 6일</a> ~ <a href="../Page/1993년.md" title="wikilink">1993년</a> <a href="../Page/5월_1일.md" title="wikilink">5월 1일</a></p></td>
 </tr>
 <tr class="even">

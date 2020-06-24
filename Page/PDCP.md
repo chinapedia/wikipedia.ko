@@ -17,4 +17,4 @@
   - ETSI TS 125 323 V5.0.0; Universal Mobile Telecommunications System (UMTS); Packet Data Convergence Protocol (PDCP) specification (3GPP TS 25.323 version 5.0.0 Release 5); Mar. 2002; pp. 1-21; XP-002259036.
   - Wu, Chih-Hsiang , *Method for determining triggering of a PDCP sequence number synchronization procedure*, September 2007, [US Patent 7266105](https://web.archive.org/web/20090822151114/http://www.patentstorm.us/patents/7266105/claims.html), Innovative Sonic Limited
 
-[분류:이동 통신](https://ko.wikipedia.org/wiki/분류:이동_통신 "wikilink")
+[분류:이동 통신](https://ko.wikipedia.org/wiki/분류:이동_통신 "wikilink") [분류:3GPP 표준](https://ko.wikipedia.org/wiki/분류:3GPP_표준 "wikilink") [분류:UMTS](https://ko.wikipedia.org/wiki/분류:UMTS "wikilink") [분류:5G](https://ko.wikipedia.org/wiki/분류:5G "wikilink")

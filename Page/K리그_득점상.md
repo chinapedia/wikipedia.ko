@@ -95,7 +95,7 @@
 <p>0.51</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/K리그_1990" title="wikilink">1990</a></p></td>
+<td><p><a href="../Page/K리그_1990.md" title="wikilink">1990</a></p></td>
 <td><p><a href="../Page/윤상철.md" title="wikilink">윤상철</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/FC_서울" title="wikilink">럭키금성 황소</a></p></td>
 <td><div style="text-align: center;">

@@ -5,11 +5,11 @@
 
 ## 구성원
 
-  - **히로코** (hiroko, 본명 : , [1984년](../Page/1984년.md "wikilink") [7월 24일](../Page/7월_24일.md "wikilink") - , [효고현](../Page/효고현.md "wikilink") [아시야 시](https://ko.wikipedia.org/wiki/아시야_시 "wikilink") 출신)
+  - **히로코** (hiroko, 본명 : , [1984년](../Page/1984년.md "wikilink") [7월 24일](../Page/7월_24일.md "wikilink") - , [효고현](../Page/효고현.md "wikilink") [아시야시](../Page/아시야시.md "wikilink") 출신)
 
 :\* 메인[보컬](https://ko.wikipedia.org/wiki/가수 "wikilink") 및 [작사](https://ko.wikipedia.org/wiki/작사 "wikilink")를 담당한다.
 
-  - **미야케** (miyake, 본명 : , [1980년](../Page/1980년.md "wikilink") [10월 2일](../Page/10월_2일.md "wikilink") - , [오카야마현](../Page/오카야마현.md "wikilink") [구라시키 시](https://ko.wikipedia.org/wiki/구라시키_시 "wikilink") 출신)
+  - **미야케** (miyake, 본명 : , [1980년](../Page/1980년.md "wikilink") [10월 2일](../Page/10월_2일.md "wikilink") - , [오카야마현](../Page/오카야마현.md "wikilink") [구라시키시](../Page/구라시키시.md "wikilink") 출신)
 
 :\* [MC](https://ko.wikipedia.org/wiki/MC_\(음악\) "wikilink"), 작사, [작곡](https://ko.wikipedia.org/wiki/작곡 "wikilink"), 편곡을 담당한다.
 
@@ -405,7 +405,7 @@
 
   - [스텝 블로그](http://blog.goo.ne.jp/mihimarumaru)
 
-[분류:일본의 음악 그룹](https://ko.wikipedia.org/wiki/분류:일본의_음악_그룹 "wikilink") [분류:혼성 음악 그룹](https://ko.wikipedia.org/wiki/분류:혼성_음악_그룹 "wikilink") [분류:2003년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2003년_결성된_음악_그룹 "wikilink") [분류:2003년 데뷔](https://ko.wikipedia.org/wiki/분류:2003년_데뷔 "wikilink") [분류:2인조 음악 그룹](https://ko.wikipedia.org/wiki/분류:2인조_음악_그룹 "wikilink") [분류:일본어 음악 그룹](https://ko.wikipedia.org/wiki/분류:일본어_음악_그룹 "wikilink") [분류:2000년대 음악 그룹](https://ko.wikipedia.org/wiki/분류:2000년대_음악_그룹 "wikilink") [분류:2010년대 음악 그룹](https://ko.wikipedia.org/wiki/분류:2010년대_음악_그룹 "wikilink") [분류:유니버설 뮤직 (일본) 소속](https://ko.wikipedia.org/wiki/분류:유니버설_뮤직_\(일본\)_소속 "wikilink") [분류:일본의 팝 음악 그룹](https://ko.wikipedia.org/wiki/분류:일본의_팝_음악_그룹 "wikilink") [분류:에이벡스 그룹 음악가](https://ko.wikipedia.org/wiki/분류:에이벡스_그룹_음악가 "wikilink") [분류:스타더스트 프로모션](https://ko.wikipedia.org/wiki/분류:스타더스트_프로모션 "wikilink") [분류:NHK 홍백가합전 출연자](https://ko.wikipedia.org/wiki/분류:NHK_홍백가합전_출연자 "wikilink") [분류:2013년 해체된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2013년_해체된_음악_그룹 "wikilink")
+[분류:일본의 음악 그룹](https://ko.wikipedia.org/wiki/분류:일본의_음악_그룹 "wikilink") [분류:혼성 음악 그룹](https://ko.wikipedia.org/wiki/분류:혼성_음악_그룹 "wikilink") [분류:2003년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2003년_결성된_음악_그룹 "wikilink") [분류:2인조 음악 그룹](https://ko.wikipedia.org/wiki/분류:2인조_음악_그룹 "wikilink") [분류:일본어 음악 그룹](https://ko.wikipedia.org/wiki/분류:일본어_음악_그룹 "wikilink") [분류:2000년대 음악 그룹](https://ko.wikipedia.org/wiki/분류:2000년대_음악_그룹 "wikilink") [분류:2010년대 음악 그룹](https://ko.wikipedia.org/wiki/분류:2010년대_음악_그룹 "wikilink") [분류:유니버설 뮤직 (일본) 소속](https://ko.wikipedia.org/wiki/분류:유니버설_뮤직_\(일본\)_소속 "wikilink") [분류:일본의 팝 음악 그룹](https://ko.wikipedia.org/wiki/분류:일본의_팝_음악_그룹 "wikilink") [분류:에이벡스 그룹 음악가](https://ko.wikipedia.org/wiki/분류:에이벡스_그룹_음악가 "wikilink") [분류:스타더스트 프로모션](https://ko.wikipedia.org/wiki/분류:스타더스트_프로모션 "wikilink") [분류:NHK 홍백가합전 출연자](https://ko.wikipedia.org/wiki/분류:NHK_홍백가합전_출연자 "wikilink") [분류:2013년 해체된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2013년_해체된_음악_그룹 "wikilink")
 
 1.
 2.

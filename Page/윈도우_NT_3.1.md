@@ -18,4 +18,4 @@
 
 [분류:1993년 소프트웨어](https://ko.wikipedia.org/wiki/분류:1993년_소프트웨어 "wikilink") [분류:마이크로소프트 윈도우](https://ko.wikipedia.org/wiki/분류:마이크로소프트_윈도우 "wikilink") [분류:윈도우 NT](https://ko.wikipedia.org/wiki/분류:윈도우_NT "wikilink") [분류:MIPS 운영 체제](https://ko.wikipedia.org/wiki/분류:MIPS_운영_체제 "wikilink") [분류:IA-32 운영 체제](https://ko.wikipedia.org/wiki/분류:IA-32_운영_체제 "wikilink")
 
-1.  [Windows NT 3.1을 기억하시나요?](http://blogs.technet.com/sankim/archive/2008/08/29/windows-nt-3-1.aspx)
+1.

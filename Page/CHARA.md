@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [CHARA](https://ko.wikipedia.org/wiki/CHARA).
 
 
-**CHARA**는 [일본](../Page/일본.md "wikilink")의 [가수](https://ko.wikipedia.org/wiki/가수 "wikilink") 겸 [배우](../Page/배우.md "wikilink")이다. [사이타마현](https://ko.wikipedia.org/wiki/사이타마현 "wikilink") [가와구치 시](https://ko.wikipedia.org/wiki/가와구치_시 "wikilink") 출신으로 [유니버설 뮤직에](https://ko.wikipedia.org/wiki/유니버설_뮤직 "wikilink") 소속되어 있다.
+**CHARA**는 [일본](../Page/일본.md "wikilink")의 [가수](https://ko.wikipedia.org/wiki/가수 "wikilink") 겸 [배우](../Page/배우.md "wikilink")이다. [사이타마현](https://ko.wikipedia.org/wiki/사이타마현 "wikilink") [가와구치시](../Page/가와구치시.md "wikilink") 출신으로 [유니버설 뮤직에](https://ko.wikipedia.org/wiki/유니버설_뮤직 "wikilink") 소속되어 있다.
 
 ## 이력
 

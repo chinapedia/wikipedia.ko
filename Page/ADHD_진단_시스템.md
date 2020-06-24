@@ -38,7 +38,7 @@ ADS가 ADHD를 타당하게 평가하는지를 검증하기 위해 ADS에서 측
 
   - [주의력결핍 과다행동장애](../Page/주의력결핍_과다행동장애.md "wikilink")
   - [연속 수행검사](https://ko.wikipedia.org/wiki/연속_수행검사 "wikilink")
-  - [BGT](https://ko.wikipedia.org/wiki/BGT "wikilink")
+  - [BGT](../Page/BGT.md "wikilink")
   - [WISC](https://ko.wikipedia.org/wiki/WISC "wikilink")
 
 ## 참고

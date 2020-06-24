@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Beatmania IIDX 12 HAPPY SKY](https://ko.wikipedia.org/wiki/Beatmania_IIDX_12_HAPPY_SKY).
 
 
-**beatmania IIDX 12 Happy Sky**는 [코나미](../Page/코나미.md "wikilink")의 리듬게임 [beatmania IIDX의](../Page/비트매니아.md "wikilink") 12번째 작품으로 2005년 7월 13일에 발매되었다. 이번 신작에서는 45곡이 신곡으로 추가되었으며 이 중에는 [e-Amusement](https://ko.wikipedia.org/wiki/e-Amusement "wikilink")를 통해서는 플레이 가능하다. 이번 작에서는 난이도 개편이나, 새로운 보스 곡과 같이 소소한 점이 변경되었지만 이 시리즈에 있어서 이 변경된 점은 중요한 의미를 지닌다.
+**beatmania IIDX 12 Happy Sky**는 [코나미](../Page/코나미.md "wikilink")의 리듬게임 [beatmania IIDX의](../Page/비트매니아.md "wikilink") 12번째 작품으로 2004년 12월 22일에 발매되었다. 이번 신작에서는 45곡이 신곡으로 추가되었으며 이 중에는 [e-Amusement](https://ko.wikipedia.org/wiki/e-Amusement "wikilink")를 통해서는 플레이 가능하다. 이번 작에서는 난이도 개편이나, 새로운 보스 곡과 같이 소소한 점이 변경되었지만 이 시리즈에 있어서 이 변경된 점은 중요한 의미를 지닌다.
 
 ## 게임 방법
 

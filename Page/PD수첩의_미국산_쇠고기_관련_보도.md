@@ -99,7 +99,7 @@
 《[뉴시스](../Page/뉴시스.md "wikilink")》에 따르면 방영 내용과 관련하여 논쟁거리가 된 부분은 다음과 같다.\[25\]
 
   - “charged with animal cruelty ”을 “광우병 의심 소를 억지로 일으켜”로 표현하였다.
-  - [휴메인 소사이어티가](https://ko.wikipedia.org/wiki/휴메인_소사이어티 "wikilink") “다우너 소의 원인은 [병원성 대장균](https://ko.wikipedia.org/wiki/병원성_대장균 "wikilink"), [살모넬라](https://ko.wikipedia.org/wiki/살모넬라 "wikilink"), 그리고 매우 드물게 [광우병](https://ko.wikipedia.org/wiki/광우병 "wikilink")에 감염된 경우이다.”라고 했으나 《PD수첩》은 다우너 소의 원인으로 [광우병](https://ko.wikipedia.org/wiki/광우병 "wikilink")만을 강조하였다.
+  - [휴메인 소사이어티가](https://ko.wikipedia.org/wiki/휴메인_소사이어티 "wikilink") “다우너 소의 원인은 [병원성 대장균](https://ko.wikipedia.org/wiki/병원성_대장균 "wikilink"), [살모넬라](../Page/살모넬라.md "wikilink"), 그리고 매우 드물게 [광우병](https://ko.wikipedia.org/wiki/광우병 "wikilink")에 감염된 경우이다.”라고 했으나 《PD수첩》은 다우너 소의 원인으로 [광우병](https://ko.wikipedia.org/wiki/광우병 "wikilink")만을 강조하였다.
   - 진행자는 영상에 나온 다우너 소를 “광우병 걸린 소”라고 잘못 언급하였다.
 
 《PD수첩》 측은 다우너 소와 광우병을 연결시켜서는 안 된다는 주장을 이해할 수 없다는 입장을 밝혔다.

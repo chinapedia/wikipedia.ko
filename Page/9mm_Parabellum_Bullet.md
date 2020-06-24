@@ -3,7 +3,7 @@
 
 **9mm 패러벨럼 불렛**(9mm Parabellum Bullet)은 [일본](../Page/일본.md "wikilink")의 [록 밴드이다](https://ko.wikipedia.org/wiki/록_밴드 "wikilink"). 줄여서 큐미리, 9mm 라고도 불린다.
 
-[2004년](../Page/2004년.md "wikilink") 3월 [요코하마 시의](https://ko.wikipedia.org/wiki/요코하마_시 "wikilink") 가나가와 대학 음악 동아리에서 결성됐으며 2007년 2월 첫 단독 공연을 펼쳤고 같은 해 10월 [EMI 뮤직 재팬을](../Page/EMI_뮤직_재팬.md "wikilink") 통해 정식 데뷔했다.
+[2004년](../Page/2004년.md "wikilink") 3월 [요코하마시](../Page/요코하마시.md "wikilink")의 가나가와 대학 음악 동아리에서 결성됐으며 2007년 2월 첫 단독 공연을 펼쳤고 같은 해 10월 [EMI 뮤직 재팬을](../Page/EMI_뮤직_재팬.md "wikilink") 통해 정식 데뷔했다.
 
 ## 구성원
 

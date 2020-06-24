@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [SBS 나이트라인](https://ko.wikipedia.org/wiki/SBS_나이트라인).
 
 
-**SBS 나이트라인**(SBS NIGHTLINE)은 [대한민국](../Page/대한민국.md "wikilink") [SBS에서](../Page/SBS_\(대한민국의_방송사\).md "wikilink") [월요일](../Page/월요일.md "wikilink") \~ [화요일](https://ko.wikipedia.org/wiki/화요일 "wikilink") 밤 12시 20분, [수요일](../Page/수요일.md "wikilink") 밤 12시 30분, [목요일](../Page/목요일.md "wikilink") 밤 12시 45분에 방송되는 [SBS의 마감뉴스 프로그램이다](../Page/SBS의_뉴스_프로그램.md "wikilink").
+**SBS 나이트라인**(SBS NIGHTLINE)은 [대한민국](../Page/대한민국.md "wikilink") [SBS에서](../Page/SBS_\(대한민국의_방송사\).md "wikilink") [월요일](../Page/월요일.md "wikilink") \~ [화요일](https://ko.wikipedia.org/wiki/화요일 "wikilink") 밤 12시 20분, [수요일](../Page/수요일.md "wikilink") 밤 12시 30분, [목요일](../Page/목요일.md "wikilink") 밤 12시 40분에 방송되는 [SBS의 마감뉴스 프로그램이다](../Page/SBS의_뉴스_프로그램.md "wikilink").
 
 ## 개요
 
@@ -10,7 +10,7 @@
 
 ## 방송 시간
 
-현재 방송시간은 [2020년](../Page/2020년.md "wikilink") [1월 6일부터를](../Page/1월_6일.md "wikilink") 기준으로 한다.
+현재 방송시간은 [2020년](../Page/2020년.md "wikilink") [5월 25일부터를](../Page/5월_25일.md "wikilink") 기준으로 한다.
 
 <table>
 <thead>
@@ -125,6 +125,61 @@
 <td></td>
 </tr>
 <tr class="odd">
+<td><p><a href="../Page/2000년.md" title="wikilink">2000년</a> <a href="../Page/1월_3일.md" title="wikilink">1월 3일</a> ~ <a href="../Page/2000년.md" title="wikilink">2000년</a> <a href="../Page/1월_9일.md" title="wikilink">1월 9일</a></p></td>
+<td><p>월요일 ~ 목요일 밤 12시 5분 ~ 12시 15분 (10분)<br />
+금요일 밤 12시 35분 ~ 12시 50분 (15분)<br />
+토요일 ~ 일요일 밤 12시 50분 ~ 새벽 1시 (10분)</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/2000년.md" title="wikilink">2000년</a> <a href="../Page/1월_17일.md" title="wikilink">1월 17일</a> ~ <a href="../Page/2000년.md" title="wikilink">2000년</a> <a href="../Page/2월_3일.md" title="wikilink">2월 3일</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/2000년.md" title="wikilink">2000년</a> <a href="../Page/1월_10일.md" title="wikilink">1월 10일</a> ~ <a href="../Page/2000년.md" title="wikilink">2000년</a> <a href="../Page/1월_16일.md" title="wikilink">1월 16일</a></p></td>
+<td><p>월요일 ~ 목요일 밤 12시 5분 ~ 12시 15분 (10분)<br />
+금요일 밤 12시 45분 ~ 새벽 1시 (15분)<br />
+토요일 ~ 일요일 밤 12시 50분 ~ 새벽 1시 (10분)</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/2000년.md" title="wikilink">2000년</a> <a href="../Page/2월_21일.md" title="wikilink">2월 21일</a> ~ <a href="../Page/2000년.md" title="wikilink">2000년</a> <a href="../Page/3월_5일.md" title="wikilink">3월 5일</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/2000년.md" title="wikilink">2000년</a> <a href="../Page/4월_10일.md" title="wikilink">4월 10일</a> ~ <a href="../Page/2000년.md" title="wikilink">2000년</a> <a href="../Page/4월_16일.md" title="wikilink">4월 16일</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/2000년.md" title="wikilink">2000년</a> <a href="../Page/2월_7일.md" title="wikilink">2월 7일</a> ~ <a href="../Page/2000년.md" title="wikilink">2000년</a> <a href="../Page/2월_20일.md" title="wikilink">2월 20일</a></p></td>
+<td><p>월요일 ~ 목요일 밤 12시 5분 ~ 12시 15분 (10분)<br />
+금요일 밤 12시 55분 ~ 새벽 1시 5분 (15분)<br />
+토요일 ~ 일요일 밤 12시 50분 ~ 새벽 1시 (10분)</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/2000년.md" title="wikilink">2000년</a> <a href="../Page/3월_6일.md" title="wikilink">3월 6일</a> ~ <a href="../Page/2000년.md" title="wikilink">2000년</a> <a href="../Page/3월_12일.md" title="wikilink">3월 12일</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/2000년.md" title="wikilink">2000년</a> <a href="../Page/3월_13일.md" title="wikilink">3월 13일</a> ~ <a href="../Page/2000년.md" title="wikilink">2000년</a> <a href="../Page/3월_19일.md" title="wikilink">3월 19일</a></p></td>
+<td><p>월요일 ~ 목요일 밤 12시 5분 ~ 12시 15분 (10분)<br />
+금요일 새벽 1시 5분 ~ 1시 20분 (15분)<br />
+토요일 ~ 일요일 밤 12시 50분 ~ 새벽 1시 (10분)</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/2000년.md" title="wikilink">2000년</a> <a href="../Page/3월_20일.md" title="wikilink">3월 20일</a> ~ <a href="../Page/2000년.md" title="wikilink">2000년</a> <a href="../Page/4월_9일.md" title="wikilink">4월 9일</a></p></td>
+<td><p>월요일 ~ 목요일 밤 12시 5분 ~ 12시 15분 (10분)<br />
+금요일 밤 12시 50분 ~ 1시 5분 (15분)<br />
+토요일 ~ 일요일 밤 12시 50분 ~ 새벽 1시 (10분)</p></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p><a href="../Page/2000년.md" title="wikilink">2000년</a> <a href="../Page/4월_17일.md" title="wikilink">4월 17일</a> ~ <a href="../Page/2000년.md" title="wikilink">2000년</a> <a href="../Page/4월_23일.md" title="wikilink">4월 23일</a></p></td>
 <td><p>월요일 ~ 목요일 밤 12시 5분 ~ 12시 20분 (15분)<br />
 금요일 밤 12시 20분 ~ 12시 35분 (15분)<br />
@@ -132,7 +187,7 @@
 일요일 밤 12시 ~ 12시 10분 (10분)</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/2000년.md" title="wikilink">2000년</a> <a href="../Page/4월_24일.md" title="wikilink">4월 24일</a> ~ <a href="../Page/2000년.md" title="wikilink">2000년</a> <a href="../Page/4월_30일.md" title="wikilink">4월 30일</a></p></td>
 <td><p>월요일 ~ 목요일 밤 12시 5분 ~ 12시 20분 (15분)<br />
 금요일 새벽 1시 5분 ~ 1시 20분 (15분)<br />
@@ -140,7 +195,7 @@
 일요일 밤 12시 ~ 12시 10분 (10분)</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/2000년.md" title="wikilink">2000년</a> <a href="../Page/5월_1일.md" title="wikilink">5월 1일</a> ~ <a href="../Page/2000년.md" title="wikilink">2000년</a> <a href="../Page/5월_7일.md" title="wikilink">5월 7일</a></p></td>
 <td><p>월요일 ~ 목요일 밤 12시 5분 ~ 12시 20분 (15분)<br />
 금요일 밤 12시 45분 ~ 새벽 1시 (15분)<br />
@@ -148,37 +203,37 @@
 일요일 밤 12시 ~ 12시 10분 (10분)</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/2000년.md" title="wikilink">2000년</a> <a href="../Page/5월_15일.md" title="wikilink">5월 15일</a> ~ <a href="../Page/2000년.md" title="wikilink">2000년</a> <a href="../Page/5월_21일.md" title="wikilink">5월 21일</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/2000년.md" title="wikilink">2000년</a> <a href="../Page/5월_29일.md" title="wikilink">5월 29일</a> ~ <a href="../Page/2000년.md" title="wikilink">2000년</a> <a href="../Page/6월_4일.md" title="wikilink">6월 4일</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/2000년.md" title="wikilink">2000년</a> <a href="../Page/6월_12일.md" title="wikilink">6월 12일</a> ~ <a href="../Page/2000년.md" title="wikilink">2000년</a> <a href="../Page/6월_18일.md" title="wikilink">6월 18일</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/2000년.md" title="wikilink">2000년</a> <a href="../Page/7월_3일.md" title="wikilink">7월 3일</a> ~ <a href="../Page/2000년.md" title="wikilink">2000년</a> <a href="../Page/7월_9일.md" title="wikilink">7월 9일</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/2000년.md" title="wikilink">2000년</a> <a href="../Page/9월_4일.md" title="wikilink">9월 4일</a> ~ <a href="../Page/2000년.md" title="wikilink">2000년</a> <a href="../Page/9월_10일.md" title="wikilink">9월 10일</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/2000년.md" title="wikilink">2000년</a> <a href="../Page/10월_2일.md" title="wikilink">10월 2일</a> ~ <a href="../Page/2000년.md" title="wikilink">2000년</a> <a href="../Page/10월_8일.md" title="wikilink">10월 8일</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/2000년.md" title="wikilink">2000년</a> <a href="../Page/5월_8일.md" title="wikilink">5월 8일</a> ~ <a href="../Page/2000년.md" title="wikilink">2000년</a> <a href="../Page/5월_14일.md" title="wikilink">5월 14일</a></p></td>
 <td><p>월요일 ~ 목요일 밤 12시 5분 ~ 12시 20분 (15분)<br />
 금요일 밤 12시 35분 ~ 12시 50분 (15분)<br />
@@ -186,17 +241,17 @@
 일요일 밤 12시 ~ 12시 10분 (10분)</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/2000년.md" title="wikilink">2000년</a> <a href="../Page/5월_22일.md" title="wikilink">5월 22일</a> ~ <a href="../Page/2000년.md" title="wikilink">2000년</a> <a href="../Page/5월_28일.md" title="wikilink">5월 28일</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/2000년.md" title="wikilink">2000년</a> <a href="../Page/12월_11일.md" title="wikilink">12월 11일</a> ~ <a href="../Page/2000년.md" title="wikilink">2000년</a> <a href="../Page/12월_28일.md" title="wikilink">12월 28일</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/2000년.md" title="wikilink">2000년</a> <a href="../Page/6월_5일.md" title="wikilink">6월 5일</a> ~ <a href="../Page/2000년.md" title="wikilink">2000년</a> <a href="../Page/6월_11일.md" title="wikilink">6월 11일</a></p></td>
 <td><p>월요일 ~ 목요일 밤 12시 5분 ~ 12시 20분 (15분)<br />
 금요일 새벽 1시 55분 ~ 2시 55분 (1시간)<br />
@@ -204,7 +259,7 @@
 일요일 밤 12시 ~ 12시 10분 (10분)</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/2000년.md" title="wikilink">2000년</a> <a href="../Page/6월_19일.md" title="wikilink">6월 19일</a> ~ <a href="../Page/2000년.md" title="wikilink">2000년</a> <a href="../Page/6월_25일.md" title="wikilink">6월 25일</a></p></td>
 <td><p>월요일 ~ 목요일 밤 12시 5분 ~ 12시 20분 (15분)<br />
 금요일 밤 12시 55분 ~ 새벽 1시 10분 (15분)<br />
@@ -212,22 +267,22 @@
 일요일 밤 12시 ~ 12시 10분 (10분)</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/2000년.md" title="wikilink">2000년</a> <a href="../Page/7월_10일.md" title="wikilink">7월 10일</a> ~ <a href="../Page/2000년.md" title="wikilink">2000년</a> <a href="../Page/7월_30일.md" title="wikilink">7월 30일</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/2000년.md" title="wikilink">2000년</a> <a href="../Page/9월_18일.md" title="wikilink">9월 18일</a> ~ <a href="../Page/2000년.md" title="wikilink">2000년</a> <a href="../Page/10월_1일.md" title="wikilink">10월 1일</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/2000년.md" title="wikilink">2000년</a> <a href="../Page/10월_9일.md" title="wikilink">10월 9일</a> ~ <a href="../Page/2000년.md" title="wikilink">2000년</a> <a href="../Page/10월_15일.md" title="wikilink">10월 15일</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/2000년.md" title="wikilink">2000년</a> <a href="../Page/6월_26일.md" title="wikilink">6월 26일</a> ~ <a href="../Page/2000년.md" title="wikilink">2000년</a> <a href="../Page/7월_2일.md" title="wikilink">7월 2일</a></p></td>
 <td><p>월요일 ~ 목요일 밤 12시 5분 ~ 12시 20분 (15분)<br />
 금요일 새벽 1시 5분 ~ 1시 20분 (15분)<br />
@@ -235,12 +290,12 @@
 일요일 밤 12시 ~ 12시 10분 (10분)</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/2000년.md" title="wikilink">2000년</a> <a href="../Page/8월_7일.md" title="wikilink">8월 7일</a> ~ <a href="../Page/2000년.md" title="wikilink">2000년</a> <a href="../Page/8월_13일.md" title="wikilink">8월 13일</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/2000년.md" title="wikilink">2000년</a> <a href="../Page/7월_31일.md" title="wikilink">7월 31일</a> ~ <a href="../Page/2000년.md" title="wikilink">2000년</a> <a href="../Page/8월_6일.md" title="wikilink">8월 6일</a></p></td>
 <td><p>월요일 ~ 목요일 밤 12시 5분 ~ 12시 20분 (15분)<br />
 금요일 밤 12시 50분 ~ 새벽 1시 5분 (15분)<br />
@@ -248,7 +303,7 @@
 일요일 밤 12시 ~ 12시 10분 (10분)</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/2000년.md" title="wikilink">2000년</a> <a href="../Page/8월_14일.md" title="wikilink">8월 14일</a> ~ <a href="../Page/2000년.md" title="wikilink">2000년</a> <a href="../Page/8월_20일.md" title="wikilink">8월 20일</a></p></td>
 <td><p>월요일 ~ 목요일 밤 12시 5분 ~ 12시 20분 (15분)<br />
 금요일 밤 11시 55분 ~ 12시 10분 (15분)<br />
@@ -256,7 +311,7 @@
 일요일 밤 12시 ~ 12시 10분 (10분)</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/2000년.md" title="wikilink">2000년</a> <a href="../Page/8월_21일.md" title="wikilink">8월 21일</a> ~ <a href="../Page/2000년.md" title="wikilink">2000년</a> <a href="../Page/8월_27일.md" title="wikilink">8월 27일</a></p></td>
 <td><p>월요일 ~ 목요일 밤 12시 5분 ~ 12시 20분 (15분)<br />
 금요일 새벽 1시 15분 ~ 1시 20분 (5분)<br />
@@ -264,7 +319,7 @@
 일요일 밤 12시 ~ 12시 10분 (10분)</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/2000년.md" title="wikilink">2000년</a> <a href="../Page/8월_28일.md" title="wikilink">8월 28일</a> ~ <a href="../Page/2000년.md" title="wikilink">2000년</a> <a href="../Page/9월_3일.md" title="wikilink">9월 3일</a></p></td>
 <td><p>월요일 ~ 목요일 밤 12시 5분 ~ 12시 20분 (15분)<br />
 금요일 새벽 1시 10분 ~ 1시 15분 (5분)<br />
@@ -272,7 +327,7 @@
 일요일 밤 12시 ~ 12시 10분 (10분)</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/2000년.md" title="wikilink">2000년</a> <a href="../Page/9월_14일.md" title="wikilink">9월 14일</a> ~ <a href="../Page/2000년.md" title="wikilink">2000년</a> <a href="../Page/9월_17일.md" title="wikilink">9월 17일</a></p></td>
 <td><p>월요일 ~ 목요일 밤 12시 5분 ~ 12시 20분 (15분)<br />
 금요일 새벽 1시 20분 ~ 1시 35분 (15분)<br />
@@ -280,7 +335,7 @@
 일요일 밤 12시 ~ 12시 10분 (10분)</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/2000년.md" title="wikilink">2000년</a> <a href="../Page/10월_16일.md" title="wikilink">10월 16일</a> ~ <a href="../Page/2000년.md" title="wikilink">2000년</a> <a href="../Page/10월_22일.md" title="wikilink">10월 22일</a></p></td>
 <td><p>월요일, 수요일 ~ 목요일 밤 12시 25분 ~ 12시 40분 (15분)<br />
 화요일 밤 11시 50분 ~ 12시 5분 (15분)<br />
@@ -289,70 +344,70 @@
 주말 밤 12시 50분 ~ 새벽 1시 (15분)</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/2000년.md" title="wikilink">2000년</a> <a href="../Page/10월_23일.md" title="wikilink">10월 23일</a> ~ <a href="../Page/2000년.md" title="wikilink">2000년</a> <a href="../Page/10월_29일.md" title="wikilink">10월 29일</a></p></td>
 <td><p>월요일 ~ 목요일 밤 12시 25분 ~ 12시 40분 (15분)<br />
 금요일 새벽 1시 15분 ~ 1시 30분 (15분)<br />
 주말 밤 12시 50분 ~ 새벽 1시 (15분)</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/2000년.md" title="wikilink">2000년</a> <a href="../Page/10월_30일.md" title="wikilink">10월 30일</a> ~ <a href="../Page/2000년.md" title="wikilink">2000년</a> <a href="../Page/11월_5일.md" title="wikilink">11월 5일</a></p></td>
 <td><p>월요일 ~ 목요일 밤 12시 25분 ~ 12시 40분 (15분)<br />
 금요일 새벽 1시 5분 ~ 1시 20분 (15분)<br />
 주말 밤 12시 50분 ~ 새벽 1시 (15분)</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/2000년.md" title="wikilink">2000년</a> <a href="../Page/11월_6일.md" title="wikilink">11월 6일</a> ~ <a href="../Page/2000년.md" title="wikilink">2000년</a> <a href="../Page/11월_12일.md" title="wikilink">11월 12일</a></p></td>
 <td><p>월요일 ~ 목요일 밤 12시 25분 ~ 12시 40분 (15분)<br />
 금요일 새벽 2시 5분 ~ 2시 20분 (15분)<br />
 주말 밤 12시 50분 ~ 새벽 1시 (15분)</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/2000년.md" title="wikilink">2000년</a> <a href="../Page/11월_13일.md" title="wikilink">11월 13일</a> ~ <a href="../Page/2000년.md" title="wikilink">2000년</a> <a href="../Page/11월_19일.md" title="wikilink">11월 19일</a></p></td>
 <td><p>월요일 ~ 목요일 밤 12시 25분 ~ 12시 40분 (15분)<br />
 금요일 새벽 1시 25분 ~ 1시 40분 (15분)<br />
 주말 밤 12시 50분 ~ 새벽 1시 (15분)</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/2000년.md" title="wikilink">2000년</a> <a href="../Page/11월_20일.md" title="wikilink">11월 20일</a> ~ <a href="../Page/2000년.md" title="wikilink">2000년</a> <a href="../Page/11월_26일.md" title="wikilink">11월 26일</a></p></td>
 <td><p>월요일 ~ 목요일 밤 12시 25분 ~ 12시 40분 (15분)<br />
 금요일 밤 12시 25분 ~ 12시 40분 (15분)<br />
 주말 밤 12시 50분 ~ 새벽 1시 (15분)</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/2000년.md" title="wikilink">2000년</a> <a href="../Page/11월_27일.md" title="wikilink">11월 27일</a> ~ <a href="../Page/2000년.md" title="wikilink">2000년</a> <a href="../Page/12월_3일.md" title="wikilink">12월 3일</a></p></td>
 <td><p>월요일 ~ 목요일 밤 12시 25분 ~ 12시 40분 (15분)<br />
 금요일 밤 12시 35분 ~ 12시 50분 (15분)<br />
 주말 밤 12시 50분 ~ 새벽 1시 (15분)</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/2000년.md" title="wikilink">2000년</a> <a href="../Page/12월_4일.md" title="wikilink">12월 4일</a> ~ <a href="../Page/2000년.md" title="wikilink">2000년</a> <a href="../Page/12월_10일.md" title="wikilink">12월 10일</a></p></td>
 <td><p>월요일 ~ 목요일 밤 12시 25분 ~ 12시 40분 (15분)<br />
 금요일 밤 12시 45분 ~ 새벽 1시 (15분)<br />
 주말 밤 12시 50분 ~ 새벽 1시 (15분)</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/2000년.md" title="wikilink">2000년</a> <a href="../Page/12월_11일.md" title="wikilink">12월 11일</a> ~ <a href="../Page/2000년.md" title="wikilink">2000년</a> <a href="../Page/12월_10일.md" title="wikilink">12월 10일</a></p></td>
 <td><p>월요일 ~ 목요일 밤 12시 25분 ~ 12시 40분 (15분)<br />
 금요일 밤 12시 35분 ~ 12시 50분 (15분)<br />
 주말 밤 12시 50분 ~ 새벽 1시 (15분)</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/2000년.md" title="wikilink">2000년</a> <a href="../Page/12월_18일.md" title="wikilink">12월 18일</a> ~ <a href="../Page/2000년.md" title="wikilink">2000년</a> <a href="../Page/12월_24일.md" title="wikilink">12월 24일</a></p></td>
 <td><p>월요일 ~ 목요일 밤 12시 5분 ~ 12시 20분 (15분)<br />
 금요일 밤 12시 55분 ~ 새벽 1시 10분 (15분)<br />
 주말 밤 12시 50분 ~ 새벽 1시 (15분)</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/2000년.md" title="wikilink">2000년</a> <a href="../Page/12월_25일.md" title="wikilink">12월 25일</a> ~ <a href="../Page/2000년.md" title="wikilink">2000년</a> <a href="../Page/12월_31일.md" title="wikilink">12월 31일</a></p></td>
 <td><p>월요일 밤 12시 25분 ~ 12시 40분 (15분)<br />
 화요일 밤 12시 15분 ~ 12시 30분 (15분)<br />
@@ -361,98 +416,98 @@
 주말 밤 12시 50분 ~ 새벽 1시 (15분)</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/2001년.md" title="wikilink">2001년</a> <a href="../Page/1월_1일.md" title="wikilink">1월 1일</a> ~ <a href="../Page/2001년.md" title="wikilink">2001년</a> <a href="../Page/1월_7일.md" title="wikilink">1월 7일</a></p></td>
 <td><p>월요일 ~ 목요일 밤 12시 5분 ~ 12시 15분 (15분)<br />
 금요일 새벽 1시 45분 ~ 2시 (15분)<br />
 주말 밤 12시 50분 ~ 새벽 1시 (15분)</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/2001년.md" title="wikilink">2001년</a> <a href="../Page/1월_8일.md" title="wikilink">1월 8일</a> ~ <a href="../Page/2001년.md" title="wikilink">2001년</a> <a href="../Page/1월_14일.md" title="wikilink">1월 14일</a></p></td>
 <td><p>월요일 ~ 목요일 밤 12시 25분 ~ 12시 40분 (15분)<br />
 금요일 밤 12시 45분 ~ 새벽 1시 (15분)<br />
 주말 밤 12시 50분 ~ 새벽 1시 (15분)</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/2001년.md" title="wikilink">2001년</a> <a href="../Page/1월_15일.md" title="wikilink">1월 15일</a> ~ <a href="../Page/2001년.md" title="wikilink">2001년</a> <a href="../Page/1월_21일.md" title="wikilink">1월 21일</a></p></td>
 <td><p>월요일 ~ 목요일 밤 12시 25분 ~ 12시 40분 (15분)<br />
 금요일 밤 12시 35분 ~ 12시 50분 (15분)<br />
 주말 밤 12시 50분 ~ 새벽 1시 (15분)</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/2001년.md" title="wikilink">2001년</a> <a href="../Page/1월_22일.md" title="wikilink">1월 22일</a> ~ <a href="../Page/2001년.md" title="wikilink">2001년</a> <a href="../Page/1월_28일.md" title="wikilink">1월 28일</a></p></td>
 <td><p>월요일 ~ 목요일 밤 12시 25분 ~ 12시 40분 (15분)<br />
 금요일 새벽 1시 25분 ~ 1시 40분 (15분)<br />
 주말 밤 12시 50분 ~ 새벽 1시 (15분)</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/2001년.md" title="wikilink">2001년</a> <a href="../Page/1월_29일.md" title="wikilink">1월 29일</a> ~ <a href="../Page/2001년.md" title="wikilink">2001년</a> <a href="../Page/2월_4일.md" title="wikilink">2월 4일</a></p></td>
 <td><p>월요일 ~ 목요일 밤 12시 25분 ~ 12시 40분 (15분)<br />
 금요일 새벽 1시 15분 ~ 1시 30분 (15분)<br />
 주말 밤 12시 50분 ~ 새벽 1시 (15분)</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/2001년.md" title="wikilink">2001년</a> <a href="../Page/2월_5일.md" title="wikilink">2월 5일</a> ~ <a href="../Page/2001년.md" title="wikilink">2001년</a> <a href="../Page/2월_11일.md" title="wikilink">2월 11일</a></p></td>
 <td><p>월요일 ~ 목요일 밤 12시 25분 ~ 12시 40분 (15분)<br />
 금요일 밤 12시 40분 ~ 12시 55분 (15분)<br />
 주말 밤 12시 50분 ~ 새벽 1시 (15분)</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/2001년.md" title="wikilink">2001년</a> <a href="../Page/2월_12일.md" title="wikilink">2월 12일</a> ~ <a href="../Page/2001년.md" title="wikilink">2001년</a> <a href="../Page/2월_18일.md" title="wikilink">2월 18일</a></p></td>
 <td><p>월요일 ~ 목요일 밤 12시 25분 ~ 12시 40분 (15분)<br />
 금요일 밤 12시 50분 ~ 새벽 1시 5분 (15분)<br />
 주말 밤 12시 50분 ~ 새벽 1시 (15분)</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/2001년.md" title="wikilink">2001년</a> <a href="../Page/2월_19일.md" title="wikilink">2월 19일</a> ~ <a href="../Page/2001년.md" title="wikilink">2001년</a> <a href="../Page/2월_25일.md" title="wikilink">2월 25일</a></p></td>
 <td><p>월요일 ~ 목요일 밤 12시 25분 ~ 12시 40분 (15분)<br />
 금요일 새벽 1시 15분 ~ 1시 30분 (15분)<br />
 주말 밤 12시 50분 ~ 새벽 1시 (15분)</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/2001년.md" title="wikilink">2001년</a> <a href="https://ko.wikipedia.org/wiki/2월_26일" title="wikilink">2월 26일</a> ~ <a href="../Page/2001년.md" title="wikilink">2001년</a> <a href="../Page/3월_4일.md" title="wikilink">3월 4일</a></p></td>
 <td><p>월요일 ~ 목요일 밤 12시 25분 ~ 12시 40분 (15분)<br />
 금요일 밤 12시 55분 ~ 새벽 1시 5분 (15분)<br />
 주말 밤 12시 50분 ~ 새벽 1시 (15분)</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/2001년.md" title="wikilink">2001년</a> <a href="../Page/3월_5일.md" title="wikilink">3월 5일</a> ~ <a href="../Page/2001년.md" title="wikilink">2001년</a> <a href="../Page/3월_11일.md" title="wikilink">3월 11일</a></p></td>
 <td><p>월요일 ~ 목요일 밤 12시 5분 ~ 12시 20분 (15분)<br />
 금요일 밤 12시 45분 ~ 새벽 1시 (15분)<br />
 주말 밤 12시 50분 ~ 새벽 1시 (15분)</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/2001년.md" title="wikilink">2001년</a> <a href="../Page/3월_12일.md" title="wikilink">3월 12일</a> ~ <a href="../Page/2001년.md" title="wikilink">2001년</a> <a href="../Page/4월_1일.md" title="wikilink">4월 1일</a></p></td>
 <td><p>월요일 ~ 목요일 밤 12시 5분 ~ 12시 20분 (15분)<br />
 금요일 밤 12시 45분 ~ 새벽 1시 (15분)<br />
 주말 밤 12시 50분 ~ 새벽 1시 (15분)</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/2001년.md" title="wikilink">2001년</a> <a href="../Page/4월_2일.md" title="wikilink">4월 2일</a> ~ <a href="../Page/2001년.md" title="wikilink">2001년</a> <a href="../Page/4월_8일.md" title="wikilink">4월 8일</a></p></td>
 <td><p>월요일 ~ 목요일 밤 12시 5분 ~ 12시 20분 (15분)<br />
 금요일 밤 12시 35분 ~ 12시 50분 (15분)<br />
 주말 밤 12시 50분 ~ 새벽 1시 (15분)</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/2001년.md" title="wikilink">2001년</a> <a href="../Page/4월_9일.md" title="wikilink">4월 9일</a> ~ <a href="../Page/2001년.md" title="wikilink">2001년</a> <a href="../Page/4월_29일.md" title="wikilink">4월 29일</a></p></td>
 <td><p>월요일 ~ 목요일 밤 12시 5분 ~ 12시 20분 (15분)<br />
 금요일 밤 12시 55분 ~ 새벽 1시 (15분)<br />
 주말 밤 12시 50분 ~ 새벽 1시 (15분)</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/2001년.md" title="wikilink">2001년</a> <a href="../Page/4월_30일.md" title="wikilink">4월 30일</a> ~ <a href="../Page/2001년.md" title="wikilink">2001년</a> <a href="../Page/5월_6일.md" title="wikilink">5월 6일</a></p></td>
 <td><p>월요일 ~ 목요일 밤 12시 5분 ~ 12시 20분 (15분)<br />
 금요일 밤 12시 45분 ~12시 50분 (5분)<br />
@@ -460,7 +515,7 @@
 일요일 새벽 1시 50분 ~ 2시 (10분)</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/2001년.md" title="wikilink">2001년</a> <a href="../Page/5월_7일.md" title="wikilink">5월 7일</a> ~ <a href="../Page/2001년.md" title="wikilink">2001년</a> <a href="../Page/5월_13일.md" title="wikilink">5월 13일</a></p></td>
 <td><p>월요일 ~ 목요일 밤 12시 5분 ~ 12시 20분 (15분)<br />
 금요일 밤 12시 45분 ~12시 50분 (5분)<br />
@@ -468,12 +523,12 @@
 일요일 새벽 1시 40분 ~ 1시 50분 (10분)</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/2001년.md" title="wikilink">2001년</a> <a href="../Page/5월_21일.md" title="wikilink">5월 21일</a> ~ <a href="../Page/2001년.md" title="wikilink">2001년</a> <a href="../Page/5월_27일.md" title="wikilink">5월 27일</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/2001년.md" title="wikilink">2001년</a> <a href="../Page/5월_14일.md" title="wikilink">5월 14일</a> ~ <a href="../Page/2001년.md" title="wikilink">2001년</a> <a href="../Page/5월_20일.md" title="wikilink">5월 20일</a></p></td>
 <td><p>월요일 ~ 목요일 밤 12시 5분 ~ 12시 20분 (15분)<br />
 금요일 밤 12시 45분 ~12시 50분 (5분)<br />
@@ -481,7 +536,7 @@
 일요일 새벽 1시 30분 ~ 1시 40분 (10분)</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/2001년.md" title="wikilink">2001년</a> <a href="../Page/5월_28일.md" title="wikilink">5월 28일</a> ~ <a href="../Page/2001년.md" title="wikilink">2001년</a> <a href="../Page/6월_3일.md" title="wikilink">6월 3일</a></p></td>
 <td><p>월요일 ~ 목요일 밤 12시 5분 ~ 12시 20분 (15분)<br />
 금요일 밤 12시 45분 ~12시 50분 (5분)<br />
@@ -489,78 +544,78 @@
 일요일 새벽 2시 ~ 2시 10분 (10분)</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/2001년.md" title="wikilink">2001년</a> <a href="../Page/6월_4일.md" title="wikilink">6월 4일</a> ~ <a href="../Page/2001년.md" title="wikilink">2001년</a> <a href="../Page/8월_11일.md" title="wikilink">8월 11일</a></p></td>
 <td><p>월요일 ~ 목요일 밤 12시 5분 ~ 12시 20분 (15분)<br />
 금요일 밤 12시 45분 ~ 12시 50분 (5분)<br />
 토요일 밤 12시 50분 ~ 새벽 1시 (15분)</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/2001년.md" title="wikilink">2001년</a> <a href="../Page/8월_13일.md" title="wikilink">8월 13일</a> ~ <a href="../Page/2003년.md" title="wikilink">2003년</a> <a href="../Page/11월_1일.md" title="wikilink">11월 1일</a></p></td>
 <td><p>월요일 ~ 목요일 밤 12시 15분 ~ 12시 30분 (15분)<br />
 금요일 밤 12시 45분 ~ 12시 50분 (5분)<br />
 토요일 밤 12시 50분 ~ 새벽 1시 (15분)</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/2003년.md" title="wikilink">2003년</a> <a href="../Page/11월_3일.md" title="wikilink">11월 3일</a> ~ <a href="../Page/2005년.md" title="wikilink">2005년</a> <a href="../Page/7월_8일.md" title="wikilink">7월 8일</a></p></td>
 <td><p>평일 밤 12시 15분 ~ 12시 45분 (30분)</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/2008년.md" title="wikilink">2008년</a> <a href="../Page/10월_27일.md" title="wikilink">10월 27일</a> ~ <a href="../Page/2009년.md" title="wikilink">2009년</a> <a href="../Page/11월_27일.md" title="wikilink">11월 27일</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/2010년.md" title="wikilink">2010년</a> <a href="../Page/7월_13일.md" title="wikilink">7월 13일</a> ~ <a href="../Page/2015년.md" title="wikilink">2015년</a> <a href="../Page/7월_3일.md" title="wikilink">7월 3일</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/2005년.md" title="wikilink">2005년</a> <a href="../Page/7월_11일.md" title="wikilink">7월 11일</a> ~ <a href="../Page/2008년.md" title="wikilink">2008년</a> <a href="../Page/5월_2일.md" title="wikilink">5월 2일</a></p></td>
 <td><p>평일 밤 12시 25분 ~ 12시 40분 (15분)</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/2009년.md" title="wikilink">2009년</a> <a href="../Page/11월_30일.md" title="wikilink">11월 30일</a> ~ <a href="../Page/2010년.md" title="wikilink">2010년</a> <a href="../Page/7월_10일.md" title="wikilink">7월 10일</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/2008년.md" title="wikilink">2008년</a> <a href="../Page/5월_5일.md" title="wikilink">5월 5일</a> ~ <a href="../Page/2008년.md" title="wikilink">2008년</a> <a href="../Page/10월_24일.md" title="wikilink">10월 24일</a></p></td>
 <td><p>월요일 ~ 목요일 밤 12시 25분 ~ 12시 40분 (15분)<br />
 금요일 새벽 1시 25분 ~ 1시 40분 (15분)</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/2015년.md" title="wikilink">2015년</a> <a href="../Page/7월_6일.md" title="wikilink">7월 6일</a> ~ <a href="../Page/2016년.md" title="wikilink">2016년</a> <a href="../Page/2월_11일.md" title="wikilink">2월 11일</a></p></td>
 <td><p>월요일 ~ 목요일 밤 12시 25분 ~ 12시 55분 (30분)</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/2016년.md" title="wikilink">2016년</a> <a href="../Page/2월_15일.md" title="wikilink">2월 15일</a> ~ <a href="../Page/2019년.md" title="wikilink">2019년</a> <a href="../Page/5월_9일.md" title="wikilink">5월 9일</a></p></td>
 <td><p>월요일 ~ 목요일 밤 12시 30분 ~ 새벽 1시 (30분)</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/2019년.md" title="wikilink">2019년</a> <a href="../Page/5월_13일.md" title="wikilink">5월 13일</a> ~ <a href="../Page/2019년.md" title="wikilink">2019년</a> <a href="../Page/6월_27일.md" title="wikilink">6월 27일</a></p></td>
 <td><p>월요일 ~ 수요일 밤 12시 30분 ~ 새벽 1시 (30분)<br />
 목요일 밤 12시 20분 ~ 12시 50분 (30분)</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/2019년.md" title="wikilink">2019년</a> <a href="../Page/8월_5일.md" title="wikilink">8월 5일</a> ~ <a href="../Page/2019년.md" title="wikilink">2019년</a> <a href="../Page/8월_8일.md" title="wikilink">8월 8일</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/2019년.md" title="wikilink">2019년</a> <a href="../Page/10월_28일.md" title="wikilink">10월 28일</a> ~ <a href="../Page/2019년.md" title="wikilink">2019년</a> <a href="../Page/11월_28일.md" title="wikilink">11월 28일</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/2019년.md" title="wikilink">2019년</a> <a href="../Page/7월_1일.md" title="wikilink">7월 1일</a> ~ <a href="../Page/2019년.md" title="wikilink">2019년</a> <a href="../Page/8월_1일.md" title="wikilink">8월 1일</a></p></td>
 <td><p>월요일 밤 12시 15분 ~ 12시 45분 (30분)<br />
 화요일 밤 12시 ~ 12시 30분 (30분)<br />
@@ -568,29 +623,48 @@
 목요일 밤 12시 20분 ~ 12시 50분 (30분)</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/2019년.md" title="wikilink">2019년</a> <a href="../Page/10월_8일.md" title="wikilink">10월 8일</a> ~ <a href="../Page/2019년.md" title="wikilink">2019년</a> <a href="../Page/10월_24일.md" title="wikilink">10월 24일</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/2019년.md" title="wikilink">2019년</a> <a href="../Page/8월_12일.md" title="wikilink">8월 12일</a> ~ <a href="../Page/2019년.md" title="wikilink">2019년</a> <a href="../Page/10월_7일.md" title="wikilink">10월 7일</a></p></td>
 <td><p>월요일 ~ 화요일 밤 12시 40분 ~ 새벽 1시 10분 (30분)<br />
 수요일 밤 12시 30분 ~ 새벽 1시 (30분)<br />
 목요일 밤 12시 20분 ~ 12시 50분 (30분)</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/2019년.md" title="wikilink">2019년</a> <a href="../Page/12월_2일.md" title="wikilink">12월 2일</a> ~ <a href="../Page/2020년.md" title="wikilink">2020년</a> <a href="../Page/1월_2일.md" title="wikilink">1월 2일</a></p></td>
 <td><p>월요일 ~ 수요일 밤 12시 30분 ~ 새벽 1시 (30분)<br />
 목요일 밤 12시 45분 ~ 새벽 1시 15분 (30분)</p></td>
 <td></td>
 </tr>
-<tr class="odd">
-<td><p><a href="../Page/2020년.md" title="wikilink">2020년</a> <a href="../Page/1월_6일.md" title="wikilink">1월 6일</a> ~ <strong>현재</strong></p></td>
+<tr class="even">
+<td><p><a href="../Page/2020년.md" title="wikilink">2020년</a> <a href="../Page/1월_6일.md" title="wikilink">1월 6일</a> ~ <a href="../Page/2020년.md" title="wikilink">2020년</a> <a href="../Page/2월_27일.md" title="wikilink">2월 27일</a></p></td>
 <td><p>월요일 ~ 화요일 밤 12시 20분 ~ 12시 50분 (30분)<br />
 수요일 밤 12시 30분 ~ 새벽 1시 (30분)<br />
 목요일 밤 12시 45분 ~ 새벽 1시 15분 (30분)</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/2020년.md" title="wikilink">2020년</a> <a href="../Page/3월_2일.md" title="wikilink">3월 2일</a> ~ <a href="../Page/2020년.md" title="wikilink">2020년</a> <a href="../Page/5월_14일.md" title="wikilink">5월 14일</a></p></td>
+<td><p>월요일 ~ 화요일 밤 12시 20분 ~ 12시 50분 (30분)<br />
+수요일 밤 12시 30분 ~ 새벽 1시 (30분)<br />
+목요일 밤 12시 40분 ~ 새벽 1시 10분 (30분)</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/2020년.md" title="wikilink">2020년</a> <a href="../Page/5월_25일.md" title="wikilink">5월 25일</a> ~ <strong>현재</strong></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/2020년.md" title="wikilink">2020년</a> <a href="../Page/5월_18일.md" title="wikilink">5월 18일</a> ~ <a href="../Page/2020년.md" title="wikilink">2020년</a> <a href="../Page/5월_21일.md" title="wikilink">5월 21일</a></p></td>
+<td><p>월요일 ~ 화요일 밤 12시 20분 ~ 12시 50분 (30분)<br />
+수요일 밤 12시 30분 ~ 새벽 1시 (30분)<br />
+목요일 밤 12시 50분 ~ 새벽 1시 20분 (30분)</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -631,7 +705,7 @@
 | 16대 | [하남신](../Page/하남신.md "wikilink") 前 논설실장                            | 2012년 1월 30일 \~ 2013년 12월 6일   | \[13\]       |
 | 17대 | [배재학](../Page/배재학.md "wikilink") 편집2부장                             | 2013년 12월 9일 \~ 2015년 11월 19일  | \[14\]       |
 | 18대 | 이형근 논설위원                                                           | 2015년 11월 23일 \~ 2018년 11월 13일 |              |
-| 19대 | [김석재](https://ko.wikipedia.org/wiki/김석재_\(기자\) "wikilink") 보도본부 부장 | 2018년 11월 14일 \~ 2019년 7월 18일  |              |
+| 19대 | [김석재](../Page/김석재_\(기자\).md "wikilink") 보도본부 부장                    | 2018년 11월 14일 \~ 2019년 7월 18일  |              |
 | 20대 | [편상욱](../Page/편상욱.md "wikilink") 국제부장                              | 2019년 7월 22일 \~ **현재**         | \[15\]       |
 
 ## 타이틀 변천사
@@ -709,7 +783,7 @@ SBS 뉴스 (금요일)</p></td>
 6.  신우선 前 기자는 2년 만에 SBS 나이트라인 재진행.
 7.  신우선 前 기자의 휴가 또는 출장으로 인하여, 2004년 11월 30일 \~ 12월 4일 방송분은 [최기환](../Page/최기환.md "wikilink") 아나운서가 대신 진행했고, 12월 17일 방송분은 양만희 기자가 대신 진행했으며, 12월 21일 \~ 12월 24일 방송분은 [박광범](../Page/박광범.md "wikilink") 아니운서(現. [SBS 낮 종합뉴스](../Page/SBS_낮_종합뉴스.md "wikilink") 앵커)가 대신 진행했다.
 8.  이승열 前 보도제작국장(現. [국제방송교류재단](../Page/국제방송교류재단.md "wikilink") 사장)은 7년 만에 SBS 나이트라인 재진행.
-9.  이승열 前 보도제작국장(現. [국제방송교류재단](../Page/국제방송교류재단.md "wikilink") 사장)의 여름 휴가로 인하여, 2005년 8월 23일 \~ 8월 27일 방송분은 [신용철](https://ko.wikipedia.org/wiki/신용철 "wikilink") 아나운서가 대신 진행했다.
+9.  이승열 前 보도제작국장(現. [국제방송교류재단](../Page/국제방송교류재단.md "wikilink") 사장)의 여름 휴가로 인하여, 2005년 8월 23일 \~ 8월 27일 방송분은 [신용철](../Page/신용철.md "wikilink") 아나운서가 대신 진행했다.
 10. [SBS에서](../Page/SBS_\(대한민국의_방송사\).md "wikilink") 사상 최초로 여성 앵커가 SBS 나이트라인을 진행했다.
 11. [정성근](../Page/정성근.md "wikilink") 前 논설위원(現. [자유한국당](../Page/자유한국당.md "wikilink") [경기도](https://ko.wikipedia.org/wiki/경기도 "wikilink")당 파주갑 당원협의회 운영위원장)은 7년 만에 SBS 나이트라인 재진행.
 12. [정성근](../Page/정성근.md "wikilink") 前 논설위원(現. [자유한국당](../Page/자유한국당.md "wikilink") [경기도](https://ko.wikipedia.org/wiki/경기도 "wikilink")당 파주갑 당원협의회 운영위원장)은 [2012년](../Page/2012년.md "wikilink") [1월 27일까지](../Page/1월_27일.md "wikilink") SBS 나이트라인을 진행할 예정이었으나, [2012년](../Page/2012년.md "wikilink") [1월 10일에](../Page/1월_10일.md "wikilink") [대한민국 제19대 국회의원 선거에](https://ko.wikipedia.org/wiki/대한민국_제19대_국회의원_선거 "wikilink") 출마하기 위해 SBS 논설위원을 그만두고 SBS 나이트라인에서 하차하게 되어, [2012년](../Page/2012년.md "wikilink") [1월 11일](../Page/1월_11일.md "wikilink") \~ [2012년](../Page/2012년.md "wikilink") [1월 27일](../Page/1월_27일.md "wikilink") 방송분은 당시 [SBS 뉴스퍼레이드의](https://ko.wikipedia.org/wiki/SBS_뉴스퍼레이드 "wikilink") 진행을 맡고 있던 [배재학](../Page/배재학.md "wikilink") 편집2부장이 대신 진행했다.

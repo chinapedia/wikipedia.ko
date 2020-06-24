@@ -38,6 +38,9 @@
 
 ## 작품 리스트
 
+  - 아래의 프로그램들은 [2003년](../Page/2003년.md "wikilink") 이전에 제작 및 방영한 작품들로 부득이하게 일부 장면에서 [흡연](../Page/흡연.md "wikilink") 장면 및 [담배](https://ko.wikipedia.org/wiki/담배 "wikilink") 소품이 노출될 수 있으며, 시청자 여러분들의 양해를 바랍니다.
+  - 아래의 프로그램들은 [2002년](../Page/2002년.md "wikilink") [11월](../Page/11월.md "wikilink") 이후에 [시청 등급 제도를](../Page/대한민국의_텔레비전_등급_제도.md "wikilink") 시행하여, 현재까지 이어지고 있다.
+
 ### 1991년
 
 <table>
@@ -1478,7 +1481,7 @@
 | 168회 | 2월 10일  | [통 큰 남자 간 큰 남자](https://ko.wikipedia.org/wiki/통_큰_남자_간_큰_남자 "wikilink")                     |                                                                                                                                                                                                                    | 권인찬 | 김준호 |
 | 169회 | 2월 17일  | [유혹](https://ko.wikipedia.org/wiki/유혹_\(1995년_드라마\) "wikilink")                             |                                                                                                                                                                                                                    | 박예랑 | 김남원 |
 | 170회 | 2월 24일  | [엇박자 듀엣](https://ko.wikipedia.org/wiki/엇박자_듀엣 "wikilink")                                   |                                                                                                                                                                                                                    | 이형도 | 권이상 |
-| 171회 | 3월 3일   | [좁은 문](https://ko.wikipedia.org/wiki/좁은_문 "wikilink")                                       | [구봉서](../Page/구봉서.md "wikilink"), [길용우](../Page/길용우.md "wikilink"), [김호영](../Page/김호영.md "wikilink"), [이정규](../Page/이정규.md "wikilink")                                                                             | 김태관 | 최창욱 |
+| 171회 | 3월 3일   | [좁은 문](../Page/좁은_문.md "wikilink")                                                          | [구봉서](../Page/구봉서.md "wikilink"), [길용우](../Page/길용우.md "wikilink"), [김호영](../Page/김호영.md "wikilink"), [이정규](../Page/이정규.md "wikilink")                                                                             | 김태관 | 최창욱 |
 | 172회 | 3월 10일  | [우리들의 얼굴](https://ko.wikipedia.org/wiki/우리들의_얼굴 "wikilink")                                 |                                                                                                                                                                                                                    | 이금주 | 최용원 |
 | 173회 | 3월 17일  | [자유선언](../Page/자유선언.md "wikilink")                                                          | [박선영](../Page/박선영_\(1976년_배우\).md "wikilink"), [우희진](../Page/우희진.md "wikilink"), [유태웅](../Page/유태웅.md "wikilink")                                                                                                  | 하명희 | 이대영 |
 | 174회 | 3월 24일  | [아내의 비밀](https://ko.wikipedia.org/wiki/아내의_비밀 "wikilink")                                   |                                                                                                                                                                                                                    | 박종은 | 최이섭 |
@@ -2470,7 +2473,7 @@
 <tr class="odd">
 <td><p>318회</p></td>
 <td><p>6월 19일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/그와_함께_타이타닉을_보다" title="wikilink">그와 함께 타이타닉을 보다</a></p></td>
+<td><p><a href="../Page/그와_함께_타이타닉을_보다.md" title="wikilink">그와 함께 타이타닉을 보다</a></p></td>
 <td><p><a href="../Page/김정은_(배우).md" title="wikilink">김정은</a>, <a href="https://ko.wikipedia.org/wiki/장진영" title="wikilink">장진영</a>, <a href="../Page/최철호.md" title="wikilink">최철호</a>, <a href="../Page/김병세.md" title="wikilink">김병세</a></p></td>
 <td><p>김인영</p></td>
 <td><p>권석장</p></td>
@@ -3592,7 +3595,7 @@
 <tr class="odd">
 <td><p>447회</p></td>
 <td><p>6월 1일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/내_약혼녀_이야기" title="wikilink">내 약혼녀 이야기</a></p></td>
+<td><p><a href="../Page/내_약혼녀_이야기.md" title="wikilink">내 약혼녀 이야기</a></p></td>
 <td><p><a href="../Page/김국진.md" title="wikilink">김국진</a>, <a href="../Page/허영란.md" title="wikilink">허영란</a></p></td>
 <td><p>정유경</p></td>
 <td><p><a href="../Page/김진만_(1968년).md" title="wikilink">김진만</a></p></td>
@@ -3981,7 +3984,7 @@
 <tr class="odd">
 <td><p>492회</p></td>
 <td><p>5월 24일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/고무신_거꾸로_신은_이유에_대한_상상" title="wikilink">고무신 거꾸로 신은 이유에 대한 상상</a></p></td>
+<td><p><a href="../Page/고무신_거꾸로_신은_이유에_대한_상상.md" title="wikilink">고무신 거꾸로 신은 이유에 대한 상상</a></p></td>
 <td><p><a href="../Page/이동건.md" title="wikilink">이동건</a>, <a href="../Page/김민정_(1982년).md" title="wikilink">김민정</a>, <a href="../Page/정태우.md" title="wikilink">정태우</a>, <a href="../Page/유열.md" title="wikilink">유열</a></p></td>
 <td><p>이정은</p></td>
 <td><p>한희</p></td>

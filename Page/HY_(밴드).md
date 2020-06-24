@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [HY \(밴드\)](https://ko.wikipedia.org/wiki/HY_\(밴드\)).
 
 
-**HY** (에이치와이)는 일본의 혼성 5인조 [록 밴드이다](https://ko.wikipedia.org/wiki/록_밴드 "wikilink"). 구성원 모두 [오키나와현](../Page/오키나와현.md "wikilink") [우루마 시출신이다](https://ko.wikipedia.org/wiki/우루마_시 "wikilink").
+**HY** (에이치와이)는 일본의 혼성 5인조 [록 밴드이다](https://ko.wikipedia.org/wiki/록_밴드 "wikilink"). 구성원 모두 [오키나와현](../Page/오키나와현.md "wikilink") [우루마시](../Page/우루마시.md "wikilink")출신이다.
 
 2000년 결성이래, 인디즈로 활동하고 있다. 레이블은 개인 레이블인 ‘히가시야케나건설’()이고, (레이블명이며 실제 건설회사는 아니다).
 
-'HY'라는 밴드명은 고향인 [오키나와 섬](https://ko.wikipedia.org/wiki/오키나와_섬 "wikilink") 중부, [우루마 시](https://ko.wikipedia.org/wiki/우루마_시 "wikilink") [요나시로의](https://ko.wikipedia.org/wiki/요나시로_초 "wikilink") 지명인 '히가시야케나()'의 이니셜에서 따왔다.
+'HY'라는 밴드명은 고향인 [오키나와 섬](https://ko.wikipedia.org/wiki/오키나와_섬 "wikilink") 중부, [우루마시](../Page/우루마시.md "wikilink") [요나시로의](https://ko.wikipedia.org/wiki/요나시로_초 "wikilink") 지명인 '히가시야케나()'의 이니셜에서 따왔다.
 
 ## 구성원
 

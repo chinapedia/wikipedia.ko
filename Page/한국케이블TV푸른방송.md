@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [한국케이블TV푸른방송](https://ko.wikipedia.org/wiki/한국케이블TV푸른방송).
 
 
-**한국케이블TV푸른방송 주식회사**(약칭 **GCS**)는 [대구광역시](../Page/대구광역시.md "wikilink") [달서구](https://ko.wikipedia.org/wiki/달서구 "wikilink"), [달성군](../Page/달성군.md "wikilink")을 서비스 구역으로 하는 대한민국의 [케이블SO사업자](https://ko.wikipedia.org/wiki/케이블SO사업자 "wikilink")이다.\[1\] [1993년](../Page/1993년.md "wikilink") [9월 29일](../Page/9월_29일.md "wikilink") **흥진종합유선방송**으로서 설립되어 오늘날에 이르고 있다.
+**한국케이블TV푸른방송 주식회사**(약칭 **GCS**)는 [대구광역시](../Page/대구광역시.md "wikilink") [달서구](https://ko.wikipedia.org/wiki/달서구 "wikilink"), [달성군](../Page/달성군.md "wikilink")을 서비스 구역으로 하는 대한민국의 [케이블SO사업자](https://ko.wikipedia.org/wiki/케이블SO사업자 "wikilink")이다.\[1\] [1993년](../Page/1993년.md "wikilink") [9월 29일](../Page/9월_29일.md "wikilink") **홍진종합유선방송**으로서 설립되어 오늘날에 이르고 있다.
 
 ## 연혁
 
@@ -84,7 +84,736 @@
   - 2013.05.23 대표이사 문화체육관광부장관 표창 수상
   - 2013.12.07 송년기획 어린이인형극 ‘해님달님’ ‘엄마를찾아주세요’ 개최
 
-## 프로그램
+## GCS 푸른방송 디지털케이블방송 채널
+
+  - **지상파 디지털케이블채널**
+
+<table>
+<thead>
+<tr class="header">
+<th><p>채널 번호</p></th>
+<th><p>채널명</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>디지털<br />
+알뜰형</p></td>
+<td><p>디지털<br />
+케이블</p></td>
+</tr>
+<tr class="even">
+<td><p>HD</p></td>
+<td><p>SD</p></td>
+</tr>
+<tr class="odd">
+<td><p>6-2</p></td>
+<td><p>2번</p></td>
+</tr>
+<tr class="even">
+<td><p>13-1</p></td>
+<td><p>5번</p></td>
+</tr>
+<tr class="odd">
+<td><p>7-1</p></td>
+<td><p>7번</p></td>
+</tr>
+<tr class="even">
+<td><p>9-1</p></td>
+<td><p>9번</p></td>
+</tr>
+<tr class="odd">
+<td><p>11-1</p></td>
+<td><p>11번</p></td>
+</tr>
+<tr class="even">
+<td><p>6-1</p></td>
+<td><p>15번</p></td>
+</tr>
+</tbody>
+</table>
+
+  - **지역채널 디지털케이블TV**
+
+<table>
+<thead>
+<tr class="header">
+<th><p>채널 번호</p></th>
+<th><p>채널명</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>디지털<br />
+알뜰형</p></td>
+<td><p>디지털<br />
+케이블</p></td>
+</tr>
+<tr class="even">
+<td><p>HD</p></td>
+<td><p>SD</p></td>
+</tr>
+<tr class="odd">
+<td><p>1-1</p></td>
+<td><p>1번</p></td>
+</tr>
+<tr class="even">
+<td><p>-</p></td>
+<td><p>00번</p></td>
+</tr>
+<tr class="odd">
+<td><p>-</p></td>
+<td><p>97번</p></td>
+</tr>
+</tbody>
+</table>
+
+  - **드라마 • 영화 디지털케이블TV**
+
+<table>
+<thead>
+<tr class="header">
+<th><p>채널 번호</p></th>
+<th><p>채널명</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>디지털<br />
+알뜰형</p></td>
+<td><p>디지털<br />
+케이블</p></td>
+</tr>
+<tr class="even">
+<td><p>HD</p></td>
+<td><p>SD</p></td>
+</tr>
+<tr class="odd">
+<td><p>26-2</p></td>
+<td><p>73번</p></td>
+</tr>
+<tr class="even">
+<td><p>30-1</p></td>
+<td><p>34번</p></td>
+</tr>
+<tr class="odd">
+<td><p>30-2</p></td>
+<td><p>78번</p></td>
+</tr>
+<tr class="even">
+<td><p>31-1</p></td>
+<td><p>25번</p></td>
+</tr>
+<tr class="odd">
+<td><p>32-1</p></td>
+<td><p>30번</p></td>
+</tr>
+<tr class="even">
+<td><p>32-2</p></td>
+<td><p>37번</p></td>
+</tr>
+<tr class="odd">
+<td><p>33-1</p></td>
+<td><p>51번</p></td>
+</tr>
+<tr class="even">
+<td><p>35-1</p></td>
+<td><p>58번</p></td>
+</tr>
+<tr class="odd">
+<td><p>39-1</p></td>
+<td><p>53번</p></td>
+</tr>
+<tr class="even">
+<td><p>40-1</p></td>
+<td><p>39번</p></td>
+</tr>
+<tr class="odd">
+<td><p>41-1</p></td>
+<td><p>28번</p></td>
+</tr>
+<tr class="even">
+<td><p>42-1</p></td>
+<td><p>41번</p></td>
+</tr>
+<tr class="odd">
+<td><p>-!43-1</p></td>
+<td><p>43번</p></td>
+</tr>
+<tr class="even">
+<td><p>-!54-1</p></td>
+<td><p>33번</p></td>
+</tr>
+<tr class="odd">
+<td><p>-!56-1</p></td>
+<td><p>121번</p></td>
+</tr>
+<tr class="even">
+<td><p>66-1</p></td>
+<td><p>30번</p></td>
+</tr>
+<tr class="odd">
+<td><p>-</p></td>
+<td><p>46번</p></td>
+</tr>
+<tr class="even">
+<td><p>-</p></td>
+<td><p>59번</p></td>
+</tr>
+<tr class="odd">
+<td><p>-</p></td>
+<td><p>61번</p></td>
+</tr>
+<tr class="even">
+<td><p>-</p></td>
+<td><p>68번</p></td>
+</tr>
+<tr class="odd">
+<td><p>-</p></td>
+<td><p>79번</p></td>
+</tr>
+<tr class="even">
+<td><p>-</p></td>
+<td><p>94번</p></td>
+</tr>
+<tr class="odd">
+<td><p>-</p></td>
+<td><p>98번</p></td>
+</tr>
+</tbody>
+</table>
+
+  - **스포츠 • 레저 디지털케이블TV**
+
+<table>
+<thead>
+<tr class="header">
+<th><p>채널 번호</p></th>
+<th><p>채널명</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>디지털<br />
+알뜰형</p></td>
+<td><p>디지털<br />
+케이블</p></td>
+</tr>
+<tr class="even">
+<td><p>HD</p></td>
+<td><p>SD</p></td>
+</tr>
+<tr class="odd">
+<td><p>44-1</p></td>
+<td><p>145번</p></td>
+</tr>
+<tr class="even">
+<td><p>45-1</p></td>
+<td><p>142번</p></td>
+</tr>
+<tr class="odd">
+<td><p>45-2</p></td>
+<td><p>144번</p></td>
+</tr>
+<tr class="even">
+<td><p>46-1</p></td>
+<td><p>142번</p></td>
+</tr>
+<tr class="odd">
+<td><p>46-2</p></td>
+<td><p>149번</p></td>
+</tr>
+<tr class="even">
+<td><p>47-1</p></td>
+<td><p>143번</p></td>
+</tr>
+<tr class="odd">
+<td><p>49-1</p></td>
+<td><p>117번</p></td>
+</tr>
+<tr class="even">
+<td><p>54-2</p></td>
+<td><p>139번</p></td>
+</tr>
+<tr class="odd">
+<td><p>-</p></td>
+<td><p>74번</p></td>
+</tr>
+<tr class="even">
+<td><p>-</p></td>
+<td><p>115번</p></td>
+</tr>
+<tr class="odd">
+<td><p>-</p></td>
+<td><p>116번</p></td>
+</tr>
+<tr class="even">
+<td><p>-</p></td>
+<td><p>118번</p></td>
+</tr>
+<tr class="odd">
+<td><p>-</p></td>
+<td><p>146번</p></td>
+</tr>
+<tr class="even">
+<td><p>-</p></td>
+<td><p>147번</p></td>
+</tr>
+<tr class="odd">
+<td><p>-</p></td>
+<td><p>148번</p></td>
+</tr>
+<tr class="even">
+<td><p>-</p></td>
+<td><p>150번</p></td>
+</tr>
+<tr class="odd">
+<td><p>-</p></td>
+<td><p>-</p></td>
+</tr>
+<tr class="even">
+<td><p>-</p></td>
+<td><p>-</p></td>
+</tr>
+</tbody>
+</table>
+
+  - **어린이 • 생활정보 • 홈쇼핑 디지털케이블TV**
+
+<table>
+<thead>
+<tr class="header">
+<th><p>채널 번호</p></th>
+<th><p>채널명</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>디지털<br />
+알뜰형</p></td>
+<td><p>디지털<br />
+케이블</p></td>
+</tr>
+<tr class="even">
+<td><p>HD</p></td>
+<td><p>SD</p></td>
+</tr>
+<tr class="odd">
+<td><p>8-1</p></td>
+<td><p>8번</p></td>
+</tr>
+<tr class="even">
+<td><p>10-1</p></td>
+<td><p>10번</p></td>
+</tr>
+<tr class="odd">
+<td><p>12-1</p></td>
+<td><p>6번</p></td>
+</tr>
+<tr class="even">
+<td><p>21-1</p></td>
+<td><p>21번</p></td>
+</tr>
+<tr class="odd">
+<td><p>36-2</p></td>
+<td><p>50번</p></td>
+</tr>
+<tr class="even">
+<td><p>50-1</p></td>
+<td><p>176번</p></td>
+</tr>
+<tr class="odd">
+<td><p>51-1</p></td>
+<td><p>183번</p></td>
+</tr>
+<tr class="even">
+<td><p>61-1</p></td>
+<td><p>69번</p></td>
+</tr>
+<tr class="odd">
+<td><p>62-1</p></td>
+<td><p>48번</p></td>
+</tr>
+<tr class="even">
+<td><p>65-1</p></td>
+<td><p>65번</p></td>
+</tr>
+<tr class="odd">
+<td><p>-</p></td>
+<td><p>175번</p></td>
+</tr>
+<tr class="even">
+<td><p>-</p></td>
+<td><p>184번</p></td>
+</tr>
+</tbody>
+</table>
+
+  - **다큐멘터리 • 종교 • 정보 디지털케이블TV**
+
+<table>
+<thead>
+<tr class="header">
+<th><p>채널 번호</p></th>
+<th><p>채널명</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>디지털<br />
+알뜰형</p></td>
+<td><p>디지털<br />
+케이블</p></td>
+</tr>
+<tr class="even">
+<td><p>HD</p></td>
+<td><p>SD</p></td>
+</tr>
+<tr class="odd">
+<td><p>22-1</p></td>
+<td><p>80번</p></td>
+</tr>
+<tr class="even">
+<td><p>23-1</p></td>
+<td><p>23번</p></td>
+</tr>
+<tr class="odd">
+<td><p>24-1</p></td>
+<td><p>24번</p></td>
+</tr>
+<tr class="even">
+<td><p>25-1</p></td>
+<td><p>84번</p></td>
+</tr>
+<tr class="odd">
+<td><p>55-1</p></td>
+<td><p>66번</p></td>
+</tr>
+<tr class="even">
+<td><p>57-1</p></td>
+<td><p>89번</p></td>
+</tr>
+<tr class="odd">
+<td><p>74-1</p></td>
+<td><p>-</p></td>
+</tr>
+<tr class="even">
+<td><p>-</p></td>
+<td><p>83번</p></td>
+</tr>
+<tr class="odd">
+<td><p>-</p></td>
+<td><p>84번</p></td>
+</tr>
+<tr class="even">
+<td><p>-</p></td>
+<td><p>87번</p></td>
+</tr>
+<tr class="odd">
+<td><p>-</p></td>
+<td><p>88번</p></td>
+</tr>
+<tr class="even">
+<td><p>-</p></td>
+<td><p>90번</p></td>
+</tr>
+<tr class="odd">
+<td><p>-</p></td>
+<td><p>93번</p></td>
+</tr>
+<tr class="even">
+<td><p>-</p></td>
+<td><p>130번</p></td>
+</tr>
+<tr class="odd">
+<td><p>-</p></td>
+<td><p>131번</p></td>
+</tr>
+<tr class="even">
+<td><p>-</p></td>
+<td><p>132번</p></td>
+</tr>
+<tr class="odd">
+<td><p>-</p></td>
+<td><p>209번</p></td>
+</tr>
+<tr class="even">
+<td><p>-</p></td>
+<td><p>-</p></td>
+</tr>
+<tr class="odd">
+<td><p>-</p></td>
+<td><p>-</p></td>
+</tr>
+<tr class="even">
+<td><p>-</p></td>
+<td><p>-</p></td>
+</tr>
+<tr class="odd">
+<td><p>-</p></td>
+<td><p>-</p></td>
+</tr>
+<tr class="even">
+<td><p>-</p></td>
+<td><p>-</p></td>
+</tr>
+</tbody>
+</table>
+
+  - **음악 • 오락 디지털케이블TV**
+
+<table>
+<thead>
+<tr class="header">
+<th><p>채널 번호</p></th>
+<th><p>채널명</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>디지털<br />
+알뜰형</p></td>
+<td><p>디지털<br />
+케이블</p></td>
+</tr>
+<tr class="even">
+<td><p>HD</p></td>
+<td><p>SD</p></td>
+</tr>
+<tr class="odd">
+<td><p>5-1번</p></td>
+<td><p>20번</p></td>
+</tr>
+<tr class="even">
+<td><p>26-1</p></td>
+<td><p>3번</p></td>
+</tr>
+<tr class="odd">
+<td><p>27-1</p></td>
+<td><p>27번</p></td>
+</tr>
+<tr class="even">
+<td><p>28-1</p></td>
+<td><p>-</p></td>
+</tr>
+<tr class="odd">
+<td><p>29-1</p></td>
+<td><p>26번</p></td>
+</tr>
+<tr class="even">
+<td><p>37-1</p></td>
+<td><p>57번</p></td>
+</tr>
+<tr class="odd">
+<td><p>37-2</p></td>
+<td><p>96번</p></td>
+</tr>
+<tr class="even">
+<td><p>63-1</p></td>
+<td><p>111번</p></td>
+</tr>
+<tr class="odd">
+<td><p>64-1</p></td>
+<td><p>112번</p></td>
+</tr>
+<tr class="even">
+<td><p>65-2</p></td>
+<td><p>109번</p></td>
+</tr>
+<tr class="odd">
+<td><p>67-1</p></td>
+<td><p>110번</p></td>
+</tr>
+<tr class="even">
+<td><p>-</p></td>
+<td><p>67번</p></td>
+</tr>
+<tr class="odd">
+<td><p>-</p></td>
+<td><p>92번</p></td>
+</tr>
+<tr class="even">
+<td><p>-</p></td>
+<td><p>113번</p></td>
+</tr>
+<tr class="odd">
+<td><p>-</p></td>
+<td><p>127번</p></td>
+</tr>
+<tr class="even">
+<td><p>-</p></td>
+<td><p>140번</p></td>
+</tr>
+<tr class="odd">
+<td><p>-</p></td>
+<td><p>-</p></td>
+</tr>
+</tbody>
+</table>
+
+  - **종합편성 • 외국어 디지털케이블TV**
+
+<table>
+<thead>
+<tr class="header">
+<th><p>채널 번호</p></th>
+<th><p>채널명</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>디지털<br />
+알뜰형</p></td>
+<td><p>디지털<br />
+케이블</p></td>
+</tr>
+<tr class="even">
+<td><p>HD</p></td>
+<td><p>SD</p></td>
+</tr>
+<tr class="odd">
+<td><p>17-1</p></td>
+<td><p>14번</p></td>
+</tr>
+<tr class="even">
+<td><p>18-1</p></td>
+<td><p>18번</p></td>
+</tr>
+<tr class="odd">
+<td><p>19-1</p></td>
+<td><p>19번</p></td>
+</tr>
+<tr class="even">
+<td><p>20-1</p></td>
+<td><p>16번</p></td>
+</tr>
+<tr class="odd">
+<td><p>-</p></td>
+<td><p>230번</p></td>
+</tr>
+<tr class="even">
+<td><p>-</p></td>
+<td><p>-</p></td>
+</tr>
+<tr class="odd">
+<td><p>-</p></td>
+<td><p>-</p></td>
+</tr>
+<tr class="even">
+<td><p>-</p></td>
+<td><p>-</p></td>
+</tr>
+<tr class="odd">
+<td><p>-</p></td>
+<td><p>-</p></td>
+</tr>
+<tr class="even">
+<td><p>-</p></td>
+<td><p>-</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+  - **공공 • 종교 • 교육 채널 디지털케이블TV**
+
+<table>
+<thead>
+<tr class="header">
+<th><p>채널 번호</p></th>
+<th><p>채널명</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>디지털<br />
+알뜰형</p></td>
+<td><p>디지털<br />
+케이블</p></td>
+</tr>
+<tr class="even">
+<td><p>HD</p></td>
+<td><p>SD</p></td>
+</tr>
+<tr class="odd">
+<td><p>2-1</p></td>
+<td><p>-</p></td>
+</tr>
+<tr class="even">
+<td><p>3-1</p></td>
+<td><p>-</p></td>
+</tr>
+<tr class="odd">
+<td><p>68-1</p></td>
+<td><p>-</p></td>
+</tr>
+<tr class="even">
+<td><p>69-1</p></td>
+<td><p>155번</p></td>
+</tr>
+<tr class="odd">
+<td><p>70-1</p></td>
+<td><p>-</p></td>
+</tr>
+<tr class="even">
+<td><p>71-1</p></td>
+<td><p>158번</p></td>
+</tr>
+<tr class="odd">
+<td><p>71-2</p></td>
+<td><p>157번</p></td>
+</tr>
+<tr class="even">
+<td><p>72-1</p></td>
+<td><p>-</p></td>
+</tr>
+<tr class="odd">
+<td><p>73-1</p></td>
+<td><p>-</p></td>
+</tr>
+<tr class="even">
+<td><p>74-1</p></td>
+<td><p>-</p></td>
+</tr>
+<tr class="odd">
+<td><p>95-1</p></td>
+<td><p>-</p></td>
+</tr>
+<tr class="even">
+<td><p>96-1</p></td>
+<td><p>-</p></td>
+</tr>
+<tr class="odd">
+<td><p>97-1</p></td>
+<td><p>-</p></td>
+</tr>
+<tr class="even">
+<td><p>-</p></td>
+<td><p>-</p></td>
+</tr>
+<tr class="odd">
+<td><p>-</p></td>
+<td><p>-</p></td>
+</tr>
+<tr class="even">
+<td><p>-</p></td>
+<td><p>-</p></td>
+</tr>
+<tr class="odd">
+<td><p>-</p></td>
+<td><p>-</p></td>
+</tr>
+<tr class="even">
+<td><p>-</p></td>
+<td><p>-</p></td>
+</tr>
+</tbody>
+</table>
+
+## GCS 푸른방송 주요프로그램
 
   - 푸른방송 뉴스
   - 유성의 가요교실
@@ -92,6 +821,9 @@
   - 유성의가요교실
   - 사랑의 메시지
   - 우리동네 우리방송 푸른방송
+
+## GCS 푸른방송 종영프로그램
+
   - 우리학교 최고
   - 열린마당
   - 고수의 비법
@@ -100,69 +832,6 @@
   - 달슐랭가이드
   - 내고장 문화유산
   - TV속의라디오
-
-## HD알뜰케이블 TV
-
-  - 1-1번 [푸른방송](../Page/한국케이블TV푸른방송.md "wikilink")
-  - 2-1번 [EBS플러스1](https://ko.wikipedia.org/wiki/EBS플러스1 "wikilink")
-  - 3-1번 [EBS플러스2](https://ko.wikipedia.org/wiki/EBS플러스2 "wikilink")
-  - 5-1번 [tvN](https://ko.wikipedia.org/wiki/tvN "wikilink")
-  - 6-1번 [EBS](https://ko.wikipedia.org/wiki/EBS "wikilink")
-  - 6-2번 [EBS2](https://ko.wikipedia.org/wiki/EBS2 "wikilink")
-  - 7-1번 [KBS2](https://ko.wikipedia.org/wiki/KBS_제2TV "wikilink")
-  - 8-1번 [CJ오쇼핑](../Page/CJ오쇼핑.md "wikilink")
-  - 9-1번 [KBS1](https://ko.wikipedia.org/wiki/KBS_제1TV "wikilink")
-  - 10-1번 [롯데홈쇼핑](https://ko.wikipedia.org/wiki/롯데홈쇼핑 "wikilink")
-  - 11-1번 [MBC](https://ko.wikipedia.org/wiki/대구_MBC "wikilink")
-  - 12-1번 [GS SHOP](https://ko.wikipedia.org/wiki/GS홈쇼핑 "wikilink")
-  - 13-1번 [TBC/SBS](https://ko.wikipedia.org/wiki/대구방송 "wikilink")
-  - 14-1번 [NS홈쇼핑](../Page/NS홈쇼핑.md "wikilink")
-  - 15-1번 [현대홈쇼핑](../Page/현대홈쇼핑.md "wikilink")
-  - 16-1번 [홈앤쇼핑](../Page/홈&쇼핑.md "wikilink")
-  - 17-1번 [JTBC](../Page/JTBC.md "wikilink")
-  - 18-1번 [채널A](../Page/채널A.md "wikilink")
-  - 19-1번 [TV조선](../Page/TV조선.md "wikilink")
-  - 20-1번 [MBN](../Page/매일방송.md "wikilink")
-  - 21-1번 [공영쇼핑](https://ko.wikipedia.org/wiki/공영홈쇼핑 "wikilink")
-  - 22-1번 [SBS CNBC](../Page/SBS_CNBC.md "wikilink")
-  - 23-1번 [연합뉴스TV](../Page/연합뉴스TV.md "wikilink")
-  - 24-1번 [YTN](../Page/YTN.md "wikilink")
-  - 25-1번 [한국경제TV](../Page/한국경제TV.md "wikilink")
-  - 26-1번 [MBC에브리원](../Page/MBC_에브리원.md "wikilink")
-  - 26-2번 [MBC ON](../Page/MBC_ON.md "wikilink")
-  - 27-1번 [Mnet](https://ko.wikipedia.org/wiki/Mnet "wikilink")
-  - 27-2번 [채널 DIA](../Page/DIA_TV.md "wikilink")
-  - 28-1번 [코미디TV](https://ko.wikipedia.org/wiki/코미디TV "wikilink")
-  - 29-1번 [XtvN](https://ko.wikipedia.org/wiki/XtvN "wikilink")
-  - 30-1번 [스크린](https://ko.wikipedia.org/wiki/스크린 "wikilink")
-  - 30-2번 [인디필름](https://ko.wikipedia.org/wiki/인디필름 "wikilink")
-  - 31-1번 [OCN](../Page/OCN_\(텔레비전_채널\).md "wikilink")
-  - 32-1번 [OCN 무비즈](https://ko.wikipedia.org/wiki/채널_CGV "wikilink")
-  - 32-2번 [Mplex](https://ko.wikipedia.org/wiki/Mplex "wikilink")
-  - 33-1번 [CNTV](https://ko.wikipedia.org/wiki/CNTV "wikilink")
-  - 34-1번 [K STAR](https://ko.wikipedia.org/wiki/K-STAR_\(채널\) "wikilink")
-  - 35-1번 [하이라이트TV](../Page/하이라이트TV.md "wikilink")
-  - 36-1번 [JTBC2](../Page/JTBC2.md "wikilink")
-  - 36-2번 [JTBC4](https://ko.wikipedia.org/wiki/JTBC4 "wikilink")
-  - 37-1번 [CMCTV](https://ko.wikipedia.org/wiki/CMC_TV "wikilink")
-  - 37-2번 채널이엠
-  - 38-1번 [KBS JOY](../Page/KBS_조이.md "wikilink")
-  - 39-1번 [디원](https://ko.wikipedia.org/wiki/디원TV "wikilink")
-  - 39-2번 [Fun TV](https://ko.wikipedia.org/wiki/펀TV "wikilink")
-  - 40-1번 [SBS플러스](https://ko.wikipedia.org/wiki/SBS플러스 "wikilink")
-  - 41-1번 [드라맥스](../Page/드라맥스.md "wikilink")
-  - 42-1번 [KBS드라마](../Page/KBS_드라마.md "wikilink")
-
-## 디지털케이블TV
-
-지상파
-
-  - 2번 - [EBS2](../Page/EBS_2TV.md "wikilink") HD
-  - 5번 - [TBC/SBS](https://ko.wikipedia.org/wiki/대구방송 "wikilink") HD
-  - 7번 - [KBS2](https://ko.wikipedia.org/wiki/KBS_제2TV "wikilink") HD
-  - 9번 - [KBS1](https://ko.wikipedia.org/wiki/KBS_제1TV "wikilink") HD
-  - 11번 - [MBC](https://ko.wikipedia.org/wiki/대구_MBC "wikilink") HD
-  - 15번 - [EBS](../Page/EBS_1TV.md "wikilink") HD
 
 ## 본점 및 지점 현황
 

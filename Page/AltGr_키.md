@@ -137,7 +137,7 @@ AltGr을 통해 입력되는 문자 Á/á는 대소문자의 짝이 있어서 Ca
   - [Alt 키](../Page/Alt_키.md "wikilink")
   - [데드 키](../Page/데드_키.md "wikilink")
   - [언어 입력 키](https://ko.wikipedia.org/wiki/언어_입력_키 "wikilink")
-  - [옵션 키](https://ko.wikipedia.org/wiki/옵션_키 "wikilink")
+  - [옵션 키](../Page/옵션_키.md "wikilink")
   - [컴포즈 키](../Page/컴포즈_키.md "wikilink")
 
 [분류:컴퓨터 키](https://ko.wikipedia.org/wiki/분류:컴퓨터_키 "wikilink")

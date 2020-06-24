@@ -29,7 +29,7 @@
 
 ## 더 보기
 
-  - [미쓰비시 T-2](https://ko.wikipedia.org/wiki/미쓰비시_T-2 "wikilink")
+  - [미쓰비시 T-2](../Page/미쓰비시_T-2.md "wikilink")
 
 ## 외부 링크
 
@@ -41,4 +41,4 @@
   - [Chronological Sepecat & BAC Jaguar Losses & Ejections](https://web.archive.org/web/20080119034416/http://www.ejection-history.org.uk/Aircraft_by_Type/Jaguar/Jaguar.htm) from [www.ejection-history.org.uk](http://www.ejection-history.org.uk)
   - \[<http://www.acig.org/>.../fae_jaguar_es_fae309.jpg Ecuadorian Jaguars\]
 
-[분류:영국의 전투기](https://ko.wikipedia.org/wiki/분류:영국의_전투기 "wikilink") [분류:프랑스의 전투기](https://ko.wikipedia.org/wiki/분류:프랑스의_전투기 "wikilink") [분류:1968년 첫 비행한 항공기](https://ko.wikipedia.org/wiki/분류:1968년_첫_비행한_항공기 "wikilink") [분류:쌍발 제트기](https://ko.wikipedia.org/wiki/분류:쌍발_제트기 "wikilink")
+[분류:영국의 전투기](https://ko.wikipedia.org/wiki/분류:영국의_전투기 "wikilink") [분류:프랑스의 전투기](https://ko.wikipedia.org/wiki/분류:프랑스의_전투기 "wikilink") [분류:1968년 첫 비행한 항공기](https://ko.wikipedia.org/wiki/분류:1968년_첫_비행한_항공기 "wikilink") [분류:쌍발 제트기](https://ko.wikipedia.org/wiki/분류:쌍발_제트기 "wikilink") [분류:고익기](https://ko.wikipedia.org/wiki/분류:고익기 "wikilink")

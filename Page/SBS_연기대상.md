@@ -238,7 +238,7 @@
 | 코미디 부문 최우수 연기상                                      | [최양락](../Page/최양락.md "wikilink")                                                               |                                                                                          |
 | 코미디 부문 우수 연기상                                       | [신동엽](../Page/신동엽_\(희극인\).md "wikilink")                                                       |                                                                                          |
 | [김미화](../Page/김미화.md "wikilink")                    |                                                                                                |                                                                                          |
-| 코미디 부문 신인 연기상                                       | [전철우](https://ko.wikipedia.org/wiki/전철우 "wikilink")                                            |                                                                                          |
+| 코미디 부문 신인 연기상                                       | [전철우](../Page/전철우.md "wikilink")                                                               |                                                                                          |
 | [정은숙](https://ko.wikipedia.org/wiki/정은숙 "wikilink") |                                                                                                |                                                                                          |
 | 드라마 부문 최고 인기상                                       | [정종준](../Page/정종준.md "wikilink")                                                               | [옥이이모](https://ko.wikipedia.org/wiki/옥이이모 "wikilink")                                    |
 | 가수부문 최고 인기상                                         | [룰라](../Page/룰라_\(음악_그룹\).md "wikilink")                                                       |                                                                                          |
@@ -1322,7 +1322,7 @@
 <tr class="odd">
 <td><p>수목드라마 부문 최우수 연기상</p></td>
 <td><p><a href="../Page/이종석_(배우).md" title="wikilink">이종석</a><br />
-<a href="../Page/수지_(대한민국의_가수).md" title="wikilink">수지</a></p></td>
+<a href="../Page/수지_(1994년).md" title="wikilink">수지</a></p></td>
 <td><p><a href="../Page/당신이_잠든_사이에_(드라마).md" title="wikilink">당신이 잠든 사이에</a></p></td>
 </tr>
 <tr class="even">
@@ -1334,7 +1334,7 @@
 </tr>
 <tr class="odd">
 <td><p>베스트 커플상</p></td>
-<td><p><a href="../Page/이종석_(배우).md" title="wikilink">이종석</a> &amp; <a href="../Page/수지_(대한민국의_가수).md" title="wikilink">수지</a></p></td>
+<td><p><a href="../Page/이종석_(배우).md" title="wikilink">이종석</a> &amp; <a href="../Page/수지_(1994년).md" title="wikilink">수지</a></p></td>
 <td><p><a href="../Page/당신이_잠든_사이에_(드라마).md" title="wikilink">당신이 잠든 사이에</a></p></td>
 </tr>
 <tr class="even">
@@ -1518,7 +1518,7 @@
 <tr class="odd">
 <td><p>미니시리즈 부문 최우수 연기상</p></td>
 <td><p><a href="../Page/이승기.md" title="wikilink">이승기</a><br />
-<a href="../Page/수지_(대한민국의_가수).md" title="wikilink">배수지</a></p></td>
+<a href="../Page/수지_(1994년).md" title="wikilink">배수지</a></p></td>
 <td><p><a href="../Page/배가본드_(드라마).md" title="wikilink">배가본드</a></p></td>
 </tr>
 <tr class="even">
@@ -1530,7 +1530,7 @@
 </tr>
 <tr class="odd">
 <td><p>베스트 커플상</p></td>
-<td><p><a href="../Page/이승기.md" title="wikilink">이승기</a> &amp; <a href="../Page/수지_(대한민국의_가수).md" title="wikilink">배수지</a></p></td>
+<td><p><a href="../Page/이승기.md" title="wikilink">이승기</a> &amp; <a href="../Page/수지_(1994년).md" title="wikilink">배수지</a></p></td>
 <td><p><a href="../Page/배가본드_(드라마).md" title="wikilink">배가본드</a></p></td>
 </tr>
 <tr class="even">
@@ -1560,7 +1560,7 @@
 <tr class="odd">
 <td><p>청소년 연기상</p></td>
 <td><p><a href="../Page/윤찬영.md" title="wikilink">윤찬영</a></p></td>
-<td><p><a href="../Page/의사요한.md" title="wikilink">의사요한</a>, <a href="https://ko.wikipedia.org/wiki/17세의_조건" title="wikilink">17세의 조건</a></p></td>
+<td><p><a href="../Page/의사요한.md" title="wikilink">의사요한</a>, <a href="../Page/17세의_조건.md" title="wikilink">17세의 조건</a></p></td>
 </tr>
 <tr class="even">
 <td><p>베스트 캐릭터상</p></td>
@@ -1625,13 +1625,13 @@
   - [1997년](../Page/1997년.md "wikilink")에는 [대한민국의 IMF 구제금융 요청과](https://ko.wikipedia.org/wiki/대한민국의_IMF_구제금융_요청 "wikilink") 함께 전체적으로 드라마 시청률 경쟁에서 참패하게 되자\[1\] 시상식을 진행하지 않았다.
   - 배우 [고두심](../Page/고두심.md "wikilink")은 [1989년](../Page/1989년.md "wikilink"), [2004년](../Page/2004년.md "wikilink"), [2015년](../Page/2015년.md "wikilink") (KBS), [1990년](../Page/1990년.md "wikilink"), [2004년](../Page/2004년.md "wikilink") (MBC), [2000년](../Page/2000년.md "wikilink") (SBS) 에서 각각 **연기대상**을 수상하여 **연기대상 최초 그랜드슬램 수상자**로 기록되어 있다.
   - [문근영](../Page/문근영.md "wikilink") ([2008년](../Page/2008년.md "wikilink"), 만 21), [김희선](../Page/김희선.md "wikilink")([1998년](../Page/1998년.md "wikilink"), 만 22)은 방송 3사 연기대상 최연소 대상 수상자로 기록되어 있다.
-  - [박신양](../Page/박신양.md "wikilink")은 [파리의 연인으로](../Page/파리의_연인.md "wikilink") [2004년](../Page/2004년.md "wikilink"), [쩐의 전쟁으로](../Page/쩐의_전쟁.md "wikilink") [2007년](../Page/2007년.md "wikilink") 연기대상을 수상했고, [한석규](../Page/한석규.md "wikilink")는 [뿌리깊은 나무로](../Page/뿌리깊은_나무_\(2011년_드라마\).md "wikilink") [2011년](../Page/2011년.md "wikilink"), [낭만닥터 김사부로](../Page/낭만닥터_김사부.md "wikilink") [2016년](../Page/2016년.md "wikilink") 연기대상을 수상해 **SBS 연기대상 최다 수상자**로 기록되어 있다.
+  - 배우 [박신양](../Page/박신양.md "wikilink")은 [2004년](../Page/2004년.md "wikilink"), [2007년](../Page/2007년.md "wikilink") 수상, [한석규](../Page/한석규.md "wikilink")는 [2011년](../Page/2011년.md "wikilink"), [2016년](../Page/2016년.md "wikilink") 수상으로 **SBS 연기대상 최다 수상자**로 기록되어 있다.
   - [2001년](../Page/2001년.md "wikilink") [강수연](../Page/강수연.md "wikilink")과 [전인화](../Page/전인화.md "wikilink"), [2004년](../Page/2004년.md "wikilink") [박신양](../Page/박신양.md "wikilink")과 [김정은](../Page/김정은_\(배우\).md "wikilink"), [2007년](../Page/2007년.md "wikilink") [박신양](../Page/박신양.md "wikilink")과 [김희애](../Page/김희애.md "wikilink"), [2018년](../Page/2018년.md "wikilink") [감우성](https://ko.wikipedia.org/wiki/감우성 "wikilink")과 [김선아](../Page/김선아.md "wikilink") 등 총 4번의 공동수상이 있었다.
   - [2010년](../Page/2010년.md "wikilink") **연기대상**에서 배우 [고현정](../Page/고현정.md "wikilink")이 대상을 수상했으나 이미 연기대상 대상 수상자가 정해졌다는 이른바 [고현정](../Page/고현정.md "wikilink") 빅딜설이라는 소문이 나돌면서 논란이 있으며\[2\]\[3\]\[4\] 또한, [고현정](../Page/고현정.md "wikilink")의 수상소감에 대해서도 비판이 있다.\[5\]\[6\] [2011년](../Page/2011년.md "wikilink") [1월 2일](../Page/1월_2일.md "wikilink") 2010년 SBS 연기대상 재방송 방송에서 [고현정](../Page/고현정.md "wikilink")의 수상소감은 편집되었고\[7\] 그 이후 2012년 4월 고현정이 진행하는 GO쇼가 방송되었다.
   - [2010년](../Page/2010년.md "wikilink") [12월 26일](../Page/12월_26일.md "wikilink") [김수현](../Page/김수현_\(작가\).md "wikilink") 작가는 [트위터](../Page/트위터.md "wikilink")에서 “SBS 연말 연기상, '[인생은 아름다워](../Page/인생은_아름다워_\(2010년_드라마\).md "wikilink")' 팬들은 기대를 접으시기 바랍니다. 상은 받을 만한 가치가 있을 때 '상'이라는 생각 변함없고, 아마도 인아는 찬밥일 겁니다. 괜찮습니다. 잔칫상 구색 맞추기 동원보다는 아예 찬밥이 깔끔”이라고 말했다.\[8\]
   - [2001년](../Page/2001년.md "wikilink") **연기대상**부터 대상 후보를 포함하여 한 해 최고의 연기자 다수에게 수여하던 "10대 스타상"은 SBS의 시상식 개편으로 인하여 [2017년](../Page/2017년.md "wikilink") **연기대상**부터 폐지되었다.
   - 한 해 신인 다수에게 수여했던 **연기대상**의 신인상인 "뉴스타상"은 SBS의 시상식 개편으로 인하여 [2017년](../Page/2017년.md "wikilink")부터 "신인연기상"으로 명칭이 변경되었다.
-  - [2017년](../Page/2017년.md "wikilink") **연기대상**에서 [지성](../Page/지성_\(배우\).md "wikilink"), [이보영은](../Page/이보영_\(배우\).md "wikilink") 최초로 부부가 함께 연기대상에 참석하였으며 같이 대상후보에 오르기도 하였다.
+  - [2017년](../Page/2017년.md "wikilink") **연기대상**에서 [지성](../Page/지성_\(배우\).md "wikilink"), [이보영은](../Page/이보영_\(배우\).md "wikilink") SBS 연기대상 최초 부부가 함께 연기대상에 참석한 데 이어 같은 해 대상후보에 오르기도 하였다.
 
 ## 네트워크 방송사
 

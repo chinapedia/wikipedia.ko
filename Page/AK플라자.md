@@ -63,7 +63,7 @@
 
 ## 쇼핑몰
 
-  - [AK앤 홍대점](../Page/홍대입구역.md "wikilink") [서울특별시](../Page/서울특별시.md "wikilink") [마포구](../Page/마포구.md "wikilink") 양화로 188
+  - [AK& 홍대점](../Page/홍대입구역.md "wikilink") : [서울특별시](../Page/서울특별시.md "wikilink") [마포구](../Page/마포구.md "wikilink") 양화로 188
 
 <!-- end list -->
 
@@ -72,7 +72,7 @@
 
 <!-- end list -->
 
-  - [AK앤 기흥점](../Page/기흥역.md "wikilink") 경기도 용인시 기흥구 중부대로 494
+  - [AK& 기흥점](../Page/기흥역.md "wikilink") : 경기도 용인시 기흥구 중부대로 494
 
 <!-- end list -->
 
@@ -81,7 +81,7 @@
 
 <!-- end list -->
 
-  - [AK앤 세종점](https://ko.wikipedia.org/wiki/KT&G_세종타워 "wikilink") 세종특별자치시 한누리대로 411
+  - AK& 세종점 : 세종특별자치시 한누리대로 411
 
 ## Neighborhood Shopping Center
 
@@ -107,7 +107,7 @@
 
 ## 멤버스 카드
 
-기존에 멤버스카드가 있다. 현재 제휴맺은 카드사 및 은행은 [신한카드](../Page/신한카드.md "wikilink").\[2\][KB국민카드](../Page/KB국민카드.md "wikilink")등이 있다.
+기존에 멤버스카드가 있다. 현재 제휴맺은 카드사 및 은행은 [신한카드](../Page/신한카드.md "wikilink").\[2\][KB국민카드](../Page/KB국민카드.md "wikilink"),[우리카드](../Page/우리카드.md "wikilink")등이 있다.
 
 ### 제휴할인카드
 

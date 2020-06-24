@@ -20,4 +20,4 @@
 
   - [IAI 하피](../Page/IAI_하피.md "wikilink")
 
-[분류:이스라엘의 무인 항공기](https://ko.wikipedia.org/wiki/분류:이스라엘의_무인_항공기 "wikilink")
+[분류:이스라엘의 무인 항공기](https://ko.wikipedia.org/wiki/분류:이스라엘의_무인_항공기 "wikilink") [분류:삼각익기](https://ko.wikipedia.org/wiki/분류:삼각익기 "wikilink") [분류:선미익기](https://ko.wikipedia.org/wiki/분류:선미익기 "wikilink")

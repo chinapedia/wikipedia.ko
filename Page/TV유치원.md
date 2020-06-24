@@ -52,37 +52,40 @@
   - 지니의 한글놀이
   - 클레이 날날날
   - 꼬야랑 숨은그림찾기
+  - [꼬꼬마 텔레토비](../Page/꼬꼬마_텔레토비.md "wikilink")(리부트) - 본방송
   - 이럴땐 손씻기
-  - 정글비트 멍키와 트렁크
   - TV유치원 체조
 
 ### 화요일
 
   - 지니의 한글놀이
-  - 빠빠랑 책이랑
+  - 어린이뉴스 뚜뚜
+  - 다른그림찾기
+  - [꼬꼬마 텔레토비](../Page/꼬꼬마_텔레토비.md "wikilink")(리부트) - 재방송
   - 이럴땐 손씻기
-  - [토마스와 친구들](../Page/토마스와_친구들.md "wikilink")(제19기)
 
 ### 수요일
 
   - 지니의 한글놀이
   - 직업탐험 바쁘다 바빠
+  - 꼬야랑 숨은그림찾기
+  - [토마스와 친구들](../Page/토마스와_친구들.md "wikilink")(제19기)
   - 이럴땐 손씻기
-  - [꼬꼬마 텔레토비](../Page/꼬꼬마_텔레토비.md "wikilink")(리부트) - 본방송
 
 ### 목요일
 
   - 지니의 한글놀이
   - 흔한남매의 COMMON ENGLISH
+  - 다른그림찾기
+  - 정글비트 멍키와 트렁크
   - 이럴땐 손씻기
-  - [꼬꼬마 텔레토비](../Page/꼬꼬마_텔레토비.md "wikilink")(리부트) - 재방송
-  - TV 유치원 체조
 
 ## 역대 구성
 
   - 뭘까 뭘까 빵야의 선물
   - 다다다
   - 냠냠수학
+  - 엄마랑 동화랑
   - 호기심 대장 밀리
   - 춤춤춤
   - 출동 우주탐험대 스페이스 레이서
@@ -94,7 +97,7 @@
   - 손놀이
   - 클레이 쓩쓩
   - 색깔배우기
-  - 다른그림찾기
+  - 빠빠랑 책이랑
 
 ## 등장인물
 
@@ -148,7 +151,7 @@
   - [희극인 김성은](../Page/김성은_\(희극인\).md "wikilink") ([1996년](../Page/1996년.md "wikilink") \~ [2015년](../Page/2015년.md "wikilink")) (깔깔마녀)
   - [이근희](../Page/이근희.md "wikilink") (1996년 \~ 2006년) (붕붕아저씨)
   - [김지원](../Page/김지원_\(아나운서\).md "wikilink") ([2015년](../Page/2015년.md "wikilink") [1월 5일](../Page/1월_5일.md "wikilink") \~ [2015년](../Page/2015년.md "wikilink") [3월 30일](../Page/3월_30일.md "wikilink")) (콩나 언니)
-  - [헤이지니](https://ko.wikipedia.org/wiki/헤이지니 "wikilink") (강혜진)
+  - [헤이지니](../Page/헤이지니.md "wikilink") (강혜진)
   - 럭키강이 (강민석)
   - [정성호](https://ko.wikipedia.org/wiki/정성호 "wikilink")
   - [장다운](../Page/장다운.md "wikilink"), [한으뜸](https://ko.wikipedia.org/wiki/한으뜸 "wikilink") ([2019년](../Page/2019년.md "wikilink") [8월 8일](../Page/8월_8일.md "wikilink") \~ **현재**) (흔한남매)
@@ -168,7 +171,7 @@
 
 ## 외부 링크
 
-  - [KBS TV유치원 홈페이지](http://www.kbs.co.kr/2tv/sisa/kinder/index.html)
+  - 김지효 씀[KBS TV유치원 홈페이지](http://www.kbs.co.kr/2tv/sisa/kinder/index.html)
 
 [분류:한국방송공사의 어린이 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:한국방송공사의_어린이_텔레비전_프로그램 "wikilink") [분류:대한민국의 어린이 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:대한민국의_어린이_텔레비전_프로그램 "wikilink") [분류:1982년에 시작한 대한민국 TV 프로그램](https://ko.wikipedia.org/wiki/분류:1982년에_시작한_대한민국_TV_프로그램 "wikilink")
 

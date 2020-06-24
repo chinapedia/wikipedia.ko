@@ -46,7 +46,7 @@
 
 ### 자회사 구성
 
-  - [KB국민은행](https://ko.wikipedia.org/wiki/KB국민은행 "wikilink") ([KB국민은행 홈페이지](http://www.kbstar.co.kr))
+  - [KB국민은행](../Page/KB국민은행.md "wikilink") ([KB국민은행 홈페이지](http://www.kbstar.co.kr))
   - [KB증권](../Page/KB증권.md "wikilink") ([KB증권 홈페이지](https://web.archive.org/web/20161220160552/https://www.hdable.co.kr/go.able))
   - [KB손해보험](../Page/KB손해보험.md "wikilink") ([KB손해보험 홈페이지](http://www.kbinsure.co.kr))
   - [KB국민카드](../Page/KB국민카드.md "wikilink") ([KB국민카드 홈페이지](http://www.kbcard.com))

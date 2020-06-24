@@ -58,7 +58,7 @@
 <td><p><a href="../Page/제주_유나이티드_FC.md" title="wikilink">유공 코끼리</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/K리그_1990" title="wikilink">1990</a></p></td>
+<td><p><a href="../Page/K리그_1990.md" title="wikilink">1990</a></p></td>
 <td><p><a href="../Page/최진한.md" title="wikilink">최진한</a></p></td>
 <td><p><a href="../Page/미드필더.md" title="wikilink">미드필더 (MF)</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/FC_서울" title="wikilink">럭키금성 황소</a></p></td>

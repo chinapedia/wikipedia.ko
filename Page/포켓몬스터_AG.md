@@ -84,7 +84,7 @@
 <tr class="odd">
 <td><div style="text-align: center;">
 <p>3</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/뮤와_파도의_용사_루카리오" title="wikilink">뮤와 파도의 용사 루카리오</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/뮤와_파동의_용사_루카리오" title="wikilink">뮤와 파동의 용사 루카리오</a></p></td>
 <td><p>2005년 7월 16일</p></td>
 <td><p>챔프TV <a href="../Page/2007년.md" title="wikilink">2007년</a> <a href="../Page/1월.md" title="wikilink">1월</a><br />
 투니버스 <a href="../Page/2013년.md" title="wikilink">2013년</a> <a href="../Page/7월_19일.md" title="wikilink">7월 19일</a><br />
@@ -126,7 +126,7 @@
 <td><p>포켓몬스터 AG 제 69화<br />
 <a href="../Page/2004년.md" title="wikilink">2004년</a> <a href="../Page/3월_25일.md" title="wikilink">3월 25일</a></p></td>
 <td><p><strong>포켓몬AG</strong><br />
-포켓몬스터 AG 1,2,4기</p></td>
+포켓몬스터 AG 1기</p></td>
 </tr>
 <tr class="even">
 <td><p>2</p></td>
@@ -199,7 +199,7 @@
 포켓몬스터 AG 제 51화<br />
 <a href="../Page/2003년.md" title="wikilink">2003년</a> <a href="../Page/11월_13일.md" title="wikilink">11월 13일</a></p></td>
 <td><p><strong>행복한 여행</strong><br />
-포켓몬스터 AG 1,2,4기</p></td>
+포켓몬스터 AG 1기</p></td>
 </tr>
 <tr class="even">
 <td><p>2</p></td>
@@ -222,7 +222,7 @@
 포켓몬스터 AG 제 98화<br />
 <a href="../Page/2004년.md" title="wikilink">2004년</a> <a href="../Page/10월_14일.md" title="wikilink">10월 14일</a></p></td>
 <td><p><strong>행복한 여행</strong><br />
-포켓몬스터 AG 3기</p></td>
+포켓몬스터 AG 1기</p></td>
 </tr>
 <tr class="even">
 <td><p>4</p></td>
@@ -279,7 +279,7 @@
   - 주인공은 **[한지우](../Page/한지우_\(포켓몬스터\).md "wikilink")**<small>(사토시)</small>와 **[봄이](../Page/봄이.md "wikilink")**<small>(하루카)</small>, **[정인](https://ko.wikipedia.org/wiki/정인 "wikilink")**<small>(마사토)</small>, **[웅](https://ko.wikipedia.org/wiki/웅 "wikilink")**<small>(타케시)</small>이다.
   - 스타팅 [포켓몬](https://ko.wikipedia.org/wiki/포켓몬 "wikilink")은 **[나무지기](../Page/나무지기.md "wikilink"), [아차모](https://ko.wikipedia.org/wiki/아차모 "wikilink"), [물짱이](../Page/물짱이.md "wikilink")**이다.
   - 환상의 [포켓몬](https://ko.wikipedia.org/wiki/포켓몬 "wikilink")은 **[지라치](../Page/지라치.md "wikilink"), [테오키스](../Page/테오키스.md "wikilink")**이다
-  - 전설의 [포켓몬](https://ko.wikipedia.org/wiki/포켓몬 "wikilink")은 **[레쿠쟈](../Page/레쿠쟈.md "wikilink"), [그란돈](https://ko.wikipedia.org/wiki/그란돈 "wikilink"), [가이오가](../Page/가이오가.md "wikilink"), [레지스틸](https://ko.wikipedia.org/wiki/레지스틸 "wikilink"), [레지락](https://ko.wikipedia.org/wiki/레지락 "wikilink"), [레지아이스](https://ko.wikipedia.org/wiki/레지아이스 "wikilink")**이다.
+  - 전설의 [포켓몬](https://ko.wikipedia.org/wiki/포켓몬 "wikilink")은 **[레쿠쟈](../Page/레쿠쟈.md "wikilink"), [그란돈](https://ko.wikipedia.org/wiki/그란돈 "wikilink"), [가이오가](../Page/가이오가.md "wikilink"), [레지스틸](https://ko.wikipedia.org/wiki/레지스틸 "wikilink"), [레지락](https://ko.wikipedia.org/wiki/레지락 "wikilink"), [레지아이스](https://ko.wikipedia.org/wiki/레지아이스 "wikilink"), [라티오스](https://ko.wikipedia.org/wiki/라티오스 "wikilink"), [라티아스](https://ko.wikipedia.org/wiki/라티아스 "wikilink")**이다.
 
 ## 방영 목록
 

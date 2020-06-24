@@ -11,13 +11,16 @@
 
 ## 지하철 역
 
-  - 볼리바르 [20px](https://ko.wikipedia.org/wiki/파일:Línea_A_\(SBA\).svg "wikilink") [20px](https://ko.wikipedia.org/wiki/파일:Línea_D_\(SBA\).svg "wikilink")
+  - 레티로 [20px](https://ko.wikipedia.org/wiki/파일:Línea_C_\(SBASE\)_bullet.svg "wikilink")
+  - 카탈리나 스
+  - 중앙 메일 [20px](https://ko.wikipedia.org/wiki/파일:Línea_B_\(SBASE\)_bullet.svg "wikilink")
+  - 볼리바르 [20px](https://ko.wikipedia.org/wiki/파일:Línea_A_\(SBASE\)_bullet.svg "wikilink") [20px](https://ko.wikipedia.org/wiki/파일:Línea_D_\(SBASE\)_bullet.svg "wikilink")
   - 벨그라노
-  - 인디펜덴시아 [20px](https://ko.wikipedia.org/wiki/파일:Línea_C_\(SBA\).svg "wikilink")
+  - 인디펜덴시아 [20px](https://ko.wikipedia.org/wiki/파일:Línea_C_\(SBASE\)_bullet.svg "wikilink")
   - 산 호세
   - 엔트레 리오스
   - 피친차
-  - 유유이 [20px](https://ko.wikipedia.org/wiki/파일:Línea_H_\(SBA\).svg "wikilink")
+  - 유유이 [20px](https://ko.wikipedia.org/wiki/파일:Línea_H_\(SBASE\)_bullet.svg "wikilink")
   - 제네랄 우르키사
   - 보에도
   - 아베니다 라 플라타
@@ -25,7 +28,7 @@
   - 에밀리오 미트레
   - 메다야 미라그로사
   - 바레라
-  - 비르레예스 광장
+  - 비르레예스 광장 [20px](https://ko.wikipedia.org/wiki/파일:Línea_P_\(SBASE\)_bullet.svg "wikilink")
 
 ## 관련 항목
 

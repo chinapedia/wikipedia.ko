@@ -551,7 +551,7 @@
 | ----------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [오오타 프로덕션](http://www.ohtapro.co.jp/)                                               | [노로 카요](https://web.archive.org/web/20130806142137/http://www.ohtapro.co.jp/talent/NoroKayo/)                                                                                                                                                                                                                                                            |
 | [프로덕션 오기](http://ogipro.com/)                                                       | [우라노 카즈미](https://web.archive.org/web/20111129200525/http://www.ogipro.com/talent/urano/)                                                                                                                                                                                                                                                                |
-| [호리프로](http://www.horipro.co.jp/)                                                   | [오오호리 메구미](http://www.horipro.co.jp/ohorimegumi/), [첸츄](https://web.archive.org/web/20150201024211/http://www.horipro.co.jp/chencyu/), [츠다 마리나](http://www.horipro.co.jp/tsudamarina/)                                                                                                                                                                   |
+| [호리프로](http://www.horipro.co.jp/)                                                   | [오오호리 메구미](https://web.archive.org/web/20160525070402/http://www.horipro.co.jp/ohorimegumi/), [첸츄](https://web.archive.org/web/20150201024211/http://www.horipro.co.jp/chencyu/), [츠다 마리나](http://www.horipro.co.jp/tsudamarina/)                                                                                                                        |
 | [와타나베 엔터테인먼트](http://www.watanabepro.co.jp/)                                        | [나츄](http://www.watanabepro.co.jp/mypage/artist/nachu.html)                                                                                                                                                                                                                                                                                              |
 | [게이에이 프로덕션](http://www.geiei.co.jp/)                                                | [사토 유카리](https://web.archive.org/web/20130805154910/http://geiei.co.jp/talent/yukari-sato)                                                                                                                                                                                                                                                               |
 | [엠즈 팩토리](https://web.archive.org/web/20111015185314/http://www.ms-showbiz.co.jp/)   | [세리나](https://web.archive.org/web/20120410235557/http://msshowbiz.mods.jp/archives/20)(업무 제휴 : [A-PLUS](http://www.aplus-japan.com/talent/serina/)), [다카하시 유이](https://web.archive.org/web/20120210102916/http://msshowbiz.mods.jp/archives/145)(업무 제휴 : [아키야마 오피스](https://web.archive.org/web/20140225175115/http://www.akiyamaoffice.jp/gtal_4.html)) |
@@ -943,8 +943,8 @@
   - [AKB48 Team SH](../Page/AKB48_Team_SH.md "wikilink")
   - [AKB48 Team TP](../Page/AKB48_Team_TP.md "wikilink")
   - [SGO48](../Page/SGO48.md "wikilink")
-  - [CGM48](https://ko.wikipedia.org/wiki/CGM48 "wikilink")
-  - [DEL48](https://ko.wikipedia.org/wiki/DEL48 "wikilink")
+  - [CGM48](../Page/CGM48.md "wikilink")
+  - [DEL48](../Page/DEL48.md "wikilink")
   - [MUB48](../Page/MUB48.md "wikilink")
 
 ## 각주
@@ -961,7 +961,7 @@
 
   - [유니버설 뮤직 재팬 공식 홈페이지](http://www.universal-music.co.jp/sdn48)
 
-[SDN48](https://ko.wikipedia.org/wiki/분류:SDN48 "wikilink") [분류:그라비아 아이돌](https://ko.wikipedia.org/wiki/분류:그라비아_아이돌 "wikilink") [분류:일본의 팝 음악 그룹](https://ko.wikipedia.org/wiki/분류:일본의_팝_음악_그룹 "wikilink") [분류:일본의 걸 그룹](https://ko.wikipedia.org/wiki/분류:일본의_걸_그룹 "wikilink") [분류:2009년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2009년_결성된_음악_그룹 "wikilink") [분류:2009년 데뷔](https://ko.wikipedia.org/wiki/분류:2009년_데뷔 "wikilink") [분류:2012년 해체된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2012년_해체된_음악_그룹 "wikilink") [분류:10인조 이상 음악 그룹](https://ko.wikipedia.org/wiki/분류:10인조_이상_음악_그룹 "wikilink") [분류:2000년대 음악 그룹](https://ko.wikipedia.org/wiki/분류:2000년대_음악_그룹 "wikilink") [분류:2010년대 음악 그룹](https://ko.wikipedia.org/wiki/분류:2010년대_음악_그룹 "wikilink") [분류:유니버설 뮤직 (일본) 소속](https://ko.wikipedia.org/wiki/분류:유니버설_뮤직_\(일본\)_소속 "wikilink")
+[SDN48](https://ko.wikipedia.org/wiki/분류:SDN48 "wikilink") [분류:그라비아 아이돌](https://ko.wikipedia.org/wiki/분류:그라비아_아이돌 "wikilink") [분류:일본의 팝 음악 그룹](https://ko.wikipedia.org/wiki/분류:일본의_팝_음악_그룹 "wikilink") [분류:일본의 걸 그룹](https://ko.wikipedia.org/wiki/분류:일본의_걸_그룹 "wikilink") [분류:2009년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2009년_결성된_음악_그룹 "wikilink") [분류:2012년 해체된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2012년_해체된_음악_그룹 "wikilink") [분류:10인조 이상 음악 그룹](https://ko.wikipedia.org/wiki/분류:10인조_이상_음악_그룹 "wikilink") [분류:2000년대 음악 그룹](https://ko.wikipedia.org/wiki/분류:2000년대_음악_그룹 "wikilink") [분류:2010년대 음악 그룹](https://ko.wikipedia.org/wiki/분류:2010년대_음악_그룹 "wikilink") [분류:유니버설 뮤직 (일본) 소속](https://ko.wikipedia.org/wiki/분류:유니버설_뮤직_\(일본\)_소속 "wikilink")
 
 1.  후에 [HKT48](../Page/HKT48.md "wikilink"), SKE48도 AKS의 운영이 된다. 이후, SKE48가 SKE로 계승.
 2.  2012년 4월 2일의 [도쿄 신문에서](https://ko.wikipedia.org/wiki/도쿄_신문 "wikilink")

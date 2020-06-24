@@ -317,7 +317,7 @@
 
   - [펑키 몽키 베이비즈 공식 사이트](http://www.funkymonkeybabys.com/)
 
-[분류:일본의 음악 그룹](https://ko.wikipedia.org/wiki/분류:일본의_음악_그룹 "wikilink") [분류:3인조 음악 그룹](https://ko.wikipedia.org/wiki/분류:3인조_음악_그룹 "wikilink") [분류:남성 음악 그룹](https://ko.wikipedia.org/wiki/분류:남성_음악_그룹 "wikilink") [분류:도쿄도 출신](https://ko.wikipedia.org/wiki/분류:도쿄도_출신 "wikilink") [분류:2004년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2004년_결성된_음악_그룹 "wikilink") [분류:2006년 데뷔](https://ko.wikipedia.org/wiki/분류:2006년_데뷔 "wikilink") [분류:2013년 해체된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2013년_해체된_음악_그룹 "wikilink")
+[분류:일본의 음악 그룹](https://ko.wikipedia.org/wiki/분류:일본의_음악_그룹 "wikilink") [분류:3인조 음악 그룹](https://ko.wikipedia.org/wiki/분류:3인조_음악_그룹 "wikilink") [분류:남성 음악 그룹](https://ko.wikipedia.org/wiki/분류:남성_음악_그룹 "wikilink") [분류:도쿄도 출신](https://ko.wikipedia.org/wiki/분류:도쿄도_출신 "wikilink") [분류:2004년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2004년_결성된_음악_그룹 "wikilink") [분류:2013년 해체된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2013년_해체된_음악_그룹 "wikilink")
 
 1.
 2.  완전 초회 생산 TSUTAYA 한정 판매.

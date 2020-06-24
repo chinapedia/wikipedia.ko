@@ -3,7 +3,7 @@
 
 **MISIA**(미샤, [1978년](../Page/1978년.md "wikilink") [7월 7일](../Page/7월_7일.md "wikilink") \~ )는 [일본](../Page/일본.md "wikilink")의 [여성](../Page/여성.md "wikilink") [가수](https://ko.wikipedia.org/wiki/가수 "wikilink")이다.
 
-[나가사키현](../Page/나가사키현.md "wikilink") [쓰시마 시](https://ko.wikipedia.org/wiki/쓰시마_시_\(나가사키_현\) "wikilink") 출신.
+[나가사키현](../Page/나가사키현.md "wikilink") [쓰시마시](../Page/쓰시마시_\(나가사키현\).md "wikilink") 출신.
 
 ## 음반 목록
 

@@ -5,7 +5,7 @@
 
 ## 개요·연혁
 
-[1986년](../Page/1986년.md "wikilink") 미야타 토모유키가 [도쿄](../Page/도쿄.md "wikilink")의 [미타카 시에서](https://ko.wikipedia.org/wiki/미타카_시 "wikilink") 설립하였다. 현재는 [무사시노 시무사시사카이역에](https://ko.wikipedia.org/wiki/무사시노_시 "wikilink") 있다. 회사 이름의 "J.C.STAFF"는 "Japan Creative Staff"의 약어이다. 프로듀싱부터 작화, 마무리 작업, 배경 제작, 촬영에 이르기까지 거의 모든 제작 부서를 보유하고 있다. 설립 직후 10년간은 **[OVA](https://ko.wikipedia.org/wiki/OVA "wikilink")**와 **극장판 [애니메이션](../Page/애니메이션.md "wikilink")** 중심으로 제작하였으나, 1994년부터 본격적으로 TV 애니메이션의 제작을 하고 있다.
+[1986년](../Page/1986년.md "wikilink") 미야타 토모유키가 [도쿄](../Page/도쿄.md "wikilink")의 [미타카시](../Page/미타카시.md "wikilink")에서 설립하였다. 현재는 [무사시노시](../Page/무사시노시.md "wikilink")무사시사카이역에 있다. 회사 이름의 "J.C.STAFF"는 "Japan Creative Staff"의 약어이다. 프로듀싱부터 작화, 마무리 작업, 배경 제작, 촬영에 이르기까지 거의 모든 제작 부서를 보유하고 있다. 설립 직후 10년간은 **[OVA](https://ko.wikipedia.org/wiki/OVA "wikilink")**와 **극장판 [애니메이션](../Page/애니메이션.md "wikilink")** 중심으로 제작하였으나, 1994년부터 본격적으로 TV 애니메이션의 제작을 하고 있다.
 
 ## 작품
 

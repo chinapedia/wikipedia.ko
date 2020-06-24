@@ -144,7 +144,7 @@
 | Hot 드라마 스타 여자    | [공효진](../Page/공효진.md "wikilink")                    |
 | Hot 무비 스타        | [강소라](../Page/강소라.md "wikilink")                    |
 | Hot CF 스타        | [아이유](https://ko.wikipedia.org/wiki/아이유 "wikilink") |
-| Hot 뉴 스타         | [수지](../Page/수지_\(대한민국의_가수\).md "wikilink")         |
+| Hot 뉴 스타         | [수지](../Page/수지_\(1994년\).md "wikilink")            |
 | Hot 퍼포먼스 스타      | [비스트](../Page/비스트_\(음악_그룹\).md "wikilink")          |
 | Hot 트렌드뮤지션       | [F(x)](../Page/F\(x\).md "wikilink")                |
 | Hot 버라이어티 스타     | [유세윤](../Page/유세윤.md "wikilink")                    |
@@ -167,26 +167,26 @@
 
   - 개최 : [2012년](../Page/2012년.md "wikilink") [6월 28일](../Page/6월_28일.md "wikilink") [목요일](../Page/목요일.md "wikilink") 오후 7시
 
-| 시상 구분                 | 수상자                                                                             |
-| --------------------- | ------------------------------------------------------------------------------- |
-| Hot 무비스타 (남/녀)        | [이제훈](../Page/이제훈.md "wikilink") / [배수지](../Page/수지_\(대한민국의_가수\).md "wikilink") |
-| Hot 퍼포먼스 스타           | [트러블 메이커](https://ko.wikipedia.org/wiki/트러블_메이커_\(음악_그룹\) "wikilink")           |
-| Hot 버라이어티 스타          | [한혜진](https://ko.wikipedia.org/wiki/한혜진 "wikilink")                             |
-| Hot 온라인 송             | [버스커 버스커](../Page/버스커_버스커.md "wikilink") - 벛꽃 엔딩                                |
-| Hot 20's Band Music   | [칵스](../Page/칵스.md "wikilink")                                                  |
-| Hot 글로벌 스타            | [슈퍼주니어](../Page/슈퍼주니어.md "wikilink")                                            |
-| Hot 20's Click        | [패션왕](../Page/패션왕_\(만화\).md "wikilink")                                         |
-| Hot Sexiest 퍼포먼스 스타   | [씨스타](../Page/씨스타.md "wikilink")                                                |
-| Hot 20's Do Don'ts    | [박진영](../Page/박진영.md "wikilink")                                                |
-| Hot 트렌드 뮤지션           | [소녀시대-태티서](../Page/소녀시대-태티서.md "wikilink")                                      |
-| Hot Upcoming 20's     | [여진구](../Page/여진구.md "wikilink")                                                |
-| Hot 스타일 아이콘           | [장윤주](../Page/장윤주.md "wikilink")                                                |
-| Hot 스포츠 스타            | [구자철](../Page/구자철.md "wikilink")                                                |
-| 20's Booming Star     | [조정석](../Page/조정석.md "wikilink")                                                |
-| Hot 라이또               | [코미디빅리그](../Page/코미디빅리그.md "wikilink")                                          |
-| Hot 폭스바겐 시로코 블루카펫 인기상 | [김수현](../Page/김수현_\(1988년\).md "wikilink")                                      |
-| Hot 드라마 스타 (남/녀)      | [김수현](../Page/김수현_\(1988년\).md "wikilink") / [한지민](../Page/한지민.md "wikilink")   |
-|                       |                                                                                 |
+| 시상 구분                 | 수상자                                                                           |
+| --------------------- | ----------------------------------------------------------------------------- |
+| Hot 무비스타 (남/녀)        | [이제훈](../Page/이제훈.md "wikilink") / [배수지](../Page/수지_\(1994년\).md "wikilink")  |
+| Hot 퍼포먼스 스타           | [트러블 메이커](https://ko.wikipedia.org/wiki/트러블_메이커_\(음악_그룹\) "wikilink")         |
+| Hot 버라이어티 스타          | [한혜진](https://ko.wikipedia.org/wiki/한혜진 "wikilink")                           |
+| Hot 온라인 송             | [버스커 버스커](../Page/버스커_버스커.md "wikilink") - 벛꽃 엔딩                              |
+| Hot 20's Band Music   | [칵스](../Page/칵스.md "wikilink")                                                |
+| Hot 글로벌 스타            | [슈퍼주니어](../Page/슈퍼주니어.md "wikilink")                                          |
+| Hot 20's Click        | [패션왕](../Page/패션왕_\(만화\).md "wikilink")                                       |
+| Hot Sexiest 퍼포먼스 스타   | [씨스타](../Page/씨스타.md "wikilink")                                              |
+| Hot 20's Do Don'ts    | [박진영](../Page/박진영.md "wikilink")                                              |
+| Hot 트렌드 뮤지션           | [소녀시대-태티서](../Page/소녀시대-태티서.md "wikilink")                                    |
+| Hot Upcoming 20's     | [여진구](../Page/여진구.md "wikilink")                                              |
+| Hot 스타일 아이콘           | [장윤주](../Page/장윤주.md "wikilink")                                              |
+| Hot 스포츠 스타            | [구자철](../Page/구자철.md "wikilink")                                              |
+| 20's Booming Star     | [조정석](../Page/조정석.md "wikilink")                                              |
+| Hot 라이또               | [코미디빅리그](../Page/코미디빅리그.md "wikilink")                                        |
+| Hot 폭스바겐 시로코 블루카펫 인기상 | [김수현](../Page/김수현_\(1988년\).md "wikilink")                                    |
+| Hot 드라마 스타 (남/녀)      | [김수현](../Page/김수현_\(1988년\).md "wikilink") / [한지민](../Page/한지민.md "wikilink") |
+|                       |                                                                               |
 
 ### 7회
 
@@ -198,7 +198,7 @@
 | 무비스타 남자          | [류승룡](../Page/류승룡.md "wikilink") - 《[7번방의 선물](../Page/7번방의_선물.md "wikilink")》                           |
 | 무비스타 여자          | [박보영](../Page/박보영.md "wikilink") - 《[늑대소년](../Page/늑대소년_\(영화\).md "wikilink")》                          |
 | 드라마스타 남자         | [이진욱](../Page/이진욱.md "wikilink")                                                                        |
-| 드라마스타 여자         | [수지](../Page/수지_\(대한민국의_가수\).md "wikilink")                                                             |
+| 드라마스타 여자         | [수지](../Page/수지_\(1994년\).md "wikilink")                                                                |
 | 스타일              | [CL](../Page/CL_\(가수\).md "wikilink")                                                                   |
 | 버라이어티 스타         | [신동엽](../Page/신동엽_\(희극인\).md "wikilink")                                                                |
 | 부밍스타 남자          | [로이킴](https://ko.wikipedia.org/wiki/로이킴 "wikilink")                                                     |

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ASIAN KUNG-FU GENERATION](https://ko.wikipedia.org/wiki/ASIAN_KUNG-FU_GENERATION).
 
 
-**ASIAN KUNG-FU GENERATION**()은 [일본](../Page/일본.md "wikilink")의 [록 밴드이다](https://ko.wikipedia.org/wiki/록_밴드 "wikilink"). 1996년 [요코하마 시에서](https://ko.wikipedia.org/wiki/요코하마_시 "wikilink") 결성됐으며, 고토 마사후미 (보컬), 기타 겐스케 (기타), 야마다 다카히로 (베이스), 이치지 기요시 (드럼)로 구성되어 있다.
+**ASIAN KUNG-FU GENERATION**()은 [일본](../Page/일본.md "wikilink")의 [록 밴드이다](https://ko.wikipedia.org/wiki/록_밴드 "wikilink"). 1996년 [요코하마시](../Page/요코하마시.md "wikilink")에서 결성됐으며, 고토 마사후미 (보컬), 기타 겐스케 (기타), 야마다 다카히로 (베이스), 이치지 기요시 (드럼)로 구성되어 있다.
 
 줄여서 **'아지캉**'(アジカン)이라고도 불린다.
 
@@ -18,7 +18,7 @@
 
 <!-- end list -->
 
-  - [요코하마 시](https://ko.wikipedia.org/wiki/요코하마_시 "wikilink") 간토가쿠인 대학 내의 경음악 연구부에서 결성되었다.
+  - [요코하마시](../Page/요코하마시.md "wikilink") 간토가쿠인 대학 내의 경음악 연구부에서 결성되었다.
   - 영문 가사로 만든 오리지널 곡으로 교내, 고향 요코하마를 중심으로 라이브 활동.
   - 대학 졸업 후에는 각 멤버가 회사원으로 일하면서도 밴드 활동을 계속하였다.
 

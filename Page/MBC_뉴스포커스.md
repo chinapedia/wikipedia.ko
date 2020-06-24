@@ -58,14 +58,14 @@
 
 ## 지역 방송국 프로그램
 
-| 방송국                                           | 프로그램 타이틀        | 평일 진행자 |
-| --------------------------------------------- | --------------- | ------ |
-| [춘천MBC](../Page/춘천문화방송.md "wikilink")         | MBC 뉴스포커스 강원    | 이승현    |
-| [MBC충북 청주](../Page/MBC충북_청주방송국.md "wikilink") | MBC 뉴스포커스 충북    | 정미정    |
-| [광주MBC](../Page/광주문화방송.md "wikilink")         | 광주MBC 뉴스포커스     | 연빛나    |
-| [목포MBC](../Page/목포문화방송.md "wikilink")         | MBC 뉴스포커스 목포·전남 | 이지연    |
-| [여수MBC](../Page/여수문화방송.md "wikilink")         | 여수MBC 뉴스포커스     | 한보선    |
-| [제주MBC](../Page/제주문화방송.md "wikilink")         | MBC 뉴스포커스 제주    | 지건보    |
+| 방송국                                           | 프로그램 타이틀                                                           | 평일 진행자 |
+| --------------------------------------------- | ------------------------------------------------------------------ | ------ |
+| [춘천MBC](../Page/춘천문화방송.md "wikilink")         | MBC 뉴스포커스 [강원](https://ko.wikipedia.org/wiki/강원도_\(남\) "wikilink") | 이승현    |
+| [MBC충북 청주](../Page/MBC충북_청주방송국.md "wikilink") | MBC 뉴스포커스 [충북](https://ko.wikipedia.org/wiki/충청북도 "wikilink")      | 정미정    |
+| [광주MBC](../Page/광주문화방송.md "wikilink")         | MBC 뉴스포커스 [광주전남](https://ko.wikipedia.org/wiki/광주전남 "wikilink")    | 연빛나    |
+| [목포MBC](../Page/목포문화방송.md "wikilink")         | MBC 뉴스포커스 목포·전남                                                    | 이지연    |
+| [여수MBC](../Page/여수문화방송.md "wikilink")         | MBC 뉴스포커스 전남동부권                                                    | 한보선    |
+| [제주MBC](../Page/제주문화방송.md "wikilink")         | MBC 뉴스포커스 [제주](https://ko.wikipedia.org/wiki/제주특별자치도 "wikilink")   | 지건보    |
 
 ## 타이틀 변천사
 

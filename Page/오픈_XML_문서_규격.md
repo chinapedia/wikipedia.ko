@@ -57,7 +57,7 @@ TC46의 멤버는 다음과 같다:
   - [표준 ECMA-388 오픈 XML 문서 규격](http://www.ecma-international.org/publications/standards/Ecma-388.htm)
   - [STDU 뷰어](http://www.stdutility.com/stduviewer.html)
 
-[분류:윈도우우 비스타](https://ko.wikipedia.org/wiki/분류:윈도우우_비스타 "wikilink") [분류:XML 기반 표준](https://ko.wikipedia.org/wiki/분류:XML_기반_표준 "wikilink") [분류:프린터](https://ko.wikipedia.org/wiki/분류:프린터 "wikilink") [분류:XML](https://ko.wikipedia.org/wiki/분류:XML "wikilink") [분류:오픈 포맷](https://ko.wikipedia.org/wiki/분류:오픈_포맷 "wikilink")
+[분류:윈도우우 비스타](https://ko.wikipedia.org/wiki/분류:윈도우우_비스타 "wikilink") [분류:XML 기반 표준](https://ko.wikipedia.org/wiki/분류:XML_기반_표준 "wikilink") [분류:프린터](https://ko.wikipedia.org/wiki/분류:프린터 "wikilink") [분류:XML](https://ko.wikipedia.org/wiki/분류:XML "wikilink") [분류:오픈 포맷](https://ko.wikipedia.org/wiki/분류:오픈_포맷 "wikilink") [분류:Ecma 표준](https://ko.wikipedia.org/wiki/분류:Ecma_표준 "wikilink")
 
 1.
 2.  [War and PDF: Microsoft submits XPS to standards body](http://arstechnica.com/news.ars/post/20070701-microsoft-submits-pdf-competitor-to-standards-body.html)

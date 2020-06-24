@@ -52,8 +52,8 @@
   - [송금식](../Page/송금식.md "wikilink") : 다카무라 역
   - [권용운](../Page/권용운.md "wikilink") : 떼보 역
   - [서동수](../Page/서동수_\(배우\).md "wikilink") : 준팔 역
-  - [김주영](../Page/김주영_\(1952년\).md "wikilink") : 경찰 1 역
-  - [이재연](../Page/이재연.md "wikilink") : 경찰 2 역
+  - [김주영](../Page/김주영_\(1952년\).md "wikilink") : 배 형사 역
+  - [이재연](../Page/이재연.md "wikilink") : 김 형사 역
   - [황정미](../Page/황정미.md "wikilink") : 박세영 역 - 박세미의 언니
   - [강경헌](../Page/강경헌.md "wikilink") : 화자 역
   - [박현](https://ko.wikipedia.org/wiki/박현 "wikilink") : 하선재 역

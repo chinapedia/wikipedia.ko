@@ -11,6 +11,6 @@
 
   - [5세대 전투기](../Page/5세대_전투기.md "wikilink")
   - [KF-X 사업](https://ko.wikipedia.org/wiki/KF-X_사업 "wikilink")
-  - [PESA](https://ko.wikipedia.org/wiki/PESA "wikilink")
+  - [PESA](../Page/PESA.md "wikilink")
 
 [분류:레이다](https://ko.wikipedia.org/wiki/분류:레이다 "wikilink")

@@ -89,7 +89,7 @@
 ## 같이 보기
 
   - [KB금융그룹](../Page/KB금융그룹.md "wikilink")
-  - [KB국민은행](https://ko.wikipedia.org/wiki/KB국민은행 "wikilink")
+  - [KB국민은행](../Page/KB국민은행.md "wikilink")
 
 ## 각주
 

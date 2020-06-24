@@ -366,7 +366,7 @@
 
   - [Mytive Funtive](http://ameblo.jp/or-ryo/) - 료 공식 블로그
 
-[분류:오키나와현 출신](https://ko.wikipedia.org/wiki/분류:오키나와현_출신 "wikilink") [분류:일본의 록 밴드](https://ko.wikipedia.org/wiki/분류:일본의_록_밴드 "wikilink") [분류:일본의 가수](https://ko.wikipedia.org/wiki/분류:일본의_가수 "wikilink") [분류:2003년 데뷔](https://ko.wikipedia.org/wiki/분류:2003년_데뷔 "wikilink") [분류:2001년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2001년_결성된_음악_그룹 "wikilink") [분류:2000년대 음악 그룹](https://ko.wikipedia.org/wiki/분류:2000년대_음악_그룹 "wikilink") [분류:2010년대 음악 그룹](https://ko.wikipedia.org/wiki/분류:2010년대_음악_그룹 "wikilink") [분류:소니 뮤직 엔터테인먼트 (일본)의 음악가](https://ko.wikipedia.org/wiki/분류:소니_뮤직_엔터테인먼트_\(일본\)의_음악가 "wikilink") [분류:스타더스트 프로모션](https://ko.wikipedia.org/wiki/분류:스타더스트_프로모션 "wikilink") [분류:NHK 홍백가합전 출연자](https://ko.wikipedia.org/wiki/분류:NHK_홍백가합전_출연자 "wikilink")
+[분류:오키나와현 출신](https://ko.wikipedia.org/wiki/분류:오키나와현_출신 "wikilink") [분류:일본의 록 밴드](https://ko.wikipedia.org/wiki/분류:일본의_록_밴드 "wikilink") [분류:일본의 가수](https://ko.wikipedia.org/wiki/분류:일본의_가수 "wikilink") [분류:2001년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2001년_결성된_음악_그룹 "wikilink") [분류:2000년대 음악 그룹](https://ko.wikipedia.org/wiki/분류:2000년대_음악_그룹 "wikilink") [분류:2010년대 음악 그룹](https://ko.wikipedia.org/wiki/분류:2010년대_음악_그룹 "wikilink") [분류:소니 뮤직 엔터테인먼트 (일본)의 음악가](https://ko.wikipedia.org/wiki/분류:소니_뮤직_엔터테인먼트_\(일본\)의_음악가 "wikilink") [분류:스타더스트 프로모션](https://ko.wikipedia.org/wiki/분류:스타더스트_프로모션 "wikilink") [분류:NHK 홍백가합전 출연자](https://ko.wikipedia.org/wiki/분류:NHK_홍백가합전_출연자 "wikilink")
 
 1.
 2.

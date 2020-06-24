@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [포말하우트 b](https://ko.wikipedia.org/wiki/포말하우트_b).
 
 
-**포말하우트 b**는 [남쪽물고기자리](../Page/남쪽물고기자리.md "wikilink") 방향으로 지구에서 25광년 떨어진 곳에 있는 [외계 행성이다](../Page/외계_행성.md "wikilink").\[1\] 이 행성의 어머니 항성은 [포말하우트](https://ko.wikipedia.org/wiki/포말하우트 "wikilink")로 분광형 A3V의 [백색 주계열성이다](../Page/A형_주계열성.md "wikilink"). 2008년 [허블 우주 망원경이](https://ko.wikipedia.org/wiki/허블_우주_망원경 "wikilink") 찍은 사진을 통해 발견되었다.\[2\] 허블 우주 망원경은 포말하우트 b 외에도 동시에 [HR 8799의](../Page/HR_8799.md "wikilink") 행성을 발견했다. 이들은 직접 사진을 찍어서 존재가 입증된 최초의 외계 행성으로 기록되었다. 2008년 미국 스페이스닷컴에 따르면 천문학자들은 '2008년을 빛낸 가장 놀라운 5가지 사건(Top 5 Amazing Astronomy Discoveries in 2008) 중 포말하우트 b의 발견을 첫 번째로 꼽았다.\[3\]
+**포말하우트 b**는 [남쪽물고기자리](../Page/남쪽물고기자리.md "wikilink") 방향으로 지구에서 25광년 떨어진 곳에 있는 [외계 행성이다](../Page/외계_행성.md "wikilink").\[1\] 이 행성의 어머니 항성은 [포말하우트](https://ko.wikipedia.org/wiki/포말하우트 "wikilink")로 분광형 A3V의 [백색 주계열성이다](../Page/A형_주계열성.md "wikilink"). 2008년 [허블 우주 망원경이](https://ko.wikipedia.org/wiki/허블_우주_망원경 "wikilink") 찍은 사진을 통해 발견되었다.\[2\] [허블 우주망원경은](../Page/허블_우주망원경.md "wikilink") 포말하우트 b 외에도 동시에 [HR 8799의](../Page/HR_8799.md "wikilink") 행성을 발견했다. 이들은 직접 사진을 찍어서 존재가 입증된 최초의 외계 행성으로 기록되었다. 2008년 미국 스페이스닷컴에 따르면 천문학자들은 '2008년을 빛낸 가장 놀라운 5가지 사건(Top 5 Amazing Astronomy Discoveries in 2008) 중 포말하우트 b의 발견을 첫 번째로 꼽았다.\[3\] 그러나 2020년, 조지 리케 박사의 연구로 포말하우트 b가 소행성 2개의 충돌의 산물인 먼지구름이라는 주장이 나오게 된다.
 
 ## 발견
 

@@ -251,7 +251,7 @@
 
   - [음반사 공식 사이트](http://www.wmg.jp/artist/superfly/)
 
-[분류:일본의 음악 그룹](https://ko.wikipedia.org/wiki/분류:일본의_음악_그룹 "wikilink") [분류:워너 뮤직 재팬의 음악가](https://ko.wikipedia.org/wiki/분류:워너_뮤직_재팬의_음악가 "wikilink") [분류:2007년 데뷔](https://ko.wikipedia.org/wiki/분류:2007년_데뷔 "wikilink") [분류:NHK 홍백가합전 출연자](https://ko.wikipedia.org/wiki/분류:NHK_홍백가합전_출연자 "wikilink") [분류:2007년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2007년_결성된_음악_그룹 "wikilink")
+[분류:일본의 음악 그룹](https://ko.wikipedia.org/wiki/분류:일본의_음악_그룹 "wikilink") [분류:워너 뮤직 재팬의 음악가](https://ko.wikipedia.org/wiki/분류:워너_뮤직_재팬의_음악가 "wikilink") [분류:NHK 홍백가합전 출연자](https://ko.wikipedia.org/wiki/분류:NHK_홍백가합전_출연자 "wikilink") [분류:2007년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2007년_결성된_음악_그룹 "wikilink")
 
 1.
 2.

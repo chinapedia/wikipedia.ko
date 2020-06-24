@@ -11,17 +11,17 @@
 
 ## 지하철 역
 
-  - 레안드로 N. 알렘
+  - 레안드로 N. 알렘 [20px](https://ko.wikipedia.org/wiki/파일:Línea_E_\(SBASE\)_bullet.svg "wikilink") [숩테 E선](../Page/부에노스아이레스_지하철_E선.md "wikilink")
   - 플로리다
-  - 카를로스 펠레그리니 [20px](https://ko.wikipedia.org/wiki/파일:Línea_D_\(SBA\).svg "wikilink") [지하철 D선](https://ko.wikipedia.org/wiki/부에노스아이레스_숩테_D선 "wikilink") [20px](https://ko.wikipedia.org/wiki/파일:Línea_C_\(SBA\).svg "wikilink") [숩테 C선](https://ko.wikipedia.org/wiki/부에노스아이레스_지하철_C선 "wikilink")
+  - 카를로스 펠레그리니 [20px](https://ko.wikipedia.org/wiki/파일:Línea_D_\(SBASE\)_bullet.svg "wikilink") [숩테 D선](../Page/부에노스아이레스_지하철_D선.md "wikilink") [20px](https://ko.wikipedia.org/wiki/파일:Línea_C_\(SBASE\)_bullet.svg "wikilink") [숩테 C선](https://ko.wikipedia.org/wiki/부에노스아이레스_지하철_C선 "wikilink")
   - 우르과이
-  - 카야오 [20px](https://ko.wikipedia.org/wiki/파일:Línea_F_\(SBA\).svg "wikilink") [숩테 F선](https://ko.wikipedia.org/wiki/부에노스아이레스_지하철_F선 "wikilink")
+  - 카야오
   - 파스퇴르
-  - 푸에이레돈 [20px](https://ko.wikipedia.org/wiki/파일:Línea_H_\(SBA\).svg "wikilink") [숩테 H선](../Page/부에노스아이레스_지하철_H선.md "wikilink")
+  - 푸에이레돈 [20px](https://ko.wikipedia.org/wiki/파일:Línea_H_\(SBASE\)_bullet.svg "wikilink") [숩테 H선](../Page/부에노스아이레스_지하철_H선.md "wikilink")
   - 카를로스 가르델
   - 메드라노
-  - 안젤 가야르도 [20px](https://ko.wikipedia.org/wiki/파일:Línea_G_\(SBA\).svg "wikilink") [숩테 G선](https://ko.wikipedia.org/wiki/부에노스아이레스_지하철_G선 "wikilink")
-  - 말라비아 [20px](https://ko.wikipedia.org/wiki/파일:Línea_I_\(SBA\).svg "wikilink") [숩테 I선](https://ko.wikipedia.org/wiki/부에노스아이레스_지하철_I선 "wikilink")
+  - 안젤 가야르도
+  - 말라비아
   - 도레고
   - 페데리코 라크로제
   - 트로나도르

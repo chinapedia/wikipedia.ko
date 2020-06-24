@@ -5,9 +5,9 @@
 
 ## 멤버
 
-  - [쿠스미 코하루](../Page/쿠스미_코하루.md "wikilink")(츠키시마키라리역할)
-  - [키타하라 사야카](https://ko.wikipedia.org/wiki/키타하라_사야카 "wikilink")(유키노노에루역할)
-  - [킷카와 유우](../Page/킷카와_유우.md "wikilink")(하나사키코베니역할)
+  - [쿠스미 코하루](../Page/쿠스미_코하루.md "wikilink")(츠키시마 키라리 역할)
+  - [키타하라 사야카](https://ko.wikipedia.org/wiki/키타하라_사야카 "wikilink")(유키노 노에루 역할)
+  - [킷카와 유우](../Page/킷카와_유우.md "wikilink")(하나사키 코베니 역할)
 
 ## 음악
 

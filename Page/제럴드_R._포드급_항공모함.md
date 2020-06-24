@@ -9,7 +9,7 @@
 
 ## 전기추진
 
-새로운 열출력 700MWt 전기출력 150MWe [벡텔](https://ko.wikipedia.org/wiki/벡텔 "wikilink") [A1B 원자로](https://ko.wikipedia.org/wiki/A1B_원자로 "wikilink") 2기를 사용하여 소음을 줄였다. 이전의 [니미츠급 항공모함은](../Page/니미츠급_항공모함.md "wikilink") 열출력 550MWt 전기출력 32MWe [웨스팅하우스](https://ko.wikipedia.org/wiki/웨스팅하우스 "wikilink") [A4W 원자로](https://ko.wikipedia.org/wiki/A4W_원자로 "wikilink") 2기를 사용했는데, 원자로로 증기 터빈을 돌리는 방식이었다. 포드급은 원자로로 전기를 생산해 전기모터를 돌리는 방식이다. 완전한 전기추진만을 사용한다.
+새로운 열출력 700MWt 전기출력 150MWe [벡텔](https://ko.wikipedia.org/wiki/벡텔 "wikilink") [A1B 원자로](https://ko.wikipedia.org/wiki/A1B_원자로 "wikilink") 2기를 사용하여 소음을 줄였다. 이전의 [니미츠급 항공모함은](../Page/니미츠급_항공모함.md "wikilink") 열출력 550MWt 전기출력 32MWe [웨스팅하우스](../Page/웨스팅하우스.md "wikilink") [A4W 원자로](https://ko.wikipedia.org/wiki/A4W_원자로 "wikilink") 2기를 사용했는데, 원자로로 증기 터빈을 돌리는 방식이었다. 포드급은 원자로로 전기를 생산해 전기모터를 돌리는 방식이다. 완전한 전기추진만을 사용한다.
 
 열출력 700MWt 전기출력 150MWe [벡텔](https://ko.wikipedia.org/wiki/벡텔 "wikilink") [A1B 원자로는](https://ko.wikipedia.org/wiki/A1B_원자로 "wikilink") 한국의 열출력 330MWt 전기출력 100MWe [스마트 원자로](../Page/스마트_원자로.md "wikilink") 보다 2배 고출력이다.
 

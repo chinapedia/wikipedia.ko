@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Tacica](https://ko.wikipedia.org/wiki/Tacica).
 
 
-**tacica**(타시카)는 일본의 [삿포로 시](https://ko.wikipedia.org/wiki/삿포로_시 "wikilink") 출신 3인조 [록 밴드이다](https://ko.wikipedia.org/wiki/록_밴드 "wikilink").
+**tacica**(타시카)는 일본의 [삿포로시](../Page/삿포로시.md "wikilink") 출신 3인조 [록 밴드이다](https://ko.wikipedia.org/wiki/록_밴드 "wikilink").
 
 ## 내력
 

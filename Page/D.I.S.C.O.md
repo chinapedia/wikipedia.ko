@@ -5,7 +5,7 @@
 
 ## 배경
 
-이 음반은 베스트 음반을 제외한 10번째 스튜디오 음반이자 첫 번째 EP 음반이다. [YG 엔터테인먼트의](../Page/YG_엔터테인먼트.md "wikilink") [Teddy가](https://ko.wikipedia.org/wiki/테디_\(가수\) "wikilink") 프로듀서를 맡았고, 엄정화와의 콜라보레이션에는 [빅뱅의](../Page/빅뱅_\(음악_그룹\).md "wikilink") [G-DRAGON](https://ko.wikipedia.org/wiki/G-DRAGON "wikilink"), [T.O.P](../Page/T.O.P.md "wikilink"), [2NE1](../Page/2NE1.md "wikilink")의 [씨엘](../Page/CL_\(가수\).md "wikilink"), [Perry](../Page/페리_\(가수\).md "wikilink"), [Kush](../Page/쿠시_\(가수\).md "wikilink"), [YMGA](https://ko.wikipedia.org/wiki/YMGA "wikilink") 등이 참여했다.
+이 음반은 베스트 음반을 제외한 10번째 스튜디오 음반이자 첫 번째 EP 음반이다. [YG 엔터테인먼트의](../Page/YG_엔터테인먼트.md "wikilink") [Teddy가](https://ko.wikipedia.org/wiki/테디_\(가수\) "wikilink") 프로듀서를 맡았고, 엄정화와의 콜라보레이션에는 [빅뱅의](../Page/빅뱅_\(음악_그룹\).md "wikilink") [지드래곤](../Page/지드래곤.md "wikilink"), [T.O.P](../Page/T.O.P.md "wikilink"), [2NE1](../Page/2NE1.md "wikilink")의 [씨엘](../Page/CL_\(가수\).md "wikilink"), [Perry](../Page/페리_\(가수\).md "wikilink"), [Kush](../Page/쿠시_\(가수\).md "wikilink"), [YMGA](https://ko.wikipedia.org/wiki/YMGA "wikilink") 등이 참여했다.
 
 타이틀곡 "D.I.S.C.O"는 이후, 파트2로 나누어 G-DRAGON이 피처링으로 참여해 [디지털 싱글](https://ko.wikipedia.org/wiki/디지털_싱글 "wikilink") 형식으로 발매 되었다.
 

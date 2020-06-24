@@ -1074,7 +1074,7 @@
 <td><p><a href="../Page/유창혁.md" title="wikilink">유창혁</a> 七단</p></td>
 <td><p>2-0</p></td>
 <td><p><a href="../Page/이창호.md" title="wikilink">이창호</a> 七단</p></td>
-<td><p><a href="../Page/유창혁.md" title="wikilink">유창혁</a> 七단 TV속기 2개 타이틀 획득하며 천하통일 달성!, 서봉구 九단 3위</p></td>
+<td><p><a href="../Page/유창혁.md" title="wikilink">유창혁</a> 七단 TV속기 2개 타이틀 획득하며 천하통일 달성!, 서봉수 九단 3위</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/15기_KBS_바둑왕전.md" title="wikilink">1996년</a></p></td>

@@ -29,8 +29,8 @@
 | [얼랑](https://ko.wikipedia.org/wiki/얼랑 "wikilink") (별도 플러그인을 통해)                                                             | style="background: \#9F9 |예           | style="background: \#9F9 |예 |
 | [Go](../Page/Go_\(프로그래밍_언어\).md "wikilink") (별도 플러그인을 통해)                                                                   | style="background: \#9F9 |예           | style="background: \#9F9 |예 |
 | [그루비](https://ko.wikipedia.org/wiki/그루비 "wikilink")                                                                         | style="background: \#9F9 |예           | style="background: \#9F9 |예 |
-| [Haxe](https://ko.wikipedia.org/wiki/Haxe "wikilink") (별도 플러그인을 통해)                                                         | style="background: \#9F9 |예           | style="background: \#9F9 |예 |
-| [펄](../Page/펄.md "wikilink") ([별도 플러그인](https://plugins.jetbrains.com/plugin/7796)을 통해)                                     | style="background: \#9F9 |예           | style="background: \#9F9 |예 |
+| [Haxe](../Page/Haxe.md "wikilink") (별도 플러그인을 통해)                                                                            | style="background: \#9F9 |예           | style="background: \#9F9 |예 |
+| [펄](../Page/펄.md "wikilink") ([별도 플러그인](https://plugins.jetbrains.com/plugin/7796) 을 통해)                                    | style="background: \#9F9 |예           | style="background: \#9F9 |예 |
 | [스칼라](../Page/스칼라_\(프로그래밍_언어\).md "wikilink") (별도 플러그인을 통해)                                                                 | style="background: \#9F9 |예           | style="background: \#9F9 |예 |
 | [XML](../Page/XML.md "wikilink")/[XSL](https://ko.wikipedia.org/wiki/XSL "wikilink")                                        | style="background: \#9F9 |예           | style="background: \#9F9 |예 |
 | [코틀린](https://ko.wikipedia.org/wiki/코틀린 "wikilink")                                                                         | style="background: \#9F9 |예           | style="background: \#9F9 |예 |

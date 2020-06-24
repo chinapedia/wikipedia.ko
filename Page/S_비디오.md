@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [S 비디오](https://ko.wikipedia.org/wiki/S_비디오).
 
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:SVideoConnector.jpg "wikilink") **S 비디오**(Separate Video), 줄여서 **S 비디오**는 Y/C\[1\]로도 알려져 있으며 영상 데이터를 두 개의 구분된 신호(빛의 밝기를 위한 "루마"(휘도 신호), 색을 위한 "크로마"(색차 신호))로 전달하는 [아날로그](https://ko.wikipedia.org/wiki/아날로그_신호 "wikilink") 영상 신호를 말한다. 이는 단일의 저화질 신호로 화상 정보를 전달하는 [컴포지트 비디오나](../Page/컴포지트_비디오.md "wikilink") 세 개의 구별된 고화질 신호로 화상 정보를 전달하는 [컴포넌트 비디오와는](../Page/컴포넌트_비디오.md "wikilink") 다른 것이다. 컴포지트보다는 화질이 우수하며 컴포넌트보다는 화질이 떨어진다. S 비디오는 [표준 화질의](../Page/디지털_표준_텔레비전.md "wikilink") 영상인 [480i](https://ko.wikipedia.org/wiki/480i "wikilink")나 [576i](https://ko.wikipedia.org/wiki/576i "wikilink")의 해상도를 전달하는 게 보통이다. 그러나 S 비디오 케이블을 통해 소리까지 전달하지는 않는다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:SVideoConnector.jpg "wikilink") **S 비디오**(Separate Video), 줄여서 **S 비디오**는 Y/C\[1\]로도 알려져 있으며 영상 데이터를 두 개의 구분된 신호(빛의 밝기를 위한 "루마"(휘도 신호), 색을 위한 "크로마"(색차 신호))로 전달하는 [아날로그](https://ko.wikipedia.org/wiki/아날로그_신호 "wikilink") 영상 신호를 말한다. 이는 단일의 저화질 신호로 화상 정보를 전달하는 [컴포지트 비디오](../Page/컴포지트_비디오.md "wikilink") 그리고 세 개의 구별된 고화질 신호로 화상 정보를 전달하는 [컴포넌트 비디오와는](../Page/컴포넌트_비디오.md "wikilink") 다른 것이다. 컴포지트보다는 화질이 우수하며 컴포넌트보다는 화질이 떨어진다. S 비디오는 [표준 화질의](../Page/디지털_표준_텔레비전.md "wikilink") 영상인 [480i](https://ko.wikipedia.org/wiki/480i "wikilink")나 [576i](https://ko.wikipedia.org/wiki/576i "wikilink")의 해상도를 전달하는 게 보통이다. 그러나 S 비디오 케이블을 통해 소리까지 전달하지는 않는다.
 
 4핀 [미니 DIN 단자는](https://ko.wikipedia.org/wiki/미니_DIN_단자 "wikilink") 몇 개의 S 비디오 단자 가운데 가장 일상적으로 쓰이는 것이다. 다른 S 비디오 단자로는 S-VHS 전문 기기에 쓰이는 7핀 더브 단자와 S 비디오 [패치 베이에](https://ko.wikipedia.org/wiki/패치_패널 "wikilink") 쓰이는 듀얼 Y, C [BNC 단자가](https://ko.wikipedia.org/wiki/BNC_단자 "wikilink") 있다. 그 밖에도 초기의 Y/C 비디오 모니터는 Y/C와 컴포지트 비디오 입력 사이를 전환할 수 있는 [RCA 단자를](../Page/RCA_단자.md "wikilink") 사용하기도 했다. 단자가 이렇게 다르지만 모든 종류의 Y/C 신호는 서로 호환성이 있다.
 
@@ -54,6 +54,8 @@ S 비디오는 2 개의 병렬 모노크롬 컴포지트 비디오 신호를 사
 
 ## 같이 보기
 
+  - [컴포지트 비디오](../Page/컴포지트_비디오.md "wikilink")
+  - [컴포넌트 비디오](../Page/컴포넌트_비디오.md "wikilink")
   - [S-VHS](https://ko.wikipedia.org/wiki/S-VHS "wikilink")
   - [비디오 인 비디오 아웃](../Page/비디오_인_비디오_아웃.md "wikilink") (VIVO)
 

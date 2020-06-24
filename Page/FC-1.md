@@ -38,6 +38,6 @@
 
   - <https://web.archive.org/web/20131204083919/http://www.sinodefence.com/airforce/fighter/fc1.asp>
 
-[분류:중화인민공화국의 전투기](https://ko.wikipedia.org/wiki/분류:중화인민공화국의_전투기 "wikilink") [분류:파키스탄의 전투기](https://ko.wikipedia.org/wiki/분류:파키스탄의_전투기 "wikilink") [분류:경전투기](https://ko.wikipedia.org/wiki/분류:경전투기 "wikilink") [분류:2003년 첫 비행한 항공기](https://ko.wikipedia.org/wiki/분류:2003년_첫_비행한_항공기 "wikilink") [분류:단발 제트기](https://ko.wikipedia.org/wiki/분류:단발_제트기 "wikilink")
+[분류:중화인민공화국의 전투기](https://ko.wikipedia.org/wiki/분류:중화인민공화국의_전투기 "wikilink") [분류:파키스탄의 전투기](https://ko.wikipedia.org/wiki/분류:파키스탄의_전투기 "wikilink") [분류:경전투기](https://ko.wikipedia.org/wiki/분류:경전투기 "wikilink") [분류:2003년 첫 비행한 항공기](https://ko.wikipedia.org/wiki/분류:2003년_첫_비행한_항공기 "wikilink") [분류:단발 제트기](https://ko.wikipedia.org/wiki/분류:단발_제트기 "wikilink") [분류:중익기](https://ko.wikipedia.org/wiki/분류:중익기 "wikilink")
 
 1.  [中 샤오룽전투기 4대 北에 인도](http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=104&oid=032&aid=0000160898) 경향신문 2006-01-23

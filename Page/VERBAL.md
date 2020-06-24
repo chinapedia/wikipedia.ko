@@ -240,13 +240,6 @@ m-flo 활동을 제외한 VERBAL의 참여 음반
 
   - THE MUSIC feat. VERBAL / [와다 아키코](../Page/와다_아키코.md "wikilink")
 
-## 같은 [한국계 일본인](https://ko.wikipedia.org/wiki/한국계_일본인 "wikilink")
-
-  - [교 노부오](../Page/강창웅.md "wikilink")
-  - [유수영](https://ko.wikipedia.org/wiki/유수영 "wikilink")
-  - [아이코닉](../Page/아이코닉.md "wikilink")
-  - [크리스털 케이](../Page/크리스털_케이.md "wikilink")
-
 ## 외부 링크
 
 **VERBAL**

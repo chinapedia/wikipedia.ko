@@ -23,7 +23,7 @@ ANFO 보다 정교한 파생형인 ANNM(ammonium nitrate with nitromethane as th
 
 ## 각주
 
-## 더 보기
+## 같이 보기
 
   - [미육군 TM 31-210 교본](https://ko.wikipedia.org/wiki/미육군_TM_31-210_교본 "wikilink")
   - [룡천 열차폭발 사고](https://ko.wikipedia.org/wiki/룡천_열차폭발_사고 "wikilink")

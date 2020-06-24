@@ -145,7 +145,7 @@
 <tr class="odd">
 <td><p>14기</p></td>
 <td><p><a href="../Page/한상덕_(1959년).md" title="wikilink">한상덕</a></p></td>
-<td><p><a href="../Page/이지연_(1986년).md" title="wikilink">이지연</a>(小)</p></td>
+<td><p><a href="../Page/이지연_(1986년).md" title="wikilink">이지연</a></p></td>
 <td><p>2013년 4월 8일 ~ 2013년 10월 18일</p></td>
 </tr>
 <tr class="even">

@@ -29,4 +29,4 @@
   - [Hawker Beechcraft T-6 information page](https://web.archive.org/web/20090520193419/http://www.hawkerbeechcraft.com/military/t-6a/) Accessed 5 Oct 2007
   - [Canadian Forces Air Command CT-156 page](http://www.airforce.forces.gc.ca/site/equip/ct156/default_e.asp)
 
-[분류:공격기](https://ko.wikipedia.org/wiki/분류:공격기 "wikilink") [분류:레이시온](https://ko.wikipedia.org/wiki/분류:레이시온 "wikilink") [분류:미국의 훈련기](https://ko.wikipedia.org/wiki/분류:미국의_훈련기 "wikilink") [분류:2000년 첫 비행한 항공기](https://ko.wikipedia.org/wiki/분류:2000년_첫_비행한_항공기 "wikilink")
+[분류:공격기](https://ko.wikipedia.org/wiki/분류:공격기 "wikilink") [분류:레이시온](https://ko.wikipedia.org/wiki/분류:레이시온 "wikilink") [분류:미국의 훈련기](https://ko.wikipedia.org/wiki/분류:미국의_훈련기 "wikilink") [분류:2000년 첫 비행한 항공기](https://ko.wikipedia.org/wiki/분류:2000년_첫_비행한_항공기 "wikilink") [분류:저익기](https://ko.wikipedia.org/wiki/분류:저익기 "wikilink")

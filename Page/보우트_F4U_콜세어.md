@@ -425,7 +425,7 @@ F4U-4의 제원은 다음과 같다.\[144\]\[145\]
   - [Warbird Registry — listings of existing Corsairs](http://warbirdregistry.org/corsairregistry/corsairregistry.html)
   - [Hi-res spherical panoramas inside the cockpit, access panels, tail wheel and arrestor hook bays of the Collings Foundation's F4U-5NL](http://i-ota.net/F4UCorsair/)
 
-[분류:제2차 세계 대전의 미국 군용기](https://ko.wikipedia.org/wiki/분류:제2차_세계_대전의_미국_군용기 "wikilink") [분류:함재기](https://ko.wikipedia.org/wiki/분류:함재기 "wikilink") [분류:1940년 첫 비행한 항공기](https://ko.wikipedia.org/wiki/분류:1940년_첫_비행한_항공기 "wikilink")
+[분류:제2차 세계 대전의 미국 군용기](https://ko.wikipedia.org/wiki/분류:제2차_세계_대전의_미국_군용기 "wikilink") [분류:함재기](https://ko.wikipedia.org/wiki/분류:함재기 "wikilink") [분류:1940년 첫 비행한 항공기](https://ko.wikipedia.org/wiki/분류:1940년_첫_비행한_항공기 "wikilink") [분류:저익기](https://ko.wikipedia.org/wiki/분류:저익기 "wikilink")
 
 1.  Shettle 2001, p. 107.
 2.  O'Leary 1980, p. 116.

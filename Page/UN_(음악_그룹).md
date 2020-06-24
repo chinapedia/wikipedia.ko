@@ -300,6 +300,6 @@
 
 <references />
 
-[분류:2인조 음악 그룹](https://ko.wikipedia.org/wiki/분류:2인조_음악_그룹 "wikilink") [분류:대한민국의 R\&B 음악 그룹](https://ko.wikipedia.org/wiki/분류:대한민국의_R&B_음악_그룹 "wikilink") [분류:대한민국의 보이 밴드](https://ko.wikipedia.org/wiki/분류:대한민국의_보이_밴드 "wikilink") [분류:남성 듀오](https://ko.wikipedia.org/wiki/분류:남성_듀오 "wikilink") [분류:아이돌 그룹](https://ko.wikipedia.org/wiki/분류:아이돌_그룹 "wikilink") [분류:2000년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2000년_결성된_음악_그룹 "wikilink") [분류:2000년 데뷔](https://ko.wikipedia.org/wiki/분류:2000년_데뷔 "wikilink") [분류:2005년 해체된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2005년_해체된_음악_그룹 "wikilink")
+[분류:대한민국의 R\&B 음악 그룹](https://ko.wikipedia.org/wiki/분류:대한민국의_R&B_음악_그룹 "wikilink") [분류:대한민국의 보이 밴드](https://ko.wikipedia.org/wiki/분류:대한민국의_보이_밴드 "wikilink") [분류:남성 듀오](https://ko.wikipedia.org/wiki/분류:남성_듀오 "wikilink") [분류:아이돌 그룹](https://ko.wikipedia.org/wiki/분류:아이돌_그룹 "wikilink") [분류:2000년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2000년_결성된_음악_그룹 "wikilink") [분류:2005년 해체된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2005년_해체된_음악_그룹 "wikilink")
 
 1.

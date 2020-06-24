@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [2TV 생생정보](https://ko.wikipedia.org/wiki/2TV_생생정보).
 
 
-《**2TV 생생정보**》는 매주 [월요일](../Page/월요일.md "wikilink") \~ [금요일](../Page/금요일.md "wikilink") 저녁 6시 30분에 [KBS 2TV에서](../Page/KBS_2TV.md "wikilink") 방송중인 [시사](../Page/시사.md "wikilink")[교양](../Page/교양.md "wikilink") [프로그램](https://ko.wikipedia.org/wiki/프로그램 "wikilink")이다.
+《**2TV 생생정보**》는 매주 [평일](https://ko.wikipedia.org/wiki/평일 "wikilink") 저녁 6시 30분에 [KBS 2TV에서](../Page/KBS_2TV.md "wikilink") 방송중인 [시사](../Page/시사.md "wikilink")[교양](../Page/교양.md "wikilink") [프로그램](https://ko.wikipedia.org/wiki/프로그램 "wikilink")이다.
 
 ## 기획 의도
 
@@ -18,7 +18,7 @@
 | 4대  | [도경완](../Page/도경완.md "wikilink")                                                | [이지애](../Page/이지애.md "wikilink"), [김경란](../Page/김경란_\(방송인\).md "wikilink") | 2011년 10월 31일 \~ 2012년 8월 23일 |
 | 5대  | [이지애](../Page/이지애.md "wikilink"), [이정민](../Page/이정민_\(1980년_5월\).md "wikilink") | 2012년 8월 27일 \~ 2013년 6월 20일                                               |                               |
 | 6대  | [도경완](../Page/도경완.md "wikilink"), [조충현](../Page/조충현.md "wikilink")              | [이지애](../Page/이지애.md "wikilink")                                           | 2013년 6월 24일 \~ 2014년 2월 20일  |
-| 7대  | [오정연](https://ko.wikipedia.org/wiki/오정연 "wikilink")                             | 2014년 2월 24일 \~ 2014년 12월 25일                                              |                               |
+| 7대  | [오정연](../Page/오정연.md "wikilink")                                                | 2014년 2월 24일 \~ 2014년 12월 25일                                              |                               |
 | 8대  | [정다은](../Page/정다은_\(아나운서\).md "wikilink")                                       | 2014년 12월 29일 \~ 2016년 4월 14일                                              |                               |
 | 9대  | [이슬기](../Page/이슬기_\(아나운서\).md "wikilink")                                       | 2016년 4월 18일 \~ 2018년 5월 25일                                               | \[1\]\[2\]\[3\]               |
 | 10대 | [도경완](../Page/도경완.md "wikilink"), [오승원](../Page/오승원.md "wikilink")              | [이지연](../Page/이지연_\(1986년\).md "wikilink")                                 | 2018년 5월 28일 \~ 2019년 6월 28일  |
@@ -39,11 +39,11 @@
 | 매주 [금](../Page/금요일.md "wikilink") 저녁 7시 25분 \~ 밤 8시 15분 |                                                                                         |                                                                                       |           |
 | 2011년 10월 31일 \~ 2013년 8월 8일                            | 매주 [월](../Page/월요일.md "wikilink") \~ [목](../Page/목요일.md "wikilink") 저녁 6시 5분 \~ 7시 45분  |                                                                                       |           |
 | 2013년 8월 12일 \~ 2013년 10월 18일                           | 매주 [월](../Page/월요일.md "wikilink") \~ [목](../Page/목요일.md "wikilink") 저녁 6시 5분 \~ 7시 45분  |                                                                                       |           |
-| 2013년 10월 21일 \~ 2016년 2월 11일                           | 매주 [월](../Page/월요일.md "wikilink") \~ [목](../Page/목요일.md "wikilink") 저녁 6시 25분 \~ 7시 50분 |                                                                                       |           |
-| 2016년 2월 15일 \~ 2016년 4월 22일                            | 매주 [월](../Page/월요일.md "wikilink") \~ 금 저녁 6시 30분 \~ 7시 50분                              |                                                                                       |           |
+| 2013년 10월 21일 \~ 2016년 2월 11일                           | 매주 [월](../Page/월요일.md "wikilink") \~ [목](../Page/목요일.md "wikilink") 저녁 6시 25분 \~ 7시 45분 |                                                                                       |           |
+| 2016년 2월 15일 \~ 2016년 4월 22일                            | 매주 [월](../Page/월요일.md "wikilink") \~ 금 저녁 6시 30분 \~ 7시 45분                              |                                                                                       |           |
 | 2017년 4월 3일 \~ **현재**                                   |                                                                                         |                                                                                       |           |
-| 2016년 4월 25일 \~ 2016년 7월 22일                            | 매주 [월](../Page/월요일.md "wikilink") \~ [목](../Page/목요일.md "wikilink") 저녁 6시 5분 \~ 7시 50분  |                                                                                       |           |
-| 매주 [금](../Page/금요일.md "wikilink") 저녁 6시 25분 \~ 7시 50분   |                                                                                         |                                                                                       |           |
+| 2016년 4월 25일 \~ 2016년 7월 22일                            | 매주 [월](../Page/월요일.md "wikilink") \~ [목](../Page/목요일.md "wikilink") 저녁 6시 5분 \~ 7시 45분  |                                                                                       |           |
+| 매주 [금](../Page/금요일.md "wikilink") 저녁 6시 25분 \~ 7시 45분   |                                                                                         |                                                                                       |           |
 
 ## 코너
 
@@ -152,6 +152,14 @@
 ## 시청률
 
 시청률 조사회사인 [TNmS](../Page/TNmS.md "wikilink")와 [닐슨코리아](../Page/닐슨코리아.md "wikilink")에 따르면 연간 시청률 3 \~ 5%대를 집계한 것이다.
+
+## 같이 보기
+
+  - [VJ특공대](../Page/VJ특공대.md "wikilink")
+  - [생방송 오늘 저녁](https://ko.wikipedia.org/wiki/생방송_오늘_저녁 "wikilink")
+  - [생방송 투데이](../Page/생방송_투데이.md "wikilink")
+  - [생활의 달인](../Page/생활의_달인.md "wikilink")
+  - [관찰카메라 24시간](../Page/관찰카메라_24시간.md "wikilink")
 
 ## 각주
 

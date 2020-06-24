@@ -9,15 +9,15 @@
 
 ## 지하철 역
 
-  - 카테드랄(대성당) [20px](https://ko.wikipedia.org/wiki/파일:Línea_A_\(SBA\).svg "wikilink") [20px](https://ko.wikipedia.org/wiki/파일:Línea_E_\(SBA\).svg "wikilink")
-  - 7월 9일 [20px](https://ko.wikipedia.org/wiki/파일:Línea_B_\(SBA\).svg "wikilink") [20px](https://ko.wikipedia.org/wiki/파일:Línea_C_\(SBA\).svg "wikilink")
+  - 카테드랄(대성당) [20px](https://ko.wikipedia.org/wiki/파일:Línea_A_\(SBASE\)_bullet.svg "wikilink") [20px](https://ko.wikipedia.org/wiki/파일:Línea_E_\(SBASE\)_bullet.svg "wikilink")
+  - 7월 9일 [20px](https://ko.wikipedia.org/wiki/파일:Línea_B_\(SBASE\)_bullet.svg "wikilink") [20px](https://ko.wikipedia.org/wiki/파일:Línea_C_\(SBASE\)_bullet.svg "wikilink")
   - 트리부날레스
-  - 카야오 [20px](https://ko.wikipedia.org/wiki/파일:Línea_F_\(SBA\).svg "wikilink")
+  - 카야오
   - 파쿨타드 데 메디시나
-  - 푸에이렌돈 [20px](https://ko.wikipedia.org/wiki/파일:Línea_H_\(SBA\).svg "wikilink") [20px](https://ko.wikipedia.org/wiki/파일:Línea_G_\(SBA\).svg "wikilink")
+  - 푸에이렌돈 [20px](https://ko.wikipedia.org/wiki/파일:Línea_H_\(SBASE\)_bullet.svg "wikilink")
   - 아구에로
   - 스칼라브리니 오르티즈
-  - 이탈리아 광장 [20px](https://ko.wikipedia.org/wiki/파일:Línea_F_\(SBA\).svg "wikilink") [20px](https://ko.wikipedia.org/wiki/파일:Línea_I_\(SBA\).svg "wikilink")
+  - 이탈리아 광장
   - 팔레르모
   - 미니스트로 카르란자
   - 오예로스

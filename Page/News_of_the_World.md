@@ -5,7 +5,7 @@
 
 ## 수록곡
 
-1\. [We Will Rock You](https://ko.wikipedia.org/wiki/We_Will_Rock_You "wikilink") (2:01) - 브라이언 메이
+1\. [We Will Rock You](../Page/We_Will_Rock_You.md "wikilink") (2:01) - 브라이언 메이
 
 퀸의 기타리스트를 맡고있는 브라이언 메이가 작곡한 곡으로써 이 앨범의 대표곡이자 퀸의 대표곡 중 하나이다. We Are the Champions와 너무도 곡이 잘 맞아 공연장에서는 항상 공연 끝에 두 곡을 연속으로 연주한다.
 

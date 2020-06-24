@@ -9,7 +9,7 @@
 
 2009년 [LG 전자가](https://ko.wikipedia.org/wiki/LG_전자 "wikilink") ITT사로부터 특허침해소송을 당했다.[4](http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=101&oid=019&aid=0002017363)
 
-## 더 보기
+## 같이 보기
 
   - [통신해양기상위성](https://ko.wikipedia.org/wiki/통신해양기상위성 "wikilink") - 한국 최초의 정지궤도 기상위성의 기상탑재체는 ITT사 제품이다
   - [GOES 14](../Page/GOES_14.md "wikilink")

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [SBS 아침연속극](https://ko.wikipedia.org/wiki/SBS_아침연속극).
 
 
-**SBS 아침연속극**은 [SBS에서](../Page/SBS_TV.md "wikilink") 평일 오전 8시 35분에 방송되는 아침연속극이다. SBS 외 각 지역의 지역 민영방송에서도 방송되고 있다.
+**SBS 아침 드라마**는 [SBS에서](../Page/SBS_TV.md "wikilink") 매주 [월요일](../Page/월요일.md "wikilink")부터 [금요일](../Page/금요일.md "wikilink") 오전 8시 35분에 방송되는 [TV 드라마이다](https://ko.wikipedia.org/wiki/TV_드라마 "wikilink").
 
 ## 방송 시간
 
@@ -69,6 +69,9 @@
 
 ## 작품 리스트
 
+  - 아래의 프로그램들은 [2003년](../Page/2003년.md "wikilink") 이전에 제작 및 방영한 작품들로 부득이하게 일부 장면에서 [흡연](../Page/흡연.md "wikilink") 장면 및 [담배](https://ko.wikipedia.org/wiki/담배 "wikilink") 소품이 노출될 수 있으며, 시청자 여러분들의 양해를 바랍니다.
+  - 아래의 프로그램들은 [2002년](../Page/2002년.md "wikilink") [11월](../Page/11월.md "wikilink") 이후에 [시청 등급 제도를](../Page/대한민국의_텔레비전_등급_제도.md "wikilink") 시행하여, 현재까지 이어지고 있다.
+
 ### [1990년대](../Page/1990년대.md "wikilink") 전반
 
   - 《[고독의 문](../Page/고독의_문.md "wikilink")》 : 1991년 12월 10일 \~ 1992년 5월 16일
@@ -79,11 +82,11 @@
   - 《[행복하고 싶어요](https://ko.wikipedia.org/wiki/행복하고_싶어요 "wikilink")》 : 1994년 2월 14일 \~ 1994년 7월 9일
   - 《[성냥갑 속의 여자](../Page/성냥갑_속의_여자.md "wikilink")》 : 1994년 7월 11일 \~ 1994년 11월 26일
   - 《[그대의 창](../Page/그대의_창.md "wikilink")》 : 1994년 11월 28일 \~ 1995년 5월 13일
-  - 《[그대 목소리](https://ko.wikipedia.org/wiki/그대_목소리 "wikilink")》 : 1995년 5월 15일 \~ 1995년 10월 7일
-  - 《[엘레지](../Page/엘레지_\(드라마\).md "wikilink")》 : 1995년 10월 9일 \~ 1996년 3월 23일
 
 ### [1990년대](../Page/1990년대.md "wikilink") 후반
 
+  - 《[그대 목소리](https://ko.wikipedia.org/wiki/그대_목소리 "wikilink")》 : 1995년 5월 15일 \~ 1995년 10월 7일
+  - 《[엘레지](../Page/엘레지_\(드라마\).md "wikilink")》 : 1995년 10월 9일 \~ 1996년 3월 23일
   - 《[만남](../Page/만남_\(1995년_드라마\).md "wikilink")》 : 1996년 3월 25일 \~ 1996년 9월 14일
   - 《[때로는 타인처럼](../Page/때로는_타인처럼.md "wikilink")》 : 1996년 9월 16일 \~ 1997년 3월 1일
   - 《[단 한번의 노래](../Page/단_한번의_노래.md "wikilink")》 : 1997년 3월 3일 \~ 1997년 8월 2일
@@ -113,7 +116,7 @@
 
   - 《[진주 귀걸이](../Page/진주_귀걸이.md "wikilink")》 : 2005년 1월 24일 \~ 2005년 5월 7일
   - 《[여왕의 조건](../Page/여왕의_조건.md "wikilink")》 : 2005년 5월 9일 \~ 2005년 10월 8일
-  - 《[들꽃](../Page/들꽃_\(2005년_드라마\).md "wikilink")》 : 2005년 10월 10일 \~ 2006년 2월 24일
+  - 《[들꽃](../Page/들꽃_\(2005년_드라마\).md "wikilink")》: 2005년 10월 10일 \~ 2006년 2월 24일
   - 《[사랑하고 싶다](../Page/사랑하고_싶다.md "wikilink")》 : 2006년 2월 27일 \~ 2006년 7월 29일
   - 《[맨발의 사랑](../Page/맨발의_사랑.md "wikilink")》 : 2006년 7월 31일 \~ 2006년 12월 2일
   - 《[사랑도 미움도](../Page/사랑도_미움도.md "wikilink")》 : 2006년 12월 4일 \~ 2007년 4월 21일
@@ -155,12 +158,12 @@
 
 ### [2020년대](https://ko.wikipedia.org/wiki/2020년대 "wikilink") 전반
 
-  - 《[엄마가 바람났다](https://ko.wikipedia.org/wiki/엄마가_바람났다 "wikilink")》 : 2020년 5월 4일 \~ 2020년 10월 16일
+  - 《[엄마가 바람났다](https://ko.wikipedia.org/wiki/엄마가_바람났다 "wikilink")》 : 2020년 5월 4일 \~ **현재**
 
 ## 같이 보기
 
+  - [한국방송공사 1TV 아침드라마](https://ko.wikipedia.org/wiki/한국방송공사_1TV_아침드라마 "wikilink")
   - [한국방송공사 2TV 아침드라마](../Page/한국방송공사_2TV_아침드라마.md "wikilink")
-  - [한국방송공사 TV 소설](../Page/한국방송공사_TV_소설.md "wikilink")
   - [문화방송 아침드라마](../Page/문화방송_아침드라마.md "wikilink")
 
 [분류:SBS의 텔레비전 드라마](https://ko.wikipedia.org/wiki/분류:SBS의_텔레비전_드라마 "wikilink") [분류:SBS 아침연속극](https://ko.wikipedia.org/wiki/분류:SBS_아침연속극 "wikilink")

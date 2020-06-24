@@ -84,7 +84,7 @@
   - [최지우](../Page/최지우.md "wikilink") : 민정 역
   - [차승원](../Page/차승원.md "wikilink") : 인기 역
   - [이나영](../Page/이나영.md "wikilink") : 소영 역
-  - [이범수](../Page/이범수.md "wikilink") : 준성의 지인 역
+  - [이범수](../Page/이범수.md "wikilink") : 준성의 친구 역
 
 ### 유실물
 

@@ -1648,7 +1648,7 @@ TV - 김남경</p></td>
 <tr class="odd">
 <td><p>프로듀서상</p></td>
 <td><p><a href="../Page/이승기.md" title="wikilink">이승기</a></p></td>
-<td><p><a href="../Page/집사부일체.md" title="wikilink">집사부일체</a>, <a href="https://ko.wikipedia.org/wiki/리틀_포레스트_(예능_프로그램)" title="wikilink">리틀 포레스트</a></p></td>
+<td><p><a href="../Page/집사부일체.md" title="wikilink">집사부일체</a>, <a href="../Page/리틀_포레스트_(예능_프로그램).md" title="wikilink">리틀 포레스트</a></p></td>
 </tr>
 <tr class="even">
 <td><p>공로상</p></td>
@@ -1719,7 +1719,7 @@ TV - 김남경</p></td>
 <a href="../Page/이광수_(배우).md" title="wikilink">이광수</a></p></td>
 <td><p><a href="../Page/동상이몽_2_-_너는_내_운명.md" title="wikilink">동상이몽 2 - 너는 내 운명</a><br />
 <a href="../Page/집사부일체.md" title="wikilink">집사부일체</a><br />
-<a href="https://ko.wikipedia.org/wiki/리틀_포레스트_(예능_프로그램)" title="wikilink">리틀 포레스트</a><br />
+<a href="../Page/리틀_포레스트_(예능_프로그램).md" title="wikilink">리틀 포레스트</a><br />
 <a href="../Page/런닝맨_(텔레비전_프로그램).md" title="wikilink">런닝맨</a></p></td>
 </tr>
 <tr class="odd">
@@ -1764,7 +1764,7 @@ TV - 김남경</p></td>
   - [2009년](../Page/2009년.md "wikilink"), [2015년](../Page/2015년.md "wikilink"), [2017년](../Page/2017년.md "wikilink") **연예대상**은 공동 수상이 이루어졌다.
   - [2017년](../Page/2017년.md "wikilink") **연예대상**은 방송 3사 최초로 비연예인이 수상하였다.
   - [2018년](../Page/2018년.md "wikilink") **연예대상**은 [이승기](../Page/이승기.md "wikilink")가 대상을 수상하였고 [백종원](../Page/백종원.md "wikilink")은 시상식 현장에서 아무런 상도 가져가지 못하며 논란이 발생하였다.
-  - [2019년](../Page/2019년.md "wikilink") **연예대상**은 대상 유력후보인 [백종원](../Page/백종원.md "wikilink")이 연이어 수상을 거부하였으나 공로상을 수여하며 지난해 발생했던 논란에 대해 어느 정도 대응했다는 평가를 받고 있다.
+  - [2019년](../Page/2019년.md "wikilink") **연예대상**은 대상 유력후보인 [백종원](../Page/백종원.md "wikilink")이 [2018년](../Page/2018년.md "wikilink")에 이어 수상을 거부했으나 공로상을 수여하며 [2018년](../Page/2018년.md "wikilink") 발생했던 논란에 대해 어느 정도 대응했다는 평가를 받고 있다.
 
 ## 시청률
 

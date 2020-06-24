@@ -3,11 +3,23 @@
 
 **Hey\! Say\! JUMP**(헤이\! 세이\! 점프, 약칭 **HSJ**&**Hey\! Say\! Johnny's Ultra Music Power**)는 [일본](../Page/일본.md "wikilink")의 [남성](https://ko.wikipedia.org/wiki/남성 "wikilink") [아이돌](https://ko.wikipedia.org/wiki/아이돌 "wikilink") 그룹이다. 소속 사무소는 [쟈니즈 사무소](../Page/자니스_사무소.md "wikilink"), 소속 레이블은 [제이 스톰](https://ko.wikipedia.org/wiki/제이스톰 "wikilink"). [2007년](../Page/2007년.md "wikilink") [9월 24일](../Page/9월_24일.md "wikilink") 결성\[1\]\[2\]. 리더가 없는 그룹이다.
 
-## 멤버
+## 멤버1
 
-  - A.Y.T:[타카키 유야](../Page/타카키_유야.md "wikilink")(최연장자/Hey\!Say\!BEST), [아리오카 다이키](../Page/아리오카_다이키.md "wikilink")(최연장자/Hey\!Say\!BEST), [야오토메 히카루](../Page/야오토메_히카루.md "wikilink")(최연장자/Hey\!Say\!BEST)
-  - Hey\!Say\!BEST:[타카키 유야](../Page/타카키_유야.md "wikilink")(최연장자/A.Y.T), [아리오카 다이키](../Page/아리오카_다이키.md "wikilink")(최연장자/A.Y.T), [이노오 케이](../Page/이노오_케이.md "wikilink")(최연장자), [야오토메 히카루](../Page/야오토메_히카루.md "wikilink")(최연장자/A.Y.T), [야부 코타](../Page/야부_코타.md "wikilink")(최연장자)
-  - Hey\!Say\!7:[야마다 료스케](../Page/야마다_료스케.md "wikilink")(최연소), [치넨 유리](../Page/치넨_유리.md "wikilink")(최연소),[나카지마 유토](../Page/나카지마_유토.md "wikilink")(최연소), [오카모토 케이토](../Page/오카모토_케이토.md "wikilink")(최연소, [9월](../Page/9월.md "wikilink")\~현재:[미국](../Page/미국.md "wikilink")[뉴욕](../Page/뉴욕.md "wikilink")[아메리칸아카데미오브드라마틱아트](https://ko.wikipedia.org/wiki/아메리칸아카데미오브드라마틱아트 "wikilink")([연기](https://ko.wikipedia.org/wiki/연기 "wikilink")와[노래](https://ko.wikipedia.org/wiki/노래 "wikilink")를배울것)
+  - [타카키 유야](../Page/타카키_유야.md "wikilink")(최연장자/Hey\!Say\!BEST/A.Y.T)
+  - [아리오카 다이키](../Page/아리오카_다이키.md "wikilink")(최연장자/Hey\!Say\!BEST/A.Y.T)
+  - [이노오 케이](../Page/이노오_케이.md "wikilink")(최연장자/Hey\!Say\!BEST)
+  - [나카지마 유토](../Page/나카지마_유토.md "wikilink")(최연소/Hey\!Say\!7)
+
+## 멤버2
+
+  - [야오토메 히카루](../Page/야오토메_히카루.md "wikilink")(최연장자/Hey\!Say\!BEST/A.Y.T)
+  - [야부 코타](../Page/야부_코타.md "wikilink")(최연장자/Hey\!Say\!BEST)
+  - [야마다 료스케](../Page/야마다_료스케.md "wikilink")(최연소/Hey\!Say\!7)
+  - [치넨 유리](../Page/치넨_유리.md "wikilink")(최연소/Hey\!Say\!7)
+
+## 그외멤버
+
+  - [오카모토 케이토](../Page/오카모토_케이토.md "wikilink")(최연소, [9월](../Page/9월.md "wikilink")\~현재:[미국](../Page/미국.md "wikilink")[뉴욕](../Page/뉴욕.md "wikilink")[아메리칸아카데미오브드라마틱아트](https://ko.wikipedia.org/wiki/아메리칸아카데미오브드라마틱아트 "wikilink")([연기](https://ko.wikipedia.org/wiki/연기 "wikilink")와[노래](https://ko.wikipedia.org/wiki/노래 "wikilink")를배울것//Hey\!Say\!7)
 
 ## 개요
 

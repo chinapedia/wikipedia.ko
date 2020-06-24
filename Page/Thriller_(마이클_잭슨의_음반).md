@@ -67,7 +67,7 @@
 
   - [앨범 정보](https://web.archive.org/web/20070227211423/http://kingofpop.co.kr/albums/thriller.htm)
 
-[분류:1982년 음반](https://ko.wikipedia.org/wiki/분류:1982년_음반 "wikilink") [분류:마이클 잭슨의 음반](https://ko.wikipedia.org/wiki/분류:마이클_잭슨의_음반 "wikilink") [분류:미국의 1위 음반](https://ko.wikipedia.org/wiki/분류:미국의_1위_음반 "wikilink") [분류:에픽 레코드 음반](https://ko.wikipedia.org/wiki/분류:에픽_레코드_음반 "wikilink") [분류:기네스 세계 기록](https://ko.wikipedia.org/wiki/분류:기네스_세계_기록 "wikilink") [분류:그래미상 올해의 앨범상 수상작](https://ko.wikipedia.org/wiki/분류:그래미상_올해의_앨범상_수상작 "wikilink")
+[분류:1982년 음반](https://ko.wikipedia.org/wiki/분류:1982년_음반 "wikilink") [분류:마이클 잭슨의 음반](https://ko.wikipedia.org/wiki/분류:마이클_잭슨의_음반 "wikilink") [분류:미국의 1위 음반](https://ko.wikipedia.org/wiki/분류:미국의_1위_음반 "wikilink") [분류:에픽 레코드 음반](https://ko.wikipedia.org/wiki/분류:에픽_레코드_음반 "wikilink") [분류:그래미상 올해의 앨범상 수상작](https://ko.wikipedia.org/wiki/분류:그래미상_올해의_앨범상_수상작 "wikilink")
 
 1.
 2.  Heyliger, M., [Music - Help - Web - Review](http://music.consumerhelpweb.com/artists/jackson/thriller.htm){{  - *A State-of-the-Art Pop Album* (Thriller by Michael Jackson): "Not many artists could pull off such a variety of styles (funk, post-disco, rock, easy listening, ballads) back then...". *Retrieved on March 12, 2011*

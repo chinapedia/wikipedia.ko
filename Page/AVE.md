@@ -17,7 +17,9 @@
   - AVE 마드리드 - [말라가](../Page/말라가.md "wikilink")
   - AVE 마드리드 - [바야돌리드](../Page/바야돌리드.md "wikilink")
   - AVE 마드리드 - [바르셀로나](https://ko.wikipedia.org/wiki/바르셀로나 "wikilink")
-  - AVE 바르셀로나 - [세비야](../Page/세비야.md "wikilink")
+  - AVE 마드리드 - [발렌시아](../Page/발렌시아.md "wikilink")
+  - AVE 마드리드 - [카스테욘](https://ko.wikipedia.org/wiki/카스테욘 "wikilink")
+  - AVE 바르셀로나 - [알바세테](https://ko.wikipedia.org/wiki/알바세테 "wikilink")
   - AVE 바르셀로나 - [말라가](../Page/말라가.md "wikilink")
   - AVE 마드리드 - [우에스카](https://ko.wikipedia.org/wiki/우에스카 "wikilink")
 

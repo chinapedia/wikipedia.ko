@@ -34,4 +34,4 @@
   - [2013년](../Page/2013년.md "wikilink") 11월 [CJ그룹](../Page/CJ그룹.md "wikilink")에 인수, **CJ헬로비전 전북방송**으로 사명 변경
   - [2015년](../Page/2015년.md "wikilink") 4월 [CJ그룹](../Page/CJ그룹.md "wikilink")과 합병
 
-[분류:대한민국의 종합유선방송사업자](https://ko.wikipedia.org/wiki/분류:대한민국의_종합유선방송사업자 "wikilink") [분류:1997년 설립](https://ko.wikipedia.org/wiki/분류:1997년_설립 "wikilink") [분류:2015년 폐지](https://ko.wikipedia.org/wiki/분류:2015년_폐지 "wikilink") [분류:CJ헬로](https://ko.wikipedia.org/wiki/분류:CJ헬로 "wikilink") [분류:전라북도의 대중 매체](../Page/분류:전라북도의_대중_매체.md "wikilink")
+[분류:대한민국의 종합유선방송사업자](https://ko.wikipedia.org/wiki/분류:대한민국의_종합유선방송사업자 "wikilink") [분류:1997년 설립](https://ko.wikipedia.org/wiki/분류:1997년_설립 "wikilink") [분류:2015년 폐지](https://ko.wikipedia.org/wiki/분류:2015년_폐지 "wikilink") [분류:LG헬로비전](https://ko.wikipedia.org/wiki/분류:LG헬로비전 "wikilink") [분류:전라북도의 대중 매체](../Page/분류:전라북도의_대중_매체.md "wikilink")

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Gossip Girl](https://ko.wikipedia.org/wiki/Gossip_Girl).
 
 
-《***Gossip Girl***》은 [대한민국](../Page/대한민국.md "wikilink")의 [걸 그룹](../Page/걸_그룹.md "wikilink") [레인보우의](https://ko.wikipedia.org/wiki/레인보우_\(음악_그룹\) "wikilink") 첫 미니 음반이다.
+《***Gossip Girl***》은 [대한민국](../Page/대한민국.md "wikilink")의 [걸 그룹](../Page/걸_그룹.md "wikilink") [레인보우의](../Page/레인보우_\(대한민국의_음악_그룹\).md "wikilink") 첫 미니 음반이다.
 
 ## 구성
 

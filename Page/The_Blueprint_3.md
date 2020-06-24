@@ -23,4 +23,4 @@
 14. "So Ambitious" (featuring [페럴](https://ko.wikipedia.org/wiki/페럴 "wikilink")) The Neptunes 4:12
 15. "Young Forever" (featuring Mr Hudson)
 
-[분류:2009년 음반](https://ko.wikipedia.org/wiki/분류:2009년_음반 "wikilink") [분류:제이 지의 음반](https://ko.wikipedia.org/wiki/분류:제이_지의_음반 "wikilink") [분류:카니예 웨스트가 프로듀싱한 음반](https://ko.wikipedia.org/wiki/분류:카니예_웨스트가_프로듀싱한_음반 "wikilink") [분류:팀발랜드가 프로듀싱한 음반](https://ko.wikipedia.org/wiki/분류:팀발랜드가_프로듀싱한_음반 "wikilink")
+[분류:2009년 음반](https://ko.wikipedia.org/wiki/분류:2009년_음반 "wikilink") [분류:제이 지의 음반](https://ko.wikipedia.org/wiki/분류:제이_지의_음반 "wikilink") [분류:카녜이 웨스트가 프로듀싱한 음반](https://ko.wikipedia.org/wiki/분류:카녜이_웨스트가_프로듀싱한_음반 "wikilink") [분류:팀발랜드가 프로듀싱한 음반](https://ko.wikipedia.org/wiki/분류:팀발랜드가_프로듀싱한_음반 "wikilink")

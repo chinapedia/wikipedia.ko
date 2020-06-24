@@ -5,17 +5,22 @@
 
 ## 개요
 
-숩테 H선은 현재 총길이 2.2km로 연장 공사가 끝나면 11.85km의 길이를 가지게 된다. 현재는 카세로스 역에서 온세 광장 역까지 다섯 구간만 연결한다. 아르헨티나에서 가장 최근에 개통된 여섯 번째 노선이며, [1944년](../Page/1944년.md "wikilink") E선 공사 이후 60년 만에 신규로 추가된 노선이다. A, C, D, E와 동일한 복선 전동 방식을 채택했다.
-
-현재도 공사 중에 있으며, 1 단계 구간이 [2007년](../Page/2007년.md "wikilink") [10월 18일](../Page/10월_18일.md "wikilink") 문을 열었다.
+숩테 H선은 현재 총길이 8.8km로 연장. 아르헨티나에서 가장 최근에 개통된 여섯 번째 노선이며, [1944년](../Page/1944년.md "wikilink") E선 공사 이후 60년 만에 신규로 추가된 노선이다. A, C, D, E와 동일한 복선 전동 방식을 채택했다.
 
 ## 지하철 역
 
+  - 병원
+  - 패트리시오 공원
   - 카세로스
   - 인클란
-  - 훔베르토 [20px](https://ko.wikipedia.org/wiki/파일:Línea_E_\(SBA\).svg "wikilink")
+  - 훔베르토 [20px](https://ko.wikipedia.org/wiki/파일:Línea_E_\(SBASE\)_bullet.svg "wikilink")
   - 베네주엘라
-  - 온세 광장 [20px](https://ko.wikipedia.org/wiki/파일:Línea_A_\(SBA\).svg "wikilink")
+  - 온세 광장 [20px](https://ko.wikipedia.org/wiki/파일:Línea_A_\(SBASE\)_bullet.svg "wikilink")
+  - 해류 [20px](https://ko.wikipedia.org/wiki/파일:Línea_B_\(SBASE\)_bullet.svg "wikilink")
+  - 코르도바
+  - 산타페 [20px](https://ko.wikipedia.org/wiki/파일:Línea_D_\(SBASE\)_bullet.svg "wikilink")
+  - 라스 헤라 스
+  - 법률 학교
 
 ## 갤러리
 

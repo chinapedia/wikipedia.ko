@@ -49,4 +49,4 @@
 
   - [List of Pilatus PC-9B of EIS Aircraft GmbH](http://callsigns.de/search.php?do=search&searchstring=eis+aircraft)
 
-[분류:스위스의 훈련기](https://ko.wikipedia.org/wiki/분류:스위스의_훈련기 "wikilink") [분류:공격기](https://ko.wikipedia.org/wiki/분류:공격기 "wikilink") [분류:1984년 첫 비행한 항공기](https://ko.wikipedia.org/wiki/분류:1984년_첫_비행한_항공기 "wikilink")
+[분류:스위스의 훈련기](https://ko.wikipedia.org/wiki/분류:스위스의_훈련기 "wikilink") [분류:공격기](https://ko.wikipedia.org/wiki/분류:공격기 "wikilink") [분류:1984년 첫 비행한 항공기](https://ko.wikipedia.org/wiki/분류:1984년_첫_비행한_항공기 "wikilink") [분류:저익기](https://ko.wikipedia.org/wiki/분류:저익기 "wikilink")

@@ -17,4 +17,4 @@
   - <http://www.korean-war.com/KWAircraft/US/Marines/grumman_f9f_panther.html>
   - <http://www.history.navy.mil/photos/events/kowar/50-nkof/nk-2.htm>
 
-[분류:함재기](https://ko.wikipedia.org/wiki/분류:함재기 "wikilink") [분류:한국 전쟁의 비행기](https://ko.wikipedia.org/wiki/분류:한국_전쟁의_비행기 "wikilink") [분류:1947년 첫 비행한 항공기](https://ko.wikipedia.org/wiki/분류:1947년_첫_비행한_항공기 "wikilink") [분류:단발 제트기](https://ko.wikipedia.org/wiki/분류:단발_제트기 "wikilink")
+[분류:함재기](https://ko.wikipedia.org/wiki/분류:함재기 "wikilink") [분류:한국 전쟁의 비행기](https://ko.wikipedia.org/wiki/분류:한국_전쟁의_비행기 "wikilink") [분류:1947년 첫 비행한 항공기](https://ko.wikipedia.org/wiki/분류:1947년_첫_비행한_항공기 "wikilink") [분류:단발 제트기](https://ko.wikipedia.org/wiki/분류:단발_제트기 "wikilink") [분류:저익기](https://ko.wikipedia.org/wiki/분류:저익기 "wikilink")

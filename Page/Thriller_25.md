@@ -46,4 +46,4 @@
 3.  Thriller
 4.  Billie Jean Performance From Motown 25: Yesterday, Today And Forever
 
-[분류:2008년 음반](https://ko.wikipedia.org/wiki/분류:2008년_음반 "wikilink") [분류:마이클 잭슨의 음반](https://ko.wikipedia.org/wiki/분류:마이클_잭슨의_음반 "wikilink") [분류:카니예 웨스트가 프로듀싱한 음반](https://ko.wikipedia.org/wiki/분류:카니예_웨스트가_프로듀싱한_음반 "wikilink") [분류:재발매 음반](https://ko.wikipedia.org/wiki/분류:재발매_음반 "wikilink") [ja:スリラー (アルバム)\#Thriller 25](https://ko.wikipedia.org/wiki/ja:スリラー_\(アルバム\)#Thriller_25 "wikilink")
+[분류:2008년 음반](https://ko.wikipedia.org/wiki/분류:2008년_음반 "wikilink") [분류:마이클 잭슨의 음반](https://ko.wikipedia.org/wiki/분류:마이클_잭슨의_음반 "wikilink") [분류:카녜이 웨스트가 프로듀싱한 음반](https://ko.wikipedia.org/wiki/분류:카녜이_웨스트가_프로듀싱한_음반 "wikilink") [분류:재발매 음반](https://ko.wikipedia.org/wiki/분류:재발매_음반 "wikilink") [ja:スリラー (アルバム)\#Thriller 25](https://ko.wikipedia.org/wiki/ja:スリラー_\(アルバム\)#Thriller_25 "wikilink")

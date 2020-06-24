@@ -19,7 +19,7 @@
 
 ## 영화에 삽입
 
-  - 《[시애틀의 잠 못 이루는 밤](../Page/시애틀의_잠_못_이루는_밤.md "wikilink")》(*Sleepless in Seattle*, 1993)에서 댄 아이크로이드(Dan Aykroyd)와 존 벨루시(John Belushi)가 불렀다.
+  - 《[블루스 브라더스](../Page/블루스_브라더스.md "wikilink")》(*The Blues Brothers*, 1980)에서 댄 애크로이드(Dan Aykroyd)와 존 벨루시(John Belushi)가 불렀다.
 
 ## 드라마
 

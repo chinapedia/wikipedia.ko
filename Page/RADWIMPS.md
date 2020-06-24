@@ -271,6 +271,18 @@
 </tbody>
 </table>
 
+[프랑켄슈타인의 사랑](https://ko.wikipedia.org/wiki/프랑켄슈타인의_사랑 "wikilink") ost **저는 인간이 아니에요**(**僕は 人間じゃ ないです。**)
+
+[날씨의 아이](../Page/날씨의_아이.md "wikilink")
+
+(**GRAND ESCAPE**)
+
+(**大じょぶ**)
+
+(**風の 声**)
+
+(**愛に 出来ることは まだあるかい**)
+
 ### DVD
 
 1.  RADWIMPS 4.5 ([2007년](../Page/2007년.md "wikilink") [2월 7일](../Page/2월_7일.md "wikilink"))
@@ -293,7 +305,7 @@
 
   - [래드윔프스](https://www.youtube.com/user/radwimpsstaff) 유튜브 채널
 
-[분류:일본의 록 밴드](https://ko.wikipedia.org/wiki/분류:일본의_록_밴드 "wikilink") [분류:2001년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2001년_결성된_음악_그룹 "wikilink") [분류:2005년 데뷔](https://ko.wikipedia.org/wiki/분류:2005년_데뷔 "wikilink") [분류:2000년대 음악 그룹](https://ko.wikipedia.org/wiki/분류:2000년대_음악_그룹 "wikilink") [분류:2010년대 음악 그룹](https://ko.wikipedia.org/wiki/분류:2010년대_음악_그룹 "wikilink") [RADWIMPS](https://ko.wikipedia.org/wiki/분류:RADWIMPS "wikilink")
+[RADWIMPS](https://ko.wikipedia.org/wiki/분류:RADWIMPS "wikilink") [분류:일본의 록 밴드](https://ko.wikipedia.org/wiki/분류:일본의_록_밴드 "wikilink") [분류:2001년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2001년_결성된_음악_그룹 "wikilink") [분류:2000년대 음악 그룹](https://ko.wikipedia.org/wiki/분류:2000년대_음악_그룹 "wikilink") [분류:2010년대 음악 그룹](https://ko.wikipedia.org/wiki/분류:2010년대_음악_그룹 "wikilink")
 
 1.  [공식 블로그에서 2월 8일 발표했다.](http://blog.livedoor.jp/radwimps/archives/51498849.html)
 2.  [오리콘 주간 CD싱글 랭킹 2008년 1월 3주](http://www.oricon.co.jp/rank/js/w/2008-02-04/)

@@ -76,7 +76,7 @@
   -
   - [지은(JC) Fan Cafe〃페가수소〃](http://cafe.daum.net/jieunsocool)
 
-[분류:대한민국의 여자 가수](https://ko.wikipedia.org/wiki/분류:대한민국의_여자_가수 "wikilink") [분류:1981년 태어남](https://ko.wikipedia.org/wiki/분류:1981년_태어남 "wikilink") [분류:서울특별시 출신](https://ko.wikipedia.org/wiki/분류:서울특별시_출신 "wikilink") [분류:2007년 데뷔](https://ko.wikipedia.org/wiki/분류:2007년_데뷔 "wikilink") [분류:보이스 코리아 참가자](https://ko.wikipedia.org/wiki/분류:보이스_코리아_참가자 "wikilink") [분류:살아있는 사람](https://ko.wikipedia.org/wiki/분류:살아있는_사람 "wikilink") [분류:YG 엔터테인먼트 소속](https://ko.wikipedia.org/wiki/분류:YG_엔터테인먼트_소속 "wikilink")
+[분류:대한민국의 여자 가수](https://ko.wikipedia.org/wiki/분류:대한민국의_여자_가수 "wikilink") [분류:1981년 태어남](https://ko.wikipedia.org/wiki/분류:1981년_태어남 "wikilink") [분류:서울특별시 출신](https://ko.wikipedia.org/wiki/분류:서울특별시_출신 "wikilink") [분류:보이스 코리아 참가자](https://ko.wikipedia.org/wiki/분류:보이스_코리아_참가자 "wikilink") [분류:살아있는 사람](https://ko.wikipedia.org/wiki/분류:살아있는_사람 "wikilink") [분류:YG 엔터테인먼트 소속](https://ko.wikipedia.org/wiki/분류:YG_엔터테인먼트_소속 "wikilink")
 
 1.  [네이버 인물 정보](http://people.search.naver.com/search.naver?sm=tab_txc&where=people_profile&ie=utf8&query=JC&os=208091)
 2.  [네이트 인물 정보](http://search.nate.com/search/all.html?q=%C1%F6%C0%BA&hi=PR298827&ht=h_pf&csn=12&dsn=4&asn=001200294)

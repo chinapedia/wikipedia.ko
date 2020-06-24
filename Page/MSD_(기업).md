@@ -39,7 +39,7 @@
   - [MSD 공식 홈페이지](https://www.merck.com/)
   - [한국MSD 공식 홈페이지](http://www.msd-korea.com/)
 
-[분류:뉴욕 증권거래소 상장 기업](https://ko.wikipedia.org/wiki/분류:뉴욕_증권거래소_상장_기업 "wikilink") [분류:1668년 설립된 기업](https://ko.wikipedia.org/wiki/분류:1668년_설립된_기업 "wikilink") [분류:미국의 제약 기업](https://ko.wikipedia.org/wiki/분류:미국의_제약_기업 "wikilink") [분류:미국의 브랜드](https://ko.wikipedia.org/wiki/분류:미국의_브랜드 "wikilink") [분류:다국적 기업](https://ko.wikipedia.org/wiki/분류:다국적_기업 "wikilink") [분류:미국의 다국적 기업](https://ko.wikipedia.org/wiki/분류:미국의_다국적_기업 "wikilink") [분류:바이엘 (기업)](https://ko.wikipedia.org/wiki/분류:바이엘_\(기업\) "wikilink")
+[분류:뉴욕 증권거래소 상장 기업](https://ko.wikipedia.org/wiki/분류:뉴욕_증권거래소_상장_기업 "wikilink") [분류:1668년 설립된 기업](https://ko.wikipedia.org/wiki/분류:1668년_설립된_기업 "wikilink") [분류:미국의 제약 기업](https://ko.wikipedia.org/wiki/분류:미국의_제약_기업 "wikilink") [분류:미국의 브랜드](https://ko.wikipedia.org/wiki/분류:미국의_브랜드 "wikilink") [분류:다국적 기업](https://ko.wikipedia.org/wiki/분류:다국적_기업 "wikilink") [분류:미국의 다국적 기업](https://ko.wikipedia.org/wiki/분류:미국의_다국적_기업 "wikilink") [분류:바이엘 (기업)](https://ko.wikipedia.org/wiki/분류:바이엘_\(기업\) "wikilink") [분류:미국의 생명공학 기업](https://ko.wikipedia.org/wiki/분류:미국의_생명공학_기업 "wikilink")
 
 1.
 2.  [머크, 셰링플라우 411억弗에 인수…제약업계는 \`빅뱅중\`](http://www.hankyung.com/news/app/newsview.php?aid=2009031039051) [한국경제](https://ko.wikipedia.org/wiki/한국경제 "wikilink") [2009년](../Page/2009년.md "wikilink") [3월 10일](../Page/3월_10일.md "wikilink")

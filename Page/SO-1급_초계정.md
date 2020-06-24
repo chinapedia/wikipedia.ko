@@ -43,7 +43,7 @@
 
 ## 외부 링크
 
-  - [세계의 해군-북한](http://www.hazegray.org/worldnav/asiapac/n_korea.htm)
+  - [세계의 해군-북한](https://web.archive.org/web/20090525131453/http://www.hazegray.org/worldnav/asiapac/n_korea.htm)
 
 [분류:조선민주주의인민공화국 해군](https://ko.wikipedia.org/wiki/분류:조선민주주의인민공화국_해군 "wikilink")
 

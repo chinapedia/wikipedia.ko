@@ -27,6 +27,7 @@
 
   - [KBS 뉴스 9](../Page/KBS_뉴스_9.md "wikilink") 대전 · 세종 · 충남 \<[KBS대전](../Page/KBS대전방송총국.md "wikilink")\>
   - [MBC 뉴스데스크](../Page/MBC_뉴스데스크.md "wikilink") 대전 세종 충남(대전MBC 뉴스데스크) \<[대전문화방송](../Page/대전문화방송.md "wikilink")\>
+  - [우리말 겨루기](../Page/우리말_겨루기.md "wikilink")
 
 ## 외부 링크
 

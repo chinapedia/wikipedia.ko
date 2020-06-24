@@ -3,7 +3,7 @@
 
 **T.O.P**(, [1987년](../Page/1987년.md "wikilink") [11월 4일](../Page/11월_4일.md "wikilink") \~ )은\[1\] [대한민국](../Page/대한민국.md "wikilink")의 [보이 그룹](https://ko.wikipedia.org/wiki/보이_그룹 "wikilink") [빅뱅의](../Page/빅뱅_\(음악_그룹\).md "wikilink") 리드래퍼를 맡고 있다. T.O.P은 [YG 엔터테인먼트](../Page/YG_엔터테인먼트.md "wikilink") 소속으로 6개월여간 연습생 기간을 거친 후, [빅뱅의](../Page/빅뱅_\(음악_그룹\).md "wikilink") 멤버로 데뷔하였다. 그는 배우로서 《[아이엠샘](https://ko.wikipedia.org/wiki/아이엠샘 "wikilink")》, 《[아이리스](../Page/아이리스_\(드라마\).md "wikilink")》, 《19》, 《[포화 속으로](../Page/포화_속으로.md "wikilink")》, 《[동창생](../Page/동창생_\(2013년_영화\).md "wikilink")》, 《[타짜: 신의 손](../Page/타짜:_신의_손.md "wikilink")》 등 여러 작품에 출연했다. 그룹 내에서는 주로 랩 파트를 맡고 있으며, 초저음인 목소리가 매력이자 특징이다. 플로우가 독보적이다. 빌보드 K-타운의 컬럼니스트 제프 벤자민은 그의 낮은 음색의 랩핑이 잘 알려져 있다며 언급했다.\[2\]
 
-## 생애
+## 생애/활동
 
 ### 2005–2006: 어린 시절과 빅뱅으로 데뷔
 
@@ -23,7 +23,7 @@ T.O.P은 빅뱅의 앨범 발매에 따른 활동과 동시에 그의 솔로 활
 
 2010년 11월, [YG 엔터테인먼트는](../Page/YG_엔터테인먼트.md "wikilink") [지드래곤](../Page/지드래곤.md "wikilink")과 T.O.P이 2인조 유닛 [GD\&TOP](../Page/GD&TOP.md "wikilink")을 결성한다고 발표했다.\[25\] 그해 [12월 14일](../Page/12월_14일.md "wikilink") 서울 영등포 타임스퀘어에서 월드 와이드 프리미어 쇼케이스가 열렸고,\[26\] [유튜브](../Page/유튜브.md "wikilink")에 생중계되었다.\[27\] 앨범에 수록 된 "High High", "Oh Yeah", "뻑이 가요", "집에 가지마" 등이 히트하며 상업적 성공을 거뒀다.\[28\]\[29\]\[30\]\[31\] 앨범은 [크리스마스 이브에](../Page/12월_24일.md "wikilink") 발매되어 [가온 차트에](../Page/가온_차트.md "wikilink") 1위로 데뷔했고,\[32\] 20만장에 육박한 판매량을 기록했다.\[33\]
 
-### 2011-현재: 계속된 연기 활동
+### 2011-2016: 빅뱅 활동과 계속된 연기 활동
 
 [thumbnail](https://ko.wikipedia.org/wiki/파일:T.O.P_2012_3.jpg "wikilink") 2011년 동안, 빅뱅은 그들의 네 번째 [EP](../Page/익스텐디드_플레이.md "wikilink") 《[Tonight](../Page/BIGBANG_MINI_4.md "wikilink")》을 발매했다. 이후 [대성이](../Page/대성_\(가수\).md "wikilink") 교통사고 치사사건, [지드래곤](../Page/지드래곤.md "wikilink")이 대마초 흡연사건에 각각 연루되어 빅뱅의 활동을 전면 중단했다. 2011년 11월 6일, [북아일랜드](../Page/북아일랜드.md "wikilink")의 [벨파스트](../Page/벨파스트.md "wikilink")에서 열린 [MTV 유럽 뮤직 어워드](../Page/MTV_유럽_뮤직_어워드.md "wikilink")(EMA)에 참석하며 첫 공식 석상에 모습을 드러냈다.\[34\]
 
@@ -35,17 +35,23 @@ T.O.P은 빅뱅의 앨범 발매에 따른 활동과 동시에 그의 솔로 활
 
 2017년 2월 9일, T.O.P은 논산 [육군훈련소](../Page/육군훈련소.md "wikilink")에 [JYJ](../Page/JYJ.md "wikilink") [김준수와](../Page/김준수_\(가수\).md "wikilink") 함께 입대하였고, 이후 3월 29일부터 서울경찰악대에 배치되어 의경 복무를 시작하였다.\[46\]\[47\]
 
+### 현재
+
+T.O.P은 미술계에서 여러 기록들을 보유하고 있는데 Grogeous 매거진에서 미술계 인플루언서 200명 목록에 오르는 최초의 K-POP 가수이다.\[48\]
+
+2020년 3월 3일 오전 희망브리지 전국재해협회 측에서 T.O.P이 본명 최승현으로 성금 1억 원을 기부했다고 한다. (T.O.P의 기부금은 대구광역시, 경상북도에서 SARS-CoV-2 (코로나바이러스감염증-19) 확산 방지와 환자 치료에 힘쓰고 있는 의료진의 방역물품 구입에 사용된다.) 협회 측은 "최승현 씨는 성금을 기탁하며 코로나바이러스감염증-19 극복을 위해 어려움 속에서 헌신하고 계신 의료진 여러분께 깊은 존경과 감사를 드린다. 조금이나마 도움이 되고 싶은 마음을 전했다"고 밝혔다.\[49\]
+
 ## 사건 및 논란
 
 ### 대마초 흡연
 
-2017년 6월 1일, T.O.P이 대마초를 흡연한 혐의가 언론에 보도되었다.\[48\] [서울지방경찰청](https://ko.wikipedia.org/wiki/서울지방경찰청 "wikilink") 마약범죄수사대에 따르면 그는 2016년 10월에 자신의 자택에서 가수 연습생 출신의 한서희와 함께 궐련형 2회, 액상형 2회 대마초를 총 네 차례 흡연하였고, 이후 한서희가 경찰에 조사받는 과정에서 T.O.P와 함께 대마초를 흡연한 것을 자백하여 T.O.P이 대마초를 흡연한 사실이 적발되었다.\[49\] 당초 대마가 아닌 전자담배를 피웠다고 주장했던 T.O.P은 모발 검사 결과에서 양성 반응이 나오자 결국 혐의를 인정했다. 이후 경찰은 2017년 4월 T.O.P을 마약류관리법위반 혐의로 불구속 기소의견으로 검찰에 송치하였다.\[50\] 이후 T.O.P의 소속사 [YG엔터테인먼트](https://ko.wikipedia.org/wiki/YG엔터테인먼트 "wikilink")는 T.O.P의 대마초 흡연 혐의를 시인하였고, T.O.P이 [의경](https://ko.wikipedia.org/wiki/의경 "wikilink")으로 복무하는 동안에 대마초를 흡연한 혐의가 보도되어서 더욱 논란이 되었다.\[51\]
+2017년 6월 1일, T.O.P이 대마초를 흡연한 혐의가 언론에 보도되었다.\[50\] [서울지방경찰청](https://ko.wikipedia.org/wiki/서울지방경찰청 "wikilink") 마약범죄수사대에 따르면 그는 2016년 10월에 자신의 자택에서 가수 연습생 출신의 한서희와 함께 궐련형 2회, 액상형 2회 대마초를 총 네 차례 흡연하였고, 이후 한서희가 경찰에 조사받는 과정에서 T.O.P와 함께 대마초를 흡연한 것을 자백하여 T.O.P이 대마초를 흡연한 사실이 적발되었다.\[51\] 당초 대마가 아닌 전자담배를 피웠다고 주장했던 T.O.P은 모발 검사 결과에서 양성 반응이 나오자 결국 혐의를 인정했다. 이후 경찰은 2017년 4월 T.O.P을 마약류관리법위반 혐의로 불구속 기소의견으로 검찰에 송치하였다.\[52\] 이후 T.O.P의 소속사 [YG엔터테인먼트](https://ko.wikipedia.org/wiki/YG엔터테인먼트 "wikilink")는 T.O.P의 대마초 흡연 혐의를 시인하였고, T.O.P이 [의경](https://ko.wikipedia.org/wiki/의경 "wikilink")으로 복무하는 동안에 대마초를 흡연한 혐의가 보도되어서 더욱 논란이 되었다.\[53\]
 
-[YG엔터테인먼트](https://ko.wikipedia.org/wiki/YG엔터테인먼트 "wikilink")에서는 [빅뱅](https://ko.wikipedia.org/wiki/빅뱅 "wikilink") 리더 [G-Dragon](https://ko.wikipedia.org/wiki/G-Dragon "wikilink")에 이어 두 번째 [대마초](../Page/대마초.md "wikilink") [마약](../Page/마약.md "wikilink") 적발이며, 이 과정에서 T.O.P은 6월 2일 예정보다 빨리 부대로 복귀하였고, 별다른 공식 입장을 밝히지 않았으며 이후 자필로 작성한 사과문을 공개하였다.\[52\]
+[YG엔터테인먼트](https://ko.wikipedia.org/wiki/YG엔터테인먼트 "wikilink")에서는 [빅뱅](https://ko.wikipedia.org/wiki/빅뱅 "wikilink") 리더 [G-Dragon](https://ko.wikipedia.org/wiki/G-Dragon "wikilink")에 이어 두 번째 [대마초](../Page/대마초.md "wikilink") [마약](../Page/마약.md "wikilink") 적발이며, 이 과정에서 T.O.P은 6월 2일 예정보다 빨리 부대로 복귀하였고, 별다른 공식 입장을 밝히지 않았으며 이후 자필로 작성한 사과문을 공개하였다.\[54\]
 
-그러나 T.O.P은 6월 6일 오전 서울 양천구 4기동단 숙소에서 의식 불명인 채로 발견돼 서울 이대 목동병원 중환자실에 입원했다가 극적으로 깨어나 건강을 되찾아 퇴원했다. 경찰 관계자는 "자고 있는 탑을 깨웠는데 일어나지 않아 병원에 후송했다고 한다. 탑이 평소 먹던 신경안정제를 과다 복용한 것 같다"고 전했다.\[53\] 7월 20일 1심에서 징역 10개월에 집행유예 2년을 선고 받았고, 이후 31일 의경 재복무 심사에서 서울지방경찰청 수형자재복무점부심사위원회는 T.O.P의 의경 재복무 가능 여부를 심사, '부적합' 판정을 내린 결과에 따라 의경 신분을 박탈당했다.\[54\] 남은 복무를 용산구청에서 사회복무요원으로 보낸 뒤 2019년 7월 6일에 소집해제되었다.
+그러나 T.O.P은 6월 6일 오전 서울 양천구 4기동단 숙소에서 의식 불명인 채로 발견돼 서울 이대 목동병원 중환자실에 입원했다가 극적으로 깨어나 건강을 되찾아 퇴원했다. 경찰 관계자는 "자고 있는 탑을 깨웠는데 일어나지 않아 병원에 후송했다고 한다. 탑이 평소 먹던 신경안정제를 과다 복용한 것 같다"고 전했다.\[55\] 7월 20일 1심에서 징역 10개월에 집행유예 2년을 선고 받았고, 이후 31일 의경 재복무 심사에서 서울지방경찰청 수형자재복무점부심사위원회는 T.O.P의 의경 재복무 가능 여부를 심사, '부적합' 판정을 내린 결과에 따라 의경 신분을 박탈당했다.\[56\] 남은 복무를 용산구청에서 사회복무요원으로 보낸 뒤 2019년 7월 6일에 소집해제되었다.
 
-그 탓인지 KBS, MBC 출연금지 명단에 올라야 했는데 두 방송사의 프로그램 중에서는 KBS 《[하룻밤만 재워줘](../Page/하룻밤만_재워줘.md "wikilink")》(파일럿)와 MBC 《[무한도전](../Page/무한도전.md "wikilink")》에서 본인의 모습이 모자이크 처리되는 수모를 겪어야 했다.\[55\] 이후 대마초 2회, 대마 액상 2회 등 총 4회에 걸쳐 대마초를 흡연한 혐의로 징역 10개월에 집행유예 2년, 추징금 1만 2000원을 선고받았으나\[56\] 나중에는 MBC에서 해금됐고 T.O.P(최승현)은 [평창올림픽](https://ko.wikipedia.org/wiki/평창올림픽 "wikilink") 폐막식때 불참을 했다.
+그 탓인지 KBS, MBC 출연금지 명단에 올라야 했는데 두 방송사의 프로그램 중에서는 KBS 《[하룻밤만 재워줘](../Page/하룻밤만_재워줘.md "wikilink")》(파일럿)와 MBC 《[무한도전](../Page/무한도전.md "wikilink")》에서 본인의 모습이 모자이크 처리되는 수모를 겪어야 했다.\[57\] 이후 대마초 2회, 대마 액상 2회 등 총 4회에 걸쳐 대마초를 흡연한 혐의로 징역 10개월에 집행유예 2년, 추징금 1만 2000원을 선고받았으나\[58\] 나중에는 MBC에서 해금됐고 T.O.P(최승현)은 [평창올림픽](https://ko.wikipedia.org/wiki/평창올림픽 "wikilink") 폐막식때 불참을 했다.
 
 ## 학력
 
@@ -183,7 +189,7 @@ T.O.P은 빅뱅의 앨범 발매에 따른 활동과 동시에 그의 솔로 활
 <td><p>SK플래닛</p></td>
 <td><p>시럽(Sylup)</p></td>
 <td><p>통합 커머스 브랜드</p></td>
-<td><p>[57]</p></td>
+<td><p>[59]</p></td>
 </tr>
 <tr class="even">
 <td><p>2015년~2016년</p></td>
@@ -218,7 +224,7 @@ T.O.P은 빅뱅의 앨범 발매에 따른 활동과 동시에 그의 솔로 활
   -
   -
   -
-[T.O.P](https://ko.wikipedia.org/wiki/분류:T.O.P "wikilink") [분류:1987년 태어남](https://ko.wikipedia.org/wiki/분류:1987년_태어남 "wikilink") [분류:살아있는 사람](https://ko.wikipedia.org/wiki/분류:살아있는_사람 "wikilink") [분류:빅뱅의 일원](https://ko.wikipedia.org/wiki/분류:빅뱅의_일원 "wikilink") [분류:대한민국의 힙합 음악가](https://ko.wikipedia.org/wiki/분류:대한민국의_힙합_음악가 "wikilink") [분류:YG 엔터테인먼트 소속](https://ko.wikipedia.org/wiki/분류:YG_엔터테인먼트_소속 "wikilink") [분류:2006년 데뷔](https://ko.wikipedia.org/wiki/분류:2006년_데뷔 "wikilink") [분류:대한민국의 방송인](https://ko.wikipedia.org/wiki/분류:대한민국의_방송인 "wikilink") [분류:대한민국의 남자 텔레비전 배우](https://ko.wikipedia.org/wiki/분류:대한민국의_남자_텔레비전_배우 "wikilink") [분류:대한민국의 남자 영화 배우](https://ko.wikipedia.org/wiki/분류:대한민국의_남자_영화_배우 "wikilink") [분류:대한민국의 음악 프로듀서](https://ko.wikipedia.org/wiki/분류:대한민국의_음악_프로듀서 "wikilink") [분류:대한민국의 힙합 프로듀서](https://ko.wikipedia.org/wiki/분류:대한민국의_힙합_프로듀서 "wikilink") [분류:대한민국의 래퍼](https://ko.wikipedia.org/wiki/분류:대한민국의_래퍼 "wikilink") [분류:대한민국의 남자 래퍼](https://ko.wikipedia.org/wiki/분류:대한민국의_남자_래퍼 "wikilink") [분류:서울특별시 출신](https://ko.wikipedia.org/wiki/분류:서울특별시_출신 "wikilink") [분류:단국대학교 동문](https://ko.wikipedia.org/wiki/분류:단국대학교_동문 "wikilink") [분류:청룡영화상 수상자](https://ko.wikipedia.org/wiki/분류:청룡영화상_수상자 "wikilink") [분류:비트박서](https://ko.wikipedia.org/wiki/분류:비트박서 "wikilink") [분류:서울특별시 출신 래퍼](https://ko.wikipedia.org/wiki/분류:서울특별시_출신_래퍼 "wikilink") [분류:대한민국의 마약범](https://ko.wikipedia.org/wiki/분류:대한민국의_마약범 "wikilink") [분류:서울특별시 출신 음악가](https://ko.wikipedia.org/wiki/분류:서울특별시_출신_음악가 "wikilink") [분류:대한민국의 범죄인](https://ko.wikipedia.org/wiki/분류:대한민국의_범죄인 "wikilink")
+[T.O.P](https://ko.wikipedia.org/wiki/분류:T.O.P "wikilink") [분류:1987년 태어남](https://ko.wikipedia.org/wiki/분류:1987년_태어남 "wikilink") [분류:살아있는 사람](https://ko.wikipedia.org/wiki/분류:살아있는_사람 "wikilink") [분류:빅뱅의 일원](https://ko.wikipedia.org/wiki/분류:빅뱅의_일원 "wikilink") [분류:대한민국의 힙합 음악가](https://ko.wikipedia.org/wiki/분류:대한민국의_힙합_음악가 "wikilink") [분류:YG 엔터테인먼트 소속](https://ko.wikipedia.org/wiki/분류:YG_엔터테인먼트_소속 "wikilink") [분류:대한민국의 방송인](https://ko.wikipedia.org/wiki/분류:대한민국의_방송인 "wikilink") [분류:대한민국의 남자 텔레비전 배우](https://ko.wikipedia.org/wiki/분류:대한민국의_남자_텔레비전_배우 "wikilink") [분류:대한민국의 남자 영화 배우](https://ko.wikipedia.org/wiki/분류:대한민국의_남자_영화_배우 "wikilink") [분류:대한민국의 음악 프로듀서](https://ko.wikipedia.org/wiki/분류:대한민국의_음악_프로듀서 "wikilink") [분류:대한민국의 힙합 프로듀서](https://ko.wikipedia.org/wiki/분류:대한민국의_힙합_프로듀서 "wikilink") [분류:대한민국의 래퍼](https://ko.wikipedia.org/wiki/분류:대한민국의_래퍼 "wikilink") [분류:대한민국의 남자 래퍼](https://ko.wikipedia.org/wiki/분류:대한민국의_남자_래퍼 "wikilink") [분류:서울특별시 출신](https://ko.wikipedia.org/wiki/분류:서울특별시_출신 "wikilink") [분류:단국대학교 동문](https://ko.wikipedia.org/wiki/분류:단국대학교_동문 "wikilink") [분류:청룡영화상 수상자](https://ko.wikipedia.org/wiki/분류:청룡영화상_수상자 "wikilink") [분류:비트박서](https://ko.wikipedia.org/wiki/분류:비트박서 "wikilink") [분류:서울특별시 출신 래퍼](https://ko.wikipedia.org/wiki/분류:서울특별시_출신_래퍼 "wikilink") [분류:대한민국의 마약범](https://ko.wikipedia.org/wiki/분류:대한민국의_마약범 "wikilink") [분류:서울특별시 출신 음악가](https://ko.wikipedia.org/wiki/분류:서울특별시_출신_음악가 "wikilink")
 
 1.
 2.
@@ -277,3 +283,5 @@ T.O.P은 빅뱅의 앨범 발매에 따른 활동과 동시에 그의 솔로 활
 55.
 56.
 57.
+58.
+59.

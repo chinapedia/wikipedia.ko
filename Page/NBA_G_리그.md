@@ -385,7 +385,7 @@
 <tr class="odd">
 <td><p><a href="../Page/이리_베이호크스_(2019년).md" title="wikilink">버밍햄 NBA G 리그 팀</a></p></td>
 <td><p><a href="../Page/앨라배마주.md" title="wikilink">앨라배마주</a> <a href="../Page/버밍햄_(앨라배마주).md" title="wikilink">버밍햄</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/레거시_아레나" title="wikilink">레거시 아레나</a></p></td>
+<td><p><a href="../Page/레거시_아레나.md" title="wikilink">레거시 아레나</a></p></td>
 <td><p>17,654명</p></td>
 <td><p>2019년</p></td>
 <td><p>2022년</p></td>

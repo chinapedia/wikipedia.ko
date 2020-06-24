@@ -89,7 +89,7 @@
   -
   -
   -
-[분류:일본의 팝 록 밴드](https://ko.wikipedia.org/wiki/분류:일본의_팝_록_밴드 "wikilink") [분류:혼성 음악 그룹](https://ko.wikipedia.org/wiki/분류:혼성_음악_그룹 "wikilink") [분류:1993년 데뷔](https://ko.wikipedia.org/wiki/분류:1993년_데뷔 "wikilink") [분류:2001년 해체된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2001년_해체된_음악_그룹 "wikilink") [분류:1990년대 음악 그룹](https://ko.wikipedia.org/wiki/분류:1990년대_음악_그룹 "wikilink") [분류:2000년대 음악 그룹](https://ko.wikipedia.org/wiki/분류:2000년대_음악_그룹 "wikilink") [분류:소니 뮤직 엔터테인먼트 (일본)의 음악가](https://ko.wikipedia.org/wiki/분류:소니_뮤직_엔터테인먼트_\(일본\)의_음악가 "wikilink") [분류:NHK 홍백가합전 출연자](https://ko.wikipedia.org/wiki/분류:NHK_홍백가합전_출연자 "wikilink") [분류:1992년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:1992년_결성된_음악_그룹 "wikilink")
+[분류:일본의 팝 록 밴드](https://ko.wikipedia.org/wiki/분류:일본의_팝_록_밴드 "wikilink") [분류:혼성 음악 그룹](https://ko.wikipedia.org/wiki/분류:혼성_음악_그룹 "wikilink") [분류:2001년 해체된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2001년_해체된_음악_그룹 "wikilink") [분류:1990년대 음악 그룹](https://ko.wikipedia.org/wiki/분류:1990년대_음악_그룹 "wikilink") [분류:2000년대 음악 그룹](https://ko.wikipedia.org/wiki/분류:2000년대_음악_그룹 "wikilink") [분류:소니 뮤직 엔터테인먼트 (일본)의 음악가](https://ko.wikipedia.org/wiki/분류:소니_뮤직_엔터테인먼트_\(일본\)의_음악가 "wikilink") [분류:NHK 홍백가합전 출연자](https://ko.wikipedia.org/wiki/분류:NHK_홍백가합전_출연자 "wikilink") [분류:1992년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:1992년_결성된_음악_그룹 "wikilink")
 
 1.
 2.

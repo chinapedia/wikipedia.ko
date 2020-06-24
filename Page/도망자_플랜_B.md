@@ -208,7 +208,6 @@
 ## 외부 링크
 
   -
-  -
 [분류:2010년 드라마](https://ko.wikipedia.org/wiki/분류:2010년_드라마 "wikilink") [분류:한국방송공사 수목드라마](https://ko.wikipedia.org/wiki/분류:한국방송공사_수목드라마 "wikilink") [분류:대한민국의 범죄 드라마](https://ko.wikipedia.org/wiki/분류:대한민국의_범죄_드라마 "wikilink") [분류:2010년대 대한민국의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:2010년대_대한민국의_텔레비전_프로그램 "wikilink") [분류:탐정을 주인공으로 한 작품](https://ko.wikipedia.org/wiki/분류:탐정을_주인공으로_한_작품 "wikilink") [분류:천성일 시나리오 작품](https://ko.wikipedia.org/wiki/분류:천성일_시나리오_작품 "wikilink") [분류:첩보 드라마](https://ko.wikipedia.org/wiki/분류:첩보_드라마 "wikilink")
 
 1.

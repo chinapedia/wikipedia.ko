@@ -27,4 +27,4 @@
 
   - [OFL 전문](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL_web)
 
-[\*](https://ko.wikipedia.org/wiki/분류:오픈_소스_글꼴 "wikilink") [분류:자유 및 오픈 소스 소프트웨어 사용권](https://ko.wikipedia.org/wiki/분류:자유_및_오픈_소스_소프트웨어_사용권 "wikilink")
+[\*](https://ko.wikipedia.org/wiki/분류:오픈_소스_글꼴 "wikilink") [분류:자유 및 오픈 소스 소프트웨어 사용권](https://ko.wikipedia.org/wiki/분류:자유_및_오픈_소스_소프트웨어_사용권 "wikilink") [분류:카피레프트 소프트웨어 사용권](https://ko.wikipedia.org/wiki/분류:카피레프트_소프트웨어_사용권 "wikilink")
