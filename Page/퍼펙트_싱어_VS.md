@@ -226,7 +226,7 @@
 <td><p>16</p></td>
 <td><p>2013년 12월 20일</p></td>
 <td><p><a href="../Page/홍진영.md" title="wikilink">홍진영</a>, <a href="../Page/켄_(가수).md" title="wikilink">켄</a>(<a href="../Page/빅스_(음악_그룹).md" title="wikilink">빅스</a>), <a href="../Page/이종원_(가수).md" title="wikilink">이종원</a>(<a href="../Page/캔_(음악_그룹).md" title="wikilink">캔</a>), <a href="../Page/이정_(가수).md" title="wikilink">이정</a>, <a href="../Page/성진환.md" title="wikilink">성진환</a>(<a href="../Page/스윗_소로우.md" title="wikilink">스윗 소로우</a>)</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/벤" title="wikilink">벤</a>(<a href="https://ko.wikipedia.org/wiki/베베미뇽" title="wikilink">베베미뇽</a>), <a href="https://ko.wikipedia.org/wiki/윤지영" title="wikilink">윤지영</a>, <a href="https://ko.wikipedia.org/wiki/김구현" title="wikilink">김구현</a>, <a href="https://ko.wikipedia.org/wiki/손소연" title="wikilink">손소연</a>, <a href="https://ko.wikipedia.org/wiki/윤성기" title="wikilink">윤성기</a>(<a href="https://ko.wikipedia.org/wiki/휴먼레이스" title="wikilink">휴먼레이스</a>)</p></td>
+<td><p><a href="../Page/벤.md" title="wikilink">벤</a>(<a href="https://ko.wikipedia.org/wiki/베베미뇽" title="wikilink">베베미뇽</a>), <a href="https://ko.wikipedia.org/wiki/윤지영" title="wikilink">윤지영</a>, <a href="https://ko.wikipedia.org/wiki/김구현" title="wikilink">김구현</a>, <a href="https://ko.wikipedia.org/wiki/손소연" title="wikilink">손소연</a>, <a href="https://ko.wikipedia.org/wiki/윤성기" title="wikilink">윤성기</a>(<a href="https://ko.wikipedia.org/wiki/휴먼레이스" title="wikilink">휴먼레이스</a>)</p></td>
 <td><p>가수군단</p></td>
 <td><p><a href="../Page/홍진영.md" title="wikilink">홍진영</a></p></td>
 </tr>
@@ -423,13 +423,13 @@
 
 ## TOP5 점수
 
-| 순위 | 이름                                                                                                     | 회   | 방영 일자         | 노래            | 점수     |
-| -- | ------------------------------------------------------------------------------------------------------ | --- | ------------- | ------------- | ------ |
-| 1  | [벤](https://ko.wikipedia.org/wiki/벤 "wikilink")([베베미뇽](https://ko.wikipedia.org/wiki/베베미뇽 "wikilink")) | 16회 | 2013년 12월 20일 | 이선희-인연        | 98.548 |
-| 2  | [장우람](https://ko.wikipedia.org/wiki/장우람 "wikilink")                                                    | 23회 | 2014년 02월 07일 | 김연우-여전히 아름다운지 | 98.049 |
-| 3  | [홍진영](../Page/홍진영.md "wikilink")                                                                       | 16회 | 2013년 12월 20일 | 이선희-인연        | 97.337 |
-| 4  | [유성은](../Page/유성은.md "wikilink")                                                                       | 23회 | 2014년 02월 07일 | 김연우-여전히 아름다운지 | 97.310 |
-| 5  | [이세준](../Page/이세준.md "wikilink")([유리상자](../Page/유리상자.md "wikilink"))                                   | 8회  | 2013년 10월 18일 | 서지원-내 눈물 모아   | 97.209 |
+| 순위 | 이름                                                                                  | 회   | 방영 일자         | 노래            | 점수     |
+| -- | ----------------------------------------------------------------------------------- | --- | ------------- | ------------- | ------ |
+| 1  | [벤](../Page/벤.md "wikilink")([베베미뇽](https://ko.wikipedia.org/wiki/베베미뇽 "wikilink")) | 16회 | 2013년 12월 20일 | 이선희-인연        | 98.548 |
+| 2  | [장우람](https://ko.wikipedia.org/wiki/장우람 "wikilink")                                 | 23회 | 2014년 02월 07일 | 김연우-여전히 아름다운지 | 98.049 |
+| 3  | [홍진영](../Page/홍진영.md "wikilink")                                                    | 16회 | 2013년 12월 20일 | 이선희-인연        | 97.337 |
+| 4  | [유성은](../Page/유성은.md "wikilink")                                                    | 23회 | 2014년 02월 07일 | 김연우-여전히 아름다운지 | 97.310 |
+| 5  | [이세준](../Page/이세준.md "wikilink")([유리상자](../Page/유리상자.md "wikilink"))                | 8회  | 2013년 10월 18일 | 서지원-내 눈물 모아   | 97.209 |
 
 ## 표절
 

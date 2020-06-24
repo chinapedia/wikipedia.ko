@@ -1252,7 +1252,7 @@
 </tr>
 <tr class="even">
 <td><p>5월</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/다카하시_슈헤이" title="wikilink">다카하시 슈헤이</a></p></td>
+<td><p><a href="../Page/다카하시_슈헤이.md" title="wikilink">다카하시 슈헤이</a></p></td>
 <td><p>주니치</p></td>
 <td><p><a href="../Page/이마나가_쇼타.md" title="wikilink">이마나가 쇼타</a></p></td>
 </tr>

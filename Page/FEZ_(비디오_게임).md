@@ -5,7 +5,7 @@
 
 ## 게임 플레이
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:Fez_\(video_game\)_screenshot_04.png "wikilink") FEZ는 [16비트](../Page/16비트.md "wikilink") 도트 스타일의 [횡 스크롤 게임의](https://ko.wikipedia.org/wiki/:en:Side-scrolling_video_game "wikilink") 탈을 쓰고 있지만 사실은 3D 게임이다.\[2\] 왼쪽, 오른쪽으로 보는 방향을 조절하는 방식으로 플레이하며 한쪽 방향으로만 봤을 때는 보이지 않는 길을 찾아내거나 혹은 원근법을 무시한 채 보이는 방향 그대로가 하나의 길이 되는 방식으로 게임 플레이가 진행된다. 게임의 엔진인 Trixel은 3D를 2D처럼 보이게 하기 위해 [원근법](https://ko.wikipedia.org/wiki/원근법 "wikilink")과 소실점이 존재하지 않게끔 설계되었다. 안내인 역할을 하는 게임의 캐릭터 '도트'가 게임 진행 방법을 알려주거나 힌트를 주기도 한다. 엔딩 후에는 1인칭 시점으로 보는 기능이 추가된다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:Fez_\(video_game\)_screenshot_04.png "wikilink") FEZ는 [16비트](../Page/16비트.md "wikilink") 도트 스타일의 [횡 스크롤 게임의](https://ko.wikipedia.org/wiki/:en:Side-scrolling_video_game "wikilink") 탈을 쓰고 있지만 사실은 3D 게임이다.\[2\] 왼쪽, 오른쪽으로 보는 방향을 조절하는 방식으로 플레이하며 한쪽 방향으로만 봤을 때는 보이지 않는 길을 찾아내거나 혹은 원근법을 무시한 채 보이는 방향 그대로가 하나의 길이 되는 방식으로 게임 플레이가 진행된다. 게임의 엔진인 Trixel은 3D를 2D처럼 보이게 하기 위해 [원근법](../Page/원근법.md "wikilink")과 소실점이 존재하지 않게끔 설계되었다. 안내인 역할을 하는 게임의 캐릭터 '도트'가 게임 진행 방법을 알려주거나 힌트를 주기도 한다. 엔딩 후에는 1인칭 시점으로 보는 기능이 추가된다.
 
 ## 스토리
 

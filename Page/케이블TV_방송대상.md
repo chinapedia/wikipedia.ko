@@ -200,7 +200,7 @@ GO! 슈퍼코리안2 (CJ미디어(현 <a href="../Page/CJ_ENM.md" title="wikilin
 <a href="../Page/동호_(가수).md" title="wikilink">신동호</a> (아이돌! 막내 반란시대/E!TV)<br />
 <a href="../Page/김석류.md" title="wikilink">김석류</a> (아이러브 베이스볼/KBS N)<br />
 임종주 기자 (YTN)<br />
-<a href="https://ko.wikipedia.org/wiki/류은지" title="wikilink">류은지</a> 기자 (CJ헬로비전 북인천방송)<br />
+<a href="../Page/류은지.md" title="wikilink">류은지</a> 기자 (CJ헬로비전 북인천방송)<br />
 이종원 기자 (큐릭스)</p></td>
 </tr>
 <tr class="even">

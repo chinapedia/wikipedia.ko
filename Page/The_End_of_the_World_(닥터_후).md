@@ -3,7 +3,7 @@
 
 "**The End of the World**" ([KBS](https://ko.wikipedia.org/wiki/KBS "wikilink") 방영 제목 : <첫 번째 시간여행>)은 영국의 [텔레비전 공상과학 드라마](https://ko.wikipedia.org/wiki/공상과학_드라마 "wikilink") 《[닥터 후](../Page/닥터_후.md "wikilink")》 [첫번째 시리즈의](../Page/닥터_후_\(시리즈_1\).md "wikilink") 두번째 에피소드이다. 각본은 총제작자인 [러셀 T 데이비스](../Page/러셀_T_데이비스.md "wikilink"), 감독은 [에이러스 린이](../Page/에이러스_린.md "wikilink") 맡았으며 영국에서 [2005년](../Page/2005년.md "wikilink") [4월 2일에](../Page/4월_2일.md "wikilink") 처음으로 방영되었다.
 
-에피소드에서는 외계 시간여행자인 [닥터](../Page/9대_닥터.md "wikilink") ([크리스토퍼 에클스턴](../Page/크리스토퍼_에클스턴.md "wikilink"))이 새로운 [동행자](../Page/동행자_\(닥터_후\).md "wikilink") [로즈 타일러](../Page/로즈_타일러.md "wikilink") ([빌리 파이퍼](https://ko.wikipedia.org/wiki/빌리_파이퍼 "wikilink"))를 [타디스](https://ko.wikipedia.org/wiki/타디스 "wikilink")를 이용한 첫번째 시공간 여행으로 5,000,000년에 데려간다. 그곳에서는 여러 부자 외계인 대표들이 태양이 폭발하고 지구를 파괴하는 것을 지켜보기 위해 플랫폼 원이라 부르는 한 우주 정거장에 모이지만, 이 손님들 중 한 명이 나머지 모두를 죽여서 사고로 이득을 챙기려는 음모를 꾸미고 있었다.
+에피소드에서는 외계 시간여행자인 [닥터](../Page/9대_닥터.md "wikilink") ([크리스토퍼 에클스턴](../Page/크리스토퍼_에클스턴.md "wikilink"))이 새로운 [동행자](../Page/동행자_\(닥터_후\).md "wikilink") [로즈 타일러](../Page/로즈_타일러.md "wikilink") ([빌리 파이퍼](../Page/빌리_파이퍼.md "wikilink"))를 [타디스](https://ko.wikipedia.org/wiki/타디스 "wikilink")를 이용한 첫번째 시공간 여행으로 5,000,000년에 데려간다. 그곳에서는 여러 부자 외계인 대표들이 태양이 폭발하고 지구를 파괴하는 것을 지켜보기 위해 플랫폼 원이라 부르는 한 우주 정거장에 모이지만, 이 손님들 중 한 명이 나머지 모두를 죽여서 사고로 이득을 챙기려는 음모를 꾸미고 있었다.
 
 이 에피소드에서는 [카산드라와](https://ko.wikipedia.org/wiki/카산드라_\(닥터_후\) "wikilink") [보의 얼굴이](https://ko.wikipedia.org/wiki/보의_얼굴 "wikilink") 처음으로 등장한다. 영국에서 첫 방영시 797만 명이 이 에피소드를 시청했다.
 

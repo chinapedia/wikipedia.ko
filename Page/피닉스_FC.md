@@ -40,4 +40,4 @@
 </tbody>
 </table>
 
-[분류:미국의 축구단](https://ko.wikipedia.org/wiki/분류:미국의_축구단 "wikilink") [분류:2012년 설립된 축구단](https://ko.wikipedia.org/wiki/분류:2012년_설립된_축구단 "wikilink") [분류:2014년 폐지](https://ko.wikipedia.org/wiki/분류:2014년_폐지 "wikilink")
+[분류:미국의 축구단](https://ko.wikipedia.org/wiki/분류:미국의_축구단 "wikilink") [분류:2012년 설립된 축구단](https://ko.wikipedia.org/wiki/분류:2012년_설립된_축구단 "wikilink") [분류:2014년 폐지](https://ko.wikipedia.org/wiki/분류:2014년_폐지 "wikilink") [분류:애리조나주의 축구단](https://ko.wikipedia.org/wiki/분류:애리조나주의_축구단 "wikilink")

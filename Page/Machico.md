@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Machico](https://ko.wikipedia.org/wiki/Machico).
 
 
-**Machico**(마치코, [1992년](../Page/1992년.md "wikilink") [3월 25일](../Page/3월_25일.md "wikilink")\[1\] - )는 [일본](../Page/일본.md "wikilink")의 [여성 가수](https://ko.wikipedia.org/wiki/가수 "wikilink"), [성우](../Page/성우.md "wikilink")이다. [호리프로](../Page/호리프로.md "wikilink") 소속\[2\]. [히로시마현](../Page/히로시마현.md "wikilink") [구레 시](https://ko.wikipedia.org/wiki/구레_시 "wikilink") 출신\[3\]. 본명은 **사이토 마치코**(齊藤 真知子)\[4\]. 소속 레이블은 [NBC유니버설 엔터테인먼트 재팬](../Page/NBC유니버설_엔터테인먼트_재팬.md "wikilink").
+**Machico**(마치코, [1992년](../Page/1992년.md "wikilink") [3월 25일](../Page/3월_25일.md "wikilink")\[1\] - )는 [일본](../Page/일본.md "wikilink")의 [여성 가수](https://ko.wikipedia.org/wiki/가수 "wikilink"), [성우](../Page/성우.md "wikilink")이다. [호리프로](../Page/호리프로.md "wikilink") 소속\[2\]. [히로시마현](../Page/히로시마현.md "wikilink") [구레시](../Page/구레시.md "wikilink") 출신\[3\]. 본명은 **사이토 마치코**(齊藤 真知子)\[4\]. 소속 레이블은 [NBC유니버설 엔터테인먼트 재팬](../Page/NBC유니버설_엔터테인먼트_재팬.md "wikilink").
 
 ## 내력
 

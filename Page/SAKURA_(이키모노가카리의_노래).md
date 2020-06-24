@@ -5,7 +5,7 @@
 
 ## 개요
 
-이번 발매에 맞춰서 그 지역의 [아쓰기 시나](https://ko.wikipedia.org/wiki/아쓰기_시 "wikilink") [에비나 시의](https://ko.wikipedia.org/wiki/에비나_시 "wikilink") 특정 CD 샵에서는, CD 구입 특전으로 판촉용 스탬프가 부속되어서 오거나, 구입자 대상으로 “이키모노가카리의 응원증”으로 칭하는 특제 회원증 같은 것이 배포됐다.
+이번 발매에 맞춰서 그 지역의 [아쓰기시](../Page/아쓰기시.md "wikilink")나 [에비나시](../Page/에비나시.md "wikilink")의 특정 CD 샵에서는, CD 구입 특전으로 판촉용 스탬프가 부속되어서 오거나, 구입자 대상으로 “이키모노가카리의 응원증”으로 칭하는 특제 회원증 같은 것이 배포됐다.
 
 데뷔작이면서 오리콘 차트에서는 31주 동안 체크인하는 롱셀러가 되며, 이키모노가카리의 싱글로는 〈[고마워](https://ko.wikipedia.org/wiki/아리가토_\(이키모노가카리의_노래\) "wikilink")〉〈[YELL/조이풀](https://ko.wikipedia.org/wiki/YELL/조이풀 "wikilink")〉에 이어서 차트인 수가 많은 작품이다.
 

@@ -35,6 +35,20 @@
   - 1998년 10월 31일 - 8시부터 제 31회 [AFC U-19 축구 선수권 대회](../Page/AFC_U-19_축구_선수권_대회.md "wikilink") 결승 \<[한국](../Page/한국.md "wikilink") VS [일본](../Page/일본.md "wikilink")\> 중계가 편성되어 [사랑과 성공이](../Page/사랑과_성공.md "wikilink") 7시로 옮겨갔으며 이 때문에 결방
   - 1999년 1월 2일 - 신년기획특집 \<세계경제 대탐험 - 이탈리아\> 편성으로 결방
 
+## 타이틀 변천사
+
+| 타이틀                                                               | 방송 기간                         |
+| ----------------------------------------------------------------- | ----------------------------- |
+| [그랜드 쇼](https://ko.wikipedia.org/wiki/그랜드_쇼_\(MBC\) "wikilink")   | 1969년 8월 16일 \~ 1974년 2월 16일  |
+| [토요일 토요일 밤에](https://ko.wikipedia.org/wiki/토요일_토요일_밤에 "wikilink") | 1974년 2월 23일 \~ 1981년 3월 14일  |
+| [쇼2000](https://ko.wikipedia.org/wiki/쇼2000 "wikilink")           | 1981년 3월 21일 \~ 1985년 6월 9일   |
+| [토요일\! 토요일은 즐거워](../Page/토요일!_토요일은_즐거워.md "wikilink")             | 1985년 6월 16일 \~ 1997년 3월 1일   |
+| [쇼 토요특급](../Page/쇼_토요특급_\(MBC\).md "wikilink")                    | 1997년 3월 8일 \~ 1999년 1월 23일   |
+| [목표달성 토요일](https://ko.wikipedia.org/wiki/목표달성_토요일 "wikilink")     | 2000년 2월 26일 \~ 2002년 10월 19일 |
+| [토요일](https://ko.wikipedia.org/wiki/토요일_\(예능_프로그램\) "wikilink")   | 2005년 4월 23일 \~ 2005년 10월 22일 |
+| [강력추천 토요일](https://ko.wikipedia.org/wiki/강력추천_토요일 "wikilink")     | 2005년 10월 29일 \~ 2006년 4월 29일 |
+|                                                                   |                               |
+
 ## 각주
 
 [분류:대한민국의 음악 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:대한민국의_음악_텔레비전_프로그램 "wikilink") [분류:문화방송의 예능 프로그램](https://ko.wikipedia.org/wiki/분류:문화방송의_예능_프로그램 "wikilink") [분류:1997년에 시작한 대한민국 TV 프로그램](https://ko.wikipedia.org/wiki/분류:1997년에_시작한_대한민국_TV_프로그램 "wikilink") [분류:1999년에 종료한 대한민국 TV 프로그램](https://ko.wikipedia.org/wiki/분류:1999년에_종료한_대한민국_TV_프로그램 "wikilink")

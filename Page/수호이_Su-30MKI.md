@@ -23,4 +23,4 @@
 
 ## 각주
 
-[분류:전투기](https://ko.wikipedia.org/wiki/분류:전투기 "wikilink")
+[분류:전투기](https://ko.wikipedia.org/wiki/분류:전투기 "wikilink") [분류:선미익기](https://ko.wikipedia.org/wiki/분류:선미익기 "wikilink")

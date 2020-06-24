@@ -48,4 +48,4 @@
 
 <references/>
 
-[분류:2016년 데뷔](https://ko.wikipedia.org/wiki/분류:2016년_데뷔 "wikilink") [분류:2016년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2016년_결성된_음악_그룹 "wikilink") [분류:YG 엔터테인먼트 소속](https://ko.wikipedia.org/wiki/분류:YG_엔터테인먼트_소속 "wikilink") [분류:남성 듀오](https://ko.wikipedia.org/wiki/분류:남성_듀오 "wikilink") [분류:유닛 음악 그룹](https://ko.wikipedia.org/wiki/분류:유닛_음악_그룹 "wikilink") [분류:2인조 음악 그룹](https://ko.wikipedia.org/wiki/분류:2인조_음악_그룹 "wikilink") [분류:대한민국의 힙합 그룹](https://ko.wikipedia.org/wiki/분류:대한민국의_힙합_그룹 "wikilink")
+[분류:2016년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2016년_결성된_음악_그룹 "wikilink") [분류:YG 엔터테인먼트 소속](https://ko.wikipedia.org/wiki/분류:YG_엔터테인먼트_소속 "wikilink") [분류:남성 듀오](https://ko.wikipedia.org/wiki/분류:남성_듀오 "wikilink") [분류:유닛 음악 그룹](https://ko.wikipedia.org/wiki/분류:유닛_음악_그룹 "wikilink") [분류:2인조 음악 그룹](https://ko.wikipedia.org/wiki/분류:2인조_음악_그룹 "wikilink") [분류:대한민국의 힙합 그룹](https://ko.wikipedia.org/wiki/분류:대한민국의_힙합_그룹 "wikilink")

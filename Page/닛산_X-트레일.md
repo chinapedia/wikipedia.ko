@@ -7,7 +7,7 @@
 
 ## 1세대(T30)
 
-[right](https://ko.wikipedia.org/wiki/파일:2003_Nissan_X-Trail_\(T30\)_ST_wagon_\(2009-01-01\)_01.jpg "wikilink") [right](https://ko.wikipedia.org/wiki/파일:2003_Nissan_X-Trail_\(T30\)_ST_wagon_\(2009-01-01\)_02.jpg "wikilink")
+[오른쪽](https://ko.wikipedia.org/wiki/파일:2003_Nissan_X-Trail_\(T30\)_ST_wagon_\(2009-01-01\)_01.jpg "wikilink") [오른쪽](https://ko.wikipedia.org/wiki/파일:2003_Nissan_X-Trail_\(T30\)_ST_wagon_\(2009-01-01\)_02.jpg "wikilink")
 
 [2000년](../Page/2000년.md "wikilink") [11월 13일에](../Page/11월_13일.md "wikilink") 시판되었다. 4명이 편안하게 탈 수 있는 200만 엔의 [4륜구동](../Page/4륜구동.md "wikilink")이라는 컨셉트로 출시되었다. 세계 167개국에서 80만 대 이상이 판매되었으며, [토요타 RAV4와](../Page/토요타_RAV4.md "wikilink") [혼다 CR-V에](../Page/혼다_CR-V.md "wikilink") 대항하는 세계 전략 차종이다. 경쟁 차종들이 온로드 지향의 고급화로 거듭나는 동안에도 투박하면서 직선에 가까운 각진 디자인 험로 주파성 등에 중점을 두어 오프로드 지향의 캐릭터를 유지하고 있다. [일본](../Page/일본.md "wikilink")에서는 I4 2.0ℓ QR20DE 가솔린 엔진과 I4 2.0ℓ SR20VET 가솔린 터보 엔진이 적용되었으나, [오스트레일리아](../Page/오스트레일리아.md "wikilink")와 [중동](../Page/중동.md "wikilink") 등에서는 I4 2.5ℓ QR25DE 가솔린 엔진도 적용되었다.
 
@@ -17,7 +17,7 @@
 
 ## 2세대(T31)
 
-[right](https://ko.wikipedia.org/wiki/파일:2007-2009_Nissan_X-Trail_\(T31\)_Ti_wagon_\(2015-11-07\)_01.jpg "wikilink") [right](https://ko.wikipedia.org/wiki/파일:2007-2009_Nissan_X-Trail_\(T31\)_Ti_wagon_\(2015-11-07\)_02.jpg "wikilink")
+[오른쪽](https://ko.wikipedia.org/wiki/파일:2007-2009_Nissan_X-Trail_\(T31\)_Ti_wagon_\(2015-11-07\)_01.jpg "wikilink") [오른쪽](https://ko.wikipedia.org/wiki/파일:2007-2009_Nissan_X-Trail_\(T31\)_Ti_wagon_\(2015-11-07\)_02.jpg "wikilink")
 
 [2007년](../Page/2007년.md "wikilink") [8월 22일에](../Page/8월_22일.md "wikilink") 시판되었다. 1세대의 높은 인기로 인하여 기본적인 디자인은 유지한 키프 컨셉트가 반영되었다. I4 2.0ℓ MR20DE 가솔린 엔진과 I4 2.5ℓ QR25DE 가솔린 엔진이 적용되었다. 1세대의 중앙에 위치한 계기판은 2세대부터 운전대 뒤에 위치한 일반적인 형태로 바뀌었다. 1세대에 적용된 수지제 펜더는 생산성 향상을 위하여 폐지되었다. [2008년 9월부터는](../Page/2008년_9월.md "wikilink") [일본](../Page/일본.md "wikilink")에서 I4 2.0ℓ M9R 디젤 엔진이 추가되었는데, 유로 4 기준을 충족시키는 것은 물론 [2009년 10월에](../Page/2009년_10월.md "wikilink") [일본](../Page/일본.md "wikilink")에 도입되는 배기 가스 규제인 포스트 신장기 규제에도 앞당겨 대응하였다.
 
@@ -29,7 +29,7 @@
 
 [2013년](../Page/2013년.md "wikilink") [12월 16일에](../Page/12월_16일.md "wikilink") 시판되었다. [르노](../Page/르노.md "wikilink")와 공동으로 개발한 CMF 플랫폼이 적용된 첫 번째 차종이다. 터프한 크로스 오버 [SUV의](../Page/스포츠_유틸리티_자동차.md "wikilink") 이미지는 그대로 유지하되 온로드 지향으로 바뀐 컨셉트로 인하여 2세대까지 이어지던 디자인의 공통점은 없어졌다. [닛산 자동차의](../Page/닛산_자동차.md "wikilink") 새 패밀리 룩이 반영되어 V 모션 라디에이터 그릴과 부메랑 형태의 헤드 램프로 완성되었다. 역대 X-트레일 모델 중 처음으로 3열 시트를 갖춘 7인승도 선보였다. [북아메리카](../Page/북아메리카.md "wikilink")에서 판매되는 [로그와](../Page/닛산_로그.md "wikilink") 통합되었다. 2017년에 페이스리프트를 거쳤으며, 2019년 1월에 2.5리터 가솔린 엔진과 CVT를 탑재한 사양이 대한민국에 출시되었다.
 
-[right](https://ko.wikipedia.org/wiki/파일:2014_Nissan_X-Trail_\(T32\)_ST_2WD_wagon_\(2015-08-07\)_01.jpg "wikilink") [right](https://ko.wikipedia.org/wiki/파일:2014_Nissan_X-Trail_\(T32\)_ST_2WD_wagon_\(2015-08-07\)_02.jpg "wikilink")
+[오른쪽](https://ko.wikipedia.org/wiki/파일:2014_Nissan_X-Trail_\(T32\)_ST_2WD_wagon_\(2015-08-07\)_01.jpg "wikilink") [오른쪽](https://ko.wikipedia.org/wiki/파일:2014_Nissan_X-Trail_\(T32\)_ST_2WD_wagon_\(2015-08-07\)_02.jpg "wikilink")
 
 {{-}}
 

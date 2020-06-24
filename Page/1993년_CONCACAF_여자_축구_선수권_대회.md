@@ -100,4 +100,4 @@
 </tbody>
 </table>
 
-[분류:CONCACAF 여자 축구 선수권 대회](https://ko.wikipedia.org/wiki/분류:CONCACAF_여자_축구_선수권_대회 "wikilink") [분류:1993년 여자 축구](https://ko.wikipedia.org/wiki/분류:1993년_여자_축구 "wikilink") [분류:미국에서 개최된 축구 대회](https://ko.wikipedia.org/wiki/분류:미국에서_개최된_축구_대회 "wikilink") [분류:1993년 7월](https://ko.wikipedia.org/wiki/분류:1993년_7월 "wikilink") [분류:1993년 미국](https://ko.wikipedia.org/wiki/분류:1993년_미국 "wikilink")
+[분류:CONCACAF 여자 축구 선수권 대회](https://ko.wikipedia.org/wiki/분류:CONCACAF_여자_축구_선수권_대회 "wikilink") [분류:1993년 여자 축구](https://ko.wikipedia.org/wiki/분류:1993년_여자_축구 "wikilink") [분류:미국에서 개최된 축구 대회](https://ko.wikipedia.org/wiki/분류:미국에서_개최된_축구_대회 "wikilink") [분류:1993년 7월](https://ko.wikipedia.org/wiki/분류:1993년_7월 "wikilink") [분류:1993년 미국](https://ko.wikipedia.org/wiki/분류:1993년_미국 "wikilink") [분류:뉴욕주의 축구](https://ko.wikipedia.org/wiki/분류:뉴욕주의_축구 "wikilink")

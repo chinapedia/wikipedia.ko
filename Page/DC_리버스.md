@@ -45,7 +45,7 @@ DC가 2016년 [원더콘](https://ko.wikipedia.org/wiki/원더콘 "wikilink")에
 <strong>그림</strong><br />
 <a href="../Page/에디_배로스.md" title="wikilink">에디 배로스</a><br />
 알바로 마르티네스</p></td>
-<td style="text-align: center;"><p><a href="../Page/배트맨.md" title="wikilink">배트맨</a>과 <a href="https://ko.wikipedia.org/wiki/배트우먼" title="wikilink">배트우먼</a>을 리더로 <a href="https://ko.wikipedia.org/wiki/팀_드레이크" title="wikilink">팀 드레이크</a>, <a href="https://ko.wikipedia.org/wiki/스테퍼니_브라운" title="wikilink">스테퍼니 브라운</a>, <a href="https://ko.wikipedia.org/wiki/커샌드라_케인" title="wikilink">커샌드라 케인</a>, <a href="https://ko.wikipedia.org/wiki/클레이페이스" title="wikilink">클레이페이스</a>로 구성된 팀이 등장. 월 2회 연재로 시작.</p></td>
+<td style="text-align: center;"><p><a href="../Page/배트맨.md" title="wikilink">배트맨</a>과 <a href="../Page/배트우먼.md" title="wikilink">배트우먼</a>을 리더로 <a href="https://ko.wikipedia.org/wiki/팀_드레이크" title="wikilink">팀 드레이크</a>, <a href="https://ko.wikipedia.org/wiki/스테퍼니_브라운" title="wikilink">스테퍼니 브라운</a>, <a href="https://ko.wikipedia.org/wiki/커샌드라_케인" title="wikilink">커샌드라 케인</a>, <a href="https://ko.wikipedia.org/wiki/클레이페이스" title="wikilink">클레이페이스</a>로 구성된 팀이 등장. 월 2회 연재로 시작.</p></td>
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p>《<a href="../Page/배트걸.md" title="wikilink">배트걸</a>》</p></td>

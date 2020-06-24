@@ -105,7 +105,7 @@ TFBOYS는 데뷔 당시 팬 수가 약 4,000만명이였으며 현재 팬 수는
   - [易烊千玺 웨이보](http://weibo.com/tfyiyangqianxi/)
   - [易烊千玺 Ins](https://www.instagram.com/__4444x__/)
 
-[분류:2013년 데뷔](https://ko.wikipedia.org/wiki/분류:2013년_데뷔 "wikilink") [분류:중국의 보이 밴드](https://ko.wikipedia.org/wiki/분류:중국의_보이_밴드 "wikilink") [분류:중국어 음악 그룹](https://ko.wikipedia.org/wiki/분류:중국어_음악_그룹 "wikilink") [분류:2013년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2013년_결성된_음악_그룹 "wikilink")
+[분류:중국의 보이 밴드](https://ko.wikipedia.org/wiki/분류:중국의_보이_밴드 "wikilink") [분류:중국어 음악 그룹](https://ko.wikipedia.org/wiki/분류:중국어_음악_그룹 "wikilink") [분류:2013년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2013년_결성된_음악_그룹 "wikilink")
 
 1.
 2.

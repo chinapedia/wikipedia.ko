@@ -76,6 +76,14 @@ MNL48 캡틴</p></td>
 <td><p>1위(연)</p></td>
 </tr>
 <tr class="even">
+<td><p>GIA</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/Guinevere_Pahilanga_Muse" title="wikilink">Guinevere Pahilanga Muse</a></p></td>
+<td></td>
+<td><p>1기</p></td>
+<td></td>
+<td><p>28위</p></td>
+</tr>
+<tr class="odd">
 <td><p>JAMIE</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/Maria_Jamie_Beatrice_Gallardo_Alberto" title="wikilink">Maria Jamie Beatrice Gallardo Alberto</a></p></td>
 <td></td>
@@ -83,7 +91,7 @@ MNL48 캡틴</p></td>
 <td></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>JAN</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/Cristine_Jan_Roque_Elaurza" title="wikilink">Cristine Jan Roque Elaurza</a></p></td>
 <td></td>
@@ -91,7 +99,7 @@ MNL48 캡틴</p></td>
 <td></td>
 <td><p>24위</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>KLAIRE</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/Klaire_Hugh_Presno" title="wikilink">Klaire Hugh Presno</a></p></td>
 <td></td>
@@ -99,7 +107,7 @@ MNL48 캡틴</p></td>
 <td></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>NICE</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/Eunys_Mantes_Abad" title="wikilink">Eunys Mantes Abad</a></p></td>
 <td></td>
@@ -107,7 +115,7 @@ MNL48 캡틴</p></td>
 <td></td>
 <td><p>19위</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>LANEY</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/Lorelaine_Delos_reyes_Sañosa" title="wikilink">Lorelaine Delos reyes Sañosa</a></p></td>
 <td></td>
@@ -115,7 +123,7 @@ MNL48 캡틴</p></td>
 <td></td>
 <td><p>20위(연)</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>PRINCESS</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/Princess_Rius_Briquillo" title="wikilink">Princess Rius Briquillo</a></p></td>
 <td></td>
@@ -123,13 +131,21 @@ MNL48 캡틴</p></td>
 <td></td>
 <td><p>46위</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>RANS</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/Francinne_Roy_Rifol" title="wikilink">Francinne Roy Rifol</a></p></td>
 <td></td>
 <td><p>1기</p></td>
 <td></td>
 <td><p>17위(연)</p></td>
+</tr>
+<tr class="even">
+<td><p>SAM</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/Christina_Samantha_Cortan_Tagana" title="wikilink">Christina Samantha Cortan Tagana</a></p></td>
+<td></td>
+<td><p>2기</p></td>
+<td></td>
+<td><p>-</p></td>
 </tr>
 <tr class="odd">
 <td><p>SHAIRA</p></td>
@@ -278,6 +294,14 @@ MNL48 캡틴</p></td>
 <td><p>20위</p></td>
 </tr>
 <tr class="odd">
+<td><p>KARLA</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/Ruth_Carla_Mariano_Dela_Paz" title="wikilink">Ruth Carla Mariano Dela Paz</a></p></td>
+<td></td>
+<td><p>1기</p></td>
+<td></td>
+<td><p>19위(연)</p></td>
+</tr>
+<tr class="even">
 <td><p>LARA</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/Lara_Mae_Agan_Layar" title="wikilink">Lara Mae Agan Layar</a></p></td>
 <td></td>
@@ -285,7 +309,7 @@ MNL48 캡틴</p></td>
 <td></td>
 <td><p>14위</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>MIHO</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/Miho_De_Jesus_Hoshino" title="wikilink">Miho De Jesus Hoshino</a></p></td>
 <td></td>
@@ -293,7 +317,7 @@ MNL48 캡틴</p></td>
 <td></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>ROWEE</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/Loulle_Angelyn_Maagad_Villaflores" title="wikilink">Loulle Angelyn Maagad Villaflores</a></p></td>
 <td></td>
@@ -301,7 +325,7 @@ MNL48 캡틴</p></td>
 <td></td>
 <td><p>4위(연)</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>RUTH</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/Ruth_Alterado_Lingat" title="wikilink">Ruth Alterado Lingat</a></p></td>
 <td></td>
@@ -309,7 +333,7 @@ MNL48 캡틴</p></td>
 <td></td>
 <td><p>35위</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -483,46 +507,22 @@ MNL48 캡틴</p></td>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>GIA</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/Guinevere_Pahilanga_Muse" title="wikilink">Guinevere Pahilanga Muse</a></p></td>
-<td></td>
-<td><p>1기</p></td>
-<td></td>
-<td><p>28위</p></td>
-</tr>
-<tr class="even">
-<td><p>KARLA</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/Ruth_Carla_Mariano_Dela_Paz" title="wikilink">Ruth Carla Mariano Dela Paz</a></p></td>
-<td></td>
-<td><p>1기</p></td>
-<td></td>
-<td><p>19위(연)</p></td>
-</tr>
-<tr class="odd">
 <td><p>NILE</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/Anne_Nicole_Cortado_Casitas" title="wikilink">Anne Nicole Cortado Casitas</a></p></td>
 <td></td>
 <td><p>2기</p></td>
-<td></td>
+<td><p>2기생 후보자</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p>SAM</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/Christina_Samantha_Cortan_Tagana" title="wikilink">Christina Samantha Cortan Tagana</a></p></td>
-<td></td>
-<td><p>2기</p></td>
-<td></td>
-<td><p>-</p></td>
-</tr>
-<tr class="odd">
 <td><p>TRISH</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/Trisha_Branggan_Labrador" title="wikilink">Trisha Branggan Labrador</a></p></td>
 <td></td>
 <td><p>2기</p></td>
-<td></td>
+<td><p>2기생 후보자</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -1019,8 +1019,8 @@ MNL48 캡틴</p></td>
   - [AKB48 Team SH](../Page/AKB48_Team_SH.md "wikilink")
   - [AKB48 Team TP](../Page/AKB48_Team_TP.md "wikilink")
   - [SGO48](../Page/SGO48.md "wikilink")
-  - [CGM48](https://ko.wikipedia.org/wiki/CGM48 "wikilink")
-  - [DEL48](https://ko.wikipedia.org/wiki/DEL48 "wikilink")
+  - [CGM48](../Page/CGM48.md "wikilink")
+  - [DEL48](../Page/DEL48.md "wikilink")
   - [MUB48](../Page/MUB48.md "wikilink")
 
 ## 각주
@@ -1033,7 +1033,7 @@ MNL48 캡틴</p></td>
 
   -
 
-[\*](https://ko.wikipedia.org/wiki/분류:MNL48 "wikilink") [분류:필리핀의 음악 그룹](https://ko.wikipedia.org/wiki/분류:필리핀의_음악_그룹 "wikilink") [분류:필리핀의 걸 그룹](https://ko.wikipedia.org/wiki/분류:필리핀의_걸_그룹 "wikilink") [분류:10인조 이상 음악 그룹](https://ko.wikipedia.org/wiki/분류:10인조_이상_음악_그룹 "wikilink") [분류:2010년대 음악 그룹](https://ko.wikipedia.org/wiki/분류:2010년대_음악_그룹 "wikilink") [분류:2018년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2018년_결성된_음악_그룹 "wikilink") [분류:2018년 데뷔](https://ko.wikipedia.org/wiki/분류:2018년_데뷔 "wikilink")
+[\*](https://ko.wikipedia.org/wiki/분류:MNL48 "wikilink") [분류:필리핀의 음악 그룹](https://ko.wikipedia.org/wiki/분류:필리핀의_음악_그룹 "wikilink") [분류:필리핀의 걸 그룹](https://ko.wikipedia.org/wiki/분류:필리핀의_걸_그룹 "wikilink") [분류:10인조 이상 음악 그룹](https://ko.wikipedia.org/wiki/분류:10인조_이상_음악_그룹 "wikilink") [분류:2010년대 음악 그룹](https://ko.wikipedia.org/wiki/분류:2010년대_음악_그룹 "wikilink") [분류:2018년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2018년_결성된_음악_그룹 "wikilink")
 
 1.
 2.

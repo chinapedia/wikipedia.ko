@@ -9,7 +9,7 @@
 
 ## A1B 원자로
 
-새로운 [벡텔](https://ko.wikipedia.org/wiki/:en:Bechtel "wikilink") [A1B 원자로](https://ko.wikipedia.org/wiki/A1B_원자로 "wikilink")([A1B reactor](https://ko.wikipedia.org/wiki/:en:A1B_reactor "wikilink")) 2기를 사용하여 소음을 줄였다. 열출력 600 MWt 2기를 사용해 1200 MWt의 열출력을 낸다. [니미츠급 항공모함은](../Page/니미츠급_항공모함.md "wikilink") [웨스팅하우스](https://ko.wikipedia.org/wiki/웨스팅하우스 "wikilink")가 제작한 열출력 550 MWt [A4W 원자로](https://ko.wikipedia.org/wiki/A4W_원자로 "wikilink") 2기를 사용했다. A1B 원자로는 [A4W 원자로](https://ko.wikipedia.org/wiki/A4W_원자로 "wikilink") 보다 크기는 작아졌으며, 20년 연료봉 교환주기가 25년으로 늘어났다.
+새로운 [벡텔](https://ko.wikipedia.org/wiki/:en:Bechtel "wikilink") [A1B 원자로](https://ko.wikipedia.org/wiki/A1B_원자로 "wikilink")([A1B reactor](https://ko.wikipedia.org/wiki/:en:A1B_reactor "wikilink")) 2기를 사용하여 소음을 줄였다. 열출력 600 MWt 2기를 사용해 1200 MWt의 열출력을 낸다. [니미츠급 항공모함은](../Page/니미츠급_항공모함.md "wikilink") [웨스팅하우스](../Page/웨스팅하우스.md "wikilink")가 제작한 열출력 550 MWt [A4W 원자로](https://ko.wikipedia.org/wiki/A4W_원자로 "wikilink") 2기를 사용했다. A1B 원자로는 [A4W 원자로](https://ko.wikipedia.org/wiki/A4W_원자로 "wikilink") 보다 크기는 작아졌으며, 20년 연료봉 교환주기가 25년으로 늘어났다.
 
 ## 특징
 

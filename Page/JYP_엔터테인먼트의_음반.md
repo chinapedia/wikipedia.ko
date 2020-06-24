@@ -111,9 +111,6 @@
   - 2010년 11월 3일 San E - **\[Digital Single\] [LoveSick](https://ko.wikipedia.org/wiki/LoveSick "wikilink")**
   - 2010년 11월 9일 2AM - **Saint o'Clock Japan Special Edition**
   - 2010년 12월 1일 JYP Nation - **\[Digital Single\] This Christmas**
-
-<!-- end list -->
-
   - 2011년 1월 4일 JOO - **Heartmade**
   - 2011년 1월 10일 선예 - **\[Digital Single\] 드림하이 OST Part.2**
   - 2011년 1월 17일 San E - **드림하이 OST Part.3**
@@ -133,9 +130,6 @@
   - 2011년 11월 11일 San E - **[Take Project\#3 프리스타일 랩배틀 2011](https://ko.wikipedia.org/wiki/Take_Project#3_프리스타일_랩배틀_2011 "wikilink")**\[11\]
   - 2011년 11월 17일 정진운 - **\[Digital Single\] 지금이 아니면**
   - 2011년 11월 24일 San E - **\[Digital Single\] [RH- 11th 불행했음 좋겠다](https://ko.wikipedia.org/wiki/RH-_11th_불행했음_좋겠다 "wikilink")**
-
-<!-- end list -->
-
   - 2012년 1월 12일 원더걸스 - **\[Digital Single\] [The DJ Is Mine](../Page/The_DJ_Is_Mine.md "wikilink")**
   - 2012년 1월 13일 2AM - **\[Japan Digital Single\] [Never let you go ～死んでも離さない](https://ko.wikipedia.org/wiki/Never_let_you_go_～死んでも離さない "wikilink")**
   - 2012년 1월 18일 2PM - **[Republic Of 2PM](https://ko.wikipedia.org/wiki/Republic_Of_2PM "wikilink")**
@@ -161,16 +155,13 @@
   - 2012년 7월 18일 JJ Project - **MM Choice Part 2**
   - 2012년 7월 25일 원더걸스 - **[Nobody For Everybody](https://ko.wikipedia.org/wiki/Nobody_For_Everybody "wikilink")**
   - 2012년 9월 10일 [백아연](../Page/백아연.md "wikilink") - **I\`m Baek**
-  - 2012년 9월 17일 박진영, [택연](../Page/택연.md "wikilink"), [수지](../Page/수지_\(대한민국의_가수\).md "wikilink"), 우영 - **\[Digital Single\] [Classic](https://ko.wikipedia.org/wiki/Classic "wikilink")**
+  - 2012년 9월 17일 박진영, [택연](../Page/택연.md "wikilink"), [수지](../Page/수지_\(1994년\).md "wikilink"), 우영 - **\[Digital Single\] [Classic](https://ko.wikipedia.org/wiki/Classic "wikilink")**
   - 2012년 10월 5일 [15&](../Page/15&.md "wikilink") - **\[Digital Single\] I Dream**\[16\]
   - 2012년 10월 15일 miss A - **[Independent Women Part 3](https://ko.wikipedia.org/wiki/Independent_Women_Part_3 "wikilink")**
   - 2012년 10월 23일 2AM - **\[Japan Digital Single\] For You ～君のためにできること～**
   - 2012년 12월 6일 2PM - **Masquerade**
   - 2012년 12월 15일 백아연 - **청담동 앨리스 OST Part.3**
   - 2012년 12월 27일 2AM - **\[Japan Digital Single\] 誰にも渡せないよ**
-
-<!-- end list -->
-
   - 2013년 1월 23일 [준호](../Page/준호.md "wikilink") - **7급 공무원 OST Part.1**
   - 2013년 2월 4일 2AM - **VOICE**
   - 2013년 3월 5일 2AM - **어느 봄날**
@@ -185,16 +176,13 @@
   - 2013년 8월 16일 준호 - **\[Japan Digital Single\] 키미노 코에 (여러분이 음성)**
   - 2013년 8월 26일 [선미](../Page/선미.md "wikilink") - **\[Digital Single\] [24시간이 모자라](../Page/24시간이_모자라.md "wikilink")**
   - 2013년 9월 9일 박진영 - **[Halftime](../Page/Halftime_\(음반\).md "wikilink")**
-  - 2013년 9월 10일 [박지민](https://ko.wikipedia.org/wiki/박지민 "wikilink") - **불의 여신 정이 OST Part.4**
+  - 2013년 9월 10일 [박지민](https://ko.wikipedia.org/wiki/제이미_\(가수\) "wikilink") - **불의 여신 정이 OST Part.4**
   - 2013년 9월 17일 임슬옹 - **\[Digital Single\] 여름,밤**
   - 2013년 11월 6일 miss A - **[Hush](https://ko.wikipedia.org/wiki/Hush "wikilink")**
   - 2013년 11월 7일 2PM - **\[Japan Digital Single\] Winter Games**
   - 2013년 11월 20일 [5LIVE](../Page/DAY6.md "wikilink") - **예쁜남자 OST Part.1**
   - 2013년 11월 27일 2AM - **[NOCTURNE](../Page/NOCTURNE.md "wikilink")**
   - 2013년 12월 18일 조권 - **\[Digital Single\] Perfect Christmas**\[18\]
-
-<!-- end list -->
-
   - 2014년 1월 20일 [GOT7](https://ko.wikipedia.org/wiki/GOT7 "wikilink") - **[Got it?](../Page/Got_it?.md "wikilink")**
   - 2014년 1월 29일 2PM - **[Genesis of 2PM](../Page/Genesis_of_2PM.md "wikilink")**
   - 2014년 2월 17일 선미 - **[Full Moon](../Page/Full_Moon_\(선미의_EP\).md "wikilink")**
@@ -221,9 +209,6 @@
   - 2014년 11월 18일 GOT7 - **[Identify](../Page/Identify.md "wikilink")**
   - 2014년 12월 9일 JYP Nation - **JYP Nation Korea 2014 \`One Mic\`**
   - 2014년 12월 18일 택연 - **\[Digital Single\] 외로운 옥캣의 크리스마스 이벤트 2014**
-
-<!-- end list -->
-
   - 2015년 1월 10일 [민효린](../Page/민효린.md "wikilink") - **칠전팔기 구해라 OST Part.1**\[21\]
   - 2015년 1월 19일 [G.Soul](../Page/G.Soul.md "wikilink") - **Coming Home**
   - 2015년 1월 26일 G.Soul - **\[Digital Single\] You (Acoustic Ver.)**
@@ -277,9 +262,6 @@
   - 2015년 12월 17일 [소미](https://ko.wikipedia.org/wiki/소미 "wikilink") - **\[Digital Single\] [PICK ME](../Page/PICK_ME.md "wikilink")**\[34\]
   - 2015년 12월 30일 Jun.K - **\[Digital Single\] Love Letter**
   - 2015년 12월 30일 [지효](../Page/지효.md "wikilink"), [나연](../Page/나연.md "wikilink"), [쯔위](../Page/쯔위.md "wikilink"), [채영](../Page/채영_\(가수\).md "wikilink") - **\[Digital Single\] 투유 프로젝트 - 슈가맨 Part.11**\[35\]
-
-<!-- end list -->
-
   - 2016년 1월 7일 수지 - **\[Digital Single\] [Dream](https://ko.wikipedia.org/wiki/Dream_\(수지와_백현의_노래\) "wikilink")**\[36\]
   - 2016년 2월 3일 GOT7 - **モリ↑ガッテヨ**
   - 2016년 2월 15일 조권 - **\[Digital Single\] 횡단보도**
@@ -320,9 +302,6 @@
   - 2016년 12월 14일 택연 - **\[Digital Single\] 2016 외로운 옥캣의 크리스마스 이벤트**
   - 2016년 12월 19일 트와이스 - **TWICEcoaster : LANE 1 Christmas Edition**
   - 2016년 12월 20일 박지민 - **\[Digital Single\] 닮아있어**\[44\]
-
-<!-- end list -->
-
   - 2017년 1월 4일 Jun.K - **\[Digital Single\] 결혼식**\[45\]
   - 2017년 1월 6일 DAY6 - **\[Digital Single\] [Every DAY6 Jaunary](https://ko.wikipedia.org/wiki/Every_DAY6_Jaunary "wikilink")**
   - 2017년 1월 12일 Jun.K - **77-1X3-00**
@@ -373,9 +352,6 @@
   - 2017년 12월 7일 GOT7 - **7 FOR 7 PRESENT EDITION**
   - 2017년 12월 11일 트와이스 - **Merry & Happy**
   - 2017년 1월 7일 신류진 - **\[Digital Single\] 믹스나인 Part.4**
-
-<!-- end list -->
-
   - 2018년 1월 8일 스트레이 키즈 - **Mixtape**
   - 2018년 1월 15일 우영 - **[헤어질 때](https://ko.wikipedia.org/wiki/헤어질_때 "wikilink")**\[55\]
   - 2018년 1월 16일 준호 - **그냥 사랑하는 사이 OST Part.6**
@@ -423,9 +399,6 @@
   - 2018년 12월 11일 백아연 - **웹툰 연놈 OST Part.2**
   - 2018년 12월 12일 트와이스 - **The year of "YES"**
   - 2018년 12월 19일 닉쿤 - **\[Japan\] ME**
-
-<!-- end list -->
-
   - 2019년 1월 2일 트와이스 - **\[Japan\] BDZ -Repackage-**
   - 2019년 1월 10일 백아연 - **남자친구 OST Part.7**
   - 2019년 1월 16일 박지민 - **황후의 품격 OST Part.4**
@@ -466,9 +439,6 @@
   - 2019년 12월 1일 박진영 - **\[Digital Single\] FEVER**
   - 2019년 12월 9일 스트레이 키즈 - **Clé : LEVANTER**
   - 2019년 12월 22일 유빈 - **초콜릿 OST Part.7**
-
-<!-- end list -->
-
   - 2019년 12월 26일 스트레이 키즈 - **\[Digital Single\] Mixtape : Gone Days**
 
 ## 2020년대
@@ -482,8 +452,14 @@
   - 2020년 4월 20일 GOT7 - **DYE**
   - 2020년 5월 3일 영재 - **화양연화 - 삶이 꽃이 되는 순간 OST Part.2**\[65\]
   - 2020년 5월 11일 DAY6 - **The Book of Us : The Demon**
+  - 2020년 5월 13일 스트레이 키즈 - **\[Digital Single\] TOP**
+  - 2020년 5월 20일 스트레이 키즈 - **\[Digital Single\] TOP -English Ver.-**
   - 2020년 6월 1일 트와이스 - **MORE & MORE**
   - 2020년 6월 3일 스트레이 키즈 - **\[Japan Digital Single\] TOP**
+  - 2020년 6월 10일 준케이 - **\[Digital Single\] This is not a song, 1929**
+  - 2020년 6월 10일 준케이 - **\[Japan Digital Single\] This is not a song, 1929**
+  - 2020년 6월 17일 스트레이 키즈 - **GO生**
+  - 2020년 7월 8일 트와이스 - **\[Japan Digital Sinlge\] Fanfare**
 
 ## 각주
 

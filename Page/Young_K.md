@@ -64,20 +64,20 @@
 </tr>
 <tr class="even">
 <td><p>2016.08.23</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/박지민" title="wikilink">박지민</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/제이미_(가수)" title="wikilink">박지민</a></p></td>
 <td><p><Young해> (Feat. Young K)</p></td>
 <td><p>《19에서 20》</p></td>
 <td><ul>
-<li>작사 : <a href="https://ko.wikipedia.org/wiki/박지민" title="wikilink">박지민</a>, Young K</li>
+<li>작사 : <a href="https://ko.wikipedia.org/wiki/제이미_(가수)" title="wikilink">박지민</a>, Young K</li>
 </ul></td>
 </tr>
 <tr class="odd">
 <td><p>2016.08.23</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/박지민" title="wikilink">박지민</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/제이미_(가수)" title="wikilink">박지민</a></p></td>
 <td><p><ANSWER></p></td>
 <td><p>《19에서 20》</p></td>
 <td><ul>
-<li>작사 : <a href="https://ko.wikipedia.org/wiki/박지민" title="wikilink">박지민</a>, Young K, 이교창<br />
+<li>작사 : <a href="https://ko.wikipedia.org/wiki/제이미_(가수)" title="wikilink">박지민</a>, Young K, 이교창<br />
 </li>
 </ul></td>
 </tr>
@@ -349,13 +349,13 @@
 <tbody>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/2019" title="wikilink">2019</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/V_LIVE" title="wikilink">V LIVE</a></p></td>
+<td><p><a href="../Page/V_LIVE.md" title="wikilink">V LIVE</a></p></td>
 <td><p>《CASPER RADIO》</p></td>
 <td><ul>
 <li><a href="https://www.vlive.tv/video/157044">MIXTAPE#1 영케이(Young K)편</a></li>
 </ul></td>
 <td><p>2019.10.25</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/V_LIVE" title="wikilink">V LIVE</a></p></td>
+<td><p><a href="../Page/V_LIVE.md" title="wikilink">V LIVE</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/2019" title="wikilink">2019</a></p></td>
@@ -365,7 +365,7 @@
 <li><a href="https://www.vlive.tv/video/158193">ep#397. 아이돌 플레이리스트 (스페셜 DJ 데이식스 영케이 w. 데이식스)</a></li>
 </ul></td>
 <td><p>2019.11.01</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/V_LIVE" title="wikilink">V LIVE</a></p></td>
+<td><p><a href="../Page/V_LIVE.md" title="wikilink">V LIVE</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/2019" title="wikilink">2019</a></p></td>
@@ -375,7 +375,7 @@
 <li><a href="https://www.vlive.tv/video/157051?channelCode=F4F147">ep#391. 아.부.해 (스페셜 DJ 데이식스 영케이 with 데이식스)</a></li>
 </ul></td>
 <td><p>2019.10.28</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/V_LIVE" title="wikilink">V LIVE</a></p></td>
+<td><p><a href="../Page/V_LIVE.md" title="wikilink">V LIVE</a></p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -393,7 +393,7 @@
 <li>ep#510. 사운드 오브 매직 (스페셜 DJ 데이식스 영케이 &amp; <a href="../Page/원필.md" title="wikilink">원필</a> with 디코이)</li>
 </ul></td>
 <td><p>2020.02.24</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/V_LIVE" title="wikilink">V LIVE</a></p></td>
+<td><p><a href="../Page/V_LIVE.md" title="wikilink">V LIVE</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/2020" title="wikilink">2020</a></p></td>
@@ -403,7 +403,7 @@
 <li>ep#511. 눈이 부시게 (스페셜 DJ <a href="https://ko.wikipedia.org/wiki/데이식스" title="wikilink">데이식스</a> 영케이 &amp; <a href="../Page/원필.md" title="wikilink">원필</a> with <a href="../Page/위키미키.md" title="wikilink">위키미키</a>)</li>
 </ul></td>
 <td><p>2020.02.25</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/V_LIVE" title="wikilink">V LIVE</a></p></td>
+<td><p><a href="../Page/V_LIVE.md" title="wikilink">V LIVE</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/2020" title="wikilink">2020</a></p></td>
@@ -413,7 +413,7 @@
 <li>ep#512. 짱돌의 탄생 (스페셜 DJ <a href="https://ko.wikipedia.org/wiki/데이식스" title="wikilink">데이식스</a> 영케이 &amp; <a href="../Page/원필.md" title="wikilink">원필</a> with <a href="https://ko.wikipedia.org/wiki/다크비" title="wikilink">다크비</a>)</li>
 </ul></td>
 <td><p>2020.02.26</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/V_LIVE" title="wikilink">V LIVE</a></p></td>
+<td><p><a href="../Page/V_LIVE.md" title="wikilink">V LIVE</a></p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -560,6 +560,15 @@
 <li><a href="https://www.youtube.com/watch?v=gZuvVYZjcwQ">Young K - AYAYA (DAY6 cover)</a></li>
 </ul></td>
 <td><p>2020.04.19</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><ul>
+<li><a href="https://www.youtube.com/watch?v=TILFGfOdq2E">Young K - I.F.L.Y. (Bazzi cover)</a></li>
+</ul></td>
+<td><p>2020.05.07</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1064,7 +1073,7 @@
 
   - [JYP 엔터테인먼트](https://www.youtube.com/user/jypentertainment/videos) - [유튜브](../Page/유튜브.md "wikilink")
 
-[분류:1993년 태어남](https://ko.wikipedia.org/wiki/분류:1993년_태어남 "wikilink") [분류:살아있는 사람](https://ko.wikipedia.org/wiki/분류:살아있는_사람 "wikilink") [분류:대한민국의 남자 래퍼](https://ko.wikipedia.org/wiki/분류:대한민국의_남자_래퍼 "wikilink") [분류:대한민국의 래퍼](https://ko.wikipedia.org/wiki/분류:대한민국의_래퍼 "wikilink") [분류:청담고등학교 동문](https://ko.wikipedia.org/wiki/분류:청담고등학교_동문 "wikilink") [분류:동국대학교 동문](https://ko.wikipedia.org/wiki/분류:동국대학교_동문 "wikilink") [분류:대한민국의 베이스 기타 연주자](https://ko.wikipedia.org/wiki/분류:대한민국의_베이스_기타_연주자 "wikilink") [분류:고양시 출신](https://ko.wikipedia.org/wiki/분류:고양시_출신 "wikilink") [분류:2011년 데뷔](https://ko.wikipedia.org/wiki/분류:2011년_데뷔 "wikilink") [분류:캐나다에 거주한 대한민국인](https://ko.wikipedia.org/wiki/분류:캐나다에_거주한_대한민국인 "wikilink") [분류:미스터리 음악쇼 복면가왕 참가자](https://ko.wikipedia.org/wiki/분류:미스터리_음악쇼_복면가왕_참가자 "wikilink")
+[분류:1993년 태어남](https://ko.wikipedia.org/wiki/분류:1993년_태어남 "wikilink") [분류:살아있는 사람](https://ko.wikipedia.org/wiki/분류:살아있는_사람 "wikilink") [분류:대한민국의 남자 래퍼](https://ko.wikipedia.org/wiki/분류:대한민국의_남자_래퍼 "wikilink") [분류:대한민국의 래퍼](https://ko.wikipedia.org/wiki/분류:대한민국의_래퍼 "wikilink") [분류:청담고등학교 동문](https://ko.wikipedia.org/wiki/분류:청담고등학교_동문 "wikilink") [분류:동국대학교 동문](https://ko.wikipedia.org/wiki/분류:동국대학교_동문 "wikilink") [분류:대한민국의 베이스 기타 연주자](https://ko.wikipedia.org/wiki/분류:대한민국의_베이스_기타_연주자 "wikilink") [분류:고양시 출신](https://ko.wikipedia.org/wiki/분류:고양시_출신 "wikilink") [분류:캐나다에 거주한 대한민국인](https://ko.wikipedia.org/wiki/분류:캐나다에_거주한_대한민국인 "wikilink") [분류:미스터리 음악쇼 복면가왕 참가자](https://ko.wikipedia.org/wiki/분류:미스터리_음악쇼_복면가왕_참가자 "wikilink")
 
 1.
 2.

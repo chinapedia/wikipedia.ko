@@ -5,4 +5,4 @@
 
 ## 수록곡
 
-[분류:2015년 음반](https://ko.wikipedia.org/wiki/분류:2015년_음반 "wikilink") [분류:인터스코프 레코드 음반](https://ko.wikipedia.org/wiki/분류:인터스코프_레코드_음반 "wikilink") [분류:마돈나의 음반](https://ko.wikipedia.org/wiki/분류:마돈나의_음반 "wikilink") [분류:카니예 웨스트가 프로듀싱한 음반](https://ko.wikipedia.org/wiki/분류:카니예_웨스트가_프로듀싱한_음반 "wikilink") [분류:라이언 테더가 프로듀싱한 음반](https://ko.wikipedia.org/wiki/분류:라이언_테더가_프로듀싱한_음반 "wikilink")
+[분류:2015년 음반](https://ko.wikipedia.org/wiki/분류:2015년_음반 "wikilink") [분류:인터스코프 레코드 음반](https://ko.wikipedia.org/wiki/분류:인터스코프_레코드_음반 "wikilink") [분류:마돈나의 음반](https://ko.wikipedia.org/wiki/분류:마돈나의_음반 "wikilink") [분류:카녜이 웨스트가 프로듀싱한 음반](https://ko.wikipedia.org/wiki/분류:카녜이_웨스트가_프로듀싱한_음반 "wikilink") [분류:라이언 테더가 프로듀싱한 음반](https://ko.wikipedia.org/wiki/분류:라이언_테더가_프로듀싱한_음반 "wikilink")

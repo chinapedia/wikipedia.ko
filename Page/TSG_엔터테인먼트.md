@@ -610,7 +610,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/조조_래빗" title="wikilink">조조 래빗</a></p></td>
+<td><p><a href="../Page/조조_래빗.md" title="wikilink">조조 래빗</a></p></td>
 <td><p>In Association with</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/폭스_서치라이트_픽처스" title="wikilink">폭스 서치라이트 픽처스</a></p></td>
 <td></td>

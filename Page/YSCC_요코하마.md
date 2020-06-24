@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [YSCC 요코하마](https://ko.wikipedia.org/wiki/YSCC_요코하마).
 
 
-**요코하마 스포츠 앤 컬처 클럽**()는 [가나가와현](../Page/가나가와현.md "wikilink"), [요코하마 시에](https://ko.wikipedia.org/wiki/요코하마_시 "wikilink") 위치한 [일본](../Page/일본.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다. 현재 [J3리그](../Page/J3리그.md "wikilink")에 참가하고 있다. 흔히 **YSCC 요코하마**라고도 불린다.
+**요코하마 스포츠 앤 컬처 클럽**()는 [가나가와현](../Page/가나가와현.md "wikilink"), [요코하마시](../Page/요코하마시.md "wikilink")에 위치한 [일본](../Page/일본.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다. 현재 [J3리그](../Page/J3리그.md "wikilink")에 참가하고 있다. 흔히 **YSCC 요코하마**라고도 불린다.
 
 1986년 요코하마 스포츠 클럽으로 창단되어 1987년 현재의 이름으로 변경하였다. 2002년 법인화와 함께 YSCC 요코하마로 명칭을 변경하였다. 2011년까지는 프로가 아닌 아마추어로서 지역 스포츠 문화 활동의 진흥을 목표로 하는 구단이었지만 이후 구단의 운영 방향을 바꿔 2013년 [J리그](../Page/J리그.md "wikilink") 준 가맹 클럽으로 가입하였고, 2014년부터 J리그의 최하부 리그인 [J3리그](../Page/J3리그.md "wikilink")에 참가하였다. 클럽 이름 뜻은 지역 주민 생활 속에 깊이 연결되는 스포츠 클럽을 통한 지역 문화의 발전을 지향하는 의미이다.
 

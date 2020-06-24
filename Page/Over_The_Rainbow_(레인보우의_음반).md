@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Over The Rainbow \(레인보우의 음반\)](https://ko.wikipedia.org/wiki/Over_The_Rainbow_\(레인보우의_음반\)).
 
 
-《**Over the Rainbow**》는 [대한민국](../Page/대한민국.md "wikilink")의 [걸 그룹](../Page/걸_그룹.md "wikilink") [레인보우가](https://ko.wikipedia.org/wiki/레인보우_\(음악_그룹\) "wikilink") 일본에서 발표한 정규 음반이다. 이후 2012년 12월12일 리패키지 음반인《*Over the Rainbow Special Edition*》을 추가 발매하였다.
+《**Over the Rainbow**》는 [대한민국](../Page/대한민국.md "wikilink")의 [걸 그룹](../Page/걸_그룹.md "wikilink") [레인보우가](../Page/레인보우_\(대한민국의_음악_그룹\).md "wikilink") 일본에서 발표한 정규 음반이다. 이후 2012년 12월12일 리패키지 음반인《*Over the Rainbow Special Edition*》을 추가 발매하였다.
 
 초회한정판과 일반판으로 나누어 발매하였다. 초회한정판은 수록곡 10트랙 1CD와 시부야 공회당 라이브와 백스테이지 영상,〈マッハ〉의 클로즈업 버전 뮤직비디오가 담긴 DVD를 추가 수록하였다.
 
@@ -62,4 +62,4 @@
 
 #### Korean Best Album Edition
 
-[분류:레인보우(대한민국의 음악 그룹)의 음반](https://ko.wikipedia.org/wiki/분류:레인보우\(대한민국의_음악_그룹\)의_음반 "wikilink") [분류:2012년 음반](https://ko.wikipedia.org/wiki/분류:2012년_음반 "wikilink") [분류:유니버설 뮤직 그룹의 음반](https://ko.wikipedia.org/wiki/분류:유니버설_뮤직_그룹의_음반 "wikilink") [분류:K-pop 음반](https://ko.wikipedia.org/wiki/분류:K-pop_음반 "wikilink") [분류:일본의 음반](https://ko.wikipedia.org/wiki/분류:일본의_음반 "wikilink") [분류:일본어 음반](https://ko.wikipedia.org/wiki/분류:일본어_음반 "wikilink")
+[분류:레인보우 (대한민국의 음악 그룹)의 음반](https://ko.wikipedia.org/wiki/분류:레인보우_\(대한민국의_음악_그룹\)의_음반 "wikilink") [분류:2012년 음반](https://ko.wikipedia.org/wiki/분류:2012년_음반 "wikilink") [분류:유니버설 뮤직 그룹의 음반](https://ko.wikipedia.org/wiki/분류:유니버설_뮤직_그룹의_음반 "wikilink") [분류:K-pop 음반](https://ko.wikipedia.org/wiki/분류:K-pop_음반 "wikilink") [분류:일본의 음반](https://ko.wikipedia.org/wiki/분류:일본의_음반 "wikilink") [분류:일본어 음반](https://ko.wikipedia.org/wiki/분류:일본어_음반 "wikilink")

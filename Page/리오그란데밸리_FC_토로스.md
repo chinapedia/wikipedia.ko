@@ -13,4 +13,4 @@
 
   - [휴스턴 다이너모](../Page/휴스턴_다이너모.md "wikilink") (휴스턴, 텍사스)
 
-[분류:미국의 축구단](https://ko.wikipedia.org/wiki/분류:미국의_축구단 "wikilink") [분류:2015년 설립된 축구단](https://ko.wikipedia.org/wiki/분류:2015년_설립된_축구단 "wikilink")
+[분류:미국의 축구단](https://ko.wikipedia.org/wiki/분류:미국의_축구단 "wikilink") [분류:2015년 설립된 축구단](https://ko.wikipedia.org/wiki/분류:2015년_설립된_축구단 "wikilink") [분류:텍사스주의 축구단](https://ko.wikipedia.org/wiki/분류:텍사스주의_축구단 "wikilink")

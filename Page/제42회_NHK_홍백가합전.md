@@ -21,7 +21,7 @@
   - 아시하라 스나오 : 91년 청춘소설 『青春デンデケデケデケ』로 제 105회 [나오키상](https://ko.wikipedia.org/wiki/나오키상 "wikilink") 수상.
   - 하나다 마사루·다카노하나 코지 : [스모](../Page/스모.md "wikilink") 마에가시라.
   - [오가타 나오토](https://ko.wikipedia.org/wiki/오가타_나오토 "wikilink") : 92년 [NHK 대하드라마](../Page/NHK_대하드라마.md "wikilink") 『信長 KING OF ZIPANGU』 주인공 [오다 노부나가](../Page/오다_노부나가.md "wikilink") 역.
-  - 와시오 이사코 : 『信長 KING OF ZIPANGU』에서 [오이치노 가타](https://ko.wikipedia.org/wiki/오이치노_가타 "wikilink") 역.
+  - 와시오 이사코 : 『信長 KING OF ZIPANGU』에서 [오이치노 가타](../Page/오이치노_가타.md "wikilink") 역.
   - 다나카 요시코 : 91년 [연속 TV 소설](../Page/연속_TV_소설.md "wikilink") 『君の名は』에 출연.
 
 ## 출장가수

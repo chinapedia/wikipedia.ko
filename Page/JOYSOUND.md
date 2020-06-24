@@ -188,7 +188,7 @@ Wii판 및 플레이스테이션 3판의 서비스 노래는 7만 8000곡 이상
 
   - [엑싱 제품 정보 페이지](http://joysound.biz/)
 
-  - [JOYSOUND 공식 홈페이지](http://joysound.com/)
+  - [JOYSOUND 공식 홈페이지](https://web.archive.org/web/20090105163931/http://joysound.com/)
 
   -
   -

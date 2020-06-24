@@ -3,7 +3,7 @@
 
 **코바야시 나오키**(, [1984년](../Page/1984년.md "wikilink") [11월 10일](../Page/11월_10일.md "wikilink") \~ )는 [일본](../Page/일본.md "wikilink")의 댄서이며, [EXILE](../Page/EXILE.md "wikilink"), [3대째 J Soul Brothers의](../Page/J_Soul_Brothers.md "wikilink") 멤버이다.
 
-[치바 현](../Page/지바현.md "wikilink") [인자이 시](https://ko.wikipedia.org/wiki/인자이_시 "wikilink") 출신. [LDH](https://ko.wikipedia.org/wiki/LDH "wikilink") 소속.
+[치바 현](../Page/지바현.md "wikilink") [인자이시](../Page/인자이시.md "wikilink") 출신. [LDH](https://ko.wikipedia.org/wiki/LDH "wikilink") 소속.
 
 ## 내력
 

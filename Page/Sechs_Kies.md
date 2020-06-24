@@ -5,7 +5,7 @@
 
 ## 수록곡
 
-## 구)멤버
+## 이전 멤버
 
   - [은지원](../Page/은지원.md "wikilink") - [랩](https://ko.wikipedia.org/wiki/랩_\(음악\) "wikilink"), [보컬](https://ko.wikipedia.org/wiki/보컬 "wikilink")
   - [이재진](../Page/이재진_\(1979년\).md "wikilink") - 랩, 보컬

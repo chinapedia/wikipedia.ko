@@ -122,7 +122,7 @@
 
   -
   -
-[분류:1982년 태어남](https://ko.wikipedia.org/wiki/분류:1982년_태어남 "wikilink") [분류:미국의 애니메이션 제작자](https://ko.wikipedia.org/wiki/분류:미국의_애니메이션_제작자 "wikilink") [분류:미국의 텔레비전 각본가](https://ko.wikipedia.org/wiki/분류:미국의_텔레비전_각본가 "wikilink") [분류:2004년 데뷔](https://ko.wikipedia.org/wiki/분류:2004년_데뷔 "wikilink") [분류:미국의 작가](https://ko.wikipedia.org/wiki/분류:미국의_작가 "wikilink") [분류:미국의 남자 성우](https://ko.wikipedia.org/wiki/분류:미국의_남자_성우 "wikilink") [분류:살아있는 사람](https://ko.wikipedia.org/wiki/분류:살아있는_사람 "wikilink") [분류:캘리포니아 인스티튜트 오브 디 아츠 동문](https://ko.wikipedia.org/wiki/분류:캘리포니아_인스티튜트_오브_디_아츠_동문 "wikilink")
+[분류:1982년 태어남](https://ko.wikipedia.org/wiki/분류:1982년_태어남 "wikilink") [분류:미국의 애니메이션 제작자](https://ko.wikipedia.org/wiki/분류:미국의_애니메이션_제작자 "wikilink") [분류:미국의 텔레비전 각본가](https://ko.wikipedia.org/wiki/분류:미국의_텔레비전_각본가 "wikilink") [분류:미국의 작가](https://ko.wikipedia.org/wiki/분류:미국의_작가 "wikilink") [분류:미국의 남자 성우](https://ko.wikipedia.org/wiki/분류:미국의_남자_성우 "wikilink") [분류:살아있는 사람](https://ko.wikipedia.org/wiki/분류:살아있는_사람 "wikilink") [분류:캘리포니아 인스티튜트 오브 디 아츠 동문](https://ko.wikipedia.org/wiki/분류:캘리포니아_인스티튜트_오브_디_아츠_동문 "wikilink")
 
 1.
 2.

@@ -108,7 +108,7 @@ UPCH-2072 (통상판)</p></td>
 
   -
   -
-[분류:일본의 걸 그룹](https://ko.wikipedia.org/wiki/분류:일본의_걸_그룹 "wikilink") [분류:2014년 데뷔](https://ko.wikipedia.org/wiki/분류:2014년_데뷔 "wikilink")
+[분류:일본의 걸 그룹](https://ko.wikipedia.org/wiki/분류:일본의_걸_그룹 "wikilink")
 
 1.  원곡은 GReeeeN의 [애창](https://ko.wikipedia.org/wiki/애창 "wikilink")이다.
 2.  [제30회 일본골드디스크대상 전 수상작품・아티스트](http://www.golddisc.jp/award/30/index.html)

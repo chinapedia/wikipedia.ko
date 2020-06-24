@@ -122,7 +122,7 @@
     성우 - [유사 코지](../Page/유사_코지.md "wikilink")
     배틀 스타일 - 스탠드
   - 장 피에르 폴나레프 & 실버 채리엇
-    성우 - [히라타 히로아키](https://ko.wikipedia.org/wiki/히라타_히로아키 "wikilink")
+    성우 - [히라타 히로아키](../Page/히라타_히로아키.md "wikilink")
     배틀 스타일 - 스탠드
   - 무함마드 압둘 & 매지션즈 레드
     성우 - [에바라 마사시](https://ko.wikipedia.org/wiki/에바라_마사시 "wikilink")

@@ -17,4 +17,4 @@
 
 <references/>
 
-[분류:2000년 설립](https://ko.wikipedia.org/wiki/분류:2000년_설립 "wikilink") [분류:2015년 폐지](https://ko.wikipedia.org/wiki/분류:2015년_폐지 "wikilink") [분류:아메리칸 하키 리그 팀](https://ko.wikipedia.org/wiki/분류:아메리칸_하키_리그_팀 "wikilink") [분류:2000년 설립된 스포츠 클럽](https://ko.wikipedia.org/wiki/분류:2000년_설립된_스포츠_클럽 "wikilink")
+[분류:2000년 설립](https://ko.wikipedia.org/wiki/분류:2000년_설립 "wikilink") [분류:2015년 폐지](https://ko.wikipedia.org/wiki/분류:2015년_폐지 "wikilink") [분류:아메리칸 하키 리그 팀](https://ko.wikipedia.org/wiki/분류:아메리칸_하키_리그_팀 "wikilink") [분류:2000년 설립된 스포츠 클럽](https://ko.wikipedia.org/wiki/분류:2000년_설립된_스포츠_클럽 "wikilink") [분류:버지니아주의 아이스하키팀](https://ko.wikipedia.org/wiki/분류:버지니아주의_아이스하키팀 "wikilink")

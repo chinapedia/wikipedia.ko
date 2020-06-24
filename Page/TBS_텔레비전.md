@@ -98,6 +98,7 @@
 
   - [JNN 뉴스버드](https://ko.wikipedia.org/wiki/JNN_뉴스버드 "wikilink") (JNN ニュースバード)
   - [NEWS 23](https://ko.wikipedia.org/wiki/NEWS_23 "wikilink") - 밤·심야프로
+  - [신 정보 7DAYS 뉴스 캐스터](https://ko.wikipedia.org/wiki/신_정보_7DAYS_뉴스_캐스터 "wikilink")
 
 ### 정보·와이드쇼
 

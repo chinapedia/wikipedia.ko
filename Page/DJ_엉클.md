@@ -19,4 +19,4 @@
   - 《[Happy Christmas Last Christmas](https://ko.wikipedia.org/wiki/Happy_Christmas_Last_Christmas "wikilink")》 ([2001년](../Page/2001년.md "wikilink"))
   - 《[My Reality](https://ko.wikipedia.org/wiki/My_Reality "wikilink")》 ([2005년](../Page/2005년.md "wikilink"))
 
-[분류:1977년 데뷔](https://ko.wikipedia.org/wiki/분류:1977년_데뷔 "wikilink") [분류:살아있는 사람](https://ko.wikipedia.org/wiki/분류:살아있는_사람 "wikilink") [분류:대한민국의 디스크자키](https://ko.wikipedia.org/wiki/분류:대한민국의_디스크자키 "wikilink") [분류:대한민국의 전자 음악가](https://ko.wikipedia.org/wiki/분류:대한민국의_전자_음악가 "wikilink") [분류:대한민국의 음악 프로듀서](https://ko.wikipedia.org/wiki/분류:대한민국의_음악_프로듀서 "wikilink")
+[분류:살아있는 사람](https://ko.wikipedia.org/wiki/분류:살아있는_사람 "wikilink") [분류:대한민국의 디스크자키](https://ko.wikipedia.org/wiki/분류:대한민국의_디스크자키 "wikilink") [분류:대한민국의 전자 음악가](https://ko.wikipedia.org/wiki/분류:대한민국의_전자_음악가 "wikilink") [분류:대한민국의 음악 프로듀서](https://ko.wikipedia.org/wiki/분류:대한민국의_음악_프로듀서 "wikilink")

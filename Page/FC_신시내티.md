@@ -37,4 +37,4 @@
 
   - 없음
 
-[FC_신시내티](https://ko.wikipedia.org/wiki/분류:FC_신시내티 "wikilink") [분류:2015년 설립된 축구단](https://ko.wikipedia.org/wiki/분류:2015년_설립된_축구단 "wikilink") [분류:메이저 리그 사커 구단](https://ko.wikipedia.org/wiki/분류:메이저_리그_사커_구단 "wikilink")
+[FC_신시내티](https://ko.wikipedia.org/wiki/분류:FC_신시내티 "wikilink") [분류:2015년 설립된 축구단](https://ko.wikipedia.org/wiki/분류:2015년_설립된_축구단 "wikilink") [분류:메이저 리그 사커 구단](https://ko.wikipedia.org/wiki/분류:메이저_리그_사커_구단 "wikilink") [분류:오하이오주의 축구단](https://ko.wikipedia.org/wiki/분류:오하이오주의_축구단 "wikilink")

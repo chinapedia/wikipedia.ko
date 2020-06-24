@@ -131,7 +131,7 @@
   -
   -
   -
-[분류:SVGV](https://ko.wikipedia.org/wiki/분류:SVGV "wikilink") [분류:2014년 데뷔](https://ko.wikipedia.org/wiki/분류:2014년_데뷔 "wikilink") [분류:대한민국의 팝 음악 그룹](https://ko.wikipedia.org/wiki/분류:대한민국의_팝_음악_그룹 "wikilink")
+[분류:SVGV](https://ko.wikipedia.org/wiki/분류:SVGV "wikilink") [분류:대한민국의 팝 음악 그룹](https://ko.wikipedia.org/wiki/분류:대한민국의_팝_음악_그룹 "wikilink")
 
 1.
 2.

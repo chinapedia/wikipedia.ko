@@ -247,7 +247,7 @@
 <thead>
 <tr class="header">
 <th><p>연도</p></th>
-<th><p>수상 내역 (총 109회)</p></th>
+<th><p>수상 내역 (총 130회)</p></th>
 </tr>
 </thead>
 <tbody>

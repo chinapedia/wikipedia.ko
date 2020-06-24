@@ -64,7 +64,7 @@
   - [아이카츠\!](https://ko.wikipedia.org/wiki/아이카츠! "wikilink") (2012년\~2016년)
   - [아이카츠 스타즈\!](https://ko.wikipedia.org/wiki/아이카츠_스타즈! "wikilink") - (2016년\~)
   - [이나즈마 일레븐](../Page/이나즈마_일레븐.md "wikilink") (2008\~2014년)
-  - [야채극장 베지테일](https://ko.wikipedia.org/wiki/야채극장_베지테일 "wikilink") (1997년\~2001년)
+  - [야채극장 베지테일](../Page/야채극장_베지테일.md "wikilink") (1997년\~2001년)
   - [요괴워치](../Page/요괴워치.md "wikilink") (2014\~ )
   - [오소마츠 상](https://ko.wikipedia.org/wiki/오소마츠_상 "wikilink") ▼(2015\~2016년)
   - [월간순정 노자키군](https://ko.wikipedia.org/wiki/월간순정_노자키군 "wikilink") ▼(2014년)

@@ -61,7 +61,7 @@
 
 ## 학회 개최연도와 개최지
 
-  - ICCV 2019, 대한민국 서
+  - ICCV 2019, 대한민국 서울
   - ICCV 2017, 이탈리아 베니스
   - ICCV 2015, [칠레](../Page/칠레.md "wikilink") [산티아고](../Page/산티아고.md "wikilink")
   - [ICCV 2013](https://web.archive.org/web/20130605085049/http://iccv2013.org/), [호주](https://ko.wikipedia.org/wiki/호주 "wikilink") [시드니](../Page/시드니.md "wikilink")\[3\]

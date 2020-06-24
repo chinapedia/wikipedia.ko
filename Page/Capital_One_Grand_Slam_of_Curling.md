@@ -305,7 +305,7 @@
 ## 외부 링크
 
   - [CurlingZone.com](http://www.curlingzone.com)
-  - [WorldCurlingTour.com](http://www.worldcurlingtour.com)
+  - [WorldCurlingTour.com](https://web.archive.org/web/20100131134803/http://www.worldcurlingtour.com/)
 
 [분류:컬링](https://ko.wikipedia.org/wiki/분류:컬링 "wikilink") [분류:컬링 투어](https://ko.wikipedia.org/wiki/분류:컬링_투어 "wikilink")
 

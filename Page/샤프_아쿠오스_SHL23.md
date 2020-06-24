@@ -23,4 +23,4 @@
   - [샤프 아쿠오스폰 SHL23 위키백과(일본)](https://ja.wikipedia.org/wiki/SHL23)
   - [샤프 아쿠오스폰 SHL23 공식사이트(일본샤프)](http://www.sharp.co.jp/products/shl23/)
 
-[분류:스마트폰](https://ko.wikipedia.org/wiki/분류:스마트폰 "wikilink") [분류:2013년 출시](https://ko.wikipedia.org/wiki/분류:2013년_출시 "wikilink") [분류:안드로이드 장치](https://ko.wikipedia.org/wiki/분류:안드로이드_장치 "wikilink") [SHL23](https://ko.wikipedia.org/wiki/분류:아쿠오스_폰 "wikilink") [분류:스마트폰](https://ko.wikipedia.org/wiki/분류:스마트폰 "wikilink")
+[분류:스마트폰](https://ko.wikipedia.org/wiki/분류:스마트폰 "wikilink") [분류:2013년 출시](https://ko.wikipedia.org/wiki/분류:2013년_출시 "wikilink") [분류:안드로이드 장치](https://ko.wikipedia.org/wiki/분류:안드로이드_장치 "wikilink") [SHL23](https://ko.wikipedia.org/wiki/분류:아쿠오스_폰 "wikilink")

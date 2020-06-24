@@ -30,4 +30,4 @@
 
   - [로스앤젤레스 갤럭시](../Page/로스앤젤레스_갤럭시.md "wikilink") (카슨, 캘리포니아)
 
-[분류:미국의 축구단](https://ko.wikipedia.org/wiki/분류:미국의_축구단 "wikilink") [분류:2014년 설립된 축구단](https://ko.wikipedia.org/wiki/분류:2014년_설립된_축구단 "wikilink") [분류:로스앤젤레스 갤럭시 II](https://ko.wikipedia.org/wiki/분류:로스앤젤레스_갤럭시_II "wikilink")
+[로스앤젤레스_갤럭시_II](https://ko.wikipedia.org/wiki/분류:로스앤젤레스_갤럭시_II "wikilink") [분류:미국의 축구단](https://ko.wikipedia.org/wiki/분류:미국의_축구단 "wikilink") [분류:2014년 설립된 축구단](https://ko.wikipedia.org/wiki/분류:2014년_설립된_축구단 "wikilink") [분류:캘리포니아주의 축구단](https://ko.wikipedia.org/wiki/분류:캘리포니아주의_축구단 "wikilink")

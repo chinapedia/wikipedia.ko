@@ -57,8 +57,6 @@
 
 ### 현재 선수단
 
-[16px](https://ko.wikipedia.org/wiki/파일:Vice_Captain_Sports.gif "wikilink")      [16px](https://ko.wikipedia.org/wiki/파일:Captain_sports.svg "wikilink")
-
 ### 임대 및 군 복무 중인 선수
 
 ### 역대 선수

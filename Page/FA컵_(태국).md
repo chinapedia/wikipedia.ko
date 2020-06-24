@@ -166,7 +166,7 @@
 <td><p><a href="../Page/부리람_유나이티드_FC.md" title="wikilink">부리람 유나이티드</a></p></td>
 <td><div style="text-align: center;">
 <p>2-1</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/아미_유나이티드_FC" title="wikilink">아미 유나이티드</a></p></td>
+<td><p><a href="../Page/아미_유나이티드_FC.md" title="wikilink">아미 유나이티드</a></p></td>
 </tr>
 </tbody>
 </table>

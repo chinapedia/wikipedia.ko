@@ -79,8 +79,8 @@
   - [나이까 시니안](https://ko.wikipedia.org/wiki/나이까_시니안 "wikilink") (캔) (นายิกา ศรีเนียน; แคน) 1기생. 팀BIII. [2018년](../Page/2018년.md "wikilink") [8월 26일](../Page/8월_26일.md "wikilink") 졸업.
   - [메사 찌나위짜라나](https://ko.wikipedia.org/wiki/메사_찌나위짜라나 "wikilink") (메사) (เมษา จีนะวิจารณะ; เมษา) 1기생. 연구생. [2018년](../Page/2018년.md "wikilink") [10월 31일](../Page/10월_31일.md "wikilink") 졸업.
   - [핌니파 땅사꾼](https://ko.wikipedia.org/wiki/핌니파_땅사꾼 "wikilink") (디니) (พิมพ์นิภา ตั้งสกุล; ดีนี่) - 2기생. 연구생. [2019년](../Page/2019년.md "wikilink") [8월 11일](../Page/8월_11일.md "wikilink") 졸업.
-  - [뿐야위 쯩짜른](https://ko.wikipedia.org/wiki/뿐야위_쯩짜른 "wikilink") (옴) (ปุณยวีร์ จึงเจริญ; ออม) - 2기생. 연구생. [2019년](../Page/2019년.md "wikilink") [8월 27일](../Page/8월_27일.md "wikilink") [CGM48](https://ko.wikipedia.org/wiki/CGM48 "wikilink") 캡틴 이적.
-  - [이즈타 리나](../Page/이즈타_리나.md "wikilink") (이즈리나) (รินะ อิซึตะ; อิซึรินะ) - 팀BIII. 유일한 일본인 멤버. [2019년](../Page/2019년.md "wikilink") [8월 27일](../Page/8월_27일.md "wikilink") [CGM48](https://ko.wikipedia.org/wiki/CGM48 "wikilink") 극장 지배인 이적. 전 [AKB48](../Page/AKB48.md "wikilink") 팀A→B.
+  - [뿐야위 쯩짜른](https://ko.wikipedia.org/wiki/뿐야위_쯩짜른 "wikilink") (옴) (ปุณยวีร์ จึงเจริญ; ออม) - 2기생. 연구생. [2019년](../Page/2019년.md "wikilink") [8월 27일](../Page/8월_27일.md "wikilink") [CGM48](../Page/CGM48.md "wikilink") 캡틴 이적.
+  - [이즈타 리나](../Page/이즈타_리나.md "wikilink") (이즈리나) (รินะ อิซึตะ; อิซึรินะ) - 팀BIII. 유일한 일본인 멤버. [2019년](../Page/2019년.md "wikilink") [8월 27일](../Page/8월_27일.md "wikilink") [CGM48](../Page/CGM48.md "wikilink") 극장 지배인 이적. 전 [AKB48](../Page/AKB48.md "wikilink") 팀A→B.
   - [나와폰 짠숙](https://ko.wikipedia.org/wiki/나와폰_짠숙 "wikilink") (케이크) (นวพร จันทร์สุข; เค้ก) 2기생. 연구생. [2019년](../Page/2019년.md "wikilink") [9월 27일](../Page/9월_27일.md "wikilink") 졸업.
   - [마이라 쿠야마](https://ko.wikipedia.org/wiki/마이라_쿠야마 "wikilink") (마이라) (มะอิระ คูยามา; มัยร่า) 2기생. 연구생. [2019년](../Page/2019년.md "wikilink") [12월 7일](../Page/12월_7일.md "wikilink") 졸업.
   - [두시따 끼띠사라꾼차이](https://ko.wikipedia.org/wiki/두시따_끼띠사라꾼차이 "wikilink") (내터린) (ดุสิตา กิติสาระกุลชัย; แนทเธอรีน) 2기생. 팀NV. [2020년](../Page/2020년.md "wikilink") [2월 16일](../Page/2월_16일.md "wikilink") 졸업.
@@ -334,8 +334,8 @@ Digital Download</p></td>
   - [AKB48 Team SH](../Page/AKB48_Team_SH.md "wikilink")
   - [AKB48 Team TP](../Page/AKB48_Team_TP.md "wikilink")
   - [SGO48](../Page/SGO48.md "wikilink")
-  - [CGM48](https://ko.wikipedia.org/wiki/CGM48 "wikilink")
-  - [DEL48](https://ko.wikipedia.org/wiki/DEL48 "wikilink")
+  - [CGM48](../Page/CGM48.md "wikilink")
+  - [DEL48](../Page/DEL48.md "wikilink")
   - [MUB48](../Page/MUB48.md "wikilink")
 
 ## 각주
@@ -354,7 +354,7 @@ Digital Download</p></td>
 
   - [BNK48 공식 유튜브 채널](https://www.youtube.com/channel/UClIsaGq7vBEW00ASqwQyzPw)
 
-[\*](https://ko.wikipedia.org/wiki/분류:BNK48 "wikilink") [분류:태국의 음악 그룹‎](https://ko.wikipedia.org/wiki/분류:태국의_음악_그룹‎ "wikilink") [분류:태국의 걸 그룹](https://ko.wikipedia.org/wiki/분류:태국의_걸_그룹 "wikilink") [분류:2017년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2017년_결성된_음악_그룹 "wikilink") [분류:2017년 데뷔](https://ko.wikipedia.org/wiki/분류:2017년_데뷔 "wikilink") [분류:10인조 이상 음악 그룹](https://ko.wikipedia.org/wiki/분류:10인조_이상_음악_그룹 "wikilink") [분류:2010년대 음악 그룹](https://ko.wikipedia.org/wiki/분류:2010년대_음악_그룹 "wikilink")
+[\*](https://ko.wikipedia.org/wiki/분류:BNK48 "wikilink") [분류:태국의 음악 그룹](https://ko.wikipedia.org/wiki/분류:태국의_음악_그룹 "wikilink") [분류:태국의 걸 그룹](https://ko.wikipedia.org/wiki/분류:태국의_걸_그룹 "wikilink") [분류:2017년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2017년_결성된_음악_그룹 "wikilink") [분류:10인조 이상 음악 그룹](https://ko.wikipedia.org/wiki/분류:10인조_이상_음악_그룹 "wikilink") [분류:2010년대 음악 그룹](https://ko.wikipedia.org/wiki/분류:2010년대_음악_그룹 "wikilink")
 
 1.
 2.

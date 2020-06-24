@@ -444,7 +444,7 @@ SNH/팀A</p></td>
 </tr>
 <tr class="odd">
 <td><p>42</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/고지마_하루나" title="wikilink">코지마 하루나</a></p></td>
+<td><p><a href="../Page/고지마_하루나.md" title="wikilink">코지마 하루나</a></p></td>
 <td><p>팀B</p></td>
 <td></td>
 <td></td>

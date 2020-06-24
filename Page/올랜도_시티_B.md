@@ -30,4 +30,4 @@
 
   - [올랜도 시티 SC](../Page/올랜도_시티_SC.md "wikilink") (올랜도, 플로리다)
 
-[분류:USL 리그 1 구단](https://ko.wikipedia.org/wiki/분류:USL_리그_1_구단 "wikilink") [분류:2015년 설립된 축구단](https://ko.wikipedia.org/wiki/분류:2015년_설립된_축구단 "wikilink")
+[분류:USL 리그 1 구단](https://ko.wikipedia.org/wiki/분류:USL_리그_1_구단 "wikilink") [분류:2015년 설립된 축구단](https://ko.wikipedia.org/wiki/분류:2015년_설립된_축구단 "wikilink") [분류:플로리다주의 축구단](https://ko.wikipedia.org/wiki/분류:플로리다주의_축구단 "wikilink")

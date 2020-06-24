@@ -7,13 +7,13 @@
 
 [대한민국](../Page/대한민국.md "wikilink") 최초의 MMS채널이며, 다채널 방송의 공적 취지에 맞게 공익광고를 제외한 상업광고는 내보내지 않는다.
 
-주요 편성 내용을 보면 초중고 수준·단계별 교육 콘텐츠, 전 세대별 맞춤형 영어 콘텐츠, 방과 후 학교 및 특기적성교육 콘텐츠, 다문화 가족 위한 한국어 교육 콘텐츠, 미래 통일시대 대비 교육 콘텐츠 등이다. 2018년 11월 현재 시범서비스중이며, 본방송을 실시하기 위하여 방송통신위원회에서 관련 법안 개정을 준비중이다. 유료방송 재전송서비스는 MSO의 디지털방송을 제외하고 모두 서비스 중이다.
+주요 편성 내용을 보면 초중고 수준·단계별 교육 콘텐츠, 전 세대별 맞춤형 영어 콘텐츠, 방과 후 학교 및 특기적성교육 콘텐츠, 다문화 가족 위한 한국어 교육 콘텐츠, 미래 통일시대 대비 교육 콘텐츠 등이다. 2018년 11월 현재 시범서비스중이며, 본방송을 실시하기 위하여 [방송통신위원회](https://ko.wikipedia.org/wiki/방송통신위원회 "wikilink")에서 관련 법안 개정을 준비 중이다. 유료방송 재전송서비스는 MSO의 디지털방송을 제외하고 모두 서비스 중이다.
 
 ## 연혁
 
   - [2015년](../Page/2015년.md "wikilink") [2월 5일](../Page/2월_5일.md "wikilink") : 시험방송 시작.
   - 2015년 [2월 11일](../Page/2월_11일.md "wikilink") : 서울특별시 강남구 도곡동 본사에서 신용섭 EBS 사장, 최성준 방송통신위원장 등 12명이서 송출버튼을 누른 것으로 개국했다.
-  - 2015년 [2월 13일](../Page/2월_13일.md "wikilink") : 구 [CJ 헬로비전](https://ko.wikipedia.org/wiki/CJ_헬로비전 "wikilink")(현 [LG헬로비전](../Page/LG헬로비전.md "wikilink"))과 [티브로드](../Page/티브로드.md "wikilink"), [C\&M](https://ko.wikipedia.org/wiki/C&M "wikilink"), [HCN](https://ko.wikipedia.org/wiki/HCN_\(방송\) "wikilink"), [CMB](../Page/CMB_\(방송사\).md "wikilink") 등을 포함한 케이블TV 사업자들이 재송신하기로 합의를 하였다.\[1\]
+  - 2015년 [2월 13일](../Page/2월_13일.md "wikilink") : 구 [CJ 헬로비전](https://ko.wikipedia.org/wiki/CJ_헬로비전 "wikilink")(현 [LG헬로비전](../Page/LG헬로비전.md "wikilink"))과 [티브로드](../Page/티브로드.md "wikilink")(현 [SK브로드밴드](../Page/SK브로드밴드.md "wikilink")에 매각), [C\&M](https://ko.wikipedia.org/wiki/C&M "wikilink"), [HCN](https://ko.wikipedia.org/wiki/HCN_\(방송\) "wikilink"), [CMB](../Page/CMB_\(방송사\).md "wikilink") 등을 포함한 케이블TV 사업자들이 재송신하기로 합의를 하였다.\[1\]
   - 2015년 [4월 1일](../Page/4월_1일.md "wikilink") : 케이블TV 재송신 개시.\[2\]
   - 2015년 11월 21일 : KT 올레TV 라이브(KT IPTV)에서 EBS 2TV 재송신 개시
   - 2015년 12월 10일 : SK Btv(SKB IPTV)에서 EBS 2TV 재송신 개시

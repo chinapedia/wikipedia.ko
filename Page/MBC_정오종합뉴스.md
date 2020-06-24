@@ -70,27 +70,26 @@
 
 ## 지역 방송국 프로그램
 
-| 방송국                                               | 프로그램 타이틀            | 주중 진행자                                              |
-| ------------------------------------------------- | ------------------- | --------------------------------------------------- |
-| [원주MBC](../Page/원주문화방송.md "wikilink")             | MBC 정오종합뉴스 원주       | 김용석                                                 |
-| [춘천MBC](../Page/춘천문화방송.md "wikilink")             | MBC 정오종합뉴스 춘천       | 정우성                                                 |
-| [MBC강원영동 강릉](../Page/MBC강원영동_강릉방송국.md "wikilink") | MBC 정오종합뉴스 강원영동     | 민기원                                                 |
-| [MBC강원영동 삼척](../Page/MBC강원영동_삼척방송국.md "wikilink") |                     |                                                     |
-| [MBC충북 청주](../Page/MBC충북_청주방송국.md "wikilink")     | MBC 정오종합뉴스 충북       | 이영락                                                 |
-| [MBC충북 충주](../Page/MBC충북_충주방송국.md "wikilink")     | 구본상                 |                                                     |
-| [대전MBC](../Page/대전문화방송.md "wikilink")             | MBC 정오종합뉴스 대전 세종 충남 | [임보라](https://ko.wikipedia.org/wiki/임보라 "wikilink") |
-| [대구MBC](../Page/대구문화방송.md "wikilink")             | MBC 정오종합뉴스 대구 경북    | 이유진                                                 |
-| [안동MBC](../Page/안동문화방송.md "wikilink")             | MBC 정오종합뉴스 안동       | 김경환                                                 |
-| [포항MBC](../Page/포항문화방송.md "wikilink")             | MBC 정오종합뉴스 포항       | 윤수빈                                                 |
-| [부산MBC](../Page/부산문화방송.md "wikilink")             | MBC 정오종합뉴스 부산       | 박기홍                                                 |
-| [울산MBC](../Page/울산문화방송.md "wikilink")             | MBC 정오종합뉴스 울산       | 최진구                                                 |
-| [MBC경남](../Page/MBC경남.md "wikilink")              | MBC 정오종합뉴스 경남       | 백근곤                                                 |
-| [전주MBC](../Page/전주문화방송.md "wikilink")             | MBC 정오종합뉴스 전북권뉴스    | 이충훈                                                 |
-| [광주MBC](../Page/광주문화방송.md "wikilink")             | MBC 정오종합뉴스 광주·전남    | 김두식                                                 |
-| [목포MBC](../Page/목포문화방송.md "wikilink")             | MBC 정오종합뉴스 목포·전남    | 전소영                                                 |
-| [여수MBC](../Page/여수문화방송.md "wikilink")             | MBC 정오종합뉴스 전남동부권    | 이용선                                                 |
-| [제주MBC](../Page/제주문화방송.md "wikilink")             | MBC 정오종합뉴스 제주       | 윤상범                                                 |
-|                                                   |                     |                                                     |
+| 방송국                                           | 프로그램 타이틀            | 주중 진행자                           |
+| --------------------------------------------- | ------------------- | -------------------------------- |
+| [원주MBC](../Page/원주문화방송.md "wikilink")         | MBC 정오종합뉴스 원주       | 김용석                              |
+| [춘천MBC](../Page/춘천문화방송.md "wikilink")         | MBC 정오종합뉴스 춘천       | 정우성                              |
+| [MBC강원영동](../Page/MBC강원영동.md "wikilink")      | MBC 정오종합뉴스 강원영동     | 민기원                              |
+| [MBC충북 청주](../Page/MBC충북_청주방송국.md "wikilink") | MBC 정오종합뉴스 충북       | 이영락                              |
+| [MBC충북 충주](../Page/MBC충북_충주방송국.md "wikilink") | 구본상                 |                                  |
+| [대전MBC](../Page/대전문화방송.md "wikilink")         | MBC 정오종합뉴스 대전 세종 충남 | [남유식](../Page/남유식.md "wikilink") |
+| [대구MBC](../Page/대구문화방송.md "wikilink")         | MBC 정오종합뉴스 대구 경북    | 이유진                              |
+| [안동MBC](../Page/안동문화방송.md "wikilink")         | MBC 정오종합뉴스 안동       | 김경환                              |
+| [포항MBC](../Page/포항문화방송.md "wikilink")         | MBC 정오종합뉴스 포항       | 윤수빈                              |
+| [부산MBC](../Page/부산문화방송.md "wikilink")         | MBC 정오종합뉴스 부산       | 박기홍                              |
+| [울산MBC](../Page/울산문화방송.md "wikilink")         | MBC 정오종합뉴스 울산       | 최진구                              |
+| [MBC경남](../Page/MBC경남.md "wikilink")          | MBC 정오종합뉴스 경남       | 백근곤                              |
+| [전주MBC](../Page/전주문화방송.md "wikilink")         | MBC 정오종합뉴스 전북권뉴스    | 이충훈                              |
+| [광주MBC](../Page/광주문화방송.md "wikilink")         | MBC 정오종합뉴스 광주·전남    | 김두식                              |
+| [목포MBC](../Page/목포문화방송.md "wikilink")         | MBC 정오종합뉴스 목포·전남    | 김은재                              |
+| [여수MBC](../Page/여수문화방송.md "wikilink")         | MBC 정오종합뉴스 전남동부권    | 이용선                              |
+| [제주MBC](../Page/제주문화방송.md "wikilink")         | MBC 정오종합뉴스 제주       | 윤상범                              |
+|                                               |                     |                                  |
 
 ## 동시 시간대 뉴스 프로그램
 

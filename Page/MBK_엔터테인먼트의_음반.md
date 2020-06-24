@@ -238,8 +238,8 @@
   - 2016년 9월 13일 다이아 - **Spell**
   - 2016년 9월 24일 승희,채연 - **먹고 자고 먹고 OST**\[39\]
   - 2016년 11월 9일 티아라 - **[REMEMBER](https://ko.wikipedia.org/wiki/REMEMBER_\(티아라의_음반\) "wikilink")**
-  - 2016년 12월 29일 [빈챈현스](../Page/다이아_\(음악_그룹\).md "wikilink") - **\[Digital Single\] First Miracle DIAID I**
-  - 2016년 12월 31일 [L.U.B](../Page/다이아_\(음악_그룹\).md "wikilink") - **\[Digital Single\] First Miracle DIAID II**
+  - 2016년 12월 29일 [빈챈현스](https://ko.wikipedia.org/wiki/빈챈현스S "wikilink") - **\[Digital Single\] First Miracle DIAID I**
+  - 2016년 12월 31일 [L.U.B](https://ko.wikipedia.org/wiki/L.U.B "wikilink") - **\[Digital Single\] First Miracle DIAID II**
   - 2017년 4월 6일 다이아 - **\[Digital Single\] 꽃,달,술**\[40\]
   - 2017년 4월 19일 다이아 - **[YOLO](https://ko.wikipedia.org/wiki/YOLO "wikilink")**
   - 2017년 6월 14일 티아라 - **What's My Name**
@@ -289,6 +289,7 @@
   - 2020년 3월 28일 송가인 - **\[Digital Single\] 이별의 정류장**\[49\]
   - 2020년 3월 30일 H\&D - **\[Digital Single\] 낯설어**\[50\]
   - 2020년 4월 21일 H\&D - **SOULMATE**
+  - 2020년 6월 10일 다이아 - **Flower 4 Seasons**
 
 ## 각주
 

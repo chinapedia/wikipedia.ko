@@ -518,6 +518,6 @@ DJ Pandol, 강드레아, <a href="../Page/칵스.md" title="wikilink">칵스</a>
 
   - [윤도현의 MUST 홈페이지](https://web.archive.org/web/20140402170140/http://mnet.interest.me/tv/program/471)
 
-[분류:엠넷에서 방영된 프로그램](https://ko.wikipedia.org/wiki/분류:엠넷에서_방영된_프로그램 "wikilink") [분류:대한민국의 음악 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:대한민국의_음악_텔레비전_프로그램 "wikilink")
+[분류:엠넷의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:엠넷의_텔레비전_프로그램 "wikilink") [분류:대한민국의 음악 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:대한민국의_음악_텔레비전_프로그램 "wikilink")
 
 1.  [슈퍼스타K 3 참가자 목록\#헤이즈](https://ko.wikipedia.org/wiki/슈퍼스타K_3_참가자_목록#헤이즈 "wikilink") 참조

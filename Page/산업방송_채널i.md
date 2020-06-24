@@ -20,16 +20,23 @@
 ### 현직 기자
 
   - 이창수 기자
+  - 백가혜 기자
+  - 김수빈 기자
   - 황다인 기자
+  - 이지원 기자
 
 ### 산업뉴스in 앵커
 
-  - 황다인 앵커
+  - 이창수 앵커
 
 ## TV 프로그램
 
-  - 산업뉴스
-  - 청바지(청년이바라는지금)
+  - 산업뉴스in
+  - 심층이슈 더팩트
+  - 만기누설
+  - 인더스토리
+  - 히든챔피언
+  - 백전무패
 
 ### 방송편성
 
@@ -63,7 +70,7 @@
 
 ## 같이 보기
 
-  - [한국산업기술미디어문화재단](https://ko.wikipedia.org/wiki/한국산업기술미디어문화재단 "wikilink")
+  - [한국산업기술문화재단](https://ko.wikipedia.org/wiki/한국산업기술미디어문화재단 "wikilink")
 
 ## 해외 제휴 방송국
 
@@ -72,7 +79,7 @@
 ## 외부 링크
 
   - [산업방송 공식 홈페이지](http://www.chi.or.kr)
-  - [한국산업기술미디어문화재단 홈페이지](http://www.kimac.or.kr/)
+  - [한국산업기술문화재단 홈페이지](http://www.kimac.or.kr/)
   - [산업방송 페이스북](https://www.facebook.com/industryTV?pnref=story/)
   - [산업방송 유투브](https://www.youtube.com/channel/UC_SfATANgLfDTl2KJD06EUQ/)
   - [산업방송 앱 다운로드 (구글Play)](https://play.google.com/store/apps/details?id=kimac.chi.android&hl=ko/)

@@ -23,7 +23,7 @@
 </tr>
 <tr class="even">
 <td><p>2015년 11월 27일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/서울" title="wikilink">서울</a></p></td>
+<td><p><a href="../Page/서울특별시.md" title="wikilink">서울</a></p></td>
 <td></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/올림픽공원" title="wikilink">SK 올림픽 핸드볼경기장</a></p></td>
 </tr>
@@ -41,7 +41,7 @@
 </tr>
 <tr class="odd">
 <td><p>2015년 12월 8일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/요코하마" title="wikilink">요코하마</a></p></td>
+<td><p><a href="../Page/요코하마시.md" title="wikilink">요코하마</a></p></td>
 <td></td>
 <td><p><a href="../Page/요코하마_아레나.md" title="wikilink">요코하마 아레나</a></p></td>
 </tr>
@@ -53,7 +53,7 @@
 </tr>
 <tr class="odd">
 <td><p>2015년 12월 26일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/고베" title="wikilink">고베</a></p></td>
+<td><p><a href="../Page/고베시.md" title="wikilink">고베</a></p></td>
 <td><p>고베 월드 기념 홀</p></td>
 <td></td>
 </tr>
@@ -100,7 +100,7 @@
 </tr>
 <tr class="even">
 <td><p>2015년 12월 27일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/고베" title="wikilink">고베</a></p></td>
+<td><p>고베</p></td>
 <td></td>
 <td><p>고베 월드 기념홀</p></td>
 <td><p>멤버 <a href="https://ko.wikipedia.org/wiki/슈가_(래퍼)" title="wikilink">슈가와</a> <a href="../Page/뷔.md" title="wikilink">뷔</a>의 건강 문제[1][2]</p></td>

@@ -32,4 +32,4 @@
   - [테이스티](../Page/테이스티.md "wikilink") - **SPECTACULAR**
   - [에이젝스](https://ko.wikipedia.org/wiki/에이젝스_\(음악_그룹\) "wikilink") - **미쳐가**
 
-[분류:2011년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2011년_결성된_음악_그룹 "wikilink") [분류:2011년 데뷔](https://ko.wikipedia.org/wiki/분류:2011년_데뷔 "wikilink") [분류:2인조 음악 그룹](https://ko.wikipedia.org/wiki/분류:2인조_음악_그룹 "wikilink") [분류:울림엔터테인먼트 소속](https://ko.wikipedia.org/wiki/분류:울림엔터테인먼트_소속 "wikilink")
+[분류:2011년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2011년_결성된_음악_그룹 "wikilink") [분류:남성 듀오](https://ko.wikipedia.org/wiki/분류:남성_듀오 "wikilink") [분류:울림엔터테인먼트 소속](https://ko.wikipedia.org/wiki/분류:울림엔터테인먼트_소속 "wikilink")

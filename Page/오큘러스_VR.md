@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [오큘러스 VR](https://ko.wikipedia.org/wiki/오큘러스_VR).
 
 
-**오큘러스 VR**(Oculus VR)은 2012년 7월 [캘리포니아주 어바인에서](../Page/어바인_\(캘리포니아주\).md "wikilink") [Palmer Luckey](https://ko.wikipedia.org/wiki/Palmer_Luckey "wikilink"), [Brendan Iribe](https://ko.wikipedia.org/wiki/Brendan_Iribe "wikilink"), Michael Antonov, Nate Mitchell이 설립한 미국의 [기술 기업으로](https://ko.wikipedia.org/wiki/기술_기업 "wikilink"), 현재 본사는 [멘로파크](../Page/멘로파크.md "wikilink")에 위치해 있다. [가상현실](../Page/가상현실.md "wikilink") 하드웨어와 소프트웨어 제품이 전문이다.
+**오큘러스 VR**(Oculus VR)은 2012년 7월 [캘리포니아주 어바인에서](../Page/어바인_\(캘리포니아주\).md "wikilink") [Palmer Luckey](https://ko.wikipedia.org/wiki/Palmer_Luckey "wikilink"), [Brendan Iribe](https://ko.wikipedia.org/wiki/Brendan_Iribe "wikilink"), Michael Antonov, Nate Mitchell, Dillon Seo(한국명 서동일)가 공동으로 설립한 미국의 [기술 기업으로](https://ko.wikipedia.org/wiki/기술_기업 "wikilink"), 현재 본사는 [멘로파크](../Page/멘로파크.md "wikilink")에 위치해 있다. [가상현실](../Page/가상현실.md "wikilink") 하드웨어와 소프트웨어 제품이 전문이다.
 
 2012년 4월, Luckey는 비디오 게이밍을 위해 설계된 [가상 현실 헤드셋인](https://ko.wikipedia.org/wiki/가상_현실_헤드셋 "wikilink") [리프트를](../Page/오큘러스_리프트.md "wikilink") 발표하였고 개발자들에게 가상현실 헤드셋을 판매할 수 있도록 8월 [킥스타터](../Page/킥스타터.md "wikilink") 캠페인을 런칭하였다. 이 캠페인은 성공이 입증되어 2,400,000 달러의 수익을 올렸는데, 이는 원래 목표치인 $250,000의 10배에 해당한다. 2개의 생산 이전 모델들이 개발자들에게 공개되었다: 오큘러스 VR DK1 (개발 키트 1), 오큘러스 VR DK2 (개발 키트 2). 소비자용 제품은 2016년 3월 28일 완전히 새로워진 디자인과 함께 출시되었으며 전용 VR 디스플레이, 포지셔널 오디오, 적외선 추적 시스템이 포함되었다.
 

@@ -64,4 +64,4 @@
 
   - [이은결 김원준의 TOP 매직 공식사이트](https://web.archive.org/web/20150706222355/http://tv.ichannela.com/enter/topmagic)
 
-[분류:채널A의 예능 프로그램](https://ko.wikipedia.org/wiki/분류:채널A의_예능_프로그램 "wikilink") [분류:대한민국의 텔레비전 버라이어티 쇼](https://ko.wikipedia.org/wiki/분류:대한민국의_텔레비전_버라이어티_쇼 "wikilink") [분류:2010년대 대한민국의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:2010년대_대한민국의_텔레비전_프로그램 "wikilink") [분류:마술 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:마술_텔레비전_프로그램 "wikilink")
+[분류:채널A의 예능 프로그램](https://ko.wikipedia.org/wiki/분류:채널A의_예능_프로그램 "wikilink") [분류:대한민국의 텔레비전 버라이어티 쇼](https://ko.wikipedia.org/wiki/분류:대한민국의_텔레비전_버라이어티_쇼 "wikilink") [분류:2010년대 대한민국의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:2010년대_대한민국의_텔레비전_프로그램 "wikilink") [분류:마술 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:마술_텔레비전_프로그램 "wikilink") [분류:2012년에 시작한 대한민국 TV 프로그램](https://ko.wikipedia.org/wiki/분류:2012년에_시작한_대한민국_TV_프로그램 "wikilink") [분류:2012년에 종료한 대한민국 TV 프로그램](https://ko.wikipedia.org/wiki/분류:2012년에_종료한_대한민국_TV_프로그램 "wikilink")

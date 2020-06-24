@@ -39,11 +39,14 @@
 
 ### 방송
 
+  - [2015년](../Page/2015년.md "wikilink") [JTBC](../Page/JTBC.md "wikilink") [슈가맨 시즌1](../Page/투유_프로젝트_-_슈가맨.md "wikilink") 11회
+  - [2016년](../Page/2016년.md "wikilink") [JTBC](../Page/JTBC.md "wikilink") [아는 형님](../Page/아는_형님.md "wikilink") 34회
   - [2018년](../Page/2018년.md "wikilink") [MBC](https://ko.wikipedia.org/wiki/MBC "wikilink") [미스터리 음악쇼 복면가왕](../Page/미스터리_음악쇼_복면가왕.md "wikilink") - 님아 그 테이프를 늘이지 마오.. 카세트소녀. <참가자>
+  - [2019년](../Page/2019년.md "wikilink") [JTBC](../Page/JTBC.md "wikilink") [슈가맨](../Page/투유_프로젝트_-_슈가맨.md "wikilink") 시즌3 3회
 
 ## 각주
 
-[분류:1996년 태어남](https://ko.wikipedia.org/wiki/분류:1996년_태어남 "wikilink") [분류:살아있는 사람](https://ko.wikipedia.org/wiki/분류:살아있는_사람 "wikilink") [분류:서울특별시 출신 가수](https://ko.wikipedia.org/wiki/분류:서울특별시_출신_가수 "wikilink") [분류:2014년 데뷔](https://ko.wikipedia.org/wiki/분류:2014년_데뷔 "wikilink") [분류:서울특별시 출신 음악가](https://ko.wikipedia.org/wiki/분류:서울특별시_출신_음악가 "wikilink") [분류:대한민국의 여자 가수](https://ko.wikipedia.org/wiki/분류:대한민국의_여자_가수 "wikilink") [분류:대한민국의 발라드 음악가](https://ko.wikipedia.org/wiki/분류:대한민국의_발라드_음악가 "wikilink") [분류:대한민국의 가수](https://ko.wikipedia.org/wiki/분류:대한민국의_가수 "wikilink") [분류:러블리즈의 일원](https://ko.wikipedia.org/wiki/분류:러블리즈의_일원 "wikilink") [분류:울림엔터테인먼트 소속](https://ko.wikipedia.org/wiki/분류:울림엔터테인먼트_소속 "wikilink") [분류:한국예술고등학교 동문](https://ko.wikipedia.org/wiki/분류:한국예술고등학교_동문 "wikilink") [분류:대한민국의 장로교도](https://ko.wikipedia.org/wiki/분류:대한민국의_장로교도 "wikilink") [분류:미스터리 음악쇼 복면가왕 참가자](https://ko.wikipedia.org/wiki/분류:미스터리_음악쇼_복면가왕_참가자 "wikilink") [분류:서울특별시 출신](https://ko.wikipedia.org/wiki/분류:서울특별시_출신 "wikilink")
+[분류:1996년 태어남](https://ko.wikipedia.org/wiki/분류:1996년_태어남 "wikilink") [분류:살아있는 사람](https://ko.wikipedia.org/wiki/분류:살아있는_사람 "wikilink") [분류:서울특별시 출신 가수](https://ko.wikipedia.org/wiki/분류:서울특별시_출신_가수 "wikilink") [분류:서울특별시 출신 음악가](https://ko.wikipedia.org/wiki/분류:서울특별시_출신_음악가 "wikilink") [분류:대한민국의 여자 가수](https://ko.wikipedia.org/wiki/분류:대한민국의_여자_가수 "wikilink") [분류:대한민국의 발라드 음악가](https://ko.wikipedia.org/wiki/분류:대한민국의_발라드_음악가 "wikilink") [분류:대한민국의 가수](https://ko.wikipedia.org/wiki/분류:대한민국의_가수 "wikilink") [분류:러블리즈의 일원](https://ko.wikipedia.org/wiki/분류:러블리즈의_일원 "wikilink") [분류:울림엔터테인먼트 소속](https://ko.wikipedia.org/wiki/분류:울림엔터테인먼트_소속 "wikilink") [분류:한국예술고등학교 동문](https://ko.wikipedia.org/wiki/분류:한국예술고등학교_동문 "wikilink") [분류:대한민국의 장로교도](https://ko.wikipedia.org/wiki/분류:대한민국의_장로교도 "wikilink") [분류:미스터리 음악쇼 복면가왕 참가자](https://ko.wikipedia.org/wiki/분류:미스터리_음악쇼_복면가왕_참가자 "wikilink") [분류:서울특별시 출신](https://ko.wikipedia.org/wiki/분류:서울특별시_출신 "wikilink")
 
 1.
 2.

@@ -103,7 +103,7 @@
   - 하야시 코즈에: 스트링스
   - 스기야마 마이코: 스트링스
 
-## 참고문헌
+## 참고 문헌
 
   -
   -
@@ -117,36 +117,6 @@
   - 음반
 
 <references group="음반" />
-
-## 외부 링크
-
-  - [B'z 25th Anniversary BEST ALBUM 정보](http://bz-vermillion.com/news/130325.html) - NEWS 2013.03.25 “B'z 25th Anniversary BEST ALBUM 2013년 6월 12일 2개의 제목으로 동시 발매 결정\!\!”에서
-
-  - [B'z DISCOGRAPHY 《B'z The Best XXV 1999-2012》](http://bz-vermillion.com/disco/best_09.html) ※노래 시청이 가능
-
-  - [B'z OFFICIAL YouTube CHANNEL](https://www.youtube.com/user/Bz) ※전체 뮤직비디오의 일부全, B'z 25th Anniversary DIGEST 1988-2013, B'z 25th Anniversary YouTube Special Program 를 공개중
-
-  - [B'z 25죄년 기념 특별집](https://web.archive.org/web/20130827061537/http://event.yahoo.co.jp/bz25th/) - 야후\! 재팬
-
-  - [EX THEATER ROPPONGI](http://www.ex-theater.com/) ※개장행사 “B'z Special LIVE at EX THEATER ROPPONGI”를 개최
-
-  -
-  -
-  - (기간한정개설)
-
-<table>
-<tbody>
-<tr class="odd">
-<td><p><a href="../Page/일본의_애니메이션.md" title="wikilink"><span style="color:#fff">TV 애니메이션</span></a> 《<a href="../Page/명탐정_코난_(애니메이션).md" title="wikilink"><span style="color:#fff"><strong>명탐정 코난</strong></span></a>》 여는 곡<br />
-<small>2013년 5월 4일 (696화) ~ 2013년 11월 9일 (717화)</small></p></td>
-</tr>
-<tr class="even">
-<td><p>이전 곡:<br />
-<a href="../Page/쿠라키_마이.md" title="wikilink">쿠라키 마이</a><br />
-〈<a href="../Page/TRY_AGAIN_(쿠라키_마이의_노래).md" title="wikilink">TRY AGAIN</a>〉</p></td>
-</tr>
-</tbody>
-</table>
 
 [분류:B'z의 음반](https://ko.wikipedia.org/wiki/분류:B'z의_음반 "wikilink") [분류:2013년 음반](https://ko.wikipedia.org/wiki/분류:2013년_음반 "wikilink") [분류:2013년 컴필레이션 음반](https://ko.wikipedia.org/wiki/분류:2013년_컴필레이션_음반 "wikilink")
 

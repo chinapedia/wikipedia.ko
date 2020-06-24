@@ -14,10 +14,10 @@
 현재 JTBC에서 방송되는 예능/오락 프로그램과 드라마를 재방송하고 있으며, 일부 자체 프로그램도 방영하고 있다.
 
   - [바람난 언니들](../Page/바람난_언니들.md "wikilink")
-  - [오늘의 운세](https://ko.wikipedia.org/wiki/오늘의_운세 "wikilink")
-  - [악플의 밤](https://ko.wikipedia.org/wiki/악플의_밤 "wikilink")
+  - [오늘의 운세](../Page/오늘의_운세.md "wikilink")
+  - [악플의 밤](../Page/악플의_밤.md "wikilink")
   - [판벌려](https://ko.wikipedia.org/wiki/판벌려 "wikilink")
-  - [그랜드 부다개스트](https://ko.wikipedia.org/wiki/그랜드_부다개스트 "wikilink")
+  - [그랜드 부다개스트](../Page/그랜드_부다개스트.md "wikilink")
   - [런웨이브](https://ko.wikipedia.org/wiki/런웨이브 "wikilink")
 
 ## 같이 보기
@@ -32,6 +32,6 @@
 
 ## 외부 링크
 
-  - [JTBC2 공식 홈페이지](http://jtbc2.joins.com/)
+  - [JTBC2 공식 홈페이지](https://web.archive.org/web/20160302131551/http://jtbc2.joins.com/)
 
 [분류:중앙방송의 텔레비전 네트워크](https://ko.wikipedia.org/wiki/분류:중앙방송의_텔레비전_네트워크 "wikilink") [분류:오락 텔레비전 네트워크](https://ko.wikipedia.org/wiki/분류:오락_텔레비전_네트워크 "wikilink") [분류:2016년 설립된 텔레비전 방송국과 채널](https://ko.wikipedia.org/wiki/분류:2016년_설립된_텔레비전_방송국과_채널 "wikilink")

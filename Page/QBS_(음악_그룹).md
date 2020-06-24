@@ -57,6 +57,6 @@
 
 <references/>
 
-[분류:유닛 음악 그룹](https://ko.wikipedia.org/wiki/분류:유닛_음악_그룹 "wikilink") [분류:일본어 음악 그룹](https://ko.wikipedia.org/wiki/분류:일본어_음악_그룹 "wikilink") [분류:대한민국의 팝 음악 그룹](https://ko.wikipedia.org/wiki/분류:대한민국의_팝_음악_그룹 "wikilink") [분류:MBK 엔터테인먼트 소속](https://ko.wikipedia.org/wiki/분류:MBK_엔터테인먼트_소속 "wikilink") [분류:3인조 음악 그룹](https://ko.wikipedia.org/wiki/분류:3인조_음악_그룹 "wikilink") [분류:2013년 데뷔](https://ko.wikipedia.org/wiki/분류:2013년_데뷔 "wikilink") [분류:티아라](https://ko.wikipedia.org/wiki/분류:티아라 "wikilink") [분류:2013년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2013년_결성된_음악_그룹 "wikilink")
+[분류:유닛 음악 그룹](https://ko.wikipedia.org/wiki/분류:유닛_음악_그룹 "wikilink") [분류:일본어 음악 그룹](https://ko.wikipedia.org/wiki/분류:일본어_음악_그룹 "wikilink") [분류:대한민국의 팝 음악 그룹](https://ko.wikipedia.org/wiki/분류:대한민국의_팝_음악_그룹 "wikilink") [분류:MBK 엔터테인먼트 소속](https://ko.wikipedia.org/wiki/분류:MBK_엔터테인먼트_소속 "wikilink") [분류:3인조 음악 그룹](https://ko.wikipedia.org/wiki/분류:3인조_음악_그룹 "wikilink") [분류:티아라](https://ko.wikipedia.org/wiki/분류:티아라 "wikilink") [분류:2013년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2013년_결성된_음악_그룹 "wikilink")
 
 1.

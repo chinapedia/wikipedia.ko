@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Just Give Me a Reason](https://ko.wikipedia.org/wiki/Just_Give_Me_a_Reason).
 
 
-《**Just Give Me a Reason**》은 미국의 팝 가수 [핑크의](../Page/핑크_\(가수\).md "wikilink") 앨범 [The Truth About Love에](https://ko.wikipedia.org/wiki/The_Truth_About_Love "wikilink") 실려있는 노래이다. 피쳐링에는 그룹 [펀의](https://ko.wikipedia.org/wiki/펀_\(밴드\) "wikilink") 멤버 [네이트 루스가](https://ko.wikipedia.org/wiki/네이트_루스 "wikilink") 참여했으며, 이 노래는 [빌보드 핫 100](../Page/빌보드_핫_100.md "wikilink") 차트에서 3주동안 1위를 한 경험이 있다.
+《**Just Give Me a Reason**》은 미국의 팝 가수 [핑크의](../Page/핑크_\(가수\).md "wikilink") 앨범 [The Truth About Love에](https://ko.wikipedia.org/wiki/The_Truth_About_Love "wikilink") 실려있는 노래이다. 피쳐링에는 그룹 [펀의](../Page/펀_\(밴드\).md "wikilink") 멤버 [네이트 루스가](https://ko.wikipedia.org/wiki/네이트_루스 "wikilink") 참여했으며, 이 노래는 [빌보드 핫 100](../Page/빌보드_핫_100.md "wikilink") 차트에서 3주동안 1위를 한 경험이 있다.
 
 ## 곡 목록
 

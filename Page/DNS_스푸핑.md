@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [DNS 스푸핑](https://ko.wikipedia.org/wiki/DNS_스푸핑).
 
 
-**DNS 스푸핑**() 또는 **DNS 캐시 포지셔닝**()은 컴퓨터 보안 [해킹의](https://ko.wikipedia.org/wiki/보안_해커 "wikilink") 일종이며, 변질된 [도메인 네임 시스템](../Page/도메인_네임_시스템.md "wikilink") 데이터가 [DNS 리졸버](../Page/도메인_네임_시스템.md "wikilink")(DNS resolver)의 [캐시에](https://ko.wikipedia.org/wiki/네임_서버 "wikilink") 유입되어 [네임 서버가](https://ko.wikipedia.org/wiki/네임_서버 "wikilink") 유효하지 않은 결과 레코드(예: [IP 주소](../Page/IP_주소.md "wikilink"))를 반환한다. 이를 통해 공격자의 컴퓨터(또는 다른 컴퓨터)로 [공격 우회를](../Page/중간자_공격.md "wikilink") 할 수 있다.
+**DNS 스푸핑**() 또는 **DNS 캐시 포이즈닝**()은 컴퓨터 보안 [해킹의](https://ko.wikipedia.org/wiki/보안_해커 "wikilink") 일종이며, 변질된 [도메인 네임 시스템](../Page/도메인_네임_시스템.md "wikilink") 데이터가 [DNS 리졸버](../Page/도메인_네임_시스템.md "wikilink")(DNS resolver)의 [캐시에](https://ko.wikipedia.org/wiki/네임_서버 "wikilink") 유입되어 [네임 서버가](https://ko.wikipedia.org/wiki/네임_서버 "wikilink") 유효하지 않은 결과 레코드(예: [IP 주소](../Page/IP_주소.md "wikilink"))를 반환한다. 이를 통해 공격자의 컴퓨터(또는 다른 컴퓨터)로 [공격 우회를](../Page/중간자_공격.md "wikilink") 할 수 있다.
 
 ## 도메인 네임 시스템 개요
 

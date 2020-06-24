@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Love \& Hope Tour 2011 Live Album](https://ko.wikipedia.org/wiki/Love_\&_Hope_Tour_2011_Live_Album).
 
 
-《**Love & Hope Tour 2011 Live Album**》은 대한민국의 음악 그룹 [빅뱅의](../Page/빅뱅_\(음악_그룹\).md "wikilink") 첫 번째 일본 라이브 음반이다. 2010년 5월 10일부터 5월 19일까지 [오사카](https://ko.wikipedia.org/wiki/오사카 "wikilink"), [지바현](../Page/지바현.md "wikilink"), [나고야 시의](https://ko.wikipedia.org/wiki/나고야_시 "wikilink") 3개 도시에서 개최 된 빅뱅의 세 번째 일본 투어의 공연 실황이 수록 되었다.
+《**Love & Hope Tour 2011 Live Album**》은 대한민국의 음악 그룹 [빅뱅의](../Page/빅뱅_\(음악_그룹\).md "wikilink") 첫 번째 일본 라이브 음반이다. 2010년 5월 10일부터 5월 19일까지 [오사카](https://ko.wikipedia.org/wiki/오사카 "wikilink"), [지바현](../Page/지바현.md "wikilink"), [나고야시](../Page/나고야시.md "wikilink")의 3개 도시에서 개최 된 빅뱅의 세 번째 일본 투어의 공연 실황이 수록 되었다.
 
 ## 트랙 리스트
 

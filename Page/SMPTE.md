@@ -42,6 +42,6 @@ SMPTE는 1999년 디지털 시네마 : DC28 설립을 위한 기술 위원회를
 ## 외부 링크
 
   -
-[분류:영상 기술](https://ko.wikipedia.org/wiki/분류:영상_기술 "wikilink") [분류:1916년 설립](https://ko.wikipedia.org/wiki/분류:1916년_설립 "wikilink") [분류:텔레비전 용어](https://ko.wikipedia.org/wiki/분류:텔레비전_용어 "wikilink")
+[분류:영상 기술](https://ko.wikipedia.org/wiki/분류:영상_기술 "wikilink") [분류:1916년 설립](https://ko.wikipedia.org/wiki/분류:1916년_설립 "wikilink") [분류:텔레비전 용어](https://ko.wikipedia.org/wiki/분류:텔레비전_용어 "wikilink") [분류:뉴욕주의 단체](https://ko.wikipedia.org/wiki/분류:뉴욕주의_단체 "wikilink")
 
 1.  See Charles S. Swartz (editor). *Understanding Digital Cinema. A Professional Handbok*. Elsevier, 2005, p. 7.

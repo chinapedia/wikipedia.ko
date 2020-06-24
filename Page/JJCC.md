@@ -141,4 +141,4 @@
 ## 외부 링크
 
   -
-[분류:대한민국의 아이돌 그룹](https://ko.wikipedia.org/wiki/분류:대한민국의_아이돌_그룹 "wikilink") [분류:2014년 데뷔](https://ko.wikipedia.org/wiki/분류:2014년_데뷔 "wikilink") [분류:7인조 음악 그룹](https://ko.wikipedia.org/wiki/분류:7인조_음악_그룹 "wikilink") [분류:대한민국의 댄스 음악 그룹](https://ko.wikipedia.org/wiki/분류:대한민국의_댄스_음악_그룹 "wikilink") [분류:대한민국의 힙합 그룹](https://ko.wikipedia.org/wiki/분류:대한민국의_힙합_그룹 "wikilink") [분류:2010년대 음악 그룹](https://ko.wikipedia.org/wiki/분류:2010년대_음악_그룹 "wikilink") [분류:2014년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2014년_결성된_음악_그룹 "wikilink")
+[분류:대한민국의 아이돌 그룹](https://ko.wikipedia.org/wiki/분류:대한민국의_아이돌_그룹 "wikilink") [분류:7인조 음악 그룹](https://ko.wikipedia.org/wiki/분류:7인조_음악_그룹 "wikilink") [분류:대한민국의 댄스 음악 그룹](https://ko.wikipedia.org/wiki/분류:대한민국의_댄스_음악_그룹 "wikilink") [분류:대한민국의 힙합 그룹](https://ko.wikipedia.org/wiki/분류:대한민국의_힙합_그룹 "wikilink") [분류:2010년대 음악 그룹](https://ko.wikipedia.org/wiki/분류:2010년대_음악_그룹 "wikilink") [분류:2014년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2014년_결성된_음악_그룹 "wikilink")

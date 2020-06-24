@@ -43,4 +43,4 @@
 
   - [뉴욕 코스모스](https://ko.wikipedia.org/wiki/뉴욕_코스모스 "wikilink") ([북미 축구 리그](https://ko.wikipedia.org/wiki/북미_축구_리그 "wikilink"))
 
-[분류:미국의 축구단](https://ko.wikipedia.org/wiki/분류:미국의_축구단 "wikilink") [분류:2015년 설립된 축구단](https://ko.wikipedia.org/wiki/분류:2015년_설립된_축구단 "wikilink") [분류:뉴욕 레드불스 II](https://ko.wikipedia.org/wiki/분류:뉴욕_레드불스_II "wikilink")
+[뉴욕_레드불스_II](https://ko.wikipedia.org/wiki/분류:뉴욕_레드불스_II "wikilink") [분류:미국의 축구단](https://ko.wikipedia.org/wiki/분류:미국의_축구단 "wikilink") [분류:2015년 설립된 축구단](https://ko.wikipedia.org/wiki/분류:2015년_설립된_축구단 "wikilink") [분류:뉴저지주의 축구단](https://ko.wikipedia.org/wiki/분류:뉴저지주의_축구단 "wikilink")

@@ -61,7 +61,7 @@ WBC 더 팰리스는 오피스텔 단지이다. 편의시설은 실내사우나,
 
 파일:Construction in Centum City.png|건립 과정의 사진. 파일:Gwangalli Beach.jpg|공사가 끝난 WBC 더 팰리스. 파일:Plaza in Front of BEXCO.png|벡스코 앞 광장.
 
-## 더 보기
+## 같이 보기
 
   - [더 게이트 센텀](../Page/더_게이트_센텀.md "wikilink")
   - [대한민국의 마천루 목록](../Page/대한민국의_마천루_목록.md "wikilink")

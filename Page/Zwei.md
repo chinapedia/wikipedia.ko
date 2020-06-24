@@ -194,7 +194,7 @@ FVCG-1232 (통상반)</p></td>
   - [Megu의 트위터](https://twitter.com/Zwei_Megu)
   - [Ayumu의 트위터](https://twitter.com/2Zwei2)
 
-[분류:2003년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2003년_결성된_음악_그룹 "wikilink") [분류:여성 듀오](https://ko.wikipedia.org/wiki/분류:여성_듀오 "wikilink") [분류:2인조 음악 그룹](https://ko.wikipedia.org/wiki/분류:2인조_음악_그룹 "wikilink") [분류:J-pop](https://ko.wikipedia.org/wiki/분류:J-pop "wikilink")
+[분류:2003년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2003년_결성된_음악_그룹 "wikilink") [분류:여성 듀오](https://ko.wikipedia.org/wiki/분류:여성_듀오 "wikilink") [분류:J-pop](https://ko.wikipedia.org/wiki/분류:J-pop "wikilink")
 
 1.  「ツヴァイ」가 아니라「ヅヴァイ」로, 첫 문자를 탁음으로 표시한다.
 2.  한글로 친다면 '영차'와 같은 기합의 의미로[1](http://jpdic.naver.com/entry/jk/JK000000095682.nhn), Megu의 트위터에서는 주로 아침인사의 의미로 おぱおんわっしょい라는 표현을 사용하고 있다.

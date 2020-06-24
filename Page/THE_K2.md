@@ -45,7 +45,7 @@
   - 박건
   - [주새벽](../Page/주새벽.md "wikilink") : 미스김 역
   - [유인혁](../Page/유인혁.md "wikilink") : 경호원 역
-  - [윤주빈](https://ko.wikipedia.org/wiki/윤주빈 "wikilink") : 경호원 역
+  - [윤주빈](../Page/윤주빈.md "wikilink") : 경호원 역
   - [오상훈](../Page/오상훈.md "wikilink") : 타격대 대장 역
   - [김경룡](../Page/김경룡.md "wikilink") : 이경진 역
   - [지윤재](../Page/지윤재.md "wikilink") : 흉터 경찰 역

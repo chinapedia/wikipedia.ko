@@ -3,6 +3,10 @@
 
 《**Show Me The Money**》(쇼미더머니)는 매년 기수별로 [Mnet에서](../Page/엠넷.md "wikilink") 열리는 힙합 오디션이다. 이곳에서 심사위원을 '프로듀서'라고 하는데, 예선이나 본선 초기에는 심사만 하고, 실력이 부족한 래퍼는 탈락시키는 역할을 한다. 이후 팀전에서는 참가자들을 도와주는 음악 프로듀서 역할과 동시에 못하는 래퍼를 하나씩 탈락시키는 역할을 한다. 최종 우승자에게는 상금과 무료로 개인 음원 발매를 할 수 있으며, 대형 힙합 콘서트 특별 공연의 기회가 주어진다.
 
+-----
+
+쇼미더머니9 방송이 확정되었다
+
 ## 시즌 1
 
 《**Show Me The Money**》(쇼미더머니)는 [대한민국](../Page/대한민국.md "wikilink")의 케이블 방송국 [Mnet](https://ko.wikipedia.org/wiki/Mnet "wikilink")에서 방송된 힙합 가수 공개 오디션 프로그램이다. 대한민국 최강 래퍼와 신예 래퍼가 한 팀이 되어 실력을 가리는 서바이벌 형식의 프로그램이다. MC는 [은지원](../Page/은지원.md "wikilink")이 맡았으며, 결승전 무대에 가수 [하하](https://ko.wikipedia.org/wiki/하하 "wikilink") 등이 특별 출연하였고, [이효리](../Page/이효리.md "wikilink")가 특별 출연하여 무대를 꾸미기도 하였다. 2012년 6월 22일부터 2012년 8월 10일까지 총 8부작으로 방송되었다.
@@ -60,7 +64,7 @@
 《**Show Me The Money 777**》(쇼미더머니 777)은 [대한민국](../Page/대한민국.md "wikilink")의 케이블 방송국 [Mnet에서](../Page/엠넷.md "wikilink") 방송된 힙합 가수 공개 오디션 프로그램이다. 《Show Me The Money》 시리즈의 7번째 시즌이다. 이번 시즌에도 김진표가 MC를 맡았다.
 
   - 우승 : [나플라](../Page/나플라.md "wikilink") / Team Swings & Giriboy
-  - 준우승 : [루피](https://ko.wikipedia.org/wiki/루피_\(래퍼\) "wikilink") / Team Code Kunst & Paloalto
+  - 준우승 : [루피](../Page/루피_\(래퍼\).md "wikilink") / Team Code Kunst & Paloalto
   - 3위 : [키드밀리](../Page/키드밀리.md "wikilink") / Team Code Kunst & Paloalto
 
 ## 시즌 8
@@ -78,4 +82,4 @@
   - [슈퍼 스타 K](https://ko.wikipedia.org/wiki/슈퍼_스타_K "wikilink")
   - [언프리티 랩스타](https://ko.wikipedia.org/wiki/언프리티_랩스타 "wikilink")
 
-[분류:힙합 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:힙합_텔레비전_프로그램 "wikilink") [분류:대한민국의 음악 경연회](https://ko.wikipedia.org/wiki/분류:대한민국의_음악_경연회 "wikilink") [분류:대한민국의 음악 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:대한민국의_음악_텔레비전_프로그램 "wikilink") [분류:대한민국의 리얼리티 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:대한민국의_리얼리티_텔레비전_프로그램 "wikilink") [분류:엠넷에서 방영하는 프로그램](https://ko.wikipedia.org/wiki/분류:엠넷에서_방영하는_프로그램 "wikilink") [Show_Me_The_Money](https://ko.wikipedia.org/wiki/분류:Show_Me_The_Money "wikilink") [분류:CJ ENM의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:CJ_ENM의_텔레비전_프로그램 "wikilink")
+[분류:힙합 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:힙합_텔레비전_프로그램 "wikilink") [분류:대한민국의 음악 경연회](https://ko.wikipedia.org/wiki/분류:대한민국의_음악_경연회 "wikilink") [분류:대한민국의 음악 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:대한민국의_음악_텔레비전_프로그램 "wikilink") [분류:대한민국의 리얼리티 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:대한민국의_리얼리티_텔레비전_프로그램 "wikilink") [분류:엠넷의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:엠넷의_텔레비전_프로그램 "wikilink") [Show_Me_The_Money](https://ko.wikipedia.org/wiki/분류:Show_Me_The_Money "wikilink") [분류:CJ ENM의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:CJ_ENM의_텔레비전_프로그램 "wikilink")

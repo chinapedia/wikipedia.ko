@@ -55,7 +55,7 @@
   - [행복한 시니어](https://ko.wikipedia.org/wiki/행복한_시니어 "wikilink") (4:00\~4:40) ([KBS 제1라디오](../Page/KBS_제1라디오.md "wikilink"))
   - 재난재해 예방캠페인 (재방송, 4:40\~4:42) ([KBS 제1라디오](../Page/KBS_제1라디오.md "wikilink"))
   - 어업기상통보 (4:42\~4:54) ([KBS 제1라디오](../Page/KBS_제1라디오.md "wikilink"))
-  - [싱싱 농수산](https://ko.wikipedia.org/wiki/싱싱_농수산 "wikilink") (5:05\~5:55) ([KBS 제1라디오](../Page/KBS_제1라디오.md "wikilink"))
+  - [싱싱 농수산](../Page/싱싱_농수산.md "wikilink") (5:05\~5:55) ([KBS 제1라디오](../Page/KBS_제1라디오.md "wikilink"))
   - 기상통보 (5:55\~6:00) ([KBS 제1라디오](../Page/KBS_제1라디오.md "wikilink"))
   - [이봉규의 내가 매일 기쁘게](https://ko.wikipedia.org/wiki/내가_매일_기쁘게_\(CBS\) "wikilink") (4:00\~6:00) ([CBS 음악FM](../Page/CBS_음악FM.md "wikilink"))
   - [더 클래식, 정희정입니다.](https://ko.wikipedia.org/wiki/더_클래식,_정희정입니다. "wikilink") ([KNN Love FM](../Page/KNN.md "wikilink"))

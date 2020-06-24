@@ -71,8 +71,8 @@
 | 1997년           | 가와사키                                                        | BTC-4A   | 750 \~ 766   | 182      |                                                  | [100px](https://ko.wikipedia.org/wiki/파일:BTC-4A_coaches_on_the_CapeFLYER.JPG "wikilink")                   |
 | 2001년           | 가와사키                                                        | BTC-4B   | 767 \~ 781   | 182      |                                                  |                                                                                                            |
 | 2005년           | 가와사키                                                        | BTC-4C   | 900 \~ 932   | 178      |                                                  | [100px](https://ko.wikipedia.org/wiki/파일:BTC-4C_coach_on_CapeFLYER_at_Buzzards_Bay.JPG "wikilink")         |
-| 2012년부터 2014년까지 | [현대로템](../Page/현대로템.md "wikilink")                          | BTC-4D   | 800 \~ 846   | 179      | [2013년](../Page/2013년.md "wikilink") 최초 운행\[34\] | [100px](https://ko.wikipedia.org/wiki/파일:Rotem_car_801_at_North_Station.JPG "wikilink")                    |
-| 2012년부터 2014년까지 | 현대로템                                                        | CTC-5    | 1800 \~ 1827 | 173      | [2013년](../Page/2013년.md "wikilink") 최초 운행\[35\] | [100px](https://ko.wikipedia.org/wiki/파일:Cab_car_1800_at_North_Station.JPG "wikilink")                     |
+| 2012년부터 2014년까지 | [현대로템](../Page/현대로템.md "wikilink")                          | BTC-4D   | 800 \~ 846   | 179      | [2013년](../Page/2013년.md "wikilink") 최초 운행\[34\] | [100px](https://ko.wikipedia.org/wiki/파일:MBTA_801_at_North_Station_\(2\),_April_2013.jpg "wikilink")       |
+| 2012년부터 2014년까지 | 현대로템                                                        | CTC-5    | 1800 \~ 1827 | 173      | [2013년](../Page/2013년.md "wikilink") 최초 운행\[35\] | [100px](https://ko.wikipedia.org/wiki/파일:MBTA_1800_at_North_Station_\(1\),_April_2013.jpg "wikilink")      |
 
 ### 기타 차종
 

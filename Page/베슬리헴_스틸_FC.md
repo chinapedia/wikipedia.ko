@@ -30,4 +30,4 @@
 
   - [필라델피아 유니언](../Page/필라델피아_유니언.md "wikilink") (체스터, 펜실베이니아)
 
-[분류:USL 챔피언십 구단](https://ko.wikipedia.org/wiki/분류:USL_챔피언십_구단 "wikilink") [베슬리헴_스틸_FC](https://ko.wikipedia.org/wiki/분류:베슬리헴_스틸_FC "wikilink") [분류:2015년 설립된 축구단](https://ko.wikipedia.org/wiki/분류:2015년_설립된_축구단 "wikilink")
+[베슬리헴_스틸_FC](https://ko.wikipedia.org/wiki/분류:베슬리헴_스틸_FC "wikilink") [분류:USL 챔피언십 구단](https://ko.wikipedia.org/wiki/분류:USL_챔피언십_구단 "wikilink") [분류:2015년 설립된 축구단](https://ko.wikipedia.org/wiki/분류:2015년_설립된_축구단 "wikilink") [분류:펜실베이니아주의 축구단](https://ko.wikipedia.org/wiki/분류:펜실베이니아주의_축구단 "wikilink")

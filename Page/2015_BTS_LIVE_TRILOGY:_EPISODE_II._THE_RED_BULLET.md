@@ -113,9 +113,9 @@
 </tr>
 <tr class="odd">
 <td><p>2015년 8월 29일</p></td>
+<td><p><a href="../Page/홍콩.md" title="wikilink">홍콩</a></p></td>
 <td></td>
 <td><p>아시아 월드 아레나</p></td>
-<td></td>
 </tr>
 <tr class="even">
 <td></td>

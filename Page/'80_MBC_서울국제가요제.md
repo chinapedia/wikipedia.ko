@@ -20,7 +20,7 @@
 1.  "Everytime You Go (영국 · Marilyn Miller)" (작사/작곡 Les Reed) ***- 대상 수상***
 2.  "Magic Madness (브라질 · Vanusa)" (미상 작사 / 미상 작곡) ***- 동상 수상***
 3.  "Dancing Mask(탈) (한국 · 들고양이들)" ([이철혁](https://ko.wikipedia.org/wiki/이철혁 "wikilink") 작사 / [이철혁](https://ko.wikipedia.org/wiki/이철혁 "wikilink") 작곡)
-4.  "I Will Never Love Again (일본 · Noriko Miyamoto)" (미상 작사 / 미상 작곡)
+4.  "I Will Never Love Again (일본 ·宮本典子 Noriko Miyamoto)" (梅垣達志 작사 / 梅垣達志 작곡)
 
 <!-- end list -->
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [SIXTEEN](https://ko.wikipedia.org/wiki/SIXTEEN).
 
 
-《**SIXTEEN**》은 2015년 [엠넷](../Page/엠넷.md "wikilink")에서 방영된 리얼리티 프로그램으로서 [JYP 엔터테인먼트의](../Page/JYP_엔터테인먼트.md "wikilink") [걸 그룹](../Page/걸_그룹.md "wikilink") [트와이스](https://ko.wikipedia.org/wiki/트와이스 "wikilink")를 결성하기 위한 경연회이였으나 출연자 대다수가 3세대 아이돌 시대를 이끄는 가수로 데뷔하게 된 전설적 프로그램이다. 최종 합격자는 [임나연](../Page/나연.md "wikilink"), [유정연](../Page/정연_\(가수\).md "wikilink"), [미나토자키 사나](../Page/사나_\(가수\).md "wikilink"), [저우쯔위](../Page/쯔위.md "wikilink"), [김다현](../Page/다현.md "wikilink"), [묘이 미나](../Page/미나_\(일본의_가수\).md "wikilink"), [박지효](../Page/지효.md "wikilink"), [히라이 모모](../Page/모모_\(가수\).md "wikilink"), 그리고 [손채영이다](../Page/채영_\(가수\).md "wikilink"). 당초 7명만 선발하기로 기획되었으나 저우쯔위는 이 프로그램에 참가한 모든 연습생 중 인기 투표 득표수가 많아 추가 합격 되었고 모모는 JYP A\&R 스탭들에게 성실성을 높게 평가 받아 추가 선발 되었다. 탈락자인 전소미는 프로듀스 101에서 1위를 차지하여 그룹 아이오아이로 데뷔하였고 그 후 [YG 엔터테인먼트로](../Page/YG_엔터테인먼트.md "wikilink") 이적하여, 솔로로 데뷔하였다. 지원은 아이돌 학교를 통해 [프로미스9](https://ko.wikipedia.org/wiki/프로미스9 "wikilink")으로 데뷔하였으며 채연은 프로듀스48에서 최종 멤버로 선발되어 [아이즈원](../Page/아이즈원.md "wikilink")으로 데뷔하였다. 채연의 여동생 채령은 [JYP 엔터테인먼트의](../Page/JYP_엔터테인먼트.md "wikilink") 걸그룹인 [있지](https://ko.wikipedia.org/wiki/있지 "wikilink")로 데뷔하였다.
+《**SIXTEEN**》은 2015년 [엠넷](../Page/엠넷.md "wikilink")에서 방영된 리얼리티 프로그램으로서 [JYP 엔터테인먼트의](../Page/JYP_엔터테인먼트.md "wikilink") [걸 그룹](../Page/걸_그룹.md "wikilink") [트와이스](https://ko.wikipedia.org/wiki/트와이스 "wikilink")를 결성하기 위한 경연회이였으나 출연자 대다수가 3세대 아이돌 시대를 이끄는 가수로 데뷔하게 된 전설적 프로그램이다. 최종 합격자는 [임나연](../Page/나연.md "wikilink"), [유정연](../Page/정연_\(가수\).md "wikilink"), [미나토자키 사나](../Page/사나_\(가수\).md "wikilink"), [저우쯔위](../Page/쯔위.md "wikilink"), [김다현](../Page/다현.md "wikilink"), [묘이 미나](../Page/미나_\(일본의_가수\).md "wikilink"), [박지효](../Page/지효.md "wikilink"), [히라이 모모](../Page/모모_\(가수\).md "wikilink"), 그리고 [손채영이다](../Page/채영_\(가수\).md "wikilink"). 당초 7명만 선발하기로 기획되었으나 저우쯔위는 이 프로그램에 참가한 모든 연습생 중 인기 투표 득표수가 많아 추가 합격 되었고 모모는 JYP A\&R 스탭들에게 성실성을 높게 평가 받아 추가 선발 되었다. 탈락자인 전소미는 프로듀스 101에서 1위를 차지하여 그룹 아이오아이로 데뷔하였고 그 후 [YG 엔터테인먼트](../Page/YG_엔터테인먼트.md "wikilink") 산하 [더 블랙 레이블로](https://ko.wikipedia.org/wiki/더_블랙_레이블 "wikilink") 이적하여, 솔로로 데뷔하였다. 지원은 아이돌 학교를 통해 [프로미스9](https://ko.wikipedia.org/wiki/프로미스9 "wikilink")으로 데뷔하였으며 채연은 프로듀스48에서 최종 멤버로 선발되어 [아이즈원](../Page/아이즈원.md "wikilink")으로 데뷔하였다. 채연과 함께 출연했던 채연의 여동생 채령은 [JYP 엔터테인먼트의](../Page/JYP_엔터테인먼트.md "wikilink") 걸그룹인 [있지](https://ko.wikipedia.org/wiki/있지 "wikilink")로 데뷔하였다.
 
 ## 참가자
 
@@ -83,7 +83,7 @@
 </tr>
 <tr class="even">
 <td><p>10</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/민영_(1998년)" title="wikilink">민영 (1998년)</a></p></td>
+<td><p>민영</p></td>
 <td><p>1998년 2월 27일</p></td>
 <td></td>
 <td><p>탈락 후 개인연습생 신분</p></td>
@@ -121,7 +121,7 @@
 <td><p><a href="../Page/채령_(가수).md" title="wikilink">채령</a></p></td>
 <td><p>2001년 6월 5일</p></td>
 <td></td>
-<td><p>탈락후 <a href="../Page/ITZY.md" title="wikilink">ITZY</a> 데뷔</p></td>
+<td><p>탈락 후 <a href="../Page/ITZY.md" title="wikilink">ITZY</a> 데뷔</p></td>
 </tr>
 <tr class="even">
 <td><p>16</p></td>
@@ -262,7 +262,7 @@
 </tr>
 <tr class="odd">
 <td><p>07</p></td>
-<td><p>나띠</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/나띠" title="wikilink">나띠</a></p></td>
 <td><p>2002년 5월 30일</p></td>
 <td></td>
 </tr>
@@ -281,4 +281,4 @@
 ## 외부 링크
 
   -
-[분류:엠넷에서 방영하는 프로그램](https://ko.wikipedia.org/wiki/분류:엠넷에서_방영하는_프로그램 "wikilink") [분류:대한민국의 리얼리티 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:대한민국의_리얼리티_텔레비전_프로그램 "wikilink") [분류:대한민국의 텔레비전 버라이어티 쇼](https://ko.wikipedia.org/wiki/분류:대한민국의_텔레비전_버라이어티_쇼 "wikilink") [분류:대한민국의 음악 경연회](https://ko.wikipedia.org/wiki/분류:대한민국의_음악_경연회 "wikilink") [분류:JYP 엔터테인먼트 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:JYP_엔터테인먼트_텔레비전_프로그램 "wikilink") [분류:트와이스](https://ko.wikipedia.org/wiki/분류:트와이스 "wikilink")
+[분류:엠넷의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:엠넷의_텔레비전_프로그램 "wikilink") [분류:대한민국의 리얼리티 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:대한민국의_리얼리티_텔레비전_프로그램 "wikilink") [분류:대한민국의 텔레비전 버라이어티 쇼](https://ko.wikipedia.org/wiki/분류:대한민국의_텔레비전_버라이어티_쇼 "wikilink") [분류:대한민국의 음악 경연회](https://ko.wikipedia.org/wiki/분류:대한민국의_음악_경연회 "wikilink") [분류:JYP 엔터테인먼트 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:JYP_엔터테인먼트_텔레비전_프로그램 "wikilink") [분류:트와이스](https://ko.wikipedia.org/wiki/분류:트와이스 "wikilink")

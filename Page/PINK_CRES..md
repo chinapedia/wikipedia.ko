@@ -128,7 +128,7 @@
 
   -
 
-[분류:M-라인 클럽](https://ko.wikipedia.org/wiki/분류:M-라인_클럽 "wikilink") [분류:일본의 팝 음악 그룹](https://ko.wikipedia.org/wiki/분류:일본의_팝_음악_그룹 "wikilink") [분류:일본의 걸 그룹](https://ko.wikipedia.org/wiki/분류:일본의_걸_그룹 "wikilink") [분류:2016년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2016년_결성된_음악_그룹 "wikilink") [분류:2017년 데뷔](https://ko.wikipedia.org/wiki/분류:2017년_데뷔 "wikilink") [분류:3인조 음악 그룹](https://ko.wikipedia.org/wiki/분류:3인조_음악_그룹 "wikilink") [분류:업프론트 워크스](https://ko.wikipedia.org/wiki/분류:업프론트_워크스 "wikilink")
+[분류:M-라인 클럽](https://ko.wikipedia.org/wiki/분류:M-라인_클럽 "wikilink") [분류:일본의 팝 음악 그룹](https://ko.wikipedia.org/wiki/분류:일본의_팝_음악_그룹 "wikilink") [분류:일본의 걸 그룹](https://ko.wikipedia.org/wiki/분류:일본의_걸_그룹 "wikilink") [분류:2016년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2016년_결성된_음악_그룹 "wikilink") [분류:3인조 음악 그룹](https://ko.wikipedia.org/wiki/분류:3인조_음악_그룹 "wikilink") [분류:업프론트 워크스](https://ko.wikipedia.org/wiki/분류:업프론트_워크스 "wikilink")
 
 1.  [나츠야키 미야비, 음악 활동은 새로운 그룹에서 (BARKS)](https://www.barks.jp/news/?id=1000115211)
 2.  [나츠야키 미야비의 신그룹 오디션 결과 발표. 합격자는 [코바야시 히카루와](https://ko.wikipedia.org/wiki/M-line_club "wikilink") [니헤이 유우카](https://ko.wikipedia.org/wiki/M-line_club "wikilink") (BARKS)](https://www.barks.jp/news/?id=1000125806)

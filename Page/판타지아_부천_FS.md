@@ -55,6 +55,7 @@
 | 2016-17 | [FK리그](../Page/FK리그.md "wikilink")       | 3위  |
 | 2017-18 | [FK 슈퍼리그](../Page/FK_슈퍼리그.md "wikilink") | 3위  |
 | 2018-19 | [FK 슈퍼리그](../Page/FK_슈퍼리그.md "wikilink") | 4위  |
+| 2019-20 | [FK 슈퍼리그](../Page/FK_슈퍼리그.md "wikilink") | 3위  |
 
 ## 우승 기록
 
@@ -68,5 +69,8 @@
 
   - [판타지아 부천 FS](http://cafe.naver.com/08greenknight)
   - [판타지아 부천FS 팬페이지](https://www.facebook.com/Futsalfa2007/)
+
+
+
 
 [분류:2007년 설립된 스포츠 클럽](https://ko.wikipedia.org/wiki/분류:2007년_설립된_스포츠_클럽 "wikilink") [분류:FK리그 구단](https://ko.wikipedia.org/wiki/분류:FK리그_구단 "wikilink") [분류:부천시의 스포츠](https://ko.wikipedia.org/wiki/분류:부천시의_스포츠 "wikilink")

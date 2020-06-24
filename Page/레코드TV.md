@@ -1,15 +1,15 @@
 > This article is converted from Wikipedia: [레코드TV](https://ko.wikipedia.org/wiki/레코드TV).
 
 
-**레코드TV**()는 [브라질](../Page/브라질.md "wikilink")의 텔레비전 네트워크다.
+**헤코르드TV**()는 [브라질](../Page/브라질.md "wikilink")의 텔레비전 네트워크다.
 
 ## 주요 프로그램
 
 ### 뉴스 및 정보
 
-  - [조르나우 다 레코드](https://ko.wikipedia.org/wiki/조르나우_다_레코드 "wikilink")() (1972 \~ 현재)
+  - [조르나우 다 헤코르드](https://ko.wikipedia.org/wiki/조르나우_다_헤코르드 "wikilink")() (1972 \~ 현재)
   - [시다드 알레르타](https://ko.wikipedia.org/wiki/시다드_알레르타 "wikilink")() (1995 \~ 2005; 2011; 2012 \~ 현재)
-  - [헤포르테르 레코드](https://ko.wikipedia.org/wiki/헤포르테르_레코드 "wikilink")() (1995 \~ 2010; 2011 \~ 현재)
+  - [헤포르테르 헤코르드](https://ko.wikipedia.org/wiki/헤포르테르_헤코르드 "wikilink")() (1995 \~ 2010; 2011 \~ 현재)
   - [파라 브라질](https://ko.wikipedia.org/wiki/파라_브라질 "wikilink")() (1998 \~ 현재)
   - [도밍구 에스페타쿠라르](https://ko.wikipedia.org/wiki/도밍구_에스페타쿠라르 "wikilink")() (2004 \~ 현재)
 

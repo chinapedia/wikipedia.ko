@@ -99,7 +99,7 @@
 
 ## 항경련제
 
-  - [카르바마제핀](https://ko.wikipedia.org/wiki/카르바마제핀 "wikilink")
+  - [카르바마제핀](../Page/카르바마제핀.md "wikilink")
   - [디아제팜](../Page/디아제팜.md "wikilink")
   - [로라제팜](../Page/로라제팜.md "wikilink")
   - [황산마그네슘](https://ko.wikipedia.org/wiki/황산마그네슘 "wikilink")\[9\]
@@ -249,7 +249,7 @@
 
 ##### 기타 항바이러스제
 
-  - [오셀타미비르](https://ko.wikipedia.org/wiki/오셀타미비르 "wikilink")<ref group="주석">
+  - [오셀타미비르](../Page/오셀타미비르.md "wikilink")<ref group="주석">
 
 의심되거나 확정된 인플루엔자 바이러스 감염으로 인한 잠재적으로 심각하거나 합병증이 있는 경우 WHO 가이드라인에 따라 처방된다.</ref>
 
@@ -732,7 +732,7 @@
   - [에르고메트린](https://ko.wikipedia.org/wiki/에르고메트린 "wikilink")
   - [미소프로스톨](https://ko.wikipedia.org/wiki/미소프로스톨 "wikilink")
   - [옥시토신](../Page/옥시토신.md "wikilink")
-  - [미페프리스톤](https://ko.wikipedia.org/wiki/미페프리스톤 "wikilink") - [미소프로스톨](https://ko.wikipedia.org/wiki/미소프로스톨 "wikilink") \[53\]
+  - [미페프리스톤](https://ko.wikipedia.org/wiki/미페프리스톤 "wikilink") - [미소프로스톨](https://mmv.kr) \[53\]
 
 ### 항자궁수축제
 
@@ -761,7 +761,7 @@
 
 #### 양극성 장애에 쓰이는 제제
 
-  - [카르바마제핀](https://ko.wikipedia.org/wiki/카르바마제핀 "wikilink")
+  - [카르바마제핀](../Page/카르바마제핀.md "wikilink")
   - [탄산리튬](https://ko.wikipedia.org/wiki/탄산리튬 "wikilink")
   - [발프로익산](https://ko.wikipedia.org/wiki/발프로익산 "wikilink") ([발프로익산나트륨](https://ko.wikipedia.org/wiki/발프로익산나트륨 "wikilink"))
 

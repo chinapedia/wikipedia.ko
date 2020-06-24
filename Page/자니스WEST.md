@@ -341,7 +341,7 @@
 
   - [쟈니즈WEST - Johnny's Entertainment](https://web.archive.org/web/20140314140427/http://www.jehp.jp/jwest/info/index.html)
 
-[분류:자니스WEST](https://ko.wikipedia.org/wiki/분류:자니스WEST "wikilink") [분류:자니즈](https://ko.wikipedia.org/wiki/분류:자니즈 "wikilink") [분류:일본의 아이돌 그룹](https://ko.wikipedia.org/wiki/분류:일본의_아이돌_그룹 "wikilink") [분류:일본의 보이 밴드](https://ko.wikipedia.org/wiki/분류:일본의_보이_밴드 "wikilink") [분류:2014년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2014년_결성된_음악_그룹 "wikilink") [분류:2014년 데뷔](https://ko.wikipedia.org/wiki/분류:2014년_데뷔 "wikilink") [분류:2010년대 음악 그룹](https://ko.wikipedia.org/wiki/분류:2010년대_음악_그룹 "wikilink")
+[분류:자니스WEST](https://ko.wikipedia.org/wiki/분류:자니스WEST "wikilink") [분류:자니즈](https://ko.wikipedia.org/wiki/분류:자니즈 "wikilink") [분류:일본의 아이돌 그룹](https://ko.wikipedia.org/wiki/분류:일본의_아이돌_그룹 "wikilink") [분류:일본의 보이 밴드](https://ko.wikipedia.org/wiki/분류:일본의_보이_밴드 "wikilink") [분류:2014년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2014년_결성된_음악_그룹 "wikilink") [분류:2010년대 음악 그룹](https://ko.wikipedia.org/wiki/분류:2010년대_음악_그룹 "wikilink")
 
 1.
 2.

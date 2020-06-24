@@ -24,4 +24,4 @@
   - [MUST 홈페이지](https://web.archive.org/web/20140402170140/http://mnet.interest.me/tv/program/471)
   - [공식트위터](https://twitter.com/Mnet_MUST)
 
-[분류:엠넷에서 방영된 프로그램](https://ko.wikipedia.org/wiki/분류:엠넷에서_방영된_프로그램 "wikilink") [분류:대한민국의 음악 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:대한민국의_음악_텔레비전_프로그램 "wikilink")
+[분류:엠넷의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:엠넷의_텔레비전_프로그램 "wikilink") [분류:대한민국의 음악 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:대한민국의_음악_텔레비전_프로그램 "wikilink")

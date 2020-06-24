@@ -5,7 +5,7 @@
 
 ## 해설
 
-[크리스마스](../Page/크리스마스.md "wikilink") 송이다. [랩에는](https://ko.wikipedia.org/wiki/랩_\(음악\) "wikilink") [아오모리현](../Page/아오모리현.md "wikilink") [미사와 시](https://ko.wikipedia.org/wiki/미사와_시 "wikilink") 출신의 래퍼 KEN-RYW가 참가.
+[크리스마스](../Page/크리스마스.md "wikilink") 송이다. [랩에는](https://ko.wikipedia.org/wiki/랩_\(음악\) "wikilink") [아오모리현](../Page/아오모리현.md "wikilink") [미사와시](../Page/미사와시.md "wikilink") 출신의 래퍼 KEN-RYW가 참가.
 
 싱글반은 초회반과 통상반의 2형태로 발매되고 있으며, 각각 자켓이 다르다. 초회반에는 〈24 Xmas time〉의 [뮤직비디오](https://ko.wikipedia.org/wiki/뮤직비디오 "wikilink")가 DVD에 수록되어있다. 통상반에는 〈24 Xmas time〉의 리믹스판을 수록. 선착 특전으로 B3 사이즈의 포스터가 수록되었다.
 

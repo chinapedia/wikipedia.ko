@@ -41,4 +41,4 @@
 
 ## 외부 링크
 
-[분류:공중급유기](https://ko.wikipedia.org/wiki/분류:공중급유기 "wikilink") [분류:에어버스 항공기](https://ko.wikipedia.org/wiki/분류:에어버스_항공기 "wikilink") [분류:2003년 첫 비행한 항공기](https://ko.wikipedia.org/wiki/분류:2003년_첫_비행한_항공기 "wikilink") [분류:쌍발 제트기](https://ko.wikipedia.org/wiki/분류:쌍발_제트기 "wikilink")
+[분류:공중급유기](https://ko.wikipedia.org/wiki/분류:공중급유기 "wikilink") [분류:에어버스 항공기](https://ko.wikipedia.org/wiki/분류:에어버스_항공기 "wikilink") [분류:2003년 첫 비행한 항공기](https://ko.wikipedia.org/wiki/분류:2003년_첫_비행한_항공기 "wikilink") [분류:쌍발 제트기](https://ko.wikipedia.org/wiki/분류:쌍발_제트기 "wikilink") [분류:저익기](https://ko.wikipedia.org/wiki/분류:저익기 "wikilink")

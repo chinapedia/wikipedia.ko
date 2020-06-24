@@ -133,7 +133,7 @@
 
   - [상하이 앨리스 환악단](http://www16.big.or.jp/~zun/)
 
-[분류:동방 프로젝트](https://ko.wikipedia.org/wiki/분류:동방_프로젝트 "wikilink") [분류:윈도우 게임](https://ko.wikipedia.org/wiki/분류:윈도우_게임 "wikilink") [분류:달을 배경으로 한 비디오 게임](https://ko.wikipedia.org/wiki/분류:달을_배경으로_한_비디오_게임 "wikilink") [분류:중국 신화를 소재로 한 작품](https://ko.wikipedia.org/wiki/분류:중국_신화를_소재로_한_작품 "wikilink")
+[분류:동방 프로젝트](https://ko.wikipedia.org/wiki/분류:동방_프로젝트 "wikilink") [분류:윈도우 게임](https://ko.wikipedia.org/wiki/분류:윈도우_게임 "wikilink") [분류:달을 배경으로 한 비디오 게임](https://ko.wikipedia.org/wiki/분류:달을_배경으로_한_비디오_게임 "wikilink") [분류:중국 신화를 바탕으로 한 작품](https://ko.wikipedia.org/wiki/분류:중국_신화를_바탕으로_한_작품 "wikilink")
 
 1.  《감주전》 부속"omake.txt".
 2.

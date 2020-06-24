@@ -7,6 +7,6 @@
 
 ## 각주
 
-[분류:제2차 세계 대전의 소련 군용기](https://ko.wikipedia.org/wiki/분류:제2차_세계_대전의_소련_군용기 "wikilink") [분류:소련 및 러시아의 전투기](https://ko.wikipedia.org/wiki/분류:소련_및_러시아의_전투기 "wikilink") [분류:미그기](https://ko.wikipedia.org/wiki/분류:미그기 "wikilink") [분류:견인식 단발기](https://ko.wikipedia.org/wiki/분류:견인식_단발기 "wikilink") [분류:1940년 첫 비행한 항공기](https://ko.wikipedia.org/wiki/분류:1940년_첫_비행한_항공기 "wikilink")
+[분류:제2차 세계 대전의 소련 군용기](https://ko.wikipedia.org/wiki/분류:제2차_세계_대전의_소련_군용기 "wikilink") [분류:소련 및 러시아의 전투기](https://ko.wikipedia.org/wiki/분류:소련_및_러시아의_전투기 "wikilink") [분류:미그기](https://ko.wikipedia.org/wiki/분류:미그기 "wikilink") [분류:견인식 단발기](https://ko.wikipedia.org/wiki/분류:견인식_단발기 "wikilink") [분류:1940년 첫 비행한 항공기](https://ko.wikipedia.org/wiki/분류:1940년_첫_비행한_항공기 "wikilink") [분류:저익기](https://ko.wikipedia.org/wiki/분류:저익기 "wikilink")
 
 1.  Bergström 2008, p. 132.

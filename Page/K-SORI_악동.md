@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [K-SORI 악동](https://ko.wikipedia.org/wiki/K-SORI_악동).
 
 
-**K-SORI 악동**은 [2013년](../Page/2013년.md "wikilink") [8월 25일부터](../Page/8월_25일.md "wikilink") [2013년](../Page/2013년.md "wikilink") [11월 3일까지](../Page/11월_3일.md "wikilink") 매주 [일요일](../Page/일요일.md "wikilink") 오후 1시 20분에 [KBS 1TV로](https://ko.wikipedia.org/wiki/KBS_제1TV "wikilink") 방송되었던 [소리](../Page/소리.md "wikilink") 전문 [음악 프로그램이다](https://ko.wikipedia.org/wiki/음악_프로그램 "wikilink").
+**K-SORI 악동**은 [2013년](../Page/2013년.md "wikilink") [8월 25일부터](../Page/8월_25일.md "wikilink") [2013년](../Page/2013년.md "wikilink") [11월 3일까지](../Page/11월_3일.md "wikilink") 매주 [일요일](../Page/일요일.md "wikilink") 오후 1시 20분에 [KBS 1TV로](https://ko.wikipedia.org/wiki/KBS_제1TV "wikilink") 방송되었던 [소리](../Page/소리.md "wikilink") 전문 [음악 프로그램이다](https://ko.wikipedia.org/wiki/음악_프로그램 "wikilink").[1](http://program.kbs.co.kr/1tv/culture/ksori/pc/)
 
 ## 기획 의도
 

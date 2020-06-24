@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [토론토 FC II](https://ko.wikipedia.org/wiki/토론토_FC_II).
 
 
-**토론토 FC II**(Toronto Fooball Club II)는 [USL 리그 1에](https://ko.wikipedia.org/wiki/USL_리그_1 "wikilink") 소속된 캐나다의 프로축구단으로 [온타리오주](https://ko.wikipedia.org/wiki/온타리오주 "wikilink") [본을](../Page/본_\(온타리오주\).md "wikilink") 연고지로 하고 있으며 온타리오 사커 센터를 홈 경기장으로 사용하고 있다.
+**토론토 FC II**(Toronto Fooball Club II)는 [USL 리그 1에](../Page/USL_리그_1.md "wikilink") 소속된 캐나다의 프로축구단으로 [온타리오주](https://ko.wikipedia.org/wiki/온타리오주 "wikilink") [본을](../Page/본_\(온타리오주\).md "wikilink") 연고지로 하고 있으며 온타리오 사커 센터를 홈 경기장으로 사용하고 있다.
 
 ## 역대 홈경기장
 

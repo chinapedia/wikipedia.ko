@@ -9,44 +9,44 @@
 
 ## 투어 일정
 
-| 날짜                  | 도시                                                      | 장소                                                          | 관객 수        |
-| ------------------- | ------------------------------------------------------- | ----------------------------------------------------------- | ----------- |
-| **홀 투어**            |                                                         |                                                             |             |
-| 2014년 9월 28일        | [천엽](https://ko.wikipedia.org/wiki/지바 "wikilink")       | 이치하라 시민회관                                                   | 1,500명      |
-| 2014년 9월 30일        | [정강](https://ko.wikipedia.org/wiki/시즈오카 "wikilink")     | 시즈오카 시민회관                                                   | 2,000명      |
-| 2014년 10월 1일        | [군마](../Page/군마현.md "wikilink")                         | 군마 시민회관                                                     | 2,200명      |
-| 2014년 10월 2일        | [회목](https://ko.wikipedia.org/wiki/도치기 "wikilink")      | 우쓰노미야 시민 문화회관                                               | 2,000명      |
-| 2014년 10월 8일        | [구주](https://ko.wikipedia.org/wiki/큐슈 "wikilink")       | 이치고 그랜시어터                                                   | 1,800명      |
-| 2014년 10월 9일        | [장기](https://ko.wikipedia.org/wiki/나가사키 "wikilink")     | 나가사키 브릭 홀                                                   | 2,000명      |
-| 2014년 10월 11일       | [장야](https://ko.wikipedia.org/wiki/나가노 "wikilink")      | 호쿠토 문화회관                                                    | 2,100명      |
-| 2014년 10월 12일       | [석천](../Page/이시카와.md "wikilink")                        | 혼다노모리 홀                                                     | 통산 3,400명   |
-| 2014년 10월 13일       |                                                         |                                                             |             |
-| 2014년 10월 15일       | [삼중](https://ko.wikipedia.org/wiki/미에 "wikilink")       | 미에 아트센터                                                     | 1,900명      |
-| 2014년 10월 17일       | 정강                                                      | 하마마스 액트 시티                                                  | 2,300명      |
-| 2014년 10월 23일       | [기옥](https://ko.wikipedia.org/wiki/사이타마 "wikilink")     | 사이타마 문화센터                                                   | 2,000명      |
-| 2014년 10월 27일       | [강산](https://ko.wikipedia.org/wiki/오카야마 "wikilink")     | 쿠라시키 시빅 홀                                                   | 2,000명      |
-| **아레나 투어**          |                                                         |                                                             |             |
-| 2014년 11월 1일        | [광도](https://ko.wikipedia.org/wiki/히로시마 "wikilink")     | [그린 아레나](../Page/히로시마_현립_종합_체육관.md "wikilink")              | 통산 20,000명  |
-| 2014년 11월 2일        |                                                         |                                                             |             |
-| 2014년 11월 8일        | [신석](https://ko.wikipedia.org/wiki/니가타 "wikilink")      | 니가타 토키 멧세                                                   | 9,000명      |
-| 2014년 11월 12일       | [나고야 시](https://ko.wikipedia.org/wiki/나고야_시 "wikilink") | 니혼 가이시 홀                                                    | 통산 20,000명  |
-| 2014년 11월 13일       |                                                         |                                                             |             |
-| 2014년 11월 20일       | [복강](https://ko.wikipedia.org/wiki/후쿠오카 "wikilink")     | 마린 멧세 후쿠오카                                                  | 13,000명     |
-| 2014년 11월 23일       | [찰황](https://ko.wikipedia.org/wiki/찰황 "wikilink")       | 마코마나이 세키스이 하임 아이스 아레나                                       | 11,500명     |
-| 2014년 11월 26일       | [동경](https://ko.wikipedia.org/wiki/동경 "wikilink")       | [국립 요요기 경기장](../Page/국립_요요기_경기장.md "wikilink") 제1체육관        | 통산 65,000명  |
-| 2014년 11월 27일       |                                                         |                                                             |             |
-| 2014년 12월 2일        |                                                         |                                                             |             |
-| 2014년 12월 3일        |                                                         |                                                             |             |
-| 2014년 12월 4일        |                                                         |                                                             |             |
-| 2014년 12월 9일        | [대판](https://ko.wikipedia.org/wiki/대판 "wikilink")       | [오사카 성 홀](https://ko.wikipedia.org/wiki/오사카_성_홀 "wikilink") | 통산 24,000명  |
-| 2014년 12월 10일       |                                                         |                                                             |             |
-| 2014년 12월 11일       |                                                         |                                                             |             |
-| 2014년 12월 13일       | [신호](https://ko.wikipedia.org/wiki/고베 "wikilink")       | 고베 월드 기념 홀\[1\]                                             | 통산 20,000명  |
-| 2014년 12월 14일       |                                                         |                                                             |             |
-| **SPECIAL EDITION** |                                                         |                                                             |             |
-| 2015년 3월 14일        | [동경](https://ko.wikipedia.org/wiki/동경 "wikilink")       | [도쿄 돔](../Page/도쿄_돔.md "wikilink")\[2\]                     | 통산 110,000명 |
-| 2015년 3월 15일        |                                                         |                                                             |             |
-|                     |                                                         |                                                             |             |
+| 날짜                  | 도시                                                  | 장소                                                          | 관객 수        |
+| ------------------- | --------------------------------------------------- | ----------------------------------------------------------- | ----------- |
+| **홀 투어**            |                                                     |                                                             |             |
+| 2014년 9월 28일        | [천엽](https://ko.wikipedia.org/wiki/지바 "wikilink")   | 이치하라 시민회관                                                   | 1,500명      |
+| 2014년 9월 30일        | [정강](https://ko.wikipedia.org/wiki/시즈오카 "wikilink") | 시즈오카 시민회관                                                   | 2,000명      |
+| 2014년 10월 1일        | [군마](../Page/군마현.md "wikilink")                     | 군마 시민회관                                                     | 2,200명      |
+| 2014년 10월 2일        | [회목](https://ko.wikipedia.org/wiki/도치기 "wikilink")  | 우쓰노미야 시민 문화회관                                               | 2,000명      |
+| 2014년 10월 8일        | [구주](https://ko.wikipedia.org/wiki/큐슈 "wikilink")   | 이치고 그랜시어터                                                   | 1,800명      |
+| 2014년 10월 9일        | [장기](https://ko.wikipedia.org/wiki/나가사키 "wikilink") | 나가사키 브릭 홀                                                   | 2,000명      |
+| 2014년 10월 11일       | [장야](https://ko.wikipedia.org/wiki/나가노 "wikilink")  | 호쿠토 문화회관                                                    | 2,100명      |
+| 2014년 10월 12일       | [석천](../Page/이시카와.md "wikilink")                    | 혼다노모리 홀                                                     | 통산 3,400명   |
+| 2014년 10월 13일       |                                                     |                                                             |             |
+| 2014년 10월 15일       | [삼중](https://ko.wikipedia.org/wiki/미에 "wikilink")   | 미에 아트센터                                                     | 1,900명      |
+| 2014년 10월 17일       | 정강                                                  | 하마마스 액트 시티                                                  | 2,300명      |
+| 2014년 10월 23일       | [기옥](https://ko.wikipedia.org/wiki/사이타마 "wikilink") | 사이타마 문화센터                                                   | 2,000명      |
+| 2014년 10월 27일       | [강산](https://ko.wikipedia.org/wiki/오카야마 "wikilink") | 쿠라시키 시빅 홀                                                   | 2,000명      |
+| **아레나 투어**          |                                                     |                                                             |             |
+| 2014년 11월 1일        | [광도](https://ko.wikipedia.org/wiki/히로시마 "wikilink") | [그린 아레나](../Page/히로시마_현립_종합_체육관.md "wikilink")              | 통산 20,000명  |
+| 2014년 11월 2일        |                                                     |                                                             |             |
+| 2014년 11월 8일        | [신석](https://ko.wikipedia.org/wiki/니가타 "wikilink")  | 니가타 토키 멧세                                                   | 9,000명      |
+| 2014년 11월 12일       | [나고야시](../Page/나고야시.md "wikilink")                  | 니혼 가이시 홀                                                    | 통산 20,000명  |
+| 2014년 11월 13일       |                                                     |                                                             |             |
+| 2014년 11월 20일       | [복강](https://ko.wikipedia.org/wiki/후쿠오카 "wikilink") | 마린 멧세 후쿠오카                                                  | 13,000명     |
+| 2014년 11월 23일       | [찰황](https://ko.wikipedia.org/wiki/찰황 "wikilink")   | 마코마나이 세키스이 하임 아이스 아레나                                       | 11,500명     |
+| 2014년 11월 26일       | [동경](https://ko.wikipedia.org/wiki/동경 "wikilink")   | [국립 요요기 경기장](../Page/국립_요요기_경기장.md "wikilink") 제1체육관        | 통산 65,000명  |
+| 2014년 11월 27일       |                                                     |                                                             |             |
+| 2014년 12월 2일        |                                                     |                                                             |             |
+| 2014년 12월 3일        |                                                     |                                                             |             |
+| 2014년 12월 4일        |                                                     |                                                             |             |
+| 2014년 12월 9일        | [대판](https://ko.wikipedia.org/wiki/대판 "wikilink")   | [오사카 성 홀](https://ko.wikipedia.org/wiki/오사카_성_홀 "wikilink") | 통산 24,000명  |
+| 2014년 12월 10일       |                                                     |                                                             |             |
+| 2014년 12월 11일       |                                                     |                                                             |             |
+| 2014년 12월 13일       | [신호](https://ko.wikipedia.org/wiki/고베 "wikilink")   | 고베 월드 기념 홀\[1\]                                             | 통산 20,000명  |
+| 2014년 12월 14일       |                                                     |                                                             |             |
+| **SPECIAL EDITION** |                                                     |                                                             |             |
+| 2015년 3월 14일        | [동경](https://ko.wikipedia.org/wiki/동경 "wikilink")   | [도쿄 돔](../Page/도쿄_돔.md "wikilink")\[2\]                     | 통산 110,000명 |
+| 2015년 3월 15일        |                                                     |                                                             |             |
+|                     |                                                     |                                                             |             |
 
 ## 세트 리스트
 

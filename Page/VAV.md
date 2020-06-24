@@ -246,6 +246,6 @@
   -
   -
   -
-[분류:2015년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2015년_결성된_음악_그룹 "wikilink") [분류:2015년 데뷔](https://ko.wikipedia.org/wiki/분류:2015년_데뷔 "wikilink") [분류:K-pop 음악 그룹](https://ko.wikipedia.org/wiki/분류:K-pop_음악_그룹 "wikilink") [분류:대한민국의 보이 밴드](https://ko.wikipedia.org/wiki/분류:대한민국의_보이_밴드 "wikilink") [분류:대한민국의 댄스 음악 그룹](https://ko.wikipedia.org/wiki/분류:대한민국의_댄스_음악_그룹 "wikilink") [분류:대한민국의 팝 음악 그룹](https://ko.wikipedia.org/wiki/분류:대한민국의_팝_음악_그룹 "wikilink") [분류:2010년대 음악 그룹](https://ko.wikipedia.org/wiki/분류:2010년대_음악_그룹 "wikilink") [분류:7인조 음악 그룹](https://ko.wikipedia.org/wiki/분류:7인조_음악_그룹 "wikilink") [분류:한국어 음악 그룹](https://ko.wikipedia.org/wiki/분류:한국어_음악_그룹 "wikilink") [분류:다국적 음악 그룹](https://ko.wikipedia.org/wiki/분류:다국적_음악_그룹 "wikilink")
+[분류:2015년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2015년_결성된_음악_그룹 "wikilink") [분류:K-pop 음악 그룹](https://ko.wikipedia.org/wiki/분류:K-pop_음악_그룹 "wikilink") [분류:대한민국의 보이 밴드](https://ko.wikipedia.org/wiki/분류:대한민국의_보이_밴드 "wikilink") [분류:대한민국의 댄스 음악 그룹](https://ko.wikipedia.org/wiki/분류:대한민국의_댄스_음악_그룹 "wikilink") [분류:대한민국의 팝 음악 그룹](https://ko.wikipedia.org/wiki/분류:대한민국의_팝_음악_그룹 "wikilink") [분류:2010년대 음악 그룹](https://ko.wikipedia.org/wiki/분류:2010년대_음악_그룹 "wikilink") [분류:7인조 음악 그룹](https://ko.wikipedia.org/wiki/분류:7인조_음악_그룹 "wikilink") [분류:한국어 음악 그룹](https://ko.wikipedia.org/wiki/분류:한국어_음악_그룹 "wikilink") [분류:다국적 음악 그룹](https://ko.wikipedia.org/wiki/분류:다국적_음악_그룹 "wikilink")
 
 1.

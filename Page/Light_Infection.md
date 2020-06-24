@@ -51,4 +51,4 @@
 
 1.  2009年[10月1日](../Page/10월_1일.md "wikilink") - [2010年](../Page/2010년.md "wikilink")[3月25日](../Page/3월_25일.md "wikilink")（第1期最終回）放送分。
 2.  [Prague『パワーとグルーヴを大切にした注目のロックチューン\!](http://www.oricon.co.jp/music/interview/091209_01.html)
-3.  [Prague『パワーとグルーヴを大切にした注目のロックチューン\!](http://www.oricon.co.jp/music/interview/091209_01.html)
+3.

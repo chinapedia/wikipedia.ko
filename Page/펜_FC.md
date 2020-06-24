@@ -47,4 +47,4 @@
 
   - 없음
 
-[분류:미국의 축구단](https://ko.wikipedia.org/wiki/분류:미국의_축구단 "wikilink") [분류:2003년 설립된 축구단](https://ko.wikipedia.org/wiki/분류:2003년_설립된_축구단 "wikilink") [분류:2004년 설립된 축구단](https://ko.wikipedia.org/wiki/분류:2004년_설립된_축구단 "wikilink")
+[분류:미국의 축구단](https://ko.wikipedia.org/wiki/분류:미국의_축구단 "wikilink") [분류:2003년 설립된 축구단](https://ko.wikipedia.org/wiki/분류:2003년_설립된_축구단 "wikilink") [분류:2004년 설립된 축구단](https://ko.wikipedia.org/wiki/분류:2004년_설립된_축구단 "wikilink") [분류:펜실베이니아주의 축구단](https://ko.wikipedia.org/wiki/분류:펜실베이니아주의_축구단 "wikilink")

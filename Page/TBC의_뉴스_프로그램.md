@@ -85,4 +85,4 @@
 
   - [TBC 뉴스 홈페이지](http://www.tbc.co.kr/tbc_news/news_main14.html)
 
-[\*](https://ko.wikipedia.org/wiki/분류:대구방송의_뉴스_텔레비전_프로그램 "wikilink") [\*](https://ko.wikipedia.org/wiki/분류:대구방송의_라디오_프로그램 "wikilink")
+[\*](https://ko.wikipedia.org/wiki/분류:대구방송의_뉴스_텔레비전_프로그램 "wikilink") [\*](https://ko.wikipedia.org/wiki/분류:대구방송의_뉴스_라디오_프로그램 "wikilink")

@@ -21,7 +21,7 @@
   - [벤처캐피털](https://ko.wikipedia.org/wiki/벤처캐피털 "wikilink")
   - [SBI 홀딩스](https://ko.wikipedia.org/wiki/SBI_홀딩스 "wikilink")
 
-## 참고문헌
+## 참고 문헌
 
 <references/>
 

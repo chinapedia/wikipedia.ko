@@ -1011,7 +1011,7 @@
 <tr class="even">
 <td><p>28회</p></td>
 <td><p><a href="../Page/9월_15일.md" title="wikilink">9월 15일</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/뜨거운_양철_지붕_위의_고양이" title="wikilink">뜨거운 양철 지붕 위의 고양이</a></p></td>
+<td><p><a href="../Page/뜨거운_양철_지붕_위의_고양이.md" title="wikilink">뜨거운 양철 지붕 위의 고양이</a></p></td>
 <td><p><a href="../Page/금요일.md" title="wikilink">금요일</a> 밤 12:25 ~ 2:50 (145분)</p></td>
 </tr>
 <tr class="odd">
@@ -1065,7 +1065,7 @@
 <tr class="odd">
 <td><p>37회</p></td>
 <td><p><a href="../Page/11월_17일.md" title="wikilink">11월 17일</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/위험한_아이들" title="wikilink">위험한 아이들</a></p></td>
+<td><p><a href="../Page/위험한_아이들.md" title="wikilink">위험한 아이들</a></p></td>
 <td><p><a href="../Page/금요일.md" title="wikilink">금요일</a> 밤 12:25 ~ 2:05 (100분)</p></td>
 </tr>
 <tr class="even">
@@ -1165,7 +1165,7 @@
 <tr class="odd">
 <td><p>51회</p></td>
 <td><p><a href="../Page/3월_2일.md" title="wikilink">3월 2일</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/인도로_가는_길" title="wikilink">인도로 가는 길</a></p></td>
+<td><p><a href="../Page/인도로_가는_길.md" title="wikilink">인도로 가는 길</a></p></td>
 <td><p><a href="../Page/금요일.md" title="wikilink">금요일</a> 새벽 1:15 ~ 3:45 (150분)</p></td>
 </tr>
 <tr class="even">

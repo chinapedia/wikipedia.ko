@@ -70,7 +70,7 @@ lists.wikimedia.org.    3600    IN      A       91.198.174.5
 
   - DNS 레코드 타입 목록
   - [nslookup](https://ko.wikipedia.org/wiki/nslookup "wikilink")
-  - [후이즈](https://ko.wikipedia.org/wiki/후이즈 "wikilink")
+  - [후이즈](../Page/후이즈.md "wikilink")
   - [host (유닉스)](https://ko.wikipedia.org/wiki/host_\(유닉스\) "wikilink")
 
 ## 각주

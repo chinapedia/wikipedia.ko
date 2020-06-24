@@ -50,6 +50,6 @@
 
 ## 외부 링크
 
-  - [공식 사이트](http://www.oestefc.com.br/)
+  - [공식 사이트](https://web.archive.org/web/20160129064451/http://www.oestefc.com.br/)
 
 [오에스치_FC](https://ko.wikipedia.org/wiki/분류:오에스치_FC "wikilink") [분류:브라질의 축구단](https://ko.wikipedia.org/wiki/분류:브라질의_축구단 "wikilink") [분류:1921년 설립된 축구단](https://ko.wikipedia.org/wiki/분류:1921년_설립된_축구단 "wikilink") [분류:상파울루주의 축구단](https://ko.wikipedia.org/wiki/분류:상파울루주의_축구단 "wikilink")

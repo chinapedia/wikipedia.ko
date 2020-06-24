@@ -31,7 +31,7 @@
 
 ## 외부 링크
 
-[분류:1979년 태어남](https://ko.wikipedia.org/wiki/분류:1979년_태어남 "wikilink") [분류:살아있는 사람](https://ko.wikipedia.org/wiki/분류:살아있는_사람 "wikilink") [분류:20세기 대한민국 사람](https://ko.wikipedia.org/wiki/분류:20세기_대한민국_사람 "wikilink") [분류:21세기 대한민국 사람](https://ko.wikipedia.org/wiki/분류:21세기_대한민국_사람 "wikilink") [분류:인항고등학교 동문](https://ko.wikipedia.org/wiki/분류:인항고등학교_동문 "wikilink") [분류:수원과학대학 동문](https://ko.wikipedia.org/wiki/분류:수원과학대학_동문 "wikilink") [분류:대한민국의 남자 연극 배우](https://ko.wikipedia.org/wiki/분류:대한민국의_남자_연극_배우 "wikilink") [분류:2003년 데뷔](https://ko.wikipedia.org/wiki/분류:2003년_데뷔 "wikilink") [분류:비디오 자키](https://ko.wikipedia.org/wiki/분류:비디오_자키 "wikilink") [분류:대한민국의 남자 뮤지컬 배우](https://ko.wikipedia.org/wiki/분류:대한민국의_남자_뮤지컬_배우 "wikilink") [분류:대한민국의 방송인](https://ko.wikipedia.org/wiki/분류:대한민국의_방송인 "wikilink") [분류:대한민국의 남자 희극인](https://ko.wikipedia.org/wiki/분류:대한민국의_남자_희극인 "wikilink")
+[분류:1979년 태어남](https://ko.wikipedia.org/wiki/분류:1979년_태어남 "wikilink") [분류:살아있는 사람](https://ko.wikipedia.org/wiki/분류:살아있는_사람 "wikilink") [분류:20세기 대한민국 사람](https://ko.wikipedia.org/wiki/분류:20세기_대한민국_사람 "wikilink") [분류:21세기 대한민국 사람](https://ko.wikipedia.org/wiki/분류:21세기_대한민국_사람 "wikilink") [분류:인항고등학교 동문](https://ko.wikipedia.org/wiki/분류:인항고등학교_동문 "wikilink") [분류:수원과학대학 동문](https://ko.wikipedia.org/wiki/분류:수원과학대학_동문 "wikilink") [분류:대한민국의 남자 연극 배우](https://ko.wikipedia.org/wiki/분류:대한민국의_남자_연극_배우 "wikilink") [분류:비디오 자키](https://ko.wikipedia.org/wiki/분류:비디오_자키 "wikilink") [분류:대한민국의 남자 뮤지컬 배우](https://ko.wikipedia.org/wiki/분류:대한민국의_남자_뮤지컬_배우 "wikilink") [분류:대한민국의 방송인](https://ko.wikipedia.org/wiki/분류:대한민국의_방송인 "wikilink") [분류:대한민국의 남자 희극인](https://ko.wikipedia.org/wiki/분류:대한민국의_남자_희극인 "wikilink")
 
 1.
 2.

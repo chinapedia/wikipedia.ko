@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Roundabout](https://ko.wikipedia.org/wiki/Roundabout).
 
 
-**Roundabout** (라운드 어바웃) 은 밴드 [예스의](https://ko.wikipedia.org/wiki/예스_\(밴드\) "wikilink") [프로그레시브 록](../Page/프로그레시브_록.md "wikilink") 음악이다. 1971년, 4번째 정규 앨범 [Fragile이](https://ko.wikipedia.org/wiki/Fragile_\(예스의_음반\) "wikilink") 발매되기 전 싱글로 발매되었다. 가사는 예스의 보컬리스트 [존 앤더슨이](../Page/존_앤더슨_\(음악가\).md "wikilink") 맡았으며 기타는 [스티브 하우가](https://ko.wikipedia.org/wiki/스티브_하우 "wikilink") 맡았다. 가사는 스위스 북쪽지방과 영국 북쪽 지방을 여행하면서 산과 연못과 같은 자연과 막힌 길들을 보고 영감을 얻었다고 한다.
+**Roundabout** (라운드 어바웃) 은 밴드 [예스의](https://ko.wikipedia.org/wiki/예스_\(밴드\) "wikilink") [프로그레시브 록](../Page/프로그레시브_록.md "wikilink") 음악이다. 1971년, 4번째 정규 앨범 [Fragile이](../Page/Fragile_\(예스의_음반\).md "wikilink") 발매되기 전 싱글로 발매되었다. 가사는 예스의 보컬리스트 [존 앤더슨이](../Page/존_앤더슨_\(음악가\).md "wikilink") 맡았으며 기타는 [스티브 하우가](https://ko.wikipedia.org/wiki/스티브_하우 "wikilink") 맡았다. 가사는 스위스 북쪽지방과 영국 북쪽 지방을 여행하면서 산과 연못과 같은 자연과 막힌 길들을 보고 영감을 얻었다고 한다.
 
 "Roundabout"은 예스의 곡 중에서도 잘 알려진 곡 중 하나이다. 곡의 공개 이후 1972년 1월에 곡의 길이를 줄이고 라이브 버전으로 재녹음한 버전인 "Long Distance Runaround"을 공개하기도 했다. 이 곡은 빌보드 핫 100 차트에서 최고 13위를 기록했다.
 

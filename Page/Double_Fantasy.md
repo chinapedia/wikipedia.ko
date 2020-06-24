@@ -31,7 +31,7 @@
 
 ## 재발매
 
-이 앨범은 1989년 부터 캐피틀 레코드를 통해 출시되고 있다. 2000년에는 3곡의 보너스 트랙을 추가 수록한 디지털 리마스터 앨범이 발매되었다. 추가된 3곡의 보너스 트랙은 〈[Help Me to Help Myself](https://ko.wikipedia.org/wiki/Help_Me_to_Help_Myself "wikilink")〉, 〈Walking On Thin Ice〉, 그리고 〈Central Park Stroll〉이다. 〈[Help Me to Help Myself](https://ko.wikipedia.org/wiki/Help_Me_to_Help_Myself "wikilink")〉는 오랫동안 해적판으로 돌아다니다가 첫 정식 출시된 곡으로 존의 마지막 녹음곡 중 하나에 속한다. 〈Walking On Thin Ice〉는 오노 요코의 곡으로 존이 사망하기 직전에 완성된 곡이다. 존과 요코는 그들이 거주하는 뉴욕 다코타 아파트를 떠나기 직전에 〈Walking On Thin Ice〉를 작업하고 있었고, 존은 곧 마크 채프먼의 총격을 받았다. 〈Central Park Stroll〉은 존과 요코가 뉴욕의 [센트럴 파크를](../Page/센트럴_파크.md "wikilink") 산책하고 있을 때 두 사람의 대화를 거둔 것이다.\[6\] 2010년에는 《Double Fantasy Stripped Down》라는 2CD 세트가 출시되었다. 이 2CD 세트는 [숀 레논의](../Page/숀_레논.md "wikilink") 커버 아트워크와 함께, 더 간단한 편곡을 특징으로 하는 대체 버전(Disk 1ː Double Fantasy Stripped Down)과 새로 리마스터링 된 사본(Disk 2ː Original Album)으로 구성되어 있다.\[7\]
+이 앨범은 1989년 부터 캐피틀 레코드를 통해 출시되고 있다. 2000년에는 3곡의 보너스 트랙을 추가 수록한 디지털 리마스터 앨범이 발매되었다. 추가된 3곡의 보너스 트랙은 〈[Help Me to Help Myself](../Page/Help_Me_to_Help_Myself.md "wikilink")〉, 〈Walking On Thin Ice〉, 그리고 〈Central Park Stroll〉이다. 〈[Help Me to Help Myself](../Page/Help_Me_to_Help_Myself.md "wikilink")〉는 오랫동안 해적판으로 돌아다니다가 첫 정식 출시된 곡으로 존의 마지막 녹음곡 중 하나에 속한다. 〈Walking On Thin Ice〉는 오노 요코의 곡으로 존이 사망하기 직전에 완성된 곡이다. 존과 요코는 그들이 거주하는 뉴욕 다코타 아파트를 떠나기 직전에 〈Walking On Thin Ice〉를 작업하고 있었고, 존은 곧 마크 채프먼의 총격을 받았다. 〈Central Park Stroll〉은 존과 요코가 뉴욕의 [센트럴 파크를](../Page/센트럴_파크.md "wikilink") 산책하고 있을 때 두 사람의 대화를 거둔 것이다.\[6\] 2010년에는 《Double Fantasy Stripped Down》라는 2CD 세트가 출시되었다. 이 2CD 세트는 [숀 레논의](../Page/숀_레논.md "wikilink") 커버 아트워크와 함께, 더 간단한 편곡을 특징으로 하는 대체 버전(Disk 1ː Double Fantasy Stripped Down)과 새로 리마스터링 된 사본(Disk 2ː Original Album)으로 구성되어 있다.\[7\]
 
 ## 표지
 
@@ -73,7 +73,7 @@
 
 <!-- end list -->
 
-1.  "[Help Me to Help Myself](https://ko.wikipedia.org/wiki/Help_Me_to_Help_Myself "wikilink")"  (존 레논) – 2:37
+1.  "[Help Me to Help Myself](../Page/Help_Me_to_Help_Myself.md "wikilink")"  (존 레논) – 2:37
 2.  "[Walking on Thin Ice](https://ko.wikipedia.org/wiki/Walking_on_Thin_Ice "wikilink")"  (요코 오노) – 6:00
 3.  "[Central Park Stroll](https://ko.wikipedia.org/wiki/Central_Park_Stroll "wikilink")"  (다이얼로그) – 0:17'
 

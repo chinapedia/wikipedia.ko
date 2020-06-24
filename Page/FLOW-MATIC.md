@@ -37,7 +37,7 @@
 
 이 샘플에는 오직 프로그램의 실행문들  섹션만 포함되어 있다. 레코드 필드 와 는  섹션에 정의되며, 여기에는 영어와 같은 문법을 이용하지는 않았다.\[5\]
 
-## 참고문헌
+## 참고 문헌
 
   - Hopper, Grace (1978). Keynote Address, *[History of Programming Languages I](http://portal.acm.org/citation.cfm?id=800025)*. ACM. pp. 16–20.
   - Hopper, Grace (1959). “Automatic programming: Present status and future trends”, *Mechanisation of Thought Processes*, National Physical Laboratory Symposium 10. Her Majesty's Stationery Office. pp 155–200, cited in

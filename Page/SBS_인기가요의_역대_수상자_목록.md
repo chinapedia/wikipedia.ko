@@ -2088,73 +2088,73 @@
 
   - 10월 7일 (977회) - [임창정](../Page/임창정.md "wikilink") 하루도 그대를 사랑하지 않은 적이 없었다
   - 10월 14일 (978회) - [iKON](https://ko.wikipedia.org/wiki/iKON "wikilink") 이별 길
-  - 10월 21일 (979회) - [아이유](https://ko.wikipedia.org/wiki/아이유 "wikilink") 삐삐
-  - 10월 28일 (980회) - [아이유](https://ko.wikipedia.org/wiki/아이유 "wikilink") 삐삐 (2주 연속)
+  - 10월 21일 - [아이유](https://ko.wikipedia.org/wiki/아이유 "wikilink") 삐삐\[107\]
+  - 10월 28일 (979회) - [아이유](https://ko.wikipedia.org/wiki/아이유 "wikilink") 삐삐 (2주 연속)
 
 **11월**
 
-  - 11월 4일 - **[아이유](https://ko.wikipedia.org/wiki/아이유 "wikilink") 삐삐 (3주 연속)**\[107\]
-  - 11월 11일 (981회) - [폴 킴](../Page/폴_킴_\(1988년\).md "wikilink") 너를 만나
-  - 11월 18일 - [트와이스](https://ko.wikipedia.org/wiki/트와이스 "wikilink") Yes Or Yes\[108\]
-  - 11월 25일 (982회) - [제니](../Page/제니_\(1996년_1월\).md "wikilink") SOLO
+  - 11월 4일 - **[아이유](https://ko.wikipedia.org/wiki/아이유 "wikilink") 삐삐 (3주 연속)**\[108\]
+  - 11월 11일 (980회) - [폴 킴](../Page/폴_킴_\(1988년\).md "wikilink") 너를 만나
+  - 11월 18일 - [트와이스](https://ko.wikipedia.org/wiki/트와이스 "wikilink") Yes Or Yes\[109\]
+  - 11월 25일 (981회) - [제니](../Page/제니_\(1996년_1월\).md "wikilink") SOLO
 
 **12월**
 
-  - 12월 2일 (983회) - [제니](../Page/제니_\(1996년_1월\).md "wikilink") SOLO (2주 연속)
-  - 12월 9일 (984회) - [송민호](../Page/송민호.md "wikilink") 아낙네
-  - 12월 16일 (985회) - **[제니](../Page/제니_\(1996년_1월\).md "wikilink") SOLO (통산 3주)**
-  - 12월 23일 - [벤](../Page/벤_\(대한민국의_가수\).md "wikilink") 180도\[109\]
-  - 12월 30일 - [위너](../Page/위너_\(음악_그룹\).md "wikilink") MILLIONS\[110\]
+  - 12월 2일 (982회) - [제니](../Page/제니_\(1996년_1월\).md "wikilink") SOLO (2주 연속)
+  - 12월 9일 (983회) - [송민호](../Page/송민호.md "wikilink") 아낙네
+  - 12월 16일 (984회) - **[제니](../Page/제니_\(1996년_1월\).md "wikilink") SOLO (통산 3주)**
+  - 12월 23일 - [벤](../Page/벤_\(대한민국의_가수\).md "wikilink") 180도\[110\]
+  - 12월 30일 - [위너](../Page/위너_\(음악_그룹\).md "wikilink") MILLIONS\[111\]
 
 ### 2019년
 
 **1월**
 
-  - 1월 6일 (986회) - [위너](../Page/위너_\(음악_그룹\).md "wikilink") MILLIONS (2주 연속)
-  - 1월 13일 (987회) - [청하](../Page/청하_\(가수\).md "wikilink") 벌써 12시
-  - 1월 20일 (988회) - [에이핑크](../Page/에이핑크.md "wikilink") %%
-  - 1월 27일 (989회) - [여자친구](../Page/여자친구_\(음악_그룹\).md "wikilink") 해야
+  - 1월 6일 (985회) - [위너](../Page/위너_\(음악_그룹\).md "wikilink") MILLIONS (2주 연속)
+  - 1월 13일 (986회) - [청하](../Page/청하_\(가수\).md "wikilink") 벌써 12시
+  - 1월 20일 (987회) - [에이핑크](../Page/에이핑크.md "wikilink") %%
+  - 1월 27일 (988회) - [여자친구](../Page/여자친구_\(음악_그룹\).md "wikilink") 해야
 
 **2월**
 
-  - 2월 3일 (990회) - [세븐틴](../Page/세븐틴_\(음악_그룹\).md "wikilink") Home
-  - 2월 10일 - [우디](https://ko.wikipedia.org/wiki/우디 "wikilink") 이 노래가 클럽에서 나온다면\[111\]
-  - 2월 17일 (991회) - [우디](https://ko.wikipedia.org/wiki/우디 "wikilink") 이 노래가 클럽에서 나온다면 (2주 연속)
-  - 2월 24일 (992회) - [ITZY](../Page/ITZY.md "wikilink") 달라달라
+  - 2월 3일 (989회) - [세븐틴](../Page/세븐틴_\(음악_그룹\).md "wikilink") Home
+  - 2월 10일 - [우디](https://ko.wikipedia.org/wiki/우디 "wikilink") 이 노래가 클럽에서 나온다면\[112\]
+  - 2월 17일 (990회) - [우디](https://ko.wikipedia.org/wiki/우디 "wikilink") 이 노래가 클럽에서 나온다면 (2주 연속)
+  - 2월 24일 (991회) - [ITZY](../Page/ITZY.md "wikilink") 달라달라
 
 **3월**
 
-  - 3월 3일 (993회) - [ITZY](../Page/ITZY.md "wikilink") 달라달라 (2주 연속)
-  - 3월 10일 (994회) - **[ITZY](../Page/ITZY.md "wikilink") 달라달라 (3주 연속)**
-  - 3월 17일 (995회) - [엔플라잉](../Page/엔플라잉.md "wikilink") 옥탑방
-  - 3월 24일 (996회) - [에픽하이](https://ko.wikipedia.org/wiki/에픽하이 "wikilink") 술이 달다
-  - 3월 31일 (997회) - [마마무](../Page/마마무.md "wikilink") 고고베베
+  - 3월 3일 (992회) - [ITZY](../Page/ITZY.md "wikilink") 달라달라 (2주 연속)
+  - 3월 10일 (993회) - **[ITZY](../Page/ITZY.md "wikilink") 달라달라 (3주 연속)**
+  - 3월 17일 (994회) - [엔플라잉](../Page/엔플라잉.md "wikilink") 옥탑방
+  - 3월 24일 (995회) - [에픽하이](https://ko.wikipedia.org/wiki/에픽하이 "wikilink") 술이 달다
+  - 3월 31일 (996회) - [마마무](../Page/마마무.md "wikilink") 고고베베
 
 **4월**
 
-  - 4월 7일 (998회) - [태연](../Page/태연.md "wikilink") 사계
-  - 4월 14일 (999회) - [첸](../Page/첸_\(가수\).md "wikilink") 사월이 지나면 우리 헤어져요
-  - 4월 21일 (1000회 특집) - [블랙핑크](../Page/블랙핑크.md "wikilink") Kill This Love
-  - 4월 28일 (1001회) - [방탄소년단](../Page/방탄소년단.md "wikilink") 작은 것들을 위한 시
+  - 4월 7일 (997회) - [태연](../Page/태연.md "wikilink") 사계
+  - 4월 14일 (998회) - [첸](../Page/첸_\(가수\).md "wikilink") 사월이 지나면 우리 헤어져요
+  - 4월 21일 (999회) - [블랙핑크](../Page/블랙핑크.md "wikilink") Kill This Love
+  - 4월 28일 (1000회 특집) - [방탄소년단](../Page/방탄소년단.md "wikilink") 작은 것들을 위한 시
 
 **5월**
 
-  - 5월 5일 - [트와이스](https://ko.wikipedia.org/wiki/트와이스 "wikilink") FANCY\[112\]
-  - 5월 12일 (1002회) - [방탄소년단](../Page/방탄소년단.md "wikilink") 작은 것들을 위한 시 (통산 2주)
-  - 5월 19일 (1003회) - **[방탄소년단](../Page/방탄소년단.md "wikilink") 작은 것들을 위한 시 (2주 연속, 통산 3주)**
-  - 5월 26일 (1004회) - [블랙핑크](../Page/블랙핑크.md "wikilink") Kill This Love (통산 2주)
+  - 5월 5일 - [트와이스](https://ko.wikipedia.org/wiki/트와이스 "wikilink") FANCY\[113\]
+  - 5월 12일 (1001회) - [방탄소년단](../Page/방탄소년단.md "wikilink") 작은 것들을 위한 시 (통산 2주)
+  - 5월 19일 (1002회) - **[방탄소년단](../Page/방탄소년단.md "wikilink") 작은 것들을 위한 시 (2주 연속, 통산 3주)**
+  - 5월 26일 (1003회) - [블랙핑크](../Page/블랙핑크.md "wikilink") Kill This Love (통산 2주)
 
 **6월**
 
-  - 6월 2일 (1005회) - [GOT7](https://ko.wikipedia.org/wiki/GOT7 "wikilink") Eclipse
-  - 6월 9일 (1006회) - [다비치](../Page/다비치.md "wikilink") 너에게 못했던 내 마지막 말은
-  - 6월 16일 (1007회) - [이하이](../Page/이하이.md "wikilink") 누구 없소
-  - 6월 23일 (1008회) - [김나영](../Page/김나영_\(가수\).md "wikilink") 솔직하게 말해서 나
-  - 6월 30일 - [레드벨벳](../Page/레드벨벳_\(음악_그룹\).md "wikilink") 짐살라빔\[113\]
+  - 6월 2일 (1004회) - [GOT7](https://ko.wikipedia.org/wiki/GOT7 "wikilink") Eclipse
+  - 6월 9일 (1005회) - [다비치](../Page/다비치.md "wikilink") 너에게 못했던 내 마지막 말은
+  - 6월 16일 (1006회) - [이하이](../Page/이하이.md "wikilink") 누구 없소
+  - 6월 23일 (1007회) - [김나영](../Page/김나영_\(가수\).md "wikilink") 솔직하게 말해서 나
+  - 6월 30일 - [레드벨벳](../Page/레드벨벳_\(음악_그룹\).md "wikilink") 짐살라빔\[114\]
 
 **7월**
 
-  - 7월 7일 (1008회) - [청하](../Page/청하_\(가수\).md "wikilink") Snapping\[114\]
+  - 7월 7일 (1008회) - [청하](../Page/청하_\(가수\).md "wikilink") Snapping\[115\]
   - 7월 14일 (1009회) - [여자친구](../Page/여자친구_\(음악_그룹\).md "wikilink") 열대야
   - 7월 21일 (1010회) - [헤이즈](../Page/헤이즈_\(가수\).md "wikilink") We don't talk together
   - 7월 28일 (1011회) - [벤](../Page/벤_\(대한민국의_가수\).md "wikilink") 헤어져줘서 고마워
@@ -2170,16 +2170,16 @@
 
   - 9월 1일 (1016회) - [레드벨벳](../Page/레드벨벳_\(음악_그룹\).md "wikilink") 음파음파
   - 9월 8일 (1017회) - [엑스원](https://ko.wikipedia.org/wiki/엑스원 "wikilink") FLASH
-  - 9월 15일 - [엑스원](https://ko.wikipedia.org/wiki/엑스원 "wikilink") FLASH (2주 연속)\[115\]
+  - 9월 15일 - [엑스원](https://ko.wikipedia.org/wiki/엑스원 "wikilink") FLASH (2주 연속)\[116\]
   - 9월 22일 (1018회) - [볼빨간사춘기](../Page/볼빨간사춘기.md "wikilink") 워커홀릭
   - 9월 29일 (1019회) - [볼빨간사춘기](../Page/볼빨간사춘기.md "wikilink") 워커홀릭 (2주 연속)
 
 **10월**
 
   - 10월 6일 (1020회) - [트와이스](https://ko.wikipedia.org/wiki/트와이스 "wikilink") Feel Special
-  - 10월 13일 - [트와이스](https://ko.wikipedia.org/wiki/트와이스 "wikilink") Feel Special (2주 연속)\[116\]
+  - 10월 13일 - [트와이스](https://ko.wikipedia.org/wiki/트와이스 "wikilink") Feel Special (2주 연속)\[117\]
   - 10월 20일 (1021회) - [AKMU](../Page/AKMU.md "wikilink") 어떻게 이별까지 사랑하겠어, 널 사랑하는 거지
-  - 10월 27일 - [AKMU](../Page/AKMU.md "wikilink") 어떻게 이별까지 사랑하겠어, 널 사랑하는 거지 (2주 연속)\[117\]
+  - 10월 27일 - [AKMU](../Page/AKMU.md "wikilink") 어떻게 이별까지 사랑하겠어, 널 사랑하는 거지 (2주 연속)\[118\]
 
 **11월**
 
@@ -2193,8 +2193,8 @@
   - 12월 1일 (1026회) - [아이유](https://ko.wikipedia.org/wiki/아이유 "wikilink") Blueming
   - 12월 8일 (1027회) - [아이유](https://ko.wikipedia.org/wiki/아이유 "wikilink") Blueming (2주 연속)
   - 12월 15일 (1028회) - **[아이유](https://ko.wikipedia.org/wiki/아이유 "wikilink") Blueming (3주 연속)**
-  - 12월 22일 - [마마무](../Page/마마무.md "wikilink") HIP (통산 2주)\[118\]
-  - 12월 29일 - **[마마무](../Page/마마무.md "wikilink") HIP (통산 3주)**\[119\]
+  - 12월 22일 - [마마무](../Page/마마무.md "wikilink") HIP (통산 2주)\[119\]
+  - 12월 29일 - **[마마무](../Page/마마무.md "wikilink") HIP (통산 3주)**\[120\]
 
 ### 2020년
 
@@ -2203,7 +2203,7 @@
   - 1월 5일 (1029회) - [레드벨벳](../Page/레드벨벳_\(음악_그룹\).md "wikilink") Psycho
   - 1월 12일 (1030회) - [레드벨벳](../Page/레드벨벳_\(음악_그룹\).md "wikilink") Psycho (2주 연속)
   - 1월 19일 (1031회) - **[레드벨벳](../Page/레드벨벳_\(음악_그룹\).md "wikilink") Psycho (3주 연속)**
-  - 1월 26일 - [지코](../Page/지코.md "wikilink") 아무노래\[120\]
+  - 1월 26일 - [지코](../Page/지코.md "wikilink") 아무노래\[121\]
 
 **2월**
 
@@ -2225,15 +2225,22 @@
   - 4월 5일 (1041회) - **[ITZY](../Page/ITZY.md "wikilink") WANNABE (3주 연속)**
   - 4월 12일 (1042회) - [수호](../Page/수호_\(가수\).md "wikilink") 사랑, 하자
   - 4월 19일 (1043회) - [(여자)아이들](../Page/\(여자\)아이들.md "wikilink") Oh my god
-  - 4월 26일 (1044회) - [에이핑크](../Page/에이핑크.md "wikilink") 덤더럼(Dumhdurum)
+  - 4월 26일 (1044회) - [에이핑크](../Page/에이핑크.md "wikilink") 덤더럼
 
 **5월**
 
-  - 5월 3일 (1045회) -
-  - 5월 10일 (1046회) -
-  - 5월 17일 (1047회) -
-  - 5월 24일 (1048회) -
-  - 5월 31일 (1049회) -
+  - 5월 3일 (1045회) - [에이핑크](../Page/에이핑크.md "wikilink") 덤더럼 (2주 연속)
+  - 5월 10일 (1046회) - [오마이걸](../Page/오마이걸.md "wikilink") 살짝 설렜어
+  - 5월 17일 (1047회) - [아이유](https://ko.wikipedia.org/wiki/아이유 "wikilink") 에잇
+  - 5월 24일 (1048회) - [아이유](https://ko.wikipedia.org/wiki/아이유 "wikilink") 에잇 (2주 연속)
+  - 5월 31일 (1049회) - **[아이유](https://ko.wikipedia.org/wiki/아이유 "wikilink") 에잇 (3주 연속)**
+
+**6월**
+
+  - 6월 7일 (1050회) -
+  - 6월 14일 (1051회) -
+  - 6월 21일 (1052회) -
+  - 6월 28일 (1053회) -
 
 ## 인기가요 CHART 트리플 크라운 Top Artist
 
@@ -2251,54 +2258,53 @@
       - 6대: [씨스타](../Page/씨스타.md "wikilink") Touch My Body (2014.08.17)
       - 7대: [에이핑크](../Page/에이핑크.md "wikilink") LUV (2014.12.28)
   - **2015년**
-      - 8대: [EXO](../Page/EXO.md "wikilink") CALL ME BABY (2015.04.19)\[121\]
+      - 8대: [EXO](../Page/EXO.md "wikilink") CALL ME BABY (2015.04.19)\[122\]
       - 9대: [빅뱅](../Page/빅뱅_\(음악_그룹\).md "wikilink") LOSER (2015.05.24)
       - 10대: [소녀시대](../Page/소녀시대.md "wikilink") Lion Heart (2015.09.13)
       - 11대: [태연](../Page/태연.md "wikilink") I (2015.11.22)
       - 12대: [싸이](../Page/싸이.md "wikilink") DADDY (2015.12.27)
   - **2016년**
-      - 13대: [수지](../Page/수지_\(대한민국의_가수\).md "wikilink")·[백현](https://ko.wikipedia.org/wiki/백현_\(가수\) "wikilink") Dream (2016.01.31)
+      - 13대: [수지](../Page/수지_\(1994년\).md "wikilink")·[백현](https://ko.wikipedia.org/wiki/백현_\(가수\) "wikilink") Dream (2016.01.31)
       - 14대: [여자친구](../Page/여자친구_\(음악_그룹\).md "wikilink") 시간을 달려서 (2016.02.28)
       - 15대: [트와이스](https://ko.wikipedia.org/wiki/트와이스 "wikilink") CHEER UP (2016.05.29)
-      - 16대: [여자친구](../Page/여자친구_\(음악_그룹\).md "wikilink") 너 그리고 나 (2016.08.07)\[122\]
-      - 17대: [트와이스](https://ko.wikipedia.org/wiki/트와이스 "wikilink") TT (2016.11.20)\[123\]
+      - 16대: [여자친구](../Page/여자친구_\(음악_그룹\).md "wikilink") 너 그리고 나 (2016.08.07)\[123\]
+      - 17대: [트와이스](https://ko.wikipedia.org/wiki/트와이스 "wikilink") TT (2016.11.20)\[124\]
   - **2017년**
-      - 18대: [빅뱅](../Page/빅뱅_\(음악_그룹\).md "wikilink") 에라 모르겠다 (2017.01.08)\[124\]
-      - 19대: [트와이스](https://ko.wikipedia.org/wiki/트와이스 "wikilink") KNOCK KNOCK (2017.03.19)\[125\]
+      - 18대: [빅뱅](../Page/빅뱅_\(음악_그룹\).md "wikilink") 에라 모르겠다 (2017.01.08)\[125\]
+      - 19대: [트와이스](https://ko.wikipedia.org/wiki/트와이스 "wikilink") KNOCK KNOCK (2017.03.19)\[126\]
       - 20대: [아이유](https://ko.wikipedia.org/wiki/아이유 "wikilink") 팔레트 (2017.05.14)
-      - 21대: [트와이스](https://ko.wikipedia.org/wiki/트와이스 "wikilink") SIGNAL (2017.06.11)\[126\]
+      - 21대: [트와이스](https://ko.wikipedia.org/wiki/트와이스 "wikilink") SIGNAL (2017.06.11)\[127\]
       - 22대: [블랙핑크](../Page/블랙핑크.md "wikilink") 마지막처럼 (2017.07.16)
       - 23대: [선미](../Page/선미.md "wikilink") 가시나 (2017.09.24)
       - 24대: [방탄소년단](../Page/방탄소년단.md "wikilink") DNA (2017.10.15)
-      - 25대: [트와이스](https://ko.wikipedia.org/wiki/트와이스 "wikilink") LIKEY (2017.11.26)\[127\]
+      - 25대: [트와이스](https://ko.wikipedia.org/wiki/트와이스 "wikilink") LIKEY (2017.11.26)\[128\]
   - **2018년**
-      - 26대: [트와이스](https://ko.wikipedia.org/wiki/트와이스 "wikilink") Heart shaker (2018.01.07)\[128\]
+      - 26대: [트와이스](https://ko.wikipedia.org/wiki/트와이스 "wikilink") Heart shaker (2018.01.07)\[129\]
       - 27대: [iKON](https://ko.wikipedia.org/wiki/iKON "wikilink") 사랑을 했다 (2018.03.04)
       - 28대: [마마무](../Page/마마무.md "wikilink") 별이 빛나는 밤 (2018.04.01)
-      - 29대: [트와이스](https://ko.wikipedia.org/wiki/트와이스 "wikilink") What is Love? (2018.05.06)\[129\]
-      - 30대: [방탄소년단](../Page/방탄소년단.md "wikilink") Fake Love (2018.06.10)\[130\]
-      - 31대: [블랙핑크](../Page/블랙핑크.md "wikilink") 뚜두뚜두 (2018.07.08)\[131\]
-      - 32대: [트와이스](https://ko.wikipedia.org/wiki/트와이스 "wikilink") Dance the night away (2018.08.05)\[132\]
-      - 33대: [방탄소년단](../Page/방탄소년단.md "wikilink") IDOL (2018.09.16)\[133\]
-      - 34대: [아이유](https://ko.wikipedia.org/wiki/아이유 "wikilink") 삐삐 (2018.11.04)\[134\]
+      - 29대: [트와이스](https://ko.wikipedia.org/wiki/트와이스 "wikilink") What is Love? (2018.05.06)\[130\]
+      - 30대: [방탄소년단](../Page/방탄소년단.md "wikilink") Fake Love (2018.06.10)\[131\]
+      - 31대: [블랙핑크](../Page/블랙핑크.md "wikilink") 뚜두뚜두 (2018.07.08)\[132\]
+      - 32대: [트와이스](https://ko.wikipedia.org/wiki/트와이스 "wikilink") Dance the night away (2018.08.05)\[133\]
+      - 33대: [방탄소년단](../Page/방탄소년단.md "wikilink") IDOL (2018.09.16)\[134\]
+      - 34대: [아이유](https://ko.wikipedia.org/wiki/아이유 "wikilink") 삐삐 (2018.11.04)\[135\]
       - 35대: [제니](../Page/제니_\(1996년_1월\).md "wikilink") SOLO (2018.12.16)
   - **2019년**
       - 36대: [ITZY](../Page/ITZY.md "wikilink") 달라달라 (2019.03.10)
-      - 37대: [방탄소년단](../Page/방탄소년단.md "wikilink") 작은 것들을 위한 시 (2019.05.19)\[135\]
-      - 38대: [아이유](https://ko.wikipedia.org/wiki/아이유 "wikilink") Blueming (2019.12.15)\[136\]
-      - 39대: [마마무](../Page/마마무.md "wikilink") HIP (2019.12.29)\[137\]
+      - 37대: [방탄소년단](../Page/방탄소년단.md "wikilink") 작은 것들을 위한 시 (2019.05.19)\[136\]
+      - 38대: [아이유](https://ko.wikipedia.org/wiki/아이유 "wikilink") Blueming (2019.12.15)\[137\]
+      - 39대: [마마무](../Page/마마무.md "wikilink") HIP (2019.12.29)\[138\]
   - **2020년**
       - 40대: [레드벨벳](../Page/레드벨벳_\(음악_그룹\).md "wikilink") Psycho (2020.01.19)
       - 41대: [지코](../Page/지코.md "wikilink") 아무노래 (2020.02.09)
-      - 42대: [방탄소년단](../Page/방탄소년단.md "wikilink") ON (2020.03.15)\[138\]
-      - 43대: [ITZY](../Page/ITZY.md "wikilink") WANNABE (2020.04.05)\[139\]
-      - 44대: **미 정**
-      - 45대: **미 정**
-      - 46대: **미 정**
-      - 47대: **미 정**
-      - 48대: **미 정**
-      - 49대: **미 정**
-      - 50대: **미 정**
+      - 42대: [방탄소년단](../Page/방탄소년단.md "wikilink") ON (2020.03.15)\[139\]
+      - 43대: [ITZY](../Page/ITZY.md "wikilink") WANNABE (2020.04.05)
+      - 44대: [아이유](https://ko.wikipedia.org/wiki/아이유 "wikilink") 에잇 (2020.05.31)\[140\]
+      - 45대: **?**
+      - 46대: **?**
+      - 47대: **?**
+      - 48대: **?**
+      - 49대: **?**
 
 ## 같이 보기
 
@@ -2322,7 +2328,7 @@
 8.  콘서트로 인한 불참.
 9.  앵콜송 〈나무〉로 대체
 10. 스케줄로 인한 불참.
-11. 콘서트로 인한 불참.
+11.
 12. 故 [노무현](https://ko.wikipedia.org/wiki/노무현 "wikilink") 前 대통령 서거로 인한 추모 정국을 고려한 결방.
 13. 故 [김대중](../Page/김대중.md "wikilink") 前 대통령 서거로 인한 추모 정국을 고려한 결방.
 14. 추석특집 편성으로 인한 결방.
@@ -2368,13 +2374,13 @@
 54.
 55. 4회 연속 트리플 크라운
 56.
-57. 5회 연속 트리플 크라운
+57.
 58.
 59.
 60.
 61.
 62.
-63. 6회 연속 트리플 크라운
+63.
 64.
 65. 뮤티즌 송 마지막 트리플 크라운.
 66. [아시아나항공 214편 추락 사고와](https://ko.wikipedia.org/wiki/아시아나항공_214편_추락_사고 "wikilink") 관련된 뉴스 속보로 인한 결방.
@@ -2418,36 +2424,37 @@
 104. 《2017 [SBS 가요대전](../Page/SBS_가요대전.md "wikilink")》 재방송으로 인한 결방 및 홈페이지 개별 발표.
 105. [2018 평창 동계올림픽](https://ko.wikipedia.org/wiki/2018_평창_동계올림픽 "wikilink") 중계방송 관계로 인한 결방 및 홈페이지 개별 발표.
 106. [2018 자카르타 아시안 게임의](../Page/2018년_아시안_게임.md "wikilink") 중계방송 관계로 인한 결방 및 홈페이지 개별 발표.
-107. 2018 프로야구 중계방송 관계로 인한 결방 및 홈페이지 발표.
-108. **2018 슈퍼콘서트 in 수원** 재방송으로 인한 결방 및 홈페이지 발표.
-109. 2018 [SBS 가요대전](../Page/SBS_가요대전.md "wikilink") 개최에 따른 결방 및 홈페이지 발표.
-110. 2018 [SBS 가요대전](../Page/SBS_가요대전.md "wikilink") 재방송 관계로 결방 및 홈페이지 발표.
-111. **2019 [ISU 세계 빙상 연맹](../Page/국제_빙상_연맹.md "wikilink") [4대륙 피겨 스케이팅 선수권 대회](https://ko.wikipedia.org/wiki/4대륙_피겨_스케이팅_선수권_대회 "wikilink") IN [애너하임](../Page/애너하임.md "wikilink") 남자 개인 프리부분 중계방송** 관계로 인한 결방 및 홈페이지 개별 발표.
-112. 2019 광주 세계 수영 선수권 개최 성공 기원 콘서트 녹화방송으로 진행.
-113. 2019 남북미 판문점 정상회담 특보 관계로 결방.
-114. 지난주 녹화방송으로 대체.
-115. 추석연휴로 결방.
-116. 인기가요 슈퍼콘서트 in 인천 녹화방송으로 진행.
-117. 2019 프로야구 한국시리즈가 종료로 인해 재방송으로 대체 편성으로 결방.
-118. 2019 [SBS 가요대전](../Page/SBS_가요대전.md "wikilink") 개최에 따른 결방 및 홈페이지 발표.
-119. 2019 [SBS 연예대상](../Page/SBS_연예대상.md "wikilink") 재방송에 따른 결방 및 홈페이지 발표.
-120. 설날 특집 프로그램 방송 관계로 휴방 및 홈페이지 개별 발표.
-121.
+107. **UHD SBS 인기가요** 특집 방송
+108. 2018 프로야구 중계방송 관계로 인한 결방 및 홈페이지 발표.
+109. **2018 슈퍼콘서트 in 수원** 재방송으로 인한 결방 및 홈페이지 발표.
+110. 2018 [SBS 가요대전](../Page/SBS_가요대전.md "wikilink") 개최에 따른 결방 및 홈페이지 발표.
+111. 2018 [SBS 가요대전](../Page/SBS_가요대전.md "wikilink") 재방송 관계로 결방 및 홈페이지 발표.
+112. **2019 [ISU 세계 빙상 연맹](../Page/국제_빙상_연맹.md "wikilink") [4대륙 피겨 스케이팅 선수권 대회](https://ko.wikipedia.org/wiki/4대륙_피겨_스케이팅_선수권_대회 "wikilink") IN [애너하임](../Page/애너하임.md "wikilink") 남자 개인 프리부분 중계방송** 관계로 인한 결방 및 홈페이지 개별 발표.
+113. 2019 광주 세계 수영 선수권 개최 성공 기원 콘서트 녹화방송으로 진행.
+114. 2019 남북미 판문점 정상회담 특보 관계로 결방.
+115. 지난주 녹화방송으로 대체.
+116. 추석연휴로 결방.
+117. 인기가요 슈퍼콘서트 in 인천 녹화방송으로 진행.
+118. 2019 프로야구 한국시리즈가 종료로 인해 재방송으로 대체 편성으로 결방.
+119. 2019 [SBS 가요대전](../Page/SBS_가요대전.md "wikilink") 개최에 따른 결방 및 홈페이지 발표.
+120. 2019 [SBS 연예대상](../Page/SBS_연예대상.md "wikilink") 재방송에 따른 결방 및 홈페이지 발표.
+121. 설날 특집 프로그램 방송 관계로 휴방 및 홈페이지 개별 발표.
 122.
-123. 2회 연속 트리플 크라운
-124.
-125. 3회 연속 트리플 크라운
-126. 4회 연속 트리플 크라운
-127. 5회 연속 트리플 크라운
-128. 6회 연속 트리플 크라운
-129. 7회 연속 트리플 크라운
-130.
+123.
+124. 2회 연속 트리플 크라운
+125.
+126. 3회 연속 트리플 크라운
+127. 4회 연속 트리플 크라운
+128. 5회 연속 트리플 크라운
+129. 6회 연속 트리플 크라운
+130. 7회 연속 트리플 크라운
 131.
-132. 8회 연속 트리플 크라운
-133.
+132.
+133. 8회 연속 트리플 크라운
 134.
 135.
 136.
 137.
 138.
 139.
+140.

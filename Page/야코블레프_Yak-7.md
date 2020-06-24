@@ -165,4 +165,4 @@ Yak-7은 원래 [Yak-1을](https://ko.wikipedia.org/wiki/야코블레프_Yak-1 "
   - **상승고도:** 9,500m
   - **무장:** 20mm [ShVAK 기관포](../Page/ShVAK_기관포.md "wikilink") 1문, 7.62mm [ShKAS 기관총](https://ko.wikipedia.org/wiki/ShKAS_기관총 "wikilink") 2정 혹은 12.7mm [베레진 UB](https://ko.wikipedia.org/wiki/베레진_UB "wikilink") 기관총 1정, [RS-82](https://ko.wikipedia.org/wiki/RS-82 "wikilink") 로켓탄 6발
 
-[분류:제2차 세계 대전의 소련 군용기](https://ko.wikipedia.org/wiki/분류:제2차_세계_대전의_소련_군용기 "wikilink") [분류:야코블레프 항공기](https://ko.wikipedia.org/wiki/분류:야코블레프_항공기 "wikilink") [분류:소련 및 러시아의 전투기](https://ko.wikipedia.org/wiki/분류:소련_및_러시아의_전투기 "wikilink") [분류:1940년 첫 비행한 항공기](https://ko.wikipedia.org/wiki/분류:1940년_첫_비행한_항공기 "wikilink")
+[분류:제2차 세계 대전의 소련 군용기](https://ko.wikipedia.org/wiki/분류:제2차_세계_대전의_소련_군용기 "wikilink") [분류:야코블레프 항공기](https://ko.wikipedia.org/wiki/분류:야코블레프_항공기 "wikilink") [분류:소련 및 러시아의 전투기](https://ko.wikipedia.org/wiki/분류:소련_및_러시아의_전투기 "wikilink") [분류:1940년 첫 비행한 항공기](https://ko.wikipedia.org/wiki/분류:1940년_첫_비행한_항공기 "wikilink") [분류:저익기](https://ko.wikipedia.org/wiki/분류:저익기 "wikilink")

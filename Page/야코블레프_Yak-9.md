@@ -398,7 +398,7 @@ The Yakovlev Yak-9 is the fighter plane for Soviet Union in the computer games *
   - [Yak Piston Fighters](http://www.airvectors.net/avyak1.html)
   - [Walkaround Yak-9U from Monino Museum (Russia)](http://scalemodels.ru/modules/photo/viewcat_cid_156.html)
 
-[분류:소련 및 러시아의 전투기](https://ko.wikipedia.org/wiki/분류:소련_및_러시아의_전투기 "wikilink") [분류:제2차 세계 대전의 소련 군용기](https://ko.wikipedia.org/wiki/분류:제2차_세계_대전의_소련_군용기 "wikilink") [분류:야코블레프 항공기](https://ko.wikipedia.org/wiki/분류:야코블레프_항공기 "wikilink") [분류:1942년 첫 비행한 항공기](https://ko.wikipedia.org/wiki/분류:1942년_첫_비행한_항공기 "wikilink")
+[분류:소련 및 러시아의 전투기](https://ko.wikipedia.org/wiki/분류:소련_및_러시아의_전투기 "wikilink") [분류:제2차 세계 대전의 소련 군용기](https://ko.wikipedia.org/wiki/분류:제2차_세계_대전의_소련_군용기 "wikilink") [분류:야코블레프 항공기](https://ko.wikipedia.org/wiki/분류:야코블레프_항공기 "wikilink") [분류:1942년 첫 비행한 항공기](https://ko.wikipedia.org/wiki/분류:1942년_첫_비행한_항공기 "wikilink") [분류:저익기](https://ko.wikipedia.org/wiki/분류:저익기 "wikilink")
 
 1.  Gustin 2003, p. 120.
 2.  Morgan 1999, p. 53.

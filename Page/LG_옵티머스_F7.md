@@ -30,7 +30,7 @@
 
 ### 내장메모리
 
-탑재된 메모리는 8GB 이지만 [안드로이드](../Page/안드로이드_\(운영_체제\).md "wikilink") 시스템영역이나 앱설치영역 등으로 [파티션](https://ko.wikipedia.org/wiki/파티션 "wikilink")되어 실제 사용 가능한 용량은 3.8GB 정도이다
+탑재된 메모리는 8GB이지만 [안드로이드](../Page/안드로이드_\(운영_체제\).md "wikilink") 시스템영역이나 앱설치영역 등으로 [파티션](https://ko.wikipedia.org/wiki/파티션 "wikilink")되어 실제 사용 가능한 용량은 3.8GB 정도이다
 
 ## 색상
 

@@ -32,7 +32,7 @@
 </tr>
 <tr class="even">
 <td><p>2008년 10월 29일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/나고야_시" title="wikilink">나고야 시</a></p></td>
+<td><p><a href="../Page/나고야시.md" title="wikilink">나고야시</a></p></td>
 <td><p>나고야 중경대학 시민회관</p></td>
 <td></td>
 <td></td>

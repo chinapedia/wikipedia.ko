@@ -30,4 +30,4 @@
 
   - [시카고 파이어](https://ko.wikipedia.org/wiki/시카고_파이어 "wikilink") (브리지뷰, 일리노이)
 
-[분류:미국의 축구단](https://ko.wikipedia.org/wiki/분류:미국의_축구단 "wikilink") [분류:2013년 설립된 축구단](https://ko.wikipedia.org/wiki/분류:2013년_설립된_축구단 "wikilink")
+[분류:미국의 축구단](https://ko.wikipedia.org/wiki/분류:미국의_축구단 "wikilink") [분류:2013년 설립된 축구단](https://ko.wikipedia.org/wiki/분류:2013년_설립된_축구단 "wikilink") [분류:오클라호마주의 축구단](https://ko.wikipedia.org/wiki/분류:오클라호마주의_축구단 "wikilink")

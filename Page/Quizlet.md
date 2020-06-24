@@ -33,7 +33,7 @@
   - [Quizlet 공식 사이트](https://quizlet.com)
   - [공식 블로그](https://quizlet.com/blog)
 
-[분류:교육 웹사이트](https://ko.wikipedia.org/wiki/분류:교육_웹사이트 "wikilink") [분류:2007년 설립](https://ko.wikipedia.org/wiki/분류:2007년_설립 "wikilink") [분류:언어 습득](https://ko.wikipedia.org/wiki/분류:언어_습득 "wikilink")
+[분류:교육 웹사이트](https://ko.wikipedia.org/wiki/분류:교육_웹사이트 "wikilink") [분류:2007년 설립](https://ko.wikipedia.org/wiki/분류:2007년_설립 "wikilink") [분류:언어 습득](https://ko.wikipedia.org/wiki/분류:언어_습득 "wikilink") [분류:언어 교육 소프트웨어](https://ko.wikipedia.org/wiki/분류:언어_교육_소프트웨어 "wikilink")
 
 1.
 2.  [Quizlet Mission Page](http://www.quizlet.com/about/) .

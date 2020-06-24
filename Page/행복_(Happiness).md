@@ -43,7 +43,7 @@
 
   - [행복(Happiness) 뮤직비디오](https://www.youtube.com/watch?v=JFgv8bKfxEs) - [유튜브](../Page/유튜브.md "wikilink")
 
-[분류:2014년 노래](https://ko.wikipedia.org/wiki/분류:2014년_노래 "wikilink") [분류:2014년 싱글](https://ko.wikipedia.org/wiki/분류:2014년_싱글 "wikilink") [분류:데뷔 싱글](https://ko.wikipedia.org/wiki/분류:데뷔_싱글 "wikilink") [분류:레드벨벳의 노래](https://ko.wikipedia.org/wiki/분류:레드벨벳의_노래 "wikilink") [분류:SM 엔터테인먼트 싱글](https://ko.wikipedia.org/wiki/분류:SM_엔터테인먼트_싱글 "wikilink")
+[분류:2014년 싱글](https://ko.wikipedia.org/wiki/분류:2014년_싱글 "wikilink") [분류:데뷔 싱글](https://ko.wikipedia.org/wiki/분류:데뷔_싱글 "wikilink") [분류:레드벨벳의 싱글](https://ko.wikipedia.org/wiki/분류:레드벨벳의_싱글 "wikilink")
 
 1.
 2.

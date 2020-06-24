@@ -37,4 +37,4 @@
 
 <references/>
 
-[분류:1996년 설립](https://ko.wikipedia.org/wiki/분류:1996년_설립 "wikilink") [분류:2005년 폐지](https://ko.wikipedia.org/wiki/분류:2005년_폐지 "wikilink") [분류:ECHL 팀](https://ko.wikipedia.org/wiki/분류:ECHL_팀 "wikilink")
+[분류:1996년 설립](https://ko.wikipedia.org/wiki/분류:1996년_설립 "wikilink") [분류:2005년 폐지](https://ko.wikipedia.org/wiki/분류:2005년_폐지 "wikilink") [분류:ECHL 팀](https://ko.wikipedia.org/wiki/분류:ECHL_팀 "wikilink") [분류:일리노이주의 아이스하키팀](https://ko.wikipedia.org/wiki/분류:일리노이주의_아이스하키팀 "wikilink")

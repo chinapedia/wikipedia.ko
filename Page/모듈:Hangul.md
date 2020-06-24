@@ -45,8 +45,8 @@ local function finalclass(str)
 `   if lastchar == nil then return final_unknown end`
 
 `   if lastchar >= '가' and lastchar <= '힣' then`
-`       codepoint = ustring.codepoint(lastchar)`
-`       final = (codepoint - 0xAC00) % 0x1C`
+`       local codepoint = ustring.codepoint(lastchar)`
+`       local final = (codepoint - 0xAC00) % 0x1C`
 `       if final == 0 then`
 `           return final_vowel`
 `       elseif final == 8 then`

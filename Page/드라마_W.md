@@ -788,7 +788,7 @@
 <a href="https://ko.wikipedia.org/wiki/야마다_마사히로" title="wikilink">야마다 마사히로</a><br />
 <a href="https://ko.wikipedia.org/wiki/미우라_하야토" title="wikilink">미우라 하야토</a><br />
 <a href="https://ko.wikipedia.org/wiki/아사노_아쓰야" title="wikilink">아사노 아쓰야</a></p></td>
-<td><p><a href="../Page/아리무라_카스미.md" title="wikilink">아리무라 카스미</a>,<a href="https://ko.wikipedia.org/wiki/이노우에_요시오" title="wikilink">이노우에 요시오</a></p></td>
+<td><p><a href="../Page/아리무라_카스미.md" title="wikilink">아리무라 카스미</a>,<a href="../Page/이노우에_요시오.md" title="wikilink">이노우에 요시오</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/아케노_카에루코" title="wikilink">아케노 카에루코</a></p></td>
 <td></td>
 </tr>
@@ -1763,6 +1763,28 @@
 <td><p>마에카와 요이치</p></td>
 <td><p><a href="../Page/오다_유지.md" title="wikilink">오다 유지</a>, <a href="../Page/마츠시마_나나코.md" title="wikilink">마츠시마 나나코</a>, <a href="../Page/카자마_슌스케.md" title="wikilink">카자마 슌스케</a>, 오자와 유키토시, 우카지 타카시, 키시타니 고로, 스루가 타로</p></td>
 <td><p>슈 료카, 노다 시게루</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>41</p></td>
+<td><p>《오퍼레이션 Z~일본 파멸, 일수불퇴~》</p></td>
+<td><p>3월 15일 - 4월 19일</p></td>
+<td><p>총 6회</p></td>
+<td><p>무라카미 쇼스케 츠즈키 쥰이치</p></td>
+<td><p>사쿠라이 다케하루</p></td>
+<td><p><a href="../Page/쿠사카리_마사오.md" title="wikilink">쿠사카리 마사오</a>, <a href="../Page/미조바타_준페이.md" title="wikilink">미조바타 준페이</a>, <a href="https://ko.wikipedia.org/wiki/다카하시_메아리쥰" title="wikilink">다카하시 메아리쥰</a></p></td>
+<td><p>마야마 진</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>42</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/태양은_움직이지_않는다_-THE_ECLIPSE-" title="wikilink">태양은 움직이지 않는다 -THE ECLIPSE-</a>》</p></td>
+<td><p>5월 24일 - 6월 28일</p></td>
+<td><p>총 6회</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/하스미_에이치로" title="wikilink">하스미 에이치로</a></p></td>
+<td><p>하야시 타미오</p></td>
+<td><p><a href="../Page/후지와라_타츠야.md" title="wikilink">후지와라 타츠야</a>, <a href="../Page/타케우치_료마.md" title="wikilink">타케우치 료마</a>, <a href="https://ko.wikipedia.org/wiki/사토_고이치" title="wikilink">사토 코이치</a>, <a href="../Page/이치하라_하야토.md" title="wikilink">이치하라 하야토</a></p></td>
+<td><p><a href="../Page/요시다_슈이치.md" title="wikilink">요시다 슈이치</a></p></td>
 <td></td>
 </tr>
 <tr class="even">

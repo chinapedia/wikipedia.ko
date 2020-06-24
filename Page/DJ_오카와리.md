@@ -22,4 +22,4 @@
   - 《A Cup Of Coffee》
   - 《Animal Forest, Bluebird Story》
 
-[분류:2008년 데뷔](https://ko.wikipedia.org/wiki/분류:2008년_데뷔 "wikilink") [분류:살아있는 사람](https://ko.wikipedia.org/wiki/분류:살아있는_사람 "wikilink") [분류:일본의 디스크자키](https://ko.wikipedia.org/wiki/분류:일본의_디스크자키 "wikilink") [분류:일본의 작곡가](https://ko.wikipedia.org/wiki/분류:일본의_작곡가 "wikilink") [분류:일본의 재즈 음악가](https://ko.wikipedia.org/wiki/분류:일본의_재즈_음악가 "wikilink") [분류:시즈오카현 출신](https://ko.wikipedia.org/wiki/분류:시즈오카현_출신 "wikilink") [분류:시부야계 음악가](https://ko.wikipedia.org/wiki/분류:시부야계_음악가 "wikilink")
+[분류:살아있는 사람](https://ko.wikipedia.org/wiki/분류:살아있는_사람 "wikilink") [분류:일본의 디스크자키](https://ko.wikipedia.org/wiki/분류:일본의_디스크자키 "wikilink") [분류:일본의 작곡가](https://ko.wikipedia.org/wiki/분류:일본의_작곡가 "wikilink") [분류:일본의 재즈 음악가](https://ko.wikipedia.org/wiki/분류:일본의_재즈_음악가 "wikilink") [분류:시즈오카현 출신](https://ko.wikipedia.org/wiki/분류:시즈오카현_출신 "wikilink") [분류:시부야계 음악가](https://ko.wikipedia.org/wiki/분류:시부야계_음악가 "wikilink")

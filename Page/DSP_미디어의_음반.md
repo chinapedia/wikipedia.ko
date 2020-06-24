@@ -111,7 +111,7 @@
   - 2009년 9월 11일 오종혁 - **상심;Heartbreak**
   - 2009년 10월 7일 [한승연](../Page/한승연.md "wikilink") - **\[Digital Single\] [두근두근 Tomorrow](../Page/두근두근_Tomorrow.md "wikilink")**\[4\]
   - 2009년 10월 20일 SS501 - **Rebirth**
-  - 2009년 11월 12일 [레인보우](https://ko.wikipedia.org/wiki/레인보우_\(음악_그룹\) "wikilink") - **\[Digital Single\] Gossip Girl**
+  - 2009년 11월 12일 [레인보우](../Page/레인보우_\(대한민국의_음악_그룹\).md "wikilink") - **\[Digital Single\] Gossip Girl**
 
 ## 2010년대
 
@@ -244,7 +244,7 @@
   - 2018년 7월 25일 카드 - **[RIDE ON THE WIND](../Page/RIDE_ON_THE_WIND.md "wikilink")**
   - 2018년 7월 29일 에이젝스 - **\[Japan Digital Single\] YOU**
   - 2018년 8월 4일 이진솔 - **그녀로 말할 것 같으면 OST Part. 3**
-  - 2018년 10월 16일 에이프릴 - **[the Ruby](../Page/The_Ruby.md "wikilink")**
+  - 2018년 10월 16일 에이프릴 - **[the Ruby](https://ko.wikipedia.org/wiki/the_Ruby "wikilink")**
   - 2018년 11월 20일 에이프릴 - **은주의 방 OST Part.1**
   - 2018년 12월 6일 윤채경 - **\[Digital Single\] Blooming Melody (블루밍 멜로디) 2**\[27\]
   - 2019년 1월 15일 에이프릴 - **복수가 돌아왔다 OST Part.9**

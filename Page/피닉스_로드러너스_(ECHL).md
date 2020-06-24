@@ -33,4 +33,4 @@
 </tbody>
 </table>
 
-[분류:2005년 설립](https://ko.wikipedia.org/wiki/분류:2005년_설립 "wikilink") [분류:2009년 폐지](https://ko.wikipedia.org/wiki/분류:2009년_폐지 "wikilink") [분류:ECHL 팀](https://ko.wikipedia.org/wiki/분류:ECHL_팀 "wikilink") [분류:2005년 설립된 스포츠 클럽](https://ko.wikipedia.org/wiki/분류:2005년_설립된_스포츠_클럽 "wikilink")
+[분류:2005년 설립](https://ko.wikipedia.org/wiki/분류:2005년_설립 "wikilink") [분류:2009년 폐지](https://ko.wikipedia.org/wiki/분류:2009년_폐지 "wikilink") [분류:ECHL 팀](https://ko.wikipedia.org/wiki/분류:ECHL_팀 "wikilink") [분류:2005년 설립된 스포츠 클럽](https://ko.wikipedia.org/wiki/분류:2005년_설립된_스포츠_클럽 "wikilink") [분류:애리조나주의 아이스하키팀](https://ko.wikipedia.org/wiki/분류:애리조나주의_아이스하키팀 "wikilink")

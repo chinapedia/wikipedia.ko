@@ -63,7 +63,7 @@
 <p><strong>2 - 1</strong></p>
 </div></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/요코하마_국제_종합_경기장" title="wikilink">요코하마 국제 종합 경기장</a>, <a href="https://ko.wikipedia.org/wiki/요코하마_시" title="wikilink">요코하마 시</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/요코하마_국제_종합_경기장" title="wikilink">요코하마 국제 종합 경기장</a>, <a href="../Page/요코하마시.md" title="wikilink">요코하마시</a></p></td>
 </tr>
 <tr class="odd">
 <td></td>

@@ -18,4 +18,4 @@
   - [TBC](../Page/TBC_\(대한민국의_방송사\).md "wikilink")
   - [TBC 드림FM](../Page/TBC_\(대한민국의_방송사\).md "wikilink")
 
-[분류:대구방송의 라디오 프로그램](https://ko.wikipedia.org/wiki/분류:대구방송의_라디오_프로그램 "wikilink") [분류:대한민국의 뉴스 라디오 프로그램](https://ko.wikipedia.org/wiki/분류:대한민국의_뉴스_라디오_프로그램 "wikilink")
+[분류:대구방송의 뉴스 라디오 프로그램](https://ko.wikipedia.org/wiki/분류:대구방송의_뉴스_라디오_프로그램 "wikilink") [분류:대한민국의 뉴스 라디오 프로그램](https://ko.wikipedia.org/wiki/분류:대한민국의_뉴스_라디오_프로그램 "wikilink")

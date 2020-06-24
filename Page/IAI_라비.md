@@ -22,6 +22,6 @@
   - [록웰-MBB X-31](https://ko.wikipedia.org/wiki/록웰-MBB_X-31 "wikilink")
   - [청두 J-10](../Page/청두_J-10.md "wikilink")
 
-[분류:이스라엘의 전투기](https://ko.wikipedia.org/wiki/분류:이스라엘의_전투기 "wikilink") [분류:미국-이스라엘 관계](https://ko.wikipedia.org/wiki/분류:미국-이스라엘_관계 "wikilink") [분류:1986년 첫 비행한 항공기](https://ko.wikipedia.org/wiki/분류:1986년_첫_비행한_항공기 "wikilink") [분류:단발 제트기](https://ko.wikipedia.org/wiki/분류:단발_제트기 "wikilink")
+[분류:이스라엘의 전투기](https://ko.wikipedia.org/wiki/분류:이스라엘의_전투기 "wikilink") [분류:미국-이스라엘 관계](https://ko.wikipedia.org/wiki/분류:미국-이스라엘_관계 "wikilink") [분류:1986년 첫 비행한 항공기](https://ko.wikipedia.org/wiki/분류:1986년_첫_비행한_항공기 "wikilink") [분류:단발 제트기](https://ko.wikipedia.org/wiki/분류:단발_제트기 "wikilink") [분류:삼각익기](https://ko.wikipedia.org/wiki/분류:삼각익기 "wikilink") [분류:선미익기](https://ko.wikipedia.org/wiki/분류:선미익기 "wikilink")
 
 1.  공군은 과욕, ADD는 무책임 기술이전 집착 말고 개발비 낮춰라, 동아일보, 2015-10-24

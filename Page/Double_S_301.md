@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Double S 301](https://ko.wikipedia.org/wiki/Double_S_301).
 
 
-**Double S 301**(더블 에스 301)은 [대한민국](../Page/대한민국.md "wikilink") 3인조 남성 가수 [그룹이며](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink") 그룹 [SS501](../Page/SS501.md "wikilink")의 유닛이다. 더블에스301의 시작은 SS501의 U R MAN 앨범과 꽃보다 남자의 OST 내 머리가 나빠서 이지만 더블에스301이라는 이름으로서의 정식 시작은 ETERNAL5 앨범의 PAIN이라는 곡이다.
+**Double S 301**(더블 에스 301)은 [대한민국](../Page/대한민국.md "wikilink") 3인조 남성 가수 [그룹이며](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink") 그룹 [SS501](../Page/SS501.md "wikilink")의 유닛이다. 더블에스301의 시작은 SS501의 U R MAN 앨범과 꽃보다 남자의 OST 내 머리가 나빠서이지만 더블에스301이라는 이름으로서의 정식 시작은 ETERNAL5 앨범의 PAIN이라는 곡이다.
 
 ## 활동 내용
 
@@ -69,7 +69,7 @@
 
 [6월 28일](../Page/6월_28일.md "wikilink") 멤버들 솔로 곡을 Double S 301 버전으로 편곡하여 수록 한 일본 세 번째 미니 앨범 Unison No.1를 발매 했다.
 
-## 구성원
+## 이전 구성원
 
 |  |
 |  |
@@ -736,7 +736,7 @@ ETERNAL 1</strong></p>
 
   - [Double S 301](http://vlive.tv/channels/F6411D) - V 라이브
 
-[Double_S_301](https://ko.wikipedia.org/wiki/분류:Double_S_301 "wikilink") [분류:2016년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2016년_결성된_음악_그룹 "wikilink") [분류:2016년 데뷔](https://ko.wikipedia.org/wiki/분류:2016년_데뷔 "wikilink") [분류:유닛 음악 그룹](https://ko.wikipedia.org/wiki/분류:유닛_음악_그룹 "wikilink") [분류:대한민국의 팝 음악 그룹](https://ko.wikipedia.org/wiki/분류:대한민국의_팝_음악_그룹 "wikilink") [분류:대한민국의 댄스 음악 그룹](https://ko.wikipedia.org/wiki/분류:대한민국의_댄스_음악_그룹 "wikilink") [분류:대한민국의 보이 밴드](https://ko.wikipedia.org/wiki/분류:대한민국의_보이_밴드 "wikilink") [분류:K-pop 음악 그룹](https://ko.wikipedia.org/wiki/분류:K-pop_음악_그룹 "wikilink") [분류:한국어 음악 그룹](https://ko.wikipedia.org/wiki/분류:한국어_음악_그룹 "wikilink") [분류:일본어 음악 그룹](https://ko.wikipedia.org/wiki/분류:일본어_음악_그룹 "wikilink") [분류:2010년대 음악 그룹](https://ko.wikipedia.org/wiki/분류:2010년대_음악_그룹 "wikilink") [분류:3인조 음악 그룹](https://ko.wikipedia.org/wiki/분류:3인조_음악_그룹 "wikilink") [분류:SS501](https://ko.wikipedia.org/wiki/분류:SS501 "wikilink") [분류:SBS MTV 더 쇼 초이스 수상자](https://ko.wikipedia.org/wiki/분류:SBS_MTV_더_쇼_초이스_수상자 "wikilink")
+[Double_S_301](https://ko.wikipedia.org/wiki/분류:Double_S_301 "wikilink") [분류:2016년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2016년_결성된_음악_그룹 "wikilink") [분류:2017년 해체된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2017년_해체된_음악_그룹 "wikilink") [분류:유닛 음악 그룹](https://ko.wikipedia.org/wiki/분류:유닛_음악_그룹 "wikilink") [분류:대한민국의 팝 음악 그룹](https://ko.wikipedia.org/wiki/분류:대한민국의_팝_음악_그룹 "wikilink") [분류:대한민국의 댄스 음악 그룹](https://ko.wikipedia.org/wiki/분류:대한민국의_댄스_음악_그룹 "wikilink") [분류:대한민국의 보이 밴드](https://ko.wikipedia.org/wiki/분류:대한민국의_보이_밴드 "wikilink") [분류:K-pop 음악 그룹](https://ko.wikipedia.org/wiki/분류:K-pop_음악_그룹 "wikilink") [분류:한국어 음악 그룹](https://ko.wikipedia.org/wiki/분류:한국어_음악_그룹 "wikilink") [분류:일본어 음악 그룹](https://ko.wikipedia.org/wiki/분류:일본어_음악_그룹 "wikilink") [분류:2010년대 음악 그룹](https://ko.wikipedia.org/wiki/분류:2010년대_음악_그룹 "wikilink") [분류:3인조 음악 그룹](https://ko.wikipedia.org/wiki/분류:3인조_음악_그룹 "wikilink") [분류:SS501](https://ko.wikipedia.org/wiki/분류:SS501 "wikilink") [분류:SBS MTV 더 쇼 초이스 수상자](https://ko.wikipedia.org/wiki/분류:SBS_MTV_더_쇼_초이스_수상자 "wikilink")
 
 1.
 2.

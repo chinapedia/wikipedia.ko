@@ -23,7 +23,7 @@
 </tr>
 <tr class="even">
 <td><p>2016년 5월 7일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/서울" title="wikilink">서울</a></p></td>
+<td><p><a href="../Page/서울특별시.md" title="wikilink">서울</a></p></td>
 <td></td>
 <td><p><a href="../Page/올림픽체조경기장.md" title="wikilink">올림픽 공원 체조경기장</a></p></td>
 </tr>
@@ -35,25 +35,25 @@
 </tr>
 <tr class="even">
 <td><p>2016년 6월 9일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/타이베이" title="wikilink">타이베이</a></p></td>
+<td><p><a href="../Page/타이베이시.md" title="wikilink">타이베이</a></p></td>
 <td></td>
 <td><p>신추앙 체육관</p></td>
 </tr>
 <tr class="odd">
 <td><p>2016년 6월 18일</p></td>
+<td><p><a href="../Page/마카오.md" title="wikilink">마카오</a></p></td>
 <td></td>
 <td><p>스튜디오 시티 이벤트 센터</p></td>
-<td></td>
 </tr>
 <tr class="even">
 <td><p>2016년 7월 2일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/남경" title="wikilink">남경</a></p></td>
-<td></td>
+<td><p><a href="../Page/난징시.md" title="wikilink">난징</a></p></td>
 <td><p>우타이산 스포츠 센터</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>2016년 7월 12일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/오사카" title="wikilink">오사카</a></p></td>
+<td><p><a href="../Page/오사카시.md" title="wikilink">오사카</a></p></td>
 <td></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/오사카_성_홀" title="wikilink">오사카 성 홀</a></p></td>
 </tr>
@@ -65,13 +65,13 @@
 </tr>
 <tr class="odd">
 <td><p>2016년 7월 16일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/나고야_시" title="wikilink">나고야 시</a></p></td>
+<td><p><a href="../Page/나고야시.md" title="wikilink">나고야</a></p></td>
 <td><p>나고야 종합 체육관</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2016년 7월 23일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/북경" title="wikilink">북경</a></p></td>
+<td><p><a href="../Page/베이징시.md" title="wikilink">베이징</a></p></td>
 <td></td>
 <td><p>수도 체육관</p></td>
 </tr>

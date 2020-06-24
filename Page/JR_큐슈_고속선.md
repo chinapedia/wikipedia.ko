@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [JR 큐슈 고속선](https://ko.wikipedia.org/wiki/JR_큐슈_고속선).
 
 
-**JR 큐슈 ​​고속선 주식회사**()는 [후쿠오카 시](https://ko.wikipedia.org/wiki/후쿠오카_시 "wikilink") [하카타 구에](https://ko.wikipedia.org/wiki/하카타_구 "wikilink") 본사를 둔 [일본](../Page/일본.md "wikilink")의 해운 회사이다.
+**JR 큐슈 ​​고속선 주식회사**()는 [후쿠오카시](../Page/후쿠오카시.md "wikilink") [하카타구](../Page/하카타구.md "wikilink")에 본사를 둔 [일본](../Page/일본.md "wikilink")의 해운 회사이다.
 
 ## 개요
 
@@ -24,8 +24,8 @@
 
 ## 외부 링크
 
-  - [JR 큐슈 고속선 비틀 웹사이트](http://www.jrbeetle.co.jp/)
+  - [JR 큐슈 고속선 비틀 웹사이트](https://web.archive.org/web/20160112044853/http://www.jrbeetle.co.jp/)
 
-  - [JR 큐슈 고속선 비틀 웹사이트](http://www.jrbeetle.co.kr/)
+  - [JR 큐슈 고속선 비틀 웹사이트](https://web.archive.org/web/20120326090141/http://www.jrbeetle.co.kr/)
 
 [분류:후쿠오카현의 기업](https://ko.wikipedia.org/wiki/분류:후쿠오카현의_기업 "wikilink") [분류:일본의 해운회사](https://ko.wikipedia.org/wiki/분류:일본의_해운회사 "wikilink") [분류:2005년 설립](https://ko.wikipedia.org/wiki/분류:2005년_설립 "wikilink")

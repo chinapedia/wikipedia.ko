@@ -89,7 +89,7 @@
 
 ## 국제 텔레비전 방송 채널
 
-[BBC 월드와이드는](https://ko.wikipedia.org/wiki/BBC_월드와이드 "wikilink") 전세계에 방영되는 텔레비전 방송국을 추가로 운영하고 있다. 영국 내에서 운영되는 국내용 방송국과는 다르다.
+[BBC 월드와이드는](../Page/BBC_월드와이드.md "wikilink") 전세계에 방영되는 텔레비전 방송국을 추가로 운영하고 있다. 영국 내에서 운영되는 국내용 방송국과는 다르다.
 
   - **[BBC 아메리카](https://ko.wikipedia.org/wiki/BBC_아메리카 "wikilink")** - 미국 대상 방송. [코미디](https://ko.wikipedia.org/wiki/코미디 "wikilink"), [드라마](https://ko.wikipedia.org/wiki/드라마 "wikilink"), [생활](https://ko.wikipedia.org/wiki/생활양식 "wikilink") 프로그램 종합방송.
   - **[BBC 캐나다](https://ko.wikipedia.org/wiki/BBC_캐나다 "wikilink")** - 캐나다 대상 방송. 코미디, 드라마, 생활 프로그램 종합방송.

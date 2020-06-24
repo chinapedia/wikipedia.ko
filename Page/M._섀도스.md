@@ -5,7 +5,7 @@
 
 ## 유년시절
 
-엠 섀도스는 어릴 적부터 노래를 부르기시작했다 그는 [락](https://ko.wikipedia.org/wiki/락 "wikilink"),[헤비 메탈에](../Page/헤비_메탈.md "wikilink") 관심이있었다 그후 나이가 든후에 기타를치기 시작했다 그는 헌팅턴 비치 고등학교에 다니며 펑크밴드인 "Successful Failure"짧은 기간동안 있었다. 이것을계기로 그는 1999년 중학교 친구인 [잭키 벤젠스](https://ko.wikipedia.org/wiki/잭키_벤젠스 "wikilink"),[더 레브](https://ko.wikipedia.org/wiki/더_레브 "wikilink"),멧 웬트와 함께 [어벤지드 세븐폴드](../Page/어벤지드_세븐폴드.md "wikilink") 를 결성하였다
+엠 섀도스는 어릴 적부터 노래를 부르기시작했다 그는 [락](https://ko.wikipedia.org/wiki/락 "wikilink"),[헤비 메탈에](../Page/헤비_메탈.md "wikilink") 관심이있었다 그후 나이가 든후에 기타를치기 시작했다 그는 헌팅턴 비치 고등학교에 다니며 펑크밴드인 "Successful Failure"짧은 기간동안 있었다. 이것을계기로 그는 1999년 중학교 친구인 [잭키 벤젠스](https://ko.wikipedia.org/wiki/잭키_벤젠스 "wikilink"),[더 레브](../Page/더_레브.md "wikilink"),멧 웬트와 함께 [어벤지드 세븐폴드](../Page/어벤지드_세븐폴드.md "wikilink") 를 결성하였다
 
 ## 예명
 

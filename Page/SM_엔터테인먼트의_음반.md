@@ -370,9 +370,6 @@
   - 2010년 12월 22일 보아 - **[I SEE ME](https://ko.wikipedia.org/wiki/I_SEE_ME "wikilink")**
   - 2010년 12월 30일 소녀시대 - **Into The New World (The 1st Asia Tour Concert)**
   - 2010년 12월 30일 [루나](../Page/루나_\(가수\).md "wikilink"),예성 - **프레지던트 OST Part.2**
-
-<!-- end list -->
-
   - 2011년 1월 3일 동방신기 - **왜 (Keep Your Head Down)**
   - 2011년 1월 8일 강타 - **Arrow (아테나-전쟁의 여신 OST)**
   - 2011년 1월 16일 [이특](../Page/이특.md "wikilink"),[신동](../Page/신동_\(가수\).md "wikilink") - **해주세요 (일밤 오늘을 즐겨라 트로트 프로젝트)**
@@ -426,9 +423,6 @@
   - 2011년 12월 21일 소녀시대 - **The Boys Maxi Single**
   - 2011년 12월 22일 보아 - **Milestone**
   - 2011년 12월 28일 소녀시대 - **Re:packge Album The Boys**
-
-<!-- end list -->
-
   - 2012년 1월 3일 이특, [Key](https://ko.wikipedia.org/wiki/Key_\(가수\) "wikilink") - **샐러리맨 초한지 OST Part.2**
   - 2012년 1월 9일 [고아라](../Page/고아라.md "wikilink") - **파파 OST**
   - 2012년 1월 18일 슈퍼주니어-K.R.Y. - **윤일상 작곡가 21주년 기념 앨범 I\`m 21 Part.2**\[21\]
@@ -488,9 +482,6 @@
   - 2012년 12월 12일 샤이니 - **[1000年, ずっとそばにいて...](https://ko.wikipedia.org/wiki/1000年,_ずっとそばにいて... "wikilink")**
   - 2012년 12월 18일 [최강창민](../Page/최강창민.md "wikilink") - **전우치 OST Part.2**
   - 2012년 12월 30일 S.M. The Performance - **S.M. The Performance\`Spectrum\`**
-
-<!-- end list -->
-
   - 2013년 1월 1일 소녀시대 - **[I Got A Boy](https://ko.wikipedia.org/wiki/I_Got_A_Boy "wikilink")**
   - 2013년 1월 7일 슈퍼주니어-M - **BREAK DOWN**
   - 2013년 1월 28일 보아 - **그런 너**
@@ -545,9 +536,6 @@
   - 2013년 12월 18일 동해 & 은혁 - **동해&은혁\`아직도 난(Still You)\`**
   - 2013년 12월 20일 고아라 - **응답하라 1994 OST Part.8**
   - 2013년 12월 27일 슈퍼주니어 - **Blue World**
-
-<!-- end list -->
-
   - 2014년 1월 3일 [온유](../Page/온유.md "wikilink") - **미스코리아 OST \`Moonlight\`**
   - 2014년 1월 6일 동방신기 - **TVXQ\!The 7th Album \`[TENSE](../Page/TENSE.md "wikilink")\`**\[26\]
   - 2014년 1월 7일 [태민](../Page/태민.md "wikilink") - **총리와 나 OST\`발걸음\`**
@@ -611,9 +599,6 @@
   - 2014년 12월 17일 슈퍼주니어 - **Mamacita**
   - 2014년 12월 19일 EXO - **December 2014 (The Winter's Tale)**
   - 2014년 12월 22일 EXO - **EXOLOGY Chapter 1:The Lost Planet**
-
-<!-- end list -->
-
   - 2015년 1월 7일 동방신기 - **[WITH](https://ko.wikipedia.org/wiki/WITH "wikilink")**
   - 2015년 1월 9일 [강인](../Page/강인_\(가수\).md "wikilink") - **고양이 장례식 OST**
   - 2015년 1월 12일 종현 - **The 1st Mini Album [BASE](../Page/BASE_\(EP\).md "wikilink")**
@@ -688,9 +673,6 @@
   - 2015년 12월 18일 레드벨벳 - **\[Digital Single\] 세가지 소원 (Wish Tree) - WINTER GARDEN**
   - 2015년 12월 18일 EXO - **\[Japan Digital Single\] LIGHTSABER**
   - 2015년 12월 22일 보아 - **\[Digital Single\] Christmas Paradise - WINTER GARDEN**
-
-<!-- end list -->
-
   - 2016년 1월 1일 샤이니 - **DxDxD**
   - 2016년 1월 7일 백현 - **\[Digital Single\] Dream**\[41\]
   - 2016년 1월 13일 [아이린](../Page/아이린_\(1991년\).md "wikilink"), [슬기](../Page/슬기.md "wikilink"), [웬디](../Page/웬디_\(가수\).md "wikilink"), [예리](../Page/예리_\(가수\).md "wikilink") - **\[Digital Single\] 투유 프로젝트 - 슈가맨 Part.13**\[42\]
@@ -792,9 +774,6 @@
   - 2016년 12월 19일 EXO - **For Life**
   - 2016년 12월 23일 웬디 - **\[Digital Single\] Have Yourself A Merry Little Christmas**\[71\]
   - 2016년 12월 30일 SM TOWN - **\[Digital Single\] 너의 목소리 (Sound Of Your Heart)**\[72\]
-
-<!-- end list -->
-
   - 2017년 1월 2일 S.E.S - **[REMEMBER](https://ko.wikipedia.org/wiki/REMEMBER_\(S.E.S.의_음반\) "wikilink")**\[73\]
   - 2017년 1월 3일 웬디,슬기 - **화랑 OST Part.4**
   - 2017년 1월 4일 EXO - **\[Japan Digital Single\] Coming Over**
@@ -901,9 +880,6 @@
   - 2017년 12월 26일 EXO - **Universe**
   - 2017년 12월 27일 동해 - **\[Digital Single\] Perfect (Cadillac X DONGHAE)**
   - 2017년 12월 29일 SMTOWN - **\[Digital Single\] Dear My Family**
-
-<!-- end list -->
-
   - 2018년 1월 5일 엠버, 루나 - **\[Digital Single\] Lower**
   - 2018년 1월 12일 NCT U - **\[Digital Single\] 텐데... (Timeless)**
   - 2018년 1월 16일 보아 - **\[Digital Single\] Man In The Mirror (LIVE)**\[106\]
@@ -930,7 +906,7 @@
   - 2018년 3월 27일 조이 - **위대한 유혹자 OST Part.2**
   - 2018년 3월 28일 동방신기 - **New Chapter \#1 : The Chance of Love**
   - 2018년 3월 30일 유리 - **\[Digital Single\] Always Find You (Remixes)**\[117\]
-  - 2018년 3월 30일 [긴조](https://ko.wikipedia.org/wiki/긴조_\(가수\) "wikilink") - **\[\[Digital Single\] You (Feat. ANGEL)**
+  - 2018년 3월 30일 [긴조](https://ko.wikipedia.org/wiki/긴조_\(가수\) "wikilink") - **[Digital Single](https://ko.wikipedia.org/wiki/Digital_Single "wikilink") You (Feat. ANGEL)**
   - 2018년 4월 2일 예성 - **키스 먼저 할까요 OST Part.5**
   - 2018년 4월 6일 텐 - **\[Digital Single\] New Heroes**
   - 2018년 4월 10일 EXO-CBX - **Blooming Days**
@@ -1053,7 +1029,7 @@
   - 2019년 6월 18일 예성 - **Pink Magic**
   - 2019년 6월 19일 레드벨벳 - **The ReVe Festival Day 1**
   - 2019년 6월 21일 이동우,송광식 - **\[Digital Single\] 완전한 사랑**
-  - 2019년 6월 29일 [설리](../Page/설리_\(배우\).md "wikilink") - **\[Digital Single\] 고블린**
+  - 2019년 6월 29일 [설리](../Page/설리_\(1994년\).md "wikilink") - **\[Digital Single\] 고블린**
   - 2019년 7월 1일 디오 - **\[Digital Single\] 괜찮아도 괜찮아**\[146\]
   - 2019년 7월 2일 솔희 - **\[Digital Single\] 안읽씹**
   - 2019년 7월 10일 백현 - **City Lights**
@@ -1082,8 +1058,10 @@
   - 2019년 10월 24일 NCT 127 - **NEO CITY : SEOUL – The Origin**
   - 2019년 10월 28일 태연 - **Purpose**
   - 2019년 10월 29일 예성 - **조선혼담공작소 - 꽃파당 OST Part. 7**
+  - 2019년 10월 29일 WayV - **Take Over The Moon**
   - 2019년 11월 2일 규현 - **노래에 반하다 OST**\[152\]
   - 2019년 11월 5일 추가열 - **권기동 & 추가열 1집**
+  - 2019년 11월 5일 WayV - **Love Talk**\[153\]
   - 2019년 11월 6일 슈퍼주니어 - **TIME LINE**
   - 2019년 11월 7일 태연 - **\[Digital Single\] Into the Unknown (From "Frozen 2")**
   - 2019년 11월 15일 슈퍼주니어 - **아날로그 트립 (Analog Trip) OST**
@@ -1091,10 +1069,10 @@
   - 2019년 11월 20일 SMTOWN - **\[Digital Single\] STATION X 4 LOVEs for Winter Part.1**
   - 2019년 11월 22일 성민 - **Orgel**
   - 2019년 11월 27일 EXO - **OBSESSION**
-  - 2019년 11월 30일 예리 - **\[Digital Single\] 너의 온기가 되어줄게**\[153\]
+  - 2019년 11월 30일 예리 - **\[Digital Single\] 너의 온기가 되어줄게**\[154\]
   - 2019년 12월 11일 보아 - **Starry Night**
   - 2019년 12월 13일 NCT U - **\[Digital Single\] STATION X 4 LOVEs for Winter Part.2**
-  - 2019년 12월 16일 희철 - **\[Digital Single\] STATION X 4 LOVEs for Winter Part.3**\[154\]
+  - 2019년 12월 16일 희철 - **\[Digital Single\] STATION X 4 LOVEs for Winter Part.3**\[155\]
   - 2019년 12월 19일 첸 - **심포유 - 첸 편 OST**
   - 2019년 12월 23일 레드벨벳 - **The ReVe Festival Finale**
 
@@ -1102,10 +1080,10 @@
 
   - 2020년 1월 7일 백현 - **낭만닥터 김사부 2 OST Part.1**
   - 2020년 1월 15일 태연 - **Purpose**
-  - 2020년 1월 20일 찬열 - **낭만닥터 김사부 2 OST Part.3**\[155\]
+  - 2020년 1월 20일 찬열 - **낭만닥터 김사부 2 OST Part.3**\[156\]
   - 2020년 1월 22일 동방신기 - **\[Japan Digital Single\] まなざし**
   - 2020년 1월 22일 NCT DREAM - **\[Japan\] THE DREAM**
-  - 2020년 1월 23일 첸 - **\[Digital Single\] 혼자**\[156\]
+  - 2020년 1월 23일 첸 - **\[Digital Single\] 혼자**\[157\]
   - 2020년 1월 28일 슈퍼주니어 - **TIMELESS**
   - 2020년 2월 1일 수호 - **하와유브레드 OST Part.1**
   - 2019년 2월 19일 IMLAY - **Dystopia**
@@ -1120,10 +1098,18 @@
   - 2020년 4월 6일 최강창민 - **Chocolate**
   - 2020년 4월 21일 EXO - **EXO PLANET \#5 –EXplOration– Live Album**
   - 2020년 4월 29일 NCT DREAM - **Reload**
-  - 2020년 5월 1일 예성 - **\[Digital Single\] 봄은 너니까**\[157\]
+  - 2020년 5월 1일 예성 - **\[Digital Single\] 봄은 너니까**\[158\]
   - 2020년 5월 4일 태연 - **\[Digital Single\] Happy**
+  - 2020년 5월 12일 찬열,레이든 - **\[Digital Single\] Yours**
+  - 2020년 5월 15일 Hitchhiker - **\[Digital Single\] Sugar**\[159\]
+  - 2020년 5월 16일 웬디 - **더 킹 : 영원의 군주 OST Part.10**\[160\]
   - 2020년 5월 19일 NCT 127 - **NCT \#127 Neo Zone: The Final Round**
-  - 2020년 5월 ?일 백현 - **미정**
+  - 2020년 5월 25일 백현 - **Delight**
+  - 2020년 5월 31일 긴조 - **\[Digital Single\] The Riot**
+  - 2020년 6월 1일 레이 - **蓮 (LIT) Part.1**
+  - 2020년 6월 8일 슈퍼주니어-K.R.Y. - **푸르게 빛나던 우리의 계절**
+  - 2020년 6월 9일 WayV - **Awaken The World**
+  - 2020년 7월 ?일 [아이린&슬기](https://ko.wikipedia.org/wiki/아이린&슬기 "wikilink") - **Monster**
 
 ## 각주
 
@@ -1208,7 +1194,7 @@
 77. [다이나믹 듀오도](../Page/다이나믹_듀오.md "wikilink") 앨범 참여.
 78. [손영주](https://ko.wikipedia.org/wiki/손영주 "wikilink")도 앨범 참여.
 79. [레미도](https://ko.wikipedia.org/wiki/레미_\(가수\) "wikilink") 앨범 참여.
-80. [씨스타](../Page/씨스타.md "wikilink")의 멤버 [소유도](../Page/소유_\(가수\).md "wikilink") 앨범 참여.
+80.
 81. [글랜체크](https://ko.wikipedia.org/wiki/글랜체크 "wikilink")의 멤버 [김준원도](https://ko.wikipedia.org/wiki/김준원_\(가수\) "wikilink") 앨범 참여.
 82. [황치열](../Page/황치열.md "wikilink")도 앨범 참여.
 83. [정기고](../Page/정기고.md "wikilink")도 앨범 참여.
@@ -1239,7 +1225,7 @@
 108. [레이든](https://ko.wikipedia.org/wiki/레이든 "wikilink")도 앨범 참여.
 109. [아스트로도](../Page/아스트로_\(음악_그룹\).md "wikilink") 앨범 참여.
 110. [혜다](https://ko.wikipedia.org/wiki/혜다 "wikilink")도 앨범 참여.
-111. [버즈의](https://ko.wikipedia.org/wiki/버즈_\(대한민국의_밴드\) "wikilink") 멤버 [민경훈](../Page/민경훈.md "wikilink")도 앨범 참여.
+111.
 112. [권진원](../Page/권진원.md "wikilink")도 앨범 참여.
 113. [Lip2shot](https://ko.wikipedia.org/wiki/Lip2shot "wikilink")도 앨범 참여.
 114. [어반 자카파도](https://ko.wikipedia.org/wiki/어반_자카파 "wikilink") 앨범 참여.
@@ -1248,15 +1234,15 @@
 117. [Raiden](https://ko.wikipedia.org/wiki/Raiden "wikilink")도 앨범 참여.
 118. [이상순](../Page/이상순.md "wikilink")도 앨범 참여.
 119. 샤이니의 데뷔 10주년 앨범.
-120. 샤이니의 데뷔 10주년 앨범.
-121. 샤이니의 데뷔 10주년 앨범.
+120.
+121.
 122. [양다일](https://ko.wikipedia.org/wiki/양다일 "wikilink")도 앨범 참여.
 123. [멜로망스](../Page/멜로망스.md "wikilink")도 앨범 참여. 'STATION X 0'(스테이션 영)의 첫 번째 주인공.
 124. [로꼬](../Page/로꼬.md "wikilink")도 앨범 참여. 'STATION X O'(스테이션 영)의 두 번째 주인공.
 125. 'STATION X O'(스테이션 영)의 세 번째 주인공.
 126. 10월 컴백 전 선공개곡
 127. [I.O.I](https://ko.wikipedia.org/wiki/I.O.I "wikilink")의 멤버 [청하](../Page/청하_\(가수\).md "wikilink"),[(여자)아이들](../Page/\(여자\)아이들.md "wikilink")의 멤버 [전소연](https://ko.wikipedia.org/wiki/전소연 "wikilink"),[여자친구의](../Page/여자친구_\(음악_그룹\).md "wikilink") 멤버 [신비도](../Page/신비_\(1998년\).md "wikilink") 앨범 참여. 'STATION X O'(스테이션 영)의 네 번째 주인공.
-128. 10월 컴백 전 선공개곡
+128.
 129. [Jonah Nilsson도](https://ko.wikipedia.org/wiki/Jonah_Nilsson "wikilink") 앨범 참여. 'STATION X 3'의 첫 번째 주인공.
 130. 'STATION X 3'의 두 번째 주인공.
 131. [I.O.I](https://ko.wikipedia.org/wiki/I.O.I "wikilink")의 멤버 [청하](https://ko.wikipedia.org/wiki/청하 "wikilink")도 앨범 참여.
@@ -1265,7 +1251,7 @@
 134. 'STATION X 3'의 여섯 번째 주인공. [팬텀의](../Page/팬텀_\(음악_그룹\).md "wikilink") 멤버 [한해](../Page/한해.md "wikilink")도 참여.
 135. [3Lau](https://ko.wikipedia.org/wiki/3Lau "wikilink")도 앨범 참여.
 136. 'STATION X 3'의 일곱 번째 주인공.
-137. [로코베리](https://ko.wikipedia.org/wiki/로코베리 "wikilink")도 앨범 참여.
+137.
 138. 'STATION X 3'의 여덟 번째 주인공.
 139. 'STATION X 3'의 아홉 번째 주인공.
 140. Ellie Goulding, Diplo.
@@ -1281,8 +1267,11 @@
 150. [레드벨벳의](../Page/레드벨벳_\(음악_그룹\).md "wikilink") [아이린도](../Page/아이린_\(1991년\).md "wikilink") 참여.
 151. [펀치도](../Page/펀치_\(가수\).md "wikilink") 앨범 참여.
 152. [거미도](../Page/거미_\(가수\).md "wikilink") 앨범 참여.
-153. [베이빌론도](../Page/베이빌론_\(가수\).md "wikilink") 앨범 참여.
-154. [이수근도](../Page/이수근_\(희극인\).md "wikilink") 앨범 참여.
-155. [펀치도](../Page/펀치_\(가수\).md "wikilink") 앨범 참여.
-156. [다이나믹 듀오도](../Page/다이나믹_듀오.md "wikilink") 앨범 참여.
-157. [수란](https://ko.wikipedia.org/wiki/수란 "wikilink")도 앨범 참여.
+153. 미니 2집 수록곡.
+154. [베이빌론도](../Page/베이빌론_\(가수\).md "wikilink") 앨범 참여.
+155. [이수근도](../Page/이수근_\(희극인\).md "wikilink") 앨범 참여.
+156.
+157.
+158. [수란](https://ko.wikipedia.org/wiki/수란 "wikilink")도 앨범 참여.
+159. [Sokodomo](https://ko.wikipedia.org/wiki/Sokodomo "wikilink")도 앨범 참여.
+160. [블락비](../Page/블락비.md "wikilink")의 멤버 [지코](../Page/지코.md "wikilink")도 앨범 참여.

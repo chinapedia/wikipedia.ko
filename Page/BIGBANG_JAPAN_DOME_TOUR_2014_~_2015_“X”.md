@@ -44,7 +44,7 @@
 <tbody>
 <tr class="odd">
 <td><p>2014년 11월 15일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/나고야_시" title="wikilink">나고야 시</a></p></td>
+<td><p><a href="../Page/나고야시.md" title="wikilink">나고야시</a></p></td>
 <td><p><a href="../Page/나고야_돔.md" title="wikilink">나고야 돔</a></p></td>
 <td></td>
 <td><p><a href="../Page/IKON.md" title="wikilink">IKON</a>[4]</p></td>

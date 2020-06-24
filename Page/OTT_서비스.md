@@ -37,14 +37,14 @@ OTT 서비스의 등장은 공급과 수요의 측면에서 분석할 수 있다
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="../Page/티빙.md" title="wikilink">티빙</a>, <a href="https://ko.wikipedia.org/wiki/WAVVE" title="wikilink">WAVVE</a>, <a href="https://ko.wikipedia.org/wiki/시즌_(플랫폼)" title="wikilink">Seezn</a>, 현대HCN 모바일TV, <a href="../Page/넷플릭스.md" title="wikilink">넷플릭스</a></p></td>
+<td><p><a href="../Page/티빙.md" title="wikilink">티빙</a>, <a href="../Page/WAVVE.md" title="wikilink">WAVVE</a>, <a href="https://ko.wikipedia.org/wiki/시즌_(플랫폼)" title="wikilink">Seezn</a>, 현대HCN 모바일TV, <a href="../Page/넷플릭스.md" title="wikilink">넷플릭스</a></p></td>
 </tr>
 </tbody>
 </table>
 
 ### 국내 현황
 
-대한민국의 OTT 서비스는 네이버 시리즈온, [왓챠플레이](https://ko.wikipedia.org/wiki/왓챠플레이 "wikilink"), [POOQ와](../Page/푹.md "wikilink") [OKSUSU](https://ko.wikipedia.org/wiki/OKSUSU "wikilink")\[5\]가 통합한 [WAVVE](https://ko.wikipedia.org/wiki/WAVVE "wikilink"), [티빙](../Page/티빙.md "wikilink"), [Seezn(시즌](https://ko.wikipedia.org/wiki/시즌_\(플랫폼\) "wikilink")), [IPTV](../Page/IPTV.md "wikilink")([Btv](https://ko.wikipedia.org/wiki/Btv "wikilink"), [올레TV](https://ko.wikipedia.org/wiki/올레TV "wikilink"), [U+ TV](../Page/U+_TV.md "wikilink")), [종합유선방송](https://ko.wikipedia.org/wiki/종합유선방송사업자 "wikilink") 업체 등이 있다.
+대한민국의 OTT 서비스는 네이버 시리즈온, [왓챠플레이](https://ko.wikipedia.org/wiki/왓챠플레이 "wikilink"), [POOQ와](../Page/푹.md "wikilink") [OKSUSU](https://ko.wikipedia.org/wiki/OKSUSU "wikilink")\[5\]가 통합한 [WAVVE](../Page/WAVVE.md "wikilink"), [티빙](../Page/티빙.md "wikilink"), [Seezn(시즌](https://ko.wikipedia.org/wiki/시즌_\(플랫폼\) "wikilink")), [IPTV](../Page/IPTV.md "wikilink")([Btv](https://ko.wikipedia.org/wiki/Btv "wikilink"), [올레TV](https://ko.wikipedia.org/wiki/올레TV "wikilink"), [U+ TV](../Page/U+_TV.md "wikilink")), [종합유선방송](https://ko.wikipedia.org/wiki/종합유선방송사업자 "wikilink") 업체 등이 있다.
 
 ## 서비스의 확장
 

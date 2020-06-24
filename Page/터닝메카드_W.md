@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [터닝메카드 W](https://ko.wikipedia.org/wiki/터닝메카드_W).
 
 
-《**터닝메카드 W**》는 장난감 [터닝메카드](../Page/터닝메카드.md "wikilink")를 소재로 하여, 초이락컨텐츠팩토리와 희원엔터테인먼트에서 제작하고 [KBS 2TV에서](../Page/KBS_2TV.md "wikilink") 방송하는 [메카](https://ko.wikipedia.org/wiki/메카_\(장르\) "wikilink") [어드벤처](https://ko.wikipedia.org/wiki/모험 "wikilink") [애니메이션](../Page/애니메이션.md "wikilink")으로 첫 시리즈인 《[터닝메카드](https://ko.wikipedia.org/wiki/터닝메카드_\(TV_프로그램\) "wikilink")》의 속편. W는 Wing의 약칭이다.
+《**터닝메카드 W**》는 장난감 [터닝메카드](../Page/터닝메카드.md "wikilink")를 소재로 하여, [초이락컨텐츠팩토리](../Page/초이락컨텐츠팩토리.md "wikilink")와 희원엔터테인먼트에서 제작하고 [KBS 2TV에서](../Page/KBS_2TV.md "wikilink") 방송하는 [메카](https://ko.wikipedia.org/wiki/메카_\(장르\) "wikilink") [어드벤처](https://ko.wikipedia.org/wiki/모험 "wikilink") [애니메이션](../Page/애니메이션.md "wikilink")으로 첫 시리즈인 《[터닝메카드](https://ko.wikipedia.org/wiki/터닝메카드_\(TV_프로그램\) "wikilink")》의 속편. W는 Wing의 약칭이다.
 
 ## 방송 시간
 
@@ -34,11 +34,11 @@
 
   - 시즌 1
 
-30년 후 세계는 환경오염, 식량난 등으로 황폐화되었다. 30년 전 과거로 간 데미안과 류는 나찬과 만나서 배틀하게 된다. 3개월 전 트라이포스에서 블랙미러를 물리친 적이 있는 나찬은 다시 한번 더 메카니멀 배틀을 통해 30년 후 미래 세계를 바꿀 수 있을 것인가?
+30년 후 [세계](../Page/세계.md "wikilink")는 환경오염, 식량난 등으로 황폐화되었다. 30년 전 [과거](https://ko.wikipedia.org/wiki/과거 "wikilink")로 간 데미안과 류는 나찬과 만나서 배틀하게 된다. 3개월 전 트라이포스에서 블랙미러를 물리친 적이 있는 나찬은 다시 한번 더 메카니멀 배틀을 통해 30년 후 [미래](https://ko.wikipedia.org/wiki/미래 "wikilink") [세계](../Page/세계.md "wikilink")를 바꿀 수 있을 것인가?
 
   - 시즌 2
 
-나찬이 사는 세계에 정체불명의 메카니멀과 세 사람이 나타난다. 그 세 사람은 세계를 정복하기 위해 메카니멀을 모으고 다닌다. 그 배후에는 닥터 X가 있다는데...
+나찬이 사는 [세계](../Page/세계.md "wikilink")에 정체불명의 메카니멀과 세 사람이 나타난다. 그 세 사람은 세계를 정복하기 위해 메카니멀을 모으고 다닌다. 그 배후에는 닥터X가 있다는데...
 
 ## 세력
 
@@ -54,19 +54,19 @@
 
 ### 주역
 
-  - 나찬 - 블랙미러를 무찌른 후 지구로 돌아와 가족들과 평화롭게 살고 있다. 주역 메카니멀은 **카이온**.
+  - 나찬 - 블랙미러를 무찌른 후 [지구](../Page/지구.md "wikilink")로 돌아와 가족들과 평화롭게 살고 있다. 주요 메카니멀은 **카이온**.
       -
         (나찬) : "함께 싸우자\! ○○○\! 메카니멀 고\!"
-  - 반다인/김지훈 - 블랙미러의 세뇌에서 벗어나 지구에서 평범한 삶을 살고 있다. 주역 메카니멀은 **가고토스**.
+  - 반다인/김지훈 - 블랙미러의 세뇌에서 벗어나 지구에서 평범한 삶을 살고 있다. 주요 메카니멀은 **가고토스**.
       -
         (반다인/김지훈) : "모두를 위해 싸워라\! ○○○\! 메카니멀 고\!"
-  - 이소벨 - 트라이포스를 떠나 지구에서 학교를 다니고 있다. 주역 메카니멀은 **데스퍼**.
+  - 이소벨 - 트라이포스를 떠나 지구에서 학교를 다니고 있다. 주요 메카니멀은 **데스퍼**.
       -
         (이소벨) : "너의 힘을 보여줘\! ○○○\! 메카니멀 고\!"
   - 리안 - 레드홀의 왕자. 트라이포스의 메카니멀 연구소에서 프랭클린 박사와 연구를 하고 있다.
       -
         (리안) : "날뛰고 와라\! ○○○\! 메카니멀 고\!"
-  - 도깨비단(다비 & 다나) - 지구와 트라이포스를 자유롭게 오가며 연락책 역할을 담당한다. 주역 메카니멀은 **게리온, 다이크**.
+  - 도깨비단(다비 & 다나) - 지구와 트라이포스를 자유롭게 오가며 연락책 역할을 담당한다. 주요 메카니멀은 **게리온, 다이크**.
       -
         (다비) : "해치워라\! ○○○\! 메카니멀 고\!"
         (다나) : "해치워버려\! ○○○\! 메카니멀 고\!"
@@ -79,16 +79,16 @@
   - 카밀라 - 데미안을 좋아하는 미래 테이머. 그러나 데미안에게 푸대접만 받는다.
       -
         (카밀라) : "잘 다녀와\! ○○○\! 메카니멀 고\!"
-  - 나로 - 닥터 X를 따르는 3인 중 한명. 빛나는 미소가 돋보이는 미소년으로, 세계정복을 목표로 메카니멀을 모은다. 주역 메카니멀은 **제트**.
+  - 나로 - 닥터 X를 따르는 3인 중 한명. 빛나는 미소가 돋보이는 미소년으로, 세계정복을 목표로 메카니멀을 모은다. 주요 메카니멀은 **제트**.
       -
         (나로) : "빛나는 미소를 위해, 가라\! ○○○\! 메카니멀 고\!"
-  - 로키 - 닥터 X를 따르는 3인 중 한명. 매사에 열정이 넘치는 열혈남으로, 반다인을 라이벌로 생각한다. 주역 메카니멀은 **고브**.
+  - 로키 - 닥터 X를 따르는 3인 중 한명. 매사에 열정이 넘치는 열혈남으로, 반다인을 라이벌로 생각한다. 주요 메카니멀은 **고브**.
       -
         (로키) : "사나이가 가는 길을 보여주마\! ○○○\! 메카니멀 고\!"
-  - 데이지 - 닥터 X를 따르는 3인 중 한명. 직감을 가진 사차원 소녀로 위기 상황에서도 큰 동요 없이 침착한 편. 주역 메카니멀은 **트렘**.
+  - 데이지 - 닥터 X를 따르는 3인 중 한명. 직감을 가진 사차원 소녀로 위기 상황에서도 큰 동요 없이 침착한 편. 주요 메카니멀은 **트렘**.
       -
         (데이지) : "지금이 바로 싸울 때야\! ○○○\! 메카니멀 고\!"
-  - 서준 - 강해지고 싶어서 메카니멀에 관심을 갖게 된 나찬과 같은 학교 학생이다. 주역 메카니멀은 **우르스**.
+  - 서준 - 강해지고 싶어서 메카니멀에 관심을 갖게 된 나찬과 같은 학교 학생이다. 주요 메카니멀은 **우르스**.
       -
         (서준) : "더 나은 미래를 향해\! ○○○\! 메카니멀 고\!"
 
@@ -125,97 +125,96 @@
 
 ## 등장 메카니멀
 
-  - <span style="font-weight:bold; color:#0000ff">에반</span>
-  - <span style="font-weight:bold; color:#800080">타나토스</span>
-  - <span style="font-weight:bold; color:#008000">슈마</span>
-  - <span style="font-weight:bold; color:#800080">알타</span>
-  - <span style="text-shadow: 0 0 3px #ffd700;color:#000000">피닉스</span>
-  - <span style="font-weight:bold; color:#dcdcdc">테로</span>
-  - <span style="font-weight:bold; color:#ff1493">미리내</span>
-  - <span style="font-weight:bold; color:#ff0000">코카트</span>
-  - <span style="font-weight:bold; color:#008000">베노사</span>
-  - <span style="font-weight:bold; color:#000000">게리온</span>
-  - <span style="font-weight:bold; color:#ff0000">무간</span>
-  - <span style="font-weight:bold; color:#dcdcdc">캉시</span>
-  - <span style="font-weight:bold; color:#008000">나백작</span>
-  - <span style="font-weight:bold; color:#ff00ff">독꼬리</span>
-  - <span style="font-weight:bold; color:#0000ff">타이탄</span>
-  - <span style="font-weight:bold; color:#800080">크로키</span>
-  - <span style="font-weight:bold; color:#000000">킹죠스</span>
-  - <span style="font-weight:bold; color:#a52a2a">파이온</span>
-  - <span style="font-weight:bold; color:#0000ff">크랑</span>
-  - <span style="font-weight:bold; color:#ff8c00">윙톡</span>
-  - <span style="font-weight:bold; color:#ff0000">만타리</span>
-  - <span style="font-weight:bold; color:#dcdcdc">옥타</span>
-  - <span style="font-weight:bold; color:#ff8c00">안드로매지션</span>
-  - <span style="font-weight:bold; color:#808080">바벨</span>
-  - <span style="font-weight:bold; color:#008000">센뿔</span>
-  - <span style="font-weight:bold; color:#0000ff">모스톤</span>
-  - <span style="font-weight:bold; color:#0000ff">프린스콩</span>
-  - <span style="font-weight:bold; color:#ff0000">우르스</span>
-  - <span style="font-weight:bold; color:#0000ff">타돌</span>
-  - <span style="font-weight:bold; color:#ff0000">메가</span>
-  - <span style="font-weight:bold; color:#0000ff">메가테릭스</span>
-  - <span style="font-weight:bold; color:#000000">메가스파이더</span>
-  - <span style="font-weight:bold; color:#ff0000">메가드래곤</span>
-  - <span style="text-shadow: 0 0 3px #800080;color:#dcdcdc">그리폰</span>
-  - <span style="text-shadow: 0 0 3px #800080;color:#ff0000">스핑크스</span>
-  - <span style="text-shadow: 0 0 3px #800080;color:#dcdcdc">그리</span><span style="text-shadow: 0 0 3px #800080;color:#ff0000">핑크스</span> (<span style="text-shadow: 0 0 3px #800080;color:#dcdcdc">그리폰</span> + <span style="text-shadow: 0 0 3px #800080;color:#ff0000">스핑크스</span>)
-  - <span style="font-weight:bold; color:#0000ff">요타</span>
-  - <span style="font-weight:bold; color:#ff0000">네오</span>
-  - <span style="font-weight:bold; color:#8a2be2">엑스</span>
-  - <span style="font-weight:bold; color:#dcdcdc">크라켄</span>
-  - <span style="font-weight:bold; color:#0000ff">피코</span>
-  - <span style="font-weight:bold; color:#ff0000">하이드론</span>
-  - <span style="font-weight:bold; color:#0000ff">카울</span>
-  - <span style="font-weight:bold; color:#0000ff">투스코</span>
-  - <span style="font-weight:bold; color:#000000">데스퍼</span>
-  - <span style="font-weight:bold; color:#008000">쿠루기</span>
-  - <span style="font-weight:bold; color:#0000ff">다이크</span>
-  - <span style="font-weight:bold; color:#ff0000">카이온</span>
-  - <span style="font-weight:bold; color:#000000">가고토스</span>
-  - <span style="font-weight:bold; color:#dcdcdc">윙라이온</span>
-  - <span style="font-weight:bold; color:#ff0000">메가에반</span>
-  - <span style="font-weight:bold; color:#ffff00">메가스콜피온</span>
-  - <span style="font-weight:bold; color:#ff0000">디스크캐논</span>
-  - <span style="font-weight:bold; color:#ffff00">제트</span>
-  - <span style="font-weight:bold; color:#008000">고브</span>
-  - <span style="font-weight:bold; color:#ff0000">볼카</span>
-  - <span style="font-weight:bold; color:#dcdcdc">도라</span>
-  - <span style="font-weight:bold; color:#ffff00">트렘</span>
-  - <span style="font-weight:bold; color:#0000ff">푸킨</span>
-  - <span style="font-weight:bold; color:#ff0000">아머피트</span>
-  - <span style="font-weight:bold; color:#800080">아라게</span>
-  - <span style="font-weight:bold; color:#dcdcdc">버키</span>
-  - <span style="font-weight:bold; color:#ff0000">윙피닉스</span>
-  - <span style="font-weight:bold; color:#008000">치르매미</span>
-  - <span style="font-weight:bold; color:#ff0000">뎅뎅</span>
-  - <span style="font-weight:bold; color:#0000ff">마루</span>
-  - <span style="font-weight:bold; color:#0000ff">에반킹</span>
-  - <span style="font-weight:bold; color:#ff0000">켄타스콘</span>
-  - <span style="font-weight:bold; color:#000000">마스터</span>
-  - <span style="font-weight:bold; color:#0000ff">하이테로</span>
-  - <span style="font-weight:bold; color:#0000ff">윙나이트</span>
-  - <span style="font-weight:bold; color:#ffff00">윙레오</span>
+  - 에반
+  - 타나토스
+  - 슈마
+  - 알타
+  - 피닉스
+  - 테로
+  - 미리내
+  - 코카트
+  - 베노사
+  - 게리온
+  - 무간
+  - 캉시
+  - 나백작
+  - 독꼬리
+  - 타이탄
+  - 크로키
+  - 킹죠스
+  - 파이온
+  - 크랑
+  - 윙톡
+  - 만타리
+  - 옥타
+  - 안드로매지션
+  - 바벨
+  - 센뿔
+  - 모스톤
+  - 프린스콩
+  - 우르스
+  - 타돌
+  - 메가
+  - 메가테릭스
+  - 메가스파이더
+  - 메가드래곤
+  - 그리폰
+  - 스핑크스
+  - 그리핑크스(그리폰 + 스핑크스)
+  - 요타
+  - 네오
+  - 엑스
+  - 크라켄
+  - 피코
+  - 하이드론
+  - 카울
+  - 투스코
+  - 데스퍼
+  - 쿠루기
+  - 다이크
+  - 카이온
+  - 가고토스
+  - 윙라이온
+  - 메가에반
+  - 메가스콜피온
+  - 디스크캐논
+  - 제트
+  - 고브
+  - 볼카
+  - 도라
+  - 트렘
+  - 푸킨
+  - 아머피트
+  - 아라게
+  - 버키
+  - 윙피닉스
+  - 치르매미
+  - 뎅뎅
+  - 마루
+  - 에반킹
+  - 켄타스콘
+  - 마스터
+  - 하이테로
+  - 윙나이트
+  - 윙레오
 
 ## 보유 현황
 
-| 인간   | 보유 메카니멀                                                |
-| ---- | ------------------------------------------------------ |
-| 나찬   | 에반, 피닉스, 크랑, 센뿔, 모스톤, 스핑크스, 디스크캐논, 윙피닉스, 뎅뎅, 윙나이트, 윙레오 |
-| 반다인  | 베노사, 만타리, 프린스콩, 그리폰, 엑스, 치르매미, 마스터                     |
-| 이소벨  | 테로, 미리내, 코카트, 크로키, 킹죠스, 옥타, 네오, 하이테로                   |
-| 리안   | 슈마, 알타, 타이탄, 파이온, 바벨, 메가, 요타                           |
-| 도깨비단 | 타나토스, 게리온, 무간, 캉시, 나백작, 윙톡, 안드로매지션, 타돌                 |
-| 류    | 크라켄, 피코, 하이드론, 카울, 다이크, 카이온                            |
-| 데미안  | |데스퍼, 쿠루기                                              |
-| 카밀라  | 투스코, 가고토스                                              |
-| 나로   | 제트, 볼카, 도라, 아라게                                        |
-| 로키   | 고브, 푸킨, 마루                                             |
-| 데이지  | 트렘, 아머피트                                               |
-| 서준   | 독꼬리, 우르스                                               |
-| 마리   | 버키, 켄타스콘                                               |
-|      |                                                        |
+| 인간   | 보유 메카니멀                                                                               |
+| ---- | ------------------------------------------------------------------------------------- |
+| 나찬   | 에반, 피닉스, 모스톤, 센뿔, 크랑, 스핑크스, 디스크캐논, 윙피닉스, 뎅뎅, 윙나이트, 윙레오, 메가테릭스, 메가드래곤, 메가에반, 에반킹 (15대) |
+| 반다인  | 베노사, 만타리, 프린스콩, 그리폰, 엑스, 치르매미, 마스터, 메가스파이더 (8대)                                       |
+| 이소벨  | 테로, 미리내, 코카트, 크로키, 킹죠스, 옥타, 네오, 하이테로 (8대)                                             |
+| 리안   | 알타, 타이탄, 파이온, 슈마, 바벨, 메가, 요타 (7대)                                                     |
+| 도깨비단 | 타나토스, 게리온, 무간, 캉시, 나백작, 윙톡, 안드로매지션, 타돌 (8대)                                           |
+| 류    | 다이크, 크라켄, 피코, 하이드론, 카울, 카이온, 윙라이온 (7대)                                                |
+| 데미안  | 데스퍼, 쿠루기 (2대)                                                                         |
+| 카밀라  | 투스코, 가고토스, 메가스콜피온 (3대)                                                                |
+| 나로   | 제트, 볼카, 도라, 아라게 (4대)                                                                  |
+| 로키   | 고브, 푸킨, 마루 (3대)                                                                       |
+| 데이지  | 트렘, 아머피트, 버키, 켄타스콘 (4대)                                                               |
+| 서준   | 독꼬리, 우르스 (2대)                                                                         |
+|      |                                                                                       |
 
 ## 방영 목록
 

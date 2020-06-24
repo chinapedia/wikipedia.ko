@@ -21,7 +21,7 @@
 
 ## 디자인
 
-[150px](https://ko.wikipedia.org/wiki/파일:Haeundae-IPARK.jpg "wikilink") [150px](https://ko.wikipedia.org/wiki/파일:Daniel_Libeskind.jpg "wikilink")\]\]
+[150px](https://ko.wikipedia.org/wiki/파일:Daniel_Libeskind.jpg "wikilink")\]\]
 
 현대산업개발은 해운대 아이파크의 세계적인 건축가 [다니엘 리베스킨트](../Page/다니엘_리베스킨트.md "wikilink")(Daniel Libeskind)와 함께 해운대의 입지를 활용해 설계했다. [다니엘 리베스킨트는](../Page/다니엘_리베스킨트.md "wikilink") 베를린 유대인 박물관을 비롯해 대영전쟁박물관 등을 설계한 건축가로, 미국 뉴욕 세계무역센터(WTC) 재건축 설계공모에서 당선돼 명성을 높인 바 있다.\[3\]
 

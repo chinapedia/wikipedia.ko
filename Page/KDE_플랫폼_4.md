@@ -35,7 +35,7 @@
 ### KDE 플랫폼 4로 대체된 기술
 
   - [aRts](https://ko.wikipedia.org/wiki/aRts "wikilink") – [사운드 드라이버](https://ko.wikipedia.org/wiki/사운드_드라이버 "wikilink")
-  - [DCOP](https://ko.wikipedia.org/wiki/DCOP "wikilink") – [프로세스 간 통신](../Page/프로세스_간_통신.md "wikilink") 시스템 ([D-Bus](https://ko.wikipedia.org/wiki/D-Bus "wikilink") 대체)
+  - [DCOP](https://ko.wikipedia.org/wiki/DCOP "wikilink") – [프로세스 간 통신](../Page/프로세스_간_통신.md "wikilink") 시스템 ([D-Bus](../Page/D-Bus.md "wikilink") 대체)
 
 ## KParts
 

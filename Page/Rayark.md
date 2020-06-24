@@ -21,6 +21,7 @@
 
   - [Project Symphony](https://ko.wikipedia.org/wiki/Project_Symphony "wikilink")
   - [Soul of Eden](https://ko.wikipedia.org/wiki/Soul_of_Eden "wikilink")
+  - [Deemo II](https://ko.wikipedia.org/wiki/Deemo_II "wikilink")
 
 ## 책
 

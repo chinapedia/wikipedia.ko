@@ -75,7 +75,7 @@
 <tbody>
 <tr class="odd">
 <td><p>시즌1 (2011~2012)</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/박지민" title="wikilink">박지민</a> ()</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/제이미_(가수)" title="wikilink">박지민</a> ()</p></td>
 <td><p><a href="../Page/이하이.md" title="wikilink">이하이</a> ()</p></td>
 <td><p><a href="../Page/백아연.md" title="wikilink">백아연</a> ()</p></td>
 </tr>

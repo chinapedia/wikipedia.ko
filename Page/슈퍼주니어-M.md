@@ -15,17 +15,6 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><strong><a href="../Page/성민_(1986년).md" title="wikilink">성민</a></strong></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/파일:Lee_Sungmin.jpg" title="wikilink">100px</a></p></td>
-<td><ul>
-<li>본명 : 이성민 (李晟敏)</li>
-<li>생년월일 : </li>
-<li>출생지 :  <a href="https://ko.wikipedia.org/wiki/경기도" title="wikilink">경기도</a> <a href="https://ko.wikipedia.org/wiki/고양시" title="wikilink">고양시</a></li>
-<li>유닛그룹 : <a href="../Page/슈퍼주니어-M.md" title="wikilink">슈퍼주니어-M</a>, <a href="../Page/슈퍼주니어-T.md" title="wikilink">슈퍼주니어-T</a>, <a href="../Page/슈퍼주니어-Happy.md" title="wikilink">슈퍼주니어-Happy</a></li>
-<li>활동기간 : <a href="../Page/2005년.md" title="wikilink">2005년</a> <a href="../Page/11월_6일.md" title="wikilink">11월 6일</a> ~ (활동 중단)[1]</li>
-</ul></td>
-</tr>
-<tr class="even">
 <td><p><strong><a href="../Page/은혁.md" title="wikilink">은혁</a></strong></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:WHYNOT-더_댄서_제작발표회_은혁.jpg" title="wikilink">100px</a></p></td>
 <td><ul>
@@ -36,7 +25,7 @@
 <li>활동기간 : <a href="../Page/2005년.md" title="wikilink">2005년</a> <a href="../Page/11월_6일.md" title="wikilink">11월 6일</a> ~ <strong>현재</strong></li>
 </ul></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong><a href="../Page/조미_(가수).md" title="wikilink">조미</a></strong></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Zhou_Mi_from_Acrofan_(cropped).jpg" title="wikilink">100px</a></p></td>
 <td><ul>
@@ -47,7 +36,7 @@
 <li>활동기간 : <a href="../Page/2008년.md" title="wikilink">2008년</a> <a href="../Page/4월_8일.md" title="wikilink">4월 8일</a> ~ <strong>현재</strong></li>
 </ul></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong><a href="../Page/동해_(가수).md" title="wikilink">동해</a></strong></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:171115_슈퍼주니어_동해.jpg" title="wikilink">100px</a></p></td>
 <td><ul>
@@ -58,7 +47,7 @@
 <li>활동기간 : <a href="../Page/2005년.md" title="wikilink">2005년</a> <a href="../Page/11월_6일.md" title="wikilink">11월 6일</a> ~ <strong>현재</strong></li>
 </ul></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong><a href="../Page/시원_(가수).md" title="wikilink">시원</a></strong></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:KCON_2015_Siwon.jpg" title="wikilink">100px</a></p></td>
 <td><ul>
@@ -69,7 +58,7 @@
 <li>활동기간 : <a href="../Page/2005년.md" title="wikilink">2005년</a> <a href="../Page/11월_6일.md" title="wikilink">11월 6일</a> ~ <strong>현재</strong></li>
 </ul></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong><a href="../Page/려욱.md" title="wikilink">려욱</a></strong></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:190709_슈퍼주니어_려욱_(1).jpg" title="wikilink">100px</a></p></td>
 <td><ul>
@@ -80,7 +69,7 @@
 <li>활동기간 : <a href="../Page/2005년.md" title="wikilink">2005년</a> <a href="../Page/11월_6일.md" title="wikilink">11월 6일</a> ~ <strong>현재</strong></li>
 </ul></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong><a href="../Page/규현.md" title="wikilink">규현</a></strong></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Cho_Kyuhyun_20161120_01.png" title="wikilink">100px</a></p></td>
 <td><ul>
@@ -89,6 +78,17 @@
 <li>출생지 :  <a href="../Page/서울특별시.md" title="wikilink">서울특별시</a></li>
 <li>유닛그룹 : <a href="https://ko.wikipedia.org/wiki/슈퍼주니어-K.R.Y" title="wikilink">슈퍼주니어-K.R.Y</a>, <a href="../Page/슈퍼주니어-M.md" title="wikilink">슈퍼주니어-M</a></li>
 <li>활동기간 : <a href="../Page/2006년.md" title="wikilink">2006년</a> <a href="../Page/5월_27일.md" title="wikilink">5월 27일</a> ~ <strong>현재</strong></li>
+</ul></td>
+</tr>
+<tr class="odd">
+<td><p><strong><a href="../Page/성민_(1986년).md" title="wikilink">성민</a></strong></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/파일:Lee_Sungmin.jpg" title="wikilink">100px</a></p></td>
+<td><ul>
+<li>본명 : 이성민 (李晟敏)</li>
+<li>생년월일 : </li>
+<li>출생지 :  <a href="https://ko.wikipedia.org/wiki/경기도" title="wikilink">경기도</a> <a href="https://ko.wikipedia.org/wiki/고양시" title="wikilink">고양시</a></li>
+<li>유닛그룹 : <a href="../Page/슈퍼주니어-M.md" title="wikilink">슈퍼주니어-M</a>, <a href="../Page/슈퍼주니어-T.md" title="wikilink">슈퍼주니어-T</a>, <a href="../Page/슈퍼주니어-Happy.md" title="wikilink">슈퍼주니어-Happy</a></li>
+<li>활동기간 : <a href="../Page/2005년.md" title="wikilink">2005년</a> <a href="../Page/11월_6일.md" title="wikilink">11월 6일</a> ~ (활동 중단)[1]</li>
 </ul></td>
 </tr>
 </tbody>
@@ -129,6 +129,8 @@
 </tr>
 </tbody>
 </table>
+
+## 음반
 
 ## 수상내역
 

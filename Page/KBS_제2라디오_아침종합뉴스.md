@@ -12,6 +12,6 @@
 
   - [뉴스와 화제](https://ko.wikipedia.org/wiki/뉴스와_화제_\(KBS_제1라디오\) "wikilink") ([KBS 제1라디오](../Page/KBS_제1라디오.md "wikilink"))
   - [MBC 뉴스의 광장](https://ko.wikipedia.org/wiki/MBC_뉴스의_광장 "wikilink") ([MBC 표준FM](../Page/MBC_표준FM.md "wikilink"))
-  - [임미현의 아침뉴스](https://ko.wikipedia.org/wiki/김덕기의_아침뉴스 "wikilink") ([CBS 표준FM](../Page/CBS_표준FM.md "wikilink"))
+  - [임미현의 아침뉴스](../Page/김덕기의_아침뉴스.md "wikilink") ([CBS 표준FM](../Page/CBS_표준FM.md "wikilink"))
 
 [분류:한국방송공사의 뉴스 라디오 프로그램](https://ko.wikipedia.org/wiki/분류:한국방송공사의_뉴스_라디오_프로그램 "wikilink")

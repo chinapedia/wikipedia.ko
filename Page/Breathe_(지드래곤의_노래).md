@@ -19,7 +19,7 @@
 
 ## 외부 링크
 
-  - [지드래곤 공식 사이트](http://www.ygbigbang.com/gdragon/)
+  - [지드래곤 공식 사이트](https://web.archive.org/web/20150804095238/http://www.ygbigbang.com/gdragon/)
   - [YG 엔터테인먼트](http://ygfamily.com/)
 
 <!-- end list -->

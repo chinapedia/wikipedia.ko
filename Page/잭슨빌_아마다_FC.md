@@ -37,4 +37,4 @@
 
   - [잭슨빌 아마다 FC 공식 웹사이트](http://www.armadafc.com/)
 
-[분류:북미 사커 리그 구단](https://ko.wikipedia.org/wiki/분류:북미_사커_리그_구단 "wikilink") [분류:2013년 설립된 축구단](https://ko.wikipedia.org/wiki/분류:2013년_설립된_축구단 "wikilink")
+[분류:북미 사커 리그 구단](https://ko.wikipedia.org/wiki/분류:북미_사커_리그_구단 "wikilink") [분류:2013년 설립된 축구단](https://ko.wikipedia.org/wiki/분류:2013년_설립된_축구단 "wikilink") [분류:플로리다주의 축구단](https://ko.wikipedia.org/wiki/분류:플로리다주의_축구단 "wikilink")

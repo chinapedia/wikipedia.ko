@@ -858,6 +858,6 @@ SHY77100319</p></td>
 
   - [SHY48 공식 홈페이지](https://web.archive.org/web/20190123171313/http://www.shy48.com/)
 
-[\*](https://ko.wikipedia.org/wiki/분류:SHY48 "wikilink") [분류:중국의 음악 그룹](https://ko.wikipedia.org/wiki/분류:중국의_음악_그룹 "wikilink") [분류:중국의 걸 그룹](https://ko.wikipedia.org/wiki/분류:중국의_걸_그룹 "wikilink") [분류:2017년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2017년_결성된_음악_그룹 "wikilink") [분류:2017년 데뷔](https://ko.wikipedia.org/wiki/분류:2017년_데뷔 "wikilink") [분류:10인조 이상 음악 그룹](https://ko.wikipedia.org/wiki/분류:10인조_이상_음악_그룹 "wikilink") [분류:2010년대 음악 그룹](https://ko.wikipedia.org/wiki/분류:2010년대_음악_그룹 "wikilink") [분류:2019년 해체된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2019년_해체된_음악_그룹 "wikilink")
+[\*](https://ko.wikipedia.org/wiki/분류:SHY48 "wikilink") [분류:중국의 음악 그룹](https://ko.wikipedia.org/wiki/분류:중국의_음악_그룹 "wikilink") [분류:중국의 걸 그룹](https://ko.wikipedia.org/wiki/분류:중국의_걸_그룹 "wikilink") [분류:2017년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2017년_결성된_음악_그룹 "wikilink") [분류:10인조 이상 음악 그룹](https://ko.wikipedia.org/wiki/분류:10인조_이상_음악_그룹 "wikilink") [분류:2010년대 음악 그룹](https://ko.wikipedia.org/wiki/분류:2010년대_음악_그룹 "wikilink") [분류:2019년 해체된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2019년_해체된_음악_그룹 "wikilink")
 
 1.  [SNH48姐妹团SHY48首次发布 SHY48一期生招募正式启动](http://www.snh48.com/html/allnews/zixun/2016/0730/1872.html)

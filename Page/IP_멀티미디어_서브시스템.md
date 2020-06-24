@@ -12,6 +12,8 @@
 
 ## 구조
 
+[프레임](https://ko.wikipedia.org/wiki/파일:Ims_overview.png "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:Ims_overview-2.png "wikilink")
+
 ### 접속 네트워크
 
 ### 핵심망
@@ -60,4 +62,4 @@
 
 ## IMS 와 3GPP가 아닌 시스템의 보안 측면
 
-[분류:이동 통신](https://ko.wikipedia.org/wiki/분류:이동_통신 "wikilink") [분류:이동 통신 표준](https://ko.wikipedia.org/wiki/분류:이동_통신_표준 "wikilink") [분류:멀티미디어](https://ko.wikipedia.org/wiki/분류:멀티미디어 "wikilink") [분류:전기통신](https://ko.wikipedia.org/wiki/분류:전기통신 "wikilink") [분류:통신 시설](https://ko.wikipedia.org/wiki/분류:통신_시설 "wikilink") [분류:화상 통화](https://ko.wikipedia.org/wiki/분류:화상_통화 "wikilink") [분류:음성 인터넷 프로토콜](https://ko.wikipedia.org/wiki/분류:음성_인터넷_프로토콜 "wikilink")
+[분류:이동 통신](https://ko.wikipedia.org/wiki/분류:이동_통신 "wikilink") [분류:이동 통신 표준](https://ko.wikipedia.org/wiki/분류:이동_통신_표준 "wikilink") [분류:멀티미디어](https://ko.wikipedia.org/wiki/분류:멀티미디어 "wikilink") [분류:전기통신](https://ko.wikipedia.org/wiki/분류:전기통신 "wikilink") [분류:통신 시설](https://ko.wikipedia.org/wiki/분류:통신_시설 "wikilink") [분류:화상 통화](https://ko.wikipedia.org/wiki/분류:화상_통화 "wikilink") [분류:음성 인터넷 프로토콜](https://ko.wikipedia.org/wiki/분류:음성_인터넷_프로토콜 "wikilink") [분류:3GPP 표준](https://ko.wikipedia.org/wiki/분류:3GPP_표준 "wikilink") [분류:LTE (전기통신)](https://ko.wikipedia.org/wiki/분류:LTE_\(전기통신\) "wikilink")

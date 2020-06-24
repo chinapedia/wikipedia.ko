@@ -349,7 +349,7 @@
 | 미국  | 《[구스 베이비](../Page/구스_베이비.md "wikilink")》                                                        | 2019.1.16  | 애니메이션                     | 배급 |                                                     |
 | 일본  | 《[드래곤볼 슈퍼: 브로리](../Page/드래곤볼_슈퍼:_브로리.md "wikilink")》                                            | 2019.2.14  | 애니메이션<small> 극장판 </small> | 배급 |                                                     |
 | 일본  | 《[아사코](../Page/아사코.md "wikilink")》                                                              | 2019.3.14  | 실사                        | 배급 |                                                     |
-| 미국  | 《[폴라로이드](https://ko.wikipedia.org/wiki/폴라로이드_\(2019년_영화\) "wikilink")》                          | 2019.6.6   | 실사                        | 배급 |                                                     |
+| 미국  | 《[폴라로이드](../Page/폴라로이드_\(2019년_영화\).md "wikilink")》                                             | 2019.6.6   | 실사                        | 배급 |                                                     |
 | 미국  | 《[사탄의 인형](../Page/사탄의_인형_\(2019년_영화\).md "wikilink")》                                           | 2019.6.20  | 실사                        | 배급 |                                                     |
 | 미국  | 《[사일런스](https://ko.wikipedia.org/wiki/사일런스_\(2019년_영화\) "wikilink")》                            | 2019.7.17  | 실사                        | 배급 |                                                     |
 | 미국  | 《[커런트 워](../Page/커런트_워.md "wikilink")》                                                          | 2019.8.22  | 실사                        | 배급 | [CGV](https://ko.wikipedia.org/wiki/CGV "wikilink") |
@@ -366,7 +366,7 @@
 | 미국  | 《[다크 워터스](https://ko.wikipedia.org/wiki/다크_워터스 "wikilink")》     | 2020.3.11 | 실사 | 배급     |
 | 프랑스 | 《[네 멋대로 해라: 장 뤽 고다르](../Page/네_멋대로_해라_:_장_뤽_고다르.md "wikilink")》 | 2020.3.19 | 실사 | 배급     |
 | 미국  | 《[마이 스파이](https://ko.wikipedia.org/wiki/마이_스파이 "wikilink")》     | 2020.4.29 | 실사 | 수입, 배급 |
-| 프랑스 | 《[카페 벨에포크](https://ko.wikipedia.org/wiki/카페_벨에포크 "wikilink")》   | 2020.5    | 실사 | 수입, 배급 |
+| 프랑스 | 《[카페 벨에포크](https://ko.wikipedia.org/wiki/카페_벨에포크 "wikilink")》   | 2020.5.21 | 실사 | 수입, 배급 |
 |     |                                                                 |           |    |        |
 
 ## 같이 보기

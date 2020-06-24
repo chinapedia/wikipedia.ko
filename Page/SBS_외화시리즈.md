@@ -46,6 +46,10 @@
   - 《[하우스 시즌 2](../Page/하우스_\(드라마\).md "wikilink")》 : 2009년 2월 28일 \~ 2009년 5월 18일
   - 《[이소룡 전기](https://ko.wikipedia.org/wiki/:pt:The_Legend_of_Bruce_Lee "wikilink")》 : 2009년 5월 24일 \~ 2009년 12월 13일
 
+## 시청률
+
+  - [2001년](../Page/2001년.md "wikilink")까지 시청률 인기를 누렸으나, [2005년](../Page/2005년.md "wikilink")부터 [케이블TV](https://ko.wikipedia.org/wiki/케이블TV "wikilink") 채널와 [인터넷](../Page/인터넷.md "wikilink"), [웹하드](https://ko.wikipedia.org/wiki/웹하드 "wikilink"), [콘텐츠](https://ko.wikipedia.org/wiki/콘텐츠 "wikilink") 보급 확산으로 인기가 갈수록 떨어지자, 외화시리즈 작품이 3% 애국가 시청률 저조한 성적이다.
+
 ## 같이 보기
 
   - [해외걸작드라마](../Page/한국방송공사_해외걸작드라마.md "wikilink")(KBS 외화시리즈)

@@ -13,7 +13,7 @@
 
 ## 사진
 
-파일:Vtm-tv spacelink (volvo) 2001.11.21.jpg|FL 전기형 모델 파일:Volvo-FL.jpg|FL 후기형 모델 파일:Volvo_FL10_heavy_2_(11814380785).jpg|FL [트레일러](https://ko.wikipedia.org/wiki/트레일러_\(자동차\) "wikilink") 모델
+파일:Vtm-tv spacelink (volvo) 2001.11.21.jpg|FL 전기형 모델 파일:Volvo-FL.jpg|FL 후기형 모델 파일:Volvo_FL10_heavy_2_(11814380785).jpg|FL [트레일러](https://ko.wikipedia.org/wiki/트레일러_\(차량\) "wikilink") 모델
 
 ## 경쟁 차종
 

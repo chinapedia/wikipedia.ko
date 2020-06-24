@@ -9,7 +9,7 @@
 
 ## 자회사
 
-Thai Dongbu Steel Co.Ltd.(태국), Dongbu USA Inc.(미국), Dongbu Singapore Pte.Ltd.(싱가포르) 등의 연결대상 종속회사를 가진다.
+KG Dongbu Thai Steel Co.Ltd.(태국), KG Dongbu USA Inc.(미국), KG Dongbu Singapore Pte.Ltd.(싱가포르) 등의 연결대상 종속회사를 가진다.
 
 ## 역사
 

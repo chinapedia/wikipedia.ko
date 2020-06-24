@@ -14,9 +14,9 @@
   - [2018년](../Page/2018년.md "wikilink")에 방영된 [JTBC](../Page/JTBC.md "wikilink") 드라마 [미스티에](../Page/미스티_\(드라마\).md "wikilink") JBC 사옥이 나온다.
   - [2018년](../Page/2018년.md "wikilink")에 방영된 [JTBC](../Page/JTBC.md "wikilink") 드라마 [순정에 반하다에](../Page/순정에_반하다.md "wikilink") 헤르미아 그룹 본사로 나온다.
 
-## 갤러리
+## 사진
 
-파일:도시의탄생.jpg 파일:포스코건설 정면사진.JPG 파일:Central Park Lake, Songdo IBD.jpg 파일:Songdo International Business District 24.JPG
+파일:도시의탄생.jpg 파일:Central Park Lake, Songdo IBD.jpg 파일:Songdo International Business District 24.JPG
 
 ## 더 보기
 

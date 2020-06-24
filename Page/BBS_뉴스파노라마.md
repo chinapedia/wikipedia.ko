@@ -13,6 +13,6 @@
 
 ## 외부 링크
 
-  - [BBS 뉴스파노라마 공식 홈페이지](https://web.archive.org/web/20190227060612/http://bbsi.co.kr/HOME/radio/radio_onair_detail.html?ProgramCode=87)
+  - [BBS 뉴스파노라마 공식 홈페이지](http://bbsi.co.kr/HOME/radio/radio_onair_detail.html?ProgramCode=87)
 
-[분류:불교방송의 라디오 프로그램](https://ko.wikipedia.org/wiki/분류:불교방송의_라디오_프로그램 "wikilink") [분류:대한민국의 뉴스 라디오 프로그램](https://ko.wikipedia.org/wiki/분류:대한민국의_뉴스_라디오_프로그램 "wikilink")
+[분류:불교방송의 뉴스 라디오 프로그램](https://ko.wikipedia.org/wiki/분류:불교방송의_뉴스_라디오_프로그램 "wikilink") [분류:대한민국의 뉴스 라디오 프로그램](https://ko.wikipedia.org/wiki/분류:대한민국의_뉴스_라디오_프로그램 "wikilink")

@@ -34,7 +34,7 @@
 <tr class="even">
 <td><p>1965</p></td>
 <td><p><a href="../Page/사운드_오브_뮤직_(영화).md" title="wikilink">사운드 오브 뮤직</a> <em>The Sound of Music</em></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/로버트_와이즈" title="wikilink">로버트 와이즈</a></p></td>
+<td><p><a href="../Page/로버트_와이즈.md" title="wikilink">로버트 와이즈</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>1973</p></td>
@@ -89,7 +89,7 @@
 <tr class="odd">
 <td><p>1982</p></td>
 <td><p>심판 <em><a href="https://ko.wikipedia.org/wiki/:en:The_Verdict" title="wikilink">The Verdict</a></em></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/시드니_루멧" title="wikilink">시드니 루멧</a></p></td>
+<td><p><a href="../Page/시드니_루멧.md" title="wikilink">시드니 루멧</a></p></td>
 </tr>
 <tr class="even">
 <td><p>1985</p></td>

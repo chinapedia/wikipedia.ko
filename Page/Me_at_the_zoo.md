@@ -40,7 +40,7 @@
 ## 외부 링크
 
   -
-[분류:유튜브 영상](https://ko.wikipedia.org/wiki/분류:유튜브_영상 "wikilink") [분류:동물원을 배경으로 한 작품](https://ko.wikipedia.org/wiki/분류:동물원을_배경으로_한_작품 "wikilink") [분류:코끼리를 소재로 한 작품](https://ko.wikipedia.org/wiki/분류:코끼리를_소재로_한_작품 "wikilink")
+[분류:유튜브 영상](https://ko.wikipedia.org/wiki/분류:유튜브_영상 "wikilink") [분류:동물원을 배경으로 한 작품](https://ko.wikipedia.org/wiki/분류:동물원을_배경으로_한_작품 "wikilink") [분류:코끼리를 소재로 한 작품](https://ko.wikipedia.org/wiki/분류:코끼리를_소재로_한_작품 "wikilink") [분류:바이럴 영상](https://ko.wikipedia.org/wiki/분류:바이럴_영상 "wikilink")
 
 1.
 2.

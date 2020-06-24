@@ -267,7 +267,7 @@
 
   -
 
-[분류:일본의 팝 음악 그룹](https://ko.wikipedia.org/wiki/분류:일본의_팝_음악_그룹 "wikilink") [분류:일본의 걸 그룹](https://ko.wikipedia.org/wiki/분류:일본의_걸_그룹 "wikilink") [분류:2010년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2010년_결성된_음악_그룹 "wikilink") [분류:2011년 데뷔](https://ko.wikipedia.org/wiki/분류:2011년_데뷔 "wikilink") [분류:6인조 음악 그룹](https://ko.wikipedia.org/wiki/분류:6인조_음악_그룹 "wikilink") [분류:LDH](https://ko.wikipedia.org/wiki/분류:LDH "wikilink") [분류:소니 뮤직 엔터테인먼트 (일본)의 음악가](https://ko.wikipedia.org/wiki/분류:소니_뮤직_엔터테인먼트_\(일본\)의_음악가 "wikilink") [분류:2009년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2009년_결성된_음악_그룹 "wikilink") [분류:2019년 해체된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2019년_해체된_음악_그룹 "wikilink")
+[분류:일본의 팝 음악 그룹](https://ko.wikipedia.org/wiki/분류:일본의_팝_음악_그룹 "wikilink") [분류:일본의 걸 그룹](https://ko.wikipedia.org/wiki/분류:일본의_걸_그룹 "wikilink") [분류:2010년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2010년_결성된_음악_그룹 "wikilink") [분류:6인조 음악 그룹](https://ko.wikipedia.org/wiki/분류:6인조_음악_그룹 "wikilink") [분류:LDH](https://ko.wikipedia.org/wiki/분류:LDH "wikilink") [분류:소니 뮤직 엔터테인먼트 (일본)의 음악가](https://ko.wikipedia.org/wiki/분류:소니_뮤직_엔터테인먼트_\(일본\)의_음악가 "wikilink") [분류:2009년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2009년_결성된_음악_그룹 "wikilink") [분류:2019년 해체된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2019년_해체된_음악_그룹 "wikilink")
 
 1.
 2.

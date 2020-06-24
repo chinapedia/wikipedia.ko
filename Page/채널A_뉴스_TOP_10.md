@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [채널A 뉴스 TOP 10](https://ko.wikipedia.org/wiki/채널A_뉴스_TOP_10).
 
 
-**채널A 뉴스 TOP 10**은 [대한민국](../Page/대한민국.md "wikilink") [채널A](../Page/채널A.md "wikilink")에서 평일 오후 5시 50분에 방송되는 [채널A](../Page/채널A.md "wikilink")의 저녁 [뉴스쇼](https://ko.wikipedia.org/wiki/뉴스쇼 "wikilink") 프로그램이다.
+**채널A 뉴스 TOP 10**은 [대한민국](../Page/대한민국.md "wikilink") [채널A](../Page/채널A.md "wikilink")에서 평일 저녁 6시에 방송되는 [채널A](../Page/채널A.md "wikilink")의 저녁 [뉴스쇼](https://ko.wikipedia.org/wiki/뉴스쇼 "wikilink") 프로그램이다.
 
 ## 앵커
 

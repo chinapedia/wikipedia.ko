@@ -12,7 +12,7 @@
   -
   -
   -
-[분류:살아있는 사람](https://ko.wikipedia.org/wiki/분류:살아있는_사람 "wikilink") [분류:미국의 만화가](https://ko.wikipedia.org/wiki/분류:미국의_만화가 "wikilink") [분류:미국의 만화 스토리 작가](https://ko.wikipedia.org/wiki/분류:미국의_만화_스토리_작가 "wikilink") [분류:만화 편집자](https://ko.wikipedia.org/wiki/분류:만화_편집자 "wikilink") [분류:마블 코믹스](https://ko.wikipedia.org/wiki/분류:마블_코믹스 "wikilink")
+[분류:살아있는 사람](https://ko.wikipedia.org/wiki/분류:살아있는_사람 "wikilink") [분류:미국의 만화가](https://ko.wikipedia.org/wiki/분류:미국의_만화가 "wikilink") [분류:미국의 만화 스토리 작가](https://ko.wikipedia.org/wiki/분류:미국의_만화_스토리_작가 "wikilink") [분류:만화 편집자](https://ko.wikipedia.org/wiki/분류:만화_편집자 "wikilink") [분류:마블 코믹스](https://ko.wikipedia.org/wiki/분류:마블_코믹스 "wikilink") [분류:1967년 태어남](https://ko.wikipedia.org/wiki/분류:1967년_태어남 "wikilink")
 
 1.  발음 참조1:
 2.  발음 참조2:

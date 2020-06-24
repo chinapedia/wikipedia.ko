@@ -80,7 +80,7 @@
 
 ## 구성원
 
-  - 교체의 가능성도 있다고 여겨지고 있지만, 2019년 6월 현재, 이하의 8명이 멤버로 되어 있다. 과일의 이름은「멤버의 이미지를 나타내는 후르츠」이다.
+  - 교체의 가능성도 있다고 여겨지고 있지만, 2020년 4월 현재, 이하의 9명이 멤버로 되어 있다. 과일의 이름은「멤버의 이미지를 나타내는 후르츠」이다.
 
 |  |
 |  |
@@ -259,6 +259,7 @@
 18. 이벤트V「SEXY SEXY／泣いていいよ」(2018년 5월 13일)
 19. 이벤트V「微炭酸／ポツリと／Good bye & Good luck\!」(2019년 3월 9일)
 20. 이벤트V「「ひとりで生きられそう」って それってねぇ、褒めているの?／25歳永遠説」(2019년 8월 10일)
+21. 이벤트V「ポップミュージック／好きって言ってよ」(2020년 4월 1일)
 
 <!-- end list -->
 
@@ -421,9 +422,21 @@
 
   -
 
-  - [Juice=Juice](http://www.tiktok.com/@JuiceJuice_uf) - [TikTok](../Page/TikTok.md "wikilink")
+      -
 
-[Juice=Juice](https://ko.wikipedia.org/wiki/분류:Juice=Juice "wikilink") [분류:헬로\! 프로젝트](https://ko.wikipedia.org/wiki/분류:헬로!_프로젝트 "wikilink") [분류:2013년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2013년_결성된_음악_그룹 "wikilink") [분류:2013년 데뷔](https://ko.wikipedia.org/wiki/분류:2013년_데뷔 "wikilink") [분류:일본의 팝 음악 그룹](https://ko.wikipedia.org/wiki/분류:일본의_팝_음악_그룹 "wikilink") [분류:일본의 걸 그룹](https://ko.wikipedia.org/wiki/분류:일본의_걸_그룹 "wikilink") [분류:일본의 아이돌 그룹](https://ko.wikipedia.org/wiki/분류:일본의_아이돌_그룹 "wikilink") [분류:9인조 음악 그룹](https://ko.wikipedia.org/wiki/분류:9인조_음악_그룹 "wikilink")
+      -
+
+      -
+
+      -
+
+      -
+
+      -
+
+  - [Juice=Juice](https://web.archive.org/web/20200430225515/https://www.tiktok.com/@juicejuice_uf) - [TikTok](../Page/TikTok.md "wikilink")
+
+[Juice=Juice](https://ko.wikipedia.org/wiki/분류:Juice=Juice "wikilink") [분류:헬로\! 프로젝트](https://ko.wikipedia.org/wiki/분류:헬로!_프로젝트 "wikilink") [분류:2013년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2013년_결성된_음악_그룹 "wikilink") [분류:일본의 팝 음악 그룹](https://ko.wikipedia.org/wiki/분류:일본의_팝_음악_그룹 "wikilink") [분류:일본의 걸 그룹](https://ko.wikipedia.org/wiki/분류:일본의_걸_그룹 "wikilink") [분류:일본의 아이돌 그룹](https://ko.wikipedia.org/wiki/분류:일본의_아이돌_그룹 "wikilink") [분류:9인조 음악 그룹](https://ko.wikipedia.org/wiki/분류:9인조_음악_그룹 "wikilink")
 
 1.  [하로프로 연수생 내, 신유닛 결성의 소식](http://www.helloproject.com/news/1302031700_hello.html)
 2.

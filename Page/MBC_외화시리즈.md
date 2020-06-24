@@ -114,6 +114,10 @@
   - 《[먼데이 모닝스](../Page/먼데이_모닝스.md "wikilink")》 : [2014년](../Page/2014년.md "wikilink") ([지역MBC 공동 편성](../Page/문화방송.md "wikilink")([부산](../Page/부산문화방송.md "wikilink"), [대구](../Page/대구문화방송.md "wikilink"), [광주](../Page/광주문화방송.md "wikilink"), [대전](../Page/대전문화방송.md "wikilink"), [울산](../Page/울산문화방송.md "wikilink"), [전주](../Page/전주문화방송.md "wikilink")), 수도권 지역 미편성)
   - 《[더 라인](../Page/더_라인.md "wikilink")》 : [2014년](../Page/2014년.md "wikilink") ([지역MBC 공동 편성](../Page/문화방송.md "wikilink")([부산](../Page/부산문화방송.md "wikilink"), [대구](../Page/대구문화방송.md "wikilink"), [광주](../Page/광주문화방송.md "wikilink"), [대전](../Page/대전문화방송.md "wikilink"), [울산](../Page/울산문화방송.md "wikilink"), [전주](../Page/전주문화방송.md "wikilink")), 수도권 지역 미편성)
 
+## 시청률
+
+  - [1990년대](../Page/1990년대.md "wikilink") 후반까지 시청률 인기를 누렸으나, [2000년대](../Page/2000년대.md "wikilink") 초중반 이후부터 [케이블TV](https://ko.wikipedia.org/wiki/케이블TV "wikilink") 채널와 [인터넷](../Page/인터넷.md "wikilink"), [웹하드](https://ko.wikipedia.org/wiki/웹하드 "wikilink"), [콘텐츠](https://ko.wikipedia.org/wiki/콘텐츠 "wikilink") 보급 확산으로 인기가 갈수록 떨어지자, [2010년대](../Page/2010년대.md "wikilink")에 들어서 외화시리즈 작품이 3% 애국가 시청률 저조한 성적이다.
+
 ## 같이 보기
 
   - [해외걸작드라마](../Page/한국방송공사_해외걸작드라마.md "wikilink")(KBS 외화시리즈)

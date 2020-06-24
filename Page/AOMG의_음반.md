@@ -185,6 +185,8 @@
   - 2020년 4월 2일 코드쿤스트 - **PEOPLE**
   - 2020년 4월 9일 Chloe DeVita - **CRÈME**
   - 2020년 4월 25일 박재범 - **\[Digital Single\] All The Way Up**
+  - 2020년 5월 14일 GRAY - **\[Digital Single\] DINGO X GRAY**
+  - 2020년 6월 5일 펀치넬로 - **\[Digital Single\] 우리**
 
 ## 각주
 
@@ -198,9 +200,9 @@
 6.  [마마무](../Page/마마무.md "wikilink")도 앨범 참여.그리고 최초의 OST 앨범.
 7.  박재범의 정규 3집 첫번째 선공개곡.
 8.  박재범의 정규 3집 두번째 선공개곡.
-9.  [여자친구의](../Page/여자친구_\(음악_그룹\).md "wikilink") 멤버 [유주도](../Page/유주_\(1997년\).md "wikilink") 앨범 참여.
+9.  [여자친구의](../Page/여자친구_\(음악_그룹\).md "wikilink") 멤버 [유주도](https://ko.wikipedia.org/wiki/유주_\(1997년_10월\) "wikilink") 앨범 참여.
 10. [바스코](https://ko.wikipedia.org/wiki/바스코_\(래퍼\) "wikilink"), [스토니스컹크](https://ko.wikipedia.org/wiki/스토니스컹크 "wikilink")의 멤버 [스컬도](../Page/스컬_\(가수\).md "wikilink") 앨범 참여.
-11. [여자친구의](../Page/여자친구_\(음악_그룹\).md "wikilink") 멤버 [유주도](../Page/유주_\(1997년\).md "wikilink") 다시 앨범 참여.
+11. [여자친구의](../Page/여자친구_\(음악_그룹\).md "wikilink") 멤버 [유주도](https://ko.wikipedia.org/wiki/유주_\(1997년_10월\) "wikilink") 다시 앨범 참여.
 12. 박재범의 정규 3집 세번째 선공개곡.
 13. 박재범의 정규 3집 네번째 선공개곡.
 14. 박재범의 정규 3집 마지막 선공개곡.
@@ -236,7 +238,7 @@
 44. 펀치넬로 미니 1집의 선공개곡.
 45. [Hit-Boy](https://ko.wikipedia.org/wiki/Hit-Boy "wikilink")도 앨범 참여.
 46. [Sogumm](https://ko.wikipedia.org/wiki/Sogumm "wikilink")도 앨범 참여.
-47. [Yultron](https://ko.wikipedia.org/wiki/Yultron "wikilink")도 앨범 참여.
+47.
 48. [Sik-K](https://ko.wikipedia.org/wiki/Sik-K "wikilink"),[HAON](https://ko.wikipedia.org/wiki/HAON "wikilink"),[pH-1](https://ko.wikipedia.org/wiki/pH-1 "wikilink"),[Woodie Gochild도](https://ko.wikipedia.org/wiki/Woodie_Gochild "wikilink") 앨범 참여.
 49. [Yultron](https://ko.wikipedia.org/wiki/Yultron "wikilink")도 다시 앨범 참여.
 50. [Zene The Zilla](https://ko.wikipedia.org/wiki/Zene_The_Zilla "wikilink"),[영비](https://ko.wikipedia.org/wiki/영비 "wikilink"),[Woodie Gochild외](https://ko.wikipedia.org/wiki/Woodie_Gochild "wikilink") 13명도 앨범 참여.

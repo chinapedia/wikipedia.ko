@@ -7,9 +7,9 @@
 
 SBT의 전신은 [1950년](../Page/1950년.md "wikilink") [9월 18일에](../Page/9월_18일.md "wikilink") 브라질 최초의 [텔레비전 방송국으로](https://ko.wikipedia.org/wiki/텔레비전_방송국 "wikilink") 개국한 [헤지 투피](https://ko.wikipedia.org/wiki/헤지_투피 "wikilink")([:pt:Rede Tupi](https://ko.wikipedia.org/wiki/:pt:Rede_Tupi "wikilink"))이다.
 
-이와 별도로 설립자 [실비오 산토스](https://ko.wikipedia.org/wiki/실비오_산토스 "wikilink")(Silvio Santos)는 1976년 5월 14일에 [리우데자네이루](../Page/리우데자네이루.md "wikilink")에서 TVS (채널 11)란 이름의 방송을 시작하였다.
+이와 별도로 설립자 [실비오 산투스](https://ko.wikipedia.org/wiki/실비오_산투스 "wikilink")(Silvio Santos)는 1976년 5월 14일에 [리우데자네이루](../Page/리우데자네이루.md "wikilink")에서 TVS (채널 11)란 이름의 방송을 시작하였다.
 
-헤지 투피가 [1980년](../Page/1980년.md "wikilink") [7월 18일에](../Page/7월_18일.md "wikilink") 폐국 된 이후 [실비오 산토스는](https://ko.wikipedia.org/wiki/실비오_산토스 "wikilink") 채널을 인수 받아 [1981년](../Page/1981년.md "wikilink") [8월 19일에](../Page/8월_19일.md "wikilink") TVS 상파울루 (채널 4)가 개국하면서 동시에 SBT라는 이름의 방송 네트워크를 출범하였다. 아직 지역국 명칭은 TVS를 계속 사용하였으나, 1990년에 SBT란 브랜드로 통합하였다.
+경영난으로 인해 헤지 투피가 [1980년](../Page/1980년.md "wikilink") [7월 18일에](../Page/7월_18일.md "wikilink") 폐국 된 이후 [실비오 산토스는](https://ko.wikipedia.org/wiki/실비오_산토스 "wikilink") 채널을 인수 받아 [1981년](../Page/1981년.md "wikilink") [8월 19일에](../Page/8월_19일.md "wikilink") TVS 상파울루 (채널 4)가 개국하면서 동시에 SBT라는 이름의 방송 네트워크를 출범하였다. 아직 지역국 명칭은 TVS를 계속 사용하였으나, 1990년에 SBT란 브랜드로 통합하였다.
 
 ## 주요 프로그램
 
@@ -26,7 +26,7 @@ SBT의 전신은 [1950년](../Page/1950년.md "wikilink") [9월 18일에](../Pag
   - [엘리아나](https://ko.wikipedia.org/wiki/엘리아나 "wikilink")()
   - [프로그라마 실비오 산토스](https://ko.wikipedia.org/wiki/프로그라마_실비오_산토스 "wikilink")()
   - [프로그라마 두 라치뉴](https://ko.wikipedia.org/wiki/프로그라마_두_라치니우 "wikilink")()
-  - [프로그라마 하울 질](https://ko.wikipedia.org/wiki/프로그라마_라울_질 "wikilink")()
+  - [프로그라마 하우 지우](https://ko.wikipedia.org/wiki/프로그라마_라울_질 "wikilink")()
   - [더 노이치 콩 다니루 젠칠리](https://ko.wikipedia.org/wiki/더_노이치_컴_다니루_제인지리 "wikilink")( ) (2014 \~ 현재)
 
 ### 어린이

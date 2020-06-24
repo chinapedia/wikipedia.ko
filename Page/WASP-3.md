@@ -18,4 +18,4 @@
 3.  <span class="citation journal" contenteditable="false">Pollacco; Skillen, I.; Collier Cameron, A.; Loeillet, B.; Stempels, H. C.; Bouchy, F.; Gibson, N. P.; Hebb, L. et al. (2008). </span>
 4.  [Planet found tugging on transits](http://www.astronomynow.com/news/n1007/09exo/) , Astronomy Now, 9 July 2010
 5.  <span class="citation arxiv" contenteditable="false">G.Maciejewski; D.Dimitrov; R.Neuhaeuser; A.Niedzielski; St.Raetz; Ch.Ginski; Ch.Adam, C.Marka; M.Moualla; M.Mugrauer (2010). </span>
-6.  <span class="citation journal" contenteditable="false">M Montalto; Gregorio, J.; Boue, G.; Mortier, A.; Boisse, I.; Oshagh, M.; Maturi, M.; Figueira, P.; Sousa, S.; Santos, N. C. (Nov 2, 2012). </span>
+6.

@@ -33,4 +33,4 @@
 
 ## 각주
 
-[BNK금융그룹](https://ko.wikipedia.org/wiki/분류:BNK금융그룹 "wikilink") [분류:2011년 설립된 기업](https://ko.wikipedia.org/wiki/분류:2011년_설립된_기업 "wikilink")
+[BNK금융그룹](https://ko.wikipedia.org/wiki/분류:BNK금융그룹 "wikilink") [분류:2011년 설립된 기업](https://ko.wikipedia.org/wiki/분류:2011년_설립된_기업 "wikilink") [분류:비씨카드](https://ko.wikipedia.org/wiki/분류:비씨카드 "wikilink")

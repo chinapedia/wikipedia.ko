@@ -1,8 +1,6 @@
 > This article is converted from Wikipedia: [한화생명 e스포츠](https://ko.wikipedia.org/wiki/한화생명_e스포츠).
 
 
-  - **카트라이더 팀은 스틸에잇이 운영하는 것이고 네이밍 스폰만 맏고 있는 것이다.**
-
 **한화생명 e스포츠**(Hanwha Life Esports)는 대한민국의 [리그 오브 레전드와](../Page/리그_오브_레전드.md "wikilink") [카트라이더](https://ko.wikipedia.org/wiki/카트라이더 "wikilink") [프로게임단](https://ko.wikipedia.org/wiki/프로게임단 "wikilink")이다.
 
 ## 개요
@@ -35,23 +33,27 @@
 
 ### 카트라이더
 
-  - 2019년 8월 5일 카트라이더 프로게임단 창단
-  - 2019년 11월 9일 [2019 KT 5G 멀티뷰 카트라이더 리그 시즌 2](https://ko.wikipedia.org/wiki/2019_KT_5G_멀티뷰_카트라이더_리그_시즌_2 "wikilink") 준우승 (VS [샌드박스 게이밍](https://ko.wikipedia.org/wiki/샌드박스_네트워크 "wikilink") 0-2)
+  - 2019년 8월 5일 카트라이더팀 창단
+  - 2019년 11월 9일 [2019 KT 5G 멀티뷰 카트라이더 리그 시즌 2](../Page/2019_KT_5G_멀티뷰_카트라이더_리그_시즌_2.md "wikilink") 준우승 (VS [샌드박스 게이밍](https://ko.wikipedia.org/wiki/샌드박스_게이밍 "wikilink") 0-2)
+  - 2020년 5월 23일 **[2020 SKT JUMP 카트라이더 리그 시즌 1](https://ko.wikipedia.org/wiki/2020_SKT_JUMP_카트라이더_리그_시즌_1 "wikilink") 우승** (VS [ROX](https://ko.wikipedia.org/wiki/ROX_게이밍 "wikilink") 2-1)
 
 ## 소속 선수
 
 ### 리그 오브 레전드
 
-| 이름  | 소환사명    | 포지션   |  |
-| --- | ------- | ----- |  |
-| 이성진 | CuVee   | 탑     |  |
-| 강민승 | Haru    | 정글    |  |
-| 김태훈 | Lava    | 미드    |  |
-| 강명구 | Tempt   | 미드    |  |
-| 전태권 | Zenit   | AD 캐리 |  |
-| 오효성 | Vsta    | AD 캐리 |  |
-| 손시우 | Lehends | 서포터   |  |
-|     |         |       |  |
+| 이름  | 소환사명     | 포지션   |  |
+| --- | -------- | ----- |  |
+| 이성진 | CuVee    | 탑     |  |
+| 이동주 | DuDu     | 탑     |  |
+| 강민승 | Haru     | 정글    |  |
+| 조성용 | Cad      | 정글    |  |
+| 고영재 | Yeongjae | 정글    |  |
+| 김태훈 | Lava     | 미드    |  |
+| 정조빈 | Mireu    | 미드    |  |
+| 박도현 | Viper    | AD 캐리 |  |
+| 오효성 | Vsta     | AD 캐리 |  |
+| 손시우 | Lehends  | 서포터   |  |
+|     |          |       |  |
 
 ### 카트라이더
 
@@ -92,6 +94,7 @@
 
   - [코카콜라 제로 리그 오브 레전드 챔피언스 코리아 서머 2016](../Page/코카콜라_제로_리그_오브_레전드_챔피언스_코리아_서머_2016.md "wikilink")
   - [2016 LoL KeSPA컵](../Page/2016_LoL_KeSPA컵.md "wikilink")
+  - [2020 SKT JUMP 카트라이더 리그 시즌 1](https://ko.wikipedia.org/wiki/2020_SKT_JUMP_카트라이더_리그_시즌_1 "wikilink")
 
 ## 각주
 

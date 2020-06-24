@@ -19,7 +19,7 @@ zip 폭탄은 극단적인 압축률을 이루기 위해 파일 대부분이 반
 
 2019년 7월 2일, 재귀적인 방법을 사용하지 않으면서 [파일 헤더와](https://ko.wikipedia.org/wiki/파일_헤더 "wikilink") 내용을 서로 겹쳐 쓰는 방식으로 작성한 zip 폭탄이 제시되었다. 이 파일은 압축 상태에서 10MB 정도이지만 압축을 풀면 281TB의 파일이 한꺼번에 튀어나온다.\[6\]
 
-## 더 보기
+## 같이 보기
 
   - [빌리언 러프](https://ko.wikipedia.org/wiki/빌리언_러프 "wikilink")(Billion laughs) - XML 파서에서의 비슷한 공격
   - [메일폭탄](https://ko.wikipedia.org/wiki/메일폭탄 "wikilink")
@@ -33,7 +33,7 @@ zip 폭탄은 극단적인 압축률을 이루기 위해 파일 대부분이 반
 
   - ["DoS risk from Zip of death attacks on AV software?"](http://www.theregister.co.uk/2001/07/23/dos_risk_from_zip/), 2001 story on "The Register"
   - ["Zip Files All The Way Down"](http://research.swtch.com/zip), 2010
-  - [ZIP File Quine](http://www.steike.com/code/useless/zip-file-quine/)
+  - [ZIP File Quine](https://web.archive.org/web/20120519020322/http://steike.com/code/useless/zip-file-quine/)
   - [Zip Bomb](https://web.archive.org/web/20141231095149/http://xeushack.com/tutorials/initiation/ZipBomb#welcome)
   - [42.zip](http://www.unforgettable.dk/) and [42.zip](http://www.securityfocus.com/bid/3027/exploit/)
   - [Decompression bomb vulnerabilities](http://www.aerasec.de/security/advisories/decompression-bomb-vulnerability.html)

@@ -232,7 +232,7 @@
 
 <references/>
 
-[분류:2011년 음반](https://ko.wikipedia.org/wiki/분류:2011년_음반 "wikilink") [분류:제이 지의 음반](https://ko.wikipedia.org/wiki/분류:제이_지의_음반 "wikilink") [분류:카니예 웨스트의 음반](https://ko.wikipedia.org/wiki/분류:카니예_웨스트의_음반 "wikilink") [분류:영어 음반](https://ko.wikipedia.org/wiki/분류:영어_음반 "wikilink") [분류:힙합 음반](https://ko.wikipedia.org/wiki/분류:힙합_음반 "wikilink") [분류:데프잼 레코드 음반](https://ko.wikipedia.org/wiki/분류:데프잼_레코드_음반 "wikilink") [분류:미국의 음반](https://ko.wikipedia.org/wiki/분류:미국의_음반 "wikilink") [분류:미국의 1위 음반](https://ko.wikipedia.org/wiki/분류:미국의_1위_음반 "wikilink") [분류:카니예 웨스트가 프로듀싱한 음반](https://ko.wikipedia.org/wiki/분류:카니예_웨스트가_프로듀싱한_음반 "wikilink")
+[분류:2011년 음반](https://ko.wikipedia.org/wiki/분류:2011년_음반 "wikilink") [분류:제이 지의 음반](https://ko.wikipedia.org/wiki/분류:제이_지의_음반 "wikilink") [분류:카녜이 웨스트의 음반](https://ko.wikipedia.org/wiki/분류:카녜이_웨스트의_음반 "wikilink") [분류:영어 음반](https://ko.wikipedia.org/wiki/분류:영어_음반 "wikilink") [분류:힙합 음반](https://ko.wikipedia.org/wiki/분류:힙합_음반 "wikilink") [분류:데프잼 레코드 음반](https://ko.wikipedia.org/wiki/분류:데프잼_레코드_음반 "wikilink") [분류:미국의 음반](https://ko.wikipedia.org/wiki/분류:미국의_음반 "wikilink") [분류:미국의 1위 음반](https://ko.wikipedia.org/wiki/분류:미국의_1위_음반 "wikilink") [분류:카녜이 웨스트가 프로듀싱한 음반](https://ko.wikipedia.org/wiki/분류:카녜이_웨스트가_프로듀싱한_음반 "wikilink")
 
 1.  Pendergast (2006), p. 174.
 2.

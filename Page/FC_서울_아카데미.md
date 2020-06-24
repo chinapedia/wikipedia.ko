@@ -667,7 +667,7 @@ FC 서울은 U-18팀으로 2012년 12월 창단한 [오산고등학교 축구부
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/K리그_2010" title="wikilink">2010</a></p></td>
 <td><p><a href="../Page/정승용.md" title="wikilink">정승용</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/송민규_(1991년생_축구_선수)" title="wikilink">송승주</a></p></td>
+<td><p><a href="../Page/송민규_(1991년생_축구_선수).md" title="wikilink">송승주</a></p></td>
 <td><p><a href="../Page/이광진.md" title="wikilink">이광진</a></p></td>
 <td><p><a href="../Page/조민우.md" title="wikilink">조민우</a> (대)</p></td>
 <td><div style="text-align: center;">

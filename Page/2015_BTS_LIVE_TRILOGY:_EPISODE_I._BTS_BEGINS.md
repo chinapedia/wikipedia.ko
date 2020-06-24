@@ -23,7 +23,7 @@
 </tr>
 <tr class="even">
 <td><p>2015년 3월 28일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/서울" title="wikilink">서울</a></p></td>
+<td><p><a href="../Page/서울특별시.md" title="wikilink">서울</a></p></td>
 <td></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/올림픽공원" title="wikilink">올림픽 공원 올림픽 홀</a></p></td>
 </tr>

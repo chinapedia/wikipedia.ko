@@ -35,7 +35,7 @@
 (水色の時)</p></td>
 <td><p>1975년</p></td>
 <td><p>4월 7일</p></td>
-<td><p>나가노 현 <a href="https://ko.wikipedia.org/wiki/마쓰모토_시" title="wikilink">마쓰모토 시</a><br />
+<td><p>나가노 현 <a href="../Page/마쓰모토시.md" title="wikilink">마쓰모토시</a><br />
 도쿄 도</p></td>
 <td><p>도쿄</p></td>
 <td><p>이시모리 후미오<br />
@@ -144,7 +144,7 @@
 (いちばん星)</p></td>
 <td><p>1977년</p></td>
 <td><p>4월 4일</p></td>
-<td><p><a href="../Page/야마가타현.md" title="wikilink">야마가타현</a> <a href="https://ko.wikipedia.org/wiki/덴도_시" title="wikilink">덴도 시</a></p></td>
+<td><p><a href="../Page/야마가타현.md" title="wikilink">야마가타현</a> <a href="../Page/덴도시.md" title="wikilink">덴도시</a></p></td>
 <td><p>도쿄</p></td>
 <td><p>유키 료이치<br />
 (結城 亮一)</p></td>
@@ -172,8 +172,8 @@
 <td><p><strong>풍향계</strong><br />
 (風見鶏)</p></td>
 <td><p>1977년 10월 3일</p></td>
-<td><p><a href="../Page/효고현.md" title="wikilink">효고현</a> <a href="https://ko.wikipedia.org/wiki/고베_시" title="wikilink">고베 시</a><br />
-<a href="../Page/와카야마현.md" title="wikilink">와카야마현</a> <a href="https://ko.wikipedia.org/wiki/다이지_정" title="wikilink">다이지 정</a></p></td>
+<td><p><a href="../Page/효고현.md" title="wikilink">효고현</a> <a href="../Page/고베시.md" title="wikilink">고베시</a><br />
+<a href="../Page/와카야마현.md" title="wikilink">와카야마현</a> <a href="../Page/다이지정.md" title="wikilink">다이지정</a></p></td>
 <td><p>오사카</p></td>
 <td><p>스기하라 기호<br />
 (杉山 義法)</p></td>
@@ -279,7 +279,7 @@
 <td><p><strong>은어의 노래</strong><br />
 (鮎のうた)</p></td>
 <td><p>1979년 10월 1일</p></td>
-<td><p><a href="../Page/시가현.md" title="wikilink">시가현</a> <a href="https://ko.wikipedia.org/wiki/나가하마_시" title="wikilink">나가하마 시</a><br />
+<td><p><a href="../Page/시가현.md" title="wikilink">시가현</a> <a href="../Page/나가하마시.md" title="wikilink">나가하마시</a><br />
 오사카 부 <a href="https://ko.wikipedia.org/wiki/주오_구_(오사카_시)" title="wikilink">센바</a></p></td>
 <td><p>오사카</p></td>
 <td><p>하나토 고바코<br />

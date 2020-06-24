@@ -59,7 +59,7 @@ RSI가 70% 이상으로 높아지면 과매수권으로 분류하는 것은, 많
 
 RSI는 개념과 계산 방식이 [스토캐스틱](../Page/스토캐스틱.md "wikilink")과 크게 다르지 않다. 따라서 위에 기술한 RSI의 사용 방법을 [스토캐스틱](../Page/스토캐스틱.md "wikilink")에 적용하여 매매전략으로 사용하는 경우도 많이 있다.
 
-## 참고문헌
+## 참고 문헌
 
   - [RSI( Relative Strength Index ) - 삼성선물](http://www.ssfutures.com/download/pdf/index/RSI.pdf)
   - [트레이더 최고의 무기, RSI 상대강도지수](https://web.archive.org/web/20180330212602/http://traderk10.tistory.com/119)

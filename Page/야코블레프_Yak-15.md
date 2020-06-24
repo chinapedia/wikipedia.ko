@@ -47,4 +47,4 @@
   - Gunston, Bill and Gordon, Yefim. *Yakovlev Aircraft Since 1924*. London: Putnam Aeronautical Books, 1997.
   - Mikolajczuk, Marian. *Yakovlev Yak-23: The First Yakovlev Jet Fighters*. Sandomirez, Poland: Stratus, 2008.
 
-[분류:야코블레프 항공기](https://ko.wikipedia.org/wiki/분류:야코블레프_항공기 "wikilink") [분류:소련 및 러시아의 전투기](https://ko.wikipedia.org/wiki/분류:소련_및_러시아의_전투기 "wikilink") [분류:1946년 첫 비행한 항공기](https://ko.wikipedia.org/wiki/분류:1946년_첫_비행한_항공기 "wikilink") [분류:단발 제트기](https://ko.wikipedia.org/wiki/분류:단발_제트기 "wikilink")
+[분류:야코블레프 항공기](https://ko.wikipedia.org/wiki/분류:야코블레프_항공기 "wikilink") [분류:소련 및 러시아의 전투기](https://ko.wikipedia.org/wiki/분류:소련_및_러시아의_전투기 "wikilink") [분류:1946년 첫 비행한 항공기](https://ko.wikipedia.org/wiki/분류:1946년_첫_비행한_항공기 "wikilink") [분류:단발 제트기](https://ko.wikipedia.org/wiki/분류:단발_제트기 "wikilink") [분류:저익기](https://ko.wikipedia.org/wiki/분류:저익기 "wikilink")

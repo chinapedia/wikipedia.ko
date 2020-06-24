@@ -13,4 +13,4 @@
 
   - [인터 마이애미 CF](../Page/인터_마이애미_CF.md "wikilink")
 
-[분류:2015년 설립된 축구단](https://ko.wikipedia.org/wiki/분류:2015년_설립된_축구단 "wikilink") [분류:북미 사커 리그 구단](https://ko.wikipedia.org/wiki/분류:북미_사커_리그_구단 "wikilink")
+[분류:2015년 설립된 축구단](https://ko.wikipedia.org/wiki/분류:2015년_설립된_축구단 "wikilink") [분류:북미 사커 리그 구단](https://ko.wikipedia.org/wiki/분류:북미_사커_리그_구단 "wikilink") [분류:플로리다주의 축구단](https://ko.wikipedia.org/wiki/분류:플로리다주의_축구단 "wikilink")

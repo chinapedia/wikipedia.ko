@@ -137,7 +137,7 @@
 <td><p>13</p></td>
 <td><p>2011.12.2</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/덕_앤_호버" title="wikilink">덕 앤 호버</a></p></td>
-<td><p>보너스 스테이지</br><a href="https://ko.wikipedia.org/wiki/버블보블" title="wikilink">버블보블</a></p></td>
+<td><p>보너스 스테이지</br><a href="../Page/버블보블.md" title="wikilink">버블보블</a></p></td>
 <td><p><a href="../Page/서커스_찰리.md" title="wikilink">서커스 찰리</a></p></td>
 <td><p>G맨 3호기 <a href="https://ko.wikipedia.org/wiki/뷜랑" title="wikilink">뷜랑</a> 등장</br>보너스 스테이지 종료</p></td>
 </tr>

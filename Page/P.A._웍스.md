@@ -86,7 +86,7 @@ P.A. Works에서 P.A.는 "**P**rogressive **A**nimation"의 [약자이다](https
 ## 같이 보기
 
   - [도야마현](../Page/도야마현.md "wikilink")
-  - [난토 시](https://ko.wikipedia.org/wiki/난토_시 "wikilink")
+  - [난토시](../Page/난토시.md "wikilink")
 
 ## 각주
 
@@ -94,7 +94,7 @@ P.A. Works에서 P.A.는 "**P**rogressive **A**nimation"의 [약자이다](https
 
   -
 
-[분류:2002년 설립](https://ko.wikipedia.org/wiki/분류:2002년_설립 "wikilink") [P.A._웍스](https://ko.wikipedia.org/wiki/분류:P.A._웍스 "wikilink") [분류:일본의 애니메이션 제작 기업](https://ko.wikipedia.org/wiki/분류:일본의_애니메이션_제작_기업 "wikilink")
+[P.A._웍스](https://ko.wikipedia.org/wiki/분류:P.A._웍스 "wikilink") [분류:2002년 설립](https://ko.wikipedia.org/wiki/분류:2002년_설립 "wikilink") [분류:일본의 애니메이션 제작 기업](https://ko.wikipedia.org/wiki/분류:일본의_애니메이션_제작_기업 "wikilink")
 
 1.  당시 [도야마현](../Page/도야마현.md "wikilink")의 지명은 "엣츄()"이다.
 2.

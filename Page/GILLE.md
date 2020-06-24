@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [GILLE](https://ko.wikipedia.org/wiki/GILLE).
 
 
-**GILLE**(ジル, [1987년](../Page/1987년.md "wikilink") [1월 4일](../Page/1월_4일.md "wikilink")\[1\] - )는 일본 [미야자키현](../Page/미야자키현.md "wikilink") [사이토 시](https://ko.wikipedia.org/wiki/사이토_시 "wikilink") 출신의 [가수](https://ko.wikipedia.org/wiki/가수 "wikilink")이다. [2011년](../Page/2011년.md "wikilink"), **TASHA gee**명의로 CD데뷔하였고, 2012년부터 현재의 예명을 사용한다.
+**GILLE**(ジル, [1987년](../Page/1987년.md "wikilink") [1월 4일](../Page/1월_4일.md "wikilink")\[1\] - )는 일본 [미야자키현](../Page/미야자키현.md "wikilink") [사이토시](../Page/사이토시.md "wikilink") 출신의 [가수](https://ko.wikipedia.org/wiki/가수 "wikilink")이다. [2011년](../Page/2011년.md "wikilink"), **TASHA gee**명의로 CD데뷔하였고, 2012년부터 현재의 예명을 사용한다.
 
 ## 인물
 

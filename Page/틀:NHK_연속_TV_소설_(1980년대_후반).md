@@ -32,7 +32,7 @@
 (澪つくし)</p></td>
 <td><p>1985년</p></td>
 <td><p>4월 1일</p></td>
-<td><p><a href="../Page/지바현.md" title="wikilink">지바현</a> <a href="https://ko.wikipedia.org/wiki/조시_시" title="wikilink">조시 시</a></p></td>
+<td><p><a href="../Page/지바현.md" title="wikilink">지바현</a> <a href="../Page/조시시.md" title="wikilink">조시시</a></p></td>
 <td><p>제임스 미키<br />
 (ジェームス 三木)</p></td>
 <td><p><a href="../Page/사와구치_야스코.md" title="wikilink">사와구치 야스코</a></p></td>
@@ -113,9 +113,9 @@
 <td><p><strong>수도의 바람</strong><br />
 (都の風)</p></td>
 <td><p>1986년 10월 6일</p></td>
-<td><p><a href="../Page/교토부.md" title="wikilink">교토부</a> <a href="https://ko.wikipedia.org/wiki/교토_시" title="wikilink">교토 시</a><br />
+<td><p><a href="../Page/교토부.md" title="wikilink">교토부</a> <a href="../Page/교토시.md" title="wikilink">교토시</a><br />
 오사카 부 오사카 시<br />
-<a href="../Page/나라현.md" title="wikilink">나라현</a> <a href="https://ko.wikipedia.org/wiki/나라_시" title="wikilink">나라 시</a></p></td>
+<a href="../Page/나라현.md" title="wikilink">나라현</a> <a href="../Page/나라시.md" title="wikilink">나라시</a></p></td>
 <td><p>시게모리 다카코<br />
 (重森 孝子)</p></td>
 <td><p>가노 미유키<br />
@@ -143,7 +143,7 @@
 (チョッちゃん)</p></td>
 <td><p>1987년</p></td>
 <td><p>4월 6일</p></td>
-<td><p>홋카이도 <a href="https://ko.wikipedia.org/wiki/다키카와_시" title="wikilink">다키카와 시</a><br />
+<td><p>홋카이도 <a href="../Page/다키카와시.md" title="wikilink">다키카와시</a><br />
 도쿄 도</p></td>
 <td><p>구로야나기 조<br />
 (黒柳 朝)</p></td>
@@ -169,7 +169,7 @@
 <td><p>1987년 10월 5일</p></td>
 <td><p>교토 부<br />
 오사카 부 오사카 시<br />
-시가 현 <a href="https://ko.wikipedia.org/wiki/오미하치만_시" title="wikilink">오미하치만 시</a></p></td>
+시가 현 <a href="../Page/오미하치만시.md" title="wikilink">오미하치만시</a></p></td>
 <td><p>다카하시 마사쿠니<br />
 (高橋 正圀)</p></td>
 <td><p>와카무라 마유미<br />
@@ -277,8 +277,8 @@
 (和っこの金メダル)</p></td>
 <td><p>1989년 10월 2일</p></td>
 <td><p>야마구치 현<br />
-오사카 부 <a href="https://ko.wikipedia.org/wiki/기시와다_시" title="wikilink">기시와다 시</a><br />
-오사카 부 <a href="https://ko.wikipedia.org/wiki/사카이_시_(오사카_부)" title="wikilink">사카이 시</a></p></td>
+오사카 부 <a href="../Page/기시와다시.md" title="wikilink">기시와다시</a><br />
+오사카 부 <a href="../Page/사카이시_(오사카부).md" title="wikilink">사카이시</a></p></td>
 <td><p>시게모리 다카코<br />
 (重森 孝子)</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/와타나베_아즈사" title="wikilink">와타나베 아즈사</a></p></td>

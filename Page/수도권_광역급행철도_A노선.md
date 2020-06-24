@@ -63,7 +63,7 @@
 <th><p>영업<br />
 거리</p></th>
 <th><p>소재지</p></th>
-<th></th>
+<th><p>역 좌표</p></th>
 </tr>
 </thead>
 <tbody>

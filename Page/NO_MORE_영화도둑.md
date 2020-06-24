@@ -64,4 +64,4 @@
 7.
 8.
 9.  [マイクポップコーン × NO MORE映画泥棒 スペシャルムービー 「ポップコーンダンス」篇](https://www.youtube.com/watch?v=589UyzClGdc&feature=youtu.be)
-10. 그러나, 제 1버전에서는 [사이렌](https://ko.wikipedia.org/wiki/사이렌 "wikilink") 소리와 함께 붉은 빛이 나오는 장면이 있다.
+10. 그러나, 제 1버전에서는 [사이렌](../Page/사이렌.md "wikilink") 소리와 함께 붉은 빛이 나오는 장면이 있다.

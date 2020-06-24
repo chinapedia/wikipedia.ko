@@ -813,7 +813,7 @@
 <a href="../Page/에네르_발렌시아.md" title="wikilink">에네르 발렌시아</a> (에콰도르)</p>
 <p><strong>부심:</strong><br />
 하칸 아나즈 (<a href="https://ko.wikipedia.org/wiki/오스트레일리아_축구_연맹" title="wikilink">오스트레일리아</a>)<br />
-매슈 크림 (<a href="https://ko.wikipedia.org/wiki/오스트레일리아_축구_연맹" title="wikilink">오스트레일리아</a>)<br />
+<a href="https://ko.wikipedia.org/wiki/매슈_크림" title="wikilink">매슈 크림</a> (<a href="https://ko.wikipedia.org/wiki/오스트레일리아_축구_연맹" title="wikilink">오스트레일리아</a>)<br />
 <strong>대기심:</strong><br />
 <a href="../Page/니시무라_유이치.md" title="wikilink">니시무라 유이치</a> (<a href="https://ko.wikipedia.org/wiki/일본_축구_협회" title="wikilink">일본</a>)<br />
 <strong>후보 대기심:</strong><br />

@@ -5,7 +5,7 @@
 
 ## 개요
 
-  - 2011년 4월 17일에 데뷔한 [후쿠오카현](../Page/후쿠오카현.md "wikilink") [후쿠오카 시를](https://ko.wikipedia.org/wiki/후쿠오카_시 "wikilink") 거점으로 활동하는 일본의 그룹이다.
+  - 2011년 4월 17일에 데뷔한 [후쿠오카현](../Page/후쿠오카현.md "wikilink") [후쿠오카시](../Page/후쿠오카시.md "wikilink")를 거점으로 활동하는 일본의 그룹이다.
 
 ## 구성원
 
@@ -264,6 +264,6 @@ WPBL-90226/7</p></td>
 
   - [LinQ 공식사이트](http://loveinq.com/)
 
-[분류:일본의 아이돌 그룹](https://ko.wikipedia.org/wiki/분류:일본의_아이돌_그룹 "wikilink") [분류:일본의 팝 음악 그룹](https://ko.wikipedia.org/wiki/분류:일본의_팝_음악_그룹 "wikilink") [분류:일본의 걸 그룹](https://ko.wikipedia.org/wiki/분류:일본의_걸_그룹 "wikilink") [분류:2011년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2011년_결성된_음악_그룹 "wikilink") [분류:2011년 데뷔](https://ko.wikipedia.org/wiki/분류:2011년_데뷔 "wikilink") [분류:워너 뮤직 재팬의 음악가](https://ko.wikipedia.org/wiki/분류:워너_뮤직_재팬의_음악가 "wikilink") [분류:후쿠오카시의 문화](https://ko.wikipedia.org/wiki/분류:후쿠오카시의_문화 "wikilink")
+[분류:일본의 아이돌 그룹](https://ko.wikipedia.org/wiki/분류:일본의_아이돌_그룹 "wikilink") [분류:일본의 팝 음악 그룹](https://ko.wikipedia.org/wiki/분류:일본의_팝_음악_그룹 "wikilink") [분류:일본의 걸 그룹](https://ko.wikipedia.org/wiki/분류:일본의_걸_그룹 "wikilink") [분류:2011년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2011년_결성된_음악_그룹 "wikilink") [분류:워너 뮤직 재팬의 음악가](https://ko.wikipedia.org/wiki/분류:워너_뮤직_재팬의_음악가 "wikilink") [분류:후쿠오카시의 문화](https://ko.wikipedia.org/wiki/분류:후쿠오카시의_문화 "wikilink")
 
 1.  [네이버](http://people.search.naver.com/search.naver?where=nexearch&query=%EB%A6%B0%ED%81%90&sm=tab_etc&ie=utf8&key=PeopleService&os=557815)

@@ -13,7 +13,7 @@ IgE는 1966년 [존스홉킨스](https://ko.wikipedia.org/wiki/존스홉킨스 "
 
 ## 수용체
 
-IgE는 [비만 세포와](https://ko.wikipedia.org/wiki/비만_세포 "wikilink") [호염기구](https://ko.wikipedia.org/wiki/호염기구 "wikilink") 표면에 있는 [Fc 수용체에](https://ko.wikipedia.org/wiki/Fc_수용체 "wikilink") 결합하여 IgE 매개 알레르기 반응을 개시한다. 사람의 Fc 수용체는 [호산구](https://ko.wikipedia.org/wiki/호산구 "wikilink"), [단핵구](https://ko.wikipedia.org/wiki/단핵구 "wikilink"), [대식세포](../Page/대식세포.md "wikilink") 및 [혈소판](../Page/혈소판.md "wikilink")에도 존재한다. Fcε 수용체는 두 종류가 있다.
+IgE는 [비만 세포와](https://ko.wikipedia.org/wiki/비만_세포 "wikilink") [호염기구](https://ko.wikipedia.org/wiki/호염기구 "wikilink") 표면에 있는 [Fc 수용체에](https://ko.wikipedia.org/wiki/Fc_수용체 "wikilink") 결합하여 IgE 매개 알레르기 반응을 개시한다. 사람의 Fc 수용체는 [호산구](https://ko.wikipedia.org/wiki/호산구 "wikilink"), [단핵구](../Page/단핵구.md "wikilink"), [대식세포](../Page/대식세포.md "wikilink") 및 [혈소판](../Page/혈소판.md "wikilink")에도 존재한다. Fcε 수용체는 두 종류가 있다.
 
   - FcεRI (제I형 Fcε 수용체)는 IgE에 친화성이 높은 IgE 수용체이다.
   - FcεRII (제II형 Fcε 수용체)는 [CD23](https://ko.wikipedia.org/wiki/CD23 "wikilink")이라고도 하며 친화성이 낮은 IgE 수용체이다.

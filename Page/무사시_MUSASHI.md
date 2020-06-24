@@ -97,7 +97,7 @@
   - 의상고증: 고이즈미 기요코
   - 제목의 글씨: 요시카와 쥬이치
   - 무술지도: 하야시 구니시로
-  - 촬영협조: [이바라키현](../Page/이바라키현.md "wikilink"), [오카야마현](../Page/오카야마현.md "wikilink"), [효고현](../Page/효고현.md "wikilink") [히메지 시](https://ko.wikipedia.org/wiki/히메지_시 "wikilink"), [구마모토현](../Page/구마모토현.md "wikilink"), [후쿠이현](../Page/후쿠이현.md "wikilink") 등
+  - 촬영협조: [이바라키현](../Page/이바라키현.md "wikilink"), [오카야마현](../Page/오카야마현.md "wikilink"), [효고현](../Page/효고현.md "wikilink") [히메지시](../Page/히메지시.md "wikilink"), [구마모토현](../Page/구마모토현.md "wikilink"), [후쿠이현](../Page/후쿠이현.md "wikilink") 등
   - 제작총괄: 이치이 히사시, 후루카와 호이치로
   - 미술: 아라이 게이, 곤도 도모
   - 기술: 가와사키 가즈히코

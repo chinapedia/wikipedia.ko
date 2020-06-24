@@ -43,4 +43,4 @@ NPO 라디오 1의 전신은 1947년에 개국한 **힐베르쉼 2**였다. 1985
 
   - [오디오스트림](http://icecast.omroep.nl/radio1-bb-mp3) ([mp3](https://ko.wikipedia.org/wiki/mp3 "wikilink"))
 
-[분류:네덜란드의 라디오](https://ko.wikipedia.org/wiki/분류:네덜란드의_라디오 "wikilink") [분류:네덜란드 공영 방송](https://ko.wikipedia.org/wiki/분류:네덜란드_공영_방송 "wikilink") [분류:1919년 설립된 라디오 방송국](https://ko.wikipedia.org/wiki/분류:1919년_설립된_라디오_방송국 "wikilink")
+[분류:네덜란드의 라디오](https://ko.wikipedia.org/wiki/분류:네덜란드의_라디오 "wikilink") [분류:네덜란드 공영 방송](https://ko.wikipedia.org/wiki/분류:네덜란드_공영_방송 "wikilink") [분류:1947년 설립된 라디오 방송국](https://ko.wikipedia.org/wiki/분류:1947년_설립된_라디오_방송국 "wikilink")

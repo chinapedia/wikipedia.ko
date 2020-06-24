@@ -21,7 +21,7 @@ MAVEN은 [애틀러스 V](../Page/애틀러스_V.md "wikilink") 로켓에 탑재
 
 ## 각주
 
-[분류:2013년 우주 개발](https://ko.wikipedia.org/wiki/분류:2013년_우주_개발 "wikilink") [분류:2013년 미국](https://ko.wikipedia.org/wiki/분류:2013년_미국 "wikilink") [분류:화성 탐사선](https://ko.wikipedia.org/wiki/분류:화성_탐사선 "wikilink") [분류:NASA의 우주 탐사선](https://ko.wikipedia.org/wiki/분류:NASA의_우주_탐사선 "wikilink")
+[분류:2013년 우주 개발](https://ko.wikipedia.org/wiki/분류:2013년_우주_개발 "wikilink") [분류:2013년 미국](https://ko.wikipedia.org/wiki/분류:2013년_미국 "wikilink") [분류:화성 탐사선](https://ko.wikipedia.org/wiki/분류:화성_탐사선 "wikilink") [분류:미국 항공 우주국의 우주 탐사선](https://ko.wikipedia.org/wiki/분류:미국_항공_우주국의_우주_탐사선 "wikilink")
 
 1.
 2.

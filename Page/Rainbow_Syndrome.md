@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [Rainbow Syndrome](https://ko.wikipedia.org/wiki/Rainbow_Syndrome).
 
 
-《**Rainbow Syndrome**》은 [대한민국](../Page/대한민국.md "wikilink")의 [걸 그룹](../Page/걸_그룹.md "wikilink") [레인보우의](https://ko.wikipedia.org/wiki/레인보우_\(음악_그룹\) "wikilink") 첫 번째 정규 음반이다. 2013년 2월 13일에 선행파트인《*Rainbow Syndrome Part.1*》과 2013년 6월4일에 후행파트인《*Rainbow Syndrome Part.2*》로 나누어 발매했다.
+《**Rainbow Syndrome**》은 [대한민국](../Page/대한민국.md "wikilink")의 [걸 그룹](../Page/걸_그룹.md "wikilink") [레인보우의](../Page/레인보우_\(대한민국의_음악_그룹\).md "wikilink") 첫 번째 정규 음반이다. 2013년 2월 13일에 선행파트인《*Rainbow Syndrome Part.1*》과 2013년 6월 4일에 후행파트인《*Rainbow Syndrome Part.2*》로 나누어 발매했다.
 
-## *Rainbow Syndrome Part.1*
+## Rainbow Syndrome Part.1
 
 ### 배경
 
@@ -14,11 +14,11 @@
 
 ### 구성
 
-2단 하드팩 종이 케이스이며 멤버별 사진, 가사집 및 크레딧을 포함한 총 56매의 부클릿이 수록되어있고 추가사진과 영상 콘텐츠 연결을 위한 스마트폰 애플리케이션용 [QR 코드](../Page/QR_코드.md "wikilink") 및 [NFC](../Page/근거리_무선_통신.md "wikilink") 태그가 들어있다.
+2단 하드팩 종이 케이스이며 멤버별 사진, 가사집 및 크레딧을 포함한 총 56매의 부클릿이 수록되어 있고 추가사진과 영상 콘텐츠 연결을 위한 스마트폰 애플리케이션용 [QR 코드](../Page/QR_코드.md "wikilink") 및 [NFC](../Page/근거리_무선_통신.md "wikilink") 태그가 들어 있다.
 
 ### 수록곡
 
-## *Rainbow Syndrome Part.2*
+## Rainbow Syndrome Part.2
 
 ### 배경
 
@@ -35,4 +35,4 @@
 
 ## 외부 링크
 
-[분류:레인보우(대한민국의 음악 그룹)의 음반](https://ko.wikipedia.org/wiki/분류:레인보우\(대한민국의_음악_그룹\)의_음반 "wikilink") [분류:2013년 음반](https://ko.wikipedia.org/wiki/분류:2013년_음반 "wikilink") [분류:DSP 미디어 음반](https://ko.wikipedia.org/wiki/분류:DSP_미디어_음반 "wikilink") [Rainbow Syndrome, Part 1](https://ko.wikipedia.org/wiki/분류:엠넷_미디어_음반 "wikilink") [분류:카카오엠 음반](https://ko.wikipedia.org/wiki/분류:카카오엠_음반 "wikilink") [분류:K-pop 음반](https://ko.wikipedia.org/wiki/분류:K-pop_음반 "wikilink") [분류:대한민국의 팝 음반](https://ko.wikipedia.org/wiki/분류:대한민국의_팝_음반 "wikilink") [분류:한국어 음반](https://ko.wikipedia.org/wiki/분류:한국어_음반 "wikilink")
+[분류:레인보우 (밴드)의 음반](https://ko.wikipedia.org/wiki/분류:레인보우_\(밴드\)의_음반 "wikilink") [분류:2013년 음반](https://ko.wikipedia.org/wiki/분류:2013년_음반 "wikilink") [분류:DSP 미디어 음반](https://ko.wikipedia.org/wiki/분류:DSP_미디어_음반 "wikilink") [Rainbow Syndrome, Part 1](https://ko.wikipedia.org/wiki/분류:엠넷_미디어_음반 "wikilink") [분류:카카오엠 음반](https://ko.wikipedia.org/wiki/분류:카카오엠_음반 "wikilink") [분류:K-pop 음반](https://ko.wikipedia.org/wiki/분류:K-pop_음반 "wikilink") [분류:대한민국의 팝 음반](https://ko.wikipedia.org/wiki/분류:대한민국의_팝_음반 "wikilink") [분류:한국어 음반](https://ko.wikipedia.org/wiki/분류:한국어_음반 "wikilink")

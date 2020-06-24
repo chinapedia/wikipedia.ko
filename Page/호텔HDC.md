@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [호텔HDC](https://ko.wikipedia.org/wiki/호텔HDC).
 
 
-**호텔HDC**()은 [호텔](https://ko.wikipedia.org/wiki/호텔 "wikilink")을 운영 및 개발하는 [HDC그룹](../Page/HDC그룹.md "wikilink")의 계열사로 대표이사는 김대중이다. [2005년](../Page/2005년.md "wikilink") [2월](../Page/2월.md "wikilink") 호텔아이파크주식회사를 창립하여 하얏트 체인인 [파크 하얏트 서울과](https://ko.wikipedia.org/wiki/파크_하얏트_서울 "wikilink") [파크 하얏트 부산의](../Page/파크_하얏트_부산.md "wikilink") 특1급 호텔과 안다즈 서울 강남, 정선 파크로쉬 리조트, 속초 아이파크콘도를 운영하고 있다.
+**호텔HDC**()은 [호텔](https://ko.wikipedia.org/wiki/호텔 "wikilink")을 운영 및 개발하는 [HDC그룹](../Page/HDC그룹.md "wikilink")의 계열사로 대표이사는 김대중이다. [2005년](../Page/2005년.md "wikilink") [2월](../Page/2월.md "wikilink") 호텔아이파크주식회사를 창립하여 하얏트 체인인 [파크 하얏트 서울과](../Page/파크_하얏트_서울.md "wikilink") [파크 하얏트 부산의](../Page/파크_하얏트_부산.md "wikilink") 특1급 호텔과 안다즈 서울 강남, 정선 파크로쉬 리조트, 속초 아이파크콘도를 운영하고 있다.
 
 ## 연혁
 
@@ -20,7 +20,7 @@
 <!-- end list -->
 
   -
-    [파크 하얏트 서울](https://ko.wikipedia.org/wiki/파크_하얏트_서울 "wikilink")()은 [2005년](../Page/2005년.md "wikilink") [4월 15일](../Page/4월_15일.md "wikilink") [서울특별시](../Page/서울특별시.md "wikilink") [강남구](https://ko.wikipedia.org/wiki/강남구 "wikilink") [대치동](../Page/대치동.md "wikilink")에 개관. 하얏트 브랜드 계열의 최고급 부티크 호텔로, 아시아에서는 일본의 파크 하얏트 동경에 이어 두 번째로 오픈. 지하2층, 지상24층으로 구성되어 있으며 185실의 객실과 4개의 식음료장, 6개의 연회장, 피트니스클럽, 스파, 실내수영장 등의 부대시설이 있음. 일본 인테리어 디자인 회사인 수퍼포테이토(Super Potato)가 디자인한 6성급 호텔임.
+    [파크 하얏트 서울](../Page/파크_하얏트_서울.md "wikilink")()은 [2005년](../Page/2005년.md "wikilink") [4월 15일](../Page/4월_15일.md "wikilink") [서울특별시](../Page/서울특별시.md "wikilink") [강남구](https://ko.wikipedia.org/wiki/강남구 "wikilink") [대치동](../Page/대치동.md "wikilink")에 개관. 하얏트 브랜드 계열의 최고급 부티크 호텔로, 아시아에서는 일본의 파크 하얏트 동경에 이어 두 번째로 오픈. 지하2층, 지상24층으로 구성되어 있으며 185실의 객실과 4개의 식음료장, 6개의 연회장, 피트니스클럽, 스파, 실내수영장 등의 부대시설이 있음. 일본 인테리어 디자인 회사인 수퍼포테이토(Super Potato)가 디자인한 6성급 호텔임.
 
 <!-- end list -->
 
@@ -65,7 +65,7 @@
 <!-- end list -->
 
   -
-    [파크 하얏트 서울](https://ko.wikipedia.org/wiki/파크_하얏트_서울 "wikilink") 2005년 4월 개관, 객실 185실, 연회장 6개, 식당 4개, 연면적 22,999m<sup>2</sup>
+    [파크 하얏트 서울](../Page/파크_하얏트_서울.md "wikilink") 2005년 4월 개관, 객실 185실, 연회장 6개, 식당 4개, 연면적 22,999m<sup>2</sup>
     [파크 하얏트 부산](../Page/파크_하얏트_부산.md "wikilink") 2013년 2월 개관, 객실 269실, 연회장 10개, 식당 4개, 연면적 49,280m<sup>2</sup>
     안다즈 서울 강남 2019년 9월 개관, 객실 241실, 연회장 5개, 식당 5개, 연면적 42,364m<sup>2</sup>
 
@@ -92,7 +92,7 @@
   - [HDC그룹](../Page/HDC그룹.md "wikilink")
   - [HDC현대산업개발](../Page/HDC현대산업개발.md "wikilink")
   - [아이파크](../Page/아이파크.md "wikilink")
-  - [파크 하얏트 서울](https://ko.wikipedia.org/wiki/파크_하얏트_서울 "wikilink")
+  - [파크 하얏트 서울](../Page/파크_하얏트_서울.md "wikilink")
   - [파크 하얏트 부산](../Page/파크_하얏트_부산.md "wikilink")
 
 [분류:HDC그룹](https://ko.wikipedia.org/wiki/분류:HDC그룹 "wikilink")

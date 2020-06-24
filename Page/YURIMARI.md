@@ -32,4 +32,4 @@
 
 \]
 
-[분류:일본의 걸 그룹](https://ko.wikipedia.org/wiki/분류:일본의_걸_그룹 "wikilink") [분류:여성 음악 그룹](https://ko.wikipedia.org/wiki/분류:여성_음악_그룹 "wikilink") [분류:여성 듀오](https://ko.wikipedia.org/wiki/분류:여성_듀오 "wikilink") [분류:1998년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:1998년_결성된_음악_그룹 "wikilink") [분류:1998년 데뷔](https://ko.wikipedia.org/wiki/분류:1998년_데뷔 "wikilink") [분류:1999년 해체된 음악 그룹](https://ko.wikipedia.org/wiki/분류:1999년_해체된_음악_그룹 "wikilink") [분류:1990년대 음악 그룹](https://ko.wikipedia.org/wiki/분류:1990년대_음악_그룹 "wikilink") [분류:에이벡스 그룹 음악가](https://ko.wikipedia.org/wiki/분류:에이벡스_그룹_음악가 "wikilink")
+[분류:일본의 걸 그룹](https://ko.wikipedia.org/wiki/분류:일본의_걸_그룹 "wikilink") [분류:여성 음악 그룹](https://ko.wikipedia.org/wiki/분류:여성_음악_그룹 "wikilink") [분류:여성 듀오](https://ko.wikipedia.org/wiki/분류:여성_듀오 "wikilink") [분류:1998년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:1998년_결성된_음악_그룹 "wikilink") [분류:1999년 해체된 음악 그룹](https://ko.wikipedia.org/wiki/분류:1999년_해체된_음악_그룹 "wikilink") [분류:1990년대 음악 그룹](https://ko.wikipedia.org/wiki/분류:1990년대_음악_그룹 "wikilink") [분류:에이벡스 그룹 음악가](https://ko.wikipedia.org/wiki/분류:에이벡스_그룹_음악가 "wikilink")

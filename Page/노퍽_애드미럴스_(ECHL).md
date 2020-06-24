@@ -15,4 +15,4 @@
 
 <references/>
 
-[분류:1995년 설립](https://ko.wikipedia.org/wiki/분류:1995년_설립 "wikilink") [분류:ECHL 팀](https://ko.wikipedia.org/wiki/분류:ECHL_팀 "wikilink")
+[분류:1995년 설립](https://ko.wikipedia.org/wiki/분류:1995년_설립 "wikilink") [분류:ECHL 팀](https://ko.wikipedia.org/wiki/분류:ECHL_팀 "wikilink") [분류:버지니아주의 아이스하키팀](https://ko.wikipedia.org/wiki/분류:버지니아주의_아이스하키팀 "wikilink")

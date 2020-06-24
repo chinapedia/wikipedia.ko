@@ -41,4 +41,4 @@
 
   - [오클라호마시티 FC](https://ko.wikipedia.org/wiki/오클라호마시티_FC "wikilink") ([북미 축구 리그](https://ko.wikipedia.org/wiki/북미_축구_리그 "wikilink"))
 
-[분류:미국의 축구단](https://ko.wikipedia.org/wiki/분류:미국의_축구단 "wikilink") [분류:2013년 설립된 축구단](https://ko.wikipedia.org/wiki/분류:2013년_설립된_축구단 "wikilink")
+[분류:미국의 축구단](https://ko.wikipedia.org/wiki/분류:미국의_축구단 "wikilink") [분류:2013년 설립된 축구단](https://ko.wikipedia.org/wiki/분류:2013년_설립된_축구단 "wikilink") [분류:오클라호마주의 축구단](https://ko.wikipedia.org/wiki/분류:오클라호마주의_축구단 "wikilink")

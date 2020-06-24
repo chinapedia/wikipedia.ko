@@ -37,14 +37,14 @@
 <small><a href="https://ko.wikipedia.org/wiki/2001-02_UEFA_여자컵" title="wikilink">상세</a></small></p></td>
 <td><p><strong><a href="../Page/1._FFC_프랑크푸르트.md" title="wikilink">1. FFC 프랑크푸르트</a></strong></p></td>
 <td><p><strong>2 - 0</strong></p></td>
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/우메오_IK" title="wikilink">우메오 IK</a></strong></p></td>
+<td><p><strong><a href="../Page/우메오_IK.md" title="wikilink">우메오 IK</a></strong></p></td>
 <td><p><a href="../Page/프랑크푸르트암마인.md" title="wikilink">프랑크푸르트암마인</a><br />
 <a href="../Page/코메르츠방크_아레나.md" title="wikilink">발트슈타디온</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2002-03<br />
 <small><a href="https://ko.wikipedia.org/wiki/2002-03_UEFA_여자컵" title="wikilink">상세</a></p></td>
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/우메오_IK" title="wikilink">우메오 IK</a></strong></p></td>
+<td><p><strong><a href="../Page/우메오_IK.md" title="wikilink">우메오 IK</a></strong></p></td>
 <td><p>합계 <strong>7 - 1</strong><br />
 1차전 <strong>4 - 1</strong><br />
 2차전 <strong>3 - 0</strong></p></td>
@@ -57,7 +57,7 @@
 <tr class="even">
 <td><p>2003-04<br />
 <small><a href="https://ko.wikipedia.org/wiki/2003-04_UEFA_여자컵" title="wikilink">상세</a></p></td>
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/우메오_IK" title="wikilink">우메오 IK</a></strong></p></td>
+<td><p><strong><a href="../Page/우메오_IK.md" title="wikilink">우메오 IK</a></strong></p></td>
 <td><p>합계 <strong>8 - 0</strong><br />
 1차전 <strong>3 - 0</strong><br />
 2차전 <strong>5 - 0</strong></p></td>
@@ -100,7 +100,7 @@
 <td><p>합계 <strong>1 - 0</strong><br />
 1차전 <strong>1 - 0</strong><br />
 2차전 <strong>0 - 0</strong></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/우메오_IK" title="wikilink">우메오 IK</a></p></td>
+<td><p><a href="../Page/우메오_IK.md" title="wikilink">우메오 IK</a></p></td>
 <td><p><a href="../Page/우메오.md" title="wikilink">우메오</a><br />
 <a href="https://ko.wikipedia.org/wiki/우메오_에너지_아레나" title="wikilink">우메오 에너지 아레나</a><br />
  <a href="https://ko.wikipedia.org/wiki/하트퍼드셔주" title="wikilink">하트퍼드셔주</a><br />
@@ -113,7 +113,7 @@
 <td><p>합계 <strong>4 - 3</strong><br />
 1차전 <strong>1 - 1</strong><br />
 2차전 <strong>3 - 2</strong></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/우메오_IK" title="wikilink">우메오 IK</a></p></td>
+<td><p><a href="../Page/우메오_IK.md" title="wikilink">우메오 IK</a></p></td>
 <td><p><a href="../Page/우메오.md" title="wikilink">우메오</a><br />
 <a href="https://ko.wikipedia.org/wiki/우메오_에너지_아레나" title="wikilink">우메오 에너지 아레나</a><br />
  <a href="../Page/프랑크푸르트암마인.md" title="wikilink">프랑크푸르트암마인</a><br />

@@ -761,6 +761,30 @@ kt vs SK</p></td>
 배우 겸 가수<br />
 상인천초등학교 야구부/복싱선수</p></td>
 </tr>
+<tr class="even">
+<td><p>2020년</p></td>
+<td><p>5월 5일</p></td>
+<td><p>수원<br />
+잠실<br />
+광주<br />
+대구<br />
+문학</p></td>
+<td><p>롯데 vs KT<br />
+두산 vs LG<br />
+키움 vs KIA<br />
+NC vs 삼성<br />
+한화 vs SK</p></td>
+<td><p>이라온(비접촉 특별시구)<br />
+<br />
+<br />
+이성구<br />
+노준표</p></td>
+<td><p>KT wiz 어린이회원<br />
+<br />
+<br />
+대구시의사회장<br />
+어린이 기부 천사</p></td>
+</tr>
 </tbody>
 </table>
 

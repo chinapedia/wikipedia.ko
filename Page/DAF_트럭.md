@@ -41,7 +41,7 @@
   - [Daf Club Nederland](http://www.dafclub.nl) Official Dutch Daf and other variomatic cars owners club
   - [The (official) DAF museum, Eindhoven](http://www.dafmuseum.nl)
   - [DAF Oldtimer Truck Club website](http://www.daftruck.nl)
-  - [Dmbmodels.eu](http://www.dmbmodels.eu) DAF model website
+  - [Dmbmodels.eu](https://web.archive.org/web/20200218083056/http://dmbmodels.eu/) DAF model website
   - [Official Hans Bekx Dakar website](https://web.archive.org/web/20081121001932/http://www.hansbekx.com/)
   - [DAF cars at RitzSite Classic Cars](http://www.ritzsite.demon.nl/DAF/DAF_cars_intro.htm)
   - [DeAutogids.nl about DAF](https://web.archive.org/web/20060103193424/http://www.deautogids.nl/auto/merk.asp?ID=5469) '

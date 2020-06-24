@@ -3,7 +3,7 @@
 
 [right](https://ko.wikipedia.org/wiki/파일:Adna3.ogv "wikilink")
 
-**A-DNA** 또는 **A형 DNA**는 [DNA](../Page/DNA.md "wikilink")의 형태 중 하나이다. [B-DNA](https://ko.wikipedia.org/wiki/B-DNA "wikilink")나 [Z-DNA](https://ko.wikipedia.org/wiki/Z-DNA "wikilink")와 함께 DNA의 세 형태 중 하나에 속한다. A-DNA는 B-DNA처럼 오른쪽으로 꼬여있으나, 더 짧고, [염기쌍](https://ko.wikipedia.org/wiki/염기쌍 "wikilink")들이 더 촘촘하게 배열되어 있다. A-DNA는 [로절린드 프랭클린에](../Page/로절린드_프랭클린.md "wikilink") 의해 발견되었으며, 이름도 그녀에 의해 붙여졌다. 그녀는 A-DNA가 건조한 상황에서 나타난다는 것을 발견하였다. 이 형태는 [RNA](../Page/RNA.md "wikilink")와 [RNA-DNA 잡종에서도](https://ko.wikipedia.org/wiki/RNA-DNA_잡종 "wikilink") 나타나는 형태이다.
+**A-DNA** 또는 **A형 DNA**는 [DNA](../Page/DNA.md "wikilink")의 형태 중 하나이다. [B-DNA](https://ko.wikipedia.org/wiki/B-DNA "wikilink")나 [Z-DNA](https://ko.wikipedia.org/wiki/Z-DNA "wikilink")와 함께 DNA의 세 형태 중 하나에 속한다. A-DNA는 B-DNA처럼 오른쪽으로 꼬여있으나, 더 짧고, [염기쌍](../Page/염기쌍.md "wikilink")들이 더 촘촘하게 배열되어 있다. A-DNA는 [로절린드 프랭클린에](../Page/로절린드_프랭클린.md "wikilink") 의해 발견되었으며, 이름도 그녀에 의해 붙여졌다. 그녀는 A-DNA가 건조한 상황에서 나타난다는 것을 발견하였다. 이 형태는 [RNA](../Page/RNA.md "wikilink")와 [RNA-DNA 잡종에서도](https://ko.wikipedia.org/wiki/RNA-DNA_잡종 "wikilink") 나타나는 형태이다.
 
 ## 구조
 

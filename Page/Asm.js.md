@@ -61,7 +61,7 @@ asm.js에 기반한 애플리케이션 대다수는 Emscripten이나 Mandrell을
 ## 외부 링크
 
   -
-[분류:파이어폭스](https://ko.wikipedia.org/wiki/분류:파이어폭스 "wikilink") [분류:자바스크립트](https://ko.wikipedia.org/wiki/분류:자바스크립트 "wikilink")
+[분류:파이어폭스](https://ko.wikipedia.org/wiki/분류:파이어폭스 "wikilink") [분류:자바스크립트](https://ko.wikipedia.org/wiki/분류:자바스크립트 "wikilink") [분류:모질라](https://ko.wikipedia.org/wiki/분류:모질라 "wikilink")
 
 1.
 2.

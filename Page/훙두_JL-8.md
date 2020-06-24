@@ -74,4 +74,4 @@
 
   - 항공 전자장비:[EFIS](https://ko.wikipedia.org/wiki/EFIS "wikilink")
 
-[분류:훈련기](https://ko.wikipedia.org/wiki/분류:훈련기 "wikilink") [분류:1990년 첫 비행한 항공기](https://ko.wikipedia.org/wiki/분류:1990년_첫_비행한_항공기 "wikilink") [분류:단발 제트기](https://ko.wikipedia.org/wiki/분류:단발_제트기 "wikilink")
+[분류:훈련기](https://ko.wikipedia.org/wiki/분류:훈련기 "wikilink") [분류:1990년 첫 비행한 항공기](https://ko.wikipedia.org/wiki/분류:1990년_첫_비행한_항공기 "wikilink") [분류:단발 제트기](https://ko.wikipedia.org/wiki/분류:단발_제트기 "wikilink") [분류:저익기](https://ko.wikipedia.org/wiki/분류:저익기 "wikilink")

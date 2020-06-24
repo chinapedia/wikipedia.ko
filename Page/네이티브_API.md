@@ -44,7 +44,7 @@ user32.dll과 gdi32.dll은 커널 모드로 가는 다른 호출도 포함한다
   - [Inside Native Applications](http://technet.microsoft.com/sysinternals/bb897447.aspx)
   - [Inside the Native API](https://web.archive.org/web/20121224002314/http://netcode.cz/img/83/nativeapi.html)
   - [Open source native applications development framework](http://zenwinx.sourceforge.net/)
-  - [Native shell - Windows command prompt which can start before Winlogon and Win32 subsystem](http://hex.pp.ua/nt-native-applications-shell-eng.php)
+  - [Native shell - Windows command prompt which can start before Winlogon and Win32 subsystem](https://web.archive.org/web/20150811102814/http://hex.pp.ua/nt-native-applications-shell-eng.php)
   - [Windows NT Native Tools - A free native applications development util](http://sourceforge.net/projects/nativetools/)
 
 [분류:마이크로소프트 API](https://ko.wikipedia.org/wiki/분류:마이크로소프트_API "wikilink") [분류:윈도우 NT](https://ko.wikipedia.org/wiki/분류:윈도우_NT "wikilink") [분류:윈도우 NT 커널](https://ko.wikipedia.org/wiki/분류:윈도우_NT_커널 "wikilink") [분류:운영 체제 API](https://ko.wikipedia.org/wiki/분류:운영_체제_API "wikilink")

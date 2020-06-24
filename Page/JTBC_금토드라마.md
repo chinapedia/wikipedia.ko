@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [JTBC 금토드라마](https://ko.wikipedia.org/wiki/JTBC_금토드라마).
 
 
-**JTBC 금토드라마**는 [대한민국](../Page/대한민국.md "wikilink")의 [종합편성채널](https://ko.wikipedia.org/wiki/종합편성채널 "wikilink")인 [JTBC](../Page/JTBC.md "wikilink")를 통해 매주 [금요일](../Page/금요일.md "wikilink")과 [토요일](../Page/토요일.md "wikilink") [밤](https://ko.wikipedia.org/wiki/밤_\(시간\) "wikilink") 11시에 방송하는 [텔레비전](../Page/텔레비전.md "wikilink") [드라마이다](../Page/텔레비전_드라마.md "wikilink"). 대부분 16부작에서 20부작 사이의 미니시리즈 형식으로 현재 방영되고 있다.
+**JTBC 금토드라마**는 [대한민국](../Page/대한민국.md "wikilink")의 [종합편성채널](https://ko.wikipedia.org/wiki/종합편성채널 "wikilink")인 [JTBC](../Page/JTBC.md "wikilink")를 통해 매주 [금요일](../Page/금요일.md "wikilink")과 [토요일](../Page/토요일.md "wikilink") [밤](https://ko.wikipedia.org/wiki/밤_\(시간\) "wikilink") 11시에 방송하는 [텔레비전](../Page/텔레비전.md "wikilink") [드라마이다](../Page/텔레비전_드라마.md "wikilink"). 대부분 미니시리즈 형식으로 현재 방영되고 있다.
 
 ## 역사
 
-[2014년](../Page/2014년.md "wikilink") [12월 12일](../Page/12월_12일.md "wikilink") 금토드라마가 신설됐지만, 현재까지 이어지고 있다.
+[2014년](../Page/2014년.md "wikilink") [12월 12일부터](../Page/12월_12일.md "wikilink") 금토드라마가 처음 시작되었으며, [2020년](../Page/2020년.md "wikilink") [5월](../Page/5월.md "wikilink") 중순 이후 일시 중단되었다가, [2020년](../Page/2020년.md "wikilink") [7월10일](https://ko.wikipedia.org/wiki/7월10일 "wikilink")부터 재개할 예정이다.
 
 ## 방송 시간
 
@@ -15,24 +15,22 @@
 | 2015년 5월 29일 \~ 2015년 7월 11일                                                        | 밤 8시 40분 \~ 밤 9시 50분          | 70분               |       |
 | 2015년 7월 17일 \~ 2017년 1월 28일                                                        | 밤 8시 30분 \~ 밤 9시 40분          |                   |       |
 | 2017년 2월 24일 \~ 2019년 7월 13일                                                        | 밤 11시 \~ 밤 12시 20분            | 80분               |       |
-| [2019년](../Page/2019년.md "wikilink") [8월 9일](../Page/8월_9일.md "wikilink") \~ **현재** | 밤 11시 \~ 밤 12시 10분            | 70분               |       |
+| [2019년](../Page/2019년.md "wikilink") [8월 9일](../Page/8월_9일.md "wikilink") \~ **현재** | 밤 10시 50분 \~ 밤 12시 20분        | 90분               |       |
 
 ## 작품 목록
 
-### 2010년대
-
-#### 2014년
+### 2014년
 
   - 《[하녀들](../Page/하녀들.md "wikilink")》 : 2014년 12월 12일 \~ 2015년 3월 28일 (첫 회 방영 후 사고로 40여 일 간 결방, 2015년 1월 23일부터 방송 재개)\[1\]
 
-#### 2015년
+### 2015년
 
   - 《[순정에 반하다](../Page/순정에_반하다.md "wikilink")》 : 2015년 4월 3일 \~ 2015년 5월 23일
   - 《[사랑하는 은동아](../Page/사랑하는_은동아.md "wikilink")》 : 2015년 5월 29일 \~ 2015년 7월 18일 (**밤 8시 40분**으로 시간대 이동)\[2\]
   - 《[라스트](../Page/라스트_\(드라마\).md "wikilink")》 : 2015년 7월 24일 \~ 2015년 9월 12일
   - 《[디데이](../Page/디데이_\(드라마\).md "wikilink")》 : 2015년 9월 18일 \~ 2015년 11월 21일
 
-#### 2016년
+### 2016년
 
   - 《[마담 앙트완](../Page/마담_앙트완.md "wikilink")》 : 2016년 1월 22일 \~ 216년 3월 12일
   - 《[욱씨남정기](../Page/욱씨남정기.md "wikilink")》 : 2016년 3월 18일 \~ 2016년 5월 7일
@@ -42,7 +40,7 @@
   - 《[이번 주 아내가 바람을 핍니다](../Page/이번_주_아내가_바람을_핍니다.md "wikilink")》 : 2016년 10월 28일 \~ 2016년 12월 3일
   - 《[솔로몬의 위증](../Page/솔로몬의_위증_\(드라마\).md "wikilink")》 : 2016년 12월 16일 \~ 2017년 1월 28일
 
-#### 2017년
+### 2017년
 
   - 《[힘쎈여자 도봉순](../Page/힘쎈여자_도봉순.md "wikilink")》 : 2017년 2월 24일 \~ 2017년 4월 15일 (**밤 11시**로 시간대 이동)\[3\]
   - 《[맨투맨](../Page/맨투맨_\(드라마\).md "wikilink")》 : 2017년 4월 21일 \~ 2017년 6월 10일
@@ -51,7 +49,7 @@
   - 《[더 패키지](../Page/더_패키지.md "wikilink")》 : 2017년 10월 13일 \~ 2017년 11월 18일
   - 《[언터처블](../Page/언터처블_\(대한민국의_드라마\).md "wikilink")》 : 2017년 11월 24일 \~ 2018년 1월 20일
 
-#### 2018년
+### 2018년
 
   - 《[미스티](../Page/미스티_\(드라마\).md "wikilink")》 : 2018년 2월 2일 \~ 2018년 3월 24일
   - 《[밥 잘 사주는 예쁜 누나](../Page/밥_잘_사주는_예쁜_누나.md "wikilink")》 : 2018년 3월 30일 \~ 2018년 5월 19일
@@ -60,7 +58,7 @@
   - 《[제3의 매력](../Page/제3의_매력.md "wikilink")》 : 2018년 9월 28일 \~ 2018년 11월 17일
   - 《[SKY 캐슬](../Page/SKY_캐슬.md "wikilink")》 : 2018년 11월 23일 \~ 2019년 2월 1일
 
-#### 2019년
+### 2019년
 
   - 《[리갈 하이](../Page/리갈_하이_\(2019년_드라마\).md "wikilink")》 : 2019년 2월 8일 \~ 2019년 3월 30일
   - 《[아름다운 세상](../Page/아름다운_세상_\(드라마\).md "wikilink")》 : 2019년 4월 5일 \~ 2019년 5월 25일
@@ -69,13 +67,11 @@
   - 《[나의 나라](../Page/나의_나라.md "wikilink")》 : 2019년 10월 4일 \~ 2019년 11월 23일
   - 《[초콜릿](../Page/초콜릿_\(드라마\).md "wikilink")》 : 2019년 11월 29일 \~ 2020년 1월 18일
 
-### [2020년대](https://ko.wikipedia.org/wiki/2020년대 "wikilink")
+### [2020년](../Page/2020년.md "wikilink")
 
-#### [2020년](../Page/2020년.md "wikilink")
-
-  - 《[이태원 클라쓰](https://ko.wikipedia.org/wiki/이태원_클라쓰_\(드라마\) "wikilink")》 : [2020년](../Page/2020년.md "wikilink") [1월 31일](../Page/1월_31일.md "wikilink") \~ [2020년](../Page/2020년.md "wikilink") [3월 21일](../Page/3월_21일.md "wikilink")
-  - 《[부부의 세계](https://ko.wikipedia.org/wiki/부부의_세계 "wikilink")》 : [2020년](../Page/2020년.md "wikilink") [3월 27일](../Page/3월_27일.md "wikilink") \~ **현재**
-  - 《[우아한 친구들](https://ko.wikipedia.org/wiki/우아한_친구들 "wikilink")》 :
+  - 《[이태원 클라쓰](../Page/이태원_클라쓰_\(드라마\).md "wikilink")》 : [2020년](../Page/2020년.md "wikilink") [1월 31일](../Page/1월_31일.md "wikilink") \~ [2020년](../Page/2020년.md "wikilink") [3월 21일](../Page/3월_21일.md "wikilink")
+  - 《[부부의 세계](https://ko.wikipedia.org/wiki/부부의_세계 "wikilink")》 : [2020년](../Page/2020년.md "wikilink") [3월 27일](../Page/3월_27일.md "wikilink") \~ [2020년](../Page/2020년.md "wikilink") [5월 16일](../Page/5월_16일.md "wikilink")
+  - 《[우아한 친구들](https://ko.wikipedia.org/wiki/우아한_친구들 "wikilink")》 : [2020년](../Page/2020년.md "wikilink") [7월 10일](../Page/7월_10일.md "wikilink") \~ **현재**
   - 《[경우의 수](https://ko.wikipedia.org/wiki/경우의_수 "wikilink")》 :
 
 ## 각주

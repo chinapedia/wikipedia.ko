@@ -43,7 +43,7 @@ LWN.net 은 많은 프리랜서 작가의 기사를 구매한다.\[8\]
   - [타임라인 페이지](https://lwn.net/op/TimelineIdx.lwn) - 사이트의 시작부터의 역사를 볼 수 있다
   - [2007 구독자 통계](https://lwn.net/Articles/219603/results) - 인구통계와, 어떤 영역이 이 사이트와 비슷한지 보여줌
 
-[분류:리눅스 웹사이트](https://ko.wikipedia.org/wiki/분류:리눅스_웹사이트 "wikilink")
+[분류:리눅스 웹사이트](https://ko.wikipedia.org/wiki/분류:리눅스_웹사이트 "wikilink") [분류:콜로라도주의 기업](https://ko.wikipedia.org/wiki/분류:콜로라도주의_기업 "wikilink")
 
 1.
 2.

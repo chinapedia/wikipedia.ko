@@ -3,7 +3,7 @@
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:T_Cell_Surface_Glycoprotein_CD4_-_PDB_1CDH.jpg "wikilink")
 
-[세포표면항원무리](../Page/세포표면항원무리.md "wikilink") 4 혹은 **CD4**는 [보조 T 세포](https://ko.wikipedia.org/wiki/보조_T_세포 "wikilink"), [단핵구](https://ko.wikipedia.org/wiki/단핵구 "wikilink"), [대식세포](../Page/대식세포.md "wikilink"), [수지상세포](https://ko.wikipedia.org/wiki/수지상세포 "wikilink") 등 면역세포의 표면에 있는 [당단백질](https://ko.wikipedia.org/wiki/당단백질 "wikilink") 분자이다. 1970년대 후반에 발견되었고, 원래는 leu-3와 T4(여기 반응한 OKT4 [단일클론 항체를](https://ko.wikipedia.org/wiki/단일클론_항체 "wikilink") 따서 이렇게 부름)라고 불리다가 1984년 CD4로 배정되었다.\[1\] 사람의 CD4 단백질은 *CD4* 유전자에 부호화되어 있다.\[2\]\[3\]
+[세포표면항원무리](../Page/세포표면항원무리.md "wikilink") 4 혹은 **CD4**는 [보조 T 세포](https://ko.wikipedia.org/wiki/보조_T_세포 "wikilink"), [단핵구](../Page/단핵구.md "wikilink"), [대식세포](../Page/대식세포.md "wikilink"), [수지상세포](https://ko.wikipedia.org/wiki/수지상세포 "wikilink") 등 면역세포의 표면에 있는 [당단백질](https://ko.wikipedia.org/wiki/당단백질 "wikilink") 분자이다. 1970년대 후반에 발견되었고, 원래는 leu-3와 T4(여기 반응한 OKT4 [단일클론 항체를](https://ko.wikipedia.org/wiki/단일클론_항체 "wikilink") 따서 이렇게 부름)라고 불리다가 1984년 CD4로 배정되었다.\[1\] 사람의 CD4 단백질은 *CD4* 유전자에 부호화되어 있다.\[2\]\[3\]
 
 CD4+ 보조 T 세포는 [백혈구](../Page/백혈구.md "wikilink")의 일종으로 사람 [면역계](../Page/면역계.md "wikilink")에 필수적이다. 종종 CD4 세포, T<sub>H</sub> 세포라고도 부른다. 보조 T 세포는 다른 면역세포, 예를 들면 [CD8](../Page/CD8.md "wikilink") [세포독성 T 세포에](https://ko.wikipedia.org/wiki/세포독성_T_세포 "wikilink") 신호를 보내 감염성 입자를 없애도록 "보조"한다. [HIV](https://ko.wikipedia.org/wiki/HIV "wikilink") 감염, [장기 이식](../Page/장기_이식.md "wikilink") 전 [면역억제제](https://ko.wikipedia.org/wiki/면역억제제 "wikilink") 등으로 인하여 CD4 세포가 감소하면 외부 감염에 취약해져서, 일반적인 경우에는 면역계가 싸워 이길 수 있는 감염도 막아내지 못한다.
 

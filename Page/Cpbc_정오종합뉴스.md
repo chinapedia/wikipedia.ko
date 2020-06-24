@@ -23,4 +23,4 @@
   - [BBS 정오종합뉴스](https://ko.wikipedia.org/wiki/BBS_정오종합뉴스 "wikilink") ([BBS 불교방송](../Page/불교방송.md "wikilink"))
   - [TBS 정오종합뉴스](https://ko.wikipedia.org/wiki/TBS_정오종합뉴스 "wikilink") ([TBS 교통방송](../Page/TBS_\(대한민국의_방송사\).md "wikilink"))
 
-[분류:가톨릭평화방송의 라디오 프로그램](https://ko.wikipedia.org/wiki/분류:가톨릭평화방송의_라디오_프로그램 "wikilink") [분류:대한민국의 뉴스 라디오 프로그램](https://ko.wikipedia.org/wiki/분류:대한민국의_뉴스_라디오_프로그램 "wikilink")
+[분류:가톨릭평화방송의 뉴스 라디오 프로그램](https://ko.wikipedia.org/wiki/분류:가톨릭평화방송의_뉴스_라디오_프로그램 "wikilink") [분류:대한민국의 뉴스 라디오 프로그램](https://ko.wikipedia.org/wiki/분류:대한민국의_뉴스_라디오_프로그램 "wikilink")

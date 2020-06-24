@@ -40,4 +40,4 @@
 </tbody>
 </table>
 
-[분류:2009년 설립](https://ko.wikipedia.org/wiki/분류:2009년_설립 "wikilink") [분류:2016년 폐지](https://ko.wikipedia.org/wiki/분류:2016년_폐지 "wikilink") [분류:서던 프로페셔널 하키 리그 팀](https://ko.wikipedia.org/wiki/분류:서던_프로페셔널_하키_리그_팀 "wikilink") [분류:2009년 설립된 스포츠 클럽](https://ko.wikipedia.org/wiki/분류:2009년_설립된_스포츠_클럽 "wikilink")
+[분류:2009년 설립](https://ko.wikipedia.org/wiki/분류:2009년_설립 "wikilink") [분류:2016년 폐지](https://ko.wikipedia.org/wiki/분류:2016년_폐지 "wikilink") [분류:서던 프로페셔널 하키 리그 팀](https://ko.wikipedia.org/wiki/분류:서던_프로페셔널_하키_리그_팀 "wikilink") [분류:2009년 설립된 스포츠 클럽](https://ko.wikipedia.org/wiki/분류:2009년_설립된_스포츠_클럽 "wikilink") [분류:루이지애나주의 아이스하키팀](https://ko.wikipedia.org/wiki/분류:루이지애나주의_아이스하키팀 "wikilink")

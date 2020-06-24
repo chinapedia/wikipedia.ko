@@ -14,7 +14,7 @@
 | [오브로젝트](../Page/오브로젝트.md "wikilink")                           | 가수     | 오태석, 윤닭                                                                                                                               | \-                                    | 2014년 |
 | [브로맨스](../Page/브로맨스_\(음악_그룹\).md "wikilink")                   | 가수     | 박장현, 박현규, 이찬동, 이현석                                                                                                                    | 박장현                                   | 2016년 |
 | [코스믹 걸](https://ko.wikipedia.org/wiki/코스믹_걸 "wikilink")        | 가수     | \-                                                                                                                                    | \-                                    | 2016년 |
-| [원어스](https://ko.wikipedia.org/wiki/원어스 "wikilink")            | 가수     | RAVN, 서호, 이도, 건희, 환웅, 시온                                                                                                              | 없음                                    | 2019년 |
+| [원어스](https://ko.wikipedia.org/wiki/원어스 "wikilink")            | 가수     | RAVN, 서호, 이도, 건희, 환웅, 시온                                                                                                              | RAVN                                  | 2019년 |
 | [원위](https://ko.wikipedia.org/wiki/원위 "wikilink")              | 가수     | 용훈 (리더, 메인보컬), 강현 (기타), 하린 (드럼), 동명 (보컬, 키보드), 키아                                                                                     | 용훈                                    | 2015년 |
 | [김유나](https://ko.wikipedia.org/wiki/김유나_\(싱어송라이터\) "wikilink") | 가수     | \-                                                                                                                                    | \-                                    | 2018년 |
 | [호연주](https://ko.wikipedia.org/wiki/호연주 "wikilink")            | 가수     | \-                                                                                                                                    | \-                                    | 2007년 |
@@ -223,6 +223,11 @@
 
 ## 외부 링크
 
+  -
+  -
+  -
+  -
+  -
   -
 [분류:2010년 설립](https://ko.wikipedia.org/wiki/분류:2010년_설립 "wikilink") [분류:대한민국의 연예 기획사](https://ko.wikipedia.org/wiki/분류:대한민국의_연예_기획사 "wikilink")
 

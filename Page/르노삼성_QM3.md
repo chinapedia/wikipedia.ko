@@ -250,7 +250,7 @@
 ## 경쟁 차종
 
   - [현대자동차](https://ko.wikipedia.org/wiki/현대자동차 "wikilink") - [코나](../Page/현대_코나.md "wikilink"), [ix25](../Page/현대_ix25.md "wikilink")
-  - [기아자동차](../Page/기아자동차.md "wikilink") - [니로](../Page/기아_니로.md "wikilink"), [쏘울](../Page/기아_쏘울.md "wikilink"), [스토닉](../Page/기아_스토닉.md "wikilink"), [셀토스](https://ko.wikipedia.org/wiki/기아_셀토스 "wikilink")
+  - [기아자동차](../Page/기아자동차.md "wikilink") - [니로](../Page/기아_니로.md "wikilink"), [쏘울](../Page/기아_쏘울.md "wikilink"), [스토닉](../Page/기아_스토닉.md "wikilink"), [셀토스](../Page/기아_셀토스.md "wikilink")
   - [쉐보레](../Page/쉐보레.md "wikilink") - [트랙스](../Page/쉐보레_트랙스.md "wikilink")
   - [쌍용자동차](../Page/쌍용자동차.md "wikilink") - [티볼리](../Page/쌍용_티볼리.md "wikilink")
   - [오펠](../Page/오펠.md "wikilink") - [모카](https://ko.wikipedia.org/wiki/오펠_모카 "wikilink"), [크로스랜드 X](../Page/오펠_크로스랜드_X.md "wikilink")

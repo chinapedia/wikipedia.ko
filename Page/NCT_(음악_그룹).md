@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [NCT \(음악 그룹\)](https://ko.wikipedia.org/wiki/NCT_\(음악_그룹\)).
 
 
-**NCT**(엔시티)는 [SM 엔터테인먼트](../Page/SM_엔터테인먼트.md "wikilink") 소속의 멤버 수에 제한이 없는 보이 그룹으로, 현재 NCT로 소개된 멤버 수는 18명이다.\[1\]
+**NCT**()는 [SM 엔터테인먼트](../Page/SM_엔터테인먼트.md "wikilink") 소속의 멤버 수에 제한이 없는 보이 그룹으로, 현재 NCT로 소개된 멤버 수는 18명이다.\[1\]
 
 NCT라는 이름은 **'N**eo **C**ulture **T**echnology'(네오 컬쳐 테크놀로지: 새로운 문화 기술)'의 약자로, 그룹의 핵심 키워드를 '개방성'과 '확장성'으로 소개한 SM 엔터테인먼트 대표 프로듀서 [이수만](../Page/이수만.md "wikilink")은 그룹이 전세계 주요 도시를 기반으로 한 여러 서브 유닛으로 나뉘며,\[2\] 새로운 멤버의 영입이 자유롭고 멤버 수에도 제한을 두지 않는다고 설명하였다. 즉, 로테이션 그룹이라고 할 수 있다는 것이다.\[3\]\[4\]\[5\]\[6\]\[7\]
 
@@ -45,7 +45,7 @@ NCT 127은 [엠넷 아시안 뮤직 어워드](https://ko.wikipedia.org/wiki/엠
 
 ### 2020: NCT 127 정규 2집 및 NCT DREAM 미니앨범 활동 그리고 NCT 127 리패키지 활동
 
-[NCT 127은](https://ko.wikipedia.org/wiki/NCT_127 "wikilink") [2020년](../Page/2020년.md "wikilink") [3월 6일](../Page/3월_6일.md "wikilink") 두 번째 정규앨범 《NCT \#127- Neo Zone》으로 컴백을 하였다. 그 전날인 [2020년](../Page/2020년.md "wikilink") [3월 5일에](../Page/3월_5일.md "wikilink") 타이틀곡인 영웅 (英雄; Kick It)의 정식 뮤직비디오를 공개하였다. [2020년](../Page/2020년.md "wikilink") [4월 14일](../Page/4월_14일.md "wikilink") [NCT DREAM이](https://ko.wikipedia.org/wiki/NCT_DREAM "wikilink") 졸업제도를 없앤다는 것이 [SM 엔터테인먼트로](../Page/SM_엔터테인먼트.md "wikilink") 부터 밝혀졌고 [4월 29일](../Page/4월_29일.md "wikilink") 《Reload》로 컴백하였다. 그 뒤에는 [NCT DREAM의](https://ko.wikipedia.org/wiki/NCT_DREAM "wikilink") 이름을 유지하며 [NCT U의](https://ko.wikipedia.org/wiki/NCT_U "wikilink") 체제로 졸업을 했던 [마크](../Page/마크.md "wikilink")도 합류하여 활동할 계획이다. 그리고 2020년 5월 19일 [NCT 127이](https://ko.wikipedia.org/wiki/NCT_127 "wikilink") 리패키지 앨범 《NCT \#127 Neo Zone: The Final Round》으로 컴백을 앞두고 있다.
+[NCT 127은](https://ko.wikipedia.org/wiki/NCT_127 "wikilink") [2020년](../Page/2020년.md "wikilink") [3월 6일](../Page/3월_6일.md "wikilink") 두 번째 정규앨범 《NCT \#127- Neo Zone》으로 컴백을 하였다. 그 전날인 [2020년](../Page/2020년.md "wikilink") [3월 5일에](../Page/3월_5일.md "wikilink") 타이틀곡인 영웅 (英雄; Kick It)의 정식 뮤직비디오를 공개하였다. [2020년](../Page/2020년.md "wikilink") [4월 14일](../Page/4월_14일.md "wikilink") [NCT DREAM이](https://ko.wikipedia.org/wiki/NCT_DREAM "wikilink") 졸업제도를 없앤다는 것이 [SM 엔터테인먼트로](../Page/SM_엔터테인먼트.md "wikilink") 부터 밝혀졌고 [4월 29일](../Page/4월_29일.md "wikilink") 《Reload》로 컴백하였다. 그 뒤에는 [NCT DREAM의](https://ko.wikipedia.org/wiki/NCT_DREAM "wikilink") 이름을 유지하며 [NCT U의](https://ko.wikipedia.org/wiki/NCT_U "wikilink") 체제로 졸업을 했던 [마크](../Page/마크.md "wikilink")도 합류하여 활동할 계획이다. 그리고 2020년 5월 19일 [NCT 127이](https://ko.wikipedia.org/wiki/NCT_127 "wikilink") 리패키지 앨범 《NCT \#127 Neo Zone: The Final Round》으로 컴백하였다.
 
 ## 구성원
 
@@ -173,7 +173,7 @@ NCT 127은 [엠넷 아시안 뮤직 어워드](https://ko.wikipedia.org/wiki/엠
 <li>본명 : Mark Lee</li>
 <li>생년월일 : </li>
 <li>출생지 : <a href="../Page/캐나다.md" title="wikilink">캐나다</a> <a href="../Page/토론토.md" title="wikilink">토론토</a></li>
-<li>유닛그룹 : <a href="https://ko.wikipedia.org/wiki/NCT_U" title="wikilink">NCT U</a>, <a href="https://ko.wikipedia.org/wiki/NCT_127" title="wikilink">NCT 127</a>, <a href="https://ko.wikipedia.org/wiki/SuperM" title="wikilink">SuperM</a></li>
+<li>유닛그룹 : <a href="https://ko.wikipedia.org/wiki/NCT_U" title="wikilink">NCT U</a>, <a href="https://ko.wikipedia.org/wiki/NCT_127" title="wikilink">NCT 127</a>, <a href="https://ko.wikipedia.org/wiki/NCT_DREAM" title="wikilink">NCT DREAM</a>, <a href="https://ko.wikipedia.org/wiki/SuperM" title="wikilink">SuperM</a></li>
 <li>활동기간 : <a href="../Page/2016년.md" title="wikilink">2016년</a> <a href="../Page/4월_15일.md" title="wikilink">4월 15일</a> ~ 현재</li>
 </ul></td>
 </tr>
@@ -188,7 +188,7 @@ NCT 127은 [엠넷 아시안 뮤직 어워드](https://ko.wikipedia.org/wiki/엠
 </ul></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/제노" title="wikilink">제노</a></strong></p></td>
+<td><p><strong>제노</strong></p></td>
 <td><ul>
 <li>본명 : 이제노 (李帝努[46][47])</li>
 <li>생년월일 : </li>
@@ -198,17 +198,17 @@ NCT 127은 [엠넷 아시안 뮤직 어워드](https://ko.wikipedia.org/wiki/엠
 </ul></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/해찬" title="wikilink">해찬</a></strong></p></td>
+<td><p><strong><a href="https://ko.wikipedia.org/wiki/이동혁_(2000년)" title="wikilink">해찬</a></strong></p></td>
 <td><ul>
 <li>본명 : 이동혁 (李東赫)</li>
 <li>생년월일 : </li>
 <li>출생지 : <a href="../Page/대한민국.md" title="wikilink">대한민국</a> <a href="../Page/서울특별시.md" title="wikilink">서울특별시</a></li>
-<li>유닛그룹 : <a href="https://ko.wikipedia.org/wiki/NCT_DREAM" title="wikilink">NCT DREAM</a>, <a href="https://ko.wikipedia.org/wiki/NCT_127" title="wikilink">NCT 127</a></li>
+<li>유닛그룹 : <a href="https://ko.wikipedia.org/wiki/NCT_DREAM" title="wikilink">NCT DREAM</a>, <a href="https://ko.wikipedia.org/wiki/NCT_127" title="wikilink">NCT 127</a>, <a href="https://ko.wikipedia.org/wiki/NCT_U" title="wikilink">NCT U</a></li>
 <li>활동기간 : <a href="../Page/2016년.md" title="wikilink">2016년</a> <a href="../Page/7월_7일.md" title="wikilink">7월 7일</a> ~ 현재</li>
 </ul></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/재민" title="wikilink">재민</a></strong></p></td>
+<td><p><strong>재민</strong></p></td>
 <td><ul>
 <li>본명 : 나재민 (羅渽民[48])</li>
 <li>생년월일 : </li>
@@ -228,7 +228,7 @@ NCT 127은 [엠넷 아시안 뮤직 어워드](https://ko.wikipedia.org/wiki/엠
 </ul></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/지성" title="wikilink">지성</a></strong></p></td>
+<td><p><strong>지성</strong></p></td>
 <td><ul>
 <li>본명 : 박지성 (朴志晟[49])</li>
 <li>생년월일 : </li>
@@ -346,6 +346,20 @@ NCT 127은 [엠넷 아시안 뮤직 어워드](https://ko.wikipedia.org/wiki/엠
 | <font size=2>|2018년 5월 20일 (1회) |                                                                              |                                      |                                          |
 | <font size=2>|2018년 5월 20일 (2회) |                                                                              |                                      |                                          |
 
+## Beyond LIVE
+
+### Beyond The DREAM SHOW
+
+| <font size=2>|개최일          | <font size=2>|플랫폼                                    | <font size=2>|촬영지                                                          |
+| -------------------------- | ---------------------------------------------------- | -------------------------------------------------------------------------- |
+| <font size=2>|2020년 5월 10일 | <font size=2>|[V LIVE](../Page/V_LIVE.md "wikilink") | <font size=2>|[올림픽공원 올림픽홀](https://ko.wikipedia.org/wiki/올림픽공원 "wikilink") |
+
+### Beyond The Origin
+
+| <font size=2>|개최일          | <font size=2>|플랫폼                                    | <font size=2>|촬영지                                                          |
+| -------------------------- | ---------------------------------------------------- | -------------------------------------------------------------------------- |
+| <font size=2>|2020년 5월 17일 | <font size=2>|[V LIVE](../Page/V_LIVE.md "wikilink") | <font size=2>|[올림픽공원 올림픽홀](https://ko.wikipedia.org/wiki/올림픽공원 "wikilink") |
+
 ## 수상 및 후보
 
 ## 각주
@@ -366,7 +380,7 @@ NCT 127은 [엠넷 아시안 뮤직 어워드](https://ko.wikipedia.org/wiki/엠
   - [채널 NCT DANCE](https://www.youtube.com/channel/UCcnk_XPx9NtZDFhBdz-DfIA/videos) - [유튜브](../Page/유튜브.md "wikilink")
 
   -
-[분류:2016년 데뷔](https://ko.wikipedia.org/wiki/분류:2016년_데뷔 "wikilink") [분류:2016년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2016년_결성된_음악_그룹 "wikilink") [분류:K-pop 음악 그룹](https://ko.wikipedia.org/wiki/분류:K-pop_음악_그룹 "wikilink") [분류:대한민국의 보이 밴드](https://ko.wikipedia.org/wiki/분류:대한민국의_보이_밴드 "wikilink") [분류:대한민국의 댄스 음악 그룹](https://ko.wikipedia.org/wiki/분류:대한민국의_댄스_음악_그룹 "wikilink") [분류:대한민국의 팝 음악 그룹](https://ko.wikipedia.org/wiki/분류:대한민국의_팝_음악_그룹 "wikilink") [분류:2010년대 음악 그룹](https://ko.wikipedia.org/wiki/분류:2010년대_음악_그룹 "wikilink") [분류:다국적 음악 그룹](https://ko.wikipedia.org/wiki/분류:다국적_음악_그룹 "wikilink") [분류:SM 엔터테인먼트 소속](https://ko.wikipedia.org/wiki/분류:SM_엔터테인먼트_소속 "wikilink") [분류:10인조 이상 음악 그룹](https://ko.wikipedia.org/wiki/분류:10인조_이상_음악_그룹 "wikilink") [NCT](https://ko.wikipedia.org/wiki/분류:NCT "wikilink") [분류:Mnet 아시안 뮤직 어워드 수상 음악가](https://ko.wikipedia.org/wiki/분류:Mnet_아시안_뮤직_어워드_수상_음악가 "wikilink")
+[분류:2016년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2016년_결성된_음악_그룹 "wikilink") [분류:K-pop 음악 그룹](https://ko.wikipedia.org/wiki/분류:K-pop_음악_그룹 "wikilink") [분류:대한민국의 보이 밴드](https://ko.wikipedia.org/wiki/분류:대한민국의_보이_밴드 "wikilink") [분류:대한민국의 댄스 음악 그룹](https://ko.wikipedia.org/wiki/분류:대한민국의_댄스_음악_그룹 "wikilink") [분류:대한민국의 팝 음악 그룹](https://ko.wikipedia.org/wiki/분류:대한민국의_팝_음악_그룹 "wikilink") [분류:2010년대 음악 그룹](https://ko.wikipedia.org/wiki/분류:2010년대_음악_그룹 "wikilink") [분류:다국적 음악 그룹](https://ko.wikipedia.org/wiki/분류:다국적_음악_그룹 "wikilink") [분류:SM 엔터테인먼트 소속](https://ko.wikipedia.org/wiki/분류:SM_엔터테인먼트_소속 "wikilink") [분류:10인조 이상 음악 그룹](https://ko.wikipedia.org/wiki/분류:10인조_이상_음악_그룹 "wikilink") [NCT](https://ko.wikipedia.org/wiki/분류:NCT "wikilink") [분류:Mnet 아시안 뮤직 어워드 수상 음악가](https://ko.wikipedia.org/wiki/분류:Mnet_아시안_뮤직_어워드_수상_음악가 "wikilink")
 
 1.
 2.   The Korea Daily|last=Yi|first=Lily|website=www.koreadailyus.com|access-date=2016-05-15}}

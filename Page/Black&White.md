@@ -7,7 +7,7 @@
 
   - 각각 ‘검은 색’과 ‘하얀 색’을 테마로 한 곡이다.
   - CD ONLY · CD+DVD (Samurai heart -무사 정신-버전) · CD+DVD (Winter lander\!\! 버전)의 세 가지의 종류로 발매됐다. 자켓은 세 가지의 종류 모두 다르지만 CD 수록 내용은 어디에도 바뀌지 않았다. CD ONLY의 초회생산분에는 24P 부클릿이 부록됐다.
-  - 수록곡 〈Samurai heart-무사 정신-〉은 닌자를 모티브로 한 가사와 [PV이다](https://ko.wikipedia.org/wiki/뮤직비디오 "wikilink"). 또, PV는 [도치기현](../Page/도치기현.md "wikilink") [닛코 시에서](https://ko.wikipedia.org/wiki/닛코_시 "wikilink") 촬영됐다. 〈Samurai heart-무사 정신-〉은 발매 후에 [TBS](../Page/TBS_텔레비전.md "wikilink") 계열 [역선경주](https://ko.wikipedia.org/wiki/역선경주 "wikilink") 이미지 송으로 결정됐다. [Rin'](https://ko.wikipedia.org/wiki/Rin' "wikilink")이 연주와 프로모션 영상에 참가하고 있다.
+  - 수록곡 〈Samurai heart-무사 정신-〉은 닌자를 모티브로 한 가사와 [PV이다](https://ko.wikipedia.org/wiki/뮤직비디오 "wikilink"). 또, PV는 [도치기현](../Page/도치기현.md "wikilink") [닛코시](../Page/닛코시.md "wikilink")에서 촬영됐다. 〈Samurai heart-무사 정신-〉은 발매 후에 [TBS](../Page/TBS_텔레비전.md "wikilink") 계열 [역선경주](https://ko.wikipedia.org/wiki/역선경주 "wikilink") 이미지 송으로 결정됐다. [Rin'](https://ko.wikipedia.org/wiki/Rin' "wikilink")이 연주와 프로모션 영상에 참가하고 있다.
   - 〈Winter lander\!\!〉의 안무가는 야마시로 요코이다.
 
 ## 수록 내용

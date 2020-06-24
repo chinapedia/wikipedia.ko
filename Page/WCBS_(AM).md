@@ -3,6 +3,8 @@
 
 **WCBS**는 [뉴욕](../Page/뉴욕.md "wikilink")에서 방송되는 [CBS 라디오계열의](https://ko.wikipedia.org/wiki/CBS_라디오 "wikilink") [뉴스](../Page/뉴스.md "wikilink") 중심의 [중파](https://ko.wikipedia.org/wiki/중파_방송 "wikilink") [라디오 방송국이다](https://ko.wikipedia.org/wiki/라디오_방송국 "wikilink"). 브랜드명은 "**WCBS Newsradio 880**"이다. [CBS 라디오 뉴스](https://ko.wikipedia.org/wiki/CBS_라디오_뉴스 "wikilink") 네트워크에 속해있다.
 
+## 역사
+
 WCBS는 [1924년](../Page/1924년.md "wikilink") [9월 20일에](../Page/9월_20일.md "wikilink") 개국한 WAHG를 시작으로 한다. 당시 [경마](../Page/경마.md "wikilink")와 [요트](https://ko.wikipedia.org/wiki/요트 "wikilink") 정보를 방송하는 최초의 상업 라디오 방송국 중 하나였다. 2년 후 [1926년](../Page/1926년.md "wikilink")에 호출부호를 WABC로 변경(Atlantic Broadcasting Campany, 지금의 [WABC (AM)과는](https://ko.wikipedia.org/wiki/WABC_\(AM\) "wikilink") 무관), [1928년](../Page/1928년.md "wikilink")에는 주파수를 970kHz로 옮겼다.
 
 같은 해 [CBS (미국의 방송사)에](../Page/CBS_\(미국의_방송사\).md "wikilink") 인수되고 주파수를 860kHz로 변경하였다. [1941년](../Page/1941년.md "wikilink")에는 현재의 880kHz로 옮기고, [1946년](../Page/1946년.md "wikilink") [11월 2일에는](../Page/11월_2일.md "wikilink") 현재의 WCBS로 변경하였다.

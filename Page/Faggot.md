@@ -3,7 +3,7 @@
 
 **Faggot** 또는 간단히 **Fag**는 주로 [북아메리카](../Page/북아메리카.md "wikilink")에서 사용되는, 남자 [동성애자](https://ko.wikipedia.org/wiki/동성애자 "wikilink")를 비하하는 단어이다.\[1\]\[2\]\[3\] [레즈비언](../Page/레즈비언.md "wikilink")인 여성을 가리키기 위해 사용되는 경우도 있다.\[4\]\[5\]\[6\]
 
-**F\*g are you doing there?**
+예문)**F\*g are you doing there?**
 
 ## 각주
 

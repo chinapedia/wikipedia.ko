@@ -86,7 +86,7 @@ SELECT name,
 
 ## 외부 링크
 
-  - [DB2 내의 자원화된 질의 테이블](http://publib.boulder.ibm.com/infocenter/dzichelp/v2r2/index.jsp?topic=/com.ibm.db2z10.doc.intro/src/tpc/db2z_typesoftables.htm)
+  - [DB2 내의 자원화된 질의 테이블](https://archive.today/20130103084125/http://publib.boulder.ibm.com/infocenter/dzichelp/v2r2/index.jsp?topic=/com.ibm.db2z10.doc.intro/src/tpc/db2z_typesoftables.htm)
   - [마이크로소트프 SQL 서버 내의 뷰](http://msdn.microsoft.com/en-us/library/ms187956.aspx)
   - [MySQL의 뷰들](http://dev.mysql.com/doc/refman/5.1/en/views.html)
   - [PostgreSQL에서의 뷰](http://www.postgresql.org/docs/current/interactive/tutorial-views.html)

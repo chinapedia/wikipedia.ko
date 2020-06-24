@@ -580,7 +580,7 @@
 <tbody>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/2018" title="wikilink">2018</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/V_LIVE" title="wikilink">V LIVE</a></p></td>
+<td><p><a href="../Page/V_LIVE.md" title="wikilink">V LIVE</a></p></td>
 <td><p>DAY6의 Free한 라디오 시즌2</p></td>
 <td><ul>
 <li><a href="https://www.youtube.com/watch?v=VLtXTF_H6KA">DJ 성진 with Young K, 도운</a></li>
@@ -725,8 +725,8 @@
 <td><ul>
 <li><a href="https://www.vlive.tv/video/6800?channelCode=F4F147">DAY6 합주실 라이브 (DAY6 Rehearsal studio Live)</a></li>
 </ul></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/V_LIVE" title="wikilink">V LIVE</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/V_LIVE" title="wikilink">V LIVE</a></p></td>
+<td><p><a href="../Page/V_LIVE.md" title="wikilink">V LIVE</a></p></td>
+<td><p><a href="../Page/V_LIVE.md" title="wikilink">V LIVE</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/2017" title="wikilink">2017</a></p></td>
@@ -736,8 +736,8 @@
 <td><ul>
 <li><a href="https://www.vlive.tv/video/20102?channelCode=F4F147">DAY6 Pre-Concert 〈Every DAY6〉 with V Live</a></li>
 </ul></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/V_LIVE" title="wikilink">V LIVE</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/V_LIVE" title="wikilink">V LIVE</a></p></td>
+<td><p><a href="../Page/V_LIVE.md" title="wikilink">V LIVE</a></p></td>
+<td><p><a href="../Page/V_LIVE.md" title="wikilink">V LIVE</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/2017" title="wikilink">2017</a></p></td>
@@ -747,8 +747,8 @@
 <td><ul>
 <li><a href="https://www.vlive.tv/video/32167?channelCode=F4F147">DAY6 Mini Concert 〈Every DAY6 June〉</a></li>
 </ul></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/V_LIVE" title="wikilink">V LIVE</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/V_LIVE" title="wikilink">V LIVE</a></p></td>
+<td><p><a href="../Page/V_LIVE.md" title="wikilink">V LIVE</a></p></td>
+<td><p><a href="../Page/V_LIVE.md" title="wikilink">V LIVE</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/2017" title="wikilink">2017</a></p></td>
@@ -758,8 +758,8 @@
 <td><ul>
 <li><a href="https://www.vlive.tv/video/50603?channelCode=F4F147">DAY6 Mini Concert 〈Every DAY6 December〉</a></li>
 </ul></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/V_LIVE" title="wikilink">V LIVE</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/V_LIVE" title="wikilink">V LIVE</a></p></td>
+<td><p><a href="../Page/V_LIVE.md" title="wikilink">V LIVE</a></p></td>
+<td><p><a href="../Page/V_LIVE.md" title="wikilink">V LIVE</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/2018" title="wikilink">2018</a></p></td>
@@ -769,8 +769,8 @@
 <td><ul>
 <li><a href="https://www.vlive.tv/video/76793?channelCode=F4F147">DAY6 〈Shoot Me : Youth Part 1〉COMEBACK LIVE</a></li>
 </ul></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/V_LIVE" title="wikilink">V LIVE</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/V_LIVE" title="wikilink">V LIVE</a></p></td>
+<td><p><a href="../Page/V_LIVE.md" title="wikilink">V LIVE</a></p></td>
+<td><p><a href="../Page/V_LIVE.md" title="wikilink">V LIVE</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/2018" title="wikilink">2018</a></p></td>
@@ -780,8 +780,8 @@
 <td><ul>
 <li><a href="https://www.vlive.tv/video/102902?channelCode=F4F147">DAY6 〈Remember Us : Youth Part 2〉COMEBACK LIVE</a></li>
 </ul></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/V_LIVE" title="wikilink">V LIVE</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/V_LIVE" title="wikilink">V LIVE</a></p></td>
+<td><p><a href="../Page/V_LIVE.md" title="wikilink">V LIVE</a></p></td>
+<td><p><a href="../Page/V_LIVE.md" title="wikilink">V LIVE</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/2019" title="wikilink">2019</a></p></td>
@@ -791,8 +791,8 @@
 <td><ul>
 <li><a href="https://www.vlive.tv/video/139245?channelCode=F4F147">COMEBACK DAY6 〈The Book of Us : Gravity〉 LIVE TALK</a></li>
 </ul></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/V_LIVE" title="wikilink">V LIVE</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/V_LIVE" title="wikilink">V LIVE</a></p></td>
+<td><p><a href="../Page/V_LIVE.md" title="wikilink">V LIVE</a></p></td>
+<td><p><a href="../Page/V_LIVE.md" title="wikilink">V LIVE</a></p></td>
 </tr>
 <tr class="even">
 <td><p>rowspan="2|<a href="https://ko.wikipedia.org/wiki/2019" title="wikilink">2019</a></p></td>
@@ -802,8 +802,8 @@
 <td><ul>
 <li><a href="https://www.vlive.tv/video/155417?channelCode=F4F147">DAY6 〈The Book of Us : Entropy〉 Showcase</a></li>
 </ul></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/V_LIVE" title="wikilink">V LIVE</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/V_LIVE" title="wikilink">V LIVE</a></p></td>
+<td><p><a href="../Page/V_LIVE.md" title="wikilink">V LIVE</a></p></td>
+<td><p><a href="../Page/V_LIVE.md" title="wikilink">V LIVE</a></p></td>
 </tr>
 <tr class="odd">
 <td><ul>
@@ -837,7 +837,7 @@
 <tbody>
 <tr class="odd">
 <td><p>rowspan="2|<a href="https://ko.wikipedia.org/wiki/2017" title="wikilink">2017</a></p></td>
-<td><p>rowspan="2|<a href="https://ko.wikipedia.org/wiki/V_LIVE" title="wikilink">V LIVE</a></p></td>
+<td><p>rowspan="2|<a href="../Page/V_LIVE.md" title="wikilink">V LIVE</a></p></td>
 <td><ul>
 <li><a href="https://www.vlive.tv/video/24355">Young K 〈그럴텐데〉 작사 비하인드</a></li>
 <li><a href="https://www.vlive.tv/video/24354">원필 〈그럴텐데〉 작곡 비하인드</a></li>
@@ -858,7 +858,7 @@
 </tr>
 <tr class="odd">
 <td><p>rowspan="2|<a href="https://ko.wikipedia.org/wiki/2017" title="wikilink">2017</a></p></td>
-<td><p>rowspan="2|<a href="https://ko.wikipedia.org/wiki/V_LIVE" title="wikilink">V LIVE</a></p></td>
+<td><p>rowspan="2|<a href="../Page/V_LIVE.md" title="wikilink">V LIVE</a></p></td>
 <td><ul>
 <li><a href="https://www.vlive.tv/video/26841">성진 〈장난아닌데〉 작곡 비하인드</a></li>
 <li><a href="https://www.vlive.tv/video/26843">도운 〈장난아닌데〉 비하인드</a></li>
@@ -879,7 +879,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/2017" title="wikilink">2017</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/V_LIVE" title="wikilink">V LIVE</a></p></td>
+<td><p><a href="../Page/V_LIVE.md" title="wikilink">V LIVE</a></p></td>
 <td><ul>
 <li><a href="https://www.vlive.tv/video/26842">Jae 〈Say Wow〉 비하인드</a></li>
 </ul></td>
@@ -889,7 +889,7 @@
 </tr>
 <tr class="even">
 <td><p>rowspan="2|<a href="https://ko.wikipedia.org/wiki/2017" title="wikilink">2017</a></p></td>
-<td><p>rowspan="2|<a href="https://ko.wikipedia.org/wiki/V_LIVE" title="wikilink">V LIVE</a></p></td>
+<td><p>rowspan="2|<a href="../Page/V_LIVE.md" title="wikilink">V LIVE</a></p></td>
 <td><ul>
 <li><a href="https://www.vlive.tv/video/29538">Young K 〈Man in a movie〉 작사 비하인드</a></li>
 </ul></td>
@@ -909,7 +909,7 @@
 </tr>
 <tr class="even">
 <td><p>rowspan="2|<a href="https://ko.wikipedia.org/wiki/2017" title="wikilink">2017</a></p></td>
-<td><p>rowspan="2|<a href="https://ko.wikipedia.org/wiki/V_LIVE" title="wikilink">V LIVE</a></p></td>
+<td><p>rowspan="2|<a href="../Page/V_LIVE.md" title="wikilink">V LIVE</a></p></td>
 <td><ul>
 <li><a href="https://www.vlive.tv/video/29536">Jae 〈DANCE DANCE〉 작곡 비하인드</a></li>
 <li><a href="https://www.vlive.tv/video/29537">도운 〈DANCE DANCE〉 작곡 비하인드</a></li>
@@ -930,7 +930,7 @@
 </tr>
 <tr class="even">
 <td><p>rowspan="2|<a href="https://ko.wikipedia.org/wiki/2017" title="wikilink">2017</a></p></td>
-<td><p>rowspan="2|<a href="https://ko.wikipedia.org/wiki/V_LIVE" title="wikilink">V LIVE</a></p></td>
+<td><p>rowspan="2|<a href="../Page/V_LIVE.md" title="wikilink">V LIVE</a></p></td>
 <td><ul>
 <li><a href="https://www.vlive.tv/video/32257">Jae, Young K, 원필 〈반드시 웃는다〉 작업 비하인드</a></li>
 </ul></td>
@@ -950,7 +950,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/2017" title="wikilink">2017</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/V_LIVE" title="wikilink">V LIVE</a></p></td>
+<td><p><a href="../Page/V_LIVE.md" title="wikilink">V LIVE</a></p></td>
 <td><ul>
 <li><a href="https://www.vlive.tv/video/32258">성진, 도운 〈오늘은 내게〉 작업 비하인드</a></li>
 </ul></td>
@@ -960,7 +960,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/2017" title="wikilink">2017</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/V_LIVE" title="wikilink">V LIVE</a></p></td>
+<td><p><a href="../Page/V_LIVE.md" title="wikilink">V LIVE</a></p></td>
 <td><ul>
 <li><a href="https://www.vlive.tv/video/34888">Young K 〈Be Lazy〉 작업 비하인드</a></li>
 </ul></td>
@@ -970,7 +970,7 @@
 </tr>
 <tr class="even">
 <td><p>rowspan="2|<a href="https://ko.wikipedia.org/wiki/2017" title="wikilink">2017</a></p></td>
-<td><p>rowspan="2|<a href="https://ko.wikipedia.org/wiki/V_LIVE" title="wikilink">V LIVE</a></p></td>
+<td><p>rowspan="2|<a href="../Page/V_LIVE.md" title="wikilink">V LIVE</a></p></td>
 <td><ul>
 <li><a href="https://www.vlive.tv/video/34889">Jae 〈Hi Hello〉 작곡 비하인드</a></li>
 </ul></td>
@@ -990,7 +990,7 @@
 </tr>
 <tr class="even">
 <td><p>rowspan="2|<a href="https://ko.wikipedia.org/wiki/2017" title="wikilink">2017</a></p></td>
-<td><p>rowspan="2|<a href="https://ko.wikipedia.org/wiki/V_LIVE" title="wikilink">V LIVE</a></p></td>
+<td><p>rowspan="2|<a href="../Page/V_LIVE.md" title="wikilink">V LIVE</a></p></td>
 <td><ul>
 <li><a href="https://www.vlive.tv/video/38008">성진 〈좋은걸 뭐 어떡해〉 작업 비하인드</a></li>
 </ul></td>
@@ -1010,7 +1010,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/2017" title="wikilink">2017</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/V_LIVE" title="wikilink">V LIVE</a></p></td>
+<td><p><a href="../Page/V_LIVE.md" title="wikilink">V LIVE</a></p></td>
 <td><ul>
 <li><a href="https://www.vlive.tv/video/38009">원필 〈놀래!〉 작업 비하인드</a></li>
 </ul></td>
@@ -1020,7 +1020,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/2017" title="wikilink">2017</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/V_LIVE" title="wikilink">V LIVE</a></p></td>
+<td><p><a href="../Page/V_LIVE.md" title="wikilink">V LIVE</a></p></td>
 <td><ul>
 <li><a href="https://www.vlive.tv/video/40918">도운 〈남겨둘게〉 작업 비하인드</a></li>
 <li><a href="https://www.vlive.tv/video/40916">Jae 〈남겨둘게〉 작업 비하인드</a></li>
@@ -1031,7 +1031,7 @@
 </tr>
 <tr class="even">
 <td><p>rowspan="2|<a href="https://ko.wikipedia.org/wiki/2017" title="wikilink">2017</a></p></td>
-<td><p>rowspan="2|<a href="https://ko.wikipedia.org/wiki/V_LIVE" title="wikilink">V LIVE</a></p></td>
+<td><p>rowspan="2|<a href="../Page/V_LIVE.md" title="wikilink">V LIVE</a></p></td>
 <td><ul>
 <li><a href="https://www.vlive.tv/video/40917">Young K 〈'I Loved You'〉 작업 비하인드</a></li>
 </ul></td>
@@ -1051,7 +1051,7 @@
 </tr>
 <tr class="even">
 <td><p>rowspan="2|<a href="https://ko.wikipedia.org/wiki/2017" title="wikilink">2017</a></p></td>
-<td><p>rowspan="2|<a href="https://ko.wikipedia.org/wiki/V_LIVE" title="wikilink">V LIVE</a></p></td>
+<td><p>rowspan="2|<a href="../Page/V_LIVE.md" title="wikilink">V LIVE</a></p></td>
 <td><ul>
 <li><a href="https://www.vlive.tv/video/43206">Young K 〈누군가 필요해〉 작업 비하인드</a></li>
 </ul></td>
@@ -1071,7 +1071,7 @@
 </tr>
 <tr class="even">
 <td><p>rowspan="2|<a href="https://ko.wikipedia.org/wiki/2017" title="wikilink">2017</a></p></td>
-<td><p>rowspan="2|<a href="https://ko.wikipedia.org/wiki/V_LIVE" title="wikilink">V LIVE</a></p></td>
+<td><p>rowspan="2|<a href="../Page/V_LIVE.md" title="wikilink">V LIVE</a></p></td>
 <td><ul>
 <li><a href="https://www.vlive.tv/video/43205">성진, 원필 〈그렇더라고요〉 작업 비하인드</a></li>
 </ul></td>
@@ -1091,7 +1091,7 @@
 </tr>
 <tr class="even">
 <td><p>rowspan="2|<a href="https://ko.wikipedia.org/wiki/2017" title="wikilink">2017</a></p></td>
-<td><p>rowspan="2|<a href="https://ko.wikipedia.org/wiki/V_LIVE" title="wikilink">V LIVE</a></p></td>
+<td><p>rowspan="2|<a href="../Page/V_LIVE.md" title="wikilink">V LIVE</a></p></td>
 <td><ul>
 <li><a href="https://www.vlive.tv/video/46928">Young K 〈혼자야〉 작업 비하인드</a></li>
 </ul></td>
@@ -1111,7 +1111,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/2017" title="wikilink">2017</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/V_LIVE" title="wikilink">V LIVE</a></p></td>
+<td><p><a href="../Page/V_LIVE.md" title="wikilink">V LIVE</a></p></td>
 <td><ul>
 <li><a href="https://www.vlive.tv/video/46929">Jae 〈쏟아진다〉 작업 비하인드</a></li>
 </ul></td>
@@ -1354,7 +1354,7 @@ MAJORCODE, 문상선</p></td>
 </tbody>
 </table>
 
-### 로고송
+### 로고 송
 
 #### TV
 
@@ -1401,7 +1401,7 @@ MAJORCODE, 문상선</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/KBS_Cool_FM" title="wikilink">KBS Cool FM</a></p></td>
 <td><p>《<a href="../Page/볼륨을_높여요.md" title="wikilink">강한나의 볼륨을 높여요</a>》</p></td>
 <td><ul>
-<li><a href="https://www.youtube.com/watch?v=QdbGVZqD1b0">DAY6 (데이식스) '강한나의 볼륨을 높여요' 로고송♬</a></li>
+<li><a href="https://www.youtube.com/watch?v=QdbGVZqD1b0">DAY6 (데이식스) '강한나의 볼륨을 높여요' 로고 송♬</a></li>
 </ul></td>
 <td><p>2020.04.22</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/KBS_Cool_FM" title="wikilink">KBS Cool FM</a></p></td>
@@ -1410,6 +1410,44 @@ MAJORCODE, 문상선</p></td>
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+### 캠페인 송
+
+#### 유기농 송
+
+<table>
+<thead>
+<tr class="header">
+<th><p>연도</p></th>
+<th><p>방송사</p></th>
+<th><p>제목</p></th>
+<th><p>비고</p></th>
+<th><p>공급사</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>rowspan="2|<a href="https://ko.wikipedia.org/wiki/2020" title="wikilink">2020</a></p></td>
+<td><p>rowspan="2|친환경농산물 의무자조금관리 위원회</p></td>
+<td><ul>
+<li><a href="https://www.youtube.com/watch?v=7_HYO6IaiEY">DAY6(데이식스)의 유기농송 '유기농 먹자'</a></li>
+</ul></td>
+<td><p>2020.05.27</p></td>
+<td><p>rowspan="2|지구를 지키는 팜어쓰TV</p></td>
+</tr>
+<tr class="even">
+<td><ul>
+<li><a href="https://www.youtube.com/watch?v=n_jZzVF8gUs">데이식스(DAY6)의 유기농송 메이킹 영상</a></li>
+<li><a href="https://www.youtube.com/watch?v=vuLZiRnP-34">데이식스(DAY6)의 유기농송 촬영 인터뷰!</a></li>
+</ul></td>
+<td><p>2020.05.22<br />
+2020.05.27</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2187,6 +2225,20 @@ M2</p></td>
 <td><p>ZANY TV</p></td>
 </tr>
 <tr class="even">
+<td><p>2020.04.20</p></td>
+<td><p>DAY6</p></td>
+<td><ul>
+<li><a href="https://www.youtube.com/watch?v=xMW3QdSGl-I">DAY6 〈담배가게 아가씨〉</a><br />
+</li>
+<li><a href="https://www.youtube.com/watch?v=NZnjB2JHs0Q">‘살아있는 전설’ 송창식이 인정한 데이식스!</a><br />
+</li>
+</ul></td>
+<td><p>원곡 : <a href="https://ko.wikipedia.org/wiki/송창식" title="wikilink">송창식</a></p></td>
+<td><p><a href="../Page/본격연예_한밤.md" title="wikilink">본격연예 한밤</a></p></td>
+<td><p><a href="../Page/SBS.md" title="wikilink">SBS</a></p></td>
+<td><p><a href="../Page/SBS.md" title="wikilink">SBS</a></p></td>
+</tr>
+<tr class="odd">
 <td><p>2016.09.28</p></td>
 <td><p>DAY6</p></td>
 <td><ul>
@@ -2198,7 +2250,7 @@ M2</p></td>
 <td><p>DAY6 SoundTrack</p></td>
 <td><p>KSTYLE TV</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2016.10.12</p></td>
 <td><p>DAY6</p></td>
 <td><ul>
@@ -2209,7 +2261,7 @@ M2</p></td>
 <td><p>DAY6 SoundTrack</p></td>
 <td><p>KSTYLE TV</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2016.10.25</p></td>
 <td><p>DAY6</p></td>
 <td><ul>
@@ -2221,7 +2273,7 @@ M2</p></td>
 <td><p>DAY6 SoundTrack</p></td>
 <td><p>KSTYLE TV</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2016.11.08</p></td>
 <td><p>DAY6</p></td>
 <td><ul>
@@ -2233,7 +2285,7 @@ M2</p></td>
 <td><p>DAY6 SoundTrack</p></td>
 <td><p>KSTYLE TV</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2016.11.22</p></td>
 <td><p>DAY6</p></td>
 <td><ul>
@@ -2245,7 +2297,7 @@ M2</p></td>
 <td><p>DAY6 SoundTrack</p></td>
 <td><p>KSTYLE TV</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2017.06.30</p></td>
 <td><p>DAY6</p></td>
 <td><ul>
@@ -2258,7 +2310,7 @@ M2</p></td>
 <td><p><a href="../Page/뮤직뱅크.md" title="wikilink">뮤직뱅크</a></p></td>
 <td><p>KBS Kpop</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2017.12.01</p></td>
 <td><p>DAY6</p></td>
 <td><ul>
@@ -2271,7 +2323,7 @@ M2</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/엠넷_아시안_뮤직_어워드" title="wikilink">2017 MAMA</a></p></td>
 <td><p><a href="../Page/네이버.md" title="wikilink">네이버</a> TV</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2017.04.05</p></td>
 <td><p>DAY6</p></td>
 <td><ul>
@@ -2283,7 +2335,7 @@ M2</p></td>
 <td><p>딩고 뮤직</p></td>
 <td><p><a href="../Page/네이버.md" title="wikilink">네이버</a> TV</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2019.07.10</p></td>
 <td><p>DAY6</p></td>
 <td><ul>
@@ -2295,7 +2347,7 @@ M2</p></td>
 <td><p><a href="../Page/주간_아이돌.md" title="wikilink">주간 아이돌</a></p></td>
 <td><p>ALL THE K-POP</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2017.01.27</p></td>
 <td><p><a href="../Page/성진_(가수).md" title="wikilink">성진</a></p></td>
 <td><ul>
@@ -2307,7 +2359,7 @@ M2</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/듀엣_가요제" title="wikilink">듀엣 가요제</a></p></td>
 <td><p><a href="../Page/네이버.md" title="wikilink">네이버</a> TV</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2017.02.03</p></td>
 <td><p><a href="../Page/성진_(가수).md" title="wikilink">성진</a></p></td>
 <td><ul>
@@ -2319,7 +2371,7 @@ M2</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/듀엣_가요제" title="wikilink">듀엣 가요제</a></p></td>
 <td><p><a href="../Page/네이버.md" title="wikilink">네이버</a> TV</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2019.05.26<br />
 2019.06.02</p></td>
 <td><p><a href="../Page/Young_K.md" title="wikilink">Young K</a></p></td>
@@ -2334,7 +2386,7 @@ M2</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/복면가왕" title="wikilink">복면가왕</a></p></td>
 <td><p><a href="../Page/네이버.md" title="wikilink">네이버</a> TV</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2019.11.03<br />
 2019.11.10</p></td>
 <td><p><a href="../Page/원필.md" title="wikilink">원필</a></p></td>
@@ -2348,7 +2400,7 @@ M2</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/복면가왕" title="wikilink">복면가왕</a></p></td>
 <td><p><a href="../Page/네이버.md" title="wikilink">네이버</a> TV</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -3134,7 +3186,7 @@ M2</p></td>
 
   - (일본)
 
-[분류:2015년 데뷔](https://ko.wikipedia.org/wiki/분류:2015년_데뷔 "wikilink") [분류:5인조 음악 그룹](https://ko.wikipedia.org/wiki/분류:5인조_음악_그룹 "wikilink") [분류:2015년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2015년_결성된_음악_그룹 "wikilink") [분류:JYP 엔터테인먼트 소속](https://ko.wikipedia.org/wiki/분류:JYP_엔터테인먼트_소속 "wikilink") [분류:대한민국의 아이돌 그룹](https://ko.wikipedia.org/wiki/분류:대한민국의_아이돌_그룹 "wikilink") [분류:아이돌 그룹](https://ko.wikipedia.org/wiki/분류:아이돌_그룹 "wikilink") [분류:다국적 음악 그룹](https://ko.wikipedia.org/wiki/분류:다국적_음악_그룹 "wikilink") [분류:2010년대 음악 그룹](https://ko.wikipedia.org/wiki/분류:2010년대_음악_그룹 "wikilink") [분류:한국어 음악 그룹](https://ko.wikipedia.org/wiki/분류:한국어_음악_그룹 "wikilink") [분류:대한민국의 팝 록 밴드](https://ko.wikipedia.org/wiki/분류:대한민국의_팝_록_밴드 "wikilink") [분류:대한민국의 보이 밴드](https://ko.wikipedia.org/wiki/분류:대한민국의_보이_밴드 "wikilink") [분류:K-pop 음악 그룹](https://ko.wikipedia.org/wiki/분류:K-pop_음악_그룹 "wikilink")
+[분류:5인조 음악 그룹](https://ko.wikipedia.org/wiki/분류:5인조_음악_그룹 "wikilink") [분류:2015년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2015년_결성된_음악_그룹 "wikilink") [분류:JYP 엔터테인먼트 소속](https://ko.wikipedia.org/wiki/분류:JYP_엔터테인먼트_소속 "wikilink") [분류:대한민국의 아이돌 그룹](https://ko.wikipedia.org/wiki/분류:대한민국의_아이돌_그룹 "wikilink") [분류:아이돌 그룹](https://ko.wikipedia.org/wiki/분류:아이돌_그룹 "wikilink") [분류:다국적 음악 그룹](https://ko.wikipedia.org/wiki/분류:다국적_음악_그룹 "wikilink") [분류:2010년대 음악 그룹](https://ko.wikipedia.org/wiki/분류:2010년대_음악_그룹 "wikilink") [분류:한국어 음악 그룹](https://ko.wikipedia.org/wiki/분류:한국어_음악_그룹 "wikilink") [분류:대한민국의 팝 록 밴드](https://ko.wikipedia.org/wiki/분류:대한민국의_팝_록_밴드 "wikilink") [분류:대한민국의 보이 밴드](https://ko.wikipedia.org/wiki/분류:대한민국의_보이_밴드 "wikilink") [분류:K-pop 음악 그룹](https://ko.wikipedia.org/wiki/분류:K-pop_음악_그룹 "wikilink")
 
 1.
 2.

@@ -138,7 +138,7 @@
   - [아메후라시](../Page/아메후라시.md "wikilink")
   - [이키나리 토호쿠산](../Page/이키나리_토호쿠산.md "wikilink")
   - [CROWN POP](../Page/CROWN_POP.md "wikilink")
-  - [B.O.L.T](https://ko.wikipedia.org/wiki/B.O.L.T "wikilink")
+  - [B.O.L.T](../Page/B.O.L.T.md "wikilink")
 
 ## 외부 링크
 

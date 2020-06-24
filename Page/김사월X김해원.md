@@ -38,7 +38,7 @@
 
   -
   -
-[분류:대한민국의 음악 그룹](https://ko.wikipedia.org/wiki/분류:대한민국의_음악_그룹 "wikilink") [분류:2010년대 음악 그룹](https://ko.wikipedia.org/wiki/분류:2010년대_음악_그룹 "wikilink") [분류:2인조 음악 그룹](https://ko.wikipedia.org/wiki/분류:2인조_음악_그룹 "wikilink") [분류:2014년 데뷔](https://ko.wikipedia.org/wiki/분류:2014년_데뷔 "wikilink") [분류:혼성 음악 그룹](https://ko.wikipedia.org/wiki/분류:혼성_음악_그룹 "wikilink") [분류:한국대중음악상 수상 음악가](https://ko.wikipedia.org/wiki/분류:한국대중음악상_수상_음악가 "wikilink")
+[분류:대한민국의 음악 그룹](https://ko.wikipedia.org/wiki/분류:대한민국의_음악_그룹 "wikilink") [분류:2010년대 음악 그룹](https://ko.wikipedia.org/wiki/분류:2010년대_음악_그룹 "wikilink") [분류:혼성 듀오](https://ko.wikipedia.org/wiki/분류:혼성_듀오 "wikilink") [분류:한국대중음악상 수상 음악가](https://ko.wikipedia.org/wiki/분류:한국대중음악상_수상_음악가 "wikilink")
 
 1.
 2.  <https://www.facebook.com/kswxkhw>

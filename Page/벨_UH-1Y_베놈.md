@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [벨 UH-1Y 베놈](https://ko.wikipedia.org/wiki/벨_UH-1Y_베놈).
 
 
-**벨 UH-1Y 베놈**은 미국 [벨](https://ko.wikipedia.org/wiki/벨 "wikilink")사가 개발한 [UH-1](https://ko.wikipedia.org/wiki/UH-1 "wikilink") 시리즈의 최신형 헬기이다. [UH-1](https://ko.wikipedia.org/wiki/UH-1 "wikilink")이 휴이라고 불렸기 때문에, **슈퍼 휴이**, **양키 휴이**라고도 부른다.
+**벨 UH-1Y 베놈**은 미국 [벨](../Page/벨.md "wikilink")사가 개발한 [UH-1](https://ko.wikipedia.org/wiki/UH-1 "wikilink") 시리즈의 최신형 헬기이다. [UH-1](https://ko.wikipedia.org/wiki/UH-1 "wikilink")이 휴이라고 불렸기 때문에, **슈퍼 휴이**, **양키 휴이**라고도 부른다.
 
 ## 역사
 

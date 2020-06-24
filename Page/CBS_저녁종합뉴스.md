@@ -34,7 +34,7 @@
 
 ## 동시 시간대 뉴스 프로그램
 
-  - [BBS 뉴스파노라마](https://ko.wikipedia.org/wiki/BBS_뉴스파노라마 "wikilink") ([BBS 불교방송](../Page/불교방송.md "wikilink"))
+  - [BBS 뉴스파노라마](../Page/BBS_뉴스파노라마.md "wikilink") ([BBS 불교방송](../Page/불교방송.md "wikilink"))
   - [TBS 저녁종합뉴스](https://ko.wikipedia.org/wiki/TBS_저녁종합뉴스 "wikilink") ([TBS 교통방송](../Page/TBS_\(대한민국의_방송사\).md "wikilink"))
 
 [분류:기독교방송의 뉴스 라디오 프로그램](https://ko.wikipedia.org/wiki/분류:기독교방송의_뉴스_라디오_프로그램 "wikilink")

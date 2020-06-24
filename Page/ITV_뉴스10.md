@@ -37,7 +37,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="../Page/경인방송.md" title="wikilink">iTV 경인방송</a></p></td>
+<td><p><a href="../Page/경인방송.md" title="wikilink">iTV</a></p></td>
 <td><p><a href="../Page/1997년.md" title="wikilink">1997년</a> <a href="../Page/10월_11일.md" title="wikilink">10월 11일</a> ~ <a href="../Page/1998년.md" title="wikilink">1998년</a> <a href="../Page/4월_19일.md" title="wikilink">4월 19일</a></p></td>
 <td><p>매일 밤 8:00 ~ 밤 8:30 (30분)</p></td>
 </tr>

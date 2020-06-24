@@ -19,10 +19,10 @@
 
 NoSQL 데이터베이스를 분류하는 접근 방식은 분류와 하위 분류와 함께 다양하다. 다양한 접근 방식으로 인해 비관계형 데이터베이스를 포괄적으로 파악하는 데에는 어려움이 있다. 그럼에도 동의할만한 수준의 기본적인 분류는 데이터 모델에 기반을 둔다. 이 가운데 몇 가지와 이들이 가진 프로토타입은 다음과 같다:
 
-  - 컬럼: [H베이스](https://ko.wikipedia.org/wiki/H베이스 "wikilink"), [아큐물로](https://ko.wikipedia.org/wiki/아파치_아큐물로 "wikilink")
+  - [와이드 컬럼 스토어](https://ko.wikipedia.org/wiki/와이드_컬럼_스토어 "wikilink"): [H베이스](https://ko.wikipedia.org/wiki/H베이스 "wikilink"), [아큐물로](https://ko.wikipedia.org/wiki/아파치_아큐물로 "wikilink"), [카산드라](../Page/아파치_카산드라.md "wikilink")
   - 도큐먼트: [몽고DB](../Page/몽고DB.md "wikilink"), [카우치베이스](https://ko.wikipedia.org/wiki/카우치베이스 "wikilink")
-  - 키 값: [다이나모](https://ko.wikipedia.org/wiki/다이나모 "wikilink"), [리악](https://ko.wikipedia.org/wiki/리악 "wikilink"), [레디스](../Page/레디스.md "wikilink"), [캐시](https://ko.wikipedia.org/wiki/MemcacheDB "wikilink"), [프로젝트 볼드모트](https://ko.wikipedia.org/wiki/프로젝트_볼드모트 "wikilink")
-  - 그래프: [Neo4J](https://ko.wikipedia.org/wiki/Neo4J "wikilink"), [AgensGraph](../Page/비트나인.md "wikilink"), [알레그로그래프](https://ko.wikipedia.org/wiki/알레그로그래프 "wikilink"), [버투오소](https://ko.wikipedia.org/wiki/버투오소_유니버설_서버 "wikilink")
+  - [키 값](../Page/키-값_데이터베이스.md "wikilink"): [다이나모](https://ko.wikipedia.org/wiki/다이나모 "wikilink"), [리악](https://ko.wikipedia.org/wiki/리악 "wikilink"), [레디스](../Page/레디스.md "wikilink"), [캐시](https://ko.wikipedia.org/wiki/MemcacheDB "wikilink"), [프로젝트 볼드모트](https://ko.wikipedia.org/wiki/프로젝트_볼드모트 "wikilink")
+  - [그래프](../Page/그래프_데이터베이스.md "wikilink"): [Neo4J](https://ko.wikipedia.org/wiki/Neo4J "wikilink"), [AgensGraph](../Page/비트나인.md "wikilink"), [알레그로그래프](https://ko.wikipedia.org/wiki/알레그로그래프 "wikilink"), [버투오소](https://ko.wikipedia.org/wiki/버투오소_유니버설_서버 "wikilink")
 
 스티븐 옌은 자신의 블로그의 글 "NoSQL is a Horseless Carriage"에서 NoSQL 데이터베이스들을 다음과 같이 분류했다.\[16\]
 

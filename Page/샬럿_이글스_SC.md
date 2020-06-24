@@ -79,4 +79,4 @@
 
   - [샬럿 인디펜던스](../Page/샬럿_인디펜던스.md "wikilink")
 
-[분류:미국의 축구단](https://ko.wikipedia.org/wiki/분류:미국의_축구단 "wikilink") [분류:1991년 설립된 축구단](https://ko.wikipedia.org/wiki/분류:1991년_설립된_축구단 "wikilink")
+[분류:미국의 축구단](https://ko.wikipedia.org/wiki/분류:미국의_축구단 "wikilink") [분류:1991년 설립된 축구단](https://ko.wikipedia.org/wiki/분류:1991년_설립된_축구단 "wikilink") [분류:노스캐롤라이나주의 축구단](https://ko.wikipedia.org/wiki/분류:노스캐롤라이나주의_축구단 "wikilink")

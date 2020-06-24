@@ -5350,7 +5350,7 @@
 <tr class="even">
 <td><p>589</p></td>
 <td><p>10월 28일</p></td>
-<td><p>1. 현대판 <a href="https://ko.wikipedia.org/wiki/대리모" title="wikilink">씨받이 아기를</a> 낳아드립니다<br />
+<td><p>1. 현대판 <a href="../Page/대리모.md" title="wikilink">씨받이 아기를</a> 낳아드립니다<br />
 2. 가을을 맛보다! 산중 진미 대탐험<br />
 3. 도전은 계속된다! 이색 대회 참가기<br />
 4. 걷고 보고 즐겨라! '유럽의 지붕' 스위스를 가다!</p></td>

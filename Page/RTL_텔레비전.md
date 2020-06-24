@@ -7,7 +7,7 @@
 
 [1984년](../Page/1984년.md "wikilink") [1월 2일](../Page/1월_2일.md "wikilink") 오후 5시 27분, 룩셈부르크에서 [독일어](../Page/독일어.md "wikilink") 방송인 "RTL Plus"로 개국하였으며 이미 이 때 부터 독일 가청권으로 하고 있었다. [1988년](../Page/1988년.md "wikilink")에는 본사를 [쾰른](../Page/쾰른.md "wikilink")으로 옮겼다. [1992년](../Page/1992년.md "wikilink")에 현재의 이름으로 바뀌었다.
 
-[2013년](../Page/2013년.md "wikilink") [1월 17일에는](../Page/1월_17일.md "wikilink") [2014년](../Page/2014년.md "wikilink") [12월 31일부로](../Page/12월_31일.md "wikilink") RTL 계열 채널들의 [지상파](https://ko.wikipedia.org/wiki/지상파 "wikilink") [디지털 텔레비전](../Page/디지털_텔레비전.md "wikilink") ([DVB-T](https://ko.wikipedia.org/wiki/DVB-T "wikilink")) 송출을 중단하겠다고 발표하였다. 이 후에 [2013년](../Page/2013년.md "wikilink") [7월 31일에](../Page/7월_31일.md "wikilink") [바이에른주](../Page/바이에른주.md "wikilink")에서 먼저 지상파 채널 송출을 중단하고, [2017년](../Page/2017년.md "wikilink") [3월 29일](../Page/3월_29일.md "wikilink") [HEVC](https://ko.wikipedia.org/wiki/HEVC "wikilink") 기반 [DVB-T2](https://ko.wikipedia.org/wiki/DVB-T2 "wikilink") 방송으로 전환하면서 DVB-T 송출은 완전히 종료되었다.
+[2013년](../Page/2013년.md "wikilink") [1월 17일에는](../Page/1월_17일.md "wikilink") [2014년](../Page/2014년.md "wikilink") [12월 31일부로](../Page/12월_31일.md "wikilink") RTL 계열 채널들의 [지상파](https://ko.wikipedia.org/wiki/지상파 "wikilink") [디지털 텔레비전](../Page/디지털_텔레비전.md "wikilink") ([DVB-T](../Page/DVB-T.md "wikilink")) 송출을 중단하겠다고 발표하였다. 이 후에 [2013년](../Page/2013년.md "wikilink") [7월 31일에](../Page/7월_31일.md "wikilink") [바이에른주](../Page/바이에른주.md "wikilink")에서 먼저 지상파 채널 송출을 중단하고, [2017년](../Page/2017년.md "wikilink") [3월 29일](../Page/3월_29일.md "wikilink") [HEVC](https://ko.wikipedia.org/wiki/HEVC "wikilink") 기반 [DVB-T2](https://ko.wikipedia.org/wiki/DVB-T2 "wikilink") 방송으로 전환하면서 DVB-T 송출은 완전히 종료되었다.
 
 ## 주요 프로그램
 

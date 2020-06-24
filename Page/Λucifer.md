@@ -123,7 +123,7 @@
 
 1.
 2.
-3.  <http://www.vkdb.jp/DUSTAR-3.html>
+3.
 4.  <http://akbportal.net/henkyoku.php?hen=%E7%94%B0%E5%8F%A3%E6%99%BA%E5%89%87>
 5.
 6.

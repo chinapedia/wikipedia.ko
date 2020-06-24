@@ -13,7 +13,7 @@
   - [TV 2/Fyn](https://ko.wikipedia.org/wiki/TV_2/Fyn "wikilink") (구 [퓐스 주](../Page/퓐스_주.md "wikilink"))
   - [TV 2/Øst](https://ko.wikipedia.org/wiki/TV_2/Øst "wikilink") (구 [스토르스트룀 주](../Page/스토르스트룀_주.md "wikilink"), 구 [베스트셸란 주](../Page/베스트셸란_주.md "wikilink"))
   - [TV 2/Nord](https://ko.wikipedia.org/wiki/TV_2/Nord "wikilink") (구 [노르윌란 주](../Page/노르윌란_주.md "wikilink"))
-  - [TV 2/Lorry](https://ko.wikipedia.org/wiki/TV_2/Lorry "wikilink") ((구 [코펜하겐 주](../Page/코펜하겐_주.md "wikilink"), 구 [프레데릭스보르 주](../Page/프레데릭스보르_주.md "wikilink"), 구 [로스킬레 주](https://ko.wikipedia.org/wiki/로스킬레_주 "wikilink")))
+  - [TV 2/Lorry](https://ko.wikipedia.org/wiki/TV_2/Lorry "wikilink") ((구 [코펜하겐 주](../Page/코펜하겐_주.md "wikilink"), 구 [프레데릭스보르 주](../Page/프레데릭스보르_주.md "wikilink"), 구 [로스킬레 주](../Page/로스킬레_주.md "wikilink")))
   - [TV/Midt-Vest](https://ko.wikipedia.org/wiki/TV/Midt-Vest "wikilink") (구 [링쾨빙 주](../Page/링쾨빙_주.md "wikilink"), 구 [비보르 주](../Page/비보르_주.md "wikilink"))
   - [TV 2/Østjylland](https://ko.wikipedia.org/wiki/TV_2/Østjylland "wikilink") (구 [오르후스 주](../Page/오르후스_주.md "wikilink"))
   - [TV 2/Bornholm](https://ko.wikipedia.org/wiki/TV_2/Bornholm "wikilink") ([보른홀름 섬](https://ko.wikipedia.org/wiki/보른홀름_섬 "wikilink"))

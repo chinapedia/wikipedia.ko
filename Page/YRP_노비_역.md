@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [YRP 노비 역](https://ko.wikipedia.org/wiki/YRP_노비_역).
 
 
-**YRP 노비 역**()은 일본 [가나가와현](../Page/가나가와현.md "wikilink") [요코스카 시에](https://ko.wikipedia.org/wiki/요코스카_시 "wikilink") 있는 [철도역](../Page/철도역.md "wikilink")이다.
+**YRP 노비 역**()은 일본 [가나가와현](../Page/가나가와현.md "wikilink") [요코스카시](../Page/요코스카시.md "wikilink")에 있는 [철도역](../Page/철도역.md "wikilink")이다.
 
 ## 역 구조
 
-[상대식 승강장](https://ko.wikipedia.org/wiki/상대식_승강장 "wikilink") 2면 2선의 지상역. 개찰구 부근은 고가 구조이며, 개찰구는 역 남쪽 승강장 아래에 1개 설치되어 있다. 단선 구간에 속하여, 열차교환이 가능하다.
+[300px](https://ko.wikipedia.org/wiki/파일:Keikyu_YRP-nobi_sta_003.jpg "wikilink") [상대식 승강장](https://ko.wikipedia.org/wiki/상대식_승강장 "wikilink") 2면 2선의 지상역. 개찰구 부근은 고가 구조이며, 개찰구는 역 남쪽 승강장 아래에 1개 설치되어 있다. 단선 구간에 속하여, 열차교환이 가능하다. [300px](https://ko.wikipedia.org/wiki/파일:YRP_NOBI_sta_New_kai.jpg "wikilink")
 
 <table>
 <tbody>
@@ -48,8 +48,6 @@
 ### 역명의 유래
 
 개업 당시의 역명은 **노비**였다. 근처에 게이큐가 주체된 자금을 투자한 요코스카 리서치 파크(YRP)가 개설되어 당역이 제일 가까운 역이 되었던 것에 의해 개명되었다. 일본의 여객역으로서는 4번째, [JR](../Page/JR.md "wikilink") 이외의 철도사업자에서는 처음으로 명칭에 알파벳을 포함한 역이 되었다.
-
-## 사진
 
 ## 인접역
 

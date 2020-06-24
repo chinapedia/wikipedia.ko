@@ -53,9 +53,7 @@
 
 ### SL65 AMG 블랙 시리즈
 
-[right](https://ko.wikipedia.org/wiki/파일:Silver_MB_SL_65_AMG_BS_fl.jpg "wikilink") [right](https://ko.wikipedia.org/wiki/파일:Silver_MB_SL_65_AMG_BS_rl.jpg "wikilink")
-
-서킷 주행을 전제로 한 새로운 차종을 제작한 것이 바로 SL65 AMG 블랙 시리즈이다. 이미 괴물인 SL65 AMG를 성능 강화판으로, 곳곳에 카본 파이버를 사용해 기존 SL65 AMG에 비해 무게를 250kg 가량 줄였고, 고속 주행의 안정성을 위한 고성능 서스펜션을 가지고 있다. 또한 다운 포스를 늘리기 위해 120km/h가 되면 트렁크 위쪽의 가변 스포일러가 자동으로 일어서게 되고, 냉각을 위한 대형 벤트가 여기 저기 뚫려 있다. 고속 주행의 안정성을 위해 극적인 크기의 오버 휀더가 장착되어 있다. 이러한 튜닝으로 인해 기존의 [로드스터](https://ko.wikipedia.org/wiki/로드스터 "wikilink")에서 그냥 [쿠페](../Page/쿠페.md "wikilink")로 변하게 되었다.
+[대체글=](https://ko.wikipedia.org/wiki/파일:Mercedes-AMG_SL63_\(R231\)_rear.jpg "wikilink") [대체글=](https://ko.wikipedia.org/wiki/파일:Mercedes-Benz_SL63_AMG_\(R230\)_front.JPG "wikilink") 서킷 주행을 전제로 한 새로운 차종을 제작한 것이 바로 SL65 AMG 블랙 시리즈이다. 이미 괴물인 SL65 AMG를 성능 강화판으로, 곳곳에 카본 파이버를 사용해 기존 SL65 AMG에 비해 무게를 250kg 가량 줄였고, 고속 주행의 안정성을 위한 고성능 서스펜션을 가지고 있다. 또한 다운 포스를 늘리기 위해 120km/h가 되면 트렁크 위쪽의 가변 스포일러가 자동으로 일어서게 되고, 냉각을 위한 대형 벤트가 여기 저기 뚫려 있다. 고속 주행의 안정성을 위해 극적인 크기의 오버 휀더가 장착되어 있다. 이러한 튜닝으로 인해 기존의 [로드스터](https://ko.wikipedia.org/wiki/로드스터 "wikilink")에서 그냥 [쿠페](../Page/쿠페.md "wikilink")로 변하게 되었다.
 
 {{-}}
 
@@ -64,6 +62,8 @@
 [right](https://ko.wikipedia.org/wiki/파일:Mercedes-Benz_SL_350_AMG_Line_\(R_231\)_–_Frontansicht,_22._März_2014,_Düsseldorf.jpg "wikilink") [right](https://ko.wikipedia.org/wiki/파일:Mercedes-Benz_SL_350_AMG_Line_\(R_231\)_–_Heckansicht,_22._März_2014,_Düsseldorf.jpg "wikilink")
 
 2012년에 출시되었다. [메르세데스-벤츠](../Page/메르세데스-벤츠.md "wikilink")의 양산차로는 처음으로 100% 알루미늄 바디를 가져 5세대보다 100kg 이상 줄인 경량화를 실현했다. 액티브 바디 컨트롤 기반의 AMG 스포츠 서스펜션은 속도, 선회 속도, 조향각 등을 계산해 각 휠의 하중 배분을 제어해 측풍에 의한 영향을 최소화한다. [대한민국](../Page/대한민국.md "wikilink")에는 537마력 V8 5.5ℓ 가솔린 터보 엔진과 [7단 멀티 클러치 자동변속기가](../Page/자동변속기.md "wikilink") 달린 SL63 AMG의 최고 속도는 무려 300km/h이며, [2014년 10월부터](../Page/2014년_10월.md "wikilink") 333마력 V6 3.0ℓ 가솔린 터보 엔진이 적용된 SL400도 추가되었다. [2016년](../Page/2016년.md "wikilink")에 페이스 리프틀를 거쳐 SL400이 우선 수입되며, 367마력으로 향상되었다.
+
+## 7세대
 
 {{-}}
 

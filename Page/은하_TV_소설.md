@@ -11,10 +11,10 @@
 
 주요 히트작으로는 하시다 스가코의 각본으로 신혼 부부와 동거하는 시어머니와의 갈등을 그린 "이웃의 시바푸"(, [1976년](../Page/1976년.md "wikilink"))와 비토 다케시의 소년기를 드라마화한 "다케시군, 안녕\!"(, [1985년](../Page/1985년.md "wikilink") · [1986년](../Page/1986년.md "wikilink"))이 있다.
 
-아침의 "연속 TV 소설"에서 볼 수 없었던 특징은 [NHK 나고야 방송국도](../Page/NHK_나고야_방송국.md "wikilink") 제작에 참여함으로써 [나고야 시](https://ko.wikipedia.org/wiki/나고야_시 "wikilink") · [아이치현](../Page/아이치현.md "wikilink")을 무대로 한 작품도 다수 제작되었다.
+아침의 "연속 TV 소설"에서 볼 수 없었던 특징은 [NHK 나고야 방송국도](../Page/NHK_나고야_방송국.md "wikilink") 제작에 참여함으로써 [나고야시](../Page/나고야시.md "wikilink") · [아이치현](../Page/아이치현.md "wikilink")을 무대로 한 작품도 다수 제작되었다.
 
 프로그램 본편을 시작하기 전에 초기 10초간, 후기 5초간의 [아이캐치](https://ko.wikipedia.org/wiki/아이캐치 "wikilink")(밤하늘을 배경으로 유성이 날아다닌다)가 채용되고 있었다. 이것은 나중에 방송된 "드라마 신은하"에도 답습되었다.
 
 이 프로그램 종료 후 NHK 종합의 프라임 타임의 시간대 프로그램은 스포츠 뉴스, 교양 프로그램의 스포츠 타임(월요일부터 토요일. 일요일은 선데이 스포츠 타임이라고 자칭하고 있으며 실질적으로 모든 요일에 대응하는 것)으로 전환하였다.
 
-[분류:은하 TV 소설](https://ko.wikipedia.org/wiki/분류:은하_TV_소설 "wikilink") [분류:NHK의 텔레비전 드라마](https://ko.wikipedia.org/wiki/분류:NHK의_텔레비전_드라마 "wikilink")
+[은하_TV_소설](https://ko.wikipedia.org/wiki/분류:은하_TV_소설 "wikilink") [분류:NHK의 텔레비전 드라마](https://ko.wikipedia.org/wiki/분류:NHK의_텔레비전_드라마 "wikilink")

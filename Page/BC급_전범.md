@@ -113,7 +113,7 @@ BC급 전범 중에는 당시 합병해 있던 [조선](../Page/조선.md "wikil
   - [알로르스타르](https://ko.wikipedia.org/wiki/알로르스타르 "wikilink") : 2 재판, 피고인 16명
   - [페낭](https://ko.wikipedia.org/wiki/페낭 "wikilink") : 1 재판, 피고인 35명
   - [홍콩](../Page/홍콩.md "wikilink") : 45 재판, 피고인 123명 [1946년](../Page/1946년.md "wikilink") [3월 28일](../Page/3월_28일.md "wikilink") \~ [1949년](../Page/1949년.md "wikilink") [12월 20일](../Page/12월_20일.md "wikilink") (영국 재판 종료)
-      - [이치노미야 정](https://ko.wikipedia.org/wiki/이치노미야_정 "wikilink") 영국 [함재기](../Page/함재기.md "wikilink") 승무원 살해 사건
+      - [이치노미야정](../Page/이치노미야정.md "wikilink") 영국 [함재기](../Page/함재기.md "wikilink") 승무원 살해 사건
       - [비하호 사건](https://ko.wikipedia.org/wiki/비하호_사건 "wikilink") (도네 사건)
   - [라부안](../Page/라부안.md "wikilink") : 6 재판, 피고인 13명
   - [제셀튼](../Page/코타키나발루.md "wikilink") (아피) : 14 재판, 피고인 17명

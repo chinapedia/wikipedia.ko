@@ -51,4 +51,4 @@
 
   - [NIN×NIN 닌자 핫토리군 THE MOVIE](http://www.nin-nin.com/)
 
-[분류:꾸러기 닌자 토리](https://ko.wikipedia.org/wiki/분류:꾸러기_닌자_토리 "wikilink") [분류:2004년 영화](https://ko.wikipedia.org/wiki/분류:2004년_영화 "wikilink")
+[분류:꾸러기 닌자 토리](https://ko.wikipedia.org/wiki/분류:꾸러기_닌자_토리 "wikilink") [분류:2004년 영화](https://ko.wikipedia.org/wiki/분류:2004년_영화 "wikilink") [분류:NBC유니버설 재팬 영화](https://ko.wikipedia.org/wiki/분류:NBC유니버설_재팬_영화 "wikilink")

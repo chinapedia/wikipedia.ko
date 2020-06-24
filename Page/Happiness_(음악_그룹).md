@@ -198,7 +198,7 @@
 
   -
 
-[분류:일본의 팝 음악 그룹](https://ko.wikipedia.org/wiki/분류:일본의_팝_음악_그룹 "wikilink") [분류:일본의 걸 그룹](https://ko.wikipedia.org/wiki/분류:일본의_걸_그룹 "wikilink") [분류:2008년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2008년_결성된_음악_그룹 "wikilink") [분류:2011년 데뷔](https://ko.wikipedia.org/wiki/분류:2011년_데뷔 "wikilink") [분류:7인조 음악 그룹](https://ko.wikipedia.org/wiki/분류:7인조_음악_그룹 "wikilink") [분류:에이벡스 그룹 음악가](https://ko.wikipedia.org/wiki/분류:에이벡스_그룹_음악가 "wikilink") [분류:LDH](https://ko.wikipedia.org/wiki/분류:LDH "wikilink")
+[분류:일본의 팝 음악 그룹](https://ko.wikipedia.org/wiki/분류:일본의_팝_음악_그룹 "wikilink") [분류:일본의 걸 그룹](https://ko.wikipedia.org/wiki/분류:일본의_걸_그룹 "wikilink") [분류:2008년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2008년_결성된_음악_그룹 "wikilink") [분류:7인조 음악 그룹](https://ko.wikipedia.org/wiki/분류:7인조_음악_그룹 "wikilink") [분류:에이벡스 그룹 음악가](https://ko.wikipedia.org/wiki/분류:에이벡스_그룹_음악가 "wikilink") [분류:LDH](https://ko.wikipedia.org/wiki/분류:LDH "wikilink")
 
 1.
 2.

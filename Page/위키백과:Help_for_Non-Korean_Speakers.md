@@ -50,6 +50,7 @@ The following lists users who are able to help you:
 23. [Ykhwong](https://ko.wikipedia.org/wiki/사:Ykhwong "wikilink") ([Talk](https://ko.wikipedia.org/wiki/사토:Ykhwong "wikilink"))
 24. [Propheceer](https://ko.wikipedia.org/wiki/사:Propheceer "wikilink") ([Talk](https://ko.wikipedia.org/wiki/사토:Propheceer "wikilink"))
 25. [강남 학생](https://ko.wikipedia.org/wiki/사:강남_학생 "wikilink") ([Talk](https://ko.wikipedia.org/wiki/사토:강남_학생 "wikilink"))
+26. [바게트](https://ko.wikipedia.org/wiki/사:바게트 "wikilink") ([Talk](https://ko.wikipedia.org/wiki/사용자토론:바게트/English "wikilink"))
 
 ### **Comment Section**
 
@@ -64,10 +65,10 @@ The following lists users who are able to help you:
   -
 ###
 
-1.  [유민](https://ko.wikipedia.org/wiki/사:유민 "wikilink") ([会話](https://ko.wikipedia.org/wiki/사토:유민 "wikilink"))
-2.  [IRTC1015](https://ko.wikipedia.org/wiki/사:IRTC1015 "wikilink") ([会話](https://ko.wikipedia.org/wiki/사토:IRTC1015 "wikilink"))
-3.  [威光](https://ko.wikipedia.org/wiki/사:威光 "wikilink") ([会話](https://ko.wikipedia.org/wiki/사토:威光 "wikilink"))
-4.  [고솜](https://ko.wikipedia.org/wiki/사:고솜 "wikilink") ([会話](https://ko.wikipedia.org/wiki/사토:고솜 "wikilink"))
+1.  [IRTC1015](https://ko.wikipedia.org/wiki/사:IRTC1015 "wikilink") ([会話](https://ko.wikipedia.org/wiki/사토:IRTC1015 "wikilink"))
+2.  [威光](https://ko.wikipedia.org/wiki/사:威光 "wikilink") ([会話](https://ko.wikipedia.org/wiki/사토:威光 "wikilink"))
+3.  [고솜](https://ko.wikipedia.org/wiki/사:고솜 "wikilink") ([会話](https://ko.wikipedia.org/wiki/사토:고솜 "wikilink"))
+4.  [유민](https://ko.wikipedia.org/wiki/사:유민 "wikilink") ([会話](https://ko.wikipedia.org/wiki/사토:유민 "wikilink")) **
 5.  [베이징](https://ko.wikipedia.org/wiki/사:베이징 "wikilink") ([会話](https://ko.wikipedia.org/wiki/사토:베이징 "wikilink")) **
 6.  [비엠미니](https://ko.wikipedia.org/wiki/사:비엠미니 "wikilink") ([会話](https://ko.wikipedia.org/wiki/사토:비엠미니 "wikilink")) **
 7.  [한셀 마르](https://ko.wikipedia.org/wiki/사:Hansel_Mar "wikilink") ([会話](https://ko.wikipedia.org/wiki/사토:Hansel_Mar "wikilink")) **
@@ -80,6 +81,8 @@ The following lists users who are able to help you:
 14. [Tiens](https://ko.wikipedia.org/wiki/사:Tiens "wikilink") ([会話](https://ko.wikipedia.org/wiki/사토:Tiens "wikilink")) **
 15. [Tsuchiya Hikaru](https://ko.wikipedia.org/wiki/사:Tsuchiya_Hikaru "wikilink") ([会話](https://ko.wikipedia.org/wiki/사토:Tsuchiya_Hikaru "wikilink")) **
 16. [201KEI](https://ko.wikipedia.org/wiki/사:subway06 "wikilink") ([会話](https://ko.wikipedia.org/wiki/사토:subway06 "wikilink")) **
+17. [흑조](https://ko.wikipedia.org/wiki/사:흑조 "wikilink") ([会話](https://ko.wikipedia.org/wiki/사토:흑조 "wikilink")) - 日本語を習っている段階ですから少し足りないかもしれません それでもご了承ください。
+18. [Gomdoli4696](https://ko.wikipedia.org/wiki/사:Gomdoli4696 "wikilink") ([会話](https://ko.wikipedia.org/wiki/사토:Gomdoli4696 "wikilink")) - 日本語はあまり上手ではない。 しかし、助けてあげられる。
 
 ###
 

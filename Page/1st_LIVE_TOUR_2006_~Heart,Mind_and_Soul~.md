@@ -9,19 +9,19 @@
 
 ## 투어 일정
 
-| 일정           | 도시                                                      | 장소                                                                | 관객 수      |
-| ------------ | ------------------------------------------------------- | ----------------------------------------------------------------- | --------- |
-| 2006년 5월 13일 | [찰황](https://ko.wikipedia.org/wiki/찰황 "wikilink")       | 페니 레인 24                                                          | 500명      |
-| 2006년 5월 18일 | [대판](https://ko.wikipedia.org/wiki/대판 "wikilink")       | 넘버 Hatch                                                          | 통산 2,800명 |
-| 2006년 5월 20일 |                                                         |                                                                   |           |
-| 2006년 5월 27일 | [횡빈](https://ko.wikipedia.org/wiki/횡빈 "wikilink")       | [요코하마 BLITZ](https://ko.wikipedia.org/wiki/요코하마_BLITZ "wikilink") | 통산 3,200명 |
-| 2006년 5월 28일 |                                                         |                                                                   |           |
-| 2006년 6월 4일  | [복강](https://ko.wikipedia.org/wiki/후쿠오카 "wikilink")     | 후쿠오카 DRUM LOGOS                                                   | 800명      |
-| 2006년 6월 10일 | [나고야 시](https://ko.wikipedia.org/wiki/나고야_시 "wikilink") | 나고야 다이아몬드 홀                                                       | 900명      |
-| 2006년 6월 23일 | [신석](https://ko.wikipedia.org/wiki/니가타 "wikilink")      | 니가타 LOTS                                                          | 600명      |
-| 2006년 6월 25일 | [동경](https://ko.wikipedia.org/wiki/동경 "wikilink")       | 에비스 더 가든 홀                                                        | 700명      |
-| 2006년 6월 27일 | [Zepp Tokyo](../Page/Zepp.md "wikilink")                | 통산 5,300명                                                         |           |
-| 2006년 6월 28일 |                                                         |                                                                   |           |
+| 일정           | 도시                                                  | 장소                                                                | 관객 수      |
+| ------------ | --------------------------------------------------- | ----------------------------------------------------------------- | --------- |
+| 2006년 5월 13일 | [찰황](https://ko.wikipedia.org/wiki/찰황 "wikilink")   | 페니 레인 24                                                          | 500명      |
+| 2006년 5월 18일 | [대판](https://ko.wikipedia.org/wiki/대판 "wikilink")   | 넘버 Hatch                                                          | 통산 2,800명 |
+| 2006년 5월 20일 |                                                     |                                                                   |           |
+| 2006년 5월 27일 | [횡빈](https://ko.wikipedia.org/wiki/횡빈 "wikilink")   | [요코하마 BLITZ](https://ko.wikipedia.org/wiki/요코하마_BLITZ "wikilink") | 통산 3,200명 |
+| 2006년 5월 28일 |                                                     |                                                                   |           |
+| 2006년 6월 4일  | [복강](https://ko.wikipedia.org/wiki/후쿠오카 "wikilink") | 후쿠오카 DRUM LOGOS                                                   | 800명      |
+| 2006년 6월 10일 | [나고야시](../Page/나고야시.md "wikilink")                  | 나고야 다이아몬드 홀                                                       | 900명      |
+| 2006년 6월 23일 | [신석](https://ko.wikipedia.org/wiki/니가타 "wikilink")  | 니가타 LOTS                                                          | 600명      |
+| 2006년 6월 25일 | [동경](https://ko.wikipedia.org/wiki/동경 "wikilink")   | 에비스 더 가든 홀                                                        | 700명      |
+| 2006년 6월 27일 | [Zepp Tokyo](../Page/Zepp.md "wikilink")            | 통산 5,300명                                                         |           |
+| 2006년 6월 28일 |                                                     |                                                                   |           |
 
 ## 세트 리스트
 

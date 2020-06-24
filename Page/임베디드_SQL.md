@@ -28,6 +28,6 @@ C용 임베디드 SQL은 [마이크로소프트 SQL 서버](../Page/마이크로
   - [SQL\*Module for Ada Programmer's Guide, Release 8.0](http://tahiti.oracle.com/pls/db92/db92.show_toc?partno=a58231)
   - [ECPG - C 언어에 의한 내장 SQL](http://www.postgresql.jp/document/current/html/ecpg.html) (PostgreSQL)
 
-[분류:데이터베이스](https://ko.wikipedia.org/wiki/분류:데이터베이스 "wikilink") [분류:SQL](https://ko.wikipedia.org/wiki/분류:SQL "wikilink") [분류:질의어](https://ko.wikipedia.org/wiki/분류:질의어 "wikilink") [분류:데이터 모델링 언어](https://ko.wikipedia.org/wiki/분류:데이터_모델링_언어 "wikilink")
+[분류:데이터베이스](https://ko.wikipedia.org/wiki/분류:데이터베이스 "wikilink") [분류:SQL](https://ko.wikipedia.org/wiki/분류:SQL "wikilink") [분류:질의어](https://ko.wikipedia.org/wiki/분류:질의어 "wikilink") [분류:데이터 모델링 언어](https://ko.wikipedia.org/wiki/분류:데이터_모델링_언어 "wikilink") [분류:선언형 프로그래밍 언어](https://ko.wikipedia.org/wiki/분류:선언형_프로그래밍_언어 "wikilink")
 
 1.

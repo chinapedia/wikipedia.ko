@@ -171,7 +171,7 @@
 
 #### 1990년
 
-  - 《[구리반지](../Page/구리반지.md "wikilink")》 : 1990년 1월 1일 (신년 특집 드라마)
+  - 《[구리반지](../Page/구리반지.md "wikilink")》 : 1990년 1월 1일 (신년 일일 연속극)
   - 《[바람소리](https://ko.wikipedia.org/wiki/바람소리 "wikilink")》 : 1990년 1월 24일 (설 특집 드라마), 4월 20일 \~ 4월 21일 (앙코르 특집 드라마)
   - 《[기다리는 사람들](https://ko.wikipedia.org/wiki/기다리는_사람들 "wikilink")》 : 1990년 1월 27일 (설 특집 드라마)
   - 《[추천석면](https://ko.wikipedia.org/wiki/추천석면 "wikilink")》 : 1990년 1월 28일 (설 특집 드라마)

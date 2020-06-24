@@ -170,7 +170,7 @@
 
   -
 
-[분류:M-라인 클럽](https://ko.wikipedia.org/wiki/분류:M-라인_클럽 "wikilink") [분류:일본의 록 밴드](https://ko.wikipedia.org/wiki/분류:일본의_록_밴드 "wikilink") [분류:일본의 걸 그룹](https://ko.wikipedia.org/wiki/분류:일본의_걸_그룹 "wikilink") [분류:2012년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2012년_결성된_음악_그룹 "wikilink") [분류:2013년 데뷔](https://ko.wikipedia.org/wiki/분류:2013년_데뷔 "wikilink") [분류:업프론트 워크스](https://ko.wikipedia.org/wiki/분류:업프론트_워크스 "wikilink")
+[분류:M-라인 클럽](https://ko.wikipedia.org/wiki/분류:M-라인_클럽 "wikilink") [분류:일본의 록 밴드](https://ko.wikipedia.org/wiki/분류:일본의_록_밴드 "wikilink") [분류:일본의 걸 그룹](https://ko.wikipedia.org/wiki/분류:일본의_걸_그룹 "wikilink") [분류:2012년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2012년_결성된_음악_그룹 "wikilink") [분류:업프론트 워크스](https://ko.wikipedia.org/wiki/분류:업프론트_워크스 "wikilink")
 
 1.  [LoVendoЯ M-line club 가입의 관한 소식](http://www.up-fc.jp/m-line/news_Info.php?id=4579)
 2.  [LoVendoЯ 우오즈미 유키에 관한 소식](http://lovendor.jp/news/1607231)

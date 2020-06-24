@@ -3,11 +3,11 @@
 
 [thumb](https://ko.wikipedia.org/wiki/파일:GSI_Logo_rgb.png "wikilink") [thumb](https://ko.wikipedia.org/wiki/파일:GSI-Darmstadt-Südbau.jpg "wikilink") [thumb](https://ko.wikipedia.org/wiki/파일:ESR01.jpg "wikilink")
 
-**GSI 헬름홀츠 중이온 연구소**()는 [독일](../Page/독일.md "wikilink") [다름슈타트](../Page/다름슈타트.md "wikilink") 북부에 위치한 물리학 연구소이다. 고에너지 가속기를 이용한 학술 연구와 중이온 빔을 이용한 암 치료 연구가 주로 이루어지고 있다. 독일 연방 정부와 [헤센주](https://ko.wikipedia.org/wiki/헤센주 "wikilink") 정부, [유럽 연합에서](../Page/유럽_연합.md "wikilink") 출연한 기금으로 운영되고 있다.
+**GSI 헬름홀츠 중이온 연구소**()는 [독일](../Page/독일.md "wikilink") [다름슈타트](../Page/다름슈타트.md "wikilink") 북부에 위치한 물리학 연구소이다. 고에너지 가속기를 이용한 학술 연구와 중이온 빔을 이용한 암 치료 연구가 주로 이루어지고 있다. 독일 연방 정부와 [헤센주](../Page/헤센주.md "wikilink") 정부, [유럽 연합에서](../Page/유럽_연합.md "wikilink") 출연한 기금으로 운영되고 있다.
 
 ## 인공 원소 발견
 
-중이온 연구소는 가속기를 이용한 새로운 원자핵의 합성과 발견을 인정받았다. 이들 원소 이름 중에는 [하슘](https://ko.wikipedia.org/wiki/하슘 "wikilink")([헤센주](https://ko.wikipedia.org/wiki/헤센주 "wikilink"))이나 [다름슈타튬](https://ko.wikipedia.org/wiki/다름슈타튬 "wikilink")([다름슈타트](../Page/다름슈타트.md "wikilink"))처럼 연구소의 소재지 이름을 딴 경우도 있다.
+중이온 연구소는 가속기를 이용한 새로운 원자핵의 합성과 발견을 인정받았다. 이들 원소 이름 중에는 [하슘](https://ko.wikipedia.org/wiki/하슘 "wikilink")([헤센주](../Page/헤센주.md "wikilink"))이나 [다름슈타튬](https://ko.wikipedia.org/wiki/다름슈타튬 "wikilink")([다름슈타트](../Page/다름슈타트.md "wikilink"))처럼 연구소의 소재지 이름을 딴 경우도 있다.
 
   - [원자 번호](../Page/원자_번호.md "wikilink") 107번 [보륨](https://ko.wikipedia.org/wiki/보륨 "wikilink")(1981년)
 

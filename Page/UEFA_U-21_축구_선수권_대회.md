@@ -120,7 +120,7 @@
 </tr>
 <tr class="even">
 <td><p>2000년<br />
-<a href="https://ko.wikipedia.org/wiki/2000년_UEFA_U-21_축구_선수권_대회" title="wikilink">자세히</a></p></td>
+<a href="../Page/2000년_UEFA_U-21_축구_선수권_대회.md" title="wikilink">자세히</a></p></td>
 <td></td>
 <td><p><strong></strong></p></td>
 <td><p><strong>2 : 1</strong></p></td>
@@ -239,7 +239,7 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p>5 (<a href="https://ko.wikipedia.org/wiki/1992년_UEFA_U-21_축구_선수권_대회" title="wikilink">1992</a>, <a href="https://ko.wikipedia.org/wiki/1994년_UEFA_U-21_축구_선수권_대회" title="wikilink">1994</a>, <a href="https://ko.wikipedia.org/wiki/1996년_UEFA_U-21_축구_선수권_대회" title="wikilink">1996</a>, <a href="https://ko.wikipedia.org/wiki/2000년_UEFA_U-21_축구_선수권_대회" title="wikilink">2000</a>, <a href="../Page/2004년_UEFA_U-21_축구_선수권_대회.md" title="wikilink">2004</a>)</p></td>
+<td><p>5 (<a href="https://ko.wikipedia.org/wiki/1992년_UEFA_U-21_축구_선수권_대회" title="wikilink">1992</a>, <a href="https://ko.wikipedia.org/wiki/1994년_UEFA_U-21_축구_선수권_대회" title="wikilink">1994</a>, <a href="https://ko.wikipedia.org/wiki/1996년_UEFA_U-21_축구_선수권_대회" title="wikilink">1996</a>, <a href="../Page/2000년_UEFA_U-21_축구_선수권_대회.md" title="wikilink">2000</a>, <a href="../Page/2004년_UEFA_U-21_축구_선수권_대회.md" title="wikilink">2004</a>)</p></td>
 <td><p>2 (<a href="https://ko.wikipedia.org/wiki/1986년_UEFA_U-21_축구_선수권_대회" title="wikilink">1986</a>, <a href="../Page/2013년_UEFA_U-21_축구_선수권_대회.md" title="wikilink">2013</a>)</p></td>
 </tr>
 <tr class="odd">
@@ -275,7 +275,7 @@
 <tr class="odd">
 <td></td>
 <td><p>1 (<a href="../Page/2002년_UEFA_U-21_축구_선수권_대회.md" title="wikilink">2002</a>)</p></td>
-<td><p>1 (<a href="https://ko.wikipedia.org/wiki/2000년_UEFA_U-21_축구_선수권_대회" title="wikilink">2000</a>)</p></td>
+<td><p>1 (<a href="../Page/2000년_UEFA_U-21_축구_선수권_대회.md" title="wikilink">2000</a>)</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -455,7 +455,7 @@ UEFA U-21 축구 선수권 대회 아디다스 골든 부트(The UEFA European U
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/2000년_UEFA_U-21_축구_선수권_대회" title="wikilink">2000 슬로바키아</a></p></td>
+<td><p><a href="../Page/2000년_UEFA_U-21_축구_선수권_대회.md" title="wikilink">2000 슬로바키아</a></p></td>
 <td><p><a href="../Page/안드레아_피를로.md" title="wikilink">안드레아 피를로</a></p></td>
 <td><p>3</p></td>
 <td><p> </p></td>

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Com\'Back](https://ko.wikipedia.org/wiki/Com\'Back).
 
 
-《**Com'Back**》은 [대한민국](../Page/대한민국.md "wikilink")의 [음악 그룹](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink") [젝스키스](../Page/젝스키스.md "wikilink")의 네 번째 정규앨범이다. 젝스키스는 1999년 9월에 앨범을 발표하고 음악 활동을 하면서 10월에는 [MBC FM4U의](../Page/MBC_FM4U.md "wikilink") 라디오 프로그램 《FM 플러스》의 DJ를 맡아 두 가지 활동을 병행했다. 그리고 다음 해인 2000년에 팀이 해체되었다.
+《**Com'Back**》은 [대한민국](../Page/대한민국.md "wikilink")의 [음악 그룹](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink") [젝스키스](../Page/젝스키스.md "wikilink")의 네 번째 정규앨범이자마지막앨범이다. 젝스키스는 1999년 9월에 앨범을 발표하고 음악 활동을 하면서 10월에는 [MBC FM4U의](../Page/MBC_FM4U.md "wikilink") 라디오 프로그램 《FM 플러스》의 DJ를 맡아 두 가지 활동을 병행했다. 그리고 다음 해인 2000년에 팀이 해체되었다.
 
 ## 평화친선 음악회
 

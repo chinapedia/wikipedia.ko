@@ -3,7 +3,7 @@
 
 **AKB48 32nd 싱글 선발 총선거**()는 [AKB48](../Page/AKB48.md "wikilink")의 32번째 CD 싱글에 참여하는 선발 멤버를 팬들의 투표로 결정하는 이벤트이다. 이 선거의 상위 16위까지의 멤버가 [2013년](../Page/2013년.md "wikilink") [8월 21일부터](../Page/8월_21일.md "wikilink") 발매된 32번째 싱글 〈[사랑하는 포춘쿠키](https://ko.wikipedia.org/wiki/고이스루포춘쿠키 "wikilink")〉(恋するフォーチュンクッキー)의 선발 멤버가 되었다.
 
-또한 최종 결과가 발표되는 개표 이벤트 〈AKB48 32nd 선발 총선거 \~꿈은 혼자서 꿀 수 없다\~〉는 [2013년](../Page/2013년.md "wikilink") [6월 8일](../Page/6월_8일.md "wikilink") [요코하마 시의](https://ko.wikipedia.org/wiki/요코하마_시 "wikilink") 닛산 스타디움에서 개최되는 〈AKB48 슈퍼 페스티벌 \~닛산 스타디움\~〉의 제2부로 실시되었다.
+또한 최종 결과가 발표되는 개표 이벤트 〈AKB48 32nd 선발 총선거 \~꿈은 혼자서 꿀 수 없다\~〉는 [2013년](../Page/2013년.md "wikilink") [6월 8일](../Page/6월_8일.md "wikilink") [요코하마시](../Page/요코하마시.md "wikilink")의 닛산 스타디움에서 개최되는 〈AKB48 슈퍼 페스티벌 \~닛산 스타디움\~〉의 제2부로 실시되었다.
 
 ## 개요
 
@@ -75,7 +75,7 @@
 <!-- end list -->
 
   -
-    [이시다 하루카](../Page/이시다_하루카.md "wikilink"), [이치카와 미오리](../Page/이치카와_미오리.md "wikilink")(NMB48 팀N 겸임), [이와사 미사키](../Page/이와사_미사키.md "wikilink"), [우메다 아야카](../Page/우메다_아야카.md "wikilink"), [오바 미나](https://ko.wikipedia.org/wiki/오바_미나 "wikilink")(SKE48 팀KII 겸임), [오모리 미유](https://ko.wikipedia.org/wiki/오모리_미유 "wikilink"), [오야 시즈카](https://ko.wikipedia.org/wiki/오야_시즈카 "wikilink"), [가시와기 유키](https://ko.wikipedia.org/wiki/가시와기_유키 "wikilink"), [가타야마 하루카](https://ko.wikipedia.org/wiki/가타야마_하루카 "wikilink"), [가토 레나](https://ko.wikipedia.org/wiki/가토_레나 "wikilink"), [고지마 나쓰키](https://ko.wikipedia.org/wiki/고지마_나쓰키 "wikilink"), [고지마 하루나](https://ko.wikipedia.org/wiki/고지마_하루나 "wikilink"), [시마자키 하루카](../Page/시마자키_하루카.md "wikilink"), [다카조 아키](../Page/다카조_아키.md "wikilink")(JKT48 팀J 겸임), [다케우치 미유](https://ko.wikipedia.org/wiki/다케우치_미유 "wikilink"), [다나베 미쿠](https://ko.wikipedia.org/wiki/다나베_미쿠 "wikilink"), [나카무라 마리코](https://ko.wikipedia.org/wiki/나카무라_마리코 "wikilink"), [나토리 와카나](https://ko.wikipedia.org/wiki/나토리_와카나 "wikilink"), [노나카 미사토](../Page/노나카_미사토.md "wikilink"), [후지에 레이나](../Page/후지에_레이나.md "wikilink"), [야마우치 스즈란](../Page/야마우치_스즈란.md "wikilink"), [와타나베 미유키](../Page/와타나베_미유키.md "wikilink")(NMB48 팀N 겸임)
+    [이시다 하루카](../Page/이시다_하루카.md "wikilink"), [이치카와 미오리](../Page/이치카와_미오리.md "wikilink")(NMB48 팀N 겸임), [이와사 미사키](../Page/이와사_미사키.md "wikilink"), [우메다 아야카](../Page/우메다_아야카.md "wikilink"), [오바 미나](https://ko.wikipedia.org/wiki/오바_미나 "wikilink")(SKE48 팀KII 겸임), [오모리 미유](https://ko.wikipedia.org/wiki/오모리_미유 "wikilink"), [오야 시즈카](https://ko.wikipedia.org/wiki/오야_시즈카 "wikilink"), [가시와기 유키](https://ko.wikipedia.org/wiki/가시와기_유키 "wikilink"), [가타야마 하루카](https://ko.wikipedia.org/wiki/가타야마_하루카 "wikilink"), [가토 레나](https://ko.wikipedia.org/wiki/가토_레나 "wikilink"), [고지마 나쓰키](https://ko.wikipedia.org/wiki/고지마_나쓰키 "wikilink"), [고지마 하루나](../Page/고지마_하루나.md "wikilink"), [시마자키 하루카](../Page/시마자키_하루카.md "wikilink"), [다카조 아키](../Page/다카조_아키.md "wikilink")(JKT48 팀J 겸임), [다케우치 미유](https://ko.wikipedia.org/wiki/다케우치_미유 "wikilink"), [다나베 미쿠](https://ko.wikipedia.org/wiki/다나베_미쿠 "wikilink"), [나카무라 마리코](https://ko.wikipedia.org/wiki/나카무라_마리코 "wikilink"), [나토리 와카나](https://ko.wikipedia.org/wiki/나토리_와카나 "wikilink"), [노나카 미사토](../Page/노나카_미사토.md "wikilink"), [후지에 레이나](../Page/후지에_레이나.md "wikilink"), [야마우치 스즈란](../Page/야마우치_스즈란.md "wikilink"), [와타나베 미유키](../Page/와타나베_미유키.md "wikilink")(NMB48 팀N 겸임)
 
 <!-- end list -->
 

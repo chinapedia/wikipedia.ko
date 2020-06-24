@@ -120,6 +120,6 @@
 
   - [공식 홈페이지](https://web.archive.org/web/20130625003202/http://band.interest.me/)
 
-[분류:엠넷에서 방영된 프로그램](https://ko.wikipedia.org/wiki/분류:엠넷에서_방영된_프로그램 "wikilink") [분류:대한민국의 음악 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:대한민국의_음악_텔레비전_프로그램 "wikilink") [분류:대한민국의 텔레비전 게임 쇼](https://ko.wikipedia.org/wiki/분류:대한민국의_텔레비전_게임_쇼 "wikilink")
+[분류:엠넷의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:엠넷의_텔레비전_프로그램 "wikilink") [분류:대한민국의 음악 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:대한민국의_음악_텔레비전_프로그램 "wikilink") [분류:대한민국의 텔레비전 게임 쇼](https://ko.wikipedia.org/wiki/분류:대한민국의_텔레비전_게임_쇼 "wikilink")
 
 1.  [밴드의 시대, "갤럭시익스프레스 우승 무효…상금은 기부"](http://www.tvreport.co.kr/?c=news&m=newsview&idx=370716) 2013년 7월 16일 TV리포트

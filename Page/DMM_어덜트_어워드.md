@@ -37,7 +37,7 @@
 
 ### 2015년
 
-  - 발표자 : [우에하라 아이](../Page/우에하라_아이.md "wikilink") (최우수여배우상), [아야미 슌카](https://ko.wikipedia.org/wiki/아야미_슌카 "wikilink") (우수여배우상), [릴리 프랭키](../Page/릴리_프랭키.md "wikilink") (최우수여배우상), [시라이시 마리나](https://ko.wikipedia.org/wiki/시라이시_마리나 "wikilink") (최우수신인여배우상), [요시자와 아키호](../Page/요시자와_아키호.md "wikilink") (화제상), 노모토 에이스케 (미디어상)
+  - 발표자 : [우에하라 아이](../Page/우에하라_아이.md "wikilink") (최우수여배우상), [아야미 슌카](../Page/아야미_슌카.md "wikilink") (우수여배우상), [릴리 프랭키](../Page/릴리_프랭키.md "wikilink") (최우수여배우상), [시라이시 마리나](https://ko.wikipedia.org/wiki/시라이시_마리나 "wikilink") (최우수신인여배우상), [요시자와 아키호](../Page/요시자와_아키호.md "wikilink") (화제상), 노모토 에이스케 (미디어상)
   - 특별발표자 : [스이도바시 하카세](https://ko.wikipedia.org/wiki/스이도바시_하카세 "wikilink")
   - 출연가수\[6\] : [color-code](https://ko.wikipedia.org/wiki/color-code "wikilink"), [카멘죠시](https://ko.wikipedia.org/wiki/카멘죠시 "wikilink") ([스팀걸즈](https://ko.wikipedia.org/wiki/스팀걸즈 "wikilink")), [Charisma.com](https://ko.wikipedia.org/wiki/Charisma.com "wikilink"), [키요시 류진25](https://ko.wikipedia.org/wiki/키요시_류진25 "wikilink")
 
@@ -71,7 +71,7 @@
 | VOD매출                                                             |
 | [아스카 키라라](../Page/아스카_키라라.md "wikilink")                          |
 | [AV 30](https://ko.wikipedia.org/wiki/AV_30 "wikilink") 인기투표 65위  |
-| [아야미 슌카](https://ko.wikipedia.org/wiki/아야미_슌카 "wikilink")         |
+| [아야미 슌카](../Page/아야미_슌카.md "wikilink")                            |
 | [우에하라 아이](../Page/우에하라_아이.md "wikilink")                          |
 | [오하시 미쿠](https://ko.wikipedia.org/wiki/오하시_미쿠 "wikilink")         |
 | [키시 아이노](../Page/키시_아이노.md "wikilink")                            |

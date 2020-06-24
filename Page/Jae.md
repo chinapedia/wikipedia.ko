@@ -153,7 +153,7 @@
 <li>《After School Club》</li>
 </ul></td>
 <td><p>2016.06.28 ~ 2018.07.17</p></td>
-<td><p>MC : <a href="https://ko.wikipedia.org/wiki/박지민" title="wikilink">박지민</a>, <a href="../Page/케빈_(1991년).md" title="wikilink">케빈</a>, Jae</p></td>
+<td><p>MC : <a href="https://ko.wikipedia.org/wiki/제이미_(가수)" title="wikilink">박지민</a>, <a href="../Page/케빈_(1991년).md" title="wikilink">케빈</a>, Jae</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -653,4 +653,4 @@
 
   - [Day6 Jae(jaesix)](https://www.youtube.com/channel/UCrOUYIN9rbYaWFs68vAtaZA/videos) - [유튜브](../Page/유튜브.md "wikilink")
 
-[분류:1992년 태어남](https://ko.wikipedia.org/wiki/분류:1992년_태어남 "wikilink") [분류:살아있는 사람](https://ko.wikipedia.org/wiki/분류:살아있는_사람 "wikilink") [분류:미국의 가수](https://ko.wikipedia.org/wiki/분류:미국의_가수 "wikilink") [분류:미국의 남자 가수](https://ko.wikipedia.org/wiki/분류:미국의_남자_가수 "wikilink") [분류:미국의 기타 연주자](https://ko.wikipedia.org/wiki/분류:미국의_기타_연주자 "wikilink") [분류:2015년 데뷔](https://ko.wikipedia.org/wiki/분류:2015년_데뷔 "wikilink") [분류:한국계 미국인 음악가](https://ko.wikipedia.org/wiki/분류:한국계_미국인_음악가 "wikilink") [분류:K팝 스타 참가자](https://ko.wikipedia.org/wiki/분류:K팝_스타_참가자 "wikilink") [분류:대한민국에 거주한 미국인](https://ko.wikipedia.org/wiki/분류:대한민국에_거주한_미국인 "wikilink") [분류:한국계 미국인](https://ko.wikipedia.org/wiki/분류:한국계_미국인 "wikilink") [분류:캘리포니아 주립 대학교 롱비치 동문](https://ko.wikipedia.org/wiki/분류:캘리포니아_주립_대학교_롱비치_동문 "wikilink") [분류:캘리포니아 주 출신](https://ko.wikipedia.org/wiki/분류:캘리포니아_주_출신 "wikilink")
+[분류:1992년 태어남](https://ko.wikipedia.org/wiki/분류:1992년_태어남 "wikilink") [분류:살아있는 사람](https://ko.wikipedia.org/wiki/분류:살아있는_사람 "wikilink") [분류:미국의 가수](https://ko.wikipedia.org/wiki/분류:미국의_가수 "wikilink") [분류:미국의 남자 가수](https://ko.wikipedia.org/wiki/분류:미국의_남자_가수 "wikilink") [분류:미국의 기타 연주자](https://ko.wikipedia.org/wiki/분류:미국의_기타_연주자 "wikilink") [분류:한국계 미국인 음악가](https://ko.wikipedia.org/wiki/분류:한국계_미국인_음악가 "wikilink") [분류:K팝 스타 참가자](https://ko.wikipedia.org/wiki/분류:K팝_스타_참가자 "wikilink") [분류:대한민국에 거주한 미국인](https://ko.wikipedia.org/wiki/분류:대한민국에_거주한_미국인 "wikilink") [분류:한국계 미국인](https://ko.wikipedia.org/wiki/분류:한국계_미국인 "wikilink") [분류:캘리포니아 주립 대학교 롱비치 동문](https://ko.wikipedia.org/wiki/분류:캘리포니아_주립_대학교_롱비치_동문 "wikilink") [분류:캘리포니아 주 출신](https://ko.wikipedia.org/wiki/분류:캘리포니아_주_출신 "wikilink")

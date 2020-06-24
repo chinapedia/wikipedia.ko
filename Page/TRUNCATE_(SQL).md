@@ -7,7 +7,7 @@
 
 ‘TRUNCATE TABLE 테이블명’은 ‘DELETE FROM 테이블명’과 거의 동일하지만 다음과 같은 점에서 다르다.
 
-  - WHERE 절을 지정할 수 없습니다. 모든 행은 일괄 삭제된다.
+  - WHERE 절을 지정할 수 없다. 모든 행은 일괄 삭제된다.
   - 대상 테이블 단독 잠금을 얻을 수 있다.
   - [외래 키에서](../Page/외래_키.md "wikilink") 참조되는 테이블에서 실행할 수 없다. 외래 키의 무결성을 확인하지 않기 때문이다.
   - [Oracle Database와](https://ko.wikipedia.org/wiki/Oracle_Database "wikilink") [MySQL](../Page/MySQL.md "wikilink")의 일부 스토리지 엔진은 TRUNCATE 후 자동으로 [커밋](https://ko.wikipedia.org/wiki/커밋 "wikilink")을 한다. TRUNCATE의 삭제는 [롤백할](../Page/롤백_\(데이터_관리\).md "wikilink") 수 없다.

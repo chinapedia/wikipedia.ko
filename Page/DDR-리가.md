@@ -102,7 +102,7 @@
 
 [1984년](../Page/1984년.md "wikilink") 리그는 다시 두 개의 디비전으로 복귀해 진행하게 된다. 각 조의 클럽 수는 18개로 증가하게 된다. 각 조의 우승 팀이 [DDR 오버리가로](../Page/DDR_오버리가.md "wikilink") 승격한다.
 
-1990-91 시즌은 [DDR-리가](../Page/DDR-리가.md "wikilink")의 마지막 시즌으로, 이후 리그는 폐지되어 [독일](../Page/독일.md "wikilink")로 넘어가게 된다. 이후 [분데스리가 2부 리그로](https://ko.wikipedia.org/wiki/2._푸스발-분데스리가 "wikilink") 대체되었다. 그러면서 동시에 리그도 [독일 축구 리그 시스템에서](../Page/독일_축구_리그_시스템.md "wikilink") 3부 리그에 해당하는 리그가 된다. 마지막 우승 팀은 A조에서 [우니온 베를린](https://ko.wikipedia.org/wiki/우니온_베를린 "wikilink"), B조에서 [FSV 츠비카우였다](../Page/FSV_츠비카우.md "wikilink").
+1990-91 시즌은 DDR-리가의 마지막 시즌으로, 이후 리그는 폐지되어 [독일](../Page/독일.md "wikilink")로 넘어가게 된다. 이후 [분데스리가 2부 리그로](https://ko.wikipedia.org/wiki/2._푸스발-분데스리가 "wikilink") 대체되었다. 그러면서 동시에 리그도 [독일 축구 리그 시스템에서](../Page/독일_축구_리그_시스템.md "wikilink") 3부 리그에 해당하는 리그가 된다. 마지막 우승 팀은 A조에서 [우니온 베를린](https://ko.wikipedia.org/wiki/우니온_베를린 "wikilink"), B조에서 [FSV 츠비카우였다](../Page/FSV_츠비카우.md "wikilink").
 
 ## 역대 DDR-리가 우승 팀
 

@@ -7,7 +7,7 @@
 
 ## 역사
 
-[다이어 스트레이츠의](../Page/다이어_스트레이츠.md "wikilink") 〈[Brothers in Arms](https://ko.wikipedia.org/wiki/Brothers_in_Arms "wikilink")〉 (1985)가 세계 최초의 CD 싱글로 보고된다.\[1\] 이 싱글은 홍보용으로서 영국에서 두 개의 분리된 싱글로 출시되었고, 하나는 1985년 라이브 투어의 로고가 붙여져 있고 다른 하나는 1986년 호주 투어를 기념하는 것이다. 네 개의 트랙이 수록돼 있고 굉장히 한정된 수량이 생산되었다. CD 싱글가 영국 싱글 차트에서 받아들여진 것은 1987년으로, 처음 1위를 차지한 것은 그해 5월 [휘트니 휴스턴의](../Page/휘트니_휴스턴.md "wikilink") 〈[I Wanna Dance with Somebody (Who Loves Me)](https://ko.wikipedia.org/wiki/I_Wanna_Dance_with_Somebody_\(Who_Loves_Me\) "wikilink")〉였다.
+[다이어 스트레이츠의](../Page/다이어_스트레이츠.md "wikilink") 〈[Brothers in Arms](https://ko.wikipedia.org/wiki/Brothers_in_Arms "wikilink")〉 (1985)가 세계 최초의 CD 싱글로 보고된다.\[1\] 이 싱글은 홍보용으로서 영국에서 두 개의 분리된 싱글로 출시되었고, 하나는 1985년 라이브 투어의 로고가 붙여져 있고 다른 하나는 1986년 호주 투어를 기념하는 것이다. 네 개의 트랙이 수록돼 있고 굉장히 한정된 수량이 생산되었다. CD 싱글가 영국 싱글 차트에서 받아들여진 것은 1987년으로, 처음 1위를 차지한 것은 그해 5월 [휘트니 휴스턴의](../Page/휘트니_휴스턴.md "wikilink") 〈[I Wanna Dance with Somebody (Who Loves Me)](../Page/I_Wanna_Dance_with_Somebody_\(Who_Loves_Me\).md "wikilink")〉였다.
 
 미니 CD 싱글 형식은 1980년대 말 싱글의 쓰임새로 탄생한 것이었지만, 그리 성과를 거두지 못했다. 미국에서는 특히 더 그랬다. 작은 CD의 경우에서는 일본에서 성공했고,\[2\] 최근에는 셔츠 주머니에 꼭 맞는다는 "포켓" CD로 홍보되면서 유럽에서 유행했다. 1989년경에는 CD3가 미국에서 쇠퇴했고 일명 CD-5로 불리는 5인치 CD 싱글로 대체되었다.\[3\]
 

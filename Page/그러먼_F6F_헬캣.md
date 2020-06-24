@@ -69,7 +69,7 @@ F6F 핼켓은 1943년 9월 실전 배치되었고 곧바로 여러 전투에서 
 
 ## 각주
 
-[분류:함재기](https://ko.wikipedia.org/wiki/분류:함재기 "wikilink") [분류:제2차 세계 대전의 미국 군용기](https://ko.wikipedia.org/wiki/분류:제2차_세계_대전의_미국_군용기 "wikilink") [분류:1942년 첫 비행한 항공기](https://ko.wikipedia.org/wiki/분류:1942년_첫_비행한_항공기 "wikilink")
+[분류:함재기](https://ko.wikipedia.org/wiki/분류:함재기 "wikilink") [분류:제2차 세계 대전의 미국 군용기](https://ko.wikipedia.org/wiki/분류:제2차_세계_대전의_미국_군용기 "wikilink") [분류:1942년 첫 비행한 항공기](https://ko.wikipedia.org/wiki/분류:1942년_첫_비행한_항공기 "wikilink") [분류:저익기](https://ko.wikipedia.org/wiki/분류:저익기 "wikilink")
 
 1.  Thruelsen 1976, p. 135.
 2.  Sullivan 1979, p. 4.

@@ -85,7 +85,7 @@
   - [MYTH & ROID Official Website](https://web.archive.org/web/20160808212838/http://www.mythd-club.com/)
   - [MYTH & ROID (@myth_and_roid) - Twitter](https://twitter.com/myth_and_roid?lang=ja)
 
-[분류:애니메이션 가수](https://ko.wikipedia.org/wiki/분류:애니메이션_가수 "wikilink") [분류:일본의 음악 그룹](https://ko.wikipedia.org/wiki/분류:일본의_음악_그룹 "wikilink") [분류:일본어 음악 그룹](https://ko.wikipedia.org/wiki/분류:일본어_음악_그룹 "wikilink") [분류:2015년 데뷔](https://ko.wikipedia.org/wiki/분류:2015년_데뷔 "wikilink") [분류:2015년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2015년_결성된_음악_그룹 "wikilink")
+[분류:애니메이션 가수](https://ko.wikipedia.org/wiki/분류:애니메이션_가수 "wikilink") [분류:일본의 음악 그룹](https://ko.wikipedia.org/wiki/분류:일본의_음악_그룹 "wikilink") [분류:일본어 음악 그룹](https://ko.wikipedia.org/wiki/분류:일본어_음악_그룹 "wikilink") [분류:2015년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2015년_결성된_음악_그룹 "wikilink")
 
 1.
 2.

@@ -32,7 +32,7 @@
 
   - [ICBus.com - official company web site](https://web.archive.org/web/20150715024524/http://www.icbus.com/bus)
 
-[분류:자동차 제조 회사](https://ko.wikipedia.org/wiki/분류:자동차_제조_회사 "wikilink") [분류:미국의 자동차 제조 기업](https://ko.wikipedia.org/wiki/분류:미국의_자동차_제조_기업 "wikilink") [분류:미국의 브랜드](https://ko.wikipedia.org/wiki/분류:미국의_브랜드 "wikilink") [분류:미국의 기업](https://ko.wikipedia.org/wiki/분류:미국의_기업 "wikilink") [분류:2002년 설립된 기업](https://ko.wikipedia.org/wiki/분류:2002년_설립된_기업 "wikilink") [분류:나비스타 인터내셔널](https://ko.wikipedia.org/wiki/분류:나비스타_인터내셔널 "wikilink")
+[분류:자동차 제조 회사](https://ko.wikipedia.org/wiki/분류:자동차_제조_회사 "wikilink") [분류:미국의 자동차 제조 기업](https://ko.wikipedia.org/wiki/분류:미국의_자동차_제조_기업 "wikilink") [분류:미국의 브랜드](https://ko.wikipedia.org/wiki/분류:미국의_브랜드 "wikilink") [분류:미국의 기업](https://ko.wikipedia.org/wiki/분류:미국의_기업 "wikilink") [분류:2002년 설립된 기업](https://ko.wikipedia.org/wiki/분류:2002년_설립된_기업 "wikilink") [분류:나비스타 인터내셔널](https://ko.wikipedia.org/wiki/분류:나비스타_인터내셔널 "wikilink") [분류:아칸소주의 기업](https://ko.wikipedia.org/wiki/분류:아칸소주의_기업 "wikilink") [분류:일리노이주의 기업](https://ko.wikipedia.org/wiki/분류:일리노이주의_기업 "wikilink")
 
 1.  <http://schoolbusweb.proboards.com/post/18216>
 2.
