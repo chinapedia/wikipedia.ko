@@ -37,9 +37,9 @@ QRPer는 5 와트를 넘지 않는 송신 출력으로 무전기를 운영하는
 
 QRP용 무전기는 1960년대 후반부터 시장에 상품이 나오기 시작하였으며 자작과 밀리터리 제품을 이용하는 그룹들이 생겨났으며 대표적으로 harris RF-131 의 출력은 100mmW 이다
 
-1969년에, 미국 제조사인 [Ten-Tec](https://web.archive.org/web/20070216105711/http://radio.tentec.com/)에서, Powermite-1 (PM-1)을 시판하기 시작했다. 이 무전기는 Ten-Tec의 첫 트랜시이버 중의 하나이다. (MR-1도 출시되었는데, 같은 모델의 무전기이다. 단지 조립되지 않은 키트 형식의 제품이다.)
+1969년에, 미국 제조사인 [Ten-Tec](https://web.archive.org/web/20070216105711/http://radio.tentec.com/) 에서, Powermite-1 (PM-1)을 시판하기 시작했다. 이 무전기는 Ten-Tec의 첫 트랜시이버 중의 하나이다. (MR-1도 출시되었는데, 같은 모델의 무전기이다. 단지 조립되지 않은 키트 형식의 제품이다.)
 
-QRP는 최근에 더 인기를 얻었다. 무전기 회사들은 QRP 애호가들을 위한 모델들을 출시했다. 인기 있는 모델은 [Elecraft K2](http://www.elecraft.com), \[\[Yaesu\] [FT-817](https://ko.wikipedia.org/wiki/FT-817 "wikilink"), [Icom](https://ko.wikipedia.org/wiki/Icom "wikilink") [IC-703](https://ko.wikipedia.org/wiki/IC-703 "wikilink"), TenTec의 Argonaut V가 있다.
+QRP는 최근에 더 인기를 얻었다. 무전기 회사들은 QRP 애호가들을 위한 모델들을 출시했다. 인기 있는 모델은 [Elecraft K2](http://www.elecraft.com), [Yaesu](https://ko.wikipedia.org/wiki/Yaesu "wikilink") [FT-817](https://ko.wikipedia.org/wiki/FT-817 "wikilink"), [Icom](https://ko.wikipedia.org/wiki/Icom "wikilink") [IC-703](https://ko.wikipedia.org/wiki/IC-703 "wikilink"), TenTec의 Argonaut V가 있다.
 
 [HFPack](http://www.hfpack.com) 애호가들은 QRP 무전기와 [휩 안테나를](https://ko.wikipedia.org/wiki/휩_안테나 "wikilink") 배낭에 넣고 다니면서 이동 중에 무선교신을 한다.
 
@@ -50,7 +50,7 @@ QRP는 특히 [모르스 부호](https://ko.wikipedia.org/wiki/모르스_부호 
 ## 외부 링크
 
   - [QRP WebRing Home](http://www.zerobeat.net/qrpwebring/)
-  - [QRPedia wiki](http://www.qrpedia.com/)
+  - [QRPedia wiki](https://web.archive.org/web/20081121040607/http://www.qrpedia.com/)
   - [American QRP Club](http://www.amqrp.org/)
   - [Four State QRP Group](http://www.4sqrp.com/)
   - [GQRP Club](http://www.gqrp.com/)

@@ -1,14 +1,14 @@
 > This article is converted from Wikipedia: [KBS 2TV](https://ko.wikipedia.org/wiki/KBS_2TV).
 
 
-**KBS 2TV**(KBS 제2텔레비전, U-KBS HEART)는 [한국방송공사](../Page/한국방송공사.md "wikilink")에서 운영, 방송되는 [텔레비전](../Page/텔레비전.md "wikilink") 채널로서, [KBS 1TV와](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink") 달리 [엔터테인먼트](https://ko.wikipedia.org/wiki/엔터테인먼트 "wikilink"), [드라마](https://ko.wikipedia.org/wiki/드라마 "wikilink"), [어린이](../Page/어린이.md "wikilink") 프로그램 등을 중점적으로 방송한다. 2012년 10월 8일부터 24시간 종일 방송 체제를 갖추고 있다. 채널번호는 [문화방송](../Page/문화방송.md "wikilink")(이하 MBC)과 같이 [KCTV제주방송과](../Page/한국케이블TV제주방송.md "wikilink") [서경방송](../Page/서경방송.md "wikilink"), [딜라이브](../Page/딜라이브.md "wikilink") 용산방송 등 일부 SO들을 제외한 나머지는 채널번호가 같다.
+**KBS 2TV**(KBS 제2텔레비전, U-KBS HEART)는 [한국방송공사](../Page/한국방송공사.md "wikilink")에서 운영, 방송되는 [텔레비전](../Page/텔레비전.md "wikilink") 채널로서, [KBS 1TV와](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink") 달리 [엔터테인먼트](https://ko.wikipedia.org/wiki/엔터테인먼트 "wikilink"), [드라마](https://ko.wikipedia.org/wiki/드라마 "wikilink"), [어린이](../Page/어린이.md "wikilink") 프로그램 등을 중점적으로 방송한다. 2012년 10월 8일부터 24시간 종일 방송 체제를 갖추고 있다. 채널번호는 [문화방송](../Page/문화방송.md "wikilink")(이하 [MBC-TV](https://ko.wikipedia.org/wiki/MBC-TV "wikilink"))과 같이 [KCTV제주방송과](../Page/한국케이블TV제주방송.md "wikilink") [서경방송](../Page/서경방송.md "wikilink"), [딜라이브](../Page/딜라이브.md "wikilink") 용산방송 등 일부 SO들을 제외한 나머지는 채널번호가 같다.
 
 ## 특징
 
 드라마 및 예능 프로그램(연예·오락) 등을 중점적으로 편성하는 지상파 채널이다. 젊고 가족적인 분위기의 채널을 지향하는 편으로 보다 유익하고, 흥미진진한 분위기를 연출하고 있으며 상업광고를 송출하는 것이 특징이다. 고정 채널번호는 7번이다.
 
   - [1980년](../Page/1980년.md "wikilink") [허문도](../Page/허문도.md "wikilink")가 단행한 [언론통폐합](../Page/언론통폐합.md "wikilink")으로 인하여 [동양방송](../Page/동양방송.md "wikilink")(이하 TBC) 서울본사와 부산지국이 [1980년](../Page/1980년.md "wikilink") [12월 1일](../Page/12월_1일.md "wikilink"), 한국방송공사에 인수 합병되어, KBS 2TV로 재탄생되었다.
-  - [KBS 1TV](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink"), [MBC TV](../Page/MBC_TV.md "wikilink"), [SBS TV](../Page/SBS_TV.md "wikilink") 등과 가맹한 9개 지역 민방 네트워크에 비해 지역국 자체 제작 프로그램 편성이 거의 없으며, [EBS 1TV](../Page/EBS_1TV.md "wikilink"), [EBS 2TV와](../Page/EBS_2TV.md "wikilink") 함께 전국적으로 일제히 송출되는 방송이다. (한때 누가누가 잘하나는 월 1회 지역방송을 한 적이 있다.)
+  - [KBS 1TV](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink"), [MBC TV](../Page/MBC_TV.md "wikilink"), [SBS TV](../Page/SBS_TV.md "wikilink") 등과 가맹한 9개 지역 민방 네트워크에 비해 지역국(지역 단위 MBC 계열사) 자체 제작 프로그램 편성이 전혀 없으며, [EBS 1TV](../Page/EBS_1TV.md "wikilink"), [EBS 2TV와](../Page/EBS_2TV.md "wikilink") 함께 전국적으로 일제히 송출되는 방송이다. (한때 누가누가 잘하나는 월 1회 지역방송을 한 적이 있다.)
   - 2TV는 선거방송, 주말 뉴스 및 날씨는 제공되지 않는다.
   - [1992년](../Page/1992년.md "wikilink")부터 곧이어(잠시후) 도입 추가되었다.
   - [1980년](../Page/1980년.md "wikilink")부터 [1993년](../Page/1993년.md "wikilink")까지 신년전야 특별 생방송을 하지 않았다가, 매년 [1994년](../Page/1994년.md "wikilink")부터 [KBS 연기대상의](../Page/KBS_연기대상.md "wikilink") 중계 · 방송 중인 [새해](../Page/새해.md "wikilink") [카운트다운](https://ko.wikipedia.org/wiki/카운트다운 "wikilink")을 보냈다.
@@ -40,12 +40,13 @@
   - [1985년](../Page/1985년.md "wikilink") [12월 25일](../Page/12월_25일.md "wikilink") : 음성 다중 및 [스테레오](../Page/스테레오.md "wikilink") 방송 개시.
   - [1986년](../Page/1986년.md "wikilink") [8월 11일](../Page/8월_11일.md "wikilink") : 오전 방송 1시간 연장에 따른 기본 편성 재조정 실시.
   - [1986년 아시안 게임](../Page/1986년_아시안_게임.md "wikilink") 기간 : 익일 새벽 1시 까지 방송.
+  - [1987년](../Page/1987년.md "wikilink") [2월 28일](../Page/2월_28일.md "wikilink") : 《[TV유치원 하나둘셋](https://ko.wikipedia.org/wiki/TV유치원_하나둘셋 "wikilink")》 마지막방송. ([KBS1TV](https://ko.wikipedia.org/wiki/KBS1TV "wikilink"))로 채널 이동
   - [1987년](../Page/1987년.md "wikilink") [10월 3일](../Page/10월_3일.md "wikilink") : 토요일 오전 방송 2시간 연장.
   - [1988년](../Page/1988년.md "wikilink") [1월 11일](../Page/1월_11일.md "wikilink") : 《[퀴즈탐험 신비의 세계](https://ko.wikipedia.org/wiki/퀴즈탐험_신비의_세계 "wikilink")》 KBS 2TV로 채널 이동.
   - [1988년 하계 올림픽](../Page/1988년_하계_올림픽.md "wikilink") 기간 : 익일 새벽 2시까지 방송.
   - [1990년](../Page/1990년.md "wikilink") [4월 2일](../Page/4월_2일.md "wikilink") : 《[퀴즈탐험 신비의 세계](https://ko.wikipedia.org/wiki/퀴즈탐험_신비의_세계 "wikilink")》 ([KBS 1TV](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink"))로 채널 이동.
   - [1990년](../Page/1990년.md "wikilink") [9월 9일](../Page/9월_9일.md "wikilink") : 《[대추나무 사랑걸렸네](../Page/대추나무_사랑걸렸네.md "wikilink")》 방송 시작.
-  - [1991년](../Page/1991년.md "wikilink") [5월 20일](../Page/5월_20일.md "wikilink") : 《[퀴즈탐험 신비의 세계](https://ko.wikipedia.org/wiki/퀴즈탐험_신비의_세계 "wikilink")》를 채널 이동. 월요일 저녁 19시10분 방송.
+  - [1991년](../Page/1991년.md "wikilink") [5월 20일](../Page/5월_20일.md "wikilink") : 《[퀴즈탐험 신비의 세계](https://ko.wikipedia.org/wiki/퀴즈탐험_신비의_세계 "wikilink")》를 채널 이동. 월요일 저녁 19시10분 방송. 《[한바탕 웃음으로](https://ko.wikipedia.org/wiki/한바탕_웃음으로 "wikilink")》방송 개시.
   - [1991년](../Page/1991년.md "wikilink") [10월 6일](../Page/10월_6일.md "wikilink") : 《[걸프 전쟁](../Page/걸프_전쟁.md "wikilink")》으로 저녁 방송 20분 축소.
   - [1991년](../Page/1991년.md "wikilink") [10월 7일](../Page/10월_7일.md "wikilink") : 저녁 방송 시작을 5시 30분으로 변경.
   - [1992년](../Page/1992년.md "wikilink") [4월 7일](../Page/4월_7일.md "wikilink") : 《[밤으로 가는 쇼](../Page/밤으로_가는_쇼.md "wikilink")》 방송
@@ -53,21 +54,24 @@
 
 ### 변혁기
 
-  - [1993년](../Page/1993년.md "wikilink") [4월 25일](../Page/4월_25일.md "wikilink") : 《[대추나무 사랑걸렸네](../Page/대추나무_사랑걸렸네.md "wikilink")》(([KBS2TV](https://ko.wikipedia.org/wiki/KBS2TV "wikilink"))에서 마지막 방송 후 ([KBS 1TV](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink"))로 이동)
+  - [1993년](../Page/1993년.md "wikilink") [4월 25일](../Page/4월_25일.md "wikilink") : 《[대추나무 사랑걸렸네](../Page/대추나무_사랑걸렸네.md "wikilink")》([KBS2TV](https://ko.wikipedia.org/wiki/KBS2TV "wikilink"))에서 마지막 방송 후 ([KBS 1TV](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink"))로 이동)
   - [1993년](../Page/1993년.md "wikilink") [4월 26일](../Page/4월_26일.md "wikilink") : 프로그램 제공 회사주 가로쓰기 도입.
   - [1993년](../Page/1993년.md "wikilink") [5월 2일](../Page/5월_2일.md "wikilink") : 《홈런\! 일요일》과 《[사랑의 가족](../Page/사랑의_가족.md "wikilink")》 방송 개시.
   - [1993년](../Page/1993년.md "wikilink") [6월 26일](../Page/6월_26일.md "wikilink") : 대전 엑스포 기간동안 오전, 심야 방송 개시.
   - [1993년](../Page/1993년.md "wikilink") [10월 13일](../Page/10월_13일.md "wikilink") :《[밤으로 가는 쇼](../Page/밤으로_가는_쇼.md "wikilink")》 종영.
+  - [1993년](../Page/1993년.md "wikilink") [10월 18일](../Page/10월_18일.md "wikilink") : 《[퍼즐 특급열차](https://ko.wikipedia.org/wiki/퍼즐_특급열차 "wikilink")》 방송 개시.
   - [1993년](../Page/1993년.md "wikilink") [10월 20일](../Page/10월_20일.md "wikilink") :《[밤과 음악 사이](../Page/밤과_음악_사이.md "wikilink")》 방송.
   - [1993년](../Page/1993년.md "wikilink") [10월 24일](../Page/10월_24일.md "wikilink") : 《[체험 삶의 현장](../Page/체험_삶의_현장.md "wikilink")》 방송 개시.
-  - [1994년](../Page/1994년.md "wikilink") [2월 27일](../Page/2월_27일.md "wikilink") : 《[풍물기행 세계를 가다](../Page/풍물기행_세계를_가다.md "wikilink")》 방송시작
+  - [1994년](../Page/1994년.md "wikilink") [2월 27일](../Page/2월_27일.md "wikilink") : 《[풍물기행 세계를 가다](../Page/풍물기행_세계를_가다.md "wikilink")》 방송 시작.
+  - [1994년](../Page/1994년.md "wikilink") [5월 2일](../Page/5월_2일.md "wikilink") : 《[혼자서도 잘해요](../Page/혼자서도_잘해요.md "wikilink")》 방송 개시.
   - [1994년](../Page/1994년.md "wikilink") [5월 24일](../Page/5월_24일.md "wikilink") : 《[TV는 사랑을 싣고](../Page/TV는_사랑을_싣고.md "wikilink")》 방송 시작.
   - [1994년](../Page/1994년.md "wikilink") [10월 1일](../Page/10월_1일.md "wikilink") : ([KBS 1TV](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink")) 상업광고 폐지에 따른 ([KBS2TV](https://ko.wikipedia.org/wiki/KBS2TV "wikilink")) 상업광고 시간 확대.
+  - [1994년](../Page/1994년.md "wikilink") [10월 8일](../Page/10월_8일.md "wikilink") : 《[한바탕 웃음으로](https://ko.wikipedia.org/wiki/한바탕_웃음으로 "wikilink")》종영.
   - [1995년](../Page/1995년.md "wikilink") [3월 5일](../Page/3월_5일.md "wikilink") : 《[TV쇼 진품명품](../Page/TV쇼_진품명품.md "wikilink")》 방송 개시
   - [1995년](../Page/1995년.md "wikilink") [9월 4일](../Page/9월_4일.md "wikilink") : 오후 5시에 방송 시작 및 새벽 1시까지 확대
   - [1995년](../Page/1995년.md "wikilink") [9월 5일](../Page/9월_5일.md "wikilink") : 《행운의 일요특급》 방송 개시.
   - [1995년](../Page/1995년.md "wikilink") [11월 10일](../Page/11월_10일.md "wikilink") : 《[코미디 세상만사](../Page/코미디_세상만사.md "wikilink")》 방영 시작.
-  - [1996년](../Page/1996년.md "wikilink") [2월 26일](https://ko.wikipedia.org/wiki/2월_26일 "wikilink") : 《[체험 삶의 현장](../Page/체험_삶의_현장.md "wikilink")》 마지막 방송 ([KBS 2TV](../Page/KBS_2TV.md "wikilink")) 채널을 [KBS 1TV로](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink") 이동.
+  - [1996년](../Page/1996년.md "wikilink") [2월 26일](https://ko.wikipedia.org/wiki/2월_26일 "wikilink") : 《[체험 삶의 현장](../Page/체험_삶의_현장.md "wikilink")》 마지막 방송 [KBS2TV](https://ko.wikipedia.org/wiki/KBS2TV "wikilink") 채널을 [KBS 1TV로](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink") 이동.
   - [1996년](../Page/1996년.md "wikilink") [3월 4일](../Page/3월_4일.md "wikilink") : 오전 방송을 낮 12시까지 확대.
   - [1996년](../Page/1996년.md "wikilink") [3월 10일](../Page/3월_10일.md "wikilink") : 《[도전 지구탐험대](https://ko.wikipedia.org/wiki/도전_지구탐험대 "wikilink")》 방영 시작.
   - [1996년](../Page/1996년.md "wikilink") [4월 28일](../Page/4월_28일.md "wikilink") : 《[사랑의가족](https://ko.wikipedia.org/wiki/사랑의가족 "wikilink")》 일요일에서 토요일로 이동.
@@ -79,12 +83,17 @@
   - [1997년](../Page/1997년.md "wikilink") [5월 19일](../Page/5월_19일.md "wikilink") : 오후 방송 시작을 오후 5시에서 4시로 변경.
   - [1997년](../Page/1997년.md "wikilink") [5월 25일](../Page/5월_25일.md "wikilink") : 《쇼\! 행운을 잡아라》 방송 개시.
   - [1997년](../Page/1997년.md "wikilink") [10월 24일](../Page/10월_24일.md "wikilink") : 《[사랑의 리퀘스트](../Page/사랑의_리퀘스트.md "wikilink")》방영 개시.
+  - [1997년](../Page/1997년.md "wikilink") [11월 3일](../Page/11월_3일.md "wikilink") : 《[퍼즐특급열차](https://ko.wikipedia.org/wiki/퍼즐특급열차 "wikilink")》 시간을 18시45분으로 변경.
   - [1997년](../Page/1997년.md "wikilink") [12월 26일](../Page/12월_26일.md "wikilink") : 《[사랑의 리퀘스트](../Page/사랑의_리퀘스트.md "wikilink")》 마지막방송. ([KBS 1TV로](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink") 채널 변경.)
   - [1998년](../Page/1998년.md "wikilink") [1월 5일](../Page/1월_5일.md "wikilink") : [IMF 불황으로](https://ko.wikipedia.org/wiki/대한민국의_IMF_구제금융_요청 "wikilink") 오전 방송을 6시부터 10시까지 축소 및 오후방송을 17시부터 축소.
+  - [1998년](../Page/1998년.md "wikilink") [2월 9일](../Page/2월_9일.md "wikilink") : 《[퍼즐 특급열차](https://ko.wikipedia.org/wiki/퍼즐_특급열차 "wikilink")》 월요일 마지막 방송. 일요일로 이동.
   - [1998년](../Page/1998년.md "wikilink") [2월 10일](../Page/2월_10일.md "wikilink") : 《[가요톱10](../Page/가요톱10.md "wikilink")》마지막 방송.
   - [1998년](../Page/1998년.md "wikilink") [2월 11일](../Page/2월_11일.md "wikilink") : 《[긴급구조 119](../Page/긴급구조_119.md "wikilink")》채널 이전 후 KBS 2TV에서 임시 방송.
   - [1998년](../Page/1998년.md "wikilink") [2월 12일](../Page/2월_12일.md "wikilink") : 《[그대 나를 부를 때](../Page/그대_나를_부를_때.md "wikilink")》를 끝으로 KBS 수목드라마 폐지.
+  - [1998년](../Page/1998년.md "wikilink") [2월 16일](../Page/2월_16일.md "wikilink") : 《[체험 삶의 현장](../Page/체험_삶의_현장.md "wikilink")》을 [KBS 1TV에서](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink") [KBS2TV](https://ko.wikipedia.org/wiki/KBS2TV "wikilink")로 채널 이동.
   - [1998년](../Page/1998년.md "wikilink") [2월 18일](../Page/2월_18일.md "wikilink") :《[공개수배 사건 25시](../Page/공개수배_사건_25시.md "wikilink")》방송 시작.
+  - [1998년](../Page/1998년.md "wikilink") [2월 22일](../Page/2월_22일.md "wikilink") : 《[퍼즐특급열차](https://ko.wikipedia.org/wiki/퍼즐특급열차 "wikilink")》 일요일 오전 방송.
+  - [1998년](../Page/1998년.md "wikilink") [6월 7일](../Page/6월_7일.md "wikilink") : 《[퍼즐특급열차](https://ko.wikipedia.org/wiki/퍼즐특급열차 "wikilink")》 종영.
   - [1998년](../Page/1998년.md "wikilink") [6월 12일](../Page/6월_12일.md "wikilink") : 《[무엇이든 물어보세요](../Page/무엇이든_물어보세요.md "wikilink")》 KBS 2TV 마지막 방송. ([KBS 1TV로](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink") 방송 채널 이전)
   - [1998년](../Page/1998년.md "wikilink") [6월 15일](../Page/6월_15일.md "wikilink") : 《[시청자칼럼 우리사는 세상](../Page/시청자칼럼_우리사는_세상.md "wikilink")》 방송 개시.
   - [1998년](../Page/1998년.md "wikilink") [6월 16일](../Page/6월_16일.md "wikilink") : 《[뮤직뱅크](../Page/뮤직뱅크.md "wikilink")》 방송 개시.
@@ -107,14 +116,15 @@
   - [2000년](../Page/2000년.md "wikilink") [7월 22일](../Page/7월_22일.md "wikilink") :《[TV쇼 진품명품](../Page/TV쇼_진품명품.md "wikilink")》을 [KBS 1TV로](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink") 이동
   - [2000년](../Page/2000년.md "wikilink") [7월 26일](../Page/7월_26일.md "wikilink") : [한국방송공사 수목드라마](https://ko.wikipedia.org/wiki/한국방송공사_수목드라마 "wikilink") 방송 재개 및 《[소설 목민심서](../Page/소설_목민심서.md "wikilink")》가 일일사극에서 수목드라마로 변경.
   - [2000년](../Page/2000년.md "wikilink") [10월 5일](../Page/10월_5일.md "wikilink") : 《[가족오락관](https://ko.wikipedia.org/wiki/가족오락관 "wikilink")》을 [KBS 1TV로](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink") 이동.
-  - [2000년](../Page/2000년.md "wikilink") [10월 13일](../Page/10월_13일.md "wikilink") : 《[VJ특공대](../Page/VJ특공대.md "wikilink")》를 KBS 2TV로 채널 변경 및 이동.
+  - [2000년](../Page/2000년.md "wikilink") [10월 13일](../Page/10월_13일.md "wikilink") : 《[VJ특공대](../Page/VJ특공대.md "wikilink")》를 [KBS2TV](https://ko.wikipedia.org/wiki/KBS2TV "wikilink")로 채널 변경
   - [2000년](../Page/2000년.md "wikilink") [10월 18일](../Page/10월_18일.md "wikilink") : [천둥소리](../Page/천둥소리.md "wikilink") 방송 시작.
   - [2001년](../Page/2001년.md "wikilink") [4월 12일](../Page/4월_12일.md "wikilink") : [천둥소리](../Page/천둥소리.md "wikilink") 종영.
+  - [2001년](../Page/2001년.md "wikilink") [4월 27일](../Page/4월_27일.md "wikilink") : 《[혼자서도 잘해요](../Page/혼자서도_잘해요.md "wikilink")》 종영.
   - [2001년](../Page/2001년.md "wikilink") [4월 28일](../Page/4월_28일.md "wikilink") : 《[공개수배 사건 25시](../Page/공개수배_사건_25시.md "wikilink")》 종영.
   - [2001년](../Page/2001년.md "wikilink") [5월 2일](../Page/5월_2일.md "wikilink") : 특종 사건파일 방송 시작.
   - [2001년](../Page/2001년.md "wikilink") [5월 9일](../Page/5월_9일.md "wikilink") : 《[명성황후](../Page/명성황후_\(드라마\).md "wikilink")》 방송 시작 및 수목드라마 재개.
   - [2001년](../Page/2001년.md "wikilink") [10월 31일](../Page/10월_31일.md "wikilink") : 특종 사건파일 종영.
-  - [2001년](../Page/2001년.md "wikilink") [11월 2일](../Page/11월_2일.md "wikilink") : 《[도전\! 골든벨](../Page/도전!_골든벨.md "wikilink")》 KBS 2TV 마지막 방송 ([KBS 1TV로](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink") 채널 이전 및 일요일 저녁으로 방송 시간 변경) 《[인간극장](../Page/인간극장.md "wikilink")》 KBS2TV 마지막방송. ([KBS1TV](https://ko.wikipedia.org/wiki/KBS1TV "wikilink"))로 채널 변경.
+  - [2001년](../Page/2001년.md "wikilink") [11월 2일](../Page/11월_2일.md "wikilink") : 《[도전\! 골든벨](../Page/도전!_골든벨.md "wikilink")》, KBS 2TV 마지막 방송 ([KBS 1TV로](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink") 채널 이전 및 일요일 저녁으로 방송 시간 변경([KBS 1TV](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink")), 및 《[인간극장](../Page/인간극장.md "wikilink")》 마지막 방송. 월요일 오전으로 방송 [KBS 1TV로](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink") 채널 변경.
   - [2001년](../Page/2001년.md "wikilink") [11월 5일](../Page/11월_5일.md "wikilink") : 《[뉴스투데이](../Page/KBS_8_뉴스타임.md "wikilink")》가 《[KBS 뉴스네트워크](https://ko.wikipedia.org/wiki/KBS_뉴스네트워크 "wikilink")》와 통합, 《[KBS 뉴스 7](../Page/KBS_8_뉴스타임.md "wikilink")》으로 명칭 변경
   - [2001년](../Page/2001년.md "wikilink") [11월 7일](../Page/11월_7일.md "wikilink") : 《[203 특별수사대](https://ko.wikipedia.org/wiki/203_특별수사대 "wikilink")》 방송 시작.
   - [2001년](../Page/2001년.md "wikilink") [11월 8일](../Page/11월_8일.md "wikilink") : 《해피투게더》 방영 개시.
@@ -135,13 +145,14 @@
   - [2004년](../Page/2004년.md "wikilink") [10월 20일](../Page/10월_20일.md "wikilink") : 《[우리말 겨루기](../Page/우리말_겨루기.md "wikilink")》 ([KBS 2TV](../Page/KBS_2TV.md "wikilink")) 마지막 방송.([KBS 1TV로](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink") 채널 변경)
   - [2004년](../Page/2004년.md "wikilink") [10월 31일](../Page/10월_31일.md "wikilink") : 《[쇼\! 행운열차](../Page/쇼!_행운열차.md "wikilink")》 종영.
   - [2004년](../Page/2004년.md "wikilink") [11월 1일](../Page/11월_1일.md "wikilink") : 《KBS 뉴스 (745)》가 《[KBS 아침뉴스타임](../Page/KBS_아침뉴스타임.md "wikilink")》으로 확대 개편. 《[사랑의 가족](../Page/사랑의_가족.md "wikilink")》이 주말에서 평일 오후로 이동.
-  - [2004년](../Page/2004년.md "wikilink") [11월 7일](../Page/11월_7일.md "wikilink") : 안전성 문제가 거론됨에 따라서 《일요일은 101%》가 종영, 《[해피선데이](../Page/해피선데이.md "wikilink")》 방송 시작.
+  - [2004년](../Page/2004년.md "wikilink") [11월 7일](../Page/11월_7일.md "wikilink") : 안전성 문제가 거론됨에 따라서 《일요일은 101%》가 종영, 《[해피선데이](../Page/해피선데이.md "wikilink")》와 《[스타 골든벨](../Page/스타_골든벨.md "wikilink")》 방영 개시.
   - [2005년](../Page/2005년.md "wikilink") [5월 8일](../Page/5월_8일.md "wikilink") : 《[KBS 일요뉴스타임](../Page/KBS_일요뉴스타임.md "wikilink")》 방송 개시.
   - [2005년](../Page/2005년.md "wikilink") [7월 9일](../Page/7월_9일.md "wikilink") : 《[위기탈출 넘버원](../Page/위기탈출_넘버원.md "wikilink")》 방송 개시.
   - [2005년](../Page/2005년.md "wikilink") [10월 30일](../Page/10월_30일.md "wikilink") : 《[도전 지구탐험대](https://ko.wikipedia.org/wiki/도전_지구탐험대 "wikilink")》 종영.
   - [2005년](../Page/2005년.md "wikilink") [12월 1일](../Page/12월_1일.md "wikilink") : 지상파 [DMB](../Page/디지털_멀티미디어_방송.md "wikilink") 방송 개시(채널명: U-KBS HEART). 평일 낮 방송 개시([평일](https://ko.wikipedia.org/wiki/평일 "wikilink"): 19시간 30분, [주말](https://ko.wikipedia.org/wiki/주말 "wikilink") : 20시간 \~ 21시간)
   - [2006년](../Page/2006년.md "wikilink") [11월 25일](../Page/11월_25일.md "wikilink") : 《[영화가 좋다](../Page/영화가_좋다.md "wikilink")》 방송 개시.
   - [2007년](../Page/2007년.md "wikilink") [4월 26일](../Page/4월_26일.md "wikilink") : 《[사랑의 가족](../Page/사랑의_가족.md "wikilink")》을 [KBS 1TV로](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink") 이동.
+  - [2007년](../Page/2007년.md "wikilink") [4월 30일](../Page/4월_30일.md "wikilink") : 《[TV유치원 하나둘셋](https://ko.wikipedia.org/wiki/TV유치원_하나둘셋 "wikilink")》 [KBS2TV](https://ko.wikipedia.org/wiki/KBS2TV "wikilink")로 채널 복귀.
   - [2007년](../Page/2007년.md "wikilink") [5월 1일](../Page/5월_1일.md "wikilink") : 《[1 대 100](../Page/1_대_100.md "wikilink")》 방송 개시.
   - [2007년](../Page/2007년.md "wikilink") [5월 3일](../Page/5월_3일.md "wikilink") : 《[특명 공개수배](../Page/특명_공개수배.md "wikilink")》 방송 개시.
   - [2007년](../Page/2007년.md "wikilink") [11월 3일](../Page/11월_3일.md "wikilink") : 《[토요명화](../Page/토요명화.md "wikilink")》 종영.
@@ -153,17 +164,22 @@
   - [2008년](../Page/2008년.md "wikilink") [11월 13일](../Page/11월_13일.md "wikilink") : 《[KBS 월드뉴스](https://ko.wikipedia.org/wiki/KBS_월드뉴스 "wikilink")》종영
   - [2008년](../Page/2008년.md "wikilink") [11월 17일](../Page/11월_17일.md "wikilink") : 《[KBS 6 뉴스타임](https://ko.wikipedia.org/wiki/KBS_6_뉴스타임 "wikilink")》이 《[KBS 8 뉴스타임](../Page/KBS_8_뉴스타임.md "wikilink")》으로 명칭 환원.
   - [2008년](../Page/2008년.md "wikilink") [11월 22일](../Page/11월_22일.md "wikilink") : 《[KBS 프리미어](../Page/토요영화_KBS_프리미어.md "wikilink")》 종영.
-  - [2009년](../Page/2009년.md "wikilink") [4월 17일](../Page/4월_17일.md "wikilink") : 《[인간극장](../Page/인간극장.md "wikilink")》KBS 2TV 마지막방송. KBS 1TV로 채널 이동.
+  - [2009년](../Page/2009년.md "wikilink") [4월 17일](../Page/4월_17일.md "wikilink") : 《[인간극장](../Page/인간극장.md "wikilink")》과 《[TV유치원 하나둘셋](https://ko.wikipedia.org/wiki/TV유치원_하나둘셋 "wikilink")》[KBS2TV](https://ko.wikipedia.org/wiki/KBS2TV "wikilink") 마지막방송. KBS 1TV로 채널 이동.
   - [2009년](../Page/2009년.md "wikilink") [10월 21일](../Page/10월_21일.md "wikilink") : 《[추적60분](https://ko.wikipedia.org/wiki/추적60분 "wikilink")》을 KBS 2TV로 채널 변경.
 
 ### 디지털 시대
 
   - [2010년](../Page/2010년.md "wikilink") [5월 7일](../Page/5월_7일.md "wikilink") : 《[KBS 8 뉴스타임](../Page/KBS_8_뉴스타임.md "wikilink")》 종영.
-  - [2010년](../Page/2010년.md "wikilink") [5월 10일](../Page/5월_10일.md "wikilink") : 《[KBS 뉴스타임](https://ko.wikipedia.org/wiki/KBS_뉴스타임 "wikilink")》 방송 개시.
+  - [2010년](../Page/2010년.md "wikilink") [5월 10일](../Page/5월_10일.md "wikilink") : 《[KBS 뉴스타임](https://ko.wikipedia.org/wiki/KBS_뉴스타임 "wikilink")》 방송 개시 및 《[TV유치원 하나둘셋](https://ko.wikipedia.org/wiki/TV유치원_하나둘셋 "wikilink")》 [KBS2TV](https://ko.wikipedia.org/wiki/KBS2TV "wikilink")로 채널 복귀.
   - [2010년](../Page/2010년.md "wikilink") [5월 10일](../Page/5월_10일.md "wikilink") : 《[해피버스데이](https://ko.wikipedia.org/wiki/해피버스데이_\(텔레비전_프로그램\) "wikilink")》 방송 개시.
   - [2010년](../Page/2010년.md "wikilink") [11월 15일](../Page/11월_15일.md "wikilink") : 《[해피버스데이](https://ko.wikipedia.org/wiki/해피버스데이_\(텔레비전_프로그램\) "wikilink")》 종영.
+  - [2010년](../Page/2010년.md "wikilink") [11월 20일](../Page/11월_20일.md "wikilink") : 《[스타골든벨](https://ko.wikipedia.org/wiki/스타골든벨 "wikilink")》 종영.
   - [2010년](../Page/2010년.md "wikilink") [11월 22일](../Page/11월_22일.md "wikilink") : 《[대국민 토크쇼 안녕하세요](../Page/대국민_토크쇼_안녕하세요.md "wikilink")》 방송 개시.
+  - [2011년](../Page/2011년.md "wikilink") [1월 6일](../Page/1월_6일.md "wikilink") : 《[체험 삶의 현장](../Page/체험_삶의_현장.md "wikilink")》 목요일 저녁으로 이동.
   - [2011년](../Page/2011년.md "wikilink") [6월 4일](../Page/6월_4일.md "wikilink") : 《[불후의 명곡 전설을 노래하다](https://ko.wikipedia.org/wiki/불후의_명곡_전설을_노래하다 "wikilink")》 방송 개시.
+  - [2011년](../Page/2011년.md "wikilink") [6월 30일](../Page/6월_30일.md "wikilink") : 《[체험 삶의 현장](../Page/체험_삶의_현장.md "wikilink")》 목요일 마지막방송.
+  - [2011년](../Page/2011년.md "wikilink") [7월 2일](../Page/7월_2일.md "wikilink") : 《[체험 삶의 현장](../Page/체험_삶의_현장.md "wikilink")》 목요일에서 토요일로 이동.
+  - [2011년](../Page/2011년.md "wikilink") [11월 7일](../Page/11월_7일.md "wikilink") :《[세상의 모든 다큐](../Page/세상의_모든_다큐.md "wikilink")》 방송 개시.
   - [2011년](../Page/2011년.md "wikilink") [12월 1일](../Page/12월_1일.md "wikilink") : [통폐합된](../Page/언론통폐합.md "wikilink") 채널인 [TBC-TV의](../Page/동양방송.md "wikilink") 후신인 [JTBC](../Page/JTBC.md "wikilink") 개국 [통폐합된](../Page/언론통폐합.md "wikilink") 채널인 DBS의 후신인 [채널 A](https://ko.wikipedia.org/wiki/채널_A "wikilink") 개국
   - [2012년](../Page/2012년.md "wikilink") [2월 26일](https://ko.wikipedia.org/wiki/2월_26일 "wikilink") : 《[체험 삶의 현장](../Page/체험_삶의_현장.md "wikilink")》 종영.
   - [2012년](../Page/2012년.md "wikilink") [9월 21일](../Page/9월_21일.md "wikilink") : 《[스펀지](../Page/스펀지_\(텔레비전_프로그램\).md "wikilink")》 종영.
@@ -186,11 +202,14 @@
   - [2017년](../Page/2017년.md "wikilink") [3월 30일](../Page/3월_30일.md "wikilink") : 《[KBS 6시 뉴스타임](../Page/KBS_6시_뉴스타임.md "wikilink")》 종영.
   - [2017년](../Page/2017년.md "wikilink") [4월 3일](../Page/4월_3일.md "wikilink") : 《[KBS 경제타임](https://ko.wikipedia.org/wiki/KBS_경제타임 "wikilink")》 신설.
   - [2017년](../Page/2017년.md "wikilink") [5월 29일](../Page/5월_29일.md "wikilink") : 프로그램 부분 조정.
+  - [2017년](../Page/2017년.md "wikilink") [9월 1일](../Page/9월_1일.md "wikilink") : 《[KBS 아침뉴스타임](../Page/KBS_아침뉴스타임.md "wikilink")》 공영방송 총파업으로 방송 중단.
 
 ### UHD 시대
 
   - [2017년](../Page/2017년.md "wikilink") [5월 31일](../Page/5월_31일.md "wikilink") : UHD 방송 개시.
-  - [2017년](../Page/2017년.md "wikilink") [9월 4일](../Page/9월_4일.md "wikilink") \~ [2018년](../Page/2018년.md "wikilink") [1월 22일](../Page/1월_22일.md "wikilink") : 2017년 대한민국 KBS 파업으로 중단.
+  - [2017년](../Page/2017년.md "wikilink") [9월 4일](../Page/9월_4일.md "wikilink") \~ [2018년](../Page/2018년.md "wikilink") [1월 22일](../Page/1월_22일.md "wikilink") : 2017년 대한민국 KBS 파업으로 종료.
+  - [2018년](../Page/2018년.md "wikilink") [2월 5일](../Page/2월_5일.md "wikilink") : 《[KBS 아침뉴스타임](../Page/KBS_아침뉴스타임.md "wikilink")》 5개월만에 방송 재개, [백승주](../Page/백승주_\(1976년\).md "wikilink") 아나운서 여자 새 앵커 (현재 진행중)
+  - 2018년 4월 23일 : 《[KBS 아침뉴스타임](../Page/KBS_아침뉴스타임.md "wikilink")》 [오언종](../Page/오언종.md "wikilink") 아나운서 남자 새 앵커 (현재 진행중)
   - 2018년 6월 4일 : [한국방송공사 월화드라마가](../Page/한국방송공사_월화드라마.md "wikilink") 2회 연속 방송 시작.
   - 2018년 7월 4일 : [한국방송공사 수목드라마가](https://ko.wikipedia.org/wiki/한국방송공사_수목드라마 "wikilink") 2회 연속 방송 시작.
   - [2018년](../Page/2018년.md "wikilink") [7월 13일](../Page/7월_13일.md "wikilink") : 《[여유만만](../Page/여유만만.md "wikilink")》 종영.
@@ -209,10 +228,7 @@
   - 2019년 12월 7일 : 《[개그콘서트](https://ko.wikipedia.org/wiki/개그콘서트 "wikilink")》가 2001년 이후 18년만에 다시 토요일 밤으로 복귀.
   - 2019년 12월 8일 : 《[1박 2일](../Page/1박_2일.md "wikilink")》 시즌 4로 방영 재개.
   - 2020년 1월 7일 : 《[날아라 슛돌이 - 뉴 비기닝](https://ko.wikipedia.org/wiki/날아라_슛돌이_-_뉴_비기닝 "wikilink")》 방영.
-  - 2020년 1월 19일 : 《[거리의 만찬](../Page/거리의_만찬.md "wikilink")》 종영.
-  - 2020년 4월 2일 : 《[해피투게더](../Page/해피투게더_\(텔레비전_프로그램\).md "wikilink")》 종영
-  - 2020년 4월 3일 : 《[배틀트립](../Page/배틀트립.md "wikilink")》 종영.
-  - 2020년 4월 10일 : 《[개그콘서트](https://ko.wikipedia.org/wiki/개그콘서트 "wikilink")》 토요일에서 금요일로 이동.
+  - 2020년 6월 19일 : 《[연예가중계](../Page/연예가중계.md "wikilink")》 부활.
 
 ### 로고송
 
@@ -222,9 +238,9 @@
   - [1988년](../Page/1988년.md "wikilink") [10월](../Page/10월.md "wikilink") \~ [1992년](../Page/1992년.md "wikilink") [4월](../Page/4월.md "wikilink") : 사랑과 기쁨이 솟는 KBS 제2텔레비전
   - [1992년](../Page/1992년.md "wikilink") [4월](../Page/4월.md "wikilink") \~ [1993년](../Page/1993년.md "wikilink") [10월](../Page/10월.md "wikilink") : KBS 라디오 노래 "영원한 우리들의 KBS KBS" MR 버전
   - [1993년](../Page/1993년.md "wikilink") [10월](../Page/10월.md "wikilink") \~ [1994년](../Page/1994년.md "wikilink") [10월](../Page/10월.md "wikilink") : KBS KBS 제2텔레비전
-  - [1994년](../Page/1994년.md "wikilink") [10월](../Page/10월.md "wikilink") \~ 일자 미상 : (다장조) 좋은 방송 밝은 세상 KBS
-  - 일자 미상 \~ [2001년](../Page/2001년.md "wikilink") [3월 2일](../Page/3월_2일.md "wikilink") : (라장조) 좋은 방송 밝은 세상 KBS
-  - [2001년](../Page/2001년.md "wikilink") [3월 3일](../Page/3월_3일.md "wikilink") \~ [2003년](../Page/2003년.md "wikilink") [6월 22일](../Page/6월_22일.md "wikilink") : 좋은 방송 밝은 세상 KBS 한국방송
+  - [1994년](../Page/1994년.md "wikilink") [10월](../Page/10월.md "wikilink") \~ 일자 미상 : (다장조) 좋은 방송 밝은 세상 KBS, 좋은 방송 밝은 사회 KBS
+  - 일자 미상 \~ [2001년](../Page/2001년.md "wikilink") [3월 2일](../Page/3월_2일.md "wikilink") : (라장조) 좋은 방송 밝은 세상 KBS, 좋은 방송 밝은 사회 KBS
+  - [2001년](../Page/2001년.md "wikilink") [3월 3일](../Page/3월_3일.md "wikilink") \~ [2003년](../Page/2003년.md "wikilink") [6월 22일](../Page/6월_22일.md "wikilink") : 좋은 방송 밝은 세상 KBS 한국방송, 좋은 방송 밝은 사회 KBS 한국방송
   - [2003년](../Page/2003년.md "wikilink") [6월 23일](../Page/6월_23일.md "wikilink") \~ [2006년](../Page/2006년.md "wikilink") 일자 미상 : KBS KBS KBS 한국방송\[3\]
   - [2007년](../Page/2007년.md "wikilink") 일자 미상 : 우리 곁엔 언제나 KBS KBS 한국방송\[4\]
   - 2018년 7월 \~ 현제 : 즐거운 2TV오 KBS 2TV오 KBS
@@ -236,7 +252,7 @@
 
 ## DMB
 
-[2006년](../Page/2006년.md "wikilink") [01월 01일부터](https://ko.wikipedia.org/wiki/01월_01일 "wikilink") [DMB](../Page/디지털_멀티미디어_방송.md "wikilink") 방송국 [U-KBS](../Page/U-KBS.md "wikilink")가 개국했다.
+[2005년](../Page/2005년.md "wikilink") [12월 1일부터](../Page/12월_1일.md "wikilink") [DMB](../Page/디지털_멀티미디어_방송.md "wikilink") 방송국 [U-KBS](../Page/U-KBS.md "wikilink")가 개국했다.
 
 ## 프로그램
 
@@ -248,8 +264,8 @@
 <th><p>방송 시간</p></th>
 <th><p>분리편성</p></th>
 <th><p>방송 프로그램</p></th>
-<th><p>간접광고 및 가상광고</p></th>
-<th><p>PCM</p></th>
+<th><p>간접 및 가상광고</p></th>
+<th><p>2회 연속 방영</p></th>
 </tr>
 </thead>
 <tbody>
@@ -257,13 +273,13 @@
 <td><p>09:00 ~ 09:40 (평일)</p></td>
 <td><p>×</p></td>
 <td><p><a href="../Page/한국방송공사_1TV_일일연속극.md" title="wikilink">1TV 일일연속극</a> (<a href="https://ko.wikipedia.org/wiki/기막힌_유산" title="wikilink">기막힌 유산</a>) (재)</p></td>
-<td><p>○</p></td>
+<td><p>×</p></td>
 <td><p>×</p></td>
 </tr>
 <tr class="even">
 <td><p>19:50 ~ 20:30 (평일)</p></td>
 <td><p><a href="../Page/한국방송공사_2TV_일일연속극.md" title="wikilink">2TV 일일드라마</a> (<a href="https://ko.wikipedia.org/wiki/위험한_약속" title="wikilink">위험한 약속</a>)</p></td>
-<td></td>
+<td><p>○</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -279,7 +295,7 @@
 <td><p>22:00 ~ 23:10 (수,목)</p></td>
 <td><p>홀수 회차 22:00 ~ 22:35<br />
 짝수 회차 22:35 ~ 23:10</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/한국방송공사_수목드라마" title="wikilink">수목드라마</a> (<a href="https://ko.wikipedia.org/wiki/어서와" title="wikilink">어서와</a>)</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/한국방송공사_수목드라마" title="wikilink">수목드라마</a> (<a href="https://ko.wikipedia.org/wiki/영혼수선공" title="wikilink">영혼수선공</a>)</p></td>
 <td><p>○</p></td>
 <td><p>○</p></td>
 </tr>
@@ -310,22 +326,22 @@
 <th><p>방송 시간</p></th>
 <th><p>방송 프로그램</p></th>
 <th><p>간접 및 중간광고</p></th>
-<th><p>분리 편성</p></th>
+<th><p>분리 편성 등급제</p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>20:45 ~ 22:00 (월)</p></td>
-<td><p>1부 20:45 ~ 21:20<br />
-2부 21:20 ~ 22:00</p></td>
+<td><p>20:50 ~ 22:00 (월)</p></td>
+<td><p>1부 20:50 ~ 21:25<br />
+2부 21:25 ~ 22:00</p></td>
 <td><p><a href="../Page/옥탑방의_문제아들.md" title="wikilink">옥탑방의 문제아들</a></p></td>
 <td><p>○</p></td>
 <td><p>○</p></td>
 </tr>
 <tr class="even">
-<td><p>23:10 ~ 00:30 (월) (화) 4월 초 방영</p></td>
-<td><p>1부 23:10 ~ 23:50<br />
-2부 23:50 ~ 00:30</p></td>
+<td><p>23:10 ~ 00:40 (월) (화)</p></td>
+<td><p>1부 23:10 ~ 00:05<br />
+2부 00:05 ~ 00:40</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/개는_훌륭하다" title="wikilink">개는 훌륭하다</a></p></td>
 <td><p>○</p></td>
 <td><p>○</p></td>
@@ -341,7 +357,7 @@
 <tr class="even">
 <td><p>20:30 ~ 21:50 (금)</p></td>
 <td><p>×</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/개그콘서트" title="wikilink">개그콘서트</a></p></td>
+<td><p>미정</p></td>
 <td><p>×</p></td>
 <td><p>×</p></td>
 </tr>
@@ -354,9 +370,10 @@
 <td><p>○</p></td>
 </tr>
 <tr class="even">
-<td><p>10:30 ~ 11:30 (토)</p></td>
+<td><p>10:30 ~ 11:30 (토) 17:30 ~ 18:00 (수)</p>
+<p>08:00 ~ 08:45 (일)</p></td>
 <td><p>×</p></td>
-<td><p><a href="../Page/영화가_좋다.md" title="wikilink">영화가 좋다</a></p></td>
+<td><p><a href="../Page/영화가_좋다.md" title="wikilink">영화가 좋다</a> 꿀잼 <a href="../Page/영화가_좋다.md" title="wikilink">영화가 좋다</a></p></td>
 <td><p>×</p></td>
 <td><p>×</p></td>
 </tr>
@@ -370,7 +387,7 @@
 <tr class="even">
 <td><p>22:30 ~ 22:55 (토)</p></td>
 <td><p>×</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/스튜디오K_-_구라철" title="wikilink">스튜디오K - 구라철</a></p></td>
+<td><p>스튜디오 K</p></td>
 <td><p>×</p></td>
 <td><p>×</p></td>
 </tr>
@@ -463,15 +480,14 @@
 
 ### 시사교양
 
-| 방영 요일   | 방송 시간        | 방송 프로그램                                                         | 간접 및 중간광고 | 등급제   |
-| ------- | ------------ | --------------------------------------------------------------- | --------- | ----- |
-| 평일      | 06:50\~08:00 | [생방송 아침이 좋다](../Page/생방송_아침이_좋다.md "wikilink")                  | ×         |       |
-| 평일      | 09:40\~10:40 | [무한리필 샐러드](https://ko.wikipedia.org/wiki/무한리필_샐러드 "wikilink")   | ×         | 12,15 |
-| 평일      | 18:30\~19:50 | [2TV 생생정보](../Page/2TV_생생정보.md "wikilink")                      | ×         |       |
-| (수) (목) | 23:10\~00:15 | [도올학당 수다승철](https://ko.wikipedia.org/wiki/도올학당_수다승철 "wikilink") | ×         | 12    |
-| (수)     | 20:55\~22:00 | [제보자들](../Page/제보자들.md "wikilink")                              | ×         | 15    |
-| (일)     | 07:20\~07:30 | [KBS 재난방송센터](../Page/KBS_재난방송센터.md "wikilink")                  | ×         |       |
-| (일)     | 07:30\~08:00 | [영상앨범 산](../Page/영상앨범_산.md "wikilink")                          | ×         |       |
+| 방영 요일 | 방송 시간        | 방송 프로그램                                                       | 간접 및 중간광고 | 등급제   |
+| ----- | ------------ | ------------------------------------------------------------- | --------- | ----- |
+| 평일    | 06:50\~08:00 | [생방송 아침이 좋다](../Page/생방송_아침이_좋다.md "wikilink")                | ×         |       |
+| 평일    | 09:40\~10:40 | [무한리필 샐러드](https://ko.wikipedia.org/wiki/무한리필_샐러드 "wikilink") | ×         | 12,15 |
+| 평일    | 18:30\~19:50 | [2TV 생생정보](../Page/2TV_생생정보.md "wikilink")                    | ×         |       |
+| (수)   | 20:55\~22:00 | [제보자들](../Page/제보자들.md "wikilink")                            | ×         | 15    |
+| (일)   | 07:20\~07:30 | [KBS 재난방송센터](../Page/KBS_재난방송센터.md "wikilink")                | ×         |       |
+| (일)   | 07:30\~08:00 | [영상앨범 산](../Page/영상앨범_산.md "wikilink")                        | ×         |       |
 
 ### 다큐
 
@@ -481,21 +497,22 @@
 
 ### 어린이
 
-| 방송 시간                 | 분리편성                                       | 방송 프로그램                                          | 간접 및 중간 광고 | 등급제 |
-| --------------------- | ------------------------------------------ | ------------------------------------------------ | ---------- | --- |
-| 15:10 \~ 15:30 (월\~금) | ×                                          | [자동공부책상 위키 2](../Page/자동공부책상_위키_2.md "wikilink") | ×          | ALL |
-| 15:30 \~ 16:00 (월\~목) | [TV유치원](../Page/TV유치원.md "wikilink")       |                                                  |            |     |
-| 16:00 \~ 17:00 (목)    | [누가누가 잘하나](../Page/누가누가_잘하나.md "wikilink") |                                                  |            |     |
-| 15:30 \~ 16:00 (금)    | [TV유치원 플러스](../Page/TV유치원.md "wikilink")   |                                                  |            |     |
-|                       |                                            |                                                  |            |     |
+| 방송 시간                                    | 분리편성                                                                          | 방송 프로그램                                          | 간접 및 중간 광고 | 등급제 |
+| ---------------------------------------- | ----------------------------------------------------------------------------- | ------------------------------------------------ | ---------- | --- |
+| 15:10 \~ 15:30 (월\~금)                    | ×                                                                             | [자동공부책상 위키 2](../Page/자동공부책상_위키_2.md "wikilink") | ×          | ALL |
+| 15:30 \~ 16:00 (월\~목) 15:30 \~ 16:00 (금) | [TV유치원](../Page/TV유치원.md "wikilink") [TV유치원 플러스](../Page/TV유치원.md "wikilink") |                                                  |            |     |
+| 16:00 \~ 17:00 (목)                       | [누가누가 잘하나](../Page/누가누가_잘하나.md "wikilink")                                    |                                                  |            |     |
+|                                          |                                                                               |                                                  |            |     |
 
 ### 애니
 
-| 방송 시간              | 분리편성                                                         | 방송 프로그램                                | 간접 및 중간 광고 | 등급제 |
-| ------------------ | ------------------------------------------------------------ | -------------------------------------- | ---------- | --- |
-| 17:00 \~ 17:30 (수) | ×                                                            | [시노스톤 프라임](../Page/시노스톤.md "wikilink") | ×          | 7   |
-| 17:00 \~ 17:15 (목) | [또봇 V 시즌2](https://ko.wikipedia.org/wiki/또봇_V "wikilink")    |                                        |            |     |
-| 17:15 \~ 17:30 (목) | [캐치\! 티니핑](https://ko.wikipedia.org/wiki/캐치!_티니핑 "wikilink") | ALL                                    |            |     |
+| 방송 시간                               | 분리편성                                                         | 방송 프로그램                                                      | 간접 및 중간 광고 | 등급제 |
+| ----------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- | --- |
+| 17:00 \~ 17:30 (수)                  | ×                                                            | [시노스톤 프라임](../Page/시노스톤.md "wikilink")                       | ×          | 7   |
+| 17:00 \~ 17:15 (목)                  | [또봇 V 시즌2](https://ko.wikipedia.org/wiki/또봇_V "wikilink")    |                                                              |            |     |
+| 17:15 \~ 17:30 (목)                  | [캐치\! 티니핑](https://ko.wikipedia.org/wiki/캐치!_티니핑 "wikilink") |                                                              |            |     |
+| 17:00 \~ 17:30 (수) 2020년 6월 10일 첫방송 | ×                                                            | [신비아파트: 고스트볼 X의 탄생](../Page/신비아파트:_고스트볼_X의_탄생.md "wikilink") | ×          | 12  |
+|                                     |                                                              |                                                              |            |     |
 
 ### 스포츠
 
@@ -561,12 +578,12 @@
   - [2006년](../Page/2006년.md "wikilink") [10월 14일](../Page/10월_14일.md "wikilink") - 오후 11시 7분 경 《[위기탈출 넘버원](../Page/위기탈출_넘버원.md "wikilink")》 방송이 나가던 도중, 갑자기 화면이 녹색으로 바뀌며 방송 송출이 일시적으로 중단되었다. 잠시 후 자막 고지를 통해 '방송사 사정으로 방송이 잠시 중지되고 있습니다. 시청자 여러분의 양해 바랍니다.'라고 고지했다. 또한 일부 KBS 지역국에선, [자연](../Page/자연.md "wikilink")경관과 함께 '서울 KBS 본사 측의 사정으로 방송이 잠시 중지되고 있습니다. 시청자 여러분의 양해 바랍니다.'라고 자막 고지를 송출했다. 《연주소 정파시 송신소 송출용》이라는 제목의 자료화면과 함께 같은 자막이 고정 방송되었다.
       - 오후 11시 17분 경에 화면은 복구돼 예정된 광고는 전파를 탔으나, 여전히 오디오는 작동하지 않는 상태가 한동안 지속되었다. 이 화면이 10여 분간 계속되다가 오후 11시 26분 경에 방송 예정이던 《[드라마시티](https://ko.wikipedia.org/wiki/드라마시티 "wikilink")》 - 〈그녀가 웃잖아〉는 방송을 시작했으나 화면과 음향이 맞지 않는 등 여전히 음향 상태는 고르지 못했다. 또 화면의 비율 역시 간간이 맞지 않았다. 이 상태 역시 몇 분간 지속되다가 오후 11시 29분경에 방송이 정상화되었다.\[6\]
       - 그리고 [10월 21일](../Page/10월_21일.md "wikilink") 《위기탈출 넘버원》 방송분에서 10월 14일에 방송되지 못한 부분이 방송되었다. 사고의 발단은 영상과 음향을 별개로 분리하는 디먹스(Demux)의 고장이었으며, 10년 이상 사용된 노후된 시스템이었다. 이 같은 방송 사고는 [KBS 1TV를](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink") 비롯한, [SBS TV](../Page/SBS_TV.md "wikilink"), [MBC TV](../Page/MBC_TV.md "wikilink") 와는 전혀 관계가 없다.
-      - KBS 편성본부 측에선, "2TV 주조정실은 100% 디지털 시스템으로 구축되어 있는데, 아날로그 방송을 위해선, 영상과 음향을 별개로 분리해 남산 송신소로 보내야 하는데, 디지털 시스템이 워낙 복잡하고, 주조에서 송신소까지 복잡한 신호를 내보내는 과정에서, 디먹스 시스템 이상 여부를 파악한 후에, 예비 장비로 교체해 방송을 정상화시켰다"라고 해명했다.
+      - KBS 편성본부 측에선, "2TV 주조정실은 100% 디지털 시스템으로 구축되어 있는데, 아날로그 방송을 위해선, 영상과 음향을 별개로 분리해 남산 송신소로 보내야 하는데, 디지털 시스템이 워낙 복잡하고, 주조에서 송신소까지 복잡한 신호를 내보내는 과정에서, 디먹스 시스템 이상 여부를 파악한 후에, 예비 장비로 교체해 방송을 정상화시켰다"고 해명했다.
 
 <!-- end list -->
 
   - [2012년](../Page/2012년.md "wikilink") [1월 16일](../Page/1월_16일.md "wikilink") - 오후 3시 경 KBS 2TV의 재송신이 중지되었다. 방송사인 KBS와 재송신을 맡고 있는 지역 케이블 방송사들의 재송신료 협상에 대한 불협화음 문제로, 결국 지역 케이블 방송사에서 강제로 KBS 2TV의 모든 방송 재송신이 중단되었다가, [1월 17일](../Page/1월_17일.md "wikilink") 오후 7시에 KBS 2TV의 재송신이 재개되었다.
-  - [2019년](../Page/2019년.md "wikilink") [11월 24일](../Page/11월_24일.md "wikilink") - KBS 2TV가 《[개그콘서트](https://ko.wikipedia.org/wiki/개그콘서트 "wikilink")》 불편한 삼대 방송 중 연령고지 브금이 같이 송출되는 충격적 방송사고가 있었다.
+  - [2019년](../Page/2019년.md "wikilink") [11월 24일](../Page/11월_24일.md "wikilink") - 《[개그콘서트](https://ko.wikipedia.org/wiki/개그콘서트 "wikilink")》 불편한 삼대 방송 중 연령고지 BGM이 같이 송출되는 충격적 방송사고가 있었다.
 
 ## 방송 시간
 

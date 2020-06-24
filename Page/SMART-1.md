@@ -7,11 +7,11 @@
 
 ## 설계
 
-발사중량은 367 kg 또는 815 파운드이다. [엔진](https://ko.wikipedia.org/wiki/엔진 "wikilink")을 제외하고는 287 kg이다.
+발사중량은 367 kg 또는 815 파운드이다. [엔진](../Page/엔진.md "wikilink")을 제외하고는 287 kg이다.
 
 스마트 원은 이온엔진을 사용한다. 즉, [제논](https://ko.wikipedia.org/wiki/제논 "wikilink")을 추진연료로 사용하고, 여기에 태양전지를 이용한 [Hall effect 추진기를](https://ko.wikipedia.org/wiki/Hall_effect_추진기 "wikilink") 사용하여 필요한 추진력을 얻는다. [제논](https://ko.wikipedia.org/wiki/제논 "wikilink")은 발사시에 80 kg (부피로는 60 리터)을 탑재했다.
 
-[엔진](https://ko.wikipedia.org/wiki/엔진 "wikilink")은 전자장(electrostatic field)을 사용하여 [제논](https://ko.wikipedia.org/wiki/제논 "wikilink")을 [이온화](../Page/이온화.md "wikilink")시키고 [이온](../Page/이온.md "wikilink")을 고속이 되게끔 가속한다.
+[엔진](../Page/엔진.md "wikilink")은 전자장(electrostatic field)을 사용하여 [제논](https://ko.wikipedia.org/wiki/제논 "wikilink")을 [이온화](../Page/이온화.md "wikilink")시키고 [이온](../Page/이온.md "wikilink")을 고속이 되게끔 가속한다.
 
 ## 비행
 

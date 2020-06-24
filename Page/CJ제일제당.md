@@ -3,7 +3,7 @@
 
 **CJ제일제당**(, )은 [대한민국](../Page/대한민국.md "wikilink")의 1위 종합 식품 제조업체이다. 본사는 [서울특별시](../Page/서울특별시.md "wikilink") [중구](../Page/중구_\(서울특별시\).md "wikilink") 동호로 330 (쌍림동, CJ제일제당센터)에 있으며 [설탕](../Page/설탕.md "wikilink"), [밀가루](../Page/밀가루.md "wikilink"), [식용유](https://ko.wikipedia.org/wiki/식용유 "wikilink") 등의 부재료 및 식품, 의약품와 바이오 사업을 진행하고 있다.
 
-[2007년](../Page/2007년.md "wikilink") [9월 1일](../Page/9월_1일.md "wikilink"), [씨제이㈜의](../Page/CJ_\(기업\).md "wikilink") 사업부문을 인적 분할하여 설립되었다. 2008년 2월 29일, 회사의 영문 상호를 "CJ CheilJedang Corp"에서 현재의 "CJ CheilJedang Corporation"으로 변경하였다. 2009년 9월 1일, 삼양유지㈜를 합병하였으며, [2010년](../Page/2010년.md "wikilink") 9월 29일에는 Global Holdings Limited를 인수하였다. [2014년](../Page/2014년.md "wikilink") 4월 1일, CJ헬스케어주식회사를 분할하였다. [2019년](../Page/2019년.md "wikilink") 7월 1일, CJ생물자원분할하였다. 설탕은 삼양사, 대한제당과 경쟁하고,식용유는 사조해표, 조미료는 대상과 경쟁한다.
+[2007년](../Page/2007년.md "wikilink") [9월 1일](../Page/9월_1일.md "wikilink"), [씨제이㈜의](../Page/CJ_\(기업\).md "wikilink") 사업부문을 인적 분할하여 설립되었다. 2008년 2월 29일, 회사의 영문 상호를 "CJ CheilJedang Corp"에서 현재의 "CJ CheilJedang Corporation"으로 변경하였다. 2009년 9월 1일, 삼양유지㈜를 합병하였으며, [2010년](../Page/2010년.md "wikilink") 9월 29일에는 Global Holdings Limited를 인수하였다. [2014년](../Page/2014년.md "wikilink") 4월 1일, CJ헬스케어주식회사를 분할하였다. [2019년](../Page/2019년.md "wikilink") 7월 1일, CJ생물자원을 분할하였다. 설탕은 삼양사, 대한제당과 경쟁하고,식용유는 사조해표, 조미료는 대상과 경쟁한다.
 
 ## 역사
 

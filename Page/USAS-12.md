@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [USAS-12](https://ko.wikipedia.org/wiki/USAS-12).
 
 
-**USAS-12**는 [맥스웰 아치슨](https://ko.wikipedia.org/wiki/맥스웰_아치슨 "wikilink") 사는 탈착식 탄창을 사용하는 자동사격이 가능한 산탄총을 제작하려고 하였다.하지만 독자적으로 제작하기에 무리가 있었던 탓에 다른 총기 회사들에게 총기를 제작해보자는 제의를 하지만 어떤 회사에도 이 제의에 흥미를 느끼지 않고 나중에 간신히 대한민국 [대우정밀](https://ko.wikipedia.org/wiki/대우정밀 "wikilink")에서 같이 제작하기로 하였다.
+**12게이지 스포츠용 다목적 자동산탄총**(Universal Sports Automatic Shotgun-12 Gauge**; USAS-12**)는 [대한민국](../Page/대한민국.md "wikilink")과 [미국](../Page/미국.md "wikilink")이 공동으로 개발한 전자동 산탄총이다.
 
-미국과 대한민국의 합작 총기다.
+[맥스웰 아치슨](https://ko.wikipedia.org/wiki/맥스웰_아치슨 "wikilink") 사는 탈착식 탄창을 사용하는, 자동사격이 가능한 산탄총을 제작하려고 하였다.하지만 독자적으로 제작하기에 무리가 있었던 탓에 다른 총기 회사들에게 총기를 제작해보자는 제의를 하지만 어떤 회사에도 이 제의에 흥미를 느끼지 않고 나중에 간신히 대한민국 [대우정밀](https://ko.wikipedia.org/wiki/대우정밀 "wikilink")에서 같이 제작하기로 하였다.
 
 상업적으로는 성공했다고 보기에는 힘든 총이 되어버리며 몇몇 국가들의 [경찰](../Page/경찰.md "wikilink")들이 주로 운용한다.
 

@@ -67,6 +67,6 @@ IrFM(Infrared Financial Messaging)은 Infrared Data Association가 개발한 무
   - [Linux status of infrared devices (IrDA, ConsumerIR, Remote Control)](https://web.archive.org/web/20130425030439/http://tuxmobil.org/ir_misc.html)
   - [IrDA project of Universidad Nacional de Colombia SIE board](https://web.archive.org/web/20110902095151/http://wiki.linuxencaja.net/wiki/Academico/Embebidos/IrDA_SIE)
 
-[분류:무선 통신](https://ko.wikipedia.org/wiki/분류:무선_통신 "wikilink")
+[분류:무선 통신](https://ko.wikipedia.org/wiki/분류:무선_통신 "wikilink") [분류:캘리포니아주의 단체](https://ko.wikipedia.org/wiki/분류:캘리포니아주의_단체 "wikilink")
 
 1.  [1](http://irdajp.info/irsimple.html)  IrDA IrSimple Specifications (Infrared Data Association - irda.org)

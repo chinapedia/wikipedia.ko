@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [BBC 월드 서비스](https://ko.wikipedia.org/wiki/BBC_월드_서비스).
 
 
-**BBC 월드 서비스**()는 [영국](../Page/영국.md "wikilink")의 [공영 방송](../Page/공영_방송.md "wikilink") [BBC에서](../Page/영국방송공사.md "wikilink") 운영, 방송하는 [국제 방송국이며](https://ko.wikipedia.org/wiki/국제_방송 "wikilink"), BBC 국제방송이라고도 한다. [BBC 라디오 4와](../Page/BBC_라디오_4.md "wikilink") 마찬가지로 매 시간 정시마다 6초 비프음 시보를 송출한다. [BBC가](../Page/영국방송공사.md "wikilink") [영국](../Page/영국.md "wikilink") 정부로부터의 지원을 받아 제작하고 있으며, 현재는 전 세계를 향해 33개 언어로 [단파](../Page/단파.md "wikilink")와 [인터넷](../Page/인터넷.md "wikilink")으로 방송하고 있다.
+**BBC 월드 서비스**()는 [영국](../Page/영국.md "wikilink")의 [공영 방송](../Page/공영_방송.md "wikilink") [BBC에서](../Page/영국방송공사.md "wikilink") 운영, 방송하는 [국제 방송국이며](https://ko.wikipedia.org/wiki/국제_방송 "wikilink"), BBC 국제방송이라고도 한다. 매 시간 정시마다 6초 비프음 시보를 송출하는 것이 특징이며, [BBC가](../Page/영국방송공사.md "wikilink") [영국](../Page/영국.md "wikilink") 정부로부터의 지원을 받아 제작하고 있고, 현재는 전 세계를 향해 33개 언어로 [단파](../Page/단파.md "wikilink")와 [인터넷](../Page/인터넷.md "wikilink")으로 방송하고 있다.
 
 BBC 월드 서비스는 [1925년](../Page/1925년.md "wikilink")에 개국하였고, 전 세계를 향해 [영어](../Page/영어.md "wikilink")로만 방송하는 BBC 엠파이어 국제방송은 [1932년](../Page/1932년.md "wikilink")에 개국하였다. [제2차 세계 대전과](../Page/제2차_세계_대전.md "wikilink") 곧이어 [냉전](../Page/냉전.md "wikilink")의 시대를 맞이하면서 [영국](../Page/영국.md "wikilink") 정부와 BBC 월드 서비스는 [영어](../Page/영어.md "wikilink") 이외의 언어 방송의 필요성을 느껴 [중국어](../Page/중국어.md "wikilink"), [일본어](../Page/일본어.md "wikilink") 등 의 언어 방송을 개국하였다. [걸프 전쟁이](../Page/걸프_전쟁.md "wikilink") 발생하자, [텔레비전](../Page/텔레비전.md "wikilink") 국제 방송의 시작을 검토한 결과, [BBC 월드 뉴스가](../Page/BBC_월드_뉴스.md "wikilink") 개국되었다.
 

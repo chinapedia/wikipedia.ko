@@ -7,7 +7,7 @@
 
 [20px는](https://ko.wikipedia.org/wiki/파일:Katakana_Wu_Proposal.png "wikilink") 에서 윗부분(宀)을 생략한 것으로, 와 근원이 같다. 본래 이 둘은 원래의 한자에서 생략한 부분만 다르고 실제 쓰임은 완전히 같은 글자([이체자](https://ko.wikipedia.org/wiki/이체자 "wikilink"))였던 것이다. 그러다가 메이지 초기의 학자들이 [20px를](https://ko.wikipedia.org/wiki/파일:Katakana_Wu_Proposal.png "wikilink") 와 달리 행에 속하는 문자로 규정을 지었다.
 
-[20px는](https://ko.wikipedia.org/wiki/파일:wa-wu.jpg "wikilink") 紆의 초서체이다.\[1\] 이 글자는 엄밀히 말하면 의 [헨타이가나](../Page/헨타이가나.md "wikilink")로 봐야 할 것이나 메이지 시대에는 두 글자의 행을 달리하였다.
+[20px는](https://ko.wikipedia.org/wiki/파일:wa-wu.jpg "wikilink") 汙의 초서체이다.\[1\] 이 글자는 엄밀히 말하면 의 [헨타이가나](../Page/헨타이가나.md "wikilink")로 봐야 할 것이나 메이지 시대에는 두 글자의 행을 달리하였다.
 
 ## 로마자와 한글 표기
 
@@ -38,4 +38,4 @@
 
 [わ3](https://ko.wikipedia.org/wiki/분류:가나_\(문자\) "wikilink")
 
-1.  Iannacone, Jake (2019). ["The Origin of Hiragana /wu/ Kana 平仮名のわ行うの字源"](https://kobunworld.blog.fc2.com/blog-entry-1.html)
+1.  Iannacone, Jake (2020). ["Reply to The Origin of Hiragana /wu/ 平仮名のわ行うの字源に対する新たな発見"](https://kobunworld.blog.fc2.com/blog-entry-5.html)

@@ -32,14 +32,14 @@
 
   - [The Luminous Landscape Review](https://web.archive.org/web/20070209214753/http://www.luminous-landscape.com/reviews/cameras/10d.shtml)
 
-  - [Canon EOS 20D vs Canon EOS 10D](http://www.astrosurf.org/buil/20d/20dvs10d.htm)
+  - [Canon EOS 20D vs Canon EOS 10D](https://web.archive.org/web/20070228233213/http://www.astrosurf.org/buil/20d/20dvs10d.htm)
 
   - [Nikon D70 Versus Canon 10D](http://astrosurf.com/buil/d70v10d/eval.htm)
 
   - [Wide-field survey of the sky with the CANON EOS 10D](http://astrosurf.com/buil/us/10d/wf.htm)
 
-  - [Optimal use of the Canon EOS 10D for astronomy](http://astrosurf.com/buil/us/digit/eval.htm)
+  - [Optimal use of the Canon EOS 10D for astronomy](https://web.archive.org/web/20070320034939/http://astrosurf.com/buil/us/digit/eval.htm)
 
-  - [clarkvision.com Astrophotography Signal-to-Noise with a Canon 10D Camera](http://www.clarkvision.com/astro/canon-10d-signal-to-noise/)
+  - [clarkvision.com Astrophotography Signal-to-Noise with a Canon 10D Camera](https://web.archive.org/web/20070203073315/http://www.clarkvision.com/astro/canon-10d-signal-to-noise/)
 
 [분류:캐논 EOS DSLR 카메라](https://ko.wikipedia.org/wiki/분류:캐논_EOS_DSLR_카메라 "wikilink")

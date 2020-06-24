@@ -64,26 +64,6 @@ mw.log.deprecate( window, 'addPortletLink', mw.util.addPortletLink, 'Use mw.util
 
 /\*\*
 
-`* Extract a URL parameter from the current URL`
-`* @deprecated: Use mw.util.getParamValue with proper escaping`
-`*/`
-
-mw.log.deprecate( window, 'getURLParamValue', mw.util.getParamValue, 'Use mw.util.getParamValue instead' );
-
-/\*\*
-
-`* Test if an element has a certain class`
-`* @deprecated:  Use $(element).hasClass() instead.`
-`*/`
-
-mw.log.deprecate( window, 'hasClass', function ( element, className ) {
-
-`   return $( element ).hasClass( className );`
-
-}, 'jQuery.hasClass()를 대신 사용하십시오' );
-
-/\*\*
-
 `* @source www.mediawiki.org/wiki/Snippets/Load_JS_and_CSS_by_URL`
 `* @rev 6`
 `*/`

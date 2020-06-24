@@ -41,7 +41,7 @@
 
   - [Canon 20D Location Field Test](https://web.archive.org/web/20070228194238/http://www.luminous-landscape.com/reviews/cameras/20d-location.shtml)
 
-  - [Canon EOS 20D vs Canon EOS 10D](http://www.astrosurf.org/buil/20d/20dvs10d.htm)
+  - [Canon EOS 20D vs Canon EOS 10D](https://web.archive.org/web/20070228233213/http://www.astrosurf.org/buil/20d/20dvs10d.htm)
 
   - [Rob Galbraith DPI: Canon unveils entry-level pro digital SLR](https://web.archive.org/web/20070205154852/http://www.robgalbraith.com/bins/multi_page.asp?cid=7-6458-7153)
 

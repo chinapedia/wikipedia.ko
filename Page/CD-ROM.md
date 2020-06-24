@@ -91,7 +91,7 @@ CD-ROM 드라이브의 일반적인 데이터 전송 속도
 
 ## 참고 자료
 
-[ROM](https://ko.wikipedia.org/wiki/분류:CD "wikilink") [분류:영상 저장 매체](https://ko.wikipedia.org/wiki/분류:영상_저장_매체 "wikilink") [분류:소리 저장 매체](https://ko.wikipedia.org/wiki/분류:소리_저장_매체 "wikilink")
+[ROM](https://ko.wikipedia.org/wiki/분류:CD "wikilink") [분류:영상 저장 매체](https://ko.wikipedia.org/wiki/분류:영상_저장_매체 "wikilink") [분류:소리 저장 매체](https://ko.wikipedia.org/wiki/분류:소리_저장_매체 "wikilink") [분류:Ecma 표준](https://ko.wikipedia.org/wiki/분류:Ecma_표준 "wikilink")
 
 1.  CD-ROM, 《글로벌 세계 대백과》
 2.

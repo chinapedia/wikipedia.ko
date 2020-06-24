@@ -481,7 +481,7 @@ MiG-21은 개발 이후 여러 전쟁에서 실전에 참가했다.
 
 <references />
 
-[분류:소련 및 러시아의 전투기](https://ko.wikipedia.org/wiki/분류:소련_및_러시아의_전투기 "wikilink") [분류:경전투기](https://ko.wikipedia.org/wiki/분류:경전투기 "wikilink") [분류:이란-이라크 전쟁의 무기](https://ko.wikipedia.org/wiki/분류:이란-이라크_전쟁의_무기 "wikilink") [분류:단발 제트기](https://ko.wikipedia.org/wiki/분류:단발_제트기 "wikilink") [분류:미그기](https://ko.wikipedia.org/wiki/분류:미그기 "wikilink") [분류:1956년 첫 비행한 항공기](https://ko.wikipedia.org/wiki/분류:1956년_첫_비행한_항공기 "wikilink")
+[분류:소련 및 러시아의 전투기](https://ko.wikipedia.org/wiki/분류:소련_및_러시아의_전투기 "wikilink") [분류:경전투기](https://ko.wikipedia.org/wiki/분류:경전투기 "wikilink") [분류:이란-이라크 전쟁의 무기](https://ko.wikipedia.org/wiki/분류:이란-이라크_전쟁의_무기 "wikilink") [분류:단발 제트기](https://ko.wikipedia.org/wiki/분류:단발_제트기 "wikilink") [분류:미그기](https://ko.wikipedia.org/wiki/분류:미그기 "wikilink") [분류:1956년 첫 비행한 항공기](https://ko.wikipedia.org/wiki/분류:1956년_첫_비행한_항공기 "wikilink") [분류:삼각익기](https://ko.wikipedia.org/wiki/분류:삼각익기 "wikilink") [분류:중익기](https://ko.wikipedia.org/wiki/분류:중익기 "wikilink")
 
 1.  [Airforce Technology.com article](http://www.airforce-technology.com/projects/mig21/)
 2.  <http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=104&oid=020&aid=0000036466>

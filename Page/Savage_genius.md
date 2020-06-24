@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Savage genius](https://ko.wikipedia.org/wiki/Savage_genius).
 
 
-**savage genius**는 [일본](../Page/일본.md "wikilink")의 음악 그룹이다. 멤버 2명 모두 [효고현](../Page/효고현.md "wikilink") [고베 시](https://ko.wikipedia.org/wiki/고베_시 "wikilink") 출신으로, 2001년 <AXIA Artist Audition AXIA상>을 수상했고, 싱글 <오렌지>(Orange) 로 데뷔했다. [연음 그룹](https://ko.wikipedia.org/wiki/연음_그룹 "wikilink")/[워너 뮤직 재팬](../Page/워너_뮤직_재팬.md "wikilink")(Warner Music Japan Inc) [빅터 엔터테인먼트](https://ko.wikipedia.org/wiki/빅터_엔터테인먼트 "wikilink")(Victor Entertainment Inc) 소속이다.
+**savage genius**는 [일본](../Page/일본.md "wikilink")의 음악 그룹이다. 멤버 2명 모두 [효고현](../Page/효고현.md "wikilink") [고베시](../Page/고베시.md "wikilink") 출신으로, 2001년 <AXIA Artist Audition AXIA상>을 수상했고, 싱글 <오렌지>(Orange) 로 데뷔했다. [연음 그룹](https://ko.wikipedia.org/wiki/연음_그룹 "wikilink")/[워너 뮤직 재팬](../Page/워너_뮤직_재팬.md "wikilink")(Warner Music Japan Inc) [빅터 엔터테인먼트](https://ko.wikipedia.org/wiki/빅터_엔터테인먼트 "wikilink")(Victor Entertainment Inc) 소속이다.
 
 ## 멤버
 

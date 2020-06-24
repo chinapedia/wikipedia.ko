@@ -89,7 +89,6 @@ TBS가 재단법인과 출범함과 동시에 영문명도 "Seoul Traffic Broadc
   - 11:56《[우리말 고운말](http://www.tbs.seoul.kr/cont/FM/KoreanWords/notice/notice.do)》(진행: 아나운서부)
   - 12:00《[TBS 정오종합뉴스](https://ko.wikipedia.org/wiki/TBS_정오종합뉴스 "wikilink")》(진행: 아나운서)
   - 12:11,12:31,13:00,13:31《[배칠수, 박희진의 9595쇼](../Page/9595쇼.md "wikilink")》(진행: [배칠수](../Page/배칠수.md "wikilink"), [박희진](../Page/박희진.md "wikilink")) (1부), (2부), (3부), (4부)
-  - 14:00《[수도권 뉴스](https://ko.wikipedia.org/wiki/수도권_뉴스 "wikilink")》(진행: 아나운서)
   - 14:06,14:31,15:06,15:31《[최일구의 허리케인 라디오](http://tbs.seoul.kr/cont/FM/Hurricane/intro/intro.do?programId=PG2061460A)》(진행: [최일구](../Page/최일구.md "wikilink")) (1부), (2부), (3부), (4부)
   - 16:06,16:31,17:06,17:31《[이은미와 함께라면](http://tbs.seoul.kr/cont/FM/WithEun/intro/intro.do?programId=PG2061716A)》(진행: [이은미](../Page/이은미_\(1966년\).md "wikilink")) (1부), (2부), (3부), (4부)
   - 17:55《[TBS게시판](http://www.tbs.seoul.kr/cont/FM/tbsBoard/intro/intro.do)》(진행: TBS 아나운서)
@@ -180,6 +179,7 @@ TBS가 재단법인과 출범함과 동시에 영문명도 "Seoul Traffic Broadc
   - 교-통-방-송 움직이는 라디오 살아있는 라디오 LIVE FM (내레이션: LIVE FM) (2003 \~ 2011)
   - 음\~\~ (함께 할 수록) 기분좋은 방송 tbs\~ FM (2011 \~ 2015.09.20) \[6\]
   - (함께 할 수록) 기분좋은 방송 tbs\~ FM\~ (2015.09.21 \~ 2020.02.23) \[7\]
+  - 이 순간 내곁에 TBS\~ (2020.02.24 \~ 현재)
 
 ## 시보
 
@@ -224,6 +224,7 @@ FM 95.1㎒ 시민의 방송 TBS에서 OO를 알려드립니다
   - 노경민 기자
   - 안경원 기자
   - 공혜림 기자
+  - 국윤진 기자
   - 이혜경 취재부장
   - 장행석 취재1팀장
   - 김훈찬 기자
@@ -242,8 +243,6 @@ FM 95.1㎒ 시민의 방송 TBS에서 OO를 알려드립니다
 
 ## 같이 보기
 
-※ 주의사항 ※ 이 방송 채널은 행정안전부, 현대캐피탈, 공익광고협의회가 지정한 의무형 방송 채널입니다. 같이 보기 부분을 함부로 수정하지 마시고, 늘 눈으로 봐 주시기 바랍니다.
-
   - [KBS 제1라디오](../Page/KBS_제1라디오.md "wikilink")
   - [KBS 제2라디오](../Page/KBS_제2라디오.md "wikilink")
   - [EBS FM](../Page/EBS_FM.md "wikilink")
@@ -260,7 +259,7 @@ FM 95.1㎒ 시민의 방송 TBS에서 OO를 알려드립니다
 ## 외부 링크
 
   - [TBS 교통방송 홈페이지](http://tbs.seoul.kr)
-  - [TBS 교통방송 모바일 홈페이지](http://m.tbs.seoul.kr/fm/onair.do)
+  - [TBS 교통방송 모바일 홈페이지](https://web.archive.org/web/20180620101356/http://m.tbs.seoul.kr/fm/onair.do)
 
 [분류:교통방송](https://ko.wikipedia.org/wiki/분류:교통방송 "wikilink") [분류:대한민국의 라디오 방송국](https://ko.wikipedia.org/wiki/분류:대한민국의_라디오_방송국 "wikilink") [분류:대한민국의 텔레비전 케이블 방송국](https://ko.wikipedia.org/wiki/분류:대한민국의_텔레비전_케이블_방송국 "wikilink") [분류:대한민국의 디지털 멀티미디어 방송국](https://ko.wikipedia.org/wiki/분류:대한민국의_디지털_멀티미디어_방송국 "wikilink") [분류:서울특별시청](https://ko.wikipedia.org/wiki/분류:서울특별시청 "wikilink") [분류:1990년 설립된 라디오 방송국](https://ko.wikipedia.org/wiki/분류:1990년_설립된_라디오_방송국 "wikilink") [분류:2005년 설립된 텔레비전 방송국과 채널](https://ko.wikipedia.org/wiki/분류:2005년_설립된_텔레비전_방송국과_채널 "wikilink")
 

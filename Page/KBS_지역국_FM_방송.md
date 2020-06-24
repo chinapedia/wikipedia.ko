@@ -3,7 +3,7 @@
 
 **KBS 지역국 FM 방송**은 [제1FM](../Page/KBS_제1FM.md "wikilink")(클래식FM)의 프로그램 대부분과 [제2FM](../Page/KBS_제2FM.md "wikilink")(쿨FM)의 일부 프로그램을 편성하여 단일 채널 방송으로 실시하고 있다. 본사에서는 지역국 FM을 클래식FM으로 취급하고 있으며 [2001년](../Page/2001년.md "wikilink") 이후 [굿모닝 팝스](../Page/굿모닝_팝스.md "wikilink") 외에는 쿨FM의 프로그램을 들을 수 없었지만, [2017년](../Page/2017년.md "wikilink") [2월 6일부터](../Page/2월_6일.md "wikilink") [굿모닝 팝스가](../Page/굿모닝_팝스.md "wikilink") [제2라디오](../Page/KBS_제2라디오.md "wikilink")(해피FM)에서도 방송됨에 따라 쿨FM 프로그램 송출이 사라졌다. 로컬방송은 다시듣기가 불가능하며 주말에도 지역방송 하는곳은 충청, 대경권뿐이다.
 
-([Cool FM](https://ko.wikipedia.org/wiki/KBS_2FM "wikilink") 프로그램인 [조승연의 굿모닝 팝스는](../Page/굿모닝_팝스.md "wikilink") [KBS Happy FM에서](../Page/KBS_제2라디오.md "wikilink")([Cool FM](../Page/KBS_제2FM.md "wikilink") 수중계), [박명수의 라디오쇼](../Page/박명수의_라디오쇼.md "wikilink"), [정은지의 가요광장은](../Page/가요광장.md "wikilink") 각 지역총국 [KBS Happy FM에서](https://ko.wikipedia.org/wiki/KBS_Happy_FM "wikilink") 청취. 그리고 모든 Cool FM 프로그램은 U-KBS MUSIC으로 청취.)
+([Cool FM](https://ko.wikipedia.org/wiki/KBS_2FM "wikilink") 프로그램인 [조정현의 굿모닝 팝스는](../Page/굿모닝_팝스.md "wikilink") [KBS Happy FM에서](../Page/KBS_제2라디오.md "wikilink")([Cool FM](../Page/KBS_제2FM.md "wikilink") 수중계), [박명수의 라디오쇼](../Page/박명수의_라디오쇼.md "wikilink"), [정은지의 가요광장은](../Page/가요광장.md "wikilink") 각 지역총국 [KBS Happy FM에서](https://ko.wikipedia.org/wiki/KBS_Happy_FM "wikilink") 청취. 그리고 모든 Cool FM 프로그램은 U-KBS MUSIC으로 청취.)
 
 ## 일일방송시간
 

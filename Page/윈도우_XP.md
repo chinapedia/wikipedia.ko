@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [윈도우 XP](https://ko.wikipedia.org/wiki/윈도우_XP).
 
 
-**윈도우 XP**()는 가정용/업무용 컴퓨터, [노트북 컴퓨터](https://ko.wikipedia.org/wiki/노트북_컴퓨터 "wikilink"), [미디어 센터와](../Page/미디어_센터.md "wikilink") 같은 [일반 목적의](../Page/개인용_컴퓨터.md "wikilink") [컴퓨터 시스템에서](../Page/컴퓨터.md "wikilink") 사용할 수 있게 [마이크로소프트](../Page/마이크로소프트.md "wikilink")가 개발한 [운영 체제](../Page/운영_체제.md "wikilink") 가운데 하나이다. XP는 *e**XP**erience* 중 "XP"를 따서 만들었다. 개발 당시에는 [휘슬러](https://ko.wikipedia.org/wiki/휘슬러 "wikilink")(whistler)라는 [코드네임](https://ko.wikipedia.org/wiki/코드네임 "wikilink")으로 불렸다. 이는 수많은 [마이크로소프트](../Page/마이크로소프트.md "wikilink") 직원들이 [휘슬러-블랙콤](https://ko.wikipedia.org/wiki/휘슬러-블랙콤 "wikilink") 스키 휴양지에서 스키를 탔던 것으로 하여 [브리티시컬럼비아 주](https://ko.wikipedia.org/wiki/브리티시컬럼비아_주 "wikilink") [휘슬러](https://ko.wikipedia.org/wiki/휘슬러_\(브리티시컬럼비아_주\) "wikilink") 지방에서 이름을 따온 것이다.\[1\]
+**윈도우 XP**()는 가정용/업무용 컴퓨터, [노트북 컴퓨터](https://ko.wikipedia.org/wiki/노트북_컴퓨터 "wikilink"), [미디어 센터와](../Page/미디어_센터.md "wikilink") 같은 [일반 목적의](../Page/개인용_컴퓨터.md "wikilink") [컴퓨터 시스템에서](../Page/컴퓨터.md "wikilink") 사용할 수 있게 [마이크로소프트](../Page/마이크로소프트.md "wikilink")가 개발한 윈도우 NT 계열 [운영 체제](../Page/운영_체제.md "wikilink") 가운데 하나이다. XP는 *e**XP**erience* 중 "XP"를 따서 만들었다. 개발 당시에는 [휘슬러](https://ko.wikipedia.org/wiki/휘슬러 "wikilink")(whistler)라는 [코드네임](https://ko.wikipedia.org/wiki/코드네임 "wikilink")으로 불렸다. 이는 수많은 [마이크로소프트](../Page/마이크로소프트.md "wikilink") 직원들이 [휘슬러-블랙콤](https://ko.wikipedia.org/wiki/휘슬러-블랙콤 "wikilink") 스키 휴양지에서 스키를 탔던 것으로 하여 [브리티시컬럼비아 주](https://ko.wikipedia.org/wiki/브리티시컬럼비아_주 "wikilink") [휘슬러](https://ko.wikipedia.org/wiki/휘슬러_\(브리티시컬럼비아_주\) "wikilink") 지방에서 이름을 따온 것이다.\[1\]
 
 [윈도우 미와](../Page/윈도우_미.md "wikilink") [윈도우 2000의](../Page/윈도우_2000.md "wikilink") 후속 제품이며, [윈도우 NT](../Page/윈도우_NT.md "wikilink") 커널을 기반으로 하는 [마이크로소프트](../Page/마이크로소프트.md "wikilink")사의 최초의 소비자 지향 운영 체제이다. [2001년](../Page/2001년.md "wikilink") [10월 25일](../Page/10월_25일.md "wikilink"), "홈 에디션"과 "프로페셔널 에디션"으로 나뉘어 첫 출시되었으며, IDC에 분석에 따르면 [2006년](../Page/2006년.md "wikilink") [1월](../Page/1월.md "wikilink")을 기준으로 사용자들은 4억본이 넘는 윈도우 XP 제품을 사용하고 있다.\[2\]
 
@@ -49,7 +49,7 @@ SP1 업데이트는 초기 버전의 심각한 오류와 호환 문제들을 해
 
 ### 윈도우 XP 태블릿 PC 에디션
 
-**윈도우 XP 태블릿 PC 에디션**(Microsoft Windows XP Tablet PC Edition)은 [태블릿 PC라는](../Page/태블릿_PC.md "wikilink") 특수한 형태의 휴대용 컴퓨터가 업계에 등장한 직후 [마이크로소프트](../Page/마이크로소프트.md "wikilink")가 이에 대응하여 만든 윈도우 XP의 한 버전이다. 터치 스크린 방식의 펜 입력을 지원하고 필기 인식 기능을 기반으로 하여 전용 [IME](https://ko.wikipedia.org/wiki/IME "wikilink")를 채택한 것이 특징이며, 별도의 필기장 뷰어 및 편집 프로그램과 함께 필기장 뷰어도 제공되었다. 태블릿 PC에서 작성한 필기장 문서는 다른 윈도우 운영 체제에서도 [마이크로소프트](../Page/마이크로소프트.md "wikilink")가 무료로 배포하는 [윈도우 필기장 뷰어를](https://ko.wikipedia.org/wiki/윈도우_필기장_뷰어 "wikilink") 설치하면 볼 수 있다.
+**윈도우 XP 태블릿 PC 에디션**(Microsoft Windows XP Tablet PC Edition)은 [태블릿 PC라는](../Page/태블릿_PC.md "wikilink") 특수한 형태의 휴대용 컴퓨터가 업계에 등장한 직후 [마이크로소프트](../Page/마이크로소프트.md "wikilink")가 이에 대응하여 만든 윈도우 XP의 한 버전이다. 터치 스크린 방식의 펜 입력을 지원하고 필기 인식 기능을 기반으로 하여 전용 [IME](https://ko.wikipedia.org/wiki/IME "wikilink")를 채택한 것이 특징이며, 별도의 필기장 뷰어 및 편집 프로그램과 함께 필기장 뷰어도 제공되었다. 태블릿 PC에서 작성한 필기장 문서는 다른 윈도우 운영 체제에서도 [마이크로소프트](../Page/마이크로소프트.md "wikilink")가 무료로 배포하는 윈도우 필기장 뷰어를 설치하면 볼 수 있다.
 
 ### 윈도우 XP 64비트 에디션
 
@@ -65,7 +65,7 @@ SP1 업데이트는 초기 버전의 심각한 오류와 호환 문제들을 해
 
 ### 윈도우 XP N 버전
 
-**윈도우 XP 홈 에디션 N**(Microsoft Windows XP Home Edition N)와 **윈도우 XP 프로페셔널 N**(Microsoft Windows XP Professional N)은 윈도우 XP KN 버전과 같이 [메신저 센터와](https://ko.wikipedia.org/wiki/메신저_센터 "wikilink") [윈도우 미디어 플레이어가](https://ko.wikipedia.org/wiki/윈도우_미디어_플레이어 "wikilink") 없는 버전이다. 다만, KN 버전은 [대한민국](../Page/대한민국.md "wikilink")에서만 유통되는 제품이지만, N 버전은 유럽 지역에서 유통되는 버전이다.
+**윈도우 XP 홈 에디션 N**(Microsoft Windows XP Home Edition N)와 **윈도우 XP 프로페셔널 N**(Microsoft Windows XP Professional N)은 윈도우 XP KN 버전과 같이 메신저 센터와 [윈도우 미디어 플레이어가](https://ko.wikipedia.org/wiki/윈도우_미디어_플레이어 "wikilink") 없는 버전이다. 다만, KN 버전은 [대한민국](../Page/대한민국.md "wikilink")에서만 유통되는 제품이지만, N 버전은 유럽 지역에서 유통되는 버전이다.
 
 ## 라이선스의 종류
 
@@ -286,7 +286,7 @@ RTM의 경우 2005년 8월 30일에 지원이 종료되었고, 서비스팩 1은
 12. [Differences Between Windows XP SP1 and Windows XP SP1a](http://support.microsoft.com/?kbid=813926)
 13. [How to obtain the latest Windows XP service pack](http://support.microsoft.com/kb/322389)
 14. [Internet Explorer 6 software update and its effect on ActiveX controls](http://support.microsoft.com/default.aspx/kb/912945)
-15. [Why Windows XP SP2b and Windows Server 2003 SP2a? - Where System Builders Talk Shop... - Site Home - TechNet Blogs](http://blogs.technet.com/backroom/archive/2006/08/21/448330.aspx)
+15.
 16.
 17.
 18.

@@ -176,7 +176,7 @@
 
 ### 현재 선수 명단
 
-[2018년](../Page/2018년.md "wikilink") [8월 31일](../Page/8월_31일.md "wikilink") 기준
+[2020년](../Page/2020년.md "wikilink") [1월 31일](../Page/1월_31일.md "wikilink") 기준
 
 ### 임대 선수 명단
 

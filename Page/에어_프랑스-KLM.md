@@ -61,7 +61,7 @@
 
 ## 외부 링크
 
-  - [에어 프랑스-KLM 공식 홈페이지](http://www.airfranceklm-finance.com/)
+  - [에어 프랑스-KLM 공식 홈페이지](https://web.archive.org/web/20121024173612/http://www.airfranceklm-finance.com/)
 
 [에어프랑스-KLM](https://ko.wikipedia.org/wiki/분류:에어프랑스-KLM "wikilink") [분류:2004년 설립](https://ko.wikipedia.org/wiki/분류:2004년_설립 "wikilink") [분류:스카이팀](https://ko.wikipedia.org/wiki/분류:스카이팀 "wikilink") [분류:프랑스의 공기업](https://ko.wikipedia.org/wiki/분류:프랑스의_공기업 "wikilink")
 

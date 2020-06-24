@@ -17,7 +17,7 @@
 
 이와 비슷하게, \(\mathbf{NC}^i\)는 [교대 튜링 기계가](../Page/교대_튜링_기계.md "wikilink") \(O(\log n)\) 공간을 쓰고 \(\log ^{O(1)} n\)만큼 교대를 해서 풀 수 있는 문제의 집합과 같다.
 
-## 참고문헌
+## 참고 문헌
 
   - Greenlaw, Raymond, James Hoover, and Walter Ruzzo. *Limits To Parallel computation; P-Completeness Theory*.
 

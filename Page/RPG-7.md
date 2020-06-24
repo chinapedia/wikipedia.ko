@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [RPG-7](https://ko.wikipedia.org/wiki/RPG-7).
 
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:Rpg-7.jpg "wikilink") **휴대용 대전차 유탄발사기**(携帶用對戰車榴彈發射機, , )은 [소련](../Page/소련.md "wikilink")이 [1961년](../Page/1961년.md "wikilink")에 개발한 대전차 로켓 발사기다. 원래는 대전차 로켓이나, 일부는 대공장비로도 사용한다. RPG-7은 [RPG-2](https://ko.wikipedia.org/wiki/RPG-2 "wikilink")의 후속 모델로 개발되었으며, 저렴한 가격과 구하기 쉬운 점 등으로 인해 가장 광범위하게 사용되는 개인 로켓 화기다. 소련 및 러시아, 구 동구권 및 여러 나라의 [게릴라](https://ko.wikipedia.org/wiki/게릴라 "wikilink")라면 필수품으로 사용하고 있으며, [중국은](../Page/중화인민공화국.md "wikilink") [69식 화전통이라는](https://ko.wikipedia.org/wiki/69식_화전통 "wikilink") 이름으로 개량하여 사용하고 있고, [조선민주주의인민공화국](../Page/조선민주주의인민공화국.md "wikilink")(북한) 은 “7호 발사관”이라는 이름으로 운용 중이다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:Rpg-7.jpg "wikilink") **휴대용 대전차 유탄발사기**(携帶用對戰車榴彈發射機, , )은 [소련](../Page/소련.md "wikilink")이 [1961년](../Page/1961년.md "wikilink")에 개발한 대전차 로켓 발사기다. 원래는 대전차 로켓이나, 일부는 대공장비로도 사용한다. RPG-7은 [RPG-2](https://ko.wikipedia.org/wiki/RPG-2 "wikilink")의 후속 모델로 개발되었으며, 저렴한 가격과 구하기 쉬운 점 등으로 인해 가장 광범위하게 사용되는 개인 로켓 화기다. 소련 및 러시아, 구 동구권 및 여러 나라의 [게릴라](https://ko.wikipedia.org/wiki/게릴라 "wikilink")라면 필수품으로 사용하고 있으며, [중국은](../Page/중화인민공화국.md "wikilink") [69식 화전통이라는](https://ko.wikipedia.org/wiki/69식_화전통 "wikilink") 이름으로 개량하여 사용하고 있고, [조선민주주의인민공화국](../Page/조선민주주의인민공화국.md "wikilink")(북한) 은 “7호 발사관”이라는 이름으로 운용 중이다. 그리고 RPG-7은 '마법의 알라봉', AK와 함께 '가난한 자들의 무기'라 불리기도 한다.
 
 RPG-7은 발사기 및 탄두 분리형으로 재사용이 가능하다. 2명이 운용한다. 한 명은 사수이고, 한 명은 부사수인데, 부사수는 사수 엄호를 겸한다. 어떤 경우에는 엄호병 한 명이 더 붙는다. RPG-7의 발사관은 일종의 무반동포로 처음엔 발사기의 흑색화약으로 발사되지만, 10m쯤 날아가면 탄두 그 자체의 로켓이 점화하여 500m 정도까지 날아간다. 1993년 [모가디슈 전투](../Page/모가디슈_전투_\(1993년\).md "wikilink") 당시 67억원짜리 [UH-60 블랙 호크를](../Page/UH-60_블랙_호크.md "wikilink") 격추시키기도 하였다.
 

@@ -13,4 +13,4 @@
 
   - [공식 웹사이트](http://www.mondogrosso.com/)
 
-[분류:1991년 데뷔](https://ko.wikipedia.org/wiki/분류:1991년_데뷔 "wikilink") [분류:일본의 록 밴드](https://ko.wikipedia.org/wiki/분류:일본의_록_밴드 "wikilink") [분류:일본의 재즈 음악가](https://ko.wikipedia.org/wiki/분류:일본의_재즈_음악가 "wikilink") [분류:하우스 음악가](https://ko.wikipedia.org/wiki/분류:하우스_음악가 "wikilink") [분류:일본의 디스크자키](https://ko.wikipedia.org/wiki/분류:일본의_디스크자키 "wikilink") [분류:시부야계 음악가](https://ko.wikipedia.org/wiki/분류:시부야계_음악가 "wikilink") [분류:에이벡스 그룹 음악가](https://ko.wikipedia.org/wiki/분류:에이벡스_그룹_음악가 "wikilink") [분류:소니 뮤직 엔터테인먼트 (일본)의 음악가](https://ko.wikipedia.org/wiki/분류:소니_뮤직_엔터테인먼트_\(일본\)의_음악가 "wikilink")
+[분류:일본의 록 밴드](https://ko.wikipedia.org/wiki/분류:일본의_록_밴드 "wikilink") [분류:일본의 재즈 음악가](https://ko.wikipedia.org/wiki/분류:일본의_재즈_음악가 "wikilink") [분류:하우스 음악가](https://ko.wikipedia.org/wiki/분류:하우스_음악가 "wikilink") [분류:일본의 디스크자키](https://ko.wikipedia.org/wiki/분류:일본의_디스크자키 "wikilink") [분류:시부야계 음악가](https://ko.wikipedia.org/wiki/분류:시부야계_음악가 "wikilink") [분류:에이벡스 그룹 음악가](https://ko.wikipedia.org/wiki/분류:에이벡스_그룹_음악가 "wikilink") [분류:소니 뮤직 엔터테인먼트 (일본)의 음악가](https://ko.wikipedia.org/wiki/분류:소니_뮤직_엔터테인먼트_\(일본\)의_음악가 "wikilink")

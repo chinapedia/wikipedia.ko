@@ -98,4 +98,4 @@ Vcc : 전원 전압
 
   - [시모스 이미지 센서](https://ko.wikipedia.org/wiki/시모스_이미지_센서 "wikilink")
 
-[분류:트랜지스터](https://ko.wikipedia.org/wiki/분류:트랜지스터 "wikilink") [분류:반도체](https://ko.wikipedia.org/wiki/분류:반도체 "wikilink") [분류:MOSFET](https://ko.wikipedia.org/wiki/분류:MOSFET "wikilink")
+[분류:트랜지스터](https://ko.wikipedia.org/wiki/분류:트랜지스터 "wikilink") [분류:반도체](https://ko.wikipedia.org/wiki/분류:반도체 "wikilink") [분류:MOSFET](https://ko.wikipedia.org/wiki/분류:MOSFET "wikilink") [분류:논리 계열](https://ko.wikipedia.org/wiki/분류:논리_계열 "wikilink")

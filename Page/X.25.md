@@ -41,4 +41,4 @@
   - [X.25 – Directory & Informational Resource](https://web.archive.org/web/20110723064137/http://softtechinfo.com/network/x25.html)
   - [RFCs and other resources by Open Directory](http://search.dmoz.org/cgi-bin/search?search=X.25)
 
-[분류:네트워크 프로토콜](https://ko.wikipedia.org/wiki/분류:네트워크_프로토콜 "wikilink") [분류:네트워크 계층 프로토콜](https://ko.wikipedia.org/wiki/분류:네트워크_계층_프로토콜 "wikilink")
+[분류:네트워크 프로토콜](https://ko.wikipedia.org/wiki/분류:네트워크_프로토콜 "wikilink") [분류:네트워크 계층 프로토콜](https://ko.wikipedia.org/wiki/분류:네트워크_계층_프로토콜 "wikilink") [분류:ITU-T 권고](https://ko.wikipedia.org/wiki/분류:ITU-T_권고 "wikilink")

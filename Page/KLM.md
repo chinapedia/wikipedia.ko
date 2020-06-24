@@ -20,7 +20,6 @@
 <tr class="odd">
 <td><ul>
 <li><a href="https://ko.wikipedia.org/wiki/GOL_항공" title="wikilink">GOL 항공</a></li>
-<li><a href="../Page/TAAG_앙골라_항공.md" title="wikilink">TAAG 앙골라 항공</a></li>
 <li><a href="../Page/TAROM.md" title="wikilink">TAROM</a> <small>(<a href="../Page/스카이팀.md" title="wikilink">스카이팀</a>)</small></li>
 <li><a href="../Page/가루다_인도네시아_항공.md" title="wikilink">가루다 인도네시아 항공</a> <small>(<a href="../Page/스카이팀.md" title="wikilink">스카이팀</a>)</small></li>
 <li><a href="https://ko.wikipedia.org/wiki/대한항공" title="wikilink">대한항공</a> <small>(<a href="../Page/스카이팀.md" title="wikilink">스카이팀</a>)</small></li>
@@ -30,41 +29,49 @@
 <li><a href="../Page/베트남_항공.md" title="wikilink">베트남 항공</a> <small>(<a href="../Page/스카이팀.md" title="wikilink">스카이팀</a>)</small></li>
 <li><a href="../Page/벨라비아_항공.md" title="wikilink">벨라비아 항공</a></li>
 <li><a href="../Page/불가리아_항공.md" title="wikilink">불가리아 항공</a></li>
+</ul></td>
+<td><ul>
 <li><a href="https://ko.wikipedia.org/wiki/사우디아_항공" title="wikilink">사우디아 항공</a> <small>(<a href="../Page/스카이팀.md" title="wikilink">스카이팀</a>)</small></li>
 <li><a href="https://ko.wikipedia.org/wiki/샤먼_항공" title="wikilink">샤먼 항공</a> <small>(<a href="../Page/스카이팀.md" title="wikilink">스카이팀</a>)</small></li>
 <li><a href="../Page/쓰촨_항공.md" title="wikilink">쓰촨 항공</a></li>
 <li><a href="../Page/시티제트.md" title="wikilink">시티제트</a></li>
-</ul></td>
-<td><ul>
 <li><a href="../Page/아르헨티나_항공.md" title="wikilink">아르헨티나 항공</a> <small>(<a href="../Page/스카이팀.md" title="wikilink">스카이팀</a>)</small></li>
 <li><a href="../Page/아에로멕시코.md" title="wikilink">아에로멕시코</a> <small>(<a href="../Page/스카이팀.md" title="wikilink">스카이팀</a>)</small></li>
 <li><a href="../Page/아에로플로트.md" title="wikilink">아에로플로트</a> <small>(<a href="../Page/스카이팀.md" title="wikilink">스카이팀</a>)</small></li>
+<li><a href="https://ko.wikipedia.org/wiki/아틀라스_글로벌_항공" title="wikilink">아틀라스 글로벌 항공</a></li>
 <li><a href="../Page/알래스카_항공.md" title="wikilink">알래스카 항공</a></li>
 <li><a href="https://ko.wikipedia.org/wiki/알리탈리아_항공" title="wikilink">알리탈리아 항공</a> <small>(<a href="../Page/스카이팀.md" title="wikilink">스카이팀</a>)</small></li>
+</ul></td>
+<td><ul>
 <li><a href="https://ko.wikipedia.org/wiki/에어_링구스" title="wikilink">에어 링구스</a></li>
 <li><a href="../Page/에어_몰타.md" title="wikilink">에어 몰타</a></li>
-<li><a href="../Page/에어발틱.md" title="wikilink">에어발틱</a></li>
+<li><a href="https://ko.wikipedia.org/wiki/에어_발틱" title="wikilink">에어 발틱</a></li>
 <li><a href="../Page/에어_세르비아.md" title="wikilink">에어 세르비아</a></li>
 <li><a href="../Page/에어_아스타나.md" title="wikilink">에어 아스타나</a></li>
 <li><a href="../Page/에어_유로파.md" title="wikilink">에어 유로파</a> <small>(<a href="../Page/스카이팀.md" title="wikilink">스카이팀</a>)</small></li>
 <li><a href="../Page/에어_프랑스.md" title="wikilink">에어 프랑스</a> <small>(<a href="../Page/스카이팀.md" title="wikilink">스카이팀</a>)</small></li>
+<li><a href="../Page/에어_프랑스_HOP.md" title="wikilink">에어 프랑스 HOP</a></li>
 <li><a href="../Page/에티하드_항공.md" title="wikilink">에티하드 항공</a></li>
 <li><a href="../Page/오만_항공.md" title="wikilink">오만 항공</a></li>
-<li><a href="../Page/우크라이나_국제항공.md" title="wikilink">우크라이나 국제항공</a></li>
 </ul></td>
 <td><ul>
+<li><a href="../Page/우크라이나_국제항공.md" title="wikilink">우크라이나 국제항공</a></li>
+<li><a href="../Page/위데뢰에_항공.md" title="wikilink">위데뢰에 항공</a></li>
 <li><a href="https://ko.wikipedia.org/wiki/웨스트_제트" title="wikilink">웨스트 제트</a></li>
 <li><a href="https://ko.wikipedia.org/wiki/인셀_에어" title="wikilink">인셀 에어</a></li>
 <li><a href="../Page/전일본공수.md" title="wikilink">전일본공수</a> <small> (<a href="https://ko.wikipedia.org/wiki/스타_얼라이언스" title="wikilink">스타 얼라이언스</a>) </small></li>
 <li><a href="../Page/조지아_항공.md" title="wikilink">조지아 항공</a></li>
 <li><a href="../Page/중국남방항공.md" title="wikilink">중국남방항공</a></li>
 <li><a href="../Page/중국동방항공.md" title="wikilink">중국동방항공</a> <small>(<a href="../Page/스카이팀.md" title="wikilink">스카이팀</a>)</small></li>
+<li><a href="../Page/중동항공.md" title="wikilink">중동항공</a> <small>(<a href="../Page/스카이팀.md" title="wikilink">스카이팀</a>)</small></li>
 <li><a href="../Page/중화항공.md" title="wikilink">중화항공</a> <small>(<a href="../Page/스카이팀.md" title="wikilink">스카이팀</a>)</small></li>
+</ul></td>
+<td><ul>
 <li><a href="../Page/체코_항공.md" title="wikilink">체코 항공</a> <small>(<a href="../Page/스카이팀.md" title="wikilink">스카이팀</a>)</small></li>
 <li><a href="../Page/케냐_항공.md" title="wikilink">케냐 항공</a> <small>(<a href="../Page/스카이팀.md" title="wikilink">스카이팀</a>)</small></li>
 <li><a href="../Page/코파_항공.md" title="wikilink">코파 항공</a> <small>(<a href="https://ko.wikipedia.org/wiki/스타_얼라이언스" title="wikilink">스타 얼라이언스</a>)</small></li>
 <li><a href="../Page/콴타스_항공.md" title="wikilink">콴타스 항공</a> <small>(<a href="../Page/원월드.md" title="wikilink">원월드</a>)</small></li>
-<li><a href="https://ko.wikipedia.org/wiki/크로아티아_항공" title="wikilink">크로아티아 항공</a></li>
+<li><a href="https://ko.wikipedia.org/wiki/크로아티아_항공" title="wikilink">크로아티아 항공</a> <small>(<a href="https://ko.wikipedia.org/wiki/스타_얼라이언스" title="wikilink">스타 얼라이언스</a>)</small></li>
 <li><a href="https://ko.wikipedia.org/wiki/트랜스아비아_항공" title="wikilink">트랜스아비아 항공</a></li>
 <li><a href="https://ko.wikipedia.org/wiki/페가수스_항공" title="wikilink">페가수스 항공</a></li>
 </ul></td>
@@ -128,9 +135,9 @@
 | [맥도넬더글러스 DC-10-30](https://ko.wikipedia.org/wiki/맥도넬더글러스_DC-10 "wikilink")            | 11                            | 1972년                            | 1995년                                              | [맥도넬더글러스 MD-11](https://ko.wikipedia.org/wiki/맥도넬더글러스_MD-11 "wikilink")                          |                                                                 |
 | [맥도넬더글러스 DC-10-30CF](https://ko.wikipedia.org/wiki/맥도넬더글러스_DC-10 "wikilink")          | 1                             | 1989년                            | 1992년                                              | 임차 기종                                                                                            | [마르틴 에어](https://ko.wikipedia.org/wiki/마르틴_에어 "wikilink") 임차 운항 |
 | [맥도넬더글러스 MD-11](https://ko.wikipedia.org/wiki/맥도넬더글러스_MD-11 "wikilink")               | 10                            | 1997년                            | 2014년                                              | [보잉 777](../Page/보잉_777.md "wikilink")                                                           | 3대는 현재 예비용으로 저장                                                 |
-| [더글러스 C-54](https://ko.wikipedia.org/wiki/C-54_스카이마스터 "wikilink")                     | 불명                            | 1945년                            | 1959년                                              | [더글러스 DC-3](https://ko.wikipedia.org/wiki/더글러스_DC-3 "wikilink")                                  |                                                                 |
-| [더글러스 DC-2](https://ko.wikipedia.org/wiki/더글러스_DC-2 "wikilink")                       | 불명                            | 1934년                            | 1946년                                              | [더글러스 DC-3](https://ko.wikipedia.org/wiki/더글러스_DC-3 "wikilink")                                  |                                                                 |
-| [더글러스 DC-3](https://ko.wikipedia.org/wiki/더글러스_DC-3 "wikilink")                       | 불명                            | 1936년                            | 1964년                                              | [더글러스 DC-6](https://ko.wikipedia.org/wiki/더글러스_DC-6 "wikilink")                                  |                                                                 |
+| [더글러스 C-54](https://ko.wikipedia.org/wiki/C-54_스카이마스터 "wikilink")                     | 불명                            | 1945년                            | 1959년                                              | [더글러스 DC-3](../Page/더글러스_DC-3.md "wikilink")                                                     |                                                                 |
+| [더글러스 DC-2](https://ko.wikipedia.org/wiki/더글러스_DC-2 "wikilink")                       | 불명                            | 1934년                            | 1946년                                              | [더글러스 DC-3](../Page/더글러스_DC-3.md "wikilink")                                                     |                                                                 |
+| [더글러스 DC-3](../Page/더글러스_DC-3.md "wikilink")                                          | 불명                            | 1936년                            | 1964년                                              | [더글러스 DC-6](https://ko.wikipedia.org/wiki/더글러스_DC-6 "wikilink")                                  |                                                                 |
 | [더글러스 DC-4](https://ko.wikipedia.org/wiki/더글러스_DC-4 "wikilink")                       | 불명                            | 1946년                            | 1958년                                              | [더글러스 DC-6](https://ko.wikipedia.org/wiki/더글러스_DC-6 "wikilink")                                  |                                                                 |
 | [더글러스 DC-5](https://ko.wikipedia.org/wiki/더글러스_DC-5 "wikilink")                       | 2                             | 1940년                            | 1941년                                              | 대체 기종 없음                                                                                         |                                                                 |
 | [더글러스 DC-6](https://ko.wikipedia.org/wiki/더글러스_DC-6 "wikilink")                       | 불명                            | 1948년                            | 1963년                                              | [더글러스 DC-7](https://ko.wikipedia.org/wiki/더글러스_DC-7 "wikilink")                                  |                                                                 |
@@ -161,7 +168,7 @@
 
 ## 자회사
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:KLM_hoofdkantoor_Amstelveen.jpg "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:KLM_Boeing_747_PH-BFH_at_LAX_2011.jpg "wikilink")\]\] (퇴역)
+[섬네일](https://ko.wikipedia.org/wiki/파일:KLM_hoofdkantoor_Amstelveen.jpg "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:KLM_Boeing_747_PH-BFH_at_LAX_2011.jpg "wikilink")(퇴역)\]\]
 
 ### KLM 아시아
 

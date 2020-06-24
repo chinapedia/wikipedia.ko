@@ -3,7 +3,7 @@
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:KBS_2FM_studio-Seoul.jpg "wikilink")
 
-**KBS 제2FM** 혹은 **KBS 쿨FM**()\[1\] 은 [한국방송공사](../Page/한국방송공사.md "wikilink")에서 운영·방송하는 [연예](https://ko.wikipedia.org/wiki/연예 "wikilink")오락・음악 전문 [라디오](../Page/라디오.md "wikilink") 채널이다.
+**KBS 제2FM** 혹은 **KBS 쿨FM**()\[1\]은 [한국방송공사](../Page/한국방송공사.md "wikilink")에서 운영·방송하는 [연예](https://ko.wikipedia.org/wiki/연예 "wikilink")오락・[대중음악](../Page/음악.md "wikilink") 전문 [라디오](../Page/라디오.md "wikilink") 채널이다.
 
 ## 역사
 
@@ -11,7 +11,7 @@
 
 주로 [대중음악](../Page/대중음악.md "wikilink")을 방송한다. [사랑하기 좋은 날 이금희입니다](../Page/사랑하기_좋은_날_이금희입니다.md "wikilink") 처럼 일부 옛날 가요 및 팝송을 방송하는 경우도 있다.
 
-현존하는 대표적인 장수 프로그램으로는 [상쾌한 아침](../Page/상쾌한_아침.md "wikilink"), [굿모닝 팝스](../Page/굿모닝_팝스.md "wikilink"), **[FM대행진](../Page/FM대행진.md "wikilink")**, [음악앨범](../Page/음악앨범_\(라디오_프로그램\).md "wikilink"), [박명수의 라디오쇼](../Page/박명수의_라디오쇼.md "wikilink"), [가요광장](../Page/가요광장.md "wikilink"), [뮤직쇼](../Page/뮤직쇼.md "wikilink"), [미스터 라디오](../Page/미스터_라디오.md "wikilink"), [사랑하기 좋은 날 이금희입니다](../Page/사랑하기_좋은_날_이금희입니다.md "wikilink"), [볼륨을 높여요](../Page/볼륨을_높여요.md "wikilink"), [키스 더 라디오](../Page/키스_더_라디오.md "wikilink"), [설레는 밤](../Page/설레는_밤.md "wikilink"), [심야식당](../Page/심야식당_\(라디오_프로그램\).md "wikilink") 등이 있다. 그 중 **[FM대행진](../Page/FM대행진.md "wikilink")**은 동양방송(이하 TBC FM)에서 방송된 프로그램 중 현재까지 이어져 내려온 프로그램이다.
+현존하는 대표적인 장수 프로그램으로는 [상쾌한 아침](../Page/상쾌한_아침.md "wikilink"), [굿모닝 팝스](../Page/굿모닝_팝스.md "wikilink"), **[FM대행진](../Page/FM대행진.md "wikilink")**, **[음악앨범](../Page/음악앨범_\(라디오_프로그램\).md "wikilink")**, [박명수의 라디오쇼](../Page/박명수의_라디오쇼.md "wikilink"), **[가요광장](../Page/가요광장.md "wikilink")**, **[뮤직쇼](../Page/뮤직쇼.md "wikilink")**, [미스터 라디오](../Page/미스터_라디오.md "wikilink"), **[사랑하기 좋은 날 이금희입니다](../Page/사랑하기_좋은_날_이금희입니다.md "wikilink")**, **[볼륨을 높여요](../Page/볼륨을_높여요.md "wikilink")**, **[키스 더 라디오](../Page/키스_더_라디오.md "wikilink")**, [설레는 밤](../Page/설레는_밤.md "wikilink"), [심야식당](../Page/심야식당_\(라디오_프로그램\).md "wikilink") 등이 있다. 그 중 **[FM대행진](../Page/FM대행진.md "wikilink")**은 동양방송(이하 TBC FM)에서 방송된 프로그램 중 현재까지 이어져 내려온 프로그램이다.
 
 ## 방송 시보 멘트
 
@@ -66,7 +66,7 @@
 
 ## 방송 프로그램
 
-''' 2020년 3월 16일 기준 '''
+''' 2020년 5월 11일 기준 '''
 
 <table>
 <thead>
@@ -159,7 +159,7 @@ DMB에서는 <a href="../Page/누군가_어딘가에.md" title="wikilink">누군
 </tr>
 <tr class="even">
 <td><p>00:00</p></td>
-<td><p><a href="../Page/설레는_밤.md" title="wikilink">설레는 밤, 이혜성입니다</a></p></td>
+<td><p><a href="../Page/설레는_밤.md" title="wikilink">설레는 밤</a></p></td>
 <td><p>o</p></td>
 <td><p>o</p></td>
 <td></td>
@@ -268,14 +268,14 @@ DMB에서는 <a href="../Page/누군가_어딘가에.md" title="wikilink">누군
   - [곽영일](../Page/곽영일.md "wikilink") - [굿모닝팝스](https://ko.wikipedia.org/wiki/굿모닝팝스 "wikilink")
   - [이지영](https://ko.wikipedia.org/wiki/이지영_\(방송인\) "wikilink") - [굿모닝팝스](https://ko.wikipedia.org/wiki/굿모닝팝스 "wikilink")
   - [이근철](../Page/이근철.md "wikilink") - [굿모닝팝스](https://ko.wikipedia.org/wiki/굿모닝팝스 "wikilink")
-  - 존 발렌타인 - [굿모닝팝스](https://ko.wikipedia.org/wiki/굿모닝팝스 "wikilink")(이지영(2000\~2007),이근철(2007\~2017)
+  - 존 발렌타인 - [굿모닝팝스](https://ko.wikipedia.org/wiki/굿모닝팝스 "wikilink")
   - 레이나 - [굿모닝팝스](https://ko.wikipedia.org/wiki/굿모닝팝스 "wikilink")
   - [조승연](https://ko.wikipedia.org/wiki/조승연 "wikilink") - [굿모닝팝스](https://ko.wikipedia.org/wiki/굿모닝팝스 "wikilink")
   - [박수홍](../Page/박수홍.md "wikilink") - [두근두근 11시](https://ko.wikipedia.org/wiki/두근두근_11시 "wikilink")
   - [캔](../Page/캔_\(음악_그룹\).md "wikilink") - [미스터 라디오](../Page/미스터_라디오.md "wikilink")
   - [변우영](../Page/변우영.md "wikilink") - [3시와 5시 사이](../Page/3시와_5시_사이.md "wikilink")
   - [윤지영](../Page/윤지영_\(아나운서\).md "wikilink") - [3시와 5시 사이](../Page/3시와_5시_사이.md "wikilink")
-  - [오정연](https://ko.wikipedia.org/wiki/오정연 "wikilink") - [3시와 5시 사이](../Page/3시와_5시_사이.md "wikilink")
+  - [오정연](../Page/오정연.md "wikilink") - [3시와 5시 사이](../Page/3시와_5시_사이.md "wikilink")
   - [김보민](../Page/김보민.md "wikilink") - [3시와 5시 사이](../Page/3시와_5시_사이.md "wikilink")
   - [홍소연](../Page/홍소연.md "wikilink") - [상쾌한 아침](../Page/상쾌한_아침.md "wikilink")
   - [최원정](../Page/최원정.md "wikilink") - [상쾌한 아침](../Page/상쾌한_아침.md "wikilink")
@@ -302,7 +302,7 @@ DMB에서는 <a href="../Page/누군가_어딘가에.md" title="wikilink">누군
 
 ## 방송 시작 멘트
 
-\- [정다은](../Page/정다은_\(아나운서\).md "wikilink") [아나운서](../Page/아나운서.md "wikilink")  -광고가 없는 경우에 사용했지만, 현재는 새벽 4시 시보에만 사용함.  (KBS 쿨 FM 로고송 후 시보)      (로고송 후 시보)  (로고송 후 시보)  (로고송 없이 시보)  (로고송후 시보)  (로고송 없이 시보)
+\- [정다은](../Page/정다은_\(아나운서\).md "wikilink") [아나운서](../Page/아나운서.md "wikilink")  -광고가 없는 경우에 사용했지만, 현재는 새벽 4시 시보에만 사용함.  (KBS 쿨 FM 로고송 후 시보)     -한때 밤 11시 시보에 사용. (로고송 후 시보)  (로고송 후 시보)  (로고송 없이 시보)  (로고송후 시보)  (로고송 없이 시보)
 
 ## 제공 시보
 
@@ -339,7 +339,7 @@ DMB에서는 <a href="../Page/누군가_어딘가에.md" title="wikilink">누군
 | 진촌 중계소  | FM 90.9㎒ | 100W | 인천 옹진군 백령면 북포리 산138-3    |                     |    |
 |         |          |      |                          |                     |    |
 
-  - 수신 가능지역은 [서울특별시](../Page/서울특별시.md "wikilink"), [경기도](https://ko.wikipedia.org/wiki/경기도 "wikilink"), [인천광역시](https://ko.wikipedia.org/wiki/인천광역시 "wikilink") 전 지역과 [충청남도](https://ko.wikipedia.org/wiki/충청남도 "wikilink")\[5\] 일부와, [충청북도](https://ko.wikipedia.org/wiki/충청북도 "wikilink") 북부 일부 지역, [강원도](https://ko.wikipedia.org/wiki/강원도_\(남\) "wikilink") [영서 일부 지역이며](https://ko.wikipedia.org/wiki/영서_지방 "wikilink"), 그 외 지역은 DMB V-Radio 채널인 U-KBS MUSIC을 통하거나 [KBS](https://ko.wikipedia.org/wiki/KBS "wikilink") 홈페이지에 접속해서 KBS 콩 프로그램을 다운로드 받아 청취가 가능하다. 수신 가능지역은 수신 장비에 따라 그 외의 지역에서도 수신이 가능할 수 있다.단, KBS 수신 안내 지도서 직접 수신 으로 청취나 TV, DMB로 볼수 있다.DMB 직접 수신 통합의 경우 KBS 2라디오, 개별의 경우 KBS 2FM의 일반 방송 들을수 있다. 통합 수신의 경우 자막만 분야별 뉴스와 개별 수신만 전국 뉴스다.
+  - 수신 가능지역은 [서울특별시](../Page/서울특별시.md "wikilink"), [경기도](https://ko.wikipedia.org/wiki/경기도 "wikilink"), [인천광역시](https://ko.wikipedia.org/wiki/인천광역시 "wikilink") 전 지역과 [충청남도](https://ko.wikipedia.org/wiki/충청남도 "wikilink")\[5\] 일부와, [충청북도](https://ko.wikipedia.org/wiki/충청북도 "wikilink") 북부 일부 지역, [강원도](https://ko.wikipedia.org/wiki/강원도_\(남\) "wikilink") [영서 일부 지역이며](https://ko.wikipedia.org/wiki/영서_지방 "wikilink"), 그 외 지역은 DMB V-Radio 채널인 U-KBS MUSIC을 통하거나 [KBS](https://ko.wikipedia.org/wiki/KBS "wikilink") 홈페이지에 접속해서 KBS 콩 프로그램을 다운로드 받아 청취가 가능하다. 수신 가능지역은 수신 장비에 따라 그 외의 지역에서도 수신이 가능할 수 있다. 단, KBS 수신 안내 지도에서 직접 수신을 통해 청취하거나 또한 TV, DMB로 볼 수도 있다. DMB 직접 수신 통합의 경우 KBS 2라디오, 개별의 경우 KBS 2FM의 일반 방송을 통해서도 들을 수 있다. 통합 수신의 경우 자막에 한해서만 분야별 뉴스가 제공되며 개별 수신의 경우에는 전국 뉴스다.
 
 ## 특집 프로그램
 

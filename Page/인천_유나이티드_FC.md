@@ -359,7 +359,8 @@
   - [김도혁](../Page/김도혁.md "wikilink") : 2017년 1월\~ 2017년 6월
   - [최종환](../Page/최종환_\(축구_선수\).md "wikilink") : 2017년 6월 \~ 2019년 2월
   - [남준재](https://ko.wikipedia.org/wiki/남준재 "wikilink") : 2019년 2월 \~ 2019년 7월
-  - [정산](../Page/정산_\(축구_선수\).md "wikilink") : 2019년 7월 \~ 현재
+  - [정산](../Page/정산_\(축구_선수\).md "wikilink") : 2019년 7월 \~ 2019년 12월
+  - [이재성](../Page/이재성_\(1988년\).md "wikilink") :2020년 3월 \~ 현재
 
 ### 인천에서 은퇴한 선수
 
@@ -373,7 +374,7 @@
 
 ### 현재 선수단
 
-[2020년](../Page/2020년.md "wikilink") [1월 31일](../Page/1월_31일.md "wikilink") 기준                [16px](https://ko.wikipedia.org/wiki/파일:Captain_sports.svg "wikilink")
+[2020년](../Page/2020년.md "wikilink") [5월 25일](../Page/5월_25일.md "wikilink") 기준                [16px](https://ko.wikipedia.org/wiki/파일:Captain_sports.svg "wikilink")
 
 ### 임대 및 군 복무 중인 선수
 
@@ -395,40 +396,74 @@
 <tr class="header">
 <th><p>직위</p></th>
 <th><p>이름</p></th>
+<th><p>비고</p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td><p>감독</p></td>
 <td><p><a href="../Page/임완섭.md" title="wikilink">임완섭</a></p></td>
+<td><p>2020년 2월 6일 제 10대 감독으로 취임</p></td>
 </tr>
 <tr class="even">
-<td><p>수석 코치</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/이영민" title="wikilink">이영민</a></p></td>
+<td><p>수석코치</p></td>
+<td><p><a href="../Page/임중용.md" title="wikilink">임중용</a></p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>코치</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/민영기" title="wikilink">민영기</a></p></td>
-</tr>
-<tr class="even">
-<td><p>코치</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/박용호" title="wikilink">박용호</a></p></td>
-</tr>
-<tr class="odd">
-<td><p>코치</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/김재성" title="wikilink">김재성</a></p></td>
+<td><p><a href="../Page/박용호_(축구인).md" title="wikilink">박용호</a></p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>골키퍼 코치</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/박종문" title="wikilink">박종문</a></p></td>
+<td><p><a href="../Page/김이섭.md" title="wikilink">김이섭</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>코치</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/김재성_(축구_선수)" title="wikilink">김재성</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>코치</p></td>
+<td><p>정영환</p></td>
+<td><p>전술/전력분석코치</p></td>
 </tr>
 <tr class="odd">
 <td><p>피지컬 코치</p></td>
-<td><p><a href="../Page/양영민.md" title="wikilink">양영민</a></p></td>
+<td><p>바우지니</p></td>
+<td></td>
 </tr>
 <tr class="even">
-<td><p>전력강화부장</p></td>
-<td><p><a href="../Page/이천수.md" title="wikilink">이천수</a></p></td>
+<td><p>스포츠메디컬 수석트레이너</p></td>
+<td><p>이승재</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>스포츠메디컬 트레이너</p></td>
+<td><p>이동원</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>스포츠메디컬 트레이너</p></td>
+<td><p>김현진</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>장비담당관</p></td>
+<td><p>조용희</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>전력분석관</p></td>
+<td><p>김진교</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
 </tr>
 </tbody>
 </table>

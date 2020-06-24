@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [STAR TV](https://ko.wikipedia.org/wiki/STAR_TV).
 
 
-**STAR TV**(Satellite Television Asia Regional Broadcasting Corporation, 星空傳媒, 스타방송)는 [아시아](../Page/아시아.md "wikilink") 지역을 대상으로 방송하는 위성 텔레비전 방송그룹이다. [월트 디즈니 컴퍼니에](../Page/월트_디즈니_컴퍼니.md "wikilink") 대주주이다
+**STAR TV** (Satellite Television Asia Regional Broadcasting Corporation, 星空傳媒, 스타방송)는 [아시아](../Page/아시아.md "wikilink") 지역을 대상으로 방송하는 위성 텔레비전 방송그룹이다. [월트 디즈니 컴퍼니에](../Page/월트_디즈니_컴퍼니.md "wikilink") 대주주이다
 
 ## 개요
 

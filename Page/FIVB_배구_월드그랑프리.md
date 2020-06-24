@@ -945,6 +945,6 @@
 
 ## 외부 링크
 
-  - [FIVB 공식 사이트](http://www.fivb.ch/)
+  - [FIVB 공식 사이트](https://web.archive.org/web/20120514105549/http://www.fivb.ch/)
 
 [분류:국제 배구 대회](https://ko.wikipedia.org/wiki/분류:국제_배구_대회 "wikilink") [분류:FIVB 배구 월드그랑프리](https://ko.wikipedia.org/wiki/분류:FIVB_배구_월드그랑프리 "wikilink") [분류:1993년 설립](https://ko.wikipedia.org/wiki/분류:1993년_설립 "wikilink")
