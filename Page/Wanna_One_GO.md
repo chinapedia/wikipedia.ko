@@ -10,4 +10,4 @@
 ## 외부 링크
 
   -
-[분류:2010년대 대한민국의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:2010년대_대한민국의_텔레비전_프로그램 "wikilink") [분류:대한민국의 리얼리티 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:대한민국의_리얼리티_텔레비전_프로그램 "wikilink") [분류:아이돌 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:아이돌_텔레비전_프로그램 "wikilink") [분류:워너원](https://ko.wikipedia.org/wiki/분류:워너원 "wikilink") [분류:엠넷에서 방영하는 프로그램](https://ko.wikipedia.org/wiki/분류:엠넷에서_방영하는_프로그램 "wikilink")
+[분류:2010년대 대한민국의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:2010년대_대한민국의_텔레비전_프로그램 "wikilink") [분류:대한민국의 리얼리티 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:대한민국의_리얼리티_텔레비전_프로그램 "wikilink") [분류:아이돌 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:아이돌_텔레비전_프로그램 "wikilink") [분류:워너원](https://ko.wikipedia.org/wiki/분류:워너원 "wikilink") [분류:엠넷의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:엠넷의_텔레비전_프로그램 "wikilink")

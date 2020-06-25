@@ -67,7 +67,7 @@
 </tr>
 <tr class="even">
 <td><p>6월 29일</p></td>
-<td><p><a href="../Page/타이완.md" title="wikilink">타이완</a></p></td>
+<td><p><a href="../Page/타이베이시.md" title="wikilink">타이베이시</a></p></td>
 <td></td>
 <td><p>TICC</p></td>
 <td></td>

@@ -67,7 +67,7 @@
 
 볼륨 5
 
-  - [월화의 검사](https://ko.wikipedia.org/wiki/월화의_검사 "wikilink")(The Last Blade)
+  - [월화의 검사](../Page/월화의_검사.md "wikilink")(The Last Blade)
   - [Blues Journey](https://ko.wikipedia.org/wiki/Blues_Journey "wikilink")
   - [용호의 권](../Page/용호의_권.md "wikilink")
 

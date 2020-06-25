@@ -445,7 +445,7 @@
 야세르 툴레파트 (<a href="https://ko.wikipedia.org/wiki/바레인_축구_협회" title="wikilink">바레인</a>)<br />
 탈레브 알마리 (<a href="https://ko.wikipedia.org/wiki/카타르_축구_협회" title="wikilink">카타르</a>)<br />
 <strong>대기심:</strong><br />
-<a href="https://ko.wikipedia.org/wiki/압둘라흐만_알자심" title="wikilink">압둘라흐만 알자심</a> (<a href="https://ko.wikipedia.org/wiki/카타르_축구_협회" title="wikilink">카타르</a>)<br />
+<a href="../Page/압둘라흐만_알자심.md" title="wikilink">압둘라흐만 알자심</a> (<a href="https://ko.wikipedia.org/wiki/카타르_축구_협회" title="wikilink">카타르</a>)<br />
 <strong>후보 대기심:</strong><br />
 모하메드 알함마디 (<a href="https://ko.wikipedia.org/wiki/아랍에미리트_축구_협회" title="wikilink">아랍에미리트</a>)<br />
 <strong>비디오 판독심:</strong><br />
@@ -630,7 +630,7 @@
 엘레니토 디 리베라토레 (<a href="https://ko.wikipedia.org/wiki/이탈리아_축구_협회" title="wikilink">이탈리아</a>)<br />
 마우로 토놀리니 (<a href="https://ko.wikipedia.org/wiki/이탈리아_축구_협회" title="wikilink">이탈리아</a>)<br />
 <strong>대기심:</strong><br />
-<a href="https://ko.wikipedia.org/wiki/압둘라흐만_알자심" title="wikilink">압둘라흐만 알자심</a> (<a href="https://ko.wikipedia.org/wiki/카타르_축구_협회" title="wikilink">카타르</a>)<br />
+<a href="../Page/압둘라흐만_알자심.md" title="wikilink">압둘라흐만 알자심</a> (<a href="https://ko.wikipedia.org/wiki/카타르_축구_협회" title="wikilink">카타르</a>)<br />
 <strong>후보 대기심:</strong><br />
 탈레브 알마리 (<a href="https://ko.wikipedia.org/wiki/카타르_축구_협회" title="wikilink">카타르</a>)<br />
 <strong>비디오 판독심:</strong><br />

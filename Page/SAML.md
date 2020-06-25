@@ -7,7 +7,7 @@ SAML이 기술하는 가장 중요한 요구사항은 [웹 브라우저](../Page
 
 ## 원리
 
-SAML 사양은 3개의 역할을 정의한다:
+SAML 사양은 3개의 역할을 정의한다.
 
 1.  주체(일반적으로 사용자)
 2.  [인증 정보 제공자](https://ko.wikipedia.org/wiki/인증_정보_제공자 "wikilink")(identity provider, IdP)

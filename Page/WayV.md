@@ -27,7 +27,7 @@ WayV의 멤버 윈윈은 '우리의 사부(아문적사부)'에 [위샤오광](.
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><strong>쿤</strong></p></td>
+<td><p><strong><a href="https://ko.wikipedia.org/wiki/쿤_(1996년)" title="wikilink">쿤</a></strong></p></td>
 <td></td>
 <td><ul>
 <li>본명 : 첸쿤 ()</li>
@@ -60,7 +60,7 @@ WayV의 멤버 윈윈은 '우리의 사부(아문적사부)'에 [위샤오광](.
 </ul></td>
 </tr>
 <tr class="even">
-<td><p><strong>루카스</strong></p></td>
+<td><p><strong><a href="../Page/루카스_(가수).md" title="wikilink">루카스</a></strong></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Lucas_Wong_at_24th_Dream_Concert_01.png" title="wikilink">100px</a></p></td>
 <td><ul>
 <li>본명 : 웡육헤이 ()</li>
@@ -93,13 +93,12 @@ WayV의 멤버 윈윈은 '우리의 사부(아문적사부)'에 [위샤오광](.
 </ul></td>
 </tr>
 <tr class="odd">
-<td><p><strong>양양</strong></p></td>
+<td><p><strong><a href="../Page/NCT_(음악_그룹).md" title="wikilink">양양</a></strong></p></td>
 <td></td>
 <td><ul>
 <li>본명 : 류양양 ()</li>
 <li>생년월일 : </li>
-<li>국적 : </li>
-<li>출생지 :  <a href="../Page/뒤셀도르프.md" title="wikilink">뒤셀도르프</a></li>
+<li>출생지 : </li>
 <li>유닛그룹 : <a href="../Page/WayV.md" title="wikilink">WayV</a></li>
 <li>활동기간 : <a href="../Page/2019년.md" title="wikilink">2019년</a> <a href="../Page/1월_17일.md" title="wikilink">1월 17일</a> ~ <strong>현재</strong></li>
 </ul></td>
@@ -118,6 +117,14 @@ WayV의 멤버 윈윈은 '우리의 사부(아문적사부)'에 [위샤오광](.
 | <font size=2>|2019년 12월 15일 |                                                                 |                           |                               |
 | <font size=2>|2019년 12월 22일 | <font size=2>|[서울](https://ko.wikipedia.org/wiki/서울 "wikilink") | <font size=2>|            | <font size=2>|세종대학교 대양 홀      |
 | <font size=2>|2019년 12월 28일 | <font size=2>|[선전](../Page/선전시.md "wikilink")                   | <font size=2>|            | <font size=2>|바오안 스타디움        |
+
+## Beyond LIVE
+
+### Beyond The Vision
+
+| <font size=2>|개최일         | <font size=2>|플랫폼                                    |
+| ------------------------- | ---------------------------------------------------- |
+| <font size=2>|2020년 5월 3일 | <font size=2>|[V LIVE](../Page/V_LIVE.md "wikilink") |
 
 ## 각주
 

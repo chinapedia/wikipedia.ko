@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [IAS 머신](https://ko.wikipedia.org/wiki/IAS_머신).
 
 
-**IAS 머신**(IAS machine)은 미국 [뉴저지 주 프린스턴의](https://ko.wikipedia.org/wiki/프린스턴_\(뉴저지_주\) "wikilink") [프린스턴 고등연구소](../Page/프린스턴_고등연구소.md "wikilink")(IAS)에서 개발된 초기 전자 [컴퓨터](../Page/컴퓨터.md "wikilink")이다. 폰 노이만 머신(von Neumann machine)이라고도 하는데, 그 이유는 이 설계를 기술하는 논문을 프린스턴 대학교 및 IAS의 수학 교수 [존 폰 노이만이](../Page/존_폰_노이만.md "wikilink") 편집했기 때문이다. 이 컴퓨터는 1945년부터 1951년까지 그의 감독 하에 개발되었다.\[1\] 다른 사람들에 의해 착안, 구현되었긴 했지만 전반적인 구성은 [폰 노이만 구조이다](../Page/폰_노이만_구조.md "wikilink").\[2\]
+**IAS 머신**(IAS machine)은 미국 [뉴저지 주 프린스턴의](https://ko.wikipedia.org/wiki/프린스턴_\(뉴저지주\) "wikilink") [프린스턴 고등연구소](../Page/프린스턴_고등연구소.md "wikilink")(IAS)에서 개발된 초기 전자 [컴퓨터](../Page/컴퓨터.md "wikilink")이다. 폰 노이만 머신(von Neumann machine)이라고도 하는데, 그 이유는 이 설계를 기술하는 논문을 프린스턴 대학교 및 IAS의 수학 교수 [존 폰 노이만이](../Page/존_폰_노이만.md "wikilink") 편집했기 때문이다. 이 컴퓨터는 1945년부터 1951년까지 그의 감독 하에 개발되었다.\[1\] 다른 사람들에 의해 착안, 구현되었긴 했지만 전반적인 구성은 [폰 노이만 구조이다](../Page/폰_노이만_구조.md "wikilink").\[2\]
 
 ## 역사
 
@@ -25,7 +25,7 @@ IAS 머신 계획은 컴퓨팅 머신에 관심이 있는 학교, 비즈니스, 
   - [GEORGE](https://ko.wikipedia.org/wiki/GEORGE "wikilink") (아르곤 국립 연구소)
   - [IBM 701](https://ko.wikipedia.org/wiki/IBM_701 "wikilink") (19곳 설치)
   - [ILLIAC I](https://ko.wikipedia.org/wiki/ILLIAC_I "wikilink") ([일리노이 대학교 어배너-섐페인](../Page/일리노이_대학교_어배너-섐페인.md "wikilink"))
-      - [MUSASINO-1](https://ko.wikipedia.org/wiki/MUSASINO-1 "wikilink") ([무사시노 시](https://ko.wikipedia.org/wiki/무사시노_시 "wikilink"), [일본](../Page/일본.md "wikilink"))
+      - [MUSASINO-1](https://ko.wikipedia.org/wiki/MUSASINO-1 "wikilink") ([무사시노시](../Page/무사시노시.md "wikilink"), [일본](../Page/일본.md "wikilink"))
   - [JOHNNIAC](https://ko.wikipedia.org/wiki/JOHNNIAC "wikilink") ([랜드 연구소](https://ko.wikipedia.org/wiki/랜드_연구소 "wikilink"))
   - [MANIAC I](https://ko.wikipedia.org/wiki/MANIAC_I "wikilink") ([로스앨러모스 국립 연구소](../Page/로스앨러모스_국립_연구소.md "wikilink"))
   - [MISTIC](https://ko.wikipedia.org/wiki/MISTIC "wikilink") ([미시간 주립 대학교](https://ko.wikipedia.org/wiki/미시간_주립_대학교 "wikilink"))

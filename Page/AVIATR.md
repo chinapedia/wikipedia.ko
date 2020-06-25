@@ -24,7 +24,7 @@
 3.  [Proposed AVIATR Project Captures the Scientific Imagination.](http://www.uidaho.edu/sci/physics/news/topfeatures/proposed-aviatr) University of Idaho. 2011.
 4.  타이탄은 [지구](../Page/지구.md "wikilink")보다 [대기압](../Page/대기압.md "wikilink")이 1.7배 세다. [대](https://ko.wikipedia.org/wiki/이오 "wikilink")[기](../Page/엔셀라두스.md "wikilink")[가](../Page/달.md "wikilink") [있](https://ko.wikipedia.org/wiki/트리톤 "wikilink")[는](https://ko.wikipedia.org/wiki/가니메데 "wikilink") 위성은 태양계에 조금 있으나, 대기압이 지구의 1.7배나 되는 천체는 타이탄 밖에 없다.
 5.
-6.  [드론](https://ko.wikipedia.org/wiki/드론 "wikilink")을 생각하면 된다
+6.  [드론](../Page/드론.md "wikilink")을 생각하면 된다
 7.
 8.
 9.

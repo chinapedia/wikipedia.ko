@@ -3120,7 +3120,7 @@
 <tr class="odd">
 <td><p>221회</p></td>
 <td><p><a href="../Page/7월_25일.md" title="wikilink">7월 25일</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2019년_한일_무역_분쟁" title="wikilink">격화되는 한일 갈등</a><br />
+<td><p><a href="../Page/2019년_한일_무역_분쟁.md" title="wikilink">격화되는 한일 갈등</a><br />
 <a href="../Page/아베_신조.md" title="wikilink">아베의</a> 시나리오는?</p></td>
 </tr>
 <tr class="even">

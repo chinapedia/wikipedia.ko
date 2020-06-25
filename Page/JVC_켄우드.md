@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [JVC 켄우드](https://ko.wikipedia.org/wiki/JVC_켄우드).
 
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:JVCKENWOOD001.jpg "wikilink") **JVC 켄우드**(JVC Kenwood Corp., JVC)는 일본 요코하마에 본사를 둔 영국, 미국 및 중국 등에 지사를 갖고 있는 다국적 전자 회사이다. 그것은 2008년 10월 1일에 Victor Company of Japan, Ltd와 Kenwood Corporation의 합병으로 설립되었다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:JVCKENWOOD001.jpg "wikilink") **JVC 켄우드**(JVC Kenwood Corp., JVC)는 일본 요코하마에 본사를 둔 영국, 미국 및 중국 등에 지사를 갖고 있는 다국적 전자 회사이다. 그것은 2008년 10월 1일에 [Victor Company of Japan, Ltd와](../Page/JVC.md "wikilink") [Kenwood Corporation의](https://ko.wikipedia.org/wiki/켄우드 "wikilink") 합병으로 설립되었다.
 
 ## 역사
 
@@ -13,6 +13,8 @@ Kenwood의 Haruo Kawahara는 지주 회사의 회장이었고 JVC 사토 Kunihik
 
 ## 같이 보기
 
+  - [JVC](../Page/JVC.md "wikilink")
+  - [켄우드](https://ko.wikipedia.org/wiki/켄우드 "wikilink")
   - [Zetron](https://ko.wikipedia.org/wiki/Zetron "wikilink")
 
 ## 외부 링크

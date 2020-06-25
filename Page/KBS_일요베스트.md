@@ -457,8 +457,7 @@
 <td><p>87회</p></td>
 <td><p>10월 17일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/훈수" title="wikilink">훈수</a></p></td>
-<td><p><a href="../Page/김성겸.md" title="wikilink">김성겸</a>, <a href="../Page/이영범.md" title="wikilink">이영범</a>, <a href="../Page/김도연_(1966년).md" title="wikilink">김도연</a>, <a href="../Page/이일웅.md" title="wikilink">이일웅</a>,<br />
-<a href="../Page/서우림.md" title="wikilink">서우림</a>, <a href="../Page/이주화.md" title="wikilink">이주화</a>, <a href="../Page/이동욱_(배우).md" title="wikilink">이동욱</a></p></td>
+<td><p><a href="../Page/김성겸.md" title="wikilink">김성겸</a>, <a href="../Page/이영범.md" title="wikilink">이영범</a>, <a href="../Page/김도연_(1966년).md" title="wikilink">김도연</a>, <a href="../Page/이일웅.md" title="wikilink">이일웅</a>,</br><a href="../Page/서우림.md" title="wikilink">서우림</a>, <a href="../Page/이주화.md" title="wikilink">이주화</a>, <a href="../Page/이동욱_(배우).md" title="wikilink">이동욱</a></p></td>
 <td><p>박성진</p></td>
 <td><p><a href="../Page/이강현.md" title="wikilink">이강현</a><br />
 김철규</p></td>

@@ -126,7 +126,7 @@
 </tr>
 <tr class="even">
 <td><p>2위</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/마르티나_뮐러" title="wikilink">마르티나 뮐러</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/마르티나_뮐러_(축구인)" title="wikilink">마르티나 뮐러</a></p></td>
 <td><p>-</p></td>
 <td><p>3</p></td>
 <td></td>
@@ -400,7 +400,7 @@
 </tr>
 <tr class="even">
 <td><p>10위</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/아멜_마즈리" title="wikilink">아멜 마즈리</a></p></td>
+<td><p><a href="../Page/아멜_마즈리.md" title="wikilink">아멜 마즈리</a></p></td>
 <td><p>2</p></td>
 <td><p>-</p></td>
 <td></td>
@@ -481,7 +481,7 @@
 </tr>
 <tr class="even">
 <td><p>8위</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/루시_브론즈" title="wikilink">루시 브론즈</a></p></td>
+<td><p><a href="../Page/루시_브론즈.md" title="wikilink">루시 브론즈</a></p></td>
 <td></td>
 <td><p>-</p></td>
 <td></td>
@@ -489,7 +489,7 @@
 </tr>
 <tr class="odd">
 <td><p>9위</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/조디_테일러" title="wikilink">조디 테일러</a></p></td>
+<td><p><a href="../Page/조디_테일러.md" title="wikilink">조디 테일러</a></p></td>
 <td></td>
 <td><p>-</p></td>
 <td></td>
@@ -554,7 +554,7 @@
 </tr>
 <tr class="odd">
 <td><p>5위</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/루시_브론즈" title="wikilink">루시 브론즈</a></p></td>
+<td><p><a href="../Page/루시_브론즈.md" title="wikilink">루시 브론즈</a></p></td>
 <td><p>20</p></td>
 <td><p>-</p></td>
 <td></td>
@@ -619,7 +619,7 @@
 <tbody>
 <tr class="odd">
 <td><p><strong>1위</strong></p></td>
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/루시_브론즈" title="wikilink">루시 브론즈</a></strong></p></td>
+<td><p><strong><a href="../Page/루시_브론즈.md" title="wikilink">루시 브론즈</a></strong></p></td>
 <td><p>-</p></td>
 <td><p><strong>88</strong></p></td>
 <td><p><strong></strong></p></td>
@@ -667,7 +667,7 @@
 </tr>
 <tr class="odd">
 <td><p>8위</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/카롤리네_그라함_한센" title="wikilink">카롤리네 그라함 한센</a></p></td>
+<td><p><a href="../Page/카롤리네_그라함_한센.md" title="wikilink">카롤리네 그라함 한센</a></p></td>
 <td><p>10</p></td>
 <td><p>-</p></td>
 <td></td>

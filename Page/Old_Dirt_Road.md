@@ -9,7 +9,7 @@
 
 ## 다른 버전
 
-이 곡의 초창기 스케치는 레논의 음반 《[Menlove Ave.](https://ko.wikipedia.org/wiki/Menlove_Ave. "wikilink")》에 포함되었다. 그리고 [어쿠스틱 기타를](https://ko.wikipedia.org/wiki/어쿠스틱_기타 "wikilink") 포함한 더 발전된 버전이 《[John Lennon Anthology](https://ko.wikipedia.org/wiki/John_Lennon_Anthology "wikilink")》에 포함되었다.\[6\] [제시 에드 데이비스의](https://ko.wikipedia.org/wiki/제시_에드_데이비스 "wikilink") 기타 부분이 직접 들리기 때문에 컨트리 음악은 《Menlove Ave.》 버전에서 더욱 두드러진다.
+이 곡의 초창기 스케치는 레논의 음반 《[Menlove Ave.](https://ko.wikipedia.org/wiki/Menlove_Ave. "wikilink")》에 포함되었다. 그리고 [어쿠스틱 기타를](https://ko.wikipedia.org/wiki/어쿠스틱_기타 "wikilink") 포함한 더 발전된 버전이 《[John Lennon Anthology](../Page/John_Lennon_Anthology.md "wikilink")》에 포함되었다.\[6\] [제시 에드 데이비스의](https://ko.wikipedia.org/wiki/제시_에드_데이비스 "wikilink") 기타 부분이 직접 들리기 때문에 컨트리 음악은 《Menlove Ave.》 버전에서 더욱 두드러진다.
 
 ## 각주
 

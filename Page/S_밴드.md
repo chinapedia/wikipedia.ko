@@ -11,7 +11,7 @@
 
 러시아 [S-400](../Page/S-400.md "wikilink") 시스템의 91N6E S 밴드 [AESA](../Page/AESA.md "wikilink") 레이다는 추적거리가 600 km이다.
 
-미국 이지스 구축함은 [AN/SPY-1](https://ko.wikipedia.org/wiki/AN/SPY-1 "wikilink") S 밴드 [PESA](https://ko.wikipedia.org/wiki/PESA "wikilink") 레이다를 사용한다.
+미국 이지스 구축함은 [AN/SPY-1](https://ko.wikipedia.org/wiki/AN/SPY-1 "wikilink") S 밴드 [PESA](../Page/PESA.md "wikilink") 레이다를 사용한다.
 
 [AN/TPQ-53 레이다는](https://ko.wikipedia.org/wiki/AN/TPQ-53_레이다 "wikilink") 미국 [록히드 마틴이](../Page/록히드_마틴.md "wikilink") 개발한 S 밴드 [AESA](../Page/AESA.md "wikilink") 대포병 레이다이다.
 

@@ -89,9 +89,11 @@
 | 작품명                                                                   | 방송 기간                        | 방송 횟수 | 비고 |
 | --------------------------------------------------------------------- | ---------------------------- | ----- | -- |
 | [하이에나](https://ko.wikipedia.org/wiki/하이에나_\(2020년_드라마\) "wikilink")   | 2020년 2월 21일 \~ 2020년 4월 11일 | 16부작  |    |
-| [더 킹 : 영원의 군주](https://ko.wikipedia.org/wiki/더_킹_:_영원의_군주 "wikilink") | 2020년 4월 17일 \~**현재**        | 16부작  |    |
-| [편의점 샛별이](https://ko.wikipedia.org/wiki/편의점_샛별이 "wikilink")           | 2020년 6월 12일 \~              | 16부작  |    |
-| [앨리스](https://ko.wikipedia.org/wiki/앨리스_\(드라마\) "wikilink")           | 2020년 8월\~                   |       |    |
+| [더 킹 : 영원의 군주](https://ko.wikipedia.org/wiki/더_킹_:_영원의_군주 "wikilink") | 2020년 4월 17일 \~ **현재**       | 16부작  |    |
+| [편의점 샛별이](https://ko.wikipedia.org/wiki/편의점_샛별이 "wikilink")           | 2020년 6월 19일 \~              | 16부작  |    |
+| [앨리스](https://ko.wikipedia.org/wiki/앨리스_\(드라마\) "wikilink")           | 2020년 8월 \~                  | 16부작  |    |
+| [펜트하우스](https://ko.wikipedia.org/wiki/펜트하우스_\(드라마\) "wikilink")       | 2020년 10월 \~                 | 20부작  |    |
+| [홍천기](https://ko.wikipedia.org/wiki/홍천기_\(드라마\) "wikilink")           | 2020년 12월 \~                 |       |    |
 |                                                                       |                              |       |    |
 
 ## 같이 보기

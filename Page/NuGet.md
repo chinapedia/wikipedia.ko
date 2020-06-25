@@ -26,4 +26,4 @@ Chocolatey는 윈도우 파워셀 5.0의 PackageManagement 모듈(이전에는 '
 1.
 2.  Hanselman, Scott, ["Is the Windows user ready for apt-get?"](http://www.hanselman.com/blog/IsTheWindowsUserReadyForAptget.aspx), *Hanselman, Scott*, 28 May 2013. Retrieved 4 June 2014.
 3.  Prox, Boe, ["Checking Out OneGet in PowerShell V5"](http://learn-powershell.net/2014/04/03/checking-out-oneget-in-powershell-v5/), *WordPress.com*, 3 April 2014. Retrieved 5 June 2014.
-4.  Snover, Jeffrey, ["Windows Management Framework V5 Preview"](http://blogs.technet.com/b/windowsserver/archive/2014/04/03/windows-management-framework-v5-preview.aspx), *Microsoft TechNet Windows Server Blog*, 3 April 2014. Retrieved 5 June 2014.
+4.  Snover, Jeffrey, ["Windows Management Framework V5 Preview"](http://blogs.technet.com/b/windowsserver/archive/2014/04/03/windows-management-framework-v5-preview.aspx) , *Microsoft TechNet Windows Server Blog*, 3 April 2014. Retrieved 5 June 2014.

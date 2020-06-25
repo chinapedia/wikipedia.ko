@@ -17,7 +17,7 @@
 
 〈All My Loving〉은 영국에서 1963년 11월 22일 출시된 《[With the Beatles](https://ko.wikipedia.org/wiki/With_the_Beatles "wikilink")》에 담겨 처음 출시되었다. 미국에서는 《[Meet the Beatles\!](../Page/Meet_the_Beatles!.md "wikilink")》에 담겨 1964년 1월 20일에 출시되었다. 노래는 영국에서 1963년 2월 7일 출시된 《All My Loving》 EP의 타이틀 트랙으로 쓰인다. 또한 1964년 5월 11일 미국에서 EP 《[Four by The Beatles](https://ko.wikipedia.org/wiki/Four_by_The_Beatles "wikilink")》에 담겨 출시되었다.
 
-〈All My Loving〉은 1964년 2월 9일, 그들의 《에드 설리번 쇼》 데뷔 공연에서 오프닝 넘버로 쓰였다. 이 음원은 《[Anthology 1](https://ko.wikipedia.org/wiki/Anthology_1 "wikilink")》에 수록됐다. 그룹은 이 노래를 1963년에 한 번, 1964년에 두 번 BBC 라디오에서 공연한다. 마지막 버전은 1964년 2월 28일 《[Live at the BBC](https://ko.wikipedia.org/wiki/Live_at_the_BBC "wikilink")》에 실려 나온다. 노래는 《하드 데이즈 나이트》의 나이트 클럽 씬 배경에서 들리고 《매지컬 미스테리 투어》에서 기악곡 버전이 들린다.
+〈All My Loving〉은 1964년 2월 9일, 그들의 《에드 설리번 쇼》 데뷔 공연에서 오프닝 넘버로 쓰였다. 이 음원은 《[Anthology 1](../Page/Anthology_1.md "wikilink")》에 수록됐다. 그룹은 이 노래를 1963년에 한 번, 1964년에 두 번 BBC 라디오에서 공연한다. 마지막 버전은 1964년 2월 28일 《[Live at the BBC](https://ko.wikipedia.org/wiki/Live_at_the_BBC "wikilink")》에 실려 나온다. 노래는 《하드 데이즈 나이트》의 나이트 클럽 씬 배경에서 들리고 《매지컬 미스테리 투어》에서 기악곡 버전이 들린다.
 
 앨런 와이스의 말에 따르면, 존 레논이 1980년 12월 8일 피습되어 루즈벨트 병원 응급실로 이송되었으나 사망 진단이 나올 당시 그곳의 사운드 시스템에는 〈All My Loving〉이 재생되고 있었다.
 

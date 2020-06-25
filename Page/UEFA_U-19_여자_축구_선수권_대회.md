@@ -244,6 +244,24 @@
 <td><p>2020년<br />
 <em><a href="https://ko.wikipedia.org/wiki/2020년_UEFA_U-19_여자_축구_선수권_대회" title="wikilink">자세히</a></em></p></td>
 <td></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/코로나바이러스감염증-19_범유행" title="wikilink">코로나바이러스감염증-19 범유행의</a> 여파로 인하여 취소됨</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2021년<br />
+<em><a href="https://ko.wikipedia.org/wiki/2021년_UEFA_U-19_여자_축구_선수권_대회" title="wikilink">자세히</a></em></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2022년<br />
+<em><a href="https://ko.wikipedia.org/wiki/2022년_UEFA_U-19_여자_축구_선수권_대회" title="wikilink">자세히</a></em></p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>

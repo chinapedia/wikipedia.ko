@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Rookie \(레드벨벳의 노래\)](https://ko.wikipedia.org/wiki/Rookie_\(레드벨벳의_노래\)).
 
 
-"**Rookie**"는 대한민국 걸 그룹 [레드벨벳의](../Page/레드벨벳_\(음악_그룹\).md "wikilink") 네번째 EP 앨범인 [Rookie의](../Page/Rookie_\(EP\).md "wikilink") 타이틀곡으로 2017년 2월 1일 발매되었다. 레벤 카이르 [사라 포스버그](https://ko.wikipedia.org/wiki/사라_포스버그 "wikilink"), 카를 파월, 해리슨 존슨 등과 함께 노래를 작곡한 미국 프로듀싱 팀인 더 콜리그스와 자밀 디지 참마스가 프로듀싱을 맡았고, 조윤경이 한국어 가사를 작사했다. 이 곡은 소녀의 사랑하는 이를 신인에 비유한 가사를 담고 있으며, 장르는 [팝 음악과](../Page/팝_음악.md "wikilink") [펑크](../Page/펑크.md "wikilink")로 분류된다.
+〈**Rookie**〉는 대한민국 걸 그룹 [레드벨벳의](../Page/레드벨벳_\(음악_그룹\).md "wikilink") 네번째 EP 앨범인 [Rookie의](../Page/Rookie_\(EP\).md "wikilink") 타이틀곡으로 2017년 2월 1일 발매되었다. 레벤 카이르 [사라 포스버그](https://ko.wikipedia.org/wiki/사라_포스버그 "wikilink"), 카를 파월, 해리슨 존슨 등과 함께 노래를 작곡한 미국 프로듀싱 팀인 더 콜리그스와 자밀 디지 참마스가 프로듀싱을 맡았고, 조윤경이 한국어 가사를 작사했다. 이 곡은 소녀의 사랑하는 이를 신인에 비유한 가사를 담고 있으며, 장르는 [팝 음악과](../Page/팝_음악.md "wikilink") [펑크](../Page/펑크.md "wikilink")로 분류된다.
 
 싱글 앨범의 발매 이후, 레드벨벳은 대한민국의 유명한 음악방송인 [뮤직뱅크](../Page/뮤직뱅크.md "wikilink"), [인기가요](https://ko.wikipedia.org/wiki/인기가요 "wikilink"), [더 쇼](https://ko.wikipedia.org/wiki/더_쇼 "wikilink"), [쇼 챔피언](https://ko.wikipedia.org/wiki/쇼_챔피언 "wikilink"), [엠카운트다운](https://ko.wikipedia.org/wiki/엠카운트다운 "wikilink"), [쇼\! 음악중심](https://ko.wikipedia.org/wiki/쇼!_음악중심 "wikilink") 등에서 이 곡을 공연했다. 해외로 프로모션을 한 이후, 레드벨벳은 2017년 3월 [오스틴에서](../Page/오스틴_\(텍사스주\).md "wikilink") 열린 SXSW 컨퍼런스 및 축전 기간 동안 [코리아 스포트라이트에서](https://ko.wikipedia.org/wiki/코리아_스포트라이트 "wikilink") 주요 공연자로 등장했다. 이후 다음 날 [KCON 멕시코에서](../Page/KCON.md "wikilink") 공연을 했다. 같은 해 5월에 [말레이시아](../Page/말레이시아.md "wikilink")에서 이틀 간의 팬미팅을 가졌고, 미니 쇼케이스를 통해 곡의 원 앨범을 프로모션하기도 했다.
 
@@ -33,7 +33,7 @@
 
 ## 각주
 
-[분류:레드벨벳의 노래](https://ko.wikipedia.org/wiki/분류:레드벨벳의_노래 "wikilink") [분류:2017년 노래](https://ko.wikipedia.org/wiki/분류:2017년_노래 "wikilink")
+[분류:레드벨벳의 싱글](https://ko.wikipedia.org/wiki/분류:레드벨벳의_싱글 "wikilink") [분류:2017년 싱글](https://ko.wikipedia.org/wiki/분류:2017년_싱글 "wikilink")
 
 1.
 2.

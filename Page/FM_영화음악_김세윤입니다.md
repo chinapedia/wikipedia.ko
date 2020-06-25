@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [FM 영화음악 김세윤입니다](https://ko.wikipedia.org/wiki/FM_영화음악_김세윤입니다).
 
 
-《**FM 영화음악 김세윤입니다**》는 [문화방송](../Page/문화방송.md "wikilink")의 라디오 채널인 [MBC FM4U의](../Page/MBC_FM4U.md "wikilink") 프로그램으로, 작가 김세윤이 진행하며 매일 새벽 3시부터 새벽 4시까지 전국에서 방송된다. 이 프로그램은 과거 "[이주연의 영화음악](../Page/영화음악_\(MBC\).md "wikilink")"을 계승하는 프로그램이기도 하다.
+《**FM 영화음악 김세윤입니다**》는 [문화방송](../Page/문화방송.md "wikilink")의 라디오 채널인 [MBC FM4U의](../Page/MBC_FM4U.md "wikilink") 프로그램으로, 작가 김세윤이 진행하며 매일 새벽 2시부터 새벽 3시까지 전국에서 방송된다. 이 프로그램은 과거 "[이주연의 영화음악](../Page/영화음악_\(MBC\).md "wikilink")"을 계승하는 프로그램이기도 하다.
 
 ## 코너
 

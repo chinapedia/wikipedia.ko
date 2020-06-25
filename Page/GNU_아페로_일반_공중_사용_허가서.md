@@ -17,7 +17,7 @@
 
   - [Free Software Foundation GNU AGPL v3 press release](http://www.fsf.org/agplv3-pr)
 
-[분류:자유 소프트웨어 재단](https://ko.wikipedia.org/wiki/분류:자유_소프트웨어_재단 "wikilink") [분류:자유 및 오픈 소스 소프트웨어 사용권](https://ko.wikipedia.org/wiki/분류:자유_및_오픈_소스_소프트웨어_사용권 "wikilink")
+[분류:자유 소프트웨어 재단](https://ko.wikipedia.org/wiki/분류:자유_소프트웨어_재단 "wikilink") [분류:자유 및 오픈 소스 소프트웨어 사용권](https://ko.wikipedia.org/wiki/분류:자유_및_오픈_소스_소프트웨어_사용권 "wikilink") [분류:카피레프트 소프트웨어 사용권](https://ko.wikipedia.org/wiki/분류:카피레프트_소프트웨어_사용권 "wikilink")
 
 1.  [List of free-software licences on the FSF website](https://www.gnu.org/philosophy/license-list.html#AGPL): “*We recommend that developers consider using the GNU AGPL for any software which will commonly be run over a network*”.
 2.

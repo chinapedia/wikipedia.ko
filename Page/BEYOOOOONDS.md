@@ -50,7 +50,7 @@
 <!-- end list -->
 
   - [4월 30일](../Page/4월_30일.md "wikilink"), 동년 [8월 7일의](../Page/8월_7일.md "wikilink") 메이저 데뷔를 하는 것이 발표되었다\[23\].
-  - [8월 13일](../Page/8월_13일.md "wikilink"), 메이저 데뷔 싱글「眼鏡の男の子／ニッポンノD・N・A\!／Go Waist」(8월 7일 발매)가 [오리콘](../Page/오리콘.md "wikilink") 주간 싱글 차트([8월 19일자](../Page/8월_19일.md "wikilink"))에서 첫 1위를 획득했다.
+  - [8월 13일](../Page/8월_13일.md "wikilink"), 메이저 데뷔 싱글「[眼鏡の男の子／ニッポンノD・N・A\!／Go Waist](https://ko.wikipedia.org/wiki/안경_쓴_남자/일본의_D_·_N_·_A!/Go_Waist "wikilink")」(8월 7일 발매)가 [오리콘](../Page/오리콘.md "wikilink") 주간 싱글 차트([8월 19일자](../Page/8월_19일.md "wikilink"))에서 첫 1위를 획득했다.
   - [11월](../Page/11월.md "wikilink"), 제61회 [일본 레코드 대상](../Page/일본_레코드_대상.md "wikilink") 신인상을 수상\[24\], [12월 30일에](../Page/12월_30일.md "wikilink") 최우수 신인상을 수상하였다\[25\].
 
 <!-- end list -->
@@ -63,22 +63,26 @@
 
 ## 멤버
 
-CHICA\#TETSU (치카\#테츠)멤버
-
-  - 1999년생:이치오카 레이나(리더/최연장자)
-  - 2000년생:시마쿠라 리카
-  - 2003년생:니시다 시오리, 에구치 사야(최연소)
-
-아메노모리 카와우미 멤버
-
-  - 1999년생:타카세 쿠루미(리더/최연장자)
-  - 2002년생:마에다 코코로, 야마자키 유하네
-  - 2004년생:오카무라 미나미, 키요노 모모히메(최연소)
-
-전속 멤버
-
-  - 1999년생:히라이 미요(최연장자)
-  - 2000년생:코바야시 호노카, 사토요시 우타노(최연소)
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
 
 ## 음악
 
@@ -155,7 +159,7 @@ CHICA\#TETSU (치카\#테츠)멤버
   - HELLO\! DRIVE\! -하로드라- (2019년 1월 17일 \~ , [라디오 네오](https://ko.wikipedia.org/wiki/라디오_네오 "wikilink") 사회 : 이치오카 레이나)
   - 카나자와 토모코의 Vivid Midnight (2019년 10월 5일 \~ , [NACK5](https://ko.wikipedia.org/wiki/FM_넥파이브 "wikilink"))
   - 아직 아직 화요일이라고\! BEYOOOOONDS QUEST\! (2019년 11월 5일 \~ , [FM OH\!](../Page/FM_오사카.md "wikilink") 사회 : 니시다 시오리, 에구치 사야)※『J3 Tuesday〜Midnight IQ (idol quest)〜』내 코너
-  - BEYOOOOONDS의 비요～～～～～훌쩍 뛰어넘어 나이트\! (2020년 4월 4일, [도호쿠 방송](../Page/도호쿠_방송.md "wikilink"))
+  - BEYOOOOONDS의 비요～～～～～훌쩍 뛰어넘어 나이트\! (2020년 4월 4일 \~ , [도호쿠 방송](../Page/도호쿠_방송.md "wikilink"))
 
 ### 라이브 · 콘서트
 
@@ -189,6 +193,12 @@ CHICA\#TETSU (치카\#테츠)멤버
 ### 광고
 
   - [TOWER RECORDS](https://ko.wikipedia.org/wiki/타워레코드 "wikilink") “TOWER PLUS+” COVER ARTISTS (2019년 11월, TOWER PLUS+)
+
+## 서적
+
+### 솔로 사진집
+
+  - 야마자키 유하네 1st 솔로 사진집「夢羽」(2020년 [6월 25일](../Page/6월_25일.md "wikilink"), 와니북스)
 
 ## 관련 항목
 
@@ -225,7 +235,7 @@ CHICA\#TETSU (치카\#테츠)멤버
 
   -
 
-[BEYOOOOONDS](https://ko.wikipedia.org/wiki/분류:BEYOOOOONDS "wikilink") [분류:헬로\! 프로젝트](https://ko.wikipedia.org/wiki/분류:헬로!_프로젝트 "wikilink") [분류:일본의 팝 음악 그룹](https://ko.wikipedia.org/wiki/분류:일본의_팝_음악_그룹 "wikilink") [분류:일본의 걸 그룹](https://ko.wikipedia.org/wiki/분류:일본의_걸_그룹 "wikilink") [분류:2018년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2018년_결성된_음악_그룹 "wikilink") [분류:2019년 데뷔](https://ko.wikipedia.org/wiki/분류:2019년_데뷔 "wikilink") [분류:10인조 이상 음악 그룹](https://ko.wikipedia.org/wiki/분류:10인조_이상_음악_그룹 "wikilink")
+[BEYOOOOONDS](https://ko.wikipedia.org/wiki/분류:BEYOOOOONDS "wikilink") [분류:헬로\! 프로젝트](https://ko.wikipedia.org/wiki/분류:헬로!_프로젝트 "wikilink") [분류:일본의 팝 음악 그룹](https://ko.wikipedia.org/wiki/분류:일본의_팝_음악_그룹 "wikilink") [분류:일본의 걸 그룹](https://ko.wikipedia.org/wiki/분류:일본의_걸_그룹 "wikilink") [분류:2018년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2018년_결성된_음악_그룹 "wikilink") [분류:10인조 이상 음악 그룹](https://ko.wikipedia.org/wiki/분류:10인조_이상_음악_그룹 "wikilink")
 
 1.
 2.

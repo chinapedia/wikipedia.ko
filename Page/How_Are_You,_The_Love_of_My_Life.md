@@ -13,6 +13,6 @@
 
 ## 외부 링크
 
-[분류:퓨어킴의 음반](https://ko.wikipedia.org/wiki/분류:퓨어킴의_음반 "wikilink") [분류:2017년 음반](https://ko.wikipedia.org/wiki/분류:2017년_음반 "wikilink") [분류:대한민국의 음반](https://ko.wikipedia.org/wiki/분류:대한민국의_음반 "wikilink") [분류:카카오엠 음반](https://ko.wikipedia.org/wiki/분류:카카오엠_음반 "wikilink") [분류:미스틱엔터테인먼트 싱글](https://ko.wikipedia.org/wiki/분류:미스틱엔터테인먼트_싱글 "wikilink")
+[분류:퓨어킴의 음반](https://ko.wikipedia.org/wiki/분류:퓨어킴의_음반 "wikilink") [분류:2017년 음반](https://ko.wikipedia.org/wiki/분류:2017년_음반 "wikilink") [분류:대한민국의 음반](https://ko.wikipedia.org/wiki/분류:대한민국의_음반 "wikilink") [분류:카카오엠 음반](https://ko.wikipedia.org/wiki/분류:카카오엠_음반 "wikilink") [분류:미스틱스토리 싱글](https://ko.wikipedia.org/wiki/분류:미스틱스토리_싱글 "wikilink")
 
 1.  [몽환 보이스 퓨어킴, 미스틱 리슨 네 번째 주자…자작곡 21일 공개](http://www.wowtv.co.kr/newscenter/news/view.asp?bcode=T30001000&artid=A201701200054), 한국경제 유병철 기자.

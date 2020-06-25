@@ -30,7 +30,7 @@ Rec. 2020 은 샘플당 10비트 또는 12비트의 색깊이로 정의한다.
 
 RGB 색 공간 파라미터
 
-Rec. 2020(UHDTV/UHD-1/UHD-2) 색공간은[Rec.709](https://ko.wikipedia.org/wiki/Rec.709 "wikilink") (HDTV) 색공간이 표현하지 못했던 색을 표현할 수 있다.\[6\]\[7\] rec.2020에 사용되는 RGB 원소는 [CIE1931 색좌표계](../Page/CIE_1931_색_공간.md "wikilink") 상의 단색 라이트 소스와 동일하다.\[8\] Rec.2020 원색의 [파장](https://ko.wikipedia.org/wiki/파장 "wikilink")은, Red는 630nm, Green은 532nm, Blue는 467nm이다.\[9\] [CIE1931 색좌표에서](../Page/CIE_1931_색_공간.md "wikilink") 의 커버리지는, Rec.2020 색공간의 75.8%, DCI-P3 디지털 시네마 색공간의 53.6%, [Adobe RGB 색공간의](../Page/어도비_RGB_색_공간.md "wikilink") 52.1%, 그리고, Rec.709 색공간의 35.9%를 커버한다.
+Rec. 2020(UHDTV/UHD-1/UHD-2) 색공간은 [Rec.709](https://ko.wikipedia.org/wiki/Rec.709 "wikilink") (HDTV) 색공간이 표현하지 못했던 색을 표현할 수 있다.\[6\]\[7\] rec.2020에 사용되는 RGB 원소는 [CIE1931 색좌표계](../Page/CIE_1931_색_공간.md "wikilink") 상의 단색 라이트 소스와 동일하다.\[8\] Rec.2020 원색의 [파장](https://ko.wikipedia.org/wiki/파장 "wikilink")은, Red는 630nm, Green은 532nm, Blue는 467nm이다.\[9\] [CIE1931 색좌표에서](../Page/CIE_1931_색_공간.md "wikilink") 의 커버리지는, Rec.2020 색공간의 75.8%, DCI-P3 디지털 시네마 색공간의 53.6%, [Adobe RGB 색공간의](../Page/어도비_RGB_색_공간.md "wikilink") 52.1%, 그리고, Rec.709 색공간의 35.9%를 커버한다.
 
 Rec.2020 색공간의 개발 기간동안 가상의 색 대신 실제의 색을 사용하기로 결정이 되어 디스플레이에 변환회로 없이 Rec.2020색공간을 화면에 보여줄수 있게 되었다.\[10\]  넓은 색공간은 색간의 차이가 크기 때문에 Rec.2020에서 1비트 증가할 때는 Rec.709의 정밀도와 같거나 더 좋게 하는 것이 필요하다.
 
@@ -141,7 +141,7 @@ Rec. 2100은 2016년 6월 ITU-R Recommendation 에서 릴리즈 하였는데, H
 
   - [ITU-R Recommendation BT.2020](https://www.itu.int/rec/R-REC-BT.2020/en)
 
-[분류:색 공간](https://ko.wikipedia.org/wiki/분류:색_공간 "wikilink") [분류:영상 기술](https://ko.wikipedia.org/wiki/분류:영상_기술 "wikilink")
+[분류:색 공간](https://ko.wikipedia.org/wiki/분류:색_공간 "wikilink") [분류:영상 기술](https://ko.wikipedia.org/wiki/분류:영상_기술 "wikilink") [분류:ITU-R 권고](https://ko.wikipedia.org/wiki/분류:ITU-R_권고 "wikilink")
 
 1.
 2.

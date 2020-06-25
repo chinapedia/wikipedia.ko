@@ -9,7 +9,7 @@ Gen.G e스포츠는 현재 [오버워치](../Page/오버워치.md "wikilink"), [
 
 ### 오버워치
 
-Gen.G e스포츠 팀 산하의 [서울특별시](../Page/서울특별시.md "wikilink") 연고 [오버워치 리그](https://ko.wikipedia.org/wiki/오버워치_리그 "wikilink") 팀으로 [서울 다이너스티를](https://ko.wikipedia.org/wiki/서울_다이너스티 "wikilink") 운영하고 있다. 오버워치 APEX에 참가하던 루나틱 하이 팀의 주축선수들을 기반으로 창설되었다.
+Gen.G e스포츠 팀 산하의 [서울특별시](../Page/서울특별시.md "wikilink") 연고 [오버워치 리그](https://ko.wikipedia.org/wiki/오버워치_리그 "wikilink") 팀으로 [서울 다이너스티를](../Page/서울_다이너스티.md "wikilink") 운영하고 있다. 오버워치 APEX에 참가하던 루나틱 하이 팀의 주축선수들을 기반으로 창설되었다.
 
   - 감독 : 박창근
   - 코치 : [문성원](../Page/문성원.md "wikilink") 김형석
@@ -22,11 +22,12 @@ Gen.G e스포츠 팀 산하의 [서울특별시](../Page/서울특별시.md "wik
 | 김동언 | FITS     | DPS     |
 | 황민서 | Marve1   | TANK    |
 | 홍재희 | Gesture  | TANK    |
-| 김준혁 | ZUNBA    | TANK    |
 | 최민혁 | Michelle | TANK    |
+| 최승태 | Bdosin   | SUPPORT |
 | 양진모 | Tobi     | SUPPORT |
-| 김영완 | Creative | SUPPORT |
 |     |          |         |
+| 김영완 | Creative | SUPPORT |
+| 김성준 | SLIME    | SUPPORT |
 
 #### 주요성적
 
@@ -97,8 +98,8 @@ Gen.G e스포츠 팀 산하의 [서울특별시](../Page/서울특별시.md "wik
 
 [삼성 갤럭시](../Page/삼성_갤럭시_\(e스포츠\).md "wikilink") 리그 오브 레전드 팀을 인수 및 승계하였다. 인수 이전의 내용은 해당 항목 참조. 현재 [리그 오브 레전드 챔피언스 코리아에](../Page/리그_오브_레전드_챔피언스_코리아.md "wikilink") 참가하고 있다.
 
-  - 감독 : 최우범
-  - 코치 : 여창동 주영달 권영재 손창식
+  - 감독 : 주영달 (대행)
+  - 코치 : 여창동
   - 선수
 
 | 이름  | 소환사명   | 포지션 |
@@ -167,6 +168,7 @@ Gen.G e스포츠 팀 산하의 [서울특별시](../Page/서울특별시.md "wik
   - [2019년 3월](https://ko.wikipedia.org/wiki/2019년_3월 "wikilink") 스무살우리 리그 오브 레전드 챔피언스 코리아 스프링 2019 7위
   - [2019년 8월](https://ko.wikipedia.org/wiki/2019년_8월 "wikilink") 우리은행 리그 오브 레전드 챔피언스 코리아 서머 2019 6위
   - [2020년 4월](https://ko.wikipedia.org/wiki/2020년_4월 "wikilink") 우리은행 리그 오브 레전드 챔피언스 코리아 스프링 2020 준우승
+  - [2020년 5월](https://ko.wikipedia.org/wiki/2020년_5월 "wikilink") 2020 미드 시즌 컵 4강
 
 ### 배틀그라운드
 
@@ -175,7 +177,7 @@ Gen.G e스포츠 팀 산하의 [서울특별시](../Page/서울특별시.md "wik
 
 박정영 Gen.G Loki
 
-유상호 Gen.G AquaV
+유상호 Gen.G Aqua5
 
 나희주 Gen.G Inonix
 
@@ -193,7 +195,7 @@ Gen.G e스포츠 팀 산하의 [서울특별시](../Page/서울특별시.md "wik
   - **2017-2018 아프리카TV PUBG 리그 (APL) 파일럿 시즌 파이널 우승**
   - 2018 PUBG Survival Series (PSS) 베타 파이널 7위
   - 2018 PUBG invitational - INTEL EXTREME MASTERS KATOWICE (IEM) 15위
-  - 2018 아프리카TV PUBG 리그 (APL) 시즌 1 36\[1\]강 1위
+  - 2018 아프리카TV PUBG 리그 (APL) 시즌 1 36강 1위
   - **2018 아프리카TV PUBG 리그 (APL) 시즌 1 우승**
   - 2018 PUBG Survival Series (PSS) 시즌 1 16위
   - 2018 PUBG Survival Series (PSS) 시즌 2 6위
@@ -230,12 +232,8 @@ Gen.G e스포츠 팀 산하의 [서울특별시](../Page/서울특별시.md "wik
   - **2019 핫식스 PUBG 코리아 리그 페이즈 2 우승**
   - **2019 MET 아시아 시리즈 우승**
 
-## 각주
-
 ## 외부 링크
 
   - [Gen.G e스포츠 공식 홈페이지](http://www.geng.gg/)
 
-[분류:2017년 설립](https://ko.wikipedia.org/wiki/분류:2017년_설립 "wikilink") [분류:대한민국의 e스포츠팀](https://ko.wikipedia.org/wiki/분류:대한민국의_e스포츠팀 "wikilink") [\*](https://ko.wikipedia.org/wiki/분류:KSV_e스포츠 "wikilink") [분류:리그 오브 레전드 프로게임단](https://ko.wikipedia.org/wiki/분류:리그_오브_레전드_프로게임단 "wikilink") [분류:히어로즈 오브 더 스톰 프로게임단](https://ko.wikipedia.org/wiki/분류:히어로즈_오브_더_스톰_프로게임단 "wikilink") [분류:배틀그라운드 프로게임단](https://ko.wikipedia.org/wiki/분류:배틀그라운드_프로게임단 "wikilink")
-
-1.
+[분류:2017년 설립](https://ko.wikipedia.org/wiki/분류:2017년_설립 "wikilink") [분류:대한민국의 e스포츠팀](https://ko.wikipedia.org/wiki/분류:대한민국의_e스포츠팀 "wikilink") [분류:리그 오브 레전드 프로게임단](https://ko.wikipedia.org/wiki/분류:리그_오브_레전드_프로게임단 "wikilink") [분류:히어로즈 오브 더 스톰 프로게임단](https://ko.wikipedia.org/wiki/분류:히어로즈_오브_더_스톰_프로게임단 "wikilink") [분류:배틀그라운드 프로게임단](https://ko.wikipedia.org/wiki/분류:배틀그라운드_프로게임단 "wikilink")

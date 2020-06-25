@@ -12,17 +12,13 @@
 <col style="width: 5%" />
 <col style="width: 1%" />
 <col style="width: 1%" />
-<col style="width: 0%" />
 <col style="width: 1%" />
-<col style="width: 0%" />
 </colgroup>
 <thead>
 <tr class="header">
 <th><p>연도</p></th>
 <th><p>개최국</p></th>
-<th></th>
 <th><p>결승전</p></th>
-<th></th>
 <th><p>3·4위전</p></th>
 </tr>
 </thead>
@@ -32,8 +28,6 @@
 <td><p>득점</p></td>
 <td><p>준우승</p></td>
 <td><p>3위</p></td>
-<td><p>득점</p></td>
-<td><p>4위</p></td>
 </tr>
 <tr class="even">
 <td><p>1982년<br />
@@ -41,8 +35,6 @@
 <td></td>
 <td><p><strong></strong></p></td>
 <td><p><strong>1 : 0</strong></p></td>
-<td></td>
-<td></td>
 </tr>
 <tr class="odd">
 <td><p>1984년<br />
@@ -50,8 +42,6 @@
 <td></td>
 <td><p><strong></strong></p></td>
 <td><p><strong>2 : 0</strong></p></td>
-<td></td>
-<td></td>
 </tr>
 <tr class="even">
 <td><p>1985년<br />
@@ -59,8 +49,6 @@
 <td></td>
 <td><p><strong></strong></p></td>
 <td><p><strong>4 : 0</strong></p></td>
-<td></td>
-<td></td>
 </tr>
 <tr class="odd">
 <td><p>1986년<br />
@@ -68,8 +56,6 @@
 <td></td>
 <td><p><strong></strong></p></td>
 <td><p><strong>2 : 1</strong></p></td>
-<td></td>
-<td></td>
 </tr>
 <tr class="even">
 <td><p>1987년<br />
@@ -79,8 +65,6 @@
 <strong>우승 팀 없음</strong>[1]</p></td>
 <td><p><strong><s>(1 : 0)</s><br />
 0 : 3</strong></p></td>
-<td></td>
-<td></td>
 </tr>
 <tr class="odd">
 <td><p>1988년<br />
@@ -89,8 +73,6 @@
 <td><p><strong></strong></p></td>
 <td><p><strong>0 : 0<br />
 <small>(<a href="../Page/승부차기.md" title="wikilink">승부차기</a> 4 : 2)</small></strong></p></td>
-<td></td>
-<td></td>
 </tr>
 <tr class="even">
 <td><p>1989년<br />
@@ -98,8 +80,6 @@
 <td></td>
 <td><p><strong></strong></p></td>
 <td><p><strong>4 : 1</strong></p></td>
-<td></td>
-<td></td>
 </tr>
 <tr class="odd">
 <td><p>1990년<br />
@@ -108,8 +88,6 @@
 <td><p><strong></strong></p></td>
 <td><p><strong>3 : 2</strong><br />
 <small>(<a href="../Page/연장전.md" title="wikilink">연장전</a>)</small></p></td>
-<td></td>
-<td></td>
 </tr>
 <tr class="even">
 <td><p>1991년<br />
@@ -117,8 +95,6 @@
 <td></td>
 <td><p><strong></strong></p></td>
 <td><p><strong>2 : 0</strong></p></td>
-<td></td>
-<td></td>
 </tr>
 <tr class="odd">
 <td><p>1992년<br />
@@ -126,8 +102,6 @@
 <td></td>
 <td><p><strong></strong></p></td>
 <td><p><strong>2 : 1</strong></p></td>
-<td></td>
-<td></td>
 </tr>
 <tr class="even">
 <td><p>1993년<br />
@@ -135,8 +109,6 @@
 <td></td>
 <td><p><strong></strong></p></td>
 <td><p><strong>1 : 0</strong></p></td>
-<td></td>
-<td></td>
 </tr>
 <tr class="odd">
 <td><p>1994년<br />
@@ -144,8 +116,6 @@
 <td></td>
 <td><p><strong></strong></p></td>
 <td><p><strong>1 : 0</strong></p></td>
-<td></td>
-<td></td>
 </tr>
 <tr class="even">
 <td><p>1995년<br />
@@ -153,8 +123,6 @@
 <td></td>
 <td><p><strong></strong></p></td>
 <td><p><strong>2 : 0</strong></p></td>
-<td></td>
-<td></td>
 </tr>
 <tr class="odd">
 <td><p>1996년<br />
@@ -162,8 +130,6 @@
 <td></td>
 <td><p><strong></strong></p></td>
 <td><p><strong>1 : 0</strong></p></td>
-<td></td>
-<td></td>
 </tr>
 <tr class="even">
 <td><p>1997년<br />
@@ -172,8 +138,6 @@
 <td><p><strong></strong></p></td>
 <td><p><strong>0 : 0<br />
 <small>(<a href="../Page/승부차기.md" title="wikilink">승부차기</a> 5 : 4)</small></strong></p></td>
-<td></td>
-<td></td>
 </tr>
 <tr class="odd">
 <td><p>1998년<br />
@@ -181,8 +145,6 @@
 <td></td>
 <td><p><strong></strong></p></td>
 <td><p><strong>2 : 1</strong></p></td>
-<td></td>
-<td></td>
 </tr>
 <tr class="even">
 <td><p>1999년<br />
@@ -190,8 +152,6 @@
 <td></td>
 <td><p><strong></strong></p></td>
 <td><p><strong>4 : 1</strong></p></td>
-<td></td>
-<td></td>
 </tr>
 <tr class="odd">
 <td><p>2000년<br />
@@ -200,8 +160,6 @@
 <td><p><strong></strong></p></td>
 <td><p><strong>2 : 1</strong><br />
 <small>(<a href="https://ko.wikipedia.org/wiki/골든골" title="wikilink">골든골</a>)</small></p></td>
-<td></td>
-<td></td>
 </tr>
 <tr class="even">
 <td><p>2001년<br />
@@ -209,8 +167,6 @@
 <td></td>
 <td><p><strong></strong></p></td>
 <td><p><strong>1 : 0</strong></p></td>
-<td></td>
-<td></td>
 </tr>
 </tbody>
 </table>
@@ -222,17 +178,13 @@
 <col style="width: 5%" />
 <col style="width: 1%" />
 <col style="width: 1%" />
-<col style="width: 0%" />
 <col style="width: 1%" />
-<col style="width: 0%" />
 </colgroup>
 <thead>
 <tr class="header">
 <th><p>연도</p></th>
 <th><p>개최국</p></th>
-<th></th>
 <th><p>결승전</p></th>
-<th></th>
 <th><p>3·4위전</p></th>
 </tr>
 </thead>
@@ -242,8 +194,6 @@
 <td><p>득점</p></td>
 <td><p>준우승</p></td>
 <td><p>3위</p></td>
-<td><p>득점</p></td>
-<td><p>4위</p></td>
 </tr>
 <tr class="even">
 <td><p>2002년<br />
@@ -252,8 +202,6 @@
 <td><p><strong></strong></p></td>
 <td><p><strong>0 : 0<br />
 <small>(<a href="../Page/승부차기.md" title="wikilink">승부차기</a> 4 : 2)</small></strong></p></td>
-<td></td>
-<td></td>
 </tr>
 <tr class="odd">
 <td><p>2003년<br />
@@ -261,8 +209,6 @@
 <td></td>
 <td><p><strong></strong></p></td>
 <td><p><strong>2 : 1</strong></p></td>
-<td></td>
-<td></td>
 </tr>
 <tr class="even">
 <td><p>2004년<br />
@@ -270,8 +216,6 @@
 <td></td>
 <td><p><strong></strong></p></td>
 <td><p><strong>2 : 1</strong></p></td>
-<td></td>
-<td></td>
 </tr>
 <tr class="odd">
 <td><p>2005년<br />
@@ -279,8 +223,6 @@
 <td></td>
 <td><p><strong></strong></p></td>
 <td><p><strong>2 : 0</strong></p></td>
-<td></td>
-<td></td>
 </tr>
 <tr class="even">
 <td><p>2006년<br />
@@ -289,23 +231,17 @@
 <td><p><strong></strong></p></td>
 <td><p><strong>2 : 2<br />
 <small>(<a href="../Page/승부차기.md" title="wikilink">승부차기</a> 5 : 3)</small></strong></p></td>
-<td></td>
-<td></td>
 </tr>
 <tr class="odd">
 <td><p>연도</p></td>
 <td><p>개최국</p></td>
 <td><p>결승전</p></td>
 <td><p>준결승전 패배 팀</p></td>
-<td></td>
-<td></td>
 </tr>
 <tr class="even">
 <td><p>우승</p></td>
 <td><p>득점</p></td>
 <td><p>준우승</p></td>
-<td></td>
-<td></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -314,8 +250,6 @@
 <td></td>
 <td><p><strong></strong></p></td>
 <td><p><strong>1 : 0</strong></p></td>
-<td></td>
-<td><p>, </p></td>
 </tr>
 <tr class="even">
 <td><p>2008년<br />
@@ -323,8 +257,6 @@
 <td></td>
 <td><p><strong></strong></p></td>
 <td><p><strong>4 : 0</strong></p></td>
-<td></td>
-<td><p>, </p></td>
 </tr>
 <tr class="odd">
 <td><p>2009년<br />
@@ -333,8 +265,6 @@
 <td><p><strong></strong></p></td>
 <td><p><strong>2 : 1</strong><br />
 <small>(<a href="../Page/연장전.md" title="wikilink">연장전</a>)</small></p></td>
-<td></td>
-<td><p>, </p></td>
 </tr>
 <tr class="even">
 <td><p>2010년<br />
@@ -342,8 +272,6 @@
 <td></td>
 <td><p><strong></strong></p></td>
 <td><p><strong>2 : 1</strong></p></td>
-<td></td>
-<td><p>, </p></td>
 </tr>
 <tr class="odd">
 <td><p>2011년<br />
@@ -351,8 +279,6 @@
 <td></td>
 <td><p><strong></strong></p></td>
 <td><p><strong>5 : 2</strong></p></td>
-<td></td>
-<td><p>, </p></td>
 </tr>
 <tr class="even">
 <td><p>2012년<br />
@@ -361,8 +287,6 @@
 <td><p><strong></strong></p></td>
 <td><p><strong>1 : 1<br />
 <small>(<a href="../Page/승부차기.md" title="wikilink">승부차기</a> 5 : 4)</small></strong></p></td>
-<td></td>
-<td><p>, </p></td>
 </tr>
 <tr class="odd">
 <td><p>2013년<br />
@@ -371,8 +295,6 @@
 <td><p><strong></strong></p></td>
 <td><p><strong>0 : 0<br />
 <small>(<a href="../Page/승부차기.md" title="wikilink">승부차기</a> 5 : 4)</small></strong></p></td>
-<td></td>
-<td><p>, </p></td>
 </tr>
 <tr class="even">
 <td><p>2014년<br />
@@ -381,8 +303,6 @@
 <td><p><strong></strong></p></td>
 <td><p><strong>1 : 1<br />
 <small>(<a href="../Page/승부차기.md" title="wikilink">승부차기</a> 4 : 1)</small></strong></p></td>
-<td></td>
-<td><p>, </p></td>
 </tr>
 <tr class="odd">
 <td><p>2015년<br />
@@ -390,8 +310,6 @@
 <td></td>
 <td><p><strong></strong></p></td>
 <td><p><strong>4 : 1</strong></p></td>
-<td></td>
-<td><p>, </p></td>
 </tr>
 <tr class="even">
 <td><p>2016년<br />
@@ -400,8 +318,6 @@
 <td><p><strong></strong></p></td>
 <td><p><strong>1 : 1<br />
 <small>(<a href="../Page/승부차기.md" title="wikilink">승부차기</a> 5 : 4)</small></strong></p></td>
-<td></td>
-<td><p>, </p></td>
 </tr>
 <tr class="odd">
 <td><p>2017년<br />
@@ -410,8 +326,6 @@
 <td><p><strong></strong></p></td>
 <td><p><strong>2 : 2<br />
 <small>(<a href="../Page/승부차기.md" title="wikilink">승부차기</a> 4 : 1)</small></strong></p></td>
-<td></td>
-<td><p>, </p></td>
 </tr>
 <tr class="even">
 <td><p>2018년<br />
@@ -420,8 +334,6 @@
 <td><p><strong></strong></p></td>
 <td><p><strong>2 : 2<br />
 <small>(<a href="../Page/승부차기.md" title="wikilink">승부차기</a> 4 : 1)</small></strong></p></td>
-<td></td>
-<td><p>, </p></td>
 </tr>
 <tr class="odd">
 <td><p>2019년<br />
@@ -429,17 +341,27 @@
 <td></td>
 <td><p><strong></strong></p></td>
 <td><p><strong>4 : 2</strong></p></td>
-<td></td>
-<td><p>, </p></td>
 </tr>
 <tr class="even">
 <td><p>2020년<br />
 <em><a href="https://ko.wikipedia.org/wiki/2020년_UEFA_U-17_축구_선수권_대회" title="wikilink">자세히</a></em></p></td>
 <td></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/코로나바이러스감염증-19_범유행" title="wikilink">코로나바이러스감염증-19 범유행의</a> 여파로 인하여 취소됨</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2021년<br />
+<em><a href="https://ko.wikipedia.org/wiki/2021년_UEFA_U-17_축구_선수권_대회" title="wikilink">자세히</a></em></p></td>
 <td></td>
 <td></td>
+<td><p>''' : '''</p></td>
+</tr>
+<tr class="even">
+<td><p>2022년<br />
+<em><a href="https://ko.wikipedia.org/wiki/2022년_UEFA_U-17_축구_선수권_대회" title="wikilink">자세히</a></em></p></td>
 <td></td>
 <td></td>
+<td><p>''' : '''</p></td>
 </tr>
 </tbody>
 </table>

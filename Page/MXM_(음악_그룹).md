@@ -150,7 +150,7 @@
   -
   -
   -
-[분류:남성 듀오](https://ko.wikipedia.org/wiki/분류:남성_듀오 "wikilink") [분류:힙합 듀오](https://ko.wikipedia.org/wiki/분류:힙합_듀오 "wikilink") [분류:K-pop 음악 그룹](https://ko.wikipedia.org/wiki/분류:K-pop_음악_그룹 "wikilink") [분류:대한민국의 팝 음악 그룹](https://ko.wikipedia.org/wiki/분류:대한민국의_팝_음악_그룹 "wikilink") [분류:대한민국의 댄스 음악 그룹](https://ko.wikipedia.org/wiki/분류:대한민국의_댄스_음악_그룹 "wikilink") [분류:대한민국의 힙합 그룹](https://ko.wikipedia.org/wiki/분류:대한민국의_힙합_그룹 "wikilink") [분류:브랜뉴 뮤직 음악가](https://ko.wikipedia.org/wiki/분류:브랜뉴_뮤직_음악가 "wikilink") [분류:2인조 음악 그룹](https://ko.wikipedia.org/wiki/분류:2인조_음악_그룹 "wikilink") [분류:2017년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2017년_결성된_음악_그룹 "wikilink")
+[분류:남성 듀오](https://ko.wikipedia.org/wiki/분류:남성_듀오 "wikilink") [분류:힙합 듀오](https://ko.wikipedia.org/wiki/분류:힙합_듀오 "wikilink") [분류:K-pop 음악 그룹](https://ko.wikipedia.org/wiki/분류:K-pop_음악_그룹 "wikilink") [분류:대한민국의 팝 음악 그룹](https://ko.wikipedia.org/wiki/분류:대한민국의_팝_음악_그룹 "wikilink") [분류:대한민국의 댄스 음악 그룹](https://ko.wikipedia.org/wiki/분류:대한민국의_댄스_음악_그룹 "wikilink") [분류:대한민국의 힙합 그룹](https://ko.wikipedia.org/wiki/분류:대한민국의_힙합_그룹 "wikilink") [분류:브랜뉴 뮤직 음악가](https://ko.wikipedia.org/wiki/분류:브랜뉴_뮤직_음악가 "wikilink") [분류:2017년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2017년_결성된_음악_그룹 "wikilink")
 
 1.
 2.

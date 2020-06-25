@@ -149,7 +149,7 @@
   - [PIDA](https://ko.wikipedia.org/wiki/PIDA "wikilink")
   - [Zenity](https://ko.wikipedia.org/wiki/Zenity "wikilink")
   - [블루피시](https://ko.wikipedia.org/wiki/블루피시_\(문서_편집기\) "wikilink")
-  - [MonoDevelop](https://ko.wikipedia.org/wiki/MonoDevelop "wikilink")
+  - [MonoDevelop](../Page/MonoDevelop.md "wikilink")
   - [ActiveState Komodo](https://ko.wikipedia.org/wiki/ActiveState_Komodo "wikilink")
   - [Gtranslator](https://ko.wikipedia.org/wiki/Gtranslator "wikilink")
   - [poedit](https://ko.wikipedia.org/wiki/poedit "wikilink")

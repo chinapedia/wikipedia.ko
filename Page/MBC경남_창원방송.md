@@ -48,7 +48,7 @@
   - [2012년](../Page/2012년.md "wikilink") [10월 4일](../Page/10월_4일.md "wikilink") : 지상파 아날로그 TV 방송 종료
   - [2013년](../Page/2013년.md "wikilink") [7월 17일](../Page/7월_17일.md "wikilink") : 지상파 디지털TV방송 주파수 재배치 완료
 
-## TV방송
+## TV방송 [MBC경남 창원 TV](https://ko.wikipedia.org/wiki/MBC경남_창원_TV "wikilink")
 
 경남문화TV가 1972년 10월 5일 개국하였고, 이후 2005년 6월 30일 디지털TV방송을 개국하였다. 중부경남과 부산 일부지역을 가시청권으로서 방송중이다.
 
@@ -58,9 +58,9 @@
 
 <!-- end list -->
 
-  - [MBC 뉴스투데이 경남](../Page/MBC_뉴스투데이.md "wikilink") 월\~금 오전 07:20 \~ 07:50 진행 : [백근곤](https://ko.wikipedia.org/wiki/백근곤 "wikilink"), [이다슬](../Page/이다슬.md "wikilink")
-  - [MBC 930뉴스 경남](../Page/930_MBC_뉴스.md "wikilink") 월\~금 오전 09:35 \~ 09:45 진행 : [김혜민](https://ko.wikipedia.org/wiki/김혜민 "wikilink")
-  - [MBC 5뉴스 경남](../Page/5_MBC_뉴스.md "wikilink") 월\~금 오후 17:15 \~ 17:25 진행 : [백율희](https://ko.wikipedia.org/wiki/백율희 "wikilink")
+  - [MBC 뉴스투데이 경남](../Page/MBC_뉴스투데이.md "wikilink") 월\~금 오전 07:20 \~ 07:50 진행 : [백근곤](https://ko.wikipedia.org/wiki/백근곤 "wikilink"), [백율희](https://ko.wikipedia.org/wiki/백율희 "wikilink")
+  - [MBC 930뉴스 경남](../Page/930_MBC_뉴스.md "wikilink") 월\~금 오전 09:35 \~ 09:45 진행 : [이다슬](../Page/이다슬.md "wikilink")
+  - [MBC 5뉴스 경남](../Page/5_MBC_뉴스.md "wikilink") 월\~금 오후 17:15 \~ 17:25 진행 : [김혜민](https://ko.wikipedia.org/wiki/김혜민 "wikilink")
   - [MBC 뉴스데스크 경남](../Page/MBC_뉴스데스크.md "wikilink")(창원) 월\~금 오후 20:25 \~ 20:45, 토\~일 오후 20:20 \~ 20:35 진행 : [이상훈](../Page/이상훈.md "wikilink") (평일), 진행 : 무작위 (주말)
 
 <!-- end list -->

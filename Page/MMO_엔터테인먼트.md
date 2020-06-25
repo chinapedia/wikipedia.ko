@@ -1,12 +1,11 @@
 > This article is converted from Wikipedia: [MMO 엔터테인먼트](https://ko.wikipedia.org/wiki/MMO_엔터테인먼트).
 
 
-**MMO 엔터테인먼트**()는 [2014년](../Page/2014년.md "wikilink")에 설립한 [대한민국](../Page/대한민국.md "wikilink")의 연예 기획사이다. [2014년](../Page/2014년.md "wikilink") [CJ E\&M과](../Page/CJ_E&M.md "wikilink") 파트너쉽 계약을 체결, 산하 레이블이 되었다.
+**원펙트 엔터테인먼트**()는 [2014년](../Page/2014년.md "wikilink")에 설립한 [대한민국](../Page/대한민국.md "wikilink")의 연예 기획사이다. [2014년](../Page/2014년.md "wikilink") [CJ E\&M과](../Page/CJ_E&M.md "wikilink") 파트너쉽 계약을 체결, 산하 레이블이 되었다.
 
 ## 현재 소속 연예인
 
   - [김필](../Page/김필_\(가수\).md "wikilink")
-  - [훈스](https://ko.wikipedia.org/wiki/훈스 "wikilink")
 
 ## 과거 소속 연예인
 
@@ -24,6 +23,7 @@
   - [인투잇](../Page/인투잇.md "wikilink")
   - 진섭 ([인투잇](../Page/인투잇.md "wikilink") 전 멤버)
   - 성현 ([인투잇](../Page/인투잇.md "wikilink") 전 멤버)
+  - [훈스](https://ko.wikipedia.org/wiki/훈스 "wikilink")
 
 ## 연습생
 

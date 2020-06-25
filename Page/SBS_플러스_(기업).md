@@ -13,7 +13,7 @@
 
   - [SBS Plus](../Page/SBS_플러스.md "wikilink"): 드라마, 예능을 포함한 종합 엔터테인먼트 채널(슬로건: 기쁨 Plus)
 
-\- \<[셰프끼리](https://ko.wikipedia.org/wiki/셰프끼리 "wikilink")\>,\<[중화대반점](https://ko.wikipedia.org/wiki/중화대반점 "wikilink")\>, \<[도도하라](../Page/도도하라.md "wikilink")\>, \<[당신을 주문합니다](../Page/당신을_주문합니다.md "wikilink")\>등 드라마, 예능 프로그램 자체 제작
+\- \<[셰프끼리](https://ko.wikipedia.org/wiki/셰프끼리 "wikilink")\>, \<[중화대반점](https://ko.wikipedia.org/wiki/중화대반점 "wikilink")\>, \<[도도하라](../Page/도도하라.md "wikilink")\>, \<[당신을 주문합니다](../Page/당신을_주문합니다.md "wikilink")\>, \<[똥강아지들](https://ko.wikipedia.org/wiki/똥강아지들 "wikilink")\>, \<[펫츠고\! 댕댕트립](https://ko.wikipedia.org/wiki/펫츠고!_댕댕트립 "wikilink")\> 등 드라마, 예능 프로그램 자체 제작
 
 \- 수준 높은 SBS 최신, 명작 드라마 제공
 

@@ -13,11 +13,12 @@
   - [pH-1](https://ko.wikipedia.org/wiki/pH-1_\(래퍼\) "wikilink") (박준원)
   - [우디 고차일드](https://ko.wikipedia.org/wiki/우디_고차일드 "wikilink") (Woodie Gochild) (곽우재)
   - [그루비룸](../Page/그루비룸.md "wikilink") (GroovyRoom) (박규정, 이휘민)
-  - [우기](https://ko.wikipedia.org/wiki/우기 "wikilink") (WOOGIE) (박제욱)
+  - 우기 (WOOGIE) (박제욱)
   - [모키오](https://ko.wikipedia.org/wiki/모키오 "wikilink") (Mokyo) (최명환)
   - [HAON](https://ko.wikipedia.org/wiki/HAON "wikilink") (하온) (김하온)
   - [써밋](https://ko.wikipedia.org/wiki/써밋 "wikilink") (DJ SMMT) (정성민)
   - [빅나티](https://ko.wikipedia.org/wiki/빅나티 "wikilink") (Big Naughty) (서동현)
+  - 골든
 
 ### 해외
 

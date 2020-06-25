@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [CFNM](https://ko.wikipedia.org/wiki/CFNM).
 
 
-**CFNM**은 **Clothed female Naked male**의 약자로 여성은 옷을 입고 남성은 벌거벗은 형태를 말한다.
+\[1\]**CFNM**은 **Clothed female Naked male**의 약자로 여성은 옷을 입고 남성은 벌거벗은 형태를 말한다.
 
 ## 미디어에서
 
@@ -13,9 +13,11 @@ CFNM은 [포르노그래피](../Page/포르노그래피.md "wikilink")에서도 
 
 ## 일상생활에서
 
-[BDSM](../Page/BDSM.md "wikilink") 관계 커플들 사이에선 자주 있는 일이다. [돔](https://ko.wikipedia.org/wiki/돔 "wikilink")과 [섭](https://ko.wikipedia.org/wiki/섭 "wikilink") 관계가 설정된 [BDSM](../Page/BDSM.md "wikilink")의 경우 섭에게 옷을 입히지 않는 경우가 많다. 그래서 [펨섭](https://ko.wikipedia.org/wiki/펨섭 "wikilink") - [멜돔](https://ko.wikipedia.org/wiki/멜돔 "wikilink") 커플이라면 펨섭은 대체로 나체가 기본 복장이라고 보면 된다. 여자 주인은 옷을 입고 있고 남자 노예는 발가벗고 있는 모습인데 이 경우 남자 노예는 자기 혼자 발가벗고 있기 때문에 수치심이 더욱 커지게 되고 아울러 복종심도 커지게 된다고 한다. 애완동물들이 주인에게 애교를 부릴 때 배를 내밀면서 애교를 부리고 복종하는 것과 같은 맥락이라고 보면 된다. 남자 노예로서는 여자 주인 앞에서 발가벗고 있는 게 수치스럽지만 주인이 그 수치심을 이기면서까지 나체로 있을 수 있는 위엄을 갖추었기 때문이다.\[1\]
+[BDSM](../Page/BDSM.md "wikilink") 관계 커플들 사이에선 자주 있는 일이다. [돔](https://ko.wikipedia.org/wiki/돔 "wikilink")과 [섭](https://ko.wikipedia.org/wiki/섭 "wikilink") 관계가 설정된 [BDSM](../Page/BDSM.md "wikilink")의 경우 섭에게 옷을 입히지 않는 경우가 많다. 그래서 [펨섭](https://ko.wikipedia.org/wiki/펨섭 "wikilink") - [멜돔](https://ko.wikipedia.org/wiki/멜돔 "wikilink") 커플이라면 펨섭은 대체로 나체가 기본 복장이라고 보면 된다. 여자 주인은 옷을 입고 있고 남자 노예는 발가벗고 있는 모습인데 이 경우 남자 노예는 자기 혼자 발가벗고 있기 때문에 수치심이 더욱 커지게 되고 아울러 복종심도 커지게 된다고 한다. 애완동물들이 주인에게 애교를 부릴 때 배를 내밀면서 애교를 부리고 복종하는 것과 같은 맥락이라고 보면 된다. 남자 노예로서는 여자 주인 앞에서 발가벗고 있는 게 수치스럽지만 주인이 그 수치심을 이기면서까지 나체로 있을 수 있는 위엄을 갖추었기 때문이다.\[2\]
 
 ## 사진
+
+{{multiple image|perrow = 2|total_width=250 | image1 = CFNM WNBR London 2010.JPG
 
 ## 같이 보기
 
@@ -28,4 +30,5 @@ CFNM은 [포르노그래피](../Page/포르노그래피.md "wikilink")에서도 
 
 [분류:페티시즘](https://ko.wikipedia.org/wiki/분류:페티시즘 "wikilink") [분류:나체](https://ko.wikipedia.org/wiki/분류:나체 "wikilink") [분류:성도착](https://ko.wikipedia.org/wiki/분류:성도착 "wikilink") [분류:장르별 포르노그래피](https://ko.wikipedia.org/wiki/분류:장르별_포르노그래피 "wikilink") [분류:포르노그래피 용어](https://ko.wikipedia.org/wiki/분류:포르노그래피_용어 "wikilink")
 
-1.  <https://blog.naver.com/dom2you/150036019419>
+1.
+2.  <https://blog.naver.com/dom2you/150036019419>

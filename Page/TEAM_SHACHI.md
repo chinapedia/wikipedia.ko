@@ -373,7 +373,7 @@
   - [ukka](https://ko.wikipedia.org/wiki/ukka "wikilink")
   - [이키나리 토호쿠산](../Page/이키나리_토호쿠산.md "wikilink")
   - [CROWN POP](../Page/CROWN_POP.md "wikilink")
-  - [B.O.L.T](https://ko.wikipedia.org/wiki/B.O.L.T "wikilink")
+  - [B.O.L.T](../Page/B.O.L.T.md "wikilink")
 
 ## 외부 링크
 
@@ -391,4 +391,4 @@
 
   - [워너 뮤직 재팬 공식 사이트](http://wmg.jp/artist/syachihoko/)
 
-[TEAM_SHACHI](https://ko.wikipedia.org/wiki/분류:TEAM_SHACHI "wikilink") [분류:일본의 팝 음악 그룹](https://ko.wikipedia.org/wiki/분류:일본의_팝_음악_그룹 "wikilink") [분류:일본의 걸 그룹](https://ko.wikipedia.org/wiki/분류:일본의_걸_그룹 "wikilink") [분류:2011년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2011년_결성된_음악_그룹 "wikilink") [분류:스타더스트 프로모션](https://ko.wikipedia.org/wiki/분류:스타더스트_프로모션 "wikilink") [분류:2010년대 음악 그룹](https://ko.wikipedia.org/wiki/분류:2010년대_음악_그룹 "wikilink") [분류:2012년 데뷔](https://ko.wikipedia.org/wiki/분류:2012년_데뷔 "wikilink") [분류:일본의 아이돌 그룹](https://ko.wikipedia.org/wiki/분류:일본의_아이돌_그룹 "wikilink") [분류:일본의 댄스 음악 그룹](https://ko.wikipedia.org/wiki/분류:일본의_댄스_음악_그룹 "wikilink") [분류:일본어 음악 그룹](https://ko.wikipedia.org/wiki/분류:일본어_음악_그룹 "wikilink") [분류:4인조 음악 그룹](https://ko.wikipedia.org/wiki/분류:4인조_음악_그룹 "wikilink") [분류:워너 뮤직 재팬의 음악가](https://ko.wikipedia.org/wiki/분류:워너_뮤직_재팬의_음악가 "wikilink")
+[TEAM_SHACHI](https://ko.wikipedia.org/wiki/분류:TEAM_SHACHI "wikilink") [분류:일본의 팝 음악 그룹](https://ko.wikipedia.org/wiki/분류:일본의_팝_음악_그룹 "wikilink") [분류:일본의 걸 그룹](https://ko.wikipedia.org/wiki/분류:일본의_걸_그룹 "wikilink") [분류:2011년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2011년_결성된_음악_그룹 "wikilink") [분류:스타더스트 프로모션](https://ko.wikipedia.org/wiki/분류:스타더스트_프로모션 "wikilink") [분류:2010년대 음악 그룹](https://ko.wikipedia.org/wiki/분류:2010년대_음악_그룹 "wikilink") [분류:일본의 아이돌 그룹](https://ko.wikipedia.org/wiki/분류:일본의_아이돌_그룹 "wikilink") [분류:일본의 댄스 음악 그룹](https://ko.wikipedia.org/wiki/분류:일본의_댄스_음악_그룹 "wikilink") [분류:일본어 음악 그룹](https://ko.wikipedia.org/wiki/분류:일본어_음악_그룹 "wikilink") [분류:4인조 음악 그룹](https://ko.wikipedia.org/wiki/분류:4인조_음악_그룹 "wikilink") [분류:워너 뮤직 재팬의 음악가](https://ko.wikipedia.org/wiki/분류:워너_뮤직_재팬의_음악가 "wikilink")

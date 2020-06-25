@@ -13,9 +13,9 @@
 
 스페셜 싱글앨범 [From.9](../Page/From.9.md "wikilink")으로 10월 10일 컴백을 했으며, 이와 함께 [장규리](../Page/장규리.md "wikilink")가 복귀하여 9인체제로 다시 활동하게 되었다.\[7\] 이번 싱글 타이틀곡 제목은 〈LOVE BOMB〉이며 두 번째 미니앨범 타이틀곡이었던 '두근두근'과 수록곡 '22세기 소녀'는 당시 함께 활동하지 못했던 장규리가 다시 합류하면서 아홉 명 완전체로 새롭게 녹음한 버전과 신곡 "DANCING QUEEN"과 "물들어"가 수록되었다.\[8\]
 
-### 2019: *FUN FACTORY*
+### 2019-2020: *FUN FACTORY*
 
-2019년 6월 4일 첫 번째 싱글앨범 《[FUN FACTORY](https://ko.wikipedia.org/wiki/FUN_FACTORY "wikilink")》으로 컴백하였다. 〈FUN FACTORY〉의 타이틀곡은 《FUN\!》이며 "LOVE RUM PUM PUM", "FLY HIGH"가 수록되어 있으며, "FLY HIGH"의 작사, 작곡에 멤버 송하영, 박지원이 참여하였다.\[9\]
+2019년 6월 4일 첫 번째 싱글앨범 《[FUN FACTORY](../Page/FUN_FACTORY.md "wikilink")》으로 컴백하였다. 〈FUN FACTORY〉의 타이틀곡은 《FUN\!》이며 "LOVE RUM PUM PUM", "FLY HIGH"가 수록되어 있으며, "FLY HIGH"의 작사, 작곡에 멤버 송하영, 박지원이 참여하였다.\[9\]
 
 ## 구성원
 
@@ -140,7 +140,7 @@
 <tbody>
 <tr class="odd">
 <td style="text-align: left;"><p><strong>1</strong></p></td>
-<td style="text-align: left;"><p><strong><a href="https://ko.wikipedia.org/wiki/FUN_FACTORY" title="wikilink">FUN FACTORY</a></strong></p>
+<td style="text-align: left;"><p><strong><a href="../Page/FUN_FACTORY.md" title="wikilink">FUN FACTORY</a></strong></p>
 <ul>
 <li>발매일: 2019년 6월 4일</li>
 </ul></td>
@@ -169,7 +169,7 @@
 | [MBC](https://ko.wikipedia.org/wiki/MBC "wikilink")   | [마이 리틀 텔레비전 V2](../Page/마이_리틀_텔레비전_V2.md "wikilink")                                     | 노지선                                                                                                        | 5월 4일 \~ 5월 18일   | 게스트                     |                      |
 | [KBS2](https://ko.wikipedia.org/wiki/KBS2 "wikilink") | [대국민 토크쇼 안녕하세요](../Page/대국민_토크쇼_안녕하세요.md "wikilink")                                     | 이새롬, 장규리                                                                                                   | 5월 13일            | 게스트                     |                      |
 | [MBC](https://ko.wikipedia.org/wiki/MBC "wikilink")   | [마이 리틀 텔레비전 V2](../Page/마이_리틀_텔레비전_V2.md "wikilink")                                     | 송하영                                                                                                        | 6월 15일 \~ 10월 21일 | 게스트                     |                      |
-| [MBC](https://ko.wikipedia.org/wiki/MBC "wikilink")   | [2019 추석특집 아이돌스타 선수권대회](https://ko.wikipedia.org/wiki/2019_추석특집_아이돌스타_선수권대회 "wikilink")  | 프로미스나인                                                                                                     | 9월 12일 \~ 9월 13일  | 참가자 (씨름 출전, 박지원 승마 금메달) |                      |
+| [MBC](https://ko.wikipedia.org/wiki/MBC "wikilink")   | [2019 추석특집 아이돌스타 선수권대회](../Page/2019_추석특집_아이돌스타_선수권대회.md "wikilink")                     | 프로미스나인                                                                                                     | 9월 12일 \~ 9월 13일  | 참가자 (씨름 출전, 박지원 승마 금메달) |                      |
 | [MBC](https://ko.wikipedia.org/wiki/MBC "wikilink")   | [복면가왕](https://ko.wikipedia.org/wiki/복면가왕 "wikilink")                                    | 송하영                                                                                                        | 11월 24일           | 참가자 (퀸카)                |                      |
 |                                                       |                                                                                          |                                                                                                            |                   |                         |                      |
 
@@ -249,7 +249,7 @@
   -
   -
   -
-[fromis_9](https://ko.wikipedia.org/wiki/분류:fromis_9 "wikilink") [분류:K-pop 음악 그룹](https://ko.wikipedia.org/wiki/분류:K-pop_음악_그룹 "wikilink") [분류:한국어 음악 그룹](https://ko.wikipedia.org/wiki/분류:한국어_음악_그룹 "wikilink") [분류:대한민국의 팝 음악 그룹](https://ko.wikipedia.org/wiki/분류:대한민국의_팝_음악_그룹 "wikilink") [분류:대한민국의 댄스 음악 그룹](https://ko.wikipedia.org/wiki/분류:대한민국의_댄스_음악_그룹 "wikilink") [분류:아이돌 그룹](https://ko.wikipedia.org/wiki/분류:아이돌_그룹 "wikilink") [분류:대한민국의 아이돌 그룹](https://ko.wikipedia.org/wiki/분류:대한민국의_아이돌_그룹 "wikilink") [분류:대한민국의 음악 그룹](https://ko.wikipedia.org/wiki/분류:대한민국의_음악_그룹 "wikilink") [분류:대한민국의 걸 그룹](https://ko.wikipedia.org/wiki/분류:대한민국의_걸_그룹 "wikilink") [분류:아이돌학교 참가자](https://ko.wikipedia.org/wiki/분류:아이돌학교_참가자 "wikilink") [분류:리얼리티 텔레비전 프로그램 우승자](https://ko.wikipedia.org/wiki/분류:리얼리티_텔레비전_프로그램_우승자 "wikilink") [분류:2010년대 음악 그룹](https://ko.wikipedia.org/wiki/분류:2010년대_음악_그룹 "wikilink") [분류:9인조 음악 그룹](https://ko.wikipedia.org/wiki/분류:9인조_음악_그룹 "wikilink") [분류:2017년 결성된 음악 그룹‎](https://ko.wikipedia.org/wiki/분류:2017년_결성된_음악_그룹‎ "wikilink") [분류:2018년 데뷔](https://ko.wikipedia.org/wiki/분류:2018년_데뷔 "wikilink") [분류:CJ ENM 음악가](https://ko.wikipedia.org/wiki/분류:CJ_ENM_음악가 "wikilink")
+[Fromis_9](https://ko.wikipedia.org/wiki/분류:Fromis_9 "wikilink") [분류:K-pop 음악 그룹](https://ko.wikipedia.org/wiki/분류:K-pop_음악_그룹 "wikilink") [분류:한국어 음악 그룹](https://ko.wikipedia.org/wiki/분류:한국어_음악_그룹 "wikilink") [분류:대한민국의 팝 음악 그룹](https://ko.wikipedia.org/wiki/분류:대한민국의_팝_음악_그룹 "wikilink") [분류:대한민국의 댄스 음악 그룹](https://ko.wikipedia.org/wiki/분류:대한민국의_댄스_음악_그룹 "wikilink") [분류:아이돌 그룹](https://ko.wikipedia.org/wiki/분류:아이돌_그룹 "wikilink") [분류:대한민국의 아이돌 그룹](https://ko.wikipedia.org/wiki/분류:대한민국의_아이돌_그룹 "wikilink") [분류:대한민국의 음악 그룹](https://ko.wikipedia.org/wiki/분류:대한민국의_음악_그룹 "wikilink") [분류:대한민국의 걸 그룹](https://ko.wikipedia.org/wiki/분류:대한민국의_걸_그룹 "wikilink") [분류:아이돌학교 참가자](https://ko.wikipedia.org/wiki/분류:아이돌학교_참가자 "wikilink") [분류:리얼리티 텔레비전 프로그램 우승자](https://ko.wikipedia.org/wiki/분류:리얼리티_텔레비전_프로그램_우승자 "wikilink") [분류:2010년대 음악 그룹](https://ko.wikipedia.org/wiki/분류:2010년대_음악_그룹 "wikilink") [분류:9인조 음악 그룹](https://ko.wikipedia.org/wiki/분류:9인조_음악_그룹 "wikilink") [분류:2017년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2017년_결성된_음악_그룹 "wikilink") [분류:CJ ENM 음악가](https://ko.wikipedia.org/wiki/분류:CJ_ENM_음악가 "wikilink")
 
 1.
 2.

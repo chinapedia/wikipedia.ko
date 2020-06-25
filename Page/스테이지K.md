@@ -1925,6 +1925,7 @@
 
 ## 같이 보기
 
+  - [커버댄스 페스티벌 K-POP 로드쇼 40120](../Page/커버댄스_페스티벌_K-POP_로드쇼_40120.md "wikilink") ([MBC](../Page/문화방송.md "wikilink"))
   - [오디션](https://ko.wikipedia.org/wiki/오디션 "wikilink")
   - [글로벌](https://ko.wikipedia.org/wiki/글로벌 "wikilink")
 
@@ -1934,4 +1935,4 @@
 
   -
   -
-[분류:JTBC의 예능 프로그램](https://ko.wikipedia.org/wiki/분류:JTBC의_예능_프로그램 "wikilink") [분류:대한민국의 음악 경연회](https://ko.wikipedia.org/wiki/분류:대한민국의_음악_경연회 "wikilink") [분류:대한민국의 음악 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:대한민국의_음악_텔레비전_프로그램 "wikilink") [분류:2010년대 대한민국의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:2010년대_대한민국의_텔레비전_프로그램 "wikilink") [분류:음악 경연 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:음악_경연_텔레비전_프로그램 "wikilink")
+[분류:JTBC의 예능 프로그램](https://ko.wikipedia.org/wiki/분류:JTBC의_예능_프로그램 "wikilink") [분류:대한민국의 음악 경연회](https://ko.wikipedia.org/wiki/분류:대한민국의_음악_경연회 "wikilink") [분류:대한민국의 음악 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:대한민국의_음악_텔레비전_프로그램 "wikilink") [분류:2010년대 대한민국의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:2010년대_대한민국의_텔레비전_프로그램 "wikilink") [분류:음악 경연 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:음악_경연_텔레비전_프로그램 "wikilink") [분류:2019년에 시작한 대한민국 TV 프로그램](https://ko.wikipedia.org/wiki/분류:2019년에_시작한_대한민국_TV_프로그램 "wikilink") [분류:2019년에 종료한 대한민국 TV 프로그램](https://ko.wikipedia.org/wiki/분류:2019년에_종료한_대한민국_TV_프로그램 "wikilink")

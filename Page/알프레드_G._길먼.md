@@ -9,7 +9,7 @@
   - 1984년 : [가드너 국제상](https://ko.wikipedia.org/wiki/가드너_국제상 "wikilink")
   - 1987년 : 리처드 런즈베리상
   - 1989년 : [루이자 그로스 호르위츠상](https://ko.wikipedia.org/wiki/루이자_그로스_호르위츠상 "wikilink")
-  - 1989년 : [앨버트 래스커 기초 의학 연구상](https://ko.wikipedia.org/wiki/앨버트_래스커_기초_의학_연구상 "wikilink")
+  - 1989년 : [앨버트 래스커 기초 의학 연구상](../Page/앨버트_래스커_기초_의학_연구상.md "wikilink")
   - 1994년 : 노벨 생리학·의학상
 
 ## 주요 논문

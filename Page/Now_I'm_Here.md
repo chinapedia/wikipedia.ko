@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Now I\'m Here](https://ko.wikipedia.org/wiki/Now_I\'m_Here).
 
 
-〈**Now I'm Here**〉는 [영국](../Page/영국.md "wikilink")의 록 밴드 [퀸의](../Page/퀸_\(밴드\).md "wikilink") 노래다. 세 번째 음반의 여섯 번째 곡인 《[Sheer Heart Attack](../Page/Sheer_Heart_Attack.md "wikilink")》(1974년)은 리드 기타리스트 [브라이언 메이가](../Page/브라이언_메이.md "wikilink") 작곡했다. 그 노래는 음색과 음색의 화음으로 유명하다. 영국에서 이 노래는 1975년에 싱글로 발매되었을 때 차트에서 11위에 올랐다.\[1\] 그 노래는 1974년 말부터 1986년까지 거의 모든 콘서트에서 공연된 라이브 인기곡이었다.\[2\]
+〈**Now I'm Here**〉는 [영국](../Page/영국.md "wikilink")의 록 밴드 [퀸의](../Page/퀸_\(밴드\).md "wikilink") 노래다. [브라이언 메이가](../Page/브라이언_메이.md "wikilink") 작곡한 이 곡은 퀸의 세 번째 음반 《[Sheer Heart Attack](../Page/Sheer_Heart_Attack.md "wikilink")》(1974년)의 여섯 번째 곡으로 수록되었고, 영화 《[보헤미안 랩소디](../Page/보헤미안_랩소디_\(영화\).md "wikilink")》의 사운드트랙에도 수록되었다. 특유의 음색과 화음으로 유명하며, 영국에서 1975년 싱글로 발매되었을 때 11위 차트에까지 올랐다.\[1\] 퀸은 월드 투어와 콘서트 등 라이브에서 1974년 말부터 1986년까지 연주한 인기곡이었으며,\[2\] [2020년](../Page/2020년.md "wikilink") 대한민국에서 열린 내한공연에서도 세트리스트에 포함되었다.
 
 ## 각주
 

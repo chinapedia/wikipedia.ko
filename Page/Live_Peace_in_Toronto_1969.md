@@ -19,7 +19,7 @@
 
 <!-- end list -->
 
-1.  "[Blue Suede Shoes](https://ko.wikipedia.org/wiki/Blue_Suede_Shoes "wikilink")" (칼 퍼킨스) – 3:50
+1.  "[Blue Suede Shoes](../Page/Blue_Suede_Shoes.md "wikilink")" (칼 퍼킨스) – 3:50
 2.  "[Money (That's What I Want)](https://ko.wikipedia.org/wiki/Money_\(That's_What_I_Want\) "wikilink")" (제니 브래드포드, 베리 고드) – 3:25
 3.  "[Dizzy, Miss Lizzy](https://ko.wikipedia.org/wiki/Dizzy,_Miss_Lizzy "wikilink")" (래리 윌리암스) – 3:24
 4.  "[Yer Blues](../Page/Yer_Blues.md "wikilink")" ([존 레논, 폴 매카트니](../Page/레논-매카트니.md "wikilink")) – 4:12

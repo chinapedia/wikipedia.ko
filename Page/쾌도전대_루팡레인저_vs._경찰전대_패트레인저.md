@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [쾌도전대 루팡레인저 vs. 경찰전대 패트레인저](https://ko.wikipedia.org/wiki/쾌도전대_루팡레인저_vs._경찰전대_패트레인저).
 
 
-《**쾌도전대 루팡레인저 vs. 경찰전대 패트레인저**》()는 [슈퍼 전대 시리즈](../Page/슈퍼_전대_시리즈.md "wikilink") 42번째 작품으로, 2018년 2월 11일에 [TV 아사히](../Page/TV_아사히.md "wikilink") 계열에서 방송했던 [특촬물](https://ko.wikipedia.org/wiki/특촬물 "wikilink") [텔레비전 드라마이다](../Page/텔레비전_드라마.md "wikilink").
+《**쾌도전대 루팡레인저 vs. 경찰전대 패트레인저**》()는 [슈퍼 전대 시리즈](../Page/슈퍼_전대_시리즈.md "wikilink") 42번째 작품으로, 2018년 2월 11일에 [TV 아사히](../Page/TV_아사히.md "wikilink") 계열에서 방송했던 [특촬물](https://ko.wikipedia.org/wiki/특촬물 "wikilink") [텔레비전 드라마이다](../Page/텔레비전_드라마.md "wikilink"). [대한민국](../Page/대한민국.md "wikilink")에서는 **파워레인저 루팡포스 VS 패트롤포스**라는 이름으로 [2020년](../Page/2020년.md "wikilink") [6월](../Page/6월.md "wikilink") 또는 [7월](../Page/7월.md "wikilink")에 방영예정이다.
 
 ## 줄거리
 

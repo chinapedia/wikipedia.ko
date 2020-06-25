@@ -55,6 +55,10 @@
 | 1기 | YTN 뉴스의 현장 | [1995년](../Page/1995년.md "wikilink") [3월 1일](../Page/3월_1일.md "wikilink") \~ [2013년](../Page/2013년.md "wikilink") [11월 17일](../Page/11월_17일.md "wikilink") |
 | 2기 | 뉴스N이슈      | [2013년](../Page/2013년.md "wikilink") [11월 18일](../Page/11월_18일.md "wikilink") \~ **현재**                                                                    |
 
+## 역대 앵커
+
+최수호, 최영주 오동건, 최영주 오동건, 김정아 김정아, 오동건
+
 ## 경쟁 뉴스 프로그램
 
   - [KBS 뉴스 12](../Page/KBS_뉴스_12.md "wikilink") (KBS 1TV)

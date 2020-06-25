@@ -478,7 +478,7 @@
 <tr class="even">
 <td></td>
 <td><p>1</p></td>
-<td><p><a href="../Page/화성_IBK기업은행_알토스.md" title="wikilink">화성 IBK기업은행 알토스</a>{{·}}<a href="../Page/김희진_(배구_선수).md" title="wikilink">김희진</a>, <a href="https://ko.wikipedia.org/wiki/이나연" title="wikilink">이나연</a></p></td>
+<td><p><a href="../Page/화성_IBK기업은행_알토스.md" title="wikilink">화성 IBK기업은행 알토스</a>{{·}}<a href="../Page/김희진_(배구_선수).md" title="wikilink">김희진</a>, <a href="../Page/이나연.md" title="wikilink">이나연</a></p></td>
 </tr>
 <tr class="odd">
 <td></td>

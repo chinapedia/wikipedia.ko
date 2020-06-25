@@ -86,6 +86,10 @@
 
   - [2018년](../Page/2018년.md "wikilink") [9월 1일](../Page/9월_1일.md "wikilink") : [자카르타-팔렘방 아시안 게임](../Page/2018년_아시안_게임.md "wikilink") [대한민국](../Page/대한민국_야구_국가대표팀.md "wikilink") vs [일본](../Page/일본.md "wikilink") 야구 결승으로 인해 결방되었다.
 
+## 참고 사항
+
+  - 《[무한도전](../Page/무한도전.md "wikilink")》 이후 이어진 [토요일](../Page/토요일.md "wikilink") 저녁에 징크스를 면치 못했다.
+
 ## 동시간대 경쟁 프로그램
 
   - [빅픽처패밀리](../Page/빅픽처패밀리.md "wikilink") (SBS TV)
@@ -98,7 +102,7 @@
 
   - [MBC 뜻밖의 Q 홈페이지](https://web.archive.org/web/20180424192036/http://www.imbc.com/broad/tv/ent/QuizQ/index.html)
 
-[분류:문화방송의 예능 프로그램](https://ko.wikipedia.org/wiki/분류:문화방송의_예능_프로그램 "wikilink") [분류:2018년 폐지](https://ko.wikipedia.org/wiki/분류:2018년_폐지 "wikilink") [분류:2018년에 시작한 대한민국 TV 프로그램](https://ko.wikipedia.org/wiki/분류:2018년에_시작한_대한민국_TV_프로그램 "wikilink") [분류:2018년에 종료한 대한민국 TV 프로그램](https://ko.wikipedia.org/wiki/분류:2018년에_종료한_대한민국_TV_프로그램 "wikilink")
+[분류:문화방송의 예능 프로그램](https://ko.wikipedia.org/wiki/분류:문화방송의_예능_프로그램 "wikilink") [분류:2018년에 시작한 대한민국 TV 프로그램](https://ko.wikipedia.org/wiki/분류:2018년에_시작한_대한민국_TV_프로그램 "wikilink") [분류:2018년에 종료한 대한민국 TV 프로그램](https://ko.wikipedia.org/wiki/분류:2018년에_종료한_대한민국_TV_프로그램 "wikilink")
 
 1.  [TNmS 멀티미디어 홈페이지](http://www.tnms.tv)
 2.  [닐슨코리아 리서치 홈페이지](http://www.agbnielsen.co.kr/)

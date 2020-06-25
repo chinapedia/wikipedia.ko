@@ -15,7 +15,7 @@
 
   - [AmBisome Summaries of Product Characteristics (United Kingdom)](http://www.medicines.org.uk/emc/medicine/1236)
 
-[분류:항진균제](https://ko.wikipedia.org/wiki/분류:항진균제 "wikilink") [분류:세계 보건 기구 필수 의약품](https://ko.wikipedia.org/wiki/분류:세계_보건_기구_필수_의약품 "wikilink") [분류:항원충제](https://ko.wikipedia.org/wiki/분류:항원충제 "wikilink") [분류:폴리엔](https://ko.wikipedia.org/wiki/분류:폴리엔 "wikilink")
+[분류:항진균제](https://ko.wikipedia.org/wiki/분류:항진균제 "wikilink") [분류:세계 보건 기구 필수 의약품](https://ko.wikipedia.org/wiki/분류:세계_보건_기구_필수_의약품 "wikilink") [분류:항원충제](https://ko.wikipedia.org/wiki/분류:항원충제 "wikilink") [분류:폴리엔](https://ko.wikipedia.org/wiki/분류:폴리엔 "wikilink") [분류:길리어드 사이언스](https://ko.wikipedia.org/wiki/분류:길리어드_사이언스 "wikilink")
 
 1.
 2.

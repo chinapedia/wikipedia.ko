@@ -37,14 +37,14 @@
   - 《[자백](../Page/자백_\(드라마\).md "wikilink")》: 2019년 3월 23일 \~ 2019년 5월 12일
   - 《[아스달 연대기](../Page/아스달_연대기.md "wikilink")》: 2019년 6월 1일 \~ 2019년 7월 7일, 2019년 9월 7일 \~ 2019년 9월 22일
   - 《[호텔 델루나](../Page/호텔_델루나.md "wikilink")》: 2019년 7월 13일 \~ 2019년 9월 1일
-  - 《[날 녹여주오](https://ko.wikipedia.org/wiki/날_녹여주오 "wikilink")》: 2019년 9월 28일 \~ 2019년 11월 17일
-  - 《[사랑의 불시착](https://ko.wikipedia.org/wiki/사랑의_불시착 "wikilink")》: 2019년 12월 14일 \~ 2020년 2월 16일
+  - 《[날 녹여주오](../Page/날_녹여주오.md "wikilink")》: 2019년 9월 28일 \~ 2019년 11월 17일
+  - 《[사랑의 불시착](../Page/사랑의_불시착.md "wikilink")》: 2019년 12월 14일 \~ 2020년 2월 16일
 
 #### [2020년](../Page/2020년.md "wikilink")
 
-  - 《[하이바이, 마마\!](https://ko.wikipedia.org/wiki/하이바이,_마마! "wikilink")》 : [2020년](../Page/2020년.md "wikilink") [2월 22일](../Page/2월_22일.md "wikilink") \~ [2020년](../Page/2020년.md "wikilink") [4월 19일](../Page/4월_19일.md "wikilink")
-  - 《[화양연화 - 삶이 꽃이 되는 순간](https://ko.wikipedia.org/wiki/화양연화_\(드라마\) "wikilink")》 : [2020년](../Page/2020년.md "wikilink") [4월 25일](../Page/4월_25일.md "wikilink") \~ **현재**
-  - 《[사이코지만 괜찮아](https://ko.wikipedia.org/wiki/사이코지만_괜찮아 "wikilink")》 : [2020년](../Page/2020년.md "wikilink") [6월 20일](../Page/6월_20일.md "wikilink") \~
+  - 《[하이바이, 마마\!](https://ko.wikipedia.org/wiki/하이바이,_마마! "wikilink")》 : [2020년](../Page/2020년.md "wikilink") [2월 22일](../Page/2월_22일.md "wikilink") \~ 2020년 4월 19일
+  - 《[화양연화 - 삶이 꽃이 되는 순간](https://ko.wikipedia.org/wiki/화양연화_\(드라마\) "wikilink")》 : 2020년 4월 25일 \~ **현재**
+  - 《[사이코지만 괜찮아](https://ko.wikipedia.org/wiki/사이코지만_괜찮아 "wikilink")》 : 2020년 6월 20일 \~
 
 ## 같이 보기
 

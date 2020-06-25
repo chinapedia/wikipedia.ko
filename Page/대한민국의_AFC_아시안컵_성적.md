@@ -49,7 +49,7 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/1996년_AFC_아시안컵" title="wikilink">1996년</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/2000년_AFC_아시안컵" title="wikilink">2000년</a></p></td>
+<td><p><a href="../Page/2000년_AFC_아시안컵.md" title="wikilink">2000년</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/2004년_AFC_아시안컵" title="wikilink">2004년</a></p></td>
@@ -706,7 +706,7 @@
 
 ### 8강전
 
-## [2000년 AFC 아시안컵](https://ko.wikipedia.org/wiki/2000년_AFC_아시안컵 "wikilink")
+## [2000년 AFC 아시안컵](../Page/2000년_AFC_아시안컵.md "wikilink")
 
 ### B조
 
@@ -1221,7 +1221,7 @@
 |                                                            |            |                                              |
 
   - **상대 전적 우세** : [중국](https://ko.wikipedia.org/wiki/중국_축구_국가대표팀 "wikilink"), [아랍에미리트](../Page/아랍에미리트_축구_국가대표팀.md "wikilink")(각 3승 1무), [인도네시아](../Page/인도네시아_축구_국가대표팀.md "wikilink")(3승), [이스라엘](../Page/이스라엘_축구_국가대표팀.md "wikilink"), [바레인](../Page/바레인_축구_국가대표팀.md "wikilink")(각 2승 1패), [우즈베키스탄](../Page/우즈베키스탄_축구_국가대표팀.md "wikilink"), [베트남](../Page/베트남_축구_국가대표팀.md "wikilink")(각 2승), [일본](https://ko.wikipedia.org/wiki/일본_축구_국가대표팀 "wikilink"), [이라크](../Page/이라크_축구_국가대표팀.md "wikilink")(각 1승 2무), [홍콩](../Page/홍콩_축구_국가대표팀.md "wikilink")(1승 1무), [오만](../Page/오만_축구_국가대표팀.md "wikilink"), [조선민주주의인민공화국](../Page/조선민주주의인민공화국_축구_국가대표팀.md "wikilink"), [중화 타이베이](../Page/중화_타이베이_축구_국가대표팀.md "wikilink"), [캄보디아](../Page/캄보디아_축구_국가대표팀.md "wikilink"), [키르기스스탄](../Page/키르기스스탄_축구_국가대표팀.md "wikilink"), [필리핀](../Page/필리핀_축구_국가대표팀.md "wikilink")(각 1승)
-  - **상대 전적 호각세** : [이란](../Page/이란_축구_국가대표팀.md "wikilink")(3승 1무 3패), [카타르](../Page/카타르_축구_국가대표팀.md "wikilink")(2승 2패) [오스트레일리아](../Page/오스트레일리아_축구_국가대표팀.md "wikilink")(1승 1무 1패), [인도](../Page/인도_축구_국가대표팀.md "wikilink")(1승 1패), [요르단](../Page/요르단_축구_국가대표팀.md "wikilink"), [태국](../Page/태국_축구_국가대표팀.md "wikilink"), [말레이시아](../Page/말레이시아_축구_국가대표팀.md "wikilink") (각 1무)
+  - **상대 전적 동률** : [이란](../Page/이란_축구_국가대표팀.md "wikilink")(3승 1무 3패), [카타르](../Page/카타르_축구_국가대표팀.md "wikilink")(2승 2패) [오스트레일리아](../Page/오스트레일리아_축구_국가대표팀.md "wikilink")(1승 1무 1패), [인도](../Page/인도_축구_국가대표팀.md "wikilink")(1승 1패), [요르단](../Page/요르단_축구_국가대표팀.md "wikilink"), [태국](../Page/태국_축구_국가대표팀.md "wikilink"), [말레이시아](../Page/말레이시아_축구_국가대표팀.md "wikilink") (각 1무)
   - **상대 전적 열세** : [쿠웨이트](../Page/쿠웨이트_축구_국가대표팀.md "wikilink")(3승 1무 4패), [사우디아라비아](../Page/사우디아라비아_축구_국가대표팀.md "wikilink")(3무 1패), [시리아](../Page/시리아_축구_국가대표팀.md "wikilink")(1패)
 
 ## 각주

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [러시안 룰렛 \(Russian Roulette\)](https://ko.wikipedia.org/wiki/러시안_룰렛_\(Russian_Roulette\)).
 
 
-"**러시안 룰렛 (Russian Roulette)**"은 [대한민국](../Page/대한민국.md "wikilink") [걸 그룹](../Page/걸_그룹.md "wikilink") [레드벨벳의](../Page/레드벨벳_\(음악_그룹\).md "wikilink") 노래로, 세 번째 음반인 [Russian Roulette의](../Page/Russian_Roulette_\(레드벨벳의_EP\).md "wikilink") 타이틀곡이기도 했다. 조윤경이 작사한 이 노래는 가사에서 [러시안 룰렛이라는](../Page/러시안_룰렛.md "wikilink") 게임에 비유해 누군가의 마음을 빼앗는 과정을 나타내고 있다. 2016년 9월 7일 [SM 엔터테인먼트는](../Page/SM_엔터테인먼트.md "wikilink") 뮤직 비디오와 함께 이 노래를 발표했다.
+〈**러시안 룰렛 (Russian Roulette)**〉은 [대한민국](../Page/대한민국.md "wikilink") [걸 그룹](../Page/걸_그룹.md "wikilink") [레드벨벳의](../Page/레드벨벳_\(음악_그룹\).md "wikilink") 노래로, 세 번째 음반인 [Russian Roulette의](../Page/Russian_Roulette_\(레드벨벳의_EP\).md "wikilink") 타이틀곡이기도 했다. 조윤경이 작사한 이 노래는 가사에서 [러시안 룰렛이라는](../Page/러시안_룰렛.md "wikilink") 게임에 비유해 누군가의 마음을 빼앗는 과정을 나타내고 있다. 2016년 9월 7일 [SM 엔터테인먼트는](../Page/SM_엔터테인먼트.md "wikilink") 뮤직 비디오와 함께 이 노래를 발표했다.
 
 러시안 룰렛은 발매 이후 국제 및 대한민국의 비평가들 사이에서 일반적으로 호의적인 평가를 받았다. [심슨 가족으로부터](../Page/심슨_가족.md "wikilink") 어느 정도 영감을 받은 독특한 뮤직비디오는 주목을 받았다. 뮤직 비디오에서 폭력적이고, 레드벨벳 멤버들이 서로 밝고 명랑하고 재미로 가득한 치명적인 장난을 치는 것은 [더 잇치 앤드 스크래치 쇼의](https://ko.wikipedia.org/wiki/더_잇치_앤드_스크래치_쇼 "wikilink") 장면으로 가려주었다.
 
@@ -35,9 +35,13 @@
 
 하지만 말레이시아 신문인 더 스타의 체스터 친은 이 싱글과 앨범이 최신 EP *[The Velvet](../Page/The_Velvet.md "wikilink")*의 뛰어나면서도 실험적인 바이브에 비해 무언가 실망스러웠다고 말했다. *The Velvet*은 같은 해에 발매되었다. 그는 전염성 있는 훅과 발랄한 리듬이 어우러진 즐겁고 화려한 댄스팝이라 이 곡을 칭했지만, "Ice Cream Cake"과 "Dumb Dumb"과 같은 다른 싱글들에 비해 엣지와 특징이 부족했다고 말했다.\[26\]
 
+## 언론에서의 활용
+
+2019년 싱글 "[짐살라빔 (Zimzalabim)](https://ko.wikipedia.org/wiki/짐살라빔_\(Zimzalabim\) "wikilink")"과 함께, 2020년 [트롤: 월드 투어의](https://ko.wikipedia.org/wiki/트롤:_월드_투어 "wikilink") 댄스 배틀 장면에서 러시안 룰렛이 등장했다. 이 곡은 레드벨벳이 "K-Pop Gang"으로 출연할 때 등장하는 주제가이기도 하다.\[27\]
+
 ## 각주
 
-[분류:2016년 노래](https://ko.wikipedia.org/wiki/분류:2016년_노래 "wikilink") [분류:레드벨벳의 노래](https://ko.wikipedia.org/wiki/분류:레드벨벳의_노래 "wikilink")
+[분류:2016년 싱글](https://ko.wikipedia.org/wiki/분류:2016년_싱글 "wikilink") [분류:레드벨벳의 싱글](https://ko.wikipedia.org/wiki/분류:레드벨벳의_싱글 "wikilink")
 
 1.
 2.
@@ -65,3 +69,4 @@
 24.
 25.
 26.
+27.

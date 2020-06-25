@@ -9,7 +9,7 @@
 
 <references/>
 
-[분류:중국의 음악 그룹](https://ko.wikipedia.org/wiki/분류:중국의_음악_그룹 "wikilink") [분류:2016년 데뷔](https://ko.wikipedia.org/wiki/분류:2016년_데뷔 "wikilink") [분류:2015년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2015년_결성된_음악_그룹 "wikilink")
+[분류:중국의 음악 그룹](https://ko.wikipedia.org/wiki/분류:중국의_음악_그룹 "wikilink") [분류:2015년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2015년_결성된_음악_그룹 "wikilink")
 
 1.
 2.

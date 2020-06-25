@@ -7,7 +7,7 @@
 
 [폴 매카트니는](../Page/폴_매카트니.md "wikilink") 영국에서 [하이라이프](https://ko.wikipedia.org/wiki/하이라이프 "wikilink")와 [레게](../Page/레게.md "wikilink") 음악이 인기를 얻기 시작할 즈음에 이 곡을 썼다. 시작곡은 "Desmond has a barrow in the market-place (데스먼드는 시장에서 손수레를 끄는 남자고)"으로 최초로 영국 투어를 성공적으로 마친 세계적으로 유명한 [자메이카](../Page/자메이카.md "wikilink") [스카](https://ko.wikipedia.org/wiki/스카 "wikilink")와 [레게](../Page/레게.md "wikilink") 음악가인 [데스먼드 데커에](../Page/데스먼드_데커.md "wikilink") 대한 언급이었다.\[1\] 태그 라인 인 "ob-la-di, ob-la-da, life goes on, brah (인생은 흘러가는거야)"은 매카트니의 지인인 [나이지리아](../Page/나이지리아.md "wikilink") 콩가 연주자 지미 스캇이 사용한 표현이다.\[2\] 대중 문화에서 사용된 또 다른 용어의 예로, [메리 루 윌리엄스가](https://ko.wikipedia.org/wiki/메리_루_윌리엄스 "wikilink") [디지 길레스피를](../Page/디지_길레스피.md "wikilink") 위해 작곡한 1945년 노래 〈In the Land of Oo-Bla-Dee〉가 있다 (《Dizzy Digs Paris》에서 들을 수 있다).
 
-이 노래는 [내림나장조](https://ko.wikipedia.org/wiki/내림나장조 "wikilink")로 되어 있으며 [박자표](https://ko.wikipedia.org/wiki/박자표 "wikilink")로 되어 있었다. 《[Anthology 3](https://ko.wikipedia.org/wiki/Anthology_3 "wikilink")》 발행된 얼터너티브 버전은 [가장조](https://ko.wikipedia.org/wiki/가장조 "wikilink")이다.
+이 노래는 [내림나장조](https://ko.wikipedia.org/wiki/내림나장조 "wikilink")로 되어 있으며 [박자표](https://ko.wikipedia.org/wiki/박자표 "wikilink")로 되어 있었다. 《[Anthology 3](../Page/Anthology_3.md "wikilink")》 발행된 얼터너티브 버전은 [가장조](https://ko.wikipedia.org/wiki/가장조 "wikilink")이다.
 
 ## 참여 인원
 

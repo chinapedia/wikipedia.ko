@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [관악마키니FS](https://ko.wikipedia.org/wiki/관악마키니FS).
 
 
-**관악마키니FS**(Gwanak Makini Futsal Club)는 [서울특별시 관악구를](https://ko.wikipedia.org/wiki/관악구 "wikilink") 연고로 하며 대한민국 풋살 2부리그 [FK 드림리그에](../Page/FK_드림리그.md "wikilink") 참가하는 풋살 구단이다.
+**관악필드스톤FS**(Gwanak Field Stone Futsal Club)는 [서울특별시 관악구를](https://ko.wikipedia.org/wiki/관악구 "wikilink") 연고로 하며 대한민국 풋살 2부리그 [FK 드림리그에](../Page/FK_드림리그.md "wikilink") 참가하는 풋살 구단이다.
 
 ## 역사
 
-2018시즌 [FK컵](../Page/FK컵.md "wikilink")에 참가하며 이름을 알린 관악마키니FS는 2018-19시즌부터 [FK 드림리그](../Page/FK_드림리그.md "wikilink") 참가를 확정했다.
+2018시즌 [FK컵](../Page/FK컵.md "wikilink")에 참가하며 이름을 알린 관악마키니FS는 2018-19시즌부터 [FK 드림리그](../Page/FK_드림리그.md "wikilink") 참가를 확정하였으며 2019-20 리그 참가 전 관악필드스톤FS로 팀 이름을 변경하여 참여하였다.
 
 ## 코칭스태프
 
@@ -58,6 +58,7 @@
 | 시즌      | 경기 | 승 | 무 | 패  | 득  | 실   | 차    | 승점 | 순위 |
 | ------- | -- | - | - | -- | -- | --- | ---- | -- | -- |
 | 2018-19 | 15 | 1 | 1 | 13 | 52 | 100 | \-48 | 4  | 6위 |
+| 2019-20 | 11 | 2 | 3 | 6  | 42 | 72  | \-30 | 9  | 4위 |
 
 ## 각주
 

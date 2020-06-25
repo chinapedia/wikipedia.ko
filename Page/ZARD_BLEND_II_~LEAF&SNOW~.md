@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ZARD BLEND II \~LEAF\&SNOW\~](https://ko.wikipedia.org/wiki/ZARD_BLEND_II_\~LEAF\&SNOW\~).
 
 
-《**ZARD BLEND II \~LEAF\&SNOW\~**》는 일본의 밴드 [ZARD](../Page/ZARD.md "wikilink")의 두 번째 셀렉션 음반으로, 2001년 11월 21일 발매되었다. ([CD](../Page/콤팩트_디스크.md "wikilink"): JBCJ-9002) 표지는 [도요코로 정에](https://ko.wikipedia.org/wiki/도요코로_정 "wikilink") 있는 유명한 느릅나무다.
+《**ZARD BLEND II \~LEAF\&SNOW\~**》는 일본의 밴드 [ZARD](../Page/ZARD.md "wikilink")의 두 번째 셀렉션 음반으로, 2001년 11월 21일 발매되었다. ([CD](../Page/콤팩트_디스크.md "wikilink"): JBCJ-9002) 표지는 [도요코로정](../Page/도요코로정.md "wikilink")에 있는 유명한 느릅나무다.
 
 ## 수록곡
 

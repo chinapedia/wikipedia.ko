@@ -23,7 +23,7 @@ NPA은 1969년 3월 29일 필리핀 공산당(CPP)로부터 분리되어 나온 
 
 1969년부터 2008년까지 필리핀 내 공산주의 반란으로 대략 43,000명 이상의 사상자가 발생했다.\[13\]
 
-## 더 보기
+## 같이 보기
 
   - [필리핀 CPP-NPA-NDF 반란의 연표](https://ko.wikipedia.org/wiki/필리핀_CPP-NPA-NDF_반란의_연표 "wikilink")
   - [마오주의](https://ko.wikipedia.org/wiki/마오주의 "wikilink")

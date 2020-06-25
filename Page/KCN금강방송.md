@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [KCN금강방송](https://ko.wikipedia.org/wiki/KCN금강방송).
 
 
-**금강방송**주식회사는 [대한민국](../Page/대한민국.md "wikilink")의 [경상북도](https://ko.wikipedia.org/wiki/경상북도 "wikilink") [대구광역시](../Page/대구광역시.md "wikilink"), [경시북](../Page/대구광역시.md "wikilink") 지역 [케이블 TV](../Page/케이블_텔레비전.md "wikilink") 사업자이다. 1997년 설립되었으며, 디지털케이블TV와 초고속인터넷, 인터넷전화 서비스를 제공하고 있다. 현재 지역 시청자는 익산·군산 60만 인구, 20만 가구로 추산하고 있다. 지역채널 1번과 직사채널 22번을 직접 송출하고 있으며, 대표적인 지역채널 프로그램은 KCN뉴스프로그램, 예능프로그램, 시사교양프로그램 등이 있으며, 해마다 다큐멘터리와 지역축제 등 다양한 프로그램을 자체 제작해 방송하고 있다.
+**KCN금강방송**주식회사는 [대한민국](../Page/대한민국.md "wikilink")의 [경상북도](https://ko.wikipedia.org/wiki/경상북도 "wikilink") [대구광역시](../Page/대구광역시.md "wikilink"), [경시북](../Page/대구광역시.md "wikilink") 지역 [케이블 TV](../Page/케이블_텔레비전.md "wikilink") 사업자이다. 1997년 설립되었으며, 디지털케이블TV와 초고속인터넷, 인터넷전화 서비스를 제공하고 있다. 현재 지역 시청자는 익산·군산 60만 인구, 20만 가구로 추산하고 있다. 지역채널 1번과 직사채널 22번을 직접 송출하고 있으며, 대표적인 지역채널 프로그램은 KCN뉴스프로그램, 예능프로그램, 시사교양프로그램 등이 있으며, 해마다 다큐멘터리와 지역축제 등 다양한 프로그램을 자체 제작해 방송하고 있다.
 
 ## 연혁
 
@@ -78,7 +78,7 @@
   - 29-1번 [JEI 재능TV](https://ko.wikipedia.org/wiki/JEI_재능TV "wikilink")
   - 30-1번 [MBC 드라마넷](../Page/MBC_드라마넷.md "wikilink")
   - 31-1번 [SBS 플러스](../Page/SBS_플러스.md "wikilink")
-  - 32-1번 [CNTV](https://ko.wikipedia.org/wiki/CNTV "wikilink")
+  - 32-1번 [CNTV](../Page/CNTV.md "wikilink")
   - 33-1번 [MBC Every1](../Page/MBC_에브리원.md "wikilink")
   - 34-1번 [JTBC2](../Page/JTBC2.md "wikilink")
   - 35-1번 [MBC드라마넷](https://ko.wikipedia.org/wiki/MBC드라마넷 "wikilink")
@@ -97,7 +97,7 @@
   - 48-1번 [MBC M](https://ko.wikipedia.org/wiki/MBC_M "wikilink")
   - 49-1번 [온스타일](https://ko.wikipedia.org/wiki/온스타일 "wikilink")
   - 50-1번 [FTV](https://ko.wikipedia.org/wiki/FTV "wikilink")
-  - 51-1번 [바둑TV](https://ko.wikipedia.org/wiki/바둑TV "wikilink")
+  - 51-1번 [바둑TV](../Page/바둑TV.md "wikilink")
   - 52-1번 [올'리브](https://ko.wikipedia.org/wiki/올'리브 "wikilink")
   - 52-2번 [SmileTV Plus](../Page/SmileTV_Plus.md "wikilink") HD
   - 53-1번 [K Star](https://ko.wikipedia.org/wiki/K_Star "wikilink")
@@ -158,7 +158,7 @@
   - 46번 - [KBS 드라마](../Page/KBS_드라마.md "wikilink") HD
   - 47번 - [SBS 플러스](../Page/SBS_플러스.md "wikilink") HD
   - 48번 - [드라맥스](../Page/드라맥스.md "wikilink") HD
-  - 49번 - [CNTV](https://ko.wikipedia.org/wiki/CNTV "wikilink") HD
+  - 49번 - [CNTV](../Page/CNTV.md "wikilink") HD
   - 51번 - 채널칭 HD
   - 52번 - [드라마큐브](../Page/드라마큐브.md "wikilink") HD
   - 333번 - 씨네프 HD
@@ -190,7 +190,7 @@
   - 115번 - [IB SPORTS](../Page/IB_스포츠_\(텔레비전_채널\).md "wikilink") HD
   - 116번 - [골프 채널](https://ko.wikipedia.org/wiki/골프_채널 "wikilink") HD
   - 776번 - [K-바둑](../Page/K-바둑.md "wikilink") HD
-  - 777번 - [바둑TV](https://ko.wikipedia.org/wiki/바둑TV "wikilink") HD
+  - 777번 - [바둑TV](../Page/바둑TV.md "wikilink") HD
   - 778번 - [FTV](https://ko.wikipedia.org/wiki/FTV "wikilink") HD
   - 781번 - [스카이트래블](https://ko.wikipedia.org/wiki/스카이트래블 "wikilink") HD
   - 346번 - [S-SPORTS](../Page/STAR_TV.md "wikilink")
@@ -283,7 +283,7 @@
   - 18번 - [MBN](../Page/매일방송.md "wikilink") HD
   - 17번 - [채널A](../Page/채널A.md "wikilink") HD
   - 19번 - [TV조선](https://ko.wikipedia.org/wiki/조선방송 "wikilink") HD
-  - 228번 - [아리랑TV](https://ko.wikipedia.org/wiki/한국국제방송교류재단 "wikilink") HD
+  - 228번 - [아리랑국제방송](../Page/아리랑국제방송.md "wikilink") HD
   - 340번 - [중화TV](https://ko.wikipedia.org/wiki/중화TV "wikilink") HD
   - 341번 - [채널J](../Page/채널J.md "wikilink") HD
   - 890번 - [채널차이나](https://ko.wikipedia.org/wiki/채널차이나 "wikilink") HD

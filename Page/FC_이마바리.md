@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [FC 이마바리](https://ko.wikipedia.org/wiki/FC_이마바리).
 
 
-**FC 이마바리**( Football Club Imabari)는 [에히메현](../Page/에히메현.md "wikilink"), [이마바리 시에](https://ko.wikipedia.org/wiki/이마바리_시 "wikilink") 위치한 [일본](../Page/일본.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다. [2018년](../Page/2018년.md "wikilink") 현재 [일본](../Page/일본.md "wikilink") [일본 풋볼 리그에](../Page/일본_풋볼_리그.md "wikilink") 참여하고 있다.
+**FC 이마바리**( Football Club Imabari)는 [에히메현](../Page/에히메현.md "wikilink"), [이마바리시](../Page/이마바리시.md "wikilink")에 위치한 [일본](../Page/일본.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다. [2018년](../Page/2018년.md "wikilink") 현재 [일본](../Page/일본.md "wikilink") [일본 풋볼 리그에](../Page/일본_풋볼_리그.md "wikilink") 참여하고 있다.
 
 ## 역사
 

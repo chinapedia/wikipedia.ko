@@ -5,7 +5,7 @@
 
 ## 드레드노트
 
-영국 최초의 핵잠수함은 [HMS 드레드노트 (S101)인데](https://ko.wikipedia.org/wiki/HMS_드레드노트_\(S101\) "wikilink"), 78 MW 열출력의 미국 [웨스팅하우스](https://ko.wikipedia.org/wiki/웨스팅하우스 "wikilink") [S5W 원자로](https://ko.wikipedia.org/wiki/S5W_원자로 "wikilink") 1기를 탑재했다.
+영국 최초의 핵잠수함은 [HMS 드레드노트 (S101)인데](https://ko.wikipedia.org/wiki/HMS_드레드노트_\(S101\) "wikilink"), 78 MW 열출력의 미국 [웨스팅하우스](../Page/웨스팅하우스.md "wikilink") [S5W 원자로](https://ko.wikipedia.org/wiki/S5W_원자로 "wikilink") 1기를 탑재했다.
 
 ## PWR1
 

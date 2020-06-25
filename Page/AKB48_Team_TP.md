@@ -833,8 +833,8 @@ AKB48 Team TP 총캡틴<br />
   - [MNL48](../Page/MNL48.md "wikilink")
   - [AKB48 Team SH](../Page/AKB48_Team_SH.md "wikilink")
   - [SGO48](../Page/SGO48.md "wikilink")
-  - [CGM48](https://ko.wikipedia.org/wiki/CGM48 "wikilink")
-  - [DEL48](https://ko.wikipedia.org/wiki/DEL48 "wikilink")
+  - [CGM48](../Page/CGM48.md "wikilink")
+  - [DEL48](../Page/DEL48.md "wikilink")
   - [MUB48](../Page/MUB48.md "wikilink")
 
 ## 각주
@@ -867,7 +867,7 @@ AKB48 Team TP 총캡틴<br />
 
   - [TPE48 공식 유튜브 채널](https://www.youtube.com/channel/UCumoYG0Ijzya5vcry8szlzQ)
 
-[AKB48_Team_TP](https://ko.wikipedia.org/wiki/분류:AKB48_Team_TP "wikilink") [분류:타이완의 음악 그룹‎](https://ko.wikipedia.org/wiki/분류:타이완의_음악_그룹‎ "wikilink") [분류:타이완의 걸 그룹](https://ko.wikipedia.org/wiki/분류:타이완의_걸_그룹 "wikilink") [분류:10인조 이상 음악 그룹](https://ko.wikipedia.org/wiki/분류:10인조_이상_음악_그룹 "wikilink") [분류:2010년대 음악 그룹](https://ko.wikipedia.org/wiki/분류:2010년대_음악_그룹 "wikilink") [분류:2018년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2018년_결성된_음악_그룹 "wikilink") [분류:2018년 데뷔](https://ko.wikipedia.org/wiki/분류:2018년_데뷔 "wikilink") [분류:유니버설 뮤직 그룹 음악가](https://ko.wikipedia.org/wiki/분류:유니버설_뮤직_그룹_음악가 "wikilink")
+[AKB48_Team_TP](https://ko.wikipedia.org/wiki/분류:AKB48_Team_TP "wikilink") [분류:타이완의 음악 그룹](https://ko.wikipedia.org/wiki/분류:타이완의_음악_그룹 "wikilink") [분류:타이완의 걸 그룹](https://ko.wikipedia.org/wiki/분류:타이완의_걸_그룹 "wikilink") [분류:10인조 이상 음악 그룹](https://ko.wikipedia.org/wiki/분류:10인조_이상_음악_그룹 "wikilink") [분류:2010년대 음악 그룹](https://ko.wikipedia.org/wiki/분류:2010년대_음악_그룹 "wikilink") [분류:2018년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2018년_결성된_음악_그룹 "wikilink") [분류:유니버설 뮤직 그룹 음악가](https://ko.wikipedia.org/wiki/분류:유니버설_뮤직_그룹_음악가 "wikilink")
 
 1.
 2.

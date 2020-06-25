@@ -28,6 +28,6 @@
 ## 같이 보기
 
   - [타임머신](https://ko.wikipedia.org/wiki/타임머신_\(MBC\) "wikilink")
-  - [휴먼TV 즐거운 수요일](https://ko.wikipedia.org/wiki/휴먼TV_즐거운_수요일 "wikilink") - 전작
+  - [휴먼TV 즐거운 수요일](../Page/휴먼TV_즐거운_수요일.md "wikilink") - 전작
 
-[분류:문화방송의 예능 프로그램](https://ko.wikipedia.org/wiki/분류:문화방송의_예능_프로그램 "wikilink") [분류:대한민국의 코미디 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:대한민국의_코미디_텔레비전_프로그램 "wikilink")
+[분류:문화방송의 예능 프로그램](https://ko.wikipedia.org/wiki/분류:문화방송의_예능_프로그램 "wikilink") [분류:대한민국의 코미디 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:대한민국의_코미디_텔레비전_프로그램 "wikilink") [분류:1998년에 시작한 대한민국 TV 프로그램](https://ko.wikipedia.org/wiki/분류:1998년에_시작한_대한민국_TV_프로그램 "wikilink") [분류:1999년에 종료한 대한민국 TV 프로그램](https://ko.wikipedia.org/wiki/분류:1999년에_종료한_대한민국_TV_프로그램 "wikilink")

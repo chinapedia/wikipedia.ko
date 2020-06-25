@@ -8,13 +8,13 @@
 ### (A00–A09) 장 감염성 질병
 
   - A00 [콜레라](../Page/콜레라.md "wikilink")
-  - A01 [장티푸스](../Page/장티푸스.md "wikilink") 및 [파라티푸스](https://ko.wikipedia.org/wiki/파라티푸스 "wikilink")
+  - A01 [장티푸스](../Page/장티푸스.md "wikilink") 및 [파라티푸스](../Page/파라티푸스.md "wikilink")
   - A01.0 [장티푸스](../Page/장티푸스.md "wikilink")열
-      - A01.1 [파라티푸스](https://ko.wikipedia.org/wiki/파라티푸스 "wikilink") A형
+      - A01.1 [파라티푸스](../Page/파라티푸스.md "wikilink") A형
       - A01.2 파라티푸스 B형
       - A01.3 파라티푸스 C형
       - A01.4 파라티푸스, 상세불명
-  - A02 기타 [살모넬라](https://ko.wikipedia.org/wiki/살모넬라 "wikilink") 감염
+  - A02 기타 [살모넬라](../Page/살모넬라.md "wikilink") 감염
   - A03 [이질](../Page/이질.md "wikilink")
       - A03.0 [Shigella dysenteriae에](https://ko.wikipedia.org/wiki/m:en:Shigella_dysenteriae "wikilink") 의한 이질
       - A03.1 [Shigella flexneri에](https://ko.wikipedia.org/wiki/m:en:Shigella_flexneri "wikilink") 의한 이질
@@ -119,7 +119,7 @@
   - A33 신생아 [파상풍](../Page/파상풍.md "wikilink")
   - A34 산과 파상풍
   - A35 기타 파상풍
-  - A36 [디프테리아](https://ko.wikipedia.org/wiki/디프테리아 "wikilink")
+  - A36 [디프테리아](../Page/디프테리아.md "wikilink")
   - A37 [백일해](../Page/백일해.md "wikilink")
   - A38 [성홍열](https://ko.wikipedia.org/wiki/성홍열 "wikilink")
   - A39 [수막구균](https://ko.wikipedia.org/wiki/수막구균 "wikilink") 감염

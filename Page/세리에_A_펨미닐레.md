@@ -17,9 +17,9 @@
 
   - [유벤투스 FC 위민](../Page/유벤투스_FC_위민.md "wikilink") (Juventus F.C. Women) - [토리노](../Page/토리노.md "wikilink")
   - [AC 밀란 위민](../Page/AC_밀란_위민.md "wikilink") (A.C. Milan Women) - [밀라노](../Page/밀라노.md "wikilink")
-  - [FC 인테르나치오날레 밀라노 위민](https://ko.wikipedia.org/wiki/FC_인테르나치오날레_밀라노_위민 "wikilink") (F.C. Internazionale Milano Women) - [밀라노](../Page/밀라노.md "wikilink")
+  - [FC 인테르나치오날레 밀라노 위민](../Page/FC_인테르나치오날레_밀라노_위민.md "wikilink") (F.C. Internazionale Milano Women) - [밀라노](../Page/밀라노.md "wikilink")
   - [AS 로마 위민](../Page/AS_로마_위민.md "wikilink") (A.S. Roma Women) - [로마](../Page/로마.md "wikilink")
-  - [피오렌티나 위민스 FC](https://ko.wikipedia.org/wiki/피오렌티나_위민스_FC "wikilink") (Fiorentina Women's F.C.) - [피렌체](../Page/피렌체.md "wikilink")
+  - [피오렌티나 위민스 FC](../Page/피오렌티나_위민스_FC.md "wikilink") (Fiorentina Women's F.C.) - [피렌체](../Page/피렌체.md "wikilink")
   - [엘라스 베로나 위민](https://ko.wikipedia.org/wiki/엘라스_베로나_위민 "wikilink") (Hellas Verona Women) - [베로나](../Page/베로나.md "wikilink")
   - [아탈란타 모차니카](https://ko.wikipedia.org/wiki/아탈란타_모차니카 "wikilink") (Atalanta Mozzanica) - [모차니카](https://ko.wikipedia.org/wiki/모차니카 "wikilink")
   - [사수올로 칼초 펨미닐레](https://ko.wikipedia.org/wiki/사수올로_칼초_펨미닐레 "wikilink") (A.S.D. Sassuolo Calcio Femminile) - [사수올로](https://ko.wikipedia.org/wiki/사수올로 "wikilink")

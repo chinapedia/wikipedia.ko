@@ -1,13 +1,22 @@
 > This article is converted from Wikipedia: [SKY 캐슬](https://ko.wikipedia.org/wiki/SKY_캐슬).
 
 
-《**SKY 캐슬**》은 [JTBC](../Page/JTBC.md "wikilink")에서 방영한 [대한민국](../Page/대한민국.md "wikilink")의 [드라마](https://ko.wikipedia.org/wiki/드라마 "wikilink")이다. 매주 금토요일 밤 11시 시각에 [2018년](../Page/2018년.md "wikilink") [11월 23일부터](../Page/11월_23일.md "wikilink") [2019년](../Page/2019년.md "wikilink") [2월 1일까지](../Page/2월_1일.md "wikilink") 방영됐다. 대한민국의 [의대 입시와](../Page/대한민국의_대학_입시_제도.md "wikilink") 사교육을 소재로 삼았다.
+《**SKY 캐슬**》은 [JTBC](../Page/JTBC.md "wikilink")에서 방영한 [대한민국](../Page/대한민국.md "wikilink")의 [드라마](https://ko.wikipedia.org/wiki/드라마 "wikilink")이다. 매주 금요일, 토요일 밤 11시에 [2018년](../Page/2018년.md "wikilink") [11월 23일부터](../Page/11월_23일.md "wikilink") [2019년](../Page/2019년.md "wikilink") [2월 1일까지](../Page/2월_1일.md "wikilink") 방영됐다.
 
-## 등장 인물
+## 기획의도
+
+대한민국 상위 0.1%가 모여 사는 SKY 캐슬 안에서 남편은 왕으로, 제 자식은 천하제일 왕자와 공주로 키우고 싶은 명문가 출신 사모님들의 처절한 욕망을 샅샅이 들여다보는 리얼 코믹 풍자 드라마
+
+## 제작진 정보
+
+  - 연출 : 조현탁 ( [위기일발 풍년빌라](../Page/위기일발_풍년빌라.md "wikilink"), [대물](https://ko.wikipedia.org/wiki/대물 "wikilink")(공동연출), [친애하는 당신에게](../Page/친애하는_당신에게.md "wikilink"), [후아유](https://ko.wikipedia.org/wiki/후아유 "wikilink"), [하녀들](../Page/하녀들.md "wikilink"), [마녀보감](../Page/마녀보감.md "wikilink")(공동연출) 外 다수. )
+  - 극본 : 유현미 ( KBS 2-TV 문학관[향기로운 우물이야기](https://ko.wikipedia.org/wiki/향기로운_우물이야기 "wikilink"), MBC 베스트극장[훈자 우는 사랑](https://ko.wikipedia.org/wiki/훈자_우는_사랑 "wikilink"), [그린로즈](https://ko.wikipedia.org/wiki/그린로즈 "wikilink"), [사랑하고 싶다](../Page/사랑하고_싶다.md "wikilink"), KBS 2-TV 문학관[달의 제단](../Page/달의_제단.md "wikilink"), [신의 저울](../Page/신의_저울.md "wikilink"), [즐거운 나의 집](../Page/즐거운_나의_집.md "wikilink"), [각시탈](https://ko.wikipedia.org/wiki/각시탈 "wikilink"), [골든 크로스](https://ko.wikipedia.org/wiki/골든_크로스 "wikilink"), [고맙다, 아들아](https://ko.wikipedia.org/wiki/고맙다,_아들아 "wikilink") 外 다수. )
+
+## 등장인물
 
 ### 주요 인물
 
-  - [염정아](../Page/염정아.md "wikilink") : 한서진 역 (아역: [장성윤](https://ko.wikipedia.org/wiki/장성윤 "wikilink")) - 전직 교사 출신 전업주부. 본명 곽미향
+  - [염정아](../Page/염정아.md "wikilink") : 한서진 역 (아역 : [장성윤](https://ko.wikipedia.org/wiki/장성윤 "wikilink")) - 전직 교사 출신 전업주부. 본명 곽미향
   - [이태란](../Page/이태란.md "wikilink") : 이수임 역 - 동화작가. 곽미향의 고향친구
   - [윤세아](../Page/윤세아.md "wikilink") : 노승혜 역 - 박사과정 수료한 전업주부
   - [오나라](../Page/오나라_\(배우\).md "wikilink") : 진진희 역 - 단역배우 출신 금수저 전업주부
@@ -16,7 +25,7 @@
 ### 한서진 가족
 
   - [정준호](../Page/정준호.md "wikilink") : 강준상 역 - 한서진의 남편. 주남대학병원 정형외과 교수
-  - [김혜윤](../Page/김혜윤.md "wikilink") : 강예서 역(아역:[이진주](https://ko.wikipedia.org/wiki/이진주 "wikilink")) - 한서진과 강준상의 장녀, 신아고 학생
+  - [김혜윤](../Page/김혜윤.md "wikilink") : 강예서 역(아역 : [이진주](https://ko.wikipedia.org/wiki/이진주 "wikilink")) - 한서진과 강준상의 장녀, 신아고 학생
   - [이지원](../Page/이지원_\(2006년\).md "wikilink") : 강예빈 역 - 한서진과 강준상의 차녀. 중학생
 
 ### 이수임 가족

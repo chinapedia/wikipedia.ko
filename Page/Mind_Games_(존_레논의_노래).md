@@ -5,7 +5,7 @@
 
 성적은 미국에서는 [빌보드 핫 100에서](../Page/빌보드_핫_100.md "wikilink") 18위, [캐시박스 톱 100에서](https://ko.wikipedia.org/wiki/캐시박스_톱_100 "wikilink") 10위, 영국에서는 26위.\[2\]
 
-본곡의 기원은 1969년경부터로, 원제는 〈Make Love, Not War〉로서 비틀즈의 《Let It Be》 세션에서도 연주되었던 곡이다.\[3\] 원제 "Make Love, Not War"로 말하자면 당시의 유명 [히피](../Page/히피.md "wikilink") 슬로건.\[4\] 아울러 레논이 만들어 두었던 〈I Promise〉라는 곡도 〈Mind Games〉의 멜로디로서 섞여들었다.\[5\] 앞서의 〈Mind Games〉의 바탕이 된다고 할 수 있을 〈Make Love, Not War〉 및 〈I Promise〉는 모두 1970년 데모로서만 녹음되었으며, 시중에서 구하자면 《[John Lennon Anthology](https://ko.wikipedia.org/wiki/John_Lennon_Anthology "wikilink")》으로 출반이 되었다.\[6\]\[7\]
+본곡의 기원은 1969년경부터로, 원제는 〈Make Love, Not War〉로서 비틀즈의 《Let It Be》 세션에서도 연주되었던 곡이다.\[3\] 원제 "Make Love, Not War"로 말하자면 당시의 유명 [히피](../Page/히피.md "wikilink") 슬로건.\[4\] 아울러 레논이 만들어 두었던 〈I Promise〉라는 곡도 〈Mind Games〉의 멜로디로서 섞여들었다.\[5\] 앞서의 〈Mind Games〉의 바탕이 된다고 할 수 있을 〈Make Love, Not War〉 및 〈I Promise〉는 모두 1970년 데모로서만 녹음되었으며, 시중에서 구하자면 《[John Lennon Anthology](../Page/John_Lennon_Anthology.md "wikilink")》으로 출반이 되었다.\[6\]\[7\]
 
 레논이 작사를 끝낸 것은 로버트 마스터즈와 [진 휴스턴의](https://ko.wikipedia.org/wiki/진_휴스턴 "wikilink") 1972년 저 《심리전: 정신계에로의 지침서》(Mind Games: The Guide to Inner Space)를 읽고 나서부터였다.\[8\]\[9\] 뒷날 한 레스토랑에서 저자 로버트 마스터즈를 만난 레논은 그에게 말을 붙이되 "당신의 팬이에요. 그 《심리전》 쓴 분 맞지요." 했다고 한다.\[10\]
 

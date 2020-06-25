@@ -11,7 +11,7 @@
 
 노엘 갤러거는 발표 당시 "이걸 내가 쓰다니, 믿을 수가 없어. 이건 사람들 머리를 날려버릴 거야"라고 말했다.\[3\] 노엘은 곡의 작곡에 대해 이렇게 언급했다. "훌륭한 싱글? 그건 전부 멜로디에 달려있는 거지. 기본적으로 〈D'You Know What I Mean?〉은 〈Wonderwall〉과 같아... 하지만 음악이 다르지. 바로 거기가 중요해. 얼마나 잘 제작되었는가, 혹은 가사가 좋은지, 아니면 누가 최고로 기타 연주를 하든지 간에. 그게 사람에게 와 닿는다면 그건 좋은 노래야."\[4\]
 
-가사에서는 [밥 딜런의](../Page/밥_딜런.md "wikilink") 음반 《[Blood on the Tracks](https://ko.wikipedia.org/wiki/Blood_on_the_Tracks "wikilink")》 ("The blood on the trax must be mine"), [비틀즈](../Page/비틀즈.md "wikilink")의 노래 〈[The Fool on the Hill](https://ko.wikipedia.org/wiki/The_Fool_on_the_Hill "wikilink")〉과 〈[I Feel Fine](https://ko.wikipedia.org/wiki/I_Feel_Fine "wikilink")〉 ("The fool on the hill and I feel fine"), 그리고 딜런이 출연한 다큐멘터리 《[돈 룩 백](https://ko.wikipedia.org/wiki/돈_룩_백 "wikilink")》 (Don't look back 'cos you know what you might see")이 언급된다.\[5\]
+가사에서는 [밥 딜런의](../Page/밥_딜런.md "wikilink") 음반 《[Blood on the Tracks](https://ko.wikipedia.org/wiki/Blood_on_the_Tracks "wikilink")》 ("The blood on the trax must be mine"), [비틀즈](../Page/비틀즈.md "wikilink")의 노래 〈[The Fool on the Hill](https://ko.wikipedia.org/wiki/The_Fool_on_the_Hill "wikilink")〉과 〈[I Feel Fine](../Page/I_Feel_Fine.md "wikilink")〉 ("The fool on the hill and I feel fine"), 그리고 딜런이 출연한 다큐멘터리 《[돈 룩 백](https://ko.wikipedia.org/wiki/돈_룩_백 "wikilink")》 (Don't look back 'cos you know what you might see")이 언급된다.\[5\]
 
 ## 뮤직비디오
 

@@ -266,7 +266,7 @@ Hunspell은 다음의 프로그램들에서 맞춤법 검사기로 사용할 수
 <td><p>3.5 이상</p></td>
 </tr>
 <tr class="even">
-<td><p>class="table-rh"  | <a href="https://ko.wikipedia.org/wiki/MacOS" title="wikilink">Mac OS X</a></p></td>
+<td><p>class="table-rh"  | <a href="../Page/MacOS.md" title="wikilink">Mac OS X</a></p></td>
 <td></td>
 <td><p>10.6 Snow Leopard 이상</p></td>
 <td></td>

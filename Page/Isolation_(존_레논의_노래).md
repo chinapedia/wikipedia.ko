@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Isolation \(존 레논의 노래\)](https://ko.wikipedia.org/wiki/Isolation_\(존_레논의_노래\)).
 
 
-〈**Isolation**〉은 [존 레논의](../Page/존_레논.md "wikilink") 첫 공식 솔로 음반인 《[John Lennon/Plastic Ono Band](https://ko.wikipedia.org/wiki/John_Lennon/Plastic_Ono_Band "wikilink")》에 수록된 1970년 노래이다. 그 곡은 음반의 한쪽을 끝내고 다섯 번째 곡이다. [필리핀](../Page/필리핀.md "wikilink")에서 [애플 레코드는](../Page/애플_레코드.md "wikilink") 〈[Mother](../Page/Mother_\(존_레논의_노래\).md "wikilink")〉의 B 사이드로 〈Isolation〉을 발매했는데, 《John Lennon/Plastic Ono Band》는 B 사이드인 [오노 요코의](../Page/오노_요코.md "wikilink") 〈Why〉였던 대부분의 나라들과 대조된다. 그 곡은 또한 〈Mother〉, 〈[Look at Me](https://ko.wikipedia.org/wiki/Look_at_Me "wikilink")〉 그리고 〈[My Mummy's Dead](https://ko.wikipedia.org/wiki/My_Mummy's_Dead "wikilink")〉와 함께 [멕시코](../Page/멕시코.md "wikilink")에서 EP로 발매되었다.
+〈**Isolation**〉은 [존 레논의](../Page/존_레논.md "wikilink") 첫 공식 솔로 음반인 《[John Lennon/Plastic Ono Band](https://ko.wikipedia.org/wiki/John_Lennon/Plastic_Ono_Band "wikilink")》에 수록된 1970년 노래이다. 그 곡은 음반의 한쪽을 끝내고 다섯 번째 곡이다. [필리핀](../Page/필리핀.md "wikilink")에서 [애플 레코드는](../Page/애플_레코드.md "wikilink") 〈[Mother](../Page/Mother_\(존_레논의_노래\).md "wikilink")〉의 B 사이드로 〈Isolation〉을 발매했는데, 《John Lennon/Plastic Ono Band》는 B 사이드인 [오노 요코의](../Page/오노_요코.md "wikilink") 〈Why〉였던 대부분의 나라들과 대조된다. 그 곡은 또한 〈Mother〉, 〈[Look at Me](https://ko.wikipedia.org/wiki/Look_at_Me "wikilink")〉 그리고 〈[My Mummy's Dead](../Page/My_Mummy's_Dead.md "wikilink")〉와 함께 [멕시코](../Page/멕시코.md "wikilink")에서 EP로 발매되었다.
 
 ## 참여 인원
 

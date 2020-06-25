@@ -53,5 +53,5 @@
 
 [\*6](https://ko.wikipedia.org/wiki/분류:명탐정_코난의_음반 "wikilink") [분류:2017년 음반](https://ko.wikipedia.org/wiki/분류:2017년_음반 "wikilink")
 
-1.  [빙 “명탐정 코난” 공식 사이트에서](http://beinggiza.com/conan/news/index.html#entry161229) 2016년 12월 29일, 2017년 3월 26일 확인.
+1.  [빙 “명탐정 코난” 공식 사이트에서](http://beinggiza.com/conan/news/index.html#entry161229)  2016년 12월 29일, 2017년 3월 26일 확인.
 2.  [극장판 “명탐정 코난”」주제가 담은 음반에 쿠라키 마이, B'z, ZARD, 포르노 등](http://natalie.mu/music/news/225554), [음악 나탈리](https://ko.wikipedia.org/wiki/음악_나탈리 "wikilink"), 2017년 3월 22일, 2017년 3월 26일 확인.

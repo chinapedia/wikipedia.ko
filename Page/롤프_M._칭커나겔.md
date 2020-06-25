@@ -6,7 +6,7 @@
 ## 수상 경력
 
   - 1986년 : [가드너 국제상](https://ko.wikipedia.org/wiki/가드너_국제상 "wikilink")
-  - 1995년 : [앨버트 래스커 기초 의학 연구상](https://ko.wikipedia.org/wiki/앨버트_래스커_기초_의학_연구상 "wikilink")
+  - 1995년 : [앨버트 래스커 기초 의학 연구상](../Page/앨버트_래스커_기초_의학_연구상.md "wikilink")
   - 1996년 : 노벨 생리학·의학상
 
 ## 회원

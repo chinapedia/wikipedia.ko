@@ -22,6 +22,7 @@
   - [넋업샨](../Page/넋업샨.md "wikilink") : 1차 예선 탈락
   - 랩 부르는 아빠 : 1차 예선 탈락
   - 랩퍼성큰 : 1차 예선 탈락
+  - 프리키 : 1차 예선 탈락
   - 하얀 : 1차 예선 탈락
   - 아라보 : 2차 예선 탈락
   - 김강우 : 2차 예선 탈락
@@ -112,7 +113,7 @@
   - [윤비](https://ko.wikipedia.org/wiki/윤비 "wikilink") : 크루 리벤지 배틀 탈락
   - [윤훼이](https://ko.wikipedia.org/wiki/윤훼이 "wikilink") : 크루 리벤지 배틀 탈락
   - 제네 더 질라 : 크루 리벤지 배틀 탈락
-  - [브린](https://ko.wikipedia.org/wiki/브린 "wikilink"): 본선 8강 탈락
+  - [브린](https://ko.wikipedia.org/wiki/브린_\(래퍼\) "wikilink"): 본선 8강 탈락
   - [최엘비](../Page/최엘비.md "wikilink") : 본선 8강 탈락
   - [EK](https://ko.wikipedia.org/wiki/EK_\(래퍼\) "wikilink") : 본선 8강 탈락
   - [짱유](https://ko.wikipedia.org/wiki/짱유 "wikilink") : 본선 8강 탈락
@@ -202,4 +203,4 @@
 
 ## 외부 링크
 
-[분류:대한민국의 음악 경연회](https://ko.wikipedia.org/wiki/분류:대한민국의_음악_경연회 "wikilink") [분류:대한민국의 음악 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:대한민국의_음악_텔레비전_프로그램 "wikilink") [분류:대한민국의 리얼리티 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:대한민국의_리얼리티_텔레비전_프로그램 "wikilink") [분류:엠넷에서 방영하는 프로그램](https://ko.wikipedia.org/wiki/분류:엠넷에서_방영하는_프로그램 "wikilink") [분류:2019년 텔레비전 시즌](https://ko.wikipedia.org/wiki/분류:2019년_텔레비전_시즌 "wikilink") [분류:Show Me The Money](https://ko.wikipedia.org/wiki/분류:Show_Me_The_Money "wikilink")
+[분류:대한민국의 음악 경연회](https://ko.wikipedia.org/wiki/분류:대한민국의_음악_경연회 "wikilink") [분류:대한민국의 음악 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:대한민국의_음악_텔레비전_프로그램 "wikilink") [분류:대한민국의 리얼리티 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:대한민국의_리얼리티_텔레비전_프로그램 "wikilink") [분류:엠넷의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:엠넷의_텔레비전_프로그램 "wikilink") [분류:2019년 텔레비전 시즌](https://ko.wikipedia.org/wiki/분류:2019년_텔레비전_시즌 "wikilink") [분류:Show Me The Money](https://ko.wikipedia.org/wiki/분류:Show_Me_The_Money "wikilink")

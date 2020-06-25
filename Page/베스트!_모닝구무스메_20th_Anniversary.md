@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [베스트! 모닝구무스메 20th Anniversary](https://ko.wikipedia.org/wiki/베스트!_모닝구무스메_20th_Anniversary).
 
 
-**베스트\! 모닝구무스메 20th Anniversary**(, Best Morning Musume 20th Anniversary)는 [2019년](../Page/2019년.md "wikilink") [3월 13일에](../Page/3월_13일.md "wikilink") 발매 예정인 [모닝구무스메](../Page/모닝구무스메.md "wikilink")의 일곱 번째 베스트 앨범이다. 「모닝구무스메'19」 명의로 발매된다.
+**베스트\! 모닝구무스메 20th Anniversary**(, Best Morning Musume 20th Anniversary)는 [2019년](../Page/2019년.md "wikilink") [3월 13일에](../Page/3월_13일.md "wikilink") 발매된 [모닝구무스메](../Page/모닝구무스메.md "wikilink")의 일곱 번째 베스트 앨범이다. 「모닝구무스메'19」 명의로 발매된다.
 
 ## 수록곡
 

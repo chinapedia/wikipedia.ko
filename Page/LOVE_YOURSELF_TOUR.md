@@ -292,7 +292,7 @@
 </tr>
 <tr class="odd">
 <td><p>11월 21일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/오사카" title="wikilink">오사카</a></p></td>
+<td><p><a href="../Page/오사카시.md" title="wikilink">오사카</a></p></td>
 <td><p><a href="../Page/오사카_돔.md" title="wikilink">오사카 돔</a></p></td>
 <td><p>115,000 / 115,000</p></td>
 <td><p>151억 4,941만 3,679원</p></td>
@@ -338,7 +338,7 @@
 <tr class="even">
 <td><p>2019</p></td>
 <td><p>1월 12일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/나고야성_(아이치현)" title="wikilink">나고야</a></p></td>
+<td><p><a href="../Page/나고야시.md" title="wikilink">나고야</a></p></td>
 <td></td>
 <td><p><a href="../Page/나고야_돔.md" title="wikilink">나고야 돔</a></p></td>
 <td><p>85,000 / 85,000</p></td>
@@ -355,16 +355,16 @@
 </tr>
 <tr class="even">
 <td><p>1월 19일</p></td>
-<td><p><a href="../Page/싱가포르.md" title="wikilink">싱가포르</a></p></td>
 <td></td>
 <td><p><a href="../Page/싱가포르_국립_경기장.md" title="wikilink">싱가포르 국립 경기장</a></p></td>
 <td><p>39,946 / 39,946</p></td>
 <td><p>―</p></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>2월 16일</p></td>
-<td><p><a href="../Page/후쿠오카현.md" title="wikilink">후쿠오카</a></p></td>
+<td><p><a href="../Page/후쿠오카시.md" title="wikilink">후쿠오카</a></p></td>
 <td></td>
 <td><p><a href="../Page/후쿠오카_돔.md" title="wikilink">후쿠오카 돔</a></p></td>
 <td><p>80,000 / 80,000</p></td>
@@ -599,7 +599,7 @@
 <tr class="odd">
 <td><p>2019</p></td>
 <td><p>7월 6일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/오사카" title="wikilink">오사카</a></p></td>
+<td><p><a href="../Page/오사카시.md" title="wikilink">오사카</a></p></td>
 <td></td>
 <td><p><a href="../Page/나가이_육상_경기장.md" title="wikilink">나가이 육상 경기장</a></p></td>
 <td><p>101,554 / 101,554</p></td>
@@ -616,7 +616,7 @@
 </tr>
 <tr class="odd">
 <td><p>7월 13일</p></td>
-<td><p><a href="../Page/시즈오카현.md" title="wikilink">시즈오카</a></p></td>
+<td><p><a href="../Page/시즈오카시.md" title="wikilink">시즈오카</a></p></td>
 <td><p><a href="../Page/시즈오카_스타디움.md" title="wikilink">시즈오카 스타디움</a></p></td>
 <td><p>107,153 / 107,153</p></td>
 <td><p>$10,486,317</p></td>
@@ -636,7 +636,7 @@
 <td><p>10월11일</p></td>
 <td><p><a href="../Page/리야드.md" title="wikilink">리야드</a></p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/킹_파흐드_국립경기장" title="wikilink">킹 파흐드 국립경기장</a></p></td>
+<td><p><a href="../Page/킹_파흐드_국제경기장.md" title="wikilink">킹 파흐드 국제경기장</a></p></td>
 <td><p>31,899 / 37,092</p></td>
 <td><p>$4,381,560</p></td>
 <td></td>

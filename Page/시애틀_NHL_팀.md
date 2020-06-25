@@ -42,4 +42,4 @@
   - [시애틀 슈퍼소닉스](../Page/시애틀_슈퍼소닉스_\(1967년\).md "wikilink") ([NBA](../Page/전미_농구_협회.md "wikilink"))
   - [시애틀 스톰](../Page/시애틀_스톰.md "wikilink") ([WNBA](https://ko.wikipedia.org/wiki/전미_여자_농구_협회 "wikilink"))
 
-[분류:2018년 설립된 스포츠 클럽](https://ko.wikipedia.org/wiki/분류:2018년_설립된_스포츠_클럽 "wikilink") [분류:내셔널 하키 리그 팀](https://ko.wikipedia.org/wiki/분류:내셔널_하키_리그_팀 "wikilink") [분류:시애틀의 스포츠](https://ko.wikipedia.org/wiki/분류:시애틀의_스포츠 "wikilink")
+[분류:2018년 설립된 스포츠 클럽](https://ko.wikipedia.org/wiki/분류:2018년_설립된_스포츠_클럽 "wikilink") [분류:내셔널 하키 리그 팀](https://ko.wikipedia.org/wiki/분류:내셔널_하키_리그_팀 "wikilink") [분류:시애틀의 스포츠](https://ko.wikipedia.org/wiki/분류:시애틀의_스포츠 "wikilink") [분류:워싱턴주의 아이스하키팀](https://ko.wikipedia.org/wiki/분류:워싱턴주의_아이스하키팀 "wikilink")

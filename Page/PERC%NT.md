@@ -92,7 +92,7 @@
   -
   -
   -
-[분류:PERC%NT](https://ko.wikipedia.org/wiki/분류:PERC%NT "wikilink") [분류:1991년 태어남](https://ko.wikipedia.org/wiki/분류:1991년_태어남 "wikilink") [분류:살아있는 사람](https://ko.wikipedia.org/wiki/분류:살아있는_사람 "wikilink") [분류:대한민국의 가수](https://ko.wikipedia.org/wiki/분류:대한민국의_가수 "wikilink") [분류:대한민국의 작사가](https://ko.wikipedia.org/wiki/분류:대한민국의_작사가 "wikilink") [분류:대한민국의 작곡가](https://ko.wikipedia.org/wiki/분류:대한민국의_작곡가 "wikilink") [분류:미스틱엔터테인먼트 음악가](https://ko.wikipedia.org/wiki/분류:미스틱엔터테인먼트_음악가 "wikilink") [분류:미스틱89 음악가](https://ko.wikipedia.org/wiki/분류:미스틱89_음악가 "wikilink") [분류:호원대학교 동문](https://ko.wikipedia.org/wiki/분류:호원대학교_동문 "wikilink")
+[분류:PERC%NT](https://ko.wikipedia.org/wiki/분류:PERC%NT "wikilink") [분류:1991년 태어남](https://ko.wikipedia.org/wiki/분류:1991년_태어남 "wikilink") [분류:살아있는 사람](https://ko.wikipedia.org/wiki/분류:살아있는_사람 "wikilink") [분류:대한민국의 가수](https://ko.wikipedia.org/wiki/분류:대한민국의_가수 "wikilink") [분류:대한민국의 작사가](https://ko.wikipedia.org/wiki/분류:대한민국의_작사가 "wikilink") [분류:대한민국의 작곡가](https://ko.wikipedia.org/wiki/분류:대한민국의_작곡가 "wikilink") [분류:미스틱스토리 음악가](https://ko.wikipedia.org/wiki/분류:미스틱스토리_음악가 "wikilink") [분류:미스틱89 음악가](https://ko.wikipedia.org/wiki/분류:미스틱89_음악가 "wikilink") [분류:호원대학교 동문](https://ko.wikipedia.org/wiki/분류:호원대학교_동문 "wikilink")
 
 1.  [리슨 세 번째 주자 ‘퍼센트’, ‘Weekend’ 1월 1일 공개](http://tenasia.hankyung.com/archives/1098191), 텐아시아 김수경 기자.
 2.  [‘미스틱 오픈런’, 5월부터 홍대서 매주 공연..장재인, 정진운 등 참여](http://tenasia.hankyung.com/archives/503277), 텐아시아 현정은 기자.

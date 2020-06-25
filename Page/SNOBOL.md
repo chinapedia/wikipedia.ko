@@ -68,7 +68,7 @@ END
 
   - [아이콘 (프로그래밍 언어)](../Page/아이콘_\(프로그래밍_언어\).md "wikilink")
 
-## 참고문헌
+## 참고 문헌
 
   - Griswold, Ralph E. *The Macro Implementation of SNOBOL4*. San Francisco, CA: W. H. Freeman and Company, 1972 ().
 

@@ -89,6 +89,6 @@
 
   - [SNH48 공식 홈페이지](http://www.snh48.com/)
 
-[분류:SNH48](https://ko.wikipedia.org/wiki/분류:SNH48 "wikilink") [분류:중국의 음악 그룹](https://ko.wikipedia.org/wiki/분류:중국의_음악_그룹 "wikilink") [분류:중국의 걸 그룹](https://ko.wikipedia.org/wiki/분류:중국의_걸_그룹 "wikilink") [분류:2016년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2016년_결성된_음악_그룹 "wikilink") [분류:2016년 데뷔](https://ko.wikipedia.org/wiki/분류:2016년_데뷔 "wikilink") [분류:유닛 음악 그룹](https://ko.wikipedia.org/wiki/분류:유닛_음악_그룹 "wikilink") [분류:2010년대 음악 그룹](https://ko.wikipedia.org/wiki/분류:2010년대_음악_그룹 "wikilink") [분류:5인조 음악 그룹](https://ko.wikipedia.org/wiki/분류:5인조_음악_그룹 "wikilink")
+[분류:SNH48](https://ko.wikipedia.org/wiki/분류:SNH48 "wikilink") [분류:중국의 음악 그룹](https://ko.wikipedia.org/wiki/분류:중국의_음악_그룹 "wikilink") [분류:중국의 걸 그룹](https://ko.wikipedia.org/wiki/분류:중국의_걸_그룹 "wikilink") [분류:2016년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2016년_결성된_음악_그룹 "wikilink") [분류:유닛 음악 그룹](https://ko.wikipedia.org/wiki/분류:유닛_음악_그룹 "wikilink") [분류:2010년대 음악 그룹](https://ko.wikipedia.org/wiki/분류:2010년대_음악_그룹 "wikilink") [분류:5인조 음악 그룹](https://ko.wikipedia.org/wiki/분류:5인조_음악_그룹 "wikilink")
 
 1.  [유닛 그룹 발표 공지사항](http://www.snh48.com/html/allnews/zixun/2016/0420/1646.html%7CSNH48)

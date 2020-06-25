@@ -1350,7 +1350,7 @@
 
 ## 각주
 
-[분류:나라 목록](https://ko.wikipedia.org/wiki/분류:나라_목록 "wikilink") [분류:휴대 전화기](https://ko.wikipedia.org/wiki/분류:휴대_전화기 "wikilink")
+[분류:나라 목록](https://ko.wikipedia.org/wiki/분류:나라_목록 "wikilink") [분류:휴대 전화기](https://ko.wikipedia.org/wiki/분류:휴대_전화기 "wikilink") [분류:LTE (전기통신)](https://ko.wikipedia.org/wiki/분류:LTE_\(전기통신\) "wikilink")
 
 1.
 2.

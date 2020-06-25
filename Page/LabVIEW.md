@@ -3,7 +3,7 @@
 
 **LabVIEW**(Laboratory Virtual Instrument Engineering Workbench)는 [내셔널 인스트루먼츠의](https://ko.wikipedia.org/wiki/내셔널_인스트루먼츠 "wikilink") [시각 프로그래밍 언어를](https://ko.wikipedia.org/wiki/시각_프로그래밍_언어 "wikilink") 위한 시스템 디자인 플랫폼이자 개발 환경이다.
 
-그래픽 언어는 "G"로 명명되어 있으며, [G-code](https://ko.wikipedia.org/wiki/G-code "wikilink")와는 구별된다. 1986년 애플 [매키토시](https://ko.wikipedia.org/wiki/매키토시 "wikilink")용으로 처음 출시된 LabVIEW [마이크로소프트 윈도우](../Page/마이크로소프트_윈도우.md "wikilink"), 다양한 버전의 [유닉스](../Page/유닉스.md "wikilink"), [리눅스](../Page/리눅스.md "wikilink"), [MacOS](https://ko.wikipedia.org/wiki/MacOS "wikilink")를 포함하는 다양한 [운영 체제의](../Page/운영_체제.md "wikilink") [데이터 인수](https://ko.wikipedia.org/wiki/데이터_인수 "wikilink"), [인스트루먼트 컨트롤](https://ko.wikipedia.org/wiki/인스트루먼트_컨트롤 "wikilink"), 산업 [자동화](../Page/자동화.md "wikilink")에 흔히 사용된다. LabVIEW의 최신 버전은 LabVIEW 2017, LabVIEW NXG 1.0이며 2017년 5월에 출시되었다.
+그래픽 언어는 "G"로 명명되어 있으며, [G-code](https://ko.wikipedia.org/wiki/G-code "wikilink")와는 구별된다. 1986년 애플 [매키토시](https://ko.wikipedia.org/wiki/매키토시 "wikilink")용으로 처음 출시된 LabVIEW [마이크로소프트 윈도우](../Page/마이크로소프트_윈도우.md "wikilink"), 다양한 버전의 [유닉스](../Page/유닉스.md "wikilink"), [리눅스](../Page/리눅스.md "wikilink"), [MacOS](../Page/MacOS.md "wikilink")를 포함하는 다양한 [운영 체제의](../Page/운영_체제.md "wikilink") [데이터 인수](https://ko.wikipedia.org/wiki/데이터_인수 "wikilink"), [인스트루먼트 컨트롤](https://ko.wikipedia.org/wiki/인스트루먼트_컨트롤 "wikilink"), 산업 [자동화](../Page/자동화.md "wikilink")에 흔히 사용된다. LabVIEW의 최신 버전은 LabVIEW 2017, LabVIEW NXG 1.0이며 2017년 5월에 출시되었다.
 
 ## 출시 역사
 
@@ -61,4 +61,4 @@
 
   - , National Instruments
 
-[분류:수치 해석 소프트웨어](https://ko.wikipedia.org/wiki/분류:수치_해석_소프트웨어 "wikilink") [분류:수치 프로그래밍 언어](https://ko.wikipedia.org/wiki/분류:수치_프로그래밍_언어 "wikilink") [분류:크로스 플랫폼 소프트웨어](https://ko.wikipedia.org/wiki/분류:크로스_플랫폼_소프트웨어 "wikilink")
+[분류:수치 해석 소프트웨어](https://ko.wikipedia.org/wiki/분류:수치_해석_소프트웨어 "wikilink") [분류:수치 프로그래밍 언어](https://ko.wikipedia.org/wiki/분류:수치_프로그래밍_언어 "wikilink") [분류:크로스 플랫폼 소프트웨어](https://ko.wikipedia.org/wiki/분류:크로스_플랫폼_소프트웨어 "wikilink") [분류:비주얼 프로그래밍 언어](https://ko.wikipedia.org/wiki/분류:비주얼_프로그래밍_언어 "wikilink")

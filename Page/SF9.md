@@ -243,8 +243,10 @@
 | [KBS2](https://ko.wikipedia.org/wiki/KBS2 "wikilink")         | 《[불후의 명곡 - 전설을 노래하다](../Page/불후의_명곡_-_전설을_노래하다.md "wikilink")》                    | SF9                                                                               | 참가자 출연 |                                                                                           |
 | [tvn](https://ko.wikipedia.org/wiki/tvn "wikilink")           | 《[놀라운 토요일](../Page/놀라운_토요일.md "wikilink") - [도레미마켓](../Page/도레미마켓.md "wikilink")》 | 로운, 찬희                                                                            | 게스트 출연 |                                                                                           |
 | 2020                                                          | [tvn](https://ko.wikipedia.org/wiki/tvn "wikilink")                               | 《[놀라운 토요일](../Page/놀라운_토요일.md "wikilink") - [도레미마켓](../Page/도레미마켓.md "wikilink")》 | 로운, 인성 | 게스트 출연                                                                                    |
-| [KBS JOY](https://ko.wikipedia.org/wiki/KBS_JOY "wikilink")   | 《[옥탑방의 문제아들](../Page/옥탑방의_문제아들.md "wikilink")》                                    | 로운                                                                                | 게스트 출연 |                                                                                           |
+| [KBS2](https://ko.wikipedia.org/wiki/KBS2 "wikilink")         | 《[옥탑방의 문제아들](../Page/옥탑방의_문제아들.md "wikilink")》                                    | 로운                                                                                | 게스트 출연 |                                                                                           |
 | [SBS](../Page/SBS.md "wikilink")                              | 《[진짜 농구, 핸섬타이거즈](https://ko.wikipedia.org/wiki/진짜_농구,_핸섬타이거즈 "wikilink")》         | 영빈                                                                                | 게스트 출연 |                                                                                           |
+| [MBC](https://ko.wikipedia.org/wiki/MBC "wikilink")           | 《[선을 넘는 녀석들 - 리턴즈](https://ko.wikipedia.org/wiki/선을_넘는_녀석들_-_리턴즈 "wikilink")》     | 로운                                                                                | 게스트 출연 |                                                                                           |
+| [넷플릭스](../Page/넷플릭스.md "wikilink")                            | 《[범인은 바로 너](https://ko.wikipedia.org/wiki/범인은_바로_너 "wikilink") 3》                 | 로운                                                                                | 게스트 출연 |                                                                                           |
 
 ### 드라마
 
@@ -263,11 +265,11 @@
 
 ## 수상 목록
 
-| 연도                                                     | 시상식                                                                | 부문      |
-| ------------------------------------------------------ | ------------------------------------------------------------------ | ------- |
-| 2017                                                   | [서울 석세스 대상](https://ko.wikipedia.org/wiki/서울_석세스_대상 "wikilink")    | 신인가수 대상 |
-| 2018                                                   | 2017 [팬덤스쿨 어워즈](https://ko.wikipedia.org/wiki/팬덤스쿨_어워즈 "wikilink") | 신인상     |
-| 제3회 [아시아 아티스트 어워즈](../Page/아시아_아티스트_어워즈.md "wikilink") | 가수부문 라이징 스타상                                                       |         |
+| 연도                                                     | 시상식           | 부문      |
+| ------------------------------------------------------ | ------------- | ------- |
+| 2017                                                   | 서울 석세스 대상     | 신인가수 대상 |
+| 2018                                                   | 2017 팬덤스쿨 어워즈 | 신인상     |
+| 제3회 [아시아 아티스트 어워즈](../Page/아시아_아티스트_어워즈.md "wikilink") | 가수부문 라이징 스타상  |         |
 
 ### 가요 프로그램 1위
 
@@ -309,6 +311,6 @@
   -
   -
   -
-[분류:대한민국의 보이 밴드](https://ko.wikipedia.org/wiki/분류:대한민국의_보이_밴드 "wikilink") [분류:대한민국의 팝 음악 그룹](https://ko.wikipedia.org/wiki/분류:대한민국의_팝_음악_그룹 "wikilink") [분류:대한민국의 댄스 음악 그룹](https://ko.wikipedia.org/wiki/분류:대한민국의_댄스_음악_그룹 "wikilink") [분류:FNC 엔터테인먼트 소속](https://ko.wikipedia.org/wiki/분류:FNC_엔터테인먼트_소속 "wikilink") [분류:2016년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2016년_결성된_음악_그룹 "wikilink") [분류:2016년 데뷔](https://ko.wikipedia.org/wiki/분류:2016년_데뷔 "wikilink") [분류:K-pop 음악 그룹](https://ko.wikipedia.org/wiki/분류:K-pop_음악_그룹 "wikilink") [분류:9인조 음악 그룹](https://ko.wikipedia.org/wiki/분류:9인조_음악_그룹 "wikilink")
+[분류:대한민국의 보이 밴드](https://ko.wikipedia.org/wiki/분류:대한민국의_보이_밴드 "wikilink") [분류:대한민국의 팝 음악 그룹](https://ko.wikipedia.org/wiki/분류:대한민국의_팝_음악_그룹 "wikilink") [분류:대한민국의 댄스 음악 그룹](https://ko.wikipedia.org/wiki/분류:대한민국의_댄스_음악_그룹 "wikilink") [분류:FNC 엔터테인먼트 소속](https://ko.wikipedia.org/wiki/분류:FNC_엔터테인먼트_소속 "wikilink") [분류:2016년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2016년_결성된_음악_그룹 "wikilink") [분류:K-pop 음악 그룹](https://ko.wikipedia.org/wiki/분류:K-pop_음악_그룹 "wikilink") [분류:9인조 음악 그룹](https://ko.wikipedia.org/wiki/분류:9인조_음악_그룹 "wikilink")
 
 1.

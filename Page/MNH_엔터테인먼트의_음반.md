@@ -22,7 +22,7 @@
   - 2018년 10월 8일 청하 - **여우각시별 OST Part.1**
   - 2018년 12월 17일 청하 - **\[Digital Single\] Whatcha Doin**\[10\]
   - 2019년 1월 2일 청하 - **\[Digital Single\] 벌써 12시**
-  - 2019년 4월 10일 [밴디트](https://ko.wikipedia.org/wiki/밴디트_\(음악_그룹\) "wikilink") - **BVNDIT, BE AMBITIOUS\!**
+  - 2019년 4월 10일 [밴디트](../Page/밴디트_\(음악_그룹\).md "wikilink") - **BVNDIT, BE AMBITIOUS\!**
   - 2019년 4월 13일 청하 - **\[Digital Single\] 유희열의 스케치북 10주년 프로젝트 : 여섯 번째 목소리 \`유스케 X 청하\`**
   - 2019년 4월 20일 청하 - **\[Digital Single\] 유희열의 스케치북 10주년 프로젝트 : 여섯 번째 목소리 \`유스케 X 청하\`**
   - 2019년 5월 15일 밴디트 - **\[Digital Single\] Dramatic**
@@ -41,6 +41,9 @@
   - 2020년 4월 20일 밴디트 - **\[Digital Single\] Children**\[14\]
   - 2020년 4월 27일 청하 - **\[Digital Single\] Stay Tonight**\[15\]
   - 2020년 5월 13일 밴디트 - **Carnival**
+  - 2020년 5월 30일 청하 - **\[Digital Single\] 여기 적어줘**
+  - 2020년 6월 9일 청하 - **\[Digital Single\] Be Yourself**\[16\]
+  - 2020년 6월 ?일 청하 - **미정**
 
 ## 각주
 
@@ -61,3 +64,4 @@
 13. [폴킴](https://ko.wikipedia.org/wiki/폴킴 "wikilink")도 앨범 참여.
 14. 미니 2집의 선공개곡.
 15. 김청하 정규 1집의 선공개곡.
+16. 스프라이트 협업.

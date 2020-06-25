@@ -39,4 +39,4 @@
 
   - [NCH 오폐수 사업부](https://web.archive.org/web/20170202030816/http://bioamp.kr/)
 
-[분류:1919년 설립된 기업](https://ko.wikipedia.org/wiki/분류:1919년_설립된_기업 "wikilink") [분류:미국의 기업](https://ko.wikipedia.org/wiki/분류:미국의_기업 "wikilink")
+[분류:1919년 설립된 기업](https://ko.wikipedia.org/wiki/분류:1919년_설립된_기업 "wikilink") [분류:미국의 기업](https://ko.wikipedia.org/wiki/분류:미국의_기업 "wikilink") [분류:텍사스주의 기업](https://ko.wikipedia.org/wiki/분류:텍사스주의_기업 "wikilink")

@@ -97,7 +97,7 @@
 | 63회                                     | 11월 27일 | 절친 특집 [붐](../Page/붐_\(방송인\).md "wikilink") & 장마철 / [양배추](../Page/조세호.md "wikilink") & [남창희](https://ko.wikipedia.org/wiki/남창희 "wikilink")                                                                                                                                                                                                |
 | 64회                                     | 12월 4일  | 뮤지션 특집 [김C](../Page/김C.md "wikilink"), [신승훈](../Page/신승훈.md "wikilink"), [변진섭](../Page/변진섭.md "wikilink"), [한대수](https://ko.wikipedia.org/wiki/한대수 "wikilink")                                                                                                                                                                           |
 | 65회                                     | 12월 11일 | [김종서](../Page/김종서_\(가수\).md "wikilink") / [김태원](../Page/김태원_\(음악인\).md "wikilink") & [이광기](../Page/이광기.md "wikilink") (1)                                                                                                                                                                                                                |
-| 66회                                     | 12월 18일 | 《[이산](../Page/이산_\(드라마\).md "wikilink")》 [조연우](../Page/조연우.md "wikilink") & [한상진](https://ko.wikipedia.org/wiki/한상진 "wikilink") / [김태원](../Page/김태원_\(음악인\).md "wikilink") & [이광기](../Page/이광기.md "wikilink") (2)                                                                                                                        |
+| 66회                                     | 12월 18일 | 《[이산](../Page/이산_\(드라마\).md "wikilink")》 [조연우](../Page/조연우_\(배우\).md "wikilink") & [한상진](https://ko.wikipedia.org/wiki/한상진 "wikilink") / [김태원](../Page/김태원_\(음악인\).md "wikilink") & [이광기](../Page/이광기.md "wikilink") (2)                                                                                                                 |
 | 67회                                     | 12월 25일 | 2008년 택시 어워즈 1                                                                                                                                                                                                                                                                                                                           |
 
 ### 2009년
@@ -343,7 +343,7 @@
 | 262회                               | 10월 25일 | [구혜선](../Page/구혜선.md "wikilink"), [오연서](../Page/오연서.md "wikilink")                                                                                                                                   |
 | 263회                               | 11월 1일  | [별](../Page/별_\(가수\).md "wikilink")                                                                                                                                                                  |
 | 264회                               | 11월 8일  | [이승환](../Page/이승환_\(가수\).md "wikilink")                                                                                                                                                              |
-| 265회                               | 11월 15일 | [박준형](../Page/박준형_\(희극인\).md "wikilink"), [정만호](https://ko.wikipedia.org/wiki/정만호_\(희극인\) "wikilink"), [윤성한](https://ko.wikipedia.org/wiki/윤성한_\(희극인\) "wikilink")                                   |
+| 265회                               | 11월 15일 | [박준형](../Page/박준형_\(희극인\).md "wikilink"), [정만호](../Page/정만호_\(희극인\).md "wikilink"), [윤성한](https://ko.wikipedia.org/wiki/윤성한_\(희극인\) "wikilink")                                                      |
 | 266회                               | 11월 22일 | [소방차](https://ko.wikipedia.org/wiki/소방차_\(음악_그룹\) "wikilink") [정원관](../Page/정원관.md "wikilink"), [김완선](../Page/김완선.md "wikilink"), [박남정](../Page/박남정.md "wikilink"), [강수지](../Page/강수지.md "wikilink") |
 | 267회                               | 11월 29일 | [김태균](../Page/김태균_\(희극인\).md "wikilink")                                                                                                                                                             |
 | 268회                               | 12월 10일 | [로이킴](https://ko.wikipedia.org/wiki/로이킴 "wikilink"), [정준영](../Page/정준영.md "wikilink")                                                                                                                |
@@ -586,7 +586,7 @@
 <tr class="odd">
 <td><p>382회</p></td>
 <td><p>6월 2일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/오정연" title="wikilink">오정연</a>, <a href="../Page/문지애.md" title="wikilink">문지애</a></p></td>
+<td><p><a href="../Page/오정연.md" title="wikilink">오정연</a>, <a href="../Page/문지애.md" title="wikilink">문지애</a></p></td>
 </tr>
 <tr class="even">
 <td><p>383회</p></td>

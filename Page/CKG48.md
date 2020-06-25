@@ -703,7 +703,7 @@ CKG99100118</p></td>
 
   - [CKG48 공식 홈페이지](http://www.ckg48.com/)
 
-[\*](https://ko.wikipedia.org/wiki/분류:CKG48 "wikilink") [분류:중국의 음악 그룹](https://ko.wikipedia.org/wiki/분류:중국의_음악_그룹 "wikilink") [분류:중국의 걸 그룹](https://ko.wikipedia.org/wiki/분류:중국의_걸_그룹 "wikilink") [분류:2017년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2017년_결성된_음악_그룹 "wikilink") [분류:2017년 데뷔](https://ko.wikipedia.org/wiki/분류:2017년_데뷔 "wikilink") [분류:10인조 이상 음악 그룹](https://ko.wikipedia.org/wiki/분류:10인조_이상_음악_그룹 "wikilink") [분류:2010년대 음악 그룹](https://ko.wikipedia.org/wiki/분류:2010년대_음악_그룹 "wikilink") [분류:2019년 해체된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2019년_해체된_음악_그룹 "wikilink") [분류:2019년 재결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2019년_재결성된_음악_그룹 "wikilink")
+[\*](https://ko.wikipedia.org/wiki/분류:CKG48 "wikilink") [분류:중국의 음악 그룹](https://ko.wikipedia.org/wiki/분류:중국의_음악_그룹 "wikilink") [분류:중국의 걸 그룹](https://ko.wikipedia.org/wiki/분류:중국의_걸_그룹 "wikilink") [분류:2017년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2017년_결성된_음악_그룹 "wikilink") [분류:10인조 이상 음악 그룹](https://ko.wikipedia.org/wiki/분류:10인조_이상_음악_그룹 "wikilink") [분류:2010년대 음악 그룹](https://ko.wikipedia.org/wiki/분류:2010년대_음악_그룹 "wikilink") [분류:2019년 해체된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2019년_해체된_음악_그룹 "wikilink") [분류:2019년 재결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2019년_재결성된_음악_그룹 "wikilink")
 
 1.  [SNH48 GROUP开启总决选 重庆姐妹团招募启动](http://ent.sina.com.cn/y/yneidi/2017-06-03/doc-ifyfuzmy1435252.shtml)
 2.

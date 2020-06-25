@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [UEFA 유로 2020 예선 G조](https://ko.wikipedia.org/wiki/UEFA_유로_2020_예선_G조).
 
 
-이 문서는 **[UEFA 유로 2020 예선](https://ko.wikipedia.org/wiki/UEFA_유로_2020_예선#G조 "wikilink") G조**에 대해서 다룬다. 각 조의 1위, 2위 팀은 [UEFA 유로 2020](https://ko.wikipedia.org/wiki/UEFA_유로_2020 "wikilink") 본선에 진출한다.
+이 문서는 **[UEFA 유로 2020 예선](https://ko.wikipedia.org/wiki/UEFA_유로_2020_예선#G조 "wikilink") G조**에 대해서 다룬다. 각 조의 1위, 2위 팀은 [UEFA 유로 2020](https://ko.wikipedia.org/wiki/UEFA_유로_2020 "wikilink") 본선에 직행하며 나머지 팀들은 [2018-19년 UEFA 네이션스리그](https://ko.wikipedia.org/wiki/2018-19년_UEFA_네이션스리그 "wikilink") 순위에 따라 [UEFA 유로 2020 예선 플레이오프](https://ko.wikipedia.org/wiki/UEFA_유로_2020_예선_플레이오프 "wikilink") 진출 여부가 결정된다.
 
 ## 경기 결과
 

@@ -7,7 +7,7 @@
 
 알스트럼은 [미네소타](https://ko.wikipedia.org/wiki/미네소타 "wikilink") 코카토에서 태어났다. 그의 아버지[ 스웨덴에서](../Page/스웨덴.md "wikilink") 이민온 미국의 [루터교](../Page/루터교.md "wikilink") 신자였다.\[1\] [미네소타 대학교에서](../Page/미네소타_대학교.md "wikilink") 석사를 하바드 대학교에서 박사를 취득했고 프랑스 [스트라스부르 대학교에서](../Page/스트라스부르_대학교.md "wikilink") 수학했다. [예일 대학교에](https://ko.wikipedia.org/wiki/예일대학교 "wikilink") 1954년에 오기전[하버드 대학교에서](../Page/하버드_대학교.md "wikilink") 강사를 하였다.
 
-1973년에 그는 "A Religious History of the American People"이라는 책으로 [철학](../Page/철학.md "wikilink")과 [종교](../Page/종교.md "wikilink") 분야에서 [내셔널 북 어워드](../Page/내셔널_북_어워드.md "wikilink") 상을 받았다. \[2\]\[3\]
+1973년에 그는 "A Religious History of the American People"이라는 책으로 [철학](../Page/철학.md "wikilink")과 [종교](../Page/종교.md "wikilink") 분야에서 [내셔널 북 어워드](../Page/내셔널_북_어워드.md "wikilink") 상을 받았다.\[2\]\[3\]
 
 그는 [미국 예술 과학 아카데미에서](https://ko.wikipedia.org/wiki/미국_예술_과학_아카데미 "wikilink") 1978년 연구원으로 선출되었다.\[4\] 1979년에는 종교 분야에서 가장 뛰어난 책에 대한 수상으로 [크리스챤 센츄리](https://ko.wikipedia.org/wiki/크리스챤_센츄리 "wikilink") 상을 받았다.
 

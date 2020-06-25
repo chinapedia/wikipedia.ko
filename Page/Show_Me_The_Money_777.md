@@ -25,7 +25,7 @@
   - [이동민](https://ko.wikipedia.org/wiki/이동민 "wikilink") : 음원 미션 탈락
   - [H2ADIN](https://ko.wikipedia.org/wiki/H2ADIN "wikilink") : 랩 파이트머니 쟁탈전 탈락
   - [Osshun Gum](https://ko.wikipedia.org/wiki/Osshun_Gum "wikilink") : 랩 파이트머니 쟁탈전 탈락
-  - [루피](https://ko.wikipedia.org/wiki/루피_\(래퍼\) "wikilink") : 준우승
+  - [루피](../Page/루피_\(래퍼\).md "wikilink") : 준우승
   - [Dbo](https://ko.wikipedia.org/wiki/Dbo_\(래퍼\) "wikilink") : 랩 파이트머니 쟁탈전 탈락
   - 듀리 : 래퍼 평가전 탈락
   - 제스티 : 래퍼 평가전 탈락
@@ -58,7 +58,7 @@
   - [수퍼비](../Page/수퍼비.md "wikilink") : 세미파이널 탈락
   - [레디](https://ko.wikipedia.org/wiki/레디 "wikilink") : 랩 파이트머니 쟁탈전 탈락
   - 블랙나인 : 팀 결정전 탈락
-  - [오르내림](https://ko.wikipedia.org/wiki/오르내림 "wikilink") : 세미파이널 탈락
+  - [오르내림](../Page/오르내림.md "wikilink") : 세미파이널 탈락
   - 원썬 : 래퍼 선발전 탈락
   - 맥랩 : 래퍼 선발전 탈락
   - 케이준 : 래퍼 선발전 탈락
@@ -213,4 +213,4 @@
   -
   -
   -
-[분류:대한민국의 음악 경연회](https://ko.wikipedia.org/wiki/분류:대한민국의_음악_경연회 "wikilink") [분류:대한민국의 음악 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:대한민국의_음악_텔레비전_프로그램 "wikilink") [분류:대한민국의 리얼리티 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:대한민국의_리얼리티_텔레비전_프로그램 "wikilink") [분류:엠넷에서 방영하는 프로그램](https://ko.wikipedia.org/wiki/분류:엠넷에서_방영하는_프로그램 "wikilink") [분류:2018년 텔레비전 시즌](https://ko.wikipedia.org/wiki/분류:2018년_텔레비전_시즌 "wikilink") [분류:Show Me The Money](https://ko.wikipedia.org/wiki/분류:Show_Me_The_Money "wikilink")
+[분류:대한민국의 음악 경연회](https://ko.wikipedia.org/wiki/분류:대한민국의_음악_경연회 "wikilink") [분류:대한민국의 음악 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:대한민국의_음악_텔레비전_프로그램 "wikilink") [분류:대한민국의 리얼리티 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:대한민국의_리얼리티_텔레비전_프로그램 "wikilink") [분류:엠넷의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:엠넷의_텔레비전_프로그램 "wikilink") [분류:2018년 텔레비전 시즌](https://ko.wikipedia.org/wiki/분류:2018년_텔레비전_시즌 "wikilink") [분류:Show Me The Money](https://ko.wikipedia.org/wiki/분류:Show_Me_The_Money "wikilink")

@@ -5,7 +5,7 @@
 
 《Blonde on Blonde》는 딜런이 1965년과 1966년에 녹음한 [록](../Page/록_음악.md "wikilink") 음반 3부작을 《[Bringing It All Back Home](https://ko.wikipedia.org/wiki/Bringing_It_All_Back_Home "wikilink")》, 《[Highway 61 Revisited](../Page/Highway_61_Revisited.md "wikilink")》를 시작으로 완성했다. 비평가들은 종종 《Blonde on Blonde》를 역대 최고의 음반 중 하나로 꼽는다. 내슈빌 세션 뮤지션들의 전문성과 [현대적](../Page/모더니즘.md "wikilink") 문학적 감성을 결합한 이 음반의 곡들은 음악적으로 웅장한 스케일로 운영되고 있으며 한 비평가는 "비전과 구어의 독특한 혼합"이라고 불리는 가사가 특징이다. 이 음반은 록 음악 최초의 더블 음반 중 하나였다.
 
-이 음반은 미국의 [빌보드 200](../Page/빌보드_200.md "wikilink") 차트에서 9위를 차지했고, 결국 더블 플래티넘 인증을 받았고, 영국에서 3위에 올랐다. 《Blonde on Blonde》는 미국에서 20대 히트곡인 〈[Rainy Day Women \#12 & 35](https://ko.wikipedia.org/wiki/Rainy_Day_Women_#12_&_35 "wikilink")〉와 〈[I Want You](https://ko.wikipedia.org/wiki/I_Want_You_\(밥_딜런의_노래\) "wikilink")〉를 냈다. 딜런의 가장 위대한 작품 중 한 곡으로 〈[Just Like a Woman](https://ko.wikipedia.org/wiki/Just_Like_a_Woman "wikilink")〉과 〈[Visions of Johanna](https://ko.wikipedia.org/wiki/Visions_of_Johanna "wikilink")〉 등 두 곡이 추가되었으며 [롤링 스톤 역사상 가장 위대한 노래 500곡](../Page/롤링_스톤_역사상_가장_위대한_노래_500곡.md "wikilink") 목록에 올랐다.
+이 음반은 미국의 [빌보드 200](../Page/빌보드_200.md "wikilink") 차트에서 9위를 차지했고, 결국 더블 플래티넘 인증을 받았고, 영국에서 3위에 올랐다. 《Blonde on Blonde》는 미국에서 20대 히트곡인 〈[Rainy Day Women ♯12 & 35](https://ko.wikipedia.org/wiki/Rainy_Day_Women_♯12_&_35 "wikilink")〉와 〈[I Want You](https://ko.wikipedia.org/wiki/I_Want_You_\(밥_딜런의_노래\) "wikilink")〉를 냈다. 딜런의 가장 위대한 작품 중 한 곡으로 〈[Just Like a Woman](https://ko.wikipedia.org/wiki/Just_Like_a_Woman "wikilink")〉과 〈[Visions of Johanna](https://ko.wikipedia.org/wiki/Visions_of_Johanna "wikilink")〉 등 두 곡이 추가되었으며 [롤링 스톤 역사상 가장 위대한 노래 500곡](../Page/롤링_스톤_역사상_가장_위대한_노래_500곡.md "wikilink") 목록에 올랐다.
 
 ## 곡 목록
 

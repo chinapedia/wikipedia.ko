@@ -120,7 +120,7 @@ pdf 출력
 ## 외부 링크
 
   - [공식 사이트](https://www.gnu.org/software/enscript/)
-  - [리눅스는 출력 가이드](http://www.eecs.utk.edu/resources/it/eecs-it-knowledge-base/printing/linux-printing-guide/advanced-linux-printing/)
+  - [리눅스는 출력 가이드](https://web.archive.org/web/20180910052135/http://www.eecs.utk.edu/resources/it/eecs-it-knowledge-base/printing/linux-printing-guide/advanced-linux-printing/)
 
 ## 참고
 

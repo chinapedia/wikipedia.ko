@@ -31,7 +31,7 @@
       - [클레르몽페랑](../Page/클레르몽페랑.md "wikilink") - [클레르몽페랑 공항](https://ko.wikipedia.org/wiki/클레르몽페랑_공항 "wikilink")
       - [툴루즈](../Page/툴루즈.md "wikilink") - [툴루즈 블라냑 공항](https://ko.wikipedia.org/wiki/툴루즈_블라냑_공항 "wikilink")
       - [페르피냥](../Page/페르피냥.md "wikilink") - [페르피냥 공항](https://ko.wikipedia.org/wiki/페르피냥_공항 "wikilink") *계졀편*
-      - [포](https://ko.wikipedia.org/wiki/포 "wikilink") - [포 피레네 공항](https://ko.wikipedia.org/wiki/포_피레네_공항 "wikilink")
+      - [포](../Page/포.md "wikilink") - [포 피레네 공항](https://ko.wikipedia.org/wiki/포_피레네_공항 "wikilink")
       - [푸아티에](../Page/푸아티에.md "wikilink") - [푸아티에 비아르 공항](https://ko.wikipedia.org/wiki/푸아티에_비아르_공항 "wikilink")
   - ****
       - [뒤셀도르프](../Page/뒤셀도르프.md "wikilink") - [뒤셀도르프 국제공항](https://ko.wikipedia.org/wiki/뒤셀도르프_국제공항 "wikilink")

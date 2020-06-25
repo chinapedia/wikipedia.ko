@@ -103,6 +103,10 @@
   - 2020년 2월 14일 차 차 말론 - **\[Digital Single\] All Eyes On You**
   - 2020년 3월 24일 Sik-K - **Officially OG**
   - 2020년 4월 30일 그루비룸 - **\[Digital Single\] find your light : Palette \#1**
+  - 2020년 5월 8일 pH-1 - **X**
+  - 2020년 5월 20일 Woogie - **\[Digital Single\] Fantasy.1**
+  - 2020년 5월 28일 pH-1 - **\[Digital Single\] Tell Ya\!**
+  - 2020년 5월 31일 그루비룸 - **\[Digital Single\] find your light : Burn \#2**
 
 ## 각주
 
@@ -115,9 +119,9 @@
 5.  Woogie 미니 1집의 선공개곡.
 6.  HAON 미니 1집의 선공개곡.
 7.  [Fazt](https://ko.wikipedia.org/wiki/Fazt "wikilink")도 앨범 참여.
-8.  [Coogie](https://ko.wikipedia.org/wiki/Coogie "wikilink"),[D.Ark](https://ko.wikipedia.org/wiki/D.Ark "wikilink"),[나플라](../Page/나플라.md "wikilink"),[오르내림](https://ko.wikipedia.org/wiki/오르내림 "wikilink"),[Odee](https://ko.wikipedia.org/wiki/Odee "wikilink"),[차붐](https://ko.wikipedia.org/wiki/차붐_\(래퍼\) "wikilink"),[김효은](https://ko.wikipedia.org/wiki/김효은 "wikilink"),[EK](https://ko.wikipedia.org/wiki/EK_\(래퍼\) "wikilink"),[슈퍼비](https://ko.wikipedia.org/wiki/슈퍼비 "wikilink"),[키드밀리](../Page/키드밀리.md "wikilink"),[루피도](https://ko.wikipedia.org/wiki/루피_\(가수\) "wikilink") 앨범 참여.
-9.  [나플라](../Page/나플라.md "wikilink"),[오르내림](https://ko.wikipedia.org/wiki/오르내림 "wikilink"),[Odee](https://ko.wikipedia.org/wiki/Odee "wikilink"),[EK](https://ko.wikipedia.org/wiki/EK_\(래퍼\) "wikilink"),[슈퍼비](https://ko.wikipedia.org/wiki/슈퍼비 "wikilink"),[키드밀리](../Page/키드밀리.md "wikilink"),[루피도](https://ko.wikipedia.org/wiki/루피_\(가수\) "wikilink") 앨범 참여.
-10. [나플라](../Page/나플라.md "wikilink"),[오르내림](https://ko.wikipedia.org/wiki/오르내림 "wikilink"),[슈퍼비](https://ko.wikipedia.org/wiki/슈퍼비 "wikilink"),[키드밀리](../Page/키드밀리.md "wikilink"),[루피도](https://ko.wikipedia.org/wiki/루피_\(가수\) "wikilink") 앨범 참여.
+8.  [Coogie](https://ko.wikipedia.org/wiki/Coogie "wikilink"),[D.Ark](https://ko.wikipedia.org/wiki/D.Ark "wikilink"),[나플라](../Page/나플라.md "wikilink"),[오르내림](../Page/오르내림.md "wikilink"),[Odee](https://ko.wikipedia.org/wiki/Odee "wikilink"),[차붐](https://ko.wikipedia.org/wiki/차붐_\(래퍼\) "wikilink"),[김효은](https://ko.wikipedia.org/wiki/김효은 "wikilink"),[EK](https://ko.wikipedia.org/wiki/EK_\(래퍼\) "wikilink"),[슈퍼비](https://ko.wikipedia.org/wiki/슈퍼비 "wikilink"),[키드밀리](../Page/키드밀리.md "wikilink"),[루피도](https://ko.wikipedia.org/wiki/루피_\(가수\) "wikilink") 앨범 참여.
+9.  [나플라](../Page/나플라.md "wikilink"),[오르내림](../Page/오르내림.md "wikilink"),[Odee](https://ko.wikipedia.org/wiki/Odee "wikilink"),[EK](https://ko.wikipedia.org/wiki/EK_\(래퍼\) "wikilink"),[슈퍼비](https://ko.wikipedia.org/wiki/슈퍼비 "wikilink"),[키드밀리](../Page/키드밀리.md "wikilink"),[루피도](https://ko.wikipedia.org/wiki/루피_\(가수\) "wikilink") 앨범 참여.
+10. [나플라](../Page/나플라.md "wikilink"),[오르내림](../Page/오르내림.md "wikilink"),[슈퍼비](https://ko.wikipedia.org/wiki/슈퍼비 "wikilink"),[키드밀리](../Page/키드밀리.md "wikilink"),[루피도](https://ko.wikipedia.org/wiki/루피_\(가수\) "wikilink") 앨범 참여.
 11. Sik-K 정규 1집의 선공개 앨범.
 12. [창모](../Page/창모.md "wikilink"),[더 콰이엇](https://ko.wikipedia.org/wiki/더_콰이엇 "wikilink"),[재지팩트](../Page/재지팩트.md "wikilink")의 멤버 [빈지노](https://ko.wikipedia.org/wiki/빈지노 "wikilink")도 앨범 참여.
 13. [Zene The Zilla도](https://ko.wikipedia.org/wiki/Zene_The_Zilla "wikilink") 앨범 참여.

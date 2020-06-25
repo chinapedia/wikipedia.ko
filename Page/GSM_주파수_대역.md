@@ -133,4 +133,4 @@ LTE 대역 </p></th>
 </tbody>
 </table>
 
-[분류:이동 통신](https://ko.wikipedia.org/wiki/분류:이동_통신 "wikilink")
+[분류:이동 통신](https://ko.wikipedia.org/wiki/분류:이동_통신 "wikilink") [분류:GSM 표준](https://ko.wikipedia.org/wiki/분류:GSM_표준 "wikilink")

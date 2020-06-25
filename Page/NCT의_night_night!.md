@@ -1,6 +1,13 @@
 > This article is converted from Wikipedia: [NCT의 night night!](https://ko.wikipedia.org/wiki/NCT의_night_night!).
 
 
+## 역대 DJ
+
+  - 1대 [재현](https://ko.wikipedia.org/wiki/재현 "wikilink"), [쟈니](https://ko.wikipedia.org/wiki/쟈니 "wikilink") : [2017년](../Page/2017년.md "wikilink") [3월 20일](../Page/3월_20일.md "wikilink") \~ [2019년](../Page/2019년.md "wikilink") [1월 27일](../Page/1월_27일.md "wikilink")
+  - 2대 **폐지**
+
+[뮤직하이](../Page/뮤직하이.md "wikilink") 시간이동
+
 《**NCT의 night night\!**》는 매일 밤 11시부터 12시까지 [SBS 파워FM을](../Page/SBS_파워FM.md "wikilink") 통해 방송된 [라디오](../Page/라디오.md "wikilink") 프로그램으로 [장예원의 오늘 같은 밤의](https://ko.wikipedia.org/wiki/장예원의_오늘_같은_밤 "wikilink") 후속작으로 신설된 프로그램이므로, 키 스테이션인 SBS를 비롯한 9개 지역 민방 네트워크를 통해서 전국적으로 일제히 송출하였다. 진행자는 [NCT의](../Page/NCT_\(음악_그룹\).md "wikilink") 멤버 [재현](https://ko.wikipedia.org/wiki/재현 "wikilink")과 [쟈니이다](../Page/쟈니_\(가수\).md "wikilink").
 
 ## 코너

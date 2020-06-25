@@ -5,7 +5,7 @@
 
 ## 역사
 
-구형 HF 무전기([KAN/URC-87](https://ko.wikipedia.org/wiki/KAN/URC-87 "wikilink"))의 대체기종으로, 정부 주도로 [대영전자(주)](https://ko.wikipedia.org/wiki/대영전자\(주\) "wikilink")에서 개발했다.
+구형 HF 무전기([KAN/URC-87](https://ko.wikipedia.org/wiki/KAN/URC-87 "wikilink"))의 대체기종으로, 정부 주도로 [대영전자](https://ko.wikipedia.org/wiki/대영전자 "wikilink")에서 개발했다.
 
 ## 특징
 
@@ -13,7 +13,7 @@
 
 차기 FM 무전기 [PRC-999K](../Page/PRC-999K.md "wikilink")는 단거리 무전기이고, 차기 AM 무전기 PRC-950K는 장거리 무전기이다. 물론 단거리 교신도 된다. 대신, 일상의 라디오 처럼, FM은 잡음이 적지만, AM은 잡음이 매우 심하다. 따라서 AM 무전기 교신은, 상대방이 말한 내용을 내가 정확하게 들었는지, 반복해서 말해주고, 확인을 하는 것이 보통이다.
 
-송신출력 5 W 또는 20 W로 교신할 수 있다. [QRP](../Page/QRP.md "wikilink")는 저출력으로 장거리 교신을 하는 [아마추어 무선의](../Page/아마추어_무선.md "wikilink") 분야인데, 송신출력 5 W인 [야에스 FT-817](../Page/야에스_FT-817.md "wikilink") 무전기로 20,000 km 떨어진 곳과 HF 밴드에서 [SSB](../Page/단측파대_변조.md "wikilink") 모드로 장거리 교신에 성공했다는 자랑들이 유튜브 등 인터넷에 종종 올라온다. [야에스 FT-817](../Page/야에스_FT-817.md "wikilink") 무전기가 고작 70만원에 인터넷에서 판매중인데, PRC-950K 무전기는 군용 대 전자전 기능 등 첨단기능이 추가되어 1700만원이나 한다.
+송신출력 5 W 또는 20 W로 교신할 수 있다. [QRP](../Page/QRP.md "wikilink")는 저출력으로 장거리 교신을 하는 [아마추어 무선의](../Page/아마추어_무선.md "wikilink") 분야인데, 송신출력 5 W인 [야에스 FT-817](../Page/야에스_FT-817.md "wikilink") 무전기로 20,000 km 떨어진 곳과 HF 밴드에서 [SSB](../Page/단측파대_변조.md "wikilink") 모드로 장거리 교신에 성공했다는 자랑들이 유튜브 등 인터넷에 종종 올라온다. [야에스 FT-817](../Page/야에스_FT-817.md "wikilink") 무전기가 고작 70만원에 인터넷에서 판매중인데, PRC-950K 무전기는 군용 대 전자전 기능 등 첨단기능이 추가되었다.
 
 ## 핵전쟁
 

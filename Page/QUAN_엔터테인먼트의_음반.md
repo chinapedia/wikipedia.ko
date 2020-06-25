@@ -87,6 +87,8 @@
 
   - 2020년 1월 15일 별 - **\[Digital Single\] New Edition 1988**\[22\]
   - 2020년 3월 31일 별 - **날씨가 좋으면 찾아가겠어요 OST Part.4**
+  - 2020년 5월 6일 [설레게](https://ko.wikipedia.org/wiki/설레게 "wikilink") - **\[Digital Single\] 아니야**
+  - 2020년 5월 11일 Gong - **염증나무**
 
 ## 각주
 

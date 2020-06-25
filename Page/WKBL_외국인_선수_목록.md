@@ -50,60 +50,61 @@
 <tr class="even">
 <td></td>
 <td></td>
-<td><p>F</p></td>
-<td></td>
-<td><p>1</p></td>
+<td><p>C</p></td>
+<td><p>;<br />
+</p></td>
+<td><p>2</p></td>
 <td><p>[4]</p></td>
 </tr>
 <tr class="odd">
 <td></td>
-<td><p>*</p></td>
+<td></td>
 <td><p>C</p></td>
-<td><p>;<br />
--현재</p></td>
-<td><p>2</p></td>
+<td></td>
+<td><p>1</p></td>
 <td><p>[5]</p></td>
 </tr>
 <tr class="even">
 <td></td>
 <td></td>
 <td><p>C</p></td>
-<td></td>
-<td><p>1</p></td>
+<td><p>;<br />
+-;<br />
+</p></td>
+<td><p>4</p></td>
 <td><p>[6]</p></td>
 </tr>
 <tr class="odd">
 <td></td>
-<td><p>*</p></td>
+<td></td>
 <td><p>C</p></td>
-<td><p>;<br />
--;<br />
--현재</p></td>
-<td><p>4</p></td>
+<td></td>
+<td><p>1</p></td>
 <td><p>[7]</p></td>
 </tr>
 <tr class="even">
 <td></td>
 <td></td>
-<td><p>C</p></td>
-<td></td>
-<td><p>1</p></td>
+<td><p>F</p></td>
+<td><p>-;<br />
+</p></td>
+<td><p>3</p></td>
 <td><p>[8]</p></td>
 </tr>
 <tr class="odd">
 <td></td>
-<td><p>*</p></td>
+<td></td>
 <td><p>F</p></td>
-<td><p>-<br />
--현재</p></td>
-<td><p>3</p></td>
+<td><p>-</p></td>
+<td><p>4</p></td>
 <td><p>[9]</p></td>
 </tr>
 <tr class="even">
 <td></td>
-<td><p>*</p></td>
+<td></td>
 <td><p>F</p></td>
-<td><p>-현재</p></td>
+<td><p>-;<br />
+</p></td>
 <td><p>4</p></td>
 <td><p>[10]</p></td>
 </tr>
@@ -136,9 +137,10 @@
 <tr class="even">
 <td></td>
 <td></td>
-<td><p>C</p></td>
-<td></td>
-<td><p>1</p></td>
+<td><p>F</p></td>
+<td><p>;<br />
+-</p></td>
+<td><p>3</p></td>
 <td><p>[14]</p></td>
 </tr>
 <tr class="odd">
@@ -159,9 +161,9 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p>*</p></td>
+<td></td>
 <td><p>C</p></td>
-<td><p>-현재</p></td>
+<td></td>
 <td><p>1</p></td>
 <td><p>[17]</p></td>
 </tr>
@@ -169,50 +171,66 @@
 <td></td>
 <td></td>
 <td><p>C</p></td>
-<td><p>;<br />
-</p></td>
-<td><p>2</p></td>
+<td></td>
+<td><p>1</p></td>
 <td><p>[18]</p></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td></td>
 <td><p>C</p></td>
-<td></td>
-<td><p>1</p></td>
+<td><p>;<br />
+</p></td>
+<td><p>2</p></td>
 <td><p>[19]</p></td>
 </tr>
 <tr class="even">
 <td></td>
-<td><p>*</p></td>
+<td></td>
 <td><p>C</p></td>
-<td><p>-현재</p></td>
-<td><p>3</p></td>
+<td></td>
+<td><p>1</p></td>
 <td><p>[20]</p></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td></td>
 <td><p>C</p></td>
-<td></td>
-<td><p>1</p></td>
+<td><p>-</p></td>
+<td><p>3</p></td>
 <td><p>[21]</p></td>
 </tr>
 <tr class="even">
 <td></td>
 <td></td>
 <td><p>C</p></td>
-<td><p>2007</p></td>
+<td></td>
 <td><p>1</p></td>
 <td><p>[22]</p></td>
 </tr>
 <tr class="odd">
 <td></td>
+<td></td>
+<td><p>C</p></td>
+<td><p>2007</p></td>
+<td><p>1</p></td>
+<td><p>[23]</p></td>
+</tr>
+<tr class="even">
+<td></td>
 <td><p>관수핑</p></td>
 <td><p>C</p></td>
 <td><p>2000</p></td>
 <td><p>1</p></td>
-<td><p>[23]</p></td>
+<td><p>[24]</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td><p>F</p></td>
+<td></td>
+<td><p>1</p></td>
+<td><p>[25]</p></td>
 </tr>
 </tbody>
 </table>
@@ -250,3 +268,5 @@
 21.
 22.
 23.
+24.
+25.

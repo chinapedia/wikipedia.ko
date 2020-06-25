@@ -29,7 +29,7 @@
 
 #### 1990년
 
-##### [90 한국프로축구대회](https://ko.wikipedia.org/wiki/K리그_1990 "wikilink")
+##### [90 한국프로축구대회](../Page/K리그_1990.md "wikilink")
 
 [1990년](../Page/1990년.md "wikilink") 당시 일화 천마의 스트라이커 김용세가 [8월 18일](../Page/8월_18일.md "wikilink") [유공 코끼리와의](https://ko.wikipedia.org/wiki/유공_코끼리 "wikilink") 경기에서 프로축구 개인통산 첫 50골 고지에 오르기도 했지만\[27\], 팀은 7승 10무 13패로 리그 최하위 6위를 기록하였다.
 

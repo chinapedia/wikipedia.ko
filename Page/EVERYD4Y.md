@@ -7,6 +7,8 @@
 
 멤버들은 AiRPLAY, MILLENNIUM, FUTURE BOUNCE 등 다른 사내 프로듀서들의 도움을 받아 이번 음반 자체 음악 대부분을 프로듀싱했다.\[3\]\[4\]\[5\] 타이틀곡 〈EVERYDAY〉와 뮤직비디오는 4일 공개됐다. 이 싱글은 팝과 칠 [트랩의](https://ko.wikipedia.org/wiki/트랩_음악 "wikilink") 섬세한 가사가 혼합된 것으로 묘사된다. 이 음반에는 일본 싱글 음반인 《[OUR TWENTY FOR](https://ko.wikipedia.org/wiki/OUR_TWENTY_FOR "wikilink")》, 〈RAINING〉, 〈HAVE A GOOD DAY〉의 한국어로 된 두 개의 특별한 보너스 곡과 [송민호](../Page/송민호.md "wikilink")의 솔로곡인 〈손만 잡고 자자 (TURN OFF THE LIGHT)〉를 포함하여 총 12곡이 수록되어 있다. 〈LA LA〉는 앞서 2016 EXIT Tour 서울에서 선보인 바 있다.\[6\]\[7\]
 
+10번째 트랙인 SPECIAL NIGHT은 이승훈과 강승윤의 듀엣곡 이다.
+
 ## 트랙 리스트
 
 ## 각주

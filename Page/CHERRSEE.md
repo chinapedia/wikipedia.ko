@@ -1,11 +1,7 @@
 > This article is converted from Wikipedia: [CHERRSEE](https://ko.wikipedia.org/wiki/CHERRSEE).
 
 
-**CHERRSEE**(첼시, )는 [일본](../Page/일본.md "wikilink")의 여성으로 구성된 5인조 댄스 보컬 그룹이다. [2016년](../Page/2016년.md "wikilink")에 데뷔했다. 소속 사무소는 [제이록이다](../Page/제이록_\(기업\).md "wikilink"). [프로듀서는](../Page/음악_프로듀서.md "wikilink") [대한민국](../Page/대한민국.md "wikilink") 출신의 [용감한 형제이다](../Page/용감한_형제.md "wikilink").
-
-그룹 명인 ‘CHERRSEE’은 Cherry Seeds(벚꽃의 씨앗)을 어원으로 하는 조어이며, ‘많은 사람을 매료하는 꽃을 피우는 씨앗’이라는 의미가 담겨져 있다\[1\].
-
-전원의 움직임이 딱 맞는 싱크로 댄스가 특징이다.
+**CHERRSEE**(첼시, )는 [일본](../Page/일본.md "wikilink")의 여성으로 구성된 5인조 댄스 보컬 그룹이다. [2016년](../Page/2016년.md "wikilink")에 데뷔했다. 소속 사무소는 [제이록이다](../Page/제이록_\(기업\).md "wikilink"). [프로듀서는](../Page/음악_프로듀서.md "wikilink") [대한민국](../Page/대한민국.md "wikilink") 출신의 [용감한 형제이다](../Page/용감한_형제.md "wikilink"). 그룹 명인 ‘CHERRSEE’은 Cherry Seeds(벚꽃의 씨앗)을 어원으로 하는 조어이며, ‘많은 사람을 매료하는 꽃을 피우는 씨앗’이라는 의미가 담겨져 있다\[1\].
 
 ## 약력
 
@@ -46,12 +42,12 @@
 
 ### 2018년
 
-  - 리더 히카루가 졸업하였고, 네네가 새로운 리더로 발탁되었다.
+  - 센터 사유리가 졸업하였다.
   - 새로운 멤버 아이리, 유마가 영입되었다.
 
 ### 2019년
 
-  - 센터 사유리가 졸업하였고, 현재 미유가 센터를 맡고 있다.
+  - 리더 히카루가 졸업하였고, 네네가 새로운 리더로 발탁되었다.
 
 ## 구성원
 
@@ -188,8 +184,7 @@
 <tr class="odd">
 <td><p>3</p></td>
 <td><p>Cry again</p></td>
-<td><p><a href="../Page/2017년.md" title="wikilink">2017년</a> <a href="../Page/5월_24일.md" title="wikilink">5월 24일</a><br />
-<em>(발매 예정)</em></p></td>
+<td><p><a href="../Page/2017년.md" title="wikilink">2017년</a> <a href="../Page/5월_24일.md" title="wikilink">5월 24일</a></p></td>
 <td><ol>
 <li>Cry again</li>
 <li>Oh Mama</li>
@@ -200,12 +195,120 @@
 초도 한정판 B：POCS-9161<br />
 통상판：POCS-1583</p></td>
 </tr>
+<tr class="even">
+<td><p>4</p></td>
+<td><p>Lady</p></td>
+<td><p><a href="../Page/2018년.md" title="wikilink">2018년</a> <a href="../Page/11월_28일.md" title="wikilink">11월 28일</a></p></td>
+<td><ol>
+<li>Lady</li>
+<li>My Love</li>
+<li>Lady (Instrumental)</li>
+<li>My Love (Instrumental)</li>
+</ol></td>
+<td><p>품번:AK-0078</p></td>
+</tr>
+<tr class="odd">
+<td><p>5</p></td>
+<td><p>BiBiDi BaBiDi Boo</p></td>
+<td><p><a href="../Page/2019년.md" title="wikilink">2019년</a> <a href="../Page/5월_8일.md" title="wikilink">5월 8일</a></p></td>
+<td><ol>
+<li>BiBiDi BaBiDi Boo</li>
+<li>KO</li>
+<li>BiBiDi BaBiDi Boo (Instrumental)</li>
+<li>KO (Instrumental)</li>
+</ol></td>
+<td><p>초도 한정판 A : AK-0082<br />
+초도 한정판 B : AK-0083<br />
+통상판 : AK-0084</p></td>
+</tr>
+<tr class="even">
+<td><p>6</p></td>
+<td><p>Call me babe</p></td>
+<td><p><a href="../Page/2019년.md" title="wikilink">2019년</a> <a href="../Page/12월_18일.md" title="wikilink">12월 18일</a></p></td>
+<td><ol>
+<li>Call me babe</li>
+<li>WISH YOU</li>
+<li>Call me babe (Instrumental)</li>
+<li>WISH YOU (Instrumental)</li>
+</ol></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
-## 타이업
+### 미니
 
-  - 마이니치 방송 《날씨의 안내》에서 〈Mystery〉 뮤직 비디오 온에어\[2\]
+<table>
+<thead>
+<tr class="header">
+<th><p>#</p></th>
+<th><p>제목</p></th>
+<th><p>발매일</p></th>
+<th><p>수록곡</p></th>
+<th><p>규격 품번</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>1</p></td>
+<td><p>Melody</p></td>
+<td><p><a href="../Page/2018년.md" title="wikilink">2018년</a> <a href="../Page/5월_30일.md" title="wikilink">5월 30일</a></p></td>
+<td><ol>
+<li>Piano</li>
+<li>Mystery</li>
+<li>하얀 셔츠</li>
+<li>Cry Again</li>
+<li>카멜레온</li>
+<li>누구? . .</li>
+<li>Piano (Instrumental)</li>
+<li>Mystery (Instrumental)</li>
+<li>하얀 셔츠 (Instrumental)</li>
+<li>Cry Again (Instrumental)</li>
+<li>카멜레온 (Instrumental)</li>
+<li>누구? . . (Instrumental)</li>
+</ol></td>
+<td><p>초도 한정판 : AK-0070<br />
+통상판 : AK-0071</p></td>
+</tr>
+</tbody>
+</table>
+
+### 정규
+
+<table>
+<thead>
+<tr class="header">
+<th><p>#</p></th>
+<th><p>제목</p></th>
+<th><p>발매일</p></th>
+<th><p>수록곡</p></th>
+<th><p>규격 품번</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>1</p></td>
+<td><p>Cherry Seeds</p></td>
+<td><p><a href="../Page/2017년.md" title="wikilink">2017년</a> <a href="../Page/11월_29일.md" title="wikilink">11월 29일</a></p></td>
+<td><ol>
+<li>Mystery</li>
+<li>카멜레온</li>
+<li>Cry Again</li>
+<li>Oh Mama</li>
+<li>ROSE</li>
+<li>하얀 셔츠</li>
+<li>SURISURI MASURI</li>
+<li>Hallo</li>
+<li>낡은 팝송처럼</li>
+<li>카멜레온 (Instrumental)</li>
+<li>Hallo (Instrumental)</li>
+<li>낡은 팝송처럼 (Instrumental)</li>
+</ol></td>
+<td><p>초도 한정판 : POCS- 9173<br />
+통상판 : POCS-1661</p></td>
+</tr>
+</tbody>
+</table>
 
 ## 출연
 
@@ -217,6 +320,10 @@
   - TV 가나가와 《음악관》()
   - MUSIC ON\! TV (엠온\!)
   - SPACE SHOWER TV PLUS
+
+### 타이업
+
+  - 마이니치 방송 《날씨의 안내》에서 〈Mystery〉 뮤직 비디오 온에어\[2\]
 
 ### 라디오
 

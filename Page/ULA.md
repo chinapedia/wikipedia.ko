@@ -21,7 +21,7 @@
 
 ## 각주
 
-[분류:항공우주 기업](https://ko.wikipedia.org/wiki/분류:항공우주_기업 "wikilink")
+[분류:항공우주 기업](https://ko.wikipedia.org/wiki/분류:항공우주_기업 "wikilink") [분류:앨라배마주의 기업](https://ko.wikipedia.org/wiki/분류:앨라배마주의_기업 "wikilink")
 
 1.  독점이 시작되는 순간 경쟁이 없어지기 때문에 민주주의는 그대로 끝이다.
 2.

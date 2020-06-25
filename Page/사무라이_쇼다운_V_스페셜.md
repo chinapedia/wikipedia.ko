@@ -13,7 +13,7 @@
 
 ## 발매
 
-최초 아케이드 및 가정용 네오지오 발매 후 이식이 전혀 이뤄지지 않다가, 2017년 7월 14일 [에볼루션 챔피언십에서](../Page/에볼루션_챔피언십_시리즈.md "wikilink") [플레이스테이션 4](../Page/플레이스테이션_4.md "wikilink") 및 [플레이스테이션 비타로](https://ko.wikipedia.org/wiki/플레이스테이션_비타 "wikilink") 이식이 발표됐다.\[2\] 해당 기종 발매 이후, [스팀](https://ko.wikipedia.org/wiki/스팀_\(플랫폼\) "wikilink") 및 [GOG.com](../Page/GOG.com.md "wikilink")를 통해 [마이크로소프트 윈도우](../Page/마이크로소프트_윈도우.md "wikilink"), [MacOS](https://ko.wikipedia.org/wiki/MacOS "wikilink"), [리눅스](../Page/리눅스.md "wikilink")로 이식됐다.
+최초 아케이드 및 가정용 네오지오 발매 후 이식이 전혀 이뤄지지 않다가, 2017년 7월 14일 [에볼루션 챔피언십에서](../Page/에볼루션_챔피언십_시리즈.md "wikilink") [플레이스테이션 4](../Page/플레이스테이션_4.md "wikilink") 및 [플레이스테이션 비타로](https://ko.wikipedia.org/wiki/플레이스테이션_비타 "wikilink") 이식이 발표됐다.\[2\] 해당 기종 발매 이후, [스팀](https://ko.wikipedia.org/wiki/스팀_\(플랫폼\) "wikilink") 및 [GOG.com](../Page/GOG.com.md "wikilink")를 통해 [마이크로소프트 윈도우](../Page/마이크로소프트_윈도우.md "wikilink"), [MacOS](../Page/MacOS.md "wikilink"), [리눅스](../Page/리눅스.md "wikilink")로 이식됐다.
 
 ## 각주
 

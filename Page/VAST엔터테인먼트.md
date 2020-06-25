@@ -7,8 +7,9 @@
 
   - [현빈](../Page/현빈.md "wikilink")
   - [김윤지](../Page/김윤지_\(배우\).md "wikilink")
+  - [스테파니 리](../Page/스테파니_리.md "wikilink")
   - [신도현](../Page/신도현.md "wikilink")
-  - [이재욱](https://ko.wikipedia.org/wiki/이재욱_\(1998년\) "wikilink")
+  - [이재욱](../Page/이재욱_\(1998년\).md "wikilink")
   - [김지인](https://ko.wikipedia.org/wiki/김지인_\(배우\) "wikilink")
   - [박이현](https://ko.wikipedia.org/wiki/박이현_\(배우\) "wikilink")
 

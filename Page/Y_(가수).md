@@ -5,7 +5,7 @@
 
 ## 학력
 
-  - [창신고등학교](../Page/창신고등학교.md "wikilink") (전학) → [서울공연예술고등학교](../Page/서울공연예술고등학교.md "wikilink") 실용음악과 (졸업)
+  - [대방초등학교](https://ko.wikipedia.org/wiki/대방초등학교 "wikilink") → [대방중학교](https://ko.wikipedia.org/wiki/대방중학교 "wikilink") → [창신고등학교](../Page/창신고등학교.md "wikilink") (전학) → [서울공연예술고등학교](../Page/서울공연예술고등학교.md "wikilink") 실용음악과 (졸업)
 
 ## 음반 목록
 
@@ -43,6 +43,6 @@
 
 ## 외부 링크
 
-[분류:1995년 태어남](https://ko.wikipedia.org/wiki/분류:1995년_태어남 "wikilink") [분류:2017년 데뷔](https://ko.wikipedia.org/wiki/분류:2017년_데뷔 "wikilink") [분류:대한민국의 가수](https://ko.wikipedia.org/wiki/분류:대한민국의_가수 "wikilink") [분류:대한민국의 발라드 음악가](https://ko.wikipedia.org/wiki/분류:대한민국의_발라드_음악가 "wikilink") [분류:대한민국의 남자 가수](https://ko.wikipedia.org/wiki/분류:대한민국의_남자_가수 "wikilink") [분류:대한민국의 남자 뮤지컬 배우](https://ko.wikipedia.org/wiki/분류:대한민국의_남자_뮤지컬_배우 "wikilink") [분류:비디오 자키](https://ko.wikipedia.org/wiki/분류:비디오_자키 "wikilink") [분류:대한민국의 남자 텔레비전 배우](https://ko.wikipedia.org/wiki/분류:대한민국의_남자_텔레비전_배우 "wikilink") [분류:골든차일드의 일원](https://ko.wikipedia.org/wiki/분류:골든차일드의_일원 "wikilink") [분류:서울공연예술고등학교 동문](https://ko.wikipedia.org/wiki/분류:서울공연예술고등학교_동문 "wikilink") [분류:울림엔터테인먼트 소속](https://ko.wikipedia.org/wiki/분류:울림엔터테인먼트_소속 "wikilink") [분류:창원시 출신](https://ko.wikipedia.org/wiki/분류:창원시_출신 "wikilink") [분류:경상남도 출신 가수](https://ko.wikipedia.org/wiki/분류:경상남도_출신_가수 "wikilink") [분류:경상남도 출신 음악가](https://ko.wikipedia.org/wiki/분류:경상남도_출신_음악가 "wikilink") [분류:미스터리 음악쇼 복면가왕 참가자](https://ko.wikipedia.org/wiki/분류:미스터리_음악쇼_복면가왕_참가자 "wikilink")
+[분류:1995년 태어남](https://ko.wikipedia.org/wiki/분류:1995년_태어남 "wikilink") [분류:대한민국의 가수](https://ko.wikipedia.org/wiki/분류:대한민국의_가수 "wikilink") [분류:대한민국의 발라드 음악가](https://ko.wikipedia.org/wiki/분류:대한민국의_발라드_음악가 "wikilink") [분류:대한민국의 남자 가수](https://ko.wikipedia.org/wiki/분류:대한민국의_남자_가수 "wikilink") [분류:대한민국의 남자 뮤지컬 배우](https://ko.wikipedia.org/wiki/분류:대한민국의_남자_뮤지컬_배우 "wikilink") [분류:비디오 자키](https://ko.wikipedia.org/wiki/분류:비디오_자키 "wikilink") [분류:대한민국의 남자 텔레비전 배우](https://ko.wikipedia.org/wiki/분류:대한민국의_남자_텔레비전_배우 "wikilink") [분류:골든차일드의 일원](https://ko.wikipedia.org/wiki/분류:골든차일드의_일원 "wikilink") [분류:서울공연예술고등학교 동문](https://ko.wikipedia.org/wiki/분류:서울공연예술고등학교_동문 "wikilink") [분류:울림엔터테인먼트 소속](https://ko.wikipedia.org/wiki/분류:울림엔터테인먼트_소속 "wikilink") [분류:창원시 출신](https://ko.wikipedia.org/wiki/분류:창원시_출신 "wikilink") [분류:경상남도 출신 가수](https://ko.wikipedia.org/wiki/분류:경상남도_출신_가수 "wikilink") [분류:경상남도 출신 음악가](https://ko.wikipedia.org/wiki/분류:경상남도_출신_음악가 "wikilink") [분류:미스터리 음악쇼 복면가왕 참가자](https://ko.wikipedia.org/wiki/분류:미스터리_음악쇼_복면가왕_참가자 "wikilink") [분류:살아있는 사람](https://ko.wikipedia.org/wiki/분류:살아있는_사람 "wikilink")
 
 1.  [울림엔터테인먼트 공식홈페이지 프로필](http://woolliment.phps.kr/artists/about_goldenchild.php)

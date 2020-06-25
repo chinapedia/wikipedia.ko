@@ -26,4 +26,4 @@
 </tbody>
 </table>
 
-[분류:2019년 설립된 축구단](https://ko.wikipedia.org/wiki/분류:2019년_설립된_축구단 "wikilink") [분류:메이저 리그 사커 구단](https://ko.wikipedia.org/wiki/분류:메이저_리그_사커_구단 "wikilink")
+[분류:2019년 설립된 축구단](https://ko.wikipedia.org/wiki/분류:2019년_설립된_축구단 "wikilink") [분류:메이저 리그 사커 구단](https://ko.wikipedia.org/wiki/분류:메이저_리그_사커_구단 "wikilink") [분류:텍사스주의 축구단](https://ko.wikipedia.org/wiki/분류:텍사스주의_축구단 "wikilink")

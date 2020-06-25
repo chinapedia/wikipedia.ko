@@ -24,7 +24,6 @@
   - 쩐 리 민 트 (Trần Lý Minh Thư) / Ashley 애슬리
   - 쩐 깟 뜨응 (Trần Cát Tường) / Anna 안나
   - 응우옌 티 민 트 (Nguyễn Thị Minh Thư) / Tammy 땀미
-  - 응우옌 꾸에 민 헌 (Nguyễn Quế Minh Hân) / Sachi 사치이
   - 응우옌 레 튀 응업 (Nguyễn Lê Thuỳ Ngọc) / Elena 엘레나
   - 레 응우옌 품 니 (Lê Nguyễn Phụng Nhi) / Phụng Nhi 품 니
   - 팜 럼 안 쭙 (Phạm Lâm Ánh Trúc) / Trúc Phạm 쭙 팜
@@ -45,6 +44,7 @@
   - 코세키 유미 (Koseki Yumi, 小関優実) - 유일한 일본인
   - 짠 응우옌 프엉 비 (Trần Nguyễn Phương Vy)
   - 타이 자 응이 (Thái Gia Nghi)
+  - 응우옌 꾸에 민 헌 (Nguyễn Quế Minh Hân) / Sachi 사치이
 
 ## 디스코그래피
 
@@ -116,8 +116,8 @@
   - [MNL48](../Page/MNL48.md "wikilink")
   - [AKB48 Team SH](../Page/AKB48_Team_SH.md "wikilink")
   - [AKB48 Team TP](../Page/AKB48_Team_TP.md "wikilink")
-  - [CGM48](https://ko.wikipedia.org/wiki/CGM48 "wikilink")
-  - [DEL48](https://ko.wikipedia.org/wiki/DEL48 "wikilink")
+  - [CGM48](../Page/CGM48.md "wikilink")
+  - [DEL48](../Page/DEL48.md "wikilink")
   - [MUB48](../Page/MUB48.md "wikilink")
 
 ## 각주
@@ -138,7 +138,7 @@
 
   -
 
-  - [SGO48의 채널](https://channels.vlive.tv/A69B13/home) - [V LIVE](https://ko.wikipedia.org/wiki/V_LIVE "wikilink")
+  - [SGO48의 채널](https://channels.vlive.tv/A69B13/home) - [V LIVE](../Page/V_LIVE.md "wikilink")
 
 [\*](https://ko.wikipedia.org/wiki/분류:SGO48 "wikilink") [분류:베트남의 음악 그룹](https://ko.wikipedia.org/wiki/분류:베트남의_음악_그룹 "wikilink") [분류:베트남의 걸 그룹](https://ko.wikipedia.org/wiki/분류:베트남의_걸_그룹 "wikilink") [분류:2018년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2018년_결성된_음악_그룹 "wikilink") [분류:10인조 이상 음악 그룹](https://ko.wikipedia.org/wiki/분류:10인조_이상_음악_그룹 "wikilink")
 

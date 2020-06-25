@@ -19,7 +19,7 @@
 
 R\*은 [부루쇼인과](../Page/훈자족.md "wikilink") [파슈툰인](../Page/파슈툰인.md "wikilink")에게서 10%, [카라슈인](https://ko.wikipedia.org/wiki/카라슈인 "wikilink")에게서 6% 정도의 빈도로 나타난다.\[1\] 시베리아에서 발견된 24,000년 전의 [Mal'ta-Buret 문화](https://ko.wikipedia.org/wiki/w:en:Mal'ta–Buret'_culture "wikilink") 유물의 인골에서 발견된 바 있다.\[2\]
 
-R1계통은 마지막 [빙하기](../Page/빙하기.md "wikilink") 말기에 확산되기 시작한 것으로 보이는데, 유럽, 중앙아시아 등 유라시아의 서부에서는 가장 흔하게 보이는 그룹이다. 또한 [대항해시대](../Page/대항해시대.md "wikilink") 이후 아메리카나 오세아니아에도 다수 진출하여 현대에는 [하플로그룹 O와](../Page/하플로그룹_O_\(Y-DNA\).md "wikilink") 함께 지구상에서 가장 흔한 하플로그룹 중 하나이다. 그러나 혼혈이 확인되지 않는 [아메리카 원주민들에게서도](../Page/아메리카_원주민.md "wikilink") 검출되는데, 이에 관해서는 여러 이설들이 있다. R1의 하위 그룹으로는 [하플로그룹 R1a와](https://ko.wikipedia.org/wiki/하플로그룹_R1a_\(Y-DNA\) "wikilink") [하플로그룹 R1b가](https://ko.wikipedia.org/wiki/하플로그룹_R1b_\(Y-DNA\) "wikilink") 있다.
+R1계통은 마지막 [빙하기](../Page/빙하기.md "wikilink") 말기에 확산되기 시작한 것으로 보이는데, 유럽, 중앙아시아 등 유라시아의 서부에서는 가장 흔하게 보이는 그룹이다. 또한 [대항해시대](../Page/대항해시대.md "wikilink") 이후 아메리카나 오세아니아에도 다수 진출하여 현대에는 [하플로그룹 O와](../Page/하플로그룹_O_\(Y-DNA\).md "wikilink") 함께 지구상에서 가장 흔한 하플로그룹 중 하나이다. 그러나 혼혈이 확인되지 않는 [아메리카 원주민들에게서도](../Page/아메리카_원주민.md "wikilink") 검출되는데, 이에 관해서는 여러 이설들이 있다. R1의 하위 그룹으로는 [하플로그룹 R1a와](../Page/하플로그룹_R1a_\(Y-DNA\).md "wikilink") [하플로그룹 R1b가](../Page/하플로그룹_R1b_\(Y-DNA\).md "wikilink") 있다.
 
 하플로그룹 R1a은 인도 북부에서 중앙시아 및 동유럽에서 고빈도로 나타나는 그룹으로, [인도유럽어족](https://ko.wikipedia.org/wiki/인도유럽어족 "wikilink")의 [사템어](https://ko.wikipedia.org/wiki/사템어 "wikilink")와 연관되어 있는 것으로 생각된다.
 

@@ -7,7 +7,7 @@
 
   - 1993년 : [딕슨상](https://ko.wikipedia.org/wiki/딕슨상 "wikilink")
   - 1993년 : [리처드 런즈베리상](https://ko.wikipedia.org/wiki/리처드_런즈베리상 "wikilink")
-  - 1994년 : [앨버트 래스커 기초 의학 연구상](https://ko.wikipedia.org/wiki/앨버트_래스커_기초_의학_연구상 "wikilink")
+  - 1994년 : [앨버트 래스커 기초 의학 연구상](../Page/앨버트_래스커_기초_의학_연구상.md "wikilink")
   - 1996년 : [게이오 의학상](https://ko.wikipedia.org/wiki/게이오_의학상 "wikilink")
   - 1997년 : 노벨 생리학·의학상\[3\]
 

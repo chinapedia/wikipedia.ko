@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [피츠버그 파이리츠 \(NHL\)](https://ko.wikipedia.org/wiki/피츠버그_파이리츠_\(NHL\)).
 
 
-**피츠버그 파이리츠**(Pittsburgh Pirates)는 1925년부터 1930년까지 [펜실베이니아주](../Page/펜실베이니아주.md "wikilink") [피츠버그](../Page/피츠버그.md "wikilink")를 연고지로 하는 [NHL의](../Page/내셔널_하키_리그.md "wikilink") [아메리칸 디비전](../Page/아메리칸_디비전_\(NHL\).md "wikilink") 소속 아이스 하키팀이다.
+**피츠버그 파이리츠**(Pittsburgh Pirates)는 1925년부터 1930년까지 [펜실베이니아주](../Page/펜실베이니아주.md "wikilink") [피츠버그](../Page/피츠버그.md "wikilink")를 연고지로 하는 [NHL의](../Page/내셔널_하키_리그.md "wikilink") [아메리칸 디비전](../Page/아메리칸_디비전.md "wikilink") 소속 아이스 하키팀이다.
 
 ## 역대 홈경기장
 

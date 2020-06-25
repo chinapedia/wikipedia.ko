@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Modern Love](https://ko.wikipedia.org/wiki/Modern_Love).
 
 
-《**Modern Love**》는 [데이비드 보위가](../Page/데이비드_보위.md "wikilink") 작사, 작곡하고 녹음한 곡이다. 보위의 15번째 앨범 《[Let's Dance](https://ko.wikipedia.org/wiki/Let's_Dance_\(음반\) "wikilink")》의 1번 트랙이기도하다. 1983년 해당 앨범의 세 번째 싱글로 발매되었다.
+《**Modern Love**》는 [데이비드 보위가](../Page/데이비드_보위.md "wikilink") 작사, 작곡하고 녹음한 곡이다. 보위의 15번째 앨범 《[Let's Dance](../Page/Let's_Dance_\(음반\).md "wikilink")》의 1번 트랙이기도하다. 1983년 해당 앨범의 세 번째 싱글로 발매되었다.
 
 보위는 [리틀 리처드에게서](../Page/리틀_리처드.md "wikilink") 영감을 받았다고하며, [신](../Page/신.md "wikilink")과 인간 사이의 문제를 다루고 있는 앨범의 분위기를 유지하고 있다. 이 곡의 가사중 "Get me to the church on time" 부분은 《[마이 페어 레이디](https://ko.wikipedia.org/wiki/마이_페어_레이디 "wikilink")》의 [동명의 곡의](https://ko.wikipedia.org/wiki/Get_Me_to_the_Church_on_Time "wikilink") 제목이기도 하다.
 

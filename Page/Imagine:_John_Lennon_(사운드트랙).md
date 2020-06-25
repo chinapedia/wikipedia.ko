@@ -27,7 +27,7 @@
 <!-- end list -->
 
 1.  "[Real Love](../Page/Real_Love_\(비틀즈의_노래\).md "wikilink")" – 2:48
-      - 존 레논의 미발표 솔로 데모로, 1979년 10월 즈음 녹음된 데모이다. 다른 버전의 데모들 중 하나는 1995년 나머지 비틀즈 멤버들의 오버더빙 작업을 거쳐 1996년 비틀즈의 편집 음반 《[Anthology 2](https://ko.wikipedia.org/wiki/Anthology_2 "wikilink")》에 실려 발표되었다.
+      - 존 레논의 미발표 솔로 데모로, 1979년 10월 즈음 녹음된 데모이다. 다른 버전의 데모들 중 하나는 1995년 나머지 비틀즈 멤버들의 오버더빙 작업을 거쳐 1996년 비틀즈의 편집 음반 《[Anthology 2](../Page/Anthology_2.md "wikilink")》에 실려 발표되었다.
 2.  "[Twist and Shout](../Page/Twist_and_Shout.md "wikilink")" (필 메들리, 버트 번스) – 2:33
       - 비틀즈의 1963년 [데뷔](https://ko.wikipedia.org/wiki/데뷔 "wikilink") 음반 《[Please Please Me](https://ko.wikipedia.org/wiki/Please_Please_Me "wikilink")》에 수록된 곡이다.
 3.  "[Help\!](../Page/Help!_\(노래\).md "wikilink")" (존 레논, 폴 매카트니) – 2:18
@@ -49,7 +49,7 @@
 
     <li value="7">
 
-    "[Revolution](https://ko.wikipedia.org/wiki/Revolution_\(비틀즈의_노래\) "wikilink")" (존 레논, 폴 매카트니) – 3:24
+    "[Revolution](../Page/Revolution_\(비틀즈의_노래\).md "wikilink")" (존 레논, 폴 매카트니) – 3:24
 
       - 비틀즈의 1968년 싱글 《[Hey Jude](../Page/Hey_Jude.md "wikilink")》의 B면 곡으로 발표됐던 곡이다.
 

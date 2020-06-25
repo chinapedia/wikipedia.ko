@@ -49,7 +49,7 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/1996년_AFC_아시안컵" title="wikilink">1996년</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/2000년_AFC_아시안컵" title="wikilink">2000년</a></p></td>
+<td><p><a href="../Page/2000년_AFC_아시안컵.md" title="wikilink">2000년</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/2004년_AFC_아시안컵" title="wikilink">2004년</a></p></td>
@@ -551,7 +551,7 @@
 
 ### 8강전
 
-## [2000년 AFC 아시안컵](https://ko.wikipedia.org/wiki/2000년_AFC_아시안컵 "wikilink")
+## [2000년 AFC 아시안컵](../Page/2000년_AFC_아시안컵.md "wikilink")
 
 ### B조
 

@@ -7,7 +7,7 @@
 
 ## 투어
 
-1982년 [Hot Space Tour는](https://ko.wikipedia.org/wiki/Hot_Space_Tour "wikilink") 2005년 [Queen + Paul Rodgers Tour가](https://ko.wikipedia.org/wiki/Queen_+_Paul_Rodgers_Tour "wikilink") 있기 전까지 퀸의 마지막 북아메리카 투어였다. 이 밴드는 1984년 [The Works Tour와](https://ko.wikipedia.org/wiki/The_Works_Tour "wikilink") 1986년 [The Magic Tour를](https://ko.wikipedia.org/wiki/The_Magic_Tour "wikilink") 위해 북미 투어를 하지 않았으며, 그 후 머큐리의 [에이즈](https://ko.wikipedia.org/wiki/에이즈 "wikilink")로 인해 투어를 중단했다.\[8\]
+1982년 [Hot Space Tour는](https://ko.wikipedia.org/wiki/Hot_Space_Tour "wikilink") 2005년 [Queen + Paul Rodgers Tour가](https://ko.wikipedia.org/wiki/Queen_+_Paul_Rodgers_Tour "wikilink") 있기 전까지 퀸의 마지막 북미 투어였다. 이 밴드는 1984년 [The Works Tour와](https://ko.wikipedia.org/wiki/The_Works_Tour "wikilink") 1986년 [The Magic Tour를](https://ko.wikipedia.org/wiki/The_Magic_Tour "wikilink") 위해 북미 투어를 하지 않았으며, 그 후 머큐리의 [에이즈](https://ko.wikipedia.org/wiki/에이즈 "wikilink")로 인해 투어를 중단했다.\[8\]
 
 ## 곡 목록
 

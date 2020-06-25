@@ -35,7 +35,7 @@
   - 2019년 4월 24일 소야 - **\[Digital Single\] 늘어진 우리의 연애**
   - 2019년 5월 4일 [벤지](https://ko.wikipedia.org/wiki/B.I.G "wikilink") - **JTBC 슈퍼밴드 Episode 3,4**
   - 2019년 5월 18일 벤지 - **JTBC 슈퍼밴드 Episode 6**
-  - 2019년 5월 21일 [써드아이](https://ko.wikipedia.org/wiki/써드아이 "wikilink") - **\[Digital Single\] DMT**
+  - 2019년 5월 21일 [써드아이](../Page/써드아이.md "wikilink") - **\[Digital Single\] DMT**
   - 2019년 9월 17일 써드아이 - **\[Digital Single\] OOMM**
   - 2019년 9월 27일 소야 - **\[Digital Single\] 이별에 베인 사랑까지도**
   - 2019년 11월 4일 B.I.G - **\[Digital Single\] Illusion**

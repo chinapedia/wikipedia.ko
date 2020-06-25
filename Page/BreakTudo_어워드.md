@@ -14,21 +14,9 @@
 **\*[Anitta](https://ko.wikipedia.org/wiki/Anitta "wikilink")**
 
   - [Claudia Leitte](https://ko.wikipedia.org/wiki/Claudia_Leitte "wikilink")\[8\]
-
-<!-- end list -->
-
   - [Ivete Sangalo](https://ko.wikipedia.org/wiki/Ivete_Sangalo "wikilink")
-
-<!-- end list -->
-
   - Iza
-
-<!-- end list -->
-
   - Joelma
-
-<!-- end list -->
-
   - Ludmilla
 
 ### Male Artist Brazilian
@@ -38,57 +26,27 @@
 '''\*[Luan Santana](https://ko.wikipedia.org/wiki/Luan_Santana "wikilink") '''\[9\]
 
   - Lucas Lucco
-
-<!-- end list -->
-
   - Leo Santana
-
-<!-- end list -->
-
   - Micael Borges
-
-<!-- end list -->
-
   - Thiago Brava
 
 ### Female Artist International
 
   - [Ariana Grande](https://ko.wikipedia.org/wiki/Ariana_Grande "wikilink")
-
-<!-- end list -->
-
   - [Cardi B](https://ko.wikipedia.org/wiki/Cardi_B "wikilink")
 
 **\*Camila Cabello**
 
   - Demi Lovato
-
-<!-- end list -->
-
   - Selena Gomez
-
-<!-- end list -->
-
   - Taylor Swift
 
 ### Male Artist International
 
   - Bruno Mars
-
-<!-- end list -->
-
   - Charlie Puth
-
-<!-- end list -->
-
   - Drake
-
-<!-- end list -->
-
   - Ed Sheeran
-
-<!-- end list -->
-
   - Sam Smith
 
 '''\*Shawn Mendes '''\[10\]
@@ -98,17 +56,8 @@
 ### Eletronic Artist
 
   - Avicii
-
-<!-- end list -->
-
   - Calvin Harris
-
-<!-- end list -->
-
   - David Guetta
-
-<!-- end list -->
-
   - Jonas Blue
 
 **\*Steve Aoki**
@@ -120,41 +69,20 @@
 **\*[Anitta](https://ko.wikipedia.org/wiki/Anitta_\(singer\) "wikilink")**
 
   - [Becky G](https://ko.wikipedia.org/wiki/Becky_G "wikilink")
-
-<!-- end list -->
-
   - [J Balvin](https://ko.wikipedia.org/wiki/J_Balvin "wikilink")
-
-<!-- end list -->
-
   - [Lali](https://ko.wikipedia.org/wiki/Lali_Espósito "wikilink")
-
-<!-- end list -->
-
   - [Maluma](https://ko.wikipedia.org/wiki/Maluma_\(singer\) "wikilink")
-
-<!-- end list -->
-
   - [Sebastian Yatra](https://ko.wikipedia.org/wiki/Sebastian_Yatra "wikilink")
 
 ### K-pop Male Artist
 
   - [Baekhyun](https://ko.wikipedia.org/wiki/Baekhyun "wikilink")
-
-<!-- end list -->
-
   - G-Dragon
-
-<!-- end list -->
-
   - Holland
 
 **\*[Jackson Wang](https://ko.wikipedia.org/wiki/Jackson_Wang "wikilink")**
 
   - Jay Park
-
-<!-- end list -->
-
   - Taemin
 
 ### K-pop Female Artist
@@ -164,18 +92,9 @@
 <!-- end list -->
 
   - IU ([아이유](https://ko.wikipedia.org/wiki/아이유 "wikilink"))
-
-<!-- end list -->
-
   - Hyuna ([현아](../Page/현아.md "wikilink"))
-
-<!-- end list -->
-
   - Heize
-
-<!-- end list -->
-
-  - Suzy [수지](../Page/수지_\(대한민국의_가수\).md "wikilink")
+  - Suzy [수지](../Page/수지_\(1994년\).md "wikilink")
 
 <!-- end list -->
 
@@ -186,21 +105,9 @@
 **\*BTS ([방탄소년단](../Page/방탄소년단.md "wikilink"))**
 
   - [EXO](../Page/EXO.md "wikilink")
-
-<!-- end list -->
-
   - [GOT7](https://ko.wikipedia.org/wiki/GOT7 "wikilink")
-
-<!-- end list -->
-
   - MONSTA X ([몬스타엑스](../Page/몬스타엑스.md "wikilink"))
-
-<!-- end list -->
-
   - SHINee ([샤이니](../Page/샤이니.md "wikilink"))
-
-<!-- end list -->
-
   - Wanna One ([워너원](../Page/워너원.md "wikilink"))
 
 ### K-pop Female Group
@@ -214,9 +121,6 @@
 **\*Mamamoo ([마마무](../Page/마마무.md "wikilink"))**
 
   - Momoland ([모모랜드](../Page/모모랜드.md "wikilink"))
-
-<!-- end list -->
-
   - Red Velvet ([레드벨벳 (음악 그룹)](../Page/레드벨벳_\(음악_그룹\).md "wikilink"))
 
 <!-- end list -->
@@ -230,17 +134,8 @@
 **\*[BTS](https://ko.wikipedia.org/wiki/BTS_\(grupo_musical\) "wikilink")**
 
   - IKON
-
-<!-- end list -->
-
   - Kard
-
-<!-- end list -->
-
   - Monsta X
-
-<!-- end list -->
-
   - NCT 127
 
 ### Album of the Year
@@ -248,37 +143,16 @@
 **\*Camila - Camila Cabello**
 
   - Everything Is Love - The Carters (Beyoncé e Jay-Z)
-
-<!-- end list -->
-
   - Invasion of Privacy - Cardi B
-
-<!-- end list -->
-
   - Reputation - Taylor Swift
-
-<!-- end list -->
-
   - Voicenotes - Charlie Puth
-
-<!-- end list -->
-
   - The Thrill of It All - Sam Smith
 
 ### Best Soundtrack Music
 
   - Hailee Steinfeld e BloodPop - Capital Letters - Cinquenta Tons de Liberdade
-
-<!-- end list -->
-
   - Liam Payne e Rita Ora - For You - Cinquenta Tons de Liberdade
-
-<!-- end list -->
-
   - Machine Gun Kelly, X Ambassadors & Bebe Rexha - Home - Bright
-
-<!-- end list -->
-
   - Niall Horan - Finally Free - Smallfoot
 
 **\*Selena Gomez - Back To You - 13 Reasons Why**
@@ -288,21 +162,9 @@
 ### New Artist Brazilian
 
   - Aretuza Lovi
-
-<!-- end list -->
-
   - Clau
-
-<!-- end list -->
-
   - Franncine
-
-<!-- end list -->
-
   - Jão
-
-<!-- end list -->
-
   - Luísa Sonza
 
 **\*Vitor Kley**
@@ -310,21 +172,9 @@
 ### New Artist International
 
   - Billie Eilish
-
-<!-- end list -->
-
   - Era Istrefi\[12\]
-
-<!-- end list -->
-
   - HRVY\[13\]
-
-<!-- end list -->
-
   - Sigrid\[14\]
-
-<!-- end list -->
-
   - SZA\[15\]\[16\]
 
 **\*Why Don't We**
@@ -332,21 +182,9 @@
 ### Brazilian Viral Music
 
   - Amor de Verdade - MC Kekel e MC Rita
-
-<!-- end list -->
-
   - Envolvimento - MC Loma
-
-<!-- end list -->
-
   - Joga a Bunda - Aretuza Lovi, Pabllo Vittar e Gloria Groove.
-
-<!-- end list -->
-
   - Que Tiro Foi Esse - Jojo Toddynho
-
-<!-- end list -->
-
   - Tô bem, Tô zen - Melody feat Bella Angel
 
 **\*Vai Malandra - Anitta**
@@ -356,41 +194,17 @@
 **\*BTS**\[17\]
 
   - CNCO
-
-<!-- end list -->
-
   - 5 Seconds of Summer
-
-<!-- end list -->
-
   - Imagine Dragons
-
-<!-- end list -->
-
   - Little Mix
-
-<!-- end list -->
-
   - Maroon 5
 
 ### National Duo or Group
 
   - Anavitória
-
-<!-- end list -->
-
   - Jorge e Mateus
-
-<!-- end list -->
-
   - Melim
-
-<!-- end list -->
-
   - Ravena
-
-<!-- end list -->
-
   - Rouge
 
 **\*Simone e Simaria**
@@ -398,21 +212,12 @@
 ### Artist on the Rise
 
   - Anne-Marie
-
-<!-- end list -->
-
   - Bazzi
-
-<!-- end list -->
-
   - Bebe Rexha\[18\]
 
 **\*Dua Lipa**
 
   - Khalid
-
-<!-- end list -->
-
   - Sabrina Carpenter
 
 ### Hit of the Year
@@ -422,25 +227,13 @@
 **\*Havana - Camila Cabello**
 
   - I'll Be There - Jess Glynne
-
-<!-- end list -->
-
   - In My Feelings - Drake
-
-<!-- end list -->
-
   - Meant To Be - Bebe Rexha feat. Florida Georgia Line
-
-<!-- end list -->
-
   - Perfect - Ed Sheeran e Beyoncé
 
 ### Best Fandom
 
   - Anitters - Anitta
-
-<!-- end list -->
-
   - Beliebers - Justin Bieber
 
 **\*BTS Army - BTS**
@@ -450,17 +243,8 @@
 <!-- end list -->
 
   - Lovatics - Demi Lovato
-
-<!-- end list -->
-
   - Mendes Army - Shawn Mendes
-
-<!-- end list -->
-
   - Mixers - Little Mix
-
-<!-- end list -->
-
   - Selenators - Selena Gomez
 
 ### Summer Tour
@@ -470,34 +254,16 @@
 **\*Camila Cabello: Never Be the Same Tour**
 
   - Charlie Puth - Voicenotes Tour
-
-<!-- end list -->
-
   - Harry: Harry Styles: Live on Tour\[20\]
     </center>
-
-<!-- end list -->
-
   - Katy Perry - Witness: The Tour
-
-<!-- end list -->
-
   - Taylor Swift - Reputation Tour
 
 ### Best Collaboration
 
   - All The Stars - Kendrick Lamar e SZA\[21\]
-
-<!-- end list -->
-
   - Girls Like You - Maroon 5 e Cardi B
-
-<!-- end list -->
-
   - No Brainer - DJ Khaled feat Justin Bieber, Chance the Rapper, Quavo
-
-<!-- end list -->
-
   - One Kiss - Dua Lipa e Calvin Harris
 
 **\*Solo - Demi Lovato e Clean Bandit**\[22\]
@@ -507,17 +273,8 @@
 ### Debut Music Video
 
   - Aww - Baby Ariel\[23\]
-
-<!-- end list -->
-
   - Celoso - Lele Pons
-
-<!-- end list -->
-
   - ESTRENO: Este Movimiento - Like, La Leyenda
-
-<!-- end list -->
-
   - FAVORITE - Loona
 
 **\*Little Things - Jackson Krecioch**\[24\]
@@ -531,13 +288,7 @@
 <!-- end list -->
 
   - DDU-DU DDU-DU - BlackPink
-
-<!-- end list -->
-
   - Fall In Line - Christina Aguilera e Demi Lovato
-
-<!-- end list -->
-
   - I Like It - Cardi B, Bad Bunny e J Balvin\[26\]
 
 **\*Machika - J Balvin, Anitta e Jeon**
@@ -547,25 +298,10 @@
 ### Internet Personality
 
   - Carlinhos Maia
-
-<!-- end list -->
-
   - Emilly Araújo
-
-<!-- end list -->
-
   - Hugo Gloss
-
-<!-- end list -->
-
   - Kéfera Buchmann\[27\]
-
-<!-- end list -->
-
   - Lorena Improta
-
-<!-- end list -->
-
   - Vivian Amorim\[28\]\[29\]
 
 ### National Instagrammer
@@ -575,21 +311,9 @@
 </ref>
 
   - Flavia Pavanelli
-
-<!-- end list -->
-
   - Gustavo Rocha
-
-<!-- end list -->
-
   - Leo Picon
-
-<!-- end list -->
-
   - Munik Nunes\[32\]\[33\]\[34\]\[35\]
-
-<!-- end list -->
-
   - Nah Cardoso
 
 International Instagrammer
@@ -601,65 +325,26 @@ International Instagrammer
 \[38\]
 
   - Pietro Boselli
-
-<!-- end list -->
-
   - Loren Gray
-
-<!-- end list -->
-
   - Bryce Hall
-
-<!-- end list -->
-
   - Victoria Justice\[39\]\[40\]
-
-<!-- end list -->
-
   - Hannah Stocking
 
 ### International Youtuber
 
   - Caspar Lee
-
-<!-- end list -->
-
   - Juanpa Zurita
-
-<!-- end list -->
-
   - Lele Pons
-
-<!-- end list -->
-
   - Jake Paul
-
-<!-- end list -->
-
   - Felix Kjellberg - PewDiePie
-
-<!-- end list -->
-
   - Shay Mitchell
 
 ### Youtuber Male Brazilian
 
   - Diogo Bellau - Diogo Paródias
-
-<!-- end list -->
-
   - Carlos Santana
-
-<!-- end list -->
-
   - Felipe Neto\[41\]
-
-<!-- end list -->
-
   - João Guilherme
-
-<!-- end list -->
-
   - Luba - LubaTV\[42\]
     </center>
 
@@ -670,93 +355,36 @@ International Instagrammer
 ### Youtuber Female Brazilian
 
   - Bibi Tatto
-
-<!-- end list -->
-
   - Fernanda Catania - Foquinha
-
-<!-- end list -->
-
   - Franciny Ehlke
-
-<!-- end list -->
-
   - Kéfera Buchmann
-
-<!-- end list -->
-
   - Mariana Saad
-
-<!-- end list -->
-
   - Viih Tube
 
 ### Brazilian Actor
 
   - Caio Paduan - O Outro Lado do Paraíso
-
-<!-- end list -->
-
   - Chay Suede - Segundo Sol
-
-<!-- end list -->
-
   - Marcos Pitombo - Orgulho e Paixão
-
-<!-- end list -->
-
   - Nícolas Prattes - O Tempo não Para
-
-<!-- end list -->
-
   - Rômulo Estrela - Deus Salve o Rei
-
-<!-- end list -->
-
   - Thiago Fragoso - O Outro Lado do Paraíso
 
 ### Brazilian Actress
 
   - Bia Arantes - Deus Salve o Rei
-
-<!-- end list -->
-
   - Bruna Marquezine - Deus Salve o Rei
-
-<!-- end list -->
-
   - Érika Januza - O Outro Lado do Paraíso
-
-<!-- end list -->
-
   - Larissa Manoela - As Aventuras de Poliana
-
-<!-- end list -->
-
   - Leticia Colin - Segundo Sol
-
-<!-- end list -->
-
   - Marina Ruy Barbosa - Deus Salve o Rei
 
 ### Best Reality Star
 
   - Ana Clara Lima
-
-<!-- end list -->
-
   - Flávia Viana\[43\]\[44\]\[45\]\[46\]
-
-<!-- end list -->
-
   - Gleici Damasceno
-
-<!-- end list -->
-
   - Kaysar Dadour
-
-<!-- end list -->
-
   - Marcos Harter\[47\]
 
 <!-- end list -->
@@ -766,121 +394,46 @@ International Instagrammer
 ### International Actor
 
   - Chadwick Boseman - Pantera Negra
-
-<!-- end list -->
-
   - Dylan Minnette - 13 Reasons Why
-
-<!-- end list -->
-
   - Dylan O'Brien- Maze Runner: A Cura Mortal
-
-<!-- end list -->
-
   - KJ Apa - Riverdale
-
-<!-- end list -->
-
   - Louis Hofmann - Dark
-
-<!-- end list -->
-
   - Nick Robinson - Com Amor Simon
 
 ### International Actress
 
   - Bella Thorne - Midnight Sun
-
-<!-- end list -->
-
   - Camila Mendes - Riverdale
-
-<!-- end list -->
-
   - Elizabeth Olsen - Vingadores: Guerra Infinita
-
-<!-- end list -->
-
   - Emilia Clarke - Solo: A Star Wars Story
-
-<!-- end list -->
-
   - Gal Gadot - Liga das Justiça
-
-<!-- end list -->
-
   - Katherine Langford - 13 Reasons Why
 
 ### LGBT Movie
 
   - Alex Strangelove
-
-<!-- end list -->
-
   - Beach Rats
-
-<!-- end list -->
-
   - Call Me By Your Name
-
-<!-- end list -->
-
   - Disobedience
-
-<!-- end list -->
-
   - Gewoon Vrienden
-
-<!-- end list -->
-
   - Lov, Simon
 
 ### Favorite Movie
 
   - Annabelle 2: A Criação do Mal
-
-<!-- end list -->
-
   - Get Out
-
-<!-- end list -->
-
   - It: A Coisa
-
-<!-- end list -->
-
   - Pantera Negra
-
-<!-- end list -->
-
   - Três Anúncios Para um Crime
-
-<!-- end list -->
-
   - Vingadores - Guerra Infinita
 
 ### Best TV Show
 
   - 13 Reasons Why
-
-<!-- end list -->
-
   - Arrow
-
-<!-- end list -->
-
   - Dark
-
-<!-- end list -->
-
   - Riverdale
-
-<!-- end list -->
-
   - Shadowhunters
-
-<!-- end list -->
-
   - Stranger Things
 
 ## 후보자 및 수상자 2016
@@ -1120,11 +673,7 @@ International Instagrammer
 <td><p>Anitta (아니타)[60]</p></td>
 <td><ul>
 <li>Anitta (<a href="https://ko.wikipedia.org/wiki/아니타" title="wikilink">아니타</a>)[61][62]</li>
-</ul>
-<ul>
 <li>Ivete Sangalo (<a href="../Page/이베치_상갈루.md" title="wikilink">이베치 상갈루</a> )[63][64][65]</li>
-</ul>
-<ul>
 <li>Joelma[66][67]</li>
 <li>Ludmilla</li>
 <li>Naiara Azevedo</li>
@@ -1266,8 +815,6 @@ International Instagrammer
 <li>Parafernalha</li>
 <li><a href="https://ko.wikipedia.org/wiki/Porta_dos_Fundos" title="wikilink">Porta dos Fundos</a></li>
 <li>TecnoTudo Br[83][84][85][86][87]</li>
-</ul>
-<ul>
 <li>Você Sabia?</li>
 </ul></td>
 </tr>

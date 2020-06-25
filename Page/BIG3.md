@@ -252,7 +252,7 @@
 <tr class="odd">
 <td><p>3라운드</p></td>
 <td><p><a href="../Page/앨라배마주.md" title="wikilink">앨라배마주</a> <a href="https://ko.wikipedia.org/wiki/버밍햄" title="wikilink">버밍햄</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/레거시_아레나" title="wikilink">레거시 아레나</a></p></td>
+<td><p><a href="../Page/레거시_아레나.md" title="wikilink">레거시 아레나</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/조지아주.md" title="wikilink">조지아주</a> <a href="../Page/애틀랜타.md" title="wikilink">애틀랜타</a></p></td>
@@ -368,69 +368,7 @@
 
 ## 2020시즌 BIG3 개최한 경기장
 
-<table>
-<thead>
-<tr class="header">
-<th><p>날짜</p></th>
-<th><p>개최한 곳</p></th>
-<th><p>경기장</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>6월 20일</p></td>
-<td><p><a href="../Page/테네시주.md" title="wikilink">테네시주</a> <a href="../Page/멤피스_(테네시주).md" title="wikilink">멤피스</a></p></td>
-<td><p><a href="../Page/페덱스_포럼.md" title="wikilink">페덱스 포럼</a></p></td>
-</tr>
-<tr class="even">
-<td><p>6월 27일</p></td>
-<td><p><a href="../Page/뉴욕주.md" title="wikilink">뉴욕주</a> <a href="../Page/뉴욕.md" title="wikilink">뉴욕</a></p></td>
-<td><p>USTA 빌리 진 킹 내셔널 테니스 센터</p></td>
-</tr>
-<tr class="odd">
-<td><p>7월 11일</p></td>
-<td><p><a href="../Page/캘리포니아주.md" title="wikilink">캘리포니아주</a> <a href="https://ko.wikipedia.org/wiki/로스앤젤레스" title="wikilink">로스앤젤레스</a></p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>7월 18일</p></td>
-<td><p><a href="../Page/캘리포니아주.md" title="wikilink">캘리포니아주</a> <a href="https://ko.wikipedia.org/wiki/로스앤젤레스" title="wikilink">로스앤젤레스</a></p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>7월 25일</p></td>
-<td><p><a href="../Page/캘리포니아주.md" title="wikilink">캘리포니아주</a> <a href="https://ko.wikipedia.org/wiki/로스앤젤레스" title="wikilink">로스앤젤레스</a></p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>8월 1일</p></td>
-<td><p><a href="../Page/캘리포니아주.md" title="wikilink">캘리포니아주</a> <a href="https://ko.wikipedia.org/wiki/로스앤젤레스" title="wikilink">로스앤젤레스</a></p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>8월 8일</p></td>
-<td><p><a href="../Page/캘리포니아주.md" title="wikilink">캘리포니아주</a> <a href="https://ko.wikipedia.org/wiki/로스앤젤레스" title="wikilink">로스앤젤레스</a></p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>8월 15일</p></td>
-<td><p><a href="../Page/캘리포니아주.md" title="wikilink">캘리포니아주</a> <a href="https://ko.wikipedia.org/wiki/로스앤젤레스" title="wikilink">로스앤젤레스</a></p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>8월 22일<br />
-플레이오프</p></td>
-<td><p><a href="../Page/오리건주.md" title="wikilink">오리건주</a> <a href="../Page/포틀랜드_(오리건주).md" title="wikilink">포틀랜드</a></p></td>
-<td><p><a href="../Page/모다_센터.md" title="wikilink">모다 센터</a></p></td>
-</tr>
-<tr class="even">
-<td><p>8월 29일<br />
-챔피언십</p></td>
-<td><p>미정</p></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+  - [코로나-19](https://ko.wikipedia.org/wiki/코로나바이러스감염증-19 "wikilink") 인한 미개최
 
 ## 수상목록
 
@@ -708,6 +646,11 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/트리플렛" title="wikilink">트리플렛</a></p></td>
 <td></td>
 </tr>
+<tr class="even">
+<td><p>2020</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/코로나바이러스감염증-19" title="wikilink">코로나-19</a> 인한 미개최</p></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -767,6 +710,14 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/킬러_3&#39;s" title="wikilink">킬러 3's</a></p></td>
 <td><p>조 존슨</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/트리플렛" title="wikilink">트리플렛</a></p></td>
+</tr>
+<tr class="even">
+<td><p>2020</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/코로나바이러스감염증-19" title="wikilink">코로나-19</a> 인한 미개최</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 </tbody>
 </table>

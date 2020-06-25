@@ -7,9 +7,9 @@
 
 [AKB48](../Page/AKB48.md "wikilink")의 자매 그룹의 하나이다. 종합 프로듀스는 AKB48와 함께 [아키모토 야스시가](../Page/아키모토_야스시.md "wikilink") 맡았다. 그룹명의 유래는 뭄바이(**MU**m**B**ai). 그룹 색상은 황록색(위)과 흰색(아래).
 
-[2017년](../Page/2017년.md "wikilink") [12월 27일](../Page/12월_27일.md "wikilink"), AKB48 그룹 2대 총감독 [요코야마 유이가](../Page/요코야마_유이.md "wikilink") 새 자매 그룹 **[MUM48](https://ko.wikipedia.org/wiki/MUM48 "wikilink")**(엠유엠포티에이트)를 발족하는 것을 발표하였으나, [2018년](../Page/2018년.md "wikilink") [11월](../Page/11월.md "wikilink")에 [AKS와](../Page/AKS_\(기업\).md "wikilink") MUM48 회사 「RASHIMI RAJ MEDIA PRIVATE LIMITED」와 라이센스 계약이 해지되었다.
+[2017년](../Page/2017년.md "wikilink") [12월 27일](../Page/12월_27일.md "wikilink"), AKB48 그룹 2대 총감독 [요코야마 유이가](../Page/요코야마_유이.md "wikilink") 새 자매 그룹 **[MUM48](../Page/MUM48.md "wikilink")**(엠유엠포티에이트)를 발족하는 것을 발표하였으나, [2018년](../Page/2018년.md "wikilink") [11월](../Page/11월.md "wikilink")에 [AKS와](../Page/AKS_\(기업\).md "wikilink") MUM48 회사 「RASHIMI RAJ MEDIA PRIVATE LIMITED」와 라이센스 계약이 해지되었다.
 
-[2019년](../Page/2019년.md "wikilink") [6월 19일](../Page/6월_19일.md "wikilink"), 인도 [델리](../Page/델리.md "wikilink")를 거점으로 한 새 자매 그룹 [DEL48](https://ko.wikipedia.org/wiki/DEL48 "wikilink")와의 두 그룹을 발족했다\[1\]\[2\].
+[2019년](../Page/2019년.md "wikilink") [6월 19일](../Page/6월_19일.md "wikilink"), 인도 [델리](../Page/델리.md "wikilink")를 거점으로 한 새 자매 그룹 [DEL48](../Page/DEL48.md "wikilink")와의 두 그룹을 발족했다\[1\]\[2\].
 
 ## 관련 항목
 
@@ -36,8 +36,8 @@
   - [AKB48 Team SH](../Page/AKB48_Team_SH.md "wikilink")
   - [AKB48 Team TP](../Page/AKB48_Team_TP.md "wikilink")
   - [SGO48](../Page/SGO48.md "wikilink")
-  - [CGM48](https://ko.wikipedia.org/wiki/CGM48 "wikilink")
-  - [DEL48](https://ko.wikipedia.org/wiki/DEL48 "wikilink")
+  - [CGM48](../Page/CGM48.md "wikilink")
+  - [DEL48](../Page/DEL48.md "wikilink")
 
 ## 각주
 
@@ -45,7 +45,7 @@
 
 ## 외부 링크
 
-  - [MUB48 공식 홈페이지](http://www.mub48.com)
+  - [MUB48 공식 홈페이지](https://web.archive.org/web/20190620111710/https://www.mub48.com/)
 
   -
 

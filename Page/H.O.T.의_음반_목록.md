@@ -21,7 +21,7 @@
 <li>발매일: 1996년 9월 7일</li>
 <li>레이블: <a href="https://ko.wikipedia.org/wiki/SM엔터테인먼트" title="wikilink">SM엔터테인먼트</a></li>
 <li>포맷: <a href="../Page/콤팩트_디스크.md" title="wikilink">CD</a>, <a href="../Page/콤팩트_카세트.md" title="wikilink">테이프</a></li>
-<li>음반판매량: 90만장</li>
+<li>음반판매량: 103만장</li>
 </ul></td>
 </tr>
 <tr class="even">

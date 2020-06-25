@@ -29,4 +29,4 @@
   -
   -
   -
-[분류:1986년 태어남](https://ko.wikipedia.org/wiki/분류:1986년_태어남 "wikilink") [분류:살아있는 사람](https://ko.wikipedia.org/wiki/분류:살아있는_사람 "wikilink") [분류:대한민국의 힙합 DJ](https://ko.wikipedia.org/wiki/분류:대한민국의_힙합_DJ "wikilink") [분류:2006년 데뷔](https://ko.wikipedia.org/wiki/분류:2006년_데뷔 "wikilink") [분류:AOMG 음악가](https://ko.wikipedia.org/wiki/분류:AOMG_음악가 "wikilink") [분류:소울 컴퍼니 음악가](https://ko.wikipedia.org/wiki/분류:소울_컴퍼니_음악가 "wikilink")
+[분류:1986년 태어남](https://ko.wikipedia.org/wiki/분류:1986년_태어남 "wikilink") [분류:살아있는 사람](https://ko.wikipedia.org/wiki/분류:살아있는_사람 "wikilink") [분류:대한민국의 힙합 DJ](https://ko.wikipedia.org/wiki/분류:대한민국의_힙합_DJ "wikilink") [분류:AOMG 음악가](https://ko.wikipedia.org/wiki/분류:AOMG_음악가 "wikilink") [분류:소울 컴퍼니 음악가](https://ko.wikipedia.org/wiki/분류:소울_컴퍼니_음악가 "wikilink")

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [STIX 글꼴](https://ko.wikipedia.org/wiki/STIX_글꼴).
 
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:Times_and_STIX.png "wikilink"), STIX Two는 더높은 [x높이를](https://ko.wikipedia.org/wiki/X높이 "wikilink") 갖는다|300px\]\] \(STIX\) 글꼴(Scientific and Technical Information Exchange,STIX Fonts) 프로젝트는 전자 및 인쇄 출판을 위한 과학 및 엔지니어링 커뮤니티를 지원하기 위해 로열티없는 라이선스 하에 수학 기호 및 알파벳의 포괄적인 글꼴 세트를 제공하려고 광범위한 여러 유명 과학 및 기술 단체 및 출판사가 후원하는 프로젝트이다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:Times_and_STIX.png "wikilink"), STIX Two는 더높은 [x높이](https://ko.wikipedia.org/wiki/x높이 "wikilink")를 갖는다|300px\]\] \(STIX\) 글꼴(Scientific and Technical Information Exchange,STIX Fonts) 프로젝트는 전자 및 인쇄 출판을 위한 과학 및 엔지니어링 커뮤니티를 지원하기 위해 로열티없는 라이선스 하에 수학 기호 및 알파벳의 포괄적인 글꼴 세트를 제공하려고 광범위한 여러 유명 과학 및 기술 단체 및 출판사가 후원하는 프로젝트이다.
 
 STIX 글꼴은 완전히 힌트(Font hinting)된 OpenType / CFF 글꼴로 사용할 수 있다.\[1\] 현재 사용할 수있는 STIX 글꼴의 트루 타입 버전은 없지만 STIX Mission Statement에는 미래 버전을 만들려는 의도가 포함되어 있다.\[2\] 그러나 OpenType을 지원하지 않는 소프트웨어에서 사용하기에 적합한 STIX Fonts (베타 버전 출시)의 트루 타입으로의 비공식 변환이 존재한다.\[3\]
 

@@ -145,7 +145,7 @@
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/문화올림픽미디어스포츠장관" title="wikilink">문화올림픽미디어스포츠장관</a></p></td>
 <td></td>
-<td><p><small>The Rt Hon.</small> <strong><a href="https://ko.wikipedia.org/wiki/제러미_헌트" title="wikilink">제러미 헌트</a></strong> <small>MP</small></p></td>
+<td><p><small>The Rt Hon.</small> <strong><a href="../Page/제러미_헌트.md" title="wikilink">제러미 헌트</a></strong> <small>MP</small></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/재무최고장관" title="wikilink">재무최고장관</a></p></td>

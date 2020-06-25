@@ -15,7 +15,7 @@
 
 1970년 12월 28일 [애플 레코드를](../Page/애플_레코드.md "wikilink") 통해 본 곡의 편집본이 미국에서 싱글로 발매되었다.\[4\] 이 싱글은 원곡에 있던 종소리를 좀 더 짧게 하고, 페이드아웃을 좀 더 빠르게 한 까닭에 원곡보다 러닝타임이 1분 41초 단축되게 되었다. B면은 [오노 요코의](../Page/오노_요코.md "wikilink") 〈Why〉. 차트에서는 미국 [캐쉬 박스](https://ko.wikipedia.org/wiki/캐쉬_박스 "wikilink") 톱 100 19위,\[5\] [빌보드 핫 100](../Page/빌보드_핫_100.md "wikilink") 43위를 기록했다.\[6\]
 
-박스 세트 《[John Lennon Anthology](https://ko.wikipedia.org/wiki/John_Lennon_Anthology "wikilink")》에 수록된 초기 버전에서는, 존 레논의 일렉트릭 기타 연주를 엿들을 수 있다.\[7\]
+박스 세트 《[John Lennon Anthology](../Page/John_Lennon_Anthology.md "wikilink")》에 수록된 초기 버전에서는, 존 레논의 일렉트릭 기타 연주를 엿들을 수 있다.\[7\]
 
 존 레논의 2009년 전기영화 《[노웨어 보이](../Page/존_레논_비긴즈:_노웨어_보이.md "wikilink")》의 최종 신에는 이 곡의 데모판이 삽입되어 있다.\[8\]
 

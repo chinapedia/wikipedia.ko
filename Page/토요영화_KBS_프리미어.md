@@ -179,7 +179,7 @@
 <tr class="even">
 <td></td>
 <td><p><a href="../Page/5월_10일.md" title="wikilink">5월 10일</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/보이즈_게임" title="wikilink">보이즈 게임</a></p></td>
+<td><p><a href="../Page/보이즈_게임.md" title="wikilink">보이즈 게임</a></p></td>
 <td><p><a href="../Page/토요일.md" title="wikilink">토요일</a> 밤 12:25 ~ 2:15 (110분)</p></td>
 </tr>
 <tr class="odd">

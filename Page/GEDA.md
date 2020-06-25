@@ -18,7 +18,7 @@ gEDA에서 g는 GNU를 EDA는 전자 설계 자동화(Electronic Design Automati
 
   - [일렉트릭](../Page/일렉트릭.md "wikilink")
   - [Fritzing](../Page/Fritzing.md "wikilink")
-  - [이글캐드](https://ko.wikipedia.org/wiki/이글캐드 "wikilink")
+  - [이글캐드](../Page/이글캐드.md "wikilink")
 
 ## 참고
 

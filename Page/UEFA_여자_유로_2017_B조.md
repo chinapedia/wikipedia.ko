@@ -245,7 +245,7 @@
 마리아 수케니코바 (<a href="https://ko.wikipedia.org/wiki/슬로바키아_축구_협회" title="wikilink">슬로바키아</a>)<br />
 루치에 라타요바 (<a href="https://ko.wikipedia.org/wiki/체코_축구_협회" title="wikilink">체코</a>)<br />
 <strong>대기심:</strong><br />
-<a href="https://ko.wikipedia.org/wiki/리엠_후세인" title="wikilink">리엠 후세인</a> (<a href="../Page/독일_축구_연맹.md" title="wikilink">독일</a>)</p></td>
+<a href="../Page/리엠_후세인.md" title="wikilink">리엠 후세인</a> (<a href="../Page/독일_축구_연맹.md" title="wikilink">독일</a>)</p></td>
 </tr>
 </tbody>
 </table>

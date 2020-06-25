@@ -315,7 +315,7 @@
   - F65 [성도착증](https://ko.wikipedia.org/wiki/성도착증 "wikilink")
       - F65.0 [성적 페티시즘](../Page/성적_페티시즘.md "wikilink")
       - F65.1 페티시적 의상도착증
-      - F65.2 [노출증](https://ko.wikipedia.org/wiki/노출증 "wikilink")
+      - F65.2 [노출증](../Page/노출증.md "wikilink")
       - F65.3 [관음증](https://ko.wikipedia.org/wiki/관음증 "wikilink")
       - F65.4 [소아성애증](../Page/소아성애증.md "wikilink")
       - F65.5 [가피학증](https://ko.wikipedia.org/wiki/가피학증 "wikilink")

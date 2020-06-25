@@ -199,7 +199,7 @@ RetroArch는 어떠한 libretro 코어라도 구동할 수 있다. RetroArch가 
 <p><a href="https://ko.wikipedia.org/wiki/Snes9x" title="wikilink">Snes9x</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/툼_레이더_(1996년_비디오_게임).md" title="wikilink">툼 레이더</a></p></td>
+<td><p><a href="../Page/툼레이더_(1996년_비디오_게임).md" title="wikilink">툼 레이더</a></p></td>
 <td><p>OpenLara</p></td>
 </tr>
 <tr class="even">

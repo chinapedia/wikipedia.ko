@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [캐딜락 CT6](https://ko.wikipedia.org/wiki/캐딜락_CT6).
 
 
-**캐딜락 CT6**(Cadillac CT6)는 [미국](../Page/미국.md "wikilink")의 고급 자동차 브랜드인 [캐딜락](../Page/캐딜락.md "wikilink")의 [후륜구동](../Page/후륜구동.md "wikilink")/[AWD](../Page/4륜구동.md "wikilink") 방식의 대형 세단이다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:Cadillac_CT6_04_2015.jpg "wikilink") **캐딜락 CT6**(Cadillac CT6)는 [미국](../Page/미국.md "wikilink")의 고급 자동차 브랜드인 [캐딜락](../Page/캐딜락.md "wikilink")의 [후륜구동](../Page/후륜구동.md "wikilink")/[AWD](../Page/4륜구동.md "wikilink") 방식의 대형 세단이다.
 
 ## 1세대
 

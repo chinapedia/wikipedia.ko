@@ -21,7 +21,7 @@
   - 강새봄 - 카미나리몬 덴키 / 엔코 / 사루토비 미라이 役
   - [소정환](../Page/소정환.md "wikilink") - 덴키 아빠 / 코마메 / 핫사쿠 役
   - [정유정](../Page/정유정_\(성우\).md "wikilink") - 이즈노 와사비 / 스미레 엄마 役
-  - 박시윤 - 스즈메노 나미다 役
+  - [박시윤](https://ko.wikipedia.org/wiki/박시윤_\(성우\) "wikilink") - 스즈메노 나미다 役
   - [강호철](../Page/강호철.md "wikilink") - 나라 시카다이 役
   - [심규혁](../Page/심규혁.md "wikilink") - 야마나카 이노진 役
   - [정우석](../Page/정명준.md "wikilink") - [나라 시카마루](https://ko.wikipedia.org/wiki/나라_시카마루 "wikilink") 役

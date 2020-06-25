@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [혈관면역모세포 T세포림프종](https://ko.wikipedia.org/wiki/혈관면역모세포_T세포림프종).
 
 
-**혈관면역모세포 T세포림프종**(Angioimmunoblastic T celllymphoma, AITL)는 침입자를 감별하여 B세포로 항체 정보를 전달하는 [림프절](https://ko.wikipedia.org/wiki/림프절 "wikilink")의 [T세포](../Page/T세포.md "wikilink") 유전자 결함에 의한 면역조절 기능의 이상으로, 항체를 생성하는 [림프구](https://ko.wikipedia.org/wiki/림프구 "wikilink") [B세포](../Page/B세포.md "wikilink")가 이상 증식해 생기는 질병이다. [바이러스](../Page/바이러스.md "wikilink") 등의 감염체가 면역조절 기능을 파괴하여 유발될 수 있는 질환이다. [증후군](https://ko.wikipedia.org/wiki/증후군 "wikilink")으로 분류되다 [면역조직화학염색법](https://ko.wikipedia.org/wiki/면역조직화학염색법 "wikilink")이 발전하면서 진단이 가능해진 질병으로 그 치료방법과 임상양상에 있어서 아직 밝혀지지 않은 점이 많다.
+**혈관면역모세포 T세포림프종**(Angioimmunoblastic T celllymphoma, AITL)는 침입자를 감별하여 B세포로 항체 정보를 전달하는 [림프절](https://ko.wikipedia.org/wiki/림프절 "wikilink")의 [T세포](../Page/T세포.md "wikilink") 유전자 결함에 의한 면역조절 기능의 이상으로, 항체를 생성하는 [림프구](../Page/림프구.md "wikilink") [B세포](../Page/B세포.md "wikilink")가 이상 증식해 생기는 질병이다. [바이러스](../Page/바이러스.md "wikilink") 등의 감염체가 면역조절 기능을 파괴하여 유발될 수 있는 질환이다. [증후군](https://ko.wikipedia.org/wiki/증후군 "wikilink")으로 분류되다 [면역조직화학염색법](https://ko.wikipedia.org/wiki/면역조직화학염색법 "wikilink")이 발전하면서 진단이 가능해진 질병으로 그 치료방법과 임상양상에 있어서 아직 밝혀지지 않은 점이 많다.
 
 ## 증상
 

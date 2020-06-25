@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [스티븐 F. 윈던](https://ko.wikipedia.org/wiki/스티븐_F._윈던).
 
 
-**스티븐 F. 윈던**(, [1959년](../Page/1959년.md "wikilink") \~ )은 [오스트레일리아](../Page/오스트레일리아.md "wikilink")의 영화 촬영 기사이다. [저스틴 린](https://ko.wikipedia.org/wiki/저스틴_린 "wikilink") 감독의 동반자로서 그가 연출한 [분노의 질주](../Page/분노의_질주.md "wikilink") 시리즈의 촬영을 담당했다.
+**스티븐 F. 윈던**(, [1959년](../Page/1959년.md "wikilink") \~ )은 [오스트레일리아](../Page/오스트레일리아.md "wikilink")의 영화 촬영 기사이다. [저스틴 린](../Page/저스틴_린.md "wikilink") 감독의 동반자로서 그가 연출한 [분노의 질주](../Page/분노의_질주.md "wikilink") 시리즈의 촬영을 담당했다.
 
 ## 연출 작품 목록
 
@@ -16,7 +16,7 @@
 | 2002                                                 | [턱시도](../Page/턱시도_\(영화\).md "wikilink")                          | *The Tuxedo*                               | 케빈 도너번                                                          |    |
 | 2004                                                 | [아나콘다 2: 사라지지 않는 저주](../Page/아나콘다_2:_사라지지_않는_저주.md "wikilink")   | *Anacondas: The Hunt for the Blood Orchid* | [드와이트 리틀](https://ko.wikipedia.org/wiki/드와이트_리틀 "wikilink")     |    |
 | 2005                                                 | [하우스 오브 왁스](../Page/하우스_오브_왁스.md "wikilink")                     | *House of Wax*                             | [자우메 코예트세라](https://ko.wikipedia.org/wiki/자우메_코예트세라 "wikilink") |    |
-| 2006                                                 | [패스트 & 퓨리어스: 도쿄 드리프트](../Page/패스트_&_퓨리어스:_도쿄_드리프트.md "wikilink") | *The Fast and the Furious: Tokyo Drift*    | [저스틴 린](https://ko.wikipedia.org/wiki/저스틴_린 "wikilink")         |    |
+| 2006                                                 | [패스트 & 퓨리어스: 도쿄 드리프트](../Page/패스트_&_퓨리어스:_도쿄_드리프트.md "wikilink") | *The Fast and the Furious: Tokyo Drift*    | [저스틴 린](../Page/저스틴_린.md "wikilink")                            |    |
 | 2011                                                 | [분노의 질주: 언리미티드](../Page/분노의_질주:_언리미티드.md "wikilink")             | *Fast Five*                                |                                                                 |    |
 | 2013                                                 | [지.아이.조 2](../Page/지.아이.조_2.md "wikilink")                       | *G.I. Joe: Retaliation*                    | [존 M. 추](https://ko.wikipedia.org/wiki/존_M._추 "wikilink")       |    |
 | [분노의 질주: 더 맥시멈](../Page/분노의_질주:_더_맥시멈.md "wikilink") | *Fast & Furious 6*                                               | 저스틴 린                                      |                                                                 |    |

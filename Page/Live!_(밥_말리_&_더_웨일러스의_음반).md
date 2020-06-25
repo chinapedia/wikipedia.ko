@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Live! \(밥 말리 \& 더 웨일러스의 음반\)](https://ko.wikipedia.org/wiki/Live!_\(밥_말리_\&_더_웨일러스의_음반\)).
 
 
-《**Live\!**》는 1975년 7월 [런던](../Page/런던.md "wikilink") [라이시엄 극장에서](https://ko.wikipedia.org/wiki/라이시엄_극장_\(런던\) "wikilink") 콘서트에서 라이브로 녹음된 [밥 말리 & 더 웨일러스의](../Page/밥_말리_&_더_웨일러스.md "wikilink") 1975년 음반이다. 이 공연은 말리의 가장 유명한 공연 중 하나이고, 〈[No Woman, No Cry](https://ko.wikipedia.org/wiki/No_Woman,_No_Cry "wikilink")〉는 싱글로 발매되었다.
+《**Live\!**》는 1975년 7월 [런던](../Page/런던.md "wikilink") [라이시엄 극장에서](https://ko.wikipedia.org/wiki/라이시엄_극장_\(런던\) "wikilink") 콘서트에서 라이브로 녹음된 [밥 말리 & 더 웨일러스의](../Page/밥_말리_&_더_웨일러스.md "wikilink") 1975년 음반이다. 이 공연은 말리의 가장 유명한 공연 중 하나이고, 〈[No Woman, No Cry](../Page/No_Woman,_No_Cry.md "wikilink")〉는 싱글로 발매되었다.
 
 ## 제작
 

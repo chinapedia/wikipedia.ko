@@ -32,21 +32,21 @@
 <tr class="even">
 <td><p>《<a href="https://ko.wikipedia.org/wiki/헤드헌터_(드라마)" title="wikilink">헤드헌터</a>》</p></td>
 <td><p>4월 16일 - 6월 4일</p></td>
-<td><p><a href="../Page/에구치_요스케.md" title="wikilink">에구치 요스케</a></p></td>
+<td><p><a href="../Page/에구치_요스케.md" title="wikilink">에구치 요스케</a>{{-}}<a href="https://ko.wikipedia.org/wiki/고이케_에이코" title="wikilink">고이케 에이코</a></p></td>
 <td><p>오리지널</p></td>
 <td><p>8부작</p></td>
 </tr>
 <tr class="odd">
 <td><p>《라스트 찬스 재생청부인》</p></td>
 <td><p>7월 16일 - 9월 3일</p></td>
-<td><p><a href="../Page/나카무라_토오루.md" title="wikilink">나카무라 토오루</a></p></td>
+<td><p><a href="../Page/나카무라_토오루.md" title="wikilink">나카무라 토오루</a>{{-}}<a href="../Page/하세가와_쿄코.md" title="wikilink">하세가와 쿄코</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/에가미_고" title="wikilink">에가미 고</a></p></td>
 <td><p>8부작</p></td>
 </tr>
 <tr class="even">
 <td><p>《해러스먼트 게임》</p></td>
 <td><p>10월 15일 - 12월 10일</p></td>
-<td><p><a href="../Page/카라사와_토시아키.md" title="wikilink">카라사와 토시아키</a></p></td>
+<td><p><a href="../Page/카라사와_토시아키.md" title="wikilink">카라사와 토시아키</a>{{-}}<a href="../Page/히로세_아리스.md" title="wikilink">히로세 아리스</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/이노우에_유미코" title="wikilink">이노우에 유미코</a></p></td>
 <td><p>9부작</p></td>
 </tr>
@@ -68,14 +68,14 @@
 <tr class="odd">
 <td><p>《스파이럴~작은 공장의 기적~》</p></td>
 <td><p>4월 15일 - 6월 3일</p></td>
-<td><p><a href="../Page/타마키_히로시.md" title="wikilink">타마키 히로시</a></p></td>
+<td><p><a href="../Page/타마키_히로시.md" title="wikilink">타마키 히로시</a>{{-}}<a href="../Page/칸지야_시호리.md" title="wikilink">칸지야 시호리</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/마야마_진" title="wikilink">마야마 진</a></p></td>
 <td><p>8부작</p></td>
 </tr>
 <tr class="even">
 <td><p>《리갈 하트~생명의 재건 변호사~》</p></td>
 <td><p>7월 22일 - 9월 2일</p></td>
-<td><p><a href="../Page/소리마치_타카시.md" title="wikilink">소리마치 타카시</a></p></td>
+<td><p><a href="../Page/소리마치_타카시.md" title="wikilink">소리마치 타카시</a>{{-}}<a href="../Page/와쿠이_에미.md" title="wikilink">와쿠이 에미</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/무라마츠_겐이치" title="wikilink">무라마츠 겐이치</a></p></td>
 <td><p>7부작</p></td>
 </tr>
@@ -103,7 +103,7 @@
 <tr class="even">
 <td><p>《행렬의 여신~라면 서유기~》</p></td>
 <td><p>4월 20일 - (예정)</p></td>
-<td><p><a href="../Page/스즈키_쿄카.md" title="wikilink">스즈키 쿄카</a></p></td>
+<td><p><a href="../Page/스즈키_쿄카.md" title="wikilink">스즈키 쿄카</a>{{-}}<a href="../Page/쿠로시마_유이나.md" title="wikilink">쿠로시마 유이나</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/쿠베_로쿠로" title="wikilink">쿠베 로쿠로</a><br />
 <a href="https://ko.wikipedia.org/wiki/카와이_탄" title="wikilink">카와이 탄</a></p></td>
 <td><p>미정</p></td>

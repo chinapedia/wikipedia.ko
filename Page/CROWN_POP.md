@@ -68,6 +68,10 @@
       - スケジュール帳やめたの
       - Boot\!\!\!
 
+### 착신곡
+
+1.  青天コンパス (2020년 [5월 26일](../Page/5월_26일.md "wikilink"))
+
 ## 관련 항목
 
   - [모모이로 클로버 Z](https://ko.wikipedia.org/wiki/모모이로_클로버_Z "wikilink")
@@ -80,7 +84,7 @@
   - [아메후라시](../Page/아메후라시.md "wikilink")
   - [ukka](https://ko.wikipedia.org/wiki/ukka "wikilink")
   - [이키나리 토호쿠산](../Page/이키나리_토호쿠산.md "wikilink")
-  - [B.O.L.T](https://ko.wikipedia.org/wiki/B.O.L.T "wikilink")
+  - [B.O.L.T](../Page/B.O.L.T.md "wikilink")
 
 ## 외부 링크
 

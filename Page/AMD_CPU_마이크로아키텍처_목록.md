@@ -40,7 +40,7 @@ AMD는 **K8**을 [애슬론 64](../Page/애슬론_64.md "wikilink") 프로세서
       - **[AMD Excavator Family 15h (4th-gen)](https://ko.wikipedia.org/wiki/엑스카베이터_\(마이크로아키텍처\) "wikilink")**
   - **[AMD Zen](../Page/젠_\(마이크로아키텍처\).md "wikilink")**
       - **[젠+](../Page/젠+.md "wikilink")**
-      - **[젠 2](https://ko.wikipedia.org/wiki/젠_2 "wikilink")**
+      - **[젠 2](../Page/젠_2.md "wikilink")**
 
 ## 기타 마이크로아키텍처
 

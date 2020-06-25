@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [SEPTA 리저널 레일](https://ko.wikipedia.org/wiki/SEPTA_리저널_레일).
 
 
-**[SEPTA](../Page/SEPTA.md "wikilink") 리저널 레일**(, 리포팅 마크 **SEPA, SPAX**)시스템은 [펜실베이니아주](../Page/펜실베이니아주.md "wikilink") [필라델피아](../Page/필라델피아.md "wikilink")와 그 교외 및 [위성 도시로](../Page/위성_도시.md "wikilink") 연결되는 13개 노선의 통근 열차 서비스로 구성되어 있다. 대부분의 회선 서비스는 오전 5:30부터 자정까지 운영된다. SEPTA 리저널 레일은 미국에서 5번째로 혼잡한 통근 열차로, [뉴욕](../Page/뉴욕_대도시권.md "wikilink") 및 [시카고 대도시권](https://ko.wikipedia.org/wiki/시카고_대도시권 "wikilink") 외부 지역에서 가장 많은 이용객을 보유하였다. 2016년에 리저널 레일은 일일 평균 132,000명의 승객이 이용하였다.\[1\]
+**[SEPTA](../Page/SEPTA.md "wikilink") 리저널 레일**(, 리포팅 마크 **SEPA, SPAX**)시스템은 [펜실베이니아주](../Page/펜실베이니아주.md "wikilink") [필라델피아](../Page/필라델피아.md "wikilink")와 그 교외 및 [위성 도시로](../Page/위성_도시.md "wikilink") 연결되는 13개 노선의 통근 열차 서비스로 구성되어 있다. 대부분의 회선 서비스는 오전 5:30부터 자정까지 운영된다. SEPTA 리저널 레일은 미국에서 5번째로 혼잡한 통근 열차로, [뉴욕](../Page/뉴욕_대도시권.md "wikilink") 및 [시카고 대도시권](../Page/시카고_대도시권.md "wikilink") 외부 지역에서 가장 많은 이용객을 보유하였다. 2016년에 리저널 레일은 일일 평균 132,000명의 승객이 이용하였다.\[1\]
 
 리저널 레일 시스템의 핵심은 "터널(tunnel)" 간선에 있는 3개의 [센터 시티](https://ko.wikipedia.org/wiki/센터_시티_\(필라델피아\) "wikilink") 역(각각 [30th 스트리트 역](https://ko.wikipedia.org/wiki/30th_스트리트_역 "wikilink"), 지하의 [서버반 역](https://ko.wikipedia.org/wiki/서버반_역 "wikilink"), [제퍼슨 역](https://ko.wikipedia.org/wiki/제퍼슨_역_\(필라델피아\) "wikilink")(구 마켓 이스트 역))으로 구성된 [센터 시티 커뮤터 커넥션](https://ko.wikipedia.org/wiki/센터_시티_커뮤터_커넥션 "wikilink")([Center City Commuter Connection](https://ko.wikipedia.org/wiki/:en:Center_City_Commuter_Connection "wikilink"))이다. 모든 열차는 이 센터 시티 역에서 정차한다.: 또한 대부분은 노스필라델피아의 [템플 대학교](https://ko.wikipedia.org/wiki/템플_대학교 "wikilink") 캠퍼스에 있는 [탬플 대학교 역에서](https://ko.wikipedia.org/wiki/탬플_대학교_역 "wikilink") 정차한다. 운영은 SEPTA 철도 사업부에서 처리한다.\[2\]
 

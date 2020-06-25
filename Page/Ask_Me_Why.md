@@ -35,4 +35,4 @@
 
 1.  [Ask Me Why | The Beatles Bible](http://www.beatlesbible.com/songs/ask-me-why/).
 2.  <http://www.beatle.net/50th-anniversary-of-beatles-commercial-test-at-abbey-road/>
-3.  [Ask Me Why | The Beatles Bible](http://www.beatlesbible.com/songs/ask-me-why/).
+3.

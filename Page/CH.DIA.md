@@ -1,16 +1,16 @@
 > This article is converted from Wikipedia: [CH.DIA](https://ko.wikipedia.org/wiki/CH.DIA).
 
 
-**CH.DIA**(채널 다이아)는 [대한민국](../Page/대한민국.md "wikilink")의 [CJ ENM에서](../Page/CJ_ENM.md "wikilink") 운영하는 [크리에이터](../Page/크리에이터.md "wikilink") 전문 채널이다. 2020년 2월 28일까지는 **DIA TV**(다이아 TV)라는 명칭을 사용하였다.
+**CH.DIA**(채널 다이아)는 [CJ ENM이](../Page/CJ_ENM.md "wikilink") 운영하는 대한민국의 [크리에이터](../Page/크리에이터.md "wikilink") 전문 텔레비전 채널이다. 2020년 2월 28일까지는(구) **DIA TV** (구) 다이아 TV라는 명칭을 사용하였다.
 
 ## CH.DIA 소속 [유튜버](../Page/유튜버.md "wikilink")
 
 ### 게임
 
-  - [보겸tv](../Page/김보겸.md "wikilink")
+  - [보겸](../Page/김보겸.md "wikilink")
   - 재넌
   - 감스트
-  - 테스터훈Tester Hoon
+  - 테스터훈
   - 릴카
   - 꽃빈
   - 머독방송
@@ -22,8 +22,11 @@
   - 햇살살
   - [잠뜰](https://ko.wikipedia.org/wiki/잠뜰 "wikilink")
   - 수현
-  - 라더
+  - [라더](https://ko.wikipedia.org/wiki/라더 "wikilink")
   - 각별
+  - 자몽TV
+  - 비엠TV
+  - 나랑께TV
 
 ### 스타일
 
@@ -48,6 +51,8 @@
   - 수리노을
   - 슈앤트리
   - 시바견 곰이탱이여우
+  - 강형욱의 견종백과
+  - 꼬불하개파마
 
 ### 엔터
 
@@ -59,11 +64,10 @@
   - ARTBEAT
   - [임영웅](https://ko.wikipedia.org/wiki/임영웅_\(가수\) "wikilink")
   - [양준일](../Page/양준일.md "wikilink")
-  - [성훈](https://ko.wikipedia.org/wiki/성훈_\(1983년\) "wikilink")
   - DPOP Studio
   - 소근커플
   - 수상한 녀석들
-  - [박막례](https://ko.wikipedia.org/wiki/박막례 "wikilink")할머니
+  - [박막례](../Page/박막례.md "wikilink")할머니
   - [박미선](../Page/박미선.md "wikilink")
   - [박구윤](../Page/박구윤.md "wikilink")
   - 제니윤
@@ -105,11 +109,11 @@
 
   - [라임튜브](https://ko.wikipedia.org/wiki/라임튜브 "wikilink")
   - [마이린 TV](../Page/마이린_TV.md "wikilink")
-  - 간니닌니다이어리
+  - [간니닌니 다이어리](https://ko.wikipedia.org/wiki/간니닌니_다이어리 "wikilink")
   - 유라야 놀자
   - 뚜아뚜지TV
   - 애니한 TV AnnieHan
-  - 노래하는 하람
+  - [노래하는하람](https://ko.wikipedia.org/wiki/노래하는하람 "wikilink")
   - 프리티에스더 Pretty Esther
   - 에그박사
   - 닥터프
@@ -125,6 +129,7 @@
   - 김소피야
   - 정훈, 지훈TV
   - 에디레일
+  - 징브르
 
 ### it/전자기술
 
@@ -149,7 +154,7 @@
   - 스튜디오V
   - 해석남녀
   - 7일동안
-  - [헤이지니](https://ko.wikipedia.org/wiki/헤이지니 "wikilink") 장난감놀이
+  - [헤이지니](../Page/헤이지니.md "wikilink") 장난감놀이
   - 지호토이 장난감놀이
   - 토이몬스터 장난감놀이
   - 꼬불하개파마
@@ -382,10 +387,10 @@
 
 ## 외부 링크
 
-  - [공식 홈페이지](http://diatv.com/)
-  - [TV 채널 홈페이지](http://diatv.tving.com/diatv)
-  - [채널 페이스북](https://www.facebook.com/DIATVchannel)
-  - [채널 YOUTUBE](https://www.youtube.com/channel/UCooh6HWi1ySybS_nPChJdfw)
-  - [채널 인스타그램](https://www.instagram.com/ch_diatv)
+  -
+  - [텔레비전 채널 웹사이트](http://diatv.tving.com/diatv)
 
-[분류:CJ ENM의 텔레비전 네트워크](https://ko.wikipedia.org/wiki/분류:CJ_ENM의_텔레비전_네트워크 "wikilink") [분류:오락 텔레비전 네트워크](https://ko.wikipedia.org/wiki/분류:오락_텔레비전_네트워크 "wikilink") [DIA TV](https://ko.wikipedia.org/wiki/분류:2017년_설립된_텔레비전_방송국과_채널 "wikilink") [DIA TV](https://ko.wikipedia.org/wiki/분류:2020년_폐지된_텔레비전_방송국과_채널 "wikilink") [분류:2020년 설립된 텔레비전 방송국과 채널](https://ko.wikipedia.org/wiki/분류:2020년_설립된_텔레비전_방송국과_채널 "wikilink")
+  -
+  -
+  -
+[분류:CJ ENM의 텔레비전 네트워크](https://ko.wikipedia.org/wiki/분류:CJ_ENM의_텔레비전_네트워크 "wikilink") [분류:오락 텔레비전 네트워크](https://ko.wikipedia.org/wiki/분류:오락_텔레비전_네트워크 "wikilink") [분류:2017년 설립된 텔레비전 방송국과 채널](https://ko.wikipedia.org/wiki/분류:2017년_설립된_텔레비전_방송국과_채널 "wikilink")

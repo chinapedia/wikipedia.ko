@@ -9,7 +9,7 @@ PhysTechSoft는 1991년 [MIPT](https://ko.wikipedia.org/wiki/MIPT "wikilink")의
 
 ## 명령어
 
-PTS-DOS 2000 프로가 지원하는 [명령어는](https://ko.wikipedia.org/wiki/명령어_\(컴퓨팅\) "wikilink") 다음과 같다.\[2\]
+PTS-DOS 2000 프로가 지원하는 [명령어는](../Page/명령어_\(컴퓨팅\).md "wikilink") 다음과 같다.\[2\]
 
   - [APPEND](../Page/도스_명령어_목록.md "wikilink")
   - ASK

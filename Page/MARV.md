@@ -23,11 +23,11 @@
 
 최근 [북한 6차 핵실험](https://ko.wikipedia.org/wiki/북한_6차_핵실험 "wikilink") 직후, 트럼프 대통령이, [태평양 전쟁](../Page/태평양_전쟁.md "wikilink") 이후 처음으로, 일본에 사거리 2500 km 지상형 토마호크 판매를 승인했다. 원래 일본은 패전 후 [평화헌법](https://ko.wikipedia.org/wiki/평화헌법 "wikilink")으로 사거리 500 km 미만의 탄도미사일도 없었다. 사거리 200 km 함대함, 잠대함, 공대함 순항미사일은 있었다. 즉, [북한 6차 핵실험으로](https://ko.wikipedia.org/wiki/북한_6차_핵실험 "wikilink") 일본이 한국, 북한, 중국의 SRBM, MRBM, IRBM 경쟁에 뛰어들었다.
 
-이러한 중단거리 미사일들은, 최근 [패트리어트 미사일](https://ko.wikipedia.org/wiki/패트리어트_미사일 "wikilink"), [사드](../Page/사드.md "wikilink")의 개발로 인해, 요격 회피기능을 위해서 MARV 탑재가 요구되고 있다. 사거리도 예전의 중단거리 미사일들과 달리, 회피기동을 위한 추가적인 연료가 필요해서, 러시아의 [이스칸데르 미사일은](https://ko.wikipedia.org/wiki/이스칸데르_미사일 "wikilink") 사거리 500 km 이지만, 실제는 900 km까지 가능하다고도 알려져 있다.
+이러한 중단거리 미사일들은, 최근 [패트리어트 미사일](https://ko.wikipedia.org/wiki/패트리어트_미사일 "wikilink"), [사드](../Page/사드.md "wikilink")의 개발로 인해, 요격 회피기능을 위해서 MARV 탑재가 요구되고 있다. 사거리도 예전의 중단거리 미사일들과 달리, 회피기동을 위한 추가적인 연료가 필요해서, 러시아의 [이스칸데르 미사일은](https://ko.wikipedia.org/wiki/이스칸데르_미사일 "wikilink") 사거리 500 km이지만, 실제는 900 km까지 가능하다고도 알려져 있다.
 
 사드는 요격 회피가 훨씬 힘들지만, 패트리어트는 최대 요격 고도 30 km 이상의 고도에서 비행하다가, 종말유도로 마하 8 속도로 수직으로 급강하할 경우, 요격을 회피할 수 있다고 알려져 있다. 그러려면 불규칙한 궤도비행이 가능한 MARV 탄두가 필요하다.
 
-## 더 보기
+## 같이 보기
 
   - [MIRV](https://ko.wikipedia.org/wiki/MIRV "wikilink")
 

@@ -13,7 +13,7 @@
 
 2019년 6월 2일, 오전 2시 30분부터 정오까지 [보하이 만](https://ko.wikipedia.org/wiki/보하이_만 "wikilink") 일대를 항행 금지 구역으로 설정해 선박 통행을 제한했다. 항행 금지 공고는 통행 제한을 불과 3분 앞둔 오전 2시 27분에 갑작스럽게 이뤄졌다. [094형 잠수함에서](../Page/094형_잠수함.md "wikilink") JL-3 시험발사를 한 것으로 보인다.
 
-중국은 공개적인 [핵무기 정책으로](https://ko.wikipedia.org/wiki/핵무기_정책 "wikilink") 핵선제공격인 [제1격](../Page/제1격.md "wikilink")은 포기하고, 핵보복공격인 [제2격](https://ko.wikipedia.org/wiki/제2격 "wikilink")만을 선언하고 있다. [제1격](../Page/제1격.md "wikilink")은 지상배치형 ICBM, [제2격](https://ko.wikipedia.org/wiki/제2격 "wikilink")은 잠수함용 SLBM이 주된 무기체계이다. 즉 JL-3가 중국군의 핵심적인 핵무기가 될 것으로 추측된다. [JL-2](../Page/JL-2.md "wikilink")는 사거리가 짧아서 먼 바다로 나가기 전에는 미국 뉴욕을 타격할 수 없었다. [JL-3](../Page/JL-3.md "wikilink")는 보하이 만에서 발사해서 곧바로 뉴욕까지 도달한다.
+중국은 공개적인 [핵무기 정책으로](../Page/핵무기_정책.md "wikilink") 핵선제공격인 [제1격](../Page/제1격.md "wikilink")은 포기하고, 핵보복공격인 [제2격](https://ko.wikipedia.org/wiki/제2격 "wikilink")만을 선언하고 있다. [제1격](../Page/제1격.md "wikilink")은 지상배치형 ICBM, [제2격](https://ko.wikipedia.org/wiki/제2격 "wikilink")은 잠수함용 SLBM이 주된 무기체계이다. 즉 JL-3가 중국군의 핵심적인 핵무기가 될 것으로 추측된다. [JL-2](../Page/JL-2.md "wikilink")는 사거리가 짧아서 먼 바다로 나가기 전에는 미국 뉴욕을 타격할 수 없었다. [JL-3](../Page/JL-3.md "wikilink")는 보하이 만에서 발사해서 곧바로 뉴욕까지 도달한다.
 
 ## 비교
 

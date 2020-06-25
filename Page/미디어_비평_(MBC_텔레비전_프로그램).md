@@ -24,4 +24,8 @@
 | 2대 | [성경환](../Page/성경환.md "wikilink") | [2002년](../Page/2002년.md "wikilink") [1월 25일](../Page/1월_25일.md "wikilink") \~ [2003년](../Page/2003년.md "wikilink") [5월 23일](../Page/5월_23일.md "wikilink") |
 | 3대 | [신강균](../Page/신강균.md "wikilink") | [2003년](../Page/2003년.md "wikilink") [5월 30일](../Page/5월_30일.md "wikilink") \~ [2003년](../Page/2003년.md "wikilink") [11월 7일](../Page/11월_7일.md "wikilink") |
 
-[분류:문화방송의 시사교양 프로그램](https://ko.wikipedia.org/wiki/분류:문화방송의_시사교양_프로그램 "wikilink") [분류:미디어 비평](https://ko.wikipedia.org/wiki/분류:미디어_비평 "wikilink")
+## 같이 보기
+
+  - [미디어 포커스](../Page/미디어_포커스.md "wikilink") ([KBS](../Page/한국방송공사.md "wikilink"))
+
+[분류:문화방송의 시사교양 프로그램](https://ko.wikipedia.org/wiki/분류:문화방송의_시사교양_프로그램 "wikilink") [분류:미디어 비평](https://ko.wikipedia.org/wiki/분류:미디어_비평 "wikilink") [분류:2001년에 시작한 대한민국 TV 프로그램](https://ko.wikipedia.org/wiki/분류:2001년에_시작한_대한민국_TV_프로그램 "wikilink") [분류:2003년에 종료한 대한민국 TV 프로그램](https://ko.wikipedia.org/wiki/분류:2003년에_종료한_대한민국_TV_프로그램 "wikilink")

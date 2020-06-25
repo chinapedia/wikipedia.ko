@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Aspyr](https://ko.wikipedia.org/wiki/Aspyr).
 
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:Aspyr_Media_Logo.svg "wikilink") **Aspyr**는 [텍사스 주 오스틴에](../Page/오스틴_\(텍사스주\).md "wikilink") 위치한 [미국](../Page/미국.md "wikilink")의 [비디오 게임 개발사이자](https://ko.wikipedia.org/wiki/비디오_게임_개발자 "wikilink") [비디오 게임 배급사이다](../Page/비디오_게임_배급사.md "wikilink"). 1996년에 설립된 이 기업은 [2K 게임스](https://ko.wikipedia.org/wiki/2K_게임스 "wikilink"), [액티비전](../Page/액티비전.md "wikilink"), [기어박스 소프트웨어](../Page/기어박스_소프트웨어.md "wikilink") 등의 파트너사와 함께 비디오 게임들을 [마이크로소프트 윈도우에서](../Page/마이크로소프트_윈도우.md "wikilink") [MacOS](https://ko.wikipedia.org/wiki/MacOS "wikilink"), [리눅스](../Page/리눅스.md "wikilink")로 [이식하는](../Page/이식_\(컴퓨팅\).md "wikilink") 것을 전문으로 한다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:Aspyr_Media_Logo.svg "wikilink") **Aspyr**는 [텍사스 주 오스틴에](../Page/오스틴_\(텍사스주\).md "wikilink") 위치한 [미국](../Page/미국.md "wikilink")의 [비디오 게임 개발사이자](https://ko.wikipedia.org/wiki/비디오_게임_개발자 "wikilink") [비디오 게임 배급사이다](../Page/비디오_게임_배급사.md "wikilink"). 1996년에 설립된 이 기업은 [2K 게임스](https://ko.wikipedia.org/wiki/2K_게임스 "wikilink"), [액티비전](../Page/액티비전.md "wikilink"), [기어박스 소프트웨어](../Page/기어박스_소프트웨어.md "wikilink") 등의 파트너사와 함께 비디오 게임들을 [마이크로소프트 윈도우에서](../Page/마이크로소프트_윈도우.md "wikilink") [MacOS](../Page/MacOS.md "wikilink"), [리눅스](../Page/리눅스.md "wikilink")로 [이식하는](../Page/이식_\(컴퓨팅\).md "wikilink") 것을 전문으로 한다.
 
 ## 게임
 

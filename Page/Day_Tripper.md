@@ -11,7 +11,7 @@
 
 《매니 이어즈 프롬 나우》에서, 매카트니는 〈Day Tripper〉는 마약에 대한 것이며, "그 아이디어에 다소 열정적인 ... 사람에 대한 농담조의 노래"라고 구술했다. 가사 중 "그녀는 골칫덩이야(she's a big teaser)"는 "그녀는 몸만 달아오르게 해(she's a prick teaser)"라는 의중 의미를 내포한다. 음악 평론가 [이언 맥도널드에](../Page/이언_맥도널드.md "wikilink") 따르면, 노래는 "... E의 [12마디 블루스로](https://ko.wikipedia.org/wiki/12마디_블루스 "wikilink") 시작하는데, 예상 가능한 B로 되돌아오기 전에 12마디의 관계 단조로 진입하는 페인트 형식을 취한다 (예: 코러스). 이것은 그룹의 또 다른 재간으로, 분명 그들의 새로운 장치로 쓰기로 결정된 재치라고 생각된다."
 
-노래는 1965년 10월 6일 녹음되었다. 비틀즈는 〈Day Tripper〉의 녹음 이후 〈[If I Needed Someone](https://ko.wikipedia.org/wiki/If_I_Needed_Someone "wikilink")〉의 기본 리듬 트랙을 녹음했다.
+노래는 1965년 10월 6일 녹음되었다. 비틀즈는 〈Day Tripper〉의 녹음 이후 〈[If I Needed Someone](../Page/If_I_Needed_Someone.md "wikilink")〉의 기본 리듬 트랙을 녹음했다.
 
 ## 각주
 

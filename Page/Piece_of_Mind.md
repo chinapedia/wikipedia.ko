@@ -5,6 +5,8 @@
 
 《Piece of Mind》는 [영국 음반 차트에서](https://ko.wikipedia.org/wiki/영국_음반_차트 "wikilink") 3위에 올랐고 영국과 북미에서 플래티넘 인증을 획득하는 등 중요하고 상업적인 성공을 거두었다.
 
+[대한민국](../Page/대한민국.md "wikilink")에서 처음으로 정식 발매된 아이언 메이든의 앨범이며, 이 앨범은 대한민국 정부의 대중문화 검열 정책으로 커버는 속지의 밴드 멤버 사진으로 교체해야 했다. 'Die With Your Boots On', 'The Trooper', 'Still Life' 등 4곡이 금지곡으로 삭제되어 5곡만이 목록에 남아 있다.
+
 ## 곡 목록
 
 ## 외부 링크

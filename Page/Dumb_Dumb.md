@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Dumb Dumb](https://ko.wikipedia.org/wiki/Dumb_Dumb).
 
 
-"**Dumb Dumb**"은 [대한민국](../Page/대한민국.md "wikilink") [걸 그룹인](../Page/걸_그룹.md "wikilink") [레드벨벳이](../Page/레드벨벳_\(음악_그룹\).md "wikilink") 부른 노래로, 2015년 발매된 첫 정규음반인 [The Red에](../Page/The_Red.md "wikilink") 수록된 곡이다.이 곡은 레드벨벳의 안티들을 바보라고 모욕하는 뜻을 가진 곡이다.이 곡은 잼 팩토리의 [서지음](../Page/서지음.md "wikilink")과 김동현이 작사하였으며 [LDN Noise](../Page/LDN_Noise.md "wikilink"), 디애나 델라시오파, 테일러 파크스, 그리고 [라이언 전이](../Page/라이언_전.md "wikilink") 작곡하고 프로듀싱하였다. 이 곡은 업템포의 [댄스 팝이다](../Page/댄스_팝.md "wikilink"). 2015년 9월 9일 앨범의 대표곡으로 [SM 엔터테인먼트가](../Page/SM_엔터테인먼트.md "wikilink") 뮤직비디오와 함께 발매하였다.이 후 악플이 엄청나게 달리기 시작하고 안티들이 2배정도로 늘어났다.
+〈**Dumb Dumb**〉은 [대한민국](../Page/대한민국.md "wikilink") [걸 그룹인](../Page/걸_그룹.md "wikilink") [레드벨벳이](../Page/레드벨벳_\(음악_그룹\).md "wikilink") 부른 노래로, 2015년 발매된 첫 정규음반인 [The Red에](../Page/The_Red.md "wikilink") 수록된 곡이다.이 곡은 레드벨벳의 안티들을 바보라고 모욕하는 뜻을 가진 곡이다.이 곡은 잼 팩토리의 [서지음](../Page/서지음.md "wikilink")과 김동현이 작사하였으며 [LDN Noise](../Page/LDN_Noise.md "wikilink"), 디애나 델라시오파, 테일러 파크스, 그리고 [라이언 전이](../Page/라이언_전.md "wikilink") 작곡하고 프로듀싱하였다. 이 곡은 업템포의 [댄스 팝이다](../Page/댄스_팝.md "wikilink"). 2015년 9월 9일 앨범의 대표곡으로 [SM 엔터테인먼트가](../Page/SM_엔터테인먼트.md "wikilink") 뮤직비디오와 함께 발매하였다.이 후 악플이 엄청나게 달리기 시작하고 안티들이 2배정도로 늘어났다.
 
 이 곡은 발매 이후 성공을 거두었는데, [가온 디지털 차트에서](../Page/가온_디지털_차트.md "wikilink") 2등을 하였고, [빌보드](../Page/빌보드.md "wikilink") 세계 디지털 곡 차트에서 3등을 하였다. 이 주에 Dumb Dumb은 미국 내 [K-pop](../Page/K-pop.md "wikilink") 노래 중 가장 많이 팔리기도 하였다. 대한민국에서 레드벨벳의 Dumb Dumb은 레드벨벳의 곡 중 100만 장 이상 팔린 첫 싱글이기도 하였다. [데이즈드](https://ko.wikipedia.org/wiki/데이즈드 "wikilink")에서 이 노래는 2015년 K-pop 트랙에서 정상을 차지하였고, 빌보드의 100대 걸그룹 노래에서 70위에 들었다. Dumb Dumb의 뮤직비디오는 2015년 [롤링 스톤의](../Page/롤링_스톤.md "wikilink") 10대 베스트 뮤직비디오에 선정되기도 하였다.
 
@@ -68,7 +68,7 @@ Dumb Dumb의 뮤직비디오는 [유튜브](../Page/유튜브.md "wikilink")의 
   -
 ## 각주
 
-[분류:SM 엔터테인먼트 싱글](https://ko.wikipedia.org/wiki/분류:SM_엔터테인먼트_싱글 "wikilink") [분류:2015년 싱글](https://ko.wikipedia.org/wiki/분류:2015년_싱글 "wikilink") [분류:한국어 노래](https://ko.wikipedia.org/wiki/분류:한국어_노래 "wikilink") [분류:2015년 노래](https://ko.wikipedia.org/wiki/분류:2015년_노래 "wikilink") [분류:레드벨벳의 노래](https://ko.wikipedia.org/wiki/분류:레드벨벳의_노래 "wikilink")
+[분류:레드벨벳의 싱글](https://ko.wikipedia.org/wiki/분류:레드벨벳의_싱글 "wikilink") [분류:2015년 싱글](https://ko.wikipedia.org/wiki/분류:2015년_싱글 "wikilink")
 
 1.
 2.

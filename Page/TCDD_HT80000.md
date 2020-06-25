@@ -11,7 +11,7 @@
 
 이후 3차분은 [지멘스](https://ko.wikipedia.org/wiki/지멘스 "wikilink") 측에서 [지멘스 벨라로](../Page/지멘스_벨라로.md "wikilink") 모델을 다시 제안했고, [프랑스](../Page/프랑스.md "wikilink")의 [알스톰](../Page/알스톰.md "wikilink"), [스페인](../Page/스페인.md "wikilink")의 [CAF](https://ko.wikipedia.org/wiki/콘스트룩시온스_이_옥실라르_데_페로카릴스 "wikilink"), [캐나다](../Page/캐나다.md "wikilink")의 [봄바디어 트랜스포테이션](https://ko.wikipedia.org/wiki/봄바디어_트랜스포테이션 "wikilink"), [대한민국](../Page/대한민국.md "wikilink")의 [현대로템](../Page/현대로템.md "wikilink")과 경쟁 끝에 [2017년](../Page/2017년.md "wikilink") [1월 30일에](../Page/1월_30일.md "wikilink") [지멘스](https://ko.wikipedia.org/wiki/지멘스 "wikilink")와 다시 계약을 체결했다.\[9\]
 
-## 더 보기
+## 같이 보기
 
   - [지멘스 벨라로](../Page/지멘스_벨라로.md "wikilink")
   - [TCDD HT65000](../Page/TCDD_HT65000.md "wikilink")

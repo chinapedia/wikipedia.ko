@@ -33,7 +33,7 @@
   - [UBL](https://ko.wikipedia.org/wiki/Universal_Business_Language "wikilink")
   - [UDDI](https://ko.wikipedia.org/wiki/Universal_Description_Discovery_and_Integration "wikilink")
   - [VirtIO](https://www.oasis-open.org/committees/virtio/)
-  - [WebCGM](https://ko.wikipedia.org/wiki/컴퓨터_그래픽스_메타파일 "wikilink")
+  - [WebCGM](../Page/컴퓨터_그래픽스_메타파일.md "wikilink")
   - [WS-BPEL](https://ko.wikipedia.org/wiki/WS-BPEL "wikilink")
   - [WSDM](https://ko.wikipedia.org/wiki/웹_서비스_분산_관리 "wikilink")
   - [XACML](https://ko.wikipedia.org/wiki/XACML "wikilink")

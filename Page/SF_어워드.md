@@ -205,7 +205,7 @@
 [분류:SF상](https://ko.wikipedia.org/wiki/분류:SF상 "wikilink") [분류:대한민국의 영화상](https://ko.wikipedia.org/wiki/분류:대한민국의_영화상 "wikilink") [분류:대한민국의 문학상](https://ko.wikipedia.org/wiki/분류:대한민국의_문학상 "wikilink")
 
 1.
-2.  <http://sfsciencefestival.blog.me/220453396719> 제2회 SF어워드_ 한국 SF 창작자들을 응원합니다\!
+2.  <https://blog.naver.com/sfsciencefestival/220453396719> 제2회 SF어워드_ 한국 SF 창작자들을 응원합니다\!
 3.  <http://www.sf2016.co.kr/pageView.do?page=/program/program04> SF2016 어워드
 4.
 5.  <http://sf2015.sciencecenter.go.kr/notice/read.sf?idx=653> 제2회 SF어워드 대상 발표

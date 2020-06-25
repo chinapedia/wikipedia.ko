@@ -22,7 +22,7 @@
 
   - [AKBINGO\!](../Page/AKBINGO!.md "wikilink")
   - [NOGIBINGO\!](../Page/NOGIBINGO!.md "wikilink")
-  - [HINABINGO\!](https://ko.wikipedia.org/wiki/HINABINGO! "wikilink")
+  - [HINABINGO\!](../Page/HINABINGO!.md "wikilink")
 
 ## 외부 링크
 

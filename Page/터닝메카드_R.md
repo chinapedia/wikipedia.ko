@@ -37,16 +37,16 @@
 
 ## 등장 메카니멀
 
-  - <span style="color:#0000ff">'''에반</span>
-  - <span style="color:#000000">**타나토스**</span>
-  - <span style="color:#008000">**테로**</span>
-  - <span style="color:#ff0000">**알타**</span>
-  - <span style="color:#ff0000">**피닉스**</span>
-  - <span style="color:#000000">**베노사**</span>
-  - <span style="color:#a52a2a">**프린스콩**</span>
-  - <span style="color:#dcdcdc">**독꼬리**</span>
-  - <span style="color:#ff0000">**디스크캐논**</span>
-  - <span style="color:#0000ff">**네오**</span>
+  - 에반
+  - 타나토스
+  - 테로
+  - 알타
+  - 피닉스
+  - 베노사
+  - 프린스콩
+  - 독꼬리
+  - 디스크캐논
+  - 네오
 
 ## 방영 목록
 

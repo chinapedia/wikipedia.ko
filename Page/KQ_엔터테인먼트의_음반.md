@@ -51,7 +51,7 @@
   - 2018년 9월 28일 태일 - **매지컬 OST**
   - 2018년 9월 29일 이든, [Maddox](https://ko.wikipedia.org/wiki/Maddox "wikilink") - **\[Digital Single\] Eden_Stardust.05**
   - 2018년 10월 3일 베이빌론 - **CAELO**
-  - 2018년 10월 24일 [에이티즈](https://ko.wikipedia.org/wiki/에이티즈 "wikilink") - **Treasure Ep.1:All To Zero**
+  - 2018년 10월 24일 [에이티즈](../Page/에이티즈.md "wikilink") - **Treasure Ep.1:All To Zero**
   - 2018년 10월 31일 이든,루시 - **\[Digital Single\] Eden_Stardust.06**
   - 2018년 11월 11일 피오 - **\[Digital Single\] 소년처럼**
   - 2018년 11월 17일 루시 - **\[Digital Single\] Swing**
@@ -123,7 +123,7 @@
 7.  박경 미니 1집의 마지막 선공개곡.
 8.  지코 미니 2집의 두번째 선공개곡.
 9.  [김소희도](../Page/소희_\(1995년\).md "wikilink") 앨범 참여.
-10. [로시도](https://ko.wikipedia.org/wiki/로시_\(가수\) "wikilink") 앨범 참여.
+10. [로시도](../Page/로시_\(가수\).md "wikilink") 앨범 참여.
 11. [플라이 투 더 스카이의](../Page/플라이_투_더_스카이.md "wikilink") 멤버 [환희도](https://ko.wikipedia.org/wiki/환희_\(가수\) "wikilink") 앨범 참여.
 12. [윤하도](https://ko.wikipedia.org/wiki/윤하_\(가수\) "wikilink") 앨범 참여.
 13. [러블리즈](../Page/러블리즈.md "wikilink")도 앨범 참여.
@@ -137,15 +137,15 @@
 21. [문명진](../Page/문명진.md "wikilink")도 앨범 참여.
 22. [Blah](https://ko.wikipedia.org/wiki/Blah "wikilink")도 앨범 참여.
 23. [WINNER](https://ko.wikipedia.org/wiki/WINNER "wikilink")와 [B.o.M](https://ko.wikipedia.org/wiki/B.o.M "wikilink")의 멤버 [송민호](../Page/송민호.md "wikilink"),[슈퍼주니어](../Page/슈퍼주니어.md "wikilink")의 멤버 [규현](../Page/규현.md "wikilink")도 앨범 참여.
-24. [미쓰에이](../Page/미쓰에이.md "wikilink")의 멤버 [수지도](../Page/수지_\(대한민국의_가수\).md "wikilink") 앨범 참여.
+24. [미쓰에이](../Page/미쓰에이.md "wikilink")의 멤버 [수지도](../Page/수지_\(1994년\).md "wikilink") 앨범 참여.
 25. [슈프림팀](../Page/슈프림팀.md "wikilink")의 멤버 [사이먼 도미닉](../Page/사이먼_도미닉.md "wikilink"),[Yella D](https://ko.wikipedia.org/wiki/Yella_D "wikilink"),[MBA](https://ko.wikipedia.org/wiki/MBA_\(음악_그룹\) "wikilink") 외 6명도 앨범 참여.
 26. [MBA](https://ko.wikipedia.org/wiki/MBA_\(음악_그룹\) "wikilink"),[최서현](https://ko.wikipedia.org/wiki/최서현 "wikilink"),[Sogumm](https://ko.wikipedia.org/wiki/Sogumm "wikilink") 외 4명도 앨범 참여.
 27. [수란](../Page/수란_\(가수\).md "wikilink"),[딕펑스](../Page/딕펑스.md "wikilink")의 멤버 [김현우](https://ko.wikipedia.org/wiki/김현우_\(가수\) "wikilink"),[마이틴](../Page/마이틴.md "wikilink")의 멤버 [송유빈](../Page/송유빈.md "wikilink"),[선우정아](../Page/선우정아.md "wikilink")도 앨범 참여.
 28. [수란](../Page/수란_\(가수\).md "wikilink"),[딕펑스](../Page/딕펑스.md "wikilink")의 멤버 [김현우](https://ko.wikipedia.org/wiki/김현우_\(가수\) "wikilink"),[마이틴](../Page/마이틴.md "wikilink")의 멤버 [송유빈](../Page/송유빈.md "wikilink"),[선우정아](../Page/선우정아.md "wikilink"),[박재정도](../Page/박재정_\(가수\).md "wikilink") 앨범 참여.
-29. [MBA](https://ko.wikipedia.org/wiki/MBA_\(음악_그룹\) "wikilink"),[QM](https://ko.wikipedia.org/wiki/QM_\(가수\) "wikilink"),[오르내림](https://ko.wikipedia.org/wiki/오르내림 "wikilink"),[파트 타임 쿡스](../Page/파트_타임_쿡스.md "wikilink"),[ODEE도](https://ko.wikipedia.org/wiki/오디_\(가수\) "wikilink") 앨범 참여.
-30. [수란](../Page/수란_\(가수\).md "wikilink"),[딕펑스](../Page/딕펑스.md "wikilink")의 멤버 [김현우](https://ko.wikipedia.org/wiki/김현우_\(가수\) "wikilink"),[마이틴](../Page/마이틴.md "wikilink")의 멤버 [송유빈](../Page/송유빈.md "wikilink"),[선우정아](../Page/선우정아.md "wikilink")도 앨범 참여.
+29. [MBA](https://ko.wikipedia.org/wiki/MBA_\(음악_그룹\) "wikilink"),[QM](https://ko.wikipedia.org/wiki/QM_\(가수\) "wikilink"),[오르내림](../Page/오르내림.md "wikilink"),[파트 타임 쿡스](../Page/파트_타임_쿡스.md "wikilink"),[ODEE도](https://ko.wikipedia.org/wiki/오디_\(가수\) "wikilink") 앨범 참여.
+30.
 31. [MBA](https://ko.wikipedia.org/wiki/MBA_\(음악_그룹\) "wikilink"),[Sogumm](https://ko.wikipedia.org/wiki/Sogumm "wikilink"),[MELOH](https://ko.wikipedia.org/wiki/MELOH "wikilink")도 앨범 참여.
-32. [수란](../Page/수란_\(가수\).md "wikilink"),[딕펑스](../Page/딕펑스.md "wikilink")의 두 멤버 [김현우와](https://ko.wikipedia.org/wiki/김현우_\(가수\) "wikilink") [김태현](https://ko.wikipedia.org/wiki/김태현_\(가수\) "wikilink"),[마이틴](../Page/마이틴.md "wikilink")의 멤버 [송유빈](../Page/송유빈.md "wikilink"),[선우정아](../Page/선우정아.md "wikilink")도 앨범 참여.
+32. [수란](../Page/수란_\(가수\).md "wikilink"),[딕펑스](../Page/딕펑스.md "wikilink")의 두 멤버 [김현우와](https://ko.wikipedia.org/wiki/김현우_\(가수\) "wikilink") [김태현](../Page/김태현_\(가수\).md "wikilink"),[마이틴](../Page/마이틴.md "wikilink")의 멤버 [송유빈](../Page/송유빈.md "wikilink"),[선우정아](../Page/선우정아.md "wikilink")도 앨범 참여.
 33. [니화](https://ko.wikipedia.org/wiki/니화 "wikilink")도 앨범 참여.
-34. [수란](../Page/수란_\(가수\).md "wikilink"),[딕펑스](../Page/딕펑스.md "wikilink")의 멤버 [김현우](https://ko.wikipedia.org/wiki/김현우_\(가수\) "wikilink"),[마이틴](../Page/마이틴.md "wikilink")의 멤버 [송유빈](../Page/송유빈.md "wikilink"),[선우정아](../Page/선우정아.md "wikilink")도 앨범 참여.
+34.
 35. [레드벨벳의](../Page/레드벨벳_\(음악_그룹\).md "wikilink") 멤버 [예리도](../Page/예리_\(가수\).md "wikilink") 앨범 참여.

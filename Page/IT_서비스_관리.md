@@ -7,7 +7,7 @@
 
 ## 컨텍스트
 
-[thumb](https://ko.wikipedia.org/wiki/파일:Itsm-context.png "wikilink") ITSM은 [품질 관리](https://ko.wikipedia.org/wiki/품질_관리 "wikilink"), [정보 보안 관리](https://ko.wikipedia.org/wiki/정보_보안_관리 "wikilink"), [소프트웨어 공학과](../Page/소프트웨어_공학.md "wikilink") 같은 다른 IT 및 일반 관리 접근 방식과 공동의 이해 및 유대 관계를 가지고 있다. 이로써 IT 서비스 관리 프레임워크들은 다른 표준들에 의해 영향을 받고 있으며 [CMMI](../Page/능력_성숙도_통합_모델.md "wikilink"), [ISO 9000](https://ko.wikipedia.org/wiki/ISO_9000 "wikilink"), [ISO/IEC 27000와](https://ko.wikipedia.org/wiki/ISO/IEC_27000 "wikilink") 같은 개념들을 채택하였다.\[3\]
+[thumb](https://ko.wikipedia.org/wiki/파일:Itsm-context.png "wikilink") ITSM은 [품질 관리](https://ko.wikipedia.org/wiki/품질_관리 "wikilink"), [정보 보안 관리](https://ko.wikipedia.org/wiki/정보_보안_관리 "wikilink"), [소프트웨어 공학과](../Page/소프트웨어_공학.md "wikilink") 같은 다른 IT 및 일반 관리 접근 방식과 공동의 이해 및 유대 관계를 가지고 있다. 이로써 IT 서비스 관리 프레임워크들은 다른 표준들에 의해 영향을 받고 있으며 [CMMI](../Page/능력_성숙도_통합_모델.md "wikilink"), [ISO 9000](../Page/ISO_9000.md "wikilink"), [ISO/IEC 27000와](https://ko.wikipedia.org/wiki/ISO/IEC_27000 "wikilink") 같은 개념들을 채택하였다.\[3\]
 
 ## 정보기술 인프라스트럭처 라이브러리 (ITIL)
 

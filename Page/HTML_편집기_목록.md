@@ -77,7 +77,7 @@
   - [시몽키 컴포저](../Page/시몽키.md "wikilink")
   - [Silex website builder](https://ko.wikipedia.org/wiki/Silex_website_builder "wikilink")
   - [스냅에디터](https://ko.wikipedia.org/wiki/스냅에디터 "wikilink")
-  - [TinyMCE](https://ko.wikipedia.org/wiki/TinyMCE "wikilink")
+  - [TinyMCE](../Page/TinyMCE.md "wikilink")
   - [tkWWW](https://ko.wikipedia.org/wiki/tkWWW "wikilink")
   - [TOWeb](https://ko.wikipedia.org/wiki/TOWeb "wikilink")
   - [UltraEdit](https://ko.wikipedia.org/wiki/UltraEdit "wikilink")

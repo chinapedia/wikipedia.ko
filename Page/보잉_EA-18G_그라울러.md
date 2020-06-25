@@ -69,7 +69,7 @@
 
 ## 각주
 
-[분류:함재기](https://ko.wikipedia.org/wiki/분류:함재기 "wikilink") [분류:2006년 첫 비행한 항공기](https://ko.wikipedia.org/wiki/분류:2006년_첫_비행한_항공기 "wikilink") [분류:쌍발 제트기](https://ko.wikipedia.org/wiki/분류:쌍발_제트기 "wikilink")
+[분류:함재기](https://ko.wikipedia.org/wiki/분류:함재기 "wikilink") [분류:2006년 첫 비행한 항공기](https://ko.wikipedia.org/wiki/분류:2006년_첫_비행한_항공기 "wikilink") [분류:쌍발 제트기](https://ko.wikipedia.org/wiki/분류:쌍발_제트기 "wikilink") [분류:중익기](https://ko.wikipedia.org/wiki/분류:중익기 "wikilink")
 
 1.  ‘EA-18G 그라울러’ 6대 투입… 유사시 전자戰 대비, 문화일보, 2017-12-05
 2.  \[양낙규의 Defence Club\]美 첨단무기 구입… 손익계산서 따져보니, 아시아경제, 2017.09.22.

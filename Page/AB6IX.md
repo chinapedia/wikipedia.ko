@@ -23,6 +23,8 @@
 
 2020년 2월 13일, 《5NALLY》를 발매하였다. 5곡이 들어 있으며 각 멤버들의 솔로곡으로 담겨있다.
 
+2020년 6월 8일, 두 번째 EP인 《VIVID》를 발매하며 컴백을 앞두고 있다.
+
 ## 구성원
 
 |  |
@@ -56,4 +58,4 @@
   - [AB6IX](https://www.youtube.com/AB6IX) - [유튜브](../Page/유튜브.md "wikilink")
   - [AB6IX](https://www.instagram.com/ab6ix_official/) - [인스타그램](../Page/인스타그램.md "wikilink")
 
-[분류:AB6IX](https://ko.wikipedia.org/wiki/분류:AB6IX "wikilink") [분류:브랜뉴 뮤직 음악가](https://ko.wikipedia.org/wiki/분류:브랜뉴_뮤직_음악가 "wikilink") [분류:2010년대 음악 그룹](https://ko.wikipedia.org/wiki/분류:2010년대_음악_그룹 "wikilink") [분류:2019년 데뷔](https://ko.wikipedia.org/wiki/분류:2019년_데뷔 "wikilink") [분류:2019년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2019년_결성된_음악_그룹 "wikilink") [분류:5인조 음악 그룹](https://ko.wikipedia.org/wiki/분류:5인조_음악_그룹 "wikilink") [분류:K-pop 음악 그룹](https://ko.wikipedia.org/wiki/분류:K-pop_음악_그룹 "wikilink") [분류:한국어 음악 그룹](https://ko.wikipedia.org/wiki/분류:한국어_음악_그룹 "wikilink") [분류:대한민국의 아이돌 그룹](https://ko.wikipedia.org/wiki/분류:대한민국의_아이돌_그룹 "wikilink") [분류:대한민국의 보이 밴드](https://ko.wikipedia.org/wiki/분류:대한민국의_보이_밴드 "wikilink") [분류:대한민국의 팝 음악 그룹](https://ko.wikipedia.org/wiki/분류:대한민국의_팝_음악_그룹 "wikilink") [분류:대한민국의 댄스 음악 그룹](https://ko.wikipedia.org/wiki/분류:대한민국의_댄스_음악_그룹 "wikilink") [분류:대한민국의 힙합 그룹](https://ko.wikipedia.org/wiki/분류:대한민국의_힙합_그룹 "wikilink") [분류:SBS MTV 더 쇼 초이스 수상자](https://ko.wikipedia.org/wiki/분류:SBS_MTV_더_쇼_초이스_수상자 "wikilink") [분류:MBC MUSIC 쇼 챔피언 챔피언송 수상자](https://ko.wikipedia.org/wiki/분류:MBC_MUSIC_쇼_챔피언_챔피언송_수상자 "wikilink") [분류:Mnet 엠카운트다운 1위 수상자](https://ko.wikipedia.org/wiki/분류:Mnet_엠카운트다운_1위_수상자 "wikilink")
+[분류:AB6IX](https://ko.wikipedia.org/wiki/분류:AB6IX "wikilink") [분류:브랜뉴 뮤직 음악가](https://ko.wikipedia.org/wiki/분류:브랜뉴_뮤직_음악가 "wikilink") [분류:2010년대 음악 그룹](https://ko.wikipedia.org/wiki/분류:2010년대_음악_그룹 "wikilink") [분류:2019년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2019년_결성된_음악_그룹 "wikilink") [분류:5인조 음악 그룹](https://ko.wikipedia.org/wiki/분류:5인조_음악_그룹 "wikilink") [분류:K-pop 음악 그룹](https://ko.wikipedia.org/wiki/분류:K-pop_음악_그룹 "wikilink") [분류:한국어 음악 그룹](https://ko.wikipedia.org/wiki/분류:한국어_음악_그룹 "wikilink") [분류:대한민국의 아이돌 그룹](https://ko.wikipedia.org/wiki/분류:대한민국의_아이돌_그룹 "wikilink") [분류:대한민국의 보이 밴드](https://ko.wikipedia.org/wiki/분류:대한민국의_보이_밴드 "wikilink") [분류:대한민국의 팝 음악 그룹](https://ko.wikipedia.org/wiki/분류:대한민국의_팝_음악_그룹 "wikilink") [분류:대한민국의 댄스 음악 그룹](https://ko.wikipedia.org/wiki/분류:대한민국의_댄스_음악_그룹 "wikilink") [분류:대한민국의 힙합 그룹](https://ko.wikipedia.org/wiki/분류:대한민국의_힙합_그룹 "wikilink") [분류:SBS MTV 더 쇼 초이스 수상자](https://ko.wikipedia.org/wiki/분류:SBS_MTV_더_쇼_초이스_수상자 "wikilink") [분류:MBC MUSIC 쇼 챔피언 챔피언송 수상자](https://ko.wikipedia.org/wiki/분류:MBC_MUSIC_쇼_챔피언_챔피언송_수상자 "wikilink") [분류:엠넷 엠카운트다운 1위 수상자](https://ko.wikipedia.org/wiki/분류:엠넷_엠카운트다운_1위_수상자 "wikilink")

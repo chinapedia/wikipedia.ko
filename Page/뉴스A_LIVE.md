@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [뉴스A LIVE](https://ko.wikipedia.org/wiki/뉴스A_LIVE).
 
 
-**뉴스A LIVE**는 [채널A](../Page/채널A.md "wikilink")에서 평일 오전 10시 50분, 일요일 낮 12시 10분에 방송되는 [채널A](../Page/채널A.md "wikilink")의 낮 [뉴스](../Page/뉴스.md "wikilink") 프로그램이다.
+**뉴스A LIVE**는 [채널A](../Page/채널A.md "wikilink")에서 평일 낮 1시 50분, 일요일 낮 12시 10분에 방송되는 [채널A](../Page/채널A.md "wikilink")의 낮 [뉴스](../Page/뉴스.md "wikilink") 프로그램이다.
 
 ## 방송 시간
 
@@ -40,8 +40,14 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>2019년 9월 23일 ~ <strong>현재</strong></p></td>
+<td><p>2019년 9월 23일 ~ 2020년 5월 24일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/평일" title="wikilink">평일</a> 오전 10시 50분 ~ 낮 12시 (1시간 10분)<br />
+<a href="../Page/일요일.md" title="wikilink">일요일</a> 낮 12시 10분 ~ 1시 30분 (1시간 20분)</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2020년 5월 25일 ~ <strong>현재</strong></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/평일" title="wikilink">평일</a> 낮 1시 50분 ~ 오후 3시 20분 (1시간 30분)<br />
 <a href="../Page/일요일.md" title="wikilink">일요일</a> 낮 12시 10분 ~ 1시 30분 (1시간 20분)</p></td>
 <td></td>
 </tr>
@@ -110,9 +116,11 @@
 
 ## 동시간대 경쟁 뉴스 프로그램
 
-  - [지구촌 뉴스](../Page/지구촌_뉴스.md "wikilink") ([KBS 2TV](../Page/KBS_2TV.md "wikilink"))
-  - [뉴스포커스](https://ko.wikipedia.org/wiki/뉴스포커스_\(연합뉴스TV\) "wikilink") ([연합뉴스TV](../Page/연합뉴스TV.md "wikilink"))
-  - [뉴스센터 12](../Page/뉴스센터_12.md "wikilink") ([연합뉴스TV](../Page/연합뉴스TV.md "wikilink"))
-  - [뉴스N이슈](../Page/뉴스N이슈.md "wikilink") ([YTN](../Page/YTN.md "wikilink"))
+  - [KBS 뉴스 (1400)](../Page/KBS_뉴스_\(1400\).md "wikilink") ([KBS 1TV](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink"))
+  - [2시 뉴스외전](../Page/2시_뉴스외전.md "wikilink") ([MBC TV](../Page/MBC_TV.md "wikilink"))
+  - [주영진의 뉴스브리핑](../Page/주영진의_뉴스브리핑.md "wikilink") ([SBS TV](../Page/SBS_TV.md "wikilink"))
+  - [전용우의 뉴스ON](../Page/전용우의_뉴스ON.md "wikilink") ([JTBC](../Page/JTBC.md "wikilink"))
+  - [뉴스1번지](https://ko.wikipedia.org/wiki/뉴스1번지 "wikilink") ([연합뉴스TV](../Page/연합뉴스TV.md "wikilink"))
+  - [더 뉴스](../Page/더_뉴스.md "wikilink") ([YTN](../Page/YTN.md "wikilink"))
 
 [분류:채널A의 뉴스 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:채널A의_뉴스_텔레비전_프로그램 "wikilink")

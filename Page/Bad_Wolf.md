@@ -32,7 +32,7 @@
 ## 한국판 성우진(KBS)
 
   - [이정구](https://ko.wikipedia.org/wiki/이정구_\(성우\) "wikilink") - [9대 닥터](../Page/9대_닥터.md "wikilink")([크리스토퍼 에클스턴](../Page/크리스토퍼_에클스턴.md "wikilink"))
-  - [오길경](../Page/오길경.md "wikilink") - [로즈 타일러](../Page/로즈_타일러.md "wikilink")([빌리 파이퍼](https://ko.wikipedia.org/wiki/빌리_파이퍼 "wikilink"))
+  - [오길경](../Page/오길경.md "wikilink") - [로즈 타일러](../Page/로즈_타일러.md "wikilink")([빌리 파이퍼](../Page/빌리_파이퍼.md "wikilink"))
   - [홍성헌](../Page/홍성헌.md "wikilink") - [캡틴 잭 하크니스](https://ko.wikipedia.org/wiki/캡틴_잭_하크니스 "wikilink")([존 배로먼](../Page/존_배로먼.md "wikilink"))
   - [주유랑](../Page/주유랑.md "wikilink") - 린다(조 조이너)
   - [김희선](../Page/김희선_\(성우\).md "wikilink") - 통제관(마사 코프) / 프로그램 진행자(제나 러셀)

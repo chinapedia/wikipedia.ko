@@ -23,7 +23,7 @@
 </tr>
 <tr class="even">
 <td><p>2017년 2월 18일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/서울" title="wikilink">서울</a></p></td>
+<td><p><a href="../Page/서울특별시.md" title="wikilink">서울</a></p></td>
 <td></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/고척_스카이돔" title="wikilink">고척 스카이돔</a></p></td>
 </tr>
@@ -35,7 +35,7 @@
 </tr>
 <tr class="even">
 <td><p>2017년 3월 11일</p></td>
-<td><p><strong><a href="../Page/산티아고.md" title="wikilink">산티아고</a></strong></p></td>
+<td><p><a href="../Page/산티아고.md" title="wikilink">산티아고</a></p></td>
 <td></td>
 <td><p>모비스타 아레나</p></td>
 </tr>
@@ -137,7 +137,7 @@
 </tr>
 <tr class="odd">
 <td><p>2017년 5월 30일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/오사카" title="wikilink">오사카</a></p></td>
+<td><p><a href="../Page/오사카시.md" title="wikilink">오사카</a></p></td>
 <td></td>
 <td><p>오사카-조 홀</p></td>
 </tr>
@@ -155,13 +155,13 @@
 </tr>
 <tr class="even">
 <td><p>2017년 6월 7일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/히로시마" title="wikilink">히로시마</a></p></td>
+<td><p><a href="../Page/히로시마시.md" title="wikilink">히로시마</a></p></td>
 <td><p>히로시마 그린 아레나</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2017년 6월 14일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/나고야" title="wikilink">나고야</a></p></td>
+<td><p><a href="../Page/나고야시.md" title="wikilink">나고야</a></p></td>
 <td><p>Nippon Gaishi Hall</p></td>
 <td></td>
 </tr>
@@ -173,7 +173,7 @@
 </tr>
 <tr class="odd">
 <td><p>2017년 6월 20일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/사이타마" title="wikilink">사이타마</a></p></td>
+<td><p><a href="../Page/사이타마시.md" title="wikilink">사이타마</a></p></td>
 <td><p>사이타마 슈퍼 아레나</p></td>
 <td></td>
 </tr>
@@ -191,7 +191,7 @@
 </tr>
 <tr class="even">
 <td><p>2017년 6월 24일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/후쿠오카" title="wikilink">후쿠오카</a></p></td>
+<td><p><a href="../Page/후쿠오카시.md" title="wikilink">후쿠오카</a></p></td>
 <td><p>마린멧세 후쿠오카</p></td>
 <td></td>
 </tr>
@@ -203,7 +203,7 @@
 </tr>
 <tr class="even">
 <td><p>2017년 7월 1일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/삿포로" title="wikilink">삿포로</a></p></td>
+<td><p><a href="../Page/삿포로시.md" title="wikilink">삿포로</a></p></td>
 <td><p>마코마나이 세키스이하임 아이스 아레나</p></td>
 <td></td>
 </tr>
@@ -215,9 +215,9 @@
 </tr>
 <tr class="even">
 <td><p>2017년 10월 14일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/오사카" title="wikilink">오사카</a></p></td>
-<td><p><a href="../Page/일본.md" title="wikilink">일본</a></p></td>
+<td><p><a href="../Page/오사카시.md" title="wikilink">오사카</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/Kyocera_dome" title="wikilink">쿄세라 돔</a></p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>2017년 10월 15일</p></td>
@@ -227,7 +227,7 @@
 </tr>
 <tr class="even">
 <td><p>2017년 10월 21일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/타이베이_시" title="wikilink">타이베이</a></p></td>
+<td><p><a href="../Page/타이베이시.md" title="wikilink">타이베이</a></p></td>
 <td></td>
 <td><p>Multipurpose Gymnasium National Taiwan Sports University</p></td>
 </tr>
@@ -245,9 +245,9 @@
 </tr>
 <tr class="odd">
 <td><p>2017년 12월 8일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/서울" title="wikilink">서울</a></p></td>
+<td><p>서울</p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/고척_스카이돔" title="wikilink">고척 스카이돔</a></p></td>
+<td><p>고척 스카이돔</p></td>
 </tr>
 <tr class="even">
 <td><p>2017년 12월 9일</p></td>

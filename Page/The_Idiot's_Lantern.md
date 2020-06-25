@@ -3,7 +3,7 @@
 
 "**The Idiot's Lantern**" (KBS 방영 제목: <바보상자>)는 영국의 [SF 드라마](https://ko.wikipedia.org/wiki/SF_드라마 "wikilink") 《[닥터 후](../Page/닥터_후.md "wikilink")》 [시리즈 2의](../Page/닥터_후_\(시리즈_2\).md "wikilink") 일곱 번째 에피소드이다. 2006년 5월 27일 영국에서 처음 방송되었다. [마크 게이티스가](https://ko.wikipedia.org/wiki/마크_게이티스 "wikilink") 각본을 쓰고 [유로스 린이](https://ko.wikipedia.org/wiki/유로스_린 "wikilink") 감독을 맡았다.
 
-에피소드의 줄거리는 맥파이 씨 ([론 쿡](https://ko.wikipedia.org/wiki/론_쿡 "wikilink"))가 [와이어](https://ko.wikipedia.org/wiki/닥터_후의_악역_목록#더_와이어 "wikilink") ([모린 리프먼](https://ko.wikipedia.org/wiki/모린_리프먼 "wikilink"))의 사주를 받아 텔레비전 세트를 굉장히 싼 가격에 판 다음, 와이어가 TV 스크린을 통해 광선을 내뿜어 그것을 보던 사람의 얼굴과 영혼을 앗아간다는 이야기이다. [로즈 타일러](../Page/로즈_타일러.md "wikilink") ([빌리 파이퍼](https://ko.wikipedia.org/wiki/빌리_파이퍼 "wikilink")) 역시 와이어에게 당하자, [닥터](https://ko.wikipedia.org/wiki/10대_닥터 "wikilink") ([데이비드 테넌트](../Page/데이비드_테넌트.md "wikilink"))는 로즈는 물론 [엘리자베스 2세 여왕의 대관식을](https://ko.wikipedia.org/wiki/엘리자베스_2세_여왕의_대관식 "wikilink") 지켜볼 수백만 시청자들을 와이어의 손아귀에서 구해내게 된다.
+에피소드의 줄거리는 맥파이 씨 ([론 쿡](https://ko.wikipedia.org/wiki/론_쿡 "wikilink"))가 [와이어](https://ko.wikipedia.org/wiki/닥터_후의_악역_목록#더_와이어 "wikilink") ([모린 리프먼](https://ko.wikipedia.org/wiki/모린_리프먼 "wikilink"))의 사주를 받아 텔레비전 세트를 굉장히 싼 가격에 판 다음, 와이어가 TV 스크린을 통해 광선을 내뿜어 그것을 보던 사람의 얼굴과 영혼을 앗아간다는 이야기이다. [로즈 타일러](../Page/로즈_타일러.md "wikilink") ([빌리 파이퍼](../Page/빌리_파이퍼.md "wikilink")) 역시 와이어에게 당하자, [닥터](https://ko.wikipedia.org/wiki/10대_닥터 "wikilink") ([데이비드 테넌트](../Page/데이비드_테넌트.md "wikilink"))는 로즈는 물론 [엘리자베스 2세 여왕의 대관식을](https://ko.wikipedia.org/wiki/엘리자베스_2세_여왕의_대관식 "wikilink") 지켜볼 수백만 시청자들을 와이어의 손아귀에서 구해내게 된다.
 
 ## 줄거리
 

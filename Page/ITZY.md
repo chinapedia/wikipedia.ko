@@ -94,10 +94,10 @@
 
 ### 예능
 
-| 연도   | 방송사                                                   | 제목                                                                        | 역할  |
-| ---- | ----------------------------------------------------- | ------------------------------------------------------------------------- | --- |
-| 2019 | [JTBC](../Page/JTBC.md "wikilink")                    | 《[아는형님](https://ko.wikipedia.org/wiki/아는형님 "wikilink")》                   | 게스트 |
-| 2020 | [Mnet](https://ko.wikipedia.org/wiki/Mnet "wikilink") | 《[Paris et ITZY](https://ko.wikipedia.org/wiki/Paris_et_ITZY "wikilink")》 | 출연  |
+| 연도   | 방송사                                                   | 제목                                                                                | 역할                     |
+| ---- | ----------------------------------------------------- | --------------------------------------------------------------------------------- | ---------------------- |
+| 2019 | [JTBC](../Page/JTBC.md "wikilink")                    | 《[아는형님](https://ko.wikipedia.org/wiki/아는형님 "wikilink")》                           | 게스트                    |
+| 2020 | [Mnet](https://ko.wikipedia.org/wiki/Mnet "wikilink") | 《[Paris et ITZY](https://ko.wikipedia.org/wiki/Paris_et_ITZY "wikilink")》(파리에 있지) | 멤버 전부(예지,리아,채령,류진,유나.) |
 
 ## 수상 경력
 
@@ -206,7 +206,9 @@
   -
   -
   -
-[분류:2019년 데뷔](https://ko.wikipedia.org/wiki/분류:2019년_데뷔 "wikilink") [분류:2010년대 음악 그룹](https://ko.wikipedia.org/wiki/분류:2010년대_음악_그룹 "wikilink") [분류:2019년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2019년_결성된_음악_그룹 "wikilink") [분류:대한민국의 걸 그룹](https://ko.wikipedia.org/wiki/분류:대한민국의_걸_그룹 "wikilink") [분류:대한민국의 팝 음악 그룹](https://ko.wikipedia.org/wiki/분류:대한민국의_팝_음악_그룹 "wikilink") [분류:대한민국의 댄스 음악 그룹](https://ko.wikipedia.org/wiki/분류:대한민국의_댄스_음악_그룹 "wikilink") [분류:5인조 음악 그룹](https://ko.wikipedia.org/wiki/분류:5인조_음악_그룹 "wikilink") [분류:JYP 엔터테인먼트 소속](https://ko.wikipedia.org/wiki/분류:JYP_엔터테인먼트_소속 "wikilink") [분류:대한민국의 아이돌 그룹](https://ko.wikipedia.org/wiki/분류:대한민국의_아이돌_그룹 "wikilink") [분류:K-pop 음악 그룹](https://ko.wikipedia.org/wiki/분류:K-pop_음악_그룹 "wikilink") [분류:한국어 음악 그룹](https://ko.wikipedia.org/wiki/분류:한국어_음악_그룹 "wikilink") [분류:Mnet 엠카운트다운 1위 수상자](https://ko.wikipedia.org/wiki/분류:Mnet_엠카운트다운_1위_수상자 "wikilink") [분류:MBC 쇼\! 음악중심 1위 수상자](https://ko.wikipedia.org/wiki/분류:MBC_쇼!_음악중심_1위_수상자 "wikilink") [분류:SBS 인기가요 1위 수상자](https://ko.wikipedia.org/wiki/분류:SBS_인기가요_1위_수상자 "wikilink") [분류:KBS 뮤직뱅크 1위 수상자](https://ko.wikipedia.org/wiki/분류:KBS_뮤직뱅크_1위_수상자 "wikilink") [분류:MBC MUSIC 쇼 챔피언 챔피언송 수상자](https://ko.wikipedia.org/wiki/분류:MBC_MUSIC_쇼_챔피언_챔피언송_수상자 "wikilink")
+  - [ITZY의 인스타그램](https://www.instagram.com/itzy.all.in.us/?hl=ko)- 인스타그램
+
+[분류:2010년대 음악 그룹](https://ko.wikipedia.org/wiki/분류:2010년대_음악_그룹 "wikilink") [분류:2019년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2019년_결성된_음악_그룹 "wikilink") [분류:대한민국의 걸 그룹](https://ko.wikipedia.org/wiki/분류:대한민국의_걸_그룹 "wikilink") [분류:대한민국의 팝 음악 그룹](https://ko.wikipedia.org/wiki/분류:대한민국의_팝_음악_그룹 "wikilink") [분류:대한민국의 댄스 음악 그룹](https://ko.wikipedia.org/wiki/분류:대한민국의_댄스_음악_그룹 "wikilink") [분류:5인조 음악 그룹](https://ko.wikipedia.org/wiki/분류:5인조_음악_그룹 "wikilink") [분류:JYP 엔터테인먼트 소속](https://ko.wikipedia.org/wiki/분류:JYP_엔터테인먼트_소속 "wikilink") [분류:대한민국의 아이돌 그룹](https://ko.wikipedia.org/wiki/분류:대한민국의_아이돌_그룹 "wikilink") [분류:K-pop 음악 그룹](https://ko.wikipedia.org/wiki/분류:K-pop_음악_그룹 "wikilink") [분류:한국어 음악 그룹](https://ko.wikipedia.org/wiki/분류:한국어_음악_그룹 "wikilink") [분류:엠넷 엠카운트다운 1위 수상자](https://ko.wikipedia.org/wiki/분류:엠넷_엠카운트다운_1위_수상자 "wikilink") [분류:MBC 쇼\! 음악중심 1위 수상자](https://ko.wikipedia.org/wiki/분류:MBC_쇼!_음악중심_1위_수상자 "wikilink") [분류:SBS 인기가요 1위 수상자](https://ko.wikipedia.org/wiki/분류:SBS_인기가요_1위_수상자 "wikilink") [분류:KBS 뮤직뱅크 1위 수상자](https://ko.wikipedia.org/wiki/분류:KBS_뮤직뱅크_1위_수상자 "wikilink") [분류:MBC MUSIC 쇼 챔피언 챔피언송 수상자](https://ko.wikipedia.org/wiki/분류:MBC_MUSIC_쇼_챔피언_챔피언송_수상자 "wikilink")
 
 1.
 2.

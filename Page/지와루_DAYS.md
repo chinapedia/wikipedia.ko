@@ -5,7 +5,9 @@
 
 ## 발매 배경
 
-전작 〈[NO WAY MAN](../Page/NO_WAY_MAN.md "wikilink")〉 로부터 약 3개월 만의 싱글이다. ​ [HKT48](../Page/HKT48.md "wikilink")부터의 졸업을 발표한 [사시하라 리노가](../Page/사시하라_리노.md "wikilink") 센터 포지션을 맡는다. 사시하라는 [AKB48 선발 총선거의](https://ko.wikipedia.org/wiki/AKB48_선발_총선거 "wikilink") 결과를 반영하는 AKB48 싱글에서 첫 센터다.
+전작 〈[NO WAY MAN](../Page/NO_WAY_MAN.md "wikilink")〉 로부터 약 3개월 만의 싱글이다.
+
+[HKT48](../Page/HKT48.md "wikilink")부터의 졸업을 발표한 [사시하라 리노가](../Page/사시하라_리노.md "wikilink") 센터 포지션을 맡는다. 사시하라는 [AKB48 선발 총선거의](https://ko.wikipedia.org/wiki/AKB48_선발_총선거 "wikilink") 결과를 반영하는 AKB48 싱글에서 첫 센터다.
 
 ## 수록 내용
 
@@ -18,8 +20,6 @@
 ### Type C
 
 ### 극장반
-
-​
 
 ## 선발 멤버
 
@@ -105,8 +105,6 @@
 ### 내용주
 
 ### 참조주
-
-​
 
 ## 외부 링크
 

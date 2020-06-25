@@ -5,4 +5,4 @@
 
 ## 수록곡
 
-[분류:2017년 음반](https://ko.wikipedia.org/wiki/분류:2017년_음반 "wikilink") [분류:장재인의 음반](https://ko.wikipedia.org/wiki/분류:장재인의_음반 "wikilink") [분류:대한민국의 음반](https://ko.wikipedia.org/wiki/분류:대한민국의_음반 "wikilink") [분류:카카오엠 음반](https://ko.wikipedia.org/wiki/분류:카카오엠_음반 "wikilink") [분류:미스틱엔터테인먼트 싱글](https://ko.wikipedia.org/wiki/분류:미스틱엔터테인먼트_싱글 "wikilink")
+[분류:2017년 음반](https://ko.wikipedia.org/wiki/분류:2017년_음반 "wikilink") [분류:장재인의 음반](https://ko.wikipedia.org/wiki/분류:장재인의_음반 "wikilink") [분류:대한민국의 음반](https://ko.wikipedia.org/wiki/분류:대한민국의_음반 "wikilink") [분류:카카오엠 음반](https://ko.wikipedia.org/wiki/분류:카카오엠_음반 "wikilink") [분류:미스틱스토리 싱글](https://ko.wikipedia.org/wiki/분류:미스틱스토리_싱글 "wikilink")

@@ -47,10 +47,10 @@
 
 [분류:WWE의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:WWE의_텔레비전_프로그램 "wikilink") [분류:페이스북 워치의 오리지널 프로그램](https://ko.wikipedia.org/wiki/분류:페이스북_워치의_오리지널_프로그램 "wikilink")
 
-1.  [엔조 아모레](../Page/엔조_아모레.md "wikilink") 감기로 [아폴로 크루즈로](https://ko.wikipedia.org/wiki/우하_네이션 "wikilink") 교체됨.
+1.  [엔조 아모레](../Page/엔조_아모레.md "wikilink") 감기로 [아폴로 크루즈로](../Page/우하_네이션.md "wikilink") 교체됨.
 2.  [얼리샤 폭스](https://ko.wikipedia.org/wiki/얼리샤_폭스 "wikilink") 부상으로 [맨디 로즈로](../Page/맨디_로즈.md "wikilink") 교체됨.
 3.  [더 뉴데이](../Page/더_뉴데이.md "wikilink") 멤버중에서 [빅 E가](https://ko.wikipedia.org/wiki/빅_E "wikilink") 선택되면서 출전함.
 4.  [브라운 스트로우맨](https://ko.wikipedia.org/wiki/브라운_스트로우맨 "wikilink") 부상으로 [커트 호킨스로](../Page/커트_호킨스.md "wikilink") 교체됨.
-5.  [핀 베일러](../Page/핀_베일러.md "wikilink") 부상으로 [아폴로로](https://ko.wikipedia.org/wiki/우하_네이션 "wikilink") 교체됨.
+5.  [핀 베일러](../Page/핀_베일러.md "wikilink") 부상으로 [아폴로로](../Page/우하_네이션.md "wikilink") 교체됨.
 6.  [케빈 오웬스](https://ko.wikipedia.org/wiki/케빈_오웬스 "wikilink") 부상으로 [로버트 루드로](../Page/로버트_루드.md "wikilink") 교체됨.
 7.  [A.J. 스타일스](../Page/A.J._스타일스.md "wikilink") 부상으로 [제프 하디로](../Page/제프_하디.md "wikilink") 교체됨.

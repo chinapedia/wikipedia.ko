@@ -40,6 +40,7 @@
   - [강남역 화장실 살인사건](../Page/강남역_화장실_살인사건.md "wikilink")
   - [서울 강서구 아파트 전처 살인 사건](../Page/서울_강서구_아파트_전처_살인_사건.md "wikilink")
   - [진주 가좌주공아파트 방화 살인 사건](../Page/진주_가좌주공아파트_방화_살인_사건.md "wikilink")
+  - [교토 애니메이션 방화 사건](../Page/교토_애니메이션_방화_사건.md "wikilink")
 
 [분류:10월 14일](https://ko.wikipedia.org/wiki/분류:10월_14일 "wikilink") [분류:2018년 10월](https://ko.wikipedia.org/wiki/분류:2018년_10월 "wikilink") [분류:2018년 대한민국](https://ko.wikipedia.org/wiki/분류:2018년_대한민국 "wikilink") [분류:대한민국의 살인 사건](https://ko.wikipedia.org/wiki/분류:대한민국의_살인_사건 "wikilink") [분류:2018년 범죄](https://ko.wikipedia.org/wiki/분류:2018년_범죄 "wikilink") [분류:서울 강서구](https://ko.wikipedia.org/wiki/분류:서울_강서구 "wikilink") [분류:서울특별시의 범죄](https://ko.wikipedia.org/wiki/분류:서울특별시의_범죄 "wikilink")
 

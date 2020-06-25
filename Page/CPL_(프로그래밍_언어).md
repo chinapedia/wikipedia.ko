@@ -19,7 +19,7 @@ Peter Norvig가 공식화한 함수 MAX:\[3\]
     Items := Rest(Items) §⃒
     result is Best §⃒
 
-## 참고문헌
+## 참고 문헌
 
   - Collected papers of Christopher Strachey, section pertaining to CPL, archived at the Bodleian Library, Oxford; [CSAC 71.1.80/C.136-C.184](http://www.nationalarchives.gov.uk/a2a/records.aspx?cat=161-csac71180&cid=3-5-1#3-5-1)
   - D. W. Barron, J. N. Buxton, D. F. Hartley, E. Nixon, and C. Strachey. ["The main features of CPL"](http://comjnl.oxfordjournals.org/cgi/reprint/6/2/134) *The Computer Journal* **6**:2:134-143 (1963), available [online](http://www.math.bas.bg/~bantchev/place/cpl/features.pdf).

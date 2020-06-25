@@ -13,7 +13,7 @@ CGI 및 기타 대부분의 웹 애플리케이션 환경과 달리 mod_perl은 
 
 ## 같이 보기
 
-  - [CGI.pm](https://ko.wikipedia.org/wiki/CGI.pm "wikilink")
+  - [CGI.pm](../Page/CGI.pm.md "wikilink")
   - [FastCGI](../Page/FastCGI.md "wikilink")
 
 ## 각주

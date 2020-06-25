@@ -29,7 +29,6 @@
   - 로키 - 이차원 세계에서 온 열정적인 소년.
   - 데이지 - 이차원 세계에서 온 직감적인 소녀.
   - 서준 - 지구에 사는 강해지고 싶은 소년.
-  - 마리 - 닥터 X가 만든 복제인간. 3명이다.
 
 ### 조역
 
@@ -52,78 +51,78 @@
 
 ## 등장 메카니멀
 
-  - <span style="font-weight:bold; color:#0000ff">에반</span>
-  - <span style="font-weight:bold; color:#800080">타나토스</span>
-  - <span style="font-weight:bold; color:#008000">슈마</span>
-  - <span style="font-weight:bold; color:#800080">알타</span>
-  - <span style="text-shadow: 0 0 3px #ffd700;color:#000000">피닉스</span>
-  - <span style="font-weight:bold; color:#dcdcdc">테로</span>
-  - <span style="font-weight:bold; color:#ff1493">미리내</span>
-  - <span style="font-weight:bold; color:#ff0000">코카트</span>
-  - <span style="font-weight:bold; color:#008000">베노사</span>
-  - <span style="font-weight:bold; color:#000000">게리온</span>
-  - <span style="font-weight:bold; color:#ff0000">무간</span>
-  - <span style="font-weight:bold; color:#dcdcdc">캉시</span>
-  - <span style="font-weight:bold; color:#008000">나백작</span>
-  - <span style="font-weight:bold; color:#ff00ff">독꼬리</span>
-  - <span style="font-weight:bold; color:#0000ff">타이탄</span>
-  - <span style="font-weight:bold; color:#800080">크로키</span>
-  - <span style="font-weight:bold; color:#000000">킹죠스</span>
-  - <span style="font-weight:bold; color:#a52a2a">파이온</span>
-  - <span style="font-weight:bold; color:#0000ff">크랑</span>
-  - <span style="font-weight:bold; color:#ff8c00">윙톡</span>
-  - <span style="font-weight:bold; color:#ff0000">만타리</span>
-  - <span style="font-weight:bold; color:#dcdcdc">옥타</span>
-  - <span style="font-weight:bold; color:#ff8c00">안드로매지션</span>
-  - <span style="font-weight:bold; color:#808080">바벨</span>
-  - <span style="font-weight:bold; color:#008000">센뿔</span>
-  - <span style="font-weight:bold; color:#0000ff">모스톤</span>
-  - <span style="font-weight:bold; color:#0000ff">프린스콩</span>
-  - <span style="font-weight:bold; color:#ff0000">우르스</span>
-  - <span style="font-weight:bold; color:#0000ff">타돌</span>
-  - <span style="font-weight:bold; color:#ff0000">메가</span>
-  - <span style="font-weight:bold; color:#0000ff">메가테릭스</span>
-  - <span style="font-weight:bold; color:#000000">메가스파이더</span>
-  - <span style="font-weight:bold; color:#ff0000">메가드래곤</span>
-  - <span style="text-shadow: 0 0 3px #800080;color:#dcdcdc">그리폰</span>
-  - <span style="text-shadow: 0 0 3px #800080;color:#ff0000">스핑크스</span>
-  - <span style="text-shadow: 0 0 3px #800080;color:#dcdcdc">그리</span><span style="text-shadow: 0 0 3px #800080;color:#ff0000">핑크스</span> (<span style="text-shadow: 0 0 3px #800080;color:#dcdcdc">그리폰</span> + <span style="text-shadow: 0 0 3px #800080;color:#ff0000">스핑크스</span>)
-  - <span style="font-weight:bold; color:#0000ff">요타</span>
-  - <span style="font-weight:bold; color:#ff0000">네오</span>
-  - <span style="font-weight:bold; color:#8a2be2">엑스</span>
-  - <span style="font-weight:bold; color:#dcdcdc">크라켄</span>
-  - <span style="font-weight:bold; color:#0000ff">피코</span>
-  - <span style="font-weight:bold; color:#ff0000">하이드론</span>
-  - <span style="font-weight:bold; color:#0000ff">카울</span>
-  - <span style="font-weight:bold; color:#0000ff">투스코</span>
-  - <span style="font-weight:bold; color:#000000">데스퍼</span>
-  - <span style="font-weight:bold; color:#008000">쿠루기</span>
-  - <span style="font-weight:bold; color:#0000ff">다이크</span>
-  - <span style="font-weight:bold; color:#ff0000">카이온</span>
-  - <span style="font-weight:bold; color:#000000">가고토스</span>
-  - <span style="font-weight:bold; color:#dcdcdc">윙라이온</span>
-  - <span style="font-weight:bold; color:#ff0000">메가에반</span>
-  - <span style="font-weight:bold; color:#ffff00">메가스콜피온</span>
-  - <span style="font-weight:bold; color:#ff0000">디스크캐논</span>
-  - <span style="font-weight:bold; color:#ffff00">제트</span>
-  - <span style="font-weight:bold; color:#008000">고브</span>
-  - <span style="font-weight:bold; color:#ff0000">볼카</span>
-  - <span style="font-weight:bold; color:#dcdcdc">도라</span>
-  - <span style="font-weight:bold; color:#ffff00">트렘</span>
-  - <span style="font-weight:bold; color:#0000ff">푸킨</span>
-  - <span style="font-weight:bold; color:#ff0000">아머피트</span>
-  - <span style="font-weight:bold; color:#800080">아라게</span>
-  - <span style="font-weight:bold; color:#dcdcdc">버키</span>
-  - <span style="font-weight:bold; color:#ff0000">윙피닉스</span>
-  - <span style="font-weight:bold; color:#008000">치르매미</span>
-  - <span style="font-weight:bold; color:#ff0000">뎅뎅</span>
-  - <span style="font-weight:bold; color:#0000ff">마루</span>
-  - <span style="font-weight:bold; color:#0000ff">에반킹</span>
-  - <span style="font-weight:bold; color:#ff0000">켄타스콘</span>
-  - <span style="font-weight:bold; color:#000000">마스터</span>
-  - <span style="font-weight:bold; color:#0000ff">하이테로</span>
-  - <span style="font-weight:bold; color:#0000ff">윙나이트</span>
-  - <span style="font-weight:bold; color:#ffff00">윙레오</span>
+  - 에반
+  - 타나토스
+  - 슈마
+  - 알타
+  - 피닉스
+  - 테로
+  - 미리내
+  - 코카트
+  - 베노사
+  - 게리온
+  - 무간
+  - 캉시
+  - 나백작
+  - 독꼬리
+  - 타이탄
+  - 크로키
+  - 킹죠스
+  - 파이온
+  - 크랑
+  - 윙톡
+  - 만타리
+  - 옥타
+  - 안드로매지션
+  - 바벨
+  - 센뿔
+  - 모스톤
+  - 프린스콩
+  - 우르스
+  - 타돌
+  - 메가
+  - 메가테릭스
+  - 메가스파이더
+  - 메가드래곤
+  - 그리폰
+  - 스핑크스
+  - 그리핑크스(그리폰 + 스핑크스)
+  - 요타
+  - 네오
+  - 엑스
+  - 크라켄
+  - 피코
+  - 하이드론
+  - 카울
+  - 투스코
+  - 데스퍼
+  - 쿠루기
+  - 다이크
+  - 카이온
+  - 가고토스
+  - 윙라이온
+  - 메가에반
+  - 메가스콜피온
+  - 디스크캐논
+  - 제트
+  - 고브
+  - 볼카
+  - 도라
+  - 트렘
+  - 푸킨
+  - 아머피트
+  - 아라게
+  - 버키
+  - 윙피닉스
+  - 치르매미
+  - 뎅뎅
+  - 마루
+  - 에반킹
+  - 켄타스콘
+  - 마스터
+  - 하이테로
+  - 윙나이트
+  - 윙레오
 
 ## 목소리 출연/성우진
 

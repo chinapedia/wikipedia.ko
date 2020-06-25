@@ -105,7 +105,7 @@
 <td><p><br />
 <br />
 <br />
-</br><a href="https://ko.wikipedia.org/wiki/수도권_광역급행철도_C선" title="wikilink">수도권 광역급행철도 C선</a> (예정)</p></td>
+</br><a href="../Page/수도권_광역급행철도_C노선.md" title="wikilink">수도권 광역급행철도 C노선</a> (예정)</p></td>
 <td></td>
 <td></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/동대문구" title="wikilink">동대문구</a></p></td>
@@ -119,7 +119,7 @@
 <br />
 <br />
 <br />
-<a href="https://ko.wikipedia.org/wiki/수도권_광역급행철도_A선" title="wikilink">수도권 광역급행철도 A선</a> (예정)<br />
+<a href="../Page/수도권_광역급행철도_A노선.md" title="wikilink">수도권 광역급행철도 A노선</a> (예정)<br />
 <span style="color: {{한국 철도 노선색|NT|SN}};">■</span> <a href="../Page/신안산선.md" title="wikilink">신안산선</a>(예정)</p></td>
 <td></td>
 <td></td>

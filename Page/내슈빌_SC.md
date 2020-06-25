@@ -33,4 +33,4 @@
 </tbody>
 </table>
 
-[분류:2017년 설립된 축구단](https://ko.wikipedia.org/wiki/분류:2017년_설립된_축구단 "wikilink") [분류:메이저 리그 사커 구단](https://ko.wikipedia.org/wiki/분류:메이저_리그_사커_구단 "wikilink") [분류:내슈빌의 스포츠](https://ko.wikipedia.org/wiki/분류:내슈빌의_스포츠 "wikilink") [분류:내슈빌 SC](https://ko.wikipedia.org/wiki/분류:내슈빌_SC "wikilink")
+[내슈빌_SC](https://ko.wikipedia.org/wiki/분류:내슈빌_SC "wikilink") [분류:2017년 설립된 축구단](https://ko.wikipedia.org/wiki/분류:2017년_설립된_축구단 "wikilink") [분류:메이저 리그 사커 구단](https://ko.wikipedia.org/wiki/분류:메이저_리그_사커_구단 "wikilink") [분류:내슈빌의 스포츠](https://ko.wikipedia.org/wiki/분류:내슈빌의_스포츠 "wikilink") [분류:테네시주의 축구단](https://ko.wikipedia.org/wiki/분류:테네시주의_축구단 "wikilink")

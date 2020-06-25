@@ -109,65 +109,230 @@
 
 ## 팀이름 및 구성원
 
-\<Poppin' Party\>
+### \<Poppin' Party\>
 
-토야마 카스미 (Gt.\&Vo.) (아이미)
+  - **토야마 카스미** ([Gt](../Page/전기_기타.md "wikilink").&[Vo](https://ko.wikipedia.org/wiki/보컬리스트 "wikilink").)
 
-이치가야 아리사 (Key.) (이토아야사)
+<!-- end list -->
 
-하나조노 타에 (Gt.) (오오츠카사에)
+  -
+    성우: 아이미
 
-우시고메 리미 (Ba.) (니시모토리미)
+<!-- end list -->
 
-야마부키 사아야 (Dr.) (오오하시아야카)
+  - **이치가야 아리사** ([Key](https://ko.wikipedia.org/wiki/키보드 "wikilink").)
 
-<Afterglow>
+<!-- end list -->
 
-미타케 란 (Gt.\&Vo.) (사쿠라아야네)
+  -
+    성우: [이토 아야사](https://ko.wikipedia.org/wiki/이토_아야사 "wikilink")
 
-하자와 츠구미 (Key.) (카네모토히사코)
+<!-- end list -->
 
-아오바 모카 (Gt.) (미사와사치카)
+  - **하나조노 타에** ([Gt](../Page/전기_기타.md "wikilink").)
 
-우에하라 히마리 (Ba.) (카토에미리)
+<!-- end list -->
 
-우다가와 토모에 (Dr.) (히카와요코)
+  -
+    성우: [오오츠카 사에](https://ko.wikipedia.org/wiki/오오츠카_사에 "wikilink")
 
-\<Pastel\*Palettes\>
+<!-- end list -->
 
-마루야마 아야 (Vo.) (마에시마아미)
+  - **우시고메 리미** ([Ba](../Page/베이스_기타.md "wikilink").)
 
-와카미야 이브 (Key.) (하타사와코)
+<!-- end list -->
 
-히카와 히나 (Gt.) (오자와아리)
+  -
+    성우: [니시모토 리미](https://ko.wikipedia.org/wiki/니시모토_리미 "wikilink")
 
-시라사기 치사토 (Ba.) (우에사카스미레)
+<!-- end list -->
 
-야마토 마야 (Dr.) (나카가미이쿠미)
+  - **야마부키 사아야** ([Dr](https://ko.wikipedia.org/wiki/드럼 "wikilink").)
 
-<Roselia>
+<!-- end list -->
 
-미나토 유키나 (Vo.) (아이바아이나)
+  -
+    성우: [오오하시 아야카](../Page/오오하시_아야카.md "wikilink")
 
-시로카네 린코 (Key.) (시자키카논)
+### <Afterglow>
 
-히카와 사요 (Gt.) (쿠도하루카)
+  - **미타케 란** (Gt.\&Vo.)
 
-이마이 리사 (Ba.) (나카시마유키)
+<!-- end list -->
 
-우다가와 아코 (Dr.) (사쿠라가와메구)
+  -
+    성우: [사쿠라 아야네](../Page/사쿠라_아야네.md "wikilink")
 
-\<헬로, 해피월드\>
+<!-- end list -->
 
-츠루마키 코코로 (Vo.) (이토미쿠)
+  - **하자와 츠구미** (Key.)
 
-오쿠사와 미사키, 미셸 (DJ) (쿠로사와토모요)
+<!-- end list -->
 
-세타 카오루 (Gt.) (타도코로아즈사)
+  -
+    성우: [카네모토 히사코](../Page/카네모토_히사코.md "wikilink")
 
-키타자와 하구미 (Ba.) (요시다유리)
+<!-- end list -->
 
-미츠바라 카논 (Dr.) (토요타모에)
+  - **아오바 모카** (Gt.)
+
+<!-- end list -->
+
+  -
+    성우: [미사와 사치카](../Page/미사와_사치카.md "wikilink")
+
+<!-- end list -->
+
+  - **우에하라 히마리** (Ba.)
+
+<!-- end list -->
+
+  -
+    성우: [카토 에미리](../Page/카토_에미리.md "wikilink")
+
+<!-- end list -->
+
+  - **우다가와 토모에** (Dr.)
+
+<!-- end list -->
+
+  -
+    성우: [히카사 요코](../Page/히카사_요코.md "wikilink")
+
+### \<Pastel\*Palettes\>
+
+  - **마루야마 아야** (Vo.)
+
+<!-- end list -->
+
+  -
+    성우: [마에시마 아미](https://ko.wikipedia.org/wiki/마에시마_아미 "wikilink")
+
+<!-- end list -->
+
+  - **와카미야 이브** (Key.)
+
+<!-- end list -->
+
+  -
+    성우: [하타 사와코](https://ko.wikipedia.org/wiki/하다_사와코 "wikilink")
+
+<!-- end list -->
+
+  - **히카와 히나** (Gt.)
+
+<!-- end list -->
+
+  -
+    성우: [오자와 아리](../Page/오자와_아리.md "wikilink")
+
+<!-- end list -->
+
+  - **시라사기 치사토** (Ba.)
+
+<!-- end list -->
+
+  -
+    성우: [우에사카 스미레](../Page/우에사카_스미레.md "wikilink")
+
+<!-- end list -->
+
+  - **야마토 마야** (Dr.)
+
+<!-- end list -->
+
+  -
+    성우: [나카가미 이쿠미](https://ko.wikipedia.org/wiki/나카가미_이쿠미 "wikilink")
+
+### <Roselia>
+
+  - **미나토 유키나** (Vo.)
+
+<!-- end list -->
+
+  -
+    성우: [아이바 아이나](https://ko.wikipedia.org/wiki/아이바_아이나 "wikilink")
+
+<!-- end list -->
+
+  - **시로카네 린코** (Key.)
+
+<!-- end list -->
+
+  -
+    성우: [시자키 카논](https://ko.wikipedia.org/wiki/시자키_카논 "wikilink")
+
+<!-- end list -->
+
+  - **히카와 사요** (Gt.)
+
+<!-- end list -->
+
+  -
+    성우: [쿠도 하루카](../Page/쿠도_하루카.md "wikilink")
+
+<!-- end list -->
+
+  - **이마이 리사** (Ba.)
+
+<!-- end list -->
+
+  -
+    성우: 나카시마 유키
+
+<!-- end list -->
+
+  - **우다가와 아코** (Dr.)
+
+<!-- end list -->
+
+  -
+    성우: [사쿠라가와 메구](https://ko.wikipedia.org/wiki/사쿠라가와_메구 "wikilink")
+
+### \<헬로, 해피월드\!\>
+
+  - **츠루마키 코코로** (Vo.)
+
+<!-- end list -->
+
+  -
+    성우: [이토 미쿠](https://ko.wikipedia.org/wiki/이토_미쿠 "wikilink")
+
+<!-- end list -->
+
+  - **오쿠사와 미사키 / 미셸 (DJ)**
+
+<!-- end list -->
+
+  -
+    성우: [쿠로사와 토모요](../Page/쿠로사와_토모요.md "wikilink")
+
+<!-- end list -->
+
+  - **세타 카오루** (Gt.)
+
+<!-- end list -->
+
+  -
+    성우: [타도코로 아즈사](https://ko.wikipedia.org/wiki/타도코로_아즈사 "wikilink")
+
+<!-- end list -->
+
+  - **키타자와 하구미** (Ba.)
+
+<!-- end list -->
+
+  -
+    성우: [요시다 유리](https://ko.wikipedia.org/wiki/요시다_유리 "wikilink")
+
+<!-- end list -->
+
+  - **미츠바라 카논** (Dr.)
+
+<!-- end list -->
+
+  -
+    성우: [토요타 모에](https://ko.wikipedia.org/wiki/토요타_모에 "wikilink")
 
 ## 스토리
 

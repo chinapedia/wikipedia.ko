@@ -59,6 +59,6 @@
 
 ## 외부 링크
 
-  - [목포MBC 전소영, 김태준의 즐거운 오후 2시 공식 홈페이지](http://www.mpmbc.co.kr/program.php?pg_id=2oclock)
+  - [목포MBC 임사랑, 김은재의 즐거운 오후 2시 공식 홈페이지](http://www.mpmbc.co.kr/program.php?pg_id=2oclock)
 
 [분류:문화방송의 라디오 프로그램](https://ko.wikipedia.org/wiki/분류:문화방송의_라디오_프로그램 "wikilink")

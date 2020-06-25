@@ -19,7 +19,7 @@
 
 ## 출시
 
-[섬네일에서](https://ko.wikipedia.org/wiki/파일:Beatles_press_conference_1965.jpg "wikilink") 열린 비틀즈의 기자회견.|왼쪽\]\] 〈Help\!〉는 1965년의 늦은 여름에 영국과 미국 싱글 차트에서 1위를 차지했다. 이 싱글은 미국 차트에서 연속으로 1위를 차지한 6개의 싱글 중 4 번째였다(〈[I Feel Fine](https://ko.wikipedia.org/wiki/I_Feel_Fine "wikilink")〉, 〈[Eight Days a Week](../Page/Eight_Days_a_Week.md "wikilink")〉, 〈[Ticket to Ride](https://ko.wikipedia.org/wiki/Ticket_to_Ride_\(노래\) "wikilink")〉, 〈Help\!〉, 〈[Yesterday](https://ko.wikipedia.org/wiki/Yesterday "wikilink")〉, 그리고 〈[We Can Work It Out](../Page/We_Can_Work_It_Out.md "wikilink")〉).
+[섬네일에서](https://ko.wikipedia.org/wiki/파일:Beatles_press_conference_1965.jpg "wikilink") 열린 비틀즈의 기자회견.|왼쪽\]\] 〈Help\!〉는 1965년의 늦은 여름에 영국과 미국 싱글 차트에서 1위를 차지했다. 이 싱글은 미국 차트에서 연속으로 1위를 차지한 6개의 싱글 중 4 번째였다(〈[I Feel Fine](../Page/I_Feel_Fine.md "wikilink")〉, 〈[Eight Days a Week](../Page/Eight_Days_a_Week.md "wikilink")〉, 〈[Ticket to Ride](../Page/Ticket_to_Ride_\(노래\).md "wikilink")〉, 〈Help\!〉, 〈[Yesterday](https://ko.wikipedia.org/wiki/Yesterday "wikilink")〉, 그리고 〈[We Can Work It Out](../Page/We_Can_Work_It_Out.md "wikilink")〉).
 
 음반으로서는 《Help\!》 LP, 《Help\!》 사운드트랙, 《1962-1966》, 《The Imagine : John Lennon》 사운드트랙, 《1》, 《Love》, 《The Capitol Albums》, 그리고 《Volume 2》에 수록되었다. 모노 버전(다른 보컬이며, 탬버린이 없음)은 《Rarities》 LP와 《The Beatles in Mono》에 수록되었다.
 

@@ -6,7 +6,7 @@
 [발찬상](https://ko.wikipedia.org/wiki/발찬상 "wikilink")(2017년)
 셰베리상(2017년)
 [킹 파이살 국제상](https://ko.wikipedia.org/wiki/킹_파이살_국제상 "wikilink")(2018년)
-[올버니 의료센터 상](https://ko.wikipedia.org/wiki/올버니_의료센터_상 "wikilink")(2018년)
+[올버니 의료센터 상](../Page/올버니_의료센터_상.md "wikilink")(2018년)
 Dr. Paul Janssen Award for Biomedical Research(2018년)\[1\]
 [노벨 생리학·의학상](../Page/노벨_생리학·의학상.md "wikilink")(2018년) |배우자 = 파드마니 샤르마(MD, PhD)\[2\] }} **제임스 패트릭 앨리슨**(, [1948년](../Page/1948년.md "wikilink") [8월 7일](../Page/8월_7일.md "wikilink") \~ )은 [미국](../Page/미국.md "wikilink")의 [면역학](../Page/면역학.md "wikilink")자이다. 2018년에 음성적 면역조절 억제에 의한 암 치료법을 발견한 공로로 [혼조 다스쿠와](../Page/혼조_다스쿠.md "wikilink") 함께 [노벨 생리학·의학상을](../Page/노벨_생리학·의학상.md "wikilink") 수상했다.\[3\]\[4\]
 
@@ -27,7 +27,7 @@ Dr. Paul Janssen Award for Biomedical Research(2018년)\[1\]
   - 2017년 : [발찬상](https://ko.wikipedia.org/wiki/발찬상 "wikilink")
   - 2017년 : 셰베리상
   - 2018년 : [킹 파이살 국제상](https://ko.wikipedia.org/wiki/킹_파이살_국제상 "wikilink")
-  - 2018년 : [올버니 의료센터 상](https://ko.wikipedia.org/wiki/올버니_의료센터_상 "wikilink")
+  - 2018년 : [올버니 의료센터 상](../Page/올버니_의료센터_상.md "wikilink")
   - 2018년 : Dr. Paul Janssen Award for Biomedical Research
   - 2018년 : 노벨 생리학·의학상
 

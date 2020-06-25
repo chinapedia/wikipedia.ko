@@ -3,6 +3,8 @@
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:One-ui_logo.svg "wikilink") **One UI**는 [삼성전자](https://ko.wikipedia.org/wiki/삼성전자 "wikilink")가 [구글](../Page/구글.md "wikilink")과 협력하여 자사의 [갤럭시](../Page/삼성_갤럭시.md "wikilink") 기기들을 위해 설계한 [안드로이드](../Page/안드로이드_\(운영_체제\).md "wikilink") 기반 커스텀 [모바일 운영 체제이다](../Page/모바일_운영_체제.md "wikilink"). [Samsung Experience의](../Page/Samsung_Experience.md "wikilink") 뒤를 이으며 [갤럭시 S9](https://ko.wikipedia.org/wiki/갤럭시_S9 "wikilink") 시리즈용 [안드로이드 파이에](../Page/안드로이드_파이.md "wikilink") 기반한 베타 빌드로 2018년 말 선보였다. 최초 공개 정식 버전은 2018년 12월 24일 선별된 지역([레바논](../Page/레바논.md "wikilink")의 일부 기기, 그리고 [독일](../Page/독일.md "wikilink"), [스위스](https://ko.wikipedia.org/wiki/스위스 "wikilink"), [이탈리아](../Page/이탈리아.md "wikilink"), [아랍에미리트](../Page/아랍에미리트.md "wikilink"), [네덜란드](../Page/네덜란드.md "wikilink"), [터키](../Page/터키.md "wikilink"))에서 [소프트웨어](../Page/소프트웨어.md "wikilink") 업데이트로 출시되었으며,\[1\]
 
+## 버전
+
 **One UI 1.0**: 삼성 기기의 [안드로이드 파이](../Page/안드로이드_파이.md "wikilink") UX이다.[삼성 갤럭시 S9](../Page/삼성_갤럭시_S9.md "wikilink")/S9+ 의 파이 업데이트(1.15)에 처음 적용되었으며 같은 날 노트9에도 업데이트 되었다. 이후 [갤럭시 노트8과](https://ko.wikipedia.org/wiki/갤럭시_노트8 "wikilink") [갤럭시 S8](https://ko.wikipedia.org/wiki/갤럭시_S8 "wikilink"),S8+에도 적용되었다
 
 **One UI 1.1**: [갤럭시 S10](https://ko.wikipedia.org/wiki/갤럭시_S10 "wikilink") 시리즈부터 적용된 버전이다. One UI 1.0과 차이점은 디지털 웰빙이 적용되어 있다. [갤럭시 S10](https://ko.wikipedia.org/wiki/갤럭시_S10 "wikilink") 시리즈 이후 [갤럭시 노트10](https://ko.wikipedia.org/wiki/갤럭시_노트10 "wikilink") 이전에 출시된 갤럭시 기기에는 One UI 1.1이 적용되어 있다.
@@ -21,24 +23,24 @@
 
 ## One UI를 구동하는 기기
 
-| 장치                                                                              | 버전                                                                              |
-| ------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
-| [삼성 갤럭시 폴드](../Page/삼성_갤럭시_폴드.md "wikilink") 5G                                 | One UI 1.5 ([안드로이드 파이](../Page/안드로이드_파이.md "wikilink") 9.0)                     |
-| [삼성 갤럭시 노트10](https://ko.wikipedia.org/wiki/삼성_갤럭시_노트10 "wikilink") 5G,노트10+ 5G | One UI 2.1 ([안드로이드 10](https://ko.wikipedia.org/wiki/안드로이드_10 "wikilink") 10.0) |
-| [삼성 갤럭시 S10](../Page/삼성_갤럭시_S10.md "wikilink"),S10+,S10e,S10 5G                 | One UI 2.1 ([안드로이드 10](https://ko.wikipedia.org/wiki/안드로이드_10 "wikilink") 10.0) |
-| [삼성 갤럭시 S9](../Page/삼성_갤럭시_S9.md "wikilink") 및 S9+                              | One UI 2 ([안드로이드 10](https://ko.wikipedia.org/wiki/안드로이드_10 "wikilink") 10.0)   |
-| [삼성 갤럭시 노트 9](https://ko.wikipedia.org/wiki/삼성_갤럭시_노트_9 "wikilink")             | One UI 2 ([안드로이드 10](https://ko.wikipedia.org/wiki/안드로이드_10 "wikilink") 10.0)   |
-| [삼성 갤럭시 노트 8](https://ko.wikipedia.org/wiki/삼성_갤럭시_노트_8 "wikilink")             | One UI 1.0 ([안드로이드 파이](../Page/안드로이드_파이.md "wikilink") 9.0)                     |
-| [삼성 갤럭시 S8](../Page/삼성_갤럭시_S8.md "wikilink") 및 S8+                              | One UI 1.0 ([안드로이드 파이](../Page/안드로이드_파이.md "wikilink") 9.0)                     |
-| [삼성 갤럭시 A8 2018](../Page/삼성_갤럭시_A8_\(2018\).md "wikilink")                      | One UI 1.0 ([안드로이드 파이](../Page/안드로이드_파이.md "wikilink") 9.0)                     |
-| [삼성 갤럭시 A7 2017](../Page/삼성_갤럭시_A7_\(2017\).md "wikilink")                      | One UI 1.1 ([안드로이드 파이](../Page/안드로이드_파이.md "wikilink") 9.0)                     |
-| [삼성 갤럭시 와이드3](https://ko.wikipedia.org/wiki/삼성_갤럭시_와이드3 "wikilink")             | One UI 1.1 ([안드로이드 파이](../Page/안드로이드_파이.md "wikilink") 9.0)                     |
-| [삼성 갤럭시 와이드4](https://ko.wikipedia.org/wiki/삼성_갤럭시_와이드4 "wikilink")             | One UI 1.1 ([안드로이드 파이](../Page/안드로이드_파이.md "wikilink") 9.0)                     |
-| [삼성 갤럭시 J7 (2017)](../Page/삼성_갤럭시_J7_\(2017\).md "wikilink")                    | One UI 1.1 ([안드로이드 파이](../Page/안드로이드_파이.md "wikilink") 9.0)                     |
-| [삼성 갤럭시 J5 (2017)](../Page/삼성_갤럭시_J5_\(2017\).md "wikilink")                    | One UI 1.1 ([안드로이드 파이](../Page/안드로이드_파이.md "wikilink") 9.0)                     |
-| [삼성 갤럭시 A40](https://ko.wikipedia.org/wiki/삼성_갤럭시_A40 "wikilink")               | One UI 1.1 ([안드로이드 파이](../Page/안드로이드_파이.md "wikilink") 9.0)                     |
-| [삼성 갤럭시 A30](https://ko.wikipedia.org/wiki/삼성_갤럭시_A30 "wikilink")               | One UI 2 ([안드로이드 10](https://ko.wikipedia.org/wiki/안드로이드_10 "wikilink") 10.0)   |
-| [삼성 갤럭시 A50](https://ko.wikipedia.org/wiki/삼성_갤럭시_A50 "wikilink")               | One UI 2 ([안드로이드 10](https://ko.wikipedia.org/wiki/안드로이드_10 "wikilink") 10.0)   |
+| 장치                                                                  | 버전                                                                              |
+| ------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
+| [삼성 갤럭시 폴드](../Page/삼성_갤럭시_폴드.md "wikilink") 5G                     | One UI 2.1 (안드로이드 10 10.0)                                                      |
+| [삼성 갤럭시 노트10](../Page/삼성_갤럭시_노트10.md "wikilink") 5G,노트10+ 5G        | One UI 2.1 ([안드로이드 10](https://ko.wikipedia.org/wiki/안드로이드_10 "wikilink") 10.0) |
+| [삼성 갤럭시 S10](../Page/삼성_갤럭시_S10.md "wikilink"),S10+,S10e,S10 5G     | One UI 2.1 ([안드로이드 10](https://ko.wikipedia.org/wiki/안드로이드_10 "wikilink") 10.0) |
+| [삼성 갤럭시 S9](../Page/삼성_갤럭시_S9.md "wikilink") 및 S9+                  | One UI 2.0 ([안드로이드 10](https://ko.wikipedia.org/wiki/안드로이드_10 "wikilink") 10.0) |
+| [삼성 갤럭시 노트 9](https://ko.wikipedia.org/wiki/삼성_갤럭시_노트_9 "wikilink") | One UI 2.0 ([안드로이드 10](https://ko.wikipedia.org/wiki/안드로이드_10 "wikilink") 10.0) |
+| [삼성 갤럭시 노트 8](https://ko.wikipedia.org/wiki/삼성_갤럭시_노트_8 "wikilink") | One UI 1.0 ([안드로이드 파이](../Page/안드로이드_파이.md "wikilink") 9.0)                     |
+| [삼성 갤럭시 S8](../Page/삼성_갤럭시_S8.md "wikilink") 및 S8+                  | One UI 1.0 ([안드로이드 파이](../Page/안드로이드_파이.md "wikilink") 9.0)                     |
+| [삼성 갤럭시 A8 2018](../Page/삼성_갤럭시_A8_\(2018\).md "wikilink")          | One UI 1.0 ([안드로이드 파이](../Page/안드로이드_파이.md "wikilink") 9.0)                     |
+| [삼성 갤럭시 A7 2017](../Page/삼성_갤럭시_A7_\(2017\).md "wikilink")          | One UI 1.1 ([안드로이드 파이](../Page/안드로이드_파이.md "wikilink") 9.0)                     |
+| [삼성 갤럭시 와이드3](https://ko.wikipedia.org/wiki/삼성_갤럭시_와이드3 "wikilink") | One UI 1.1 ([안드로이드 파이](../Page/안드로이드_파이.md "wikilink") 9.0)                     |
+| [삼성 갤럭시 와이드4](https://ko.wikipedia.org/wiki/삼성_갤럭시_와이드4 "wikilink") | One UI 2.0 ([안드로이드 10](https://ko.wikipedia.org/wiki/안드로이드_10 "wikilink") 10.0) |
+| [삼성 갤럭시 J7 (2017)](../Page/삼성_갤럭시_J7_\(2017\).md "wikilink")        | One UI 1.1 ([안드로이드 파이](../Page/안드로이드_파이.md "wikilink") 9.0)                     |
+| [삼성 갤럭시 J5 (2017)](../Page/삼성_갤럭시_J5_\(2017\).md "wikilink")        | One UI 1.1 ([안드로이드 파이](../Page/안드로이드_파이.md "wikilink") 9.0)                     |
+| [삼성 갤럭시 A40](https://ko.wikipedia.org/wiki/삼성_갤럭시_A40 "wikilink")   | One UI 2.0 ([안드로이드 10](https://ko.wikipedia.org/wiki/안드로이드_10 "wikilink") 10.0) |
+| [삼성 갤럭시 A30](https://ko.wikipedia.org/wiki/삼성_갤럭시_A30 "wikilink")   | One UI 2.0 ([안드로이드 10](https://ko.wikipedia.org/wiki/안드로이드_10 "wikilink") 10.0) |
+| [삼성 갤럭시 A50](https://ko.wikipedia.org/wiki/삼성_갤럭시_A50 "wikilink")   | One UI 2.0 ([안드로이드 10](https://ko.wikipedia.org/wiki/안드로이드_10 "wikilink") 10.0) |
 
 ## 기능
 

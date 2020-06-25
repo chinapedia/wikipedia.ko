@@ -325,7 +325,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/닐스_닐센" title="wikilink">닐스 닐센</a></p></td>
+<td><p><a href="../Page/닐스_닐센.md" title="wikilink">닐스 닐센</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -748,7 +748,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/닐스_닐센" title="wikilink">닐스 닐센</a></p></td>
+<td><p><a href="../Page/닐스_닐센.md" title="wikilink">닐스 닐센</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -943,7 +943,7 @@
 카트린 라팔스키 (<a href="../Page/독일_축구_연맹.md" title="wikilink">독일</a>)<br />
 시언 매시 (<a href="../Page/축구협회_(잉글랜드).md" title="wikilink">잉글랜드</a>)<br />
 <strong>대기심:</strong><br />
-<a href="https://ko.wikipedia.org/wiki/카테리나_몬줄" title="wikilink">카테리나 몬줄</a> (<a href="https://ko.wikipedia.org/wiki/우크라이나_축구_연맹" title="wikilink">우크라이나</a>)</p></td>
+<a href="../Page/카테리나_몬줄.md" title="wikilink">카테리나 몬줄</a> (<a href="https://ko.wikipedia.org/wiki/우크라이나_축구_연맹" title="wikilink">우크라이나</a>)</p></td>
 </tr>
 </tbody>
 </table>
@@ -1098,7 +1098,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/닐스_닐센" title="wikilink">닐스 닐센</a></p></td>
+<td><p><a href="../Page/닐스_닐센.md" title="wikilink">닐스 닐센</a></p></td>
 <td></td>
 </tr>
 </tbody>

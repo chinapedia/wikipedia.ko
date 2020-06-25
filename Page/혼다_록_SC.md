@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [혼다 록 SC](https://ko.wikipedia.org/wiki/혼다_록_SC).
 
 
-**혼다 록 SC**(, )는 [미야자키현](../Page/미야자키현.md "wikilink"), [미야자키 시에](https://ko.wikipedia.org/wiki/미야자키_시 "wikilink") 위치한 [일본](../Page/일본.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다. [2018년](../Page/2018년.md "wikilink") 현재 [일본 풋볼 리그에](../Page/일본_풋볼_리그.md "wikilink") 참여하고 있다. 팀의 상징색은 붉은색이다.
+**혼다 록 SC**(, )는 [미야자키현](../Page/미야자키현.md "wikilink"), [미야자키시](../Page/미야자키시.md "wikilink")에 위치한 [일본](../Page/일본.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다. [2018년](../Page/2018년.md "wikilink") 현재 [일본 풋볼 리그에](../Page/일본_풋볼_리그.md "wikilink") 참여하고 있다. 팀의 상징색은 붉은색이다.
 
 ## 역사
 

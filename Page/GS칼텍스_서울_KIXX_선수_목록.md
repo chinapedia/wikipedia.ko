@@ -333,7 +333,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/이나연" title="wikilink">이나연</a></p></td>
+<td><p><a href="../Page/이나연.md" title="wikilink">이나연</a></p></td>
 <td><p>6</p></td>
 <td></td>
 <td><p>세터</p></td>

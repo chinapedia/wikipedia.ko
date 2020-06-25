@@ -63,4 +63,4 @@
 
 ## 각주
 
-[분류:함재기](https://ko.wikipedia.org/wiki/분류:함재기 "wikilink") [분류:쌍발 제트기](https://ko.wikipedia.org/wiki/분류:쌍발_제트기 "wikilink") [분류:그러먼 항공기](https://ko.wikipedia.org/wiki/분류:그러먼_항공기 "wikilink") [분류:노스럽 그러먼 항공기](https://ko.wikipedia.org/wiki/분류:노스럽_그러먼_항공기 "wikilink")
+[분류:함재기](https://ko.wikipedia.org/wiki/분류:함재기 "wikilink") [분류:쌍발 제트기](https://ko.wikipedia.org/wiki/분류:쌍발_제트기 "wikilink") [분류:그러먼 항공기](https://ko.wikipedia.org/wiki/분류:그러먼_항공기 "wikilink") [분류:노스럽 그러먼 항공기](https://ko.wikipedia.org/wiki/분류:노스럽_그러먼_항공기 "wikilink") [분류:중익기](https://ko.wikipedia.org/wiki/분류:중익기 "wikilink")

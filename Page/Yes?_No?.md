@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Yes\? No\?](https://ko.wikipedia.org/wiki/Yes\?_No\?).
 
 
-《**Yes? No?**》(예스? 노?)는 [대한민국](../Page/대한민국.md "wikilink")의 [가수](https://ko.wikipedia.org/wiki/가수 "wikilink")이자 걸 그룹 [미스에이](https://ko.wikipedia.org/wiki/미스에이 "wikilink")의 멤버인 [수지의](../Page/수지_\(대한민국의_가수\).md "wikilink") 솔로 데뷔 앨범이자 첫 번째 미니 앨범이다. 타이틀곡은 〈**Yes No Maybe**〉이며 2017년 1월 24일에 발매되었다. 앨범 발매 일주일 전인 2017년 1월 17일, 수록곡 "행복한 척"이 선공개되었다.
+《**Yes? No?**》(예스? 노?)는 [대한민국](../Page/대한민국.md "wikilink")의 [가수](https://ko.wikipedia.org/wiki/가수 "wikilink")이자 걸 그룹 [미스에이](https://ko.wikipedia.org/wiki/미스에이 "wikilink")의 멤버인 [수지의](../Page/수지_\(1994년\).md "wikilink") 솔로 데뷔 앨범이자 첫 번째 미니 앨범이다. 타이틀곡은 〈**Yes No Maybe**〉이며 2017년 1월 24일에 발매되었다. 앨범 발매 일주일 전인 2017년 1월 17일, 수록곡 "행복한 척"이 선공개되었다.
 
 ## 뮤직비디오
 

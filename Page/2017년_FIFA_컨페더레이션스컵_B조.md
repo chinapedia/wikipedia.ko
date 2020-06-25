@@ -238,7 +238,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/후안_안토니오_피시" title="wikilink">후안 안토니오 피시</a></p></td>
+<td><p><a href="../Page/후안_안토니오_피시.md" title="wikilink">후안 안토니오 피시</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -760,7 +760,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/후안_안토니오_피시" title="wikilink">후안 안토니오 피시</a></p></td>
+<td><p><a href="../Page/후안_안토니오_피시.md" title="wikilink">후안 안토니오 피시</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -1051,7 +1051,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/후안_안토니오_피시" title="wikilink">후안 안토니오 피시</a></p></td>
+<td><p><a href="../Page/후안_안토니오_피시.md" title="wikilink">후안 안토니오 피시</a></p></td>
 <td></td>
 </tr>
 </tbody>

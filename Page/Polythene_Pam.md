@@ -5,7 +5,7 @@
 
 ## 배경 및 구성
 
-이 곡은 원래 《[The Beatles](../Page/The_Beatles_\(음반\).md "wikilink")》세션 중에 도입되었는데, 에스더 세션의 데모는 《[Anthology 3](https://ko.wikipedia.org/wiki/Anthology_3 "wikilink")》에서 볼 수 있다. 레논은 《[비틀즈 앤솔로지](../Page/비틀즈_앤솔로지.md "wikilink")》에서 〈[Mean Mr. Mustard](https://ko.wikipedia.org/wiki/Mean_Mr._Mustard "wikilink")〉와 함께 이 노래를 "인도에서 쓴 쓰레기"라고 묘사했다.
+이 곡은 원래 《[The Beatles](../Page/The_Beatles_\(음반\).md "wikilink")》세션 중에 도입되었는데, 에스더 세션의 데모는 《[Anthology 3](../Page/Anthology_3.md "wikilink")》에서 볼 수 있다. 레논은 《[비틀즈 앤솔로지](../Page/비틀즈_앤솔로지.md "wikilink")》에서 〈[Mean Mr. Mustard](https://ko.wikipedia.org/wiki/Mean_Mr._Mustard "wikilink")〉와 함께 이 노래를 "인도에서 쓴 쓰레기"라고 묘사했다.
 
 1980년에 존 레논은 〈Polythene Pam〉에 대해 말했다. "저였습니다. 저지에서 한 여성과 함께 한 작은 사건을 기억하고 있었고, 영국의 [앨런 긴즈버그의](https://ko.wikipedia.org/wiki/앨런_긴즈버그 "wikilink") 대답이었던 한 남자가 있었습니다. 우리가 여행 중에 그를 만났고, 그는 나를 그의 아파트로 데려갔고, 나는 여자가 있었고 그는 내가 만나길 원하는 여자가 있었습니다. 폴리텐 옷을 입었다고 했어요. 그녀는 잭 부츠와 킬로미터를 착용하지 않았어요. 그냥 좀 정교했어요. 폴리텐 가방 안에 있는 왜곡된 섹스 뭔가 쓸만한 걸 찾고 있어요."\[1\] 그 노래는 매우 강한 리버풀 사람들의 "[스카우스](https://ko.wikipedia.org/wiki/스카우스 "wikilink")" 억양으로 노래된다.\[2\] 그는 또한 이 노래의 영감을 "재킷부츠와 킬트 차림의 신화적인 리버풀 스크러버"라고 표현했다.\[3\]
 

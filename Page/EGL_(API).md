@@ -3,7 +3,7 @@
 
 **EGL**은 ([OpenGL](../Page/OpenGL.md "wikilink"), [OpenGL ES](../Page/OpenGL_ES.md "wikilink") 또는 [OpenVG](https://ko.wikipedia.org/wiki/OpenVG "wikilink")와 같은) [크로노스](../Page/크로노스_그룹.md "wikilink") [렌더링 API와](https://ko.wikipedia.org/wiki/렌더링_API "wikilink") 기본 네이티브 플랫폼 [윈도우 시스템](https://ko.wikipedia.org/wiki/윈도우_시스템 "wikilink") 간의 [인터페이스이다](../Page/인터페이스_\(컴퓨팅\).md "wikilink"). EGL은 그래픽 [컨텍스트 관리](https://ko.wikipedia.org/wiki/컨텍스트_관리 "wikilink"), [서피스](https://ko.wikipedia.org/wiki/서피스 "wikilink")/[버퍼](https://ko.wikipedia.org/wiki/Data_buffer "wikilink") 바인딩, [렌더링](../Page/렌더링.md "wikilink") 동기화를 처리하고 "다른 크로노스 API를 사용하여 고성능, 가속화된, 혼합모드 [2D](https://ko.wikipedia.org/wiki/2차원_컴퓨터_그래픽스 "wikilink") 및 [3D](../Page/3차원_컴퓨터_그래픽스.md "wikilink") 렌더링"을 가능하게 한다.\[1\] EGL [비영리](../Page/비영리_단체.md "wikilink") 기술 컨소시엄 [크로노스 그룹에](../Page/크로노스_그룹.md "wikilink") 의해 관리되고 있다.
 
-약어 *EGL*은 *Khronos Native Platform Graphics Interface*에 언급되어 EGL 버전 1.2부터 시작된 [initialism](https://ko.wikipedia.org/wiki/initialism "wikilink")이다.\[2\] 버전 1.2이전에는 EGL 스펙의 이름이 *OpenGL ES Native Platform Graphics Interface*였다.\[3\] [X.Org](https://ko.wikipedia.org/wiki/X.Org_재단 "wikilink") 개발 문서 용어집에서는 EGL을 "Embedded-System Graphics Library"로 정의한다.\[4\]
+약어 *EGL*은 *Khronos Native Platform Graphics Interface*에 언급되어 EGL 버전 1.2부터 시작된 [initialism](https://ko.wikipedia.org/wiki/initialism "wikilink")이다.\[2\] 버전 1.2이전에는 EGL 스펙의 이름이 *OpenGL ES Native Platform Graphics Interface*였다.\[3\] [X.Org](../Page/X.Org_재단.md "wikilink") 개발 문서 용어집에서는 EGL을 "Embedded-System Graphics Library"로 정의한다.\[4\]
 
 ## 채택
 

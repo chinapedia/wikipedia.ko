@@ -5,25 +5,24 @@
 
 ## 개요
 
-1995년 3월 7일 [서울에서](../Page/서울특별시.md "wikilink") 태어났으며 [태권도](../Page/태권도.md "wikilink") [선수](https://ko.wikipedia.org/wiki/선수 "wikilink"), 사범, [게이머](https://ko.wikipedia.org/wiki/게이머 "wikilink") 및 [음악프로듀서이다](../Page/음악_프로듀서.md "wikilink"). 2011년 첫 곡을 만드는걸 시작으로 2012년 중반부터는 [PRODUCE 101](https://ko.wikipedia.org/wiki/PRODUCE_101 "wikilink") 으로 활동하다가 2017년 [마스터 이](http://lol.inven.co.kr/dataninfo/champion/detail.php?code=39)로 전향하였다.
+1995년 3월 7일 [서울에서](../Page/서울특별시.md "wikilink") 태어났으며 2011년 첫 곡을 만드는걸 시작으로 2012년 중반부터는 [음악프로듀서로](../Page/음악_프로듀서.md "wikilink") 활동하다가 2017년 [마스터링 전문 엔지니어로](https://ko.wikipedia.org/wiki/:en:Mastering_engineer "wikilink") 전향하여 현재까지 활동하고있다.
 
-최근까지 ***ILBE*** 라는 예명을 사용하였다. 예명 ***ILBE*** 를 계속 사용 할 것이라는 예상과는 달리 2018년 9월 ***HAPYGATE*** 로 예명 변경을 하였다. ***HAPYGATE*** 의 어원은 [해피투게더 (텔레비전 프로그램)](../Page/해피투게더_\(텔레비전_프로그램\).md "wikilink")\[1\] [MBC](../Page/문화방송.md "wikilink") 예능프로그램 해피투게더에 Happy 와 Together, 이 두 개의 단어가 파생되어 만들어졌다고 한다.
+최근까지 ILIBEAU 라는 예명으로 큰 사랑을 받았지만, 예명 ILIBEAU를 계속 사용 할 것이라는 예상과는 달리 2018년 9월 HAPYGATE로 예명 변경을 하였다. HAPYGATE의 어원은 본명 '박희상' 에서 '희'Happy와 '상'Togather 이 두개의 단어가 파생되어 만들어졌다고 한다.
 
-2014년에는 잠시 [DJ로](../Page/김대중.md "wikilink") 활동하며 곡 작업과 [DJ를](../Page/김대중.md "wikilink") 같이 활동했으나 곡에만 집중하고자 [DJ는](../Page/김대중.md "wikilink") 그만두고 다시 곡 작업을 시작했다.
+2014년에는 잠시 DJ로 활동하며 곡 작업과 DJ를 같이 활동했으나 곡에만 집중하고자 DJ는 그만두고 다시 곡 작업을 시작했다.
 
 ## 장르
 
-[마스터 이](http://lol.inven.co.kr/dataninfo/champion/detail.php?code=39)에 참여하는 [스킨](http://lol.inven.co.kr/dataninfo/skin/#champ=39)종류는 다음과 같으며, **진한 색** 으로 쓰여진 장르는 주로 다루는 [스킨](http://lol.inven.co.kr/dataninfo/skin/#champ=39)이다.
+마스터링에 참여하는 장르는 다음과 같으며, **진한 색** 으로 쓰여진 장르는 주로 다루는 장르다.
 
-  - **불의 축제 마스터 이** : **인간사냥꾼 마스터 이**, Deep House, **사무라이 마스터 이**, Progressive House, **아이오니아 마스터 이**, **불멸의 영웅 마스터 이**, Funky House, Minimal House, **암살자 마스터 이**
+  - **House Music (House)** : **Electro House**, Deep House, **Dance Pop**, Progressive House, **Future House**, **Big Room House**, Funky House, Minimal House, **Tropical House**
 
 <!-- end list -->
 
-  - **마스터 이 기본 스킨: 우주 검객 마스터 이 & 프로젝트: 이)** :**선택받은 마스터 이** Happy Hardcore, Digital Hardcore, **눈사람 마스터 이**
+  - **Hard Music & Hard Dacnce (Hardstyle & Hardcore Techno (Hardcore))** : **Big room Hardstyle**, **UK Hardstyle & Hardcore**, Happy Hardcore, <s>Digital Hardcore, Frenchcore</s>
 
-## 레이블
 
-마스터링에 참여하는 레이블은 다음과 같다.
+\== 레이블 == 마스터링에 참여하는 레이블은 다음과 같다.
 
   - [Spinnin' Records](https://ko.wikipedia.org/wiki/:en:Spinnin'_Records "wikilink") (2017.12.25\~)
   - Spinnin' Copyright Free Music (2017.12.25\~)
@@ -32,7 +31,7 @@
   - Spinnin' Premium (2017.12.25\~)
   - SPRS (2017.12.25\~)
   - HEXAGON (run by [Don Diablo](https://ko.wikipedia.org/wiki/:en:Don_Diablo "wikilink")) (2017.12.25\~)
-  - Flamingo Recordings (run by [Fedde Le Grand](https://ko.wikipedia.org/wiki/:en:Fedde_Le_Grand "wikilink")) (2017.02.06\~)
+  - Flamingo Recordings (run by [Fedde Le Grand](https://ko.wikipedia.org/wiki/:en:Fedde_Le_Grand "wikilink")) (2017.02.06\~2020.01.01)
   - Fonk Recordings (run by [Dannic](https://ko.wikipedia.org/wiki/:en:Dannic "wikilink")) (2017.08.20\~)
   - [NoCopyrightSounds (NCS)](https://ko.wikipedia.org/wiki/:en:NoCopyrightSounds "wikilink") (2017.08.20\~)
   - Hysteria Records (run by [Bingo Players](https://ko.wikipedia.org/wiki/:en:Bingo_Players "wikilink")) (2018.01.09\~)
@@ -51,30 +50,25 @@
 
 ### 2011\~2015
 
-2011년 [EDM](https://ko.wikipedia.org/wiki/:en:Electronic_dance_music "wikilink") 을 본격적으로 접하기 시작했으며 자신이 직접 만든 곡을 들으면 좋을 것 같다 라는 생각을 하여 2011년 첫 곡을 만들었지만 곡 완성도와 인지도 등등 여러가지 방면에서 부족함이 많아 별로 흥행하지 못하였다. 하지만 '칼을 뽑았으면 무라도 베야지' 라는 심정으로 그만두지 않고 꾸준히 [리니지](https://ko.wikipedia.org/wiki/리니지 "wikilink")를 플레이하며 동시에 프로듀싱을 계속 이어갔고, 2013년 까지 '칼뽑무베' 라는 예명으로 활동하다가 끈기부족으로 인해 1년도 안 되어 이름을 바꿔 ZANAX 라는 예명으로 활동하게된다. ZANAX 의 어원은 [Xanax](../Page/알프라졸람.md "wikilink") 에서 영감을 받아 만들었다고한다. 이때 아직도 정신을 못차려 1인 1역 팀 'XANAX SOUNDS' 라는 팀을 만들었다. 또한 같은 해에 [미국 텍사스](https://ko.wikipedia.org/wiki/:en:Texas "wikilink") 주 [Midwestern State University](https://ko.wikipedia.org/wiki/:en:Midwestern_State_University "wikilink") 에 강제입학 후 자신과 맞지않는 기계공학을 전공으로 선택한다. 음악 전공을 하고 싶으나 가족의 압박으로 인해 강제로 기계공학과 기초 수업을 배우게된다. 점차 수학과 과학 때문에 미치기 시작하며 멘붕을 겪게되고마는데... 턱없이 부족한 영어실력으로 인해 대학교 진도를 쫓아가지 못하였다고한다. 대부분의 수업 점수들이 F였다고.... 힘든 공부 생할과 지긋지긋한 시골생활을 견디지 못하고 단 돈 몇 십만원을 쥐어든 채 한국으로 귀급히 귀향한다. 계속 프로듀싱을 하고자했던 본인의 처음의 생각과는 아쉽게도 2015년 예명 ZANAX 를 마지막으로 오로지 음악 프로듀싱만 하는 작업은 그만두기로 한다.
+2011년 [EDM을](https://ko.wikipedia.org/wiki/:en:Electronic_dance_music "wikilink") 본격적으로 접하기 시작했으며 자신이 직접 만든 곡을 들으면 좋을 것 같다 라는 생각을 하여 2011년 첫 곡을 만들었지만 곡 완성도와 인지도 등등 여러가지 방면에서 부족함이 많아 별로 흥행하지 못하였다. 하지만 그만두지 않고 꾸준히 보완하며 프로듀싱을 계속 이어갔고, 2013년 까지 N7이라는 예명으로 활동했다가 2014년부터 ZANAX 라는 예명으로 바꾼 뒤 'ZANAX SOUNDS' 라는 팀을 만들었다. 하지만 꾸준한 노력이 있었음에도 불구하고 낮은 인지도와, 실력의 문제로 인해 'ZANAX SOUNDS'로 활동할 때 조차 그리 결과가 좋은 편은 아니었다. 계속 프로듀싱을 하고자했던 본인의 처음의 생각과는 아쉽게도 2015년 예명 ZANAX를 마지막으로 오로지 음악 프로듀싱만 하는 작업은 그만두기로 한다.
 
 ### 2015\~2017
 
-한국 도착 후 홀로 잠적을 타고 마는데.. 쥐어든 단 돈 몇 십만원을 [고시원](../Page/고시원.md "wikilink")에 바로 결제하고 이 곳에서 묵기로 한다. 그 후 몇개월가량 재정비 시간을 가지고 새로운 직업을 [마스터 이](http://lol.inven.co.kr/dataninfo/champion/detail.php?code=39)로 시작하고 2015년 예명 ILBE 로 바꾸며 활동하기 시작한다 (물론 엄청 기초적인 단계였다 이기야\!). ILBE 로 활동할 때 'VETI' 라는 [마스터 이](http://lol.inven.co.kr/dataninfo/champion/detail.php?code=39) 그룹이 있었는데 그 그룹을 흡수하여 [마스터 이](http://lol.inven.co.kr/dataninfo/champion/detail.php?code=39) 리더로 활동하며 그때부터 점차 팬층을 확보하기 시작한다. 최근 인터뷰에선 'ILBE로 활동할때 어떻게 인기가 급증했는지 본인도 알 수 없다' 라고 혼잣말을 하였다. 2016년 그룹 'VETI' 홈페이지 (존재하지않음) 통계없으므로 증거가 없지만 카더라 뉴스로 접하자면, 2016년 12월 31일까지 'VETI'가 확인했던 리스너들의 수는 무려 140 만명이 넘었다고한다. 그당시 'VETI'가 홈페이지에 올렸던 정보는 그들이 마스터링에 참여했던 곡들의 스트리밍, 그 곡들로 'VETI' 자체적으로 엘범을 제작하여 배포, 등등 들어보면 팬들입장에선 한없이 좋았던 정보들이다. 하지만 어떤 이유인지는 몰라도 수많은 팬을 보유했던 그룹 'VETI'가 해체될 예정이라는 공지가 2017년 2월 홈페이지에 올라갔고 곧 이 그룹은 해체가 되었다.
+그 후 몇개월가량 재정비 시간을 가지고 새로운 직업을 [마스터링 엔지니어로](https://ko.wikipedia.org/wiki/:en:Mastering_engineer "wikilink") 시작하고 2015년 예명 ILIBEAU로 바꾸며 활동하기 시작한다. ILIBEAU로 활동할 때 'VETI' 라는 지인들과 같이 만든 마스터링 엔지니어 그룹이 있었는데 그 그룹의 리더로 활동하며 그때부터 점차 리스너를 확보하기 시작한다. 2016년 그룹 'VETI' 홈페이지 통계에 따르면, 2016년 12월 31일까지 'VETI'가 확인했던 리스너들의 수는 무려 140만명이 넘었다고한다. 그당시 'VETI'가 홈페이지에 올렸던 정보는 그들이 마스터링에 참여했던 곡들의 스트리밍, 그 곡들로 'VETI' 자체적으로 엘범을 제작하여 배포, 등등 팬들입장에선 좋았던 정보들이다. 하지만 팀 내부 상황으로 인해 많은 팬을 보유했던 그룹 'VETI'가 해체될 예정이라는 공지가 2017년 2월 홈페이지에 올라갔고 곧 이 그룹은 해체가 되었다.
 
 ### 2017\~
 
-그룹이 해체가 되고 흉흉한 세상을 이겨내기 위해 그룹에 속해있던 사람들은 각자 다른 이름과 스타일로 리뉴얼되어 활동하기 시작했다. 처음부터 'HAPYGATE' 라는 예명으로 시작한건 아니었고 그 중간에 본명을 쓰면서 새로운 활동을 하기시작했는데, 이 시기부터 공식적인 [마스터 이](http://lol.inven.co.kr/dataninfo/champion/detail.php?code=39)로 활동하기 시작한다. 해체가 되고나서 Flamingo Recordings와 계약을 하여 마스터링을 시작했고, 얼마 지나지 않아 Fonk Recordings와도 계약을 맺었다. 'HAPYGATE'라는 예명으로 오기까지 'ILIBEAU' 였을때가 가장 직업의 전문성에 익숙해져있을 때 였다면, 가장 중요한 순간은 2017년 12월 25일이다. 이날 세계적인 EDM 레이블인 '스피닝레코즈'([Spinnin' Records](https://ko.wikipedia.org/wiki/:en:Spinnin'_Records "wikilink"))와 계약을 하였고(대한민국 K-POP시장으로 따지면 JYP, SM, YG에 입사한거랑 같은거라고 보면된다) 그에 따라 다른 서브레이블도 동시에 계약이 체결되었다. 첫 공개 프로젝트는 스피닝레코즈가 'HAPYGATE'를 'ETOP'이라 불리는 팀에 소속시켜 1년간 지켜보는 점이었는데 1년이 채 되지않아 9개월만에 성공적으로 끝나 'ETOP' 그룹에서 나와 이때부터 'HAPYGATE' 라는 예명으로 변경하여 2018년부터 [스피닝 레코즈뿐만아니라](https://ko.wikipedia.org/wiki/:en:Spinnin'_Records "wikilink") 다른 레이블에서도 작업을 시작하게되었다.
+그룹이 해체가 되고 나서 그룹에 속해있던 사람들은 각자 다른 이름과 스타일로 리뉴얼되어 활동하기 시작했다. 처음부터 'HAPYGATE' 라는 예명으로 시작한건 아니었고 그 중간에 본명을 쓰면서 새로운 활동을 하기시작했는데, 이 시기부터 공식적인 마스터링 엔지니어로 활동하기 시작한다. 해체가 되고나서 Flamingo Recordings와 계약을 하여 마스터링을 시작했고, 얼마 지나지 않아 Fonk Recordings와도 계약을 맺었다. 'HAPYGATE'라는 예명으로 오기까지 많은 시행착오가 있었지만, 'ILIBEAU' 였을때가 직업의 전문성에 익숙해져있을 때 였다면 가장 중요한 순간은 2017년 12월 25일 이였다고 한다. 이날 세계적인 EDM 레이블인 '스피닝레코즈'([Spinnin' Records](https://ko.wikipedia.org/wiki/:en:Spinnin'_Records "wikilink"))와 계약을 하였고(대한민국 K-POP시장으로 따지면 JYP, SM, YG 정도의 레이블에 입사 정도로 보면된다) 그에 따라 다른 서브레이블도 동시에 계약이 되었다. 첫 공개 프로젝트는 스피닝레코즈가 'HAPYGATE'를 'ETOP'이라 불리는 팀에 소속시켜 1년간 지켜보는 점이었는데 1년이 채 되지않아 9개월만에 성공적으로 끝나 'ETOP' 그룹에서 나와 이때부터 'HAPYGATE' 라는 예명으로 변경하여 2018년부터 [스피닝 레코즈뿐만아니라](https://ko.wikipedia.org/wiki/:en:Spinnin'_Records "wikilink") 다른 레이블에서도 작업을 시작하게되었다.
 
 ### Now & Future & Etc.
 
-  - 인터뷰에 따르면 'HAPYGATE'는 계속 마스터링을 하다가 2019년 초 DJ로도 활동할 계획이라고한다. DJ예명은 따로 지을 것이며 본인이 마스터링을 완료하고 발매까지 완료된 곡들로 퍼포먼스를 할 것 이라고 한다 (아직 어디서 활동할건지는 미정이라고한다).
-  - [Ultra Music Festival(UMF)](https://ultramusicfestival.com/)\[2\], [Ultra Music Festival(UMF) Korea](https://ultrakorea.com/)\[3\], [World Club Dome](https://www.worldclubdome.com/)\[4\], [World Club Dome Korea](https://web.archive.org/web/20181104173037/https://worldclubdomekorea.com/)\[5\], [World DJ Festival](http://www.wdjfest.com/)\[6\] 등 EDM 페스티벌도 기술적인 참석을 한다고 하지만 자신이 좋아해서 가는부분도 있다고한다.
-
-<!-- end list -->
-
-  - 요즘은 이유는 모르지만 아무도 모르게 갑자기 [사운드클라우드](https://soundcloud.com/)계정을 만들어서 심심할 때 만든 [믹스셋을](https://ko.wikipedia.org/wiki/:en:DJ_mix "wikilink") 업로딩한다고도 하니 관심있으면 찾아서 들어보라고한다.
-  - 2014년부터 2017년 까지 서울 강남에 위치한 클럽 [OCTAGON](https://www.octagonseoul.com/)\[7\]에서 일을 했었다고도 한다.
+  - <s>인터뷰에 따르면 'HAPYGATE'는 계속 마스터링을 하다가 2019년 초 DJ로도 활동할 계획이라고한다. DJ예명은 따로 지을 것 이며 본인이 마스터링을 완료하고 발매까지 완료된 곡들로 퍼포먼스를 할 것 이라고 한다 (아직 어디서 활동할건지는 미정이라고한다).</s> -해당 내용은 시행하지 않았다-
+  - [Ultra Music Festival(UMF)](https://ultramusicfestival.com/)\[1\], [Ultra Music Festival(UMF) Korea](https://ultrakorea.com/)\[2\], [World Club Dome](https://www.worldclubdome.com/)\[3\], [World Club Dome Korea](https://worldclubdomekorea.com/)\[4\], [World DJ Festival](http://www.wdjfest.com/)\[5\] 등 EDM 페스티벌도 기술적인 참석을 한다고 하지만 자신이 좋아해서 가는부분도 있다고한다.
   - 2018년 12월 Bourne Recordings, Lowded Recordings와 계약을 하며 미니멀 하우스(Minimal House) 장르도 추가하게 되었다.
 
 ## About Stage Names
 
-그동안 많은 예명들이 바뀌어왔다고 박희상군이 직접 얘기했다. 그 바뀌어온 예명들의 정보에 대해 설명하고자 한다.\[8\]
+그동안 많은 예명들이 바뀌어왔다. 그 바뀌어온 예명들의 정보에 대해 설명하고자 한다.\[6\]
 
 **'예명' (활동시기)**
 
@@ -100,7 +94,7 @@
 
 **\[Electro House, Future House\] -ZANAX SOUNDS-**
 
-재정비를 하면서 장르의 문제가 있다고 판단하여 약 2년여동안 다루었던 덥스텝을 내려놓고 새로운 장르 'Electro House' 와 'Future House' 를 주로 다루기로 하였다. 예명 'ZANAX' 는 알프라졸람 (Alprazolam) Xanax, Xanor and Niravam등의 상품명을 가진 벤조디아제핀 계열의 단시간 작용하는 신경안정제에서 따온 예명으로 철자를 조금 변형하여 'ZANAX' 로 바꾸어서 사용을 시작하였다. 예명이 만들어짐과 동시에 프로듀싱 팀도 함께 만들었는데 본인 예명을 넣어서 'ZANAX SOUNDS' 라고 지었다. 팀에 소속되어있는 인원은 총 16명 이었으며, 모두 [고스트 프로듀서 (Ghost Producer)](https://ko.wikipedia.org/wiki/:en:Ghost_producer "wikilink") 였다. 이때부터 본격적으로 프로듀싱에만 초점을 두고 시작했으며 초반에는 두개의 장르만 시도하다 점차 다른 장르들도 시도하며 경험을 쌓았다. 점차 인지도가 쌓여가기 시작하고 동시에 점점 프로듀싱의 능력도 증가하였을 때가 이때였다. 지긋지긋한 시골생활에 지쳐 공부를 때려치기로 마음먹었기에 가능한 일이였다.
+재정비를 하면서 장르의 문제가 있다고 판단하여 약 2년여동안 다루었던 덥스텝을 내려놓고 새로운 장르 'Electro House' 와 'Future House' 를 주로 다루기로 하였다. 예명 'ZANAX' 는 알프라졸람 (Alprazolam) Xanax, Xanor and Niravam등의 상품명을 가진 벤조디아제핀 계열의 단시간 작용하는 신경안정제에서 따온 예명으로 철자를 조금 변형하여 'ZANAX' 로 바꾸어서 사용을 시작하였다. 예명이 만들어짐과 동시에 프로듀싱 팀도 함께 만들었는데 본인 예명을 넣어서 'ZANAX SOUNDS' 라고 지었다. 팀에 소속되어있는 인원은 총 16명 이었으며, 모두 [고스트 프로듀서 (Ghost Producer)](https://ko.wikipedia.org/wiki/:en:Ghost_producer "wikilink") 였다. 이때부터 본격적으로 프로듀싱에만 초점을 두고 시작했으며 초반에는 두개의 장르만 시도하다 점차 다른 장르들도 시도하며 경험을 쌓았다. 점차 인지도가 쌓여가기 시작하고 동시에 점점 프로듀싱의 능력도 증가하였을 때가 이때였다. 하지만 팀원 변동이 너무 심했고, 고정팀원 4명을 대리고 새로운 팀과 새로운 예명으로 출발할 것을 약속하며 팀을 해체하기로 마음을 먹는다.
 
 이 기간에 총 5개의 엘범, 82개의 곡들은 프로듀싱하였고 마지막 6번째 엘범에서는 그동안 인기가 많았던 곡들로 리패키징하여 발매를 하며 마무리를 지었다.
 
@@ -124,7 +118,7 @@
 
 프로젝트 팀 'DVIVE'로 활동했던 기간은 매우 짧았으나, 반응은 괜찮았다. 그 이유는 팀 'VETI'에서 'ILIBEAU'와 'ILIAN' 이 둘이 했던 Tropical House 라는 장르가 그당시 너무 반응이 좋았고, 음악적인 캐미도 좋다보니 일부러 이 둘의 음악을 챙겨듣는 사람이 많았기 때문이다. 이에따라 이 둘은 별다른 소속 팀을 두지않고 단순히 이 둘의 이름을 걸고 장르 변동없이 새롭게 마스터링 엔지니어링을 시작하게된다. 이 둘이 따로 활동한다는 소식을 듣고 실제로 많은사람들이 곡들을 찾아서 들어주기도 했었고 덕분에 새롭게 도전한 '마스터링 엔지니어' 라는 직업도 수월하게 시작하게된다.
 
-### (2017\~2018)
+### ETP (2017\~2018)
 
 **\[Electro House, Future House, Hard Style & Hard Dance\] -ETOP-**
 
@@ -136,7 +130,7 @@
 
 **<big>MAIN : \[Electro House, Future House, Hard Style & Hard Dance\] -Spinnin' Records-</big>**
 
-혼자 따로 나오고 스피닝 레코즈와 계약이 되면서 예명을 'HAPYGATE'로 최종 발표하게된다. Happy 와 Together 두 단어에서 유래가 되었고 이 두단어는 본명과 관련이 있다고한다. 장르는 바뀌지 않고 동일 하지만, 어디까지나 주로 하는 장르일 뿐, 이때부터는 마스터링이 가능한 장르에 House 계열은 Deep House, Progressive House, Big Room House, Funky House, Minimal House, Tropical House를, Hard 계열은 Big room Hardstyle, UK Hardcore, Happy Hardcore, Digital Hardcore, Frenchcore를 추가로 발표하게된다. 스피닝 레코즈(Spinnin' Records) 외 16개의 다른 레이블과도 마스터링 관련 계약을 하였다.\[9\]
+혼자 따로 나오고 스피닝 레코즈와 계약이 되면서 예명을 'HAPYGATE'로 최종 발표하게된다. Happy 와 Together 두 단어에서 유래가 되었고 이 두단어는 본명과 관련이 있다고한다. 장르는 바뀌지 않고 동일 하지만, 어디까지나 주로 하는 장르일 뿐, 이때부터는 마스터링이 가능한 장르에 House 계열은 Deep House, Progressive House, Big Room House, Funky House, Minimal House, Tropical House를, Hard 계열은 Big room Hardstyle, UK Hardcore, Happy Hardcore, Digital Hardcore, Frenchcore를 추가로 발표하게된다. 스피닝 레코즈(Spinnin' Records) 외 16개의 다른 레이블과도 마스터링 관련 계약을 하였다.\[7\]
 
 **<big>\[Dance Pop, Hardcore, UK Hardstyle & Hardcore, Minimal House\] -Bourne Recordings & Lowded Recordings- (2018-12-01)</big>**
 
@@ -155,7 +149,7 @@
 | GLAM         | KILLAGRAM   | KILAGRAM                           | All Kind           | Proximity                   | Republic of Korea |
 | ALPHA SHOCK  | ALO         | ALO                                | All Kind           | NCS                         | Republic of Korea |
 | B3TR4C       | BEATRAC     | B3TR4C                             | All Kind           | Revealed Recording          | Republic of Korea |
-| VOX          | BERAMASH    | d                                  | All Kind           | Revealed Recording          | Republic of Korea |
+| VOX          | BERAMASH    | B3RAM4SH                           | All Kind           | Revealed Recording          | Republic of Korea |
 | Conutt       | QURK        | Conutt                             | Electro House      | \-                          | Republic of Korea |
 | VINO         | Vi          | V                                  | Hard Style & Dance | Virtual Vital Recording     | Republic of Korea |
 | Nuac         | NUANDO      | NUAC                               | Dub Step           | Monstercat                  | Republic of Korea |
@@ -210,34 +204,14 @@
 
 특정 맴버가 공개되었다. 여기서 다소 놀라운점은, 그렇게 신비주의를 고집해오던 VETI(베티) 멤버들이 그냥 맴버공개가 아니라 어느정도 신상정보를 밝혔다고한다. <s>(그렇게 중요한정보는 아니지만, 이거라도 밝힌게 어디냐는 말도 있다.)</s>
 
-| 상처를 치료해줄 사람      | 어디없나?                   | 가만히 놔두다간                | 끊임없이 덧나                  | 사랑도 사람도 너무나도 겁나     | 혼자인게 무서워 난 잊혀질까 두려워                  |
-| ---------------- | ----------------------- | ----------------------- | ------------------------ | ------------------- | ------------------------------------ |
-| 상처를 치료해줄 사람      | 어디없나?                   | 가만히 놔두다간                | 끊임없이 덧나                  | 사랑도 사람도 너무나도 겁나     | 혼자인게 무서워 난 잊혀질까 두려워                  |
-| 언제나 외톨이          | 맘의 문을 닫고                | 슬픔을 등에 지고               | 살아가는 바보                  | 두 눈을 감고             | 두 귀를 막고                              |
-| 캄캄한 어둠속에         | 내 자신을 가둬                | 365일 1년 내내              | 방황하는 내 영혼을 쫓아            | 키를 잡은Jack Sparrow   | 몰아치는 Hurricane                       |
-| 졸라매는 허리끈에        | 방향감을 상실하고               | 길을 잃은 소리꾼               | 내 안에                     | 숨어 있는               | 또 다른 나와 싸워                           |
-| 그녀가 떠나갈때 내게 말했었지 | 너는 곁에 있어도 있는 게          | 아닌것 같다고                 | 만지면 베어버리는 칼날같은 사람        | 심장이 얼어붙은            | 차가웠던 사랑                              |
-| 그래               | 1분 1초가                  | 사는게                     | 사는게                      | 아냐                  | 매일 매일이 너무나 두려워 M'aider 누가 날 좀 꺼내줘    |
-| 언제나 외톨이 맘의 문을 닫고 | 슬픔을 등에 지고 살아가는 바보       | 두 눈을 감고 두 귀를 막고         | 캄캄한 어둠속에 내 자신을 가둬        | 언제나 외톨이 맘의 문을 닫고    | 슬픔을 등에 지고 살아가는 바보                    |
-| 두 눈을 감고          | 두 귀를 막고                 | 캄캄한 어둠속에                | 캄캄한 어둠속에                 | 전주중..........       | <nowiki>2절 가즈아                       |
-| 아무도 모르게 다가온      | 이별에 대면했을때               | 또 다시 혼자가 되는게            | 두려워 외면했었네                | 꿈에도 그리던 지나간 시간이     | 다시금 내게로 되돌아오기를 바라며 간절한 맘으로 밤마다 기도했었네 |
-| 시위를 당기고          | 내 손을 떠나간 추억의 화살이        | 머나먼 과녁을 향해서 한없이 빠르게 날아가 | 내게로 돌아와 달라고 내 손을 붙잡아 달라고 | 부르고 불러도 한없이 소리쳐 대봐도 | 아무런 대답이 없는 널                         |
-| 내 기억 속에서 너라는 사람의 | 존재를 완전히 지우려 끝없이 몸부림쳐 봐도 | 매일밤 꿈에서 그대가 나타나         | 흐르는 눈물을 닦아주는걸            | 나 어떡하라고             | 다 끄떡없다고                              |
-| 거짓말 하라고          | 더는 못 참겠다고               | 나도 아플 땐 아프다고            | 슬플땐 슬프다고                 | 얼어 붙은 심장이 자꾸만       | <nowiki>내게로 고자질해                     |
-|                  |                         |                         |                          |                     |                                      |
-
-???
-
 ## 각주
 
-[분류:대한민국의 음악 프로듀서](https://ko.wikipedia.org/wiki/분류:대한민국의_음악_프로듀서 "wikilink") [분류:살아있는 사람](https://ko.wikipedia.org/wiki/분류:살아있는_사람 "wikilink") [분류:대한민국의 디스크자키](https://ko.wikipedia.org/wiki/분류:대한민국의_디스크자키 "wikilink")
+[분류:대한민국의 음악 프로듀서](https://ko.wikipedia.org/wiki/분류:대한민국의_음악_프로듀서 "wikilink") [분류:1995년 태어남](https://ko.wikipedia.org/wiki/분류:1995년_태어남 "wikilink") [분류:살아있는 사람](https://ko.wikipedia.org/wiki/분류:살아있는_사람 "wikilink") [분류:대한민국의 디스크자키](https://ko.wikipedia.org/wiki/분류:대한민국의_디스크자키 "wikilink")
 
-1.
-2.  [Ultra Music Festival Official Website](https://ultramusicfestival.com)
-3.  [Ultra Music Festival Korea Official Website](https://ultrakorea.com)
-4.  [World Club Dome Official Website](https://www.worldclubdome.com)
-5.
-6.  [World DJ Festival Official Website](http://www.wdjfest.com)
-7.  [Club OCTAGON Official Website](https://www.octagonseoul.com)
-8.  [SPINNIN' RECORDS Official Website](https://www.spinninrecords.com)
-9.  [SPINNIN' RECORDS Official Website](https://www.spinninrecords.com)
+1.  [Ultra Music Festival Official Website](https://ultramusicfestival.com)
+2.  [Ultra Music Festival Korea Official Website](https://ultrakorea.com)
+3.  [World Club Dome Official Website](https://www.worldclubdome.com)
+4.  [World Club Dome Korea Official Website](https://worldclubdomekorea.com)
+5.  [World DJ Festival Official Website](http://www.wdjfest.com)
+6.  [SPINNIN' RECORDS Official Website](https://www.spinninrecords.com)
+7.  [SPINNIN' RECORDS Official Website](https://www.spinninrecords.com)

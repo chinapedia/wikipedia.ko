@@ -20,7 +20,7 @@
 <th><p><a href="https://ko.wikipedia.org/wiki/1988년_AFC_아시안컵" title="wikilink">1988</a></p></th>
 <th><p><a href="https://ko.wikipedia.org/wiki/1992년_AFC_아시안컵" title="wikilink">1992</a></p></th>
 <th><p><a href="https://ko.wikipedia.org/wiki/1996년_AFC_아시안컵" title="wikilink">1996</a></p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/2000년_AFC_아시안컵" title="wikilink">2000</a></p></th>
+<th><p><a href="../Page/2000년_AFC_아시안컵.md" title="wikilink">2000</a></p></th>
 <th><p><a href="https://ko.wikipedia.org/wiki/2004년_AFC_아시안컵" title="wikilink">2004</a></p></th>
 <th><p><a href="https://ko.wikipedia.org/wiki/2007년_AFC_아시안컵" title="wikilink">2007</a></p></th>
 <th><p><a href="https://ko.wikipedia.org/wiki/2011년_AFC_아시안컵" title="wikilink">2011</a></p></th>

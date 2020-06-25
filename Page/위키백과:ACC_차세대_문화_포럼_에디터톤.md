@@ -93,7 +93,7 @@
   - [근대성](https://ko.wikipedia.org/wiki/근대성 "wikilink") ([:en:Modernity](https://ko.wikipedia.org/wiki/:en:Modernity "wikilink")) <small>보충 필요</small>
       - [동아시아 근대성 담론에 대한 문제의식](https://ko.wikipedia.org/wiki/동아시아_근대성_담론에_대한_문제의식 "wikilink")
       - [문학에서의 근대](https://ko.wikipedia.org/wiki/문학에서의_근대 "wikilink")
-      - 미술에서의 근대 [근대 미술](https://ko.wikipedia.org/wiki/근대_미술 "wikilink")
+      - 미술에서의 근대 [근대 미술](../Page/근대_미술.md "wikilink")
           - [한국 근대 미술](../Page/한국_근대_미술.md "wikilink")
   - [국경](../Page/국경.md "wikilink") ([:en:Border](https://ko.wikipedia.org/wiki/:en:Border "wikilink")) <small>보충 필요</small>
   - [제국주의](../Page/제국주의.md "wikilink") ([:en:Imperialism](https://ko.wikipedia.org/wiki/:en:Imperialism "wikilink"))

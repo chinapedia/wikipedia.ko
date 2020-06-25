@@ -38,7 +38,7 @@
 
   - [코미디 버라이어티 웃는 day 공식 홈페이지](http://www.imbc.com/broad/tv/ent/smile_day/index.html)
 
-[분류:문화방송의 예능 프로그램](https://ko.wikipedia.org/wiki/분류:문화방송의_예능_프로그램 "wikilink") [분류:대한민국의 코미디 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:대한민국의_코미디_텔레비전_프로그램 "wikilink") [분류:대한민국의 텔레비전 버라이어티 쇼](https://ko.wikipedia.org/wiki/분류:대한민국의_텔레비전_버라이어티_쇼 "wikilink")
+[분류:문화방송의 예능 프로그램](https://ko.wikipedia.org/wiki/분류:문화방송의_예능_프로그램 "wikilink") [분류:대한민국의 코미디 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:대한민국의_코미디_텔레비전_프로그램 "wikilink") [분류:대한민국의 텔레비전 버라이어티 쇼](https://ko.wikipedia.org/wiki/분류:대한민국의_텔레비전_버라이어티_쇼 "wikilink") [분류:2005년에 시작한 대한민국 TV 프로그램](https://ko.wikipedia.org/wiki/분류:2005년에_시작한_대한민국_TV_프로그램 "wikilink") [분류:2006년에 종료한 대한민국 TV 프로그램](https://ko.wikipedia.org/wiki/분류:2006년에_종료한_대한민국_TV_프로그램 "wikilink")
 
 1.
 2.

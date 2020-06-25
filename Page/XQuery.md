@@ -7,7 +7,7 @@
 
 **XQuery 3.0**은 2014년 4월 8일 [W3C 권고안이](../Page/W3C.md "wikilink") 되었다.\[2\]
 
-**XQuery 3.1**은 2017년 3월 21일 [W3C 궈고안이](../Page/W3C.md "wikilink") 되었다.\[3\]
+**XQuery 3.1**은 2017년 3월 21일 [W3C 권고안이](../Page/W3C.md "wikilink") 되었다.\[3\]
 
 ## 예시
 
@@ -43,7 +43,7 @@
   - [XQuery](http://www.cafeconleche.org/slides/xmlsig/xquery/index.html) (presentation - as HTML slides)
   - [List of open-source XQuery implementations](http://www.martinbroadhurst.com/open-source-xquery-implementations.html)
 
-[분류:4GL](https://ko.wikipedia.org/wiki/분류:4GL "wikilink") [분류:함수형 프로그래밍 언어](https://ko.wikipedia.org/wiki/분류:함수형_프로그래밍_언어 "wikilink") [분류:질의어](https://ko.wikipedia.org/wiki/분류:질의어 "wikilink") [분류:W3C 표준](https://ko.wikipedia.org/wiki/분류:W3C_표준 "wikilink")
+[분류:4세대 프로그래밍 언어](https://ko.wikipedia.org/wiki/분류:4세대_프로그래밍_언어 "wikilink") [분류:함수형 프로그래밍 언어](https://ko.wikipedia.org/wiki/분류:함수형_프로그래밍_언어 "wikilink") [분류:질의어](https://ko.wikipedia.org/wiki/분류:질의어 "wikilink") [분류:W3C 표준](https://ko.wikipedia.org/wiki/분류:W3C_표준 "wikilink")
 
 1.
 2.

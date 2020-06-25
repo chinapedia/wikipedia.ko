@@ -7,7 +7,7 @@
 
 ## 출시
 
-1986년 공개된 사후 수집품인 《[Menlove Ave.](https://ko.wikipedia.org/wiki/Menlove_Ave. "wikilink")》에는 〈Steel and Glass〉의 대안으로 포함되었다. Take 8은 1998년 [박스 세트인](https://ko.wikipedia.org/wiki/박스_세트 "wikilink") 《[John Lennon Anthology](https://ko.wikipedia.org/wiki/John_Lennon_Anthology "wikilink")》에서 개봉되었다. Take 9는 《[Walls and Bridges](https://ko.wikipedia.org/wiki/Walls_and_Bridges "wikilink")》에 사용된 마스터였다.\[6\]
+1986년 공개된 사후 수집품인 《[Menlove Ave.](https://ko.wikipedia.org/wiki/Menlove_Ave. "wikilink")》에는 〈Steel and Glass〉의 대안으로 포함되었다. Take 8은 1998년 [박스 세트인](https://ko.wikipedia.org/wiki/박스_세트 "wikilink") 《[John Lennon Anthology](../Page/John_Lennon_Anthology.md "wikilink")》에서 개봉되었다. Take 9는 《[Walls and Bridges](https://ko.wikipedia.org/wiki/Walls_and_Bridges "wikilink")》에 사용된 마스터였다.\[6\]
 
 ## 각주
 

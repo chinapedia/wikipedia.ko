@@ -1181,7 +1181,7 @@
 <strong>비디오 판독심:</strong><br />
 <a href="https://ko.wikipedia.org/wiki/티아구_마르팅스" title="wikilink">티아구 마르팅스</a> (<a href="https://ko.wikipedia.org/wiki/포르투갈_축구_연맹" title="wikilink">포르투갈</a>)<br />
 <strong>보조 비디오 판독심:</strong><br />
-<a href="https://ko.wikipedia.org/wiki/압둘라흐만_알자심" title="wikilink">압둘라흐만 알자심</a> (<a href="https://ko.wikipedia.org/wiki/카타르_축구_협회" title="wikilink">카타르</a>)<br />
+<a href="../Page/압둘라흐만_알자심.md" title="wikilink">압둘라흐만 알자심</a> (<a href="https://ko.wikipedia.org/wiki/카타르_축구_협회" title="wikilink">카타르</a>)<br />
 마르빈 토렌테라 (<a href="https://ko.wikipedia.org/wiki/멕시코_축구_연맹" title="wikilink">멕시코</a>)<br />
 <a href="https://ko.wikipedia.org/wiki/산드루_히시" title="wikilink">산드루 히시</a> (<a href="https://ko.wikipedia.org/wiki/브라질_축구_협회" title="wikilink">브라질</a>)</p></td>
 </tr>

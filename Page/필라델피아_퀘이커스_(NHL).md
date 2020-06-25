@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [필라델피아 퀘이커스 \(NHL\)](https://ko.wikipedia.org/wiki/필라델피아_퀘이커스_\(NHL\)).
 
 
-**필라델피아 퀘이커스**(Philadelphia Quakers)는 1930년부터 1931년까지 [펜실베이니아주](../Page/펜실베이니아주.md "wikilink") [필라델피아](../Page/필라델피아.md "wikilink")를 연고지로 하는 [NHL의](../Page/내셔널_하키_리그.md "wikilink") [아메리칸 디비전](../Page/아메리칸_디비전_\(NHL\).md "wikilink") 소속 아이스 하키팀이다.
+**필라델피아 퀘이커스**(Philadelphia Quakers)는 1930년부터 1931년까지 [펜실베이니아주](../Page/펜실베이니아주.md "wikilink") [필라델피아](../Page/필라델피아.md "wikilink")를 연고지로 하는 [NHL의](../Page/내셔널_하키_리그.md "wikilink") [아메리칸 디비전](../Page/아메리칸_디비전.md "wikilink") 소속 아이스 하키팀이다.
 
 ## 역대 홈경기장
 

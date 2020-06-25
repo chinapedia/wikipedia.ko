@@ -9,18 +9,14 @@
 <colgroup>
 <col style="width: 5%" />
 <col style="width: 1%" />
-<col style="width: 1%" />
-<col style="width: 0%" />
-<col style="width: 1%" />
-<col style="width: 0%" />
+<col style="width: 2%" />
+<col style="width: 2%" />
 </colgroup>
 <thead>
 <tr class="header">
 <th><p>연도</p></th>
 <th><p>개최국</p></th>
-<th></th>
 <th><p>결승전</p></th>
-<th></th>
 <th><p>3·4위전</p></th>
 </tr>
 </thead>
@@ -30,8 +26,6 @@
 <td><p>득점</p></td>
 <td><p>준우승</p></td>
 <td><p>3위</p></td>
-<td><p>득점</p></td>
-<td><p>4위</p></td>
 </tr>
 <tr class="even">
 <td><p>2008년<br />
@@ -39,8 +33,6 @@
 <td></td>
 <td><p><strong></strong></p></td>
 <td><p><strong>3 : 0</strong></p></td>
-<td></td>
-<td></td>
 </tr>
 <tr class="odd">
 <td><p>2009년<br />
@@ -48,8 +40,6 @@
 <td></td>
 <td><p><strong></strong></p></td>
 <td><p><strong>7 : 0</strong></p></td>
-<td></td>
-<td></td>
 </tr>
 <tr class="even">
 <td><p>2010년<br />
@@ -58,8 +48,6 @@
 <td><p><strong></strong></p></td>
 <td><p><strong>0 : 0</strong><br />
 (<a href="../Page/승부차기.md" title="wikilink">승부차기</a> 4 : 1)</p></td>
-<td></td>
-<td></td>
 </tr>
 <tr class="odd">
 <td><p>2011년<br />
@@ -67,8 +55,6 @@
 <td></td>
 <td><p><strong></strong></p></td>
 <td><p><strong>1 : 0</strong></p></td>
-<td></td>
-<td></td>
 </tr>
 <tr class="even">
 <td><p>2012년<br />
@@ -77,8 +63,6 @@
 <td><p><strong></strong></p></td>
 <td><p><strong>1 : 1</strong><br />
 (<a href="../Page/승부차기.md" title="wikilink">승부차기</a> 4 : 3)</p></td>
-<td></td>
-<td></td>
 </tr>
 <tr class="odd">
 <td><p>2013년<br />
@@ -86,39 +70,6 @@
 <td></td>
 <td><p><strong></strong></p></td>
 <td><p><strong>1 : 0</strong></p></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
-
-<table style="width:10%;">
-<colgroup>
-<col style="width: 5%" />
-<col style="width: 1%" />
-<col style="width: 1%" />
-<col style="width: 0%" />
-<col style="width: 1%" />
-<col style="width: 0%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th><p>연도</p></th>
-<th><p>개최국</p></th>
-<th></th>
-<th><p>결승전</p></th>
-<th></th>
-<th><p>3·4위전</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>우승</p></td>
-<td><p>득점</p></td>
-<td><p>준우승</p></td>
-<td><p>3위</p></td>
-<td><p>득점</p></td>
-<td><p>4위</p></td>
 </tr>
 <tr class="even">
 <td><p>2014년<br />
@@ -127,8 +78,6 @@
 <td><p><strong></strong></p></td>
 <td><p><strong>1 : 1</strong><br />
 (<a href="../Page/승부차기.md" title="wikilink">승부차기</a> 3 : 1)</p></td>
-<td></td>
-<td></td>
 </tr>
 <tr class="odd">
 <td><p>2015년<br />
@@ -136,8 +85,6 @@
 <td></td>
 <td><p><strong></strong></p></td>
 <td><p><strong>5 : 2</strong></p></td>
-<td></td>
-<td><p>, </p></td>
 </tr>
 <tr class="even">
 <td><p>2016년<br />
@@ -146,8 +93,6 @@
 <td><p><strong></strong></p></td>
 <td><p><strong>0 : 0</strong><br />
 (<a href="../Page/승부차기.md" title="wikilink">승부차기</a> 3 : 2)</p></td>
-<td></td>
-<td></td>
 </tr>
 <tr class="odd">
 <td><p>2017년<br />
@@ -156,8 +101,6 @@
 <td><p><strong></strong></p></td>
 <td><p><strong>0 : 0</strong><br />
 (<a href="../Page/승부차기.md" title="wikilink">승부차기</a> 3 : 1)</p></td>
-<td></td>
-<td><p>, </p></td>
 </tr>
 <tr class="even">
 <td><p>2018년<br />
@@ -165,8 +108,6 @@
 <td></td>
 <td><p><strong></strong></p></td>
 <td><p><strong>2 : 0</strong></p></td>
-<td></td>
-<td></td>
 </tr>
 <tr class="odd">
 <td><p>2019년<br />
@@ -175,17 +116,27 @@
 <td><p><strong></strong></p></td>
 <td><p><strong>1 : 1</strong><br />
 (<a href="../Page/승부차기.md" title="wikilink">승부차기</a> 3 : 2)</p></td>
-<td></td>
-<td><p>, </p></td>
 </tr>
 <tr class="even">
 <td><p>2020년<br />
 <em><a href="https://ko.wikipedia.org/wiki/2020년_UEFA_U-17_여자_축구_선수권_대회" title="wikilink">자세히</a></em></p></td>
 <td></td>
 <td></td>
+<td><p>''' : '''</p></td>
+</tr>
+<tr class="odd">
+<td><p>2021년<br />
+<em><a href="https://ko.wikipedia.org/wiki/2021년_UEFA_U-17_여자_축구_선수권_대회" title="wikilink">자세히</a></em></p></td>
 <td></td>
 <td></td>
+<td><p>''' : '''</p></td>
+</tr>
+<tr class="even">
+<td><p>2022년<br />
+<em><a href="https://ko.wikipedia.org/wiki/2022년_UEFA_U-17_여자_축구_선수권_대회" title="wikilink">자세히</a></em></p></td>
 <td></td>
+<td></td>
+<td><p>''' : '''</p></td>
 </tr>
 </tbody>
 </table>

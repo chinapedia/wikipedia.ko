@@ -377,6 +377,12 @@ function Blurb:_substituteParameters(msg)
 `       parameterFuncs.INTROBLURB         = self._makeIntroBlurbParameter`
 `       parameterFuncs.INTROFRAGMENT      = self._makeIntroFragmentParameter`
 `       parameterFuncs.PAGETYPE           = self._makePagetypeParameter`
+`       parameterFuncs.PAGETYPEEUN        = self._makePagetypeEunParameter`
+`       parameterFuncs.PAGETYPENEUN        = self._makePagetypeEunParameter`
+`       parameterFuncs.PAGETYPEEUL        = self._makePagetypeEulParameter`
+`       parameterFuncs.PAGETYPEREUL        = self._makePagetypeEulParameter`
+`       parameterFuncs.PAGETYPEGA         = self._makePagetypeGaParameter`
+`       parameterFuncs.PAGETYPEI           = self._makePagetypeGaParameter`
 `       parameterFuncs.PROTECTIONBLURB    = self._makeProtectionBlurbParameter`
 `       parameterFuncs.PROTECTIONDATE     = self._makeProtectionDateParameter`
 `       parameterFuncs.PROTECTIONLEVEL    = self._makeProtectionLevelParameter`
@@ -541,6 +547,33 @@ end
 function Blurb:_makePagetypeParameter()
 
 `   local pagetypes = self._cfg.pagetypes`
+`   return pagetypes[self._protectionObj.title.namespace]`
+`       or pagetypes.default`
+`       or error('no default pagetype defined', 8)`
+
+end
+
+function Blurb:_makePagetypeEunParameter()
+
+`   local pagetypes = self._cfg.pageEuntypes`
+`   return pagetypes[self._protectionObj.title.namespace]`
+`       or pagetypes.default`
+`       or error('no default pagetype defined', 8)`
+
+end
+
+function Blurb:_makePagetypeEulParameter()
+
+`   local pagetypes = self._cfg.pageEultypes`
+`   return pagetypes[self._protectionObj.title.namespace]`
+`       or pagetypes.default`
+`       or error('no default pagetype defined', 8)`
+
+end
+
+function Blurb:_makePagetypeGaParameter()
+
+`   local pagetypes = self._cfg.pageGatypes`
 `   return pagetypes[self._protectionObj.title.namespace]`
 `       or pagetypes.default`
 `       or error('no default pagetype defined', 8)`

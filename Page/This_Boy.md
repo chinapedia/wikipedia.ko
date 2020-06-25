@@ -15,7 +15,7 @@
 
 비틀즈는 〈This Boy〉를 1963년 10월 17일에 녹음했으며 같은 날 〈[I Want To Hold Your Hand](https://ko.wikipedia.org/wiki/I_Want_To_Hold_Your_Hand "wikilink")〉와 비틀즈의 팬클럽에 보내질 크리스마스 싱글을 위해 〈[You Really Got A Hold On Me](https://ko.wikipedia.org/wiki/You_Really_Got_A_Hold_On_Me "wikilink")〉를 녹음했다. 15테이크를 녹음한 〈This Boy〉는 두 번의 오버더빙이 진행되었다. 페이드 아웃은 10월 21일 믹싱 세션에서 했다. 두 테이크가 합쳐져 최종 마스터링이 완성되었고, 미들 에이트와 마지막 절 (1:28) 사이에서 편집되었다.
 
-《투 오브 어 카인드》의 1963년 라이브 음원이 《[Anthology 1](https://ko.wikipedia.org/wiki/Anthology_1 "wikilink")》에 실렸으며 두 개의 미완성 테이크가 싱글 〈[Free as a Bird](https://ko.wikipedia.org/wiki/Free_as_a_Bird "wikilink")〉에 담겨 출시되었다.
+《투 오브 어 카인드》의 1963년 라이브 음원이 《[Anthology 1](../Page/Anthology_1.md "wikilink")》에 실렸으며 두 개의 미완성 테이크가 싱글 〈[Free as a Bird](../Page/Free_as_a_Bird.md "wikilink")〉에 담겨 출시되었다.
 
 ## 참여 인원
 

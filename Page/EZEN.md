@@ -66,4 +66,4 @@
   -
   -
   -
-[EZEN](https://ko.wikipedia.org/wiki/분류:EZEN "wikilink") [분류:대한민국의 록 밴드](https://ko.wikipedia.org/wiki/분류:대한민국의_록_밴드 "wikilink") [분류:2014년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2014년_결성된_음악_그룹 "wikilink") [분류:2014년 데뷔](https://ko.wikipedia.org/wiki/분류:2014년_데뷔 "wikilink") [분류:4인조 음악 그룹](https://ko.wikipedia.org/wiki/분류:4인조_음악_그룹 "wikilink") [분류:혼성 음악 그룹](https://ko.wikipedia.org/wiki/분류:혼성_음악_그룹 "wikilink") [분류:2010년대 음악 그룹](https://ko.wikipedia.org/wiki/분류:2010년대_음악_그룹 "wikilink")
+[EZEN](https://ko.wikipedia.org/wiki/분류:EZEN "wikilink") [분류:대한민국의 록 밴드](https://ko.wikipedia.org/wiki/분류:대한민국의_록_밴드 "wikilink") [분류:2014년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2014년_결성된_음악_그룹 "wikilink") [분류:4인조 음악 그룹](https://ko.wikipedia.org/wiki/분류:4인조_음악_그룹 "wikilink") [분류:혼성 음악 그룹](https://ko.wikipedia.org/wiki/분류:혼성_음악_그룹 "wikilink") [분류:2010년대 음악 그룹](https://ko.wikipedia.org/wiki/분류:2010년대_음악_그룹 "wikilink")

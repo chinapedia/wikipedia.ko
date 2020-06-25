@@ -9,7 +9,7 @@
 
 ## 각주
 
-[분류:2017년 비디오 게임](https://ko.wikipedia.org/wiki/분류:2017년_비디오_게임 "wikilink") [분류:인디 게임](https://ko.wikipedia.org/wiki/분류:인디_게임 "wikilink") [분류:영국의 비디오 게임](https://ko.wikipedia.org/wiki/분류:영국의_비디오_게임 "wikilink") [분류:윈도우 게임](https://ko.wikipedia.org/wiki/분류:윈도우_게임 "wikilink") [분류:플랫폼 게임](https://ko.wikipedia.org/wiki/분류:플랫폼_게임 "wikilink")
+[분류:2017년 비디오 게임](https://ko.wikipedia.org/wiki/분류:2017년_비디오_게임 "wikilink") [분류:인디 게임](https://ko.wikipedia.org/wiki/분류:인디_게임 "wikilink") [분류:영국의 비디오 게임](https://ko.wikipedia.org/wiki/분류:영국의_비디오_게임 "wikilink") [분류:윈도우 게임](https://ko.wikipedia.org/wiki/분류:윈도우_게임 "wikilink") [분류:플랫폼 게임](https://ko.wikipedia.org/wiki/분류:플랫폼_게임 "wikilink") [분류:안드로이드 게임](https://ko.wikipedia.org/wiki/분류:안드로이드_게임 "wikilink") [분류:IOS 게임](https://ko.wikipedia.org/wiki/분류:IOS_게임 "wikilink")
 
 1.
 2.

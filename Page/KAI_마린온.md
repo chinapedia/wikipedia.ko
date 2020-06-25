@@ -88,7 +88,7 @@
   - GARMIN G5000H Avionics Suite (수출형)
   - GPS, INS, Radar, Digital Map, FLIR(EO/IR), TCAS II, HTAWS, ELT, AIS, HUMS, IRS, EWC, MWR, LWR, RWR, CMDS, OBIGGS 등
 
-## 더 보기
+## 같이 보기
 
   - [에어로스페시알 SA 330 퓨마](https://ko.wikipedia.org/wiki/에어로스페시알_SA_330_퓨마 "wikilink"), 최대이륙중량 7톤
   - [유로콥터 AS332](../Page/유로콥터_AS332.md "wikilink") 슈퍼퓨마1, 최대이륙중량 9톤
