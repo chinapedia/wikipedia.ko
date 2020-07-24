@@ -12,7 +12,7 @@
 
 ## 수록곡
 
-1.  [Play the Game](https://ko.wikipedia.org/wiki/Play_the_Game "wikilink") (3:30) - [프레디 머큐리](../Page/프레디_머큐리.md "wikilink")
+1.  [Play the Game](../Page/Play_the_Game.md "wikilink") (3:30) - [프레디 머큐리](../Page/프레디_머큐리.md "wikilink")
       -
         프레디 머큐리가 작곡한 곡으로써 감미로운 발라드풍의 곡이다.
 2.  [Dragon Attack](https://ko.wikipedia.org/wiki/Dragon_Attack "wikilink") (4:18) - [브라이언 메이](../Page/브라이언_메이.md "wikilink")

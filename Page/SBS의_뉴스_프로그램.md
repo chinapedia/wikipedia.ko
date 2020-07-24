@@ -167,7 +167,7 @@
   - [전주방송의 뉴스 프로그램](https://ko.wikipedia.org/wiki/전주방송의_뉴스_프로그램 "wikilink")
   - [청주방송의 뉴스 프로그램](../Page/청주방송의_뉴스_프로그램.md "wikilink")
   - [G1의 뉴스 프로그램](../Page/G1의_뉴스_프로그램.md "wikilink")
-  - [제주방송의 뉴스 프로그램](https://ko.wikipedia.org/wiki/제주방송의_뉴스_프로그램 "wikilink")
+  - [제주방송의 뉴스 프로그램](../Page/제주방송의_뉴스_프로그램.md "wikilink")
   - [OBS경인TV의 뉴스 프로그램](../Page/OBS경인TV의_뉴스_프로그램.md "wikilink")
 
 <!-- end list -->

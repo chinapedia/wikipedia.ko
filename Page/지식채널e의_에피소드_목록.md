@@ -12261,7 +12261,7 @@ A Friend in London - New Tomorrow<br />
 우주는 주인이 없다 1부 아빠, 우주 쓰레기는 누가 치워요?<br />
 어떤 자전거</p></td>
 <td><p><a href="../Page/고전적_조건형성.md" title="wikilink">고전적 조건형성</a><br />
-<a href="https://ko.wikipedia.org/wiki/외상_후_성장" title="wikilink">외상 후 성장</a><br />
+<a href="../Page/외상_후_성장.md" title="wikilink">외상 후 성장</a><br />
 <a href="../Page/공유지의_비극.md" title="wikilink">공유지의 비극</a><br />
 <a href="https://ko.wikipedia.org/wiki/혐오" title="wikilink">혐오</a></p></td>
 <td></td>

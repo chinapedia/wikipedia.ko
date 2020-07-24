@@ -134,7 +134,7 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/홈_디포_센터" title="wikilink">홈 디포 센터</a></p></td>
 <td><p><a href="../Page/센추리링크_필드.md" title="wikilink">퀘스트 필드</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/콜럼버스_크루_경기장" title="wikilink">콜럼버스 크루 경기장</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/오클랜드–알라메다_카운티_콜리시엄" title="wikilink">오클랜드–알라메다 카운티 콜리시엄</a></p></td>
+<td><p><a href="../Page/오클랜드–알라메다_카운티_콜리시엄.md" title="wikilink">오클랜드–알라메다 카운티 콜리시엄</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/RFK_스타디움" title="wikilink">RFK 스타디움</a></p></td>
 </tr>
 <tr class="even">

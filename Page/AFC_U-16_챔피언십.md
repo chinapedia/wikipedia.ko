@@ -174,7 +174,7 @@
 <a href="../Page/타지키스탄_축구_국가대표팀.md" title="wikilink">타지키스탄</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/2008년_AFC_U-16_챔피언십" title="wikilink">2008</a></p></td>
+<td><p><a href="../Page/2008년_AFC_U-16_챔피언십.md" title="wikilink">2008</a></p></td>
 <td></td>
 <td><p><strong><br />
 <a href="../Page/이란_축구_국가대표팀.md" title="wikilink">이란</a></strong></p></td>
@@ -208,7 +208,7 @@
 <a href="../Page/이란_축구_국가대표팀.md" title="wikilink">이란</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/2014년_AFC_U-16_챔피언십" title="wikilink">2014</a></p></td>
+<td><p><a href="../Page/2014년_AFC_U-16_챔피언십.md" title="wikilink">2014</a></p></td>
 <td></td>
 <td><p><strong><br />
 <a href="../Page/조선민주주의인민공화국_축구_국가대표팀.md" title="wikilink">조선민주주의인민공화국</a></strong></p></td>
@@ -219,7 +219,7 @@
 <a href="../Page/오스트레일리아_축구_국가대표팀.md" title="wikilink">오스트레일리아</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/2016년_AFC_U-16_챔피언십" title="wikilink">2016</a></p></td>
+<td><p><a href="../Page/2016년_AFC_U-16_챔피언십.md" title="wikilink">2016</a></p></td>
 <td></td>
 <td><p><br />
 <strong><a href="../Page/이라크_축구_국가대표팀.md" title="wikilink">이라크</a></strong></p></td>
@@ -231,7 +231,7 @@
 <a href="https://ko.wikipedia.org/wiki/일본_축구_국가대표팀" title="wikilink">일본</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/2018년_AFC_U-16_챔피언십" title="wikilink">2018</a></p></td>
+<td><p><a href="../Page/2018년_AFC_U-16_챔피언십.md" title="wikilink">2018</a></p></td>
 <td></td>
 <td><p><br />
 <strong><a href="https://ko.wikipedia.org/wiki/일본_축구_국가대표팀" title="wikilink">일본</a></strong></p></td>

@@ -3040,7 +3040,7 @@
 <tr class="even">
 <td><p>454</p></td>
 <td><p><a href="../Page/7월_10일.md" title="wikilink">7월 10일</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/노무현" title="wikilink">노무현</a>이라는 사람</p></td>
+<td><p><a href="../Page/노무현.md" title="wikilink">노무현</a>이라는 사람</p></td>
 <td></td>
 </tr>
 <tr class="odd">

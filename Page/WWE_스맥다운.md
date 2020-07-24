@@ -433,7 +433,7 @@
   - [세자로](../Page/클라우디오_카스타뇰리.md "wikilink")
   - [쇼티 G](../Page/채드_게이블.md "wikilink")
   - [쉐이머스](../Page/쉐이머스_\(프로레슬링_선수\).md "wikilink")
-  - [아폴로 크루즈](https://ko.wikipedia.org/wiki/우하_네이션 "wikilink")
+  - [아폴로 크루즈](../Page/우하_네이션.md "wikilink")
   - [에피코 콜론](https://ko.wikipedia.org/wiki/올랜도_콜론 "wikilink")
   - [엘리아스](../Page/엘리아스_샘슨.md "wikilink")
   - [존 모리슨](../Page/존_모리슨.md "wikilink")

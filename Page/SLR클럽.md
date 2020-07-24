@@ -30,7 +30,7 @@ SLR클럽의 역사는 다음과 같다.\[1\]
 
 </ref>
 
-  -   - [5월 23일](../Page/5월_23일.md "wikilink") \~ [5월 31일](../Page/5월_31일.md "wikilink") [노무현](https://ko.wikipedia.org/wiki/노무현 "wikilink") 前 [대통령](../Page/대통령.md "wikilink") [서거로](../Page/죽음.md "wikilink") "오늘의 사진"을 추모 페이지로 장식하였다.
+  -   - [5월 23일](../Page/5월_23일.md "wikilink") \~ [5월 31일](../Page/5월_31일.md "wikilink") [노무현](../Page/노무현.md "wikilink") 前 [대통령](../Page/대통령.md "wikilink") [서거로](../Page/죽음.md "wikilink") "오늘의 사진"을 추모 페이지로 장식하였다.
 
 <!-- end list -->
 

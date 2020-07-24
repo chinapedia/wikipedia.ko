@@ -239,7 +239,7 @@
 <!-- end list -->
 
   - [2003년](../Page/2003년.md "wikilink") [2월 12일](../Page/2월_12일.md "wikilink") :[2004 아테네 올림픽](https://ko.wikipedia.org/wiki/2004_아테네_올림픽 "wikilink") 축구 국가대표팀 평가전 [대한민국](../Page/대한민국.md "wikilink") vs [네덜란드](../Page/네덜란드.md "wikilink") 중계 편성
-  - [2003년](../Page/2003년.md "wikilink") [2월 26일](https://ko.wikipedia.org/wiki/2월_26일 "wikilink") : 특집방송 \<\<[노무현](https://ko.wikipedia.org/wiki/노무현 "wikilink") 5년 희망의 시대인가\>\>방송
+  - [2003년](../Page/2003년.md "wikilink") [2월 26일](https://ko.wikipedia.org/wiki/2월_26일 "wikilink") : 특집방송 \<\<[노무현](../Page/노무현.md "wikilink") 5년 희망의 시대인가\>\>방송
   - [2003년](../Page/2003년.md "wikilink") [8월 20일](../Page/8월_20일.md "wikilink") : 2003 세계 청소년 축구 D조예선 [대한민국](../Page/대한민국.md "wikilink") vs [시에라리온](../Page/시에라리온.md "wikilink") 중계 편성
   - [2003년](../Page/2003년.md "wikilink") [12월 31일](../Page/12월_31일.md "wikilink") : [2003MBC 10대 가수 가요제](https://ko.wikipedia.org/wiki/10대_가수_가요제 "wikilink") 방송
 
@@ -306,7 +306,7 @@
 
 <!-- end list -->
 
-  - [2009년](../Page/2009년.md "wikilink") [5월 29일](../Page/5월_29일.md "wikilink") : [노무현](https://ko.wikipedia.org/wiki/노무현 "wikilink") 前대통령 서거 애도로 인한 결방
+  - [2009년](../Page/2009년.md "wikilink") [5월 29일](../Page/5월_29일.md "wikilink") : [노무현](../Page/노무현.md "wikilink") 前대통령 서거 애도로 인한 결방
   - [2009년](../Page/2009년.md "wikilink") [9월 25일](../Page/9월_25일.md "wikilink") : [MBC 대학가요제](../Page/MBC_대학가요제.md "wikilink") 방송
   - [2009년](../Page/2009년.md "wikilink") [10월 2일](../Page/10월_2일.md "wikilink") : 추석특집 tv무비 [선덕여왕](../Page/선덕여왕.md "wikilink") 방송 (10월 3일 추석특집 <대한민국 연예계 별별랭킹>으로 대체)
   - [2009년](../Page/2009년.md "wikilink") [11월 27일](../Page/11월_27일.md "wikilink") : 대통령과의 대화 방송으로 결방.

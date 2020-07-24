@@ -52,7 +52,7 @@
 | 10대 | [박은영](../Page/박은영_\(아나운서\).md "wikilink"), [강승화](../Page/강승화.md "wikilink"), [이광용](../Page/이광용.md "wikilink"), [박소현](../Page/박소현_\(1992년\).md "wikilink") | [2017년](../Page/2017년.md "wikilink") [4월 3일](../Page/4월_3일.md "wikilink") \~ [2017년](../Page/2017년.md "wikilink") [8월 28일](../Page/8월_28일.md "wikilink")     |
 | 11대 | [이재후](../Page/이재후_\(아나운서\).md "wikilink"), [박소현](../Page/박소현_\(1992년\).md "wikilink")                                                                     | [2018년](../Page/2018년.md "wikilink") [4월 2일](../Page/4월_2일.md "wikilink") \~ [2018년](../Page/2018년.md "wikilink") [10월 29일](../Page/10월_29일.md "wikilink")   |
 | 12대 | [박소현](../Page/박소현_\(1992년\).md "wikilink")                                                                                                                | [2019년](../Page/2019년.md "wikilink") [4월 1일](../Page/4월_1일.md "wikilink") \~ [2019년](../Page/2019년.md "wikilink") [10월 7일](../Page/10월_7일.md "wikilink")     |
-| 13대 | [남현종](https://ko.wikipedia.org/wiki/남현종 "wikilink")                                                                                                       | [2020년](../Page/2020년.md "wikilink")                                                                                                                         |
+| 13대 | [남현종](../Page/남현종.md "wikilink")                                                                                                                          | [2020년](../Page/2020년.md "wikilink")                                                                                                                         |
 
 ## 구성
 
