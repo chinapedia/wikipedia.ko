@@ -436,7 +436,7 @@
 
     **3위 (5)**: [1983](https://ko.wikipedia.org/wiki/K리그_1983 "wikilink"), [1987](../Page/K리그_1987.md "wikilink"), [1988](https://ko.wikipedia.org/wiki/K리그_1988 "wikilink"), [1999](https://ko.wikipedia.org/wiki/K리그_1999 "wikilink"), [2016](https://ko.wikipedia.org/wiki/K리그_클래식_2016 "wikilink")
 
-    **4위 (4)**: [1990](https://ko.wikipedia.org/wiki/K리그_1990 "wikilink"), [1991](../Page/K리그_1991.md "wikilink"), [1995](../Page/K리그_1995.md "wikilink"), [1996](../Page/K리그_1996.md "wikilink")
+    **4위 (4)**: [1990](../Page/K리그_1990.md "wikilink"), [1991](../Page/K리그_1991.md "wikilink"), [1995](../Page/K리그_1995.md "wikilink"), [1996](../Page/K리그_1996.md "wikilink")
 
 #### 컵
 

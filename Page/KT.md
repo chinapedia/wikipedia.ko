@@ -148,7 +148,7 @@
   - KT sat
   - 케이디리빙
   - [KT스포츠](https://ko.wikipedia.org/wiki/KT스포츠 "wikilink")\[48\]
-      - [부산 KT 소닉붐](https://ko.wikipedia.org/wiki/부산_KT_소닉붐 "wikilink") 농구단
+      - [부산 KT 소닉붐](../Page/부산_KT_소닉붐.md "wikilink") 농구단
       - [KT 롤스터](../Page/KT_롤스터.md "wikilink") 게임단
       - KT 사격단
       - KT 하키단

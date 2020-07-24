@@ -464,7 +464,7 @@
 
   - [1991년](../Page/1991년.md "wikilink")(특채) 입사 : [김태욱](../Page/김태욱_\(아나운서\).md "wikilink"), [유영미](../Page/유영미.md "wikilink")
   - [1991년](../Page/1991년.md "wikilink")(1기) 입사 : [최영주](../Page/최영주_\(1969년\).md "wikilink")
-  - [1993년](../Page/1993년.md "wikilink")(2기) 입사 : [김정일](../Page/김정일_\(아나운서\).md "wikilink"), [박상도](../Page/박상도.md "wikilink"), [신용철](https://ko.wikipedia.org/wiki/신용철 "wikilink")
+  - [1993년](../Page/1993년.md "wikilink")(2기) 입사 : [김정일](../Page/김정일_\(아나운서\).md "wikilink"), [박상도](../Page/박상도.md "wikilink"), [신용철](../Page/신용철.md "wikilink")
   - [1995년](../Page/1995년.md "wikilink")(3기) 입사 : [김소원](../Page/김소원_\(아나운서\).md "wikilink"), [박광범](../Page/박광범.md "wikilink"), [손범규](https://ko.wikipedia.org/wiki/손범규_\(아나운서\) "wikilink"), [최영아](https://ko.wikipedia.org/wiki/최영아 "wikilink")
   - [1996년](../Page/1996년.md "wikilink")(4기) 입사 : [염용석](https://ko.wikipedia.org/wiki/염용석 "wikilink"), [이현경](https://ko.wikipedia.org/wiki/이현경 "wikilink")
   - [2000년](../Page/2000년.md "wikilink")(8기) 입사 : [박은경](../Page/박은경_\(아나운서\).md "wikilink"), [박찬민](../Page/박찬민.md "wikilink"), [윤현진](https://ko.wikipedia.org/wiki/윤현진_\(1978년\) "wikilink"), [이혜승](../Page/이혜승.md "wikilink")
@@ -540,7 +540,7 @@
   - **가슴 노출 논란** : 2010년 7월 31일 [SBS 8 뉴스에서는](../Page/SBS_8_뉴스.md "wikilink") '햇살에 몸 맡긴 선탠족...해수욕장 인산인해'라는 제목의 보도를 동영상 화면과 함께 내보냈다. 이 보도는 방송 내내 해수욕장에서 물놀이를 즐기거나 선탠을 하는 여성을 집중적으로 비쳤는데 이때 여성의 상반신 중 일부가 노출되었다. 또한 여성의 상반신 일부 노출 뿐 아니라 선탠하는 여성의 등이나 여성의 비키니 입은 모습 등을 집중적으로 영상으로 내보내기도 해 눈살이 찌푸려지게 만들었다. 논란이 일자 SBS는 뉴스 다시보기를 삭제하였다.\[16\]
   - **루저 논란** : 2010년 8월 12일 SBS는‘나이트라인’의 ‘뉴스 속으로’ 코너에서 세계적 광고기획자 이제석 씨에 대한 인터뷰 제목 자막에 ‘루저에서 광고 천재로’라는 표현을 사용해 논란이 일었다. SBS는 13일에 정식 보도자료를 통해 “본의는 아니지만 이 표현(루저)으로 마음의 상처를 입은 시청자 여러분께 깊이 사과드린다”라고 사죄의 뜻을 전했다.\[17\]
   - **양배추 김치 논란** : [2010년](../Page/2010년.md "wikilink") 9월 30일 [SBS 8 뉴스에서](../Page/SBS_8_뉴스.md "wikilink") 신동욱 앵커는 배추 값이 폭등하자 양배추 김치를 먹으라는 [이명박](https://ko.wikipedia.org/wiki/이명박 "wikilink") 대통령의 말에 옹호하는 발언으로 논란을 일으켰다. 대통령이 나라와 물가를 모르니까 내뱉는 속없는 말에 도리어 [SBS 8 뉴스에서](../Page/SBS_8_뉴스.md "wikilink") 신동욱 앵커는 정부의 나팔수 역을 하는것에 한심스럽다는 반응이었다.\[18\]
-  - **故 [노무현](https://ko.wikipedia.org/wiki/노무현 "wikilink") 전 대통령 비하 워터마크 송출** : 2013년 8월 20일, 후쿠시마 원자력 발전소 사고 보도 중에, 한국에 수입하는 수산물에 대한 뉴스를 내보냈다. 그러나 가자미류 방사능 검출량 부분 그래프에서 故 [노무현](https://ko.wikipedia.org/wiki/노무현 "wikilink") 前 대통령 비하 이미지가 등장했다.
+  - **故 [노무현](../Page/노무현.md "wikilink") 전 대통령 비하 워터마크 송출** : 2013년 8월 20일, 후쿠시마 원자력 발전소 사고 보도 중에, 한국에 수입하는 수산물에 대한 뉴스를 내보냈다. 그러나 가자미류 방사능 검출량 부분 그래프에서 故 [노무현](../Page/노무현.md "wikilink") 前 대통령 비하 이미지가 등장했다.
 
 ### 독점 중계 논란
 
