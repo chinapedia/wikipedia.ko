@@ -28,7 +28,7 @@
   - 07:20《[다큐멘터리 역사를 찾아서](../Page/다큐멘터리_역사를_찾아서.md "wikilink")》(주말)
   - 07:40《[라디오 여행기](https://ko.wikipedia.org/wiki/라디오_여행기 "wikilink")》(20:40 재방송)
   - 08:00《[아름다운 우리가곡](https://ko.wikipedia.org/wiki/아름다운_우리가곡 "wikilink")》(16:00 재방송)
-  - 08:05《[건강 365](https://ko.wikipedia.org/wiki/건강_365 "wikilink")》(16:05 재방송) - 평일 : [최윤경](../Page/최윤경.md "wikilink") 아나운서 / 주말 : 박광식 의학전문기자
+  - 08:05《[건강 365](../Page/건강_365.md "wikilink")》(16:05 재방송) - 평일 : [최윤경](../Page/최윤경.md "wikilink") 아나운서 / 주말 : 박광식 의학전문기자
   - 09:00《[함께하는 세상 만들기](https://ko.wikipedia.org/wiki/함께하는_세상_만들기 "wikilink")》(22:00 재방송) - [장웅](../Page/장웅_\(아나운서\).md "wikilink") 아나운서
   - 10:05《[오늘의 신문](https://ko.wikipedia.org/wiki/오늘의_신문 "wikilink")》(평일) - [원석현](../Page/원석현.md "wikilink") 아나운서
   - 10:00《[경제로 통일로](https://ko.wikipedia.org/wiki/경제로_통일로 "wikilink")》(토요일)

@@ -5,7 +5,7 @@
 
 ## 역사
 
-[1919년](../Page/1919년.md "wikilink") [10월 17일](../Page/10월_17일.md "wikilink") 전자부품 제조업자로 설립된 [미국 라디오 회사](https://ko.wikipedia.org/wiki/미국_라디오_회사 "wikilink")([RCA](https://ko.wikipedia.org/wiki/RCA "wikilink"), Radio Corporastion of America)는 AT\&T의 뉴욕 방송국 WEAF와 [웨스팅하우스](https://ko.wikipedia.org/wiki/웨스팅하우스 "wikilink") [뉴저지주](../Page/뉴저지주.md "wikilink") [뉴어크](../Page/뉴어크_\(뉴저지주\).md "wikilink") 방송국 WJZ를 인수한 뒤, [1926년](../Page/1926년.md "wikilink") [11월 15일에](../Page/11월_15일.md "wikilink") NBC를 공식 출범시킨다.
+[1919년](../Page/1919년.md "wikilink") [10월 17일](../Page/10월_17일.md "wikilink") 전자부품 제조업자로 설립된 [미국 라디오 회사](https://ko.wikipedia.org/wiki/미국_라디오_회사 "wikilink")([RCA](https://ko.wikipedia.org/wiki/RCA "wikilink"), Radio Corporastion of America)는 AT\&T의 뉴욕 방송국 WEAF와 [웨스팅하우스](../Page/웨스팅하우스.md "wikilink") [뉴저지주](../Page/뉴저지주.md "wikilink") [뉴어크](../Page/뉴어크_\(뉴저지주\).md "wikilink") 방송국 WJZ를 인수한 뒤, [1926년](../Page/1926년.md "wikilink") [11월 15일에](../Page/11월_15일.md "wikilink") NBC를 공식 출범시킨다.
 
 NBC의 두 라디오 네트워크가 확장되면서 [1927년](../Page/1927년.md "wikilink") [1월 1일](../Page/1월_1일.md "wikilink") NBC는 WEAF를 중심으로 음악 및 예능 프로그램을 제공하는 "NBC 레드 네트워크"와 WJZ를 중심으로 뉴스와 문화 프로그램을 제공하는 "NBC 블루 네트워크"의 2개 네트워크로 나뉘었다.
 

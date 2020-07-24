@@ -201,7 +201,7 @@
 <li><a href="../Page/파르테논_신전.md" title="wikilink">파르테논 신전</a></li>
 <li><a href="../Page/피라미드.md" title="wikilink">피라미드</a></li>
 <li><a href="https://ko.wikipedia.org/wiki/파로스_등대" title="wikilink">대등대</a></li>
-<li><a href="https://ko.wikipedia.org/wiki/치첸이트사" title="wikilink">치첸이트사</a></li>
+<li><a href="../Page/치첸이트사.md" title="wikilink">치첸이트사</a></li>
 </ul></td>
 </tr>
 <tr class="odd">

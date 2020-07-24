@@ -922,7 +922,7 @@
 
 인테르나치오날레는 이탈리아에서 서포터가 가장 많은 팀들 중 하나이다.\[31\]
 
-역사적으로 인테르나치오날레는 [노동자](../Page/노동자.md "wikilink")들 대다수와 [이탈리아 남부](https://ko.wikipedia.org/wiki/이탈리아_남부 "wikilink") 이민자들의 응원에 AC 밀란과 반대로 [중산층](https://ko.wikipedia.org/wiki/중산층 "wikilink")과 [부르주아지](https://ko.wikipedia.org/wiki/부르주아지 "wikilink")들의 지지를 받았다.
+역사적으로 인테르나치오날레는 [노동자](../Page/노동자.md "wikilink")들 대다수와 [이탈리아 남부](https://ko.wikipedia.org/wiki/이탈리아_남부 "wikilink") 이민자들의 응원에 AC 밀란과 반대로 [중산층](../Page/중산층.md "wikilink")과 [부르주아지](https://ko.wikipedia.org/wiki/부르주아지 "wikilink")들의 지지를 받았다.
 
 인테르나치오날레의 전통적인 서포터들은 보이스 산(Boys San)으로, 1969년에 설립된 이들이 일반적으로 이들이 가장 오래되었기 때문에 서포터의 역사에서 상당한 지위에 있다. 정치적으로 인테르나치오날레의 서포터들의 성향은 보통 우파로 생각하고 있으며 [SS 라치오의](../Page/SS_라치오.md "wikilink") 서포터들과도 좋은 관계를 유지하고 있다. 주요 서포터인 보이스산 뿐만 아니라, 비킹그(Viking), 일리두치빌리(Irriducibili), 울트라스(Ultras), 브리안차 알콜리카(Brianza Alcoolica)와 같은 4개의 거대한 서포터스 그룹 역시 존재한다.
 

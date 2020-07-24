@@ -11,7 +11,7 @@ SPAS-12는 [경찰](../Page/경찰.md "wikilink") 및 [군용](https://ko.wikipe
 
 반자동 사격과 펌프 액션의 두가지 [작동 방식을](https://ko.wikipedia.org/wiki/작동_방식 "wikilink") 가진다. 반자동일 경우, 전면 손잡이가 잠기고 [방아쇠](https://ko.wikipedia.org/wiki/방아쇠 "wikilink")를 당겨 [약실](https://ko.wikipedia.org/wiki/약실 "wikilink")에 들어간 [탄환](https://ko.wikipedia.org/wiki/탄환 "wikilink")을 발사한 후의 다음 탄환의 장전은 [가스에](../Page/기체.md "wikilink") 의해 자체적으로 이루어지게 되며, 초당 4발의 탄환이 소비된다.
 
-두 번째 방식은 [펌프 액션으로](https://ko.wikipedia.org/wiki/펌프_액션 "wikilink") 탄환을 발사한 후, 전면 손잡이를 안쪽으로 당겨 탄피를 약실에서 배출함과 동시에 약실에 채워넣는다. 이 방식은 주로 폭동을 진압하기 위해 [최루가스탄을](https://ko.wikipedia.org/wiki/최루제 "wikilink"), 총기로 인한 인명 피해를 최소화하면서 [용의자](https://ko.wikipedia.org/wiki/용의자 "wikilink")를 검거하기 위하여 고무탄을 발사할때 유용하다.
+두 번째 방식은 [펌프 액션으로](https://ko.wikipedia.org/wiki/펌프_액션 "wikilink") 탄환을 발사한 후, 전면 손잡이를 안쪽으로 당겨 탄피를 약실에서 배출함과 동시에 약실에 채워넣는다. 이 방식은 주로 폭동을 진압하기 위해 [최루가스탄을](../Page/최루제.md "wikilink"), 총기로 인한 인명 피해를 최소화하면서 [용의자](https://ko.wikipedia.org/wiki/용의자 "wikilink")를 검거하기 위하여 고무탄을 발사할때 유용하다.
 
 이 두가지는, 전면 손잡이가 앞또는 뒤로 완전히 당겨졌을때, 총신 윗면에 위치한 버튼식 안전장치를 눌러 전면 손잡이를 잠금으로서 바꿀 수 있다. 옛 SPAS-12의 모델은 레버 방식의 안전 장치가 방아쇠보호대에 붙어있었다.
 

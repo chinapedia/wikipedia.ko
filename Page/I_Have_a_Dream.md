@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [I Have a Dream](https://ko.wikipedia.org/wiki/I_Have_a_Dream).
 
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:Martin_Luther_King_-_March_on_Washington.jpg "wikilink") **I Have a Dream**(나에게는 꿈이 있습니다)는 [마틴 루서 킹 주니어가](https://ko.wikipedia.org/wiki/마틴_루서_킹_주니어 "wikilink") [1963년](../Page/1963년.md "wikilink") [8월 28일](../Page/8월_28일.md "wikilink"), [미국](../Page/미국.md "wikilink") [워싱턴 DC에서](https://ko.wikipedia.org/wiki/워싱턴_DC "wikilink") 행했던 연설에 붙은 별칭이다. 이 연설은 흑인과 백인의 평등과 공존에 대한 요구였다. 킹의 연설은 [링컨 기념관](https://ko.wikipedia.org/wiki/링컨_기념관 "wikilink") 앞에 설치된 연단에서 이루어졌다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:Martin_Luther_King_-_March_on_Washington.jpg "wikilink") **I Have a Dream**(나에게는 꿈이 있습니다)는 [마틴 루서 킹 주니어가](https://ko.wikipedia.org/wiki/마틴_루서_킹_주니어 "wikilink") [1963년](../Page/1963년.md "wikilink") [8월 28일](../Page/8월_28일.md "wikilink"), [미국](../Page/미국.md "wikilink") [워싱턴 DC에서](https://ko.wikipedia.org/wiki/워싱턴_DC "wikilink") 행했던 연설에 붙은 별칭이다. 이 연설은 흑인과 백인의 평등과 공존에 대한 요구였다. 킹의 연설은 [링컨 기념관](../Page/링컨_기념관.md "wikilink") 앞에 설치된 연단에서 이루어졌다.
 
 이 연설은 [에이브러햄 링컨의](../Page/에이브러햄_링컨.md "wikilink") "[게티스버그 연설](https://ko.wikipedia.org/wiki/게티스버그_연설 "wikilink")", [존 F. 케네디의](../Page/존_F._케네디.md "wikilink") "[나는 베를린 시민입니다](https://ko.wikipedia.org/wiki/나는_베를린_시민입니다 "wikilink")"와 함께 미국사에서 가장 중요한 위치를 차지하고 있는 연설로 손꼽힌다.
 
