@@ -20,7 +20,7 @@
 
 ## 앵커
 
-  - 토요일 낮 12시 : [남현종](https://ko.wikipedia.org/wiki/남현종 "wikilink") (남) - [KBS의](../Page/한국방송공사.md "wikilink") 아나운서
+  - 토요일 낮 12시 : [남현종](../Page/남현종.md "wikilink") (남) - [KBS의](../Page/한국방송공사.md "wikilink") 아나운서
   - 토요일 오후 5시, 저녁 7시 : [김희수](../Page/김희수_\(아나운서\).md "wikilink") (남) - [KBS의](../Page/한국방송공사.md "wikilink") 아나운서
   - 일요일 아침 6시, 아침 8시 : [김선근](../Page/김선근.md "wikilink") (남) - [KBS의](../Page/한국방송공사.md "wikilink") 아나운서
   - 일요일 낮 12시 : [김윤지](../Page/김윤지_\(아나운서\).md "wikilink") (여) - [KBS의](../Page/한국방송공사.md "wikilink") 아나운서

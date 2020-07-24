@@ -26,7 +26,7 @@
 | [최유진](../Page/최유진_\(가수\).md "wikilink")             |       |       |    |
 | [장승연](https://ko.wikipedia.org/wiki/장승연 "wikilink") |       |       |    |
 | [SORN](../Page/SORN.md "wikilink")                  |       |       |    |
-| [장예은](https://ko.wikipedia.org/wiki/장예은 "wikilink") |       |       |    |
+| [장예은](../Page/장예은.md "wikilink")                    |       |       |    |
 | [엘키](../Page/엘키.md "wikilink")                      |       |       |    |
 | [권은빈](../Page/권은빈.md "wikilink")                    |       |       |    |
 
@@ -286,11 +286,11 @@
   - [2016년](../Page/2016년.md "wikilink") [4월 11일](../Page/4월_11일.md "wikilink") [SBS](../Page/SBS.md "wikilink") 《[동상이몽, 괜찮아 괜찮아](../Page/동상이몽,_괜찮아_괜찮아.md "wikilink")》 - 게스트 출연([최유진](https://ko.wikipedia.org/wiki/최유진 "wikilink"))
   - [2016년](../Page/2016년.md "wikilink") [7월 11일](../Page/7월_11일.md "wikilink") [SBS](../Page/SBS.md "wikilink") 《[동상이몽, 괜찮아 괜찮아](../Page/동상이몽,_괜찮아_괜찮아.md "wikilink")》 - 게스트 출연 ([권은빈](../Page/권은빈.md "wikilink"))
   - [2016년](../Page/2016년.md "wikilink") [7월 19일](../Page/7월_19일.md "wikilink") [JTBC](../Page/JTBC.md "wikilink") 《[걸스피릿](../Page/걸스피릿.md "wikilink")》 - 참가자 출연 ([오승희](../Page/오승희.md "wikilink"))
-  - [2017년](../Page/2017년.md "wikilink") [3월 10일](../Page/3월_10일.md "wikilink") \~ [5월 12일](../Page/5월_12일.md "wikilink") [KSTAR](../Page/KSTAR.md "wikilink") 《원샷 OTT》 - 고정 MC ([장예은](https://ko.wikipedia.org/wiki/장예은 "wikilink"))
-  - [2018년](../Page/2018년.md "wikilink") [5월 22일](../Page/5월_22일.md "wikilink") \~ [2019년](../Page/2019년.md "wikilink") [11월 23일](../Page/11월_23일.md "wikilink") [SBS MTV](../Page/SBS_MTV.md "wikilink") 《[더 쇼](https://ko.wikipedia.org/wiki/더_쇼 "wikilink")》 - 고정 MC ([장예은](https://ko.wikipedia.org/wiki/장예은 "wikilink"))
+  - [2017년](../Page/2017년.md "wikilink") [3월 10일](../Page/3월_10일.md "wikilink") \~ [5월 12일](../Page/5월_12일.md "wikilink") [KSTAR](../Page/KSTAR.md "wikilink") 《원샷 OTT》 - 고정 MC ([장예은](../Page/장예은.md "wikilink"))
+  - [2018년](../Page/2018년.md "wikilink") [5월 22일](../Page/5월_22일.md "wikilink") \~ [2019년](../Page/2019년.md "wikilink") [11월 23일](../Page/11월_23일.md "wikilink") [SBS MTV](../Page/SBS_MTV.md "wikilink") 《[더 쇼](https://ko.wikipedia.org/wiki/더_쇼 "wikilink")》 - 고정 MC ([장예은](../Page/장예은.md "wikilink"))
   - [2019년](../Page/2019년.md "wikilink") [4월 19일](../Page/4월_19일.md "wikilink") \~ [6월 28일](../Page/6월_28일.md "wikilink") [온스타일](https://ko.wikipedia.org/wiki/온스타일 "wikilink") 《넥스트 뷰티 크리에이터스》 - 고정출연 ([장승연](https://ko.wikipedia.org/wiki/장승연 "wikilink"))
   - [2019년](../Page/2019년.md "wikilink") [12월 29일](../Page/12월_29일.md "wikilink") \~ [2020년](../Page/2020년.md "wikilink") [2월 25일](../Page/2월_25일.md "wikilink") [채널A 플러스](https://ko.wikipedia.org/wiki/채널A_플러스 "wikilink") 《꽉찬Beauty》 - 고정출연 ([장승연](https://ko.wikipedia.org/wiki/장승연 "wikilink"))
-  - [2020년](../Page/2020년.md "wikilink") [5월 14일](../Page/5월_14일.md "wikilink") \~ 현재 [Mnet](https://ko.wikipedia.org/wiki/Mnet "wikilink") 《GOOD GIRL : 누가 방송국을 털었나》 - 고정출연 ([장예은](https://ko.wikipedia.org/wiki/장예은 "wikilink"))
+  - [2020년](../Page/2020년.md "wikilink") [5월 14일](../Page/5월_14일.md "wikilink") \~ 현재 [Mnet](https://ko.wikipedia.org/wiki/Mnet "wikilink") 《GOOD GIRL : 누가 방송국을 털었나》 - 고정출연 ([장예은](../Page/장예은.md "wikilink"))
 
 ### 방송 프로그램
 

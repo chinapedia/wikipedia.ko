@@ -64,7 +64,7 @@
 <td><p><a href="../Page/미국.md" title="wikilink">미국</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/아메리칸_항공_센터" title="wikilink">아메리칸 항공 센터</a></p></td>
 <td><p><a href="../Page/매직!.md" title="wikilink">매직!</a><br />
-<a href="https://ko.wikipedia.org/wiki/로지_크레인" title="wikilink">로지 크레인</a></p></td>
+<a href="../Page/로지_크레인.md" title="wikilink">로지 크레인</a></p></td>
 <td><p>15,012 / 15,012</p></td>
 <td><p>$1,374,180</p></td>
 </tr>

@@ -59,7 +59,7 @@
       - [트루히요](https://ko.wikipedia.org/wiki/트루히요 "wikilink") - [카를로스 마르테스 델 피니요스 국제공항](https://ko.wikipedia.org/wiki/카를로스_마르테스_델_피니요스_국제공항 "wikilink")
       - [푸갈파](https://ko.wikipedia.org/wiki/푸갈파 "wikilink") - [캡틴 롤덴 국제공항](https://ko.wikipedia.org/wiki/캡틴_롤덴_국제공항 "wikilink")
       - [푸에르토말도나도](../Page/푸에르토말도나도.md "wikilink") - [파드레 아담즈 국제공항](https://ko.wikipedia.org/wiki/파드레_아담즈_국제공항 "wikilink")
-      - [피우라](https://ko.wikipedia.org/wiki/피우라 "wikilink") - [기예르모 콘차 이베리코 국제공항](https://ko.wikipedia.org/wiki/기예르모_콘차_이베리코_국제공항 "wikilink")
+      - [피우라](../Page/피우라.md "wikilink") - [기예르모 콘차 이베리코 국제공항](https://ko.wikipedia.org/wiki/기예르모_콘차_이베리코_국제공항 "wikilink")
       - [훌리아카](../Page/훌리아카.md "wikilink") - [잉카 망코 카파크 국제공항](https://ko.wikipedia.org/wiki/잉카_망코_카파크_국제공항 "wikilink")
 
 #### [카리브해](../Page/카리브해.md "wikilink")

@@ -254,7 +254,7 @@
 </tr>
 <tr class="odd">
 <td><p>Star BJ 20</p></td>
-<td><p>로이조, <a href="https://ko.wikipedia.org/wiki/보겸" title="wikilink">보겸</a>, <a href="https://ko.wikipedia.org/wiki/대도서관_(BJ)" title="wikilink">대도서관</a>, 효근, <a href="https://ko.wikipedia.org/wiki/악어_(BJ)" title="wikilink">악어</a>,<br />
+<td><p>로이조, <a href="../Page/보겸.md" title="wikilink">보겸</a>, <a href="https://ko.wikipedia.org/wiki/대도서관_(BJ)" title="wikilink">대도서관</a>, 효근, <a href="https://ko.wikipedia.org/wiki/악어_(BJ)" title="wikilink">악어</a>,<br />
 이상호, <a href="../Page/PD대정령.md" title="wikilink">대정령</a>, 팡이, <a href="https://ko.wikipedia.org/wiki/양띵" title="wikilink">양띵</a>, 범프리카,<br />
 <a href="../Page/윰댕.md" title="wikilink">윰댕</a>, 윤마, <a href="https://ko.wikipedia.org/wiki/김이브님" title="wikilink">김이브님</a>, 코트, 버블디아,<br />
 <a href="../Page/최군.md" title="wikilink">최군</a>, 안준모, 전경, <a href="../Page/망치부인.md" title="wikilink">망치부인</a>, 디바제시카</p></td>
@@ -309,7 +309,7 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/철구형형" title="wikilink">철구형</a>, 세글자, 곰돌, 턱형, 디바제시카,<br />
 슈기, 유소나, 안준모, 한나, <a href="https://ko.wikipedia.org/wiki/악어_(BJ)" title="wikilink">악어</a>,<br />
 견자희, 캬하하, 밴쯔, 창현, <a href="../Page/최군.md" title="wikilink">최군</a>,<br />
-<a href="https://ko.wikipedia.org/wiki/대도서관_(BJ)" title="wikilink">대도서관</a>, 버블디아, <a href="https://ko.wikipedia.org/wiki/보겸" title="wikilink">보겸</a>, 로이조, 이설</p></td>
+<a href="https://ko.wikipedia.org/wiki/대도서관_(BJ)" title="wikilink">대도서관</a>, 버블디아, <a href="../Page/보겸.md" title="wikilink">보겸</a>, 로이조, 이설</p></td>
 </tr>
 <tr class="even">
 <td><p>대표 BJ 50</p></td>

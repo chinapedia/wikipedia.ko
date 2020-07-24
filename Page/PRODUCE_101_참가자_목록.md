@@ -145,7 +145,7 @@
 </tr>
 <tr class="odd">
 <td><p>7</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/임나영" title="wikilink">임나영</a></p></td>
+<td><p><a href="../Page/임나영.md" title="wikilink">임나영</a></p></td>
 <td><p><a href="../Page/플레디스_엔터테인먼트.md" title="wikilink">플레디스 엔터테인먼트</a></p></td>
 <td><p>20세[11]</p></td>
 <td><p><a href="../Page/대한민국.md" title="wikilink">대한민국</a></p></td>

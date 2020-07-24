@@ -24,7 +24,7 @@
 ## 같이 보기
 
   - [LG G 시리즈](../Page/LG_G_시리즈.md "wikilink")
-  - [LG Q 시리즈](https://ko.wikipedia.org/wiki/LG_Q_시리즈 "wikilink")
+  - [LG Q 시리즈](../Page/LG_Q_시리즈.md "wikilink")
   - [LG X](https://ko.wikipedia.org/wiki/LG_X "wikilink")
   - [LG K](https://ko.wikipedia.org/wiki/LG_K "wikilink")
 

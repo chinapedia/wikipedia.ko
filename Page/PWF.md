@@ -192,7 +192,7 @@ pwf에서 이루어지는 달1회의 흥행이다. 성인은 만원이라는 유
 
 ## 연관 프로그램
 
-  - TVN \<[김무명을 찾아라](https://ko.wikipedia.org/wiki/김무명을_찾아라 "wikilink")\>
+  - TVN \<[김무명을 찾아라](../Page/김무명을_찾아라.md "wikilink")\>
   - KBS1 \<[다큐공감](../Page/다큐공감.md "wikilink")\>
   - KBS2 \<[대국민 토크쇼 안녕하세요](../Page/대국민_토크쇼_안녕하세요.md "wikilink")\>
   - SBS \<[놀라운 대회 스타킹](https://ko.wikipedia.org/wiki/놀라운_대회_스타킹 "wikilink")\>

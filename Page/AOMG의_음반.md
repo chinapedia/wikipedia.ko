@@ -200,9 +200,9 @@
 6.  [마마무](../Page/마마무.md "wikilink")도 앨범 참여.그리고 최초의 OST 앨범.
 7.  박재범의 정규 3집 첫번째 선공개곡.
 8.  박재범의 정규 3집 두번째 선공개곡.
-9.  [여자친구의](../Page/여자친구_\(음악_그룹\).md "wikilink") 멤버 [유주도](https://ko.wikipedia.org/wiki/유주_\(1997년_10월\) "wikilink") 앨범 참여.
+9.  [여자친구의](../Page/여자친구_\(음악_그룹\).md "wikilink") 멤버 [유주도](../Page/유주_\(1997년_10월\).md "wikilink") 앨범 참여.
 10. [바스코](https://ko.wikipedia.org/wiki/바스코_\(래퍼\) "wikilink"), [스토니스컹크](https://ko.wikipedia.org/wiki/스토니스컹크 "wikilink")의 멤버 [스컬도](../Page/스컬_\(가수\).md "wikilink") 앨범 참여.
-11. [여자친구의](../Page/여자친구_\(음악_그룹\).md "wikilink") 멤버 [유주도](https://ko.wikipedia.org/wiki/유주_\(1997년_10월\) "wikilink") 다시 앨범 참여.
+11. [여자친구의](../Page/여자친구_\(음악_그룹\).md "wikilink") 멤버 [유주도](../Page/유주_\(1997년_10월\).md "wikilink") 다시 앨범 참여.
 12. 박재범의 정규 3집 세번째 선공개곡.
 13. 박재범의 정규 3집 네번째 선공개곡.
 14. 박재범의 정규 3집 마지막 선공개곡.

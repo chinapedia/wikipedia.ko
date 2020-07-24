@@ -14,7 +14,7 @@
 
 평일의 경우, 현재 앵커는 [2020년](../Page/2020년.md "wikilink") [2월 10일부터를](../Page/2월_10일.md "wikilink") 기준으로 한다.
 
-  - [남현종](https://ko.wikipedia.org/wiki/남현종 "wikilink") (남) - [KBS의](../Page/한국방송공사.md "wikilink") 아나운서
+  - [남현종](../Page/남현종.md "wikilink") (남) - [KBS의](../Page/한국방송공사.md "wikilink") 아나운서
 
 ※ 평일의 [공휴일도](../Page/대한민국의_공휴일.md "wikilink") 포함됨.
 
@@ -107,7 +107,7 @@
 </tr>
 <tr class="even">
 <td><p>12대</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/남현종" title="wikilink">남현종</a></p></td>
+<td><p><a href="../Page/남현종.md" title="wikilink">남현종</a></p></td>
 <td><p><a href="../Page/2020년.md" title="wikilink">2020년</a> <a href="../Page/1월_1일.md" title="wikilink">1월 1일</a> ~ <strong>현재</strong></p></td>
 <td></td>
 </tr>
@@ -290,7 +290,7 @@ KBS 스포츠 9 (주말)</p></td>
 8.  KBS의 노조파업으로 인하여, [2017년](../Page/2017년.md "wikilink") [7월 6일](../Page/7월_6일.md "wikilink") \~ [2017년](../Page/2017년.md "wikilink") [12월 29일](../Page/12월_29일.md "wikilink") 방송분은 [이승현](../Page/이승현_\(아나운서,_1985년\).md "wikilink") 아나운서 대신 [유지철](../Page/유지철.md "wikilink") 아나운서가 진행했고, 2017년 [10월 12일](../Page/10월_12일.md "wikilink") \~ 2017년 [10월 13일](../Page/10월_13일.md "wikilink"), [2017년](../Page/2017년.md "wikilink") [10월 20일](../Page/10월_20일.md "wikilink"), [2017년](../Page/2017년.md "wikilink") [10월 26일](../Page/10월_26일.md "wikilink"), [2017년](../Page/2017년.md "wikilink") [10월 30일](../Page/10월_30일.md "wikilink") 방송분은 유지철 아나운서의 KBO 포스트시즌 중계 출장으로 인하여, [김동우](../Page/김동우_\(아나운서\).md "wikilink") 아나운서가 대신 진행했다.
 9.  [김지원](../Page/김지원_\(아나운서\).md "wikilink") 아나운서는 KBS의 내부 사정으로 인하여, **평일 KBS 스포츠 9**와 **주말 KBS 스포츠 9**를 모두 진행하였다.
 10. [김지원](../Page/김지원_\(아나운서\).md "wikilink") 아나운서는 [2018년](../Page/2018년.md "wikilink") [4월 20일](../Page/4월_20일.md "wikilink") 까지 **평일 KBS 스포츠 9**를 진행할 예정이였으나, [2018년](../Page/2018년.md "wikilink") [4월 21일부터](../Page/4월_21일.md "wikilink") **주말 KBS 뉴스 9**의 진행을 맡은 관계로 [2018](https://ko.wikipedia.org/wiki/2018 "wikilink")년 [4월 13일에](../Page/4월_13일.md "wikilink") **평일 KBS 스포츠 9**에서 하차하게 되어, [2018년](../Page/2018년.md "wikilink") [4월 16일](../Page/4월_16일.md "wikilink") \~ [2018년](../Page/2018년.md "wikilink") [4월 20일](../Page/4월_20일.md "wikilink") 방송분은 [김승휘](../Page/김승휘.md "wikilink") 아나운서가 대신 진행했다.
-11. [이재성](../Page/이재성_\(1987년\).md "wikilink") 아나운서의 [2018년 아시안 게임](../Page/2018년_아시안_게임.md "wikilink") 중계를 위한 [인도네시아](../Page/인도네시아.md "wikilink") [자카르타](../Page/자카르타.md "wikilink") 및 [팔렘방](../Page/팔렘방.md "wikilink") 현지 파견 및 중계 준비로 인하여, [2018년](../Page/2018년.md "wikilink") [8월 13일](../Page/8월_13일.md "wikilink"), 폐막 이후 휴가로 인해 [2018년](../Page/2018년.md "wikilink") [9월 3일](../Page/9월_3일.md "wikilink") \~ [9월 6일](../Page/9월_6일.md "wikilink") 방송분은 [이혜성](../Page/이혜성.md "wikilink") 아나운서가 대신 진행하였고, 휴가 및 출장으로 인해 [2019년](../Page/2019년.md "wikilink") [11월 11일](../Page/11월_11일.md "wikilink") \~ [11월 15일](../Page/11월_15일.md "wikilink") 방송분은 [남현종](https://ko.wikipedia.org/wiki/남현종 "wikilink") 아나운서가 대신 진행하였다.
+11. [이재성](../Page/이재성_\(1987년\).md "wikilink") 아나운서의 [2018년 아시안 게임](../Page/2018년_아시안_게임.md "wikilink") 중계를 위한 [인도네시아](../Page/인도네시아.md "wikilink") [자카르타](../Page/자카르타.md "wikilink") 및 [팔렘방](../Page/팔렘방.md "wikilink") 현지 파견 및 중계 준비로 인하여, [2018년](../Page/2018년.md "wikilink") [8월 13일](../Page/8월_13일.md "wikilink"), 폐막 이후 휴가로 인해 [2018년](../Page/2018년.md "wikilink") [9월 3일](../Page/9월_3일.md "wikilink") \~ [9월 6일](../Page/9월_6일.md "wikilink") 방송분은 [이혜성](../Page/이혜성.md "wikilink") 아나운서가 대신 진행하였고, 휴가 및 출장으로 인해 [2019년](../Page/2019년.md "wikilink") [11월 11일](../Page/11월_11일.md "wikilink") \~ [11월 15일](../Page/11월_15일.md "wikilink") 방송분은 [남현종](../Page/남현종.md "wikilink") 아나운서가 대신 진행하였다.
 12. [김홍성](../Page/김홍성.md "wikilink") 아나운서는 마지막 평일 진행한 다음 날 주말로 옮겨서 진행.
 13. [이지애](../Page/이지애.md "wikilink") 前 아나운서의 [KBS 연예대상](../Page/KBS_연예대상.md "wikilink") MC 진행으로 인하여, [2008년](../Page/2008년.md "wikilink") [12월 27일](../Page/12월_27일.md "wikilink") 방송분은 [오정연](../Page/오정연.md "wikilink") 前 아나운서가 대신 진행하였다.
 14. [한상헌](../Page/한상헌.md "wikilink") 아나운서의 휴가 또는 출장으로 인하여, [2015년](../Page/2015년.md "wikilink") [7월 4일](../Page/7월_4일.md "wikilink") \~ [2015년](../Page/2015년.md "wikilink") [7월 12일](../Page/7월_12일.md "wikilink") 방송분은 [박태원](../Page/박태원_\(아나운서\).md "wikilink") 아나운서(現. [KBS 글로벌 24](../Page/KBS_글로벌_24.md "wikilink") 글로벌 브리핑 앵커)가, [2016년](../Page/2016년.md "wikilink") [1월 23일](../Page/1월_23일.md "wikilink") 방송분은 [김기만](../Page/김기만_\(아나운서\).md "wikilink") 아나운서(現. [지구촌 뉴스](../Page/지구촌_뉴스.md "wikilink") 앵커)가, [2016년](../Page/2016년.md "wikilink") [10월 1일](../Page/10월_1일.md "wikilink") \~ [2016년](../Page/2016년.md "wikilink") [10월 2일](../Page/10월_2일.md "wikilink") 방송분은 [조항리](https://ko.wikipedia.org/wiki/조항리 "wikilink") 아나운서가, [2017년](../Page/2017년.md "wikilink") [8월 19일](../Page/8월_19일.md "wikilink") \~ [2017년](../Page/2017년.md "wikilink") [8월 20일](../Page/8월_20일.md "wikilink") 방송분은 주말 KBS 스포츠 9의 11대 앵커인 [김승휘](../Page/김승휘.md "wikilink") 아나운서가 대신 진행하였다.

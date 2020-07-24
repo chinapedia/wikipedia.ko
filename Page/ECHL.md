@@ -597,7 +597,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/시카고_익스프레스" title="wikilink">시카고 익스프레스</a></p></td>
+<td><p><a href="../Page/시카고_익스프레스.md" title="wikilink">시카고 익스프레스</a></p></td>
 <td><p><a href="../Page/일리노이주.md" title="wikilink">일리노이주</a> <a href="https://ko.wikipedia.org/wiki/호프만_에스테이츠" title="wikilink">호프만 에스테이츠</a></p></td>
 <td><p><a href="../Page/시어스_센터.md" title="wikilink">시어스 센터</a></p></td>
 <td><p>8,362명</p></td>
