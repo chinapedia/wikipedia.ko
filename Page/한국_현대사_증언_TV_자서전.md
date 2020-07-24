@@ -392,7 +392,7 @@
 <tr class="even">
 <td><p>57</p></td>
 <td><p><a href="../Page/3월_11일.md" title="wikilink">3월 11일</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/천규덕" title="wikilink">천규덕</a></p></td>
+<td><p><a href="../Page/천규덕.md" title="wikilink">천규덕</a></p></td>
 <td><p><a href="../Page/프로레슬링.md" title="wikilink">프로레슬링</a>의 전설</p></td>
 </tr>
 <tr class="odd">

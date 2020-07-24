@@ -121,7 +121,7 @@
 
 ### 시청자의 눈
 
-  - [남현종](https://ko.wikipedia.org/wiki/남현종 "wikilink") (남) - [KBS의](../Page/한국방송공사.md "wikilink") 아나운서
+  - [남현종](../Page/남현종.md "wikilink") (남) - [KBS의](../Page/한국방송공사.md "wikilink") 아나운서
   - ??? (여) - [KBS의](../Page/한국방송공사.md "wikilink") 아나운서
 
 ### 역대 MC
@@ -423,7 +423,7 @@
 </tr>
 <tr class="even">
 <td><p>17기</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/남현종" title="wikilink">남현종</a></p></td>
+<td><p><a href="../Page/남현종.md" title="wikilink">남현종</a></p></td>
 <td><p><a href="../Page/2019년.md" title="wikilink">2019년</a> <a href="../Page/9월_27일.md" title="wikilink">9월 27일</a> ~ <a href="../Page/2019년.md" title="wikilink">2019년</a> <a href="../Page/10월_4일.md" title="wikilink">10월 4일</a><br />
 <a href="../Page/2019년.md" title="wikilink">2019년</a> <a href="../Page/10월_18일.md" title="wikilink">10월 18일</a> ~ <a href="../Page/2019년.md" title="wikilink">2019년</a> <a href="../Page/11월_8일.md" title="wikilink">11월 8일</a><br />
 <a href="../Page/2019년.md" title="wikilink">2019년</a> <a href="../Page/11월_22일.md" title="wikilink">11월 22일</a> ~ <a href="../Page/2019년.md" title="wikilink">2019년</a> <a href="../Page/12월_13일.md" title="wikilink">12월 13일</a><br />

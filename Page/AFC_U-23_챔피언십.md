@@ -10,11 +10,11 @@
 1회 대회부터 적용될 대회 방식은 다음과 같다.
 
   - 자동 본선 진출권을 가진 개최국을 포함한 16개 팀이 본선에 출전한다.
-  - [2010년 AFC U-19 챔피언십](https://ko.wikipedia.org/wiki/2010년_AFC_U-19_챔피언십 "wikilink") 결과에 따라 시드를 배정한다.
+  - [2010년 AFC U-19 챔피언십](../Page/2010년_AFC_U-19_챔피언십.md "wikilink") 결과에 따라 시드를 배정한다.
   - 본선 일정은 16일 동안 진행된다.
   - 본선 개최를 위해서는 최대 2개 도시의 3\~4개 경기장을 필요로 한다.
   - 개최국은 지역별 순환 개최를 원칙으로 하며, 첫 대회 개최 지역은 추첨에 의해 결정될 예정이다.
-  - 고연령대 대회 출전자(예, U-22대회)는 나이 제한 규정과 무관하게 당해 연도의 저연령대 대회(예, [U-19대회](../Page/AFC_U-19_챔피언십.md "wikilink") 또는 [U-16대회](https://ko.wikipedia.org/wiki/AFC_U-16_챔피언십 "wikilink"))에 참가하는 것이 금지된다.
+  - 고연령대 대회 출전자(예, U-22대회)는 나이 제한 규정과 무관하게 당해 연도의 저연령대 대회(예, [U-19대회](../Page/AFC_U-19_챔피언십.md "wikilink") 또는 [U-16대회](../Page/AFC_U-16_챔피언십.md "wikilink"))에 참가하는 것이 금지된다.
 
 ## 역대 대회
 
@@ -56,7 +56,7 @@
 </tr>
 <tr class="odd">
 <td><p>2013<br />
-<em><a href="https://ko.wikipedia.org/wiki/2013년_AFC_U-22_챔피언십" title="wikilink">자세히</a></em></p></td>
+<em><a href="../Page/2013년_AFC_U-22_챔피언십.md" title="wikilink">자세히</a></em></p></td>
 <td></td>
 <td></td>
 <td><p><br />
@@ -577,7 +577,7 @@
 <thead>
 <tr class="header">
 <th><p>대회</p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/2013년_AFC_U-22_챔피언십" title="wikilink">2013</a></p></th>
+<th><p><a href="../Page/2013년_AFC_U-22_챔피언십.md" title="wikilink">2013</a></p></th>
 <th><p><a href="https://ko.wikipedia.org/wiki/2016년_AFC_U-23_챔피언십" title="wikilink">2016</a></p></th>
 <th><p><a href="https://ko.wikipedia.org/wiki/2018년_AFC_U-23_챔피언십" title="wikilink">2018</a></p></th>
 <th><p><a href="https://ko.wikipedia.org/wiki/2020년_AFC_U-23_챔피언십" title="wikilink">2020</a></p></th>

@@ -27,7 +27,7 @@
 
 ## 같이 보기
 
-  - [창원 메트로시티 1차](https://ko.wikipedia.org/wiki/창원_메트로시티_1차 "wikilink")
+  - [창원 메트로시티 1차](../Page/창원_메트로시티_1차.md "wikilink")
   - [창원 메트로시티 2차](../Page/창원_메트로시티_2차.md "wikilink")
   - [가고파초등학교](../Page/가고파초등학교.md "wikilink")
   - [마산야구센터](../Page/마산야구센터.md "wikilink")

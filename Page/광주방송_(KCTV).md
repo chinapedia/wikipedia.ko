@@ -125,7 +125,7 @@
   - 38-1번 [코미디TV](https://ko.wikipedia.org/wiki/코미디TV "wikilink")
   - 38-2번 [드라마H](https://ko.wikipedia.org/wiki/드라마H "wikilink")
   - 39-1번 [드라맥스](../Page/드라맥스.md "wikilink")
-  - 40-1번 [CNTV](https://ko.wikipedia.org/wiki/CNTV "wikilink")
+  - 40-1번 [CNTV](../Page/CNTV.md "wikilink")
   - 41-1번 [AXN](https://ko.wikipedia.org/wiki/AXN "wikilink")
   - 41-2번 [M.PLEX](https://ko.wikipedia.org/wiki/Mplex "wikilink")
   - 41-3번 [인디필름](https://ko.wikipedia.org/wiki/인디필름 "wikilink")
@@ -236,7 +236,7 @@
   - 042번 [디원](https://ko.wikipedia.org/wiki/디원TV "wikilink")
   - 043번 [드라맥스](../Page/드라맥스.md "wikilink")
   - 044번 쇼핑엔티
-  - 045번 [CNTV](https://ko.wikipedia.org/wiki/CNTV "wikilink")
+  - 045번 [CNTV](../Page/CNTV.md "wikilink")
   - 046번 [GTV](../Page/GTV_\(방송_채널\).md "wikilink")
   - 047번 [M.net](https://ko.wikipedia.org/wiki/Mnet "wikilink")
   - 048번 [O tvN](https://ko.wikipedia.org/wiki/O_tvN "wikilink")

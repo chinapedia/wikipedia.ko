@@ -51,7 +51,7 @@
 
 (센터: 마에다 아츠코)
 
-  - 팀A: [시노다 마리코](../Page/시노다_마리코.md "wikilink"), [코지마 하루나](https://ko.wikipedia.org/wiki/고지마_하루나 "wikilink"), [타카하시 미나미](https://ko.wikipedia.org/wiki/다카하시_미나미 "wikilink"), [타카죠 아키](../Page/다카조_아키.md "wikilink"), [사시하라 리노](../Page/사시하라_리노.md "wikilink"), [마에다 아츠코](https://ko.wikipedia.org/wiki/마에다_아쓰코 "wikilink")
+  - 팀A: [시노다 마리코](../Page/시노다_마리코.md "wikilink"), [코지마 하루나](../Page/고지마_하루나.md "wikilink"), [타카하시 미나미](https://ko.wikipedia.org/wiki/다카하시_미나미 "wikilink"), [타카죠 아키](../Page/다카조_아키.md "wikilink"), [사시하라 리노](../Page/사시하라_리노.md "wikilink"), [마에다 아츠코](https://ko.wikipedia.org/wiki/마에다_아쓰코 "wikilink")
   - 팀K: [오오시마 유코](../Page/오시마_유코.md "wikilink"), [미야자와 사에](../Page/미야자와_사에.md "wikilink"), [이타노 토모미](https://ko.wikipedia.org/wiki/이타노_도모미 "wikilink"), [미네기시 미나미](../Page/미네기시_미나미.md "wikilink"), [요코야마 유이](../Page/요코야마_유이.md "wikilink")
   - 팀B: [카시와기 유키](https://ko.wikipedia.org/wiki/가시와기_유키 "wikilink"), [키타하라 리에](https://ko.wikipedia.org/wiki/기타하라_리에 "wikilink"), [카사이 토모미](https://ko.wikipedia.org/wiki/가사이_도모미 "wikilink"), [와타나베 마유](../Page/와타나베_마유.md "wikilink")
   - [SKE48](../Page/SKE48.md "wikilink") 팀S: [마츠이 쥬리나](https://ko.wikipedia.org/wiki/마쓰이_주리나 "wikilink"), [마츠이 레나](https://ko.wikipedia.org/wiki/마쓰이_레나 "wikilink")

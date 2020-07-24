@@ -68,7 +68,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/2011년_AFC_U-19_여자_챔피언십" title="wikilink">2011</a></p></td>
+<td><p><a href="../Page/2011년_AFC_U-19_여자_챔피언십.md" title="wikilink">2011</a></p></td>
 <td><p><br />
 <a href="https://ko.wikipedia.org/wiki/호찌민_시" title="wikilink">호찌민 시</a></p></td>
 <td></td>
@@ -86,7 +86,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/2015년_AFC_U-19_여자_챔피언십" title="wikilink">2015</a></p></td>
+<td><p><a href="../Page/2015년_AFC_U-19_여자_챔피언십.md" title="wikilink">2015</a></p></td>
 <td><p><br />
 <a href="https://ko.wikipedia.org/wiki/난징_시" title="wikilink">난징 시</a></p></td>
 <td></td>
@@ -95,7 +95,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/2017년_AFC_U-19_여자_챔피언십" title="wikilink">2017</a></p></td>
+<td><p><a href="../Page/2017년_AFC_U-19_여자_챔피언십.md" title="wikilink">2017</a></p></td>
 <td><p><br />
 <a href="https://ko.wikipedia.org/wiki/난징_시" title="wikilink">난징 시</a></p></td>
 <td></td>

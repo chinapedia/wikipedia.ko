@@ -140,7 +140,7 @@
 
 ## 같이 보기
 
-  - [채널A 주말드라마](https://ko.wikipedia.org/wiki/채널A_주말드라마 "wikilink")
+  - [채널A 주말드라마](../Page/채널A_주말드라마.md "wikilink")
   - [tvN 토일드라마](https://ko.wikipedia.org/wiki/tvN_토일드라마 "wikilink")
 
 [분류:TV조선의 텔레비전 드라마](https://ko.wikipedia.org/wiki/분류:TV조선의_텔레비전_드라마 "wikilink") [\*](https://ko.wikipedia.org/wiki/분류:TV조선_주말드라마 "wikilink")

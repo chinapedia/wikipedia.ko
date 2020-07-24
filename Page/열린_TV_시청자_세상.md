@@ -31,7 +31,7 @@
 
 ## 현재 진행자
 
-  - **메인 진행자** : [신용철](https://ko.wikipedia.org/wiki/신용철 "wikilink"), [이현경](../Page/이현경_\(방송인\).md "wikilink")
+  - **메인 진행자** : [신용철](../Page/신용철.md "wikilink"), [이현경](../Page/이현경_\(방송인\).md "wikilink")
   - **보조 진행자** : [김수민](https://ko.wikipedia.org/wiki/김수민_\(아나운서\) "wikilink")
 
 ## 역대 진행자

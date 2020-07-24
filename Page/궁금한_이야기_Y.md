@@ -180,7 +180,7 @@
 
 ### IPTV형 방송 채널 (SBS TV 포함)
 
-  - [원더풀 라디오 강수지입니다](https://ko.wikipedia.org/wiki/원더풀_라디오_\(라디오_프로그램\) "wikilink") ([MBC 표준FM](../Page/MBC_표준FM.md "wikilink"))
+  - [원더풀 라디오 강수지입니다](../Page/원더풀_라디오_\(라디오_프로그램\).md "wikilink") ([MBC 표준FM](../Page/MBC_표준FM.md "wikilink"))
   - [이준의 영스트리트](../Page/영스트리트_\(라디오_프로그램\).md "wikilink") ([SBS 파워FM](../Page/SBS_파워FM.md "wikilink"))
   - [요즘 육아 금쪽같은 내새끼](https://ko.wikipedia.org/wiki/요즘_육아_금쪽같은_내새끼 "wikilink") ([채널A](../Page/채널A.md "wikilink"))
 

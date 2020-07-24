@@ -47,7 +47,7 @@
   - [IB 스포츠](https://ko.wikipedia.org/wiki/IB_스포츠 "wikilink")
   - [스카이 스포츠 (대한민국)](../Page/스카이_스포츠_\(대한민국\).md "wikilink")
   - [에이클라 엔터테인먼트](https://ko.wikipedia.org/wiki/에이클라_엔터테인먼트 "wikilink")
-  - [SPOTV Golf & Health](https://ko.wikipedia.org/wiki/SPOTV_Golf_&_Health "wikilink")
+  - [SPOTV Golf & Health](../Page/SPOTV_Golf_&_Health.md "wikilink")
   - [SPOTV2](https://ko.wikipedia.org/wiki/SPOTV2 "wikilink")
   - [SPOTV Games](../Page/SPOTV_Games.md "wikilink")
 

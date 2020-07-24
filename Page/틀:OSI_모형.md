@@ -52,7 +52,7 @@
       - [IPv4](../Page/IPv4.md "wikilink")
       - [IPv6](../Page/IPv6.md "wikilink")
   - [ICMP](../Page/인터넷_제어_메시지_프로토콜.md "wikilink")
-  - [IPsec](https://ko.wikipedia.org/wiki/IPsec "wikilink")
+  - [IPsec](../Page/IPsec.md "wikilink")
   - [IGMP](https://ko.wikipedia.org/wiki/인터넷_그룹_관리_프로토콜 "wikilink")
   - [IPX](../Page/IPX.md "wikilink")
   - [애플토크](../Page/애플토크.md "wikilink")

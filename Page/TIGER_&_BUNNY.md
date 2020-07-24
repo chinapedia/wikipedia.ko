@@ -27,7 +27,7 @@ MBS 제작 [독립 UHF국 계열 애니메이션은](https://ko.wikipedia.org/wi
 
 <poem>
 
-<big>**와일드 타이거(Wild Tiger)**</big><sup>정의의 파괴자</sup> <big>**/카부라기.T.코테츠(Kotetsu.T.Kaburagi)**</big> 성우-[히라타 히로아키](https://ko.wikipedia.org/wiki/히라타_히로아키 "wikilink")
+<big>**와일드 타이거(Wild Tiger)**</big><sup>정의의 파괴자</sup> <big>**/카부라기.T.코테츠(Kotetsu.T.Kaburagi)**</big> 성우-[히라타 히로아키](../Page/히라타_히로아키.md "wikilink")
 
 아폴론 미디어 소속의 베테랑 히어로. 능력은 \[5분간 모든 신체능력이 100배\](헌드레드파워) 펀치가 특기 \[와일드하게 부르짖는다\!\!\]가 결정구.
 

@@ -50,14 +50,14 @@
 <td><p><strong>4 - 0</strong></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/2011년_AFC_U-16_여자_챔피언십" title="wikilink">2011년</a></p></td>
+<td><p><a href="../Page/2011년_AFC_U-16_여자_챔피언십.md" title="wikilink">2011년</a></p></td>
 <td></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Flag_of_Japan.svg" title="wikilink">30px</a><br />
 <strong><a href="../Page/일본_여자_축구_국가대표팀.md" title="wikilink">일본</a></strong></p></td>
 <td><p>없음</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/2013년_AFC_U-16_여자_챔피언십" title="wikilink">2013년</a></p></td>
+<td><p><a href="../Page/2013년_AFC_U-16_여자_챔피언십.md" title="wikilink">2013년</a></p></td>
 <td></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Flag_of_Japan.svg" title="wikilink">30px</a><br />
 <strong><a href="../Page/일본_여자_축구_국가대표팀.md" title="wikilink">일본</a></strong></p></td>
@@ -65,14 +65,14 @@
 (<a href="../Page/승부차기.md" title="wikilink">승부차기</a> 6 - 5)</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/2015년_AFC_U-16_여자_챔피언십" title="wikilink">2015년</a></p></td>
+<td><p><a href="../Page/2015년_AFC_U-16_여자_챔피언십.md" title="wikilink">2015년</a></p></td>
 <td></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Flag_of_North_Korea.svg" title="wikilink">30px</a><br />
 <strong><a href="../Page/조선민주주의인민공화국_여자_축구_국가대표팀.md" title="wikilink">조선민주주의인민공화국</a></strong></p></td>
 <td><p><strong>1 - 0</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/2017년_AFC_U-16_여자_챔피언십" title="wikilink">2017년</a></p></td>
+<td><p><a href="../Page/2017년_AFC_U-16_여자_챔피언십.md" title="wikilink">2017년</a></p></td>
 <td></td>
 <td><p><strong><a href="https://ko.wikipedia.org/wiki/파일:Flag_of_North_Korea.svg" title="wikilink">30px</a><br />
 <a href="../Page/조선민주주의인민공화국_여자_축구_국가대표팀.md" title="wikilink">조선민주주의인민공화국</a></strong></p></td>

@@ -49,7 +49,7 @@ AKB48와 히카리TV의 대형 타이업 기획으로, [2011년](../Page/2011년
 <tr class="odd">
 <td><p>3</p></td>
 <td><p>7월 13일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/고지마_하루나" title="wikilink">고지마 하루나</a></p></td>
+<td><p><a href="../Page/고지마_하루나.md" title="wikilink">고지마 하루나</a></p></td>
 <td><p>당시까지의 모든 싱글 타이틀 말하기</p></td>
 </tr>
 <tr class="even">
