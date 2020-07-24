@@ -100,7 +100,7 @@
   - [채널J](../Page/채널J.md "wikilink")
   - [디스커버리채널](../Page/디스커버리_채널.md "wikilink")
   - [SmileTV](https://ko.wikipedia.org/wiki/SmileTV "wikilink")
-  - [K-STAR](https://ko.wikipedia.org/wiki/K-STAR "wikilink")
+  - [K-STAR](../Page/K-STAR.md "wikilink")
   - [온스타일](https://ko.wikipedia.org/wiki/온스타일 "wikilink")
   - [JTBC골프](../Page/JTBC_GOLF.md "wikilink")
   - [골프 채널 코리아](https://ko.wikipedia.org/wiki/골프_채널 "wikilink")
@@ -115,7 +115,7 @@
   - [OtvN](https://ko.wikipedia.org/wiki/OtvN "wikilink")
   - [애니박스](../Page/애니박스.md "wikilink")
   - [리얼TV](https://ko.wikipedia.org/wiki/리얼TV "wikilink")
-  - [CNTV](https://ko.wikipedia.org/wiki/CNTV "wikilink")
+  - [CNTV](../Page/CNTV.md "wikilink")
   - [한국직업방송](../Page/한국직업방송.md "wikilink")
   - [소비자TV](../Page/소비자TV.md "wikilink")
 

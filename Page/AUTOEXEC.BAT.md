@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [AUTOEXEC.BAT](https://ko.wikipedia.org/wiki/AUTOEXEC.BAT).
 
 
-**AUTOEXEC.BAT**는 [MS-DOS](../Page/MS-DOS.md "wikilink") [운영 체제에서](../Page/운영_체제.md "wikilink") 찾을 수 있는 시스템 파일의 이름이다. 순수 문자열이 담긴 배치 파일이며 시동 장치의 [루트 디렉터리에](https://ko.wikipedia.org/wiki/루트_디렉터리 "wikilink") 위치해 있다. 이 파일의 이름은 "automatic (자동)"과 "execution (실행)"을 합친 것이며, 시스템이 시작할 때 자동으로 [명령어들을](https://ko.wikipedia.org/wiki/명령어_\(컴퓨팅\) "wikilink") 실행할 수 있도록 도와 주는 기능을 제공한다.
+**AUTOEXEC.BAT**는 [MS-DOS](../Page/MS-DOS.md "wikilink") [운영 체제에서](../Page/운영_체제.md "wikilink") 찾을 수 있는 시스템 파일의 이름이다. 순수 문자열이 담긴 배치 파일이며 시동 장치의 [루트 디렉터리에](https://ko.wikipedia.org/wiki/루트_디렉터리 "wikilink") 위치해 있다. 이 파일의 이름은 "automatic (자동)"과 "execution (실행)"을 합친 것이며, 시스템이 시작할 때 자동으로 [명령어들을](../Page/명령어_\(컴퓨팅\).md "wikilink") 실행할 수 있도록 도와 주는 기능을 제공한다.
 
 ## 사용법
 

@@ -281,14 +281,14 @@
 
   - 조계식(1993\~1994, 아나운서부장, 전 KBS 부산총국)
   - [이재홍](../Page/이재홍_\(아나운서\).md "wikilink")(1998\~1999, 현 KBS 서울본국)
-  - [김동우](https://ko.wikipedia.org/wiki/김동우_\(아나운서\) "wikilink")(2000\~2001, 아나운서부장, 현 KBS 서울본국)
+  - [김동우](../Page/김동우_\(아나운서\).md "wikilink")(2000\~2001, 아나운서부장, 현 KBS 서울본국)
   - [김재홍](../Page/김재홍_\(아나운서\).md "wikilink")(2005\~2007, 현 KBS 서울본국)
   - [차재환](https://ko.wikipedia.org/wiki/차재환 "wikilink")(2010\~2014, 현 KBS 부산총국)
   - [김선근](../Page/김선근.md "wikilink")(2014\~2015, 현 KBS 서울본국)
   - [노병무](https://ko.wikipedia.org/wiki/노병무 "wikilink")(1982\~2016, 정년퇴직)
   - [이재성](../Page/이재성_\(1987년\).md "wikilink")(2015\~2017, 현 KBS 서울본국)
   - [이성민](../Page/이성민_\(아나운서\).md "wikilink")(2017\~2018, 현 KBS 서울본국)
-  - [남현종](https://ko.wikipedia.org/wiki/남현종 "wikilink")(2018\~2019, 현 KBS 서울본국)
+  - [남현종](../Page/남현종.md "wikilink")(2018\~2019, 현 KBS 서울본국)
   - [신석진](https://ko.wikipedia.org/wiki/신석진 "wikilink")(1985\~2019, 정년퇴직)
 
 ### 여성

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [IS-LM 모형](https://ko.wikipedia.org/wiki/IS-LM_모형).
 
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:Islm.svg "wikilink") **IS-LM 모형**은 [거시경제](https://ko.wikipedia.org/wiki/거시경제 "wikilink")에서의 [이자율](https://ko.wikipedia.org/wiki/이자율 "wikilink")과 [국민소득](https://ko.wikipedia.org/wiki/국민소득 "wikilink")과의 관계를 분석하는 [경제모형](https://ko.wikipedia.org/wiki/경제모형 "wikilink")이다. 현재 물가(P)가 고정되어 있다는 가정하에 한 경제 주체의 국민소득(Y)를 구하는 데 목적이 있다. 한 경제가 어떻게 이루어지며, 변동하는지에 대해 알아보는 것이 분석의 목적이지만, 궁극적으로는 정부의 [재정 정책](https://ko.wikipedia.org/wiki/재정_정책 "wikilink")(fiscal policy)과 [통화 정책](../Page/통화_정책.md "wikilink") (monetary)의 효과와 그 영향을 살펴보는 데 의의가 있다. IS곡선은 시장에서 모든 재화와 서비스를, 그리고 LM곡선은 화폐시장에서의 수요와 공급이 총 생산(Y) 와 이자율(r)에 따라 어떻게 변화하는지를 나타내는 곡선이다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:Islm.svg "wikilink") **IS-LM 모형**은 [거시경제](https://ko.wikipedia.org/wiki/거시경제 "wikilink")에서의 [이자율](https://ko.wikipedia.org/wiki/이자율 "wikilink")과 [국민소득](https://ko.wikipedia.org/wiki/국민소득 "wikilink")과의 관계를 분석하는 [경제모형](https://ko.wikipedia.org/wiki/경제모형 "wikilink")이다. 현재 물가(P)가 고정되어 있다는 가정하에 한 경제 주체의 국민소득(Y)를 구하는 데 목적이 있다. 한 경제가 어떻게 이루어지며, 변동하는지에 대해 알아보는 것이 분석의 목적이지만, 궁극적으로는 정부의 [재정 정책](../Page/재정_정책.md "wikilink")(fiscal policy)과 [통화 정책](../Page/통화_정책.md "wikilink") (monetary)의 효과와 그 영향을 살펴보는 데 의의가 있다. IS곡선은 시장에서 모든 재화와 서비스를, 그리고 LM곡선은 화폐시장에서의 수요와 공급이 총 생산(Y) 와 이자율(r)에 따라 어떻게 변화하는지를 나타내는 곡선이다.
 
 ## 의의
 

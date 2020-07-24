@@ -36,7 +36,7 @@
 
   - [IPv4](../Page/IPv4.md "wikilink"), [IPv6](../Page/IPv6.md "wikilink"), [전송 제어 프로토콜](../Page/전송_제어_프로토콜.md "wikilink")(TCP), [사용자 데이터그램 프로토콜](../Page/사용자_데이터그램_프로토콜.md "wikilink")(UDP), [IEEE 802.11](../Page/IEEE_802.11.md "wikilink"), [WEP](https://ko.wikipedia.org/wiki/WEP "wikilink"), [IEEE 802.11i](https://ko.wikipedia.org/wiki/IEEE_802.11i "wikilink")
   - [RMON](https://ko.wikipedia.org/wiki/RMON "wikilink"), [SNMP](https://ko.wikipedia.org/wiki/SNMP "wikilink") v1, v2, v3
-  - [IPsec](https://ko.wikipedia.org/wiki/IPsec "wikilink") & [IKE](https://ko.wikipedia.org/wiki/IKE "wikilink"), [PPTP](https://ko.wikipedia.org/wiki/PPTP "wikilink"), [L2TP](https://ko.wikipedia.org/wiki/L2TP "wikilink")
+  - [IPsec](../Page/IPsec.md "wikilink") & [IKE](https://ko.wikipedia.org/wiki/IKE "wikilink"), [PPTP](https://ko.wikipedia.org/wiki/PPTP "wikilink"), [L2TP](https://ko.wikipedia.org/wiki/L2TP "wikilink")
   - [SSL](https://ko.wikipedia.org/wiki/SSL "wikilink") 2.0 & 3.0, [TLS](https://ko.wikipedia.org/wiki/트랜스포트_레이어_보안 "wikilink") 1.0
 
 ### 파일 시스템

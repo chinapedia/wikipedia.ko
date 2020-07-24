@@ -32,7 +32,7 @@
   - [2004년](../Page/2004년.md "wikilink") - 추석 특별 생방송 ’우린 추석이 좋다’ 편성(매년 추석 기간 내 총 3일간 방영).
   - [2010년](../Page/2010년.md "wikilink") - 설날 특별 생방송 ’우린 설날이 좋다’ 편성(매년 설날 기간 내 총 3일간 방영).
   - [2014년](../Page/2014년.md "wikilink") [8월 4일](../Page/8월_4일.md "wikilink") - 여의도 사옥 라디오국 표준FM 방송 송출 종료, 상암 사옥 라디오국 표준FM 방송 송출 시작.
-  - [2017년](../Page/2017년.md "wikilink") [9월 4일](../Page/9월_4일.md "wikilink") \~ [2017년](../Page/2017년.md "wikilink") [11월 19일](../Page/11월_19일.md "wikilink") - [민노총](https://ko.wikipedia.org/wiki/민노총 "wikilink") 소속인 [전국언론노동조합](../Page/전국언론노동조합.md "wikilink") [MBC](https://ko.wikipedia.org/wiki/MBC "wikilink")본부(제1노조)의 파업 돌입으로 평일에는 오전 9시부터 오후 6시까지 방송되던 일부 프로그램만 송출되었으며, 주말에는 모든 프로그램이 결방되어 정시 뉴스를 제외한 [라디오 음악여행으로](https://ko.wikipedia.org/wiki/Channel_M "wikilink") 24시간 대체하였다.
+  - [2017년](../Page/2017년.md "wikilink") [9월 4일](../Page/9월_4일.md "wikilink") \~ [2017년](../Page/2017년.md "wikilink") [11월 19일](../Page/11월_19일.md "wikilink") - [민노총](https://ko.wikipedia.org/wiki/민노총 "wikilink") 소속인 [전국언론노동조합](../Page/전국언론노동조합.md "wikilink") [MBC](https://ko.wikipedia.org/wiki/MBC "wikilink")본부(제1노조)의 파업 돌입으로 평일에는 오전 9시부터 오후 6시까지 방송되던 일부 프로그램만 송출되었으며, 주말에는 모든 프로그램이 결방되어 정시 뉴스를 제외한 [라디오 음악여행으로](../Page/Channel_M.md "wikilink") 24시간 대체하였다.
   - [2017년](../Page/2017년.md "wikilink") [11월 20일](../Page/11월_20일.md "wikilink") - 라디오 정규 방송이 재개되었다.
   - [2018년](../Page/2018년.md "wikilink") [9월 18일](../Page/9월_18일.md "wikilink") - 동두천 중계소(주파수 초단파 104.1㎒, 출력 100W) 개국.
 
@@ -160,7 +160,7 @@ o</p></td>
 </tr>
 <tr class="even">
 <td><p>20:05</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/원더풀_라디오_(라디오_프로그램)" title="wikilink">원더풀 라디오 강수지입니다</a> (1, 2, 3, 4부) (전국방송)<br />
+<td><p><a href="../Page/원더풀_라디오_(라디오_프로그램).md" title="wikilink">원더풀 라디오 강수지입니다</a> (1, 2, 3, 4부) (전국방송)<br />
 <a href="../Page/좋은_주말.md" title="wikilink">이윤석, 전영미의 좋은 주말</a> (5, 6, 7부) (전국방송)</p></td>
 <td><p>o</p></td>
 </tr>

@@ -158,7 +158,7 @@
   - 16강 3전2선승제 실시
   - 승자조 8강 1차 야외무대 장소 : 코엑스 태평양홀 1층 특설무대(MBC게임 개인리그 최초로 결승전이 아닌 야외무대 경기)
   - 승자결승, 패자준결승, 패자결승 5전3선승제 실시
-  - 결승전 장소 : 부산 [사직실내체육관](../Page/사직실내체육관.md "wikilink") (프로농구 [부산 KT 소닉붐의](https://ko.wikipedia.org/wiki/부산_KT_소닉붐 "wikilink") 홈 경기장)
+  - 결승전 장소 : 부산 [사직실내체육관](../Page/사직실내체육관.md "wikilink") (프로농구 [부산 KT 소닉붐의](../Page/부산_KT_소닉붐.md "wikilink") 홈 경기장)
   - 우승 [박태민](../Page/박태민_\(프로게이머\).md "wikilink"), 준우승 [이윤열](../Page/이윤열.md "wikilink"), 3위 [서지훈](https://ko.wikipedia.org/wiki/서지훈 "wikilink") · [조용호](https://ko.wikipedia.org/wiki/조용호 "wikilink")
 
 #### UZOO MSL

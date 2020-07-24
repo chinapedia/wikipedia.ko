@@ -31,7 +31,7 @@ Royale Noir 테마는 에너지 블루의 다크 버전과 비슷하다. Royale 
 
 ## 준 테마
 
-Royale Noir가 유출된지 몇 주가 지나 마이크로소프트의 새로운 [준](https://ko.wikipedia.org/wiki/준 "wikilink") 미디어 플레이어의 출시와 더불어 준(Zune)이 새로운 테마로 공식 출시되었다.
+Royale Noir가 유출된지 몇 주가 지나 마이크로소프트의 새로운 [준](../Page/준.md "wikilink") 미디어 플레이어의 출시와 더불어 준(Zune)이 새로운 테마로 공식 출시되었다.
 
 ## 임베디드 테마
 
