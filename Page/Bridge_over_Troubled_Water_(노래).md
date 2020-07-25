@@ -7,7 +7,7 @@
 
 ## 상업 실적
 
-이 곡의 5분짜리 길이에도 불구하고, 컬럼비아는 팝 라디오에 〈Bridge Troubled Water〉를 서비스하기로 결정했다. [밥 딜런은](../Page/밥_딜런.md "wikilink") 1965년에 〈[Like a Rolling Stone](https://ko.wikipedia.org/wiki/Like_a_Rolling_Stone "wikilink")〉이라는 곡으로 AM 라디오의 3분짜리 장벽을 지나 컬럼비아의 결정에 영향을 주었다. 1970년 2월 28일 [빌보드 핫 100](../Page/빌보드_핫_100.md "wikilink") 차트 1위에 올랐고, 6주 동안 차트 1위를 지켰다. 〈Bridge over Troubled Water〉는 또한 미국의 어덜트 컨템포러리 차트에서 6주 동안 1위를 차지했다.\[3\] 《[빌보드](../Page/빌보드.md "wikilink")》는 이 곡을 1970년 1위 곡으로 선정했다.\[4\]
+이 곡의 5분짜리 길이에도 불구하고, 컬럼비아는 팝 라디오에 〈Bridge Troubled Water〉를 서비스하기로 결정했다. [밥 딜런은](../Page/밥_딜런.md "wikilink") 1965년에 〈[Like a Rolling Stone](../Page/Like_a_Rolling_Stone.md "wikilink")〉이라는 곡으로 AM 라디오의 3분짜리 장벽을 지나 컬럼비아의 결정에 영향을 주었다. 1970년 2월 28일 [빌보드 핫 100](../Page/빌보드_핫_100.md "wikilink") 차트 1위에 올랐고, 6주 동안 차트 1위를 지켰다. 〈Bridge over Troubled Water〉는 또한 미국의 어덜트 컨템포러리 차트에서 6주 동안 1위를 차지했다.\[3\] 《[빌보드](../Page/빌보드.md "wikilink")》는 이 곡을 1970년 1위 곡으로 선정했다.\[4\]
 
 이 곡은 [미국 음반 산업 협회에](../Page/미국_음반_산업_협회.md "wikilink") 의해 미국에서 백만 장 이상의 골드로 인정받았고, 전세계적으로 600만 장 이상이 팔리면서 가장 많이 팔린 싱글 음반에 포함되었다.\[5\]\[6\]
 
