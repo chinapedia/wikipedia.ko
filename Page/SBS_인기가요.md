@@ -652,7 +652,7 @@
 
   - [1월 25일](../Page/1월_25일.md "wikilink"): [설](https://ko.wikipedia.org/wiki/설 "wikilink")특집 편성으로 인한 결방.
   - [2월 8일](../Page/2월_8일.md "wikilink"): 새봄 맞이 특집.
-  - [5월 24일](../Page/5월_24일.md "wikilink"): 고(故) [노무현](https://ko.wikipedia.org/wiki/노무현 "wikilink") 전(前) 대통령 서거로 국민장을 애도하며 결방되었다.
+  - [5월 24일](../Page/5월_24일.md "wikilink"): 고(故) [노무현](../Page/노무현.md "wikilink") 전(前) 대통령 서거로 국민장을 애도하며 결방되었다.
   - [8월 2일](../Page/8월_2일.md "wikilink") \~ [8월 16일](../Page/8월_16일.md "wikilink"): 여름방학 특집.
   - [8월 23일](../Page/8월_23일.md "wikilink"): 고(故) [김대중](../Page/김대중.md "wikilink") 전(前) 대통령 서거로 국민장을 애도하며 결방되었다.
   - [10월 4일](../Page/10월_4일.md "wikilink"): [추석](../Page/추석.md "wikilink")특집 편성으로 인한 결방.
