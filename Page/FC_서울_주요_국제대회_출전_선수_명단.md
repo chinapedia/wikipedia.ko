@@ -630,7 +630,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/2015년_FIFA_U-17_월드컵" title="wikilink">2015</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/이준서" title="wikilink">이준서</a> (<a href="../Page/골키퍼.md" title="wikilink">GK</a>), <a href="https://ko.wikipedia.org/wiki/차오연" title="wikilink">차오연</a> (<a href="../Page/미드필더.md" title="wikilink">MF</a>)</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/이준서" title="wikilink">이준서</a> (<a href="../Page/골키퍼.md" title="wikilink">GK</a>), <a href="../Page/차오연.md" title="wikilink">차오연</a> (<a href="../Page/미드필더.md" title="wikilink">MF</a>)</p></td>
 <td><div style="text-align: center;">
 <p>2</p></td>
 <td><p><a href="../Page/FC_서울_아카데미.md" title="wikilink">FC 서울 U-18팀</a> (<a href="https://ko.wikipedia.org/wiki/오산고등학교_축구부_(서울)" title="wikilink">오산고등학교</a>)</p></td>

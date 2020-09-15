@@ -171,7 +171,7 @@
 <td><p>베이징 화룬(華潤) 호텔</p></td>
 <td><p><strong><a href="../Page/장쉬.md" title="wikilink">장쉬</a></strong> 九단</p></td>
 <td><p>1-0</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/조한승" title="wikilink">조한승</a> 八단</p></td>
+<td><p><a href="../Page/조한승.md" title="wikilink">조한승</a> 八단</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/18회_TV_바둑_아시아_선수권대회.md" title="wikilink">18</a></p></td>
@@ -195,7 +195,7 @@
 <td><p>베이징 동방문화주점(東方文化酒店)</p></td>
 <td><p><strong><a href="../Page/이세돌.md" title="wikilink">이세돌</a></strong> 九단</p></td>
 <td><p>1-0</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/조한승" title="wikilink">조한승</a> 九단</p></td>
+<td><p><a href="../Page/조한승.md" title="wikilink">조한승</a> 九단</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/21회_TV_바둑_아시아_선수권대회.md" title="wikilink">21</a></p></td>

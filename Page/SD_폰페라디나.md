@@ -5,7 +5,7 @@
 
 ## 성적
 
-  - **[세군다 디비시온 B](https://ko.wikipedia.org/wiki/세군다_디비시온_B "wikilink")**
+  - **[세군다 디비시온 B](../Page/세군다_디비시온_B.md "wikilink")**
       - 우승 3회 (2004–05, 2007–08, 2009–10)
   - **[테르세라 디비시온](https://ko.wikipedia.org/wiki/테르세라_디비시온 "wikilink")**
       - 우승 3회 (1957–58, 1965–66, 1986–87)

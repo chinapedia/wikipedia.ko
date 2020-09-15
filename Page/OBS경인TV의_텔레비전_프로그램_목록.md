@@ -167,7 +167,9 @@ __NOTOC__   다음은 **[OBS의](../Page/OBS경인TV.md "wikilink") 텔레비전
 
   - [Wave K](../Page/Wave_K.md "wikilink")   (2011년 10월 9일 \~ 2012년 3월 4일)
 
-  - [OBS 아침뉴스](https://ko.wikipedia.org/wiki/OBS_아침뉴스 "wikilink")  (2019년 5월 27일 \~ )
+  - [OBS 아침뉴스](../Page/OBS_뉴스아침.md "wikilink")  (2019년 5월 27일 \~ 2020년 1월 23일)
+
+  - [OBS 뉴스아침](../Page/OBS_뉴스아침.md "wikilink")  (2020년 1월 28일 \~ )
 
   - OBS 아침애  (2011년 10월 31일 \~ 2012년 4월 18일)
 
@@ -215,6 +217,8 @@ __NOTOC__   다음은 **[OBS의](../Page/OBS경인TV.md "wikilink") 텔레비전
 
   - OBS 뉴스 23  (2011년 10월 3일 \~ 2013년 4월 12일)
 
+  - [OBS 뉴스 경인플러스](../Page/OBS_뉴스_경인플러스.md "wikilink")  (2020년 7월 27일 \~ )
+
   - [OBS 뉴스 오늘](../Page/OBS_뉴스_오늘.md "wikilink")  (2017년 5월 15일 \~ )
 
   - [OBS 뉴스&이슈](https://ko.wikipedia.org/wiki/OBS_뉴스&이슈 "wikilink")  (2013년 4월 15일 \~ 2017년 3월 17일)
@@ -235,9 +239,9 @@ __NOTOC__   다음은 **[OBS의](../Page/OBS경인TV.md "wikilink") 텔레비전
 
   - [OBS 뉴스 245](https://ko.wikipedia.org/wiki/OBS_뉴스_245 "wikilink")  (2014년 10월 6일 \~ 2015년 9월 11일)
 
-  - [OBS 뉴스 745 (아침)](https://ko.wikipedia.org/wiki/OBS_아침뉴스 "wikilink")  (2015년 3월 30일 \~ 9월 11일)
+  - [OBS 뉴스 745 (아침)](../Page/OBS_뉴스아침.md "wikilink")  (2015년 3월 30일 \~ 2019년 5월 24일)
 
-  - [OBS 뉴스 745](https://ko.wikipedia.org/wiki/OBS_뉴스_745 "wikilink")  (2019년 5월 27일 \~ 10월 27일)
+  - [OBS 뉴스 745](../Page/OBS_뉴스중심.md "wikilink")  (2019년 5월 27일 \~ 2019년 10월 27일)
 
   - [OBS 뉴스 740](https://ko.wikipedia.org/wiki/OBS_뉴스_740 "wikilink")  (2015년 9월 14일 \~ 2016년 4월 22일)
 

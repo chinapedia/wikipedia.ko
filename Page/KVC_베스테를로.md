@@ -7,8 +7,8 @@
 
 ## 성적
 
-  - **[벨기에 2부 리그](https://ko.wikipedia.org/wiki/벨기에_2부_리그 "wikilink")**: 준우승 1회 (1996–97)
-  - **[벨기에 컵](https://ko.wikipedia.org/wiki/벨기에_컵 "wikilink")**: 우승 1회 (2000–01), 준우승 1회 (2010–11)
+  - **[벨기에 2부 리그](../Page/벨기에_2부_리그.md "wikilink")**: 준우승 1회 (1996–97)
+  - **[벨기에 컵](../Page/벨기에_컵.md "wikilink")**: 우승 1회 (2000–01), 준우승 1회 (2010–11)
   - **[벨기에 슈퍼컵](https://ko.wikipedia.org/wiki/벨기에_슈퍼컵 "wikilink")**: 준우승 1회 (2001)
 
 ## 외부 링크

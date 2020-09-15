@@ -36,5 +36,3 @@
   - 캐빈 스틴 & 엘 제네리코가 에이지 오브 더 폴 (지미 제이콥스 & 타일러 블랙)을 꺾고 새로운 RoH 월드 태그팀 챔피언에 등극함
 
 [분류:ROH 페이퍼뷰](https://ko.wikipedia.org/wiki/분류:ROH_페이퍼뷰 "wikilink")
-
-[ru:ROH Driven](https://ko.wikipedia.org/wiki/ru:ROH_Driven "wikilink")

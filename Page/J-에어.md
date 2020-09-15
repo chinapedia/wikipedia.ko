@@ -105,7 +105,7 @@ JAL 항공편으로 운항되지만 일부 기내 서비스는 항공 기준과 
 
 ## JAL 그룹 항공 사업자
 
-  - JAL 그룹은 국제 항공 연합인 [원월드](../Page/원월드.md "wikilink")에 가맹하고 있으나 ※로 표시된 항공사는 [원월드](../Page/원월드.md "wikilink")에 가​​맹하지 않았다.
+  - JAL 그룹은 국제 항공 연합인 [원월드](../Page/원월드.md "wikilink")에 가맹하고 있으나 ※로 표시된 항공사는 [원월드](../Page/원월드.md "wikilink")에 가맹하지 않았다.
 
 <!-- end list -->
 
@@ -127,6 +127,6 @@ JAL 항공편으로 운항되지만 일부 기내 서비스는 항공 기준과 
 
 1.
 2.
-3.  [JAL Announces New Order for Embraer 190 and Additional Order for Embraer 170](http://press.jal.co.jp/en/release/201408/003055.html) *jal.co.jp*
-4.  [JAL Announces New Order for Embraer 190 and Additional Order for Embraer 170](http://press.jal.co.jp/en/release/201408/003055.html) *jal.co.jp*
+3.  [JAL Announces New Order for Embraer 190 and Additional Order for Embraer 170](http://press.jal.co.jp/en/release/201408/003055.html)  *jal.co.jp*
+4.  [JAL Announces New Order for Embraer 190 and Additional Order for Embraer 170](http://press.jal.co.jp/en/release/201408/003055.html)  *jal.co.jp*
 5.  [JAL decides to introduce MRJ as next-generation regional jet](http://press.jal.co.jp/en/release/201408/003054.html) *jal.co.jp*

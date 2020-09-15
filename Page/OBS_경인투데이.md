@@ -15,7 +15,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="../Page/OBS경인TV.md" title="wikilink">OBS경인TV</a></p></td>
+<td><p><a href="../Page/OBS경인TV.md" title="wikilink">OBS</a></p></td>
 <td><p><a href="../Page/2007년.md" title="wikilink">2007년</a> <a href="../Page/12월_29일.md" title="wikilink">12월 29일</a> ~ 2009년 <a href="../Page/4월_7일.md" title="wikilink">4월 7일</a></p></td>
 <td><p>평일 낮 12시 ~ 12시 15분 (15분)<br />
 주말 낮 12시 ~ 12시 10분 (10분)</p></td>
@@ -82,8 +82,8 @@
 ## 관련 항목
 
   - [KBS 뉴스 12](../Page/KBS_뉴스_12.md "wikilink")(KBS 1TV)
-  - [EBS 정오 뉴스](https://ko.wikipedia.org/wiki/EBS_정오_뉴스 "wikilink")(EBS)
-  - [MBC 정오뉴스](https://ko.wikipedia.org/wiki/MBC_정오뉴스 "wikilink")(MBC)
+  - [EBS 정오뉴스](../Page/EBS_정오뉴스.md "wikilink")(EBS)
+  - [12 MBC 뉴스](../Page/12_MBC_뉴스.md "wikilink")(MBC)
   - [SBS 12 뉴스](../Page/SBS_12_뉴스.md "wikilink")(SBS)
 
 ## 외부 링크

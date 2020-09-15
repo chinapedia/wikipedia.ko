@@ -16,4 +16,4 @@
 
   - [쩐의 전쟁 the Original](http://tvn.lifestyler.co.kr/dm/warofmoney/)
 
-[분류:2008년 드라마](https://ko.wikipedia.org/wiki/분류:2008년_드라마 "wikilink") [분류:대한민국의 만화의 텔레비전 드라마화 작품 ‎](https://ko.wikipedia.org/wiki/분류:대한민국의_만화의_텔레비전_드라마화_작품_‎ "wikilink") [분류:대한민국의 범죄 드라마](https://ko.wikipedia.org/wiki/분류:대한민국의_범죄_드라마 "wikilink")
+[분류:2008년 드라마](https://ko.wikipedia.org/wiki/분류:2008년_드라마 "wikilink") [분류:대한민국의 만화의 텔레비전 드라마화 작품](https://ko.wikipedia.org/wiki/분류:대한민국의_만화의_텔레비전_드라마화_작품 "wikilink") [분류:대한민국의 범죄 드라마](https://ko.wikipedia.org/wiki/분류:대한민국의_범죄_드라마 "wikilink")

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [아틀레티코 마드리드 B](https://ko.wikipedia.org/wiki/아틀레티코_마드리드_B).
 
 
-**아틀레티코 마드리드 B**(Atlético Madrid B)는 [스페인](../Page/스페인.md "wikilink") [마드리드 지방의](https://ko.wikipedia.org/wiki/마드리드_지방 "wikilink") [축구](../Page/축구.md "wikilink") 클럽으로 [아틀레티코 마드리드의](https://ko.wikipedia.org/wiki/아틀레티코_마드리드 "wikilink") 리저브 팀이다. 현재는 [세군다 디비시온 B에](https://ko.wikipedia.org/wiki/세군다_디비시온_B "wikilink") 참가하고 있다.
+**아틀레티코 마드리드 B**(Atlético Madrid B)는 [스페인](../Page/스페인.md "wikilink") [마드리드 지방의](https://ko.wikipedia.org/wiki/마드리드_지방 "wikilink") [축구](../Page/축구.md "wikilink") 클럽으로 [아틀레티코 마드리드의](https://ko.wikipedia.org/wiki/아틀레티코_마드리드 "wikilink") 리저브 팀이다. 현재는 [세군다 디비시온 B에](../Page/세군다_디비시온_B.md "wikilink") 참가하고 있다.
 
 ## 외부 링크
 

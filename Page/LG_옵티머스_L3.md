@@ -3,7 +3,7 @@
 
 **LG 옵티머스 L3**(LG Optimus L3)는 [LG전자](../Page/LG전자.md "wikilink")에서 [2012년](../Page/2012년.md "wikilink") [2월](../Page/2월.md "wikilink")에 출시한 보급형 [안드로이드](../Page/안드로이드_\(운영_체제\).md "wikilink") [스마트폰](../Page/스마트폰.md "wikilink")이다.
 
-[LG 옵티머스 시리즈의](../Page/LG_옵티머스_\(제품군\).md "wikilink") G/뷰/L/F 라인 중 L라인으로 보급형 [3G](https://ko.wikipedia.org/wiki/3G "wikilink") 모델이며, 그중 최하위급 모델이다.
+[LG 옵티머스 시리즈의](../Page/LG_옵티머스_\(제품군\).md "wikilink") G/뷰/L/F 라인 중 L라인으로 보급형 [3G](https://ko.wikipedia.org/wiki/3G "wikilink") [모델](https://ko.wikipedia.org/wiki/모델 "wikilink")이며, 그중 최하위급 모델이다.
 
 ## 같이 보기
 

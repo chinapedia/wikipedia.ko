@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [SBS U](https://ko.wikipedia.org/wiki/SBS_U).
 
 
-**SBS u**는 [(주)SBS가](../Page/SBS_\(대한민국의_방송사\).md "wikilink") 운영하는 [지상파DMB](https://ko.wikipedia.org/wiki/지상파DMB "wikilink") 방송국으로, 수도권지역을 가시청권으로 하고 있으며 [2005년](../Page/2005년.md "wikilink") [12월 1일](../Page/12월_1일.md "wikilink") 개국하였다. 현재 비디오 채널 2개와 비주얼 라디오 채널 2개, 데이터 채널 1개를 송출 중이다. 2019년 10월 16일부터 모든 방송 시간에 [SBS TV가](../Page/SBS_TV.md "wikilink") 수중계되고 있다.
+**SBS u**는 [(주)SBS가](../Page/SBS_\(대한민국의_방송사\).md "wikilink") 운영하는 [지상파DMB](https://ko.wikipedia.org/wiki/지상파DMB "wikilink") 방송국으로, 수도권지역을 가시청권으로 하고 있으며 [2005년](../Page/2005년.md "wikilink") [12월 1일](../Page/12월_1일.md "wikilink") 개국하였다. 현재 비디오 채널 2개와 비주얼 라디오 채널 2개, 데이터 채널 1개를 송출 중이다. 모든 방송 시간에 [SBS TV가](../Page/SBS_TV.md "wikilink") 수중계되다가 SBS TV 정파시에는 자체방송으로 넘어간다
 
 ## 채널 목록
 
@@ -21,7 +21,7 @@
 
   -
     모든 방송 시간에 [SBS TV를](../Page/SBS_TV.md "wikilink") 재전송하며 지방에서는 [울산방송](../Page/울산방송.md "wikilink"),[청주방송](../Page/청주방송.md "wikilink"),[전주방송](../Page/전주방송.md "wikilink")(2차민방)을 제외한나머지만 방송하며
-    정규편성을 하지않은 새벽 시간엔 뮤비클럽과 안전365만 방송되고 있다.(일부지역은 자체편성으로 제외될수있으며 본방송시간은 정규편성표에 따라 변경될 수 있다.)
+    정규편성을 하지않은 새벽 시간엔 뮤비클럽과 안전365만 방송되고 있다.(일부지역은 자체편성으로 제외될 수 있으며 본방송시간은 정규편성표에 따라 변경될 수 있다.)
 
 <!-- end list -->
 

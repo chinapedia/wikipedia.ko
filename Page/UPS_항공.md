@@ -13,7 +13,7 @@
 
 ### 1975년 \~ 1988년
 
-[1975년](../Page/1975년.md "wikilink") 본사가 [캐나다](../Page/캐나다.md "wikilink")로 이전 하면서 최초의 국제 서비스를 시작했고 진정한 국제적인 회사가 되기 위해 UPS는 항공기 자체의 비행기가 필요했다.\[2\] 상업 항공편에 의존하면서 자체 항공기가 서슴치 않자 비행기를 제작하게 되었고 [1976년](../Page/1976년.md "wikilink") 처음으로 수익을 올렸다.
+[1975년](../Page/1975년.md "wikilink") 본사가 [캐나다](../Page/캐나다.md "wikilink")로 이전 하면서 최초의 국제 서비스를 시작했고 진정한 국제적인 회사가 되기 위해 UPS는 항공기 자체의 비행기가 필요했다.\[2\] 상업 항공편에 의존하면서 자체 항공기가 서슴지 않자 비행기를 제작하게 되었고 [1976년](../Page/1976년.md "wikilink") 처음으로 수익을 올렸다.
 
 [1978년](../Page/1978년.md "wikilink") 항공법 규제가 완화 되면서 연방 정부가 지금 항공사 간의 경쟁을 격려로 회사가 자신의 항공사를 확립 수 있으며 도시에서 도시로 비행하는 것이 훨씬 적은 입법 장애물이 필요했다. 이 때문에 [UPS](https://ko.wikipedia.org/wiki/UPS "wikilink")에 있어서 가장 중요한 기회를 주었다.
 
@@ -112,7 +112,7 @@ UPS 항공은 전통적인 지주 패턴과 단계 현명한 하강을 교체해
 
 [연합뉴스, "美 UPS기 3년전 두바이 사고 원인은 리튬 배터리"](http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=001&aid=0006391955)</ref>\[11\]
 
-  - [2016년](../Page/2016년.md "wikilink") [6월 6일](../Page/6월_6일.md "wikilink") [UPS 항공 61편](https://ko.wikipedia.org/wiki/UPS_항공_61편 "wikilink") [MD-11](https://ko.wikipedia.org/wiki/MD-11 "wikilink")F기가 [인천국제공항](https://ko.wikipedia.org/wiki/인천국제공항 "wikilink") 이륙하여, [테드 스티븐스 앵커리지 국제공항](https://ko.wikipedia.org/wiki/테드_스티븐스_앵커리지_국제공항 "wikilink") 사고로 활주로 이탈과 노즈 기어 붕괴 사고로 1번과 3번 엔진이 잔디에 닿았지만, 승무원 4명 모두 부상 없이 살아남았다.\[12\]
+  - [2016년](../Page/2016년.md "wikilink") [6월 6일](../Page/6월_6일.md "wikilink") [UPS 항공 61편](https://ko.wikipedia.org/wiki/UPS_항공_61편 "wikilink") [MD-11](https://ko.wikipedia.org/wiki/MD-11 "wikilink")F기가 [인천국제공항](https://ko.wikipedia.org/wiki/인천국제공항 "wikilink") 이륙하여, [테드 스티븐스 앵커리지 국제공항으로](https://ko.wikipedia.org/wiki/테드_스티븐스_앵커리지_국제공항 "wikilink") 가는 UPS 항공은 [인천국제공항](https://ko.wikipedia.org/wiki/인천국제공항 "wikilink")에서 이륙을 하는과정에서 활주로이탈과 노즈 기어 붕괴 사고로 1번과 3번 엔진이 잔디에 닿았지만, 승무원 4명 모두 부상 없이 살아남았다.\[12\]
 
 ## 사진
 

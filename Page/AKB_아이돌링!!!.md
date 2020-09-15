@@ -57,7 +57,7 @@
 
   - [AKB48 공식 사이트](http://www.akb48.co.jp/)
 
-  - [SKE48 공식 사이트 (마츠이가 소속)](http://www.ske48.co.jp/)
+  - [SKE48 공식 사이트 (마츠이가 소속)](https://web.archive.org/web/20180826044825/http://www.ske48.co.jp/)
 
 [분류:일본의 음악 그룹](https://ko.wikipedia.org/wiki/분류:일본의_음악_그룹 "wikilink") [분류:일본의 걸 그룹](https://ko.wikipedia.org/wiki/분류:일본의_걸_그룹 "wikilink") [분류:아이돌링\!\!\!](https://ko.wikipedia.org/wiki/분류:아이돌링!!! "wikilink") [분류:AKB48](https://ko.wikipedia.org/wiki/분류:AKB48 "wikilink") [분류:SKE48](https://ko.wikipedia.org/wiki/분류:SKE48 "wikilink") [분류:10인조 이상 음악 그룹](https://ko.wikipedia.org/wiki/분류:10인조_이상_음악_그룹 "wikilink") [분류:2009년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2009년_결성된_음악_그룹 "wikilink") [분류:유닛 음악 그룹](https://ko.wikipedia.org/wiki/분류:유닛_음악_그룹 "wikilink")
 

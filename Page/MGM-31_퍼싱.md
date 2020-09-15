@@ -16,7 +16,7 @@
 
 **퍼싱 I**은 [레드스톤 미사일의](https://ko.wikipedia.org/wiki/레드스톤_미사일 "wikilink") 후속으로 개발되었다. 길이가 69.3 ft에서 34.6 ft로 줄었고, 사거리는 201 마일에서 460 마일로 늘어났다.
 
-1956년 [마틴 컴퍼니의](https://ko.wikipedia.org/wiki/마틴_컴퍼니 "wikilink") 사장 조지 벙커는 앨러배마 주 레드스톤 무기고를 방문해 미국 육군 탄도 미사일국(ABMA, Army Ballistic Missile Agency)의 [존 메다리스](https://ko.wikipedia.org/wiki/존_메다리스 "wikilink") 대장을 만났다. 메다리스는 플로리다 주 공군 미사일 테스트 센터(현재 [케이프 커내버럴 공군기지](https://ko.wikipedia.org/wiki/케이프_커내버럴_공군기지 "wikilink"))의 근처에 미사일 공장이 있으면 좋겠다고 말했다. 1957년 마틴 컴퍼니는 플로리다 주 올랜도의 샌드 레이크 시설에 미사일 공장을 건설했다. [바주카포](https://ko.wikipedia.org/wiki/바주카포 "wikilink")를 공동개발한 [에드워드 얼이](https://ko.wikipedia.org/wiki/에드워드_얼 "wikilink") 부사장 겸 새로운 공장의 공장장이 되어 운영을 계속하여, 오늘날 록히드 마틴 미사일 공장이 되었다.
+1956년 [마틴 컴퍼니의](https://ko.wikipedia.org/wiki/마틴_컴퍼니 "wikilink") 사장 조지 벙커는 앨러배마 주 레드스톤 무기고를 방문해 미국 육군 탄도 미사일국(ABMA, Army Ballistic Missile Agency)의 [존 메다리스](https://ko.wikipedia.org/wiki/존_메다리스 "wikilink") 대장을 만났다. 메다리스는 플로리다 주 공군 미사일 테스트 센터(현재 [케이프 커내버럴 공군기지](https://ko.wikipedia.org/wiki/케이프_커내버럴_공군기지 "wikilink"))의 근처에 미사일 공장이 있으면 좋겠다고 말했다. 1957년 마틴 컴퍼니는 플로리다 주 올랜도의 샌드 레이크 시설에 미사일 공장을 건설했다. [바주카포](https://ko.wikipedia.org/wiki/바주카포 "wikilink")를 공동개발한 [에드워드 얼이](../Page/에드워드_얼.md "wikilink") 부사장 겸 새로운 공장의 공장장이 되어 운영을 계속하여, 오늘날 록히드 마틴 미사일 공장이 되었다.
 
 1956년 미국 육군은 사거리 500–750 해리 (930–1,390 km)의 탄도 미사일 연구를 시작했다. 1956년 후반에 [찰스 어윈 윌슨](https://ko.wikipedia.org/wiki/찰스_어윈_윌슨 "wikilink") 국방장관은 "윌슨 메모"를 발표했다. 미국 육군은 사거리 200 마일 (320 km) 이상인 탄도 미사일은 보유하지 않겠다는 내용이었다.
 

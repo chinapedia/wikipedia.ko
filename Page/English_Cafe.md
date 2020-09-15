@@ -11,7 +11,7 @@
   - [이지희](../Page/이지희.md "wikilink")
   - [김민희](https://ko.wikipedia.org/wiki/김민희_\(1972년\) "wikilink")
   - [최은희](https://ko.wikipedia.org/wiki/최은희_\(희극인\) "wikilink")
-  - [길수현](https://ko.wikipedia.org/wiki/길수현 "wikilink")
+  - [길수현](../Page/길수현.md "wikilink")
   - [아이작 더스트](https://ko.wikipedia.org/wiki/아이작_더스트 "wikilink")
   - [매튜 리드맨](https://ko.wikipedia.org/wiki/매튜_리드맨 "wikilink")
   - [보이드](https://ko.wikipedia.org/wiki/보이드 "wikilink")

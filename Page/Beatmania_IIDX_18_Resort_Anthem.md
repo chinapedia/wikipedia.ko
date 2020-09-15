@@ -11,7 +11,7 @@
 
   - [beatmaniaIIDX18 Resort Anthem 로케이션 테스트 정보](http://www.konami.jp/am/locationtest/bm2dx18/)
 
-  - [RemyWiki](http://vjarmy.com/wiki/index.php/AC_Resort_Anthem)
+  - [RemyWiki](https://web.archive.org/web/20101201224900/http://vjarmy.com/wiki/index.php/AC_Resort_Anthem)
 
 [분류:2010년 비디오 게임](https://ko.wikipedia.org/wiki/분류:2010년_비디오_게임 "wikilink") [분류:아케이드 게임](https://ko.wikipedia.org/wiki/분류:아케이드_게임 "wikilink") [분류:비트매니아 시리즈](https://ko.wikipedia.org/wiki/분류:비트매니아_시리즈 "wikilink")
 

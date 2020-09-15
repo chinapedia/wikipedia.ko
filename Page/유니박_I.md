@@ -11,7 +11,7 @@
 
 ## 각주
 
-[분류:초기의 컴퓨터](https://ko.wikipedia.org/wiki/분류:초기의_컴퓨터 "wikilink")
+[분류:초기의 컴퓨터](https://ko.wikipedia.org/wiki/분류:초기의_컴퓨터 "wikilink") [분류:진공관 컴퓨터](https://ko.wikipedia.org/wiki/분류:진공관_컴퓨터 "wikilink")
 
 1.  The first commercial computer in the world was the [BINAC](https://ko.wikipedia.org/wiki/BINAC "wikilink") built by the Eckert–Mauchly Computer Corporation and delivered to Northrop Aircraft Company in 1949.
 2.  Johnson, L.R., "Coming to grips with Univac," Annals of the History of Computing, IEEE , vol.28, no.2, pp.32,42, April–June 2006. doi: 10.1109/MAHC.2006.27

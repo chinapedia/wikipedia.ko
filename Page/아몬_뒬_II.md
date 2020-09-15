@@ -55,8 +55,8 @@
   - 1982 Utopia
   - 1995 Nada Moonshine \#
       - 1996 Live In Tokio
-  - 1996 Kobe (Reconstructions) ‎(CD, Album)
-  - 1996 Eternal Flashback ‎(CD, Album)
+  - 1996 Kobe (Reconstructions) (CD, Album)
+  - 1996 Eternal Flashback (CD, Album)
   - 2010 Bee As Such
 
 ### Amon Düül II UK

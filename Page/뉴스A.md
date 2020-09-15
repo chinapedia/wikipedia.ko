@@ -15,8 +15,8 @@
 
 ### 평일
 
-  - [김승련](https://ko.wikipedia.org/wiki/김승련_\(1967년\) "wikilink") 뉴스이노베이션팀장, 여인선 뉴스이노베이션팀 기자 ( \~ [2019년](../Page/2019년.md "wikilink") [9월 20일](../Page/9월_20일.md "wikilink"))
-  - [동정민](https://ko.wikipedia.org/wiki/동정민 "wikilink") 탐사보도팀장, 여인선 뉴스이노베이션팀 기자 ([2019년](../Page/2019년.md "wikilink") [9월 23일](../Page/9월_23일.md "wikilink") \~ **현재**)
+  - [김승련](https://ko.wikipedia.org/wiki/김승련_\(1967년\) "wikilink") 뉴스이노베이션팀장, [여인선](https://ko.wikipedia.org/wiki/여인선 "wikilink") 뉴스이노베이션팀 기자 ( \~ [2019년](../Page/2019년.md "wikilink") [9월 20일](../Page/9월_20일.md "wikilink"))
+  - [동정민](https://ko.wikipedia.org/wiki/동정민 "wikilink") 탐사보도팀장, [여인선](https://ko.wikipedia.org/wiki/여인선 "wikilink") 뉴스이노베이션팀 기자 ([2019년](../Page/2019년.md "wikilink") [9월 23일](../Page/9월_23일.md "wikilink") \~ **현재**)
 
 ### 주말
 

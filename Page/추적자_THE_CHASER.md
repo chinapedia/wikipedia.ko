@@ -203,7 +203,7 @@
 ### 특별 출연
 
   - [이정길](../Page/이정길_\(1944년\).md "wikilink") : 조동수 역 - 강동윤과 경합을 벌이는 대통령 후보
-  - [정수인](https://ko.wikipedia.org/wiki/정수인 "wikilink") : 최 검사의 비서 역
+  - [정수인](https://ko.wikipedia.org/wiki/정수인_\(배우\) "wikilink") : 최 검사의 비서 역
   - [조영진](../Page/조영진.md "wikilink") : 김창재 역
 
 ## 시청률

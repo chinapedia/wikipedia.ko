@@ -34,7 +34,7 @@
 | double **sqrt** ( double x );                                             | \(\sqrt{x}\)를 구한다.                        |
 | double **ceil** ( double x );                                             | x보다 작지 않은 가장 작은 정수를 구한다.                  |
 | double **floor** ( double x );                                            | x보다 크지 않은 가장 큰 정수를 구한다.                   |
-| double **abs** ( double x );                                              | x의 [절댓값](../Page/절댓값.md "wikilink")을 구한다. |
+| double **fabs** (double x);                                               | x의 [절댓값](../Page/절댓값.md "wikilink")을 구한다. |
 | double **fmod** ( double x, double y );                                   | x를 y로 나눈 나머지를 구한다.                        |
 |                                                                           |                                           |
 

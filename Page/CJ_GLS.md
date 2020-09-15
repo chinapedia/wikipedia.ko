@@ -33,6 +33,6 @@
 
 ## 외부 링크
 
-  - [CJ GLS](http://www.cjgls.co.kr/) (폐쇄)
+  - [CJ GLS](https://web.archive.org/web/20121016160333/http://cjgls.co.kr/) (폐쇄)
 
 [분류:1983년 설립](https://ko.wikipedia.org/wiki/분류:1983년_설립 "wikilink") [분류:1998년 설립](https://ko.wikipedia.org/wiki/분류:1998년_설립 "wikilink") [분류:1998년 폐지](https://ko.wikipedia.org/wiki/분류:1998년_폐지 "wikilink") [분류:2013년 폐지](https://ko.wikipedia.org/wiki/분류:2013년_폐지 "wikilink") [분류:CJ의 이전 자회사](https://ko.wikipedia.org/wiki/분류:CJ의_이전_자회사 "wikilink") [분류:대한민국의 없어진 기업](https://ko.wikipedia.org/wiki/분류:대한민국의_없어진_기업 "wikilink") [분류:경상북도의 기업](https://ko.wikipedia.org/wiki/분류:경상북도의_기업 "wikilink") [분류:대한민국의 운수 기업](https://ko.wikipedia.org/wiki/분류:대한민국의_운수_기업 "wikilink")

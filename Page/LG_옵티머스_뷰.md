@@ -13,7 +13,7 @@
 
 러버듐 펜은 옵티머스 뷰에 기본적으로 탑재되어있는 터치펜으로, 해당 모델에서만 사용가능하다.
 
-## 운영체제 업그레이드
+## 운영 체제 업그레이드
 
 ### 안드로이드 4.0.4 아이스크림샌드위치 업그레이드
 
@@ -37,7 +37,7 @@ Q메모를 어느화면에서나 보며 이중플레이 할 수 있는 겹쳐사
 
 ### Q 보이스
 
-음성시스템으로, 말을 해서 각종 기능을 실행하거나 원하는 것을 찾을 수 있다. [애플의](https://ko.wikipedia.org/wiki/애플_\(기업\) "wikilink") [시리](https://ko.wikipedia.org/wiki/시리 "wikilink"), [삼성전자](https://ko.wikipedia.org/wiki/삼성전자 "wikilink")의 [S 보이스와](../Page/S_보이스.md "wikilink") 유사하다.
+음성시스템으로, 말을 해서 각종 기능을 실행하거나 원하는 것을 찾을 수 있다. [애플](../Page/애플.md "wikilink")의 [시리](https://ko.wikipedia.org/wiki/시리 "wikilink"), [삼성전자](https://ko.wikipedia.org/wiki/삼성전자 "wikilink")의 [S 보이스와](../Page/S_보이스.md "wikilink") 유사하다.
 
 [LG전자](../Page/LG전자.md "wikilink")의 독자기술인 **베르니케기술**을 사용하여서 높은 인식률과 재미있는 멘트를 쓰기도 한다.
 

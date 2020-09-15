@@ -29,14 +29,14 @@ FC 서울의 홈 경기 때마다 경기장에 나와 경기 중 익살스러운
 
 ## 외부 링크
 
-  - [FC 서울 공식 웹사이트 - 씨드 소개 페이지](http://www.fcseoul.com/club/info/ssid.jsp)
+  - [FC 서울 공식 웹사이트 - 씨드 소개 페이지](https://web.archive.org/web/20101005194801/http://fcseoul.com/club/info/ssid.jsp)
   - [FC 서울 온라인 박물관 - FC 서울 엠블럼 변천사](http://blog.naver.com/PostList.nhn?blogId=topof1st&from=postList&categoryNo=118)
   - [FC 서울 온라인 박물관 - FC 서울 마스코트 변천사](http://blog.naver.com/PostList.nhn?blogId=topof1st&from=postList&categoryNo=119)
-  - [FC 서울 25년사 - 223P](http://www.fcseoul.com/history.jsp)
+  - [FC 서울 25년사 - 223P](https://web.archive.org/web/20150706212516/http://www.fcseoul.com/history.jsp)
 
 [분류:FC 서울](https://ko.wikipedia.org/wiki/분류:FC_서울 "wikilink") [분류:축구 마스코트](https://ko.wikipedia.org/wiki/분류:축구_마스코트 "wikilink")
 
-1.  [FC 서울 25년사 158P](http://www.fcseoul.com/history.jsp)
+1.
 2.
 3.
 4.

@@ -140,4 +140,4 @@
 
 ## 외부 링크
 
-[분류:메탈리카의 음반](https://ko.wikipedia.org/wiki/분류:메탈리카의_음반 "wikilink") [분류:1993년 라이브 음반](https://ko.wikipedia.org/wiki/분류:1993년_라이브_음반 "wikilink") [분류:1993년 영상 음반](https://ko.wikipedia.org/wiki/분류:1993년_영상_음반 "wikilink") [분류:엘렉트라 레코드 음반](https://ko.wikipedia.org/wiki/분류:엘렉트라_레코드_음반 "wikilink") [분류:1993년 컴필레이션 음반](https://ko.wikipedia.org/wiki/분류:1993년_컴필레이션_음반 "wikilink")
+[분류:메탈리카의 라이브 음반](https://ko.wikipedia.org/wiki/분류:메탈리카의_라이브_음반 "wikilink") [분류:1993년 라이브 음반](https://ko.wikipedia.org/wiki/분류:1993년_라이브_음반 "wikilink") [분류:1993년 영상 음반](https://ko.wikipedia.org/wiki/분류:1993년_영상_음반 "wikilink") [분류:엘렉트라 레코드 음반](https://ko.wikipedia.org/wiki/분류:엘렉트라_레코드_음반 "wikilink") [분류:1993년 컴필레이션 음반](https://ko.wikipedia.org/wiki/분류:1993년_컴필레이션_음반 "wikilink")

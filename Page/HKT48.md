@@ -57,7 +57,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/아키요시_유카" title="wikilink">아키요시 유카</a></p></td>
+<td><p>아키요시 유카</p></td>
 <td><p>秋吉優花</p></td>
 <td><p>あきよし ゆか</p></td>
 <td></td>
@@ -67,18 +67,17 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/이토_유에루" title="wikilink">이토 유에루</a></p></td>
+<td><p>이토 유에루</p></td>
 <td><p>伊藤優絵瑠</p></td>
 <td><p>いとう ゆえる</p></td>
 <td></td>
-<td><p>드래프트<br />
-3기</p></td>
+<td><p>드래프트3기</p></td>
 <td><p>-</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/우에노_하루카" title="wikilink">우에노 하루카</a></p></td>
+<td><p>우에노 하루카</p></td>
 <td><p>上野遥</p></td>
 <td><p>うえの はるか</p></td>
 <td></td>
@@ -88,7 +87,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/코지나_유이" title="wikilink">코지나 유이</a></p></td>
+<td><p>코지나 유이</p></td>
 <td><p>神志那結衣</p></td>
 <td><p>こうじな ゆい</p></td>
 <td></td>
@@ -98,7 +97,7 @@
 <td><p>46</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/사카구치_리코" title="wikilink">사카구치 리코</a></p></td>
+<td><p>사카구치 리코</p></td>
 <td><p>坂口理子</p></td>
 <td><p>さかぐち りこ</p></td>
 <td></td>
@@ -128,7 +127,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/토요나가_아키" title="wikilink">토요나가 아키</a></p></td>
+<td><p>토요나가 아키</p></td>
 <td><p>豊永阿紀</p></td>
 <td><p>とよなが あき</p></td>
 <td></td>
@@ -143,17 +142,17 @@
 <td><p><strong>まつおか なつみ</strong></p></td>
 <td><p><strong></strong></p></td>
 <td><p>1기</p></td>
-<td><p>캡틴</p></td>
+<td><p>캡틴<br />
+최연장자</p></td>
 <td></td>
 <td><p>64</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/와타나베_아카리" title="wikilink">와타나베 아카리</a></p></td>
+<td><p>와타나베 아카리</p></td>
 <td><p>渡部愛加里</p></td>
 <td><p>わかたべ あかり</p></td>
 <td></td>
-<td><p>드래프트<br />
-3기</p></td>
+<td><p>드래프트3기</p></td>
 <td><p>최연소</p></td>
 <td></td>
 <td></td>
@@ -200,7 +199,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/이마다_미나" title="wikilink">이마다 미나</a></p></td>
+<td><p>이마다 미나</p></td>
 <td><p>今田美奈</p></td>
 <td><p>いまだ みな</p></td>
 <td></td>
@@ -220,7 +219,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/쿠마자와_세리나" title="wikilink">쿠마자와 세리나</a></p></td>
+<td><p>쿠마자와 세리나</p></td>
 <td><p>熊沢世莉奈</p></td>
 <td><p>くまざわ せりな</p></td>
 <td></td>
@@ -230,7 +229,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/시모노_유키" title="wikilink">시모노 유키</a></p></td>
+<td><p>시모노 유키</p></td>
 <td><p>下野由貴</p></td>
 <td><p>しもの ゆき</p></td>
 <td></td>
@@ -240,7 +239,7 @@
 <td><p>87</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/지토우에_네네" title="wikilink">지토우에 네네</a></p></td>
+<td><p>지토우에 네네</p></td>
 <td><p>地頭江音々</p></td>
 <td><p>ぢとうえ ねね</p></td>
 <td></td>
@@ -250,18 +249,17 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/바바_사야카" title="wikilink">바바 사야카</a></p></td>
+<td><p>바바 사야카</p></td>
 <td><p>馬場彩華</p></td>
 <td><p>ばば さやか</p></td>
 <td></td>
-<td><p>드래프트<br />
-3기</p></td>
+<td><p>드래프트3기</p></td>
 <td><p>-</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/후치가미_마이_(가수)" title="wikilink">후치가미 마이</a></p></td>
+<td><p>후치가미 마이</p></td>
 <td><p>渕上舞</p></td>
 <td><p>ふちがみ まい</p></td>
 <td></td>
@@ -342,7 +340,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/아라마키_미사키" title="wikilink">아라마키 미사키</a></p></td>
+<td><p>아라마키 미사키</p></td>
 <td><p>荒巻美咲</p></td>
 <td><p>あらまき みさき</p></td>
 <td></td>
@@ -352,18 +350,17 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/이마무라_마리아" title="wikilink">이마무라 마리아</a></p></td>
+<td><p>이마무라 마리아</p></td>
 <td><p>今村麻莉愛</p></td>
 <td><p>いまむら まりあ</p></td>
 <td></td>
-<td><p>드래프트<br />
-2기</p></td>
+<td><p>드래프트2기</p></td>
 <td><p>-</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/오다_아야카" title="wikilink">오다 아야카</a></p></td>
+<td><p>오다 아야카</p></td>
 <td><p>小田彩加</p></td>
 <td><p>おだ あやか</p></td>
 <td></td>
@@ -373,7 +370,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/쿠리하라_사에" title="wikilink">쿠리하라 사에</a></p></td>
+<td><p>쿠리하라 사에</p></td>
 <td><p>栗原紗英</p></td>
 <td><p>くりはら さえ</p></td>
 <td></td>
@@ -383,7 +380,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/사카이_모에카" title="wikilink">사카이 모에카</a></p></td>
+<td><p>사카이 모에카</p></td>
 <td><p>堺萌香</p></td>
 <td><p>さかい もえか</p></td>
 <td></td>
@@ -393,7 +390,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/사카모토_에레나" title="wikilink">사카모토 에레나</a></p></td>
+<td><p>사카모토 에레나</p></td>
 <td><p>坂本愛玲菜</p></td>
 <td><p>さかもと えれな</p></td>
 <td></td>
@@ -403,7 +400,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/시미즈_리오" title="wikilink">시미즈 리오</a></p></td>
+<td><p>시미즈 리오</p></td>
 <td><p>清水梨央</p></td>
 <td><p>しみず りお</p></td>
 <td></td>
@@ -413,18 +410,17 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/세키_아이" title="wikilink">세키 아이</a></p></td>
+<td><p>세키 아이</p></td>
 <td><p>石安伊</p></td>
 <td><p>せき あい</p></td>
 <td></td>
-<td><p>드래프트<br />
-3기</p></td>
+<td><p>드래프트3기</p></td>
 <td><p>-</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/타케다_토모카" title="wikilink">타케다 토모카</a></p></td>
+<td><p>타케다 토모카</p></td>
 <td><p>武田智加</p></td>
 <td><p>たけだ ともか</p></td>
 <td></td>
@@ -434,7 +430,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/호카조노_하즈키" title="wikilink">호카조노 하즈키</a></strong></p></td>
+<td><p><strong>호카조노 하즈키</strong></p></td>
 <td><p><strong>外薗葉月</strong></p></td>
 <td><p><strong>ほかぞの はづき</strong></p></td>
 <td><p><strong></strong></p></td>
@@ -448,14 +444,13 @@
 <td><p>松岡はな</p></td>
 <td><p>まつおか はな</p></td>
 <td></td>
-<td><p>드래프트<br />
-2기</p></td>
+<td><p>드래프트2기</p></td>
 <td><p>-</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/마츠모토_히나타" title="wikilink">마츠모토 히나타</a></p></td>
+<td><p>마츠모토 히나타</p></td>
 <td><p>松本日向</p></td>
 <td><p>まつもと ひなた</p></td>
 <td></td>
@@ -465,7 +460,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/미야자키_소노" title="wikilink">미야자키 소노</a></p></td>
+<td><p>미야자키 소노</p></td>
 <td><p>宮﨑想乃</p></td>
 <td><p>みやざき その</p></td>
 <td></td>
@@ -475,18 +470,17 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/무라카와_비비안" title="wikilink">무라카와 비비안</a></p></td>
+<td><p>무라카와 비비안</p></td>
 <td><p>村川緋杏</p></td>
 <td><p>むらかわ びびあん</p></td>
 <td></td>
-<td><p>드래프트<br />
-2기</p></td>
+<td><p>드래프트2기</p></td>
 <td><p>-</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/야마우치_유나" title="wikilink">야마우치 유나</a></p></td>
+<td><p>야마우치 유나</p></td>
 <td><p>山内祐奈</p></td>
 <td><p>やまうち ゆうな</p></td>
 <td></td>
@@ -496,7 +490,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/야마시타_에미리" title="wikilink">야마시타 에미리</a></strong></p></td>
+<td><p><strong>야마시타 에미리</strong></p></td>
 <td><p><strong>山下エミリー</strong></p></td>
 <td><p><strong>やました エミリー</strong></p></td>
 <td><p><strong></strong></p></td>
@@ -545,7 +539,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/이시바시_이부키" title="wikilink">이시바시 이부키</a></p></td>
+<td><p>이시바시 이부]</p></td>
 <td><p>石橋颯</p></td>
 <td><p>いしばし いぶき</p></td>
 <td></td>
@@ -555,7 +549,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/이치무라_아이리" title="wikilink">이치무라 아이리</a></p></td>
+<td><p>이치무라 아이리</p></td>
 <td><p>市村愛里</p></td>
 <td><p>いちむら あいり</p></td>
 <td></td>
@@ -565,7 +559,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/오가와_사나" title="wikilink">오가와 사나</a></p></td>
+<td><p>오가와 사나</p></td>
 <td><p>小川紗奈</p></td>
 <td><p>おがわ さな</p></td>
 <td></td>
@@ -575,7 +569,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/카미지마_카에데" title="wikilink">카미지마 카에데</a></p></td>
+<td><p>카미지마 카에데</p></td>
 <td><p>上島楓</p></td>
 <td><p>かみじま かえで</p></td>
 <td></td>
@@ -585,7 +579,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/카와히라_히지리" title="wikilink">카와히라 히지리</a></p></td>
+<td><p>카와히라 히지리</p></td>
 <td><p>川平聖</p></td>
 <td><p>かわひら ひじり</p></td>
 <td></td>
@@ -595,7 +589,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/쿠도_하루카_(2006년)" title="wikilink">쿠도 하루카</a></p></td>
+<td><p>쿠도 하루카</p></td>
 <td><p>工藤陽香</p></td>
 <td><p>くどう はるか</p></td>
 <td></td>
@@ -605,7 +599,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/쿠리야마_리나" title="wikilink">쿠리야마 리나</a></p></td>
+<td><p>쿠리야마 리나</p></td>
 <td><p>栗山梨奈</p></td>
 <td><p>くりやま りな</p></td>
 <td></td>
@@ -615,7 +609,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/고토_히나노" title="wikilink">고토 히나노</a></p></td>
+<td><p>고토 히나노</p></td>
 <td><p>後藤陽菜乃</p></td>
 <td><p>ごとう ひなの</p></td>
 <td></td>
@@ -625,7 +619,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/사카모토_리노" title="wikilink">사카모토 리노</a></p></td>
+<td><p>사카모토 리노</p></td>
 <td><p>坂本りの</p></td>
 <td><p>さかもと りの</p></td>
 <td></td>
@@ -635,7 +629,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/타케모토_쿠루미" title="wikilink">타케모토 쿠루미</a></p></td>
+<td><p>타케모토 쿠루미</p></td>
 <td><p>竹本くるみ</p></td>
 <td><p>たけもと くるみ</p></td>
 <td></td>
@@ -645,7 +639,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/타나카_이오리" title="wikilink">타나카 이오리</a></p></td>
+<td><p>타나카 이오리</p></td>
 <td><p>田中伊桜莉</p></td>
 <td><p>たなか いおり</p></td>
 <td></td>
@@ -655,7 +649,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/나가노_미야비" title="wikilink">나가노 미야비</a></p></td>
+<td><p>나가노 미야비</p></td>
 <td><p>長野雅</p></td>
 <td><p>ながの みやび</p></td>
 <td></td>
@@ -665,7 +659,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/미즈카미_리미카" title="wikilink">미즈카미 리미카</a></p></td>
+<td><p>미즈카미 리미카</p></td>
 <td><p>水上凜巳花</p></td>
 <td><p>みずかみ りみか</p></td>
 <td></td>
@@ -675,7 +669,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/무라카미_와카나" title="wikilink">무라카미 와카나</a></p></td>
+<td><p>무라카미 와카나</p></td>
 <td><p>村上和叶</p></td>
 <td><p>むらかみ わかな</p></td>
 <td></td>
@@ -741,499 +735,6 @@
 <td><p>3기</p></td>
 <td><p>팀H</p></td>
 <td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
-
-### 전 멤버
-
-#### 정규 멤버
-
-<table>
-<thead>
-<tr class="header">
-<th><p>이름</p></th>
-<th><p>일본어 표기</p></th>
-<th><p>요미가나</p></th>
-<th><p>생년월일</p></th>
-<th><p>기수</p></th>
-<th><p>졸업 시기</p></th>
-<th><p>최종<br />
-소속</p></th>
-<th><p>현재 소속 사무소</p></th>
-<th><p>비고</p></th>
-<th><p>총선거<br />
-최고<br />
-순위</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/코모리_유이" title="wikilink">코모리 유이</a></p></td>
-<td><p>古森結衣</p></td>
-<td><p>こもり ゆい</p></td>
-<td></td>
-<td><p>1기</p></td>
-<td><p>2012년 8월 18일</p></td>
-<td><p>H</p></td>
-<td><p>A-PLUS</p></td>
-<td><p>사퇴</p></td>
-<td><p>-</p></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/스가모토_유코" title="wikilink">스가모토 유코</a></p></td>
-<td><p>菅本裕子</p></td>
-<td><p>すがもと ゆうこ</p></td>
-<td></td>
-<td><p>KOS</p></td>
-<td><p>사퇴, 현재는 <a href="../Page/유튜버.md" title="wikilink">유튜버</a>이다.</p></td>
-<td><p>-</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/타니구치_아이리" title="wikilink">타니구치 아이리</a></p></td>
-<td><p>谷口愛理</p></td>
-<td><p>たにぐち あいり</p></td>
-<td></td>
-<td><p><a href="http://office-aui.com/">오피스 아우이</a></p></td>
-<td><p>사퇴</p></td>
-<td><p>-</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/타니_마리카" title="wikilink">타니 마리카</a></p></td>
-<td><p>谷真理佳</p></td>
-<td><p>たに まりか</p></td>
-<td></td>
-<td><p>2기</p></td>
-<td><p>2014년 4월 22일</p></td>
-<td><p>-</p></td>
-<td><p>와타나베 엔터테인먼트</p></td>
-<td><p>팀KIV 내정<br />
-<a href="../Page/SKE48.md" title="wikilink">SKE48</a> 팀E 이적</p></td>
-<td><p>-</p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/나카니시_치요리" title="wikilink">나카니시 치요리</a></p></td>
-<td><p>中西智代梨</p></td>
-<td><p>なかにし ちより</p></td>
-<td></td>
-<td><p>1기</p></td>
-<td><p>H</p></td>
-<td><p>AKS</p></td>
-<td><p><a href="../Page/AKB48.md" title="wikilink">AKB48</a> 팀B 이적</p></td>
-<td><p>-</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/쿠사바_마나미" title="wikilink">쿠사바 마나미</a></p></td>
-<td><p>草場愛</p></td>
-<td><p>くさば まなみ</p></td>
-<td></td>
-<td><p>2기</p></td>
-<td><p>2015년 4월 30일</p></td>
-<td><p>KIV</p></td>
-<td><p>-</p></td>
-<td><p>-</p></td>
-<td><p>-</p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="../Page/키모토_카논.md" title="wikilink">키모토 카논</a></p></td>
-<td><p>木本花音</p></td>
-<td><p>きもと かのん</p></td>
-<td></td>
-<td><p>-</p></td>
-<td><p>2015년 5월 25일</p></td>
-<td><p>-</p></td>
-<td><p>겸임해제<br />
-재적시는 <a href="../Page/SKE48.md" title="wikilink">SKE48</a> 팀E 겸임</p></td>
-<td><p>31위</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/고토_이즈미" title="wikilink">고토 이즈미</a></p></td>
-<td><p>後藤泉</p></td>
-<td><p>ごとう いずみ</p></td>
-<td></td>
-<td><p>2기</p></td>
-<td><p>2015년 10월 30일</p></td>
-<td><p>-</p></td>
-<td><p>-</p></td>
-<td><p>-</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/우메모토_이즈미" title="wikilink">우메모토 이즈미</a></p></td>
-<td><p>梅本泉</p></td>
-<td><p>うめもと いずみ</p></td>
-<td></td>
-<td><p>2015년 12월 31일</p></td>
-<td><p>H</p></td>
-<td><p>-</p></td>
-<td><p>-</p></td>
-<td><p>-</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/이토_라이라" title="wikilink">이토 라이라</a></p></td>
-<td><p>伊藤来笑</p></td>
-<td><p>いとう らいら</p></td>
-<td></td>
-<td><p>2016년 2월 29일</p></td>
-<td><p>KIV</p></td>
-<td><p>-</p></td>
-<td><p>-</p></td>
-<td><p>-</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/오카다_칸나" title="wikilink">오카다 칸나</a></p></td>
-<td><p>岡田栞奈</p></td>
-<td><p>おかだ かんな</p></td>
-<td></td>
-<td><p>2016년 3월 22일</p></td>
-<td><p>-</p></td>
-<td><p>-</p></td>
-<td><p>42위</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/아나이_치히로" title="wikilink">아나이 치히로</a></p></td>
-<td><p>穴井千尋</p></td>
-<td><p>あない ちひろ</p></td>
-<td></td>
-<td><p>1기</p></td>
-<td><p>2016년 7월 31일</p></td>
-<td><p>H</p></td>
-<td><p>-</p></td>
-<td><p>전 팀H 캡틴</p></td>
-<td><p>33위</p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/와카타베_하루카" title="wikilink">와카타베 하루카</a></p></td>
-<td><p>若田部遥</p></td>
-<td><p>わかたべ はるか</p></td>
-<td></td>
-<td><p>2017년 2월 5일</p></td>
-<td><p>-</p></td>
-<td><p>-</p></td>
-<td><p>82위</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><a href="../Page/오오타_아이카.md" title="wikilink">오오타 아이카</a></p></td>
-<td><p>多田愛佳</p></td>
-<td><p>おおた あいか</p></td>
-<td></td>
-<td><p>-</p></td>
-<td><p>2017년 4월 10일</p></td>
-<td><p>KIV</p></td>
-<td><p>프로덕션 오기</p></td>
-<td><p>전 팀KIV 캡틴<br />
-구 팀H<br />
-전 AKB48 팀B→A</p></td>
-<td><p>41위</p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/오카모토_나오코" title="wikilink">오카모토 나오코</a></p></td>
-<td><p>岡本尚子</p></td>
-<td><p>おかもと なおこ</p></td>
-<td></td>
-<td><p>2기</p></td>
-<td><p>2017년 5월 8일</p></td>
-<td><p>H</p></td>
-<td><p>아시아 프로모션</p></td>
-<td><p>-</p></td>
-<td><p>-</p></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/츠츠이_리코" title="wikilink">츠츠이 리코</a></p></td>
-<td><p>筒井莉子</p></td>
-<td><p>つつい りこ</p></td>
-<td></td>
-<td><p>3기</p></td>
-<td><p>2017년 5월 29일</p></td>
-<td><p>TII</p></td>
-<td><p>-</p></td>
-<td><p>-</p></td>
-<td><p>-</p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/이노우에_유리야" title="wikilink">이노우에 유리야</a></p></td>
-<td><p>井上由莉耶</p></td>
-<td><p>いのうえ ゆりや</p></td>
-<td></td>
-<td><p>2기</p></td>
-<td><p>2017년 6월 12일</p></td>
-<td><p>H</p></td>
-<td><p>-</p></td>
-<td><p>-</p></td>
-<td><p>48위</p></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/타나카_유카" title="wikilink">타나카 유카</a></p></td>
-<td><p>田中優香</p></td>
-<td><p>たなか ゆうか</p></td>
-<td></td>
-<td><p>2018년 2월 27일</p></td>
-<td><p>KIV</p></td>
-<td><p>-</p></td>
-<td><p>-</p></td>
-<td><p>-</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/우이_마시로" title="wikilink">우이 마시로</a></p></td>
-<td><p>宇井真白</p></td>
-<td><p>うい ましろ</p></td>
-<td></td>
-<td><p>2018년 3월 21일</p></td>
-<td><p>H</p></td>
-<td><p>BEbox</p></td>
-<td><p>-</p></td>
-<td><p>-</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/야마다_마리나" title="wikilink">야마다 마리나</a></p></td>
-<td><p>山田麻莉奈</p></td>
-<td><p>やまだ まりな</p></td>
-<td></td>
-<td><p>2018년 4월 10일</p></td>
-<td><p>크로커다일</p></td>
-<td><p>-</p></td>
-<td><p>-</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/야마모토_마오" title="wikilink">야마모토 마오</a></p></td>
-<td><p>山本茉央</p></td>
-<td><p>やまもと まお</p></td>
-<td></td>
-<td><p>드래프트<br />
-1기</p></td>
-<td><p>2018년 5월 21일</p></td>
-<td><p>-</p></td>
-<td><p>제1회 AKB48 그룹 드래프트 회장에서 가입 (1위 지명)</p></td>
-<td><p>-</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/마츠다_유미" title="wikilink">마츠다 유미</a></p></td>
-<td><p>松田祐実</p></td>
-<td><p>まつだ ゆみ</p></td>
-<td></td>
-<td><p>드래프트<br />
-3기</p></td>
-<td><p>2018년 12월 27일</p></td>
-<td><p>TII</p></td>
-<td><p>-</p></td>
-<td><p>활동 사퇴<br />
-제3회 AKB48 그룹 드래프트 회장에서 가입 (1위 지명)</p></td>
-<td><p>-</p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/토미요시_아스카" title="wikilink">토미요시 아스카</a></p></td>
-<td><p>冨吉明日香</p></td>
-<td><p>とみよし あすか</p></td>
-<td></td>
-<td><p>2기</p></td>
-<td><p>2019년 3월 30일</p></td>
-<td><p>KIV</p></td>
-<td><p>-</p></td>
-<td><p>-</p></td>
-<td><p>38위</p></td>
-</tr>
-<tr class="even">
-<td><p><a href="../Page/사시하라_리노.md" title="wikilink">사시하라 리노</a></p></td>
-<td><p>指原莉乃</p></td>
-<td><p>さしはら りの</p></td>
-<td></td>
-<td><p>-</p></td>
-<td><p>2019년 4월 28일</p></td>
-<td><p>H</p></td>
-<td><p>오오타 프로덕션</p></td>
-<td><p>전 HKT48 극장 지배인<br />
-전 AKB48 팀B→A<br />
-전 STU48 극장 지배인 겸임<br />
-<a href="../Page/=LOVE.md" title="wikilink">=LOVE</a>, <a href="../Page/≠ME.md" title="wikilink">≠ME</a>의 프로듀서</p></td>
-<td><p>1위</p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/코다마_하루카" title="wikilink">코다마 하루카</a></p></td>
-<td><p>兒玉遥</p></td>
-<td><p>こだま はるか</p></td>
-<td></td>
-<td><p>1기</p></td>
-<td><p>2019년 6월 9일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/에이벡스" title="wikilink">에이벡스 아스나로 컴퍼니</a></p></td>
-<td><p>전 AKB48 팀A→K 겸임</p></td>
-<td><p>9위</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/코마다_히로카" title="wikilink">코마다 히로카</a></p></td>
-<td><p>駒田京伽</p></td>
-<td><p>こまだ ひろか</p></td>
-<td></td>
-<td><p>2기</p></td>
-<td><p>2019년 6월 17일</p></td>
-<td><p>-</p></td>
-<td><p>-</p></td>
-<td><p>60위</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/이와하나_시노" title="wikilink">이와하나 시노</a></p></td>
-<td><p>岩花詩乃</p></td>
-<td><p>いわなは しの</p></td>
-<td></td>
-<td><p>2019년 6월 21일</p></td>
-<td><p>KIV</p></td>
-<td><p>-</p></td>
-<td><p>-</p></td>
-<td><p>-</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/우에키_나오" title="wikilink">우에키 나오</a></p></td>
-<td><p>植木南央</p></td>
-<td><p>うえき なお</p></td>
-<td></td>
-<td><p>1기</p></td>
-<td><p>2019년 7월 31일</p></td>
-<td><p>-</p></td>
-<td><p>-</p></td>
-<td><p>54위</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/타나카_나츠미" title="wikilink">타나카 나츠미</a></p></td>
-<td><p>田中菜津美</p></td>
-<td><p>たなか なつみ</p></td>
-<td></td>
-<td><p>2020년 1월 11일</p></td>
-<td><p>H</p></td>
-<td><p>-</p></td>
-<td><p>전 SKE48 팀S 겸임</p></td>
-<td><p>63위</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/토모나가_미오" title="wikilink">토모나가 미오</a></p></td>
-<td><p>朝長美桜</p></td>
-<td><p>ともなが みお</p></td>
-<td></td>
-<td><p>2기</p></td>
-<td><p>2020년 1월 15일</p></td>
-<td><p>KIV</p></td>
-<td><p>-</p></td>
-<td><p>전 AKB48 팀B→4 겸임</p></td>
-<td><p>21위</p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/후카가와_마이코" title="wikilink">후카가와 마이코</a></p></td>
-<td><p>深川舞子</p></td>
-<td><p>ふかがわ まいこ</p></td>
-<td></td>
-<td><p>1기</p></td>
-<td><p>2020년 2월 22일</p></td>
-<td><p>-</p></td>
-<td><p>-</p></td>
-<td><p>91위</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/츠키아시_아마네" title="wikilink">츠키아시 아마네</a></p></td>
-<td><p>月足天音</p></td>
-<td><p>つきあし あまね</p></td>
-<td></td>
-<td><p>4기</p></td>
-<td><p>2020년 3월 30일</p></td>
-<td><p>TII</p></td>
-<td><p>-</p></td>
-<td><p>-</p></td>
-<td><p>119위</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
-
-#### 연구생
-
-<table>
-<thead>
-<tr class="header">
-<th><p>이름</p></th>
-<th><p>일본어 표기</p></th>
-<th><p>요미가나</p></th>
-<th><p>생년월일</p></th>
-<th><p>기수</p></th>
-<th><p>졸업 시기</p></th>
-<th><p>현재 소속 사무소</p></th>
-<th><p>비고</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/에토_사야카" title="wikilink">에토 사야카</a></p></td>
-<td><p>江藤彩也香</p></td>
-<td><p>えとう さやか</p></td>
-<td></td>
-<td><p>1기</p></td>
-<td><p>2012년 8월 18일</p></td>
-<td><p>에이스 크루 엔터테인먼트</p></td>
-<td><p>사퇴</p></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/나카니시_아야카" title="wikilink">나카니시 아야카</a></p></td>
-<td><p>仲西彩佳</p></td>
-<td><p>なかにし あやか</p></td>
-<td></td>
-<td><p>-</p></td>
-<td><p>사퇴</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/아베_쿄카" title="wikilink">아베 쿄카</a></p></td>
-<td><p>安陪恭加</p></td>
-<td><p>あべ きょうか</p></td>
-<td></td>
-<td><p>2014년 2월 23일</p></td>
-<td><p><a href="http://www.office-noir.jp/">오피스 노이어</a><br />
-업무제휴 : <a href="../Page/오스카_프로모션.md" title="wikilink">오스카 프로모션</a></p></td>
-<td><p>2013년 12월 30일 졸업 공연<br />
-전 노메이크 소속 (전예명 : 長瀬月渚)</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1702,7 +1203,7 @@
 
 <!-- end list -->
 
-  - [NGT48](https://ko.wikipedia.org/wiki/NGT48 "wikilink") 극장에서의 공연
+  - [NGT48](../Page/NGT48.md "wikilink") 극장에서의 공연
 
 <!-- end list -->
 
@@ -1749,7 +1250,7 @@
   - [AKB48](../Page/AKB48.md "wikilink")
   - [SKE48](../Page/SKE48.md "wikilink")
   - [NMB48](../Page/NMB48.md "wikilink")
-  - [NGT48](https://ko.wikipedia.org/wiki/NGT48 "wikilink")
+  - [NGT48](../Page/NGT48.md "wikilink")
   - [STU48](../Page/STU48.md "wikilink")
 
 <!-- end list -->

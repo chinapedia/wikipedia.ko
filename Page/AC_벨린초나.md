@@ -6,7 +6,7 @@
 ## 주요 경력
 
   - [스위스 슈퍼리그](../Page/스위스_슈퍼리그.md "wikilink"): 우승 1회 (1948)
-  - [스위스 컵](https://ko.wikipedia.org/wiki/스위스_컵 "wikilink"): 준우승 3회 (1962, 1969, 2008)
+  - [스위스컵](https://ko.wikipedia.org/wiki/스위스컵 "wikilink"): 준우승 3회 (1962, 1969, 2008)
 
 ## 유명 선수
 

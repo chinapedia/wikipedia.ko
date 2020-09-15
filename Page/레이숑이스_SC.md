@@ -12,7 +12,7 @@
 
 ## 외부 링크
 
-  - [공식 홈페이지](http://www.leixoessc.pt/)
+  - [공식 홈페이지](https://web.archive.org/web/20070818040950/http://www.leixoessc.pt/)
 
   - [Detailed up-to-date Leixões news](http://www.portugoal.net/index.php/clubs/leixoes)
 

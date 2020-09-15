@@ -46,4 +46,4 @@
 
   - [공식 홈페이지](http://www.cordobacf.com/)
 
-[코르도바_CF](https://ko.wikipedia.org/wiki/분류:코르도바_CF "wikilink") [분류:1954년 설립된 축구단](https://ko.wikipedia.org/wiki/분류:1954년_설립된_축구단 "wikilink") [분류:스페인의 축구단](https://ko.wikipedia.org/wiki/분류:스페인의_축구단 "wikilink") [분류:안달루시아 지방의 축구단](https://ko.wikipedia.org/wiki/분류:안달루시아_지방의_축구단 "wikilink")
+[코르도바_CF](https://ko.wikipedia.org/wiki/분류:코르도바_CF "wikilink") [분류:1954년 설립된 축구단](https://ko.wikipedia.org/wiki/분류:1954년_설립된_축구단 "wikilink") [분류:스페인의 축구단](https://ko.wikipedia.org/wiki/분류:스페인의_축구단 "wikilink") [분류:안달루시아주의 축구단](https://ko.wikipedia.org/wiki/분류:안달루시아주의_축구단 "wikilink")

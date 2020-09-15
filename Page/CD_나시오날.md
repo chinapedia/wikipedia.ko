@@ -9,7 +9,7 @@ CD 나시오날은 [마데이라 제도의](../Page/마데이라_제도.md "wiki
 
 ### 국내 리그
 
-  - **[리가프로](https://ko.wikipedia.org/wiki/세군다리가 "wikilink")**: 2017–18
+  - **[리가프로](../Page/세군다리가.md "wikilink")**: 2017–18
   - **[포르투갈 세군다 디비장](https://ko.wikipedia.org/wiki/포르투갈_세군다_디비장 "wikilink")**: 1999–00
 
 ## 외부 링크

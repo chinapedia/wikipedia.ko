@@ -20,7 +20,7 @@
 
 ## 외부 링크
 
-  - [dpreview.com의 리뷰](http://www.dpreview.com/reviews/canoneos600d/)
+  - [dpreview.com의 리뷰](https://web.archive.org/web/20110405120858/http://www.dpreview.com/reviews/canoneos600d/)
 
   - [캐논 코리아 홈페이지 600D](https://web.archive.org/web/20110326054225/http://www.canon-ci.co.kr/actions/ProductMainAction?cmd=view&product_code=NPAB796842)
 

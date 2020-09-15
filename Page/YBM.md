@@ -17,6 +17,10 @@
 
 과거에는 서울음반(현 [로엔엔터테인먼트](https://ko.wikipedia.org/wiki/로엔엔터테인먼트 "wikilink"))을 설립하여 음반 사업도 하였으나, [2005년](../Page/2005년.md "wikilink")에 [SK그룹](../Page/SK그룹.md "wikilink")으로 편입되었다.
 
+## 교육 방식
+
+자기 주도 학습을 중심으로 리딩북, 그랜마 타임, 보카 등 여러 부교재들을 숙제로 내준다.
+
 ## 외부 링크
 
   -
@@ -24,14 +28,14 @@
 
   - [YBM시사영어사](http://www.ybmbooks.com/)
 
-  - [YBM ECC 어학원(주니어)](http://www.ybmecc.com/)
+  - [YBM ECC 어학원(주니어)](https://web.archive.org/web/20090803162454/http://www.ybmecc.com/)
 
-  - [YBM 어학원(성인)](http://www.ybmedu.com/)
+  - [YBM 어학원(성인)](https://web.archive.org/web/20111027124904/http://www.ybmedu.com/)
 
-  - [YBM시사닷컴](http://www.ybmsisa.com/)
+  - [YBM시사닷컴](https://web.archive.org/web/20111101121351/http://www.ybmsisa.com/)
 
-  - [어학시험](http://exam.ybmsisa.com/)
+  - [어학시험](https://web.archive.org/web/20111031022841/http://exam.ybmsisa.com/)
 
-  - [YBM Global](http://global.ybm.co.kr/)
+  - [YBM Global](https://web.archive.org/web/20191030040729/http://global.ybm.co.kr/)
 
 [분류:1982년 설립된 기업](https://ko.wikipedia.org/wiki/분류:1982년_설립된_기업 "wikilink") [분류:교육 웹사이트](https://ko.wikipedia.org/wiki/분류:교육_웹사이트 "wikilink") [분류:대한민국의 출판사](https://ko.wikipedia.org/wiki/분류:대한민국의_출판사 "wikilink") [분류:대한민국의 학습 참고서](https://ko.wikipedia.org/wiki/분류:대한민국의_학습_참고서 "wikilink") [분류:대한민국의 학원](https://ko.wikipedia.org/wiki/분류:대한민국의_학원 "wikilink") [분류:서울특별시의 기업](https://ko.wikipedia.org/wiki/분류:서울특별시의_기업 "wikilink")

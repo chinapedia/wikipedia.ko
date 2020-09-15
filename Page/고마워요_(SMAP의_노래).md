@@ -32,6 +32,6 @@
 
 ## 외부 링크
 
-  - [고마워요 - Victor Entertainment](http://www.jvcmusic.co.jp/-/Discography/A002763/VICL-36666.html)
+  - [고마워요 - Victor Entertainment](https://web.archive.org/web/20111118062037/http://www.jvcmusic.co.jp/-/Discography/A002763/VICL-36666.html)
 
 [분류:일본의 노래](https://ko.wikipedia.org/wiki/분류:일본의_노래 "wikilink") [분류:일본어 노래](https://ko.wikipedia.org/wiki/분류:일본어_노래 "wikilink") [분류:2006년 노래](https://ko.wikipedia.org/wiki/분류:2006년_노래 "wikilink") [분류:2006년 싱글](https://ko.wikipedia.org/wiki/분류:2006년_싱글 "wikilink") [분류:SMAP의 노래](https://ko.wikipedia.org/wiki/분류:SMAP의_노래 "wikilink") [분류:2006년 오리콘 싱글 차트 1위 작품](https://ko.wikipedia.org/wiki/분류:2006년_오리콘_싱글_차트_1위_작품 "wikilink") [분류:드라마 주제가](https://ko.wikipedia.org/wiki/분류:드라마_주제가 "wikilink")

@@ -5,15 +5,15 @@
 
 ## 색상
 
-  - 화이트
+  - [화이트](../Page/화이트.md "wikilink")
 
-## exFAT포맷 지원
+## 지원
 
 [exFAT](https://ko.wikipedia.org/wiki/exFAT "wikilink")포맷을 지원하여 용량이 4 [GB이상인](https://ko.wikipedia.org/wiki/기가바이트 "wikilink") 파일을 사용할 수 있으며, 외장메모리에도 이 기술이 적용되었다.
 
 ## [안드로이드](../Page/안드로이드_\(운영_체제\).md "wikilink") [4.1 젤리빈](https://ko.wikipedia.org/wiki/안드로이드_버전_역사 "wikilink") 업그레이드
 
-[2013년](../Page/2013년.md "wikilink") [2월 26일](https://ko.wikipedia.org/wiki/2월_26일 "wikilink") [안드로이드](../Page/안드로이드_\(운영_체제\).md "wikilink") [4.1.2 젤리빈으로의](https://ko.wikipedia.org/wiki/안드로이드_버전_역사 "wikilink") 업그레이드가 시작되었다.\[1\]
+[2013년](../Page/2013년.md "wikilink") [2월 26일](../Page/2월_26일.md "wikilink") [안드로이드](../Page/안드로이드_\(운영_체제\).md "wikilink") [4.1.2 젤리빈으로의](https://ko.wikipedia.org/wiki/안드로이드_버전_역사 "wikilink") 업그레이드가 시작되었다.\[1\]
 
 주요 개선점은 다음과 같다.
 

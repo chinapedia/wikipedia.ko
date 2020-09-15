@@ -17,7 +17,7 @@
 
 이 음반은 《[롤링 스톤](../Page/롤링_스톤.md "wikilink")》이 선정한 "2007년 50대 음반"에서 32위를 차지하였다.\[8\]
 
-## 음반 프로모션
+## 음반 홍보
 
   - 마룬 5는 6월에 6일동안 클럽 투어를 하였다. ([보스턴](../Page/보스턴.md "wikilink") (5월 30일), [샌프란시스코](../Page/샌프란시스코.md "wikilink") (6월 1일), [로스앤젤레스](https://ko.wikipedia.org/wiki/로스앤젤레스 "wikilink") (6월 2일), [미네아폴리스](https://ko.wikipedia.org/wiki/미네아폴리스 "wikilink") (6월 7일), [마이애미](../Page/마이애미.md "wikilink") (6월 9일), [뉴욕](https://ko.wikipedia.org/wiki/뉴욕_시 "wikilink") (6월 11일))\[9\]
   - 3월 31일 - [2007년 키즈 초이스 어워드에서](https://ko.wikipedia.org/wiki/닉_키즈_초이스_어워드 "wikilink") 첫 싱글 "Makes Me Wonder"를 발표하였다. 어린 연령대의 관객들을 위해서 가사가 약간 수정된 버전으로 라이브 무대를 가졌다.

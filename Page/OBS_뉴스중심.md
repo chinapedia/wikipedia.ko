@@ -31,7 +31,7 @@
 <thead>
 <tr class="header">
 <th><p>방송 채널</p></th>
-<th><p>방송일</p></th>
+<th><p>방송 기간</p></th>
 <th><p>방송 시간</p></th>
 </tr>
 </thead>
@@ -194,8 +194,14 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/2019년.md" title="wikilink">2019년</a> <a href="../Page/10월_28일.md" title="wikilink">10월 28일</a> ~ <strong>현재</strong></p></td>
+<td><p><a href="../Page/2019년.md" title="wikilink">2019년</a> <a href="../Page/10월_28일.md" title="wikilink">10월 28일</a> ~ 2020년 7월 26일</p></td>
 <td><p>평일 저녁 7시 30분 ~ 8시 20분<br />
+주말 저녁 7시 30분 ~ 7시 55분</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/2020년.md" title="wikilink">2020년</a> <a href="../Page/7월_27일.md" title="wikilink">7월 27일</a> ~ <strong>현재</strong></p></td>
+<td><p>평일 저녁 7시 30분 ~ 8시 10분<br />
 주말 저녁 7시 30분 ~ 7시 55분</p></td>
 <td></td>
 </tr>
@@ -206,7 +212,7 @@
 
 ### 평일
 
-  - [홍원기](https://ko.wikipedia.org/wiki/홍원기_\(아나운서\) "wikilink") : OBS 아나운서
+  - [김준호](https://ko.wikipedia.org/wiki/김준호 "wikilink") : OBS 아나운서
   - [최지해](../Page/최지해.md "wikilink") : OBS 아나운서
 
 ### 주말
@@ -281,7 +287,7 @@
   - [강미정](https://ko.wikipedia.org/wiki/강미정 "wikilink")
       - 경력 : OBS 아나운서
       - 진행 기간 : [2016년](../Page/2016년.md "wikilink") [11월 12일](../Page/11월_12일.md "wikilink") \~ [2016년](../Page/2016년.md "wikilink") [11월 27일](../Page/11월_27일.md "wikilink")
-  - [유영선](https://ko.wikipedia.org/wiki/유영선 "wikilink")
+  - [유영선](../Page/유영선.md "wikilink")
       - 경력 : OBS 아나운서
       - 진행 기간 : [2016년](../Page/2016년.md "wikilink") [12월 3일](../Page/12월_3일.md "wikilink") \~ [2018년](../Page/2018년.md "wikilink") [3월 25일](../Page/3월_25일.md "wikilink")
 
@@ -306,7 +312,7 @@
 
 뉴스가 방송된 후 [국방부는](../Page/대한민국_국방부.md "wikilink") 곧바로 "시신은 발견되지 않았고, 명백한 오보"라고 반박했다. 또한 홈페이지에서 해당 기사를 삭제했고 "천안함 실종자의 시신 4구가 발견됐다는 OBS의 보도와 관련해 합동참모본부는 아직까지 확인된 바가 없다고 밝혔다"고 전했다.
 
-그러나 OBS는 [군](https://ko.wikipedia.org/wiki/군인 "wikilink") 당국의 오보주장에는 동의할 수 없다는 입장이다. 김석진 보도본부장은 "현직에 있는 군 관계자가 제보한 내용이고, 다른 관계자까지 취재해 보도한 것"이라며 "아직까지 오보라고 밝혀진 것은 없다. 상처를 입은 실종자 가족들을 위로할 뿐이지, 취재가 잘못됐다거나 오보를 인정할 단계는 아니다"라고 말했다.\[2\]
+그러나 OBS는 [군](../Page/군인.md "wikilink") 당국의 오보주장에는 동의할 수 없다는 입장이다. 김석진 보도본부장은 "현직에 있는 군 관계자가 제보한 내용이고, 다른 관계자까지 취재해 보도한 것"이라며 "아직까지 오보라고 밝혀진 것은 없다. 상처를 입은 실종자 가족들을 위로할 뿐이지, 취재가 잘못됐다거나 오보를 인정할 단계는 아니다"라고 말했다.\[2\]
 
 이날 [4월 5일에](../Page/4월_5일.md "wikilink") "'실종자 4명 숨진 채 발견' 보도에 대해, 해군이 사실이 아니라며 정정보도를 요청해왔다"며 "결과적으로 확인되지 못한 사실을 보도한 만큼, 정정보도 요청을 받아들여 바로잡는다"고 밝혔다. 이 보도를 통해 실종자 가족과 심해에서 목숨을 걸고 구조작업을 벌인 [해군](../Page/대한민국_해군.md "wikilink") 구조대원, 그리고 군 당국에 유감의 뜻을 전하고 심심한 위로를 드린다.\[3\]
 

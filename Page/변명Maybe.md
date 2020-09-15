@@ -14,7 +14,7 @@
   - TBS 《앗코에게 맡겨줘\!》 닫는 곡
   - BS11 《이주인 히카루의 새로운 프로그램》 2009년 8월과 9월의 닫는 곡
   - [NTV](https://ko.wikipedia.org/wiki/닛폰_TV "wikilink") 《[AKBINGO\!](../Page/AKBINGO!.md "wikilink")》 닫는 곡
-  - NTV 《천재\! 시무라 동물원》 닫는 곡
+  - NTV 《[천재\! 시무라 동물원](../Page/천재!_시무라_동물원.md "wikilink")》 닫는 곡
   - TV 도쿄 《주간 AKB》 닫는 곡
   - [라디오닛폰](../Page/RF라디오닛폰.md "wikilink") 《AKB48 사토 아미나의 “이 세상에는 소문자는 필요없어\!”》 여는 곡
 

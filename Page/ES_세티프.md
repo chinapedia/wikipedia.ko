@@ -28,7 +28,7 @@
 
 ## 외부 링크
 
-  - [ES 세티프 공식 홈페이지](http://www.entente-setif.com/)
+  - [ES 세티프 공식 홈페이지](https://web.archive.org/web/20160717190630/http://www.entente-setif.com/)
 
   - [ES 세티프 아랍어 홈페이지](https://web.archive.org/web/20070320091743/http://www.setif-foot.com/)
 

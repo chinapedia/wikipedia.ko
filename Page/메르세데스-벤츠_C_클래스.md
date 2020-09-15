@@ -39,9 +39,11 @@
 
 [right](https://ko.wikipedia.org/wiki/파일:Mercedes-Benz_C_220_BlueTEC_AMG_Line_\(W_205\)_–_Frontansicht,_15._März_2014,_Düsseldorf.jpg "wikilink") [right](https://ko.wikipedia.org/wiki/파일:Mercedes-Benz_C_220_BlueTEC_AMG_Line_\(W_205\)_–_Heckansicht,_15._März_2014,_Düsseldorf.jpg "wikilink")
 
-[2014년 1월에](../Page/2014년_1월.md "wikilink") 개최된 디트로이트 모터쇼를 통하여 일반에 선보였다. 대부분의 [메르세데스-벤츠](../Page/메르세데스-벤츠.md "wikilink") 차량들과 같이 컬럼 시프트 타입 [자동변속기](../Page/자동변속기.md "wikilink")가 적용된다. [2014년 5월에](../Page/2014년_5월.md "wikilink") 개최된 [부산 국제 모터쇼를](../Page/부산_국제_모터쇼.md "wikilink") 통하여 [대한민국](../Page/대한민국.md "wikilink")에도 정식으로 판매가 시작되었다. [2014년 9월에](../Page/2014년_9월.md "wikilink") AMG 버전인 AMG C63이 공개되었다. [2015년](../Page/2015년.md "wikilink")에 [프랑크푸르트 모터쇼를](https://ko.wikipedia.org/wiki/프랑크푸르트_모터쇼 "wikilink") 통하여 쿠페도 공개되었다. 또한 C 클래스 최초로 [카브라올레가](../Page/컨버터블.md "wikilink") 추가되었다. [2018년](../Page/2018년.md "wikilink")에 페이스 리프트를 거쳤다.
+[2014년 1월에](../Page/2014년_1월.md "wikilink") 개최된 디트로이트 모터쇼를 통하여 일반에 선보였다. 대부분의 [메르세데스-벤츠](../Page/메르세데스-벤츠.md "wikilink") 차량들과 같이 컬럼 시프트 타입 [자동변속기](../Page/자동변속기.md "wikilink")가 적용된다. [2014년 5월에](../Page/2014년_5월.md "wikilink") 개최된 [부산 국제 모터쇼를](../Page/부산_국제_모터쇼.md "wikilink") 통하여 [대한민국](../Page/대한민국.md "wikilink")에도 정식으로 판매가 시작되었다. [2014년 9월에](../Page/2014년_9월.md "wikilink") AMG 버전인 AMG C63이 공개되었다. [2015년](../Page/2015년.md "wikilink")에 [프랑크푸르트 모터쇼를](https://ko.wikipedia.org/wiki/프랑크푸르트_모터쇼 "wikilink") 통하여 쿠페도 공개되었다. 또한 C 클래스 최초로 [카브리올레가](../Page/컨버터블.md "wikilink") 추가되었다. [2018년](../Page/2018년.md "wikilink")에 페이스 리프트를 거쳤다.
 
 파일:Mercedes-Benz C 200 d T-Modell (S 205) – Frontansicht, 18. Oktober 2015, Ratingen.jpg|메르세데스-벤츠 C 클래스 에스테이트 정측면 파일:Mercedes-Benz C 200 d T-Modell (S 205) – Heckansicht, 18. Oktober 2015, Ratingen.jpg|메르세데스-벤츠 C 클래스 에스테이트 후측면 파일:Daimler_press_conference,_GIMS_2018,_Le_Grand-Saconnex_(1X7A0664).jpg |후기형 정측면
+
+{{-}}
 
 ## 6세대(W206/V206/S206/C206/A206)
 

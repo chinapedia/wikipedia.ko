@@ -9,7 +9,7 @@
 
 그러나 록펠러 2세는 그의 문화 사업을 통해 가장 잘 기억된다. 그는 일족과 함께 [록펠러 재단과](https://ko.wikipedia.org/wiki/록펠러_재단 "wikilink") [록펠러 대학을](https://ko.wikipedia.org/wiki/록펠러_대학 "wikilink") 설립했다. 또한 [버지니아주](../Page/버지니아주.md "wikilink")의 [콜로니얼 윌리엄스버그의](https://ko.wikipedia.org/wiki/콜로니얼_윌리엄스버그 "wikilink") 재건 자금을 제공했고, [뉴욕](../Page/뉴욕.md "wikilink")의 [유엔 본부의](../Page/유엔_본부.md "wikilink") 건설 부지를 기증했다.
 
-록펠러 2세는 자연 환경과 ​​보호에 특별한 관심을 보여, 미국의 국립, 국정 공원을 위해 광대한 토지를 구입하여 기증했다. 그 중에는 [그랜드 테이튼 국립공원](https://ko.wikipedia.org/wiki/그랜드_테이튼_국립공원 "wikilink"), [아카디아 국립공원](https://ko.wikipedia.org/wiki/아카디아_국립공원 "wikilink"), [그레이트스모키 산맥 국립공원](../Page/그레이트스모키_산맥_국립공원.md "wikilink") , [요세미티 국립공원](../Page/요세미티_국립공원.md "wikilink"), [셰넌 도어 국립공원을](https://ko.wikipedia.org/wiki/셰넌_도어_국립공원 "wikilink") 포함한다.
+록펠러 2세는 자연 환경과 보호에 특별한 관심을 보여, 미국의 국립, 국정 공원을 위해 광대한 토지를 구입하여 기증했다. 그 중에는 [그랜드 테이튼 국립공원](https://ko.wikipedia.org/wiki/그랜드_테이튼_국립공원 "wikilink"), [아카디아 국립공원](https://ko.wikipedia.org/wiki/아카디아_국립공원 "wikilink"), [그레이트스모키 산맥 국립공원](../Page/그레이트스모키_산맥_국립공원.md "wikilink") , [요세미티 국립공원](../Page/요세미티_국립공원.md "wikilink"), [셰넌 도어 국립공원을](https://ko.wikipedia.org/wiki/셰넌_도어_국립공원 "wikilink") 포함한다.
 
 ## 가족
 

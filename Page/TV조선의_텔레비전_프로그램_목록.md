@@ -33,7 +33,7 @@ __NOTOC__ 다음은 **[TV조선](../Page/TV조선.md "wikilink") [텔레비전](
 
   - [내일은 미스트롯](../Page/내일은_미스트롯.md "wikilink")   ([2019년](../Page/2019년.md "wikilink") [2월 28일](../Page/2월_28일.md "wikilink") \~ [2019년](../Page/2019년.md "wikilink") [5월 2일](../Page/5월_2일.md "wikilink"))
 
-  - [내일은 미스터트롯](https://ko.wikipedia.org/wiki/내일은_미스터트롯 "wikilink")
+  - [내일은 미스터트롯](../Page/내일은_미스터트롯.md "wikilink")
 
  ([2020년](../Page/2020년.md "wikilink") [1월 2일](../Page/1월_2일.md "wikilink"))
 
@@ -127,7 +127,7 @@ __NOTOC__ 다음은 **[TV조선](../Page/TV조선.md "wikilink") [텔레비전](
 
   - [브런치 경제 머니&우먼](https://ko.wikipedia.org/wiki/브런치_경제_머니&우먼 "wikilink") ([2011년](../Page/2011년.md "wikilink") [12월 8일](../Page/12월_8일.md "wikilink") \~ [2012년](../Page/2012년.md "wikilink") [2월 3일](../Page/2월_3일.md "wikilink"))
 
-  - [바람과 구름과 비](https://ko.wikipedia.org/wiki/바람과_구름과_비_\(2020년_드라마\) "wikilink")
+  - [바람과 구름과 비](../Page/바람과_구름과_비_\(2020년_드라마\).md "wikilink")
 
 ## ㅅ
 

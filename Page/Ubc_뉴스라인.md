@@ -19,7 +19,7 @@
 ## 울산방송의 다른 뉴스 프로그램
 
   - [ubc 프라임뉴스](https://ko.wikipedia.org/wiki/ubc_프라임뉴스 "wikilink")
-  - [ubc 굿모닝울산](https://ko.wikipedia.org/wiki/ubc_굿모닝울산 "wikilink")
+  - [ubc 모닝와이드](https://ko.wikipedia.org/wiki/ubc_모닝와이드 "wikilink")
   - [ubc 뉴스투데이](https://ko.wikipedia.org/wiki/ubc_뉴스투데이 "wikilink")
 
 ## 외부 링크

@@ -68,6 +68,4 @@
 
 [분류:미국의 핵무기](https://ko.wikipedia.org/wiki/분류:미국의_핵무기 "wikilink") [분류:미국의 잠수함발사 탄도유도탄](https://ko.wikipedia.org/wiki/분류:미국의_잠수함발사_탄도유도탄 "wikilink") [분류:북핵문제](https://ko.wikipedia.org/wiki/분류:북핵문제 "wikilink")
 
-[fr:Trident (missile)\#Trident II (D5) UGM-133A](https://ko.wikipedia.org/wiki/fr:Trident_\(missile\)#Trident_II_\(D5\)_UGM-133A "wikilink")
-
 1.  [SSBN Successfully Launches Multiple Ballistic Missiles](http://www.navy.mil/search/display.asp?story_id=54063)

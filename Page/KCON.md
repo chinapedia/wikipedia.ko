@@ -111,7 +111,7 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/제주특별자치도" title="wikilink">제주특별자치도</a></p></td>
 <td></td>
 <td><p><a href="../Page/제주종합경기장.md" title="wikilink">제주종합경기장</a></p></td>
-<td><p><a href="../Page/DAY6.md" title="wikilink">DAY6</a>, <a href="../Page/박보람.md" title="wikilink">박보람</a>, <a href="../Page/팔로알토_(가수).md" title="wikilink">팔로알토</a>, <a href="../Page/소나무_(음악_그룹).md" title="wikilink">소나무</a>, <a href="../Page/마마무.md" title="wikilink">마마무</a>, <a href="../Page/포텐.md" title="wikilink">포텐</a>, <a href="https://ko.wikipedia.org/wiki/로이킴" title="wikilink">로이킴</a>, <a href="../Page/오마이걸.md" title="wikilink">오마이걸</a>(야외 무대)</p></td>
+<td><p><a href="../Page/DAY6.md" title="wikilink">DAY6</a>, <a href="../Page/박보람.md" title="wikilink">박보람</a>, <a href="../Page/팔로알토_(래퍼).md" title="wikilink">팔로알토</a>, <a href="../Page/소나무_(음악_그룹).md" title="wikilink">소나무</a>, <a href="../Page/마마무.md" title="wikilink">마마무</a>, <a href="../Page/포텐.md" title="wikilink">포텐</a>, <a href="https://ko.wikipedia.org/wiki/로이킴" title="wikilink">로이킴</a>, <a href="../Page/오마이걸.md" title="wikilink">오마이걸</a>(야외 무대)</p></td>
 <td><p>1만7000명</p></td>
 <td></td>
 <td></td>
@@ -481,7 +481,7 @@
 <td><p><a href="../Page/방콕.md" title="wikilink">방콕</a></p></td>
 <td></td>
 <td><p>IMPACT ARENA</p></td>
-<td><p>Boy Story, <a href="../Page/에버글로우.md" title="wikilink">에버글로우</a>, <a href="../Page/골든차일드_(음악_그룹).md" title="wikilink">골든 차일드</a>, <a href="https://ko.wikipedia.org/wiki/GOT7" title="wikilink">GOT7</a>, <a href="https://ko.wikipedia.org/wiki/김재환" title="wikilink">김재환</a>, 원어스, <a href="../Page/더보이즈_(음악_그룹).md" title="wikilink">더보이즈</a>, <a href="../Page/ITZY.md" title="wikilink">ITZY</a>, <a href="../Page/네이처_(음악_그룹).md" title="wikilink">네이처</a>, <a href="https://ko.wikipedia.org/wiki/엑스원" title="wikilink">엑스원</a></p></td>
+<td><p><a href="../Page/보이스토리.md" title="wikilink">Boy Story</a>, <a href="../Page/에버글로우.md" title="wikilink">에버글로우</a>, <a href="../Page/골든차일드_(음악_그룹).md" title="wikilink">골든 차일드</a>, <a href="https://ko.wikipedia.org/wiki/GOT7" title="wikilink">GOT7</a>, <a href="https://ko.wikipedia.org/wiki/김재환" title="wikilink">김재환</a>, 원어스, <a href="../Page/더보이즈_(음악_그룹).md" title="wikilink">더보이즈</a>, <a href="../Page/ITZY.md" title="wikilink">ITZY</a>, <a href="../Page/네이처_(음악_그룹).md" title="wikilink">네이처</a>, <a href="https://ko.wikipedia.org/wiki/엑스원" title="wikilink">엑스원</a></p></td>
 <td></td>
 <td></td>
 <td></td>

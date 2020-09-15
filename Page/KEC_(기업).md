@@ -22,6 +22,6 @@
 
 [분류:반도체 기업](https://ko.wikipedia.org/wiki/분류:반도체_기업 "wikilink") [분류:대한민국의 전자 기업](https://ko.wikipedia.org/wiki/분류:대한민국의_전자_기업 "wikilink") [분류:2006년 설립된 기업](https://ko.wikipedia.org/wiki/분류:2006년_설립된_기업 "wikilink")
 
-1.  [다이나톤 연혁](http://www.dynatone.co.kr/site/html/intro/history.php)
+1.
 2.
 3.

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [자말레크 SC](https://ko.wikipedia.org/wiki/자말레크_SC).
 
 
-**자말레크 스포팅 클럽**(, ) 또는 **자말레크 SC**()는 [이집트](../Page/이집트.md "wikilink") [카이로](../Page/카이로.md "wikilink")를 연고로 하는 [축구](../Page/축구.md "wikilink") 클럽 팀이다. 카이로를 연고로 하는 [알아흘리와](../Page/알아흘리_\(카이로\).md "wikilink") 라이벌 관계에 있다.
+**자말레크 스포팅 클럽**(, ) 또는 **자말레크 SC**()는 [이집트](../Page/이집트.md "wikilink") [카이로](../Page/카이로.md "wikilink")를 연고로 하는 [축구](../Page/축구.md "wikilink") 클럽 팀이다. 또한 자말레크 SC는 카이로를 연고로 하는 [알아흘리와](../Page/알아흘리_\(카이로\).md "wikilink") 라이벌 관계에 있다.
 
 ## 클럽 명칭 역사
 

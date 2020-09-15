@@ -32,7 +32,7 @@
   - 하나오리 코토하 - [모리타 스즈카](../Page/모리타_스즈카.md "wikilink")
   - 우메모리 겐타 - [소마 케이스케](https://ko.wikipedia.org/wiki/소마_케이스케 "wikilink")
   - 시바 카오루 - [나츠이 루나](https://ko.wikipedia.org/wiki/나츠이_루나 "wikilink")
-  - 쿠사카베 히코마 - [이부키 고로](https://ko.wikipedia.org/wiki/이부키_고로 "wikilink")
+  - 쿠사카베 히코마 - [이부키 고로](../Page/이부키_고로.md "wikilink")
 
 <!-- end list -->
 

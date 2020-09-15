@@ -14,7 +14,7 @@
   - **[세군다 디비시온](../Page/세군다_디비시온.md "wikilink")**
       - 우승 3회 (1940–41, 1956–57, 1967–68)
       - 준우승 2회 (1939–40, 1965–66)
-  - **[세군다 디비시온 B](https://ko.wikipedia.org/wiki/세군다_디비시온_B "wikilink")**
+  - **[세군다 디비시온 B](../Page/세군다_디비시온_B.md "wikilink")**
       - 우승 3회 (1982–83, 1999–2000, 2009–10)
   - **[테르세라 디비시온](https://ko.wikipedia.org/wiki/테르세라_디비시온 "wikilink")**
       - 우승 3회 (1933–34, 2003–04, 2005–06)
@@ -23,10 +23,10 @@
 
 ## 외부 링크
 
-  - [공식 홈페이지](http://www.granadacf.es/)
+  - [공식 홈페이지](https://web.archive.org/web/20150811130053/http://www.granadacf.es/)
 
   - [비공식 홈페이지](http://www.granadacf.info/)
 
   - [비공식 홈페이지 \#2](https://web.archive.org/web/20100905005014/http://www.granadacf.tuportal.com/)
 
-[그라나다_CF](https://ko.wikipedia.org/wiki/분류:그라나다_CF "wikilink") [분류:1931년 설립된 축구단](https://ko.wikipedia.org/wiki/분류:1931년_설립된_축구단 "wikilink") [분류:스페인의 축구단](https://ko.wikipedia.org/wiki/분류:스페인의_축구단 "wikilink") [분류:라리가 구단](https://ko.wikipedia.org/wiki/분류:라리가_구단 "wikilink") [분류:안달루시아 지방의 축구단](https://ko.wikipedia.org/wiki/분류:안달루시아_지방의_축구단 "wikilink")
+[그라나다_CF](https://ko.wikipedia.org/wiki/분류:그라나다_CF "wikilink") [분류:1931년 설립된 축구단](https://ko.wikipedia.org/wiki/분류:1931년_설립된_축구단 "wikilink") [분류:스페인의 축구단](https://ko.wikipedia.org/wiki/분류:스페인의_축구단 "wikilink") [분류:라리가 구단](https://ko.wikipedia.org/wiki/분류:라리가_구단 "wikilink") [분류:안달루시아주의 축구단](https://ko.wikipedia.org/wiki/분류:안달루시아주의_축구단 "wikilink")

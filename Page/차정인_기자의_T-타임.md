@@ -13,21 +13,21 @@
 
 ※ [2012년](../Page/2012년.md "wikilink") [10월 8일](../Page/10월_8일.md "wikilink") : [KBS 1TV](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink") 24시간 방송 체제 도입 이후 기준임.
 
-| 방송 채널                         | 방송 기간                         | 방송 시간                       |
-| ----------------------------- | ----------------------------- | --------------------------- |
-| KBS 1TV                       | 2012년 10월 14일 \~ 2013년 9월 15일 | 매주 일요일 밤 2:40 \~ 3:10 (30분) |
-| 2013년 9월 25일 \~ 2013년 10월 16일 | 매주 수요일 밤 1:10 \~ 1:40 (30분)   |                             |
-| 2013년 10월 21일 \~ 2014년 8월 25일 | 매주 월요일 밤 1:10 \~ 1:40 (30분)   |                             |
-| 2014년 9월 1일 \~ 2014년 10월 27일  | 매주 월요일 밤 1:30 \~ 2:00 (30분)   |                             |
-| 2014년 11월 3일 \~ 2015년 2월 9일   | 매주 월요일 밤 12:20 \~ 12:50 (30분) |                             |
-| 2015년 2월 21일 \~ 2015년 3월 7일   | 매주 토요일 밤 1:25 \~ 1:55 (30분)   |                             |
-| 2015년 4월 11일 \~ 2015년 4월 18일  |                               |                             |
-| 2015년 3월 14일 \~ 2015년 4월 4일   | 매주 토요일 밤 1:05 \~ 1:35 (30분)   |                             |
-| 2015년 4월 25일 \~ 2015년 7월 25일  |                               |                             |
-| 2015년 8월 1일 \~ 2015년 12월 26일  | 매주 토요일 밤 12:50 \~ 1:20 (30분)  |                             |
-| 2016년 1월 9일 \~ 2016년 3월 26일   | 매주 토요일 밤 12:35 \~ 1:05 (30분)  |                             |
-| 2016년 4월 2일 \~ 2016년 4월 9일    | 매주 토요일 밤 11:55 \~ 12:25 (30분) |                             |
-| 2016년 4월 16일 \~ 8월 27일        | 매주 토요일 밤 11:40 \~ 12:10 (30분) |                             |
+| 방송 채널                                                       | 방송 기간                         | 방송 시간                       |
+| ----------------------------------------------------------- | ----------------------------- | --------------------------- |
+| [KBS 1TV](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink") | 2012년 10월 14일 \~ 2013년 9월 15일 | 매주 일요일 밤 2:40 \~ 3:10 (30분) |
+| 2013년 9월 25일 \~ 2013년 10월 16일                               | 매주 수요일 밤 1:10 \~ 1:40 (30분)   |                             |
+| 2013년 10월 21일 \~ 2014년 8월 25일                               | 매주 월요일 밤 1:10 \~ 1:40 (30분)   |                             |
+| 2014년 9월 1일 \~ 2014년 10월 27일                                | 매주 월요일 밤 1:30 \~ 2:00 (30분)   |                             |
+| 2014년 11월 3일 \~ 2015년 2월 9일                                 | 매주 월요일 밤 12:20 \~ 12:50 (30분) |                             |
+| 2015년 2월 21일 \~ 2015년 3월 7일                                 | 매주 토요일 밤 1:25 \~ 1:55 (30분)   |                             |
+| 2015년 4월 11일 \~ 2015년 4월 18일                                |                               |                             |
+| 2015년 3월 14일 \~ 2015년 4월 4일                                 | 매주 토요일 밤 1:05 \~ 1:35 (30분)   |                             |
+| 2015년 4월 25일 \~ 2015년 7월 25일                                |                               |                             |
+| 2015년 8월 1일 \~ 2015년 12월 26일                                | 매주 토요일 밤 12:50 \~ 1:20 (30분)  |                             |
+| 2016년 1월 9일 \~ 2016년 3월 26일                                 | 매주 토요일 밤 12:35 \~ 1:05 (30분)  |                             |
+| 2016년 4월 2일 \~ 2016년 4월 9일                                  | 매주 토요일 밤 11:55 \~ 12:25 (30분) |                             |
+| 2016년 4월 16일 \~ 8월 27일                                      | 매주 토요일 밤 11:40 \~ 12:10 (30분) |                             |
 
 ## 방송 회차
 
@@ -89,7 +89,7 @@
 <tr class="even">
 <td><p>8</p></td>
 <td><p><a href="../Page/8월_30일.md" title="wikilink">8월 30일</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/삼성" title="wikilink">삼성</a>-<a href="https://ko.wikipedia.org/wiki/애플_(기업)" title="wikilink">애플</a> 특허 전쟁, 근본적 차이는 UI와 UX?</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/삼성" title="wikilink">삼성</a>-<a href="../Page/애플.md" title="wikilink">애플</a> 특허 전쟁, 근본적 차이는 UI와 UX?</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -185,7 +185,7 @@
 <tr class="even">
 <td><p>24</p></td>
 <td><p><a href="../Page/12월_20일.md" title="wikilink">12월 20일</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/애플_(기업)" title="wikilink">애플</a> - <a href="../Page/2013년.md" title="wikilink">2013년</a>에 몰락? <a href="../Page/정보기술.md" title="wikilink">IT</a> 10대 이슈 전망</p></td>
+<td><p><a href="../Page/애플.md" title="wikilink">애플</a> - <a href="../Page/2013년.md" title="wikilink">2013년</a>에 몰락? <a href="../Page/정보기술.md" title="wikilink">IT</a> 10대 이슈 전망</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -213,7 +213,7 @@
 <tr class="even">
 <td><p>26</p></td>
 <td><p><a href="../Page/1월_10일.md" title="wikilink">1월 10일</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/슈퍼" title="wikilink">슈퍼</a> 스마트카 - <a href="../Page/구글.md" title="wikilink">구글</a>과 <a href="https://ko.wikipedia.org/wiki/애플_(기업)" title="wikilink">애플이</a> 개발?</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/슈퍼" title="wikilink">슈퍼</a> 스마트카 - <a href="../Page/구글.md" title="wikilink">구글</a>과 <a href="../Page/애플.md" title="wikilink">애플</a>이 개발?</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -429,7 +429,7 @@
 <tr class="even">
 <td><p>62</p></td>
 <td><p><a href="../Page/10월_3일.md" title="wikilink">10월 3일</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/삼성" title="wikilink">삼성</a>도 <a href="https://ko.wikipedia.org/wiki/애플_(기업)" title="wikilink">애플도</a> 혁신은 없었다, 문제는 <a href="../Page/소비자.md" title="wikilink">소비자</a> 눈높이?</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/삼성" title="wikilink">삼성</a>도 <a href="../Page/애플.md" title="wikilink">애플</a>도 혁신은 없었다, 문제는 <a href="../Page/소비자.md" title="wikilink">소비자</a> 눈높이?</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -715,7 +715,7 @@
 <tr class="odd">
 <td><p>107</p></td>
 <td><p><a href="../Page/9월_18일.md" title="wikilink">9월 18일</a></p></td>
-<td><p><a href="../Page/아이폰.md" title="wikilink">아이폰</a>6·<a href="https://ko.wikipedia.org/wiki/애플_(기업)" title="wikilink">애플워치</a> 써보니 “제 점수는요”</p></td>
+<td><p><a href="../Page/아이폰.md" title="wikilink">아이폰</a>6·<a href="../Page/애플.md" title="wikilink">애플</a>워치 써보니 “제 점수는요”</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -862,8 +862,8 @@
 </tr>
 <tr class="even">
 <td><p>129</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2월_26일" title="wikilink">2월 26일</a></p></td>
-<td><p>‘<a href="https://ko.wikipedia.org/wiki/삼성" title="wikilink">삼성</a> vs <a href="https://ko.wikipedia.org/wiki/애플_(기업)" title="wikilink">애플</a>’ 긴 싸움, 운명의 <a href="https://ko.wikipedia.org/wiki/열쇠" title="wikilink">열쇠</a>는 ‘갤럭시S6’</p></td>
+<td><p><a href="../Page/2월_26일.md" title="wikilink">2월 26일</a></p></td>
+<td><p>‘<a href="https://ko.wikipedia.org/wiki/삼성" title="wikilink">삼성</a> vs <a href="../Page/애플.md" title="wikilink">애플</a>’ 긴 싸움, 운명의 <a href="https://ko.wikipedia.org/wiki/열쇠" title="wikilink">열쇠</a>는 ‘갤럭시S6’</p></td>
 <td></td>
 </tr>
 <tr class="odd">

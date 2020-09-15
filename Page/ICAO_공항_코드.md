@@ -80,6 +80,17 @@
       - [후쿠시마 공항](../Page/후쿠시마_공항.md "wikilink") (Fukushima - Fukushima Airport) [RJSF](https://ko.wikipedia.org/wiki/RJSF "wikilink")
       - [후쿠오카 국제공항](https://ko.wikipedia.org/wiki/후쿠오카_국제공항 "wikilink") (Fukuoka - Fukuoka International Airport) [RJFF](https://ko.wikipedia.org/wiki/RJFF "wikilink")
       - [히로시마 공항](../Page/히로시마_공항.md "wikilink") (Hiroshima - Hiroshima Airport) [RJOH](https://ko.wikipedia.org/wiki/RJOH "wikilink")
+  - [미국](../Page/미국.md "wikilink") (USA)
+      - [로스앤젤레스 국제공항](https://ko.wikipedia.org/wiki/로스앤젤레스_국제공항 "wikilink") (Los Angeles - Los Angeles International Airport) - [KLAX](https://ko.wikipedia.org/wiki/KLAX "wikilink")
+      - [샌프란시스코 국제공항](https://ko.wikipedia.org/wiki/샌프란시스코_국제공항 "wikilink") (San Francisco - San Francisco International Airport) - [KSFO](https://ko.wikipedia.org/wiki/KSFO "wikilink")
+      - [오헤어 국제공항](https://ko.wikipedia.org/wiki/오헤어_국제공항 "wikilink") (Chicago - O'Hare International Airport) - [KORD](https://ko.wikipedia.org/wiki/KORD "wikilink")
+      - [존 F. 케네디 국제공항](https://ko.wikipedia.org/wiki/존_F._케네디_국제공항 "wikilink") (New York - John F. Kennedy International Airpor) - [KJFK](https://ko.wikipedia.org/wiki/KJFK "wikilink")
+      - [댈러스 포트워스 국제공항](https://ko.wikipedia.org/wiki/댈러스_포트워스_국제공항 "wikilink") (Dallas - Dallas Fort Worth International Airport) - [KDFW](https://ko.wikipedia.org/wiki/KDFW "wikilink")
+      - [조지 부시 인터콘티넨털 공항](https://ko.wikipedia.org/wiki/조지_부시_인터콘티넨털_공항 "wikilink") (Houston - George Bush Intercontinental Airport) - [KIAH](https://ko.wikipedia.org/wiki/KIAH "wikilink")
+      - [하츠필드 잭슨 애틀랜타 국제공항](https://ko.wikipedia.org/wiki/하츠필드_잭슨_애틀랜타_국제공항 "wikilink") (Atlanta - Hartsfield-Jackson Atlanta International Airport) - [KATL](https://ko.wikipedia.org/wiki/KATL "wikilink")
+      - [시애틀 터코마 국제공항](https://ko.wikipedia.org/wiki/시애틀_터코마_국제공항 "wikilink") (Seattle - Seattle Tacoma International Airport) - [KSEA](https://ko.wikipedia.org/wiki/KSEA "wikilink")
+      - [덴버 국제공항](https://ko.wikipedia.org/wiki/덴버_국제공항 "wikilink") (Denver - Denver International Airport) [KDEN](https://ko.wikipedia.org/wiki/KDEN "wikilink")
+      - [워싱턴 덜레스 국제공항](https://ko.wikipedia.org/wiki/워싱턴_덜레스_국제공항 "wikilink") (Washington D.C. - Washington Dulles International Airport) [KIAD](https://ko.wikipedia.org/wiki/KIAD "wikilink")
   - [프랑스](../Page/프랑스.md "wikilink") (France)
       - [보르도](../Page/보르도.md "wikilink") FIR (bordeaux - Bordeaux Mérgnac Airport)[LFBB](https://ko.wikipedia.org/wiki/LFBB "wikilink")
       - 브레스트 FIR [LFRR](https://ko.wikipedia.org/wiki/LFRR "wikilink")
@@ -88,24 +99,14 @@
       - 렝스 FIR [LFEE](https://ko.wikipedia.org/wiki/LFEE "wikilink")
   - [캐나다](../Page/캐나다.md "wikilink") (Canada)
       - [토론토 피어슨 국제공항](https://ko.wikipedia.org/wiki/토론토_피어슨_국제공항 "wikilink") (Toronto - Toronto Pearson International Airport) [CYYZ](https://ko.wikipedia.org/wiki/CYYZ "wikilink")
+      - [밴쿠버 국제공항](https://ko.wikipedia.org/wiki/밴쿠버_국제공항 "wikilink") (Vancouver - Vancouver International Airport) [CYVR](https://ko.wikipedia.org/wiki/CYVR "wikilink")
   - [중화인민공화국](../Page/중화인민공화국.md "wikilink") (PRC)
       - [베이징 수도 국제공항](https://ko.wikipedia.org/wiki/베이징_수도_국제공항 "wikilink") ( Beijing - Bejing Capital International Airport [ZBAA](https://ko.wikipedia.org/wiki/ZBAA "wikilink")
   - [뉴질랜드](../Page/뉴질랜드.md "wikilink") (New Zealand)
-      - [오클랜드 국제공항](https://ko.wikipedia.org/wiki/오클랜드_국제공항 "wikilink") (Auckland Airport)
-
-[NZAA](https://ko.wikipedia.org/wiki/NZAA "wikilink")
-
-  -   - [웰링턴 국제공항](../Page/웰링턴_국제공항.md "wikilink")
-
-(Welington International Airport) [NZWN](https://ko.wikipedia.org/wiki/NZWN "wikilink")
-
-  -   - [퀸스타운 공항](../Page/퀸스타운_공항.md "wikilink")
-
-(Qeenstown Airport) [NZQN](https://ko.wikipedia.org/wiki/NZQN "wikilink")
-
-  -   - [크라이스트 처치 공항](https://ko.wikipedia.org/wiki/크라이스트_처치_공항 "wikilink")
-
-(Christchurch Airport) [NZCH](https://ko.wikipedia.org/wiki/NZCH "wikilink")
+      - [오클랜드 국제공항](https://ko.wikipedia.org/wiki/오클랜드_국제공항 "wikilink") (Auckland Airport)[NZAA](https://ko.wikipedia.org/wiki/NZAA "wikilink")
+      - [웰링턴 국제공항](../Page/웰링턴_국제공항.md "wikilink")(Welington International Airport)[NZWN](https://ko.wikipedia.org/wiki/NZWN "wikilink")
+      - [퀸스타운 공항](../Page/퀸스타운_공항.md "wikilink")(Qeenstown Airport)[NZQN](https://ko.wikipedia.org/wiki/NZQN "wikilink")
+      - [크라이스트 처치 공항](https://ko.wikipedia.org/wiki/크라이스트_처치_공항 "wikilink")(Christchurch Airport)[NZCH](https://ko.wikipedia.org/wiki/NZCH "wikilink")
 
 ## 각주
 

@@ -82,6 +82,6 @@ SJ에서는 [말뫼](../Page/말뫼.md "wikilink")-[베를린](../Page/베를린
 
 ## 외부 링크
 
-  - [공식 사이트](http://www.sj.se/)
+  - [공식 사이트](https://web.archive.org/web/20130114092212/http://www.sj.se/)
 
 [분류:2001년 설립](https://ko.wikipedia.org/wiki/분류:2001년_설립 "wikilink") [분류:스웨덴의 철도 교통](https://ko.wikipedia.org/wiki/분류:스웨덴의_철도_교통 "wikilink") [분류:스웨덴의 철도 기업](https://ko.wikipedia.org/wiki/분류:스웨덴의_철도_기업 "wikilink") [분류:스웨덴의 공기업](https://ko.wikipedia.org/wiki/분류:스웨덴의_공기업 "wikilink") [분류:스웨덴의 브랜드](https://ko.wikipedia.org/wiki/분류:스웨덴의_브랜드 "wikilink")

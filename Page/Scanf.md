@@ -14,15 +14,15 @@ int scanf(const char *format, ...);
 
 `scanf`는 [C에서](../Page/C_\(프로그래밍_언어\).md "wikilink") 비롯했는데, 표준 입력(종종 명령 줄 인터페이스)으로부터 숫자나 다른 입력한 데이터타입을 입력 받아 읽어낸다.
 
-아래는 C 언어에서 각 줄의으로부터 언포맷된 10진 정수값 가변 숫자를 읽는 코드이다:(쓸만함)
+아래는 C 언어에서 각 줄의으로부터 언포맷된 10진 정수값 가변 숫자를 읽는 코드이다.
 
 ``` c
 #include <stdio.h>
-int
-main(void)
+
+int main(void)
 {
     int n;
-    while (scanf("%d", &n));
+    while (scanf("%d", &n))
         printf("%d\n", n);
     return 0;
 }

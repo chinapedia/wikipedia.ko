@@ -28,6 +28,6 @@
 4.
 5.
 6.  [Trans-Pacific Express Approved To Land In U.S. - MarketAvenue](http://www.marketavenue.cn/upload/NEWS_27001.htm)
-7.  [dailywireless.org » New China Transpacific Cable](http://www.dailywireless.org/2006/12/18/new-china-transpacific-cable)
+7.
 8.  [Trans-Pacific Express submarine cable system gets FCC approval - Engadget](http://www.engadget.com/2008/01/11/trans-pacific-express-submarine-cable-system-gets-fcc-approval)
 9.

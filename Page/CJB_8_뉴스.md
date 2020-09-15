@@ -32,7 +32,9 @@
 ## 청주방송의 다른 뉴스 프로그램
 
   - [CJB 모닝와이드](../Page/CJB_모닝와이드.md "wikilink")
-  - [CJB 뉴스매거진 7](https://ko.wikipedia.org/wiki/CJB_뉴스매거진_7 "wikilink")
+  - [CJB 7 뉴스](https://ko.wikipedia.org/wiki/CJB_7_뉴스 "wikilink")
+  - [CJB 뉴스 (1020)](../Page/CJB_뉴스_\(1020\).md "wikilink")
+  - [CJB 뉴스 (1740)](../Page/CJB_뉴스_\(1740\).md "wikilink")
 
 ## 같이 보기
 

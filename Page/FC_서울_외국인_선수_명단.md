@@ -755,7 +755,7 @@
 <tbody>
 <tr class="odd">
 <td><p><a href="../Page/알렉산다르_페시치.md" title="wikilink">페시치</a> / <a href="https://ko.wikipedia.org/wiki/:en:Aleksandar_Pešić" title="wikilink">Aleksandar Pešić</a><br />
-(2019–현재)</p></td>
+(2019–2020)</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1097,7 +1097,7 @@
 ## 통계
 
 ※ 1984–2015 시즌 기준
-※ 최다 출장 기록, 최다 득점 기록, 최다 무실점 기록, 최다 실점률 기록은 [K리그 통산 기록](../Page/K리그.md "wikilink")([정규시즌](https://ko.wikipedia.org/wiki/K리그1 "wikilink"), [포스트시즌](../Page/K리그_챔피언십.md "wikilink"), [리그컵](../Page/리그컵_\(대한민국\).md "wikilink"))과 [FA컵과](https://ko.wikipedia.org/wiki/FA컵_\(대한민국\) "wikilink") [AFC 챔피언스리그](../Page/AFC_챔피언스리그.md "wikilink") 기록을 합산한 통산 기록이다.
+※ 최다 출장 기록, 최다 득점 기록, 최다 무실점 기록, 최다 실점률 기록은 [K리그 통산 기록](../Page/K리그.md "wikilink")([정규시즌](https://ko.wikipedia.org/wiki/K리그1 "wikilink"), [포스트시즌](../Page/K리그_챔피언십.md "wikilink"), [리그컵](../Page/리그컵_\(대한민국\).md "wikilink"))과 [FA컵과](../Page/FA컵_\(대한민국\).md "wikilink") [AFC 챔피언스리그](../Page/AFC_챔피언스리그.md "wikilink") 기록을 합산한 통산 기록이다.
 ※ [친선경기](https://ko.wikipedia.org/wiki/FC_서울의_친선경기 "wikilink") 기록은 제외되었다.
 ※ 최다 도움 기록과 최다 공격포인트 기록은 공식 도움 기록이 제공되는 [K리그 통산 기록으로만](../Page/K리그.md "wikilink") 계산되었다.
 ※ 기타 대회와 경기수는 다음과 같다
@@ -1119,7 +1119,7 @@
 통산</a></p></th>
 <th><p><a href="https://ko.wikipedia.org/wiki/K리그1" title="wikilink">K리그1</a></p></th>
 <th><p><a href="../Page/리그컵_(대한민국).md" title="wikilink">리그컵</a></p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/FA컵_(대한민국)" title="wikilink">FA컵</a></p></th>
+<th><p><a href="../Page/FA컵_(대한민국).md" title="wikilink">FA컵</a></p></th>
 <th><p><a href="../Page/FC_서울의_국제클럽대항전.md" title="wikilink">국제클럽<br />
 대항전</a></p></th>
 <th><p>기타<br />
@@ -1252,7 +1252,7 @@
 통산</a></p></th>
 <th><p><a href="https://ko.wikipedia.org/wiki/K리그1" title="wikilink">K리그1</a></p></th>
 <th><p><a href="../Page/리그컵_(대한민국).md" title="wikilink">리그컵</a></p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/FA컵_(대한민국)" title="wikilink">FA컵</a></p></th>
+<th><p><a href="../Page/FA컵_(대한민국).md" title="wikilink">FA컵</a></p></th>
 <th><p><a href="../Page/FC_서울의_국제클럽대항전.md" title="wikilink">국제클럽<br />
 대항전</a></p></th>
 <th><p>기타<br />
@@ -1537,7 +1537,7 @@
 
 ### 외국인 선수 개인별 기록
 
-※ FC 서울 소속으로 수립한 [K리그 통산 기록](../Page/K리그.md "wikilink")([정규시즌](https://ko.wikipedia.org/wiki/K리그1 "wikilink"), [포스트시즌](../Page/K리그_챔피언십.md "wikilink"), [리그컵](../Page/리그컵_\(대한민국\).md "wikilink"))이며, [FA컵과](https://ko.wikipedia.org/wiki/FA컵_\(대한민국\) "wikilink") [AFC 챔피언스리그](../Page/AFC_챔피언스리그.md "wikilink") 등 기타 대회 기록은 포함되지 않았다.
+※ FC 서울 소속으로 수립한 [K리그 통산 기록](../Page/K리그.md "wikilink")([정규시즌](https://ko.wikipedia.org/wiki/K리그1 "wikilink"), [포스트시즌](../Page/K리그_챔피언십.md "wikilink"), [리그컵](../Page/리그컵_\(대한민국\).md "wikilink"))이며, [FA컵과](../Page/FA컵_\(대한민국\).md "wikilink") [AFC 챔피언스리그](../Page/AFC_챔피언스리그.md "wikilink") 등 기타 대회 기록은 포함되지 않았다.
 {| class="wikitable sortable" style="text-align: center;" \! 순번 \! 이름 \! 국적 \! 연맹 \! 대표팀
 경력 \! 포지션 \! 시즌 \! 출장 \! 득점 \! 도움 \! 실점 / 실점률
 무실점 / 무실점률 \! 개인상 \! 비고 |- | 1 | align=left| [피아퐁](../Page/삐야퐁_피우온.md "wikilink") |  | [AFC](../Page/아시아_축구_연맹.md "wikilink") | align=left| [태국 성인](../Page/태국_축구_국가대표팀.md "wikilink") | [FW](../Page/공격수.md "wikilink") | 1984–1986 | 43 | 18 | 6 | | align=left|[K리그 득점상 (1985)](../Page/K리그_득점상.md "wikilink")
@@ -1562,7 +1562,8 @@
 [터키 성인](../Page/터키_축구_국가대표팀.md "wikilink") | [MF](../Page/미드필더.md "wikilink") | 2008 | 8 | 1 | 0 | | | |- | 53 | align=left| [케빈](../Page/케빈_하치.md "wikilink") |  | [UEFA](../Page/유럽_축구_연맹.md "wikilink") | | [DF](../Page/수비수.md "wikilink") | 2009 | 11 | 0 | 2 | | | |- | 54 | align=left| [안데르손](../Page/안데르송_히카르두_두스_산투스.md "wikilink") |  | [CONMEBOL](../Page/남미_축구_연맹.md "wikilink") | | [FW](../Page/공격수.md "wikilink") | 2009 | 13 | 4 | 1 | | | |- | 55 | align=left| [에스테베즈](../Page/히카르두_에스테베스.md "wikilink") |  | [UEFA](../Page/유럽_축구_연맹.md "wikilink") | align=left| [포르투갈 U-20, 21](../Page/포르투갈_축구_국가대표팀.md "wikilink") | [MF](../Page/미드필더.md "wikilink") | 2010 | 14 | 4 | 5 | | | |- | 56 | align=left| [제파로프](../Page/세르베르_제파로프.md "wikilink") |  | [AFC](../Page/아시아_축구_연맹.md "wikilink") | align=left| [우즈베키스탄 성인](../Page/우즈베키스탄_축구_국가대표팀.md "wikilink") | [MF](../Page/미드필더.md "wikilink") | 2010–2011 | 33 | 1 | 8 | | | |- | 57 | align=left| [리마](../Page/주앙_마리아_리마_두_나시멘투.md "wikilink") |  | [CONMEBOL](../Page/남미_축구_연맹.md "wikilink") | | [FW](../Page/공격수.md "wikilink") | 2010 | 0 | 0 | 0 | | | |- | 58 | align=left| [몰리나](https://ko.wikipedia.org/wiki/마우리시오_몰리나 "wikilink") |  | [CONMEBOL](../Page/남미_축구_연맹.md "wikilink") | align=left| [콜롬비아 성인](../Page/콜롬비아_축구_국가대표팀.md "wikilink") | [MF](../Page/미드필더.md "wikilink") | 2011–2015 | 159 | 46 | 58 | | align=left|[K리그 도움상 (2012, 2013)](../Page/K리그_도움상.md "wikilink")
 [K리그 베스트11 (2012)](../Page/K리그_베스트_11.md "wikilink") | |- | 59 | align=left| [에스쿠데로](https://ko.wikipedia.org/wiki/세르히오_에스쿠데로_\(1988년\) "wikilink") |  | [AFC](../Page/아시아_축구_연맹.md "wikilink") | align=left| [일본 U-23](../Page/일본_U-23_축구_국가대표팀.md "wikilink") | [FW](../Page/공격수.md "wikilink") | 2012–2015 | 86 | 14 | 14 | | | |- | 60 | align=left| [오스마르](https://ko.wikipedia.org/wiki/오스마르_바르바 "wikilink") |  | [UEFA](../Page/유럽_축구_연맹.md "wikilink") | | [MF](../Page/미드필더.md "wikilink")
 [DF](../Page/수비수.md "wikilink") | 2014–2017
-2019–현재 | 72 | 5 | 2 | | | |- | 61 | align=left| [하파엘](../Page/하파에우_코스타.md "wikilink") |  | [CONMEBOL](../Page/남미_축구_연맹.md "wikilink") | | [FW](../Page/공격수.md "wikilink") | 2014 | 9 | 0 | 0 | | | |- | 62 | align=left| [에벨톤](https://ko.wikipedia.org/wiki/이베르통_산투스 "wikilink") |  | [CONMEBOL](../Page/남미_축구_연맹.md "wikilink") | | [FW](../Page/공격수.md "wikilink") | 2014–2015 | 32 | 7 | 1 | | | |- | 63 | align=left| [다카하기](../Page/다카하기_요지로.md "wikilink") |  | [AFC](../Page/아시아_축구_연맹.md "wikilink") | align=left| [일본 성인](https://ko.wikipedia.org/wiki/일본_축구_국가대표팀 "wikilink") | [MF](../Page/미드필더.md "wikilink") | 2015–2016 | 46 | 3 | 4 | | align=left|[FA컵 MVP (2015)](https://ko.wikipedia.org/wiki/FA컵_\(대한민국\)_최우수선수상 "wikilink") | |- | 64 | align=left| [아드리아노](../Page/카를루스_아드리아누_지_소우사_크루스.md "wikilink") |  | [CONMEBOL](../Page/남미_축구_연맹.md "wikilink") | | [FW](../Page/공격수.md "wikilink") | 2015–2016 | 43 | 25 | 7 | | align=left|[FA컵 득점상 (2016)](../Page/FA컵_득점상_\(대한민국\).md "wikilink") | |- | 65 | align=left| [마우링요](../Page/마우루_조브_폰치스_주니오르.md "wikilink") |  | [CONMEBOL](../Page/남미_축구_연맹.md "wikilink") | | [FW](../Page/공격수.md "wikilink") | 2017 | 9 | 0 | 0 | | | |- | 66 | align=left| [칼레드](../Page/칼레드_샤피에이.md "wikilink") |  | [AFC](../Page/아시아_축구_연맹.md "wikilink") | | [DF](../Page/수비수.md "wikilink") | 2017 | 2 | 0 | 0 | | | |- | 67 | align=left| [코바](../Page/이반_코바체츠.md "wikilink") |  | [UEFA](../Page/유럽_축구_연맹.md "wikilink") | | [FW](../Page/공격수.md "wikilink") | 2017–2018 | | | | | | |- | 68 | align=left| [에반드로](../Page/에반드루_시우바_두_나시멘투.md "wikilink") |  | [CONMEBOL](../Page/남미_축구_연맹.md "wikilink") | | [FW](../Page/공격수.md "wikilink") | 2018 | 32 | 3 | 2 | | | |- | 69 | align=left| [안델손](../Page/안데르송_로페스.md "wikilink") |  | [CONMEBOL](../Page/남미_축구_연맹.md "wikilink") | | [FW](../Page/공격수.md "wikilink") | 2018 | 30 | 6 | 4 | | | |- | 70 | align=left| [마티치](../Page/보얀_마티치.md "wikilink") |  | [UEFA](../Page/유럽_축구_연맹.md "wikilink") | | [FW](../Page/공격수.md "wikilink") | 2018 | 9 | 1 | 0 | | | |- | 71 | align=left| [알리바예프](../Page/이크롬_알리바예프.md "wikilink") |  | [AFC](../Page/아시아_축구_연맹.md "wikilink") | | [MF](../Page/미드필더.md "wikilink") | 2019– | | | | | | |- | 72 | align=left| [페시치](https://ko.wikipedia.org/wiki/알렉산다르 "wikilink") |  | [UEFA](../Page/유럽_축구_연맹.md "wikilink") | | [FW](../Page/공격수.md "wikilink") | 2019– | | | | | | |}
+2019–현재 | 72 | 5 | 2 | | | |- | 61 | align=left| [하파엘](../Page/하파에우_코스타.md "wikilink") |  | [CONMEBOL](../Page/남미_축구_연맹.md "wikilink") | | [FW](../Page/공격수.md "wikilink") | 2014 | 9 | 0 | 0 | | | |- | 62 | align=left| [에벨톤](https://ko.wikipedia.org/wiki/이베르통_산투스 "wikilink") |  | [CONMEBOL](../Page/남미_축구_연맹.md "wikilink") | | [FW](../Page/공격수.md "wikilink") | 2014–2015 | 32 | 7 | 1 | | | |- | 63 | align=left| [다카하기](../Page/다카하기_요지로.md "wikilink") |  | [AFC](../Page/아시아_축구_연맹.md "wikilink") | align=left| [일본 성인](https://ko.wikipedia.org/wiki/일본_축구_국가대표팀 "wikilink") | [MF](../Page/미드필더.md "wikilink") | 2015–2016 | 46 | 3 | 4 | | align=left|[FA컵 MVP (2015)](https://ko.wikipedia.org/wiki/FA컵_\(대한민국\)_최우수선수상 "wikilink") | |- | 64 | align=left| [아드리아노](../Page/카를루스_아드리아누_지_소우사_크루스.md "wikilink") |  | [CONMEBOL](../Page/남미_축구_연맹.md "wikilink") | | [FW](../Page/공격수.md "wikilink") | 2015–2016
+2020 | 43 | 25 | 7 | | align=left|[FA컵 득점상 (2016)](../Page/FA컵_득점상_\(대한민국\).md "wikilink") | |- | 65 | align=left| [마우링요](../Page/마우루_조브_폰치스_주니오르.md "wikilink") |  | [CONMEBOL](../Page/남미_축구_연맹.md "wikilink") | | [FW](../Page/공격수.md "wikilink") | 2017 | 9 | 0 | 0 | | | |- | 66 | align=left| [칼레드](../Page/칼레드_샤피에이.md "wikilink") |  | [AFC](../Page/아시아_축구_연맹.md "wikilink") | | [DF](../Page/수비수.md "wikilink") | 2017 | 2 | 0 | 0 | | | |- | 67 | align=left| [코바](../Page/이반_코바체츠.md "wikilink") |  | [UEFA](../Page/유럽_축구_연맹.md "wikilink") | | [FW](../Page/공격수.md "wikilink") | 2017–2018 | | | | | | |- | 68 | align=left| [에반드로](../Page/에반드루_시우바_두_나시멘투.md "wikilink") |  | [CONMEBOL](../Page/남미_축구_연맹.md "wikilink") | | [FW](../Page/공격수.md "wikilink") | 2018 | 32 | 3 | 2 | | | |- | 69 | align=left| [안델손](../Page/안데르송_로페스.md "wikilink") |  | [CONMEBOL](../Page/남미_축구_연맹.md "wikilink") | | [FW](../Page/공격수.md "wikilink") | 2018 | 30 | 6 | 4 | | | |- | 70 | align=left| [마티치](../Page/보얀_마티치.md "wikilink") |  | [UEFA](../Page/유럽_축구_연맹.md "wikilink") | | [FW](../Page/공격수.md "wikilink") | 2018 | 9 | 1 | 0 | | | |- | 71 | align=left| [알리바예프](../Page/이크롬_알리바예프.md "wikilink") |  | [AFC](../Page/아시아_축구_연맹.md "wikilink") | | [MF](../Page/미드필더.md "wikilink") | 2019– | | | | | | |- | 72 | align=left| [페시치](https://ko.wikipedia.org/wiki/알렉산다르 "wikilink") |  | [UEFA](../Page/유럽_축구_연맹.md "wikilink") | | [FW](../Page/공격수.md "wikilink") | 2019–2020 | | | | | | |}
 
 ## 관련 항목
 

@@ -77,8 +77,4 @@
   - [U-KBS](../Page/U-KBS.md "wikilink")
   - [TBC DMB](../Page/TBC_DMB.md "wikilink")
 
-## 외부 링크
-
-  - [my MBC 편성표](http://andongmbc.co.kr/adboard/index.php?doc=program/board.php&bo_table=dmb)
-
 [분류:문화방송계열 방송국](https://ko.wikipedia.org/wiki/분류:문화방송계열_방송국 "wikilink") [분류:2008년 설립된 텔레비전 방송국과 채널](https://ko.wikipedia.org/wiki/분류:2008년_설립된_텔레비전_방송국과_채널 "wikilink")

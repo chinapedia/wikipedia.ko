@@ -3,7 +3,7 @@
 
 **TJ미디어**(티제이미디어, TJ Media)는 [1981년](../Page/1981년.md "wikilink")에 설립된 [대한민국](../Page/대한민국.md "wikilink")의 음향 기기 업체로, 옛 사명인 **태진미디어**로도 알려져 있다.
 
-2016년 이후 [금영을](../Page/금영엔터테인먼트.md "wikilink") 제치고 대한민국에서 가장 많이 사용되는 [노래방](../Page/노래방.md "wikilink")기기 제조사로 꼽히고 있다.\[1\]
+[2016년](../Page/2016년.md "wikilink") 이후 [금영을](../Page/금영엔터테인먼트.md "wikilink") 제치고 대한민국에서 가장 많이 사용되는 [노래방](../Page/노래방.md "wikilink")기기 제조사로 꼽히고 있다.\[1\]
 
 브랜드 슬로건은 『**노래하는 즐거움, TJ**』이다.
 
@@ -11,17 +11,17 @@
 
   - [1981년](../Page/1981년.md "wikilink") [6월](../Page/6월.md "wikilink"): 태진음향 설립
   - [1989년](../Page/1989년.md "wikilink") [12월](../Page/12월.md "wikilink"): 가정용 컴퓨터 노래 반주기 《뮤지콤》 출시
-  - [1991년](../Page/1991년.md "wikilink") [4월](../Page/4월.md "wikilink"): ㈜태진음향으로 법인 전환
+  - [1991년](../Page/1991년.md "wikilink") [4월](../Page/4월.md "wikilink"): (주)태진음향으로 법인 전환
   - [1993년](../Page/1993년.md "wikilink") [8월](../Page/8월.md "wikilink"): 국내 최초 실제 연주 방식 업소용 노래반주기 〈PRO-500〉 출시
-  - [1997년](../Page/1997년.md "wikilink") [1월](../Page/1월.md "wikilink"): 태진미디어㈜로 상호변경
+  - [1997년](../Page/1997년.md "wikilink") [1월](../Page/1월.md "wikilink"): 태진미디어(주)로 상호변경
   - [1997년](../Page/1997년.md "wikilink") [4월](../Page/4월.md "wikilink"): 코스닥 주식시장 등록
   - [1998년](../Page/1998년.md "wikilink") [9월](../Page/9월.md "wikilink"): ISO9001 인증 획득
   - [1999년](../Page/1999년.md "wikilink") [12월](../Page/12월.md "wikilink"): WOW-DDD (Dance Dance Diet) 출시
-  - [2001년](../Page/2001년.md "wikilink") [4월](../Page/4월.md "wikilink"): 온라인 노래방 사이트 www.ziller.co.kr 오픈
+  - [2001년](../Page/2001년.md "wikilink") [4월](../Page/4월.md "wikilink"): 온라인 노래방 사이트 <http://www.ziller.co.kr> 오픈
   - [2001년](../Page/2001년.md "wikilink") [11월](../Page/11월.md "wikilink"): 일본 제일흥상社와 전자 목차본 공급 계약 체결
   - [2002년](../Page/2002년.md "wikilink") [6월](../Page/6월.md "wikilink"): HDD방식의 동영상 내장 노래반주기 《ziller-OK》 출시
   - [2002년](../Page/2002년.md "wikilink") [11월](../Page/11월.md "wikilink"): 세계 최초, 초고속 인터넷 기반의 네트워크 반주기 《ziller-net》 출시
-  - [2003년](../Page/2003년.md "wikilink") [2월](../Page/2월.md "wikilink"): 가정용 DVD 노래 반주기 출시
+  - [2003년](../Page/2003년.md "wikilink") [4월](../Page/4월.md "wikilink"): 가정용 DVD 노래 반주기 출시
   - [2004년](../Page/2004년.md "wikilink") [7월](../Page/7월.md "wikilink"): 5.1채널 돌비 디지털 믹싱이 가능한 음악 스튜디오 건립
   - [2005년](../Page/2005년.md "wikilink") [1월](../Page/1월.md "wikilink")
       - TJ미디어(주)로 사명 변경 및 CI·BI 변경
@@ -356,7 +356,7 @@
 <tr class="even">
 <td><p>C40</p></td>
 <td><p>2011년 10월</p></td>
-<td><p>2012년 9월</p></td>
+<td><p>2012년 10월</p></td>
 <td><p>1TB</p></td>
 <td></td>
 <td></td>
@@ -446,7 +446,7 @@
 <tr class="even">
 <td><p>B65</p></td>
 <td><p>2016년 11월</p></td>
-<td><p>생산중</p></td>
+<td><p>2020년 6월</p></td>
 <td><p>500GB</p></td>
 <td></td>
 <td></td>
@@ -509,7 +509,7 @@
 <tr class="odd">
 <td><p>K20</p></td>
 <td><p>2017년 5월</p></td>
-<td><p>생산중</p></td>
+<td><p>2020년 6월</p></td>
 <td><p>1TB</p></td>
 <td></td>
 <td></td>
@@ -518,7 +518,7 @@
 <tr class="even">
 <td><p>B80</p></td>
 <td><p>2018년 5월</p></td>
-<td><p>생산중</p></td>
+<td><p>2020년 6월</p></td>
 <td><p>1TB</p></td>
 <td></td>
 <td></td>
@@ -527,7 +527,7 @@
 <tr class="odd">
 <td><p>S80</p></td>
 <td><p>2018년 5월</p></td>
-<td><p>생산중</p></td>
+<td><p>2020년 6월</p></td>
 <td><p>1TB</p></td>
 <td></td>
 <td></td>
@@ -536,7 +536,7 @@
 <tr class="even">
 <td><p>P80</p></td>
 <td><p>2018년 5월</p></td>
-<td><p>생산중</p></td>
+<td><p>2020년 6월</p></td>
 <td><p>2TB</p></td>
 <td></td>
 <td></td>
@@ -551,13 +551,67 @@
 <td></td>
 <td></td>
 </tr>
+<tr class="even">
+<td><p>B1</p></td>
+<td><p>2020년 4월</p></td>
+<td><p>생산중</p></td>
+<td><p>1TB</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>P1</p></td>
+<td><p>2020년 4월</p></td>
+<td><p>생산중</p></td>
+<td><p>2TB</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>가정용</p></td>
+<td><p>TKR-304K</p></td>
+<td><p>2011년 10월</p></td>
+<td><p>2015년 3월</p></td>
+<td><p>500GB</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>TKR-355HK</p></td>
+<td><p>2015년 3월</p></td>
+<td><p>생산중</p></td>
+<td><p>16GB</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>TKR-365HK</p></td>
+<td><p>2015년 3월</p></td>
+<td><p>생산중</p></td>
+<td><p>1TB</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>TKR-360CK</p></td>
+<td><p>2015년 3월</p></td>
+<td><p>생산중</p></td>
+<td><p>500GB</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
 ## 전속 모델
 
-  - 2016년 \~ 2018년 : [이애란](../Page/이애란.md "wikilink"), [박명수](../Page/박명수.md "wikilink")
-  - 2018년 \~ 현재 : [홍진영](../Page/홍진영.md "wikilink")
+  - [2016년](../Page/2016년.md "wikilink") \~ [2018년](../Page/2018년.md "wikilink"): [이애란](../Page/이애란.md "wikilink"), [박명수](../Page/박명수.md "wikilink")
+  - [2018년](../Page/2018년.md "wikilink") \~ 현재: [홍진영](../Page/홍진영.md "wikilink")
 
 ## 같이 보기
 

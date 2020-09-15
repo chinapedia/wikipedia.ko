@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [CHKDSK](https://ko.wikipedia.org/wiki/CHKDSK).
 
 
-**CHKDSK**(체크디스크, "check disk"의 준말)는 [도스](../Page/도스.md "wikilink"), [OS/2](https://ko.wikipedia.org/wiki/OS/2 "wikilink"), [마이크로소프트 윈도](https://ko.wikipedia.org/wiki/마이크로소프트_윈도 "wikilink") 운영 체제가 설치된 컴퓨터에 쓰이는 명령어로, [하드 디스크와](https://ko.wikipedia.org/wiki/하드_디스크 "wikilink") [플로피 디스크의](https://ko.wikipedia.org/wiki/플로피_디스크 "wikilink") [파일 시스템](../Page/파일_시스템.md "wikilink") 무결성 상태를 보여주고 논리 파일 시스템 오류를 수정한다. 사용법은 명령 프롬프트로 해당 드라이버를 들어간 후 chkdsk '옵션'을 입력하면 실행된다. 옵션은 chkdsk /?를 입력하면 입력할 수 있는 옵션들이 나온다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:IBM_PC_DOS_1.0_screenshot.jpg "wikilink") **CHKDSK**(체크디스크, "check disk"의 준말)는 [도스](../Page/도스.md "wikilink"), [OS/2](https://ko.wikipedia.org/wiki/OS/2 "wikilink"), [마이크로소프트 윈도](https://ko.wikipedia.org/wiki/마이크로소프트_윈도 "wikilink") 운영 체제가 설치된 컴퓨터에 쓰이는 명령어로, [하드 디스크와](https://ko.wikipedia.org/wiki/하드_디스크 "wikilink") [플로피 디스크의](https://ko.wikipedia.org/wiki/플로피_디스크 "wikilink") [파일 시스템](../Page/파일_시스템.md "wikilink") 무결성 상태를 보여주고 논리 파일 시스템 오류를 수정한다. 사용법은 명령 프롬프트로 해당 드라이버를 들어간 후 chkdsk '옵션'을 입력하면 실행된다. 옵션은 chkdsk /?를 입력하면 입력할 수 있는 옵션들이 나온다.
 
 CHKDSK는 [도스 프롬프트](../Page/COMMAND.COM.md "wikilink"), [윈도우 탐색기](https://ko.wikipedia.org/wiki/윈도우_탐색기 "wikilink"), [윈도우 명령 프롬프트](../Page/Cmd.exe.md "wikilink"), [윈도우 파워셸](https://ko.wikipedia.org/wiki/윈도우_파워셸 "wikilink"), [복구 콘솔에서](../Page/복구_콘솔.md "wikilink") 실행할 수 있다.\[1\]
 

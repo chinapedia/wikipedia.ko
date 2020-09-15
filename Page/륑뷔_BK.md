@@ -21,7 +21,7 @@
 
   - [데니스 로메달](../Page/데니스_로메달.md "wikilink")
 
-  - [모르텐 비고르스트](https://ko.wikipedia.org/wiki/모르텐_비고르스트 "wikilink")
+  - [모르텐 비그호르스트](https://ko.wikipedia.org/wiki/모르텐_비그호르스트 "wikilink")
 
   - [클라우스 옌센](https://ko.wikipedia.org/wiki/클라우스_옌센 "wikilink")
 
@@ -29,7 +29,7 @@
 
   - [헨리크 라르센](https://ko.wikipedia.org/wiki/헨리크_라르센 "wikilink")
 
-  - [마르쿠스 알베크](https://ko.wikipedia.org/wiki/마르쿠스_알베크 "wikilink")
+  - [마르쿠스 알베크](../Page/마르쿠스_알베크.md "wikilink")
 
 ## 외부 링크
 

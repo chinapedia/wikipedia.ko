@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [OWSLA](https://ko.wikipedia.org/wiki/OWSLA).
 
 
-**OWSLA**는 [스크릴렉스](../Page/스크릴렉스.md "wikilink"), 팀 스미스, 캐스린 프레이저, 클레이턴 블라하가 소유한 음반사이다. 스크릴렉스가 2011년 8월 설립하였다.
+**OWSLA**는 [스크릴렉스](../Page/스크릴렉스.md "wikilink"), 팀 스미스, 캐스린 프레이저, 클레이턴 블라하가 소유한 음반사이다. 스크릴렉스의 주도로 2011년 8월 설립되었다.
 
 ## 소속 아티스트
 
-### 현재 소속 가수
+### 현재 소속 프로듀서
 
 OWSLA 홈페이지 기준\[1\]
 
@@ -38,7 +38,7 @@ OWSLA 홈페이지 기준\[1\]
   - What So Not
   - Yogi
 
-### 이전 소속 가수
+### 이전 소속 프로듀서
 
 OWSLA 홈페이지 기준\[2\]
 
@@ -64,7 +64,7 @@ OWSLA 홈페이지 기준\[2\]
 ## 외부 링크
 
   -
-[분류:미국의 음반사](https://ko.wikipedia.org/wiki/분류:미국의_음반사 "wikilink") [분류:2011년 설립](https://ko.wikipedia.org/wiki/분류:2011년_설립 "wikilink") [분류:전자 댄스 음악](https://ko.wikipedia.org/wiki/분류:전자_댄스_음악 "wikilink")
+[분류:미국의 음반사](https://ko.wikipedia.org/wiki/분류:미국의_음반사 "wikilink") [분류:2011년 설립](https://ko.wikipedia.org/wiki/분류:2011년_설립 "wikilink") [분류:일렉트로닉 음악](https://ko.wikipedia.org/wiki/분류:일렉트로닉_음악 "wikilink") [분류:일렉트로닉 음악 음반사](https://ko.wikipedia.org/wiki/분류:일렉트로닉_음악_음반사 "wikilink")
 
 1.
 2.

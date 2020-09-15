@@ -34,6 +34,6 @@
 
   - [ESA's ATV blog](http://blogs.esa.int/atv)
 
-[분류:국제우주정거장](https://ko.wikipedia.org/wiki/분류:국제우주정거장 "wikilink")
+[분류:국제우주정거장](https://ko.wikipedia.org/wiki/분류:국제우주정거장 "wikilink") [분류:화물 우주선](https://ko.wikipedia.org/wiki/분류:화물_우주선 "wikilink")
 
 1.

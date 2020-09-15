@@ -58,4 +58,4 @@
 [분류:포르투갈의 항공사](https://ko.wikipedia.org/wiki/분류:포르투갈의_항공사 "wikilink") [분류:1988년 설립](https://ko.wikipedia.org/wiki/분류:1988년_설립 "wikilink") [분류:IATA 회원](https://ko.wikipedia.org/wiki/분류:IATA_회원 "wikilink") [분류:TAP 포르투갈 항공](https://ko.wikipedia.org/wiki/분류:TAP_포르투갈_항공 "wikilink") [분류:포르투갈의 브랜드](https://ko.wikipedia.org/wiki/분류:포르투갈의_브랜드 "wikilink")
 
 1.
-2.  <http://www.ch-aviation.ch/aircraft.php?search=set&airline=CAI&al_op=1>
+2.

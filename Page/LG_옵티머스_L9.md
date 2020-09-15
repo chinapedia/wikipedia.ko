@@ -5,7 +5,7 @@
 
 [LG 옵티머스 시리즈의](../Page/LG_옵티머스_\(제품군\).md "wikilink") G/뷰/L/F 라인 중 L라인으로 보급형 [3G](https://ko.wikipedia.org/wiki/3G "wikilink") 모델이며, 그중 하이엔드급 모델로 하드웨어의 성능은 [프라다 3.0과](https://ko.wikipedia.org/wiki/프라다_3.0 "wikilink") 비슷하다.
 
-## 운영체제 업그레이드
+## 운영 체제 업그레이드
 
 ### [안드로이드](../Page/안드로이드_\(운영_체제\).md "wikilink") [4.1.2 젤리빈](https://ko.wikipedia.org/wiki/안드로이드_버전_역사 "wikilink") 업그레이드
 
@@ -21,7 +21,7 @@
 
 ## 기타 업그레이드
 
-## 기능
+## 특수 기능
 
 ### [안드로이드 빔](https://ko.wikipedia.org/wiki/안드로이드_빔 "wikilink")
 

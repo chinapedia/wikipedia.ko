@@ -18,7 +18,7 @@
 
   - [로버트 컬런](../Page/로버트_컬런.md "wikilink")
 
-  - [밤페타](https://ko.wikipedia.org/wiki/밤페타 "wikilink")
+  - [밤페타](../Page/밤페타.md "wikilink")
 
 ## 외부 링크
 

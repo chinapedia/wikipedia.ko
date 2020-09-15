@@ -187,7 +187,7 @@
       - [프래스노](https://ko.wikipedia.org/wiki/프래스노 "wikilink") – [프래스노 요세마티 국제공항](https://ko.wikipedia.org/wiki/프래스노_요세마티_국제공항 "wikilink")
       - [로스앤젤레스](https://ko.wikipedia.org/wiki/로스앤젤레스 "wikilink") – [로스앤젤레스 국제공항](https://ko.wikipedia.org/wiki/로스앤젤레스_국제공항 "wikilink")
       - [오클랜드](https://ko.wikipedia.org/wiki/오클랜드_\(미국\) "wikilink") – [오클랜드 국제공항](https://ko.wikipedia.org/wiki/오클랜드_국제공항_\(미국\) "wikilink")
-      - [온타리오](https://ko.wikipedia.org/wiki/온타리오 "wikilink") – [온타리오 국제공항](https://ko.wikipedia.org/wiki/온타리오_국제공항 "wikilink")
+      - [온타리오](https://ko.wikipedia.org/wiki/온타리오 "wikilink") – [온타리오 국제공항](../Page/온타리오_국제공항.md "wikilink")
       - [새크라멘토](../Page/새크라멘토.md "wikilink") – [새크라멘토](../Page/새크라멘토.md "wikilink") [국제공항](../Page/국제공항.md "wikilink")
       - [샌디에이고](https://ko.wikipedia.org/wiki/샌디에이고 "wikilink") – [샌디에이고](https://ko.wikipedia.org/wiki/샌디에이고 "wikilink") [국제공항](../Page/국제공항.md "wikilink")
       - [샌프란시스코](../Page/샌프란시스코.md "wikilink") – [샌프란시스코 국제공항](https://ko.wikipedia.org/wiki/샌프란시스코_국제공항 "wikilink")
@@ -199,7 +199,7 @@
       - [하트포트](https://ko.wikipedia.org/wiki/하트포트 "wikilink")/[스프링필드](https://ko.wikipedia.org/wiki/스프링필드 "wikilink") – [브래들리 국제공항](https://ko.wikipedia.org/wiki/브래들리_국제공항 "wikilink")
   - **[플로리다](https://ko.wikipedia.org/wiki/플로리다 "wikilink")**
       - [데이토나](https://ko.wikipedia.org/wiki/데이토나 "wikilink") – [데이토나 비치 국제공항](https://ko.wikipedia.org/wiki/데이토나_비치_국제공항 "wikilink") **계절편**
-      - [포트로더데일](../Page/포트로더데일.md "wikilink") – [포트로더데일 할리우드 국제공항](https://ko.wikipedia.org/wiki/포트로더데일_할리우드_국제공항 "wikilink")
+      - [포트로더데일](../Page/포트로더데일.md "wikilink") – [포트로더데일 할리우드 국제공항](../Page/포트로더데일_할리우드_국제공항.md "wikilink")
       - [포트마이어스](../Page/포트마이어스.md "wikilink") – [사우스 웨스트 플로리다 국제공항](https://ko.wikipedia.org/wiki/사우스_웨스트_플로리다_국제공항 "wikilink")
       - [잭슨빌](../Page/잭슨빌.md "wikilink") – [잭슨빌 국제공항](https://ko.wikipedia.org/wiki/잭슨빌_국제공항 "wikilink")
       - [마이애미](../Page/마이애미.md "wikilink") – [마이애미 국제공항](https://ko.wikipedia.org/wiki/마이애미_국제공항 "wikilink")

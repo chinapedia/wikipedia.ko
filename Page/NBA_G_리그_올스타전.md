@@ -116,7 +116,7 @@
 
 <!-- end list -->
 
-  - 2018년부터 **[NBA G 리그 인터내셔널 챌린지](https://ko.wikipedia.org/wiki/NBA_G_리그_인터내셔널_챌린지 "wikilink")**로 명칭 변경하고, [멕시코 농구 국가대표팀과](../Page/멕시코_농구_국가대표팀.md "wikilink") 국가대항전으로 변경되었다.
+  - 2018년부터 **[NBA G 리그 인터내셔널 챌린지](../Page/NBA_G_리그_인터내셔널_챌린지.md "wikilink")**로 명칭 변경하고, [멕시코 농구 국가대표팀과](../Page/멕시코_농구_국가대표팀.md "wikilink") 국가대항전으로 변경되었다.
 
 ## G 리그 드림팩토리
 
@@ -227,6 +227,6 @@
 
   - [NBA 올스타전](../Page/NBA_올스타전.md "wikilink")
   - [WNBA 올스타전](../Page/WNBA_올스타전.md "wikilink")
-  - [NBA G 리그 인터내셔널 챌린지](https://ko.wikipedia.org/wiki/NBA_G_리그_인터내셔널_챌린지 "wikilink")
+  - [NBA G 리그 인터내셔널 챌린지](../Page/NBA_G_리그_인터내셔널_챌린지.md "wikilink")
 
 [분류:NBA G 리그](https://ko.wikipedia.org/wiki/분류:NBA_G_리그 "wikilink") [분류:농구 올스타전](https://ko.wikipedia.org/wiki/분류:농구_올스타전 "wikilink")

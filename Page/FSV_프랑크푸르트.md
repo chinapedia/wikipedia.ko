@@ -16,16 +16,8 @@
   - **[레기오날리가](../Page/레기오날리가.md "wikilink") 남부 리그**
       - 우승 1회 (2008)
 
-## 유명 선수
-
-  - [일리얀 미찬스키](../Page/일리얀_미찬스키.md "wikilink")
-
-  - [윤주태](https://ko.wikipedia.org/wiki/윤주태 "wikilink")
-
-  - [박인혁](../Page/박인혁.md "wikilink")
-
 ## 외부 링크
 
-  - [공식 홈페이지](http://www.fsv-frankfurt.de/)
+  -
 
 [FSV_프랑크푸르트](https://ko.wikipedia.org/wiki/분류:FSV_프랑크푸르트 "wikilink") [분류:독일의 축구단](https://ko.wikipedia.org/wiki/분류:독일의_축구단 "wikilink") [분류:1899년 설립된 축구단](https://ko.wikipedia.org/wiki/분류:1899년_설립된_축구단 "wikilink") [분류:헤센주의 축구단](https://ko.wikipedia.org/wiki/분류:헤센주의_축구단 "wikilink")

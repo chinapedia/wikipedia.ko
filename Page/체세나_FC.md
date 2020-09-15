@@ -3,7 +3,7 @@
 
 **체세나 FC**(Cesena Football Club S.r.l.)는 [이탈리아](../Page/이탈리아.md "wikilink") [에밀리아로마냐 주](https://ko.wikipedia.org/wiki/에밀리아로마냐_주 "wikilink") [체세나](https://ko.wikipedia.org/wiki/체세나 "wikilink")를 연고로 하는 프로 축구팀이다.
 
-이 클럽은 [1940년](../Page/1940년.md "wikilink")에 창단되었고, [1973년](../Page/1973년.md "wikilink")에 [세리에 A로](../Page/세리에_A.md "wikilink") 첫 승격을 하였다. 그 이후로 체세나는 [세리에 A에서](../Page/세리에_A.md "wikilink") 총 11시즌을 잔류했으며, 최고 성적은 [1976년](../Page/1976년.md "wikilink")에 거둔 리그 6위이다. 그 순위를 기록한 다음 시즌에 짧은 [UEFA 컵](https://ko.wikipedia.org/wiki/UEFA_컵 "wikilink") 경험을 하기도 했다. 최근까지 [세리에 B](../Page/세리에_B.md "wikilink") 소속으로 활동했으나, 2013-14 시즌에 승격 플레이오프에서 우승하며, [2014-15](../Page/세리에_A_2014-15.md "wikilink") 시즌에 세리에 A로 복귀하였지만 곧바로 한 시즌만에 [세리에 B로](../Page/세리에_B.md "wikilink") 강등됐다. 이후 하위권에 머물다 [2018년 7월](https://ko.wikipedia.org/wiki/2018년_7월 "wikilink") 방만한 경영으로 인한 많은 부채가 발생했고 선수단의 급여를 체불하는 등 심각한 재정상태로 인해 파산신청을 하였고 [이탈리아 축구 연맹은](../Page/이탈리아_축구_연맹.md "wikilink") 구단을 해단시켰다. 이에 같은 [체세나](https://ko.wikipedia.org/wiki/체세나 "wikilink") 지역 연고팀인 ASD 로마냐 센트로 체세나가 [ACF 피오렌티나](../Page/ACF_피오렌티나.md "wikilink"), [SSC 나폴리가](../Page/SSC_나폴리.md "wikilink") 파산했던 상황처럼 [AC 체세나의](../Page/AC_체세나.md "wikilink") 후계구단으로서\[1\] 아직 구단 명칭 등 [AC 체세나에](../Page/AC_체세나.md "wikilink") 관한 모든 권리를 얻지 못하였지만\[2\] 구단 이름을 [R.C. 체세나로](https://ko.wikipedia.org/wiki/R.C._체세나 "wikilink") 바꾸고 [세리에 D에서](https://ko.wikipedia.org/wiki/세리에_D "wikilink") 새롭게 시작하게 되었다. 곧바로 [세리에 D](https://ko.wikipedia.org/wiki/세리에_D "wikilink") (그룹 F)에서 1위를 기록하며 승격해 구단 이름을 현재의 **체세나 FC S.r.l.**로 바꾸고 현재 [세리에 C](../Page/세리에_C.md "wikilink") (그룹 C)에 소속되어 있다.
+이 클럽은 [1940년](../Page/1940년.md "wikilink")에 창단되었고, [1973년](../Page/1973년.md "wikilink")에 [세리에 A로](../Page/세리에_A.md "wikilink") 첫 승격을 하였다. 그 이후로 체세나는 [세리에 A에서](../Page/세리에_A.md "wikilink") 총 11시즌을 잔류했으며, 최고 성적은 [1976년](../Page/1976년.md "wikilink")에 거둔 리그 6위이다. 그 순위를 기록한 다음 시즌에 짧은 [UEFA 컵](https://ko.wikipedia.org/wiki/UEFA_컵 "wikilink") 경험을 하기도 했다. 최근까지 [세리에 B](../Page/세리에_B.md "wikilink") 소속으로 활동했으나, 2013-14 시즌에 승격 플레이오프에서 우승하며, [2014-15](../Page/세리에_A_2014-15.md "wikilink") 시즌에 세리에 A로 복귀하였지만 곧바로 한 시즌만에 [세리에 B로](../Page/세리에_B.md "wikilink") 강등됐다. 이후 하위권에 머물다 [2018년 7월](https://ko.wikipedia.org/wiki/2018년_7월 "wikilink") 방만한 경영으로 인한 많은 부채가 발생했고 선수단의 급여를 체불하는 등 심각한 재정상태로 인해 파산신청을 하였고 [이탈리아 축구 연맹은](../Page/이탈리아_축구_연맹.md "wikilink") 구단을 해단시켰다. 이에 같은 [체세나](https://ko.wikipedia.org/wiki/체세나 "wikilink") 지역 연고팀인 ASD 로마냐 센트로 체세나가 [ACF 피오렌티나](../Page/ACF_피오렌티나.md "wikilink"), [SSC 나폴리가](../Page/SSC_나폴리.md "wikilink") 파산했던 상황처럼 [AC 체세나의](../Page/AC_체세나.md "wikilink") 후계구단으로서\[1\] 아직 구단 명칭 등 [AC 체세나에](../Page/AC_체세나.md "wikilink") 관한 모든 권리를 얻지 못하였지만\[2\] 구단 이름을 [R.C. 체세나로](https://ko.wikipedia.org/wiki/R.C._체세나 "wikilink") 바꾸고 [세리에 D에서](../Page/세리에_D.md "wikilink") 새롭게 시작하게 되었다. 곧바로 [세리에 D](../Page/세리에_D.md "wikilink") (그룹 F)에서 1위를 기록하며 승격해 구단 이름을 현재의 **체세나 FC S.r.l.**로 바꾸고 현재 [세리에 C](../Page/세리에_C.md "wikilink") (그룹 C)에 소속되어 있다.
 
 ## 선수 명단
 
@@ -95,7 +95,7 @@
 
 <!-- end list -->
 
-  - **[세리에 D](https://ko.wikipedia.org/wiki/세리에_D "wikilink"):**
+  - **[세리에 D](../Page/세리에_D.md "wikilink"):**
       - **우승 (1):** [1959–60](https://ko.wikipedia.org/wiki/Serie_D_1959–60 "wikilink")
 
 <!-- end list -->

@@ -29,8 +29,6 @@ LATAM 항공 그룹은 칠레 국적 항공사인 [란 항공과](https://ko.wik
 
       - [LATAM 카고 멕시코](../Page/LATAM_카고_멕시코.md "wikilink")
 
-      - [LATAM 아르헨티나](../Page/LATAM_아르헨티나.md "wikilink")
-
       - [LATAM 에콰도르](../Page/LATAM_에콰도르.md "wikilink")
 
       - [LATAM 콜롬비아](../Page/LATAM_콜롬비아.md "wikilink")\[6\]
@@ -48,6 +46,8 @@ LATAM 항공 그룹은 칠레 국적 항공사인 [란 항공과](https://ko.wik
 ### 과거 소속 법인
 
   - [LAN 도미니카](https://ko.wikipedia.org/wiki/LAN_도미니카 "wikilink") ([2006년](../Page/2006년.md "wikilink") 소멸)
+
+  - [LATAM 아르헨티나](../Page/LATAM_아르헨티나.md "wikilink") ([2020년](../Page/2020년.md "wikilink") 파산)
 
   - [PLA 항공](../Page/PLA_항공.md "wikilink") ([2013년](../Page/2013년.md "wikilink") 소멸)
 
@@ -80,10 +80,6 @@ LATAM 항공 그룹은 칠레 국적 항공사인 [란 항공과](https://ko.wik
 | [보잉 767-300ER](../Page/보잉_767.md "wikilink")                              | 14                                                                       | 0                                                                | 30                                   | 0                                    |
 | [보잉 777-300ER](../Page/보잉_777.md "wikilink")                              | 10                                                                       | 0                                                                | 56                                   | 0                                    |
 | **합계**                                                                    | **158**                                                                  | **26**                                                           |                                      |                                      |
-| <span style="color:white;"> LATAM 아르헨티나의 보유 기종                            |                                                                          |                                                                  |                                      |                                      |
-| [에어버스 A320-200](https://ko.wikipedia.org/wiki/에어버스_A320 "wikilink")       | 14                                                                       | 0                                                                | 0                                    | 0                                    |
-| [보잉 767-300ER](../Page/보잉_767.md "wikilink")                              | 3                                                                        | 0                                                                | 30                                   | 0                                    |
-| **합계**                                                                    | **17**                                                                   | **0**                                                            |                                      |                                      |
 | <span style="color:white;"> LATAM 에콰도르의 보유 기종                             |                                                                          |                                                                  |                                      |                                      |
 | [에어버스 A319-100](https://ko.wikipedia.org/wiki/에어버스_A320 "wikilink")       | 3                                                                        | 0                                                                | 0                                    | 0                                    |
 | **합계**                                                                    | **3**                                                                    | **0**                                                            |                                      |                                      |

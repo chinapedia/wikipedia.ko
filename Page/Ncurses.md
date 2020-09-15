@@ -21,7 +21,7 @@ ncurses는 [terminfo](https://ko.wikipedia.org/wiki/terminfo "wikilink") (확장
 
   - [윈도용 ncurses 패키지](http://gnuwin32.sourceforge.net/packages/ncurses.htm) – [GnuWin32](https://ko.wikipedia.org/wiki/GnuWin32 "wikilink")
 
-  - [NCURSES-Programming-HOWTO](https://wiki.kldp.org/wiki.php/NCURSES-Programming-HOWTO#s-1.1.1)
+  - [NCURSES-Programming-HOWTO](https://web.archive.org/web/20140812204609/https://wiki.kldp.org/wiki.php/NCURSES-Programming-HOWTO#s-1.1.1)
 
 [분류:GNU 프로젝트 소프트웨어](https://ko.wikipedia.org/wiki/분류:GNU_프로젝트_소프트웨어 "wikilink") [분류:C 라이브러리](https://ko.wikipedia.org/wiki/분류:C_라이브러리 "wikilink") [분류:텍스트 사용자 인터페이스 라이브러리](https://ko.wikipedia.org/wiki/분류:텍스트_사용자_인터페이스_라이브러리 "wikilink") [분류:C로 작성된 자유 소프트웨어](https://ko.wikipedia.org/wiki/분류:C로_작성된_자유_소프트웨어 "wikilink") [분류:MIT 라이선스 소프트웨어](https://ko.wikipedia.org/wiki/분류:MIT_라이선스_소프트웨어 "wikilink")
 

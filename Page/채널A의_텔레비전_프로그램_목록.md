@@ -207,7 +207,7 @@ __NOTOC__ 다음은 **[채널A](../Page/채널A.md "wikilink") [텔레비전](..
 
   - 세종에게 길을 묻다  ([2017년](../Page/2017년.md "wikilink") [10월 12일](../Page/10월_12일.md "wikilink"))
 
-  - [송은이 김숙의 영화보장](https://ko.wikipedia.org/wiki/송은이_김숙의_영화보장 "wikilink")   ([2019년](../Page/2019년.md "wikilink") [8월 30일](../Page/8월_30일.md "wikilink") \~ **현재**)
+  - [송은이 김숙의 영화보장](../Page/송은이_김숙의_영화보장.md "wikilink")   ([2019년](../Page/2019년.md "wikilink") [8월 30일](../Page/8월_30일.md "wikilink") \~ **현재**)
 
   - 쇼프리티   ([2018년](../Page/2018년.md "wikilink") [9월 20일](../Page/9월_20일.md "wikilink") \~ [2018년](../Page/2018년.md "wikilink") [12월 6일](../Page/12월_6일.md "wikilink"))
 
@@ -433,7 +433,7 @@ __NOTOC__ 다음은 **[채널A](../Page/채널A.md "wikilink") [텔레비전](..
 
   - 트로이의 하얀 묵시록 ([2011년](../Page/2011년.md "wikilink") [12월 1일](../Page/12월_1일.md "wikilink") \~ [2011년](../Page/2011년.md "wikilink") [12월 3일](../Page/12월_3일.md "wikilink"))
 
-  - [터치](https://ko.wikipedia.org/wiki/터치_\(2020년_드라마\) "wikilink")   ([2020년](../Page/2020년.md "wikilink") [1월 3일](../Page/1월_3일.md "wikilink") \~ )
+  - [터치](../Page/터치_\(2020년_드라마\).md "wikilink")   ([2020년](../Page/2020년.md "wikilink") [1월 3일](../Page/1월_3일.md "wikilink") \~ )
 
 ## ㅍ
 
@@ -465,7 +465,7 @@ __NOTOC__ 다음은 **[채널A](../Page/채널A.md "wikilink") [텔레비전](..
 
   - [행복한 아침](https://ko.wikipedia.org/wiki/행복한_아침_\(채널A\) "wikilink")  ([2019년](../Page/2019년.md "wikilink") [2월 11일](../Page/2월_11일.md "wikilink") \~ **현재**)
 
-  - [혼자 사는 여자](../Page/혼자_사는_여자.md "wikilink")   ([2014년](../Page/2014년.md "wikilink") [1월 20일](../Page/1월_20일.md "wikilink") \~ [2014년](../Page/2014년.md "wikilink") [4월 14일](../Page/4월_14일.md "wikilink"))
+  - [혼자 사는 여자](https://ko.wikipedia.org/wiki/혼자_사는_여자_\(텔레비전_프로그램\) "wikilink")   ([2014년](../Page/2014년.md "wikilink") [1월 20일](../Page/1월_20일.md "wikilink") \~ [2014년](../Page/2014년.md "wikilink") [4월 14일](../Page/4월_14일.md "wikilink"))
 
   - [황금 나침반](https://ko.wikipedia.org/wiki/황금나침반_\(채널A\) "wikilink")  ([2016년](../Page/2016년.md "wikilink") [3월 31일](../Page/3월_31일.md "wikilink") \~ **현재**)
 

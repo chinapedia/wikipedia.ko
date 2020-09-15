@@ -3,7 +3,7 @@
 
 《**SNL 코리아**》(Saturday Night Live Korea)는 [tvN](https://ko.wikipedia.org/wiki/tvN "wikilink")에서 방영되었던 대한민국의 텔레비전 코미디 프로그램이다. [미국 SNL의](../Page/새터데이_나이트_라이브.md "wikilink") 방송 포맷 그대로 한동안 대한민국 최초로 [생방송](../Page/생방송.md "wikilink") 코미디 프로그램을 방송하였다. 2011년 12월 3일에 방영을 시작해 2017년 11월 18일에 종영되었다.
 
-## 크루
+## 고정 출연자
 
   - [신동엽](../Page/신동엽_\(희극인\).md "wikilink")
 
@@ -201,7 +201,7 @@ SNL logo 2015.png|시즌7 이후의 SNL 코리아 로고\[2\]
   -
   -
   -
-[SNL_코리아](https://ko.wikipedia.org/wiki/분류:SNL_코리아 "wikilink") [분류:TvN의 예능 프로그램](https://ko.wikipedia.org/wiki/분류:TvN의_예능_프로그램 "wikilink") [분류:풍자 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:풍자_텔레비전_프로그램 "wikilink") [분류:2010년대 대한민국의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:2010년대_대한민국의_텔레비전_프로그램 "wikilink") [분류:한국어 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:한국어_텔레비전_프로그램 "wikilink") [분류:대한민국의 텔레비전 버라이어티 쇼‎](https://ko.wikipedia.org/wiki/분류:대한민국의_텔레비전_버라이어티_쇼‎ "wikilink") [분류:2011년에 시작한 대한민국 TV 프로그램](https://ko.wikipedia.org/wiki/분류:2011년에_시작한_대한민국_TV_프로그램 "wikilink") [분류:2017년에 종료한 대한민국 TV 프로그램](https://ko.wikipedia.org/wiki/분류:2017년에_종료한_대한민국_TV_프로그램 "wikilink")
+[SNL_코리아](https://ko.wikipedia.org/wiki/분류:SNL_코리아 "wikilink") [분류:TvN의 예능 프로그램](https://ko.wikipedia.org/wiki/분류:TvN의_예능_프로그램 "wikilink") [분류:풍자 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:풍자_텔레비전_프로그램 "wikilink") [분류:2010년대 대한민국의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:2010년대_대한민국의_텔레비전_프로그램 "wikilink") [분류:한국어 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:한국어_텔레비전_프로그램 "wikilink") [분류:대한민국의 텔레비전 버라이어티 쇼](https://ko.wikipedia.org/wiki/분류:대한민국의_텔레비전_버라이어티_쇼 "wikilink") [분류:2011년에 시작한 대한민국 TV 프로그램](https://ko.wikipedia.org/wiki/분류:2011년에_시작한_대한민국_TV_프로그램 "wikilink") [분류:2017년에 종료한 대한민국 TV 프로그램](https://ko.wikipedia.org/wiki/분류:2017년에_종료한_대한민국_TV_프로그램 "wikilink")
 
 1.
 2.  시즌이 바뀔 때마다 NIGHT 글자 색이 바뀌었다.

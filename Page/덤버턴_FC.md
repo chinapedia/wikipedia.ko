@@ -13,6 +13,6 @@
 
 ## 외부 링크
 
-  - [공식 홈페이지](http://www.dumbartonfootballclub.com/)
+  - [공식 홈페이지](https://web.archive.org/web/20150909195801/http://www.dumbartonfootballclub.com/)
 
 [분류:스코틀랜드의 축구단](https://ko.wikipedia.org/wiki/분류:스코틀랜드의_축구단 "wikilink") [분류:1872년 설립된 축구단](https://ko.wikipedia.org/wiki/분류:1872년_설립된_축구단 "wikilink")

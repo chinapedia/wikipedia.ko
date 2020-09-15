@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [XNU](https://ko.wikipedia.org/wiki/XNU).
 
 
-**XNU**는 [맥 OS X](https://ko.wikipedia.org/wiki/맥_OS_X "wikilink") [운영 체제에](../Page/운영_체제.md "wikilink") 사용할 목적으로 [애플이](https://ko.wikipedia.org/wiki/애플_\(기업\) "wikilink") 인수하고 개발한 컴퓨터 [운영 체제](../Page/운영_체제.md "wikilink") [커널이다](../Page/커널_\(컴퓨팅\).md "wikilink"). [다윈](../Page/다윈_\(운영_체제\).md "wikilink") 운영 체제의 일부로서 [자유 및 오픈 소스 소프트웨어로](https://ko.wikipedia.org/wiki/자유_및_오픈_소스_소프트웨어 "wikilink") 공개되었다. XNU는 *X is Not [Unix](../Page/유닉스.md "wikilink")*(X는 유닉스가 아니다)를 가리킨다.\[1\]
+**XNU**는 [맥 OS X](https://ko.wikipedia.org/wiki/맥_OS_X "wikilink") [운영 체제에](../Page/운영_체제.md "wikilink") 사용할 목적으로 [애플](../Page/애플.md "wikilink")이 인수하고 개발한 컴퓨터 [운영 체제](../Page/운영_체제.md "wikilink") [커널이다](../Page/커널_\(컴퓨팅\).md "wikilink"). [다윈](../Page/다윈_\(운영_체제\).md "wikilink") 운영 체제의 일부로서 [자유 및 오픈 소스 소프트웨어로](https://ko.wikipedia.org/wiki/자유_및_오픈_소스_소프트웨어 "wikilink") 공개되었다. XNU는 *X is Not [Unix](../Page/유닉스.md "wikilink")*(X는 유닉스가 아니다)를 가리킨다.\[1\]
 
 원래 [NeXT](../Page/NeXT.md "wikilink")가 [NeXTSTEP](../Page/NeXTSTEP.md "wikilink") 운영 체제에 사용할 목적으로 개발된 XNU는 [카네기 멜론 대학교가](https://ko.wikipedia.org/wiki/카네기_멜론_대학교 "wikilink") [4.3BSD의](../Page/BSD.md "wikilink") 구성요소를 포함하여 개발한 [마하 커널의](https://ko.wikipedia.org/wiki/마하_\(커널\) "wikilink") 버전 2.5와, 드라이버 키트(Driver Kit)라는 이름의 객체 지향 API를 합친 [하이브리드 커널이다](../Page/하이브리드_커널.md "wikilink").
 

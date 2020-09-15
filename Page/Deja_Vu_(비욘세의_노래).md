@@ -28,5 +28,5 @@
 
 [분류:비욘세의 노래](https://ko.wikipedia.org/wiki/분류:비욘세의_노래 "wikilink") [분류:2006년 싱글](https://ko.wikipedia.org/wiki/분류:2006년_싱글 "wikilink") [분류:2006년 노래](https://ko.wikipedia.org/wiki/분류:2006년_노래 "wikilink")
 
-1.  "[iTunes Store - Beyoncé - Déjà Vu - single](https://itunes.apple.com/gb/album/id175554708)". [Itunes UK](https://ko.wikipedia.org/wiki/아이튠즈_스토어 "wikilink"). [애플](https://ko.wikipedia.org/wiki/애플_\(기업\) "wikilink"). Retrieved January 22, 2011.
-2.  "[iTunes Store - Beyoncé - Déjà Vu - EP](https://itunes.apple.com/be/album/deja-vu-feat-jay-z-ep/id176071925)". [Itunes Belgium](https://ko.wikipedia.org/wiki/아이튠즈_스토어 "wikilink"). [애플](https://ko.wikipedia.org/wiki/애플_\(기업\) "wikilink"). Retrieved January 22, 2011.
+1.  "[iTunes Store - Beyoncé - Déjà Vu - single](https://itunes.apple.com/gb/album/id175554708)". [Itunes UK](https://ko.wikipedia.org/wiki/아이튠즈_스토어 "wikilink"). [애플](../Page/애플.md "wikilink"). Retrieved January 22, 2011.
+2.  "[iTunes Store - Beyoncé - Déjà Vu - EP](https://itunes.apple.com/be/album/deja-vu-feat-jay-z-ep/id176071925)". [Itunes Belgium](https://ko.wikipedia.org/wiki/아이튠즈_스토어 "wikilink"). [애플](../Page/애플.md "wikilink"). Retrieved January 22, 2011.

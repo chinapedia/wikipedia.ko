@@ -5,11 +5,11 @@
 
 사람 미토콘드리아 DNA는 가장 작은 [염색체](../Page/염색체.md "wikilink")로 간주하며, 37개 [유전자](../Page/유전자.md "wikilink")와 약 16,600개 [염기쌍](../Page/염기쌍.md "wikilink")이 있다. 사람 미토콘드리아 DNA는 [사람 유전체](https://ko.wikipedia.org/wiki/사람_유전체 "wikilink") 가운데 처음으로 서열을 밝혔다. 사람을 포함한 대부분 종에서 미토콘드리아 DNA는 오직 모계로만 유전된다.\[2\]
 
-몇몇 멸종된 생물을 포함하여 다수의 생물과 개인의 미토콘드리아 DNA의 서열이 밝혀져 있다. 멸종된 생물의 DNA 서열은 종 사이의 진화적 관계를 밝히는 데 사용되며 [계통학](https://ko.wikipedia.org/wiki/계통학 "wikilink")의 근간이 된다. 미토콘드리아 DNA는 또한 [인류학](../Page/인류학.md "wikilink")과 [생태학](../Page/생태학.md "wikilink")에서는 인종 간의 관계를 밝히는데 쓰인다.
+몇몇 멸종된 생물을 포함하여 다수의 생물과 개인의 미토콘드리아 DNA의 서열이 밝혀져 있다. 멸종된 생물의 DNA 서열은 종 사이의 진화적 관계를 밝히는 데 사용되며 [계통학](https://ko.wikipedia.org/wiki/계통학 "wikilink")의 근간이 된다. 미토콘드리아 DNA는 또한 [인류학](../Page/인류학.md "wikilink")과 [생태학](../Page/생태학.md "wikilink")에서는 인종 간의 관계를 밝히는 데 쓰인다.
 
 ## 기원
 
-핵 DNA와 미토콘드리아 DNA는 진화적으로 서로 다른 기원을 가지고 있는 것으로 알려져 있다. 미토콘드리아 DNA는 오늘날 [진핵세포](https://ko.wikipedia.org/wiki/진핵세포 "wikilink")의 초기 조상에게 잡아먹힌() [박테리아](https://ko.wikipedia.org/wiki/박테리아 "wikilink")의 [원형 DNA에서](https://ko.wikipedia.org/wiki/원형_DNA "wikilink") 유래했을 것으로 추정된다. 이 이론은 [세포내 공생설이라고](https://ko.wikipedia.org/wiki/세포내_공생설 "wikilink") 한다. 각 미토콘드리아는 약 2-10개의 미토콘드리아 DNA 복사본을 가지고 있다.\[3\] 현존하는 세포의 미토콘드리아 단백질은 거의 대부분이 [핵 DNA에](https://ko.wikipedia.org/wiki/핵_DNA "wikilink") 암호화되어 있으며, 이들 핵 DNA는 박테리아에서 기원하여 [진화](../Page/진화.md "wikilink")하는 동안 진핵생물의 핵으로 옮겨갔을 것으로 추정된다.\[4\][포유류](../Page/포유류.md "wikilink")의 경우 미토콘드리아 단백질 1500여 종류가 핵 DNA에 암호화되어 있다.
+핵 DNA와 미토콘드리아 DNA는 진화적으로 서로 다른 기원을 가지고 있는 것으로 알려져 있다. 미토콘드리아 DNA는 오늘날 [진핵세포](https://ko.wikipedia.org/wiki/진핵세포 "wikilink")의 초기 조상에게 잡아먹힌() [박테리아](https://ko.wikipedia.org/wiki/박테리아 "wikilink")의 [원형 DNA에서](https://ko.wikipedia.org/wiki/원형_DNA "wikilink") 유래했을 것으로 추정된다. 이 이론은 [세포 내 공생설이라고](https://ko.wikipedia.org/wiki/세포_내_공생설 "wikilink") 한다. 각 미토콘드리아는 약 2-10개의 미토콘드리아 DNA 복사본을 가지고 있다.\[3\] 현존하는 세포의 미토콘드리아 단백질은 거의 대부분이 [핵 DNA에](https://ko.wikipedia.org/wiki/핵_DNA "wikilink") 암호화되어 있으며, 이들 핵 DNA는 박테리아에서 기원하여 [진화](../Page/진화.md "wikilink")하는 동안 진핵생물의 핵으로 옮겨갔을 것으로 추정된다.\[4\][포유류](../Page/포유류.md "wikilink")의 경우 미토콘드리아 단백질 1500여 종류가 핵 DNA에 암호화되어 있다.
 
 ## 구조
 

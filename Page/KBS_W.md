@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [KBS W](https://ko.wikipedia.org/wiki/KBS_W).
 
 
-**KBS 더블유**()는 [KBS N의](https://ko.wikipedia.org/wiki/KBS_N "wikilink") [여성](../Page/여성.md "wikilink") 전문 [텔레비전](../Page/텔레비전.md "wikilink") [채널로](https://ko.wikipedia.org/wiki/채널_\(통신\) "wikilink"), [2013년](../Page/2013년.md "wikilink") [1월 1일에](../Page/1월_1일.md "wikilink") 개국하였다.
+**KBS 더블유**()는 [KBS N의](../Page/KBS_N.md "wikilink") [여성](../Page/여성.md "wikilink") 전문 [텔레비전](../Page/텔레비전.md "wikilink") [채널로](https://ko.wikipedia.org/wiki/채널_\(통신\) "wikilink"), [2013년](../Page/2013년.md "wikilink") [1월 1일에](../Page/1월_1일.md "wikilink") 개국하였다.
 
 ## 채널 번호
 
-  - 스카이라이프(올레TV 스카이라이프) 채널 - 87번
+  - 올레TV 스카이라이프 채널 - 87번
   - SK BTV 채널 - 214번
   - 올레TV 채널 - 83번
   - LG U+ TV 채널 - 74번
@@ -32,6 +32,7 @@
   - [그녀의 스타일](https://ko.wikipedia.org/wiki/그녀의_스타일 "wikilink")
   - [자체발광 그녀](../Page/자체발광_그녀.md "wikilink")
   - [내 딸 서영이](https://ko.wikipedia.org/wiki/내_딸_서영이 "wikilink")
+  - [결혼 못하는 남자](https://ko.wikipedia.org/wiki/결혼_못하는_남자 "wikilink")
   - [전우치](../Page/전우치_\(드라마\).md "wikilink")
   - [KBS 드라마 스페셜](https://ko.wikipedia.org/wiki/KBS_드라마_스페셜 "wikilink")
   - [부부클리닉 사랑과 전쟁](../Page/부부클리닉_사랑과_전쟁.md "wikilink")
@@ -67,6 +68,8 @@
   - [부탁해요, 엄마](../Page/부탁해요,_엄마.md "wikilink")
   - [아이가 다섯](https://ko.wikipedia.org/wiki/아이가_다섯 "wikilink")
   - [월계수 양복점 신사들](https://ko.wikipedia.org/wiki/월계수_양복점_신사들 "wikilink")
+  - [태양의 후예](https://ko.wikipedia.org/wiki/태양의_후예 "wikilink")
+  - [금촌댁네 사람들](../Page/금촌댁네_사람들.md "wikilink")
 
 ### 외화
 
@@ -105,6 +108,8 @@
       - [1박 2일](../Page/1박_2일.md "wikilink")
   - [맘마미아](../Page/맘마미아_\(텔레비전_프로그램\).md "wikilink")
   - [가요무대](../Page/가요무대.md "wikilink")
+  - [개는 훌륭하다](../Page/개는_훌륭하다.md "wikilink")
+  - [연애의 참견](../Page/연애의_참견.md "wikilink")
 
 ### 교양
 
@@ -135,10 +140,6 @@
   - 우리은행 2013-2014 여자프로농구
   - [KBO 리그](https://ko.wikipedia.org/wiki/KBO_리그 "wikilink")
   - 삼성생명 2016-2017 여자프로농구
-
-## 좋아하는 사람
-
-  - 이인경
 
 ## 각주
 

@@ -35,6 +35,6 @@
 
 ## 외부 링크
 
-[분류:2011년 노래](https://ko.wikipedia.org/wiki/분류:2011년_노래 "wikilink") [분류:원더걸스의 노래](https://ko.wikipedia.org/wiki/분류:원더걸스의_노래 "wikilink") [분류:가온 디지털 차트 1위 노래](https://ko.wikipedia.org/wiki/분류:가온_디지털_차트_1위_노래 "wikilink") [분류:가온 다운로드 차트 1위 노래](https://ko.wikipedia.org/wiki/분류:가온_다운로드_차트_1위_노래 "wikilink") [분류:가온 스트리밍 차트 1위 노래](https://ko.wikipedia.org/wiki/분류:가온_스트리밍_차트_1위_노래 "wikilink") [분류:가온 BGM 차트 1위 노래](https://ko.wikipedia.org/wiki/분류:가온_BGM_차트_1위_노래 "wikilink") [분류:박진영이 작곡한 노래‎](https://ko.wikipedia.org/wiki/분류:박진영이_작곡한_노래‎ "wikilink") [분류:박진영이 작사한 노래‎](https://ko.wikipedia.org/wiki/분류:박진영이_작사한_노래‎ "wikilink")
+[분류:2011년 노래](https://ko.wikipedia.org/wiki/분류:2011년_노래 "wikilink") [분류:원더걸스의 노래](https://ko.wikipedia.org/wiki/분류:원더걸스의_노래 "wikilink") [분류:가온 디지털 차트 1위 노래](https://ko.wikipedia.org/wiki/분류:가온_디지털_차트_1위_노래 "wikilink") [분류:가온 다운로드 차트 1위 노래](https://ko.wikipedia.org/wiki/분류:가온_다운로드_차트_1위_노래 "wikilink") [분류:가온 스트리밍 차트 1위 노래](https://ko.wikipedia.org/wiki/분류:가온_스트리밍_차트_1위_노래 "wikilink") [분류:가온 BGM 차트 1위 노래](https://ko.wikipedia.org/wiki/분류:가온_BGM_차트_1위_노래 "wikilink") [분류:박진영이 작곡한 노래](https://ko.wikipedia.org/wiki/분류:박진영이_작곡한_노래 "wikilink") [분류:박진영이 작사한 노래](https://ko.wikipedia.org/wiki/분류:박진영이_작사한_노래 "wikilink")
 
 1.  SBS 《인기가요》는 종합 순위 1위 한 곡만 ‘뮤티즌 송’이라는 이름으로 수상한다. 같은 곡으로 3회를 초과하여 수상할 수 없다.

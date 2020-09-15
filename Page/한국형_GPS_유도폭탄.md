@@ -9,7 +9,7 @@
 
 ## 가격
 
-[대한민국 공군의](../Page/대한민국_공군.md "wikilink") [팝아이-2가](../Page/AGM-142_해브냅.md "wikilink") 11억원, [슬램-ER은](../Page/원격_지상_공격_미사일.md "wikilink") 23억원인데, KGGB는 1억원으로 매우 저렴하다.\[2\]
+[대한민국 공군의](../Page/대한민국_공군.md "wikilink") [팝아이-2가](../Page/AGM-142_해브냅.md "wikilink") 11억원, [슬램-ER은](../Page/원격_지상_공격_미사일.md "wikilink") 23억원인데, KGGB는 1억원으로 매우 저렴하다.\[2\] 그러나 미국의 [JDAM](https://ko.wikipedia.org/wiki/JDAM "wikilink")은 해외수출가격이 7천만원이다. 미국 국내구매는 3천만원이다.
 
 ## 블루투스
 

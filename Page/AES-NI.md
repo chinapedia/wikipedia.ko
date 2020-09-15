@@ -55,6 +55,7 @@ AES-NI 발표 이후 출시된 컴파일러 및 소프트웨어에서 해당 명
   - 솔라리스 10 이상의 암호화 프레임워크\[14\]
   - [FreeBSD](../Page/FreeBSD.md "wikilink") OpenCrypto API(aesni(4) 드라이버)\[15\]
   - [OpenSSL](../Page/OpenSSL.md "wikilink") 1.0.1 이상\[16\]
+  - [GnuTLS](https://ko.wikipedia.org/wiki/GnuTLS "wikilink")
 
 ## 같이 보기
 

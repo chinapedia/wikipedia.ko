@@ -3,12 +3,14 @@
 
 **삼성 갤럭시 R**()은 [삼성전자](https://ko.wikipedia.org/wiki/삼성전자 "wikilink")에서 [2011년](../Page/2011년.md "wikilink") [8월 10일에](../Page/8월_10일.md "wikilink") 출시한 [안드로이드](../Page/안드로이드_\(운영_체제\).md "wikilink") [스마트폰](../Page/스마트폰.md "wikilink")으로, [갤럭시 S II의](https://ko.wikipedia.org/wiki/갤럭시_S_II "wikilink") 하이엔드 보급형 제품이다.
 
+## 개요
+
 [갤럭시 시리즈의](../Page/삼성_갤럭시.md "wikilink") 하이엔드급 모델로 S/R/W/M/Y 라인 중 R(Royal)라인에 속한다.
 
 ## 색상
 
-  - 노블 블랙
-  - 세라믹 화이트
+  - 노블 [블랙](../Page/블랙.md "wikilink")
+  - 세라믹 [화이트](../Page/화이트.md "wikilink")
 
 ## [안드로이드](../Page/안드로이드_\(운영_체제\).md "wikilink") [2.3 진저브레드](https://ko.wikipedia.org/wiki/안드로이드_버전_역사 "wikilink") 업그레이드
 
@@ -16,7 +18,7 @@
 
 ## [안드로이드](../Page/안드로이드_\(운영_체제\).md "wikilink") [4.0 아이스크림 샌드위치](https://ko.wikipedia.org/wiki/안드로이드_버전_역사 "wikilink") 업그레이드
 
-## 기능
+## 특수 기능
 
 ### [구글 나우](../Page/구글_나우.md "wikilink")
 

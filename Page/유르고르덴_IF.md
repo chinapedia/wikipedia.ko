@@ -28,6 +28,6 @@
   - [공식 홈페이지](http://www.dif.se/)
   - [예른카미네르나 스톡홀름 (공식 서포터 클럽 홈페이지)](http://www.jarnkaminerna.nu/)
   - [포럼 1891 (서포터 홈페이지)](http://www.svenskafans.com/fotboll/dif/)
-  - [유르고르덴 서포터즈 클럽 (서포터 홈페이지)](http://www.dsclub.nu/)
+  - [유르고르덴 서포터즈 클럽 (서포터 홈페이지)](https://web.archive.org/web/20070929074959/http://www.dsclub.nu/)
 
 [분류:스웨덴의 축구단](https://ko.wikipedia.org/wiki/분류:스웨덴의_축구단 "wikilink") [분류:유르고르덴 IF](https://ko.wikipedia.org/wiki/분류:유르고르덴_IF "wikilink") [분류:1899년 설립된 축구단](https://ko.wikipedia.org/wiki/분류:1899년_설립된_축구단 "wikilink") [분류:1891년 설립된 스포츠 클럽](https://ko.wikipedia.org/wiki/분류:1891년_설립된_스포츠_클럽 "wikilink")

@@ -17,4 +17,4 @@ UR-100MR은 [소련](../Page/소련.md "wikilink")의 [OKB-586](https://ko.wikip
   - [로콧](../Page/로콧.md "wikilink")
   - [UR-100](../Page/UR-100.md "wikilink")
 
-[분류:러시아의 대륙간탄도유도탄](https://ko.wikipedia.org/wiki/분류:러시아의_대륙간탄도유도탄 "wikilink")
+[분류:러시아의 대륙간탄도유도탄](https://ko.wikipedia.org/wiki/분류:러시아의_대륙간탄도유도탄 "wikilink") [분류:소련의 핵무기](https://ko.wikipedia.org/wiki/분류:소련의_핵무기 "wikilink")

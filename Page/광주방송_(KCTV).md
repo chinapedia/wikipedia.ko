@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [광주방송 \(KCTV\)](https://ko.wikipedia.org/wiki/광주방송_\(KCTV\)).
 
 
-**주식회사 한국케이블TV광주방송**(<small>약칭</small> KCTV)은 [광주광역시](https://ko.wikipedia.org/wiki/광주광역시 "wikilink") 일원을 방송 구역으로 하는 [종합 유선방송](../Page/대한민국의_케이블TV_방송.md "wikilink") [사업자](https://ko.wikipedia.org/wiki/기업 "wikilink")(SO)이다. [1994년](../Page/1994년.md "wikilink") [2월 23일에](../Page/2월_23일.md "wikilink") 광주케이블텔레비전 주식회사로 설립되어, [1997년](../Page/1997년.md "wikilink") 사명을 현재의 명칭으로 변경한 뒤 오늘날까지 이르고 있다. [2008년](../Page/2008년.md "wikilink")에는 광주지역 DV 디지털방송 서비스, DV-phone 인터넷전화 서비스, DV-net 인터넷 서비스 실시 개시하였다. [EBS](../Page/한국교육방송공사.md "wikilink") [한국케이블TV광주방송](https://ko.wikipedia.org/wiki/한국케이블TV광주방송 "wikilink")있다.
+**주식회사 한국케이블TV광주방송**(<small>약칭</small> KCTV)은 [광주광역시](https://ko.wikipedia.org/wiki/광주광역시 "wikilink") 일원을 방송 구역으로 하는 [종합 유선방송](../Page/대한민국의_케이블TV_방송.md "wikilink") [사업자](https://ko.wikipedia.org/wiki/기업 "wikilink")(SO)이다. [1994년](../Page/1994년.md "wikilink") [2월 23일에](../Page/2월_23일.md "wikilink") 광주케이블텔레비전 주식회사로 설립되어, [1997년](../Page/1997년.md "wikilink") 사명을 현재의 명칭으로 변경한 뒤 오늘날까지 이르고 있다. [2008년](../Page/2008년.md "wikilink")에는 광주지역 DV 디지털방송 서비스, DV-phone 인터넷전화 서비스, DV-net 인터넷 서비스 실시 개시하였다.
 
 ## 연혁
 
@@ -91,7 +91,7 @@
   - 11-1번 [GS shop](../Page/GS_SHOP.md "wikilink")
   - 12-1번 [MBC](https://ko.wikipedia.org/wiki/목포MBC "wikilink")
   - 13-1번 [NS 홈쇼핑](../Page/NS홈쇼핑.md "wikilink")
-  - 14-1번 [KBC/SBS](https://ko.wikipedia.org/wiki/KBC_광주방송 "wikilink")
+  - 14-1번 [KBC](https://ko.wikipedia.org/wiki/KBC_광주방송 "wikilink")
   - 15-1번 [CJ 오쇼핑](../Page/CJ오쇼핑.md "wikilink")
   - 16-1번 [JTBC](../Page/JTBC.md "wikilink")
   - 17-1번 [MBN](../Page/매일방송.md "wikilink")
@@ -120,7 +120,7 @@
   - 35-1번 [KBS JOY](../Page/KBS_조이.md "wikilink")
   - 36-1번 [JTBC2](../Page/JTBC2.md "wikilink")
   - 36-1번 [GTV](../Page/GTV_\(방송_채널\).md "wikilink")
-  - 37-1번 [JTBC4](https://ko.wikipedia.org/wiki/JTBC4 "wikilink")
+  - 37-1번 [JTBC4](../Page/JTBC4.md "wikilink")
   - 37-2번 [NS SHOP+](../Page/NS홈쇼핑.md "wikilink")
   - 38-1번 [코미디TV](https://ko.wikipedia.org/wiki/코미디TV "wikilink")
   - 38-2번 [드라마H](https://ko.wikipedia.org/wiki/드라마H "wikilink")
@@ -136,7 +136,7 @@
   - 44-1번 [KTV](../Page/KTV_국민방송.md "wikilink")
   - 44-2번 [리얼TV](https://ko.wikipedia.org/wiki/리얼TV "wikilink")
   - 45-1번 [CMC가족오락](https://ko.wikipedia.org/wiki/CMC_TV "wikilink")
-  - 45-2번 FUN TV
+  - 45-2번 [FUN TV](https://ko.wikipedia.org/wiki/펀TV "wikilink")
   - 46-1번 [리빙TV](https://ko.wikipedia.org/wiki/리빙TV "wikilink")
   - 46-2번 [내셔널지오그래픽](https://ko.wikipedia.org/wiki/내셔널지오그래픽 "wikilink")
   - 47-1번 [M.net](https://ko.wikipedia.org/wiki/Mnet "wikilink")
@@ -250,7 +250,7 @@
   - 056번 [EDGE TV](https://ko.wikipedia.org/wiki/EDGE_TV "wikilink")
   - 057번 [하이라이트TV](https://ko.wikipedia.org/wiki/서울신문STV "wikilink")
   - 058번 [채널차이나](https://ko.wikipedia.org/wiki/채널차이나 "wikilink")
-  - 059번 FUN TV
+  - 059번 [FUN TV](https://ko.wikipedia.org/wiki/펀TV "wikilink")
   - 061번 [MBC ON](../Page/MBC_ON.md "wikilink")
   - 062번 [SBS골프](https://ko.wikipedia.org/wiki/SBS골프 "wikilink")
   - 063번 [JTBC골프](https://ko.wikipedia.org/wiki/JTBC_골프 "wikilink")
@@ -278,7 +278,7 @@
   - 085번 [스마일TV](../Page/SmileTV_Plus.md "wikilink")
   - 086번 [다큐원](https://ko.wikipedia.org/wiki/다큐원 "wikilink")
   - 087번 [사이언스](../Page/YTN_사이언스.md "wikilink")
-  - 088번 [JTBC4](https://ko.wikipedia.org/wiki/JTBC4 "wikilink")
+  - 088번 [JTBC4](../Page/JTBC4.md "wikilink")
   - 089번 [SBS CNBC](../Page/SBS_CNBC.md "wikilink")
   - 090번 [머니투데이](../Page/MTN_\(방송사\).md "wikilink")
   - 091번 [한국경제TV](../Page/한국경제TV.md "wikilink")
@@ -324,7 +324,7 @@
   - 131번 [AsiaN](https://ko.wikipedia.org/wiki/AsiaN_\(텔레비전_채널\) "wikilink")
   - 132번 EXF Plus
   - 133번 CUBE TV
-  - 134번 [SBS F\!L](https://ko.wikipedia.org/wiki/SBS_F!L "wikilink")
+  - 134번 [SBS F\!L](../Page/SBS_F!L.md "wikilink")
   - 135번 [산업방송 채널i](../Page/산업방송_채널i.md "wikilink")
   - 136번 [헬스메디TV](https://ko.wikipedia.org/wiki/헬스메디TV "wikilink")
   - 137번 [NBS 한국농업방송](../Page/환경TV.md "wikilink")
@@ -339,7 +339,7 @@
   - 146번 [아리랑국제방송](../Page/아리랑국제방송.md "wikilink")
   - 147번 [Wee TV](https://ko.wikipedia.org/wiki/EDUKIDS_TV "wikilink")
   - 148번 [OGN](../Page/OGN.md "wikilink")
-  - 149번 [SPOTV게임](https://ko.wikipedia.org/wiki/SPO_TV_게임즈 "wikilink")
+  - 149번 [STATV](https://ko.wikipedia.org/wiki/STATV "wikilink")
   - 150번 [투니버스](../Page/투니버스.md "wikilink")
   - 151번 [JEI 재능방송](../Page/재능TV.md "wikilink")
   - 152번 [어린이TV](../Page/대교어린이TV.md "wikilink")
@@ -354,24 +354,15 @@
   - 168번 [KTV](../Page/KTV_국민방송.md "wikilink")
   - 169번 [국방TV](../Page/국방TV.md "wikilink")
   - 170번 [한국직업방송](../Page/한국직업방송.md "wikilink")
-  - 171번 [소상공인방송](https://ko.wikipedia.org/wiki/소상공인방송정보원 "wikilink")
+  - 171번 [소상공인방송 yestv](https://ko.wikipedia.org/wiki/소상공인방송정보원 "wikilink")
   - 172번 [실버아이](../Page/실버아이.md "wikilink")
   - 173번 [육아방송](https://ko.wikipedia.org/wiki/육아방송 "wikilink")
   - 180번 [CBS 기독교](../Page/CBS_\(대한민국의_방송사\).md "wikilink")
-  - 181번 [CTS](../Page/CTS기독교TV.md "wikilink")
-  - 182번 [BTN 불교](../Page/BTN불교TV.md "wikilink")
-  - 183번 [CPBC](https://ko.wikipedia.org/wiki/CPBC_가톨릭평화방송 "wikilink")
-  - 184번 [상생방송](https://ko.wikipedia.org/wiki/STB_상생방송 "wikilink")
-  - 185번 [BBS불교방송](../Page/불교방송.md "wikilink")
-  - 186번 [SKY트래블](https://ko.wikipedia.org/wiki/스카이트래블 "wikilink")
-  - 187번 [마운틴TV](../Page/마운틴TV.md "wikilink")
-  - 188번 [동아TV](../Page/동아TV.md "wikilink")
-  - 189번 [라이프타임](https://ko.wikipedia.org/wiki/라이프타임 "wikilink")
-  - 190번 [디즈니채널](https://ko.wikipedia.org/wiki/디즈니채널 "wikilink")
+  - 181번 [CTS기독교TV](../Page/CTS기독교TV.md "wikilink")
+  - 182번 [BTN불교TV](../Page/BTN불교TV.md "wikilink")
+  - 185번 [BBS 불교방송TV](../Page/불교방송.md "wikilink")
   - 191번 [KBS 키즈](../Page/KBS_키즈.md "wikilink")
   - 192번 [애니맥스](../Page/애니맥스.md "wikilink")
-  - 193번 CMTV
-  - 194번 [CH W](../Page/채널W.md "wikilink")
 
 ## 외부 링크
 

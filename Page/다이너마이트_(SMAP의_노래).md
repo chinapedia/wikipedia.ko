@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [다이너마이트 \(SMAP의 노래\)](https://ko.wikipedia.org/wiki/다이너마이트_\(SMAP의_노래\)).
 
 
-〈**다이너마이트**〉()는 [SMAP](../Page/SMAP.md "wikilink")의 24번째 싱글이다. [1997년](../Page/1997년.md "wikilink") [2월 26일에](https://ko.wikipedia.org/wiki/2월_26일 "wikilink") [빅터 엔터테인먼트에서](https://ko.wikipedia.org/wiki/빅터_엔터테인먼트 "wikilink") 발매되었다.
+〈**다이너마이트**〉()는 [SMAP](../Page/SMAP.md "wikilink")의 24번째 싱글이다. [1997년](../Page/1997년.md "wikilink") [2월 26일에](../Page/2월_26일.md "wikilink") [빅터 엔터테인먼트에서](https://ko.wikipedia.org/wiki/빅터_엔터테인먼트 "wikilink") 발매되었다.
 
 ## 개요
 

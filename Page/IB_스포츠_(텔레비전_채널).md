@@ -11,13 +11,13 @@ IPTV의 특성인 양방향 방송통신융합을 이용한 방송 제작진과 
 
 ## 아나운서
 
-  - [김태우](../Page/김태우_\(아나운서\).md "wikilink")(팀장)
+  - [김태우](../Page/김태우_\(아나운서\).md "wikilink") (팀장)
   - 김영인
   - 김민지
   - 이유빈
   - [이인환](https://ko.wikipedia.org/wiki/이인환 "wikilink")
   - [임용수](../Page/임용수.md "wikilink")
-  - [정찬우](../Page/정찬우_\(아나운서\).md "wikilink")
+  - [정찬우](../Page/정찬우_\(아나운서\).md "wikilink") (부장)
   - 정승호
   - [박찬](https://ko.wikipedia.org/wiki/박찬 "wikilink")
   - [임주완](../Page/임주완_\(아나운서\).md "wikilink")

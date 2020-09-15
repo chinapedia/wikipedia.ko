@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Versailles](https://ko.wikipedia.org/wiki/Versailles).
 
 
-**Versailles**은 일본의 [비쥬얼계](https://ko.wikipedia.org/wiki/비쥬얼계 "wikilink") 메탈 밴드이다.
+**Versailles**은 일본의 [비쥬얼계](https://ko.wikipedia.org/wiki/비쥬얼계 "wikilink") 고딕 메탈 밴드이다.
 
 ## 디스코그래피
 
@@ -29,7 +29,7 @@
 
 <!-- end list -->
 
-  - 7\. 20. TERU의 전 밴드(藍華柳の)의 졸업과 함께 정식 가입﻿
+  - 7\. 20. TERU의 전 밴드(藍華柳の)의 졸업과 함께 정식 가입
 
 <!-- end list -->
 
@@ -132,7 +132,7 @@
 
   - 2013 \~ 카미조는 솔로 활동을 시작, 나머지 4명의 멤버는 ZIN을 보컬로 새로운 프로젝트 밴드 'Jupiter' 결성
 
-﻿Versailles (2007 \~ 2012.12.20)
+Versailles (2007 \~ 2012.12.20)
 
 ## 외부 링크
 

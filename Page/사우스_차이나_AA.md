@@ -19,8 +19,8 @@
   -
 ## 외부 링크
 
-  - [사이수 차이나 AA 공식 웹사이트](http://www.scaa.org.hk)
+  - [사우스 차이나 AA 공식 웹사이트](http://www.scaa.org.hk)
 
   - [홍콩 축구 협회 - 사우스 차이나 AA](https://www.hkfa.com/en/club/2/detail)
 
-[사우스_차이나_AA](https://ko.wikipedia.org/wiki/분류:사우스_차이나_AA "wikilink") [분류:1910년 설립](https://ko.wikipedia.org/wiki/분류:1910년_설립 "wikilink") [분류:1910년 설립된 축구단](https://ko.wikipedia.org/wiki/분류:1910년_설립된_축구단 "wikilink") [분류:홍콩의 축구단](https://ko.wikipedia.org/wiki/분류:홍콩의_축구단 "wikilink") [분류:1967년 아시안 클럽 챔피언십 선수단](https://ko.wikipedia.org/wiki/분류:1967년_아시안_클럽_챔피언십_선수단 "wikilink")
+[사우스_차이나_AA](https://ko.wikipedia.org/wiki/분류:사우스_차이나_AA "wikilink") [분류:1910년 설립](https://ko.wikipedia.org/wiki/분류:1910년_설립 "wikilink") [분류:1910년 설립된 축구단](https://ko.wikipedia.org/wiki/분류:1910년_설립된_축구단 "wikilink") [분류:홍콩의 축구단](https://ko.wikipedia.org/wiki/분류:홍콩의_축구단 "wikilink") [분류:1967년 아시안 챔피언 클럽 토너먼트 선수단](https://ko.wikipedia.org/wiki/분류:1967년_아시안_챔피언_클럽_토너먼트_선수단 "wikilink")

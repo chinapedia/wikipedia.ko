@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Epic Rap Battles of History](https://ko.wikipedia.org/wiki/Epic_Rap_Battles_of_History).
 
 
-**Epic Rap Battles of History**는 [에픽 로이드와](https://ko.wikipedia.org/wiki/에픽_로이드 "wikilink") [나이스 피터가](https://ko.wikipedia.org/wiki/나이스_피터 "wikilink") 만든 [유튜브](../Page/유튜브.md "wikilink") 영상 시리즈로, 역사에 등장하는 인물이나 영화, 만화 등에 등장하는 가상인물들끼리 [랩](https://ko.wikipedia.org/wiki/랩 "wikilink")으로 배틀을 하는 내용이다.
+**Epic Rap Battles of History**는 [에픽 로이드와](https://ko.wikipedia.org/wiki/에픽_로이드 "wikilink") [나이스 피터가](../Page/나이스_피터.md "wikilink") 만든 [유튜브](../Page/유튜브.md "wikilink") 영상 시리즈로, 역사에 등장하는 인물이나 영화, 만화 등에 등장하는 가상인물들끼리 [랩](https://ko.wikipedia.org/wiki/랩 "wikilink")으로 배틀을 하는 내용이다.
 
 ## 시즌 1
 
@@ -19,7 +19,7 @@
   - [닥터 수스](https://ko.wikipedia.org/wiki/닥터_수스 "wikilink") VS [윌리엄 셰익스피어](../Page/윌리엄_셰익스피어.md "wikilink") (Dr. Seuss vs William Shakespeare)
   - [미스터 T](https://ko.wikipedia.org/wiki/미스터_T "wikilink") VS [미스터 로저스](https://ko.wikipedia.org/wiki/미스터_로저스 "wikilink") (Mr. T vs Mr. Rogers)
   - [크리스토퍼 콜럼버스](../Page/크리스토퍼_콜럼버스.md "wikilink") VS [캡틴 커크](https://ko.wikipedia.org/wiki/캡틴_커크 "wikilink") (Christopher Columbus vs Captain Kirk)
-  - [나이스 피터](https://ko.wikipedia.org/wiki/나이스_피터 "wikilink") VS [에픽 로이드](https://ko.wikipedia.org/wiki/에픽_로이드 "wikilink") (Nice Peter vs EpicLLOYD)
+  - [나이스 피터](../Page/나이스_피터.md "wikilink") VS [에픽 로이드](https://ko.wikipedia.org/wiki/에픽_로이드 "wikilink") (Nice Peter vs EpicLLOYD)
 
 ## 시즌 2
 
@@ -69,7 +69,7 @@
   - [데이빗 카퍼필드](https://ko.wikipedia.org/wiki/데이빗_카퍼필드 "wikilink") VS [해리 후디니](../Page/해리_후디니.md "wikilink") (David Copperfield vs Harry Houdini)
   - [터미네이터](https://ko.wikipedia.org/wiki/터미네이터 "wikilink") VS [로보캅](../Page/로보캅.md "wikilink") (Terminator vs RoboCop)
   - [노자](../Page/노자.md "wikilink"), [손무](../Page/손무.md "wikilink"), [공자](../Page/공자.md "wikilink") VS [니체](https://ko.wikipedia.org/wiki/니체 "wikilink"), [소크라테스](../Page/소크라테스.md "wikilink"), [볼테르](../Page/볼테르.md "wikilink") (Eastern Philosophers vs Western Philosophers)
-  - [샤카](https://ko.wikipedia.org/wiki/샤카 "wikilink") [줄루족](../Page/줄루족.md "wikilink") VS [가이우스 카이사르](../Page/가이우스_카이사르.md "wikilink") (Shaka Zulu vs Julius Caesar)
+  - [샤카 줄루](https://ko.wikipedia.org/wiki/샤카_줄루 "wikilink") VS [가이우스 카이사르](../Page/가이우스_카이사르.md "wikilink") (Shaka Zulu vs Julius Caesar)
   - [짐 헨슨](../Page/짐_헨슨.md "wikilink") VS [스탠 리](../Page/스탠_리.md "wikilink") (Jim Henson vs Stan Lee)
 
 ## 보너스 전투
@@ -89,11 +89,10 @@
   - [원더우먼](../Page/원더우먼.md "wikilink") VS [스티비 원더](../Page/스티비_원더.md "wikilink") (Wonder Woman vs Stevie Wonder)
   - [토니 호크](../Page/토니_호크.md "wikilink") VS [웨인 그레츠키](../Page/웨인_그레츠키.md "wikilink") (Tony Hawk vs Wayne Gretzky)
   - [시어도어 루스벨트](../Page/시어도어_루스벨트.md "wikilink") VS [윈스턴 처칠](../Page/윈스턴_처칠.md "wikilink") (Theodore Roosevelt vs Winston Churchill)
-  - [나이스 피터](https://ko.wikipedia.org/wiki/나이스_피터 "wikilink") VS [에픽로이드](https://ko.wikipedia.org/wiki/에픽로이드 "wikilink") 2 (Nice Peter vs EpicLLOYD 2)
+  - [나이스 피터](../Page/나이스_피터.md "wikilink") VS [에픽로이드](https://ko.wikipedia.org/wiki/에픽로이드 "wikilink") 2 (Nice Peter vs EpicLLOYD 2)
 
 ## 외부 링크
 
   -
-  - [공식 유튜브 채널](https://www.youtube.com/user/ERB)
-
+  -
 [분류:미국의 유튜브 채널](https://ko.wikipedia.org/wiki/분류:미국의_유튜브_채널 "wikilink") [분류:랩](https://ko.wikipedia.org/wiki/분류:랩 "wikilink") [분류:유튜브 다이아몬드 플레이 버튼 수상자](https://ko.wikipedia.org/wiki/분류:유튜브_다이아몬드_플레이_버튼_수상자 "wikilink")

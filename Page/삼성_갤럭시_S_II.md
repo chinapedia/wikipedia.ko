@@ -23,16 +23,16 @@
 
 ## 디스플레이
 
-픽셀의 구조를 기존의 RGBG [펜타일 매트릭스](https://ko.wikipedia.org/wiki/펜타일_매트릭스 "wikilink") 구조에서 [RGB](https://ko.wikipedia.org/wiki/RGB "wikilink") 매트릭스 구조로 변경하여 [슈퍼 AMOLED에서](../Page/슈퍼_AMOLED.md "wikilink") 지적 받은 가독성 문제를 해결하였다.
+픽셀의 구조를 기존의 RGBG [펜타일 매트릭스](https://ko.wikipedia.org/wiki/펜타일_매트릭스 "wikilink") 구조에서 [RGB](../Page/RGB.md "wikilink") 매트릭스 구조로 변경하여 [슈퍼 AMOLED에서](../Page/슈퍼_AMOLED.md "wikilink") 지적 받은 가독성 문제를 해결하였다.
 
-## 색상/에디션
+## 색상 / 에디션
 
-  - 노블 블랙
-  - 세라믹 화이트
-  - 크리스탈 에디션 (흰색 바탕)\[4\]\[5\]
-  - 코랄 핑크
+  - [노블 블랙](https://ko.wikipedia.org/wiki/검정 "wikilink")
+  - [세라믹 화이트](../Page/하양.md "wikilink")
+  - [크리스탈 에디션 (흰색 바탕)](../Page/하양.md "wikilink")\[4\]\[5\]
+  - [코랄 핑크](../Page/분홍.md "wikilink")
 
-## 운영 체제/소프트웨어
+## 운영 체제 / 소프트웨어
 
 ### 안드로이드 2.3 진저브레드
 

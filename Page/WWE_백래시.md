@@ -100,21 +100,28 @@
 <td><p><a href="../Page/리치먼드_(버지니아주).md" title="wikilink">리치먼드</a></p></td>
 <td><p><a href="../Page/리치먼드_콜리시엄.md" title="wikilink">리치먼드 콜리시엄</a></p></td>
 <td><p>7,000</p></td>
-<td><p><a href="../Page/딘_앰브로스.md" title="wikilink">딘 앰브로스</a> vs <a href="../Page/A.J._스타일스.md" title="wikilink">A.J. 스타일스</a> (WWE 챔피언십)</p></td>
+<td><p><a href="../Page/딘_앰브로스.md" title="wikilink">딘 앰브로스</a> vs. <a href="../Page/A.J._스타일스.md" title="wikilink">A.J. 스타일스</a> (WWE 챔피언십)</p></td>
 </tr>
 <tr class="odd">
 <td><p>2017년 5월 21일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/로즈먼트_(일리노이주)" title="wikilink">로즈먼트</a></p></td>
 <td><p><a href="../Page/올스테이트_아레나.md" title="wikilink">올스테이트 아레나</a></p></td>
 <td><p>10,000</p></td>
-<td><p><a href="../Page/랜디_오턴.md" title="wikilink">랜디 오턴</a> vs <a href="../Page/진더_마할.md" title="wikilink">진더 마할</a> (WWE 챔피언십)</p></td>
+<td><p><a href="../Page/랜디_오턴.md" title="wikilink">랜디 오턴</a> vs. <a href="../Page/진더_마할.md" title="wikilink">진더 마할</a> (WWE 챔피언십)</p></td>
 </tr>
 <tr class="even">
 <td><p>2018년 5월 6일</p></td>
 <td><p><a href="../Page/뉴어크_(뉴저지주).md" title="wikilink">뉴어크</a></p></td>
 <td><p><a href="../Page/프루덴셜_센터.md" title="wikilink">프루덴셜 센터</a></p></td>
 <td><p>14,724</p></td>
-<td><p><a href="../Page/로먼_레인스.md" title="wikilink">로만 레인즈</a> vs <a href="../Page/사모아_조.md" title="wikilink">사모아 조</a></p></td>
+<td><p><a href="../Page/로먼_레인스.md" title="wikilink">로만 레인즈</a> vs. <a href="../Page/사모아_조.md" title="wikilink">사모아 조</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>2020년 6월 14일</p></td>
+<td><p><a href="../Page/올랜도.md" title="wikilink">올랜도</a></p></td>
+<td><p>WWE 퍼포먼스 센터</p></td>
+<td><p><a href="../Page/무관중_경기.md" title="wikilink">무관중 경기</a></p></td>
+<td><p><a href="../Page/에지_(프로레슬링_선수).md" title="wikilink">에지</a> vs. <a href="../Page/랜디_오턴.md" title="wikilink">랜디 오턴</a></p></td>
 </tr>
 </tbody>
 </table>

@@ -13,6 +13,12 @@
 
 페도라 같은 일반적인 리눅스 배포판에서는 라이브USB는 추가적인 변경이 재부팅시 초기화되는것과 달리 우분투 리눅스 특정배포판은 라이브USB로 부팅과 리눅스운영체계의 이용뿐만아니라 추가적인 업데이트 기록이 가능하도록 지원하는 경우도 있다. 그러나 이러한 경우에는 모든영역에 걸쳐서 업데이트를 보장할수없는 상황이므로 [이미지](../Page/디스크_이미지.md "wikilink") 영역에대한 업데이트 시도는 예기치 못한 심각한 에러를 수반할수도 있다.\[6\]
 
+## 스타트업 디스크 크리에이터
+
+리눅스 배포판들은 특히 그놈 데스크탑의 경우, 일반 USB를 라이브USB로 사용할수있게 해주는 '스타트업 디스크 크리에이터'(Startup Disk Creator) 프로그램을 공식 지원한다.<ref>(우분투 Tutorials -Create a bootable USB stick on Ubuntu ,3.Launch Startup Disk Creator)https://ubuntu.com/tutorials/tutorial-create-a-usb-stick-on-ubuntu?_ga=2.121734411.1283478702.1591875323-221445953.1591875323\#3-launch-startup-disk-creator (3. Launch Startup Disk Creator We’re going to use an application called ‘Startup Disk Creator’ to write the ISO image to your USB stick. This is installed by default on Ubuntu, and can be launched as follows:
+
+Insert your USB stick (select ‘Do nothing’ if prompted by Ubuntu) On Ubuntu 18.04 and later, use the bottom left icon to open ‘Show Applications’ In older versions of Ubuntu, use the top left icon to open the dash Use the search field to look for Startup Disk Creator Select Startup Disk Creator from the results to launch the application)</ref>
+
 ## 같이 보기
 
   - [라이브 CD](../Page/라이브_CD.md "wikilink")

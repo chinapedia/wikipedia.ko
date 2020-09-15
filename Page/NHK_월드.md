@@ -1,15 +1,13 @@
 > This article is converted from Wikipedia: [NHK 월드](https://ko.wikipedia.org/wiki/NHK_월드).
 
 
-[오른쪽](https://ko.wikipedia.org/wiki/파일:NHK_World.svg "wikilink")
-
 **NHK 월드**(NHK World)는 [일본방송협회](../Page/일본방송협회.md "wikilink")가 운영하는 [국제 위성방송이다](../Page/위성방송.md "wikilink").
 
 ## 개요
 
 NHK는 방송법에 따라 총무 대신의 요청(이전에는 명령) 아래 국제 방송을 실시하고 있으며, 운영 비용은 정부가 보조하고 있다. 이는 [영국](../Page/영국.md "wikilink") [BBC](https://ko.wikipedia.org/wiki/BBC "wikilink")의 국제 라디오 방송과 같다. 재원의 형태는 국영 방송과 같지만, BBC도 공영 방송이기 때문에 어디까지나 공공 방송인 것은 다를 바가 없다. [라디오](../Page/라디오.md "wikilink") 방송은 [일본어](../Page/일본어.md "wikilink") 외에 약 20개 언어로 방송하고 있으며, [텔레비전](../Page/텔레비전.md "wikilink") 방송은 일본어 방송과 영어 방송을 중심으로 실시하고 있다.
 
-[2006년](../Page/2006년.md "wikilink")에는 총무 대신의 명령에 따라 실시하는 점이 문제로 지적되었다. [11월 10일에](../Page/11월_10일.md "wikilink") [스가 요시히데](../Page/스가_요시히데.md "wikilink")(당시 총무 대신)가 [하시모토 모토이치](https://ko.wikipedia.org/wiki/하시모토_모토이치 "wikilink")(당시 NHK 회장)에게 방송법 제33조\[1\] 에 따라 NHK 월드 라디오 일본이 [북한의](../Page/조선민주주의인민공화국.md "wikilink") 일본인 납치 피해자에게 전하는 내용을 방송하도록 명령하였다. 이는 NHK의 독립성을 해친다고 주장하였고, [저널리스트](https://ko.wikipedia.org/wiki/저널리스트 "wikilink")와 학자가 반대의 소리를 높여 NHK 본사가 곤혹에 처하였다는 사실을 보도하였다. 이 사건에 대해 당시 정부 자민당은 명령이라고 한 것이 문제라고 지적한 것에 대해 방송법을 개정할 것을 다른 문언을 통해 재검토할 생각을 밝혔다. 그 후, 명령은 요청으로 고쳐졌다
+[2006년](../Page/2006년.md "wikilink")에는 총무 대신의 명령에 따라 실시하는 점이 문제로 지적되었다. [11월 10일에](../Page/11월_10일.md "wikilink") [스가 요시히데](../Page/스가_요시히데.md "wikilink")(당시 총무 대신)가 [하시모토 모토이치](https://ko.wikipedia.org/wiki/하시모토_모토이치 "wikilink")(당시 NHK 회장)에게 방송법 제33조\[1\] 에 따라 NHK 월드 라디오 일본이 [북한의](../Page/조선민주주의인민공화국.md "wikilink") 일본인 납치 피해자에게 전하는 내용을 방송하도록 명령하였다. 이는 NHK의 독립성을 해친다고 주장하였고, [저널리스트](https://ko.wikipedia.org/wiki/저널리스트 "wikilink")와 학자가 반대의 소리를 높여 NHK 본사가 곤혹에 처하였다는 사실을 보도하였다. 이 사건에 대해 당시 정부 자민당은 명령이라고 한 것이 문제라고 지적한 것에 대해 방송법을 개정할 것을 다른 문언을 통해 재검토할 생각을 밝혔다. 그 후, 명령은 요청으로 고쳐졌다.
 
 ## 방송 채널
 

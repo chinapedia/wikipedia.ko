@@ -118,7 +118,7 @@ IIA NS5-막 세계부피 이론의 장들
 
 [D-막](../Page/D-막.md "wikilink")과 달리, NS5-막은 [T-이중성](../Page/T-이중성.md "wikilink") 아래 일반적으로 차원이 바뀌지 않는다. 다만, 일부 경우 [T-이중성](../Page/T-이중성.md "wikilink") 아래 NS5-막이 생기거나 소멸될 수 있다. 이 경우 소멸된 NS5-막은 콤팩트화의 자명하지 않은 [원다발](https://ko.wikipedia.org/wiki/원다발 "wikilink") 및 이에 대응하는 5차원 칼루차-클라인 솔리톤에 대응된다.
 
-[T-이중성](../Page/T-이중성.md "wikilink")을 가하면, NS5-막은 특정한 형태의 [점근 국소 평탄 공간과](https://ko.wikipedia.org/wiki/점근_국소_평탄_공간 "wikilink") 대응한다. 예를 들어, *N*개의 겹친 평행한 NS5-막은 ADE 분류에서 A<sub>*N*−1</sub> 꼴의 [점근 국소 평탄 공간](https://ko.wikipedia.org/wiki/점근_국소_평탄_공간 "wikilink") 공간과 대응한다.\[13\]\[14\]\[15\]\[16\]
+[T-이중성](../Page/T-이중성.md "wikilink")을 가하면, NS5-막은 특정한 형태의 [점근 국소 평탄 공간과](../Page/점근_국소_평탄_공간.md "wikilink") 대응한다. 예를 들어, *N*개의 겹친 평행한 NS5-막은 ADE 분류에서 A<sub>*N*−1</sub> 꼴의 [점근 국소 평탄 공간](../Page/점근_국소_평탄_공간.md "wikilink") 공간과 대응한다.\[13\]\[14\]\[15\]\[16\]
 
 구체적으로, \(\mathbb R^3 \times \mathbb S^1\) 위의 한 점에 위치한 \(N\)개의 겹친 NS5-막이 주어졌다고 하자. 원 방향으로 T-이중성을 가하면, 점근적으로 \(\mathbb R^3 \times \mathbb S^1\)인 점근 국소 평탄 공간을 얻는데, 이 경우 \(\mathbb R^3\)에서, NS5-막이 있었던 점을 중심으로 하는 등각 경계 \(\mathbb S^2\) 위에서 \(\mathbb S^1\)은 자명하지 않은 [원다발](https://ko.wikipedia.org/wiki/원다발 "wikilink")을 이룬다. 이러한 원다발은 [천 특성류로](../Page/천_특성류.md "wikilink") 분류되는데, 천 특성류의 값은 원래 있었던 NS5-막의 수 \(N\)과 같다. 예를 들어, \(N=1\)인 경우는 [토브-너트 공간이다](../Page/토브-너트_공간.md "wikilink").
 

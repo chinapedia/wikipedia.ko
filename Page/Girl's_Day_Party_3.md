@@ -18,7 +18,7 @@
 ## 외부 링크
 
   -
-[분류:댄스 팝 노래](https://ko.wikipedia.org/wiki/분류:댄스_팝_노래 "wikilink") [분류:대한민국의 팝 노래](https://ko.wikipedia.org/wiki/분류:대한민국의_팝_노래 "wikilink") [분류:한국어 노래](https://ko.wikipedia.org/wiki/분류:한국어_노래 "wikilink") [분류:2011년 싱글](https://ko.wikipedia.org/wiki/분류:2011년_싱글 "wikilink") [분류:걸스데이의 노래](https://ko.wikipedia.org/wiki/분류:걸스데이의_노래 "wikilink")
+[분류:댄스 팝 노래](https://ko.wikipedia.org/wiki/분류:댄스_팝_노래 "wikilink") [분류:K-pop 노래](https://ko.wikipedia.org/wiki/분류:K-pop_노래 "wikilink") [분류:한국어 노래](https://ko.wikipedia.org/wiki/분류:한국어_노래 "wikilink") [분류:2011년 싱글](https://ko.wikipedia.org/wiki/분류:2011년_싱글 "wikilink") [분류:걸스데이의 노래](https://ko.wikipedia.org/wiki/분류:걸스데이의_노래 "wikilink")
 
 1.
 2.

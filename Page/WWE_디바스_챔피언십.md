@@ -18,7 +18,7 @@
   - 최장수 챔피언 : [니키 벨라](../Page/벨라_트윈스.md "wikilink") (301일)
   - 최단 기간 챔피언 : [질리안 홀](https://ko.wikipedia.org/wiki/질리안_홀 "wikilink") (0일)
   - 최다 챔피언 : [이브 토레스](https://ko.wikipedia.org/wiki/이브_토레스 "wikilink") (3회) & [AJ 리](../Page/AJ_리.md "wikilink") ( 3회 )
-  - 최중량급 챔피언 : [베스 피닉스](https://ko.wikipedia.org/wiki/베스_피닉스 "wikilink") (75kg)
+  - 최중량급 챔피언 : [베스 피닉스](https://ko.wikipedia.org/wiki/베스_피닉스 "wikilink") (68kg)
   - 최경량급 챔피언 : [켈리 켈리](https://ko.wikipedia.org/wiki/켈리_켈리 "wikilink") (49kg)
   - 최고령 챔피언 : [레일라](https://ko.wikipedia.org/wiki/레일라_엘 "wikilink") (35세 140일)
   - 최연소 챔피언 : [페이지](https://ko.wikipedia.org/wiki/브리타니_나이트 "wikilink") (23세 84일)

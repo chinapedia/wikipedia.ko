@@ -160,7 +160,7 @@
 <td><p>2001-11-28</p></td>
 <td><p>2라운드 2차전</p></td>
 <td><p><a href="../Page/묵티조다_상사드_KC.md" title="wikilink">묵티조다 상사드</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/방가반두_국립경기장" title="wikilink">A</a></p></td>
+<td><p><a href="../Page/방가반두_국립경기장.md" title="wikilink">A</a></p></td>
 <td><p>3–0</p></td>
 <td><p><small><a href="https://ko.wikipedia.org/wiki/FC_서울" title="wikilink">서</a>: <a href="../Page/김병채.md" title="wikilink">김병채</a>, <a href="https://ko.wikipedia.org/wiki/박정환_(축구_선수)" title="wikilink">박정환</a>, <a href="../Page/자책골.md" title="wikilink">자책골</a></small></p></td>
 <td></td>
@@ -235,7 +235,7 @@
 <td><p>조별리그</p></td>
 <td><p><a href="../Page/스리위자야_FC.md" title="wikilink">스리위자야</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/:en:Gelora_Sriwijaya_Stadium" title="wikilink">A</a></p></td>
-<td><p><a href="http://www.fcseoul.com/match/result/match_schresult_detail.jsp?league_id=all_lg&amp;aT=&amp;match_ymd=20090310&amp;team_part=1&amp;news_seq=&amp;news_type=PREVIEW&amp;yy=2009&amp;mm=">4–2</a></p></td>
+<td><p><a href="https://web.archive.org/web/20160304104047/http://www.fcseoul.com/match/result/match_schresult_detail.jsp?league_id=all_lg&amp;aT=&amp;match_ymd=20090310&amp;team_part=1&amp;news_seq=&amp;news_type=PREVIEW&amp;yy=2009&amp;mm=">4–2</a></p></td>
 <td><p><small><a href="https://ko.wikipedia.org/wiki/FC_서울" title="wikilink">서</a>: <a href="../Page/김치우.md" title="wikilink">김치우</a> (2), <a href="../Page/정조국.md" title="wikilink">정조국</a>, <a href="../Page/김승용.md" title="wikilink">김승용</a></small><br />
 <small><a href="../Page/스리위자야_FC.md" title="wikilink">스</a>: <a href="https://ko.wikipedia.org/wiki/클라우드_파르페_은곤_아잼" title="wikilink">은곤 아잼</a> (2)</small></p></td>
 </tr>
@@ -244,7 +244,7 @@
 <td><p>2009-03-17</p></td>
 <td><p><a href="../Page/감바_오사카.md" title="wikilink">감바 오사카</a></p></td>
 <td><p><a href="../Page/서울월드컵경기장.md" title="wikilink">H</a></p></td>
-<td><p><a href="http://www.fcseoul.com/match/result/match_schresult_detail.jsp?league_id=all_lg&amp;aT=&amp;match_ymd=20090317&amp;team_part=1&amp;news_seq=&amp;news_type=PREVIEW&amp;yy=2009&amp;mm=">2–4</a></p></td>
+<td><p><a href="https://web.archive.org/web/20160304103243/http://www.fcseoul.com/match/result/match_schresult_detail.jsp?league_id=all_lg&amp;aT=&amp;match_ymd=20090317&amp;team_part=1&amp;news_seq=&amp;news_type=PREVIEW&amp;yy=2009&amp;mm=">2–4</a></p></td>
 <td><p><small><a href="https://ko.wikipedia.org/wiki/FC_서울" title="wikilink">서</a>: <a href="../Page/정조국.md" title="wikilink">정조국</a>, <a href="https://ko.wikipedia.org/wiki/이상협" title="wikilink">이상협</a></small><br />
 <small><a href="../Page/감바_오사카.md" title="wikilink">감</a>: <a href="../Page/레안드루_몬테라_다_시우바.md" title="wikilink">레안드로</a> (3), <a href="https://ko.wikipedia.org/wiki/:en:Masato_Yamazaki" title="wikilink">야마자키 마사토</a></small></p></td>
 <td></td>
@@ -256,7 +256,7 @@
 <td><p>2009-04-08</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/산둥_루넝" title="wikilink">산둥 루넝</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/지난_올림픽_스포츠_센터_스타디움" title="wikilink">A</a></p></td>
-<td><p><a href="http://www.fcseoul.com/match/result/match_schresult_detail.jsp?league_id=all_lg&amp;aT=&amp;match_ymd=20090408&amp;team_part=1&amp;news_seq=&amp;news_type=PREVIEW&amp;yy=2009&amp;mm=">0–2</a></p></td>
+<td><p><a href="https://web.archive.org/web/20160304104101/http://www.fcseoul.com/match/result/match_schresult_detail.jsp?league_id=all_lg&amp;aT=&amp;match_ymd=20090408&amp;team_part=1&amp;news_seq=&amp;news_type=PREVIEW&amp;yy=2009&amp;mm=">0–2</a></p></td>
 <td><p><small><a href="https://ko.wikipedia.org/wiki/산둥_루넝" title="wikilink">산</a>: <a href="https://ko.wikipedia.org/wiki/:en:Lü_Zheng" title="wikilink">루정</a>, <a href="../Page/한펑.md" title="wikilink">한펑</a></small></p></td>
 <td></td>
 <td></td>
@@ -267,7 +267,7 @@
 <td><p>2009-04-21</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/산둥_루넝" title="wikilink">산둥 루넝</a></p></td>
 <td><p><a href="../Page/서울월드컵경기장.md" title="wikilink">H</a></p></td>
-<td><p><a href="http://www.fcseoul.com/match/result/match_schresult_detail.jsp?league_id=all_lg&amp;aT=&amp;match_ymd=20090421&amp;team_part=1&amp;news_seq=&amp;news_type=PREVIEW&amp;yy=2009&amp;mm=">1–1</a></p></td>
+<td><p><a href="https://web.archive.org/web/20160304104024/http://www.fcseoul.com/match/result/match_schresult_detail.jsp?league_id=all_lg&amp;aT=&amp;match_ymd=20090421&amp;team_part=1&amp;news_seq=&amp;news_type=PREVIEW&amp;yy=2009&amp;mm=">1–1</a></p></td>
 <td><p><small><a href="https://ko.wikipedia.org/wiki/FC_서울" title="wikilink">서</a>: <a href="https://ko.wikipedia.org/wiki/박용호" title="wikilink">박용호</a></small><br />
 <small><a href="https://ko.wikipedia.org/wiki/산둥_루넝" title="wikilink">산</a>: <a href="https://ko.wikipedia.org/wiki/:en:Alejandro_Cichero" title="wikilink">알렉산드로 엔리케</a></small></p></td>
 <td></td>
@@ -279,7 +279,7 @@
 <td><p>2009-05-05</p></td>
 <td><p><a href="../Page/스리위자야_FC.md" title="wikilink">스리위자야</a></p></td>
 <td><p><a href="../Page/서울월드컵경기장.md" title="wikilink">H</a></p></td>
-<td><p><a href="http://www.fcseoul.com/match/result/match_schresult_detail.jsp?league_id=all_lg&amp;aT=&amp;match_ymd=20090505&amp;team_part=1&amp;news_seq=&amp;news_type=PREVIEW&amp;yy=2009&amp;mm=">5–1</a></p></td>
+<td><p><a href="https://web.archive.org/web/20160304043109/http://www.fcseoul.com/match/result/match_schresult_detail.jsp?league_id=all_lg&amp;aT=&amp;match_ymd=20090505&amp;team_part=1&amp;news_seq=&amp;news_type=PREVIEW&amp;yy=2009&amp;mm=">5–1</a></p></td>
 <td><p><small><a href="https://ko.wikipedia.org/wiki/FC_서울" title="wikilink">서</a>: <a href="https://ko.wikipedia.org/wiki/데얀_다미아노비치" title="wikilink">데얀</a> (3), <a href="../Page/심우연.md" title="wikilink">심우연</a> (2)</small><br />
 <small><a href="../Page/스리위자야_FC.md" title="wikilink">스</a>: <a href="../Page/키스_검스.md" title="wikilink">키스 검스</a></small></p></td>
 <td></td>
@@ -291,7 +291,7 @@
 <td><p>2009-05-20</p></td>
 <td><p><a href="../Page/감바_오사카.md" title="wikilink">감바 오사카</a></p></td>
 <td><p><a href="../Page/만박_기념_경기장.md" title="wikilink">A</a></p></td>
-<td><p><a href="http://www.fcseoul.com/match/result/match_schresult_detail.jsp?league_id=all_lg&amp;aT=&amp;match_ymd=20090520&amp;team_part=1&amp;news_seq=&amp;news_type=PREVIEW&amp;yy=2009&amp;mm=">2–1</a></p></td>
+<td><p><a href="https://web.archive.org/web/20160304041423/http://www.fcseoul.com/match/result/match_schresult_detail.jsp?league_id=all_lg&amp;aT=&amp;match_ymd=20090520&amp;team_part=1&amp;news_seq=&amp;news_type=PREVIEW&amp;yy=2009&amp;mm=">2–1</a></p></td>
 <td><p><small><a href="https://ko.wikipedia.org/wiki/FC_서울" title="wikilink">서</a>: <a href="https://ko.wikipedia.org/wiki/데얀_다미아노비치" title="wikilink">데얀</a>, <a href="../Page/김한윤.md" title="wikilink">김한윤</a></small><br />
 <small><a href="../Page/감바_오사카.md" title="wikilink">감</a>: <a href="../Page/우사미_다카시.md" title="wikilink">우사미 다카시</a></small></p></td>
 <td></td>
@@ -304,7 +304,7 @@
 <td><p>16강전</p></td>
 <td><p><a href="../Page/가시마_앤틀러스.md" title="wikilink">가시마 앤틀러스</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/가시마_스타디움" title="wikilink">A</a></p></td>
-<td><p><a href="http://www.fcseoul.com/match/result/match_schresult_detail.jsp?league_id=all_lg&amp;aT=&amp;match_ymd=20090624&amp;team_part=1&amp;news_seq=&amp;news_type=PREVIEW&amp;yy=2009&amp;mm=">2–2</a><br />
+<td><p><a href="https://web.archive.org/web/20160304040516/http://www.fcseoul.com/match/result/match_schresult_detail.jsp?league_id=all_lg&amp;aT=&amp;match_ymd=20090624&amp;team_part=1&amp;news_seq=&amp;news_type=PREVIEW&amp;yy=2009&amp;mm=">2–2</a><br />
 <small> (5–4 <a href="../Page/승부차기.md" title="wikilink">PSO</a>)</small></p></td>
 <td><p><small><a href="https://ko.wikipedia.org/wiki/FC_서울" title="wikilink">서</a>: <a href="../Page/이승렬_(1989년).md" title="wikilink">이승렬</a>, <a href="../Page/기성용.md" title="wikilink">기성용</a></small><br />
 <small><a href="../Page/가시마_앤틀러스.md" title="wikilink">가</a>: <a href="../Page/고로키_신조.md" title="wikilink">고로키 신조</a>, <a href="https://ko.wikipedia.org/wiki/:en:Takeshi_Aoki" title="wikilink">아오키 다케시</a></small></p></td>
@@ -317,7 +317,7 @@
 <td><p>8강전 1차전</p></td>
 <td><p><a href="../Page/움살랄_SC.md" title="wikilink">움살라</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/카타르_SC_경기장" title="wikilink">A</a></p></td>
-<td><p><a href="http://www.fcseoul.com/match/result/match_schresult_detail.jsp?league_id=all_lg&amp;aT=&amp;match_ymd=20090923&amp;team_part=1&amp;news_seq=&amp;news_type=PREVIEW&amp;yy=2009&amp;mm=">2–3</a></p></td>
+<td><p><a href="https://web.archive.org/web/20160304045644/http://www.fcseoul.com/match/result/match_schresult_detail.jsp?league_id=all_lg&amp;aT=&amp;match_ymd=20090923&amp;team_part=1&amp;news_seq=&amp;news_type=PREVIEW&amp;yy=2009&amp;mm=">2–3</a></p></td>
 <td><p><small><a href="https://ko.wikipedia.org/wiki/FC_서울" title="wikilink">서</a>: <a href="../Page/정조국.md" title="wikilink">정조국</a> (2)</small><br />
 <small><a href="../Page/움살랄_SC.md" title="wikilink">움</a>: <a href="../Page/마그누_아우베스.md" title="wikilink">마그누 아우베스</a> (2), <a href="../Page/파비우_세자르_몬테지니.md" title="wikilink">파비우 세자르 몬테지니</a></small></p></td>
 <td></td>
@@ -329,7 +329,7 @@
 <td><p>8강전 2차전</p></td>
 <td><p><a href="../Page/움살랄_SC.md" title="wikilink">움살라</a></p></td>
 <td><p><a href="../Page/서울월드컵경기장.md" title="wikilink">H</a></p></td>
-<td><p><a href="http://www.fcseoul.com/match/result/match_schresult_detail.jsp?league_id=all_lg&amp;aT=&amp;match_ymd=20090930&amp;team_part=1&amp;news_seq=&amp;news_type=PREVIEW&amp;yy=2009&amp;mm=">1–1</a></p></td>
+<td><p><a href="https://web.archive.org/web/20160304104029/http://www.fcseoul.com/match/result/match_schresult_detail.jsp?league_id=all_lg&amp;aT=&amp;match_ymd=20090930&amp;team_part=1&amp;news_seq=&amp;news_type=PREVIEW&amp;yy=2009&amp;mm=">1–1</a></p></td>
 <td><p><small><a href="https://ko.wikipedia.org/wiki/FC_서울" title="wikilink">서</a>: <a href="https://ko.wikipedia.org/wiki/데얀_다미아노비치" title="wikilink">데얀</a></small><br />
 <small><a href="../Page/움살랄_SC.md" title="wikilink">움</a>: <a href="https://ko.wikipedia.org/wiki/:en:Aziz_Ben_Askar" title="wikilink">아지즈 벤 아스카르</a></small></p></td>
 <td></td>
@@ -394,7 +394,7 @@
 <td><p>2011-04-06</p></td>
 <td><p><a href="../Page/나고야_그램퍼스.md" title="wikilink">나고야 그램퍼스</a></p></td>
 <td><p><a href="../Page/나고야_시_미즈호_공원_육상_경기장.md" title="wikilink">A</a></p></td>
-<td><p><a href="http://www.fcseoul.com/match/result/match_schresult_detail.jsp?league_id=all_lg&amp;aT=&amp;match_ymd=20110406&amp;team_part=1&amp;news_seq=&amp;news_type=PREVIEW&amp;yy=2011&amp;mm=">1–1</a></p></td>
+<td><p><a href="https://web.archive.org/web/20160304103237/http://www.fcseoul.com/match/result/match_schresult_detail.jsp?league_id=all_lg&amp;aT=&amp;match_ymd=20110406&amp;team_part=1&amp;news_seq=&amp;news_type=PREVIEW&amp;yy=2011&amp;mm=">1–1</a></p></td>
 <td><p><small><a href="https://ko.wikipedia.org/wiki/FC_서울" title="wikilink">서</a>: <a href="../Page/최현태.md" title="wikilink">최현태</a></small><br />
 <small><a href="../Page/나고야_그램퍼스.md" title="wikilink">나</a>: <a href="https://ko.wikipedia.org/wiki/:en:Kensuke_Nagai" title="wikilink">나가이 켄스케</a></small></p></td>
 <td></td>
@@ -406,7 +406,7 @@
 <td><p>2011-04-19</p></td>
 <td><p><a href="../Page/나고야_그램퍼스.md" title="wikilink">나고야 그램퍼스</a></p></td>
 <td><p><a href="../Page/서울월드컵경기장.md" title="wikilink">H</a></p></td>
-<td><p><a href="http://www.fcseoul.com/match/result/match_schresult_detail.jsp?league_id=all_lg&amp;aT=&amp;match_ymd=20110419&amp;team_part=1&amp;news_seq=&amp;news_type=PREVIEW&amp;yy=2011&amp;mm=">0–2</a></p></td>
+<td><p><a href="https://web.archive.org/web/20160304045703/http://www.fcseoul.com/match/result/match_schresult_detail.jsp?league_id=all_lg&amp;aT=&amp;match_ymd=20110419&amp;team_part=1&amp;news_seq=&amp;news_type=PREVIEW&amp;yy=2011&amp;mm=">0–2</a></p></td>
 <td><p><small><a href="../Page/나고야_그램퍼스.md" title="wikilink">나</a>: <a href="https://ko.wikipedia.org/wiki/:en:Mu_Kanazaki" title="wikilink">카나자키 무</a>, <a href="https://ko.wikipedia.org/wiki/:en:Kensuke_Nagai" title="wikilink">나가이 켄스케</a></small></p></td>
 <td></td>
 <td></td>
@@ -417,7 +417,7 @@
 <td><p>2011-05-04</p></td>
 <td><p><a href="../Page/알아인_FC.md" title="wikilink">알 아인</a></p></td>
 <td><p><a href="../Page/서울월드컵경기장.md" title="wikilink">H</a></p></td>
-<td><p><a href="http://www.fcseoul.com/match/result/match_schresult_detail.jsp?league_id=all_lg&amp;aT=&amp;match_ymd=20110504&amp;team_part=1&amp;news_seq=&amp;news_type=PREVIEW&amp;yy=2011&amp;mm=">3–0</a></p></td>
+<td><p><a href="https://web.archive.org/web/20160304111346/http://www.fcseoul.com/match/result/match_schresult_detail.jsp?league_id=all_lg&amp;aT=&amp;match_ymd=20110504&amp;team_part=1&amp;news_seq=&amp;news_type=PREVIEW&amp;yy=2011&amp;mm=">3–0</a></p></td>
 <td><p><small><a href="https://ko.wikipedia.org/wiki/FC_서울" title="wikilink">서</a>: <a href="https://ko.wikipedia.org/wiki/데얀_다미아노비치" title="wikilink">데얀</a> (2), <a href="../Page/고요한.md" title="wikilink">고요한</a></small></p></td>
 <td></td>
 <td></td>
@@ -428,7 +428,7 @@
 <td><p>2011-05-11</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/항저우_뤼청" title="wikilink">항저우 그린타운</a></p></td>
 <td><p><a href="../Page/황룡_스포츠_센터.md" title="wikilink">A</a></p></td>
-<td><p><a href="http://www.fcseoul.com/match/result/match_schresult_detail.jsp?league_id=all_lg&amp;aT=&amp;match_ymd=20110511&amp;team_part=1&amp;news_seq=&amp;news_type=PREVIEW&amp;yy=2011&amp;mm=">1–1</a></p></td>
+<td><p><a href="https://web.archive.org/web/20160304104107/http://www.fcseoul.com/match/result/match_schresult_detail.jsp?league_id=all_lg&amp;aT=&amp;match_ymd=20110511&amp;team_part=1&amp;news_seq=&amp;news_type=PREVIEW&amp;yy=2011&amp;mm=">1–1</a></p></td>
 <td><p><small><a href="https://ko.wikipedia.org/wiki/FC_서울" title="wikilink">서</a>: <a href="../Page/방승환.md" title="wikilink">방승환</a></small><br />
 <small><a href="https://ko.wikipedia.org/wiki/항저우_뤼청" title="wikilink">항</a>: <a href="https://ko.wikipedia.org/wiki/:en:Zeng_Yue" title="wikilink">쩡웨에</a></small></p></td>
 <td></td>
@@ -441,7 +441,7 @@
 <td><p>16강전</p></td>
 <td><p><a href="../Page/가시마_앤틀러스.md" title="wikilink">가시마 앤틀러스</a></p></td>
 <td><p><a href="../Page/서울월드컵경기장.md" title="wikilink">H</a></p></td>
-<td><p><a href="http://www.fcseoul.com/match/result/match_schresult_detail.jsp?league_id=all_lg&amp;aT=&amp;match_ymd=20110525&amp;team_part=1&amp;news_seq=&amp;news_type=PREVIEW&amp;yy=2011&amp;mm=">3–0</a></p></td>
+<td><p><a href="https://web.archive.org/web/20160304111334/http://www.fcseoul.com/match/result/match_schresult_detail.jsp?league_id=all_lg&amp;aT=&amp;match_ymd=20110525&amp;team_part=1&amp;news_seq=&amp;news_type=PREVIEW&amp;yy=2011&amp;mm=">3–0</a></p></td>
 <td><p><small><a href="https://ko.wikipedia.org/wiki/FC_서울" title="wikilink">서</a>: <a href="../Page/방승환.md" title="wikilink">방승환</a>, <a href="https://ko.wikipedia.org/wiki/데얀_다미아노비치" title="wikilink">데얀</a>, <a href="../Page/고명진.md" title="wikilink">고명진</a></small></p></td>
 <td></td>
 <td></td>
@@ -487,7 +487,7 @@
 <td><p>2013-03-12</p></td>
 <td><p><a href="../Page/부리람_유나이티드_FC.md" title="wikilink">부리람 유나이티드</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/뉴아이모바일_스타디움" title="wikilink">A</a></p></td>
-<td><p><a href="http://www.fcseoul.com/match/result/match_schresult_detail.jsp?league_id=all_lg&amp;aT=&amp;match_ymd=20130312&amp;team_part=1&amp;news_seq=&amp;news_type=PREVIEW&amp;yy=2013&amp;mm=">0–0</a></p></td>
+<td><p><a href="https://web.archive.org/web/20160304104035/http://www.fcseoul.com/match/result/match_schresult_detail.jsp?league_id=all_lg&amp;aT=&amp;match_ymd=20130312&amp;team_part=1&amp;news_seq=&amp;news_type=PREVIEW&amp;yy=2013&amp;mm=">0–0</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -498,7 +498,7 @@
 <td><p>2013-04-02</p></td>
 <td><p><a href="../Page/베갈타_센다이.md" title="wikilink">베갈타 센다이</a></p></td>
 <td><p><a href="../Page/서울월드컵경기장.md" title="wikilink">H</a></p></td>
-<td><p><a href="http://www.fcseoul.com/match/result/match_schresult_detail.jsp?league_id=all_lg&amp;aT=&amp;match_ymd=20130402&amp;team_part=1&amp;news_seq=&amp;news_type=PREVIEW&amp;yy=2013&amp;mm=">2–1</a></p></td>
+<td><p><a href="https://web.archive.org/web/20160304103228/http://www.fcseoul.com/match/result/match_schresult_detail.jsp?league_id=all_lg&amp;aT=&amp;match_ymd=20130402&amp;team_part=1&amp;news_seq=&amp;news_type=PREVIEW&amp;yy=2013&amp;mm=">2–1</a></p></td>
 <td><p><small><a href="https://ko.wikipedia.org/wiki/FC_서울" title="wikilink">서</a>: <a href="https://ko.wikipedia.org/wiki/세르히오_에스쿠데로_(1988년)" title="wikilink">에스쿠데로</a>, <a href="https://ko.wikipedia.org/wiki/김진규_(축구_선수)" title="wikilink">김진규</a></small><br />
 <small><a href="../Page/베갈타_센다이.md" title="wikilink">센</a>: <a href="https://ko.wikipedia.org/wiki/:en:Wilson_Rodrigues_Fonseca" title="wikilink">윌슨 로드리게스</a></small></p></td>
 <td></td>
@@ -521,7 +521,7 @@
 <td><p>2013-04-24</p></td>
 <td><p><a href="../Page/장쑤_쑤닝.md" title="wikilink">장쑤 슌톈</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/난징_올림픽_스포츠_센터" title="wikilink">A</a></p></td>
-<td><p><a href="http://www.fcseoul.com/match/result/match_schresult_detail.jsp?league_id=all_lg&amp;aT=&amp;match_ymd=20130424&amp;team_part=1&amp;news_seq=&amp;news_type=PREVIEW&amp;yy=2013&amp;mm=">2–0</a></p></td>
+<td><p><a href="https://web.archive.org/web/20160304110952/http://www.fcseoul.com/match/result/match_schresult_detail.jsp?league_id=all_lg&amp;aT=&amp;match_ymd=20130424&amp;team_part=1&amp;news_seq=&amp;news_type=PREVIEW&amp;yy=2013&amp;mm=">2–0</a></p></td>
 <td><p><small><a href="https://ko.wikipedia.org/wiki/FC_서울" title="wikilink">서</a>: <a href="../Page/고명진.md" title="wikilink">고명진</a>, <a href="../Page/윤일록.md" title="wikilink">윤일록</a></small></p></td>
 <td></td>
 <td></td>
@@ -532,7 +532,7 @@
 <td><p>2013-05-01</p></td>
 <td><p><a href="../Page/부리람_유나이티드_FC.md" title="wikilink">부리람 유나이티드</a></p></td>
 <td><p><a href="../Page/서울월드컵경기장.md" title="wikilink">H</a></p></td>
-<td><p><a href="http://www.fcseoul.com/match/result/match_schresult_detail.jsp?league_id=all_lg&amp;aT=&amp;match_ymd=20130501&amp;team_part=1&amp;news_seq=&amp;news_type=PREVIEW&amp;yy=2013&amp;mm=">2–2</a></p></td>
+<td><p><a href="https://web.archive.org/web/20160304104055/http://www.fcseoul.com/match/result/match_schresult_detail.jsp?league_id=all_lg&amp;aT=&amp;match_ymd=20130501&amp;team_part=1&amp;news_seq=&amp;news_type=PREVIEW&amp;yy=2013&amp;mm=">2–2</a></p></td>
 <td><p><small><a href="https://ko.wikipedia.org/wiki/FC_서울" title="wikilink">서</a>: <a href="../Page/정승용.md" title="wikilink">정승용</a>, <a href="../Page/김현성_(1989년).md" title="wikilink">김현성</a></small><br />
 <small><a href="../Page/부리람_유나이티드_FC.md" title="wikilink">부</a>: <a href="https://ko.wikipedia.org/wiki/:en:Ekkachai_Sumrei" title="wikilink">에카타이 삼레</a>, <a href="https://ko.wikipedia.org/wiki/:en:Theeraton_Bunmathan" title="wikilink">티라손 분마탄</a></small></p></td>
 <td></td>
@@ -545,7 +545,7 @@
 <td><p>16강전 1차전</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/베이징_궈안" title="wikilink">베이징 궈안</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/베이징_공인_체육장" title="wikilink">A</a></p></td>
-<td><p><a href="http://www.fcseoul.com/match/result/match_schresult_detail.jsp?league_id=all_lg&amp;aT=&amp;match_ymd=20130514&amp;team_part=1&amp;news_seq=&amp;news_type=PREVIEW&amp;yy=2013&amp;mm=">0–0</a></p></td>
+<td><p><a href="https://web.archive.org/web/20160304104121/http://www.fcseoul.com/match/result/match_schresult_detail.jsp?league_id=all_lg&amp;aT=&amp;match_ymd=20130514&amp;team_part=1&amp;news_seq=&amp;news_type=PREVIEW&amp;yy=2013&amp;mm=">0–0</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -556,7 +556,7 @@
 <td><p>16강전 2차전</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/베이징_궈안" title="wikilink">베이징 궈안</a></p></td>
 <td><p><a href="../Page/서울월드컵경기장.md" title="wikilink">H</a></p></td>
-<td><p><a href="http://www.fcseoul.com/match/result/match_schresult_detail.jsp?league_id=all_lg&amp;aT=&amp;match_ymd=20130521&amp;team_part=1&amp;news_seq=&amp;news_type=PREVIEW&amp;yy=2013&amp;mm=">3–1</a></p></td>
+<td><p><a href="https://web.archive.org/web/20160304103248/http://www.fcseoul.com/match/result/match_schresult_detail.jsp?league_id=all_lg&amp;aT=&amp;match_ymd=20130521&amp;team_part=1&amp;news_seq=&amp;news_type=PREVIEW&amp;yy=2013&amp;mm=">3–1</a></p></td>
 <td><p><small><a href="https://ko.wikipedia.org/wiki/FC_서울" title="wikilink">서</a>: <a href="https://ko.wikipedia.org/wiki/아디우송_두스_산투스" title="wikilink">아디</a>, <a href="../Page/윤일록.md" title="wikilink">윤일록</a>, <a href="../Page/고명진.md" title="wikilink">고명진</a></small><br />
 <small><a href="https://ko.wikipedia.org/wiki/베이징_궈안" title="wikilink">베</a>: <a href="../Page/프레데리크_카누테.md" title="wikilink">프레데리크 카누테</a></small></p></td>
 <td></td>
@@ -568,7 +568,7 @@
 <td><p>8강전 1차전</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/알아흘리_(지다)" title="wikilink">알아흘리</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/:en:King_Abdullah_Sport_City_Stadium" title="wikilink">A</a></p></td>
-<td><p><a href="http://www.fcseoul.com/match/result/match_schresult_detail.jsp?league_id=all_lg&amp;aT=&amp;match_ymd=20130822&amp;team_part=1&amp;news_seq=&amp;news_type=PREVIEW&amp;yy=2013&amp;mm=">1–1</a></p></td>
+<td><p><a href="https://web.archive.org/web/20160304110957/http://www.fcseoul.com/match/result/match_schresult_detail.jsp?league_id=all_lg&amp;aT=&amp;match_ymd=20130822&amp;team_part=1&amp;news_seq=&amp;news_type=PREVIEW&amp;yy=2013&amp;mm=">1–1</a></p></td>
 <td><p><small><a href="https://ko.wikipedia.org/wiki/FC_서울" title="wikilink">서</a>: <a href="https://ko.wikipedia.org/wiki/데얀_다미아노비치" title="wikilink">데얀</a></small><br />
 <small><a href="https://ko.wikipedia.org/wiki/알아흘리_(지다)" title="wikilink">아</a>: <a href="https://ko.wikipedia.org/wiki/:en:Sultan_Al-Sawadi" title="wikilink">술탄 알 사와디</a></small></p></td>
 <td></td>
@@ -580,7 +580,7 @@
 <td><p>8강전 2차전</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/알아흘리_(지다)" title="wikilink">알아흘리</a></p></td>
 <td><p><a href="../Page/서울월드컵경기장.md" title="wikilink">H</a></p></td>
-<td><p><a href="http://www.fcseoul.com/match/result/match_schresult_detail.jsp?league_id=all_lg&amp;aT=&amp;match_ymd=20130918&amp;team_part=1&amp;news_seq=&amp;news_type=PREVIEW&amp;yy=2013&amp;mm=">1–0</a></p></td>
+<td><p><a href="https://web.archive.org/web/20160304044259/http://www.fcseoul.com/match/result/match_schresult_detail.jsp?league_id=all_lg&amp;aT=&amp;match_ymd=20130918&amp;team_part=1&amp;news_seq=&amp;news_type=PREVIEW&amp;yy=2013&amp;mm=">1–0</a></p></td>
 <td><p><small><a href="https://ko.wikipedia.org/wiki/FC_서울" title="wikilink">서</a>: <a href="https://ko.wikipedia.org/wiki/데얀_다미아노비치" title="wikilink">데얀</a></small></p></td>
 <td></td>
 <td></td>
@@ -591,7 +591,7 @@
 <td><p>4강전 1차전</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/에스테글랄_테헤란_FC" title="wikilink">에스테글랄</a></p></td>
 <td><p><a href="../Page/서울월드컵경기장.md" title="wikilink">H</a></p></td>
-<td><p><a href="http://www.fcseoul.com/match/result/match_schresult_detail.jsp?league_id=all_lg&amp;aT=&amp;match_ymd=20130925&amp;team_part=1&amp;news_seq=&amp;news_type=PREVIEW&amp;yy=2013&amp;mm=">2–0</a></p></td>
+<td><p><a href="https://web.archive.org/web/20160304111002/http://www.fcseoul.com/match/result/match_schresult_detail.jsp?league_id=all_lg&amp;aT=&amp;match_ymd=20130925&amp;team_part=1&amp;news_seq=&amp;news_type=PREVIEW&amp;yy=2013&amp;mm=">2–0</a></p></td>
 <td><p><small><a href="https://ko.wikipedia.org/wiki/FC_서울" title="wikilink">서</a>: <a href="https://ko.wikipedia.org/wiki/데얀_다미아노비치" title="wikilink">데얀</a>, <a href="../Page/고요한.md" title="wikilink">고요한</a></small></p></td>
 <td></td>
 <td></td>
@@ -602,7 +602,7 @@
 <td><p>4강전 2차전</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/에스테글랄_테헤란_FC" title="wikilink">에스테글랄</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/아자디_경기장" title="wikilink">A</a></p></td>
-<td><p><a href="http://www.fcseoul.com/match/result/match_schresult_detail.jsp?league_id=all_lg&amp;aT=&amp;match_ymd=20131003&amp;team_part=1&amp;news_seq=&amp;news_type=PREVIEW&amp;yy=2013&amp;mm=">2–2</a></p></td>
+<td><p><a href="https://web.archive.org/web/20160304104113/http://www.fcseoul.com/match/result/match_schresult_detail.jsp?league_id=all_lg&amp;aT=&amp;match_ymd=20131003&amp;team_part=1&amp;news_seq=&amp;news_type=PREVIEW&amp;yy=2013&amp;mm=">2–2</a></p></td>
 <td><p><small><a href="https://ko.wikipedia.org/wiki/FC_서울" title="wikilink">서</a>: <a href="../Page/하대성.md" title="wikilink">하대성</a>, <a href="https://ko.wikipedia.org/wiki/김진규_(축구_선수)" title="wikilink">김진규</a></small><br />
 <small><a href="https://ko.wikipedia.org/wiki/에스테글랄_테헤란_FC" title="wikilink">에</a>: <a href="https://ko.wikipedia.org/wiki/:en:Jlloyd_Samuel" title="wikilink">로이드 사무엘</a>, <a href="https://ko.wikipedia.org/wiki/:en:Mohammad_Ghazi" title="wikilink">모하매드 가지</a></small></p></td>
 <td></td>
@@ -614,7 +614,7 @@
 <td><p><a href="../Page/AFC_챔피언스리그_2013_결승전.md" title="wikilink">결승전 1차전</a></p></td>
 <td><p><a href="../Page/광저우_헝다_타오바오.md" title="wikilink">광저우 헝다</a></p></td>
 <td><p><a href="../Page/서울월드컵경기장.md" title="wikilink">H</a></p></td>
-<td><p><a href="http://www.fcseoul.com/match/result/match_schresult_detail.jsp?league_id=all_lg&amp;aT=&amp;match_ymd=20131026&amp;team_part=1&amp;news_seq=&amp;news_type=PREVIEW&amp;yy=2013&amp;mm=">2–2</a></p></td>
+<td><p><a href="https://web.archive.org/web/20160304104041/http://www.fcseoul.com/match/result/match_schresult_detail.jsp?league_id=all_lg&amp;aT=&amp;match_ymd=20131026&amp;team_part=1&amp;news_seq=&amp;news_type=PREVIEW&amp;yy=2013&amp;mm=">2–2</a></p></td>
 <td><p><small><a href="https://ko.wikipedia.org/wiki/FC_서울" title="wikilink">서</a>: <a href="https://ko.wikipedia.org/wiki/세르히오_에스쿠데로_(1988년)" title="wikilink">에스쿠데로</a>, <a href="https://ko.wikipedia.org/wiki/데얀_다미아노비치" title="wikilink">데얀</a></small><br />
 <small><a href="https://ko.wikipedia.org/wiki/광저우_헝다" title="wikilink">광</a>: <a href="../Page/이우케종.md" title="wikilink">이우케종</a></small></p></td>
 <td></td>
@@ -626,7 +626,7 @@
 <td><p><a href="../Page/AFC_챔피언스리그_2013_결승전.md" title="wikilink">결승전 2차전</a></p></td>
 <td><p><a href="../Page/광저우_헝다_타오바오.md" title="wikilink">광저우 헝다</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/톈허_스포츠_센터" title="wikilink">A</a></p></td>
-<td><p><a href="http://www.fcseoul.com/match/result/match_schresult_detail.jsp?league_id=all_lg&amp;aT=&amp;match_ymd=20131109&amp;team_part=1&amp;news_seq=&amp;news_type=PREVIEW&amp;yy=2013&amp;mm=">1–1</a></p></td>
+<td><p><a href="https://web.archive.org/web/20170126211621/http://www.fcseoul.com/match/result/match_schresult_detail.jsp?league_id=all_lg&amp;aT=&amp;match_ymd=20131109&amp;team_part=1&amp;news_seq=&amp;news_type=PREVIEW&amp;yy=2013&amp;mm=">1–1</a></p></td>
 <td><p><small><a href="https://ko.wikipedia.org/wiki/FC_서울" title="wikilink">서</a>: <a href="https://ko.wikipedia.org/wiki/데얀_다미아노비치" title="wikilink">데얀</a></small><br />
 <small><a href="https://ko.wikipedia.org/wiki/광저우_헝다" title="wikilink">광</a>: <a href="../Page/이우케종.md" title="wikilink">이우케종</a></small></p></td>
 <td></td>
@@ -1202,11 +1202,11 @@
 <td><p>11</p></td>
 <td><p>1989-02-10</p></td>
 <td><p>3-4위 결정전</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/중국_축구_국가대표팀" title="wikilink">중국 B</a></p></td>
+<td><p><a href="../Page/중국_축구_국가대표팀.md" title="wikilink">중국 B</a></p></td>
 <td><p><a href="../Page/수파찰라사이_경기장.md" title="wikilink">N</a></p></td>
 <td><p>2–1</p></td>
 <td><p><small><a href="https://ko.wikipedia.org/wiki/FC_서울" title="wikilink">서</a>: <a href="../Page/윤상철.md" title="wikilink">윤상철</a>, <a href="../Page/구상범.md" title="wikilink">구상범</a></small><br />
-<small><a href="https://ko.wikipedia.org/wiki/중국_축구_국가대표팀" title="wikilink">중</a>: Xu hui</small></p></td>
+<small><a href="../Page/중국_축구_국가대표팀.md" title="wikilink">중</a>: Xu hui</small></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1256,11 +1256,11 @@
 <tr class="even">
 <td><p>13</p></td>
 <td><p>1991-01-23</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/중국_축구_국가대표팀" title="wikilink">중국 올림픽</a></p></td>
+<td><p><a href="../Page/중국_축구_국가대표팀.md" title="wikilink">중국 올림픽</a></p></td>
 <td><p><a href="../Page/수파찰라사이_경기장.md" title="wikilink">N</a></p></td>
 <td><p>1–1</p></td>
 <td><p><small><a href="https://ko.wikipedia.org/wiki/FC_서울" title="wikilink">서</a>: <a href="https://ko.wikipedia.org/wiki/이장욱_(축구인)" title="wikilink">이장욱</a></small><br />
-<small><a href="https://ko.wikipedia.org/wiki/중국_축구_국가대표팀" title="wikilink">중</a>: 미상</small></p></td>
+<small><a href="../Page/중국_축구_국가대표팀.md" title="wikilink">중</a>: 미상</small></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1446,7 +1446,7 @@
 <tbody>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/아시안_클럽_챔피언십_1986" title="wikilink">1986</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/아시안_클럽_챔피언십" title="wikilink">아시안 클럽 챔피언십</a></p></td>
+<td><p><a href="../Page/아시안_클럽_챔피언십.md" title="wikilink">아시안 클럽 챔피언십</a></p></td>
 <td><p>1</p></td>
 <td><p>0</p></td>
 <td><p>0</p></td>
@@ -1525,7 +1525,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/아시안_클럽_챔피언십_2001-02" title="wikilink">2001–2002</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/아시안_클럽_챔피언십" title="wikilink">아시안 클럽 챔피언십</a></p></td>
+<td><p><a href="../Page/아시안_클럽_챔피언십.md" title="wikilink">아시안 클럽 챔피언십</a></p></td>
 <td><p>7</p></td>
 <td><p>3</p></td>
 <td><p>4</p></td>

@@ -3,7 +3,7 @@
 
 **경국호(經國號)** (AIDC F-CK-1 Ching-kuo)는 흔히 [IDF](https://ko.wikipedia.org/wiki/IDF "wikilink") (국산 방위 전투기)로 불리며, [중화민국](../Page/중화민국.md "wikilink")에서 개발한 전투기이다. 외형이 [F-16](https://ko.wikipedia.org/wiki/F-16 "wikilink")과 [F-18](https://ko.wikipedia.org/wiki/F-18 "wikilink")이 혼합된 모습이다.
 
-대한민국 최초의 전투기 [FA-50](https://ko.wikipedia.org/wiki/FA-50 "wikilink")과 외양과 최대이륙중량이 매우 비슷하며, [FA-50](https://ko.wikipedia.org/wiki/FA-50 "wikilink")이 추력 5톤의 단발엔진인데 비해, 경국호는 추력 2.5톤의 쌍발엔진의 차이가 있을 뿐이다. 대만 경국호 합작개발팀이 일본의 [F-2와](../Page/미쓰비시_F-2.md "wikilink") 한국의 [FA-50](https://ko.wikipedia.org/wiki/FA-50 "wikilink")를 합작개발했다는 낭설을 퍼뜨리는 사람들이 있으나, 이는 근거가 전혀 없다.
+대한민국 최초의 전투기 [FA-50](https://ko.wikipedia.org/wiki/FA-50 "wikilink")과 외양과 최대이륙중량이 매우 비슷하며, [FA-50](https://ko.wikipedia.org/wiki/FA-50 "wikilink")이 추력 5톤의 단발엔진인데 비해, 경국호는 추력 2.5톤의 쌍발엔진의 차이가 있을 뿐이다. 대만 경국호 합작개발팀이 일본의 [F-2와](../Page/미쓰비시_F-2.md "wikilink") 한국의 [FA-50](https://ko.wikipedia.org/wiki/FA-50 "wikilink")를 합작개발했다는 낭설을 퍼뜨리는 사람들이 있으나, 이는 근거가 전혀 없다. 다만 경국호 개발기술진이 FA-50개발에 일부 참여한 사실은 있다.
 
 ## 역사
 
@@ -57,7 +57,7 @@
 
 }} --\>
 
-## 더 보기
+## 같이 보기
 
   - [T-50 골든 이글](https://ko.wikipedia.org/wiki/T-50_골든_이글 "wikilink")
   - [F-16 파이팅 팰콘](https://ko.wikipedia.org/wiki/F-16_파이팅_팰콘 "wikilink")

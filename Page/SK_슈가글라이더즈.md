@@ -29,12 +29,9 @@
 
   - 운영팀장 : 최승욱
 
-<!-- end list -->
-
-  - 매니저 : 김준희
 
 
-\== 현외부 링크 ==
+## 현외부 링크
 
   - [SK 슈가글라이더즈 페이스북](https://www.facebook.com/sksugargliders)
 

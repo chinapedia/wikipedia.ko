@@ -15,7 +15,7 @@
   - 블랙
   - 화이트
 
-## 운영체제/소프트웨어
+## 운영 체제 / 소프트웨어
 
 ### 안드로이드 4.0 아이스크림 샌드위치
 
@@ -47,7 +47,7 @@
 
 #### Q 보이스
 
-[LG전자](../Page/LG전자.md "wikilink")의 독자기술인 **베르니케**기술을 이용한 음성시스템으로, 말을 해서 각종 기능을 실행하거나 원하는 것을 찾을 수 있다. [애플의](https://ko.wikipedia.org/wiki/애플_\(기업\) "wikilink") [시리](https://ko.wikipedia.org/wiki/시리 "wikilink"), [삼성전자](https://ko.wikipedia.org/wiki/삼성전자 "wikilink")의 [S 보이스와](../Page/S_보이스.md "wikilink") 유사하다.
+[LG전자](../Page/LG전자.md "wikilink")의 독자기술인 **베르니케**기술을 이용한 음성시스템으로, 말을 해서 각종 기능을 실행하거나 원하는 것을 찾을 수 있다. [애플](../Page/애플.md "wikilink")의 [시리](https://ko.wikipedia.org/wiki/시리 "wikilink"), [삼성전자](https://ko.wikipedia.org/wiki/삼성전자 "wikilink")의 [S 보이스와](../Page/S_보이스.md "wikilink") 유사하다.
 
 #### Q 메모
 

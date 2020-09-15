@@ -283,4 +283,4 @@ PlotData=
 
   - [뉴캐슬 유나이티드 공식 웹사이트](http://www.nufc.co.uk/)
 
-[분류:뉴캐슬 유나이티드 FC](https://ko.wikipedia.org/wiki/분류:뉴캐슬_유나이티드_FC "wikilink") [분류:축구단 기록과 통계](https://ko.wikipedia.org/wiki/분류:축구단_기록과_통계 "wikilink")
+[분류:뉴캐슬 유나이티드 FC](https://ko.wikipedia.org/wiki/분류:뉴캐슬_유나이티드_FC "wikilink") [분류:잉글랜드 축구단의 기록과 통계](https://ko.wikipedia.org/wiki/분류:잉글랜드_축구단의_기록과_통계 "wikilink")

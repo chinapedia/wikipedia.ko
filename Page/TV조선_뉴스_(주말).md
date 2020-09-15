@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [TV조선 뉴스 \(주말\)](https://ko.wikipedia.org/wiki/TV조선_뉴스_\(주말\)).
 
 
-《**TV조선 뉴스 (주말)**》는 [대한민국](../Page/대한민국.md "wikilink")의 [종합편성채널](https://ko.wikipedia.org/wiki/종합편성채널 "wikilink")인 [TV조선](../Page/TV조선.md "wikilink")에서 토요일 오전 9시 15분, 일요일 오전 9시 30분에 방송되는 [TV조선의 주말 아침뉴스 프로그램이다](../Page/TV조선의_뉴스_프로그램.md "wikilink").
+《**TV조선 뉴스 (주말)**》는 [대한민국](../Page/대한민국.md "wikilink")의 [종합편성채널](https://ko.wikipedia.org/wiki/종합편성채널 "wikilink")인 [TV조선](../Page/TV조선.md "wikilink")에서 토요일 오전 9시 40분, 일요일 오전 9시 30분에 방송되었던 [TV조선의 주말 아침뉴스 프로그램이다](../Page/TV조선의_뉴스_프로그램.md "wikilink").
 
 ## 방송 시간
 
@@ -30,8 +30,14 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/2019년.md" title="wikilink">2019년</a> <a href="../Page/6월_8일.md" title="wikilink">6월 8일</a> ~ <strong>현재</strong></p></td>
+<td><p><a href="../Page/2019년.md" title="wikilink">2019년</a> <a href="../Page/6월_8일.md" title="wikilink">6월 8일</a> ~ <a href="../Page/2019년.md" title="wikilink">2019년</a> <a href="../Page/12월_1일.md" title="wikilink">12월 1일</a></p></td>
 <td><p>토요일 오전 9시 15분 ~ 9시 50분 (35분)<br />
+일요일 오전 9시 30분 ~ 9시 50분 (20분)</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/2019년.md" title="wikilink">2019년</a> <a href="../Page/12월_7일.md" title="wikilink">12월 7일</a> ~ <a href="../Page/2020년.md" title="wikilink">2020년</a> <a href="../Page/6월_7일.md" title="wikilink">6월 7일</a></p></td>
+<td><p>토요일 오전 9시 40분 ~ 9시 50분 (10분)<br />
 일요일 오전 9시 30분 ~ 9시 50분 (20분)</p></td>
 <td></td>
 </tr>
@@ -50,14 +56,14 @@
 | 대수 | 진행자                                                                 | 진행 기간                       | 비고 |
 | -- | ------------------------------------------------------------------- | --------------------------- | -- |
 | 1대 | 장민성 사회부 기자                                                          | 2017년 7월 8일 \~ 2017년 11월 4일 |    |
-| 2대 | [최윤정](https://ko.wikipedia.org/wiki/최윤정_\(기자\) "wikilink") 경제산업부 기자 | 2019년 1월 5일 \~ **현재**       |    |
+| 2대 | [최윤정](https://ko.wikipedia.org/wiki/최윤정_\(기자\) "wikilink") 경제산업부 기자 | 2019년 1월 5일 \~ 2020년 6월 6일  |    |
 
 #### 일요일
 
-| 대수 | 진행자                                                             | 진행 기간                        | 비고 |
-| -- | --------------------------------------------------------------- | ---------------------------- | -- |
-| 1대 | [윤태윤](https://ko.wikipedia.org/wiki/윤태윤 "wikilink") 정치부 기자\[1\] | 2017년 7월 9일 \~ 2019년 10월 27일 |    |
-| 2대 | 김보건 기자                                                          | 2019년 11월 3일 \~ **현재**       |    |
+| 대수 | 진행자                                          | 진행 기간                        | 비고 |
+| -- | -------------------------------------------- | ---------------------------- | -- |
+| 1대 | [윤태윤](../Page/윤태윤.md "wikilink") 정치부 기자\[1\] | 2017년 7월 9일 \~ 2019년 10월 27일 |    |
+| 2대 | 김보건 기자                                       | 2019년 11월 3일 \~ 2020년 6월 7일  |    |
 
 ## 각주
 

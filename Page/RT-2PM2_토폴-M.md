@@ -60,7 +60,7 @@
   - [GlobalSecurity.org on the RT-2UTTH Topol-M (SS-27)](http://www.globalsecurity.org/wmd/world/russia/rt-2pmu-specs.htm)
   - [Representation video of a mobile Topol-M on Youtube](https://www.youtube.com/watch?v=hesaGoYfyV8&feature=related)
 
-[분류:러시아의 대륙간탄도유도탄](https://ko.wikipedia.org/wiki/분류:러시아의_대륙간탄도유도탄 "wikilink")
+[분류:러시아의 대륙간탄도유도탄](https://ko.wikipedia.org/wiki/분류:러시아의_대륙간탄도유도탄 "wikilink") [분류:러시아의 핵무기](https://ko.wikipedia.org/wiki/분류:러시아의_핵무기 "wikilink")
 
 1.
 2.

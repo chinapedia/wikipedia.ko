@@ -13,7 +13,7 @@
 
 ## 실적
 
-MBK 파트너스는 대한민국의 [한미캐피탈](https://ko.wikipedia.org/wiki/한미캐피탈 "wikilink")(KB금융그룹이 인수, 현 KB캐피탈), HK저축은행 (현 [애큐온저축은행](https://ko.wikipedia.org/wiki/애큐온저축은행 "wikilink")), D'LIVE(구 씨앤앰), GS 강남/울산케이블, 두산테크팩(동원그룹이 인수, 현 테크팩솔루션), 영화엔지니어링, [코웨이](https://ko.wikipedia.org/wiki/웅진코웨이 "wikilink") (웅진그룹이 회수), [네파](../Page/네파.md "wikilink"), [오렌지라이프](../Page/오렌지라이프.md "wikilink")(신한금융그룹이 인수, 구 ING생명), [홈플러스](https://ko.wikipedia.org/wiki/홈플러스 "wikilink"), 두산공작기계, 대성산업가스, MH\&Co., 중국의 베이징보웨이공항지원, 루예제약, GSEI, 뉴차이나생명, Apex Logistics, 일본의 야요이, 타사키, 유니버설 스튜디오 재팬, 인보이스, 코메다커피, Accordia Golf, 대만의 차이나네트워크시스템(CNS), 갈라TV를 인수했다.
+MBK 파트너스는 대한민국의 [한미캐피탈](https://ko.wikipedia.org/wiki/한미캐피탈 "wikilink")(KB금융그룹이 인수, 현 KB캐피탈), HK저축은행 (현 [애큐온저축은행](https://ko.wikipedia.org/wiki/애큐온저축은행 "wikilink")), D'LIVE(구 씨앤앰), GS 강남/울산케이블, 두산테크팩(동원그룹이 인수, 현 테크팩솔루션), 영화엔지니어링, [코웨이](https://ko.wikipedia.org/wiki/웅진코웨이 "wikilink") (웅진그룹이 회수 이후 웅진그룹의 재매각으로 넷마블 인수), [네파](../Page/네파.md "wikilink"), [오렌지라이프](../Page/오렌지라이프.md "wikilink")(신한금융그룹이 인수, 구 ING생명), [홈플러스](https://ko.wikipedia.org/wiki/홈플러스 "wikilink"), 두산공작기계, 대성산업가스, MH\&Co., 중국의 베이징보웨이공항지원, 루예제약, GSEI, 뉴차이나생명, Apex Logistics, 일본의 야요이, 타사키, 유니버설 스튜디오 재팬, 인보이스, 코메다커피, Accordia Golf, 대만의 차이나네트워크시스템(CNS), 갈라TV를 인수했다.
 
 2019년 5월 [롯데카드](../Page/롯데카드.md "wikilink") 인수합병에 MBK 파트너스와 [우리은행](../Page/우리은행.md "wikilink") 컨소시엄이 우선협상대상자가 되었다. [우리카드](../Page/우리카드.md "wikilink")를 보유한 우리은행이 롯데카드를 인수하면 카드 자산규모가 22조 6358억원으로 늘어나 [신한카드](../Page/신한카드.md "wikilink"), [삼성카드](../Page/삼성카드.md "wikilink")에 이어 업계 3위, 시장점유율은 업계 2위(19.8%)로 단숨에 뛰어오를 수 있게 된다.
 

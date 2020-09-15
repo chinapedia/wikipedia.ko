@@ -5,45 +5,21 @@
 
 ## 보유 기종
 
-  - [2012년](../Page/2012년.md "wikilink") [8월](../Page/8월.md "wikilink") 기준으로 ASKY 항공은 다음과 같은 기종을 보유하고 있으며 평균 기령은 5.1년이다.\[3\]
+  - [2019년](../Page/2019년.md "wikilink") [9월](../Page/9월.md "wikilink") 기준으로 ASKY 항공은 다음과 같은 기종을 보유하고 있다.
 
-<table>
-<caption><strong>ASKY 항공의 보유 기종</strong></caption>
-<thead>
-<tr class="header">
-<th><p>기종</p></th>
-<th><p>대수</p></th>
-<th><p>승객</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p><a href="../Page/보잉_737.md" title="wikilink">보잉 737-700</a></p></td>
-<td><div style="text-align: center;">
-<p>3</p></td>
-<td><div style="text-align: center;">
-<p>118</p></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/봄바디어_Q_시리즈" title="wikilink">봄바디어 대쉬 8 Q400</a></p></td>
-<td><div style="text-align: center;">
-<p>4[4]</p></td>
-<td><div style="text-align: center;">
-<p>78</p></td>
-</tr>
-<tr class="odd">
-<td><p><strong>합계</strong></p></td>
-<td><div style="text-align: center;">
-<p><strong>7</strong></p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+<center>
+
+| <span style="color:white;">기종</span>                                          | <span style="color:white;">대수</span>                                   | <span style="color:white;">주문</span>                                            | <span style="color:white;">승객</span> | <span style="color:white;">비고</span> |
+| ----------------------------------------------------------------------------- | ---------------------------------------------------------------------- | ------------------------------------------------------------------------------- | ------------------------------------ | ------------------------------------ |
+| <abbr title="Business Class"><span style="color:white;">C</span></abbr>       | <abbr title="Economy Class"><span style="color:white;">Y</span></abbr> | <abbr title="Total Number of Seats"><span style="color:white;">합계</span></abbr> |                                      |                                      |
+| [보잉 737-700](https://ko.wikipedia.org/wiki/보잉_737_Next_Generation "wikilink") | 5                                                                      | 0                                                                               | 16                                   | 99                                   |
+| [보잉 737-800](https://ko.wikipedia.org/wiki/보잉_737_Next_Generation "wikilink") | 2                                                                      | 2                                                                               | 16                                   | 138                                  |
+| [드 해빌랜드 캐나다 대쉬 8-400](../Page/드_해빌랜드_캐나다_대쉬_8.md "wikilink")                  | 1                                                                      | 0                                                                               | 7                                    | 60                                   |
+| 합계                                                                            | 8                                                                      | 2                                                                               |                                      |                                      |
+
+**ASKY 항공의 보유 기종**
+
+</center>
 
 ## 각주
 
@@ -56,5 +32,3 @@
 
 1.
 2.
-3.
-4.  [에티오피아 항공](../Page/에티오피아_항공.md "wikilink") 임차 운항

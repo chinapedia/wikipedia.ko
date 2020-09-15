@@ -22,7 +22,7 @@
       - [Kis-My-Ft2](../Page/Kis-My-Ft2.md "wikilink") 멤버 [타마모리 유타](../Page/타마모리_유타.md "wikilink") ( [NEWS](https://ko.wikipedia.org/wiki/NEWS "wikilink") 멤버 [테고시 유야](../Page/테고시_유야.md "wikilink") 와 [Hey\! Say\! JUMP](../Page/Hey!_Say!_JUMP.md "wikilink") 멤버 [야오토메 히카루](../Page/야오토메_히카루.md "wikilink") 동기 ) 와 [후지가야 타이스케](../Page/후지가야_타이스케.md "wikilink") 와 같은 소속사 다른 그룹 [Hey\! Say\! JUMP](../Page/Hey!_Say!_JUMP.md "wikilink") 멤버 [야오토메 히카루](../Page/야오토메_히카루.md "wikilink") ( [Kis-My-Ft2](../Page/Kis-My-Ft2.md "wikilink") 멤버 [타마모리 유타](../Page/타마모리_유타.md "wikilink") 와 [NEWS](https://ko.wikipedia.org/wiki/NEWS "wikilink") 멤버 [테고시 유야](../Page/테고시_유야.md "wikilink") 와 동기 ) 가 출현한 [TBS](../Page/도쿄_방송_홀딩스.md "wikilink") 계열 드라마 《[미남이시네요](../Page/미남이시네요_\(2011년_드라마\).md "wikilink")》 주제가
 2.  **S.O.KISS** \[3:50\]
       -
-        작사: zopp / 작곡: [Steven Lee](https://ko.wikipedia.org/wiki/스티븐_리_\(음악_프로듀서\) "wikilink") / 편곡: CHOKKAKU
+        작사: zopp / 작곡: [Steven Lee](../Page/스티븐_리_\(음악_프로듀서\).md "wikilink") / 편곡: CHOKKAKU
 3.  **KISS FOR U** \[3:43\]
       -
         작사: 미노리, KOMU / 작곡·편곡: Steven Lee

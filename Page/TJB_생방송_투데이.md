@@ -15,7 +15,7 @@
 
 ## 역대 진행자
 
-  - [윤태윤](https://ko.wikipedia.org/wiki/윤태윤 "wikilink") 전 아나운서\[1\]
+  - [윤태윤](../Page/윤태윤.md "wikilink") 전 아나운서\[1\]
   - [안현준](https://ko.wikipedia.org/wiki/안현준 "wikilink") 아나운서
   - [이승현](../Page/이승현_\(아나운서,_1985년\).md "wikilink") 아나운서
   - 김경화 아나운서
@@ -29,6 +29,10 @@
 
   - [생방송 투데이](../Page/생방송_투데이.md "wikilink")
   - [투데이 뉴스](../Page/투데이_뉴스.md "wikilink")
+
+## 각주
+
+<references/>
 
 ## 외부 링크
 

@@ -13,7 +13,7 @@
 
 ## 외부 링크
 
-  - [US 에어웨이즈 그룹 공식 홈페이지](http://www.usairways.com)
+  - [US 에어웨이즈 그룹 공식 홈페이지](https://web.archive.org/web/20001017140313/http://www.usairways.com/)
 
   - [Investor relations](http://www.usairways.com/en-US/aboutus/investorrelations/default.html)
 

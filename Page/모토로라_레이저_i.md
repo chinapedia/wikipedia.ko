@@ -78,6 +78,6 @@ UMTS :850, 900, 1900, 2100 MHz
 
 [분류:안드로이드 장치](https://ko.wikipedia.org/wiki/분류:안드로이드_장치 "wikilink") [분류:모토로라의 스마트폰](https://ko.wikipedia.org/wiki/분류:모토로라의_스마트폰 "wikilink") [분류:2012년 출시](https://ko.wikipedia.org/wiki/분류:2012년_출시 "wikilink")
 
-1.  <http://www.ebuzz.co.kr/news/news/2649648_1878.html>
+1.
 2.  <http://news1.kr/articles/820798>
 3.  <http://www.zdnet.co.kr/news/news_view.asp?artice_id=20120919085430&type=xml>

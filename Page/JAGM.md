@@ -32,7 +32,7 @@ JAGM은 세가지 기능을 모두 가진 시커를 장착할 것이다. 세미 
 
 : 미국 육군, 해군, 해병대\[4\]
 
-## 더 보기
+## 같이 보기
 
   - [AGM-169 JCM](https://ko.wikipedia.org/wiki/AGM-169_JCM "wikilink") - 미국의 차기 공대지 미사일. 무게 49 kg. 메버릭과 헬파이어를 교체할 것이다.
   - [AGM-65 메버릭](../Page/AGM-65_메버릭.md "wikilink") - 미국의 공대지 미사일. 무게 49 kg

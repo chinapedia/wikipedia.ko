@@ -84,7 +84,7 @@
 <td><p><a href="../Page/마이애미.md" title="wikilink">마이애미</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/뱅크유나이티드_센터" title="wikilink">뱅크유나이티드 센터</a></p></td>
 <td><p>1,500</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/팀_MVP" title="wikilink">팀 MVP</a> (<a href="https://ko.wikipedia.org/wiki/몬텔_본테이비어스_포터" title="wikilink">MVP</a>, <a href="https://ko.wikipedia.org/wiki/더_을브즈" title="wikilink">더 을브즈</a> (<a href="https://ko.wikipedia.org/wiki/데이비_리처즈" title="wikilink">데이비 리처즈</a> &amp; <a href="https://ko.wikipedia.org/wiki/에디_에드워즈_(프로레슬링_선수)" title="wikilink">에디 에드워즈</a>), <a href="../Page/제프_하디.md" title="wikilink">윌로</a>) vs. <a href="https://ko.wikipedia.org/wiki/팀_딕시" title="wikilink">팀 딕시</a> (<a href="../Page/로버트_루드.md" title="wikilink">바비 루드</a>, <a href="../Page/오스틴_에리스.md" title="wikilink">오스틴 에리스</a> &amp; <a href="https://ko.wikipedia.org/wiki/더_브로맨즈" title="wikilink">더 브로맨즈</a> (<a href="https://ko.wikipedia.org/wiki/로비_E" title="wikilink">로비 E</a> &amp; <a href="https://ko.wikipedia.org/wiki/제시_가더스" title="wikilink">제시 가더스</a>)) (리썰 록다운 매치)</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/팀_MVP" title="wikilink">팀 MVP</a> (<a href="../Page/몬텔_본테이비어스_포터.md" title="wikilink">MVP</a>, <a href="https://ko.wikipedia.org/wiki/더_을브즈" title="wikilink">더 을브즈</a> (<a href="https://ko.wikipedia.org/wiki/데이비_리처즈" title="wikilink">데이비 리처즈</a> &amp; <a href="https://ko.wikipedia.org/wiki/에디_에드워즈_(프로레슬링_선수)" title="wikilink">에디 에드워즈</a>), <a href="../Page/제프_하디.md" title="wikilink">윌로</a>) vs. <a href="https://ko.wikipedia.org/wiki/팀_딕시" title="wikilink">팀 딕시</a> (<a href="../Page/로버트_루드.md" title="wikilink">바비 루드</a>, <a href="../Page/오스틴_에리스.md" title="wikilink">오스틴 에리스</a> &amp; <a href="https://ko.wikipedia.org/wiki/더_브로맨즈" title="wikilink">더 브로맨즈</a> (<a href="https://ko.wikipedia.org/wiki/로비_E" title="wikilink">로비 E</a> &amp; <a href="https://ko.wikipedia.org/wiki/제시_가더스" title="wikilink">제시 가더스</a>)) (리썰 록다운 매치)</p></td>
 </tr>
 </tbody>
 </table>
@@ -107,7 +107,7 @@
 <td><p><a href="../Page/뉴욕.md" title="wikilink">뉴욕</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/맨허튼_센터" title="wikilink">맨허튼 센터</a></p></td>
 <td><p>1,100</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/팀_앵글" title="wikilink">팀 앵글</a> (<a href="../Page/커트_앵글.md" title="wikilink">커트 앵글</a>, <a href="../Page/오스틴_에리스.md" title="wikilink">오스틴 에리스</a>, <a href="https://ko.wikipedia.org/wiki/필_섀터" title="wikilink">거너</a>, <a href="../Page/보비_래슐리.md" title="wikilink">래슐리</a>) vs. <a href="../Page/더_비트_다운_클랜.md" title="wikilink">더 비트 다운 클랜</a> (<a href="https://ko.wikipedia.org/wiki/몬텔_본테이비어스_포터" title="wikilink">MVP</a>, <a href="https://ko.wikipedia.org/wiki/케니_킹" title="wikilink">케니 킹</a>, <a href="../Page/사모아_조.md" title="wikilink">사모아 조</a>, <a href="../Page/브랜던_실베스트리.md" title="wikilink">로우 키</a>) (리썰 록다운 매치)</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/팀_앵글" title="wikilink">팀 앵글</a> (<a href="../Page/커트_앵글.md" title="wikilink">커트 앵글</a>, <a href="../Page/오스틴_에리스.md" title="wikilink">오스틴 에리스</a>, <a href="https://ko.wikipedia.org/wiki/필_섀터" title="wikilink">거너</a>, <a href="../Page/보비_래슐리.md" title="wikilink">래슐리</a>) vs. <a href="../Page/더_비트_다운_클랜.md" title="wikilink">더 비트 다운 클랜</a> (<a href="../Page/몬텔_본테이비어스_포터.md" title="wikilink">MVP</a>, <a href="https://ko.wikipedia.org/wiki/케니_킹" title="wikilink">케니 킹</a>, <a href="../Page/사모아_조.md" title="wikilink">사모아 조</a>, <a href="../Page/브랜던_실베스트리.md" title="wikilink">로우 키</a>) (리썰 록다운 매치)</p></td>
 </tr>
 <tr class="even">
 <td><p>2016년 2월 23일[2]</p></td>
@@ -123,7 +123,7 @@
 
 <references/>
 
-[분류:TNA 페이퍼뷰](https://ko.wikipedia.org/wiki/분류:TNA_페이퍼뷰 "wikilink")
+[분류:임팩트 레슬링 페이퍼뷰](https://ko.wikipedia.org/wiki/분류:임팩트_레슬링_페이퍼뷰 "wikilink")
 
 1.  2015년 1월 9일 녹화하고, 2월 6일에 방송함.
 2.  2016년 1월 30일 녹화하고, 2월 23일에 방송함.

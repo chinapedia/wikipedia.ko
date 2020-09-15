@@ -37,7 +37,7 @@
   - [RT-2UTTKh 토폴-M](https://ko.wikipedia.org/wiki/RT-2UTTKh_토폴-M "wikilink") - 토폴 개량형
   - [RS-24](https://ko.wikipedia.org/wiki/RS-24 "wikilink") - 토폴-M의 최신 개량형
 
-[분류:러시아의 대륙간탄도유도탄](https://ko.wikipedia.org/wiki/분류:러시아의_대륙간탄도유도탄 "wikilink")
+[분류:러시아의 대륙간탄도유도탄](https://ko.wikipedia.org/wiki/분류:러시아의_대륙간탄도유도탄 "wikilink") [분류:소련의 핵무기](https://ko.wikipedia.org/wiki/분류:소련의_핵무기 "wikilink")
 
 1.  <http://www.energia.ru/english/energia/launchers/rocket-rt2p.html>
 2.  [Russian strategic nuclear forces blog - Launch of Topol extends its service life](http://russianforces.org/blog/2007/10/launch_of_topol_extends_its_se.shtml)

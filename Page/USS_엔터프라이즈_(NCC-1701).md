@@ -131,5 +131,3 @@
   - [USS 디파이언트 (NCC-1764)](https://ko.wikipedia.org/wiki/USS_디파이언트_\(NCC-1764\) "wikilink") - 진수연도 불명, 2267년 실종, 함장 불명.
 
 [분류:스타 트렉의 우주선](https://ko.wikipedia.org/wiki/분류:스타_트렉의_우주선 "wikilink") [분류:스미스소니언 협회 소장품](https://ko.wikipedia.org/wiki/분류:스미스소니언_협회_소장품 "wikilink")
-
-[de:Enterprise (Raumschiff)\#USS Enterprise (NCC-1701)](https://ko.wikipedia.org/wiki/de:Enterprise_\(Raumschiff\)#USS_Enterprise_\(NCC-1701\) "wikilink")

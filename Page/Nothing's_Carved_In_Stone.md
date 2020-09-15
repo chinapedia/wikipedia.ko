@@ -68,7 +68,7 @@
 
 ## 외부 링크
 
-  - [공식 홈페이지](http://www.ncis.jp/)
+  - [공식 홈페이지](https://web.archive.org/web/20130127152010/http://www.ncis.jp/)
   - [인스타그램 공식](https://www.instagram.com/nothingscarvedinstone/)
 
 [분류:일본의 록 밴드](https://ko.wikipedia.org/wiki/분류:일본의_록_밴드 "wikilink") [분류:일본의 얼터너티브 록 밴드](https://ko.wikipedia.org/wiki/분류:일본의_얼터너티브_록_밴드 "wikilink") [분류:일본의 펑크 록 밴드](https://ko.wikipedia.org/wiki/분류:일본의_펑크_록_밴드 "wikilink") [분류:소니 뮤직 엔터테인먼트 (일본)의 음악가](https://ko.wikipedia.org/wiki/분류:소니_뮤직_엔터테인먼트_\(일본\)의_음악가 "wikilink")

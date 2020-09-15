@@ -18,7 +18,7 @@
 
 ## 외부 링크
 
-  - [공식 웹사이트](http://www.yjcard.jp/)
+  - [공식 웹사이트](https://web.archive.org/web/20160717084448/http://www.yjcard.jp/)
 
 [분류:일본의 기업](https://ko.wikipedia.org/wiki/분류:일본의_기업 "wikilink") [분류:1963년 설립된 기업](https://ko.wikipedia.org/wiki/분류:1963년_설립된_기업 "wikilink") [분류:신용카드](https://ko.wikipedia.org/wiki/분류:신용카드 "wikilink")
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [알쇼르타 SC](https://ko.wikipedia.org/wiki/알쇼르타_SC).
 
 
-**알쇼르타 SC**()는 [바그다드](../Page/바그다드.md "wikilink")를 연고로 하는 [이라크](../Page/이라크.md "wikilink")의 [축구](../Page/축구.md "wikilink")팀이다. 이라크의 축구팀 가운데에서는 [알라시드와](../Page/알카르흐_SC.md "wikilink") 더불어 이라크 외부 대회를 우승한 팀으로, 국내에서 가장 성공한 팀이다.
+**알쇼르타 SC**(, )는 [바그다드](../Page/바그다드.md "wikilink")를 연고로 하는 [이라크](../Page/이라크.md "wikilink")의 [축구](../Page/축구.md "wikilink")팀이다. 이라크의 축구팀 가운데에서는 [알라시드와](../Page/알카르흐_SC.md "wikilink") 더불어 이라크 외부 대회를 우승한 팀으로, 국내에서 가장 성공한 팀이다.
 
 ## 역대 우승 기록
 
@@ -104,4 +104,4 @@
   - [알쇼르타 TV](http://www.alshortatv.webs.com)
   - [goalzz.com 팀 페이지](http://www.goalzz.com/main.aspx?team=442)
 
-[분류:이라크의 축구단](https://ko.wikipedia.org/wiki/분류:이라크의_축구단 "wikilink") [분류:알쇼르타 (바그다드)](https://ko.wikipedia.org/wiki/분류:알쇼르타_\(바그다드\) "wikilink") [분류:1932년 설립된 축구단](https://ko.wikipedia.org/wiki/분류:1932년_설립된_축구단 "wikilink")
+[분류:이라크의 축구단](https://ko.wikipedia.org/wiki/분류:이라크의_축구단 "wikilink") [알쇼르타_SC](https://ko.wikipedia.org/wiki/분류:알쇼르타_SC "wikilink") [분류:1932년 설립된 축구단](https://ko.wikipedia.org/wiki/분류:1932년_설립된_축구단 "wikilink")

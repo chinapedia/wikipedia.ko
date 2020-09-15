@@ -94,7 +94,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/2004_in_athletics_(track_and_field)" title="wikilink">2004</a></p></td>
-<td style="text-align: left;"><p><a href="https://ko.wikipedia.org/wiki/케네니사_베켈레" title="wikilink">케네니사 베켈레</a></p></td>
+<td style="text-align: left;"><p><a href="../Page/케네니사_베켈레.md" title="wikilink">케네니사 베켈레</a></p></td>
 <td style="text-align: left;"><p><a href="../Page/옐레나_이신바예바.md" title="wikilink">옐레나 이신바예바</a></p></td>
 </tr>
 <tr class="even">

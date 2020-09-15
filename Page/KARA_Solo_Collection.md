@@ -5,6 +5,10 @@
 
 ### 트랙리스트
 
+## 같이 보기
+
+  - [KARA 컬렉션](../Page/KARA_컬렉션.md "wikilink")
+
 ## 출처
 
-[분류:2012년 컴필레이션 음반](https://ko.wikipedia.org/wiki/분류:2012년_컴필레이션_음반 "wikilink") [분류:한국어 음반](https://ko.wikipedia.org/wiki/분류:한국어_음반 "wikilink") [분류:카라의 음반](https://ko.wikipedia.org/wiki/분류:카라의_음반 "wikilink") [분류:DSP 미디어 음반](https://ko.wikipedia.org/wiki/분류:DSP_미디어_음반 "wikilink") [en:Kara Collection\#Korean version](https://ko.wikipedia.org/wiki/en:Kara_Collection#Korean_version "wikilink")
+[분류:2012년 컴필레이션 음반](https://ko.wikipedia.org/wiki/분류:2012년_컴필레이션_음반 "wikilink") [분류:한국어 음반](https://ko.wikipedia.org/wiki/분류:한국어_음반 "wikilink") [분류:카라의 음반](https://ko.wikipedia.org/wiki/분류:카라의_음반 "wikilink") [분류:DSP 미디어 음반](https://ko.wikipedia.org/wiki/분류:DSP_미디어_음반 "wikilink")

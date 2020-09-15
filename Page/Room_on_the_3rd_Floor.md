@@ -15,6 +15,6 @@
 
 ## 외부 링크
 
-  - [맥플라이 공식 웹사이트](http://www.mcflyofficial.com/)
+  - [맥플라이 공식 웹사이트](https://web.archive.org/web/20130407043205/http://www.mcflyofficial.com/)
 
 [분류:2004년 음반](https://ko.wikipedia.org/wiki/분류:2004년_음반 "wikilink") [분류:맥플라이의 음반](https://ko.wikipedia.org/wiki/분류:맥플라이의_음반 "wikilink") [분류:2004년 데뷔 음반](https://ko.wikipedia.org/wiki/분류:2004년_데뷔_음반 "wikilink")

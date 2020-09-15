@@ -38,12 +38,12 @@
 
 <!-- end list -->
 
-  - <s>구로점 <small>(서울특별시 구로구 구로중앙로 152)</small></s>
+  - <s>신구로점 <small>(서울특별시 구로구 구로중앙로 152)</small></s>
 
 <!-- end list -->
 
   -
-    <s>[1993년](../Page/1993년.md "wikilink") [9월 10일에](../Page/9월_10일.md "wikilink") 개점하였으며, 舊 AK 구로플라자가 들어섰던 건물을 임차하여 4월개점예정. [경부선](../Page/경부선.md "wikilink"),[경인선](../Page/경인선.md "wikilink"),[서울 지하철 1호선](../Page/서울_지하철_1호선.md "wikilink") [구로역](../Page/구로역.md "wikilink")과는 거리가 가깝다.</s>
+    [1993년](../Page/1993년.md "wikilink") [9월10일](https://ko.wikipedia.org/wiki/9월10일 "wikilink")에 개점하였으며, 舊 AK플라자 구로본점이 들어섰던 건물을 사들여 개점예정. [서울 지하철 1호선](../Page/서울_지하철_1호선.md "wikilink") [구로역](../Page/구로역.md "wikilink")과는 1번 출구 연결통로와 본관 2층이 연결
 
 #### 부산광역시
 
@@ -119,7 +119,7 @@
 <!-- end list -->
 
   -
-    [2015년](../Page/2015년.md "wikilink") [5월 21일에](../Page/5월_21일.md "wikilink") 개장하였으며 [밀리오레](https://ko.wikipedia.org/wiki/밀리오레 "wikilink")로 영업을 시작해서 최근까지는 디시티로 영업을 하던 부산의 대표적인 쇼핑몰이었다. [이랜드리테일](https://ko.wikipedia.org/wiki/이랜드리테일 "wikilink")이 운영하는 50번째 유통점포이고 부산에선 5번째로 선보이는 곳이며 규모는 서울 외 최대이다. 최대규모의 모던하우스를 비롯해서 많은 이랜드브랜드들이 입점해 있다.
+    [2015년](../Page/2015년.md "wikilink") [5월 21일에](../Page/5월_21일.md "wikilink") 개장하였으며 [밀리오레](../Page/밀리오레.md "wikilink")로 영업을 시작해서 최근까지는 디시티로 영업을 하던 부산의 대표적인 쇼핑몰이었다. [이랜드리테일](https://ko.wikipedia.org/wiki/이랜드리테일 "wikilink")이 운영하는 50번째 유통점포이고 부산에선 5번째로 선보이는 곳이며 규모는 서울 외 최대이다. 최대규모의 모던하우스를 비롯해서 많은 이랜드브랜드들이 입점해 있다.
 
 #### 경기도
 
@@ -146,7 +146,7 @@
 <!-- end list -->
 
   -
-    [2015년](../Page/2015년.md "wikilink") [2월 26일에](https://ko.wikipedia.org/wiki/2월_26일 "wikilink") 개장하였다. [수원종합버스터미널](../Page/수원종합버스터미널.md "wikilink")내에 위치하고 있다. 킴스클럽 미입점 점포이다.
+    [2015년](../Page/2015년.md "wikilink") [2월 26일에](../Page/2월_26일.md "wikilink") 개장하였다. [수원종합버스터미널](../Page/수원종합버스터미널.md "wikilink")내에 위치하고 있다. 킴스클럽 미입점 점포이다.
 
 #### 경상북도
 
@@ -166,7 +166,7 @@
 <!-- end list -->
 
   -
-    [2013년](../Page/2013년.md "wikilink") [7월 5일에](../Page/7월_5일.md "wikilink") 개장하였으며, 옛 [밀리오레](https://ko.wikipedia.org/wiki/밀리오레 "wikilink") 건물을 인수해 리뉴얼 오픈하였다. [광주 도시철도 1호선](../Page/광주_도시철도_1호선.md "wikilink") [금남로4가역](../Page/금남로4가역.md "wikilink")과는 거리가 가깝다. 킴스클럽 미입점 점포이다.
+    [2013년](../Page/2013년.md "wikilink") [7월 5일에](../Page/7월_5일.md "wikilink") 개장하였으며, 옛 [밀리오레](../Page/밀리오레.md "wikilink") 건물을 인수해 리뉴얼 오픈하였다. [광주 도시철도 1호선](../Page/광주_도시철도_1호선.md "wikilink") [금남로4가역](../Page/금남로4가역.md "wikilink")과는 거리가 가깝다. 킴스클럽 미입점 점포이다.
 
 <!-- end list -->
 

@@ -27,7 +27,7 @@
 <td><p><a href="../Page/1회_BC카드배_월드_바둑_챔피언십.md" title="wikilink">2009</a></p></td>
 <td><p><strong><a href="../Page/구리_(바둑_기사).md" title="wikilink">구리</a></strong> 九단</p></td>
 <td><p>3-1</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/조한승" title="wikilink">조한승</a> 九단</p></td>
+<td><p><a href="../Page/조한승.md" title="wikilink">조한승</a> 九단</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/2회_비씨카드배_월드바둑챔피언십" title="wikilink">2</a></p></td>

@@ -7,7 +7,7 @@
 
 인터넷 및 TV조선 뉴스 다시보기의 뉴스 대본에 나와 있지만 동영상에서는 대본 내용의 차이가 있다.
 
-  - TV조선 ○○○ 입니다. \[1\]
+  - TV조선 ○○○ 입니다.\[1\]
 
 ## 특이 사항
 
@@ -56,26 +56,19 @@
 주말 : <a href="https://ko.wikipedia.org/wiki/이상목" title="wikilink">이상목</a>, <a href="https://ko.wikipedia.org/wiki/김자민" title="wikilink">김자민</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/TV조선_뉴스_(주말).md" title="wikilink">TV조선 뉴스 (주말)</a></p></td>
-<td><p>주말 20분</p></td>
-<td><p>주말 오전 9시 30분 ~ 9시 50분</p></td>
-<td><p>토요일 : <a href="https://ko.wikipedia.org/wiki/최윤정_(기자)" title="wikilink">최윤정</a><br />
-일요일 : <a href="https://ko.wikipedia.org/wiki/윤태윤" title="wikilink">윤태윤</a></p></td>
-</tr>
-<tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/TV조선_뉴스현장" title="wikilink">TV조선 뉴스현장</a></p></td>
 <td><p>주말 1시간 10분</p></td>
 <td><p>주말 오후 1시 50분 ~ 3시</p></td>
 <td><p>토요일 : <a href="../Page/엄성섭.md" title="wikilink">엄성섭</a>, <a href="https://ko.wikipedia.org/wiki/최원희" title="wikilink">최원희</a><br />
 일요일 : <a href="../Page/강동원.md" title="wikilink">강동원</a>, <a href="https://ko.wikipedia.org/wiki/유슬기" title="wikilink">유슬기</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/TV조선_뉴스특보" title="wikilink">TV조선 뉴스특보</a></p></td>
 <td><p>특집 편성</p></td>
 <td><p>특집 편성</p></td>
 <td><p>무작위</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -111,7 +104,7 @@
 ## 외부 링크
 
   - [TV조선 뉴스 홈페이지](http://news.tv.chosun.com/)
-  - ["시간 줄이려 쇠막대기 사용"…청주 화장장 시신 훼손 논란](https://www.youtube.com/watch?v=z0Tt1R28IOk&feature=youtu.be)
+  - [(단독) 북한 방송 들리는 제주…'전파차단' 손 놓은 중앙전파관리소](https://www.youtube.com/watch?feature=youtu.be&v=9h9bxbNRfck&app=desktop&persist_app=1)
 
 [\*](https://ko.wikipedia.org/wiki/분류:TV조선의_뉴스_텔레비전_프로그램 "wikilink")
 

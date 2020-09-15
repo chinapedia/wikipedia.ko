@@ -16,7 +16,7 @@
 
   - [Shorten 연구 논문](ftp://svr-ftp.eng.cam.ac.uk/pub/reports/robinson_tr156.ps.Z), Shorton의 개발자가 작성하고 작동원리를 서술.
   - [Trader's Little Helper 다운로드 페이지](http://tlh.easytree.org). Trader's Little helper converts shn to wav among other things
-  - [etree.org 위키 문서](http://wiki.etree.org/index.php?page=Shorten). [etree.org](http://etree.org) is a trading site for authorized recordings of live performances; etree formerly used Shorten exclusively but is increasingly using [FLAC](../Page/FLAC.md "wikilink").
+  - [etree.org 위키 문서](http://wiki.etree.org/index.php?page=Shorten). [etree.org](https://web.archive.org/web/20130123112030/http://etree.org/) is a trading site for authorized recordings of live performances; etree formerly used Shorten exclusively but is increasingly using [FLAC](../Page/FLAC.md "wikilink").
   - [Shorten FAQ](http://research.umbc.edu/~hamilton/shnfaq.html) (노트: **.shn** 파일을 재생할 소프트웨어를 찾고 있다면 [etree 소프트웨어 페이지](http://wiki.etree.org/index.php?page=SoftwareYouNeed)를 찾아보세요. Shorten FAQ 페이지는 오래되거나 깨진 링크가 많습니다.
   - [무손실 오디오 포맷](http://www.bobulous.org.uk/misc/lossless_audio_2006.html), Shorten을 포함한 무손실 오디오 포맷 성능 비교.
   - [A Small SHN과 MD5 FAQ](http://userpages.umbc.edu/~hamilton/shnfaq.html) Includes a decent list of programs to handle Shorten files.

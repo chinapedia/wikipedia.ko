@@ -18,7 +18,7 @@
   - [JL-2](../Page/JL-2.md "wikilink") - 중국판 트라이던트 II 미사일
   - [RSM-56 불라바](../Page/RSM-56_불라바.md "wikilink") - 러시아의 최신형. [보레이급 잠수함에](https://ko.wikipedia.org/wiki/보레이급_잠수함 "wikilink") 장착할 계획이다.
 
-[분류:잠수함발사 탄도유도탄](https://ko.wikipedia.org/wiki/분류:잠수함발사_탄도유도탄 "wikilink") [분류:러시아의 미사일](https://ko.wikipedia.org/wiki/분류:러시아의_미사일 "wikilink")
+[분류:러시아의 미사일](https://ko.wikipedia.org/wiki/분류:러시아의_미사일 "wikilink") [분류:러시아의 핵무기](https://ko.wikipedia.org/wiki/분류:러시아의_핵무기 "wikilink") [분류:잠수함발사 탄도유도탄](https://ko.wikipedia.org/wiki/분류:잠수함발사_탄도유도탄 "wikilink")
 
 1.  [R-29RMU / RSM-54 Sineva / SS-N-23 SKIFF](http://www.globalsecurity.org/wmd/world/russia/r29rmu.htm)
 2.  [Russia's Dmitry Medvedev observes Barents Sea drills](http://en.rian.ru/russia/20081011/117684418.html), [RIAN](https://ko.wikipedia.org/wiki/RIAN "wikilink"), 2008-10-11

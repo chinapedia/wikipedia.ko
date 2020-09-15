@@ -59,6 +59,6 @@
 
 ## 외부 링크
 
-  - [웨스턴 시드니 원더러스 FC 공식 웹사이트](http://www.wswanderersfc.com.au/)
+  - [웨스턴 시드니 원더러스 FC 공식 웹사이트](https://web.archive.org/web/20140803200136/http://www.wswanderersfc.com.au/)
 
 [분류:A리그 구단](https://ko.wikipedia.org/wiki/분류:A리그_구단 "wikilink") [분류:2012년 설립된 축구단](https://ko.wikipedia.org/wiki/분류:2012년_설립된_축구단 "wikilink") [\*](https://ko.wikipedia.org/wiki/분류:웨스턴_시드니_원더러스_FC "wikilink")

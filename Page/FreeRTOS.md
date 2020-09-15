@@ -87,7 +87,7 @@
 
   - [FreeRTOS.org](http://www.freertos.org)
 
-  - [SafeRTOS](http://www.safertos.com)
+  - [SafeRTOS](https://web.archive.org/web/20160109191552/http://safertos.com/)
 
 [분류:실시간 운영 체제](https://ko.wikipedia.org/wiki/분류:실시간_운영_체제 "wikilink") [분류:임베디드 운영 체제](https://ko.wikipedia.org/wiki/분류:임베디드_운영_체제 "wikilink") [분류:ARM 운영 체제](https://ko.wikipedia.org/wiki/분류:ARM_운영_체제 "wikilink") [분류:자유 소프트웨어 운영 체제](https://ko.wikipedia.org/wiki/분류:자유_소프트웨어_운영_체제 "wikilink")
 

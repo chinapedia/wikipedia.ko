@@ -30,7 +30,7 @@
 
 ## 외부 링크
 
-  - [반디소프트::Ark 라이브러리 공식 홈페이지](https://www.bandisoft.com/ark/)
+  - [반디소프트::Ark 라이브러리 공식 홈페이지](https://web.archive.org/web/20180913073927/https://www.bandisoft.com/ark/)
 
 ## 각주
 

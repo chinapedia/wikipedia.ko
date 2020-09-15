@@ -1,9 +1,13 @@
 > This article is converted from Wikipedia: [CU \(편의점\)](https://ko.wikipedia.org/wiki/CU_\(편의점\)).
 
 
-'''CU '''(씨유, )는 [BGF리테일](../Page/BGF리테일.md "wikilink")이 운영하는 [편의점](../Page/편의점.md "wikilink") [프랜차이즈](https://ko.wikipedia.org/wiki/프랜차이즈 "wikilink")다.
+'''CU '''(한국어:씨유, 러시아,몽골어:Си Юү, )는 [BGF리테일](../Page/BGF리테일.md "wikilink")이 운영하는 [편의점](../Page/편의점.md "wikilink") [프랜차이즈](https://ko.wikipedia.org/wiki/프랜차이즈 "wikilink")다.
 
 ## 현황
+
+[대한민국](../Page/대한민국.md "wikilink") 종합유통서비스 기업인 [BGF리테일](../Page/BGF리테일.md "wikilink")이 [2012년](../Page/2012년.md "wikilink") [8월](../Page/8월.md "wikilink") 신규 런칭한 [편의점](../Page/편의점.md "wikilink") 브랜드이다. CU는 국내 소비자의 특성과 매정별 입지를 과학적으로 분석해을 표방한 새로운 개념의 편의점으로 생활의 편의를 돕고(**Convenience**) 최상의 상품과 서비스, 운영상의 편의성과 수익성으로 고객과 가맹점주(**You**)를 소중히 모시는 생활 속 쉼터를 조성하겠다는 뜻을 담아 이들 영어단어의 앞 글자로 조합한 이름이다. 현재 [대한민국](../Page/대한민국.md "wikilink") 최대 프랜차이즈망을 바탕으로 다양한 상품과 서비스를 고객들에게 제공하고 있다.
+
+초창기에는 'with [FamilyMart](../Page/훼미리마트.md "wikilink")'가 붙었지만, 상장 이후에는 [훼미리마트](../Page/훼미리마트.md "wikilink") 측이 BGF리테일의 지분을 모두 매각하면서 with [Familymart](../Page/훼미리마트.md "wikilink") 문구를 빼고 BGF리테일 로고로 교체하였다.
 
 | CU 편의점 지역별 점포수                                              |
 | ----------------------------------------------------------- |
@@ -24,7 +28,7 @@
 | [경상북도](https://ko.wikipedia.org/wiki/경상북도 "wikilink")       |
 | [경상남도](https://ko.wikipedia.org/wiki/경상남도 "wikilink")       |
 | [제주특별자치도](https://ko.wikipedia.org/wiki/제주특별자치도 "wikilink") |
-| 2019\. 3. 1 현재                                              |
+| 2020\. 6. 1 현재                                              |
 
 ## 서비스
 

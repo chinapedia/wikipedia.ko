@@ -20,8 +20,8 @@
 
 **비디오**
 
-  - [H.264](https://ko.wikipedia.org/wiki/H.264 "wikilink") 비디오, 최대 [720p](https://ko.wikipedia.org/wiki/720p "wikilink"), 초당 30프레임, Main Profile level 3.1 (최대 160Kbps의 AAC-LC 오디오), 48kHz, m4v, .mp4, .mov 파일 포맷의 스테레오 오디오.
-  - [MPEG-4](../Page/MPEG-4.md "wikilink") 비디오, 최대 2.5Mbps, 640x480 픽셀, 초당 30프레임, Simple Profile (채널당 최대 160Kbps의 AAC-LC 오디오), 48kHz, .m4v, .mp4, .mov 파일 포맷의 스테레오 오디오.
+  - [H.264](https://ko.wikipedia.org/wiki/H.264 "wikilink") 비디오, 최대 [720p](https://ko.wikipedia.org/wiki/720p "wikilink"), 초당 30프레임, Main Profile level 3.1 (최대 160Kbps의 AAC-LC 오디오), 48 kHz, m4v, .mp4, .mov 파일 포맷의 스테레오 오디오.
+  - [MPEG-4](../Page/MPEG-4.md "wikilink") 비디오, 최대 2.5Mbps, 640x480 픽셀, 초당 30프레임, Simple Profile (채널당 최대 160Kbps의 AAC-LC 오디오), 48 kHz, .m4v, .mp4, .mov 파일 포맷의 스테레오 오디오.
   - Motion JPEG (M-JPEG), 최대 35Mbps, 1280×720 픽셀, 초당 30프레임, ulaw 오디오, .avi파일 포맷의 PCM 스테레오 오디오.
 
 **오디오**

@@ -8,7 +8,7 @@
 
 ## 새 명령어들
 
-FMA3와 FMA4 명령어 집합은 기능면에서는 거의 동일하지만 상호 호환은 되지 않는다. 이 둘은 부동소수점 연산과 [SIMD](https://ko.wikipedia.org/wiki/SIMD "wikilink")연산을 위한 [단일 곱셈-누산기](../Page/단일_곱셈-누산기.md "wikilink")(FMA) 명령어들이다.
+FMA3와 FMA4 명령어 집합은 기능면에서는 거의 동일하지만 상호 호환은 되지 않는다. 이 둘은 부동소수점 연산과 [SIMD](../Page/SIMD.md "wikilink")연산을 위한 [단일 곱셈-누산기](../Page/단일_곱셈-누산기.md "wikilink")(FMA) 명령어들이다.
 
 ## 호환성 문제
 

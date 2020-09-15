@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [IOS SDK](https://ko.wikipedia.org/wiki/IOS_SDK).
 
 
-**iOS SDK**는 [iOS](https://ko.wikipedia.org/wiki/iOS "wikilink") 개발을 위한 [애플의](https://ko.wikipedia.org/wiki/애플_\(기업\) "wikilink") [소프트웨어 개발 키트이다](../Page/소프트웨어_개발_키트.md "wikilink"). SDK는 2008년 3월 6일 배포되었고, 개발자들은 이 SDK를 활용해 아이폰이나 아이팟 터치 응용 소프트웨어를 개발할 수 있게 되었고, [OS X의](https://ko.wikipedia.org/wiki/OS_X "wikilink") "아이폰 시뮬레이터" 내에서 테스트할 수 있게 되었다. 하지만 기기에 실제로 응용 소프트웨어를 올리기 위해서는 $99.00 USD의 iOS 개발자 프로그램이 필요하다. [XCode 3.1의](../Page/엑스코드.md "wikilink") 출시 이후, XCode는 iOS SDK를 위한 개발 환경이 되었다.
+**iOS SDK**는 [iOS](https://ko.wikipedia.org/wiki/iOS "wikilink") 개발을 위한 [애플](../Page/애플.md "wikilink")의 [소프트웨어 개발 키트이다](../Page/소프트웨어_개발_키트.md "wikilink"). SDK는 2008년 3월 6일 배포되었고, 개발자들은 이 SDK를 활용해 아이폰이나 아이팟 터치 응용 소프트웨어를 개발할 수 있게 되었고, [OS X의](https://ko.wikipedia.org/wiki/OS_X "wikilink") "아이폰 시뮬레이터" 내에서 테스트할 수 있게 되었다. 하지만 기기에 실제로 응용 소프트웨어를 올리기 위해서는 $99.00 USD의 iOS 개발자 프로그램이 필요하다. [XCode 3.1의](../Page/엑스코드.md "wikilink") 출시 이후, XCode는 iOS SDK를 위한 개발 환경이 되었다.
 
 개발자는 개발한 응용 소프트웨어를 [앱 스토어를](https://ko.wikipedia.org/wiki/앱_스토어 "wikilink") 통해 유통시킬 수 있다. 이 때, 응용 소프트웨어의 가격은 최소 가격만 넘기면 그 초과 범위 내에서 자유롭게 정할 수 있다. 개발자는 응용 소프트웨어 판매 수익의 70%를 가져간다. 다른 방식으로는, 개발자는 개발한 응용 소프트웨어를 무료로 배포할 수 있다. 이 때, 개발자는 응용 소프트웨어의 배포나 배급에 대한 비용은 내지 않으며, 개발자는 멤버십(membership) 비용만을 지불하면 된다.\[1\]
 

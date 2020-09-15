@@ -1,15 +1,13 @@
 > This article is converted from Wikipedia: [CJ E\&M](https://ko.wikipedia.org/wiki/CJ_E\&M).
 
 
-**씨제이이앤엠 주식회사**(, 상표: **CJ E\&M** - **CJ** **E**ntertainment **&** **M**edia)는 [대한민국](../Page/대한민국.md "wikilink")의 종합 콘텐츠 기업으로 [CJ그룹](../Page/CJ그룹.md "wikilink")의 계열사이다. 본사는 [서울특별시](../Page/서울특별시.md "wikilink") [마포구](../Page/마포구.md "wikilink") 상암산로 66 (상암동, [CJ ENM센터](https://ko.wikipedia.org/wiki/CJ_ENM센터 "wikilink"))에 있다.
+**씨제이이앤엠 주식회사**(**CJ** **E**ntertainment **&** **M**edia)는 [대한민국](../Page/대한민국.md "wikilink")의 종합 엔터테이먼트 기업이다. [CJ그룹](../Page/CJ그룹.md "wikilink")의 계열사로, 본사는 [서울특별시](../Page/서울특별시.md "wikilink") [마포구](../Page/마포구.md "wikilink") 상암산로 66 (상암동, [CJ ENM센터](https://ko.wikipedia.org/wiki/CJ_ENM센터 "wikilink"))에 있다.
 
 [2010년](../Page/2010년.md "wikilink") [9월 15일](../Page/9월_15일.md "wikilink") [㈜씨제이오쇼핑의](../Page/CJ오쇼핑.md "wikilink") 미디어사업부문을 인적분할하여 **㈜오미디어홀딩스**()로 설립하였다. 같은 해 10월 15일 한국거래소 코스닥증권시장에 상장하였으며 2011년 1월 20일에 현재의 씨제이이앤엠 주식회사로 상호 변경하였다. [2011년](../Page/2011년.md "wikilink") [3월 1일](../Page/3월_1일.md "wikilink") CJ그룹 내 미디어 계열 5개사 [㈜온미디어](../Page/온미디어.md "wikilink"), [씨제이미디어㈜](../Page/CJ미디어.md "wikilink"), [씨제이인터넷㈜](../Page/CJ인터넷.md "wikilink"), [엠넷미디어](../Page/엠넷미디어.md "wikilink")㈜, [씨제이엔터테인먼트㈜를](../Page/CJ엔터테인먼트.md "wikilink") 인수 합병하였다. 인수 합병 이후에 방송, 게임, 영화, 음악/공연/온라인 4개 사업 부문으로 다각화하여 종합적인 미디어, 엔터테인먼트 사업을 영위하고 있다.
 
 대표이사 2명과 사외이사 3명, [이미경](../Page/이미경_\(1958년\).md "wikilink") [씨제이㈜](../Page/CJ_\(기업\).md "wikilink") 부회장을 비롯한 미등기 임원 25명이 재직하고 있으며 CJ E\&M의 총괄부회장직을 맡고 있는 이미경 부회장이 경영에 상당한 영향력을 행사며 사실상 총괄\[1\]하고 있으며, 2018년 7월 1일에 [CJ오쇼핑](../Page/CJ오쇼핑.md "wikilink")과 합병하게 될 새이름은 [CJ ENM이다](../Page/CJ_ENM.md "wikilink").\[2\]
 
 ## 사업 영역
-
-2011년 3월 1일 [CJ그룹](../Page/CJ그룹.md "wikilink")의 미디어 계열 5개사를 인수 합병한 이후 방송, 게임, 영화, 음악 등 부문으로 편성하였다.
 
 ### 방송 사업
 
@@ -33,7 +31,7 @@
   - [UXN](https://ko.wikipedia.org/wiki/UXN "wikilink"): ULTRA EXTRAORDINARY NETWORK (UHD 전문 채널)
   - [CH.DIA](../Page/CH.DIA.md "wikilink"): 다\~보라\! CH.DIA (크리에이터 전문 채널)
   - [XtvN](https://ko.wikipedia.org/wiki/XtvN "wikilink"): 놀러오락\! tvN의 세 번째 채널 (밀레니엄 세대 대상 엔터테인먼트 채널)
-  - [English Gem](https://ko.wikipedia.org/wiki/English_Gem "wikilink"): 프리미엄 키즈 영어 콘텐츠 채널 (어린이 키즈영어 전문 채널)
+  - [잉글리시 젬](https://ko.wikipedia.org/wiki/잉글리시_젬 "wikilink"): 프리미엄 키즈 영어 콘텐츠 채널 (어린이 키즈영어 전문 채널)
   - [tvN Asia](https://web.archive.org/web/20180320063338/https://tvnasia.net/en/tvn-asia.html): tvN, where fun takes off\! (동남아시아 타겟 No.1 트렌드 리딩채널)
   - [tvN Movies](https://tvnmovies.net): tvN Movies, World First & Only (세계 최초이자 유일한 한국어 블록 버스터 영화 채널)
 
@@ -78,6 +76,8 @@
 
   - **CJ ENM 미디어솔루션부문**()
 
+## 참조
+
 ## 같이 보기
 
   - [CJ ENM 소속 연예인 목록](https://ko.wikipedia.org/wiki/CJ_E&M_소속_연예인_목록 "wikilink")
@@ -85,28 +85,9 @@
   - [제이에스픽쳐스](../Page/제이에스픽쳐스.md "wikilink")
   - [CH.DIA](../Page/CH.DIA.md "wikilink")
 
-## 참조
-
 ## 외부 링크
 
   -
-  -
-  -
-  -
-  - <https://www.facebook.com/CJTVHOLIC>: 페이스북 페이지 **CJE\&M TV**
-
-  - <https://www.facebook.com/cjenmmovie/>: 페이스북 페이지 **CJ Entertainment**
-
-  - <https://www.youtube.com/cjenmmovie> :CJ Entertainment 유튜브 (**폐쇄**)
-
-  - <https://www.youtube.com/user/CJENMMUSIC>: 유튜브 **CJENMMUSIC Official**
-
-  - <https://plus.google.com/+CJENMMUSIC>: 구글플러스 **CJENMMUSIC Official**
-
-  - <https://www.facebook.com/cjmusiclive>: 페이스북 페이지 **CJ E\&M MUSIC.LIVE**
-
-  - <https://twitter.com/CJMusicLive>: 트위터 **CJ E\&M MUSIC.LIVE**
-
 [분류:2010년 설립](https://ko.wikipedia.org/wiki/분류:2010년_설립 "wikilink") [분류:코스닥 상장 기업](https://ko.wikipedia.org/wiki/분류:코스닥_상장_기업 "wikilink") [분류:CJ의 이전 자회사](https://ko.wikipedia.org/wiki/분류:CJ의_이전_자회사 "wikilink") [분류:대한민국의 방송채널사용사업자](https://ko.wikipedia.org/wiki/분류:대한민국의_방송채널사용사업자 "wikilink") [분류:대한민국의 영화 제작사](https://ko.wikipedia.org/wiki/분류:대한민국의_영화_제작사 "wikilink") [분류:영화 배급사](https://ko.wikipedia.org/wiki/분류:영화_배급사 "wikilink") [분류:대한민국의 연예 기획사](https://ko.wikipedia.org/wiki/분류:대한민국의_연예_기획사 "wikilink") [분류:서울특별시의 기업](https://ko.wikipedia.org/wiki/분류:서울특별시의_기업 "wikilink") [분류:2018년 폐지](https://ko.wikipedia.org/wiki/분류:2018년_폐지 "wikilink")
 
 1.  <http://economy.hankooki.com/lpage/stock/201309/e2013092709165792480.htm>

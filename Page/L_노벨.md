@@ -17,16 +17,17 @@ L노벨 홈페이지는 아직까지 접속이 불가능하고 공식 카페를 
   - [가상영역의 엘리시온](https://ko.wikipedia.org/wiki/가상영역의_엘리시온 "wikilink")(3권)
   - [검의 여왕과 낙인의 아이](../Page/검의_여왕과_낙인의_아이.md "wikilink")(8권)
   - [고백 예행연습](https://ko.wikipedia.org/wiki/고백_예행연습 "wikilink")(6권)
-  - [곰 곰 곰 베어](https://ko.wikipedia.org/wiki/곰_곰_곰_베어 "wikilink")(9권)
+  - [곰 곰 곰 베어](https://ko.wikipedia.org/wiki/곰_곰_곰_베어 "wikilink")(11권)
   - [금색의 문자술사](https://ko.wikipedia.org/wiki/금색의_문자술사 "wikilink")(8권)
       - 외전(1권)
   - \[\[꽝_스킬_\[지도화\]를_손에_넣은_소년은_최강_파티와_함께_던전에_도전한다|꽝 스킬 \[지도화\]를 손에 넣은 소년은 최강 파티와 함께 던전에 도전한다\]\] (2권)
+  - [꿰뚫린 전장은 거기서 사라져라](https://ko.wikipedia.org/wiki/꿰뚫린_전장은_거기서_사라져라 "wikilink") (1권)
   - [나 meet 리틀 데빌\!](https://ko.wikipedia.org/wiki/나_meet_리틀_데빌! "wikilink") (3권)
   - [나는 아직 사랑에 빠지지 않았다](https://ko.wikipedia.org/wiki/나는_아직_사랑에_빠지지_않았다 "wikilink") (4권)
   - [나와 이치노의 게임동호회 활동일지](https://ko.wikipedia.org/wiki/나와_이치노의_게임동호회_활동일지 "wikilink")(11권)
   - [너를 잊는 법을 가르쳐 줘](https://ko.wikipedia.org/wiki/너를_잊는_법을_가르쳐_줘 "wikilink")(2권)
   - [노노메메, 하트 브레이크](https://ko.wikipedia.org/wiki/노노메메,_하트_브레이크 "wikilink")(3권)
-  - [녹을 먹는 비스코](https://ko.wikipedia.org/wiki/녹을_먹는_비스코 "wikilink") (2권)
+  - [녹을 먹는 비스코](https://ko.wikipedia.org/wiki/녹을_먹는_비스코 "wikilink") (3권)
   - [농림](../Page/농림.md "wikilink")(13권)
   - [니트 흡혈귀, 에토 씨](https://ko.wikipedia.org/wiki/니트_흡혈귀,_에토_씨 "wikilink") (2권)
   - [단칸방의 침략자\!?](https://ko.wikipedia.org/wiki/단칸방의_침략자!? "wikilink")(27권+외전2권(7.5, 8.5)
@@ -34,12 +35,10 @@ L노벨 홈페이지는 아직까지 접속이 불가능하고 공식 카페를 
   - [당신이 사는 마을의 도시전귀\!](https://ko.wikipedia.org/wiki/당신이_사는_마을의_도시전귀! "wikilink")(3권)
   - [대영웅이 무직인 게 뭐가 나빠](https://ko.wikipedia.org/wiki/대영웅이_무직인_게_뭐가_나빠 "wikilink")(3권)
   - [덜떨어진 마수연마사](https://ko.wikipedia.org/wiki/덜떨어진_마수연마사 "wikilink")(6권)
-  - [데스마치에서 시작되는 이세계 광상곡](https://ko.wikipedia.org/wiki/데스마치에서_시작되는_이세계_광상곡 "wikilink") (17권)
+  - [데스마치에서 시작되는 이세계 광상곡](https://ko.wikipedia.org/wiki/데스마치에서_시작되는_이세계_광상곡 "wikilink") (18권)
       - 데스마치에서 시작되는 이세계 광상곡 EX
-  - [데이트 어 라이브](../Page/데이트_어_라이브.md "wikilink")(21권)
-      - 데이트 어 라이브 앙코르 (9권)
-      - 데이트 어 라이브 머테리얼
-      - 데이트 어 불릿 (5권)
+  - 데이트 어 라이브
+      - 데이트 어 불릿 (6권)
   - [도쿄침역 : 클로즈드 에덴](https://ko.wikipedia.org/wiki/도쿄침역_:_클로즈드_에덴 "wikilink") (3권)
   - [도쿄황제☆호죠렌카](https://ko.wikipedia.org/wiki/도쿄황제☆호죠렌카 "wikilink")(9권)
   - [돈은 패자를 돌고 도는것](https://ko.wikipedia.org/wiki/돈은_패자를_돌고_도는것 "wikilink")(2권)
@@ -51,7 +50,7 @@ L노벨 홈페이지는 아직까지 접속이 불가능하고 공식 카페를 
       - 러브라이브\! School idol diary \~가을 학원제♪\~
       - 러브라이브\! School idol diary \~μ's의 크리스마스 \~
   - [럭키 찬스\!](https://ko.wikipedia.org/wiki/럭키_찬스! "wikilink")(10권)
-  - [레전드](https://ko.wikipedia.org/wiki/레전드 "wikilink")(6권)
+  - [레전드](https://ko.wikipedia.org/wiki/레전드 "wikilink")(7권)
   - [마계로 소환되어 가정교사?\!](https://ko.wikipedia.org/wiki/마계로_소환되어_가정교사?! "wikilink")(3권)
   - [마왕이 너무 많은 세상에 고한다](https://ko.wikipedia.org/wiki/마왕이_너무_많은_세상에_고한다 "wikilink")(2권)
   - [마학의 패왕과 과법의 총희](https://ko.wikipedia.org/wiki/마학의_패왕과_과법의_총희 "wikilink") (2권)
@@ -61,10 +60,10 @@ L노벨 홈페이지는 아직까지 접속이 불가능하고 공식 카페를 
   - [바케라노\!](https://ko.wikipedia.org/wiki/바케라노! "wikilink")(2권)
   - [발키리웍스](https://ko.wikipedia.org/wiki/발키리웍스 "wikilink")(4권)
   - [방과후 사중주](https://ko.wikipedia.org/wiki/방과후_사중주 "wikilink")(3권)
-  - [방과 후, 이세계 카페에서 커피를](https://ko.wikipedia.org/wiki/방과_후,_이세계_카페에서_커피를 "wikilink") (2권)
-  - [백수, 마왕의 모습으로 이세계에](https://ko.wikipedia.org/wiki/백수,_마왕의_모습으로_이세계에 "wikilink")(6권)
+  - [방과 후, 이세계 카페에서 커피를](https://ko.wikipedia.org/wiki/방과_후,_이세계_카페에서_커피를 "wikilink") (3권)
+  - [백수, 마왕의 모습으로 이세계에](https://ko.wikipedia.org/wiki/백수,_마왕의_모습으로_이세계에 "wikilink")(7권)
   - [변변찮은 마술강사와 금기교전](https://ko.wikipedia.org/wiki/변변찮은_마술강사와_금기교전 "wikilink") (15권)
-      - 변변찮은 마술강사와 추상일지 4권
+      - 변변찮은 마술강사와 추상일지 5권
   - [사사미양@노력하지않아](https://ko.wikipedia.org/wiki/사사미양@노력하지않아 "wikilink")(9권)
   - [사신공주의 재혼](https://ko.wikipedia.org/wiki/사신공주의_재혼 "wikilink")(8권)
   - [사쿠라 패밀리어\!](https://ko.wikipedia.org/wiki/사쿠라_패밀리어! "wikilink")(3권)
@@ -81,51 +80,53 @@ L노벨 홈페이지는 아직까지 접속이 불가능하고 공식 카페를 
       - 시원찮은 그녀를 위한 육성방법 FD (2권)
   - [신기소녀는 사랑을 하는가?](https://ko.wikipedia.org/wiki/신기소녀는_사랑을_하는가? "wikilink") (2권)
   - [신참 사장의 퍼펙트 게임](https://ko.wikipedia.org/wiki/신참_사장의_퍼펙트_게임 "wikilink")(3권)
-  - [신화 전설이 된 영웅의 이세계담](https://ko.wikipedia.org/wiki/신화_전설이_된_영웅의_이세계담 "wikilink") (8권)
-  - [아라포 현자의 이세계 생활 일기](https://ko.wikipedia.org/wiki/아라포_현자의_이세계_생활_일기 "wikilink") (6권)
+  - [신화 전설이 된 영웅의 이세계담](https://ko.wikipedia.org/wiki/신화_전설이_된_영웅의_이세계담 "wikilink") (9권)
+  - [아라포 현자의 이세계 생활 일기](https://ko.wikipedia.org/wiki/아라포_현자의_이세계_생활_일기 "wikilink") (7권)
   - [아빠는 영웅, 엄마는 정령, 딸인 나는 전생자.](https://ko.wikipedia.org/wiki/아빠는_영웅,_엄마는_정령,_딸인_나는_전생자. "wikilink") (2권)
   - [악성소녀](https://ko.wikipedia.org/wiki/악성소녀 "wikilink")(3권)
   - [악역 영애는 가문의 몰락을 꿈꾼다](https://ko.wikipedia.org/wiki/악역_영애는_가문의_몰락을_꿈꾼다 "wikilink")(2권)
   - [엔젤 페스타\!](https://ko.wikipedia.org/wiki/엔젤_페스타! "wikilink")(3권)
   - [엘프 전생으로 시작한 치트 건국기](https://ko.wikipedia.org/wiki/엘프_전생으로_시작한_치트_건국기 "wikilink")(3권)
   - [여기에서 탈출하고 싶다면 서로 사랑하라](https://ko.wikipedia.org/wiki/여기에서_탈출하고_싶다면_서로_사랑하라 "wikilink") (4권)
-  - [여동생만 있으면 돼.](https://ko.wikipedia.org/wiki/여동생만_있으면_돼. "wikilink") (13권)
   - [열등용사의 귀축미학](https://ko.wikipedia.org/wiki/열등용사의_귀축미학 "wikilink")(11권)
   - [오늘의 기사 미로쿠](https://ko.wikipedia.org/wiki/오늘의_기사_미로쿠 "wikilink")(6권)
-  - [온라인 게임의 신부는 여자아이가 아니라고 생각한 거야?](../Page/온라인_게임의_신부는_여자아이가_아니라고_생각한_거야?.md "wikilink") (16권)
-  - [우리 집 더부살이가 세계를 장악하고 있다\!](https://ko.wikipedia.org/wiki/우리_집_더부살이가_세계를_장악하고_있다! "wikilink")(14권+3.5)
+  - [온라인 게임의 신부는 여자아이가 아니라고 생각한 거야?](../Page/온라인_게임의_신부는_여자아이가_아니라고_생각한_거야?.md "wikilink") (17권)
+  - [우리 집 더부살이가 세계를 장악하고 있다\!](https://ko.wikipedia.org/wiki/우리_집_더부살이가_세계를_장악하고_있다! "wikilink")(15권+3.5)
   - [월드 오더](https://ko.wikipedia.org/wiki/월드_오더 "wikilink") (4권)
   - [이 멋진 세계에 축복을\!](../Page/이_멋진_세계에_축복을!.md "wikilink")(16권)
       - 이 멋진 세계에 폭염을\!(3권)
       - 이 가면 악마에게 상담을\!
       - 속 이 멋진 세계에 폭염을\! (2권)
       - 저 어리석은 자에게도 각광을\! (5권)
-  - [이세계 치트 마술사](../Page/이세계_치트_마술사.md "wikilink")(6권)
+      - 이 멋진 세계에 축복을\! 요리미치\!
+  - [이세계 치트 마술사](../Page/이세계_치트_마술사.md "wikilink")(7권)
   - [인생](https://ko.wikipedia.org/wiki/인생 "wikilink") (10권)
       - 인생 엑스트라
   - [일반공격이 전체공격에 2회 공격인 엄마는 좋아하세요?](https://ko.wikipedia.org/wiki/일반공격이_전체공격에_2회_공격인_엄마는_좋아하세요? "wikilink") (6권)
   - [잘 가거라 용생, 어서 와라 인생](https://ko.wikipedia.org/wiki/잘_가거라_용생,_어서_와라_인생 "wikilink")(8권)
   - [전직의 신전을 열었습니다](https://ko.wikipedia.org/wiki/전직의_신전을_열었습니다 "wikilink") (3권)
-  - [진화의 열매](https://ko.wikipedia.org/wiki/진화의_열매 "wikilink") (6권)
+  - [진화의 열매](https://ko.wikipedia.org/wiki/진화의_열매 "wikilink") (7권)
   - [중고라도 사랑이 하고 싶어\!](../Page/중고라도_사랑이_하고_싶어!.md "wikilink") (12권)
   - [창강의 모독자](https://ko.wikipedia.org/wiki/창강의_모독자 "wikilink")(3권)
   - [창구의 라피스 라줄리](https://ko.wikipedia.org/wiki/창구의_라피스_라줄리 "wikilink")(7권)
-  - [청춘 돼지 시리즈](../Page/청춘_돼지_시리즈.md "wikilink")(9권)
+  - [청춘 돼지 시리즈](../Page/청춘_돼지_시리즈.md "wikilink")(10권)
   - [청춘 레리어트\!\!](https://ko.wikipedia.org/wiki/청춘_레리어트!! "wikilink")(5권)
   - [최약무패의 신장기룡](../Page/최약무패의_신장기룡.md "wikilink")(14권)
   - [츠키츠키](https://ko.wikipedia.org/wiki/츠키츠키 "wikilink")(12권)
+  - [친구 여동생이 나에게만 짜증나게 군다](https://ko.wikipedia.org/wiki/친구_여동생이_나에게만_짜증나게_군다 "wikilink") (1권)
   - [칼리](https://ko.wikipedia.org/wiki/칼리_\(소설\) "wikilink")(2권)
   - [쿠다미미의 고양이](https://ko.wikipedia.org/wiki/쿠다미미의_고양이 "wikilink")(4권)
   - [쿨데레인 그녀와 키스 하고싶다](https://ko.wikipedia.org/wiki/쿨데레인_그녀와_키스_하고싶다 "wikilink")(2권)
   - [페어리 렌서 F](https://ko.wikipedia.org/wiki/페어리_렌서_F "wikilink")(1권)
   - [피학의 노엘](https://ko.wikipedia.org/wiki/피학의_노엘 "wikilink") (2권)
   - [크레이지 시리즈](https://ko.wikipedia.org/wiki/크레이지_시리즈 "wikilink")(2권)
-  - [프리 라이프](https://ko.wikipedia.org/wiki/프리_라이프 "wikilink") (3권)
-  - [현자의 검](https://ko.wikipedia.org/wiki/현자의_검 "wikilink") (4권)
-  - [현자의 손자](https://ko.wikipedia.org/wiki/현자의_손자 "wikilink") (7권)
+  - [프리 라이프](https://ko.wikipedia.org/wiki/프리_라이프 "wikilink") (4권)
+  - [현자의 검](https://ko.wikipedia.org/wiki/현자의_검 "wikilink") (5권)
+  - [현자의 손자](https://ko.wikipedia.org/wiki/현자의_손자 "wikilink") (8권)
   - [흐레스벨그 익시드](https://ko.wikipedia.org/wiki/흐레스벨그_익시드 "wikilink")(5권)
   - [흔해빠진 직업으로 세계 최강](https://ko.wikipedia.org/wiki/흔해빠진_직업으로_세계_최강 "wikilink") (10권)
       - 흔해빠진 직업으로 세계 최강 제로 (3권)
+      - 단편집
   - [흔들흔들 일렁이는 바다 저편](https://ko.wikipedia.org/wiki/흔들흔들_일렁이는_바다_저편 "wikilink")(8권)
 
 ### 완결
@@ -188,6 +189,11 @@ L노벨 홈페이지는 아직까지 접속이 불가능하고 공식 카페를 
   - [파우스트의 악몽](https://ko.wikipedia.org/wiki/파우스트의_악몽 "wikilink")
   - [검사를 목표로 입학했는데 마법 적성 9999라고요?](https://ko.wikipedia.org/wiki/검사를_목표로_입학했는데_마법_적성_9999라고요? "wikilink")\! (8권)
   - [역시 내 청춘 러브코메디는 잘못됐다](https://ko.wikipedia.org/wiki/역시_내_청춘_러브코메디는_잘못됐다 "wikilink")(14권+외전3권(7.5, 6.5, 10.5))
+  - [딘의 문장](https://ko.wikipedia.org/wiki/딘의_문장 "wikilink")(6권)
+  - [데이트 어 라이브](../Page/데이트_어_라이브.md "wikilink")(22권)
+      - 데이트 어 라이브 앙코르 (9권)
+      - 데이트 어 라이브 머테리얼
+  - [여동생만 있으면 돼.](https://ko.wikipedia.org/wiki/여동생만_있으면_돼. "wikilink") (14권)
 
 ### 단권
 
@@ -210,20 +216,25 @@ L노벨 홈페이지는 아직까지 접속이 불가능하고 공식 카페를 
   - [유메닛키](https://ko.wikipedia.org/wiki/유메닛키 "wikilink")
   - [클로에의 레퀴엠 infinito](https://ko.wikipedia.org/wiki/클로에의_레퀴엠_infinito "wikilink")
   - [연애재판](https://ko.wikipedia.org/wiki/연애재판 "wikilink")
-  - [딘의 문장](https://ko.wikipedia.org/wiki/딘의_문장 "wikilink")(6권)
+  - [누가 좀비를 죽였는가](https://ko.wikipedia.org/wiki/누가_좀비를_죽였는가 "wikilink")
 
 ### L북스
 
   - [거미입니다만, 문제라도?](https://ko.wikipedia.org/wiki/거미입니다만,_문제라도? "wikilink") (12권)
   - [이세계 식당](https://ko.wikipedia.org/wiki/이세계_식당 "wikilink") (5권)
-  - [고블린 슬레이어](../Page/고블린_슬레이어.md "wikilink") (11권)
+  - [고블린 슬레이어](../Page/고블린_슬레이어.md "wikilink") (12권)
       - 고블린 슬레이어 외전: 이어 원 (2권)
+      - 외전2 : 악명의 태도
   - [우로보로스 레코드](https://ko.wikipedia.org/wiki/우로보로스_레코드 "wikilink") (3권)
-  - [치유마법의 잘못된 사용법](https://ko.wikipedia.org/wiki/치유마법의_잘못된_사용법 "wikilink")(8권)
+  - [치유마법의 잘못된 사용법](https://ko.wikipedia.org/wiki/치유마법의_잘못된_사용법 "wikilink")(9권)
   - [최하위 직업에서 최강까지 출세하다](https://ko.wikipedia.org/wiki/최하위_직업에서_최강까지_출세하다 "wikilink")(3권)
   - [두 번째 용사는 복수의 길을 웃으며 걷는다](https://ko.wikipedia.org/wiki/두_번째_용사는_복수의_길을_웃으며_걷는다 "wikilink")(7권)
-  - [모험가가 되고 싶다며 도시로 떠났던 딸이 S랭크가 되었다](https://ko.wikipedia.org/wiki/모험가가_되고_싶다며_도시로_떠났던_딸이_S랭크가_되었다 "wikilink")(5권)
+  - [모험가가 되고 싶다며 도시로 떠났던 딸이 S랭크가 되었다](https://ko.wikipedia.org/wiki/모험가가_되고_싶다며_도시로_떠났던_딸이_S랭크가_되었다 "wikilink")(6권)
   - [Hello Hello and Hello](https://ko.wikipedia.org/wiki/Hello_Hello_and_Hello "wikilink") (2권)
+  - [세계 최고의 암살자, 이세계 귀족으로 전생하다](https://ko.wikipedia.org/wiki/세계_최고의_암살자,_이세계_귀족으로_전생하다 "wikilink") (2권)
+  - [전 세계 1위의 서브 캐릭터 육성 일기](https://ko.wikipedia.org/wiki/전_세계_1위의_서브_캐릭터_육성_일기 "wikilink") (2권)
+  - [모험가 자격을 박탈당한 아저씨지만, 사랑하는 딸이 생겨서 인생을 느긋이 즐긴다](https://ko.wikipedia.org/wiki/모험가_자격을_박탈당한_아저씨지만,_사랑하는_딸이_생겨서_인생을_느긋이_즐긴다 "wikilink") (2권)
+  - [기후마법의 올바른 사용법](https://ko.wikipedia.org/wiki/기후마법의_올바른_사용법 "wikilink") (1권)
 
 ### 완결
 
@@ -246,22 +257,10 @@ L노벨 홈페이지는 아직까지 접속이 불가능하고 공식 카페를 
 ### SL코믹
 
   - [아침까지 수업Chu\!](https://ko.wikipedia.org/wiki/아침까지_수업Chu! "wikilink")(3권)
-  - 아지랑이 데이즈(12권)
-      - 공식 앤솔로지 코믹 UPPER
-      - 공식 앤솔로지 코믹 DOWNER
-      - 공식 앤솔로지 코믹 SUMMER
-      - 공식 앤솔로지 코믹 WINTER
-      - 공식 앤솔로지 코믹 SPRING
-      - 공식 앤솔로지 코믹 BITTER
-      - 공식 앤솔로지 SWEET
-      - 공식 앤솔로지 SPICY
-      - 공식 앤솔로지 FANTASY
-      - 공식 앤솔로지 REMEMBER
-      - 앤솔로지 FUTURE
   - 러브라이브\!(3권)
   - [초차원 게임 넵튠 THE ANIMATION 헬로 뉴 월드](https://ko.wikipedia.org/wiki/초차원_게임_넵튠_THE_ANIMATION_헬로_뉴_월드 "wikilink") (1권)
   - 러브라이브\! School idol diary (4권)
-  - 이 멋진 세계에 축복을\! (9권)
+  - 이 멋진 세계에 축복을\! (10권)
       - 코믹 앤솔로지
       - 이 멋진 세계에 일상을\! (2권)
       - 이 멋진 세계에 축복을\! 메구밍 앤솔로지
@@ -271,7 +270,7 @@ L노벨 홈페이지는 아직까지 접속이 불가능하고 공식 카페를 
       - 이 가면 악마에게 상담을\! (2권)
   - 러브라이브\! School idol project (5권)
   - [두근두근 시스터 아오이](https://ko.wikipedia.org/wiki/두근두근_시스터_아오이 "wikilink") (1권)
-  - 데스마치에서 시작되는 이세계 광상곡 (6권)
+  - 데스마치에서 시작되는 이세계 광상곡 (7권)
   - [니르바나](https://ko.wikipedia.org/wiki/니르바나 "wikilink")(4권)
   - [살육의 천사](../Page/살육의_천사.md "wikilink") (10권)
       - 살천\! (3권)
@@ -282,34 +281,32 @@ L노벨 홈페이지는 아직까지 접속이 불가능하고 공식 카페를 
   - [레드나이트 이브](https://ko.wikipedia.org/wiki/레드나이트_이브 "wikilink") (3권)
   - 변변찮은 마술강사와 금기교전(10권)
   - 우리 딸을 위해서라면, 나는 마왕도 쓰러뜨릴 수 있을지 몰라.(4권)
-  - 고블린 슬레이어(6권)
-      - 고블린 슬레이어 외전: 이어 원 (3권)
-  - [페르소나4](https://ko.wikipedia.org/wiki/페르소나4 "wikilink")(9권)
+  - 고블린 슬레이어(9권)
+      - 고블린 슬레이어 외전: 이어 원 (5권)
+  - [페르소나4](https://ko.wikipedia.org/wiki/페르소나4 "wikilink")(10권)
   - [fate/stay night](https://ko.wikipedia.org/wiki/fate/stay_night "wikilink") \[Heaven's Feel\](7권)
   - 러브라이브\! 선샤인\!\! (3권)
   - 흔해빠진 직업으로 세계최강(5권)
-      - 흔해빠진 일상에서 세계최강 (2권)
+      - 흔해빠진 일상에서 세계최강 (3권)
       - 흔해빠진 일상에서 세계최강 제로 (2권)
   - 러브라이브\! Scool idol diary 세컨드 시즌 (3권)
-  - 현자의 손자 (6권)
+  - 현자의 손자 (7권)
   - 거미입니다만, 문제라도? (6권)
   - 온라인 게임의 신부는 여자아이가 아니라고 생각한 거야?(7권)
-  - [그 아이돌 흡혈귀에 관하여](https://ko.wikipedia.org/wiki/그_아이돌_흡혈귀에_관하여 "wikilink") (2권)
   - [펭귄 하이웨이](../Page/펭귄_하이웨이.md "wikilink") (2권)
   - 청춘 돼지는 바니걸 선배의 꿈을 꾸지 않는다 (2권)
-  - [현실의 여친은 필요 없어\!](https://ko.wikipedia.org/wiki/현실의_여친은_필요_없어! "wikilink")(3권)
-  - [꼬마곰의 케이크 가게](https://ko.wikipedia.org/wiki/꼬마곰의_케이크_가게 "wikilink")(3권)
+  - [현실의 여친은 필요 없어\!](https://ko.wikipedia.org/wiki/현실의_여친은_필요_없어! "wikilink")(4권)
+  - [꼬마곰의 케이크 가게](https://ko.wikipedia.org/wiki/꼬마곰의_케이크_가게 "wikilink")(4권)
   - [아저씨와 고양이](https://ko.wikipedia.org/wiki/아저씨와_고양이 "wikilink")(3권)
   - [Home, Honey Home](https://ko.wikipedia.org/wiki/Home,_Honey_Home "wikilink") (3권)
-  - 곰 곰 곰 베어 (1권)
+  - 곰 곰 곰 베어 (2권)
   - 치유마법의 잘못된 사용법 (3권)
-  - 역시 내 청춘 러브코메디는 잘못됐다. 망언록 (14권)
+  - 역시 내 청춘 러브코메디는 잘못됐다. 망언록 (16권)
   - 이세계 치트 마술사 (2권)
   - 시원찮은 그녀를 위한 육성방법 GS (1권)
-  - 모험가가 되고 싶다며 도시로 떠났던 딸이 S랭크가 되었다 (1권)
+  - 모험가가 되고 싶다며 도시로 떠났던 딸이 S랭크가 되었다 (2권)
   - [소녀전선](../Page/소녀전선.md "wikilink") 앤솔로지 (3권)
-  - [너는 달밤에 빛나고](https://ko.wikipedia.org/wiki/너는_달밤에_빛나고 "wikilink") (1권)
-  - 피학의 노엘 (2권)
+  - 피학의 노엘 (3권)
   - 청춘 돼지는 소악마 후배의 꿈을 꾸지 않는다 (2권)
   - 이세계 식당 (1권)
 
@@ -322,10 +319,24 @@ L노벨 홈페이지는 아직까지 접속이 불가능하고 공식 카페를 
   - 이 멋진 세계에 폭염을\!(5권)
   - 시원찮은 그녀를 위한 육성방법 사랑에 빠진 메트로놈 (10권)
   - 시원찮은 그녀를 위한 육성방법 (8권)
+  - [너는 달밤에 빛나고](https://ko.wikipedia.org/wiki/너는_달밤에_빛나고 "wikilink") (2권)
+  - [그 아이돌 흡혈귀에 관하여](https://ko.wikipedia.org/wiki/그_아이돌_흡혈귀에_관하여 "wikilink") (3권)
+  - 아지랑이 데이즈(13권)
+      - 공식 앤솔로지 코믹 UPPER
+      - 공식 앤솔로지 코믹 DOWNER
+      - 공식 앤솔로지 코믹 SUMMER
+      - 공식 앤솔로지 코믹 WINTER
+      - 공식 앤솔로지 코믹 SPRING
+      - 공식 앤솔로지 코믹 BITTER
+      - 공식 앤솔로지 SWEET
+      - 공식 앤솔로지 SPICY
+      - 공식 앤솔로지 FANTASY
+      - 공식 앤솔로지 REMEMBER
+      - 앤솔로지 FUTURE
 
 ## 외부 링크
 
-  - [L 노벨 홈페이지](http://www.lnovel.co.kr/)
+  - [L 노벨 홈페이지](https://web.archive.org/web/20100722094945/http://www.lnovel.co.kr/)
   - [공식 카페](http://cafe.naver.com/lnovel11)
   - [디앤씨미디어의 L 노벨 소개](https://web.archive.org/web/20160304091401/http://dncmedia.co.kr/dnc/dnc_b03)
 

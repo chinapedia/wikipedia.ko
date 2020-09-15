@@ -9,14 +9,14 @@
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Chicago_L_diagram_sb.svg "wikilink")
 
-  - [레드 선](https://ko.wikipedia.org/wiki/레드_선_\(시카고\) "wikilink")
-  - [블루 선](https://ko.wikipedia.org/wiki/블루_선_\(시카고\) "wikilink")
-  - [브라운 선](https://ko.wikipedia.org/wiki/브라운_선_\(시카고\) "wikilink")
-  - [그린 선](https://ko.wikipedia.org/wiki/그린_선_\(시카고\) "wikilink")
-  - [오렌지 선](https://ko.wikipedia.org/wiki/오렌지_선_\(시카고\) "wikilink")
-  - [퍼플 선](https://ko.wikipedia.org/wiki/퍼플_선_\(시카고\) "wikilink")
-  - [핑크 선](https://ko.wikipedia.org/wiki/핑크_선_\(시카고\) "wikilink")
-  - [옐로 선](https://ko.wikipedia.org/wiki/옐로_선_\(시카고\) "wikilink")
+  - [레드 선](https://ko.wikipedia.org/wiki/레드_라인_\(CTA\) "wikilink")
+  - [블루 선](../Page/블루_라인_\(CTA\).md "wikilink")
+  - [브라운 선](https://ko.wikipedia.org/wiki/브라운_라인_\(CTA\) "wikilink")
+  - [그린 선](https://ko.wikipedia.org/wiki/그린_라인_\(CTA\) "wikilink")
+  - [오렌지 선](https://ko.wikipedia.org/wiki/오렌지_라인_\(CTA\) "wikilink")
+  - [퍼플 선](https://ko.wikipedia.org/wiki/퍼플_라인_\(CTA\) "wikilink")
+  - [핑크 선](https://ko.wikipedia.org/wiki/핑크_라인_\(CTA\) "wikilink")
+  - [옐로 선](https://ko.wikipedia.org/wiki/옐로_라인_\(CTA\) "wikilink")
   - [더 루프](https://ko.wikipedia.org/wiki/더_루프 "wikilink") (브라운, 그린, 오렌지, 핑크, 퍼플 선이 겹쳐 운행되는 도심 순환구간)
 
 ## 각주

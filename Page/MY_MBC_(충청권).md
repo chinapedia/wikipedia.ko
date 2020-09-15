@@ -20,8 +20,8 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>MY MBC</p></td>
-<td><p>my MBC 11</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/MY_MBC" title="wikilink">MY MBC</a></p></td>
+<td><p>MY MBC 11</p></td>
 <td><p>비디오 채널<br />
 (DMB)</p></td>
 <td><p>자체</p></td>
@@ -43,7 +43,7 @@
 
 ### 비디오채널
 
-  - my MBC 11
+  - MY MBC 11
 
 <!-- end list -->
 
@@ -100,9 +100,5 @@
   - [대한민국의 지상파DMB](https://ko.wikipedia.org/wiki/대한민국의_지상파DMB "wikilink")
   - [U-KBS](../Page/U-KBS.md "wikilink")
   - [TJB u](../Page/TJB_u.md "wikilink")
-
-## 외부 링크
-
-  - [my MBC11 편성표](https://web.archive.org/web/20170805103547/http://www.tjmbc.co.kr/0902)
 
 [분류:문화방송계열 방송국](https://ko.wikipedia.org/wiki/분류:문화방송계열_방송국 "wikilink") [분류:2007년 설립된 텔레비전 방송국과 채널](https://ko.wikipedia.org/wiki/분류:2007년_설립된_텔레비전_방송국과_채널 "wikilink")

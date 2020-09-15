@@ -7,11 +7,11 @@
 
 2005년 12월 31일 [바이어컴](https://ko.wikipedia.org/wiki/바이어컴 "wikilink")에서 [파라마운트 픽쳐스](../Page/파라마운트_픽쳐스.md "wikilink"), [바이어컴 미디어 네트웍스](https://ko.wikipedia.org/wiki/바이어컴_미디어_네트웍스 "wikilink") 등을 회사 분할을 발표하여, 회사명이 CBS 코퍼레이션으로 변경되었다.
 
-그러다가 14년 후 2019년 12월 4일, 다시 바이어컴과 합병되어 [바이어컴CBS](https://ko.wikipedia.org/wiki/바이어컴CBS "wikilink")가 되었다.\[1\]\[2\]
+그러다가 14년 후 2019년 12월 4일, 다시 바이어컴과 합병되어 [바이어컴CBS](../Page/바이어컴CBS.md "wikilink")가 되었다.\[1\]\[2\]
 
 ## 같이 보기
 
-  - [바이어컴CBS](https://ko.wikipedia.org/wiki/바이어컴CBS "wikilink")
+  - [바이어컴CBS](../Page/바이어컴CBS.md "wikilink")
 
 ## 각주
 

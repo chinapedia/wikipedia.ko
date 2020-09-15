@@ -136,6 +136,7 @@
     J01DC09 [Cefmetazole](https://ko.wikipedia.org/wiki/Cefmetazole "wikilink")
     J01DC10 [Cefprozil](https://ko.wikipedia.org/wiki/Cefprozil "wikilink")
     J01DC11 [Ceforanide](https://ko.wikipedia.org/wiki/Ceforanide "wikilink")
+    J01DC14 Flomoxef
 
 ### J01DD 3세대 세팔로스포린계
 

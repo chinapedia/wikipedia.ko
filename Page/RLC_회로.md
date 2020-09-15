@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [RLC 회로](https://ko.wikipedia.org/wiki/RLC_회로).
 
 
-[thumb](https://ko.wikipedia.org/wiki/파일:RLC_series.png "wikilink")
+## RLC 회로의 구성. 저항기, 인덕터와 축전기
 
 **RLC 회로**는 [전기 회로중](../Page/전기_회로.md "wikilink") [저항](https://ko.wikipedia.org/wiki/저항 "wikilink"), [코일](../Page/코일.md "wikilink"), [축전기](../Page/축전기.md "wikilink")로 이루어진 회로이다. 이 회로는 교류가 흐르면서 시간에 따라 전류의 세기와 방향이 변해도 각 순간마다 회로의 모든 점에서 흐르는 전류가 동일하다. 여기서 전압과 회로에 전류의 비로 나타나지는 회로 전체의 저항 효과를 임피던스라고 하며, 전류 회로에서의 합성저항과 비슷한 개념으로 사용되고 있다.
 

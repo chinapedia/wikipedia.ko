@@ -1,19 +1,19 @@
 > This article is converted from Wikipedia: [JAL 웨이즈](https://ko.wikipedia.org/wiki/JAL_웨이즈).
 
 
-**JAL 웨이즈**(, ) [1990년](../Page/1990년.md "wikilink")에 **일본항공 전세**(, )로 설립되어 [2010년](../Page/2010년.md "wikilink") [일본항공인터내셔널](https://ko.wikipedia.org/wiki/일본항공인터내셔널 "wikilink")에 합병된 [일본](../Page/일본.md "wikilink")의 항공사로 [허브 공항은](../Page/허브_공항.md "wikilink") [나리타 국제공항](https://ko.wikipedia.org/wiki/나리타_국제공항 "wikilink"), [간사이 국제공항으로](https://ko.wikipedia.org/wiki/간사이_국제공항 "wikilink") 본사는 [지바현](../Page/지바현.md "wikilink") [나리타시](../Page/나리타시.md "wikilink")에 위치해 있었다.
+**JAL 웨이즈**(, ) [1990년](../Page/1990년.md "wikilink")에 **일본항공 전세**(, )로 설립되어 [2010년](../Page/2010년.md "wikilink") [일본항공](../Page/일본항공.md "wikilink")에 합병된 [일본](../Page/일본.md "wikilink")의 항공사로 [허브 공항은](../Page/허브_공항.md "wikilink") [나리타 국제공항](https://ko.wikipedia.org/wiki/나리타_국제공항 "wikilink"), [간사이 국제공항으로](https://ko.wikipedia.org/wiki/간사이_국제공항 "wikilink") 본사는 [지바현](../Page/지바현.md "wikilink") [나리타시](../Page/나리타시.md "wikilink")에 위치해 있었다.
 
 ## 역사
 
 [1990년](../Page/1990년.md "wikilink") 일본항공 전세로 설립 했으며 최초로 [후쿠오카](https://ko.wikipedia.org/wiki/후쿠오카 "wikilink") \~ [호놀룰루](../Page/호놀룰루.md "wikilink") 국제선 전세기를 취항했다. [1999년](../Page/1999년.md "wikilink")에 현재의 사명으로 변경했다.
 
-당시 [타이](https://ko.wikipedia.org/wiki/타이 "wikilink")에 훈련 거점을 두었고, [타이](https://ko.wikipedia.org/wiki/타이 "wikilink")의 승무원을 다수 채용하여 운항 비용을 낮출 수 다른 회사를 설립하고 큰 목표 중 하나 였지만, [타이](https://ko.wikipedia.org/wiki/타이 "wikilink") 사람을 채용한 것은 교육 수준이 높고 게다가 수준에 정평이 있는 것과 [일본](../Page/일본.md "wikilink")에서 많은 직항편이 취항하고, 승무원의 왕래가 쉽다는 장점이 있었다.
+당시 [태국](../Page/태국.md "wikilink")에 훈련 거점을 두었고, [태국](../Page/태국.md "wikilink")의 승무원을 다수 채용하여 운항 비용을 낮출 수 다른 회사를 설립하고 큰 목표 중 하나 였지만, [타이](https://ko.wikipedia.org/wiki/타이 "wikilink") 사람을 채용한 것은 교육 수준이 높고 게다가 수준에 정평이 있는 것과 [일본](../Page/일본.md "wikilink")에서 많은 직항편이 취항하고, 승무원의 왕래가 쉽다는 장점이 있었다.
 
-비용 절감에 공헌한에 [타이](https://ko.wikipedia.org/wiki/타이 "wikilink") 사람을 중심으로 한 서비스도 호평에서 후에 전세기뿐만 아니라 리조트 서비스가 실시되는 항공 리조트 노선을 중심으로 정기 항공편을 운항했다. 이후에 [필리핀](../Page/필리핀.md "wikilink") 승무원도 채용하게 되었다.
+비용 절감에 공헌한에 [태국](../Page/태국.md "wikilink") 사람을 중심으로 한 서비스도 호평에서 후에 전세기뿐만 아니라 리조트 서비스가 실시되는 항공 리조트 노선을 중심으로 정기 항공편을 운항했다. 이후에 [필리핀](../Page/필리핀.md "wikilink") 승무원도 채용하게 되었다.
 
-또한, JAL 웨이즈는 [2010년](../Page/2010년.md "wikilink") 시점의 승무원 제복 블라우스의 색이 황색으로 변경된 것은 [타이](https://ko.wikipedia.org/wiki/타이 "wikilink")에서 황색을 왕실 의 색깔일 때 이 색상의 옷을 착용하는 것 자체가 나라의 왕실에 경의를 나타내는 의미가 있기 때문에 굳이이 색깔을 선택했다란 소문이 있었다.
+또한, JAL 웨이즈는 [2010년](../Page/2010년.md "wikilink") 시점의 승무원 제복 블라우스의 색이 황색으로 변경된 것은 [태국](../Page/태국.md "wikilink")에서 황색을 왕실 의 색깔일 때 이 색상의 옷을 착용하는 것 자체가 나라의 왕실에 경의를 나타내는 의미가 있기 때문에 굳이이 색깔을 선택했다란 소문이 있었다.
 
-구조 조정의 일환으로 [2010년](../Page/2010년.md "wikilink") [12월 1일](../Page/12월_1일.md "wikilink") [일본항공인터내셔널](https://ko.wikipedia.org/wiki/일본항공인터내셔널 "wikilink")과 합병 되면서 사실상 소멸하게 되었다.
+구조 조정의 일환으로 [2010년](../Page/2010년.md "wikilink") [12월 1일](../Page/12월_1일.md "wikilink") [일본항공](../Page/일본항공.md "wikilink")과 합병 되면서 사실상 소멸하게 되었다.
 
 ## 운항 노선
 
@@ -48,15 +48,15 @@
 
 ### 기내 서비스
 
-JAL 웨이즈 항공편의 경우 [일본항공인터내셔널](https://ko.wikipedia.org/wiki/일본항공인터내셔널 "wikilink") 운항편의 기내 서비스에 따라하고, [일본항공인터내셔널](https://ko.wikipedia.org/wiki/일본항공인터내셔널 "wikilink") 항공편와 마찬가지로 퍼스트 클래스와 비즈니스 클래스 고급 수준의 서비스도 실시하고 있다. 비즈니스 클래스에서 [타이](https://ko.wikipedia.org/wiki/타이 "wikilink")인 승무원 많은 담당하고 [타이](https://ko.wikipedia.org/wiki/타이 "wikilink")인 승무원 밝은 접객 대응은 높은 평가를 받고있는 한편, 어려운 [일본어](../Page/일본어.md "wikilink")가 통하지 않거나 일부에서 매뉴얼대로 서비스 융통성 효과가 없는 것이 단점으로 지적했다. 또한, JAL 웨이즈의 항공편은 독자로 서비스를 제공하지 않는다.
+JAL 웨이즈 항공편의 경우 [일본항공](../Page/일본항공.md "wikilink") 운항편의 기내 서비스에 따라하고, [일본항공](../Page/일본항공.md "wikilink") 항공편와 마찬가지로 퍼스트 클래스와 비즈니스 클래스 고급 수준의 서비스도 실시하고 있다. 비즈니스 클래스에서 [태국](../Page/태국.md "wikilink")인 승무원 많은 담당하고 [택구](https://ko.wikipedia.org/wiki/택구 "wikilink")인 승무원 밝은 접객 대응은 높은 평가를 받고있는 한편, 어려운 [일본어](../Page/일본어.md "wikilink")가 통하지 않거나 일부에서 매뉴얼대로 서비스 융통성 효과가 없는 것이 단점으로 지적했다. 또한, JAL 웨이즈의 항공편은 독자로 서비스를 제공하지 않는다.
 
 JAL 웨이즈는 [일본항공](../Page/일본항공.md "wikilink")에서 파견 승무원이 많으며 국내 항공사와 외국계 항공사 승무원을 경험한 사람을 채용했다.
 
-승무원 채용 시험에 응시하는 사람에게도 인기 항공사로 알려져 있지만 영어권을 메인으로 한 국제선에 운항 또한 외국인 승무원과 섬세한 의사 소통이 필요하기 때문에 [일본항공인터내셔널](https://ko.wikipedia.org/wiki/일본항공인터내셔널 "wikilink")과 다른 국내 항공사보다 높은 어학 능력이 필요했다.
+승무원 채용 시험에 응시하는 사람에게도 인기 항공사로 알려져 있지만 영어권을 메인으로 한 국제선에 운항 또한 외국인 승무원과 섬세한 의사 소통이 필요하기 때문에 [일본항공](../Page/일본항공.md "wikilink")과 다른 국내 항공사보다 높은 어학 능력이 필요했다.
 
 ### 지상 서비스
 
-[일본항공인터내셔널](https://ko.wikipedia.org/wiki/일본항공인터내셔널 "wikilink") 항공편의 지상 서비스와 마찬가지로 JAL 웨이즈의 항공편은 독자적으로 서비스를 실지하지 않는다.
+[일본항공](../Page/일본항공.md "wikilink") 항공편의 지상 서비스와 마찬가지로 JAL 웨이즈의 항공편은 독자적으로 서비스를 실지하지 않는다.
 
 ## 사건 및 사고
 
@@ -70,7 +70,7 @@ JAL 웨이즈는 [일본항공](../Page/일본항공.md "wikilink")에서 파견
 ## 외부 링크
 
   -
-  - [일본 항공 홈페이지](http://www.jal.com)
+  - [일본 항공 홈페이지](https://web.archive.org/web/20170528035239/http://www.jal.com/)
 
   - [재즈파 홈페이지](https://web.archive.org/web/20080111185510/http://www.jazpa.org/)
 

@@ -52,7 +52,7 @@
 </tr>
 <tr class="odd">
 <td><p>2009년 10월 18일</p></td>
-<td><p><a href="../Page/상하이시.md" title="wikilink">상하이</a></p></td>
+<td><p><a href="../Page/상하이시.md" title="wikilink">상해</a></p></td>
 <td></td>
 <td><p>원심 체육관[4]</p></td>
 <td><p>12,354명</p></td>
@@ -73,21 +73,21 @@
 </tr>
 <tr class="even">
 <td><p>2009년 12월 12일</p></td>
-<td><p><a href="../Page/난징시.md" title="wikilink">난징</a></p></td>
+<td><p><a href="../Page/난징시.md" title="wikilink">남경</a></p></td>
 <td></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/난징_올림픽_스포츠_센터" title="wikilink">난징 올림픽 스포츠 센터</a>[6]</p></td>
 <td><p>13,172명</p></td>
 </tr>
 <tr class="odd">
 <td><p>2010년 1월 23일</p></td>
-<td><p><a href="../Page/베이징시.md" title="wikilink">베이징</a></p></td>
+<td><p><a href="../Page/베이징시.md" title="wikilink">북경</a></p></td>
 <td><p>우커송 농구장[7]</p></td>
 <td><p>12,426명</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2010년 2월 20일</p></td>
-<td><p><a href="../Page/타이베이시.md" title="wikilink">타이베이</a></p></td>
+<td><p><a href="../Page/타이베이시.md" title="wikilink">대북</a></p></td>
 <td></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/타이베이_아레나" title="wikilink">타이베이 아레나</a></p></td>
 <td><p>통산 24,582명</p></td>
@@ -101,9 +101,9 @@
 </tr>
 <tr class="even">
 <td><p>2010년 3월 6일</p></td>
-<td><p>상하이</p></td>
+<td><p>상해</p></td>
 <td></td>
-<td><p>상해 대무대</p></td>
+<td><p>상해 대무대 (앙코르)</p></td>
 <td><p>통산 24,136명</p></td>
 </tr>
 <tr class="odd">

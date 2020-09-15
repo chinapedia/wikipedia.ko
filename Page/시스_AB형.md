@@ -17,6 +17,6 @@
 
 <references/>
 
-[분류:혈액형](https://ko.wikipedia.org/wiki/분류:혈액형 "wikilink") [분류:유전학](https://ko.wikipedia.org/wiki/분류:유전학 "wikilink")
+[분류:혈액형](https://ko.wikipedia.org/wiki/분류:혈액형 "wikilink") [분류:유전학](https://ko.wikipedia.org/wiki/분류:유전학 "wikilink") [분류:수혈의학](https://ko.wikipedia.org/wiki/분류:수혈의학 "wikilink")
 
 1.  [AB형+O형=AB형? 희귀혈액형 'Cis-AB형' 발견](http://news.sbs.co.kr/section_news/news_read.jsp?news_id=N1000048201)

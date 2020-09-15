@@ -129,6 +129,6 @@
 4.
 5.  [ZTE Open opens up Firefox OS (hands-on)](http://reviews.cnet.com/smartphones/zte-open/4505-6452_7-35619081.html?autoplay=true),≪[CNET](http://www.cnet.com/)≫,2013년 7월 8일 확인
 6.  [Alcatel One Touch Fire: Hands-on with the first Firefox phone](http://reviews.cnet.com/smartphones/alcatel-one-touch-fire/4505-6452_7-35619077.html?autoplay=true/),≪[CNET](http://www.cnet.com/)≫,2013년 7월 8일 확인
-7.  [파이어폭스 스마트폰 \`ZTE 오픈\` 출격](http://www.etnews.com/news/international/2791735_1496.html/),≪[전자신문](http://www.etnews.com/)≫,2013년 7월 8일 확인
+7.  [파이어폭스 스마트폰 \`ZTE 오픈\` 출격](http://www.etnews.com/news/international/2791735_1496.html/) ,≪[전자신문](http://www.etnews.com/)≫,2013년 7월 8일 확인
 8.
-9.  [1](https://www.mozilla.org/en-US/firefox/partners/),2015년 6월 28일 확인
+9.  [1](https://www.mozilla.org/en-US/firefox/partners/) ,2015년 6월 28일 확인

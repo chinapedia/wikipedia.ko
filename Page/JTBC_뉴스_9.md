@@ -55,9 +55,9 @@
 
 <references/>
 
-<references/>
+## 관련 프로그램
 
-  - [TBC 석간](../Page/TBC_석간.md "wikilink")(사실상의 전신인 뉴스 프로그램)
+  - [TBC 석간](../Page/TBC_석간.md "wikilink") (사실상의 전신인 뉴스 프로그램)
   - [JTBC 뉴스룸](../Page/JTBC_뉴스룸.md "wikilink")
 
 ## 외부 링크

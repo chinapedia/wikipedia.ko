@@ -55,6 +55,6 @@
 
 ## 외부 링크
 
-  - [CJ올리브네트웍스 홈페이지 바로가기](http://www.cjolivenetworks.co.kr/)
+  - [CJ올리브네트웍스 홈페이지 바로가기](https://web.archive.org/web/20160512014752/http://www.cjolivenetworks.co.kr/)
 
 [분류:대한민국의 IT 기업](https://ko.wikipedia.org/wiki/분류:대한민국의_IT_기업 "wikilink") [시스템즈](https://ko.wikipedia.org/wiki/분류:CJ의_자회사 "wikilink") [분류:대한민국의 물류 회사](https://ko.wikipedia.org/wiki/분류:대한민국의_물류_회사 "wikilink") [분류:1995년 설립](https://ko.wikipedia.org/wiki/분류:1995년_설립 "wikilink")

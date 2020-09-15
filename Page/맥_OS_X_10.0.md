@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [맥 OS X 10.0](https://ko.wikipedia.org/wiki/맥_OS_X_10.0).
 
 
-**맥 OS X 버전 10.0 치타**(Mac OS X v10.0 Cheetah)는 [맥 OS X의](https://ko.wikipedia.org/wiki/맥_OS_X "wikilink") 최초 주요 릴리즈로서, [애플의](https://ko.wikipedia.org/wiki/애플_\(기업\) "wikilink") 데스크톱 및 서버 [운영 체제이다](../Page/운영_체제.md "wikilink").
+**맥 OS X 버전 10.0 치타**(Mac OS X v10.0 Cheetah)는 [맥 OS X의](https://ko.wikipedia.org/wiki/맥_OS_X "wikilink") 최초 주요 릴리즈로서, [애플](../Page/애플.md "wikilink")의 데스크톱 및 서버 [운영 체제이다](../Page/운영_체제.md "wikilink").
 
 ## 시스템 요구 사항
 

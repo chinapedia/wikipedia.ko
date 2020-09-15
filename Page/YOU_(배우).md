@@ -27,6 +27,6 @@
 
 ## 외부 링크
 
-  - [소속사 프로필](http://www.circleline.co.jp/talent/index.html)
+  - [소속사 프로필](https://web.archive.org/web/20111217085203/http://www.circleline.co.jp/talent/index.html)
 
 [분류:1964년 태어남](https://ko.wikipedia.org/wiki/분류:1964년_태어남 "wikilink") [분류:살아있는 사람](https://ko.wikipedia.org/wiki/분류:살아있는_사람 "wikilink") [분류:일본의 여자 배우](https://ko.wikipedia.org/wiki/분류:일본의_여자_배우 "wikilink") [분류:일본의 작사가](https://ko.wikipedia.org/wiki/분류:일본의_작사가 "wikilink") [분류:도쿄도 출신](https://ko.wikipedia.org/wiki/분류:도쿄도_출신 "wikilink") [분류:일본의 여자 모델](https://ko.wikipedia.org/wiki/분류:일본의_여자_모델 "wikilink")

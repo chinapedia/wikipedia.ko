@@ -24,5 +24,5 @@
 
 [분류:2008년 노래](https://ko.wikipedia.org/wiki/분류:2008년_노래 "wikilink") [분류:미국의 노래](https://ko.wikipedia.org/wiki/분류:미국의_노래 "wikilink") [분류:영어 노래](https://ko.wikipedia.org/wiki/분류:영어_노래 "wikilink") [분류:한나 몬타나의 노래](https://ko.wikipedia.org/wiki/분류:한나_몬타나의_노래 "wikilink")
 
-1.  [Best Songs of 2008](http://tommy2.net/content/?tag=radio-disney-top-30-countdown&paged=4)
+1.
 2.

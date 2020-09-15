@@ -17,6 +17,51 @@
 
 전작 《Thank You My Teens》가 공연의 일부를 녹취한 것만 담은 반면, 《**HOTEL HOLIDAYS IN THE SUN**》는 공연 전체를 녹취한 것이 들어있다.
 
-### 수록곡
+## 수록곡
+
+1.  [Again](https://ko.wikipedia.org/wiki/Again "wikilink")
+2.  [Rolling Star](https://ko.wikipedia.org/wiki/Rolling_Star "wikilink")
+3.  [It's All Too Much](https://ko.wikipedia.org/wiki/It%27s_All_Too_Much/Never_Say_Die "wikilink")
+4.  Laugh Away
+5.  Parade
+6.  Cinnamon
+7.  Please Stay With Me
+8.  How Crazy
+9.  Love is All
+10. Tokyo
+11. I'll be
+12. [Never Say Die](https://ko.wikipedia.org/wiki/It%27s_All_Too_Much/Never_Say_Die "wikilink")
+13. Es.car
+14. I Do It
+15. Tonight
+16. Shake My Heart
+
+Encore songs
+
+1.
+
+    <li value="17">
+
+    [To Mother](../Page/To_Mother.md "wikilink")
+
+2.  Driving Happy Life
+
+3.  Rain
+
+4.  [Che.r.ry](https://ko.wikipedia.org/wiki/Che.r.ry "wikilink")
+
+5.  [Gloria](https://ko.wikipedia.org/wiki/Gloria "wikilink")
+
+6.  [Good-bye Days](https://ko.wikipedia.org/wiki/Good-bye_Days "wikilink")
+
+## 차트
+
+| 차트 (2011)                                       | 최고 순위 | 차트 런 |
+| :---------------------------------------------- | :---: | ---- |
+| 일본 [오리콘](../Page/오리콘.md "wikilink") DVD 차트\[1\] |   2   | 16   |
+
+## 각주
 
 [분류:YUI의 음반](https://ko.wikipedia.org/wiki/분류:YUI의_음반 "wikilink")
+
+1.

@@ -95,7 +95,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>《<a href="https://ko.wikipedia.org/wiki/프린세스_스타의_모험일기" title="wikilink">프린세스 스타의 모험일기</a>》</p></td>
+<td><p>《<a href="../Page/프린세스_스타의_모험일기.md" title="wikilink">프린세스 스타의 모험일기</a>》</p></td>
 <td></td>
 <td><p>4</p></td>
 <td></td>
@@ -291,7 +291,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>《<a href="https://ko.wikipedia.org/wiki/펜_제로" title="wikilink">펜 제로</a>》</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/펜_제로:_파트타임_히어로" title="wikilink">펜 제로: 파트타임 히어로</a>》</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -501,7 +501,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>《<a href="https://ko.wikipedia.org/wiki/슈퍼_로봇_몽키" title="wikilink">슈퍼 로봇 몽키</a>》</p></td>
+<td><p>《<a href="../Page/슈퍼_로봇_몽키.md" title="wikilink">슈퍼 로봇 몽키</a>》</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -519,7 +519,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>《<a href="https://ko.wikipedia.org/wiki/우당탕탕_잉양요" title="wikilink">우당탕탕 잉양요</a>》</p></td>
+<td><p>《<a href="../Page/우당탕탕_잉양요.md" title="wikilink">우당탕탕 잉양요</a>》</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -621,7 +621,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>《<a href="https://ko.wikipedia.org/wiki/팩맨과_유령의_모험" title="wikilink">팩맨과 유령의 모험</a>》</p></td>
+<td><p>《<a href="../Page/팩맨과_유령의_모험.md" title="wikilink">팩맨과 유령의 모험</a>》</p></td>
 <td></td>
 <td></td>
 <td></td>

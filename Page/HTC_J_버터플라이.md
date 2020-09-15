@@ -22,5 +22,6 @@
 
   - [버터플라이 S](../Page/HTC_버터플라이_S.md "wikilink")
   - [HTC 원](../Page/HTC_원.md "wikilink")
+  - [HTC 휴대 전화 목록](../Page/HTC_휴대_전화_목록.md "wikilink")
 
 [분류:2012년 출시](https://ko.wikipedia.org/wiki/분류:2012년_출시 "wikilink") [분류:안드로이드 장치](https://ko.wikipedia.org/wiki/분류:안드로이드_장치 "wikilink") [J 버터플라이](https://ko.wikipedia.org/wiki/분류:HTC의_스마트폰 "wikilink") [J 버터플라이](https://ko.wikipedia.org/wiki/분류:HTC_휴대_전화기 "wikilink") [분류:스마트폰](https://ko.wikipedia.org/wiki/분류:스마트폰 "wikilink")

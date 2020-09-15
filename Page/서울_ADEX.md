@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [서울 ADEX](https://ko.wikipedia.org/wiki/서울_ADEX).
 
 
-**서울 ADEX**(Seoul International Aerospace & Defence E​xhibition) 또는 **서울 국제 항공우주 및 방위산업 전시회**는 **서울 에어쇼**(Seoul Air Show)와 동반하여 [대한민국](../Page/대한민국.md "wikilink")에서 격년으로 열리는 국제 전시회이다. 1996년에 시작되어 현재까지 이르고 있다.
+**서울 ADEX**(Seoul International Aerospace & Defence Exhibition) 또는 **서울 국제 항공우주 및 방위산업 전시회**는 **서울 에어쇼**(Seoul Air Show)와 동반하여 [대한민국](../Page/대한민국.md "wikilink")에서 격년으로 열리는 국제 전시회이다. 1996년에 시작되어 현재까지 이르고 있다.
 
 ## 배경
 
@@ -163,7 +163,7 @@ T-50 골든 이글이 최초로 일반에 공개되었다.\[41\]
   - [F-15K](https://ko.wikipedia.org/wiki/F-15K "wikilink")
   - [블랙 이글](https://ko.wikipedia.org/wiki/블랙_이글 "wikilink")
 
-### 서울 에어쇼 2009
+### 서울 ADEX 2009
 
 2009년 10월 20일부터 25일까지 6일간 개최되었다.\[45\] 통합 방산 전시회로서 'ADEX'(서울 국제항공우주 및 방위산업전시회)가 출범하였다.\[46\] 26개국 271개 업체가 참가하였다.\[47\]
 
@@ -188,7 +188,7 @@ T-50 골든 이글이 최초로 일반에 공개되었다.\[41\]
   - 블랙 이글스의 기종이 [A-37](https://ko.wikipedia.org/wiki/A-37 "wikilink")에서 T-50으로 바뀌었다.\[49\]
   - 대한민국 공군 창건 60주년을 기념하여 미국의 [썬더버드](../Page/미국_공군_선더버즈.md "wikilink") 팀이 참가, 곡예비행을 선보였다.\[50\]
 
-### 서울 에어쇼 2011
+### 서울 ADEX 2011
 
 2011년 10월 18일에서 23일까지 6일간 개최되었다.\[51\] 31개국 314개 업체가 참가하였다.\[52\]
 
@@ -229,7 +229,7 @@ T-50 골든 이글이 최초로 일반에 공개되었다.\[41\]
   - [A-10](https://ko.wikipedia.org/wiki/A-10 "wikilink")
   - [U-2](../Page/U-2.md "wikilink")
 
-### 서울 에어쇼 2015
+### 서울 ADEX 2015
 
 2015년 10월 20일부터 25일까지 6일간 개최되었다. 32개국 386개 업체가 참가하였다.\[56\]
 
@@ -286,8 +286,15 @@ T-50 골든 이글이 최초로 일반에 공개되었다.\[41\]
   - 한국에서는 최초로 [F-35](https://ko.wikipedia.org/wiki/F-35 "wikilink") 전투기의 실물이 공개되었다.\[59\]
   - 행사 네 번째 날인 10월 20일에는 초·중·고 대학생을 대상으로 한 ‘학생의 날’ 행사가 마련되었다.\[60\]
 
+### 서울 ADEX 2019
+
+2019년 10월 15일부터 20일까지 6일간 개최되었다. 34개국 430개 업체가 참가하였다.\[61\]
+
 ## 각주
 
+## 외부 링크
+
+  -
 [분류:1996년 설립](https://ko.wikipedia.org/wiki/분류:1996년_설립 "wikilink") [분류:에어쇼](https://ko.wikipedia.org/wiki/분류:에어쇼 "wikilink") [분류:대한민국의 전시회](https://ko.wikipedia.org/wiki/분류:대한민국의_전시회 "wikilink") [분류:격년 행사](https://ko.wikipedia.org/wiki/분류:격년_행사 "wikilink") [분류:대한민국의 항공 교통](https://ko.wikipedia.org/wiki/분류:대한민국의_항공_교통 "wikilink")
 
 1.
@@ -350,3 +357,4 @@ T-50 골든 이글이 최초로 일반에 공개되었다.\[41\]
 58.
 59.
 60.
+61.

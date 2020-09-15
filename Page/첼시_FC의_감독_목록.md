@@ -521,13 +521,13 @@
 <td></td>
 <td><p><a href="../Page/2019년.md" title="wikilink">2019년</a> <a href="../Page/7월.md" title="wikilink">7월</a></p></td>
 <td></td>
-<td><p>19</p></td>
-<td><p>11</p></td>
-<td><p>4</p></td>
-<td><p>4</p></td>
-<td><p>44</p></td>
-<td><p>28</p></td>
-<td><p>58%</p></td>
+<td><p>55</p></td>
+<td><p>29</p></td>
+<td><p>9</p></td>
+<td><p>17</p></td>
+<td><p>102</p></td>
+<td><p>79</p></td>
+<td><p>52.7%</p></td>
 </tr>
 </tbody>
 </table>

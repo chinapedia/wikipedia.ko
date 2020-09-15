@@ -43,7 +43,7 @@
 :;[아이비 브리지](https://ko.wikipedia.org/wiki/아이비_브리지 "wikilink"): - 데스크탑 버전은 2012년 4월 29일 출시, 모바일 버전은 이듬해 6월경 출시. 샌디 브리지 마이크로아키텍처의 22 nm 축소 버전.
 
   - [해스웰](https://ko.wikipedia.org/wiki/해스웰_\(마이크로아키텍처\) "wikilink"): - 2013년 6월 5일 출시, 22 nm 공정기술. 경우에 따라선 **하스웰**이라고 불리기도 한다.
-    [라라비](https://ko.wikipedia.org/wiki/라라비 "wikilink"): - P5 마이크로아키텍처의 [멀티코어](https://ko.wikipedia.org/wiki/멀티코어 "wikilink") in-order [x86-64](https://ko.wikipedia.org/wiki/x86-64 "wikilink") 버전. 그래픽을 위한 넓은 [SIMD](https://ko.wikipedia.org/wiki/SIMD "wikilink") 벡터 유닛과 텍스처 샘플링 하드웨어 지원.
+    [라라비](https://ko.wikipedia.org/wiki/라라비 "wikilink"): - P5 마이크로아키텍처의 [멀티코어](https://ko.wikipedia.org/wiki/멀티코어 "wikilink") in-order [x86-64](https://ko.wikipedia.org/wiki/x86-64 "wikilink") 버전. 그래픽을 위한 넓은 [SIMD](../Page/SIMD.md "wikilink") 벡터 유닛과 텍스처 샘플링 하드웨어 지원.
     [마이크 아키텍처](https://ko.wikipedia.org/wiki/인텔_마이크_아키텍처 "wikilink"): - 고성능 컴퓨팅을 위한 새로운 아키텍처로서 x86 명령어 집합을 지원. 그래픽 카드용 라라비 프로젝트와 48개 코어가 집적된 싱글 칩 클라우드 컴퓨터의 연구결과로 개발됨. 소프트웨어 개발용 플랫폼으로서 나이츠 페리가 2010년 하반기부터 가용되었으며 첫 상용제품은 22nm 공정기술 기반으로한 나이츠 코너로 예상.
     [본넬](https://ko.wikipedia.org/wiki/본넬_\(마이크로아키텍처\) "wikilink"): - [Atom](https://ko.wikipedia.org/wiki/인텔_Atom "wikilink") 프로세서용 저전력, in-order 마이크로아키텍처.
 

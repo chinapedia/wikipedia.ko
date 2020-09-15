@@ -1,21 +1,18 @@
 > This article is converted from Wikipedia: [궁금한 이야기 Y](https://ko.wikipedia.org/wiki/궁금한_이야기_Y).
 
 
-《**궁금한 이야기 Y**》는 [SBS TV에서](../Page/SBS_TV.md "wikilink") 방송중인 시사교양 프로그램이다.
+《**궁금한 이야기 Y**》는 [SBS TV에서](../Page/SBS_TV.md "wikilink") UHD로 방송하는 시사교양 [텔레비전 프로그램이다](../Page/텔레비전_프로그램.md "wikilink").
 
 ## 방송 시간
 
-| 방송 채널                                  | 방송 기간                                                  | 방송 시간                                                 | 비고    |
-| -------------------------------------- | ------------------------------------------------------ | ----------------------------------------------------- | ----- |
-| [SBS TV](../Page/SBS_TV.md "wikilink") | 2009년 10월 9일 \~ 2013년 2월 22일                           | 매주 [금요일](../Page/금요일.md "wikilink") 저녁 8:50 \~ 밤 9:55 | 독립 편성 |
-| 2013년 3월 1일 \~ 2019년 3월 29일            | 매주 [금요일](../Page/금요일.md "wikilink") 저녁 8:55 \~ 밤 10:00 |                                                       |       |
-| 2019년 4월 5일 \~ **현재**                  | 1부                                                     | 매주 [금요일](../Page/금요일.md "wikilink") 저녁 8:55 \~ 밤 9:30 | 분리 편성 |
-| 2부                                     | 매주 [금요일](../Page/금요일.md "wikilink") 밤 9:30 \~ 10:00    |                                                       |       |
-
-## 전체 시청률
-
-  - 일일 시청률 32.7%, 1위([2020년](../Page/2020년.md "wikilink") [5월 29일](../Page/5월_29일.md "wikilink") 기준)
-  - 주간 시청률 33.5%, 1위([2020년](../Page/2020년.md "wikilink") [5월 18일](../Page/5월_18일.md "wikilink") \~ [2020년](../Page/2020년.md "wikilink") [5월 24일](../Page/5월_24일.md "wikilink") 기준)
+| 방송 채널                                  | 방송 기간                 | 방송 시간                 | 비고            |
+| -------------------------------------- | --------------------- | --------------------- | ------------- |
+| [SBS TV](../Page/SBS_TV.md "wikilink") | 2009년 9월 14일          | 월요일 밤 9:00 \~ 9:55    | 시범 편성         |
+| 2009년 10월 9일 \~ 2013년 2월 22일           | 매주 금요일 밤 8:50 \~ 9:55 | 독립 편성                 |               |
+| 2013년 3월 1일 \~ 2019년 3월 29일            | 매주 금요일 밤 8:55 \~ 9:55 |                       |               |
+| 2019년 4월 5일 \~ **현 재**                 | 1부                    | 매주 금요일 밤 8:55 \~ 9:30 | 분리 편성 (1, 2부) |
+| 2부                                     | 매주 금요일 밤 9:30 \~ 9:55 |                       |               |
+|                                        |                       |                       |               |
 
 ## 스토리텔러
 
@@ -34,7 +31,7 @@
 | 부산/경남권    | [Korea New Network](../Page/KNN.md "wikilink") 부산경남방송                     |
 | 울산권       | [ubc 울산방송](../Page/울산방송.md "wikilink")                                    |
 | 대구/경북권    | [Taegu Broadcasting Corporation](../Page/TBC_\(대한민국의_방송사\).md "wikilink") |
-| 광주/전남권    | [kbc 광주방송](../Page/광주방송.md "wikilink")                                    |
+| 광주/전남권    | [kbc 광주방송](../Page/광주방송.md "wikilink") 자체 방송으로 방영 불가                      |
 | 대전/충남/세종권 | [TJB 대전방송](../Page/대전방송.md "wikilink")                                    |
 | 충북권       | [CJB 청주방송](../Page/청주방송.md "wikilink")                                    |
 | 전북권       | [JTV 전주방송](../Page/전주방송.md "wikilink")                                    |
@@ -55,7 +52,7 @@
 
   - 4월 29일 : 《**[세계 피겨 스케이팅 선수권 대회](https://ko.wikipedia.org/wiki/세계_피겨_스케이팅_선수권_대회 "wikilink") - 여자 쇼트**》 중계 방송
   - 11월 25일 : 《[청룡 영화제](https://ko.wikipedia.org/wiki/청룡_영화제 "wikilink")》 시상식 중계 방송
-  - 12월 30일 : *' [2011SBS 연기대상](https://ko.wikipedia.org/wiki/연기대상 "wikilink")*' 방송
+  - 12월 30일 : *' [2011 SBS 연기대상](../Page/SBS_연기대상.md "wikilink")*' 방송
 
 ### 2014년
 
@@ -87,12 +84,12 @@
   - 11월 2일 : SBS 스포츠 **프로야구 플레이 오프 5차전 [넥센 히어로즈](https://ko.wikipedia.org/wiki/넥센_히어로즈 "wikilink") VS [SK 와이번스](../Page/SK_와이번스.md "wikilink")** 중계방송 관계로 결방
   - 11월 9일 : SBS 스포츠 **프로야구 한국시리즈 4차전 [두산 베어스](../Page/두산_베어스.md "wikilink") VS [SK 와이번스](../Page/SK_와이번스.md "wikilink")** 중계방송 관계로 결방
   - 11월 23일 : **《[청룡 영화상](https://ko.wikipedia.org/wiki/청룡_영화상 "wikilink")》 시상식** 중계방송 관계로 결방
-  - 12월 28일 : *' [2018 SBS 연예대상](../Page/SBS_연예대상.md "wikilink")*' 편성
+  - 12월 28일 : *' [2018 SBS 연예대상](../Page/SBS_연예대상.md "wikilink")*' 방송
 
 ### 2019년
 
   - 6월 7일 : SBS 스포츠 **축구 국가대표 평가전 [한국](../Page/대한민국_축구_국가대표팀.md "wikilink") vs [호주](https://ko.wikipedia.org/wiki/호주_축구_국가대표팀 "wikilink")** 중계방송 관계로 결방
-  - 9월 13일 : **추석 특집 예능 프로그램 [맛남의 광장](https://ko.wikipedia.org/wiki/맛남의_광장 "wikilink")** 편성
+  - 9월 13일 : **추석 특집 예능 프로그램 [맛남의 광장](../Page/맛남의_광장.md "wikilink")** 편성
   - 11월 1일 : **[WBSC 프리미어 12](https://ko.wikipedia.org/wiki/WBSC_프리미어_12 "wikilink") 야구 국가대표 평가전 [푸에르토리코](../Page/푸에르토리코_야구_국가대표팀.md "wikilink") VS [대한민국](../Page/대한민국_야구_국가대표팀.md "wikilink")** 중계방송 관계로 결방
   - 11월 8일 : **[WBSC 프리미어 12](https://ko.wikipedia.org/wiki/WBSC_프리미어_12 "wikilink") C조 리그 [대한민국](../Page/대한민국_야구_국가대표팀.md "wikilink") VS [쿠바](../Page/쿠바_야구_국가대표팀.md "wikilink")** 중계방송 관계로 결방
 
@@ -111,6 +108,12 @@
 
 ### 2020년
 
+  - [10월 1일](../Page/10월_1일.md "wikilink") : 추석특집 궁금한 이야기 Y × 그것이 알고싶다 콜라보레이션 <사건을 알고싶다> 오전 9시 10분에 방송
+  - [10월 2일](../Page/10월_2일.md "wikilink") : 추석연휴로 인해 밤 8시 20분에 1부, 2부, 3부 편성
+  - [10월 3일](../Page/10월_3일.md "wikilink") : 추석특집 궁금한 이야기 Y 종합선물세트 저녁 6시 10분에 1부, 2부 편성.
+  - [12월 25일](../Page/12월_25일.md "wikilink") : 2020 궁금한 이야기 Y 어워즈 저녁 6시 30분에 편성
+  - [12월 26일](../Page/12월_26일.md "wikilink"), [12월 27일](../Page/12월_27일.md "wikilink") : 송년특집 궁금한 이야기 Y 2021년 달력을 제작합니다 1탄, 2탄 편성(토 20:45 \~ 22:45, 일 18:25 \~ 20:00)\<- BGM : 영화 '어벤져스' OST The Avengers - Alan Silvestri, 나레이션 : [김석훈](../Page/김석훈.md "wikilink")(12월 26일), [양희은](../Page/양희은.md "wikilink")(12월 27일)
+
 ## 타이틀 변천사
 
 현재 타이틀은 [2011년](../Page/2011년.md "wikilink") [6월 24일부터](../Page/6월_24일.md "wikilink") 기준으로 한다.
@@ -121,27 +124,6 @@
 | 2대 | 당신이 궁금한 이야기      | 2010년 7월 2일 \~ 2011년 6월 17일  |
 | 3대 | 궁금한 이야기 Y        | 2011년 6월 24일 \~ **현재**       |
 
-## 협찬 PPT
-
-현재는 4개의 협찬 PPT를 제공되고 있으며 2020년 안에 다른 6개의 협찬 PPT 및 1, 2부 연령고지 가상광고 및 간접광고도 제공될 예정입니다.
-
-  - 패스트캠프(Fast Camp)
-  - 하림 자연실록
-  - 처갓집 양념치킨
-  - 쿠우쿠우
-  - 올품 자연에 좋은 닭(예정)
-  - 서울우유 나100%(예정)
-  - MG새마을금고(예정)
-  - 코코호두(예정)
-  - 못난이꽈베기(예정)
-  - 명인등심(예정)
-
-### 가상광고 및 간접광고
-
-  - 치센 - 1부 연령고지 가상광고 제공예정
-  - 비타500 - 2부 연령고지 가상광고 제공예정
-  - 명륜진사갈비 - 방송 중 간접광고 제공예정
-
 ## 수상 경력 및 후보
 
   - 2016년 제43회 [한국방송대상](../Page/한국방송대상.md "wikilink") 진행자상 ([김석훈](../Page/김석훈.md "wikilink"))
@@ -151,56 +133,29 @@
   - 2019년 SBS 연예대상 최우수상 쇼ㆍ토크 남자부문 후보 ([김석훈](../Page/김석훈.md "wikilink"))
   - 2019년 SBS 연예대상 최우수상 쇼ㆍ토크 여자부문 후보 ([박선영](https://ko.wikipedia.org/wiki/박선영 "wikilink"))
 
-## 경쟁 프로그램
-
-### 의무형 방송 채널
-
-  - [KBS 열린토론](../Page/KBS_열린토론.md "wikilink") ([KBS 제1라디오](../Page/KBS_제1라디오.md "wikilink"))
-  - [스포츠 스포츠](../Page/스포츠_스포츠_\(라디오_프로그램\).md "wikilink") ([KBS 제1라디오](../Page/KBS_제1라디오.md "wikilink"))
-  - [이상호의 드림팝](../Page/드림팝_\(라디오_프로그램\).md "wikilink") ([KBS 제2라디오](../Page/KBS_제2라디오.md "wikilink"))
-  - 오천만의 변호인 (재방송) ([EBS FM](../Page/EBS_FM.md "wikilink"))
-  - [전효성의 꿈꾸는 라디오](../Page/꿈꾸는_라디오.md "wikilink") ([MBC FM4U](../Page/MBC_FM4U.md "wikilink"))
-  - [김현주의 행복한 동행](../Page/행복한_동행_\(라디오_프로그램\).md "wikilink") ([CBS 음악FM](../Page/CBS_음악FM.md "wikilink"))
-  - [세계테마기행](../Page/세계테마기행.md "wikilink") ([EBS 1TV](../Page/EBS_1TV.md "wikilink"))
-  - [한국기행](../Page/한국기행.md "wikilink") ([EBS 1TV](../Page/EBS_1TV.md "wikilink"))
-
-### 보급형 방송 채널
-
-  - [FM 실황음악](../Page/FM_실황음악.md "wikilink") ([KBS 클래식FM](../Page/KBS_제1FM.md "wikilink"))
-  - [정다운 가곡](../Page/정다운_가곡.md "wikilink") ([KBS 클래식FM](../Page/KBS_제1FM.md "wikilink"))
-  - [강한나의 볼륨을 높여요](../Page/볼륨을_높여요.md "wikilink") ([KBS 쿨FM](../Page/KBS_제2FM.md "wikilink"))
-  - 이익선의 달콤한 음악여행 ([국방FM](../Page/국방FM.md "wikilink"))
-  - 호국영웅 (재방송) ([국방FM](../Page/국방FM.md "wikilink"))
-
-### 경제형 방송 채널
-
-  - [신혜성의 음악 오디세이](../Page/음악_오디세이.md "wikilink") ([SBS 러브FM](../Page/SBS_러브FM.md "wikilink"))
-  - [오늘 하루 장주희입니다](../Page/오늘_하루_장주희입니다.md "wikilink") ([CBS 표준FM](../Page/CBS_표준FM.md "wikilink"))
-  - [명동연가](../Page/명동연가.md "wikilink") ([cpbc](../Page/가톨릭평화방송.md "wikilink") FM)
-
-### IPTV형 방송 채널 (SBS TV 포함)
-
-  - [원더풀 라디오 강수지입니다](../Page/원더풀_라디오_\(라디오_프로그램\).md "wikilink") ([MBC 표준FM](../Page/MBC_표준FM.md "wikilink"))
-  - [이준의 영스트리트](../Page/영스트리트_\(라디오_프로그램\).md "wikilink") ([SBS 파워FM](../Page/SBS_파워FM.md "wikilink"))
-  - [요즘 육아 금쪽같은 내새끼](https://ko.wikipedia.org/wiki/요즘_육아_금쪽같은_내새끼 "wikilink") ([채널A](../Page/채널A.md "wikilink"))
-
 ## 같이 보기
 
+  - [건강한 아침 황선숙입니다](../Page/건강한_아침_황선숙입니다.md "wikilink")
+  - [모두의 퀴즈생활 서유리입니다](../Page/모두의_퀴즈생활.md "wikilink")
+  - [원더풀 라디오 강수지입니다](../Page/원더풀_라디오_\(라디오_프로그램\).md "wikilink")
+  - [이윤석, 전영미의 좋은 주말](../Page/좋은_주말.md "wikilink") (이상 [MBC 표준FM](../Page/MBC_표준FM.md "wikilink"))
+  - [한 번 다녀왔습니다](../Page/한_번_다녀왔습니다.md "wikilink") (KBS 2TV 주말드라마)
+  - [어쩌다 발견한 하루](../Page/어쩌다_발견한_하루.md "wikilink") (MBC 수목드라마)
   - [내 마음의 크레파스](https://ko.wikipedia.org/wiki/내_마음의_크레파스 "wikilink")
   - [SBS 뉴스특보](../Page/SBS_뉴스특보.md "wikilink")
   - [언니는 살아있다](../Page/언니는_살아있다.md "wikilink")
   - [드라마 배가본드](../Page/배가본드_\(드라마\).md "wikilink")
-  - [더 킹 : 영원의 군주](https://ko.wikipedia.org/wiki/더_킹_:_영원의_군주 "wikilink")
+  - [더 킹 : 영원의 군주](../Page/더_킹_:_영원의_군주.md "wikilink")
+  - [SBS 스페셜](../Page/SBS_스페셜.md "wikilink")
   - [우리 아이가 달라졌어요](../Page/우리_아이가_달라졌어요.md "wikilink")
   - [무확행](../Page/무확행.md "wikilink") (이상 [SBS TV](../Page/SBS_TV.md "wikilink"))
   - [천일야史](../Page/천일야史.md "wikilink")
   - [채널A 뉴스특보](https://ko.wikipedia.org/wiki/채널A_뉴스특보 "wikilink") (이상 [채널A](../Page/채널A.md "wikilink"))
-  - [엄태웅](../Page/엄태웅.md "wikilink") (KBS·EBS·MBC 출연정지 연예인)
-
-## 각주
+  - [최영수 (희극인)](../Page/최영수_\(희극인\).md "wikilink") (EBS 출연정지 연예인)
+  - [차주혁](../Page/차주혁.md "wikilink") (모든 지상파, 종편, 케이블 방송사 출연정지 연예인)
 
 ## 외부 링크
 
   - [SBS 궁금한 이야기 Y 홈페이지](http://wizard2.sbs.co.kr/w3/template/tpl_freetype.jsp?vVodId=V0000339666&vProgId=1000551&vMenuId=1011239)
 
-[분류:SBS의 시사교양 프로그램](https://ko.wikipedia.org/wiki/분류:SBS의_시사교양_프로그램 "wikilink") [분류:대한민국의 시사교양 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:대한민국의_시사교양_텔레비전_프로그램 "wikilink") [분류:2009년에 시작한 대한민국 TV 프로그램](https://ko.wikipedia.org/wiki/분류:2009년에_시작한_대한민국_TV_프로그램 "wikilink") [분류:2000년대 대한민국의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:2000년대_대한민국의_텔레비전_프로그램 "wikilink") [분류:2010년대 대한민국의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:2010년대_대한민국의_텔레비전_프로그램 "wikilink") [분류:2020년대 대한민국의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:2020년대_대한민국의_텔레비전_프로그램 "wikilink")
+[분류:SBS의 시사교양 프로그램](https://ko.wikipedia.org/wiki/분류:SBS의_시사교양_프로그램 "wikilink") [분류:대한민국의 시사교양 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:대한민국의_시사교양_텔레비전_프로그램 "wikilink") [분류:2009년에 시작한 대한민국 TV 프로그램](https://ko.wikipedia.org/wiki/분류:2009년에_시작한_대한민국_TV_프로그램 "wikilink") [분류:2000년대 대한민국의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:2000년대_대한민국의_텔레비전_프로그램 "wikilink") [분류:2010년대 대한민국의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:2010년대_대한민국의_텔레비전_프로그램 "wikilink") [분류:2020년대 대한민국의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:2020년대_대한민국의_텔레비전_프로그램 "wikilink") [분류:대한민국의 텔레비전 파일럿 프로그램](https://ko.wikipedia.org/wiki/분류:대한민국의_텔레비전_파일럿_프로그램 "wikilink")

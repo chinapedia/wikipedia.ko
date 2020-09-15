@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [보이 A \(영화\)](https://ko.wikipedia.org/wiki/보이_A_\(영화\)).
 
 
-**보이 A**()는 [조너던 트리겔의](https://ko.wikipedia.org/wiki/조너던_트리겔 "wikilink") [동명의 소설을](https://ko.wikipedia.org/wiki/보이_A "wikilink") 각색한 2007년 공개 된 영국의 영화이다. 이 영화는 2007 [토론토 국제 영화제에서](../Page/토론토_국제_영화제.md "wikilink") 초연 되었다.\[1\]
+**보이 A**()는 [조너던 트리겔의](https://ko.wikipedia.org/wiki/조너던_트리겔 "wikilink") [동명의 소설을](https://ko.wikipedia.org/wiki/보이_A "wikilink") 각색한 영국영화로, 2007년 공개되었다. 또한 이 영화는 2007 [토론토 국제 영화제에서](../Page/토론토_국제_영화제.md "wikilink") 초연 되었다.\[1\]
 
 [존 크롤리가](../Page/존_크롤리.md "wikilink") 감독하고, [앤드류 가필드가](../Page/앤드류_가필드.md "wikilink") 주연을 맡아 [영국 아카데미 텔레비전상](https://ko.wikipedia.org/wiki/영국_아카데미_텔레비전상 "wikilink") 최우수 남우주연상을 수상했다. 북미에서 극장 개봉은 [와인스타인 컴퍼니에서](https://ko.wikipedia.org/wiki/와인스타인_컴퍼니 "wikilink") 배급하였다.\[2\]
 

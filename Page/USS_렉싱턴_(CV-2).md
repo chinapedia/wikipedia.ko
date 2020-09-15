@@ -7,7 +7,7 @@
 
 워싱턴 해군 조약으로, 렉싱턴 및 [사라토가](https://ko.wikipedia.org/wiki/사라토가 "wikilink"), 이 두 함은 기준 배수량이 33,000 [톤](https://ko.wikipedia.org/wiki/톤 "wikilink")이라고 발표됐지만, 만수 배수량은 40,000 [톤](https://ko.wikipedia.org/wiki/톤 "wikilink") 이었다. 완성됐을 때는 세계 최대의 항모였다.
 
-렉싱턴은 전통식 홑단 [비행갑판](../Page/비행갑판.md "wikilink")과 아일랜드식 함교구조, 또 에워싸인 뱃머리(enclosed bow) 등의 앞을 내다보는 설계로 큰 개조 과정을 거칠 필요없이 전쟁에 참전했다. 원래가 순양전함으로 설계되었기 때문에 항공모함이라고 해도 도 항속이 빠르고 큰 비행기 탑재 능력과 아울러 세계 최우수의 항공모함이었다. 다만, 후대의 미 항모와는 달리 뱃전이 밀폐된 구조로 되어있어 나중에 산호해 해전에서 참사를 일으킨 원인이 됐다. 1936년, 비행갑판을 확장하고 굴뚝 상부의 플랫폼 신설 등의 개조를 해, 1940년에는 대공용 [레이다](../Page/레이다.md "wikilink")가 탑재되었다.
+렉싱턴은 전통식 홑단 [비행갑판](../Page/비행갑판.md "wikilink")과 아일랜드식 함교구조, 또 에워싸인 뱃머리(enclosed bow) 등의 앞을 내다보는 설계로 큰 개조 과정을 거칠 필요없이 전쟁에 참전했다. 원래가 순양전함으로 설계되었기 때문에 항공모함이라고 해도 항속이 빠르고 큰 비행기 탑재 능력과 아울러 세계 최우수의 항공모함이었다. 다만, 후대의 미 항모와는 달리 뱃전이 밀폐된 구조로 되어있어 나중에 산호해 해전에서 참사를 일으킨 원인이 됐다. 1936년, 비행갑판을 확장하고 굴뚝 상부의 플랫폼 신설 등의 개조를 해, 1940년에는 대공용 [레이다](../Page/레이다.md "wikilink")가 탑재되었다.
 
 ## 함대 이력
 
@@ -40,4 +40,4 @@
   - [USS *Lexington* (CV-2) at Navsource](http://www.navsource.org/archives/02/02.htm)
   - [CV-2 Personnel Roster at HullNumber.com](http://www.hullnumber.com/CV-2)
 
-[분류:미국의 항공모함](https://ko.wikipedia.org/wiki/분류:미국의_항공모함 "wikilink") [분류:렉싱턴급 항공모함](https://ko.wikipedia.org/wiki/분류:렉싱턴급_항공모함 "wikilink") [분류:1925년 진수된 선박](https://ko.wikipedia.org/wiki/분류:1925년_진수된_선박 "wikilink") [분류:자침한 배](https://ko.wikipedia.org/wiki/분류:자침한_배 "wikilink")
+[분류:1925년 진수된 선박](https://ko.wikipedia.org/wiki/분류:1925년_진수된_선박 "wikilink") [분류:렉싱턴급 항공모함](https://ko.wikipedia.org/wiki/분류:렉싱턴급_항공모함 "wikilink") [분류:제2차 세계 대전의 미국 항공모함](https://ko.wikipedia.org/wiki/분류:제2차_세계_대전의_미국_항공모함 "wikilink") [분류:자침한 배](https://ko.wikipedia.org/wiki/분류:자침한_배 "wikilink")

@@ -137,6 +137,13 @@
 <td><p>12,800</p></td>
 <td><p><a href="../Page/타일러_블랙.md" title="wikilink">세스 롤린스</a> vs. <a href="../Page/브록_레스너.md" title="wikilink">브록 레스너</a> (WWE 유니버셜 챔피언십)</p></td>
 </tr>
+<tr class="even">
+<td><p>2020년 7월 19일</p></td>
+<td><p><a href="../Page/올랜도.md" title="wikilink">올랜도</a></p></td>
+<td><p>WWE 퍼포먼스 센터</p></td>
+<td><p><a href="../Page/무관중_경기.md" title="wikilink">무관중 경기</a></p></td>
+<td><p><a href="../Page/브라운_스트로우먼.md" title="wikilink">브라운 스트로우먼</a> vs. <a href="../Page/윈덤_로턴다.md" title="wikilink">브레이 와이어트</a> (와이어트 스웜프 파이트 매치)</p></td>
+</tr>
 </tbody>
 </table>
 

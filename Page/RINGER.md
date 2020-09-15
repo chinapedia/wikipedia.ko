@@ -11,7 +11,7 @@
   - [크리스토퍼 폴라하](https://ko.wikipedia.org/wiki/크리스토퍼_폴라하 "wikilink") - Henry Butler
   - [요안 그리피스](https://ko.wikipedia.org/wiki/요안_그리피스 "wikilink") - Andrew Martin
   - [네스터 카보넬](../Page/네스터_카보넬.md "wikilink") - Victor Machado
-  - [마이크 콜터](https://ko.wikipedia.org/wiki/마이크_콜터 "wikilink") - Malcolm Ward
+  - [마이크 콜터](../Page/마이크_콜터.md "wikilink") - Malcolm Ward
 
 ## 외부 링크
 

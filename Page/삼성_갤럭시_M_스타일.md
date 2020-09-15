@@ -13,8 +13,8 @@
 
 ## 색상
 
-  - 플래티넘 실버
-  - 블루 블랙
+  - [플래티넘](https://ko.wikipedia.org/wiki/플래티넘 "wikilink") [실버](https://ko.wikipedia.org/wiki/실버 "wikilink")
+  - [블루](https://ko.wikipedia.org/wiki/블루 "wikilink") [블랙](../Page/블랙.md "wikilink")
 
 ## [안드로이드](../Page/안드로이드_\(운영_체제\).md "wikilink") [2.3 진저브레드](https://ko.wikipedia.org/wiki/안드로이드_버전_역사 "wikilink") 업그레이드
 
@@ -28,7 +28,7 @@
 
 그러나 안드로이드 2.3.6을 끝으로 공식 지원이 종료되었다.
 
-## 사진
+## 제품 모습
 
 파일:Samsung Galaxy M style back.jpg|후면부 모습
 

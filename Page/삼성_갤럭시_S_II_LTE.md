@@ -3,7 +3,11 @@
 
 **삼성 갤럭시 S II LTE**(Samsung GALAXY S II LTE)는 [삼성전자](https://ko.wikipedia.org/wiki/삼성전자 "wikilink")에서 제조/판매하는 [안드로이드](../Page/안드로이드_\(운영_체제\).md "wikilink") [스마트폰](../Page/스마트폰.md "wikilink")이다.
 
+## 출시 / 명칭
+
 2011년 8월 28일에 출시했으며, 출시 이전에는 **갤럭시 셀록스**라고 명명하였나 **갤럭시 S II LTE**로 명칭을 바꿨다.
+
+## 기능
 
 [LTE를](https://ko.wikipedia.org/wiki/롱_텀_에볼루션 "wikilink") 지원하는 [삼성전자](https://ko.wikipedia.org/wiki/삼성전자 "wikilink")의 첫 [스마트폰](../Page/스마트폰.md "wikilink")이며, 이로 인해 [삼성전자](https://ko.wikipedia.org/wiki/삼성전자 "wikilink") 자체 [AP인](https://ko.wikipedia.org/wiki/애플리케이션_프로세서 "wikilink") [엑시노스](https://ko.wikipedia.org/wiki/엑시노스 "wikilink") 대신 [퀄컴](../Page/퀄컴.md "wikilink")의 [스냅드래곤](../Page/스냅드래곤.md "wikilink") [AP가](https://ko.wikipedia.org/wiki/애플리케이션_프로세서 "wikilink") 장착되었다.
 
@@ -15,7 +19,7 @@
 
   - [세라믹 화이트](../Page/하양.md "wikilink")
 
-## 운영 체제/소프트웨어
+## 운영 체제 / 소프트웨어
 
 ### 안드로이드 2.3.5 진저브레드
 

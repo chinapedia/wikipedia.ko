@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Ju-ken](https://ko.wikipedia.org/wiki/Ju-ken).
 
 
-**Ju-ken**([1971년](../Page/1971년.md "wikilink") [6월 27일](../Page/6월_27일.md "wikilink") \~ )는 [지바현](../Page/지바현.md "wikilink") [후나바시시](../Page/후나바시시.md "wikilink") 출생의 [일본](../Page/일본.md "wikilink")의 [베이시스트이자](../Page/베이스_기타.md "wikilink") [세션 연주자이다](https://ko.wikipedia.org/wiki/세션_연주자 "wikilink"). 그는 일본내에서 가장 음악가들에게 인기가 많은 베이스 세션 연주자들 중 한명이다.
+**Ju-ken**([1971년](../Page/1971년.md "wikilink") [6월 27일](../Page/6월_27일.md "wikilink") \~ )은 [지바현](../Page/지바현.md "wikilink") [후나바시시](../Page/후나바시시.md "wikilink") 출생의 [일본](../Page/일본.md "wikilink")의 [베이시스트이자](../Page/베이스_기타.md "wikilink") [세션 연주자이다](https://ko.wikipedia.org/wiki/세션_연주자 "wikilink"). 그는 일본내에서 가장 음악가들에게 인기가 많은 베이스 세션 연주자들 중 한 명이다.
 
 ## 경력
 
@@ -66,5 +66,3 @@ Ju-ken은 수제 Sugi 베이스와 [펜더](../Page/펜더.md "wikilink") 빈티
   - <https://web.archive.org/web/20081022183430/http://www2.fostex.jp/user_file/fostex-sh/etc/JU-KEN.html>
 
 [분류:1971년 태어남](https://ko.wikipedia.org/wiki/분류:1971년_태어남 "wikilink") [분류:살아있는 사람](https://ko.wikipedia.org/wiki/분류:살아있는_사람 "wikilink") [분류:일본의 베이스 기타 연주자](https://ko.wikipedia.org/wiki/분류:일본의_베이스_기타_연주자 "wikilink") [분류:얼터너티브 록 음악가](https://ko.wikipedia.org/wiki/분류:얼터너티브_록_음악가 "wikilink")
-
-[sv:Ju-Ken](https://ko.wikipedia.org/wiki/sv:Ju-Ken "wikilink")

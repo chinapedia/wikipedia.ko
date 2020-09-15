@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [Think different](https://ko.wikipedia.org/wiki/Think_different).
 
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:Apple_logo_Think_Different_vectorized.svg "wikilink") **Think different**는 [애플이](https://ko.wikipedia.org/wiki/애플_\(기업\) "wikilink") 1997년에 [로스앤젤레스](https://ko.wikipedia.org/wiki/로스앤젤레스 "wikilink") [광고 대행사](../Page/광고_대행사.md "wikilink") [TBWA\\Chiat\\Day](https://ko.wikipedia.org/wiki/TBWA/Chiat/Day "wikilink") 사무소에서 만든 [광고 문구의](https://ko.wikipedia.org/wiki/광고_문구 "wikilink") 하나이다.\[1\] 유명한 TV 광고, 인쇄 광고물, 수많은 애플 제품의 TV 프로모션에도 사용되었다. 그러나 2002년의 [애플 스위치 광고 캠페인이](https://ko.wikipedia.org/wiki/애플_스위치_광고_캠페인 "wikilink") 시작되면서 애플은 이 선전 문구의 사용을 중단하였다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:Apple_logo_Think_Different_vectorized.svg "wikilink") **Think different**는 [애플](../Page/애플.md "wikilink")이 1997년에 [로스앤젤레스](https://ko.wikipedia.org/wiki/로스앤젤레스 "wikilink") [광고 대행사](../Page/광고_대행사.md "wikilink") [TBWA\\Chiat\\Day](https://ko.wikipedia.org/wiki/TBWA/Chiat/Day "wikilink") 사무소에서 만든 [광고 문구의](https://ko.wikipedia.org/wiki/광고_문구 "wikilink") 하나이다.\[1\] 유명한 TV 광고, 인쇄 광고물, 수많은 애플 제품의 TV 프로모션에도 사용되었다. 그러나 2002년의 [애플 스위치 광고 캠페인이](https://ko.wikipedia.org/wiki/애플_스위치_광고_캠페인 "wikilink") 시작되면서 애플은 이 선전 문구의 사용을 중단하였다.
 
 ## 문법
 
 "Think Different"라는 문구는 문법적으로 잘못된 데 대하여 비평을 받아왔다. "Think"는 동사이고 "different"(다른)이라는 형용사가 아닌 "differently"(다르게)라는 부사가 뒤에 와야 한다. 다만 메리엄-웹스터 온라인 사전에 따르면 1744년으로 되돌아가보면 "different"가 부사로 사용된 적이 있다.\[2\]
 
-애플 사에서는 다음과 같은 해명을 했다. Think different는 Think diffently가 아니라 Think something different'의 줄임말이라는 것이다. 따라서 Think Different는 '다르게 생각하라' 가 아니고 '다른 것을 생각하라'라고 해석하는 것이 맞다.
+애플 사에서는 다음과 같은 해명을 했다. Think different는 Think differently가 아니라 Think something different'의 줄임말이라는 것이다. 따라서 Think Different는 '다르게 생각하라' 가 아니고 '다른 것을 생각하라'라고 해석하는 것이 맞다.
 
 ## 광고 전문
 
@@ -31,7 +31,7 @@
 
 ## 같이 보기
 
-  - [애플](https://ko.wikipedia.org/wiki/애플_\(기업\) "wikilink")
+  - [애플](../Page/애플.md "wikilink")
   - [애플의 슬로건 목록](../Page/애플의_슬로건_목록.md "wikilink")
   - 광고
       - [1984 (광고)](../Page/1984_\(광고\).md "wikilink")

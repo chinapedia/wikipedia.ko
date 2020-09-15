@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [XYY 증후군](https://ko.wikipedia.org/wiki/XYY_증후군).
 
 
-**XYY 증후군**()은 [인간](https://ko.wikipedia.org/wiki/인간 "wikilink") [남성](https://ko.wikipedia.org/wiki/남성 "wikilink")이 [Y 염색체가](https://ko.wikipedia.org/wiki/Y_염색체 "wikilink") 하나 더 있어서 일반 46개의 염색체가 아닌 총 47개의 염색체가 있는 [성 염색체](https://ko.wikipedia.org/wiki/성_염색체 "wikilink") [이수성](https://ko.wikipedia.org/wiki/이수성_\(생물학\) "wikilink") 증후군이다. **야콥 증후군**, **제이콥스 증후군**으로도 불린다. 이 증후군은 **47,XYY** [핵형](../Page/핵형.md "wikilink")을 만들어내는데, 이는 1,000명의 출생 남아(男兒) 가운데 1명에게 발생한다.
+**XYY 증후군**()은 [인간](https://ko.wikipedia.org/wiki/인간 "wikilink") [남성](https://ko.wikipedia.org/wiki/남성 "wikilink")이 [Y 염색체가](https://ko.wikipedia.org/wiki/Y_염색체 "wikilink") 하나 더 있어서 일반 46개의 염색체가 아닌 총 47개의 염색체가 있는 [성 염색체](https://ko.wikipedia.org/wiki/성_염색체 "wikilink") [이수성](https://ko.wikipedia.org/wiki/이수성_\(생물학\) "wikilink") 증후군이다. **초남성 증후군**, **야콥 증후군**, **제이콥스 증후군**으로도 불린다. 이 증후군은 **47,XYY** [핵형](../Page/핵형.md "wikilink")을 만들어내는데, 이는 1,000명의 출생 남아(男兒) 가운데 1명에게 발생한다.
 
 의학적 [표현형](https://ko.wikipedia.org/wiki/표현형 "wikilink")은 정상이고\[1\]\[2\] 47,XYY 남성 중 대다수가 자신의 [핵형](../Page/핵형.md "wikilink")을 알지 못하기 때문에\[3\], 일부 의학 유전학자들 사이에서는 이 용어를 [증후군](https://ko.wikipedia.org/wiki/증후군 "wikilink")으로 부르는 것이 적절한지에 대한 논란이 있다.\[4\]
 

@@ -29,4 +29,4 @@
 
 [분류:IBM 소프트웨어](https://ko.wikipedia.org/wiki/분류:IBM_소프트웨어 "wikilink") [분류:1994년 소프트웨어](https://ko.wikipedia.org/wiki/분류:1994년_소프트웨어 "wikilink")
 
-1.  <http://www.scoug.com/os24u/2001/webexplorer.html>
+1.

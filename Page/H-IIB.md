@@ -147,7 +147,7 @@ H-IIB 1단 로켓은 112톤 추력인 [미쓰비시 LE-7A](../Page/미쓰비시_
 
 1.  [MBC南日本放送/最後のＨ２Ｂロケット　打ち上げ成功 [2020년](../Page/2020년.md "wikilink") [5월 21일](../Page/5월_21일.md "wikilink")(일본 시간)](https://news.yahoo.co.jp/articles/662ae52c57cb3ef260f0980138bc94bfa9767177)
 2.  [SPACE ENGINEERING DEVELOPMENT Co., Ltd/일본 출시 예정](https://www.sed.co.jp/tokusyu/rocket_jplan.html)
-3.  [JAXA press release H2B-F1](http://www.jaxa.jp/press/2009/09/20090916_sac_h2bf1.pdf)
+3.
 4.  [JAXA press release H2B-F2](http://www.jaxa.jp/press/2011/01/20110126_sac_h2bf2.pdf)
 5.  [JAXA press release H2B-F3](http://www.jaxa.jp/press/2012/07/20120721_h2bf3_j.html)
 6.  [JAXA press release H2B-F4](http://www.jaxa.jp/press/2013/08/20130804_h2bf4_j.html)

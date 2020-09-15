@@ -34,8 +34,8 @@
 <ul>
 <li><strong>주말편성조정</strong> : <strong>일요일</strong> (12:10 ~ 13:30)</li>
 </ul></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/송찬욱" title="wikilink">송찬욱</a>, <a href="https://ko.wikipedia.org/wiki/조현선" title="wikilink">조현선</a> (평일)<br />
-<a href="https://ko.wikipedia.org/wiki/김윤수" title="wikilink">김윤수</a>, <a href="https://ko.wikipedia.org/wiki/정하니" title="wikilink">정하니</a> (일요일)</p></td>
+<td><p>평일 : <a href="https://ko.wikipedia.org/wiki/송찬욱" title="wikilink">송찬욱</a>, <a href="https://ko.wikipedia.org/wiki/조현선" title="wikilink">조현선</a><br />
+일요일 : <a href="https://ko.wikipedia.org/wiki/김윤수" title="wikilink">김윤수</a>, <a href="https://ko.wikipedia.org/wiki/정하니" title="wikilink">정하니</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/채널A_뉴스_TOP_10.md" title="wikilink">채널A 뉴스 TOP 10</a></p></td>
@@ -52,8 +52,8 @@
 <li><strong>주말편성조정</strong> : <strong>토~일</strong> (19:30 ~ 20:20)</li>
 <li><strong>편성시간</strong> : <strong><a href="https://ko.wikipedia.org/wiki/스포츠A" title="wikilink">스포츠A</a></strong> : <strong>월~금</strong> (20:30 ~ 20:40)</li>
 </ul></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/동정민" title="wikilink">동정민</a>, <a href="https://ko.wikipedia.org/wiki/여인선" title="wikilink">여인선</a> (평일)<br />
-<a href="../Page/조수빈.md" title="wikilink">조수빈</a> (주말)</p></td>
+<td><p>평일 : <a href="https://ko.wikipedia.org/wiki/동정민" title="wikilink">동정민</a>, <a href="https://ko.wikipedia.org/wiki/여인선" title="wikilink">여인선</a><br />
+주말 : <a href="../Page/조수빈.md" title="wikilink">조수빈</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/채널A_뉴스특보" title="wikilink">채널A 뉴스특보</a></p></td>

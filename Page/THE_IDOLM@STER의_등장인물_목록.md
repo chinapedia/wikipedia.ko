@@ -234,7 +234,7 @@
 <td><p>74-53-77<br />
 ↓<br />
 78-55-77</p></td>
-<td><p>B형</p></td>
+<td><p>AB형</p></td>
 <td><p>5월 22일</p></td>
 <td><p>활발</p></td>
 <td><p>아미</p></td>
@@ -265,7 +265,7 @@
 <td><p>74-53-77<br />
 ↓<br />
 78-55-77</p></td>
-<td><p>B형</p></td>
+<td><p>AB형</p></td>
 <td><p>5월 22일</p></td>
 <td><p>활발</p></td>
 <td><p>마미</p></td>
@@ -326,7 +326,7 @@
 <td><p>84-55-82<br />
 ↓<br />
 86-55-83</p></td>
-<td><p>B형</p></td>
+<td><p>AB형</p></td>
 <td><p>11월 23일</p></td>
 <td><p>당당</p></td>
 <td><p>미키</p></td>
@@ -385,7 +385,7 @@ P 씨<br />
 <td><p>169 cm</p></td>
 <td><p>49 kg</p></td>
 <td><p>90-62-92</p></td>
-<td><p>B형</p></td>
+<td><p>AB형</p></td>
 <td><p>1월 21일</p></td>
 <td><p>고상</p></td>
 <td><p>저<br />
@@ -844,7 +844,7 @@ P 씨<br />
 <td><p>152 cm</p></td>
 <td><p>36 kg</p></td>
 <td><p>82-53-76</p></td>
-<td><p>B형</p></td>
+<td><p>AB형</p></td>
 <td><p>3월 7일</p></td>
 <td><p>얌전</p></td>
 <td><p>저(와타시)</p></td>
@@ -1237,7 +1237,7 @@ P 씨<br />
 10. 게임 중에 이시카와 사장의 '갑자기 두각을 나타내왔다', 리츠코의 '길에서 차에 치인 아이돌이 있다', 미키의 '허… 프로듀서'라는 대사와 '전격 마왕' 2009년 8월호 하세가와 아키코의 인터뷰 참조.
 11.  [765 프로덕션 프로듀서 모집 공지](http://www.idolmaster.jp/archive/recruit/index.htm)
 12.  [크레나플렉스](http://www.am-j.co.jp/newmachine/200410/020.html) 남코의 경품 뽑기 게임
-13.  [1](http://ascii.jp/elem/000/000/111/111768/index-4.html) 참고.'L4U\!'에서는 스스로 '2X세'라고 한다. 덧붙여 그 대사는 타키타의 애드립으로 생겨났다 [2](http://ameblo.jp/jurikichihour/entry-10339255205.html).
+13.  [1](http://ascii.jp/elem/000/000/111/111768/index-4.html)  참고.'L4U\!'에서는 스스로 '2X세'라고 한다. 덧붙여 그 대사는 타키타의 애드립으로 생겨났다 [2](http://ameblo.jp/jurikichihour/entry-10339255205.html).
 14. 만화 『Splash Red』 제3권 초회한정판 특전 드라마 CD
 15. '아이돌 마스터 InnocentBlue for 디어리 스타즈' 제3권 초회한정판 부속 드라마 CD에서의 성우
 16.

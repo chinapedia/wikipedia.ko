@@ -535,7 +535,7 @@
 
 <references/>
 
-[기록](https://ko.wikipedia.org/wiki/분류:첼시_FC "wikilink") [분류:축구단 기록과 통계](https://ko.wikipedia.org/wiki/분류:축구단_기록과_통계 "wikilink")
+[기록](https://ko.wikipedia.org/wiki/분류:첼시_FC "wikilink") [분류:잉글랜드 축구단의 기록과 통계](https://ko.wikipedia.org/wiki/분류:잉글랜드_축구단의_기록과_통계 "wikilink")
 
 1.
 2.

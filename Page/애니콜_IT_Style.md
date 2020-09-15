@@ -6,6 +6,6 @@
 ## 외부 링크
 
   - [삼성전자 - 제품소개 : SCH-W860](http://www.samsung.com/sec/consumer/mobile-phone/mobile-phone/skt/SCH-W860TI)
-  - [세티즌 : SCH-W860](http://review.cetizen.com/SCH-W860/view/1/4650/review)
+  - [세티즌 : SCH-W860](https://web.archive.org/web/20090930222340/http://review.cetizen.com/SCH-W860/view/1/4650/review)
 
 [IT Style](https://ko.wikipedia.org/wiki/분류:애니콜 "wikilink") [분류:2009년 출시](https://ko.wikipedia.org/wiki/분류:2009년_출시 "wikilink")

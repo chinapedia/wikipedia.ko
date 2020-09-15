@@ -9,6 +9,6 @@
 
 ## 외부 링크
 
-  - [공식 홈페이지](http://www.gironafutbolclub.com/)
+  - [공식 홈페이지](https://web.archive.org/web/20100107043607/http://www.gironafutbolclub.com/)
 
-[지로나_FC](https://ko.wikipedia.org/wiki/분류:지로나_FC "wikilink") [분류:1930년 설립된 축구단](https://ko.wikipedia.org/wiki/분류:1930년_설립된_축구단 "wikilink") [분류:스페인의 축구단](https://ko.wikipedia.org/wiki/분류:스페인의_축구단 "wikilink") [분류:카탈루냐 지방의 축구단](https://ko.wikipedia.org/wiki/분류:카탈루냐_지방의_축구단 "wikilink")
+[지로나_FC](https://ko.wikipedia.org/wiki/분류:지로나_FC "wikilink") [분류:1930년 설립된 축구단](https://ko.wikipedia.org/wiki/분류:1930년_설립된_축구단 "wikilink") [분류:스페인의 축구단](https://ko.wikipedia.org/wiki/분류:스페인의_축구단 "wikilink") [분류:카탈루냐의 축구단](https://ko.wikipedia.org/wiki/분류:카탈루냐의_축구단 "wikilink")

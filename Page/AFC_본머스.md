@@ -51,16 +51,13 @@
 ### 현재 선수 명단
 
   -
-    2017년 2월 5일 기준
+    2020년 1월 31일 기준
 
 ### 영구 결번
 
 **클럽 마스코트** [체리 베어](https://ko.wikipedia.org/wiki/체리_베어 "wikilink")(Cherr Bear)의 번호가 영구 결번으로 등록되어 있다.
 
 ### 임대 선수 명단
-
-  -
-    2014년 12월 23일 기준
 
 ## 클럽 레전드
 
@@ -96,9 +93,9 @@
 </dl>
 <ul>
 <li><a href="../Page/대니_잉스.md" title="wikilink">대니 잉스</a> (2006-2011)</li>
-<li><a href="../Page/타미_엘픽.md" title="wikilink">타미 엘픽</a> (2012-)</li>
+<li><a href="../Page/타미_엘픽.md" title="wikilink">타미 엘픽</a> (2012-2016)</li>
 <li><a href="../Page/칼럼_윌슨.md" title="wikilink">칼럼 윌슨</a> (2014-)</li>
-<li><a href="../Page/베일리_카길.md" title="wikilink">베일리 카길</a> (2008-)</li>
+<li><a href="../Page/베일리_카길.md" title="wikilink">베일리 카길</a> (2008-2018)</li>
 <li><a href="../Page/리오_퍼디낸드.md" title="wikilink">리오 퍼디낸드</a> → (1996)(임대)</li>
 <li><a href="../Page/저메인_디포.md" title="wikilink">저메인 디포</a> → (2000-2001)(임대)</li>
 <li><a href="https://ko.wikipedia.org/wiki/라이언_버트란드" title="wikilink">라이언 버트란드</a> → (2006-2007)(임대)</li>
@@ -108,7 +105,7 @@
 
 </dl>
 <ul>
-<li><a href="../Page/라이언_프레이저.md" title="wikilink">라이언 프레이저</a> (2013-)</li>
+<li><a href="../Page/라이언_프레이저.md" title="wikilink">라이언 프레이저</a> (2013-2020)</li>
 </ul></td>
 <td><p> </p></td>
 <td><dl>
@@ -117,7 +114,7 @@
 </dl>
 <ul>
 <li><a href="https://ko.wikipedia.org/wiki/존_오셔" title="wikilink">존 오셔</a> → (2000)(임대)</li>
-<li><a href="https://ko.wikipedia.org/wiki/이안_하트" title="wikilink">이안 하트</a> (2013-)</li>
+<li><a href="https://ko.wikipedia.org/wiki/이언_하트_(축구_선수)" title="wikilink">이안 하트</a> (2013-2015)</li>
 <li><a href="../Page/해리_아터.md" title="wikilink">해리 아터</a> (2010-)</li>
 </ul></td>
 <td><p> </p></td>
@@ -140,7 +137,7 @@
 
 ### 역대 주장
 
-지금 현재 주장인 [타미 엘픽은](../Page/타미_엘픽.md "wikilink") 12-13시즌 시작전인 [2012년](../Page/2012년.md "wikilink") 여름부터 팀에서 활약해 왔다. 본머스 수비의 핵심이며 정신적 지주자 이자, 팀의 핵심이다.
+지금 현재 주장인 [사이먼 프랜시스는](../Page/사이먼_프랜시스.md "wikilink") 12-13시즌 시작전인 [2012년](../Page/2012년.md "wikilink") 여름부터 팀에서 활약해 왔다. 본머스 수비의 핵심이며 정신적 지주자 이자, 팀의 핵심이다.
 
 ## 관련 항목
 

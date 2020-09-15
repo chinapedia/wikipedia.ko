@@ -5,7 +5,7 @@
 
 ## 같이 보기
 
-  - [비트토렌트](https://ko.wikipedia.org/wiki/비트토렌트 "wikilink")
+  - [비트토렌트](../Page/비트토렌트.md "wikilink")
   - [뮤토렌트](../Page/뮤토렌트.md "wikilink")
 
 ## 외부 링크

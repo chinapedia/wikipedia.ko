@@ -31,7 +31,7 @@ Rosetta@home 네트워크에서 구동하는 소프트웨어 Rosetta는 [C++](ht
 
 ## 자발적인 기여
 
-[섬네일는](https://ko.wikipedia.org/wiki/파일:Boincstats_R@H_CpD.gif "wikilink") [CAPS](https://ko.wikipedia.org/wiki/CAPS "wikilink")8 실험을 하는 동안의 연산 능력을 가리키고 있다.\]\] Rosetta@home의 연구는 개개의 프로젝트 구성원이 기부하는 연산 능력에 좌우된다. 2011년 3월 28일 기준으로 159개국 약 40,000 명의 이용자들이 Rosetta@home에 참여하고 있으며 평균 58 [테라플롭스의](../Page/플롭스.md "wikilink") 성능의 64,000대의 컴퓨터의 유휴 처리기 시간을 이용한다.\[18\]
+[섬네일는](https://ko.wikipedia.org/wiki/파일:Boincstats_R@H_CpD.png "wikilink") [CAPS](https://ko.wikipedia.org/wiki/CAPS "wikilink")8 실험을 하는 동안의 연산 능력을 가리키고 있다.\]\] Rosetta@home의 연구는 개개의 프로젝트 구성원이 기부하는 연산 능력에 좌우된다. 2011년 3월 28일 기준으로 159개국 약 40,000 명의 이용자들이 Rosetta@home에 참여하고 있으며 평균 58 [테라플롭스의](../Page/플롭스.md "wikilink") 성능의 64,000대의 컴퓨터의 유휴 처리기 시간을 이용한다.\[18\]
 
 {{-}}
 

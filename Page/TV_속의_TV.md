@@ -59,19 +59,16 @@
 | [2018년](../Page/2018년.md "wikilink") [9월 5일](../Page/9월_5일.md "wikilink")                                                                                      | 매주 [수요일](../Page/수요일.md "wikilink") 오후 2시 \~ 오후 3시                                                                                                           |                                                         |       |
 | [2018년](../Page/2018년.md "wikilink") [9월 15일](../Page/9월_15일.md "wikilink")                                                                                    | 매주 [토요일](../Page/토요일.md "wikilink") 아침 8시 10분 \~ 아침 9시 10분                                                                                                   |                                                         |       |
 
-## 현재 MC
-
-  - [강재형](../Page/강재형_\(아나운서\).md "wikilink") 아나운서 (남)
-  - [구은영](../Page/구은영.md "wikilink") 아나운서 (여)
-
 ## 역대 MC
 
   - 장하용
   - [변창립](../Page/변창립.md "wikilink")
   - [이성배](../Page/이성배_\(아나운서\).md "wikilink")
-  - 김창옥
+  - [김창옥](../Page/김창옥_\(언론인\).md "wikilink")
   - [이윤철](../Page/이윤철_\(아나운서\).md "wikilink")
   - [한광섭](../Page/한광섭.md "wikilink")
+  - 김기태 교수
+  - [강재형](../Page/강재형_\(아나운서\).md "wikilink")
   - [정혜정](../Page/정혜정.md "wikilink")
   - [김지은](../Page/김지은_\(아나운서\).md "wikilink")
   - 김태희
@@ -80,6 +77,9 @@
   - [이주연](../Page/이주연_\(아나운서\).md "wikilink")
   - [하지은](../Page/하지은.md "wikilink")
   - [김초롱](../Page/김초롱.md "wikilink")
+  - [구은영](../Page/구은영.md "wikilink")
+
+## 편성 변경
 
 ## 경쟁 프로그램
 

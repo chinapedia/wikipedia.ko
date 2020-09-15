@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [AKS 소수판별법](https://ko.wikipedia.org/wiki/AKS_소수판별법).
 
 
-**AKS 소수판별법**은 어떤 [자연수](../Page/자연수.md "wikilink")가 [소수인지](../Page/소수_\(수론\).md "wikilink") 판별하는 [결정론적 알고리즘이다](../Page/결정론적_알고리즘.md "wikilink"). 2002년 8월 6일, [인도 공과대학교 칸푸르의](https://ko.wikipedia.org/wiki/인도_공과대학교_칸푸르 "wikilink") 컴퓨터 과학자 [마닌드라 아그라왈](https://ko.wikipedia.org/wiki/마닌드라_아그라왈 "wikilink"), [니라지 카얄](https://ko.wikipedia.org/wiki/니라지_카얄 "wikilink"), [니틴 삭세나가](https://ko.wikipedia.org/wiki/니틴_삭세나 "wikilink") 공동으로 출판한 논문 "PRIMES is in P"\[1\]에서 처음으로 발표되었다.
+**AKS 소수판별법**은 어떤 [자연수](../Page/자연수.md "wikilink")가 [소수인지](../Page/소수_\(수론\).md "wikilink") 판별하는 [결정론적 알고리즘이다](../Page/결정론적_알고리즘.md "wikilink"). 2002년 8월 6일, [인도 공과대학교 칸푸르의](../Page/인도_공과대학교_칸푸르.md "wikilink") 컴퓨터 과학자 [마닌드라 아그라왈](https://ko.wikipedia.org/wiki/마닌드라_아그라왈 "wikilink"), [니라지 카얄](https://ko.wikipedia.org/wiki/니라지_카얄 "wikilink"), [니틴 삭세나가](https://ko.wikipedia.org/wiki/니틴_삭세나 "wikilink") 공동으로 출판한 논문 "PRIMES is in P"\[1\]에서 처음으로 발표되었다.
 
 세 저자는 이 연구로 2006년 [괴델상](https://ko.wikipedia.org/wiki/괴델상 "wikilink"), [풀커슨상](../Page/풀커슨상.md "wikilink")을 포함 각종 상을 수상하였다.
 
@@ -11,7 +11,7 @@ AKS 소수판별법은 최초로 발견된 일반적이고, 무조건적이고, 
 
   - 일반적: AKS 알고리즘은 *모든* 자연수에 대해 그 수가 소수인지 합성수인지를 판별할 수 있다. 속도가 빠른 기존의 소수 판별 알고리즘들은 몇몇 특징을 가진 소수에 대해서만 작동하였다.
 
-예를 들어 [루카스-레머 소수판별법은](https://ko.wikipedia.org/wiki/루카스-레머_소수판별법 "wikilink") [메르센 소수에](../Page/메르센_소수.md "wikilink") 대해서만 동작하며, [루카스-레머-리젤 소수판별법은](https://ko.wikipedia.org/wiki/루카스-레머-리젤_소수판별법 "wikilink") *k* ⋅ 2<sup>*n*</sup> − 1(k는 홀수)인 수에 대해서만 작동하고, [페팽 소수판별법은](https://ko.wikipedia.org/wiki/페팽_소수판별법 "wikilink") [페르마 수에](../Page/페르마_수.md "wikilink") 대해서만 동작한다.
+예를 들어 [루카스-레머 소수판별법은](https://ko.wikipedia.org/wiki/루카스-레머_소수판별법 "wikilink") [메르센 소수에](../Page/메르센_소수.md "wikilink") 대해서만 동작하며, [뤼카-레머-리젤 소수판별법은](https://ko.wikipedia.org/wiki/뤼카–레머–리젤_소수판별법 "wikilink") *k* ⋅ 2<sup>*n*</sup> − 1(k는 홀수)인 수에 대해서만 작동하고, [페팽 소수판별법은](https://ko.wikipedia.org/wiki/페팽_소수판별법 "wikilink") [페르마 수에](../Page/페르마_수.md "wikilink") 대해서만 동작한다.
 
   - [다항 시간](https://ko.wikipedia.org/wiki/다항_시간 "wikilink"): AKS 알고리즘의 [시간 복잡도는](../Page/시간_복잡도.md "wikilink") 최악의 경우에도 소수의 자리수에 대해 [다항 시간안에](https://ko.wikipedia.org/wiki/다항_시간 "wikilink") 완료된다. [타원곡선 소수판별법이나](https://ko.wikipedia.org/wiki/타원곡선_소수판별법 "wikilink") [APR 소수판별법은](https://ko.wikipedia.org/wiki/APR_소수판별법 "wikilink") 모든 자연수에 대해 다항 시간 안에 완료된다는 것이 증명되지 않았다.
   - [결정론적](../Page/결정론적_알고리즘.md "wikilink"): AKS 알고리즘은 자연수가 소수인지 합성수인지를 결정적으로 확인할 수 있다. [밀러-라빈 소수판별법이나](../Page/밀러-라빈_소수판별법.md "wikilink") [베일리-PSW 소수판별법은](https://ko.wikipedia.org/wiki/베일리-PSW_소수판별법 "wikilink") 모든 자연수에 대해 다항 시간 안에 완료되지만, 이 판별법으로 소수라는 답이 나오더라도 해당 자연수가 합성수일 확률이 존재한다.

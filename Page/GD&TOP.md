@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [GD\&TOP](https://ko.wikipedia.org/wiki/GD\&TOP).
 
 
-**GD\&TOP**은 대한민국의 음악 그룹 [빅뱅의](../Page/빅뱅_\(음악_그룹\).md "wikilink") [G-Dragon과](../Page/지드래곤.md "wikilink") [T.O.P](../Page/T.O.P.md "wikilink")으로 구성된 유닛 그룹이다. 2010년에 첫 정규 음반 *[GD\&TOP](../Page/GD&TOP_\(음반\).md "wikilink")*을 발매했으며, 이후 5년만에 [빅뱅의](../Page/빅뱅_\(음악_그룹\).md "wikilink") 싱글 음반 *[E](https://ko.wikipedia.org/wiki/E_\(빅뱅의_싱글\) "wikilink")*의 더블 타이틀으로 신곡 " [쩔어](https://ko.wikipedia.org/wiki/쩔어 "wikilink")"를 발표했다.\[1\]\[2\]
+**GD\&TOP**은 대한민국의 음악 그룹 [빅뱅의](../Page/빅뱅_\(음악_그룹\).md "wikilink") [G-Dragon과](../Page/지드래곤.md "wikilink") [T.O.P](../Page/T.O.P.md "wikilink")으로 구성된 유닛 그룹이다. [2010년](../Page/2010년.md "wikilink")에 첫 정규 음반 *[GD\&TOP](../Page/GD&TOP_\(음반\).md "wikilink")*을 발매했으며, 이후 5년만인 [2015년](../Page/2015년.md "wikilink") [8월](../Page/8월.md "wikilink")에 [빅뱅의](../Page/빅뱅_\(음악_그룹\).md "wikilink") 싱글 음반 *[E](https://ko.wikipedia.org/wiki/E_\(빅뱅의_싱글\) "wikilink")*의 더블 타이틀으로 신곡 " [쩔어](https://ko.wikipedia.org/wiki/쩔어 "wikilink")"를 발표했다.\[1\]\[2\]
 
 ## 구성원
 
@@ -108,7 +108,7 @@
   - [GD\&TOP 공식 사이트](http://www.ygbigbang.com/gdtop/)
   - [YG 엔터테인먼트](http://ygfamily.com/)
 
-[분류:빅뱅](https://ko.wikipedia.org/wiki/분류:빅뱅 "wikilink") [분류:지드래곤](https://ko.wikipedia.org/wiki/분류:지드래곤 "wikilink") [분류:T.O.P](https://ko.wikipedia.org/wiki/분류:T.O.P "wikilink") [분류:YG 엔터테인먼트 소속](https://ko.wikipedia.org/wiki/분류:YG_엔터테인먼트_소속 "wikilink") [분류:K-pop 음악 그룹](https://ko.wikipedia.org/wiki/분류:K-pop_음악_그룹 "wikilink") [분류:대한민국의 래퍼](https://ko.wikipedia.org/wiki/분류:대한민국의_래퍼 "wikilink") [분류:유닛 음악 그룹](https://ko.wikipedia.org/wiki/분류:유닛_음악_그룹 "wikilink") [분류:남성 듀오](https://ko.wikipedia.org/wiki/분류:남성_듀오 "wikilink") [분류:2010년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2010년_결성된_음악_그룹 "wikilink")
+[분류:빅뱅](https://ko.wikipedia.org/wiki/분류:빅뱅 "wikilink") [분류:지드래곤](https://ko.wikipedia.org/wiki/분류:지드래곤 "wikilink") [분류:T.O.P](https://ko.wikipedia.org/wiki/분류:T.O.P "wikilink") [분류:YG 엔터테인먼트 소속](https://ko.wikipedia.org/wiki/분류:YG_엔터테인먼트_소속 "wikilink") [분류:K-pop 음악 그룹](https://ko.wikipedia.org/wiki/분류:K-pop_음악_그룹 "wikilink") [분류:대한민국의 힙합 그룹](https://ko.wikipedia.org/wiki/분류:대한민국의_힙합_그룹 "wikilink") [분류:유닛 음악 그룹](https://ko.wikipedia.org/wiki/분류:유닛_음악_그룹 "wikilink") [분류:남성 듀오](https://ko.wikipedia.org/wiki/분류:남성_듀오 "wikilink") [분류:2010년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2010년_결성된_음악_그룹 "wikilink")
 
 1.
 2.

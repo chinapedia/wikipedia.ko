@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [SNH48](https://ko.wikipedia.org/wiki/SNH48).
 
 
-**SNH48**(에스엔에이치포티에이트)는 [중화인민공화국](../Page/중화인민공화국.md "wikilink")의 [상하이 시를](https://ko.wikipedia.org/wiki/상하이_시 "wikilink") 중심으로 활동하는 [여성](../Page/여성.md "wikilink") [아이돌 그룹이다](https://ko.wikipedia.org/wiki/아이돌_그룹 "wikilink").
+**SNH48**(에스엔에이치포티에이트)는 [중화인민공화국](../Page/중화인민공화국.md "wikilink")의 [상하이 시를](https://ko.wikipedia.org/wiki/상하이_시 "wikilink") 중심으로 활동하고 있는 [여성](../Page/여성.md "wikilink") [아이돌 그룹이다](https://ko.wikipedia.org/wiki/아이돌_그룹 "wikilink").
 
 ## 개요
 
@@ -99,7 +99,7 @@ SNH48의 어드바이저(고문)은 office48의 야마모토 마나부(전 AKB48
 <td></td>
 <td><p>1기</p></td>
 <td><p>상해 구상 연예 경기 유한공사</p></td>
-<td></td>
+<td><p>최연장자</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -126,7 +126,8 @@ SNH48의 어드바이저(고문)은 office48의 야마모토 마나부(전 AKB48
 <td><p><strong></strong></p></td>
 <td><p>1기</p></td>
 <td><p>상해 구상 연예 경기 유한공사</p></td>
-<td><p>캡틴</p></td>
+<td><p>캡틴<br />
+최연장자</p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -135,7 +136,7 @@ SNH48의 어드바이저(고문)은 office48의 야마모토 마나부(전 AKB48
 <td></td>
 <td><p>2기</p></td>
 <td><p>상해 구상 연예 경기 유한공사</p></td>
-<td></td>
+<td><p>최연장자</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -144,7 +145,7 @@ SNH48의 어드바이저(고문)은 office48의 야마모토 마나부(전 AKB48
 <td></td>
 <td><p>1기</p></td>
 <td><p>상해 구상 연예 경기 유한공사</p></td>
-<td></td>
+<td><p>최연장자</p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -153,7 +154,7 @@ SNH48의 어드바이저(고문)은 office48의 야마모토 마나부(전 AKB48
 <td></td>
 <td><p>1기</p></td>
 <td><p>상해 구상 연예 경기 유한공사</p></td>
-<td></td>
+<td><p>최연장자</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -162,7 +163,7 @@ SNH48의 어드바이저(고문)은 office48의 야마모토 마나부(전 AKB48
 <td></td>
 <td><p>5기</p></td>
 <td><p>상해 구상 연예 경기 유한공사</p></td>
-<td></td>
+<td><p>최연장자</p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -180,7 +181,8 @@ SNH48의 어드바이저(고문)은 office48의 야마모토 마나부(전 AKB48
 <td><p><strong></strong></p></td>
 <td><p>1기</p></td>
 <td><p>상해 구상 연예 경기 유한공사</p></td>
-<td><p>부캡틴</p></td>
+<td><p>부캡틴<br />
+최연장자</p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -189,7 +191,7 @@ SNH48의 어드바이저(고문)은 office48의 야마모토 마나부(전 AKB48
 <td></td>
 <td><p>1기</p></td>
 <td><p>상해 구상 연예 경기 유한공사</p></td>
-<td></td>
+<td><p>최연장자</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -207,7 +209,7 @@ SNH48의 어드바이저(고문)은 office48의 야마모토 마나부(전 AKB48
 <td></td>
 <td><p>4기</p></td>
 <td><p>상해 구상 연예 경기 유한공사</p></td>
-<td></td>
+<td><p>최연장자</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -216,7 +218,7 @@ SNH48의 어드바이저(고문)은 office48의 야마모토 마나부(전 AKB48
 <td></td>
 <td><p>2기</p></td>
 <td><p>상해 구상 연예 경기 유한공사</p></td>
-<td></td>
+<td><p>최연장자</p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -234,7 +236,7 @@ SNH48의 어드바이저(고문)은 office48의 야마모토 마나부(전 AKB48
 <td></td>
 <td><p>1기</p></td>
 <td><p>상해 구상 연예 경기 유한공사</p></td>
-<td></td>
+<td><p>최연장자</p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -247,12 +249,12 @@ SNH48의 어드바이저(고문)은 office48의 야마모토 마나부(전 AKB48
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/쉬쟈치" title="wikilink">쉬쟈치</a></p></td>
+<td><p><a href="../Page/쉬쟈치.md" title="wikilink">쉬쟈치</a></p></td>
 <td><p>Xǔ Jiāqí</p></td>
 <td></td>
 <td><p>1기</p></td>
 <td><p>상해 구상 연예 경기 유한공사</p></td>
-<td></td>
+<td><p>최연장자</p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -270,7 +272,7 @@ SNH48의 어드바이저(고문)은 office48의 야마모토 마나부(전 AKB48
 <td></td>
 <td><p>9기</p></td>
 <td><p>상해 구상 연예 경기 유한공사</p></td>
-<td></td>
+<td><p>최연장자</p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -279,7 +281,7 @@ SNH48의 어드바이저(고문)은 office48의 야마모토 마나부(전 AKB48
 <td></td>
 <td><p>3기</p></td>
 <td><p>상해 구상 연예 경기 유한공사</p></td>
-<td></td>
+<td><p>최연장자</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -297,7 +299,7 @@ SNH48의 어드바이저(고문)은 office48의 야마모토 마나부(전 AKB48
 <td></td>
 <td><p>1기</p></td>
 <td><p>상해 구상 연예 경기 유한공사</p></td>
-<td></td>
+<td><p>최연장자</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -333,7 +335,7 @@ SNH48의 어드바이저(고문)은 office48의 야마모토 마나부(전 AKB48
 <td></td>
 <td><p>2기</p></td>
 <td><p>상해 구상 연예 경기 유한공사</p></td>
-<td></td>
+<td><p>최연장자</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -342,7 +344,7 @@ SNH48의 어드바이저(고문)은 office48의 야마모토 마나부(전 AKB48
 <td></td>
 <td><p>2기</p></td>
 <td><p>상해 구상 연예 경기 유한공사</p></td>
-<td></td>
+<td><p>최연장자</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong></strong></p></td>
@@ -361,7 +363,7 @@ SNH48의 어드바이저(고문)은 office48의 야마모토 마나부(전 AKB48
 <td></td>
 <td><p>2기</p></td>
 <td><p>상해 구상 연예 경기 유한공사</p></td>
-<td></td>
+<td><p>최연장자</p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -379,7 +381,7 @@ SNH48의 어드바이저(고문)은 office48의 야마모토 마나부(전 AKB48
 <td></td>
 <td><p>8기</p></td>
 <td><p>상해 구상 연예 경기 유한공사</p></td>
-<td></td>
+<td><p>최연장자</p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -406,7 +408,7 @@ SNH48의 어드바이저(고문)은 office48의 야마모토 마나부(전 AKB48
 <td></td>
 <td><p>2기</p></td>
 <td><p>상해 구상 연예 경기 유한공사</p></td>
-<td></td>
+<td><p>최연장자</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -433,7 +435,7 @@ SNH48의 어드바이저(고문)은 office48의 야마모토 마나부(전 AKB48
 <td></td>
 <td><p>8기</p></td>
 <td><p>상해 구상 연예 경기 유한공사</p></td>
-<td></td>
+<td><p>최연장자</p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -442,7 +444,7 @@ SNH48의 어드바이저(고문)은 office48의 야마모토 마나부(전 AKB48
 <td></td>
 <td><p>SHY48 1기</p></td>
 <td><p>상해 구상 연예 경기 유한공사</p></td>
-<td></td>
+<td><p>최연장자</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -478,7 +480,7 @@ SNH48의 어드바이저(고문)은 office48의 야마모토 마나부(전 AKB48
 <td></td>
 <td><p>5기</p></td>
 <td><p>상해 구상 연예 경기 유한공사</p></td>
-<td></td>
+<td><p>최연장자</p></td>
 </tr>
 <tr class="even">
 <td><p><strong></strong></p></td>
@@ -487,7 +489,8 @@ SNH48의 어드바이저(고문)은 office48의 야마모토 마나부(전 AKB48
 <td><p><strong></strong></p></td>
 <td><p>2기</p></td>
 <td><p>상해 구상 연예 경기 유한공사</p></td>
-<td><p>캡틴</p></td>
+<td><p>캡틴<br />
+최연장자</p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -496,7 +499,7 @@ SNH48의 어드바이저(고문)은 office48의 야마모토 마나부(전 AKB48
 <td></td>
 <td><p>9기</p></td>
 <td><p>상해 구상 연예 경기 유한공사</p></td>
-<td></td>
+<td><p>최연장자</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -505,7 +508,7 @@ SNH48의 어드바이저(고문)은 office48의 야마모토 마나부(전 AKB48
 <td></td>
 <td><p>5기</p></td>
 <td><p>상해 구상 연예 경기 유한공사</p></td>
-<td></td>
+<td><p>최연장자</p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -514,7 +517,7 @@ SNH48의 어드바이저(고문)은 office48의 야마모토 마나부(전 AKB48
 <td></td>
 <td><p>3기</p></td>
 <td><p>상해 구상 연예 경기 유한공사</p></td>
-<td></td>
+<td><p>최연장자</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -532,7 +535,7 @@ SNH48의 어드바이저(고문)은 office48의 야마모토 마나부(전 AKB48
 <td></td>
 <td><p>2기</p></td>
 <td><p>상해 구상 연예 경기 유한공사</p></td>
-<td></td>
+<td><p>최연장자</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -581,7 +584,7 @@ SNH48의 어드바이저(고문)은 office48의 야마모토 마나부(전 AKB48
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/페이친위엔" title="wikilink">페이친위엔</a></p></td>
+<td><p><a href="../Page/페이친위엔.md" title="wikilink">페이친위엔</a></p></td>
 <td><p>Fèi Qìnyuán</p></td>
 <td></td>
 <td><p>5기</p></td>
@@ -622,7 +625,7 @@ SNH48의 어드바이저(고문)은 office48의 야마모토 마나부(전 AKB48
 <td></td>
 <td><p>5기</p></td>
 <td><p>상해 구상 연예 경기 유한공사</p></td>
-<td></td>
+<td><p>최연장자</p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -649,7 +652,7 @@ SNH48의 어드바이저(고문)은 office48의 야마모토 마나부(전 AKB48
 <td></td>
 <td><p>2기</p></td>
 <td><p>상해 구상 연예 경기 유한공사</p></td>
-<td></td>
+<td><p>최연장자</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -658,7 +661,7 @@ SNH48의 어드바이저(고문)은 office48의 야마모토 마나부(전 AKB48
 <td></td>
 <td><p>3기</p></td>
 <td><p>상해 구상 연예 경기 유한공사</p></td>
-<td></td>
+<td><p>최연장자</p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -676,7 +679,7 @@ SNH48의 어드바이저(고문)은 office48의 야마모토 마나부(전 AKB48
 <td></td>
 <td><p>2기</p></td>
 <td><p>상해 구상 연예 경기 유한공사</p></td>
-<td></td>
+<td><p>최연장자</p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -748,7 +751,7 @@ SNH48의 어드바이저(고문)은 office48의 야마모토 마나부(전 AKB48
 <td></td>
 <td><p>3기</p></td>
 <td><p>상해 구상 연예 경기 유한공사</p></td>
-<td></td>
+<td><p>최연장자</p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -766,7 +769,8 @@ SNH48의 어드바이저(고문)은 office48의 야마모토 마나부(전 AKB48
 <td><p><strong></strong></p></td>
 <td><p>3기</p></td>
 <td><p>상해 구상 연예 경기 유한공사</p></td>
-<td><p>부캡틴</p></td>
+<td><p>부캡틴<br />
+최연장자</p></td>
 </tr>
 </tbody>
 </table>
@@ -802,7 +806,7 @@ SNH48의 어드바이저(고문)은 office48의 야마모토 마나부(전 AKB48
 <td></td>
 <td><p>4기</p></td>
 <td><p>상해 구상 연예 경기 유한공사</p></td>
-<td></td>
+<td><p>최연장자</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong></strong></p></td>
@@ -883,7 +887,7 @@ SNH48의 어드바이저(고문)은 office48의 야마모토 마나부(전 AKB48
 <td></td>
 <td><p>4기</p></td>
 <td><p>상해 구상 연예 경기 유한공사</p></td>
-<td></td>
+<td><p>최연장자</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -1111,21 +1115,13 @@ SNH48의 어드바이저(고문)은 office48의 야마모토 마나부(전 AKB48
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/류잉" title="wikilink">류잉</a></p></td>
-<td><p>Liú Yíng</p></td>
-<td></td>
-<td><p>7기</p></td>
-<td><p>예비생</p></td>
-</tr>
-<tr class="even">
-<td></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/판옌치" title="wikilink">판옌치</a></p></td>
 <td><p>Pān Yànqí</p></td>
 <td></td>
 <td><p>7기</p></td>
 <td><p>예비생</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/선즈린" title="wikilink">선즈린</a></p></td>
 <td><p>Shěn Zhīlín</p></td>
@@ -1133,7 +1129,7 @@ SNH48의 어드바이저(고문)은 office48의 야마모토 마나부(전 AKB48
 <td><p>2기</p></td>
 <td><p>예비생</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/타오보얼" title="wikilink">타오보얼</a></p></td>
 <td><p>Táo Bō'ěr</p></td>
@@ -1141,7 +1137,7 @@ SNH48의 어드바이저(고문)은 office48의 야마모토 마나부(전 AKB48
 <td><p>8기</p></td>
 <td><p>팀NⅡ</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/탕안치" title="wikilink">탕안치</a></p></td>
 <td><p>Táng Ānqí</p></td>
@@ -1149,7 +1145,7 @@ SNH48의 어드바이저(고문)은 office48의 야마모토 마나부(전 AKB48
 <td><p>2기</p></td>
 <td><p>팀NⅡ</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/왕수" title="wikilink">왕수</a></p></td>
 <td><p>Wāng Shù</p></td>
@@ -1157,7 +1153,7 @@ SNH48의 어드바이저(고문)은 office48의 야마모토 마나부(전 AKB48
 <td><p>4기</p></td>
 <td><p>팀X</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/쉬스치" title="wikilink">쉬스치</a></p></td>
 <td><p>Xú Shīqí</p></td>
@@ -1165,7 +1161,7 @@ SNH48의 어드바이저(고문)은 office48의 야마모토 마나부(전 AKB48
 <td><p>7기</p></td>
 <td><p>팀X</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/옌자오쥔" title="wikilink">옌자오쥔</a></p></td>
 <td><p>Yán Jiǎojūn</p></td>
@@ -1173,7 +1169,7 @@ SNH48의 어드바이저(고문)은 office48의 야마모토 마나부(전 AKB48
 <td><p>5기</p></td>
 <td><p>팀NⅡ</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/양윈위" title="wikilink">양윈위</a></p></td>
 <td><p>Yáng Yùnyù</p></td>
@@ -1181,7 +1177,7 @@ SNH48의 어드바이저(고문)은 office48의 야마모토 마나부(전 AKB48
 <td><p>4기</p></td>
 <td><p>팀X</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/왕바이숴" title="wikilink">왕바이숴</a></p></td>
 <td><p>Wáng Bǎishuò</p></td>
@@ -1189,7 +1185,7 @@ SNH48의 어드바이저(고문)은 office48의 야마모토 마나부(전 AKB48
 <td><p>3기</p></td>
 <td><p>예비생</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/왕시위안" title="wikilink">왕시위안</a></p></td>
 <td><p>Wáng Xīyuán</p></td>
@@ -1197,7 +1193,7 @@ SNH48의 어드바이저(고문)은 office48의 야마모토 마나부(전 AKB48
 <td><p>9기</p></td>
 <td><p>팀Ft</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/우옌원" title="wikilink">우옌원</a></p></td>
 <td><p>Wú Yànwén</p></td>
@@ -1205,7 +1201,7 @@ SNH48의 어드바이저(고문)은 office48의 야마모토 마나부(전 AKB48
 <td><p>3기</p></td>
 <td><p>예비생</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/위엔항" title="wikilink">위엔항</a></p></td>
 <td><p>Yuán Háng</p></td>
@@ -1213,7 +1209,7 @@ SNH48의 어드바이저(고문)은 office48의 야마모토 마나부(전 AKB48
 <td><p>5기</p></td>
 <td><p>팀HⅡ</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/쩡샤오원" title="wikilink">쩡샤오원</a></p></td>
 <td><p>Zēng Xiǎowén</p></td>
@@ -1221,7 +1217,7 @@ SNH48의 어드바이저(고문)은 office48의 야마모토 마나부(전 AKB48
 <td><p>7기</p></td>
 <td><p>팀HⅡ</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p><a href="../Page/쩡옌펀.md" title="wikilink">쩡옌펀</a></p></td>
 <td><p>Zēng Yànfēn</p></td>
@@ -1229,7 +1225,7 @@ SNH48의 어드바이저(고문)은 office48의 야마모토 마나부(전 AKB48
 <td><p>2기</p></td>
 <td><p>팀NⅡ</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/장원징" title="wikilink">장원징</a></p></td>
 <td><p>Zhāng Wénjìng</p></td>
@@ -1237,7 +1233,7 @@ SNH48의 어드바이저(고문)은 office48의 야마모토 마나부(전 AKB48
 <td><p>5기</p></td>
 <td><p>예비생</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/장신웨" title="wikilink">장신웨</a></p></td>
 <td><p>Zhāng Xīnyuè</p></td>
@@ -1245,7 +1241,7 @@ SNH48의 어드바이저(고문)은 office48의 야마모토 마나부(전 AKB48
 <td><p>9기</p></td>
 <td><p>팀Ft</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/장야멍" title="wikilink">장야멍</a></p></td>
 <td><p>Zhāng Yǎmèng</p></td>
@@ -1253,7 +1249,7 @@ SNH48의 어드바이저(고문)은 office48의 야마모토 마나부(전 AKB48
 <td><p>7기</p></td>
 <td><p>팀NⅡ</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/자오한첸" title="wikilink">자오한첸</a></p></td>
 <td><p>Zhào Hánqiàn</p></td>
@@ -1261,7 +1257,7 @@ SNH48의 어드바이저(고문)은 office48의 야마모토 마나부(전 AKB48
 <td><p>7기</p></td>
 <td><p>팀SⅡ</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p><a href="../Page/자오자민.md" title="wikilink">자오자민</a></p></td>
 <td><p>Zhào Jiāmǐn</p></td>
@@ -1269,7 +1265,7 @@ SNH48의 어드바이저(고문)은 office48의 야마모토 마나부(전 AKB48
 <td><p>1기</p></td>
 <td><p>팀SⅡ</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/쟈오예" title="wikilink">쟈오예</a></p></td>
 <td><p>Zhào Yè</p></td>
@@ -1277,7 +1273,7 @@ SNH48의 어드바이저(고문)은 office48의 야마모토 마나부(전 AKB48
 <td><p>3기</p></td>
 <td><p>팀SⅡ</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/저우이" title="wikilink">저우이</a></p></td>
 <td><p>Zhōu Yí</p></td>
@@ -1285,7 +1281,7 @@ SNH48의 어드바이저(고문)은 office48의 야마모토 마나부(전 AKB48
 <td><p>5기</p></td>
 <td><p>팀NⅡ</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/쩌우자자" title="wikilink">쩌우자자</a></p></td>
 <td><p>Zōu Jiājiā</p></td>
@@ -1293,7 +1289,7 @@ SNH48의 어드바이저(고문)은 office48의 야마모토 마나부(전 AKB48
 <td><p>5기</p></td>
 <td><p>팀XⅡ</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -1577,7 +1573,7 @@ SNH48의 어드바이저(고문)은 office48의 야마모토 마나부(전 AKB48
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/셰레이레이" title="wikilink">셰레이레이</a></p></td>
+<td><p><a href="../Page/셰레이레이.md" title="wikilink">셰레이레이</a></p></td>
 <td><p>Xiè Lěilěi</p></td>
 <td></td>
 <td><p>XII</p></td>
@@ -2434,6 +2430,15 @@ SNH48의 어드바이저(고문)은 office48의 야마모토 마나부(전 AKB48
 </tr>
 <tr class="even">
 <td></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/류잉" title="wikilink">류잉</a></p></td>
+<td><p>Liú Yíng</p></td>
+<td></td>
+<td><p>7기</p></td>
+<td><p>2020년 1월 10일</p></td>
+<td><p>예비생</p></td>
+</tr>
+<tr class="odd">
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2919,7 +2924,7 @@ SNH11102399</p></td>
 2019년 9월 21일<br />
 2019년 9월 23일<br />
 2019년 10월 8일</p></td>
-<td><p>《<strong><a href="https://ko.wikipedia.org/wiki/시간의_노래" title="wikilink">시간적가(时间的歌)</a></strong>》</p></td>
+<td><p><strong><a href="https://ko.wikipedia.org/wiki/시간의_노래" title="wikilink">시간적가(时间的歌)</a></strong></p></td>
 <td><p>CD<br />
 무<br />
 CD+DVD<br />
@@ -2941,15 +2946,38 @@ SNH11102630</p></td>
 <tr class="odd">
 <td><p>26</p></td>
 <td><p>2019년 12월 28일</p></td>
-<td><p>《<strong><a href="https://ko.wikipedia.org/wiki/청춘의_날개" title="wikilink">청춘지익(青春之翼)</a></strong>》</p></td>
+<td><p><strong><a href="https://ko.wikipedia.org/wiki/청춘의_날개" title="wikilink">청춘지익(青春之翼)</a></strong></p></td>
 <td><p>CD<br />
 무</p></td>
 <td><p>SNH11102764<br />
 SNH11102764</p></td>
 <td><p>표준판<br />
-연증판</p></td>
+연증판 (SNH48판, BEJ48판, GNZ48판)</p></td>
 </tr>
 <tr class="even">
+<td><p>27</p></td>
+<td><p>2020년 6월 13일</p></td>
+<td><p><strong><a href="https://ko.wikipedia.org/wiki/하늘은_맑아" title="wikilink">천청료(天晴了)</a></strong></p></td>
+<td><p>무<br />
+무<br />
+CD<br />
+무<br />
+CD<br />
+CD</p></td>
+<td><p>SNH11102856<br />
+SNH11102856<br />
+<br />
+<br />
+<br />
+</p></td>
+<td><p>표준판<br />
+표준연증판<br />
+극장판<br />
+극장연증판<br />
+전원응원판<br />
+인터넷응원판</p></td>
+</tr>
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>

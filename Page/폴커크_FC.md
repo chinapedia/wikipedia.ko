@@ -19,7 +19,7 @@
 
   - [카스페르 슈마이켈](../Page/카스페르_슈마이켈.md "wikilink")
 
-  - [크리스 워들](https://ko.wikipedia.org/wiki/크리스_워들 "wikilink")
+  - [크리스 워들](../Page/크리스_워들.md "wikilink")
 
   - [앤터니 스토크스](https://ko.wikipedia.org/wiki/앤터니_스토크스 "wikilink")
 

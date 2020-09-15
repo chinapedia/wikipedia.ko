@@ -73,7 +73,7 @@
   - 《[불후의 명곡 전설을 노래하다](https://ko.wikipedia.org/wiki/불후의_명곡_전설을_노래하다 "wikilink")》([KBS2](../Page/KBS_2TV.md "wikilink"), 2013년)
   - 《[오늘부터 출근](../Page/오늘부터_출근.md "wikilink")》([tvN](https://ko.wikipedia.org/wiki/tvN "wikilink"), 2014년)
   - 《[미스터리 음악쇼 복면가왕](../Page/미스터리_음악쇼_복면가왕.md "wikilink")》([MBC](../Page/MBC_TV.md "wikilink"), 2019년 6월 9일 \~ 6월 16일) - 참가자 및 우승 \<영계백숙\! 오오오오\~♬\>
-  - 《[내일은 미스터트롯](https://ko.wikipedia.org/wiki/내일은_미스터트롯 "wikilink")》([2020년](../Page/2020년.md "wikilink"))
+  - 《[내일은 미스터트롯](../Page/내일은_미스터트롯.md "wikilink")》([2020년](../Page/2020년.md "wikilink"))
 
 ### 라디오
 

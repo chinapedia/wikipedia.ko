@@ -17,4 +17,4 @@
 
   - [방콕은행](https://ko.wikipedia.org/wiki/방콕은행 "wikilink")
 
-[분류:1955년 설립](https://ko.wikipedia.org/wiki/분류:1955년_설립 "wikilink") [분류:1955년 설립된 축구단](https://ko.wikipedia.org/wiki/분류:1955년_설립된_축구단 "wikilink") [분류:2008년 폐지](https://ko.wikipedia.org/wiki/분류:2008년_폐지 "wikilink") [분류:태국의 축구단](https://ko.wikipedia.org/wiki/분류:태국의_축구단 "wikilink") [분류:방콕의 축구단](https://ko.wikipedia.org/wiki/분류:방콕의_축구단 "wikilink") [분류:1967년 아시안 클럽 챔피언십 선수단](https://ko.wikipedia.org/wiki/분류:1967년_아시안_클럽_챔피언십_선수단 "wikilink")
+[분류:1955년 설립](https://ko.wikipedia.org/wiki/분류:1955년_설립 "wikilink") [분류:1955년 설립된 축구단](https://ko.wikipedia.org/wiki/분류:1955년_설립된_축구단 "wikilink") [분류:2008년 폐지](https://ko.wikipedia.org/wiki/분류:2008년_폐지 "wikilink") [분류:태국의 축구단](https://ko.wikipedia.org/wiki/분류:태국의_축구단 "wikilink") [분류:방콕의 축구단](https://ko.wikipedia.org/wiki/분류:방콕의_축구단 "wikilink") [분류:1967년 아시안 챔피언 클럽 토너먼트 선수단](https://ko.wikipedia.org/wiki/분류:1967년_아시안_챔피언_클럽_토너먼트_선수단 "wikilink")

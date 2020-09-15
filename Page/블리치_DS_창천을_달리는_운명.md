@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [블리치 DS 창천을 달리는 운명](https://ko.wikipedia.org/wiki/블리치_DS_창천을_달리는_운명).
 
 
-**블리치 DS 창천을 달리는 운명**(Bleach: The Blade of Fate), 흔히 **블리치 DS**는 [세가](https://ko.wikipedia.org/wiki/세가 "wikilink")가 발매한 [닌텐도 DS용](../Page/닌텐도_DS.md "wikilink") 게임이다. 일본이 만화, 애니메이션 [블리치](../Page/블리치.md "wikilink")를 원작으로 하고 있다.
+**블리치 DS 창천을 달리는 운명**(Bleach: The Blade of Fate), 흔히 **블리치 DS**는 [세가](../Page/세가.md "wikilink")가 발매한 [닌텐도 DS용](../Page/닌텐도_DS.md "wikilink") 게임이다. 일본이 만화, 애니메이션 [블리치](../Page/블리치.md "wikilink")를 원작으로 하고 있다.
 
 ## 개요
 

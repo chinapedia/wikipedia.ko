@@ -329,6 +329,6 @@
 
 ## 외부 링크
 
-  - [FIBA 아시아 홈페이지](http://fibaasia.net/)
+  - [FIBA 아시아 홈페이지](https://web.archive.org/web/20100105232529/http://www.fibaasia.net/)
 
 [아시아_농구_선수권_대회](https://ko.wikipedia.org/wiki/분류:아시아_농구_선수권_대회 "wikilink") [분류:농구 대회](https://ko.wikipedia.org/wiki/분류:농구_대회 "wikilink") [농구](https://ko.wikipedia.org/wiki/분류:세계_선수권_대회 "wikilink")

@@ -93,7 +93,7 @@
 <td><p>10월 26일-10월 28일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/분카무라" title="wikilink">분카무라</a>오차드홀</p></td>
 <td><p>5편</p></td>
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/맨발의_기봉이" title="wikilink">맨발의 기봉이</a></strong> (<a href="https://ko.wikipedia.org/wiki/권수경" title="wikilink">권수경</a> 감독, <a href="../Page/신현준_(배우).md" title="wikilink">신현준</a>/<a href="../Page/김수미.md" title="wikilink">김수미</a> 주연)</p>
+<td><p><strong><a href="../Page/맨발의_기봉이.md" title="wikilink">맨발의 기봉이</a></strong> (<a href="https://ko.wikipedia.org/wiki/권수경" title="wikilink">권수경</a> 감독, <a href="../Page/신현준_(배우).md" title="wikilink">신현준</a>/<a href="../Page/김수미.md" title="wikilink">김수미</a> 주연)</p>
 <p><strong><a href="../Page/우아한_세계.md" title="wikilink">우아한 세계</a></strong> (<a href="../Page/한재림.md" title="wikilink">한재림</a> 감독, <a href="../Page/송강호.md" title="wikilink">송강호</a>/<a href="../Page/오달수.md" title="wikilink">오달수</a> 주연)</p>
 <p><strong><a href="https://ko.wikipedia.org/wiki/눈부신_날에" title="wikilink">눈부신 날에</a></strong> (<a href="../Page/박광수.md" title="wikilink">박광수</a> 감독, <a href="../Page/박신양.md" title="wikilink">박신양</a>/<a href="../Page/서신애.md" title="wikilink">서신애</a> 주연)</p>
 <p><strong><a href="https://ko.wikipedia.org/wiki/아이스_바" title="wikilink">아이스 바</a></strong> (<a href="https://ko.wikipedia.org/wiki/여인광" title="wikilink">여인광</a> 감독, <a href="../Page/신애라.md" title="wikilink">신애라</a>/<a href="../Page/박지빈.md" title="wikilink">박지빈</a> 주연)</p>

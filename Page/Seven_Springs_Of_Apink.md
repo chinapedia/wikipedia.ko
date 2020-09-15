@@ -27,8 +27,8 @@
 
 ## 외부 링크
 
-  - [몰라요 뮤직비디오](https://www.youtube.com/watch?v=_L0O1VJjh_A&cc=1)
-  - [Wishlist 뮤직비디오](https://www.youtube.com/watch?v=JHfW45ErhkI&feature=plcp&context=C3ffccf6UAOEgsToPDskLdrXSGHqROw-6EERGJXbBh)
+  - [몰라요 뮤직비디오](https://www.youtube.com/watch?v=zI6MvzIZ3CA)
+  - [Wishlist 뮤직비디오](https://www.youtube.com/watch?v=8AddEMqliD0)
 
 [분류:에이핑크의 음반](https://ko.wikipedia.org/wiki/분류:에이핑크의_음반 "wikilink") [분류:2011년 EP](https://ko.wikipedia.org/wiki/분류:2011년_EP "wikilink")
 

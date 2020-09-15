@@ -37,7 +37,7 @@
 10. **Time**
     작사 : 타카키 유야 / 작곡 : 히라타 쇼이치로 / 편곡 : [아리오카 다이키](../Page/아리오카_다이키.md "wikilink")·Eddy
 11. **Score** (Hey\! Say\! BEST)
-    작사 : 야부 코타 / Rap 작사 : 야오토메 히카루 / 작곡 : Joey Carbone·[STEVEN LEE](https://ko.wikipedia.org/wiki/스티븐_리_\(음악_프로듀서\) "wikilink") / 편곡 : 마에구치 아유미·단게 마사오
+    작사 : 야부 코타 / Rap 작사 : 야오토메 히카루 / 작곡 : Joey Carbone·[STEVEN LEE](../Page/스티븐_리_\(음악_프로듀서\).md "wikilink") / 편곡 : 마에구치 아유미·단게 마사오
 12. **Your Seed**
     작사 : ma-saya / 작곡 : h-wonder / 편곡 : ha-j
     영화 《[쿵푸팬더](https://ko.wikipedia.org/wiki/쿵푸팬더 "wikilink")》 이미지 송.

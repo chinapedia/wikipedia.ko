@@ -22,7 +22,7 @@
 #### Nintendo 3DS
 
   - [레이튼 교수 시리즈](https://ko.wikipedia.org/wiki/레이튼_교수_시리즈 "wikilink")
-      - [레이튼 교수와 기적의 가면](../Page/레이튼_교수와_기적의_가면.md "wikilink") ([2011년](../Page/2011년.md "wikilink") [2월 26일](https://ko.wikipedia.org/wiki/2월_26일 "wikilink"))
+      - [레이튼 교수와 기적의 가면](../Page/레이튼_교수와_기적의_가면.md "wikilink") ([2011년](../Page/2011년.md "wikilink") [2월 26일](../Page/2월_26일.md "wikilink"))
           - 관련 링크: <http://www.layton.jp/kiseki/>
       - [레이튼 교수 VS 역전재판](../Page/레이튼_교수_VS_역전재판.md "wikilink") ([2012년](../Page/2012년.md "wikilink") [11월 29일](../Page/11월_29일.md "wikilink"))
           - [CAPCOM](https://ko.wikipedia.org/wiki/CAPCOM "wikilink")과 공동 제작
@@ -46,4 +46,4 @@
 
   - [공식 웹사이트](http://www.level5.co.jp/)
 
-[LEVEL-5](https://ko.wikipedia.org/wiki/분류:LEVEL-5 "wikilink") [분류:일본의 비디오 게임 회사](https://ko.wikipedia.org/wiki/분류:일본의_비디오_게임_회사 "wikilink") [분류:1998년 설립](https://ko.wikipedia.org/wiki/분류:1998년_설립 "wikilink") [분류:후쿠오카시](https://ko.wikipedia.org/wiki/분류:후쿠오카시 "wikilink")
+[LEVEL-5](https://ko.wikipedia.org/wiki/분류:LEVEL-5 "wikilink") [분류:일본의 비디오 게임 회사](https://ko.wikipedia.org/wiki/분류:일본의_비디오_게임_회사 "wikilink") [분류:1998년 설립](https://ko.wikipedia.org/wiki/분류:1998년_설립 "wikilink") [분류:후쿠오카시의 기업](https://ko.wikipedia.org/wiki/분류:후쿠오카시의_기업 "wikilink")

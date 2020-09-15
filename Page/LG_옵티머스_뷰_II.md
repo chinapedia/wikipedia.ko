@@ -13,11 +13,11 @@
   - 일루션 화이트
   - 일루션 핑크
 
-## 운영체제 업그레이드
+## 운영 체제 업그레이드
 
 ### [안드로이드](../Page/안드로이드_\(운영_체제\).md "wikilink") [4.1.2 젤리빈](https://ko.wikipedia.org/wiki/안드로이드_버전_역사 "wikilink") 업그레이드
 
-[2013년](../Page/2013년.md "wikilink") [2월 26일](https://ko.wikipedia.org/wiki/2월_26일 "wikilink") [대한민국](../Page/대한민국.md "wikilink")에서 [SK텔레콤](../Page/SK텔레콤.md "wikilink")과 [KT](../Page/KT.md "wikilink") 모델이 [4.1.2 젤리빈으로](https://ko.wikipedia.org/wiki/안드로이드_버전_역사 "wikilink") 업그레이드 되었으며,\[1\] [LG유플러스](../Page/LG유플러스.md "wikilink") 모델은 [2013년](../Page/2013년.md "wikilink") [3월 20일에](../Page/3월_20일.md "wikilink") 시행되었다.\[2\]
+[2013년](../Page/2013년.md "wikilink") [2월 26일](../Page/2월_26일.md "wikilink") [대한민국](../Page/대한민국.md "wikilink")에서 [SK텔레콤](../Page/SK텔레콤.md "wikilink")과 [KT](../Page/KT.md "wikilink") 모델이 [4.1.2 젤리빈으로](https://ko.wikipedia.org/wiki/안드로이드_버전_역사 "wikilink") 업그레이드 되었으며,\[1\] [LG유플러스](../Page/LG유플러스.md "wikilink") 모델은 [2013년](../Page/2013년.md "wikilink") [3월 20일에](../Page/3월_20일.md "wikilink") 시행되었다.\[2\]
 
 ### [안드로이드](../Page/안드로이드_\(운영_체제\).md "wikilink") [4.4.2 킷캣](https://ko.wikipedia.org/wiki/안드로이드_버전_역사 "wikilink") 업그레이드
 
@@ -27,7 +27,7 @@
 
 ### Q 보이스
 
-음성시스템으로, 말을 해서 각종 기능을 실행하거나 원하는 것을 찾을 수 있다. [애플의](https://ko.wikipedia.org/wiki/애플_\(기업\) "wikilink") [시리](https://ko.wikipedia.org/wiki/시리 "wikilink"), [삼성전자](https://ko.wikipedia.org/wiki/삼성전자 "wikilink")의 [S 보이스](../Page/S_보이스.md "wikilink"), [팬택](../Page/팬택.md "wikilink")의 스마트 보이스와 유사하다.
+음성시스템으로, 말을 해서 각종 기능을 실행하거나 원하는 것을 찾을 수 있다. [애플](../Page/애플.md "wikilink")의 [시리](https://ko.wikipedia.org/wiki/시리 "wikilink"), [삼성전자](https://ko.wikipedia.org/wiki/삼성전자 "wikilink")의 [S 보이스](../Page/S_보이스.md "wikilink"), [팬택](../Page/팬택.md "wikilink")의 스마트 보이스와 유사하다.
 
 [LG전자](../Page/LG전자.md "wikilink")의 독자기술인 **베르니케**기술을 사용하여서 높은 인식률과 재미있는 멘트를 쓰기도 한다.
 

@@ -108,6 +108,6 @@
 
 <references/>
 
-[분류:1999년 라이브 음반](https://ko.wikipedia.org/wiki/분류:1999년_라이브_음반 "wikilink") [분류:1999년 영상 음반](https://ko.wikipedia.org/wiki/분류:1999년_영상_음반 "wikilink") [분류:메탈리카의 음반](https://ko.wikipedia.org/wiki/분류:메탈리카의_음반 "wikilink") [분류:엘렉트라 레코드 음반](https://ko.wikipedia.org/wiki/분류:엘렉트라_레코드_음반 "wikilink")
+[분류:1999년 라이브 음반](https://ko.wikipedia.org/wiki/분류:1999년_라이브_음반 "wikilink") [분류:1999년 영상 음반](https://ko.wikipedia.org/wiki/분류:1999년_영상_음반 "wikilink") [분류:메탈리카의 라이브 음반](https://ko.wikipedia.org/wiki/분류:메탈리카의_라이브_음반 "wikilink") [분류:엘렉트라 레코드 음반](https://ko.wikipedia.org/wiki/분류:엘렉트라_레코드_음반 "wikilink")
 
 1.  《S\&M》 [라이너 노츠](https://ko.wikipedia.org/wiki/라이너_노츠 "wikilink")

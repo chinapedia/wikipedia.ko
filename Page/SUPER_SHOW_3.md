@@ -38,28 +38,28 @@
 </tr>
 <tr class="odd">
 <td><p>2010년 8월 28일</p></td>
-<td><p><a href="../Page/청두시.md" title="wikilink">청두</a></p></td>
+<td><p><a href="../Page/칭다오시.md" title="wikilink">청도</a></p></td>
 <td></td>
 <td><p>국신 체육관</p></td>
 <td><p>12,315명</p></td>
 </tr>
 <tr class="even">
 <td><p>2010년 10월 23일</p></td>
-<td><p><a href="../Page/베이징시.md" title="wikilink">베이징</a></p></td>
+<td><p><a href="../Page/베이징시.md" title="wikilink">북경</a></p></td>
 <td><p>캐피탈 인도어 스타디움</p></td>
 <td><p>14,508명</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2010년 11월 13일</p></td>
-<td><p><a href="../Page/난징시.md" title="wikilink">난징</a></p></td>
+<td><p><a href="../Page/난징시.md" title="wikilink">남경</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/난징_올림픽_스포츠_센터" title="wikilink">난징 올림픽 스포츠 센터</a></p></td>
 <td><p>13,074명</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2010년 12월 25일</p></td>
-<td><p><a href="../Page/광저우시.md" title="wikilink">광저우</a></p></td>
+<td><p><a href="../Page/광저우시.md" title="wikilink">광주</a></p></td>
 <td><p>웨슈산 스타디움</p></td>
 <td><p>22,603명</p></td>
 <td></td>
@@ -80,10 +80,10 @@
 </tr>
 <tr class="odd">
 <td><p>2011년 1월 29일</p></td>
-<td><p><a href="../Page/싱가포르.md" title="wikilink">싱가포르</a></p></td>
 <td></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/싱가포르_인도어_스타디움" title="wikilink">싱가포르 인도어 스타디움</a>[3]</p></td>
 <td><p>통산 22,290명</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>2011년 1월 30일</p></td>
@@ -94,7 +94,7 @@
 </tr>
 <tr class="odd">
 <td><p>2011년 2월 18일</p></td>
-<td><p><a href="../Page/요코하마시.md" title="wikilink">요코하마</a></p></td>
+<td><p><a href="../Page/요코하마시.md" title="wikilink">횡빈</a></p></td>
 <td></td>
 <td><p><a href="../Page/요코하마_아레나.md" title="wikilink">요코하마 아레나</a>[4]</p></td>
 <td><p>통산 43,680명</p></td>
@@ -122,14 +122,14 @@
 </tr>
 <tr class="odd">
 <td><p>2011년 3월 5일</p></td>
-<td><p><a href="../Page/상하이시.md" title="wikilink">상하이</a></p></td>
+<td><p><a href="../Page/상하이시.md" title="wikilink">상해</a></p></td>
 <td></td>
 <td><p><a href="../Page/메르세데스-벤츠_아레나.md" title="wikilink">메르세데스-벤츠 아레나</a></p></td>
 <td><p>13,197명</p></td>
 </tr>
 <tr class="even">
 <td><p>2011년 3월 11일</p></td>
-<td><p><a href="../Page/타이베이시.md" title="wikilink">타이베이</a></p></td>
+<td><p><a href="../Page/타이베이시.md" title="wikilink">대북</a></p></td>
 <td></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/타이베이_아레나" title="wikilink">타이베이 아레나</a>[5]</p></td>
 <td><p>통산 34,524명</p></td>
@@ -183,24 +183,24 @@
 
 ## 게스트
 
-| 일정            | 게스트                                                                                                      |
-| ------------- | -------------------------------------------------------------------------------------------------------- |
-| 2010년 8월 14일  | [TRAX](https://ko.wikipedia.org/wiki/TRAX "wikilink"), [설리](https://ko.wikipedia.org/wiki/설리 "wikilink") |
-| 2010년 8월 15일  | [TRAX](https://ko.wikipedia.org/wiki/TRAX "wikilink"), [크리스탈](../Page/크리스탈_\(가수\).md "wikilink")         |
-| 2010년 8월 28일  | [TRAX](https://ko.wikipedia.org/wiki/TRAX "wikilink")                                                    |
-| 2010년 10월 23일 | [TRAX](https://ko.wikipedia.org/wiki/TRAX "wikilink"), [설리](https://ko.wikipedia.org/wiki/설리 "wikilink") |
-| 2011년 1월 15일  | [김정모](../Page/김정모.md "wikilink")                                                                         |
-| 2011년 1월 16일  |                                                                                                          |
-| 2011년 1월 29일  |                                                                                                          |
-| 2011년 1월 30일  |                                                                                                          |
-| 2011년 2월 26일  | [TRAX](https://ko.wikipedia.org/wiki/TRAX "wikilink")                                                    |
-| 2011년 3월 5일   |                                                                                                          |
-| 2011년 3월 11일  | [김정모](../Page/김정모.md "wikilink")                                                                         |
-| 2011년 3월 12일  |                                                                                                          |
-| 2011년 3월 13일  |                                                                                                          |
-| 2011년 3월 19일  |                                                                                                          |
-| 2011년 5월 7일   |                                                                                                          |
-|               |                                                                                                          |
+| 일정            | 게스트                                                                                              |
+| ------------- | ------------------------------------------------------------------------------------------------ |
+| 2010년 8월 14일  | [TRAX](https://ko.wikipedia.org/wiki/TRAX "wikilink"), [설리](../Page/설리_\(1994년\).md "wikilink")  |
+| 2010년 8월 15일  | [TRAX](https://ko.wikipedia.org/wiki/TRAX "wikilink"), [크리스탈](../Page/크리스탈_\(가수\).md "wikilink") |
+| 2010년 8월 28일  | [TRAX](https://ko.wikipedia.org/wiki/TRAX "wikilink")                                            |
+| 2010년 10월 23일 | [TRAX](https://ko.wikipedia.org/wiki/TRAX "wikilink"), [설리](../Page/설리_\(1994년\).md "wikilink")  |
+| 2011년 1월 15일  | [김정모](../Page/김정모.md "wikilink")                                                                 |
+| 2011년 1월 16일  |                                                                                                  |
+| 2011년 1월 29일  |                                                                                                  |
+| 2011년 1월 30일  |                                                                                                  |
+| 2011년 2월 26일  | [TRAX](https://ko.wikipedia.org/wiki/TRAX "wikilink")                                            |
+| 2011년 3월 5일   |                                                                                                  |
+| 2011년 3월 11일  | [김정모](../Page/김정모.md "wikilink")                                                                 |
+| 2011년 3월 12일  |                                                                                                  |
+| 2011년 3월 13일  |                                                                                                  |
+| 2011년 3월 19일  |                                                                                                  |
+| 2011년 5월 7일   |                                                                                                  |
+|               |                                                                                                  |
 
 ## 관련 디스코그래피
 
@@ -291,7 +291,7 @@
 
 ### 3D 영화
 
-[SM은](../Page/SM_엔터테인먼트.md "wikilink") [2010년](../Page/2010년.md "wikilink") [8월 14일에](../Page/8월_14일.md "wikilink") [서울에서](../Page/서울특별시.md "wikilink") 열렸던 〈SUPER SHOW 3〉 공연 실황을 3D 영화로 제작하여 [2011년](../Page/2011년.md "wikilink") [2월 24일에](../Page/2월_24일.md "wikilink") 전국 16개 극장을 통해 상영하였다.\[9\] 이에 앞서 [CGV](https://ko.wikipedia.org/wiki/CGV "wikilink") [왕십리](https://ko.wikipedia.org/wiki/왕십리 "wikilink") 2개관에서 시사회를 열었다.\[10\]\[11\] 뒤이어 일본에서도 같은 해 7월 2일부터 15일까지 일본 전역의 12개 극장에서 상영된 바 있으며 이에 앞서 2-3일 이틀간 도쿄 유라쿠초의 도쿄국제포럼 전시홀에서 미공개 영상과 의상 등 다양한 볼거리를 제공한 쇼케이스 이벤트가 개최되기도 하였다.\[12\]
+  - [슈퍼쇼3 3D](https://ko.wikipedia.org/wiki/슈퍼쇼3_3D "wikilink") (2011년 2월 24일)
 
 ## 각주
 
@@ -307,7 +307,3 @@
 6.
 7.  성도 공연부터 합류, 마닐라 공연 불참
 8.  북경 공연부터 합류
-9.
-10.
-11.
-12.

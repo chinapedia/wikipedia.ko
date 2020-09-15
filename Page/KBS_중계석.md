@@ -497,7 +497,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/2015년.md" title="wikilink">2015년</a> <a href="../Page/2월_4일.md" title="wikilink">2월 4일</a> ~ <a href="../Page/2015년.md" title="wikilink">2015년</a> <a href="../Page/2월_5일.md" title="wikilink">2월 5일</a><br />
-<a href="../Page/2015년.md" title="wikilink">2015년</a> <a href="../Page/2월_25일.md" title="wikilink">2월 25일</a> ~ <a href="../Page/2015년.md" title="wikilink">2015년</a> <a href="https://ko.wikipedia.org/wiki/2월_26일" title="wikilink">2월 26일</a></p></td>
+<a href="../Page/2015년.md" title="wikilink">2015년</a> <a href="../Page/2월_25일.md" title="wikilink">2월 25일</a> ~ <a href="../Page/2015년.md" title="wikilink">2015년</a> <a href="../Page/2월_26일.md" title="wikilink">2월 26일</a></p></td>
 <td><p>매주 <a href="../Page/수요일.md" title="wikilink">수요일</a> 새벽 3:20 ~ 4:50 (90분)</p></td>
 <td></td>
 </tr>
@@ -2065,7 +2065,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/2020년.md" title="wikilink">2020년</a> <a href="https://ko.wikipedia.org/wiki/2월_26일" title="wikilink">2월 26일</a> ~ <a href="../Page/2020년.md" title="wikilink">2020년</a> <a href="../Page/2월_27일.md" title="wikilink">2월 27일</a></p></td>
+<td><p><a href="../Page/2020년.md" title="wikilink">2020년</a> <a href="../Page/2월_26일.md" title="wikilink">2월 26일</a> ~ <a href="../Page/2020년.md" title="wikilink">2020년</a> <a href="../Page/2월_27일.md" title="wikilink">2월 27일</a></p></td>
 <td><p>매주 <a href="../Page/수요일.md" title="wikilink">수요일</a> 밤 2:00 ~ 3:35 (95분)</p></td>
 <td></td>
 </tr>

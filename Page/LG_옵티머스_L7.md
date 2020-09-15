@@ -12,9 +12,9 @@
 
 ## 색상
 
-  - 블랙
-  - 화이트
-  - 핑크
+  - [블랙](../Page/블랙.md "wikilink")
+  - [화이트](../Page/화이트.md "wikilink")
+  - [핑크](https://ko.wikipedia.org/wiki/핑크 "wikilink")
 
 ## 같이 보기
 

@@ -26,9 +26,10 @@
   - [정관용의 지금, 이 사람](../Page/정관용의_지금,_이_사람.md "wikilink") (평일) ([KBS 제1라디오](../Page/KBS_제1라디오.md "wikilink"))
   - [시대음감](https://ko.wikipedia.org/wiki/시대음감 "wikilink") (주말) ([KBS 제1라디오](../Page/KBS_제1라디오.md "wikilink"))
   - [주말 생방송 정보쇼](../Page/주말_생방송_정보쇼.md "wikilink") (주말) ([KBS 제1라디오](../Page/KBS_제1라디오.md "wikilink"))
-  - [오늘 같은 오후엔 이세준입니다](../Page/오늘_같은_오후엔.md "wikilink") ([KBS 해피FM](../Page/KBS_제2라디오.md "wikilink"))
+  - [김혜영과 함께](https://ko.wikipedia.org/wiki/김혜영과_함께 "wikilink") ([KBS 해피FM](../Page/KBS_제2라디오.md "wikilink"))
   - [세계음악기행](../Page/세계음악기행.md "wikilink") ([EBS FM](../Page/EBS_FM.md "wikilink"))
   - [두시의 데이트 뮤지, 안영미입니다](../Page/두시의_데이트.md "wikilink") ([MBC FM4U](../Page/MBC_FM4U.md "wikilink"))
+  - [두시탈출 컬투쇼](../Page/두시탈출_컬투쇼.md "wikilink") ([SBS 파워FM](../Page/SBS_파워FM.md "wikilink"))
   - 최일구의 허리케인 라디오 ([TBS](../Page/TBS_\(대한민국의_방송사\).md "wikilink") FM)
 
 ### 보급형 방송 채널
@@ -47,9 +48,9 @@
   - [출발\! 멋진인생 이지연입니다](https://ko.wikipedia.org/wiki/출발!_멋진인생 "wikilink") ([KBS 제3라디오](../Page/KBS_제3라디오.md "wikilink"))
   - [공감 코리아, 우리는 한국인](https://ko.wikipedia.org/wiki/공감_코리아,_우리는_한국인 "wikilink") (월\~토요일) ([KBS 제3라디오](../Page/KBS_제3라디오.md "wikilink"))
   - [명사들의 책읽기](https://ko.wikipedia.org/wiki/명사들의_책읽기 "wikilink") (일요일) ([KBS 제3라디오](../Page/KBS_제3라디오.md "wikilink"))
-  - [나르샤의 아브라카다브라](https://ko.wikipedia.org/wiki/아브라카다브라_\(라디오_프로그램\) "wikilink") ([SBS 러브FM](../Page/SBS_러브FM.md "wikilink"))
-  - [오후의 향기 김윤주입니다](../Page/오후의_향기_김윤주입니다.md "wikilink") ([CBS 표준FM](../Page/CBS_표준FM.md "wikilink"))
-  - [그대에게 평화를 장환진입니다](https://ko.wikipedia.org/wiki/그대에게_평화를 "wikilink") ([cpbc](../Page/가톨릭평화방송.md "wikilink") FM)
+  - [나르샤의 아브라카다브라](../Page/아브라카다브라_\(라디오_프로그램\).md "wikilink") ([SBS 러브FM](../Page/SBS_러브FM.md "wikilink"))
+  - [이봉규의 어떤가요](https://ko.wikipedia.org/wiki/어떤가요_\(라디오_프로그램\) "wikilink") ([CBS 표준FM](../Page/CBS_표준FM.md "wikilink"))
+  - [그대에게 평화를 장환진입니다](../Page/그대에게_평화를.md "wikilink") ([cpbc](../Page/가톨릭평화방송.md "wikilink") FM)
   - [조은형의 가요세상](../Page/가요세상.md "wikilink") (평일) ([WBS](../Page/원음방송.md "wikilink") FM)
   - 心쿵\! 2시 (주말) ([WBS](../Page/원음방송.md "wikilink") FM)
   - 주병선, 자용스님의 오후가 좋다 (평일) ([BBS](../Page/불교방송.md "wikilink") FM)
@@ -58,8 +59,7 @@
 
 ### IPTV형 방송 채널
 
-  - [박준형, 정경미의 2시만세](https://ko.wikipedia.org/wiki/두시만세 "wikilink") ([MBC 표준FM](../Page/MBC_표준FM.md "wikilink"))
-  - [두시탈출 컬투쇼](../Page/두시탈출_컬투쇼.md "wikilink") ([SBS 파워FM](../Page/SBS_파워FM.md "wikilink"))
+  - [박준형, 정경미의 2시만세](../Page/두시만세.md "wikilink") ([MBC 표준FM](../Page/MBC_표준FM.md "wikilink"))
   - The Steve Hatherly Show ([TBS eFM](../Page/TBS_eFM.md "wikilink"))
   - [주영진의 뉴스브리핑](../Page/주영진의_뉴스브리핑.md "wikilink") (월\~토요일) ([SBS TV](../Page/SBS_TV.md "wikilink"))
   - [SBS 금토드라마](../Page/SBS_금토드라마.md "wikilink") 재방송 (일요일) ([SBS TV](../Page/SBS_TV.md "wikilink"))

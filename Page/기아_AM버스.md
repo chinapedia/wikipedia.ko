@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [기아 AM버스](https://ko.wikipedia.org/wiki/기아_AM버스).
 
 
-**기아 AM버스**는 [기아자동차](../Page/기아자동차.md "wikilink")와 전신인 [아시아자동차](https://ko.wikipedia.org/wiki/아시아자동차 "wikilink")에서 제작했던 버스 차종들이다. 주로 대형버스 차종들 위주로 AM 시리즈 네이밍이 사용되었기 때문에, 이 문서에서는 AM 시리즈 대형버스 차종들을 기술한다. [1978년](../Page/1978년.md "wikilink")에 출시되어서 [2004년](../Page/2004년.md "wikilink")에 후속 차종 없이 단종되었다. AM707, AM807, AM808, AM907, AM908, AM909, AM917, AM918, AM919, AM927, AM928, AM929, AM937, AM938, AM939 등이 주요 모델이다. AM707, AM807은 [1978년](../Page/1978년.md "wikilink")에 출시되어서 [1983년](../Page/1983년.md "wikilink")에 단종되었으며, AM808은 [1978년](../Page/1978년.md "wikilink")에 출시되어서 [1989년](../Page/1989년.md "wikilink")에 단종되었다.
+**기아 AM버스**는 [기아자동차](../Page/기아자동차.md "wikilink")와 전신인 [아시아자동차](https://ko.wikipedia.org/wiki/아시아자동차 "wikilink")에서 제작했던 버스 차종들이다. 주로 대형버스 차종들 위주로 AM 시리즈 네이밍이 사용되었기 때문에 이 문서에서는 AM 시리즈 대형버스 차종들을 기술한다. [1978년](../Page/1978년.md "wikilink")에 출시되어서 [2004년](../Page/2004년.md "wikilink")에 후속 차종 없이 단종되었다. AM707, AM807, AM808, AM907, AM908, AM909, AM917, AM918, AM919, AM927, AM928, AM929, AM937, AM938, AM939 등이 주요 모델이다. AM707과 AM807은 [1978년](../Page/1978년.md "wikilink")에 출시되어서 [1983년](../Page/1983년.md "wikilink")에 단종되었으며, AM808은 [1978년](../Page/1978년.md "wikilink")에 출시되어서 [1989년](../Page/1989년.md "wikilink")에 단종되었다.
 
 ## 특징
 
-[미쓰비시 후소나](https://ko.wikipedia.org/wiki/미쓰비시후소트럭·버스 "wikilink") [히노 자동차의](../Page/히노_자동차.md "wikilink") 새시와 차체를 이용하여 [히노 블루리본 RU형을](../Page/히노_블루_리본.md "wikilink") 베이스로 만들었다. AM은 Asia Motors의 약자이며, 뒤의 세자리의 숫자가 차종을 뜻하였다. 대형버스는 세자리의 숫자 중에서 첫째 자리가 9로 시작하였는데\[1\], 둘째 자리는 세대를 뜻하며\[2\], 셋째 자리는 차종의 등급\[3\]을 뜻한다. 준고속형이나 고속형급의 차종들은 판매량이 그럭저럭 양호했지만, 도시형 시내버스급의 차종들은 경쟁 차종 대비 경쟁력이 부족하여서 판매량이 적었으며 도입 사례가 많지 않았다. 주 수요로는 [광주](https://ko.wikipedia.org/wiki/광주광역시 "wikilink"), [전남](https://ko.wikipedia.org/wiki/전라남도 "wikilink"), [전북](https://ko.wikipedia.org/wiki/전라북도 "wikilink") 등 호남지역과 [경북](https://ko.wikipedia.org/wiki/경상북도 "wikilink") 일부지역, [부산](https://ko.wikipedia.org/wiki/부산광역시 "wikilink"), [경남](https://ko.wikipedia.org/wiki/경상남도 "wikilink"), [대구](../Page/대구광역시.md "wikilink") 등 남부지방 소속 시내·시외버스 업체에 많이 도입된 특성을 가지고 있으며, 또한 전통적으로 병력/경력 수송용 버스로도 많이 이용된 특성도 가지고 있다.
+[미쓰비시 후소와](https://ko.wikipedia.org/wiki/미쓰비시후소트럭·버스 "wikilink") [히노 자동차의](../Page/히노_자동차.md "wikilink") 새시와 차체를 이용하여 [히노 블루리본 RU형을](../Page/히노_블루_리본.md "wikilink") 베이스로 만들었다. AM은 Asia Motors의 약자이며, 뒤의 세자리의 숫자가 차종을 뜻하였다. 대형버스는 세자리의 숫자 중에서 첫째 자리가 9로 시작하였는데\[1\], 둘째 자리는 세대를 뜻하며\[2\], 셋째 자리는 차종의 등급\[3\]을 뜻한다. 준고속형이나 고속형급의 차종들은 판매량이 그럭저럭 양호했지만, 도시형 시내버스급의 차종들은 경쟁 차종 대비 경쟁력이 부족하여서 판매량이 적었으며 도입 사례가 많지 않았다. 주 수요로는 [광주](https://ko.wikipedia.org/wiki/광주광역시 "wikilink"), [전남](https://ko.wikipedia.org/wiki/전라남도 "wikilink"), [전북](https://ko.wikipedia.org/wiki/전라북도 "wikilink") 등 호남지역과 [경북](https://ko.wikipedia.org/wiki/경상북도 "wikilink") 일부지역, [부산](https://ko.wikipedia.org/wiki/부산광역시 "wikilink"), [경남](https://ko.wikipedia.org/wiki/경상남도 "wikilink"), [대구](../Page/대구광역시.md "wikilink") 등 남부지방 소속 시내·시외버스 업체에 많이 도입된 특성을 가지고 있으며, 또한 전통적으로 병력/경력 수송용 버스로도 많이 이용된 특성도 가지고 있다.
 
 ## 세부 종류
 
@@ -13,11 +13,11 @@
 
 #### AM707
 
-[1978년](../Page/1978년.md "wikilink")에 AM807과 같이 출시된 버스이다. 베이스 모델은 [마쓰다 파크웨이 초대 모델이다](https://ko.wikipedia.org/wiki/마쓰다_파크웨이 "wikilink"). [1983년](../Page/1983년.md "wikilink")에 후속 차종 없이 단종되었다.
+[1978년](../Page/1978년.md "wikilink")에 AM807과 같이 출시된 버스이다. 베이스 모델은 [마쓰다 파크웨이 초대 모델이다](https://ko.wikipedia.org/wiki/마쓰다_파크웨이 "wikilink"). [1983년](../Page/1983년.md "wikilink") [10월](../Page/10월.md "wikilink")에 AM807과의 통합 후속모델 [아시아 AM805 콤비의](../Page/기아_콤비.md "wikilink") 출시와 함께 단종되었다.
 
 #### AM807
 
-[1978년](../Page/1978년.md "wikilink")에 출시되었고, 피아트중형버스를 AM808처럼 [한국](../Page/한국.md "wikilink") 사정에 맞게 수정하고 베이스로 만들었다. [1983년](../Page/1983년.md "wikilink") [10월](../Page/10월.md "wikilink")에 [아시아 AM805 콤비에게](../Page/기아_콤비.md "wikilink") 물려주고 결국 단종되었다. 총 9,396량이다.
+[1978년](../Page/1978년.md "wikilink")에 출시되었고, 피아트 중형버스를 AM808처럼 [한국](../Page/한국.md "wikilink") 사정에 맞게 수정하고 베이스로 만들었다. [1983년](../Page/1983년.md "wikilink") [10월](../Page/10월.md "wikilink")에 AM707과의 통합 후속모델 [아시아 AM805 콤비에](../Page/기아_콤비.md "wikilink") 물려주고 단종되었다. 총 9,396량이다.
 
 #### AM808
 
@@ -27,17 +27,66 @@
 
 #### AM907
 
-[1981년](../Page/1981년.md "wikilink")에 [AB185(F)의](../Page/아시아_AB버스.md "wikilink") 후속으로 등장한 10.29M급 대형 프론트 엔진버스 차종이다. D0846HM-V\[4\] 엔진을 탑재하였으며, [1986년](../Page/1986년.md "wikilink") 부터 D1146 엔진을 탑재하였다가 [1987년](../Page/1987년.md "wikilink") 초까지 생산되었다. 전문형, 전중문형 사양이 있었고, 경쟁차종인 [BF101과](../Page/대우_BF.md "wikilink") [FB485](../Page/현대_FB.md "wikilink") 와는 달리 중문이 슬라이딩인 형식을 채택하지 않았다. 서울특별시에서는 [수도교통](../Page/송파상운.md "wikilink"), 동남교통 이외의 시내버스업체에서 도입한 전력이 있었고\[5\], 서울특별시의 좌석버스\[6\]로도 운행하였으나 보기 드문 버스중 하나였다. 1988년 [서울올림픽의](../Page/1988년_하계_올림픽.md "wikilink") 영향으로 무냉방 프런트 엔진 좌석버스였던 [BF101과](../Page/대우_BF.md "wikilink") [FB485와](../Page/현대_FB.md "wikilink") 같이 [1986년](../Page/1986년.md "wikilink")에서 [1988년](../Page/1988년.md "wikilink") 사이 냉방형 리어엔진 좌석버스로 조기 대폐차 되었다. [서울특별시](../Page/서울특별시.md "wikilink") 이외의 지역에서도 입석시내버스로도 구입하여 운행하였는데 특히 아시아자동차 버스 본고장인 [광주광역시](https://ko.wikipedia.org/wiki/광주광역시 "wikilink")에서 많이 운행하였다. 이 외에도 병력/경력 수송용 버스로도 많이 이용되었다. 전 후륜휠은 6홀 8핀이다. 총 809량이다.
+  - [1981년](../Page/1981년.md "wikilink")에 [AB185(F)의](../Page/아시아_AB버스.md "wikilink") 후속으로 등장한 10.29M급 대형 프론트 엔진버스 차종이다.
+
+<!-- end list -->
+
+  - D0846HM-V\[4\] 엔진을 탑재하였으며, [1986년](../Page/1986년.md "wikilink") 부터 D1146 엔진을 탑재하였다가 [1987년](../Page/1987년.md "wikilink") 초까지 생산되었다.
+
+<!-- end list -->
+
+  - 전중문형, 전문형, 중문형 사양이 있었고, 경쟁차종인 [BF101과](../Page/대우_BF.md "wikilink") [FB485](../Page/현대_FB.md "wikilink") 와는 달리 중문이 슬라이딩인 형식을 채택하지 않았다.
+
+<!-- end list -->
+
+  - 서울특별시에서는 [수도교통](../Page/송파상운.md "wikilink"), 동남교통 이외의 시내버스업체에서 도입한 전력이 있었고\[5\], 서울특별시의 좌석버스\[6\]로도 운행하였으나 보기 드문 버스중 하나였다.
+
+<!-- end list -->
+
+  - [1988년](../Page/1988년.md "wikilink") [서울올림픽의](../Page/1988년_하계_올림픽.md "wikilink") 영향으로 무냉방 프런트 엔진 좌석버스였던 [BF101과](../Page/대우_BF.md "wikilink") [FB485와](../Page/현대_FB.md "wikilink") 같이 [1986년](../Page/1986년.md "wikilink")에서 [1988년](../Page/1988년.md "wikilink") 사이 냉방형 리어엔진 좌석버스로 조기 대폐차 되었다.
+
+<!-- end list -->
+
+  - [서울특별시](../Page/서울특별시.md "wikilink") 이외의 지역에서도 입석시내버스로도 구입하여 운행하였는데 특히 아시아자동차 버스 본고장인 [광주광역시](https://ko.wikipedia.org/wiki/광주광역시 "wikilink")에서 많이 운행하였다.
+
+<!-- end list -->
+
+  - 이 외에도 병력/경력 수송용 버스로도 많이 이용되었다.
+  - 전 후륜휠은 6홀 8핀이다.
+  - 총 809량이다.
 
 #### AM907L
 
-[1982년](../Page/1982년.md "wikilink") [12월](../Page/12월.md "wikilink")에 등장한 대한민국 최초의 대형 2계단 저상 리어엔진 버스 차종이다. AM907의 차체를 리어엔진화하여 대도시의 고급형 시내버스 수요를 공략하여 등장하였고 출시 초기에는 전면부가 AM907 의 그것에서 엔진룸 그릴만 없는 형식이었으나 [1984년](../Page/1984년.md "wikilink")에 가니쉬 없이 돌출형 전조등과 방향등만 달린 간략한 형식으로 페이스리프트 하였다. 계단은 1980년대 후반 리어엔진 2계단 저상버스인 AM927L 처럼 낮고 계단 경사도 아주 완만하였으며 중문 폭도 넓게 설계되었다. 그러나 [광주광역시](https://ko.wikipedia.org/wiki/광주광역시 "wikilink")의 [대창운수](https://ko.wikipedia.org/wiki/대창운수_\(광주\) "wikilink") 및 [대전광역시](https://ko.wikipedia.org/wiki/대전광역시 "wikilink")의 [동진여객만이](../Page/대전버스.md "wikilink") 소량 구입하였고 [서울특별시](../Page/서울특별시.md "wikilink")에서 시험 운행을 실시한 경우 이외에 시내버스 업체에서 자체적으로 도입한 경우는 전무하다가 [1986년](../Page/1986년.md "wikilink")에 단종되었다.\[7\] AM907과 동일한 D0846HM-V 엔진이 탑재되었다. 전 후륜휠은 6홀 8핀이다. 총 1,188량이다.
+  - AM907L [1982년](../Page/1982년.md "wikilink") [12월](../Page/12월.md "wikilink")에 등장한 대한민국 최초의 대형 2계단 저상 리어엔진 버스 차종이다.
+  - AM907L [1982년](../Page/1982년.md "wikilink") [12월](../Page/12월.md "wikilink")에 [서울특별시](../Page/서울특별시.md "wikilink") [서울여객](../Page/서울여객.md "wikilink") 시내도시형 대형 2계단 저상 리어엔진버스 먼저 도입 하였다.
+
+<!-- end list -->
+
+  - AM907L [1983년](../Page/1983년.md "wikilink") [7월](../Page/7월.md "wikilink")에 [서울특별시](../Page/서울특별시.md "wikilink") [서울여객](../Page/서울여객.md "wikilink") [인천직할시](https://ko.wikipedia.org/wiki/인천광역시 "wikilink") [경인여객](https://ko.wikipedia.org/wiki/경인여객 "wikilink") [경기도](https://ko.wikipedia.org/wiki/경기도 "wikilink") [양평군](../Page/양평군.md "wikilink") [금강고속](../Page/금강고속.md "wikilink") [강원도](../Page/강원도.md "wikilink") [강릉시](https://ko.wikipedia.org/wiki/강릉시 "wikilink") [동진버스](../Page/동진버스.md "wikilink") 시내도시형 대형 2계단 저상 리어엔진버스 도입 따로 도입 하였다.
+
+<!-- end list -->
+
+  - AM907SL [1983년](../Page/1983년.md "wikilink") [12월](../Page/12월.md "wikilink")에 [서울특별시](../Page/서울특별시.md "wikilink") [서울여객](../Page/서울여객.md "wikilink") 시내도시형 대형 2계단 저상 리어엔진버스 도입 따로 도입 하였다.
+  - AM907L [1983년](../Page/1983년.md "wikilink") [12월](../Page/12월.md "wikilink")에 [인천직할시](https://ko.wikipedia.org/wiki/인천광역시 "wikilink") [경인여객](https://ko.wikipedia.org/wiki/경인여객 "wikilink") [경기도](https://ko.wikipedia.org/wiki/경기도 "wikilink") [양평군](../Page/양평군.md "wikilink") [금강고속](../Page/금강고속.md "wikilink") [강원도](../Page/강원도.md "wikilink") [강릉시](https://ko.wikipedia.org/wiki/강릉시 "wikilink") [동진버스](../Page/동진버스.md "wikilink") 시내도시형 대형 2계단 저상 리어엔진버스 도입 따로 도입 하였다.
+
+<!-- end list -->
+
+  - AM907의 차체를 리어엔진화하여 대도시의 고급형 시내버스 수요를 공략하여 등장하였고 출시 초기에는 전면부가 AM907 의 그것에서 엔진룸 그릴만 없는 형식이었으나 [1984년](../Page/1984년.md "wikilink")에 가니쉬 없이 돌출형 전조등과 방향등만 달린 간략한 형식으로 페이스리프트 하였다.
+
+<!-- end list -->
+
+  - 계단은 1980년대 후반 [1985년](../Page/1985년.md "wikilink") [6월](../Page/6월.md "wikilink") 리어엔진 2계단 저상버스인 AM927L 처럼 낮고 계단 경사도 아주 완만하였으며 중문 폭도 넓게 설계되었다.
+
+<!-- end list -->
+
+  - 그러나 AM907SL [1985년](../Page/1985년.md "wikilink") [9월](../Page/9월.md "wikilink") [서울특별시](../Page/서울특별시.md "wikilink") 만이 소량 따로 구입하였다.
+  - 그러나 AM907L [1985년](../Page/1985년.md "wikilink") [9월](../Page/9월.md "wikilink") [인천직할시](https://ko.wikipedia.org/wiki/인천광역시 "wikilink") [경기도](https://ko.wikipedia.org/wiki/경기도 "wikilink") [양평군](../Page/양평군.md "wikilink") [강원도](../Page/강원도.md "wikilink") [강릉시](https://ko.wikipedia.org/wiki/강릉시 "wikilink") [대전시의](https://ko.wikipedia.org/wiki/대전광역시 "wikilink") [동진여객](../Page/대전버스.md "wikilink") [충청남도](https://ko.wikipedia.org/wiki/충청남도 "wikilink") [천안시](../Page/천안시.md "wikilink") [충청북도](https://ko.wikipedia.org/wiki/충청북도 "wikilink") [청주시](../Page/청주시.md "wikilink") [충주시](https://ko.wikipedia.org/wiki/충주시 "wikilink") 및 [광주시의](https://ko.wikipedia.org/wiki/광주광역시 "wikilink") [대창운수](https://ko.wikipedia.org/wiki/대창운수_\(광주\) "wikilink") [전라남도](https://ko.wikipedia.org/wiki/전라남도 "wikilink") [여수시](../Page/여수시.md "wikilink") [전라북도](https://ko.wikipedia.org/wiki/전라북도 "wikilink") [전주시](https://ko.wikipedia.org/wiki/전주시 "wikilink") [남원시](https://ko.wikipedia.org/wiki/남원시 "wikilink") [제주도](https://ko.wikipedia.org/wiki/제주도 "wikilink") [제주시](../Page/제주시.md "wikilink") [부산직할시](https://ko.wikipedia.org/wiki/부산광역시 "wikilink") [울산시](https://ko.wikipedia.org/wiki/울산광역시 "wikilink") [창원시](../Page/창원시.md "wikilink") [경상남도](https://ko.wikipedia.org/wiki/경상남도 "wikilink") [김해시](https://ko.wikipedia.org/wiki/김해시 "wikilink") [대구직할시](../Page/대구광역시.md "wikilink") [한영교통](../Page/성보교통.md "wikilink") [경상버스](../Page/경상버스.md "wikilink") [신흥버스](../Page/신흥버스.md "wikilink") [경상북도](https://ko.wikipedia.org/wiki/경상북도 "wikilink") [경산시](../Page/경산시.md "wikilink") [영천시](../Page/영천시.md "wikilink") [포항시](https://ko.wikipedia.org/wiki/포항시 "wikilink") [경주시](https://ko.wikipedia.org/wiki/경주시 "wikilink") 만이 소량 따로 구입하였고 [서울특별시](../Page/서울특별시.md "wikilink")에서 시험 운행을 실시한 경우 이외에 시내버스 업체에서 자체적으로 도입한 경우는 전무하다가 [1986년](../Page/1986년.md "wikilink")에 단종되었다.\[7\] AM907과 동일한 D0846HM-V 엔진이 탑재되었다.
+  - 전 후륜휠은 6홀 8핀이다.
+  - 총 1,188량이다.
 
 #### AM908
 
 [1982년](../Page/1982년.md "wikilink")에 등장한 대형 11.2M급 대형 리어엔진 버스 차종이다. 수직 실린더 6기통 D2156HM-V\[8\] 엔진을 탑재했으며, AM907과 외형이 비슷하다.
-
-rb585 달마다는 것이다
 
 #### AM908D
 
@@ -45,7 +94,51 @@ rb585 달마다는 것이다
 
 #### AM917
 
-[1986년](../Page/1986년.md "wikilink") 2월에 극소량이 생산된 리어엔진버스 차종이다. 전체적으로 AM907L과 비슷하나, 운전석 유리창이 기존의 둥근 형식에서 각진 형상으로 바뀌고 전문 유리창이 더 길어졌다. 그리고 리어램프도 3열 돌출형에서 동급 상위차종인 AM927 과 같은 직사각형 2열형식의 테일램프로 변경되었고 중문 폭도 AM907L 이 아닌 여느 표준도시형 차종의 그것과 같았다. 2계단형의 전중문형 도시형 버스 도시형 시내버스 시내버스, 전문형 시외급행버스 시외버스, 시외직행버스, 관광버스, 자가용버스, 사양만 마련되었다. 경력수송용 버스로만 소수가 [대한민국 치안본부에](../Page/대한민국_경찰청.md "wikilink") 납품되었고 경력 수송용 버스 중에는 최초로 리어엔진형식을 채택한 버스인데 전문 유리창은 동시대 준고속형 차종인 AM918 의 전문처럼 아래까지 내려오고 반면 중문 유리창은 AM907 처럼 중간까지만 내려온 형태였다. 전체적인 판매량은 극히 적은 수준이어서 [1988년](../Page/1988년.md "wikilink") 동급 상위차종인 AM927로 통합되는 형태로 단종되었다.
+  - [1986년](../Page/1986년.md "wikilink") [2월](../Page/2월.md "wikilink")에 극소량이 생산된 리어엔진버스 차종이다.
+
+<!-- end list -->
+
+  - 전체적으로 AM907L과 비슷하나, 운전석 유리창이 기존의 둥근 형식에서 각진 형상으로 바뀌고 전문 유리창이 더 길어졌다.
+
+<!-- end list -->
+
+  - 그리고 리어램프도 3열 돌출형에서 동급 상위차종인 AM927 과 같은 직사각형 2열형식의 테일램프로 변경되었고 중문 폭도 AM907L 이 아닌 여느 표준도시형 차종의 그것과 같았다.
+
+<!-- end list -->
+
+  - [1986년](../Page/1986년.md "wikilink") [2월](../Page/2월.md "wikilink") AM917 2계단형의 전중문형 도시형 버스 도시형 시내버스 시내버스 중문 슬라이딩 자동문 차량 출시 하여 먼저 사양만 마련되었다.
+
+<!-- end list -->
+
+  - [1986년](../Page/1986년.md "wikilink") [3월](../Page/3월.md "wikilink") AM917 2계단형의 전중문형 도시형 버스 도시형 시내버스 시내농어촌버스 중문 폴딩 자동문 차량 출시 하여 마련되었다.
+
+<!-- end list -->
+
+  - [1986년](../Page/1986년.md "wikilink") [3월](../Page/3월.md "wikilink") AM917 2계단형의 전문형 시외급행버스 시외버스, 시외직행버스, 관광버스, 자가용버스, 사양만 마련되었다.
+
+<!-- end list -->
+
+  - [1986년](../Page/1986년.md "wikilink") [4월](../Page/4월.md "wikilink") AM917 2계단형의 전중문형 도시형 버스 도시형 시내버스 시내버스 중문 슬라이딩 자동문 차량, AM917 2계단형의 전중문형 도시형 버스 도시형 시내버스 시내농어촌버스 중문 폴딩 자동문 차량, AM917 2계단형의 전문형 시외급행버스 시외버스, 시외직행버스, 관광버스, 자가용버스, 사양만 마련되었다.
+
+<!-- end list -->
+
+  - [1986년](../Page/1986년.md "wikilink") [8월](../Page/8월.md "wikilink") AM917 2계단형의 전문형 시외급행버스 시외버스, 시외직행버스, 관광버스, 자가용버스, 사양만 마련되었으며 막을내리고 AM927 전문형 시외급행버스 시외버스, 시외직행버스, 관광버스, 자가용버스 념겨주고 단종 되었다.
+
+<!-- end list -->
+
+  - [1986년](../Page/1986년.md "wikilink") [11월](../Page/11월.md "wikilink") AM917 2계단형의 전중문형 도시형 버스 도시형 시내버스 시내버스 중문 슬라이딩 자동문 차량 막을 내리고 AM927 전중문형 도시형 버스 도시형 시내버스 시내버스 중문 슬라이딩 자동문 차량 출시 하여 물려주고 단종 되었다.
+
+<!-- end list -->
+
+  - [1986년](../Page/1986년.md "wikilink") [11월](../Page/11월.md "wikilink") AM917 2계단형의 전중문형 도시형 버스 도시형 시내버스 남품용 자가용 중문 폴딩 자동문 차량 남게 되었다.
+
+<!-- end list -->
+
+  - 경력수송용 버스로만 소수가 [대한민국 치안본부에](../Page/대한민국_경찰청.md "wikilink") 납품되었고 경력 수송용 버스 중에는 최초로 리어엔진형식을 채택한 버스인데 전문 유리창은 동시대 준고속형 차종인 AM918 의 전문처럼 아래까지 내려오고 반면 중문 유리창은 AM907 처럼 중간까지만 내려온 형태였다.
+
+<!-- end list -->
+
+  - 전체적인 판매량은 극히 적은 수준이어서 [1988년](../Page/1988년.md "wikilink") 동급 상위차종인 AM927로 통합되는 형태로 단종되었다.
 
 #### AM918
 
@@ -68,13 +161,38 @@ rb585 달마다는 것이다
 #### AM927 / AM927L
 
   - AM907L/AM917의 후속으로 등장한 10.6M급 대형 리어엔진 버스 차종으로, 블루리본 P-RT225AA형을 베이스로 만들었다.
-  - [1986년](../Page/1986년.md "wikilink") [8월](../Page/8월.md "wikilink")에 전문형 자가용 및 직행버스, 좌석버스 사양이 등장했고, [1986년](../Page/1986년.md "wikilink") [11월](../Page/11월.md "wikilink")에 전중문형 시내버스 사양이 등장했다.
+
+<!-- end list -->
+
+  - [1986년](../Page/1986년.md "wikilink") [8월](../Page/8월.md "wikilink")에 전문형 시내좌석버스, 시외급행버스 시외완행버스, 시외직행버스 및 관광버스, 자가용 사양이 등장했고, [1986년](../Page/1986년.md "wikilink") [11월](../Page/11월.md "wikilink")에 전중문형 시내버스 사양이 등장했다.
+
+<!-- end list -->
+
   - 동시기에 생산되던 대우 BS105, BF101Q와 동일한 대우중공업 D1146\[18\] 엔진만이 적용되었다. 전문형 자가용, 직행버스, 좌석버스 사양은 상급 모델인 AM928의 전장을 그대로 축소한 외형이었고, 전중문형 시내버스 사양은 자가용 사양과는 판이하게 다른 외형이 특징이었는데, 전면에 당시 일본 시내버스\[19\]와 유사한 형태의 점등식 대형 행선판의 적용 및 당시 국내 최초로 시내버스 차종에 오늘날과 같은 검은색 도장의 직각형 창틀을 적용하였다.
-  - [1987년](../Page/1987년.md "wikilink")에 2계단 저상형 AM927L 모델이 추가되었으나, [1988년](../Page/1988년.md "wikilink")에 앞 뒷면 모두 아시아 로고가 **A S I A**에서 **Asia**(상단에는 물결표시됨)로 변경 및 전중문형 시내버스 사양의 전면이 전문형 자가용, 직행버스, 좌석버스 사양과 같은 외형으로 페이스리프트 되면서 점등식 대형 행선판이 삭제되었다.
+
+<!-- end list -->
+
+  - [1987년](../Page/1987년.md "wikilink") [4월](../Page/4월.md "wikilink") 에 2계단 저상형 AM927L 모델이 추가되었으나, [1988년](../Page/1988년.md "wikilink")에 앞 뒷면 모두 아시아 로고가 **A S I A**에서 **Asia**(상단에는 물결표시됨)로 변경 및 전중문형 시내버스 사양의 전면이 전문형 자가용, 직행버스, 좌석버스 사양과 같은 외형으로 페이스리프트 되면서 점등식 대형 행선판이 삭제되었다.
+
+<!-- end list -->
+
   - [1990년](../Page/1990년.md "wikilink")에 후면이 AM939, AM928(A)처럼 대폭적으로 페이스 리프트 되었으나, [1991년](../Page/1991년.md "wikilink")에 고출력화된 AM937/AM937E/AM937L에게 자리를 넘겨주고 단종되었다.
+
+<!-- end list -->
+
   - 경쟁 차종이었던 대우 [BS105(L)나](../Page/자일대우_BS.md "wikilink"), 현대 [RB520(L,SL)에](../Page/현대_RB.md "wikilink") 비하면 외형은 좋았지만, 품질이나 성능, 내구성이 좋지 못하였기 때문에 판매량이 많지는 않았다.
-  - [금호상사](../Page/금호상사.md "wikilink")가 호송버스를 영화소품용으로 소장하고있다. 총 4,043량이다.
+
+<!-- end list -->
+
+  - [금호상사](../Page/금호상사.md "wikilink")가 호송버스를 영화소품용으로 소장하고있다.
+  - 총 4,043량이다.
+
+<!-- end list -->
+
   - 장축형 길이는 일반적으로 보면 10.9m로 [AM907L와](../Page/기아_AM버스.md "wikilink") [AM917와](../Page/기아_AM버스.md "wikilink") [AM927와](../Page/기아_AM버스.md "wikilink") [AM937와](../Page/기아_AM버스.md "wikilink") [RB520와](../Page/현대_RB.md "wikilink") [현대 에어로시티와](../Page/현대_에어로시티.md "wikilink") [BS105와](https://ko.wikipedia.org/wiki/대우_BS "wikilink") [BS106와](https://ko.wikipedia.org/wiki/대우_BS "wikilink") 거의 비슷하다.
+
+<!-- end list -->
+
   - 장축형 [AM907L와](../Page/기아_AM버스.md "wikilink") [AM917와](../Page/기아_AM버스.md "wikilink") [AM927와](../Page/기아_AM버스.md "wikilink") [AM937와](../Page/기아_AM버스.md "wikilink") [RB520와](../Page/현대_RB.md "wikilink") [현대 에어로시티와](../Page/현대_에어로시티.md "wikilink") [BS105와](https://ko.wikipedia.org/wiki/대우_BS "wikilink") [BS106는](https://ko.wikipedia.org/wiki/대우_BS "wikilink") 10.913m로 표기되어 있다.
 
 #### AM939

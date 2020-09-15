@@ -98,9 +98,10 @@
 
 ### 2020년대
 
-  - 2020년 《[옐](https://ko.wikipedia.org/wiki/옐_\(드라마\) "wikilink")》 - (주연: [쿠보타 마사타카](../Page/쿠보타_마사타카.md "wikilink"))
+  - 2020년 《[옐](https://ko.wikipedia.org/wiki/옐_\(TV_드라마\) "wikilink")》 - (주연: [쿠보타 마사타카](../Page/쿠보타_마사타카.md "wikilink"))
   - 2020년 《[오초양](https://ko.wikipedia.org/wiki/오초양 "wikilink")》 - (주연: [스기사키 하나](../Page/스기사키_하나.md "wikilink"))
   - 2021년 《[어서와 모네](https://ko.wikipedia.org/wiki/어서와_모네 "wikilink")》 - (주연: [키요하라 카야](https://ko.wikipedia.org/wiki/키요하라_카야 "wikilink"))
+  - 2021년 《[컴 컴 에브리바디](https://ko.wikipedia.org/wiki/컴_컴_에브리바디 "wikilink")》
 
 ## 수상 목록
 

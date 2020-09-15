@@ -33,7 +33,7 @@
 
 1944년 1월 7일, 사라토가는 진주만에 도착해, 간단한 훈련을 한 후, 경항공 모함, [랭글리](https://ko.wikipedia.org/wiki/랭글리_\(CVL-27\) "wikilink"), 프린스턴과 함께 1월 19일에 진주만을 출격 해 [마셜 제도를](../Page/마셜_제도.md "wikilink") 공격하는 지원군에 투입되었다. 1월 29일부터 3일간 여러 섬을 공격하고, 2월 28일까지 방어진을 구축했다.
 
-3월 4일, 사라토가는 3척의 구축함에 호위를 받아 [마주로](https://ko.wikipedia.org/wiki/마주로 "wikilink")를 출발해,[에스피리토 산토](https://ko.wikipedia.org/wiki/에스피리토_산토 "wikilink"), [오스트레일리아](../Page/오스트레일리아.md "wikilink")의 [호바트](../Page/호바트.md "wikilink"), [타즈메이니아](https://ko.wikipedia.org/wiki/타즈메이니아 "wikilink"), 프리맨틀을 경유해 태평양에서 인도양을 항해하며 전투가 참가했다. 3월 27일, 해상에서 항공 모함[일러스트리어스](https://ko.wikipedia.org/wiki/HMS_일러스트리어스 "wikilink"), 전함 4척 등의 영국 해군 함대와 합류, 31일에 [실론 섬에](https://ko.wikipedia.org/wiki/실론_섬 "wikilink") 도착했다. 정비 후, 4월 16일, [트린코말리](https://ko.wikipedia.org/wiki/트린코말리 "wikilink")로 출격 해 19일에 2척의 항공 모함은 [수마트라섬](../Page/수마트라섬.md "wikilink") 북서단을 공격하여 항만 시설과 석유 비축 시설에 공격을 실시했다. 같은 방법으로 5월 17일에 [자와 섬의](https://ko.wikipedia.org/wiki/자와_섬 "wikilink") [스라바야](https://ko.wikipedia.org/wiki/스라바야 "wikilink")를 공격 하고, 그 후, 본국으로 귀환했다.
+3월 4일, 사라토가는 3척의 구축함에 호위를 받아 [마주로](../Page/마주로.md "wikilink")를 출발해,[에스피리토 산토](https://ko.wikipedia.org/wiki/에스피리토_산토 "wikilink"), [오스트레일리아](../Page/오스트레일리아.md "wikilink")의 [호바트](../Page/호바트.md "wikilink"), [타즈메이니아](https://ko.wikipedia.org/wiki/타즈메이니아 "wikilink"), 프리맨틀을 경유해 태평양에서 인도양을 항해하며 전투가 참가했다. 3월 27일, 해상에서 항공 모함[일러스트리어스](https://ko.wikipedia.org/wiki/HMS_일러스트리어스 "wikilink"), 전함 4척 등의 영국 해군 함대와 합류, 31일에 [실론 섬에](https://ko.wikipedia.org/wiki/실론_섬 "wikilink") 도착했다. 정비 후, 4월 16일, [트린코말리](https://ko.wikipedia.org/wiki/트린코말리 "wikilink")로 출격 해 19일에 2척의 항공 모함은 [수마트라섬](../Page/수마트라섬.md "wikilink") 북서단을 공격하여 항만 시설과 석유 비축 시설에 공격을 실시했다. 같은 방법으로 5월 17일에 [자와 섬의](https://ko.wikipedia.org/wiki/자와_섬 "wikilink") [스라바야](https://ko.wikipedia.org/wiki/스라바야 "wikilink")를 공격 하고, 그 후, 본국으로 귀환했다.
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:USS_Saratoga_\(CV-3\)_underway_in_Puget_Sound_on_7_September_1944_\(19-N-72626\).jpg "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:USS_Saratoga_Kamikaze_hit_21_February_1945.jpg "wikilink")
 
@@ -57,4 +57,4 @@
   - [Image from the launching of the U.S.S. Saratoga](https://archive.is/20121209024356/http://digital.hagley.org/u?/p268001uw,260)
   - [Scuba diving to the U.S.S. Saratoga](http://www.bikiniatoll.com/divetour1.html)
 
-[분류:미국의 항공모함](https://ko.wikipedia.org/wiki/분류:미국의_항공모함 "wikilink") [분류:렉싱턴급 항공모함](https://ko.wikipedia.org/wiki/분류:렉싱턴급_항공모함 "wikilink") [분류:1925년 진수된 선박](https://ko.wikipedia.org/wiki/분류:1925년_진수된_선박 "wikilink") [분류:태평양의 침몰선](https://ko.wikipedia.org/wiki/분류:태평양의_침몰선 "wikilink")
+[분류:1925년 진수된 선박](https://ko.wikipedia.org/wiki/분류:1925년_진수된_선박 "wikilink") [분류:렉싱턴급 항공모함](https://ko.wikipedia.org/wiki/분류:렉싱턴급_항공모함 "wikilink") [분류:제2차 세계 대전의 미국 항공모함](https://ko.wikipedia.org/wiki/분류:제2차_세계_대전의_미국_항공모함 "wikilink") [분류:태평양의 침몰선](https://ko.wikipedia.org/wiki/분류:태평양의_침몰선 "wikilink")

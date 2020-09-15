@@ -13,7 +13,7 @@
   - 1990 미국 광학 학회에서의 William F. Meggers 상\[3\]
   - 1996 광학 및 양자 전자공학 학회에서의 아인슈타인상\[4\]
   - 1998 IEEE 초음파학,강유전체, 그리고 진동수 제어에 관한 학회에서의 Rabi 상\[5\]
-  - 2001 레이저 과학에서의 Arthur L. Schawlow 상\[6\]
+  - 2001 [레이저 과학에서의](https://ko.wikipedia.org/wiki/레이저_과학 "wikilink") Arthur L. Schawlow 상\[6\]
   - 2007 공학과학에서의 National Medal\[7\]
   - 2009 광학 학회 (OSA)에서의 Herbert Walther 상\[8\]
   - 2010 Juan Ignacio Cirac 과 Peter Zoller과의 물리학 분야에서의 Benjamin Franklin Medal 공동수상

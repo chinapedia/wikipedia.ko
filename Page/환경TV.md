@@ -5,7 +5,7 @@
 
 ## 연혁
 
-  - [1995년](../Page/1995년.md "wikilink") : 센츄리TV로 설립
+  - [1995년](../Page/1995년.md "wikilink") : 센추리TV로 설립
   - [2000년](../Page/2000년.md "wikilink") [5월 3일](../Page/5월_3일.md "wikilink") : [방송위원회로부터](../Page/대한민국_방송통신위원회.md "wikilink") 신규 채널 사업자로 승인받음
   - [2001년](../Page/2001년.md "wikilink") : 환경TV로 변경
   - [2005년](../Page/2005년.md "wikilink") : 방송위원회로부터 공익채널 승인을 받음

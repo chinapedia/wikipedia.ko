@@ -3,13 +3,13 @@
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Windows_RT_logo_and_wordmark.svg "wikilink")
 
-**윈도우 RT**(Windows RT, 개발명: 윈도우 온 ARM/Windows on ARM)는 [태블릿과](../Page/태블릿_컴퓨터.md "wikilink") 같은 [ARM](../Page/ARM_아키텍처.md "wikilink") 기기들을 위한 [윈도우 8](../Page/윈도우_8.md "wikilink") [운영 체제](../Page/운영_체제.md "wikilink") 버전이다. 장치 제조업자에게만 직접 판매하는 제품으로 일반 소비자에게는 판매하지 않는다.
+**윈도우 RT**(Windows RT, 개발명: 윈도우 온 ARM/Windows on ARM)는 [태블릿과](../Page/태블릿_컴퓨터.md "wikilink") 같은 [ARM](../Page/ARM_아키텍처.md "wikilink") 기기들을 위한 [윈도우 8](../Page/윈도우_8.md "wikilink") [운영 체제](../Page/운영_체제.md "wikilink") 버전이다. 장치 제조업자에게만 직접 판매하는 제품으로(OEM 전용) 일반 소비자에게는 판매하지 않는다.
 
 ## 하드웨어 요구사항
 
   - 하드웨어 버튼: 5개의 하드웨어 버튼이 필요하다. (전원, 자동 회전 잠금, 윈도우 키, 소리 크게, 소리 작게) 윈도우 키는 길이가 적어도 10.5 mm가 되어야 한다.
   - 5포인트 디지타이저
-  - [모바일 브로드밴드](https://ko.wikipedia.org/wiki/모바일_브로드밴드 "wikilink")
+  - [모바일 브로드밴드](../Page/모바일_브로드밴드.md "wikilink")
   - 디스플레이: 최소 32비트 1366x768 순수 디스플레이.
   - [근거리 무선 통신](../Page/근거리_무선_통신.md "wikilink")
   - [Control-Alt-Delete](../Page/Control-Alt-Delete.md "wikilink")를 위한 새로운 버튼 조합: 새로운 옵션으로는 윈도우 키+전원을 누르는 것이다.

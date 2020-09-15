@@ -7,4 +7,4 @@
 
   - [공식 홈페이지](https://web.archive.org/web/20140103085943/http://sdhuesca.es/)
 
-[SD_우에스카](https://ko.wikipedia.org/wiki/분류:SD_우에스카 "wikilink") [분류:1960년 설립된 축구단](https://ko.wikipedia.org/wiki/분류:1960년_설립된_축구단 "wikilink") [분류:스페인의 축구단](https://ko.wikipedia.org/wiki/분류:스페인의_축구단 "wikilink") [분류:우에스카](https://ko.wikipedia.org/wiki/분류:우에스카 "wikilink") [분류:아라곤 지방의 축구단](https://ko.wikipedia.org/wiki/분류:아라곤_지방의_축구단 "wikilink")
+[SD_우에스카](https://ko.wikipedia.org/wiki/분류:SD_우에스카 "wikilink") [분류:1960년 설립된 축구단](https://ko.wikipedia.org/wiki/분류:1960년_설립된_축구단 "wikilink") [분류:스페인의 축구단](https://ko.wikipedia.org/wiki/분류:스페인의_축구단 "wikilink") [분류:우에스카](https://ko.wikipedia.org/wiki/분류:우에스카 "wikilink") [분류:아라곤주의 축구단](https://ko.wikipedia.org/wiki/분류:아라곤주의_축구단 "wikilink")

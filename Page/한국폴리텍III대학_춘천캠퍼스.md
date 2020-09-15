@@ -74,8 +74,8 @@
 ## 같이 보기
 
   - [한국폴리텍III대학](https://ko.wikipedia.org/wiki/한국폴리텍III대학 "wikilink")
-  - [한국폴리텍III대학 원주캠퍼스](https://ko.wikipedia.org/wiki/한국폴리텍III대학_원주캠퍼스 "wikilink")
-  - [한국폴리텍III대학 강릉캠퍼스](https://ko.wikipedia.org/wiki/한국폴리텍III대학_강릉캠퍼스 "wikilink")
+  - [한국폴리텍III대학 원주캠퍼스](../Page/한국폴리텍III대학_원주캠퍼스.md "wikilink")
+  - [한국폴리텍III대학 강릉캠퍼스](../Page/한국폴리텍III대학_강릉캠퍼스.md "wikilink")
 
 ## 각주
 

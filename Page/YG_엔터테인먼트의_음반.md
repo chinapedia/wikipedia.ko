@@ -300,7 +300,7 @@
   - 2016년 1월 13일 아이콘 - **WELCOME BACK** (일본 판)
   - 2016년 1월 20일 BOBBY, [구준회](../Page/구준회.md "wikilink"), [김동혁](../Page/김동혁_\(가수\).md "wikilink") - **\[Digital Single\] 투유 프로젝트 - 슈가맨 Part.14**\[61\]
   - 2016년 2월 1일 위너 - **[EXIT : E](../Page/EXIT_:_E.md "wikilink") (EXIT 시리즈 \#1)**\[62\]
-  - 2016년 2월 3일 빅뱅 - **[MADE SERIES](https://ko.wikipedia.org/wiki/MADE_SERIES_\(빅뱅의_음반\) "wikilink")**
+  - 2016년 2월 3일 빅뱅 - **[MADE SERIES](../Page/MADE_SERIES.md "wikilink")**
   - 2016년 2월 23일 타블로 - **\[Digital Single\] DODODO**\[63\]
   - 2016년 3월 2일 구혜선 - **\[Digital Single\] 썼다 지웠다**\[64\]
   - 2016년 3월 9일 이하이 - **Seoulite** (하프 앨범)
@@ -414,13 +414,25 @@
   - 2020년 4월 9일 위너 - **Remember**
   - 2020년 5월 23일 VIINI - **소녀의 세계 OST Part.4**
   - 2020년 6월 5일 [방예담](https://ko.wikipedia.org/wiki/방예담 "wikilink") - **\[Digital Single\] 왜요**\[87\]
-  - 2020년 6월 ?일 블랙핑크 - **\[Digital Single\] 미정**\[88\]
-  - 2020년 7월 ?일 [트레저](https://ko.wikipedia.org/wiki/트레저_\(음악_그룹\) "wikilink") - **미정**
-  - 2020년 7월 ?일 블랙핑크 - **\[Digital Single\] 미정**\[89\]
-  - 2020년 9월 ?일 블랙핑크 - **미정**
-  - 2020년 ?월 ?일 [로제](https://ko.wikipedia.org/wiki/로제 "wikilink") - **미정**
-  - 2020년 ?월 ?일 [리사](../Page/리사.md "wikilink") - **\[Digital Single\] 미정**
-  - 2020년 ?월 ?일 [지수](https://ko.wikipedia.org/wiki/지수 "wikilink") - **\[Digital Single\] 미정**
+  - 2020년 6월 26일 블랙핑크 - **\[Digital Single\] How you like that**\[88\]
+  - 2020년 7월 3일 악뮤 - '''\[항해\] TOUR LIVE '''
+  - 2020년 7월 12일 이수현 - **사이코지만 괜찮아 OST Part.4**
+  - 2020년 8월 7일 [트레저](https://ko.wikipedia.org/wiki/트레저_\(음악_그룹\) "wikilink") - **\[Digital Single\] THE FIRST STEP : CHAPTER ONE**
+  - 2020년 8월 14일 VIINI - **Café 킬리만자로 OST Part.1**\[89\]
+  - 2020년 8월 22일 VIINI - **Café 킬리만자로 OST Part.2**
+  - 2020년 8월 28일 블랙핑크 - **\[Digital Single\] 아이스크림**\[90\]\[91\]
+  - 2020년 8월 31일 이수현 - **\[Digital Single\] 숨겨진 내 모습 (영화 뮬란 OST)**
+  - 2020년 9월 ?일 트레저 - **\[Digital Single\] THE FIRST STEP : CHAPTER TWO**
+  - 2020년 9월 ?일 악뮤 - **미정**
+  - 2020년 10월 2일 블랙핑크 - **The Album**
+  - 2020년 10월 ?일 송민호 - **미정**
+  - 2020년 ?월 ?일 강승윤 - **미정**
+  - 2020년 ?월 ?일 트레저 - **미정**
+  - 2020년 ?월 ?일 악뮤 - **미정**
+  - 2020년 ?월 ?일 로제 - **미정**
+  - 2020년 ?월 ?일 리사 - **미정**
+  - 2020년 ?월 ?일 지수 - **미정**
+  - 2020년 ?월 ?일 악뮤 - **미정**
 
 ## 각주
 
@@ -475,7 +487,7 @@
 47. 빅뱅 정규 3집의 세번째 선공개 앨범.
 48. [올 블랙의](../Page/올_블랙.md "wikilink") 멤버 [마이크로닷](../Page/마이크로닷_\(래퍼\).md "wikilink"), [블랙넛](../Page/블랙넛.md "wikilink"), [앤덥](../Page/앤덥.md "wikilink"), [자메즈](https://ko.wikipedia.org/wiki/자메즈 "wikilink"), [베이식도](../Page/베이식_\(가수\).md "wikilink") 앨범 참여.
 49. 빅뱅 정규 3집의 마지막 선공개 앨범.
-50. [블락비](../Page/블락비.md "wikilink")의 멤버 [지코](../Page/지코.md "wikilink"), [팔로알토도](../Page/팔로알토_\(가수\).md "wikilink") 앨범 참여.
+50. [블락비](../Page/블락비.md "wikilink")의 멤버 [지코](../Page/지코.md "wikilink"), [팔로알토도](../Page/팔로알토_\(래퍼\).md "wikilink") 앨범 참여.
 51. [산이](../Page/산이.md "wikilink"), [버벌 진트](https://ko.wikipedia.org/wiki/버벌_진트 "wikilink"), [2PM](https://ko.wikipedia.org/wiki/2PM "wikilink")의 전 멤버 [박재범](../Page/박재범.md "wikilink"), [로꼬](../Page/로꼬.md "wikilink"), [이노베이터](../Page/이노베이터.md "wikilink"), [베이식](../Page/베이식_\(가수\).md "wikilink"), [인크레더블](https://ko.wikipedia.org/wiki/인크레더블_\(래퍼\) "wikilink"), [블랙넛](../Page/블랙넛.md "wikilink"), [긱스의](https://ko.wikipedia.org/wiki/긱스_\(남성_듀오\) "wikilink") 멤버 [릴보이](../Page/릴보이.md "wikilink")도 앨범 참여.
 52. [블랙넛](../Page/블랙넛.md "wikilink"), [베이식도](../Page/베이식_\(가수\).md "wikilink") 앨범 참여.
 53. [블락비](../Page/블락비.md "wikilink")의 멤버 [지코](../Page/지코.md "wikilink"), [베이식도](../Page/베이식_\(가수\).md "wikilink") 앨범 참여.
@@ -504,7 +516,7 @@
 76. 최경훈, 이주현, 방지환도 앨범 참여.
 77. [송은이](../Page/송은이.md "wikilink"), [김영희](../Page/김영희_\(희극인\).md "wikilink"), [신봉선](../Page/신봉선.md "wikilink"), [김신영](../Page/김신영.md "wikilink")도 앨범 참여.
 78. [송은이](../Page/송은이.md "wikilink"), [신봉선](../Page/신봉선.md "wikilink"), [김신영](../Page/김신영.md "wikilink")도 다시 앨범 참여.
-79. [빅톤의](../Page/빅톤_\(음악_그룹\).md "wikilink") 두 멤버 [한승우](../Page/한승우_\(가수\).md "wikilink"),[최병찬](../Page/최병찬.md "wikilink"),[유니크의](../Page/유니크_\(음악_그룹\).md "wikilink") 멤버 [조승연](https://ko.wikipedia.org/wiki/조승연_\(가수\) "wikilink") 외 96명도 앨범 참여.
+79. [빅톤의](../Page/빅톤_\(음악_그룹\).md "wikilink") 두 멤버 [한승우](../Page/한승우_\(가수\).md "wikilink"),[최병찬](../Page/최병찬.md "wikilink"),[유니크의](../Page/유니크_\(음악_그룹\).md "wikilink") 멤버 [조승연](https://ko.wikipedia.org/wiki/WOODZ "wikilink") 외 96명도 앨범 참여.
 80. [블락비](../Page/블락비.md "wikilink")의 멤버 [피오](../Page/피오.md "wikilink"),[슈퍼주니어](../Page/슈퍼주니어.md "wikilink")의 멤버 [규현](../Page/규현.md "wikilink")도 앨범 참여.
 81. [슈퍼주니어](../Page/슈퍼주니어.md "wikilink")의 전 멤버 [헨리](../Page/헨리_\(가수\).md "wikilink"),[하림](../Page/하림_\(가수\).md "wikilink"),[메이트의](../Page/메이트_\(음악_그룹\).md "wikilink") 멤버 [임헌일](../Page/임헌일.md "wikilink"),[박정현](../Page/박정현.md "wikilink"),[김필도](../Page/김필_\(가수\).md "wikilink") 앨범 참여.
 82. [슈퍼주니어](../Page/슈퍼주니어.md "wikilink")의 전 멤버 [헨리](../Page/헨리_\(가수\).md "wikilink"),[하림](../Page/하림_\(가수\).md "wikilink"),[메이트의](../Page/메이트_\(음악_그룹\).md "wikilink") 멤버 [임헌일](../Page/임헌일.md "wikilink"),[박정현](../Page/박정현.md "wikilink"),[김필도](../Page/김필_\(가수\).md "wikilink") 다시 앨범 참여.
@@ -514,4 +526,6 @@
 86. 위너 정규 3집 선공개곡.
 87. 트레저로 데뷔하기 전에 낸 솔로 앨범.
 88. 블랙핑크 정규 1집 첫번째 선공개곡.
-89. 블랙핑크 정규 1집 두번째 선공개곡.
+89. [JXR](https://ko.wikipedia.org/wiki/JXR "wikilink")의 멤버 [백진](https://ko.wikipedia.org/wiki/백진_\(가수\) "wikilink"),[박찬규](https://ko.wikipedia.org/wiki/박찬규 "wikilink"),[최시훈](../Page/최시훈.md "wikilink")도 앨범 참여.
+90. 가수 [셀레나 고메즈도](../Page/셀레나_고메즈.md "wikilink") 참여.
+91. 블랙핑크 정규 1집 두번째 선공개곡.

@@ -585,7 +585,7 @@
 <tr class="even">
 <td></td>
 <td><p><a href="../Page/8월_31일.md" title="wikilink">8월 31일</a></p></td>
-<td><p>한려수도의 탐나는 <a href="../Page/섬.md" title="wikilink">섬</a>, <a href="https://ko.wikipedia.org/wiki/욕지도" title="wikilink">욕지도</a>!</p></td>
+<td><p>한려수도의 탐나는 <a href="../Page/섬.md" title="wikilink">섬</a>, <a href="../Page/욕지도.md" title="wikilink">욕지도</a>!</p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -885,7 +885,7 @@
 <tr class="even">
 <td></td>
 <td><p><a href="../Page/10월_22일.md" title="wikilink">10월 22일</a></p></td>
-<td><p><a href="../Page/섬.md" title="wikilink">섬</a>에서 놀자, <a href="https://ko.wikipedia.org/wiki/통영" title="wikilink">통영</a> <a href="https://ko.wikipedia.org/wiki/욕지도" title="wikilink">욕지도</a> 외</p></td>
+<td><p><a href="../Page/섬.md" title="wikilink">섬</a>에서 놀자, <a href="https://ko.wikipedia.org/wiki/통영" title="wikilink">통영</a> <a href="../Page/욕지도.md" title="wikilink">욕지도</a> 외</p></td>
 </tr>
 <tr class="odd">
 <td></td>

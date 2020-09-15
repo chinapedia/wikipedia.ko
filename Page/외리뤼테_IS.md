@@ -26,7 +26,7 @@
 
   - [요한 엘만데르](../Page/요한_엘만데르.md "wikilink")
 
-  - [마르쿠스 알베크](https://ko.wikipedia.org/wiki/마르쿠스_알베크 "wikilink")
+  - [마르쿠스 알베크](../Page/마르쿠스_알베크.md "wikilink")
 
   - [새미 맥킬로이](https://ko.wikipedia.org/wiki/새미_맥킬로이 "wikilink")
 

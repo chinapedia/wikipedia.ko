@@ -31,8 +31,6 @@ KC-X 공개입찰에서는 미국의 [보잉 KC-767과](../Page/보잉_KC-767.md
 
 [분류:공중급유기](https://ko.wikipedia.org/wiki/분류:공중급유기 "wikilink")
 
-[pl:KC-X](https://ko.wikipedia.org/wiki/pl:KC-X "wikilink")
-
 1.  [DoD 4120.15L, Model Designation of Military Aerospace Vehicles](http://www.dtic.mil/whs/directives/corres/html/412015l.htm), 2004-05-12.
 2.  ["Boeing Given Nod on Tanker Lease"](http://www.military-aerospace-technology.com/article.cfm?DocID=335), Military-Aerospace Technology Magazine; volume: 1, issue: 2, 1 May 2002 ([archive link](http://web.archive.org/web/20071114184441/http://www.military-aerospace-technology.com/article.cfm?DocID=335)).
 3.  ["First Boeing 767 Aircraft for Japan Tanker Program Arrives in Wichita"](http://www.boeing.com/ids/news/2005/q2/nr_050608t.html), Boeing news release, 2005-06-08.

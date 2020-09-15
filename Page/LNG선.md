@@ -195,6 +195,4 @@ IGC 코드에서는 어느 방식에서도 기본적으로는 2차 방벽의 설
 
 [분류:유조선](https://ko.wikipedia.org/wiki/분류:유조선 "wikilink")
 
-[de:Tanker\#Flüssiggastanker](https://ko.wikipedia.org/wiki/de:Tanker#Flüssiggastanker "wikilink")
-
 1.  [일본 에너지 학회편](https://ko.wikipedia.org/wiki/일본_에너지_학회 "wikilink")「잘 아는 천연가스」사단법인 일본 에너지 학회　2000년 2월 16일 초판 발행

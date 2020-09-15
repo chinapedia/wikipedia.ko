@@ -20,4 +20,4 @@
   - JL-2 - 중국판 트라이던트 II 미사일
   - [R-29RMU](../Page/R-29RMU.md "wikilink") - 러시아판 트라이던트 II 미사일
 
-[분류:잠수함발사 탄도유도탄](https://ko.wikipedia.org/wiki/분류:잠수함발사_탄도유도탄 "wikilink") [분류:중화인민공화국의 미사일](https://ko.wikipedia.org/wiki/분류:중화인민공화국의_미사일 "wikilink")
+[분류:잠수함발사 탄도유도탄](https://ko.wikipedia.org/wiki/분류:잠수함발사_탄도유도탄 "wikilink") [분류:중화인민공화국의 미사일](https://ko.wikipedia.org/wiki/분류:중화인민공화국의_미사일 "wikilink") [분류:중화인민공화국의 핵무기](https://ko.wikipedia.org/wiki/분류:중화인민공화국의_핵무기 "wikilink")

@@ -18,7 +18,7 @@
 | LG VS920 | LG 스펙트럼                | 미국    | [버라이즌](https://ko.wikipedia.org/wiki/버라이즌 "wikilink")   | 2012년 1월 19일  | 135 x 69 x 11 mm        | 141 g    |
 | LG P935  | LG Optimus LTE         | 캐나다   | [텔러스](https://ko.wikipedia.org/wiki/텔러스 "wikilink")     | 2012년 2월      | 133.9 x 67.9 x 10.5 mm  | 135 g    |
 
-## 운영체제 업그레이드
+## 운영 체제 업그레이드
 
 ### [안드로이드](../Page/안드로이드_\(운영_체제\).md "wikilink") [4.0.4 아이스크림샌드위치](https://ko.wikipedia.org/wiki/안드로이드_버전_역사 "wikilink") 업그레이드
 

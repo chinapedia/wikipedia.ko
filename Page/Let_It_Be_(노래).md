@@ -27,7 +27,7 @@
 〈Let It Be〉은 다양한 예술가들에 의해 여러번 다뤄지고 있다.
 
   - 1969: [조 코커는](../Page/조_코커.md "wikilink") 《Joe Cocker\!》라는 음반을 위한 세션에서 그 트랙을 녹음했지만, 그 곡은 CD가 나올 때까지 공개되지 않았다.
-  - 1971: [존 덴버는](../Page/존_덴버.md "wikilink") 그의 음반 《[Poems, Prayers & Promises](https://ko.wikipedia.org/wiki/Poems,_Prayers_&_Promises "wikilink")》의 두 번째 곡으로 〈Let It Be〉을 포함했다.
+  - 1971: [존 덴버는](../Page/존_덴버.md "wikilink") 그의 음반 《[Poems, Prayers & Promises](../Page/Poems,_Prayers_&_Promises.md "wikilink")》의 두 번째 곡으로 〈Let It Be〉을 포함했다.
 
 ## 싱글 차트
 

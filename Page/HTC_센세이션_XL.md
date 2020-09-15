@@ -5,6 +5,10 @@
 
 [HTC 코퍼레이션에서](https://ko.wikipedia.org/wiki/HTC_코퍼레이션 "wikilink") [비츠오디오](https://ko.wikipedia.org/wiki/비츠오디오 "wikilink") 사를 인수한 후 내놓은 멀티미디어 특화 스마트폰으로, [비츠오디오를](https://ko.wikipedia.org/wiki/비츠_바이_닥터_드레 "wikilink") 탑재하고, 비츠 바이 닥터 드레의 제품 중 하나인 iBeats를 번들로 제공한다.
 
+## 같이보기
+
+  - [HTC 휴대 전화 목록](../Page/HTC_휴대_전화_목록.md "wikilink")
+
 ## 외부 링크
 
   -

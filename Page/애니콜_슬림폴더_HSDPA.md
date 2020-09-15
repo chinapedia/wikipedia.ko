@@ -14,7 +14,7 @@
 
 ## 외부 링크
 
-  - [세티즌 : SCH-W270](http://review.cetizen.com/SCH-W270/view/1/1417/review)
-  - [세티즌 : SPH-W2700](http://review.cetizen.com/SPH-W2700/view/1/1418/review)
+  - [세티즌 : SCH-W270](https://web.archive.org/web/20090526072021/http://review.cetizen.com/SCH-W270/view/1/1417/review)
+  - [세티즌 : SPH-W2700](https://web.archive.org/web/20160304194928/http://review.cetizen.com/SPH-W2700/view/1/1418/review)
 
 [슬림폴더 HSDPA](https://ko.wikipedia.org/wiki/분류:애니콜 "wikilink") [분류:2007년 출시](https://ko.wikipedia.org/wiki/분류:2007년_출시 "wikilink")

@@ -71,5 +71,6 @@ ABO식 혈액형에는 표현형과 유전자형이 있다. 우리가 흔히 쓰
 
   - [시스 AB형](../Page/시스_AB형.md "wikilink")
   - [혈액형 성격설](../Page/혈액형_성격설.md "wikilink")
+  - [사상체질](https://ko.wikipedia.org/wiki/사상체질 "wikilink")
 
-[분류:혈액형](https://ko.wikipedia.org/wiki/분류:혈액형 "wikilink") [분류:인간 9번 염색체상 유전자](https://ko.wikipedia.org/wiki/분류:인간_9번_염색체상_유전자 "wikilink")
+[분류:혈액형](https://ko.wikipedia.org/wiki/분류:혈액형 "wikilink") [분류:인간 9번 염색체상 유전자](https://ko.wikipedia.org/wiki/분류:인간_9번_염색체상_유전자 "wikilink") [분류:수혈의학](https://ko.wikipedia.org/wiki/분류:수혈의학 "wikilink")

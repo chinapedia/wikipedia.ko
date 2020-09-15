@@ -26,7 +26,7 @@
   - 플래티넘 화이트
   - 코도반 레드
 
-## 운영 체제/소프트웨어
+## 운영 체제 / 소프트웨어
 
 ### 안드로이드 4.0 아이스크림 샌드위치
 
@@ -70,7 +70,7 @@
 
 #### Q 보이스
 
-[LG전자](../Page/LG전자.md "wikilink")의 독자기술인 **베르니케**기술을 이용한 음성시스템으로, 말을 해서 각종 기능을 실행하거나 원하는 것을 찾을 수 있다. [애플의](https://ko.wikipedia.org/wiki/애플_\(기업\) "wikilink") [시리](https://ko.wikipedia.org/wiki/시리 "wikilink"), [팬택](../Page/팬택.md "wikilink")의 [스마트 보이스](https://ko.wikipedia.org/wiki/스마트_보이스 "wikilink"), [삼성전자](https://ko.wikipedia.org/wiki/삼성전자 "wikilink")의 [S 보이스와](../Page/S_보이스.md "wikilink") 유사하다. 그러나 스마트 보이스나 S보이스보다 인식률이 좋고 다양한 대화 DB가 있다.또 성우 목소리와 대화가 더 자연스럽고,대화 인식 속도도 빠르다. 킷캣 업그레이드 이후에는 키보드로 대화 기능이 추가되었음에 따라 성우가 바뀌고,대화가 더 자연스러워졌으며 DB도 늘어나고 인식 속도가 더 빨라졌다. 또한, 끝말잇기 등의 여러 재미적인 요소가 추가되었다.
+[LG전자](../Page/LG전자.md "wikilink")의 독자기술인 **베르니케**기술을 이용한 음성시스템으로, 말을 해서 각종 기능을 실행하거나 원하는 것을 찾을 수 있다. [애플](../Page/애플.md "wikilink")의 [시리](https://ko.wikipedia.org/wiki/시리 "wikilink"), [팬택](../Page/팬택.md "wikilink")의 [스마트 보이스](https://ko.wikipedia.org/wiki/스마트_보이스 "wikilink"), [삼성전자](https://ko.wikipedia.org/wiki/삼성전자 "wikilink")의 [S 보이스와](../Page/S_보이스.md "wikilink") 유사하다. 그러나 스마트 보이스나 S보이스보다 인식률이 좋고 다양한 대화 DB가 있다.또 성우 목소리와 대화가 더 자연스럽고,대화 인식 속도도 빠르다. 킷캣 업그레이드 이후에는 키보드로 대화 기능이 추가되었음에 따라 성우가 바뀌고,대화가 더 자연스러워졌으며 DB도 늘어나고 인식 속도가 더 빨라졌다. 또한, 끝말잇기 등의 여러 재미적인 요소가 추가되었다.
 
 #### Q 메모
 

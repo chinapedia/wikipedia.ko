@@ -1,9 +1,7 @@
 > This article is converted from Wikipedia: [9nine](https://ko.wikipedia.org/wiki/9nine).
 
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:9nine_logo.jpg "wikilink") **9nine**은 [레프로 엔터테인먼트](../Page/레프로_엔터테인먼트.md "wikilink") 소속의 [모델](https://ko.wikipedia.org/wiki/모델 "wikilink"), [가수](https://ko.wikipedia.org/wiki/가수 "wikilink"), [배우](../Page/배우.md "wikilink")로 구성된, [일본](../Page/일본.md "wikilink")의 퍼포먼스 걸스 유닛이다.
-
-[2015년](../Page/2015년.md "wikilink")에 결성. [2019년](../Page/2019년.md "wikilink")부터 활동 휴지.
+**9nine**은 [레프로 엔터테인먼트](../Page/레프로_엔터테인먼트.md "wikilink") 소속의 [모델](https://ko.wikipedia.org/wiki/모델 "wikilink"), [가수](https://ko.wikipedia.org/wiki/가수 "wikilink"), [배우](../Page/배우.md "wikilink")로 구성된, [일본](../Page/일본.md "wikilink")의 퍼포먼스 걸스 유닛이다. [2005년](../Page/2005년.md "wikilink")에 결성되어 [2019년](../Page/2019년.md "wikilink")부터 활동을 휴지하고 있다.
 
 ## 개요
 

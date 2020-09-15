@@ -3,7 +3,7 @@
 
 ## 역사
 
-초기의 여러 대회를 현 [천황배일본축구대회의](../Page/천황배_전일본_축구_선수권_대회.md "wikilink") 뿌리로 인정하여 횟수를 부여하는 [일본축구협회](https://ko.wikipedia.org/wiki/일본축구협회 "wikilink")와 달리, [대한축구협회](../Page/대한축구협회.md "wikilink")에서는 **[전조선축구대회](../Page/전조선축구대회.md "wikilink")**, **[전국축구선수권대회](../Page/전국축구선수권대회.md "wikilink")**와 현 **[FA컵](https://ko.wikipedia.org/wiki/FA컵_\(대한민국\) "wikilink")** 간의 관계를 직접적으로 언급하고 있지는 않다. 그러나 전국축구선수권대회의 경우 FA컵에 통합되었음을 각종 기록이나 홈페이지 등에서 인정하고 있으며, 실제 1988년과 1989년 대회 당시에는 전국축구선수권대회를 FA컵이라고 칭하였다.\[1\] 전조선축구대회의 경우에도 현 대한축구협회의 전신인 조선축구협회가 주최했다는 점, 주로 늦가을에 한 해를 결산하며 열렸다는 점, 전국 주요 클럽들이 망라되어 참가하는 국내 최대의 대회였다는 점 등을 고려할 때 전국축구선수권대회의 성격과 동일하다.<small>\[2\]\[3\]\[4\]</small>
+초기의 여러 대회를 현 [천황배일본축구대회의](../Page/천황배_전일본_축구_선수권_대회.md "wikilink") 뿌리로 인정하여 횟수를 부여하는 [일본축구협회](https://ko.wikipedia.org/wiki/일본축구협회 "wikilink")와 달리, [대한축구협회](../Page/대한축구협회.md "wikilink")에서는 **[전조선축구대회](../Page/전조선축구대회.md "wikilink")**, **[전국축구선수권대회](../Page/전국축구선수권대회.md "wikilink")**와 현 **[FA컵](../Page/FA컵_\(대한민국\).md "wikilink")** 간의 관계를 직접적으로 언급하고 있지는 않다. 그러나 전국축구선수권대회의 경우 FA컵에 통합되었음을 각종 기록이나 홈페이지 등에서 인정하고 있으며, 실제 1988년과 1989년 대회 당시에는 전국축구선수권대회를 FA컵이라고 칭하였다.\[1\] 전조선축구대회의 경우에도 현 대한축구협회의 전신인 조선축구협회가 주최했다는 점, 주로 늦가을에 한 해를 결산하며 열렸다는 점, 전국 주요 클럽들이 망라되어 참가하는 국내 최대의 대회였다는 점 등을 고려할 때 전국축구선수권대회의 성격과 동일하다.<small>\[2\]\[3\]\[4\]</small>
 
 ## [전조선축구대회](../Page/전조선축구대회.md "wikilink") (1921–1940)
 
@@ -637,24 +637,24 @@
 </tbody>
 </table>
 
-## [전국축구선수권대회](../Page/전국축구선수권대회.md "wikilink") / [FA컵](https://ko.wikipedia.org/wiki/FA컵_\(대한민국\) "wikilink") (1996–2000)
+## [전국축구선수권대회](../Page/전국축구선수권대회.md "wikilink") / [FA컵](../Page/FA컵_\(대한민국\).md "wikilink") (1996–2000)
 
-| 연도                                                                                                                    | 명칭                                                                        | 우승                                                            | 준우승                                                         | 결승 장소                                                       | 비고 |
-| --------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- | ------------------------------------------------------------- | ----------------------------------------------------------- | ----------------------------------------------------------- | -- |
-| 1996                                                                                                                  | [제51회 전국축구선수권대회](https://ko.wikipedia.org/wiki/제51회_전국축구선수권대회 "wikilink") | [상무](../Page/상무_축구단.md "wikilink")                            | [이랜드](../Page/이랜드_푸마_축구단.md "wikilink")                     | [동대문운동장](../Page/동대문운동장.md "wikilink")                      |    |
-| [제1회 FA CUP 축구대회](../Page/FA컵_1996.md "wikilink")                                                                     | [포항 아톰즈](../Page/포항_스틸러스.md "wikilink")                                   | [수원 삼성 블루윙즈](../Page/수원_삼성_블루윙즈.md "wikilink")                | [진주공설운동장](../Page/진주공설운동장.md "wikilink")                    |                                                             |    |
-| 1997                                                                                                                  | [제52회 전국축구선수권대회](https://ko.wikipedia.org/wiki/제52회_전국축구선수권대회 "wikilink") | [한일생명](../Page/한일생명보험_축구단.md "wikilink")                      | [할렐루야](../Page/할렐루야_축구단.md "wikilink")                      | [여천공설운동장](https://ko.wikipedia.org/wiki/여천공설운동장 "wikilink") |    |
-| [제2회 FA CUP 축구대회](../Page/FA컵_1997.md "wikilink")                                                                     | [전남 드래곤즈](../Page/전남_드래곤즈.md "wikilink")                                  | [천안 일화 천마](https://ko.wikipedia.org/wiki/성남_일화_천마 "wikilink") | [광주무등경기장](../Page/광주무등경기장.md "wikilink")                    |                                                             |    |
-| 1998                                                                                                                  | [제53회 전국축구선수권대회](https://ko.wikipedia.org/wiki/제53회_전국축구선수권대회 "wikilink") | [한일생명](../Page/한일생명보험_축구단.md "wikilink")                      | [할렐루야](../Page/할렐루야_축구단.md "wikilink")                      | [효창운동장](../Page/효창운동장.md "wikilink")                        |    |
-| [제3회 삼보체인지업 FA CUP 축구대회](../Page/FA컵_1998.md "wikilink")                                                              | [안양 LG 치타스](https://ko.wikipedia.org/wiki/FC_서울 "wikilink")               | [울산 현대 호랑이](../Page/울산_현대_축구단.md "wikilink")                  | [동대문운동장](../Page/동대문운동장.md "wikilink")                      |                                                             |    |
-| 1999                                                                                                                  | [제54회 전국축구선수권대회](https://ko.wikipedia.org/wiki/제54회_전국축구선수권대회 "wikilink") | [아주대](https://ko.wikipedia.org/wiki/아주대학교 "wikilink")         | [울산 현대 호랑이](../Page/울산_현대_축구단.md "wikilink")                | [제천종합운동장](../Page/제천종합운동장.md "wikilink")                    |    |
-| [제4회 삼보컴퓨터 FA CUP 축구대회](../Page/FA컵_1999.md "wikilink")                                                               | [천안 일화 천마](https://ko.wikipedia.org/wiki/천안_일화_천마 "wikilink")             | [전북 현대 다이노스](../Page/전북_현대_모터스.md "wikilink")                 | [제주종합경기장](../Page/제주종합경기장.md "wikilink")                    |                                                             |    |
-| 2000                                                                                                                  | [제55회 전국축구선수권대회](https://ko.wikipedia.org/wiki/제55회_전국축구선수권대회 "wikilink") | [현대미포조선](../Page/울산_현대미포조선_돌고래.md "wikilink")                 | [한국철도](https://ko.wikipedia.org/wiki/대전_코레일_축구단 "wikilink") | [동대문운동장](../Page/동대문운동장.md "wikilink")                      |    |
-| [2000 서울은행 FA CUP 축구대회](../Page/FA컵_2000.md "wikilink")                                                               | [전북 현대 모터스](../Page/전북_현대_모터스.md "wikilink")                              | [성남 일화 천마](https://ko.wikipedia.org/wiki/성남_일화_천마 "wikilink") | [제주종합경기장](../Page/제주종합경기장.md "wikilink")                    |                                                             |    |
-| **[전국축구선수권대회](../Page/전국축구선수권대회.md "wikilink")가 [FA컵](https://ko.wikipedia.org/wiki/FA컵_\(대한민국\) "wikilink") 대회로 통합** |                                                                           |                                                               |                                                             |                                                             |    |
-|                                                                                                                       |                                                                           |                                                               |                                                             |                                                             |    |
+| 연도                                                                                                 | 명칭                                                                        | 우승                                                            | 준우승                                                         | 결승 장소                                                       | 비고 |
+| -------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- | ------------------------------------------------------------- | ----------------------------------------------------------- | ----------------------------------------------------------- | -- |
+| 1996                                                                                               | [제51회 전국축구선수권대회](https://ko.wikipedia.org/wiki/제51회_전국축구선수권대회 "wikilink") | [상무](../Page/상무_축구단.md "wikilink")                            | [이랜드](../Page/이랜드_푸마_축구단.md "wikilink")                     | [동대문운동장](../Page/동대문운동장.md "wikilink")                      |    |
+| [제1회 FA CUP 축구대회](../Page/FA컵_1996.md "wikilink")                                                  | [포항 아톰즈](../Page/포항_스틸러스.md "wikilink")                                   | [수원 삼성 블루윙즈](../Page/수원_삼성_블루윙즈.md "wikilink")                | [진주공설운동장](../Page/진주공설운동장.md "wikilink")                    |                                                             |    |
+| 1997                                                                                               | [제52회 전국축구선수권대회](https://ko.wikipedia.org/wiki/제52회_전국축구선수권대회 "wikilink") | [한일생명](../Page/한일생명보험_축구단.md "wikilink")                      | [할렐루야](../Page/할렐루야_축구단.md "wikilink")                      | [여천공설운동장](https://ko.wikipedia.org/wiki/여천공설운동장 "wikilink") |    |
+| [제2회 FA CUP 축구대회](../Page/FA컵_1997.md "wikilink")                                                  | [전남 드래곤즈](../Page/전남_드래곤즈.md "wikilink")                                  | [천안 일화 천마](https://ko.wikipedia.org/wiki/성남_일화_천마 "wikilink") | [광주무등경기장](../Page/광주무등경기장.md "wikilink")                    |                                                             |    |
+| 1998                                                                                               | [제53회 전국축구선수권대회](https://ko.wikipedia.org/wiki/제53회_전국축구선수권대회 "wikilink") | [한일생명](../Page/한일생명보험_축구단.md "wikilink")                      | [할렐루야](../Page/할렐루야_축구단.md "wikilink")                      | [효창운동장](../Page/효창운동장.md "wikilink")                        |    |
+| [제3회 삼보체인지업 FA CUP 축구대회](../Page/FA컵_1998.md "wikilink")                                           | [안양 LG 치타스](https://ko.wikipedia.org/wiki/FC_서울 "wikilink")               | [울산 현대 호랑이](../Page/울산_현대_축구단.md "wikilink")                  | [동대문운동장](../Page/동대문운동장.md "wikilink")                      |                                                             |    |
+| 1999                                                                                               | [제54회 전국축구선수권대회](https://ko.wikipedia.org/wiki/제54회_전국축구선수권대회 "wikilink") | [아주대](https://ko.wikipedia.org/wiki/아주대학교 "wikilink")         | [울산 현대 호랑이](../Page/울산_현대_축구단.md "wikilink")                | [제천종합운동장](../Page/제천종합운동장.md "wikilink")                    |    |
+| [제4회 삼보컴퓨터 FA CUP 축구대회](../Page/FA컵_1999.md "wikilink")                                            | [천안 일화 천마](https://ko.wikipedia.org/wiki/천안_일화_천마 "wikilink")             | [전북 현대 다이노스](../Page/전북_현대_모터스.md "wikilink")                 | [제주종합경기장](../Page/제주종합경기장.md "wikilink")                    |                                                             |    |
+| 2000                                                                                               | [제55회 전국축구선수권대회](https://ko.wikipedia.org/wiki/제55회_전국축구선수권대회 "wikilink") | [현대미포조선](../Page/울산_현대미포조선_돌고래.md "wikilink")                 | [한국철도](https://ko.wikipedia.org/wiki/대전_코레일_축구단 "wikilink") | [동대문운동장](../Page/동대문운동장.md "wikilink")                      |    |
+| [2000 서울은행 FA CUP 축구대회](../Page/FA컵_2000.md "wikilink")                                            | [전북 현대 모터스](../Page/전북_현대_모터스.md "wikilink")                              | [성남 일화 천마](https://ko.wikipedia.org/wiki/성남_일화_천마 "wikilink") | [제주종합경기장](../Page/제주종합경기장.md "wikilink")                    |                                                             |    |
+| **[전국축구선수권대회](../Page/전국축구선수권대회.md "wikilink")가 [FA컵](../Page/FA컵_\(대한민국\).md "wikilink") 대회로 통합** |                                                                           |                                                               |                                                             |                                                             |    |
+|                                                                                                    |                                                                           |                                                               |                                                             |                                                             |    |
 
-## [FA컵](https://ko.wikipedia.org/wiki/FA컵_\(대한민국\) "wikilink") (2001–현재)
+## [FA컵](../Page/FA컵_\(대한민국\).md "wikilink") (2001–현재)
 
 | 시즌                                     | 우승                                                              | 준우승                                                           |
 | -------------------------------------- | --------------------------------------------------------------- | ------------------------------------------------------------- |
@@ -682,8 +682,6 @@
 | [2017](../Page/FA컵_2017.md "wikilink") | **[울산 현대](https://ko.wikipedia.org/wiki/울산_현대 "wikilink")**     | [부산 아이파크](../Page/부산_아이파크.md "wikilink")                      |
 | [2018](../Page/FA컵_2018.md "wikilink") | **[대구 FC](../Page/대구_FC.md "wikilink")**                        | [울산 현대](https://ko.wikipedia.org/wiki/울산_현대 "wikilink")       |
 | [2019](../Page/FA컵_2019.md "wikilink") | **[수원 삼성 블루윙즈](../Page/수원_삼성_블루윙즈.md "wikilink")**              | [대전 코레일](https://ko.wikipedia.org/wiki/대전_코레일_축구단 "wikilink") |
-
-[섬네일](https://ko.wikipedia.org/wiki/파일:Kfacups20c.gif "wikilink")
 
 ## 우승 횟수
 
@@ -772,679 +770,101 @@
 ※ 다음은 **FA컵 축구대회**라는 이름으로 출범한 당해 대회의 1996년 이후의 기록만을 나타낸다. 현재로서 [대한축구협회](../Page/대한축구협회.md "wikilink")는 이 기록을 대회의 공식 기록으로 준용하고 있다.
 
 <table>
-<tbody>
-<tr class="odd">
-<td><table>
 <thead>
 <tr class="header">
 <th><p>구단</p></th>
-<th><p>우승 <small>()</small></p></th>
-<th><p>준우승 <small>()</small></p></th>
-<th><p>4강 <small>()</small></p></th>
+<th><p>우승</p></th>
+<th><p>준우승</p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td><p><a href="../Page/수원_삼성_블루윙즈.md" title="wikilink">수원 삼성 블루윙즈</a></p></td>
-<td><p>5회 (<a href="../Page/FA컵_2019.md" title="wikilink">2019</a>)</p></td>
-<td><p>3회 (<a href="../Page/FA컵_2011.md" title="wikilink">2011</a>)</p></td>
-<td><p>1회 (<a href="../Page/FA컵_2017.md" title="wikilink">2017</a>)</p></td>
+<td><p>5회 (<a href="../Page/FA컵_2002.md" title="wikilink">2002</a>, <a href="../Page/FA컵_2009.md" title="wikilink">2009</a>, <a href="../Page/FA컵_2010.md" title="wikilink">2010</a>, <a href="../Page/FA컵_2016.md" title="wikilink">2016</a> <a href="../Page/FA컵_2019.md" title="wikilink">2019</a>)</p></td>
+<td><p>3회 (<a href="../Page/FA컵_1996.md" title="wikilink">1996</a>, <a href="../Page/FA컵_2006.md" title="wikilink">2006</a>, <a href="../Page/FA컵_2011.md" title="wikilink">2011</a>)</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/포항_스틸러스.md" title="wikilink">포항 스틸러스</a></p></td>
-<td><p>4회 (<a href="../Page/FA컵_2013.md" title="wikilink">2013</a>)</p></td>
-<td><p>3회 (<a href="../Page/FA컵_2007.md" title="wikilink">2007</a>)</p></td>
-<td><p>3회 (<a href="../Page/FA컵_2011.md" title="wikilink">2011</a>)</p></td>
+<td><p>4회 (<a href="../Page/FA컵_1996.md" title="wikilink">1996</a>, <a href="../Page/FA컵_2008.md" title="wikilink">2008</a>, <a href="../Page/FA컵_2012.md" title="wikilink">2012</a>, <a href="../Page/FA컵_2013.md" title="wikilink">2013</a>)</p></td>
+<td><p>3회 (<a href="../Page/FA컵_2001.md" title="wikilink">2001</a>, <a href="../Page/FA컵_2002.md" title="wikilink">2002</a>, <a href="../Page/FA컵_2007.md" title="wikilink">2007</a>)</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/성남_FC" title="wikilink">성남 FC</a></p></td>
-<td><p>3회 (<a href="../Page/FA컵_2014.md" title="wikilink">2014</a>)</p></td>
-<td><p>3회 (<a href="../Page/FA컵_2009.md" title="wikilink">2009</a>)</p></td>
-<td><p>1회 (<a href="../Page/FA컵_2002.md" title="wikilink">2002</a>)</p></td>
+<td><p>3회 (<a href="../Page/FA컵_1999.md" title="wikilink">1999</a>, <a href="../Page/FA컵_2011.md" title="wikilink">2011</a>, <a href="../Page/FA컵_2014.md" title="wikilink">2014</a>)</p></td>
+<td><p>3회 (<a href="../Page/FA컵_1997.md" title="wikilink">1997</a>, <a href="../Page/FA컵_2000.md" title="wikilink">2000</a>, <a href="../Page/FA컵_2009.md" title="wikilink">2009</a>)</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/전북_현대_모터스.md" title="wikilink">전북 현대 모터스</a></p></td>
-<td><p>3회 (<a href="../Page/FA컵_2005.md" title="wikilink">2005</a>)</p></td>
-<td><p>2회 (<a href="../Page/FA컵_2013.md" title="wikilink">2013</a>)</p></td>
-<td><p>3회 (<a href="../Page/FA컵_2014.md" title="wikilink">2014</a>)</p></td>
+<td><p>3회 (<a href="../Page/FA컵_2000.md" title="wikilink">2000</a>, <a href="../Page/FA컵_2003.md" title="wikilink">2003</a>, <a href="../Page/FA컵_2005.md" title="wikilink">2005</a>)</p></td>
+<td><p>2회 (<a href="../Page/FA컵_1999.md" title="wikilink">1999</a>, <a href="../Page/FA컵_2013.md" title="wikilink">2013</a>)</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/전남_드래곤즈.md" title="wikilink">전남 드래곤즈</a></p></td>
-<td><p>3회 (<a href="../Page/FA컵_2007.md" title="wikilink">2007</a>)</p></td>
+<td><p>3회 (<a href="../Page/FA컵_1997.md" title="wikilink">1997</a>, <a href="../Page/FA컵_2006.md" title="wikilink">2006</a>, <a href="../Page/FA컵_2007.md" title="wikilink">2007</a>)</p></td>
 <td><p>1회 (<a href="../Page/FA컵_2003.md" title="wikilink">2003</a>)</p></td>
-<td><p>4회 (<a href="../Page/FA컵_2015.md" title="wikilink">2015</a>)</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/FC_서울" title="wikilink">FC 서울</a></p></td>
-<td><p>2회 (<a href="../Page/FA컵_2015.md" title="wikilink">2015</a>)</p></td>
-<td><p>2회 (<a href="../Page/FA컵_2016.md" title="wikilink">2016</a>)</p></td>
-<td><p>2회 (<a href="../Page/FA컵_1999.md" title="wikilink">1999</a>)</p></td>
+<td><p>2회 (<a href="../Page/FA컵_1998.md" title="wikilink">1998</a>, <a href="../Page/FA컵_2015.md" title="wikilink">2015</a>)</p></td>
+<td><p>2회 (<a href="../Page/FA컵_2014.md" title="wikilink">2014</a>, <a href="../Page/FA컵_2016.md" title="wikilink">2016</a>)</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/부산_아이파크.md" title="wikilink">부산 아이파크</a></p></td>
 <td><p>1회 (<a href="../Page/FA컵_2004.md" title="wikilink">2004</a>)</p></td>
-<td><p>2회 (<a href="../Page/FA컵_2017.md" title="wikilink">2017</a>)</p></td>
-<td><p>2회 (<a href="../Page/FA컵_2013.md" title="wikilink">2013</a>)</p></td>
+<td><p>2회 (<a href="../Page/FA컵_2010.md" title="wikilink">2010</a>), (<a href="../Page/FA컵_2017.md" title="wikilink">2017</a>)</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/대전_시티즌" title="wikilink">대전 시티즌</a></p></td>
-<td><p>1회 (<a href="../Page/FA컵_2001.md" title="wikilink">2001</a>)</p></td>
-<td><p>0회</p></td>
-<td><p>3회 (<a href="../Page/FA컵_2009.md" title="wikilink">2009</a>)</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/울산_현대" title="wikilink">울산 현대</a></p></td>
+<td><p>1회 (<a href="../Page/FA컵_2017.md" title="wikilink">2017</a>)</p></td>
+<td><p>2회 (<a href="../Page/FA컵_1998.md" title="wikilink">1998</a>), (<a href="../Page/FA컵_2018.md" title="wikilink">2018</a>)</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/울산_현대_축구단.md" title="wikilink">울산 현대</a></p></td>
-<td><p>1회 (<a href="../Page/FA컵_2017.md" title="wikilink">2017</a>)</p></td>
-<td><p>2회 (<a href="../Page/FA컵_2018.md" title="wikilink">2018</a>)</p></td>
-<td><p>9회 (<a href="../Page/FA컵_2016.md" title="wikilink">2016</a>)</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/대전_하나_시티즌" title="wikilink">대전 하나 시티즌</a></p></td>
+<td><p>1회 (<a href="../Page/FA컵_2001.md" title="wikilink">2001</a>)</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/대구_FC.md" title="wikilink">대구 FC</a></p></td>
 <td><p>1회 (<a href="../Page/FA컵_2018.md" title="wikilink">2018</a>)</p></td>
-<td><p>0회</p></td>
-<td><p>1회 (<a href="../Page/FA컵_2008.md" title="wikilink">2008</a>)</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/경남_FC.md" title="wikilink">경남 FC</a></p></td>
-<td><p>0회</p></td>
-<td><p>2회 (<a href="../Page/FA컵_2012.md" title="wikilink">2012</a>)</p></td>
-<td><p>0회</p></td>
+<td></td>
+<td><p>2회 (<a href="../Page/FA컵_2008.md" title="wikilink">2008</a>, <a href="../Page/FA컵_2012.md" title="wikilink">2012</a>)</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/제주_유나이티드_FC.md" title="wikilink">제주 유나이티드</a></p></td>
-<td><p>0회</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/제주_유나이티드" title="wikilink">제주 유나이티드</a></p></td>
+<td></td>
 <td><p>1회 (<a href="../Page/FA컵_2004.md" title="wikilink">2004</a>)</p></td>
-<td><p>7회 (<a href="../Page/FA컵_2013.md" title="wikilink">2013</a>)</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/울산_현대미포조선_돌고래_FC" title="wikilink">울산 현대미포조선 돌고래</a></p></td>
-<td><p>0회</p></td>
+<td><p><a href="../Page/울산_현대미포조선_돌고래.md" title="wikilink">울산 현대미포조선 돌고래</a></p></td>
+<td></td>
 <td><p>1회 (<a href="../Page/FA컵_2005.md" title="wikilink">2005</a>)</p></td>
-<td><p>0회</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/인천_유나이티드_FC.md" title="wikilink">인천 유나이티드</a></p></td>
-<td><p>0회</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/인천_유나이티드" title="wikilink">인천 유나이티드</a></p></td>
+<td></td>
 <td><p>1회 (<a href="../Page/FA컵_2015.md" title="wikilink">2015</a>)</p></td>
-<td><p>2회 (<a href="../Page/FA컵_2007.md" title="wikilink">2007</a>)</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/대전_코레일_축구단" title="wikilink">대전 코레일</a></p></td>
-<td><p>0회</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/대전_한국철도" title="wikilink">대전 한국철도</a></p></td>
+<td></td>
 <td><p>1회 (<a href="../Page/FA컵_2019.md" title="wikilink">2019</a>)</p></td>
-<td><p>1회 (<a href="../Page/FA컵_2005.md" title="wikilink">2005</a>)</p></td>
-</tr>
-<tr class="even">
-<td><p><a href="../Page/고양_KB국민은행_축구단.md" title="wikilink">고양 KB국민은행</a></p></td>
-<td><p>0회</p></td>
-<td><p>0회</p></td>
-<td><p>2회 (<a href="../Page/FA컵_2008.md" title="wikilink">2008</a>)</p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="../Page/상주_상무_축구단.md" title="wikilink">상주 상무</a></p></td>
-<td><p>0회</p></td>
-<td><p>0회</p></td>
-<td><p>1회 (<a href="../Page/FA컵_2014.md" title="wikilink">2014</a>)</p></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/부천_FC_1995" title="wikilink">부천 FC</a></p></td>
-<td><p>0회</p></td>
-<td><p>0회</p></td>
-<td><p>1회 (<a href="../Page/FA컵_2016.md" title="wikilink">2016</a>)</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 </tbody>
 </table>
-<table>
-<thead>
-<tr class="header">
-<th><p>구단</p></th>
-<th><p>우승 횟수</p></th>
-<th><p>우승 시즌</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td></td>
-<td><p><strong><a href="../Page/포항_스틸러스.md" title="wikilink"><span style="color:#D1D1D1;">포항 스틸러스</span></a></strong></p></td>
-<td><p><strong>우승</strong><a href="https://ko.wikipedia.org/wiki/파일:Korean_FA_Cup_Trophy.png" title="wikilink">20x20픽셀</a> 4회</p></td>
-</tr>
-<tr class="even">
-<td><p><strong>준우승</strong> 3회</p></td>
-<td><p><a href="../Page/FA컵_2001.md" title="wikilink">2001</a>, <a href="../Page/FA컵_2002.md" title="wikilink">2002</a>, <a href="../Page/FA컵_2007.md" title="wikilink">2007</a></p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>3위</strong> 3회</p></td>
-<td><p><a href="../Page/FA컵_1997.md" title="wikilink">1997</a>, <a href="../Page/FA컵_1998.md" title="wikilink">1998</a>, <a href="../Page/FA컵_2011.md" title="wikilink">2011</a></p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td><p><strong><a href="../Page/수원_삼성_블루윙즈.md" title="wikilink"><span style="color:#FFFFFF;">수원 삼성 블루윙즈</span></a></strong></p></td>
-<td><p><strong>우승</strong><a href="https://ko.wikipedia.org/wiki/파일:Korean_FA_Cup_Trophy.png" title="wikilink">20x20픽셀</a> 4회</p></td>
-</tr>
-<tr class="odd">
-<td><p><strong>준우승</strong> 3회</p></td>
-<td><p><a href="../Page/FA컵_1996.md" title="wikilink">1996</a>, <a href="../Page/FA컵_2006.md" title="wikilink">2006</a>, <a href="../Page/FA컵_2011.md" title="wikilink">2011</a></p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><strong>3위</strong> 1회</p></td>
-<td><p><a href="../Page/FA컵_2017.md" title="wikilink">2017</a></p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/성남_FC" title="wikilink"><span style="color:#FFFFFF;">성남 FC</span></a></strong></p></td>
-<td><p><strong>우승</strong><a href="https://ko.wikipedia.org/wiki/파일:Korean_FA_Cup_Trophy.png" title="wikilink">20x20픽셀</a> 3회</p></td>
-</tr>
-<tr class="even">
-<td><p><strong>준우승</strong> 3회</p></td>
-<td><p><a href="../Page/FA컵_1997.md" title="wikilink">1997</a>, <a href="../Page/FA컵_2000.md" title="wikilink">2000</a>, <a href="../Page/FA컵_2009.md" title="wikilink">2009</a></p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>3위</strong> 1회</p></td>
-<td><p><a href="../Page/FA컵_2002.md" title="wikilink">2002</a></p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td><p><strong><a href="../Page/전북_현대_모터스.md" title="wikilink"><span style="color:#FFFFFF;">전북 현대 모터스</span></a></strong></p></td>
-<td><p><strong>우승</strong><a href="https://ko.wikipedia.org/wiki/파일:Korean_FA_Cup_Trophy.png" title="wikilink">20x20픽셀</a> 3회</p></td>
-</tr>
-<tr class="odd">
-<td><p><strong>준우승</strong> 2회</p></td>
-<td><p><a href="../Page/FA컵_1999.md" title="wikilink">1999</a>, <a href="../Page/FA컵_2013.md" title="wikilink">2013</a></p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><strong>3위</strong> 3회</p></td>
-<td><p><a href="../Page/FA컵_2001.md" title="wikilink">2001</a>, <a href="../Page/FA컵_2009.md" title="wikilink">2009</a>, <a href="../Page/FA컵_2014.md" title="wikilink">2014</a></p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td><p><strong><a href="../Page/전남_드래곤즈.md" title="wikilink"><span style="color:#000000;">전남 드래곤즈</span></a></strong></p></td>
-<td><p><strong>우승</strong><a href="https://ko.wikipedia.org/wiki/파일:Korean_FA_Cup_Trophy.png" title="wikilink">20x20픽셀</a> 3회</p></td>
-</tr>
-<tr class="even">
-<td><p><strong>준우승</strong> 1회</p></td>
-<td><p><a href="../Page/FA컵_2003.md" title="wikilink">2003</a></p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>3위</strong> 4회</p></td>
-<td><p><a href="../Page/FA컵_1998.md" title="wikilink">1998</a>, <a href="../Page/FA컵_2005.md" title="wikilink">2005</a>, <a href="../Page/FA컵_2010.md" title="wikilink">2010</a>, <a href="../Page/FA컵_2015.md" title="wikilink">2015</a></p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/FC_서울" title="wikilink"><span style="color:#000000;">FC 서울</span></a></strong></p></td>
-<td><p><strong>우승</strong><a href="https://ko.wikipedia.org/wiki/파일:Korean_FA_Cup_Trophy.png" title="wikilink">20x20픽셀</a> 2회</p></td>
-</tr>
-<tr class="odd">
-<td><p><strong>준우승</strong> 2회</p></td>
-<td><p><a href="../Page/FA컵_2014.md" title="wikilink">2014</a>, <a href="../Page/FA컵_2016.md" title="wikilink">2016</a></p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><strong>3위</strong> 2회</p></td>
-<td><p><a href="../Page/FA컵_1997.md" title="wikilink">1997</a>, <a href="../Page/FA컵_1999.md" title="wikilink">1999</a></p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td><p><strong><a href="../Page/울산_현대_축구단.md" title="wikilink"><span style="color:#FFFFFF;">울산 현대</span></a></strong><br />
-</p></td>
-<td><p><strong>우승</strong><a href="https://ko.wikipedia.org/wiki/파일:Korean_FA_Cup_Trophy.png" title="wikilink">20x20픽셀</a> 1회</p></td>
-</tr>
-<tr class="even">
-<td><p><strong>준우승</strong> 2회</p></td>
-<td><p><a href="../Page/FA컵_1998.md" title="wikilink">1998</a>, <a href="../Page/FA컵_2018.md" title="wikilink">2018</a></p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>3위</strong> 9회</p></td>
-<td><p><a href="../Page/FA컵_1996.md" title="wikilink">1996</a>, <a href="../Page/FA컵_1999.md" title="wikilink">1999</a>, <a href="../Page/FA컵_2001.md" title="wikilink">2001</a>, <a href="../Page/FA컵_2003.md" title="wikilink">2003</a>, <a href="../Page/FA컵_2004.md" title="wikilink">2004</a>  <a href="../Page/FA컵_2011.md" title="wikilink">2011</a>, <a href="../Page/FA컵_2012.md" title="wikilink">2012</a>, <a href="../Page/FA컵_2015.md" title="wikilink">2015</a>, <a href="../Page/FA컵_2016.md" title="wikilink">2016</a></p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td><p><strong><a href="../Page/부산_아이파크.md" title="wikilink"><span style="color:#FFFFFF;">부산 아이파크</span></a></strong></p></td>
-<td><p><strong>우승</strong><a href="https://ko.wikipedia.org/wiki/파일:Korean_FA_Cup_Trophy.png" title="wikilink">20x20픽셀</a> 1회</p></td>
-</tr>
-<tr class="odd">
-<td><p><strong>준우승</strong> 2회</p></td>
-<td><p><a href="../Page/FA컵_2010.md" title="wikilink">2010</a>, <a href="../Page/FA컵_2017.md" title="wikilink">2017</a></p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><strong>3위</strong> 2회</p></td>
-<td><p><a href="../Page/FA컵_2000.md" title="wikilink">2000</a>, <a href="../Page/FA컵_2013.md" title="wikilink">2013</a></p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/대전_시티즌" title="wikilink"><span style="color:#FFD90F;">대전 시티즌</span></a></strong></p></td>
-<td><p><strong>우승</strong><a href="https://ko.wikipedia.org/wiki/파일:Korean_FA_Cup_Trophy.png" title="wikilink">20x20픽셀</a> 1회</p></td>
-</tr>
-<tr class="even">
-<td><p><strong>준우승</strong> 0회</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>3위</strong> 3회</p></td>
-<td><p><a href="../Page/FA컵_2002.md" title="wikilink">2002</a>, <a href="../Page/FA컵_2004.md" title="wikilink">2004</a>, <a href="../Page/FA컵_2009.md" title="wikilink">2009</a></p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td><p><strong><a href="../Page/대구_FC.md" title="wikilink"><span style="color:#CEC261;">대구</span></a></strong></p></td>
-<td><p><strong>우승</strong><a href="https://ko.wikipedia.org/wiki/파일:Korean_FA_Cup_Trophy.png" title="wikilink">20x20픽셀</a> 1회</p></td>
-</tr>
-<tr class="odd">
-<td><p><strong>준우승</strong> 0회</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><strong>3위</strong> 1회</p></td>
-<td><p><a href="../Page/FA컵_2008.md" title="wikilink">2008</a></p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td><p><strong><a href="../Page/경남_FC.md" title="wikilink"><span style="color:#F2C91F;">경남</span></a></strong></p></td>
-<td><p><strong>우승</strong><a href="https://ko.wikipedia.org/wiki/파일:Korean_FA_Cup_Trophy.png" title="wikilink">20x20픽셀</a> 0회</p></td>
-</tr>
-<tr class="even">
-<td><p><strong>준우승</strong> 2회</p></td>
-<td><p><a href="../Page/FA컵_2008.md" title="wikilink">2008</a>, <a href="../Page/FA컵_2012.md" title="wikilink">2012</a></p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>3위</strong> 0회</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td><p><strong><a href="../Page/제주_유나이티드_FC.md" title="wikilink"><span style="color:#FFFFFF;">제주 유나이티드</span></a></strong><br />
-</p></td>
-<td><p><strong>우승</strong><a href="https://ko.wikipedia.org/wiki/파일:Korean_FA_Cup_Trophy.png" title="wikilink">20x20픽셀</a> 0회</p></td>
-</tr>
-<tr class="odd">
-<td><p><strong>준우승</strong> 1회</p></td>
-<td><p><a href="../Page/FA컵_2004.md" title="wikilink">2004</a></p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><strong>3위</strong> 7회</p></td>
-<td><p><a href="../Page/FA컵_1996.md" title="wikilink">1996</a>, <a href="../Page/FA컵_2000.md" title="wikilink">2000</a>, <a href="../Page/FA컵_2003.md" title="wikilink">2003</a>, <a href="../Page/FA컵_2007.md" title="wikilink">2007</a>, <a href="../Page/FA컵_2010.md" title="wikilink">2010</a>  <a href="../Page/FA컵_2012.md" title="wikilink">2012</a>, <a href="../Page/FA컵_2013.md" title="wikilink">2013</a></p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/울산_현대미포조선_돌고래_FC" title="wikilink"><span style="color:#FFFFFF;">울산 현대미포조선<br />
-돌고래</span></a></strong><br />
-<small><span style="color:#FFFFFF;">(1998 ~ 2016)</span></small></p></td>
-<td><p><strong>우승</strong><a href="https://ko.wikipedia.org/wiki/파일:Korean_FA_Cup_Trophy.png" title="wikilink">20x20픽셀</a> 0회</p></td>
-</tr>
-<tr class="even">
-<td><p><strong>준우승</strong> 1회</p></td>
-<td><p><a href="../Page/FA컵_2005.md" title="wikilink">2005</a></p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>3위</strong> 0회</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td><p><strong><a href="../Page/인천_유나이티드_FC.md" title="wikilink"><span style="color:#000000;">인천 유나이티드</span></a></strong></p></td>
-<td><p><strong>우승</strong><a href="https://ko.wikipedia.org/wiki/파일:Korean_FA_Cup_Trophy.png" title="wikilink">20x20픽셀</a> 0회</p></td>
-</tr>
-<tr class="odd">
-<td><p><strong>준우승</strong> 1회</p></td>
-<td><p><a href="../Page/FA컵_2015.md" title="wikilink">2015</a></p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><strong>3위</strong> 2회</p></td>
-<td><p><a href="../Page/FA컵_2006.md" title="wikilink">2006</a>, <a href="../Page/FA컵_2007.md" title="wikilink">2007</a></p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/대전_코레일_축구단" title="wikilink"><span style="color:#FFFFFF;">대전 코레일</span></a></strong></p></td>
-<td><p><strong>우승</strong><a href="https://ko.wikipedia.org/wiki/파일:Korean_FA_Cup_Trophy.png" title="wikilink">20x20픽셀</a> 0회</p></td>
-</tr>
-<tr class="even">
-<td><p><strong>준우승</strong> 1회</p></td>
-<td><p><a href="../Page/FA컵_2019.md" title="wikilink">2019</a></p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>3위</strong> 1회</p></td>
-<td><p><a href="../Page/FA컵_2005.md" title="wikilink">2005</a></p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><strong><a href="../Page/고양_KB국민은행_축구단.md" title="wikilink"><span style="color:#7C7366;">고양 KB국민은행</span></a></strong><br />
-<small><span style="color:#7C7366;">(1969 ~ 2012)</span></small></p></td>
-<td><p><strong>우승</strong><a href="https://ko.wikipedia.org/wiki/파일:Korean_FA_Cup_Trophy.png" title="wikilink">20x20픽셀</a> 0회</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>준우승</strong> 0회</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><strong>3위</strong> 2회</p></td>
-<td><p><a href="../Page/FA컵_2006.md" title="wikilink">2006</a>, <a href="../Page/FA컵_2008.md" title="wikilink">2008</a></p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td><p><strong><a href="../Page/상주_상무_축구단.md" title="wikilink"><span style="color:#FFFFFF;">상주 상무</span></a></strong></p></td>
-<td><p><strong>우승</strong><a href="https://ko.wikipedia.org/wiki/파일:Korean_FA_Cup_Trophy.png" title="wikilink">20x20픽셀</a> 0회</p></td>
-</tr>
-<tr class="even">
-<td><p><strong>준우승</strong> 0회</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>3위</strong> 1회</p></td>
-<td><p><a href="../Page/FA컵_2014.md" title="wikilink">2014</a></p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/부천_FC_1995" title="wikilink"><span style="color:#000000;">부천 1995</span></a></strong></p></td>
-<td><p><strong>우승</strong><a href="https://ko.wikipedia.org/wiki/파일:Korean_FA_Cup_Trophy.png" title="wikilink">20x20픽셀</a> 0회</p></td>
-</tr>
-<tr class="odd">
-<td><p><strong>준우승</strong> 0회</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><strong>3위</strong> 1회</p></td>
-<td><p><a href="../Page/FA컵_2016.md" title="wikilink">2016</a></p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table></td>
-</tr>
-</tbody>
-</table>
-
-#### 연고지별 우승 횟수
-
-<table>
-<thead>
-<tr class="header">
-<th><p><a href="../Page/K리그_연고지.md" title="wikilink">연고지</a></p></th>
-<th><p>횟수</p></th>
-<th><p>구단</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><div style="text-align: center;">
-<p><a href="https://ko.wikipedia.org/wiki/수원시" title="wikilink">수원</a></p>
-</div></td>
-<td><div style="text-align: center;">
-<p>5</p>
-</div></td>
-<td><p><a href="../Page/수원_삼성_블루윙즈.md" title="wikilink">수원 삼성 블루윙즈</a> (<a href="../Page/FA컵_2002.md" title="wikilink">2002</a>, <a href="../Page/FA컵_2009.md" title="wikilink">2009</a>, <a href="../Page/FA컵_2010.md" title="wikilink">2010</a>, <a href="../Page/FA컵_2016.md" title="wikilink">2016</a>, <a href="../Page/FA컵_2019.md" title="wikilink">2019</a>)</p></td>
-</tr>
-<tr class="even">
-<td><div style="text-align: center;">
-<p><a href="https://ko.wikipedia.org/wiki/포항시" title="wikilink">포항</a></p>
-</div></td>
-<td><div style="text-align: center;">
-<p>4</p>
-</div></td>
-<td><p><a href="../Page/포항_스틸러스.md" title="wikilink">포항 스틸러스</a> (<a href="../Page/FA컵_1996.md" title="wikilink">1996</a><small><sup>1</sup></small>, <a href="../Page/FA컵_2008.md" title="wikilink">2008</a>, <a href="../Page/FA컵_2008.md" title="wikilink">2012</a>, <a href="../Page/FA컵_2013.md" title="wikilink">2013</a>)</p></td>
-</tr>
-<tr class="odd">
-<td><div style="text-align: center;">
-<p><a href="https://ko.wikipedia.org/wiki/전라북도" title="wikilink">전북</a></p>
-</div></td>
-<td><div style="text-align: center;">
-<p>3</p>
-</div></td>
-<td><p><a href="../Page/전북_현대_모터스.md" title="wikilink">전북 현대 모터스</a> (<a href="../Page/FA컵_2000.md" title="wikilink">2000</a>, <a href="../Page/FA컵_2003.md" title="wikilink">2003</a>, <a href="../Page/FA컵_2005.md" title="wikilink">2005</a>)</p></td>
-</tr>
-<tr class="even">
-<td><div style="text-align: center;">
-<p><a href="https://ko.wikipedia.org/wiki/전라남도" title="wikilink">전남</a></p>
-</div></td>
-<td><div style="text-align: center;">
-<p>3</p>
-</div></td>
-<td><p><a href="../Page/전남_드래곤즈.md" title="wikilink">전남 드래곤즈</a> (<a href="../Page/FA컵_1997.md" title="wikilink">1997</a>, <a href="../Page/FA컵_2006.md" title="wikilink">2006</a>, <a href="../Page/FA컵_2007.md" title="wikilink">2007</a>)</p></td>
-</tr>
-<tr class="odd">
-<td><div style="text-align: center;">
-<p><a href="../Page/성남시.md" title="wikilink">성남</a></p>
-</div></td>
-<td><div style="text-align: center;">
-<p>2</p>
-</div></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/성남_FC" title="wikilink">성남 FC</a> (<a href="../Page/FA컵_2011.md" title="wikilink">2011</a><small><sup>2</sup></small>, <a href="../Page/FA컵_2014.md" title="wikilink">2014</a>)</p></td>
-</tr>
-<tr class="even">
-<td><div style="text-align: center;">
-<p><a href="../Page/안양시.md" title="wikilink">안양</a></p>
-</div></td>
-<td><div style="text-align: center;">
-<p>1</p>
-</div></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/FC_서울" title="wikilink">안양 LG 치타스</a> (<a href="../Page/FA컵_1998.md" title="wikilink">1998</a>)</p></td>
-</tr>
-<tr class="odd">
-<td><div style="text-align: center;">
-<p><a href="../Page/천안시.md" title="wikilink">천안</a></p>
-</div></td>
-<td><div style="text-align: center;">
-<p>1</p>
-</div></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/성남_FC" title="wikilink">천안 일화 천마</a> (<a href="../Page/FA컵_1999.md" title="wikilink">1999</a>)</p></td>
-</tr>
-<tr class="even">
-<td><div style="text-align: center;">
-<p><a href="https://ko.wikipedia.org/wiki/대전광역시" title="wikilink">대전</a></p>
-</div></td>
-<td><div style="text-align: center;">
-<p>1</p>
-</div></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/대전_시티즌" title="wikilink">대전 시티즌</a> (<a href="../Page/FA컵_2001.md" title="wikilink">2001</a>)</p></td>
-</tr>
-<tr class="odd">
-<td><div style="text-align: center;">
-<p><a href="https://ko.wikipedia.org/wiki/부산광역시" title="wikilink">부산</a></p>
-</div></td>
-<td><div style="text-align: center;">
-<p>1</p>
-</div></td>
-<td><p><a href="../Page/부산_아이파크.md" title="wikilink">부산 아이콘스</a> (<a href="../Page/FA컵_2004.md" title="wikilink">2004</a>)</p></td>
-</tr>
-<tr class="even">
-<td><div style="text-align: center;">
-<p><a href="../Page/서울특별시.md" title="wikilink">서울</a></p>
-</div></td>
-<td><div style="text-align: center;">
-<p>1</p>
-</div></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/FC_서울" title="wikilink">FC 서울</a> (<a href="../Page/FA컵_2015.md" title="wikilink">2015</a>)</p></td>
-</tr>
-<tr class="odd">
-<td><div style="text-align: center;">
-<p><a href="https://ko.wikipedia.org/wiki/울산광역시" title="wikilink">울산</a></p>
-</div></td>
-<td><div style="text-align: center;">
-<p>1</p>
-</div></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/울산_현대" title="wikilink">울산 현대</a> (<a href="../Page/FA컵_2017.md" title="wikilink">2017</a>)</p></td>
-</tr>
-<tr class="even">
-<td><div style="text-align: center;">
-<p><a href="../Page/대구광역시.md" title="wikilink">대구</a></p>
-</div></td>
-<td><div style="text-align: center;">
-<p>1</p>
-</div></td>
-<td><p><a href="../Page/대구_FC.md" title="wikilink">대구 FC</a> (<a href="../Page/FA컵_2018.md" title="wikilink">2018</a>)</p></td>
-</tr>
-</tbody>
-</table>
-
-1.  당시 구단 명칭: 포항 아톰즈
-2.  당시 구단 명칭: 성남 일화 천마
-
-#### 지역별 우승 횟수
-
-<table>
-<thead>
-<tr class="header">
-<th><p>지역</p></th>
-<th><p>횟수</p></th>
-<th><p><a href="../Page/K리그_연고지.md" title="wikilink">연고지</a></p></th>
-<th><p>구단</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/경기_지방" title="wikilink">수도권</a></p></td>
-<td><center>
-<p>9</p></td>
-<td><p>(5) <a href="https://ko.wikipedia.org/wiki/수원" title="wikilink">수원</a></p></td>
-<td><p><a href="../Page/수원_삼성_블루윙즈.md" title="wikilink">수원 삼성 블루윙즈</a> (<a href="../Page/FA컵_2002.md" title="wikilink">2002</a>, <a href="../Page/FA컵_2009.md" title="wikilink">2009</a>, <a href="../Page/FA컵_2010.md" title="wikilink">2010</a>, <a href="../Page/FA컵_2016.md" title="wikilink">2016</a>, <a href="../Page/FA컵_2019.md" title="wikilink">2019</a>)</p></td>
-</tr>
-<tr class="even">
-<td><p>(2) <a href="https://ko.wikipedia.org/wiki/성남" title="wikilink">성남</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/성남_FC" title="wikilink">성남 FC</a> (<a href="../Page/FA컵_2011.md" title="wikilink">2011</a><small><sup>1</sup></small>, <a href="../Page/FA컵_2014.md" title="wikilink">2014</a>)</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>(1) <a href="https://ko.wikipedia.org/wiki/안양" title="wikilink">안양</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/FC_서울" title="wikilink">안양 LG 치타스</a> (<a href="../Page/FA컵_1998.md" title="wikilink">1998</a>)</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>(1) <a href="https://ko.wikipedia.org/wiki/서울" title="wikilink">서울</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/FC_서울" title="wikilink">FC 서울</a> (<a href="../Page/FA컵_2015.md" title="wikilink">2015</a>)</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/호남_지방" title="wikilink">전라권</a></p></td>
-<td><center>
-<p>6</p></td>
-<td><p>(3) <a href="https://ko.wikipedia.org/wiki/전남" title="wikilink">전남</a><br />
-</p></td>
-<td><p><a href="../Page/전남_드래곤즈.md" title="wikilink">전남 드래곤즈</a> (<a href="../Page/FA컵_1997.md" title="wikilink">1997</a>, <a href="../Page/FA컵_2006.md" title="wikilink">2006</a>, <a href="../Page/FA컵_2007.md" title="wikilink">2007</a>)</p></td>
-</tr>
-<tr class="even">
-<td><p>(3) <a href="https://ko.wikipedia.org/wiki/전북" title="wikilink">전북</a></p></td>
-<td><p><a href="../Page/전북_현대_모터스.md" title="wikilink">전북 현대 모터스</a> (<a href="../Page/FA컵_2000.md" title="wikilink">2000</a>, <a href="../Page/FA컵_2003.md" title="wikilink">2003</a>, <a href="../Page/FA컵_2005.md" title="wikilink">2005</a>)</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/영남_지방" title="wikilink">경상권</a></p></td>
-<td><center>
-<p>7</p></td>
-<td><p>(4) <a href="https://ko.wikipedia.org/wiki/포항" title="wikilink">포항</a></p></td>
-<td><p><a href="../Page/포항_스틸러스.md" title="wikilink">포항 스틸러스</a> (<a href="../Page/FA컵_1996.md" title="wikilink">1996</a><small><sup>2</sup></small>, <a href="../Page/FA컵_2008.md" title="wikilink">2008</a>, <a href="../Page/FA컵_2008.md" title="wikilink">2012</a>, <a href="../Page/FA컵_2013.md" title="wikilink">2013</a>)</p></td>
-</tr>
-<tr class="even">
-<td><p>(1) <a href="https://ko.wikipedia.org/wiki/부산" title="wikilink">부산</a></p></td>
-<td><p><a href="../Page/부산_아이파크.md" title="wikilink">부산 아이콘스</a> (<a href="../Page/FA컵_2004.md" title="wikilink">2004</a>)</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>(1) <a href="https://ko.wikipedia.org/wiki/울산" title="wikilink">울산</a></p></td>
-<td><p><a href="../Page/울산_현대_축구단.md" title="wikilink">울산 현대</a> (<a href="../Page/FA컵_2017.md" title="wikilink">2017</a>)</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>(1) <a href="https://ko.wikipedia.org/wiki/대구" title="wikilink">대구</a></p></td>
-<td><p><a href="../Page/대구_FC.md" title="wikilink">대구 FC</a> (<a href="../Page/FA컵_2018.md" title="wikilink">2018</a>)</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/호서_지방" title="wikilink">충청권</a></p></td>
-<td><center>
-<p>2</p></td>
-<td><p>(1) <a href="https://ko.wikipedia.org/wiki/천안" title="wikilink">천안</a><br />
-</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/성남_FC" title="wikilink">천안 일화 천마</a> (<a href="../Page/FA컵_1999.md" title="wikilink">1999</a>)</p></td>
-</tr>
-<tr class="even">
-<td><p>(1) <a href="https://ko.wikipedia.org/wiki/대전" title="wikilink">대전</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/대전_시티즌" title="wikilink">대전 시티즌</a> (<a href="../Page/FA컵_2001.md" title="wikilink">2001</a>)</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/관동_지방" title="wikilink">강원권</a></p></td>
-<td><center>
-<p>0</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/제주특별자치도" title="wikilink">제주권</a></p></td>
-<td><center>
-<p>0</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
-
-1.  당시 구단 명칭: 포항 아톰즈
-2.  당시 구단 명칭: 성남 일화 천마
 
 ## 관련 항목
 
-  - [대한민국 FA컵](https://ko.wikipedia.org/wiki/FA컵_\(대한민국\) "wikilink")
+  - [대한민국 FA컵](../Page/FA컵_\(대한민국\).md "wikilink")
   - [대한민국 FA컵 최우수선수상 (MVP)](https://ko.wikipedia.org/wiki/대한민국_FA컵_최우수선수상_\(MVP\) "wikilink")
   - [대한민국 FA컵 득점상](https://ko.wikipedia.org/wiki/대한민국_FA컵_득점상 "wikilink")
   - [K리그](../Page/K리그.md "wikilink")
   - [K리그 컵](https://ko.wikipedia.org/wiki/K리그_컵 "wikilink")
   - [내셔널리그](https://ko.wikipedia.org/wiki/대한민국_내셔널리그 "wikilink")
-  - [K3리그](https://ko.wikipedia.org/wiki/K3리그 "wikilink")
+  - [K3리그](../Page/K3리그.md "wikilink")
   - [슈퍼컵](https://ko.wikipedia.org/wiki/대한민국_슈퍼컵 "wikilink")
   - [전조선축구대회](../Page/전조선축구대회.md "wikilink")
   - [전국축구선수권대회](../Page/전국축구선수권대회.md "wikilink")

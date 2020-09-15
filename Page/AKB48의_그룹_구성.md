@@ -9,7 +9,7 @@
 
 <!-- end list -->
 
-  - 〈조각〉 란의 2는 [2012년](../Page/2012년.md "wikilink") [8월 24일의](../Page/8월_24일.md "wikilink") 〈AKB48 in TOKYO DOME \~1830m의 꿈\~〉에서 발표된 그랜드 셔플 이전의 소속팀을 의미한다. 마츠이 쥬리나와 와타나베 미유키는 2차 조각 이전에도 각각 AKB48 팀K, 팀B에 소속되어 있었지만, 이들의 원소속팀은 각각 SKE48 팀S, NMB48 팀N이므로, 2차 조각 란에 소속팀을 표기하지 않고 〈해당사항 없음〉으로 표기한다. 이후, [2013년](../Page/2013년.md "wikilink") [8월 24일의](../Page/8월_24일.md "wikilink") 〈AKB48 2013 한여름의 돔 투어 \~아직도, 하지 않으면 안되는 것이있다\~〉 3일째 공연에서 먼저 승격한 [오오시마 료카](../Page/오오시마_료카.md "wikilink")(당시 팀A 배속)를 제외하고 당시 연구생이던 13기생 9명과 14기생 전원 및 연구생으로 강등했던 1기생인 [미네기시 미나미](../Page/미네기시_미나미.md "wikilink") 등 16명의 승격이 발표되면서 그 소속 업체로서 팀4가 재결성되었다. 캡틴은 미네기시가 취임.
+  - 〈조각〉 란의 2는 [2012년](../Page/2012년.md "wikilink") [8월 24일의](../Page/8월_24일.md "wikilink") 〈AKB48 in TOKYO DOME \~1830m의 꿈\~〉에서 발표된 그랜드 셔플 이전의 소속팀을 의미한다. [마츠이 쥬리나와](../Page/마츠이_쥬리나.md "wikilink") [와타나베 미유키는](../Page/와타나베_미유키.md "wikilink") 2차 조각 이전에도 각각 AKB48 팀K, 팀B에 소속되어 있었지만, 이들의 원소속팀은 각각 SKE48 팀S, NMB48 팀N이므로, 2차 조각 란에 소속팀을 표기하지 않고 〈해당사항 없음〉으로 표기한다. 이후, [2013년](../Page/2013년.md "wikilink") [8월 24일의](../Page/8월_24일.md "wikilink") 〈AKB48 2013 한여름의 돔 투어 \~아직도, 하지 않으면 안되는 것이있다\~〉 3일째 공연에서 먼저 승격한 [오오시마 료카](../Page/오오시마_료카.md "wikilink")(당시 팀A 배속)를 제외하고 당시 연구생이던 13기생 9명과 14기생 전원 및 연구생으로 강등했던 1기생인 [미네기시 미나미](../Page/미네기시_미나미.md "wikilink") 등 16명의 승격이 발표되면서 그 소속 업체로서 팀4가 재결성되었다. 캡틴은 미네기시가 취임.
 
 <!-- end list -->
 
@@ -73,7 +73,8 @@
 <td></td>
 <td><p>4</p></td>
 <td><p>A</p></td>
-<td><p>2018년 4월부터 <a href="../Page/멕시코.md" title="wikilink">멕시코</a> 유학 중</p></td>
+<td><p>2018년 4월부터 <a href="../Page/멕시코.md" title="wikilink">멕시코</a> 유학 중<br />
+최연장자</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/카토_레나.md" title="wikilink">카토 레나</a></p></td>
@@ -109,10 +110,10 @@
 <td></td>
 <td><p>4</p></td>
 <td><p>K</p></td>
-<td><p>-</p></td>
+<td><p>최연장자</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/스즈키_쿠루미" title="wikilink">스즈키 쿠루미</a></p></td>
+<td><p>스즈키 쿠루미</p></td>
 <td></td>
 <td></td>
 <td><p>16기</p></td>
@@ -124,7 +125,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/타구치_마나카" title="wikilink">타구치 마나카</a></p></td>
+<td><p>타구치 마나카</p></td>
 <td></td>
 <td></td>
 <td><p>16기</p></td>
@@ -139,8 +140,7 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/치바_에리이" title="wikilink">치바 에리이</a></p></td>
 <td></td>
 <td></td>
-<td><p>드래프트<br />
-2기</p></td>
+<td><p>드래프트2기</p></td>
 <td><p>2017년 9월 27일</p></td>
 <td><p>DH</p></td>
 <td></td>
@@ -152,8 +152,7 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/니시카와_레이" title="wikilink">니시카와 레이</a></p></td>
 <td></td>
 <td></td>
-<td><p>드래프트<br />
-2기</p></td>
+<td><p>드래프트2기</p></td>
 <td><p>2017년 9월 27일</p></td>
 <td><p>DH</p></td>
 <td></td>
@@ -162,7 +161,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/마에다_아야카" title="wikilink">마에다 아야카</a></p></td>
+<td><p>마에다 아야카</p></td>
 <td></td>
 <td></td>
 <td><p>16기</p></td>
@@ -174,7 +173,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/미치에다_사키" title="wikilink">미치에다 사키</a></p></td>
+<td><p>미치에다 사키</p></td>
 <td></td>
 <td></td>
 <td><p>16기</p></td>
@@ -210,7 +209,7 @@
 <td><p>AKB48 그룹 3대 총감독</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/야마네_스즈하" title="wikilink">야마네 스즈하</a></p></td>
+<td><p>야마네 스즈하</p></td>
 <td></td>
 <td></td>
 <td><p>16기</p></td>
@@ -252,7 +251,7 @@
 
 <!-- end list -->
 
-  - **[오카베 린](../Page/오카베_린.md "wikilink")**(팀A 캡틴, 팀8 캡틴), [오구리 유이](../Page/오구리_유이.md "wikilink"), [시타오 미우](../Page/시타오_미우.md "wikilink"), [오쿠모토 히나노](https://ko.wikipedia.org/wiki/오쿠모토_히나노 "wikilink"), [요시다 카렌](https://ko.wikipedia.org/wiki/요시다_카렌 "wikilink")
+  - **[오카베 린](../Page/오카베_린.md "wikilink")**(캡틴/팀8캡틴/최연장자), [오구리 유이](../Page/오구리_유이.md "wikilink"), [시타오 미우](../Page/시타오_미우.md "wikilink"), 오쿠모토 히나노, 요시다 카렌
 
 ### 팀K
 
@@ -311,11 +310,10 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/시모구치_히나나" title="wikilink">시모구치 히나나</a></p></td>
+<td><p>시모구치 히나나</p></td>
 <td></td>
 <td></td>
-<td><p>드래프트<br />
-1기</p></td>
+<td><p>드래프트1기</p></td>
 <td><p>-</p></td>
 <td><p>DH</p></td>
 <td></td>
@@ -324,7 +322,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/나가토모_아야미" title="wikilink">나가토모 아야미</a></p></td>
+<td><p>나가토모 아야미</p></td>
 <td></td>
 <td></td>
 <td><p>16기</p></td>
@@ -336,14 +334,14 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/무토_오린" title="wikilink">무토 오린</a></p></td>
+<td><p>무토 오린</p></td>
 <td></td>
 <td></td>
 <td><p>16기</p></td>
 <td><p>2018년 4월 2일</p></td>
 <td><p>DH</p></td>
 <td></td>
-<td><p>언니는 무토 토무</p></td>
+<td><p>언니는 <a href="../Page/무토_토무.md" title="wikilink">무토 토무</a></p></td>
 <td></td>
 <td><p>55</p></td>
 </tr>
@@ -372,7 +370,7 @@
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/야스다_카나" title="wikilink">야스다 카나</a></p></td>
+<td><p>야스다 카나</p></td>
 <td></td>
 <td></td>
 <td><p>16기</p></td>
@@ -384,7 +382,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/유모토_아미" title="wikilink">유모토 아미</a></p></td>
+<td><p>유모토 아미</p></td>
 <td></td>
 <td></td>
 <td><p>15기</p></td>
@@ -414,7 +412,7 @@
 
 <!-- end list -->
 
-  - [오다 에리나](../Page/오다_에리나.md "wikilink"), [쿠라노오 나루미](../Page/쿠라노오_나루미.md "wikilink"), [하시모토 하루나](https://ko.wikipedia.org/wiki/하시모토_하루나 "wikilink"), [하루모토 유키](https://ko.wikipedia.org/wiki/하루모토_유키 "wikilink"), [히다리토모 아야카](https://ko.wikipedia.org/wiki/히다리토모_아야카 "wikilink"), [야마다 쿄카](https://ko.wikipedia.org/wiki/야마다_쿄카 "wikilink"), [요코야마 유이](https://ko.wikipedia.org/wiki/요코야마_유이_\(2001년\) "wikilink")
+  - [오다 에리나](../Page/오다_에리나.md "wikilink"), [쿠라노오 나루미](../Page/쿠라노오_나루미.md "wikilink"), 하시모토 하루나, 하루모토 유키, 히다리토모 아야카, 야마다 쿄카, 요코야마 유이
 
 ### 팀B
 
@@ -457,15 +455,15 @@
 <td><p>DH</p></td>
 <td></td>
 <td><p>4</p></td>
-<td><p>캡틴</p></td>
+<td><p>캡틴<br />
+최연장자</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/오오타케_히토미" title="wikilink">오오타케 히토미</a></p></td>
 <td></td>
 <td></td>
-<td><p>드래프트<br />
-3기</p></td>
+<td><p>드래프트3기</p></td>
 <td><p>2019년 9월 7일</p></td>
 <td><p>DH</p></td>
 <td></td>
@@ -477,8 +475,7 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/오오모리_마호" title="wikilink">오오모리 마호</a></p></td>
 <td></td>
 <td></td>
-<td><p>드래프트<br />
-3기</p></td>
+<td><p>드래프트3기</p></td>
 <td><p>2018년 12월 8일</p></td>
 <td><p>DH</p></td>
 <td></td>
@@ -527,8 +524,7 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/쿠보_사토네" title="wikilink">쿠보 사토네</a></p></td>
 <td></td>
 <td></td>
-<td><p>드래프트<br />
-2기</p></td>
+<td><p>드래프트2기</p></td>
 <td><p>2017년 9월 27일</p></td>
 <td><p>DH</p></td>
 <td></td>
@@ -552,8 +548,7 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/사이토_하루나" title="wikilink">사이토 하루나</a></p></td>
 <td></td>
 <td></td>
-<td><p>드래프트<br />
-3기</p></td>
+<td><p>드래프트3기</p></td>
 <td><p>2019년 9월 7일</p></td>
 <td><p>DH</p></td>
 <td></td>
@@ -565,13 +560,12 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/다키타_카요코" title="wikilink">다키타 카요코</a></p></td>
 <td></td>
 <td></td>
-<td><p>드래프트<br />
-1기</p></td>
+<td><p>드래프트1기</p></td>
 <td><p>-</p></td>
 <td><p>DH</p></td>
 <td></td>
 <td><p>A</p></td>
-<td><p>-</p></td>
+<td><p>코로나확진자</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -595,7 +589,7 @@
 <td><p>DH</p></td>
 <td></td>
 <td><p>A</p></td>
-<td><p>-</p></td>
+<td><p>최연장자</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -614,8 +608,7 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/야마베_아유" title="wikilink">야마베 아유</a></p></td>
 <td></td>
 <td></td>
-<td><p>드래프트<br />
-2기</p></td>
+<td><p>드래프트2기</p></td>
 <td><p>2017년 9월 27일</p></td>
 <td><p>DH</p></td>
 <td></td>
@@ -642,7 +635,7 @@
 
 <!-- end list -->
 
-  - [오쿠하라 히나노](https://ko.wikipedia.org/wiki/오쿠하라_히나노 "wikilink"), [카와하라 미사키](https://ko.wikipedia.org/wiki/카와하라_미사키 "wikilink"), [사토 아카리](https://ko.wikipedia.org/wiki/사토_아카리 "wikilink"), [시미즈 마리아](https://ko.wikipedia.org/wiki/시미즈_마리아 "wikilink"), [핫토리 유나](https://ko.wikipedia.org/wiki/핫토리_유나 "wikilink"), [야마모토 루카](https://ko.wikipedia.org/wiki/야마모토_루카 "wikilink"), [요시카와 나나세](https://ko.wikipedia.org/wiki/요시카와_나나세 "wikilink")
+  - [오쿠하라 히나노](https://ko.wikipedia.org/wiki/오쿠하라_히나노 "wikilink"), [카와하라 미사키](https://ko.wikipedia.org/wiki/카와하라_미사키 "wikilink"), [사토 아카리](https://ko.wikipedia.org/wiki/사토_아카리 "wikilink")(최연장자/팀8최연장자), [시미즈 마리아](https://ko.wikipedia.org/wiki/시미즈_마리아 "wikilink"), [핫토리 유나](https://ko.wikipedia.org/wiki/핫토리_유나 "wikilink"), [야마모토 루카](https://ko.wikipedia.org/wiki/야마모토_루카 "wikilink"), [요시카와 나나세](https://ko.wikipedia.org/wiki/요시카와_나나세 "wikilink")
 
 ### 팀4
 
@@ -728,8 +721,7 @@
 <td><p><a href="../Page/카와모토_사야.md" title="wikilink">카와모토 사야</a></p></td>
 <td></td>
 <td></td>
-<td><p>드래프트<br />
-1기</p></td>
+<td><p>드래프트1기</p></td>
 <td><p>-</p></td>
 <td><p>DH</p></td>
 <td></td>
@@ -765,8 +757,7 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/타다_쿄카" title="wikilink">타다 쿄카</a></p></td>
 <td></td>
 <td></td>
-<td><p>드래프트<br />
-3기</p></td>
+<td><p>드래프트3기</p></td>
 <td><p>2018년 12월 8일</p></td>
 <td><p>DH</p></td>
 <td></td>
@@ -784,7 +775,7 @@
 <td></td>
 <td><p>A</p></td>
 <td><p>B</p></td>
-<td><p>-</p></td>
+<td><p>코로나확진자</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/마자링.md" title="wikilink">마자링</a></p></td>
@@ -807,7 +798,8 @@
 <td><p>DH</p></td>
 <td></td>
 <td><p>4</p></td>
-<td><p>캡틴, 최연장자</p></td>
+<td><p>캡틴<br />
+최연장자</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -922,9 +914,10 @@
 <td><p>-</p></td>
 <td><p>DH</p></td>
 <td><p>이라바키 현 대표<br />
-팀8 최연장자<br />
-<strong>팀A 캡틴</strong><br />
-<strong>팀8 캡틴</strong></p></td>
+캡틴<br />
+팀A캡틴<br />
+최연장자<br />
+팀A최연장자</p></td>
 <td></td>
 <td><p>58</p></td>
 </tr>
@@ -1053,7 +1046,8 @@
 <td><p>-</p></td>
 <td><p>DH</p></td>
 <td><p>미야기 현 대표<br />
-<strong>팀B</strong></p></td>
+<strong>팀B</strong><br />
+최연장자</p></td>
 <td></td>
 <td><p>118</p></td>
 </tr>
@@ -1364,7 +1358,8 @@
 <td></td>
 <td><p>2018년 4월 29일</p></td>
 <td><p>DH</p></td>
-<td><p>고치 현 대표</p></td>
+<td><p>고치 현 대표<br />
+동생은 릿센 모모카(<a href="../Page/STU48.md" title="wikilink">STU48</a>)</p></td>
 <td></td>
 <td><p>-</p></td>
 </tr>
@@ -1422,8 +1417,7 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/혼다_소라" title="wikilink">혼다 소라</a></p></td>
 <td></td>
 <td></td>
-<td><p>드래프트<br />
-3기</p></td>
+<td><p>드래프트3기</p></td>
 <td><p>DH</p></td>
 <td><p>팀A<br />
 최연장자</p></td>
@@ -1434,8 +1428,7 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/오카다_리나" title="wikilink">오카다 리나</a></p></td>
 <td></td>
 <td></td>
-<td><p>드래프트<br />
-3기</p></td>
+<td><p>드래프트3기</p></td>
 <td><p>DH</p></td>
 <td><p>팀K</p></td>
 <td></td>
@@ -1445,8 +1438,7 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/코바야시_란" title="wikilink">코바야시 란</a></p></td>
 <td></td>
 <td></td>
-<td><p>드래프트<br />
-3기</p></td>
+<td><p>드래프트3기</p></td>
 <td><p>DH</p></td>
 <td><p>팀K</p></td>
 <td></td>
@@ -1456,8 +1448,7 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/스에나가_유즈키" title="wikilink">스에나가 유즈키</a></p></td>
 <td></td>
 <td></td>
-<td><p>드래프트<br />
-3기</p></td>
+<td><p>드래프트3기</p></td>
 <td><p>DH</p></td>
 <td><p>팀K<br />
 최연소</p></td>
@@ -1468,8 +1459,7 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/나가노_메구미" title="wikilink">나가노 메구미</a></p></td>
 <td></td>
 <td></td>
-<td><p>드래프트<br />
-3기</p></td>
+<td><p>드래프트3기</p></td>
 <td><p>DH</p></td>
 <td><p>팀K</p></td>
 <td></td>
@@ -1479,8 +1469,7 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/이시와타_세나" title="wikilink">이시와타 세나</a></p></td>
 <td></td>
 <td></td>
-<td><p>드래프트<br />
-3기</p></td>
+<td><p>드래프트3기</p></td>
 <td><p>DH</p></td>
 <td><p>팀4</p></td>
 <td></td>
@@ -1490,8 +1479,7 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/쿠라모토_미유우" title="wikilink">쿠라모토 미유우</a></p></td>
 <td></td>
 <td></td>
-<td><p>드래프트<br />
-3기</p></td>
+<td><p>드래프트3기</p></td>
 <td><p>DH</p></td>
 <td><p>팀4</p></td>
 <td></td>
@@ -1511,8 +1499,7 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/요시하시_유즈카" title="wikilink">요시하시 유즈카</a></p></td>
 <td></td>
 <td></td>
-<td><p>드래프트<br />
-3기</p></td>
+<td><p>드래프트3기</p></td>
 <td><p>DH</p></td>
 <td><p>팀4</p></td>
 <td></td>
@@ -2005,11 +1992,11 @@ Cee my Nail 오너</p></td>
 <td></td>
 <td><p>2013년 6월 24일</p></td>
 <td><p>K</p></td>
-<td><p>(플레이브 엔터테인먼트)</p></td>
 <td><p>2012년 11월 1일에 <a href="../Page/SNH48.md" title="wikilink">SNH48</a> 팀SII 이적<br />
 2013년 4월 28일부터 겸임해제까지 SNH48 팀SII 겸임<br />
 2014년 4월 24일자로 <a href="../Page/SKE48.md" title="wikilink">SKE48</a> 팀S 겸임변경</p></td>
 <td><p>9위</p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -2406,7 +2393,7 @@ Cee my Nail 오너</p></td>
 <td><p>구 팀A→B<br />
 전 팀K 부캡틴<br />
 전 <a href="../Page/SKE48.md" title="wikilink">SKE48</a> 팀S 겸임<br />
-<a href="https://ko.wikipedia.org/wiki/NGT48" title="wikilink">NGT48</a> 팀NIII 이적</p></td>
+<a href="../Page/NGT48.md" title="wikilink">NGT48</a> 팀NIII 이적</p></td>
 <td><p>11위</p></td>
 </tr>
 <tr class="even">
@@ -3493,7 +3480,7 @@ Cee my Nail 오너</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/스즈키_나에" title="wikilink">스즈키 나에</a></p></td>
 <td></td>
 <td><p>4기</p></td>
-<td><p>(<a href="http://www.lm-arts.net/">LIFE MUSIC ARTS CORP.</a>)</p></td>
+<td><p>(<a href="https://web.archive.org/web/20120707123904/http://www.lm-arts.net/">LIFE MUSIC ARTS CORP.</a>)</p></td>
 <td><p>전 涙-NAMIDA-의 멤버</p></td>
 <td></td>
 <td></td>
@@ -4164,7 +4151,7 @@ Cee my Nail 오너</p></td>
 <td><p><a href="../Page/오기노_유카.md" title="wikilink">오기노 유카</a></p></td>
 <td><p>荻野由佳</p></td>
 <td><p>호리프로</p></td>
-<td><p>현 <a href="https://ko.wikipedia.org/wiki/NGT48" title="wikilink">NGT48</a> 1기생</p></td>
+<td><p>현 <a href="../Page/NGT48.md" title="wikilink">NGT48</a> 1기생</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -4227,7 +4214,7 @@ Cee my Nail 오너</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/쿠사카베_아이나" title="wikilink">쿠사카베 아이나</a></p></td>
 <td><p>日下部愛菜</p></td>
 <td><p>Flora</p></td>
-<td><p>현 <a href="https://ko.wikipedia.org/wiki/NGT48" title="wikilink">NGT48</a> 1기생</p></td>
+<td><p>현 <a href="../Page/NGT48.md" title="wikilink">NGT48</a> 1기생</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -4291,7 +4278,7 @@ Cee my Nail 오너</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/세이지_레이나" title="wikilink">세이지 레이나</a></p></td>
 <td><p>清司麗菜</p></td>
 <td><p>Flora</p></td>
-<td><p>현 <a href="https://ko.wikipedia.org/wiki/NGT48" title="wikilink">NGT48</a> 1기생</p></td>
+<td><p>현 <a href="../Page/NGT48.md" title="wikilink">NGT48</a> 1기생</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -4361,7 +4348,7 @@ Cee my Nail 오너</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/니시가타_마리나" title="wikilink">니시가타 마리나</a></p></td>
 <td><p>西潟茉莉奈</p></td>
 <td><p>Flora</p></td>
-<td><p>현 <a href="https://ko.wikipedia.org/wiki/NGT48" title="wikilink">NGT48</a> 1기생</p></td>
+<td><p>현 <a href="../Page/NGT48.md" title="wikilink">NGT48</a> 1기생</p></td>
 <td></td>
 </tr>
 <tr class="even">

@@ -43,7 +43,7 @@ PowerVR 칩셋은 3D 처리에 타일 기반 지연된 렌더링(Tile-based defe
 
 ### 시리즈 2 (NEC)
 
-2세대 PowerVR2(칩 코드명 CLX2)는 1998년 2월 23일 출시되었다. 2D 표시 기능이 추가되어서 PC 플랫폼에서 독립된 카드로 작동할 수 있다. [세가](https://ko.wikipedia.org/wiki/세가 "wikilink")에서는 [새턴의](../Page/세가_새턴.md "wikilink") 후속 기종 [드림캐스트를](https://ko.wikipedia.org/wiki/세가_드림캐스트 "wikilink") 설계하면서 내부 경쟁을 벌였다. 그 결과 [3dfx](../Page/3dfx.md "wikilink") 부두 2를 제치고 PowerVR2가 선정되었다. 그 결과 드림캐스트로 출시된 [퀘이크 III 아레나와](https://ko.wikipedia.org/wiki/퀘이크_III_아레나 "wikilink") 같은 게임은 PC 버전에 비해서 성능과 화질이 더 좋았다. PC용으로 출시된 Neon 250은 시장에 늦게 등장하였고, 출시 당시에는 중급형 그래픽 카드 시장에 머물러야 했다.
+2세대 PowerVR2(칩 코드명 CLX2)는 1998년 2월 23일 출시되었다. 2D 표시 기능이 추가되어서 PC 플랫폼에서 독립된 카드로 작동할 수 있다. [세가](../Page/세가.md "wikilink")에서는 [새턴의](../Page/세가_새턴.md "wikilink") 후속 기종 [드림캐스트를](https://ko.wikipedia.org/wiki/세가_드림캐스트 "wikilink") 설계하면서 내부 경쟁을 벌였다. 그 결과 [3dfx](../Page/3dfx.md "wikilink") 부두 2를 제치고 PowerVR2가 선정되었다. 그 결과 드림캐스트로 출시된 [퀘이크 III 아레나와](https://ko.wikipedia.org/wiki/퀘이크_III_아레나 "wikilink") 같은 게임은 PC 버전에 비해서 성능과 화질이 더 좋았다. PC용으로 출시된 Neon 250은 시장에 늦게 등장하였고, 출시 당시에는 중급형 그래픽 카드 시장에 머물러야 했다.
 
   - 모든 제품은 250 nm 공정으로 제조되었다.
   - 모든 제품은 DirectX 6.0을 지원하고, PMX1은 MiniGL을 지원하였다.

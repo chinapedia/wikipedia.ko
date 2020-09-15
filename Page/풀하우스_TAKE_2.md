@@ -125,7 +125,7 @@
   - [SBS 플러스의 공식 홈페이지](https://web.archive.org/web/20121102032919/http://sbsplus.sbs.co.kr/fullhouse2/)
   - [TBS의 공식 홈페이지](http://www.tbs.co.jp/tbs-ch/item/d1974/)
 
-[분류:2012년 드라마](https://ko.wikipedia.org/wiki/분류:2012년_드라마 "wikilink") [분류:2010년대 대한민국의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:2010년대_대한민국의_텔레비전_프로그램 "wikilink") [분류:한국어 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:한국어_텔레비전_프로그램 "wikilink") [분류:대한민국의 만화의 텔레비전 드라마화 작품 ‎](https://ko.wikipedia.org/wiki/분류:대한민국의_만화의_텔레비전_드라마화_작품_‎ "wikilink") [분류:김종학 프로덕션 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:김종학_프로덕션_텔레비전_프로그램 "wikilink") [분류:TBS의 텔레비전 드라마](https://ko.wikipedia.org/wiki/분류:TBS의_텔레비전_드라마 "wikilink") [분류:SBS 플러스의 텔레비전 드라마](https://ko.wikipedia.org/wiki/분류:SBS_플러스의_텔레비전_드라마 "wikilink")
+[분류:2012년 드라마](https://ko.wikipedia.org/wiki/분류:2012년_드라마 "wikilink") [분류:2010년대 대한민국의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:2010년대_대한민국의_텔레비전_프로그램 "wikilink") [분류:한국어 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:한국어_텔레비전_프로그램 "wikilink") [분류:대한민국의 만화의 텔레비전 드라마화 작품](https://ko.wikipedia.org/wiki/분류:대한민국의_만화의_텔레비전_드라마화_작품 "wikilink") [분류:김종학 프로덕션 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:김종학_프로덕션_텔레비전_프로그램 "wikilink") [분류:TBS의 텔레비전 드라마](https://ko.wikipedia.org/wiki/분류:TBS의_텔레비전_드라마 "wikilink") [분류:SBS 플러스의 텔레비전 드라마](https://ko.wikipedia.org/wiki/분류:SBS_플러스의_텔레비전_드라마 "wikilink")
 
 1.
 2.

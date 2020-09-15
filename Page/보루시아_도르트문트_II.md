@@ -10,6 +10,6 @@
 ## 외부 링크
 
   - [공식 홈페이지](http://www.bvb.de/?%9EZ%1B%E7%F4%9D)
-  - [프로필 (fussballdaten.de 제공)](http://www.fussballdaten.de/vereine/borussiadortmunda/)
+  - [프로필 (fussballdaten.de 제공)](https://web.archive.org/web/20100927054227/http://www.fussballdaten.de/vereine/borussiadortmunda/)
 
 [분류:독일의 축구단](https://ko.wikipedia.org/wiki/분류:독일의_축구단 "wikilink") [분류:보루시아 도르트문트](https://ko.wikipedia.org/wiki/분류:보루시아_도르트문트 "wikilink")

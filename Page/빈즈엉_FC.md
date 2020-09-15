@@ -80,7 +80,7 @@
 </tr>
 <tr class="even">
 <td><p>2004</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/남대식_(1948년)" title="wikilink">남대식</a></p></td>
+<td><p><a href="../Page/남대식_(1948년).md" title="wikilink">남대식</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2004</p></td>

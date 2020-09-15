@@ -31,10 +31,9 @@
 ## 같이 보기
 
   - [윈도 폰](https://ko.wikipedia.org/wiki/윈도_폰 "wikilink")
+  - [삼성 아티브](../Page/삼성_아티브.md "wikilink")
   - [삼성 아티브 탭](../Page/삼성_아티브_탭.md "wikilink")
   - [삼성 갤럭시 S III](../Page/삼성_갤럭시_S_III.md "wikilink")
   - [삼성 아티브 오디세이](https://ko.wikipedia.org/wiki/삼성_아티브_오디세이 "wikilink")
 
 [분류:2012년 출시](https://ko.wikipedia.org/wiki/분류:2012년_출시 "wikilink") [분류:윈도우 폰 장치](https://ko.wikipedia.org/wiki/분류:윈도우_폰_장치 "wikilink") [아티브 S](https://ko.wikipedia.org/wiki/분류:삼성_휴대_전화기 "wikilink") [아티브 S](https://ko.wikipedia.org/wiki/분류:삼성전자의_스마트폰 "wikilink") [분류:스마트폰](https://ko.wikipedia.org/wiki/분류:스마트폰 "wikilink") [분류:화상 통화](https://ko.wikipedia.org/wiki/분류:화상_통화 "wikilink")
-
-[de:Samsung Ativ\#Ativ S](https://ko.wikipedia.org/wiki/de:Samsung_Ativ#Ativ_S "wikilink")

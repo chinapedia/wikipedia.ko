@@ -123,4 +123,4 @@
 
 ## 외부 링크
 
-[분류:2009년 영상 음반](https://ko.wikipedia.org/wiki/분류:2009년_영상_음반 "wikilink") [분류:2009년 라이브 음반](https://ko.wikipedia.org/wiki/분류:2009년_라이브_음반 "wikilink") [분류:메탈리카의 음반](https://ko.wikipedia.org/wiki/분류:메탈리카의_음반 "wikilink")
+[분류:2009년 영상 음반](https://ko.wikipedia.org/wiki/분류:2009년_영상_음반 "wikilink") [분류:2009년 라이브 음반](https://ko.wikipedia.org/wiki/분류:2009년_라이브_음반 "wikilink") [분류:메탈리카의 라이브 음반](https://ko.wikipedia.org/wiki/분류:메탈리카의_라이브_음반 "wikilink")

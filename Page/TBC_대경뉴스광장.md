@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [TBC 대경뉴스광장](https://ko.wikipedia.org/wiki/TBC_대경뉴스광장).
 
 
-**TBC 대경뉴스광장**은 대한민국 [TBC에서](../Page/TBC_\(대한민국의_방송사\).md "wikilink") 평일 오후 5시 40분에 방송되는 TBC의 저녁뉴스 프로그램이다.
+《**TBC 대경뉴스광장**》()은 대한민국 [TBC에서](../Page/TBC_\(대한민국의_방송사\).md "wikilink") 평일 오후 5시 40분에 방송되는 [TBC의 저녁뉴스 프로그램이다](../Page/TBC의_뉴스_프로그램.md "wikilink").
 
 ## 방송 시간
 
@@ -100,7 +100,7 @@
 | -- | ---------- | ------------------------------------------------------------------------------------- |
 | 1기 | TBC 대경뉴스광장 | [2005년](../Page/2005년.md "wikilink") [4월 25일](../Page/4월_25일.md "wikilink") \~ **현재** |
 
-## TBC(대구방송)의 다른 뉴스 프로그램
+## TBC의 다른 뉴스 프로그램
 
   - [TBC 굿모닝뉴스](../Page/TBC_굿모닝뉴스.md "wikilink")
   - [TBC 뉴스 (1010)](../Page/TBC_뉴스_\(1010\).md "wikilink")
@@ -116,4 +116,4 @@
 
   - [TBC 대경뉴스광장 공식 홈페이지](http://www.tbc.co.kr/tbc_tv/newsroom/tv_dae.html)
 
-[분류:대구방송의 뉴스 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:대구방송의_뉴스_텔레비전_프로그램 "wikilink")
+[분류:TBC의 뉴스 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:TBC의_뉴스_텔레비전_프로그램 "wikilink")

@@ -24,6 +24,6 @@
 ## 외부 링크
 
   - [공식 홈페이지](http://www.dafc.co.uk/)
-  - [팬사이트](http://www.dafc.net/)
+  - [팬사이트](https://web.archive.org/web/20140104014643/http://dafc.net/)
 
 [던펌린_애슬레틱_FC](https://ko.wikipedia.org/wiki/분류:던펌린_애슬레틱_FC "wikilink") [분류:1885년 설립된 축구단](https://ko.wikipedia.org/wiki/분류:1885년_설립된_축구단 "wikilink") [분류:스코틀랜드의 축구단](https://ko.wikipedia.org/wiki/분류:스코틀랜드의_축구단 "wikilink")

@@ -7,7 +7,7 @@
 
 기존의 [스마트폰](../Page/스마트폰.md "wikilink")들과 달리 프라다의 컨셉에 맞추어 프라다 고유의 사피아노(Saffiano : 빗살무늬를 새긴 소가죽 재질) 문양과 [옵티머스 UI를](https://ko.wikipedia.org/wiki/옵티머스_UI "wikilink") 흑백풍으로 리뉴얼하였으며, 800 [nit(cd/m²)](../Page/칸델라_매_제곱미터.md "wikilink") 휘도를 가진 4.3["의](https://ko.wikipedia.org/wiki/인치 "wikilink") [노바 IPS LCD](https://ko.wikipedia.org/wiki/노바_IPS_LCD "wikilink") 디스플레이를 장착하였다. [영국](../Page/영국.md "wikilink") 및 [일본](../Page/일본.md "wikilink")의 [NTT도코모](https://ko.wikipedia.org/wiki/NTT도코모 "wikilink"), 미국 버라이존, 스프린트 및 한국의 이통사 3사를 통해 출시되었으며, [일본](../Page/일본.md "wikilink")판 배터리 커버는 [LG전자](../Page/LG전자.md "wikilink")의 로고가 삭제되었다.
 
-## 운영체제 업그레이드
+## 운영 체제 업그레이드
 
 ### [안드로이드](../Page/안드로이드_\(운영_체제\).md "wikilink") [4.0.4 아이스크림 샌드위치](https://ko.wikipedia.org/wiki/안드로이드_버전_역사 "wikilink") 업그레이드
 

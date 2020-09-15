@@ -177,16 +177,16 @@
 
 | 프로그램명                                                                  | 방송시간   | 편성시간                | 진행  |
 | ---------------------------------------------------------------------- | ------ | ------------------- | --- |
-| [KBS 뉴스광장 경인](../Page/KBS_뉴스광장.md "wikilink")                          | 평일 10분 | 오전 7시 30분 \~ 7시 40분 | 조은민 |
+| [KBS 뉴스광장 경인](../Page/KBS_뉴스광장.md "wikilink")                          | 평일 10분 | 오전 7시 35분 \~ 7시 45분 | 조은민 |
 | [KBS 930 뉴스 경인](../Page/KBS_930_뉴스.md "wikilink")                      | 평일 10분 | 오전 9시 50분 \~ 10시    |     |
 | [KBS 뉴스 7 경인](https://ko.wikipedia.org/wiki/KBS_뉴스_7_경기·인천 "wikilink") | 평일 5분  | 저녁 7시 30분 \~ 7시 35분 | 강승희 |
-| [KBS 뉴스 9 경인](https://ko.wikipedia.org/wiki/KBS_뉴스_9_경기·인천 "wikilink") | 평일 10분 | 밤 9시 40분 \~ 9시 50분  |     |
+| [KBS 뉴스 9 경인](https://ko.wikipedia.org/wiki/KBS_뉴스_9_경기·인천 "wikilink") | 평일 10분 | 밤 9시 35분 \~ 9시 45분  |     |
 
 ## 아나운서
 
 #### 여성
 
-  - [강승희](https://ko.wikipedia.org/wiki/강승희 "wikilink") : 전직 [KBS충주](https://ko.wikipedia.org/wiki/KBS충주 "wikilink") 아나운서
+  - [강승희](https://ko.wikipedia.org/wiki/강승희_\(경인아나운서\) "wikilink") : 전직 [KBS충주](https://ko.wikipedia.org/wiki/KBS충주 "wikilink") 아나운서
   - [조은민](https://ko.wikipedia.org/wiki/조은민 "wikilink") : 전직 [목포MBC](https://ko.wikipedia.org/wiki/목포MBC "wikilink") MC
 
 #### 전직
@@ -208,10 +208,10 @@
   - 박효인
   - 박희봉
   - 신지원
+  - 유성식
   - 이정록
   - 이승재
-  - 이철호
-  - 정수영
+  - 장혁진
   - 황진우
 
 ## 각주

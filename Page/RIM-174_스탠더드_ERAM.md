@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [RIM-174 스탠더드 ERAM](https://ko.wikipedia.org/wiki/RIM-174_스탠더드_ERAM).
 
 
-**RIM-174 스탠더드 ERAM**은 **SM-6**라고 불리는 미국의 [스탠다드 미사일이다](https://ko.wikipedia.org/wiki/스탠다드_미사일 "wikilink"). [SM-2ER 블록IV](../Page/RIM-67_스탠더드.md "wikilink")(RIM-156A) 미사일에 [암람](https://ko.wikipedia.org/wiki/암람 "wikilink")의 [액티브 레이다 유도](https://ko.wikipedia.org/wiki/액티브_레이다_유도 "wikilink") 시커를 장착했다.  해군이 보유한 첨단 미사일이다.
+**RIM-174 스탠더드 ERAM**은 **SM-6**라고 불리는 미국의 [스탠다드 미사일이다](https://ko.wikipedia.org/wiki/스탠다드_미사일 "wikilink"). [SM-2ER 블록IV](../Page/RIM-67_스탠더드.md "wikilink")(RIM-156A) 미사일에 [암람](https://ko.wikipedia.org/wiki/암람 "wikilink")의 [액티브 레이다 유도](https://ko.wikipedia.org/wiki/액티브_레이다_유도 "wikilink") 시커를 장착했다. [미국 해군이](../Page/미국_해군.md "wikilink") 보유한 첨단 미사일이다.
 
 ## 비교
 

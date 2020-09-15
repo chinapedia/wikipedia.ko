@@ -1,13 +1,12 @@
 > This article is converted from Wikipedia: [AOA \(음악 그룹\)](https://ko.wikipedia.org/wiki/AOA_\(음악_그룹\)).
 
 
-**AOA**(에이오에이, **A**ce **O**f **A**ngels)는 [대한민국](../Page/대한민국.md "wikilink")의 5인조 [걸 그룹으로](../Page/걸_그룹.md "wikilink"), 소속사는 [FNC 엔터테인먼트이다](../Page/FNC_엔터테인먼트.md "wikilink"). 유닛 그룹으로는 [지민](../Page/지민_\(래퍼\).md "wikilink")([리드 기타](https://ko.wikipedia.org/wiki/리드_기타 "wikilink")), [유나](../Page/유나_\(1992년\).md "wikilink")([키보드](https://ko.wikipedia.org/wiki/키보드_\(악기\) "wikilink")) 그리고 탈퇴한 멤버 초아([리듬 기타](https://ko.wikipedia.org/wiki/리듬_기타 "wikilink")), 민아([베이스 기타](../Page/베이스_기타.md "wikilink")), 유경([드럼](https://ko.wikipedia.org/wiki/드럼 "wikilink"))으로 구성되었던 [밴드](https://ko.wikipedia.org/wiki/록_밴드 "wikilink") 유닛 **[AOA 블랙](https://ko.wikipedia.org/wiki/AOA_블랙 "wikilink")**이 있었고, [혜정](../Page/혜정.md "wikilink"), [설현](../Page/설현.md "wikilink"), [찬미로](../Page/찬미_\(1996년\).md "wikilink") 구성된 댄스 유닛 **[AOA 화이트](https://ko.wikipedia.org/wiki/AOA_화이트 "wikilink")**, [유나](../Page/유나_\(1992년\).md "wikilink"), [혜정](../Page/혜정.md "wikilink"), [찬미로](../Page/찬미_\(1996년\).md "wikilink") 구성된 러블리 컨셉의 **[AOA 크림](https://ko.wikipedia.org/wiki/AOA_크림 "wikilink")**이 있다.
+**AOA**(에이오에이, **A**ce **O**f **A**ngels)는 [대한민국](../Page/대한민국.md "wikilink")의 4인조 [걸 그룹으로](../Page/걸_그룹.md "wikilink"), 소속사는 [FNC 엔터테인먼트이다](../Page/FNC_엔터테인먼트.md "wikilink").
 
-[2016년](../Page/2016년.md "wikilink") [10월 15일](../Page/10월_15일.md "wikilink") 멤버 유경은 계약해지로 인해 탈퇴하게 되었다. 또한 [2017년](../Page/2017년.md "wikilink") [6월 22일](../Page/6월_22일.md "wikilink") [초아가](../Page/초아_\(1990년_3월\).md "wikilink") 개인 SNS에 장문의 글을 올리며 AOA 탈퇴의사를 밝혔고,\[1\] [6월 30일](../Page/6월_30일.md "wikilink") 공식 최종 탈퇴하게 되었다.\[2\] [2019년](../Page/2019년.md "wikilink") [5월 13일](../Page/5월_13일.md "wikilink") 멤버 [민아는](https://ko.wikipedia.org/wiki/민아_\(1993년_9월\) "wikilink") 계약만료로 인하여 탈퇴, 나머지 멤버는 재계약 하였다.
+[2016년](../Page/2016년.md "wikilink") [10월 15일](../Page/10월_15일.md "wikilink") 멤버 유경은 계약해지로 인해 탈퇴하게 되었다. 또한 [2017년](../Page/2017년.md "wikilink") [6월 22일](../Page/6월_22일.md "wikilink") [초아가](../Page/초아_\(1990년_3월\).md "wikilink") 개인 SNS에 장문의 글을 올리며 AOA 탈퇴의사를 밝혔고,\[1\] [6월 30일](../Page/6월_30일.md "wikilink") 공식 최종 탈퇴하게 되었다.\[2\] [2019년](../Page/2019년.md "wikilink") [5월 13일](../Page/5월_13일.md "wikilink") 멤버 [민아는](../Page/권민아.md "wikilink") 계약만료로 인하여 탈퇴, 나머지 멤버는 재계약 하였다. [2020년](../Page/2020년.md "wikilink") [7월 4일](../Page/7월_4일.md "wikilink") [AOA](https://ko.wikipedia.org/wiki/AOA "wikilink")의 전 멤버였던 [지민이](../Page/지민_\(래퍼\).md "wikilink") 따돌림 가해자로 지목되면서 활동 중단과 함께 사과문을 발표하고 그룹에서 탈퇴하였다.
 
 ## 구성원
 
-|  |
 |  |
 |  |
 |  |
@@ -30,17 +29,17 @@
 
 ### 멤버 변천사
 
-| 멤버                                                             | 2012년 | 2016년 | 2017년 | 2019년 | 현재 |
-| -------------------------------------------------------------- | ----- | ----- | ----- | ----- | :-: |
-| 8월                                                             | 10월   | 6월    | 5월    |       |    |
-| 유경                                                             |       |       |       |       |    |
-| [초아](../Page/초아_\(1990년_3월\).md "wikilink")                    |       |       |       |       |    |
-| [민아](https://ko.wikipedia.org/wiki/민아_\(1993년_9월\) "wikilink") |       |       |       |       |    |
-| [지민](../Page/지민_\(래퍼\).md "wikilink")                          |       |       |       |       |    |
-| [유나](../Page/유나_\(1992년\).md "wikilink")                       |       |       |       |       |    |
-| [혜정](../Page/혜정.md "wikilink")                                 |       |       |       |       |    |
-| [설현](../Page/설현.md "wikilink")                                 |       |       |       |       |    |
-| [찬미](../Page/찬미_\(1996년\).md "wikilink")                       |       |       |       |       |    |
+| 멤버                                          | 2012년 | 2016년 | 2017년 | 2019년 | 2020년 | 현재 |
+| ------------------------------------------- | ----- | ----- | ----- | ----- | ----- | :-: |
+| 8월                                          | 10월   | 6월    | 5월    | 7월    |       |    |
+| 유경                                          |       |       |       |       |       |    |
+| [초아](../Page/초아_\(1990년_3월\).md "wikilink") |       |       |       |       |       |    |
+| [민아](../Page/권민아.md "wikilink")             |       |       |       |       |       |    |
+| [지민](../Page/지민_\(래퍼\).md "wikilink")       |       |       |       |       |       |    |
+| [유나](../Page/유나_\(1992년\).md "wikilink")    |       |       |       |       |       |    |
+| [혜정](../Page/혜정.md "wikilink")              |       |       |       |       |       |    |
+| [설현](../Page/설현.md "wikilink")              |       |       |       |       |       |    |
+| [찬미](../Page/찬미_\(1996년\).md "wikilink")    |       |       |       |       |       |    |
 
 ## 음반
 
@@ -143,6 +142,7 @@
 
 ## 외부 링크
 
+  -
   - (대한민국)
 
   -  (일본)
@@ -154,7 +154,7 @@
   -
   -
   -
-[AOA](https://ko.wikipedia.org/wiki/분류:AOA "wikilink") [분류:2012년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2012년_결성된_음악_그룹 "wikilink") [분류:대한민국의 아이돌 그룹](https://ko.wikipedia.org/wiki/분류:대한민국의_아이돌_그룹 "wikilink") [분류:5인조 음악 그룹](https://ko.wikipedia.org/wiki/분류:5인조_음악_그룹 "wikilink") [분류:대한민국의 걸 그룹](https://ko.wikipedia.org/wiki/분류:대한민국의_걸_그룹 "wikilink") [분류:한국어 음악 그룹](https://ko.wikipedia.org/wiki/분류:한국어_음악_그룹 "wikilink") [분류:K-pop 음악 그룹](https://ko.wikipedia.org/wiki/분류:K-pop_음악_그룹 "wikilink") [분류:대한민국의 팝 음악 그룹](https://ko.wikipedia.org/wiki/분류:대한민국의_팝_음악_그룹 "wikilink") [분류:대한민국의 댄스 음악 그룹](https://ko.wikipedia.org/wiki/분류:대한민국의_댄스_음악_그룹 "wikilink") [분류:2010년대 음악 그룹](https://ko.wikipedia.org/wiki/분류:2010년대_음악_그룹 "wikilink") [분류:FNC 엔터테인먼트 소속](https://ko.wikipedia.org/wiki/분류:FNC_엔터테인먼트_소속 "wikilink") [분류:골든디스크 본상 수상 음악가](https://ko.wikipedia.org/wiki/분류:골든디스크_본상_수상_음악가 "wikilink") [분류:SBS MTV 더 쇼 초이스 수상자](https://ko.wikipedia.org/wiki/분류:SBS_MTV_더_쇼_초이스_수상자 "wikilink") [분류:MBC MUSIC 쇼 챔피언 챔피언송 수상자](https://ko.wikipedia.org/wiki/분류:MBC_MUSIC_쇼_챔피언_챔피언송_수상자 "wikilink") [분류:엠넷 엠카운트다운 1위 수상자](https://ko.wikipedia.org/wiki/분류:엠넷_엠카운트다운_1위_수상자 "wikilink") [분류:MBC 쇼\! 음악중심 1위 수상자](https://ko.wikipedia.org/wiki/분류:MBC_쇼!_음악중심_1위_수상자 "wikilink") [분류:SBS 인기가요 1위 수상자](https://ko.wikipedia.org/wiki/분류:SBS_인기가요_1위_수상자 "wikilink")
+[AOA](https://ko.wikipedia.org/wiki/분류:AOA "wikilink") [분류:2012년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2012년_결성된_음악_그룹 "wikilink") [분류:대한민국의 아이돌 그룹](https://ko.wikipedia.org/wiki/분류:대한민국의_아이돌_그룹 "wikilink") [분류:4인조 음악 그룹](https://ko.wikipedia.org/wiki/분류:4인조_음악_그룹 "wikilink") [분류:대한민국의 걸 그룹](https://ko.wikipedia.org/wiki/분류:대한민국의_걸_그룹 "wikilink") [분류:한국어 음악 그룹](https://ko.wikipedia.org/wiki/분류:한국어_음악_그룹 "wikilink") [분류:K-pop 음악 그룹](https://ko.wikipedia.org/wiki/분류:K-pop_음악_그룹 "wikilink") [분류:대한민국의 팝 음악 그룹](https://ko.wikipedia.org/wiki/분류:대한민국의_팝_음악_그룹 "wikilink") [분류:대한민국의 댄스 음악 그룹](https://ko.wikipedia.org/wiki/분류:대한민국의_댄스_음악_그룹 "wikilink") [분류:2010년대 음악 그룹](https://ko.wikipedia.org/wiki/분류:2010년대_음악_그룹 "wikilink") [분류:FNC 엔터테인먼트 소속](https://ko.wikipedia.org/wiki/분류:FNC_엔터테인먼트_소속 "wikilink") [분류:골든디스크 본상 수상 음악가](https://ko.wikipedia.org/wiki/분류:골든디스크_본상_수상_음악가 "wikilink") [분류:SBS MTV 더 쇼 초이스 수상자](https://ko.wikipedia.org/wiki/분류:SBS_MTV_더_쇼_초이스_수상자 "wikilink") [분류:MBC MUSIC 쇼 챔피언 챔피언송 수상자](https://ko.wikipedia.org/wiki/분류:MBC_MUSIC_쇼_챔피언_챔피언송_수상자 "wikilink") [분류:엠넷 엠카운트다운 1위 수상자](https://ko.wikipedia.org/wiki/분류:엠넷_엠카운트다운_1위_수상자 "wikilink") [분류:MBC 쇼\! 음악중심 1위 수상자](https://ko.wikipedia.org/wiki/분류:MBC_쇼!_음악중심_1위_수상자 "wikilink") [분류:SBS 인기가요 1위 수상자](https://ko.wikipedia.org/wiki/분류:SBS_인기가요_1위_수상자 "wikilink")
 
 1.  [초아 인스타그램 입장전문](https://www.instagram.com/p/BVpDw_MFWDS/)
 2.

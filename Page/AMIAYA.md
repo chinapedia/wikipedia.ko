@@ -5,14 +5,14 @@
 
 ## 소개
 
-1988년 11월8일, [일본](../Page/일본.md "wikilink") [시즈오카현](../Page/시즈오카현.md "wikilink") [하마마츠 시에서](https://ko.wikipedia.org/wiki/하마마츠_시 "wikilink") 회사원인 부모님에게서 쌍둥이 자매로 태어났다. 5살 어린 여동생과 9살 어린 남동생이 있다. 초등학교 6학년 때부터 예능 스쿨에서 레슨을 받았으며, 패션쇼 등 무대에도 올랐다.2004년 봄, 고등학교 입학을 앞두고 오디션을 받으러 가 [도쿄](../Page/도쿄.md "wikilink")의 타케시타에 스카우트 되었다. 입학 1주 후 자퇴를 하고 도쿄로 가, 잡지 「mina」에 독자 모델을 시작으로 본격적인 모델 활동을 시작했다.
+1988년 11월 8일, [일본](../Page/일본.md "wikilink") [시즈오카현](../Page/시즈오카현.md "wikilink") [하마마츠 시에서](https://ko.wikipedia.org/wiki/하마마츠_시 "wikilink") 회사원인 부모님에게서 쌍둥이 자매로 태어났다. 5살 어린 여동생과 9살 어린 남동생이 있다. 초등학교 6학년 때부터 예능 스쿨에서 레슨을 받았으며, 패션쇼 등 무대에도 올랐다.2004년 봄, 고등학교 입학을 앞두고 오디션을 받으러 가 [도쿄](../Page/도쿄.md "wikilink")의 타케시타에 스카우트 되었다. 입학 1주 후 자퇴를 하고 도쿄로 가, 잡지 「mina」에 독자 모델을 시작으로 본격적인 모델 활동을 시작했다.
 
 모델 활동 외에도 "AMIAYA"라는 이름으로 음악 활동도 하고 있으며, 패션 브랜드 "jouetie"도 운영 중이다.
 
 ### 2012년
 
-  - 7월11일 - DREAMER＇S DREAM
-  - 12월13일(쌍둥이의 날) - 「PLAY THAT MUSIC」일본을 제외한 세계 153개국에 발표
+  - 7월 11일 - DREAMER＇S DREAM
+  - 12월 13일(쌍둥이의 날) - 「PLAY THAT MUSIC」일본을 제외한 세계 153개국에 발표
   - TOKYO BRANDNEW GIRLS(TV 도쿄TX계 매주 일요일 24:35)엔딩 테마
   - ★「반당 디자인」이미지 모델
   - ★ 콘택트 렌즈 「엔젤 칼라」이미지 모델
@@ -25,12 +25,12 @@
   - 오다이바 코메디 길(CX)
   - 도쿄 예쁜★TV(NHK)
   - 쿨코레(MXTV)
-  - 독모TV(2010년1월8일보다 매주금요일,MXTV) 고정출연
-  - 테이크 미 아웃(2010년1월7일,TBS텔레비전)
+  - 독모TV(2010년 1월 8일보다 매주금요일,MXTV) 고정출연
+  - 테이크 미 아웃(2010년 1월 7일,TBS텔레비전)
 
 ### 드라마
 
-  - [GTO (2012년 드라마)](../Page/GTO_\(2012년_드라마\).md "wikilink")(2012년7월31일,후지TV) 신리자·신카미코 역
+  - [GTO (2012년 드라마)](../Page/GTO_\(2012년_드라마\).md "wikilink")(2012년 7월 31일, 후지TV) 신리자·신카미코 역
 
 ### 광고
 
@@ -44,12 +44,12 @@
 
 ### 2012년
 
-  - 10월6일 - LAFORET FASHION WEEK'12(라포레 하라쥬쿠)
-  - 10월7일 - FM802「Noz Beauty Collection」(도지마 리버 포럼)
-  - 11월8일 - roomsLINK TAIPEI 컨벤션 (타이베이·화산1914창의 문화소노구)
+  - 10월 6일 - LAFORET FASHION WEEK'12(라포레 하라쥬쿠)
+  - 10월 7일 - FM802「Noz Beauty Collection」(도지마 리버 포럼)
+  - 11월 8일 - roomsLINK TAIPEI 컨벤션 (타이베이·화산1914창의 문화소노구)
   - AMIAYA LIVE 패션 이벤트 rooms LINK TAIPEI Reception ※2회공연
-  - 11월9일 - H Real harajuku real collection ※모델 출연
-  - 12월8일 - Big Mountain Music Festival 4( 타이·카오야이 국립공원)
+  - 11월 9일 - H Real harajuku real collection ※모델 출연
+  - 12월 8일 - Big Mountain Music Festival 4( 타이·카오야이 국립공원)
 
 ### 잡지
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [YTN 뉴스나이트](https://ko.wikipedia.org/wiki/YTN_뉴스나이트).
 
 
-《**YTN 뉴스나이트**》(YTN NEWS NIGHT)는 [대한민국](../Page/대한민국.md "wikilink") [YTN](../Page/YTN.md "wikilink")에서 매일 밤 9시 50분에 방송되는 [YTN](../Page/YTN.md "wikilink")의 메인뉴스 프로그램이다.
+《**YTN 뉴스나이트**》(YTN NEWS NIGHT)는 [대한민국](../Page/대한민국.md "wikilink") [YTN](../Page/YTN.md "wikilink")에서 평일 밤 9시 45분, 주말 밤 9시 50분에 방송되는 [YTN](../Page/YTN.md "wikilink")의 메인뉴스 프로그램이다.
 
 ## 방송 시간
 
@@ -51,8 +51,14 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/2019년.md" title="wikilink">2019년</a> <a href="../Page/4월_15일.md" title="wikilink">4월 15일</a> ~ <strong>현재</strong></p></td>
+<td><p><a href="../Page/2019년.md" title="wikilink">2019년</a> <a href="../Page/4월_15일.md" title="wikilink">4월 15일</a> ~ <a href="../Page/2020년.md" title="wikilink">2020년</a> <a href="../Page/6월_21일.md" title="wikilink">6월 21일</a></p></td>
 <td><p>매일 밤 9시 50분 ~ 12시 (2시간 10분)</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/2020년.md" title="wikilink">2020년</a> <a href="../Page/6월_22일.md" title="wikilink">6월 22일</a> ~ <strong>현재</strong></p></td>
+<td><p>평일 밤 9시 45분 ~ 11시 50분 (2시간 5분)<br />
+주말 밤 9시 50분 ~ 11시 50분 (2시간)</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -60,19 +66,23 @@
 
 ## 구성
 
-  - YTN 뉴스나이트 오프닝ㅣ최영주 김경수ㅣ황보혜경
-  - 헤드라인ㅣ최영주 김경수ㅣ황보혜경
-  - 나이트 포커스ㅣ최영주 김경수
+  - YTN 뉴스나이트 오프닝ㅣ최영주 오동건ㅣ황보혜경
+  - 헤드라인ㅣ최영주 오동건ㅣ황보혜경
+  - 나이트 포커스ㅣ최영주 오동건
   - [YTN 스포츠뉴스ㅣ안귀령ㅣ무작위](https://ko.wikipedia.org/wiki/YTN_스포츠뉴스 "wikilink")
   - YTN 날씨
-  - YTN 뉴스나이트 클로징ㅣ최영주 김경수ㅣ황보혜경
+  - YTN 뉴스나이트 클로징ㅣ최영주 오동건ㅣ황보혜경
 
 ## 앵커
 
 ### 평일
 
   - 14대 최영주 아나운서 (여)
-  - 15대 김경수 기자 (남)
+  - 16대 오동건 아나운서 (남)
+
+### 주말
+
+  - 2대 황보혜경 아나운서 (여)
 
 ### 역대 앵커
 
@@ -80,23 +90,24 @@
 
 ##### 남성
 
-| 역대  | 진행자                                                    | 진행 기간                         | 비고    |
-| --- | ------------------------------------------------------ | ----------------------------- | ----- |
-| 1대  | [현덕수](../Page/현덕수.md "wikilink") 기자                    | 일자 미상                         |       |
-| 2대  | [정찬배](https://ko.wikipedia.org/wiki/정찬배 "wikilink") 기자 | 일자 미상                         |       |
-| 3대  | [김영수](../Page/김영수.md "wikilink") 기자                    | 일자 미상                         |       |
-| 4대  | [김명우](https://ko.wikipedia.org/wiki/김명우 "wikilink") 기자 | 일자 미상                         |       |
-| 5대  | [김문경](https://ko.wikipedia.org/wiki/김문경 "wikilink") 기자 | 일자 미상                         |       |
-| 6대  | 유석현 기자                                                 | 일자 미상                         |       |
-| 7대  | 성문규 기자                                                 | 일자 미상 \~ 2007년 3월 4일          |       |
-| 8대  | [함형건](https://ko.wikipedia.org/wiki/함형건 "wikilink") 기자 | 2012년 \~ 2014년 10월 26일        |       |
-| 9대  | [오동건](https://ko.wikipedia.org/wiki/오동건 "wikilink") 기자 | 2014년 10월 27일 \~ 2015년 6월 28일 |       |
-| 10대 | [정찬배](https://ko.wikipedia.org/wiki/정찬배 "wikilink") 기자 | 2015년 6월 29일 \~ 2015년 10월 4일  |       |
-| 11대 | [오동건](https://ko.wikipedia.org/wiki/오동건 "wikilink") 기자 | 2015년 10월 5일 \~ 2016년         | \[1\] |
-| 12대 | [정병진](../Page/정병진.md "wikilink") 아나운서                  | 2016년 \~ 2018년 12월 2일         |       |
-| 13대 | 김경수 기자                                                 | 2018년 12월 3일 \~ 2019년 9월 27일  |       |
-| 14대 | 이종구 기자                                                 | 2019년 9월 30일 \~ 2020년 2월 14일  |       |
-| 15대 | 김경수 기자                                                 | 2020년 2월 17일 \~ **현재**        | \[2\] |
+| 역대  | 진행자                                                      | 진행 기간                         | 비고    |
+| --- | -------------------------------------------------------- | ----------------------------- | ----- |
+| 1대  | [현덕수](../Page/현덕수.md "wikilink") 기자                      | 일자 미상                         |       |
+| 2대  | [정찬배](https://ko.wikipedia.org/wiki/정찬배 "wikilink") 기자   | 일자 미상                         |       |
+| 3대  | [김영수](../Page/김영수.md "wikilink") 기자                      | 일자 미상                         |       |
+| 4대  | [김명우](https://ko.wikipedia.org/wiki/김명우 "wikilink") 기자   | 일자 미상                         |       |
+| 5대  | [김문경](https://ko.wikipedia.org/wiki/김문경 "wikilink") 기자   | 일자 미상                         |       |
+| 6대  | 유석현 기자                                                   | 일자 미상                         |       |
+| 7대  | 성문규 기자                                                   | 일자 미상 \~ 2007년 3월 4일          |       |
+| 8대  | [함형건](https://ko.wikipedia.org/wiki/함형건 "wikilink") 기자   | 2012년 \~ 2014년 10월 26일        |       |
+| 9대  | [오동건](https://ko.wikipedia.org/wiki/오동건 "wikilink") 아나운서 | 2014년 10월 27일 \~ 2015년 6월 28일 |       |
+| 10대 | [정찬배](https://ko.wikipedia.org/wiki/정찬배 "wikilink") 기자   | 2015년 6월 29일 \~ 2015년 10월 4일  |       |
+| 11대 | [오동건](https://ko.wikipedia.org/wiki/오동건 "wikilink") 아나운서 | 2015년 10월 5일 \~ 2016년         | \[1\] |
+| 12대 | [정병진](../Page/정병진.md "wikilink") 아나운서                    | 2016년 \~ 2018년 12월 2일         |       |
+| 13대 | 김경수 기자                                                   | 2018년 12월 3일 \~ 2019년 9월 27일  |       |
+| 14대 | 이종구 기자                                                   | 2019년 9월 30일 \~ 2020년 2월 14일  |       |
+| 15대 | 김경수 기자                                                   | 2020년 2월 17일 \~ 2020년 8월 7일   | \[2\] |
+| 16대 | [오동건](https://ko.wikipedia.org/wiki/오동건 "wikilink") 아나운서 | 2020년 8월 10일 \~ **현재**        | \[3\] |
 
 ##### 여성
 
@@ -174,7 +185,7 @@
 <tr class="even">
 <td><p>8기</p></td>
 <td><p>YTN 뉴스나이트 (평일)<br />
-YTN 뉴스와이드 (주말)</p></td>
+<a href="https://ko.wikipedia.org/wiki/YTN_뉴스와이드" title="wikilink">YTN 뉴스와이드</a> (주말)</p></td>
 <td><p><a href="../Page/2018년.md" title="wikilink">2018년</a> <a href="../Page/12월_3일.md" title="wikilink">12월 3일</a> ~ <strong>현재</strong></p></td>
 </tr>
 </tbody>
@@ -190,5 +201,6 @@ YTN 뉴스와이드 (주말)</p></td>
 
 [분류:YTN의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:YTN의_텔레비전_프로그램 "wikilink") [분류:2010년대 대한민국의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:2010년대_대한민국의_텔레비전_프로그램 "wikilink") [분류:대한민국의 뉴스 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:대한민국의_뉴스_텔레비전_프로그램 "wikilink")
 
-1.  [오동건](https://ko.wikipedia.org/wiki/오동건 "wikilink") 기자는 뉴스 10 진행한 지 4개월 만에 YTN 뉴스나이트 재진행.
+1.  [오동건](https://ko.wikipedia.org/wiki/오동건 "wikilink") 아나운서는 마지막 뉴스 10 진행한 지 4개월 만에 YTN 뉴스나이트 재진행.
 2.  김경수 기자는 마지막 5개월 만에 YTN 뉴스나이트 재진행.
+3.  오동건 아나운서는 마지막 뉴스나이트 진행한 지 4년 만에 YTN 뉴스나이트 재진행.

@@ -1229,8 +1229,8 @@
 <td><p><a href="https://archive.today/20170921081928/http://www.fctokyo.co.jp/home/index.phtml?cont=result/result&amp;game=192490&amp;year=2008">1–1 무</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/FC_서울" title="wikilink">서</a>: <a href="https://ko.wikipedia.org/wiki/데얀_다미아노비치" title="wikilink">데얀</a><br />
 <a href="../Page/FC_도쿄.md" title="wikilink">도</a>: <a href="../Page/이베라우두_지_제수스_페헤이라.md" title="wikilink">까보레</a></p></td>
-<td><p>약 41,500명<ref>{{뉴스 인용|url=<a href="http://m.fcseoul.com/mobile/news_tv/fcnews_view.jsp?seq=1224&amp;tcd=news&amp;pg=1%7C저자=%7C제목=FC서울">http://m.fcseoul.com/mobile/news_tv/fcnews_view.jsp?seq=1224&amp;tcd=news&amp;pg=1|저자=|제목=FC서울</a>, FC도쿄와 사이 좋은 1대1 무승부</p></td>
-<td><p>출판사=FC서울 공식 웹사이트}}</ref></p></td>
+<td><p>약 41,500명[13]</p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1291,13 +1291,13 @@
 <td></td>
 <td><p>2013-07-24</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/성남_FC" title="wikilink">성남 일화 천마</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/안성종합운동장" title="wikilink">N</a></p></td>
+<td><p><a href="../Page/안성종합운동장.md" title="wikilink">N</a></p></td>
 <td><p><a href="http://sports.news.naver.com/general/news/read.nhn?oid=076&amp;aid=0002352566">1–1 무</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/FC_서울" title="wikilink">서</a>: <a href="../Page/문동주.md" title="wikilink">문동주</a><br />
 <a href="https://ko.wikipedia.org/wiki/성남_FC" title="wikilink">성</a>: <a href="https://ko.wikipedia.org/wiki/정선호" title="wikilink">정선호</a></p></td>
-<td><p>9,725명<ref>{{뉴스 인용|url=<a href="http://www.besteleven.com/Country/news_01_view.asp?iBoard=6&amp;iIDX=56154%7C저자=%7C제목=프로축구">http://www.besteleven.com/Country/news_01_view.asp?iBoard=6&amp;iIDX=56154|저자=|제목=프로축구</a> 비(非) 연고지서 열린 K리그 클래식 성료</p></td>
-<td><p>출판사=베스트일레븐}}</ref></p></td>
+<td><p>9,725명[14]</p></td>
 <td></td>
+<td><p><a href="../Page/K리그.md" title="wikilink">K리그</a> 비연고지 자선경기</p></td>
 </tr>
 <tr class="even">
 <td><p>2</p></td>
@@ -1464,14 +1464,14 @@
 <tr class="odd">
 <td><p>7</p></td>
 <td><p><a href="../Page/경남_FC.md" title="wikilink">경남 FC</a><br />
-창단 기념[13]</p></td>
+창단 기념[15]</p></td>
 <td><p>2005-10-06</p></td>
 <td><p><a href="../Page/비셀_고베.md" title="wikilink">비셀 고베</a></p></td>
 <td><p><a href="../Page/창원종합운동장.md" title="wikilink">N</a></p></td>
 <td><p><a href="http://blog.naver.com/topof1st?Redirect=Log&amp;logNo=20089278156">3–1 승</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/FC_서울" title="wikilink">서</a>: <a href="../Page/박주영.md" title="wikilink">박주영</a> (2), <a href="../Page/김은중.md" title="wikilink">김은중</a><br />
 <a href="../Page/비셀_고베.md" title="wikilink">고</a>: <a href="../Page/파벨_호르바트.md" title="wikilink">호르바트</a></p></td>
-<td><p>17,000명[14]</p></td>
+<td><p>17,000명[16]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1485,7 +1485,7 @@
 <td><p><a href="http://blog.naver.com/topof1st?Redirect=Log&amp;logNo=20089278156">1–2 패</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/FC_서울" title="wikilink">서</a>: <a href="https://ko.wikipedia.org/wiki/백지훈" title="wikilink">백지훈</a><br />
 <a href="https://ko.wikipedia.org/wiki/CA_보카_주니어스" title="wikilink">보</a>: <a href="../Page/로드리고_팔라시오.md" title="wikilink">팔라시오</a>, <a href="https://ko.wikipedia.org/wiki/:en:Daniel_Bilos" title="wikilink">빌로스</a></p></td>
-<td><p>17,211명[15][16]</p></td>
+<td><p>17,211명[17][18]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1496,7 +1496,7 @@
 <td><p><a href="../Page/서울월드컵경기장.md" title="wikilink">H</a></p></td>
 <td><p><a href="http://archive.fo/PsXnp">3–0 승</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/FC_서울" title="wikilink">서</a>: <a href="../Page/에두아르두_프란시스쿠_지_시우바_네투.md" title="wikilink">두두</a> (2), <a href="../Page/정조국.md" title="wikilink">정조국</a></p></td>
-<td><p>61,235명[17]</p></td>
+<td><p>61,235명[19]</p></td>
 <td><p><a href="../Page/최용수.md" title="wikilink">최용수</a> 은퇴식</p></td>
 </tr>
 <tr class="even">
@@ -1525,7 +1525,7 @@
 <small>(<a href="../Page/승부차기.md" title="wikilink">PSO</a> 2–1 승)</small></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/FC_서울" title="wikilink">서</a>: <a href="../Page/정조국.md" title="wikilink">정조국</a><br />
 <a href="../Page/로스앤젤레스_갤럭시.md" title="wikilink">로</a>: <a href="https://ko.wikipedia.org/wiki/:en:Alan_Gordon_(soccer)" title="wikilink">고든</a></p></td>
-<td><p>약 34,000명[18]</p></td>
+<td><p>약 34,000명[20]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1537,8 +1537,8 @@
 <td><p><a href="http://archive.fo/V98jy">1–1 무</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/FC_서울" title="wikilink">서</a>: <a href="https://ko.wikipedia.org/wiki/데얀_다미아노비치" title="wikilink">데얀</a><br />
 <a href="../Page/FC_도쿄.md" title="wikilink">도</a>: <a href="../Page/이베라우두_지_제수스_페헤이라.md" title="wikilink">까보레</a></p></td>
-<td><p>약 41,500명<ref>{{뉴스 인용|url=<a href="http://m.fcseoul.com/mobile/news_tv/fcnews_view.jsp?seq=1224&amp;tcd=news&amp;pg=1%7C저자=%7C제목=FC서울">http://m.fcseoul.com/mobile/news_tv/fcnews_view.jsp?seq=1224&amp;tcd=news&amp;pg=1|저자=|제목=FC서울</a>, FC도쿄와 사이 좋은 1대1 무승부</p></td>
-<td><p>출판사=FC서울 공식 웹사이트}}</ref></p></td>
+<td><p>약 41,500명[21]</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>13</p></td>
@@ -1559,12 +1559,12 @@
 <td><p>자선 경기</p></td>
 <td><p>2013-07-24</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/성남_FC" title="wikilink">성남 일화 천마</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/안성종합운동장" title="wikilink">N</a></p></td>
+<td><p><a href="../Page/안성종합운동장.md" title="wikilink">N</a></p></td>
 <td><p><a href="http://sports.news.naver.com/general/news/read.nhn?oid=076&amp;aid=0002352566">1–1 무</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/FC_서울" title="wikilink">서</a>: <a href="../Page/문동주.md" title="wikilink">문동주</a><br />
 <a href="https://ko.wikipedia.org/wiki/성남_FC" title="wikilink">성</a>: <a href="https://ko.wikipedia.org/wiki/정선호" title="wikilink">정선호</a></p></td>
-<td><p>9,725명<ref>{{뉴스 인용|url=<a href="http://www.besteleven.com/Country/news_01_view.asp?iBoard=6&amp;iIDX=56154%7C저자=%7C제목=프로축구">http://www.besteleven.com/Country/news_01_view.asp?iBoard=6&amp;iIDX=56154|저자=|제목=프로축구</a> 비(非) 연고지서 열린 K리그 클래식 성료</p></td>
-<td><p>출판사=베스트일레븐}}</ref></p></td>
+<td><p>9,725명[22]</p></td>
+<td><p><a href="../Page/K리그.md" title="wikilink">K리그</a> 비연고지 자선경기</p></td>
 </tr>
 <tr class="odd">
 <td><p>15</p></td>
@@ -1975,7 +1975,7 @@
 <tr class="even">
 <td><p>30</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/2002년_FIFA_월드컵" title="wikilink">2002 한일 월드컵</a><br />
-공동 개최 기념[19]</p></td>
+공동 개최 기념[23]</p></td>
 <td><p>1998-02-28</p></td>
 <td><p><a href="../Page/주빌로_이와타.md" title="wikilink">주빌로 이와타</a></p></td>
 <td><p><a href="../Page/시즈오카_시_시미즈_니혼다이라_운동_공원_구기장.md" title="wikilink">A</a></p></td>
@@ -2009,7 +2009,7 @@
 <tr class="odd">
 <td><p>33</p></td>
 <td><p>LG배<br />
-친선축구대회[20]</p></td>
+친선축구대회[24]</p></td>
 <td><p>1999-06-11</p></td>
 <td><p><a href="../Page/광저우_푸리.md" title="wikilink">선양 하이시</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/:en:Wulihe_Stadium" title="wikilink">A</a></p></td>
@@ -2043,7 +2043,7 @@
 <tr class="even">
 <td><p>36</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/:en:Matsumotodaira_Football_Stadium" title="wikilink">마쓰모토 종합경기장</a><br />
-개장 기념[21]</p></td>
+개장 기념[25]</p></td>
 <td><p>2001-05-27</p></td>
 <td><p><a href="../Page/요코하마_F._마리노스.md" title="wikilink">요코하마 F. 마리노스</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/:en:Matsumotodaira_Football_Stadium" title="wikilink">N</a></p></td>
@@ -2173,3 +2173,7 @@
 19.
 20.
 21.
+22.
+23.
+24.
+25.

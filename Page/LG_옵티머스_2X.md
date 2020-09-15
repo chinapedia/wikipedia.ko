@@ -5,7 +5,7 @@
 
 세계 최초로 듀얼코어 AP를 장착한 [안드로이드](../Page/안드로이드_\(운영_체제\).md "wikilink") [스마트폰](../Page/스마트폰.md "wikilink")으로, 개발코드명은 스타인 제품으로 2X로 펫네임이 확정되었으며\[2\] [엔가젯](../Page/엔가젯.md "wikilink")을 통해 프리뷰가 소개되었다.\[3\] 사용자들에게는 옵티머스 두배라는 이름으로 불리곤 한다.
 
-## 운영 체제
+## 운영 체제 / 소프트웨어
 
 최초의 옵티머스 2X는 [2.2프로요하탑](https://ko.wikipedia.org/wiki/안드로이드_버전_역사 "wikilink") 출시했다.
 
@@ -35,7 +35,7 @@
   - 브라우저에서 제대로 재생되지 않던 동영상들도 정상적으로 재생된다.
   - FLV 코덱을 포함한 몇몇 코덱은 재생이 안 되기 때문에 S/W 디코딩으로 해결할 수 밖에 없었다. H/W 디코딩에 비해 속도도 낮고 CPU 사용도 크다.
 
-## 기능
+## 특수 기능
 
 ### Q 메모
 
@@ -54,7 +54,7 @@ Q메모를 어느화면에서나 보며 이중플레이 할 수 있는 겹쳐사
 ## 경쟁 기종
 
   - [삼성 갤럭시 S2](https://ko.wikipedia.org/wiki/삼성_갤럭시_S2 "wikilink")
-  - [애플](https://ko.wikipedia.org/wiki/애플_\(기업\) "wikilink") [아이폰 4s](https://ko.wikipedia.org/wiki/아이폰_4s "wikilink")
+  - [애플](../Page/애플.md "wikilink") [아이폰 4s](https://ko.wikipedia.org/wiki/아이폰_4s "wikilink")
   - [팬택](../Page/팬택.md "wikilink") [베가 레이서](https://ko.wikipedia.org/wiki/베가_레이서 "wikilink")
   - [모토로라 아트릭스](../Page/모토로라_아트릭스.md "wikilink")
 

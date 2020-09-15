@@ -51,4 +51,6 @@
 
   - [한국경제TV 아프리카TV](http://player.afreeca.com/no1wowtv/91108131): [아프리카TV](../Page/아프리카TV.md "wikilink")
 
+  - [(단독) 오픈마켓 쇼핑정보 제출해야..."금융사업 안 하는데"/ 한국경제TV](https://www.youtube.com/watch?v=xumE25kSh_M&app=desktop&persist_app=1)
+
 [분류:1999년 설립된 기업](https://ko.wikipedia.org/wiki/분류:1999년_설립된_기업 "wikilink") [분류:대한민국의 텔레비전 케이블 방송국](https://ko.wikipedia.org/wiki/분류:대한민국의_텔레비전_케이블_방송국 "wikilink") [분류:대한민국의 디지털 멀티미디어 방송국](https://ko.wikipedia.org/wiki/분류:대한민국의_디지털_멀티미디어_방송국 "wikilink") [분류:경제 텔레비전 네트워크](https://ko.wikipedia.org/wiki/분류:경제_텔레비전_네트워크 "wikilink")

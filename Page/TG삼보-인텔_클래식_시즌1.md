@@ -139,7 +139,7 @@
 |        | [김동주](../Page/김동주_\(프로게이머\).md "wikilink")                        | 2      |
 |        | **김찬훈**                                                           | **2**  |
 |        | **[홍진호](../Page/홍진호.md "wikilink")**                              | **2**  |
-|        | **[김영민](https://ko.wikipedia.org/wiki/김영민 "wikilink")**           | *부전승*  |
+|        | **[김영민](../Page/김영민.md "wikilink")**                              | *부전승*  |
 
 ### 64강전
 

@@ -55,7 +55,7 @@
 
 :\*Produced, Composed by D.M
 
-9\. **개념 상실 (Oldboy part 2) (Feat. [Joe Brown](https://ko.wikipedia.org/wiki/조_브라운_\(힙합_음악가\) "wikilink"))** - [Onesun](https://ko.wikipedia.org/wiki/원썬 "wikilink")
+9\. **개념 상실 (Oldboy part 2) (Feat. [Joe Brown](https://ko.wikipedia.org/wiki/조_브라운_\(힙합_음악가\) "wikilink"))** - [Onesun](../Page/원썬.md "wikilink")
 
 :\*작사 : OneSun, Joe Brown
 

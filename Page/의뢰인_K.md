@@ -731,7 +731,7 @@ Yes or No</p></td>
 <tr class="odd">
 <td><p>강성범 · 박영린의<br />
 Yes or No</p></td>
-<td><p>더러움대 집착 - 어떤 것이 이혼사유</p></td>
+<td><p>더러움 대 집착 - 어떤 것이 이혼사유</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -836,7 +836,7 @@ Yes or No</p></td>
 <tr class="odd">
 <td><p>강성범 · 박영린의<br />
 Yes or No</p></td>
-<td><p>[연말 특집] 박수홍과 박영린대 강성범과 이지애 - 살벌한 연인들</p></td>
+<td><p>[연말 특집] 박수홍과 박영린 대 강성범과 이지애 - 살벌한 연인들</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -887,7 +887,7 @@ Yes or No</p></td>
 <tr class="odd">
 <td><p>강성범 · 박영린의<br />
 Yes or No</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/부동산" title="wikilink">부동산</a> 매매 계약의 취소가 가능한 것은</p></td>
+<td><p><a href="../Page/부동산.md" title="wikilink">부동산</a> 매매 계약의 취소가 가능한 것은</p></td>
 <td></td>
 </tr>
 <tr class="even">

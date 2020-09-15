@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [TBC 굿모닝뉴스](https://ko.wikipedia.org/wiki/TBC_굿모닝뉴스).
 
 
-《**TBC 굿모닝뉴스**》는 [대한민국](../Page/대한민국.md "wikilink") [TBC에서](../Page/TBC_\(대한민국의_방송사\).md "wikilink") 평일 아침 7시 5분에 방송되는 [TBC의](../Page/TBC_\(대한민국의_방송사\).md "wikilink") 아침뉴스 프로그램이다.
+《**TBC 굿모닝뉴스**》()는 [대한민국](../Page/대한민국.md "wikilink") [TBC에서](../Page/TBC_\(대한민국의_방송사\).md "wikilink") 평일 아침 7시 5분에 방송되는 [TBC의](../Page/TBC_\(대한민국의_방송사\).md "wikilink") 아침뉴스 프로그램이다.
 
 ## 방송 시간
 
@@ -65,7 +65,7 @@
 
 | 역대 | 타이틀       | 방송 기간                                                                                                                       |
 | -- | --------- | --------------------------------------------------------------------------------------------------------------------------- |
-| 1기 | TBC 뉴스 Q  | [1995년](../Page/1995년.md "wikilink") [5월 15일](../Page/5월_15일.md "wikilink") \~ [1999년](../Page/1999년.md "wikilink") 일자 미상   |
+| 1기 | TBC 뉴스 Q  | [1995년](../Page/1995년.md "wikilink") [5월 14일](../Page/5월_14일.md "wikilink") \~ [1999년](../Page/1999년.md "wikilink") 일자 미상   |
 | 2기 | TBC 아침뉴스  | [1999년](../Page/1999년.md "wikilink") 일자 미상 \~ [2014년](../Page/2014년.md "wikilink") [10월 25일](../Page/10월_25일.md "wikilink") |
 | 3기 | TBC 굿모닝뉴스 | [2014년](../Page/2014년.md "wikilink") [10월 27일](../Page/10월_27일.md "wikilink") \~ **현재**                                     |
 
@@ -93,4 +93,4 @@
   - [TBC 공식 홈페이지](http://www.tbc.co.kr)
   - [TBC 굿모닝뉴스 홈페이지](http://www.tbc.co.kr/tbc_news/n14_news_vod.html)
 
-[분류:대구방송의 뉴스 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:대구방송의_뉴스_텔레비전_프로그램 "wikilink") [분류:아침 정보 프로그램](https://ko.wikipedia.org/wiki/분류:아침_정보_프로그램 "wikilink")
+[분류:TBC의 뉴스 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:TBC의_뉴스_텔레비전_프로그램 "wikilink") [분류:아침 정보 프로그램](https://ko.wikipedia.org/wiki/분류:아침_정보_프로그램 "wikilink")

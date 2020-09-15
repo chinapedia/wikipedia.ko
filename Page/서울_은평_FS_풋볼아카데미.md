@@ -25,11 +25,13 @@
 
   - [주훈진](https://ko.wikipedia.org/wiki/주훈진 "wikilink") (서울 은평FS 유소년 감독)
 
-  - [박영재](../Page/박영재.md "wikilink") (現 풋살 국가대표)
+  - [박영재](../Page/박영재.md "wikilink") (前 풋살 국가대표)
 
   - [전원조](https://ko.wikipedia.org/wiki/전원조 "wikilink") (前 풋살 국가대표)
 
   - [이우진](https://ko.wikipedia.org/wiki/이우진 "wikilink") (前 풋살 국가대표)
+
+  - [이안](https://ko.wikipedia.org/wiki/이안_\(풋살_선수\) "wikilink") (前 풋살 국가대표)
 
 ## 코칭 스태프
 

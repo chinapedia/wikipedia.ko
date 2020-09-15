@@ -20,7 +20,7 @@
 <td><ul>
 <li>본명 : 김재중 (金在中)</li>
 <li>생년월일 : </li>
-<li>출생지 : <a href="../Page/대한민국.md" title="wikilink">대한민국</a> <a href="https://ko.wikipedia.org/wiki/충청남도" title="wikilink">충청남도</a> <a href="../Page/공주시.md" title="wikilink">공주시</a></li>
+<li>출생지 :  <a href="https://ko.wikipedia.org/wiki/충청남도" title="wikilink">충청남도</a> <a href="../Page/공주시.md" title="wikilink">공주시</a></li>
 <li>활동기간 : <a href="../Page/2010년.md" title="wikilink">2010년</a> <a href="../Page/10월_14일.md" title="wikilink">10월 14일</a> ~ 현재</li>
 </ul></td>
 </tr>
@@ -29,7 +29,7 @@
 <td><ul>
 <li>본명 : 김준수 (金俊秀)</li>
 <li>생년월일 : </li>
-<li>출생지 : <a href="../Page/대한민국.md" title="wikilink">대한민국</a> <a href="https://ko.wikipedia.org/wiki/경기도" title="wikilink">경기도</a> <a href="https://ko.wikipedia.org/wiki/고양시" title="wikilink">고양시</a></li>
+<li>출생지 :  <a href="https://ko.wikipedia.org/wiki/경기도" title="wikilink">경기도</a> <a href="https://ko.wikipedia.org/wiki/고양시" title="wikilink">고양시</a></li>
 <li>활동기간 : <a href="../Page/2010년.md" title="wikilink">2010년</a> <a href="../Page/10월_14일.md" title="wikilink">10월 14일</a> ~ 현재</li>
 </ul></td>
 </tr>
@@ -51,7 +51,7 @@
 <td><ul>
 <li>본명 : 박유천 (朴裕千)</li>
 <li>생년월일 : </li>
-<li>출생지 : <a href="../Page/대한민국.md" title="wikilink">대한민국</a> <a href="../Page/서울특별시.md" title="wikilink">서울특별시</a></li>
+<li>출생지 :  <a href="../Page/서울특별시.md" title="wikilink">서울특별시</a></li>
 <li>활동기간 : <a href="../Page/2010년.md" title="wikilink">2010년</a> <a href="../Page/10월_14일.md" title="wikilink">10월 14일</a> ~ <a href="../Page/2019년.md" title="wikilink">2019년</a> <a href="../Page/4월_23일.md" title="wikilink">4월 23일</a></li>
 </ul></td>
 </tr>
@@ -92,7 +92,7 @@
 
   -
 
-[JYJ](https://ko.wikipedia.org/wiki/분류:JYJ "wikilink") [분류:남성 듀오](https://ko.wikipedia.org/wiki/분류:남성_듀오 "wikilink") [분류:2010년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2010년_결성된_음악_그룹 "wikilink") [분류:대한민국의 팝 가수](https://ko.wikipedia.org/wiki/분류:대한민국의_팝_가수 "wikilink") [분류:한국어 가수](https://ko.wikipedia.org/wiki/분류:한국어_가수 "wikilink") [분류:일본어 가수](https://ko.wikipedia.org/wiki/분류:일본어_가수 "wikilink") [분류:한국어 음악 그룹](https://ko.wikipedia.org/wiki/분류:한국어_음악_그룹 "wikilink") [분류:영어 음악 그룹](https://ko.wikipedia.org/wiki/분류:영어_음악_그룹 "wikilink") [분류:대한민국의 팝 음악 그룹](https://ko.wikipedia.org/wiki/분류:대한민국의_팝_음악_그룹 "wikilink") [분류:2010년대 음악 그룹](https://ko.wikipedia.org/wiki/분류:2010년대_음악_그룹 "wikilink")
+[JYJ](https://ko.wikipedia.org/wiki/분류:JYJ "wikilink") [분류:남성 듀오](https://ko.wikipedia.org/wiki/분류:남성_듀오 "wikilink") [분류:2010년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2010년_결성된_음악_그룹 "wikilink") [분류:대한민국의 팝 가수](https://ko.wikipedia.org/wiki/분류:대한민국의_팝_가수 "wikilink") [분류:한국어 가수](https://ko.wikipedia.org/wiki/분류:한국어_가수 "wikilink") [분류:일본어 가수](https://ko.wikipedia.org/wiki/분류:일본어_가수 "wikilink") [분류:한국어 음악 그룹](https://ko.wikipedia.org/wiki/분류:한국어_음악_그룹 "wikilink") [분류:영어 음악 그룹](https://ko.wikipedia.org/wiki/분류:영어_음악_그룹 "wikilink") [분류:대한민국의 팝 음악 그룹](https://ko.wikipedia.org/wiki/분류:대한민국의_팝_음악_그룹 "wikilink") [분류:2인조 음악 그룹](https://ko.wikipedia.org/wiki/분류:2인조_음악_그룹 "wikilink") [분류:2010년대 음악 그룹](https://ko.wikipedia.org/wiki/분류:2010년대_음악_그룹 "wikilink")
 
 1.
 2.  ["JYJ, 日 에이벡스 상대 손배소 승소".](http://www.yonhapnews.co.kr/bulletin/2013/01/18/0200000000AKR20130118177700005.HTML?did=1179m) Yonhap News. 2013-01-18.

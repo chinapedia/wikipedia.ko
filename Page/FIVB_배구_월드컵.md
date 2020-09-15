@@ -235,7 +235,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/2019년_FIVB_여자_배구_월드컵" title="wikilink">2019년</a></p></td>
+<td><p><a href="../Page/2019년_FIVB_여자_배구_월드컵.md" title="wikilink">2019년</a></p></td>
 <td></td>
 <td></td>
 <td></td>

@@ -3,6 +3,8 @@
 
 **첼트넘 타운 FC**(Cheltenham Town Football Club)는 [잉글랜드](../Page/잉글랜드.md "wikilink") [글로스터셔주](../Page/글로스터셔주.md "wikilink") [첼트넘](../Page/첼트넘.md "wikilink")을 연고로 하는 축구 클럽이다.
 
+1887년 창단되었으며 1932년부터 현재까지 와던 로드를 홈구장으로 사용하고 있다. 라이벌팀은 [글로스터 시티와](https://ko.wikipedia.org/wiki/글로스터_시티_AFC "wikilink") [포리스트 그린 로버스이다](../Page/포리스트_그린_로버스_FC.md "wikilink").
+
 ## 성적
 
   - [FA 트로피](../Page/FA_트로피.md "wikilink") 우승 1회 (1998)

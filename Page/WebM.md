@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [WebM](https://ko.wikipedia.org/wiki/WebM).
 
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:WebM_logo.svg "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:Schlossbergbahn.webm "wikilink") **WebM**(웹엠)은 [로열티](https://ko.wikipedia.org/wiki/로열티 "wikilink") 비용이 없는 [개방형](https://ko.wikipedia.org/wiki/오픈_포맷 "wikilink") 고화질 [영상 압축](https://ko.wikipedia.org/wiki/영상_압축 "wikilink") [형식의](https://ko.wikipedia.org/wiki/파일_형식 "wikilink") 영상 포맷이며 [HTML5 비디오와](../Page/HTML5_비디오.md "wikilink") 함께 이용한다. 2010년 5월 19일에 처음 나왔으며\[1\] 이 프로젝트는 [구글](../Page/구글.md "wikilink")의 후원을 받아 개발된다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:Schlossbergbahn.webm "wikilink") **WebM**(웹엠)은 [로열티](https://ko.wikipedia.org/wiki/로열티 "wikilink") 비용이 없는 [개방형](https://ko.wikipedia.org/wiki/오픈_포맷 "wikilink") 고화질 [영상 압축](https://ko.wikipedia.org/wiki/영상_압축 "wikilink") [형식의](https://ko.wikipedia.org/wiki/파일_형식 "wikilink") 영상 포맷이며 [HTML5 비디오와](../Page/HTML5_비디오.md "wikilink") 함께 이용한다. 2010년 5월 19일에 처음 나왔으며\[1\] 이 프로젝트는 [구글](../Page/구글.md "wikilink")의 후원을 받아 개발된다.
 
 WebM 파일은 [VP8](https://ko.wikipedia.org/wiki/VP8 "wikilink") 비디오와 [Vorbis](../Page/Vorbis.md "wikilink") 오디오 스트림으로 이루어져 있으며, 2013년에  VP9 비디오와 Opus 오디오를 수용하는 것으로 갱신되었다. WebM 컨테이너는 [마트료시카](https://ko.wikipedia.org/wiki/마트료시카_\(포맷\) "wikilink") 프로파일에 기반을 둔다.\[2\]\[3\]\[4\]
 

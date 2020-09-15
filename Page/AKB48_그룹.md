@@ -49,7 +49,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/NGT48" title="wikilink">NGT48</a></p></td>
+<td><p><a href="../Page/NGT48.md" title="wikilink">NGT48</a></p></td>
 <td><p>2015년 6월 -</p></td>
 <td><p><a href="../Page/니가타시.md" title="wikilink">니가타시</a></p></td>
 <td><p>흰색과  빨간색</p></td>
@@ -223,7 +223,7 @@
 
 ## 각주
 
-### 각주
+### 내용주
 
 ### 출처
 
@@ -241,7 +241,7 @@
 
   - 각 그룹 공식 사이트
       - [AKB48](http://www.akb48.co.jp/)
-      - [SKE48](http://www.ske48.co.jp/)
+      - [SKE48](https://web.archive.org/web/20180826044825/http://www.ske48.co.jp/)
       - [NMB48](http://www.nmb48.com/)
       - [HKT48](http://www.hkt48.jp/)
       - [NGT48](http://ngt48.jp/)

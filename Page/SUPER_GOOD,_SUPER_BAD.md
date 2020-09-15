@@ -54,7 +54,7 @@
 5.  **산타 마리아 ()**
       - 작사 : zopp / 작곡 : Shusui, Thomas G:son, Andreas Rickstrand / 편곡 : CHOKKAKU
 6.  **데키아이ROBOT (ROBOT)**
-      - 작사 : Takuy​​a Harada, 카도노 히사토모 / 작곡 : Takuy​​a Harada, JUNKOO / 편곡 : 스즈키 마사야
+      - 작사 : Takuya Harada, 카도노 히사토모 / 작곡 : Takuya Harada, JUNKOO / 편곡 : 스즈키 마사야
 7.  **죄와 벌 ()**
       - 작사 : 마츠이 고로 / 작곡 : 세류게 겐사부로 / 편곡 : 마에지마 야스야키
 8.  '''입맞춤으로 아디오스 ()

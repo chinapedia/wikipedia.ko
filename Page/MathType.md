@@ -27,8 +27,8 @@
 
 [분류:수식 편집기](https://ko.wikipedia.org/wiki/분류:수식_편집기 "wikilink")
 
-1.  [1](http://dessci.com/en/company/press/releases/990426.htm), Design Science, May 4, 1999.
-2.  [2](http://dessci.com/en/company/press/releases/011008.htm), Design Science, October 8, 2001.
-3.  [3](http://dessci.com/en/company/press/releases/070912.htm), Design Science, September 12, 2007.
-4.  [4](http://dessci.com/en/company/press/releases/081202.htm), Design Science, December 2, 2008.
-5.  [5](http://dessci.com/en/company/press/releases/091217.htm), Design Science, December 17, 2009.
+1.  [1](http://dessci.com/en/company/press/releases/990426.htm) , Design Science, May 4, 1999.
+2.  [2](http://dessci.com/en/company/press/releases/011008.htm) , Design Science, October 8, 2001.
+3.  [3](http://dessci.com/en/company/press/releases/070912.htm) , Design Science, September 12, 2007.
+4.  [4](http://dessci.com/en/company/press/releases/081202.htm) , Design Science, December 2, 2008.
+5.  [5](http://dessci.com/en/company/press/releases/091217.htm) , Design Science, December 17, 2009.

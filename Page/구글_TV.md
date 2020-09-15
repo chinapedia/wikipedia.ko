@@ -23,7 +23,7 @@
 ## 한국 출시
 
   - [2012년](../Page/2012년.md "wikilink") [10월 16일](../Page/10월_16일.md "wikilink") : [대한민국](../Page/대한민국.md "wikilink")에서는 [LG유플러스](../Page/LG유플러스.md "wikilink")가 구글과 합작해 만든 'u+tv G'를 발표/출시했다.\[3\]\[4\]
-  - [2013년](../Page/2013년.md "wikilink") [1월 9일](../Page/1월_9일.md "wikilink") : LG유플러스는 IPTV와 구글TV를 하나로 묶은 'u+tv G' 서비스가 두달 반만에 10만 가입자를 돌파했다고 9일 밝혔다.\[5\]
+  - [2013년](../Page/2013년.md "wikilink") [1월 9일](../Page/1월_9일.md "wikilink") : LG유플러스는 IPTV와 구글TV를 하나로 묶은 'u+tv G' 서비스가 두달 반 만에 10만 가입자를 돌파했다고 9일 밝혔다.\[5\]
   - [2014년](../Page/2014년.md "wikilink") [9월 30일](../Page/9월_30일.md "wikilink") : LG유플러스가 4k UHD 방송을 제공하는 세계최초의 쿼드코어 UHD IPTV 'U+tv G 4K UHD'를 출시했다.
 
 ## 각주
@@ -40,6 +40,6 @@
 
 1.  [구글 TV 공식 블로그 2012년 CES](http://googletv.blogspot.kr/2012/01/from-las-vegas-strip-to-your-living.html)
 2.  [구글 TV 공식 블로그 2013년 CES](http://googletv.blogspot.kr/2013/01/bringing-more-entertainment-to-your-tv.html)
-3.  [유튜브를 TV로 본다…LGU+, 구글TV 출시(종합) - 연합뉴스](http://www.yonhapnews.co.kr/bulletin/2012/10/16/0200000000AKR20121016064251017.HTML)
-4.  ['U+TV G'가 구글TV 발전의 전환점 될 것 - 연합뉴스](http://www.yonhapnews.co.kr/economy/2012/10/16/0303000000AKR20121016149300017.HTML)
-5.  [LGU+, 구글TV 가입자 10만 돌파 - 중앙일보](http://money.joinsmsn.com/news/article/article.asp?total_id=10373884&ctg=1601)
+3.  [유튜브를 TV로 본다…LGU+, 구글TV 출시(종합)](https://www.yna.co.kr/view/AKR20121016064251017), 연합뉴스, 2012년 10월 16일.
+4.  ['U+TV G'가 구글TV 발전의 전환점 될 것](https://www.yna.co.kr/view/AKR20121016149300017), 연합뉴스, 2012년 10월 16일.
+5.  [LGU+, 구글TV 가입자 10만 돌파](https://news.joins.com/article/10373884), 중앙일보, 2013년 1월 9일.

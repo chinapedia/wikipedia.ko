@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [하로프로! TIME](https://ko.wikipedia.org/wiki/하로프로!_TIME).
 
 
-《**하로프로\! TIME**》()은 [2011년](../Page/2011년.md "wikilink") [4월 21일부터](../Page/4월_21일.md "wikilink") [2012년](../Page/2012년.md "wikilink") [5월 31일까지](../Page/5월_31일.md "wikilink") [TV 도쿄](../Page/TV_도쿄.md "wikilink") 계열에서 목요일 심야에 방송되고 있는 [헬로\! 프로젝트](../Page/헬로!_프로젝트.md "wikilink") 멤버 출연의 TV 프로그램이다.
+《**하로프로\! TIME**》()은 [2011년](../Page/2011년.md "wikilink") [4월 21일부터](../Page/4월_21일.md "wikilink") [2012년](../Page/2012년.md "wikilink") [5월 31일까지](../Page/5월_31일.md "wikilink") [TV 도쿄](../Page/TV_도쿄.md "wikilink") 계열에서 목요일 심야에 방송되었던 [헬로\! 프로젝트](../Page/헬로!_프로젝트.md "wikilink") 멤버 출연의 TV 프로그램이다.
 
 ## 개요
 

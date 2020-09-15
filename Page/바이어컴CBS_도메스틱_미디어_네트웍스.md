@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [바이어컴CBS 도메스틱 미디어 네트웍스](https://ko.wikipedia.org/wiki/바이어컴CBS_도메스틱_미디어_네트웍스).
 
 
-**바이어컴CBS 도메스틱 미디어 네트웍스**\[1\] ()는 1984년 미국 [바이어컴CBS](https://ko.wikipedia.org/wiki/바이어컴CBS "wikilink")가 운영하는 대중 매체 부서다. 2019년 재합병 전까지는 **바이어컴 미디어 네트웍스**()였으며, [CBS 코퍼레이션과](../Page/CBS_코퍼레이션.md "wikilink") [바이어컴](https://ko.wikipedia.org/wiki/바이어컴 "wikilink")의 재합병에 따라 현재의 이름으로 변경되었다.
+**바이어컴CBS 도메스틱 미디어 네트웍스**\[1\] ()는 1984년 미국 [바이어컴CBS](../Page/바이어컴CBS.md "wikilink")가 운영하는 대중 매체 부서다. 2019년 재합병 전까지는 **바이어컴 미디어 네트웍스**()였으며, [CBS 코퍼레이션과](../Page/CBS_코퍼레이션.md "wikilink") [바이어컴](https://ko.wikipedia.org/wiki/바이어컴 "wikilink")의 재합병에 따라 현재의 이름으로 변경되었다.
 
 ## 역사
 

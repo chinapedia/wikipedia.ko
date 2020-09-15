@@ -82,4 +82,4 @@
 
   - [공식 홈페이지](http://www.tbc.co.kr/tbc_dtv/dtv13_04.html)
 
-[분류:대구방송](https://ko.wikipedia.org/wiki/분류:대구방송 "wikilink") [분류:대한민국의 디지털 멀티미디어 방송국](https://ko.wikipedia.org/wiki/분류:대한민국의_디지털_멀티미디어_방송국 "wikilink") [분류:2008년 설립된 텔레비전 방송국과 채널](https://ko.wikipedia.org/wiki/분류:2008년_설립된_텔레비전_방송국과_채널 "wikilink")
+[분류:TBC](https://ko.wikipedia.org/wiki/분류:TBC "wikilink") [분류:대한민국의 디지털 멀티미디어 방송국](https://ko.wikipedia.org/wiki/분류:대한민국의_디지털_멀티미디어_방송국 "wikilink") [분류:2008년 설립된 텔레비전 방송국과 채널](https://ko.wikipedia.org/wiki/분류:2008년_설립된_텔레비전_방송국과_채널 "wikilink")

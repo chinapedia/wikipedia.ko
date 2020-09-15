@@ -12,7 +12,7 @@
 
 ### 평일
 
-  - [정윤성](https://ko.wikipedia.org/wiki/정윤성 "wikilink") 기자 (남)
+  - [이승환](https://ko.wikipedia.org/wiki/이승환 "wikilink") 편집팀장 (남)
   - [서주영](https://ko.wikipedia.org/wiki/서주영 "wikilink") 아나운서 (여)
 
 ### 주말

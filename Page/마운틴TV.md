@@ -7,9 +7,9 @@
 
 위성방송 330만, 케이블 1320만, IPTV 1,650만 총 3,300만 가구에 송출되고 있다.
 
-  - 위성방송 : KTskylife (123번)
+  - 위성방송 : KTskylife (122번)
   - IPTV : KT Olleh (127번), LG U+ (129번), SK Btv (247번)
-  - 케이블TV : LG헬로TV (257번), BTV 케이블 (149번), 딜라이브 (128번), 현대 HCN (523번), 남인천방송 (334번), ABN아름방송 (554번), CCS충북방송 (163번, SD 97번), KCTV광주방송 (187번), 금강방송 (785번), 푸른방송 (192번), 하나방송 (89번), 서경방송 (74번), JCN울산중앙방송 (153번), CMB방송 (81-3) [채널번호 안내](http://www.mountaintv.co.kr/web_kor/cate03/page01.php)
+  - 케이블TV : LG헬로TV (125번), BTV 케이블 (149번), 딜라이브 (128번), 현대 HCN (523번), 남인천방송 (334번), ABN아름방송 (554번), CCS충북방송 (163번), KCTV광주방송 (187번), 금강방송 (785번), 푸른방송 (192번), 하나방송 (89번), 서경방송 (74번), JCN울산중앙방송 (153번), CMB방송 (81-3) [채널번호 안내](http://www.mountaintv.co.kr/web_kor/cate03/page01.php)
   - 실시간TV (Web/Mobile) : [현대HCN](http://www.hcnmobile.tv/main/index.etv?mCate=all&sCate=all&chNum=337)
 
 그 외 컴시너지, GBUS, 얍TV, 연합뉴스와 업무제휴를 맺어 경기, 서울버스와 KTX 경부선ㆍ호남선, 서울\~인천국제공항 구간을 잇는 공항철도 등에서도 송출되고 있다.
@@ -30,12 +30,12 @@
   - UHD 마운틴 카약레이스
   - UHD 휴먼
   - TV여행 내 생애 값진 선택
-  - 1인칭 백패킹시점 1,2
+  - 1인칭 백패킹시점 시즌 1, 2
   - 드림걸즈
   - 힐링산책
   - 지구 반대편 낯선 여행가
   - Everyman Expedition
-  - 주말여행 산이 좋다
+  - 주말여행 산이 좋다 시즌 1, 2
   - 마운틴TV 특강 꿀단지
   - 내 생애 값진 선택 2
   - 산애진미
@@ -58,14 +58,14 @@
   - 고요한 침묵의 군주, 칸첸중가
   - 마운틴 스페셜
   - 고개너머 삶을 만나다
-  - 엄홍길과 함께하는 도전 16좌 시즌1, 2, 3
+  - 엄홍길과 함께하는 도전 16좌 시즌 1, 2, 3
   - 브라보 웰빙 라이프
   - 명산앨범
   - 마운틴View 시즌 1,2,3
   - 청춘, 거침없는 도전
   - 원더풀 아오모리 트레킹
   - 내 삶의 특별한 중국산 여행기
-  - 마운틴 월드 트레킹 시즌1, 2
+  - 마운틴 월드 트레킹 시즌 1, 2
   - 큐슈의 산
   - 지금 이 순간, 희말라야
   - 희망트레킹
@@ -74,7 +74,7 @@
   - 마운틴 중계석
   - 왕초보 레포츠 과외
   - 아웃도어스쿨
-  - The 클라이머 1,2
+  - The 클라이머 시즌 1,2
   - 문화트레킹
   - 산, 시 그리고 음악사이
   - 윤치술의 힐링산행
@@ -90,5 +90,6 @@
   - [마운틴TV Youtube](https://www.youtube.com/user/chmttv/)
   - [마운틴TV 네이버TV](http://tvcast.naver.com/mttv)
   - [마운틴TV 카카오TV](https://web.archive.org/web/20160616165725/http://tvpot.daum.net/mypot/Top.do?ownerid=a6K56nHOCs90)
+  - [마운틴TV 인스타그램](https://www.instagram.com/mountaintv_nature/)
 
 [분류:대한민국의 텔레비전 케이블 방송국](https://ko.wikipedia.org/wiki/분류:대한민국의_텔레비전_케이블_방송국 "wikilink") [분류:생활 텔레비전 네트워크](https://ko.wikipedia.org/wiki/분류:생활_텔레비전_네트워크 "wikilink")

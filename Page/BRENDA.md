@@ -27,7 +27,7 @@ BRENDA는 각기 [효소](../Page/효소.md "wikilink")에 다른 관점을 둔 
 
 ## 외부 링크
 
-  - [BRENDA](http://www.brenda-enzymes.info/)
+  - [BRENDA](https://web.archive.org/web/20111104081354/http://www.brenda-enzymes.info/)
 
 [분류:효소](https://ko.wikipedia.org/wiki/분류:효소 "wikilink") [분류:생물정보학 데이터베이스](https://ko.wikipedia.org/wiki/분류:생물정보학_데이터베이스 "wikilink") [분류:생물학 데이터베이스](https://ko.wikipedia.org/wiki/분류:생물학_데이터베이스 "wikilink")
 

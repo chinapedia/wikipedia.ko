@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [LAHAT](https://ko.wikipedia.org/wiki/LAHAT).
 
 
-**LAHAT**(Laser Homing Anti-Tank)은 이스라엘판 미니 헬파이어 미사일로서, 유효사거리 8km, 최대사거리 13 km인 레이저유도 대전차 미사일이다. 레이저유도라고 알려져 있는데도, [파이어 앤 포겟](https://ko.wikipedia.org/wiki/파이어_앤_포겟 "wikilink") 미사일로도 알려져 있다.
+**LAHAT**(Laser Homing Anti-Tank)은 이스라엘판 미니 [헬파이어 미사일로서](https://ko.wikipedia.org/wiki/헬파이어_미사일 "wikilink"), 유효사거리 8km, 최대사거리 13 km인 레이저유도 대전차 미사일이다. 레이저유도라고 알려져 있는데도, [파이어 앤 포겟](https://ko.wikipedia.org/wiki/파이어_앤_포겟 "wikilink") 미사일로도 알려져 있다.
 
 남아메리카 시장에서는 님로드-SR 미사일이라고 부른다. [님로드 미사일](https://ko.wikipedia.org/wiki/님로드_미사일 "wikilink") 참조.
 

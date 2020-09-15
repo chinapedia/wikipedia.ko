@@ -51,4 +51,4 @@
 
   - / [SME](../Page/소니_뮤직_엔터테인먼트.md "wikilink")
 
-[분류:핀란드의 록 밴드](https://ko.wikipedia.org/wiki/분류:핀란드의_록_밴드 "wikilink") [분류:1991년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:1991년_결성된_음악_그룹 "wikilink") [분류:1993년 해체된 음악 그룹](https://ko.wikipedia.org/wiki/분류:1993년_해체된_음악_그룹 "wikilink") [분류:2017년 해체된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2017년_해체된_음악_그룹 "wikilink") [분류:1995년 재결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:1995년_재결성된_음악_그룹 "wikilink")
+[분류:핀란드의 록 밴드](https://ko.wikipedia.org/wiki/분류:핀란드의_록_밴드 "wikilink") [분류:1991년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:1991년_결성된_음악_그룹 "wikilink") [분류:1993년 해체된 음악 그룹](https://ko.wikipedia.org/wiki/분류:1993년_해체된_음악_그룹 "wikilink") [분류:2017년 해체된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2017년_해체된_음악_그룹 "wikilink") [분류:1995년 재결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:1995년_재결성된_음악_그룹 "wikilink") [분류:버클리 음악 대학 동문](https://ko.wikipedia.org/wiki/분류:버클리_음악_대학_동문 "wikilink")

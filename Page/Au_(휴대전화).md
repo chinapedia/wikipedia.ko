@@ -37,7 +37,7 @@ au브랜드를 개발한 주식회사인 [ZYXYZ](https://ko.wikipedia.org/wiki/Z
       - [KDDI테크놀로지](https://ko.wikipedia.org/wiki/KDDI테크놀로지 "wikilink")
       - [HP재팬](https://ko.wikipedia.org/wiki/HP재팬 "wikilink")
   - 해외 메이커
-      - [애플](https://ko.wikipedia.org/wiki/애플_\(기업\) "wikilink")
+      - [애플](../Page/애플.md "wikilink")
       - [HTC](../Page/HTC_\(기업\).md "wikilink")
       - [삼성전자](https://ko.wikipedia.org/wiki/삼성전자 "wikilink")
       - [LG전자](../Page/LG전자.md "wikilink")

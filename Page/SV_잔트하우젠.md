@@ -7,12 +7,12 @@
 
   - [윤주태](https://ko.wikipedia.org/wiki/윤주태 "wikilink")(2013)
 
-  - [이명환](https://www.svs1916.de/nachwuchs/nachwuchsleistungszentrum/uebergangsbereich-u23/u23-team.html)(U23)
+  - [이명환](https://web.archive.org/web/20191219123311/https://www.svs1916.de/nachwuchs/nachwuchsleistungszentrum/uebergangsbereich-u23/u23-team.html)(U23)
 
 ## 외부 링크
 
   - [공식 홈페이지](http://www.svsandhausen.de/)
 
-  - [U23 공식 홈페이지](https://www.svs1916.de/nachwuchs/nachwuchsleistungszentrum/uebergangsbereich-u23/u23-team.html)
+  - [U23 공식 홈페이지](https://web.archive.org/web/20191219123311/https://www.svs1916.de/nachwuchs/nachwuchsleistungszentrum/uebergangsbereich-u23/u23-team.html)
 
 [SV_잔트하우젠](https://ko.wikipedia.org/wiki/분류:SV_잔트하우젠 "wikilink") [분류:1916년 설립된 축구단](https://ko.wikipedia.org/wiki/분류:1916년_설립된_축구단 "wikilink") [분류:독일의 축구단](https://ko.wikipedia.org/wiki/분류:독일의_축구단 "wikilink") [분류:바덴뷔르템베르크주의 축구단](https://ko.wikipedia.org/wiki/분류:바덴뷔르템베르크주의_축구단 "wikilink")

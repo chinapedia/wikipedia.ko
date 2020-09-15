@@ -16,7 +16,7 @@
 
   - [KBS 제1라디오 아침종합뉴스](../Page/KBS_제1라디오_아침종합뉴스.md "wikilink")
   - [KBS 제2라디오 아침종합뉴스](../Page/KBS_제2라디오_아침종합뉴스.md "wikilink")
-  - [MBC 아침종합뉴스](https://ko.wikipedia.org/wiki/MBC_아침종합뉴스 "wikilink")
+  - [MBC 아침종합뉴스](../Page/MBC_아침종합뉴스.md "wikilink")
 
 ## 같이 보기
 

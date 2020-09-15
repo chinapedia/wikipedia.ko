@@ -5,8 +5,4 @@
 
 ## 수록곡
 
-## 외부 링크
-
 [분류:2012년 음반](https://ko.wikipedia.org/wiki/분류:2012년_음반 "wikilink") [분류:2012년 EP](https://ko.wikipedia.org/wiki/분류:2012년_EP "wikilink") [분류:스피카의 음반](https://ko.wikipedia.org/wiki/분류:스피카의_음반 "wikilink") [분류:한국어 음반](https://ko.wikipedia.org/wiki/분류:한국어_음반 "wikilink") [분류:대한민국의 팝 음반](https://ko.wikipedia.org/wiki/분류:대한민국의_팝_음반 "wikilink") [분류:카카오엠 음반](https://ko.wikipedia.org/wiki/분류:카카오엠_음반 "wikilink")
-
-[zh:Russian Roulette\#Painkiller](https://ko.wikipedia.org/wiki/zh:Russian_Roulette#Painkiller "wikilink")

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [틀:KBS 2TV](https://ko.wikipedia.org/wiki/틀:KBS_2TV).
 
 
-<onlyinclude>{{둘러보기 상자 |이름 = KBS 2TV |제목 = [50px](https://ko.wikipedia.org/wiki/파일:KBS2_logo_\(White\).svg "wikilink") \[\[한국방송공사의_텔레비전_프로그램|</onlyinclude>
+<onlyinclude></onlyinclude>
 
 ## 설명
 

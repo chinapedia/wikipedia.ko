@@ -196,6 +196,6 @@
 
 ## 참조
 
-[분류:축구 노래‎](https://ko.wikipedia.org/wiki/분류:축구_노래‎ "wikilink") [분류:FC 바이에른 뮌헨](https://ko.wikipedia.org/wiki/분류:FC_바이에른_뮌헨 "wikilink")
+[분류:축구 노래](https://ko.wikipedia.org/wiki/분류:축구_노래 "wikilink") [분류:FC 바이에른 뮌헨](https://ko.wikipedia.org/wiki/분류:FC_바이에른_뮌헨 "wikilink")
 
 1.  [Stern des Südens - Meisterfeier Bayern München 2008](https://www.youtube.com/watch?v=gd9Q-LhIbrQ)

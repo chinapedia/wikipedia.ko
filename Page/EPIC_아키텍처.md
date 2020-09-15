@@ -7,7 +7,7 @@
 
 ## 각주
 
-[분류:컴퓨터 구조](https://ko.wikipedia.org/wiki/분류:컴퓨터_구조 "wikilink")
+[분류:컴퓨터 구조](https://ko.wikipedia.org/wiki/분류:컴퓨터_구조 "wikilink") [분류:명령어 처리](https://ko.wikipedia.org/wiki/분류:명령어_처리 "wikilink")
 
 1.
 2.

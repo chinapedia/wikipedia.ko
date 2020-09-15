@@ -7,7 +7,7 @@
 
 ### TV 드라마
 
-  - [배트맨](../Page/배트맨_\(드라마\).md "wikilink")(1966) - [프랭크 고신](https://ko.wikipedia.org/wiki/프랭크_고신 "wikilink")(1시즌과 3시즌), [존 애스틴](https://ko.wikipedia.org/wiki/존_애스틴 "wikilink")(2시즌)
+  - [배트맨](../Page/배트맨_\(드라마\).md "wikilink")(1966) - [프랭크 고신](https://ko.wikipedia.org/wiki/프랭크_고신 "wikilink")(1시즌과 3시즌), [존 애스틴](../Page/존_애스틴.md "wikilink")(2시즌)
   - [고담](https://ko.wikipedia.org/wiki/고담_\(드라마\) "wikilink")(2014) - [코리 마이클 스미스](https://ko.wikipedia.org/wiki/코리_마이클_스미스 "wikilink")
 
 ### 영화
@@ -19,7 +19,7 @@
 
 ### TV 애니메이션
 
-  - [배트맨](../Page/배트맨_\(애니메이션\).md "wikilink")(1992) - [헨리 실바](https://ko.wikipedia.org/wiki/헨리_실바 "wikilink")
+  - [배트맨](../Page/배트맨_\(애니메이션\).md "wikilink")(1992) - [헨리 실바](../Page/헨리_실바.md "wikilink")
   - [더 배트맨](https://ko.wikipedia.org/wiki/더_배트맨 "wikilink")(2004) - [조아킹 드 알메이다](https://ko.wikipedia.org/wiki/조아킹_드_알메이다 "wikilink"), [론 펄먼](../Page/론_펄먼.md "wikilink"), [클랜시 브라운](https://ko.wikipedia.org/wiki/클랜시_브라운 "wikilink")
   - [배트맨 더 브레이브](../Page/배트맨_더_브레이브.md "wikilink")(2008) - [마이클 돈](https://ko.wikipedia.org/wiki/마이클_돈 "wikilink")
   - [영 저스티스](https://ko.wikipedia.org/wiki/영_저스티스 "wikilink")(2010) - [대니 트레호](https://ko.wikipedia.org/wiki/대니_트레호 "wikilink")

@@ -41,4 +41,4 @@
 
 [분류:2009년 싱글](https://ko.wikipedia.org/wiki/분류:2009년_싱글 "wikilink") [분류:더 하이에이터스의 음반](https://ko.wikipedia.org/wiki/분류:더_하이에이터스의_음반 "wikilink") [분류:2009년 EP](https://ko.wikipedia.org/wiki/분류:2009년_EP "wikilink")
 
-1.  마지막에 마침표까지 포함한 'BALCOLONY.'가 아티스트 이름입니다.
+1.  마지막에 마침표까지 포함한 'BALCOLONY.'가 아티스트 이름이다.

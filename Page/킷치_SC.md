@@ -91,6 +91,6 @@
 
 ## 외부 링크
 
-  - [킷치 공식 홈페이지](http://www.kitchee.com/)
+  - [킷치 공식 홈페이지](https://web.archive.org/web/20200705120139/https://kitchee.com/)
 
 [분류:1931년 설립된 축구단](https://ko.wikipedia.org/wiki/분류:1931년_설립된_축구단 "wikilink") [분류:홍콩의 축구팀](https://ko.wikipedia.org/wiki/분류:홍콩의_축구팀 "wikilink") [분류:킷치](https://ko.wikipedia.org/wiki/분류:킷치 "wikilink")

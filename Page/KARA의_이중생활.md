@@ -38,7 +38,7 @@
 
 ## 외부 링크
 
-  - [URAKARA](http://www.tv-tokyo.co.jp/urakara/index.html) - [TV도쿄](https://ko.wikipedia.org/wiki/TV도쿄 "wikilink")
+  - [URAKARA](https://web.archive.org/web/20110118085037/http://www.tv-tokyo.co.jp/urakara/index.html) - [TV도쿄](https://ko.wikipedia.org/wiki/TV도쿄 "wikilink")
 
   - [KARA의 이중생활](http://www.chtvn.com/DM/kara/) - [tvN](https://ko.wikipedia.org/wiki/tvN "wikilink")
 

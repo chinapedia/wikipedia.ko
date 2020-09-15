@@ -17,32 +17,32 @@
 <tr class="odd">
 <td><p><a href="../Page/SBS_러브FM.md" title="wikilink">SBS 러브FM</a></p></td>
 <td><p><a href="../Page/1991년.md" title="wikilink">1991년</a> <a href="../Page/3월_20일.md" title="wikilink">3월 20일</a> ~ <a href="../Page/1991년.md" title="wikilink">1991년</a> <a href="../Page/6월_1일.md" title="wikilink">6월 1일</a></p></td>
-<td><p>월~토요일 낮 12:00 ~ 낮 12:30 (30분)</p></td>
+<td><p>월요일 ~ 토요일 낮 12:00 ~ 낮 12:30 (30분)</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/1991년.md" title="wikilink">1991년</a> <a href="../Page/6월_3일.md" title="wikilink">6월 3일</a> ~ <a href="../Page/1997년.md" title="wikilink">1997년</a> <a href="../Page/6월_29일.md" title="wikilink">6월 29일</a></p></td>
-<td><p>월~토요일 낮 12:00 ~ 낮 12:20 (20분),<br />
+<td><p>월요일 ~ 토요일 낮 12:00 ~ 낮 12:20 (20분)<br />
 일요일 낮 12:00 ~ 낮 12:10 (10분)</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/1997년.md" title="wikilink">1997년</a> <a href="../Page/6월_30일.md" title="wikilink">6월 30일</a> ~ <a href="../Page/1998년.md" title="wikilink">1998년</a> <a href="../Page/12월_31일.md" title="wikilink">12월 31일</a></p></td>
-<td><p>월~토요일 오전 11:30 ~ 낮 12:00 (30분)</p></td>
+<td><p>월요일 ~ 토요일 오전 11:30 ~ 낮 12:00 (30분)</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/1999년.md" title="wikilink">1999년</a> <a href="../Page/1월_1일.md" title="wikilink">1월 1일</a> ~ <a href="../Page/1999년.md" title="wikilink">1999년</a> <a href="../Page/9월_10일.md" title="wikilink">9월 10일</a></p></td>
-<td><p>월~토요일 오전 11:40 ~ 낮 12:00 (20분)</p></td>
+<td><p>월요일 ~ 토요일 오전 11:40 ~ 낮 12:00 (20분)</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/1999년.md" title="wikilink">1999년</a> <a href="../Page/9월_11일.md" title="wikilink">9월 11일</a> ~ <a href="../Page/2003년.md" title="wikilink">2003년</a> <a href="../Page/4월_5일.md" title="wikilink">4월 5일</a></p></td>
-<td><p>월~토요일 낮 12:00 ~ 낮 12:20 (20분)</p></td>
+<td><p>월요일 ~ 토요일 낮 12:00 ~ 낮 12:20 (20분)</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/2003년.md" title="wikilink">2003년</a> <a href="../Page/4월_7일.md" title="wikilink">4월 7일</a> ~ <a href="../Page/2017년.md" title="wikilink">2017년</a> <a href="../Page/8월_31일.md" title="wikilink">8월 31일</a></p></td>
-<td><p>평일 낮 12:00 ~ 낮 12:20 (20분),<br />
+<td><p>평일 낮 12:00 ~ 낮 12:20 (20분)<br />
 주말 낮 12:00 ~ 낮 12:10 (10분)</p></td>
 <td></td>
 </tr>

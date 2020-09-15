@@ -5,9 +5,7 @@
 
 {{-}}
 
-## 연혁(S 클래스 전신)
-
-### W128/W180
+## 1세대 (W128/W180)
 
 [오른쪽](https://ko.wikipedia.org/wiki/파일:Mercedes-Benz_W121_front_20090204.jpg "wikilink") [오른쪽](https://ko.wikipedia.org/wiki/파일:Mercedes-Benz_W121_rear_20090204.jpg "wikilink")
 
@@ -15,7 +13,7 @@
 
 {{-}}
 
-### W111/W112
+## 2세대 (W111/W112)
 
 [오른쪽](https://ko.wikipedia.org/wiki/파일:Mercedes-Benz_220S_\(W_111\)_01.JPG "wikilink") [오른쪽](https://ko.wikipedia.org/wiki/파일:Mercedes-Benz_220S_\(W_111\)_02.JPG "wikilink")
 
@@ -25,7 +23,7 @@
 
 {{-}}
 
-### W108/W109
+## 3세대 (W108/W109)
 
 [오른쪽](https://ko.wikipedia.org/wiki/파일:Mercedes_Benz_W108_250SE_Automatic_Front.jpg "wikilink") [오른쪽](https://ko.wikipedia.org/wiki/파일:Mercedes_Benz_W108_250SE_Automatic_Heck.jpg "wikilink")
 
@@ -33,9 +31,7 @@
 
 {{-}}
 
-## 연혁(S 클래스)
-
-### 1세대(W116)
+## 4세대(W116)
 
 [오른쪽](https://ko.wikipedia.org/wiki/파일:1973-1980_Mercedes-Benz_450_SEL_\(V_116\)_sedan_\(2010-12-28\)_01.jpg "wikilink") [오른쪽](https://ko.wikipedia.org/wiki/파일:1973-1980_Mercedes-Benz_450_SEL_\(V_116\)_sedan_\(2010-12-28\)_02.jpg "wikilink")
 
@@ -43,7 +39,7 @@ S 클래스라는 차명이 처음 적용되었으며, [1972년](../Page/1972년
 
 {{-}}
 
-### 2세대(W126)
+## 5세대(W126)
 
 [오른쪽](https://ko.wikipedia.org/wiki/파일:Mercedes-Benz_W126_front_20080820.jpg "wikilink") [오른쪽](https://ko.wikipedia.org/wiki/파일:Mercedes-Benz_W126_rear_20080820.jpg "wikilink")
 
@@ -53,7 +49,7 @@ S 클래스라는 차명이 처음 적용되었으며, [1972년](../Page/1972년
 
 {{-}}
 
-### 3세대(W140)
+## 6세대(W140)
 
 [오른쪽](https://ko.wikipedia.org/wiki/파일:1992_Mercedes-Benz_500_SEL_\(V_140\)_sedan_\(2015-07-24\)_01.jpg "wikilink") [오른쪽](https://ko.wikipedia.org/wiki/파일:1992_Mercedes-Benz_500_SEL_\(V_140\)_sedan_\(2015-07-24\)_02.jpg "wikilink")
 
@@ -63,7 +59,7 @@ S 클래스라는 차명이 처음 적용되었으며, [1972년](../Page/1972년
 
 {{-}}
 
-### 4세대(W220)
+## 7세대(W220)
 
 [오른쪽](https://ko.wikipedia.org/wiki/파일:2001_Mercedes-Benz_S_430_\(W_220\)_sedan_\(2010-09-23\)_01.jpg "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:2001_Mercedes-Benz_S_430_\(W_220\)_sedan_\(2010-09-23\)_02.jpg "wikilink")
 
@@ -73,7 +69,7 @@ S 클래스라는 차명이 처음 적용되었으며, [1972년](../Page/1972년
 
 {{-}}
 
-### 5세대(W221)
+## 8세대(W221)
 
 [오른쪽](https://ko.wikipedia.org/wiki/파일:20100902_mercedes-benz_s-class_1.jpg "wikilink") [오른쪽](https://ko.wikipedia.org/wiki/파일:20100902_mercedes-benz_s-class_2.jpg "wikilink")
 
@@ -83,15 +79,15 @@ S 클래스라는 차명이 처음 적용되었으며, [1972년](../Page/1972년
 
 {{-}}
 
-### 6세대(W222)
+## 9세대(W222)
 
-[대체글=](https://ko.wikipedia.org/wiki/파일:Mercedes-AMG_S_65_Final_Edition_Genf_2019_1Y7A5720.jpg "wikilink") [대체글=](https://ko.wikipedia.org/wiki/파일:Mercedes-AMG_S_65_Final_Edition_Genf_2019_1Y7A5717.jpg "wikilink") [2013년](../Page/2013년.md "wikilink") [5월 2일에](../Page/5월_2일.md "wikilink") 인터넷에 사진이 정식으로 공개되었으며, 이후 [프랑스](../Page/프랑스.md "wikilink")의 항공 업체인 [에어버스](../Page/에어버스.md "wikilink") 사의 조립 공장이 위치한 [독일](../Page/독일.md "wikilink") [함부르크](../Page/함부르크.md "wikilink") 교외에서 신차 발표회를 가져 판매를 시작했다. 당시 [메르세데스-벤츠](../Page/메르세데스-벤츠.md "wikilink")에서는 수공 고급 브랜드인 [마이바흐](https://ko.wikipedia.org/wiki/마이바흐 "wikilink")가 단종되어 공백을 채워줄 차종이 절실했고, 세계 최고의 자동차라는 목표를 통해 이를 채울 차종으로 선보였다. 귀족의 이미지를 그대로 유지하여 [메르세데스-벤츠](../Page/메르세데스-벤츠.md "wikilink") 플래그십의 정통성을 강조하였다. 실용화된 린번 터보 차저를 V8 4.7ℓ 가솔린 엔진에 장착하고, V6 3.0ℓ 디젤 엔진, V6 3.5ℓ 가솔린 엔진([하이브리드](../Page/하이브리드_\(동력\).md "wikilink")) 등 3가지 엔진을 장착한 트림이 [독일](../Page/독일.md "wikilink")에서 판매 중이다. 유로 6 기준의 배기 가스 배출 기준을 충족시켰으며, 신기술도 대거 도입되었다. 이 중 매직 바디 컨트롤은 컴포트와 스포트 모드 중 한 가지를 선택하여 세계 최초로 주행 속도에 따라 자동으로 서스펜션으로 전고를 조절하는 기술이다. 또한 브레이크 어시스트 플러스 시스템은 기존 BAS 기능에 더하여 차량에 장착된 센서와 스테레오 카메라를 통해 교차로에 진입하는 차량이나 보행자, 자전거까지도 인식하여 브레이크를 밟았을 때 전방의 물체와 충돌을 최대한 피할 수 있도록 브레이크압을 이상적인 수준으로 보조하는 기능이다. 스포츠 트림인 S63 AMG는 V8 5.5ℓ 가솔린 트윈 터보 엔진을 장착하여 정지 상태에서 100km/h까지 도달하는 시간인 제로백은 고작 4초에 불과하다. 여기에 역대 S 클래스 AMG 트림 역사상 최초로 [4륜구동](../Page/4륜구동.md "wikilink")을 장착하여 주행성능을 높였다. 3세대부터 한동안 [CL 클래스로](https://ko.wikipedia.org/wiki/메르세데스-벤츠_CL_클래스 "wikilink") 독립되었던 쿠페는 다시 S 클래스로 통합되었다. [카브라올레도](../Page/컨버터블.md "wikilink") 최초로 선보였다. [대한민국](../Page/대한민국.md "wikilink")에는 [2013년](../Page/2013년.md "wikilink") [11월 27일에](../Page/11월_27일.md "wikilink") [서울특별시](../Page/서울특별시.md "wikilink") [마포구](../Page/마포구.md "wikilink") [성산동에](../Page/성산동_\(서울\).md "wikilink") 위치한 [월드컵 공원](https://ko.wikipedia.org/wiki/월드컵_공원 "wikilink") 내 평화 광장에서 신차 발표회를 주최해 본격적인 판매에 들어갔으며, [대한민국](../Page/대한민국.md "wikilink")에서 판매하는 트림은 [2014년 1월](../Page/2014년_1월.md "wikilink") 기준으로 S350 블루텍, S350L 블루텍(리어 뷰 카메라 추가 사양), S350L 블루텍, S500L, S500L 4 매틱, S500L 에디션 1(500대 한정), S63 AMG L 4 매틱이다. [대한민국](../Page/대한민국.md "wikilink")에 선보이기 앞서, 같은 달 25일에는 [일본](../Page/일본.md "wikilink") [도쿄 모터쇼에서](https://ko.wikipedia.org/wiki/도쿄_모터쇼 "wikilink") S 클래스 AMG의 끝판왕인 S65 AMG가 선보였는데, V12 6.0ℓ 가솔린 트윈 터보 630마력의 엔진을 장착하고, S63 AMG에 비해 더욱 강렬한 인상을 지녔다. [2014년 1월에](../Page/2014년_1월.md "wikilink") 열린 [디트로이트 모터쇼에서](https://ko.wikipedia.org/wiki/디트로이트_모터쇼 "wikilink") S 클래스의 최고급 트림인 S600L이 공개되었으며, 최대 토크 84.6kg.m을 자랑하는 530마력의 V12 6.0ℓ 가솔린 트윈 터보 엔진을 장착했다. S600L과 S65 AMG는 [2014년](../Page/2014년.md "wikilink")에 [독일](../Page/독일.md "wikilink")에서 선보였으며, [대한민국](../Page/대한민국.md "wikilink")에서는 이 중 S600L만 우선 수입되었다. 6세대부터 V12 엔진에도 7단 [자동변속기](../Page/자동변속기.md "wikilink")가 장착되며, AMG는 V8 엔진과 V12 엔진 모두 7단 멀티 클러치 [자동변속기](../Page/자동변속기.md "wikilink")가 달린다. 5세대 S 클래스부터 선보여 [메르세데스-벤츠](../Page/메르세데스-벤츠.md "wikilink")의 다른 차종에 확대된 컬럼 시프트 타입 [자동변속기](../Page/자동변속기.md "wikilink")를 여전히 고수하고 있다. 기존의 [마이바흐](https://ko.wikipedia.org/wiki/마이바흐 "wikilink")를 대체하기 위해 [2014년 11월에](../Page/2014년_11월.md "wikilink") 정식 공개된 메르세데스-마이바흐 S 클래스는 기존 S 클래스보다 더 길게 만들고, 부분적으로 [마이바흐](https://ko.wikipedia.org/wiki/마이바흐 "wikilink") 고유의 특징을 살리기 위해 재디자인되었다. [2016년 5월부터](https://ko.wikipedia.org/wiki/2016년_5월 "wikilink") [대한민국](../Page/대한민국.md "wikilink")에서도 S65 AMG가 공식 수입된다. [쿠페](../Page/쿠페.md "wikilink")와 [카브라올레는](../Page/컨버터블.md "wikilink") AMG 사양만 들여온다. [2017년](../Page/2017년.md "wikilink")에 페이스 리프트를 거치며 [메르세데스-벤츠 E 클래스에](../Page/메르세데스-벤츠_E_클래스.md "wikilink") 적용된 멀티빔 LED을 적용했다. 하지만 이제s클라스의 최상위 버전인 s65는 final edition을 끝으로 이제 더이상 나오지 않을 예정이다
+[대체글=](https://ko.wikipedia.org/wiki/파일:Mercedes-AMG_S_65_Final_Edition_Genf_2019_1Y7A5720.jpg "wikilink") [대체글=](https://ko.wikipedia.org/wiki/파일:Mercedes-AMG_S_65_Final_Edition_Genf_2019_1Y7A5717.jpg "wikilink") [2013년](../Page/2013년.md "wikilink") [5월 2일에](../Page/5월_2일.md "wikilink") 인터넷에 사진이 정식으로 공개되었으며, 이후 [프랑스](../Page/프랑스.md "wikilink")의 항공 업체인 [에어버스](../Page/에어버스.md "wikilink") 사의 조립 공장이 위치한 [독일](../Page/독일.md "wikilink") [함부르크](../Page/함부르크.md "wikilink") 교외에서 신차 발표회를 가져 판매를 시작했다. 당시 [메르세데스-벤츠](../Page/메르세데스-벤츠.md "wikilink")에서는 수공 고급 브랜드인 [마이바흐](https://ko.wikipedia.org/wiki/마이바흐 "wikilink")가 단종되어 공백을 채워줄 차종이 절실했고, 세계 최고의 자동차라는 목표를 통해 이를 채울 차종으로 선보였다. 귀족의 이미지를 그대로 유지하여 [메르세데스-벤츠](../Page/메르세데스-벤츠.md "wikilink") 플래그십의 정통성을 강조하였다. 실용화된 린번 터보 차저를 V8 4.7ℓ 가솔린 엔진에 장착하고, V6 3.0ℓ 디젤 엔진, V6 3.5ℓ 가솔린 엔진([하이브리드](../Page/하이브리드_\(동력\).md "wikilink")) 등 3가지 엔진을 장착한 트림이 [독일](../Page/독일.md "wikilink")에서 판매 중이다. 유로 6 기준의 배기 가스 배출 기준을 충족시켰으며, 신기술도 대거 도입되었다. 이 중 매직 바디 컨트롤은 컴포트와 스포트 모드 중 한 가지를 선택하여 세계 최초로 주행 속도에 따라 자동으로 서스펜션으로 전고를 조절하는 기술이다. 또한 브레이크 어시스트 플러스 시스템은 기존 BAS 기능에 더하여 차량에 장착된 센서와 스테레오 카메라를 통해 교차로에 진입하는 차량이나 보행자, 자전거까지도 인식하여 브레이크를 밟았을 때 전방의 물체와 충돌을 최대한 피할 수 있도록 브레이크압을 이상적인 수준으로 보조하는 기능이다. 스포츠 트림인 S63 AMG는 V8 5.5ℓ 가솔린 트윈 터보 엔진을 장착하여 정지 상태에서 100km/h까지 도달하는 시간인 제로백은 고작 4초에 불과하다. 여기에 역대 S 클래스 AMG 트림 역사상 최초로 [4륜구동](../Page/4륜구동.md "wikilink")을 장착하여 주행성능을 높였다. 3세대부터 한동안 [CL 클래스로](https://ko.wikipedia.org/wiki/메르세데스-벤츠_CL_클래스 "wikilink") 독립되었던 쿠페는 다시 S 클래스로 통합되었다. [카브라올레도](../Page/컨버터블.md "wikilink") 최초로 선보였다. [대한민국](../Page/대한민국.md "wikilink")에는 [2013년](../Page/2013년.md "wikilink") [11월 27일에](../Page/11월_27일.md "wikilink") [서울특별시](../Page/서울특별시.md "wikilink") [마포구](../Page/마포구.md "wikilink") [성산동에](../Page/성산동_\(서울\).md "wikilink") 위치한 [월드컵 공원](https://ko.wikipedia.org/wiki/월드컵_공원 "wikilink") 내 평화 광장에서 신차 발표회를 주최해 본격적인 판매에 들어갔으며, [대한민국](../Page/대한민국.md "wikilink")에서 판매하는 트림은 [2014년 1월](../Page/2014년_1월.md "wikilink") 기준으로 S350 블루텍, S350L 블루텍(리어 뷰 카메라 추가 사양), S350L 블루텍, S500L, S500L 4 매틱, S500L 에디션 1(500대 한정), S63 AMG L 4 매틱이다. [대한민국](../Page/대한민국.md "wikilink")에 선보이기 앞서, 같은 달 25일에는 [일본](../Page/일본.md "wikilink") [도쿄 모터쇼에서](https://ko.wikipedia.org/wiki/도쿄_모터쇼 "wikilink") S 클래스 AMG의 끝판왕인 S65 AMG가 선보였는데, V12 6.0ℓ 가솔린 트윈 터보 630마력의 엔진을 장착하고, S63 AMG에 비해 더욱 강렬한 인상을 지녔다. [2014년 1월에](../Page/2014년_1월.md "wikilink") 열린 [디트로이트 모터쇼에서](https://ko.wikipedia.org/wiki/디트로이트_모터쇼 "wikilink") S 클래스의 최고급 트림인 S600L이 공개되었으며, 최대 토크 84.6kg.m을 자랑하는 530마력의 V12 6.0ℓ 가솔린 트윈 터보 엔진을 장착했다. S600L과 S65 AMG는 [2014년](../Page/2014년.md "wikilink")에 [독일](../Page/독일.md "wikilink")에서 선보였으며, [대한민국](../Page/대한민국.md "wikilink")에서는 이 중 S600L만 우선 수입되었다. 6세대부터 V12 엔진에도 7단 [자동변속기](../Page/자동변속기.md "wikilink")가 장착되며, AMG는 V8 엔진과 V12 엔진 모두 7단 멀티 클러치 [자동변속기](../Page/자동변속기.md "wikilink")가 달린다. 5세대 S 클래스부터 선보여 [메르세데스-벤츠](../Page/메르세데스-벤츠.md "wikilink")의 다른 차종에 확대된 컬럼 시프트 타입 [자동변속기](../Page/자동변속기.md "wikilink")를 여전히 고수하고 있다. 기존의 [마이바흐](https://ko.wikipedia.org/wiki/마이바흐 "wikilink")를 대체하기 위해 [2014년 11월에](../Page/2014년_11월.md "wikilink") 정식 공개된 메르세데스-마이바흐 S 클래스는 기존 S 클래스보다 더 길게 만들고, 부분적으로 [마이바흐](https://ko.wikipedia.org/wiki/마이바흐 "wikilink") 고유의 특징을 살리기 위해 재디자인되었다. [2016년 5월부터](https://ko.wikipedia.org/wiki/2016년_5월 "wikilink") [대한민국](../Page/대한민국.md "wikilink")에서도 S65 AMG가 공식 수입된다. [쿠페](../Page/쿠페.md "wikilink")와 [카브라올레는](../Page/컨버터블.md "wikilink") AMG 사양만 들여온다. [2017년](../Page/2017년.md "wikilink")에 페이스 리프트를 거치며 [메르세데스-벤츠 E 클래스에](../Page/메르세데스-벤츠_E_클래스.md "wikilink") 적용된 멀티빔 LED을 적용했다. 이와 동시에 엔진이 대거 교체되었다. S350d와 S400d는 3.0 직렬 6기통 디젤 엔진, S500은 S560으로 V8 4.0 가솔린 트윈터보, AMG S63은 V8 4.0 트윈터보로 교체되었다. S클라스의 최고성능 버전인 AMG S65는 환경규제 강화로 인해 마이바흐 S클래스에만 V12를 탑재할 계획으로, final edition을 끝으로 이제 더이상 나오지 않을 예정이다.
 
 파일:Mercedes-Maybach S 500 4MATIC (X 222) – Frontansicht, 14. September 2015, Münster.jpg|메르세데스-마이바흐 S 클래스 정측면 파일:Mercedes-Maybach S 500 4MATIC (X 222) – Heckansicht, 14. September 2015, Münster.jpg|메르세데스-마이바흐 S 클래스 후측면 파일:Mercedes-Benz S63 AMG 4MATIC long (V222) front.JPG|메르세데스-벤츠 S63 AMG 정측면 파일:Mercedes-Benz S63 AMG 4MATIC long (V222) rear.JPG|메르세데스-벤츠 S63 AMG 후측면 파일:Osaka Motor Show 2013 (164) Mercedes-Benz S65 AMG long (V222).JPG|메르세데스-벤츠 S65 L AMG 정측면 파일:Osaka Motor Show 2013 (165) Mercedes-Benz S65 AMG long (V222).JPG|메르세데스-벤츠 S65 L AMG 후측면 파일:Mercedes-Benz C217 fr.jpg|메르세데스-벤츠 S 클래스 쿠페 정측면 파일:Mercedes-Benz C217 rr.jpg|메르세데스-벤츠 S 클래스 쿠페 후측면 파일:Mercedes-Benz S 63 Cabrio - przód (MSP16).jpg|메르세데스-AMG S63 카브리올레 정측면 파일:Mercedes-Benz S 63 Cabrio - tył (MSP16).jpg|메르세데스-AMG S63 카브리올레 후측면
 
-### 7세대
+## 10세대(W223)
 
-{{-}}
+2020년 9월 2일에 공개될 예정이다. 물리적인 버튼은 많이 사라지고, 터치패드는 MBUX가 탑재된 터치스크린으로 바뀌고, 오토플러시 도어 핸들이 벤츠 최초로 적용된다. 생산은 2020년 9월에 완공 예정인 진델핑겐의 팩토리 56에서 생산한다. 모든 엔진에 EQ 부스트를 탑재할 계획이다. 쿠페는 없어지고, 카브리올레는 AMG가 개발중인 SL에 통합된다. {{-}}
 
 ## 경쟁 차량
 

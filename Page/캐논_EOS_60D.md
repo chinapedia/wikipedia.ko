@@ -39,7 +39,7 @@
 
 ## 외부 링크
 
-  - [dpreview.com의 EOS 60D 리뷰](http://www.dpreview.com/reviews/canoneos60D/)
+  - [dpreview.com의 EOS 60D 리뷰](https://web.archive.org/web/20101121054412/http://www.dpreview.com/reviews/canoneos60D/)
 
   - [캐논코리아 60D 공식 안내 사이트](https://web.archive.org/web/20110227094301/http://www.canon-ci.co.kr/actions/ProductMainAction?cmd=view&product_code=NPAB796721)
 

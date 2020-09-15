@@ -18,6 +18,9 @@
   - [부치 리드](https://ko.wikipedia.org/wiki/부치_리드 "wikilink")
   - [캔디스 미쉘](https://ko.wikipedia.org/wiki/캔디스_미쉘 "wikilink")
   - [차보 게레로](../Page/차보_게레로.md "wikilink")
+  - [루크 갤로웨이](../Page/드루_핸킨슨.md "wikilink")
+  - [칼 앤더슨](https://ko.wikipedia.org/wiki/칼_앤더슨_\(남자_프로레슬링선수\) "wikilink")
+  - [EC3](../Page/마이클_허터.md "wikilink")
   - [체리](https://ko.wikipedia.org/wiki/체리 "wikilink")
   - [크리스 매스터스](https://ko.wikipedia.org/wiki/크리스_매스터스 "wikilink")
   - [데이비드 하트 스미스](../Page/데이비드_하트_스미스.md "wikilink")
@@ -120,11 +123,13 @@
   - [애쉴리](https://ko.wikipedia.org/wiki/애쉴리_마사로 "wikilink")
   - [켈리 켈리](https://ko.wikipedia.org/wiki/켈리_켈리 "wikilink")
   - [이브 토레스](https://ko.wikipedia.org/wiki/이브_토레스 "wikilink")
+  - 디오나 퍼라조
   - [제프 제럿](https://ko.wikipedia.org/wiki/제프_제럿 "wikilink")
   - [렉스 루거](https://ko.wikipedia.org/wiki/렉스_루거 "wikilink")
   - [알베르토 델 리오](../Page/알베르토_델_리오.md "wikilink")
   - [잭 스웨거](../Page/잭_스웨거.md "wikilink")
   - [스캇 홀](https://ko.wikipedia.org/wiki/스캇_홀 "wikilink")
+  - [에릭 영](../Page/에릭_영_\(프로레슬링_선수\).md "wikilink")
   - [홍키 통크 맨](../Page/홍키_통크_맨.md "wikilink")
   - [레일라 엘](https://ko.wikipedia.org/wiki/레일라_엘 "wikilink")
   - [앤드류 마틴](https://ko.wikipedia.org/wiki/앤드류_마틴 "wikilink")
@@ -146,4 +151,4 @@
 
   - [WWE 동창생 홈페이지](http://www.wwe.com/superstars/wwealumni/)
 
-[동창생](https://ko.wikipedia.org/wiki/분류:WWE "wikilink") [분류:프로레슬링 선수‎ 목록](https://ko.wikipedia.org/wiki/분류:프로레슬링_선수‎_목록 "wikilink")
+[동창생](https://ko.wikipedia.org/wiki/분류:WWE "wikilink") [분류:프로레슬링 선수 목록](https://ko.wikipedia.org/wiki/분류:프로레슬링_선수_목록 "wikilink")

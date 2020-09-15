@@ -55,10 +55,6 @@ DJ Lip 2 Shot</p></td>
 </tbody>
 </table>
 
-## 각주
-
-<references/>
-
 [JJ_프로젝트](https://ko.wikipedia.org/wiki/분류:JJ_프로젝트 "wikilink") [분류:남성 듀오](https://ko.wikipedia.org/wiki/분류:남성_듀오 "wikilink") [분류:대한민국의 보이 밴드](https://ko.wikipedia.org/wiki/분류:대한민국의_보이_밴드 "wikilink") [분류:한국어 음악 그룹](https://ko.wikipedia.org/wiki/분류:한국어_음악_그룹 "wikilink") [분류:대한민국의 댄스 음악 그룹](https://ko.wikipedia.org/wiki/분류:대한민국의_댄스_음악_그룹 "wikilink") [분류:JYP 엔터테인먼트 소속](https://ko.wikipedia.org/wiki/분류:JYP_엔터테인먼트_소속 "wikilink") [분류:유닛 음악 그룹](https://ko.wikipedia.org/wiki/분류:유닛_음악_그룹 "wikilink") [분류:2012년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2012년_결성된_음악_그룹 "wikilink")
 
 1.

@@ -27,7 +27,7 @@
   - RX-0 [유니콘 건담](../Page/유니콘_건담.md "wikilink")
   - F91 [건담 F91](https://ko.wikipedia.org/wiki/포뮬러_계획#건담_F91 "wikilink")
   - FA-010S [풀 아머 ΖΖ건담](https://ko.wikipedia.org/wiki/ΖΖ건담#풀_아머_ΖΖ건담 "wikilink")\[4\]
-  - ZGMF-X10A [프리덤 건담](https://ko.wikipedia.org/wiki/프리덤_건담 "wikilink")
+  - ZGMF-X10A [프리덤 건담](../Page/프리덤_건담.md "wikilink")
   - RX-78-2 [건담](https://ko.wikipedia.org/wiki/건담_\(가공의_병기\) "wikilink")
   - FF-X7 [코어·파이터](https://ko.wikipedia.org/wiki/코어·파이터 "wikilink")\[5\]
   - SCV-70 [화이트 베이스](../Page/화이트_베이스.md "wikilink")\[6\]

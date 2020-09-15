@@ -13,7 +13,7 @@
 
 ## 외부 링크
 
-  - [The Mach project at Carnegie Mellon](http://www-2.cs.cmu.edu/afs/cs/project/mach/public/www/mach.html)
+  - [The Mach project at Carnegie Mellon](https://web.archive.org/web/20111026141559/http://www-2.cs.cmu.edu/afs/cs/project/mach/public/www/mach.html)
 
 [분류:마이크로커널](https://ko.wikipedia.org/wiki/분류:마이크로커널 "wikilink") [분류:카네기 멜런 대학교](https://ko.wikipedia.org/wiki/분류:카네기_멜런_대학교 "wikilink")
 

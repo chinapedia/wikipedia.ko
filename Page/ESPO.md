@@ -23,7 +23,7 @@
 
   - [The Oil pipeline system Eastern Siberia-Pacific Ocean](https://web.archive.org/web/20061004021842/http://www.transneft.ru/Projects/Default.asp?LANG=EN), Transneft website
 
-[분류:송유관](https://ko.wikipedia.org/wiki/분류:송유관 "wikilink")
+[분류:러시아의 파이프라인](https://ko.wikipedia.org/wiki/분류:러시아의_파이프라인 "wikilink") [분류:송유관](https://ko.wikipedia.org/wiki/분류:송유관 "wikilink") [분류:시베리아의 에너지](https://ko.wikipedia.org/wiki/분류:시베리아의_에너지 "wikilink")
 
 1.
 2.

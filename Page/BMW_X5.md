@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [BMW X5](https://ko.wikipedia.org/wiki/BMW_X5).
 
 
-**BMW X5**는 독일의 고급 자동차 회사인 [BMW](../Page/BMW.md "wikilink")의 준대형 [SUV이며](../Page/스포츠_유틸리티_자동차.md "wikilink"), BMW에서 최초로 만든 SUV로, [1990년대](../Page/1990년대.md "wikilink")에 세계적으로 SUV 붐이 일자 BMW도 X5를 출시하면서 여기에 가세했다. [미국](../Page/미국.md "wikilink") [사우스캐롤라이나주](../Page/사우스캐롤라이나주.md "wikilink") [스파턴버그](https://ko.wikipedia.org/wiki/스파턴버그 "wikilink") 현지 공장에서 생산된다.
+**BMW X5**는 독일의 고급 자동차 회사인 [BMW](../Page/BMW.md "wikilink")의 준대형 [SUV이다](../Page/스포츠_유틸리티_자동차.md "wikilink").
 
 ## 1세대(E53)
 
 [right](https://ko.wikipedia.org/wiki/파일:BMW_E53_front_20080524.jpg "wikilink") [right](https://ko.wikipedia.org/wiki/파일:BMW_E53_rear_20080524.jpg "wikilink")
 
-[1999년](../Page/1999년.md "wikilink")에 출시되어 [5 시리즈(E39)의](https://ko.wikipedia.org/wiki/BMW_5_시리즈#4세대\(E39\) "wikilink") 플랫폼을 기반으로 만들어진 1세대 X5는 오프로드 엔진 관리 시스템과 같은 첨단 장비와 [내비게이션](https://ko.wikipedia.org/wiki/내비게이션 "wikilink") 같은 편의 장비가 구축되어 전 세계에서 인기를 끌었다. 이는 당시 판매되고 있던 [메르세데스-벤츠 M 클래스(W163)와](https://ko.wikipedia.org/wiki/메르세데스-벤츠_M_클래스#1세대\(W163\) "wikilink") 대조되는 모습이다. 한때 [BMW](../Page/BMW.md "wikilink") 산하에 있었던 [랜드로버 레인지 로버의](../Page/랜드로버_레인지_로버.md "wikilink") 영향을 받아 2중으로 열리는 클램 쉘 방식의 테일 게이트를 달았다. [2004년](../Page/2004년.md "wikilink")에 약간의 페이스 리프트를 거쳐 일부 디자인이 바뀌었다.
+[1990년대](../Page/1990년대.md "wikilink")에 세계적으로 SUV 붐이 일자 BMW도 첫번째 SUV를 만들어보기로 하고, 그리하여 [1999년](../Page/1999년.md "wikilink")에 출시되어 [5 시리즈(E39)의](https://ko.wikipedia.org/wiki/BMW_5_시리즈#4세대\(E39\) "wikilink") 플랫폼을 기반으로 만들어진 1세대 X5는 오프로드 엔진 관리 시스템과 같은 첨단 장비와 [내비게이션](https://ko.wikipedia.org/wiki/내비게이션 "wikilink") 같은 편의 장비가 구축되어 전 세계에서 인기를 끌었다. 이는 당시 판매되고 있던 [메르세데스-벤츠 M 클래스(W163)와](https://ko.wikipedia.org/wiki/메르세데스-벤츠_M_클래스#1세대\(W163\) "wikilink") 대조되는 모습이다. 한때 [BMW](../Page/BMW.md "wikilink") 산하에 있었던 [랜드로버 레인지 로버의](../Page/랜드로버_레인지_로버.md "wikilink") 영향을 받아 2중으로 열리는 클램 쉘 방식의 테일 게이트를 달았다. [2004년](../Page/2004년.md "wikilink")에 약간의 페이스 리프트를 거쳐 일부 디자인이 바뀌었다.
 
 파일:BMW E53 front 20090104.jpg|BMW X5(후기형) 정측면 파일:BMW E53 rear 20090104.jpg|BMW X5(후기형) 후측면
 

@@ -29,7 +29,7 @@ app.MainLoop()
 
 ## wxPython으로 개발된 응용 프로그램
 
-  - [비트토렌트](https://ko.wikipedia.org/wiki/비트토렌트 "wikilink")
+  - [비트토렌트](../Page/비트토렌트.md "wikilink")
   - [챈들러](https://ko.wikipedia.org/wiki/챈들러_\(소프트웨어\) "wikilink")
   - [드롭박스](../Page/드롭박스.md "wikilink")
   - [Phatch](https://ko.wikipedia.org/wiki/Phatch "wikilink")

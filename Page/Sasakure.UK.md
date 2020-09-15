@@ -5,7 +5,7 @@
 
 ## 개요
 
-[SF](https://ko.wikipedia.org/wiki/SF "wikilink")와 [우화](https://ko.wikipedia.org/wiki/우화 "wikilink")를 자신의 작품세계의 근간으로 삼고 있고 [칩튠](../Page/칩튠.md "wikilink")계 음악으로 활동 하고 있으며 뿐만 아니라 [도트 그림](https://ko.wikipedia.org/wiki/도트_그림 "wikilink") 애니메이션 아트워크에서도 활동하고 있다\[1\].[동영상 공유 사이트](https://ko.wikipedia.org/wiki/동영상_공유_사이트 "wikilink") [니코니코 동화](../Page/니코니코_동화.md "wikilink") 등지에서 [보컬로이드](../Page/보컬로이드.md "wikilink")를 사용한 작품을 발표하고 있는데, 이 작품들에 대해 「보컬로이드에서만 표현할 수 있는 음악과 표현법」이라 평가받고 있다\[2\]. 또 이 사람이 작품에 크게 영향을 받은 작가로 [미야자와 겐지](https://ko.wikipedia.org/wiki/미야자와_겐지 "wikilink"), [호시 신이치](../Page/호시_신이치.md "wikilink"), [테즈카 오사무가](https://ko.wikipedia.org/wiki/테즈카_오사무 "wikilink") 있다\[3\].
+[SF](https://ko.wikipedia.org/wiki/SF "wikilink")와 [우화](https://ko.wikipedia.org/wiki/우화 "wikilink")를 자신의 작품세계의 근간으로 삼고 있고 [칩튠](../Page/칩튠.md "wikilink")계 음악으로 활동 하고 있으며 뿐만 아니라 [도트 그림](https://ko.wikipedia.org/wiki/도트_그림 "wikilink") 애니메이션 아트워크에서도 활동하고 있다\[1\].[동영상 공유 사이트](https://ko.wikipedia.org/wiki/동영상_공유_사이트 "wikilink") [니코니코 동화](../Page/니코니코_동화.md "wikilink") 등지에서 [보컬로이드](../Page/보컬로이드.md "wikilink")를 사용한 작품을 발표하고 있는데, 이 작품들에 대해 「보컬로이드에서만 표현할 수 있는 음악과 표현법」이라 평가받고 있다\[2\]. 또 이 사람이 작품에 크게 영향을 받은 작가로 [미야자와 겐지](../Page/미야자와_겐지.md "wikilink"), [호시 신이치](../Page/호시_신이치.md "wikilink"), [테즈카 오사무가](https://ko.wikipedia.org/wiki/테즈카_오사무 "wikilink") 있다\[3\].
 
 2010년 3월 3일에는 조인트 레코드에서 앨범 『ボーカロイドは終末鳥の夢を見るか？』을 발매했다\[4\]. [크립톤](../Page/크립톤.md "wikilink") 퓨쳐 미디어사에서 [하츠네 미쿠](../Page/하츠네_미쿠.md "wikilink") 등의 보컬로이드 작품 개발을 맡은 사사키 와타루는『ボーカロイドは終末鳥の夢を見るか？』앨범에 대해 "목소리 조각이 보컬로이드로 저장된 후, 무엇을 잃고 어떤 매력을 얻는것인가, 사랑의 말에 의식이 깃들어 있는가. sasakure.UK씨의 음악 세계는 팝의 진지함의 보컬로이드에 있어서 소중한 무언가를 가르쳐줍니다"이라 발언한 바 있다\[5\]. 2010년 3월 25일에 발매한 [플레이스테이션 포터블용](../Page/플레이스테이션_포터블.md "wikilink") 리듬액션게임 [하츠네 미쿠 -Project DIVA-](../Page/하츠네_미쿠_-Project_DIVA-.md "wikilink") 추가 다운로드 콘텐츠『미쿠의 노래, 어서 와』에서 sasakure.UK의 「\*헬로, 플라넷」의 PV을 기반으로 제작된 미니게임이 수록되어 있다\[6\].
 
@@ -58,7 +58,7 @@
       - 코스모드 라이버 (cosMo&히게드 라이버)의 앨범. 북 클립 디자인을 맡음.
   - 《[하츠네 미쿠 DVD \~impacts\~](https://ko.wikipedia.org/wiki/하츠네_미쿠_DVD_~impacts~ "wikilink")》 (도완고 뮤직 엔터테인먼트 2010년 2월 10일)
       - 하츠네 미쿠 관련 작품 PV집. 「＊헬로, 플래닛.」을 제공.
-  - 《미쿠의 노래, 어서와》 ([세가](https://ko.wikipedia.org/wiki/세가 "wikilink"), 2010년 3월 25일 발매)
+  - 《미쿠의 노래, 어서와》 ([세가](../Page/세가.md "wikilink"), 2010년 3월 25일 발매)
       - [플레이스테이션 포터블용](../Page/플레이스테이션_포터블.md "wikilink") 리듬액션게임 『[하츠네 미쿠 -Project DIVA-](../Page/하츠네_미쿠_-Project_DIVA-.md "wikilink")』의 추가 [다운로드 콘텐츠](https://ko.wikipedia.org/wiki/다운로드_콘텐츠 "wikilink"). 「\*헬로, 플래닛」의 PV을 기반으로 제작된 액션 게임이 수록. 리듬게임 용 곡으로도 수록되어 있다. 게임에서도 sasakure.UK 자신이 설정과 캐릭터 디자인, BGM 등의 감독을 맡았다.\[9\]
   - 《[Sabin Sound Star](https://ko.wikipedia.org/wiki/Sabin_Sound_Star "wikilink")》
   - 《[EZ2DJ](https://ko.wikipedia.org/wiki/EZ2DJ "wikilink")》

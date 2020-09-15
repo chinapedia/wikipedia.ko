@@ -109,6 +109,6 @@
 
 ## 외부 링크
 
-  - [K짱 NEWS](http://www.joqr.co.jp/reco/programs/knews.html)
+  - [K짱 NEWS](https://web.archive.org/web/20120825181127/http://www.joqr.co.jp/reco/programs/knews.html)
 
 [분류:분카 방송의 라디오 프로그램](https://ko.wikipedia.org/wiki/분류:분카_방송의_라디오_프로그램 "wikilink") [분류:NEWS](https://ko.wikipedia.org/wiki/분류:NEWS "wikilink")

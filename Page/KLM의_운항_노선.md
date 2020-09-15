@@ -124,7 +124,7 @@
       - [카디프](../Page/카디프.md "wikilink") - [카디프 공항](https://ko.wikipedia.org/wiki/카디프_공항 "wikilink")
       - [험버사이드](https://ko.wikipedia.org/wiki/험버사이드 "wikilink") - [험버사이드 공항](https://ko.wikipedia.org/wiki/험버사이드_공항 "wikilink")
   - ****
-      - [파리](https://ko.wikipedia.org/wiki/파리 "wikilink") - [파리 샤를 드 골 국제공항](https://ko.wikipedia.org/wiki/파리_샤를_드_골_국제공항 "wikilink") **에어프랑스 허브공항**
+      - [파리](https://ko.wikipedia.org/wiki/파리 "wikilink") - [파리 샤를 드 골 국제공항](https://ko.wikipedia.org/wiki/파리_샤를_드_골_국제공항 "wikilink")
       - [낭트](../Page/낭트.md "wikilink") - [낭트 아틀랑티크 공항](https://ko.wikipedia.org/wiki/낭트_아틀랑티크_공항 "wikilink")
       - [니스](../Page/니스_\(프랑스\).md "wikilink") - [니스 코트다쥐르 공항](../Page/니스_코트다쥐르_공항.md "wikilink")
       - [리옹](../Page/리옹.md "wikilink") - [생텍쥐페리 국제공항](../Page/생텍쥐페리_국제공항.md "wikilink")
@@ -154,7 +154,7 @@
 
   - ****
 
-      - [암스테르담](../Page/암스테르담.md "wikilink") - [암스테르담 스키폴 국제공항](https://ko.wikipedia.org/wiki/암스테르담_스키폴_국제공항 "wikilink") **KLM 허브공항**
+      - [암스테르담](../Page/암스테르담.md "wikilink") - [암스테르담 스키폴 국제공항](https://ko.wikipedia.org/wiki/암스테르담_스키폴_국제공항 "wikilink") **허브**
       - [로테르담](../Page/로테르담.md "wikilink") - [로테르담 국제공항](https://ko.wikipedia.org/wiki/로테르담_국제공항 "wikilink")
 
   - ****

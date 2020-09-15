@@ -15,11 +15,11 @@
 
 ## 연혁
 
-  - [1956년](../Page/1956년.md "wikilink") [11월](../Page/11월.md "wikilink"): [서울](../Page/서울특별시.md "wikilink") [중구](../Page/중구_\(서울특별시\).md "wikilink") [명동](../Page/명동.md "wikilink")에서 신향피아노사 설립
+  - [1956년](../Page/1956년.md "wikilink") [11월](../Page/11월.md "wikilink"): [서울특별시](../Page/서울특별시.md "wikilink") [중구](../Page/중구_\(서울특별시\).md "wikilink") [명동](../Page/명동.md "wikilink")에서 신향피아노사 설립
   - [1962년](../Page/1962년.md "wikilink") [9월](../Page/9월.md "wikilink"): 영창악기제조주식회사로 법인전환
-  - [1964년](../Page/1964년.md "wikilink") [2월](../Page/2월.md "wikilink"): [서울](../Page/서울특별시.md "wikilink") [영등포구](../Page/영등포구.md "wikilink") [대림동](../Page/대림동_\(서울\).md "wikilink")(당시 [신도림동](../Page/신도림동.md "wikilink"))에 공장 설립
+  - [1964년](../Page/1964년.md "wikilink") [2월](../Page/2월.md "wikilink"): [서울특별시](../Page/서울특별시.md "wikilink") [영등포구](../Page/영등포구.md "wikilink") [대림동](../Page/대림동_\(서울\).md "wikilink")(당시 [신도림동](../Page/신도림동.md "wikilink"))에 공장 설립
   - [1971년](../Page/1971년.md "wikilink") [4월](../Page/4월.md "wikilink"): 자체브랜드 [피아노](../Page/피아노.md "wikilink") 수출 개시
-  - [1979년](../Page/1979년.md "wikilink") [11월](../Page/11월.md "wikilink"): [인천](https://ko.wikipedia.org/wiki/인천 "wikilink") 북구(현 [서구](../Page/서구_\(인천광역시\).md "wikilink")) [가좌동에](../Page/가좌동_\(인천\).md "wikilink") 악기공장 설립
+  - [1979년](../Page/1979년.md "wikilink") [11월](../Page/11월.md "wikilink"): [인천광역시](https://ko.wikipedia.org/wiki/인천광역시 "wikilink") 북구(현 [서구](../Page/서구_\(인천광역시\).md "wikilink")) [가좌동에](../Page/가좌동_\(인천\).md "wikilink") 악기공장 설립
   - [1984년](../Page/1984년.md "wikilink") [6월](../Page/6월.md "wikilink"): [대한민국](../Page/대한민국.md "wikilink") 악기업계 최초로 기업공개
   - [1987년](../Page/1987년.md "wikilink") [5월](../Page/5월.md "wikilink"): [JIS](https://ko.wikipedia.org/wiki/JIS "wikilink")(일본공업규격) 표시 승인 획득
   - [1990년](../Page/1990년.md "wikilink") [6월](../Page/6월.md "wikilink"): [커즈와일 뮤직 시스템스](https://ko.wikipedia.org/wiki/커즈와일_뮤직_시스템스 "wikilink") 인수

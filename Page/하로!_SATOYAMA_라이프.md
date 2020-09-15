@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [하로! SATOYAMA 라이프](https://ko.wikipedia.org/wiki/하로!_SATOYAMA_라이프).
 
 
-《**하로\! SATOYAMA 라이프**》()은 [2012년](../Page/2012년.md "wikilink") [6월 7일부터](../Page/6월_7일.md "wikilink") [2013년](../Page/2013년.md "wikilink") [12월 26일까지](../Page/12월_26일.md "wikilink") [TV 도쿄](../Page/TV_도쿄.md "wikilink") 계열에서 목요일 심야에 방송되고 있는 [헬로\! 프로젝트](../Page/헬로!_프로젝트.md "wikilink") 멤버 출연의 TV 프로그램이다.
+《**하로\! SATOYAMA 라이프**》()은 [2012년](../Page/2012년.md "wikilink") [6월 7일부터](../Page/6월_7일.md "wikilink") [2013년](../Page/2013년.md "wikilink") [12월 26일까지](../Page/12월_26일.md "wikilink") [TV 도쿄](../Page/TV_도쿄.md "wikilink") 계열에서 목요일 심야에 방송되었던 [헬로\! 프로젝트](../Page/헬로!_프로젝트.md "wikilink") 멤버 출연의 TV 프로그램이다.
 
 ## 개요
 
@@ -65,8 +65,8 @@
   - 하로\! SATOYAMA 라이프 Vol.18 (2013년 [12월 18일](../Page/12월_18일.md "wikilink"))
   - 하로\! SATOYAMA 라이프 Vol.19 (2014년 [2월 5일](../Page/2월_5일.md "wikilink"))
   - 하로\! SATOYAMA 라이프 Vol.20 (2014년 [2월 5일](../Page/2월_5일.md "wikilink"))
-  - 하로\! SATOYAMA 라이프 Vol.21 (2014년 [2월 26일](https://ko.wikipedia.org/wiki/2월_26일 "wikilink"))
-  - 하로\! SATOYAMA 라이프 Vol.22 (2014년 [2월 26일](https://ko.wikipedia.org/wiki/2월_26일 "wikilink"))
+  - 하로\! SATOYAMA 라이프 Vol.21 (2014년 [2월 26일](../Page/2월_26일.md "wikilink"))
+  - 하로\! SATOYAMA 라이프 Vol.22 (2014년 [2월 26일](../Page/2월_26일.md "wikilink"))
   - 하로\! SATOYAMA 라이프 Vol.23 (2014년 [3월 19일](../Page/3월_19일.md "wikilink"))
   - 하로\! SATOYAMA 라이프 Vol.24 (2014년 [3월 19일](../Page/3월_19일.md "wikilink"))
   - 하로\! SATOYAMA 라이프 Vol.25 (2014년 [5월 14일](../Page/5월_14일.md "wikilink"))

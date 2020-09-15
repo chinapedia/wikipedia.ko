@@ -33,8 +33,6 @@
 
 ## 각주
 
-<references/>
-
 ## 외부 링크
 
   - [한국GM 홈페이지](http://www.gm-korea.co.kr/gmkorea/index.do)

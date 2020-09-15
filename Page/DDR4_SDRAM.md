@@ -17,7 +17,7 @@ DDR4는 240핀 DDR-2/DDR-3 DIMM과 비슷한 284핀 DIMM으로 출시된다.\[12
 
 ### 최종 규격
 
-2012년 9월 25일, 메모리 표준 규격을 정하는 JEDEC (Joint Electron Device Engineering Council ) ﻿은 차기 메모리인 DDR4 의 최종 규격을 발표했다. 이에 의하면 핀당 전송 속도는 최소 1.6 GT/s (Gigatransfer per second) 에서 최대 3.2 GT/s 가 기본이지만 이전 DDR3 이하 메모리에서 그랬듯이 이보다 더 빠른 규격이 등장할 수도 있을 것으로 예상되었다. 또한 DDR4 메모리는 기본이 1.2 V 로 작동해 1.5 V 로 작동하는 DDR3 메모리보다 전력 소모가 줄어들고 속도는 빨라졌기 때문에 도입되면 큰 이점이 있을 것으로 기대되었다.\[14\]
+2012년 9월 25일, 메모리 표준 규격을 정하는 JEDEC (Joint Electron Device Engineering Council ) 은 차기 메모리인 DDR4 의 최종 규격을 발표했다. 이에 의하면 핀당 전송 속도는 최소 1.6 GT/s (Gigatransfer per second) 에서 최대 3.2 GT/s 가 기본이지만 이전 DDR3 이하 메모리에서 그랬듯이 이보다 더 빠른 규격이 등장할 수도 있을 것으로 예상되었다. 또한 DDR4 메모리는 기본이 1.2 V 로 작동해 1.5 V 로 작동하는 DDR3 메모리보다 전력 소모가 줄어들고 속도는 빨라졌기 때문에 도입되면 큰 이점이 있을 것으로 기대되었다.\[14\]
 
 ## 모듈
 
@@ -179,7 +179,7 @@ DDR4-3200AC</p></td>
 
 <references group="주해" />
 
-[분류:컴퓨터 메모리](https://ko.wikipedia.org/wiki/분류:컴퓨터_메모리 "wikilink")
+[분류:SDRAM](https://ko.wikipedia.org/wiki/분류:SDRAM "wikilink")
 
 1.
 2.

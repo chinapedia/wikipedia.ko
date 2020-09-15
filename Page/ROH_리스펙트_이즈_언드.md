@@ -31,5 +31,3 @@
   - 에이지 오브 더 폴 (지미 제이콥스 & 타일러 블랙)이 오스틴 에리즈 & 브라이언 다니엘슨을 꺾고 RoH 월드 태그팀 타이틀 방어에 성공
 
 [분류:ROH 페이퍼뷰](https://ko.wikipedia.org/wiki/분류:ROH_페이퍼뷰 "wikilink")
-
-[ru:ROH Respect is Earned](https://ko.wikipedia.org/wiki/ru:ROH_Respect_is_Earned "wikilink")

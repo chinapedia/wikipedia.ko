@@ -91,7 +91,7 @@
 <!-- end list -->
 
   - 2번, 3번
-    성우 - [스가누마 히사요시](https://ko.wikipedia.org/wiki/스가누마_히사요시 "wikilink")/[우에다 요지](https://ko.wikipedia.org/wiki/우에다_요지 "wikilink")
+    성우 - [스가누마 히사요시](../Page/스가누마_히사요시.md "wikilink")/[우에다 요지](https://ko.wikipedia.org/wiki/우에다_요지 "wikilink")
     타케야의 클래스메이트들. 오이히코와 같은, 'DearS love club'의 멤버.
 
 ### 디어즈들

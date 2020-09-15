@@ -22,7 +22,7 @@
 
 ## 화면
 
-[200px](https://ko.wikipedia.org/wiki/파일:Galaxy_Note_II_subpixels_representation.png "wikilink") 기존의 [HD 슈퍼 AMOLED](https://ko.wikipedia.org/wiki/HD_슈퍼_AMOLED "wikilink") 디스플레이에 RGBG [펜타일 매트릭스의](https://ko.wikipedia.org/wiki/펜타일_매트릭스 "wikilink") 구조 대신, [삼성디스플레이](../Page/삼성디스플레이.md "wikilink")에서 개발한 공법인 **S-스트라이프** [RGB](https://ko.wikipedia.org/wiki/RGB "wikilink") 매트릭스 구조를 적용함으로써, RGBG [펜타일 매트릭스](https://ko.wikipedia.org/wiki/펜타일_매트릭스 "wikilink") 구조를 채택한 제품들에 비해 가독성 및 해상도 문제를 해결하였다.\[14\]
+[200px](https://ko.wikipedia.org/wiki/파일:Galaxy_Note_II_subpixels_representation.png "wikilink") 기존의 [HD 슈퍼 AMOLED](https://ko.wikipedia.org/wiki/HD_슈퍼_AMOLED "wikilink") 디스플레이에 RGBG [펜타일 매트릭스의](https://ko.wikipedia.org/wiki/펜타일_매트릭스 "wikilink") 구조 대신, [삼성디스플레이](../Page/삼성디스플레이.md "wikilink")에서 개발한 공법인 **S-스트라이프** [RGB](../Page/RGB.md "wikilink") 매트릭스 구조를 적용함으로써, RGBG [펜타일 매트릭스](https://ko.wikipedia.org/wiki/펜타일_매트릭스 "wikilink") 구조를 채택한 제품들에 비해 가독성 및 해상도 문제를 해결하였다.\[14\]
 
 ## S 펜
 
@@ -53,85 +53,28 @@ S 펜은 전작인 [갤럭시 노트의](https://ko.wikipedia.org/wiki/갤럭시
 #### 특수 기능
 
   - S 노트 : S 펜을 통한 다양한 노트 필기를 비롯하여, 디자인, 수식인식, 문자인식, 도형인식 등을 할 수 있다.\[20\]
-
-<!-- end list -->
-
   - S 펜 키퍼 : S 펜을 분리한 상태에서 일정 거리 이상 움직이면 진동과 함께 팝업으로 S 펜의 분리여부를 띄워준다.
-
-<!-- end list -->
-
   - 에어 뷰 : S 펜으로 항목을 디스플레이 근처에 대면 콘텐츠를 보여준다.\[21\]
-
-<!-- end list -->
-
   - 퀵 커멘드 : S 펜을 이용하여 여러 기능을 빠르게 실행한다.\[22\]
-
-<!-- end list -->
-
   - 이지 클립 : S 펜을 이용하여 사진을 오려낸다.\[23\]
-
-<!-- end list -->
-
   - 팝업 노트 : 어느 애플리케이션을 이용하든 S 펜을 뽑으면 S 노트 팝업창이 뜬다.\[24\]
-
-<!-- end list -->
-
   - 포토 노트
-
-<!-- end list -->
-
   - 아이디어 스케치
-
-<!-- end list -->
-
   - 스마트 스테이 : 앞면 카메라를 통해 사용자의 눈동자와 얼굴을 인식하여 사용 중일 때에는 디스플레이가 꺼지지 않도록 유지한다.
-
-<!-- end list -->
-
   - 스마트 로테이션 : 중력방향에 의해서 자동회전을 하지 않고 앞면 카메라를 통해 사용자의 얼굴을 인식하여 자동회전여부를 결정한다.
-
-<!-- end list -->
-
   - 버스트 샷 :최대 20장의 사진을 연속으로 촬영한다. 점프하는 장면을 찍을 때 유용하다.
-
-<!-- end list -->
-
-  -   - 베스트 포토 : 버스트 샷으로 찍은 사진에서 가장 잘 찍힌 사진을 선별한다.
-
-<!-- end list -->
-
+      - 베스트 포토 : 버스트 샷으로 찍은 사진에서 가장 잘 찍힌 사진을 선별한다.
   - 베스트 페이스 : 최대 5장의 사진을 찍어서 가장 좋은 표정을 선택한다.
-
-<!-- end list -->
-
   - [S 빔](https://ko.wikipedia.org/wiki/S_빔 "wikilink")
-
-<!-- end list -->
-
   - 올쉐어 캐스트 : 별도로 판매하는 올쉐어 캐스트 동글을 이용해 스마트폰 내 동영상, 게임 등의 화면을 [스마트 TV나](https://ko.wikipedia.org/wiki/스마트_TV "wikilink") [PC에서](../Page/개인용_컴퓨터.md "wikilink") 사용할 수 있다.\[25\]
-
-<!-- end list -->
-
   - 멀티 윈도우 : 이전 버튼을 오래 누르면 2개의 프로그램을 동시에 작동시켜준다.\[26\]
-
-<!-- end list -->
-
   - 페이지 버디 : 도킹, 로밍, 이어폰 삽입등의 특별한 상황에 따라 그에 필요한 기능을 홈화면에 자동적으로 추가한다.
-
-<!-- end list -->
-
   - [S 보이스](../Page/S_보이스.md "wikilink") : 대화형 음성제어 시스템으로, 소프트웨어와 자연어 대화를 통해 특정 기능을 작동하여 각종 기능을 실행한다.
 
-[애플의](https://ko.wikipedia.org/wiki/애플_\(기업\) "wikilink") [시리](https://ko.wikipedia.org/wiki/시리 "wikilink"), [LG전자](../Page/LG전자.md "wikilink")의 [Q보이스](https://ko.wikipedia.org/wiki/Q보이스 "wikilink")와 비슷하다.
+[애플](../Page/애플.md "wikilink")의 [시리](https://ko.wikipedia.org/wiki/시리 "wikilink"), [LG전자](../Page/LG전자.md "wikilink")의 [Q보이스](https://ko.wikipedia.org/wiki/Q보이스 "wikilink")와 비슷하다.
 
   - 애 플리케이션 음성제어 : 음성인식을 통하여 애플리케이션을 실행하거나 종료한다.
-
-<!-- end list -->
-
   - 다이렉트 콜 : 문자 전송할때, 부재중 전화시, 전화번호 검색 등 전화번호가 화면에 보일 때 휴대전화를 귀에 대면 바로 전화가 걸린다.
-
-<!-- end list -->
-
   - 팝업 플레이 : 동영상을 작은 팝업창 형태로 재생하는 기능으로, 동영상이 팝업창 형태로 떠 있는 동안에는 화면의 일부분만 점유하며, 다른 애플리케이션을 사용할 수 있다.
 
 ### 안드로이드 4.3 젤리빈

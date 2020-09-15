@@ -89,7 +89,7 @@
   -
   -
   -
-[분류:1963년 노래](https://ko.wikipedia.org/wiki/분류:1963년_노래 "wikilink") [분류:1963년 싱글](https://ko.wikipedia.org/wiki/분류:1963년_싱글 "wikilink") [분류:비틀즈의 노래](https://ko.wikipedia.org/wiki/분류:비틀즈의_노래 "wikilink") [분류:레논-매카트니가 작곡한 노래](https://ko.wikipedia.org/wiki/분류:레논-매카트니가_작곡한_노래 "wikilink") [분류:비 지스의 노래](https://ko.wikipedia.org/wiki/분류:비_지스의_노래 "wikilink")
+[분류:1963년 노래](https://ko.wikipedia.org/wiki/분류:1963년_노래 "wikilink") [분류:1963년 싱글](https://ko.wikipedia.org/wiki/분류:1963년_싱글 "wikilink") [분류:비틀즈의 노래](https://ko.wikipedia.org/wiki/분류:비틀즈의_노래 "wikilink") [분류:레논-매카트니가 작곡한 노래](https://ko.wikipedia.org/wiki/분류:레논-매카트니가_작곡한_노래 "wikilink") [분류:비지스의 노래](https://ko.wikipedia.org/wiki/분류:비지스의_노래 "wikilink")
 
 1.
 2.

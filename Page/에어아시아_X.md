@@ -29,7 +29,7 @@
 
 ## 보유 기종
 
-  - [2012년](../Page/2012년.md "wikilink") [5월](../Page/5월.md "wikilink") 기준으로 에어아시아 X는 다음과 같은 기종을 보유하고 있으며 평균 기령은 4.4년이다.\[5\]
+  - [2019년](../Page/2019년.md "wikilink") [8월](../Page/8월.md "wikilink") 기준으로 에어아시아 X는 다음과 같은 기종을 보유하고 있으며 평균 기령은 4.4년이다.\[5\]
 
 <table>
 <caption><strong>에어아시아 X의 보유 기종</strong></caption>
@@ -73,21 +73,37 @@
 <td><p>365</p></td>
 </tr>
 <tr class="even">
+<td><p>0</p></td>
+<td><p>367</p></td>
+<td><p>367</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p><a href="../Page/에어버스_A330neo.md" title="wikilink">에어버스 A330-900neo</a></p></td>
 <td><p>0</p></td>
-<td><p>77[7]</p></td>
+<td><p>78[7]</p></td>
 <td><p>0</p></td>
 <td><p><abbr title="To Be Announced"></p>
 <div style="text-align: center;">
 <p>TBA</p>
 </div>
 <p></abbr></p></td>
-<td><p><a href="../Page/2019년.md" title="wikilink">2019년</a>부터 순차적으로 도입 예정</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/코로나바이러스감염증-19" title="wikilink">코로나-19로</a> 인해 주문 지연</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/에어버스_A350_XWB.md" title="wikilink">에어버스 A350-900</a></p></td>
+<td><p>0</p></td>
+<td><p>10</p></td>
+<td><p>0</p></td>
+<td><p>TBA</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>합계</p></td>
 <td><p>24</p></td>
-<td><p>107</p></td>
+<td><p>118</p></td>
 <td><p>10</p></td>
 <td></td>
 <td></td>
@@ -95,13 +111,19 @@
 </tbody>
 </table>
 
+### 퇴역 기종
+
+[섬네일](https://ko.wikipedia.org/wiki/파일:Air_Asia_X_Airbus_A340-300.jpg "wikilink")
+
+  - [에어버스 A340-300](../Page/에어버스_A340.md "wikilink")
+
 ## 유료 서비스
 
   - 사전 좌석 지정은 25 [링깃](https://ko.wikipedia.org/wiki/링깃 "wikilink"), 발밑의 넓은 "Hot Seat" 100 [링깃](https://ko.wikipedia.org/wiki/링깃 "wikilink")
   - 위탁 수하물은 30 [링깃](https://ko.wikipedia.org/wiki/링깃 "wikilink")에서
   - 기내식 15 [링깃](https://ko.wikipedia.org/wiki/링깃 "wikilink") [말레이시아](../Page/말레이시아.md "wikilink") 요리, 다국적 요리, 채식 요리, 어린이 요리에서 선택이 가능하다.
   - 담요, 베개, 아이 마스크 등 "쾌적한 장비"는 25 [링깃](https://ko.wikipedia.org/wiki/링깃 "wikilink")
-  - [비디오](../Page/비디오.md "wikilink"), [오디오](https://ko.wikipedia.org/wiki/오디오 "wikilink")의 [휴대용 플레이어를](https://ko.wikipedia.org/wiki/휴대용_플레이어 "wikilink") 35 [링깃](https://ko.wikipedia.org/wiki/링깃 "wikilink")에 대여 가능하다.\[8\]
+  - [비디오](../Page/비디오.md "wikilink"), [오디오](https://ko.wikipedia.org/wiki/오디오 "wikilink")의 [휴대용 플레이어를](https://ko.wikipedia.org/wiki/기내_엔터테이먼트 "wikilink") 35 [링깃](https://ko.wikipedia.org/wiki/링깃 "wikilink")에 대여 가능하다.\[8\]
   - 프리미엄 시트\[9\]란 비즈니스 클래스 해당 좌석 서비스가 라이프지에 해당한다. 사전 좌석 지정, 우선 체크인, 우선 탑승, 기내 위탁 수하물 우선, 기내식, 베개와 담요 서비스가 있다. 요금은 일반석 보다 2\~3배 비싸다.
   - [2011년](../Page/2011년.md "wikilink") [5월 3일](../Page/5월_3일.md "wikilink") 이후 예약은 유류 할증료를 징수하고 있다.\[10\]
 
@@ -114,6 +136,11 @@
 [2018년](../Page/2018년.md "wikilink")도 [스카이트랙스](../Page/스카이트랙스.md "wikilink")에서 평가한 에어아시아X 평가결과
 세계최고 저가 항공사: 5위
 세계최고 장거리 저가항공사:3위
+
+## 사건 및 사고
+
+  - [2017년](../Page/2017년.md "wikilink") [6월 25일](../Page/6월_25일.md "wikilink"), 승객 359명을 태운 에어아시아X 237편은 [퍼스에서](../Page/퍼스_공항.md "wikilink") [쿠알라룸푸르로](https://ko.wikipedia.org/wiki/쿠알라룸푸르_국제공항 "wikilink") 가던 중 왼쪽 엔진에 날개가 부러져 회항을 하였으며, 부상자는 생기지 않았다.
+  - [2017년](../Page/2017년.md "wikilink") [7월 3일](../Page/7월_3일.md "wikilink"), 승객 359명을 태운 에어아시아X 207편은 [골드코스트에서](https://ko.wikipedia.org/wiki/골드코스트_공항 "wikilink") [쿠알라룸푸르로](https://ko.wikipedia.org/wiki/쿠알라룸푸르_국제공항 "wikilink") 가던 중 오른쪽 엔진에 새가 빨려들어가 [버드스트라이크](https://ko.wikipedia.org/wiki/버드스트라이크 "wikilink")가 일어나, [멜버른으로](../Page/멜버른_공항.md "wikilink") 비상 착륙을 했다. 죽은 새 2마리가 구조되고, 엔진에는 경미한 손상을 입었다.
 
 ## 각주
 

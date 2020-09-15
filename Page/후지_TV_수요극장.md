@@ -122,7 +122,7 @@
 <!-- end list -->
 
   -
-    출연：[오다 유지](../Page/오다_유지.md "wikilink"), [카토리 싱고](../Page/카토리_싱고.md "wikilink"), [스즈키 안즈](../Page/스즈키_안즈.md "wikilink"), [사토 타마오](https://ko.wikipedia.org/wiki/사토_타마오 "wikilink"), [후지 타츠야](https://ko.wikipedia.org/wiki/후지_타츠야 "wikilink"), [코유키](../Page/코유키.md "wikilink") 외
+    출연：[오다 유지](../Page/오다_유지.md "wikilink"), [카토리 싱고](../Page/카토리_싱고.md "wikilink"), [스즈키 안즈](../Page/스즈키_안즈.md "wikilink"), [사토 타마오](https://ko.wikipedia.org/wiki/사토_타마오 "wikilink"), [후지 타츠야](../Page/후지_타츠야.md "wikilink"), [코유키](../Page/코유키.md "wikilink") 외
 
 <!-- end list -->
 
@@ -245,7 +245,7 @@
 
 <!-- end list -->
 
-  - 《[웨딩 플래너](https://ko.wikipedia.org/wiki/웨딩_플래너 "wikilink")》
+  - 《[웨딩 플래너](../Page/웨딩_플래너.md "wikilink")》
 
 <!-- end list -->
 

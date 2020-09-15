@@ -53,7 +53,7 @@
       - [멘도사](https://ko.wikipedia.org/wiki/멘도사 "wikilink") - [엘 프레미오 국제공항](https://ko.wikipedia.org/wiki/엘_프레미오_국제공항 "wikilink")
       - [산 후안](https://ko.wikipedia.org/wiki/산_후안 "wikilink") - [도밍고 사르미엔토 국제공항](https://ko.wikipedia.org/wiki/도밍고_사르미엔토_국제공항 "wikilink")
       - [살타](../Page/살타.md "wikilink") - [마르틴 미겔 데 구에메스 국제공항](https://ko.wikipedia.org/wiki/마르틴_미겔_데_구에메스_국제공항 "wikilink")
-      - [우수아이아](https://ko.wikipedia.org/wiki/우수아이아 "wikilink") - [우수아이아 말비나스 아르헨티나스 국제공항](https://ko.wikipedia.org/wiki/우수아이아_말비나스_아르헨티나스_국제공항 "wikilink")
+      - [우수아이아](../Page/우수아이아.md "wikilink") - [우수아이아 말비나스 아르헨티나스 국제공항](https://ko.wikipedia.org/wiki/우수아이아_말비나스_아르헨티나스_국제공항 "wikilink")
       - [코르도바](https://ko.wikipedia.org/wiki/코르도바 "wikilink") - [인헤니에로 아에로나르띠꼬 엠브로시오 L.V. 타라벨라 국제공항](../Page/인헤니에로_아에로나르띠꼬_엠브로시오_L.V._타라벨라_국제공항.md "wikilink")
   - ****
       - [키토](../Page/키토.md "wikilink") - [마리스칼 수크레 국제공항](../Page/마리스칼_수크레_국제공항.md "wikilink")

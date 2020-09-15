@@ -130,33 +130,33 @@
 <tbody>
 <tr class="odd">
 <td><p><a href="../Page/WWE_NXT_챔피언십.md" title="wikilink">NXT 챔피언</a></p></td>
-<td><p><a href="../Page/애덤_콜.md" title="wikilink">애덤 콜</a></p></td>
-<td><p>2019년 6월 1일</p></td>
-<td><p><a href="../Page/NXT_테이크오버.md" title="wikilink">NXT 테이크오버 XXV</a></p></td>
-<td><p>쟈니 가르가노</p></td>
+<td><p>공석</p></td>
+<td><p>2020년 8월 26일</p></td>
+<td><p><a href="../Page/WWE_NXT.md" title="wikilink">WWE NXT</a></p></td>
+<td><p>캐리언 크로스</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/WWE_NXT_노스_아메리칸_챔피언십" title="wikilink">NXT 노스 아메리칸 챔피언</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/케에빈_페에인" title="wikilink">키스 리</a></p></td>
-<td><p>2020년 1월 22일</p></td>
-<td><p><a href="../Page/WWE_NXT.md" title="wikilink">WWE NXT</a></p></td>
-<td><p><a href="../Page/로더릭_스트롱.md" title="wikilink">로더릭 스트롱</a></p></td>
+<td><p>데미안 프리스트</p></td>
+<td><p>2020년 8월 22일</p></td>
+<td><p><a href="../Page/NXT_테이크오버.md" title="wikilink">NXT 테이크오버 30</a></p></td>
+<td><p>공석</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/WWE_NXT_위민스_챔피언십" title="wikilink">NXT 위민스 챔피언</a></p></td>
+<td><p>시라이 이오</p></td>
+<td><p>2020년 6월 7일</p></td>
+<td><p><a href="../Page/NXT_테이크오버.md" title="wikilink">NXT 테이크오버: 인 유어 하우스</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/샬럿_플레어" title="wikilink">샬럿 플레어</a></p></td>
-<td><p>2020년 4월 5일</p></td>
-<td><p><a href="../Page/레슬매니아.md" title="wikilink">WWE 레슬매니아</a></p></td>
-<td><p>리아 리플리</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/WWE_NXT_태그팀_챔피언십.md" title="wikilink">NXT 태그팀 챔피언</a></p></td>
+<td><p>브리장고<br />
+(타일러 브리즈 &amp; 판당고)</p></td>
+<td><p>2020년 8월 26일</p></td>
+<td><p><a href="../Page/WWE_NXT.md" title="wikilink">WWE NXT</a></p></td>
 <td><p>임페리움<br />
 (마르셀 바델 &amp; 파비앙 아이흐너)</p></td>
-<td><p>2020년 5월 13일</p></td>
-<td><p><a href="../Page/WWE_NXT.md" title="wikilink">WWE NXT</a></p></td>
-<td><p>브로저웨이트<br />
-(맷 리들 &amp; 피트 던)</p></td>
 </tr>
 </tbody>
 </table>
@@ -177,7 +177,7 @@
   - 벨베틴 드림
   - 브론슨 리드
   - [브리장고](https://ko.wikipedia.org/wiki/브리장고 "wikilink")
-      - [타일러 브리즈](https://ko.wikipedia.org/wiki/타일러_브리즈 "wikilink")
+      - [타일러 브리즈](../Page/타일러_브리즈.md "wikilink")
       - [판당고](../Page/조니_커티스.md "wikilink")
   - 세잘 보노니
   - 셰인 쏜
@@ -192,6 +192,7 @@
   - 오니 로컨
   - 쟈니 가르가노
   - 카메론 그라임스
+  - 캐리언 크로스
   - 코나 리브스
   - 쿠시다
   - 키스 리
@@ -212,13 +213,12 @@
 ※ 실제로 경기 하지 않는 사람들은 제외하였다. (백스테이지 인터뷰 진행자, 매니저 및 해설진)
 
   - 다코타 카이
-  - 디오나 퍼라조
   - 리아 리플리
   - 마리나 샤피르
   - [미아 임](../Page/제이드_\(프로레슬러\).md "wikilink")
   - 바네사 본
   - 비앙카 벨에어
-  - 셰이나 배즐러
+  - 스칼렛
   - 시라이 이오
   - 알리야
   - 자야 리

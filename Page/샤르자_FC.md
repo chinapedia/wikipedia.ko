@@ -62,7 +62,7 @@
 
 <!-- end list -->
 
-  - **[아시안 클럽 챔피언십](https://ko.wikipedia.org/wiki/아시안_클럽_챔피언십 "wikilink"): 4회 참가**
+  - **[아시안 클럽 챔피언십](../Page/아시안_클럽_챔피언십.md "wikilink"): 4회 참가**
 
 <!-- end list -->
 

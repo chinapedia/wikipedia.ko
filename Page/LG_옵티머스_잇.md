@@ -3,9 +3,13 @@
 
 **옵티머스 잇**(Optimus It)은 [LG전자](../Page/LG전자.md "wikilink")에서 [2012년](../Page/2012년.md "wikilink") [6월 30일에](../Page/6월_30일.md "wikilink") 출시한 [안드로이드](../Page/안드로이드_\(운영_체제\).md "wikilink") [스마트폰](../Page/스마트폰.md "wikilink")이다.
 
-일본에서 [NTT 도코모전용으로](../Page/NTT_도코모.md "wikilink") 출시되었으며, [LTE를](https://ko.wikipedia.org/wiki/롱_텀_에볼루션 "wikilink") 지원한다.
+## 지원
 
-방수기능과 [DMB와](../Page/디지털_멀티미디어_방송.md "wikilink") 유사한 원세그 기능을 탑재하였다.
+  - 일본에서 [NTT 도코모전용으로](../Page/NTT_도코모.md "wikilink") 출시되었으며, [LTE를](https://ko.wikipedia.org/wiki/롱_텀_에볼루션 "wikilink") 지원한다.
+
+<!-- end list -->
+
+  - 방수기능과 [DMB와](../Page/디지털_멀티미디어_방송.md "wikilink") 유사한 원세그 기능을 탑재하였다.
 
 ## 역사
 

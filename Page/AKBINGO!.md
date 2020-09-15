@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [AKBINGO!](https://ko.wikipedia.org/wiki/AKBINGO!).
 
 
-**AKBINGO\!**(에이케이빙고\!)는 [일본](../Page/일본.md "wikilink")의 [닛폰 TV에서](../Page/닛폰_TV_방송망.md "wikilink") [2008년](../Page/2008년.md "wikilink") [10월 1일부터](../Page/10월_1일.md "wikilink") 방송되는 버라이어티 프로그램이다.
+**AKBINGO\!**(에이케이빙고\!)는 [일본](../Page/일본.md "wikilink")의 [닛폰 TV에서](../Page/닛폰_TV_방송망.md "wikilink") [2008년](../Page/2008년.md "wikilink") [10월 1일부터](../Page/10월_1일.md "wikilink") [2019년](../Page/2019년.md "wikilink") [9월 24일까지](../Page/9월_24일.md "wikilink") 방송되었던 버라이어티 프로그램이다.
 
 ## 개요
 
@@ -11,12 +11,12 @@
 
 ### 레귤러
 
-  - **굵은 글씨**는 오프닝 영상에 등장하는 멤버
+  - 방송 종료일(2019년 9월 24일) 시점, **굵은 글씨**는 오프닝 영상에 등장하는 멤버
 
 <!-- end list -->
 
   - [AKB48](../Page/AKB48.md "wikilink")
-      - 팀A : **[이리야마 안나](../Page/이리야마_안나.md "wikilink")**, [오오야 시즈카](https://ko.wikipedia.org/wiki/오오야_시즈카 "wikilink"), [사사키 유카리](../Page/사사키_유카리.md "wikilink"), [시로마 미루](../Page/시로마_미루.md "wikilink")(팀M), [타키타 카요코](https://ko.wikipedia.org/wiki/타키타_카요코 "wikilink"), [타니구치 메구](../Page/타니구치_메구.md "wikilink"), [나카니시 치요리](https://ko.wikipedia.org/wiki/나카니시_치요리 "wikilink"), [히와타시 유이](../Page/히와타시_유이.md "wikilink"), [미야자키 미호](../Page/미야자키_미호.md "wikilink"), [미야와키 사쿠라](../Page/미야와키_사쿠라.md "wikilink")(팀KIV), **[요코야마 유이](../Page/요코야마_유이.md "wikilink")**(캡틴,[AKB48](../Page/AKB48.md "wikilink") 그룹 총감독)
+      - 팀A : **[이리야마 안나](../Page/이리야마_안나.md "wikilink")**, [오오야 시즈카](https://ko.wikipedia.org/wiki/오오야_시즈카 "wikilink"), [사사키 유카리](../Page/사사키_유카리.md "wikilink"), [시로마 미루](../Page/시로마_미루.md "wikilink")(팀M), [타키타 카요코](https://ko.wikipedia.org/wiki/타키타_카요코 "wikilink"), [타니구치 메구](../Page/타니구치_메구.md "wikilink"), [나카니시 치요리](https://ko.wikipedia.org/wiki/나카니시_치요리 "wikilink"), [히와타시 유이](../Page/히와타시_유이.md "wikilink"), [미야자키 미호](../Page/미야자키_미호.md "wikilink"), [미야와키 사쿠라](../Page/미야와키_사쿠라.md "wikilink")(팀KIV), **[요코야마 유이](../Page/요코야마_유이.md "wikilink")**(캡틴, [AKB48](../Page/AKB48.md "wikilink") 그룹 총감독)
       - 팀K : [이치카와 마나미](https://ko.wikipedia.org/wiki/이치카와_마나미 "wikilink"), [시노자키 아야나](https://ko.wikipedia.org/wiki/시노자키_아야나 "wikilink"), [시모구치 히나나](https://ko.wikipedia.org/wiki/시모구치_히나나 "wikilink"), [미네기시 미나미](../Page/미네기시_미나미.md "wikilink")(캡틴), **[무카이치 미온](../Page/무카이치_미온.md "wikilink")**, **[무토 토무](../Page/무토_토무.md "wikilink")**, [모기 시노부](../Page/모기_시노부.md "wikilink"), [유모토 아미](https://ko.wikipedia.org/wiki/유모토_아미 "wikilink"), [쿠보 사토네](https://ko.wikipedia.org/wiki/쿠보_사토네 "wikilink")
       - 팀B : **[카시와기 유키](../Page/카시와기_유키.md "wikilink")**(팀NIII), **[카토 레나](../Page/카토_레나.md "wikilink")**, [고토 모에](https://ko.wikipedia.org/wiki/고토_모에 "wikilink"), [사카구치 나기사](../Page/사카구치_나기사.md "wikilink")(팀8), [타츠야 마키호](../Page/타츠야_마키호.md "wikilink"), [후쿠오카 세이나](../Page/후쿠오카_세이나.md "wikilink"), [마자링](../Page/마자링.md "wikilink"), [야부키 나코](../Page/야부키_나코.md "wikilink")(팀H)
       - 팀4 : [이노 미야비](https://ko.wikipedia.org/wiki/이노_미야비 "wikilink"), [이와타테 사호](../Page/이와타테_사호.md "wikilink"), [오오카와 리오](https://ko.wikipedia.org/wiki/오오카와_리오 "wikilink"), [오오모리 미유](https://ko.wikipedia.org/wiki/오오모리_미유 "wikilink"), **[오카다 나나](../Page/오카다_나나.md "wikilink")**(부캡틴, [STU48](../Page/STU48.md "wikilink") 캡틴), [카와모토 사야](../Page/카와모토_사야.md "wikilink"), [키타가와 료하](https://ko.wikipedia.org/wiki/키타가와_료하 "wikilink")(팀S), [키타자와 사키](https://ko.wikipedia.org/wiki/키타자와_사키 "wikilink"), **[코미야마 하루카](../Page/코미야마_하루카.md "wikilink")**, [사토 키아라](https://ko.wikipedia.org/wiki/사토_키아라 "wikilink"), [시부야 나기사](https://ko.wikipedia.org/wiki/시부야_나기사 "wikilink")(팀BII), [토모나가 미오](https://ko.wikipedia.org/wiki/토모나가_미오 "wikilink")(팀KIV), [무라야마 유이리](../Page/무라야마_유이리.md "wikilink")
@@ -46,8 +46,8 @@
 
 <!-- end list -->
 
-  - [NGT48](https://ko.wikipedia.org/wiki/NGT48 "wikilink")
-      - 팀NIII : [오기노 유카](../Page/오기노_유카.md "wikilink"), [카토 미나미](https://ko.wikipedia.org/wiki/카토_미나미 "wikilink"), **[카시와기 유키](../Page/카시와기_유키.md "wikilink")**(팀B), **[키타하라 리에](../Page/키타하라_리에.md "wikilink")**(캡틴), [니시가타 마리나](https://ko.wikipedia.org/wiki/니시가타_마리나 "wikilink"), [혼마 히나타](https://ko.wikipedia.org/wiki/혼마_히나타 "wikilink"), [야마다 노에](https://ko.wikipedia.org/wiki/야마다_노에 "wikilink")-활동중단
+  - [NGT48](../Page/NGT48.md "wikilink")
+      - 팀NIII : [오기노 유카](../Page/오기노_유카.md "wikilink"), [카토 미나미](https://ko.wikipedia.org/wiki/카토_미나미 "wikilink"), **[카시와기 유키](../Page/카시와기_유키.md "wikilink")**(팀B), **[키타하라 리에](../Page/키타하라_리에.md "wikilink")**(캡틴), [니시가타 마리나](https://ko.wikipedia.org/wiki/니시가타_마리나 "wikilink"), [혼마 히나타](https://ko.wikipedia.org/wiki/혼마_히나타 "wikilink"), [야마다 노에](https://ko.wikipedia.org/wiki/야마다_노에 "wikilink")
 
 <!-- end list -->
 
@@ -72,7 +72,7 @@
 <!-- end list -->
 
   - MC
-      - [우먼 러쉬 아워](https://ko.wikipedia.org/wiki/우먼_러쉬_아워 "wikilink") (무라모토 다이스케, 나카가와 파라다이스) - 2016년 6월 29일 \~
+      - [우먼 러쉬 아워](https://ko.wikipedia.org/wiki/우먼_러쉬_아워 "wikilink") (무라모토 다이스케, 나카가와 파라다이스) - 2016년 6월 29일 \~ 2019년 9월 24일
 
 ## 주요 코너
 

@@ -10,7 +10,7 @@
   - 타이틀 곡 〈Moment〉는 멤버 [나카이 마사히로가](../Page/나카이_마사히로.md "wikilink") 메인 캐스터로 임명 된 《TBS 런던 올림픽 2012》의 테마 송으로,\[1\] [SMAP](../Page/SMAP.md "wikilink")의 싱글 곡이 [TBS](https://ko.wikipedia.org/wiki/TBS "wikilink")의 [올림픽](https://ko.wikipedia.org/wiki/올림픽 "wikilink") 테마 송으로 기용된 것은 〈이 순간, 분명 꿈이 아니다〉에 이은 2번째이다. 작사·작곡은 [사카낙션](../Page/사카낙션.md "wikilink")의 보컬 [야마구치 이치로이다](https://ko.wikipedia.org/wiki/야마구치_이치로 "wikilink"). 야마구치가 [SMAP](../Page/SMAP.md "wikilink")에 악곡을 제공하는 것은 [2010년](../Page/2010년.md "wikilink") [SMAP](../Page/SMAP.md "wikilink")의 19번째 정규 앨범 〈We are SMAP\!〉에 수록된 "Magic Time"이후 2번째이다.
   - 커플 링은 첫회 한정반·통상 반에는 "손을 잡자"(), 4,200장 한정반에는 "WOW\! WOW\! WOW\!"이 수록되었다.
   - [2012년](../Page/2012년.md "wikilink") [8월 13일자](../Page/8월_13일.md "wikilink") [오리콘](../Page/오리콘.md "wikilink") 주간 싱글 랭킹에서 13.7만장을 판매해, 첫 등장 1위를 차지했다.\[2\]
-  - [SMAP](../Page/SMAP.md "wikilink")이 1​ 년에 싱글 [CD](https://ko.wikipedia.org/wiki/CD "wikilink")를 2장 발표하는 것은 [2008년](../Page/2008년.md "wikilink") 이후 4년만이다.
+  - [SMAP](../Page/SMAP.md "wikilink")이 1 년에 싱글 [CD](https://ko.wikipedia.org/wiki/CD "wikilink")를 2장 발표하는 것은 [2008년](../Page/2008년.md "wikilink") 이후 4년만이다.
 
 ## 수록곡
 

@@ -8,105 +8,8 @@
   - 《[꾸러기 TV](https://ko.wikipedia.org/wiki/꾸러기_TV "wikilink")》
       - [꼬마버스 타요](../Page/꼬마버스_타요.md "wikilink")
 
-|묶음8 = 과거 iTV
-<small>(2004.12.31 이전)</small> |내용8 =
-
-  - 《[iTV 뉴스](https://ko.wikipedia.org/wiki/iTV_뉴스_\(텔레비전_프로그램\) "wikilink")》
-  - 《[iTV 아침뉴스](https://ko.wikipedia.org/wiki/iTV_아침뉴스 "wikilink")》
-  - 《[iTV 수도권뉴스](https://ko.wikipedia.org/wiki/iTV_수도권뉴스 "wikilink")》
-  - 《[iTV 로컬투데이](https://ko.wikipedia.org/wiki/iTV_수도권뉴스 "wikilink")》
-  - 《[iTV 로컬635](https://ko.wikipedia.org/wiki/iTV_수도권뉴스 "wikilink")》
-  - 《[iTV 뉴스10](https://ko.wikipedia.org/wiki/iTV_뉴스10 "wikilink")》
-  - 《[iTV 뉴스8](https://ko.wikipedia.org/wiki/iTV_뉴스8 "wikilink")》
-  - 《[iTV 뉴스930](https://ko.wikipedia.org/wiki/iTV_뉴스10 "wikilink")》
-  - 《[iTV 토요뉴스](https://ko.wikipedia.org/wiki/iTV_토요뉴스 "wikilink")》
-  - 《[iTV 일요뉴스](https://ko.wikipedia.org/wiki/iTV_일요뉴스 "wikilink")》
-  - 《iTV 스포츠》
-  - 《[iTV 스포츠투나잇](https://ko.wikipedia.org/wiki/iTV_스포츠투나잇 "wikilink")》
-  - 《굿모닝 골프박사》
-  - 《도전 레포츠》
-  - 《아이러브 스포츠》
-  - 《WCW 프로레슬링》
-  - 《[생방송 모닝데이트](../Page/생방송_모닝데이트.md "wikilink")》
-  - 《[선택\! 행복한 아침](../Page/선택!_행복한_아침.md "wikilink")》
-  - 《[생방송 세상을 연다](../Page/생방송_세상을_연다.md "wikilink")》
-  - 《[생방송 아이포유 5시](https://ko.wikipedia.org/wiki/생방송_아이포유_5시 "wikilink")》
-  - 《[특급증권정보](https://ko.wikipedia.org/wiki/특급증권정보 "wikilink")》
-  - 《[TV 요리천국](https://ko.wikipedia.org/wiki/TV_요리천국 "wikilink")》
-  - 《TV 동의보감》
-  - 《탄력있는 아침》
-  - 《김하진의 행복요리》
-  - 《리얼TV 경찰 24시》
-  - 《성공예감 카운트다운》
-  - 《도전\! 성공만들기》
-  - 《[3일간의 사랑](../Page/3일간의_사랑.md "wikilink")》
-  - 《[퀴즈쇼 무한대결](https://ko.wikipedia.org/wiki/퀴즈쇼_무한대결 "wikilink")》
-  - 《[리얼스토리 실제상황](../Page/리얼스토리_실제상황.md "wikilink")》
-  - 《[미스터리극장 위험한 초대](../Page/미스터리극장_위험한_초대.md "wikilink")》
-  - 《[르포 인사이드](https://ko.wikipedia.org/wiki/르포_인사이드 "wikilink")》
-  - 《[르포 시대공감](https://ko.wikipedia.org/wiki/르포_시대공감 "wikilink")》
-  - 《도전\! 나도 사장님》
-  - 《[네트워크 광장](https://ko.wikipedia.org/wiki/네트워크_광장 "wikilink")》
-  - 《야생동물의 세계》
-  - 《애완동물은 내 친구》
-  - 《이숙영의 해피데이》
-  - 《섹션정보 해피데이》
-  - 《월드 와이드》
-  - 《현장다큐 여기 이 사람》
-  - 《참 맛있는 세상》
-  - 《오감만족 웰빙세상》
-  - 《생명전선》
-  - 《행복초대》
-  - 《통일마당 남남북녀》
-  - 《생방송 박찬숙의 터놓고 말합시다》
-  - 《생방송 터놓고 말합시다》
-  - 《열전\! 게임챔프》
-  - 《iTV 게임스페셜》
-  - 《게임월드 명승부 베스트》
-  - 《마이크를 잡아라》
-  - 《[성인가요 베스트 30](https://ko.wikipedia.org/wiki/성인가요_베스트_30 "wikilink")》
-  - 《이상벽의 가요中心》
-  - 《으랏차차 아줌마》
-  - 《뮤직박스 아름다운 세상》
-  - 《뮤직박스》
-  - 《[열전\! 가수왕](../Page/열전!_가수왕.md "wikilink")》
-  - 《[뮤직쇼 악바리클럽](../Page/뮤직쇼_악바리클럽.md "wikilink")》
-  - 《[뮤직앤조이](../Page/뮤직앤조이.md "wikilink")》
-  - 《[테마콘서트 만남](../Page/테마콘서트_만남.md "wikilink")》
-  - 《소문만만세》
-  - 《리얼드라마 디비딥밴드》
-  - 《김형곤쇼》
-  - 《최양락의 코미디쇼》
-  - 《최양락, 이봉원의 소문만복래》
-  - 《러브 러브》
-  - 《코미디쇼 4막 5장》
-  - 《최양락, 이봉원의 금요천하》
-  - 《iTV 주부가요챔프》
-  - 《iTV 젊음의 음악축제》
-  - 《김도향의 굿나잇쇼》
-  - 《김도향, 송채환의 기분좋은 아침》
-  - 《찬스타임 행운을 누르세요》
-  - 《인체탐험 야호야호》
-  - 《육젓》
-  - 《가족》
-  - 《해바라기 가족》
-  - 《시트콤 닥터닥터》
-  - 《시트콤 헬로우 닥터》
-  - 《시트콤 립스틱》
-  - 《시트콤 공회장네 식구들》
-  - 《시트콤 그래서 이웃사촌》
-  - 《iTV 토요시네마》
-  - 《iTV 일요시네마》
-  - 《[양양삼가](https://ko.wikipedia.org/wiki/양양삼가 "wikilink")》
-  - 《[황제의 딸](../Page/황제의_딸.md "wikilink") 시즌 1,2,3》
-  - 《노방유희》
-  - 《협녀 틈천관》
-  - 《新 판관 포청천》
-  - 《회옥공주》
-  - 《[안개비연가](../Page/안개비연가.md "wikilink")》
-
-|묶음9 = 과거 OBS
-<small>(2007.12.28 이후)</small> |내용9 =
+|묶음8 = 종영 프로그램
+<small>(2007.12.28 이후)</small> |내용8 =
 
   - 《[멜로다큐 가족](https://ko.wikipedia.org/wiki/멜로다큐_가족 "wikilink")》
   - 《[사람 산](https://ko.wikipedia.org/wiki/사람_산 "wikilink")》¹
@@ -177,7 +80,7 @@
   - 《[황금보따리](https://ko.wikipedia.org/wiki/황금보따리 "wikilink")》
   - 《우리동네 곱빼기》
   - 《콘서트 고백》
-  - 《[추적르포 사라진 가족](https://ko.wikipedia.org/wiki/추적르포_사라진_가족 "wikilink")》
+  - 《[추적르포 사라진 가족](../Page/추적르포_사라진_가족.md "wikilink")》
   - 《[로드다큐 만남](https://ko.wikipedia.org/wiki/로드다큐_만남 "wikilink")》
   - 《[OBS 역사 대기획 경기천년](https://ko.wikipedia.org/wiki/OBS_역사_대기획_경기천년 "wikilink")》
   - 《살빼기 프로젝트 <백Kg살공주>》
@@ -215,7 +118,7 @@
   - 《[위인극장](https://ko.wikipedia.org/wiki/위인극장 "wikilink")》
   - 《[경기도\! 정책을 말하다](https://ko.wikipedia.org/wiki/경기도!_정책을_말하다 "wikilink")》¹
   - 《[경인 붐](https://ko.wikipedia.org/wiki/경인_붐 "wikilink")》¹
-  - 《[뮤직탱크](https://ko.wikipedia.org/wiki/뮤직탱크 "wikilink")》
+  - 《[뮤직탱크](../Page/뮤직탱크.md "wikilink")》
 
 |아랫글속성 = hlist |아랫글 =
 
@@ -224,7 +127,8 @@
   - [EBS1](../Page/틀:EBS_1TV.md "wikilink")
   - [EBS2](../Page/틀:EBS_2TV.md "wikilink")
   - [MBC](../Page/틀:MBC_TV.md "wikilink")
-  - [경인방송TV](../Page/틀:경인TV.md "wikilink")
+  - [(구) iTV](../Page/틀:경인방송.md "wikilink")
+  - [OBS](../Page/틀:경인TV.md "wikilink")
   - [SBS](../Page/틀:SBS_TV.md "wikilink")
 
 ¹ 구매 프로그램. ² 매년에 한번씩 방송되는 프로그램. }}<noinclude>

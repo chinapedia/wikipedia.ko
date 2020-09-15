@@ -6,7 +6,7 @@
 ## 개요
 
   - 동방신기의 메이저 데뷔 싱글로서, 2004년에 발표된 데뷔 싱글 **HUG**는 정식 싱글이 아닌 일본 방문 기념 싱글로 분류됨에 따라 본 싱글이 첫 번째 싱글로 계산된다.
-  - 2인 재편 이후 일본 데뷔 15주년을 기념하여 개최된 〈[TOHOSHINKI LIVE TOUR 2019 \~XV\~](https://ko.wikipedia.org/wiki/TOHOSHINKI_LIVE_TOUR_2019_~XV~ "wikilink")〉를 통해 약 13년 만에 다시 선곡되어 재조명을 받았다.
+  - 2인 재편 이후 일본 데뷔 15주년을 기념하여 개최된 〈[TOHOSHINKI LIVE TOUR 2019 \~XV\~](../Page/TOHOSHINKI_LIVE_TOUR_2019_~XV~.md "wikilink")〉를 통해 약 13년 만에 다시 선곡되어 재조명을 받았다.
 
 ## 수록곡
 

@@ -23,7 +23,7 @@
   - [하군상](https://ko.wikipedia.org/wiki/하군상 "wikilink")
   - [탕이페이](https://ko.wikipedia.org/wiki/탕이페이 "wikilink")
   - [멍야오](https://ko.wikipedia.org/wiki/멍야오 "wikilink")
-  - [나가영](https://ko.wikipedia.org/wiki/나가영 "wikilink")
+  - [나가영](../Page/나가영.md "wikilink")
   - [초검](https://ko.wikipedia.org/wiki/초검 "wikilink")
   - [번소황](https://ko.wikipedia.org/wiki/번소황 "wikilink")
   - [곽품초](https://ko.wikipedia.org/wiki/곽품초 "wikilink")

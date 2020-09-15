@@ -27,7 +27,7 @@
 
 ## 세트리스트
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:California_Dreams_Tour–Nottingham.jpg "wikilink")        출처:\[15\]\[16\]\[17\]
+[섬네일](https://ko.wikipedia.org/wiki/파일:Katy_Perry_gig_Nottingham_2011_MMB_85.jpg "wikilink")        출처:\[15\]\[16\]\[17\]
 
 ## 투어 일정
 

@@ -54,7 +54,7 @@
   -
 ## 논란
 
-[2012년](../Page/2012년.md "wikilink") [5월 15일에](../Page/5월_15일.md "wikilink") 이 모델과 [EVO 4G LTE](https://ko.wikipedia.org/wiki/EVO_4G_LTE "wikilink") 모델이 국제무역위원회의 [애플의](https://ko.wikipedia.org/wiki/애플_\(기업\) "wikilink") 특허를 침해했다는 판결에 따라 판매금지 되었다가,\[1\] [2012년](../Page/2012년.md "wikilink") [5월 21일](../Page/5월_21일.md "wikilink") 소프트웨어를 조금 변경하고 판매금지조치가 해제되었다.
+[2012년](../Page/2012년.md "wikilink") [5월 15일에](../Page/5월_15일.md "wikilink") 이 모델과 [EVO 4G LTE](https://ko.wikipedia.org/wiki/EVO_4G_LTE "wikilink") 모델이 국제무역위원회의 [애플](../Page/애플.md "wikilink")의 특허를 침해했다는 판결에 따라 판매금지 되었다가,\[1\] [2012년](../Page/2012년.md "wikilink") [5월 21일](../Page/5월_21일.md "wikilink") 소프트웨어를 조금 변경하고 판매금지조치가 해제되었다.
 
 ## 경쟁 기종
 
@@ -65,11 +65,12 @@
 ## 같이 보기
 
   - [HTC EVO 4G LTE](https://ko.wikipedia.org/wiki/HTC_EVO_4G_LTE "wikilink")
+  - [HTC 휴대 전화 목록](../Page/HTC_휴대_전화_목록.md "wikilink")
 
 ## 각주
 
 <references />
 
-[분류:2012년 출시](https://ko.wikipedia.org/wiki/분류:2012년_출시 "wikilink") [분류:안드로이드 장치](https://ko.wikipedia.org/wiki/분류:안드로이드_장치 "wikilink") [원 X](https://ko.wikipedia.org/wiki/분류:HTC의_스마트폰 "wikilink") [원 X](https://ko.wikipedia.org/wiki/분류:HTC_휴대_전화기 "wikilink") [원 XL](https://ko.wikipedia.org/wiki/분류:HTC의_스마트폰 "wikilink") [원 XL](https://ko.wikipedia.org/wiki/분류:HTC_휴대_전화기 "wikilink") [분류:스마트폰](https://ko.wikipedia.org/wiki/분류:스마트폰 "wikilink")
+[분류:2012년 출시](https://ko.wikipedia.org/wiki/분류:2012년_출시 "wikilink") [분류:안드로이드 장치](https://ko.wikipedia.org/wiki/분류:안드로이드_장치 "wikilink") [원 XL](https://ko.wikipedia.org/wiki/분류:HTC의_스마트폰 "wikilink") [원 XL](https://ko.wikipedia.org/wiki/분류:HTC_휴대_전화기 "wikilink") [분류:스마트폰](https://ko.wikipedia.org/wiki/분류:스마트폰 "wikilink")
 
 1.

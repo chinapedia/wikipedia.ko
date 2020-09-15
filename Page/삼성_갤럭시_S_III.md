@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [삼성 갤럭시 S III](https://ko.wikipedia.org/wiki/삼성_갤럭시_S_III).
 
 
-**삼성 갤럭시 S III**(Samsung GALAXY S III)는 [삼성전자](https://ko.wikipedia.org/wiki/삼성전자 "wikilink")에서 제조/판매하는 [안드로이드](../Page/안드로이드_\(운영_체제\).md "wikilink") [스마트폰](../Page/스마트폰.md "wikilink")으로, [갤럭시 S2의](https://ko.wikipedia.org/wiki/갤럭시_S2 "wikilink") 후속제품이다.
+**삼성 갤럭시 S III**()는 [삼성전자](https://ko.wikipedia.org/wiki/삼성전자 "wikilink")에서 제조 및 판매하는 [안드로이드](../Page/안드로이드_\(운영_체제\).md "wikilink") [스마트폰](../Page/스마트폰.md "wikilink")으로, [갤럭시 S2의](https://ko.wikipedia.org/wiki/갤럭시_S2 "wikilink") 후속 [스마트폰](../Page/스마트폰.md "wikilink")이다.
 
 2012년 5월 3일 [영국](../Page/영국.md "wikilink") [런던](../Page/런던.md "wikilink")에서 열린 **삼성 모바일 언팩**에서 발표하여\[1\], 2012년 5월 29일 3G 표준모델이\[2\], LTE 표준모델은 2012년 9월 27일에 출시하였다.
 
@@ -41,7 +41,7 @@
   - 아메시스트 퍼플\[17\]
   - 라 플뢰르 에디션 (하얀색 바탕)
 
-## 안드로이드 운영체제/소프트웨어
+## 안드로이드 운영 체제 / 소프트웨어
 
 ### 안드로이드 4.0 아이스크림 샌드위치
 
@@ -217,6 +217,10 @@ CDMA 2000을 지원하는 싱글심 모델이며, 두께는 9mm로 증가했다.
 ## 단점
 
 전 모델인 갤럭시 S2보다 액정 강도가 약해지면서 충격에 약하다
+
+## 장점
+
+얼굴 인식 기능이 있다.(하지만 현재 얼굴인식 기능보다 인식하는 능력이 떨어진다.)
 
 ## 사진
 

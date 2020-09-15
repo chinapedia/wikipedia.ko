@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [사파 베이루트 SC](https://ko.wikipedia.org/wiki/사파_베이루트_SC).
 
 
-**사파 베이루트 SC**()는 [레바논](../Page/레바논.md "wikilink") [베이루트](../Page/베이루트.md "wikilink")를 연고로 하는 [축구](../Page/축구.md "wikilink") 클럽이다. 사파()는 아랍어로 평온을 뜻한다. 사파 베이루트는 [1939년](../Page/1939년.md "wikilink")에 창단되었으며, [드루즈인](https://ko.wikipedia.org/wiki/드루즈인 "wikilink")들의 지지를 받고 있다.\[1\]\[2\]
+**사파 베이루트 SC**()는 [레바논](../Page/레바논.md "wikilink") [베이루트](../Page/베이루트.md "wikilink")를 연고로 하는 [축구](../Page/축구.md "wikilink") 클럽이다. 사파()는 아랍어로 평온을 뜻한다. 사파 베이루트는 [1939년](../Page/1939년.md "wikilink")에 창단되었으며, [드루즈인](../Page/드루즈인.md "wikilink")들의 지지를 받고 있다.\[1\]\[2\]
 
 ## 경기장
 

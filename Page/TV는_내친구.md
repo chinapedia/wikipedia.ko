@@ -11,9 +11,72 @@
 
 단, 일부 공휴일이나 중계방송 및 특집방송이 있는 날에는 변경되거나 방송시간이 늦춰진다.
 
-| 방송 채널                                                       | 방송 기간                                                                                                                                                    | 방송 시간                                                        |
-| ----------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ |
-| [KBS 1TV](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink") | [2000년](../Page/2000년.md "wikilink") [5월 6일](../Page/5월_6일.md "wikilink") \~ [2003년](../Page/2003년.md "wikilink") [6월 21일](../Page/6월_21일.md "wikilink") | 매주 [토요일](../Page/토요일.md "wikilink") 낮 12:10 \~ 오후 1:10 (60분) |
+<table>
+<thead>
+<tr class="header">
+<th><p>방송 채널</p></th>
+<th><p>방송 기간</p></th>
+<th><p>방송 시간</p></th>
+<th><p>방송 분량</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><a href="https://ko.wikipedia.org/wiki/KBS_1TV" title="wikilink">KBS 1TV</a></p></td>
+<td><p><a href="../Page/2000년.md" title="wikilink">2000년</a> <a href="../Page/5월_6일.md" title="wikilink">5월 6일</a> ~ 2003년 1월 25일<br />
+2003년 2월 8일 ~ 2003년 2월 22일<br />
+2003년 3월 8일 ~ 2003년 4월 12일<br />
+2003년 4월 20일 ~ <a href="../Page/2003년.md" title="wikilink">2003년</a> <a href="../Page/6월_21일.md" title="wikilink">6월 21일</a></p></td>
+<td><p>매주 <a href="../Page/토요일.md" title="wikilink">토요일</a> 낮 12시 10분 ~ 오후 1시 10분</p></td>
+<td><p>1시간</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/2003년.md" title="wikilink">2003년</a> <a href="../Page/2월_1일.md" title="wikilink">2월 1일</a></p></td>
+<td><p><a href="../Page/토요일.md" title="wikilink">토요일</a> 오전 11시 ~ 낮 12시</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/2003년.md" title="wikilink">2003년</a> <a href="../Page/3월_1일.md" title="wikilink">3월 1일</a></p></td>
+<td><p><a href="../Page/토요일.md" title="wikilink">토요일</a> 낮 12시 ~ 오후 1시</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/2003년.md" title="wikilink">2003년</a> <a href="../Page/4월_19일.md" title="wikilink">4월 19일</a></p></td>
+<td><p><a href="../Page/토요일.md" title="wikilink">토요일</a> 낮 12시 5분 ~ 오후 1시 5분</p></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+## 역대 MC
+
+  - [김태규](../Page/김태규_\(아나운서\).md "wikilink"), [황현정](../Page/황현정.md "wikilink") 아나운서
+  - 현대원 교수, [공정민](../Page/공정민.md "wikilink") 아나운서
+
+## 편성 변경
+
+  - 2000년
+
+<!-- end list -->
+
+  - 2001년
+
+<!-- end list -->
+
+  - 2002년
+
+<!-- end list -->
+
+  - 2003년
+
+<!-- end list -->
+
+  - [2월 1일](../Page/2월_1일.md "wikilink") : 2003년 설특집 방송 관계로 [전국노래자랑](../Page/전국노래자랑.md "wikilink") 〈설날 특집 설날 노래자랑〉의 낮 12시 10분 \~ 1시 10분 까지 방송되기 전에 오전 11시 \~ 낮 12시에 방송시간이 변경되었다.
+  - [3월 1일](../Page/3월_1일.md "wikilink") : 오전 10시 제84주년 31절 기념식의 10시 \~ 10시 50분 까지 방송되어 이후 오전 11시 50분 \~ 낮 12시에 [KBS 뉴스가](../Page/KBS_뉴스_\(주말\).md "wikilink") 방영 직후 낮 12시 \~ 오후 1시에 10분 앞당겨 방송시간이 변경되었다.
+  - [4월 19일](../Page/4월_19일.md "wikilink") : 10시 \~ 10시 35분에 제43주년 419혁명 기념식 방송 관계로 이후 낮 12시 5분에 [KBS 뉴스](../Page/KBS_뉴스_\(주말\).md "wikilink") 방영 직후 낮 12시 15분 \~ 오후 1시 15분에 5분 늦춰 방송되었다.
 
 ## 타이틀 변천사
 

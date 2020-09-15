@@ -9,9 +9,25 @@
 
 ## 운항 노선
 
-  - [2011년](../Page/2011년.md "wikilink") 당시 [오스트레일리아](../Page/오스트레일리아.md "wikilink"), [아랍에미리트](../Page/아랍에미리트.md "wikilink"), [미국](../Page/미국.md "wikilink")에 취항 했으며 [버진 오스트레일리아와](https://ko.wikipedia.org/wiki/버진_오스트레일리아 "wikilink") 합병 이전에 [타이](https://ko.wikipedia.org/wiki/타이 "wikilink"), [남아프리카공화국](https://ko.wikipedia.org/wiki/남아프리카공화국 "wikilink"), [피지](../Page/피지.md "wikilink")에 취항한 적이 있었다.
+  - ****
+      - [브리즈번](../Page/브리즈번.md "wikilink") - [브리즈번 공항](../Page/브리즈번_공항.md "wikilink")
+      - [멜버른](../Page/멜버른.md "wikilink") - [멜버른 공항](../Page/멜버른_공항.md "wikilink")
+      - [시드니](../Page/시드니.md "wikilink") - [시드니 공항](https://ko.wikipedia.org/wiki/시드니_공항 "wikilink") **허브**
+  - ****
+      - [아부다비](../Page/아부다비.md "wikilink") - [아부다비 국제공항](../Page/아부다비_국제공항.md "wikilink")
+  - ****
+      - [로스앤젤레스](https://ko.wikipedia.org/wiki/로스앤젤레스 "wikilink") - [로스앤젤레스 국제공항](https://ko.wikipedia.org/wiki/로스앤젤레스_국제공항 "wikilink")
 
-### 코드쉐어 협정
+### 단항 노선
+
+  - ****
+      - [요하네스버그](../Page/요하네스버그.md "wikilink") - [O. R. 탐보 국제공항](https://ko.wikipedia.org/wiki/O._R._탐보_국제공항 "wikilink")
+  - ****
+      - [푸껫](https://ko.wikipedia.org/wiki/푸껫 "wikilink") - [푸껫 국제공항](https://ko.wikipedia.org/wiki/푸껫_국제공항 "wikilink")
+  - ****
+      - [난디](../Page/난디.md "wikilink") - [난디 국제공항](../Page/난디_국제공항.md "wikilink")
+
+## 코드쉐어 협정
 
   - 당시 모기업인 [버진 블루와](https://ko.wikipedia.org/wiki/버진_오스트레일리아 "wikilink") [뉴질랜드](../Page/뉴질랜드.md "wikilink")의 항공사인 퍼시픽 블루(현 [버진 사모아](../Page/버진_사모아.md "wikilink"))와 포괄적인 제휴를 했다. 다음은 아래의 항공사와 상호 제휴를 맺고 [미국](../Page/미국.md "wikilink")에서 환승을 가능하게 하고 있다. [미국](../Page/미국.md "wikilink")에서 환승은 모두 [로스엔젤레스 국제공항에서](https://ko.wikipedia.org/wiki/로스엔젤레스_국제공항 "wikilink") 했다.
 
@@ -79,7 +95,7 @@
     국제 비즈니스 클래스\[3\]
       -
         좌석 배열은 2-2-2에서 시트 피치는 77인치 (195cm)의 완전 평면 좌석을 채용.
-    인터내셔널 프리미엄 이코노미 클래스\[4\]
+    국제 프리미엄 이코노미 클래스\[4\]
       -
         좌석 배열은 2-4-2에서 시트 피치는 38인치 (95cm)
     국제 일반석\[5\]
@@ -106,8 +122,6 @@
   - [V 오스트레일리아 홈페이지](https://web.archive.org/web/20111205035503/http://www.vaustralia.com.au/)
 
 [분류:2007년 설립](https://ko.wikipedia.org/wiki/분류:2007년_설립 "wikilink") [분류:2011년 폐지](https://ko.wikipedia.org/wiki/분류:2011년_폐지 "wikilink") [분류:오스트레일리아의 항공사](https://ko.wikipedia.org/wiki/분류:오스트레일리아의_항공사 "wikilink") [분류:저비용 항공사](https://ko.wikipedia.org/wiki/분류:저비용_항공사 "wikilink") [분류:오스트레일리아의 없어진 항공사](https://ko.wikipedia.org/wiki/분류:오스트레일리아의_없어진_항공사 "wikilink") [분류:버진 그룹](https://ko.wikipedia.org/wiki/분류:버진_그룹 "wikilink")
-
-[fr:V Australia](https://ko.wikipedia.org/wiki/fr:V_Australia "wikilink")
 
 1.
 2.  [V 오스트레일리아의 보유 기종](http://www.planespotters.net/Airline/V-Australia)

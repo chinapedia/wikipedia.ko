@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [에브리온 TV](https://ko.wikipedia.org/wiki/에브리온_TV).
 
 
-**에브리온 TV**는 [현대백화점그룹](../Page/현대백화점그룹.md "wikilink") [MSO인](https://ko.wikipedia.org/wiki/종합유선방송사업자 "wikilink") [현대HCN](../Page/현대HCN.md "wikilink")의 자회사이다. 에브리온TV는 실시간 N스크린 TV 서비스를 제공하고 있다.\[1\] 2011년 8월 9일 PC 기반 베타 서비스로 시작하여\[2\] 2014년 5월 기준 250여개 채널의 실시간 보기 서비스를 제공하고 있다. PC, 아이폰, 아이패드, 안드로이드 기반 스마트폰 및 태블릿PC에 이어 맥과 윈도 폰 전용 플레이어를 지원한다.\[3\]
+**에브리온 TV**는 [현대백화점그룹](../Page/현대백화점그룹.md "wikilink") [MSO인](../Page/종합유선방송사업자.md "wikilink") [현대HCN](../Page/현대HCN.md "wikilink")의 자회사이다. 에브리온TV는 실시간 N스크린 TV 서비스를 제공하고 있다.\[1\] 2011년 8월 9일 PC 기반 베타 서비스로 시작하여\[2\] 2014년 5월 기준 250여개 채널의 실시간 보기 서비스를 제공하고 있다. PC, 아이폰, 아이패드, 안드로이드 기반 스마트폰 및 태블릿PC에 이어 맥과 윈도 폰 전용 플레이어를 지원한다.\[3\]
 
-비회원 기반 무료 서비스이며,\[4\] 실시간 TV 보기 서비스만 제공한다. 지상파계열PP는 서비스되지 않으며, [종합편성채널](https://ko.wikipedia.org/wiki/종합편성채널 "wikilink"), 보도채널, 중소규모 [PP](https://terms.naver.com/entry.nhn?docId=18878&mobile&categoryId=2898) 및 [CP](https://ko.wikipedia.org/wiki/컨텐츠_서비스_제공자 "wikilink") 채널, 일부지역 케이블 자체채널 중심의 채널을 제공한다. 오는 [2019년](../Page/2019년.md "wikilink") [9월 30일부로](../Page/9월_30일.md "wikilink") 에브리온 TV는 공지사항에서 봤듯이 서비스가 종료되고, 10월부터 HCN 모바일 TV에서 똑같은 서비스를 이어받는다.
+비회원 기반 무료 서비스이며,\[4\] 실시간 TV 보기 서비스만 제공한다. 지상파계열PP는 서비스되지 않으며, [종합편성채널](https://ko.wikipedia.org/wiki/종합편성채널 "wikilink"), 보도채널, 중소규모 [PP](https://terms.naver.com/entry.nhn?docId=18878&mobile&categoryId=2898) 및 [CP](https://ko.wikipedia.org/wiki/컨텐츠_서비스_제공자 "wikilink") 채널, 일부지역 케이블 자체채널 중심의 채널을 제공한다. 오는 [2019년](../Page/2019년.md "wikilink") [9월 30일부로](../Page/9월_30일.md "wikilink") 에브리온 TV는 공지사항에서 봤듯이 서비스가 종료되고, 동년 10월부터 HCN 모바일TV에서 똑같은 서비스를 이어받는다. 하지만 모기업인 [현대HCN](../Page/현대HCN.md "wikilink")이 [KT스카이라이프](../Page/KT스카이라이프.md "wikilink")에 매각됨에 따라, 그의 후신인 현대HCN 모바일TV도 역시 [2020년](../Page/2020년.md "wikilink") 9월 30일자로 실시간TV의 서비스가 종료되며, 일부 채널은 [시즌에](../Page/시즌_\(플랫폼\).md "wikilink") 이관 처리될 가능성이 있다.\[5\]
 
 ## 제공 채널 목록
 
-제공 채널 목록은 다음과 같다.\[5\]
+제공 채널 목록은 다음과 같다.\[6\]
 
   - CH.7 채널A
   - CH.8 현대 홈쇼핑
@@ -122,6 +122,11 @@
 
 <references />
 
+## 같이 보기
+
+  - [시즌](../Page/시즌_\(플랫폼\).md "wikilink")
+  - [TVING](../Page/티빙.md "wikilink")
+
 ## 외부 링크
 
   - [에브리온TV 공식 홈페이지](https://web.archive.org/web/20130421004502/http://www.everyon.tv/)
@@ -136,4 +141,5 @@
 2.  에브리온TV 시범 서비스 오픈 <http://everyon.pandora.tv/help/?m=introduce&w=view&page=6&id=15>
 3.  에브리온TV "더 빨라졌다"..MAC 전용 플레이어 출시 <http://www.newstomato.com/ReadNews.aspx?no=281859>
 4.  “무료 콘텐츠 앞세운 매스매니아 TV를 지향”N스크린 서비스② 현대HCN 권기정 상무 <http://er.asiae.co.kr/erview.htm?idxno=2012060723392233706&sc1=issue&sc2=special>
-5.  [전체채널](http://www.everyon.tv/main/index.etv?mCate=all&sCate=all&chNum=)
+5.  제공 불가 채널로 분류되는 GTV, 국민방송 KTV,채널칭,ONT,트렌디등은 제외된다. 다만 [Seezn에](../Page/시즌_\(플랫폼\).md "wikilink") 이미 서비스중인 채널인 [OBS경인TV](../Page/OBS경인TV.md "wikilink"), [텔레노벨라](https://ko.wikipedia.org/wiki/텔레노벨라_\(텔레비전_채널\) "wikilink"), [채널차이나](https://ko.wikipedia.org/wiki/채널차이나 "wikilink"), [한국경제TV](../Page/한국경제TV.md "wikilink"), 토마토TV, [YTN사이언스](https://ko.wikipedia.org/wiki/YTN사이언스 "wikilink"), [YTN라이프](https://ko.wikipedia.org/wiki/YTN라이프 "wikilink"), JTBC 제외 나머지 종편 3사 등 일부 채널은 그대로 유지되며, 시즌에 없는 채널을 모두 현대HCN 모바일TV(구 에브리온 TV)에서 옮겨갈 가능성도 있다.
+6.  [전체채널](http://www.everyon.tv/main/index.etv?mCate=all&sCate=all&chNum=)

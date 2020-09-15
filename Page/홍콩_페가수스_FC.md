@@ -24,6 +24,8 @@
   - **[홍콩 리그컵](https://ko.wikipedia.org/wiki/홍콩_리그컵 "wikilink")**
       - 준우승 (1): 2008–09
 
+## 선수단
+
 ## 외부 링크
 
   - [홍콩 페가수스 공식 페이스북](https://www.facebook.com/pages/%E9%A3%9B%E9%A6%AC%E8%B6%B3%E7%90%83%E9%9A%8A-Hong-Kong-Pegasus-FC/656708937798010?fref=ts)

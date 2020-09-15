@@ -22,7 +22,7 @@
 
 ## 연결문서
 
-  - [TS 25.201 Physical Layer - General Description](http://www.3gpp.org/ftp/specs/archive/25_series/25.201/) - Describes basic differences between FDD and TDD.
+  - [TS 25.201 Physical Layer - General Description](https://web.archive.org/web/20140222142633/http://www.3gpp.org/ftp/specs/archive/25_series/25.201/) - Describes basic differences between FDD and TDD.
   - [TS 25.221 Physical channels and mapping of transport channels onto physical channels (TDD)](http://www.3gpp.org/ftp/Specs/archive/25_series/25.221/)
   - [TS 25.222 Multiplexing and channel coding (TDD)](http://www.3gpp.org/ftp/Specs/archive/25_series/25.222/)
   - [TS 25.223 Spreading and modulation (TDD)](http://www.3gpp.org/ftp/Specs/archive/25_series/25.223/)

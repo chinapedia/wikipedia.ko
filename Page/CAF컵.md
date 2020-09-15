@@ -604,7 +604,5 @@ CAF컵은 [아프리카 축구 연맹](../Page/아프리카_축구_연맹.md "wi
 
 [컵](https://ko.wikipedia.org/wiki/분류:CAF_주관_대회 "wikilink") [분류:폐지된 국제 클럽 축구 대회](https://ko.wikipedia.org/wiki/분류:폐지된_국제_클럽_축구_대회 "wikilink")
 
-[de:CAF Cup](https://ko.wikipedia.org/wiki/de:CAF_Cup "wikilink")
-
 1.
 2.

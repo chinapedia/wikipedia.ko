@@ -109,7 +109,7 @@
 </tr>
 <tr class="even">
 <td><p>2018</p></td>
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/틴_타이탄_GO!_투_더_무비스" title="wikilink">틴 타이탄 GO! 투 더 무비스</a></strong></p></td>
+<td><p><strong><a href="../Page/틴_타이탄_GO!_투_더_무비스.md" title="wikilink">틴 타이탄 GO! 투 더 무비스</a></strong></p></td>
 <td><p><a href="../Page/워너_브라더스.md" title="wikilink">워너 브라더스</a>/<a href="../Page/워너_브라더스_애니메이션.md" title="wikilink">워너 애니메이션 그룹</a></p></td>
 <td></td>
 </tr>
@@ -154,7 +154,7 @@
 
 ## DC의 어원
 
-1934년 [내셔널 얼라이드 퍼블리케이션스](https://ko.wikipedia.org/wiki/내셔널_얼라이드_퍼블리케이션스 "wikilink")(National Comics Publications)로 설립된 내셔널 얼라이드 뉴스페이퍼 신디케이트(National Allied Newspaper Syndicate, Inc.)로도 잘알려진 후에 DC코믹스가 되는 DC의 어원은 1937년에 설립된 디텍티브 코믹스(Detective Comics, Inc.)에서 유래되는 약자이다.\[1\]
+1934년 내셔널 얼라이드 퍼블리케이션스(National Comics Publications)로 설립된 내셔널 얼라이드 뉴스페이퍼 신디케이트(National Allied Newspaper Syndicate, Inc.)로도 잘알려진 후에 DC코믹스가 되는 DC의 어원은 1937년에 설립된 디텍티브 코믹스(Detective Comics, Inc.)에서 유래되는 약자이다.\[1\]
 
 ## 같이 보기
 

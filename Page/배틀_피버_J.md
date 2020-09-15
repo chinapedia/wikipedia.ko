@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [배틀 피버 J](https://ko.wikipedia.org/wiki/배틀_피버_J).
 
 
-《**배틀 피버 J**》()는 [일본](../Page/일본.md "wikilink") [토에이](https://ko.wikipedia.org/wiki/토에이 "wikilink")가 제작한 [특촬](https://ko.wikipedia.org/wiki/특촬 "wikilink") 드라마 [슈퍼 전대 시리즈의](../Page/슈퍼_전대_시리즈.md "wikilink") 3번째 작품\[1\] 으로, [1979년](../Page/1979년.md "wikilink") [2월 3일부터](../Page/2월_3일.md "wikilink") [1980년](../Page/1980년.md "wikilink") [1월 26일까지](../Page/1월_26일.md "wikilink") 일본 [TV 아사히](../Page/TV_아사히.md "wikilink") 계열에서 방영되었다.
+《**배틀 피버 J**》()는 [일본](../Page/일본.md "wikilink") [토에이](https://ko.wikipedia.org/wiki/토에이 "wikilink")가 제작한 [특촬](https://ko.wikipedia.org/wiki/특촬 "wikilink") 드라마 [슈퍼 전대 시리즈의](../Page/슈퍼_전대_시리즈.md "wikilink") 3번째 작품\[1\] 으로, [1979년](../Page/1979년.md "wikilink") [2월 3일부터](../Page/2월_3일.md "wikilink") [1980년](../Page/1980년.md "wikilink") [1월 26일까지](../Page/1월_26일.md "wikilink") 일본 [TV 아사히](../Page/TV_아사히.md "wikilink") 계열에서 방영되었다. [대한민국](../Page/대한민국.md "wikilink")에서는 [1980년](../Page/1980년.md "wikilink") [7월](../Page/7월.md "wikilink")부터 **파워레인저 배틀피버**라는 이름으로 방영한 바가 있다.
 
 ## 배경
 

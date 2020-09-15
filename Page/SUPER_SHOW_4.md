@@ -23,7 +23,7 @@
 
 ### 공연 취소
 
-[2012년](../Page/2012년.md "wikilink") [5월 5일에](../Page/5월_5일.md "wikilink") [호주](../Page/오스트레일리아.md "wikilink") [시드니](../Page/시드니.md "wikilink")의 올폰스 아레나에서 개최 예정이었던 공연이 현지 기획사 사정으로 돌연 취소 되었다. 기획사 JK엔터테인먼트는 "공연 디렉터의 건강이 위독해져 병원에 입원하였다. 정상적인 공연 진행이 어렵다고 판단, 공연을 취소하게 됐다. 팬분들에게 죄송하다."라는 글을 남겼고 5월 17일부터 티켓환불을 시작했다.\[4\]
+[2012년](../Page/2012년.md "wikilink") [5월 5일에](../Page/5월_5일.md "wikilink") [호주](../Page/오스트레일리아.md "wikilink") [시드니](../Page/시드니.md "wikilink")의 올폰스 아레나에서 개최 예정이었던 공연이 현지 기획사 사정으로 돌연 취소되었다. 기획사 JK엔터테인먼트는 "공연 디렉터의 건강이 위독해져 병원에 입원하였다. 정상적인 공연 진행이 어렵다고 판단, 공연을 취소하게 됐다. 팬분들에게 죄송하다."라는 글을 남겼고 5월 17일부터 티켓환불을 시작했다.
 
 ### 음향 사고
 
@@ -53,7 +53,7 @@
 <td><p>2011년 11월 19일</p></td>
 <td><p><a href="../Page/서울특별시.md" title="wikilink">서울</a></p></td>
 <td></td>
-<td><p><a href="../Page/올림픽체조경기장.md" title="wikilink">올림픽체조경기장</a>[5]</p></td>
+<td><p><a href="../Page/올림픽체조경기장.md" title="wikilink">올림픽체조경기장</a>[4]</p></td>
 <td><p>통산 28,094명</p></td>
 </tr>
 <tr class="odd">
@@ -65,9 +65,9 @@
 </tr>
 <tr class="even">
 <td><p>2011년 12월 10일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/오사카" title="wikilink">오사카</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/대판" title="wikilink">대판</a></p></td>
 <td></td>
-<td><p><a href="../Page/오사카_돔.md" title="wikilink">쿄세라 돔 오사카</a>[6]</p></td>
+<td><p><a href="../Page/오사카_돔.md" title="wikilink">쿄세라 돔 오사카</a></p></td>
 <td><p>통산 90,150명</p></td>
 </tr>
 <tr class="odd">
@@ -79,9 +79,9 @@
 </tr>
 <tr class="even">
 <td><p>2012년 2월 2일</p></td>
-<td><p><a href="../Page/타이베이시.md" title="wikilink">타이베이</a></p></td>
+<td><p><a href="../Page/타이베이시.md" title="wikilink">대북</a></p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/타이베이_아레나" title="wikilink">타이베이 아레나</a>[7]</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/타이베이_아레나" title="wikilink">타이베이 아레나</a>[5]</p></td>
 <td><p>통산 46,491명</p></td>
 </tr>
 <tr class="odd">
@@ -108,7 +108,7 @@
 <tr class="even">
 <td><p>2012년 2월 18일</p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/싱가포르_인도어_스타디움" title="wikilink">싱가포르 인도어 스타디움</a>[8]</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/싱가포르_인도어_스타디움" title="wikilink">싱가포르 인도어 스타디움</a>[6]</p></td>
 <td><p>통산 22,597명</p></td>
 <td></td>
 </tr>
@@ -122,7 +122,7 @@
 <tr class="even">
 <td><p>2012년 3월 9일</p></td>
 <td></td>
-<td><p>베네시안 호텔 코타이 아레나[9]</p></td>
+<td><p>베네시안 호텔 코타이 아레나[7]</p></td>
 <td><p>통산 26,756명</p></td>
 <td></td>
 </tr>
@@ -137,7 +137,7 @@
 <td><p>2012년 3월 16일</p></td>
 <td><p><a href="../Page/방콕.md" title="wikilink">방콕</a></p></td>
 <td></td>
-<td><p>임펙트 아레나 무앙 통 타니[10]</p></td>
+<td><p>임펙트 아레나 무앙 통 타니[8]</p></td>
 <td><p>통산 44,396명</p></td>
 </tr>
 <tr class="odd">
@@ -165,7 +165,7 @@
 <td><p>2012년 4월 6일</p></td>
 <td><p><a href="../Page/파리_(프랑스).md" title="wikilink">파리</a></p></td>
 <td></td>
-<td><p>르 제니스 드 파리[11]</p></td>
+<td><p>르 제니스 드 파리[9]</p></td>
 <td><p>7,123명</p></td>
 </tr>
 <tr class="odd">
@@ -177,16 +177,16 @@
 </tr>
 <tr class="even">
 <td><p>2012년 4월 14일</p></td>
-<td><p><a href="../Page/상하이시.md" title="wikilink">상하이</a></p></td>
+<td><p><a href="../Page/상하이시.md" title="wikilink">상해</a></p></td>
 <td></td>
-<td><p>메르세데스 벤츠 아레나[12]</p></td>
+<td><p>메르세데스 벤츠 아레나[10]</p></td>
 <td><p>13,619명</p></td>
 </tr>
 <tr class="odd">
 <td><p>2012년 4월 27일</p></td>
 <td><p><a href="../Page/자카르타.md" title="wikilink">자카르타</a></p></td>
 <td></td>
-<td><p>마타 일랑 인터네셔널 스타디움[13]</p></td>
+<td><p>마타 일랑 인터네셔널 스타디움[11]</p></td>
 <td><p>통산 35,286명</p></td>
 </tr>
 <tr class="even">
@@ -205,9 +205,9 @@
 </tr>
 <tr class="even">
 <td><p>2012년 5월 12일</p></td>
-<td><p><a href="../Page/도쿄.md" title="wikilink">도쿄</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/동경" title="wikilink">동경</a></p></td>
 <td></td>
-<td><p><a href="../Page/도쿄_돔.md" title="wikilink">도쿄 돔</a>[14]</p></td>
+<td><p><a href="../Page/도쿄_돔.md" title="wikilink">도쿄 돔</a>[12]</p></td>
 <td><p>통산 110,392명</p></td>
 </tr>
 <tr class="odd">
@@ -221,7 +221,7 @@
 <td><p>2012년 5월 26일</p></td>
 <td><p><a href="../Page/서울특별시.md" title="wikilink">서울</a></p></td>
 <td></td>
-<td><p>올림픽체조경기장[15]<small>(앙코르)</small></p></td>
+<td><p>올림픽체조경기장[13]<small>(앙코르)</small></p></td>
 <td><p>통산 27,512명</p></td>
 </tr>
 <tr class="odd">
@@ -252,7 +252,7 @@
 
 ## 제작
 
-  - [슈퍼주니어](../Page/슈퍼주니어.md "wikilink") ([이특](../Page/이특.md "wikilink"), [예성](../Page/예성.md "wikilink"), [신동](../Page/신동_\(가수\).md "wikilink"), [성민](../Page/성민_\(1986년\).md "wikilink"), [은혁](../Page/은혁.md "wikilink"), [시원](../Page/시원_\(가수\).md "wikilink"), [동해](../Page/동해_\(가수\).md "wikilink"), [려욱](../Page/려욱.md "wikilink"), [규현](../Page/규현.md "wikilink")), [조미](../Page/조미_\(가수\).md "wikilink")\[16\], [헨리](../Page/헨리_\(가수\).md "wikilink")\[17\]
+  - [슈퍼주니어](../Page/슈퍼주니어.md "wikilink") ([이특](../Page/이특.md "wikilink"), [예성](../Page/예성.md "wikilink"), [신동](../Page/신동_\(가수\).md "wikilink"), [성민](../Page/성민_\(1986년\).md "wikilink"), [은혁](../Page/은혁.md "wikilink"), [시원](../Page/시원_\(가수\).md "wikilink"), [동해](../Page/동해_\(가수\).md "wikilink"), [려욱](../Page/려욱.md "wikilink"), [규현](../Page/규현.md "wikilink")), [조미](../Page/조미_\(가수\).md "wikilink")\[14\], [헨리](../Page/헨리_\(가수\).md "wikilink")\[15\]
   - 주최 : [SM엔터테인먼트](https://ko.wikipedia.org/wiki/SM엔터테인먼트 "wikilink")
   - 주관 : 드림메이커
   - 후원
@@ -263,31 +263,31 @@
 
 ## 게스트
 
-| 일정            | 게스트                                                                                                                                                                   |
-| ------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2011년 11월 19일 | [빅토리아](../Page/빅토리아_\(가수\).md "wikilink"), [설리](https://ko.wikipedia.org/wiki/설리 "wikilink"), [엠버](../Page/엠버_\(가수\).md "wikilink")                                   |
-| 2011년 11월 20일 | [빅토리아](../Page/빅토리아_\(가수\).md "wikilink"), [설리](https://ko.wikipedia.org/wiki/설리 "wikilink"), [엠버](../Page/엠버_\(가수\).md "wikilink"), [강소라](../Page/강소라.md "wikilink") |
-| 2011년 12월 10일 | [빅토리아](../Page/빅토리아_\(가수\).md "wikilink"), [설리](https://ko.wikipedia.org/wiki/설리 "wikilink"), [엠버](../Page/엠버_\(가수\).md "wikilink")                                   |
-| 2011년 12월 11일 |                                                                                                                                                                       |
-| 2012년 2월 2일   | [설리](https://ko.wikipedia.org/wiki/설리 "wikilink"), [엠버](../Page/엠버_\(가수\).md "wikilink")                                                                              |
-| 2012년 2월 3일   |                                                                                                                                                                       |
-| 2012년 2월 4일   |                                                                                                                                                                       |
-| 2012년 2월 5일   |                                                                                                                                                                       |
-| 2012년 2월 18일  |                                                                                                                                                                       |
-| 2012년 2월 19일  |                                                                                                                                                                       |
-| 2012년 3월 9일   |                                                                                                                                                                       |
-| 2012년 3월 10일  |                                                                                                                                                                       |
-| 2012년 3월 16일  |                                                                                                                                                                       |
-| 2012년 3월 17일  |                                                                                                                                                                       |
-| 2012년 3월 18일  |                                                                                                                                                                       |
-| 2012년 4월 6일   | [천상지희 다나&선데이](../Page/천상지희_다나&선데이.md "wikilink")                                                                                                                      |
-| 2012년 4월 27일  | [EXO-M](https://ko.wikipedia.org/wiki/EXO-M "wikilink")                                                                                                               |
-| 2012년 4월 28일  |                                                                                                                                                                       |
-| 2012년 4월 29일  |                                                                                                                                                                       |
-| 2012년 5월 12일  | [f(x)](https://ko.wikipedia.org/wiki/f\(x\) "wikilink")                                                                                                               |
-| 2012년 5월 13일  |                                                                                                                                                                       |
-| 2012년 5월 27일  | [동방신기](../Page/동방신기.md "wikilink")                                                                                                                                    |
-|               |                                                                                                                                                                       |
+| 일정            | 게스트                                                                                                                                                          |
+| ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 2011년 11월 19일 | [빅토리아](../Page/빅토리아_\(가수\).md "wikilink"), [설리](../Page/설리_\(1994년\).md "wikilink"), [엠버](../Page/엠버_\(가수\).md "wikilink")                                   |
+| 2011년 11월 20일 | [빅토리아](../Page/빅토리아_\(가수\).md "wikilink"), [설리](../Page/설리_\(1994년\).md "wikilink"), [엠버](../Page/엠버_\(가수\).md "wikilink"), [강소라](../Page/강소라.md "wikilink") |
+| 2011년 12월 10일 | [빅토리아](../Page/빅토리아_\(가수\).md "wikilink"), [설리](../Page/설리_\(1994년\).md "wikilink"), [엠버](../Page/엠버_\(가수\).md "wikilink")                                   |
+| 2011년 12월 11일 |                                                                                                                                                              |
+| 2012년 2월 2일   | [설리](../Page/설리_\(1994년\).md "wikilink"), [엠버](../Page/엠버_\(가수\).md "wikilink")                                                                              |
+| 2012년 2월 3일   |                                                                                                                                                              |
+| 2012년 2월 4일   |                                                                                                                                                              |
+| 2012년 2월 5일   |                                                                                                                                                              |
+| 2012년 2월 18일  |                                                                                                                                                              |
+| 2012년 2월 19일  |                                                                                                                                                              |
+| 2012년 3월 9일   |                                                                                                                                                              |
+| 2012년 3월 10일  |                                                                                                                                                              |
+| 2012년 3월 16일  |                                                                                                                                                              |
+| 2012년 3월 17일  |                                                                                                                                                              |
+| 2012년 3월 18일  |                                                                                                                                                              |
+| 2012년 4월 6일   | [천상지희 다나&선데이](../Page/천상지희_다나&선데이.md "wikilink")                                                                                                             |
+| 2012년 4월 27일  | [EXO-M](https://ko.wikipedia.org/wiki/EXO-M "wikilink")                                                                                                      |
+| 2012년 4월 28일  |                                                                                                                                                              |
+| 2012년 4월 29일  |                                                                                                                                                              |
+| 2012년 5월 12일  | [f(x)](https://ko.wikipedia.org/wiki/f\(x\) "wikilink")                                                                                                      |
+| 2012년 5월 13일  |                                                                                                                                                              |
+| 2012년 5월 27일  | [동방신기](../Page/동방신기.md "wikilink")                                                                                                                           |
+|               |                                                                                                                                                              |
 
 ## 디스코그래피
 
@@ -364,6 +364,12 @@
 </tbody>
 </table>
 
+## 미디어
+
+### 3D 영화
+
+  - [슈퍼쇼4 3D](https://ko.wikipedia.org/wiki/슈퍼쇼4_3D "wikilink") (2013년 8월 8일)
+
 ## 각주
 
 <references/>
@@ -383,7 +389,5 @@
 11.
 12.
 13.
-14.
-15.
-16. [파리](../Page/파리_\(프랑스\).md "wikilink"), [자카르타](../Page/자카르타.md "wikilink") 불참
-17. [파리](../Page/파리_\(프랑스\).md "wikilink"), [자카르타](../Page/자카르타.md "wikilink"), [동경](https://ko.wikipedia.org/wiki/동경 "wikilink"), 서울 앙코르 불참
+14. [파리](../Page/파리_\(프랑스\).md "wikilink"), [자카르타](../Page/자카르타.md "wikilink") 불참
+15. [파리](../Page/파리_\(프랑스\).md "wikilink"), [자카르타](../Page/자카르타.md "wikilink"), [동경](https://ko.wikipedia.org/wiki/동경 "wikilink"), 서울 앙코르 불참

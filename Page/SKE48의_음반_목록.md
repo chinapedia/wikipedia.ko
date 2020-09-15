@@ -810,7 +810,7 @@
 
   - [SKE48의 음반 목록](http://www.ske48.co.jp/discography/list.php) 공식 사이트
   - [SKE48의 음반 목록](https://web.archive.org/web/20111104200019/http://avexnet.jp/id/ske48/discography/) [에이벡스 트랙스](https://ko.wikipedia.org/wiki/에이벡스_트랙스 "wikilink")
-  - [SKE48의 음반 목록](http://www.crownrecord.co.jp/artist/ske48/discography.html) [CROWN GOLD](https://ko.wikipedia.org/wiki/CROWN_GOLD "wikilink")
+  - [SKE48의 음반 목록](https://web.archive.org/web/20110903185431/http://www.crownrecord.co.jp/artist/ske48/discography.html) [CROWN GOLD](https://ko.wikipedia.org/wiki/CROWN_GOLD "wikilink")
   - [SKE48의 음반 목록](http://lantis.jp/new-release/data.php?id=7de144a50b02d4b6448f96c5b0fe909b) [란티스](../Page/란티스.md "wikilink")
 
 [분류:일본 음악가의 음반 목록](https://ko.wikipedia.org/wiki/분류:일본_음악가의_음반_목록 "wikilink") [분류:팝 음반 연보](https://ko.wikipedia.org/wiki/분류:팝_음반_연보 "wikilink") [분류:SKE48](https://ko.wikipedia.org/wiki/분류:SKE48 "wikilink")

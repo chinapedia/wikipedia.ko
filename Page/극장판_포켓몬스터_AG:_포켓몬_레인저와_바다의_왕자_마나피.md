@@ -50,7 +50,7 @@
 <!-- end list -->
 
   - 팬텀 톨프
-    성우 : [후지오카 히로시](https://ko.wikipedia.org/wiki/후지오카_히로시 "wikilink") / [최석필](../Page/최석필.md "wikilink")
+    성우 : [후지오카 히로시](../Page/후지오카_히로시.md "wikilink") / [최석필](../Page/최석필.md "wikilink")
     마나피와 함께 물의 신전에 있다는 '바다의 왕관'을 노리는 해적이며 매우 강하지만 무척이나 사악한 성격의 설정으로 등장한다.
 
 <!-- end list -->

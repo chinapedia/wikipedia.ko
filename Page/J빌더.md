@@ -31,9 +31,9 @@
 ## 외부 링크
 
   -
-  - [일부 J빌더 버전 역사](http://www.drbob42.com/JBuilder/index.htm)
+  - [일부 J빌더 버전 역사](https://web.archive.org/web/20110815195514/http://www.drbob42.com/jbuilder/index.htm)
 
 [분류:자바 개발 도구](https://ko.wikipedia.org/wiki/분류:자바_개발_도구 "wikilink") [분류:통합 개발 환경](https://ko.wikipedia.org/wiki/분류:통합_개발_환경 "wikilink") [분류:크로스 플랫폼 소프트웨어](https://ko.wikipedia.org/wiki/분류:크로스_플랫폼_소프트웨어 "wikilink")
 
 1.  <http://www.borland.com/us/company/news/press_releases/2006/11_20_06_J빌더_accelerates_collaborative_development.html>
-2.  [CodeGear Announces New Developer-focused Release of Award-winning J빌더 2007 Integrated Development Environment](http://www.codegear.com/article/36375)
+2.

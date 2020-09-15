@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [AIA Guide to New York City](https://ko.wikipedia.org/wiki/AIA_Guide_to_New_York_City).
 
 
-**AIA Guide to New York City**는 [노벌 화이트](https://ko.wikipedia.org/wiki/노벌_화이트 "wikilink")​​와 엘리엇 윌런스키가 저술한 [뉴욕](../Page/뉴욕.md "wikilink")의 중요하거나 주목할 건축물의 설명과 비평, 사진을 풍부하게 게재한 카탈로그이다.\[1\]\[2\]
+**AIA Guide to New York City**는 [노벌 화이트와](https://ko.wikipedia.org/wiki/노벌_화이트 "wikilink") 엘리엇 윌런스키가 저술한 [뉴욕](../Page/뉴욕.md "wikilink")의 중요하거나 주목할 건축물의 설명과 비평, 사진을 풍부하게 게재한 카탈로그이다.\[1\]\[2\]
 
 초판은 1967년에 출판되었으며, 2010년에는 새롭게 프랜 리돈이 공동 집필에 참여하여 제 5판 ()이 간행되었다.\[3\]\[4\]
 

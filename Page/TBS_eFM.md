@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [TBS eFM](https://ko.wikipedia.org/wiki/TBS_eFM).
 
 
-**TBS eFM**은 [교통방송에서](../Page/TBS_\(대한민국의_방송사\).md "wikilink") 서비스하고 있는 [대한민국](../Page/대한민국.md "wikilink")의 [영어](../Page/영어.md "wikilink") 전문 FM 라디오 방송국으로, [2008년](../Page/2008년.md "wikilink") [12월 1일에](../Page/12월_1일.md "wikilink") 개국하였다.\[1\]
+**TBS eFM**은 [TBS 교통방송에서](../Page/TBS_\(대한민국의_방송사\).md "wikilink") 서비스하고 있는 [대한민국](../Page/대한민국.md "wikilink")의 [영어](../Page/영어.md "wikilink") 전문 FM 라디오 방송국으로, [2008년](../Page/2008년.md "wikilink") [12월 1일에](../Page/12월_1일.md "wikilink") 개국하였다.\[1\]
 
 ## 연혁
 
@@ -16,7 +16,7 @@
   - 시설자의 명칭 : [서울특별시](../Page/서울특별시.md "wikilink")
   - 무선국의 명칭 : 영어 FM 방송국
   - 무선설비의 설치장소
-      - 연주소 : [서울특별시](../Page/서울특별시.md "wikilink") [마포구](../Page/마포구.md "wikilink") 매봉산로 31 에스플렉스센터 ([TBS 교통방송](../Page/교통방송.md "wikilink"))
+      - 연주소 : [서울특별시](../Page/서울특별시.md "wikilink") [마포구](../Page/마포구.md "wikilink") 매봉산로 31 에스플렉스센터 ([TBS 교통방송](../Page/TBS_\(대한민국의_방송사\).md "wikilink"))
       - 송신소 : 서울특별시 [용산구](https://ko.wikipedia.org/wiki/용산구 "wikilink") 남산공원길 126 ([N서울타워](../Page/N서울타워.md "wikilink"))
   - 호출부호 : HLSW-FM
   - 주파수 : FM 101.3㎒
@@ -80,16 +80,14 @@
   - 21:00《[악동서울](http://tbs.seoul.kr/cont/eFM/Akdongseoul/mcinfo/mcinfo.do?programId=PG2061113E)》
   - 22:00《[天涯万里情](http://tbs.seoul.kr/cont/eFM/manlijung/introduction/introduction.do?programId=PG2061396E)》
 
-## 관련 항목
+## 같이 보기
 
-  - [TBS 교통방송](../Page/TBS_\(대한민국의_방송사\).md "wikilink")
+  - [한국교통방송](../Page/한국교통방송.md "wikilink")
   - [부산영어방송재단](../Page/부산영어방송재단.md "wikilink")
   - [광주영어방송재단](../Page/광주영어방송재단.md "wikilink")
   - [아리랑 라디오](../Page/아리랑_라디오.md "wikilink")
 
 ## 각주
-
-<references/>
 
 ## 외부 링크
 

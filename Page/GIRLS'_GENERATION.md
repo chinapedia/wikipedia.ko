@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [GIRLS\' GENERATION](https://ko.wikipedia.org/wiki/GIRLS\'_GENERATION).
 
 
-《**GIRLS' GENERATION**》은 대한민국의 [걸 그룹](../Page/걸_그룹.md "wikilink") [소녀시대](../Page/소녀시대.md "wikilink")의 첫 번째 일본 정규 앨범이다. 2011년 6월 1일 일본에서 세 가지의 다른 버전으로 [나유타 웨이브를](https://ko.wikipedia.org/wiki/나유타_웨이브 "wikilink") 통해 발매되었다. 앨범은 발매 첫 날 73,583만 장을 팔았다.
+《**GIRLS' GENERATION**》은 [대한민국](../Page/대한민국.md "wikilink")의 [걸 그룹](../Page/걸_그룹.md "wikilink") [소녀시대](../Page/소녀시대.md "wikilink")의 첫 번째 일본 정규 앨범이다. [2011년](../Page/2011년.md "wikilink") [6월 1일](../Page/6월_1일.md "wikilink") [일본](../Page/일본.md "wikilink")에서 세 가지의 다른 버전으로 [나유타 웨이브를](https://ko.wikipedia.org/wiki/나유타_웨이브 "wikilink") 통해 발매되었다. 앨범은 발매 첫 날 73,583만 장을 팔았다.
 
 ## 프로모션
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [UVB-76](https://ko.wikipedia.org/wiki/UVB-76).
 
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:Uvb76antenna.jpg "wikilink")  **UVB-76** 또는 **유베베 76**()은 러시아 어딘가에서 송출되는 [단파 방송](https://ko.wikipedia.org/wiki/단파_방송 "wikilink") [호출부호](https://ko.wikipedia.org/wiki/호출부호 "wikilink")로, 일반적으로 주파수 4625[KHz](https://ko.wikipedia.org/wiki/KHz "wikilink")(낮은 진폭의 [AM](https://ko.wikipedia.org/wiki/AM "wikilink") 주파수이다.)에 있다. [라디오 청취자](https://ko.wikipedia.org/wiki/단파_청취자 "wikilink") 사이에서는 이 주파수를 **부저**()라고 부른다 이 방송은 하루 24시간 동안, 분당 약 25회의 속도로 반복되는 짧고 단조로운 소리로 이루어져 있으며, 1982년 이후부터 청취되기 시작했다.\[1\] 드물게 부저 소리 대신 러시아어의 목소리가 들리기도 한다.\[2\] 많은 추측에도 불구하고, 이 방송의 실제 목적은 대중에게 알려지지 않고 있다.\[3\]
+[섬네일](https://ko.wikipedia.org/wiki/파일:Uvb76antenna.jpg "wikilink")  **UVB-76** 또는 **유베베 76**()은 러시아의 특정지역에서 송출되는 [단파 방송](https://ko.wikipedia.org/wiki/단파_방송 "wikilink") [호출부호](https://ko.wikipedia.org/wiki/호출부호 "wikilink")로, 일반적으로 주파수 4625[KHz](https://ko.wikipedia.org/wiki/KHz "wikilink")(낮은 진폭의 [AM](https://ko.wikipedia.org/wiki/AM "wikilink") 주파수이다.)에 있다. [라디오 청취자](https://ko.wikipedia.org/wiki/단파_청취자 "wikilink") 사이에서는 이 주파수를 **부저**()라고 부른다 이 방송은 하루 24시간 동안, 분당 약 25회의 속도로 반복되는 짧고 단조로운 소리로 이루어져 있으며, 1982년 이후부터 청취되기 시작했다.\[1\] 드물게 부저 소리 대신 러시아어의 목소리가 들리기도 한다.\[2\] 많은 추측에도 불구하고, 이 방송의 실제 목적은 대중에게 알려지지 않고 있다.\[3\]
 
 ## 일반 전송
 

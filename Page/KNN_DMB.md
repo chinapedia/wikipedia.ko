@@ -28,7 +28,7 @@
 <!-- end list -->
 
   -
-    KNN이 운영하는 DMB 비디오 채널이다. [KNN TV를](https://ko.wikipedia.org/wiki/KNN_TV "wikilink") 재전송한다.
+    KNN이 운영하는 DMB 비디오 채널이다. [KNN TV와](https://ko.wikipedia.org/wiki/KNN_TV "wikilink") [SBS u를](https://ko.wikipedia.org/wiki/SBS_u "wikilink") 재전송한다.
 
 :;편성표
 

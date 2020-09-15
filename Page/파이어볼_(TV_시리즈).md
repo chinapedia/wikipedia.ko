@@ -5,7 +5,7 @@
 
 ## 개요
 
-바깥 세계로부터 격리된 저택 안에서, 선대가 남긴 서적으로 바깥 세계를 배우고 있는 드롯셀과 그(녀)의 [집사](https://ko.wikipedia.org/wiki/집사 "wikilink") 게대흐트니스의 일상을 그린 코미디 작품.
+바깥 세계로부터 격리된 저택 안에서, 선대가 남긴 서적으로 바깥 세계를 배우고 있는 드롯셀과 그(녀)의 [집사](../Page/집사.md "wikilink") 게대흐트니스의 일상을 그린 코미디 작품.
 
 ### 제1기
 
@@ -398,11 +398,11 @@
 
 ## 외부 링크
 
-  - [공식 홈페이지](http://www.disneychannel.jp/dc/program/anime/fireball/)
+  - [공식 홈페이지](https://web.archive.org/web/20111018111643/http://www.disneychannel.jp/dc/program/anime/fireball/)
 
-  - [TOKYO MX 公式サイト](http://www.mxtv.co.jp/fireball/)
+  - [TOKYO MX 公式サイト](https://web.archive.org/web/20111018163629/http://www.mxtv.co.jp/fireball/)
 
-  - [ファイアボール・ブログ](http://www.disneychannel.jp/dc/program/anime/fireball/blog/)
+  - [ファイアボール・ブログ](https://web.archive.org/web/20111018143959/http://www.disneychannel.jp/dc/program/anime/fireball/blog/)
 
   - [ファイアボール・概要と解説（제1シリーズ）](http://trow.cc/wiki/fireball/summary_and_explanation)
 

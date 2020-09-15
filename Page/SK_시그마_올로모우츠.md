@@ -16,6 +16,6 @@
 
 ## 외부 링크
 
-  - [공식 홈페이지](http://www.sigmafotbal.cz/)
+  - [공식 홈페이지](https://web.archive.org/web/20131102233425/http://www.sigmafotbal.cz/)
 
 [분류:체코의 축구단](https://ko.wikipedia.org/wiki/분류:체코의_축구단 "wikilink") [\*](https://ko.wikipedia.org/wiki/분류:SK_시그마_올로모우츠 "wikilink") [분류:1919년 설립된 축구단](https://ko.wikipedia.org/wiki/분류:1919년_설립된_축구단 "wikilink")

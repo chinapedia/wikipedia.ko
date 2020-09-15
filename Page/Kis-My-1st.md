@@ -37,7 +37,7 @@
         작사: 우에나카 죠야 / 작곡: 사뮤엘 와에르모, 스테판 에버그, Octobar / 편곡: 나카무라 야스나리
 9.  **Take Over**
       -
-        작사: Komei Kobayashi / 작곡: [Steven Lee](https://ko.wikipedia.org/wiki/스티븐_리_\(음악_프로듀서\) "wikilink"), Sean Alexander, Drew Ryan Scott / 편곡: CHOKKAKU, Steven Lee, Sean Alexander
+        작사: Komei Kobayashi / 작곡: [Steven Lee](../Page/스티븐_리_\(음악_프로듀서\).md "wikilink"), Sean Alexander, Drew Ryan Scott / 편곡: CHOKKAKU, Steven Lee, Sean Alexander
 10. **Kickin' it** (KITAYAMA HIROMITSU/FUJIGAYA TAISUKE/[TAMAMORI YUTA](https://ko.wikipedia.org/wiki/다마모리_유타 "wikilink"))
       -
         작사: KOMU / 작곡: Niclas Molinder, Joacim Persson, Johan Alkenas, 드류 라이언 스콧

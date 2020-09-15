@@ -9,7 +9,7 @@
 
 [2009년](../Page/2009년.md "wikilink") [8월 8일](../Page/8월_8일.md "wikilink") 우편 사업이 [전일본공수](../Page/전일본공수.md "wikilink")와 제휴를 해소하고 소유하는 주식을 [전일본공수](../Page/전일본공수.md "wikilink")에 양도했다.\[1\]
 
-[2009년](../Page/2009년.md "wikilink") [10월](../Page/10월.md "wikilink") [전일본공수](../Page/전일본공수.md "wikilink")의 투자를 통해 [오키나와](https://ko.wikipedia.org/wiki/오키나와 "wikilink")의 [나하 공항에](https://ko.wikipedia.org/wiki/나하_공항 "wikilink") 건설한 로지스텟쿠 기지를 가동시켜 이 공항을 [일본](../Page/일본.md "wikilink")과 [동아시아](https://ko.wikipedia.org/wiki/동아시아 "wikilink") 사이의 화물 항공편의 허브 앤 스포크 거점으로 하는 체제가 도모되었다. 그러나 사업 주체는 ​​[2008년](../Page/2008년.md "wikilink") [전일본공수](../Page/전일본공수.md "wikilink")를 비롯해 킨테츠 익스프레스, 일본 통운 상선 미츠이 물류 합작으로 설립된 주식 회사로 올 익스프레스([2009년](../Page/2009년.md "wikilink") [8월](../Page/8월.md "wikilink") 합병)의 범주에 해당된다.
+[2009년](../Page/2009년.md "wikilink") [10월](../Page/10월.md "wikilink") [전일본공수](../Page/전일본공수.md "wikilink")의 투자를 통해 [오키나와](https://ko.wikipedia.org/wiki/오키나와 "wikilink")의 [나하 공항에](https://ko.wikipedia.org/wiki/나하_공항 "wikilink") 건설한 로지스텟쿠 기지를 가동시켜 이 공항을 [일본](../Page/일본.md "wikilink")과 [동아시아](https://ko.wikipedia.org/wiki/동아시아 "wikilink") 사이의 화물 항공편의 허브 앤 스포크 거점으로 하는 체제가 도모되었다. 그러나 사업 주체는 [2008년](../Page/2008년.md "wikilink") [전일본공수](../Page/전일본공수.md "wikilink")를 비롯해 킨테츠 익스프레스, 일본 통운 상선 미츠이 물류 합작으로 설립된 주식 회사로 올 익스프레스([2009년](../Page/2009년.md "wikilink") [8월](../Page/8월.md "wikilink") 합병)의 범주에 해당된다.
 
 [2010년](../Page/2010년.md "wikilink") [4월 1일에](../Page/4월_1일.md "wikilink") [에어재팬](../Page/에어재팬.md "wikilink")과 합병을 결의 하면서 [7월 1일에](../Page/7월_1일.md "wikilink") 합병되었다. 또한 [일본](../Page/일본.md "wikilink") 우정 그룹의 JP 익스프레스도 같은 해 [9월 30일](../Page/9월_30일.md "wikilink") [도쿄](../Page/도쿄도.md "wikilink") 지방법원에서 청산 개시 결정을 받아 파산했다.\[2\]
 

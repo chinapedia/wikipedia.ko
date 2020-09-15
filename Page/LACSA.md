@@ -32,7 +32,7 @@
 
   - [Grupo TACA](https://web.archive.org/web/20170707085303/https://www.taca.com/)
   - [TACA Regional](https://web.archive.org/web/20130424124201/http://www.tacaregional.com/)
-  - [Aeroman](http://www.aeroman.com.sv/)
+  - [Aeroman](https://web.archive.org/web/20120207055818/http://www.aeroman.com.sv/)
   - [Tus Sentidos](https://web.archive.org/web/20090421000933/http://www.tus-sentidos.com/)
   - [LifeMiles](https://archive.is/20110206161505/https://introducing.lifemiles.com/en/)
 

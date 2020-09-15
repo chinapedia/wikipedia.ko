@@ -22,7 +22,7 @@
 
 <!-- end list -->
 
-  - DVD - TOMOHISA YAMASHITA "S​​HORT B​​UT SWEET" 2009.11.23 (APPROX. 50분)
+  - DVD - TOMOHISA YAMASHITA "SHORT BUT SWEET" 2009.11.23 (APPROX. 50분)
 
 ### 초회 한정반 B
 

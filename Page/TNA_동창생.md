@@ -10,7 +10,7 @@
   - 디본
   - 불리 레이
   - 이던 카터 3세
-  - 오스틴 에리스
+  - [오스틴 에리스](../Page/오스틴_에리스.md "wikilink")
   - 거너
   - 사무엘 쇼
   - 브리타니
@@ -19,6 +19,9 @@
   - 제이 애덤스
   - 조나 아달맨
   - 레이시 애드키슨
+  - 데이브 크리스트
+  - 마이클 엘긴
+  - [브라이언 케이지](../Page/브라이언_케이지.md "wikilink")
   - 브렌트 얼브라잇
   - 마이크 알폰소
   - 윌리엄 알폰소
@@ -48,39 +51,38 @@
   - 레테스 브할라
   - 트렌샤 비거스
   - 루써 비거스
-  - 코디 로즈
-  - 크리스챤 케이지
+  - [코디 로즈](../Page/코디_로즈.md "wikilink")
+  - [크리스천 케이지](../Page/크리스천_\(프로레슬링_선수\).md "wikilink")
   - [헐크 호건](../Page/헐크_호건.md "wikilink")
   - [릭 플레어](../Page/릭_플레어.md "wikilink")
   - [랜디 새비지](../Page/랜디_새비지.md "wikilink")
-  - 스팅
-  - 커트 앵글
-  - 제프 제럿
-  - AJ 스타일스
+  - [스팅](../Page/스팅_\(프로레슬링_선수\).md "wikilink")
+  - [커트 앵글](../Page/커트_앵글.md "wikilink")
+  - [제프 제럿](https://ko.wikipedia.org/wiki/제프_제럿 "wikilink")
+  - [A.J. 스타일스](../Page/A.J._스타일스.md "wikilink")
   - [사모아 조](../Page/사모아_조.md "wikilink")
-  - 바비 루드
+  - [바비 루드](../Page/로버트_루드.md "wikilink")
   - 제임스 스톰
-  - 매트 하디
-  - 제프 하디
-  - 에릭 영
-  - 어비스
-  - 케빈 내쉬
-  - 스캇 스타이너
+  - [맷 하디](../Page/맷_하디.md "wikilink")
+  - [제프 하디](../Page/제프_하디.md "wikilink")
+  - [어비스](../Page/크리스_파크스.md "wikilink")
+  - [케빈 내쉬](../Page/케빈_내쉬.md "wikilink")
+  - [스캇 스타이너](https://ko.wikipedia.org/wiki/스캇_스타이너 "wikilink")
   - 스캇 홀
-  - 릭 스타이너
+  - [릭 스타이너](../Page/릭_스타이너.md "wikilink")
   - 션 월트먼
-  - 부커 T
+  - [부커 T](../Page/부커_허프먼.md "wikilink")
   - 샤멜
   - 크리스탈
-  - 알베르토 엘 파트론
-  - 드류 갤로웨이
+  - [알베르토 엘 파트론](../Page/알베르토_델_리오.md "wikilink")
+  - [드루 갤로웨이](../Page/드루_매킨타이어.md "wikilink")
   - 주니어 파투
   - 브라이더 런트
   - B.G. 제임스
   - 안토니오 뱅크스
   - 커트 헤닝
-  - 다이아몬드 댈러스 페이지
-  - 렉스 루거
+  - [다이아몬드 댈러스 페이지](../Page/다이아몬드_댈러스_페이지.md "wikilink")
+  - [렉스 루거](https://ko.wikipedia.org/wiki/렉스_루거 "wikilink")
   - 헐리우드 노바
   - 재키 게이다
   - [콘시퀀시스 크리드](../Page/오스틴_왓슨.md "wikilink")
@@ -93,29 +95,30 @@
   - 매트 사이달
   - 넬슨 나이츠
   - 트레이시 브룩스
-  - 게일 킴
-  - 안젤리나 러브
-  - 벨벳 스카이
-  - 미키 제임스
-  - ODB
-  - 타라
-  - 제이드
-  - 시에나
+  - [게일 킴](https://ko.wikipedia.org/wiki/게일_킴 "wikilink")
+  - [안젤리나 러브](https://ko.wikipedia.org/wiki/안젤리나_러브 "wikilink")
+  - [벨벳 스카이](https://ko.wikipedia.org/wiki/탈리아_메디슨 "wikilink")
+  - [미키 제임스](../Page/미키_제임스.md "wikilink")
+  - [ODB](https://ko.wikipedia.org/wiki/제시카_크레사 "wikilink")
+  - [타라](../Page/리사_마리_배런.md "wikilink")
+  - [제이드](../Page/제이드_\(프로레슬러\).md "wikilink")
+  - [시에나](../Page/엘리신_케이.md "wikilink")
+  - 테사 블랜차드
   - 폴 런던
-  - 론 킬링스
+  - [론 킬링스](../Page/론_킬링스.md "wikilink")
   - 록시
   - 세레나 딥
   - 샌드맨
   - 톰코
   - 벰피로 워리어
   - 에모 파투
-  - 더스틴 로즈
-  - 더스티 로즈
+  - [더스틴 로즈](../Page/더스틴_로즈.md "wikilink")
+  - [더스티 로즈](../Page/더스티_로즈.md "wikilink")
   - C.W. 앤더슨
   - 콜트 카바나
   - 크리스 해리스
-  - 킵 제임스
-  - 바비 래쉴리
+  - [킵 제임스](https://ko.wikipedia.org/wiki/빌리_건 "wikilink")
+  - [보비 래슐리](../Page/보비_래슐리.md "wikilink")
   - 대니 도링
   - 브라이언 롤러
   - 거터
@@ -141,11 +144,11 @@
   - 비니 발렌티노
   - 마이크 어썸
   - 마스까리따 사그라다
-  - 에릭 비쇼프
+  - [에릭 비쇼프](https://ko.wikipedia.org/wiki/에릭_비쇼프 "wikilink")
   - 핵터 게레로
-  - 어썸 콩
-  - 앨리
-  - 로렐 반 네스
+  - [어썸 콩](../Page/키아_스티븐스.md "wikilink")
+  - [앨리](../Page/로라_데니스.md "wikilink")
+  - [로렐 반 네스](../Page/첼시_그린.md "wikilink")
   - 브룩
   - 태린 태럴
 

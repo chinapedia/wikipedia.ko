@@ -10,6 +10,6 @@ GEM은 [Atari 주식회사의](https://ko.wikipedia.org/wiki/Atari_주식회사 
 ## 외부 링크
 
   -
-[분류:시스템](https://ko.wikipedia.org/wiki/분류:시스템 "wikilink") [분류:운영 체제 API](https://ko.wikipedia.org/wiki/분류:운영_체제_API "wikilink")
+[분류:시스템](https://ko.wikipedia.org/wiki/분류:시스템 "wikilink") [분류:운영 체제 API](https://ko.wikipedia.org/wiki/분류:운영_체제_API "wikilink") [분류:자유 윈도 시스템](https://ko.wikipedia.org/wiki/분류:자유_윈도_시스템 "wikilink") [분류:윈도 시스템](https://ko.wikipedia.org/wiki/분류:윈도_시스템 "wikilink")
 
 1.

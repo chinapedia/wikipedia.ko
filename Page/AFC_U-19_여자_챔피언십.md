@@ -104,7 +104,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/2019년_AFC_U-19_여자_챔피언십" title="wikilink">2019</a></p></td>
+<td><p><a href="../Page/2019년_AFC_U-19_여자_챔피언십.md" title="wikilink">2019</a></p></td>
 <td><p><br />
 <a href="https://ko.wikipedia.org/wiki/촌부리" title="wikilink">촌부리</a></p></td>
 <td></td>

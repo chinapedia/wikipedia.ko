@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [NOVASONIC 3](https://ko.wikipedia.org/wiki/NOVASONIC_3).
 
 
-**《NOVASONIC 3》**은 [대한민국](../Page/대한민국.md "wikilink")의 록 그룹 [노바소닉](../Page/노바소닉.md "wikilink")의 세 번째 정규 음반이다.
+《**NOVASONIC 3**》은 [대한민국](../Page/대한민국.md "wikilink")의 록 그룹 [노바소닉](../Page/노바소닉.md "wikilink")의 세 번째 정규 음반이다.
 
 ## 앨범
 
@@ -64,9 +64,7 @@
 </tbody>
 </table>
 
-## 인용
-
-<references/>
+## 각주
 
 [분류:노바소닉의 음반](https://ko.wikipedia.org/wiki/분류:노바소닉의_음반 "wikilink") [분류:2001년 음반](https://ko.wikipedia.org/wiki/분류:2001년_음반 "wikilink") [분류:록 음반](https://ko.wikipedia.org/wiki/분류:록_음반 "wikilink") [분류:대한민국의 음반](https://ko.wikipedia.org/wiki/분류:대한민국의_음반 "wikilink") [분류:한국어 음반](https://ko.wikipedia.org/wiki/분류:한국어_음반 "wikilink") [분류:랩 록 음반](https://ko.wikipedia.org/wiki/분류:랩_록_음반 "wikilink")
 

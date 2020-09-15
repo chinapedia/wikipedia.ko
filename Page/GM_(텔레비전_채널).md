@@ -5,7 +5,7 @@
 
 ## 개요
 
-이 채널을 지텔레비전(현 베리미디어)에 넘기면서 같은 해 6월 1일 자로 KM에서 GMTV()로 채널명이 변경되었다.\[1\]2018년 12월 1일, GMTV에서 GM로 재개칭했다.
+이 채널을 지텔레비전(현 베리미디어)에 넘기면서 같은 해 6월 1일 자로 KM에서 GMTV()로 채널명이 변경되었다.\[1\] 2018년 12월 1일, GMTV에서 GM로 재개칭했다.
 
 ## 연혁
 
@@ -59,7 +59,6 @@
 | **교양**  | [콕킹 코리아](https://ko.wikipedia.org/wiki/콕킹_코리아 "wikilink")             | [SBS](../Page/SBS.md "wikilink")                            |
 | **교양**  | [TV 보험상담소](https://ko.wikipedia.org/wiki/TV_보험상담소 "wikilink")         | [TBC](https://ko.wikipedia.org/wiki/대구방송 "wikilink")        |
 | **기타**  | [통큰 부동산](https://ko.wikipedia.org/wiki/통큰_부동산 "wikilink")             |                                                             |
-| **음악**  | [전국 TOP10 가요쇼](https://ko.wikipedia.org/wiki/전국_TOP10_가요쇼 "wikilink") | [JTV](../Page/전주방송.md "wikilink")                           |
 
 ## 종영 프로그램
 

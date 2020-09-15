@@ -1,17 +1,18 @@
 > This article is converted from Wikipedia: [SBS 애니갤러리](https://ko.wikipedia.org/wiki/SBS_애니갤러리).
 
 
-《**SBS 애니갤러리**》()는 2007년부터 SBS에서 방영되는 독립 애니메이션 소개 프로그램이다.
+《**SBS 애니갤러리**》()는 2007년부터 SBS에서 UHD로 방영되는 독립 애니메이션 소개 프로그램이다.
 
 ## 진행
 
-  - [이윤아](../Page/이윤아.md "wikilink")
+  - [김수민 (아나운서)](https://ko.wikipedia.org/wiki/김수민_\(아나운서\) "wikilink")
 
 ### 과거
 
   - 강소영
   - [박선영](../Page/박선영_\(아나운서\).md "wikilink")
   - [김민지](../Page/김민지_\(아나운서\).md "wikilink")
+  - [이윤아](../Page/이윤아.md "wikilink")
   - [최혜림](../Page/최혜림.md "wikilink")
 
 ## 에피소드

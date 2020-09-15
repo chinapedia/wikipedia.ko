@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [뉴턴 OS](https://ko.wikipedia.org/wiki/뉴턴_OS).
 
 
-**뉴턴 OS**는 [애플이](https://ko.wikipedia.org/wiki/애플_\(기업\) "wikilink") [1993년](../Page/1993년.md "wikilink")부터 [1997년](../Page/1997년.md "wikilink")까지 생산한 애플 뉴턴 [PDA](https://ko.wikipedia.org/wiki/PDA "wikilink")를 위한 [운영 체제다](../Page/운영_체제.md "wikilink"). 뉴턴 OS는 완전히 [C++](https://ko.wikipedia.org/wiki/C++ "wikilink")로 작성되었으며, 사용 가능 [메모리](https://ko.wikipedia.org/wiki/메모리 "wikilink")를 효율적으로 관리하고 전력 소모를 줄였다. 옛날의 애플 [매킨토시](../Page/매킨토시.md "wikilink")와 비슷하게, 많은 [애플리케이션은](../Page/응용_소프트웨어.md "wikilink") [ROM](https://ko.wikipedia.org/wiki/ROM "wikilink")에 작성되었고, 사용자 애플리케이션은 [DRAM](https://ko.wikipedia.org/wiki/DRAM "wikilink")이나 [플래시 메모리에](../Page/플래시_메모리.md "wikilink") 저장되었다.
+**뉴턴 OS**는 [애플](../Page/애플.md "wikilink")이 [1993년](../Page/1993년.md "wikilink")부터 [1997년](../Page/1997년.md "wikilink")까지 생산한 애플 뉴턴 [PDA](https://ko.wikipedia.org/wiki/PDA "wikilink")를 위한 [운영 체제다](../Page/운영_체제.md "wikilink"). 뉴턴 OS는 완전히 [C++](https://ko.wikipedia.org/wiki/C++ "wikilink")로 작성되었으며, 사용 가능 [메모리](https://ko.wikipedia.org/wiki/메모리 "wikilink")를 효율적으로 관리하고 전력 소모를 줄였다. 옛날의 애플 [매킨토시](../Page/매킨토시.md "wikilink")와 비슷하게, 많은 [애플리케이션은](../Page/응용_소프트웨어.md "wikilink") [ROM](https://ko.wikipedia.org/wiki/ROM "wikilink")에 작성되었고, 사용자 애플리케이션은 [DRAM](https://ko.wikipedia.org/wiki/DRAM "wikilink")이나 [플래시 메모리에](../Page/플래시_메모리.md "wikilink") 저장되었다.
 
 ## 기능
 

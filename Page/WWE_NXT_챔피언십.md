@@ -14,10 +14,10 @@
 ## 기록들
 
   - 초대 챔피언 : [세스 롤린스](https://ko.wikipedia.org/wiki/세스_롤린스 "wikilink")
-  - 최장수 챔피언 : [애덤 콜](../Page/애덤_콜.md "wikilink")
-  - 최단 기간 챔피언 : [사모아 조](../Page/사모아_조.md "wikilink") (14일)
+  - 최장수 챔피언 : [애덤 콜](../Page/애덤_콜.md "wikilink") (403일)
+  - 최단 기간 챔피언 : 캐리언 크로스 (3일)
   - 최다 챔피언 : [사모아 조](../Page/사모아_조.md "wikilink"), [나카무라 신스케](../Page/나카무라_신스케.md "wikilink") (2회)
-  - 최중량급 챔피언 : [빅 E 랭스턴](https://ko.wikipedia.org/wiki/빅_E_랭스턴 "wikilink") (130kg)
+  - 최중량급 챔피언 : [키스 리](../Page/케에빈_페에인.md "wikilink") (145kg)
   - 최경량급 챔피언 : [핀 베일러](../Page/핀_베일러.md "wikilink") (86kg)
   - 최고령 챔피언 : [바비 루드](https://ko.wikipedia.org/wiki/바비_루드 "wikilink") (39세 262일)
   - 최연소 챔피언 : [보 댈러스](../Page/보_댈러스.md "wikilink") (22세 364일)
@@ -37,9 +37,11 @@
   - [드루 매킨타이어](../Page/드루_매킨타이어.md "wikilink")
   - [안드라데 시엔 알마스](../Page/안드라데_시엔_알마스.md "wikilink")
   - [알레이스터 블랙](../Page/알레이스터_블랙.md "wikilink")
-  - [토마소 치암파](https://ko.wikipedia.org/wiki/토마소_치암파 "wikilink")
+  - [토마소 치암파](../Page/토마소_치암파.md "wikilink")
   - [조니 가가노](../Page/조니_가가노.md "wikilink")
-  - **[애덤 콜](../Page/애덤_콜.md "wikilink")** (현 챔피언)
+  - [애덤 콜](../Page/애덤_콜.md "wikilink")
+  - [키스 리](../Page/케에빈_페에인.md "wikilink")
+  - 캐리언 크로스
 
 ## 같이 보기
 

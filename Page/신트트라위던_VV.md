@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [신트트라위던 VV](https://ko.wikipedia.org/wiki/신트트라위던_VV).
 
 
-**신트트라위던 VV**(K. Sint-Truidense V.V.)는 [벨기에](../Page/벨기에.md "wikilink") [신트트라위던](https://ko.wikipedia.org/wiki/신트트라위던 "wikilink")의 축구 클럽으로, 2019-20 시즌 현재 [벨기에 퍼스트 디비전 A](../Page/벨기에_퍼스트_디비전_A.md "wikilink") 에 소속되어있다.
+**신트트라위던 VV**(K. Sint-Truidense V.V.)는 [벨기에](../Page/벨기에.md "wikilink") [신트트라위던](https://ko.wikipedia.org/wiki/신트트라위던 "wikilink")의 축구 클럽으로, 2020-21 시즌 현재 [주필러 프로 리그에](../Page/벨기에_퍼스트_디비전_A.md "wikilink") 소속되어있다.
 
 ## 역대 성적
 
   - **[벨기에 1부 리그](https://ko.wikipedia.org/wiki/벨기에_1부_리그 "wikilink")**: 준우승 1회 (1965-66)
-  - **[벨기에 2부 리그](https://ko.wikipedia.org/wiki/벨기에_2부_리그 "wikilink")**: 우승 3회 (1986-87, 1993–94, 2008–09), 준우승 1회 (1956-57)
-  - **[벨기에 컵](https://ko.wikipedia.org/wiki/벨기에_컵 "wikilink")**: 준우승 2회 (1970-71, 2002–03)
+  - **[벨기에 2부 리그](../Page/벨기에_2부_리그.md "wikilink")**: 우승 3회 (1986-87, 1993–94, 2008–09), 준우승 1회 (1956-57)
+  - **[벨기에 컵](../Page/벨기에_컵.md "wikilink")**: 준우승 2회 (1970-71, 2002–03)
   - **[벨기에 리그컵](https://ko.wikipedia.org/wiki/벨기에_리그컵 "wikilink")**: 우승 1회 (1997-98)
 
 ## 외부 링크

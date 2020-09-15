@@ -1,44 +1,29 @@
 > This article is converted from Wikipedia: [TV조선](https://ko.wikipedia.org/wiki/TV조선).
 
 
-**TV CHOSUN**(TV朝鮮)은 [대한민국](../Page/대한민국.md "wikilink")의 [종합편성채널로](../Page/대한민국의_종합편성채널.md "wikilink"), [조선일보사](https://ko.wikipedia.org/wiki/조선일보사 "wikilink") 계열의 **조선방송주식회사**가 운영하는 텔레비전 채널이다.
+**TV CHOSUN**(TV朝鮮)은 [대한민국의 종합편성채널로](../Page/대한민국의_종합편성채널.md "wikilink"), [조선일보](../Page/조선일보.md "wikilink") 계열의 **주식회사 조선방송**이 운영하는 텔레비전 채널이다.
 
-## 유료방송
-
-  - 유료 플랫폼으로 방송하며, [종합편성채널](https://ko.wikipedia.org/wiki/종합편성채널 "wikilink")을 운영하고 있다.
-
-## [종합편성채널](https://ko.wikipedia.org/wiki/종합편성채널 "wikilink") 개국
+## 종합편성채널 개국
 
   - [2011년](../Page/2011년.md "wikilink") [1월 18일에](../Page/1월_18일.md "wikilink") 창립하여 [2011년](../Page/2011년.md "wikilink") [12월 1일에](../Page/12월_1일.md "wikilink") 개국하였다.
 
 ## 대주주
 
-  - [㈜조선일보가](../Page/조선일보.md "wikilink") 출자하여 만든 방송사로 [조선일보](../Page/조선일보.md "wikilink")가 대주주이다.
+  - [조선일보](../Page/조선일보.md "wikilink")가 출자하여 만든 방송사로 [조선일보](../Page/조선일보.md "wikilink")가 대주주이다.
 
 ## 대표이사 및 사장
 
   - 김민배 - TV조선 대표이사 전무
 
-## [이사회 의장](https://ko.wikipedia.org/wiki/이사회_의장 "wikilink")
+## 이사회 의장
 
   - [방상훈](../Page/방상훈.md "wikilink")
 
-## 연혁
+## 역사
 
-  - [2009년](../Page/2009년.md "wikilink") [7월 22일](../Page/7월_22일.md "wikilink") 방송법 개정안이 국회를 통과함으로써 종합편성채널 탄생기반이 생겨났다.\[1\]
-  - [2010년](../Page/2010년.md "wikilink") [12월 31일](../Page/12월_31일.md "wikilink") 종합편성 방송채널사업자(당시 CSTV)로 선정되어 활동을 시작하게 된다.\[2\]
-  - [2011년](../Page/2011년.md "wikilink") [1월 28일](../Page/1월_28일.md "wikilink") 조선일보의 조선을 따서 CSTV 법인설립을 완료하였다.
-  - [2011년](../Page/2011년.md "wikilink") [5월 27일](../Page/5월_27일.md "wikilink") 법인명을 CSTV에서 조선방송으로 변경하였다.\[3\]
-  - [2011년](../Page/2011년.md "wikilink") [12월 1일](../Page/12월_1일.md "wikilink") 종편 4사가 모두 개국하여 지금에 이르게 된다.
-  - [2013년](../Page/2013년.md "wikilink") [예능](https://ko.wikipedia.org/wiki/예능 "wikilink") 프로그램을 축소하고 93%의 편성비율로 전환
-  - [2013년](../Page/2013년.md "wikilink") [5월 2일](../Page/5월_2일.md "wikilink") 사회 지도층 성접대 의혹 특종 보도로 TV조선 [안형영](https://ko.wikipedia.org/wiki/안형영 "wikilink"), 서주민, 하누리 기자가 한국기자협회 선정 제271회 이달의 기자상 취재보도부문상을 수상하였다.
-  - [2014년](../Page/2014년.md "wikilink") [6월](../Page/6월.md "wikilink") 평일 낮 10시 50분에 뉴스특보를 편성함.
+[2009년](../Page/2009년.md "wikilink") [7월 22일](../Page/7월_22일.md "wikilink") 방송법 개정안이 국회를 통과함으로써 종합편성채널 탄생기반이 생겨났다. [2010년](../Page/2010년.md "wikilink") [12월 31일](../Page/12월_31일.md "wikilink") 종합편성 방송채널사업자(당시 CSTV)로 선정되어 활동을 시작하였다.\[1\] [2011년](../Page/2011년.md "wikilink") [1월 28일](../Page/1월_28일.md "wikilink") 조선일보의 조선을 따서 CSTV 법인 설립했으며, [5월 27일에](../Page/5월_27일.md "wikilink") 법인명을 CSTV에서 조선방송으로 변경하였다.\[2\] [12월 1일에](../Page/12월_1일.md "wikilink") 종편 4사 동시에 개국하였다. 원년부터 [2018년](../Page/2018년.md "wikilink")까지 시청률을 낮았으며, [2018년](../Page/2018년.md "wikilink")부터 [서혜진](https://ko.wikipedia.org/wiki/서혜진_\(연출가\) "wikilink") [PD](https://ko.wikipedia.org/wiki/PD "wikilink") 후임으로 [관찰 버라이어티](../Page/관찰_버라이어티.md "wikilink") \<[아내의 맛](../Page/아내의_맛.md "wikilink")\>과 시즌제 \<[연애의 맛](../Page/연애의_맛.md "wikilink")\>에 이어 [트로트](../Page/트로트.md "wikilink")에 관한 \<[내일은 미스트롯](../Page/내일은_미스트롯.md "wikilink")\>, \<[내일은 미스터트롯](../Page/내일은_미스터트롯.md "wikilink")\>, \<[사랑의 콜센타](https://ko.wikipedia.org/wiki/사랑의_콜센타 "wikilink")\> 등의 영향으로 [시청률](https://ko.wikipedia.org/wiki/시청률 "wikilink")을 크게 높았다.
 
 ## 직원 현황
-
-### 앵커 겸 기자
-
-  - [이하정](../Page/이하정.md "wikilink") ([MBC](../Page/문화방송.md "wikilink") 아나운서에서 이직)
 
 ### 현직 기자
 
@@ -68,9 +53,9 @@
   - 김동현 기자
   - 김정우 기자
   - [백대우](https://ko.wikipedia.org/wiki/백대우 "wikilink") 기자
-  - [윤우리](https://ko.wikipedia.org/wiki/윤우리 "wikilink") 기자 - [KBS원주방송국](../Page/KBS원주방송국.md "wikilink") 아나운서에서 이직
+  - [윤우리](https://ko.wikipedia.org/wiki/윤우리 "wikilink") 기자 - [KBS원주방송국](../Page/KBS원주방송국.md "wikilink") 아나운서에서 이직 - [TV조선 뉴스 9](../Page/TV조선_뉴스_9.md "wikilink") 진행
   - 조덕현 기자
-  - [윤태윤](https://ko.wikipedia.org/wiki/윤태윤 "wikilink") 기자 - [대전방송](../Page/대전방송.md "wikilink")에서 이직 - TV조선 뉴스 (주말 오전 8시 30분) 진행
+  - [윤태윤](../Page/윤태윤.md "wikilink")(舊. 윤창기) 기자 - [대전방송](../Page/대전방송.md "wikilink") 아나운서에서 이직 - [신통방통](../Page/신통방통.md "wikilink") 진행
   - 이채현 기자
   - 김보건 기자
   - [최지원](https://ko.wikipedia.org/wiki/최지원 "wikilink") 기자
@@ -90,7 +75,7 @@
   - 박상현 기자
   - 최윤정 기자
   - 지선호 기자
-  - [오현주](https://ko.wikipedia.org/wiki/오현주_\(기자\) "wikilink") 기자 - [KBS N에서](https://ko.wikipedia.org/wiki/KBS_N "wikilink") 이직 - TV조선 뉴스9 진행
+  - [오현주](https://ko.wikipedia.org/wiki/오현주_\(기자\) "wikilink") 기자 - [KBS N에서](../Page/KBS_N.md "wikilink") 이직 - [TV조선 뉴스 7](../Page/TV조선_뉴스_9.md "wikilink") 진행
   - 김자민 기자
   - 김지아 기자
   - 황민지 기자
@@ -110,11 +95,12 @@
 
   - [이채림](https://ko.wikipedia.org/wiki/이채림 "wikilink") 기자
   - [조정린](../Page/조정린.md "wikilink") 기자 - 공채 2기 - 방송인 출신
-  - [하누리](https://ko.wikipedia.org/wiki/하누리 "wikilink") 기자 - 사회2부 공채 - [한국일보](../Page/한국일보.md "wikilink"), [MBN](https://ko.wikipedia.org/wiki/MBN "wikilink") 에서 이직
+  - [하누리](https://ko.wikipedia.org/wiki/하누리 "wikilink") 기자 - 조선비즈에서 이직
 
 #### 전국부
 
-  - 이정민 기자
+  - 이정민 기자 - 이데일리 시황캐스터 출신
+  - 장용욱 기자 - [네트워크 매거진](../Page/네트워크_매거진.md "wikilink") 진행
 
 #### 국제부
 
@@ -186,13 +172,19 @@
 
 ### 방송편성
 
-  - 보도 · 시사 프로그램은 제공자막 표시는 광고주만 나열하는 것이 특징이다.\[4\]
-  - 교양 · 예능프로그램은 화면 하단 왼쪽에 **본방송**이라고 표시한다.\[5\]
+  - 보도 · 시사 프로그램은 제공자막 표시는 광고주만 나열하는 것이 특징이다.\[3\]
+  - 교양 · 예능프로그램은 화면 하단 왼쪽에 **본방송**이라고 표시한다.\[4\]
   - 보도 · 시사 · 대담 프로그램은 화면 상단 오른쪽에 TV CHOSUN 로고 **LIVE**이라고 표시한다.
+
+<!-- end list -->
+
+  - 국내와 해외 인기 프로그램\[5\]의 시청하는 것\[6\]으로 추정된다.
 
 ### 현재 방영 프로그램
 
-#### 오락 · 예능 프로그램
+#### 예능 프로그램
+
+[내일은 미스터트롯](../Page/내일은_미스터트롯.md "wikilink") [내일은 미스트롯](../Page/내일은_미스트롯.md "wikilink") [미스터트롯의 맛](https://ko.wikipedia.org/wiki/미스터트롯의_맛 "wikilink") [아내의 맛](../Page/아내의_맛.md "wikilink") [신청곡을 불러드립니다 - 사랑의 콜센타](https://ko.wikipedia.org/wiki/신청곡을_불러드립니다_-_사랑의_콜센타 "wikilink")
 
 #### 시사 · 교양 · 다큐 프로그램
 
@@ -218,7 +210,7 @@
 <td><div style="text-align: center;">
 <p>평일</p>
 </div></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/뉴스퍼레이드_(TV조선)" title="wikilink">뉴스퍼레이드</a></p></td>
+<td><p><a href="../Page/TV조선_뉴스퍼레이드.md" title="wikilink">TV조선 뉴스퍼레이드</a></p></td>
 <td><p>아침 7시 30분 ~ 8시 40분</p></td>
 </tr>
 <tr class="even">
@@ -259,9 +251,10 @@
 
 ## 같이 보기
 
+  - [TV조선2](https://ko.wikipedia.org/wiki/TV조선2 "wikilink")
   - [조선일보](../Page/조선일보.md "wikilink")
   - [JTBC](../Page/JTBC.md "wikilink")
-  - [종합편성채널](https://ko.wikipedia.org/wiki/종합편성채널 "wikilink")
+  - [대한민국의 종합편성채널](../Page/대한민국의_종합편성채널.md "wikilink")
 
 ## 해외 제휴 방송국
 
@@ -269,8 +262,9 @@
 
 ## 방송 사고
 
-  - [2011년](../Page/2011년.md "wikilink") [12월 1일](../Page/12월_1일.md "wikilink") : 개국 당일, 화면이 위, 아래 2개로 분할되어 나오는 블랙아웃 화면 상황이 몇 분 가량 있었다.\[6\]
-  - [2012년](../Page/2012년.md "wikilink") [1월 23일](../Page/1월_23일.md "wikilink") : 오후 9시 40분부터 [김수현](https://ko.wikipedia.org/wiki/김수현 "wikilink") 작가의 설연휴 특집극 3부작 ['아버지가 미안하다'](https://ko.wikipedia.org/wiki/'아버지가_미안하다' "wikilink") 1부\~3부를 연달아 방영했다. 하지만 일부지역에서 2부 중반부터 3부 중반까지 화면이 검게 나오거나 소리가 나오다가 끊기는 현상이 발생하였고, 이에 방송사 측은 3부 중반에 가서야 사과문을 보내고 24일에 재방송을 한다는 자막을 내보냈다.
+  - [2011년](../Page/2011년.md "wikilink") [12월 1일](../Page/12월_1일.md "wikilink") : 개국 당일, 화면이 위, 아래 2개로 분할되어 나오는 블랙아웃 화면 상황이 몇 분 가량 있었다.\[7\]
+  - [2012년](../Page/2012년.md "wikilink") [1월 23일](../Page/1월_23일.md "wikilink") : 오후 9시 40분부터 [김수현](https://ko.wikipedia.org/wiki/김수현 "wikilink") 작가의 설연휴 특집극 3부작 [아버지가 미안하다](../Page/아버지가_미안하다.md "wikilink") 1부\~3부를 연달아 방영했다. 하지만 일부지역에서 2부 중반부터 3부 중반까지 화면이 검게 나오거나 소리가 나오다가 끊기는 현상이 발생하였고, 이에 방송사 측은 3부 중반에 사과문을 보내고 24일에 재방송을 한다는 자막을 내보냈다.
+  - 중학생이 전광판의 시스템을 뚫어 '조선일보 전광판 중학생한테 뚫렸죠?ㅋㅋㅋ'라는 문구를 보인 적이 있다. 이후 복구되었다.
 
 ## 각주
 
@@ -282,7 +276,8 @@
 
 1.
 2.
-3.
-4.  일부 교양 · 예능 · 드라마 프로그램은 제공자막 표시는 광고주만 나오지 않는다.
-5.  본방송 이후부터 프로그램 재방송, IPTV, VOD 서비스 등의 표시가 나오지 않는다.
-6.
+3.  일부 교양 · 예능 · 드라마 프로그램은 제공자막 표시는 광고주만 나오지 않는다.
+4.  본방송 이후부터 프로그램 재방송, IPTV, VOD 서비스 등의 표시가 나오지 않는다.
+5.  [EBS](https://ko.wikipedia.org/wiki/EBS "wikilink")와 각 [방송사 자료](https://ko.wikipedia.org/wiki/:en:Broadcast_syndication "wikilink")
+6.  [온에어](https://ko.wikipedia.org/wiki/온에어 "wikilink"), [OTT 서비스](../Page/OTT_서비스.md "wikilink") 등의 [저작권](../Page/저작권.md "wikilink") 관계로 시청이 불가능한다.
+7.

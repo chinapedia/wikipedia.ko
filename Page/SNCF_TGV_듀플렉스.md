@@ -71,7 +71,7 @@
 
 ### SNCF TGV 듀플렉스 대시
 
-[섬네일의](https://ko.wikipedia.org/wiki/파일:SNCF_OUIGO_TGV_Dasye_761_Marseilles_-_Paris.jpg "wikilink") TGV 듀플렉스 대시\]\] **SNCF TGV 듀플렉스 대시**()는 듀플렉스 [비동기 전송 방식](../Page/비동기_전송_방식.md "wikilink") ERTMS의 줄인말이다. 이 열차는 기존의 듀플렉스 모델과 동일하나 내부 디자인이 변경되었다.
+[섬네일의](https://ko.wikipedia.org/wiki/파일:SNCF_OUIGO_TGV_Dasye_761_Marseille_-_Paris.jpg "wikilink") TGV 듀플렉스 대시\]\] **SNCF TGV 듀플렉스 대시**()는 듀플렉스 [비동기 전송 방식](../Page/비동기_전송_방식.md "wikilink") ERTMS의 줄인말이다. 이 열차는 기존의 듀플렉스 모델과 동일하나 내부 디자인이 변경되었다.
 
 모든 열차는 700번대로 부여되었다. [TGV POS와](../Page/SNCF_TGV_POS.md "wikilink") 동일한 유형의 모터가 장착된 새로운 파워 트레인의 특징으로 ERTMS가 탑재되었다. [2006년](../Page/2006년.md "wikilink")에 701호가 최초로 도입되었고 레조 듀플렉스 619호와 시운전을 위해 도입했다. 시운전 후 [2008년](../Page/2008년.md "wikilink") [2월](../Page/2월.md "wikilink")부터 최초로 운행에 들어갔다.
 

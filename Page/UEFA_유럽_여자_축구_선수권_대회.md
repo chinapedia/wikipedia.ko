@@ -28,37 +28,37 @@
 </p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/홈_앤_어웨이" title="wikilink">홈 앤 어웨이</a> 방식으로 개최</p></td>
 <td><p><strong></strong></p></td>
-<td><p><strong>1 : 0</strong><br />
-<strong>0 : 1</strong><br />
-(<a href="../Page/승부차기.md" title="wikilink">승부차기</a> 4 : 3)</p></td>
+<td><p><strong>1 – 0</strong><br />
+<strong>0 – 1</strong><br />
+(<a href="../Page/승부차기.md" title="wikilink">승부차기</a> 4 – 3)</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/1987년.md" title="wikilink">1987년</a><br />
 </p></td>
 <td></td>
 <td><p><strong></strong></p></td>
-<td><p><strong>2 : 1</strong></p></td>
+<td><p><strong>2 – 1</strong></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/1989년.md" title="wikilink">1989년</a><br />
 </p></td>
 <td></td>
 <td><p><strong></strong></p></td>
-<td><p><strong>4 : 1</strong></p></td>
+<td><p><strong>4 – 1</strong></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/1991년.md" title="wikilink">1991년</a><br />
 </p></td>
 <td></td>
 <td><p><strong></strong></p></td>
-<td><p><strong>3 : 1</strong> (<a href="../Page/연장전.md" title="wikilink">연장</a>)</p></td>
+<td><p><strong>3 – 1</strong> (<a href="../Page/연장전.md" title="wikilink">연장</a>)</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/1993년.md" title="wikilink">1993년</a><br />
 </p></td>
 <td></td>
 <td><p><strong></strong></p></td>
-<td><p><strong>1 : 0</strong></p></td>
+<td><p><strong>1 – – 0</strong></p></td>
 </tr>
 <tr class="odd">
 <td><p>|연도</p></td>
@@ -71,7 +71,7 @@
 </p></td>
 <td></td>
 <td><p><strong></strong></p></td>
-<td><p><strong>3 : 2</strong></p></td>
+<td><p><strong>3 – 2</strong></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/1997년.md" title="wikilink">1997년</a><br />
@@ -79,49 +79,49 @@
 <td><p>&amp;<br />
 </p></td>
 <td><p><strong></strong></p></td>
-<td><p><strong>2 : 0</strong></p></td>
+<td><p><strong>2 – 0</strong></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/2001년.md" title="wikilink">2001년</a><br />
 </p></td>
 <td></td>
 <td><p><strong></strong></p></td>
-<td><p><strong>1 : 0</strong> (<a href="https://ko.wikipedia.org/wiki/골든골" title="wikilink">골든골</a>)</p></td>
+<td><p><strong>1 – 0</strong> (<a href="https://ko.wikipedia.org/wiki/골든골" title="wikilink">골든골</a>)</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/2005년.md" title="wikilink">2005년</a><br />
 </p></td>
 <td></td>
 <td><p><strong></strong></p></td>
-<td><p><strong>3 : 1</strong></p></td>
+<td><p><strong>3 – 1</strong></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/2009년.md" title="wikilink">2009년</a><br />
 </p></td>
 <td></td>
 <td><p><strong></strong></p></td>
-<td><p><strong>6 : 2</strong></p></td>
+<td><p><strong>6 – 2</strong></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/2013년.md" title="wikilink">2013년</a><br />
 </p></td>
 <td></td>
 <td><p><strong></strong></p></td>
-<td><p><strong>1 : 0</strong></p></td>
+<td><p><strong>1 – 0</strong></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/2017년.md" title="wikilink">2017년</a><br />
 </p></td>
 <td></td>
 <td><p><strong></strong></p></td>
-<td><p><strong>4 : 2</strong></p></td>
+<td><p><strong>4 – 2</strong></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/2021년.md" title="wikilink">2021년</a><br />
 </p></td>
 <td></td>
 <td><p><strong></strong></p></td>
-<td><p><strong>? : ?</strong></p></td>
+<td><p><strong>? – ?</strong></p></td>
 </tr>
 </tbody>
 </table>
@@ -250,7 +250,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/UEFA_여자_유로_2005.md" title="wikilink">UEFA 여자 유로 2005</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/안네_매키넨" title="wikilink">안네 매키넨</a></p></td>
+<td><p><a href="../Page/안네_매키넨.md" title="wikilink">안네 매키넨</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/UEFA_여자_유로_2009.md" title="wikilink">UEFA 여자 유로 2009</a></p></td>

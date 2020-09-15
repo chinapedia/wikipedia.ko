@@ -15,7 +15,7 @@
 | 6월 21일  | [마리오와 소닉 런던 올림픽](../Page/마리오와_소닉_런던_올림픽.md "wikilink")                                                                          | 닌텐도               | 한국어 | O                                                |
 | 7월 12일  | [슈퍼 포켓몬 대격돌](../Page/슈퍼_포켓몬_대격돌.md "wikilink")                                                                                  | 포켓몬               | 한국어 | X                                                |
 | 8월 30일  | [스타폭스 64 3D](../Page/스타폭스_64_3D.md "wikilink")                                                                                  | 닌텐도               | 한국어 | X                                                |
-| 9월 14일  | [열혈경파 쿠니오군 스페셜](https://ko.wikipedia.org/wiki/열혈경파_쿠니오군_스페셜 "wikilink")                                                         | 사이버 프론트 코리아       | 한국어 | O                                                |
+| 9월 14일  | [열혈경파 쿠니오군 스페셜](../Page/열혈경파_쿠니오군_스페셜.md "wikilink")                                                                            | 사이버 프론트 코리아       | 한국어 | O                                                |
 | 9월 20일  | [바이오하자드 레벨레이션스](https://ko.wikipedia.org/wiki/바이오하자드_레벨레이션스 "wikilink")                                                         | 닌텐도               | 한국어 | O                                                |
 | 9월 27일  | [젤다의 전설 시간의 오카리나 3D](../Page/젤다의_전설_시간의_오카리나_3D.md "wikilink") (패키지/DL)                                                         | 닌텐도               | 한국어 | X                                                |
 | 10월 18일 | [nintendogs + cats](https://ko.wikipedia.org/wiki/nintendogs_+_cats "wikilink") (패키지/DL)                                        | 닌텐도               | 한국어 | O                                                |
@@ -65,7 +65,7 @@
 | 10월 11일 | [Slitherlink By Nikoli](https://ko.wikipedia.org/wiki/Slitherlink_By_Nikoli "wikilink")(DL)                            | Hamster Corporation      | 영어     | \-                                               |
 | 10월 11일 | [Bike Rider DX](https://ko.wikipedia.org/wiki/Bike_Rider_DX "wikilink")(DL)                                            | Spicysoft                | 영어     | \-                                               |
 | 10월 12일 | [포켓몬스터 X·Y](../Page/포켓몬스터_X·Y.md "wikilink") (전세계 동시기 발매)                                                              | 닌텐도                      | 멀티 랭귀지 | O                                                |
-| 10월 24일 | [역전재판 5](https://ko.wikipedia.org/wiki/역전재판_5 "wikilink")(DL)                                                          | 캡콤                       | 영어     | \-                                               |
+| 10월 24일 | [역전재판 5](../Page/역전재판_5.md "wikilink")(DL)                                                                             | 캡콤                       | 영어     | \-                                               |
 | 11월 9일  | [진 여신전생 IV](https://ko.wikipedia.org/wiki/진_여신전생_IV "wikilink")(패키지/DL)                                                | 닌텐도/아틀러스                 | 한국어    | O                                                |
 | 11월 26일 | [Heyawake By Nikoli](https://ko.wikipedia.org/wiki/Heyawake_By_Nikoli "wikilink")(DL)                                  | Hamster Corporation      | 영어     | \-                                               |
 | 11월 27일 | [닌텐도 3DS 가이드 루브르 박물관](https://ko.wikipedia.org/wiki/닌텐도_3DS_가이드_루브르_박물관 "wikilink")(DL)                                | 닌텐도                      | 한국어    | \-                                               |
@@ -92,7 +92,7 @@
 | 3월 26일  | [Witch & Hero](https://ko.wikipedia.org/wiki/Witch_&_Hero "wikilink")(DL)                                                   | Flying Works        | 일본어            | \-                                               |
 | 4월 2일   | [WAKEDAS](https://ko.wikipedia.org/wiki/WAKEDAS "wikilink")(DL)                                                             | Flying Works        | 영어             | \-                                               |
 | 4월 16일  | [BRAVELY DEFAULT - FOR THE SEQUEL](https://ko.wikipedia.org/wiki/BRAVELY_DEFAULT_-_FOR_THE_SEQUEL "wikilink")(DL)           | 스퀘어 에닉스             | 멀티 랭귀지(한국어 제외) | O                                                |
-| 4월 17일  | [별의 커비 트리플 디럭스](https://ko.wikipedia.org/wiki/별의_커비_트리플_디럭스 "wikilink")(패키지/DL)                                             | 닌텐도/HAL Laboratory  | 한국어            | X                                                |
+| 4월 17일  | [별의 커비 트리플 디럭스](../Page/별의_커비_트리플_디럭스.md "wikilink")(패키지/DL)                                                                | 닌텐도/HAL Laboratory  | 한국어            | X                                                |
 | 4월 30일  | [Disney Magical World](https://ko.wikipedia.org/wiki/Disney_Magical_World "wikilink")(DL)                                   | 반다이 남코 게임즈          | 영어             | O                                                |
 | 5월 1일   | [마리오 골프 월드 투어](https://ko.wikipedia.org/wiki/마리오_골프_월드_투어 "wikilink")                                                       | 닌텐도                 | 한국어            | O                                                |
 | 5월 28일  | [달구네 스포츠 야구편](https://ko.wikipedia.org/wiki/달구네_스포츠_야구편 "wikilink")                                                         | 닌텐도                 | 한국어            | \-                                               |
@@ -146,7 +146,7 @@
 | 11월 26일 | [요괴워치](../Page/요괴워치.md "wikilink")                                                                                                   | 닌텐도/Level-5            | 한국어 | \-                                               |
 | 12월 10일 | [프로젝트 크로스 존 2: 브레이브 뉴 월드](https://ko.wikipedia.org/wiki/프로젝트_크로스_존_2:_브레이브_뉴_월드 "wikilink")                                          | 반다이 남코 엔터테인먼트          | 한국어 | \-                                               |
 | 12월 17일 | [목장이야기 Story Of Seasons](https://ko.wikipedia.org/wiki/목장이야기_Story_Of_Seasons "wikilink")                                            | 닌텐도/마벨러스\!             | 한국어 | \-                                               |
-| 12월 29일 | [열혈경파 쿠니오군 SP 난투협주곡](https://ko.wikipedia.org/wiki/열혈경파_쿠니오군_SP_난투협주곡 "wikilink")                                                    | 신세계아이앤씨/아크 시스템 웍스      | 한국어 | \-                                               |
+| 12월 29일 | [열혈경파 쿠니오군 SP 난투협주곡](../Page/열혈경파_쿠니오군_SP_난투협주곡.md "wikilink")                                                                       | 신세계아이앤씨/아크 시스템 웍스      | 한국어 | \-                                               |
 
 ## 2016년 발매작
 
@@ -178,7 +178,7 @@
 | 8월 3일   | [Shift DX](https://ko.wikipedia.org/wiki/Shift_DX "wikilink") (DL)                                                               | COSEN                   | 일본어                                    | \-                                               |
 | 8월 24일  | [BOXBOY\!](https://ko.wikipedia.org/wiki/BOXBOY! "wikilink") (DL)                                                                | HAL Laboratory          | 영어                                     | \-                                               |
 | 9월 8일   | [파이어 엠블럼 If](https://ko.wikipedia.org/wiki/파이어_엠블럼_If "wikilink")                                                                | 닌텐도/인텔리전트 시스템           | 한국어                                    | \-                                               |
-| 9월 8일   | Phoenix Wright: Ace Attorney - Sprit of Justice ([역전재판 6](https://ko.wikipedia.org/wiki/역전재판_6 "wikilink")) (DL)                 | 캡콤                      | 영어                                     | \-                                               |
+| 9월 8일   | Phoenix Wright: Ace Attorney - Sprit of Justice ([역전재판 6](../Page/역전재판_6.md "wikilink")) (DL)                                    | 캡콤                      | 영어                                     | \-                                               |
 | 9월 21일  | [Dragon Quest VII: Fragments of the Forgotten Past](https://ko.wikipedia.org/wiki/드래곤_퀘스트_VII "wikilink") (DL)                   | 스퀘어 에닉스                 | 영어                                     | \-                                               |
 | 9월 29일  | [레고® 스타워즈™: 깨어난 포스](https://ko.wikipedia.org/wiki/레고_스타워즈:_깨어난_포스 "wikilink")                                                    | 닌텐도                     | \-                                     | \-                                               |
 | 10월 19일 | [BOXBOXBOY\!](https://ko.wikipedia.org/wiki/BOXBOXBOY! "wikilink") (DL)                                                          | HAL Laboratory          | 영어                                     | \-                                               |

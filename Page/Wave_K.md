@@ -156,7 +156,7 @@ My Name, <a href="../Page/씨리얼_(음악_그룹).md" title="wikilink">C-REAL<
 </tr>
 <tr class="odd">
 <td><p>21회</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2월_26일" title="wikilink">2월 26일</a></p></td>
+<td><p><a href="../Page/2월_26일.md" title="wikilink">2월 26일</a></p></td>
 <td><p><a href="../Page/쇼콜라_(음악_그룹).md" title="wikilink">쇼콜라</a>, 브라이언, <a href="../Page/써니힐.md" title="wikilink">써니힐</a>, <a href="../Page/B.A.P.md" title="wikilink">BAP</a><br />
 브레이브걸스, <a href="https://ko.wikipedia.org/wiki/에일리_(1989년)" title="wikilink">에일리</a>, 달샤벳, 퍼스트, 레드애플</p></td>
 </tr>
